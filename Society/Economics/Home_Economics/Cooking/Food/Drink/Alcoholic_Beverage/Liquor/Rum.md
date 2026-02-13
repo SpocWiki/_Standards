@@ -1,29 +1,167 @@
 ---
-has_time_started: 1500-01-01 
+has_time_started: 1500-01-01
 aliases:
+- drikken rom
+- rhomium
+- rhum
+- rom
+- romas
+- Romm
+- rommi
+- ron
+- rum
+- rumm
+- rumo
+- rums
+- Ròm
+- Rượu Rum
+- Rỳm
+- Wonm
+- ρούμι
+- ром
+- Рум
+- Ռոմ
+- ראם
+- רום
+- رام
+- رم
+- روم
+- रम
+- রাম (পানীয়)
+- ਰਮ
+- ரம்
+- రం
+- റം
+- รัม
+- ရမ်
+- რომი
+- ラム酒
+- 兰姆酒
+- 冧酒
+- 朗姆酒
+- 蘭姆酒
+- 럼
 has_id_wikidata: Q83376
-different_from: "[[_Standards/WikiData/WD~Rum,359438]]"
-country_of_origin: "[[_Standards/WikiData/WD~Caribbean,664609]]"
+different_from: '[[_Standards/WikiData/WD~Rum,359438]]'
+country_of_origin: '[[_Standards/WikiData/WD~Caribbean,664609]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-made_from_material: "[[_Standards/WikiData/WD~Saccharum_afficinarum,3391243]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+made_from_material: '[[_Standards/WikiData/WD~Saccharum_afficinarum,3391243]]'
 alcohol_by_volume: 40
-fabrication_method: "[[_Standards/WikiData/WD~fermentation,41760]]"
-subclass_of: "[[_Standards/WikiData/WD~liquor,56139]]"
+fabrication_method: '[[_Standards/WikiData/WD~fermentation,41760]]'
+subclass_of: '[[_Standards/WikiData/WD~liquor,56139]]'
 Commons_category: Rum
-OmegaWiki_Defined_Meaning: "1283512"
-2022_Harmonized_System_Code: "220840"
+OmegaWiki_Defined_Meaning: 1283512
+2022_Harmonized_System_Code: 220840
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ron-Zacapa-XO.jpg
-Amazon_com_browse_node: "15158359011"
-Dewey_Decimal_Classification: "641.259"
+Amazon_com_browse_node: 15158359011
+Dewey_Decimal_Classification: 641.259
 inception: 1500-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Rum
+    an: Ron
+    ar: رم
+    arz: روم
+    ast: ron
+    az: Rom
+    ban: Rum
+    be: Ром
+    be-tarask: Ром
+    bg: Ром
+    bn: রাম (পানীয়)
+    br: Rom
+    bs: Rum
+    ca: rom
+    cs: rum
+    cv: Ром
+    cy: Rỳm
+    da: rom
+    de: Rum
+    el: ρούμι
+    en: rum
+    eo: rumo
+    es: ron
+    et: rumm
+    eu: ron
+    fa: رام
+    fi: rommi
+    fo: Romm
+    fr: rhum
+    frr: rum
+    ga: rum
+    gl: ron
+    he: רום
+    hi: रम
+    hr: rum
+    ht: Wonm
+    hu: rum
+    hy: Ռոմ
+    hyw: Ռոմ
+    id: Rum
+    io: rumo
+    is: romm
+    it: rum
+    ja: ラム酒
+    jv: Rum
+    ka: რომი
+    kk: Ром
+    ko: 럼
+    kw: romm
+    la: rhomium
+    lb: Rum
+    lt: romas
+    lv: rums
+    mk: Рум
+    ml: റം
+    ms: Rum
+    my: ရမ်
+    nan: Rum
+    nb: rom
+    nl: rum
+    nn: drikken rom
+    oc: rom
+    pa: ਰਮ
+    pap: Ròm
+    pl: rum
+    pt: rum
+    ro: rom
+    ru: ром
+    rue: Ром
+    sah: Ром
+    scn: Rhum
+    sh: Rum
+    sk: rum
+    sl: rum
+    sq: Rum
+    sr: рум
+    sv: rom
+    ta: ரம்
+    te: రం
+    th: รัม
+    tr: rom
+    uk: ром
+    uz: Rom
+    vi: Rượu Rum
+    wuu: 朗姆酒
+    xmf: რომი
+    yi: ראם
+    yue: 冧酒
+    zh: 兰姆酒
+    zh-cn: 朗姆酒
+    zh-hans: 朗姆酒
+    zh-hant: 蘭姆酒
+    zh-hk: 冧酒
+    zh-mo: 蘭姆酒
+    zh-my: 兰姆酒
+    zh-sg: 兰姆酒
+    zh-tw: 蘭姆酒
 ---
-
 # [[Rum]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Rum,83376|WD~Rum,83376]]  

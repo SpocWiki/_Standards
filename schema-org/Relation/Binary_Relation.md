@@ -1,57 +1,203 @@
 ---
 aliases:
-  - Binäre Relation
-  - dyadic relation
-  - Binary_Relation
-  - Binary Relation
-  - Relation~binary
+- Assaɣ imisin
+- binaarne seos
+- binarna relacija
+- binarne relacije
+- Binary Relation
+- Binary_Relation
+- bináris reláció
+- Binárna relácia
+- binární relace
+- binär relation
+- binär Relatioun
+- Binäre Relation
+- binäärirelaatio
+- binær relasjon
+- binær relation
+- binêre verhouding
+- coibhneas dénártha
+- darempred binarel
+- duvalenta rilato
+- dyadic relation
+- erlazio bitar
+- hubungan dedua
+- ikili ilişki
+- perthynas ddeuaidd
+- quan hệ hai ngôi
+- relacion binar
+- relacion binària
+- relació binària
+- relación binaria
+- relacja dwuargumentowa
+- Relasi biner
+- Relassion binaria
+- relata binaria
+- relatio binaria
+- relation binaire
+- Relation binari
+- Relation~binary
+- Relazion binaria
+- relazione binaria
+- relação binária
+- relație binară
+- rellación binaria
+- rełasion binària
+- tweeplaatsige relatie
+- Δυαδική σχέση
+- бінарнае дачыненне
+- бінарнае дачыненьне
+- бінарне відношення
+- бинар мөнәсәбәт
+- Бинарлă тивĕм
+- бинарна релација
+- Бинарна релация
+- бинарное отношение
+- двоичен однос
+- муносибати бинарӣ
+- Հարաբերություններ
+- יחס
+- تثنیہ تعلق
+- رابطه دوتایی
+- علاقة ثنائية
+- هوبوڠن ددوا
+- द्वयी सम्बन्ध
+- দ্বিমিক সম্পর্ক
+- দ্বৈত সম্বন্ধ
+- ஈருறுப்பு உறவு
+- 二元关系
+- 二元關係
+- 二項関係
+- 關係
+- 이항 관계
 has_id_wikidata: Q130901
-part_of: "[[_Standards/WikiData/WD~Cartesian_product,173740]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~ordered_pair,191290]]"
+part_of: '[[_Standards/WikiData/WD~Cartesian_product,173740]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~ordered_pair,191290]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~codomain,199006]]"
-  - "[[_Standards/WikiData/WD~arity,1315869]]"
-  - "[[_Standards/WikiData/WD~input_set,18720436]]"
-subclass_of: "[[_Standards/WikiData/WD~relation,203066]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Binary_relations,22722987]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
+- '[[_Standards/WikiData/WD~codomain,199006]]'
+- '[[_Standards/WikiData/WD~arity,1315869]]'
+- '[[_Standards/WikiData/WD~input_set,18720436]]'
+subclass_of: '[[_Standards/WikiData/WD~relation,203066]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Binary_relations,22722987]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi><mo stretchy="false">&#x2286;</mo><mi>A</mi><mo stretchy="false">&#x00D7;</mo><mi>B</mi></mstyle></mrow></math>
 IEV_number: 102-01-07
 Commons_category: Binary relations
 in_defining_formula:
-  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi></mstyle></mrow></math>
-  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>B</mi></mstyle></mrow></math>
-  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
+- <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>R</mi></mstyle></mrow></math>
+- <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>B</mi></mstyle></mrow></math>
+- <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
 described_at_URL:
-  - https://www.geeksforgeeks.org/maths/binary-relation/
-  - https://web.stanford.edu/class/archive/cs/cs103/cs103.1198/lectures/06-BinaryRelationsI/Binary%20Relations.pdf
-  - https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session7.pdf
-  - https://math.libretexts.org/Courses/Mount_Royal_University/Higher_Arithmetic/2%3A_Binary_relations/2.1%3A_Binary_Relations
+- https://www.geeksforgeeks.org/maths/binary-relation/
+- https://web.stanford.edu/class/archive/cs/cs103/cs103.1198/lectures/06-BinaryRelationsI/Binary%20Relations.pdf
+- https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/mit6_042js15_session7.pdf
+- https://math.libretexts.org/Courses/Mount_Royal_University/Higher_Arithmetic/2%3A_Binary_relations/2.1%3A_Binary_Relations
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~binary_relation,130901]]"
-    - "[[_Standards/WikiData/WD~,]]"
-    - "[[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]]"
-    - "[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]"
-    - "[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]"
-    - "[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]"
-    - "[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]"
-    - "[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]"
-    - "[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]"
-    - "[[Binary_Relation]]"
+  - '[[_Standards/WikiData/WD~binary_relation,130901]]'
+  - '[[_Standards/WikiData/WD~,]]'
+  - '[[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]]'
+  - '[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]'
+  - '[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]'
+  - '[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]'
+  - '[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]'
+  - '[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]'
+  - '[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]'
+  - '[[Binary_Relation]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~binary_relation,130901]]"
-  - "[[_Standards/WikiData/WD~,]]"
-  - "[[Binary_Relation]]"
-  - "[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]"
-  - "[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]"
-  - "[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]"
-  - "[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]"
-  - "[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]"
-  - "[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]"
+- '[[_Standards/WikiData/WD~binary_relation,130901]]'
+- '[[_Standards/WikiData/WD~,]]'
+- '[[Binary_Relation]]'
+- '[[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]]'
+- '[[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]]'
+- '[[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]]'
+- '[[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]]'
+- '[[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]]'
+- '[[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]]'
+dv_has_:
+  name_:
+    af: binêre verhouding
+    ar: علاقة ثنائية
+    as: দ্বৈত সম্বন্ধ
+    ast: rellación binaria
+    ba: бинар мөнәсәбәт
+    be: бінарнае дачыненне
+    be-tarask: бінарнае дачыненьне
+    bg: Бинарна релация
+    bn: দ্বিমিক সম্পর্ক
+    br: darempred binarel
+    bs: binarna relacija
+    ca: relació binària
+    cs: binární relace
+    cv: Бинарлă тивĕм
+    cy: perthynas ddeuaidd
+    da: binær relation
+    de: binäre Relation
+    el: Δυαδική σχέση
+    en: binary relation
+    eo: duvalenta rilato
+    es: relación binaria
+    et: binaarne seos
+    eu: erlazio bitar
+    fa: رابطه دوتایی
+    fi: binäärirelaatio
+    fr: relation binaire
+    ga: coibhneas dénártha
+    gl: relación binaria
+    he: יחס
+    hi: द्वयी सम्बन्ध
+    hr: binarne relacije
+    hu: bináris reláció
+    hy: Հարաբերություններ
+    ia: Relation binari
+    id: Relasi biner
+    it: relazione binaria
+    ja: 二項関係
+    kab: Assaɣ imisin
+    ko: 이항 관계
+    la: relatio binaria
+    lb: binär Relatioun
+    lfn: relata binaria
+    lmo: Relazion binaria
+    lzh: 關係
+    mk: двоичен однос
+    ms: hubungan dedua
+    ms-arab: هوبوڠن ددوا
+    nb: binær relasjon
+    nl: tweeplaatsige relatie
+    nn: binær relasjon
+    oc: relacion binària
+    pl: relacja dwuargumentowa
+    pms: Relassion binaria
+    pt: relação binária
+    pt-br: relação binária
+    ro: relație binară
+    ru: бинарное отношение
+    sk: Binárna relácia
+    sl: binarna relacija
+    sq: relacion binar
+    sr: бинарна релација
+    sr-ec: Бинарна релација
+    sr-el: Binarna relacija
+    sv: binär relation
+    ta: ஈருறுப்பு உறவு
+    tg: муносибати бинарӣ
+    tr: ikili ilişki
+    tt: бинар мөнәсәбәт
+    tt-cyrl: бинар мөнәсәбәт
+    uk: бінарне відношення
+    ur: تثنیہ تعلق
+    vec: rełasion binària
+    vi: quan hệ hai ngôi
+    zh: 二元关系
+    zh-cn: 二元关系
+    zh-hans: 二元关系
+    zh-hant: 二元關係
+    zh-hk: 二元關係
+    zh-sg: 二元关系
+    zh-tw: 二元關係
 ---
-
 # [[Binary_Relation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~binary_relation,130901]]

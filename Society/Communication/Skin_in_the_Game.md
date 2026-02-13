@@ -1,4 +1,15 @@
-
+---
+has_id_wikidata: Q7535405
+dv_has_:
+  name_:
+    en: skin in the game
+    sl: koža v igri
+    uk: Шкура у грі
+aliases:
+- koža v igri
+- skin in the game
+- Шкура у грі
+---
 # [[Skin_in_the_Game]]
 
 #is_/similar_to :: [[Skin_in_the_Game/Eating_your_own_dog_food]] 

@@ -1,54 +1,123 @@
 ---
 aliases:
-  - Erbium
+- eirbiam
+- erb
+- erbi
+- Erbii
+- erbij
+- erbijs
+- Erbijum
+- Erbio
+- Erbiom
+- Erbis
+- erbiu
+- Erbium
+- Erbiumi
+- erbiwm
+- Erbiy
+- Erbiyo
+- Erbiyum
+- Erbiôma
+- erbju
+- Erbyo
+- Erbyu
+- Erbín
+- INdwembi
+- jinmrberbi
+- Ærbio
+- Èrbi
+- Èrbiu
+- érbio
+- Érbium
+- Ɛrbɩyɔm
+- έρβιο
+- ербій
+- ербијум
+- ербий
+- ербиум
+- эрб
+- эрбій
+- Эрби
+- эрбий
+- Эрбиум
+- Эрбиүм
+- էրբիում
+- ארביום
+- إربيوم
+- إيربيوم
+- ئێربیۆم
+- ئېربىي
+- اربيوم
+- اربیم
+- اېربيوم
+- عیربیئم
+- अर्बियम
+- एर्बियम
+- আরবিয়াম
+- ਅਬਰੀਅਮ
+- અર્બિયમ
+- ଏର୍ବିଅମ
+- எர்பியம்
+- ఇర్బియం
+- ಎರ್ಬಿಯಮ್
+- എർബിയം
+- เออร์เบียม
+- အာဘီယမ်
+- ერბიუმი
+- ኢርቢየም
+- エルビウム
+- 鉺
+- 铒
+- ꯑꯦꯔꯕꯤꯌꯝ
+- 어븀
 has_id_wikidata: Q1849
 atomic_number: 68
-canonical_SMILES: "[Er]"
+canonical_SMILES: '[Er]'
 CAS_Registry_Number: 7440-52-0
 chemical_formula: Er
 Commons_category: Erbium
 Commons_gallery: Erbium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
 DSSTOX_compound_identifier: DTXCID1047659
 EC_number: 231-160-1
 electronegativity: 1
 element_symbol: Er
 Gmelin_number: 16280
 has_use:
-  - "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
-  - "[[_Standards/WikiData/WD~Er_YAG_laser,2585799]]"
-  - "[[_Standards/WikiData/WD~Cryocooler,4241150]]"
-  - "[[_Standards/WikiData/WD~Glass_coloring_and_color_marking,8348044]]"
-  - "[[_Standards/WikiData/WD~alloy,37756]]"
+- '[[_Standards/WikiData/WD~nuclear_poison,221033]]'
+- '[[_Standards/WikiData/WD~Er_YAG_laser,2585799]]'
+- '[[_Standards/WikiData/WD~Cryocooler,4241150]]'
+- '[[_Standards/WikiData/WD~Glass_coloring_and_color_marking,8348044]]'
+- '[[_Standards/WikiData/WD~alloy,37756]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erbium.jpg
 InChI: InChI=1S/Er
 InChIKey: UYAHIZSMUZPPFV-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 1
-  - 0.89
+- 1
+- 0.89
 made_from_material:
-  - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
-  - "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
-  - "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
-  - "[[_Standards/WikiData/WD~monazite_sands,115626544]]"
+- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+- '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
+- '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
+- '[[_Standards/WikiData/WD~monazite_sands,115626544]]'
 mass: 167.259
 MeSH_tree_code:
-  - D01.268.558.362.437
-  - D01.552.550.399.437
-named_after: "[[_Standards/WikiData/WD~Ytterby_mine,631733]]"
+- D01.268.558.362.437
+- D01.552.550.399.437
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
 OmegaWiki_Defined_Meaning: 158202
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23980
 SpocWebEntityId: 21964
 time_of_discovery_or_invention: 1843
@@ -59,21 +128,168 @@ UNII: 77B218D3YE
 ZVG_number: 7680
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Erbium,1849]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Erbium|Erbium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Erbium.public|Erbium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Erbium.internal|Erbium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Erbium.protect|Erbium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Erbium.private|Erbium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Erbium.personal|Erbium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Erbium.secret|Erbium.secret]]"
-  part_of: "[[../Lanthanide]]"
+  - '[[../../../WikiData/WD~Erbium,1849]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Erbium|Erbium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Erbium.public|Erbium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Erbium.internal|Erbium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Erbium.protect|Erbium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Erbium.private|Erbium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Erbium.personal|Erbium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Erbium.secret|Erbium.secret]]'
+  part_of: '[[../Lanthanide]]'
 dv_has_:
   name_:
-    group: Lanthanide-Group
-    en: Erbium
-    de: Erbium
     abbreviated: Er
+    af: Erbium
+    am: ኢርቢየም
+    anp: एर्बियम
+    ar: إربيوم
+    ary: إيربيوم
+    arz: اربيوم
+    ast: erbiu
+    az: Erbium
+    ba: Эрбий
+    ban: Érbium
+    be: эрбій
+    be-tarask: эрб
+    bg: ербий
+    bho: अर्बियम
+    bn: আরবিয়াম
+    br: Erbiom
+    bs: erbij
+    ca: erbi
+    cdo: Erbium
+    ceb: Erbyo
+    ckb: ئێربیۆم
+    co: Erbiu
+    cs: erbium
+    cv: Эрби
+    cy: erbiwm
+    da: erbium
+    de: Erbium
+    el: έρβιο
+    en: erbium
+    en-gb: erbium
+    eo: erbio
+    es: erbio
+    et: Erbium
+    eu: erbio
+    fa: اربیم
+    fi: erbium
+    fr: erbium
+    frr: Erbium
+    fur: Erbi
+    ga: eirbiam
+    gd: Erbium
+    gl: Erbio
+    group: Lanthanide-Group
+    gu: અર્બિયમ
+    gv: erbium
+    hak: erbium
+    he: ארביום
+    hi: अर्बियम
+    hif: Erbium
+    hr: Erbij
+    hu: erbium
+    hy: էրբիում
+    ia: erbium
+    id: erbium
+    io: erbio
+    is: Erbín
+    it: erbio
+    ja: エルビウム
+    jbo: jinmrberbi
+    jv: Erbium
+    ka: ერბიუმი
+    kbp: Ɛrbɩyɔm
+    kk: Эрбий
+    kn: ಎರ್ಬಿಯಮ್
+    ko: 어븀
+    kv: Эрбий
+    kw: Erbiom
+    ky: Эрбий
+    la: erbium
+    lb: Erbium
+    lfn: erbio
+    li: Erbium
+    lij: Ærbio
+    lt: Erbis
+    lv: erbijs
+    lzh: 鉺
+    mg: Erbiôma
+    mk: ербиум
+    ml: എർബിയം
+    mn: эрби
+    mni: ꯑꯦꯔꯕꯤꯌꯝ
+    mr: अर्बियम
+    mrj: Эрбий
+    ms: Erbium
+    mt: erbju
+    my: အာဘီယမ်
+    nan: Erbium
+    nb: erbium
+    ne: अर्बियम
+    new: अर्बियम
+    nl: erbium
+    nn: erbium
+    nov: Erbium
+    oc: Èrbi
+    olo: Erbii
+    or: ଏର୍ବିଅମ
+    os: эрбий
+    pa: ਅਬਰੀਅਮ
+    pi: अर्बियम
+    pl: erb
+    pms: Erbio
+    pnb: اربیم
+    ps: اېربيوم
+    pt: érbio
+    pt-br: érbio
+    qu: Erbyu
+    ro: erbiu
+    ru: эрбий
+    rup: Erbiu
+    sa: अर्बियम
+    sah: Эрбиум
+    sc: Èrbiu
+    scn: erbiu
+    sh: Erbijum
+    sk: erbium
+    sl: erbij
+    sq: Erbiumi
+    sr: ербијум
+    sr-ec: Ербијум
+    stq: Erbium
+    sv: erbium
+    ta: எர்பியம்
+    te: ఇర్బియం
+    tg: эрбий
+    th: เออร์เบียม
+    tl: Erbiyo
+    tr: Erbiyum
+    tt: Эрбий
+    ug: ئېربىي
+    uk: ербій
+    ur: عیربیئم
+    uz: Erbiy
+    vep: Erbii
+    vi: erbi
+    war: Erbyo
+    wuu: 铒
+    xal: Эрбиүм
+    yo: Erbium
+    yue: 鉺
+    zh: 鉺
+    zh-cn: 铒
+    zh-hans: 铒
+    zh-hant: 鉺
+    zh-hk: 鉺
+    zh-tw: 鉺
+    zu: INdwembi
+  number_of_:
+    period: 6
+    group: 34
+    electrons: 68
   value_for_:
     weight_:
       u: 167.26
@@ -101,21 +317,17 @@ dv_has_:
       form_:
         kj_:
           mol: 261
-  number_of_:
-    period: 6
-    group: 34
-    electrons: 68
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Erbium,1849]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Erbium|Erbium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Erbium.public|Erbium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Erbium.internal|Erbium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Erbium.protect|Erbium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Erbium.private|Erbium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Erbium.personal|Erbium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Erbium.secret|Erbium.secret]]"
+- '[[../../../WikiData/WD~Erbium,1849]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Erbium|Erbium]]'
+- '[[/_public/Chemistry/Chemical_Element/Lanthanide/Erbium.public|Erbium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Erbium.internal|Erbium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Erbium.protect|Erbium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Lanthanide/Erbium.private|Erbium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Erbium.personal|Erbium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Erbium.secret|Erbium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: "[[../Lanthanide]]"
+dv_is_part_of: '[[../Lanthanide]]'
 dv_has_name_en: Erbium
 dv_has_name_de: Erbium
 dv_has_value_for_weight_u: 167.26
@@ -136,7 +348,6 @@ dv_has_number_of_group: 34
 dv_has_name_abbreviated: Er
 dv_has_number_of_electrons: 68
 ---
-
 #is_/same_as :: [[../../../WikiData/WD~Erbium,1849]] 
 
 

@@ -1,28 +1,53 @@
 ---
 aliases:
-  - Emiliano_Zapata
-  - Emiliano Zapata Salazar
-  - Emiliano Zapata
-  - Zapata
-  - Zapata,Emiliano
+- Aemilianus Zapata
+- Emiliano Zapata
+- Emiliano Zapata Salazar
+- Emiliano_Zapata
+- Emiljano Sapata
+- Zapata
+- Zapata,Emiliano
+- Εμιλιάνο Ζαπάτα
+- Еміліано Сапата
+- Емилијано Запата
+- Емилијано Сапата
+- Емилиано Сапата
+- Эміліяна Сапата
+- Эмилиано Сапата
+- Սապատա
+- אמיליאנו ספאטה
+- إيمليانو زاباتا
+- ئێمیلیانۆ ساپاتا
+- امیلیانو زاپاتا
+- امیلیانو ساپاتا
+- ايمليانو زاباتا
+- ايميليانو زاپاٽا
+- ایمیلیانو زپاٹا
+- এমিলিয়ানো সাপাতা
+- എമിലിയാനൊ സപാത്ത
+- เอมิเลียโน ซาปาตา
+- ემილიანო საპატა
+- エミリアーノ・サパタ
+- 埃米利亚诺·萨帕塔
+- 에밀리아노 사파타
 has_id_wikidata: Q41718
 Wolfram_Language_entity_code:
-  - Entity["Concept", "EmilianoZapata::jwr8y"]
-  - Entity["Person", "EmilianoZapata::w322f"]
+- Entity["Concept", "EmilianoZapata::jwr8y"]
+- Entity["Person", "EmilianoZapata::w322f"]
 date_of_death: 1919-04-10T00:00:00Z
 place_of_death: '[[_Standards/WikiData/WD~Morelos,66117]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 occupation:
-  - '[[_Standards/WikiData/WD~farmer,131512]]'
-  - '[[_Standards/WikiData/WD~partisan,212948]]'
-  - '[[_Standards/WikiData/WD~revolutionary,3242115]]'
+- '[[_Standards/WikiData/WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~partisan,212948]]'
+- '[[_Standards/WikiData/WD~revolutionary,3242115]]'
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Salazar,1158459]]'
 sibling: '[[_Standards/WikiData/WD~Eufemio_Zapata,1372344]]'
 place_of_birth: '[[_Standards/WikiData/WD~Q1813041,1813041]]'
 military_branch:
-  - '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
-  - '[[_Standards/WikiData/WD~cavalry,47315]]'
+- '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
+- '[[_Standards/WikiData/WD~cavalry,47315]]'
 allegiance: '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
 commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Liberation_Army_of_the_South,1865323]]'
 cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
@@ -32,9 +57,9 @@ facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
 different_from: '[[_Standards/WikiData/WD~Emiliano_Zapata,14214969]]'
 family_name: '[[_Standards/WikiData/WD~Zapata,17042499]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-  - '[[_Standards/WikiData/WD~Q130443388,130443388]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[_Standards/WikiData/WD~Q130443388,130443388]]'
 given_name: '[[_Standards/WikiData/WD~Emiliano,19830577]]'
 place_of_burial: '[[_Standards/WikiData/WD~Plaza_Revolución_del_Sur,107675052]]'
 spouse: '[[_Standards/WikiData/WD~Josefa_Espejo_Sánchez,109321050]]'
@@ -49,8 +74,89 @@ name_in_native_language: Emiliano Zapata Salazar
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Emiliano%20Zapata%20signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Emiliano%20Zapata4.jpg
 ISNI: 0000000081056014
+dv_has_:
+  name_:
+    ar: إيمليانو زاباتا
+    arz: ايمليانو زاباتا
+    ast: Emiliano Zapata
+    avk: Emiliano Zapata
+    ay: Emiliano Zapata
+    az: Emiliano Zapata
+    be: Эміліяна Сапата
+    bg: Емилиано Сапата
+    bn: এমিলিয়ানো সাপাতা
+    bs: Emiliano Zapata
+    ca: Emiliano Zapata
+    ckb: ئێمیلیانۆ ساپاتا
+    cs: Emiliano Zapata
+    cy: Emiliano Zapata
+    da: Emiliano Zapata
+    dag: Emiliano Zapata
+    de: Emiliano Zapata
+    el: Εμιλιάνο Ζαπάτα
+    en: Emiliano Zapata
+    eo: Emiliano Zapata
+    es: Emiliano Zapata
+    eu: Emiliano Zapata
+    fa: امیلیانو ساپاتا
+    fi: Emiliano Zapata
+    fr: Emiliano Zapata
+    ga: Emiliano Zapata
+    gl: Emiliano Zapata
+    he: אמיליאנו ספאטה
+    hr: Emiliano Zapata
+    hu: Emiliano Zapata
+    hy: Սապատա
+    id: Emiliano Zapata
+    io: Emiliano Zapata
+    is: Emiliano Zapata
+    it: Emiliano Zapata
+    ja: エミリアーノ・サパタ
+    jv: Emiliano Zapata
+    ka: ემილიანო საპატა
+    ko: 에밀리아노 사파타
+    ku: Emiliano Zapata
+    la: Aemilianus Zapata
+    li: Emiliano Zapata
+    lt: Emiliano Zapata
+    lv: Emiljano Sapata
+    mg: Emiliano Zapata
+    mk: Емилијано Сапата
+    ml: എമിലിയാനൊ സപാത്ത
+    ms: Emiliano Zapata
+    mul: Emiliano Zapata
+    mzn: امیلیانو زاپاتا
+    nah: Emiliano Zapata
+    nb: Emiliano Zapata
+    nl: Emiliano Zapata
+    nn: Emiliano Zapata
+    oc: Emiliano Zapata
+    pl: Emiliano Zapata
+    ps: امیلیانو زاپاتا
+    pt: Emiliano Zapata
+    pt-br: Emiliano Zapata
+    qu: Emiliano Zapata
+    ro: Emiliano Zapata
+    ru: Эмилиано Сапата
+    sco: Emiliano Zapata
+    sd: ايميليانو زاپاٽا
+    sh: Emiliano Zapata
+    sk: Emiliano Zapata
+    sl: Emiliano Zapata
+    sq: Emiliano Zapata
+    sr: Емилијано Запата
+    sv: Emiliano Zapata
+    th: เอมิเลียโน ซาปาตา
+    tl: Emiliano Zapata
+    tr: Emiliano Zapata
+    uk: Еміліано Сапата
+    ur: ایمیلیانو زپاٹا
+    vi: Emiliano Zapata
+    war: Emiliano Zapata
+    wuu: 埃米利亚诺·萨帕塔
+    xmf: ემილიანო საპატა
+    zh: 埃米利亚诺·萨帕塔
 ---
-
 # [[Zapata,Emiliano]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Emiliano_Zapata,41718]] 

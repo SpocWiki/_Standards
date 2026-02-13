@@ -1,13 +1,116 @@
 ---
 aliases:
-  - Digestion
+- Amag
+- aş ezim etüv
+- biebmosuddadeapmi
+- Dichestión
+- digeestion
+- digestado
+- Digestie
+- Digestio
+- Digestion
+- digestione
+- digestió
+- digestión
+- digestão
+- Dijesyon chimik
+- dixestión
+- dizestion
+- díleá
+- emésztés
+- fordøjelse
+- fordøyelse
+- fordøying
+- gremošana
+- Habdhiska Dheefshiidka
+- herisîn
+- Hormonet tretës
+- matspjälkning
+- Melting
+- Mikhuna ukhunchakuy
+- Mmeng'enyo
+- Ovqat hazm qilish
+- Pagtunaw han kinaon
+- Pagtunaw ng pagkain
+- Pamaglaso pamangan
+- pannakalpa
+- Pencernaan
+- prebava
+- Probava
+- purrâmâšsuddâdem
+- ruoansulatus
+- seedimine
+- Siau-hoà
+- Siitmine
+- Sindirim
+- spijsvertering
+- tembi'uguapy
+- tigrija
+- Tiêu hóa
+- trawienie
+- Trethans
+- Treulio bwyd
+- Trávenie (biológia)
+- trávení
+- Tuẓẓda
+- Tɔɔnaɣ yɔlʊʊ
+- varenje
+- Verdauung
+- vertering
+- virškinimas
+- Vėrškėnėms
+- Ǣtweg
+- πέψη
+- Ас буhарыы
+- Асқорыту мүшелері
+- Аш һеңдереү
+- ашкайнату
+- варење
+- Кхача ахьар
+- Кхача Ӏахьар
+- пищеварение
+- сиён сылмытон
+- страваванне
+- страваваньне
+- Тамак сиңирүү
+- Травлїня
+- травлення
+- Хоол боловсруулалт
+- Храносмилане
+- Մարսողութիւն
+- Մարսողություն
+- עיכול
+- פארדייאונג
+- شٛرٛۄپُن
+- هضم
+- گوارش
+- ھاضمو
+- ھەرسکردن
+- ہاضمہ
+- ہضم
+- पचनसंस्था
+- पाचन
+- पाचन प्रणाली
+- পরিপাক
+- পাচন
+- ਪਾਚਨ
+- சமிபாடு
+- ಪಚನ
+- ദഹനം
+- การย่อยอาหาร
+- အစာခြေ စနစ်
+- საჭმლის მონელება
+- ប្រដាប់រំលាយអាហារ
+- 消化
+- 消化作用
+- 소화
 has_id_wikidata: Q11978
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~food,2095]]'
 Commons_category: Digestion
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from: '[[_Standards/WikiData/WD~human_digestive_system,9649]]'
 exact_match: http://purl.obolibrary.org/obo/GO_0007586
 has_part_s_: '[[_Standards/WikiData/WD~part_of_the_digestion_process,22290756]]'
@@ -17,15 +120,147 @@ instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/PISHCHEVARENIE.html
 Library_of_Congress_Classification: QP145-QP159
 MeSH_tree_code:
-  - G07.203.650.250
-  - G10.261.190
+- G07.203.650.250
+- G10.261.190
 native_label: systema digestorium
 OmegaWiki_Defined_Meaning: 924
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%AA%E0%A4%9A%E0%A4%A8%E0%A4%B8%E0%A4%82%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A4%BE.wav
 studied_in: '[[_Standards/WikiData/WD~digestive_physiology,130261998]]'
 subclass_of: '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433]]'
+dv_has_:
+  name_:
+    af: vertering
+    an: Dichestión
+    ang: Ǣtweg
+    ar: هضم
+    as: পাচন
+    ast: dixestión
+    ba: Аш һеңдереү
+    be: страваванне
+    be-tarask: страваваньне
+    bg: Храносмилане
+    bn: পরিপাক
+    bs: varenje
+    ca: digestió
+    ce: Кхача ахьар
+    ckb: ھەرسکردن
+    crh: aş ezim etüv
+    cs: trávení
+    cy: Treulio bwyd
+    da: fordøjelse
+    de: Verdauung
+    de-ch: Verdauung
+    el: πέψη
+    en: digestion
+    en-ca: Digestion
+    en-gb: digestion
+    eo: digestado
+    es: digestión
+    et: seedimine
+    eu: Digestio
+    fa: گوارش
+    fi: ruoansulatus
+    fr: digestion
+    ga: díleá
+    gl: dixestión
+    gn: tembi'uguapy
+    gsw: Verdauung
+    he: עיכול
+    hi: पाचन
+    hif: Digestion
+    hr: Probava
+    ht: Dijesyon chimik
+    hu: emésztés
+    hy: Մարսողություն
+    hyw: Մարսողութիւն
+    id: Pencernaan
+    ilo: pannakalpa
+    inh: Кхача Ӏахьар
+    is: Melting
+    it: digestione
+    ja: 消化
+    ka: საჭმლის მონელება
+    kab: Tuẓẓda
+    kbp: Tɔɔnaɣ yɔlʊʊ
+    kk: Асқорыту мүшелері
+    km: ប្រដាប់រំលាយអាហារ
+    kn: ಪಚನ
+    knc: Digestion
+    ko: 소화
+    ks: شٛرٛۄپُن
+    ku: herisîn
+    kw: Trethans
+    ky: Тамак сиңирүү
+    la: Digestio
+    lb: Verdauung
+    li: tigrija
+    lmo: Digestion
+    lt: virškinimas
+    lv: gremošana
+    mk: варење
+    ml: ദഹനം
+    mn: Хоол боловсруулалт
+    mr: पचनसंस्था
+    ms: pencernaan
+    my: အစာခြေ စနစ်
+    nan: Siau-hoà
+    nb: fordøyelse
+    nds: Verdauung
+    ne: पाचन प्रणाली
+    new: पाचन
+    nl: spijsvertering
+    nn: fordøying
+    oc: Digestion
+    pa: ਪਾਚਨ
+    pam: Pamaglaso pamangan
+    pl: trawienie
+    pms: Digestion
+    pnb: ہاضمہ
+    ps: هضم
+    pt: digestão
+    pt-br: digestão
+    qu: Mikhuna ukhunchakuy
+    ro: Digestie
+    ru: пищеварение
+    rue: Травлїня
+    sah: Ас буhарыы
+    sco: digeestion
+    sd: ھاضمو
+    se: biebmosuddadeapmi
+    sgs: Vėrškėnėms
+    sh: Probava
+    shi: Amag
+    sk: Trávenie (biológia)
+    sl: prebava
+    smn: purrâmâšsuddâdem
+    so: Habdhiska Dheefshiidka
+    sq: Hormonet tretës
+    sr: варење
+    sv: matspjälkning
+    sw: Mmeng'enyo
+    ta: சமிபாடு
+    te: DIGESTION
+    th: การย่อยอาหาร
+    tl: Pagtunaw ng pagkain
+    tr: Sindirim
+    tt: ашкайнату
+    tt-cyrl: ашкайнату
+    udm: сиён сылмытон
+    uk: травлення
+    ur: ہضم
+    uz: Ovqat hazm qilish
+    vec: dizestion
+    vi: Tiêu hóa
+    vro: Siitmine
+    war: Pagtunaw han kinaon
+    wuu: 消化作用
+    yi: פארדייאונג
+    yue: 消化
+    zh: 消化作用
+    zh-cn: 消化作用
+    zh-hk: 消化作用
+    zh-tw: 消化作用
 ---
-
 # [[Digestion]] 
 
 #is_/same_as :: [[../../WikiData/WD~Digestion,11978|WD~Digestion,11978]] 

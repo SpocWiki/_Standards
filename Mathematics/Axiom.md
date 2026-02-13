@@ -1,19 +1,77 @@
 ---
 aliases:
-  - Axiom
+- Aicseam
+- aicsím
+- aksiom
+- Aksioma
+- aksiomo
+- aksioom
+- aksiooma
+- aksiyom
+- aksjomat
+- Aksyoma
+- Aksyòm
+- Asioma
+- assioma
+- Assiòma
+- Axiom
+- axioma
+- axiome
+- Axiomo
+- axiomă
+- Axiòma
+- axióma
+- Axoma
+- Frumsenda
+- gwireb
+- Kabirũ (axiom)
+- Kong-siat
+- Matoan-kevitra
+- Postulat
+- sona noka lon
+- tiên đề
+- Yaad-yaboo
+- αξίωμα
+- аксіёма
+- аксіома
+- Аксиом
+- Аксиома
+- Аксиомо
+- Аксиомэ
+- Աքսիոմա
+- אקסיאם
+- אקסיומה
+- اصل موضوع
+- اکسيوم
+- بديهية
+- بديهيه
+- بەڵگەنەویست
+- منیا پرمنیا
+- एक्जियोम
+- स्वयंसिद्ध
+- স্বতঃসিদ্ধ
+- ਤਤਸਮਕ
+- மெய்கோள்
+- സ്വയംസിദ്ധപ്രമാണം
+- สัจพจน์
+- မှတ်ရည်ချက်
+- აქსიომა
+- እሙን
+- 公理
+- 공리
 has_id_wikidata: Q17736
 subclass_of:
-  - '[[_Standards/WikiData/WD~proposition,108163]]'
-  - '[[_Standards/WikiData/WD~lemma,207505]]'
-  - '[[_Standards/WikiData/WD~first_principle,536351]]'
+- '[[_Standards/WikiData/WD~proposition,108163]]'
+- '[[_Standards/WikiData/WD~lemma,207505]]'
+- '[[_Standards/WikiData/WD~first_principle,536351]]'
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Church_Encyclopedia,9253865]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 part_of: '[[_Standards/WikiData/WD~axiomatic_system,792542]]'
 different_from: '[[_Standards/WikiData/WD~axion,792548]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~postulate,1396667]]'
@@ -25,8 +83,126 @@ OmegaWiki_Defined_Meaning: 447801
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Axioma-article.ogg
 Krugosvet_article: nauka_i_tehnika/matematika/AKSIOMA.html
 Stack_Exchange_tag: https://proofassistants.stackexchange.com/tags/axioms
+dv_has_:
+  name_:
+    am: እሙን
+    an: Axioma
+    ar: بديهية
+    arz: بديهيه
+    ast: Axoma
+    az: Aksiom
+    ba: аксиома
+    be: аксіёма
+    be-tarask: аксіёма
+    bg: Аксиома
+    bn: স্বতঃসিদ্ধ
+    br: Aksiom
+    bs: Aksiom
+    ca: axioma
+    ckb: بەڵگەنەویست
+    cs: axiom
+    cv: Аксиома
+    cy: gwireb
+    da: aksiom
+    de: Axiom
+    el: αξίωμα
+    en: axiom
+    en-us: axiom
+    eo: aksiomo
+    es: axioma
+    et: aksioom
+    eu: Axioma
+    fa: اصل موضوع
+    fi: aksiooma
+    fr: axiome
+    frr: Aksioom
+    ga: aicsím
+    gd: Aicseam
+    gl: axioma
+    gsw: Axiom
+    he: אקסיומה
+    hi: स्वयंसिद्ध
+    hif: Axiom
+    hr: Aksiom
+    ht: Aksyòm
+    hu: axióma
+    hy: Աքսիոմա
+    ia: Axioma
+    id: Postulat
+    io: Axiomo
+    is: Frumsenda
+    it: assioma
+    ja: 公理
+    ka: აქსიომა
+    kaa: Aksioma
+    kbd: Аксиомэ
+    ki: Kabirũ (axiom)
+    kk: Аксиома
+    ko: 공리
+    ky: Аксиома
+    la: Axioma
+    lb: Axiom
+    li: Axioma
+    lt: aksioma
+    lv: Aksioma
+    lzh: 公理
+    mad: Aksioma
+    mg: Matoan-kevitra
+    mhr: Аксиомо
+    mk: Аксиома
+    ml: സ്വയംസിദ്ധപ്രമാണം
+    mn: Аксиом
+    ms: aksiom
+    ms-arab: اکسيوم
+    my: မှတ်ရည်ချက်
+    nan: Kong-siat
+    nb: aksiom
+    new: एक्जियोम
+    nl: axioma
+    nn: aksiom
+    nov: axiome
+    oc: Axiòma
+    om: Yaad-yaboo
+    pa: ਤਤਸਮਕ
+    pl: aksjomat
+    pms: Assiòma
+    pnb: منیا پرمنیا
+    pt: axioma
+    pt-br: axioma
+    ro: axiomă
+    ru: аксиома
+    rue: Аксіома
+    sah: Аксиома
+    scn: Assioma
+    sco: Axiom
+    sh: Aksiom
+    sk: axióma
+    sl: aksiom
+    sq: Aksioma
+    sr: Аксиома
+    sr-ec: аксиома
+    sr-el: aksioma
+    su: Aksioma
+    sv: axiom
+    ta: மெய்கோள்
+    tg: Аксиома
+    th: สัจพจน์
+    tok: sona noka lon
+    tr: aksiyom
+    tt: аксиома
+    udm: аксиома
+    uk: аксіома
+    ur: Axiom
+    uz: Aksioma
+    vec: Asioma
+    vi: tiên đề
+    war: Aksyoma
+    wuu: 公理
+    yi: אקסיאם
+    yue: 公理
+    zh: 公理
+    zh-cn: 公理
 ---
-
 # [[Axiom]] 
 
 #is_/same_as :: [[../WikiData/WD~Axiom,17736|WD~Axiom,17736]] 

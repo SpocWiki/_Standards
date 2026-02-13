@@ -1,18 +1,155 @@
 ---
 aliases:
-  - Progressive Rock
-  - Prog Rock
-  - Progressive_Rock
+- craa-chiaull eiyrtagh
+- framsækið rokk
+- Prog Rock
+- progresiva roko
+- Progresivni rock
+- progresivní rock
+- progressieve rock
+- progressiiva rock
+- progressiivinen rock
+- progressiivlaž rock
+- progressiivlâš rock
+- progressiivne rokk
+- progressiv rock
+- progressiv rok
+- Progressive Rock
+- Progressive_Rock
+- progresszív rock
+- progresyvusis rokas
+- progresívny rock
+- progresīvā rokmūzika
+- proqressiv rok
+- rac forásach
+- roc blaengar
+- rock cấp tiến
+- Rock progresibo
+- Rock progresif
+- rock progresiv
+- rock progresivo
+- rock progresivu
+- rock progressif
+- rock progressiu
+- Rock progressive
+- rock progressivo
+- rock progressivu
+- Rock progressivus
+- rock progresywny
+- Rock prugrissivu
+- rok progresif
+- прагрэсіўны рок
+- прогресив рок
+- прогресивни рок
+- прогресивний рок
+- прогрессив рок
+- прогрессивный рок
+- прогрессивон рок
+- պրոգրեսիվ ռոք
+- רוק מתקדם
+- بروجريسيف روك
+- روك تقدمي
+- پراگرسیو راک
+- پرۆگرێسڤ ڕۆک
+- প্রোগ্রেসিভ রক
+- โพรเกรสซิฟร็อก
+- პროგრესული როკი
+- プログレッシブ・ロック
+- 交响摇滚
+- 交響搖滾
+- 前卫摇滚
+- 前衛搖滾
+- 프로그레시브 록
 has_id_wikidata: Q49451
 isDeleted: false
 isReadOnly: false
 MusicGenreId: 275
 SpocWebEntityId: 114609
 tags:
-  - music/genre
+- music/genre
 type: musicGenre
+dv_has_:
+  name_:
+    ar: روك تقدمي
+    arz: بروجريسيف روك
+    ast: rock progresivu
+    az: proqressiv rok
+    ba: прогрессив рок
+    be: прагрэсіўны рок
+    be-tarask: прагрэсіўны рок
+    bg: прогресив рок
+    bn: প্রোগ্রেসিভ রক
+    bs: Progresivni rock
+    ca: rock progressiu
+    ckb: پرۆگرێسڤ ڕۆک
+    co: rock progressivu
+    cs: progresivní rock
+    cy: roc blaengar
+    da: progressiv rock
+    de: Progressive Rock
+    de-ch: Progressive Rock
+    el: Progressive Rock
+    en: progressive rock
+    en-ca: Progressive rock
+    en-gb: progressive rock
+    eo: progresiva roko
+    es: rock progresivo
+    et: progressiivne rokk
+    eu: Rock progresibo
+    fa: پراگرسیو راک
+    fi: progressiivinen rock
+    fr: rock progressif
+    ga: rac forásach
+    gl: rock progresivo
+    gv: craa-chiaull eiyrtagh
+    he: רוק מתקדם
+    hr: progresivni rock
+    hu: progresszív rock
+    hy: պրոգրեսիվ ռոք
+    ia: Rock progressive
+    id: rok progresif
+    is: framsækið rokk
+    it: rock progressivo
+    ja: プログレッシブ・ロック
+    ka: პროგრესული როკი
+    ko: 프로그레시브 록
+    la: Rock progressivus
+    lb: Progressive Rock
+    lt: progresyvusis rokas
+    lv: progresīvā rokmūzika
+    ms: Rock progresif
+    mzn: پراگرسیو راک
+    nb: progressiv rock
+    nl: progressieve rock
+    nn: progressiv rock
+    oc: Rock progressiu
+    os: прогрессивон рок
+    pl: rock progresywny
+    pt: rock progressivo
+    pt-br: rock progressivo
+    ro: rock progresiv
+    ru: прогрессивный рок
+    scn: Rock prugrissivu
+    se: progressiiva rock
+    sh: Progresivni rock
+    sk: progresívny rock
+    sl: progresivni rock
+    smn: progressiivlâš rock
+    sms: progressiivlaž rock
+    sq: Progressive rock
+    sr: прогресивни рок
+    sv: progressiv rock
+    th: โพรเกรสซิฟร็อก
+    tr: progressive rock
+    uk: прогресивний рок
+    uz: progressiv rok
+    vi: rock cấp tiến
+    wuu: 前卫摇滚
+    zh: 前衛搖滾
+    zh-cn: 交响摇滚
+    zh-hans: 交响摇滚
+    zh-hant: 交響搖滾
 ---
-
 # [[Progressive_Rock]] 
 
 has_/name::Progressive Rock 

@@ -1,10 +1,86 @@
 ---
 aliases:
-  - Hugo Gernsback
-  - Hugo Gernsbacher
-  - Gernsback,Hugo
+- Gernsback,Hugo
+- Hugo Gernsbacher
+- Hugo Gernsback
+- Hugo Gernsbek
+- Hugo Gernsbeks
+- Χιούγκο Γκέρνσμπακ
+- Г'юґо Ґернсбек
+- Хьюга Гернсбек
+- Хьюго Гернсбек
+- הוגו גרנסבק
+- هوغو جيرنزباك
+- هوقو قرنسبک
+- هوگو گرنسبک
+- ھیۆگۆ گێرنزباک
+- ჰიუგო გერნსბეკი
+- ヒューゴー・ガーンズバック
+- 雨果·根斯巴克
+- 휴고 건스백
+has_id_wikidata: Q312242
+dv_has_:
+  name_:
+    ar: هوغو جيرنزباك
+    ast: Hugo Gernsback
+    azb: هوقو قرنسبک
+    be: Хьюга Гернсбек
+    ca: Hugo Gernsback
+    ckb: ھیۆگۆ گێرنزباک
+    cs: Hugo Gernsback
+    cy: Hugo Gernsback
+    da: Hugo Gernsback
+    de: Hugo Gernsback
+    el: Χιούγκο Γκέρνσμπακ
+    en: Hugo Gernsback
+    en-ca: Hugo Gernsback
+    en-gb: Hugo Gernsback
+    eo: Hugo Gernsback
+    es: Hugo Gernsback
+    fa: هوگو گرنسبک
+    fi: Hugo Gernsback
+    fr: Hugo Gernsback
+    fy: Hugo Gernsback
+    ga: Hugo Gernsback
+    gl: Hugo Gernsback
+    he: הוגו גרנסבק
+    hu: Hugo Gernsback
+    id: Hugo Gernsback
+    is: Hugo Gernsback
+    it: Hugo Gernsback
+    ja: ヒューゴー・ガーンズバック
+    ko: 휴고 건스백
+    ku: Hugo Gernsback
+    lb: Hugo Gernsback
+    lv: Hugo Gernsbeks
+    mg: Hugo Gernsback
+    mul: Hugo Gernsback
+    nb: Hugo Gernsback
+    nl: Hugo Gernsback
+    nn: Hugo Gernsback
+    pap: Hugo Gernsback
+    pl: Hugo Gernsback
+    pt: Hugo Gernsback
+    pt-br: Hugo Gernsback
+    ro: Hugo Gernsback
+    ru: Хьюго Гернсбек
+    sh: Hugo Gernsback
+    sl: Hugo Gernsback
+    sq: Hugo Gernsback
+    sr: Hugo Gernsbek
+    sv: Hugo Gernsback
+    tr: Hugo Gernsback
+    uk: Г'юґо Ґернсбек
+    vi: Hugo Gernsback
+    xmf: ჰიუგო გერნსბეკი
+    zh: 雨果·根斯巴克
+    zh-cn: 雨果·根斯巴克
+    zh-hans: 雨果·根斯巴克
+    zh-hant: 雨果·根斯巴克
+    zh-hk: 雨果·根斯巴克
+    zh-sg: 雨果·根斯巴克
+    zh-tw: 雨果·根斯巴克
 ---
-
 #has_/time_/started ::  1884-08-16 
 #has_/time_/stopped ::  1967-08-19 
 #has_/place_/stopped :: [[New_York,City]]

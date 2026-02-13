@@ -1,18 +1,100 @@
 ---
 aliases:
+- coipeirniciam
+- copernici
+- copernicio
+- coperniciu
+- copernicium
+- coperniciumi
+- Coperniciwm
+- Copernicyo
+- copernisio
+- Copernisyo
+- copernixi
+- Copernìtziu
+- copernício
+- cupirniciu
+- IChusinimbi
+- Kobernishiyaam
+- Kopernicii
+- kopernicij
+- Kopernicijum
+- Kopernicio
+- Koperniciom
+- kopernicium
+- koperniciumo
+- koperniitsium
+- kopernik
+- kopernikijs
+- Kopernikin
+- kopernikis
+- Kopernikium
+- kopernikyum
+- Kopernisiom
+- Kopernisiomu
+- Kopernisium
+- Kopernisiyo
+- Kopernisyu
+- Kopernitsiy
+- kopernizio
+- koperniċju
+- kopernícium
+- Kopernîsyûm
+- kópernikín
+- Kɔpɛrɩnɩsɩyɔm
+- ununbi
+- κοπερνίκιο
+- Каперніцый
+- Капэрніц
+- Коперниcий
+- коперницій
+- Коперници
+- коперницијум
+- коперниций
+- Копернициум
+- կոպեռնիցիում
+- קופרניקיום
+- كوبرنيسيوم
+- كوپېرنىي
+- کاپرنسیم
+- کاپرنېسيوم
+- کوپرنیسیم
+- کوپرنیشیئم
+- کۆپەرنیسیۆم
+- उनउनबियम
+- उनुन्बियम
+- कपरनिसियम
+- कॉपरनीशियम
+- कोपरनिसियम
+- कोपर्निकम
+- কোপার্নিসিয়াম
+- કોપરનિસીયમ
+- କୋପର୍ନିସିଅମ
+- கோப்பர்நீசியம்
+- కోపర్నిషియం
+- ಅನನ್ಬಿಯಮ್
+- കോപ്പർനിഷ്യം
+- โคเปอร์นิเซียม
+- ကော့ပါနီဆီယမ်
+- კოპერნიციუმი
+- ኮፐርኒኪየም
+- コペルニシウム
+- 鎶
+- 鿔
+- 코페르니슘
 has_id_wikidata: Q1278
 part_of:
-  - "[[_Standards/WikiData/WD~group_12,191875]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]"
+- '[[_Standards/WikiData/WD~group_12,191875]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-named_after: "[[_Standards/WikiData/WD~Nicolaus_Copernicus,619]]"
-subclass_of: "[[_Standards/WikiData/WD~post_transition_metal,19591]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_after: '[[_Standards/WikiData/WD~Nicolaus_Copernicus,619]]'
+subclass_of: '[[_Standards/WikiData/WD~post_transition_metal,19591]]'
 atomic_number: 112
-OmegaWiki_Defined_Meaning: "368710"
+OmegaWiki_Defined_Meaning: 368710
 Commons_gallery: Copernicium
 Commons_category: Copernicium
 Unicode_character: 鎶
@@ -24,25 +106,172 @@ element_symbol: Cn
 time_of_discovery_or_invention: 1996-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]]"
+  - '[[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]]"
+- '[[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]]'
+dv_has_:
+  name_:
+    af: Kopernikium
+    am: ኮፐርኒኪየም
+    an: Copernicio
+    anp: कोपरनिसियम
+    ar: كوبرنيسيوم
+    arz: كوبرنيسيوم
+    ast: coperniciu
+    az: Kopernisium
+    ba: Коперниций
+    ban: Kopernikium
+    be: Каперніцый
+    be-tarask: Капэрніц
+    bg: коперниций
+    bho: कॉपरनीशियम
+    bn: কোপার্নিসিয়াম
+    br: Kopernisiom
+    bs: Kopernicij
+    ca: copernici
+    cdo: Copernicium
+    ceb: Copernicyo
+    ckb: کۆپەرنیسیۆم
+    co: Coperniciu
+    cs: kopernicium
+    cv: Коперници
+    cy: Coperniciwm
+    da: copernicium
+    de: Copernicium
+    el: κοπερνίκιο
+    en: copernicium
+    en-ca: copernicium
+    en-gb: copernicium
+    eo: koperniciumo
+    es: copernicio
+    et: koperniitsium
+    eu: kopernizio
+    fa: کوپرنیسیم
+    fi: kopernikium
+    fr: copernicium
+    frr: Kopernikium
+    fur: Copernici
+    ga: coipeirniciam
+    gd: Copernicium
+    gl: copernicio
+    gu: કોપરનિસીયમ
+    gv: copernicium
+    hak: copernicium
+    he: קופרניקיום
+    hi: कोपरनिसियम
+    hif: Copernicium
+    hr: kopernicij
+    hu: kopernícium
+    hy: կոպեռնիցիում
+    ia: copernicium
+    id: kopernisium
+    io: Kopernicio
+    is: kópernikín
+    it: copernicio
+    ja: コペルニシウム
+    ka: კოპერნიციუმი
+    kbp: Kɔpɛrɩnɩsɩyɔm
+    kk: Коперниций
+    kn: ಅನನ್ಬಿಯಮ್
+    ko: 코페르니슘
+    ksh: Copernicium
+    ku: Kopernîsyûm
+    kv: Коперниций
+    kw: Koperniciom
+    la: copernicium
+    lb: Copernicium
+    lfn: copernisio
+    li: Copernicium
+    lij: Copernicio
+    lt: kopernikis
+    lv: kopernikijs
+    lzh: 鎶
+    mk: копернициум
+    ml: കോപ്പർനിഷ്യം
+    mn: коперници
+    mr: कोपर्निकम
+    mrj: Коперниций
+    ms: Kopernisium
+    mt: koperniċju
+    my: ကော့ပါနီဆီယမ်
+    nan: Copernicium
+    nb: copernicium
+    nds: Copernicium
+    ne: उनुन्बियम
+    new: कपरनिसियम
+    nl: copernicium
+    nn: copernicium
+    nov: Kopernisium
+    oc: copernici
+    or: କୋପର୍ନିସିଅମ
+    os: коперниций
+    pi: उनउनबियम
+    pl: kopernik
+    pnb: کاپرنسیم
+    ps: کاپرنېسيوم
+    pt: copernício
+    pt-br: copernício
+    qu: Kopernisyu
+    ro: coperniciu
+    ru: коперниций
+    rup: Coperniciu
+    sa: उनउनबियम
+    sc: Copernìtziu
+    scn: cupirniciu
+    sh: Kopernicijum
+    sk: kopernícium
+    sl: kopernicij
+    so: Kobernishiyaam
+    sq: coperniciumi
+    sr: коперницијум
+    sr-ec: Коперницијум
+    stq: Copernicium
+    sv: copernicium
+    sw: ununbi
+    ta: கோப்பர்நீசியம்
+    te: కోపర్నిషియం
+    tg: Коперниcий
+    th: โคเปอร์นิเซียม
+    tl: Kopernisiyo
+    tr: kopernikyum
+    tt: коперниций
+    ug: كوپېرنىي
+    uk: коперницій
+    ur: کوپرنیشیئم
+    uz: Kopernitsiy
+    vep: Kopernicii
+    vi: copernixi
+    vo: Kopernikin
+    war: Copernisyo
+    wuu: 鿔
+    xal: Копернициум
+    yo: Kopernisiomu
+    yue: 鎶
+    zh: 鎶
+    zh-cn: 鿔
+    zh-hans: 鿔
+    zh-hant: 鎶
+    zh-hk: 鎶
+    zh-mo: 鎶
+    zh-my: 鿔
+    zh-sg: 鿔
+    zh-tw: 鎶
+    zu: IChusinimbi
 ---
-
 # [[Copernicium]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]] 

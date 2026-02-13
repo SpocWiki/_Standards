@@ -1,36 +1,117 @@
 ---
 aliases:
+- Nitriel
+- Nitriilid
+- nitriilit
+- nitril
+- Nitrila
+- nitrile
+- nitrili
+- Nitrillar
+- Nitrilo
+- nitryl
+- Νιτρίλιο
+- нітрил
+- нітрыл
+- нитрил
+- նիտրիլներ
+- ניטריל
+- نتريل
+- نیتریل
+- ნიტრილები
+- ニトリル
+- 腈
+- 니트릴
 has_id_wikidata: Q333936
 different_from:
-  - "[[_Standards/WikiData/WD~cyanide anion,185076]]"
-  - "[[_Standards/WikiData/WD~cyanyl,3416481]]"
-  - "[[_Standards/WikiData/WD~cyano group,9281462]]"
-  - "[[_Standards/WikiData/WD~cyanide,55076544]]"
+- '[[_Standards/WikiData/WD~cyanide_anion,185076]]'
+- '[[_Standards/WikiData/WD~cyanyl,3416481]]'
+- '[[_Standards/WikiData/WD~cyano_group,9281462]]'
+- '[[_Standards/WikiData/WD~cyanide,55076544]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~National Encyclopedia of Uzbekistan,5217764]]"
-  - "[[_Standards/WikiData/WD~New Encyclopedic Dictionary,19190511]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Nitriles,7071513]]"
-has_part_s_: "[[_Standards/WikiData/WD~cyano group,9281462]]"
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Nitriles,7071513]]'
+has_part_s_: '[[_Standards/WikiData/WD~cyano_group,9281462]]'
 part_of:
-  - "[[_Standards/WikiData/WD~nitrilase activity,21123106]]"
-  - "[[_Standards/WikiData/WD~nitrile catabolic process,22275030]]"
-  - "[[_Standards/WikiData/WD~nitrile metabolic process,22275028]]"
-  - "[[_Standards/WikiData/WD~nitrile biosynthetic process,22275033]]"
-  - "[[_Standards/WikiData/WD~aliphatic aldoxime dehydratase activity,22323945]]"
-  - "[[_Standards/WikiData/WD~nitrile hydratase activity,22324495]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-subclass_of: "[[_Standards/WikiData/WD~organonitrogen compound,55739694]]"
-SMARTS_notation: "[NX1]#[CX2]"
-canonical_SMILES: "[*]C#N"
-CXSMILES: "[*]C#N |$R$|"
+- '[[_Standards/WikiData/WD~nitrilase_activity,21123106]]'
+- '[[_Standards/WikiData/WD~nitrile_catabolic_process,22275030]]'
+- '[[_Standards/WikiData/WD~nitrile_metabolic_process,22275028]]'
+- '[[_Standards/WikiData/WD~nitrile_biosynthetic_process,22275033]]'
+- '[[_Standards/WikiData/WD~aliphatic_aldoxime_dehydratase_activity,22323945]]'
+- '[[_Standards/WikiData/WD~nitrile_hydratase_activity,22324495]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~organonitrogen_compound,55739694]]'
+SMARTS_notation: '[NX1]#[CX2]'
+canonical_SMILES: '[*]C#N'
+CXSMILES: '[*]C#N |$R$|'
 UMLS_CUI: C0028131
 MeSH_tree_code: D02.626
 Commons_category: Nitriles
 dv_is_:
-  same_as: "[[WD~Nitrile,333936]]"
-dv_is_same_as: "[[WD~Nitrile,333936]]"
+  same_as: '[[WD~Nitrile,333936]]'
+dv_is_same_as: '[[WD~Nitrile,333936]]'
+dv_has_:
+  name_:
+    af: Nitriel
+    ar: نتريل
+    az: nitril
+    be: нітрыл
+    be-tarask: нітрыл
+    ca: Nitril
+    cs: nitril
+    da: Nitril
+    de: Nitrile
+    el: Νιτρίλιο
+    en: nitrile
+    eo: Nitrilo
+    es: nitrilo
+    et: Nitriilid
+    eu: Nitrilo
+    fa: نیتریل
+    fi: nitriilit
+    fr: nitrile
+    gl: Nitrilo
+    he: ניטריל
+    hr: Nitrili
+    hu: nitril
+    hy: նիտրիլներ
+    id: Nitril
+    it: nitrili
+    ja: ニトリル
+    ka: ნიტრილები
+    ko: 니트릴
+    la: Nitrile
+    lv: Nitrili
+    mk: Нитрил
+    ms: Nitril
+    nb: nitril
+    nl: nitril
+    nn: nitril
+    pl: nitryl
+    pt: Nitrila
+    ro: nitril
+    ru: нитрил
+    sh: Nitril
+    sk: Nitril
+    sl: nitril
+    sr: Nitril
+    sr-ec: Нитрил
+    sr-el: Nitril
+    sv: Nitril
+    tr: Nitril
+    uk: нітрил
+    uz: Nitrillar
+    wuu: 腈
+    yue: 腈
+    zh: 腈
+    zh-cn: 腈
+    zh-hans: 腈
+    zh-hant: 腈
+    zh-hk: 腈
+    zh-sg: 腈
+    zh-tw: 腈
 ---
-
 # [[Nitrile]] 
 
 is_same_as = `=this.dv_is_same_as` 

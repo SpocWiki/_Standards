@@ -1,53 +1,80 @@
 ---
 aliases:
-  - Marcello_Mastroianni
-  - Marcello Vincenzo Domenico Mastroianni
-  - Marcello Mastroianni
-  - Mastroianni
-  - Mastroianni,Marcello
+- Marcello Mastroianni
+- Marcello Vincenzo Domenico Mastroianni
+- Marcello_Mastroianni
+- Marcellu Mastroianni
+- Marcellus Mastroianni
+- Marçello Mastroyanni
+- Marčello Mastrojanni
+- Mastroianni
+- Mastroianni,Marcello
+- Mastroyanni Marchello
+- Μαρτσέλο Μαστρογιάνι
+- Марчелло Мастроянні
+- Марчелло Мастроянни
+- Марчело Мастројани
+- Марчело Мастрояни
+- Марчэла Мастраяні
+- Марчэльлё Мастраяньні
+- Мастроянни Марчелло
+- Մարչելլո Մաստրոյանի
+- מרצ'לו מסטרויאני
+- مارسيلو ماسترويانى
+- مارسيلو ماستروياني
+- مارسیلو ماستروئینی
+- مارچلو ماسترویانی
+- মারচেল্লো মাস্ত্রোইয়ান্নি
+- മാർചെല്ലോ മാസ്ത്രോയാനി
+- მარჩელო მასტროიანი
+- マルチェロ・マストロヤンニ
+- 馬切洛·馬斯楚安尼
+- 馬斯杜安尼
+- 马切洛·马斯楚安尼
+- 마르첼로 마스트로이안니
 has_id_wikidata: Q55469
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Catherine_Deneuve,106418]]'
-  - '[[_Standards/WikiData/WD~Claudia_Cardinale,107006]]'
-  - '[[_Standards/WikiData/WD~Faye_Dunaway,168721]]'
-  - '[[_Standards/WikiData/WD~Ursula_Andress,211111]]'
-  - '[[_Standards/WikiData/WD~Anouk_Aimée,228607]]'
-  - '[[_Standards/WikiData/WD~Lauren_Hutton,287639]]'
-  - '[[_Standards/WikiData/WD~Anna_Maria_Tatò,2850562]]'
+- '[[_Standards/WikiData/WD~Catherine_Deneuve,106418]]'
+- '[[_Standards/WikiData/WD~Claudia_Cardinale,107006]]'
+- '[[_Standards/WikiData/WD~Faye_Dunaway,168721]]'
+- '[[_Standards/WikiData/WD~Ursula_Andress,211111]]'
+- '[[_Standards/WikiData/WD~Anouk_Aimée,228607]]'
+- '[[_Standards/WikiData/WD~Lauren_Hutton,287639]]'
+- '[[_Standards/WikiData/WD~Anna_Maria_Tatò,2850562]]'
 place_of_birth: '[[_Standards/WikiData/WD~Fontana_Liri,116844]]'
 award_received:
-  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actor,128649]]'
-  - '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
-  - '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
-  - '[[_Standards/WikiData/WD~Silver_Shell_for_Best_Actor,610136]]'
-  - '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actor,2089923]]'
-  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
-  - '[[_Standards/WikiData/WD~Q3691946,3691946]]'
-  - '[[_Standards/WikiData/WD~Q3772359,3772359]]'
-  - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actor,3870549]]"
-  - "[[_Standards/WikiData/WD~Nastro_d'Argento_Special,3870558]]"
-  - '[[_Standards/WikiData/WD~Ubu_Prize,3910696]]'
-  - '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-  - "[[_Standards/WikiData/WD~Grolla_d'oro_for_Best_Leading_Actor,21236942]]"
-  - "[[_Standards/WikiData/WD~Ciak_d'oro_Best_Lead_Actor,97183951]]"
+- '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Actor,128649]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
+- '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
+- '[[_Standards/WikiData/WD~Silver_Shell_for_Best_Actor,610136]]'
+- '[[_Standards/WikiData/WD~Volpi_Cup_for_Best_Actor,2089923]]'
+- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+- '[[_Standards/WikiData/WD~Q3691946,3691946]]'
+- '[[_Standards/WikiData/WD~Q3772359,3772359]]'
+- "[[_Standards/WikiData/WD~Nastro_d'Argento_for_Best_Actor,3870549]]"
+- "[[_Standards/WikiData/WD~Nastro_d'Argento_Special,3870558]]"
+- '[[_Standards/WikiData/WD~Ubu_Prize,3910696]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- "[[_Standards/WikiData/WD~Grolla_d'oro_for_Best_Leading_Actor,21236942]]"
+- "[[_Standards/WikiData/WD~Ciak_d'oro_Best_Lead_Actor,97183951]]"
 sibling: '[[_Standards/WikiData/WD~Ruggero_Mastroianni,166318]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 educated_at: '[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]'
 cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
 child:
-  - '[[_Standards/WikiData/WD~Chiara_Mastroianni,283317]]'
-  - '[[_Standards/WikiData/WD~Barbara_Mastroianni,75619301]]'
+- '[[_Standards/WikiData/WD~Chiara_Mastroianni,283317]]'
+- '[[_Standards/WikiData/WD~Barbara_Mastroianni,75619301]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 spouse: '[[_Standards/WikiData/WD~Flora_Carabella,3746654]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 relative: '[[_Standards/WikiData/WD~Federica_Mastroianni,10624992]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 given_name: '[[_Standards/WikiData/WD~Marcello,17426555]]'
 blood_type: '[[_Standards/WikiData/WD~Q19831453,19831453]]'
 family_name: '[[_Standards/WikiData/WD~Mastroianni,21502002]]'
@@ -71,8 +98,104 @@ name_in_native_language: Marcello Mastroianni
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Marcello%20Mastroianni%2002.jpg
 ISNI: 000000012321590X
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/MASTROYANNI_MARCHELLO.html
+dv_has_:
+  name_:
+    af: Marcello Mastroianni
+    an: Marcello Mastroianni
+    ar: مارسيلو ماستروياني
+    arz: مارسيلو ماسترويانى
+    ast: Marcello Mastroianni
+    ay: Marcello Mastroianni
+    az: Marçello Mastroyanni
+    ba: Марчелло Мастроянни
+    be: Марчэла Мастраяні
+    be-tarask: Марчэльлё Мастраяньні
+    bg: Марчело Мастрояни
+    bn: মারচেল্লো মাস্ত্রোইয়ান্নি
+    br: Marcello Mastroianni
+    bs: Marcello Mastroianni
+    ca: Marcello Mastroianni
+    cs: Marcello Mastroianni
+    da: Marcello Mastroianni
+    de: Marcello Mastroianni
+    de-ch: Marcello Mastroianni
+    el: Μαρτσέλο Μαστρογιάνι
+    en: Marcello Mastroianni
+    en-ca: Marcello Mastroianni
+    en-gb: Marcello Mastroianni
+    eo: Marcello Mastroianni
+    es: Marcello Mastroianni
+    et: Marcello Mastroianni
+    eu: Marcello Mastroianni
+    fa: مارچلو ماسترویانی
+    fi: Marcello Mastroianni
+    fr: Marcello Mastroianni
+    ga: Marcello Mastroianni
+    gl: Marcello Mastroianni
+    he: מרצ'לו מסטרויאני
+    hif: Marcello Mastroianni
+    hr: Marcello Mastroianni
+    hu: Marcello Mastroianni
+    hy: Մարչելլո Մաստրոյանի
+    id: Marcello Mastroianni
+    ilo: Marcello Mastroianni
+    io: Marcello Mastroianni
+    is: Marcello Mastroianni
+    it: Marcello Mastroianni
+    ja: マルチェロ・マストロヤンニ
+    jv: Marcello Mastroianni
+    ka: მარჩელო მასტროიანი
+    kk: Марчелло Мастроянни
+    ko: 마르첼로 마스트로이안니
+    ky: Мастроянни Марчелло
+    la: Marcellus Mastroianni
+    lb: Marcello Mastroianni
+    lfn: Marcello Mastroianni
+    lt: Marcello Mastroianni
+    lv: Marčello Mastrojanni
+    mg: Marcello Mastroianni
+    mi: Marcello Mastroianni
+    mk: Марчело Мастројани
+    ml: മാർചെല്ലോ മാസ്ത്രോയാനി
+    mul: Marcello Mastroianni
+    nan: Marcello Mastroianni
+    nap: Marcello Mastroianni
+    nb: Marcello Mastroianni
+    nl: Marcello Mastroianni
+    nn: Marcello Mastroianni
+    oc: Marcello Mastroianni
+    olo: Marcello Mastroianni
+    pap: Marcello Mastroianni
+    pl: Marcello Mastroianni
+    pt: Marcello Mastroianni
+    pt-br: Marcello Mastroianni
+    qu: Marcello Mastroianni
+    ro: Marcello Mastroianni
+    ru: Марчелло Мастроянни
+    scn: Marcellu Mastroianni
+    sco: Marcello Mastroianni
+    sh: Marcello Mastroianni
+    sk: Marcello Mastroianni
+    sl: Marcello Mastroianni
+    sq: Marcello Mastroianni
+    sr: Марчело Мастројани
+    sr-ec: Марчело Мастројани
+    sv: Marcello Mastroianni
+    tl: Marcello Mastroianni
+    tr: Marcello Mastroianni
+    tt: Марчелло Мастроянни
+    uk: Марчелло Мастроянні
+    ur: مارسیلو ماستروئینی
+    uz: Mastroyanni Marchello
+    vi: Marcello Mastroianni
+    vo: Marcello Mastroianni
+    war: Marcello Mastroianni
+    wuu: 马切洛·马斯楚安尼
+    xmf: მარჩელო მასტროიანი
+    yue: 馬斯杜安尼
+    zh: 馬切洛·馬斯楚安尼
+    zh-hant: 馬切洛·馬斯楚安尼
 ---
-
 # [[Mastroianni,Marcello]] 
 
 #is_/same_as :: [[WD~Marcello_Mastroianni,55469]] 

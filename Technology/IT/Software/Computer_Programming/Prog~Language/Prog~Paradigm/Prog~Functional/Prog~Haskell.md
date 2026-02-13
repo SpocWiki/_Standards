@@ -1,3 +1,39 @@
+---
+has_id_wikidata: Q34010
+dv_has_:
+  name_:
+    ar: هاسكل
+    bn: হ্যাসকেল
+    fa: هسکل
+    hi: हैस्केल
+    io: Haskell (programifo-linguo)
+    kk: Мәтінді автоматты өңдеу
+    ko: 하스켈
+    ml: ഹാസ്കൽ
+    mr: हॅस्केल
+    mul: Haskell
+    pa: ਹੈਸਕਲ
+    sr: Haskel
+    syl: ꠢꠣꠍꠇꠦꠟ
+    th: แฮสเคิล (ภาษาโปรแกรม)
+    tok: toki ilo Ake
+aliases:
+- Haskel
+- Haskell
+- Haskell (programifo-linguo)
+- toki ilo Ake
+- Мәтінді автоматты өңдеу
+- هاسكل
+- هسکل
+- हॅस्केल
+- हैस्केल
+- হ্যাসকেল
+- ਹੈਸਕਲ
+- ഹാസ്കൽ
+- แฮสเคิล (ภาษาโปรแกรม)
+- ꠢꠣꠍꠇꠦꠟ
+- 하스켈
+---
 # [[Prog~Haskell]] 
 
 #is_a_/ComputerLanguage 

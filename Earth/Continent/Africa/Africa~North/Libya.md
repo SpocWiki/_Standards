@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 利比亚
 dv_UNTERM_French_Formal: la Libye
 dv_UNTERM_Russian: Ливия
 dv_UNTERM_Russian_Formal: Ливия
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Libya]]"
-dv_Sub-region_Name: "[[Northern Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Libya]]'
+dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
 dv_Sub-region: 15
 dv_Geoname-ID: 2215636
@@ -51,82 +51,464 @@ dv_ISO2: LY
 dv_ISO3: LBY
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]"
+  - '[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]'
 dv_has_:
   name_:
+    ab: Ливиа
+    ace: Libya
+    ady: Ливие
+    aeb-arab: ليبيا
+    af: Libië
+    am: ሊቢያ
+    ami: Libya
+    an: Libia
+    ang: Libia
+    ann: Libia
+    anp: लीबिया
+    ar: ليبيا
+    arc: ܠܘܒܐ
+    ary: ليبيا
+    arz: ليبيا
+    as: লিবিয়া
+    ast: Libia
+    avk: Libia
+    az: Liviya
+    azb: لیبی
+    ba: Ливия
+    ban: Libya
+    bar: Libyen
+    bcl: Libya
+    be: Лівія
+    be-tarask: Лібія
+    bew: Libi
+    bg: Либия
+    bgn: لیبیا
+    bho: लीबिया
+    bi: Libia
+    bjn: Libya
+    bm: Libya
+    bn: লিবিয়া
+    bo: ལི་པི་ཡ།
+    bpy: লিবিয়া
+    br: Libia
+    bs: Libija
+    bug: ᨒᨗᨅᨗᨐ
+    bxr: Ливи
+    ca: Líbia
+    cbk-zam: Libya
+    cdo: Libya
+    ce: Ливи
+    ceb: Libya
+    ckb: لیبیا
+    co: Libia
+    crh: Libiya
+    crh-latn: Libiya
+    cs: Libye
+    csb: Libiô
+    cv: Ливи
+    cy: Libya
+    da: Libyen
+    dag: Libya
+    de: Libyen
+    din: Libya
+    diq: Libya
+    dsb: Libyska
+    dty: लिबिया
+    dv: ލީބިޔާ
+    ee: Libya
+    el: Λιβύη
+    en: Libya
+    en-ca: Libya
+    en-gb: Libya
+    eo: Libio
+    es: Libia
+    et: Liibüa
+    eu: Libia
+    ext: Líbia
+    fa: لیبی
+    ff: Libiya
+    fi: Libya
+    fo: Libya
+    fr: Libye
+    frp: Libie
+    frr: Libyen
+    fy: Lybje
+    ga: an Libia
+    gag: Liviya
+    gcr: Libi
+    gd: Libia
+    gl: Libia
+    glk: ليبي
+    gn: Livia
+    gom: लिबिया
+    gor: Libya
+    gpe: Libya
+    grc: Λιβύη
+    gsw: Libye
+    gu: લીબિયા
+    gur: Libya
+    gv: y Leeb
+    ha: Libya
+    hak: Libya
+    he: לוב
+    hi: लीबिया
+    hif: Libya
+    hr: Libija
+    hsb: Libyska
+    ht: Libi
+    hu: Líbia
+    hy: Լիբիա
+    hyw: Լիպիա
+    ia: Libya
+    iba: Libia
+    id: Libya
+    ie: Libya
+    ig: Libya
+    ilo: Libya
+    io: Libia
+    is: Líbýa
+    it: Libia
+    ja: リビア
+    jam: Libia
+    jbo: libgu'e
+    jv: Libya
+    ka: ლიბია
+    kaa: Libya
+    kab: Libya
+    kbp: Liibii
+    kcg: Li̱biya
+    kg: Libia
+    kge: Libya
+    ki: Libya
+    kk: Ливия
+    kl: Libya
+    km: លីប៊ី
+    kn: ಲಿಬಿಯಾ
+    knc: Libya
+    ko: 리비아
+    ks: لیٖبیا
+    ku: Lîbya
+    kw: Libi
+    ky: Ливия
+    la: Libya
+    lad: Libya
+    lb: Libyen
+    lfn: Libia
+    lg: Libya
+    li: Libië
+    lij: Libia
+    lld: Libia
+    lmo: Libia
+    ln: Libîya
+    lrc: لیبی
+    lt: Libija
+    lv: Lībija
+    lzh: 利比亞
+    mad: Libya
+    mai: लीबिया
+    map-bms: Libya
+    mdf: Либия
+    mg: Libia
+    mhr: Ливий
+    mi: Rīpia
+    min: Libya
+    mk: Либија
+    ml: ലിബിയ
+    mn: Ливи
+    mni: ꯂꯤꯕꯤꯌꯥ
+    mr: लीबिया
+    mrj: Ливи
+    ms: Libya
+    mt: Libja
+    mwl: Líbia
+    my: လစ်ဗျားနိုင်ငံ
+    mzn: لیبی
+    na: Libya
+    nah: Libia
+    nan: Libya
+    nap: Libbia
+    nb: Libya
+    nds: Libyen
+    nds-nl: Libië
+    ne: लिबिया
+    new: लिब्या
+    nl: Libië
+    nn: Libya
+    nov: Libia
+    nqo: ߟߌߓߌ߫
+    nso: Libya
+    nv: Haʼaʼaahjí Ghą́ą́ʼaskʼidii Biłikahii Bikéyah
+    oc: Libia
+    olo: Livii
+    om: Liibiyaa
+    or: ଲିବିଆ
+    os: Ливи
+    pa: ਲੀਬੀਆ
+    pag: Libya
+    pam: Libya
+    pap: Libia
+    pfl: Libye
+    pi: लिबिया
+    pih: Libiia
+    pl: Libia
+    pms: Libia
+    pnb: لبیا
+    ps: لېبيا
+    pt: Líbia
+    pt-br: Líbia
+    qu: Libya
+    rmy: Libiya
+    ro: Libia
+    ru: Ливия
+    rue: Лібія
+    rup: Libia
+    rw: Libiya
+    sa: लिबिया
+    sah: Лиибийэ
+    sc: Lìbia
+    scn: Libbia
+    sco: Libie
+    sd: لبيا
+    se: Libya
+    sg: Libïi
+    sgs: Lėbėjė
+    sh: Libija
+    shi: Libya
+    shn: မိူင်းလိပ်ႉပျႃး
+    si: ලිබියාව
+    sk: Líbya
+    sl: Libija
+    sm: Libya
+    smn: Libya
+    sms: Libya
+    sn: Libya
+    so: Libiya
+    sq: Libia
+    sr: Либија
+    sr-ec: Либија
+    sr-el: Libija
+    ss: ILibhiya
+    st: Libya
+    stq: Libyen
+    su: Libya
+    sv: Libyen
+    sw: Libya
+    syl: ꠟꠤꠛꠤꠀ
+    szl: Libijo
+    szy: Libya
+    ta: லிபியா
+    tay: Libya
+    te: లిబియా
+    tg: Либия
+    th: ประเทศลิเบีย
+    ti: ሊቢያ
+    tk: Liwiýa
+    tl: Libya
+    tly: Libya
+    tok: ma Lipija
+    tr: Libya
+    trv: Libya
+    ts: Libiya
+    tt: Ливия
+    tum: Libya
+    tw: Libya
+    udm: Ливия
+    ug: لىۋىيە
+    uk: Лівія
+    ur: لیبیا
+    uz: Liviya
+    vec: Lìbia
+    vep: Livii
+    vi: Libya
+    vls: Libië
+    vo: Lübän
+    vro: Liibüä
+    wa: Libeye
+    war: Libya
+    wo: Libi
+    wuu: 利比亚
+    xal: Либудин Аһу Социгализмин Араб Улс Орн
+    xmf: ლიბია
+    yi: ליביע
+    yo: Líbyà
+    yue: 利比亞
+    za: Libya
+    zea: Libië
+    zgh: ⵍⵉⴱⵢⴰ
+    zh: 利比亞
+    zh-cn: 利比亚
+    zh-hans: 利比亚
+    zh-hant: 利比亞
+    zh-hk: 利比亞
+    zh-tw: 利比亞
+    zu: ILibiya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Libya
 dv_has_name_de: Libyen Libyan Arab. Jamahiriya
 dv_Area-Total: 1775500
 dv_Area-Land: 1759540
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: LAR
 dv_Capital: "[[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]"
 dv_Alcohol-l: 0.1
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 13.19
 dv_has_place_latitude: 32.89
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]"
+- '[[../../../../WikiData/WD~Libya,1016|WD~Libya,1016]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]]'
+- '[[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Libya
-
 aliases:
-  - Libya
-  - Libia
-  - Libye
-  - ليبيا
-  - 利比亚
-  - Ливия
+- an Libia
+- Haʼaʼaahjí Ghą́ą́ʼaskʼidii Biłikahii Bikéyah
+- ILibhiya
+- ILibiya
+- Libbia
+- Libeye
+- libgu'e
+- Libi
+- Libia
+- Libie
+- Libiia
+- Libija
+- Libijo
+- Libio
+- Libiya
+- Libië
+- Libiô
+- Libja
+- Libya
+- Libye
+- Libyen
+- Libyska
+- Libîya
+- Libïi
+- Liibii
+- Liibiyaa
+- Liibüa
+- Liibüä
+- Livia
+- Livii
+- Liviya
+- Liwiýa
+- Li̱biya
+- Lybje
+- Lìbia
+- Líbia
+- Líbya
+- Líbyà
+- Líbýa
+- Lîbya
+- Lübän
+- Lėbėjė
+- Lībija
+- ma Lipija
+- Rīpia
+- y Leeb
+- Λιβύη
+- Лібія
+- Лівія
+- Либија
+- Либия
+- Либудин Аһу Социгализмин Араб Улс Орн
+- Ливи
+- Ливиа
+- Ливие
+- Ливий
+- Ливия
+- Лиибийэ
+- Լիբիա
+- Լիպիա
+- לוב
+- ליביע
+- لبيا
+- لبیا
+- لىۋىيە
+- ليبي
+- ليبيا
+- لیبی
+- لیبیا
+- لیٖبیا
+- لېبيا
+- ܠܘܒܐ
+- ލީބިޔާ
+- ߟߌߓߌ߫
+- लिबिया
+- लिब्या
+- लीबिया
+- লিবিয়া
+- ਲੀਬੀਆ
+- લીબિયા
+- ଲିବିଆ
+- லிபியா
+- లిబియా
+- ಲಿಬಿಯಾ
+- ലിബിയ
+- ලිබියාව
+- ประเทศลิเบีย
+- ལི་པི་ཡ།
+- မိူင်းလိပ်ႉပျႃး
+- လစ်ဗျားနိုင်ငံ
+- ლიბია
+- ሊቢያ
+- លីប៊ី
+- ᨒᨗᨅᨗᨐ
+- ⵍⵉⴱⵢⴰ
+- リビア
+- 利比亚
+- 利比亞
+- ꠟꠤꠛꠤꠀ
+- ꯂꯤꯕꯤꯌꯥ
+- 리비아
 has_id_wikidata: Q1016
-anthem: "[[_Standards/WikiData/WD~Libya,_Libya,_Libya,45861]]"
+anthem: '[[_Standards/WikiData/WD~Libya,_Libya,_Libya,45861]]'
 area: 1759541
 Baidu_Tieba_name: 利比亚
-basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 BHCL_UUID: 6494b201-d92e-4b7a-ab3a-33ea52c839af
 birth_rate:
-  - 17.298
-  - 17.828
-  - 18.302
-  - 18.732
+- 17.298
+- 17.828
+- 18.302
+- 18.732
 BTI_Governance_Index:
-  - 2.9
-  - 2.29
-  - 2.31
-  - 2.45
-  - 2.47
-  - 3.06
-  - 3.12
-  - 4.15
+- 2.9
+- 2.29
+- 2.31
+- 2.45
+- 2.47
+- 3.06
+- 3.12
+- 4.15
 BTI_Status_Index:
-  - 4
-  - 2.6
-  - 2.43
-  - 2.53
-  - 2.64
-  - 4.24
-  - 4.48
-  - 4.49
-  - 4.62
-capital: "[[_Standards/WikiData/WD~Tripoli,3579]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Libya,58234]]"
+- 4
+- 2.6
+- 2.43
+- 2.53
+- 2.64
+- 4.24
+- 4.48
+- 4.49
+- 4.62
+capital: '[[_Standards/WikiData/WD~Tripoli,3579]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Libya,58234]]'
 CIVICUS_Monitor_country_entry: libya
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Libya,44783]]"
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Libya,44783]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20the%20Government%20of%20National%20Unity%20%28Libya%29.svg
 Colon_Classification: SG--674
 Commons_category: Libya
@@ -135,185 +517,185 @@ compulsory_education_maximum_age_: 15
 compulsory_education_minimum_age_: 6
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Misrata,131323]]"
-  - "[[_Standards/WikiData/WD~Nalut,132409]]"
-  - "[[_Standards/WikiData/WD~Ghat,209393]]"
-  - "[[_Standards/WikiData/WD~Murqub,209778]]"
-  - "[[_Standards/WikiData/WD~Zawiya,221503]]"
-  - "[[_Standards/WikiData/WD~Jafara,329060]]"
-  - "[[_Standards/WikiData/WD~Tripoli,3579]]"
-  - "[[_Standards/WikiData/WD~Jabal_al_Gharbi_District,25632]]"
-  - "[[_Standards/WikiData/WD~Butnan_District,25931]]"
-  - "[[_Standards/WikiData/WD~Al_Wahat_District,26000]]"
-  - "[[_Standards/WikiData/WD~Marj_District,26023]]"
-  - "[[_Standards/WikiData/WD~Derna_District,26124]]"
-  - "[[_Standards/WikiData/WD~Sabha_District,26132]]"
-  - "[[_Standards/WikiData/WD~Zawiya_District,26153]]"
-  - "[[_Standards/WikiData/WD~Nuqat_al_Khams_District,26161]]"
-  - "[[_Standards/WikiData/WD~Sirte_District,26417]]"
-  - "[[_Standards/WikiData/WD~Nalut_District,27659]]"
-  - "[[_Standards/WikiData/WD~Tripoli_District,32837]]"
-  - "[[_Standards/WikiData/WD~Jabal_al_Akhdar,32841]]"
-  - "[[_Standards/WikiData/WD~Misrata_District,32845]]"
-  - "[[_Standards/WikiData/WD~Benghazi,40816]]"
-  - "[[_Standards/WikiData/WD~Kufra_District,48200]]"
-  - "[[_Standards/WikiData/WD~Wadi_al_Shatii_District,48232]]"
-  - "[[_Standards/WikiData/WD~Wadi_al_Hayaa_District,48233]]"
-  - "[[_Standards/WikiData/WD~Murzuq_District,48239]]"
-  - "[[_Standards/WikiData/WD~Ghat_District,48236]]"
-  - "[[_Standards/WikiData/WD~Jufra,48247]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~Misrata,131323]]'
+- '[[_Standards/WikiData/WD~Nalut,132409]]'
+- '[[_Standards/WikiData/WD~Ghat,209393]]'
+- '[[_Standards/WikiData/WD~Murqub,209778]]'
+- '[[_Standards/WikiData/WD~Zawiya,221503]]'
+- '[[_Standards/WikiData/WD~Jafara,329060]]'
+- '[[_Standards/WikiData/WD~Tripoli,3579]]'
+- '[[_Standards/WikiData/WD~Jabal_al_Gharbi_District,25632]]'
+- '[[_Standards/WikiData/WD~Butnan_District,25931]]'
+- '[[_Standards/WikiData/WD~Al_Wahat_District,26000]]'
+- '[[_Standards/WikiData/WD~Marj_District,26023]]'
+- '[[_Standards/WikiData/WD~Derna_District,26124]]'
+- '[[_Standards/WikiData/WD~Sabha_District,26132]]'
+- '[[_Standards/WikiData/WD~Zawiya_District,26153]]'
+- '[[_Standards/WikiData/WD~Nuqat_al_Khams_District,26161]]'
+- '[[_Standards/WikiData/WD~Sirte_District,26417]]'
+- '[[_Standards/WikiData/WD~Nalut_District,27659]]'
+- '[[_Standards/WikiData/WD~Tripoli_District,32837]]'
+- '[[_Standards/WikiData/WD~Jabal_al_Akhdar,32841]]'
+- '[[_Standards/WikiData/WD~Misrata_District,32845]]'
+- '[[_Standards/WikiData/WD~Benghazi,40816]]'
+- '[[_Standards/WikiData/WD~Kufra_District,48200]]'
+- '[[_Standards/WikiData/WD~Wadi_al_Shatii_District,48232]]'
+- '[[_Standards/WikiData/WD~Wadi_al_Hayaa_District,48233]]'
+- '[[_Standards/WikiData/WD~Murzuq_District,48239]]'
+- '[[_Standards/WikiData/WD~Ghat_District,48236]]'
+- '[[_Standards/WikiData/WD~Jufra,48247]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 coordinates_of_easternmost_point: Point(25.14909 31.65736)
 coordinates_of_northernmost_point: Point(11.57 33.15)
 coordinates_of_southernmost_point: Point(24.0 19.5)
 coordinates_of_westernmost_point: Point(9.39166 30.16818)
 coordinate_location: Point(17.0 27.0)
-country: "[[_Standards/WikiData/WD~Libya,1016]]"
+country: '[[_Standards/WikiData/WD~Libya,1016]]'
 country_calling_code: 218
 cssclasses:
-  - Country
-culture: "[[_Standards/WikiData/WD~culture_of_Libya,2509687]]"
+- Country
+culture: '[[_Standards/WikiData/WD~culture_of_Libya,2509687]]'
 death_rate:
-  - 5.454
-  - 5.598
-  - 5.954
-  - 6.018
+- 5.454
+- 5.598
+- 5.954
+- 6.018
 Democracy_Index: 1.95
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Libya,2002194]]"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Libya,2002194]]'
 demonym:
-  - ليبي
-  - ليبية
-  - ليبيات
-  - ليبيين
-  - Libiach
-  - ليبية
-  - libia
-  - libiu
-  - লিবীয়
-  - Λύβια
-  - Λύβιες
-  - Λύβιοι
-  - Λύβιος
-  - Libiano
-  - Libyen
-  - Libyenne
-  - לובי
-  - לובית
-  - líbiai
-  - Libiano
-  - libica
-  - libiche
-  - libici
-  - libico
-  - libi
-  - libian
-  - libiană
-  - libieni
-  - ливиец
-  - ливийка
-  - ливийцы
-  - lìbega
-  - lìbeghe
-  - lìbeghi
-  - lìbego
-  - Lübänan
-  - Libyan
-  - ليبي
-  - ليبيون
+- ليبي
+- ليبية
+- ليبيات
+- ليبيين
+- Libiach
+- ليبية
+- libia
+- libiu
+- লিবীয়
+- Λύβια
+- Λύβιες
+- Λύβιοι
+- Λύβιος
+- Libiano
+- Libyen
+- Libyenne
+- לובי
+- לובית
+- líbiai
+- Libiano
+- libica
+- libiche
+- libici
+- libico
+- libi
+- libian
+- libiană
+- libieni
+- ливиец
+- ливийка
+- ливийцы
+- lìbega
+- lìbeghe
+- lìbeghi
+- lìbego
+- Lübänan
+- Libyan
+- ليبي
+- ليبيون
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 detail_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Libya%20-%20Location%20Map%20%282013%29%20-%20LBY%20-%20UNOCHA-pt.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Libya%20-%20Location%20Map%20%282013%29%20-%20LBY%20-%20UNOCHA.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Libya%20-%20Location%20Map%20%282013%29%20-%20LBY%20-%20UNOCHA-pt.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Libya%20-%20Location%20Map%20%282013%29%20-%20LBY%20-%20UNOCHA.svg
 Dewey_Decimal_Classification: 2--612
-different_from: "[[_Standards/WikiData/WD~Libya,124512336]]"
+different_from: '[[_Standards/WikiData/WD~Libya,124512336]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Vanuatu,686]]"
-  - "[[_Standards/WikiData/WD~Grenada,769]]"
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Malta,233]]"
-  - "[[_Standards/WikiData/WD~Montenegro,236]]"
+- '[[_Standards/WikiData/WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Chad,657]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Vanuatu,686]]'
+- '[[_Standards/WikiData/WD~Grenada,769]]'
+- '[[_Standards/WikiData/WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Libya,2048303]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Libya,2048303]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_L,1520890]]"
-  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_L,1520890]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~193,25648835]]"
-  - "[[_Standards/WikiData/WD~190,25648833]]"
-  - "[[_Standards/WikiData/WD~191,25648876]]"
-expiryDate: ""
+- '[[_Standards/WikiData/WD~193,25648835]]'
+- '[[_Standards/WikiData/WD~190,25648833]]'
+- '[[_Standards/WikiData/WD~191,25648876]]'
+expiryDate: ''
 female_population:
-  - 3240076
-  - 3283983
-  - 3325769
-  - 3365279
+- 3240076
+- 3283983
+- 3325769
+- 3365279
 FIPS_10_4_countries_and_regions_: LY
-flag: "[[_Standards/WikiData/WD~flag_of_Libya,34599]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Libya,34599]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Libya.svg
 follows: "[[_Standards/WikiData/WD~Great_Socialist_People's_Libyan_Arab_Jamahiriya,4843701]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Libya,30645]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Libya,30645]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Libya.map
 GitHub_topic: libya
 GS1_country_code: 624
 Happy_Planet_Index_score: 42.7
 hashtag: Libya
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-head_of_government: "[[_Standards/WikiData/WD~Abdulhamid_Dbeibeh,105319569]]"
-head_of_state: "[[_Standards/WikiData/WD~Mohamed_al-Menfi,105319610]]"
-highest_point: "[[_Standards/WikiData/WD~Bikku_Bitti,860146]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Libya,28907]]"
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+head_of_government: '[[_Standards/WikiData/WD~Abdulhamid_Dbeibeh,105319569]]'
+head_of_state: '[[_Standards/WikiData/WD~Mohamed_al-Menfi,105319610]]'
+highest_point: '[[_Standards/WikiData/WD~Bikku_Bitti,860146]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Libya,28907]]'
 Human_Development_Index: 0.718
 IAB_code: 1340
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tripoli%20Skyline%20edit.jpg
 inception:
-  - 1969-09-01
-  - 1977-03-02
-  - 1551-08-25
-  - 1951-12-24
+- 1969-09-01
+- 1977-03-02
+- 1551-08-25
+- 1951-12-24
 INSEE_countries_and_foreign_territories_code: 99316
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 IOC_country_code: LBA
 isDeleted: false
 ISNI: 121678150
@@ -322,141 +704,140 @@ ISO_3166_1_alpha_3_code: LBY
 ISO_3166_1_numeric_code: 434
 isReadOnly: false
 ITU_letter_code: LBY
-keywords: ""
+keywords: ''
 Krugosvet_article: strany-mira/liviya
 Languages:
-  - ar-LY
-  - it
-  - en
+- ar-LY
+- it
+- en
 language_used:
-  - "[[_Standards/WikiData/WD~Sokna,2988323]]"
-  - "[[_Standards/WikiData/WD~Libyan_Sign_Language,11775688]]"
-  - "[[_Standards/WikiData/WD~Nafusi,36151]]"
-  - "[[_Standards/WikiData/WD~Teda,36639]]"
-  - "[[_Standards/WikiData/WD~Siwa,36814]]"
-  - "[[_Standards/WikiData/WD~Awjila,56398]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-  - "[[_Standards/WikiData/WD~Libyan_Arabic,56503]]"
-  - "[[_Standards/WikiData/WD~Tamahaq,56703]]"
-  - "[[_Standards/WikiData/WD~Ghadamès,56747]]"
-layout: ""
+- '[[_Standards/WikiData/WD~Sokna,2988323]]'
+- '[[_Standards/WikiData/WD~Libyan_Sign_Language,11775688]]'
+- '[[_Standards/WikiData/WD~Nafusi,36151]]'
+- '[[_Standards/WikiData/WD~Teda,36639]]'
+- '[[_Standards/WikiData/WD~Siwa,36814]]'
+- '[[_Standards/WikiData/WD~Awjila,56398]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Libyan_Arabic,56503]]'
+- '[[_Standards/WikiData/WD~Tamahaq,56703]]'
+- '[[_Standards/WikiData/WD~Ghadamès,56747]]'
+layout: ''
 legislative_body:
-  - "[[_Standards/WikiData/WD~House_of_Representatives,17443556]]"
-  - "[[_Standards/WikiData/WD~High_Council_of_State,22120968]]"
+- '[[_Standards/WikiData/WD~House_of_Representatives,17443556]]'
+- '[[_Standards/WikiData/WD~High_Council_of_State,22120968]]'
 licence_plate_code: LAR
 license: CC BY-SA 4.0
 life_expectancy: 71.934
-linkTitle: ""
+linkTitle: ''
 literacy_rate: 86.1
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~North_Africa,27381]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~North_Africa,27381]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
-  - "[[_Standards/WikiData/WD~Africa_Tripoli,4689523]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
+- '[[_Standards/WikiData/WD~Eastern_European_Time,190252]]'
+- '[[_Standards/WikiData/WD~Africa_Tripoli,4689523]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
 location:
-  - 32.89
-  - 13.19
+- 32.89
+- 13.19
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Libya%20-%20Location%20Map%20%282013%29%20-%20LBY%20-%20UNOCHA.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Libya%20%28orthographic%20projection%29.svg
-lowest_point: "[[_Standards/WikiData/WD~Sabkhat_Ghuzayyil,48212]]"
+lowest_point: '[[_Standards/WikiData/WD~Sabkhat_Ghuzayyil,48212]]'
 M49_code: 434
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 mains_voltage:
-  - 230
-  - 127
+- 230
+- 127
 male_population:
-  - 3329012
-  - 3369959
-  - 3409508
-  - 3447062
+- 3329012
+- 3369959
+- 3409508
+- 3447062
 maritime_identification_digits: 642
 marriageable_age: 20
 member_of:
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
 MeSH_tree_code: Z01.058.266.513
 mobile_country_code: 606
 native_label: دولة ليبيا
 nominal_GDP:
-  - 45752336036
-  - 39798423941
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Libya,15305714]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Chairman_of_the_Presidential_Council,102181806]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+- 45752336036
+- 39798423941
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Libya,15305714]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Chairman_of_the_Presidential_Council,102181806]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 official_name:
-  - Ливия дәүләте
-  - l’État de Libye
-  - Stato della Libia
+- Ливия дәүләте
+- l’État de Libye
+- Stato della Libia
 OmegaWiki_Defined_Meaning: 8287
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bomba%20%28Libya%29%20banner%20Mosque.jpg
-part_of: "[[_Standards/WikiData/WD~North_Africa,27381]]"
+part_of: '[[_Standards/WikiData/WD~North_Africa,27381]]'
 PM20_geo_code: C15
 population: 6678567
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Libyen.ogg
 publish: true
-publishDate: ""
+publishDate: ''
 replaces: "[[_Standards/WikiData/WD~Great_Socialist_People's_Libyan_Arab_Jamahiriya,4843701]]"
 retirement_age: 65
 rural_population:
-  - 1284810
-  - 1273772
-  - 1280107
-  - 1288001
+- 1284810
+- 1273772
+- 1280107
+- 1288001
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-short_name: 🇱🇾
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Chad,657]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+short_name: "\U0001F1F1\U0001F1FE"
 source: https://datahub.io/core/country-codes
 speed_limit: 100
 SpocWebEntityId: 26955
-studied_in: "[[_Standards/WikiData/WD~Libyan_studies,115669714]]"
+studied_in: '[[_Standards/WikiData/WD~Libyan_studies,115669714]]'
 subreddit: Libya
 tags:
-  - geo/Country
+- geo/Country
 title: Libya
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Libya,4753798]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.ly,42035]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Libya,4753798]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ly,42035]]'
 total_fertility_rate: 2.467
 type: Country
 unemployment_rate: 19
-Unicode_character: 🇱🇾
+Unicode_character: "\U0001F1F1\U0001F1FE"
 urban_population:
-  - 5455170
-  - 5281087
-  - 5369132
-  - 5538569
+- 5455170
+- 5281087
+- 5369132
+- 5538569
 U_S_National_Archives_Identifier: 10035735
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Libya,7112335]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Libya,7112335]]'
 WIPO_ST_3: LY
 ---
-
 # [[Libya]] 
 
 ## [[Libya]] has Properties...

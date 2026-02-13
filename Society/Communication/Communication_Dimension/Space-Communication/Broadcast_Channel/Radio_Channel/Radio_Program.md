@@ -1,32 +1,163 @@
 ---
 aliases:
+- audycja radiowa
+- Chương trình phát thanh
+- clár raidió
+- emisiune radio
+- Hörfunksendung
+- Irratsaio
+- program radio
+- programa de radio
+- programa de ràdio
+- programa de rádio
+- programa di radio
+- programa radiofónico
+- programma radiofonico
+- raadiosaade
+- radijska oddaja
+- radijski program
+- radio program
+- radio programma
+- radio programme
+- Radio proqram
+- radio-ohjelm
+- radio-ohjelma
+- Radio-programo
+- radioprogram
+- radioprogramm
+- radioprogramma
+- radioprogramo
+- Radiosändig
+- radyo programı
+- rancangan radio
+- rhaglen radio
+- rozhlasový pořad
+- rozhlasový program
+- rádio-prográmma
+- rádiós műsor
+- Uhlelo Lomsakazo
+- émission de radio
+- Útvarpsþáttur
+- ραδιοφωνικό πρόγραμμα
+- радіопрограма
+- радијски програм
+- радиоемисија
+- радиопрограмма
+- радыёпраграма
+- Ռադիոհաղորդում
+- תוכנית רדיו
+- برنامج إذاعي
+- رانچڠن راديو
+- ریڈیو پروگرام
+- রেডিও প্রোগ্রাম
+- வானொலி நிகழ்ச்சி
+- ラジオ番組
+- 广播节目
+- 廣播節目
+- 电台节目
+- 電台節目
+- 라디오 프로그램
 has_id_wikidata: Q1555508
 different_from:
-  - "[[_Standards/WikiData/WD~radio_broadcasting,273623]]"
-  - "[[_Standards/WikiData/WD~radio_show,1742009]]"
-part_of: "[[_Standards/WikiData/WD~radio_programming,2296548]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+- '[[_Standards/WikiData/WD~radio_broadcasting,273623]]'
+- '[[_Standards/WikiData/WD~radio_show,1742009]]'
+part_of: '[[_Standards/WikiData/WD~radio_programming,2296548]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~radio_personality,2722764]]"
-  - "[[_Standards/WikiData/WD~radio_producer,3406651]]"
-  - "[[_Standards/WikiData/WD~radio_editor,10270331]]"
+- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~radio_producer,3406651]]'
+- '[[_Standards/WikiData/WD~radio_editor,10270331]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~broadcasting_program,11578774]]"
-  - "[[_Standards/WikiData/WD~audio_work,110879422]]"
-  - "[[_Standards/WikiData/WD~published_audio_work,119649004]]"
-  - "[[_Standards/WikiData/WD~mass_media,11033]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_radio_show,13033995]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_mass_media,121132955]]"
-manufacturer: "[[_Standards/WikiData/WD~radio_station,14350]]"
+- '[[_Standards/WikiData/WD~broadcasting_program,11578774]]'
+- '[[_Standards/WikiData/WD~audio_work,110879422]]'
+- '[[_Standards/WikiData/WD~published_audio_work,119649004]]'
+- '[[_Standards/WikiData/WD~mass_media,11033]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_radio_show,13033995]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_mass_media,121132955]]'
+manufacturer: '[[_Standards/WikiData/WD~radio_station,14350]]'
 U_S_National_Archives_Identifier:
-  - "10644300"
-  - "10657688"
+- 10644300
+- 10657688
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Realizaci%C3%B3n1%20A%20vivir%20Cadena%20SER%20octubre%202022.jpg
 equivalent_class: http://dbpedia.org/ontology/RadioProgram
-Dewey_Decimal_Classification: "791.447"
+Dewey_Decimal_Classification: 791.447
 Commons_category: Radio programmes
+dv_has_:
+  name_:
+    af: radioprogram
+    ar: برنامج إذاعي
+    ast: programa de radio
+    az: Radio proqram
+    be: радыёпраграма
+    be-tarask: радыёпраграма
+    bn: রেডিও প্রোগ্রাম
+    ca: programa de ràdio
+    cs: rozhlasový pořad
+    cy: rhaglen radio
+    da: radioprogram
+    de: Hörfunksendung
+    el: ραδιοφωνικό πρόγραμμα
+    en: radio program
+    en-gb: radio programme
+    eo: radioprogramo
+    es: programa radiofónico
+    et: raadiosaade
+    eu: Irratsaio
+    fi: radio-ohjelma
+    fr: émission de radio
+    fy: Radioprogramma
+    ga: clár raidió
+    gl: programa de radio
+    gsw: Radiosändig
+    he: תוכנית רדיו
+    hu: rádiós műsor
+    hy: Ռադիոհաղորդում
+    id: program radio
+    io: Radio-programo
+    is: Útvarpsþáttur
+    it: programma radiofonico
+    ja: ラジオ番組
+    ko: 라디오 프로그램
+    lv: radio programma
+    mk: радиоемисија
+    ms: rancangan radio
+    ms-arab: رانچڠن راديو
+    nb: radioprogram
+    nl: radioprogramma
+    nn: radioprogram
+    oc: programa de ràdio
+    pap: programa di radio
+    pl: audycja radiowa
+    pt: programa de rádio
+    pt-br: programa de rádio
+    ro: emisiune radio
+    ru: радиопрограмма
+    sco: radio program
+    se: rádio-prográmma
+    sk: rozhlasový program
+    sl: radijska oddaja
+    smn: radio-ohjelm
+    sms: radioprogramm
+    sr: радијски програм
+    sr-ec: радијски програм
+    sr-el: radijski program
+    sv: radioprogram
+    ta: வானொலி நிகழ்ச்சி
+    tr: radyo programı
+    uk: радіопрограма
+    ur: ریڈیو پروگرام
+    vi: Chương trình phát thanh
+    yue: 電台節目
+    zh: 廣播節目
+    zh-cn: 广播节目
+    zh-hans: 电台节目
+    zh-hant: 廣播節目
+    zh-hk: 電台節目
+    zh-my: 电台节目
+    zh-sg: 电台节目
+    zh-tw: 廣播節目
+    zu: Uhlelo Lomsakazo
 ---
-
 # [[Radio_Program]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~radio_program,1555508]] 

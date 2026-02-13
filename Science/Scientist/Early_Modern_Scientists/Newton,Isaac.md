@@ -1,80 +1,169 @@
 ---
 aliases:
-  - Isaac Newton
-  - Sir Isaac Newton
-  - Isaac_Newton
-  - Newton,Isaac
+- aisak.niuton
+- Aisik Newtọn
+- Aizak Nyuutn
+- Aykesa,niwtun
+- Ayzek Nyuton
+- Isaac Newton
+- Isaacus Newtonus
+- Isaac_Newton
+- Isaak Nýuton
+- Isak Njutn
+- Ishak Niuton
+- Isxaaq Newton
+- Isḥaqq Nyutun
+- Is’haaq Niiwtan
+- Izaokas Niutonas
+- Izauoks Niotuons
+- jan Isa Nuton
+- Newton,Isaac
+- Newtoni Isaac
+- Njuton Isaak
+- Sir Isaac Newton
+- Yisaaka Netoni
+- Īzaks Ņūtons
+- İsaak Nyuton
+- Ισαάκ Νεύτων
+- Ισαάκ Νιούτον
+- Ісаак Ньютан
+- Ісаак Ньютон
+- Ісак Ньютан
+- Їсаакъ Нютонъ
+- Исаак Ньютон
+- Исаак Нютон
+- Исак Њутн
+- Исак Нютн
+- Исак Нютон
+- Исхьакъ Ньютон
+- Ньютон
+- Ньютон Исаак
+- Ньютон, Исаак
+- Нютон, Исаак
+- Այզըք Նիութըն
+- Իսահակ Նյուտոն
+- אייזיק ניוטאן
+- אייזק ניוטון
+- آئزک نیوٹن
+- آئزک نیٛوٹن
+- آئزڪ نيوٽن
+- آئیزک نیوٹن
+- آيزاک نيوټن
+- آیزاک نیوتن
+- آیزاک نیوتون
+- إسحاق نيوتن
+- ئایزک نیوتن
+- ئىسساك نيوتۇن
+- اسحاق نیوتن
+- ايزاك نيوتن
+- ܐܝܣܚܩ ܢܝܘܛܢ
+- އިސާކް ނިއުޓަން
+- अइज्याक न्युटन
+- आइजक न्युटन
+- आइजक न्यूटन
+- आइज़क न्यूटन
+- आइज्याक न्यूटन
+- आईज्याक न्युटन
+- आयझॅक न्यूटन
+- ऐसाक् न्यूटन्
+- सर आयझॅक न्यूटन
+- আইজাক নিউটন
+- ਆਇਜ਼ੈਕ ਨਿਊਟਨ
+- આઈઝેક્ ન્યૂટન
+- ଆଇଜାକ ନିଉଟନ
+- ஐசாக் நியூட்டன்
+- ఐజాక్ న్యూటన్
+- ಸರ್ ಐಸಾಕ್ ನ್ಯೂಟನ್
+- ഐസക് ന്യൂട്ടൺ
+- අයිසැක් නිව්ටන්
+- ไอแซก นิวตัน
+- ໄອແຊກ ນິວເຕິນ
+- ဆာအိုက်ဆက် နယူတန်
+- နယူတန်
+- နျူတန်
+- ისააკ ნიუტონი
+- አይሳክ ኒውተን
+- អ៊ីសាក់ ញូតុន
+- ᱟᱭᱡᱮᱠ ᱱᱤᱭᱩᱴᱚᱱ
+- ⵙⵃⴰⵇ ⵏⵢⵓⵟⵏ
+- アイザック・ニュートン
+- 牛頓
+- 牛顿
+- 艾碩·牛頓
+- 艾萨克·牛顿
+- 艾薩克·牛頓
+- 아이작 뉴턴
 has_id_wikidata: Q935
 notable_work:
-  - '[[_Standards/WikiData/WD~Opticks,_or_a_Treatise_of_the_Reflections,_Refractions,_Inflections_and_Colours_of_Light,74263]]'
-  - '[[_Standards/WikiData/WD~Philosophiæ_Naturalis_Principia_Mathematica,205921]]'
-  - '[[_Standards/WikiData/WD~Method_of_Fluxions,3074567]]'
+- '[[_Standards/WikiData/WD~Opticks,_or_a_Treatise_of_the_Reflections,_Refractions,_Inflections_and_Colours_of_Light,74263]]'
+- '[[_Standards/WikiData/WD~Philosophiæ_Naturalis_Principia_Mathematica,205921]]'
+- '[[_Standards/WikiData/WD~Method_of_Fluxions,3074567]]'
 member_of: '[[_Standards/WikiData/WD~Royal_Society,123885]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 occupation:
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~celestial_mechanics,184274]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
-  - '[[_Standards/WikiData/WD~natural_science,7991]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~optics,14620]]'
-  - '[[_Standards/WikiData/WD~mechanics,41217]]'
-  - '[[_Standards/WikiData/WD~momentum,41273]]'
+- '[[_Standards/WikiData/WD~celestial_mechanics,184274]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~natural_science,7991]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~optics,14620]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
+- '[[_Standards/WikiData/WD~momentum,41273]]'
 interested_in:
-  - '[[_Standards/WikiData/WD~celestial_mechanics,184274]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~optics,14620]]'
-  - '[[_Standards/WikiData/WD~momentum,41273]]'
+- '[[_Standards/WikiData/WD~celestial_mechanics,184274]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~optics,14620]]'
+- '[[_Standards/WikiData/WD~momentum,41273]]'
 medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Isaac_Barrow,207718]]'
-  - '[[_Standards/WikiData/WD~Benjamin_Pulleyn,2893710]]'
+- '[[_Standards/WikiData/WD~Isaac_Barrow,207718]]'
+- '[[_Standards/WikiData/WD~Benjamin_Pulleyn,2893710]]'
 significant_person: '[[_Standards/WikiData/WD~Isaac_Barrow,207718]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Isaac_Barrow,207718]]'
-  - '[[_Standards/WikiData/WD~Benjamin_Pulleyn,2893710]]'
+- '[[_Standards/WikiData/WD~Isaac_Barrow,207718]]'
+- '[[_Standards/WikiData/WD~Benjamin_Pulleyn,2893710]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 student:
-  - '[[_Standards/WikiData/WD~John_Flamsteed,242388]]'
-  - '[[_Standards/WikiData/WD~Roger_Cotes,451667]]'
-  - '[[_Standards/WikiData/WD~William_Whiston,452091]]'
+- '[[_Standards/WikiData/WD~John_Flamsteed,242388]]'
+- '[[_Standards/WikiData/WD~Roger_Cotes,451667]]'
+- '[[_Standards/WikiData/WD~William_Whiston,452091]]'
 place_of_death: '[[_Standards/WikiData/WD~Kensington,288781]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Trinity_College,332342]]'
-  - "[[_Standards/WikiData/WD~The_King's_School,_Grantham,7744473]]"
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
+- "[[_Standards/WikiData/WD~The_King's_School,_Grantham,7744473]]"
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~nontrinitarianism,584205]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
 handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 award_received: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Lucasian_Professor_of_Mathematics,865664]]'
-  - '[[_Standards/WikiData/WD~Master_of_the_Mint,6785312]]'
-  - '[[_Standards/WikiData/WD~Warden_of_the_Mint,7969143]]'
-  - '[[_Standards/WikiData/WD~President_of_the_Royal_Society,55713110]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1689_90_Parliament,96804831]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1701_02_Parliament,96810213]]'
+- '[[_Standards/WikiData/WD~Lucasian_Professor_of_Mathematics,865664]]'
+- '[[_Standards/WikiData/WD~Master_of_the_Mint,6785312]]'
+- '[[_Standards/WikiData/WD~Warden_of_the_Mint,7969143]]'
+- '[[_Standards/WikiData/WD~President_of_the_Royal_Society,55713110]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1689_90_Parliament,96804831]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1701_02_Parliament,96810213]]'
 professorship: '[[_Standards/WikiData/WD~Lucasian_Professor_of_Mathematics,865664]]'
 relative: '[[_Standards/WikiData/WD~Catherine_Barton,1050921]]'
 family_name: '[[_Standards/WikiData/WD~Q1469854,1469854]]'
@@ -85,23 +174,23 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Isaac_Newton,22734651]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Statue_of_Sir_Isaac_Newton_(Outside_Town_Hall),26552568]]'
-  - '[[_Standards/WikiData/WD~Isaac_Newton_(1642_1727),118986317]]'
-  - '[[_Standards/WikiData/WD~Sir_Isaac_Newton_(1642_1727),118991701]]'
-  - '[[_Standards/WikiData/WD~Sir_Isaac_Newton_(1642_1727),_Mathematical_Scientist,119736816]]'
+- '[[_Standards/WikiData/WD~Statue_of_Sir_Isaac_Newton_(Outside_Town_Hall),26552568]]'
+- '[[_Standards/WikiData/WD~Isaac_Newton_(1642_1727),118986317]]'
+- '[[_Standards/WikiData/WD~Sir_Isaac_Newton_(1642_1727),118991701]]'
+- '[[_Standards/WikiData/WD~Sir_Isaac_Newton_(1642_1727),_Mathematical_Scientist,119736816]]'
 father: '[[_Standards/WikiData/WD~Isaac_Newton_Sr.,26776969]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_death: 1727-03-31T00:00:00Z
 work_location:
-  - '[[_Standards/WikiData/WD~Cambridge,350]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Cambridge,350]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
 influenced_by: '[[_Standards/WikiData/WD~René_Descartes,9191]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -114,19 +203,19 @@ Royal_Academy_new_identifier: isaac-newton
 PhilPapers_topic: isaac-newton
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/NYUTON_ISAAK.html
 DPLA_subject_term:
-  - Newton, Isaac, 1642-1727
-  - Newton, Isaac. Sir, 1642-1727
+- Newton, Isaac, 1642-1727
+- Newton, Isaac. Sir, 1642-1727
 Regensburg_Classification:
-  - SF 6000
-  - UB 2700
+- SF 6000
+- UB 2700
 Google_Doodle: sir-isaac-newtons-367th-birthday
 Gujarati_Vishwakosh_entry: ન્યૂટન-સર-આઇઝેક
 Commons_gallery: Isaac Newton
 Commons_category: Isaac Newton
 Commons_Creator_page: Isaac Newton
 Provenio_UUID:
-  - f9cdfccc-28b5-4fff-bc40-24ad565a6e28
-  - b82ec633-4370-4181-94fc-6d5a2a7b7c08
+- f9cdfccc-28b5-4fff-bc40-24ad565a6e28
+- b82ec633-4370-4181-94fc-6d5a2a7b7c08
 name_in_native_language: Isaac Newton
 BHCL_UUID: afc0de16-41cf-4eb9-8305-db636199f344
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Newton%20signature%20ws.svg
@@ -136,41 +225,297 @@ NLC_authorities: 000185499
 date_of_birth: 1643-01-04T00:00:00Z
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Newton.ogg
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Newton%20blue%20plaque%20at%20King%27s%20School%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Newton%20plaque%2C%20Westminster%20Reference%20Library.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Newton%20plaque%20at%20King%27s%20School%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Newton%20sundial%202.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Isaac%20Newton%20%2822289190639%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SIR%20ISAAC%20NEWTON%201642-1727%20Lived%20Here.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Newton%20blue%20plaque%20at%20King%27s%20School%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Isaac%20Newton%20plaque%2C%20Westminster%20Reference%20Library.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Newton%20plaque%20at%20King%27s%20School%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Newton%20sundial%202.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20Isaac%20Newton%20%2822289190639%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/SIR%20ISAAC%20NEWTON%201642-1727%20Lived%20Here.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/IsaacNewtonGenealogy%202019-09-13%20at%2015.11.27.png
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=102704347
-  - http://www.digiporta.net/index.php?id=167887013
-  - http://www.digiporta.net/index.php?id=242951922
-  - http://www.digiporta.net/index.php?id=277414145
-  - http://www.digiporta.net/index.php?id=315387815
-  - http://www.digiporta.net/index.php?id=481670421
-  - http://www.digiporta.net/index.php?id=486551107
-  - http://www.digiporta.net/index.php?id=504248701
-  - http://www.digiporta.net/index.php?id=530203136
-  - http://www.digiporta.net/index.php?id=546376684
-  - http://www.digiporta.net/index.php?id=609782122
-  - http://www.digiporta.net/index.php?id=620609501
-  - http://www.digiporta.net/index.php?id=669364594
-  - http://www.digiporta.net/index.php?id=789536473
-  - http://www.digiporta.net/index.php?id=882081382
-  - http://www.digiporta.net/index.php?id=892889884
-  - http://www.digiporta.net/index.php?id=947983037
-  - http://www.digiporta.net/index.php?id=975061075
-  - http://www.digiporta.net/index.php?id=978764534
-  - http://www.digiporta.net/index.php?id=993842911
+- http://www.digiporta.net/index.php?id=102704347
+- http://www.digiporta.net/index.php?id=167887013
+- http://www.digiporta.net/index.php?id=242951922
+- http://www.digiporta.net/index.php?id=277414145
+- http://www.digiporta.net/index.php?id=315387815
+- http://www.digiporta.net/index.php?id=481670421
+- http://www.digiporta.net/index.php?id=486551107
+- http://www.digiporta.net/index.php?id=504248701
+- http://www.digiporta.net/index.php?id=530203136
+- http://www.digiporta.net/index.php?id=546376684
+- http://www.digiporta.net/index.php?id=609782122
+- http://www.digiporta.net/index.php?id=620609501
+- http://www.digiporta.net/index.php?id=669364594
+- http://www.digiporta.net/index.php?id=789536473
+- http://www.digiporta.net/index.php?id=882081382
+- http://www.digiporta.net/index.php?id=892889884
+- http://www.digiporta.net/index.php?id=947983037
+- http://www.digiporta.net/index.php?id=975061075
+- http://www.digiporta.net/index.php?id=978764534
+- http://www.digiporta.net/index.php?id=993842911
 Stack_Exchange_tag:
-  - https://hsm.stackexchange.com/tags/newton
-  - https://philosophy.stackexchange.com/tags/newton
+- https://hsm.stackexchange.com/tags/newton
+- https://philosophy.stackexchange.com/tags/newton
 ISNI: 0000000120997897
 Europeana_entity: agent/base/146840
+dv_has_:
+  name_:
+    ady: Ньютон
+    af: Isaac Newton
+    am: አይሳክ ኒውተን
+    an: Isaac Newton
+    ang: Isaac Newton
+    ann: Aisik Newtọn
+    anp: आइजक न्यूटन
+    ar: إسحاق نيوتن
+    arc: ܐܝܣܚܩ ܢܝܘܛܢ
+    ary: إسحاق نيوتن
+    arz: ايزاك نيوتن
+    as: আইজাক নিউটন
+    ast: Isaac Newton
+    awa: आइज्याक न्यूटन
+    ay: Isaac Newton
+    az: İsaak Nyuton
+    azb: آیزاک نیوتون
+    ba: Исаак Ньютон
+    ban: Isaac Newton
+    bar: Isaac Newton
+    bcl: Isaac Newton
+    be: Ісаак Ньютан
+    be-tarask: Ісак Ньютан
+    bew: Ishak Niuton
+    bg: Исак Нютон
+    bho: आइजक न्युटन
+    blk: နျူတန်
+    bn: আইজাক নিউটন
+    bpy: আইজাক নিউটন
+    br: Isaac Newton
+    bs: Isaac Newton
+    btm: Isaac Newton
+    bxr: Исаак Ньютон
+    ca: Isaac Newton
+    cbk-zam: Isaac Newton
+    cdo: Isaac Newton
+    ce: Исхьакъ Ньютон
+    ceb: Isaac Newton
+    ckb: ئایزک نیوتن
+    co: Isaac Newton
+    crh: Ayzek Nyuton
+    crh-latn: Ayzek Nyuton
+    cs: Isaac Newton
+    cu: Їсаакъ Нютонъ
+    cv: Исаак Ньютон
+    cy: Isaac Newton
+    da: Isaac Newton
+    de: Isaac Newton
+    de-ch: Isaac Newton
+    diq: Isaac Newton
+    dsb: Isaac Newton
+    dty: आइज्याक न्यूटन
+    dv: އިސާކް ނިއުޓަން
+    el: Ισαάκ Νεύτων
+    en: Isaac Newton
+    en-ca: Isaac Newton
+    en-gb: Isaac Newton
+    eo: Isaac Newton
+    es: Isaac Newton
+    et: Isaac Newton
+    eu: Isaac Newton
+    ext: Isaac Newton
+    fa: آیزاک نیوتن
+    fi: Isaac Newton
+    fj: Isaac Newton
+    fo: Isaac Newton
+    fr: Isaac Newton
+    frp: Isaac Newton
+    frr: Isaac Newton
+    fur: Isaac Newton
+    fy: Isaac Newton
+    ga: Isaac Newton
+    gaa: Isaac Newton
+    gan: 牛頓
+    gcr: Isaac Newton
+    gd: Isaac Newton
+    gl: Isaac Newton
+    gn: Isaac Newton
+    gom: सर आयझॅक न्यूटन
+    gpe: Isaac Newton
+    gsw: Isaac Newton
+    gu: આઈઝેક્ ન્યૂટન
+    gv: Isaac Newton
+    ha: Isaac Newton
+    hak: Isaac Newton
+    haw: Isaac Newton
+    he: אייזק ניוטון
+    hi: आइज़क न्यूटन
+    hif: Isaac Newton
+    hr: Isaac Newton
+    hsb: Isaac Newton
+    ht: Isaac Newton
+    hu: Isaac Newton
+    hy: Իսահակ Նյուտոն
+    hyw: Այզըք Նիութըն
+    ia: Isaac Newton
+    id: Isaac Newton
+    ie: Isaac Newton
+    ilo: Isaac Newton
+    io: Isaac Newton
+    is: Isaac Newton
+    it: Isaac Newton
+    ja: アイザック・ニュートン
+    jam: Aizak Nyuutn
+    jbo: aisak.niuton
+    jv: Isaac Newton
+    ka: ისააკ ნიუტონი
+    kaa: Isaac Newton
+    kab: Isaac Newton
+    kbp: Isaac Newton
+    ki: Isaac Newton
+    kk: Исаак Ньютон
+    kl: Isaac Newton
+    km: អ៊ីសាក់ ញូតុន
+    kn: ಸರ್ ಐಸಾಕ್ ನ್ಯೂಟನ್
+    knc: Isaac Newton
+    ko: 아이작 뉴턴
+    ks: آئزک نیٛوٹن
+    ksh: Isaac Newton
+    ku: Isaac Newton
+    kv: Ньютон, Исаак
+    kw: Isaac Newton
+    ky: Ньютон, Исаак
+    la: Isaacus Newtonus
+    lad: Isaac Newton
+    lb: Isaac Newton
+    lez: Исаак Ньютон
+    lfn: Isaac Newton
+    lg: Yisaaka Netoni
+    li: Isaac Newton
+    lij: Isaac Newton
+    lmo: Isaac Newton
+    lo: ໄອແຊກ ນິວເຕິນ
+    lt: Izaokas Niutonas
+    lv: Īzaks Ņūtons
+    lzh: 牛頓
+    mad: Isaac Newton
+    mai: आइज्याक न्यूटन
+    map-bms: Isaac Newton
+    mdf: Нютон, Исаак
+    mg: Isaac Newton
+    mhr: Ньютон Исаак
+    min: Isaac Newton
+    mk: Исак Њутн
+    ml: ഐസക് ന്യൂട്ടൺ
+    mn: Исаак Ньютон
+    mr: आयझॅक न्यूटन
+    ms: Isaac Newton
+    mt: Isaac Newton
+    mul: Isaac Newton
+    mwl: Isaac Newton
+    my: နယူတန်
+    mzn: اسحاق نیوتن
+    nah: Isaac Newton
+    nan: Isaac Newton
+    nb: Isaac Newton
+    nds: Isaac Newton
+    nds-nl: Isaac Newton
+    ne: अइज्याक न्युटन
+    new: आईज्याक न्युटन
+    nl: Isaac Newton
+    nn: Isaac Newton
+    nov: Isaac Newton
+    ny: Isaac Newton
+    oc: Isaac Newton
+    olo: Isaac Newton
+    om: Is’haaq Niiwtan
+    or: ଆଇଜାକ ନିଉଟନ
+    os: Исаак Ньютон
+    pa: ਆਇਜ਼ੈਕ ਨਿਊਟਨ
+    pag: Isaac Newton
+    pam: Isaac Newton
+    pap: Isaac Newton
+    pcd: Isaac Newton
+    pih: Isaac Newton
+    pl: Isaac Newton
+    pms: Isaac Newton
+    pnb: آئیزک نیوٹن
+    pnt: Ισαάκ Νιούτον
+    ps: آيزاک نيوټن
+    pt: Isaac Newton
+    pt-br: Isaac Newton
+    qu: Isaac Newton
+    rki: ဆာအိုက်ဆက် နယူတန်
+    rm: Isaac Newton
+    ro: Isaac Newton
+    roa-tara: Isaac Newton
+    rsk: Исак Нютн
+    ru: Исаак Ньютон
+    rue: Ісаак Ньютон
+    rup: Isaac Newton
+    sa: ऐसाक् न्यूटन्
+    sah: Исаак Ньютон
+    sat: ᱟᱭᱡᱮᱠ ᱱᱤᱭᱩᱴᱚᱱ
+    sc: Isaac Newton
+    scn: Isaac Newton
+    sco: Isaac Newton
+    sd: آئزڪ نيوٽن
+    sgs: Izauoks Niotuons
+    sh: Isaac Newton
+    shi: Isḥaqq Nyutun
+    si: අයිසැක් නිව්ටන්
+    sk: Isaac Newton
+    skr: آئزک نیوٹن
+    sl: Isaac Newton
+    sn: Isaac Newton
+    so: Isxaaq Newton
+    sq: Isaac Newton
+    sr: Исак Њутн
+    sr-ec: Исак Њутн
+    sr-el: Isak Njutn
+    stq: Isaac Newton
+    su: Sir Isaac Newton
+    sv: Isaac Newton
+    sw: Isaac Newton
+    szl: Isaac Newton
+    szy: Aykesa,niwtun
+    ta: ஐசாக் நியூட்டன்
+    te: ఐజాక్ న్యూటన్
+    tg: Исаак Нютон
+    th: ไอแซก นิวตัน
+    tk: Isaak Nýuton
+    tl: Isaac Newton
+    tly: İsaak Nyuton
+    tok: jan Isa Nuton
+    tr: Isaac Newton
+    tt: Исаак Ньютон
+    tt-cyrl: Исаак Ньютон
+    tw: Isaac Newton
+    tyv: Ньютон
+    ug: ئىسساك نيوتۇن
+    uk: Ісаак Ньютон
+    ur: آئزک نیوٹن
+    uz: Isaac Newton
+    vec: Isaac Newton
+    vep: Njuton Isaak
+    vi: Isaac Newton
+    vls: Isaac Newton
+    vo: Isaac Newton
+    vro: Newtoni Isaac
+    wa: Isaac Newton
+    war: Isaac Newton
+    wuu: 牛顿
+    xmf: ისააკ ნიუტონი
+    yi: אייזיק ניוטאן
+    yo: Isaac Newton
+    yue: 牛頓
+    za: Isaac Newton
+    zea: Sir Isaac Newton
+    zgh: ⵙⵃⴰⵇ ⵏⵢⵓⵟⵏ
+    zh: 艾薩克·牛頓
+    zh-cn: 艾萨克·牛顿
+    zh-hans: 艾萨克·牛顿
+    zh-hk: 艾碩·牛頓
+    zh-tw: 艾薩克·牛頓
 ---
-
 # [[Newton,Isaac]] 
 
 #has_/created :: [[Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica|Philosophiæ_Naturalis_Principia_Mathematica]] 

@@ -1,17 +1,71 @@
 ---
 aliases:
-  - Barracks
+- barics
+- Barracks
+- berek
+- caserma
+- caserna
+- caserne
+- Cazarmă
+- cuartel
+- Cuarteri
+- doanh trại
+- dún míleata
+- kareivinės
+- kasarm
+- kasarmi
+- kasarmm
+- kasarna
+- kasarnia
+- Kasern
+- kaserna
+- kaserne
+- kasárna
+- Kasárne
+- Kasär
+- Kazarma
+- kazarmas
+- Kazerma
+- kazerne
+- kazerno
+- koszary
+- kuartel
+- kışla
+- laktanya
+- nótȧxémȧheonȯtse
+- quartel
+- tangsi
+- Vojarna
+- vojašnica
+- στρατώνας
+- казарма
+- касарна
+- къазармæ
+- զօրանոց
+- קסרקטין
+- تڠسي
+- ثكنة
+- سربازخانه
+- قشلة
+- बराक
+- படைவீடு (ஆயுதப்படைகள்)
+- ค่ายทหาร
+- ጦር ካምፕ
+- バラック
+- 兵房
+- 軍營
+- 막사
 has_id_wikidata: Q131263
 part_of: '[[_Standards/WikiData/WD~military_base,245016]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~military_base,245016]]'
-  - '[[_Standards/WikiData/WD~military_building,6852233]]'
-  - '[[_Standards/WikiData/WD~government_building,16831714]]'
+- '[[_Standards/WikiData/WD~military_base,245016]]'
+- '[[_Standards/WikiData/WD~military_building,6852233]]'
+- '[[_Standards/WikiData/WD~government_building,16831714]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from: '[[_Standards/WikiData/WD~fire_station,1195942]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Kaserne,16147797]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_barracks,26004242]]'
@@ -27,8 +81,86 @@ P8189: 987007283289405171
 IMDb_keyword: barracks
 GeoNames_feature_code: S.BRKS
 OpenStreetMap_tag_or_key: Tag:military=barracks
+dv_has_:
+  name_:
+    am: ጦር ካምፕ
+    ar: ثكنة
+    ary: قشلة
+    az: Kazarma
+    bar: Kasern
+    be: казарма
+    be-tarask: казарма
+    bg: Казарма
+    ca: caserna
+    chy: nótȧxémȧheonȯtse
+    cs: kasárna
+    cy: barics
+    da: kaserne
+    de: Kaserne
+    el: στρατώνας
+    en: barracks
+    en-gb: barracks
+    eo: kazerno
+    es: cuartel
+    et: kasarm
+    eu: kuartel
+    fa: سربازخانه
+    fi: kasarmi
+    fr: caserne
+    ga: dún míleata
+    gl: cuartel
+    he: קסרקטין
+    hi: बराक
+    hr: Vojarna
+    hsb: kaserna
+    hu: laktanya
+    hyw: զօրանոց
+    id: tangsi
+    it: caserma
+    ja: バラック
+    kk: Казарма
+    ko: 막사
+    lb: Kasär
+    lt: kareivinės
+    lv: kazarmas
+    mk: касарна
+    ms: berek
+    ms-arab: تڠسي
+    nb: kaserne
+    nds: Kaserne
+    nl: kazerne
+    nn: kaserne
+    os: къазармæ
+    pl: koszary
+    pt: quartel
+    pt-br: quartel
+    ro: Cazarmă
+    ru: казарма
+    sc: Cuarteri
+    scn: caserma
+    sh: kasarna
+    sk: Kasárne
+    sl: vojašnica
+    sms: kasarmm
+    sq: Kazerma
+    sr: касарна
+    sr-ec: Касарна
+    sr-el: Kasarna
+    sv: kasern
+    szl: kasarnia
+    ta: படைவீடு (ஆயுதப்படைகள்)
+    th: ค่ายทหาร
+    tr: kışla
+    uk: казарма
+    uz: Kazarma
+    vi: doanh trại
+    wuu: 兵房
+    yue: 兵房
+    zh: 軍營
+    zh-hant: 軍營
+    zh-hk: 軍營
+    zh-tw: 軍營
 ---
-
 # [[Barracks]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Barracks,131263|WD~Barracks,131263]] 

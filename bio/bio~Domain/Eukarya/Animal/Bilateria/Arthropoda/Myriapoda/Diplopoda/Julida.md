@@ -1,9 +1,72 @@
 ---
 aliases:
-  - Julida
+- Cylinderdubbelfotingar
+- da᷆rnákàytà
+- Iule
+- Julida
+- Júlides
+- Krocionogi właściwe
+- Sarı qırxayaqlar
+- Schnurfüßer
+- vaspondrók
+- кіўсякі
+- ківсяки
+- кивсяки
+- 姬馬陸目
+- 蛩目
 title: Julida
+has_id_wikidata: Q2663101
+dv_has_:
+  name_:
+    an: Julida
+    ast: Julida
+    az: Sarı qırxayaqlar
+    be: кіўсякі
+    be-tarask: кіўсякі
+    bg: Julida
+    ca: Júlides
+    ceb: Julida
+    cs: Julida
+    de: Schnurfüßer
+    el: Julida
+    en: Julida
+    eo: Julida
+    es: Julida
+    eu: Julida
+    ext: Julida
+    fi: Julida
+    fr: Julida
+    ga: Julida
+    gl: Julida
+    hu: vaspondrók
+    ia: Julida
+    id: Julida
+    ie: Julida
+    io: Julida
+    it: Julida
+    la: Julida
+    mcn: da᷆rnákàytà
+    mul: Julida
+    nl: Julida
+    oc: Julida
+    pcd: Iule
+    pl: Krocionogi właściwe
+    pt: Julida
+    pt-br: Julida
+    ro: Julida
+    ru: кивсяки
+    sq: Julida
+    sv: Cylinderdubbelfotingar
+    tr: Julida
+    uk: ківсяки
+    vi: Julida
+    vo: Julida
+    war: Julida
+    zh: 蛩目
+    zh-cn: 蛩目
+    zh-hans: 蛩目
+    zh-tw: 姬馬陸目
 ---
-
 # [[Julida]]  
 
 ![Schizophyllum_sabulosum](Julida/Schizophyllum_sabulosum.jpg) 

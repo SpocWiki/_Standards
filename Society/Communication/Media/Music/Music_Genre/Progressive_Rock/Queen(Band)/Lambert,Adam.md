@@ -1,9 +1,104 @@
 ---
 aliases:
-  - Adam Lambert
-  - Lambert,Adam
+- Adam Lambert
+- Lambert,Adam
+- Ādams Lamberts
+- Άνταμ Λάμπερτ
+- Адам Ламберт
+- Адам Ламбърт
+- Адам Ламбэрт
+- Ադամ Լամբերտ
+- אדם למברט
+- آدام لمبرت
+- آدم لامبرت
+- ئادەم لامبێرت
+- ادام لمبرت
+- ਐਡਮ ਲੈਮਬਰਟ
+- ആഡം ലാംബർട്ട്
+- แอดัม แลมเบิร์ต
+- អាឌាម លេមបឺត
+- アダム・ランバート
+- 亚当·兰伯特
+- 亞當·藍伯特
+- 애덤 램버트
+has_id_wikidata: Q190231
+dv_has_:
+  name_:
+    af: Adam Lambert
+    ar: آدم لامبرت
+    arz: آدم لامبرت
+    ast: Adam Lambert
+    az: Adam Lambert
+    azb: ادام لمبرت
+    be-tarask: Адам Ламбэрт
+    bg: Адам Ламбърт
+    ca: Adam Lambert
+    ckb: ئادەم لامبێرت
+    cs: Adam Lambert
+    cy: Adam Lambert
+    da: Adam Lambert
+    de: Adam Lambert
+    el: Άνταμ Λάμπερτ
+    en: Adam Lambert
+    en-us: Adam Lambert
+    eo: Adam Lambert
+    es: Adam Lambert
+    et: Adam Lambert
+    eu: Adam Lambert
+    fa: آدام لمبرت
+    fi: Adam Lambert
+    fr: Adam Lambert
+    ga: Adam Lambert
+    gl: Adam Lambert
+    ha: Adam Lambert
+    he: אדם למברט
+    ht: Adam Lambert
+    hu: Adam Lambert
+    hy: Ադամ Լամբերտ
+    id: Adam Lambert
+    ig: Adam Lambert
+    it: Adam Lambert
+    ja: アダム・ランバート
+    jv: Adam Lambert
+    ka: adam lambert
+    km: អាឌាម លេមបឺត
+    ko: 애덤 램버트
+    lt: Adam Lambert
+    lv: Ādams Lamberts
+    mk: Адам Ламберт
+    ml: ആഡം ലാംബർട്ട്
+    ms: Adam Lambert
+    nb: Adam Lambert
+    nl: Adam Lambert
+    nn: Adam Lambert
+    pa: ਐਡਮ ਲੈਮਬਰਟ
+    pap: Adam Lambert
+    pl: Adam Lambert
+    pt: Adam Lambert
+    pt-br: Adam Lambert
+    ro: Adam Lambert
+    ru: Адам Ламберт
+    sco: Adam Lambert
+    sk: Adam Lambert
+    sl: Adam Lambert
+    sq: Adam Lambert
+    sr: Адам Ламберт
+    sv: Adam Lambert
+    th: แอดัม แลมเบิร์ต
+    tl: Adam Lambert
+    tr: Adam Lambert
+    uk: Адам Ламберт
+    vi: Adam Lambert
+    yo: Adam Lambert
+    yue: Adam Lambert
+    zh: 亚当·兰伯特
+    zh-cn: 亚当·兰伯特
+    zh-hans: 亚当·兰伯特
+    zh-hant: 亞當·藍伯特
+    zh-hk: 亞當·藍伯特
+    zh-sg: 亚当·兰伯特
+    zh-tw: 亞當·藍伯特
 ---
-
 > Adam Mitchel Lambert (born January 29, 1982) is an American singer. 
 > He is known for his dynamic vocal performances that combine his theatrical training 
 > with modern and classic genres. 

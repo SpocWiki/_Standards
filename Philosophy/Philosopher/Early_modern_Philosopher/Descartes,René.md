@@ -1,9 +1,69 @@
 ---
 aliases:
-  - Descartes
-  - René Descartes
-  - René_Descartes
-  - Descartes,René
+- Cartesi
+- Cartesio
+- Cartesiu
+- Cartexio
+- Dekart Rene
+- Descartes
+- Descartes'i René
+- Descartes,René
+- jan Kene Teka
+- Kartezjusz
+- lye-ney.ti-al
+- Renatus Cartesius
+- Rene Dekart
+- Rene Descartes
+- Renei Deikaat
+- Reni Dikarṭ
+- René Descartes
+- René_Descartes
+- Renē Dekarts
+- rynes dekart
+- Ρενέ Ντεκάρτ
+- Декарт
+- Декарт Рене
+- Декарт, Рене
+- Рене Декарт
+- Рэнэ Дэкарт
+- Ռենե Դեկարտ
+- רנה דקארט
+- רענע דעקארט
+- رئنئ دئکارت
+- رنه دکارت
+- رنه دیکارت
+- روني ديكارط
+- رينيه ديكارت
+- رینے دیکارت
+- رینے ڈیکارٹ
+- ڊيڪارٽ
+- ڕێنێ دێکارت
+- रने देकार्त
+- रेने डेसकार्टस
+- रेने देकार्त
+- रेने देस्कार्तेस्
+- র্যনে দেকার্ত
+- ৰেনে ডিকাৰ্ট
+- ਰੇਨੇ ਦੇਕਾਰਤ
+- இரெனே தேக்கார்ட்டு
+- డెకార్ట్
+- ರೆನೆ ಡೆಸ್ಕಾರ್ಟೆ
+- റെനെ ദെക്കാർത്ത്
+- රෙනේ ඩෙකාට්
+- เรอเน เดการ์ต
+- རོས་ནེ་དེ་ཁར་ཏེ།
+- ရနေး ဒေးကာ့
+- რენე დეკარტი
+- ረኔ ዴካርት
+- រីណេ ដេកាត
+- ᱨᱚᱱᱮ ᱫᱮᱠᱟᱨᱛ
+- ⵕⵓⵏⵉ ⴷⵉⴽⴰⵔⵜ
+- ルネ・デカルト
+- 勒內·笛卡兒
+- 勒内·笛卡儿
+- 勒内·笛卡尔
+- 笛卡兒
+- 르네 데카르트
 has_id_wikidata: Q9191
 academic_thesis: "[[_Standards/WikiData/WD~Descartes'_1616_Law_Thesis,116810497]]"
 ArhivX_LOD: 433
@@ -22,69 +82,69 @@ date_of_death: 1650-02-11
 depicted_by: '[[_Standards/WikiData/WD~Portrait_of_René_Descartes,19624391]]'
 described_at_URL: http://www.digiporta.net/index.php?id=679740498
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Krugosvet,2627728]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Q19190643,19190643]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~La_influencia_de_Descartes_en_el_desarrollo_del_método_anatomoclínico,51879306]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Krugosvet,2627728]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q19190643,19190643]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~La_influencia_de_Descartes_en_el_desarrollo_del_método_anatomoclínico,51879306]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Isaac_Beeckman,783040]]'
-  - '[[_Standards/WikiData/WD~Jacobus_Golius,1368345]]'
+- '[[_Standards/WikiData/WD~Isaac_Beeckman,783040]]'
+- '[[_Standards/WikiData/WD~Jacobus_Golius,1368345]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Prytanée_National_Militaire,271]]'
-  - '[[_Standards/WikiData/WD~Leiden_University,156598]]'
-  - '[[_Standards/WikiData/WD~Utrecht_University,221653]]'
-  - '[[_Standards/WikiData/WD~collège_Henri-IV_de_La_Flèche,2983591]]'
+- '[[_Standards/WikiData/WD~Prytanée_National_Militaire,271]]'
+- '[[_Standards/WikiData/WD~Leiden_University,156598]]'
+- '[[_Standards/WikiData/WD~Utrecht_University,221653]]'
+- '[[_Standards/WikiData/WD~collège_Henri-IV_de_La_Flèche,2983591]]'
 Europeana_entity: agent/base/145354
 family_name: '[[_Standards/WikiData/WD~Descartes,37009391]]'
 father: '[[_Standards/WikiData/WD~Jorge_González_García,3179456]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
-  - '[[_Standards/WikiData/WD~sound,11461]]'
-  - '[[_Standards/WikiData/WD~optics,14620]]'
-  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
-  - '[[_Standards/WikiData/WD~mechanics,41217]]'
-  - '[[_Standards/WikiData/WD~music_theory,193544]]'
-  - '[[_Standards/WikiData/WD~Cartesianism,379226]]'
-  - '[[_Standards/WikiData/WD~rationalism,483024]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~sound,11461]]'
+- '[[_Standards/WikiData/WD~optics,14620]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
+- '[[_Standards/WikiData/WD~music_theory,193544]]'
+- '[[_Standards/WikiData/WD~Cartesianism,379226]]'
+- '[[_Standards/WikiData/WD~rationalism,483024]]'
 given_name:
-  - '[[_Standards/WikiData/WD~René,2624417]]'
-  - '[[_Standards/WikiData/WD~Cartesio,3660914]]'
+- '[[_Standards/WikiData/WD~René,2624417]]'
+- '[[_Standards/WikiData/WD~Cartesio,3660914]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-  - '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Frans%20Hals%20-%20Portret%20van%20Ren%C3%A9%20Descartes.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Rene%20Descartes%20monument%20in%20the%20Adolf%20Fredriks%20Kyrka%20Stockholm%202.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Plato,859]]'
-  - '[[_Standards/WikiData/WD~Aristotle,868]]'
-  - '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
-  - '[[_Standards/WikiData/WD~Anselm_of_Canterbury,43939]]'
-  - '[[_Standards/WikiData/WD~William_of_Ockham,43936]]'
-  - '[[_Standards/WikiData/WD~Marin_Mersenne,188663]]'
-  - '[[_Standards/WikiData/WD~Francisco_Suárez,316339]]'
+- '[[_Standards/WikiData/WD~Plato,859]]'
+- '[[_Standards/WikiData/WD~Aristotle,868]]'
+- '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
+- '[[_Standards/WikiData/WD~Anselm_of_Canterbury,43939]]'
+- '[[_Standards/WikiData/WD~William_of_Ockham,43936]]'
+- '[[_Standards/WikiData/WD~Marin_Mersenne,188663]]'
+- '[[_Standards/WikiData/WD~Francisco_Suárez,316339]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121296144
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 Library_of_Congress_Classification: B1830-B1878
 Libris_URI: nl02209622nvnn9
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -96,35 +156,35 @@ name_in_native_language: René Descartes
 native_language: '[[_Standards/WikiData/WD~French,150]]'
 NLC_authorities: 37958787
 notable_work:
-  - '[[_Standards/WikiData/WD~La_Géométrie,210113]]'
-  - '[[_Standards/WikiData/WD~Discourse_on_the_Method,731224]]'
-  - '[[_Standards/WikiData/WD~The_Description_of_the_Human_Body,1180645]]'
+- '[[_Standards/WikiData/WD~La_Géométrie,210113]]'
+- '[[_Standards/WikiData/WD~Discourse_on_the_Method,731224]]'
+- '[[_Standards/WikiData/WD~The_Description_of_the_Human_Body,1180645]]'
 occupation:
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~correspondent,3589290]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~mechanical_automaton_engineer,30134437]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~correspondent,3589290]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~mechanical_automaton_engineer,30134437]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 PhilPapers_topic: rene-descartes
 place_of_birth: '[[_Standards/WikiData/WD~Descartes,320299]]'
 place_of_burial: '[[_Standards/WikiData/WD~Abbey_of_Saint-Germain-des-Prés,334186]]'
 place_of_death: '[[_Standards/WikiData/WD~Stockholm,1754]]'
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20%C3%A0%20R%C3%A9n%C3%A9%20Descartes%2C%2014%20rue%20Rollin%2C%20Paris%202016.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Vrijheid%20van%20Amsterdam%20%287%29%20Descartes.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20%C3%A0%20R%C3%A9n%C3%A9%20Descartes%2C%2014%20rue%20Rollin%2C%20Paris%202016.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/2019%20Vrijheid%20van%20Amsterdam%20%287%29%20Descartes.jpg
 position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 Provenio_UUID: b032f182-e145-46ef-a016-4b1fae9bc000
 Regensburg_Classification:
-  - CF 3000
-  - BF 3635
-  - DD 5870
-  - IF 7450
+- CF 3000
+- BF 3635
+- DD 5870
+- IF 7450
 relative: '[[_Standards/WikiData/WD~Catherine_Descartes,2372894]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 Royal_Academy_new_identifier: rene-descartes
@@ -132,20 +192,208 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Pierre_Descartes,3384718]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20Descartes.svg
 student:
-  - '[[_Standards/WikiData/WD~Gilles-François_Boulduc,2421235]]'
-  - '[[_Standards/WikiData/WD~René_Fédé,18197541]]'
+- '[[_Standards/WikiData/WD~Gilles-François_Boulduc,2421235]]'
+- '[[_Standards/WikiData/WD~René_Fédé,18197541]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/41922
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Descartes,14445152]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Helena_Jans_van_der_Strom,97000240]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ikusgela-Descartes.webm
 Wolfram_Language_entity_code: Entity["Person", "ReneDescartes::x2xj8"]
 work_location:
-  - '[[_Standards/WikiData/WD~La_Flèche,343]]'
-  - '[[_Standards/WikiData/WD~Stockholm,1754]]'
-  - '[[_Standards/WikiData/WD~Poitiers,6616]]'
+- '[[_Standards/WikiData/WD~La_Flèche,343]]'
+- '[[_Standards/WikiData/WD~Stockholm,1754]]'
+- '[[_Standards/WikiData/WD~Poitiers,6616]]'
 writing_language: '[[_Standards/WikiData/WD~French,150]]'
+dv_has_:
+  name_:
+    af: René Descartes
+    am: ረኔ ዴካርት
+    an: René Descartes
+    anp: रने देकार्त
+    ar: رينيه ديكارت
+    ary: روني ديكارط
+    arz: رينيه ديكارت
+    as: ৰেনে ডিকাৰ্ট
+    ast: René Descartes
+    awa: रने देकार्त
+    az: Rene Dekart
+    azb: رنه دکارت
+    ba: Рене Декарт
+    bcl: René Descartes
+    be: Рэнэ Дэкарт
+    be-tarask: Рэнэ Дэкарт
+    bg: Рене Декарт
+    bho: रेने देकार्त
+    bn: র্যনে দেকার্ত
+    bo: རོས་ནེ་དེ་ཁར་ཏེ།
+    br: René Descartes
+    bs: René Descartes
+    btm: René Descartes
+    bxr: Рене Декарт
+    ca: René Descartes
+    ce: Декарт, Рене
+    ceb: René Descartes
+    ckb: ڕێنێ دێکارت
+    crh: Rene Dekart
+    cs: René Descartes
+    cy: René Descartes
+    da: René Descartes
+    de: René Descartes
+    de-ch: René Descartes
+    diq: René Descartes
+    el: Ρενέ Ντεκάρτ
+    en: René Descartes
+    en-ca: René Descartes
+    en-gb: René Descartes
+    en-us: René Descartes
+    eo: René Descartes
+    es: René Descartes
+    et: René Descartes
+    eu: René Descartes
+    ext: René Descartes
+    fa: رنه دکارت
+    fi: René Descartes
+    fo: René Descartes
+    fr: René Descartes
+    frr: René Descartes
+    fy: René Descartes
+    ga: René Descartes
+    gan: 笛卡兒
+    gcr: René Descartes
+    gd: René Descartes
+    gl: René Descartes
+    gn: René Descartes
+    gsw: René Descartes
+    guw: René Descartes
+    ha: René Descartes
+    he: רנה דקארט
+    hi: रेने देकार्त
+    hif: René Descartes
+    hr: René Descartes
+    ht: Rene Descartes
+    hu: René Descartes
+    hy: Ռենե Դեկարտ
+    ia: René Descartes
+    id: René Descartes
+    ie: René Descartes
+    ilo: René Descartes
+    io: René Descartes
+    is: René Descartes
+    it: Cartesio
+    ja: ルネ・デカルト
+    jam: Renei Deikaat
+    jbo: rynes dekart
+    jv: René Descartes
+    ka: რენე დეკარტი
+    kaa: René Descartes
+    kab: René Descartes
+    kbp: René Descartes
+    kk: Декарт Рене
+    kk-cyrl: Декарт
+    km: រីណេ ដេកាត
+    kn: ರೆನೆ ಡೆಸ್ಕಾರ್ಟೆ
+    ko: 르네 데카르트
+    ku: René Descartes
+    kw: René Descartes
+    ky: Декарт, Рене
+    la: Renatus Cartesius
+    lad: Rene Descartes
+    lb: René Descartes
+    lfn: René Descartes
+    li: René Descartes
+    lld: René Descartes
+    lmo: Cartesi
+    lrc: رئنئ دئکارت
+    lt: René Descartes
+    lv: Renē Dekarts
+    lzh: 笛卡兒
+    mai: रने देकार्त
+    mdf: Рэнэ Дэкарт
+    mg: René Descartes
+    mk: Рене Декарт
+    ml: റെനെ ദെക്കാർത്ത്
+    mn: Рене Декарт
+    mr: रेने देकार्त
+    ms: René Descartes
+    mt: René Descartes
+    mul: René Descartes
+    mwl: René Descartes
+    my: ရနေး ဒေးကာ့
+    myv: Рене Декарт
+    mzn: رنه دکارت
+    nah: René Descartes
+    nan: René Descartes
+    nb: René Descartes
+    nds: René Descartes
+    ne: रेने डेसकार्टस
+    new: रेने देस्कार्तेस्
+    nl: René Descartes
+    nn: René Descartes
+    nrm: René Descartes
+    oc: René Descartes
+    olo: René Descartes
+    pa: ਰੇਨੇ ਦੇਕਾਰਤ
+    pam: René Descartes
+    pap: René Descartes
+    pcd: René Descartes
+    pcm: René Descartes
+    pl: Kartezjusz
+    pms: René Descartes
+    pnb: رینے ڈیکارٹ
+    ps: رنه دیکارت
+    qu: René Descartes
+    ro: René Descartes
+    ru: Рене Декарт
+    rue: Рене Декарт
+    rw: René Descartes
+    sa: रने देकार्त
+    sah: Рене Декарт
+    sat: ᱨᱚᱱᱮ ᱫᱮᱠᱟᱨᱛ
+    scn: Cartesiu
+    sco: René Descartes
+    sd: ڊيڪارٽ
+    sgs: René Descartes
+    sh: René Descartes
+    shi: Reni Dikarṭ
+    si: රෙනේ ඩෙකාට්
+    sk: René Descartes
+    skr: رینے ڈیکارٹ
+    sl: René Descartes
+    sq: René Descartes
+    sr: Рене Декарт
+    sv: René Descartes
+    sw: René Descartes
+    szy: lye-ney.ti-al
+    ta: இரெனே தேக்கார்ட்டு
+    te: డెకార్ట్
+    tg: Рене Декарт
+    th: เรอเน เดการ์ต
+    tk: Rene Dekart
+    tl: René Descartes
+    tok: jan Kene Teka
+    tr: René Descartes
+    tt: Рене Декарт
+    tyv: Декарт, Рене
+    uk: Рене Декарт
+    ur: رینے دیکارت
+    uz: René Descartes
+    vec: Cartexio
+    vep: Dekart Rene
+    vi: René Descartes
+    vo: René Descartes
+    vro: Descartes'i René
+    wa: René Descartes
+    war: René Descartes
+    wuu: 勒内·笛卡尔
+    xmf: რენე დეკარტი
+    yi: רענע דעקארט
+    yo: René Descartes
+    yue: 笛卡兒
+    zgh: ⵕⵓⵏⵉ ⴷⵉⴽⴰⵔⵜ
+    zh: 勒内·笛卡儿
+    zh-hans: 勒内·笛卡儿
+    zh-tw: 勒內·笛卡兒
 ---
-
 # [[Descartes,René]] 
 
 

@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Desmognathus
+- Beeksalamanders
+- Desmognathus
+- Tsxilghááh dadiłhiłígíí
+- Тёмные саламандры
+- Темна саламандра
+- тъмни саламандри
+- 脊口螈属
+- 脊口螈屬
 title: Desmognathus
+has_id_wikidata: Q2698057
+dv_has_:
+  name_:
+    an: Desmognathus
+    ast: Desmognathus
+    bg: тъмни саламандри
+    ca: Desmognathus
+    ceb: Desmognathus
+    de: Desmognathus
+    en: Desmognathus
+    eo: Desmognathus
+    es: Desmognathus
+    eu: Desmognathus
+    ext: Desmognathus
+    fi: Desmognathus
+    fr: Desmognathus
+    ga: Desmognathus
+    gl: Desmognathus
+    ia: Desmognathus
+    ie: Desmognathus
+    io: Desmognathus
+    it: Desmognathus
+    la: Desmognathus
+    mul: Desmognathus
+    nl: Beeksalamanders
+    nv: Tsxilghááh dadiłhiłígíí
+    oc: Desmognathus
+    pl: Desmognathus
+    pt: Desmognathus
+    pt-br: Desmognathus
+    ro: Desmognathus
+    ru: Тёмные саламандры
+    sq: Desmognathus
+    sv: Desmognathus
+    tr: Desmognathus
+    uk: Темна саламандра
+    vi: Desmognathus
+    vo: Desmognathus
+    war: Desmognathus
+    zh: 脊口螈属
+    zh-cn: 脊口螈属
+    zh-hans: 脊口螈属
+    zh-tw: 脊口螈屬
 ---
-
 # [[Desmognathus]] 
 
 ![Desmognathus fuscus](Desmognathus/Desmognathus_fuscus.jpg) 

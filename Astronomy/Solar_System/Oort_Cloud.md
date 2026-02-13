@@ -1,44 +1,232 @@
 ---
 aliases:
-  - Oortsche Wolke
-  - Öpik–Oort cloud
-  - Oort cloud
-  - Oort_Cloud
-  - Oort Cloud
+- Arai Oort
+- Awan Oort
+- Boira d'Oort
+- Cwmwl Oort
+- Dampog Oort
+- Koumoulennad Oort
+- Neul Oort
+- Nigol de Oort
+- norul lui Oort
+- nuage de Oort
+- nube d'Oort
+- nube de Oort
+- nube di Oort
+- Nubes Oortensis
+- nuvem de Oort
+- Nívol d'Oort
+- Nùvul 'd Oort
+- nùvula di Oort
+- núvol d'Oort
+- obłok Oorta
+- Oort baadal
+- Oort buludu
+- Oort buluti
+- Oort bulutu
+- Oort clood
+- Oort cloud
+- Oort na ulap
+- Oort-felhő
+- Oort-hûn
+- Oort-wolk
+- Oort-Wollek
+- Oorta nubo
+- Oorten hodeia
+- Oortin pilvi
+- Oortov mrak
+- Oortov oblak
+- Oorts kometmoln
+- Oorts sky
+- Oortsche Woikn
+- Oortsche Wolke
+- Oortsche Wulk
+- Oortskya
+- Oortskyen
+- Oortský
+- Oortwolk
+- Oort_Cloud
+- Oortův oblak
+- Orta mākonis
+- Orto kometoidų debesis
+- Ortov oblak
+- Scamall Oort
+- Sħaba ta' Oort
+- Tabagust n Yesmilen
+- Wingu la Oort
+- Öpiku-Oorti pilv
+- Öpik–Oort cloud
+- Đám mây Oort
+- Νέφος του Όορτ
+- Абри оорт
+- Воблака Аорта
+- Воблака Оарта
+- Облак на Оорт
+- Облако Оорта
+- Оорт болыты
+- Оорты мигъ
+- Ортов Облак
+- Хмара Оорта
+- Օորտի ամպ
+- עננת אורט
+- ابر اورت
+- اورت بادل
+- اوورٹ بدل
+- سحابة أورط
+- سحابة أوورت
+- سحابة اورت
+- ऊर्टचा मेघ
+- और्ट बादल
+- উর্ট মেঘ
+- উৰ্ট মেঘ
+- ఊర్ట్ మబ్బు
+- ಊರ್ಟ್ ಮೋಡ
+- ഒർട്ട് മേഘം
+- เมฆออร์ต
+- ოორტაშ მუნაფა
+- ორტის ღრუბელი
+- オールトの雲
+- 奥尔特云
+- 奧爾特雲
+- 歐特星雲
+- 오르트 구름
 has_id_wikidata: Q40864
 named_after:
-  - "[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861]]"
-  - "[[_Standards/WikiData/WD~Ernst_Öpik,318126]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861]]"
-has_part_s_: "[[_Standards/WikiData/WD~Hills_cloud,591406]]"
-part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
+- '[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861]]'
+- '[[_Standards/WikiData/WD~Ernst_Öpik,318126]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861]]'
+has_part_s_: '[[_Standards/WikiData/WD~Hills_cloud,591406]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~hypothetical_entity,18706315]]"
-  - "[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
+- '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
+- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Oort%20Cloud.ogg
 Commons_category: Oort cloud
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Oort_cloud,40864]]"
-    - "[[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]]"
-    - "[[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Oort_Cloud.protect|Oort_Cloud.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Oort_Cloud.private|Oort_Cloud.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Oort_Cloud.personal|Oort_Cloud.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Oort_Cloud.secret|Oort_Cloud.secret]]"
+  - '[[../../WikiData/WD~Oort_cloud,40864]]'
+  - '[[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]]'
+  - '[[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Oort_Cloud.protect|Oort_Cloud.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Oort_Cloud.private|Oort_Cloud.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Oort_Cloud.personal|Oort_Cloud.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Oort_Cloud.secret|Oort_Cloud.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Oort_cloud,40864]]"
-  - "[[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]]"
-  - "[[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Oort_Cloud.protect|Oort_Cloud.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Oort_Cloud.private|Oort_Cloud.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Oort_Cloud.personal|Oort_Cloud.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Oort_Cloud.secret|Oort_Cloud.secret]]"
+- '[[../../WikiData/WD~Oort_cloud,40864]]'
+- '[[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]]'
+- '[[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]]'
+- '[[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Oort_Cloud.protect|Oort_Cloud.protect]]'
+- '[[/_private/Astronomy/Solar_System/Oort_Cloud.private|Oort_Cloud.private]]'
+- '[[/_personal/Astronomy/Solar_System/Oort_Cloud.personal|Oort_Cloud.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Oort_Cloud.secret|Oort_Cloud.secret]]'
+dv_has_:
+  name_:
+    af: Oort-wolk
+    an: Boira d'Oort
+    ar: سحابة أورط
+    ary: سحابة أوورت
+    arz: سحابة اورت
+    as: উৰ্ট মেঘ
+    ast: nube d'Oort
+    az: Oort buludu
+    bar: Oortsche Woikn
+    be: Воблака Оарта
+    be-tarask: Воблака Аорта
+    bg: Облак на Оорт
+    bn: উর্ট মেঘ
+    br: Koumoulennad Oort
+    bs: Oortov oblak
+    ca: núvol d'Oort
+    cs: Oortův oblak
+    cy: Cwmwl Oort
+    da: Oortskyen
+    de: Oortsche Wolke
+    el: Νέφος του Όορτ
+    eml: Nùvul 'd Oort
+    en: Oort cloud
+    eo: Oorta nubo
+    es: nube de Oort
+    et: Öpiku-Oorti pilv
+    eu: Oorten hodeia
+    fa: ابر اورت
+    fi: Oortin pilvi
+    fr: nuage de Oort
+    ga: Scamall Oort
+    gd: Neul Oort
+    gl: nube de Oort
+    gn: Arai Oort
+    he: עננת אורט
+    hi: और्ट बादल
+    hif: Oort baadal
+    hr: Oortov oblak
+    hu: Oort-felhő
+    hy: Օորտի ամպ
+    id: Awan Oort
+    is: Oortský
+    it: nube di Oort
+    ja: オールトの雲
+    jv: Awan oort
+    ka: ორტის ღრუბელი
+    kab: Tabagust n Yesmilen
+    kn: ಊರ್ಟ್ ಮೋಡ
+    ko: 오르트 구름
+    ksh: Oortsche Wolke
+    la: Nubes Oortensis
+    lb: Oort-Wollek
+    li: Oortwolk
+    lmo: Nigol de Oort
+    lt: Orto kometoidų debesis
+    lv: Orta mākonis
+    map-bms: Awan Oort
+    mk: Ортов Облак
+    ml: ഒർട്ട് മേഘം
+    mr: ऊर्टचा मेघ
+    ms: Awan Oort
+    mt: Sħaba ta' Oort
+    my: Oort Cloud
+    nan: Oort-hûn
+    nb: Oorts sky
+    nds: Oortsche Wulk
+    nl: Oortwolk
+    nn: Oortskya
+    oc: Nívol d'Oort
+    os: Оорты мигъ
+    pl: obłok Oorta
+    pnb: اوورٹ بدل
+    pt: nuvem de Oort
+    ro: norul lui Oort
+    ru: Облако Оорта
+    scn: nùvula di Oort
+    sco: Oort clood
+    sh: Ortov oblak
+    sk: Oortov mrak
+    sl: Oortov oblak
+    sr: Ортов облак
+    sv: Oorts kometmoln
+    sw: Wingu la Oort
+    te: ఊర్ట్ మబ్బు
+    tg: Абри оорт
+    th: เมฆออร์ต
+    tl: Oort na ulap
+    tr: Oort bulutu
+    tt: Оорт болыты
+    uk: Хмара Оорта
+    ur: اورت بادل
+    uz: Oort buluti
+    vec: Nube de Oort
+    vi: Đám mây Oort
+    war: Dampog Oort
+    wuu: 奥尔特云
+    xmf: ოორტაშ მუნაფა
+    yue: 歐特星雲
+    zh: 奥尔特云
+    zh-cn: 奥尔特云
+    zh-hans: 奥尔特云
+    zh-hant: 奧爾特雲
 ---
-
 # [[Oort_Cloud]] 
 
 #is_/same_as :: [[WD~Oort_cloud,40864]] 

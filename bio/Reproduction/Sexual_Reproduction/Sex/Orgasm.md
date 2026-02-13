@@ -1,32 +1,189 @@
 ---
 aliases:
-  - sexual climax
-  - climax
-  - ὀργασμός
-  - Orgasm
+- climax
+- cực khoái
+- Jinaabobax
+- Orgasm
+- orgasme
+- orgasmi
+- orgasmo
+- orgasms
+- orgasmu
+- orgasmus
+- orgazam
+- orgazem
+- orgazm
+- Orgazma
+- orgazmas
+- orgazmus
+- orqazm
+- pilin wawa unpa
+- puncak syahwat
+- sexual climax
+- sukdulan
+- súnás
+- ukuchitha
+- uorgazmos
+- urgàsimu
+- yuquypi aypay
+- Οργασμός
+- аргазм
+- оргазам
+- оргазм
+- оргазъм
+- օրգազմ
+- אורגזמה
+- ארגאזם
+- ئۆرگازم
+- اوج لذت جنسی
+- اورقازم
+- اورګاسم
+- جنسی تسکین
+- هزة الجماع
+- चरमसुख
+- রাগমোচন
+- ৰাগমোচন
+- புணர்ச்சிப் பரவசநிலை
+- భావప్రాప్తి
+- ಪರಾಕಾಷ್ಠೆ
+- രതിമൂർച്ഛ
+- සුරතාන්තය
+- จุดสุดยอดทางเพศ
+- ཆགས་པ་མཐོ་རུ་འཕེལ་བ།
+- ორგაზმი
+- ὀργασμός
+- オーガズム
+- 性高潮
+- 오르가슴
 has_id_wikidata: Q5887
 different_from:
-  - '[[_Standards/WikiData/WD~Orgasm,1204901]]'
-  - '[[_Standards/WikiData/WD~ejaculation,14820885]]'
+- '[[_Standards/WikiData/WD~Orgasm,1204901]]'
+- '[[_Standards/WikiData/WD~ejaculation,14820885]]'
 part_of: '[[_Standards/WikiData/WD~human_sexual_response_cycle,1361002]]'
 facet_of: '[[_Standards/WikiData/WD~sexuality,3043188]]'
 has_cause: '[[_Standards/WikiData/WD~sexual_stimulation,3490562]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~ejaculation,14820885]]'
-  - '[[_Standards/WikiData/WD~sexual_pleasure,20851021]]'
+- '[[_Standards/WikiData/WD~ejaculation,14820885]]'
+- '[[_Standards/WikiData/WD~sexual_pleasure,20851021]]'
 subclass_of: '[[_Standards/WikiData/WD~physiological_process,30892994]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 IMDb_keyword: orgasm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Franciszek%20%C5%BBmurko%20-%20Sinnenrausch.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Orgasmus2.ogg
 MeSH_tree_code:
-  - F01.145.802.658
-  - G08.686.617
+- F01.145.802.658
+- G08.686.617
 Archive_of_Our_Own_tag: Orgasm
 subreddit: Orgasms
 Commons_category: Orgasms
+dv_has_:
+  name_:
+    af: orgasme
+    an: Orgasmo
+    ar: هزة الجماع
+    as: ৰাগমোচন
+    ast: orgasmu
+    az: orqazm
+    azb: اورقازم
+    bcl: Orgasmo
+    be: аргазм
+    be-tarask: аргазм
+    bg: оргазъм
+    bn: রাগমোচন
+    bo: ཆགས་པ་མཐོ་རུ་འཕེལ་བ།
+    bs: orgazam
+    ca: orgasme
+    ckb: ئۆرگازم
+    cs: orgasmus
+    cy: orgasm
+    da: orgasme
+    de: Orgasmus
+    de-ch: Orgasmus
+    el: Οργασμός
+    en: orgasm
+    en-ca: orgasm
+    en-gb: orgasm
+    eo: orgasmo
+    es: orgasmo
+    et: orgasm
+    eu: orgasmo
+    ext: Orgasmu
+    fa: اوج لذت جنسی
+    fi: orgasmi
+    fr: orgasme
+    fy: orgasme
+    ga: súnás
+    gl: orgasmo
+    grc: ὀργασμός
+    he: אורגזמה
+    hi: चरमसुख
+    hr: orgazam
+    hsb: orgazm
+    hu: orgazmus
+    hy: օրգազմ
+    ia: orgasmo
+    id: orgasme
+    ie: orgasme
+    it: orgasmo
+    ja: オーガズム
+    jv: orgasme
+    ka: ორგაზმი
+    kk: оргазм
+    kn: ಪರಾಕಾಷ್ಠೆ
+    ko: 오르가슴
+    ku: orgazm
+    la: orgasmus
+    lmo: Orgasm
+    lt: orgazmas
+    lv: orgasms
+    lzh: 性高潮
+    mk: оргазам
+    ml: രതിമൂർച്ഛ
+    ms: puncak syahwat
+    mzn: اوج لذت جنسی
+    nb: orgasme
+    nds: Orgasmus
+    nl: orgasme
+    nn: orgasme
+    oc: orgasme
+    pl: orgazm
+    ps: اورګاسم
+    pt: orgasmo
+    pt-br: orgasmo
+    qu: yuquypi aypay
+    ro: orgasm
+    ru: оргазм
+    sah: оргазм
+    sc: orgasmu
+    scn: urgàsimu
+    sco: orgasm
+    sgs: uorgazmos
+    sh: orgazam
+    si: සුරතාන්තය
+    sk: orgazmus
+    sl: orgazem
+    so: Jinaabobax
+    sq: Orgazma
+    sr: оргазам
+    su: orgasme
+    sv: orgasm
+    ta: புணர்ச்சிப் பரவசநிலை
+    te: భావప్రాప్తి
+    th: จุดสุดยอดทางเพศ
+    tl: sukdulan
+    tok: pilin wawa unpa
+    tr: orgazm
+    uk: оргазм
+    ur: جنسی تسکین
+    uz: Orgazm
+    vi: cực khoái
+    wuu: 性高潮
+    yi: ארגאזם
+    yue: 性高潮
+    zh: 性高潮
+    zh-hant: 性高潮
+    zu: ukuchitha
 ---
-
 # [[Orgasm]] 
 
 #is_/same_as :: [[WD~Orgasm,5887]] 

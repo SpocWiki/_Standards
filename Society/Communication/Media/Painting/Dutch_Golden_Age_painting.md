@@ -1,13 +1,65 @@
 ---
-has_time_started: 1600-01-01 
-has_time_stopped: 1699-01-01 
+has_time_started: 1600-01-01
+has_time_stopped: 1699-01-01
 aliases:
-  - Dutch Golden Age painting
-  - Dutch_Golden_Age_painting
+- a holland festészet aranykora
+- Alankomaiden kulta-ajan maalaus
+- Den gyldne tidsalder i nederlandsk malerkunst
+- Dutch Golden Age painting
+- Dutch_Golden_Age_painting
+- Herbehereetako margolaritzaren Urrezko Aroa
+- Holland rəssamlığının qızıl dövrü
+- Hollanda Altın Çağı resmi
+- hội họa Hà Lan thời hoàng kim
+- Lukisan Zaman Keemasan Belanda
+- Nederlanda pentrarta orepoko
+- Nederlandse schilderkunst in de Gouden Eeuw
+- Nederlandske guldalder i maleri
+- Nederländsk guldålderkonst
+- Niederländisches Goldenes Zeitalter der Malerei
+- nizozemska zlata doba v slikarstvu
+- Nīderlandes glezniecības zelta laikmets
+- Olandų tapybos „aukso amžius“
+- peantadh às an Aois Òir Dhuitseach
+- peintio Oes Aur yr Iseldiroedd
+- pictura Secolului de Aur Olandez
+- pintura barroca als Països Baixos
+- Pintura del Sieglu d'oru neerlandés
+- pintura del Siglo de oro neerlandés
+- Pintura do século de ouro dos Países Baixos
+- pintura do Século de Ouro neerlandês
+- pittura del Secolo d'oro olandese
+- Pittura tas-Seklu tad-Deheb Olandiż
+- péintéireacht Ré Órga na hÍsiltíre
+- Slikarstvo baroka u Holandiji
+- zlatno doba holandskog slikarstva
+- Zlatá éra nizozemského malířství
+- Złoty wiek malarstwa holenderskiego
+- âge d'or de la peinture néerlandaise
+- ζωγραφική της "Χρυσής ολλανδικής εποχής"
+- Залаты век галандскага жывапісу
+- Залаты век нідэрляндзкага жывапісу
+- златно време на холандското сликарство
+- златно доба холандског сликарства
+- Золота доба голландського живопису
+- Золотой век голландской живописи
+- Нидерландски Златен век в изобразителното изкуство
+- հոլանդական գեղանկարչության ոսկե շրջան
+- תור הזהב של הולנד
+- الرسم في العصر الذهبي الهولندي
+- عصر طلایی نقاشی هلند
+- डच स्वर्ण युगया चित्रकला
+- ওলন্দাজ স্বর্ণযুগীয় চিত্রকর্ম
+- จิตรกรรมยุคทองของเนเธอร์แลนด์
+- オランダ黄金時代の絵画
+- 荷兰黄金时代油画
+- 荷蘭黃金時代油畫
+- 荷蘭黃金時代繪畫
+- 네덜란드 황금기 회화
 has_id_wikidata: Q2352880
 influenced_by:
-  - '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
-  - '[[_Standards/WikiData/WD~Caravaggio,42207]]'
+- '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
+- '[[_Standards/WikiData/WD~Caravaggio,42207]]'
 country: '[[_Standards/WikiData/WD~Dutch_Republic,170072]]'
 described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of: '[[_Standards/WikiData/WD~painting_movement,3326867]]'
@@ -19,8 +71,65 @@ field_of_work: '[[_Standards/WikiData/WD~art_of_painting,11629]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Girl%20with%20a%20Pearl%20Earring.jpg
 Europeana_entity: agent/base/161429
 Commons_category: Dutch Golden Age paintings
+dv_has_:
+  name_:
+    ar: الرسم في العصر الذهبي الهولندي
+    ast: Pintura del Sieglu d'oru neerlandés
+    az: Holland rəssamlığının qızıl dövrü
+    be: Залаты век галандскага жывапісу
+    be-tarask: Залаты век нідэрляндзкага жывапісу
+    bg: Нидерландски Златен век в изобразителното изкуство
+    bn: ওলন্দাজ স্বর্ণযুগীয় চিত্রকর্ম
+    bs: Slikarstvo baroka u Holandiji
+    ca: pintura barroca als Països Baixos
+    cs: Zlatá éra nizozemského malířství
+    cy: peintio Oes Aur yr Iseldiroedd
+    da: Nederlandske guldalder i maleri
+    de: Niederländisches Goldenes Zeitalter der Malerei
+    el: ζωγραφική της "Χρυσής ολλανδικής εποχής"
+    en: Dutch Golden Age painting
+    eo: Nederlanda pentrarta orepoko
+    es: pintura del Siglo de oro neerlandés
+    eu: Herbehereetako margolaritzaren Urrezko Aroa
+    fa: عصر طلایی نقاشی هلند
+    fi: Alankomaiden kulta-ajan maalaus
+    fr: âge d'or de la peinture néerlandaise
+    ga: péintéireacht Ré Órga na hÍsiltíre
+    gd: peantadh às an Aois Òir Dhuitseach
+    gl: Pintura do século de ouro dos Países Baixos
+    he: תור הזהב של הולנד
+    hu: a holland festészet aranykora
+    hy: հոլանդական գեղանկարչության ոսկե շրջան
+    id: Lukisan Zaman Keemasan Belanda
+    it: pittura del Secolo d'oro olandese
+    ja: オランダ黄金時代の絵画
+    ko: 네덜란드 황금기 회화
+    lt: Olandų tapybos „aukso amžius“
+    lv: Nīderlandes glezniecības zelta laikmets
+    mk: златно време на холандското сликарство
+    mt: Pittura tas-Seklu tad-Deheb Olandiż
+    nb: Den gyldne tidsalder i nederlandsk malerkunst
+    new: डच स्वर्ण युगया चित्रकला
+    nl: Nederlandse schilderkunst in de Gouden Eeuw
+    pl: Złoty wiek malarstwa holenderskiego
+    pt: pintura do Século de Ouro neerlandês
+    pt-br: pintura do Século de Ouro dos Países Baixos
+    ro: pictura Secolului de Aur Olandez
+    ru: Золотой век голландской живописи
+    sl: nizozemska zlata doba v slikarstvu
+    sr: златно доба холандског сликарства
+    sr-ec: златно доба холандског сликарства
+    sr-el: zlatno doba holandskog slikarstva
+    sv: Nederländsk guldålderkonst
+    th: จิตรกรรมยุคทองของเนเธอร์แลนด์
+    tr: Hollanda Altın Çağı resmi
+    uk: Золота доба голландського живопису
+    vi: hội họa Hà Lan thời hoàng kim
+    zh: 荷蘭黃金時代繪畫
+    zh-cn: 荷兰黄金时代油画
+    zh-hans: 荷兰黄金时代油画
+    zh-hant: 荷蘭黃金時代油畫
 ---
-
 # [[Dutch_Golden_Age_painting]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dutch_Golden_Age_painting,2352880|WD~Dutch_Golden_Age_painting,2352880]] 

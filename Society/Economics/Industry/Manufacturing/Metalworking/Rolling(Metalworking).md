@@ -1,31 +1,131 @@
 ---
 aliases:
-  - Walzen
-  - Rolling(Metalworking)
+- cán
+- haddeleme
+- hengerlés
+- Ijezketa
+- keratan lompang tergelek panas
+- Laminació
+- laminación
+- laminage
+- laminare
+- laminatado
+- laminazione
+- laminação
+- prokat
+- Prokat stani
+- rolling
+- Rolling(Metalworking)
+- Valcovanie (tvárnenie)
+- valjanje
+- Valse
+- valsing
+- Valsning
+- valssaus
+- Valtsimine
+- válcování kovů
+- walcowanie
+- Wals (tegnies)
+- walsen
+- Walzen
+- Walzwierk
+- айналмасору
+- бастыруу
+- Валавница
+- Валцуване
+- вальцаваньне
+- вальцювання
+- прокатка
+- Գլոցում
+- ערגול
+- درفلة
+- نورد
+- ढ़लाई
+- 压机
+- 圧延
+- 壓機
+- 軋製
+- 轧
+- 轧制
+- 압연
 has_id_wikidata: Q452648
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~_Kyrgyzstan_national_encyclopedia,16679904]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~metalworking,953045]]'
-  - '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
+- '[[_Standards/WikiData/WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~manufacturing_process,1408288]]'
 uses:
-  - '[[_Standards/WikiData/WD~rolling_mill,1049792]]'
-  - '[[_Standards/WikiData/WD~roller,95963308]]'
-  - '[[_Standards/WikiData/WD~cylinder,34132]]'
+- '[[_Standards/WikiData/WD~rolling_mill,1049792]]'
+- '[[_Standards/WikiData/WD~roller,95963308]]'
+- '[[_Standards/WikiData/WD~cylinder,34132]]'
 different_from:
-  - '[[_Standards/WikiData/WD~rolling,2192732]]'
-  - '[[_Standards/WikiData/WD~drawing,2997961]]'
+- '[[_Standards/WikiData/WD~rolling,2192732]]'
+- '[[_Standards/WikiData/WD~drawing,2997961]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~roll_bender,2973026]]'
 subclass_of: '[[_Standards/WikiData/WD~forming,5470205]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laminage%20schema%20gene.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rolling.gif
 Commons_category: Rolling (metalworking)
+dv_has_:
+  name_:
+    af: Wals (tegnies)
+    ar: درفلة
+    ast: Laminación
+    az: prokat
+    be-tarask: вальцаваньне
+    bg: Валцуване
+    ca: Laminació
+    cs: válcování kovů
+    da: Valsning
+    de: Walzen
+    en: rolling
+    eo: laminatado
+    es: laminación
+    et: Valtsimine
+    eu: Ijezketa
+    fa: نورد
+    fi: valssaus
+    fr: laminage
+    he: ערגול
+    hi: ढ़लाई
+    hr: Valjanje
+    hu: hengerlés
+    hy: Գլոցում
+    id: Rolling
+    it: laminazione
+    ja: 圧延
+    kk: айналмасору
+    ko: 압연
+    ky: бастыруу
+    lb: Walzwierk
+    mk: Валавница
+    ms: keratan lompang tergelek panas
+    nb: valsing
+    nl: walsen
+    nn: Valse
+    pl: walcowanie
+    pt: laminação
+    ro: laminare
+    ru: прокатка
+    sh: Valjanje
+    sk: Valcovanie (tvárnenie)
+    sl: valjanje
+    sr: Valjanje
+    sv: valsning
+    tr: haddeleme
+    uk: вальцювання
+    uz: Prokat stani
+    vi: cán
+    wuu: 轧制
+    yue: 軋製
+    zh: 轧
+    zh-hans: 压机
+    zh-hant: 壓機
 ---
-
 # [[Rolling(Metalworking)]] 
 
 #is_/same_as :: [[WD~Rolling,452648]] 

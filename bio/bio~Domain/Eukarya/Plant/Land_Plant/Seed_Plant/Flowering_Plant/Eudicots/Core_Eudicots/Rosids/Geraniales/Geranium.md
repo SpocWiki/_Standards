@@ -1,20 +1,69 @@
 ---
 aliases:
-  - Geranie
-  - cranesbills
-  - Geranium
-  - Crane's-bills
+- bodziszek
+- Chi Mỏ hạc
+- Crane's-bills
+- cranesbills
+- crobh fola
+- Derzîlok
+- Gandrenes
+- Geraanien
+- Geran'
+- Geranie
+- Geranio
+- Geranium
+- Gondrsnapė
+- gólyaorr
+- Iglica
+- kakost
+- krvomočnica
+- Kurereha
+- kurjenpolvet
+- nipaluma-lakun, lakon
+- Nävesläktet
+- pakost
+- Pyskawa
+- Qaztamaq
+- Snaputis
+- Storchschnäbel
+- Storkenebbslekta
+- storkenæb
+- Turnagagası
+- Ətirşah
+- γεράνι
+- геранія
+- Герань
+- здравец
+- Каткалопа
+- Сургæнæн
+- Сыһыы куохалаһа
+- Яран
+- Қазтамақ
+- גרניון
+- دەرزیلۆک
+- شمعدانی
+- غرنوقى
+- غرنوقي
+- قازتاماق
+- ಜಿರೇನಿಯಮ್
+- ნემსიწვერა
+- フウロソウ属
+- 老顴草屬
+- 老颧草属
+- 老鸛草屬
+- 老鹳草属
+- 쥐손이풀속
 has_id_wikidata: Q157211
 has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
 parent_taxon: '[[_Standards/WikiData/WD~Geraniaceae,155945]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Geranium_sylvaticum,161644]]'
 described_by_source:
-  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(1),112869426]]'
-  - '[[_Standards/WikiData/WD~Q114268958,114268958]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(1),112869426]]'
+- '[[_Standards/WikiData/WD~Q114268958,114268958]]'
 award_received: '[[_Standards/WikiData/WD~perennial_of_the_year,2334413]]'
 named_after: '[[_Standards/WikiData/WD~Gerana,3625564]]'
 different_from: '[[_Standards/WikiData/WD~germanium,867]]'
@@ -33,8 +82,139 @@ MeSH_tree_code: B01.875.800.575.912.250.462.500
 UMLS_CUI: C0330886
 NBN_System_Key: NHMSYS0000459031
 taxon_common_name: Crane's-bills
+dv_has_:
+  name_:
+    af: Geranium
+    an: Geranium
+    ar: غرنوقي
+    arz: غرنوقى
+    ast: Geranium
+    az: Ətirşah
+    bar: Geranium
+    be: герань
+    be-tarask: геранія
+    bg: здравец
+    br: Geranium
+    ca: Geranium
+    ceb: Geranium
+    co: Geranium
+    cs: kakost
+    cy: Geranium
+    da: storkenæb
+    de: Storchschnäbel
+    de-at: Geranium
+    de-ch: Geranium
+    el: γεράνι
+    en: Geranium
+    en-ca: Geranium
+    en-gb: Geranium
+    eo: Geranio
+    es: Geranium
+    et: Kurereha
+    eu: Geranio
+    ext: Geranium
+    fa: شمعدانی
+    fi: kurjenpolvet
+    fr: Geranium
+    frp: Geranium
+    frr: Geraanien
+    fur: Geranium
+    ga: crobh fola
+    gd: Geranium
+    gl: Geranium
+    gsw: Geranium
+    he: גרניון
+    hr: Iglica
+    hsb: Pyskawa
+    hu: gólyaorr
+    ia: Geranium
+    id: Geranium
+    ie: Geranium
+    io: Geranio
+    is: Geranium
+    it: Geranium
+    ja: フウロソウ属
+    ka: ნემსიწვერა
+    kg: Geranium
+    kk: Қазтамақ
+    kk-arab: قازتاماق
+    kk-cn: قازتاماق
+    kk-cyrl: Қазтамақ
+    kk-kz: Қазтамақ
+    kk-latn: Qaztamaq
+    kk-tr: Qaztamaq
+    kn: ಜಿರೇನಿಯಮ್
+    ko: 쥐손이풀속
+    ku: Derzîlok
+    ku-arab: دەرزیلۆک
+    ku-latn: Derzîlok
+    ky: Герань
+    la: Geranium
+    lb: Geranium
+    li: Geranium
+    lij: Geranium
+    lt: Snaputis
+    lv: Gandrenes
+    mg: Geranium
+    min: Geranium
+    mk: здравец
+    ms: Geranium
+    mul: Geranium
+    myv: Каткалопа
+    nap: Geranium
+    nb: Storkenebbslekta
+    nds: Geranium
+    nds-nl: Geranium
+    nl: geranium
+    nn: Storkenebbslekta
+    nrm: Geranium
+    nys: Geranium
+    oc: Geranium
+    os: Сургæнæн
+    pcd: Geranium
+    pl: bodziszek
+    pms: Geranium
+    pt: Geranium
+    pt-br: Geranium
+    rm: Geranium
+    ro: Geranium
+    ru: герань
+    rup: Geranium
+    sah: Сыһыы куохалаһа
+    sc: Geranium
+    scn: Geranium
+    sco: Geranium
+    sgs: Gondrsnapė
+    sk: pakost
+    sl: krvomočnica
+    sq: Geranium
+    sr: Iglica
+    sv: Nävesläktet
+    sw: Geranium
+    szy: nipaluma-lakun, lakon
+    tr: Turnagagası
+    tt: Яран
+    tyv: Герань
+    uk: герань
+    vec: Geranium
+    vep: Geran'
+    vi: Chi Mỏ hạc
+    vls: Geranium
+    vo: Geranium
+    wa: Geranium
+    war: Geranium
+    wo: Geranium
+    wuu: 老鹳草属
+    yue: 老鸛草屬
+    zh: 老鹳草属
+    zh-cn: 老颧草属
+    zh-hans: 老颧草属
+    zh-hant: 老顴草屬
+    zh-hk: 老顴草屬
+    zh-sg: 老颧草属
+    zh-tw: 老顴草屬
+    zu: Geranium
 ---
-
 # [[Geranium]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Geranium,157211|WD~Geranium,157211]] 

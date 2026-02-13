@@ -1,12 +1,76 @@
 ---
 aliases:
-  - Chaos-Theorie
-  - Chaos_Theory
-  - Chaos Theory
+- anord
+- chaos deterministyczny
+- Chaos Theory
+- Chaos-Theorie
+- Chaosforschung
+- chaoso teorija
+- chaosteorie
+- chaostheorie
+- Chaos_Theory
+- damcaniaeth anrhefn
+- haosa teorija
+- kaaosteoria
+- kaos kuramı
+- kaosaren teoria
+- kaoseteooria
+- kaosforskning
+- kaosteori
+- kyeas tiori
+- káoszelmélet
+- lý thuyết hỗn loạn
+- Teori chaos
+- teori kekacauan
+- teoria del caos
+- teoria do caos
+- Teoria e kaosit
+- teoria haosului
+- teoriang chaos
+- teorie chaosu
+- teorija haosa
+- teorija kaosa
+- teoría del caos
+- teoría do caos
+- teória chaosu
+- théorie du chaos
+- tiurìa dû caos
+- Xaos nazariyasi
+- xaos nəzəriyyəsi
+- xаос теорийĕ
+- ĥaosoteorio
+- θεωρία του χάους
+- теорія хаосу
+- теорија на хаосот
+- теорија хаоса
+- теория на хаоса
+- теория хаоса
+- тэорыя хаосу
+- хаос теорияһы
+- Хаосын онол
+- քաոսի տեսություն
+- תורת הכאוס
+- تیۆریی شێواوی
+- نضرية الروينة
+- نظرية فوضى الكون
+- نظریه آشوب
+- نظریۂ شواش
+- अक्रम सिद्धान्त
+- कोलाहल
+- বিশৃঙ্খলা তত্ত্ব
+- ਘੜਮੱਸ ਸਿਧਾਂਤ
+- ஒழுங்கின்மை கோட்பாடு
+- കയോസ് സിദ്ധാന്തം
+- ทฤษฎีความอลวน
+- ქაოსის თეორია
+- カオス理論
+- 混沌理論
+- 混沌理论
+- 혼돈 이론
 has_id_wikidata: Q166314
 instance_of:
-  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Chaos_theory,6869505]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 is_the_study_of: '[[_Standards/WikiData/WD~chaotic_system,29413888]]'
@@ -14,15 +78,104 @@ practiced_by: '[[_Standards/WikiData/WD~chaotician,76574329]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Duffing%20oscillator.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorenz%20system%20r28%20s10%20b2-6666.png
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/chaos-theory
-  - https://mathoverflow.net/tags/chaos
-  - https://physics.stackexchange.com/tags/chaos-theory
-  - https://stackoverflow.com/tags/chaos
+- https://math.stackexchange.com/tags/chaos-theory
+- https://mathoverflow.net/tags/chaos
+- https://physics.stackexchange.com/tags/chaos-theory
+- https://stackoverflow.com/tags/chaos
 P8189: 987007284937105171
 Commons_category: Chaos theory
 Krugosvet_article: nauka_i_tehnika/matematika/HAOSA_TEORIYA.html
+dv_has_:
+  name_:
+    af: chaosteorie
+    ar: نظرية فوضى الكون
+    ary: نضرية الروينة
+    ast: teoría del caos
+    az: xaos nəzəriyyəsi
+    ba: хаос теорияһы
+    be: тэорыя хаосу
+    be-tarask: тэорыя хаосу
+    bg: теория на хаоса
+    bn: বিশৃঙ্খলা তত্ত্ব
+    bs: Teorija haosa
+    ca: teoria del caos
+    ckb: تیۆریی شێواوی
+    cs: teorie chaosu
+    cv: xаос теорийĕ
+    cy: damcaniaeth anrhefn
+    da: kaosteori
+    de: Chaosforschung
+    el: θεωρία του χάους
+    en: chaos theory
+    eo: ĥaosoteorio
+    es: teoría del caos
+    et: kaoseteooria
+    eu: kaosaren teoria
+    fa: نظریه آشوب
+    fi: kaaosteoria
+    fr: théorie du chaos
+    ga: anord
+    gan: 混沌理論
+    gan-hans: 混沌理论
+    gan-hant: 混沌理論
+    gl: teoría do caos
+    he: תורת הכאוס
+    hi: अक्रम सिद्धान्त
+    hr: teorija kaosa
+    hu: káoszelmélet
+    hy: քաոսի տեսություն
+    id: Teori chaos
+    it: teoria del caos
+    ja: カオス理論
+    jam: kyeas tiori
+    ka: ქაოსის თეორია
+    ko: 혼돈 이론
+    lt: chaoso teorija
+    lv: haosa teorija
+    mk: теорија на хаосот
+    ml: കയോസ് സിദ്ധാന്തം
+    mn: Хаосын онол
+    mr: कोलाहल
+    ms: teori kekacauan
+    nb: kaosteori
+    nl: chaostheorie
+    nn: kaosteori
+    pa: ਘੜਮੱਸ ਸਿਧਾਂਤ
+    pam: teoriang chaos
+    pdc: Chaos Theory
+    pl: chaos deterministyczny
+    pnb: نظریۂ شواش
+    pt: teoria do caos
+    pt-br: teoria do caos
+    ro: teoria haosului
+    ru: теория хаоса
+    scn: tiurìa dû caos
+    sco: chaos theory
+    sh: teorija kaosa
+    sk: teória chaosu
+    sl: teorija kaosa
+    sq: Teoria e kaosit
+    sr: теорија хаоса
+    sr-ec: теорија хаоса
+    sr-el: teorija haosa
+    sv: kaosforskning
+    ta: ஒழுங்கின்மை கோட்பாடு
+    th: ทฤษฎีความอลวน
+    tr: kaos kuramı
+    uk: теорія хаосу
+    ur: نظریۂ شواش
+    uz: Xaos nazariyasi
+    vi: lý thuyết hỗn loạn
+    wuu: 混沌理论
+    yue: 混沌理論
+    zh: 混沌理论
+    zh-cn: 混沌理论
+    zh-hans: 混沌理论
+    zh-hant: 混沌理論
+    zh-hk: 混沌理論
+    zh-sg: 混沌理论
+    zh-tw: 混沌理論
 ---
-
 # [[Chaos_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Chaos_theory,166314|WD~Chaos_theory,166314]] 

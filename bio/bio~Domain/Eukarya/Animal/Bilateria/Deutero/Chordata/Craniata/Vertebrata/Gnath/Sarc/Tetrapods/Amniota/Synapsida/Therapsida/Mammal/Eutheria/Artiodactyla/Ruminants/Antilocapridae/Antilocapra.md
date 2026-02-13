@@ -1,11 +1,52 @@
 ---
 aliases:
-  - antelope-goat
-  - Antilocapra
-has_id_wikidata: 19817351
+- antelope-goat
+- Antilocapra
+- Kinzol (Antilocapra)
+- شاخچنگالها
+has_id_wikidata: Q19817351
 title: Antilocapra americana
+dv_has_:
+  name_:
+    an: Antilocapra
+    ast: Antilocapra
+    avk: Kinzol (Antilocapra)
+    bg: Antilocapra
+    ca: Antilocapra
+    ceb: Antilocapra
+    de: Antilocapra
+    en: Antilocapra
+    eo: Antilocapra
+    es: Antilocapra
+    eu: Antilocapra
+    ext: Antilocapra
+    fa: شاخچنگالها
+    fi: Antilocapra
+    fr: Antilocapra
+    ga: Antilocapra
+    gl: Antilocapra
+    hu: Antilocapra
+    ia: Antilocapra
+    id: Antilocapra
+    ie: Antilocapra
+    io: Antilocapra
+    it: Antilocapra
+    la: Antilocapra
+    mul: Antilocapra
+    nl: Antilocapra
+    oc: Antilocapra
+    pl: Antilocapra
+    pt: Antilocapra
+    pt-br: Antilocapra
+    ro: Antilocapra
+    ru: Antilocapra
+    sq: Antilocapra
+    tr: Antilocapra
+    uk: Antilocapra
+    vi: Antilocapra
+    vo: Antilocapra
+    war: Antilocapra
 ---
-
 # [[Antilocapra]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antilocapra,19817351|WD~Antilocapra,19817351]] 

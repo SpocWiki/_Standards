@@ -1,23 +1,62 @@
 ---
-has_time_started: 1957-01-01 
+has_time_started: 1957-01-01
 aliases:
+- Cattus Petasatus
+- Chàng Mèo Mang Mũ
+- Der Kater mit Hut
+- El gat Disbarat
+- El gato en el sombrero
+- El gatu nel sombreru
+- Il gatto col cappello
+- Katinas su skrybele
+- Katten i hatten
+- Katten med hatten
+- Kocour v klobouku
+- Kot Prot
+- La Ĉapelita Kato
+- Le Chat chapeauté
+- Mačak u vreći
+- The Cat in the Hat
+- Tì Bō-á ê Niau
+- Şapkadaki Kedi
+- Кіт у капелюсі
+- Калпаклы мәче
+- Кот в шляпе
+- Кот у капелюшы
+- Ҡалпаҡлы Бесәй
+- Կատուն գլխարկում
+- די קאץ דער פאיאץ
+- חתול תעלול
+- القط ذو القبعة
+- دی کیٹ ان دی ہیٹ
+- گربه کلاهبهسر (کتاب)
+- ਕੈਟ ਇਨ ਹੈਟ
+- த கெட் இன் த ஹாட்
+- ది క్యాట్ ఇన్ ది హాట్
+- ദി ക്യാറ്റ് ഇൻ ദി ഹാറ്റ്
+- 反斗靈貓
+- 帽子里个猫
+- 戴帽子的猫
+- 戴帽子的貓
+- 魔法靈貓
+- 모자 쓴 고양이
 has_id_wikidata: Q973053
 genre: "[[_Standards/WikiData/WD~children's_literature,131539]]"
-author: "[[_Standards/WikiData/WD~Dr._Seuss,298685]]"
-follows: "[[_Standards/WikiData/WD~How_the_Grinch_Stole_Christmas!,446612]]"
-followed_by: "[[_Standards/WikiData/WD~The_Cat_in_the_Hat_Comes_Back,3795581]]"
-derivative_work: "[[_Standards/WikiData/WD~The_Cat_in_the_Cap,4235898]]"
-instance_of: "[[_Standards/WikiData/WD~written_work,47461344]]"
+author: '[[_Standards/WikiData/WD~Dr._Seuss,298685]]'
+follows: '[[_Standards/WikiData/WD~How_the_Grinch_Stole_Christmas!,446612]]'
+followed_by: '[[_Standards/WikiData/WD~The_Cat_in_the_Hat_Comes_Back,3795581]]'
+derivative_work: '[[_Standards/WikiData/WD~The_Cat_in_the_Cap,4235898]]'
+instance_of: '[[_Standards/WikiData/WD~written_work,47461344]]'
 characters:
-  - "[[_Standards/WikiData/WD~The_Cat_in_the_Hat,60466596]]"
-  - "[[_Standards/WikiData/WD~Thing_1,60541561]]"
-  - "[[_Standards/WikiData/WD~Thing_2,60541643]]"
-  - "[[_Standards/WikiData/WD~The_Fish,60542386]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~The_Cat_in_the_Hat_(1985_edition),126109584]]"
-intended_public: "[[_Standards/WikiData/WD~child,7569]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~American_English,7976]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-OCLC_number: "304833"
+- '[[_Standards/WikiData/WD~The_Cat_in_the_Hat,60466596]]'
+- '[[_Standards/WikiData/WD~Thing_1,60541561]]'
+- '[[_Standards/WikiData/WD~Thing_2,60541643]]'
+- '[[_Standards/WikiData/WD~The_Fish,60542386]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~The_Cat_in_the_Hat_(1985_edition),126109584]]'
+intended_public: '[[_Standards/WikiData/WD~child,7569]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~American_English,7976]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+OCLC_number: 304833
 title: The Cat in the Hat
 publication_date: 1957-03-12T00:00:00Z
 inception: 1957-01-01T00:00:00Z
@@ -26,8 +65,60 @@ Know_Your_Meme_slug: the-cat-in-the-hat
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Delalio%20Elementary%20School%20celebrates%20%22Cat%20in%20the%20Hat%22%20day%20140306-M-GB433-002.jpg
 first_line: The sun did not shine.
 last_line: Well, what would you do if your mother asked you?
+dv_has_:
+  name_:
+    af: The Cat in the Hat
+    ar: القط ذو القبعة
+    ast: El gatu nel sombreru
+    ba: Ҡалпаҡлы Бесәй
+    be-tarask: Кот у капелюшы
+    ca: El gat Disbarat
+    cs: Kocour v klobouku
+    cy: The Cat in the Hat
+    da: Katten med hatten
+    de: Der Kater mit Hut
+    en: The Cat in the Hat
+    eo: La Ĉapelita Kato
+    es: El gato en el sombrero
+    eu: The Cat in the Hat
+    fa: گربه کلاهبهسر (کتاب)
+    fr: Le Chat chapeauté
+    ga: The Cat in the Hat
+    gl: The Cat in the Hat
+    he: חתול תעלול
+    hy: Կատուն գլխարկում
+    id: The Cat in the Hat
+    it: Il gatto col cappello
+    ko: 모자 쓴 고양이
+    la: Cattus Petasatus
+    lt: Katinas su skrybele
+    mg: Le Chat chapeauté
+    ml: ദി ക്യാറ്റ് ഇൻ ദി ഹാറ്റ്
+    nan: Tì Bō-á ê Niau
+    nb: The Cat in the Hat
+    nl: The Cat in the Hat
+    pa: ਕੈਟ ਇਨ ਹੈਟ
+    pl: Kot Prot
+    pt: The Cat in the Hat
+    ru: Кот в шляпе
+    sr: Mačak u vreći
+    sv: Katten i hatten
+    ta: த கெட் இன் த ஹாட்
+    te: ది క్యాట్ ఇన్ ది హాట్
+    tr: Şapkadaki Kedi
+    tt: Калпаклы мәче
+    uk: Кіт у капелюсі
+    ur: دی کیٹ ان دی ہیٹ
+    uz: The Cat in the Hat
+    vi: Chàng Mèo Mang Mũ
+    wuu: 帽子里个猫
+    yi: די קאץ דער פאיאץ
+    yue: 反斗靈貓
+    zh: 魔法靈貓
+    zh-cn: 戴帽子的猫
+    zh-hans: 戴帽子的猫
+    zh-hant: 戴帽子的貓
 ---
-
 # [[Cat_in_the_Hat]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~The_Cat_in_the_Hat,973053|WD~The_Cat_in_the_Hat,973053]]  

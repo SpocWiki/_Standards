@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Poduromorpha
+- Poduromorfe
+- Poduromorpha
+- Łeʼesoołii bijáád ádaałtsʼíísí
+- كهدليات
+- پادمریختان
+- 原䖴目
+- 톡토기목
 title: Poduromorpha
+has_id_wikidata: Q1935420
+dv_has_:
+  name_:
+    an: Poduromorpha
+    ar: كهدليات
+    arz: كهدليات
+    ast: Poduromorpha
+    bg: Poduromorpha
+    ca: Poduromorpha
+    ceb: Poduromorpha
+    de: Poduromorpha
+    en: Poduromorpha
+    eo: Poduromorpha
+    es: Poduromorpha
+    eu: Poduromorpha
+    ext: Poduromorpha
+    fa: پادمریختان
+    fi: Poduromorpha
+    fr: Poduromorpha
+    ga: Poduromorpha
+    gl: Poduromorpha
+    ia: Poduromorpha
+    ie: Poduromorpha
+    io: Poduromorpha
+    it: Poduromorpha
+    ko: 톡토기목
+    la: Poduromorpha
+    mul: Poduromorpha
+    nl: Poduromorpha
+    nv: Łeʼesoołii bijáád ádaałtsʼíísí
+    oc: Poduromorpha
+    pl: Poduromorpha
+    pt: Poduromorpha
+    pt-br: Poduromorpha
+    ro: Poduromorfe
+    ru: Poduromorpha
+    sq: Poduromorpha
+    uk: Poduromorpha
+    vi: Poduromorpha
+    vo: Poduromorpha
+    war: Poduromorpha
+    zh: 原䖴目
+    zh-cn: 原䖴目
+    zh-hans: 原䖴目
 ---
-
 # [[Poduromorpha]] 
 
 ![Podura aquatica](Poduromorpha/Podura_aquatica.jpg)  ![Anurida granaria](Poduromorpha/Anurida_granaria.jpg) 

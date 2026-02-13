@@ -1,18 +1,73 @@
 ---
 aliases:
+- diffusion de Mie
+- diffusion del Mie
+- difusió de Mie
+- difusión de Mie
+- dispersão de Mie
+- Mi sklaida
+- Mie hajumine
+- Mie saçılma
+- Mie scattering
+- Mie-disĵeto
+- Mie-dreifing
+- Mie-spredning
+- Mie-Streuung
+- Miejevo sipanje
+- rozwiązania Mie
+- scattering Mie
+- σκέδαση Μι
+- рассеивание света сферической частицей
+- розсіювання світла сферичною частинкою
+- פיזור מי
+- تبعثر مي
+- การกระเจิงแบบมี
+- ミー散乱
+- 米氏散射
+- 미 산란
 has_id_wikidata: Q901737
-named_after: "[[_Standards/WikiData/WD~Gustav_Mie,67020]]"
-subclass_of: "[[_Standards/WikiData/WD~scattering,210028]]"
-studied_by: "[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375]]"
-different_from: "[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375]]"
+named_after: '[[_Standards/WikiData/WD~Gustav_Mie,67020]]'
+subclass_of: '[[_Standards/WikiData/WD~scattering,210028]]'
+studied_by: '[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375]]'
+different_from: '[[_Standards/WikiData/WD~Lorenz_Mie_theory,56297375]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "MieScattering"]
 Commons_category: Mie scattering
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Miewik.svg
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mie%20resonances%20vs%20Radius.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D7%A4%D7%99%D7%96%D7%95%D7%A8%20%D7%9E%D7%99%20%D7%A1%D7%A8%D7%98%D7%95%D7%9F.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mie%20resonances%20vs%20Radius.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D7%A4%D7%99%D7%96%D7%95%D7%A8%20%D7%9E%D7%99%20%D7%A1%D7%A8%D7%98%D7%95%D7%9F.webm
+dv_has_:
+  name_:
+    ar: تبعثر مي
+    ca: difusió de Mie
+    da: Mie-spredning
+    de: Mie-Streuung
+    el: σκέδαση Μι
+    en: Mie scattering
+    eo: Mie-disĵeto
+    es: difusión de Mie
+    et: Mie hajumine
+    fr: diffusion de Mie
+    he: פיזור מי
+    is: Mie-dreifing
+    it: scattering Mie
+    ja: ミー散乱
+    ko: 미 산란
+    lmo: diffusion del Mie
+    lt: Mi sklaida
+    nb: Mie-spredning
+    pl: rozwiązania Mie
+    pt: dispersão de Mie
+    ru: рассеивание света сферической частицей
+    sl: Miejevo sipanje
+    th: การกระเจิงแบบมี
+    tr: Mie saçılma
+    uk: розсіювання світла сферичною частинкою
+    zh: 米氏散射
+    zh-hans: 米氏散射
+    zh-hant: 米氏散射
+    zh-hk: 米氏散射
 ---
-
 # [[Mie_Scattering]] 
 
 #is_/similar_to :: [[Raman_Scattering]] 

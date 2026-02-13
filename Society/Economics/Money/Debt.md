@@ -1,15 +1,96 @@
 ---
 aliases:
-  - Schulden
-  - Schuld
-  - Debt
+- adósság
+- Aes alienum
+- Axɔ́
+- Borc
+- Borxhi
+- borç
+- Borçlar
+- bàlnà
+- Chè-bū
+- datorie
+- Debit
+- debito
+- Debo
+- Debt
+- delda
+- Detta
+- dette
+- deuda
+- deute
+- Deyndar
+- Dle
+- Dlh
+- dluh
+- dolg
+- Dug
+- Dyled
+- dèbito
+- Dèt
+- débeda
+- débito
+- dług
+- fiach
+- gjeld
+- gæld
+- hutang
+- King Utang Ku Keka
+- Nyongo
+- nợ
+- parāds
+- Qaan
+- Schold
+- Schuld
+- Schulden
+- skola
+- skuld
+- Skuola
+- ta
+- Thiirĩ
+- Utang
+- vealgi
+- velgi
+- velka
+- veäʹlǧǧ
+- võlg
+- Zor (argipena)
+- ŝuldo
+- χρέος
+- борг
+- Борыш
+- бурыч
+- доўг
+- долг
+- дуг
+- дълг
+- Қарз
+- Պարտք
+- חוב
+- دَين
+- قرض
+- قەرز
+- ܝܙܦܬܐ
+- ऋण
+- ऋणम्
+- कर्ज
+- ਰਿਣ
+- கடன்
+- డెట్
+- ಋಣಭಾರ
+- หนี้สิน
+- ᠪᡝᡴᡩᡠᠨ
+- 债务
+- 債
+- 債務
+- 채무
 has_id_wikidata: Q3196867
 different_from: '[[_Standards/WikiData/WD~Debt,158033]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~debt_relief,651936]]'
 subclass_of: '[[_Standards/WikiData/WD~obligation,2648051]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~debit,5248104]]'
@@ -20,8 +101,109 @@ part_of: '[[_Standards/WikiData/WD~economics,8134]]'
 Commons_category: Debt
 U_S_National_Archives_Identifier: 10639684
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1979%20%2410%2C000%20Treasury%20Bond%20.jpg
+dv_has_:
+  name_:
+    ar: دَين
+    arc: ܝܙܦܬܐ
+    ast: delda
+    az: Borc
+    be-tarask: доўг
+    bg: дълг
+    br: Dle
+    bs: Dug
+    ca: deute
+    ceb: Utang
+    ckb: قەرز
+    cs: dluh
+    cy: Dyled
+    da: gæld
+    de: Schulden
+    diq: Deyndar
+    el: χρέος
+    en: debt
+    eo: ŝuldo
+    es: deuda
+    et: võlg
+    eu: Zor (argipena)
+    fa: قرض
+    fi: velka
+    fon: Axɔ́
+    fr: dette
+    ga: fiach
+    gag: Borçlar
+    gl: débeda
+    he: חוב
+    hi: ऋण
+    hr: dug
+    ht: Dèt
+    hu: adósság
+    hy: Պարտք
+    id: Utang
+    io: Debo
+    it: debito
+    ja: 債務
+    jv: Utang
+    kcg: ta
+    ki: Thiirĩ
+    kk: Борыш
+    kn: ಋಣಭಾರ
+    ko: 채무
+    la: Aes alienum
+    lb: Schold
+    lmo: Debit
+    ln: Nyongo
+    lt: skola
+    lv: parāds
+    mcn: bàlnà
+    mk: Долг
+    mnc: ᠪᡝᡴᡩᡠᠨ
+    mr: कर्ज
+    ms: hutang
+    nan: Chè-bū
+    nb: gjeld
+    nl: schuld
+    nn: gjeld
+    oc: Deute
+    pa: ਰਿਣ
+    pam: King Utang Ku Keka
+    pl: dług
+    pt: débito
+    pt-br: débito
+    ro: datorie
+    ru: долг
+    sa: ऋणम्
+    scn: Detta
+    sd: قرض
+    se: vealgi
+    sgs: Skuola
+    sh: Dug
+    sk: Dlh
+    sl: dolg
+    smn: velgi
+    sms: veäʹlǧǧ
+    so: Qaan
+    sq: Borxhi
+    sr: дуг
+    sv: skuld
+    ta: கடன்
+    te: డెట్
+    tg: Қарз
+    th: หนี้สิน
+    tl: Utang
+    tr: borç
+    tt: бурыч
+    uk: борг
+    ur: قرض
+    vec: dèbito
+    vi: nợ
+    war: Utang
+    wuu: 债务
+    yue: 債
+    zh: 债务
+    zh-hans: 债务
+    zh-hant: 債務
+    zh-hk: 債務
 ---
-
 # [[Debt]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Debt,3196867|WD~Debt,3196867]] 

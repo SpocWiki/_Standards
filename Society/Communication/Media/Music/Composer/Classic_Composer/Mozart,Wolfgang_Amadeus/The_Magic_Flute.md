@@ -1,46 +1,93 @@
 ---
-has_time_started: 1791-01-01 
+has_time_started: 1791-01-01
 aliases:
-  - The_Magic_Flute
-  - Die Zauberflöte
-  - The Magic Flute
+- A flauta machica
+- A Flauta Mágica
+- A frauta máxica
+- A varázsfuvola
+- Burvju flauta
+- Czarodziejski flet
+- Die Zauberflöte
+- Flautul fermecat
+- Il flauto magico
+- Il-Flawt Maġiku
+- Kouzelná flétna
+- La flauta màgica
+- La flauta mágica
+- La flauta máxica
+- La Flûte enchantée
+- Li flûte andoûleuse
+- Opera “Flauti Magjik”
+- Sehirli fleyta
+- Seruling Ajaib
+- Seruling Sihir
+- Sihirli Flüt
+- Taikahuilu
+- The Magic Flute
+- The_Magic_Flute
+- Trollflöjten
+- Tryllefløjten
+- Tryllefløyta
+- Tryllefløyten
+- Võluflööt
+- Y Ffliwt Hud
+- Čarobna frula
+- Čarobna piščal
+- Čarovná flauta
+- Ο Μαγικός Αυλός
+- Волшебната флејта
+- Волшебная флейта
+- Вълшебната флейта
+- Чарівна флейта
+- Чароўная флейта
+- Чаробна фрула
+- Կախարդական սրինգ
+- חליל הקסם
+- الناى السحرى
+- الناي السحري
+- فلوت سحرآمیز
+- ขลุ่ยวิเศษ
+- မှော်ပုလွေ
+- ჯადოსნური ფლეიტა
+- 魔笛
+- 마술피리
 has_id_wikidata: Q5064
 lyricist: '[[_Standards/WikiData/WD~Emanuel_Schikaneder,213547]]'
 librettist: '[[_Standards/WikiData/WD~Emanuel_Schikaneder,213547]]'
 genre:
-  - '[[_Standards/WikiData/WD~singspiel,377258]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~singspiel,377258]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
 location_of_first_performance: '[[_Standards/WikiData/WD~Theater_auf_der_Wieden,673479]]'
 country_of_origin: '[[_Standards/WikiData/WD~Archduchy_of_Austria,699964]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Der_Hölle_Rache_kocht_in_meinem_Herzen,1194515]]'
-  - '[[_Standards/WikiData/WD~Der_Vogelfänger_bin_ich_ja,3023536]]'
-  - '[[_Standards/WikiData/WD~Dies_Bildnis_ist_bezaubernd_schön,3027514]]'
-  - '[[_Standards/WikiData/WD~O_zittre_nicht,_mein_lieber_Sohn,3347827]]'
-  - "[[_Standards/WikiData/WD~In_diesen_heil'gen_Hallen,50321655]]"
+- '[[_Standards/WikiData/WD~Der_Hölle_Rache_kocht_in_meinem_Herzen,1194515]]'
+- '[[_Standards/WikiData/WD~Der_Vogelfänger_bin_ich_ja,3023536]]'
+- '[[_Standards/WikiData/WD~Dies_Bildnis_ist_bezaubernd_schön,3027514]]'
+- '[[_Standards/WikiData/WD~O_zittre_nicht,_mein_lieber_Sohn,3347827]]'
+- "[[_Standards/WikiData/WD~In_diesen_heil'gen_Hallen,50321655]]"
 followed_by: '[[_Standards/WikiData/WD~The_Magic_Flute_Part_Two,1198170]]'
 part_of_the_series: '[[_Standards/WikiData/WD~list_of_operas_by_Wolfgang_Amadeus_Mozart,1922620]]'
 characters:
-  - '[[_Standards/WikiData/WD~Papageno,2455222]]'
-  - '[[_Standards/WikiData/WD~Pamina,9054901]]'
-  - '[[_Standards/WikiData/WD~Sarastro,9074573]]'
-  - '[[_Standards/WikiData/WD~The_Queen_of_the_Night,11687745]]'
-  - '[[_Standards/WikiData/WD~Tamino,11704223]]'
-  - '[[_Standards/WikiData/WD~Papagena,50804851]]'
-  - '[[_Standards/WikiData/WD~Monostatos,53700428]]'
-  - '[[_Standards/WikiData/WD~Two_armoured_men,54997339]]'
-  - '[[_Standards/WikiData/WD~Three_slaves,54997344]]'
-  - '[[_Standards/WikiData/WD~Speaker_of_the_temple,55010092]]'
-  - '[[_Standards/WikiData/WD~First_priest,55010099]]'
-  - '[[_Standards/WikiData/WD~Second_priest,55010102]]'
-  - '[[_Standards/WikiData/WD~Third_priest,55010106]]'
-  - '[[_Standards/WikiData/WD~Lady_1,55010116]]'
-  - '[[_Standards/WikiData/WD~Lady_3,55010123]]'
-  - '[[_Standards/WikiData/WD~Lady_2,55010120]]'
-  - '[[_Standards/WikiData/WD~First_child_spirit,55010126]]'
-  - '[[_Standards/WikiData/WD~Second_child_spirit,55010132]]'
-  - '[[_Standards/WikiData/WD~Third_child_spirit,55010136]]'
-  - '[[_Standards/WikiData/WD~Priests,_women,_people,_slaves,63677471]]'
+- '[[_Standards/WikiData/WD~Papageno,2455222]]'
+- '[[_Standards/WikiData/WD~Pamina,9054901]]'
+- '[[_Standards/WikiData/WD~Sarastro,9074573]]'
+- '[[_Standards/WikiData/WD~The_Queen_of_the_Night,11687745]]'
+- '[[_Standards/WikiData/WD~Tamino,11704223]]'
+- '[[_Standards/WikiData/WD~Papagena,50804851]]'
+- '[[_Standards/WikiData/WD~Monostatos,53700428]]'
+- '[[_Standards/WikiData/WD~Two_armoured_men,54997339]]'
+- '[[_Standards/WikiData/WD~Three_slaves,54997344]]'
+- '[[_Standards/WikiData/WD~Speaker_of_the_temple,55010092]]'
+- '[[_Standards/WikiData/WD~First_priest,55010099]]'
+- '[[_Standards/WikiData/WD~Second_priest,55010102]]'
+- '[[_Standards/WikiData/WD~Third_priest,55010106]]'
+- '[[_Standards/WikiData/WD~Lady_1,55010116]]'
+- '[[_Standards/WikiData/WD~Lady_3,55010123]]'
+- '[[_Standards/WikiData/WD~Lady_2,55010120]]'
+- '[[_Standards/WikiData/WD~First_child_spirit,55010126]]'
+- '[[_Standards/WikiData/WD~Second_child_spirit,55010132]]'
+- '[[_Standards/WikiData/WD~Third_child_spirit,55010136]]'
+- '[[_Standards/WikiData/WD~Priests,_women,_people,_slaves,63677471]]'
 discography: '[[_Standards/WikiData/WD~The_Magic_Flute_discography,6103799]]'
 based_on: '[[_Standards/WikiData/WD~libretto_of_The_Magic_Flute,24965474]]'
 instance_of: '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
@@ -60,8 +107,78 @@ Commons_category: Die Zauberflöte
 date_of_first_performance: 1791-09-30T00:00:00Z
 production_date: 1791-01-01T00:00:00Z
 inception: 1791-01-01T00:00:00Z
+dv_has_:
+  name_:
+    an: A flauta machica
+    ar: الناي السحري
+    arz: الناى السحرى
+    ast: La flauta máxica
+    az: Sehirli fleyta
+    be: Чароўная флейта
+    be-tarask: Чароўная флейта
+    bg: Вълшебната флейта
+    br: Die Zauberflöte
+    ca: La flauta màgica
+    cs: Kouzelná flétna
+    cy: Y Ffliwt Hud
+    da: Tryllefløjten
+    de: Die Zauberflöte
+    el: Ο Μαγικός Αυλός
+    en: The Magic Flute
+    en-ca: The Magic Flute
+    en-gb: The Magic Flute
+    eo: Die Zauberflöte
+    es: La flauta mágica
+    et: Võluflööt
+    eu: Die Zauberflöte
+    fa: فلوت سحرآمیز
+    fi: Taikahuilu
+    fr: La Flûte enchantée
+    gl: A frauta máxica
+    he: חליל הקסם
+    hr: Čarobna frula
+    hu: A varázsfuvola
+    hy: Կախարդական սրինգ
+    hyw: Կախարդական սրինգ
+    id: Seruling Sihir
+    it: Il flauto magico
+    ja: 魔笛
+    ka: ჯადოსნური ფლეიტა
+    ko: 마술피리
+    ku: Die Zauberflöte
+    la: Die Zauberflöte
+    lv: Burvju flauta
+    mk: Волшебната флејта
+    ms: Seruling Ajaib
+    mt: Il-Flawt Maġiku
+    my: မှော်ပုလွေ
+    nb: Tryllefløyten
+    nl: Die Zauberflöte
+    nn: Tryllefløyta
+    pl: Czarodziejski flet
+    pt: Die Zauberflöte
+    pt-br: A Flauta Mágica
+    ro: Flautul fermecat
+    ru: Волшебная флейта
+    sco: The Magic Flute
+    sh: Čarobna frula
+    sk: Čarovná flauta
+    sl: Čarobna piščal
+    sq: Opera “Flauti Magjik”
+    sr: Чаробна фрула
+    sv: Trollflöjten
+    th: ขลุ่ยวิเศษ
+    tr: Sihirli Flüt
+    uk: Чарівна флейта
+    vi: Die Zauberflöte
+    wa: Li flûte andoûleuse
+    war: The Magic Flute
+    wuu: 魔笛
+    yue: 魔笛
+    zh: 魔笛
+    zh-hant: 魔笛
+    zh-tw: 魔笛
 ---
-
 # [[The_Magic_Flute]] 
 
 #is_/same_as :: [[WD~The_Magic_Flute,5064]] 

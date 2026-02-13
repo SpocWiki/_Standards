@@ -1,42 +1,66 @@
 ---
 aliases:
-  - Luchino_Visconti
-  - Luchino Visconti di Modrone, Count of Lonate Pozzolo
-  - Luchino Visconti di Modrone
-  - Luchino Visconti
-  - Visconti
+- Luchino Visconti
+- Luchino Visconti di Modrone
+- Luchino Visconti di Modrone, Count of Lonate Pozzolo
+- Luchino_Visconti
+- Luchinu Visconti
+- Luchinus Visconti
+- Lukinas Viskontis
+- Lukino Viskonti
+- Lukīno Viskonti
+- Visconti
+- Λουκίνο Βισκόντι
+- Висконти Лукино
+- Лукіна Вісконці
+- Лукіно Вісконті
+- Лукино Висконти
+- Люкіна Вісконці
+- Լուկինո Վիսկոնտի
+- לוקינו ויסקונטי
+- لوتشينو فيسكونتي
+- لوكينو ڤيسكونتی
+- لوکینو ویسکونتی
+- লুকিনো ভিস্কন্তি
+- ลูกีโน วิสกอนตี
+- ლუკინო ვისკონტი
+- ルキノ・ヴィスコンティ
+- 卢奇诺·维斯孔蒂
+- 卢契诺·维斯康堤
+- 盧契諾・維斯康堤
+- 루키노 비스콘티
 has_id_wikidata: Q13888
 unmarried_partner: '[[_Standards/WikiData/WD~Helmut_Berger,78561]]'
 genre: '[[_Standards/WikiData/WD~Italian_neorealism,167776]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 different_from: '[[_Standards/WikiData/WD~Luchino_Visconti,195825]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Rocco_and_His_Brothers,427186]]'
-  - '[[_Standards/WikiData/WD~Ossessione,547226]]'
-  - '[[_Standards/WikiData/WD~The_Leopard,596623]]'
-  - '[[_Standards/WikiData/WD~The_Damned,637849]]'
-  - '[[_Standards/WikiData/WD~Senso,649600]]'
-  - '[[_Standards/WikiData/WD~Ludwig,700765]]'
-  - '[[_Standards/WikiData/WD~Death_in_Venice,742308]]'
-  - '[[_Standards/WikiData/WD~The_Innocent,1217069]]'
+- '[[_Standards/WikiData/WD~Rocco_and_His_Brothers,427186]]'
+- '[[_Standards/WikiData/WD~Ossessione,547226]]'
+- '[[_Standards/WikiData/WD~The_Leopard,596623]]'
+- '[[_Standards/WikiData/WD~The_Damned,637849]]'
+- '[[_Standards/WikiData/WD~Senso,649600]]'
+- '[[_Standards/WikiData/WD~Ludwig,700765]]'
+- '[[_Standards/WikiData/WD~Death_in_Venice,742308]]'
+- '[[_Standards/WikiData/WD~The_Innocent,1217069]]'
 occupation:
-  - '[[_Standards/WikiData/WD~author,482980]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~theatre_designer,11613590]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~theatre_designer,11613590]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_the_director_of_the_best_film,1061238]]"
-  - '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]'
+- "[[_Standards/WikiData/WD~Nastro_d'Argento_for_the_director_of_the_best_film,1061238]]"
+- '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]'
 father: '[[_Standards/WikiData/WD~Giuseppe_Visconti_di_Modrone,_1st_Duke_of_Grazzano_Visconti,1989649]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 noble_title: '[[_Standards/WikiData/WD~count,3519259]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -71,8 +95,93 @@ name_in_native_language: Luchino Visconti
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Scudo%20della%20famiglia%20Visconti%20di%20Modrone.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Luchino%20Visconti%201972b.jpg
 ISNI: 0000000121318788
+dv_has_:
+  name_:
+    an: Luchino Visconti
+    ar: لوتشينو فيسكونتي
+    arz: لوكينو ڤيسكونتی
+    ast: Luchino Visconti
+    az: Lukino Viskonti
+    be: Лукіна Вісконці
+    be-tarask: Люкіна Вісконці
+    bg: Лукино Висконти
+    bn: লুকিনো ভিস্কন্তি
+    br: Luchino Visconti
+    bs: Luchino Visconti
+    ca: Luchino Visconti
+    cs: Luchino Visconti
+    da: Luchino Visconti
+    de: Luchino Visconti
+    ee: Luchino Visconti
+    el: Λουκίνο Βισκόντι
+    en: Luchino Visconti
+    eo: Luchino Visconti
+    es: Luchino Visconti
+    eu: Luchino Visconti
+    fa: لوکینو ویسکونتی
+    fi: Luchino Visconti
+    fr: Luchino Visconti
+    ga: Luchino Visconti
+    gl: Luchino Visconti
+    he: לוקינו ויסקונטי
+    hr: Luchino Visconti
+    ht: Luchino Visconti
+    hu: Luchino Visconti
+    hy: Լուկինո Վիսկոնտի
+    id: Luchino Visconti
+    io: Luchino Visconti
+    is: Luchino Visconti
+    it: Luchino Visconti
+    ja: ルキノ・ヴィスコンティ
+    ka: ლუკინო ვისკონტი
+    kk: Висконти Лукино
+    kl: Luchino Visconti
+    ko: 루키노 비스콘티
+    ky: Висконти Лукино
+    la: Luchinus Visconti
+    lb: Luchino Visconti
+    lt: Lukinas Viskontis
+    lv: Lukīno Viskonti
+    mg: Luchino Visconti
+    mk: Лукино Висконти
+    mul: Luchino Visconti
+    nb: Luchino Visconti
+    nl: Luchino Visconti
+    nn: Luchino Visconti
+    oc: Luchino Visconti
+    pap: Luchino Visconti
+    pl: Luchino Visconti
+    pt: Luchino Visconti
+    pt-br: Luchino Visconti
+    qu: Luchino Visconti
+    ro: Luchino Visconti
+    ru: Лукино Висконти
+    rue: Лукино Висконти
+    sc: Luchino Visconti
+    scn: Luchinu Visconti
+    sco: Luchino Visconti
+    sh: Luchino Visconti
+    sk: Luchino Visconti
+    sl: Luchino Visconti
+    sq: Luchino Visconti
+    sr: Лукино Висконти
+    sr-ec: Лукино Висконти
+    sv: Luchino Visconti
+    tg: Лукино Висконти
+    th: ลูกีโน วิสกอนตี
+    tl: Luchino Visconti
+    tr: Luchino Visconti
+    uk: Лукіно Вісконті
+    vec: Luchino Visconti
+    vi: Luchino Visconti
+    war: Luchino Visconti
+    wuu: 卢奇诺·维斯孔蒂
+    yue: 盧契諾・維斯康堤
+    zh: 卢奇诺·维斯孔蒂
+    zh-hant: 盧契諾・維斯康堤
+    zh-my: 卢契诺·维斯康堤
+    zh-sg: 卢契诺·维斯康堤
 ---
-
 # [[Luchino_Visconti]] 
 
 #is_/same_as :: [[WD~Luchino_Visconti,13888]] 

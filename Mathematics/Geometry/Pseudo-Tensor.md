@@ -1,4 +1,34 @@
-
+---
+has_id_wikidata: Q2115796
+dv_has_:
+  name_:
+    ca: pseudotensor
+    de: Pseudotensordichte
+    en: pseudotensor
+    eo: pseŭdotensoro
+    es: seudotensor
+    fr: pseudotenseur
+    it: pseudotensore
+    ja: 擬テンソル
+    pa: ਸੂਡੋਟੈਂਸਰ
+    ro: pseudotensor
+    ru: Псевдотензор
+    sv: pseudotensor
+    uk: Псевдотензор
+    zh: 贗張量
+    zh-hant: 贗張量
+aliases:
+- pseudotenseur
+- pseudotensor
+- Pseudotensordichte
+- pseudotensore
+- pseŭdotensoro
+- seudotensor
+- Псевдотензор
+- ਸੂਡੋਟੈਂਸਰ
+- 擬テンソル
+- 贗張量
+---
 # [[Pseudo-Tensor]] 
 
 

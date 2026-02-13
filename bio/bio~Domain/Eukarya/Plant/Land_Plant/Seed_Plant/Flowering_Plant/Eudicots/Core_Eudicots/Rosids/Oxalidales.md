@@ -1,9 +1,115 @@
 ---
 aliases:
-  - Oxalidales
+- Bộ Chua me đất
+- Ceceljolike
+- gjøkesyreordenen
+- Harsyreordningen
+- Jänesekapsalaadsed
+- Koma tirşengan
+- kysličkotvaré
+- madársóska-virágúak
+- Oksalidaloj
+- Oxalidales
+- Oxalidals
+- Sauerkleeartige
+- Surkløver-ordenen
+- Szczawikowce
+- Sürkliawer
+- Turşəngçiçəklilər
+- Zaķskābeņu rinda
+- šťavelotvaré
+- Οξαλιδώδη
+- Квасеницецвіті
+- Киселицовидни
+- Кисличноцветные
+- թթվառվույտածաղկավորներ
+- חמציצאים
+- حماضيات
+- شبدرترشکسانان
+- ओक्सालिडालेस
+- ഓക്സാലിഡേൽസ്
+- อันดับกระทืบยอด
+- カタバミ目
+- 酢浆草目
+- 괭이밥목
 title: Oxalidales
+has_id_wikidata: Q21891
+dv_has_:
+  name_:
+    an: Oxalidales
+    ar: حماضيات
+    arz: حماضيات
+    ast: Oxalidales
+    az: Turşəngçiçəklilər
+    bcl: Oxalidales
+    be-tarask: Oxalidales
+    bg: Oxalidales
+    bs: Oxalidales
+    ca: Oxalidals
+    ceb: Oxalidales
+    co: Oxalidales
+    cs: šťavelotvaré
+    da: Surkløver-ordenen
+    de: Sauerkleeartige
+    el: Οξαλιδώδη
+    en: Oxalidales
+    en-ca: Oxalidales
+    en-gb: Oxalidales
+    eo: Oksalidaloj
+    es: Oxalidales
+    et: Jänesekapsalaadsed
+    eu: Oxalidales
+    ext: Oxalidales
+    fa: شبدرترشکسانان
+    fi: Oxalidales
+    fr: Oxalidales
+    frr: Sürkliawer
+    ga: Oxalidales
+    gl: Oxalidales
+    he: חמציצאים
+    hi: ओक्सालिडालेस
+    hr: Ceceljolike
+    hu: madársóska-virágúak
+    hy: թթվառվույտածաղկավորներ
+    ia: Oxalidales
+    id: Oxalidales
+    ie: Oxalidales
+    io: Oxalidales
+    is: Oxalidales
+    it: Oxalidales
+    ja: カタバミ目
+    jv: Oxalidales
+    ko: 괭이밥목
+    ku: Koma tirşengan
+    la: Oxalidales
+    lv: Zaķskābeņu rinda
+    mk: Киселицовидни
+    ml: ഓക്സാലിഡേൽസ്
+    mul: Oxalidales
+    nb: gjøkesyreordenen
+    nl: Oxalidales
+    oc: Oxalidales
+    pl: Szczawikowce
+    pt: Oxalidales
+    pt-br: Oxalidales
+    ro: Oxalidales
+    ru: Кисличноцветные
+    sco: Oxalidales
+    sk: kysličkotvaré
+    sq: Oxalidales
+    sv: Harsyreordningen
+    th: อันดับกระทืบยอด
+    tr: Oxalidales
+    uk: Квасеницецвіті
+    vi: Bộ Chua me đất
+    vo: Oxalidales
+    war: Oxalidales
+    zh: 酢浆草目
+    zh-cn: 酢浆草目
+    zh-hans: 酢浆草目
+    zh-hant: 酢浆草目
+    zh-tw: 酢浆草目
 ---
-
 # [[Oxalidales]] 
 ![Albany pitcher plant, Cephalotus follicularis](Oxalidales/Cephalotus_follicularis.jpg)) ![Flower of the lantern tree, Crinodendron hookeranum](Oxalidales/Crinodendron_hookeranum.jpg) 
 

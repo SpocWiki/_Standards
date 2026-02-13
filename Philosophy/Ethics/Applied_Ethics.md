@@ -1,15 +1,109 @@
 ---
 aliases:
-  - Applied_Ethics
-  - Applied Ethics
+- angewandte Ethik
+- aplikata etiko
+- aplikovaná etika
+- Applied Ethics
+- Applied_Ethics
+- Ethica adhibita
+- etica applicata
+- etică aplicată
+- Etika aplikatua
+- etika gunaan
+- Etika terapan
+- gamäli étika
+- Hagnýtt siðfræði
+- heiveheaddji etihkka
+- heiviittum eetiik
+- moeseg gymhwysol
+- primenjena etika
+- rakenduseetika
+- soveltava etiikka
+- suåvldeei etikk
+- taikomoji etika
+- tillämpad etik
+- toegepaste ethiek
+- uporabna etika
+- uygulamalı etik
+- ètica aplicada
+- éthique appliquée
+- Ética aplicada
+- Ética aplicà
+- εφαρμοσμένη ηθική
+- гамәли этика
+- практычная этыка
+- прикладна етика
+- прикладная этика
+- Приложна етика
+- примењена етика
+- прыкладная этыка
+- Ғәмәли этика
+- אתיקה יישומית
+- أخلاق تطبيقية
+- اخلاق کاربردی
+- अनुप्रयुक्त नीतिशास्त्र
+- ফলিত নীতিশাস্ত্র
+- 応用倫理学
+- 應用倫理學
+- 응용윤리학
 has_id_wikidata: Q538733
-instance_of: "[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]"
-part_of: "[[_Standards/WikiData/WD~ethics,9465]]"
-subclass_of: "[[_Standards/WikiData/WD~ethics,9465]]"
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+part_of: '[[_Standards/WikiData/WD~ethics,9465]]'
+subclass_of: '[[_Standards/WikiData/WD~ethics,9465]]'
 Library_of_Congress_Classification: BJ1545-BJ1691
 Commons_category: Applied ethics
+dv_has_:
+  name_:
+    ar: أخلاق تطبيقية
+    ast: Ética aplicada
+    ba: Ғәмәли этика
+    be: прыкладная этыка
+    be-tarask: практычная этыка
+    bg: Приложна етика
+    bn: ফলিত নীতিশাস্ত্র
+    bs: primenjena etika
+    ca: ètica aplicada
+    cs: aplikovaná etika
+    cy: moeseg gymhwysol
+    de: angewandte Ethik
+    el: εφαρμοσμένη ηθική
+    en: applied ethics
+    eo: aplikata etiko
+    es: ética aplicada
+    et: rakenduseetika
+    eu: Etika aplikatua
+    fa: اخلاق کاربردی
+    fi: soveltava etiikka
+    fr: éthique appliquée
+    gl: ética aplicada
+    he: אתיקה יישומית
+    hi: अनुप्रयुक्त नीतिशास्त्र
+    hr: primenjena etika
+    id: Etika terapan
+    is: Hagnýtt siðfræði
+    it: etica applicata
+    ja: 応用倫理学
+    ko: 응용윤리학
+    la: Ethica adhibita
+    lt: taikomoji etika
+    ms: etika gunaan
+    nl: toegepaste ethiek
+    pms: Ética aplicà
+    pt: ética aplicada
+    ro: etică aplicată
+    ru: прикладная этика
+    se: heiveheaddji etihkka
+    sl: uporabna etika
+    smn: heiviittum eetiik
+    sms: suåvldeei etikk
+    sr: примењена етика
+    sv: tillämpad etik
+    tr: uygulamalı etik
+    tt: гамәли этика
+    tt-latn: gamäli étika
+    uk: прикладна етика
+    zh: 應用倫理學
 ---
-
 # [[Applied_Ethics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Applied_ethics,538733|WD~Applied_ethics,538733]] 

@@ -1,42 +1,152 @@
 ---
 aliases:
-  - Moai
-  - moyai
-  - mo'ai
-  - Easter Island heads
-  - moʻai
+- Easter Island heads
+- mo'ai
+- Moai
+- Moaid
+- moaï
+- moyai
+- moái
+- moʻai
+- Mo‘ai
+- Μοάι
+- Мааі
+- Моаї
+- Моаи
+- Моаи хүн чулуу
+- Մոաի
+- מואי
+- موآئی
+- موآی
+- موئای
+- موائی
+- مواي
+- موای
+- मोअई
+- মোয়াই
+- মোৱাই
+- மோவாய்
+- โมไอ
+- მოაი
+- モアイ
+- 復活節島石像
+- 摩艾石像
+- 모아이
 has_id_wikidata: Q20350
-instance_of: "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~pukao,980422]]"
-subclass_of: "[[_Standards/WikiData/WD~colossal_statue,1779653]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Isla_de_Pascua,9009773]]"
-country: "[[_Standards/WikiData/WD~Chile,298]]"
-Unicode_character: 🗿
+instance_of: '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~pukao,980422]]'
+subclass_of: '[[_Standards/WikiData/WD~colossal_statue,1779653]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Isla_de_Pascua,9009773]]'
+country: '[[_Standards/WikiData/WD~Chile,298]]'
+Unicode_character: "\U0001F5FF"
 Commons_gallery: Isla de Pascua
 Commons_category: Moai
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Moai.stl
 dv_is_:
   same_as:
-    - "[[WD~Moai,20350]]"
-    - "[[/_Standards/Earth/Geography/Place/Moai|Moai]]"
-    - "[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]"
-    - "[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]]"
-    - "[[/_private/Earth/Geography/Place/Moai.private|Moai.private]]"
-    - "[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]"
+  - '[[WD~Moai,20350]]'
+  - '[[/_Standards/Earth/Geography/Place/Moai|Moai]]'
+  - '[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]'
+  - '[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]]'
+  - '[[/_private/Earth/Geography/Place/Moai.private|Moai.private]]'
+  - '[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]'
 dv_is_same_as:
-  - "[[WD~Moai,20350]]"
-  - "[[/_Standards/Earth/Geography/Place/Moai|Moai]]"
-  - "[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]"
-  - "[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]]"
-  - "[[/_private/Earth/Geography/Place/Moai.private|Moai.private]]"
-  - "[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]"
+- '[[WD~Moai,20350]]'
+- '[[/_Standards/Earth/Geography/Place/Moai|Moai]]'
+- '[[/_public/Earth/Geography/Place/Moai.public|Moai.public]]'
+- '[[/_internal/Earth/Geography/Place/Moai.internal|Moai.internal]]'
+- '[[/_protect/Earth/Geography/Place/Moai.protect|Moai.protect]]'
+- '[[/_private/Earth/Geography/Place/Moai.private|Moai.private]]'
+- '[[/_personal/Earth/Geography/Place/Moai.personal|Moai.personal]]'
+- '[[/_secret/Earth/Geography/Place/Moai.secret|Moai.secret]]'
+dv_has_:
+  name_:
+    af: Moai
+    ar: مواي
+    as: মোৱাই
+    ast: Moái
+    az: Moai
+    bar: Moai
+    bcl: Moai
+    be: Мааі
+    bg: Моаи
+    bi: Moai
+    bn: মোয়াই
+    ca: Moai
+    ckb: موای
+    cs: moai
+    da: Moai
+    de: Moai
+    el: Μοάι
+    en: moai
+    en-ca: Moai
+    en-gb: moai
+    eo: Moai
+    es: moái
+    et: Moaid
+    eu: Moai
+    fa: موآی
+    fi: Moai
+    fr: moaï
+    gl: Moai
+    haw: Mo‘ai
+    he: מואי
+    hr: Moai
+    hu: Moai
+    hy: Մոաի
+    ia: Moai
+    id: moai
+    io: Moai
+    it: Moai
+    ja: モアイ
+    jv: Moai
+    ka: მოაი
+    kk: Моаи
+    ko: 모아이
+    la: Moai
+    lt: Moai
+    lv: moai
+    mk: Моаи
+    mn: Моаи хүн чулуу
+    mr: मोअई
+    ms: Moai
+    mwl: Moai
+    mzn: موئای
+    nb: moai
+    nl: moai
+    nn: moai
+    oc: Moai
+    pl: Moai
+    pnb: موآئی
+    pt: moai
+    ro: Moai
+    ru: Моаи
+    scn: Moai
+    se: Moai
+    sh: Moai
+    sk: Moai
+    sl: Moai
+    sr: Моаи
+    sv: Moai
+    ta: மோவாய்
+    th: โมไอ
+    tr: Moai
+    tt: Моаи
+    uk: Моаї
+    ur: موائی
+    uz: Moai
+    vi: Moai
+    war: Moai
+    wuu: 摩艾石像
+    yue: 復活節島石像
+    zh: 摩艾石像
+    zh-cn: 摩艾石像
+    zh-hans: 摩艾石像
+    zh-hant: 摩艾石像
 ---
-
 # [[Moai]] 🗿 
 
 ![[../../../assets/Moai.png]] 

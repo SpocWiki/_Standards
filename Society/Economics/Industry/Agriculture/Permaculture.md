@@ -1,24 +1,128 @@
 ---
 aliases:
+- labour-douar pad
+- permacultura
+- permaculture
+- Permacultură
+- permacultuur
+- Permakuitua
+- permakulttuuri
+- Permakultur
+- permakultura
+- permakulturo
+- Permakultuur
+- Permakultúra
+- Permakultūra
+- permakültür
+- Permamaeth
+- permamädeniet
+- Vistmenning
+- Μόνιμη καλλιέργεια
+- Пермакултура
+- Пермакультура
+- пермамәдениет
+- пэрмакультура
+- Մշտատև գյուղատնտեսություն
+- פרמקלצ'ר
+- زراعة معمرة
+- پایداره کرنه
+- کشت پایا
+- परमाकल्चर
+- পারমাকালচার
+- ਪਰਮਾਕਲਚਰ
+- நிலைகொள் வேளாண்மை
+- ፐርማካልቸር
+- パーマカルチャー
+- 樸門
+- 永續栽培設計
+- 퍼머컬처
 has_id_wikidata: Q4572
-subclass_of: "[[_Standards/WikiData/WD~cultivation,357279]]"
+subclass_of: '[[_Standards/WikiData/WD~cultivation,357279]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Bill_Mollison,554966]]"
-  - "[[_Standards/WikiData/WD~David_Holmgren,583264]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Permaculture,22765778]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q52678287,52678287]]"
-instance_of: "[[_Standards/WikiData/WD~farming_system,56395513]]"
+- '[[_Standards/WikiData/WD~Bill_Mollison,554966]]'
+- '[[_Standards/WikiData/WD~David_Holmgren,583264]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Permaculture,22765778]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q52678287,52678287]]'
+instance_of: '[[_Standards/WikiData/WD~farming_system,56395513]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Permaculture_A_Designer's_Manual,102411307]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- "[[_Standards/WikiData/WD~Permaculture_A_Designer's_Manual,102411307]]"
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
 social_media_followers: 259199
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Permaculture%20flower%20fleur%20permashort%20color-1331px.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Permakultur-Zonen.svg
 subreddit: Permaculture
 Commons_category: Permaculture
+dv_has_:
+  name_:
+    af: Permakultuur
+    am: ፐርማካልቸር
+    an: Permacultura
+    ar: زراعة معمرة
+    ast: Permacultura
+    bar: Permakuitua
+    be: Пермакультура
+    be-tarask: пэрмакультура
+    bg: Пермакултура
+    bn: পারমাকালচার
+    br: labour-douar pad
+    ca: permacultura
+    cs: permakultura
+    cy: Permamaeth
+    da: Permakultur
+    de: Permakultur
+    el: Μόνιμη καλλιέργεια
+    en: permaculture
+    en-ca: Permaculture
+    en-gb: Permaculture
+    eo: permakulturo
+    es: permacultura
+    et: Permakultuur
+    eu: Permakultura
+    fa: کشت پایا
+    fi: permakulttuuri
+    fr: permaculture
+    gl: Permacultura
+    ha: Permaculture
+    he: פרמקלצ'ר
+    hi: परमाकल्चर
+    hr: Permakultura
+    hu: Permakultúra
+    hy: Մշտատև գյուղատնտեսություն
+    id: Permakultur
+    is: Vistmenning
+    it: permacultura
+    ja: パーマカルチャー
+    kk: пермамәдениет
+    kk-latn: permamädeniet
+    ko: 퍼머컬처
+    la: Permacultura
+    lv: Permakultūra
+    mk: пермакултура
+    ms: permakultur
+    nap: Permacultura
+    nb: permakultur
+    nl: permacultuur
+    oc: Permacultura
+    pa: ਪਰਮਾਕਲਚਰ
+    pam: Permakultúra
+    pl: permakultura
+    ps: پایداره کرنه
+    pt: permacultura
+    pt-br: Permacultura
+    ro: Permacultură
+    ru: пермакультура
+    sk: Permakultúra
+    sl: permakultura
+    sr: Permakultura
+    sv: permakultur
+    ta: நிலைகொள் வேளாண்மை
+    tr: permakültür
+    uk: пермакультура
+    vi: permaculture
+    yue: 永續栽培設計
+    zh: 樸門
 ---
-
 # [[Permaculture]] 
 
 #is_/same_as :: [[WD~Permaculture,4572]] 

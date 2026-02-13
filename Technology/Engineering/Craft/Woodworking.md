@@ -1,26 +1,70 @@
 ---
 aliases:
-  - Holzverarbeitung
-  - Schreinerei
-  - Woodworking
+- adhmadóireacht
+- ahşap işçiliği
+- duradgorlik
+- egurgintza
+- famegmunkálás
+- gwaith coed
+- Holzverarbeitung
+- houtbewerking
+- Kokapstrāde
+- lavorazione del legno
+- lignoprilaboro
+- marcenaria
+- medienos apdirbimas
+- obdelava lesa
+- obrada drveta
+- obrábění dřeva
+- obróbka drewna
+- pengerjaan kayu
+- Pertukangan kayu
+- prelucrarea lemnului
+- puuntyöstö
+- puutöö
+- Schreinerei
+- sugu
+- trabajo de la madera
+- travail du bois
+- treball de la fusta
+- trähantverk
+- Woodworking
+- ξυλουργική
+- ағаш өңдеу
+- деревообробка
+- дрводелство
+- дрэваапрацоўка
+- дървообработка
+- обрада дрвета
+- работы по дереву
+- Փայտանյութի վերջնամշակում
+- עיבוד עץ
+- أعمال نجارة
+- خراطی
+- لکڑکاری
+- ڪاٺ جو ڪم
+- लांकडी कलाकाम
+- কাঠের কাজ
+- 木工
+- 목공
 has_id_wikidata: Q816871
 subclass_of:
-  - '[[../../../WikiData/WD~work,268378]]'
-  - '[[_Standards/WikiData/WD~economic_production,739302]]'
-  - '[[_Standards/WikiData/WD~craft,2207288]]'
+- '[[../../../WikiData/WD~work,268378]]'
+- '[[_Standards/WikiData/WD~economic_production,739302]]'
+- '[[_Standards/WikiData/WD~craft,2207288]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~industry,268592]]'
-  - '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~wood_processing,1609891]]'
-  - '[[_Standards/WikiData/WD~woodwork,60734095]]'
+- '[[_Standards/WikiData/WD~wood_processing,1609891]]'
+- '[[_Standards/WikiData/WD~woodwork,60734095]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~woodworker,15977971]]'
-  - '[[_Standards/WikiData/WD~wood_working_profession,56604560]]'
+- '[[_Standards/WikiData/WD~woodworker,15977971]]'
+- '[[_Standards/WikiData/WD~wood_working_profession,56604560]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~woodwork,60734095]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q111129560,111129560]]'
@@ -33,8 +77,65 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Treskj%C3%A6ring%20av%
 subreddit: woodworking
 Library_of_Congress_Classification: TT180-TT200.22
 Dewey_Decimal_Classification: 684.08
+dv_has_:
+  name_:
+    ar: أعمال نجارة
+    be: дрэваапрацоўка
+    be-tarask: дрэваапрацоўка
+    bg: дървообработка
+    bn: কাঠের কাজ
+    ca: treball de la fusta
+    cs: obrábění dřeva
+    cy: gwaith coed
+    de: Holzverarbeitung
+    el: ξυλουργική
+    en: woodworking
+    eo: lignoprilaboro
+    es: trabajo de la madera
+    et: puutöö
+    eu: egurgintza
+    fa: خراطی
+    fi: puuntyöstö
+    fr: travail du bois
+    ga: adhmadóireacht
+    gom: लांकडी कलाकाम
+    he: עיבוד עץ
+    hr: obrada drveta
+    hu: famegmunkálás
+    hy: Փայտանյութի վերջնամշակում
+    id: pengerjaan kayu
+    it: lavorazione del legno
+    ja: 木工
+    kk: ағаш өңдеу
+    ko: 목공
+    lt: medienos apdirbimas
+    lv: Kokapstrāde
+    lzh: 木工
+    mk: дрводелство
+    ms: Pertukangan kayu
+    nl: houtbewerking
+    pl: obróbka drewna
+    pt: marcenaria
+    ro: prelucrarea lemnului
+    ru: работы по дереву
+    sd: ڪاٺ جو ڪم
+    sh: Obrada drveta
+    sl: obdelava lesa
+    sr: обрада дрвета
+    sr-ec: обрада дрвета
+    sr-el: obrada drveta
+    su: sugu
+    sv: trähantverk
+    tr: ahşap işçiliği
+    uk: деревообробка
+    ur: لکڑکاری
+    uz: duradgorlik
+    yue: 木工
+    zh: 木工
+    zh-hans: 木工
+    zh-hant: 木工
+    zh-hk: 木工
 ---
-
 # [[Woodworking]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Woodworking,816871|WD~Woodworking,816871]]  

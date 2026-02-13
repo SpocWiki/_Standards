@@ -1,5 +1,116 @@
-
-
+---
+has_id_wikidata: Q186212
+dv_has_:
+  name_:
+    ar: محرك ستيرلينغ
+    az: Stirlinq mühərriki
+    be: Рухавік Стырлінга
+    be-tarask: Рухавік Стырлінга
+    bg: Двигател на Стърлинг
+    br: Keflusker Stirling
+    bs: Stirlingov motor
+    ca: motor Stirling
+    ckb: بزوێنەری ستێرلینگ
+    cs: Stirlingův motor
+    da: Stirlingmotor
+    de: Stirlingmotor
+    en: Stirling engine
+    eo: Stirling-motoro
+    es: Motor Stirling
+    eu: Stirling motor
+    fa: موتور استرلینگ
+    fi: Stirlingmoottori
+    fr: moteur Stirling
+    he: מנוע סטירלינג
+    hi: स्टर्लिंग इंजन
+    hr: Stirlingov motor
+    hu: Stirling-motor
+    hy: Ստիռլինգի շարժիչ
+    id: Mesin stirling
+    io: Stirling motoro
+    it: Motore Stirling
+    ja: スターリングエンジン
+    ka: სტირლინგის ძრავა
+    ko: 스털링 기관
+    lt: Stirlingo variklis
+    mk: Стерлингов мотор
+    ms: Enjin Stirling
+    nb: Stirlingmotor
+    ne: स्टर्लिङ इन्जिन
+    nl: Stirlingmotor
+    pl: Silnik Stirlinga
+    pnb: سٹرلنگ انجن
+    pt: Motor Stirling
+    ro: Motorul Stirling
+    ru: двигатель Стирлинга
+    sco: Stirling ingine
+    sh: Stirlingov motor
+    sk: Stirlingov motor
+    sl: Stirlingov motor
+    sq: Motori Stirling
+    sr: Стирлингов мотор
+    sr-ec: Стирлингов мотор
+    sr-el: Stirlingov motor
+    sv: Stirlingmotor
+    te: స్టిర్లింగ్ యంత్రం
+    th: เครื่องยนต์สเตอร์ลิง
+    tr: Stirling motoru
+    uk: Цикл Стірлінга
+    vi: Động cơ Stirling
+    yue: 史特林發動機
+    zh: 斯特林发动机
+    zh-cn: 斯特林发动机
+    zh-hans: 斯特林发动机
+    zh-hant: 史特林發動機
+    zh-hk: 史特林發動機
+    zh-sg: 斯特林发动机
+    zh-tw: 史特林發動機
+aliases:
+- Enjin Stirling
+- Keflusker Stirling
+- Mesin stirling
+- moteur Stirling
+- motor Stirling
+- Motore Stirling
+- Motori Stirling
+- Motorul Stirling
+- Silnik Stirlinga
+- Stirling engine
+- Stirling ingine
+- Stirling motor
+- Stirling motoro
+- Stirling motoru
+- Stirling-motor
+- Stirling-motoro
+- Stirlingmoottori
+- Stirlingmotor
+- Stirlingo variklis
+- Stirlingov motor
+- Stirlingův motor
+- Stirlinq mühərriki
+- Động cơ Stirling
+- Двигател на Стърлинг
+- двигатель Стирлинга
+- Рухавік Стырлінга
+- Стерлингов мотор
+- Стирлингов мотор
+- Цикл Стірлінга
+- Ստիռլինգի շարժիչ
+- מנוע סטירלינג
+- بزوێنەری ستێرلینگ
+- سٹرلنگ انجن
+- محرك ستيرلينغ
+- موتور استرلینگ
+- स्टर्लिंग इंजन
+- स्टर्लिङ इन्जिन
+- స్టిర్లింగ్ యంత్రం
+- เครื่องยนต์สเตอร์ลิง
+- სტირლინგის ძრავა
+- スターリングエンジン
+- 史特林發動機
+- 斯特林发动机
+- 스털링 기관
+---
 ![[../../../../../assets/Alpha_Stirling_highres.gif]] 
 
 The idealised Stirling cycle consists of four [thermodynamic processes](https://en.wikipedia.org/wiki/Thermodynamic_processes "Thermodynamic processes") acting on the working fluid:

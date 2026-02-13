@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q223571
+---
+
 
 # [[Space_Suit]] 
 

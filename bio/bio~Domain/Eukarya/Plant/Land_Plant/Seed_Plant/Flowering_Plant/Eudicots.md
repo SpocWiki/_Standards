@@ -1,12 +1,160 @@
 ---
 aliases:
-  - Eudicot
-  - Tricolpate
-  - non-magnoliid dicot
-  - Eudicots
+- "'Nieuwe' tweezaadlobbigen"
+- Aitokaksisirkkaiset
+- Chin-siang-chí-hio̍h si̍t-bu̍t
+- Dicotylédones vraies
+- Dı hebıkıni
+- ekte tofrøbladete planter
+- ekte tofrøbladingar
+- Eodikôtiledôna
+- Eudicot
+- Eudicote
+- Eudicotidae
+- eudicotiledoni
+- Eudicotiledonèas
+- Eudicotiledònies
+- Eudicotiledóneas
+- eudicotiledôneas
+- Eudicots
+- Eudicotyledonae
+- Eudicotyledoneae
+- Eudicotyln
+- Eudikot
+- Eudikotil
+- Eudikotiledone
+- Eudikotyledonen
+- Evdikotlar
+- Ewdicot
+- Kimsa khata sisayuq
+- non-magnoliid dicot
+- olmâkyevtalgâlostâsiih
+- prave dvokaličnice
+- Pravé dvojklíčnolistové rastliny
+- Rosopsida
+- thực vật hai lá mầm thật sự
+- Tricolpate
+- trikolpater
+- valódi kétszikűek
+- Verdukotiledonaj
+- vyšší dvouděložné
+- çift çenekliler
+- Ευδικοτυλήδονα
+- евдикоти
+- еудікоти
+- еудикоти
+- эўдыкоты
+- эвдикоты
+- էվդիկոտներ
+- דו-פסיגיים אמיתיים
+- النباتات ذوات الفلقتين
+- ايوڊيڪاٽس
+- دولپهایهای نو
+- یوٗڈیکوٹٕس
+- یوڈیکوٹس
+- युडिकॉट
+- यूडिकॉट्स
+- সুদ্বিবীজপত্রী
+- மெய்இருவித்திலி
+- యుడికాట్స్
+- യൂഡികോട്സ്
+- พืชใบเลี้ยงคู่แท้
+- 真双子叶植物
+- 真孖葉植物
+- 真正双子葉類
+- 真雙子葉植物
+- 진정쌍떡잎식물
 title: eudicots
+has_id_wikidata: Q165468
+dv_has_:
+  name_:
+    af: Eudicots
+    ar: النباتات ذوات الفلقتين
+    ast: Eudicotyledoneae
+    az: Evdikotlar
+    bcl: Eudicots
+    be: Eudicots
+    be-tarask: эўдыкоты
+    bg: еудикоти
+    bho: यूडिकॉट्स
+    bn: সুদ্বিবীজপত্রী
+    bs: Eudikotiledone
+    ca: Eudicotiledònies
+    ceb: eudicots
+    cs: vyšší dvouděložné
+    cy: Ewdicot
+    de: Eudikotyledonen
+    diq: Dı hebıkıni
+    el: Ευδικοτυλήδονα
+    en: eudicots
+    eo: Verdukotiledonaj
+    es: Eudicotyledoneae
+    eu: Eudicotyledoneae
+    fa: دولپهایهای نو
+    fi: Aitokaksisirkkaiset
+    fr: Dicotylédones vraies
+    ga: Eudicotidae
+    gl: Eudicotiledóneas
+    gv: Eudicotyledonae
+    he: דו-פסיגיים אמיתיים
+    hi: युडिकॉट
+    hsb: Rosopsida
+    hu: valódi kétszikűek
+    hy: էվդիկոտներ
+    ia: Eudicotyledoneae
+    id: Eudikotil
+    ilo: Eudicotidae
+    it: eudicotiledoni
+    ja: 真正双子葉類
+    jv: Eudicots
+    ko: 진정쌍떡잎식물
+    ks: یوٗڈیکوٹٕس
+    la: Eudicotyledoneae
+    lb: Rosopsida
+    mg: Eodikôtiledôna
+    mk: евдикоти
+    ml: യൂഡികോട്സ്
+    ms: Eudikot
+    nan: Chin-siang-chí-hio̍h si̍t-bu̍t
+    nb: ekte tofrøbladete planter
+    nl: "'Nieuwe' tweezaadlobbigen"
+    nn: ekte tofrøbladingar
+    oc: Eudicotiledonèas
+    pl: Rosopsida
+    pt: eudicotiledôneas
+    pt-br: eudicotiledôneas
+    qu: Kimsa khata sisayuq
+    ro: Eudicote
+    ru: эвдикоты
+    sco: Eudicots
+    sd: ايوڊيڪاٽس
+    sh: Eudikotiledone
+    sk: Pravé dvojklíčnolistové rastliny
+    sl: prave dvokaličnice
+    smn: olmâkyevtalgâlostâsiih
+    sq: eudicots
+    sr: Eudikotiledone
+    sv: trikolpater
+    ta: மெய்இருவித்திலி
+    te: యుడికాట్స్
+    th: พืชใบเลี้ยงคู่แท้
+    tl: Eudicots
+    tr: çift çenekliler
+    uk: еудікоти
+    ur: یوڈیکوٹس
+    vi: thực vật hai lá mầm thật sự
+    vls: Eudicotyln
+    war: eudicots
+    wuu: 真双子叶植物
+    yue: 真孖葉植物
+    zh: 真双子叶植物
+    zh-cn: 真双子叶植物
+    zh-hans: 真双子叶植物
+    zh-hant: 真雙子葉植物
+    zh-hk: 真雙子葉植物
+    zh-sg: 真双子叶植物
+    zh-tw: 真雙子葉植物
 ---
-
 # [[Eudicots]]
 
 ![Banksia serrata](Eudicots/Banksia_serrata.jpg)  ![Dendromecon rigida, Tree Poppy](Eudicots/Dendromecon_rigida.jpg)  ![Arbutus_andrachne](Eudicots/Arbutus_andrachne.jpg) 

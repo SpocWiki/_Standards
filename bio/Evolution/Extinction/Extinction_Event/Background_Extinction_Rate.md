@@ -1,4 +1,23 @@
-
+---
+has_id_wikidata: Q4839645
+dv_has_:
+  name_:
+    ca: taxa d'extinció natural
+    de: Hintergrundsterben
+    el: ρυθμός εξαφάνισης υποβάθρου
+    en: Background extinction rate
+    fa: نرخ انقراض پسزمینه
+    fr: Taux normal d'extinction
+    zh: 背景灭绝率
+aliases:
+- Background extinction rate
+- Hintergrundsterben
+- Taux normal d'extinction
+- taxa d'extinció natural
+- ρυθμός εξαφάνισης υποβάθρου
+- نرخ انقراض پسزمینه
+- 背景灭绝率
+---
 # [[Background_Extinction_Rate]] 
 
 ## #has_/text_of_/abstract 

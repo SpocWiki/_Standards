@@ -1,23 +1,113 @@
 ---
 aliases:
-  - Philosophical logic
-  - Philosophical_Logic
-  - Philosophical Logic
+- Felsefi mantık
+- filosofalaš logihkka
+- filosofische logica
+- filosofisk logik
+- filosofisk logikk
+- filosoofiline loogika
+- filosooflaž logikk
+- filosooflâš logiik
+- filozofia logiko
+- filozofická logika
+- filozofska logika
+- filozófiai logika
+- Fəlsəfi məntiq
+- Logic triết học
+- logica filosofica
+- Logica philosophica
+- logika filosofiko
+- logika filosofis
+- Logika filozoficzna
+- logikos filosofija
+- logique philosophique
+- lògica filosòfica
+- lógica filosófica
+- Lóxica filosófica
+- Philosophical logic
+- Philosophical_Logic
+- philosophische Logik
+- φιλοσοφική λογική
+- філософська логіка
+- філязофская лёгіка
+- Философска логика
+- философская логика
+- фәлсәфә мантыйгы
+- Փիլիսոփայական տրամաբանություն
+- לוגיקה פילוסופית
+- منطق فلسفي
+- منطق فلسفی
+- மெய்யியல் ஏரணம்
+- 哲学的論理学
+- 哲学逻辑
+- 哲學邏輯
+- 철학적 논리학
 has_id_wikidata: Q491412
 Commons_category: Philosophical logic
 has_use:
-  - '[[_Standards/WikiData/WD~philosophical_problem,28109781]]'
+- '[[_Standards/WikiData/WD~philosophical_problem,28109781]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 part_of:
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
 Regensburg_Classification: CC 2500
 Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/logic
 subclass_of: '[[_Standards/WikiData/WD~logic,8078]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophical_logic,18676718]]'
+dv_has_:
+  name_:
+    ar: منطق فلسفي
+    ast: Lóxica filosófica
+    az: Fəlsəfi məntiq
+    be-tarask: філязофская лёгіка
+    bg: Философска логика
+    ca: lògica filosòfica
+    cs: filozofická logika
+    da: filosofisk logik
+    de: philosophische Logik
+    el: φιλοσοφική λογική
+    en: philosophical logic
+    eo: filozofia logiko
+    es: lógica filosófica
+    et: filosoofiline loogika
+    eu: logika filosofiko
+    fa: منطق فلسفی
+    fr: logique philosophique
+    gl: Lóxica filosófica
+    he: לוגיקה פילוסופית
+    hu: filozófiai logika
+    hy: Փիլիսոփայական տրամաբանություն
+    id: logika filosofis
+    it: logica filosofica
+    ja: 哲学的論理学
+    ko: 철학적 논리학
+    la: Logica philosophica
+    lt: logikos filosofija
+    mk: Философска логика
+    nb: filosofisk logikk
+    nl: filosofische logica
+    pl: Logika filozoficzna
+    pms: Lògica filosòfica
+    pt: lógica filosófica
+    ru: философская логика
+    se: filosofalaš logihkka
+    sl: filozofska logika
+    smn: filosooflâš logiik
+    sms: filosooflaž logikk
+    sr: Filozofska logika
+    sv: filosofisk logik
+    ta: மெய்யியல் ஏரணம்
+    tr: Felsefi mantık
+    tt: фәлсәфә мантыйгы
+    uk: філософська логіка
+    vi: Logic triết học
+    yue: 哲學邏輯
+    zh: 哲学逻辑
+    zh-hans: 哲学逻辑
+    zh-hant: 哲學邏輯
+    zh-hk: 哲學邏輯
 ---
-
 # [[Philosophical_Logic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Philosophical_logic,491412|WD~Philosophical_logic,491412]] 

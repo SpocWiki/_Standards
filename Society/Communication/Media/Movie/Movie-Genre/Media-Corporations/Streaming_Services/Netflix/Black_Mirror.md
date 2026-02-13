@@ -1,9 +1,114 @@
 ---
 aliases:
-  - Black Mirror
-  - Black_Mirror
+- Black Mirror
+- Black mirror (teleserial)
+- Black_Mirror
+- Czarne lustro
+- Fekete tükör
+- Gương đen
+- Juodasis veidrodis
+- O͘-kiàⁿ
+- Qara güzgü
+- Černé zrcadlo
+- Црно Огледало
+- Чёрное зеркало
+- Черното огледало
+- Чорнае люстэрка
+- Чорне дзеркало
+- Սև հայելի
+- מראה שחורה
+- آینه سیاه(سریال تلویزیونی)
+- ئاوێنەی ڕەش
+- المرآة السوداء
+- بلاك ميرور
+- ব্ল্যাক মিরর
+- ਬਲੈਕ ਮਿਰਰ
+- แบล็ก มิร์เรอร์
+- შავი სარკე
+- ブラック・ミラー
+- 烏鏡
+- 黑鏡
+- 黑镜
+- 검은 거울
+has_id_wikidata: Q558112
+dv_has_:
+  name_:
+    af: Black Mirror
+    ar: المرآة السوداء
+    arz: بلاك ميرور
+    ast: Black Mirror
+    az: Qara güzgü
+    be: Чорнае люстэрка
+    be-tarask: Чорнае люстэрка
+    bg: Черното огледало
+    bn: ব্ল্যাক মিরর
+    br: Black Mirror
+    ca: Black Mirror
+    ckb: ئاوێنەی ڕەش
+    cs: Černé zrcadlo
+    cy: Black Mirror
+    da: Black Mirror
+    de: Black Mirror
+    de-ch: Black Mirror
+    el: Black Mirror
+    en: Black Mirror
+    en-ca: Black Mirror
+    en-gb: Black Mirror
+    eo: Black Mirror
+    es: Black Mirror
+    et: Black Mirror
+    eu: Black Mirror
+    fa: آینه سیاه(سریال تلویزیونی)
+    fi: Black Mirror
+    fr: Black Mirror
+    ga: Black Mirror
+    gl: Black Mirror
+    he: מראה שחורה
+    hr: Black Mirror
+    hu: Fekete tükör
+    hy: Սև հայելի
+    id: Black Mirror
+    is: Black Mirror
+    it: Black Mirror
+    ja: ブラック・ミラー
+    ka: შავი სარკე
+    ko: 검은 거울
+    ku: Black Mirror
+    lb: Black Mirror
+    lt: Juodasis veidrodis
+    lv: Black Mirror
+    mk: Црно Огледало
+    ms: Black Mirror
+    mul: Black Mirror
+    nan: O͘-kiàⁿ
+    nan-hani: 烏鏡
+    nb: Black Mirror
+    nl: Black Mirror
+    pa: ਬਲੈਕ ਮਿਰਰ
+    pl: Czarne lustro
+    pt: Black Mirror
+    pt-br: Black Mirror
+    ro: Black Mirror
+    ru: Чёрное зеркало
+    sk: Black Mirror
+    sq: Black Mirror
+    sr: Black mirror
+    sv: Black Mirror
+    th: แบล็ก มิร์เรอร์
+    tl: Black Mirror
+    tr: Black Mirror
+    uk: Чорне дзеркало
+    uz: Black mirror (teleserial)
+    vi: Gương đen
+    wuu: 黑镜
+    yue: 黑鏡
+    zh: 黑鏡
+    zh-cn: 黑镜
+    zh-hans: 黑镜
+    zh-hant: 黑鏡
+    zh-hk: 黑鏡
+    zh-tw: 黑鏡
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Black Mirror** is a British anthology television series created by Charlie Brooker. 

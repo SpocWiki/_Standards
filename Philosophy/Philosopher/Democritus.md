@@ -1,4 +1,181 @@
-
+---
+has_id_wikidata: Q41980
+dv_has_:
+  name_:
+    af: Demokritos
+    an: Democrito
+    ar: ديمقريطس
+    arz: ديموكريتوس
+    ast: Demócrito
+    az: Demokrit
+    ba: Демокрит
+    be: Дэмакрыт
+    be-tarask: Дэмакрыт
+    bg: Демокрит
+    bn: দেমোক্রিতোস
+    bs: Demokrit
+    ca: Demòcrit
+    ckb: دیمۆکریتس
+    cs: Démokritos
+    cy: Democritos
+    da: Demokrit
+    de: Demokrit
+    el: Δημόκριτος
+    en: Democritus
+    en-ca: Democritus
+    en-gb: Democritus
+    eo: Demokrito
+    es: Demócrito
+    et: Demokritos
+    eu: Demokrito
+    fa: دموکریت
+    fi: Demokritos
+    fr: Démocrite
+    ga: Democritus
+    gd: Democritus
+    gl: Demócrito de Abdera
+    gor: Democritus
+    gsw: Demokrit
+    ha: Democritus
+    he: דמוקריטוס
+    hi: डेमी क्रिट्स
+    hr: Demokrit
+    ht: Democritus
+    hu: Démokritosz
+    hy: Դեմոկրիտես
+    hyw: Տիմոքրիթոս
+    ia: Democrito
+    id: Democritus
+    io: Demokritos
+    is: Demókrítos
+    it: Democrito
+    ja: デモクリトス
+    ka: დემოკრიტე
+    kk: Демокрит
+    kn: ಡಿಮಾಕ್ರಿಟಸ್
+    ko: 데모크리토스
+    ku: Demokrîtos
+    ky: Демокрит
+    la: Democritus
+    li: Democritus
+    lij: Democrito
+    lt: Demokritas Abderietis
+    lv: Dēmokrits
+    mg: Demôkrity
+    mk: Демокрит
+    ml: ഡെമോക്രിറ്റസ്
+    mn: Демокрит
+    my: ဒီမိုခရိတပ်
+    myv: Демокрит
+    mzn: دموکریتوس
+    nan: Demokritos
+    nap: Democrito
+    nb: Demokrit
+    new: डेमोक्रिटस
+    nl: Democritus
+    nn: Demokrit
+    oc: Democrit d'Abdèra
+    os: Демокрит
+    pa: ਡੇਮੋਕਰੀਟਸ
+    pl: Demokryt
+    pms: Demòcrit
+    pnb: ڈیموکریٹس
+    ps: دېموکریتوس
+    pt: Demócrito de Abdera
+    pt-br: Demócrito de Abdera
+    rki: ဒီမိုခရစ်တပ်စ်
+    ro: Democrit
+    rsk: Демокрит
+    ru: Демокрит
+    scn: Democritu
+    sco: Democritus
+    se: Demokritos
+    sh: Demokrit
+    sk: Démokritos z Abdér
+    skr: دیموقراطیس
+    sl: Demokrit
+    sq: Demokriti
+    sr: Демокрит
+    su: Democritus
+    sv: Demokritos
+    ta: டெமோக்கிரட்டிசு
+    te: డెమోక్రిటస్
+    tg: Демокрит
+    tg-cyrl: Демокрит
+    th: ดิมอคริตัส
+    tl: Democritus
+    tr: Demokritos
+    tt: Демокрит
+    uk: Демокріт
+    ur: دی مقراطیس
+    uz: Demokrit
+    vi: Democritos
+    vo: Demokritos
+    war: Democritus
+    wuu: 德谟克利特
+    xmf: დემოკრიტე
+    yue: 德謨克利特
+    zh: 德谟克利特
+    zh-cn: 德谟克利特
+    zh-hans: 德谟克利特
+    zh-hant: 德谟克利特
+aliases:
+- Democrit
+- Democrit d'Abdèra
+- Democrito
+- Democritos
+- Democritu
+- Democritus
+- Demokrit
+- Demokritas Abderietis
+- Demokriti
+- Demokrito
+- Demokritos
+- Demokryt
+- Demokrîtos
+- Demòcrit
+- Demócrito
+- Demócrito de Abdera
+- Demókrítos
+- Demôkrity
+- Démocrite
+- Démokritos
+- Démokritos z Abdér
+- Démokritosz
+- Dēmokrits
+- Δημόκριτος
+- Демокріт
+- Демокрит
+- Дэмакрыт
+- Դեմոկրիտես
+- Տիմոքրիթոս
+- דמוקריטוס
+- دموکریت
+- دموکریتوس
+- ديمقريطس
+- ديموكريتوس
+- دی مقراطیس
+- دیموقراطیس
+- دیمۆکریتس
+- دېموکریتوس
+- ڈیموکریٹس
+- डेमी क्रिट्स
+- डेमोक्रिटस
+- দেমোক্রিতোস
+- ਡੇਮੋਕਰੀਟਸ
+- டெமோக்கிரட்டிசு
+- డెమోక్రిటస్
+- ಡಿಮಾಕ್ರಿಟಸ್
+- ഡെമോക്രിറ്റസ്
+- ดิมอคริตัส
+- ဒီမိုခရစ်တပ်စ်
+- ဒီမိုခရိတပ်
+- დემოკრიტე
+- デモクリトス
+- 德謨克利特
+- 德谟克利特
+- 데모크리토스
+---
 # [[Democritus]] 
 
 #is_/same_as :: [[../../WikiData/WD~Democritus,41980|WD~Democritus,41980]] 

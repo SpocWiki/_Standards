@@ -1,38 +1,102 @@
 ---
 aliases:
-  - Ohrenkneifer
-  - Dermaptera
-  - Ohrwürmer
-  - earwigs
-  - Tijerilla
-  - Pihtihäntäiset
-  - Uarklöögern
-  - Ohreschlitzer
-  - Ականջմտուկներ
-  - ハサミムシ目 (革翅目)
-  - 집게벌레목 (혁시목)
-  - Уволажи
-  - saksedyr
-  - Oorwormen
-  - Dermápteros
-  - Уховертки
-  - Ucholaky
-  - strigalice
-  - Ухолаже
-  - Tvestjärt
-  - 革翅目
+- Auslindos
+- Cocopét
+- Codifurciula
+- Dermaptera
+- dermàpters
+- Dermápteros
+- Dəriqanadlılar
+- Earkrûper
+- Earwig
+- earwigs
+- foixhete
+- Forfikulo
+- Forfikuloj
+- fülbemászó
+- gaffeltaand
+- gailseach
+- Gorlosten
+- Hornie-gollach
+- Jeeʼiigháhítsʼóóz
+- Klaufhalar
+- Kulağakaçanlar
+- Lelawi
+- Mdudu-koleo
+- Mokohula
+- Nahktiivalised
+- Oanschloifa
+- Ohrenkneifer
+- Ohrenkniepers
+- Ohreschlitzer
+- Ohrewürm
+- Ohrwürmer
+- Oorkruipers
+- Oorwormen
+- Paandɔchirigu
+- Pihtihäntäiset
+- Pry clustiog
+- saksedyr
+- Sipit
+- Skorki
+- spīļastes
+- strigalice
+- teri qanotlilar
+- Tijerilla
+- Tvestjärt
+- tvestjärtar
+- Uarklöögern
+- Ucholaky
+- Uholaže
+- Urechelniță
+- Ôorworms
+- ørentvist
+- škvoři
+- Δερμάπτερα
+- Айырығойроҡтар
+- Айырқұйрықтылар
+- Важынкапшангы
+- вуховертки
+- кожестокрили
+- кожистокрылые
+- Кыпчуурлар
+- скуракрылыя
+- скурыстакрылыя
+- Уволажи
+- Уховертки
+- Ухолаже
+- эскәккойрыклар
+- ականջմտնուկներ
+- Ականջմտուկներ
+- צבתנאים
+- أبو مقص
+- ابو مقص
+- قۇلاغاقاچانلار
+- گوشخیزک
+- ਈਅਰਵਿਗ
+- மூலைவிட்ட பூச்சிகள்
+- డెర్మాప్టెరా
+- ಕರ್ಣಕೀಟಗಳು
+- ტყავფრთიანები
+- ハサミムシ
+- ハサミムシ目 (革翅目)
+- 蠷螋
+- 蠼螋
+- 革翅目
+- 집게벌레목
+- 집게벌레목 (혁시목)
 has_id_wikidata: Q13676
 has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
 main_food_source: '[[_Standards/WikiData/WD~aphid,183350]]'
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Polyneoptera,822890]]'
-  - '[[_Standards/WikiData/WD~Haplocercata,122689270]]'
+- '[[_Standards/WikiData/WD~Polyneoptera,822890]]'
+- '[[_Standards/WikiData/WD~Haplocercata,122689270]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 uses: '[[_Standards/WikiData/WD~cannibalism_in_animals,908508]]'
 start_time: -208000000-06
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -40,33 +104,138 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 885
 ITIS_TSN: 102451
 taxon_common_name:
-  - Ohrwürmer
-  - earwigs
-  - Tijerilla
-  - Pihtihäntäiset
-  - Uarklöögern
-  - Ohreschlitzer
-  - Ականջմտուկներ
-  - ハサミムシ目 (革翅目)
-  - 집게벌레목 (혁시목)
-  - Уволажи
-  - saksedyr
-  - Oorwormen
-  - Dermápteros
-  - Уховертки
-  - Ucholaky
-  - strigalice
-  - Ухолаже
-  - Tvestjärt
-  - 革翅目
+- Ohrwürmer
+- earwigs
+- Tijerilla
+- Pihtihäntäiset
+- Uarklöögern
+- Ohreschlitzer
+- Ականջմտուկներ
+- ハサミムシ目 (革翅目)
+- 집게벌레목 (혁시목)
+- Уволажи
+- saksedyr
+- Oorwormen
+- Dermápteros
+- Уховертки
+- Ucholaky
+- strigalice
+- Ухолаже
+- Tvestjärt
+- 革翅目
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cadeladefrade%20045eue.jpg
 EPPO_Code: 1DERMO
 UMLS_CUI: C1001497
 Commons_category: Dermaptera
 taxon_name: Dermaptera
 NBN_System_Key: NBNSYS0000159836
+dv_has_:
+  name_:
+    af: Oorkruipers
+    an: Dermaptera
+    ar: أبو مقص
+    arz: ابو مقص
+    ast: Dermaptera
+    az: Dəriqanadlılar
+    azb: قۇلاغاقاچانلار
+    ba: Айырығойроҡтар
+    bar: Oanschloifa
+    be: скурыстакрылыя
+    be-tarask: скуракрылыя
+    bg: кожестокрили
+    ca: dermàpters
+    ceb: Sipit
+    co: Codifurciula
+    cs: škvoři
+    cy: Pry clustiog
+    da: ørentvist
+    dag: Paandɔchirigu
+    de: Ohrwürmer
+    el: Δερμάπτερα
+    en: Dermaptera
+    en-ca: Earwig
+    en-gb: earwig
+    eo: Forfikuloj
+    es: Dermaptera
+    et: Nahktiivalised
+    eu: Dermaptera
+    ext: Dermaptera
+    fa: گوشخیزک
+    fi: pihtihäntäiset
+    fr: Dermaptera
+    frr: Uarklöögern
+    fy: Earkrûper
+    ga: gailseach
+    gl: Dermápteros
+    gsw: Ohrewürm
+    he: צבתנאים
+    hr: Uholaže
+    hu: fülbemászó
+    hy: ականջմտնուկներ
+    ia: Dermaptera
+    id: Dermaptera
+    ie: Dermaptera
+    io: Forfikulo
+    is: Klaufhalar
+    it: Dermaptera
+    ja: ハサミムシ
+    ka: ტყავფრთიანები
+    kk: Айырқұйрықтылар
+    kn: ಕರ್ಣಕೀಟಗಳು
+    ko: 집게벌레목
+    kw: Gorlosten
+    ky: Кыпчуурлар
+    la: Dermaptera
+    lt: Auslindos
+    lv: spīļastes
+    lzh: 蠷螋
+    mk: уволажи
+    mrj: Важынкапшангы
+    ms: Lelawi
+    mul: Dermaptera
+    nb: saksedyr
+    nds: Ohrenkniepers
+    nds-nl: gaffeltaand
+    nl: oorwormen
+    nn: saksedyr
+    nv: Jeeʼiigháhítsʼóóz
+    oc: Dermaptera
+    pa: ਈਅਰਵਿਗ
+    pl: Skorki
+    pt: Dermaptera
+    pt-br: Dermaptera
+    ro: Urechelniță
+    ru: кожистокрылые
+    sco: Hornie-gollach
+    sh: Uholaže
+    sk: ucholaky
+    sl: strigalice
+    sq: Dermaptera
+    sr: ухолаже
+    su: Cocopét
+    sv: tvestjärtar
+    sw: Mdudu-koleo
+    ta: மூலைவிட்ட பூச்சிகள்
+    te: డెర్మాప్టెరా
+    th: Earwig
+    tl: Dermaptera
+    to: Mokohula
+    tr: Kulağakaçanlar
+    tt: эскәккойрыклар
+    uk: вуховертки
+    uz: teri qanotlilar
+    vi: Dermaptera
+    vls: Ôorworms
+    vo: Dermaptera
+    wa: foixhete
+    war: Dermaptera
+    wuu: 蠼螋
+    yue: 蠼螋
+    zh: 革翅目
+    zh-cn: 革翅目
+    zh-hans: 革翅目
+    zh-tw: 革翅目
 ---
-
 # [[Dermaptera]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Dermaptera,13676|WD~Dermaptera,13676]] 

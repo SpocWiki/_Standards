@@ -1,46 +1,150 @@
 ---
 aliases:
-  - Materialermüdung
-  - Fatigue(material)
+- fadiga
+- fatica
+- fatiga de materiales
+- fatiga mecànica
+- fatigue
+- Fatigue(material)
+- fatìa
+- Kelelahan
+- kifáradás
+- laciĝo
+- Materialermüdung
+- materialetræthed
+- materialtretthet
+- materialutmattning
+- materiāla nogurums
+- Metaalvermoeidheid
+- Nekea materialetan
+- oboseală
+- Qajw
+- strustuirse
+- umor materijala
+- utmatting
+- utrujanje materiala
+- vermoeiing
+- väsimus
+- väsyminen
+- yorulma
+- zmęczenie materiału
+- únava materiálu
+- Độ bền mỏi
+- Μηχανική κόπωσης
+- втома матеріалу
+- металлдын чарчашы
+- стомленасць матэрыялаў
+- стомленасьць матэрыялу
+- Умора на материала
+- усталость материала
+- қажу
+- עייפות החומר
+- تعب
+- خستگی
+- قاجۋ
+- श्रांति
+- ক্লান্তি (পদার্থ)
+- การล้าของวัสดุ
+- 疲労
+- 金属疲劳
+- 金屬疲勞
+- 피로
 has_id_wikidata: Q507234
-subclass_of: "[[_Standards/WikiData/WD~fracture_mechanics,957852]]"
+subclass_of: '[[_Standards/WikiData/WD~fracture_mechanics,957852]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~term,1969448]]"
-  - "[[_Standards/WikiData/WD~mechanical_property,5725005]]"
+- '[[_Standards/WikiData/WD~term,1969448]]'
+- '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Great_Russian_Encyclopedia,5061737]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
+- '[[_Standards/WikiData/WD~The_Great_Russian_Encyclopedia,5061737]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~micro_slip,13851115]]"
-  - "[[_Standards/WikiData/WD~cyclic_load,111974599]]"
+- '[[_Standards/WikiData/WD~micro_slip,13851115]]'
+- '[[_Standards/WikiData/WD~cyclic_load,111974599]]'
 different_from:
-  - "[[_Standards/WikiData/WD~fatigue,15729017]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
+- '[[_Standards/WikiData/WD~fatigue,15729017]]'
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
 Commons_category: Material fatigue
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pedalarm%20Bruch.jpg
 Library_of_Congress_Classification: TA418.38
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Fatigue,507234|WD~Fatigue,507234]]"
-    - "[[/_Standards/Chemistry/Material/Fatigue(material)|Fatigue(material)]]"
-    - "[[/_public/Chemistry/Material/Fatigue(material).public|Fatigue(material).public]]"
-    - "[[/_internal/Chemistry/Material/Fatigue(material).internal|Fatigue(material).internal]]"
-    - "[[/_protect/Chemistry/Material/Fatigue(material).protect|Fatigue(material).protect]]"
-    - "[[/_private/Chemistry/Material/Fatigue(material).private|Fatigue(material).private]]"
-    - "[[/_personal/Chemistry/Material/Fatigue(material).personal|Fatigue(material).personal]]"
-    - "[[/_secret/Chemistry/Material/Fatigue(material).secret|Fatigue(material).secret]]"
+  - '[[../../WikiData/WD~Fatigue,507234|WD~Fatigue,507234]]'
+  - '[[/_Standards/Chemistry/Material/Fatigue(material)|Fatigue(material)]]'
+  - '[[/_public/Chemistry/Material/Fatigue(material).public|Fatigue(material).public]]'
+  - '[[/_internal/Chemistry/Material/Fatigue(material).internal|Fatigue(material).internal]]'
+  - '[[/_protect/Chemistry/Material/Fatigue(material).protect|Fatigue(material).protect]]'
+  - '[[/_private/Chemistry/Material/Fatigue(material).private|Fatigue(material).private]]'
+  - '[[/_personal/Chemistry/Material/Fatigue(material).personal|Fatigue(material).personal]]'
+  - '[[/_secret/Chemistry/Material/Fatigue(material).secret|Fatigue(material).secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Fatigue,507234|WD~Fatigue,507234]]"
-  - "[[/_Standards/Chemistry/Material/Fatigue(material)|Fatigue(material)]]"
-  - "[[/_public/Chemistry/Material/Fatigue(material).public|Fatigue(material).public]]"
-  - "[[/_internal/Chemistry/Material/Fatigue(material).internal|Fatigue(material).internal]]"
-  - "[[/_protect/Chemistry/Material/Fatigue(material).protect|Fatigue(material).protect]]"
-  - "[[/_private/Chemistry/Material/Fatigue(material).private|Fatigue(material).private]]"
-  - "[[/_personal/Chemistry/Material/Fatigue(material).personal|Fatigue(material).personal]]"
-  - "[[/_secret/Chemistry/Material/Fatigue(material).secret|Fatigue(material).secret]]"
+- '[[../../WikiData/WD~Fatigue,507234|WD~Fatigue,507234]]'
+- '[[/_Standards/Chemistry/Material/Fatigue(material)|Fatigue(material)]]'
+- '[[/_public/Chemistry/Material/Fatigue(material).public|Fatigue(material).public]]'
+- '[[/_internal/Chemistry/Material/Fatigue(material).internal|Fatigue(material).internal]]'
+- '[[/_protect/Chemistry/Material/Fatigue(material).protect|Fatigue(material).protect]]'
+- '[[/_private/Chemistry/Material/Fatigue(material).private|Fatigue(material).private]]'
+- '[[/_personal/Chemistry/Material/Fatigue(material).personal|Fatigue(material).personal]]'
+- '[[/_secret/Chemistry/Material/Fatigue(material).secret|Fatigue(material).secret]]'
+dv_has_:
+  name_:
+    af: Metaalvermoeidheid
+    ar: تعب
+    ast: fatiga de materiales
+    be: стомленасць матэрыялаў
+    be-tarask: стомленасьць матэрыялу
+    bg: Умора на материала
+    bn: ক্লান্তি (পদার্থ)
+    ca: fatiga mecànica
+    cs: únava materiálu
+    da: materialetræthed
+    de: Materialermüdung
+    el: Μηχανική κόπωσης
+    en: fatigue
+    eo: laciĝo
+    es: fatiga de materiales
+    et: väsimus
+    eu: Nekea materialetan
+    fa: خستگی
+    fi: väsyminen
+    fr: fatigue
+    ga: strustuirse
+    he: עייפות החומר
+    hi: श्रांति
+    hr: umor materijala
+    hu: kifáradás
+    id: Kelelahan
+    it: fatica
+    ja: 疲労
+    kk: қажу
+    kk-arab: قاجۋ
+    kk-cyrl: Қажу
+    kk-latn: Qajw
+    ko: 피로
+    ky: металлдын чарчашы
+    lv: materiāla nogurums
+    nb: utmatting
+    nl: vermoeiing
+    no: materialtretthet
+    pl: zmęczenie materiału
+    pt: fadiga
+    ro: oboseală
+    ru: усталость материала
+    scn: fatìa
+    sh: umor materijala
+    sk: únava materiálu
+    sl: utrujanje materiala
+    sr: umor materijala
+    sv: materialutmattning
+    th: การล้าของวัสดุ
+    tr: yorulma
+    uk: втома матеріалу
+    vi: Độ bền mỏi
+    zh: 金屬疲勞
+    zh-hans: 金属疲劳
+    zh-hant: 金屬疲勞
+    zh-hk: 金屬疲勞
 ---
-
 # [[Fatigue(material)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fatigue,507234|WD~Fatigue,507234]] 

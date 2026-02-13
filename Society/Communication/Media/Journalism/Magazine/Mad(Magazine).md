@@ -1,24 +1,33 @@
 ---
-has_time_started: 1952-11-01 
+has_time_started: 1952-11-01
 aliases:
+- Mad
+- Mad (magazin)
+- Mad Magazine
+- Мад
+- מד מגזין
+- ماد
+- مد (مجله)
+- 疯狂杂志
+- 瘋狂雜誌
 has_id_wikidata: Q312086
-main_subject: "[[_Standards/WikiData/WD~satire,128758]]"
-mascot: "[[_Standards/WikiData/WD~Alfred_E._Neuman,552164]]"
-editor_in_chief: "[[_Standards/WikiData/WD~Harvey_Kurtzman,732474]]"
+main_subject: '[[_Standards/WikiData/WD~satire,128758]]'
+mascot: '[[_Standards/WikiData/WD~Alfred_E._Neuman,552164]]'
+editor_in_chief: '[[_Standards/WikiData/WD~Harvey_Kurtzman,732474]]'
 publisher:
-  - "[[_Standards/WikiData/WD~EC_Comics,1274252]]"
-  - "[[_Standards/WikiData/WD~DC_Comics,2924461]]"
-different_from: "[[_Standards/WikiData/WD~MAD,1397066]]"
-owned_by: "[[_Standards/WikiData/WD~DC_Comics,2924461]]"
+- '[[_Standards/WikiData/WD~EC_Comics,1274252]]'
+- '[[_Standards/WikiData/WD~DC_Comics,2924461]]'
+different_from: '[[_Standards/WikiData/WD~MAD,1397066]]'
+owned_by: '[[_Standards/WikiData/WD~DC_Comics,2924461]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Suomen_Mad,3773192]]"
-  - "[[_Standards/WikiData/WD~Norsk_MAD,115103971]]"
-instance_of: "[[_Standards/WikiData/WD~humor_magazine,12298619]]"
-has_list: "[[_Standards/WikiData/WD~recurring_features_in_Mad,17051380]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
+- '[[_Standards/WikiData/WD~Suomen_Mad,3773192]]'
+- '[[_Standards/WikiData/WD~Norsk_MAD,115103971]]'
+instance_of: '[[_Standards/WikiData/WD~humor_magazine,12298619]]'
+has_list: '[[_Standards/WikiData/WD~recurring_features_in_Mad,17051380]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
 publication_interval: 2
 social_media_followers: 79049
 ISSN_L: 0024-9319
@@ -28,12 +37,52 @@ inception: 1952-11-01T00:00:00Z
 start_time: 1952-01-01T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Madlogo.png
 official_website: https://www.dc.com/mad
-OCLC_number: "265037357"
+OCLC_number: 265037357
 Commons_category: Mad (magazine)
 X_Twitter_username: MADmagazine
 Facebook_username: MADMagazine
+dv_has_:
+  name_:
+    ar: ماد
+    bar: Mad
+    be-tarask: Mad
+    ca: Mad
+    cs: Mad Magazine
+    da: Mad
+    de: MAD
+    el: Mad
+    en: Mad
+    eo: Mad
+    es: MAD
+    eu: Mad
+    fa: مد (مجله)
+    fi: Mad
+    fr: Mad
+    he: מד מגזין
+    hu: MAD
+    id: Mad
+    it: Mad Magazine
+    ja: MAD
+    ko: MAD
+    nb: MAD
+    nl: MAD
+    nn: Mad
+    pl: Mad
+    pt: Mad
+    ru: Мад
+    sh: Mad (magazin)
+    sr: Mad (magazin)
+    sv: Mad Magazine
+    tr: Mad
+    uk: Mad
+    zh: 瘋狂雜誌
+    zh-cn: 疯狂杂志
+    zh-hans: 疯狂杂志
+    zh-hant: 瘋狂雜誌
+    zh-hk: 瘋狂雜誌
+    zh-sg: 疯狂杂志
+    zh-tw: 瘋狂雜誌
 ---
-
 # [[Mad(Magazine)]] 
 
 #is_/same_as :: [[WD~Mad,312086]] 

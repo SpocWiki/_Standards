@@ -1,9 +1,174 @@
 ---
 aliases:
-  - Bufonidae
+- Beqa bejî
+- Bufonedoj
+- Bufonidae
+- Bufonide
+- Bufònid
+- Chura-sugu
+- Chʼał dichʼízhí
+- Dongkang
+- Echte paddn
+- ekte padder
+- Hamp'atu
+- họ Cóc
+- Ixoxo
+- Jamp'atu
+- Kara kurbağasıgiller
+- Kodok sejati
+- konnat
+- krastače
+- Kropė
+- Krupju dzimta
+- Kröten
+- Kururu
+- Kärnkonlased
+- Körtur
+- Mouken
+- padden
+- Poden
+- Quru qurbağaları
+- ropuchovití
+- ropuchowate
+- Rupūžės
+- Sapo
+- Tamazolin
+- the true toads
+- Tudser
+- varangyfélék
+- Yokolo
+- Äkta paddor
+- Бах
+- Галхæфс
+- Гөберле бакалар
+- Жабы
+- Крастави жаби
+- Крастаче
+- Курбакалар
+- Ленгарь
+- Рапухі
+- Ропухові
+- Ункхаш
+- Ғук
+- Құрбақалар
+- Ҫӗр шаписем
+- Әрмәнделәр
+- դոդոշներ
+- קרפדיים
+- علجوم حقيقى
+- علجوم حقيقي
+- وزغهای راستین
+- کانټار
+- ചൊറിത്തവളകൾ
+- วงศ์คางคก
+- გომბეშოსებრნი
+- እንቁራሪት
+- ヒキガエル科
+- 蟾蜍科
+- 두꺼비과
 title: Bufonidae
+has_id_wikidata: Q55372
+dv_has_:
+  name_:
+    am: እንቁራሪት
+    an: Bufonidae
+    ar: علجوم حقيقي
+    arz: علجوم حقيقى
+    ast: Bufonidae
+    ay: Jamp'atu
+    az: Quru qurbağaları
+    ba: Әрмәнделәр
+    ban: Dongkang
+    be: Рапухі
+    be-tarask: рапухі
+    bg: Крастави жаби
+    br: Bufonidae
+    ca: Bufònid
+    ceb: Bufonidae
+    cs: ropuchovití
+    cv: Ҫӗр шаписем
+    da: Tudser
+    de: Kröten
+    de-ch: Kröten
+    el: Bufonidae
+    en: Bufonidae
+    en-ca: the true toads
+    en-gb: the true toads
+    eo: Bufonedoj
+    es: Bufonidae
+    et: Kärnkonlased
+    eu: Bufonidae
+    ext: Bufonidae
+    fa: وزغهای راستین
+    fi: konnat
+    fr: Bufonidae
+    frr: Poden
+    ga: Bufonidae
+    gl: Sapo
+    gn: Kururu
+    guc: Yokolo
+    he: קרפדיים
+    hu: varangyfélék
+    hy: դոդոշներ
+    ia: Bufonidae
+    id: Kodok sejati
+    ie: Bufonidae
+    inh: Ункхаш
+    io: Bufonidae
+    is: Körtur
+    it: Bufonidae
+    ja: ヒキガエル科
+    ka: გომბეშოსებრნი
+    kk: Құрбақалар
+    ko: 두꺼비과
+    ku: Beqa bejî
+    ky: Курбакалар
+    la: Bufonidae
+    lb: Mouken
+    lt: Rupūžės
+    lv: Krupju dzimta
+    mdf: Ленгарь
+    mk: крастави жаби
+    ml: ചൊറിത്തവളകൾ
+    mn: Бах
+    mul: Bufonidae
+    nah: Tamazolin
+    nb: ekte padder
+    nl: padden
+    nn: Ekte padder
+    nv: Chʼał dichʼízhí
+    oc: Bufonidae
+    os: Галхæфс
+    pl: ropuchowate
+    ps: کانټار
+    pt: Bufonidae
+    pt-br: Bufonidae
+    qu: Hamp'atu
+    ro: Bufonide
+    ru: Жабы
+    sgs: Kropė
+    sl: krastače
+    sq: Bufonidae
+    sr: Крастаче
+    sv: Äkta paddor
+    sw: Chura-sugu
+    tg: Ғук
+    th: วงศ์คางคก
+    tr: Kara kurbağasıgiller
+    tt: Гөберле бакалар
+    uk: Ропухові
+    vi: họ Cóc
+    vls: Echte paddn
+    vo: Bufonidae
+    war: Bufonidae
+    wuu: 蟾蜍科
+    xh: Ixoxo
+    zh: 蟾蜍科
+    zh-cn: 蟾蜍科
+    zh-hans: 蟾蜍科
+    zh-tw: 蟾蜍科
+    zu: Ixoxo
 ---
-
 # [[Bufonidae]]
 
 True Toads 

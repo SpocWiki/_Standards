@@ -1,4 +1,48 @@
-
+---
+has_id_wikidata: Q831403
+dv_has_:
+  name_:
+    ar: مبدأ الضرر
+    bg: Принцип на вредата
+    bn: অপকার নীতি
+    de: Prinzip des Schadens
+    en: harm principle
+    en-ca: Harm principle
+    en-gb: harm principle
+    fa: اصل آزار
+    fr: harm principle
+    he: עקרון ההיזק
+    hu: Kárelv
+    it: Principio del danno
+    ja: 危害原理
+    ka: ზიანის პრინციპი
+    ko: 위해원칙
+    nl: schadebeginsel
+    pt: Princípio do dano alheio
+    sv: Skadeprincipen
+    tr: Zarar ilkesi
+    uk: Принцип шкоди
+    zh: 傷害原則
+aliases:
+- harm principle
+- Kárelv
+- Principio del danno
+- Princípio do dano alheio
+- Prinzip des Schadens
+- schadebeginsel
+- Skadeprincipen
+- Zarar ilkesi
+- Принцип на вредата
+- Принцип шкоди
+- עקרון ההיזק
+- اصل آزار
+- مبدأ الضرر
+- অপকার নীতি
+- ზიანის პრინციპი
+- 傷害原則
+- 危害原理
+- 위해원칙
+---
 #is_/similar_to :: [[Categorical_Imperative]] 
 
 ## #has_/text_of_/abstract 

@@ -1,4 +1,127 @@
-
+---
+has_id_wikidata: Q189725
+dv_has_:
+  name_:
+    ar: بانيني
+    arz: بانينى
+    as: পাণিনি
+    awa: पाणिनी
+    az: Panini
+    be-tarask: Паніні
+    bg: Панини
+    bho: पाणिनि
+    bn: পাণিনি
+    br: Pānini
+    ca: Pànini
+    co: Pānini
+    cs: Pánini
+    da: Panini
+    de: Panini
+    el: Πανίνι
+    en: Panini
+    eo: Panini
+    es: Panini
+    et: Pānini
+    eu: Pāṇini
+    ext: Pānini
+    fa: پانینی
+    fi: Pāṇini
+    fr: Pāṇini
+    gl: Pāṇini
+    gsw: Panini
+    gu: અષ્ટાધ્યાયી
+    he: אסטאדהיאיי
+    hi: पाणिनि
+    hif: Panini
+    hy: Պանինի
+    ia: Pāṇini
+    id: Pāṇini
+    it: Pāṇini
+    ja: パーニニ
+    jv: Pāṇini
+    kn: ಪಾಣಿನಿ
+    ko: 파니니
+    la: Panini
+    lt: Paninis
+    lv: Pāņini
+    mag: पाणिनि
+    mg: Pāṇini
+    mk: Панини
+    ml: പാണിനി
+    mr: पाणिनी
+    nb: Pāṇini
+    ne: पाणिनि
+    new: पाणिनि
+    nl: Pāṇini
+    nn: Panini
+    oc: Pāṇini
+    or: ପାଣିନି
+    pa: ਪਾਣਿਨੀ
+    pl: Panini
+    pnb: پاݨنی
+    ps: پاڼيڼي
+    pt: Pānini
+    pt-br: Pānini
+    ro: Pāṇini
+    ru: Панини
+    sa: पाणिनिः
+    sco: Pāṇini
+    sh: Pāṇini
+    sl: Pāṇini
+    sq: Panini
+    sr: Panini
+    sv: Pāṇini
+    ta: பாணினி
+    te: పాణిని
+    th: ปาณินิ
+    tr: Panini
+    tt: Панини
+    uk: Паніні
+    ur: پانینی
+    vi: Pāṇini
+    wuu: 波你尼
+    yue: 波你尼
+    zh: 波你尼
+    zh-cn: 波你尼
+    zh-hans: 波你尼
+    zh-hant: 波你尼
+    zh-hk: 波你尼
+    zh-sg: 波你尼
+    zh-tw: 波你尼
+aliases:
+- Panini
+- Paninis
+- Pànini
+- Pánini
+- Pānini
+- Pāņini
+- Pāṇini
+- Πανίνι
+- Паніні
+- Панини
+- Պանինի
+- אסטאדהיאיי
+- بانينى
+- بانيني
+- پانینی
+- پاڼيڼي
+- پاݨنی
+- पाणिनि
+- पाणिनिः
+- पाणिनी
+- পাণিনি
+- ਪਾਣਿਨੀ
+- અષ્ટાધ્યાયી
+- ପାଣିନି
+- பாணினி
+- పాణిని
+- ಪಾಣಿನಿ
+- പാണിനി
+- ปาณินิ
+- パーニニ
+- 波你尼
+- 파니니
+---
 # [[Pāṇini]] 
 
 #is_/same_as :: [[WD~Panini,189725]] 

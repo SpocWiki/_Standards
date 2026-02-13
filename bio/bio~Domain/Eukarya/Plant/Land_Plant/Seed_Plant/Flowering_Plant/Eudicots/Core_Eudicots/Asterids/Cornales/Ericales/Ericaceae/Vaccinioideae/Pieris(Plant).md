@@ -1,20 +1,36 @@
 ---
 aliases:
-  - andromeda 
-  - fetterbush 
+- andromeda
+- balteņi
+- Blanqueta (papallona)
+- fehérlepke
+- fetterbush
+- Koalflinters
+- Kålsommarfuglar
+- Pieris
+- Pieris (animal)
+- Огородные белянки
+- فراشة اللهانة
+- فراشة اللهانه
+- پروانههای سپیدباغی
+- თეთრულა
+- モンシロチョウ属
+- 粉蝶属
+- 粉蝶屬
+- 흰나비속
 has_id_wikidata: Q997547
-homonymous_taxon: "[[_Standards/WikiData/WD~Pieris,132967]]"
+homonymous_taxon: '[[_Standards/WikiData/WD~Pieris,132967]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Talbotia,3495779]]"
-  - "[[_Standards/WikiData/WD~Mancipium,100997169]]"
-  - "[[_Standards/WikiData/WD~Ganoris,100997259]]"
-  - "[[_Standards/WikiData/WD~Andropodum,100997288]]"
-  - "[[_Standards/WikiData/WD~Tachyptera,100997614]]"
-  - "[[_Standards/WikiData/WD~Artogeia,100999101]]"
-parent_taxon: "[[_Standards/WikiData/WD~Pierina,21446400]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "188536"
+- '[[_Standards/WikiData/WD~Talbotia,3495779]]'
+- '[[_Standards/WikiData/WD~Mancipium,100997169]]'
+- '[[_Standards/WikiData/WD~Ganoris,100997259]]'
+- '[[_Standards/WikiData/WD~Andropodum,100997288]]'
+- '[[_Standards/WikiData/WD~Tachyptera,100997614]]'
+- '[[_Standards/WikiData/WD~Artogeia,100999101]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pierina,21446400]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 188536
 taxon_name: Pieris
 Commons_gallery: Pieris (Pieridae)
 Commons_category: Pieris (Pieridae)
@@ -24,8 +40,80 @@ UMLS_CUI: C0998454
 NBN_System_Key: NHMSYS0000079574
 taxon_author_citation: Schrank, 1801
 taxon_common_name: bielinek
+dv_has_:
+  name_:
+    af: Pieris
+    an: Pieris
+    ar: فراشة اللهانة
+    arz: فراشة اللهانه
+    ast: Pieris
+    bg: Pieris
+    br: Pieris
+    bs: Pieris
+    ca: Blanqueta (papallona)
+    ceb: Pieris
+    cs: Pieris
+    cy: Pieris
+    da: Pieris
+    de: Pieris
+    en: Pieris
+    eo: Pieris
+    es: Pieris (animal)
+    et: Pieris
+    eu: Pieris
+    ext: Pieris
+    fa: پروانههای سپیدباغی
+    fi: Pieris
+    fr: Pieris
+    fy: Koalflinters
+    ga: Pieris
+    gl: Pieris
+    gsw: Pieris
+    hr: Pieris
+    hu: fehérlepke
+    ia: Pieris
+    id: Pieris
+    ie: Pieris
+    io: Pieris
+    is: Pieris
+    it: Pieris
+    ja: モンシロチョウ属
+    ka: თეთრულა
+    ko: 흰나비속
+    la: Pieris
+    lb: Pieris
+    lmo: Pieris
+    lt: Pieris
+    lv: balteņi
+    mul: Pieris
+    nb: Pieris
+    nds: Pieris
+    nds-nl: Pieris
+    nl: Pieris
+    nn: Kålsommarfuglar
+    oc: Pieris
+    pl: Pieris
+    pms: Pieris
+    pt: Pieris
+    pt-br: Pieris
+    ro: Pieris
+    ru: Огородные белянки
+    sk: Pieris
+    sl: Pieris
+    sq: Pieris
+    sv: Pieris
+    tr: Pieris
+    uk: Pieris
+    vec: Pieris
+    vi: Pieris
+    vo: Pieris
+    wa: Pieris
+    war: Pieris
+    zh: 粉蝶屬
+    zh-cn: 粉蝶属
+    zh-hans: 粉蝶属
+    zh-tw: 粉蝶屬
 ---
-
 # [[Pieris(Plant)]]  
 
 #is_/same_as :: [[WD~Pieris,997547]] 

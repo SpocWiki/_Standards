@@ -1,23 +1,126 @@
 ---
 aliases:
-  - Linguistic anthropology
-  - Linguistic_Anthropology
-  - Linguistic Anthropology
+- anthropologia linguistica
+- anthropologie linguistique
+- antrapoaylleeaght hengoaylleeagh
+- antrolopologi linguistik
+- antropologi linguistik
+- antropologia linguistica
+- antropologia lingwístiko
+- antropologia lingüística
+- antropología lingüística
+- antropolohiyang lingguwistika
+- antropoloxía lingüística
+- antropoloxía llingüística
+- antropołozia linguìstega
+- dilsel antropoloji
+- hizkuntza-antropologia
+- jezikovna antropologija
+- kielâtieđâlâš antropologia
+- lingual antropologio
+- Linguistic anthropology
+- Linguistic_Anthropology
+- linguistische Anthropologie
+- linguística antropológica
+- linguïstische antropologie
+- lingvistická antropologie
+- lingvistihkalaš antropologiija
+- lingvistika antropologio
+- lingvistinen antropologia
+- lingvistisk antropologi
+- lingvistička antropologija
+- linqvistik antropologiya
+- mirovnasiya zimannasiyî
+- Nhân học ngôn ngữ
+- ǩiõlltiõđlaž antropologia
+- ανθρωπολογία της γλώσσας
+- јазична антропологија
+- лінгвістична антропологія
+- лінгвістычная антрапалёгія
+- лінґвістічна антрополоґія
+- лингвистик антропология
+- лингвистическая антропология
+- лингвистичка антропологија
+- אנתרופולוגיה בלשנית
+- انسانشناسی زبانشناختی
+- علم الإنسان اللغوي
+- भाषाई नृविज्ञान
+- மொழியியல் மானிடவியல்
+- 言語人類学
+- 語言人類學
+- 语言人类学
+- 언어인류학
 has_id_wikidata: Q772835
 studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
-  - '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
+- '[[_Standards/WikiData/WD~branch_of_linguistics,135892289]]'
 described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~linguistics,8162]]'
-  - '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
+dv_has_:
+  name_:
+    ar: علم الإنسان اللغوي
+    ast: antropoloxía llingüística
+    az: linqvistik antropologiya
+    be-tarask: лінгвістычная антрапалёгія
+    bjn: antrolopologi linguistik
+    ca: antropologia lingüística
+    cs: lingvistická antropologie
+    de: linguistische Anthropologie
+    el: ανθρωπολογία της γλώσσας
+    en: linguistic anthropology
+    en-ca: linguistic anthropology
+    en-gb: linguistic anthropology
+    eo: lingvistika antropologio
+    es: antropología lingüística
+    eu: hizkuntza-antropologia
+    fa: انسانشناسی زبانشناختی
+    fi: lingvistinen antropologia
+    fr: anthropologie linguistique
+    gl: antropoloxía lingüística
+    gv: antrapoaylleeaght hengoaylleeagh
+    he: אנתרופולוגיה בלשנית
+    hi: भाषाई नृविज्ञान
+    id: antropologi linguistik
+    ig: linguistic anthropology
+    io: lingual antropologio
+    it: antropologia linguistica
+    ja: 言語人類学
+    ko: 언어인류학
+    ku: mirovnasiya zimannasiyî
+    la: anthropologia linguistica
+    mk: јазична антропологија
+    nb: lingvistisk antropologi
+    nl: linguïstische antropologie
+    pap: antropologia lingwístiko
+    pt: linguística antropológica
+    ru: лингвистическая антропология
+    rue: лінґвістічна антрополоґія
+    se: lingvistihkalaš antropologiija
+    sl: jezikovna antropologija
+    smn: kielâtieđâlâš antropologia
+    sms: ǩiõlltiõđlaž antropologia
+    sr: лингвистичка антропологија
+    sr-ec: лингвистичка антропологија
+    sr-el: lingvistička antropologija
+    sv: lingvistisk antropologi
+    ta: மொழியியல் மானிடவியல்
+    tl: antropolohiyang lingguwistika
+    tr: dilsel antropoloji
+    tt: лингвистик антропология
+    uk: лінгвістична антропологія
+    vec: antropołozia linguìstega
+    vi: Nhân học ngôn ngữ
+    yue: 語言人類學
+    zh: 語言人類學
+    zh-hans: 语言人类学
 ---
-
 # [[Linguistic_Anthropology]] 
 
 #is_/same_as :: [[WD~Linguistic_anthropology,772835]] 

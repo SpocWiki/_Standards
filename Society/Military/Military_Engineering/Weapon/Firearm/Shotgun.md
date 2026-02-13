@@ -1,22 +1,92 @@
 ---
 aliases:
-  - Schrotflinte
-  - scattergun
-  - peppergun
-  - fowling piece
-  - Shotgun
+- av tüfeği
+- Bedil pulungan
+- bise
+- Brokovnica
+- brokovnice
+- caçadeira
+- egbe egbe
+- escopeta
+- eskopeta
+- Eskopeto
+- Flinte
+- fowling piece
+- fucile a canna liscia
+- Fusil
+- fusil de chasse
+- Fusiu de caça
+- Fuzuilh flour he c'hanol
+- gunna gráin
+- Gwn haels
+- hagelgevär
+- hagelgeweer
+- Haglabyssa
+- hagle
+- haglgevær
+- haulikko
+- Jachtgewear
+- kartoĉa fusilo
+- Miltiq
+- Mıltıq
+- Paskisikan
+- peppergun
+- Pumppüss
+- Pushka e gjahut
+- pușcă de vânătoare
+- qırma tüfəng
+- Sačmarica
+- scattergun
+- Schrotflinte
+- Sclopetum
+- senapan gentel
+- senapang patah
+- Shotgun
+- strzelba
+- sörétes fegyver
+- šautuvas
+- šibrenica
+- Бу
+- ловджийска пушка
+- милтиқ
+- Мылтық
+- Пăшал
+- ружьё
+- рушниця
+- Саа
+- сачмарица
+- сачмарка
+- стрэльба
+- Топп
+- հրացան
+- שוטגאן
+- بندوق
+- تاپڕ
+- تفنگ ساچمه ای
+- شاٹ گن
+- شوزن
+- شوٹ گَن
+- مىلتىق
+- শটগান
+- வேட்டைத்துப்பாக்கி
+- ปืนลูกซอง
+- დამბაჩა
+- 散弾銃
+- 霰弹枪
+- 霰彈槍
+- 산탄총
 has_id_wikidata: Q486396
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~long_gun,1046481]]'
-  - '[[_Standards/WikiData/WD~smoothbore,1064392]]'
-  - '[[_Standards/WikiData/WD~hunting_gun,125622566]]'
+- '[[_Standards/WikiData/WD~long_gun,1046481]]'
+- '[[_Standards/WikiData/WD~smoothbore,1064392]]'
+- '[[_Standards/WikiData/WD~hunting_gun,125622566]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
 Commons_gallery: Shotgun
 Nomenclature_for_Museum_Cataloging: 8318
@@ -25,8 +95,98 @@ Commons_category: Shotguns
 GS1_GPC_code: 10001872
 IMDb_keyword: shotgun
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Repeterhagelgev%C3%A4r%20-%20Livrustkammaren%20-%2098434%20%28cropped%29.jpg
+dv_has_:
+  name_:
+    ar: شوزن
+    ast: Escopeta
+    atj: Paskisikan
+    az: qırma tüfəng
+    be: стрэльба
+    be-tarask: стрэльба
+    bew: Bedil pulungan
+    bg: ловджийска пушка
+    bn: শটগান
+    br: Fuzuilh flour he c'hanol
+    ca: escopeta
+    ckb: تاپڕ
+    cs: brokovnice
+    cv: Пăшал
+    cy: Gwn haels
+    da: haglgevær
+    de: Flinte
+    en: shotgun
+    en-ca: Shotgun
+    eo: kartoĉa fusilo
+    es: escopeta
+    et: Pumppüss
+    eu: eskopeta
+    fa: تفنگ ساچمه ای
+    fi: haulikko
+    fr: fusil de chasse
+    fy: Jachtgewear
+    ga: gunna gráin
+    gl: Escopeta
+    he: שוטגאן
+    hr: Sačmarica
+    hu: sörétes fegyver
+    hy: հրացան
+    id: senapan gentel
+    ig: egbe egbe
+    io: Eskopeto
+    is: Haglabyssa
+    it: fucile a canna liscia
+    ja: 散弾銃
+    ka: დამბაჩა
+    kk: Мылтық
+    kk-arab: مىلتىق
+    kk-cyrl: Мылтық
+    kk-latn: Mıltıq
+    ko: 산탄총
+    ks: شوٹ گَن
+    la: Sclopetum
+    lfn: Fusil
+    lt: šautuvas
+    lv: bise
+    mk: сачмарка
+    ms: senapang patah
+    nb: haglgevær
+    nl: hagelgeweer
+    nn: hagle
+    oc: Fusiu de caça
+    os: Топп
+    pl: strzelba
+    pt: caçadeira
+    pt-br: escopeta
+    ro: pușcă de vânătoare
+    ru: ружьё
+    sah: Саа
+    sco: shotgun
+    sd: بندوق
+    sh: Sačmarica
+    sk: Brokovnica
+    sl: šibrenica
+    sq: Pushka e gjahut
+    sr: сачмарица
+    sr-ec: сачмарица
+    sr-el: sačmarica
+    sv: hagelgevär
+    ta: வேட்டைத்துப்பாக்கி
+    tg: милтиқ
+    th: ปืนลูกซอง
+    tr: av tüfeği
+    uk: рушниця
+    ur: شاٹ گن
+    uz: Miltiq
+    vi: Shotgun
+    wuu: 霰弹枪
+    xal: Бу
+    yue: 霰彈槍
+    zh: 霰彈槍
+    zh-cn: 霰弹枪
+    zh-hans: 霰弹枪
+    zh-hant: 霰彈槍
+    zh-hk: 霰彈槍
 ---
-
 # [[Shotgun]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Shotgun,486396|WD~Shotgun,486396]]  

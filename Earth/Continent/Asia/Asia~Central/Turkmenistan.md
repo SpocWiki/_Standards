@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 土库曼斯坦
 dv_UNTERM_French_Formal: le Turkménistan
 dv_UNTERM_Russian: Туркменистан
 dv_UNTERM_Russian_Formal: Туркменистан
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Turkmenistan]]"
-dv_Sub-region_Name: "[[Central Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Turkmenistan]]'
+dv_Sub-region_Name: '[[Central Asia]]'
 dv_Region: 142
 dv_Sub-region: 143
 dv_Geoname-ID: 1218197
@@ -53,156 +53,565 @@ dv_ISO2: TM
 dv_ISO3: TKM
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan|Turkmenistan]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.public|Turkmenistan.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal|Turkmenistan.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect|Turkmenistan.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private|Turkmenistan.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]]"
+  - '[[../../../../WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan|Turkmenistan]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.public|Turkmenistan.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal|Turkmenistan.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect|Turkmenistan.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private|Turkmenistan.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]]'
 dv_has_:
   name_:
+    ab: Туркменисҭан
+    ace: Turkmènistan
+    ady: Туркменистан
+    aeb-arab: تركمانستان
+    af: Turkmenistan
+    am: ቱርክመኒስታን
+    ami: Turkmenistan
+    an: Turkmenistán
+    ang: Turcmannland
+    anp: तुर्कमेनिस्तान
+    ar: تركمانستان
+    arc: ܛܘܪܩܡܢܣܛܐܢ
+    ary: توركمانيستان
+    arz: توركمينيستان
+    as: তুৰ্কমেনিস্তান
+    ast: Turkmenistán
+    av: Туркменистан
+    awa: तुर्कमेनिस्तान
+    ay: Turkmin suyu
+    az: Türkmənistan
+    azb: تورکمنیستان
+    ba: Төркмәнстан
+    ban: Turkménistan
+    bar: Tuakmenien
+    bcl: Turkmenistan
+    be: Туркменістан
+    be-tarask: Туркмэністан
+    bew: Turkmènistan
+    bg: Туркменистан
+    bgn: ترکمنستان
+    bho: तुर्कमेनिस्तान
+    bi: Tukmenistan
+    bn: তুর্কমেনিস্তান
+    bo: ཏུརཀ་མེ་ནི་སུཏན།
+    bpy: তুর্কমেনিস্তান
+    br: Turkmenistan
+    brh: Turkamanistán
+    bs: Turkmenistan
+    bug: Turkmenistan
+    bxr: Туркменистан
+    ca: Turkmenistan
+    cbk-zam: Turkmenistan
+    cdo: Turkmenistan
+    ce: Туркмени
+    ceb: Turkmenistan
+    ckb: تورکمانستان
+    co: Turkmenistan
+    crh: Türkmenistan
+    crh-latn: Türkmenistan
+    crh-ro: Túrkmenístan
+    cs: Turkmenistán
+    csb: Turkmenistan
+    cv: Туркменистан
+    cy: Tyrcmenistan
+    da: Turkmenistan
+    dag: TM
+    de: Turkmenistan
+    de-at: Turkmenistan
+    de-ch: Turkmenistan
+    diq: Tırkmenıstan
+    dsb: Turkmeńska
+    dtp: Turkmenistan
+    dty: तुर्कमेनिस्तान
+    dv: ތުރުކުމެނިސްތާން
+    ee: Turkmenistan
+    el: Τουρκμενιστάν
+    en: Turkmenistan
+    en-ca: Turkmenistan
+    en-gb: Turkmenistan
+    eo: Turkmenio
+    es: Turkmenistán
+    et: Türkmenistan
+    eu: Turkmenistan
+    ext: Turkmenistán
+    fa: ترکمنستان
+    ff: Turkmenistan
+    fi: Turkmenistan
+    fo: Turkmenistan
+    fr: Turkménistan
+    frp: Turcmènistan
+    frr: Turkmeenistaan
+    fy: Turkmenistan
+    ga: an Tuircméanastáin
+    gag: Türkmenistan
+    gcr: Tirkménistan
+    gd: Turcmanastàn
+    gl: Turkmenistán
+    glk: تۊرکمنستان
+    gn: Tuykomenitã
+    gom: तुर्कमेनिस्तान
+    gom-deva: तुर्कमेनिस्तान
+    gom-latn: Turkmenistan
+    gpe: Turkmenistan
+    gsw: Turkmenistan
+    gu: તુર્કમેનિસ્તાન
+    gv: Yn Turkmenistaan
+    ha: Turkmenistan
+    hak: Turkmenistan
+    haw: Tukemenikana
+    he: טורקמניסטן
+    hi: तुर्कमेनिस्तान
+    hif: Turkmenistan
+    hr: Turkmenistan
+    hsb: Turkmenistan
+    ht: Tirkmenistan
+    hu: Türkmenisztán
+    hy: Թուրքմենստան
+    hyw: Թուրքմենիստան
+    ia: Turkmenistan
+    id: Turkmenistan
+    ie: Turkmenistan
+    ilo: Turkmenistan
+    io: Turkmenistan
+    is: Túrkmenistan
+    it: Turkmenistan
+    ja: トルクメニスタン
+    jam: Toerkmenistan
+    jv: Turkménistan
+    ka: თურქმენეთი
+    kaa: Túrkmenstan
+    kab: Turkmanistan
+    kbd: Туркменстэн
+    kbp: Turkimenistanɩ
+    kg: Turkmenistan
+    kge: Turkmenistan
+    ki: Turkmenistan
+    kk: Түрікменстан
+    km: តួរមិនីស្ថាន
+    kn: ತುರ್ಕಮೆನಿಸ್ತಾನ್
+    ko: 투르크메니스탄
+    ko-kp: 뚜르크메니스딴
+    krc: Тюркменистан
+    ks: تُرٛکمانستان
+    ku: Tirkmenistan
+    kv: Туркменистан
+    kw: Pow Turkmen
+    ky: Түркмөнстан
+    la: Turcomannia
+    lad: Turkmenistan
+    lb: Turkmenistan
+    lbe: Туркменисттан
+    lez: Туьркменистан
+    lfn: Turcmenistan
+    li: Turkmenistan
+    lij: Turkmenistan
+    lld: Turchmenistan
+    lmo: Turkmenistan
+    ln: Turkmenistáni
+    lo: ເຕີກເມນິສະຖານ
+    lrc: ترکمنستان
+    lt: Turkmėnija
+    lv: Turkmenistāna
+    lzh: 末祿
+    mad: Turkmenistan
+    mai: तुर्कमेनिस्तान
+    mdf: Туркмэнистан
+    mg: Torkmenistàna
+    mhr: Туркменистан
+    mi: Turkmenistan
+    min: Turkmenistan
+    mk: Туркменистан
+    ml: തുർക്മെനിസ്ഥാൻ
+    mn: Туркменистан
+    mni: ꯇꯔꯛꯃꯦꯅꯤꯁ꯭ꯇꯥꯟ
+    mr: तुर्कमेनिस्तान
+    ms: Turkmenistan
+    mt: Turkmenistan
+    my: တာ့ခ်မင်နစ္စတန်နိုင်ငံ
+    myv: Туркмения
+    mzn: ترکمنون
+    na: Turkmenistan
+    nah: Torkmenistan
+    nan: Turkmenistan
+    nb: Turkmenistan
+    nds: Turkmenistan
+    nds-nl: Turkmenistan
+    ne: तुर्कमेनिस्तान
+    new: तर्कमेनिस्तान
+    nl: Turkmenistan
+    nn: Turkmenistan
+    nov: Turkmenistan
+    nv: Naashchʼąąʼ Bidiyogíihnii Bikéyah
+    oc: Turcmenistan
+    olo: Turkmenistuanu
+    om: Tarkimeenistaan
+    or: ତୁର୍କମେନିସ୍ଥାନ
+    os: Туркменистан
+    pa: ਤੁਰਕਮੇਨੀਸਤਾਨ
+    pam: Turkmenistan
+    pap: Turkmenistan
+    pcd: Turkménistan
+    pi: तुर्कमिनिस्थान
+    pih: Terkmenistaan
+    pl: Turkmenistan
+    pms: Turkmenistan
+    pnb: ترکمانستان
+    pnt: Τουρκμενιστάν
+    ps: ترکمنستان
+    pt: Turquemenistão
+    pt-br: Turquemenistão
+    qu: Turkminsuyu
+    rmy: Turkmenistan
+    ro: Turkmenistan
+    ru: Туркменистан
+    rue: Туркменістан
+    rup: Turcmenistan
+    rw: Turukimenisitani
+    sa: तुर्कमिनिस्थान
+    sah: Түркменистаан
+    sat: ᱛᱩᱨᱠᱢᱮᱱᱤᱥᱛᱟᱱ
+    sc: Turkmenistàn
+    scn: Turkmenistan
+    sco: Turkmenistan
+    sd: ترڪمانستان
+    se: Turkmenistan
+    sgs: Torkmienėstans
+    sh: Turkmenistan
+    shn: မိူင်းတၢၵ်ႈမႅၼ်ႇၼီႇသတၼ်ႇ
+    si: තුර්ක්මෙනිස්තානය
+    sk: Turkménsko
+    skr: ترکمانستان
+    sl: Turkmenistan
+    sm: Turkmenistan
+    smn: Turkmenistan
+    sms: Turkmenistaan
+    sn: Turkmenistan
+    so: Turkmenistan
+    sq: Turkmenia
+    sr: Туркменистан
+    sr-ec: Туркменистан
+    sr-el: Turkmenistan
+    ss: IThumekhi
+    su: Turkménistan
+    sv: Turkmenistan
+    sw: Turkmenistan
+    szl: Turkmyńistan
+    szy: Turkmenistan
+    ta: துருக்மெனித்தான்
+    tay: Turkmenistan
+    te: తుర్కమేనిస్తాన్
+    tet: Turkomenistaun
+    tg: Туркманистон
+    th: ประเทศเติร์กเมนิสถาน
+    tk: Türkmenistan
+    tl: Turkmenistan
+    tly: Turkməniston
+    to: Tūkimenisitani
+    tok: ma Sikimen
+    tr: Türkmenistan
+    trv: Turkmenistan
+    tt: Төрекмәнстан
+    tum: Turkmenistan
+    udm: Туркмения
+    ug: تۈركمەنىستان
+    uk: Туркменістан
+    ur: ترکمانستان
+    uz: Turkmaniston
+    vec: Turkmenistan
+    vep: Turkmenistan
+    vi: Turkmenistan
+    vls: Turkmenistan
+    vo: Turkmenän
+    vro: Türkmenistan
+    war: Turkmenistan
+    wo: Turkumenistaan
+    wuu: 土库曼斯坦
+    xal: Йомудин Орн
+    xmf: თურქმენეთი
+    yi: טורקמעניסטאן
+    yo: Turkmẹ́nìstán
+    yue: 土庫曼
+    za: Turkmenistan
+    zea: Toerkmenistan
+    zgh: ⵜⵓⵔⴽⵎⴰⵏⵉⵙⵜⴰⵏ
+    zh: 土庫曼
+    zh-cn: 土库曼斯坦
+    zh-hans: 土库曼斯坦
+    zh-hant: 土庫曼
+    zh-hk: 土庫曼
+    zh-mo: 土庫曼斯坦
+    zh-my: 土库曼斯坦
+    zh-sg: 土库曼斯坦
+    zh-tw: 土庫曼
+    zu: i-Turkmenistan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Turkmenistan
 dv_has_name_de: Turkmenistan
 dv_Area-Total: 488100
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: TM
-dv_Capital: "[[Turkmenistan/Counties/Ahal/City/Ashgabat]]"
+dv_Capital: '[[Turkmenistan/Counties/Ahal/City/Ashgabat]]'
 dv_Alcohol-l: 4.6
 dv_Language-Id: 469
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 58.3333
 dv_has_place_latitude: 37.9667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan|Turkmenistan]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.public|Turkmenistan.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal|Turkmenistan.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect|Turkmenistan.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private|Turkmenistan.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]]"
+- '[[../../../../WikiData/WD~Turkmenistan,874|WD~Turkmenistan,874]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~Central/Turkmenistan|Turkmenistan]]'
+- '[[/_public/Earth/Continent/Asia/Asia~Central/Turkmenistan.public|Turkmenistan.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~Central/Turkmenistan.internal|Turkmenistan.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~Central/Turkmenistan.protect|Turkmenistan.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~Central/Turkmenistan.private|Turkmenistan.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~Central/Turkmenistan.personal|Turkmenistan.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~Central/Turkmenistan.secret|Turkmenistan.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Turkmenistan
-
 aliases:
-  - Turkmenistan
-  - Turkmenistán
-  - Turkménistan
-  - تركمانستان
-  - 土库曼斯坦
-  - Туркменистан
+- an Tuircméanastáin
+- i-Turkmenistan
+- IThumekhi
+- ma Sikimen
+- Naashchʼąąʼ Bidiyogíihnii Bikéyah
+- Pow Turkmen
+- Tarkimeenistaan
+- Terkmenistaan
+- Tirkmenistan
+- Tirkménistan
+- TM
+- Toerkmenistan
+- Torkmenistan
+- Torkmenistàna
+- Torkmienėstans
+- Tuakmenien
+- Tukemenikana
+- Tukmenistan
+- Turchmenistan
+- Turcmanastàn
+- Turcmannland
+- Turcmenistan
+- Turcmènistan
+- Turcomannia
+- Turkamanistán
+- Turkimenistanɩ
+- Turkmanistan
+- Turkmaniston
+- Turkmeenistaan
+- Turkmenia
+- Turkmenio
+- Turkmenistaan
+- Turkmenistan
+- Turkmenistuanu
+- Turkmenistàn
+- Turkmenistán
+- Turkmenistáni
+- Turkmenistāna
+- Turkmenän
+- Turkmeńska
+- Turkmin suyu
+- Turkminsuyu
+- Turkmyńistan
+- Turkmènistan
+- Turkménistan
+- Turkménsko
+- Turkmėnija
+- Turkməniston
+- Turkmẹ́nìstán
+- Turkomenistaun
+- Turkumenistaan
+- Turquemenistão
+- Turukimenisitani
+- Tuykomenitã
+- Tyrcmenistan
+- Túrkmenistan
+- Túrkmenstan
+- Túrkmenístan
+- Türkmenistan
+- Türkmenisztán
+- Türkmənistan
+- Tırkmenıstan
+- Tūkimenisitani
+- Yn Turkmenistaan
+- Τουρκμενιστάν
+- Йомудин Орн
+- Туркманистон
+- Туркменістан
+- Туркмени
+- Туркменистан
+- Туркменисттан
+- Туркменисҭан
+- Туркмения
+- Туркменстэн
+- Туркмэністан
+- Туркмэнистан
+- Туьркменистан
+- Тюркменистан
+- Түрікменстан
+- Түркменистаан
+- Түркмөнстан
+- Төрекмәнстан
+- Төркмәнстан
+- Թուրքմենիստան
+- Թուրքմենստան
+- טורקמניסטן
+- טורקמעניסטאן
+- تركمانستان
+- ترکمانستان
+- ترکمنستان
+- ترکمنون
+- ترڪمانستان
+- توركمانيستان
+- توركمينيستان
+- تورکمانستان
+- تورکمنیستان
+- تُرٛکمانستان
+- تۈركمەنىستان
+- تۊرکمنستان
+- ܛܘܪܩܡܢܣܛܐܢ
+- ތުރުކުމެނިސްތާން
+- तर्कमेनिस्तान
+- तुर्कमिनिस्थान
+- तुर्कमेनिस्तान
+- তুর্কমেনিস্তান
+- তুৰ্কমেনিস্তান
+- ਤੁਰਕਮੇਨੀਸਤਾਨ
+- તુર્કમેનિસ્તાન
+- ତୁର୍କମେନିସ୍ଥାନ
+- துருக்மெனித்தான்
+- తుర్కమేనిస్తాన్
+- ತುರ್ಕಮೆನಿಸ್ತಾನ್
+- തുർക്മെനിസ്ഥാൻ
+- තුර්ක්මෙනිස්තානය
+- ประเทศเติร์กเมนิสถาน
+- ເຕີກເມນິສະຖານ
+- ཏུརཀ་མེ་ནི་སུཏན།
+- တာ့ခ်မင်နစ္စတန်နိုင်ငံ
+- မိူင်းတၢၵ်ႈမႅၼ်ႇၼီႇသတၼ်ႇ
+- თურქმენეთი
+- ቱርክመኒስታን
+- តួរមិនីស្ថាន
+- ᱛᱩᱨᱠᱢᱮᱱᱤᱥᱛᱟᱱ
+- ⵜⵓⵔⴽⵎⴰⵏⵉⵙⵜⴰⵏ
+- トルクメニスタン
+- 土库曼斯坦
+- 土庫曼
+- 土庫曼斯坦
+- 末祿
+- ꯇꯔꯛꯃꯦꯅꯤꯁ꯭ꯇꯥꯟ
+- 뚜르크메니스딴
+- 투르크메니스탄
 has_id_wikidata: Q874
 location:
-  - 37.9667
-  - 58.3333
+- 37.9667
+- 58.3333
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27035
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-country: "[[_Standards/WikiData/WD~Turkmenistan,874]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+country: '[[_Standards/WikiData/WD~Turkmenistan,874]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
 member_of:
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Independent_States,7779]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Organization_of_Turkic_States,596850]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
-  - "[[_Standards/WikiData/WD~Asia_Ashgabat,4806278]]"
+- '[[_Standards/WikiData/WD~UTC+05_00,6806]]'
+- '[[_Standards/WikiData/WD~Asia_Ashgabat,4806278]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-  - "[[_Standards/WikiData/WD~presidential_system,49892]]"
+- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~presidential_system,49892]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Turkmen,9267]]"
-  - "[[_Standards/WikiData/WD~Chagatai,36831]]"
-  - "[[_Standards/WikiData/WD~Northern_Uzbek,1066766]]"
-official_language: "[[_Standards/WikiData/WD~Turkmen,9267]]"
-replaces: "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
+- '[[_Standards/WikiData/WD~Turkmen,9267]]'
+- '[[_Standards/WikiData/WD~Chagatai,36831]]'
+- '[[_Standards/WikiData/WD~Northern_Uzbek,1066766]]'
+official_language: '[[_Standards/WikiData/WD~Turkmen,9267]]'
+replaces: '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Ashgabat,23438]]"
-  - "[[_Standards/WikiData/WD~Ahal_Region,399899]]"
-  - "[[_Standards/WikiData/WD~Balkan_Region,486073]]"
-  - "[[_Standards/WikiData/WD~Lebap_Region,487389]]"
-  - "[[_Standards/WikiData/WD~Daşoguz_Region,487393]]"
-  - "[[_Standards/WikiData/WD~Mary_Region,487401]]"
-capital: "[[_Standards/WikiData/WD~Ashgabat,23438]]"
-anthem: "[[_Standards/WikiData/WD~National_anthem_of_Turkmenistan,26693]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Asia,27275]]"
-part_of: "[[_Standards/WikiData/WD~Central_Asia,27275]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Ashgabat,23438]]'
+- '[[_Standards/WikiData/WD~Ahal_Region,399899]]'
+- '[[_Standards/WikiData/WD~Balkan_Region,486073]]'
+- '[[_Standards/WikiData/WD~Lebap_Region,487389]]'
+- '[[_Standards/WikiData/WD~Daşoguz_Region,487393]]'
+- '[[_Standards/WikiData/WD~Mary_Region,487401]]'
+capital: '[[_Standards/WikiData/WD~Ashgabat,23438]]'
+anthem: '[[_Standards/WikiData/WD~National_anthem_of_Turkmenistan,26693]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Asia,27275]]'
+part_of: '[[_Standards/WikiData/WD~Central_Asia,27275]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 unemployment_rate: 10
 VAT_rate: 15
 marriageable_age: 16
 age_of_majority: 16
 mains_voltage: 220
 BTI_Governance_Index:
-  - 2.2
-  - 1.85
-  - 2.02
-  - 2.19
-  - 2.28
-  - 2.32
-  - 2.41
-  - 2.51
+- 2.2
+- 1.85
+- 2.02
+- 2.19
+- 2.28
+- 2.32
+- 2.41
+- 2.51
 BTI_Status_Index:
-  - 3.2
-  - 2.67
-  - 2.71
-  - 3.14
-  - 3.34
-  - 3.39
-  - 3.45
-  - 3.54
-  - 3.55
+- 3.2
+- 2.67
+- 2.71
+- 3.14
+- 3.34
+- 3.39
+- 3.45
+- 3.54
+- 3.55
 Happy_Planet_Index_score: 33
 water_as_percent_of_area: 4.9
 Democracy_Index: 1.66
-flag: "[[_Standards/WikiData/WD~flag_of_Turkmenistan,41327]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.tm,41824]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Turkmenistan,41327]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tm,41824]]'
 Gini_coefficient: 40.8
 maximum_temperature_record: 50.1
 Inequality_adjusted_Human_Development_Index: 0.619
@@ -211,62 +620,62 @@ literacy_rate: 99.6
 total_fertility_rate: 2.301
 GS1_country_code: 483
 death_rate:
-  - 6.583
-  - 6.585
-  - 6.836
+- 6.583
+- 6.585
+- 6.836
 Dewey_Decimal_Classification: 2--585
 maritime_identification_digits: 434
 UIC_numerical_country_code: 67
 M49_code: 795
 ISO_3166_1_numeric_code: 795
 demonym:
-  - تركمانية
-  - turcman
-  - Turkmen
-  - Turkmène
-  - טורקמנית
-  - türkmén
-  - turkmeno
-  - turcmen
-  - turkmen
-  - turcomana
-  - turcomanu
-  - তুর্কমেন
-  - turcmana
-  - Turkmene
-  - Turkmenin
-  - Turkmenistani
-  - טורקמני
-  - Turkmenistanano
-  - turkmena
-  - turkmene
-  - turkmeni
-  - turkmen
-  - turkmenă
-  - turkmeni
-  - туркменистанец
-  - туркменистанка
-  - туркменистанцы
-  - туркман
-  - turkmena
-  - turkmene
-  - Turkmenänan
-  - توركماني
-  - توركمانية
-  - توركمانيين
-  - توركمانيات
-  - turcomannicus
-  - Tuircméanastánach
-  - تركمان
-  - تركماني
-  - turcmans
-  - ترکمن
-  - turkmeni
+- تركمانية
+- turcman
+- Turkmen
+- Turkmène
+- טורקמנית
+- türkmén
+- turkmeno
+- turcmen
+- turkmen
+- turcomana
+- turcomanu
+- তুর্কমেন
+- turcmana
+- Turkmene
+- Turkmenin
+- Turkmenistani
+- טורקמני
+- Turkmenistanano
+- turkmena
+- turkmene
+- turkmeni
+- turkmen
+- turkmenă
+- turkmeni
+- туркменистанец
+- туркменистанка
+- туркменистанцы
+- туркман
+- turkmena
+- turkmene
+- Turkmenänan
+- توركماني
+- توركمانية
+- توركمانيين
+- توركمانيات
+- turcomannicus
+- Tuircméanastánach
+- تركمان
+- تركماني
+- turcmans
+- ترکمن
+- turkmeni
 birth_rate:
-  - 20.755
-  - 21.592
-  - 22.294
-  - 23.055
+- 20.755
+- 21.592
+- 22.294
+- 23.055
 mobile_country_code: 438
 area: 491210
 life_expectancy: 67.835
@@ -277,65 +686,65 @@ GitHub_topic: turkmenistan
 Commons_gallery: Türkmenistan
 IPA_transcription: tʉɾkˈmeːnɪstɑːn
 native_label:
-  - Türkmenistan
-  - Türkmenistan Respublikasi
+- Türkmenistan
+- Türkmenistan Respublikasi
 official_name: Türkmenistan
-short_name: 🇹🇲
+short_name: "\U0001F1F9\U0001F1F2"
 coordinates_of_northernmost_point: Point(58.63 42.78)
 coordinates_of_easternmost_point: Point(66.7065125 37.92112)
 coordinates_of_westernmost_point: Point(52.4517518 41.7635725)
-coat_of_arms: "[[_Standards/WikiData/WD~emblem_of_Turkmenistan,201128]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Turkmenistan,245804]]"
-lowest_point: "[[_Standards/WikiData/WD~Turan_Depression,575516]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Turkmenistan,610927]]"
-highest_point: "[[_Standards/WikiData/WD~Aýrybaba,794684]]"
+coat_of_arms: '[[_Standards/WikiData/WD~emblem_of_Turkmenistan,201128]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Turkmenistan,245804]]'
+lowest_point: '[[_Standards/WikiData/WD~Turan_Depression,575516]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Turkmenistan,610927]]'
+highest_point: '[[_Standards/WikiData/WD~Aýrybaba,794684]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759]]"
-different_from: "[[_Standards/WikiData/WD~Turkestan,1315785]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Turkmenistan,1155759]]'
+different_from: '[[_Standards/WikiData/WD~Turkestan,1315785]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Turkmenistan,2045221]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Turkmenistan,2351005]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Turkmenistan,2496274]]"
-public_holiday: "[[_Standards/WikiData/WD~Melon_Day,4158215]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Turkmenistan,4504283]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Turkmenistan,7112496]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7978509,7978509]]"
-category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q7981634,7981634]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Turkmenistan,14614994]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103822,27103822]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-head_of_state: "[[_Standards/WikiData/WD~Serdar_Berdimuhamedow,51874548]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Council_of_Turkmenistan,106506537]]"
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Turkmenistan,2045221]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Turkmenistan,2351005]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Turkmenistan,2496274]]'
+public_holiday: '[[_Standards/WikiData/WD~Melon_Day,4158215]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Turkmenistan,4504283]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Turkmenistan,7112496]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7978509,7978509]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981634,7981634]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Turkmenistan,14614994]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103822,27103822]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+head_of_state: '[[_Standards/WikiData/WD~Serdar_Berdimuhamedow,51874548]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Council_of_Turkmenistan,106506537]]'
 UMLS_CUI: C0041403
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ashgabat%20from%20Arch%20of%20Neutrality%20%2841652998734%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Historical%20turkmen%20wedding%20of%20the%20bride.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/View%20of%20Ashgabat%20from%20Arch%20of%20Neutrality%20%2841652998734%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Historical%20turkmen%20wedding%20of%20the%20bride.jpg
 MeSH_tree_code:
-  - Z01.252.100.940
-  - Z01.586.200.940
+- Z01.252.100.940
+- Z01.586.200.940
 coordinate_location: Point(60.0 39.0)
 coordinates_of_southernmost_point: Point(62.3136979 35.1378165)
 IAB_code: 1463
 OmegaWiki_Defined_Meaning: 8294
 INSEE_countries_and_foreign_territories_code: 99260
 male_population:
-  - 3185860
-  - 3050231
-  - 3096157
-  - 3141729
+- 3185860
+- 3050231
+- 3096157
+- 3141729
 urban_population:
-  - 3282480
-  - 3205334
-  - 3361056
-  - 3440076
+- 3282480
+- 3205334
+- 3361056
+- 3440076
 ITU_letter_code: TKM
 IOC_country_code: TKM
 ISO_3166_1_alpha_3_code: TKM
@@ -345,18 +754,18 @@ UIC_alphabetical_country_code: TM
 licence_plate_code: TM
 ISO_3166_1_alpha_2_code: TM
 rural_population:
-  - 2953086
-  - 2967958
-  - 2980799
-  - 2990694
+- 2953086
+- 2967958
+- 2980799
+- 2990694
 female_population:
-  - 3108189
-  - 3154282
-  - 3200126
-  - 3244911
+- 3108189
+- 3154282
+- 3200126
+- 3244911
 population: 6117933
 FIPS_10_4_countries_and_regions_: TX
-Unicode_character: 🇹🇲
+Unicode_character: "\U0001F1F9\U0001F1F2"
 hashtag: Turkmenistan
 subreddit: Turkmenistan
 Commons_category: Turkmenistan
@@ -368,35 +777,34 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Turkm
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Turkmenistan%20banner%20Carpets%202.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Turkmenistan%20on%20the%20globe%20%28Turkmenistan%20centered%29.svg
 official_website:
-  - http://www.turkmenistan.gov.tm/
-  - http://www.turkmenistan.gov.tm/_eng/
+- http://www.turkmenistan.gov.tm/
+- http://www.turkmenistan.gov.tm/_eng/
 country_calling_code: 993
 U_S_National_Archives_Identifier: 10045272
 RIA_Novosti_reference:
-  - 57472808
-  - 57490365
+- 57472808
+- 57490365
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Turkmenistan
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - tk
-  - ru
-  - uz
+- tk
+- ru
+- uz
 icon: flag-tm
 ---
-
 # [[Turkmenistan]] 
 
 ## [[Turkmenistan]] has Properties...

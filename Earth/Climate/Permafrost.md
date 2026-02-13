@@ -1,59 +1,209 @@
 ---
 aliases:
+- Abadiy muzloq yer
+- amžinasis įšalas
+- congelatio aeterna
+- Donmuş toprak
+- Geokriologiya
+- ibun abadi
+- Igikelts
+- ikirouta
+- Mäñgi toñ
+- Mūžīgais sasalums
+- omžėns šalmenis
+- pergelisòl
+- pergélisol
+- Permafros
+- permafrost
+- permafroszt
+- Permafròst
+- Pèmafwòs
+- rhew parhaol
+- talamh shíorshioctha
+- tầng đất đóng băng vĩnh cửu
+- Wieczna zmarzlina
+- Ysgrond
+- Éng-kiú tòng-thó͘
+- ĉiamfrosta grundo
+- Ĕмĕрхи шăнлăх
+- Μόνιμα παγωμένο έδαφος
+- багаторічна мерзлота
+- вечен мраз
+- Вечна замръзналост
+- вечная мерзлата
+- вечная мярзьліна
+- Ирбэт тоҥ
+- Көп жылдык тоң
+- многолетняя мерзлота
+- Мүнхэ сэбдэг
+- Мәңгі тоң
+- Пермафрост
+- шунасьтэм кын инты
+- Հավերժական սառցույթ
+- קפאת-עד
+- أرض جمودية
+- زیرلایخی
+- ماڭگى توڭ
+- پرما فراسٹ
+- پرمافراسٽ
+- پەرمافرۆست
+- पर्माफ़्रोस्ट
+- पर्माफ्रॉस्ट
+- நிலத்தடி உறைபனி
+- නිත්ය තුහින
+- ชั้นดินเยือกแข็งคงตัว
+- მრავალწლოვანი მზრალობა
+- 永久冻土
+- 永久凍土
+- 영구동토
 has_id_wikidata: Q179918
 associated_hazard:
-  - "[[_Standards/WikiData/WD~climate_change,125928]]"
-  - "[[_Standards/WikiData/WD~global_warming,7942]]"
+- '[[_Standards/WikiData/WD~climate_change,125928]]'
+- '[[_Standards/WikiData/WD~global_warming,7942]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~geocryology,1102535]]"
-  - "[[_Standards/WikiData/WD~cryostratigraphy,117613435]]"
-subclass_of: "[[_Standards/WikiData/WD~cryolitic_zone,2641527]]"
+- '[[_Standards/WikiData/WD~geocryology,1102535]]'
+- '[[_Standards/WikiData/WD~cryostratigraphy,117613435]]'
+subclass_of: '[[_Standards/WikiData/WD~cryolitic_zone,2641527]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Permafrost,7169190]]"
-instance_of: "[[_Standards/WikiData/WD~soil_type,10926413]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Permafrost,7169190]]'
+instance_of: '[[_Standards/WikiData/WD~soil_type,10926413]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 country:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-OmegaWiki_Defined_Meaning: "8520"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+OmegaWiki_Defined_Meaning: 8520
 Commons_category: Permafrost
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Birch%20Creek%20permafrost.jpg
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Warum%20ist%20Permafrost%20wichtig%3F.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Was%20ist%20ein%20Permafrostboden%3F.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Warum%20ist%20Permafrost%20wichtig%3F.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Was%20ist%20ein%20Permafrostboden%3F.webm
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000134
 Dewey_Decimal_Classification:
-  - "551.384"
-  - "624.15136"
+- 551.384
+- 624.15136
 MeSH_tree_code:
-  - G01.311.820.500
-  - G16.500.275.157.718.500
-  - G16.500.275.815.500
-  - N06.230.124.531.500
-  - N06.230.600.500
+- G01.311.820.500
+- G16.500.275.157.718.500
+- G16.500.275.815.500
+- N06.230.124.531.500
+- N06.230.600.500
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Permafrost,179918]]"
-    - "[[/_Standards/Earth/Climate/Permafrost|Permafrost]]"
-    - "[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]"
-    - "[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]"
-    - "[[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]]"
-    - "[[/_private/Earth/Climate/Permafrost.private|Permafrost.private]]"
-    - "[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]"
-    - "[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]"
+  - '[[../../WikiData/WD~Permafrost,179918]]'
+  - '[[/_Standards/Earth/Climate/Permafrost|Permafrost]]'
+  - '[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]'
+  - '[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]'
+  - '[[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]]'
+  - '[[/_private/Earth/Climate/Permafrost.private|Permafrost.private]]'
+  - '[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]'
+  - '[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Permafrost,179918]]"
-  - "[[/_Standards/Earth/Climate/Permafrost|Permafrost]]"
-  - "[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]"
-  - "[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]"
-  - "[[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]]"
-  - "[[/_private/Earth/Climate/Permafrost.private|Permafrost.private]]"
-  - "[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]"
-  - "[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]"
+- '[[../../WikiData/WD~Permafrost,179918]]'
+- '[[/_Standards/Earth/Climate/Permafrost|Permafrost]]'
+- '[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]'
+- '[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]'
+- '[[/_protect/Earth/Climate/Permafrost.protect|Permafrost.protect]]'
+- '[[/_private/Earth/Climate/Permafrost.private|Permafrost.private]]'
+- '[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]'
+- '[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]'
+dv_has_:
+  name_:
+    af: Ysgrond
+    ar: أرض جمودية
+    ast: Permafrost
+    az: Geokriologiya
+    be: вечная мерзлата
+    be-tarask: вечная мярзьліна
+    bg: Вечна замръзналост
+    bho: पर्माफ्रॉस्ट
+    bxr: Мүнхэ сэбдэг
+    ca: pergelisòl
+    ckb: پەرمافرۆست
+    cs: permafrost
+    cv: Ĕмĕрхи шăнлăх
+    cy: rhew parhaol
+    da: Permafrost
+    de: Permafrost
+    el: Μόνιμα παγωμένο έδαφος
+    en: permafrost
+    eo: ĉiamfrosta grundo
+    es: permafrost
+    et: Igikelts
+    eu: Permafrost
+    ext: Permafrost
+    fa: زیرلایخی
+    fi: ikirouta
+    fr: pergélisol
+    fy: Permafrost
+    ga: talamh shíorshioctha
+    gl: Permafrost
+    he: קפאת-עד
+    hi: पर्माफ़्रोस्ट
+    hr: Permafrost
+    ht: Pèmafwòs
+    hu: permafroszt
+    hy: Հավերժական սառցույթ
+    id: ibun abadi
+    it: permafrost
+    ja: 永久凍土
+    ka: მრავალწლოვანი მზრალობა
+    kk: Мәңгі тоң
+    kk-arab: ماڭگى توڭ
+    kk-cn: ماڭگى توڭ
+    kk-cyrl: Мәңгі тоң
+    kk-kz: Мәңгі тоң
+    kk-latn: Mäñgi toñ
+    kk-tr: Mäñgi toñ
+    ko: 영구동토
+    ky: Көп жылдык тоң
+    la: congelatio aeterna
+    li: Permafros
+    lt: amžinasis įšalas
+    lv: Mūžīgais sasalums
+    mk: вечен мраз
+    ms: Ibun abadi
+    nan: Éng-kiú tòng-thó͘
+    nb: permafrost
+    nl: permafrost
+    nn: permafrost
+    oc: Permafròst
+    pl: Wieczna zmarzlina
+    pt: permafrost
+    ro: Permafrost
+    ru: многолетняя мерзлота
+    sah: Ирбэт тоҥ
+    sco: permafrost
+    sd: پرمافراسٽ
+    sgs: omžėns šalmenis
+    sh: Permafrost
+    si: නිත්ය තුහින
+    sk: Permafrost
+    sl: permafrost
+    sr: Пермафрост
+    sr-ec: Пермафрост
+    sr-el: Permafrost
+    sv: permafrost
+    ta: நிலத்தடி உறைபனி
+    th: ชั้นดินเยือกแข็งคงตัว
+    tr: Donmuş toprak
+    udm: шунасьтэм кын инты
+    uk: багаторічна мерзлота
+    ur: پرما فراسٹ
+    uz: Abadiy muzloq yer
+    vi: tầng đất đóng băng vĩnh cửu
+    wuu: 永久冻土
+    yue: 永久凍土
+    zh: 永久冻土
+    zh-cn: 永久冻土
+    zh-hans: 永久冻土
+    zh-hant: 永久凍土
+    zh-hk: 永久凍土
+    zh-sg: 永久冻土
+    zh-tw: 永久凍土
 ---
 # [[Permafrost]] 
 

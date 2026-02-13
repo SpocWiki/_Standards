@@ -1,13 +1,66 @@
 ---
 aliases:
-  - Gnathostomata
-  - Gnath
+- Ağızçənəlilər
+- Biyaatsʼiin Dahólónígíí
+- Chiiferdier
+- Gerçekçeneliler
+- Gnath
+- Gnathostomata
+- Gnatostomados
+- gnatostomats
+- Gnatostomatu
+- Gnatostomi
+- Gnatóstomos
+- Kaakdieren
+- Kiefermäuler
+- kjevemunnar
+- kjevemunner
+- Kjálkadýr
+- käkförsedda ryggradsdjur
+- leualliset selkärankaiset
+- Makzelulo
+- Tjaapdiarten
+- állkapcsosok
+- čelistnatci
+- čeljustouste
+- čeljustousti
+- čeľustnatce
+- động vật có quai hàm
+- żuchwowce
+- Žokļaiņi
+- Γναθοστόματα
+- Башсөяклеләр
+- Башһөйәклеләр
+- вилични ’рбетници
+- Жақ ауыздылар
+- Онгылашлуанвлӓ
+- сківіцаротыя
+- Сківічнаротыя
+- Чељустоусте
+- челюстни
+- челюстноротые
+- щелепні
+- Янахла çăварли
+- חולייתנים לסתניים
+- آروارهداران
+- آغیزچنهلیلر
+- فكيات
+- હનુધારી
+- నేతోస్టొమాటా
+- ყბიანები
+- 有頜下門
+- 有頜動物
+- 有頜類
+- 有颌下门
+- 有颌类
+- 顎口上綱
+- 유악류
 has_id_wikidata: Q26214
 Commons_category: Gnathostomata
 homonymous_taxon: '[[_Standards/WikiData/WD~Gnathostomata,1011198]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Orca-Sch%C3%A4del.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Orca-Sch%C3%A4del.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 914179
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gnathostomata.jpg
@@ -16,12 +69,131 @@ taxon_name: Gnathostomata
 taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851]]'
 title: Gnathostomata
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Gnathostomata,6199302]]'
-  - '[[_Standards/WikiData/WD~Template_Gnathostomata,105613651]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Gnathostomata,6199302]]'
+- '[[_Standards/WikiData/WD~Template_Gnathostomata,105613651]]'
 UMLS_CUI: C0998765
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    af: Gnathostomata
+    an: Gnathostomata
+    ar: فكيات
+    arz: فكيات
+    ast: Gnathostomata
+    az: Ağızçənəlilər
+    azb: آغیزچنهلیلر
+    ba: Башһөйәклеләр
+    bar: Gnathostomata
+    be: Сківічнаротыя
+    be-tarask: сківіцаротыя
+    bg: челюстни
+    br: Gnathostomata
+    ca: gnatostomats
+    ceb: Gnathostomata
+    co: Gnathostomata
+    cs: čelistnatci
+    cv: Янахла çăварли
+    cy: Gnathostomata
+    da: Gnathostomata
+    de: Kiefermäuler
+    de-at: Gnathostomata
+    de-ch: Kiefermäuler
+    el: Γναθοστόματα
+    en: Gnathostomata
+    en-ca: Gnathostomata
+    en-gb: Gnathostomata
+    eo: Makzelulo
+    es: Gnathostomata
+    et: Gnathostomata
+    eu: Gnatostomatu
+    ext: Gnathostomata
+    fa: آروارهداران
+    fi: leualliset selkärankaiset
+    fr: Gnathostomata
+    frp: Gnathostomata
+    frr: Tjaapdiarten
+    fur: Gnathostomata
+    fy: Kaakdieren
+    ga: Gnathostomata
+    gd: Gnathostomata
+    gl: Gnatóstomos
+    gsw: Chiiferdier
+    gu: હનુધારી
+    gv: Gnathostomata
+    he: חולייתנים לסתניים
+    hr: čeljustouste
+    hu: állkapcsosok
+    ia: Gnathostomata
+    id: Gnathostomata
+    ie: Gnathostomata
+    io: Gnathostomata
+    is: Kjálkadýr
+    it: Gnathostomata
+    ja: 顎口上綱
+    ka: ყბიანები
+    kg: Gnathostomata
+    kk: Жақ ауыздылар
+    ko: 유악류
+    la: Gnathostomata
+    lb: Gnathostomata
+    li: Gnathostomata
+    lij: Gnathostomata
+    lv: Žokļaiņi
+    mg: Gnathostomata
+    min: Gnathostomata
+    mk: вилични ’рбетници
+    mrj: Онгылашлуанвлӓ
+    ms: Gnathostomata
+    mul: Gnathostomata
+    nap: Gnathostomata
+    nb: kjevemunner
+    nds: Gnathostomata
+    nds-nl: Gnathostomata
+    nl: kaakdieren
+    nn: kjevemunnar
+    nrm: Gnathostomata
+    nv: Biyaatsʼiin Dahólónígíí
+    nys: Gnathostomata
+    oc: Gnatostomats
+    pcd: Gnathostomata
+    pl: żuchwowce
+    pms: Gnathostomata
+    pt: Gnathostomata
+    pt-br: Gnatostomados
+    rm: Gnathostomata
+    ro: Gnathostomata
+    ru: челюстноротые
+    sc: Gnathostomata
+    scn: Gnatostomi
+    sco: Gnathostomata
+    sh: Čeljustouste
+    sk: čeľustnatce
+    sl: čeljustousti
+    sq: Gnathostomata
+    sr: Чељустоусте
+    sv: käkförsedda ryggradsdjur
+    sw: Gnathostomata
+    te: నేతోస్టొమాటా
+    tl: Gnathostomata
+    tr: Gerçekçeneliler
+    tt: Башсөяклеләр
+    uk: щелепні
+    vec: Gnathostomata
+    vi: động vật có quai hàm
+    vls: Gnathostomata
+    vo: Gnathostomata
+    wa: Gnathostomata
+    war: Gnathostomata
+    wo: Gnathostomata
+    wuu: 有颌类
+    yue: 有頜動物
+    zh: 有頜下門
+    zh-cn: 有颌下门
+    zh-hans: 有颌下门
+    zh-hant: 有頜類
+    zh-tw: 有頜下門
+    zu: Gnathostomata
 ---
-
 # Gnathostomata 
 
 #is_/instance_of :: [[../../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum]]  

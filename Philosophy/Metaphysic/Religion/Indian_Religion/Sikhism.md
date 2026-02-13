@@ -1,25 +1,134 @@
 ---
-has_time_started: 1469-01-01 
+has_time_started: 1469-01-01
 aliases:
-  - Sikhismus
-  - Sikhism
+- an Saíceachas
+- Kalasinga
+- nasin sewi Siki
+- religio Sikiensis
+- Siak-khiet-kau
+- Siciaeth
+- Sicisme
+- Sihismo
+- Sihizm
+- Sihizmo
+- Sihkâpen
+- Siikhismi
+- Siikism
+- Siikizim
+- Sijismo
+- Sijismu
+- Sik
+- Sikh
+- Sikh giáo
+- Sikh-kàu
+- Sikhaghys
+- Sikhegezh
+- sikhiläisyys
+- Sikhisim
+- Sikhism
+- Sikhisma
+- sikhisme
+- Sikhismen
+- sikhismo
+- sikhisms
+- Sikhismu
+- Sikhismus
+- Sikhizam
+- sikhizem
+- Sikhizm
+- Sikhizmas
+- Sikhizmus
+- Sikhîsum
+- Sikime
+- Sikisim
+- Sikism
+- Sikisma
+- Sikismo
+- Sikizam
+- Sikxizm
+- Sikėzmos
+- Siqhizm
+- Siquismo
+- Sjiisme
+- szikhizmus
+- Síki jerovia
+- síkismi
+- Sîkhîzm
+- Sɩkɩsmɩ
+- Usikhi
+- Σιχισμός
+- Сікгізм
+- сікхізм
+- сикизам
+- Сикх шажан
+- Сикхізм
+- сикхизм
+- Сикхизмась
+- Сикхизъм
+- Сикхчылык
+- Сикҳизм
+- Сыкхізм
+- Սիխ եւ Սիխիզմ
+- սիկհիզմ
+- סיקהיזם
+- סיקיזם
+- سيخ
+- سيخية
+- سِكھ مَت
+- سک مت
+- سکهيزم
+- سکھ مت
+- سیک
+- سیک دین
+- سیکیزم
+- ސިކުންގެދީން
+- शीख धर्म
+- सिक्खमतम्
+- सिख
+- सिख धर्म
+- सिखधरम
+- सिखमत
+- শিখ ধৰ্ম
+- শিখ লিচেত
+- শিখধর্ম
+- ਸਿੱਖ ਧਰਮ
+- શીખ ધર્મ
+- ଶିଖ ଧର୍ମ
+- சீக்கியம்
+- సిక్కుమతం
+- ಸಿಖ್ ಧರ್ಮ
+- സിഖ് മതം
+- සික් ධර්මය
+- ศาสนาซิกข์
+- ສາສະໜາຊິກ
+- སིག་གི་ཆོས་ལུགས།
+- ဆစ်ခ်ဘာသာ
+- သစ်ခ်ဘာႏသာႏ
+- သိခဘာသာ
+- ၸၢဝ်းသိၵ်ႉၶ်
+- სიქიზმი
+- ᱥᱤᱠᱷ ᱫᱷᱚᱨᱚᱢ
+- シク教
+- 錫克教
+- 锡克教
+- 시크교
 has_id_wikidata: Q9316
 founded_by: '[[_Standards/WikiData/WD~Guru_Nanak,83322]]'
 foundational_text: '[[_Standards/WikiData/WD~Guru_Granth_Sahib,203249]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~bhakti,507417]]'
-  - '[[_Standards/WikiData/WD~pantheism,728455]]'
-  - '[[_Standards/WikiData/WD~monotheism,9159]]'
+- '[[_Standards/WikiData/WD~bhakti,507417]]'
+- '[[_Standards/WikiData/WD~pantheism,728455]]'
+- '[[_Standards/WikiData/WD~monotheism,9159]]'
 practiced_by: '[[_Standards/WikiData/WD~Sikh,582779]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~Indian_religions,1651597]]'
-  - '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
+- '[[_Standards/WikiData/WD~Indian_religions,1651597]]'
+- '[[_Standards/WikiData/WD~monotheistic_religion,19842652]]'
 part_of: '[[_Standards/WikiData/WD~Bhakti_movement,2914617]]'
 named_after: '[[_Standards/WikiData/WD~guru_shishya_tradition,5620325]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~major_religious_group,6957341]]'
-  - '[[_Standards/WikiData/WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~major_religious_group,6957341]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Sikhism,7112450]]'
 ethnic_group: '[[_Standards/WikiData/WD~polyethnicity,7226311]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sikhism,11510351]]'
@@ -43,8 +152,191 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "SikhismEstablished"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SIKHIZM.html
 IPTC_NewsCode: mediatopic/20000684
 OpenStreetMap_tag: religion=sikh
+dv_has_:
+  name_:
+    af: Sikhisme
+    an: Sikhismo
+    anp: सिख धर्म
+    ar: سيخية
+    ary: سيخية
+    arz: سيخ
+    as: শিখ ধৰ্ম
+    ast: Sikhismu
+    awa: सिख
+    az: Siqhizm
+    azb: سیکیزم
+    ba: Сикхизм
+    be: сікхізм
+    be-tarask: Сыкхізм
+    bew: Sik
+    bg: Сикхизъм
+    bho: सिख धर्म
+    bi: Sikisim
+    blk: သစ်ခ်ဘာႏသာႏ
+    bn: শিখধর্ম
+    bo: སིག་གི་ཆོས་ལུགས།
+    bpy: শিখ লিচেত
+    br: Sikhegezh
+    bs: Sikizam
+    btm: Sikhisme
+    bxr: Сикх шажан
+    ca: sikhisme
+    ce: Сикхизм
+    ceb: Sihismo
+    ckb: سیکیزم
+    crh: Sikhizm
+    cs: Sikhismus
+    cy: Siciaeth
+    da: Sikhisme
+    de: Sikhismus
+    dv: ސިކުންގެދީން
+    el: Σιχισμός
+    eml: Sikhîsum
+    en: Sikhism
+    en-ca: Sikhism
+    en-gb: Sikhism
+    eo: Sikismo
+    es: Sijismo
+    et: Sikhism
+    eu: Sikhismo
+    ext: Sijismu
+    fa: سیک
+    fi: sikhiläisyys
+    fo: Sikhisma
+    fr: sikhisme
+    frp: Siquismo
+    fur: Sikhisim
+    fy: Sikhisme
+    ga: an Saíceachas
+    gcr: Sikism
+    gl: Sikhismo
+    gn: Síki jerovia
+    gsw: Sikhismus
+    gu: શીખ ધર્મ
+    gv: Sikhaghys
+    ha: Sikh
+    hak: Siak-khiet-kau
+    he: סיקיזם
+    hi: सिखमत
+    hif: Sikhism
+    hr: Sikhizam
+    hu: szikhizmus
+    hy: սիկհիզմ
+    hyw: Սիխ եւ Սիխիզմ
+    ia: sikhismo
+    id: Sikhisme
+    ilo: Sikhismo
+    is: síkismi
+    it: sikhismo
+    ja: シク教
+    jam: Siikizim
+    jv: Sikhisme
+    ka: სიქიზმი
+    kaa: sikxizm
+    kbp: Sɩkɩsmɩ
+    kk: Сикхизм
+    kn: ಸಿಖ್ ಧರ್ಮ
+    knc: Sikhism
+    ko: 시크교
+    ks: سِكھ مَت
+    ku: Sîkhîzm
+    la: religio Sikiensis
+    lad: Sihizmo
+    lfn: Sicisme
+    li: Sikhisme
+    lmo: Sikhismo
+    lo: ສາສະໜາຊິກ
+    lt: Sikhizmas
+    lv: sikhisms
+    mag: सिखधरम
+    mai: सिख धर्म
+    mdf: Сикхизмась
+    mg: Sikisma
+    mk: сикизам
+    ml: സിഖ് മതം
+    mn: Сикхизм
+    mnw: သိခဘာသာ
+    mr: शीख धर्म
+    ms: Sikhisme
+    mwl: Sikhismo
+    my: ဆစ်ခ်ဘာသာ
+    mzn: سیک دین
+    nan: Sikh-kàu
+    nb: sikhisme
+    nds: Sikhismus
+    ne: सिख धर्म
+    new: सिख धर्म
+    nl: sikhisme
+    nn: Sikhismen
+    oc: Sikhisme
+    or: ଶିଖ ଧର୍ମ
+    os: сикхизм
+    pa: ਸਿੱਖ ਧਰਮ
+    pcd: Sikime
+    pih: Siikism
+    pl: Sikhizm
+    pms: Sikhism
+    pnb: سکھ مت
+    ps: سکهيزم
+    pt: Sikhismo
+    pt-br: Sikhismo
+    rki: ဆစ်ခ်ဘာသာ
+    rmy: Sihkâpen
+    ro: Sikhism
+    ru: сикхизм
+    rue: Сікгізм
+    sa: सिक्खमतम्
+    sah: Сикхизм
+    sat: ᱥᱤᱠᱷ ᱫᱷᱚᱨᱚᱢ
+    sco: Sikhism
+    sd: سک مت
+    sgs: Sikėzmos
+    sh: sikizam
+    shn: ၸၢဝ်းသိၵ်ႉၶ်
+    si: සික් ධර්මය
+    sk: Sikhizmus
+    skr: سکھ مت
+    sl: sikhizem
+    sn: Usikhi
+    so: Siikhismi
+    sq: Sikh
+    sr: сикизам
+    sr-ec: сикизам
+    sr-el: sikizam
+    sv: Sikhism
+    sw: Kalasinga
+    ta: சீக்கியம்
+    te: సిక్కుమతం
+    tg-cyrl: Сикҳизм
+    th: ศาสนาซิกข์
+    tl: Sikhismo
+    tly: Sikxizm
+    tok: nasin sewi Siki
+    tr: Sihizm
+    tt: Сикхчылык
+    udm: сикхизм
+    uk: Сикхізм
+    ur: سکھ مت
+    uz: Sikhizm
+    vep: Sikhizm
+    vi: Sikh giáo
+    vls: Sjiisme
+    vro: Sikhism
+    war: Sikhismo
+    wuu: 锡克教
+    xmf: სიქიზმი
+    yi: סיקהיזם
+    yue: 錫克教
+    zh: 锡克教
+    zh-cn: 锡克教
+    zh-hans: 锡克教
+    zh-hant: 錫克教
+    zh-hk: 錫克教
+    zh-mo: 錫克教
+    zh-my: 锡克教
+    zh-sg: 锡克教
+    zh-tw: 錫克教
 ---
-
 # [[Sikhism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sikhism,9316|WD~Sikhism,9316]]  

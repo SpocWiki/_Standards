@@ -1,4 +1,251 @@
-
+---
+has_id_wikidata: Q9645
+dv_has_:
+  name_:
+    af: bors
+    ak: kukum
+    an: tórax
+    ar: صدر
+    arc: ܚܕܝܐ
+    as: থ’ৰাক্স
+    ast: tórax
+    av: керен
+    az: toraks
+    bcl: toraks
+    be: торакс
+    be-tarask: торакс
+    bew: dada
+    bg: гръден кош
+    bjn: dada
+    bn: বক্ষ
+    bo: བྲང་ཁོག
+    br: bruched
+    ca: tors
+    cdo: sĭng-găng
+    ckb: سینگ
+    cs: hrudník
+    cy: thoracs
+    da: brystkasse
+    de: Thorax
+    ee: acota
+    el: θώρακας
+    en: thorax
+    eo: brusto
+    es: torso
+    et: rind
+    eu: torax
+    fa: سینه
+    fi: rinta
+    fr: torse
+    ga: tóracs
+    gan: 胸
+    gd: broilleach
+    gl: tórax
+    gn: pyti'a
+    gor: duhelo
+    gv: cleeau
+    hak: hiûng-thòng
+    he: בית החזה
+    hi: छाती
+    hr: prsni koš
+    hu: mellkas
+    hy: կրծքավանդակ
+    id: dada
+    ilo: barukong
+    io: torako
+    is: frambolur
+    it: petto
+    ja: 胸部
+    kab: Idmaren
+    kcg: fi̱ri̱ng
+    ki: Gĩthũri
+    kk: көкірек қуысы анатомиясы
+    kn: ಎದೆ
+    ko: 가슴
+    ks: سیٖنہٕ
+    ku: sing
+    ky: көкүрөк
+    la: Pectus
+    lb: Broscht
+    lbe: хъазам
+    lfn: torax
+    ln: bontólo
+    lt: krūtinė
+    lv: krūškurvis
+    mg: tratra
+    mk: граден кош
+    ml: നെഞ്ച്
+    mnc: ᡨᡠᠩᡤᡝᠨ
+    ms: dada
+    myv: меште
+    mzn: سنه
+    nan: heng-khám
+    nb: bryst
+    nds: Bost
+    ne: छाति
+    new: नुगःपा
+    nl: borstkas
+    nn: bryst
+    oc: torax
+    om: qoma
+    or: ଛାତି
+    pa: ਹਿੱਕ
+    pam: salu
+    pl: tułów
+    ps: ټټر
+    pt: peito
+    pt-br: peito
+    qu: qhasqu
+    ro: piept
+    ru: торакс
+    sa: वक्षःस्थलम्
+    sat: ᱠᱚᱲᱟᱢ
+    sgs: krauklėnė
+    sh: prsni koš
+    shi: idmarn
+    sk: hrudník
+    sl: prsni koš
+    sn: chipfuva
+    so: sakaar
+    sq: kraharori
+    sr: груди
+    sv: bröst
+    sw: kifua
+    szy: baluwang
+    ta: மார்பு
+    te: ఛాతీ
+    th: ทรวงอก
+    tl: dibdib
+    tr: göğüs
+    tt: торакс
+    tum: chifuŵa
+    ug: تۆش
+    uk: торакс
+    ur: سینہ
+    uz: koʻkrak qafasi
+    vep: rind
+    vi: ngực
+    wa: cofe coistrece
+    war: dughán
+    wuu: 胸
+    yi: ברוסטקאסטן
+    yo: igbaya
+    yue: 胸
+    za: aek
+    zh: 胸部
+    zh-hans: 胸部
+    zh-hant: 胸部
+aliases:
+- acota
+- aek
+- baluwang
+- barukong
+- bontólo
+- bors
+- borstkas
+- Bost
+- broilleach
+- Broscht
+- bruched
+- brusto
+- bryst
+- brystkasse
+- bröst
+- chifuŵa
+- chipfuva
+- cleeau
+- cofe coistrece
+- dada
+- dibdib
+- dughán
+- duhelo
+- fi̱ri̱ng
+- frambolur
+- göğüs
+- Gĩthũri
+- heng-khám
+- hiûng-thòng
+- hrudník
+- Idmaren
+- idmarn
+- igbaya
+- kifua
+- koʻkrak qafasi
+- kraharori
+- krauklėnė
+- krūtinė
+- krūškurvis
+- kukum
+- mellkas
+- ngực
+- Pectus
+- peito
+- petto
+- piept
+- prsni koš
+- pyti'a
+- qhasqu
+- qoma
+- rind
+- rinta
+- sakaar
+- salu
+- sing
+- sĭng-găng
+- thoracs
+- thorax
+- torako
+- toraks
+- torax
+- tors
+- torse
+- torso
+- tratra
+- tułów
+- tóracs
+- tórax
+- θώρακας
+- граден кош
+- груди
+- гръден кош
+- керен
+- көкірек қуысы анатомиясы
+- көкүрөк
+- меште
+- торакс
+- хъазам
+- կրծքավանդակ
+- בית החזה
+- ברוסטקאסטן
+- تۆش
+- سنه
+- سینه
+- سینگ
+- سینہ
+- سیٖنہٕ
+- صدر
+- ټټر
+- ܚܕܝܐ
+- छाति
+- छाती
+- नुगःपा
+- वक्षःस्थलम्
+- থ’ৰাক্স
+- বক্ষ
+- ਹਿੱਕ
+- ଛାତି
+- மார்பு
+- ఛాతీ
+- ಎದೆ
+- നെഞ്ച്
+- ทรวงอก
+- བྲང་ཁོག
+- ᡨᡠᠩᡤᡝᠨ
+- ᱠᱚᱲᱟᱢ
+- 胸
+- 胸部
+- 가슴
+---
 # [[Thorax]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thorax,9645|WD~Thorax,9645]]  

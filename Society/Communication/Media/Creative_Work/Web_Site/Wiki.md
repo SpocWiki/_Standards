@@ -1,41 +1,224 @@
 ---
-has_time_started: 1995-03-16 
+has_time_started: 1995-03-16
 aliases:
+- nasin Wiki
+- ouitchi
+- uitki
+- vici
+- vicí
+- Vigi
+- viki
+- vikio
+- vikisvetainė
+- Vikivietne
+- Vouiqui
+- wicci
+- Wici
+- Wiki
+- WikiWiki
+- Wikki
+- Wîkî
+- Ашаблон:Interwiki redirect
+- Бики
+- вікі
+- вики
+- Уики
+- Վիքի
+- וויקי
+- ויקי
+- ويكى
+- ويكي
+- ويکي
+- وِکی
+- ویکی
+- विकि
+- विकिः
+- विकी
+- উইকি
+- ৱিকি
+- ਵਿਕੀ
+- ଉଇକି
+- விக்கி
+- వికీ
+- ವಿಕಿ
+- വിക്കി
+- විකි
+- วิกิ
+- ဝီကီ
+- ဝီႇၶီႇ
+- ვიკი
+- ᐅᐃᑭ
+- ウィキ
+- 共筆
+- ꠃꠁꠇꠤ
+- 위키
 has_id_wikidata: Q171
 subclass_of:
-  - "[[_Standards/WikiData/WD~content_management_system,131093]]"
-  - "[[_Standards/WikiData/WD~community_project,5155040]]"
-  - "[[_Standards/WikiData/WD~website,35127]]"
-named_after: "[[_Standards/WikiData/WD~Q1197736,1197736]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_wikis,5871082]]"
+- '[[_Standards/WikiData/WD~content_management_system,131093]]'
+- '[[_Standards/WikiData/WD~community_project,5155040]]'
+- '[[_Standards/WikiData/WD~website,35127]]'
+named_after: '[[_Standards/WikiData/WD~Q1197736,1197736]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_wikis,5871082]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Wiki_Site,6167343]]"
-  - "[[_Standards/WikiData/WD~Wikipedia,52]]"
+- '[[_Standards/WikiData/WD~Wiki_Site,6167343]]'
+- '[[_Standards/WikiData/WD~Wikipedia,52]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Wikis,8084768]]"
-  - "[[_Standards/WikiData/WD~Template_Wiki,18857008]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-described_by_source: "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_website,134995802]]"
-based_on: "[[_Standards/WikiData/WD~World_Wide_Web,466]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Q7637,7637]]"
+- '[[_Standards/WikiData/WD~Template_Wikis,8084768]]'
+- '[[_Standards/WikiData/WD~Template_Wiki,18857008]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+described_by_source: '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_website,134995802]]'
+based_on: '[[_Standards/WikiData/WD~World_Wide_Web,466]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Q7637,7637]]'
 main_Wikidata_property: official wiki URL
-OmegaWiki_Defined_Meaning: "7514"
+OmegaWiki_Defined_Meaning: 7514
 GitHub_topic: wiki
 Commons_gallery: Wiki
 Commons_category: Wiki
-ACM_Classification_Code_2012_: "10003301"
+ACM_Classification_Code_2012_: 10003301
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiki%20dcci%202x.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-wiki.ogg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Wiki-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Wiki%20%28spoken%20by%20AI%20voice%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Wiki-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Wiki%20%28spoken%20by%20AI%20voice%29.mp3
 Stack_Exchange_tag: https://stackoverflow.com/tags/wiki
 Mastodon_instance_URL: https://wikis.world
-Dewey_Decimal_Classification: "006.75"
+Dewey_Decimal_Classification: 006.75
 start_time: 1995-03-16T00:00:00Z
+dv_has_:
+  name_:
+    ab: Ашаблон:Interwiki redirect
+    an: Wiki
+    anp: विकि
+    ar: ويكي
+    arz: ويكى
+    as: ৱিকি
+    ast: Wiki
+    az: viki
+    ba: Вики
+    bar: Wiki
+    bcl: Wiki
+    be: Вікі
+    be-tarask: вікі
+    bg: Уики
+    bjn: Wiki
+    bm: Wiki
+    bn: উইকি
+    bo: Wiki
+    bpy: উইকি
+    br: Wiki
+    bxr: Вики
+    ceb: Wiki
+    ckb: ویکی
+    co: Wiki
+    cv: Вики
+    cy: Wici
+    de: Wiki
+    de-ch: Wiki
+    diq: Wiki
+    en: wiki
+    eo: vikio
+    et: viki
+    fa: ویکی
+    fj: Wiki
+    fo: WikiWiki
+    fr: wiki
+    frp: Vouiqui
+    fur: Wiki
+    ga: vicí
+    gcr: Wiki
+    gl: Wiki
+    gsw: Wiki
+    ha: Wiki
+    haw: Wiki
+    he: ויקי
+    hi: विकि
+    hy: Վիքի
+    ig: Wiki
+    ilo: Wiki
+    inh: Вики
+    iu: ᐅᐃᑭ
+    ja: ウィキ
+    jbo: uitki
+    jv: Wiki
+    ka: ვიკი
+    kab: Wiki
+    kk: Уики
+    kn: ವಿಕಿ
+    ko: 위키
+    ks: وِکی
+    ksh: Wikki
+    ku: Wîkî
+    ku-latn: wîkî
+    ky: вики
+    la: vici
+    lb: Wiki
+    lfn: Vici
+    li: wiki
+    lmo: Wiki
+    lt: vikisvetainė
+    lv: Vikivietne
+    lzh: 共筆
+    mg: Wiki
+    min: Wiki
+    mk: вики
+    ml: വിക്കി
+    mn: Вики
+    mr: विकी
+    ms-arab: ويکي
+    mul: wiki
+    my: ဝီကီ
+    mzn: ویکی
+    nah: Wiki
+    nan: Wiki
+    nds: Wiki
+    ne: विकी
+    nl: wiki
+    nrm: ouitchi
+    or: ଉଇକି
+    pa: ਵਿਕੀ
+    pag: Wiki
+    pms: Wiki
+    pnt: Wiki
+    ps: ويکي
+    qu: Wiki
+    ro: wiki
+    ru: вики
+    rue: Вікі
+    sa: विकिः
+    sc: Wiki
+    sgs: Wiki
+    sh: Wiki
+    shn: ဝီႇၶီႇ
+    si: විකි
+    sl: viki
+    so: Wiki
+    sr: вики
+    su: Wiki
+    syl: ꠃꠁꠇꠤ
+    ta: விக்கி
+    te: వికీ
+    tg: Вики
+    th: วิกิ
+    tl: Wiki
+    tly: Viki
+    tok: nasin Wiki
+    tr: viki
+    tt-cyrl: вики
+    uk: вікі
+    ur: ویکی
+    uz: viki
+    vro: Viki
+    wa: wicci
+    war: Wiki
+    wuu: Wiki
+    xal: Бики
+    xmf: ვიკი
+    yi: וויקי
+    yo: Wiki
+    yue: Wiki
+    za: Vigi
 ---
-
 # [[Wiki]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Wiki,171|WD~Wiki,171]]  

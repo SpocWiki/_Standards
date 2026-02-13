@@ -1,9 +1,74 @@
 ---
 aliases:
-  - Cnidaria
-  - nesledyr
-  - Holtedieren
-  - ožigalkarji
+- Ainuõõssed
+- Cnidari
+- Cnidaria
+- Cnidariad
+- Cnidario
+- Cnidarios
+- Cnidaris
+- cnidários
+- csalánozók
+- Dalayıcılar
+- Duobagyviai
+- dzēlējzarndobumaiņi
+- Holdýr
+- Holtedieren
+- K'arachiq
+- Knidaried
+- Knidliler
+- Knidulo
+- Knidıni
+- Mnyama-upupu
+- nesledyr
+- Nesseldéieren
+- Nesseltiere
+- Netelbêestn
+- Neteldier
+- neteldieren
+- Netteldieren
+- Nidariya
+- Nietelbieste
+- nässeldjur
+- Näädeldiarten
+- Nældecelledyr
+- ožigalkarji
+- parzydełkowce
+- polttiaiseläimet
+- pŕhlivce
+- Qurxummelellaa
+- Sứa lông châm
+- Táłtłʼááh Dahoołchʼíhí
+- Urtiënc
+- žahavci
+- Žarnjaci
+- Κνιδόζωα
+- жарњаци
+- Жаркари
+- Жыгучыя
+- кнідарії
+- кнідарыі
+- мешести
+- Сағыусылар
+- стрекающие
+- Эчәккуышлылар
+- հիդրաներ
+- צורבים
+- لاسعات
+- مرجانیان
+- نائڊيريا
+- ڈنگنے
+- निडारिया
+- নিডারিয়া
+- நிடேரியா
+- నిడేరియా
+- ไนดาเรีย
+- მსუსხავნი
+- 刺胞动物门
+- 刺胞動物
+- 刺胞動物門
+- ꯁꯤꯂꯦꯟꯇꯦꯔꯦꯇꯥ
+- 자포동물
 has_id_wikidata: Q25441
 title: Cnidaria
 mode_of_reproduction: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
@@ -25,12 +90,121 @@ P8189: 987007561337805171
 MeSH_tree_code: B01.050.500.308
 UMLS_CUI: C0009222
 taxon_common_name:
-  - nesledyr
-  - Holtedieren
-  - ožigalkarji
+- nesledyr
+- Holtedieren
+- ožigalkarji
 start_time: -580000000-06
+dv_has_:
+  name_:
+    af: Neteldier
+    an: Cnidaria
+    ar: لاسعات
+    arz: لاسعات
+    ast: Cnidaria
+    az: Dalayıcılar
+    ba: Сағыусылар
+    be: Жыгучыя
+    be-tarask: кнідарыі
+    bg: мешести
+    bn: নিডারিয়া
+    br: Knidaried
+    bs: Žarnjaci
+    bxr: Cnidaria
+    ca: Cnidaris
+    ceb: Nidariya
+    cs: žahavci
+    cy: Cnidariad
+    da: Nældecelledyr
+    de: Nesseltiere
+    diq: Knidıni
+    el: Κνιδόζωα
+    en: Cnidaria
+    en-ca: Cnidaria
+    en-gb: Cnidaria
+    eo: Knidulo
+    es: Cnidaria
+    et: Ainuõõssed
+    eu: Cnidaria
+    ext: Cnidaria
+    fa: مرجانیان
+    fi: polttiaiseläimet
+    fr: Cnidaria
+    frr: Näädeldiarten
+    fy: Netteldieren
+    ga: Cnidaria
+    gl: Cnidarios
+    gv: Cnidaria
+    he: צורבים
+    hi: निडारिया
+    hr: Žarnjaci
+    hu: csalánozók
+    hy: հիդրաներ
+    ia: Cnidari
+    id: Cnidaria
+    ie: Cnidaria
+    io: Knidulo
+    is: Holdýr
+    it: Cnidaria
+    ja: 刺胞動物
+    jv: Cnidaria
+    ka: მსუსხავნი
+    ko: 자포동물
+    la: Cnidaria
+    lb: Nesseldéieren
+    lfn: Cnidario
+    li: Nietelbieste
+    lld: Urtiënc
+    lt: Duobagyviai
+    lv: dzēlējzarndobumaiņi
+    mk: Жаркари
+    mni: ꯁꯤꯂꯦꯟꯇꯦꯔꯦꯇꯥ
+    ms: Cnidaria
+    mul: Cnidaria
+    nb: Nesledyr
+    nds: Cnidaria
+    nl: neteldieren
+    nn: nesledyr
+    nv: Táłtłʼááh Dahoołchʼíhí
+    oc: Cnidaria
+    om: Qurxummelellaa
+    pl: parzydełkowce
+    pnb: ڈنگنے
+    pt: cnidários
+    pt-br: Cnidários
+    qu: K'arachiq
+    ro: Cnidaria
+    ru: стрекающие
+    rup: Cnidari
+    scn: Cnidaria
+    sco: Cnidaria
+    sd: نائڊيريا
+    sh: Žarnjaci
+    sk: pŕhlivce
+    sl: ožigalkarji
+    sq: Cnidaria
+    sr: жарњаци
+    sv: nässeldjur
+    sw: Mnyama-upupu
+    ta: நிடேரியா
+    te: నిడేరియా
+    th: ไนดาเรีย
+    tl: Cnidaria
+    tr: Knidliler
+    tt: Эчәккуышлылар
+    uk: кнідарії
+    vec: Cnidaria
+    vi: Sứa lông châm
+    vls: Netelbêestn
+    vo: Cnidaria
+    war: Cnidaria
+    wuu: 刺胞动物门
+    yue: 刺胞動物
+    zea: Cnidaria
+    zh: 刺胞動物門
+    zh-cn: 刺胞动物门
+    zh-hans: 刺胞动物门
+    zh-tw: 刺胞動物門
 ---
-
 # [[Cnidaria]]
 
 #is_a/bio-Phylum  

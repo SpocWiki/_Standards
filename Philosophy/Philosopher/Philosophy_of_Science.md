@@ -1,26 +1,113 @@
 ---
 aliases:
-  - Philosophy of science
-  - Philosophy_of_Science
-  - Philosophy of Science
+- athroniaeth gwyddoniaeth
+- bilim felsefesi
+- dieđafilosofiija
+- elmin fəlsəfəsi
+- Falsafa teoreasi
+- Falsafah sains
+- fealsúnacht na heolaíochta
+- Filasafi a sayans
+- filosofia da ciência
+- filosofia de la ciència
+- filosofia della scienza
+- Filosofia dla sciënza
+- filosofie o science
+- Filosofìa dla siensa
+- filosofía da ciencia
+- Filosofía de la ciencia
+- Filozofi si sé syans
+- Filozofia e shkencës
+- filozofia nauki
+- Filozofia vedy
+- filozofia științei
+- filozofie vědy
+- filozofija nauke
+- filozofija znanosti
+- filozofio de scienco
+- Filozofio di cienco
+- filsafat ilmu
+- Filsafat élmu
+- fiłozofia de ła siensa
+- Kho-ha̍k tiat-ha̍k
+- mokslo filosofija
+- Philosophia del scientia
+- Philosophia scientiae
+- philosophie des sciences
+- Philosophy of science
+- Philosophy_of_Science
+- Pilosopiya ng agham
+- teadusfilosoofia
+- tieteenfilosofia
+- tieđâfilosofia
+- tiõđfilosofia
+- triết học khoa học
+- tudományfilozófia
+- vetenskapsteori
+- videnskabsfilosofi
+- vitenskapsteori
+- vitskapsteori
+- Vísindaheimspeki
+- wetenschapsfilosofie
+- Wetenskapsfilosofie
+- Wissenschaftstheorie
+- Wëssenschaftstheorie
+- Wüsseschaftstheorii
+- Zientziaren filosofia
+- zinātnes filozofija
+- Ăслав философийĕ
+- Φιλοσοφία της επιστήμης
+- філасофія навукі
+- філософія науки
+- філязофія навукі
+- фалсафаи илм
+- филозофија на науката
+- филозофија науке
+- Философия на науката
+- философия науки
+- фән фәлсәфәсе
+- фән фәлсәфәһе
+- Ғылым философиясы
+- Գիտության փիլիսոփայություն
+- פילוסופיה של המדע
+- د ساینس فلسفه
+- سائنس جو فلسفو
+- فلسفة العلوم
+- فلسفه علم
+- فلسفۂ سائنس
+- فِلاسفی
+- فەلسەفەی زانست
+- बिज्ञान के दर्शन
+- विज्ञान का दर्शन
+- বিজ্ঞানের দর্শন
+- বিজ্ঞানৰ দৰ্শন
+- ਵਿਗਿਆਨ ਦਾ ਦਰਸ਼ਨ
+- அறிவியலின் மெய்யியல்
+- විද්යාවේ දර්ශනය
+- ปรัชญาวิทยาศาสตร์
+- მეცნიერების ფილოსოფია
+- የሳይንስ ፍልስፍና
+- 科学哲学
+- 科學哲學
+- 과학철학
 has_id_wikidata: Q59115
 Basisklassifikation: 2.02
 Commons_category: Philosophy of science
 Dewey_Decimal_Classification:
-  - 1.01
-  - 1--01
-  - 121
-  - 501
+- 1.01
+- 1--01
+- 121
+- 501
 different_from: '[[_Standards/WikiData/WD~Cognitive_theory,30747846]]'
 GitHub_topic: philosophy-of-science
 history_of_topic: '[[_Standards/WikiData/WD~Q11897492,11897492]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~subject_heading,1128340]]'
-  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-  - '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
+- '[[_Standards/WikiData/WD~subject_heading,1128340]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
 Library_of_Congress_Classification: Q174-Q175.3
 practiced_by:
-  - '[[_Standards/WikiData/WD~philosopher_of_science,16389557]]'
+- '[[_Standards/WikiData/WD~philosopher_of_science,16389557]]'
 Provenio_UUID: 984b5720-f65a-4e5c-a539-9b1f00fbf5dd
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sanzio%2001%20Plato%20Aristotle.jpg
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~epistemology,9471]]'
@@ -29,8 +116,108 @@ Stack_Exchange_tag: https://philosophy.stackexchange.com/tags/philosophy-of-scie
 subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 subreddit: PhilosophyofScience
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_science,8084428]]'
+dv_has_:
+  name_:
+    af: Wetenskapsfilosofie
+    am: የሳይንስ ፍልስፍና
+    ar: فلسفة العلوم
+    as: বিজ্ঞানৰ দৰ্শন
+    ast: Filosofía de la ciencia
+    az: elmin fəlsəfəsi
+    ba: фән фәлсәфәһе
+    be: філасофія навукі
+    be-tarask: філязофія навукі
+    bg: Философия на науката
+    bho: बिज्ञान के दर्शन
+    bn: বিজ্ঞানের দর্শন
+    bs: filozofija nauke
+    ca: filosofia de la ciència
+    ckb: فەلسەفەی زانست
+    cs: filozofie vědy
+    cv: Ăслав философийĕ
+    cy: athroniaeth gwyddoniaeth
+    da: videnskabsfilosofi
+    de: Wissenschaftstheorie
+    el: Φιλοσοφία της επιστήμης
+    en: philosophy of science
+    en-ca: philosophy of science
+    en-gb: philosophy of science
+    eo: filozofio de scienco
+    es: filosofía de la ciencia
+    et: teadusfilosoofia
+    eu: Zientziaren filosofia
+    fa: فلسفه علم
+    fi: tieteenfilosofia
+    fr: philosophie des sciences
+    ga: fealsúnacht na heolaíochta
+    gcr: Filozofi si sé syans
+    gl: filosofía da ciencia
+    gsw: Wüsseschaftstheorii
+    he: פילוסופיה של המדע
+    hi: विज्ञान का दर्शन
+    hu: tudományfilozófia
+    hy: Գիտության փիլիսոփայություն
+    ia: Philosophia del scientia
+    id: filsafat ilmu
+    io: Filozofio di cienco
+    is: Vísindaheimspeki
+    it: filosofia della scienza
+    ja: 科学哲学
+    jam: Filasafi a sayans
+    ka: მეცნიერების ფილოსოფია
+    kk: Ғылым философиясы
+    ko: 과학철학
+    ks: فِلاسفی
+    la: Philosophia scientiae
+    lb: Wëssenschaftstheorie
+    lld: Filosofia dla sciënza
+    lt: mokslo filosofija
+    lv: zinātnes filozofija
+    mk: филозофија на науката
+    ms: Falsafah sains
+    nan: Kho-ha̍k tiat-ha̍k
+    nb: vitenskapsteori
+    nl: wetenschapsfilosofie
+    nn: vitskapsteori
+    pa: ਵਿਗਿਆਨ ਦਾ ਦਰਸ਼ਨ
+    pl: filozofia nauki
+    pms: Filosofìa dla siensa
+    ps: د ساینس فلسفه
+    pt: filosofia da ciência
+    pt-br: filosofia da ciência
+    ro: filozofia științei
+    ru: философия науки
+    sco: filosofie o science
+    sd: سائنس جو فلسفو
+    se: dieđafilosofiija
+    sh: filozofija nauke
+    si: විද්යාවේ දර්ශනය
+    sk: Filozofia vedy
+    sl: filozofija znanosti
+    smn: tieđâfilosofia
+    sms: tiõđfilosofia
+    sq: Filozofia e shkencës
+    sr: филозофија науке
+    su: Filsafat élmu
+    sv: vetenskapsteori
+    ta: அறிவியலின் மெய்யியல்
+    tg: фалсафаи илм
+    th: ปรัชญาวิทยาศาสตร์
+    tl: Pilosopiya ng agham
+    tr: bilim felsefesi
+    tt: фән фәлсәфәсе
+    uk: філософія науки
+    ur: فلسفۂ سائنس
+    uz: Falsafa teoreasi
+    vec: fiłozofia de ła siensa
+    vi: triết học khoa học
+    wuu: 科学哲学
+    yue: 科學哲學
+    zh: 科學哲學
+    zh-hans: 科学哲学
+    zh-hant: 科學哲學
+    zh-tw: 科學哲學
 ---
-
 # [[Philosophy_of_Science]] 
 
 #is_/same_as :: [[../../WikiData/WD~Philosophy_of_science,59115|WD~Philosophy_of_science,59115]] 

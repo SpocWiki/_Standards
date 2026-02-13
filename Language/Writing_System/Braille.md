@@ -1,21 +1,92 @@
 ---
-has_time_started: 1824-01-01 
+has_time_started: 1824-01-01
 aliases:
-  - Braille
+- Abidi Braille
+- aklųjų raštas
+- alfabet Braille'a
+- Alfabeto Braille
+- alfabetul Braille
+- Alifbeetada indhoolayaasha
+- Blindraletur
+- Blindskrift
+- Braila raksts
+- Braille
+- Braille alfabesi
+- Braille kiri
+- Braille script
+- Braille-írás
+- Brailleovo pismo
+- Brailleovo písmo
+- Brailleschrift
+- Braillovo písmo
+- Braj
+- Brajeva azbuka
+- brajica
+- brajlo
+- Brayl shrifti
+- Brayl əlifbası
+- Chữ Braille
+- clou Vraille
+- Inyandiko y'abafite ubumuga bwo kutabona(Braille)
+- Phòng-jī
+- pistekirjoitus
+- punktskrift
+- scriptura Brailliana
+- sitelen nena Paja
+- Tira n Braille
+- écriture braille
+- čuokkesčála
+- čyegisčaalâ
+- Κώδικας Μπράιγ
+- адӟисьтэмъёслы азбука
+- Брајева азбука
+- Брајова азбука
+- Брайлова азбука
+- Брайль
+- Брайль шрифты
+- Брайль шрифчĕ
+- Зағиптарға арналған шрифт
+- пісьмо Брайля
+- шрифт Брайля
+- Բրայլի գրեր
+- Պրայլի գիրեր
+- כתב ברייל
+- بريل
+- بریل
+- بریل سسٹم
+- برېل
+- ब्रेल
+- ब्रेल पद्धति
+- ब्रेल लिपी
+- ব্রেইল পদ্ধতি
+- ব্ৰেইল্
+- ਬਰੇਲ ਲਿੱਪੀ
+- புடையெழுத்து
+- బ్రెయిలీ లిపి
+- ಬ್ರೈಲ್
+- ബ്രെയിലി ലിപി
+- อักษรเบรลล์
+- မျက်မမြင် သင်္ကေတ
+- ბრაილის შრიფტი
+- ბრაილიშ შრიფტი
+- 凸字
+- 点字
+- 盲文
+- 점자
 has_id_wikidata: Q79894
 named_after: '[[_Standards/WikiData/WD~Louis_Braille,93182]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~character_encoding,184759]]'
-  - '[[_Standards/WikiData/WD~code,188889]]'
-  - '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
-  - '[[_Standards/WikiData/WD~writing_system,8192]]'
-  - '[[_Standards/WikiData/WD~alphabet,9779]]'
+- '[[_Standards/WikiData/WD~character_encoding,184759]]'
+- '[[_Standards/WikiData/WD~code,188889]]'
+- '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+- '[[_Standards/WikiData/WD~writing_system,8192]]'
+- '[[_Standards/WikiData/WD~alphabet,9779]]'
 location_of_creation: '[[_Standards/WikiData/WD~Coupvray,828631]]'
 subclass_of: '[[_Standards/WikiData/WD~alphabetic_writing_system,2182919]]'
 different_from: '[[_Standards/WikiData/WD~braille_(original),4554291]]'
 script_directionality:
-  - '[[_Standards/WikiData/WD~right_to_left,7333457]]'
-  - '[[_Standards/WikiData/WD~left_to_right,17321844]]'
+- '[[_Standards/WikiData/WD~right_to_left,7333457]]'
+- '[[_Standards/WikiData/WD~left_to_right,17321844]]'
 uses: '[[_Standards/WikiData/WD~Braille_pattern,135261272]]'
 country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 ISO_15924_numeric_code: 570
@@ -26,15 +97,127 @@ inception: 1824-01-01T00:00:00Z
 U_S_National_Archives_Identifier: 10663116
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Braille%20closeup.jpg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-BRAILE-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Braille-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Es-BRAILE-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Braille-article.ogg
 Stack_Exchange_tag: https://stackoverflow.com/tags/braille
 P8189: 987007563517405171
 ISO_15924_alpha_4_code: Brai
 Commons_category: Braille
 Open_Food_Facts_label: en:in-braille
+dv_has_:
+  name_:
+    af: Braille
+    ar: بريل
+    as: ব্ৰেইল্
+    ast: braille
+    az: Brayl əlifbası
+    bcl: Braille
+    be-tarask: пісьмо Брайля
+    bg: Брайлова азбука
+    bho: ब्रेल
+    bn: ব্রেইল পদ্ধতি
+    bs: Brailleovo pismo
+    ca: braille
+    cs: Brailleovo písmo
+    cv: Брайль шрифчĕ
+    cy: Braille
+    da: braille
+    de: Brailleschrift
+    diq: Braille
+    dtp: Braille
+    el: Κώδικας Μπράιγ
+    en: Braille script
+    eo: brajlo
+    es: braille
+    et: Braille kiri
+    eu: Braille
+    fa: بریل
+    fi: pistekirjoitus
+    fo: Blindskrift
+    fr: écriture braille
+    frp: Braille
+    fy: Braille
+    ga: Braille
+    gd: Braille
+    gl: Braille
+    gv: clou Vraille
+    ha: Braille
+    he: כתב ברייל
+    hi: ब्रेल पद्धति
+    hif: Braille
+    hr: Brailleovo pismo
+    hu: Braille-írás
+    hy: Բրայլի գրեր
+    hyw: Պրայլի գիրեր
+    ia: Braille
+    iba: Braille
+    id: Braille
+    io: Alfabeto Braille
+    is: Blindraletur
+    it: Braille
+    ja: 点字
+    ka: ბრაილის შრიფტი
+    kab: Tira n Braille
+    kk: Зағиптарға арналған шрифт
+    kn: ಬ್ರೈಲ್
+    ko: 점자
+    ku: Braille
+    ku-latn: Braille
+    la: scriptura Brailliana
+    lt: aklųjų raštas
+    lv: Braila raksts
+    lzh: 盲文
+    mk: Брајова азбука
+    ml: ബ്രെയിലി ലിപി
+    mn: Брайль
+    mr: ब्रेल लिपी
+    ms: Braille
+    my: မျက်မမြင် သင်္ကေတ
+    nan: Phòng-jī
+    nb: punktskrift
+    nl: brailleschrift
+    nn: Punktskrift
+    oc: Braille
+    pa: ਬਰੇਲ ਲਿੱਪੀ
+    pl: alfabet Braille'a
+    pnb: بریل سسٹم
+    ps: برېل
+    pt: Braille
+    qu: Braille
+    ro: alfabetul Braille
+    ru: шрифт Брайля
+    rw: Inyandiko y'abafite ubumuga bwo kutabona(Braille)
+    sco: braille
+    se: čuokkesčála
+    sh: Brajeva azbuka
+    sk: Braillovo písmo
+    sl: brajica
+    smn: čyegisčaalâ
+    so: Alifbeetada indhoolayaasha
+    sq: Braj
+    sr: Брајева азбука
+    sv: punktskrift
+    ta: புடையெழுத்து
+    te: బ్రెయిలీ లిపి
+    th: อักษรเบรลล์
+    tl: Braille
+    tok: sitelen nena Paja
+    tr: Braille alfabesi
+    tt: Брайль шрифты
+    tt-cyrl: Брайль шрифты
+    udm: адӟисьтэмъёслы азбука
+    uk: шрифт Брайля
+    ur: بریل سسٹم
+    uz: Brayl shrifti
+    vi: Chữ Braille
+    war: Braille
+    wuu: 盲文
+    xmf: ბრაილიშ შრიფტი
+    yo: Abidi Braille
+    yue: 凸字
+    zh: 盲文
+    zh-hant: 盲文
 ---
-
 # [[Braille]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Braille,79894|WD~Braille,79894]] 

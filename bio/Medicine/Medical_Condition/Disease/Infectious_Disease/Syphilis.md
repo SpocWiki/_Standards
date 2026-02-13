@@ -1,75 +1,272 @@
 ---
 aliases:
+- a' bhalgach-Fhrangach
+- Agire
+- Bengang
+- binghmeizdoeg
+- Bok
+- bolgagh Rangagh
+- Daveke
+- Farasisa
+- Frengi
+- giang mai
+- Kaswende
+- kiła
+- Kleñved Naplez
+- kuppa
+- Kuppá
+- Merezýel
+- Mûi-to̍k
+- Sifili
+- sifilide
+- Sifilis
+- sifiliso
+- sifiliss
+- Sifilizi
+- sifilís
+- Siflis
+- sifìłide
+- Sipilis
+- Syffilis
+- syfilis
+- syphilis
+- szifilisz
+- Sárasótt
+- sífilis
+- Süüfilis
+- Tunjere
+- Wanthi unquy
+- Zaxm
+- σύφιλη
+- Котон жара
+- Мерез
+- Паш (аарыг)
+- сіфіліс
+- сифіліс
+- сифилис
+- сыфіліс
+- Тэмбүү
+- սիֆիլիս
+- עגבת
+- آتشک
+- باو
+- زهري
+- زہرٕ باد
+- سفلیس
+- سیفلیس
+- سیفیلیس
+- نوار
+- ސިފިލިސް
+- भिरिङ्गी
+- सूजाक
+- চিফিলিছ
+- সিফিলিস
+- ਆਤਸ਼ਕ
+- ઉપદંશ
+- ସିଫିଲିସ୍
+- சிபிலிசு
+- సవాయి
+- ಸಿಫಿಲಿಸ್
+- പറങ്കിപ്പുണ്ണ്
+- ซิฟิลิส
+- བསེ་མོག་
+- ကာလသားရောဂါ
+- სიფილისი
+- ቂጥኝ
+- 梅毒
+- 매독
 has_id_wikidata: Q41083
 MeSH_tree_code:
-  - C01.150.252.734.859
-  - C01.221.812.281.859
-  - C01.778.281.859
-  - C12.100.937.281.859
-  - C01.150.252.400.794.840.500
-  - C01.150.252.400.840.500
+- C01.150.252.734.859
+- C01.221.812.281.859
+- C01.778.281.859
+- C12.100.937.281.859
+- C01.150.252.400.794.840.500
+- C01.150.252.400.840.500
 Wolfram_Language_entity_code: Entity["Disease", "ICDNine097"]
-Dewey_Decimal_Classification: "616.9513"
-has_cause: "[[_Standards/WikiData/WD~Treponema_pallidum,156007]]"
+Dewey_Decimal_Classification: 616.9513
+has_cause: '[[_Standards/WikiData/WD~Treponema_pallidum,156007]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~azithromycin,165399]]"
-  - "[[_Standards/WikiData/WD~benzylpenicillin,258450]]"
-  - "[[_Standards/WikiData/WD~ceftriaxone,421713]]"
-  - "[[_Standards/WikiData/WD~clindamycin,422273]]"
-  - "[[_Standards/WikiData/WD~doxycycline,422442]]"
+- '[[_Standards/WikiData/WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~benzylpenicillin,258450]]'
+- '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
+- '[[_Standards/WikiData/WD~clindamycin,422273]]'
+- '[[_Standards/WikiData/WD~doxycycline,422442]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~dermatology,171171]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+- '[[_Standards/WikiData/WD~dermatology,171171]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]"
-  - "[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]"
-  - "[[_Standards/WikiData/WD~optical_microscope,912313]]"
-  - "[[_Standards/WikiData/WD~Venereal_Disease_Research_Laboratory_test,1431052]]"
-  - "[[_Standards/WikiData/WD~FTA_ABS,1434193]]"
-  - "[[_Standards/WikiData/WD~Wassermann_test,1892532]]"
-  - "[[_Standards/WikiData/WD~Rapid_plasma_reagin,7294218]]"
+- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+- '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
+- '[[_Standards/WikiData/WD~optical_microscope,912313]]'
+- '[[_Standards/WikiData/WD~Venereal_Disease_Research_Laboratory_test,1431052]]'
+- '[[_Standards/WikiData/WD~FTA_ABS,1434193]]'
+- '[[_Standards/WikiData/WD~Wassermann_test,1892532]]'
+- '[[_Standards/WikiData/WD~Rapid_plasma_reagin,7294218]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~treponematosis,1243869]]"
-  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-  - "[[_Standards/WikiData/WD~classic_venereal_disease,56369564]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
-different_from: "[[_Standards/WikiData/WD~Pau,2058396]]"
+- '[[_Standards/WikiData/WD~treponematosis,1243869]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~classic_venereal_disease,56369564]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
+different_from: '[[_Standards/WikiData/WD~Pau,2058396]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-  - "[[_Standards/WikiData/WD~sexually_transmitted_infection,12198]]"
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~sexually_transmitted_infection,12198]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~syphilidology,123482960]]"
-  - "[[_Standards/WikiData/WD~syphilology,126181477]]"
-disease_transmission_process: "[[_Standards/WikiData/WD~sexually_transmitted_infection,12198]]"
+- '[[_Standards/WikiData/WD~syphilidology,123482960]]'
+- '[[_Standards/WikiData/WD~syphilology,126181477]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~sexually_transmitted_infection,12198]]'
 maximal_incubation_period_in_humans: 90
 minimal_incubation_period_in_humans: 9
-DiseasesDB: "29054"
+DiseasesDB: 29054
 Commons_category: Syphilis
-OmegaWiki_Defined_Meaning: "496377"
+OmegaWiki_Defined_Meaning: 496377
 disease_burden: 7038641
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/SyphilisUS2009.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Treponema%20pallidum.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:4166
-  - http://purl.obolibrary.org/obo/DOID_4166
-U_S_National_Archives_Identifier: "10663563"
+- http://identifiers.org/doid/DOID:4166
+- http://purl.obolibrary.org/obo/DOID_4166
+U_S_National_Archives_Identifier: 10663563
 ICD_10_CM: A51.0
 UMLS_CUI:
-  - C0007939
-  - C0039128
+- C0007939
+- C0039128
+dv_has_:
+  name_:
+    af: Sifilis
+    am: ቂጥኝ
+    ar: زهري
+    ary: نوار
+    as: চিফিলিছ
+    ast: sífilis
+    az: sifilis
+    azb: سیفلیس
+    bar: Syphilis
+    be: сіфіліс
+    be-tarask: сыфіліс
+    bew: Bengang
+    bg: Сифилис
+    bn: সিফিলিস
+    bo: བསེ་མོག་
+    br: Kleñved Naplez
+    bs: Sifilis
+    ca: sífilis
+    ckb: سفلیس
+    cs: syfilis
+    cy: Syffilis
+    da: syfilis
+    de: Syphilis
+    din: Bok
+    dv: ސިފިލިސް
+    el: σύφιλη
+    en: syphilis
+    eo: sifiliso
+    es: sífilis
+    et: Süüfilis
+    eu: Sifili
+    fa: سیفیلیس
+    fi: kuppa
+    fr: syphilis
+    ga: sifilis
+    gd: a' bhalgach-Fhrangach
+    gl: Sífilis
+    gpe: syphilis
+    gu: ઉપદંશ
+    gv: bolgagh Rangagh
+    ha: Tunjere
+    he: עגבת
+    hi: सूजाक
+    hr: Sifilis
+    ht: Sifilis
+    hu: szifilisz
+    hy: սիֆիլիս
+    ia: syphilis
+    id: Sifilis
+    io: Sifiliso
+    is: Sárasótt
+    it: sifilide
+    ja: 梅毒
+    jam: Sifilis
+    ka: სიფილისი
+    kk: Мерез
+    kn: ಸಿಫಿಲಿಸ್
+    ko: 매독
+    ks: زہرٕ باد
+    ksh: Syphilis
+    ku: Agire
+    ky: Котон жара
+    la: Syphilis
+    li: Syfilis
+    lt: Sifilis
+    lv: sifiliss
+    lzh: 梅毒
+    mad: Sifilis
+    mg: Farasisa
+    mk: сифилис
+    ml: പറങ്കിപ്പുണ്ണ്
+    mn: Тэмбүү
+    ms: Siflis
+    mt: sifilide
+    my: ကာလသားရောဂါ
+    nan: Mûi-to̍k
+    nb: syfilis
+    ne: भिरिङ्गी
+    nl: syfilis
+    nn: syfilis
+    oc: sifilís
+    or: ସିଫିଲିସ୍
+    pa: ਆਤਸ਼ਕ
+    pl: kiła
+    ps: باو
+    pt: sífilis
+    qu: Wanthi unquy
+    rki: ကာလသားရောဂါ
+    ro: sifilis
+    ru: сифилис
+    rup: Syphilis
+    sg: Daveke
+    sh: Sifilis
+    si: Syphilis
+    sk: Syfilis
+    sl: sifilis
+    smn: Kuppá
+    sq: Sifilizi
+    sr: сифилис
+    su: Sifilis
+    sv: syfilis
+    sw: Kaswende
+    ta: சிபிலிசு
+    te: సవాయి
+    th: ซิฟิลิส
+    tk: Merezýel
+    tl: Sipilis
+    tr: Frengi
+    tt: сифилис
+    tyv: Паш (аарыг)
+    uk: сифіліс
+    ur: آتشک
+    uz: Zaxm
+    vec: sifìłide
+    vi: giang mai
+    war: Sipilis
+    wuu: 梅毒
+    xmf: სიფილისი
+    yue: 梅毒
+    za: binghmeizdoeg
+    zh: 梅毒
 ---
-
 # [[Syphilis]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Syphilis,41083|WD~Syphilis,41083]]  

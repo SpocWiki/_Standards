@@ -1,33 +1,220 @@
 ---
 aliases:
-  - sensory organ
-  - sense
-  - Sense
+- aisti
+- céadfa
+- Cénk sinses
+- deria
+- duyu
+- giác quan
+- hest
+- Hisslər
+- Hunzwi
+- Indera
+- kuptim
+- Kám-kak
+- maņa
+- Meeled
+- Miil
+- Musyay
+- Osjeti
+- pojūtis
+- sans
+- sanseevne
+- sens
+- Sensa
+- sense
+- sensi
+- senso
+- sensory organ
+- Sensus
+- sentido
+- sentit
+- Sentito
+- simț
+- Sinn
+- sinne
+- Sintúch
+- Skiant
+- Skynfæri
+- smysl
+- synnwyr
+- Sënn (Physiologie)
+- Tinliwin
+- wál bòyn
+- zentzumen
+- zintuig
+- zmysel
+- zmysł
+- érzékelés
+- Órgãos dos sentidos
+- Čula
+- čulo
+- čutilo
+- Αίσθηση
+- људско чуло
+- адчуванне
+- адчуваньне
+- відчуття
+- ощущение
+- сезим
+- Сетиво
+- сетило
+- тойгы
+- Туйнăлăх
+- түйсік
+- һиҙем
+- զգացողություն
+- חוש
+- שפיראכץ
+- حاسة
+- حس
+- حواس
+- حواس الانسان الخمسه
+- ھۆشە
+- ܪܓܫܐ
+- इन्द्रियबोध
+- जाणीव
+- ইন্দ্রিয়
+- పంచేంద్రియాలు
+- ಇಂದ್ರಿಯ
+- മലയാള മൂന്നാം പാഠപുസ്തകം 1926
+- ประสาทสัมผัส
+- အာရုံ
+- ဢႃႇရူင်ႇ
+- გრძნობის ორგანოები და შეგრძნებები
+- 感官
+- 感覚
+- 감각
 has_id_wikidata: Q173253
 has_use: '[[_Standards/WikiData/WD~perception,160402]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~qualia,282250]]'
-  - '[[_Standards/WikiData/WD~Q21697219,21697219]]'
+- '[[_Standards/WikiData/WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~Q21697219,21697219]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Sinn,343474]]'
-  - '[[_Standards/WikiData/WD~Indra,413398]]'
-  - '[[_Standards/WikiData/WD~Sens,416530]]'
-  - '[[_Standards/WikiData/WD~Sensus,12902073]]'
-  - '[[_Standards/WikiData/WD~Sense,22191730]]'
+- '[[_Standards/WikiData/WD~Sinn,343474]]'
+- '[[_Standards/WikiData/WD~Indra,413398]]'
+- '[[_Standards/WikiData/WD~Sens,416530]]'
+- '[[_Standards/WikiData/WD~Sensus,12902073]]'
+- '[[_Standards/WikiData/WD~Sense,22191730]]'
 subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
 studied_by: '[[_Standards/WikiData/WD~sensory_physiology,136298391]]'
 facet_of: '[[_Standards/WikiData/WD~physiology,521]]'
 Dewey_Decimal_Classification:
-  - 152.1
-  - 573.87
+- 152.1
+- 573.87
 Library_of_Congress_Classification: QP431-QP495
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Makart%20Fuenf%20Sinne.jpg
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/senses
 Commons_category: Senses
+dv_has_:
+  name_:
+    an: Sentito
+    ar: حاسة
+    arc: ܪܓܫܐ
+    arz: حواس الانسان الخمسه
+    az: Hisslər
+    ba: һиҙем
+    be: адчуванне
+    be-tarask: адчуваньне
+    bg: Сетиво
+    bn: ইন্দ্রিয়
+    br: Skiant
+    bs: čulo
+    ca: sentit
+    ckb: ھۆشە
+    cs: smysl
+    cv: Туйнăлăх
+    cy: synnwyr
+    da: sans
+    de: Sinn
+    el: Αίσθηση
+    en: sense
+    eo: senso
+    es: sentido
+    et: Meeled
+    eu: zentzumen
+    fa: حس
+    fi: aisti
+    fr: sens
+    fy: Sintúch
+    ga: céadfa
+    gl: sentido
+    he: חוש
+    hi: इन्द्रियबोध
+    hr: Osjeti
+    ht: Sans
+    hu: érzékelés
+    hy: զգացողություն
+    ia: senso
+    id: Indera
+    io: Senso
+    is: Skynfæri
+    it: senso
+    ja: 感覚
+    ka: გრძნობის ორგანოები და შეგრძნებები
+    kab: Tinliwin
+    kk: түйсік
+    kn: ಇಂದ್ರಿಯ
+    ko: 감각
+    ku: hest
+    ky: сезим
+    la: Sensus
+    lb: Sënn (Physiologie)
+    lfn: Sensa
+    lt: pojūtis
+    lv: maņa
+    mcn: wál bòyn
+    mk: сетило
+    ml: മലയാള മൂന്നാം പാഠപുസ്തകം 1926
+    mr: जाणीव
+    ms: deria
+    mt: sensi
+    my: အာရုံ
+    nan: Kám-kak
+    nb: sans
+    nl: zintuig
+    nn: sanseevne
+    oc: Sens
+    pl: zmysł
+    ps: حس
+    pt: Órgãos dos sentidos
+    qu: Musyay
+    ro: simț
+    ru: ощущение
+    sco: sense
+    sd: حواس
+    sh: Čula
+    shn: ဢႃႇရူင်ႇ
+    sk: zmysel
+    sl: čutilo
+    sn: Hunzwi
+    sq: kuptim
+    sr: људско чуло
+    sv: sinne
+    te: పంచేంద్రియాలు
+    th: ประสาทสัมผัส
+    tr: duyu
+    tt: тойгы
+    tt-cyrl: тойгы
+    uk: відчуття
+    ur: حس
+    vec: senso
+    vi: giác quan
+    vro: Miil
+    wa: Cénk sinses
+    wuu: 感官
+    yi: שפיראכץ
+    yue: 感官
+    zh: 感官
+    zh-cn: 感官
+    zh-hans: 感官
+    zh-hant: 感官
+    zh-hk: 感官
+    zh-sg: 感官
+    zh-tw: 感官
 ---
-
 # [[Sense]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sense,173253|WD~Sense,173253]]   

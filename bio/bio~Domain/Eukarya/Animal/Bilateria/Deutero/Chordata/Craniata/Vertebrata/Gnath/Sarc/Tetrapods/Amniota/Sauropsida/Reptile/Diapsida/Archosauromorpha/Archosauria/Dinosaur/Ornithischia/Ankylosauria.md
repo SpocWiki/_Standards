@@ -1,38 +1,132 @@
 ---
 aliases:
-  - Ankylosaurus
-  - Ankylosauria
+- ancilosaure
+- Ankilosaor
+- Ankilosourus
+- Ankilozavrlar
+- Ankylosauria
+- Ankylosaurus
+- Ankylosaurus magniventris
+- Ankylozaur
+- Ankylozawr
+- Ankülosaurus
+- Anquilossauro
+- ʻAnekilosauru
+- Αγκυλόσαυρος
+- Анкілозавр
+- анкілязаўр
+- анкилозавр
+- анкилозаври
+- Анкилосаурус
+- אנקילוזאורוס
+- آنکیلوسورس
+- أنكيلوصور
+- แองคิโลซอรัส
+- アンキロサウルス
+- 甲龍
+- 甲龙属
+- 안킬로사우루스
 has_id_wikidata: Q40621
 Commons_category: Ankylosaurus
 Commons_gallery: Ankylosaurus
 end_time: -65000000-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaur%20head%20-%20cast%20-%20Custer%20County%20Montana%20-%20Museum%20of%20the%20Rockies%20-%202013-07-08.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 length: 8
 location_of_discovery:
-  - '[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]'
-  - '[[_Standards/WikiData/WD~Ferris_Formation,5445371]]'
-  - '[[_Standards/WikiData/WD~Lance_Formation,6483389]]'
-  - '[[_Standards/WikiData/WD~Scollard_Formation,7434305]]'
-  - '[[_Standards/WikiData/WD~Frenchman_Formation,14874947]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]'
+- '[[_Standards/WikiData/WD~Ferris_Formation,5445371]]'
+- '[[_Standards/WikiData/WD~Lance_Formation,6483389]]'
+- '[[_Standards/WikiData/WD~Scollard_Formation,7434305]]'
+- '[[_Standards/WikiData/WD~Frenchman_Formation,14874947]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
 main_food_source:
-  - '[[_Standards/WikiData/WD~herbivore,59099]]'
+- '[[_Standards/WikiData/WD~herbivore,59099]]'
 mass: 6
 parent_taxon: '[[_Standards/WikiData/WD~Ankylosaurini,110051810]]'
 size_comparison_diagram:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20estimated%20size%2001.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20Scale%20V2.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20estimated%20size%2001.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ankylosaurus%20Scale%20V2.svg
 start_time: -68000000-01-01
 subreddit:
-  - ankmemes
+- ankmemes
 taxon_name: Ankylosaurus
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 title: Ankylosauria
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Ankylosaurus"]
+dv_has_:
+  name_:
+    af: Ankilosourus
+    an: Ankylosaurus
+    ar: أنكيلوصور
+    ast: Ankylosaurus
+    be-tarask: анкілязаўр
+    bg: анкилозаври
+    br: Ankilosaor
+    ca: ancilosaure
+    ceb: Ankylosaurus
+    cs: Ankylosaurus
+    da: Ankylosaurus
+    de: Ankylosaurus
+    el: Αγκυλόσαυρος
+    en: Ankylosaurus
+    en-us: Ankylosaurus
+    es: Ankylosaurus
+    et: Ankülosaurus
+    eu: Ankylosaurus
+    fa: آنکیلوسورس
+    fi: Ankylosaurus
+    fr: Ankylosaurus
+    ga: Ankylosaurus
+    gl: Ankylosaurus
+    haw: ʻAnekilosauru
+    he: אנקילוזאורוס
+    hr: Ankylosaurus
+    hu: Ankylosaurus
+    ia: Ankylosaurus
+    id: Ankylosaurus
+    is: Ankylosaurus
+    it: Ankylosaurus
+    ja: アンキロサウルス
+    jv: Ankylosaurus
+    ko: 안킬로사우루스
+    la: Ankylosaurus
+    map-bms: Ankylosaurus
+    mk: Анкилосаурус
+    mn: Анкилозавр
+    ms: Ankylosaurus
+    mul: Ankylosaurus
+    nb: Ankylosaurus
+    nl: Ankylosaurus
+    nn: Ankylosaurus
+    oc: Ankylosaurus
+    or: Ankylosaurus
+    pl: Ankylozaur
+    pt: Anquilossauro
+    ro: Ankylosaurus
+    ru: анкилозавр
+    sc: Ankylosaurus
+    sco: Ankylosaurus
+    sh: Ankylosaurus
+    sk: Ankylosaurus
+    sq: Ankylosaurus
+    sr: Ankylosaurus
+    sv: Ankylosaurus magniventris
+    th: แองคิโลซอรัส
+    tk: Ankylozawr
+    tl: Ankylosaurus
+    tr: Ankylosaurus
+    uk: Анкілозавр
+    uz: Ankilozavrlar
+    vi: Ankylosaurus
+    war: Ankylosaurus
+    wuu: 甲龙属
+    yue: 甲龍
+    zh: 甲龙属
+    zh-cn: 甲龙属
+    zh-hans: 甲龙属
 ---
-
 # [[Ankylosauria]]
 
 Armored-plated dinosaurs 

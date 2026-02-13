@@ -1,66 +1,385 @@
 ---
 aliases:
-  - Guitar
+- axenôhonestôtse
+- chitara
+- chitarra
+- chitarra acustica
+- Chitarâ
+- chitară
+- cithara Hispanica
+- dgitare
+- djitare
+- ghi-ta
+- ghitara
+- ghitare
+- Ghitarra
+- giotàr
+- giotár
+- Gita
+- gitaa
+- Gitaar
+- Gitar
+- gitara
+- gitari
+- gitaro
+- gitaros
+- Gitarr
+- gitarra
+- Gitarre
+- Gittar
+- gittari
+- gitár
+- gitárra
+- gitâr
+- Guitar
+- guitare
+- guitarra
+- Guitåre
+- Gytārre
+- Gì-tah
+- gítar
+- gîtar
+- Gėtara
+- hitar
+- ilo kalama pi linja luka wan
+- Isigingci
+- jgita
+- Jita
+- jitaa
+- kiitaar
+- Kit-ta
+- Kitaar
+- Kitaari
+- kitara
+- kitarr
+- kitarra
+- kitā
+- Klampfen
+- kytara
+- lindanda
+- mbaraka
+- mecahuēhuētl
+- papowapikepitcikan
+- Qita
+- quitarra
+- sista
+- snitra
+- violão
+- ģitāra
+- κιθάρα
+- гітара
+- гитар
+- гитарæ
+- гитара
+- гитор
+- китара
+- ґітара
+- Ґитара
+- կիթառ
+- גיטאר
+- גיטרה
+- جيتار
+- قيثارة
+- لݣيطار
+- ڨيطارة
+- ګټار
+- گِٹار
+- گٹار
+- گیتار
+- گیتارزن
+- ݢيتر
+- गिटार
+- गिटार्वाद्यम्
+- गितार
+- গিটার
+- গিটাৰ
+- ਗਿਟਾਰ
+- ગિટાર
+- ଗିଟାର
+- கித்தார்
+- గిటారు
+- ಗಿಟಾರ್
+- ഗിറ്റാർ
+- ගිටාරය
+- กีตาร์
+- རྒྱུད་དྲུག
+- ဂစ်တာ
+- တိင်ႇ
+- გიტარა
+- ጊታር
+- ᏗᎧᏃᎩᏍᏗ
+- ᱜᱤᱴᱟᱨ
+- ギター
+- 吉他
+- 結他
+- 기타
 has_id_wikidata: Q6607
 Amazon_com_browse_node: 11971241
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Romanza%20espa%C3%B1ola.ogg
-award_received: "[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]"
+award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
 Baidu_Tieba_name: 吉他
 Commons_category: Guitars
 Commons_gallery: Guitar
-depicted_by: "[[_Standards/WikiData/WD~Guitar_Hero,533752]]"
+depicted_by: '[[_Standards/WikiData/WD~Guitar_Hero,533752]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
 Dewey_Decimal_Classification: 787.87
-different_from: "[[_Standards/WikiData/WD~Sista,4420886]]"
+different_from: '[[_Standards/WikiData/WD~Sista,4420886]]'
 equivalent_class: http://dbpedia.org/ontology/Guitar
 GitHub_topic: guitar
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sound_hole,221712]]"
-  - "[[_Standards/WikiData/WD~truss_rod,590623]]"
-  - "[[_Standards/WikiData/WD~fret,636309]]"
-  - "[[_Standards/WikiData/WD~fretboard,745887]]"
-  - "[[_Standards/WikiData/WD~bridge,830869]]"
-  - "[[_Standards/WikiData/WD~neck,944038]]"
-  - "[[_Standards/WikiData/WD~headstock,1033547]]"
-  - "[[_Standards/WikiData/WD~nut,1186738]]"
-  - "[[_Standards/WikiData/WD~sound_board,1189953]]"
-  - "[[_Standards/WikiData/WD~guitar_string,1527700]]"
-  - "[[_Standards/WikiData/WD~inlay,6034896]]"
-  - "[[_Standards/WikiData/WD~machine_head,17149240]]"
-  - "[[_Standards/WikiData/WD~body,55185381]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~guitar_accessories,55185569]]"
+- '[[_Standards/WikiData/WD~sound_hole,221712]]'
+- '[[_Standards/WikiData/WD~truss_rod,590623]]'
+- '[[_Standards/WikiData/WD~fret,636309]]'
+- '[[_Standards/WikiData/WD~fretboard,745887]]'
+- '[[_Standards/WikiData/WD~bridge,830869]]'
+- '[[_Standards/WikiData/WD~neck,944038]]'
+- '[[_Standards/WikiData/WD~headstock,1033547]]'
+- '[[_Standards/WikiData/WD~nut,1186738]]'
+- '[[_Standards/WikiData/WD~sound_board,1189953]]'
+- '[[_Standards/WikiData/WD~guitar_string,1527700]]'
+- '[[_Standards/WikiData/WD~inlay,6034896]]'
+- '[[_Standards/WikiData/WD~machine_head,17149240]]'
+- '[[_Standards/WikiData/WD~body,55185381]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~guitar_accessories,55185569]]'
 Hornbostel_Sachs_classification: 321.322-5-6
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Classical%20Guitar%20two%20views.jpg
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Krugosvet_article: kultura_i_obrazovanie/muzyka/GITARA.html
 made_from_material:
-  - "[[_Standards/WikiData/WD~mahogany_wood,239788]]"
-  - "[[_Standards/WikiData/WD~maple_wood,402516]]"
+- '[[_Standards/WikiData/WD~mahogany_wood,239788]]'
+- '[[_Standards/WikiData/WD~maple_wood,402516]]'
 Nomenclature_for_Museum_Cataloging: 10792
 OmegaWiki_Defined_Meaning: 349118
-partially_coincident_with: "[[_Standards/WikiData/WD~electro-acoustic_chordophones,55738960]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q21201204,21201204]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~electro-acoustic_chordophones,55738960]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21201204,21201204]]'
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20guitar.png
 social_media_followers: 1645845
 subclass_of:
-  - "[[_Standards/WikiData/WD~Q57306162,57306162]]"
-  - "[[_Standards/WikiData/WD~long,_thin_object,113519195]]"
+- '[[_Standards/WikiData/WD~Q57306162,57306162]]'
+- '[[_Standards/WikiData/WD~long,_thin_object,113519195]]'
 subreddit: Guitar
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_guitar_model,10563739]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Guitar,14615774]]"
-Unicode_character: 🎸
-used_by: "[[_Standards/WikiData/WD~guitarist,855091]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_guitar_model,10563739]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guitar,14615774]]'
+Unicode_character: "\U0001F3B8"
+used_by: '[[_Standards/WikiData/WD~guitarist,855091]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap.ogv
+dv_has_:
+  name_:
+    af: Kitaar
+    am: ጊታር
+    an: Guitarra
+    ang: Gytārre
+    ar: قيثارة
+    arq: ڨيطارة
+    ary: لݣيطار
+    arz: جيتار
+    as: গিটাৰ
+    ast: guitarra
+    atj: papowapikepitcikan
+    az: gitara
+    azb: گیتار
+    ba: гитара
+    ban: Gitar
+    bar: Klampfen
+    bcl: Gitara
+    be: гітара
+    be-tarask: гітара
+    bew: hitar
+    bg: китара
+    bho: गिटार
+    bm: gitari
+    bn: গিটার
+    bo: རྒྱུད་དྲུག
+    br: gitar
+    bs: gitara
+    ca: guitarra
+    chr: ᏗᎧᏃᎩᏍᏗ
+    chy: axenôhonestôtse
+    ckb: گیتار
+    crh: Gitara
+    cs: kytara
+    csb: gitara
+    cv: Гитара
+    cy: gitâr
+    da: guitar
+    dag: jitaa
+    de: Gitarre
+    de-ch: Gitarre
+    diq: gitar
+    el: κιθάρα
+    en: guitar
+    en-ca: guitar
+    en-gb: guitar
+    en-us: guitar
+    eo: gitaro
+    es: guitarra
+    et: kitarr
+    eu: gitarra
+    ext: quitarra
+    fa: گیتار
+    fi: kitara
+    fj: Qita
+    fo: gittari
+    fr: guitare
+    frr: gitaar
+    fur: ghitare
+    fy: gitaar
+    ga: giotár
+    gd: giotàr
+    gl: guitarra
+    gn: mbaraka
+    gsw: Gitarre
+    gu: ગિટાર
+    gv: gitar
+    ha: Jita
+    hak: Kit-ta
+    he: גיטרה
+    hi: गिटार
+    hif: guitar
+    hr: gitara
+    hsb: gitara
+    ht: Gita
+    hu: gitár
+    hy: կիթառ
+    hyw: կիթառ
+    ia: Guitarra
+    iba: Gitar
+    id: gitar
+    ig: Jita
+    ilo: gitara
+    io: gitaro
+    is: gítar
+    it: chitarra
+    ja: ギター
+    jbo: jgita
+    jv: gitar
+    ka: გიტარა
+    kaa: gitara
+    kab: snitra
+    kbp: Kitaari
+    kk: гитара
+    kl: guitar
+    kn: ಗಿಟಾರ್
+    ko: 기타
+    ks: گِٹار
+    ku: gîtar
+    kv: гитара
+    ky: гитара
+    la: cithara Hispanica
+    lb: Gittar
+    lfn: Gitar
+    li: Gitaar
+    lij: Chitara
+    lmo: ghitara
+    ln: lindanda
+    lrc: گیتارزن
+    lt: gitara
+    lv: ģitāra
+    lzh: 吉他
+    mai: गितार
+    mg: Gitara
+    mi: kitā
+    mk: гитара
+    ml: ഗിറ്റാർ
+    mn: гитар
+    mr: गिटार
+    ms: gitar
+    ms-arab: ݢيتر
+    mt: kitarra
+    my: ဂစ်တာ
+    mzn: گیتار
+    nah: mecahuēhuētl
+    nan: Gì-tah
+    nb: gitar
+    nds: Gitarr
+    nds-nl: gitaar
+    ne: गितार
+    new: गितार
+    nl: gitaar
+    nn: gitar
+    nrm: dgitare
+    oc: guitarra
+    or: ଗିଟାର
+    os: гитарæ
+    pa: ਗਿਟਾਰ
+    pam: gitara
+    pcd: djitare
+    pl: gitara
+    pms: Chitara
+    pnb: گٹار
+    ps: ګټار
+    pt: guitarra
+    pt-br: violão
+    qu: kitara
+    rm: Ghitarra
+    rmf: gitaros
+    ro: chitară
+    rsk: Ґитара
+    ru: гитара
+    rue: ґітара
+    rup: Chitarâ
+    sa: गिटार्वाद्यम्
+    sat: ᱜᱤᱴᱟᱨ
+    sc: ghitarra
+    scn: chitarra acustica
+    sco: guitar
+    se: gitárra
+    sgs: Gėtara
+    sh: gitara
+    shn: တိင်ႇ
+    si: ගිටාරය
+    sk: gitara
+    sl: kitara
+    smj: gitárra
+    smn: kiitaar
+    sms: kitara
+    so: gitaar
+    sq: kitara
+    sr: гитара
+    su: gitar
+    sv: gitarr
+    sw: gitaa
+    szl: gitara
+    ta: கித்தார்
+    te: గిటారు
+    tg: гитор
+    th: กีตาร์
+    tl: gitara
+    tok: ilo kalama pi linja luka wan
+    tr: gitar
+    tyv: гитара
+    udm: гитара
+    uk: гітара
+    ur: گٹار
+    uz: gitara
+    vec: chitara
+    vep: gitar
+    vi: ghi-ta
+    wa: Guitåre
+    war: sista
+    wuu: 吉他
+    xmf: გიტარა
+    yi: גיטאר
+    yue: 結他
+    zh: 吉他
+    zh-cn: 吉他
+    zh-hans: 吉他
+    zh-hant: 吉他
+    zh-hk: 結他
+    zh-mo: 結他
+    zh-my: 吉他
+    zh-sg: 吉他
+    zh-tw: 吉他
+    zu: Isigingci
 ---
-
 # [[Guitar]] 🎸 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Guitar,6607|WD~Guitar,6607]] 

@@ -1,26 +1,158 @@
 ---
 aliases:
-  - Basketball
+- Ajakakuapytĩ
+- Baaskitbaal
+- Bale tal zei
+- Ball-basgaid
+- Ballabanastra
+- Ballabasket
+- baloncesto
+- baloncestu
+- Bascetbal
+- baschet
+- basiketibolo
+- basket
+- basket-ball
+- basketbal
+- Basketbale
+- Basketball
+- Basketbalo
+- basketbaw
+- Basketboi
+- Basketbol
+- Basketbolli
+- basketbols
+- basketbul
+- Baskete
+- Baskety
+- baskitbol
+- Baskètbòl
+- Baskét
+- basquetbol
+- Basquetbòl
+- Basquetebol
+- Bałacanestro
+- bluckan bascaidagh
+- Bol keranjang
+- bola basket
+- bola keranjang
+- botzacanastra
+- bóng rổ
+- Bọ́ọ̀lù-alápẹ̀rẹ̀
+- Canistriludium
+- Cawlþōðer
+- Chiquiuhtapayōlhuiliztli
+- cispheil
+- Dökthiɔ̈l
+- gorespábba
+- Hohtsemo
+- Isanka rump'u
+- Kgwele ya ntlatlana
+- Korbbal
+- korbopilkado
+- korgball
+- koripallo
+- koripállu
+- Korvpall
+- koszykówka
+- kosárlabda
+- košarka
+- krepšinis
+- Krepšėnis
+- Kubadda Koleyga
+- kurvabóltur
+- Kwallon kwando
+- kårjjpäll
+- körfuknattleikur
+- Lanzgiuz
+- Làm-khiù
+- Làng-giù
+- Marbasket
+- Motópi mwa dangú
+- Mpira wa kikapu
+- Nâ-kiû
+- pallacanestro
+- pallacanestru
+- pallaccannistru
+- Pasiketipolo
+- Pel ganstell
+- poitūkohu
+- Pêl-fasged
+- saskibaloi
+- sike poki
+- tacamma n tsknit
+- Takurt n Uqecwal
+- Umupira w’agatebo
+- Ɖaakuɖe pombo
+- καλαθοσφαίριση
+- Баскетбал
+- баскетбол
+- кошарка
+- Кудсяр
+- Сагсан бөмбөг
+- բասկետբոլ
+- պասքէթպոլ
+- כדורסל
+- קוישבאל
+- باسكيط
+- باسکٹ بال
+- باسکټبال
+- باسڪٽ بال
+- بسکتبال
+- بسکتوال
+- تۆپی سەبەتە
+- كرة السلة
+- كرة السله
+- ۋاسكېتبول
+- बास्केटबल
+- बास्केटबॉल
+- बॉस्केटबॉल
+- शिक्यकन्दुक
+- বাস্কেটবল
+- ਬਾਸਕਟਬਾਲ
+- બાસ્કેટબોલ
+- ବାସ୍କେଟବଲ
+- கூடைப்பந்தாட்டம்
+- బాస్కెట్ బాల్
+- ಬಾಸ್ಕೆಟ್ ಬಾಲ್
+- ಬ್ಯಾಸ್ಕೆಟ್ಬಾಲ್
+- ബാസ്ക്കറ്റ്ബോൾ
+- පැසිපන්දු
+- บาสเกตบอล
+- ບານບ້ວງ
+- དྲ་ཕས་སྤོ་ལོ།
+- ဘတ်စကက်ဘော
+- မၢၵ်ႇၼင်သွင်း
+- კალათბურთი
+- კარაჩხაბურთი
+- የቅርጫት ኳስ
+- ᱵᱟᱥᱠᱮᱴᱵᱚᱞ
+- バスケットボール
+- 篮球
+- 籃球
+- 농구
+- 롱구
+- "\U00010344\U00010330\U00010339\U0001033D\U0001033E\U00010330\U00010331\U00010330\U0001033B\U0001033B\U00010339"
 has_id_wikidata: Q5372
-authority: "[[_Standards/WikiData/WD~International_Basketball_Federation,46199]]"
+authority: '[[_Standards/WikiData/WD~International_Basketball_Federation,46199]]'
 Baidu_Tieba_name: 篮球
 BHCL_UUID: b749c553-f4a5-4c56-8dd0-14a32c86db02
 Colon_Classification: MY2115
 Commons_category: National Basketball Association
 Commons_gallery: Basketball
 competition_class:
-  - "[[_Standards/WikiData/WD~women's_basketball,2887217]]"
-  - "[[_Standards/WikiData/WD~men's_basketball,46343203]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~women's_basketball,2887217]]"
+- "[[_Standards/WikiData/WD~men's_basketball,46343203]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 Dewey_Decimal_Classification: 796.323
-different_from: "[[_Standards/WikiData/WD~netball,231200]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Naismith,188962]]"
+different_from: '[[_Standards/WikiData/WD~netball,231200]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Naismith,188962]]'
 duration:
-  - 40
-  - 12
-  - 32
-  - 56
+- 40
+- 12
+- 32
+- 56
 exact_match: http://imagenet.stanford.edu/synset?wnid=n02802426
 GitHub_topic: basketball
 hashtag: basketball
@@ -31,9 +163,9 @@ Iconclass_notation: 43C4122
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Three%20point%20shoot.JPG
 inception: 1891-12-01
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 IPTC_NewsCode: mediatopic/20000851
 Krugosvet_article: sport/BASKETBOL.html
 Library_of_Congress_Classification: GV882-GV889.23
@@ -41,32 +173,251 @@ maximum_number_of_players: 5
 MeSH_tree_code: I03.450.642.845.117
 nickname: bàsquet
 OmegaWiki_Defined_Meaning: 6375
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 OpenStreetMap_tag_or_key: Tag:sport=basketball
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Basketball%20in%20North%20America%20OKC%20Thunder%20court.jpg
 practiced_by:
-  - "[[_Standards/WikiData/WD~basketball_player,3665646]]"
-  - "[[_Standards/WikiData/WD~basketball_coach,5137571]]"
+- '[[_Standards/WikiData/WD~basketball_player,3665646]]'
+- '[[_Standards/WikiData/WD~basketball_coach,5137571]]'
 short_name: basket
 subclass_of:
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
-  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
-  - "[[_Standards/WikiData/WD~throwing_game,128305747]]"
+- '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
+- '[[_Standards/WikiData/WD~throwing_game,128305747]]'
 subreddit: Basketball
 time_of_discovery_or_invention: 1891-12-01
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Basketball,8090946]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Basketball,8206894]]"
-Unicode_character: 🏀
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Basketball,8090946]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Basketball,8206894]]'
+Unicode_character: "\U0001F3C0"
 UNSPSC_Code: 49161615
 uses:
-  - "[[_Standards/WikiData/WD~basketball,810345]]"
-  - "[[_Standards/WikiData/WD~backboard,1784231]]"
-  - "[[_Standards/WikiData/WD~basket,2283464]]"
-  - "[[_Standards/WikiData/WD~basketball_court,2341939]]"
+- '[[_Standards/WikiData/WD~basketball,810345]]'
+- '[[_Standards/WikiData/WD~backboard,1784231]]'
+- '[[_Standards/WikiData/WD~basket,2283464]]'
+- '[[_Standards/WikiData/WD~basketball_court,2341939]]'
 U_S_National_Archives_Identifier: 10647372
+dv_has_:
+  name_:
+    af: basketbal
+    am: የቅርጫት ኳስ
+    an: Baloncesto
+    ang: Cawlþōðer
+    anp: बॉस्केटबॉल
+    ar: كرة السلة
+    ary: باسكيط
+    arz: كرة السله
+    as: বাস্কেটবল
+    ast: baloncestu
+    awa: बास्केटबॉल
+    az: basketbol
+    azb: بسکتبال
+    ba: баскетбол
+    ban: Bola basket
+    bar: Basketboi
+    bcl: Basketbol
+    be: баскетбол
+    be-tarask: баскетбол
+    bew: Bola keranjang
+    bg: Баскетбол
+    bjn: Baskét
+    bn: বাস্কেটবল
+    bo: དྲ་ཕས་སྤོ་ལོ།
+    br: basketball
+    bs: košarka
+    btm: Marbasket
+    bxr: Баскетбол
+    ca: basquetbol
+    cdo: Làng-giù
+    ce: Баскетбол
+    ceb: Basketbol
+    chy: Hohtsemo
+    ckb: تۆپی سەبەتە
+    co: pallacanestru
+    crh: Basketbol
+    cs: basketbal
+    cv: Баскетбол
+    cy: Pêl-fasged
+    da: basketball
+    de: Basketball
+    de-ch: Basketball
+    din: Dökthiɔ̈l
+    diq: Basketbol
+    el: καλαθοσφαίριση
+    en: basketball
+    en-ca: Basketball
+    en-gb: basketball
+    en-us: basketball
+    eo: korbopilkado
+    es: baloncesto
+    et: korvpall
+    eu: saskibaloi
+    ext: Baloncestu
+    fa: بسکتبال
+    fi: koripallo
+    fj: basiketibolo
+    fo: kurvabóltur
+    fr: basket-ball
+    fur: Bale tal zei
+    fy: Basketbal
+    ga: cispheil
+    gd: Ball-basgaid
+    gl: baloncesto
+    gn: Ajakakuapytĩ
+    got: "\U00010344\U00010330\U00010339\U0001033D\U0001033E\U00010330\U00010331\U00010330\U0001033B\U0001033B\U00010339"
+    gsw: Basketball
+    gu: બાસ્કેટબોલ
+    gv: bluckan bascaidagh
+    ha: Kwallon kwando
+    hak: Làm-khiù
+    he: כדורסל
+    hi: बास्केटबॉल
+    hif: Basketball
+    hr: košarka
+    hsb: basketbul
+    ht: Baskètbòl
+    hu: kosárlabda
+    hy: բասկետբոլ
+    hyw: պասքէթպոլ
+    ia: Basketball
+    iba: Bol keranjang
+    id: bola basket
+    ie: Basketball
+    ig: Basketball
+    ilo: basketbol
+    io: Basketbalo
+    is: körfuknattleikur
+    it: pallacanestro
+    ja: バスケットボール
+    jam: Baaskitbaal
+    jv: Basket
+    ka: კალათბურთი
+    kaa: Basketbol
+    kab: Takurt n Uqecwal
+    kbp: Ɖaakuɖe pombo
+    kk: Баскетбол
+    kn: ಬ್ಯಾಸ್ಕೆಟ್ಬಾಲ್
+    ko: 농구
+    ko-kp: 롱구
+    ku: Basketbol
+    kv: Кудсяр
+    kw: Pel ganstell
+    ky: Баскетбол
+    la: Canistriludium
+    lb: Basketball
+    lbe: Баскетбол
+    lez: Баскетбол
+    lfn: Bascetbal
+    lij: Ballabanastra
+    ln: Motópi mwa dangú
+    lo: ບານບ້ວງ
+    lt: krepšinis
+    lv: basketbols
+    mai: बास्केटबल
+    mg: Baskety
+    mhr: баскетбол
+    mi: poitūkohu
+    min: Bola basket
+    mk: кошарка
+    ml: ബാസ്ക്കറ്റ്ബോൾ
+    mn: Сагсан бөмбөг
+    mr: बास्केटबॉल
+    ms: bola keranjang
+    mt: baskitbol
+    mwl: Basquetebol
+    my: ဘတ်စကက်ဘော
+    mzn: بسکتوال
+    nah: Chiquiuhtapayōlhuiliztli
+    nan: Nâ-kiû
+    nb: basketball
+    nds: Basketball
+    ne: बास्केटबल
+    new: बास्केटबल
+    nl: basketbal
+    nn: korgball
+    nov: Basketbale
+    nso: Kgwele ya ntlatlana
+    oc: Basquetbòl
+    olo: Basketbol
+    or: ବାସ୍କେଟବଲ
+    pa: ਬਾਸਕਟਬਾਲ
+    pag: Basketball
+    pih: Basketball
+    pl: koszykówka
+    pms: Basket
+    pnb: باسکٹ بال
+    ps: باسکټبال
+    pt: basquetebol
+    pt-br: basquetebol
+    qu: Isanka rump'u
+    rm: Ballabasket
+    ro: baschet
+    ru: баскетбол
+    rue: Баскетбал
+    rw: Umupira w’agatebo
+    sa: शिक्यकन्दुक
+    sah: Баскетбол
+    sat: ᱵᱟᱥᱠᱮᱴᱵᱚᱞ
+    sc: botzacanastra
+    scn: pallaccannistru
+    sco: basketbaw
+    sd: باسڪٽ بال
+    se: gorespábba
+    sgs: Krepšėnis
+    sh: Košarka
+    shi: tacamma n tsknit
+    shn: မၢၵ်ႇၼင်သွင်း
+    si: පැසිපන්දු
+    sk: basketbal
+    sl: košarka
+    sm: Pasiketipolo
+    smn: koripállu
+    sms: kårjjpäll
+    so: Kubadda Koleyga
+    sq: Basketbolli
+    sr: кошарка
+    sr-ec: кошарка
+    su: Bola Basket
+    sv: basket
+    sw: Mpira wa kikapu
+    szl: Korbbal
+    szy: basketball
+    ta: கூடைப்பந்தாட்டம்
+    tcy: ಬಾಸ್ಕೆಟ್ ಬಾಲ್
+    te: బాస్కెట్ బాల్
+    tg: Баскетбол
+    th: บาสเกตบอล
+    tk: Basketbol
+    tl: basketbol
+    tly: Basketbol
+    tok: sike poki
+    tr: basketbol
+    ts: Basketball
+    tt: баскетбол
+    ug: ۋاسكېتبول
+    uk: баскетбол
+    ur: باسکٹ بال
+    uz: Basketbol
+    vec: Bałacanestro
+    vep: basketbol
+    vi: bóng rổ
+    vls: Basket
+    vro: Korvpall
+    wa: Baskete
+    war: Basketbol
+    wuu: 篮球
+    xmf: კარაჩხაბურთი
+    yi: קוישבאל
+    yo: Bọ́ọ̀lù-alápẹ̀rẹ̀
+    yue: 籃球
+    za: Lanzgiuz
+    zh: 篮球
+    zh-cn: 篮球
+    zh-hans: 篮球
+    zh-hant: 籃球
+    zh-hk: 籃球
+    zh-tw: 籃球
 ---
-
 # [[Basketball]] 🏀 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Basketball,5372|WD~Basketball,5372]] 

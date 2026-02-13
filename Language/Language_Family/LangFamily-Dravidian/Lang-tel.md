@@ -1,13 +1,270 @@
 ---
 aliases:
-  - Telugu
-  - తెలుగు
-  - Lang-tel
+- an Teileagúis
+- bahasa Telugu
+- Fiteny telogo
+- Gjuha telugu
+- Hata Telugu
+- Idioma telugú
+- isi-Telugu
+- język telugu
+- Kitelugu
+- Lang-tel
+- Lenga Telugu
+- lingua Telingana
+- Lingua telugu
+- Língua telugu
+- Talgu
+- Teloogooish
+- Telougou
+- telougoueg
+- Telugu
+- Telugu (taol)
+- Telugu jezik
+- telugu keel
+- Telugu linguo
+- Telugu simi
+- Telugu tili
+- telugu valoda
+- Telugu-gí
+- Telugu-ngṳ̄
+- telugua lingvo
+- telugugiella
+- telugukielâ
+- Telugutlahtōlli
+- teluguǩiõll
+- Telugú
+- telugčina
+- telugština
+- telugų kalba
+- Teluqu dili
+- teluščina
+- Telúgú
+- Tet-lu-kú-ngî
+- tiếng Telugu
+- Tok Telugu
+- toki Teluku
+- télougou
+- télugu
+- Wikang Telugu
+- Zimanê telûgû
+- Τελούγκου
+- Вердыме чотрадам системе
+- забони телугу
+- телегу
+- телугу
+- телугу језик
+- телугу теле
+- Телугу хэл
+- телушки јазик
+- тэлугу
+- տելուգու
+- טלוגו
+- טעלוגו
+- التيلوغوية
+- تئلوقو دیلی
+- تلوجو
+- تلوگو
+- تلگو
+- تيلگو ٻولي
+- تیلُگوٗ زَبان
+- تیلگو
+- تېلوګو ژبه
+- تېلۇگۇ تىلى
+- زبان تلگو
+- زمانی تێلووگوو
+- طيلوݣو
+- ތެލުގޫ
+- तेलगु भाषा
+- तेलुगु
+- तेलुगु भाषा
+- तेलुगू
+- तेलुगू भाषा
+- তেলুগু ঠার
+- তেলুগু ভাষা
+- ਤਿਲੁਗੂ
+- તેલુગુ ભાષા
+- ତେଲୁଗୁ
+- தெலுங்கு
+- తెలుగు
+- ತೆಲುಗು
+- ತೆಲುಗು ಭಾಷೆ
+- തെലുഗു
+- තෙළිගු
+- ภาษาเตลูกู
+- ტელუგუ
+- ቴሉጉኛ
+- ᱛᱮᱞᱩᱜᱩ ᱯᱟᱹᱨᱥᱤ
+- テルグ語
+- 泰卢固语
+- 泰盧固文
+- 泰盧固語
+- ꯇꯦꯂꯨꯒꯨ
+- 텔루구어
 tags:
-  - Lang/te
+- Lang/te
 type: Lang
+has_id_wikidata: Q8097
+dv_has_:
+  name_:
+    af: Telugu
+    am: ቴሉጉኛ
+    an: Idioma telugú
+    anp: तेलुगू भाषा
+    ar: التيلوغوية
+    ary: طيلوݣو
+    arz: تلوجو
+    as: তেলুগু ভাষা
+    ast: Telugu
+    awa: तेलुगू भाषा
+    az: Teluqu dili
+    azb: تئلوقو دیلی
+    ba: телегу
+    bbc: Hata Telugu
+    bcl: Telugu
+    be: тэлугу
+    be-tarask: тэлугу
+    bg: телугу
+    bho: तेलुगू
+    bjn: Bahasa Telugu
+    bn: তেলুগু ভাষা
+    bpy: তেলুগু ঠার
+    br: telougoueg
+    brh: Telugú
+    ca: telugu
+    cdo: Telugu-ngṳ̄
+    ceb: Telugu
+    ckb: زمانی تێلووگوو
+    cs: telugština
+    cy: Telugu
+    da: telugu
+    de: Telugu
+    de-ch: Telugu
+    dty: तेलुगु भाषा
+    dv: ތެލުގޫ
+    el: Τελούγκου
+    en: Telugu
+    en-ca: Telugu
+    en-gb: Telugu
+    eo: telugua lingvo
+    es: télugu
+    et: telugu keel
+    eu: Telugu
+    ext: télugu
+    fa: زبان تلگو
+    fi: telugu
+    fr: télougou
+    frr: Telugu
+    ga: an Teileagúis
+    gl: Lingua telugu
+    gu: તેલુગુ ભાષા
+    gv: Teloogooish
+    ha: Talgu
+    hak: Tet-lu-kú-ngî
+    he: טלוגו
+    hi: तेलुगु भाषा
+    hif: Telugu
+    hr: telugu jezik
+    hu: telugu
+    hy: տելուգու
+    ia: Lingua telugu
+    id: bahasa Telugu
+    ig: Telugu
+    io: Telugu linguo
+    is: Telúgú
+    it: telugu
+    ja: テルグ語
+    ka: ტელუგუ
+    kge: Bahasa Telugu
+    kn: ತೆಲುಗು
+    ko: 텔루구어
+    ks: تیلُگوٗ زَبان
+    ku: Zimanê telûgû
+    kv: Телугу
+    la: lingua Telingana
+    lb: Telugu
+    lfn: Telugu
+    lt: telugų kalba
+    lv: telugu valoda
+    mai: तेलुगु भाषा
+    mg: Fiteny telogo
+    mhr: Вердыме чотрадам системе
+    mk: телушки јазик
+    ml: തെലുഗു
+    mn: Телугу хэл
+    mni: ꯇꯦꯂꯨꯒꯨ
+    mr: तेलुगू भाषा
+    ms: bahasa Telugu
+    mt: Telugu
+    mzn: تلوگو
+    nah: Telugutlahtōlli
+    nan: Telugu-gí
+    nb: telugu
+    nds-nl: Telugu (taol)
+    ne: तेलगु भाषा
+    new: तेलुगु
+    nl: Telugu
+    nn: telugu
+    oc: Telugu
+    or: ତେଲୁଗୁ
+    os: телугу
+    pa: ਤਿਲੁਗੂ
+    pap: Telugu
+    pcd: Telougou
+    pl: język telugu
+    pms: Lenga Telugu
+    pnb: تلگو
+    ps: تېلوګو ژبه
+    pt: telugu
+    pt-br: Língua telugu
+    qu: Telugu simi
+    ro: telugu
+    ru: телугу
+    sa: तेलुगु
+    sat: ᱛᱮᱞᱩᱜᱩ ᱯᱟᱹᱨᱥᱤ
+    scn: telugu
+    sd: تيلگو ٻولي
+    se: telugugiella
+    sh: Telugu jezik
+    si: තෙළිගු
+    sk: telugčina
+    sl: teluščina
+    smn: telugukielâ
+    sms: teluguǩiõll
+    sq: Gjuha telugu
+    sr: телугу језик
+    sr-ec: телугу језик
+    sv: telugu
+    sw: Kitelugu
+    ta: தெலுங்கு
+    tcy: ತೆಲುಗು ಭಾಷೆ
+    te: తెలుగు
+    tg: телугу
+    tg-cyrl: забони телугу
+    th: ภาษาเตลูกู
+    tl: Wikang Telugu
+    tok: toki Teluku
+    tpi: Tok Telugu
+    tr: Telugu
+    tt: телугу теле
+    ug: تېلۇگۇ تىلى
+    uk: Телугу
+    ur: تیلگو
+    uz: Telugu tili
+    vec: telugu
+    vi: tiếng Telugu
+    wa: Telougou
+    wuu: 泰卢固语
+    xmf: ტელუგუ
+    yi: טעלוגו
+    yue: 泰盧固文
+    zh: 泰卢固语
+    zh-cn: 泰卢固语
+    zh-hans: 泰卢固语
+    zh-hant: 泰盧固語
+    zh-tw: 泰盧固語
+    zu: isi-Telugu
 ---
-
 # [[Lang-tel]] 
 
 [SpocWebEntityId:: 461 ]

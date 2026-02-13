@@ -1,33 +1,254 @@
 ---
 aliases:
-  - Semiconductor
+- bandaujdij
+- beallejođadas
+- chất bán dẫn
+- Dabarsoo badhii
+- duonkonduktanto
+- Erdieroale
+- félvezető
+- Gjysmëpërcjellësi
+- Halbleiter
+- halfgeleider
+- halfgeleier
+- halvledare
+- halvleder
+- halvleiar
+- Halvleider
+- Healgelieders
+- Hoibloata
+- Hoolichlaitere
+- Hualewleiter
+- hálfleiðari
+- Kuskan pusaq
+- leathsheoltóir
+- Lled-ddargludydd
+- Mikonduktoro
+- Mpampita tapany
+- Nîvragihbar
+- Pol'veim
+- polovodič
+- polprevodnik
+- poluprovodnik
+- poluvodič
+- pooljuht
+- Poslaidėninkē
+- Poàn-tō-thé
+- puolijohde
+- puslaidininkis
+- pusvadītājs
+- półprzewodnik
+- semi-conducteur
+- Semi-kondiktè
+- Semiconductor
+- Semiconductrum
+- Semicondutor
+- semiconduttore
+- Semikandokta
+- Semikonda
+- Semikonduktor
+- Separa pengalir
+- Yarimoʻtkazgich
+- Yarı iletken
+- yarı keçirici
+- yarımkeçirici
+- Çурма ярăш
+- Ημιαγωγός
+- Жарым өткөргүчтөр
+- Зуртухудайди
+- Меншікті өткізгіштік
+- напівпровідник
+- паўправаднік
+- полупроводник
+- Хагас дамжуулагч
+- Хахад дамжуулагша
+- Ярым үткәргес
+- ярымүткәргеч
+- Կիսահաղորդիչներ
+- האלב-דורכפירער
+- מוליך למחצה
+- سیمی کنڈکٹر
+- شبه موصل
+- نص دواز
+- نیم موصل
+- نیمرسانا
+- نیمه رسانا
+- نیمچەگەیەنەر
+- یاریم گئچیریچی
+- अर्धचालक पदार्थ
+- अर्धवाहक
+- অর্ধপরিবাহী
+- অৰ্ধপৰিবাহী
+- ਅਰਧਚਾਲਕ
+- குறைக்கடத்தி
+- అర్ధవాహకం
+- ಅರೆವಾಹಕ
+- ಅರೆವಾಹಕೊ
+- അർദ്ധചാലകം
+- අර්ධ සන්නායක
+- สารกึ่งตัวนำ
+- တပိုင်းလျှပ်ကူး
+- ნახევრად გამტარები
+- 半导体
+- 半導体
+- 半導體
+- 반도체
 has_id_wikidata: Q11456
 Commons_category: Semiconductors
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~p-type_semiconductor,1196214]]'
-  - '[[_Standards/WikiData/WD~n-type_semiconductor,1332028]]'
+- '[[_Standards/WikiData/WD~p-type_semiconductor,1196214]]'
+- '[[_Standards/WikiData/WD~n-type_semiconductor,1332028]]'
 IEV_number: 121-12-06
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Capteurs%20CCD%20et%20CMOS.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Semiconductor%20outlines.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Capteurs%20CCD%20et%20CMOS.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Semiconductor%20outlines.jpg
 MeSH_tree_code: E07.305.625
 OmegaWiki_Defined_Meaning: 3378
 part_of:
-  - '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-  - '[[_Standards/WikiData/WD~semiconductor_memory,1143031]]'
-  - '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
+- '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
+- '[[_Standards/WikiData/WD~semiconductor_memory,1143031]]'
+- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~semiconductor_industry,2986369]]'
-  - '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]'
+- '[[_Standards/WikiData/WD~semiconductor_industry,2986369]]'
+- '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]'
 studied_in: '[[_Standards/WikiData/WD~semiconductors_chemistry,12168144]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
-  - '[[_Standards/WikiData/WD~material,214609]]'
-  - '[[_Standards/WikiData/WD~Q31450902,31450902]]'
+- '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~Q31450902,31450902]]'
 UMLS_CUI: C0036623
+dv_has_:
+  name_:
+    af: halfgeleier
+    an: Semiconductor
+    ar: شبه موصل
+    ary: نص دواز
+    as: অৰ্ধপৰিবাহী
+    ast: Semiconductor
+    az: yarımkeçirici
+    azb: یاریم گئچیریچی
+    ba: Ярым үткәргес
+    bar: Hoibloata
+    be: паўправаднік
+    be-tarask: паўправаднік
+    bg: Полупроводник
+    bn: অর্ধপরিবাহী
+    bs: Poluprovodnik
+    bxr: Хахад дамжуулагша
+    ca: semiconductor
+    ckb: نیمچەگەیەنەر
+    crh: yarı keçirici
+    cs: polovodič
+    cv: Çурма ярăш
+    cy: Lled-ddargludydd
+    da: halvleder
+    de: Halbleiter
+    el: Ημιαγωγός
+    en: semiconductor
+    eo: duonkonduktanto
+    es: semiconductor
+    et: pooljuht
+    eu: Erdieroale
+    fa: نیمرسانا
+    fi: puolijohde
+    fr: semi-conducteur
+    frr: Hualewleiter
+    fy: Healgelieders
+    ga: leathsheoltóir
+    gan: 半導體
+    gl: Semicondutor
+    gor: Semikonduktor
+    gsw: Halbleiter
+    he: מוליך למחצה
+    hi: अर्धचालक पदार्थ
+    hif: Semiconductor
+    hr: poluvodič
+    ht: Semi-kondiktè
+    hu: félvezető
+    hy: Կիսահաղորդիչներ
+    ia: Semiconductor
+    id: semikonduktor
+    ie: Semiconductor
+    io: Mikonduktoro
+    is: hálfleiðari
+    it: semiconduttore
+    ja: 半導体
+    jam: Semikandokta
+    jv: Semikonduktor
+    ka: ნახევრად გამტარები
+    kk: Меншікті өткізгіштік
+    kn: ಅರೆವಾಹಕ
+    ko: 반도체
+    ku: Nîvragihbar
+    ky: Жарым өткөргүчтөр
+    la: Semiconductrum
+    lez: Зуртухудайди
+    lmo: Semicondutor
+    lt: puslaidininkis
+    lv: pusvadītājs
+    mag: अर्धचालक पदार्थ
+    mg: Mpampita tapany
+    mk: Полупроводник
+    ml: അർദ്ധചാലകം
+    mn: Хагас дамжуулагч
+    mr: अर्धवाहक
+    ms: Separa pengalir
+    my: တပိုင်းလျှပ်ကူး
+    mzn: نیمه رسانا
+    nan: Poàn-tō-thé
+    nb: halvleder
+    nds: Halvleider
+    ne: अर्धचालक पदार्थ
+    nl: halfgeleider
+    nn: halvleiar
+    oc: Semiconductor
+    om: Dabarsoo badhii
+    pa: ਅਰਧਚਾਲਕ
+    pl: półprzewodnik
+    pms: Semicondutor
+    pnb: سیمی کنڈکٹر
+    pt: semicondutor
+    qu: Kuskan pusaq
+    ro: semiconductor
+    ru: полупроводник
+    sco: semiconductor
+    se: beallejođadas
+    sgs: Poslaidėninkē
+    sh: Poluprovodnik
+    si: අර්ධ සන්නායක
+    sk: polovodič
+    sl: polprevodnik
+    sq: Gjysmëpërcjellësi
+    sr: полупроводник
+    sr-ec: полупроводник
+    sr-el: poluprovodnik
+    stq: Hoolichlaitere
+    sv: halvledare
+    sw: Semikonda
+    ta: குறைக்கடத்தி
+    tcy: ಅರೆವಾಹಕೊ
+    te: అర్ధవాహకం
+    th: สารกึ่งตัวนำ
+    tl: Semikonduktor
+    tr: Yarı iletken
+    tt: ярымүткәргеч
+    udm: полупроводник
+    uk: напівпровідник
+    ur: نیم موصل
+    uz: Yarimoʻtkazgich
+    vep: Pol'veim
+    vi: chất bán dẫn
+    war: Semikonduktor
+    wuu: 半导体
+    yi: האלב-דורכפירער
+    yue: 半導體
+    za: bandaujdij
+    zh: 半導體
+    zh-hans: 半导体
+    zh-hant: 半導體
+    zh-tw: 半導體
 ---
-
 # [[Semiconductor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Semiconductor,11456|WD~Semiconductor,11456]] 

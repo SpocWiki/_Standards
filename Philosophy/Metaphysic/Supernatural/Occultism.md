@@ -1,22 +1,83 @@
 ---
 aliases:
+- briotais
+- cli oe mjkwi pwpñd njipv ,mnklfo
+- dulspeki
+- Fìsica (magìa)
+- Occulta
+- occultism
+- occultisme
+- occulto
+- ockultism
+- ocultism
+- ocultisme
+- ocultismo
+- Ocultismu
+- Okkult
+- okkultism
+- okkultisma
+- okkultisme
+- okkultismi
+- okkultismm
+- Okkultismus
+- okkultissma
+- Okkultizm
+- okkultizmus
+- Okkwlʹtïzm
+- okultelezh
+- okultism
+- Okultisme
+- okultismo
+- okultisms
+- okultismus
+- Okultizam
+- okultizem
+- okultizmas
+- Okultizmi
+- okultizmus
+- okultyzm
+- Okültizm
+- thần bí học
+- yr Ocwlt
+- Ôkoltisma
+- Αποκρυφισμός
+- акультызм
+- оккультизм
+- окултизам
+- Окултизъм
+- окультизм
+- улуми ғариба
+- Օկուլտականություն
+- תורת הנסתר
+- تنجيم
+- علوم خفیه
+- وككۋلتىيزم
+- پټ علوم
+- மறைபொருள் நிலை
+- ගුප්තශාස්ත්ර
+- รหัสญาณ
+- ოკულტიზმი
+- オカルト
+- 神秘学
+- 神秘學
+- 오컬트
 has_id_wikidata: Q178934
-main_subject: "[[_Standards/WikiData/WD~paranormal,332102]]"
+main_subject: '[[_Standards/WikiData/WD~paranormal,332102]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
-different_from: "[[_Standards/WikiData/WD~covert_operation,1546073]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Al_Ghaib,1977474]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+different_from: '[[_Standards/WikiData/WD~covert_operation,1546073]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Al_Ghaib,1977474]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~human_behavior,3769299]]"
-  - "[[_Standards/WikiData/WD~knowledge,9081]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
-practiced_by: "[[_Standards/WikiData/WD~occultist,12797895]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Occult_navigation,13560415]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Occult,15146849]]"
-Dewey_Decimal_Classification: "130"
+- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
+- '[[_Standards/WikiData/WD~knowledge,9081]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
+practiced_by: '[[_Standards/WikiData/WD~occultist,12797895]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Occult_navigation,13560415]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Occult,15146849]]'
+Dewey_Decimal_Classification: 130
 subreddit: occult
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Holytable.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/OccultBanner.jpg
@@ -25,8 +86,103 @@ UMLS_CUI: C0028794
 MeSH_tree_code: K01.672
 Commons_category: Occult
 Colon_Classification: Δ:8
+dv_has_:
+  name_:
+    af: Okkult
+    ar: تنجيم
+    ast: Ocultismu
+    az: Okkultizm
+    be: акультызм
+    be-tarask: акультызм
+    bg: Окултизъм
+    br: okultelezh
+    bs: Okultizam
+    ca: ocultisme
+    cs: okultismus
+    cy: yr Ocwlt
+    da: Okkultisme
+    de: Okkultismus
+    el: Αποκρυφισμός
+    en: occultism
+    eo: okultismo
+    es: ocultismo
+    et: okultism
+    eu: okultismo
+    fa: علوم خفیه
+    fi: okkultismi
+    fr: occultisme
+    ga: briotais
+    gl: ocultismo
+    he: תורת הנסתר
+    hil: cli oe mjkwi pwpñd njipv ,mnklfo
+    hr: okultizam
+    hu: okkultizmus
+    hy: Օկուլտականություն
+    id: Okultisme
+    is: dulspeki
+    it: occulto
+    ja: オカルト
+    ka: ოკულტიზმი
+    kk: Оккультизм
+    kk-arab: وككۋلتىيزم
+    kk-cn: وككۋلتىيزم
+    kk-cyrl: Оккультизм
+    kk-kz: Оккультизм
+    kk-latn: Okkwlʹtïzm
+    kk-tr: Okkwlʹtïzm
+    ko: 오컬트
+    ky: Оккультизм
+    la: Occulta
+    lb: Okkultismus
+    li: Occultisme
+    lt: okultizmas
+    lv: okultisms
+    lzh: 神秘學
+    mg: Ôkoltisma
+    mk: окултизам
+    ms: Okultisme
+    nb: okkultisme
+    nl: occultisme
+    nn: okkultisme
+    oc: Ocultisme
+    pl: okultyzm
+    pms: Fìsica (magìa)
+    ps: پټ علوم
+    pt: ocultismo
+    ro: ocultism
+    ru: оккультизм
+    se: okkultisma
+    sh: Okultizam
+    si: ගුප්තශාස්ත්ර
+    sje: okkultissma
+    sk: okultizmus
+    sl: okultizem
+    sma: okkultisme
+    smj: okkultissma
+    smn: okkultism
+    sms: okkultismm
+    sq: Okultizmi
+    sr: окултизам
+    sr-ec: Окултизам
+    sr-el: Okultizam
+    sv: ockultism
+    ta: மறைபொருள் நிலை
+    tg: улуми ғариба
+    th: รหัสญาณ
+    tr: Okültizm
+    uk: окультизм
+    uz: Okkultizm
+    vi: thần bí học
+    wuu: 神秘学
+    yue: 神秘學
+    zh: 神秘学
+    zh-cn: 神秘学
+    zh-hans: 神秘学
+    zh-hant: 神秘學
+    zh-hk: 神秘學
+    zh-sg: 神秘学
+    zh-tw: 神秘學
 ---
-
 # [[Occultism]] 
 
 #is_/same_as :: [[WD~Occultism,178934]] 

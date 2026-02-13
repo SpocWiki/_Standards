@@ -1,4 +1,62 @@
-
+---
+has_id_wikidata: Q331309
+dv_has_:
+  name_:
+    ar: فرط الملاءمة
+    ca: Sobreajustament (overfitting)
+    cs: přeučení
+    de: Überanpassung
+    en: overfitting
+    en-ca: Overfitting
+    en-gb: Overfitting
+    es: sobreajuste
+    fa: بیشبرازش
+    fr: surapprentissage
+    he: התאמת יתר
+    id: Overfitting
+    it: overfitting
+    ja: 過剰適合
+    ko: 과적합
+    nb: overtilpasning
+    nl: overfitting
+    nn: overtilpassing
+    pl: Nadmierne dopasowanie
+    pt: sobreajuste
+    pt-br: Sobreajuste
+    qu: Ancha mat'i
+    ru: Переобучение
+    sl: prekomerno prileganje podatkom
+    su: Overfitting
+    tr: Aşırı uyma
+    uk: перенавчання
+    vi: Sự quá khớp
+    yue: 過適
+    zh: 過適
+    zh-hans: 过拟合
+aliases:
+- Ancha mat'i
+- Aşırı uyma
+- Nadmierne dopasowanie
+- overfitting
+- overtilpasning
+- overtilpassing
+- prekomerno prileganje podatkom
+- přeučení
+- Sobreajustament (overfitting)
+- sobreajuste
+- surapprentissage
+- Sự quá khớp
+- Überanpassung
+- перенавчання
+- Переобучение
+- התאמת יתר
+- بیشبرازش
+- فرط الملاءمة
+- 过拟合
+- 過剰適合
+- 過適
+- 과적합
+---
 Overfitting is [[rote Learning]] 
 and arguable less efficient than comprehension and abstraction. 
 

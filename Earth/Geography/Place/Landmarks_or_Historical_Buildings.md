@@ -1,81 +1,192 @@
 ---
 aliases:
-  - landmarks-or-historical-buildings
-  - landmarks_or_historical_buildings
-  - LandmarksOrHistoricalBuildings
-  - is_a_landmarks_or_historical_buildings
-  - Landmarks_or_Historical_Buildings
-  - Landmarks or Historical Buildings
+- architectural landmark
+- architektūrinis paminklas
+- arhitektūras piemineklis
+- arxitekturalıq estelik
+- díol suntais ailtireachta
+- is_a_landmarks_or_historical_buildings
+- Landmarks or Historical Buildings
+- landmarks-or-historical-buildings
+- LandmarksOrHistoricalBuildings
+- landmarks_or_historical_buildings
+- Landmerk
+- landmärke
+- laundmark
+- lieu d'intérêt
+- maamerkki
+- maamärk
+- markah tanah
+- memarlıq abidəsi
+- orientační bod
+- oriëntatiepunt
+- ponto de referência
+- punkt orientacyjny
+- punt de referència
+- punto de referencia
+- punto di riferimento
+- Pusulay cay vinayışi
+- rekonilo
+- tanda tempat
+- tirnod
+- tirnos
+- tájékozódási pont
+- vartegn
+- Wahrzeichen
+- yön bulma işareti
+- znamenitost
+- điểm mốc
+- ορόσημο
+- Архитектура палăкĕ
+- знаменито место
+- мигъмарият һәйкәле
+- памятник архитектуры
+- пам’ятка архітектури
+- помнік архітэктуры
+- ճարտարապետական հուշարձան
+- סימן נוף
+- امتیازی نشان
+- تعٲمیرأتی نِشان
+- لندمارک
+- معلم
+- ھێمایەکی تەلارسازی
+- थलचिन्ह
+- ಹೆಗ್ಗುರುತು
+- ആകർഷണം
+- ภูมิสัญลักษณ์
+- ランドマーク
+- 地标建筑
+- 地標
+- 地標建築
+- 랜드마크
 has_id_wikidata: Q2319498
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - landmarks_or_historical_buildings
-layout: ""
+- landmarks_or_historical_buildings
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_landmarks_or_historical_buildings Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_landmarks_or_historical_buildings Class
 type: Type
 subclass_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~landmark,4895393]]"
-different_from: "[[_Standards/WikiData/WD~landmark,4895393]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q7607402,7607402]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q13439180,13439180]]"
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~landmark,4895393]]'
+different_from: '[[_Standards/WikiData/WD~landmark,4895393]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q7607402,7607402]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13439180,13439180]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
 properties_for_this_type:
-  - plaque image
-  - nighttime view
-  - spherical panorama image
-  - ground level 360 degree view URL
-  - image of interior
-  - state of conservation
-  - image of entrance
-  - model image
-  - architect
-  - architectural style
+- plaque image
+- nighttime view
+- spherical panorama image
+- ground level 360 degree view URL
+- image of interior
+- state of conservation
+- image of entrance
+- model image
+- architect
+- architectural style
 Stadtwiki_Dresden_article: Wahrzeichen
 Commons_category: Visitor attractions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mitsukoshi01%201024.jpg
 dv_has_:
-  parent_class: "[[../Place]]"
-  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  name_:
+    af: Landmerk
+    ar: معلم
+    az: memarlıq abidəsi
+    be: помнік архітэктуры
+    ca: punt de referència
+    ckb: ھێمایەکی تەلارسازی
+    cs: orientační bod
+    cv: Архитектура палăкĕ
+    cy: tirnod
+    da: vartegn
+    de: Wahrzeichen
+    diq: Pusulay cay vinayışi
+    el: ορόσημο
+    en: architectural landmark
+    eo: rekonilo
+    es: punto de referencia
+    et: maamärk
+    fa: لندمارک
+    fi: maamerkki
+    fr: lieu d'intérêt
+    ga: díol suntais ailtireachta
+    gl: punto de referencia
+    he: סימן נוף
+    hi: थलचिन्ह
+    hu: tájékozódási pont
+    hy: ճարտարապետական հուշարձան
+    id: markah tanah
+    it: punto di riferimento
+    ja: ランドマーク
+    kaa: arxitekturalıq estelik
+    kn: ಹೆಗ್ಗುರುತು
+    ko: 랜드마크
+    ks: تعٲمیرأتی نِشان
+    kw: tirnos
+    lt: architektūrinis paminklas
+    lv: arhitektūras piemineklis
+    mk: знаменито место
+    ml: ആകർഷണം
+    ms: tanda tempat
+    nb: Vartegn
+    nl: oriëntatiepunt
+    pl: punkt orientacyjny
+    pt: ponto de referência
+    ru: памятник архитектуры
+    sco: laundmark
+    sl: znamenitost
+    sv: landmärke
+    th: ภูมิสัญลักษณ์
+    tr: yön bulma işareti
+    tt: мигъмарият һәйкәле
+    uk: пам’ятка архітектури
+    ur: امتیازی نشان
+    vi: điểm mốc
+    yue: 地標
+    zh: 地标建筑
+    zh-cn: 地标建筑
+    zh-hans: 地标建筑
+    zh-hant: 地標建築
+  parent_class: '[[../Place]]'
+  properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
-    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]"
-    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]]"
-    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]]"
-    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]"
-dv_has_parent_class: "[[../Place]]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+  - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]'
+  - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]'
+  - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]]'
+  - '[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]]'
+  - '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]'
+dv_has_parent_class: '[[../Place]]'
+dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~architectural_landmark,2319498]]"
-  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]"
-  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]"
-  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]]"
-  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]]"
-  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]"
+- '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+- '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]]'
+- '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]]'
+- '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]]'
+- '[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]]'
+- '[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]]'
+- '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]'
+- '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]'
 ---
-
 # [[Landmarks_or_Historical_Buildings]] 
 
 Class of all landmarks or historical buildings.

@@ -1,59 +1,180 @@
 ---
 aliases:
-  - Serbo-Croatian
-  - Bosnian-Croatian-Montenegrin-Serbian
-  - Lang-hbs
+- Amanung Serbu-kroatu
+- An t-Sèirb-Chròthaisis
+- an tSeirbea-Chróitis
+- Bahasa Serbi-Kroasia
+- Bahasa Serbo-Croatia
+- bahasa Serbo-Kroasia
+- Basa Srêbiyah Khrêvatskah
+- Bosansce, corvatsce e serbsce
+- Bosnian-Croatian-Montenegrin-Serbian
+- Fiteny serbô-krôatiana
+- Idioma serbocrovate
+- isi-Serbo-Croatian
+- język serbsko-chorwacki
+- Kiserbokroatia
+- Lang-hbs
+- Lengua serbo-croatta
+- Lingua Serbo-Kroatia
+- lingua serbocroata
+- lingua Serbocroatica
+- Língua servo-croata
+- Serb-xorvat dili
+- Serb-xorvat tili
+- serbeg-ha-kroateg
+- serbhorvātu valoda
+- serbia-horvaadi keel
+- Serbisko-chorwatska rěc
+- Serbiskochorwatšćina
+- serbo-croate
+- Serbo-Croateg
+- Serbo-Croatian
+- serbo-croato
+- Serbo-Kroat
+- Serbo-Kroata
+- serbocroat
+- serbocroata
+- serbocroato
+- serbocroatu
+- Serbokroaatsch
+- serbokroaatti
+- serbokroata lingvo
+- Serbokroatesch
+- serbokroatiagiella
+- serbokroatiakielâ
+- serbokroatiaǩiõll
+- Serbokroatisch
+- serbokroatisht
+- serbokroatisk
+- Serbokroatisk spriak
+- serbokroatiska
+- Serbokroaziera
+- Serbskochorwackŏ gŏdka
+- serbu-cruatu
+- serbucroatu
+- Serbòchòrwacczi jãzëk
+- Serbókróatíska
+- Serbų-kroatų kalba
+- Servo-Kroatisch
+- Servokroatisch
+- Serwo-Kroaties
+- Set-ngì-vì-â Khiet-lò-thi-â-ngî
+- Sirbu hurwat rimay
+- srbochorvatština
+- srbochorvátčina
+- srbohrvaščina
+- srpskohrvatski jezik
+- szerbhorvát
+- sârbocroată
+- Sèrb-Cruàt
+- sèrbocroat
+- Sırp-Hırvatça
+- tiếng Serbia-Croatia
+- Wikang Serbo-Kroato
+- Yougoslåve (lingaedje)
+- Σερβοκροατική γλώσσα
+- забони сербу хорватӣ
+- Серб-хорват кыв
+- Серб-хорват теле
+- Серб-хорват тили
+- сербахарвацкая мова
+- сербийнхорватийн мотт
+- Сербохорват кыл
+- сербохорват теле
+- сербохорватский язык
+- сербохорватська мова
+- Серьбохорватьскый язык
+- српскохрватски јазик
+- српскохрватски језик
+- Срьбьскохръватьско ѩꙁꙑчьно събраниѥ
+- сърбохърватски език
+- сэрбохорватонь кяльхне
+- сэрбскахарвацкая мова
+- սերբախորվաթերեն
+- Սերպօ - Խրուաթերէն
+- סערבא-קראאטיש
+- סרבו-קרואטית
+- الصربي الكرواتي
+- الصربية الكرواتية
+- الصربية لكرواتية
+- زبان صربی کرواتی
+- سرب کروشیائی
+- سربي کرواتي ژبه
+- سربی کروشیائی
+- سېربو-كرودىيىلىكلەر تىلى
+- صربى- كرواتى
+- صیرب-کرووات دیلی
+- सर्बियन क्रोएशियन भाषा
+- सर्बी क्रोएशियन भाषा
+- सर्बो-क्रोएशियन भाषा
+- সার্বো-ক্রোয়েশীয়-বসনীয় ভাষা
+- ਸਰਬੋ-ਕ੍ਰੋਏਸ਼ੀਅਨ
+- સર્બો-ક્રોએશિયન
+- செருபோகுரோவாசிய மொழி
+- സെർബോ-ക്രൊയേഷ്യൻ
+- ภาษาบอสเนีย-โครเอเชีย-มอนเตเนโกร-เซอร์เบีย
+- სერბულ-ხორვატული ენა
+- სერბულ-ხორვატული ნინა
+- ᱥᱟᱨᱵᱳ-ᱠᱨᱳᱭᱮᱥᱤᱭᱟᱱ
+- セルビア・クロアチア語
+- 塞尔维亚-克罗地亚语
+- 塞爾維亞-克羅地亞文
+- 塞爾維亞-克羅地亞語
+- 塞爾維亞-克羅埃西亞語
+- ꯁꯔꯕꯣ-ꯀ꯭ꯔꯣꯑꯦꯁꯤꯌꯥꯟ ꯂꯣꯟ
+- 세르보크로아트어
 has_id_wikidata: Q9301
 short_name:
-  - serb-xorvatca
-  - serbocroata
-  - српскохрватски
-  - хрватскосрпски
-  - hrvatskosrpski
-  - srpskohrvatski
-  - сербу-хорватӣ
+- serb-xorvatca
+- serbocroata
+- српскохрватски
+- хрватскосрпски
+- hrvatskosrpski
+- srpskohrvatski
+- сербу-хорватӣ
 native_label:
-  - српскохрватски језик
-  - хрватскосрпски језик
-  - hrvatskosrpski jezik
-  - srpskohrvatski jezik
+- српскохрватски језик
+- хрватскосрпски језик
+- hrvatskosrpski jezik
+- srpskohrvatski jezik
 instance_of:
-  - '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-  - '[[_Standards/WikiData/WD~pluricentric_language,250858]]'
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~pluricentric_language,250858]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 linguistic_typology:
-  - '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
-  - '[[_Standards/WikiData/WD~fusional_language,318917]]'
-  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
-  - '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
-  - '[[_Standards/WikiData/WD~free_order_language,33129605]]'
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
+- '[[_Standards/WikiData/WD~free_order_language,33129605]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Central_South_Slavic_diasystem,718464]]'
-  - '[[_Standards/WikiData/WD~Croatian,6654]]'
-  - '[[_Standards/WikiData/WD~Montenegrin,8821]]'
-  - '[[_Standards/WikiData/WD~Serbian,9299]]'
-  - '[[_Standards/WikiData/WD~Bosnian,9303]]'
+- '[[_Standards/WikiData/WD~Central_South_Slavic_diasystem,718464]]'
+- '[[_Standards/WikiData/WD~Croatian,6654]]'
+- '[[_Standards/WikiData/WD~Montenegrin,8821]]'
+- '[[_Standards/WikiData/WD~Serbian,9299]]'
+- '[[_Standards/WikiData/WD~Bosnian,9303]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Gaj's_Latin_alphabet,754989]]"
-  - '[[_Standards/WikiData/WD~Serbian_Cyrillic_alphabet,829464]]'
-  - '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
-  - '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- "[[_Standards/WikiData/WD~Gaj's_Latin_alphabet,754989]]"
+- '[[_Standards/WikiData/WD~Serbian_Cyrillic_alphabet,829464]]'
+- '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229]]'
 has_characteristic: '[[_Standards/WikiData/WD~agreement,829903]]'
 subclass_of: '[[_Standards/WikiData/WD~Western_South_Slavic,10686779]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12960906,12960906]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Serbo_Croatian_language,14457753]]'
 studied_by: '[[_Standards/WikiData/WD~Serbo_Croatian_studies,26331146]]'
 country:
-  - '[[_Standards/WikiData/WD~Serbia,403]]'
-  - '[[_Standards/WikiData/WD~Croatia,224]]'
-  - '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
-  - '[[_Standards/WikiData/WD~Montenegro,236]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
 number_of_speakers_writers_or_signers: 19000000
 Provenio_UUID: d1d7f940-92a7-4f62-a250-d5b080088711
 ABS_ASCL_2011_code: 3507
@@ -70,19 +191,161 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Idioma%20se
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20sh.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Razvod.jpg
 exact_match:
-  - http://publications.europa.eu/resource/authority/language/HBS
-  - https://afbo.info/languages/103
+- http://publications.europa.eu/resource/authority/language/HBS
+- https://afbo.info/languages/103
 Wikimedia_Incubator_URL:
-  - https://incubator.wikimedia.org/wiki/Wq/sh
-  - https://incubator.wikimedia.org/wiki/Wy/hbs
+- https://incubator.wikimedia.org/wiki/Wq/sh
+- https://incubator.wikimedia.org/wiki/Wy/hbs
 Linguasphere_code: 53-AAA-g
 Wolfram_Language_entity_code: Entity["Concept", "Serbo-Croat::mbz4m"]
 Libris_URI: fcrtt29z46k2084
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SERBSKOHORVATSKI_YAZIK.html
 GitHub_topic: serbo-croatian
 Glottolog_code: sout1528
+dv_has_:
+  name_:
+    aeb-arab: الصربي الكرواتي
+    af: Serwo-Kroaties
+    an: Idioma serbocrovate
+    ar: الصربية الكرواتية
+    ary: الصربية لكرواتية
+    arz: صربى- كرواتى
+    ast: serbocroata
+    az: Serb-xorvat dili
+    azb: صیرب-کرووات دیلی
+    ba: Серб-хорват теле
+    be: сербахарвацкая мова
+    be-tarask: сэрбскахарвацкая мова
+    bg: сърбохърватски език
+    bn: সার্বো-ক্রোয়েশীয়-বসনীয় ভাষা
+    br: serbeg-ha-kroateg
+    bs: srpskohrvatski jezik
+    ca: serbocroat
+    ce: сербийнхорватийн мотт
+    co: serbucroatu
+    cs: srbochorvatština
+    csb: Serbòchòrwacczi jãzëk
+    cu: Срьбьскохръватьско ѩꙁꙑчьно събраниѥ
+    cy: Serbo-Croateg
+    da: serbokroatisk
+    de: Serbokroatisch
+    dsb: Serbisko-chorwatska rěc
+    el: Σερβοκροατική γλώσσα
+    eml: Sèrb-Cruàt
+    en: Serbo-Croatian
+    en-ca: Serbo-Croatian
+    en-gb: Serbo-Croatian
+    eo: serbokroata lingvo
+    es: serbocroata
+    et: serbia-horvaadi keel
+    eu: Serbokroaziera
+    fa: زبان صربی کرواتی
+    fi: serbokroaatti
+    fr: serbo-croate
+    frr: Serbokroatisk spriak
+    ga: an tSeirbea-Chróitis
+    gd: An t-Sèirb-Chròthaisis
+    gl: lingua serbocroata
+    gu: સર્બો-ક્રોએશિયન
+    hak: Set-ngì-vì-â Khiet-lò-thi-â-ngî
+    he: סרבו-קרואטית
+    hi: सर्बी क्रोएशियन भाषा
+    hif: Serbo-Croatian
+    hr: srpskohrvatski jezik
+    hsb: Serbiskochorwatšćina
+    hu: szerbhorvát
+    hy: սերբախորվաթերեն
+    hyw: Սերպօ - Խրուաթերէն
+    ia: serbocroato
+    id: bahasa Serbo-Kroasia
+    ilo: Serbo-Kroata
+    is: Serbókróatíska
+    it: serbo-croato
+    ja: セルビア・クロアチア語
+    jv: Basa Srêbiyah Khrêvatskah
+    ka: სერბულ-ხორვატული ენა
+    kge: Bahasa Serbi-Kroasia
+    ko: 세르보크로아트어
+    kv: Серб-хорват кыв
+    ky: Серб-хорват тили
+    la: lingua Serbocroatica
+    lad: Lingua Serbo-Kroatia
+    lb: Serbokroatesch
+    lfn: Bosansce, corvatsce e serbsce
+    li: Servokroatisch
+    lmo: Lengua serbo-croatta
+    lt: Serbų-kroatų kalba
+    lv: serbhorvātu valoda
+    mdf: сэрбохорватонь кяльхне
+    mg: Fiteny serbô-krôatiana
+    mk: српскохрватски јазик
+    ml: സെർബോ-ക്രൊയേഷ്യൻ
+    mni: ꯁꯔꯕꯣ-ꯀ꯭ꯔꯣꯑꯦꯁꯤꯌꯥꯟ ꯂꯣꯟ
+    mr: सर्बो-क्रोएशियन भाषा
+    ms: Bahasa Serbo-Croatia
+    mt: Serbo-Kroat
+    nb: serbokroatisk
+    nds: Serbokroaatsch
+    new: सर्बियन क्रोएशियन भाषा
+    nl: Servo-Kroatisch
+    nn: serbokroatisk
+    oc: sèrbocroat
+    pa: ਸਰਬੋ-ਕ੍ਰੋਏਸ਼ੀਅਨ
+    pam: Amanung Serbu-kroatu
+    pl: język serbsko-chorwacki
+    pnb: سرب کروشیائی
+    ps: سربي کرواتي ژبه
+    pt: Língua servo-croata
+    pt-br: Língua servo-croata
+    qu: Sirbu hurwat rimay
+    ro: sârbocroată
+    ru: сербохорватский язык
+    rue: Серьбохорватьскый язык
+    sat: ᱥᱟᱨᱵᱳ-ᱠᱨᱳᱭᱮᱥᱤᱭᱟᱱ
+    sc: serbocroatu
+    scn: serbu-cruatu
+    sco: Serbo-Croatian
+    se: serbokroatiagiella
+    sh: srpskohrvatski jezik
+    sk: srbochorvátčina
+    sl: srbohrvaščina
+    smn: serbokroatiakielâ
+    sms: serbokroatiaǩiõll
+    sq: serbokroatisht
+    sr: српскохрватски језик
+    sr-ec: српскохрватски језик
+    sr-el: srpskohrvatski jezik
+    sv: serbokroatiska
+    sw: Kiserbokroatia
+    szl: Serbskochorwackŏ gŏdka
+    ta: செருபோகுரோவாசிய மொழி
+    tg: забони сербу хорватӣ
+    th: ภาษาบอสเนีย-โครเอเชีย-มอนเตเนโกร-เซอร์เบีย
+    tl: Wikang Serbo-Kroato
+    tr: Sırp-Hırvatça
+    tt: сербохорват теле
+    udm: Сербохорват кыл
+    ug: سېربو-كرودىيىلىكلەر تىلى
+    uk: сербохорватська мова
+    ur: سربی کروشیائی
+    uz: Serb-xorvat tili
+    vec: serbocroato
+    vi: tiếng Serbia-Croatia
+    wa: Yougoslåve (lingaedje)
+    wuu: 塞尔维亚-克罗地亚语
+    xmf: სერბულ-ხორვატული ნინა
+    yi: סערבא-קראאטיש
+    yue: 塞爾維亞-克羅地亞文
+    zh: 塞尔维亚-克罗地亚语
+    zh-cn: 塞尔维亚-克罗地亚语
+    zh-hans: 塞尔维亚-克罗地亚语
+    zh-hant: 塞爾維亞-克羅地亞語
+    zh-hk: 塞爾維亞-克羅地亞語
+    zh-mo: 塞爾維亞-克羅地亞語
+    zh-sg: 塞尔维亚-克罗地亚语
+    zh-tw: 塞爾維亞-克羅埃西亞語
+    zu: isi-Serbo-Croatian
 ---
-
 # [[Lang-hbs]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Serbo-Croatian,9301|WD~Serbo-Croatian,9301]] 

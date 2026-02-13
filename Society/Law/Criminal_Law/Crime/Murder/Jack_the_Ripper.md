@@ -1,28 +1,89 @@
 ---
 aliases:
-  - Whitechapel Murderer
-  - Leather Apron
-  - Jack the Ripper
-  - Jack_the_Ripper
+- Džekas Skerdikas
+- Džeks Uzšķērdējs
+- Hasfelmetsző Jack
+- Jack aqettal
+- Jack el Destripador
+- Jack l'Esbudellador
+- Jack l'Estripador
+- Jack l'Esventraire
+- Jack l'Éventreur
+- Jack lo squartatore
+- Jack o Destripador
+- Jack Razparač
+- Jack Rozparovač
+- Jack Spintecătorul
+- Jack the Ripper
+- Jack Trbosjek
+- Jack Tripa-ateratzailea
+- Jack Uppskäraren
+- Jack ‘o Squartatore
+- Jack, o Estripador
+- Jack_the_Ripper
+- Jacques l'Êbieilleux
+- Joĉjo la Buĉisto
+- Karındeşen Jack
+- Kobbi kviðrista
+- Kuba Rozpruwacz
+- Leather Apron
+- Rappija Jack
+- Seoc an Reubainnear
+- Thâi-koah-chiá Jack
+- Viiltäjä-Jack
+- Whitechapel Murderer
+- Yann an Toullgofer
+- İçalatçı Cek
+- Τζακ ο Αντεροβγάλτης
+- Џек Мевосек
+- Џек Трбосек
+- Джак Изкормвача
+- Джек-потрошитель
+- Джек-Різник
+- Джэк-Трыбушыльнік
+- Ջեք Պատռող
+- ג'ק המרטש
+- جاك السفاح
+- جاک ڕیپەر
+- جيڪ دي رپر
+- جک قاتل
+- جیک سفاح
+- जॅक द रिपर
+- जैक द रिपर
+- ज्याक द रिपर
+- জ্যাক দ্য রিপার
+- ਜੈਕ ਦਾ ਰਿਪਰ
+- கிழிப்பர் ஜேக்
+- జాక్ ది రిప్పర్
+- ಜ್ಯಾಕ್ ದಿ ರಿಪ್ಪರ್
+- ജാക്ക് ദ് റിപ്പർ
+- แจ็กเดอะริปเปอร์
+- ჯეკ მფატრავი
+- 切り裂きジャック
+- 刳剔者傑克
+- 劏人殺手積克
+- 开膛手杰克
+- 開膛手傑克
+- 잭 더 리퍼
 has_id_wikidata: Q43963
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Thomas_Neill_Cream,117026]]'
-  - '[[_Standards/WikiData/WD~Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale,159670]]'
-  - '[[_Standards/WikiData/WD~James_Maybrick,325864]]'
-  - '[[_Standards/WikiData/WD~Montague_Druitt,337837]]'
-  - '[[_Standards/WikiData/WD~George_Chapman,350959]]'
-  - '[[_Standards/WikiData/WD~Francis_Thompson,367745]]'
-  - '[[_Standards/WikiData/WD~Walter_Sickert,703369]]'
-  - '[[_Standards/WikiData/WD~Sir_William_Gull,_1st_Baronet,1863354]]'
-  - "[[_Standards/WikiData/WD~Robert_D'Onston_Stephenson,2233766]]"
-  - '[[_Standards/WikiData/WD~Aaron_Kosminski,2820067]]'
-  - '[[_Standards/WikiData/WD~James_Kenneth_Stephen,3365829]]'
-  - '[[_Standards/WikiData/WD~William_Henry_Bury,4025952]]'
-  - '[[_Standards/WikiData/WD~Frederick_Bailey_Deeming,4135213]]'
-  - '[[_Standards/WikiData/WD~Francis_Tumblety,5482636]]'
-  - '[[_Standards/WikiData/WD~Sir_John_Williams,_1st_Baronet,_of_the_City_of_London,7528143]]'
-  - '[[_Standards/WikiData/WD~Joseph_Silver,11730837]]'
-  - '[[_Standards/WikiData/WD~Lewis_Carroll,38082]]'
+- '[[_Standards/WikiData/WD~Thomas_Neill_Cream,117026]]'
+- '[[_Standards/WikiData/WD~Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale,159670]]'
+- '[[_Standards/WikiData/WD~James_Maybrick,325864]]'
+- '[[_Standards/WikiData/WD~Montague_Druitt,337837]]'
+- '[[_Standards/WikiData/WD~George_Chapman,350959]]'
+- '[[_Standards/WikiData/WD~Francis_Thompson,367745]]'
+- '[[_Standards/WikiData/WD~Walter_Sickert,703369]]'
+- '[[_Standards/WikiData/WD~Sir_William_Gull,_1st_Baronet,1863354]]'
+- "[[_Standards/WikiData/WD~Robert_D'Onston_Stephenson,2233766]]"
+- '[[_Standards/WikiData/WD~Aaron_Kosminski,2820067]]'
+- '[[_Standards/WikiData/WD~James_Kenneth_Stephen,3365829]]'
+- '[[_Standards/WikiData/WD~William_Henry_Bury,4025952]]'
+- '[[_Standards/WikiData/WD~Frederick_Bailey_Deeming,4135213]]'
+- '[[_Standards/WikiData/WD~Francis_Tumblety,5482636]]'
+- '[[_Standards/WikiData/WD~Sir_John_Williams,_1st_Baronet,_of_the_City_of_London,7528143]]'
+- '[[_Standards/WikiData/WD~Joseph_Silver,11730837]]'
+- '[[_Standards/WikiData/WD~Lewis_Carroll,38082]]'
 work_locations: '[[_Standards/WikiData/WD~Whitechapel,124539]]'
 occupation: '[[_Standards/WikiData/WD~serial_killer,484188]]'
 described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
@@ -45,8 +106,96 @@ ISNI: 0000000430850890
 IMDb_keyword: reference-to-jack-the-ripper
 family_name: http://www.wikidata.org/.well-known/genid/6952a685cb38db062e6551ecd11021b7
 given_name: http://www.wikidata.org/.well-known/genid/2303255764bb538563772e915f049e52
+dv_has_:
+  name_:
+    af: Jack the Ripper
+    ar: جاك السفاح
+    ast: Jack l'Estripador
+    az: İçalatçı Cek
+    bar: Jack the Ripper
+    be-tarask: Джэк-Трыбушыльнік
+    bg: Джак Изкормвача
+    bn: জ্যাক দ্য রিপার
+    br: Yann an Toullgofer
+    bs: Jack Trbosjek
+    ca: Jack l'Esbudellador
+    ckb: جاک ڕیپەر
+    cs: Jack Rozparovač
+    cy: Jack the Ripper
+    da: Jack the Ripper
+    de: Jack the Ripper
+    de-ch: Jack the Ripper
+    el: Τζακ ο Αντεροβγάλτης
+    en: Jack the Ripper
+    en-ca: Jack the Ripper
+    en-gb: Jack the Ripper
+    eo: Joĉjo la Buĉisto
+    es: Jack el Destripador
+    et: Rappija Jack
+    eu: Jack Tripa-ateratzailea
+    fa: جک قاتل
+    fi: Viiltäjä-Jack
+    fr: Jack l'Éventreur
+    ga: Jack the Ripper
+    gd: Seoc an Reubainnear
+    gl: Jack o Destripador
+    he: ג'ק המרטש
+    hi: जैक द रिपर
+    hr: Jack Trbosjek
+    hu: Hasfelmetsző Jack
+    hy: Ջեք Պատռող
+    id: Jack the Ripper
+    is: Kobbi kviðrista
+    it: Jack lo squartatore
+    ja: 切り裂きジャック
+    ka: ჯეკ მფატრავი
+    kab: Jack aqettal
+    kn: ಜ್ಯಾಕ್ ದಿ ರಿಪ್ಪರ್
+    ko: 잭 더 리퍼
+    la: Jack the Ripper
+    lt: Džekas Skerdikas
+    lv: Džeks Uzšķērdējs
+    lzh: 刳剔者傑克
+    mg: Jack l'Éventreur
+    mk: Џек Мевосек
+    ml: ജാക്ക് ദ് റിപ്പർ
+    mr: जॅक द रिपर
+    ms: Jack the Ripper
+    nan: Thâi-koah-chiá Jack
+    nap: Jack ‘o Squartatore
+    nb: Jack the Ripper
+    ne: ज्याक द रिपर
+    nl: Jack the Ripper
+    nn: Jack the Ripper
+    nrm: Jacques l'Êbieilleux
+    oc: Jack l'Esventraire
+    pa: ਜੈਕ ਦਾ ਰਿਪਰ
+    pl: Kuba Rozpruwacz
+    pt: Jack, o Estripador
+    pt-br: Jack, o Estripador
+    ro: Jack Spintecătorul
+    ru: Джек-потрошитель
+    sd: جيڪ دي رپر
+    sh: Jack Trbosjek
+    si: Jack the Ripper
+    sk: Jack Rozparovač
+    sl: Jack Razparač
+    sq: Jack the Ripper
+    sr: Џек Трбосек
+    sv: Jack Uppskäraren
+    sw: Jack the Ripper
+    ta: கிழிப்பர் ஜேக்
+    te: జాక్ ది రిప్పర్
+    th: แจ็กเดอะริปเปอร์
+    tr: Karındeşen Jack
+    uk: Джек-Різник
+    ur: جیک سفاح
+    vi: Jack the Ripper
+    war: Jack the Ripper
+    wuu: 开膛手杰克
+    yue: 劏人殺手積克
+    zh: 開膛手傑克
 ---
-
 # [[Jack_the_Ripper]] 
 
 #is_/same_as :: [[WD~Jack_the_Ripper,43963]] 

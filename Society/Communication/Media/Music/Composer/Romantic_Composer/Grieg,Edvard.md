@@ -1,31 +1,61 @@
 ---
 aliases:
-  - Edvard Hagerup Grieg
-  - Edvard Grieg
-  - Grieg
-  - Edvard_Grieg
-  - Grieg,Edvard
+- Eduardus Grieg
+- Edvard Grieg
+- Edvard Grig
+- Edvard Hagerup Grieg
+- Edvard Qriq
+- Edvards Grīgs
+- Edvard_Grieg
+- Grieg
+- Grieg,Edvard
+- Grig Edvard Xagerup
+- Έντβαρντ Γκριγκ
+- Григ
+- Григ Эдвард
+- Григ Эдвард Хагеруп
+- Едвард Григ
+- Едвард Ґріґ
+- Эдвард Григ
+- Эдвард Грыг
+- Էդվարդ Գրիգ
+- Էտուարտ Կրիկ
+- אדוורד גריג
+- עדווארד גריג
+- إيدفارد جريج
+- ادوارد گریگ
+- ايدفارد جريج
+- ايڊورڊ گريئگ
+- ਐਡਵਰਡ ਗਰੇਗ
+- எட்வர்டு கிரெய்கு
+- เอ็ดวัด กริกก์
+- ედვარდ გრიგი
+- エドヴァルド・グリーグ
+- 愛德華·葛利格
+- 爱德华·格里格
+- 葛利格
+- 에드바르 그리그
 has_id_wikidata: Q80621
 student_of: '[[_Standards/WikiData/WD~Carl_Reinecke,159569]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Music_and_Theatre_Leipzig,312578]]'
-  - '[[_Standards/WikiData/WD~Tanks_Upper_Secondary_School,7683566]]'
+- '[[_Standards/WikiData/WD~University_of_Music_and_Theatre_Leipzig,312578]]'
+- '[[_Standards/WikiData/WD~Tanks_Upper_Secondary_School,7683566]]'
 occupation:
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-  - '[[_Standards/WikiData/WD~Berühmte_Klavierspieler_der_Vergangenheit_und_Gegenwart,118809333]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
+- '[[_Standards/WikiData/WD~Berühmte_Klavierspieler_der_Vergangenheit_und_Gegenwart,118809333]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 place_of_burial: '[[_Standards/WikiData/WD~Troldhaugen,1291307]]'
 spouse: '[[_Standards/WikiData/WD~Nina_Grieg,2499581]]'
 list_of_works: '[[_Standards/WikiData/WD~list_of_compositions_by_Edvard_Grieg,2536612]]'
@@ -69,8 +99,122 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/GRIG_EDVARD.html
 birth_name: Edvard Hagerup Grieg
 name_in_native_language: Edvard Hagerup Grieg
 date_of_death: 1907-09-04T00:00:00Z
+dv_has_:
+  name_:
+    af: Edvard Grieg
+    an: Edvard Grieg
+    ar: إيدفارد جريج
+    arz: ايدفارد جريج
+    ast: Edvard Grieg
+    az: Edvard Qriq
+    ba: Эдвард Григ
+    be: Эдвард Грыг
+    be-tarask: Эдвард Грыг
+    bg: Едвард Григ
+    br: Edvard Grieg
+    bs: Edvard Grieg
+    bxr: Эдвард Григ
+    ca: Edvard Grieg
+    ceb: Edvard Grieg
+    cs: Edvard Grieg
+    cy: Edvard Grieg
+    da: Edvard Grieg
+    de: Edvard Grieg
+    de-ch: Edvard Grieg
+    diq: Edvard Grieg
+    el: Έντβαρντ Γκριγκ
+    en: Edvard Grieg
+    en-ca: Edvard Grieg
+    en-gb: Edvard Grieg
+    eo: Edvard Grieg
+    es: Edvard Grieg
+    et: Edvard Grieg
+    eu: Edvard Grieg
+    fa: ادوارد گریگ
+    fi: Edvard Grieg
+    fit: Edvard Grieg
+    fr: Edvard Grieg
+    fy: Edvard Grieg
+    ga: Edvard Grieg
+    gl: Edvard Grieg
+    he: אדוורד גריג
+    hr: Edvard Grieg
+    hu: Edvard Grieg
+    hy: Էդվարդ Գրիգ
+    hyw: Էտուարտ Կրիկ
+    ia: Edvard Grieg
+    id: Edvard Grieg
+    io: Edvard Grieg
+    is: Edvard Grieg
+    it: Edvard Grieg
+    ja: エドヴァルド・グリーグ
+    jv: Edvard Grieg
+    ka: ედვარდ გრიგი
+    kk: Григ
+    ko: 에드바르 그리그
+    ky: Григ Эдвард
+    la: Eduardus Grieg
+    lb: Edvard Grieg
+    lij: Edvard Grieg
+    lt: Edvard Grieg
+    lv: Edvards Grīgs
+    mg: Edvard Grieg
+    mk: Едвард Григ
+    mrj: Григ
+    ms: Edvard Grieg
+    mul: Edvard Grieg
+    nan: Edvard Grieg
+    nb: Edvard Grieg
+    nds: Edvard Grieg
+    nds-nl: Edvard Grieg
+    nl: Edvard Grieg
+    nn: Edvard Grieg
+    oc: Edvard Grieg
+    olo: Edvard Grig
+    pa: ਐਡਵਰਡ ਗਰੇਗ
+    pl: Edvard Hagerup Grieg
+    pms: Edvard Grieg
+    pt: Edvard Grieg
+    pt-br: Edvard Grieg
+    qu: Edvard Grieg
+    rmf: Edvard Grieg
+    ro: Edvard Grieg
+    ru: Эдвард Григ
+    sco: Edvard Grieg
+    sd: ايڊورڊ گريئگ
+    se: Edvard Grieg
+    sh: Edvard Grieg
+    sje: Edvard Grieg
+    sju: Edvard Grieg
+    sk: Edvard Grieg
+    sl: Edvard Grieg
+    sma: Edvard Grieg
+    smj: Edvard Grieg
+    smn: Edvard Grieg
+    sms: Edvard Grieg
+    sq: Edvard Grieg
+    sr: Едвард Григ
+    stq: Edvard Hagerup Grieg
+    sv: Edvard Grieg
+    sw: Edvard Grieg
+    ta: எட்வர்டு கிரெய்கு
+    tg: Григ Эдвард Хагеруп
+    th: เอ็ดวัด กริกก์
+    tl: Edvard Grieg
+    tr: Edvard Grieg
+    tt: Эдвард Григ
+    uk: Едвард Ґріґ
+    uz: Grig Edvard Xagerup
+    vi: Edvard Grieg
+    vls: Edvard Grieg
+    wa: Edvard Grieg
+    war: Edvard Grieg
+    wuu: 爱德华·格里格
+    yi: עדווארד גריג
+    yue: 葛利格
+    zh: 爱德华·格里格
+    zh-tw: 愛德華·葛利格
 ---
-
 # [[Grieg,Edvard]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Edvard_Grieg,80621|WD~Edvard_Grieg,80621]] 

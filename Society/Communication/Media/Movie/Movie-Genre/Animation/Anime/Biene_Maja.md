@@ -1,4 +1,46 @@
-
+---
+has_id_wikidata: Q109832680
+dv_has_:
+  name_:
+    ar: مغامرات النحلة ماية
+    be-tarask: Прыгоды пчолкі Маі
+    ca: Die Biene Maja und ihre Abenteuer
+    de: Die Biene Maja und ihre Abenteuer
+    en: The Adventures of Maya the Bee
+    eo: La abelo Maja kaj siaj aventuroj
+    fi: Maija Mehiläinen
+    fr: Maya l'abeille
+    he: הרפתקאותיה של הדבורה מאיה
+    hu: Maja, a méhecske
+    hy: Մայա մեղվիկի արկածները
+    ja: みつばちマーヤの冒険
+    ko: 꿀벌 마야
+    lb: Die Biene Maja und ihre Abenteuer
+    mul: Die Biene Maja und ihre Abenteuer
+    nl: De avonturen van Maja de Bij
+    pl: Pszczółka Maja i jej przygody
+    ru: Приключения пчёлки Майи
+    sr: Пчелица Маја и њене авантуре
+    tr: Arı Maya
+aliases:
+- Arı Maya
+- De avonturen van Maja de Bij
+- Die Biene Maja und ihre Abenteuer
+- La abelo Maja kaj siaj aventuroj
+- Maija Mehiläinen
+- Maja, a méhecske
+- Maya l'abeille
+- Pszczółka Maja i jej przygody
+- The Adventures of Maya the Bee
+- Приключения пчёлки Майи
+- Прыгоды пчолкі Маі
+- Пчелица Маја и њене авантуре
+- Մայա մեղվիկի արկածները
+- הרפתקאותיה של הדבורה מאיה
+- مغامرات النحلة ماية
+- みつばちマーヤの冒険
+- 꿀벌 마야
+---
 > Maya the Bee (German: Die Biene Maja) is the main character 
 > in The [[Adventures of Maya the Bee]], a German book written by Waldemar Bonsels 
 > and published in 1912. 

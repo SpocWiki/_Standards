@@ -1,10 +1,164 @@
 ---
 aliases:
-  - Kenneth Charles Branagh
-  - Kenneth Branagh
-  - Branagh,Kenneth
+- Branagh,Kenneth
+- Kennet Brana
+- Kenneth Branagh
+- Kenneth Charles Branagh
+- Kennethus Branagh
+- Κένεθ Μπράνα
+- Кенет Брана
+- Кеннет Брана
+- Кеннет Брәна
+- Кенэт Брана
+- Քեննեթ Բրանա
+- קנת בראנה
+- كينيث براناه
+- کنت برانا
+- کینتھ برانا
+- কেনেথ ব্র্যানা
+- ਕੇਨੇਥ ਬਰਨਾਗ
+- கென்னத் பிரனாக்
+- เคนเนธ บรานาห์
+- კენეთ ბრანა
+- ケネス・ブラナー
+- 簡尼夫·班納
+- 簡尼夫班納
+- 肯尼思·布拉納
+- 肯尼思·布拉纳
+- 肯尼斯·布莱纳
+- 肯尼斯·布萊納
+- 케네스 브래너
+has_id_wikidata: Q55294
+dv_has_:
+  name_:
+    af: Kenneth Branagh
+    an: Kenneth Branagh
+    ar: كينيث براناه
+    arz: كينيث براناه
+    ast: Kenneth Branagh
+    az: Kennet Brana
+    bar: Kenneth Branagh
+    be: Кенет Брана
+    be-tarask: Кенэт Брана
+    bg: Кенет Брана
+    bm: Kenneth Branagh
+    bn: কেনেথ ব্র্যানা
+    br: Kenneth Branagh
+    ca: Kenneth Branagh
+    co: Kenneth Branagh
+    cs: Kenneth Branagh
+    cy: Kenneth Branagh
+    da: Kenneth Branagh
+    de: Kenneth Branagh
+    de-at: Kenneth Branagh
+    de-ch: Kenneth Branagh
+    diq: Kenneth Branagh
+    el: Κένεθ Μπράνα
+    en: Kenneth Branagh
+    en-ca: Kenneth Branagh
+    en-gb: Kenneth Branagh
+    eo: Kenneth Branagh
+    es: Kenneth Branagh
+    et: Kenneth Branagh
+    eu: Kenneth Branagh
+    fa: کنت برانا
+    fi: Kenneth Branagh
+    fr: Kenneth Branagh
+    frc: Kenneth Branagh
+    frp: Kenneth Branagh
+    fur: Kenneth Branagh
+    ga: Kenneth Branagh
+    gd: Kenneth Branagh
+    gl: Kenneth Branagh
+    gsw: Kenneth Branagh
+    he: קנת בראנה
+    hr: Kenneth Branagh
+    hu: Kenneth Branagh
+    hy: Քեննեթ Բրանա
+    ia: Kenneth Branagh
+    id: Kenneth Branagh
+    ie: Kenneth Branagh
+    io: Kenneth Branagh
+    is: Kenneth Branagh
+    it: Kenneth Branagh
+    ja: ケネス・ブラナー
+    jam: Kenneth Branagh
+    ka: კენეთ ბრანა
+    kab: Kenneth Branagh
+    kg: Kenneth Branagh
+    kl: Kenneth Branagh
+    ko: 케네스 브래너
+    la: Kennethus Branagh
+    lb: Kenneth Branagh
+    li: Kenneth Branagh
+    lij: Kenneth Branagh
+    lt: Kenneth Branagh
+    lv: Kenneth Branagh
+    mg: Kenneth Branagh
+    min: Kenneth Branagh
+    ms: Kenneth Branagh
+    mul: Kenneth Branagh
+    nap: Kenneth Branagh
+    nb: Kenneth Branagh
+    nds: Kenneth Branagh
+    nds-nl: Kenneth Branagh
+    nl: Kenneth Branagh
+    nn: Kenneth Branagh
+    nrm: Kenneth Branagh
+    oc: Kenneth Branagh
+    pa: ਕੇਨੇਥ ਬਰਨਾਗ
+    pap: Kenneth Branagh
+    pcd: Kenneth Branagh
+    pl: Kenneth Branagh
+    pms: Kenneth Branagh
+    prg: Kenneth Branagh
+    pt: Kenneth Branagh
+    pt-br: Kenneth Branagh
+    qu: Kenneth Branagh
+    rgn: Kenneth Branagh
+    rm: Kenneth Branagh
+    ro: Kenneth Branagh
+    ru: Кеннет Брана
+    sc: Kenneth Branagh
+    scn: Kenneth Branagh
+    sco: Kenneth Branagh
+    sh: Kenneth Branagh
+    sk: Kenneth Branagh
+    sl: Kenneth Branagh
+    sq: Kenneth Branagh
+    sr: Кенет Брана
+    sr-el: Kenneth Branagh
+    sv: Kenneth Branagh
+    sw: Kenneth Branagh
+    ta: கென்னத் பிரனாக்
+    th: เคนเนธ บรานาห์
+    tl: Kenneth Branagh
+    tr: Kenneth Branagh
+    tt: Кеннет Брәна
+    tt-cyrl: Кеннет Брәна
+    uk: Кеннет Брана
+    ur: کینتھ برانا
+    uz: Kenneth Branagh
+    vec: Kenneth Branagh
+    vi: Kenneth Branagh
+    vls: Kenneth Branagh
+    vmf: Kenneth Branagh
+    vo: Kenneth Branagh
+    wa: Kenneth Branagh
+    war: Kenneth Branagh
+    wo: Kenneth Branagh
+    wuu: 肯尼斯·布莱纳
+    xmf: კენეთ ბრანა
+    yue: 簡尼夫班納
+    zh: 肯尼思·布拉纳
+    zh-cn: 肯尼思·布拉纳
+    zh-hans: 肯尼思·布拉纳
+    zh-hant: 肯尼思·布拉納
+    zh-hk: 簡尼夫·班納
+    zh-sg: 肯尼斯·布莱纳
+    zh-tw: 肯尼斯·布萊納
+    zu: Kenneth Branagh
 ---
-
 #has_/time_/started :: 1960-12-10 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

@@ -1,11 +1,68 @@
 ---
 aliases:
-  - Hayflick limit
-  - Hayflick phenomenon
-  - Hayflick_Limit
-  - Hayflick Limit
+- Giới hạn Hayflick
+- Hayflick limit
+- Hayflick limiti
+- Hayflick phenomenon
+- Hayflick-grensa
+- Hayflick-Grenze
+- Hayflicken muga
+- Hayflicki piirang
+- Hayflickin raja
+- hayflicklimiet
+- Hayflickova meja
+- Hayflick_Limit
+- Limit Hayflicka
+- limite de Hayflick
+- Limite di Hayflick
+- límit de Hayflick
+- Límite de Hayflick
+- межа Гейфліка
+- Мяжа Хейфліка
+- предел Хейфлика
+- Хејфликова граница
+- Хейфлик шегі(лимиты)
+- גבול הייפליק
+- حد هايفليك
+- حد هایفلیک
+- ヘイフリック限界
+- 海佛烈克极限
+- 海佛烈克極限
+has_id_wikidata: Q899798
+dv_has_:
+  name_:
+    ar: حد هايفليك
+    be: Мяжа Хейфліка
+    ca: límit de Hayflick
+    de: Hayflick-Grenze
+    en: Hayflick limit
+    es: Límite de Hayflick
+    et: Hayflicki piirang
+    eu: Hayflicken muga
+    fa: حد هایفلیک
+    fi: Hayflickin raja
+    fr: limite de Hayflick
+    gl: Límite de Hayflick
+    he: גבול הייפליק
+    hu: Hayflick limit
+    it: Limite di Hayflick
+    ja: ヘイフリック限界
+    kk-cyrl: Хейфлик шегі(лимиты)
+    nl: hayflicklimiet
+    nn: Hayflick-grensa
+    pl: Limit Hayflicka
+    pt: Limite de Hayflick
+    ru: предел Хейфлика
+    sl: Hayflickova meja
+    sr: Хејфликова граница
+    tr: Hayflick limiti
+    uk: межа Гейфліка
+    vi: Giới hạn Hayflick
+    zh: 海佛烈克極限
+    zh-hans: 海佛烈克极限
+    zh-hant: 海佛烈克極限
+    zh-hk: 海佛烈克極限
 ---
-
 # [[Hayflick_Limit]] 
 
 #is_/same_as :: 

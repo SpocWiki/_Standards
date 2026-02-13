@@ -1,38 +1,135 @@
 ---
 aliases:
+- densidade do fluxo magnético
+- densitat de flux magnètic
+- gostota magnetnega polja
+- inducción magnética
+- indución magnética
+- induction magnétique
+- inducție magnetică
+- indukcja magnetyczna
+- indukzio magnetiko
+- induzione magnetica
+- magneetisk struummäächt
+- magneettivuon tiheys
+- magneta fluksdenso
+- magnetic flux density
+- magnetická indukce
+- magnetická indukcia
+- magnetiline induktsioon
+- magnetinio srauto tankis
+- magnetische Flussdichte
+- magnetische Flussdichtn
+- magnetische fluxdichtheid
+- magnetischi Flussdichti
+- magnetisk flukstetthet
+- magnetisk flukstettleik
+- magnetisk flödestäthet
+- Magnetska indukcija
+- magnit induksiya
+- magnētiskā lauka indukcija
+- maqnit induksiyası
+- mágneses indukció
+- магнітна індукція
+- магнітная індукцыя
+- магнетна индукција
+- магнит индукциясе
+- магнитла индукци
+- магнитна индукция
+- магнитная индукция
+- магниттік индукция
+- մագնիսական ինդուկցիա
+- צפיפות שטף מגנטי
+- كثافة الفيض المغناطيسي
+- چگالی شار مغناطیسی
+- მაგნიტური ინდუქცია
+- 磁感应强度
+- 磁感應強度
+- 磁束密度
 has_id_wikidata: Q30204
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~vector_quantity,2672914]]"
-  - "[[_Standards/WikiData/WD~flux_density,51720768]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~flux_density,51720768]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~tesla,163343]]"
-  - "[[_Standards/WikiData/WD~kilogram_per_square_second_ampere,107305389]]"
+- '[[_Standards/WikiData/WD~tesla,163343]]'
+- '[[_Standards/WikiData/WD~kilogram_per_square_second_ampere,107305389]]'
 different_from:
-  - "[[_Standards/WikiData/WD~mathematical_induction,178377]]"
-  - "[[_Standards/WikiData/WD~inductive_reasoning,484511]]"
-  - "[[_Standards/WikiData/WD~electromagnetic_induction,988780]]"
-  - "[[_Standards/WikiData/WD~magnetic_field_strength,28123]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~mathematical_induction,178377]]'
+- '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
+- '[[_Standards/WikiData/WD~electromagnetic_induction,988780]]'
+- '[[_Standards/WikiData/WD~magnetic_field_strength,28123]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]"
-  - "[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒗</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x00D7;</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>q</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑩</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑭</mi></mrow></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x00D7;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>q</mi></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mstyle></mrow></math>"
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow></mstyle></mrow></math>"
 quantity_symbol_string_: B
-quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑩</mi></mrow></mstyle></mrow></math>
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi>𝖨</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>
+quantity_symbol_LaTeX_: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mstyle></mrow></math>"
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Koiuojhnikjhf.png
 IEV_number: 121-11-19
-defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝑭</mi></mrow><mo stretchy="false">=</mo><mi>q</mi><mspace width="0.167em"></mspace><mrow data-mjx-texclass="ORD"><mi>𝒗</mi></mrow><mo stretchy="false">&#x00D7;</mo><mrow data-mjx-texclass="ORD"><mi>𝑩</mi></mrow></mstyle></mrow></math>
+defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow><mo stretchy=\"false\">=</mo><mi>q</mi><mspace width=\"0.167em\"></mspace><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow><mo stretchy=\"false\">&#x00D7;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mstyle></mrow></math>"
+dv_has_:
+  name_:
+    ar: كثافة الفيض المغناطيسي
+    az: maqnit induksiyası
+    bar: magnetische Flussdichtn
+    be: магнітная індукцыя
+    bg: магнитна индукция
+    ca: densitat de flux magnètic
+    cs: magnetická indukce
+    cv: магнитла индукци
+    de: magnetische Flussdichte
+    de-ch: magnetische Flussdichte
+    en: magnetic flux density
+    eo: magneta fluksdenso
+    es: inducción magnética
+    et: magnetiline induktsioon
+    eu: indukzio magnetiko
+    fa: چگالی شار مغناطیسی
+    fi: magneettivuon tiheys
+    fr: induction magnétique
+    frr: magneetisk struummäächt
+    gl: indución magnética
+    gsw: magnetischi Flussdichti
+    he: צפיפות שטף מגנטי
+    hr: Magnetska indukcija
+    hu: mágneses indukció
+    hy: մագնիսական ինդուկցիա
+    it: induzione magnetica
+    ja: 磁束密度
+    ka: მაგნიტური ინდუქცია
+    kk: магниттік индукция
+    lt: magnetinio srauto tankis
+    lv: magnētiskā lauka indukcija
+    mk: магнетна индукција
+    nb: magnetisk flukstetthet
+    nl: magnetische fluxdichtheid
+    nn: magnetisk flukstettleik
+    pl: indukcja magnetyczna
+    pt: densidade do fluxo magnético
+    pt-br: densidade do fluxo magnético
+    ro: inducție magnetică
+    ru: магнитная индукция
+    sk: magnetická indukcia
+    sl: gostota magnetnega polja
+    sr: магнетна индукција
+    sv: magnetisk flödestäthet
+    tt: магнит индукциясе
+    uk: магнітна індукція
+    uz: magnit induksiya
+    wuu: 磁感应强度
+    zh: 磁感应强度
+    zh-hant: 磁感應強度
 ---
-
 # [[Dim~Magnetic_Flux_Density_B]] 
 
 #is_/similar_to :: [[Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H]]  

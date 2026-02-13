@@ -1,52 +1,203 @@
 ---
 aliases:
-  - continental shelf
-  - Continental_Shelf
-  - Continental Shelf
+- continentaal plat
+- continental shelf
+- Continental_Shelf
+- continentoal plat
+- epikontinentalni pojas
+- kalapagang kontinental
+- kontinentale plat
+- kontinentalni prag
+- kontinentalni šelf
+- kontinentalsockel
+- kontinentalsokkel
+- kontinentbreto
+- kontinentális self
+- kontinentální šelf
+- kontinentālais šelfs
+- kıta sahanlığı
+- landas benua
+- landgrunn
+- mandrilava
+- mannerjalusta
+- pentas benua
+- piataforma continentałe
+- piattaforma continentale
+- plan continental
+- planities litoralis
+- plataforma continental
+- plataforma kontinental
+- plateau continental
+- plateiz kevandirel
+- platformă continentală
+- plato kontinantal
+- scairbh ilchríochach
+- Schelf
+- szelf kontynentalny
+- tako la bara
+- thềm lục địa
+- şelf
+- šelf
+- šelfas
+- υφαλοκρηπίδα
+- континентален праг
+- континентален шелф
+- Континентални праг
+- континентальний шельф
+- материктик тайыздык
+- тивийн тавцан
+- шельф
+- шэльф
+- մայրացամաքային ծանծաղուտ
+- מדף יבשתי
+- رف قاري
+- فلات قاره
+- ڕەفەی کیشوەری
+- کنڊن واري پرت
+- महाद्वीपीय जलसीमा
+- महाद्वीपीय शेल्फ
+- মহীসোপান
+- கண்டத் திட்டு
+- ಖಂಡಾವರಣ ವಲಯ ಮತ್ತು ಇಳುಕಲು
+- വൻകരത്തട്ട്
+- ไหล่ทวีป
+- შელფი
+- 大陆架
+- 大陸架
+- 大陸棚
+- 대륙붕
 has_id_wikidata: Q134851
 subclass_of:
-  - "[[_Standards/WikiData/WD~landform,271669]]"
-  - "[[_Standards/WikiData/WD~shallow,2168243]]"
+- '[[_Standards/WikiData/WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~shallow,2168243]]'
 different_from:
-  - "[[_Standards/WikiData/WD~continental_rise,332602]]"
-  - "[[_Standards/WikiData/WD~continental_slope,1031696]]"
+- '[[_Standards/WikiData/WD~continental_rise,332602]]'
+- '[[_Standards/WikiData/WD~continental_slope,1031696]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 OmegaWiki_Defined_Meaning: 742
 U_S_National_Archives_Identifier: 10636920
 Dewey_Decimal_Classification:
-  - 551.46
-  - 341.448
+- 551.46
+- 341.448
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Continental%20shelf%20blank.png
 bathymetry_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Elevation.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/World%20map%20of%20bathymetric%20data%20-%20GEBCO%202014.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Elevation.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/World%20map%20of%20bathymetric%20data%20-%20GEBCO%202014.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000223
 Commons_category: Continental shelf
 GeoNames_feature_code: U.SHFU
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]]"
-    - "[[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]]"
-    - "[[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]]"
+  - '[[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]]'
+  - '[[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]]'
+  - '[[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]]"
-  - "[[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]]"
-  - "[[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]]"
+- '[[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]]'
+- '[[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]]'
+- '[[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]]'
+- '[[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]]'
+- '[[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]]'
+- '[[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]]'
+dv_has_:
+  name_:
+    af: kontinentale plat
+    an: plataforma continental
+    ar: رف قاري
+    ast: plataforma continental
+    az: şelf
+    be: шэльф
+    be-tarask: шэльф
+    bg: континентален шелф
+    bho: महाद्वीपीय शेल्फ
+    bn: মহীসোপান
+    br: plateiz kevandirel
+    bs: kontinentalni prag
+    ca: plataforma continental
+    ckb: ڕەفەی کیشوەری
+    cs: kontinentální šelf
+    da: kontinentalsokkel
+    de: Schelf
+    el: υφαλοκρηπίδα
+    en: continental shelf
+    eo: kontinentbreto
+    es: plataforma continental
+    et: mandrilava
+    eu: plataforma kontinental
+    fa: فلات قاره
+    fi: mannerjalusta
+    fr: plateau continental
+    ga: scairbh ilchríochach
+    gl: plataforma continental
+    he: מדף יבשתי
+    hi: महाद्वीपीय जलसीमा
+    hr: epikontinentalni pojas
+    ht: plato kontinantal
+    hu: kontinentális self
+    hy: մայրացամաքային ծանծաղուտ
+    id: landas benua
+    is: landgrunn
+    it: piattaforma continentale
+    ja: 大陸棚
+    ka: შელფი
+    kn: ಖಂಡಾವರಣ ವಲಯ ಮತ್ತು ಇಳುಕಲು
+    ko: 대륙붕
+    ky: материктик тайыздык
+    la: planities litoralis
+    lt: šelfas
+    lv: kontinentālais šelfs
+    mk: континентален праг
+    ml: വൻകരത്തട്ട്
+    mn: тивийн тавцан
+    ms: pentas benua
+    nb: kontinentalsokkel
+    nl: continentaal plat
+    nn: kontinentalsokkel
+    oc: plan continental
+    pap: plataforma continental
+    pl: szelf kontynentalny
+    pt: plataforma continental
+    ro: platformă continentală
+    ru: шельф
+    sco: continental shelf
+    sd: کنڊن واري پرت
+    sh: epikontinentalni pojas
+    sk: šelf
+    sl: kontinentalni šelf
+    sr: Континентални праг
+    sr-ec: континентални праг
+    sr-el: kontinentalni prag
+    sv: kontinentalsockel
+    sw: tako la bara
+    ta: கண்டத் திட்டு
+    th: ไหล่ทวีป
+    tl: kalapagang kontinental
+    tr: kıta sahanlığı
+    tt: шельф
+    udm: шельф
+    uk: континентальний шельф
+    vec: piataforma continentałe
+    vi: thềm lục địa
+    vls: continentoal plat
+    wuu: 大陆架
+    yue: 大陸架
+    zh: 大陆架
+    zh-cn: 大陆架
+    zh-hans: 大陆架
+    zh-hant: 大陸棚
+    zh-hk: 大陸棚
+    zh-sg: 大陆架
+    zh-tw: 大陸棚
 ---
-
 # [[Continental_Shelf]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Continental_shelf,134851|WD~Continental_shelf,134851]] 

@@ -1,43 +1,239 @@
 ---
 aliases:
-  - chemische Formel
-  - chemical formula
-  - Chemical_Formula
-  - Chemical Formula
+- cheemesch Formel
+- chemical formula
+- Chemical_Formula
+- chemický vzorec
+- chemiese formule
+- cheminė formulė
+- chemische Formel
+- chemische formule
+- chemiske Formel
+- công thức hóa học
+- efnaformúla
+- fformiwla gemegol
+- foirmle cheimiceach
+- formley kemmigagh
+- formula chemica
+- formula chimic
+- formula chimica
+- formula kimia
+- Formula kimike
+- formula kimiko
+- formula nga kimikal
+- formula quimica
+- formule chimique
+- formulenn gimiek
+- formulă chimică
+- furmula chimica
+- fòmil chimik
+- fórmula molecular
+- fórmula química
+- hemijska formula
+- huá-hŏk-sék
+- hòa-ha̍k-sek
+- keemiline valem
+- kemiallinen kaava
+- kemijska formula
+- kemisk formel
+- kimyasal formül
+- kimyoviy formula
+- kimyəvi formul
+- kjemisk formel
+- kruda formulo
+- kémiai képlet
+- pormulang kimikal
+- rumus kimia
+- sumformel
+- Summenformel
+- taftart takrurant
+- tātai matū
+- wzór chemiczny
+- ĥemia formulo
+- ķīmiskā formula
+- χημικός τύπος
+- формулаи химиявӣ
+- хімічна формула
+- хімічная формула
+- хемијска формула
+- хемиска формула
+- хими формула
+- Химийн томьёо
+- химилле формула
+- химическая формула
+- химична формула
+- химия формулата
+- химиялык формулалар
+- химиялық формула
+- քիմիական բանաձև
+- כתיב כימי
+- شێوگی کیمیایی
+- صيغة كيميائية
+- فرمول شیمیایی
+- فورمولا کيميا
+- فورمولة كيماوية
+- کیمیائی صیغہ
+- کیمیائی فارمولا
+- रासायनिक सूत्र
+- রাসায়নিক সংকেত
+- ਰਸਾਇਣਕ ਫ਼ਾਰਮੂਲਾ
+- மூலக்கூறு வாய்பாடு
+- రసాయన సూత్రం
+- രാസസൂത്രം
+- රසායනික සූත්ර
+- สูตรเคมี
+- ဓာတုဗေဒ ဖော်မျူလာ
+- ქიმიური ფორმულა
+- រូបមន្តគីមី
+- 化学式
+- 化學式
+- 화학식
 has_id_wikidata: Q83147
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~chemical_symbol,102500]]"
-subclass_of: "[[_Standards/WikiData/WD~notation,2001982]]"
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~chemical_symbol,102500]]'
+subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Wikidata_property:
-  - chemical formula
-  - general formula
-has_list: "[[_Standards/WikiData/WD~glossary_of_chemical_formulae,32495]]"
+- chemical formula
+- general formula
+has_list: '[[_Standards/WikiData/WD~glossary_of_chemical_formulae,32495]]'
 OmegaWiki_Defined_Meaning: 1011642
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Benzol%20Representationen.svg
 Commons_category: Chemical formulas
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]]"
+  - '[[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]]"
+- '[[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]]'
+dv_has_:
+  name_:
+    af: chemiese formule
+    ar: صيغة كيميائية
+    ary: فورمولة كيماوية
+    ast: fórmula química
+    az: kimyəvi formul
+    be: хімічная формула
+    be-tarask: хімічная формула
+    bg: химична формула
+    blk: ဓာတုဗေဒ ဖော်မျူလာ
+    bn: রাসায়নিক সংকেত
+    br: formulenn gimiek
+    bs: hemijska formula
+    ca: fórmula química
+    cdo: huá-hŏk-sék
+    ckb: شێوگی کیمیایی
+    cs: chemický vzorec
+    cv: химилле формула
+    cy: fformiwla gemegol
+    da: sumformel
+    de: chemische Formel
+    el: χημικός τύπος
+    en: chemical formula
+    en-ca: chemical formula
+    en-gb: chemical formula
+    eo: ĥemia formulo
+    es: fórmula química
+    et: keemiline valem
+    eu: formula kimiko
+    fa: فرمول شیمیایی
+    fi: kemiallinen kaava
+    fr: formule chimique
+    ga: foirmle cheimiceach
+    gan: 化學式
+    gl: fórmula química
+    gv: formley kemmigagh
+    he: כתיב כימי
+    hi: रासायनिक सूत्र
+    hr: kemijska formula
+    ht: fòmil chimik
+    hu: kémiai képlet
+    hy: քիմիական բանաձև
+    ia: formula chimic
+    id: rumus kimia
+    io: kruda formulo
+    is: efnaformúla
+    it: formula chimica
+    ja: 化学式
+    jv: rumus kimia
+    ka: ქიმიური ფორმულა
+    kab: taftart takrurant
+    kk: химиялық формула
+    km: រូបមន្តគីមី
+    ko: 화학식
+    ky: химиялык формулалар
+    la: formula chemica
+    lb: cheemesch Formel
+    lmo: furmula chimica
+    lt: cheminė formulė
+    lv: ķīmiskā formula
+    lzh: 化學式
+    mi: tātai matū
+    mk: хемиска формула
+    ml: രാസസൂത്രം
+    mn: Химийн томьёо
+    mr: रासायनिक सूत्र
+    ms: formula kimia
+    ms-arab: فورمولا کيميا
+    my: ဓာတုဗေဒ ဖော်မျူလာ
+    nan: hòa-ha̍k-sek
+    nb: kjemisk formel
+    nds: Summenformel
+    ne: रासायनिक सूत्र
+    nl: chemische formule
+    nn: kjemisk formel
+    oc: formula quimica
+    pa: ਰਸਾਇਣਕ ਫ਼ਾਰਮੂਲਾ
+    pl: wzór chemiczny
+    pnb: کیمیائی فارمولا
+    pt: fórmula química
+    pt-br: fórmula molecular
+    ro: formulă chimică
+    ru: химическая формула
+    sah: химия формулата
+    sco: chemical formula
+    sh: kemijska formula
+    si: රසායනික සූත්ර
+    sk: chemický vzorec
+    skr: کیمیائی فارمولا
+    sl: kemijska formula
+    sq: Formula kimike
+    sr: хемијска формула
+    sr-ec: хемијска формула
+    stq: chemiske Formel
+    sv: kemisk formel
+    ta: மூலக்கூறு வாய்பாடு
+    te: రసాయన సూత్రం
+    tg: формулаи химиявӣ
+    th: สูตรเคมี
+    tl: pormulang kimikal
+    tr: kimyasal formül
+    udm: хими формула
+    uk: хімічна формула
+    ur: کیمیائی صیغہ
+    uz: kimyoviy formula
+    vi: công thức hóa học
+    war: formula nga kimikal
+    wuu: 化学式
+    yue: 化學式
+    zh: 化学式
+    zh-hans: 化学式
+    zh-hant: 化學式
 ---
-
 # [[Chemical_Formula]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Chemical_formula,83147|WD~Chemical_formula,83147]] 

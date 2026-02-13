@@ -1,25 +1,188 @@
 ---
 aliases:
+- aequatio Schrödingeriana
+- cothromóid Schrödinger
+- ecuación de Schrödinger
+- ecuația lui Schrödinger
+- ekuacioni i Shrodingerit
+- ekvacio de Schrödinger
+- ekwasyong Schrödinger
+- ekwazzjoni ta' Schrödinger
+- equacion de Schrödinger
+- equaciono di Schrödinger
+- equació de Schrödinger
+- equation de Schrödinger
+- equazione di Schrödinger
+- equação de Schrödinger
+- jafna Schrödingers
+- persamaan Schrödinger
+- phương trình Schrödinger
+- równanie Schrödingera
+- Schrödinger denklemi
+- Schrödinger equation
+- Schrödinger ovtâldâh
+- Schrödinger-egyenlet
+- Schrödinger-ligning
+- Schrödinger-vergelyking
+- Schrödingerekvationen
+- Schrödingergleichung
+- Schrödingeri võrrand
+- Schrödingerin yhtälö
+- Schrödingerjeva enačba
+- Schrödingerlikninga
+- Schrödingerova jednadžba
+- Schrödingerova jednačina
+- Schrödingerova rovnica
+- Schrödingerova rovnice
+- Schrödingerren ekuazioa
+- Schrödingers ligning
+- Schrödingervergelieking
+- Schrödingervergelijking
+- Shredinger tenglamasi
+- équation de Schrödinger
+- Şrödinger tənliyi
+- Šredingerio lygtis
+- Šredingerova jednačina
+- Šrēdingera vienādojums
+- εξίσωση Σρέντινγκερ
+- рівняння Шредінгера
+- раўнаньне Шрэдынгера
+- ураўненне Шродзінгера
+- Уравнение на Шрьодингер
+- уравнение Шрёдингера
+- Шрёдингер танлăхĕ
+- Шредингер тигезләмәсе
+- Шредингерийн тэгшитгэл
+- Шредингерова једначина
+- Шредингерова равенка
+- Շրյոդինգերի հավասարում
+- משוואת שרדינגר
+- שרעדינגער גלייכונג
+- شروڈنگر مساوات
+- معادلة شرودنغر
+- معادلة شرودينجر
+- معادله شرودینگر
+- श्रोडिंगर समीकरण
+- শ্রোডিঙার সমীকরণ
+- ਸ਼ਰੋਡਿੰਜਰ ਸਮੀਕਰਨ
+- சுரோடிங்கர் சமன்பாடு
+- สมการชเรอดิงเงอร์
+- შრედინგერის განტოლება
+- ᱥᱠᱨᱚᱰᱤᱝᱜᱟᱨ ᱥᱚᱢᱟᱱ
+- シュレーディンガー方程式
+- 薛丁格方程式
+- 薛定諤方程
+- 薛定諤方程式
+- 薛定谔方程
+- 슈뢰딩거 방정식
+- 슈뢰딩게르방정식
 has_id_wikidata: Q165498
-subclass_of: "[[_Standards/WikiData/WD~partial_differential_equation,271977]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+subclass_of: '[[_Standards/WikiData/WD~partial_differential_equation,271977]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi alternate="1">&#x210F;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>d</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>d</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow><mo stretchy="false">|</mo><mi mathvariant="normal">&#x03A8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
-named_after: "[[_Standards/WikiData/WD~Erwin_Schrödinger,9130]]"
+named_after: '[[_Standards/WikiData/WD~Erwin_Schrödinger,9130]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi alternate="1">&#x210F;</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">|</mo><mspace width="0.167em"></mspace><mi>&#x03C8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>H</mi><mo>^</mo></mover></mrow></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi alternate="1">&#x210F;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">|</mo><mspace width="0.167em"></mspace><mi>&#x03C8;</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x27E9;</mo></mstyle></mrow></math>
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/StationaryStatesAnimation.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wavepacket-a2k4-en.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/StationaryStatesAnimation.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wavepacket-a2k4-en.gif
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/schroedinger-equation
 Wolfram_Language_entity_code: Entity["Concept", "SchrodingerEquation::6hq22"]
 Commons_category: Schrödinger equation
+dv_has_:
+  name_:
+    af: Schrödinger-vergelyking
+    ar: معادلة شرودنغر
+    arz: معادلة شرودينجر
+    ast: ecuación de Schrödinger
+    az: Şrödinger tənliyi
+    be: ураўненне Шродзінгера
+    be-tarask: раўнаньне Шрэдынгера
+    bg: Уравнение на Шрьодингер
+    bn: শ্রোডিঙার সমীকরণ
+    bs: Schrödingerova jednačina
+    ca: equació de Schrödinger
+    cs: Schrödingerova rovnice
+    cv: Шрёдингер танлăхĕ
+    da: Schrödingers ligning
+    de: Schrödingergleichung
+    el: εξίσωση Σρέντινγκερ
+    en: Schrödinger equation
+    eo: ekvacio de Schrödinger
+    es: ecuación de Schrödinger
+    et: Schrödingeri võrrand
+    eu: Schrödingerren ekuazioa
+    fa: معادله شرودینگر
+    fi: Schrödingerin yhtälö
+    fr: équation de Schrödinger
+    ga: cothromóid Schrödinger
+    gl: ecuación de Schrödinger
+    he: משוואת שרדינגר
+    hi: श्रोडिंगर समीकरण
+    hr: Schrödingerova jednadžba
+    hu: Schrödinger-egyenlet
+    hy: Շրյոդինգերի հավասարում
+    ia: equation de Schrödinger
+    id: persamaan Schrödinger
+    io: equaciono di Schrödinger
+    is: jafna Schrödingers
+    it: equazione di Schrödinger
+    ja: シュレーディンガー方程式
+    ka: შრედინგერის განტოლება
+    ko: 슈뢰딩거 방정식
+    ko-kp: 슈뢰딩게르방정식
+    la: aequatio Schrödingeriana
+    li: Schrödingervergelieking
+    lt: Šredingerio lygtis
+    lv: Šrēdingera vienādojums
+    lzh: 薛定諤方程
+    mk: Шредингерова равенка
+    mn: Шредингерийн тэгшитгэл
+    ms: persamaan Schrödinger
+    mt: ekwazzjoni ta' Schrödinger
+    nb: Schrödinger-ligning
+    nl: Schrödingervergelijking
+    nn: Schrödingerlikninga
+    oc: equacion de Schrödinger
+    pa: ਸ਼ਰੋਡਿੰਜਰ ਸਮੀਕਰਨ
+    pl: równanie Schrödingera
+    pnb: شروڈنگر مساوات
+    pt: equação de Schrödinger
+    ro: ecuația lui Schrödinger
+    ru: уравнение Шрёдингера
+    sat: ᱥᱠᱨᱚᱰᱤᱝᱜᱟᱨ ᱥᱚᱢᱟᱱ
+    sh: Šredingerova jednačina
+    si: Schrödinger equation
+    sk: Schrödingerova rovnica
+    sl: Schrödingerjeva enačba
+    smn: Schrödinger ovtâldâh
+    sq: ekuacioni i Shrodingerit
+    sr: Шредингерова једначина
+    sv: Schrödingerekvationen
+    ta: சுரோடிங்கர் சமன்பாடு
+    th: สมการชเรอดิงเงอร์
+    tl: ekwasyong Schrödinger
+    tr: Schrödinger denklemi
+    tt: Шредингер тигезләмәсе
+    uk: рівняння Шредінгера
+    uz: Shredinger tenglamasi
+    vi: phương trình Schrödinger
+    wuu: 薛定谔方程
+    yi: שרעדינגער גלייכונג
+    yue: 薛定諤方程式
+    zh: 薛定谔方程
+    zh-cn: 薛定谔方程
+    zh-hans: 薛定谔方程
+    zh-hant: 薛定諤方程
+    zh-hk: 薛定諤方程式
+    zh-sg: 薛定谔方程
+    zh-tw: 薛丁格方程式
 ---
-
 # [[Schrödinger_Equation]] 
 
 #is_/same_as :: [[WD~Schrödinger_equation,165498]] 

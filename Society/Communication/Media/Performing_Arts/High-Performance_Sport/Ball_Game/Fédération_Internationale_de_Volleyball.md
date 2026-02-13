@@ -1,26 +1,72 @@
 ---
-has_time_started: 1947-04-20 
+has_time_started: 1947-04-20
 aliases:
-  - International Volleyball Federation
-  - Fédération Internationale de Volleyball
-  - FIVB
-  - Fédération_Internationale_de_Volleyball
+- Beynəlxalq Voleybol Federasiyası
+- Federacio Internacia de Volejbalo
+- Federació Internacional de Voleibol
+- Federación Internacional de Voleibol
+- Federasi Bola Voli Internasional
+- Federação Internacional de Voleibol
+- Federația Internațională de Volei
+- FIVB
+- Fédérasi Bola Voli Internasional
+- Fédération internationale de volley-ball
+- Fédération Internationale de Volleyball
+- Fédération_Internationale_de_Volleyball
+- International Volleyball Federation
+- Kansainvälinen lentopalloliitto
+- Liên đoàn bóng chuyền quốc tế
+- Mednarodna odbojkarska zveza
+- Medzinárodná volejbalová federácia
+- Mezinárodní volejbalová federace
+- Međunarodna odbojkaška federacija
+- Międzynarodowa Federacja Piłki Siatkowej
+- Nazioarteko Boleibol Federazioa
+- Pankinaban na Pederasyon kan Volleyball
+- Pasabaatan Bal Tapak Antarabangsa
+- Persekutuan Bola Tampar Antarabangsa
+- Rahvusvaheline Võrkpalliföderatsioon
+- Tarptautinė tinklinio federacija
+- Uluslararası Voleybol Federasyonu
+- Xalqaro voleybol federasiyasi
+- Διεθνής Ομοσπονδία Πετοσφαίρισης
+- Міжнародна федерація волейболу
+- Міжнародная фэдэрацыя валейболу
+- Меѓународен одбојкарски дојуз
+- Международна федерация по волейбол
+- Международная федерация волейбола
+- Федератсияи байналмилалии волейбол
+- ФИВБ
+- Халыҡ-ара волейбол федерацияһы
+- הפדרציה הבין־לאומית לכדורעף
+- الاتحاد الدولي للكرة الطائرة
+- بینالخالق والیبال فدراسیونو
+- فدراسیون بینالمللی والیبال
+- لإتحاد الدولي د لكورة الطايرة
+- আন্তর্জাতিক ভলিবল সংস্থা
+- สหพันธ์วอลเลย์บอลระหว่างประเทศ
+- ფრენბურთის საერთაშორისო ფედერაცია
+- 国际排球联合会
+- 国際バレーボール連盟
+- 國際排球總會
+- 國際排球聯會
+- 국제 배구 연맹
 has_id_wikidata: Q6851
 replaces: '[[_Standards/WikiData/WD~International_Amateur_Handball_Federation,1666318]]'
 member_of: '[[_Standards/WikiData/WD~Association_of_Summer_Olympic_International_Federations,2420112]]'
 chairperson: '[[_Standards/WikiData/WD~Paul_Libaud,4260888]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-  - '[[_Standards/WikiData/WD~volleyball_association,98426086]]'
+- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
+- '[[_Standards/WikiData/WD~volleyball_association,98426086]]'
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Lausanne,807]]'
 official_language:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~Chinese,7850]]'
-  - '[[_Standards/WikiData/WD~Arabic,13955]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 sport: '[[_Standards/WikiData/WD~volleyball,1734]]'
 related_property: FIVB player ID
 social_media_followers: 4050000
@@ -34,13 +80,84 @@ privacy_policy_URL: https://www.fivb.com/privacy-policy/
 terms_of_service_URL: https://www.fivb.com/terms-of-service/
 ISNI: 0000000121950302
 X_Twitter_username:
-  - FIVBVolleyball
-  - volleyballworld
+- FIVBVolleyball
+- volleyballworld
 Instagram_username: volleyballworld
 Facebook_username: VolleyballWorld
 official_name: Fédération Internationale de Volleyball
+dv_has_:
+  name_:
+    ang: Fédération Internationale de Volleyball
+    ar: الاتحاد الدولي للكرة الطائرة
+    ary: لإتحاد الدولي د لكورة الطايرة
+    ast: Federación Internacional de Voleibol
+    az: Beynəlxalq Voleybol Federasiyası
+    azb: بینالخالق والیبال فدراسیونو
+    ba: Халыҡ-ара волейбол федерацияһы
+    ban: Fédérasi Bola Voli Internasional
+    bcl: Pankinaban na Pederasyon kan Volleyball
+    be-tarask: Міжнародная фэдэрацыя валейболу
+    bg: Международна федерация по волейбол
+    bjn: Pasabaatan Bal Tapak Antarabangsa
+    bn: আন্তর্জাতিক ভলিবল সংস্থা
+    ca: Federació Internacional de Voleibol
+    cs: Mezinárodní volejbalová federace
+    de: Fédération Internationale de Volleyball
+    el: Διεθνής Ομοσπονδία Πετοσφαίρισης
+    en: Fédération Internationale de Volleyball
+    en-ca: Fédération Internationale de Volleyball
+    en-gb: Fédération Internationale de Volleyball
+    eo: Federacio Internacia de Volejbalo
+    es: Federación Internacional de Voleibol
+    et: Rahvusvaheline Võrkpalliföderatsioon
+    eu: Nazioarteko Boleibol Federazioa
+    fa: فدراسیون بینالمللی والیبال
+    fi: Kansainvälinen lentopalloliitto
+    fr: Fédération internationale de volley-ball
+    fy: Fédération Internationale de Volleyball
+    he: הפדרציה הבין־לאומית לכדורעף
+    hr: Međunarodna odbojkaška federacija
+    id: Federasi Bola Voli Internasional
+    it: Fédération Internationale de Volleyball
+    ja: 国際バレーボール連盟
+    ka: ფრენბურთის საერთაშორისო ფედერაცია
+    ko: 국제 배구 연맹
+    lb: Fédération internationale de volleyball
+    lt: Tarptautinė tinklinio federacija
+    mk: Меѓународен одбојкарски дојуз
+    ms: Persekutuan Bola Tampar Antarabangsa
+    nb: Fédération Internationale de Volleyball
+    nl: Fédération Internationale de Volleyball
+    pl: Międzynarodowa Federacja Piłki Siatkowej
+    pt: Federação Internacional de Voleibol
+    pt-br: Federação Internacional de Voleibol
+    rm: FIVB
+    ro: Federația Internațională de Volei
+    ru: Международная федерация волейбола
+    sgs: FIVB
+    sh: FIVB
+    sk: Medzinárodná volejbalová federácia
+    sl: Mednarodna odbojkarska zveza
+    so: FIVB
+    sr: ФИВБ
+    sv: Fédération Internationale de Volleyball
+    tg: Федератсияи байналмилалии волейбол
+    th: สหพันธ์วอลเลย์บอลระหว่างประเทศ
+    tr: Uluslararası Voleybol Federasyonu
+    uk: Міжнародна федерація волейболу
+    uz: Xalqaro voleybol federasiyasi
+    vi: Liên đoàn bóng chuyền quốc tế
+    wuu: 国际排球联合会
+    zh: 国际排球联合会
+    zh-cn: 国际排球联合会
+    zh-hans: 国际排球联合会
+    zh-hant: 國際排球總會
+    zh-hk: 國際排球聯會
+    zh-mo: 國際排球聯會
+    zh-my: 国际排球联合会
+    zh-sg: 国际排球联合会
+    zh-tw: 國際排球總會
 ---
-
 # [[Fédération_Internationale_de_Volleyball]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Fédération_Internationale_de_Volleyball,6851|WD~Fédération_Internationale_de_Volleyball,6851]] 

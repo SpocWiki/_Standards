@@ -1,23 +1,130 @@
 ---
 aliases:
-  - game show
-  - gameshow
-  - Game_Show
-  - Game Show
+- Acara permainan
+- concurs televisiu
+- concurso de televisión
+- concurso televisivo
+- concursu de televisión
+- emisiune-concurs
+- game show
+- gameshow
+- Game_Show
+- jeu télévisé
+- kilpailuohjelma
+- Lehiaketa programa
+- lekprogram
+- oyun şovu
+- programa de concurso
+- rancangan permainan
+- seó cluichí
+- Sioe gêm
+- soutěžní pořad
+- Spectaculum lusorium
+- spelprogramma
+- Spielshow
+- tekmovalni šov
+- telemäng
+- teleoyun
+- teleturniej
+- televida ludo
+- televizijska igra
+- trò chơi truyền hình
+- vetélkedő
+- τηλεπαιχνίδι
+- телевизиска игра
+- телегра
+- телеигра
+- телеуен
+- тэлегульня
+- հեռուստախաղ
+- שעשועון
+- برنامج مسابقات
+- مسابقه تلویزیونی
+- گیم شو
+- गेम शो
+- விளையாட்டு நிகழ்ச்சி
+- เกมโชว์
+- ゲーム番組
+- 游戏节目
+- 遊戲節目
+- 게임 쇼
 has_id_wikidata: Q846662
 subclass_of:
-  - '[[_Standards/WikiData/WD~reality_television,182415]]'
-  - '[[_Standards/WikiData/WD~competition,841654]]'
-  - '[[_Standards/WikiData/WD~concours,1967459]]'
-  - '[[_Standards/WikiData/WD~game,11410]]'
+- '[[_Standards/WikiData/WD~reality_television,182415]]'
+- '[[_Standards/WikiData/WD~competition,841654]]'
+- '[[_Standards/WikiData/WD~concours,1967459]]'
+- '[[_Standards/WikiData/WD~game,11410]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~radio_genre,15961983]]'
-  - '[[_Standards/WikiData/WD~television_genre,15961987]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~television_genre,15961987]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheel%20of%20Fortune%20Navy.jpg
 Commons_category: Game shows
 IMDb_keyword: quiz-game-show
+dv_has_:
+  name_:
+    ar: برنامج مسابقات
+    ast: concursu de televisión
+    az: teleoyun
+    be-tarask: тэлегульня
+    ca: concurs televisiu
+    cs: soutěžní pořad
+    cy: Sioe gêm
+    da: Gameshow
+    de: Spielshow
+    el: τηλεπαιχνίδι
+    en: game show
+    en-ca: game show
+    en-gb: game show
+    eo: televida ludo
+    es: programa de concurso
+    et: telemäng
+    eu: Lehiaketa programa
+    fa: مسابقه تلویزیونی
+    fi: kilpailuohjelma
+    fr: jeu télévisé
+    ga: seó cluichí
+    gl: concurso de televisión
+    he: שעשועון
+    hi: गेम शो
+    hr: televizijska igra
+    hu: vetélkedő
+    hy: հեռուստախաղ
+    id: Acara permainan
+    it: game show
+    ja: ゲーム番組
+    ko: 게임 쇼
+    la: Spectaculum lusorium
+    mk: телевизиска игра
+    ms: rancangan permainan
+    nb: gameshow
+    nl: spelprogramma
+    nn: Game show
+    pl: teleturniej
+    pt: concurso televisivo
+    pt-br: game show
+    ro: emisiune-concurs
+    ru: телеигра
+    sh: Televizijska igra
+    sl: tekmovalni šov
+    sr: Televizijska igra
+    sv: lekprogram
+    ta: விளையாட்டு நிகழ்ச்சி
+    th: เกมโชว์
+    tr: oyun şovu
+    tt: телеуен
+    tt-cyrl: телеуен
+    uk: телегра
+    ur: گیم شو
+    vi: trò chơi truyền hình
+    wuu: 游戏节目
+    yue: 遊戲節目
+    zh: 遊戲節目
+    zh-cn: 游戏节目
+    zh-hans: 游戏节目
+    zh-hant: 遊戲節目
+    zh-hk: 遊戲節目
+    zh-tw: 遊戲節目
 ---
-
 # [[Game_Show]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Game_show,846662|WD~Game_show,846662]] 

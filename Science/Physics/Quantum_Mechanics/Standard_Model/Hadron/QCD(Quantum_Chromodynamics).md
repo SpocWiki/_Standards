@@ -1,34 +1,153 @@
 ---
 aliases:
-  - quantum chromodynamics
-  - Quantenchromodynamik
-  - QCD
-  - QCD(Quantum_Chromodynamics)
-  - QCD(Quantum Chromodynamics)
+- chromodynamice quantica
+- chromodynamika kwantowa
+- chromodynamique quantique
+- Cromodinamica quantica
+- cromodinamica quantistica
+- cromodinamică cuantică
+- cromodinàmica quàntica
+- cromodinámica cuántica
+- cromodinâmica quântica
+- cromodynameg cwantwm
+- crómaidinimic chandamach
+- kromodinamik kuantum
+- kromodinamika kuantiko
+- kromodinamika kuantum
+- kuantum renk dinamiği
+- Kvant xromodinamikasi (KXD)
+- kvantekromodynamik
+- kvantekromodynamikk
+- kvantinė chromodinamika
+- kvantkromodynamik
+- Kvantkromodünaamika
+- kvantna hromodinamika
+- kvantna kromodinamika
+- kvantová chromodynamika
+- kvanttiväridynamiikka
+- kvantum-színdinamika
+- kvantuma kolordinamiko
+- kwantum-chromodinamika
+- kwantumchromodynamica
+- QCD
+- QCD(Quantum Chromodynamics)
+- QCD(Quantum_Chromodynamics)
+- Quantenchromodynamik
+- quantum chromodynamics
+- thuyết sắc động lực học lượng tử
+- κβαντική χρωμοδυναμική
+- квантавая хромадынаміка
+- квантна хромодинамика
+- квантова хромодинаміка
+- Квантова хромодинамика
+- Квантовая хромодинамика
+- кванттық хромодинамика
+- כרומודינמיקה קוונטית
+- ديناميكا لونية كمية
+- مقداریہ لونی حرکیات
+- کرومودینامیک کوانتومی
+- কোয়ান্টাম ক্রোমোডাইনামিক্স
+- ਕੁਆਂਟਮ ਕ੍ਰੋਮੋਡਾਇਨਾਮਿਕਸ
+- კვანტური ქრომოდინამიკა
+- 量子色力学
+- 量子色动力学
+- 量子色動力學
+- 량자색력학
+- 양자 색역학
 has_id_wikidata: Q238170
 instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%A5%D1%80%D0%BE%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0.%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%96%2001.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%A5%D1%80%D0%BE%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0.%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%96%2002.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%A5%D1%80%D0%BE%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0.%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%96%2001.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B2%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%A5%D1%80%D0%BE%D0%BC%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D0%BA%D0%B0.%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%93%D1%80%D0%B0%D0%B1%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.%20%D0%9B%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%E2%84%96%2002.webm
 short_name:
-  - QCD
-  - KKD
-  - CDQ
-  - KCD
-  - КХД
-  - КХД
-  - CDQ
-  - QCD
-  - КХД
-  - KRD
-  - КХД
+- QCD
+- KKD
+- CDQ
+- KCD
+- КХД
+- КХД
+- CDQ
+- QCD
+- КХД
+- KRD
+- КХД
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Qcd%20fields%20field%20%28physics%29%20mk.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/quantum-chromodynamics
 Universal_Decimal_Classification: 539.120.81
 Commons_category: Quantum chromodynamics
 PhilPapers_topic: quantum-chromodynamics
+dv_has_:
+  name_:
+    af: kwantum-chromodinamika
+    ar: ديناميكا لونية كمية
+    ast: cromodinámica cuántica
+    be: квантавая хромадынаміка
+    be-tarask: квантавая хромадынаміка
+    bg: Квантова хромодинамика
+    bn: কোয়ান্টাম ক্রোমোডাইনামিক্স
+    bs: kvantna hromodinamika
+    ca: cromodinàmica quàntica
+    cs: kvantová chromodynamika
+    cy: cromodynameg cwantwm
+    da: kvantekromodynamik
+    de: Quantenchromodynamik
+    de-ch: Quantenchromodynamik
+    el: κβαντική χρωμοδυναμική
+    en: quantum chromodynamics
+    en-ca: quantum chromodynamics
+    en-gb: quantum chromodynamics
+    eo: kvantuma kolordinamiko
+    es: cromodinámica cuántica
+    et: Kvantkromodünaamika
+    eu: kromodinamika kuantiko
+    fa: کرومودینامیک کوانتومی
+    fi: kvanttiväridynamiikka
+    fr: chromodynamique quantique
+    ga: crómaidinimic chandamach
+    gl: cromodinámica cuántica
+    gsw: Quantenchromodynamik
+    he: כרומודינמיקה קוונטית
+    hr: kvantna kromodinamika
+    hu: kvantum-színdinamika
+    id: kromodinamika kuantum
+    it: cromodinamica quantistica
+    ja: 量子色力学
+    ka: კვანტური ქრომოდინამიკა
+    kk: кванттық хромодинамика
+    ko: 양자 색역학
+    ko-kp: 량자색력학
+    la: chromodynamice quantica
+    lt: kvantinė chromodinamika
+    mk: квантна хромодинамика
+    ms: kromodinamik kuantum
+    nb: kvantekromodynamikk
+    nl: kwantumchromodynamica
+    nn: kvantekromodynamikk
+    oc: Cromodinamica quantica
+    pa: ਕੁਆਂਟਮ ਕ੍ਰੋਮੋਡਾਇਨਾਮਿਕਸ
+    pl: chromodynamika kwantowa
+    pt: cromodinâmica quântica
+    pt-br: cromodinâmica quântica
+    ro: cromodinamică cuantică
+    ru: Квантовая хромодинамика
+    sk: kvantová chromodynamika
+    sl: kvantna kromodinamika
+    sr: квантна хромодинамика
+    sv: kvantkromodynamik
+    tr: kuantum renk dinamiği
+    uk: квантова хромодинаміка
+    ur: مقداریہ لونی حرکیات
+    uz: Kvant xromodinamikasi (KXD)
+    vi: thuyết sắc động lực học lượng tử
+    yue: 量子色動力學
+    zh: 量子色動力學
+    zh-cn: 量子色动力学
+    zh-hans: 量子色动力学
+    zh-hant: 量子色動力學
+    zh-hk: 量子色動力學
+    zh-sg: 量子色动力学
+    zh-tw: 量子色動力學
 ---
-
 # [[QCD(Quantum_Chromodynamics)]] 
 
 #is_/same_as :: [[WD~Quantum_chromodynamics,238170]] 

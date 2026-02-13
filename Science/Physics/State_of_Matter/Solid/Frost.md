@@ -1,31 +1,207 @@
 ---
 aliases:
+- Andap
+- Antzigar
+- aqerrif
+- barrug
+- Blancada
+- brina
+- Brumă
+- Bryma
+- Bulduruq
+- Chhulla
+- dér
+- Eláda
+- embun beku
+- escarcha
+- frost
+- geada branca
+- gelada
+- gelée blanche
+- Hala
+- Hall
+- Héla
+- Ibun (geografi)
+- Jalidi
+- jilata
+- jinovatka
+- kuura
+- kırağı
+- Miskomipectan
+- Mraz
+- Pruina
+- prujno
+- Qırov
+- Reif
+- Relêye
+- rijp
+- rim
+- Rio
+- roe-iezel
+- Rosata
+- Ryp
+- Räif
+- Salna
+- sioc
+- slana
+- szron
+- Szrōn
+- Sương muối
+- Waagii
+- šerkšnas
+- Šerkšnos
+- Πάχνη
+- іній
+- Аяз
+- бәс
+- иней
+- Лекш
+- Лешсь
+- мраз
+- Пас
+- пужмер
+- Саву
+- слана
+- шэрань
+- Եղյամ
+- קרה
+- صقيع
+- کہر
+- یخبندان
+- तुषारो
+- पाला
+- பனிப்பூச்சு
+- น้ำค้างแข็ง
+- နှင်းခဲ
+- თრთვილი
+- ᡤᡝᠴᡝᠨ
+- 霜
+- 서리
 has_id_wikidata: Q4590598
 different_from:
-  - "[[_Standards/WikiData/WD~rime_ice,131099]]"
-  - "[[_Standards/WikiData/WD~freezing,1135221]]"
-  - "[[_Standards/WikiData/WD~glaze,1192031]]"
-  - "[[_Standards/WikiData/WD~halla,21043960]]"
+- '[[_Standards/WikiData/WD~rime_ice,131099]]'
+- '[[_Standards/WikiData/WD~freezing,1135221]]'
+- '[[_Standards/WikiData/WD~glaze,1192031]]'
+- '[[_Standards/WikiData/WD~halla,21043960]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~phenomenon,483247]]"
-  - "[[_Standards/WikiData/WD~hydrometeor,1972098]]"
+- '[[_Standards/WikiData/WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~hydrometeor,1972098]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-manifestation_of: "[[_Standards/WikiData/WD~deposition,871279]]"
-instance_of: "[[_Standards/WikiData/WD~ice,23392]]"
-OmegaWiki_Defined_Meaning: "1571"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+manifestation_of: '[[_Standards/WikiData/WD~deposition,871279]]'
+instance_of: '[[_Standards/WikiData/WD~ice,23392]]'
+OmegaWiki_Defined_Meaning: 1571
 Commons_category: Frost
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Frost%20%2831189250653%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hoar%20frost%20ice%20crystals%20in%20Tuntorp%201%20-%20cropped.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Frost%20%2831189250653%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hoar%20frost%20ice%20crystals%20in%20Tuntorp%201%20-%20cropped.jpg
+dv_has_:
+  name_:
+    af: Ryp
+    an: Rosata
+    ar: صقيع
+    ast: Escarcha
+    atj: Miskomipectan
+    av: Саву
+    az: Qırov
+    bcl: Andap
+    be: шэрань
+    be-tarask: шэрань
+    bg: слана
+    bho: पाला
+    bs: Mraz
+    ca: gelada
+    cs: jinovatka
+    cv: Пас
+    cy: barrug
+    da: Frost
+    de: Reif
+    de-ch: Reif
+    dty: तुषारो
+    el: Πάχνη
+    en: frost
+    en-ca: Frost
+    en-gb: frost
+    eo: prujno
+    es: escarcha
+    et: Hall
+    eu: Antzigar
+    fa: یخبندان
+    fi: kuura
+    fr: gelée blanche
+    ga: sioc
+    gn: Eláda
+    gv: Rio
+    hak: 霜
+    he: קרה
+    hi: पाला
+    hr: mraz
+    hu: dér
+    hy: Եղյամ
+    id: embun beku
+    is: Héla
+    it: brina
+    ja: 霜
+    ka: თრთვილი
+    kab: aqerrif
+    kk: Аяз
+    ko: 서리
+    la: Pruina
+    lb: Räif
+    lmo: Brina
+    lt: šerkšnas
+    lv: Salna
+    lzh: 霜
+    mdf: Лешсь
+    mk: Слана
+    mnc: ᡤᡝᠴᡝᠨ
+    ms: Ibun (geografi)
+    my: နှင်းခဲ
+    myv: Лекш
+    nb: frost
+    nds-nl: roe-iezel
+    ne: तुषारो
+    nl: rijp
+    nn: rim
+    oc: Blancada
+    om: Waagii
+    pl: szron
+    pt: geada branca
+    pt-br: Geada branca
+    qu: Chhulla
+    ro: Brumă
+    ru: иней
+    scn: jilata
+    sgs: Šerkšnos
+    sh: Mraz
+    sl: slana
+    sq: Bryma
+    sr: мраз
+    sv: frost
+    sw: Jalidi
+    szl: Szrōn
+    ta: பனிப்பூச்சு
+    th: น้ำค้างแข็ง
+    tl: Andap
+    tr: kırağı
+    tt: бәс
+    udm: пужмер
+    uk: іній
+    ur: کہر
+    uz: Bulduruq
+    vep: Hala
+    vi: Sương muối
+    wa: Relêye
+    wuu: 霜
+    yue: 霜
+    zh: 霜
 ---
-
 # [[Frost]] 
 
 #is_/instance_of :: [[Deposition]] 

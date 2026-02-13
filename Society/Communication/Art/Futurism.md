@@ -1,32 +1,178 @@
 ---
-has_time_started: 1909-01-01 
+has_time_started: 1909-01-01
 aliases:
-  - Futuristic
-  - Futurism
+- Bī-lâi-phài
+- Chủ nghĩa vị lai
+- Dyfodoliaeth
+- Futurism
+- futurisma
+- futurisme
+- futurismi
+- futurismm
+- futurismo
+- Futurismu
+- Futurismus
+- futurissma
+- Futuristic
+- Futurizam
+- futurizem
+- futurizm
+- futurizmas
+- futurizmus
+- futuriżmu
+- futuryzm
+- Futurîzm
+- Futūrisms
+- Fütürizm
+- todhchaíochas
+- Φουτουρισμός
+- футуризам
+- футуризм
+- Футуризъм
+- футурызм
+- ֆուտուրիզմ
+- פוטוריזם
+- آیندهگری
+- المستقبليه
+- فوتوريسمى
+- فیوچرېزم (راتلونکې پالنه)
+- مستقبل بيني
+- مستقبلية
+- مستقبلیت
+- ਭਵਿੱਖਵਾਦ
+- ఫ్యూచరిజం
+- อนาคตนิยม
+- အနာဂတ္ထိဝါဒ
+- ფუტურიზმი
+- 未來主義
+- 未来主义
+- 未来派
+- 미래파
 has_id_wikidata: Q131221
 different_from:
-  - '[[_Standards/WikiData/WD~futures_studies,188867]]'
-  - '[[_Standards/WikiData/WD~Futurians,848452]]'
+- '[[_Standards/WikiData/WD~futures_studies,188867]]'
+- '[[_Standards/WikiData/WD~Futurians,848452]]'
 founded_by: '[[_Standards/WikiData/WD~Filippo_Tommaso_Marinetti,216582]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~futurist_architecture,333353]]'
-  - '[[_Standards/WikiData/WD~Russian_Futurism,617166]]'
+- '[[_Standards/WikiData/WD~futurist_architecture,333353]]'
+- '[[_Standards/WikiData/WD~Russian_Futurism,617166]]'
 instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 country:
-  - '[[_Standards/WikiData/WD~Italy,38]]'
-  - '[[_Standards/WikiData/WD~Poland,36]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
 influenced_by: '[[_Standards/WikiData/WD~Cubism,42934]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aldo%20Palazzeschi%2C%20Carlo%20Carr%C3%A0%2C%20Giovanni%20Papini%2C%20Umberto%20Boccioni%2C%20Filippo%20Tommaso%20Marinetti%2C%201914.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dynamism%20of%20a%20Biker%20%281913%29%20by%20Umberto%20Boccioni.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Aldo%20Palazzeschi%2C%20Carlo%20Carr%C3%A0%2C%20Giovanni%20Papini%2C%20Umberto%20Boccioni%2C%20Filippo%20Tommaso%20Marinetti%2C%201914.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dynamism%20of%20a%20Biker%20%281913%29%20by%20Umberto%20Boccioni.jpg
 Provenio_UUID: 33d51c97-8b13-453f-b52f-f048d4ddb584
 Commons_category: Futurism
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/FUTURIZM.html
 inception: 1909-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Futurisme
+    ar: مستقبلية
+    arz: المستقبليه
+    ast: Futurismu
+    az: futurizm
+    be: футурызм
+    be-tarask: футурызм
+    bg: Футуризъм
+    bs: Futurizam
+    ca: futurisme
+    cs: futurismus
+    cy: Dyfodoliaeth
+    da: Futurisme
+    de: Futurismus
+    el: Φουτουρισμός
+    en: Futurism
+    eo: futurismo
+    es: futurismo
+    et: futurism
+    eu: Futurismo
+    fa: آیندهگری
+    fi: futurismi
+    fr: futurisme
+    ga: todhchaíochas
+    gl: futurismo
+    gsw: Futurismus
+    he: פוטוריזם
+    hr: Futurizam
+    hu: futurizmus
+    hy: ֆուտուրիզմ
+    ia: Futurismo
+    id: Futurisme
+    it: futurismo
+    ja: 未来派
+    ka: ფუტურიზმი
+    kk: Футуризм
+    ko: 미래파
+    ku: Futurîzm
+    ky: Футуризм
+    la: Futurismus
+    lfn: Futurisme
+    lt: futurizmas
+    lv: Futūrisms
+    mk: футуризам
+    mn: Футуризм
+    ms: futurisme
+    ms-arab: فوتوريسمى
+    mt: futuriżmu
+    my: အနာဂတ္ထိဝါဒ
+    nan: Bī-lâi-phài
+    nb: futurisme
+    nl: futurisme
+    nn: futurisme
+    nrm: Futurisme
+    oc: Futurisme
+    os: футуризм
+    pa: ਭਵਿੱਖਵਾਦ
+    pl: futuryzm
+    pms: Futurism
+    pnb: مستقبلیت
+    ps: فیوچرېزم (راتلونکې پالنه)
+    pt: futurismo
+    rki: အနာဂတ္ထိဝါဒ
+    ro: futurism
+    ru: футуризм
+    rue: Футуризм
+    sd: مستقبل بيني
+    se: futurisma
+    sh: futurizam
+    sje: futurissma
+    sk: Futurizmus
+    sl: futurizem
+    sma: futurisme
+    smj: futurissma
+    smn: futurism
+    sms: futurismm
+    sr: футуризам
+    sr-ec: футуризам
+    sr-el: futurizam
+    stq: Futurismus
+    sv: futurism
+    te: ఫ్యూచరిజం
+    th: อนาคตนิยม
+    tr: Fütürizm
+    tt: Футуризм
+    uk: футуризм
+    ur: مستقبلیت
+    uz: Futurizm
+    vec: Futurismo
+    vi: Chủ nghĩa vị lai
+    vro: Futurism
+    wuu: 未来主义
+    yue: 未來主義
+    zh: 未来主义
+    zh-cn: 未来主义
+    zh-hans: 未来主义
+    zh-hant: 未來主義
+    zh-hk: 未來主義
+    zh-sg: 未来主义
+    zh-tw: 未來主義
 ---
-
 # [[Futurism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Futurism,131221|WD~Futurism,131221]] 

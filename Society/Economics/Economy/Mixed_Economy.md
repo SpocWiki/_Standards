@@ -1,16 +1,143 @@
 ---
 aliases:
-  - mixed economy
-  - Mixed_Economy
-  - Mixed Economy
+- Aralas ékonomïka
+- Aralash iqtisodiyot
+- blandað hagkerfi
+- blandekonomi
+- blandingsøkonomi
+- Economia messedada
+- economia mista
+- economia mixta
+- economie mixtă
+- Economía mesta
+- economía mixta
+- ekonomi campuran
+- Ekonomia misto
+- gelenkte Volkswirtschaft
+- gemengde economie
+- Gemengde ekonomie
+- Gospodarka mieszana
+- Jauktā ekonomika
+- Karma ekonomi
+- Kinh tế hỗn hợp
+- mešano gospodarstvo
+- Miksa ekonomio
+- mixed economy
+- Mixed_Economy
+- Qarışıq iqtisadiyyat
+- Segamajandus
+- Sekatalous
+- smíšená ekonomika
+- vegyes gazdaság
+- Zmiešaná ekonomika
+- Économie mixte
+- μεικτή οικονομία
+- Аралас экономика
+- змішана економіка
+- змяшаная эканоміка
+- зьмяшаная эканоміка
+- Катнаш икътисад
+- комбинована привреда
+- Смесена икономика
+- смешанная экономика
+- Խառը տնտեսության տեսություն
+- כלכלה מעורבת
+- ئابووری تێکەڵ
+- ارالاس ەكونومىيكا
+- اقتصاد مختلط
+- مختلط اقتصاد
+- মিশ্র অর্থনীতি
+- ਮਿਸ਼ਰਤ ਅਰਥ ਵਿਵਸਥਾ
+- கலப்புப் பொருளாதாரம்
+- ಮಿಶ್ರ ಆರ್ಥಿಕ ವ್ಯವಸ್ಥೆ
+- เศรษฐกิจแบบผสม
+- შერეული ეკონომიკა
+- 混合経済
+- 混合經濟
+- 混合经济
+- 혼합 경제
 has_id_wikidata: Q191675
-subclass_of: "[[_Standards/WikiData/WD~economic_system,273005]]"
-described_by_source: "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_economic_system,137189275]]"
-OmegaWiki_Defined_Meaning: "536114"
-Dewey_Decimal_Classification: "338.749"
+subclass_of: '[[_Standards/WikiData/WD~economic_system,273005]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_economic_system,137189275]]'
+OmegaWiki_Defined_Meaning: 536114
+Dewey_Decimal_Classification: 338.749
+dv_has_:
+  name_:
+    af: Gemengde ekonomie
+    ar: اقتصاد مختلط
+    arz: اقتصاد مختلط
+    ast: Economía mesta
+    az: Qarışıq iqtisadiyyat
+    be: змяшаная эканоміка
+    be-tarask: зьмяшаная эканоміка
+    bg: Смесена икономика
+    bn: মিশ্র অর্থনীতি
+    ca: economia mixta
+    ckb: ئابووری تێکەڵ
+    cs: smíšená ekonomika
+    da: blandingsøkonomi
+    de: gelenkte Volkswirtschaft
+    el: μεικτή οικονομία
+    en: mixed economy
+    eo: Miksa ekonomio
+    es: economía mixta
+    et: Segamajandus
+    eu: Ekonomia misto
+    fa: اقتصاد مختلط
+    fi: Sekatalous
+    fr: Économie mixte
+    he: כלכלה מעורבת
+    hi: mixed economy
+    hu: vegyes gazdaság
+    hy: Խառը տնտեսության տեսություն
+    id: ekonomi campuran
+    is: blandað hagkerfi
+    it: economia mista
+    ja: 混合経済
+    ka: შერეული ეკონომიკა
+    kk: Аралас экономика
+    kk-arab: ارالاس ەكونومىيكا
+    kk-cn: ارالاس ەكونومىيكا
+    kk-cyrl: Аралас экономика
+    kk-kz: Аралас экономика
+    kk-latn: Aralas ékonomïka
+    kk-tr: Aralas ékonomïka
+    kn: ಮಿಶ್ರ ಆರ್ಥಿಕ ವ್ಯವಸ್ಥೆ
+    ko: 혼합 경제
+    lmo: Economia messedada
+    lv: Jauktā ekonomika
+    ms: Ekonomi campuran
+    nb: blandingsøkonomi
+    nl: gemengde economie
+    nn: blandingsøkonomi
+    pa: ਮਿਸ਼ਰਤ ਅਰਥ ਵਿਵਸਥਾ
+    pl: Gospodarka mieszana
+    ps: مختلط اقتصاد
+    pt: economia mista
+    ro: economie mixtă
+    ru: смешанная экономика
+    sk: Zmiešaná ekonomika
+    sl: mešano gospodarstvo
+    sr: комбинована привреда
+    sv: blandekonomi
+    ta: கலப்புப் பொருளாதாரம்
+    th: เศรษฐกิจแบบผสม
+    tl: mixed economy
+    tr: Karma ekonomi
+    tt: Катнаш икътисад
+    uk: змішана економіка
+    uz: Aralash iqtisodiyot
+    vi: Kinh tế hỗn hợp
+    yue: 混合經濟
+    zh: 混合经济
+    zh-cn: 混合经济
+    zh-hans: 混合经济
+    zh-hant: 混合經濟
+    zh-hk: 混合經濟
+    zh-sg: 混合经济
+    zh-tw: 混合經濟
 ---
-
 # [[Mixed_Economy]] 
 
 #is_/same_as :: [[WD~Mixed_economy,191675]] 

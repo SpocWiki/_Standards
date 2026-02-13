@@ -1,32 +1,192 @@
 ---
 aliases:
+- Chichimichin
+- Delfenoj
+- Delfiinen
+- delfiinit
+- Delfiinlased
+- Delfine
+- Delfiner
+- delfinfamilien
+- delfinfélék
+- delfini
+- Delfininiai
+- delfinkimilər
+- Delfinowate
+- Delfinu
+- Delfiny
+- Delfinët oqeanikë
+- Delfínidos
+- delfínids
+- Delfínovité
+- delfínovití
+- Delfîṅ
+- Delfīnu dzimta
+- Delphinidae
+- Dofin
+- dolfienen
+- Dolfijne
+- dolfijnen
+- Hái-ti-kho
+- Höfrungar
+- Họ Cá heo đại dương
+- Lumba-lumba
+- oceanski dupini
+- Okeanski delfin
+- Piranare
+- tééh hóyáanii íiyisígíí dóó bikʼéí
+- yaburoleem ke Delphinidae yasa
+- Yunusgiller
+- Δελφινίδες
+- Далайн гахай
+- делфинови
+- дельфінові
+- Дельфиндер
+- Дельфинлылар
+- дельфиновые
+- дэльфінавыя
+- океански делфини
+- Сæмгæфхуызтæ
+- ХӀорджӀаьла
+- Шыв сыснисем
+- դելֆիններ
+- דולפיניים
+- دلفين محيطى
+- دلفين محيطي
+- دلفین اقیانوسی
+- শুশুক
+- கடல் ஓங்கில்
+- โลมามหาสมุทร
+- დელფინისებრნი
+- マイルカ科
+- 海豚科
+- 참돌고래과
 has_id_wikidata: Q215760
 main_food_source:
-  - "[[_Standards/WikiData/WD~Teuthida,81900]]"
-  - "[[_Standards/WikiData/WD~fish_as_food,600396]]"
-parent_taxon: "[[_Standards/WikiData/WD~Odontoceti,144144]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Delphinus,312257]]"
+- '[[_Standards/WikiData/WD~Teuthida,81900]]'
+- '[[_Standards/WikiData/WD~fish_as_food,600396]]'
+parent_taxon: '[[_Standards/WikiData/WD~Odontoceti,144144]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Delphinus,312257]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "180415"
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 180415
 Commons_category: Delphinidae
 taxon_name: Delphinidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PacificWhiteSidedDolphine.jpg
 EPPO_Code: 1DLPNF
 NBN_System_Key: NHMSYS0000376173
 taxon_common_name:
-  - delfinfamilien
-  - delfini
+- delfinfamilien
+- delfini
 start_time: -30000000-06
+dv_has_:
+  name_:
+    an: Delphinidae
+    ar: دلفين محيطي
+    arz: دلفين محيطى
+    ast: Delphinidae
+    avk: yaburoleem ke Delphinidae yasa
+    az: delfinkimilər
+    be: дэльфінавыя
+    be-tarask: дэльфінавыя
+    bg: делфинови
+    bn: শুশুক
+    br: Delphinidae
+    bxr: Далайн гахай
+    ca: delfínids
+    ce: ХӀорджӀаьла
+    ceb: Delphinidae
+    co: Delfinu
+    cs: delfínovití
+    cv: Шыв сыснисем
+    da: Delfiner
+    de: Delfine
+    el: Δελφινίδες
+    eml: Delfîṅ
+    en: Delphinidae
+    eo: Delfenoj
+    es: Delphinidae
+    et: Delfiinlased
+    eu: Delphinidae
+    ext: Delphinidae
+    fa: دلفین اقیانوسی
+    fi: delfiinit
+    fr: Delphinidae
+    frr: Delfiinen
+    ga: Delphinidae
+    gl: Delfínidos
+    gn: Piranare
+    he: דולפיניים
+    hr: oceanski dupini
+    hsb: Delfiny
+    hu: delfinfélék
+    hy: դելֆիններ
+    ia: Delphinidae
+    id: Lumba-lumba
+    ie: Delphinidae
+    io: Delphinidae
+    is: Höfrungar
+    it: Delphinidae
+    ja: マイルカ科
+    ka: დელფინისებრნი
+    ko: 참돌고래과
+    ky: Дельфиндер
+    la: Delphinidae
+    li: Dolfijne
+    lt: Delfininiai
+    lv: Delfīnu dzimta
+    mk: океански делфини
+    mul: Delphinidae
+    nah: Chichimichin
+    nan: Hái-ti-kho
+    nb: delfinfamilien
+    nds-nl: dolfienen
+    nl: dolfijnen
+    nn: delfinfamilien
+    nv: tééh hóyáanii íiyisígíí dóó bikʼéí
+    oc: Delphinidae
+    os: Сæмгæфхуызтæ
+    pcd: Dofin
+    pl: Delfinowate
+    pt: Delphinidae
+    pt-br: Delphinidae
+    ro: Delphinidae
+    ru: дельфиновые
+    scn: Delphinidae
+    sco: Delphinidae
+    sh: Oceanski dupini
+    sk: Delfínovité
+    sl: delfini
+    sq: Delfinët oqeanikë
+    sr: Okeanski delfin
+    stq: Delfine
+    sv: Delfiner
+    ta: கடல் ஓங்கில்
+    th: โลมามหาสมุทร
+    tl: Delphinidae
+    tr: Yunusgiller
+    tt: Дельфинлылар
+    uk: дельфінові
+    vi: Họ Cá heo đại dương
+    vo: Delphinidae
+    war: Delphinidae
+    wuu: 海豚科
+    yue: 海豚科
+    zh: 海豚科
+    zh-cn: 海豚科
+    zh-hans: 海豚科
+    zh-hant: 海豚科
+    zh-hk: 海豚科
+    zh-sg: 海豚科
+    zh-tw: 海豚科
 ---
-
 # [[Delphinidae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Delphinidae,215760|WD~Delphinidae,215760]]

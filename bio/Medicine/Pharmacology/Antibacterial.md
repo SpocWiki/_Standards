@@ -1,6 +1,97 @@
 ---
 aliases:
-  - Antibacterial
+- Ama-antibiotic
+- antaibheathach
+- Antibacterial
+- Antibaotiki
+- Antibaterial
+- Antibayatix
+- Antibayotiko
+- antibiohta
+- antibioot
+- antibiootikumid
+- antibiootti
+- Antibioteg
+- antibiotic
+- Antibiotica
+- antibiotico
+- antibiotics
+- Antibioticum
+- Antibiotik
+- antibiotika
+- antibiotikas
+- Antibiotiklar
+- antibiotiko
+- antibiotikum
+- antibiotique
+- antibiott
+- Antibiotėks
+- antibiyotik
+- Antibiyotike
+- antibiyotiko
+- antibiòtego
+- antibiòtic
+- Antibiòtich
+- antibiótico
+- Antibióticu
+- Antibyotik
+- antybiotyk
+- Atíbyotíki
+- Bakterio-kontrako
+- Dermanên dijbakterî
+- Gangsengsoq
+- gwrthfiotig
+- kháng sinh
+- Khòng-seng-sò͘
+- kitci mackiki
+- pohãrekoitegua
+- Sýklalyf
+- Unquy muhu wañuchiq
+- αντιβιοτικό
+- антибіотик
+- Антибиотик
+- антибиотиклар
+- Антибиотикне
+- Антибиотиктар
+- Антибиотиктер
+- Антибиотикҳо
+- антыбіётык
+- Անթիպիոթիք (Մանրէասպան)
+- հակաբիոտիկ
+- אנטיביאטיק
+- אנטיביוטיקה
+- آنتیبیوتیک
+- ؤنتيبيوتيك
+- انٹی بایوٹک
+- انټيبايوټيک
+- اينٽي بائيوٽڪس
+- اینٹی بَیاٹِکس
+- دژەزیندەیی
+- ضد حیوی
+- مضاد حيوى
+- مضاد حيوي
+- एंटीबायोटिक
+- एन्टिबायोटिक
+- एन्तिबायोतिक
+- प्रतिजैविक
+- অ্যান্টিবায়োটিক
+- প্ৰতিজৈৱিক
+- ਐਂਟੀਬਾਇਓਟਿਕਸ
+- நுண்ணுயிர் எதிர்ப்பி
+- యాంటీబయోటిక్
+- ಪ್ರತಿಜೀವಿಕ
+- ആന്റിബയോട്ടിക്ക്
+- ප් රතිජීවක ඖෂධ
+- ยาปฏิชีวนะ
+- ຢາຕ້ານເຊື້ອ
+- ပဋိဇီဝဆီးတိ
+- ပဋိဇီဝဆေးများ
+- အာန္တိဗိသြတိစ်
+- ანტიბიოტიკები
+- 抗生物質
+- 抗生素
+- 抗菌药
+- 항생물질
 has_id_wikidata: Q12187
 Commons_category: Antibiotics
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
@@ -8,26 +99,167 @@ different_from: '[[_Standards/WikiData/WD~bactericide,804539]]'
 has_characteristic: '[[_Standards/WikiData/WD~antibiotic_resistance,380775]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Staphylococcus%20aureus%20%28AB%20Test%29.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/ANTIBIOTIKI.html
 MeSH_tree_code: D27.505.954.122.085
 named_after:
-  - '[[_Standards/WikiData/WD~anti-,12818226]]'
-  - '[[_Standards/WikiData/WD~life,3]]'
+- '[[_Standards/WikiData/WD~anti-,12818226]]'
+- '[[_Standards/WikiData/WD~life,3]]'
 OmegaWiki_Defined_Meaning: 209
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%95.wav
 subclass_of:
-  - '[[_Standards/WikiData/WD~antimicrobial_drug,178859]]'
-  - '[[_Standards/WikiData/WD~bactericide,804539]]'
-  - '[[_Standards/WikiData/WD~anti-infective_agent,50377176]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~antimicrobial_drug,178859]]'
+- '[[_Standards/WikiData/WD~bactericide,804539]]'
+- '[[_Standards/WikiData/WD~anti-infective_agent,50377176]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
 subreddit: Antibiotics
 UMLS_CUI: C0003232
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 WordLift_URL: http://data.wordlift.io/wl01714/entity/antibiotics
+dv_has_:
+  name_:
+    af: Antibiotikum
+    an: Antibiotico
+    ar: مضاد حيوي
+    ary: ؤنتيبيوتيك
+    arz: مضاد حيوى
+    as: প্ৰতিজৈৱিক
+    ast: Antibióticu
+    atj: kitci mackiki
+    az: Antibiotik
+    azb: آنتیبیوتیک
+    ba: Антибиотиктар
+    ban: Antibiotik
+    be: антыбіётык
+    be-tarask: антыбіётык
+    bg: Антибиотик
+    bho: एंटीबायोटिक
+    bn: অ্যান্টিবায়োটিক
+    br: Antibiotik
+    bs: Antibiotik
+    ca: antibiòtic
+    ckb: دژەزیندەیی
+    crh: antibiotik
+    cs: antibiotikum
+    cy: gwrthfiotig
+    da: antibiotikum
+    de: Antibiotikum
+    el: αντιβιοτικό
+    eml: Antibiòtic
+    en: antibiotic
+    eo: antibiotiko
+    es: antibiótico
+    et: antibiootikumid
+    eu: Bakterio-kontrako
+    ext: Antibióticu
+    fa: آنتیبیوتیک
+    fi: antibiootti
+    fo: Antibiotika
+    fr: antibiotique
+    frr: Antibiotikum
+    fy: Antibiotikum
+    ga: antaibheathach
+    gcr: Antibyotik
+    gl: antibiótico
+    gn: pohãrekoitegua
+    gsw: Antibiotikum
+    he: אנטיביוטיקה
+    hi: एंटीबायोटिक
+    hif: antibiotic
+    hr: antibiotik
+    ht: Antibyotik
+    hu: antibiotikum
+    hy: հակաբիոտիկ
+    hyw: Անթիպիոթիք (Մանրէասպան)
+    ia: Antibiotico
+    id: Antibiotika
+    io: Antibiotiko
+    is: Sýklalyf
+    it: antibiotico
+    ja: 抗生物質
+    jam: Antibayatix
+    jv: Antibiotik
+    ka: ანტიბიოტიკები
+    kk: Антибиотик
+    kn: ಪ್ರತಿಜೀವಿಕ
+    ko: 항생물질
+    ks: اینٹی بَیاٹِکس
+    ku: Dermanên dijbakterî
+    ky: Антибиотиктер
+    la: Antibioticum
+    lfn: Antibaterial
+    li: Antibiotica
+    lmo: Antibioteg
+    ln: Atíbyotíki
+    lo: ຢາຕ້ານເຊື້ອ
+    lt: antibiotikas
+    lv: antibiotikas
+    mdf: Антибиотикне
+    mg: Antibiotika
+    mk: антибиотик
+    ml: ആന്റിബയോട്ടിക്ക്
+    mn: Антибиотик
+    mnw: အာန္တိဗိသြတိစ်
+    mr: प्रतिजैविक
+    ms: Antibiotik
+    my: ပဋိဇီဝဆေးများ
+    nan: Khòng-seng-sò͘
+    nb: antibiotika
+    nds: Antibiotikum
+    ne: एन्टिबायोटिक
+    new: एन्तिबायोतिक
+    nl: antibioticum
+    nn: antibiotikum
+    oc: Antibiotic
+    pa: ਐਂਟੀਬਾਇਓਟਿਕਸ
+    pl: antybiotyk
+    pms: Antibiòtich
+    pnb: انٹی بایوٹک
+    ps: انټيبايوټيک
+    pt: antibiótico
+    qu: Unquy muhu wañuchiq
+    rki: ပဋိဇီဝဆီးတိ
+    ro: antibiotic
+    ru: антибиотик
+    sah: Антибиотик
+    sco: antibiotics
+    sd: اينٽي بائيوٽڪس
+    se: antibiohta
+    sgs: Antibiotėks
+    sh: Antibiotik
+    si: ප් රතිජීවක ඖෂධ
+    sk: antibiotikum
+    sl: antibiotik
+    smn: antibioot
+    sms: antibiott
+    sq: antibiotik
+    sr: антибиотик
+    sv: antibiotikum
+    sw: Antibaotiki
+    ta: நுண்ணுயிர் எதிர்ப்பி
+    te: యాంటీబయోటిక్
+    tg: Антибиотикҳо
+    th: ยาปฏิชีวนะ
+    tl: antibiyotiko
+    tr: antibiyotik
+    tt: антибиотиклар
+    udm: антибиотик
+    uk: антибіотик
+    ur: ضد حیوی
+    uz: Antibiotiklar
+    vec: antibiòtego
+    vi: kháng sinh
+    wa: Antibiyotike
+    war: Antibayotiko
+    wuu: 抗生素
+    yi: אנטיביאטיק
+    yue: 抗生素
+    za: Gangsengsoq
+    zh: 抗菌药
+    zh-hk: 抗生素
+    zu: Ama-antibiotic
 ---
-
 ## #has_/text_of_/abstract 
 
 > An antibiotic is a type of antimicrobial substance active against bacteria. It is the most important type of **Antibacterial** agent for fighting bacterial infections, and antibiotic medications are widely used in the treatment and prevention of such infections. They may either kill or inhibit the growth of bacteria. A limited number of antibiotics also possess antiprotozoal activity. Antibiotics are not effective against viruses such as the ones which cause the common cold or influenza. Drugs which inhibit growth of viruses are termed antiviral drugs or antivirals. Antibiotics are also not effective against fungi. Drugs which inhibit growth of fungi are called antifungal drugs.

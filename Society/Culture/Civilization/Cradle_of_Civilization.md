@@ -1,15 +1,115 @@
 ---
 aliases:
-  - Cradle of civilization
-  - Cradle_of_Civilization
-  - Cradle of Civilization
+- Berce da civilización
+- Berceau de la civilisation
+- Berço da civilização
+- bressol de la civilització
+- civilisationens vagga
+- civilisationens vugge
+- cradle df civilization
+- Cradle of civilization
+- Cradle_of_Civilization
+- Culla della civiltà
+- Cuna de la civilización
+- Cái nôi nền văn minh
+- Dergûşa şaristaniyê
+- Kolevka civilizacije
+- Kolijevka civilizacije
+- kolébka civilizace
+- leagănul civilizației
+- Lulilo de Civilizacio
+- medeniyetler beşiği
+- Prve visoke civilizacije
+- Sivilizasiyanın beşiyi
+- Trubiecu de la civilización
+- Tunas peradaban
+- Vagga siðmenningar
+- Varhaiset korkeakulttuurit
+- Wieg van de beschaving
+- Wiege der Zivilisation
+- Zibilizazioaren sorleku
+- λίκνο του πολιτισμού
+- Калыска цывілізацыі
+- колевка на цивилизацијата
+- Колиска цивілізації
+- Колыбель цивилизации
+- люлка на цивилизация
+- Քաղաքակրթության բնօրրան
+- ערש הציוויליזציה
+- تہذیب دا گہوارہ
+- تہذیب کا گہوارہ
+- د تمدن زانګو
+- مهد الحضارة
+- گهواره تمدن
+- सभ्यता का उद्गमस्थल
+- ਸਭਿਅਤਾ ਦਾ ਪੰਘੂੜਾ
+- நாகரிகத்தின் தொட்டில்
+- 文明のゆりかご
+- 文明搖籃
+- 文明摇篮
+- 문명의 발상지
 has_id_wikidata: Q1207629
 subclass_of:
-  - '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-  - '[[_Standards/WikiData/WD~civilization,8432]]'
+- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
+- '[[_Standards/WikiData/WD~civilization,8432]]'
 different_from: '[[_Standards/WikiData/WD~Four_Great_Ancient_Civilizations,111193196]]'
+dv_has_:
+  name_:
+    ar: مهد الحضارة
+    ast: Trubiecu de la civilización
+    az: Sivilizasiyanın beşiyi
+    be: Калыска цывілізацыі
+    be-tarask: калыска цывілізацыі
+    bg: люлка на цивилизация
+    bn: cradle df civilization
+    ca: bressol de la civilització
+    cs: kolébka civilizace
+    da: civilisationens vugge
+    de: Wiege der Zivilisation
+    el: λίκνο του πολιτισμού
+    en: cradle of civilization
+    en-ca: Cradle of civilization
+    en-gb: Cradle of civilization
+    eo: Lulilo de Civilizacio
+    es: Cuna de la civilización
+    eu: Zibilizazioaren sorleku
+    fa: گهواره تمدن
+    fi: Varhaiset korkeakulttuurit
+    fr: Berceau de la civilisation
+    gl: Berce da civilización
+    he: ערש הציוויליזציה
+    hi: सभ्यता का उद्गमस्थल
+    hr: Kolijevka civilizacije
+    hy: Քաղաքակրթության բնօրրան
+    id: Tunas peradaban
+    is: Vagga siðmenningar
+    it: Culla della civiltà
+    ja: 文明のゆりかご
+    ko: 문명의 발상지
+    ku: Dergûşa şaristaniyê
+    lzh: 文明搖籃
+    mk: колевка на цивилизацијата
+    nl: Wieg van de beschaving
+    pa: ਸਭਿਅਤਾ ਦਾ ਪੰਘੂੜਾ
+    pnb: تہذیب دا گہوارہ
+    ps: د تمدن زانګو
+    pt: Berço da civilização
+    ro: leagănul civilizației
+    ru: Колыбель цивилизации
+    sl: Prve visoke civilizacije
+    sr: Kolevka civilizacije
+    sv: civilisationens vagga
+    ta: நாகரிகத்தின் தொட்டில்
+    tr: medeniyetler beşiği
+    uk: Колиска цивілізації
+    ur: تہذیب کا گہوارہ
+    vi: Cái nôi nền văn minh
+    yue: 文明搖籃
+    zh: 文明摇篮
+    zh-hans: 文明摇篮
+    zh-hant: 文明搖籃
+    zh-hk: 文明搖籃
 ---
-
 # [[Cradle_of_Civilization]] 
 
 #is_/same_as :: [[WD~Cradle_of_civilization,1207629]] 

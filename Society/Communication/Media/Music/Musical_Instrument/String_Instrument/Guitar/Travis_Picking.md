@@ -1,9 +1,19 @@
 ---
 aliases:
-  - thumb picking
-  - Muhlenberg picking
+- Muhlenberg picking
+- thumb picking
+- Travis Pickin'
+has_id_wikidata: Q7836351
+dv_has_:
+  name_:
+    de: Travis Pickin'
+    en: Travis Pickin'
+    fi: Travis Pickin'
+    fr: Travis Pickin'
+    ga: Travis Pickin'
+    mul: Travis Pickin'
+    nl: Travis Pickin'
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Travis Pickin'** is an instrumental acoustic solo album 

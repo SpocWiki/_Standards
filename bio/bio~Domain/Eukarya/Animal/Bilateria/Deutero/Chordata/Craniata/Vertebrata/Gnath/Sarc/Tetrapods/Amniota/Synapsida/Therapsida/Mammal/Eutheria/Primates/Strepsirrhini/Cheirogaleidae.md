@@ -1,9 +1,110 @@
 ---
 aliases:
-  - Cheirogaleidae
+- bancekoleem
+- Cheirogaleidae
+- Cırtdan lemurlar
+- dværglemur
+- dwergmaki's
+- Katzenmakis
+- Kedi makisigiller
+- Kääbusleemurlased
+- Lemurkowate
+- makiovití
+- Mažieji lemūrai
+- Muslemurer
+- Patuljasti lemuri
+- pikkumakit
+- Quirogaleid
+- Quirogaleidos
+- törpemakifélék
+- Ĥejrogaleedoj
+- Χειρογαλεΐδες
+- џуџести лемури
+- карлікавыя лемуры
+- карликовые лемуры
+- Лемури джуджета
+- למורים צמריים
+- جیرتدان لمورلار
+- لمورهای کوتوله
+- ليموريات فأرية الشكل
+- ليموريات فارية الشكل
+- نکا لیمر
+- コビトキツネザル科
+- 鼠狐猴科
+- 난쟁이여우원숭이과
 title: Cheirogaleidae
+has_id_wikidata: Q271785
+dv_has_:
+  name_:
+    an: Cheirogaleidae
+    ar: ليموريات فأرية الشكل
+    arz: ليموريات فارية الشكل
+    ast: Cheirogaleidae
+    avk: bancekoleem
+    az: Cırtdan lemurlar
+    azb: جیرتدان لمورلار
+    be: карлікавыя лемуры
+    be-tarask: Cheirogaleidae
+    bg: Лемури джуджета
+    br: Cheirogaleidae
+    ca: Quirogaleid
+    ceb: Cheirogaleidae
+    cs: makiovití
+    da: dværglemur
+    de: Katzenmakis
+    el: Χειρογαλεΐδες
+    en: Cheirogaleidae
+    eo: Ĥejrogaleedoj
+    es: Cheirogaleidae
+    et: Kääbusleemurlased
+    eu: Cheirogaleidae
+    ext: Cheirogaleidae
+    fa: لمورهای کوتوله
+    fi: pikkumakit
+    fr: Cheirogaleidae
+    frr: Cheirogaleidae
+    ga: Cheirogaleidae
+    gl: Quirogaleidos
+    he: למורים צמריים
+    hr: Patuljasti lemuri
+    hu: törpemakifélék
+    ia: Cheirogaleidae
+    id: Cheirogaleidae
+    ie: Cheirogaleidae
+    io: Cheirogaleidae
+    it: Cheirogaleidae
+    ja: コビトキツネザル科
+    ko: 난쟁이여우원숭이과
+    la: Cheirogaleidae
+    lij: Cheirogaleidae
+    lt: Mažieji lemūrai
+    mk: џуџести лемури
+    ms: Cheirogaleidae
+    mul: Cheirogaleidae
+    nl: dwergmaki's
+    oc: Cheirogaleidae
+    pl: Lemurkowate
+    pnb: نکا لیمر
+    pt: Cheirogaleidae
+    pt-br: Cheirogaleidae
+    ro: Cheirogaleidae
+    ru: карликовые лемуры
+    sh: Patuljasti lemuri
+    sq: Cheirogaleidae
+    sv: Muslemurer
+    tr: Kedi makisigiller
+    uk: Cheirogaleidae
+    vi: Cheirogaleidae
+    vo: Cheirogaleidae
+    war: Cheirogaleidae
+    zh: 鼠狐猴科
+    zh-cn: 鼠狐猴科
+    zh-hans: 鼠狐猴科
+    zh-hant: 鼠狐猴科
+    zh-hk: 鼠狐猴科
+    zh-sg: 鼠狐猴科
+    zh-tw: 鼠狐猴科
 ---
-
 # [[Cheirogaleidae]]
 
 ## Dwarf Lemurs and Mouse Lemurs 

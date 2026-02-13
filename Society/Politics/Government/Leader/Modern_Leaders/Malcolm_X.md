@@ -1,57 +1,93 @@
 ---
 aliases:
-  - Malcolm X (born Malcolm Little, later el-Hajj Malik el-Shabazz
-  - Malcolm_X
-  - Malcolm X
+- Malcolm X
+- Malcolm X (born Malcolm Little, later el-Hajj Malik el-Shabazz
+- Malcolm_X
+- Malkolm Iks
+- Malkolm X
+- Malkolms X
+- Μάλκολμ Χ
+- Малкалм Ікс
+- Малкальм Ікс
+- Малколм Ікс
+- Малколм Икс
+- Малкольм Икс
+- Малкольм Экс
+- Малкълм Екс
+- Малькольм X
+- Մալքոլմ Իքս
+- מלקולם אקס
+- مالكولم X
+- مالكوم إكس
+- مالكوم اكس
+- مالکوم ایکس
+- مالکوم اېکس
+- مالکۆم ئێکس
+- میلکم ایکس
+- ߡߊߟߑߞߐߟߡ ߌߞߛ
+- माल्कम एक्स
+- मैल्कम एक्स
+- মেলকম
+- ম্যালকম এক্স
+- மல்கம் எக்ஸ்
+- മാൽക്കം എക്സ്
+- แมลคัม เอ็กซ์
+- მალკოლმ იქსი
+- ማልኮም ኤክስ
+- マルコム・X
+- 马尔科姆·X
+- 麥爾坎X
+- 麥爾坎·X
+- 맬컴 엑스
 has_id_wikidata: Q43303
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~imam,125482]]'
-  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
-  - '[[_Standards/WikiData/WD~political_activist,11499147]]'
-  - '[[_Standards/WikiData/WD~religious_leader,15995642]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~Muslim_minister,107637527]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~imam,125482]]'
+- '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+- '[[_Standards/WikiData/WD~political_activist,11499147]]'
+- '[[_Standards/WikiData/WD~religious_leader,15995642]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~Muslim_minister,107637527]]'
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Nation_of_Islam,220222]]'
-  - '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
-  - '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Nation_of_Islam,220222]]'
+- '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
+- '[[_Standards/WikiData/WD~Islam,432]]'
 political_ideology:
-  - '[[_Standards/WikiData/WD~Pan_Africanism,282739]]'
-  - '[[_Standards/WikiData/WD~Black_Nationalism,2720299]]'
+- '[[_Standards/WikiData/WD~Pan_Africanism,282739]]'
+- '[[_Standards/WikiData/WD~Black_Nationalism,2720299]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Elijah_Muhammad,345182]]'
-  - '[[_Standards/WikiData/WD~Grace_Lee_Boggs,1541053]]'
+- '[[_Standards/WikiData/WD~Elijah_Muhammad,345182]]'
+- '[[_Standards/WikiData/WD~Grace_Lee_Boggs,1541053]]'
 spouse: '[[_Standards/WikiData/WD~Betty_Shabazz,469198]]'
 archives_at: '[[_Standards/WikiData/WD~Schomburg_Center_for_Research_in_Black_Culture,1060566]]'
 place_of_burial: '[[_Standards/WikiData/WD~Ferncliff_Cemetery,1771319]]'
 cause_of_death: '[[_Standards/WikiData/WD~gunshot_wound,2140674]]'
 award_received: '[[_Standards/WikiData/WD~Anisfield_Wolf_Book_Awards,4765305]]'
 child:
-  - '[[_Standards/WikiData/WD~Ilyasah_Shabazz,6001629]]'
-  - '[[_Standards/WikiData/WD~Qubilah_Shabazz,7269653]]'
-  - '[[_Standards/WikiData/WD~Malikah_Shabazz,16196254]]'
-  - '[[_Standards/WikiData/WD~Attallah_Shabazz,26465709]]'
-  - '[[_Standards/WikiData/WD~Gamilah_Lumumba_Shabazz,94139218]]'
-  - '[[_Standards/WikiData/WD~Malaak_Shabazz,94140461]]'
+- '[[_Standards/WikiData/WD~Ilyasah_Shabazz,6001629]]'
+- '[[_Standards/WikiData/WD~Qubilah_Shabazz,7269653]]'
+- '[[_Standards/WikiData/WD~Malikah_Shabazz,16196254]]'
+- '[[_Standards/WikiData/WD~Attallah_Shabazz,26465709]]'
+- '[[_Standards/WikiData/WD~Gamilah_Lumumba_Shabazz,94139218]]'
+- '[[_Standards/WikiData/WD~Malaak_Shabazz,94140461]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Malcolm,6584302]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Shabazz,7460045]]'
-  - '[[_Standards/WikiData/WD~Little,20671646]]'
-  - '[[_Standards/WikiData/WD~X,104211601]]'
+- '[[_Standards/WikiData/WD~Shabazz,7460045]]'
+- '[[_Standards/WikiData/WD~Little,20671646]]'
+- '[[_Standards/WikiData/WD~X,104211601]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Malcolm_X,14449177]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Ella_Little_Collins,16013686]]'
-  - '[[_Standards/WikiData/WD~Reginald_Little,104080128]]'
+- '[[_Standards/WikiData/WD~Ella_Little_Collins,16013686]]'
+- '[[_Standards/WikiData/WD~Reginald_Little,104080128]]'
 mother: '[[_Standards/WikiData/WD~Louise_Little,55621330]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~African_American_Religious_Leaders,135030720]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~African_American_Religious_Leaders,135030720]]'
 father: '[[_Standards/WikiData/WD~Earl_Little,105391441]]'
 residence: '[[_Standards/WikiData/WD~Malcolm_X_Ella_Little_Collins_House,105753072]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -64,8 +100,8 @@ place_of_birth: '[[_Standards/WikiData/WD~Omaha,43199]]'
 ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 Commons_category: Malcolm X
 ISNI:
-  - 0000000368642619
-  - 0000000121348258
+- 0000000368642619
+- 0000000121348258
 U_S_National_Archives_Identifier: 10583042
 date_of_birth: 1925-05-19T00:00:00Z
 name_in_native_language: Malcolm X
@@ -78,8 +114,122 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Malcolm%20X%20Sign
 Libris_URI: 42gjl5hn4mbnxwz
 Plex_person_key: 5d77685933f255001e853724
 pseudonym: Malachi Shabazz
+dv_has_:
+  name_:
+    af: Malcolm X
+    am: ማልኮም ኤክስ
+    an: Malcolm X
+    ar: مالكوم إكس
+    arz: مالكوم اكس
+    as: মেলকম
+    ast: Malcolm X
+    az: Malkolm X
+    be: Малкальм Ікс
+    be-tarask: Малкалм Ікс
+    bg: Малкълм Екс
+    bn: ম্যালকম এক্স
+    br: Malcolm X
+    bs: Malcolm X
+    ca: Malcolm X
+    ckb: مالکۆم ئێکس
+    cs: Malcolm X
+    cy: Malcolm X
+    da: Malcolm X
+    dag: Malcolm X
+    de: Malcolm X
+    de-ch: Malcolm X
+    diq: Malcolm X
+    el: Μάλκολμ Χ
+    en: Malcolm X
+    en-ca: Malcolm X
+    en-gb: Malcolm X
+    eo: Malcolm X
+    es: Malcolm X
+    et: Malcolm X
+    eu: Malcolm X
+    fa: مالکوم ایکس
+    fi: Malcolm X
+    fr: Malcolm X
+    fy: Malcolm X
+    ga: Malcolm X
+    gaa: Malcolm X
+    gl: Malcolm X
+    gom: Malcolm X
+    gpe: Malcolm X
+    guw: Malcolm X
+    ha: Malcolm X
+    he: מלקולם אקס
+    hi: मैल्कम एक्स
+    hr: Malcolm X
+    hu: Malcolm X
+    hy: Մալքոլմ Իքս
+    id: Malcolm X
+    ig: Malcolm X
+    io: Malcolm X
+    is: Malcolm X
+    it: Malcolm X
+    ja: マルコム・X
+    jv: Malcolm X
+    ka: მალკოლმ იქსი
+    kk: Малколм Икс
+    ko: 맬컴 엑스
+    ku: Malcolm X
+    ky: Малколм Икс
+    la: Malcolm X
+    lb: Malcolm X
+    ln: Malcolm X
+    lt: Malcolm X
+    lv: Malkolms X
+    mg: Malcolm X
+    ml: മാൽക്കം എക്സ്
+    mn: Малкольм Экс
+    mr: माल्कम एक्स
+    ms: Malcolm X
+    mul: Malcolm X
+    nan: Malcolm X
+    nb: Malcolm X
+    nl: Malcolm X
+    nn: Malcolm X
+    nqo: ߡߊߟߑߞߐߟߡ ߌߞߛ
+    oc: Malcolm X
+    pap: Malcolm X
+    pl: Malcolm X
+    pnb: میلکم ایکس
+    ps: مالکوم اېکس
+    pt: Malcolm X
+    pt-br: Malcolm X
+    ro: Malcolm X
+    ru: Малкольм Икс
+    sc: Malcolm X
+    sco: Malcolm X
+    sh: Malcolm X
+    sk: Malcolm X
+    sl: Malcolm X
+    so: Malcolm X
+    sq: Malcolm X
+    sr: Malkolm Iks
+    sv: Malcolm X
+    sw: Malcolm X
+    ta: மல்கம் எக்ஸ்
+    th: แมลคัม เอ็กซ์
+    tl: Malcolm X
+    tr: Malcolm X
+    tt: Малькольм X
+    tw: Malcolm X
+    ug: مالكولم X
+    uk: Малколм Ікс
+    ur: میلکم ایکس
+    uz: Malcolm X
+    vi: Malcolm X
+    war: Malcolm X
+    wuu: 马尔科姆·X
+    yo: Malcolm X
+    yue: 麥爾坎X
+    zh: 麥爾坎·X
+    zh-cn: 马尔科姆·X
+    zh-hk: 麥爾坎·X
+    zh-tw: 麥爾坎·X
 ---
-
 # [[Malcolm_X]] 
 
 #is_/same_as :: [[WD~Malcolm_X,43303]] 

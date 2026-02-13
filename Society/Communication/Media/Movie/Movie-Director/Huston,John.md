@@ -1,59 +1,83 @@
 ---
 aliases:
-  - John_Huston
-  - John Marcellus Huston
-  - John Huston
-  - Huston
-  - Huston,John
+- Džons Hjūstons
+- Huston
+- Huston,John
+- John Huston
+- John Marcellus Huston
+- John_Huston
+- Τζον Χιούστον
+- Џон Хјустон
+- Джон Г'юстон
+- Джон Г’юстан
+- Джон Х'юстан
+- Джон Хьюстон
+- Джон Хюстън
+- Ջոն Հյուսթոն
+- ג'ון יוסטון
+- جان هیوستون
+- جان ہیوسٹن
+- جون هيوستن
+- جۆن ھوستۆن
+- জন হিউস্টন
+- ਜੌਨ ਹਿਊਸਟਨ
+- ஜான் ஜூஸ்தன்
+- జాన్ హ్యూస్టన్
+- จอห์น ฮัสตัน
+- ჯონ ჰიუსტონი
+- ジョン・ヒューストン
+- 約翰·休斯頓
+- 约翰·休斯顿
+- 존 휴스턴
 has_id_wikidata: Q51575
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Director,1238714]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Director,1238714]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
-  - '[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]'
-  - '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
-  - '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Golden_Lion,209459]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+- '[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]'
+- '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
+- '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 father: '[[_Standards/WikiData/WD~Walter_Huston,162621]]'
 employer:
-  - '[[_Standards/WikiData/WD~Universal_Pictures,168383]]'
-  - '[[_Standards/WikiData/WD~United_States_Army_Signal_Corps,736213]]'
-  - '[[_Standards/WikiData/WD~Samuel_Goldwyn_Productions,7411497]]'
+- '[[_Standards/WikiData/WD~Universal_Pictures,168383]]'
+- '[[_Standards/WikiData/WD~United_States_Army_Signal_Corps,736213]]'
+- '[[_Standards/WikiData/WD~Samuel_Goldwyn_Productions,7411497]]'
 child:
-  - '[[_Standards/WikiData/WD~Anjelica_Huston,190998]]'
-  - '[[_Standards/WikiData/WD~Danny_Huston,357762]]'
-  - '[[_Standards/WikiData/WD~Allegra_Huston,4731396]]'
-  - '[[_Standards/WikiData/WD~Tony_Huston,19059415]]'
+- '[[_Standards/WikiData/WD~Anjelica_Huston,190998]]'
+- '[[_Standards/WikiData/WD~Danny_Huston,357762]]'
+- '[[_Standards/WikiData/WD~Allegra_Huston,4731396]]'
+- '[[_Standards/WikiData/WD~Tony_Huston,19059415]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Evelyn_Keyes,253328]]'
-  - '[[_Standards/WikiData/WD~Enrica_Soma,18211504]]'
-  - '[[_Standards/WikiData/WD~Celeste_Shane,75579557]]'
-  - '[[_Standards/WikiData/WD~Lesley_Black,75579562]]'
-  - '[[_Standards/WikiData/WD~Dorothy_Harvey,75579563]]'
+- '[[_Standards/WikiData/WD~Evelyn_Keyes,253328]]'
+- '[[_Standards/WikiData/WD~Enrica_Soma,18211504]]'
+- '[[_Standards/WikiData/WD~Celeste_Shane,75579557]]'
+- '[[_Standards/WikiData/WD~Lesley_Black,75579562]]'
+- '[[_Standards/WikiData/WD~Dorothy_Harvey,75579563]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Art_Students_League_of_New_York,705737]]'
-  - '[[_Standards/WikiData/WD~Abraham_Lincoln_High_School,4669025]]'
-  - '[[_Standards/WikiData/WD~Hollywood_High_School,5882770]]'
+- '[[_Standards/WikiData/WD~Art_Students_League_of_New_York,705737]]'
+- '[[_Standards/WikiData/WD~Abraham_Lincoln_High_School,4669025]]'
+- '[[_Standards/WikiData/WD~Hollywood_High_School,5882770]]'
 occupation:
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Nevada,959584]]'
 place_of_death: '[[_Standards/WikiData/WD~Middletown,1013038]]'
 place_of_burial: '[[_Standards/WikiData/WD~Hollywood_Forever_Cemetery,1624932]]'
@@ -92,8 +116,95 @@ work_period_start_: 1930-01-01T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20John%20Huston.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Huston%20-%20publicity.JPG
 ISNI: 0000000120968885
+dv_has_:
+  name_:
+    af: John Huston
+    an: John Huston
+    ar: جون هيوستن
+    arz: جون هيوستن
+    ast: John Huston
+    azb: جان هیوستون
+    be: Джон Х'юстан
+    be-tarask: Джон Г’юстан
+    bg: Джон Хюстън
+    bn: জন হিউস্টন
+    bs: John Huston
+    ca: John Huston
+    ckb: جۆن ھوستۆن
+    cs: John Huston
+    cy: John Huston
+    da: John Huston
+    de: John Huston
+    de-ch: John Huston
+    ee: John Huston
+    el: Τζον Χιούστον
+    en: John Huston
+    en-ca: John Huston
+    en-gb: John Huston
+    eo: John Huston
+    es: John Huston
+    eu: John Huston
+    fa: جان هیوستون
+    fi: John Huston
+    fr: John Huston
+    ga: John Huston
+    gl: John Huston
+    he: ג'ון יוסטון
+    hr: John Huston
+    hu: John Huston
+    hy: Ջոն Հյուսթոն
+    id: John Huston
+    it: John Huston
+    ja: ジョン・ヒューストン
+    ka: ჯონ ჰიუსტონი
+    kk: Джон Хьюстон
+    kl: John Huston
+    ko: 존 휴스턴
+    lb: John Huston
+    lfn: John Huston
+    li: John Huston
+    lt: John Huston
+    lv: Džons Hjūstons
+    mg: John Huston
+    mk: Џон Хјустон
+    nb: John Huston
+    nl: John Huston
+    nn: John Huston
+    oc: John Huston
+    pa: ਜੌਨ ਹਿਊਸਟਨ
+    pam: John Huston
+    pap: John Huston
+    pl: John Huston
+    pt: John Huston
+    pt-br: John Huston
+    qu: John Huston
+    ro: John Huston
+    ru: Джон Хьюстон
+    sco: John Huston
+    sh: John Huston
+    sk: John Huston
+    sl: John Huston
+    sq: John Huston
+    sr: Џон Хјустон
+    sv: John Huston
+    ta: ஜான் ஜூஸ்தன்
+    te: జాన్ హ్యూస్టన్
+    th: จอห์น ฮัสตัน
+    tl: John Huston
+    tr: John Huston
+    uk: Джон Г'юстон
+    ur: جان ہیوسٹن
+    uz: John Huston
+    vi: John Huston
+    war: John Huston
+    wuu: 约翰·休斯顿
+    xmf: ჯონ ჰიუსტონი
+    yo: John Huston
+    yue: 約翰·休斯頓
+    zh: 约翰·休斯顿
+    zh-cn: 约翰·休斯顿
+    zh-hant: 約翰·休斯頓
 ---
-
 # [[Huston,John]] 
 
 #is_/same_as :: [[WD~John_Huston,51575]] 

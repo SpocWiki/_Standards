@@ -1,15 +1,82 @@
 ---
 aliases:
-  - uncertainty principle
-  - Heisenberg's indeterminacy principle
-  - Unschärfeprinzip
-  - ''
-  - Uncertainty_Principle
-  - Uncertainty Principle
+- Belirsizlik ilkesi
+- határozatlansági reláció
+- Heisenberg's indeterminacy principle
+- Heisenbergen ziurgabetasunaren printzipioa
+- Heisenbergi määramatuse printsiip
+- Heisenbergin epätarkkuusperiaate
+- Heisenbergov princip neodređenosti
+- Heisenbergov princíp neurčitosti
+- Heisenbergs ubestemthedsrelationer
+- Heisenbergs uskarphetsrelasjon
+- Heisenbergs uskarpleiksrelasjon
+- Heisenbergsche Unschärferelation
+- Heizenberga nenoteiktības princips
+- Heizenbergo neapibrėžtumo principas
+- Kanuni ya Heisenberg ya Utovu wa Hakika
+- Müəyyənsizlik prinsipi
+- načelo nedoločenosti
+- necerteca principo de Heisenberg
+- nguyên lý bất định
+- Noaniqlik prinsipi
+- Onsekerheidsbeginsel
+- onzekerheidsrelatie van Heisenberg
+- osäkerhetsprincipen
+- Princip neurčitosti
+- principe d'incertitude
+- Principi d'incertesa de Heisenberg
+- Principio de indeterminación de Heisenberg
+- principio di indeterminazione di Heisenberg
+- principiul incertitudinii
+- princípio da incerteza
+- Prinsip Ketidakpastian Heisenberg
+- Prinsipyong walang katiyakan
+- prionsabal éiginnteachta Heisenberg
+- Relacije neodređenosti
+- relación de indeterminación de Heisenberg
+- rellación d'indeterminación de Heisenberg
+- uncertainty principle
+- Uncertainty_Principle
+- Unschärfeprinzip
+- zasada nieoznaczoności
+- Αρχή της απροσδιοριστίας
+- Анықталмағандық қатынасы
+- Билгесезлек принцибы
+- начело на неопределеност
+- Принцип невизначеності
+- принцип неопределённости
+- Прынцып нявызначанасці Гейзенберга
+- прынцып нявызначанасьці
+- релација неодређености
+- Съотношение на неопределеност на Хайзенберг
+- Уçăмсăрлăх принципĕ
+- անորոշությունների սկզբունք
+- אומזיכערקייט פרינציפ
+- עקרון האי-ודאות
+- اصل عدم قطعیت
+- د قطعیت د نشتوالي اصل
+- عدم قطعیت اصل
+- مبدأ الريبة
+- अनिश्चितता सिद्धान्त
+- अनिश्चिततेचे तत्त्व
+- অনিশ্চয়তা নীতি
+- ਅਨਿਸ਼ਚਿਤਤਾ ਸਿਧਾਂਤ
+- ஐயப்பாட்டுக் கொள்கை
+- ಅನಿರ್ದಿಷ್ಟತೆಯ ತತ್ತ್ವ
+- അനിശ്ചിതത്വ തത്ത്വം
+- หลักความไม่แน่นอน
+- 不确定性原理
+- 不確定性原理
+- 唔確定性原理
+- 弗确定性原理
+- 測不準原理
+- 불확정성 원리
+- 하이젠베르그의 불확정성관계
 has_id_wikidata: Q44746
 subclass_of:
-  - '[[_Standards/WikiData/WD~relation,930933]]'
-  - '[[_Standards/WikiData/WD~uncertainty,13649246]]'
+- '[[_Standards/WikiData/WD~relation,930933]]'
+- '[[_Standards/WikiData/WD~uncertainty,13649246]]'
 facet_of: '[[_Standards/WikiData/WD~quantum_physics,1144457]]'
 instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -24,8 +91,81 @@ time_of_discovery_or_invention: 1927-01-01T00:00:00Z
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/heisenberg-uncertainty-principle
 described_at_URL: https://www.khanacademy.org/science/chemistry/atomic-structure-and-properties/orbitals-and-electrons/v/heisenberg-uncertainty-principle
 Dewey_Decimal_Classification: 530.122
+dv_has_:
+  name_:
+    af: Onsekerheidsbeginsel
+    ar: مبدأ الريبة
+    ast: rellación d'indeterminación de Heisenberg
+    az: Müəyyənsizlik prinsipi
+    be: Прынцып нявызначанасці Гейзенберга
+    be-tarask: прынцып нявызначанасьці
+    bg: Съотношение на неопределеност на Хайзенберг
+    bn: অনিশ্চয়তা নীতি
+    bs: Heisenbergov princip neodređenosti
+    ca: Principi d'incertesa de Heisenberg
+    cs: Princip neurčitosti
+    cv: Уçăмсăрлăх принципĕ
+    da: Heisenbergs ubestemthedsrelationer
+    de: Heisenbergsche Unschärferelation
+    el: Αρχή της απροσδιοριστίας
+    en: uncertainty principle
+    eo: necerteca principo de Heisenberg
+    es: relación de indeterminación de Heisenberg
+    et: Heisenbergi määramatuse printsiip
+    eu: Heisenbergen ziurgabetasunaren printzipioa
+    fa: اصل عدم قطعیت
+    fi: Heisenbergin epätarkkuusperiaate
+    fr: principe d'incertitude
+    ga: prionsabal éiginnteachta Heisenberg
+    gl: Principio de indeterminación de Heisenberg
+    he: עקרון האי-ודאות
+    hi: अनिश्चितता सिद्धान्त
+    hr: Heisenbergov princip neodređenosti
+    hu: határozatlansági reláció
+    hy: անորոշությունների սկզբունք
+    id: Prinsip Ketidakpastian Heisenberg
+    it: principio di indeterminazione di Heisenberg
+    ja: 不確定性原理
+    kk: Анықталмағандық қатынасы
+    kn: ಅನಿರ್ದಿಷ್ಟತೆಯ ತತ್ತ್ವ
+    ko: 불확정성 원리
+    ko-kp: 하이젠베르그의 불확정성관계
+    lt: Heizenbergo neapibrėžtumo principas
+    lv: Heizenberga nenoteiktības princips
+    lzh: 測不準原理
+    mk: начело на неопределеност
+    ml: അനിശ്ചിതത്വ തത്ത്വം
+    mr: अनिश्चिततेचे तत्त्व
+    mzn: عدم قطعیت اصل
+    nb: Heisenbergs uskarphetsrelasjon
+    nl: onzekerheidsrelatie van Heisenberg
+    nn: Heisenbergs uskarpleiksrelasjon
+    pa: ਅਨਿਸ਼ਚਿਤਤਾ ਸਿਧਾਂਤ
+    pl: zasada nieoznaczoności
+    ps: د قطعیت د نشتوالي اصل
+    pt: princípio da incerteza
+    pt-br: princípio da incerteza
+    ro: principiul incertitudinii
+    ru: принцип неопределённости
+    sh: Relacije neodređenosti
+    sk: Heisenbergov princíp neurčitosti
+    sl: načelo nedoločenosti
+    sr: релација неодређености
+    sv: osäkerhetsprincipen
+    sw: Kanuni ya Heisenberg ya Utovu wa Hakika
+    ta: ஐயப்பாட்டுக் கொள்கை
+    th: หลักความไม่แน่นอน
+    tl: Prinsipyong walang katiyakan
+    tr: Belirsizlik ilkesi
+    tt: Билгесезлек принцибы
+    uk: Принцип невизначеності
+    uz: Noaniqlik prinsipi
+    vi: nguyên lý bất định
+    wuu: 弗确定性原理
+    yi: אומזיכערקייט פרינציפ
+    yue: 唔確定性原理
+    zh: 不确定性原理
 ---
-
 # [[Uncertainty_Principle]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Uncertainty_principle,44746|WD~Uncertainty_principle,44746]]  

@@ -1,46 +1,225 @@
 ---
 aliases:
+- allucinacion
+- allucinación
+- allucinazione
+- alucinación
+- alucinação
+- al·lucinació
+- bréagchéadfa
+- elestewşilik
+- gallyutsinatsiya
+- haliucinacija
+- hallucinatie
+- hallucination
+- hallucináció
+- hallusinaatio
+- hallusinasie
+- hallusinasjon
+- hallutsinatsioon
+- Halluzination
+- halluzinatioun
+- halucinace
+- halucinacija
+- Halucinacion
+- halucinacioni
+- Halucinatio
+- halucinație
+- halucino
+- halucinácia
+- halucinācijas
+- halucynacje
+- halusinasi
+- halusinasyon
+- halusunasiya
+- Haluzinazio
+- halûsînasyon
+- jidbo
+- Kasubalahan
+- rhithweledigaeth
+- tamunnawt
+- varsanı
+- παραίσθηση
+- галлюцинация
+- галюцинація
+- галюцынацыя
+- елестеушілік
+- саташулар
+- таваҳҳум
+- халуцинација
+- халюцинация
+- хии үзэгдэл
+- Զգայապատրանք
+- הזיה
+- توهم
+- حالووسیناسیۆن
+- خەیاڵاویبوون
+- هلوسة
+- هلوسه
+- واہمہ
+- ەلەستەۋشىلىك
+- भास
+- विभ्रांति
+- অমূলক প্রত্যক্ষণ বিভ্রম
+- অমূলপ্ৰত্যক্ষ
+- ହାଲୁସିନେସନ
+- மாயத்தோற்றம்
+- భ్రాంతి
+- ಭ್ರಮೆ
+- ഹാലൂസിനേഷൻ
+- ประสาทหลอน
+- ჰალუცინაცია
+- ảo giác
+- 幻覚
+- 幻覺
+- 幻觉
+- 환각
 has_id_wikidata: Q130741
 different_from:
-  - "[[_Standards/WikiData/WD~illusion,182593]]"
-  - "[[_Standards/WikiData/WD~delusion,189643]]"
-  - "[[_Standards/WikiData/WD~imagination,34516]]"
+- '[[_Standards/WikiData/WD~illusion,182593]]'
+- '[[_Standards/WikiData/WD~delusion,189643]]'
+- '[[_Standards/WikiData/WD~imagination,34516]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-  - "[[_Standards/WikiData/WD~medical_psychology,1916597]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
-does_not_have_characteristic: "[[_Standards/WikiData/WD~control,338754]]"
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~medical_psychology,1916597]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~control,338754]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~fantasy,1356411]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~fantasy,1356411]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~disruption,2956685]]"
-  - "[[_Standards/WikiData/WD~perceptual_distortion,11999558]]"
-  - "[[_Standards/WikiData/WD~psychopathological_symptom,30897648]]"
-  - "[[_Standards/WikiData/WD~general_symptom,31836626]]"
-instance_of: "[[_Standards/WikiData/WD~symptom_or_sign,112965645]]"
-DiseasesDB: "19769"
+- '[[_Standards/WikiData/WD~disruption,2956685]]'
+- '[[_Standards/WikiData/WD~perceptual_distortion,11999558]]'
+- '[[_Standards/WikiData/WD~psychopathological_symptom,30897648]]'
+- '[[_Standards/WikiData/WD~general_symptom,31836626]]'
+instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+DiseasesDB: 19769
 IMDb_keyword: hallucination
-OmegaWiki_Defined_Meaning: "719388"
+OmegaWiki_Defined_Meaning: 719388
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mathieu%20Kappler-hallucination.wav
 exact_match:
-  - http://purl.obolibrary.org/obo/HP_0000738
-  - http://purl.obolibrary.org/obo/SYMP_0000607
+- http://purl.obolibrary.org/obo/HP_0000738
+- http://purl.obolibrary.org/obo/SYMP_0000607
 UMLS_CUI:
-  - C0018524
-  - C0235153
+- C0018524
+- C0235153
 MeSH_tree_code:
-  - C10.597.606.762.300
-  - C23.888.592.604.764.300
-  - F01.700.750.300
+- C10.597.606.762.300
+- C23.888.592.604.764.300
+- F01.700.750.300
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/GALLYUTSINATSIYA.html
 Commons_category: Hallucination
 Archive_of_Our_Own_tag: Hallucinations
+dv_has_:
+  name_:
+    af: hallusinasie
+    ar: هلوسة
+    arz: هلوسه
+    as: অমূলপ্ৰত্যক্ষ
+    ast: allucinación
+    az: halusunasiya
+    be: галюцынацыя
+    be-tarask: галюцынацыя
+    bg: халюцинация
+    bjn: Kasubalahan
+    bn: অমূলক প্রত্যক্ষণ বিভ্রম
+    bs: halucinacija
+    bxr: хии үзэгдэл
+    ca: al·lucinació
+    ckb: خەیاڵاویبوون
+    cs: halucinace
+    cy: rhithweledigaeth
+    da: hallucination
+    de: Halluzination
+    diq: halusinasyon
+    el: παραίσθηση
+    en: hallucination
+    eo: halucino
+    es: alucinación
+    et: hallutsinatsioon
+    eu: Haluzinazio
+    fa: توهم
+    fi: hallusinaatio
+    fr: hallucination
+    ga: bréagchéadfa
+    gl: alucinación
+    ha: Hallucination
+    he: הזיה
+    hi: विभ्रांति
+    hr: halucinacija
+    hu: hallucináció
+    hy: Զգայապատրանք
+    id: halusinasi
+    it: allucinazione
+    ja: 幻覚
+    ka: ჰალუცინაცია
+    kab: tamunnawt
+    kk: елестеушілік
+    kk-arab: ەلەستەۋشىلىك
+    kk-cn: ەلەستەۋشىلىك
+    kk-cyrl: елестеушілік
+    kk-kz: елестеушілік
+    kk-latn: elestewşilik
+    kk-tr: elestewşilik
+    kn: ಭ್ರಮೆ
+    ko: 환각
+    ku: halûsînasyon
+    ku-arab: حالووسیناسیۆن
+    ku-latn: halûsînasyon
+    ky: галлюцинация
+    la: Halucinatio
+    lb: halluzinatioun
+    lez: галлюцинация
+    lt: haliucinacija
+    lv: halucinācijas
+    mk: халуцинација
+    ml: ഹാലൂസിനേഷൻ
+    mr: भास
+    ms: halusinasi
+    nb: hallusinasjon
+    nl: hallucinatie
+    nn: hallusinasjon
+    oc: allucinacion
+    or: ହାଲୁସିନେସନ
+    pap: Halucinacion
+    pl: halucynacje
+    pt: alucinação
+    ro: halucinație
+    ru: галлюцинация
+    sh: halucinacija
+    sk: halucinácia
+    sl: halucinacija
+    so: jidbo
+    sq: halucinacioni
+    sr: халуцинација
+    sr-ec: халуцинација
+    sr-el: halucinacija
+    su: Halusinasi
+    sv: hallucination
+    ta: மாயத்தோற்றம்
+    te: భ్రాంతి
+    tg: таваҳҳум
+    th: ประสาทหลอน
+    tl: halusinasyon
+    tr: varsanı
+    tt: саташулар
+    uk: галюцинація
+    ur: واہمہ
+    uz: gallyutsinatsiya
+    vi: ảo giác
+    wuu: 幻觉
+    yue: 幻覺
+    zh: 幻覺
+    zh-cn: 幻觉
+    zh-hans: 幻觉
+    zh-hant: 幻覺
+    zh-hk: 幻覺
+    zh-sg: 幻觉
+    zh-tw: 幻覺
 ---
-
 # [[Hallucination]] 
 
 #is_/same_as :: [[WD~Hallucination,130741]] 

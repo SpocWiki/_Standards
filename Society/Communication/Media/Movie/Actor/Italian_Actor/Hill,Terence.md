@@ -1,10 +1,102 @@
 ---
 aliases:
-  - Terence Hill
-  - Mario Girotti
-  - Hill,Terence
+- Hill,Terence
+- Mario Girotti
+- Terence Hill
+- Τέρενς Χιλ
+- Теренс Гілл
+- Теренс Хил
+- Теренс Хилл
+- Терънс Хил
+- Тэрэнс Гіл
+- Тэрэнс Хіл
+- Թերենս Հիլ
+- טרנס היל
+- ترنس هیل
+- تيرينس هيل
+- ٹیرنس ہل
+- เทเรนซ์ ฮิลล์
+- テレンス・ヒル
+- 泰倫斯·希路
+- 泰倫斯希路
+- 特伦斯·希尔
+- 테런스 힐
+has_id_wikidata: Q243430
+dv_has_:
+  name_:
+    af: Terence Hill
+    an: Terence Hill
+    ar: تيرينس هيل
+    arz: تيرينس هيل
+    ast: Terence Hill
+    az: Terence Hill
+    be: Тэрэнс Хіл
+    be-tarask: Тэрэнс Гіл
+    bg: Терънс Хил
+    bs: Terence Hill
+    ca: Terence Hill
+    cs: Terence Hill
+    cy: Terence Hill
+    da: Terence Hill
+    de: Terence Hill
+    el: Τέρενς Χιλ
+    en: Terence Hill
+    en-ca: Terence Hill
+    en-gb: Terence Hill
+    eo: Terence Hill
+    es: Terence Hill
+    et: Terence Hill
+    eu: Terence Hill
+    fa: ترنس هیل
+    fi: Terence Hill
+    fr: Terence Hill
+    ga: Terence Hill
+    gl: Terence Hill
+    he: טרנס היל
+    hr: Terence Hill
+    hu: Terence Hill
+    hy: Թերենս Հիլ
+    id: Terence Hill
+    io: Terence Hill
+    it: Terence Hill
+    ja: テレンス・ヒル
+    ko: 테런스 힐
+    la: Terence Hill
+    lb: Terence Hill
+    lmo: Terence Hill
+    lt: Terence Hill
+    mg: Terence Hill
+    ms: Terence Hill
+    mul: Terence Hill
+    nb: Terence Hill
+    nl: Terence Hill
+    nn: Terence Hill
+    pap: Terence Hill
+    pl: Terence Hill
+    pt: Terence Hill
+    pt-br: Terence Hill
+    qu: Terence Hill
+    ro: Terence Hill
+    ru: Теренс Хилл
+    scn: Terence Hill
+    sh: Terence Hill
+    sk: Terence Hill
+    sl: Terence Hill
+    sq: Terence Hill
+    sr: Теренс Хил
+    sv: Terence Hill
+    sw: Terence Hill
+    th: เทเรนซ์ ฮิลล์
+    tr: Terence Hill
+    uk: Теренс Гілл
+    ur: ٹیرنس ہل
+    uz: Terence Hill
+    vec: Terence Hill
+    yo: Terence Hill
+    zh: 泰倫斯·希路
+    zh-hans: 特伦斯·希尔
+    zh-hant: 泰倫斯希路
 ---
-
 #has_/time_/started :: 1939-03-29 
 #has_/time_/stopped ::   
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

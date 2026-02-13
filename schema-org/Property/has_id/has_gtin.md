@@ -1,65 +1,100 @@
 ---
 aliases:
-  - gtin
-  - gtin
-  - gtin
-  - has_text_of_gtin
-  - has_gtin
-  - has gtin
+- Global Trade Item Number
+- globalna trgovinska številka izdelka
+- Globālais tirdzniecības vienības numurs
+- gtin
+- has gtin
+- has_gtin
+- has_text_of_gtin
+- Nomor barang perdagangan global
+- Número d'article comercial global
+- Tutmonda Komerca Varnumero
+- رقم بند التجارة العالمية
+- 全球贸易项目代码
 confidential: public
 cssclasses:
-  - Predicate
-  - Text
+- Predicate
+- Text
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - gtin
-layout: ""
+- gtin
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: has_text_of_gtin
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Property
-  - schema-org/Property/Text
+- class/Property
+- schema-org/Property/Text
 title: has_text_of_gtin
 type: Pred_Text
 dv_is_:
-  part_of: "pending:"
+  part_of: 'pending:'
   same_as:
-    - "[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]"
-    - "[[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]]"
-    - "[[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]]"
-    - "[[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]]"
-    - "[[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]]"
-    - "[[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]]"
-    - "[[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]]"
+  - '[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]'
+  - '[[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]]'
+  - '[[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]]'
+  - '[[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]]'
+  - '[[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]]'
+  - '[[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]]'
+  - '[[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]]'
 dv_has_:
+  child_:
+    property: '[ gtin12, gtin13, gtin14, gtin8 ]'
   domain: Demand, Offer, Product
   name: has_text_of_gtin
-  range: Text, URL
+  name_:
+    ar: رقم بند التجارة العالمية
+    ca: Número d'article comercial global
+    da: Global Trade Item Number
+    de: Global Trade Item Number
+    en: Global Trade Item Number
+    eo: Tutmonda Komerca Varnumero
+    es: Global Trade Item Number
+    fi: GTIN
+    fo: Global Trade Item Number
+    fr: Global Trade Item Number
+    id: Nomor barang perdagangan global
+    is: Global Trade Item Number
+    it: Global Trade Item Number
+    kl: Global Trade Item Number
+    lv: Globālais tirdzniecības vienības numurs
+    mul: Global Trade Item Number
+    nb: Global Trade Item Number
+    nl: Global Trade Item Number
+    nn: Global Trade Item Number
+    pl: GTIN
+    pt: Global Trade Item Number
+    ru: GTIN
+    sl: globalna trgovinska številka izdelka
+    sv: Global Trade Item Number
+    uk: GTIN
+    vi: Global Trade Item Number
+    zh: 全球贸易项目代码
+    zh-cn: 全球贸易项目代码
   parent_:
-    property: "[[../../Relation/has/has_identifier]]"
-  child_:
-    property: "[ gtin12, gtin13, gtin14, gtin8 ]"
-dv_is_part_of: "pending:"
+    property: '[[../../Relation/has/has_identifier]]'
+  range: Text, URL
+dv_is_part_of: 'pending:'
 dv_has_domain: Demand, Offer, Product
 dv_has_name: has_text_of_gtin
 dv_has_range: Text, URL
-dv_has_parent_property: "[[../../Relation/has/has_identifier]]"
-dv_has_child_property: "[ gtin12, gtin13, gtin14, gtin8 ]"
+dv_has_parent_property: '[[../../Relation/has/has_identifier]]'
+dv_has_child_property: '[ gtin12, gtin13, gtin14, gtin8 ]'
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]"
-  - "[[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]]"
-  - "[[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]]"
-  - "[[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]]"
-  - "[[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]]"
-  - "[[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]]"
-  - "[[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]]"
+- '[[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]]'
+- '[[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]]'
+- '[[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]]'
+- '[[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]]'
+- '[[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]]'
+- '[[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]]'
+- '[[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]]'
+has_id_wikidata: Q521568
 ---
-
 Predicate to describe the Text of Demand, Offer, Product.
 
 is_part_of = `=this.dv_is_part_of` 

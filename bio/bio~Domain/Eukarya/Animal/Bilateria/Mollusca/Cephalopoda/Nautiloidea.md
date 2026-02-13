@@ -1,9 +1,87 @@
 ---
 aliases:
-  - Nautiloidea
+- Brodniki
+- Csigaházas polipok
+- Fyrgälade bläckfiskar
+- helmiveneet
+- Lodičky
+- Nautiloid
+- Nautiloida
+- Nautiloidea
+- Nautiloidealar
+- Nautiloideen
+- Nautiloïdeu
+- Naŭtiloidoj
+- čtyřžábří
+- Łodzikowce
+- Наўтылаідэі
+- Наутилоїдеї
+- Наутилоидеи
+- նաուտիլոիդներ
+- נאוטילוסאים
+- ملوانکواران
+- نوتويد
+- นอติลอยด์
+- ნაუტილოიდეები
+- オウムガイ亜綱
+- 鸚鵡螺亞綱
+- 鹦鹉螺亚纲
+- 앵무조개류
 title: Nautilidae
+has_id_wikidata: Q840536
+dv_has_:
+  name_:
+    ar: نوتويد
+    arz: نوتويد
+    ast: Nautiloidea
+    az: Nautiloidealar
+    be: Наўтылаідэі
+    bg: Nautiloidea
+    bs: Nautiloidea
+    ca: Nautiloïdeu
+    ceb: Nautiloidea
+    cs: čtyřžábří
+    de: Nautiloideen
+    en: Nautiloid
+    eo: Naŭtiloidoj
+    es: Nautiloidea
+    eu: Nautiloidea
+    fa: ملوانکواران
+    fi: helmiveneet
+    fr: Nautiloidea
+    ga: Nautiloidea
+    he: נאוטילוסאים
+    hu: Csigaházas polipok
+    hy: նաուտիլոիդներ
+    it: Nautiloida
+    ja: オウムガイ亜綱
+    ka: ნაუტილოიდეები
+    ko: 앵무조개류
+    la: Nautiloidea
+    mul: Nautiloidea
+    nb: Nautiloidea
+    nds: Nautiloideen
+    nl: Nautiloidea
+    pl: Łodzikowce
+    pt: Nautiloidea
+    ro: Nautiloidea
+    ru: Наутилоидеи
+    sk: Lodičky
+    sl: Brodniki
+    sq: Nautiloidea
+    sr: Nautiloid
+    sv: Fyrgälade bläckfiskar
+    th: นอติลอยด์
+    tr: Nautiloid
+    uk: Наутилоїдеї
+    vi: Nautiloidea
+    war: Nautiloidea
+    zh: 鹦鹉螺亚纲
+    zh-cn: 鹦鹉螺亚纲
+    zh-hans: 鹦鹉螺亚纲
+    zh-hant: 鸚鵡螺亞綱
+    zh-hk: 鸚鵡螺亞綱
 ---
-
 ## [[Nautiloidea]] 
 
 # Nautilidae [Blainville 1825]

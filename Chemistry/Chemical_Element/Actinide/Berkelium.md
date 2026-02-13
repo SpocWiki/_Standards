@@ -1,20 +1,94 @@
 ---
 aliases:
-  - Berkelium
+- beircéiliam
+- bercelio
+- Bercelium
+- Berceliwm
+- Berchelio
+- Berchèliu
+- berkeelium
+- berkel
+- Berkeli
+- berkelij
+- berkelin
+- berkelio
+- Berkeliom
+- berkeliu
+- Berkelium
+- Berkeliumi
+- berkeliumo
+- berkelju
+- Berkelyo
+- Berkelyu
+- berkelyum
+- Berkelín
+- Berklii
+- berklijs
+- Berklijum
+- berklis
+- Berklium
+- Berkliy
+- berkélium
+- Berquelio
+- berquélio
+- bircheliu
+- Bèkelyòm
+- Bẹ́rkẹ́líọ̀m
+- ImBeke
+- jinmrberkeli
+- μπερκέλιο
+- Беркелиум
+- берклій
+- Беркли
+- берклијум
+- берклий
+- берклиум
+- Берклиүм
+- Бэркль
+- բերկլիում
+- ברקליום
+- بركيليوم
+- برکلیم
+- برکیلیئم
+- برکیلیم
+- بيركيليوم
+- بېركېلىي
+- بېرکېليوم
+- بەرکیلیۆم
+- बर्किलियम
+- बर्केलियम
+- बर्क्लियम
+- বার্কিলিয়াম
+- ਬਰਕੀਲੀਅਮ
+- બર્કેલીયમ
+- ବର୍କେଲିଅମ
+- பெர்க்கிலியம்
+- బెర్కీలియం
+- ಬೆರ್ಕೆಲಿಯಮ್
+- ബെർകിലിയം
+- เบอร์คีเลียม
+- ဘာကီလီယမ်
+- ბერკელიუმი
+- በርከሊየም
+- バークリウム
+- 鉳
+- 錇
+- 锫
+- 버클륨
 has_id_wikidata: Q1882
 atomic_number: 97
-canonical_SMILES: "[Bk]"
+canonical_SMILES: '[Bk]'
 CAS_Registry_Number: 7440-40-6
 chemical_formula: Bk
 Commons_category: Berkelium
 Commons_gallery: Berkelium
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification: 546.444
-different_from: "[[_Standards/WikiData/WD~Berkel,707763]]"
+different_from: '[[_Standards/WikiData/WD~Berkel,707763]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]"
-  - "[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]"
-  - "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
+- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+- '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID20147880
 electronegativity: 1.3
 element_symbol: Bk
@@ -22,51 +96,204 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg
 InChI: InChI=1S/Bk
 InChIKey: PWVKJRSRVJTHTR-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.83
-  - 0.93
-  - 0.96
-location_of_discovery: "[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]"
+- 0.83
+- 0.93
+- 0.96
+location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
 MeSH_tree_code:
-  - D01.268.271.100.100
-  - D01.268.556.075
-  - D01.496.749.305.100.100
-  - D01.552.020.150
-  - D01.552.544.075
-named_after: "[[_Standards/WikiData/WD~Berkeley,484678]]"
+- D01.268.271.100.100
+- D01.268.556.075
+- D01.496.749.305.100.100
+- D01.552.020.150
+- D01.552.544.075
+named_after: '[[_Standards/WikiData/WD~Berkeley,484678]]'
 OmegaWiki_Defined_Meaning: 156441
 part_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20144.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav
 PubChem_CID: 23971
 SpocWebEntityId: 21992
 time_of_discovery_or_invention: 1949
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]'
 type: Element
 Unicode_character: 鉳
 UNII: 2YQA718KUU
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Berkelium,1882]]"
-    - "[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Berkelium.internal|Berkelium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Berkelium.protect|Berkelium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]"
-  part_of: "[[../Actinide]]]"
+  - '[[../../../WikiData/WD~Berkelium,1882]]'
+  - '[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Berkelium.internal|Berkelium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Berkelium.protect|Berkelium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]'
+  part_of: '[[../Actinide]]]'
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Berkelium
-    de: Berkelium
     abbreviated: Bk
+    af: berkelium
+    am: በርከሊየም
+    anp: बर्केलियम
+    ar: بركيليوم
+    ary: بيركيليوم
+    arz: بركيليوم
+    ast: berkelio
+    az: Berklium
+    ban: Berkélium
+    be: Берклій
+    be-tarask: Бэркль
+    bg: берклий
+    bho: बर्केलियम
+    bn: বার্কিলিয়াম
+    br: Berkeliom
+    bs: berkelij
+    ca: berkeli
+    cdo: Berkelium
+    ceb: Berkelyo
+    ckb: بەرکیلیۆم
+    co: Berkeliu
+    cs: berkelium
+    cv: Беркли
+    cy: Berceliwm
+    da: berkelium
+    de: Berkelium
+    de-ch: Berkelium
+    el: μπερκέλιο
+    en: berkelium
+    en-ca: Berkelium
+    en-gb: berkelium
+    eo: berkeliumo
+    es: berkelio
+    et: berkeelium
+    eu: berkelio
+    fa: برکلیم
+    fi: berkelium
+    fo: Berkelium
+    fr: berkélium
+    frr: Berkeelium
+    fur: Berkeli
+    ga: beircéiliam
+    gd: Bercelium
+    gl: Berquelio
+    group: Actinide-Group
+    gu: બર્કેલીયમ
+    gv: Berkelium
+    hak: berkelium
+    he: ברקליום
+    hi: बर्केलियम
+    hif: Berkelium
+    hr: berkelij
+    ht: Bèkelyòm
+    hu: berkélium
+    hy: բերկլիում
+    ia: berkelium
+    id: berkelium
+    io: berkelio
+    is: Berkelín
+    it: berkelio
+    ja: バークリウム
+    jbo: jinmrberkeli
+    jv: Berkelium
+    ka: ბერკელიუმი
+    kk: Берклий
+    kn: ಬೆರ್ಕೆಲಿಯಮ್
+    ko: 버클륨
+    kv: Берклий
+    kw: Berkeliom
+    ky: Берклий
+    la: berkelium
+    lb: Berkelium
+    lfn: bercelio
+    li: Berkelium
+    lij: Berchelio
+    lt: berklis
+    lv: berklijs
+    lzh: 錇
+    mk: берклиум
+    ml: ബെർകിലിയം
+    mn: беркли
+    mr: बर्किलियम
+    mrj: Берклий
+    ms: Berkelium
+    mt: berkelju
+    my: ဘာကီလီယမ်
+    nan: Berkelium
+    nb: berkelium
+    ne: बर्क्लियम
+    new: बर्केलियम
+    nl: berkelium
+    nn: berkelium
+    nov: Berklium
+    olo: Berklii
+    or: ବର୍କେଲିଅମ
+    os: берклий
+    pa: ਬਰਕੀਲੀਅਮ
+    pi: बर्केलियम
+    pl: berkel
+    pms: Berkeli
+    pnb: برکیلیم
+    ps: بېرکېليوم
+    pt: berquélio
+    pt-br: berquélio
+    qu: Berkelyu
+    ro: berkeliu
+    ru: берклий
+    rup: Berkeliu
+    sa: बर्केलियम
+    sah: Беркелиум
+    sc: Berchèliu
+    scn: bircheliu
+    sh: Berklijum
+    sk: berkélium
+    sl: berkelij
+    sq: Berkeliumi
+    sr: берклијум
+    sr-ec: Берклијум
+    stq: Berkelium
+    su: Berkelium
+    sv: berkelium
+    sw: Berkeli
+    ta: பெர்க்கிலியம்
+    te: బెర్కీలియం
+    tg: Берклий
+    th: เบอร์คีเลียม
+    tl: Berkelyo
+    tr: berkelyum
+    tt: Берклий
+    udm: берклий
+    ug: بېركېلىي
+    uk: берклій
+    ur: برکیلیئم
+    uz: Berkliy
+    vep: Berklii
+    vi: berkeli
+    vo: berkelin
+    war: Berkelyo
+    wuu: 锫
+    xal: Берклиүм
+    yo: Bẹ́rkẹ́líọ̀m
+    yue: 鉳
+    zh: 锫
+    zh-cn: 锫
+    zh-hans: 锫
+    zh-hant: 鉳
+    zh-hk: 錇
+    zh-mo: 錇
+    zh-my: 锫
+    zh-sg: 锫
+    zh-tw: 鉳
+    zu: ImBeke
+  number_of_:
+    period: 7
+    group: 31
+    electrons: 97
   value_for_:
     weight_:
       u: 247
@@ -94,22 +321,18 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 7
-    group: 31
-    electrons: 97
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Berkelium,1882]]"
-  - "[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Berkelium.internal|Berkelium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Berkelium.protect|Berkelium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]"
+- '[[../../../WikiData/WD~Berkelium,1882]]'
+- '[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Berkelium.internal|Berkelium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Berkelium.protect|Berkelium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: "[[../Actinide]]]"
+dv_is_part_of: '[[../Actinide]]]'
 dv_has_name_en: Berkelium
 dv_has_name_de: Berkelium
 dv_has_name_abbreviated: Bk
@@ -130,7 +353,6 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 31
 dv_has_number_of_electrons: 97
 ---
-
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 
 
 

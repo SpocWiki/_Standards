@@ -1,19 +1,69 @@
 ---
 aliases:
-  - Kürbis
-  - Cucurbita
-  - gourd
-  - Pompoen
-  - カボチャ属
-  - 南瓜属
+- Ayohtli
+- Balqabaq
+- Banja
+- Banjowc
+- Bocor
+- buča
+- Cabaza
+- Chi Bí
+- Cucurbita
+- Curcubetâ
+- dynia
+- gourd
+- Graskar
+- Gresskar
+- græskar
+- Kabak
+- Kalabasa
+- Kalawasa
+- Kim-koe
+- Kuia
+- Kukurbo
+- kurpitsat
+- Kõrvits
+- Kürbis
+- Kürbisen
+- Kürbisse
+- moliūgas
+- Pompoen
+- pumpasläktet
+- Qabaq
+- tekvica
+- Tikva golica
+- tykev
+- tök
+- ķirbji
+- Κολοκύνθη
+- Асқабақ
+- Ашкабак
+- гарбуз
+- Дураккуяр
+- кабак
+- Кавӑн
+- нас
+- тиква
+- тыква
+- դդում
+- דלעת
+- قرع
+- کدو
+- কুমড়া
+- გოგრა
+- კოპეშია
+- カボチャ属
+- 南瓜属
+- 南瓜屬
+- 호박속
 has_id_wikidata: Q5339301
 described_by_source:
-  - '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
 parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Cucurbiteae,5192459]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Cucurbita_pepo,7229863]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~squash_blossom,42293042]]'
@@ -21,11 +71,11 @@ instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 ITIS_TSN: 22365
 taxon_common_name:
-  - gourd
-  - Pompoen
-  - カボチャ属
-  - 南瓜属
-  - 南瓜属
+- gourd
+- Pompoen
+- カボチャ属
+- 南瓜属
+- 南瓜属
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20squash%20DSC01080.jpg
 Commons_gallery: Cucurbita
 Commons_category: Cucurbita
@@ -38,8 +88,107 @@ MeSH_tree_code: B01.875.800.575.912.250.300.222
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/TIKVA.html
 NBN_System_Key: NHMSYS0000457756
 vocalized_name: דְּלַעַת
+dv_has_:
+  name_:
+    an: Cucurbita
+    ar: قرع
+    ast: Cucurbita
+    az: Balqabaq
+    azb: کدو
+    bcl: Kalabasa
+    be: гарбуз
+    be-tarask: гарбуз
+    bg: тиква
+    bn: কুমড়া
+    bs: Cucurbita
+    ca: Cucurbita
+    ceb: Cucurbita
+    crh: Qabaq
+    cs: tykev
+    cv: Кавӑн
+    da: græskar
+    de: Kürbisse
+    de-ch: Kürbisse
+    dsb: Banja
+    el: Κολοκύνθη
+    en: Cucurbita
+    en-ca: Cucurbita
+    en-gb: Cucurbita
+    eo: Kukurbo
+    es: Cucurbita
+    et: Kõrvits
+    eu: Kuia
+    ext: Cucurbita
+    fa: کدو
+    fi: kurpitsat
+    fr: Cucurbita
+    frr: Kürbisen
+    ga: Cucurbita
+    gl: Cabaza
+    he: דלעת
+    hr: buča
+    hsb: Banjowc
+    hu: tök
+    hy: դդում
+    hyw: Դդում
+    ia: Cucurbita
+    id: Cucurbita
+    ie: Cucurbita
+    ig: Cucurbita
+    io: Cucurbita
+    it: Cucurbita
+    ja: カボチャ属
+    jv: Cucurbita
+    ka: გოგრა
+    kaa: Qabaq
+    kk: Асқабақ
+    ko: 호박속
+    ky: Ашкабак
+    la: Cucurbita
+    lt: moliūgas
+    lv: ķirbji
+    mk: тиква
+    ms: Cucurbita
+    mul: Cucurbita
+    myv: Дураккуяр
+    nah: Ayohtli
+    nan: Kim-koe
+    nb: Gresskar
+    nl: Cucurbita
+    nn: Graskar
+    oc: Cucurbita
+    os: нас
+    pl: dynia
+    pnb: کدو
+    pt: Cucurbita
+    pt-br: Cucurbita
+    qu: Kalawasa
+    ro: Cucurbita
+    ru: тыква
+    rup: Curcubetâ
+    sco: Cucurbita
+    sk: tekvica
+    sl: buča
+    so: Bocor
+    sq: Cucurbita
+    sr: Tikva golica
+    sv: pumpasläktet
+    tr: Kabak
+    tt: кабак
+    tt-cyrl: кабак
+    tyv: Тыква
+    uk: гарбуз
+    vi: Chi Bí
+    vo: Cucurbita
+    war: Cucurbita
+    wuu: 南瓜属
+    xmf: კოპეშია
+    yue: 南瓜屬
+    zh: 南瓜属
+    zh-cn: 南瓜属
+    zh-hans: 南瓜属
+    zh-tw: 南瓜屬
 ---
-
 # [[Cucurbita]] 
 
 #is_/same_as :: [[WD~Cucurbita,5339301]]  

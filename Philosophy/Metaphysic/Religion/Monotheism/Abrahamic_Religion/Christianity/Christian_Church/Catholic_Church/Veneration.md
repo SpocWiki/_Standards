@@ -1,15 +1,96 @@
 ---
 aliases:
+- benerazio
+- Heiligenverehrung
+- heiligenverering
+- honorado de sanktuloj
+- hürmet
+- kult svatých
+- kult świętych
+- szentek tisztelete
+- veneracija
+- veneració
+- veneración
+- veneración de santos
+- venerasi
+- venerasiya
+- veneratio
+- veneration
+- veneration de sanctos
+- venerazione
+- veneração
+- vénération
+- vördnad
+- češčenje
+- štovanje
+- λατρεία
+- почитание
+- почитување
+- шанаваньне сьвятых
+- шанування святих
+- פולחן קדושים
+- تبجيل
+- تبجیل
+- تکریم
+- সাধুদের পূজা
+- 崇敬
+- 敬奉
+- ꮧꮣꮒꮈꮝꮧ
+- 공경지례
 has_id_wikidata: Q1579384
 subclass_of:
-  - "[[_Standards/WikiData/WD~adoration,851918]]"
-  - "[[_Standards/WikiData/WD~respect,28510]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q8972572,8972572]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]"
+- '[[_Standards/WikiData/WD~adoration,851918]]'
+- '[[_Standards/WikiData/WD~respect,28510]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8972572,8972572]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
 Commons_category: Saints
 Provenio_UUID: 534e1e79-a17a-43cc-b159-c3e7f7dd3bee
+dv_has_:
+  name_:
+    ar: تبجيل
+    arz: تبجيل
+    ast: veneración de santos
+    az: venerasiya
+    be-tarask: шанаваньне сьвятых
+    bn: সাধুদের পূজা
+    ca: veneració
+    chr: ꮧꮣꮒꮈꮝꮧ
+    cs: kult svatých
+    de: Heiligenverehrung
+    el: λατρεία
+    en: veneration
+    eo: honorado de sanktuloj
+    es: veneración de santos
+    eu: benerazio
+    fa: تکریم
+    fr: vénération
+    gl: veneración
+    he: פולחן קדושים
+    hr: štovanje
+    hu: szentek tisztelete
+    ia: veneration de sanctos
+    id: venerasi
+    it: venerazione
+    ja: 崇敬
+    ko: 공경지례
+    la: veneratio
+    mk: почитување
+    nl: heiligenverering
+    pl: kult świętych
+    pt: veneração
+    ru: почитание
+    sl: češčenje
+    sr: veneracija
+    sv: vördnad
+    tr: hürmet
+    uk: шанування святих
+    ur: تبجیل
+    yue: 敬奉
+    zh: 敬奉
+    zh-hans: 敬奉
+    zh-hant: 敬奉
+    zh-hk: 敬奉
 ---
-
 # [[Veneration]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Veneration,1579384|WD~Veneration,1579384]]  

@@ -1,63 +1,106 @@
 ---
 aliases:
-  - Ernest_Lawrence
-  - Ernest Orlando Lawrence
-  - Ernest Lawrence
-  - Lawrence,Ernest
+- Ernest Lawrence
+- Ernest Lorenc
+- Ernest Lourens
+- Ernest Orlando Lawrence
+- Ernests Lorenss
+- Ernestus Lawrence
+- Ernest_Lawrence
+- Lawrence,Ernest
+- Lourens Ernest Orlando
+- Έρνεστ Ορλάντο Λόρενς
+- Ернест Лоренс
+- Ернест Лоренц
+- Ернест Орландо Лоуренс
+- Ърнест Лорънс
+- Эрнест Арланда Лоўрэнс
+- Эрнест Лоуренс
+- Эрнест Орландо Лоуренс
+- Эрнэст Арлянда Ляўрэнс
+- Էռնեստ Լոուրենս
+- ארנסט לורנס
+- إرنست أورلاندو لورنس
+- ئێرنست لۆرەنس
+- ئەرنەست لاورەنجە
+- ارنست ارلاندو لارنس
+- ارنست اورلاندو لورنس
+- ارنست لارنس
+- ارنست لورنس
+- ارنسٹ لارنس
+- ارنسٹ لاورنس
+- अर्नेस्ट लरेन्स
+- अर्नेस्ट लारेन्स
+- अर्नेस्ट लॉरेन्स
+- আর্নেস্ট লরেন্স
+- ਅਰਨੈਸਟ ਲਾਵਰੈਂਸ
+- எர்னஸ்ட் லாரன்சு
+- ఎర్నెస్ట్ లారెన్స్
+- ഏണസ്റ്റ് ലോറൻസ്
+- เออร์เนสต์ ลอว์เรนซ์
+- အန်းနက် လောရင့်
+- ერნესტ ლოურენსი
+- ერნესტ ორლანდო ლოურენსი
+- アーネスト・ローレンス
+- 喧尼斯羅倫斯
+- 奧尼斯特·羅倫斯
+- 欧内斯特·劳伦斯
+- 歐內斯特·勞倫斯
+- 어니스트 로런스
 has_id_wikidata: Q169577
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
-  - '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
-  - '[[_Standards/WikiData/WD~University_of_South_Dakota,1305521]]'
-  - '[[_Standards/WikiData/WD~St._Olaf_College,1515763]]'
-  - '[[_Standards/WikiData/WD~Augustana_Academy,4821021]]'
-  - '[[_Standards/WikiData/WD~Yale_University,49112]]'
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+- '[[_Standards/WikiData/WD~University_of_South_Dakota,1305521]]'
+- '[[_Standards/WikiData/WD~St._Olaf_College,1515763]]'
+- '[[_Standards/WikiData/WD~Augustana_Academy,4821021]]'
+- '[[_Standards/WikiData/WD~Yale_University,49112]]'
 employer: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Edward_J._Lofgren,290146]]'
-  - '[[_Standards/WikiData/WD~M._Stanley_Livingston,325496]]'
-  - '[[_Standards/WikiData/WD~Chien_Shiung_Wu,450317]]'
-  - '[[_Standards/WikiData/WD~Robert_R._Wilson,705994]]'
-  - '[[_Standards/WikiData/WD~Kenneth_Ross_MacKenzie,963428]]'
-  - '[[_Standards/WikiData/WD~John_Reginald_Richardson,1701552]]'
-  - '[[_Standards/WikiData/WD~A._Carl_Helmholz,4647633]]'
-  - '[[_Standards/WikiData/WD~David_H._Sloan,108274786]]'
-  - '[[_Standards/WikiData/WD~Milton_G._White,122468648]]'
+- '[[_Standards/WikiData/WD~Edward_J._Lofgren,290146]]'
+- '[[_Standards/WikiData/WD~M._Stanley_Livingston,325496]]'
+- '[[_Standards/WikiData/WD~Chien_Shiung_Wu,450317]]'
+- '[[_Standards/WikiData/WD~Robert_R._Wilson,705994]]'
+- '[[_Standards/WikiData/WD~Kenneth_Ross_MacKenzie,963428]]'
+- '[[_Standards/WikiData/WD~John_Reginald_Richardson,1701552]]'
+- '[[_Standards/WikiData/WD~A._Carl_Helmholz,4647633]]'
+- '[[_Standards/WikiData/WD~David_H._Sloan,108274786]]'
+- '[[_Standards/WikiData/WD~Milton_G._White,122468648]]'
 residence:
-  - '[[_Standards/WikiData/WD~Berkeley,484678]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Berkeley,484678]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Ernest,595105]]'
-  - '[[_Standards/WikiData/WD~Orlando,9053129]]'
+- '[[_Standards/WikiData/WD~Ernest,595105]]'
+- '[[_Standards/WikiData/WD~Orlando,9053129]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
-  - '[[_Standards/WikiData/WD~Comstock_Prize_in_Physics,1122821]]'
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~Faraday_Medal,1396110]]'
-  - '[[_Standards/WikiData/WD~Dennis_Gabor_Medal_and_Prize,5311657]]'
-  - '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
-  - '[[_Standards/WikiData/WD~William_Procter_Prize_for_Scientific_Achievement,8017107]]'
-  - '[[_Standards/WikiData/WD~Holley_Medal,21531768]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Hughes_Medal,844872]]'
+- '[[_Standards/WikiData/WD~Comstock_Prize_in_Physics,1122821]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~Faraday_Medal,1396110]]'
+- '[[_Standards/WikiData/WD~Dennis_Gabor_Medal_and_Prize,5311657]]'
+- '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+- '[[_Standards/WikiData/WD~William_Procter_Prize_for_Scientific_Achievement,8017107]]'
+- '[[_Standards/WikiData/WD~Holley_Medal,21531768]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
 place_of_birth: '[[_Standards/WikiData/WD~Canton,1013549]]'
 family_name: '[[_Standards/WikiData/WD~Lawrence,1544163]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 sibling: '[[_Standards/WikiData/WD~John_H._Lawrence,6236928]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~William_Francis_Gray_Swann,8009315]]'
@@ -78,15 +121,123 @@ date_of_death: 1958-08-27T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Lawrence.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20O%20Lawrence%20signature.svg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=385840229
-  - http://www.digiporta.net/index.php?id=575315707
+- http://www.digiporta.net/index.php?id=385840229
+- http://www.digiporta.net/index.php?id=575315707
 ISNI: 0000000116764986
 U_S_National_Archives_Identifier: 10570320
 Krugosvet_article: nauka_i_tehnika/fizika/LOURENS_ERNEST_ORLANDO.html
 name_in_native_language: Ernest Orlando Lawrence
 birth_name: Ernest Orlando Lawrence
+dv_has_:
+  name_:
+    ar: إرنست أورلاندو لورنس
+    arz: ارنست اورلاندو لورنس
+    ast: Ernest Lawrence
+    az: Ernest Lourens
+    azb: ارنست لارنس
+    ban: Ernest Lawrence
+    be: Эрнест Арланда Лоўрэнс
+    be-tarask: Эрнэст Арлянда Ляўрэнс
+    bg: Ърнест Лорънс
+    bn: আর্নেস্ট লরেন্স
+    bs: Ernest Lawrence
+    ca: Ernest Lawrence
+    ckb: ئێرنست لۆرەنس
+    cs: Ernest Orlando Lawrence
+    cy: Ernest Lawrence
+    da: Ernest Lawrence
+    dag: Ernest Lawrence
+    de: Ernest Lawrence
+    el: Έρνεστ Ορλάντο Λόρενς
+    en: Ernest Lawrence
+    eo: Ernest Orlando Lawrence
+    es: Ernest Lawrence
+    et: Ernest Lawrence
+    eu: Ernest Orlando Lawrence
+    fa: ارنست ارلاندو لارنس
+    fi: Ernest Orlando Lawrence
+    fr: Ernest Orlando Lawrence
+    ga: Ernest Orlando Lawrence
+    gl: Ernest Lawrence
+    hak: Ernest Lawrence
+    he: ארנסט לורנס
+    hi: अर्नेस्ट लारेन्स
+    hr: Ernest Orlando Lawrence
+    ht: Ernest Lawrence
+    hu: Ernest Lawrence
+    hy: Էռնեստ Լոուրենս
+    id: Ernest Lawrence
+    ilo: Ernest Lawrence
+    io: Ernest Lawrence
+    it: Ernest Orlando Lawrence
+    ja: アーネスト・ローレンス
+    jv: Ernest Lawrence
+    ka: ერნესტ ორლანდო ლოურენსი
+    kk: Эрнест Орландо Лоуренс
+    ko: 어니스트 로런스
+    ku: Ernest Lawrence
+    ku-arab: ئەرنەست لاورەنجە
+    ku-latn: Ernest Lawrence
+    la: Ernestus Lawrence
+    lt: Ernest Lawrence
+    lv: Ernests Lorenss
+    mg: Ernest Orlando Lawrence
+    mk: Ернест Лоренс
+    ml: ഏണസ്റ്റ് ലോറൻസ്
+    mr: अर्नेस्ट लॉरेन्स
+    ms: Ernest Lawrence
+    mul: Ernest Lawrence
+    my: အန်းနက် လောရင့်
+    mzn: ارنست ارلاندو لارنس
+    nan: Ernest Lawrence
+    nb: Ernest Lawrence
+    new: अर्नेस्ट लरेन्स
+    nl: Ernest Lawrence
+    nn: Ernest Lawrence
+    oc: Ernest Lawrence
+    pa: ਅਰਨੈਸਟ ਲਾਵਰੈਂਸ
+    pap: Ernest Lawrence
+    pl: Ernest Lawrence
+    pms: Ernest Orlando Lawrence
+    pnb: ارنسٹ لارنس
+    ps: ارنست لورنس
+    pt: Ernest Lawrence
+    pt-br: Ernest Lawrence
+    ro: Ernest Lawrence
+    ru: Эрнест Орландо Лоуренс
+    sa: अर्नेस्ट लारेन्स
+    sco: Ernest Lawrence
+    sh: Ernest Orlando Lawrence
+    sk: Ernest Lawrence
+    sl: Ernest Orlando Lawrence
+    sq: Ernest Lawrence
+    sr: Ернест Лоренц
+    sr-ec: Ернест Лоренц
+    sr-el: Ernest Lorenc
+    sv: Ernest Lawrence
+    sw: Ernest Orlando Lawrence
+    ta: எர்னஸ்ட் லாரன்சு
+    te: ఎర్నెస్ట్ లారెన్స్
+    th: เออร์เนสต์ ลอว์เรนซ์
+    tr: Ernest Orlando Lawrence
+    tt: Эрнест Лоуренс
+    uk: Ернест Орландо Лоуренс
+    ur: ارنسٹ لاورنس
+    uz: Lourens Ernest Orlando
+    vi: Ernest Lawrence
+    war: Ernest Lawrence
+    wuu: 欧内斯特·劳伦斯
+    xmf: ერნესტ ლოურენსი
+    yo: Ernest Lawrence
+    yue: 喧尼斯羅倫斯
+    zh: 欧内斯特·劳伦斯
+    zh-cn: 欧内斯特·劳伦斯
+    zh-hans: 欧内斯特·劳伦斯
+    zh-hant: 歐內斯特·勞倫斯
+    zh-hk: 奧尼斯特·羅倫斯
+    zh-sg: 欧内斯特·劳伦斯
+    zh-tw: 歐內斯特·勞倫斯
 ---
-
 # [[Lawrence,Ernest]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernest_Lawrence,169577|WD~Ernest_Lawrence,169577]] 

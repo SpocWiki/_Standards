@@ -1,7 +1,102 @@
 ---
 has_id_wikidata: Q151599
+dv_has_:
+  name_:
+    an: Metropolis
+    ar: متروبوليس
+    arz: متروبوليس
+    az: Metropolis
+    be: Метраполіс
+    be-tarask: Мэтраполіс
+    bg: Метрополис
+    ca: Metropolis
+    cs: Metropolis
+    cy: Metropolis
+    da: Metropolis
+    de: Metropolis
+    el: Μετρόπολις
+    en: Metropolis
+    eo: Metropolis
+    es: Metrópolis
+    et: Metropolis
+    eu: Metropolis
+    fa: مادرشهر
+    fi: Metropolis
+    fr: Metropolis
+    ga: Metropolis (scannán 1927)
+    gl: Metropolis
+    he: מטרופוליס
+    hr: Metropolis
+    hu: Metropolis
+    hy: Մետրոպոլիս
+    id: Metropolis
+    is: Metropolis (kvikmynd frá 1927)
+    it: Metropolis
+    ja: メトロポリス
+    ka: მეტროპოლისი
+    kk: Метрополис (фильм)
+    ko: 메트로폴리스
+    la: Metropolis
+    lt: Metropolis
+    lv: Metropole
+    mk: Метрополис
+    ms: Filem Metropolis
+    nan: Metropolis
+    nb: Metropolis
+    nl: Metropolis
+    oc: Metropolis
+    pl: Metropolis
+    pt: Metrópolis
+    ro: Metropolis
+    ru: Метрополис
+    sh: Metropolis
+    sk: Metropolis
+    sl: Metropolis
+    sr: Метрополис
+    sr-ec: Метрополис
+    sr-el: Metropolis
+    sv: Metropolis
+    te: మెట్రోపోలీస్ (1927 సినిమా)
+    th: เมโทรโพลิส
+    tok: sitelen tawa Metopoli
+    tr: Metropolis
+    uk: Метрополіс
+    vi: Metropolis
+    yue: 大都會 (1927年電影)
+    zh: 大都會
+    zh-cn: 大都会
+    zh-hans: 大都会
+    zh-hant: 大都會
+    zh-hk: 大都會
+    zh-sg: 大都会
+    zh-tw: 大都會
+aliases:
+- Filem Metropolis
+- Metropole
+- Metropolis
+- Metropolis (kvikmynd frá 1927)
+- Metropolis (scannán 1927)
+- Metrópolis
+- sitelen tawa Metopoli
+- Μετρόπολις
+- Метраполіс
+- Метрополіс
+- Метрополис
+- Метрополис (фильм)
+- Мэтраполіс
+- Մետրոպոլիս
+- מטרופוליס
+- مادرشهر
+- متروبوليس
+- మెట్రోపోలీస్ (1927 సినిమా)
+- เมโทรโพลิส
+- მეტროპოლისი
+- メトロポリス
+- 大都会
+- 大都會
+- 大都會 (1927年電影)
+- 메트로폴리스
 ---
-
 # [[Metropolis(Film)]] 
 
 #is_/same_as :: [[WD~Metropolis,151599]] 

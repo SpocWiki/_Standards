@@ -1,20 +1,98 @@
 ---
-has_time_started: 1821-01-01 
+has_time_started: 1821-01-01
 aliases:
-  - Mundharmonika
-  - French harp
-  - mouth organ
-  - Harmonica
+- aho-soinu
+- Amoniká
+- Angorodaovava
+- armonica a bocca
+- Armonika
+- armònega
+- armónach
+- armónica
+- armōnika
+- buŝharmoniko
+- Fotznhobe
+- French harp
+- fúkacia harmonika
+- harmoan
+- Harmonica
+- harmonijka ustna
+- harmonika
+- Harmoniko
+- harmònica
+- Harmónica
+- harmônica
+- Horgol
+- huuliharppu
+- Khiéu-khìm
+- Kháu-khîm
+- lūpinė armonikėlė
+- Mondfluitjie
+- mondharmonica
+- Mondharmonika
+- moondörgel
+- Moundmuzik
+- mouth organ
+- Mundharmonika
+- Munnharpa
+- munnspel
+- munnspill
+- munspel
+- Mutes harmonikas
+- Muzichii
+- muzicuță
+- Muzike a boke
+- müs harmonika
+- njálbmefidjol
+- njälmiharppâ
+- njäʹlmmgarman
+- organ-beòil
+- orglice
+- potatcikan
+- pūtangitangi
+- Qawqaw
+- Silindro
+- Suneta
+- Sunettu a bucca
+- suupill
+- szájharmonika
+- Usna harmonika
+- φυσαρμόνικα
+- Вомӧн ворсан
+- гармоникæ
+- губна гармоніка
+- губная гармоника
+- губны гармонік
+- создаҳанӣ
+- Тута купăсĕ
+- усна хармоника
+- устна хармоника
+- Շրթնահարմոն
+- מפוחית פה
+- تکبنی ساز
+- سازدهنی
+- هرمونيكا
+- ھارمۆنیکا
+- হারমোনিকা
+- சுபிலம்
+- హార్మోనికా
+- മൗത്ത്ഓർഗൺ
+- ཁ་འབུད།
+- ဘာဂျာ
+- ჰარმონიკა
+- ハーモニカ
+- 口琴
+- 하모니카
 has_id_wikidata: Q51290
 different_from:
-  - "[[_Standards/WikiData/WD~Jew's_harp,185003]]"
-  - '[[_Standards/WikiData/WD~Mundhaarmonika,60445356]]'
+- "[[_Standards/WikiData/WD~Jew's_harp,185003]]"
+- '[[_Standards/WikiData/WD~Mundhaarmonika,60445356]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Christian_Friedrich_Ludwig_Buschmann,1079637]]'
 subclass_of: '[[_Standards/WikiData/WD~sets_of_free_reeds,19650003]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 used_by: '[[_Standards/WikiData/WD~harmonicist,20850090]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10845
@@ -29,8 +107,121 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Chromatik%20Mundharmon
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03494278-n
 Commons_category: Harmonicas
 Baidu_Tieba_name: 口琴
+dv_has_:
+  name_:
+    af: Mondfluitjie
+    an: Harmonica
+    ar: هرمونيكا
+    ast: Harmónica
+    atj: potatcikan
+    bar: Fotznhobe
+    be: губны гармонік
+    be-tarask: губны гармонік
+    bew: Horgol
+    bg: устна хармоника
+    bn: হারমোনিকা
+    bo: ཁ་འབུད།
+    ca: harmònica
+    ckb: ھارمۆنیکا
+    cs: harmonika
+    cv: Тута купăсĕ
+    cy: harmonica
+    da: mundharmonika
+    de: Mundharmonika
+    de-ch: Mundharmonika
+    el: φυσαρμόνικα
+    en: harmonica
+    en-ca: Harmonica
+    en-gb: harmonica
+    en-us: harmonica
+    eo: buŝharmoniko
+    es: armónica
+    et: suupill
+    eu: aho-soinu
+    fa: سازدهنی
+    fi: huuliharppu
+    fr: harmonica
+    frr: müs harmonika
+    ga: armónach
+    gd: organ-beòil
+    gl: Harmónica
+    gv: harmoan
+    hak: Khiéu-khìm
+    he: מפוחית פה
+    hr: Usna harmonika
+    hu: szájharmonika
+    hy: Շրթնահարմոն
+    ia: Harmonica
+    id: Harmonika
+    io: Harmoniko
+    is: Munnharpa
+    it: armonica a bocca
+    ja: ハーモニカ
+    jv: Harmonika
+    ka: ჰარმონიკა
+    ko: 하모니카
+    kv: Вомӧн ворсан
+    lb: Mondharmonika
+    lmo: Suneta
+    ln: Amoniká
+    lt: lūpinė armonikėlė
+    lv: Mutes harmonikas
+    lzh: 口琴
+    mg: Angorodaovava
+    mi: pūtangitangi
+    mk: усна хармоника
+    ml: മൗത്ത്ഓർഗൺ
+    ms: harmonika
+    my: ဘာဂျာ
+    mzn: تکبنی ساز
+    nan: Kháu-khîm
+    nb: munnspill
+    nds-nl: moondörgel
+    nl: mondharmonica
+    nn: munnspel
+    oc: Harmonica
+    os: гармоникæ
+    pl: harmonijka ustna
+    pt: harmónica
+    pt-br: harmônica
+    ro: muzicuță
+    ru: губная гармоника
+    rup: Muzichii
+    scn: Sunettu a bucca
+    se: njálbmefidjol
+    sh: Usna harmonika
+    sk: fúkacia harmonika
+    sl: orglice
+    smn: njälmiharppâ
+    sms: njäʹlmmgarman
+    sr: усна хармоника
+    su: Harmonika
+    sv: munspel
+    szl: armōnika
+    ta: சுபிலம்
+    te: హార్మోనికా
+    tg: создаҳанӣ
+    tl: Silindro
+    tr: Armonika
+    trv: Qawqaw
+    tt: Harmonika
+    uk: губна гармоніка
+    vec: armònega
+    vi: harmonica
+    vls: Moundmuzik
+    wa: Muzike a boke
+    wuu: 口琴
+    yue: 口琴
+    zh: 口琴
+    zh-cn: 口琴
+    zh-hans: 口琴
+    zh-hant: 口琴
+    zh-hk: 口琴
+    zh-mo: 口琴
+    zh-my: 口琴
+    zh-sg: 口琴
+    zh-tw: 口琴
 ---
-
 # [[Harmonica]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Harmonica,51290|WD~Harmonica,51290]] 

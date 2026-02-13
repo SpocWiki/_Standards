@@ -1,42 +1,141 @@
 ---
 aliases:
-  - Ice hockey
-  - Ice_Hockey
-  - Ice Hockey
+- Ajshokej
+- Alsulegia glacialis
+- buz hokeyi
+- buzüstü xokkey
+- Eishockey
+- glacihokeo
+- haca oighir
+- hocaidh deigh
+- hochei pe gheață
+- hoci iâ
+- Hockey
+- Hockey an sla giassa
+- hockey silġ
+- Hockey sobre chelo
+- hockey sobre hielo
+- hockey su ghiaccio
+- Hockey sun dlacia
+- hockey super glacie
+- hockey supra ô ghiacciu
+- hockey sur glace
+- Hockey sur glacie
+- Hockey sus glaça
+- hockey war skorn
+- hokej mbi akull
+- hokej na ledu
+- hokej na lodzie
+- hokejs
+- Hokeo sur glacio
+- Hokeyê cemedi
+- Hoki ais
+- Hoki es
+- Hokiya ser cemedê
+- hoquei sobre gel
+- Háki king yelu
+- hóckey sobre xeo
+- hóquei no gelo
+- hōkī hukapapa
+- Hᐋᑭ
+- Ice hockey
+- Ice_Hockey
+- Ieshockey
+- Iishokky
+- ijshockey
+- is hockey
+- ishockey
+- Izotz hockey
+- jiekŋaskearru
+- jieŋâskiärru
+- jiõŋŋhokki
+- jäähoki
+- jääkiekko
+- jégkorong
+- khúc côn cầu trên băng
+- Leda rėtolīs
+- lední hokej
+- ledo ritulys
+- lodohokej
+- Peng-kiû
+- xokkey
+- yshokkie
+- Äishockey
+- íshockey
+- íshokkí
+- ľadový hokej
+- χόκεϊ επί πάγου
+- алкалы хоккей
+- Муус хоккей
+- хакей з шайбай
+- хокеј на леду
+- хокеј на мраз
+- хокей із шайбою
+- Хокей на лед
+- Хоккей
+- хоккей с шайбой
+- Шайбăллă хоккей
+- Шайбалы хоккей
+- шайбан хоккей
+- ҳокейи рӯи ях
+- տափօղակով հոկեյ
+- אייז האקי
+- הוקי קרח
+- آئس ہاکی
+- بوز هاکیسی
+- مۇز توپ ماھىرى
+- هاکی روی یخ
+- هوكى الجليد
+- هوكي الجليد
+- کنگل هاکي
+- आइस हकी
+- आइस हॉकी
+- আইস হকি
+- பனி வளைதடியாட்டம்
+- ഐസ് ഹോക്കി
+- අයිස් හොකී
+- ฮอกกี้น้ำแข็ง
+- ყინულის ჰოკეი
+- ᓲᓂᐢᑳᐧᑕᐦᐃᑫᐃᐧᐣ
+- ḥoquei sobre xelu
+- Ḥóquei ne l carambelo
+- アイスホッケー
+- 冰球
+- 아이스하키
 has_id_wikidata: Q41466
 different_from:
-  - "[[_Standards/WikiData/WD~bandy,183018]]"
-  - "[[_Standards/WikiData/WD~ball_hockey,4851253]]"
-  - "[[_Standards/WikiData/WD~ice_polo,108352432]]"
-  - "[[_Standards/WikiData/WD~field_hockey,1455]]"
-authority: "[[_Standards/WikiData/WD~International_Ice_Hockey_Federation,190173]]"
+- '[[_Standards/WikiData/WD~bandy,183018]]'
+- '[[_Standards/WikiData/WD~ball_hockey,4851253]]'
+- '[[_Standards/WikiData/WD~ice_polo,108352432]]'
+- '[[_Standards/WikiData/WD~field_hockey,1455]]'
+authority: '[[_Standards/WikiData/WD~International_Ice_Hockey_Federation,190173]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~sport_with_racquet_stick_club,13137940]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~sport_with_racquet_stick_club,13137940]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 uses:
-  - "[[_Standards/WikiData/WD~ice_hockey_puck,508918]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_stick,1121249]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_rink,2315928]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_skate,12019954]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_goal,12019952]]"
+- '[[_Standards/WikiData/WD~ice_hockey_puck,508918]]'
+- '[[_Standards/WikiData/WD~ice_hockey_stick,1121249]]'
+- '[[_Standards/WikiData/WD~ice_hockey_rink,2315928]]'
+- '[[_Standards/WikiData/WD~ice_hockey_skate,12019954]]'
+- '[[_Standards/WikiData/WD~ice_hockey_goal,12019952]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ice_skating,779272]]"
-  - "[[_Standards/WikiData/WD~hockey,1622659]]"
-  - "[[_Standards/WikiData/WD~ice_sport,31883501]]"
+- '[[_Standards/WikiData/WD~ice_skating,779272]]'
+- '[[_Standards/WikiData/WD~hockey,1622659]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~goaltender,1317534]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_referee,2859663]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_coach,5137576]]"
-  - "[[_Standards/WikiData/WD~ice_hockey_player,11774891]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_ice_hockey,1517317]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Ice_hockey,8210386]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Ice_Hockey,11343141]]"
+- '[[_Standards/WikiData/WD~goaltender,1317534]]'
+- '[[_Standards/WikiData/WD~ice_hockey_referee,2859663]]'
+- '[[_Standards/WikiData/WD~ice_hockey_coach,5137576]]'
+- '[[_Standards/WikiData/WD~ice_hockey_player,11774891]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_ice_hockey,1517317]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_hockey,8210386]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Ice_Hockey,11343141]]'
 competition_class:
-  - "[[_Standards/WikiData/WD~women's_ice_hockey,33107434]]"
-  - "[[_Standards/WikiData/WD~men's_ice_hockey,56054955]]"
-country_of_origin: "[[_Standards/WikiData/WD~Canada,16]]"
+- "[[_Standards/WikiData/WD~women's_ice_hockey,33107434]]"
+- "[[_Standards/WikiData/WD~men's_ice_hockey,56054955]]"
+country_of_origin: '[[_Standards/WikiData/WD~Canada,16]]'
 IAB_code: 515
 BHCL_UUID: 68510a43-562d-4d28-9d91-bb52b5f35804
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Ice%20hockey%20pictogram.svg
@@ -48,10 +147,133 @@ Commons_category: Ice hockey
 IPTC_NewsCode: mediatopic/20000965
 Krugosvet_article_archived_: sport/HOKKE_S_SHABO.html
 Baidu_Tieba_name: 冰球
-Unicode_character: 🏒
+Unicode_character: "\U0001F3D2"
 OpenStreetMap_tag: sport=ice_hockey
+dv_has_:
+  name_:
+    af: yshokkie
+    an: Hockey sobre chelo
+    ar: هوكي الجليد
+    arz: هوكى الجليد
+    ast: ḥoquei sobre xelu
+    az: buzüstü xokkey
+    azb: بوز هاکیسی
+    ba: Шайбалы хоккей
+    bar: Eishockey
+    be: хакей з шайбай
+    be-tarask: хакей з шайбай
+    bg: Хокей на лед
+    bn: আইস হকি
+    br: hockey war skorn
+    bs: hokej na ledu
+    ca: hoquei sobre gel
+    ce: Хоккей
+    cr: ᓲᓂᐢᑳᐧᑕᐦᐃᑫᐃᐧᐣ
+    cs: lední hokej
+    cv: Шайбăллă хоккей
+    cy: hoci iâ
+    da: ishockey
+    de: Eishockey
+    diq: Hokeyê cemedi
+    el: χόκεϊ επί πάγου
+    en: ice hockey
+    en-ca: hockey
+    eo: glacihokeo
+    es: hockey sobre hielo
+    et: jäähoki
+    eu: Izotz hockey
+    fa: هاکی روی یخ
+    fi: jääkiekko
+    fo: íshockey
+    fr: hockey sur glace
+    fy: Iishokky
+    ga: haca oighir
+    gd: hocaidh deigh
+    gl: hóckey sobre xeo
+    gsw: is hockey
+    he: הוקי קרח
+    hi: आइस हॉकी
+    hif: Ice hockey
+    hr: hokej na ledu
+    hsb: lodohokej
+    hu: jégkorong
+    hy: տափօղակով հոկեյ
+    ia: hockey super glacie
+    id: Hoki es
+    ie: Hockey sur glacie
+    io: Hokeo sur glacio
+    is: íshokkí
+    it: hockey su ghiaccio
+    iu: Hᐋᑭ
+    ja: アイスホッケー
+    ka: ყინულის ჰოკეი
+    kk: Шайбалы хоккей
+    ko: 아이스하키
+    ku: Hokiya ser cemedê
+    ky: хоккей
+    la: Alsulegia glacialis
+    lb: Äishockey
+    li: Ieshockey
+    lld: Hockey sun dlacia
+    lt: ledo ritulys
+    lv: hokejs
+    mhr: шайбан хоккей
+    mi: hōkī hukapapa
+    mk: хокеј на мраз
+    ml: ഐസ് ഹോക്കി
+    mr: आइस हॉकी
+    ms: Hoki ais
+    mt: hockey silġ
+    mwl: Ḥóquei ne l carambelo
+    nan: Peng-kiû
+    nb: ishockey
+    new: आइस हकी
+    nl: ijshockey
+    nn: ishockey
+    oc: Hockey sus glaça
+    pam: Háki king yelu
+    pl: hokej na lodzie
+    pms: Hockey an sla giassa
+    ps: کنگل هاکي
+    pt: hóquei no gelo
+    ro: hochei pe gheață
+    ru: хоккей с шайбой
+    sah: Муус хоккей
+    scn: hockey supra ô ghiacciu
+    sco: Ice hockey
+    se: jiekŋaskearru
+    sgs: Leda rėtolīs
+    sh: Hokej na ledu
+    si: අයිස් හොකී
+    sk: ľadový hokej
+    sl: hokej na ledu
+    sm: Hockey
+    smn: jieŋâskiärru
+    sms: jiõŋŋhokki
+    sq: hokej mbi akull
+    sr: хокеј на леду
+    sv: ishockey
+    szl: Ajshokej
+    ta: பனி வளைதடியாட்டம்
+    tg: ҳокейи рӯи ях
+    th: ฮอกกี้น้ำแข็ง
+    tr: buz hokeyi
+    tt: алкалы хоккей
+    ug: مۇز توپ ماھىرى
+    uk: хокей із шайбою
+    ur: آئس ہاکی
+    uz: xokkey
+    vi: khúc côn cầu trên băng
+    war: Ice hockey
+    wuu: 冰球
+    yi: אייז האקי
+    yue: 冰球
+    zh: 冰球
+    zh-cn: 冰球
+    zh-hans: 冰球
+    zh-hant: 冰球
+    zh-tw: 冰球
 ---
-
 # [[Ice_Hockey]] 🏒 
 
 #is_/same_as :: [[WD~Ice_hockey,41466]] 

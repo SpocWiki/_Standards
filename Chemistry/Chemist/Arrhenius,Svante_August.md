@@ -1,111 +1,155 @@
 ---
 aliases:
-  - Svante_August_Arrhenius
-  - Arrhenius,Svante_August
-  - Arrhenius,Svante August
+- Arrenius Svante Avgust
+- Arrhenius
+- Arrhenius,Svante August
+- Arrhenius,Svante_August
+- August Svante Arrhenius
+- Svante Arrenius
+- Svante Arrhenius
+- Svante Arrhenius ne
+- Svante Arrēniuss
+- Svante August Arrhenius
+- Svante Augustus Arrhenius
+- Svante_August_Arrhenius
+- Svantė Arenijus
+- Σβάντε Αρρένιους
+- Аррениус Сванте Август
+- Аррениус, Сванте Август
+- Сванте Август Аренијус
+- Сванте Август Арениус
+- Сванте Август Арреніус
+- Сванте Август Аррениус
+- Сванте Арениус
+- Сванте Аррениус
+- Свантэ Аўгуст Арэніус
+- Свантэ Арэніюс
+- Սվանտե Արենիուս
+- סוונטה ארהניוס
+- ساڤانتێ ئەرێنیەس
+- سفانت أرينيوس
+- سفانت ارينيوس
+- سوانت آرنیوس
+- سوانت اوگست آرنیوس
+- سوانتے آرہینیاس
+- سوانٽئ آرينيئس
+- अर्हेनिअस, स्फान्ता ऑगस्ट
+- स्वांटे आर्रेनियस
+- সভান্তে আরিয়েনিউস
+- சுவாந்தே அறீனியசு
+- ಅರೇನಿಯಸ್
+- സ്വാന്തെ അറീനിയസ്
+- สวานเต อาร์เรเนียส
+- སྰ་ཝན་ཐི་ཨྰར་ཧེན་ཡ་སུ།
+- სვანტე არენიუსი
+- スヴァンテ・アレニウス
+- 斯万特·阿伦尼乌斯
+- 斯凡特·奥古斯特·阿伦尼乌斯
+- 阿瑞尼斯
+- 스반테 아레니우스
 has_id_wikidata: Q80956
 nominated_for:
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]"
-  - "[[_Standards/WikiData/WD~Nobel,36341833]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
+- '[[_Standards/WikiData/WD~Nobel,36341833]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]"
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Royal_Society_of_Arts_and_Sciences_in_Gothenburg,835943]]"
-  - "[[_Standards/WikiData/WD~Romanian_Academy,901677]]"
-  - "[[_Standards/WikiData/WD~Royal_Physiographic_Society_in_Lund,920266]]"
-  - "[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]"
-  - "[[_Standards/WikiData/WD~Royal_Danish_Academy_of_Sciences_and_Letters,1636237]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Engineering_Sciences,3394637]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Arts_and_Sciences_in_Gothenburg,835943]]'
+- '[[_Standards/WikiData/WD~Romanian_Academy,901677]]'
+- '[[_Standards/WikiData/WD~Royal_Physiographic_Society_in_Lund,920266]]'
+- '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
+- '[[_Standards/WikiData/WD~Royal_Danish_Academy_of_Sciences_and_Letters,1636237]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Engineering_Sciences,3394637]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
 employer:
-  - "[[_Standards/WikiData/WD~Uppsala_University,185246]]"
-  - "[[_Standards/WikiData/WD~Stockholm_University,221645]]"
-  - "[[_Standards/WikiData/WD~Riga_Technical_University,411895]]"
+- '[[_Standards/WikiData/WD~Uppsala_University,185246]]'
+- '[[_Standards/WikiData/WD~Stockholm_University,221645]]'
+- '[[_Standards/WikiData/WD~Riga_Technical_University,411895]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Uppsala_University,185246]]"
-  - "[[_Standards/WikiData/WD~Stockholm_University,221645]]"
+- '[[_Standards/WikiData/WD~Uppsala_University,185246]]'
+- '[[_Standards/WikiData/WD~Stockholm_University,221645]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Davy_Medal,220842]]"
-  - "[[_Standards/WikiData/WD~Willard_Gibbs_Award,902788]]"
-  - "[[_Standards/WikiData/WD~Faraday_Lectureship_Prize,1994574]]"
-  - "[[_Standards/WikiData/WD~Franklin_Medal,3141777]]"
-  - "[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]"
-  - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Edinburgh,21476518]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Groningen,30175456]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Cambridge,41795465]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_Heidelberg_University,41966773]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Leipzig_University,41974970]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]"
-  - "[[_Standards/WikiData/WD~Echegaray_Medal,43431094]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Birmingham,58550377]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
-student: "[[_Standards/WikiData/WD~Oskar_Klein,251524]]"
-doctoral_student: "[[_Standards/WikiData/WD~Oskar_Klein,251524]]"
+- '[[_Standards/WikiData/WD~Davy_Medal,220842]]'
+- '[[_Standards/WikiData/WD~Willard_Gibbs_Award,902788]]'
+- '[[_Standards/WikiData/WD~Faraday_Lectureship_Prize,1994574]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Edinburgh,21476518]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Groningen,30175456]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Cambridge,41795465]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Heidelberg_University,41966773]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Leipzig_University,41974970]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]'
+- '[[_Standards/WikiData/WD~Echegaray_Medal,43431094]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Birmingham,58550377]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+student: '[[_Standards/WikiData/WD~Oskar_Klein,251524]]'
+doctoral_student: '[[_Standards/WikiData/WD~Oskar_Klein,251524]]'
 given_name:
-  - "[[_Standards/WikiData/WD~August,370731]]"
-  - "[[_Standards/WikiData/WD~Svante,2370551]]"
-student_of: "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
-doctoral_advisor: "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
+- '[[_Standards/WikiData/WD~August,370731]]'
+- '[[_Standards/WikiData/WD~Svante,2370551]]'
+student_of: '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]"
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-contributed_to_creative_work: "[[_Standards/WikiData/WD~Popular_Science,773087]]"
-different_from: "[[_Standards/WikiData/WD~Carl_Axel_Arrhenius,905629]]"
-place_of_birth: "[[_Standards/WikiData/WD~Wik_Castle,1543476]]"
+- '[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
+different_from: '[[_Standards/WikiData/WD~Carl_Axel_Arrhenius,905629]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wik_Castle,1543476]]'
 child:
-  - "[[_Standards/WikiData/WD~Olof_Arrhenius,3351532]]"
-  - "[[_Standards/WikiData/WD~Anna_Lisa_Arrhenius,87758132]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_burial: "[[_Standards/WikiData/WD~Uppsala_Old_Cemetery,4353116]]"
-cause_of_death: "[[_Standards/WikiData/WD~functional_gastrointestinal_disorder,5508825]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~Olof_Arrhenius,3351532]]'
+- '[[_Standards/WikiData/WD~Anna_Lisa_Arrhenius,87758132]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_burial: '[[_Standards/WikiData/WD~Uppsala_Old_Cemetery,4353116]]'
+cause_of_death: '[[_Standards/WikiData/WD~functional_gastrointestinal_disorder,5508825]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-family_name: "[[_Standards/WikiData/WD~Arrhenius,27134494]]"
+- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+family_name: '[[_Standards/WikiData/WD~Arrhenius,27134494]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Sofia_Rudbeck,28922698]]"
-  - "[[_Standards/WikiData/WD~Maria_Arrhenius,64842232]]"
-father: "[[_Standards/WikiData/WD~Svanta_Gustav_Arrhenius,108840382]]"
-mother: "[[_Standards/WikiData/WD~Carolina_Christina_Thunberg,108840383]]"
+- '[[_Standards/WikiData/WD~Sofia_Rudbeck,28922698]]'
+- '[[_Standards/WikiData/WD~Maria_Arrhenius,64842232]]'
+father: '[[_Standards/WikiData/WD~Svanta_Gustav_Arrhenius,108840382]]'
+mother: '[[_Standards/WikiData/WD~Carolina_Christina_Thunberg,108840383]]'
 date_of_birth: 1859-02-19T00:00:00Z
 field_of_work:
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~chemistry,2329]]"
-place_of_death: "[[_Standards/WikiData/WD~Stockholm,1754]]"
-interested_in: "[[_Standards/WikiData/WD~chemistry,2329]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Swedish,9027]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Sweden,34]]"
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~chemistry,2329]]'
+place_of_death: '[[_Standards/WikiData/WD~Stockholm,1754]]'
+interested_in: '[[_Standards/WikiData/WD~chemistry,2329]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Swedish,9027]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Sweden,34]]'
 Libris_URI: fcrtvp1z472g2jz
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/ARRENIUS_SVANTE_AVGUST.html
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/1569961
@@ -120,34 +164,139 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Arrhenius2.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Svante%20Arrhenius.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Uppsala%20banner%20Castle%20gardens.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=103979080
-  - http://www.digiporta.net/index.php?id=297955143
-  - http://www.digiporta.net/index.php?id=374477517
-  - http://www.digiporta.net/index.php?id=544604192
-  - http://www.digiporta.net/index.php?id=599615149
-  - http://www.digiporta.net/index.php?id=893438103
+- http://www.digiporta.net/index.php?id=103979080
+- http://www.digiporta.net/index.php?id=297955143
+- http://www.digiporta.net/index.php?id=374477517
+- http://www.digiporta.net/index.php?id=544604192
+- http://www.digiporta.net/index.php?id=599615149
+- http://www.digiporta.net/index.php?id=893438103
 ISNI: 000000008084414X
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Svante_August_Arrhenius,80956|WD~Svante_August_Arrhenius,80956]]"
-    - "[[/_Standards/Chemistry/Chemist/Arrhenius,Svante_August|Arrhenius,Svante_August]]"
-    - "[[/_public/Chemistry/Chemist/Arrhenius,Svante_August.public|Arrhenius,Svante_August.public]]"
-    - "[[/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal|Arrhenius,Svante_August.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect|Arrhenius,Svante_August.protect]]"
-    - "[[/_private/Chemistry/Chemist/Arrhenius,Svante_August.private|Arrhenius,Svante_August.private]]"
-    - "[[/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal|Arrhenius,Svante_August.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret|Arrhenius,Svante_August.secret]]"
+  - '[[../../WikiData/WD~Svante_August_Arrhenius,80956|WD~Svante_August_Arrhenius,80956]]'
+  - '[[/_Standards/Chemistry/Chemist/Arrhenius,Svante_August|Arrhenius,Svante_August]]'
+  - '[[/_public/Chemistry/Chemist/Arrhenius,Svante_August.public|Arrhenius,Svante_August.public]]'
+  - '[[/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal|Arrhenius,Svante_August.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect|Arrhenius,Svante_August.protect]]'
+  - '[[/_private/Chemistry/Chemist/Arrhenius,Svante_August.private|Arrhenius,Svante_August.private]]'
+  - '[[/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal|Arrhenius,Svante_August.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret|Arrhenius,Svante_August.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Svante_August_Arrhenius,80956|WD~Svante_August_Arrhenius,80956]]"
-  - "[[/_Standards/Chemistry/Chemist/Arrhenius,Svante_August|Arrhenius,Svante_August]]"
-  - "[[/_public/Chemistry/Chemist/Arrhenius,Svante_August.public|Arrhenius,Svante_August.public]]"
-  - "[[/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal|Arrhenius,Svante_August.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect|Arrhenius,Svante_August.protect]]"
-  - "[[/_private/Chemistry/Chemist/Arrhenius,Svante_August.private|Arrhenius,Svante_August.private]]"
-  - "[[/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal|Arrhenius,Svante_August.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret|Arrhenius,Svante_August.secret]]"
+- '[[../../WikiData/WD~Svante_August_Arrhenius,80956|WD~Svante_August_Arrhenius,80956]]'
+- '[[/_Standards/Chemistry/Chemist/Arrhenius,Svante_August|Arrhenius,Svante_August]]'
+- '[[/_public/Chemistry/Chemist/Arrhenius,Svante_August.public|Arrhenius,Svante_August.public]]'
+- '[[/_internal/Chemistry/Chemist/Arrhenius,Svante_August.internal|Arrhenius,Svante_August.internal]]'
+- '[[/_protect/Chemistry/Chemist/Arrhenius,Svante_August.protect|Arrhenius,Svante_August.protect]]'
+- '[[/_private/Chemistry/Chemist/Arrhenius,Svante_August.private|Arrhenius,Svante_August.private]]'
+- '[[/_personal/Chemistry/Chemist/Arrhenius,Svante_August.personal|Arrhenius,Svante_August.personal]]'
+- '[[/_secret/Chemistry/Chemist/Arrhenius,Svante_August.secret|Arrhenius,Svante_August.secret]]'
+dv_has_:
+  name_:
+    af: Svante Arrhenius
+    an: Svante Arrhenius
+    ar: سفانت أرينيوس
+    arz: سفانت ارينيوس
+    ast: Arrhenius
+    az: Svante Arrenius
+    azb: سوانت آرنیوس
+    bar: Svante Arrhenius
+    be: Свантэ Аўгуст Арэніус
+    be-tarask: Свантэ Арэніюс
+    bg: Сванте Август Арениус
+    bn: সভান্তে আরিয়েনিউস
+    bo: སྰ་ཝན་ཐི་ཨྰར་ཧེན་ཡ་སུ།
+    br: Svante Arrhenius
+    bs: Svante August Arrhenius
+    ca: Svante August Arrhenius
+    ceb: Svante Arrhenius
+    ckb: ساڤانتێ ئەرێنیەس
+    co: Svante Arrhenius
+    cs: Svante Arrhenius
+    cy: Svante August Arrhenius
+    da: Svante Arrhenius
+    de: Svante Arrhenius
+    el: Σβάντε Αρρένιους
+    en: Svante August Arrhenius
+    eo: August Svante Arrhenius
+    es: Svante August Arrhenius
+    et: Svante Arrhenius
+    eu: Svante Arrhenius
+    fa: سوانت آرنیوس
+    fi: Svante Arrhenius
+    fr: Svante August Arrhenius
+    ga: Svante Arrhenius
+    gd: Svante Arrhenius
+    gl: Svante Arrhenius
+    gom: अर्हेनिअस, स्फान्ता ऑगस्ट
+    ha: Svante Arrhenius ne
+    hak: Svante Arrhenius
+    he: סוונטה ארהניוס
+    hi: स्वांटे आर्रेनियस
+    hr: Svante August Arrhenius
+    hu: Svante August Arrhenius
+    hy: Սվանտե Արենիուս
+    id: Svante August Arrhenius
+    io: Svante Arrhenius
+    is: Svante August Arrhenius
+    it: Svante Arrhenius
+    ja: スヴァンテ・アレニウス
+    ka: სვანტე არენიუსი
+    kk: Сванте Аррениус
+    kn: ಅರೇನಿಯಸ್
+    ko: 스반테 아레니우스
+    ky: Аррениус Сванте Август
+    la: Svante Augustus Arrhenius
+    lb: Svante August Arrhenius
+    lt: Svantė Arenijus
+    lv: Svante Arrēniuss
+    mg: Svante August Arrhenius
+    mk: Сванте Арениус
+    ml: സ്വാന്തെ അറീനിയസ്
+    ms: Svante Arrhenius
+    mul: Svante August Arrhenius
+    mzn: سوانت آرنیوس
+    nan: Svante Arrhenius
+    nb: Svante Arrhenius
+    nds: Svante Arrhenius
+    nl: Svante Arrhenius
+    nn: Svante Arrhenius
+    nov: Svante August Arrhenius
+    oc: Svante Arrhenius
+    pap: Svante Arrhenius
+    pl: Svante Arrhenius
+    pnb: سوانتے آرہینیاس
+    pt: Svante Arrhenius
+    pt-br: Svante August Arrhenius
+    qu: Svante August Arrhenius
+    ro: Svante August Arrhenius
+    ru: Сванте Август Аррениус
+    sco: Svante Arrhenius
+    sd: سوانٽئ آرينيئس
+    sh: Svante August Arrhenius
+    sk: Svante August Arrhenius
+    sl: Svante August Arrhenius
+    sq: Svante Arrhenius
+    sr: Сванте Август Аренијус
+    sv: Svante Arrhenius
+    sw: Svante Arrhenius
+    ta: சுவாந்தே அறீனியசு
+    tg: Аррениус, Сванте Август
+    th: สวานเต อาร์เรเนียส
+    tl: Svante Arrhenius
+    tr: Svante August Arrhenius
+    tt: Сванте Аррениус
+    ty: Svante Arrhenius
+    uk: Сванте Август Арреніус
+    ur: سوانت اوگست آرنیوس
+    uz: Arrenius Svante Avgust
+    vi: Svante Arrhenius
+    war: Svante Arrhenius
+    wuu: 斯万特·阿伦尼乌斯
+    xmf: სვანტე არენიუსი
+    yo: Svante Arrhenius
+    yue: 阿瑞尼斯
+    zh: 斯凡特·奥古斯特·阿伦尼乌斯
 ---
-
 # [[Arrhenius,Svante_August]] 
 
 #is_/same_as :: [[../../WikiData/WD~Svante_August_Arrhenius,80956|WD~Svante_August_Arrhenius,80956]] 

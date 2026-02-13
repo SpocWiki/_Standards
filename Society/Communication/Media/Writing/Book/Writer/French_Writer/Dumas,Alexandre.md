@@ -1,66 +1,117 @@
 ---
 aliases:
-  - Alexandre_Dumas
-  - Alexandre Dumas Davy de la Pailleterie
-  - Alexandre Dumas
-  - Dumas
-  - Alexandre Dumas père
-  - Dumas,Alexandre
+- Aleksander Dumas
+- Aleksandr Düma
+- Aleksandr Dýuma
+- Aleksandrs Dimā
+- Alexander Dumas
+- Alexandre Dumas
+- Alexandre Dumas d.ä.
+- Alexandre Dumas Davy de la Pailleterie
+- Alexandre Dumas den eldre
+- Alexandre Dumas der Ältere
+- Alexandre Dumas dr Elter
+- Alexandre Dumas père
+- Alexandre Dumas starší
+- Alexandre Dumas vanem
+- Alexandre Dumas, den ældre
+- Alexandre Dumas, pai
+- Alexandre Dumas, patro
+- Alexandre_Dumas
+- Dumas
+- Dumas,Alexandre
+- Αλέξανδρος Δουμάς
+- Александар Дима
+- Александар Дима Отац
+- Александр Дюма
+- Александър Дюма-баща
+- Аляксандар Дзюма
+- Аляксандр Дзюма
+- Дюа Александр
+- Дюма Александр
+- Дюма Александр (ашшĕ)
+- Дюма, Александр
+- Дюма, Александр (да)
+- Ալեքսանդր Դյումա
+- Ալեքսանտր Տիւմա
+- אלכסנדר דיומא האב
+- ألكسندر دوما
+- ئەلیکساندر دووما
+- الكسندر دوماس الاب
+- الکساندر دوما
+- الیگزنڈر ڈوما
+- الیگزنڈر ڈیوما
+- अलेक्जेन्डर डुमास
+- अलेक्झांडर ड्युमा
+- আলেকজেণ্ডাৰ ডুমাছ
+- আলেক্সঁদ্র দ্যুমা
+- ਅਲੈਗਜ਼ੈਂਡਰ ਡਿਊਮਾ
+- அலெக்சாண்டர் டூமா
+- അലക്സാണ്ടർ ഡ്യൂമാസ്
+- อาแล็กซ็องดร์ ดูว์มา
+- ალექსანდრ დიუმა
+- ალექსანდრე დიუმა
+- አለክሳንድር ዱማ
+- アレクサンドル・デュマ・ペール
+- 大仲馬
+- 大仲马
+- 알렉상드르 뒤마
+- 알렉쌍드르 뒤마
 has_id_wikidata: Q38337
 influenced_by:
-  - '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
-  - '[[_Standards/WikiData/WD~Simon_Ganneau,1525640]]'
+- '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
+- '[[_Standards/WikiData/WD~Simon_Ganneau,1525640]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Three_Musketeers,140527]]'
-  - '[[_Standards/WikiData/WD~The_Count_of_Monte_Cristo,191838]]'
-  - '[[_Standards/WikiData/WD~Ange_Pitou,530910]]'
-  - '[[_Standards/WikiData/WD~Joseph_Balsamo,616350]]'
-  - '[[_Standards/WikiData/WD~The_Vicomte_of_Bragelonne_Ten_Years_Later,769001]]'
-  - "[[_Standards/WikiData/WD~The_Queen's_Necklace,977055]]"
-  - '[[_Standards/WikiData/WD~The_Countess_of_Charny,1213210]]'
-  - '[[_Standards/WikiData/WD~Twenty_Years_After,1639633]]'
-  - '[[_Standards/WikiData/WD~La_Reine_Margot,2020094]]'
-  - '[[_Standards/WikiData/WD~The_Forty_five_Guardsmen,2300607]]'
-  - '[[_Standards/WikiData/WD~La_Dame_de_Monsoreau,2664833]]'
+- '[[_Standards/WikiData/WD~The_Three_Musketeers,140527]]'
+- '[[_Standards/WikiData/WD~The_Count_of_Monte_Cristo,191838]]'
+- '[[_Standards/WikiData/WD~Ange_Pitou,530910]]'
+- '[[_Standards/WikiData/WD~Joseph_Balsamo,616350]]'
+- '[[_Standards/WikiData/WD~The_Vicomte_of_Bragelonne_Ten_Years_Later,769001]]'
+- "[[_Standards/WikiData/WD~The_Queen's_Necklace,977055]]"
+- '[[_Standards/WikiData/WD~The_Countess_of_Charny,1213210]]'
+- '[[_Standards/WikiData/WD~Twenty_Years_After,1639633]]'
+- '[[_Standards/WikiData/WD~La_Reine_Margot,2020094]]'
+- '[[_Standards/WikiData/WD~The_Forty_five_Guardsmen,2300607]]'
+- '[[_Standards/WikiData/WD~La_Dame_de_Monsoreau,2664833]]'
 child:
-  - '[[_Standards/WikiData/WD~Alexandre_Dumas_fils,169150]]'
-  - '[[_Standards/WikiData/WD~Henry_Bauër,1125847]]'
-  - '[[_Standards/WikiData/WD~Marie_Alexandrine_Dumas,39386930]]'
-  - '[[_Standards/WikiData/WD~Micaëlla_Clélie_Josepha_Élisabeth_Cordier,108652538]]'
+- '[[_Standards/WikiData/WD~Alexandre_Dumas_fils,169150]]'
+- '[[_Standards/WikiData/WD~Henry_Bauër,1125847]]'
+- '[[_Standards/WikiData/WD~Marie_Alexandrine_Dumas,39386930]]'
+- '[[_Standards/WikiData/WD~Micaëlla_Clélie_Josepha_Élisabeth_Cordier,108652538]]'
 different_from: '[[_Standards/WikiData/WD~Alexandre_Dumas_fils,169150]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Panthéon,188856]]'
-  - '[[_Standards/WikiData/WD~Communal_Cemetery_of_Villers_Cotterêts,83386085]]'
+- '[[_Standards/WikiData/WD~Panthéon,188856]]'
+- '[[_Standards/WikiData/WD~Communal_Cemetery_of_Villers_Cotterêts,83386085]]'
 place_of_birth: '[[_Standards/WikiData/WD~Villers_Cotterêts,213883]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 father: '[[_Standards/WikiData/WD~Thomas_Alexandre_Dumas,572684]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Frankfurter_Personenlexikon,39845173]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Charles_III,751275]]'
-  - '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
-  - '[[_Standards/WikiData/WD~Order_of_Glory,964927]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Netherlands_Lion,1818405]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Order_of_Charles_III,751275]]'
+- '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
+- '[[_Standards/WikiData/WD~Order_of_Glory,964927]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Order_of_the_Netherlands_Lion,1818405]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
 member_of: '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
 owner_of: '[[_Standards/WikiData/WD~Château_de_Monte_Cristo,1190649]]'
 residence: '[[_Standards/WikiData/WD~former_2nd_arrondissement_of_Paris,2845753]]'
@@ -78,11 +129,11 @@ mother: '[[_Standards/WikiData/WD~Marie_Louise_Élisabeth_Labouret_Dumas,8338606
 place_of_death: '[[_Standards/WikiData/WD~Puys,98700834]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Geldersch_Landschap_en_Kasteelen,98904445]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Fanny_Gordosa,102288962]]'
-  - '[[_Standards/WikiData/WD~Belle_Kreilssamner,108652515]]'
-  - '[[_Standards/WikiData/WD~Emélie_Cordier,108652531]]'
-  - '[[_Standards/WikiData/WD~Anna_Bauer,108652533]]'
-  - '[[_Standards/WikiData/WD~Octavie_Françoise_Alexandrine_Bouquié,133804264]]'
+- '[[_Standards/WikiData/WD~Fanny_Gordosa,102288962]]'
+- '[[_Standards/WikiData/WD~Belle_Kreilssamner,108652515]]'
+- '[[_Standards/WikiData/WD~Emélie_Cordier,108652531]]'
+- '[[_Standards/WikiData/WD~Anna_Bauer,108652533]]'
+- '[[_Standards/WikiData/WD~Octavie_Françoise_Alexandrine_Bouquié,133804264]]'
 position_held: '[[_Standards/WikiData/WD~president_of_the_Société_des_gens_de_lettres,105235015]]'
 date_of_death: 1870-12-05T00:00:00Z
 field_of_work: '[[_Standards/WikiData/WD~French_literature,6689]]'
@@ -111,8 +162,135 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Dumas%
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Paris%20September%202016%20IMGL0351%20%2829207769813%29.jpg
 ISNI: 0000000121012885
 NLC_authorities: 000126842
+dv_has_:
+  name_:
+    af: Alexandre Dumas
+    am: አለክሳንድር ዱማ
+    an: Alexandre Dumas
+    ar: ألكسندر دوما
+    arz: الكسندر دوماس الاب
+    as: আলেকজেণ্ডাৰ ডুমাছ
+    ast: Alexandre Dumas
+    avk: Alexandre Dumas
+    ay: Alexandre Dumas
+    az: Aleksandr Düma
+    azb: الکساندر دوما
+    ba: Александр Дюма
+    be: Аляксандр Дзюма
+    be-tarask: Аляксандар Дзюма
+    bg: Александър Дюма-баща
+    bjn: Alexandre Dumas
+    bn: আলেক্সঁদ্র দ্যুমা
+    br: Alexandre Dumas
+    bs: Alexandre Dumas
+    ca: Alexandre Dumas
+    cdo: Alexandre Dumas
+    ce: Дюма, Александр (да)
+    ckb: ئەلیکساندر دووما
+    cs: Alexandre Dumas starší
+    cv: Дюма Александр (ашшĕ)
+    cy: Alexandre Dumas
+    da: Alexandre Dumas, den ældre
+    de: Alexandre Dumas der Ältere
+    de-ch: Alexandre Dumas der Ältere
+    diq: Alexandre Dumas d.ä.
+    el: Αλέξανδρος Δουμάς
+    en: Alexandre Dumas
+    en-ca: Alexandre Dumas
+    en-gb: Alexandre Dumas
+    eo: Alexandre Dumas
+    es: Alexandre Dumas
+    et: Alexandre Dumas vanem
+    eu: Alexandre Dumas
+    ext: Alexandre Dumas
+    fa: الکساندر دوما
+    fi: Alexandre Dumas
+    fr: Alexandre Dumas
+    fy: Alexandre Dumas
+    ga: Alexandre Dumas
+    gl: Alexandre Dumas
+    gsw: Alexandre Dumas dr Elter
+    hak: Alexandre Dumas
+    he: אלכסנדר דיומא האב
+    hif: Alexandre Dumas
+    hr: Alexandre Dumas
+    ht: Alexandre Dumas
+    hu: Alexandre Dumas
+    hy: Ալեքսանդր Դյումա
+    hyw: Ալեքսանտր Տիւմա
+    id: Alexandre Dumas
+    io: Alexandre Dumas, patro
+    is: Alexandre Dumas
+    it: Alexandre Dumas
+    ja: アレクサンドル・デュマ・ペール
+    jv: Alexandre Dumas
+    ka: ალექსანდრ დიუმა
+    kk: Дюма Александр
+    ko: 알렉상드르 뒤마
+    ko-kp: 알렉쌍드르 뒤마
+    ky: Дюа Александр
+    la: Alexander Dumas
+    lb: Alexandre Dumas
+    li: Alexandre Dumas
+    lt: Alexandre Dumas
+    lv: Aleksandrs Dimā
+    mg: Alexandre Dumas
+    mk: Александар Дима
+    ml: അലക്സാണ്ടർ ഡ്യൂമാസ്
+    mn: Александр Дюма
+    mr: अलेक्झांडर ड्युमा
+    mrj: Дюма, Александр
+    ms: Alexandre Dumas
+    mul: Alexandre Dumas
+    nah: Alexandre Dumas
+    nan: Alexandre Dumas
+    nb: Alexandre Dumas
+    new: अलेक्जेन्डर डुमास
+    nl: Alexandre Dumas
+    nn: Alexandre Dumas den eldre
+    nrm: Alexandre Dumas
+    oc: Alexandre Dumas
+    os: Александр Дюма
+    pa: ਅਲੈਗਜ਼ੈਂਡਰ ਡਿਊਮਾ
+    pam: Alexandre Dumas
+    pap: Alexandre Dumas
+    pl: Aleksander Dumas
+    pms: Alexandre Dumas
+    pnb: الیگزنڈر ڈوما
+    pt: Alexandre Dumas
+    pt-br: Alexandre Dumas, pai
+    qu: Alexandre Dumas
+    ro: Alexandre Dumas
+    ru: Александр Дюма
+    rup: Alexandre Dumas
+    scn: Alexandre Dumas
+    sco: Alexandre Dumas
+    sh: Alexandre Dumas
+    sk: Alexandre Dumas starší
+    sl: Alexandre Dumas
+    sq: Alexandre Dumas
+    sr: Александар Дима Отац
+    su: Alexandre Dumas
+    sv: Alexandre Dumas d.ä.
+    ta: அலெக்சாண்டர் டூமா
+    tg: Александр Дюма
+    th: อาแล็กซ็องดร์ ดูว์มา
+    tk: Aleksandr Dýuma
+    tl: Alexandre Dumas
+    tr: Alexandre Dumas
+    tt: Александр Дюма
+    uk: Александр Дюма
+    ur: الیگزنڈر ڈیوما
+    uz: Alexandre Dumas
+    vi: Alexandre Dumas
+    vo: Alexandre Dumas
+    war: Alexandre Dumas
+    wuu: 大仲马
+    xmf: ალექსანდრე დიუმა
+    yo: Alexandre Dumas
+    yue: 大仲馬
+    zh: 大仲马
 ---
-
 # [[Dumas,Alexandre]] 
 
 #is_/same_as :: [[WD~Alexandre_Dumas,38337]] 

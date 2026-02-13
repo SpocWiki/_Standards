@@ -1,57 +1,82 @@
 ---
 aliases:
-  - Hank_Williams
-  - Hiram Williams
-  - Hank Williams
-  - Williams
-  - Williams,Hank
+- Hank Williams
+- Hank_Williams
+- Henk Vilijams
+- Henks Viljamss
+- Hiram Williams
+- Williams
+- Williams,Hank
+- Χανκ Γουίλιαμς
+- Генк Вільямс
+- Гэнк Ўільямз
+- Ханк Уилямс
+- Хенк Вилијамс
+- Хэнк Уільямс
+- Хэнк Уильямс
+- האנק ויליאמס
+- هانك ويليامز
+- هنک ویلیامز
+- ھانک ویلیامز
+- ہانک ولیمز
+- ہینک ویلیمز
+- हँक विल्यम्स
+- হ্যাঙ্ক উইলিয়ামস
+- ਹਾਂਕ ਵਿਲੀਅਮਜ਼
+- แฮงก์ วิลเลียมส์
+- ჰენკ უილიამსი
+- ハンク・ウィリアムズ
+- 汉克·威廉斯
+- 漢克·威廉斯
+- 漢威廉斯
+- 행크 윌리엄스
 has_id_wikidata: Q206181
 genre:
-  - '[[_Standards/WikiData/WD~country_music,83440]]'
-  - '[[_Standards/WikiData/WD~honky_tonk,1627155]]'
-  - '[[_Standards/WikiData/WD~honky_tonk,3140141]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~honky_tonk,1627155]]'
+- '[[_Standards/WikiData/WD~honky_tonk,3140141]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Baptists,93191]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~street_artist,2914170]]'
-  - '[[_Standards/WikiData/WD~yodeler,21234378]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~country_musician,66763670]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~street_artist,2914170]]'
+- '[[_Standards/WikiData/WD~yodeler,21234378]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~country_musician,66763670]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - "[[_Standards/WikiData/WD~Americana_Music_Association_President's_Award,96613973]]"
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_Special_Citations_and_Awards,7259350]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- "[[_Standards/WikiData/WD~Americana_Music_Association_President's_Award,96613973]]"
 cause_of_death:
-  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
-  - '[[_Standards/WikiData/WD~drug_overdose,3505252]]'
+- '[[_Standards/WikiData/WD~heart_failure,181754]]'
+- '[[_Standards/WikiData/WD~drug_overdose,3505252]]'
 place_of_death: '[[_Standards/WikiData/WD~Oak_Hill,285202]]'
 child:
-  - '[[_Standards/WikiData/WD~Jett_Williams,544198]]'
-  - '[[_Standards/WikiData/WD~Hank_Williams_Jr.,552819]]'
+- '[[_Standards/WikiData/WD~Jett_Williams,544198]]'
+- '[[_Standards/WikiData/WD~Hank_Williams_Jr.,552819]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Fred_Rose,563287]]'
 medical_condition: '[[_Standards/WikiData/WD~spina_bifida,844717]]'
 copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 place_of_birth: '[[_Standards/WikiData/WD~Mount_Olive,1274884]]'
 family_name: '[[_Standards/WikiData/WD~Williams,1688722]]'
 record_label:
-  - '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
-  - '[[_Standards/WikiData/WD~Sterling_Records,7611464]]'
+- '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
+- '[[_Standards/WikiData/WD~Sterling_Records,7611464]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Audrey_Williams,4820196]]'
-  - '[[_Standards/WikiData/WD~Billie_Jean_Jones,4911859]]'
+- '[[_Standards/WikiData/WD~Audrey_Williams,4820196]]'
+- '[[_Standards/WikiData/WD~Billie_Jean_Jones,4911859]]'
 discography: '[[_Standards/WikiData/WD~Hank_Williams_discography,5648499]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 has_list: '[[_Standards/WikiData/WD~list_of_tributes_to_Hank_Williams,6643999]]'
 educated_at: '[[_Standards/WikiData/WD~Sidney_Lanier_High_School,6663814]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 given_name: '[[_Standards/WikiData/WD~Hank,19819765]]'
 member_of: '[[_Standards/WikiData/WD~Hank_Williams_With_His_Drifting_Cowboys,65554675]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
@@ -69,13 +94,13 @@ Commons_category: Hank Williams
 work_period_end_: 1953-01-01T00:00:00Z
 date_of_death: 1953-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Williams%20Promotional%20Photo.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Williams%20MGM%20Records%201948%20-%20Cropped.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Williams%20Promotional%20Photo.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hank%20Williams%20MGM%20Records%201948%20-%20Cropped.jpg
 official_website: http://www.hankwilliams.com/
 ISNI: 0000000073577397
 IPI_name_number:
-  - 00058261964
-  - 00058262177
+- 00058261964
+- 00058262177
 Europeana_entity: agent/base/61429
 Wolfram_Language_entity_code: Entity["MusicAct", "HankWilliams::7d456"]
 pseudonym: Luke the Drifter
@@ -83,8 +108,133 @@ name_in_native_language: Hank Williams
 birth_name: Hiriam Williams
 work_period_start_: 1937-01-01T00:00:00Z
 date_of_birth: 1923-09-17T00:00:00Z
+dv_has_:
+  name_:
+    af: Hank Williams
+    an: Hank Williams
+    ar: هانك ويليامز
+    arz: هانك ويليامز
+    ast: Hank Williams
+    azb: هنک ویلیامز
+    bar: Hank Williams
+    be: Хэнк Уільямс
+    be-tarask: Гэнк Ўільямз
+    bg: Ханк Уилямс
+    bm: Hank Williams
+    bn: হ্যাঙ্ক উইলিয়ামস
+    br: Hank Williams
+    ca: Hank Williams
+    ckb: ھانک ویلیامز
+    co: Hank Williams
+    cs: Hank Williams
+    cy: Hank Williams
+    da: Hank Williams
+    dag: Hank Williams
+    de: Hank Williams
+    de-at: Hank Williams
+    de-ch: Hank Williams
+    el: Χανκ Γουίλιαμς
+    en: Hank Williams
+    en-ca: Hank Williams
+    en-gb: Hank Williams
+    en-us: Hank Williams
+    eo: Hank Williams
+    es: Hank Williams
+    et: Hank Williams
+    eu: Hank Williams
+    fa: هنک ویلیامز
+    fi: Hank Williams
+    fo: Hank Williams
+    fr: Hank Williams
+    frc: Hank Williams
+    frp: Hank Williams
+    fur: Hank Williams
+    ga: Hank Williams
+    gd: Hank Williams
+    gl: Hank Williams
+    gsw: Hank Williams
+    he: האנק ויליאמס
+    hr: Hank Williams
+    hu: Hank Williams
+    ia: Hank Williams
+    id: Hank Williams
+    ie: Hank Williams
+    io: Hank Williams
+    it: Hank Williams
+    ja: ハンク・ウィリアムズ
+    jam: Hank Williams
+    ka: ჰენკ უილიამსი
+    kab: Hank Williams
+    kg: Hank Williams
+    ko: 행크 윌리엄스
+    lb: Hank Williams
+    li: Hank Williams
+    lij: Hank Williams
+    lt: Hank Williams
+    lv: Henks Viljamss
+    mg: Hank Williams
+    min: Hank Williams
+    mk: Хенк Вилијамс
+    mr: हँक विल्यम्स
+    ms: Hank Williams
+    mul: Hank Williams
+    nap: Hank Williams
+    nb: Hank Williams
+    nds: Hank Williams
+    nds-nl: Hank Williams
+    nl: Hank Williams
+    nn: Hank Williams
+    nrm: Hank Williams
+    oc: Hank Williams
+    pa: ਹਾਂਕ ਵਿਲੀਅਮਜ਼
+    pap: Hank Williams
+    pcd: Hank Williams
+    pl: Hank Williams
+    pms: Hank Williams
+    pnb: ہینک ویلیمز
+    prg: Hank Williams
+    pt: Hank Williams
+    pt-br: Hank Williams
+    rgn: Hank Williams
+    rm: Hank Williams
+    ro: Hank Williams
+    ru: Хэнк Уильямс
+    sc: Hank Williams
+    scn: Hank Williams
+    sco: Hank Williams
+    sh: Hank Williams
+    sk: Hank Williams
+    sl: Hank Williams
+    sq: Hank Williams
+    sr: Хенк Вилијамс
+    sr-ec: Хенк Вилијамс
+    sr-el: Henk Vilijams
+    sv: Hank Williams
+    sw: Hank Williams
+    th: แฮงก์ วิลเลียมส์
+    tr: Hank Williams
+    uk: Генк Вільямс
+    ur: ہانک ولیمز
+    vec: Hank Williams
+    vi: Hank Williams
+    vls: Hank Williams
+    vmf: Hank Williams
+    vo: Hank Williams
+    wa: Hank Williams
+    war: Hank Williams
+    wo: Hank Williams
+    wuu: 汉克·威廉斯
+    yue: 漢威廉斯
+    zea: Hank Williams
+    zh: 漢克·威廉斯
+    zh-cn: 汉克·威廉斯
+    zh-hans: 汉克·威廉斯
+    zh-hant: 漢克·威廉斯
+    zh-hk: 漢克·威廉斯
+    zh-sg: 汉克·威廉斯
+    zh-tw: 漢克·威廉斯
+    zu: Hank Williams
 ---
-
 # [[Williams,Hank]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Hank_Williams,206181|WD~Hank_Williams,206181]] 

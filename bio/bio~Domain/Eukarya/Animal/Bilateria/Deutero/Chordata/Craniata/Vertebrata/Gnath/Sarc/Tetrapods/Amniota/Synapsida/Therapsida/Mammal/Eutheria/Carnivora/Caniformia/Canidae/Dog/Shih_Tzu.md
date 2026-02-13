@@ -1,20 +1,94 @@
 ---
 aliases:
+- Shi-Cu
+- Shih Tzu
+- shih-tzu
+- si-cu
+- Ši Cu
+- Ši-cu
+- ши тцу
+- Ши-тцу
+- Ши-цу
+- шы-цу
+- Շի-տցու
+- שי טסו
+- تشيه تزو
+- شی زو
+- شیتزو
+- शिह त्ज़ु
+- ซือจื่อ
+- シーズー
+- 西施犬
+- 西施狗
+- 시추
 has_id_wikidata: Q39357
 country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 mass:
-  - 8
-  - 4.5
+- 8
+- 4.5
 height: 27
 litter_size: 4.2
-instance_of: "[[_Standards/WikiData/WD~dog_breed,39367]]"
-catalog_code: "208"
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+catalog_code: 208
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shih%20Tzu%20portrait%20show%20dog.jpg
 Commons_gallery: Shih Tzu
 Commons_category: Shih Tzu
 subreddit: Shihtzu
+dv_has_:
+  name_:
+    ar: تشيه تزو
+    arz: تشيه تزو
+    ast: Shih Tzu
+    be-tarask: шы-цу
+    bg: ши тцу
+    ca: shih-tzu
+    cs: Shih-tzu
+    cy: Shih Tzu
+    da: Shih tzu
+    de: Shih Tzu
+    dtp: Shih tzu
+    en: Shih Tzu
+    es: Shih Tzu
+    eu: Shih Tzu
+    fa: شیتزو
+    fi: shih tzu
+    fr: Shih Tzu
+    fy: Shih tzu
+    gl: Shih-tzu
+    he: שי טסו
+    hi: शिह त्ज़ु
+    hr: Ši-cu
+    hu: si-cu
+    hy: Շի-տցու
+    id: Shih-Tzu
+    io: Shi-Cu
+    it: Shih Tzu
+    ja: シーズー
+    ko: 시추
+    lt: Ši Cu
+    ms: shih tzu
+    nb: Shih tzu
+    nl: Shih tzu
+    oc: Shih Tzu
+    pl: Shih tzu
+    pnb: شی زو
+    pt: Shih-tzu
+    ro: Shih Tzu
+    ru: Ши-тцу
+    sco: Shih Tzu
+    sl: Shih-tzu
+    sr: Ši cu
+    sv: Shih tzu
+    sw: Shih Tzu
+    th: ซือจื่อ
+    tr: Shih tzu
+    uk: Ши-цу
+    vi: Shih Tzu
+    yue: 西施狗
+    zh: 西施犬
+    zh-cn: 西施犬
+    zh-hans: 西施犬
 ---
-
 # [[Shih_Tzu]]  
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Shih_Tzu,39357|WD~Shih_Tzu,39357]]  

@@ -1,12 +1,73 @@
 ---
 aliases:
-  - Battleship
+- acoirazado
+- acorazado
+- Acorazáu
+- batalŝipo
+- Battleship
+- bitevní loď
+- bojna ladja
+- Bojni brod
+- Bojová loď
+- Chiàn-tò͘-lām
+- Corassà
+- couraçado
+- csatahajó
+- Cuirasat
+- cuirassat
+- cuirassé
+- encouraçado
+- Kapal tempur
+- Korazatu
+- Lahingulaev
+- Linkor
+- llong ryfel
+- nave da battaglia
+- Orrustuskip
+- pancernik
+- Schlachtschiff
+- Slachskip
+- slagschip
+- slagskepp
+- slagskib
+- slagskip
+- taistelulaiva
+- Thiết giáp hạm
+- Tsin naaʼeeł bee daʼahijighánígíí
+- Zırhlı
+- Θωρηκτό
+- бојни брод
+- борбен брод
+- Йĕрлĕ карап
+- лінійний корабель
+- лінкар
+- Лінкор
+- линеен кораб
+- линейный корабль
+- Салалық кеме
+- Գծանավ
+- אוניית מערכה
+- بارجة
+- نبردناو
+- युद्धनौका
+- ব্যাটেলশিপ
+- ਬੈਟਲਸ਼ਿਪ
+- යුද්ධ නැව්
+- เรือประจัญบาน
+- တိုက်သင်္ဘော
+- သၢင်းၽေႃးတိုၵ်း
+- ᱞᱟ.ᱲᱦᱟ.ᱭ ᱡᱟᱦᱟᱡᱽ
+- 战列舰
+- 戦艦
+- 戰列艦
+- 戰艦
+- 전함
 has_id_wikidata: Q182531
 subclass_of: '[[_Standards/WikiData/WD~warship,2031121]]'
 instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q26108780,26108780]]'
 different_from: '[[_Standards/WikiData/WD~Q56422059,56422059]]'
 Nomenclature_for_Museum_Cataloging: 12782
@@ -16,8 +77,88 @@ Commons_category: Battleships
 equivalent_class: http://rdf.muninn-project.org/ontologies/naval#BattleShip
 MIL_STD_2525_Symbol_Identification_Code: 10013000001202010000
 P8189: 987007282577305171
+dv_has_:
+  name_:
+    af: slagskip
+    ar: بارجة
+    ast: Acorazáu
+    az: Linkor
+    be: Лінкор
+    be-tarask: лінкар
+    bg: линеен кораб
+    bn: ব্যাটেলশিপ
+    bs: Bojni brod
+    ca: cuirassat
+    cs: bitevní loď
+    cv: Йĕрлĕ карап
+    cy: llong ryfel
+    da: slagskib
+    de: Schlachtschiff
+    de-ch: Schlachtschiff
+    el: Θωρηκτό
+    en: battleship
+    en-ca: battleship
+    eo: batalŝipo
+    es: acorazado
+    et: Lahingulaev
+    eu: Korazatu
+    fa: نبردناو
+    fi: taistelulaiva
+    fr: cuirassé
+    fy: Slachskip
+    gl: acoirazado
+    he: אוניית מערכה
+    hr: Bojni brod
+    hu: csatahajó
+    hy: Գծանավ
+    id: Kapal tempur
+    is: Orrustuskip
+    it: nave da battaglia
+    ja: 戦艦
+    kk: Салалық кеме
+    ko: 전함
+    lzh: 戰艦
+    mk: борбен брод
+    mr: युद्धनौका
+    ms: Kapal tempur
+    my: တိုက်သင်္ဘော
+    nan: Chiàn-tò͘-lām
+    nb: slagskip
+    nl: slagschip
+    nn: slagskip
+    nv: Tsin naaʼeeł bee daʼahijighánígíí
+    oc: Cuirassat
+    pa: ਬੈਟਲਸ਼ਿਪ
+    pl: pancernik
+    pms: Corassà
+    pt: couraçado
+    pt-br: encouraçado
+    ro: Cuirasat
+    ru: линейный корабль
+    sat: ᱞᱟ.ᱲᱦᱟ.ᱭ ᱡᱟᱦᱟᱡᱽ
+    sh: Bojni brod
+    shn: သၢင်းၽေႃးတိုၵ်း
+    si: යුද්ධ නැව්
+    sk: Bojová loď
+    sl: bojna ladja
+    sr: бојни брод
+    sr-ec: бојни брод
+    sr-el: bojni brod
+    sv: slagskepp
+    th: เรือประจัญบาน
+    tr: Zırhlı
+    uk: лінійний корабель
+    vi: Thiết giáp hạm
+    wuu: 战列舰
+    yue: 戰列艦
+    zh: 戰艦
+    zh-cn: 战列舰
+    zh-hans: 战列舰
+    zh-hant: 戰艦
+    zh-hk: 戰艦
+    zh-sg: 战列舰
+    zh-tw: 戰艦
 ---
-
 # [[Battleship]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Battleship,182531|WD~Battleship,182531]] 

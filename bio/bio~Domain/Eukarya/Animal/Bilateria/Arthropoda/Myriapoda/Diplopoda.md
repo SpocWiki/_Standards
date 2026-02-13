@@ -1,12 +1,86 @@
 ---
 aliases:
-  - Diplopoda
-  - Millipedes
+- Acir
+- Alimbabayod
+- Binakpaa
+- cuốn chiếu
+- Diplopoda
+- Diplopode
+- diplòpodes
+- Diplópode
+- Diplópodos
+- Dobelbianer
+- Doppelfüsser
+- Doppelfüßer
+- Dubbelfotingar
+- Dviporiakojai
+- Dvojenoge
+- dvojnonoge
+- dwuparce
+- Gonggok
+- Halimandan
+- ikerszelvényesek
+- Ikki juft oyoqlilar
+- Iskaynintinchaki
+- Jongoo
+- Jááłánii
+- Kaki seribu
+- kaksoisjalkaiset
+- Kankabi
+- Kyrkaýak
+- Kırkayak
+- Leluwé
+- Lontugi
+- Luwing
+- miljoenpoten
+- millipede
+- Millipedes
+- Milpieduloj
+- Miriapodo
+- mnohonožky
+- mílechosach
+- Tiladtilad
+- Titinggi
+- Tuhatjalgsed
+- tusenbein
+- tusindben
+- Tūkstoškāji
+- Þúsundfætlur
+- İkicütayaqlılar
+- Διπλόποδα
+- двојноноги
+- двопарноногі
+- двупарноногие
+- Двухпарнаногія
+- диплоподи
+- Төрт буттуулар
+- Қосжұпаяқтылар
+- רבי־הרגליים
+- ألفية الأرجل
+- الفية الارجل
+- هزارپا
+- कनसुत्लो
+- सहस्त्रपाद
+- सहस्रपाद
+- কেন্নো
+- மரவட்டை
+- సహస్రపాదులు
+- തേരട്ട
+- กิ้งกือ
+- ကင်းနားသန်
+- მრავალფეხიანები
+- ヤスデ
+- 倍足綱
+- 倍足纲
+- 千足蟲
+- 馬陸
+- 马陆
+- 노래기
 has_id_wikidata: Q167367
 title: Diplopoda
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 has_effect: '[[_Standards/WikiData/WD~millipede_burn,4331898]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~millipede,11185669]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Millipedes,20367008]]'
@@ -16,8 +90,8 @@ parent_taxon: '[[_Standards/WikiData/WD~Myriapoda,25823]]'
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 ITIS_TSN: 154409
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Millipede.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Millipede%20coiled%20on%20the%20ground.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Millipede.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Millipede%20coiled%20on%20the%20ground.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Millipede%20of%20Salem.ogv
 EPPO_Code: 1DIPLC
 Commons_gallery: Diplopoda
@@ -26,8 +100,112 @@ taxon_name: Diplopoda
 Wolfram_Language_entity_code: Entity["Concept", "ClassDiplopoda::s5463"]
 taxon_common_name: Millipedes
 NBN_System_Key: NBNSYS0000159868
+dv_has_:
+  name_:
+    af: Diplopoda
+    ak: Kankabi
+    an: Diplopoda
+    ar: ألفية الأرجل
+    arz: الفية الارجل
+    ast: Diplopoda
+    az: İkicütayaqlılar
+    bcl: Alimbabayod
+    be: Двухпарнаногія
+    be-tarask: двухпарнаногія
+    bew: Leluwé
+    bg: диплоподи
+    bjn: Halimandan
+    bn: কেন্নো
+    ca: diplòpodes
+    ceb: Tiladtilad
+    cs: mnohonožky
+    da: tusindben
+    dag: Binakpaa
+    de: Doppelfüßer
+    de-ch: Doppelfüsser
+    din: Acir
+    dtp: Lontugi
+    el: Διπλόποδα
+    en: Diplopoda
+    eo: Milpieduloj
+    es: Diplopoda
+    et: Tuhatjalgsed
+    eu: Diplopoda
+    ext: Diplopoda
+    fa: هزارپا
+    fi: kaksoisjalkaiset
+    fr: Diplopoda
+    frr: Dobelbianer
+    ga: mílechosach
+    gl: Diplópodos
+    he: רבי־הרגליים
+    hi: सहस्त्रपाद
+    hr: Dvojenoge
+    hu: ikerszelvényesek
+    ia: Diplopoda
+    id: Kaki seribu
+    ie: Diplopoda
+    io: Miriapodo
+    is: Þúsundfætlur
+    it: Diplopoda
+    ja: ヤスデ
+    jv: Luwing
+    ka: მრავალფეხიანები
+    kk: Қосжұпаяқтылар
+    ko: 노래기
+    kw: Diplopoda
+    ky: Төрт буттуулар
+    la: Diplopoda
+    lt: Dviporiakojai
+    lv: Tūkstoškāji
+    lzh: 馬陸
+    mk: двојноноги
+    ml: തേരട്ട
+    mr: सहस्रपाद
+    ms: Gonggok
+    mul: Diplopoda
+    my: ကင်းနားသန်
+    nb: tusenbein
+    ne: कनसुत्लो
+    nl: miljoenpoten
+    nn: tusenbein
+    nv: Jááłánii
+    oc: Diplopoda
+    pl: dwuparce
+    pt: Diplópode
+    pt-br: Diplopoda
+    qu: Iskaynintinchaki
+    ro: Diplopoda
+    ru: двупарноногие
+    sco: millipede
+    sh: Dvojenoge
+    sl: dvojnonoge
+    sq: Diplopoda
+    sr: Diplopode
+    su: Titinggi
+    sv: Dubbelfotingar
+    sw: Jongoo
+    ta: மரவட்டை
+    te: సహస్రపాదులు
+    th: กิ้งกือ
+    tk: Kyrkaýak
+    tl: Diplopoda
+    tr: Kırkayak
+    uk: двопарноногі
+    uz: Ikki juft oyoqlilar
+    vi: cuốn chiếu
+    vo: Diplopoda
+    war: Diplopoda
+    wuu: 倍足纲
+    yue: 千足蟲
+    zh: 倍足纲
+    zh-cn: 倍足纲
+    zh-hans: 倍足纲
+    zh-hant: 馬陸
+    zh-hk: 馬陸
+    zh-sg: 马陆
+    zh-tw: 倍足綱
 ---
-
 # [[Diplopoda]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Diplopoda,167367|WD~Diplopoda,167367]] 

@@ -1,5 +1,58 @@
-
-
+---
+has_id_wikidata: Q14943214
+dv_has_:
+  name_:
+    an: Ursoidea
+    ar: دبيات وأشباهها
+    ast: Ursoidea
+    bg: Ursoidea
+    ca: ursoïdeus
+    ceb: Ursoidea
+    cs: Ursoidea
+    de: Ursoidea
+    el: Ursoidea
+    en: Ursoidea
+    eo: Ursoideoj
+    es: Ursoidea
+    eu: Ursoidea
+    ext: Ursoidea
+    fi: Ursoidea
+    fr: Ursoidea
+    fy: Beardieren
+    ga: Ursoidea
+    gl: Ursoidea
+    he: דוביים
+    ia: Ursoidea
+    ie: Ursoidea
+    io: Ursoidea
+    it: Ursoidea
+    la: Ursoidea
+    mul: Ursoidea
+    nl: Ursoidea
+    oc: Ursoidea
+    pl: Ursoidea
+    pt: Ursoidea
+    pt-br: Ursoidea
+    ro: Ursoidea
+    ru: Ursoidea
+    sco: Ursoidea
+    sq: Ursoidea
+    uk: Ursoidea
+    vi: Ursoidea
+    vo: Ursoidea
+    war: Ursoidea
+    zh: 熊总科
+    zh-cn: 熊总科
+    zh-hans: 熊总科
+aliases:
+- Beardieren
+- Ursoidea
+- Ursoideoj
+- ursoïdeus
+- דוביים
+- دبيات وأشباهها
+- 熊总科
+---
 ## #has_/text_of_/abstract 
 
 > **Ursoidea** is a superfamily of arctoid carnivoran mammals 

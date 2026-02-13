@@ -1,4 +1,190 @@
-
+---
+has_id_wikidata: Q163820
+dv_has_:
+  name_:
+    af: Silicon Valley
+    ar: وادي السيليكون
+    ary: وادي السيليكون
+    arz: وادى سليكون
+    ast: Silicon Valley
+    az: Silikon Vadisi
+    azb: سیلیکون والئی
+    ban: Lebah Silikon
+    be: Крамянёвая даліна
+    be-tarask: Крамянёвая даліна
+    bew: Lebak Silikon
+    bg: Силициева долина
+    bn: সিলিকন ভ্যালি
+    br: Silicon Valley
+    bs: Silikonska dolina
+    ca: Silicon Valley
+    cdo: Silicon Valley
+    cs: Silicon Valley
+    cv: Кремни лапамӗ
+    cy: Dyffryn Silicon
+    da: Silicon Valley
+    de: Silicon Valley
+    de-ch: Silicon Valley
+    dty: सिलिकन भ्याली
+    el: Κοιλάδα του Πυριτίου
+    en: Silicon Valley
+    en-ca: Silicon Valley
+    en-gb: Silicon Valley
+    eo: Silicon Valley
+    es: Silicon Valley
+    et: Silicon Valley
+    eu: Silicon Valley
+    fa: دره سیلیکون
+    fi: Piilaakso
+    fo: Silicon Valley
+    fr: Silicon Valley
+    fy: Silicon Valley
+    ga: Gleann an tSileacain
+    gu: સિલિકૉન વૅલી
+    ha: Silicon Valley
+    hak: Si̍t-kuk
+    he: עמק הסיליקון
+    hi: सिलिकॉन वैली
+    hr: Silicijska dolina
+    hu: Szilícium-völgy
+    hy: Սիլիկոն Վալի
+    id: Silicon Valley
+    ig: Silicon valley
+    io: Siliko-Valo
+    is: Silicon Valley
+    it: Silicon Valley
+    ja: シリコンバレー
+    jv: Lembah Silikon
+    ka: სილიკონის ველი
+    ki: Silicon Valley
+    kk: Силикон алқабы
+    kk-arab: سىيلىيكون القابى
+    kk-cn: سىيلىيكون القابى
+    kk-cyrl: Силикон алқабы
+    kk-kz: Силикон алқабы
+    kk-latn: Sïlïkon alqabı
+    kk-tr: Sïlïkon alqabı
+    ko: 실리콘 밸리
+    ku: Geliyê Silîkonê
+    la: Silicium Vallis
+    lt: Silicio slėnis
+    lv: Silīcija ieleja
+    mk: Силициумска Долина
+    ml: സിലിക്കൺ വാലി
+    mn: Цахиурын хөндий
+    mr: सिलिकॉन व्हॅली
+    ms: Silicon Valley
+    mul: Silicon Valley
+    my: ဆီလီကွန်ဗယ်လီ
+    nan: Si-lí-khóng soaⁿ-kok
+    nb: Silicon Valley
+    nds-nl: Silicon Valley
+    nl: Silicon Valley
+    nn: Silicon Valley
+    oc: Silicon Valley
+    pa: ਸਿਲੀਕਾਨ ਘਾਟੀ
+    pl: Dolina Krzemowa
+    pnb: سلیکون ویلی
+    pt: Vale do Silício
+    pt-br: Vale do Silício
+    rki: ဆီလီကွန်ဗယ်လီ(Silicon Valley)
+    ro: Silicon Valley
+    ru: Кремниевая долина
+    sah: Силикон хочото
+    sco: Silicon Valley
+    sh: Silicijumska dolina
+    sk: Silicon Valley
+    sl: Silicijeva dolina
+    smn: Tinnoleehi
+    sr: Силицијумска долина
+    sr-ec: Силицијумска долина
+    sr-el: Silicijumska dolina
+    sv: Silicon Valley
+    syl: ꠍꠤꠟꠤꠇꠘ ꠜꠦꠟꠤ
+    ta: சிலிக்கான் பள்ளத்தாக்கு
+    te: సిలికాన్ వ్యాలి
+    th: ซิลิคอนแวลลีย์
+    tr: Silikon Vadisi
+    uk: Кремнієва долина
+    ur: سیلیکون ویلی
+    uz: Silicon vodiysi
+    vi: Thung lũng Silicon
+    war: Silicon Valley
+    wuu: 硅谷
+    yue: 矽谷
+    zh: 硅谷
+    zh-cn: 硅谷
+    zh-hans: 硅谷
+    zh-hant: 矽谷
+    zh-hk: 矽谷
+    zh-sg: 硅谷
+    zh-tw: 矽谷
+aliases:
+- Dolina Krzemowa
+- Dyffryn Silicon
+- Geliyê Silîkonê
+- Gleann an tSileacain
+- Lebah Silikon
+- Lebak Silikon
+- Lembah Silikon
+- Piilaakso
+- Si-lí-khóng soaⁿ-kok
+- Silicijeva dolina
+- Silicijska dolina
+- Silicijumska dolina
+- Silicio slėnis
+- Silicium Vallis
+- Silicon Valley
+- Silicon vodiysi
+- Siliko-Valo
+- Silikon Vadisi
+- Silikonska dolina
+- Silīcija ieleja
+- Si̍t-kuk
+- Szilícium-völgy
+- Sïlïkon alqabı
+- Thung lũng Silicon
+- Tinnoleehi
+- Vale do Silício
+- Κοιλάδα του Πυριτίου
+- Крамянёвая даліна
+- Кремнієва долина
+- Кремни лапамӗ
+- Кремниевая долина
+- Силикон алқабы
+- Силикон хочото
+- Силицијумска долина
+- Силициева долина
+- Силициумска Долина
+- Цахиурын хөндий
+- Սիլիկոն Վալի
+- עמק הסיליקון
+- دره سیلیکون
+- سلیکون ویلی
+- سىيلىيكون القابى
+- سیلیکون والئی
+- سیلیکون ویلی
+- وادى سليكون
+- وادي السيليكون
+- सिलिकन भ्याली
+- सिलिकॉन वैली
+- सिलिकॉन व्हॅली
+- সিলিকন ভ্যালি
+- ਸਿਲੀਕਾਨ ਘਾਟੀ
+- સિલિકૉન વૅલી
+- சிலிக்கான் பள்ளத்தாக்கு
+- సిలికాన్ వ్యాలి
+- സിലിക്കൺ വാലി
+- ซิลิคอนแวลลีย์
+- ဆီလီကွန်ဗယ်လီ
+- ဆီလီကွန်ဗယ်လီ(Silicon Valley)
+- სილიკონის ველი
+- シリコンバレー
+- 矽谷
+- 硅谷
+- ꠍꠤꠟꠤꠇꠘ ꠜꠦꠟꠤ
+- 실리콘 밸리
+---
 # [[Silicon_Valley]] 
 
 > Silicon Valley is a region in Northern California 

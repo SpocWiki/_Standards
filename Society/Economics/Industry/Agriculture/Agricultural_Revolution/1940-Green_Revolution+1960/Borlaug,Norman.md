@@ -1,9 +1,41 @@
 ---
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 aliases:
-- "Norman Borlaug"
-- "Norman Ernest Borlaug"
 - Borlaug,Norman
+- Norman Borlaug
+- Norman Borloug
+- Norman Ernest Borlaug
+- Norman Ernestus Borlaug
+- Normans Borlougs
+- Νόρμαν Μπόρλογκ
+- Норман Борлауг
+- Норман Борлог
+- Норман Борлоуг
+- Норман Эрнест Борлоуг
+- Норман Эрнэст Барлоўг
+- Նորման Էռնեստ Բորլոուգ
+- נורמן בורלוג
+- نارمن بورلاگ
+- نورمان بورلاوج
+- نورمن بورلاق
+- نورمن بورلاگ
+- نۆرمانئە رنەست بۆرلاوگ
+- नार्मन बोरलाग
+- नार्मन् बोर्लाग्
+- नॉर्मन बोरलॉग
+- प्रोफेसर नारमन बोरलॉग
+- নরম্যান বোরলাউগ
+- ਨੌਰਮਨ ਬੋਰਲੌਗ
+- நார்மன் போர்லாக்
+- నార్మన్ బోర్లాగ్
+- ನಾರ್ಮನ್ ಬೊರ್ಲಾಗ್
+- നോർമൻ ബോർലോഗ്
+- นอร์แมน บอร์ล็อก
+- ნორმან ბორლოუგი
+- ノーマン・ボーローグ
+- 諾曼·布勞格
+- 诺曼·布劳格
+- 노먼 볼로그
 award_received:
 - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
 - '[[_Standards/WikiData/WD~NAS_Public_Welfare_Medal,4811818]]'
@@ -20,9 +52,9 @@ award_received:
 - '[[_Standards/WikiData/WD~Fellow_of_Pakistan_Academy_of_Sciences,59767926]]'
 - '[[_Standards/WikiData/WD~Honorary_doctorate_of_the_University_of_Florida,110610920]]'
 - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
-birth_name: "Norman Ernest Borlaug"
+birth_name: Norman Ernest Borlaug
 cause_of_death: '[[_Standards/WikiData/WD~non_Hodgkin_lymphoma,1138590]]'
-Commons_category: "Norman Borlaug"
+Commons_category: Norman Borlaug
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 date_of_birth: 1914-03-25
 date_of_death: 2009-09-12
@@ -37,7 +69,7 @@ field_of_work:
 - '[[_Standards/WikiData/WD~agronomy,173113]]'
 given_name: '[[_Standards/WikiData/WD~Norman,1218555]]'
 has_id_wikidata: Q154824
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/Norman%20Borlaug.jpg"
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Norman%20Borlaug.jpg
 instance_of:
 - '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 000000012119907X
@@ -60,7 +92,7 @@ member_of:
 - '[[_Standards/WikiData/WD~Indian_National_Science_Academy,2095524]]'
 - '[[_Standards/WikiData/WD~Brazilian_Academy_of_Sciences,2497232]]'
 - '[[_Standards/WikiData/WD~Royal_Academy_of_Engineering_of_Spain,6101699]]'
-name_in_native_language: "Norman Borlaug"
+name_in_native_language: Norman Borlaug
 occupation:
 - '[[_Standards/WikiData/WD~engineer,81096]]'
 - '[[_Standards/WikiData/WD~biologist,864503]]'
@@ -68,15 +100,108 @@ occupation:
 - '[[_Standards/WikiData/WD~agronomist,1781198]]'
 - '[[_Standards/WikiData/WD~geneticist,3126128]]'
 - '[[_Standards/WikiData/WD~forestry_engineer,16021386]]'
-PAN_member: "BORLAUG, Norman Ernest"
+PAN_member: BORLAUG, Norman Ernest
 place_of_birth: '[[_Standards/WikiData/WD~Cresco,1914623]]'
 place_of_death: '[[_Standards/WikiData/WD~Dallas,16557]]'
 religion_or_worldview:
 - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 U_S_National_Archives_Identifier: 10569996
+dv_has_:
+  name_:
+    ace: Norman Borlaug
+    ar: نورمان بورلاوج
+    arz: نورمان بورلاوج
+    ast: Norman Borlaug
+    azb: نورمن بورلاق
+    be: Норман Эрнэст Барлоўг
+    be-tarask: Норман Эрнэст Барлоўг
+    bg: Норман Борлауг
+    bho: नार्मन बोरलाग
+    bn: নরম্যান বোরলাউগ
+    ca: Norman Borlaug
+    cs: Norman Borlaug
+    cy: Norman Borlaug
+    da: Norman Borlaug
+    dag: Norman Borlaug
+    de: Norman Borlaug
+    el: Νόρμαν Μπόρλογκ
+    en: Norman Borlaug
+    eo: Norman Borlaug
+    es: Norman Borlaug
+    et: Norman Borlaug
+    eu: Norman Ernest Borlaug
+    fa: نورمن بورلاگ
+    fi: Norman Borlaug
+    fr: Norman Borlaug
+    ga: Norman Borlaug
+    gl: Norman Borlaug
+    he: נורמן בורלוג
+    hi: प्रोफेसर नारमन बोरलॉग
+    hr: Norman Borlaug
+    hu: Norman Borlaug
+    hy: Նորման Էռնեստ Բորլոուգ
+    id: Norman Borlaug
+    io: Norman Borlaug
+    is: Norman Borlaug
+    it: Norman Borlaug
+    ja: ノーマン・ボーローグ
+    ka: ნორმან ბორლოუგი
+    kn: ನಾರ್ಮನ್ ಬೊರ್ಲಾಗ್
+    ko: 노먼 볼로그
+    ku: Norman Ernest Borlaug
+    ku-arab: نۆرمانئە رنەست بۆرلاوگ
+    ku-latn: Norman Ernest Borlaug
+    la: Norman Ernestus Borlaug
+    lb: Norman Ernest Borlaug
+    lt: Norman Borlaug
+    lv: Normans Borlougs
+    mg: Norman Borlaug
+    mk: Норман Борлог
+    ml: നോർമൻ ബോർലോഗ്
+    mr: नॉर्मन बोरलॉग
+    ms: Norman Borlaug
+    mul: Norman Borlaug
+    nan: Norman Borlaug
+    nb: Norman Ernest Borlaug
+    nds: Norman Ernest Borlaug
+    nl: Norman Borlaug
+    nn: Norman Ernest Borlaug
+    pa: ਨੌਰਮਨ ਬੋਰਲੌਗ
+    pam: Norman Borlaug
+    pl: Norman Borlaug
+    pnb: نارمن بورلاگ
+    pt: Norman Borlaug
+    pt-br: Norman Borlaug
+    ro: Norman Borlaug
+    ru: Норман Эрнест Борлоуг
+    sa: नार्मन् बोर्लाग्
+    sh: Norman Borlaug
+    sl: Norman Borlaug
+    sq: Norman Borlaug
+    sr: Norman Borloug
+    sv: Norman Borlaug
+    ta: நார்மன் போர்லாக்
+    te: నార్మన్ బోర్లాగ్
+    th: นอร์แมน บอร์ล็อก
+    tr: Norman Ernest Borlaug
+    uk: Норман Борлоуг
+    ur: نارمن بورلاگ
+    uz: Norman Borlaug
+    vi: Norman Borlaug
+    war: Norman Borlaug
+    wuu: 诺曼·布劳格
+    xmf: ნორმან ბორლოუგი
+    yo: Norman Borlaug
+    yue: 諾曼·布勞格
+    zh: 诺曼·布劳格
+    zh-cn: 诺曼·布劳格
+    zh-hans: 诺曼·布劳格
+    zh-hant: 諾曼·布勞格
+    zh-hk: 諾曼·布勞格
+    zh-sg: 诺曼·布劳格
+    zh-tw: 諾曼·布勞格
 ---
-
 # [[Borlaug,Norman]] 
 
 #has_/time_/started ::  1914-03-25 

@@ -1,19 +1,132 @@
 ---
 aliases:
+- forshiméadracht
+- siêu đối xứng
+- supersimetreso
+- Supersimetri
+- supersimetria
+- supersimetrie
+- supersimetrija
+- supersimetrio
+- supersimetría
+- supersimmetria
+- supersimmetrie
+- supersimmetriya
+- supersymetria
+- supersymetrie
+- supersymmetri
+- supersymmetria
+- Supersymmetrie
+- supersymmetry
+- supersymétrie
+- supersümmeetria
+- suprasimetria
+- swpersïmmetrïya
+- szuperszimmetria
+- süpersimetri
+- υπερσυμμετρία
+- суперсіметрыя
+- суперсиметрія
+- суперсиметрија
+- суперсиметрия
+- суперсимметрия
+- супэрсымэтрыя
+- սուպերսիմետրիա
+- סופר-סימטריה
+- ابرتقارن
+- تناظر فائق
+- سۋپەرسىيممەترىييا
+- ਸੁੱਪਰ-ਸਮਰੂਪਤਾ
+- สมมาตรยิ่งยวด
+- 超对称
+- 超対称性
+- 超對稱
+- 초대칭
 has_id_wikidata: Q193442
-part_of: "[[_Standards/WikiData/WD~modern_physics,658544]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]"
+part_of: '[[_Standards/WikiData/WD~modern_physics,658544]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~theoretical_physics,18362]]"
-  - "[[_Standards/WikiData/WD~quantum_field_theory,54505]]"
+- '[[_Standards/WikiData/WD~theoretical_physics,18362]]'
+- '[[_Standards/WikiData/WD~quantum_field_theory,54505]]'
 Commons_category: Supersymmetry
 short_name: SUSY
 Stack_Exchange_tag:
-  - https://mathoverflow.net/tags/supersymmetry
-  - https://physics.stackexchange.com/tags/supersymmetry
-Dewey_Decimal_Classification: "539.725"
+- https://mathoverflow.net/tags/supersymmetry
+- https://physics.stackexchange.com/tags/supersymmetry
+Dewey_Decimal_Classification: 539.725
+dv_has_:
+  name_:
+    af: supersimmetrie
+    ar: تناظر فائق
+    ast: supersimetría
+    az: supersimmetriya
+    be: суперсіметрыя
+    be-tarask: супэрсымэтрыя
+    bg: суперсиметрия
+    ca: supersimetria
+    cs: supersymetrie
+    da: supersymmetri
+    de: Supersymmetrie
+    el: υπερσυμμετρία
+    en: supersymmetry
+    en-ca: supersymmetry
+    en-gb: supersymmetry
+    eo: supersimetrio
+    es: supersimetría
+    et: supersümmeetria
+    eu: Supersimetria
+    fa: ابرتقارن
+    fi: supersymmetria
+    fr: supersymétrie
+    ga: forshiméadracht
+    gl: supersimetría
+    he: סופר-סימטריה
+    hu: szuperszimmetria
+    hy: սուպերսիմետրիա
+    ia: supersymmetria
+    id: Supersimetri
+    io: supersimetreso
+    it: supersimmetria
+    ja: 超対称性
+    kk: суперсимметрия
+    kk-arab: سۋپەرسىيممەترىييا
+    kk-cn: سۋپەرسىيممەترىييا
+    kk-cyrl: суперсимметрия
+    kk-kz: суперсимметрия
+    kk-latn: swpersïmmetrïya
+    kk-tr: swpersïmmetrïya
+    ko: 초대칭
+    la: supersymmetria
+    lfn: suprasimetria
+    lt: supersimetrija
+    mk: суперсиметрија
+    nb: supersymmetri
+    nl: supersymmetrie
+    nn: supersymmetri
+    pa: ਸੁੱਪਰ-ਸਮਰੂਪਤਾ
+    pl: supersymetria
+    pt: supersimetria
+    pt-br: supersimetria
+    ro: supersimetrie
+    ru: суперсимметрия
+    sk: supersymetria
+    sl: supersimetrija
+    sr: суперсиметрија
+    sv: supersymmetri
+    th: สมมาตรยิ่งยวด
+    tr: süpersimetri
+    tt: суперсимметрия
+    uk: суперсиметрія
+    vi: siêu đối xứng
+    yue: 超對稱
+    zh: 超对称
+    zh-cn: 超对称
+    zh-hans: 超对称
+    zh-hant: 超對稱
+    zh-hk: 超對稱
+    zh-sg: 超对称
+    zh-tw: 超對稱
 ---
-
 # [[Supersymmetry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Supersymmetry,193442|WD~Supersymmetry,193442]]  

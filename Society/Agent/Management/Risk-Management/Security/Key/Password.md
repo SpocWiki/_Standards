@@ -1,31 +1,209 @@
 ---
 aliases:
-  - passcode
-  - Passwort
-  - personal identification number
-  - PIN
-  - passphrase
-  - Password
+- adgangskode
+- contrasenya
+- contraseña
+- contrasinal
+- geslo
+- hasło
+- heslo
+- jelszó
+- Kalimai ubur
+- kata laluan
+- kata sandi
+- kontrasenyas
+- kupu whakahipa
+- Lozinka
+- Lykilorð
+- lösenord
+- Mot de passa
+- mot de passe
+- Muuma
+- Mật khẩu truy nhập
+- Nywila
+- Paeswatt
+- palavra-passe
+- palora d'òrdini
+- Parol
+- Parola
+- Parole
+- parolă
+- Parolʹ
+- Parool
+- pasahitz
+- passcode
+- passord
+- passphrase
+- Password
+- Passwort
+- Pasuurt
+- pasvorto
+- personal identification number
+- PIN
+- salasana
+- senha
+- slaptažodis
+- tessera
+- Vosanicuru
+- wachtwoord
+- Wachtwurd
+- Wagwoord
+- јавка
+- гузарвожа
+- Лозинка
+- парола
+- пароль
+- серсүз
+- Шолыпмут
+- Գաղտնաբառ
+- סיסמה
+- װאָרטצײכן
+- تێپەڕوشە
+- كلمة السر
+- پارلفظ
+- پارول
+- پاس ورڈ
+- کات لالوان
+- گذرواژه
+- परवलीचा शब्द
+- पासवर्ड
+- পাসওয়ার্ড
+- ਪਛਾਣ-ਸ਼ਬਦ
+- கடவுச் சொல்
+- రహస్య సంకేత పదం
+- രഹസ്യവാക്ക്
+- รหัสผ่าน
+- စကားဝှက်
+- ᎪᎶᏍᎩ ᎧᏁᏨ
+- パスワード
+- 密码
+- 密碼
+- 符節
+- 비밀번호
 has_id_wikidata: Q161157
 subclass_of:
-  - '[[_Standards/WikiData/WD~string,184754]]'
-  - '[[_Standards/WikiData/WD~shared_secret,462624]]'
-  - '[[_Standards/WikiData/WD~personal_data,3702971]]'
-  - '[[_Standards/WikiData/WD~Q13118563,13118563]]'
+- '[[_Standards/WikiData/WD~string,184754]]'
+- '[[_Standards/WikiData/WD~shared_secret,462624]]'
+- '[[_Standards/WikiData/WD~personal_data,3702971]]'
+- '[[_Standards/WikiData/WD~Q13118563,13118563]]'
 has_use: '[[_Standards/WikiData/WD~authentication,212108]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Senha,21436935]]'
-  - '[[_Standards/WikiData/WD~passkey,118213879]]'
+- '[[_Standards/WikiData/WD~Senha,21436935]]'
+- '[[_Standards/WikiData/WD~passkey,118213879]]'
 facet_of: '[[_Standards/WikiData/WD~username_password_authentication,115274073]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Passwort-Feld.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Unknackbar%20aber%20einfach%20zu%20merken%21%20-%20Passw%C3%B6rter%20Einfach%20Erkl%C3%A4rt%20%281-5%29.webm
 equivalent_class: http://d3fend.mitre.org/ontologies/d3fend.owl#Password
 Stack_Exchange_tag: https://stackoverflow.com/tags/passwords
+dv_has_:
+  name_:
+    af: Wagwoord
+    ar: كلمة السر
+    ast: Contraseña
+    az: Parol
+    be-tarask: пароль
+    bg: парола
+    bn: পাসওয়ার্ড
+    ca: contrasenya
+    chr: ᎪᎶᏍᎩ ᎧᏁᏨ
+    ckb: تێپەڕوشە
+    cs: heslo
+    da: adgangskode
+    de: Passwort
+    en: password
+    en-us: password
+    eo: pasvorto
+    es: contraseña
+    et: Parool
+    eu: pasahitz
+    fa: گذرواژه
+    fi: salasana
+    fj: Vosanicuru
+    fr: mot de passe
+    frr: Pasuurt
+    fy: Wachtwurd
+    gl: contrasinal
+    gsw: Passwort
+    he: סיסמה
+    hi: पासवर्ड
+    hil: kontrasenyas
+    hr: Lozinka
+    hu: jelszó
+    hy: Գաղտնաբառ
+    id: kata sandi
+    is: Lykilorð
+    it: password
+    ja: パスワード
+    ki: Muuma
+    kk: Пароль
+    kk-arab: پارول
+    kk-cn: پارول
+    kk-cyrl: Пароль
+    kk-kz: Пароль
+    kk-latn: Parolʹ
+    kk-tr: Parolʹ
+    ko: 비밀번호
+    ky: Пароль
+    la: tessera
+    lmo: Password
+    lt: slaptažodis
+    lv: Parole
+    lzh: 符節
+    mhr: Шолыпмут
+    mi: kupu whakahipa
+    mk: јавка
+    ml: രഹസ്യവാക്ക്
+    mr: परवलीचा शब्द
+    ms: kata laluan
+    ms-arab: کات لالوان
+    my: စကားဝှက်
+    nb: passord
+    nl: wachtwoord
+    nn: passord
+    oc: Mot de passa
+    pa: ਪਛਾਣ-ਸ਼ਬਦ
+    pdc: Paeswatt
+    pl: hasło
+    pms: Password
+    pnb: پاس ورڈ
+    pt: palavra-passe
+    pt-br: senha
+    ro: parolă
+    ru: пароль
+    scn: palora d'òrdini
+    sh: Lozinka
+    sl: geslo
+    sr: Лозинка
+    sr-ec: лозинка
+    sr-el: lozinka
+    sv: lösenord
+    sw: Nywila
+    ta: கடவுச் சொல்
+    te: రహస్య సంకేత పదం
+    tg: гузарвожа
+    tg-latn: Kalimai ubur
+    th: รหัสผ่าน
+    tr: Parola
+    tt: серсүз
+    tt-cyrl: серсүз
+    uk: пароль
+    ur: پارلفظ
+    uz: Parol
+    vi: Mật khẩu truy nhập
+    wuu: 密码
+    yi: װאָרטצײכן
+    yue: 密碼
+    zh: 密碼
+    zh-cn: 密码
+    zh-hans: 密码
+    zh-hant: 密碼
+    zh-hk: 密碼
+    zh-sg: 密码
+    zh-tw: 密碼
 ---
-
 # [[Password]] 
 
 #is_/same_as :: [[WD~Password,161157]] 

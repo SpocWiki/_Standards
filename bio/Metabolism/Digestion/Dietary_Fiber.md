@@ -1,12 +1,144 @@
 ---
 aliases:
-  - Dietary fiber
-  - Ballaststoff
-  - roughage
-  - Dietary_Fiber
-  - Dietary Fiber
+- Ballaststoff
+- błonnik
+- Chất xơ
+- Dieetvesel
+- dieta fibro
+- dieta me fibra
+- Dietary fiber
+- dietary fibre
+- Dietary_Fiber
+- Diyet lifi
+- fibra alimentare
+- Fibra alimentari
+- Fibra alimentaria
+- fibra alimentària
+- fibra dietética
+- fibre alimentaire
+- fibră alimentară
+- Fiedingsfezels
+- Janari zuntz
+- Kiudained
+- Kletchatka
+- Kostfiber
+- Kostfibre
+- prehranska vlaknina
+- ravintokuitu
+- roughage
+- Serabut diet
+- Serat pangan
+- Skaidulinių medžiagų
+- snáithín cothaithe
+- vláknina
+- voedingsvezels
+- étkezési rost
+- šķiedrvielas
+- Φυτικές ίνες
+- Апат-çимĕçри чĕлкĕмсем
+- Баластна речовина
+- Баластни вещества
+- Крмно биље
+- пищевые волокна
+- прехранбени влакна
+- ризык сүсе
+- Тағамдық талшықтар
+- харчовае валакно
+- Харчовыя валокны
+- Սննդային մանրաթելեր
+- סיבים תזונתיים
+- ألياف غذائية
+- فیبر غذایی
+- ڕیشاڵی خۆراکی
+- आहारीय रेशा
+- খাদ্য আঁশ
+- ਮੋਟਾ ਅਹਾਰ
+- நார்ப்பொருள்
+- పీచు
+- നാരുള്ള ഭക്ഷണം
+- เส้นใยอาหาร
+- ເສັ້ນໄຍອາຫານ
+- 膳食纖維
+- 膳食纤维
+- 食物繊維
+- 식이 섬유
+has_id_wikidata: Q215210
+dv_has_:
+  name_:
+    af: Dieetvesel
+    ar: ألياف غذائية
+    ast: Fibra alimentaria
+    be: Харчовыя валокны
+    be-tarask: харчовае валакно
+    bg: Баластни вещества
+    bn: খাদ্য আঁশ
+    ca: fibra alimentària
+    ckb: ڕیشاڵی خۆراکی
+    cs: vláknina
+    cv: Апат-çимĕçри чĕлкĕмсем
+    da: Kostfibre
+    de: Ballaststoff
+    el: Φυτικές ίνες
+    en: dietary fiber
+    en-gb: dietary fibre
+    eo: dieta fibro
+    es: fibra alimentaria
+    et: Kiudained
+    eu: Janari zuntz
+    fa: فیبر غذایی
+    fi: ravintokuitu
+    fr: fibre alimentaire
+    fy: Fiedingsfezels
+    ga: snáithín cothaithe
+    gl: Fibra alimentaria
+    he: סיבים תזונתיים
+    hi: आहारीय रेशा
+    hu: étkezési rost
+    hy: Սննդային մանրաթելեր
+    id: Serat pangan
+    it: fibra alimentare
+    ja: 食物繊維
+    kk: Тағамдық талшықтар
+    ko: 식이 섬유
+    la: Fibra alimentaria
+    lo: ເສັ້ນໄຍອາຫານ
+    lt: Skaidulinių medžiagų
+    lv: šķiedrvielas
+    mk: прехранбени влакна
+    ml: നാരുള്ള ഭക്ഷണം
+    ms: Serabut diet
+    mt: Fibra alimentari
+    nb: Kostfiber
+    nl: voedingsvezels
+    nn: kostfiber
+    pa: ਮੋਟਾ ਅਹਾਰ
+    pl: błonnik
+    pt: fibra dietética
+    ro: fibră alimentară
+    ru: пищевые волокна
+    sk: Vláknina
+    sl: prehranska vlaknina
+    sq: dieta me fibra
+    sr: Крмно биље
+    sv: kostfiber
+    ta: நார்ப்பொருள்
+    te: పీచు
+    th: เส้นใยอาหาร
+    tr: Diyet lifi
+    tt: ризык сүсе
+    uk: Баластна речовина
+    uz: Kletchatka
+    vi: Chất xơ
+    wuu: 膳食纤维
+    yue: 膳食纖維
+    zh: 膳食纖維
+    zh-cn: 膳食纤维
+    zh-hans: 膳食纤维
+    zh-hant: 膳食纖維
+    zh-hk: 膳食纖維
+    zh-sg: 膳食纤维
+    zh-tw: 膳食纖維
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Dietary fiber** (fibre in Commonwealth English) or roughage is the portion of plant-derived food 

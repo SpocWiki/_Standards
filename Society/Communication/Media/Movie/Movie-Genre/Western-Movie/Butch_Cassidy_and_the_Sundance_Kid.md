@@ -1,9 +1,105 @@
 ---
 aliases:
-  - Butch Cassidy and the Sundance Kid
-  - Butch_Cassidy_and_the_Sundance_Kid
+- Bačs Kesidijs un Sandenss Kids
+- Butch Cassidy
+- Butch Cassidy a Sundance Kid
+- Butch Cassidy and the Sundance Kid
+- Butch Cassidy et le Kid
+- Butch Cassidy i Sundance Kid
+- Butch Cassidy in Sundance Kid
+- Butch Cassidy och Sundance Kid
+- Butch Cassidy og Sundance
+- Butch Cassidy és a Sundance kölyök
+- Butch Cassidy și Sundance Kid
+- Butch ja Kid – auringonlaskun ratsastajat
+- Butch_Cassidy_and_the_Sundance_Kid
+- Bučas Kesidis ir Sandensas Kidas
+- Filem Butch Cassidy and the Sundance Kid
+- Sonsuz Ölüm
+- Zwei Banditen
+- Οι Δύο Ληστές
+- Бутч Кэссиди жана Санденс Кид
+- Бутч Кэссиди и Санденс Кид
+- Буч Касиди и Санденс Кид
+- Буч Касиди и Сънданс Кид
+- Буч Кессіді і Санденс Кід (фільм)
+- קיד וקסידי
+- بوتش كاسيدى وساندانس كيد
+- بوتش كاسيدي وساندانس كيد
+- بوچ کسیدی و ساندنس کید
+- سونسوز اؤلوم
+- बुच कैसिडी और सनडांस किड
+- বুচ ক্যাসিডি অ্যান্ড দ্য সানড্যান্স কিড
+- สองสิงห์ชาติไอ้เสือ
+- 明日に向って撃て!
+- 神枪手与智多星
+- 神槍手與智多星
+- 虎豹小霸王
+- 龙虎双寇
+- 내일을 향해 쏴라
+has_id_wikidata: Q232000
+dv_has_:
+  name_:
+    af: Butch Cassidy and the Sundance Kid
+    ar: بوتش كاسيدي وساندانس كيد
+    arz: بوتش كاسيدى وساندانس كيد
+    ast: Butch Cassidy and the Sundance Kid
+    azb: سونسوز اؤلوم
+    bg: Буч Касиди и Сънданс Кид
+    bn: বুচ ক্যাসিডি অ্যান্ড দ্য সানড্যান্স কিড
+    bs: Butch Cassidy i Sundance Kid
+    ca: Butch Cassidy and the Sundance Kid
+    cs: Butch Cassidy a Sundance Kid
+    cy: Butch Cassidy and the Sundance Kid
+    da: Butch Cassidy og Sundance
+    de: Zwei Banditen
+    de-ch: Zwei Banditen
+    el: Οι Δύο Ληστές
+    en: Butch Cassidy and the Sundance Kid
+    en-ca: Butch Cassidy and the Sundance Kid
+    en-gb: Butch Cassidy and the Sundance Kid
+    eo: Butch Cassidy and the Sundance Kid
+    es: Butch Cassidy and the Sundance Kid
+    eu: Butch Cassidy and the Sundance Kid
+    fa: بوچ کسیدی و ساندنس کید
+    fi: Butch ja Kid – auringonlaskun ratsastajat
+    fr: Butch Cassidy et le Kid
+    he: קיד וקסידי
+    hu: Butch Cassidy és a Sundance kölyök
+    id: Butch Cassidy and the Sundance Kid
+    it: Butch Cassidy
+    ja: 明日に向って撃て!
+    ko: 내일을 향해 쏴라
+    ky: Бутч Кэссиди жана Санденс Кид
+    lb: Butch Cassidy and the Sundance Kid
+    lt: Bučas Kesidis ir Sandensas Kidas
+    lv: Bačs Kesidijs un Sandenss Kids
+    ms: Filem Butch Cassidy and the Sundance Kid
+    nb: Butch Cassidy and the Sundance Kid
+    nl: Butch Cassidy and the Sundance Kid
+    pa: बुच कैसिडी और सनडांस किड
+    pl: Butch Cassidy i Sundance Kid
+    pt: Butch Cassidy and the Sundance Kid
+    pt-br: Butch Cassidy and the Sundance Kid
+    ro: Butch Cassidy și Sundance Kid
+    ru: Бутч Кэссиди и Санденс Кид
+    sh: Butch Cassidy i Sundance Kid
+    sk: Butch Cassidy a Sundance Kid
+    sl: Butch Cassidy in Sundance Kid
+    sr: Буч Касиди и Санденс Кид
+    sv: Butch Cassidy och Sundance Kid
+    th: สองสิงห์ชาติไอ้เสือ
+    tr: Sonsuz Ölüm
+    uk: Буч Кессіді і Санденс Кід (фільм)
+    yue: 神槍手與智多星
+    zh: 虎豹小霸王
+    zh-cn: 神枪手与智多星
+    zh-hans: 神枪手与智多星
+    zh-hant: 神槍手與智多星
+    zh-hk: 神槍手與智多星
+    zh-sg: 龙虎双寇
+    zh-tw: 虎豹小霸王
 ---
-
 #has_/genre :: [ [[../../../../Genre/Fiction/Western(Genre)]], [[Buddy-Story]] ]
 
 

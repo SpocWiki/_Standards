@@ -1,9 +1,20 @@
 ---
 aliases:
-  - Beatles~Abbey_Road
-  - ''
-  - Abbey_Road(Beatles)
-  - Abbey Road(Beatles)
+- Abbey Road
+- Abbey Road (albom)
+- Abbey Road (album)
+- Abbey Road(Beatles)
+- Abbey_Road(Beatles)
+- Beatles~Abbey_Road
+- kalama musi Api Lo
+- Аббеy Роад
+- آبي رود
+- ابی رود
+- অ্যাবি রোড
+- แอบบีโรด
+- アビイ・ロード
+- 艾比路
+- 阿比路
 confidential: private
 cssclasses: private note
 draft: true
@@ -20,12 +31,88 @@ linkTitle: Beatles~Abbey_Road
 publish: false
 publishDate: ''
 tags:
-  - Beatles~Abbey_Road
-  - ''
+- Beatles~Abbey_Road
+- ''
 title: Beatles~Abbey_Road
 type: private_note
+has_id_wikidata: Q173643
+dv_has_:
+  name_:
+    af: Abbey Road (album)
+    an: Abbey Road
+    ar: آبي رود
+    ast: Abbey Road
+    az: Abbey Road
+    be: Abbey Road
+    be-tarask: Abbey Road
+    bg: Abbey Road
+    bn: অ্যাবি রোড
+    br: Abbey Road (albom)
+    bs: Abbey Road
+    ca: Abbey Road
+    ceb: Abbey Road
+    cs: Abbey Road
+    da: Abbey Road
+    de: Abbey Road
+    el: Abbey Road
+    en: Abbey Road
+    eo: Abbey Road
+    es: Abbey Road
+    et: Abbey Road
+    eu: Abbey Road
+    fa: ابی رود
+    fi: Abbey Road
+    fo: Abbey Road
+    fr: Abbey Road
+    ga: Abbey Road
+    gl: Abbey Road
+    gv: Abbey Road
+    he: Abbey Road
+    hr: Abbey Road
+    hu: Abbey Road
+    id: Abbey Road
+    is: Abbey Road
+    it: Abbey Road
+    ja: アビイ・ロード
+    ka: Abbey Road
+    ko: Abbey Road
+    la: Abbey Road
+    lt: Abbey Road
+    lv: Abbey Road
+    ms: Abbey Road (album)
+    mul: Abbey Road
+    nb: Abbey Road
+    nl: Abbey Road
+    nn: Abbey Road
+    pl: Abbey Road
+    pt: Abbey Road
+    pt-br: Abbey Road
+    ro: Abbey Road
+    ru: Abbey Road
+    sc: Abbey Road
+    sco: Abbey Road
+    sh: Abbey Road
+    sk: Abbey Road
+    sl: Abbey Road
+    sq: Abbey Road
+    sr: Abbey Road
+    sr-ec: Аббеy Роад
+    sr-el: Abbey Road
+    sv: Abbey Road
+    th: แอบบีโรด
+    tok: kalama musi Api Lo
+    tr: Abbey Road
+    uk: Abbey Road
+    vi: Abbey Road
+    yue: Abbey Road
+    zh: 艾比路
+    zh-cn: 阿比路
+    zh-hans: 阿比路
+    zh-hant: 艾比路
+    zh-hk: 艾比路
+    zh-sg: 阿比路
+    zh-tw: 艾比路
 ---
-
 # [[Abbey_Road(Beatles)]] 
 
 ## #has_/text_of_/abstract 

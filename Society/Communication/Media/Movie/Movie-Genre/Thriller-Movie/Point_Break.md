@@ -1,9 +1,76 @@
 ---
 aliases:
-  - Point Break
-  - Point_Break
+- Gefährliche Brandung
+- Holtpont
+- Li diuen Bodhi
+- Lūzuma punkts
+- Myrskyn ratsastajat
+- Na fali
+- Pakleni val
+- Point Break
+- Point Break - dödens utmanare
+- Point Break - Punto di rottura
+- Point_Break
+- На гребені хвилі
+- На гребне волны
+- Тачка прекида
+- Точка на пречупване
+- Ալիքի կատարին
+- נקודת פריצה
+- خاڵی شکان
+- نقطة فاصلة
+- نقطه شکست
+- نقطه فاصله
+- পয়েণ্ট ব্রেক
+- பாயின்ட் பிரேக்
+- ハートブルー
+- 驚爆點
+- 폭풍 속으로
+has_id_wikidata: Q1146552
+dv_has_:
+  name_:
+    an: Point Break
+    ar: نقطة فاصلة
+    arz: نقطه فاصله
+    ast: Point Break
+    bg: Точка на пречупване
+    bn: পয়েণ্ট ব্রেক
+    ca: Li diuen Bodhi
+    ckb: خاڵی شکان
+    cy: Point Break
+    da: Point break
+    de: Gefährliche Brandung
+    eml: Point Break - Punto di rottura
+    en: Point Break
+    es: Point Break
+    eu: Point Break
+    fa: نقطه شکست
+    fi: Myrskyn ratsastajat
+    fr: Point Break
+    ga: Point Break
+    gl: Point Break
+    he: נקודת פריצה
+    hr: Pakleni val
+    hu: Holtpont
+    hy: Ալիքի կատարին
+    id: Point Break
+    it: Point Break - Punto di rottura
+    ja: ハートブルー
+    ko: 폭풍 속으로
+    lv: Lūzuma punkts
+    nb: Point Break
+    nds: Point Break
+    nl: Point Break
+    nn: Point Break
+    pl: Na fali
+    pt: Point Break
+    ru: На гребне волны
+    sr: Тачка прекида
+    sv: Point Break - dödens utmanare
+    ta: பாயின்ட் பிரேக்
+    uk: На гребені хвилі
+    zh: 驚爆點
 ---
-
 # [[Point_Break]] 
 
 #has_/time_/started :: 1991-07-12 

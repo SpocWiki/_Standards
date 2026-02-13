@@ -1,10 +1,26 @@
 ---
 aliases:
-  - Max_Steiner
-  - Maximilian Raoul Steiner
-  - Max Steiner
-  - Steiner
-  - Steiner,Max
+- Maks Štajner
+- Makss Stainers
+- Max Steiner
+- Maximilian Raoul Steiner
+- Max_Steiner
+- Steiner
+- Steiner,Max
+- Μαξ Στάινερ
+- Макс Стайнер
+- Макс Штайнэр
+- Մաքս Սթայներ
+- מקס שטיינר
+- ماكس شتاينر
+- ماکس اشتاینر
+- ম্যাক্স স্টাইনার
+- მაქს შტაინერი
+- マックス・スタイナー
+- 馬克斯·史坦納
+- 马克斯·史坦纳
+- 马克斯·施泰纳
+- 맥스 스타이너
 has_id_wikidata: Q350704
 ISNI: 0000000121382536
 Europeana_entity: agent/base/146893
@@ -13,17 +29,17 @@ work_period_start_: 1904-01-01T00:00:00Z
 different_from: '[[_Standards/WikiData/WD~Max_Stirner,76725]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 father: '[[_Standards/WikiData/WD~Gabor_Steiner,1488763]]'
@@ -33,25 +49,85 @@ manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Max,16422172]]'
 award_received:
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Score,_Adaptation_or_Treatment,22752811]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
 filmography: '[[_Standards/WikiData/WD~Max_Steiner_filmography,25038619]]'
 date_of_birth: 1888-05-10T00:00:00Z
 genre: '[[_Standards/WikiData/WD~opera,1344]]'
 place_of_birth: '[[_Standards/WikiData/WD~Vienna,1741]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_category: Max Steiner
 date_of_death: 1971-12-28T00:00:00Z
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/GuentherZ%202007-04-07%200122%20Wien02%20Praterstrasse72%20Gedenktafel%20Max%20Steiner.jpg
+dv_has_:
+  name_:
+    af: Max Steiner
+    an: Max Steiner
+    ar: ماكس شتاينر
+    arz: ماكس شتاينر
+    ast: Max Steiner
+    be-tarask: Макс Штайнэр
+    bn: ম্যাক্স স্টাইনার
+    ca: Max Steiner
+    cs: Max Steiner
+    da: Max Steiner
+    de: Max Steiner
+    el: Μαξ Στάινερ
+    en: Max Steiner
+    eo: Max Steiner
+    es: Max Steiner
+    et: Max Steiner
+    eu: Max Steiner
+    fa: ماکس اشتاینر
+    fi: Max Steiner
+    fr: Max Steiner
+    ga: Max Steiner
+    gl: Max Steiner
+    he: מקס שטיינר
+    hr: Max Steiner
+    hu: Max Steiner
+    hy: Մաքս Սթայներ
+    it: Max Steiner
+    ja: マックス・スタイナー
+    ka: მაქს შტაინერი
+    ko: 맥스 스타이너
+    lb: Max Steiner
+    lv: Makss Stainers
+    mg: Max Steiner
+    nb: Max Steiner
+    nl: Max Steiner
+    nn: Max Steiner
+    pap: Max Steiner
+    pl: Max Steiner
+    pt: Max Steiner
+    pt-br: Max Steiner
+    ro: Max Steiner
+    ru: Макс Стайнер
+    sh: Max Steiner
+    sl: Max Steiner
+    sq: Max Steiner
+    sr: Maks Štajner
+    sv: Max Steiner
+    tr: Max Steiner
+    uk: Макс Стайнер
+    vi: Max Steiner
+    war: Max Steiner
+    yue: 馬克斯·史坦納
+    zh: 馬克斯·史坦納
+    zh-cn: 马克斯·施泰纳
+    zh-hans: 马克斯·史坦纳
+    zh-hant: 馬克斯·史坦納
+    zh-hk: 馬克斯·史坦納
+    zh-sg: 马克斯·施泰纳
+    zh-tw: 馬克斯·史坦納
 ---
-
 # [[Steiner,Max]] 
 
 #is_/same_as :: [[WD~Max_Steiner,350704]] 

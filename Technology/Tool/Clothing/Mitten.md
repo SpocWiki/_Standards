@@ -2,8 +2,8 @@
 aliases:
   - Oven mitts
   - Mitten
+has_id_wikidata: Q1661108
 ---
-
 # [[Mitten]] 
 
 #is_/similar_to :: [[Glove]] 

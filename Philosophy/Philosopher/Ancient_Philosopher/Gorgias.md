@@ -1,8 +1,45 @@
 ---
 aliases:
+- Gorgia
+- Gorgias
+- Gorgias von Leontinoi
+- Gorgias z Leontín
+- Gorgiasz
+- Gorgija
+- Gorgio
+- Gorgiás z Leontín
+- Gorgías
+- Gorxias de Leontini
+- Gòrgies de Leontins
+- Górgias
+- Leontinoi Gorgiasz
+- Qorqi
+- Γοργίας
+- Гаргіяс
+- Горгій
+- Горгија
+- Горгий
+- Գորգիաս
+- גורגיאס
+- جورجياس
+- غورغياس
+- قورگیاس
+- ګورجېس
+- گارگیاس
+- گرجیاس
+- گرگیاس
+- ਗਾਰਜੀਆਸ
+- கார்ஜியஸ்
+- ഗോർഗിയസ്
+- გორგია
+- ゴルギアス
+- 高基亞
+- 高尔吉亚
+- 高爾吉亞
+- 고르기아스
 has_id_wikidata: Q179785
 Libris_URI: 0xbdhlhj0v44q9f
-P1015: "90088646"
+P1015: 90088646
 Europeana_entity: agent/base/145420
 PhilPapers_topic: gorgias
 Commons_category: Gorgias
@@ -10,47 +47,131 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/GORGI.html
 name_in_native_language: Γοργίας
 date_of_death: -0374-01-01T00:00:00Z
 student_of:
-  - "[[_Standards/WikiData/WD~Empedocles,83375]]"
-  - "[[_Standards/WikiData/WD~Tisias,931271]]"
+- '[[_Standards/WikiData/WD~Empedocles,83375]]'
+- '[[_Standards/WikiData/WD~Tisias,931271]]'
 movement:
-  - "[[_Standards/WikiData/WD~sophism,166955]]"
-  - "[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]"
-  - "[[_Standards/WikiData/WD~sophist,3750514]]"
-place_of_death: "[[_Standards/WikiData/WD~Larissa,178405]]"
+- '[[_Standards/WikiData/WD~sophism,166955]]'
+- '[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]'
+- '[[_Standards/WikiData/WD~sophist,3750514]]'
+place_of_death: '[[_Standards/WikiData/WD~Larissa,178405]]'
 student:
-  - "[[_Standards/WikiData/WD~Isocrates,221182]]"
-  - "[[_Standards/WikiData/WD~Polus,372798]]"
-  - "[[_Standards/WikiData/WD~Hippocrates,5264]]"
-place_of_birth: "[[_Standards/WikiData/WD~Lentini,488240]]"
-writing_language: "[[_Standards/WikiData/WD~Attic_Greek,506588]]"
+- '[[_Standards/WikiData/WD~Isocrates,221182]]'
+- '[[_Standards/WikiData/WD~Polus,372798]]'
+- '[[_Standards/WikiData/WD~Hippocrates,5264]]'
+place_of_birth: '[[_Standards/WikiData/WD~Lentini,488240]]'
+writing_language: '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Attic_Greek,506588]]"
-  - "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
+- '[[_Standards/WikiData/WD~Attic_Greek,506588]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Gordias,1413020]]"
-  - "[[_Standards/WikiData/WD~Gorgias_of_Athens,11925073]]"
-occupation: "[[_Standards/WikiData/WD~sophist,3750514]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-depicted_by: "[[_Standards/WikiData/WD~Gorgias_statue_at_Olympia,107043619]]"
-field_of_work: "[[_Standards/WikiData/WD~philosophy,5891]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Gordias,1413020]]'
+- '[[_Standards/WikiData/WD~Gorgias_of_Athens,11925073]]'
+occupation: '[[_Standards/WikiData/WD~sophist,3750514]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+depicted_by: '[[_Standards/WikiData/WD~Gorgias_statue_at_Olympia,107043619]]'
+field_of_work: '[[_Standards/WikiData/WD~philosophy,5891]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 BHCL_UUID: f6b3d59c-d48f-4ff8-af41-8ccbdea8ca40
 date_of_birth:
-  - -0482-01-01T00:00:00Z
-  - -0484-01-01T00:00:00Z
+- -0482-01-01T00:00:00Z
+- -0484-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gorgia%20di%20Leontini.png
-ISNI: "0000000448914231"
+ISNI: 0000000448914231
+dv_has_:
+  name_:
+    af: Gorgias
+    ar: غورغياس
+    arz: جورجياس
+    ast: Gorgias
+    az: Qorqi
+    azb: قورگیاس
+    be-tarask: Гаргіяс
+    bg: Горгий
+    bs: Gorgija
+    ca: Gòrgies de Leontins
+    cs: Gorgiás z Leontín
+    cy: Gorgias
+    da: Gorgias
+    de: Gorgias
+    de-ch: Gorgias von Leontinoi
+    el: Γοργίας
+    en: Gorgias
+    en-ca: Gorgias
+    en-gb: Gorgias
+    eo: Gorgio
+    es: Gorgias
+    et: Gorgias
+    eu: Gorgias
+    fa: گرگیاس
+    fi: Gorgias
+    fr: Gorgias
+    ga: Gorgias
+    gl: Gorxias de Leontini
+    grc: Γοργίας
+    he: גורגיאס
+    hr: Gorgija
+    hu: Leontinoi Gorgiasz
+    hy: Գորգիաս
+    id: Gorgias
+    is: Gorgías
+    it: Gorgia
+    ja: ゴルギアス
+    ka: გორგია
+    kk: Горгий
+    ko: 고르기아스
+    ky: Горгий
+    la: Gorgias
+    mg: Gorgias
+    mk: Горгија
+    ml: ഗോർഗിയസ്
+    mzn: گرجیاس
+    nb: Gorgias
+    nl: Gorgias
+    nn: Gorgias
+    pa: ਗਾਰਜੀਆਸ
+    pl: Gorgiasz
+    pnb: گارگیاس
+    ps: ګورجېس
+    pt: Górgias
+    pt-br: Górgias
+    ro: Gorgias
+    ru: Горгий
+    scn: Gorgia
+    sco: Gorgias
+    sh: Gorgija
+    sk: Gorgias z Leontín
+    sl: Gorgija
+    sq: Gorgias
+    sr: Горгија
+    sr-ec: Горгија
+    sr-el: Gorgija
+    sv: Gorgias
+    ta: கார்ஜியஸ்
+    tg: Горгий
+    tr: Gorgias
+    uk: Горгій
+    vi: Gorgias
+    vo: Gorgias
+    war: Gorgias
+    wuu: 高尔吉亚
+    yue: 高基亞
+    zh: 高爾吉亞
+    zh-cn: 高尔吉亚
+    zh-hans: 高尔吉亚
+    zh-hant: 高爾吉亞
+    zh-hk: 高爾吉亞
+    zh-sg: 高尔吉亚
+    zh-tw: 高爾吉亞
 ---
-
 # [[Gorgias]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gorgias,179785|WD~Gorgias,179785]] 

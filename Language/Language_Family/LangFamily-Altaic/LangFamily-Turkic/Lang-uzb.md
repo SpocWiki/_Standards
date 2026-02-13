@@ -1,63 +1,196 @@
 ---
 aliases:
+- an Úisbéiceastáinis
+- bahasa Uzbek
+- Basa Uzbèk
+- Fiteny ozbeka
+- isi-Uzbek
+- język uzbecki
+- Kiuzbeki
+- limba uzbecă
+- lingua Uzbecica
+- Lingua uzbeka
+- Lusbekänapük
+- língua uzbeque
+- Oesbekies
+- Oezbeeks
+- Oezbeeksk
+- Oosbeckish
+- ouzbek
+- ouzbekeg
+- ozbèc
+- Ozbėku kalba
+- Oʻzbek tili
+- tiếng Uzbek
+- toki Opeki
+- Tuzbikit
+- usbecu
+- Usbeeksche Spraak
+- Usbekesch
+- Usbeki keel
+- Usbekisch
+- Usbekisk
+- Usbik simi
+- uzbec
+- Uzbeckŏ gŏdka
+- uzbeco
+- uzbecu
+- uzbego
+- Uzbek
+- Uzbek bhasa
+- Uzbek dili
+- Uzbek leid
+- Uzbek-gí
+- uzbeka lingvo
+- Uzbekera
+- uzbekiska
+- uzbekk-ǩiõll
+- uzbekki
+- uzbekkielâ
+- uzbeko
+- uzbeku valoda
+- uzbekšćina
+- uzbekų kalba
+- Uzbečki jezik
+- uzbečtina
+- uzbeščina
+- Vahvuhswhbiedkez
+- Vû-tsṳ̂-phe̍t-khiet-ngî
+- Wikang Usbeko
+- Wsbeceg
+- zaboni ūzbekī
+- zimanê ûzbêkî
+- ózbеk tili
+- Özbek dili
+- Özbek tili
+- Özbekçe
+- özbək dili
+- Úsbekíska
+- üzbég
+- Ουζμπεκική γλώσσα
+- Ўзбек тили
+- Ауазбақь бызшәа
+- забони узбекӣ
+- забони ӯзбекӣ
+- Узбек кыв
+- Узбек кыл
+- Узбек тыла
+- Узбек хэл
+- Узбек чĕлхи
+- узбекаг æвзаг
+- узбекень кель
+- Узбекийн мотт
+- Узбеконь кяль
+- узбекская мова
+- узбекски език
+- узбекский язык
+- Узбекыбзэ
+- узбецька мова
+- узбечки јазик
+- узбечки језик
+- узбэцкая мова
+- Юзбек тил
+- үзбәк теле
+- Үҙбәк теле
+- Өзбек тілі
+- Өзбек тили
+- ուզբեկերեն
+- Ուզպեքերէն
+- אוזבקית
+- ئۆزبېك تىلى
+- اؤزبک تورکجهسی
+- ازبک زبان
+- ازبکی
+- ازبڪي ٻولي
+- الأوزبكي
+- الأوزبكية
+- اوزبيكى
+- اوزبکي ژبه
+- اوزبکی زبون
+- اُزبیک زَبان
+- اۊزبکي زوان
+- زبان ازبکی
+- زمانی ئۆزبەکی
+- لأوزبيكية
+- उजबेक भाषा
+- उज़्बेक भाषा
+- उझबेक भाषा
+- উজবেক ভাষা
+- ਉਜ਼ਬੁਕੀ
+- ઉઝબેક
+- உசுபேகிய மொழி
+- ഉസ്ബെക്ക് ഭാഷ
+- ภาษาอุซเบก
+- უზბეკური ენა
+- უზბეკური ნინა
+- ዑዝበክኛ
+- ᱩᱡᱽᱵᱮᱠ ᱯᱟᱹᱨᱥᱤ
+- ウズベク語
+- 乌兹别克语
+- 乌孜别克语
+- 月即別話
+- 烏孜別克語
+- 烏茲別克語
+- ꯎꯓꯕꯦꯛ ꯂꯣꯟ
+- 우즈베크어
 has_id_wikidata: Q9264
 entry_in_abbreviations_table: узб.
 short_name:
-  - özbəkcə
-  - ózbek tili
-  - узбекаг
-  - узбекский
-  - ӯзбекӣ
-  - узбек дыл
+- özbəkcə
+- ózbek tili
+- узбекаг
+- узбекский
+- ӯзбекӣ
+- узбек дыл
 native_label:
-  - ئۇزبېك تیلى
-  - Ўзбек тили
-  - Oʻzbek tili
+- ئۇزبېك تیلى
+- Ўзбек тили
+- Oʻzbek tili
 has_grammatical_case:
-  - "[[_Standards/WikiData/WD~nominative_case,131105]]"
-  - "[[_Standards/WikiData/WD~dative_case,145599]]"
-  - "[[_Standards/WikiData/WD~accusative_case,146078]]"
-  - "[[_Standards/WikiData/WD~genitive_case,146233]]"
-  - "[[_Standards/WikiData/WD~ablative_case,156986]]"
-  - "[[_Standards/WikiData/WD~locative_case,202142]]"
+- '[[_Standards/WikiData/WD~nominative_case,131105]]'
+- '[[_Standards/WikiData/WD~dative_case,145599]]'
+- '[[_Standards/WikiData/WD~accusative_case,146078]]'
+- '[[_Standards/WikiData/WD~genitive_case,146233]]'
+- '[[_Standards/WikiData/WD~ablative_case,156986]]'
+- '[[_Standards/WikiData/WD~locative_case,202142]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
+- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~postposition,161873]]"
-  - "[[_Standards/WikiData/WD~agglutinative_language,171263]]"
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-  - "[[_Standards/WikiData/WD~adjective_noun,74834637]]"
-  - "[[_Standards/WikiData/WD~synthetic_language,48612]]"
+- '[[_Standards/WikiData/WD~postposition,161873]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~adjective_noun,74834637]]'
+- '[[_Standards/WikiData/WD~synthetic_language,48612]]'
 has_tense:
-  - "[[_Standards/WikiData/WD~present_tense,192613]]"
-  - "[[_Standards/WikiData/WD~future_tense,501405]]"
-  - "[[_Standards/WikiData/WD~past_tense,1994301]]"
-subclass_of: "[[_Standards/WikiData/WD~Western_Karluk,4215335]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~1_safe,20672086]]"
+- '[[_Standards/WikiData/WD~present_tense,192613]]'
+- '[[_Standards/WikiData/WD~future_tense,501405]]'
+- '[[_Standards/WikiData/WD~past_tense,1994301]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_Karluk,4215335]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~1_safe,20672086]]'
 language_regulatory_body: "[[_Standards/WikiData/WD~Alisher_Navo'i_Tashkent_State_University_of_Uzbek_Language_and_Literature,28006255]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q101516084,101516084]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q101516084,101516084]]'
 country:
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Arabic_alphabet,8196]]"
-  - "[[_Standards/WikiData/WD~Cyrillic_script,8209]]"
-  - "[[_Standards/WikiData/WD~Latin_script,8229]]"
+- '[[_Standards/WikiData/WD~Arabic_alphabet,8196]]'
+- '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229]]'
 number_of_speakers_writers_or_signers: 27000000
-replaces: "[[_Standards/WikiData/WD~Chagatai,36831]]"
-ABS_ASCL_2011_code: "4306"
-IAB_code: "1203"
-OmegaWiki_Defined_Meaning: "6633"
+replaces: '[[_Standards/WikiData/WD~Chagatai,36831]]'
+ABS_ASCL_2011_code: 4306
+IAB_code: 1203
+OmegaWiki_Defined_Meaning: 6633
 POSIX_locale_identifier: uz
 Wikimedia_language_code: uz
 IETF_language_tag: uz
@@ -76,14 +209,176 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Uzbek.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/WIKITONGUES-%20Jamal%20speaking%20Uzbek.webm
 exact_match: http://publications.europa.eu/resource/authority/language/UZB
 described_at_URL:
-  - https://lpan.eva.mpg.de/austronesian/language.php?id=871
-  - https://turkic.elegantlexicon.com/lx.php?lx=uzb
+- https://lpan.eva.mpg.de/austronesian/language.php?id=871
+- https://turkic.elegantlexicon.com/lx.php?lx=uzb
 IPA_transcription: ˈuz.bɛk
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/UZBEKSKI_YAZIK.html
 Glottolog_code: uzbe1247
 GOST_7_75_97_code: узб 710
+dv_has_:
+  name_:
+    ab: Ауазбақь бызшәа
+    ady: Узбекыбзэ
+    aeb-arab: الأوزبكي
+    af: Oesbekies
+    am: ዑዝበክኛ
+    ar: الأوزبكية
+    ary: لأوزبيكية
+    arz: اوزبيكى
+    as: উজবেক ভাষা
+    ast: uzbecu
+    az: özbək dili
+    azb: اؤزبک تورکجهسی
+    ba: Үҙбәк теле
+    be: узбекская мова
+    be-tarask: узбэцкая мова
+    bg: узбекски език
+    bn: উজবেক ভাষা
+    br: ouzbekeg
+    bs: Uzbečki jezik
+    ca: uzbek
+    ce: Узбекийн мотт
+    ckb: زمانی ئۆزبەکی
+    crh: Özbek tili
+    crh-latn: Özbek tili
+    cs: uzbečtina
+    cv: Узбек чĕлхи
+    cy: Wsbeceg
+    da: usbekisk
+    de: Usbekisch
+    el: Ουζμπεκική γλώσσα
+    en: Uzbek
+    en-ca: Uzbek
+    en-gb: Uzbek
+    en-us: Uzbek
+    eo: uzbeka lingvo
+    es: uzbeko
+    et: Usbeki keel
+    eu: Uzbekera
+    fa: زبان ازبکی
+    fi: uzbekki
+    fr: ouzbek
+    frr: Usbekisk
+    fy: Oezbeeksk
+    ga: an Úisbéiceastáinis
+    gag: Uzbek dili
+    gl: lingua uzbeka
+    glk: اۊزبکي زوان
+    gu: ઉઝબેક
+    gv: Oosbeckish
+    hak: Vû-tsṳ̂-phe̍t-khiet-ngî
+    he: אוזבקית
+    hi: उज़्बेक भाषा
+    hif: Uzbek bhasa
+    hr: uzbečki jezik
+    hsb: uzbekšćina
+    hu: üzbég
+    hy: ուզբեկերեն
+    hyw: Ուզպեքերէն
+    id: bahasa Uzbek
+    ig: Uzbek
+    is: Úsbekíska
+    it: uzbeco
+    ja: ウズベク語
+    jv: Basa Uzbèk
+    ka: უზბეკური ენა
+    kaa: ózbеk tili
+    kab: Tuzbikit
+    kge: Bahasa Uzbek
+    kk: Өзбек тілі
+    ko: 우즈베크어
+    krc: Юзбек тил
+    ks: اُزبیک زَبان
+    ku: zimanê ûzbêkî
+    ku-latn: zimanê ûzbêkî
+    kv: Узбек кыв
+    ky: Өзбек тили
+    la: lingua Uzbecica
+    lad: Lingua uzbeka
+    lb: Usbekesch
+    lfn: uzbec
+    lt: uzbekų kalba
+    lv: uzbeku valoda
+    lzh: 烏茲別克語
+    mdf: Узбеконь кяль
+    mg: Fiteny ozbeka
+    mk: узбечки јазик
+    ml: ഉസ്ബെക്ക് ഭാഷ
+    mn: Узбек хэл
+    mni: ꯎꯓꯕꯦꯛ ꯂꯣꯟ
+    mr: उझबेक भाषा
+    ms: Bahasa Uzbek
+    myv: узбекень кель
+    mzn: اوزبکی زبون
+    nan: Uzbek-gí
+    nb: usbekisk
+    nds: Usbeeksche Spraak
+    new: उजबेक भाषा
+    nl: Oezbeeks
+    nn: Usbekisk
+    oc: ozbèc
+    os: узбекаг æвзаг
+    pa: ਉਜ਼ਬੁਕੀ
+    pl: język uzbecki
+    pnb: ازبکی
+    ps: اوزبکي ژبه
+    pt: língua uzbeque
+    pt-br: língua uzbeque
+    qu: Usbik simi
+    ro: limba uzbecă
+    ru: узбекский язык
+    sah: Узбек тыла
+    sat: ᱩᱡᱽᱵᱮᱠ ᱯᱟᱹᱨᱥᱤ
+    scn: usbecu
+    sco: Uzbek leid
+    sd: ازبڪي ٻولي
+    sgs: Ozbėku kalba
+    sh: Uzbečki jezik
+    sk: uzbečtina
+    sl: uzbeščina
+    smn: uzbekkielâ
+    sms: uzbekk-ǩiõll
+    sr: узбечки језик
+    sr-ec: узбечки језик
+    sr-el: uzbečki jezik
+    sv: uzbekiska
+    sw: Kiuzbeki
+    szl: Uzbeckŏ gŏdka
+    ta: உசுபேகிய மொழி
+    tg: забони узбекӣ
+    tg-cyrl: забони ӯзбекӣ
+    tg-latn: zaboni ūzbekī
+    th: ภาษาอุซเบก
+    tk: Özbek dili
+    tl: Wikang Usbeko
+    tok: toki Opeki
+    tr: Özbekçe
+    tt: үзбәк теле
+    tt-cyrl: үзбәк теле
+    udm: Узбек кыл
+    ug: ئۆزبېك تىلى
+    uk: узбецька мова
+    ur: ازبک زبان
+    uz: Oʻzbek tili
+    uz-cyrl: Ўзбек тили
+    vec: uzbego
+    vi: tiếng Uzbek
+    vo: Lusbekänapük
+    wuu: 乌孜别克语
+    xmf: უზბეკური ნინა
+    yue: 月即別話
+    za: Vahvuhswhbiedkez
+    zh: 乌兹别克语
+    zh-cn: 乌孜别克语
+    zh-hans: 乌孜别克语
+    zh-hant: 烏孜別克語
+    zh-hk: 烏孜別克語
+    zh-mo: 烏孜別克語
+    zh-my: 乌孜别克语
+    zh-sg: 乌孜别克语
+    zh-tw: 烏茲別克語
+    zu: isi-Uzbek
 ---
-
 # [[Lang-uzb]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Uzbek,9264|WD~Uzbek,9264]]  

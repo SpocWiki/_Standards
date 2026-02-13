@@ -1,19 +1,41 @@
 ---
-has_time_started: 1894-01-01 
+has_time_started: 1894-01-01
 aliases:
-  - Billboard (magazine)
-  - Billboard magazine
-  - Billboard(magazine)
+- Billboard
+- Billboard (magazine)
+- Billboard magazine
+- Billboard(magazine)
+- Біллбоард
+- Билборд
+- בילבורד
+- بيلبورد
+- بيلبورد (مجله)
+- بیلبورد
+- بیلبۆرد
+- बिलबोर्ड
+- বিলবোর্ড
+- ਬਿਲਬੋਰਡ
+- பில்போர்ட்
+- ബിൽബോർഡ്
+- บิลบอร์ด
+- ဘီလ်ဘော့ဒ်
+- ბილბორდი
+- ビルボード
+- 公告牌
+- 告示板杂志
+- 告示牌
+- 告示牌 (雜誌)
+- 빌보드
 has_id_wikidata: Q485240
 main_subject: '[[_Standards/WikiData/WD~entertainment,173799]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~periodical,1002697]]'
-  - '[[_Standards/WikiData/WD~publishing_company,2085381]]'
-  - '[[_Standards/WikiData/WD~weekly_magazine,12340140]]'
+- '[[_Standards/WikiData/WD~periodical,1002697]]'
+- '[[_Standards/WikiData/WD~publishing_company,2085381]]'
+- '[[_Standards/WikiData/WD~weekly_magazine,12340140]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Luminate,1067041]]'
-  - '[[_Standards/WikiData/WD~Eldridge,29097721]]'
-  - '[[_Standards/WikiData/WD~William_Henry_Donaldson,116785477]]'
+- '[[_Standards/WikiData/WD~Luminate,1067041]]'
+- '[[_Standards/WikiData/WD~Eldridge,29097721]]'
+- '[[_Standards/WikiData/WD~William_Henry_Donaldson,116785477]]'
 newspaper_format: '[[_Standards/WikiData/WD~tabloid,1449648]]'
 publisher: '[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727]]'
 has_part_s_: '[[_Standards/WikiData/WD~Billboard_charts,19754079]]'
@@ -28,8 +50,8 @@ country: '[[_Standards/WikiData/WD~United_States,30]]'
 headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
 publication_interval: 1
 social_media_followers:
-  - 4030000
-  - 14113306
+- 4030000
+- 14113306
 ISSN: 0006-2510
 ISSN_L: 0006-2510
 official_website: https://www.billboard.com/
@@ -43,8 +65,268 @@ Instagram_username: billboard
 X_Twitter_username: billboard
 Commons_category: Billboard (magazine)
 Bluesky_handle: billboard.com
+dv_has_:
+  name_:
+    aa: Billboard
+    ace: Billboard
+    acm: بيلبورد
+    af: Billboard
+    ak: Billboard
+    aln: Billboard
+    an: Billboard
+    ar: بيلبورد
+    arn: Billboard
+    arz: بيلبورد (مجله)
+    ast: Billboard
+    atj: Billboard
+    avk: Billboard
+    ay: Billboard
+    az: Billboard
+    ban: Billboard
+    bar: Billboard
+    bbc: Billboard
+    bcl: Billboard
+    be: Billboard
+    be-tarask: Billboard
+    bg: Билборд
+    bi: Billboard
+    bm: Billboard
+    bn: বিলবোর্ড
+    br: Billboard
+    bs: Billboard
+    bto: Billboard
+    ca: Billboard
+    cbk-zam: Billboard
+    ceb: Billboard
+    ch: Billboard
+    cho: Billboard
+    chy: Billboard
+    ckb: بیلبۆرد
+    co: Billboard
+    cps: Billboard
+    crh-latn: Billboard
+    cs: Billboard
+    csb: Billboard
+    cy: Billboard
+    da: Billboard
+    de: Billboard
+    de-at: Billboard
+    de-ch: Billboard
+    din: Billboard
+    dsb: Billboard
+    dtp: Billboard
+    ee: Billboard
+    egl: Billboard
+    el: Billboard
+    eml: Billboard
+    en: Billboard
+    en-ca: Billboard
+    en-gb: Billboard
+    eo: Billboard
+    es: Billboard
+    et: Billboard
+    eu: Billboard
+    ext: Billboard
+    fa: بیلبورد
+    ff: Billboard
+    fi: Billboard
+    fit: Billboard
+    fj: Billboard
+    fo: Billboard
+    fr: Billboard
+    frc: Billboard
+    frp: Billboard
+    frr: Billboard
+    fur: Billboard
+    fy: Billboard
+    ga: Billboard
+    gag: Billboard
+    gd: Billboard
+    gl: Billboard
+    gn: Billboard
+    gor: Billboard
+    gsw: Billboard
+    gv: Billboard
+    ha: Billboard
+    haw: Billboard
+    he: בילבורד
+    hif: Billboard
+    hil: Billboard
+    ho: Billboard
+    hr: Billboard
+    hrx: Billboard
+    hsb: Billboard
+    ht: Billboard
+    hu: Billboard
+    hy: Billboard
+    hz: Billboard
+    ia: Billboard
+    id: Billboard
+    ie: Billboard
+    ig: Billboard
+    ik: Billboard
+    ilo: Billboard
+    io: Billboard
+    is: Billboard
+    it: Billboard
+    ja: ビルボード
+    jam: Billboard
+    jut: Billboard
+    jv: Billboard
+    ka: ბილბორდი
+    kaa: Billboard
+    kab: Billboard
+    kbp: Billboard
+    kea: Billboard
+    kg: Billboard
+    ki: Billboard
+    kj: Billboard
+    kk: Billboard
+    kk-arab: Billboard
+    kk-cyrl: Біллбоард
+    kk-latn: Billboard
+    kl: Billboard
+    knc: Billboard
+    ko: 빌보드
+    kri: Billboard
+    krj: Billboard
+    krl: Billboard
+    ksh: Billboard
+    ku: Billboard
+    kw: Billboard
+    lad: Billboard
+    lb: Billboard
+    lfn: Billboard
+    lg: Billboard
+    li: Billboard
+    lij: Billboard
+    lmo: Billboard
+    ln: Billboard
+    lt: Billboard
+    lv: Billboard
+    mai: बिलबोर्ड
+    map-bms: Billboard
+    mg: Billboard
+    mh: Billboard
+    mi: Billboard
+    mk: Билборд
+    ml: ബിൽബോർഡ്
+    ms: Billboard
+    mt: Billboard
+    mul: Billboard
+    mus: Billboard
+    mwl: Billboard
+    my: ဘီလ်ဘော့ဒ်
+    na: Billboard
+    nah: Billboard
+    nap: Billboard
+    nb: Billboard
+    nds: Billboard
+    nds-nl: Billboard
+    ne: बिलबोर्ड
+    ng: Billboard
+    niu: Billboard
+    nl: Billboard
+    nn: Billboard
+    nov: Billboard
+    nrm: Billboard
+    nso: Billboard
+    nv: Billboard
+    ny: Billboard
+    nys: Billboard
+    oc: Billboard
+    olo: Billboard
+    pa: ਬਿਲਬੋਰਡ
+    pag: Billboard
+    pam: Billboard
+    pap: Billboard
+    pcd: Billboard
+    pdc: Billboard
+    pdt: Billboard
+    pfl: Billboard
+    pih: Billboard
+    pl: Billboard
+    pms: Billboard
+    prg: Billboard
+    pt: Billboard
+    pt-br: Billboard
+    qu: Billboard
+    qug: Billboard
+    rgn: Billboard
+    rif: Billboard
+    rm: Billboard
+    rn: Billboard
+    ro: Billboard
+    roa-tara: Billboard
+    ru: Billboard
+    rup: Billboard
+    rw: Billboard
+    sc: Billboard
+    scn: Billboard
+    sco: Billboard
+    sdc: Billboard
+    se: Billboard
+    sg: Billboard
+    sgs: Billboard
+    sh: Billboard
+    sje: Billboard
+    sk: Billboard
+    sl: Billboard
+    sli: Billboard
+    sm: Billboard
+    sma: Billboard
+    smj: Billboard
+    sn: Billboard
+    so: Billboard
+    sq: Billboard
+    sr: Билборд
+    srn: Billboard
+    srq: Billboard
+    ss: Billboard
+    st: Billboard
+    stq: Billboard
+    su: Billboard
+    sv: Billboard
+    sw: Billboard
+    szl: Billboard
+    ta: பில்போர்ட்
+    tet: Billboard
+    th: บิลบอร์ด
+    tl: Billboard
+    tn: Billboard
+    to: Billboard
+    tpi: Billboard
+    tr: Billboard
+    ts: Billboard
+    tum: Billboard
+    tw: Billboard
+    ty: Billboard
+    uk: Billboard
+    uz: Billboard
+    ve: Billboard
+    vec: Billboard
+    vi: Billboard
+    vls: Billboard
+    vmf: Billboard
+    vo: Billboard
+    vro: Billboard
+    wa: Billboard
+    war: Billboard
+    wo: Billboard
+    wuu: 公告牌
+    xh: Billboard
+    xmf: ბილბორდი
+    yo: Billboard
+    yue: 告示牌 (雜誌)
+    zea: Billboard
+    zh: 告示牌
+    zh-cn: 告示板杂志
+    zh-hans: 公告牌
+    zh-hant: 告示牌
+    zh-hk: 告示牌
+    zh-tw: 告示牌
+    zu: Billboard
 ---
-
 # [[Billboard(magazine)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Billboard,485240|WD~Billboard,485240]]  

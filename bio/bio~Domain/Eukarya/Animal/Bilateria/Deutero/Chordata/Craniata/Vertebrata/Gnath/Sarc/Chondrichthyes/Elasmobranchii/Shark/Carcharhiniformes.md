@@ -1,10 +1,41 @@
 ---
 aliases:
+- Bộ Cá mập mắt trắng
+- Carcariniforme
+- Carcarriniformes
+- Carcharhiniformes
+- grondhaaien
+- Grundhaie
+- gråhaier
+- gråhajartade hajar
+- Karxarinkimilər
+- Katrykliai
+- kékcápaalakúak
+- luomihaikalat
+- pravi morski psi
+- Rekviēmhaizivjveidīgās
+- żarłaczokształtne
+- Žralokotvaré
+- žralouni
+- Καρχαρινόμορφα
+- кархаринообразные
+- Кархариноподібні
+- Пилозъби акули
+- կարխարինանմաններ
+- כרישאים
+- زمینکوسهسانان
+- قرش أرضي
+- قرش ارضى
+- อันดับปลาฉลามครีบดำ
+- メジロザメ目
+- 真鯊目
+- 真鲨目
+- 흉상어목
 has_id_wikidata: Q48178
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "551500"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 551500
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carcharhinus%20melanopterus2.jpg
 EPPO_Code: 1KARCO
 UMLS_CUI: C1003262
@@ -12,10 +43,73 @@ Commons_category: Carcharhiniformes
 taxon_name: Carcharhiniformes
 NBN_System_Key: NBNSYS0000180162
 taxon_common_name:
-  - gråhaier
-  - pravi morski psi
+- gråhaier
+- pravi morski psi
+dv_has_:
+  name_:
+    af: Carcharhiniformes
+    an: Carcharhiniformes
+    ar: قرش أرضي
+    arz: قرش ارضى
+    ast: Carcharhiniformes
+    az: Karxarinkimilər
+    bg: Пилозъби акули
+    ca: Carcariniforme
+    ceb: Carcharhiniformes
+    cs: žralouni
+    de: Grundhaie
+    el: Καρχαρινόμορφα
+    en: Carcharhiniformes
+    eo: Carcharhiniformes
+    es: Carcharhiniformes
+    eu: Carcharhiniformes
+    ext: Carcharhiniformes
+    fa: زمینکوسهسانان
+    fi: luomihaikalat
+    fr: Carcharhiniformes
+    ga: Carcharhiniformes
+    gl: Carcarriniformes
+    he: כרישאים
+    hr: Carcharhiniformes
+    hu: kékcápaalakúak
+    hy: կարխարինանմաններ
+    ia: Carcharhiniformes
+    id: Carcharhiniformes
+    ie: Carcharhiniformes
+    io: Carcharhiniformes
+    it: Carcharhiniformes
+    ja: メジロザメ目
+    ko: 흉상어목
+    la: Carcharhiniformes
+    lt: Katrykliai
+    lv: Rekviēmhaizivjveidīgās
+    ms: Carcharhiniformes
+    mul: Carcharhiniformes
+    nan: Carcharhiniformes
+    nb: gråhaier
+    nl: grondhaaien
+    oc: Carcharhiniformes
+    pl: żarłaczokształtne
+    pt: Carcharhiniformes
+    pt-br: Carcharhiniformes
+    ro: Carcharhiniformes
+    ru: кархаринообразные
+    sk: Žralokotvaré
+    sl: pravi morski psi
+    sq: Carcharhiniformes
+    sr: Carcharhiniformes
+    sv: gråhajartade hajar
+    th: อันดับปลาฉลามครีบดำ
+    tr: Carcharhiniformes
+    uk: Кархариноподібні
+    vec: Carcharhiniformes
+    vi: Bộ Cá mập mắt trắng
+    vo: Carcharhiniformes
+    war: Carcharhiniformes
+    zh: 真鲨目
+    zh-cn: 真鲨目
+    zh-tw: 真鯊目
 ---
-
 # [[Carcharhiniformes]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178]] 

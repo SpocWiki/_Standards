@@ -1,4 +1,63 @@
-
+---
+has_id_wikidata: Q236163
+dv_has_:
+  name_:
+    ar: مذبحة كيلسي
+    bg: Погром в Келце
+    ca: Pogrom de Kielce
+    ckb: کۆمەڵکوژیی کێلسی
+    cs: pogrom v Kielcích
+    da: Pogromen i Kielce
+    de: Pogrom von Kielce
+    el: Πογκρόμ του Κιέλτσε
+    en: Kielce pogrom
+    eo: Pogromo de Kielce
+    es: Pogromo de Kielce
+    fa: کشتار کیلتس
+    fi: Kielcen pogromi
+    fr: pogrom de Kielce
+    he: פוגרום קיילצה
+    hy: Ջարդեր Կելցեյում
+    it: Pogrom di Kielce
+    ja: キェルツェのユダヤ人虐殺
+    nb: Pogromen i Kielce
+    nl: Pogrom van Kielce
+    pl: Pogrom kielecki
+    ru: Погром в Кельце
+    sl: pogrom v Kielcah
+    sv: Pogromen i Kielce
+    uk: Погром у Кельце
+    yi: קעלצער פאגראם
+    zh: 凯尔采反犹骚乱
+    zh-hans: 凯尔采反犹暴乱
+    zh-hant: 凱爾採反猶暴亂
+aliases:
+- Kielce pogrom
+- Kielcen pogromi
+- Pogrom de Kielce
+- Pogrom di Kielce
+- Pogrom kielecki
+- pogrom v Kielcah
+- pogrom v Kielcích
+- Pogrom van Kielce
+- Pogrom von Kielce
+- Pogromen i Kielce
+- Pogromo de Kielce
+- Πογκρόμ του Κιέλτσε
+- Погром в Келце
+- Погром в Кельце
+- Погром у Кельце
+- Ջարդեր Կելցեյում
+- פוגרום קיילצה
+- קעלצער פאגראם
+- مذبحة كيلسي
+- کشتار کیلتس
+- کۆمەڵکوژیی کێلسی
+- キェルツェのユダヤ人虐殺
+- 凯尔采反犹暴乱
+- 凯尔采反犹骚乱
+- 凱爾採反猶暴亂
+---
 # [[Kielce_Pogrom,1946]] 
 
 

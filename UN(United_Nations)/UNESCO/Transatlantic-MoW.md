@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q4343793
+---
+
 
 > The International Register of the UNESCO Memory of the World-Programme 
 > includes inscriptions from Europe and North America. 

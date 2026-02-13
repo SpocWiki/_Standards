@@ -1,14 +1,44 @@
 ---
 aliases:
-  - Ornithorhynchoidea
+- Ornithorhynchoidea
+- بطيات المنقار
 has_id_wikidata: Q126163427
 parent_taxon: '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Platypoda,1976132]]'
 taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Johnson%27s%20household%20book%20of%20nature%20%28Plate%20LXIV%29%20%287268710608%29.jpg
 taxon_name: Ornithorhynchoidea
+dv_has_:
+  name_:
+    an: Ornithorhynchoidea
+    ar: بطيات المنقار
+    ast: Ornithorhynchoidea
+    ca: Ornithorhynchoidea
+    cs: Ornithorhynchoidea
+    de: Ornithorhynchoidea
+    el: Ornithorhynchoidea
+    en: Ornithorhynchoidea
+    eo: Ornithorhynchoidea
+    es: Ornithorhynchoidea
+    eu: Ornithorhynchoidea
+    ext: Ornithorhynchoidea
+    fr: Ornithorhynchoidea
+    ga: Ornithorhynchoidea
+    gl: Ornithorhynchoidea
+    ia: Ornithorhynchoidea
+    ie: Ornithorhynchoidea
+    io: Ornithorhynchoidea
+    it: Ornithorhynchoidea
+    la: Ornithorhynchoidea
+    mul: Ornithorhynchoidea
+    nl: Ornithorhynchoidea
+    oc: Ornithorhynchoidea
+    pl: Ornithorhynchoidea
+    pt: Ornithorhynchoidea
+    pt-br: Ornithorhynchoidea
+    uk: Ornithorhynchoidea
+    vo: Ornithorhynchoidea
 ---
-
 # [[Ornithorhynchoidea]]  
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Ornithorhynchoidea,126163427|WD~Ornithorhynchoidea,126163427]] 

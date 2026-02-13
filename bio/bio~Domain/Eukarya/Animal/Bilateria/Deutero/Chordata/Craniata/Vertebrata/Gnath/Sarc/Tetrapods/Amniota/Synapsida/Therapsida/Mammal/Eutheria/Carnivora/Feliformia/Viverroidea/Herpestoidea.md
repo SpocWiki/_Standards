@@ -1,13 +1,67 @@
 ---
 aliases:
+- Herpestoidea
+- Mangoesteftigen
+- הרפסטואידה
+- خدنگواران
+- கெர்பெசுடாய்டியா
+- 獴总科
+- 獴總科
+- 몽구스상과
 has_id_wikidata: Q9776204
-taxon_rank: "[[_Standards/WikiData/WD~superfamily,2136103]]"
-parent_taxon: "[[_Standards/WikiData/WD~Viverroidea,9776562]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
+parent_taxon: '[[_Standards/WikiData/WD~Viverroidea,9776562]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Herpestoidea.jpg
 taxon_name: Herpestoidea
+dv_has_:
+  name_:
+    an: Herpestoidea
+    ast: Herpestoidea
+    bg: Herpestoidea
+    ca: Herpestoidea
+    ceb: Herpestoidea
+    cs: Herpestoidea
+    de: Herpestoidea
+    el: Herpestoidea
+    en: Herpestoidea
+    eo: Herpestoidea
+    es: Herpestoidea
+    eu: Herpestoidea
+    ext: Herpestoidea
+    fa: خدنگواران
+    fi: Herpestoidea
+    fr: Herpestoidea
+    fy: Mangoesteftigen
+    ga: Herpestoidea
+    gl: Herpestoidea
+    he: הרפסטואידה
+    ia: Herpestoidea
+    ie: Herpestoidea
+    io: Herpestoidea
+    it: Herpestoidea
+    ko: 몽구스상과
+    la: Herpestoidea
+    mul: Herpestoidea
+    nl: Herpestoidea
+    oc: Herpestoidea
+    pl: Herpestoidea
+    pt: Herpestoidea
+    pt-br: Herpestoidea
+    ro: Herpestoidea
+    ru: Herpestoidea
+    sl: Herpestoidea
+    sq: Herpestoidea
+    sr: Herpestoidea
+    ta: கெர்பெசுடாய்டியா
+    uk: Herpestoidea
+    vi: Herpestoidea
+    vo: Herpestoidea
+    war: Herpestoidea
+    zh: 獴總科
+    zh-cn: 獴总科
+    zh-hans: 獴总科
 ---
-
 # [[Herpestoidea]] 
 
 #is_/same_as :: [[WD~Herpestoidea,9776204]] 

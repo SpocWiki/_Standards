@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Callipodida
+- Callipodida
+- Cal·lipòdides
+- 狹馬陸目
+- 美肢马陆目
 title: Callipodida
+has_id_wikidata: Q4300405
+dv_has_:
+  name_:
+    an: Callipodida
+    ast: Callipodida
+    bg: Callipodida
+    ca: Cal·lipòdides
+    ceb: Callipodida
+    de: Callipodida
+    en: Callipodida
+    eo: Callipodida
+    es: Callipodida
+    eu: Callipodida
+    ext: Callipodida
+    fi: Callipodida
+    fr: Callipodida
+    ga: Callipodida
+    gl: Callipodida
+    ia: Callipodida
+    ie: Callipodida
+    io: Callipodida
+    it: Callipodida
+    la: Callipodida
+    mul: Callipodida
+    nl: Callipodida
+    oc: Callipodida
+    pl: Callipodida
+    pt: Callipodida
+    pt-br: Callipodida
+    ro: Callipodida
+    ru: Callipodida
+    sq: Callipodida
+    sv: Callipodida
+    tr: Callipodida
+    uk: Callipodida
+    vi: Callipodida
+    vo: Callipodida
+    war: Callipodida
+    zh: 美肢马陆目
+    zh-cn: 美肢马陆目
+    zh-hans: 美肢马陆目
+    zh-tw: 狹馬陸目
 ---
-
 # [[Callipodida]] 
 
 ## #has_/text_of_/abstract 

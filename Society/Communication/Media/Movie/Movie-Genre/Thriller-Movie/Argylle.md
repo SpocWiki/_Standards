@@ -1,5 +1,71 @@
-
-
+---
+has_id_wikidata: Q107460063
+dv_has_:
+  name_:
+    ar: أرغيل
+    bg: 'Аргайл: Супершпионин'
+    ca: Argylle
+    ckb: ئارجیل
+    cy: Argylle
+    da: Argylle
+    de: Argylle
+    el: Άργκαϊλ
+    en: Argylle
+    es: Argylle
+    fa: آرگایل
+    fi: Argylle
+    fr: Argylle
+    he: ארגייל
+    hu: 'Argylle: A szuperkém'
+    hy: Արգայլ
+    id: Argylle
+    it: Argylle - La super spia
+    ja: アーガイル
+    ko: 아가일
+    lt: Argailas
+    mk: Аргајл
+    ms: Argylle
+    nl: Argylle
+    pl: Argylle - Tajny szpieg
+    pt: Argylle
+    ru: 'Аргайл: Супершпион'
+    sr: Аргајл
+    sv: Argylle
+    th: อาร์ไกล์ ยอดสายลับ
+    tr: 'Argylle: Gizli Casus'
+    uk: Арґайл
+    uz: Argylle
+    vi: 'Argylle: Siêu điệp viên'
+    yue: 特工亞皆老
+    zh: 機密特務：阿蓋爾
+    zh-hk: 特工亞皆老
+    zh-sg: 机密特务：阿盖尔
+    zh-tw: 機密特務：阿蓋爾
+aliases:
+- Argailas
+- Argylle
+- Argylle - La super spia
+- Argylle - Tajny szpieg
+- 'Argylle: A szuperkém'
+- 'Argylle: Gizli Casus'
+- 'Argylle: Siêu điệp viên'
+- Άργκαϊλ
+- Аргајл
+- 'Аргайл: Супершпион'
+- 'Аргайл: Супершпионин'
+- Арґайл
+- Արգայլ
+- ארגייל
+- آرگایل
+- أرغيل
+- ئارجیل
+- อาร์ไกล์ ยอดสายลับ
+- アーガイル
+- 机密特务：阿盖尔
+- 機密特務：阿蓋爾
+- 特工亞皆老
+- 아가일
+---
 ## #has_/text_of_/abstract 
 
 > **Argylle** is a 2024 spy action-comedy film directed and produced by Matthew Vaughn, and written by Jason Fuchs. 

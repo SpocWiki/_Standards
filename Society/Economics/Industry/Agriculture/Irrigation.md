@@ -1,21 +1,129 @@
 ---
 aliases:
-  - Irrigation
+- agricultural irrigation
+- Ak-chhân
+- apūdeņošana
+- Besproeiing
+- Bewatern
+- Bewässerung
+- Dourañ
+- Dowrheans
+- drėkinimas
+- Dyfrhau
+- Fitarihan-drano
+- Inrigatio
+- irigacio
+- Irigaco
+- irigasi
+- irigasion
+- Irigassion
+- irigație
+- Irrigacion
+- irrigación
+- Irrigatie
+- Irrigation
+- irrigation agricole
+- irrigazione
+- irrigação
+- Irygacja
+- keinokastelu
+- konstbevattning
+- Kunstvanding
+- Kuɛrëyor
+- Leshuŋ ntshi ńnéŋ ájʉʼ
+- lìɓàk màlép
+- Mahiai
+- namakanje
+- Navodnjavanje
+- Nidaʼąnyéézh
+- Niisutus
+- panagsibog
+- Parquy
+- patubig
+- Pengairan
+- Raiwaedje
+- regadiu
+- Regano
+- riego
+- Riegu
+- sichaai
+- Sugʻorish
+- sulama
+- Suvarma
+- thủy lợi
+- ugbo ala ubi
+- uisciú
+- Ujitja
+- Umwagiliaji
+- Ureztapen
+- vanning
+- vatning
+- Waraabka
+- Wassan
+- Yrrigaasje
+- Zavlažovanie
+- zavlažování
+- Áveita
+- öntözés
+- άρδευση
+- іригація
+- арашэнне
+- арашэньне
+- мускытатон
+- наводњавање
+- наводнување
+- Напояване
+- орошение
+- Суармалау
+- сугару
+- Сугат
+- Усжуулалт
+- Уһажуулга
+- Һуғарыу
+- ոռոգում
+- באוואסערונג
+- השקיה
+- آبپاشي
+- آبپاشی
+- آبیاری
+- ئاودێری
+- اوبه خور (پڼه کول)
+- رى
+- ري
+- سووارما
+- जलसिंचन पद्धती
+- सिंचाई
+- ह्वज्या
+- জলসিঞ্চন
+- সেচ
+- ਸਿੰਚਾਈ
+- நீர்ப்பாசனம்
+- సాగునీరు
+- ನೀರಾವರಿ
+- ജലസേചനം
+- ජල සම්පාදනය
+- ชลประทาน
+- ဆည်မြောင်းဖောက်လုပ်ခြင်း
+- ირიგაცია
+- 灌溉
+- 灌漑
+- 灌田
+- 관개
 has_id_wikidata: Q11453
 class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~water,283]]'
 Commons_category: Irrigation
 Commons_gallery: Irrigation
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - '[[_Standards/WikiData/WD~plant_watering,20918473]]'
-  - '[[_Standards/WikiData/WD~dental_irrigation,125728927]]'
+- '[[_Standards/WikiData/WD~plant_watering,20918473]]'
+- '[[_Standards/WikiData/WD~dental_irrigation,125728927]]'
 facet_of: '[[_Standards/WikiData/WD~transport_of_water,17138804]]'
 has_effect: '[[_Standards/WikiData/WD~runoff,66486514]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PivotIrrigationOnCotton.jpg
@@ -25,13 +133,134 @@ OmegaWiki_Defined_Meaning: 2028
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 studied_in: '[[_Standards/WikiData/WD~irrigation_engineering,114778863]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~process,10843872]]'
-  - '[[_Standards/WikiData/WD~transport,7590]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~transport,7590]]'
 subreddit: Irrigation
 UMLS_CUI: C2936278
 U_S_National_Archives_Identifier: 10639786
+dv_has_:
+  name_:
+    af: Besproeiing
+    an: Regano
+    ar: ري
+    arz: رى
+    as: জলসিঞ্চন
+    ast: Riegu
+    az: Suvarma
+    azb: سووارما
+    ba: Һуғарыу
+    bar: Wassan
+    bas: lìɓàk màlép
+    be: арашэнне
+    be-tarask: арашэньне
+    bg: Напояване
+    bn: সেচ
+    br: Dourañ
+    bs: Navodnjavanje
+    bxr: Уһажуулга
+    ca: regadiu
+    ckb: ئاودێری
+    crh: Suvarma
+    cs: zavlažování
+    cy: Dyfrhau
+    da: Kunstvanding
+    de: Bewässerung
+    din: Kuɛrëyor
+    el: άρδευση
+    en: agricultural irrigation
+    eo: irigacio
+    es: riego
+    et: Niisutus
+    eu: Ureztapen
+    fa: آبیاری
+    fi: keinokastelu
+    fr: irrigation agricole
+    fy: Yrrigaasje
+    ga: uisciú
+    gl: irrigación
+    gsw: Bewässerung
+    haw: Mahiai
+    he: השקיה
+    hi: सिंचाई
+    hif: sichaai
+    hr: navodnjavanje
+    hu: öntözés
+    hy: ոռոգում
+    id: irigasi
+    ig: ugbo ala ubi
+    ilo: panagsibog
+    io: Irigaco
+    is: Áveita
+    it: irrigazione
+    ja: 灌漑
+    jv: Irigasi
+    ka: ირიგაცია
+    kk: Суармалау
+    kn: ನೀರಾವರಿ
+    ko: 관개
+    kw: Dowrheans
+    ky: Сугат
+    la: Inrigatio
+    li: Irrigatie
+    lt: drėkinimas
+    lv: apūdeņošana
+    mg: Fitarihan-drano
+    mk: наводнување
+    ml: ജലസേചനം
+    mn: Усжуулалт
+    mr: जलसिंचन पद्धती
+    ms: Pengairan
+    my: ဆည်မြောင်းဖောက်လုပ်ခြင်း
+    nan: Ak-chhân
+    nb: vanning
+    nds: Bewatern
+    new: ह्वज्या
+    nl: irrigatie
+    nn: vatning
+    nv: Nidaʼąnyéézh
+    oc: Irrigacion
+    pa: ਸਿੰਚਾਈ
+    pl: Irygacja
+    pms: Irigassion
+    pnb: آبپاشی
+    ps: اوبه خور (پڼه کول)
+    pt: irrigação
+    pt-br: irrigação
+    qu: Parquy
+    ro: irigație
+    ru: орошение
+    sd: آبپاشي
+    sh: navodnjavanje
+    si: ජල සම්පාදනය
+    sk: Zavlažovanie
+    skr: آبپاشی
+    sl: namakanje
+    so: Waraabka
+    sq: Ujitja
+    sr: наводњавање
+    su: Irigasi
+    sv: konstbevattning
+    sw: Umwagiliaji
+    ta: நீர்ப்பாசனம்
+    te: సాగునీరు
+    th: ชลประทาน
+    tl: patubig
+    tr: sulama
+    tt: сугару
+    udm: мускытатон
+    uk: іригація
+    ur: آبپاشی
+    uz: Sugʻorish
+    vec: irigasion
+    vi: thủy lợi
+    wa: Raiwaedje
+    war: Patubig
+    wuu: 灌溉
+    ybb: Leshuŋ ntshi ńnéŋ ájʉʼ
+    yi: באוואסערונג
+    yue: 灌田
+    zh: 灌溉
 ---
-
 # [[Irrigation]] 
 
 #has_/complement :: [[Drainage]] 

@@ -1,48 +1,77 @@
 ---
 aliases:
-  - Maximilian_Schell
-  - Maximilian Schell
-  - Schell
-  - Schell,Maximilian
+- Maksimilians Šells
+- Maksimilijan Šel
+- Maksimillian Şell
+- Maximilian Schell
+- Maximilianus Schell
+- Maximilian_Schell
+- Schell
+- Schell,Maximilian
+- Μαξιμίλιαν Σελ
+- Максіміліян Шэл
+- Максімілян Шэль
+- Максиміліан Шелл
+- Максимилијан Шел
+- Максимилиан Шел
+- Максимилиан Шелл
+- Մաքսիմիլիան Շելլ
+- מקסימיליאן של
+- ماكسيمليان شيل
+- ماکسیمیلیان شل
+- مكسيمليان شيل
+- मॅक्सिमिलियन शेल
+- मैक्सीमिलियन शेल
+- ম্যাক্সিমিলিয়ান শেল
+- மாக்சிமிலியன் ஷெல்
+- มักซีมีเลียน เชลล์
+- マクシミリアン・シェル
+- 马克西米利安·谢尔
+- 麥斯米倫·雪爾
+- 麥斯米倫雪爾
+- 麥斯美倫·雪兒
+- 麥斯美倫雪兒
+- 麦斯米伦·雪尔
+- 맥시밀리언 셸
 has_id_wikidata: Q153018
 municipal_affiliation_of_a_Swiss_national: '[[_Standards/WikiData/WD~Oberiberg,66552]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Maria_Schell,84365]]'
-  - '[[_Standards/WikiData/WD~Immy_Schell,86750]]'
-  - '[[_Standards/WikiData/WD~Carl_Schell,120875]]'
+- '[[_Standards/WikiData/WD~Maria_Schell,84365]]'
+- '[[_Standards/WikiData/WD~Immy_Schell,86750]]'
+- '[[_Standards/WikiData/WD~Carl_Schell,120875]]'
 mother: '[[_Standards/WikiData/WD~Margarethe_Noé_von_Nordberg,89765]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
-  - '[[_Standards/WikiData/WD~Steiger_Award,821717]]'
-  - '[[_Standards/WikiData/WD~Bernhard_Wicki_Award,824667]]'
-  - '[[_Standards/WikiData/WD~Romy,873842]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Series,_Miniseries_or_Television_Film,911797]]'
-  - "[[_Standards/WikiData/WD~Officer's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905334]]"
-  - '[[_Standards/WikiData/WD~Mary_Pickford_Award,21595675]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+- '[[_Standards/WikiData/WD~Steiger_Award,821717]]'
+- '[[_Standards/WikiData/WD~Bernhard_Wicki_Award,824667]]'
+- '[[_Standards/WikiData/WD~Romy,873842]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Series,_Miniseries_or_Television_Film,911797]]'
+- "[[_Standards/WikiData/WD~Officer's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905334]]"
+- '[[_Standards/WikiData/WD~Mary_Pickford_Award,21595675]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Iva_Mihanović,106846]]'
-  - '[[_Standards/WikiData/WD~Natalya_Andrejchenko,449925]]'
+- '[[_Standards/WikiData/WD~Iva_Mihanović,106846]]'
+- '[[_Standards/WikiData/WD~Natalya_Andrejchenko,449925]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
-  - '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
-  - '[[_Standards/WikiData/WD~Bern_Academy_of_Arts,1622152]]'
-  - '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
+- '[[_Standards/WikiData/WD~University_of_Zurich,206702]]'
+- '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
+- '[[_Standards/WikiData/WD~Bern_Academy_of_Arts,1622152]]'
+- '[[_Standards/WikiData/WD~Ludwig_Maximilians_Universität_München,55044]]'
 place_of_burial: '[[_Standards/WikiData/WD~Vienna_Central_Cemetery,240744]]'
 father: '[[_Standards/WikiData/WD~Hermann_Ferdinand_Schell,1611050]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Maximilian,18133228]]'
@@ -52,14 +81,14 @@ described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 place_of_death: '[[_Standards/WikiData/WD~Innsbruck,1735]]'
 place_of_birth: '[[_Standards/WikiData/WD~Vienna,1741]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_locations: '[[_Standards/WikiData/WD~Switzerland,39]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Switzerland,39]]'
-  - '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
 number_of_children: 1
 Commons_gallery: Maximilian Schell
 Commons_category: Maximilian Schell
@@ -72,8 +101,129 @@ name_in_native_language: Maximilian Schell
 date_of_birth: 1930-12-08T00:00:00Z
 work_period_end_: 2014-01-01T00:00:00Z
 date_of_death: 2014-02-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Maximilian Schell
+    an: Maximilian Schell
+    ar: مكسيمليان شيل
+    arz: ماكسيمليان شيل
+    ast: Maximilian Schell
+    az: Maksimillian Şell
+    ba: Максимилиан Шелл
+    bar: Maximilian Schell
+    be: Максіміліян Шэл
+    be-tarask: Максімілян Шэль
+    bg: Максимилиан Шел
+    bn: ম্যাক্সিমিলিয়ান শেল
+    br: Maximilian Schell
+    bs: Maximilian Schell
+    ca: Maximilian Schell
+    co: Maximilian Schell
+    cs: Maximilian Schell
+    cy: Maximilian Schell
+    da: Maximilian Schell
+    de: Maximilian Schell
+    de-at: Maximilian Schell
+    de-ch: Maximilian Schell
+    el: Μαξιμίλιαν Σελ
+    en: Maximilian Schell
+    en-ca: Maximilian Schell
+    en-gb: Maximilian Schell
+    eo: Maximilian Schell
+    es: Maximilian Schell
+    et: Maximilian Schell
+    eu: Maximilian Schell
+    fa: ماکسیمیلیان شل
+    fi: Maximilian Schell
+    fr: Maximilian Schell
+    frp: Maximilian Schell
+    fur: Maximilian Schell
+    fy: Maximilian Schell
+    ga: Maximilian Schell
+    gd: Maximilian Schell
+    gl: Maximilian Schell
+    gsw: Maximilian Schell
+    he: מקסימיליאן של
+    hi: मैक्सीमिलियन शेल
+    hif: Maximilian Schell
+    hr: Maximilian Schell
+    hu: Maximilian Schell
+    hy: Մաքսիմիլիան Շելլ
+    ia: Maximilian Schell
+    id: Maximilian Schell
+    ie: Maximilian Schell
+    ilo: Maximilian Schell
+    io: Maximilian Schell
+    is: Maximilian Schell
+    it: Maximilian Schell
+    ja: マクシミリアン・シェル
+    kg: Maximilian Schell
+    ko: 맥시밀리언 셸
+    la: Maximilianus Schell
+    lb: Maximilian Schell
+    li: Maximilian Schell
+    lij: Maximilian Schell
+    lv: Maksimilians Šells
+    mg: Maximilian Schell
+    min: Maximilian Schell
+    mr: मॅक्सिमिलियन शेल
+    ms: Maximilian Schell
+    mul: Maximilian Schell
+    nap: Maximilian Schell
+    nb: Maximilian Schell
+    nds: Maximilian Schell
+    nds-nl: Maximilian Schell
+    nl: Maximilian Schell
+    nn: Maximilian Schell
+    nrm: Maximilian Schell
+    oc: Maximilian Schell
+    pap: Maximilian Schell
+    pcd: Maximilian Schell
+    pl: Maximilian Schell
+    pms: Maximilian Schell
+    pt: Maximilian Schell
+    pt-br: Maximilian Schell
+    qu: Maximilian Schell
+    rm: Maximilian Schell
+    ro: Maximilian Schell
+    ru: Максимилиан Шелл
+    sc: Maximilian Schell
+    scn: Maximilian Schell
+    sco: Maximilian Schell
+    sh: Maximilian Schell
+    sk: Maximilian Schell
+    sl: Maximilian Schell
+    sq: Maximilian Schell
+    sr: Максимилијан Шел
+    sr-ec: Максимилијан Шел
+    sr-el: Maksimilijan Šel
+    sv: Maximilian Schell
+    sw: Maximilian Schell
+    ta: மாக்சிமிலியன் ஷெல்
+    th: มักซีมีเลียน เชลล์
+    tl: Maximilian Schell
+    tr: Maximilian Schell
+    uk: Максиміліан Шелл
+    vec: Maximilian Schell
+    vi: Maximilian Schell
+    vls: Maximilian Schell
+    vo: Maximilian Schell
+    wa: Maximilian Schell
+    war: Maximilian Schell
+    wo: Maximilian Schell
+    wuu: 马克西米利安·谢尔
+    yo: Maximilian Schell
+    yue: 麥斯米倫雪爾
+    zh: 马克西米利安·谢尔
+    zh-cn: 马克西米利安·谢尔
+    zh-hans: 马克西米利安·谢尔
+    zh-hant: 麥斯美倫雪兒
+    zh-hk: 麥斯美倫·雪兒
+    zh-my: 麦斯米伦·雪尔
+    zh-sg: 麦斯米伦·雪尔
+    zh-tw: 麥斯米倫·雪爾
+    zu: Maximilian Schell
 ---
-
 # [[Schell,Maximilian]] 
 
 #is_/same_as :: [[WD~Maximilian_Schell,153018]] 

@@ -1,23 +1,106 @@
 ---
 aliases:
-  - Mimesis
+- Mimees
+- mimesi
+- Mimesis
+- mimeza
+- Mimezis
+- mimezė
+- mimésis
+- Mimézis
+- Mimēze
+- Mìmesi
+- Mímese
+- Pengajukan
+- мімезис
+- мімэзіс
+- Мимезис
+- мимесис
+- Միմեսիս
+- מימזיס
+- محاكاة
+- محاکات
+- अरस्तु का अनुकरण सिद्धांत
+- ਮਿਮੇਸਿਸ
+- અનુકરણ
+- ミメーシス
+- 拟态理论
+- 摹仿
+- 梅沒濕斯
+- 梅没湿斯
+- 미메시스
 has_id_wikidata: Q468427
-opposite_of: "[[_Standards/WikiData/WD~diegesis,1790314]]"
+opposite_of: '[[_Standards/WikiData/WD~diegesis,1790314]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~artistic_technique,11177771]]"
-  - "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
-  - "[[_Standards/WikiData/WD~aesthetic_concept,55387456]]"
+- '[[_Standards/WikiData/WD~artistic_technique,11177771]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+- '[[_Standards/WikiData/WD~aesthetic_concept,55387456]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-different_from: "[[_Standards/WikiData/WD~mimpathy,23014678]]"
-subclass_of: "[[_Standards/WikiData/WD~communication,11024]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~mimpathy,23014678]]'
+subclass_of: '[[_Standards/WikiData/WD~communication,11024]]'
 Dewey_Decimal_Classification:
-  - "801.93"
-  - "700.108"
-  - "809.912"
+- 801.93
+- 700.108
+- 809.912
+dv_has_:
+  name_:
+    ar: محاكاة
+    ast: Mimesis
+    ba: Мимесис
+    be-tarask: мімэзіс
+    bg: Мимезис
+    ca: mimesi
+    cs: mimésis
+    da: Mimesis
+    de: Mimesis
+    en: mimesis
+    es: mimesis
+    et: Mimees
+    eu: mimesi
+    fa: محاکات
+    fi: Mimesis
+    fr: Mimesis
+    gan: 梅沒濕斯
+    gan-hans: 梅没湿斯
+    gan-hant: 梅沒濕斯
+    gl: Mímese
+    gu: અનુકરણ
+    he: מימזיס
+    hi: अरस्तु का अनुकरण सिद्धांत
+    hy: Միմեսիս
+    id: Mimesis
+    it: mimesi
+    ja: ミメーシス
+    ko: 미메시스
+    ky: Мимесис
+    la: Mimesis
+    lt: mimezė
+    lv: Mimēze
+    ms: Pengajukan
+    nb: Mimesis
+    nl: Mimesis
+    pa: ਮਿਮੇਸਿਸ
+    pl: Mimesis
+    pms: Mìmesi
+    pt: Mimesis
+    ro: Mimesis
+    ru: мимесис
+    sh: Mimesis
+    sk: Mimézis
+    sl: mimeza
+    sr: Мимезис
+    sr-ec: Мимезис
+    sr-el: Mimezis
+    su: Mimesis
+    sv: Mimesis
+    tr: Mimesis
+    uk: мімезис
+    yue: 摹仿
+    zh: 摹仿
+    zh-cn: 拟态理论
 ---
-
 # [[Mimesis]] 
 
 #is_/same_as :: [[WD~Mimesis,468427]] 

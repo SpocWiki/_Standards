@@ -1,17 +1,34 @@
 ---
 aliases:
-  - Hyraxes
-  - ὕραξ
-  - hýrax
-  - shrew-mouse
-  - dassies
-  - dassie
-  - Procaviidae
-  - Hyrax
+- damaanlased
+- damanovití
+- dassie
+- dassies
+- góralkowate
+- Hyrax
+- Hyraxes
+- hýrax
+- Iraco
+- klipdassen
+- nokoleem
+- Procaviidae
+- Procàvids
+- shrew-mouse
+- szirtiborzfélék
+- Даманові
+- даманови
+- дамановые
+- Даманы
+- שפניים
+- وبريات
+- ὕραξ
+- ハイラックス科
+- 蹄兔科
+- 바위너구리과
 has_id_wikidata: Q2388549
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Procaviidae,14463362]]'
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -23,8 +40,60 @@ Commons_gallery: Procaviidae
 Commons_category: Procaviidae
 taxon_name: Procaviidae
 parent_taxon: '[[../Paenungulatomorpha]]'
+dv_has_:
+  name_:
+    an: Procaviidae
+    ar: وبريات
+    arz: وبريات
+    ast: Procaviidae
+    avk: nokoleem
+    be-tarask: Даманы
+    bg: даманови
+    ca: Procàvids
+    ceb: Procaviidae
+    cs: damanovití
+    de: Procaviidae
+    el: Procaviidae
+    en: Procaviidae
+    eo: Procaviidae
+    es: Procaviidae
+    et: damaanlased
+    eu: Procaviidae
+    ext: Procaviidae
+    fi: Procaviidae
+    fr: Procaviidae
+    ga: Procaviidae
+    gl: Procaviidae
+    he: שפניים
+    hu: szirtiborzfélék
+    ia: Procaviidae
+    ie: Procaviidae
+    io: Procaviidae
+    it: Procaviidae
+    ja: ハイラックス科
+    ko: 바위너구리과
+    la: Procaviidae
+    lfn: Iraco
+    mt: Procaviidae
+    mul: Procaviidae
+    nl: klipdassen
+    oc: Procaviidae
+    pl: góralkowate
+    pt: Procaviidae
+    pt-br: Procaviidae
+    ro: Procaviidae
+    ru: дамановые
+    sk: Procaviidae
+    sq: Procaviidae
+    sr: Procaviidae
+    uk: Даманові
+    vi: Procaviidae
+    vo: Procaviidae
+    war: Procaviidae
+    zh: 蹄兔科
+    zh-cn: 蹄兔科
+    zh-tw: 蹄兔科
 ---
-
 # [[Hyrax]] 
 
 #is_/same_as :: [[WD~Procaviidae,2388549]] 

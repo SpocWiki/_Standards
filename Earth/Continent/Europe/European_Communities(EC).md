@@ -1,23 +1,121 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/European_Communities(EC)|European_Communities(EC)]]"
-    - "[[/_public/Earth/Continent/Europe/European_Communities(EC).public|European_Communities(EC).public]]"
-    - "[[/_internal/Earth/Continent/Europe/European_Communities(EC).internal|European_Communities(EC).internal]]"
-    - "[[/_protect/Earth/Continent/Europe/European_Communities(EC).protect|European_Communities(EC).protect]]"
-    - "[[/_private/Earth/Continent/Europe/European_Communities(EC).private|European_Communities(EC).private]]"
-    - "[[/_personal/Earth/Continent/Europe/European_Communities(EC).personal|European_Communities(EC).personal]]"
-    - "[[/_secret/Earth/Continent/Europe/European_Communities(EC).secret|European_Communities(EC).secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/European_Communities(EC)|European_Communities(EC)]]'
+  - '[[/_public/Earth/Continent/Europe/European_Communities(EC).public|European_Communities(EC).public]]'
+  - '[[/_internal/Earth/Continent/Europe/European_Communities(EC).internal|European_Communities(EC).internal]]'
+  - '[[/_protect/Earth/Continent/Europe/European_Communities(EC).protect|European_Communities(EC).protect]]'
+  - '[[/_private/Earth/Continent/Europe/European_Communities(EC).private|European_Communities(EC).private]]'
+  - '[[/_personal/Earth/Continent/Europe/European_Communities(EC).personal|European_Communities(EC).personal]]'
+  - '[[/_secret/Earth/Continent/Europe/European_Communities(EC).secret|European_Communities(EC).secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/European_Communities(EC)|European_Communities(EC)]]"
-  - "[[/_public/Earth/Continent/Europe/European_Communities(EC).public|European_Communities(EC).public]]"
-  - "[[/_internal/Earth/Continent/Europe/European_Communities(EC).internal|European_Communities(EC).internal]]"
-  - "[[/_protect/Earth/Continent/Europe/European_Communities(EC).protect|European_Communities(EC).protect]]"
-  - "[[/_private/Earth/Continent/Europe/European_Communities(EC).private|European_Communities(EC).private]]"
-  - "[[/_personal/Earth/Continent/Europe/European_Communities(EC).personal|European_Communities(EC).personal]]"
-  - "[[/_secret/Earth/Continent/Europe/European_Communities(EC).secret|European_Communities(EC).secret]]"
+- '[[/_Standards/Earth/Continent/Europe/European_Communities(EC)|European_Communities(EC)]]'
+- '[[/_public/Earth/Continent/Europe/European_Communities(EC).public|European_Communities(EC).public]]'
+- '[[/_internal/Earth/Continent/Europe/European_Communities(EC).internal|European_Communities(EC).internal]]'
+- '[[/_protect/Earth/Continent/Europe/European_Communities(EC).protect|European_Communities(EC).protect]]'
+- '[[/_private/Earth/Continent/Europe/European_Communities(EC).private|European_Communities(EC).private]]'
+- '[[/_personal/Earth/Continent/Europe/European_Communities(EC).personal|European_Communities(EC).personal]]'
+- '[[/_secret/Earth/Continent/Europe/European_Communities(EC).secret|European_Communities(EC).secret]]'
+has_id_wikidata: Q993160
+dv_has_:
+  name_:
+    ar: مجموعات أوروبية
+    be: Еўрапейскія супольнасці
+    bg: Европейски общности
+    ca: Comunitats Europees
+    co: Cumunità europei
+    cs: Evropská společenství
+    de: Europäische Gemeinschaften
+    el: Ευρωπαϊκές Κοινότητες
+    en: European Communities
+    eo: Eŭropa Komunumaro
+    es: Comunidades Europeas
+    fi: Euroopan yhteisöt
+    fr: Communautés européennes
+    fy: Europeeske Mienskippen
+    ga: Comhphobail Eorpacha
+    gl: Comunidades Europeas
+    he: הקהילות האירופאיות
+    hu: Európai Közösségek
+    ia: Communitates europee
+    io: Europana Komunitato
+    it: Comunità europee
+    ja: 欧州諸共同体
+    kn: ಐರೋಪ್ಯ ಸಮುದಾಯಗಳು
+    ko: 유럽의 공동체
+    la: Communitates Europaeae
+    lb: Europäesch Communautéiten
+    li: Europese Gemeinsjappe
+    lv: Eiropas kopiena
+    mk: Европски заедници
+    my: ဥရောပဘုံအဖွဲ့
+    nb: De europeiske fellesskap
+    nl: Europese Gemeenschappen
+    nn: Dei europeiske fellesskapa
+    pl: Wspólnoty Europejskie
+    pt: Comunidades Europeias
+    ro: Comunitățile Europene
+    ru: Европейские сообщества
+    sco: European Commonities
+    sk: Európske spoločenstvá
+    sl: Evropske skupnosti
+    sq: Komunitetet Evropiane
+    sr: Европске заједнице
+    sv: Europeiska gemenskaperna
+    tr: Avrupa Toplulukları
+    uk: Європейські спільноти
+    vi: Các cộng đồng châu Âu
+    war: Mga Katiringban Europeanon
+    zh: 欧洲各共同体
+aliases:
+- Avrupa Toplulukları
+- Comhphobail Eorpacha
+- Communautés européennes
+- Communitates Europaeae
+- Communitates europee
+- Comunidades Europeas
+- Comunidades Europeias
+- Comunitats Europees
+- Comunità europee
+- Comunitățile Europene
+- Cumunità europei
+- Các cộng đồng châu Âu
+- De europeiske fellesskap
+- Dei europeiske fellesskapa
+- Eiropas kopiena
+- Euroopan yhteisöt
+- Europana Komunitato
+- European Commonities
+- European Communities
+- Europeeske Mienskippen
+- Europeiska gemenskaperna
+- Europese Gemeenschappen
+- Europese Gemeinsjappe
+- Europäesch Communautéiten
+- Europäische Gemeinschaften
+- Európai Közösségek
+- Európske spoločenstvá
+- Evropske skupnosti
+- Evropská společenství
+- Eŭropa Komunumaro
+- Komunitetet Evropiane
+- Mga Katiringban Europeanon
+- Wspólnoty Europejskie
+- Ευρωπαϊκές Κοινότητες
+- Європейські спільноти
+- Еўрапейскія супольнасці
+- Европейски общности
+- Европейские сообщества
+- Европске заједнице
+- Европски заедници
+- הקהילות האירופאיות
+- مجموعات أوروبية
+- ಐರೋಪ್ಯ ಸಮುದಾಯಗಳು
+- ဥရောပဘုံအဖွဲ့
+- 欧州諸共同体
+- 欧洲各共同体
+- 유럽의 공동체
 ---
-
 > The European Communities (EC) were 3 international organizations 
 > that were governed by the same set of institutions. These were 
 > - the European Coal and Steel Community (ECSC), 

@@ -1,37 +1,267 @@
 ---
 aliases:
-  - metabolic
-  - Metabolism
-  - Stoffwechsel 
+- aineenvaihdunta
+- anyagcsere
+- Efnaskipti
+- Imayay yamkiy
+- Látková premena
+- meitibileacht
+- metabolaeth
+- Metaboledh
+- Metabolegezh
+- Metaboli
+- metabolic
+- Metabolio
+- Metabolis
+- Metabolisim
+- Metabolism
+- Metabolisme
+- metabolismo
+- metabolisms
+- Metabolismu
+- metabolismus
+- Metabolizam
+- metabolizm
+- Metabolizma
+- metabolizmas
+- Metabolizmi
+- metabolo
+- Metabolėzmos
+- metabołismo
+- Métabolisme
+- Nadheefa
+- presnova
+- stoffskifte
+- stoffskifteprosess
+- Stoffwechsel
+- Stoffwessel
+- stofskifte
+- stofwisseling
+- Stoofwaksel
+- tete reko
+- Thoi-chhia
+- trao đổi chất
+- Tāi-siā
+- ungkai bina
+- μεταβολισμός
+- Бодисын солилцоо
+- Зат алмашуу
+- Матдәләр алмашыу
+- метабалізм
+- Метаболізм
+- метаболизам
+- Метаболизм
+- Метаболизъм
+- мэтабалізм
+- обмін речовин
+- ХӀамаш хувцаялар
+- Экологиялық метаболизм
+- Նյութափոխանակություն
+- מטבוליזם
+- מעטאבאליזם
+- أيض
+- استقلاب
+- استِقلاب
+- دگرگشت
+- متابولیسم
+- ميطابوليزم
+- میٹابولزم
+- مێتابۆلیزم
+- चयापचय
+- मेटाबॉलिज्म
+- मेटाबोलिजम
+- বিপাক
+- বিপাক ক্ৰিয়া
+- ਮੈਟਾਬੋਲਿਜ਼ਮ
+- ચયાપચય
+- ଚୟାପଚୟ
+- வளர்சிதைமாற்றம்
+- ಚಯಾಪಚಯ
+- ഉപാപചയം
+- เมแทบอลิซึม
+- ဇီဝကမ္မဖြစ်စဉ်
+- ဇီဝဖြစ်စဉ်
+- მეტაბოლიზმი
+- ገንባፍራሽ ቅንባሮ
+- 代謝
+- 代谢
+- 新陳代謝
+- 물질대사
 has_id_wikidata: Q1057
 Colon_Classification: G:33
 Commons_category: Metabolism
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Metabolizm,11777586]]"
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Metabolizm,11777586]]'
 exact_match: http://purl.obolibrary.org/obo/GO_0008152
-has_contributing_factor: "[[_Standards/WikiData/WD~nutrition,2138622]]"
+has_contributing_factor: '[[_Standards/WikiData/WD~nutrition,2138622]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~anabolism,184681]]"
-  - "[[_Standards/WikiData/WD~catabolic_process,21130714]]"
+- '[[_Standards/WikiData/WD~anabolism,184681]]'
+- '[[_Standards/WikiData/WD~catabolic_process,21130714]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Metabolism-en.svg
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/METABOLIZM.html
 MeSH_tree_code: G03
 OmegaWiki_Defined_Meaning: 2313
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%86%D5%B5%D5%B8%D6%82%D5%A9%D5%A1%D6%83%D5%B8%D5%AD%D5%A1%D5%B6%D5%A1%D5%AF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Metabolism%29.ogg
-subclass_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Metabolism,8085091]]"
+subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Metabolism,8085091]]'
 UMLS_CUI:
-  - C2350543
-  - C0025519
+- C2350543
+- C0025519
+dv_has_:
+  name_:
+    af: metabolisme
+    am: ገንባፍራሽ ቅንባሮ
+    an: Metabolismo
+    ar: أيض
+    ary: ميطابوليزم
+    as: বিপাক ক্ৰিয়া
+    ast: Metabolismu
+    av: Метаболизм
+    az: Metabolizm
+    azb: متابولیسم
+    ba: Матдәләр алмашыу
+    bcl: Metabolismo
+    be: метабалізм
+    be-tarask: мэтабалізм
+    bg: Метаболизъм
+    bho: मेटाबॉलिज्म
+    bn: বিপাক
+    br: Metabolegezh
+    bs: metabolizam
+    btm: Metabolisme
+    ca: metabolisme
+    cbk-zam: Metabolismo
+    ce: Метаболизм
+    ckb: مێتابۆلیزم
+    crh: metabolizm
+    cs: metabolismus
+    cv: Метаболизм
+    cy: metabolaeth
+    da: stofskifte
+    de: Stoffwechsel
+    de-ch: Stoffwechsel
+    el: μεταβολισμός
+    en: metabolism
+    en-ca: Metabolism
+    en-gb: metabolism
+    eo: metabolo
+    es: metabolismo
+    et: Metabolism
+    eu: metabolismo
+    ext: Metabolismu
+    fa: دگرگشت
+    fi: aineenvaihdunta
+    fr: métabolisme
+    frr: Stoofwaksel
+    fur: Metabolisim
+    ga: meitibileacht
+    gl: metabolismo
+    gn: tete reko
+    gor: Metabolisme
+    gsw: Stoffwechsel
+    gu: ચયાપચય
+    hak: Thoi-chhia
+    he: מטבוליזם
+    hi: चयापचय
+    hif: Metabolism
+    hr: metabolizam
+    ht: Metabolis
+    hu: anyagcsere
+    hy: Նյութափոխանակություն
+    id: Metabolisme
+    ilo: metabolismo
+    inh: ХӀамаш хувцаялар
+    io: Metabolio
+    is: Efnaskipti
+    it: metabolismo
+    ja: 代謝
+    jv: Metabolisme
+    ka: მეტაბოლიზმი
+    kaa: Metabolizm
+    kk: Экологиялық метаболизм
+    kn: ಚಯಾಪಚಯ
+    knc: Metabolism
+    ko: 물질대사
+    krc: Метаболизм
+    kw: Metaboledh
+    ky: Зат алмашуу
+    la: Metabolismus
+    lb: Metabolismus
+    lez: Метаболизм
+    lfn: metaboli
+    li: Metabolisme
+    lmo: Metabolism
+    lt: metabolizmas
+    lv: metabolisms
+    lzh: 代謝
+    mad: Metabolisme
+    mk: метаболизам
+    ml: ഉപാപചയം
+    mn: Бодисын солилцоо
+    mr: चयापचय
+    ms: ungkai bina
+    my: ဇီဝကမ္မဖြစ်စဉ်
+    nan: Tāi-siā
+    nb: stoffskifte
+    nds: Stoffwessel
+    new: मेटाबोलिजम
+    nl: stofwisseling
+    nn: stoffskifteprosess
+    oc: metabolisme
+    om: Nadheefa
+    or: ଚୟାପଚୟ
+    pa: ਮੈਟਾਬੋਲਿਜ਼ਮ
+    pl: metabolizm
+    pms: Metabolism
+    pnb: میٹابولزم
+    ps: استقلاب
+    pt: metabolismo
+    pt-br: Metabolismo
+    qu: Imayay yamkiy
+    rki: ဇီဝဖြစ်စဉ်
+    ro: metabolism
+    ru: метаболизм
+    rue: Метаболізм
+    sah: Метаболизм
+    sgs: Metabolėzmos
+    sh: Metabolizam
+    sk: Látková premena
+    sl: presnova
+    sq: Metabolizmi
+    sr: метаболизам
+    sr-ec: метаболизам
+    su: Métabolisme
+    sv: metabolism
+    sw: Metaboli
+    ta: வளர்சிதைமாற்றம்
+    th: เมแทบอลิซึม
+    tl: Metabolismo
+    tr: Metabolizma
+    tt: Метаболизм
+    udm: метаболизм
+    uk: обмін речовин
+    ur: استِقلاب
+    uz: Metabolizm
+    vec: metabołismo
+    vep: Metabolizm
+    vi: trao đổi chất
+    war: Metabolismo
+    wuu: 新陳代謝
+    xmf: მეტაბოლიზმი
+    yi: מעטאבאליזם
+    yue: 新陳代謝
+    zh: 代謝
+    zh-cn: 代谢
+    zh-hk: 新陳代謝
+    zh-tw: 代謝
 ---
-
 # [[Metabolism]] 
 
 #is_/same_as :: [[../WikiData/WD~Metabolism,1057|WD~Metabolism,1057]] 

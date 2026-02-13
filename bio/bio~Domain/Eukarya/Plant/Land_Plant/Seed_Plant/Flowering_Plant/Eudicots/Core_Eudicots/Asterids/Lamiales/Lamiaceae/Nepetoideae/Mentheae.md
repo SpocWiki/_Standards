@@ -1,16 +1,111 @@
 ---
 aliases:
+- Mentheae
+- mētru cilts
+- Мятные
+- نعناعاوية
+- 薄荷族
 has_id_wikidata: Q7638745
-parent_taxon: "[[_Standards/WikiData/WD~Nepetoideae,138199]]"
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: '[[_Standards/WikiData/WD~Nepetoideae,138199]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesensalbei%201.jpg
 Commons_category: Mentheae
 taxon_name: Mentheae
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2099
 UMLS_CUI: C1229036
+dv_has_:
+  name_:
+    af: Mentheae
+    an: Mentheae
+    ar: نعناعاوية
+    ast: Mentheae
+    az: Mentheae
+    bar: Mentheae
+    be: Mentheae
+    bg: Mentheae
+    br: Mentheae
+    ca: Mentheae
+    ceb: Mentheae
+    co: Mentheae
+    cs: Mentheae
+    cy: Mentheae
+    da: Mentheae
+    de: Mentheae
+    de-at: Mentheae
+    de-ch: Mentheae
+    en: Mentheae
+    en-ca: Mentheae
+    en-gb: Mentheae
+    eo: Mentheae
+    es: Mentheae
+    et: Mentheae
+    eu: Mentheae
+    ext: Mentheae
+    fi: Mentheae
+    fr: Mentheae
+    frp: Mentheae
+    fur: Mentheae
+    ga: Mentheae
+    gd: Mentheae
+    gl: Mentheae
+    gsw: Mentheae
+    hr: Mentheae
+    hu: Mentheae
+    ia: Mentheae
+    id: Mentheae
+    ie: Mentheae
+    io: Mentheae
+    is: Mentheae
+    it: Mentheae
+    kg: Mentheae
+    la: Mentheae
+    lb: Mentheae
+    li: Mentheae
+    lij: Mentheae
+    lv: mētru cilts
+    mg: Mentheae
+    min: Mentheae
+    ms: Mentheae
+    mul: Mentheae
+    nap: Mentheae
+    nb: Mentheae
+    nds: Mentheae
+    nds-nl: Mentheae
+    nl: Mentheae
+    nn: Mentheae
+    nrm: Mentheae
+    nys: Mentheae
+    oc: Mentheae
+    pcd: Mentheae
+    pl: Mentheae
+    pms: Mentheae
+    pt: Mentheae
+    pt-br: Mentheae
+    rm: Mentheae
+    ro: Mentheae
+    ru: Мятные
+    sc: Mentheae
+    scn: Mentheae
+    sco: Mentheae
+    sk: Mentheae
+    sl: Mentheae
+    sq: Mentheae
+    sv: Mentheae
+    sw: Mentheae
+    uk: Mentheae
+    vec: Mentheae
+    vi: Mentheae
+    vls: Mentheae
+    vo: Mentheae
+    wa: Mentheae
+    war: Mentheae
+    wo: Mentheae
+    zh: 薄荷族
+    zh-cn: 薄荷族
+    zh-hans: 薄荷族
+    zu: Mentheae
 ---
-
 # [[Mentheae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745|WD~Mentheae,7638745]]  

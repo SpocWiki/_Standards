@@ -21,8 +21,8 @@ dv_is_same_as:
   - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.private|Fourth_Estate.private]]"
   - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.personal|Fourth_Estate.personal]]"
   - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/Fourth_Estate.secret|Fourth_Estate.secret]]"
+has_id_wikidata: Q926333
 ---
-
 ## #has_/text_of_/abstract 
 
 > The term **fourth estate** or fourth power refers to the press and news media 

@@ -1,11 +1,65 @@
 ---
 aliases:
-  - Tarnung
-  - Camouflage
+- Asengel
+- Camoflatge
+- Camouflage
+- camuffamento
+- camuflagem
+- camuflaj
+- camuflaje
+- camuflatge
+- Camuflaxe
+- dathú cosanta
+- Dissimulatio
+- Kamafleji
+- Kamoeflering
+- kamouflage
+- Kamouflaj
+- kamuflado
+- Kamuflaj
+- Kamuflaje
+- kamuflase
+- kamuflasje
+- kamuflaż
+- Kamufliažas
+- Kamuflimi
+- Kamuflyaj
+- kamufláž
+- Kamûflaazje
+- kudhliw
+- Maskiranje
+- maskirni vzorec
+- Maskēšanās
+- naamiointi
+- Ngụy trang
+- penyamaran
+- Tarnung
+- touellguzh
+- Varjevärvus
+- álcázás
+- Камуфлаж
+- камуфлажа
+- камуфляж
+- Маскирање
+- Ներկաքողարկում
+- הסוואה
+- استتار
+- تمويه
+- خۆشاردنەوە
+- چھلاورن
+- کموپلاژ
+- छद्मावरण
+- কেমোফ্লেজ
+- உருமறைப்பு
+- カモフラージュ
+- 伪装 (动物学)
+- 偽裝
+- 僞裝 (生物學)
+- 카무플라주
 has_id_wikidata: Q196113
 different_from:
-  - '[[_Standards/WikiData/WD~military_camouflage,196086]]'
-  - '[[_Standards/WikiData/WD~camouflage_pattern,1763187]]'
+- '[[_Standards/WikiData/WD~military_camouflage,196086]]'
+- '[[_Standards/WikiData/WD~camouflage_pattern,1763187]]'
 subclass_of: '[[_Standards/WikiData/WD~technique,2695280]]'
 described_by_source: '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
 studied_by: '[[_Standards/WikiData/WD~biology_of_colour,105582462]]'
@@ -14,10 +68,78 @@ Commons_category: Camouflage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2005-Draco-dussumieri.jpg
 P8189: 987007283385905171
 hashtag:
-  - Q196113
+- Q196113
 hashtag_: Q196113
+dv_has_:
+  name_:
+    af: Kamoeflering
+    ar: تمويه
+    az: Kamuflyaj
+    be: камуфляж
+    be-tarask: камуфляж
+    bg: Камуфлаж
+    bn: কেমোফ্লেজ
+    br: touellguzh
+    ca: camuflatge
+    ckb: خۆشاردنەوە
+    cs: kamufláž
+    da: camouflage
+    de: Tarnung
+    en: camouflage
+    en-us: camouflage
+    eo: kamuflado
+    es: camuflaje
+    et: Varjevärvus
+    eu: Kamuflaje
+    fa: استتار
+    fi: naamiointi
+    fr: camouflage
+    fy: Kamûflaazje
+    ga: dathú cosanta
+    gl: Camuflaxe
+    he: הסוואה
+    hi: छद्मावरण
+    hr: Maskiranje
+    ht: Kamouflaj
+    hu: álcázás
+    hy: Ներկաքողարկում
+    ia: Camouflage
+    id: kamuflase
+    it: camuffamento
+    ja: カモフラージュ
+    kab: Asengel
+    kk: Камуфляж
+    ko: 카무플라주
+    kw: kudhliw
+    la: Dissimulatio
+    lb: Tarnung
+    lt: Kamufliažas
+    lv: Maskēšanās
+    mk: камуфлажа
+    ms: penyamaran
+    nb: kamuflasje
+    nl: camouflage
+    nn: kamuflasje
+    oc: Camoflatge
+    pl: kamuflaż
+    ps: کموپلاژ
+    pt: camuflagem
+    ro: camuflaj
+    ru: камуфляж
+    sl: maskirni vzorec
+    sq: Kamuflimi
+    sr: Маскирање
+    sv: kamouflage
+    sw: Kamafleji
+    ta: உருமறைப்பு
+    tr: Kamuflaj
+    uk: камуфляж
+    ur: چھلاورن
+    vi: Ngụy trang
+    wuu: 伪装 (动物学)
+    yue: 僞裝 (生物學)
+    zh: 偽裝
 ---
-
 # [[Camouflage]] 
 
 #is_/same_as :: [[../../WikiData/WD~Camouflage,196113|WD~Camouflage,196113]] 

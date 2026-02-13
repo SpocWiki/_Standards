@@ -1,44 +1,69 @@
 ---
 aliases:
-  - Terrence Vance Gilliam
-  - Terry Gilliam
-  - Terry_Gilliam
-  - Gilliam,Terry
+- Gilliam,Terry
+- Terijs Giljams
+- Terrence Vance Gilliam
+- Terry Gilliam
+- Terry_Gilliam
+- Τέρι Γκίλιαμ
+- Тери Гилијам
+- Тери Гилиъм
+- Терий Гиллиам
+- Террі Ґілліам
+- Терри Гиллиам
+- Тэры Гіліям
+- Թերի Գիլիամ
+- טרי גיליאם
+- تری گیلیام
+- تيرى جيليام
+- تيري غيليام
+- تێری جیلیان
+- ٹیری گیلیم
+- ਟੈਰੀ ਗਿਲੀਅਮ
+- டெர்ரி கிலியம்
+- టెర్రీ గిలియమ్
+- เทรี กิลเลียม
+- ტერი გილიამი
+- テリー・ギリアム
+- 泰利·基廉
+- 泰利基咸
+- 特里·吉列姆
+- 테리 길리엄
 has_id_wikidata: Q25078
 occupation:
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~animator,266569]]'
-  - '[[_Standards/WikiData/WD~comics_artist,715301]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~animator,266569]]'
+- '[[_Standards/WikiData/WD~comics_artist,715301]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 award_received:
-  - '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
-  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Short_Film,1377756]]'
-  - '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
-  - '[[_Standards/WikiData/WD~Winsor_McCay_Award,8025998]]'
-  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
-  - '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
-  - '[[_Standards/WikiData/WD~Time_Machine_Award,25405526]]'
-  - '[[_Standards/WikiData/WD~Annual_award_ACFK,136442039]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Short_Film,1377756]]'
+- '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+- '[[_Standards/WikiData/WD~Winsor_McCay_Award,8025998]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~Time_Machine_Award,25405526]]'
+- '[[_Standards/WikiData/WD~Annual_award_ACFK,136442039]]'
 notable_work: '[[_Standards/WikiData/WD~The_Imaginarium_of_Doctor_Parnassus,578344]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Occidental_College,1346110]]'
-  - '[[_Standards/WikiData/WD~Birmingham_High_School,4916715]]'
+- '[[_Standards/WikiData/WD~Occidental_College,1346110]]'
+- '[[_Standards/WikiData/WD~Birmingham_High_School,4916715]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Short_Film,1377756]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Short_Film,1377756]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Terry_Gilliam,6310585]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Q10514602,10514602]]'
-  - '[[_Standards/WikiData/WD~Q16282340,16282340]]'
-  - '[[_Standards/WikiData/WD~Q19830613,19830613]]'
+- '[[_Standards/WikiData/WD~Q10514602,10514602]]'
+- '[[_Standards/WikiData/WD~Q16282340,16282340]]'
+- '[[_Standards/WikiData/WD~Q19830613,19830613]]'
 family_name: '[[_Standards/WikiData/WD~Gilliam,16870435]]'
 filmography: '[[_Standards/WikiData/WD~Terry_Gilliam_filmography,17090817]]'
 spouse: '[[_Standards/WikiData/WD~Maggie_Weston,22240704]]'
@@ -51,8 +76,8 @@ native_language: '[[_Standards/WikiData/WD~English,1860]]'
 member_of: '[[_Standards/WikiData/WD~Monty_Python,16402]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 3
 place_of_birth: '[[_Standards/WikiData/WD~Minneapolis,36091]]'
 Commons_gallery: Terry Gilliam
@@ -70,8 +95,95 @@ ISNI: 0000000121039228
 Libris_URI: 1zcfjqlk1zgf0dw
 Plex_person_key: 5d776826a091de001f2e60de
 Wolfram_Language_entity_code: Entity["Person", "TerryGilliam::s59y7"]
+dv_has_:
+  name_:
+    an: Terry Gilliam
+    ar: تيري غيليام
+    arz: تيرى جيليام
+    ast: Terry Gilliam
+    be: Тэры Гіліям
+    be-tarask: Тэры Гіліям
+    bg: Тери Гилиъм
+    br: Terry Gilliam
+    bs: Terry Gilliam
+    ca: Terry Gilliam
+    ckb: تێری جیلیان
+    cs: Terry Gilliam
+    cy: Terry Gilliam
+    da: Terry Gilliam
+    de: Terry Gilliam
+    el: Τέρι Γκίλιαμ
+    en: Terry Gilliam
+    en-ca: Terry Gilliam
+    en-gb: Terry Gilliam
+    eo: Terry Gilliam
+    es: Terry Gilliam
+    eu: Terry Gilliam
+    ext: Terry Gilliam
+    fa: تری گیلیام
+    fi: Terry Gilliam
+    fr: Terry Gilliam
+    ga: Terry Gilliam
+    gl: Terry Gilliam
+    he: טרי גיליאם
+    hr: Terry Gilliam
+    hu: Terry Gilliam
+    hy: Թերի Գիլիամ
+    ia: Terry Gilliam
+    id: Terry Gilliam
+    io: Terry Gilliam
+    is: Terry Gilliam
+    it: Terry Gilliam
+    ja: テリー・ギリアム
+    ka: ტერი გილიამი
+    kk: Терри Гиллиам
+    ko: 테리 길리엄
+    la: Terry Gilliam
+    lb: Terry Gilliam
+    lt: Terry Gilliam
+    lv: Terijs Giljams
+    mg: Terry Gilliam
+    mk: Тери Гилијам
+    ms: Terry Gilliam
+    mul: Terry Gilliam
+    nan: Terry Gilliam
+    nb: Terry Gilliam
+    nl: Terry Gilliam
+    nn: Terry Gilliam
+    oc: Terry Gilliam
+    pa: ਟੈਰੀ ਗਿਲੀਅਮ
+    pap: Terry Gilliam
+    pl: Terry Gilliam
+    pt: Terry Gilliam
+    pt-br: Terry Gilliam
+    ro: Terry Gilliam
+    ru: Терри Гиллиам
+    sco: Terry Gilliam
+    sh: Terry Gilliam
+    sk: Terry Gilliam
+    sl: Terry Gilliam
+    sq: Terry Gilliam
+    sr: Тери Гилијам
+    sr-ec: Тери Гилијам
+    sv: Terry Gilliam
+    ta: டெர்ரி கிலியம்
+    te: టెర్రీ గిలియమ్
+    tg: Терий Гиллиам
+    th: เทรี กิลเลียม
+    tl: Terry Gilliam
+    tr: Terry Gilliam
+    uk: Террі Ґілліам
+    ur: ٹیری گیلیم
+    vi: Terry Gilliam
+    war: Terry Gilliam
+    wuu: 特里·吉列姆
+    yo: Terry Gilliam
+    yue: 泰利基咸
+    zh: 特里·吉列姆
+    zh-cn: 特里·吉列姆
+    zh-hans: 特里·吉列姆
+    zh-sg: 泰利·基廉
 ---
-
 # [[Gilliam,Terry]] 
 
 #is_/member_/of :: [[Monty_Python]] 

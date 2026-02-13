@@ -1,32 +1,48 @@
 ---
 aliases:
-  - Edward Vincent Sullivan
-  - Edward Sullivan
-  - Ed Sullivan
-  - Ed_Sullivan
-  - Sullivan
-  - Sullivan,Ed
+- Ed Salivan
+- Ed Sullivan
+- Eduardus Sullivan
+- Edward Sullivan
+- Edward Vincent Sullivan
+- Ed_Sullivan
+- Sullivan
+- Sullivan,Ed
+- Έντουαρντ Βίνσεντ Σάλιβαν
+- Ед Салліван
+- Ед Съливан
+- Эд Саліван
+- Эд Салливан
+- Էդ Սալիվան
+- אד סאליבן
+- إد سوليفان
+- اد سالیوان
+- اد سوليفان
+- เอ็ด ซัลลิแวน
+- エド・サリヴァン
+- 埃德·沙利文
+- 에드 설리번
 has_id_wikidata: Q83807
 place_of_birth: '[[_Standards/WikiData/WD~Harlem,189074]]'
 cause_of_death: '[[_Standards/WikiData/WD~esophageal_cancer,372701]]'
 occupation:
-  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~presenter,13590141]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~television_presenter,947873]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~presenter,13590141]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Q1282258,1282258]]'
-  - '[[_Standards/WikiData/WD~Vincent,4928254]]'
+- '[[_Standards/WikiData/WD~Q1282258,1282258]]'
+- '[[_Standards/WikiData/WD~Vincent,4928254]]'
 place_of_burial: '[[_Standards/WikiData/WD~Ferncliff_Cemetery,1771319]]'
 family_name: '[[_Standards/WikiData/WD~Sullivan,2364643]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 date_of_birth: 1901-09-28T00:00:00Z
 award_received:
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Online_Film_&_Television_Association_Award,22055485]]'
-  - '[[_Standards/WikiData/WD~Trustees_Award,122158106]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Online_Film_&_Television_Association_Award,22055485]]'
+- '[[_Standards/WikiData/WD~Trustees_Award,122158106]]'
 educated_at: '[[_Standards/WikiData/WD~Port_Chester_High_School,20011447]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -43,8 +59,61 @@ official_website: http://www.edsullivan.com
 ISNI: 0000000117457697
 U_S_National_Archives_Identifier: 23811154
 Plex_person_key: 5d77684f54c0f0001f306318
+dv_has_:
+  name_:
+    ar: إد سوليفان
+    arz: اد سوليفان
+    ast: Ed Sullivan
+    be-tarask: Эд Саліван
+    bg: Ед Съливан
+    ca: Ed Sullivan
+    cs: Ed Sullivan
+    cy: Ed Sullivan
+    da: Ed Sullivan
+    de: Ed Sullivan
+    el: Έντουαρντ Βίνσεντ Σάλιβαν
+    en: Ed Sullivan
+    eo: Ed Sullivan
+    es: Ed Sullivan
+    et: Ed Sullivan
+    eu: Ed Sullivan
+    fa: اد سالیوان
+    fi: Ed Sullivan
+    fr: Ed Sullivan
+    ga: Ed Sullivan
+    gl: Ed Sullivan
+    he: אד סאליבן
+    hu: Ed Sullivan
+    hy: Էդ Սալիվան
+    id: Ed Sullivan
+    it: Ed Sullivan
+    ja: エド・サリヴァン
+    ko: 에드 설리번
+    la: Eduardus Sullivan
+    mg: Ed Sullivan
+    mul: Ed Sullivan
+    nb: Ed Sullivan
+    nl: Ed Sullivan
+    nn: Ed Sullivan
+    oc: Ed Sullivan
+    pap: Ed Sullivan
+    pl: Ed Sullivan
+    pt: Ed Sullivan
+    pt-br: Ed Sullivan
+    ro: Ed Sullivan
+    ru: Эд Салливан
+    sh: Ed Sullivan
+    sl: Ed Sullivan
+    sq: Ed Sullivan
+    sr: Ed Salivan
+    sv: Ed Sullivan
+    th: เอ็ด ซัลลิแวน
+    tr: Ed Sullivan
+    uk: Ед Салліван
+    vi: Ed Sullivan
+    war: Ed Sullivan
+    zh: 埃德·沙利文
 ---
-
 # [[Sullivan,Ed]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Ed_Sullivan,83807|WD~Ed_Sullivan,83807]] 

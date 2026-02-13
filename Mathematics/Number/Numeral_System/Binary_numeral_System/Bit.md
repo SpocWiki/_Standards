@@ -1,42 +1,198 @@
 ---
 aliases:
-  - Bits
-  - Shannon
-  - Shannons
-  - Bit
+- bico
+- bis
+- Bit
+- bitas
+- biti
+- bitio
+- bito
+- Bits
+- bitt
+- bitti
+- bít
+- giotán
+- isincwana
+- Shannon
+- Shannons
+- Twāling
+- δυαδικό ψηφίο
+- біт
+- бит
+- բիթ
+- ביט
+- סיבית
+- بت
+- بيټ
+- بٹ
+- بیت
+- تثم
+- ٻٽ
+- द्वयंक
+- बाईट
+- বিট
+- ਬਿਟ
+- இருமம்
+- బిట్
+- ಬಿಟ್
+- ബിറ്റ്
+- บิต
+- ບິຕ
+- ბიტი
+- ビット
+- 位元
+- 柲
+- 比特
+- 비트
 has_id_wikidata: Q8805
 instance_of:
-  - '[[_Standards/WikiData/WD~concept,151885]]'
-  - '[[_Standards/WikiData/WD~unit_of_information,3550873]]'
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~unit_of_information,3550873]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~quantity,309314]]'
+- '[[_Standards/WikiData/WD~quantity,309314]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 part_of: '[[_Standards/WikiData/WD~International_System_of_Quantities,16203461]]'
 measured_physical_quantity:
-  - '[[_Standards/WikiData/WD~information,71699827]]'
-  - '[[_Standards/WikiData/WD~equivalent_binary_storage_capacity,106247681]]'
+- '[[_Standards/WikiData/WD~information,71699827]]'
+- '[[_Standards/WikiData/WD~equivalent_binary_storage_capacity,106247681]]'
 conversion_to_standard_unit:
-  - 0.6931471805599453
-  - 1
-  - 0.25
-  - 0.125
-  - 0.0009765625
+- 0.6931471805599453
+- 1
+- 0.25
+- 0.125
+- 0.0009765625
 different_from:
-  - '[[_Standards/WikiData/WD~byte,8799]]'
+- '[[_Standards/WikiData/WD~byte,8799]]'
 ComputerLanguage_com_definition: bit
 UCUM_code: bit
 unit_symbol:
-  - bit
-  - b
-  - bit
+- bit
+- b
+- bit
 UN_CEFACT_Common_Code: A99
 OmegaWiki_Defined_Meaning: 356586
 Stack_Exchange_tag: https://stackoverflow.com/tags/bit
 Wolfram_Language_unit_code: '"Bits"'
 IEV_number: 171-02-11
+dv_has_:
+  name_:
+    af: bis
+    an: bit
+    ang: Twāling
+    ar: بت
+    ast: bit
+    az: bit
+    azb: بیت
+    be: біт
+    be-tarask: біт
+    bg: бит
+    bn: বিট
+    br: bit
+    bs: bit
+    ca: bit
+    ckb: بیت
+    cs: bit
+    cy: bit
+    da: bit
+    de: Bit
+    de-ch: Bit
+    el: δυαδικό ψηφίο
+    en: bit
+    en-ca: bit
+    en-gb: bit
+    eo: bito
+    es: bit
+    et: bitt
+    eu: bit
+    fa: بیت
+    fi: bitti
+    fr: bit
+    fur: Bit
+    fy: bit
+    ga: giotán
+    gl: bit
+    he: סיבית
+    hi: द्वयंक
+    hr: bit
+    hu: bit
+    hy: բիթ
+    ia: bit
+    id: bit
+    io: bico
+    is: biti
+    it: bit
+    ja: ビット
+    ka: ბიტი
+    kaa: bit
+    kk: бит
+    kn: ಬಿಟ್
+    ko: 비트
+    ky: бит
+    la: bit
+    lb: Bit
+    lfn: bitio
+    lmo: bit
+    lo: ບິຕ
+    lt: bitas
+    lv: bits
+    mhr: бит
+    mk: бит
+    ml: ബിറ്റ്
+    mn: бит
+    mr: बाईट
+    ms: bit
+    mt: bit
+    mwl: bit
+    my: bit
+    nan: bit
+    nb: bit
+    nl: bit
+    nn: bit
+    oc: bit
+    os: бит
+    pa: ਬਿਟ
+    pap: bit
+    pap-aw: bit
+    pl: bit
+    pnb: بٹ
+    ps: بيټ
+    pt: bit
+    pt-br: bit
+    ro: bit
+    ru: бит
+    scn: bit
+    sco: bit
+    sd: ٻٽ
+    sh: bit
+    sk: bit
+    sl: bit
+    sq: bit
+    sr: бит
+    sr-ec: бит
+    sv: bit
+    sw: biti
+    ta: இருமம்
+    te: బిట్
+    tg: бит
+    th: บิต
+    tr: bit
+    tt: бит
+    tt-cyrl: бит
+    uk: біт
+    ur: تثم
+    uz: Bit
+    vi: bít
+    war: bit
+    wuu: 柲
+    yi: ביט
+    yue: 位元
+    zh: 位元
+    zh-cn: 比特
+    zh-hans: 比特
+    zh-tw: 位元
+    zu: isincwana
 ---
-
 # [[Bit]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bit,8805|WD~Bit,8805]] 

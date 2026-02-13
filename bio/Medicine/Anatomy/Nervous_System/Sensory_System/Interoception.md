@@ -1,3 +1,39 @@
+---
+has_id_wikidata: Q1668091
+dv_has_:
+  name_:
+    ar: حس داخلي
+    ca: Interocepció
+    de: Interozeption
+    en: interoception
+    es: Función interoceptiva
+    fr: intéroception
+    he: אינטרוספציה
+    it: Enterocezione
+    ja: 内受容感覚
+    kk: Интероцепция
+    nl: interoceptie
+    pt: Interocepção
+    ru: интроцепция
+    uz: Interoretsepsiya
+    zh: 內感受性
+aliases:
+- Enterocezione
+- Función interoceptiva
+- Interocepció
+- interoceptie
+- interoception
+- Interocepção
+- Interoretsepsiya
+- Interozeption
+- intéroception
+- Интероцепция
+- интроцепция
+- אינטרוספציה
+- حس داخلي
+- 內感受性
+- 内受容感覚
+---
 ## #has_/text_of_/abstract 
 
 > Interoception is the collection of senses providing information to the organism about the internal state of the body. This can be both conscious and subconscious. It encompasses the brain's process of integrating signals relayed from the body into specific subregions—like the brainstem, thalamus, insula, somatosensory, and anterior cingulate cortex—allowing for a complex and highly accurate representation of the physiological state of the body. This is important for maintaining homeostatic conditions in the body and, potentially, facilitating self-awareness.

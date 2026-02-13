@@ -1,31 +1,85 @@
 ---
 aliases:
-  - Murmeltier
-  - Groundhog
-  - Marmota
-  - Marmot
-  - Murmeldjur
-  - Świstak
-  - Marmotte
-  - сурок
-  - svišť
-  - Murmeltiereu
-  - Marmoto
-  - Murmeli
-  - Marmotta
-  - Švilpikai
-  - Murmeldyr
-  - Marmotten
-  - Сурок
-  - svizec
+- Akokatcic
+- Anguja kerana
+- bilotoleem
+- Dilchaʼ
+- Groundhog
+- Karoravad
+- marmat
+- Marmot
+- Marmota
+- Marmota alpina
+- Marmoten
+- Marmoto
+- Marmotta
+- Marmotte
+- Marmotten
+- Marmotă
+- Marmut
+- Marmòta
+- Marmôta
+- Moregan
+- mormota
+- Murkšķis
+- Murmandl
+- Murmeldjur
+- Murmeldyr
+- Murmeli
+- murmelit
+- Murmeltier
+- Murmeltiere
+- Murmeltiereu
+- Múrmeldýr
+- Sugʻurlar
+- Svisci
+- svizec
+- svišť
+- Swırlar
+- ümisejad
+- Świstak
+- Švilpikai
+- Μαρμότα
+- Бабак
+- Зæххы æхсæрæг
+- мармоти
+- мрмот
+- Сăвăр
+- Сураэпаш
+- Суркі
+- сурки
+- сурок
+- Суырлар
+- Таарбаҕаннар уустара
+- Тарвага
+- արջամուկ
+- מרמיטה
+- درِٛن
+- سۋىرلار
+- مارموت
+- مرموط
+- फीया
+- मार्मट
+- மர்மோட்
+- നിലയണ്ണാൻ
+- มาร์มอต
+- ཕྱི་ལྦགས།
+- ზაზუნა
+- マーモット
+- 土撥鼠
+- 旱獭
+- 旱獭属
+- 旱獺
+- 旱獺屬
+- 마멋
 has_id_wikidata: Q131567
 title: Marmota
 parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
 homonymous_taxon: '[[_Standards/WikiData/WD~Marmota,18402507]]'
 different_from: '[[_Standards/WikiData/WD~marmoset,19829485]]'
@@ -37,22 +91,22 @@ taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 OmegaWiki_Defined_Meaning: 1048856
 ITIS_TSN: 180136
 taxon_common_name:
-  - Marmot
-  - Murmeldjur
-  - Świstak
-  - Marmotte
-  - сурок
-  - svišť
-  - Murmeltiereu
-  - Marmoto
-  - Murmeli
-  - Marmoto
-  - Marmotta
-  - Švilpikai
-  - Murmeldyr
-  - Marmotten
-  - Сурок
-  - svizec
+- Marmot
+- Murmeldjur
+- Świstak
+- Marmotte
+- сурок
+- svišť
+- Murmeltiereu
+- Marmoto
+- Murmeli
+- Marmoto
+- Marmotta
+- Švilpikai
+- Murmeldyr
+- Marmotten
+- Сурок
+- svizec
 image: http://commons.wikimedia.org/wiki/Special:FilePath/071%20Wild%20marmot%20at%20Grand%20Muveran%20Nature%20Reserve%20Photo%20by%20Giles%20Laurent.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/2006%2C%20Murmeldjur%20BHW%202006.ogg
 EPPO_Code: 1MAROG
@@ -62,8 +116,119 @@ Commons_gallery: Marmota
 Commons_category: Marmota
 taxon_name: Marmota
 NBN_System_Key: NHMSYS0000376862
+dv_has_:
+  name_:
+    an: Marmota
+    ar: مرموط
+    arz: مرموط
+    ast: Marmota alpina
+    atj: Akokatcic
+    avk: bilotoleem
+    az: Marmot
+    ban: Marmot
+    bar: Murmandl
+    be: Суркі
+    be-tarask: суркі
+    bg: мармоти
+    bo: ཕྱི་ལྦགས།
+    br: Moregan
+    ca: Marmota
+    ceb: Marmota
+    cs: svišť
+    cv: Сăвăр
+    da: Murmeldyr
+    de: Murmeltiere
+    el: Μαρμότα
+    en: Marmota
+    eo: Marmoto
+    es: Marmota
+    et: ümisejad
+    eu: Marmota
+    ext: Marmota
+    fa: مارموت
+    fi: murmelit
+    fr: marmotte
+    frr: Marmoten
+    fy: Marmotten
+    ga: marmat
+    gl: Marmota
+    gn: Anguja kerana
+    gsw: Murmeli
+    he: מרמיטה
+    hi: फीया
+    hr: Svisci
+    hu: mormota
+    hy: արջամուկ
+    ia: Marmota
+    id: Marmot
+    ie: Marmota
+    inh: Сураэпаш
+    io: Marmoto
+    is: Múrmeldýr
+    it: Marmota
+    ja: マーモット
+    jv: Marmut
+    ka: ზაზუნა
+    kk: Суырлар
+    kk-arab: سۋىرلار
+    kk-cn: سۋىرلار
+    kk-cyrl: Суырлар
+    kk-kz: Суырлар
+    kk-latn: Swırlar
+    kk-tr: Swırlar
+    ko: 마멋
+    ks: درِٛن
+    la: Marmota
+    lt: Švilpikai
+    lv: Murkšķis
+    mg: Marmôta
+    mk: мрмот
+    ml: നിലയണ്ണാൻ
+    mn: Тарвага
+    mul: Marmota
+    nb: Murmeldyr
+    ne: मार्मट
+    nl: marmotten
+    nn: Murmeldyr
+    nv: Dilchaʼ
+    oc: Marmòta
+    os: Зæххы æхсæрæг
+    pl: Świstak
+    pms: Marmòta
+    pt: Marmota
+    pt-br: Marmota
+    ro: Marmotă
+    ru: сурки
+    sah: Таарбаҕаннар уустара
+    sc: Marmotta
+    sco: Marmota
+    sh: Svisci
+    sl: svizec
+    sq: Marmota
+    sr: Мрмот
+    su: Marmot
+    sv: Murmeldjur
+    ta: மர்மோட்
+    th: มาร์มอต
+    tl: Marmot
+    tr: Marmot
+    uk: Бабак
+    uz: Sugʻurlar
+    vec: Marmota
+    vep: Karoravad
+    vi: Marmota
+    vo: Marmota
+    war: Marmota
+    wuu: 旱獭属
+    yue: 土撥鼠
+    zh: 旱獭属
+    zh-cn: 旱獭属
+    zh-hans: 旱獭
+    zh-hant: 旱獺屬
+    zh-hk: 旱獺
+    zh-sg: 旱獭
+    zh-tw: 旱獺屬
 ---
-
 # [[Marmota]] 
 
 ![ ](Marmota/marmota.jpg)

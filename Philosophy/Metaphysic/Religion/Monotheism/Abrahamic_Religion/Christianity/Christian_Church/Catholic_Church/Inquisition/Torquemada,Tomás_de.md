@@ -1,52 +1,136 @@
 ---
 aliases:
-  - Tomás de Torquemada
-  - Tomás_de_Torquemada
-  - Thomas of Torquemada
-  - Torquemada,Tomás_de
-  - Torquemada,Tomás de
+- Thomas a Turrecremata
+- Thomas of Torquemada
+- Tomas de Torkemada
+- Tomás de Torquemada
+- Tomás_de_Torquemada
+- Torquemada,Tomás de
+- Torquemada,Tomás_de
+- Томас де Торквемада
+- Томас де Торкемада
+- Томас Тарквемада
+- Томас Тарквэмада
+- Томас Торквемада
+- Թոմաս Տորկվեմադա
+- תומאס דה טורקמדה
+- توماس دو تورکمادا
+- توماس دى توركيمادا
+- توماس دي توركيمادا
+- トマス・デ・トルケマダ
+- 托馬斯·德·托爾克馬達
+- 托马斯·德·托尔克马达
+- 토마스 데 토르케마다
 has_id_wikidata: Q210735
 name_in_native_language: Tomás de Torquemada
 date_of_death: 1498-09-25T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~Catholic_priest,250867]]"
-  - "[[_Standards/WikiData/WD~friar,548320]]"
-  - "[[_Standards/WikiData/WD~inquisitor,1664338]]"
-religious_order: "[[_Standards/WikiData/WD~Dominican_Order,131479]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Kingdom_of_Castile,179293]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Salamanca,308963]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~Catholic_priest,250867]]'
+- '[[_Standards/WikiData/WD~friar,548320]]'
+- '[[_Standards/WikiData/WD~inquisitor,1664338]]'
+religious_order: '[[_Standards/WikiData/WD~Dominican_Order,131479]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Castile,179293]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Salamanca,308963]]'
 described_by_source:
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 place_of_birth:
-  - "[[_Standards/WikiData/WD~Torquemada,603164]]"
-  - "[[_Standards/WikiData/WD~Valladolid,8356]]"
-relative: "[[_Standards/WikiData/WD~Juan_de_Torquemada,712941]]"
+- '[[_Standards/WikiData/WD~Torquemada,603164]]'
+- '[[_Standards/WikiData/WD~Valladolid,8356]]'
+relative: '[[_Standards/WikiData/WD~Juan_de_Torquemada,712941]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Royal_Monastery_of_St._Thomas,6102071]]"
-  - "[[_Standards/WikiData/WD~Ávila,15688]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Royal_Monastery_of_St._Thomas,6102071]]'
+- '[[_Standards/WikiData/WD~Ávila,15688]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 position_held:
-  - "[[_Standards/WikiData/WD~confessor,16827718]]"
-  - "[[_Standards/WikiData/WD~High_Inquisitor_of_Castille,24349141]]"
-  - "[[_Standards/WikiData/WD~Inquisitor_General_of_Aragon,24349207]]"
-given_name: "[[_Standards/WikiData/WD~Tomás,19888139]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Spanish,1321]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-place_of_death: "[[_Standards/WikiData/WD~Ávila,15688]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~confessor,16827718]]'
+- '[[_Standards/WikiData/WD~High_Inquisitor_of_Castille,24349141]]'
+- '[[_Standards/WikiData/WD~Inquisitor_General_of_Aragon,24349207]]'
+given_name: '[[_Standards/WikiData/WD~Tomás,19888139]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+place_of_death: '[[_Standards/WikiData/WD~Ávila,15688]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 date_of_birth: 1420-10-23T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tom%C3%A1s%20de%20Torquemada.jpg
 ISNI: 66421634
 Krugosvet_article_archived_: istoriya/TORKVEMADA_TOMAS.html
 Commons_category: Tomás de Torquemada
+dv_has_:
+  name_:
+    ar: توماس دي توركيمادا
+    arz: توماس دى توركيمادا
+    ast: Tomás de Torquemada
+    ba: Томас де Торквемада
+    be: Томас Тарквемада
+    be-tarask: Томас Тарквэмада
+    bg: Томас де Торквемада
+    br: Tomás de Torquemada
+    bs: Tomás de Torquemada
+    ca: Tomás de Torquemada
+    cs: Tomás de Torquemada
+    cy: Tomás de Torquemada
+    da: Tomás de Torquemada
+    de: Tomás de Torquemada
+    en: Tomás de Torquemada
+    eo: Tomás de Torquemada
+    es: Tomás de Torquemada
+    eu: Tomás de Torquemada
+    fa: توماس دو تورکمادا
+    fi: Tomás de Torquemada
+    fr: Tomás de Torquemada
+    ga: Tomás de Torquemada
+    gl: Tomás de Torquemada
+    gsw: Tomás de Torquemada
+    he: תומאס דה טורקמדה
+    hr: Tomás de Torquemada
+    hu: Tomás de Torquemada
+    hy: Թոմաս Տորկվեմադա
+    id: Tomás de Torquemada
+    it: Tomás de Torquemada
+    ja: トマス・デ・トルケマダ
+    kk: Томас Торквемада
+    ko: 토마스 데 토르케마다
+    la: Thomas a Turrecremata
+    lad: Tomas de Torkemada
+    lt: Tomás de Torquemada
+    mg: Tomás de Torquemada
+    mk: Томас де Торкемада
+    mul: Tomás de Torquemada
+    nb: Tomás de Torquemada
+    nds: Tomás de Torquemada
+    nl: Tomás de Torquemada
+    nn: Tomás de Torquemada
+    pl: Tomás de Torquemada
+    pt: Tomás de Torquemada
+    pt-br: Tomás de Torquemada
+    ro: Tomás de Torquemada
+    ru: Томас де Торквемада
+    sl: Tomás de Torquemada
+    sq: Tomás de Torquemada
+    sr: Томас де Торкемада
+    sr-ec: Томас де Торкемада
+    sr-el: Tomas de Torkemada
+    sv: Tomás de Torquemada
+    tr: Tomás de Torquemada
+    uk: Томас Торквемада
+    uz: Tomás de Torquemada
+    vi: Tomás de Torquemada
+    war: Tomás de Torquemada
+    yue: 托馬斯·德·托爾克馬達
+    zh: 托马斯·德·托尔克马达
+    zh-cn: 托马斯·德·托尔克马达
+    zh-hans: 托马斯·德·托尔克马达
+    zh-hant: 托馬斯·德·托爾克馬達
+    zh-hk: 托馬斯·德·托爾克馬達
+    zh-sg: 托马斯·德·托尔克马达
+    zh-tw: 托馬斯·德·托爾克馬達
 ---
-
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Tomás_de_Torquemada,210735|WD~Tomás_de_Torquemada,210735]]  
 
 ## #has_/text_of_/abstract 

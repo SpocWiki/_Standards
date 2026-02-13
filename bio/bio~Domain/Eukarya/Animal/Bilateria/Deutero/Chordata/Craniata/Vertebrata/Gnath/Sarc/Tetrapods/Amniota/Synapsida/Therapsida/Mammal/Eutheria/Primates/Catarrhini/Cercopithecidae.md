@@ -1,9 +1,162 @@
 ---
 aliases:
-  - Cercopithecidae
+- Apen van de Oude Wereld
+- Cercopitecide
+- Cercopithecidae
+- Cerkopitekedoj
+- cerkóffélék
+- dyreapar
+- dyreapefamilien
+- Hoondape
+- häntäapinat
+- Hünjaaben
+- koczkodanowate
+- kočkodanovití
+- Köpeksi maymunlar
+- Majmuni Starog sveta
+- Majmuni Starog svijeta
+- marekatte
+- markattartade apor
+- Martışka tärizdiler
+- medjoleem
+- Meerkatzenverwandte
+- Mico del Vell Món
+- Monyet Dunia Lama
+- Mērkaķi
+- Pärdiklased
+- Tó wónaanídę́ę́ʼ magí
+- zamorske mačke
+- Šunbeždžionės
+- Əntərmeymunlar
+- Κερκοπιθηκίδες
+- Коткоподобни маймуни
+- Мајмуни Старог света
+- мавпові
+- Мартышка йышшисем
+- Мартышка сымалдар
+- Мартышка тәрізділер
+- мартышкавыя
+- мартышковые
+- сабакападобныя малпы
+- старосветски мајмуни
+- կզակապիկներ
+- קופים בעלי זנב
+- د لرغونې نړۍ بیزو
+- سعدان العالم القديم
+- مارتىشكا تارىزدىلەر
+- میمونهای جهان قدیم
+- پرانی دنیا دے باندر
+- پرٛٲنؠ دُنیٲے پونٛز
+- पूर्वजगत बंदर
+- ანთრისებრნი
+- オナガザル科
+- 猴科
+- ꯑꯔꯤꯕ ꯃꯥꯂꯦꯝꯒꯤ ꯌꯣꯡ
+- 구세계원숭이
 title: Cercopithecidae
+has_id_wikidata: Q182968
+dv_has_:
+  name_:
+    an: Cercopithecidae
+    ar: سعدان العالم القديم
+    arz: سعدان العالم القديم
+    ast: Cercopithecidae
+    avk: medjoleem
+    az: Əntərmeymunlar
+    be: мартышкавыя
+    be-tarask: сабакападобныя малпы
+    bg: Коткоподобни маймуни
+    br: Cercopithecidae
+    bs: Majmuni Starog svijeta
+    ca: Mico del Vell Món
+    ceb: Cercopithecidae
+    cs: kočkodanovití
+    cv: Мартышка йышшисем
+    da: marekatte
+    de: Meerkatzenverwandte
+    el: Κερκοπιθηκίδες
+    en: Cercopithecidae
+    en-ca: Cercopithecidae
+    en-gb: Cercopithecidae
+    eo: Cerkopitekedoj
+    es: Cercopithecidae
+    et: Pärdiklased
+    eu: Cercopithecidae
+    ext: Cercopithecidae
+    fa: میمونهای جهان قدیم
+    fi: häntäapinat
+    fr: Cercopithecidae
+    frr: Hünjaaben
+    ga: Cercopithecidae
+    gl: Cercopithecidae
+    gv: Cercopithecidae
+    he: קופים בעלי זנב
+    hi: पूर्वजगत बंदर
+    hr: Majmuni Starog svijeta
+    hu: cerkóffélék
+    hy: կզակապիկներ
+    ia: Cercopithecidae
+    id: Monyet Dunia Lama
+    ie: Cercopithecidae
+    io: Cercopithecidae
+    it: Cercopithecidae
+    ja: オナガザル科
+    ka: ანთრისებრნი
+    kk: Мартышка тәрізділер
+    kk-arab: مارتىشكا تارىزدىلەر
+    kk-cn: مارتىشكا تارىزدىلەر
+    kk-cyrl: Мартышка тәрізділер
+    kk-kz: Мартышка тәрізділер
+    kk-latn: Martışka tärizdiler
+    kk-tr: Martışka tärizdiler
+    ko: 구세계원숭이
+    ks: پرٛٲنؠ دُنیٲے پونٛز
+    ky: Мартышка сымалдар
+    la: Cercopithecidae
+    li: Hoondape
+    lt: Šunbeždžionės
+    lv: Mērkaķi
+    mk: старосветски мајмуни
+    mni: ꯑꯔꯤꯕ ꯃꯥꯂꯦꯝꯒꯤ ꯌꯣꯡ
+    ms: Monyet Dunia Lama
+    mul: Cercopithecidae
+    nb: dyreapefamilien
+    nl: Apen van de Oude Wereld
+    nn: dyreapar
+    nv: Tó wónaanídę́ę́ʼ magí
+    oc: Cercopithecidae
+    pl: koczkodanowate
+    pnb: پرانی دنیا دے باندر
+    ps: د لرغونې نړۍ بیزو
+    pt: Cercopithecidae
+    pt-br: Cercopithecidae
+    ro: Cercopitecide
+    ru: мартышковые
+    sco: Cercopithecidae
+    sh: Majmuni Starog svijeta
+    sl: zamorske mačke
+    sq: Cercopithecidae
+    sr: Мајмуни Старог света
+    sr-ec: Мајмуни Старог света
+    sr-el: Majmuni Starog sveta
+    sv: markattartade apor
+    th: Cercopithecidae
+    tl: Cercopithecidae
+    tr: Köpeksi maymunlar
+    uk: мавпові
+    vi: Cercopithecidae
+    vo: Cercopithecidae
+    war: Cercopithecidae
+    wuu: 猴科
+    yue: 猴科
+    zh: 猴科
+    zh-cn: 猴科
+    zh-hans: 猴科
+    zh-hant: 猴科
+    zh-hk: 猴科
+    zh-sg: 猴科
+    zh-tw: 猴科
 ---
-
 # [[Cercopithecidae]]
 
 ## Old World monkeys 

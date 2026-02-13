@@ -1,9 +1,110 @@
 ---
 aliases:
-  - River Phoenix
-  - Phoenix,River
+- Phoenix,River
+- River Phoenix
+- Rivers Fīnikss
+- Ρίβερ Φίνιξ
+- Рівер Фенікс
+- Ривер Феникс
+- Ривер Финикс
+- Ривър Финикс
+- Рывер Фенікс
+- Ռիվեր Ֆենիքս
+- ריבר פיניקס
+- ريفر فوينكس
+- ریور فینیکس
+- ڕیڤەر فۆنیکس
+- রিভার ফিনিক্স
+- ริเวอร์ ฟินิกซ์
+- リヴァー・フェニックス
+- 瑞凡·菲尼克斯
+- 瑞凡·費尼克斯
+- 里弗·菲尼克斯
+- 里華·馮力士
+- 里華馮力士
+- 리버 피닉스
+has_id_wikidata: Q106514
+dv_has_:
+  name_:
+    af: River Phoenix
+    ar: ريفر فوينكس
+    arz: ريفر فوينكس
+    ast: River Phoenix
+    azb: ریور فینیکس
+    be: Рывер Фенікс
+    bg: Ривър Финикс
+    bn: রিভার ফিনিক্স
+    ca: River Phoenix
+    ckb: ڕیڤەر فۆنیکس
+    cs: River Phoenix
+    cy: River Phoenix
+    da: River Phoenix
+    dag: River Phoenix
+    de: River Phoenix
+    de-ch: River Phoenix
+    el: Ρίβερ Φίνιξ
+    en: River Phoenix
+    en-ca: River Phoenix
+    en-gb: River Phoenix
+    en-us: River Phoenix
+    eo: River Phoenix
+    es: River Phoenix
+    eu: River Phoenix
+    fa: ریور فینیکس
+    fi: River Phoenix
+    fr: River Phoenix
+    ga: River Phoenix
+    gl: River Phoenix
+    he: ריבר פיניקס
+    hr: River Phoenix
+    hu: River Phoenix
+    hy: Ռիվեր Ֆենիքս
+    id: River Phoenix
+    ig: River Phoenix
+    io: River Phoenix
+    is: River Phoenix
+    it: River Phoenix
+    ja: リヴァー・フェニックス
+    kk: Ривер Феникс
+    ko: 리버 피닉스
+    lb: River Phoenix
+    lt: River Phoenix
+    lv: Rivers Fīnikss
+    ms: River Phoenix
+    mul: River Phoenix
+    nb: River Phoenix
+    nds: River Phoenix
+    nl: River Phoenix
+    nn: River Phoenix
+    oc: River Phoenix
+    pap: River Phoenix
+    pl: River Phoenix
+    pt: River Phoenix
+    pt-br: River Phoenix
+    ro: River Phoenix
+    ru: Ривер Феникс
+    sh: River Phoenix
+    sk: River Phoenix
+    sl: River Phoenix
+    sq: River Phoenix
+    sr: Ривер Финикс
+    sv: River Phoenix
+    th: ริเวอร์ ฟินิกซ์
+    tl: River Phoenix
+    tr: River Phoenix
+    uk: Рівер Фенікс
+    vi: River Phoenix
+    vo: River Phoenix
+    yo: River Phoenix
+    yue: 里華馮力士
+    zh: 瑞凡·費尼克斯
+    zh-cn: 里弗·菲尼克斯
+    zh-hans: 里弗·菲尼克斯
+    zh-hant: 瑞凡·費尼克斯
+    zh-hk: 里華·馮力士
+    zh-sg: 瑞凡·菲尼克斯
+    zh-tw: 瑞凡·費尼克斯
 ---
-
 #has_/sibling :: [[Phoenix,Joaquin]] 
 #has_/time_/started :: 1970-08-23  
 #has_/time_/stopped  :: 1993-10-31 

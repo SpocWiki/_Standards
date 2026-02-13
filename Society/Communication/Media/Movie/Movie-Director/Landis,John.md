@@ -1,9 +1,90 @@
 ---
 aliases:
-  - John Landis
-  - Landis,John
+- Džons Lendiss
+- Ioannes Landis
+- John Landis
+- Landis,John
+- Τζον Λάντις
+- Джон Ландис
+- Джон Лендіс
+- Джон Лэндис
+- Ջոն Լենդիս
+- ג'ון לנדיס
+- جان لندیس
+- جان لینڈس
+- جون لانديس
+- جۆن لاندیس
+- জন ল্যান্ডিস
+- ჯონ ლენდისი
+- ジョン・ランディス
+- 約翰·藍迪斯
+- 約翰·蘭迪斯
+- 约翰·兰迪斯
+- 존 랜디스
+has_id_wikidata: Q51564
+dv_has_:
+  name_:
+    ar: جون لانديس
+    arz: جون لانديس
+    ast: John Landis
+    azb: جان لندیس
+    bg: Джон Ландис
+    bn: জন ল্যান্ডিস
+    ca: John Landis
+    ckb: جۆن لاندیس
+    cs: John Landis
+    cy: John Landis
+    da: John Landis
+    de: John Landis
+    el: Τζον Λάντις
+    en: John Landis
+    en-ca: John Landis
+    en-gb: John Landis
+    es: John Landis
+    eu: John Landis
+    fa: جان لندیس
+    fi: John Landis
+    fr: John Landis
+    fy: John Landis
+    ga: John Landis
+    gl: John Landis
+    he: ג'ון לנדיס
+    hu: John Landis
+    hy: Ջոն Լենդիս
+    id: John Landis
+    it: John Landis
+    ja: ジョン・ランディス
+    ka: ჯონ ლენდისი
+    ko: 존 랜디스
+    la: Ioannes Landis
+    lv: Džons Lendiss
+    mg: John Landis
+    mul: John Landis
+    nb: John Landis
+    nds: John Landis
+    nl: John Landis
+    nn: John Landis
+    oc: John Landis
+    pam: John Landis
+    pap: John Landis
+    pl: John Landis
+    pms: John Landis
+    pt: John Landis
+    pt-br: John Landis
+    ro: John Landis
+    ru: Джон Лэндис
+    sl: John Landis
+    sq: John Landis
+    sv: John Landis
+    tr: John Landis
+    uk: Джон Лендіс
+    ur: جان لینڈس
+    yo: John Landis
+    zh: 約翰·藍迪斯
+    zh-cn: 约翰·兰迪斯
+    zh-hans: 约翰·兰迪斯
+    zh-hant: 約翰·蘭迪斯
 ---
-
 # [[Landis,John]] 
 
 #has_/time_/started :: 1950-08-03 

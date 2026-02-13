@@ -1,52 +1,261 @@
 ---
 aliases:
-  - conic section
-  - conic curve
-  - quadratic curve
-  - Conic_Section
-  - Conic Section
+- conic curve
+- conic section
+- Conica
+- Conic_Section
+- conică
+- conique
+- cònica
+- cónghearradh
+- cónica
+- cônica
+- Irisan kerucut
+- kartioleikkaus
+- Kegelschnitt
+- kegelsnede
+- keglesnit
+- Keilusnið
+- keratan kon
+- Keëlsnit
+- kjeglesnitt
+- Konikler
+- koniko
+- Konus kesimlari
+- konusa šķēlums
+- Konusni presek
+- Konusni presjek
+- Konïka
+- Koonuselõige
+- Koonuslõigõq
+- Krivulje drugog reda
+- krzywa stożkowa
+- Kutaalee Biilalee
+- kuželosečka
+- Kužeľosečka
+- kägelsnitt
+- kúpszelet
+- kūgio pjūvis
+- Prerjet konike
+- quadratic curve
+- Sección cónica
+- sectio conica
+- sezione conica
+- Siksikan congcot
+- stožnica
+- trychiad conig
+- Uzmig
+- đường cô-nic
+- Κωνική τομή
+- канічнае сечыва
+- канічнае сячэнне
+- конічний переріз
+- Коника
+- коническое сечение
+- Конично сечение
+- Коничны перерѣзы
+- конусен отсечок
+- Конусла касăлу
+- Конусни пресек
+- Կոնական հատույթ
+- חתכי חרוט
+- القطوع المخروطيه
+- بڕگەی قووچەکی
+- تکونی قطعات
+- قطع مخروطي
+- كونىيكا
+- مقطع مخروطی
+- शङ्कु-परिच्छेद
+- शांकव
+- কনিক
+- கூம்பு வெட்டு
+- ಶಂಕುಜಗಳು
+- വൃത്തസ്തൂപികാഖണ്ഡം
+- ภาคตัดกรวย
+- የሾጣጣ ክፍሎች
+- កោនិច
+- 円錐曲線
+- 圆锥曲线
+- 圓錐曲綫
+- 圓錐曲線
+- 원뿔 곡선
 has_id_wikidata: Q124255
 has_characteristic: '[[_Standards/WikiData/WD~eccentricity,104486]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hyperbola,165301]]'
-  - '[[_Standards/WikiData/WD~circle,17278]]'
-  - '[[_Standards/WikiData/WD~ellipse,40112]]'
-  - '[[_Standards/WikiData/WD~parabola,48297]]'
+- '[[_Standards/WikiData/WD~hyperbola,165301]]'
+- '[[_Standards/WikiData/WD~circle,17278]]'
+- '[[_Standards/WikiData/WD~ellipse,40112]]'
+- '[[_Standards/WikiData/WD~parabola,48297]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~locus,211548]]'
-  - '[[_Standards/WikiData/WD~algebraic_curve,266237]]'
-  - '[[_Standards/WikiData/WD~cross_section,845080]]'
-  - '[[_Standards/WikiData/WD~plane_curve,1060874]]'
-  - '[[_Standards/WikiData/WD~quadratic_curve,4240640]]'
+- '[[_Standards/WikiData/WD~locus,211548]]'
+- '[[_Standards/WikiData/WD~algebraic_curve,266237]]'
+- '[[_Standards/WikiData/WD~cross_section,845080]]'
+- '[[_Standards/WikiData/WD~plane_curve,1060874]]'
+- '[[_Standards/WikiData/WD~quadratic_curve,4240640]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Conic_Section,84644282]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Conic_Section,84644282]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 part_of: '[[_Standards/WikiData/WD~Dandelin_spheres,676413]]'
 different_from:
-  - '[[_Standards/WikiData/WD~quadratic_curve,4240640]]'
-  - '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859]]'
+- '[[_Standards/WikiData/WD~quadratic_curve,4240640]]'
+- '[[_Standards/WikiData/WD~non_degenerate_conic_section,78145859]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Conic%20Sections.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/ConicSections.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Excentricit%C3%A9.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Excentricite%20Arabic.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Kegelsnedes%20vb.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Krzywe%20sto%C5%BCkowe.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Krzywe%20sto%C5%BCkowe%20fa.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Los%20conos%20c%C3%B3nicos%20de%20c%C3%B3nicas.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Conic%20Sections.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/ConicSections.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Excentricit%C3%A9.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Excentricite%20Arabic.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Kegelsnedes%20vb.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Krzywe%20sto%C5%BCkowe.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Krzywe%20sto%C5%BCkowe%20fa.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Los%20conos%20c%C3%B3nicos%20de%20c%C3%B3nicas.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Conic%20sections%20full%20ani.gif
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Kegelschnitt.ogg
 Iconclass_notation: 49D37
 Commons_category: Conic sections
 Krugosvet_article: matematika/konicheskie-secheniya
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n        <msup>\n          <mi>x</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mo>+</mo>\n        <mi>B</mi>\n        <mi>x</mi>\n        <mi>y</mi>\n        <mo>+</mo>\n        <mi>C</mi>\n        <msup>\n          <mi>y</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n        <mo>+</mo>\n        <mi>D</mi>\n        <mi>x</mi>\n        <mo>+</mo>\n        <mi>E</mi>\n        <mi>y</mi>\n        <mo>+</mo>\n        <mi>F</mi>\n        <mo>=</mo>\n        <mn>0</mn>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0}</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>A</mi>
+          <msup>
+            <mi>x</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+          </msup>
+          <mo>+</mo>
+          <mi>B</mi>
+          <mi>x</mi>
+          <mi>y</mi>
+          <mo>+</mo>
+          <mi>C</mi>
+          <msup>
+            <mi>y</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+          </msup>
+          <mo>+</mo>
+          <mi>D</mi>
+          <mi>x</mi>
+          <mo>+</mo>
+          <mi>E</mi>
+          <mi>y</mi>
+          <mo>+</mo>
+          <mi>F</mi>
+          <mo>=</mo>
+          <mn>0</mn>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle Ax^{2}+Bxy+Cy^{2}+Dx+Ey+F=0}</annotation>
+    </semantics>
+  </math>
+dv_has_:
+  name_:
+    af: Keëlsnit
+    am: የሾጣጣ ክፍሎች
+    ar: قطع مخروطي
+    arz: القطوع المخروطيه
+    ast: Sección cónica
+    be: канічнае сячэнне
+    be-tarask: канічнае сечыва
+    bg: Конично сечение
+    bn: কনিক
+    bs: Konusni presjek
+    ca: cònica
+    ckb: بڕگەی قووچەکی
+    cs: kuželosečka
+    cv: Конусла касăлу
+    cy: trychiad conig
+    da: keglesnit
+    de: Kegelschnitt
+    el: Κωνική τομή
+    en: conic section
+    eo: koniko
+    es: Sección cónica
+    et: Koonuselõige
+    eu: koniko
+    fa: مقطع مخروطی
+    fi: kartioleikkaus
+    fr: conique
+    ga: cónghearradh
+    gl: sección cónica
+    he: חתכי חרוט
+    hi: शांकव
+    hr: Krivulje drugog reda
+    hu: kúpszelet
+    hy: Կոնական հատույթ
+    id: Irisan kerucut
+    io: Koniko
+    is: Keilusnið
+    it: sezione conica
+    ja: 円錐曲線
+    kab: Uzmig
+    kk: Коника
+    kk-arab: كونىيكا
+    kk-cn: كونىيكا
+    kk-cyrl: Коника
+    kk-kz: Коника
+    kk-latn: Konïka
+    kk-tr: Konïka
+    km: កោនិច
+    kn: ಶಂಕುಜಗಳು
+    ko: 원뿔 곡선
+    la: sectio conica
+    lt: kūgio pjūvis
+    lv: konusa šķēlums
+    lzh: 圓錐曲線
+    mag: शङ्कु-परिच्छेद
+    mk: конусен отсечок
+    ml: വൃത്തസ്തൂപികാഖണ്ഡം
+    ms: keratan kon
+    nb: kjeglesnitt
+    nl: kegelsnede
+    nn: kjeglesnitt
+    oc: Conica
+    om: Kutaalee Biilalee
+    pl: krzywa stożkowa
+    pms: Cònica
+    pt: cónica
+    pt-br: cônica
+    ro: conică
+    ru: коническое сечение
+    rue: Коничны перерѣзы
+    scn: Conica
+    sh: Konusni presjek
+    sk: Kužeľosečka
+    sl: stožnica
+    sq: Prerjet konike
+    sr: Конусни пресек
+    sr-ec: Конусни пресек
+    sr-el: Konusni presek
+    su: Siksikan congcot
+    sv: kägelsnitt
+    ta: கூம்பு வெட்டு
+    th: ภาคตัดกรวย
+    tr: Konikler
+    uk: конічний переріз
+    ur: تکونی قطعات
+    uz: Konus kesimlari
+    vi: đường cô-nic
+    vro: Koonuslõigõq
+    wuu: 圆锥曲线
+    yue: 圓錐曲綫
+    zh: 圆锥曲线
+    zh-cn: 圆锥曲线
+    zh-hans: 圆锥曲线
+    zh-hant: 圓錐曲線
+    zh-hk: 圓錐曲線
+    zh-sg: 圆锥曲线
+    zh-tw: 圓錐曲線
 ---
-
 # [[Conic_Section]] 
 
 #is_/same_as :: [[../../WikiData/WD~Conic_section,124255|WD~Conic_section,124255]] 

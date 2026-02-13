@@ -1,33 +1,55 @@
 ---
 aliases:
-  - Robert_Wise
-  - Wise,Robert
+- Robert Vajz
+- Robert Wise
+- Roberts Vaizs
+- Robertus Wise
+- Robert_Wise
+- Wise,Robert
+- Ρόμπερτ Γουάιζ
+- Роберт Вајз
+- Роберт Вайз
+- Роберт Уайз
+- Робърт Уайз
+- Робэрт Ўайз
+- Ռոբերտ Ուայզ
+- רוברט וייז
+- رابرت وایز
+- رابرٹ وائز
+- روبرت وايز
+- रॉबर्ट वाइझ
+- রবার্ট ওয়াইজ
+- ਰੌਬਰਟ ਵਾਈਜ਼
+- ロバート・ワイズ
+- 罗伯特·怀斯
+- 罗勃·怀斯
+- 로버트 와이즈
 has_id_wikidata: Q59821
 ISNI: 0000000109381717
 birth_name: Robert Earl Wise
 date_of_birth: 1914-09-10T00:00:00Z
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Irving_G._Thalberg_Memorial_Award,844273]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Irving_G._Thalberg_Memorial_Award,844273]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 place_of_birth: '[[_Standards/WikiData/WD~Winchester,680183]]'
 occupation:
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name: '[[_Standards/WikiData/WD~Robert,4927937]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Connersville_High_School,5161780]]'
-  - '[[_Standards/WikiData/WD~Franklin_College,5491372]]'
+- '[[_Standards/WikiData/WD~Connersville_High_School,5161780]]'
+- '[[_Standards/WikiData/WD~Franklin_College,5491372]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 family_name: '[[_Standards/WikiData/WD~Wise,17114963]]'
@@ -46,8 +68,77 @@ name_in_native_language: Robert Wise
 work_period_start_: 1942-01-01T00:00:00Z
 date_of_death: 2005-09-14T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20wise%201990.jpg
+dv_has_:
+  name_:
+    ar: روبرت وايز
+    arz: روبرت وايز
+    ast: Robert Wise
+    be: Роберт Уайз
+    be-tarask: Робэрт Ўайз
+    bg: Робърт Уайз
+    bn: রবার্ট ওয়াইজ
+    ca: Robert Wise
+    cs: Robert Wise
+    cy: Robert Wise
+    da: Robert Wise
+    de: Robert Wise
+    de-ch: Robert Wise
+    el: Ρόμπερτ Γουάιζ
+    en: Robert Wise
+    en-ca: Robert Wise
+    en-gb: Robert Wise
+    eo: Robert Wise
+    es: Robert Wise
+    eu: Robert Wise
+    fa: رابرت وایز
+    fi: Robert Wise
+    fr: Robert Wise
+    ga: Robert Wise
+    gl: Robert Wise
+    he: רוברט וייז
+    hr: Robert Wise
+    hu: Robert Wise
+    hy: Ռոբերտ Ուայզ
+    id: Robert Wise
+    it: Robert Wise
+    ja: ロバート・ワイズ
+    kk: Роберт Уайз
+    ko: 로버트 와이즈
+    la: Robertus Wise
+    lb: Robert Wise
+    li: Robert Wise
+    lv: Roberts Vaizs
+    mg: Robert Wise
+    mk: Роберт Вајз
+    mr: रॉबर्ट वाइझ
+    mul: Robert Wise
+    nb: Robert Wise
+    nds: Robert Wise
+    nl: Robert Wise
+    nn: Robert Wise
+    oc: Robert Wise
+    pa: ਰੌਬਰਟ ਵਾਈਜ਼
+    pap: Robert Wise
+    pl: Robert Wise
+    pms: Robert Wise
+    pt: Robert Wise
+    pt-br: Robert Wise
+    ro: Robert Wise
+    ru: Роберт Уайз
+    sh: Robert Wise
+    sk: Robert Wise
+    sl: Robert Wise
+    sq: Robert Wise
+    sr: Robert Vajz
+    sv: Robert Wise
+    tr: Robert Wise
+    uk: Роберт Вайз
+    ur: رابرٹ وائز
+    vi: Robert Wise
+    war: Robert Wise
+    zh: 罗伯特·怀斯
+    zh-sg: 罗勃·怀斯
 ---
-
 # [[Wise,Robert]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Robert_Wise,59821|WD~Robert_Wise,59821]]  

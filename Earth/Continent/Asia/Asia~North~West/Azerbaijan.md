@@ -1,43 +1,549 @@
 ---
 aliases:
-  - Azerbaijan
-  - Azerbaiyán
-  - Azerbaïdjan
-  - أذربيجان
-  - 阿塞拜疆
-  - Азербайджан
-  - the Republic of Azerbaijan
-  - la República de Azerbaiyán
+- Acerbaiyán
+- Aciropayciyang
+- Aderbaidjan
+- Ahsehbaiqgyangh
+- an Asarbaiseáin
+- Asarbaideàn
+- Asarsuyu
+- Aserbadsjan
+- Aserbaidjan
+- Aserbaidschan
+- Aserbaidžaan
+- Aserbaigan
+- Aserbaigian
+- Aserbaijan
+- Aserbaiyan
+- Aserbajdsjan
+- Aserbayan
+- Aserbayhan
+- Aserbayjaan
+- Aserbayjan
+- Aserbayyan
+- Aserbaídsjan
+- Aserbeidschan
+- Aserbiijaan
+- Aservaijã
+- Asirbayjan
+- Asèrbaijan
+- Asõrbaidžaan
+- Atepaihānia
+- Atropatene
+- Azabaijan
+- Azara
+- Azarbaajan
+- Azerbaichán
+- Azerbaidjan
+- Azerbaidján
+- Azerbaidzjan
+- Azerbaidžaan
+- Azerbaidžan
+- Azerbaidžanas
+- Azerbaidžans
+- Azerbaidžuanu
+- Azerbaidžāna
+- Azerbaighjan
+- Azerbaigian
+- Azerbaigiàn
+- Azerbaigián
+- Azerbaijan
+- Azerbaijana
+- Azerbaijanikondre
+- Azerbaijaun
+- Azerbaijin
+- Azerbaijon
+- Azerbaijão
+- Azerbaitjan
+- Azerbaixán
+- Azerbaiyán
+- Azerbaizan
+- Azerbaižan
+- Azerbajdzjan
+- Azerbajdzsán
+- Azerbajdźan
+- Azerbajdžan
+- Azerbajxhani
+- Azerbajánna
+- Azerbajĝano
+- Azerbaycan
+- Azerbaydjan
+- Azerbayidjan
+- Azerbayjan
+- Azerbaykan
+- Azerbayğan
+- Azerbaïdjan
+- Azerbaýjan
+- Azerbeidjan
+- Azerbeidzjan
+- Azerbejdżan
+- Azerbejdżůn
+- Azerbejdžan
+- Azerbijan
+- Azeribayijani
+- Azrbayjan
+- Azzirbaiggian
+- Azèrbaijan
+- Azèrbayidj·an
+- Azėrbaidžians
+- Azərbaycan
+- Azərbojčon
+- Azɛrbayɩjanɩ
+- Aâzerbeidzjan
+- Ażerbajġan
+- Daakǫʼ Dineʼé Bikéyah
+- Eserbeyjan
+- i-Azerbaijan
+- IZebajani
+- la República de Azerbaiyán
+- Lasärbäcän
+- ma Asepajan
+- Ozarbayjon
+- the Republic of Azerbaijan
+- Yn Asserbajaan
+- Zerebaidyäan
+- Ázarbáíján
+- Ázerbayjan
+- Ázerbájdžán
+- ʻAsapaisani
+- Αζερμπαϊτζάν
+- Азарбижан
+- Азербаиџьан
+- Азербаиӂан
+- Азербайджалы
+- Азербайджан
+- Азербайджан Республикась
+- Азербайдьан
+- Азербайжан
+- Азербејџан
+- Азермудин Орн
+- Азирбижан
+- Азэрбайджан
+- Азэрбиджан
+- Азәрбайҗан
+- Аꙁѣрбаичанъ
+- ГӀозлойче
+- Озарбойҷон
+- Әзірбайжан
+- Әзербайжан
+- Әзербайҗан
+- Ադրբեջան
+- Ազրպէյճանի Հանրապետութիւն
+- אזערביידזשאן
+- אזרבייג'ן
+- آذربائيجان
+- آذربائیجان
+- آذربایئجان
+- آذربایجان
+- آذربایجان جمهوریتی
+- آذربایجان ٚ جؤمۊري
+- آذربایجون
+- آذرِبایجان
+- آزربائجان
+- آزربایجان
+- أذربيجان
+- أزيربيدجان
+- ئازەربایجان
+- ئەزەربەيجان
+- اذيربايجان
+- جمهوری آذربایجان
+- ܐܙܪܒܝܓܐܢ
+- އަޒަރުބައިޖާން
+- ߊߖ߭ߍߙߑߓߊߖߊ߲߫
+- अजरबैजान
+- अजर्बैजान
+- अज़रबैजान
+- अझरबैजान
+- আজারবাইজান
+- আজেৰবাইজান
+- ਅਜ਼ਰਬਾਈਜਾਨ
+- અઝેરબીજાન
+- ଆଜାରବାଇଜାନ
+- அசர்பைச்சான்
+- అజర్బైజాన్
+- ಅಜೆರ್ಬೈಜಾನ್
+- അസർബെയ്ജാൻ
+- අසර්බයිජාන්
+- ประเทศอาเซอร์ไบจาน
+- ປະເທດອາແຊກໄບຊານ
+- ཨ་ཛར་བཡི་ཇན།
+- ཨཛར་བཡེ་ཇན།
+- မိူင်းဢႃႇၸႃႇပၢႆႇၸၼ်ႇ
+- အဇာဘိုင်ဂျန်နိုင်ငံ
+- აზერბაიჯანი
+- አዘርባይጃን
+- ᎠᏎᏆᏣᏂ
+- អាស៊ែបៃហ្សង់
+- ᱟᱡᱟᱨᱵᱟᱭᱡᱟᱱ
+- ‘Akepaikana
+- ⴰⵣⵔⴱⵉⵊⴰⵏ
+- アゼルバイジャン
+- 亞塞拜然
+- 阿塞拜疆
+- ꠀꠎꠣꠞꠛꠣꠁꠎꠣꠘ
+- ꯑꯓꯦꯔꯕꯥꯢꯖꯥꯟ
+- 아제르바이잔
+- 아제르바이쟌
+- "\U00010330\U00010336\U00010330\U00010339\U00010342\U00010331\U00010330\U0001033E\U00010333\U0001033E\U00010330\U0001033D"
 has_id_wikidata: Q227
 confidential: public
 cssclasses:
-  - Country
+- Country
 draft: false
-expiryDate: ""
+expiryDate: ''
 icon: flag-az
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - az
-  - ru
-  - hy
-layout: ""
+- az
+- ru
+- hy
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - 40.42
-  - 49.83
+- 40.42
+- 49.83
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26840
 tags:
-  - geo/Country
+- geo/Country
 title: Azerbaijan
 type: Country
 dv_has_:
   name_:
+    ab: Азербаиџьан
+    ace: Azèrbaijan
+    ady: Азербайджан
+    aeb-arab: أذربيجان
+    af: Azerbeidjan
+    am: አዘርባይጃን
+    ami: Aciropayciyang
+    an: Azerbaichán
+    ang: Aserbaigan
+    anp: अजरबैजान
+    ar: أذربيجان
+    arc: ܐܙܪܒܝܓܐܢ
+    ary: أزيربيدجان
+    arz: اذيربايجان
+    as: আজেৰবাইজান
+    ast: Azerbaixán
+    atj: Azerbaijan
+    av: Азарбижан
+    avk: Azara
+    awa: अजरबैजान
+    ay: Asirbayjan
+    az: Azərbaycan
+    azb: آذربایجان جمهوریتی
+    ba: Әзербайжан
+    ban: Azerbaijan
+    bar: Aserbaidschan
+    bcl: Aserbayhan
+    be: Азербайджан
+    be-tarask: Азэрбайджан
+    bew: Asèrbaijan
+    bg: Азербайджан
+    bgn: آذربایجان
+    bho: अज़रबैजान
+    bi: Azerbaijan
+    bn: আজারবাইজান
+    bo: ཨ་ཛར་བཡི་ཇན།
+    bpy: আজারবাইজান
+    br: Azerbaidjan
+    brh: Ázarbáíján
+    bs: Azerbejdžan
+    bug: Azerbaijan
+    bxr: Азербайжан
+    ca: Azerbaidjan
+    cbk-zam: Acerbaiyán
+    cdo: Azerbaijan
+    ce: Азербайджан
+    ceb: Aserbayyan
+    chr: ᎠᏎᏆᏣᏂ
+    ckb: ئازەربایجان
+    co: Azerbaighjan
+    cps: Aserbayyan
+    crh: Азербайджалы
+    crh-latn: Azerbaykan
+    crh-ro: Azerbayğan
+    cs: Ázerbájdžán
+    csb: Azerbejdżan
+    cu: Аꙁѣрбаичанъ
+    cv: Азербайджан
+    cy: Aserbaijan
+    da: Aserbajdsjan
+    dag: Azerbaijan
+    de: Aserbaidschan
+    de-at: Aserbaidschan
+    de-ch: Aserbaidschan
+    diq: Azerbaycan
+    dsb: Azerbajdžan
+    dtp: Azerbaijan
+    dty: अजरबैजान
+    dv: އަޒަރުބައިޖާން
+    dz: ཨཛར་བཡེ་ཇན།
+    ee: Azerbaijan
+    el: Αζερμπαϊτζάν
+    eml: Azerbaigiàn
+    en: Azerbaijan
+    en-ca: Azerbaijan
+    en-gb: Azerbaijan
+    en-us: Azerbaijan
+    eo: Azerbajĝano
+    es: Azerbaiyán
+    et: Aserbaidžaan
+    eu: Azerbaijan
+    ext: Azerbaiyán
+    fa: جمهوری آذربایجان
+    ff: Aserbayjan
+    fi: Azerbaidžan
+    fj: Azerbaijan
+    fo: Aserbadsjan
+    fr: Azerbaïdjan
+    frp: Azèrbayidj·an
+    frr: Aserbaidschan
+    fur: Azerbaizan
+    fy: Azerbeidzjan
+    ga: an Asarbaiseáin
+    gaa: Azerbaijan
+    gag: Azerbaycan
+    gcr: Azerbaydjan
+    gd: Asarbaideàn
+    gl: Azerbaidján
+    glk: آذربایجان ٚ جؤمۊري
+    gn: Aservaijã
+    gom: अझरबैजान
+    gom-deva: अझरबैजान
+    gom-latn: Azerbaijan
+    gor: Azerbaijan
+    got: "\U00010330\U00010336\U00010330\U00010339\U00010342\U00010331\U00010330\U0001033E\U00010333\U0001033E\U00010330\U0001033D"
+    gpe: Azerbaijan
+    gsw: Aserbaidschan
+    gu: અઝેરબીજાન
+    gv: Yn Asserbajaan
+    ha: Azerbaijan
+    hak: Azerbaijan
+    haw: ‘Akepaikana
+    he: אזרבייג'ן
+    hi: अज़रबैजान
+    hif: Azerbaijan
+    hil: Aserbayyan
+    hr: Azerbajdžan
+    hsb: Azerbajdźan
+    ht: Azerbaydjan
+    hu: Azerbajdzsán
+    hy: Ադրբեջան
+    hyw: Ազրպէյճանի Հանրապետութիւն
+    ia: Azerbaijan
+    iba: Azerbaijan
+    id: Azerbaijan
+    ie: Azerbaidjan
+    ig: Azerbaijan
+    ilo: Aserbayyan
+    inh: ГӀозлойче
+    io: Azerbaijan
+    is: Aserbaídsjan
+    it: Azerbaigian
+    ja: アゼルバイジャン
+    jam: Azabaijan
+    jv: Azerbaijan
+    ka: აზერბაიჯანი
+    kaa: Ázerbayjan
+    kab: Azerbijan
+    kbd: Азэрбиджан
+    kbp: Azɛrbayɩjanɩ
+    kea: Azerbaidjan
+    kg: Azerbaidjan
+    kge: Azerbaijan
+    ki: Azerbaijan
+    kk: Әзірбайжан
+    kl: Aserbajdsjan
+    km: អាស៊ែបៃហ្សង់
+    kn: ಅಜೆರ್ಬೈಜಾನ್
+    ko: 아제르바이잔
+    ko-kp: 아제르바이쟌
+    krc: Азербайджан
+    ks: آذرِبایجان
+    ku: Azerbaycan
+    kv: Азербайджан
+    kw: Azerbayjan
+    ky: Азербайжан
+    la: Atropatene
+    lad: Azerbaidjan
+    lb: Aserbaidjan
+    lbe: Азирбижан
+    lez: Азербайжан
+    lfn: Azerbaidjan
+    li: Azerbaidzjan
+    lij: Azerbaijan
+    lld: Aserbaigian
+    lmo: Azerbaigian
+    ln: Azerbaïdjan
+    lo: ປະເທດອາແຊກໄບຊານ
+    lrc: آذربایئجان
+    lt: Azerbaidžanas
+    ltg: Azerbaidžans
+    lv: Azerbaidžāna
+    lzh: 阿塞拜疆
+    mad: Azerbaijan
+    mai: अजरबैजान
+    map-bms: Azerbaijan
+    mdf: Азербайджан
+    mg: Azerbaijana
+    mhr: Азербайджан
+    mi: Atepaihānia
+    min: Azerbaijan
+    mk: Азербејџан
+    ml: അസർബെയ്ജാൻ
+    mn: Азербайжан
+    mni: ꯑꯓꯦꯔꯕꯥꯢꯖꯥꯟ
+    mo: Азербаиӂан
+    mr: अझरबैजान
+    mrj: Азербайджан
+    ms: Azerbaijan
+    mt: Ażerbajġan
+    mwl: Azerbaijon
+    my: အဇာဘိုင်ဂျန်နိုင်ငံ
+    myv: Азербайджан Республикась
+    mzn: آذربایجون
+    na: Aderbaidjan
+    nah: Aserbayan
+    nan: Azerbaijan
+    nap: Azerbaijan
+    nb: Aserbajdsjan
+    nds: Aserbaidschan
+    nds-nl: Azerbeidzjan
+    ne: अजरबैजान
+    new: अजरबैजान
+    nl: Azerbeidzjan
+    nn: Aserbajdsjan
+    nov: Aserbaijan
+    nqo: ߊߖ߭ߍߙߑߓߊߖߊ߲߫
+    nso: Azerbaijan
+    nv: Daakǫʼ Dineʼé Bikéyah
+    ny: Azerbaijan
+    oc: Azerbaitjan
+    olo: Azerbaidžuanu
+    om: Azarbaajan
+    or: ଆଜାରବାଇଜାନ
+    os: Азербайджан
+    pa: ਅਜ਼ਰਬਾਈਜਾਨ
+    pag: Aserbayyan
+    pam: Aserbaiyan
+    pap: Azerbaijan
+    pcd: Azerbaïdjan
+    pdc: Aserbaidschan
+    pi: अजर्बैजान
+    pih: Eserbeyjan
+    pl: Azerbejdżan
+    pms: Aserbaigian
+    pnb: آذربائیجان
+    pnt: Αζερμπαϊτζάν
+    ps: آزربایجان
+    pt: Azerbaijão
+    pt-br: Azerbaijão
+    qu: Asarsuyu
+    rm: Aserbeidschan
+    rmy: Azerbaijan
+    rn: Azerbaijan
+    ro: Azerbaidjan
+    ru: Азербайджан
+    rue: Азербайджан
+    rup: Azerbaigian
+    rw: Azeribayijani
+    sa: अजर्बैजान
+    sah: Азербайдьан
+    sat: ᱟᱡᱟᱨᱵᱟᱭᱡᱟᱱ
+    sc: Azerbaigián
+    scn: Azzirbaiggian
+    sco: Azerbaijan
+    sd: آذربائيجان
+    se: Azerbaižan
+    sg: Zerebaidyäan
+    sgs: Azėrbaidžians
+    sh: Azerbejdžan
+    shi: Azrbayjan
+    shn: မိူင်းဢႃႇၸႃႇပၢႆႇၸၼ်ႇ
+    si: අසර්බයිජාන්
+    sk: Azerbajdžan
+    skr: آزربائجان
+    sl: Azerbajdžan
+    sm: Azerbaijin
+    smj: Azerbajánna
+    smn: Azerbaidžan
+    sms: Azerbaidžaan
+    sn: Azerbaijan
+    so: Aserbiijaan
+    sq: Azerbajxhani
+    sr: Азербејџан
+    sr-ec: Азербејџан
+    sr-el: Azerbejdžan
+    srn: Azerbaijanikondre
+    ss: IZebajani
+    st: Azerbaijan
+    stq: Aserbaidschan
+    su: Azerbaijan
+    sv: Azerbajdzjan
+    sw: Azerbaijan
+    syl: ꠀꠎꠣꠞꠛꠣꠁꠎꠣꠘ
+    szl: Azerbejdżůn
+    szy: Azerbaijan
+    ta: அசர்பைச்சான்
+    tay: Azerbaijan
+    te: అజర్బైజాన్
+    tet: Azerbaijaun
+    tg: Озарбойҷон
+    th: ประเทศอาเซอร์ไบจาน
+    tk: Azerbaýjan
+    tl: Azerbaijan
+    tly: Azərbojčon
+    tn: Azerbaijan
+    to: ʻAsapaisani
+    tok: ma Asepajan
+    tpi: Azerbaijan
+    tr: Azerbaycan
+    trv: Azerbaijan
+    ts: Azerbaijan
+    tt: Әзербайҗан
+    tt-cyrl: Азәрбайҗан
+    tum: Azerbaijan
+    tw: Azerbaijan
+    ty: Atepaihānia
+    tyv: Азербайджан
+    udm: Азербайджан
+    ug: ئەزەربەيجان
+    uk: Азербайджан
+    ur: آذربائیجان
+    uz: Ozarbayjon
+    vec: Azerbaijan
+    vep: Azerbaidžan
+    vi: Azerbaijan
+    vls: Azerbeidzjan
+    vo: Lasärbäcän
+    vro: Asõrbaidžaan
+    wa: Azerbayidjan
+    war: Aserbayyan
+    wo: Aserbayjaan
+    wuu: 阿塞拜疆
+    xal: Азермудин Орн
+    xmf: აზერბაიჯანი
+    yi: אזערביידזשאן
+    yo: Azerbaijan
+    yue: 阿塞拜疆
+    za: Ahsehbaiqgyangh
+    zea: Aâzerbeidzjan
+    zgh: ⴰⵣⵔⴱⵉⵊⴰⵏ
+    zh: 阿塞拜疆
+    zh-cn: 阿塞拜疆
+    zh-hans: 阿塞拜疆
+    zh-hant: 亞塞拜然
+    zh-hk: 阿塞拜疆
+    zh-my: 阿塞拜疆
+    zh-tw: 亞塞拜然
+    zu: i-Azerbaijan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Azerbaijan
 dv_ISO4217-currency_alphabetic: AZN
@@ -68,9 +574,9 @@ dv_UNTERM_Chinese_Formal: 阿塞拜疆共和国
 dv_UNTERM_French_Formal: la République d'Azerbaïdjan
 dv_UNTERM_Russian: Азербайджан
 dv_UNTERM_Russian_Formal: Азербайджанская Республика
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Azerbaijan]]"
-dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Azerbaijan]]'
+dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
 dv_Sub-region: 145
 dv_Geoname-ID: 587116
@@ -94,37 +600,36 @@ dv_ISO2: AZ
 dv_ISO3: AZE
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]"
+  - '[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]'
 dv_has_name_de: Aserbaidshan
 dv_Area-Total: 86600
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: AZ
-dv_Capital: "[[Azerbaijan/Counties/Bakı/City/Baku]]"
+dv_Capital: '[[Azerbaijan/Counties/Bakı/City/Baku]]'
 dv_Alcohol-l: 10.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 49.83
 dv_has_place_latitude: 40.42
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Azerbaijan
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]"
+- '[[../../../../WikiData/WD~Azerbaijan,227|WD~Azerbaijan,227]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]]'
+- '[[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]'
 ---
-
 # [[Azerbaijan]] 
 
 For more Details, check out this Repository into this Subfolder: 

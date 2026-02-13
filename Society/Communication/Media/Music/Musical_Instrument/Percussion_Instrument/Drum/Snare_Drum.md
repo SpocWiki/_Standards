@@ -1,26 +1,140 @@
 ---
 aliases:
+- caisse claire
+- caixa
+- caixa-de-guerra
+- caja
+- Doboš
+- dram getar
+- drwm tannau
+- kaxa
+- Kichik baraban
+- Kiçik baraban
+- kleaine tromme
+- kleine trom
+- Kleine Trommel
+- Lilletromme
+- mali boben
+- mazās bungas
+- pergődob
+- pikkurumpu
+- rullante
+- skarptromme
+- snare drum
+- Sneriltromma
+- sreangdhruma
+- Tambol na snare
+- tambureto
+- Trampet
+- Trống lẫy
+- virveltrumma
+- Väike trumm
+- Vírivý bubon
+- vířivý buben
+- Werbel
+- Wyrbel
+- Ταμπούρο
+- Добош
+- Малий барабан
+- Малък барабан
+- малы бубен
+- малый барабан
+- תוף סנר
+- طبل جانبي
+- طبل کوچک
+- กลองเล็ก
+- ກອງເພນ
+- スネアドラム
+- 小鼓
+- 沙鼓
+- 작은북
 has_id_wikidata: Q208421
 has_use:
-  - "[[_Standards/WikiData/WD~drum_kit,128309]]"
-  - "[[_Standards/WikiData/WD~military_band,1078286]]"
-  - "[[_Standards/WikiData/WD~samba_school,2641403]]"
+- '[[_Standards/WikiData/WD~drum_kit,128309]]'
+- '[[_Standards/WikiData/WD~military_band,1078286]]'
+- '[[_Standards/WikiData/WD~samba_school,2641403]]'
 used_by:
-  - "[[_Standards/WikiData/WD~drummer,386854]]"
-  - "[[_Standards/WikiData/WD~percussionist,4351403]]"
+- '[[_Standards/WikiData/WD~drummer,386854]]'
+- '[[_Standards/WikiData/WD~percussionist,4351403]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~individual_double_skin_cylindrical_drums,_one_skin_used_for_playing,55723221]]"
-  - "[[_Standards/WikiData/WD~drum,11404]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10745"
+- '[[_Standards/WikiData/WD~individual_double_skin_cylindrical_drums,_one_skin_used_for_playing,55723221]]'
+- '[[_Standards/WikiData/WD~drum,11404]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10745
 Amazon_com_browse_node:
-  - "11970561"
-  - "11967371"
+- 11970561
+- 11967371
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-07-06%20snare%2014.jpg
 Hornbostel_Sachs_classification: 211.212.11
 Commons_category: Snare drums
+dv_has_:
+  name_:
+    ar: طبل جانبي
+    az: Kiçik baraban
+    be-tarask: малы бубен
+    bg: Малък барабан
+    bs: Doboš
+    ca: caixa
+    cs: vířivý buben
+    cy: drwm tannau
+    da: Lilletromme
+    de: Kleine Trommel
+    el: Ταμπούρο
+    en: snare drum
+    en-gb: snare drum
+    en-us: snare drum
+    eo: tambureto
+    es: caja
+    et: Väike trumm
+    eu: kaxa
+    fa: طبل کوچک
+    fi: pikkurumpu
+    fr: caisse claire
+    ga: sreangdhruma
+    gl: caixa
+    he: תוף סנר
+    hr: Doboš
+    hu: pergődob
+    id: Snare drum
+    is: Sneriltromma
+    it: rullante
+    ja: スネアドラム
+    ko: 작은북
+    lo: ກອງເພນ
+    lv: mazās bungas
+    mk: Добош
+    ms: dram getar
+    nb: skarptromme
+    nds-nl: kleaine tromme
+    nl: kleine trom
+    nn: Skarptromme
+    pl: Werbel
+    pt: caixa
+    pt-br: caixa-de-guerra
+    ru: малый барабан
+    sh: Doboš
+    sk: Vírivý bubon
+    sl: mali boben
+    sr: Doboš
+    sr-ec: Добош
+    sr-el: Doboš
+    sv: virveltrumma
+    szl: Wyrbel
+    th: กลองเล็ก
+    tl: Tambol na snare
+    tr: Trampet
+    uk: Малий барабан
+    uz: Kichik baraban
+    vi: Trống lẫy
+    yue: 沙鼓
+    zh: 小鼓
+    zh-cn: 小鼓
+    zh-hans: 小鼓
+    zh-hant: 小鼓
+    zh-hk: 小鼓
+    zh-sg: 小鼓
+    zh-tw: 小鼓
 ---
-
 # [[Snare_Drum]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Snare_drum,208421|WD~Snare_drum,208421]]  

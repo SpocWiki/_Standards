@@ -1,83 +1,118 @@
 ---
 aliases:
-  - Bruce Frederick Joseph Springsteen
-  - Bruce Springsteen
-  - Springsteen
-  - the Boss
-  - Springsteen,Bruce
+- Bruce Frederick Joseph Springsteen
+- Bruce Springsteen
+- Brussius Springsteen
+- Brüs Sprinqstin
+- Brūss Springstīns
+- Springsteen
+- Springsteen,Bruce
+- the Boss
+- Μπρους Σπρίνγκστιν
+- Брус Спрингстийн
+- Брус Спрингстин
+- Брус Спрынгстын
+- Брус Спрынгсцін
+- Брюс Спрингстин
+- Брюс Спринстін
+- Брүс Сприңстин
+- Բրյուս Սպրինգստին
+- ברוס ספרינגסטין
+- بروس اسپرینقستین
+- بروس اسپرینگستین
+- بروس سبرينجستين
+- بروس سبرينغستين
+- بڕوس سپرینگستین
+- ब्रुस स्प्रिंग्स्टीन
+- ब्रूस स्प्रिंगस्टीन
+- ব্রুস স্প্রিংস্টিন
+- ਬਰੂਸ ਸਪ੍ਰਿੰਗਸਟੀਨ
+- બ્રુસ સ્પ્રિન્ગસ્ટીન
+- புரூஸ் ஸ்பிரிங்ஸ்டீன்
+- బ్రూస్ స్ప్రింగ్స్టీన్
+- ಬ್ರೂಸ್ ಸ್ಪ್ರಿಂಗ್ ಸ್ಟೀನ್
+- ബ്രൂസ് സ്പ്രിങ്സ്റ്റീൻ
+- บรูซ สปริงส์ทีน
+- ბრიუს სპრინგსტინი
+- ブルース・スプリングスティーン
+- 史普林斯汀
+- 布鲁斯·史普林斯汀
+- 布鲁斯·斯普林斯廷
+- 布鲁斯·斯普林斯汀
+- 브루스 스프링스틴
 has_id_wikidata: Q1225
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Male_Video,1064978]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Video_from_a_Film,1161109]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Stage_Performance,1161136]]'
-  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
+- "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Male_Video,1064978]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Video_from_a_Film,1161109]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Stage_Performance,1161136]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~record_producer,183945]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Patti_Scialfa,257083]]'
-  - '[[_Standards/WikiData/WD~Julianne_Phillips,2516986]]'
+- '[[_Standards/WikiData/WD~Patti_Scialfa,257083]]'
+- '[[_Standards/WikiData/WD~Julianne_Phillips,2516986]]'
 sibling: '[[_Standards/WikiData/WD~Pamela_Springsteen,447799]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~E_Street_Band,1276681]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~E_Street_Band,1276681]]'
 given_name: '[[_Standards/WikiData/WD~Bruce,579371]]'
 discography: '[[_Standards/WikiData/WD~Bruce_Springsteen_discography,991822]]'
 place_of_birth: '[[_Standards/WikiData/WD~Long_Branch,995231]]'
 child:
-  - '[[_Standards/WikiData/WD~Jessica_Springsteen,1225089]]'
+- '[[_Standards/WikiData/WD~Jessica_Springsteen,1225089]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Freehold_High_School,5500909]]'
-  - '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
+- '[[_Standards/WikiData/WD~Freehold_High_School,5500909]]'
+- '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative:
-  - '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
-  - '[[_Standards/WikiData/WD~Global_Music_Rights,85249310]]'
+- '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
+- '[[_Standards/WikiData/WD~Global_Music_Rights,85249310]]'
 Bluesky_handle: officialbruce.bsky.social
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Bruce_Springsteen,10514550]]'
+- '[[_Standards/WikiData/WD~Template_Bruce_Springsteen,10514550]]'
 family_name: '[[_Standards/WikiData/WD~Springsteen,21475355]]'
 Plex_person_key: 5d77682661141d001fb13594
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Karen_Darvin,124375270]]'
+- '[[_Standards/WikiData/WD~Karen_Darvin,124375270]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 instrument:
-  - '[[_Standards/WikiData/WD~piano,5994]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
-  - '[[_Standards/WikiData/WD~harmonica,51290]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~harmonica,51290]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~blues,9759]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~folk_music,43343]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~folk_music,43343]]'
 genre: '[[_Standards/WikiData/WD~rock_music,11399]]'
 voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 height: 1.77
 social_media_followers:
-  - 2210000
-  - 1351355
+- 2210000
+- 1351355
 Commons_gallery: Bruce Springsteen
 Commons_category: Bruce Springsteen
 Libris_URI: 97mpsg2t0gfwh9t
@@ -85,25 +120,159 @@ P8189: 987007268436405171
 Europeana_entity: agent/base/60596
 Facebook_username: brucespringsteen
 subreddit:
-  - BruceSpringsteen
+- BruceSpringsteen
 Wolfram_Language_entity_code: Entity["MusicAct", "BruceSpringsteen::p9bvv"]
 Krugosvet_article: kultura_i_obrazovanie/muzyka/SPRINGSTIN_BRYUS.html
 Instagram_username: springsteen
 X_Twitter_username: springsteen
 birth_name: Bruce Frederick Joseph Springsteen
 name_in_native_language:
-  - Bruce Springsteen
+- Bruce Springsteen
 date_of_birth: 1949-09-23T00:00:00Z
 work_period_start_: 1969-01-01T00:00:00Z
 pseudonym:
-  - The Boss
+- The Boss
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bruce%20Springsteen%20-%20Roskilde%20Festival%202012.jpg
 official_website: https://brucespringsteen.net/
 official_shop_URL: https://brucespringsteen.store/
 ISNI: 0000000121418834
 IPI_name_number: 00076333277
+dv_has_:
+  name_:
+    ace: Bruce Springsteen
+    af: Bruce Springsteen
+    an: Bruce Springsteen
+    ar: بروس سبرينغستين
+    arz: بروس سبرينجستين
+    ast: Bruce Springsteen
+    az: Brüs Sprinqstin
+    azb: بروس اسپرینقستین
+    bar: Bruce Springsteen
+    be: Брус Спрынгсцін
+    be-tarask: Брус Спрынгстын
+    bg: Брус Спрингстийн
+    bn: ব্রুস স্প্রিংস্টিন
+    br: Bruce Springsteen
+    bs: Bruce Springsteen
+    bug: Bruce Springsteen
+    ca: Bruce Springsteen
+    ceb: Bruce Springsteen
+    ckb: بڕوس سپرینگستین
+    co: Bruce Springsteen
+    cs: Bruce Springsteen
+    cy: Bruce Springsteen
+    da: Bruce Springsteen
+    dag: Bruce Springsteen
+    de: Bruce Springsteen
+    de-at: Bruce Springsteen
+    de-ch: Bruce Springsteen
+    diq: Bruce Springsteen
+    dsb: Bruce Springsteen
+    el: Μπρους Σπρίνγκστιν
+    eml: Bruce Springsteen
+    en: Bruce Springsteen
+    en-ca: Bruce Springsteen
+    en-gb: Bruce Springsteen
+    eo: Bruce Springsteen
+    es: Bruce Springsteen
+    et: Bruce Springsteen
+    eu: Bruce Springsteen
+    ext: Bruce Springsteen
+    fa: بروس اسپرینگستین
+    fi: Bruce Springsteen
+    fo: Bruce Springsteen
+    fr: Bruce Springsteen
+    frr: Bruce Springsteen
+    fy: Bruce Springsteen
+    ga: Bruce Springsteen
+    gd: Bruce Springsteen
+    gl: Bruce Springsteen
+    gsw: Bruce Springsteen
+    gu: બ્રુસ સ્પ્રિન્ગસ્ટીન
+    he: ברוס ספרינגסטין
+    hi: ब्रूस स्प्रिंगस्टीन
+    hr: Bruce Springsteen
+    hsb: Bruce Springsteen
+    hu: Bruce Springsteen
+    hy: Բրյուս Սպրինգստին
+    ia: Bruce Springsteen
+    id: Bruce Springsteen
+    io: Bruce Springsteen
+    is: Bruce Springsteen
+    it: Bruce Springsteen
+    ja: ブルース・スプリングスティーン
+    jam: Bruce Springsteen
+    jut: Bruce Springsteen
+    ka: ბრიუს სპრინგსტინი
+    kk: Брюс Спрингстин
+    kn: ಬ್ರೂಸ್ ಸ್ಪ್ರಿಂಗ್ ಸ್ಟೀನ್
+    ko: 브루스 스프링스틴
+    ku: Bruce Springsteen
+    kw: Bruce Springsteen
+    ky: Брүс Сприңстин
+    la: Brussius Springsteen
+    lb: Bruce Springsteen
+    lfn: Bruce Springsteen
+    lld: Bruce Springsteen
+    lt: Bruce Springsteen
+    lv: Brūss Springstīns
+    mg: Bruce Springsteen
+    min: Bruce Springsteen
+    mk: Брус Спрингстин
+    ml: ബ്രൂസ് സ്പ്രിങ്സ്റ്റീൻ
+    mr: ब्रुस स्प्रिंग्स्टीन
+    ms: Bruce Springsteen
+    mt: Bruce Springsteen
+    mul: Bruce Springsteen
+    mzn: بروس اسپرینگستین
+    nb: Bruce Springsteen
+    nds: Bruce Springsteen
+    nl: Bruce Springsteen
+    nn: Bruce Springsteen
+    oc: Bruce Springsteen
+    pa: ਬਰੂਸ ਸਪ੍ਰਿੰਗਸਟੀਨ
+    pam: Bruce Springsteen
+    pap: Bruce Springsteen
+    pdc: Bruce Springsteen
+    pl: Bruce Springsteen
+    pms: Bruce Springsteen
+    pt: Bruce Springsteen
+    pt-br: Bruce Springsteen
+    qu: Bruce Springsteen
+    rm: Bruce Springsteen
+    ro: Bruce Springsteen
+    ru: Брюс Спрингстин
+    sc: Bruce Springsteen
+    scn: Bruce Springsteen
+    sco: Bruce Springsteen
+    sh: Bruce Springsteen
+    sje: Bruce Springsteen
+    sk: Bruce Springsteen
+    sl: Bruce Springsteen
+    sq: Bruce Springsteen
+    sr: Брус Спрингстин
+    sr-ec: Брус Спрингстин
+    su: Bruce Springsteen
+    sv: Bruce Springsteen
+    sw: Bruce Springsteen
+    ta: புரூஸ் ஸ்பிரிங்ஸ்டீன்
+    te: బ్రూస్ స్ప్రింగ్స్టీన్
+    th: บรูซ สปริงส์ทีน
+    tl: Bruce Springsteen
+    tr: Bruce Springsteen
+    uk: Брюс Спринстін
+    uz: Bruce Springsteen
+    vec: Bruce Springsteen
+    vi: Bruce Springsteen
+    vls: Bruce Springsteen
+    vmf: Bruce Springsteen
+    wa: Bruce Springsteen
+    war: Bruce Springsteen
+    wuu: 布鲁斯·斯普林斯汀
+    yue: 史普林斯汀
+    zh: 布鲁斯·斯普林斯廷
+    zh-my: 布鲁斯·史普林斯汀
 ---
-
 # [[Springsteen,Bruce]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bruce_Springsteen,1225|WD~Bruce_Springsteen,1225]] 

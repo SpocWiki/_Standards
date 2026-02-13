@@ -1,10 +1,135 @@
 ---
 aliases:
-  - Richard Attenborough
-  - Richard Samuel Attenborough
-  - Attenborough,Richard
+- Attenborough,Richard
+- Lord Riçard
+- Ricardus Attenborough
+- Richard Attenborough
+- Richard Samuel Attenborough
+- Ričards Atenboro
+- Ρίτσαρντ Ατένμπορο
+- Річард Аттенборо
+- Ричард Атенборо
+- Ричард Аттенборо
+- Ричард Атънбъро
+- Рычард Атэнбора
+- Ռիչարդ Աթենբորո
+- ריצ'רד אטנבורו
+- ريتشارد أتينبورو
+- ريتشارد اتينبورو
+- ریچارد اتنبرا
+- रिचर्ड एटनबरो
+- रिचर्ड ॲटनबरो
+- রিচার্ড অ্যাটনবারা
+- ਰਿਚਰਡ ਐਟਨਬਰੋ
+- રિચાર્ડ એટનબોરો
+- ରିଚାର୍ଡ଼ ଆଟେନବରୋ
+- ரிச்சர்ட் ஆட்டன்பரோ
+- రిచర్డ్ అటెన్బరో
+- ರಿಚರ್ಡ್ ಅಟೆನ್ ಬರೋ
+- ರಿಚರ್ಡ್ ಅಟೆನ್ಬರೊ
+- റിച്ചാർഡ് ആറ്റൻബറോ
+- ริชาร์ด แอทเทนโบโรห์
+- რიჩარდ ატენბორო
+- リチャード・アッテンボロー
+- 李察·艾登保禄
+- 李察·艾登堡祿
+- 李察艾登布祿
+- 理查德·阿滕伯勒
+- 리처드 애튼버러
+has_id_wikidata: Q51506
+dv_has_:
+  name_:
+    af: Richard Attenborough
+    an: Richard Attenborough
+    ar: ريتشارد أتينبورو
+    arz: ريتشارد اتينبورو
+    ast: Richard Attenborough
+    az: Lord Riçard
+    azb: ریچارد اتنبرا
+    be: Рычард Атэнбора
+    bg: Ричард Атънбъро
+    bn: রিচার্ড অ্যাটনবারা
+    ca: Richard Attenborough
+    cs: Richard Attenborough
+    cy: Richard Attenborough
+    da: Richard Attenborough
+    de: Richard Attenborough
+    ee: Richard Attenborough
+    el: Ρίτσαρντ Ατένμπορο
+    en: Richard Attenborough
+    en-ca: Richard Attenborough
+    en-gb: Richard Attenborough
+    eo: Richard Attenborough
+    es: Richard Attenborough
+    eu: Richard Attenborough
+    fa: ریچارد اتنبرا
+    fi: Richard Attenborough
+    fr: Richard Attenborough
+    fy: Richard Attenborough
+    ga: Richard Attenborough
+    gl: Richard Attenborough
+    gu: રિચાર્ડ એટનબોરો
+    he: ריצ'רד אטנבורו
+    hi: रिचर्ड एटनबरो
+    hr: Richard Attenborough
+    hu: Richard Attenborough
+    hy: Ռիչարդ Աթենբորո
+    id: Richard Attenborough
+    it: Richard Attenborough
+    ja: リチャード・アッテンボロー
+    ka: რიჩარდ ატენბორო
+    kn: ರಿಚರ್ಡ್ ಅಟೆನ್ಬರೊ
+    ko: 리처드 애튼버러
+    la: Ricardus Attenborough
+    lb: Richard Attenborough
+    li: Richard Attenborough
+    lt: Richard Attenborough
+    lv: Ričards Atenboro
+    mg: Richard Attenborough
+    mk: Ричард Атенборо
+    ml: റിച്ചാർഡ് ആറ്റൻബറോ
+    mr: रिचर्ड ॲटनबरो
+    ms: Richard Attenborough
+    mul: Richard Attenborough
+    nb: Richard Attenborough
+    nl: Richard Attenborough
+    nn: Richard Attenborough
+    oc: Richard Attenborough
+    or: ରିଚାର୍ଡ଼ ଆଟେନବରୋ
+    pa: ਰਿਚਰਡ ਐਟਨਬਰੋ
+    pl: Richard Attenborough
+    pt: Richard Attenborough
+    pt-br: Richard Attenborough
+    ro: Richard Attenborough
+    ru: Ричард Аттенборо
+    sco: Richard Attenborough
+    sh: Richard Attenborough
+    sk: Richard Attenborough
+    sl: Richard Attenborough
+    sq: Richard Attenborough
+    sr: Ричард Атенборо
+    sv: Richard Attenborough
+    ta: ரிச்சர்ட் ஆட்டன்பரோ
+    tcy: ರಿಚರ್ಡ್ ಅಟೆನ್ ಬರೋ
+    te: రిచర్డ్ అటెన్బరో
+    th: ริชาร์ด แอทเทนโบโรห์
+    tl: Richard Attenborough
+    tpi: Richard Attenborough
+    tr: Richard Attenborough
+    uk: Річард Аттенборо
+    uz: Richard Attenborough
+    vi: Richard Attenborough
+    vo: Richard Attenborough
+    war: Richard Attenborough
+    wuu: 理查德·阿滕伯勒
+    xmf: რიჩარდ ატენბორო
+    yo: Richard Attenborough
+    yue: 李察艾登布祿
+    zh: 李察·艾登堡祿
+    zh-cn: 理查德·阿滕伯勒
+    zh-my: 李察·艾登保禄
+    zh-sg: 李察·艾登保禄
 ---
-
 #has_/sibling :: [[Attenborough,David]]
 
 #has_/time_/started :: 1923-08-29 

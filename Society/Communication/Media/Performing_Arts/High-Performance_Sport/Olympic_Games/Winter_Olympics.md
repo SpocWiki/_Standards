@@ -1,11 +1,106 @@
 ---
-has_time_started: 1924-01-01 
+has_time_started: 1924-01-01
 aliases:
-  - Winter Olympic Games
-  - Jeux olympiques d'hiver
-  - Winter_Olympic_Games
-  - Winter_Olympics
-  - Winter Olympics
+- C'hoarioù Olimpek goañv
+- Cluichí Oilimpeacha an Gheimhridh
+- dálveolympialaččat
+- Dĕ̤ng-gié Olympic Ông-dông-huôi
+- Gemau Olympaidd y Gaeaf
+- Giochi olimpici invernali
+- Gyşky olimpiýa oýunlary
+- Jeux olympiques d'hiver
+- Jeux olympiques d’hiver
+- Jocs Olímpics d'hivern
+- jocuri olimpice de iarnă
+- Jogos Olímpicos de Inverno
+- Juegos Olímpicos de Invierno
+- Jus olimpikes d'iver
+- Jòcs Olimpics d'ivèrn
+- Kayê Olimpiyatê Zımıstani
+- Kış Olimpiyat Oyunları
+- Lojërat olimpike dimërore
+- Neguko Olinpiar Jokoak
+- OLAMPIC WINTTER
+- Olimpiade Musim Dingin
+- Olimpiese Winterspele
+- Olympesch Wanterspiller
+- Olympia hiemalia
+- Olympische Winterspelen
+- Olympische Winterspiele
+- Olympiska vinterspelen
+- olympiske vinterleikar
+- olympiske vinterleker
+- Olympyske Winterspullen
+- Palarong Olimpiko sa Taglamig
+- Qishki olimpiada
+- Qış Olimpiya Oyunları
+- Sukan Olimpik Musim Sejuk
+- taliolümpiamängud
+- talviolympialaiset
+- Tang-kùi Olympia Ūn-tōng-hoē
+- Thế vận hội Mùa đông
+- tälviolympialiih
+- téli olimpiai játékok
+- Tûng-kui Olympic Yun-thung-fi
+- Vetrar-OL
+- Vetrarólympíuleikarnir
+- Vinter-OL
+- Vintraj Olimpikoj
+- Vintrala Olimpiala Ludi
+- Winter Olympic Games
+- Winter Olympic Gemmes
+- Winter Olympics
+- Winter_Olympics
+- Winter_Olympic_Games
+- Xogos Olímpicos de Inverno
+- Xuegos Olímpicos d'Iviernu
+- ziemas olimpiskās spēles
+- Zimné olympijské hry
+- zimní olympijské hry
+- Zimowe igrzyska olimpijskie
+- Zimske olimpijske igre
+- Àwọn Ìdíje Òlímpíkì Ìgbà Otútù
+- Ñembosaraipavẽ Araro'ýpe
+- Žiemos olimpinės žaidynės
+- Χειμερινοί Ολυμπιακοί Αγώνες
+- Бозиҳои олимпии зимистона
+- Зімовыя Алімпійскія гульні
+- Зимни олимпийски игри
+- зимние Олимпийские игры
+- Зимові Олімпійські ігри
+- Зимске олимпијске игре
+- Зимски олимписки игри
+- Кыhыҥҥы Олимпия оонньуулара
+- Кышкы Олимпиада оюндары
+- Кышкы Олимпия уеннары
+- Тел Олимпиада мадмашвлӓ
+- Хĕллехи Олимп вăййисем
+- Қысқы Олимпиада ойындары
+- Ҡышҡы Олимпия уйындары
+- Өвлийн олимп
+- Ձմեռային օլիմպիական խաղեր
+- משחקי החורף האולימפיים
+- الألعاب الأولمبية الشتوية
+- اوليمبياد شتا
+- بازیهای المپیک زمستانی
+- د المپیک ژمنۍ لوبې
+- زمستونی المپیک
+- سرمائی اولمپک کھیلیں
+- یارییەکانی ئۆڵۆمپیادی زستانە
+- विंटर ओलंपिक
+- शीतकालीन ओलम्पिक खेल
+- हिवाळी ऑलिंपिक क्रीडा स्पर्धा
+- শীতকালীন অলিম্পিক গেমস
+- குளிர்கால ஒலிம்பிக் விளையாட்டுக்கள்
+- ಚಳಿಗಾಲದ ಒಲಿಂಪಿಕ್ಸ್
+- โอลิมปิกฤดูหนาว
+- ზამთრის ოლიმპიური თამაშები
+- ზოთონჯიშ ოლიმპიური ლაჸაფეფი
+- 冬季オリンピック
+- 冬季奥林匹克运动会
+- 冬季奧林匹克運動會
+- 겨울철올림픽경기대회
+- 동계 올림픽
 has_id_wikidata: Q82414
 sport: '[[_Standards/WikiData/WD~winter_sport,204686]]'
 instance_of: '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
@@ -16,8 +111,8 @@ event_interval: 4
 organizer: '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
 IAB_code: 523
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20rings%20without%20rims.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Olympic%20Rings%20Icon.svg
 Dewey_Decimal_Classification: 796.98
 inception: 1924-01-01T00:00:00Z
 Commons_category: Winter Olympics
@@ -25,8 +120,124 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Athlete%27s%20oath%20a
 described_at_URL: https://www.sports-reference.com/olympics/winter/
 Library_of_Congress_Classification: GV841.5-GV842
 Krugosvet_article_archived_: sport/ZIMNIE_OLIMPISKIE_IGRI.html
+dv_has_:
+  name_:
+    af: Olimpiese Winterspele
+    ar: الألعاب الأولمبية الشتوية
+    arz: اوليمبياد شتا
+    ast: Xuegos Olímpicos d'Iviernu
+    az: Qış Olimpiya Oyunları
+    ba: Ҡышҡы Олимпия уйындары
+    be: Зімовыя Алімпійскія гульні
+    be-tarask: Зімовыя Алімпійскія гульні
+    bg: Зимни олимпийски игри
+    bho: विंटर ओलंपिक
+    bn: শীতকালীন অলিম্পিক গেমস
+    br: C'hoarioù Olimpek goañv
+    bs: Zimske olimpijske igre
+    ca: Jocs Olímpics d'hivern
+    cdo: Dĕ̤ng-gié Olympic Ông-dông-huôi
+    ckb: یارییەکانی ئۆڵۆمپیادی زستانە
+    cs: zimní olympijské hry
+    cv: Хĕллехи Олимп вăййисем
+    cy: Gemau Olympaidd y Gaeaf
+    da: Vinter-OL
+    de: Olympische Winterspiele
+    de-ch: Olympische Winterspiele
+    diq: Kayê Olimpiyatê Zımıstani
+    el: Χειμερινοί Ολυμπιακοί Αγώνες
+    en: Winter Olympic Games
+    eo: Vintraj Olimpikoj
+    es: Juegos Olímpicos de Invierno
+    et: taliolümpiamängud
+    eu: Neguko Olinpiar Jokoak
+    fa: بازیهای المپیک زمستانی
+    fi: talviolympialaiset
+    fo: Vetrar-OL
+    fr: Jeux olympiques d’hiver
+    fy: Olympyske Winterspullen
+    ga: Cluichí Oilimpeacha an Gheimhridh
+    gl: Xogos Olímpicos de Inverno
+    gn: Ñembosaraipavẽ Araro'ýpe
+    gsw: Olympische Winterspiele
+    gu: OLAMPIC WINTTER
+    hak: Tûng-kui Olympic Yun-thung-fi
+    he: משחקי החורף האולימפיים
+    hi: शीतकालीन ओलम्पिक खेल
+    hr: Zimske olimpijske igre
+    hu: téli olimpiai játékok
+    hy: Ձմեռային օլիմպիական խաղեր
+    id: Olimpiade Musim Dingin
+    io: Vintrala Olimpiala Ludi
+    is: Vetrarólympíuleikarnir
+    it: Giochi olimpici invernali
+    ja: 冬季オリンピック
+    ka: ზამთრის ოლიმპიური თამაშები
+    kk: Қысқы Олимпиада ойындары
+    kn: ಚಳಿಗಾಲದ ಒಲಿಂಪಿಕ್ಸ್
+    ko: 동계 올림픽
+    ko-kp: 겨울철올림픽경기대회
+    ky: Кышкы Олимпиада оюндары
+    la: Olympia hiemalia
+    lb: Olympesch Wanterspiller
+    lt: Žiemos olimpinės žaidynės
+    lv: ziemas olimpiskās spēles
+    min: Olimpiade Musim Dingin
+    mk: Зимски олимписки игри
+    mn: Өвлийн олимп
+    mr: हिवाळी ऑलिंपिक क्रीडा स्पर्धा
+    mrj: Тел Олимпиада мадмашвлӓ
+    ms: Sukan Olimpik Musim Sejuk
+    mzn: زمستونی المپیک
+    nan: Tang-kùi Olympia Ūn-tōng-hoē
+    nb: olympiske vinterleker
+    nl: Olympische Winterspelen
+    nn: olympiske vinterleikar
+    oc: Jòcs Olimpics d'ivèrn
+    pcd: Jus olimpikes d'iver
+    pl: Zimowe igrzyska olimpijskie
+    ps: د المپیک ژمنۍ لوبې
+    pt: Jogos Olímpicos de Inverno
+    pt-br: Jogos Olímpicos de Inverno
+    ro: jocuri olimpice de iarnă
+    ru: зимние Олимпийские игры
+    sah: Кыhыҥҥы Олимпия оонньуулара
+    sco: Winter Olympic Gemmes
+    se: dálveolympialaččat
+    sh: Zimske olimpijske igre
+    sk: Zimné olympijské hry
+    sl: zimske olimpijske igre
+    smn: tälviolympialiih
+    sq: Lojërat olimpike dimërore
+    sr: Зимске олимпијске игре
+    sr-ec: Зимске олимпијске игре
+    sv: Olympiska vinterspelen
+    ta: குளிர்கால ஒலிம்பிக் விளையாட்டுக்கள்
+    tg: Бозиҳои олимпии зимистона
+    th: โอลิมปิกฤดูหนาว
+    tk: Gyşky olimpiýa oýunlary
+    tl: Palarong Olimpiko sa Taglamig
+    tr: Kış Olimpiyat Oyunları
+    tt: Кышкы Олимпия уеннары
+    tt-cyrl: Кышкы Олимпия уеннары
+    uk: Зимові Олімпійські ігри
+    ur: سرمائی اولمپک کھیلیں
+    uz: Qishki olimpiada
+    vi: Thế vận hội Mùa đông
+    wuu: 冬季奥林匹克运动会
+    xmf: ზოთონჯიშ ოლიმპიური ლაჸაფეფი
+    yo: Àwọn Ìdíje Òlímpíkì Ìgbà Otútù
+    yue: 冬季奧林匹克運動會
+    zh: 冬季奥林匹克运动会
+    zh-cn: 冬季奥林匹克运动会
+    zh-hans: 冬季奥林匹克运动会
+    zh-hant: 冬季奧林匹克運動會
+    zh-hk: 冬季奧林匹克運動會
+    zh-mo: 冬季奧林匹克運動會
+    zh-my: 冬季奥林匹克运动会
+    zh-sg: 冬季奥林匹克运动会
+    zh-tw: 冬季奧林匹克運動會
 ---
-
 # [[Winter_Olympics]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Winter_Olympic_Games,82414|WD~Winter_Olympic_Games,82414]]   

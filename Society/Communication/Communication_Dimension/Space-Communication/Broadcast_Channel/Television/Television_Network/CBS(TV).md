@@ -1,44 +1,67 @@
 ---
-has_time_started: 1927-09-18 
+has_time_started: 1927-09-18
 aliases:
-  - CBS Broadcasting Inc
-  - Columbia Broadcasting System
-  - CBS(TV)
+- CBS
+- CBS (telefyzjenetwurk)
+- CBS (电视网)
+- CBS Broadcasting Inc
+- CBS(TV)
+- Columbia Broadcasting System
+- Си Би Ес
+- Си-Би-Ес
+- סי בי עס
+- سى بى اس
+- سي بي إس
+- سی بی ئێس
+- سی بی ایس
+- سیبیاس
+- सीबिएस
+- सीबीएस
+- চিবিএচ
+- সিবিএস
+- சிபிஎஸ்
+- ಸಿಬಿಎಸ್
+- ซีบีเอส
+- ສີບີເອສ
+- စီဘီအဲ့စ်
+- ស៊ីប៊ីអេស
+- 哥伦比亚广播公司
+- 哥倫比亞廣播公司
 has_id_wikidata: Q43380
 different_from: '[[_Standards/WikiData/WD~CBS,224397]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~TriStar_Pictures,651454]]'
-  - '[[_Standards/WikiData/WD~Hachette_Filipacchi_Media_U.S.,2791139]]'
-  - '[[_Standards/WikiData/WD~Viacom,3088127]]'
-  - '[[_Standards/WikiData/WD~King_World_Productions,4354137]]'
-  - '[[_Standards/WikiData/WD~CBS_Theatrical_Films,5009283]]'
-  - '[[_Standards/WikiData/WD~Cinema_Center_Films,5120700]]'
-  - '[[_Standards/WikiData/WD~Full_Moon_Records,5508109]]'
+- '[[_Standards/WikiData/WD~TriStar_Pictures,651454]]'
+- '[[_Standards/WikiData/WD~Hachette_Filipacchi_Media_U.S.,2791139]]'
+- '[[_Standards/WikiData/WD~Viacom,3088127]]'
+- '[[_Standards/WikiData/WD~King_World_Productions,4354137]]'
+- '[[_Standards/WikiData/WD~CBS_Theatrical_Films,5009283]]'
+- '[[_Standards/WikiData/WD~Cinema_Center_Films,5120700]]'
+- '[[_Standards/WikiData/WD~Full_Moon_Records,5508109]]'
 legal_form: '[[_Standards/WikiData/WD~subsidiary,658255]]'
 operator: '[[_Standards/WikiData/WD~CBS_Corporation,950380]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~radio_network,1061197]]'
-  - '[[_Standards/WikiData/WD~television_network,1254874]]'
-  - '[[_Standards/WikiData/WD~television_station,1616075]]'
+- '[[_Standards/WikiData/WD~radio_network,1061197]]'
+- '[[_Standards/WikiData/WD~television_network,1254874]]'
+- '[[_Standards/WikiData/WD~television_station,1616075]]'
 headquarters_locations: '[[_Standards/WikiData/WD~CBS_Building,2640560]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Drama,3025728]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Film,3473886]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Musical_or_Comedy,3473891]]'
-  - '[[_Standards/WikiData/WD~Outstanding_Live_Sports_Special,7113043]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Miniseries_or_Television_Film,7426018]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Miniseries,7426020]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Drama,3025728]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Film,3473886]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Musical_or_Comedy,3473891]]'
+- '[[_Standards/WikiData/WD~Outstanding_Live_Sports_Special,7113043]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Miniseries_or_Television_Film,7426018]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Miniseries,7426020]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Drama,3025728]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Musical_or_Comedy,3473891]]'
-  - '[[_Standards/WikiData/WD~Outstanding_Live_Sports_Special,7113043]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Miniseries,7426020]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Drama,3025728]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Television_Series_Musical_or_Comedy,3473891]]'
+- '[[_Standards/WikiData/WD~Outstanding_Live_Sports_Special,7113043]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Miniseries,7426020]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Viacom,3088127]]'
-  - '[[_Standards/WikiData/WD~Cinema_Center_Films,5120700]]'
-  - '[[_Standards/WikiData/WD~Showtime_Networks,7503319]]'
-  - '[[_Standards/WikiData/WD~WBWX,7947520]]'
-  - '[[_Standards/WikiData/WD~WHLM,7950267]]'
+- '[[_Standards/WikiData/WD~Viacom,3088127]]'
+- '[[_Standards/WikiData/WD~Cinema_Center_Films,5120700]]'
+- '[[_Standards/WikiData/WD~Showtime_Networks,7503319]]'
+- '[[_Standards/WikiData/WD~WBWX,7947520]]'
+- '[[_Standards/WikiData/WD~WHLM,7950267]]'
 founded_by: '[[_Standards/WikiData/WD~Arthur_Judson,4799296]]'
 archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_for_the_Performing_Arts,7013890]]'
 industry: '[[_Standards/WikiData/WD~media_industry,56611639]]'
@@ -49,8 +72,8 @@ licensed_to_broadcast_to: '[[_Standards/WikiData/WD~United_States,30]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 location_of_formation: '[[_Standards/WikiData/WD~New_York_City,60]]'
 social_media_followers:
-  - 2260000
-  - 1208438
+- 2260000
+- 1208438
 autonomous_system_number: 6102
 Giphy_username: cbs
 YouTube_handle: CBS
@@ -67,8 +90,121 @@ domain_name: cbs.com
 Instagram_username: cbstv
 motto_text: Only CBS
 inception: 1927-09-18T00:00:00Z
+dv_has_:
+  name_:
+    af: CBS
+    ar: سي بي إس
+    arz: سى بى اس
+    as: চিবিএচ
+    ast: CBS
+    az: Columbia Broadcasting System
+    be: CBS
+    be-tarask: CBS
+    bg: Си Би Ес
+    bn: সিবিএস
+    bs: CBS
+    ca: Columbia Broadcasting System
+    ceb: CBS
+    ckb: سی بی ئێس
+    cs: CBS
+    cv: CBS
+    cy: CBS
+    da: Columbia Broadcasting System
+    de: Columbia Broadcasting System
+    el: CBS
+    en: CBS
+    en-ca: CBS
+    en-gb: CBS
+    eo: Columbia Broadcasting System
+    es: CBS
+    et: CBS
+    eu: CBS
+    fa: سیبیاس
+    fi: CBS
+    fr: CBS
+    fy: CBS (telefyzjenetwurk)
+    ga: CBS
+    gl: CBS
+    gn: Columbia Broadcasting System
+    ha: CBS
+    he: CBS
+    hi: सीबीएस
+    hr: CBS
+    ht: CBS
+    hu: CBS
+    hy: CBS
+    id: CBS
+    is: CBS
+    it: CBS
+    ja: CBS
+    jv: CBS
+    ka: CBS
+    kaa: CBS
+    kk: CBS
+    km: ស៊ីប៊ីអេស
+    kn: ಸಿಬಿಎಸ್
+    ko: CBS
+    ku: CBS
+    ky: CBS
+    lb: CBS
+    lo: ສີບີເອສ
+    lt: CBS
+    lv: CBS
+    mg: CBS
+    mr: सीबीएस
+    ms: CBS
+    mul: CBS
+    my: စီဘီအဲ့စ်
+    nb: CBS
+    ne: सीबिएस
+    nl: CBS
+    nn: CBS
+    oc: Columbia Broadcasting System
+    pl: CBS
+    pt: CBS
+    pt-br: CBS
+    ro: CBS
+    ru: CBS
+    sah: CBS
+    scn: CBS
+    sco: CBS
+    sgs: CBS
+    sh: CBS
+    sk: CBS
+    sl: CBS
+    so: CBS
+    sq: Columbia Broadcasting System
+    sr: Си-Би-Ес
+    su: CBS
+    sv: CBS
+    sw: CBS
+    ta: சிபிஎஸ்
+    te: CBS
+    tg: CBS
+    th: ซีบีเอส
+    tl: CBS
+    tr: CBS
+    tt: CBS
+    tt-cyrl: CBS
+    uk: CBS
+    ur: سی بی ایس
+    uz: CBS
+    vec: CBS
+    vi: CBS
+    wuu: CBS (电视网)
+    xmf: CBS
+    yi: סי בי עס
+    yue: CBS
+    zh: 哥倫比亞廣播公司
+    zh-cn: 哥伦比亚广播公司
+    zh-hans: 哥伦比亚广播公司
+    zh-hant: 哥倫比亞廣播公司
+    zh-hk: 哥倫比亞廣播公司
+    zh-mo: 哥倫比亞廣播公司
+    zh-my: 哥倫比亞廣播公司
+    zh-sg: 哥倫比亞廣播公司
+    zh-tw: 哥倫比亞廣播公司
 ---
-
 # [[CBS(TV)]] 
 
 #is_/same_as  :: [[../../../../../../../WikiData/WD~CBS,43380|WD~CBS,43380]] 

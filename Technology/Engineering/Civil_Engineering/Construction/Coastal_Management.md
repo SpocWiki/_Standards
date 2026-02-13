@@ -1,8 +1,39 @@
 ---
 aliases:
-  - Coastal management
-  - Coastal_Management
-  - Coastal Management
+- Administratio litoralis
+- Coastal management
+- Coastal_Management
+- défense côtière
+- Gestion costiera
+- gestió de costes
+- gestión costera
+- gestão costeira
+- Kostaren kudeaketa
+- kustverdediging
+- kystsikring
+- Küstenschutz
+- kıyı yönetimi
+- Pagdudumara hin pampang
+- pengelolaan wilayah pesisir
+- quản lý bờ biển
+- Xestión costera
+- Zapobieganie niszczeniu wybrzeża
+- берагавая ахова
+- береговая защита
+- береговий захист
+- брегова заштита
+- Обалска заштита
+- إدارة ساحلية
+- ئەندازیاریی لێوارە
+- مدیریت سواحل
+- கடற்கரை மேலாண்மை
+- වෙරළ කළමනාකරණය
+- การจัดการชายฝั่ง
+- ကမ်းခြေစောင့်ရှောက်ရေး
+- 海岸帶管理
+- 海岸管理
+- 砂丘の安定化
+- 해안 관리
 has_id_wikidata: Q1316027
 has_characteristic: '[[_Standards/WikiData/WD~coast,93352]]'
 subclass_of: '[[_Standards/WikiData/WD~flood_control_structure,2630707]]'
@@ -10,8 +41,42 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Coastal_management,764183
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 P8189: 987007284076505171
 Commons_category: Coastal management
+dv_has_:
+  name_:
+    ar: إدارة ساحلية
+    ast: Xestión costera
+    be-tarask: берагавая ахова
+    ca: gestió de costes
+    ckb: ئەندازیاریی لێوارە
+    da: kystsikring
+    de: Küstenschutz
+    en: coastal management
+    es: gestión costera
+    eu: Kostaren kudeaketa
+    fa: مدیریت سواحل
+    fr: défense côtière
+    id: pengelolaan wilayah pesisir
+    ja: 砂丘の安定化
+    ko: 해안 관리
+    la: Administratio litoralis
+    mk: брегова заштита
+    my: ကမ်းခြေစောင့်ရှောက်ရေး
+    nl: kustverdediging
+    pl: Zapobieganie niszczeniu wybrzeża
+    pms: Gestion costiera
+    pt: gestão costeira
+    ru: береговая защита
+    si: වෙරළ කළමනාකරණය
+    sr: Обалска заштита
+    ta: கடற்கரை மேலாண்மை
+    th: การจัดการชายฝั่ง
+    tr: kıyı yönetimi
+    uk: береговий захист
+    vi: quản lý bờ biển
+    war: Pagdudumara hin pampang
+    yue: 海岸管理
+    zh: 海岸帶管理
 ---
-
 # [[Coastal_Management]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Coastal_management,1316027|WD~Coastal_management,1316027]] 

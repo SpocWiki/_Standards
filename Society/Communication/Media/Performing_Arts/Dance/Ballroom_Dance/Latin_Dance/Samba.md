@@ -1,13 +1,37 @@
 ---
 aliases:
-  - Samba
+- Samba
+- Samba de Roda
+- Sambe
+- sambo
+- sanba
+- szamba
+- Sámba
+- σάμπα
+- самбæ
+- самба
+- сомбо
+- סאמבע
+- סמבה
+- سامبا
+- سمبا
+- চাম্বা
+- সাম্বা
+- ਸਾਂਬਾ
+- சாம்பா
+- സാംബ
+- แซมบา
+- サンバ
+- 桑巴
+- 森巴舞
+- 삼바
 has_id_wikidata: Q11403
 Commons_category: Samba
 Commons_gallery: Samba
 country_of_origin: '[[_Standards/WikiData/WD~Brazil,155]]'
 different_from:
-  - '[[_Standards/WikiData/WD~samba,1340043]]'
-  - '[[_Standards/WikiData/WD~samba,1375949]]'
+- '[[_Standards/WikiData/WD~samba,1340043]]'
+- '[[_Standards/WikiData/WD~samba,1375949]]'
 has_time_started: 1914-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20TST%20night%20%E6%9F%8F%E9%BA%97%E8%B3%BC%E7%89%A9%E5%A4%A7%E9%81%93%20Park%20Lane%20Shopper%27s%20Boulevard%20%E5%B7%B4%E8%A5%BF%20Brasil%20%E6%A3%AE%E5%B7%B4%E8%88%9E%E5%A8%98%20Samba%20female%20dancers%20Nov-2010%2002.JPG
 inception: 1914
@@ -16,8 +40,109 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura
 practiced_by: '[[_Standards/WikiData/WD~sambista,11305911]]'
 subclass_of: '[[_Standards/WikiData/WD~music_of_Brazil,899215]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Samba,22880924]]'
+dv_has_:
+  name_:
+    af: samba
+    an: Samba
+    ar: سامبا
+    as: চাম্বা
+    ast: samba
+    azb: سامبا
+    ba: Самба
+    bar: Samba
+    be: самба
+    be-tarask: самба
+    bg: Самба
+    bn: সাম্বা
+    br: Samba
+    bs: Samba
+    ca: samba
+    ckb: سامبا
+    crh: Samba
+    cs: samba
+    cy: samba
+    da: samba
+    de: Samba
+    el: σάμπα
+    en: samba
+    eo: sambo
+    es: samba
+    et: Samba
+    eu: sanba
+    fa: سامبا
+    fi: Samba
+    fr: samba
+    fur: Sambe
+    gl: Samba
+    gn: Sámba
+    gsw: Samba
+    gv: samba
+    hak: Samba
+    he: סמבה
+    hif: samba
+    hr: Samba
+    hu: szamba
+    ia: Samba
+    id: Samba
+    ilo: samba
+    io: Samba
+    is: Samba
+    it: samba
+    ja: サンバ
+    kk: Самба
+    ko: 삼바
+    kw: Samba
+    la: Samba
+    lt: samba
+    lv: samba
+    mk: Самба
+    ml: സാംബ
+    ms: Samba
+    mt: samba
+    mzn: سامبا
+    nan: Samba
+    nb: samba
+    nds: Samba
+    nds-nl: samba
+    nl: samba
+    nn: samba
+    oc: Samba
+    os: самбæ
+    pa: ਸਾਂਬਾ
+    pap: Samba
+    pl: Samba de Roda
+    pms: Samba
+    pnb: سمبا
+    pt: samba
+    pt-br: samba
+    ro: Samba
+    ru: самба
+    rue: Самба
+    sc: Samba
+    sgs: Samba
+    sh: Samba
+    sl: samba
+    sq: Samba
+    sr: самба
+    sr-ec: самба
+    sr-el: samba
+    sv: samba
+    sw: Samba
+    ta: சாம்பா
+    tg: сомбо
+    th: แซมบา
+    tr: samba
+    udm: самба
+    uk: самба
+    ur: سامبا
+    vec: samba
+    vi: Samba
+    war: Samba
+    wuu: 桑巴
+    yi: סאמבע
+    yue: 森巴舞
+    zh: 桑巴
 ---
-
 # [[Samba]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Samba,11403|WD~Samba,11403]] 

@@ -1,10 +1,99 @@
 ---
 aliases:
-  - Uran
-  - Uranium
+- I-uranium
+- Ilhuicateōtepoztli
+- Iranyòm
+- Ishaqantuva
+- Iù
+- jinmrvurani
+- Luranin
+- Oraniôma
+- uraan
+- uraani
+- uraanium
+- Uran
+- uranas
+- Urani
+- Uranie
+- uranij
+- Uranijum
+- uranio
+- Uraniom
+- uraniu
+- Uranium
+- uranju
+- Urannio
+- Uranyo
+- Uranyu
+- uranyum
+- Uruanu
+- Urànio
+- Uràniu
+- urán
+- urána
+- urânio
+- urāns
+- uuraan
+- wraniwm
+- Yulaniyaamu
+- Yurenyamu
+- Yuurieniom
+- Ùráníọ̀m
+- úran
+- úráiniam
+- Łéétsoh
+- Ʊranɩyɔm
+- ουράνιο
+- Оуранїѥ
+- уран
+- Уран (елемент)
+- Уран (элемент)
+- уранијум
+- ураниум
+- Уранум
+- ուրան
+- אוראניום
+- אורניום
+- أورانيوم
+- ئۇران
+- اورانيوم
+- اورانیم
+- اورانیوم
+- يورانيم
+- يورانيوم
+- يورينيئم
+- یورانیۆم
+- یورینِیَم
+- یورینیئم
+- یورینیم
+- युरेनियम
+- युर्यानियम
+- यूरानियम
+- यूरेनियम
+- ইউরেনিয়াম
+- ਯੂਰੇਨੀਅਮ
+- યુરેનિયમ
+- ୟୁରାନିଅମ
+- யுரேனியம்
+- యురేనియం
+- ಯುರೇನಿಯಮ್
+- യുറേനിയം
+- යුරේනියම්
+- ยูเรเนียม
+- ཡུ་རེ་ནིམ།
+- ယူရေနီယမ်
+- ურანი
+- ዩራኒየም
+- ᏳᏪᏂᎥᎻ
+- ᱭᱩᱨᱮᱱᱤᱭᱟᱢ
+- ウラン
+- 鈾
+- 铀
+- 우라늄
+- 우라니움
 has_id_wikidata: Q1098
 atomic_number: 92
-canonical_SMILES: "[U]"
+canonical_SMILES: '[U]'
 CAS_Registry_Number: 7440-61-1
 chemical_formula: U
 Commons_category: Uranium
@@ -12,57 +101,57 @@ Commons_gallery: Uranium
 Common_Procurement_Vocabulary_code: 9341000
 density: 19.05
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification:
-  - 546.431
-  - 669.2931
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]"
+- 546.431
+- 669.2931
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]'
 DSSTOX_compound_identifier: DTXCID304373
 EC_number: 231-170-6
 electronegativity: 1.38
 element_symbol: U
-fabrication_method: "[[_Standards/WikiData/WD~uraninite,206467]]"
+fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467]]'
 Gmelin_number: 16315
-has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg
 InChI: InChI=1S/U
 InChIKey: JFALSRSLKYAFGM-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~radioactive_element,3658631]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 1
-  - 0.45
-  - 0.52
-  - 0.73
-  - 0.76
-  - 0.86
-  - 0.89
-  - 1.03
-  - 1.17
+- 1
+- 0.45
+- 0.52
+- 0.73
+- 0.76
+- 0.86
+- 0.89
+- 1.03
+- 1.17
 Krugosvet_article: nauka_i_tehnika/himiya/URAN.html
 mass: 238.02891
 MeSH_tree_code:
-  - D01.268.271.100.950
-  - D01.268.556.900
-  - D01.496.749.305.100.950
-  - D01.552.020.940
-  - D01.552.544.900
-named_after: "[[_Standards/WikiData/WD~Uranus,324]]"
+- D01.268.271.100.950
+- D01.268.556.900
+- D01.496.749.305.100.950
+- D01.552.020.940
+- D01.552.544.900
+named_after: '[[_Standards/WikiData/WD~Uranus,324]]'
 OmegaWiki_Defined_Meaning: 3902
 part_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg
 PubChem_CID: 23989
 RTECS_number: YR3490000
 SpocWebEntityId: 21987
 time_of_discovery_or_invention: 1789
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]'
 type: Element
 UMLS_CUI: C0041928
 Unicode_character: 鈾
@@ -71,21 +160,213 @@ U_S_National_Archives_Identifier: 10644103
 ZVG_number: 7920
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Uranium,1098]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect|Uranium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]"
-  part_of: "[[../Actinide]]"
+  - '[[../../../WikiData/WD~Uranium,1098]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect|Uranium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]'
+  part_of: '[[../Actinide]]'
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Uranium
-    de: Uran
     abbreviated: U
+    af: uraan
+    am: ዩራኒየም
+    an: Uranio
+    anp: यूरेनियम
+    ar: يورانيوم
+    ary: أورانيوم
+    arz: يورانيوم
+    ast: uraniu
+    az: Uran
+    azb: اورانیوم
+    ba: Уран (элемент)
+    ban: Uranium
+    bcl: Uranyo
+    be: уран
+    be-tarask: уран
+    bg: уран
+    bho: युर्यानियम
+    blk: ယူရေနီယမ်
+    bn: ইউরেনিয়াম
+    bo: ཡུ་རེ་ནིམ།
+    br: Uraniom
+    bs: uranij
+    ca: urani
+    cdo: Iù
+    ceb: Uranyo
+    chr: ᏳᏪᏂᎥᎻ
+    ckb: یورانیۆم
+    co: Uraniu
+    cs: uran
+    cu: Оуранїѥ
+    cv: Уран
+    cy: wraniwm
+    da: uran
+    de: Uran
+    de-ch: Uran
+    dz: ཡུ་རེ་ནིམ།
+    el: ουράνιο
+    en: uranium
+    en-ca: Uranium
+    en-gb: uranium
+    eo: uranio
+    es: uranio
+    et: uraan
+    eu: uranio
+    fa: اورانیم
+    fi: uraani
+    fo: Uran
+    fr: uranium
+    frr: Uraan
+    fur: Urani
+    fy: Uranium
+    ga: úráiniam
+    gan: 鈾
+    gd: Uranium
+    gl: Uranio
+    gom: युरेनियम
+    group: Actinide-Group
+    gsw: Uran
+    gu: યુરેનિયમ
+    gv: uraanium
+    hak: uranium
+    he: אורניום
+    hi: यूरेनियम
+    hif: Uranium
+    hr: uranij
+    ht: Iranyòm
+    hu: urán
+    hy: ուրան
+    ia: uranium
+    id: uranium
+    io: uranio
+    is: úran
+    it: uranio
+    ja: ウラン
+    jam: Yuurieniom
+    jbo: jinmrvurani
+    jv: Uranium
+    ka: ურანი
+    kbp: Ʊranɩyɔm
+    kk: уран
+    kn: ಯುರೇನಿಯಮ್
+    ko: 우라늄
+    ko-kp: 우라니움
+    koi: Уран
+    ks: یورینِیَم
+    kv: Уран
+    kw: uraniom
+    ky: Уран
+    la: uranium
+    lad: uranio
+    lb: Uran
+    lfn: uranio
+    lg: Yulaniyaamu
+    li: Uranium
+    lij: Urannio
+    lld: Uranie
+    lmo: Uranio
+    lt: uranas
+    lv: urāns
+    lzh: 鈾
+    mg: Oraniôma
+    mk: ураниум
+    ml: യുറേനിയം
+    mn: уран
+    mr: युरेनियम
+    mrj: Уран
+    ms: uranium
+    ms-arab: اورانيوم
+    mt: uranju
+    my: ယူရေနီယမ်
+    myv: Уран
+    nah: Ilhuicateōtepoztli
+    nan: Uranium
+    nb: uran
+    nds: Uran
+    ne: युरेनियम
+    new: युर्यानियम
+    nl: uraan
+    nn: uran
+    nov: Uranium
+    nv: Łéétsoh
+    oc: urani
+    olo: Uruanu
+    or: ୟୁରାନିଅମ
+    os: уран
+    pa: ਯੂਰੇਨੀਅਮ
+    pi: युर्यानियम
+    pl: uran
+    pms: Urani
+    pnb: یورینیم
+    ps: يورانيم
+    pt: urânio
+    pt-br: urânio
+    qu: Uranyu
+    ro: uraniu
+    ru: уран
+    rue: Уран (елемент)
+    rup: Uraniu
+    sa: यूरानियम
+    sah: Ураниум
+    sat: ᱭᱩᱨᱮᱱᱤᱭᱟᱢ
+    sc: Uràniu
+    scn: uraniu
+    sco: uranium
+    sd: يورينيئم
+    se: urána
+    sh: Uranijum
+    si: යුරේනියම්
+    sk: urán
+    sl: uran
+    smn: uuraan
+    sms: uraan
+    sn: Yurenyamu
+    sq: urani
+    sr: уранијум
+    stq: Uran
+    su: Uranium
+    sv: uran
+    sw: urani
+    ta: யுரேனியம்
+    te: యురేనియం
+    tg: Уран (элемент)
+    th: ยูเรเนียม
+    tl: Uranyo
+    tr: uranyum
+    tt: уран
+    ug: ئۇران
+    uk: уран
+    ur: یورینیئم
+    uz: Uran
+    vec: Urànio
+    vep: Uran
+    vi: urani
+    vo: Luranin
+    war: Uranyo
+    wuu: 铀
+    xal: Уранум
+    xh: I-uranium
+    yi: אוראניום
+    yo: Ùráníọ̀m
+    yue: 鈾
+    zh: 鈾
+    zh-cn: 铀
+    zh-hans: 铀
+    zh-hant: 鈾
+    zh-hk: 鈾
+    zh-mo: 鈾
+    zh-my: 铀
+    zh-sg: 铀
+    zh-tw: 鈾
+    zu: Ishaqantuva
+  number_of_:
+    period: 7
+    group: 26
+    electrons: 92
   value_for_:
     weight_:
       u: 238.0289
@@ -113,21 +394,17 @@ dv_has_:
       form_:
         kj_:
           mol: 477
-  number_of_:
-    period: 7
-    group: 26
-    electrons: 92
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Uranium,1098]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect|Uranium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]"
+- '[[../../../WikiData/WD~Uranium,1098]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Uranium.protect|Uranium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: "[[../Actinide]]"
+dv_is_part_of: '[[../Actinide]]'
 dv_has_name_en: Uranium
 dv_has_name_de: Uran
 dv_has_name_abbreviated: U
@@ -148,7 +425,6 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 26
 dv_has_number_of_electrons: 92
 ---
-
 # [[Uranium]] 
 
 

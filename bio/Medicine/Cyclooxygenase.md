@@ -1,9 +1,78 @@
 ---
 aliases:
-  - prostaglandin-endoperoxide synthase
-  - Cyclooxygenase
+- Ciclo-oxigenase
+- Ciclooxigenasa
+- Ciclooxigenază
+- Ciclooxixenase
+- Ciklooksigenaza
+- cyclo-oxygenase
+- Cyclooxygenase
+- Cyclooxygenasen
+- Cyclooxygénase
+- Cyklooksygenaza
+- Cyklooxygenas
+- Cyklooxygenáza
+- prostaglandin-endoperoxide synthase
+- Prostaglandina-endoperossido sintasi
+- Siklooksigenase
+- Siklooksigenazalar
+- siklooksijenaz
+- Syklo-oksigenaasi
+- syklooksygenase
+- Tsüklooksügenaas
+- Циклооксигеназа
+- Ցիկլոօքսիգենազ
+- آنزیم سیکلواکسیژناز
+- سيكلواوكسيجيناز
+- シクロオキシゲナーゼ
+- 环氧合酶
+- 環氧合酶
+- 고리형 산소화효소
+has_id_wikidata: Q410251
+dv_has_:
+  name_:
+    ar: سيكلواوكسيجيناز
+    bs: Ciklooksigenaza
+    ca: Ciclooxigenasa
+    cs: Cyklooxygenáza
+    de: Cyclooxygenasen
+    en: prostaglandin-endoperoxide synthase
+    es: Ciclooxigenasa
+    et: Tsüklooksügenaas
+    fa: آنزیم سیکلواکسیژناز
+    fi: Syklo-oksigenaasi
+    fr: Cyclooxygénase
+    gl: Ciclooxixenase
+    hy: Ցիկլոօքսիգենազ
+    id: Siklooksigenase
+    it: Prostaglandina-endoperossido sintasi
+    ja: シクロオキシゲナーゼ
+    ko: 고리형 산소화효소
+    mk: Циклооксигеназа
+    ms: Siklooksigenase
+    nl: cyclo-oxygenase
+    nn: syklooksygenase
+    pl: Cyklooksygenaza
+    pt: Ciclo-oxigenase
+    ro: Ciclooxigenază
+    ru: Циклооксигеназа
+    sh: Ciklooksigenaza
+    sl: Ciklooksigenaza
+    sr: Ciklooksigenaza
+    sr-ec: Циклооксигеназа
+    sr-el: Ciklooksigenaza
+    sv: Cyklooxygenas
+    tr: siklooksijenaz
+    uk: Циклооксигеназа
+    uz: Siklooksigenazalar
+    zh: 環氧合酶
+    zh-cn: 环氧合酶
+    zh-hans: 环氧合酶
+    zh-hant: 環氧合酶
+    zh-hk: 環氧合酶
+    zh-sg: 环氧合酶
+    zh-tw: 環氧合酶
 ---
-
 Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors. 
 
 

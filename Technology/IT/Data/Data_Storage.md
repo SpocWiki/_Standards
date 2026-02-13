@@ -1,24 +1,89 @@
 ---
 aliases:
-  - Recording Medium
-  - Data storage
-  - Data_Storage
-  - Data Storage
+- adathordozó
+- andmekandja
+- arqaw
+- bahantara rakam
+- coacervatio datorum
+- dastgohi xotiravī
+- Data storage
+- data storage device
+- datastoor
+- Data_Storage
+- datena konservado
+- Datenträger
+- datové médium
+- datuak biltzeko gailua
+- depo të dhënash
+- dispositiu d'emmagatzematge de dades
+- dispositivo de almacenamento de datos
+- dispositivo de almacenamiento de datos
+- dispositivo de armazenamento
+- dispositivu d'almacenamientu de datos
+- dispozitiv de memorare date
+- gegevensdrager
+- geymslumiðill
+- informacijos laikmena
+- lagringsmedie
+- lagringsmedium
+- lưu trữ dữ liệu
+- masovna spremišta podataka
+- nośnik danych
+- ohun àkábá fún dátà
+- peranti penyimpanan data
+- périphérique de stockage d'information
+- Recording Medium
+- shranjevalni medij
+- storio data
+- stóras tánaisteach
+- supporto di memoria
+- tiedontallennusväline
+- uređaji za pohranjivanje podataka
+- veri depolama ortamı
+- xotira qurilmasi
+- yaddasaxlama qurğusu
+- záznamové médium
+- âzdyručy ğajlanma
+- μέσο αποθήκευσης δεδομένων
+- арқау
+- дастгоҳи хотиравӣ
+- запамінальная прылада
+- запаметяващо устройство
+- запоминающее устройство
+- носій інформації
+- носач на податоци
+- ТШЯ
+- уређај за складиштење података
+- яздыручы җайланма
+- հիշող սարք
+- אמצעי לאחסון נתונים
+- ارقاۋ
+- باهنتارا راقم
+- دستگاه ذخیرهسازی داده
+- دیتا ساخلانماسی
+- وسيط تخزين البيانات
+- आंकड़ा भंडारण
+- উপাত্ত সংরক্ষণাগার যন্ত্র
+- 儲存裝置
+- 存储设备
+- 記録媒体
+- 資料儲存
+- 데이터 스토리지
 has_id_wikidata: Q193395
 has_use: '[[_Standards/WikiData/WD~computer_storage_media,66221]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~communications_media,340169]]'
-  - '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
+- '[[_Standards/WikiData/WD~communications_media,340169]]'
+- '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
 used_by:
-  - '[[_Standards/WikiData/WD~magnetic_recording,5883838]]'
-  - '[[_Standards/WikiData/WD~magneto_optical_recording,56822811]]'
-  - '[[_Standards/WikiData/WD~data_storage,57515336]]'
+- '[[_Standards/WikiData/WD~magnetic_recording,5883838]]'
+- '[[_Standards/WikiData/WD~magneto_optical_recording,56822811]]'
+- '[[_Standards/WikiData/WD~data_storage,57515336]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_storage_medium,7217704]]'
 different_from: '[[_Standards/WikiData/WD~data_storage_medium,15141646]]'
 instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
 part_of:
-  - '[[_Standards/WikiData/WD~drive,64817736]]'
-  - '[[_Standards/WikiData/WD~removable_media,37768]]'
+- '[[_Standards/WikiData/WD~drive,64817736]]'
+- '[[_Standards/WikiData/WD~removable_media,37768]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 Wikidata_property: storage device
 IAB_code: 616
@@ -28,8 +93,91 @@ narrower_external_class: https://schema.org/MusicReleaseFormatType
 Dewey_Decimal_Classification: 004.5
 Common_Procurement_Vocabulary_code: 30234000
 Unicode_range: U+1F4BD-1F4C0,U+1F4FC
+dv_has_:
+  name_:
+    af: datastoor
+    ar: وسيط تخزين البيانات
+    ast: dispositivu d'almacenamientu de datos
+    az: yaddasaxlama qurğusu
+    azb: دیتا ساخلانماسی
+    be: запамінальная прылада
+    be-tarask: запамінальная прылада
+    bg: запаметяващо устройство
+    bn: উপাত্ত সংরক্ষণাগার যন্ত্র
+    bs: uređaji za pohranjivanje podataka
+    ca: dispositiu d'emmagatzematge de dades
+    cs: datové médium
+    cy: storio data
+    da: lagringsmedie
+    de: Datenträger
+    el: μέσο αποθήκευσης δεδομένων
+    en: recording medium
+    eo: datena konservado
+    es: dispositivo de almacenamiento de datos
+    et: andmekandja
+    eu: datuak biltzeko gailua
+    fa: دستگاه ذخیرهسازی داده
+    fi: tiedontallennusväline
+    fr: périphérique de stockage d'information
+    ga: stóras tánaisteach
+    gl: dispositivo de almacenamento de datos
+    he: אמצעי לאחסון נתונים
+    hi: आंकड़ा भंडारण
+    hr: masovna spremišta podataka
+    hu: adathordozó
+    hy: հիշող սարք
+    id: peranti penyimpanan data
+    is: geymslumiðill
+    it: supporto di memoria
+    ja: 記録媒体
+    kk: арқау
+    kk-arab: ارقاۋ
+    kk-cn: ارقاۋ
+    kk-cyrl: арқау
+    kk-kz: арқау
+    kk-latn: arqaw
+    kk-tr: arqaw
+    ko: 데이터 스토리지
+    la: coacervatio datorum
+    lt: informacijos laikmena
+    mhr: ТШЯ
+    mk: носач на податоци
+    ms: bahantara rakam
+    ms-arab: باهنتارا راقم
+    nb: lagringsmedium
+    nl: gegevensdrager
+    nn: lagringsmedium
+    pl: nośnik danych
+    pt: dispositivo de armazenamento
+    pt-br: dispositivo de armazenamento
+    ro: dispozitiv de memorare date
+    ru: запоминающее устройство
+    sco: data storage device
+    sk: záznamové médium
+    sl: shranjevalni medij
+    sq: depo të dhënash
+    sr: уређај за складиштење података
+    sv: lagringsmedium
+    tg: дастгоҳи хотиравӣ
+    tg-cyrl: дастгоҳи хотиравӣ
+    tg-latn: dastgohi xotiravī
+    tr: veri depolama ortamı
+    tt: яздыручы җайланма
+    tt-latn: âzdyručy ğajlanma
+    uk: носій інформації
+    uz: xotira qurilmasi
+    vi: lưu trữ dữ liệu
+    wuu: 存储设备
+    yo: ohun àkábá fún dátà
+    yue: 資料儲存
+    zh: 儲存裝置
+    zh-cn: 存储设备
+    zh-hans: 存储设备
+    zh-hant: 儲存裝置
+    zh-hk: 儲存裝置
+    zh-sg: 存储设备
+    zh-tw: 儲存裝置
 ---
-
 # [[Data_Storage]] 
 
 #is_/same_as :: [[WD~Recording_medium,193395]] 

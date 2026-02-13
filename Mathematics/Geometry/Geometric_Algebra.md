@@ -1,11 +1,57 @@
 ---
 aliases:
-  - Clifford-Algebra
-  - Grassmann algebra
-  - Geometric_Algebra
-  - Geometric Algebra
+- algèbre associative contractant un sous-espace vectoriel vers le corps des scalaires
+- Clifford-Algebra
+- geometria alĝebro
+- Geometric Algebra
+- geometrická algebra
+- Geometric_Algebra
+- Geometrijska algebra
+- Geometrische Algebra
+- Grassmann algebra
+- àlgebra geomètrica
+- álgebra geométrica
+- ģeometriskā algebra
+- Γεωμετρική Άλγεβρα
+- геометрическая алгебра
+- אלגברה גאומטרית
+- جبر هندسي
+- جبر هندسی
+- জ্যামিতিক বীজগণিত
+- రేఖాగణిత బీజగణితం
+- พีชคณิตทางเรขาคณิต
+- 几何代数
+- 幾何代数
+- 幾何代數
+- 기하적 대수학
+has_id_wikidata: Q1186649
+dv_has_:
+  name_:
+    ar: جبر هندسي
+    bn: জ্যামিতিক বীজগণিত
+    ca: àlgebra geomètrica
+    cs: geometrická algebra
+    de: Geometrische Algebra
+    el: Γεωμετρική Άλγεβρα
+    en: geometric algebra
+    eo: geometria alĝebro
+    es: álgebra geométrica
+    fa: جبر هندسی
+    fr: algèbre associative contractant un sous-espace vectoriel vers le corps des scalaires
+    he: אלגברה גאומטרית
+    ja: 幾何代数
+    ko: 기하적 대수학
+    lv: ģeometriskā algebra
+    pt: álgebra geométrica
+    ru: геометрическая алгебра
+    sl: Geometrijska algebra
+    te: రేఖాగణిత బీజగణితం
+    th: พีชคณิตทางเรขาคณิต
+    zh: 幾何代數
+    zh-cn: 几何代数
+    zh-hans: 几何代数
+    zh-hant: 幾何代數
 ---
-
 # [[Geometric_Algebra]] 
 
 #has_/url_for_/content :: https://bivector.net/

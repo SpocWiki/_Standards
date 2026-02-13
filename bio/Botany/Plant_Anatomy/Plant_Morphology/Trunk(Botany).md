@@ -1,26 +1,185 @@
 ---
 aliases:
-  - Stamm
-  - bole
-  - boles
-  - Trunk(Botany)
+- batang
+- batang pokok
+- bole
+- boles
+- Boncyff
+- Buk
+- deblo
+- diŋgek
+- enbor
+- fatörzs
+- Gogo
+- gövde
+- gövdə
+- hùyók
+- Jirid
+- Kamienas
+- Kef
+- kmen
+- kmeň
+- Mobímbí
+- pień
+- piéń
+- runko
+- Stablo
+- Stablo (botanika)
+- stam
+- Stam (diel fan in plant)
+- Stamm
+- stamme
+- stumbrs
+- tamhan
+- teɛ seɛ
+- thân cây
+- tronc
+- tronco
+- Troun
+- Trunco
+- truncus
+- Trungu
+- trunk
+- Trunk(Botany)
+- trunko
+- trädstam
+- Tueru
+- tüvi
+- Yura kurku
+- Zuccu
+- štom
+- діңгек
+- Йывăç вулли
+- Олон (ботаника)
+- ствол
+- ствол дрэва
+- стовбур
+- труп
+- Тӱҥ
+- Хи (ботаника)
+- բուն
+- גזע
+- تنه (گیاهشناسی)
+- جدع
+- جذع
+- گؤوده
+- खोड
+- మాను
+- ပင်စည်
+- လမ်း
+- ᎠᏓ ᎤᏴᏗᏅᏒ
+- ᠴᡳᡴᡨᡝᠨ
+- 树干
+- 樹幹
+- 나무줄기
 has_id_wikidata: Q193472
 subclass_of:
-  - '[[_Standards/WikiData/WD~plant_stem,134267]]'
-  - '[[_Standards/WikiData/WD~raw_material,192355]]'
+- '[[_Standards/WikiData/WD~plant_stem,134267]]'
+- '[[_Standards/WikiData/WD~raw_material,192355]]'
 different_from:
-  - '[[_Standards/WikiData/WD~gun_barrel,487192]]'
-  - '[[_Standards/WikiData/WD~Trunko,913481]]'
-  - '[[_Standards/WikiData/WD~log,12029485]]'
-  - "[[_Standards/WikiData/WD~elephant's_trunk,63255087]]"
+- '[[_Standards/WikiData/WD~gun_barrel,487192]]'
+- '[[_Standards/WikiData/WD~Trunko,913481]]'
+- '[[_Standards/WikiData/WD~log,12029485]]'
+- "[[_Standards/WikiData/WD~elephant's_trunk,63255087]]"
 has_use: '[[_Standards/WikiData/WD~log_cabin,695207]]'
 instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
 part_of: '[[_Standards/WikiData/WD~tree,10884]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20birch%20trunk.jpg
 Commons_gallery: Tree trunks
 Commons_category: Tree trunks
+dv_has_:
+  name_:
+    an: Tronco
+    ar: جذع
+    ary: جدع
+    ast: Tueru
+    az: gövdə
+    azb: گؤوده
+    ba: Олон (ботаника)
+    be: ствол дрэва
+    be-tarask: ствол
+    bg: Ствол
+    br: Kef
+    bs: Stablo
+    ca: tronc
+    chr: ᎠᏓ ᎤᏴᏗᏅᏒ
+    cs: kmen
+    csb: piéń
+    cv: Йывăç вулли
+    cy: Boncyff
+    da: stamme
+    de: Stamm
+    dga: teɛ seɛ
+    dsb: štom
+    en: trunk
+    eo: trunko
+    es: tronco
+    et: tüvi
+    eu: enbor
+    fa: تنه (گیاهشناسی)
+    fi: runko
+    fr: tronc
+    fy: Stam (diel fan in plant)
+    ga: tamhan
+    gl: tronco
+    he: גזע
+    hr: deblo
+    hu: fatörzs
+    hy: բուն
+    ia: Trunco
+    id: batang
+    inh: Хи (ботаника)
+    it: tronco
+    ja: 樹幹
+    kk: діңгек
+    kk-latn: diŋgek
+    ko: 나무줄기
+    la: truncus
+    ln: Mobímbí
+    lt: Kamienas
+    lv: stumbrs
+    mcn: hùyók
+    mhr: Тӱҥ
+    mk: труп
+    mnc: ᠴᡳᡴᡨᡝᠨ
+    mr: खोड
+    ms: batang pokok
+    my: ပင်စည်
+    nb: stamme
+    nds-nl: stamme
+    nl: stam
+    nn: stamme
+    nrm: Troun
+    pl: pień
+    pt: tronco
+    pt-br: tronco
+    qu: Yura kurku
+    ru: ствол
+    scn: Zuccu
+    sh: Deblo
+    shn: လမ်း
+    sk: kmeň
+    sl: deblo
+    so: Jirid
+    sq: Trungu
+    sr: Stablo (botanika)
+    sv: trädstam
+    sw: Gogo
+    te: మాను
+    tr: gövde
+    uk: стовбур
+    vec: tronco
+    vi: thân cây
+    wa: Buk
+    yue: 樹幹
+    zh: 樹幹
+    zh-cn: 树干
+    zh-hans: 树干
+    zh-hant: 樹幹
+    zh-hk: 樹幹
+    zh-sg: 树干
+    zh-tw: 樹幹
 ---
-
 # [[Trunk(Botany)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Trunk,193472|WD~Trunk,193472]]  

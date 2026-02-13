@@ -1,35 +1,117 @@
 ---
 aliases:
+- aireachtáil
+- Algı
+- canfyddiad
+- fatan
+- hautemate
+- havaitseminen
+- Hinnata
+- Idrok
+- Intshwayo
+- Inʼikos
+- opažanje
+- perceición
+- Percepcija
+- percepcion
+- percepció
+- percepción
+- perceptie
+- perceptim
+- Perceptio
+- perception
+- percepto
+- Percepziun
+- percepção
+- percepție
+- percezione
+- Persepsi
+- persepsie
+- persepsjon
+- persesion
+- qabıllaw
+- Qavrayış
+- spostrzeganie
+- Sut'i musyay
+- suvokimas
+- Taju
+- tanggapan
+- tri giác
+- têgihîştin
+- uztvere
+- vnímanie
+- vnímání
+- Wahrnehmung
+- zaznavanje
+- észlelés
+- Αντίληψη
+- восприемање
+- восприятие
+- Възприятие
+- Идрок
+- опажање
+- Ранкъард
+- сприйняття
+- Туйса илни
+- Түйсік
+- успрыманне
+- успрыняцьце
+- хисләрне тою
+- Ըմբռնում
+- תפיסה
+- آگاہی
+- إدراك
+- ادراک
+- ایدراک
+- بنمارش
+- تڠݢڤن
+- درک
+- پێزانین
+- अनुभूति
+- बोध
+- প্রত্যক্ষণ
+- ਬੋਧ
+- உள்ளுணர்தல்
+- සංජානනය
+- การรับรู้
+- ခံစားသိရှိ
+- လွင်ႈႁပ်ႉႁူႉ
+- აღქმა
+- 感知
+- 知覚
+- 知覺
+- 知觉
+- 지각
 has_id_wikidata: Q160402
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~sense,173253]]"
-  - "[[_Standards/WikiData/WD~postreh,12774262]]"
+- '[[_Standards/WikiData/WD~sense,173253]]'
+- '[[_Standards/WikiData/WD~postreh,12774262]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~qualia,282250]]"
-  - "[[_Standards/WikiData/WD~awareness,4338318]]"
+- '[[_Standards/WikiData/WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~awareness,4338318]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cognitive_process,781413]]"
-  - "[[_Standards/WikiData/WD~interpretation,855395]]"
+- '[[_Standards/WikiData/WD~cognitive_process,781413]]'
+- '[[_Standards/WikiData/WD~interpretation,855395]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~core_concept,41172303]]"
-uses: "[[_Standards/WikiData/WD~model,1979154]]"
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~core_concept,41172303]]'
+uses: '[[_Standards/WikiData/WD~model,1979154]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-has_part_s_: "[[_Standards/WikiData/WD~sensation,3955369]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+has_part_s_: '[[_Standards/WikiData/WD~sensation,3955369]]'
 part_of:
-  - "[[_Standards/WikiData/WD~awareness,4338318]]"
-  - "[[_Standards/WikiData/WD~recognition,21142755]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+- '[[_Standards/WikiData/WD~awareness,4338318]]'
+- '[[_Standards/WikiData/WD~recognition,21142755]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 Dewey_Decimal_Classification:
-  - "152"
-  - "152.1"
-  - "153.7"
-  - "121.34"
-  - "155.911"
-  - "612.823"
+- 152
+- 152.1
+- 153.7
+- 121.34
+- 155.911
+- 612.823
 PhilPapers_topic: perception
 Library_of_Congress_Classification: QP441-QP445
 Commons_category: Perception
@@ -37,8 +119,107 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Perception.svg
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/perception
 UMLS_CUI: C0030971
 MeSH_tree_code: F02.463.593
+dv_has_:
+  name_:
+    af: persepsie
+    ar: إدراك
+    ast: perceición
+    az: Qavrayış
+    azb: ایدراک
+    be: успрыманне
+    be-tarask: успрыняцьце
+    bg: Възприятие
+    bn: প্রত্যক্ষণ
+    bs: Percepcija
+    ca: percepció
+    ckb: پێزانین
+    cs: vnímání
+    cv: Туйса илни
+    cy: canfyddiad
+    da: perception
+    de: Wahrnehmung
+    el: Αντίληψη
+    en: perception
+    en-gb: perception
+    eo: percepto
+    es: percepción
+    et: Taju
+    eu: hautemate
+    fa: ادراک
+    fi: havaitseminen
+    fo: fatan
+    fr: perception
+    ga: aireachtáil
+    gl: percepción
+    gsw: Wahrnehmung
+    he: תפיסה
+    hi: बोध
+    hr: percepcija
+    hu: észlelés
+    hy: Ըմբռնում
+    ia: Perception
+    id: Persepsi
+    it: percezione
+    ja: 知覚
+    ka: აღქმა
+    kaa: qabıllaw
+    kk: Түйсік
+    ko: 지각
+    ku: têgihîştin
+    la: Perceptio
+    lt: suvokimas
+    lv: uztvere
+    mk: восприемање
+    ms: tanggapan
+    ms-arab: تڠݢڤن
+    my: ခံစားသိရှိ
+    mzn: بنمارش
+    nb: persepsjon
+    ne: अनुभूति
+    nl: perceptie
+    nn: persepsjon
+    oc: percepcion
+    om: Hinnata
+    os: Ранкъард
+    pa: ਬੋਧ
+    pl: spostrzeganie
+    ps: درک
+    pt: percepção
+    qu: Sut'i musyay
+    rm: Percepziun
+    ro: percepție
+    ru: восприятие
+    sco: perception
+    sh: Percepcija
+    shn: လွင်ႈႁပ်ႉႁူႉ
+    si: සංජානනය
+    sk: vnímanie
+    sl: zaznavanje
+    sq: perceptim
+    sr: опажање
+    sr-ec: опажање
+    sr-el: opažanje
+    sv: perception
+    ta: உள்ளுணர்தல்
+    tg: Идрок
+    tg-latn: Idrok
+    th: การรับรู้
+    tr: Algı
+    tt: хисләрне тою
+    tt-cyrl: хисләрне тою
+    uk: сприйняття
+    ur: آگاہی
+    uz: Inʼikos
+    vec: persesion
+    vi: tri giác
+    wuu: 感知
+    yue: 感知
+    zh: 知觉
+    zh-cn: 知觉
+    zh-hant: 知覺
+    zh-tw: 知覺
+    zu: Intshwayo
 ---
-
 # [[Perception]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Perception,160402|WD~Perception,160402]]  

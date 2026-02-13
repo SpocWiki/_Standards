@@ -1,32 +1,171 @@
 ---
 aliases:
-  - Muskete
-  - Musket
+- Beeʼeldǫǫh
+- Framhlaðningur
+- Huske
+- misket tüfeği
+- moschetto
+- Moschèt
+- Moskete
+- mosquet
+- mosquete
+- Mosquetum
+- Mousked
+- Mousket
+- mousquet
+- muscaed
+- Muschetă
+- Mushqetë (armë)
+- Muskedo
+- Musket
+- Musketa
+- Muskete
+- Musketo
+- muskett
+- Musketti
+- muskéta
+- musköt
+- muszkiet
+- Muşket
+- mušketa
+- Muškieta
+- Mwşket
+- senapan lontak
+- senapang lantak
+- Súng trường kiểu cũ
+- Μουσκέτο
+- Бараң
+- Мускет
+- Мускета
+- Мушкет
+- Մուշկետ
+- מוסקט
+- تفنگ فتیلهای
+- تفنگ قدیم
+- عوسکە
+- مسكيت
+- مۋشكەت
+- मस्केट
+- ਮਸਕੀਟ
+- தெறாடி
+- ปืนคาบศิลา
+- マスケット銃
+- 滑膛槍
+- 鳥銃
+- 鸟铳
+- 머스켓
 has_id_wikidata: Q178243
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~smoothbore,1064392]]'
-  - '[[_Standards/WikiData/WD~single_shot_firearm,1310130]]'
-  - '[[_Standards/WikiData/WD~muzzle_loader,1461850]]'
-  - '[[_Standards/WikiData/WD~black_powder_gun,9180271]]'
+- '[[_Standards/WikiData/WD~smoothbore,1064392]]'
+- '[[_Standards/WikiData/WD~single_shot_firearm,1310130]]'
+- '[[_Standards/WikiData/WD~muzzle_loader,1461850]]'
+- '[[_Standards/WikiData/WD~black_powder_gun,9180271]]'
 derivative_work: '[[_Standards/WikiData/WD~musketoon,1118628]]'
 different_from:
-  - '[[_Standards/WikiData/WD~musketoon,1118628]]'
-  - '[[_Standards/WikiData/WD~Q65276123,65276123]]'
+- '[[_Standards/WikiData/WD~musketoon,1118628]]'
+- '[[_Standards/WikiData/WD~Q65276123,65276123]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 Nomenclature_for_Museum_Cataloging: 8268
 Commons_category: Muskets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flintl%C3%A5sstudsare%2C%20Flintl%C3%A5sstudsarfragment%20-%20Livrustkammaren%20-%2086495.tif
+dv_has_:
+  name_:
+    ar: مسكيت
+    ast: mosquete
+    az: Muşket
+    be: Мушкет
+    be-tarask: мушкет
+    bg: Мускет
+    br: Mousked
+    ca: mosquet
+    ckb: عوسکە
+    cs: mušketa
+    da: Musket
+    de: Muskete
+    el: Μουσκέτο
+    en: musket
+    eo: Muskedo
+    es: mosquete
+    et: Musket
+    eu: Moskete
+    fa: تفنگ فتیلهای
+    fi: Musketti
+    fr: mousquet
+    ga: muscaed
+    he: מוסקט
+    hi: मस्केट
+    hr: Mušketa
+    hu: muskéta
+    hy: Մուշկետ
+    id: senapan lontak
+    io: Musketo
+    is: Framhlaðningur
+    it: moschetto
+    ja: マスケット銃
+    kk: Мушкет
+    kk-arab: مۋشكەت
+    kk-cn: مۋشكەت
+    kk-cyrl: Мушкет
+    kk-kz: Мушкет
+    kk-latn: Mwşket
+    kk-tr: Mwşket
+    ko: 머스켓
+    ku: Huske
+    ky: Бараң
+    la: Mosquetum
+    lt: Muškieta
+    lv: muskete
+    lzh: 鳥銃
+    mk: Мускета
+    ms: senapang lantak
+    nb: muskett
+    nl: musket
+    nn: muskett
+    nv: Beeʼeldǫǫh
+    oc: Mosquet
+    os: мушкет
+    pa: ਮਸਕੀਟ
+    pcd: Mousket
+    pl: muszkiet
+    pms: Moschèt
+    pnb: تفنگ قدیم
+    pt: mosquete
+    pt-br: mosquete
+    ro: Muschetă
+    ru: Мушкет
+    sh: Musketa
+    sk: Mušketa
+    sl: mušketa
+    sq: Mushqetë (armë)
+    sr: Мускета
+    sr-ec: Мускета
+    sr-el: Musketa
+    sv: musköt
+    ta: தெறாடி
+    th: ปืนคาบศิลา
+    tr: misket tüfeği
+    uk: Мушкет
+    ur: تفنگ قدیم
+    vi: Súng trường kiểu cũ
+    wuu: 鸟铳
+    yue: 滑膛槍
+    zh: 鳥銃
+    zh-cn: 鸟铳
+    zh-hans: 鸟铳
+    zh-hant: 鳥銃
+    zh-hk: 鳥銃
+    zh-sg: 鸟铳
+    zh-tw: 鳥銃
 ---
-
 # [[Musket]] 
 
 #is_/same_as :: [[WD~Musket,178243]] 

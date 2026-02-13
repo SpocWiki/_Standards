@@ -1,196 +1,543 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]"
-    - "[[/_Standards/Earth/Ocean/North_Sea|North_Sea]]"
-    - "[[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]]"
-    - "[[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]]"
-    - "[[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]]"
-    - "[[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]]"
-    - "[[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]]"
-    - "[[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]]"
+  - '[[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]'
+  - '[[/_Standards/Earth/Ocean/North_Sea|North_Sea]]'
+  - '[[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]]'
+  - '[[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]]'
+  - '[[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]]'
+  - '[[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]]'
+  - '[[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]]'
+  - '[[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]"
-  - "[[/_Standards/Earth/Ocean/North_Sea|North_Sea]]"
-  - "[[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]]"
-  - "[[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]]"
-  - "[[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]]"
-  - "[[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]]"
-  - "[[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]]"
-  - "[[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]]"
-
-location: [ 56.459, 3.6825 ] 
+- '[[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]]'
+- '[[/_Standards/Earth/Ocean/North_Sea|North_Sea]]'
+- '[[/_public/Earth/Ocean/North_Sea.public|North_Sea.public]]'
+- '[[/_internal/Earth/Ocean/North_Sea.internal|North_Sea.internal]]'
+- '[[/_protect/Earth/Ocean/North_Sea.protect|North_Sea.protect]]'
+- '[[/_private/Earth/Ocean/North_Sea.private|North_Sea.private]]'
+- '[[/_personal/Earth/Ocean/North_Sea.personal|North_Sea.personal]]'
+- '[[/_secret/Earth/Ocean/North_Sea.secret|North_Sea.secret]]'
+location:
+- 56.459
+- 3.6825
 aliases:
+- An Cuan a Tuath
+- an Mhuir Thuaidh
+- Arqa teńiz
+- Bahari ya Kaskazini
+- Baybay Amianan
+- berti xamsi
+- Biển Bắc
+- Botnosko ȟyönos
+- Dagat Amihanan
+- Dagat Hilaga
+- Davvimearra
+- Demirgazyk deňzi
+- Deryaya Bakur
+- Deryayê Zımey
+- Deti i Veriut
+- German Ocean
+- Hayɩ Kiŋ Teŋgu
+- Ilel n Ugafa
+- Ipar itsasoa
+- Kuzey Denizi
+- Kyai A̱sa̱khwot A̱za
+- Laut Kalér
+- Laut Utara
+- Mar d'o Norte
+- Mar de l Norte
+- Mar del Nord
+- mar del Norte
+- Mar del Nòrd
+- Mar do Norte
+- Mar du Nord
+- Mar dël Nòrd
+- Mar Norde
+- Mare d'u Nord
+- Mare de su Nord
+- mare del Nord
+- Mare di u Nordu
+- Mare Germanicum
+- Marea Nordului
+- Mari del Norti
+- Mari dû nord
+- mer dl Nord
+- Mer do Nôr
+- mer du Nord
+- Mooir Hostyn
+- Mor an Hanternoz
+- Mor Kledh
+- Morze Północne
+- Mâ do Nord
+- Mér Nord
+- Môr y Gogledd
+- Noardsee
+- Nolüdamel
+- Noordsee
+- Noordzee
+- Noordzie
+- Norda Maro
+- Nordmier
+- Nordowé Mòrzé
+- Nordsee
+- Nordsjön
+- Nordsjøen
+- Nordsøen
+- North Samundar
+- North Sea
+- Norðsjógvurin
+- Norðursjór
+- Norþsǣ
+- Noudsee
+- Noôrdzeê
+- Nuurdsia
+- Nôordzêe
+- Pak-hái
+- Para Yvatevogua
+- Pet-hói
+- Pohjanmeri
+- Pohjoižmeri
+- Pódpołnocne mórjo
+- Põh'ameri
+- Põhjameri
+- Pūstumu jiura
+- Ranomasina Avaratra
+- Segara Kalér
+- Segara Lor
+- Severno morje
+- Severné more
+- Severní moře
+- Sewjerne morjo
+- Shimoliy dengiz
+- Sjeverno more
+- Tavemeerâ
+- Vuâđđmiârr
+- Ziemeļjūra
+- Çурçĕр тинĕсĕ
+- Északi-tenger
+- Şimal dənizi
+- Şimaliy deñiz
+- Šiaurės jūra
+- Βόρεια Θάλασσα
+- Γερμανικὴ Θάλασσα
+- Баҳри Шимолӣ
+- Йӱдвел теҥыз
+- Кеферпатан гьуьл
+- Къилбаседа хӀорд
+- Північне море
+- Паўночнае мора
+- Северне море
+- Северно Море
+- Северное море
+- Солтүстік теңіз
+- Түндүк деңиз
+- Төньяк диңгез
+- Төньяҡ диңгеҙ
+- Уйпал зарезь
+- Хойд тэнгис
+- Хойто тэнгис
+- Хотугу муора
+- Цæгат денджыз
+- Шимал тенгиз
+- Ҩадахьтәи амшын
+- Հիւսիսային Ծով
+- Հյուսիսային ծով
+- הים הצפוני
+- צפון ים
+- اتر سمنڊ
+- بحر الشمال
+- بحیرہ شمال
+- بحیرہ شمالی
+- دریای شمال
+- دەریای باکوور
+- شمال دریا
+- شمالي سمندر
+- قوزئی دنیزی
+- کلسيا دریا
+- ܝܡܐ ܕܓܪܒܝܐ
+- उत्तर समुद्र
+- उत्तर सागर
+- उत्तरी सागर
+- नॉर्थ सागर
+- উত্তর সাগর
+- উত্তৰ সাগৰ
+- ਉੱਤਰੀ ਸਾਗਰ
+- வடகடல்
+- ఉత్తర సముద్రం
+- ಉತ್ತರ ಸಮುದ್ರ
+- വടക്കൻ കടൽ
+- ทะเลเหนือ
+- မြောက်ပင်လယ်
+- ოორუეშ ზუღა
+- ჩრდილოეთის ზღვა
+- ስሜን ባሕር
+- ᱮᱛᱚᱢ ᱫᱚᱨᱭᱟ
+- 北海
+- 북해
 has_id_wikidata: Q1693
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Orkney_Islands,100166]]"
-  - "[[_Standards/WikiData/WD~Kattegat,131716]]"
-  - "[[_Standards/WikiData/WD~Firth_of_Forth,202083]]"
-  - "[[_Standards/WikiData/WD~Boknafjord,225004]]"
-  - "[[_Standards/WikiData/WD~German_Bight,321837]]"
-  - "[[_Standards/WikiData/WD~Moray_Firth,1360927]]"
-  - "[[_Standards/WikiData/WD~The_Wash,1463998]]"
-  - "[[_Standards/WikiData/WD~Hylsfjord,4582665]]"
-  - "[[_Standards/WikiData/WD~Masfjorden,17099711]]"
-  - "[[_Standards/WikiData/WD~Skagerrak,1695]]"
-  - "[[_Standards/WikiData/WD~Wadden_Sea,26080]]"
-  - "[[_Standards/WikiData/WD~Shetland_Islands,47134]]"
+- '[[_Standards/WikiData/WD~Orkney_Islands,100166]]'
+- '[[_Standards/WikiData/WD~Kattegat,131716]]'
+- '[[_Standards/WikiData/WD~Firth_of_Forth,202083]]'
+- '[[_Standards/WikiData/WD~Boknafjord,225004]]'
+- '[[_Standards/WikiData/WD~German_Bight,321837]]'
+- '[[_Standards/WikiData/WD~Moray_Firth,1360927]]'
+- '[[_Standards/WikiData/WD~The_Wash,1463998]]'
+- '[[_Standards/WikiData/WD~Hylsfjord,4582665]]'
+- '[[_Standards/WikiData/WD~Masfjorden,17099711]]'
+- '[[_Standards/WikiData/WD~Skagerrak,1695]]'
+- '[[_Standards/WikiData/WD~Wadden_Sea,26080]]'
+- '[[_Standards/WikiData/WD~Shetland_Islands,47134]]'
 inflows:
-  - "[[_Standards/WikiData/WD~North_Sea_Canal,119314]]"
-  - "[[_Standards/WikiData/WD~River_Tyne,216373]]"
-  - "[[_Standards/WikiData/WD~Yser,217061]]"
-  - "[[_Standards/WikiData/WD~River_Yare,221807]]"
-  - "[[_Standards/WikiData/WD~Aa_River,300661]]"
-  - "[[_Standards/WikiData/WD~Arlau,315952]]"
-  - "[[_Standards/WikiData/WD~Husumer_Mühlenau,325067]]"
-  - "[[_Standards/WikiData/WD~River_Deben,338299]]"
-  - "[[_Standards/WikiData/WD~River_Tyne,366284]]"
-  - "[[_Standards/WikiData/WD~River_Don,387736]]"
-  - "[[_Standards/WikiData/WD~Harle,487864]]"
-  - "[[_Standards/WikiData/WD~River_Tweed,503262]]"
-  - "[[_Standards/WikiData/WD~Boudewijnkanaal,512254]]"
-  - "[[_Standards/WikiData/WD~River_Tees,515022]]"
-  - "[[_Standards/WikiData/WD~Humber,550995]]"
-  - "[[_Standards/WikiData/WD~Kongeå,703477]]"
-  - "[[_Standards/WikiData/WD~Bervie_Water,829215]]"
-  - "[[_Standards/WikiData/WD~River_Dee,964949]]"
-  - "[[_Standards/WikiData/WD~Cowie_Water,1138214]]"
-  - "[[_Standards/WikiData/WD~Oosterschelde,1266165]]"
-  - "[[_Standards/WikiData/WD~River_Eden,1283506]]"
-  - "[[_Standards/WikiData/WD~Oude_Rijn,1345836]]"
-  - "[[_Standards/WikiData/WD~Numedalslågen,1420630]]"
-  - "[[_Standards/WikiData/WD~River_Wear,1433715]]"
-  - "[[_Standards/WikiData/WD~Winschoterdiep,1477789]]"
-  - "[[_Standards/WikiData/WD~River_Aln,1515974]]"
-  - "[[_Standards/WikiData/WD~Western_Scheldt,1524840]]"
-  - "[[_Standards/WikiData/WD~Godel,1533729]]"
-  - "[[_Standards/WikiData/WD~Canal_Dunkerque_Escaut,1549554]]"
-  - "[[_Standards/WikiData/WD~Haringvliet,1585393]]"
-  - "[[_Standards/WikiData/WD~Hooksieler_Tief,1627440]]"
-  - "[[_Standards/WikiData/WD~Q1649829,1649829]]"
-  - "[[_Standards/WikiData/WD~River_Alde,1786232]]"
-  - "[[_Standards/WikiData/WD~Figgjoelva,1790866]]"
-  - "[[_Standards/WikiData/WD~Leysiel,1822415]]"
-  - "[[_Standards/WikiData/WD~River_Stour,1941117]]"
-  - "[[_Standards/WikiData/WD~Nieuwe_Waterweg,1989481]]"
-  - "[[_Standards/WikiData/WD~River_North_Esk,2000645]]"
-  - "[[_Standards/WikiData/WD~River_Orwell,2001027]]"
-  - "[[_Standards/WikiData/WD~Leopold_Canal,2001706]]"
-  - "[[_Standards/WikiData/WD~Skjern_River,2025017]]"
-  - "[[_Standards/WikiData/WD~Vidå,2166040]]"
-  - "[[_Standards/WikiData/WD~River_South_Esk,2304466]]"
-  - "[[_Standards/WikiData/WD~River_Ugie,2473946]]"
-  - "[[_Standards/WikiData/WD~Wangertief,2548348]]"
-  - "[[_Standards/WikiData/WD~River_Ythan,2601506]]"
-  - "[[_Standards/WikiData/WD~Brielse_Maas,2790905]]"
-  - "[[_Standards/WikiData/WD~River_Blackwater,2905610]]"
-  - "[[_Standards/WikiData/WD~River_Shin,3433823]]"
-  - "[[_Standards/WikiData/WD~Bytham_River,3746234]]"
-  - "[[_Standards/WikiData/WD~Barry_Burn,4864059]]"
-  - "[[_Standards/WikiData/WD~Chelmer_and_Blackwater_Navigation,5089950]]"
-  - "[[_Standards/WikiData/WD~Elliot_Water,5365581]]"
-  - "[[_Standards/WikiData/WD~Varde_River,5767687]]"
-  - "[[_Standards/WikiData/WD~Minsmere_River,6869475]]"
-  - "[[_Standards/WikiData/WD~River_Burn,7337197]]"
-  - "[[_Standards/WikiData/WD~River_Coquet,7337301]]"
-  - "[[_Standards/WikiData/WD~River_Crouch,7337319]]"
-  - "[[_Standards/WikiData/WD~River_Glaven,7337458]]"
-  - "[[_Standards/WikiData/WD~River_Hun,7337513]]"
-  - "[[_Standards/WikiData/WD~River_Lymn,7337609]]"
-  - "[[_Standards/WikiData/WD~River_Mun,7337644]]"
-  - "[[_Standards/WikiData/WD~River_Ore,7337682]]"
-  - "[[_Standards/WikiData/WD~River_Oykel,7337688]]"
-  - "[[_Standards/WikiData/WD~River_Stiffkey,7337826]]"
-  - "[[_Standards/WikiData/WD~Canal_of_Blankenberge,11154062]]"
-  - "[[_Standards/WikiData/WD~Hååna,11254034]]"
-  - "[[_Standards/WikiData/WD~River_Colne,12067337]]"
-  - "[[_Standards/WikiData/WD~Great_Eau,15222064]]"
-  - "[[_Standards/WikiData/WD~Asheldham_Brook,16868959]]"
-  - "[[_Standards/WikiData/WD~Gypsey_Race,16993515]]"
-  - "[[_Standards/WikiData/WD~River_Wansbeck,24636606]]"
-  - "[[_Standards/WikiData/WD~River_Lyne,24639370]]"
-  - "[[_Standards/WikiData/WD~Benser_Tief,32480505]]"
-  - "[[_Standards/WikiData/WD~Neuharlingersiel_Tief,53581957]]"
-  - "[[_Standards/WikiData/WD~Rhine,584]]"
-  - "[[_Standards/WikiData/WD~Elbe,1644]]"
-  - "[[_Standards/WikiData/WD~Weser,1650]]"
-  - "[[_Standards/WikiData/WD~Eider,3314]]"
-  - "[[_Standards/WikiData/WD~River_Thames,19686]]"
-  - "[[_Standards/WikiData/WD~River_Great_Ouse,19716]]"
-  - "[[_Standards/WikiData/WD~River_Nene,19722]]"
-  - "[[_Standards/WikiData/WD~River_Spey,19720]]"
-  - "[[_Standards/WikiData/WD~Scheldt,37620]]"
-  - "[[_Standards/WikiData/WD~Meuse,41986]]"
-part_of: "[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]"
+- '[[_Standards/WikiData/WD~North_Sea_Canal,119314]]'
+- '[[_Standards/WikiData/WD~River_Tyne,216373]]'
+- '[[_Standards/WikiData/WD~Yser,217061]]'
+- '[[_Standards/WikiData/WD~River_Yare,221807]]'
+- '[[_Standards/WikiData/WD~Aa_River,300661]]'
+- '[[_Standards/WikiData/WD~Arlau,315952]]'
+- '[[_Standards/WikiData/WD~Husumer_Mühlenau,325067]]'
+- '[[_Standards/WikiData/WD~River_Deben,338299]]'
+- '[[_Standards/WikiData/WD~River_Tyne,366284]]'
+- '[[_Standards/WikiData/WD~River_Don,387736]]'
+- '[[_Standards/WikiData/WD~Harle,487864]]'
+- '[[_Standards/WikiData/WD~River_Tweed,503262]]'
+- '[[_Standards/WikiData/WD~Boudewijnkanaal,512254]]'
+- '[[_Standards/WikiData/WD~River_Tees,515022]]'
+- '[[_Standards/WikiData/WD~Humber,550995]]'
+- '[[_Standards/WikiData/WD~Kongeå,703477]]'
+- '[[_Standards/WikiData/WD~Bervie_Water,829215]]'
+- '[[_Standards/WikiData/WD~River_Dee,964949]]'
+- '[[_Standards/WikiData/WD~Cowie_Water,1138214]]'
+- '[[_Standards/WikiData/WD~Oosterschelde,1266165]]'
+- '[[_Standards/WikiData/WD~River_Eden,1283506]]'
+- '[[_Standards/WikiData/WD~Oude_Rijn,1345836]]'
+- '[[_Standards/WikiData/WD~Numedalslågen,1420630]]'
+- '[[_Standards/WikiData/WD~River_Wear,1433715]]'
+- '[[_Standards/WikiData/WD~Winschoterdiep,1477789]]'
+- '[[_Standards/WikiData/WD~River_Aln,1515974]]'
+- '[[_Standards/WikiData/WD~Western_Scheldt,1524840]]'
+- '[[_Standards/WikiData/WD~Godel,1533729]]'
+- '[[_Standards/WikiData/WD~Canal_Dunkerque_Escaut,1549554]]'
+- '[[_Standards/WikiData/WD~Haringvliet,1585393]]'
+- '[[_Standards/WikiData/WD~Hooksieler_Tief,1627440]]'
+- '[[_Standards/WikiData/WD~Q1649829,1649829]]'
+- '[[_Standards/WikiData/WD~River_Alde,1786232]]'
+- '[[_Standards/WikiData/WD~Figgjoelva,1790866]]'
+- '[[_Standards/WikiData/WD~Leysiel,1822415]]'
+- '[[_Standards/WikiData/WD~River_Stour,1941117]]'
+- '[[_Standards/WikiData/WD~Nieuwe_Waterweg,1989481]]'
+- '[[_Standards/WikiData/WD~River_North_Esk,2000645]]'
+- '[[_Standards/WikiData/WD~River_Orwell,2001027]]'
+- '[[_Standards/WikiData/WD~Leopold_Canal,2001706]]'
+- '[[_Standards/WikiData/WD~Skjern_River,2025017]]'
+- '[[_Standards/WikiData/WD~Vidå,2166040]]'
+- '[[_Standards/WikiData/WD~River_South_Esk,2304466]]'
+- '[[_Standards/WikiData/WD~River_Ugie,2473946]]'
+- '[[_Standards/WikiData/WD~Wangertief,2548348]]'
+- '[[_Standards/WikiData/WD~River_Ythan,2601506]]'
+- '[[_Standards/WikiData/WD~Brielse_Maas,2790905]]'
+- '[[_Standards/WikiData/WD~River_Blackwater,2905610]]'
+- '[[_Standards/WikiData/WD~River_Shin,3433823]]'
+- '[[_Standards/WikiData/WD~Bytham_River,3746234]]'
+- '[[_Standards/WikiData/WD~Barry_Burn,4864059]]'
+- '[[_Standards/WikiData/WD~Chelmer_and_Blackwater_Navigation,5089950]]'
+- '[[_Standards/WikiData/WD~Elliot_Water,5365581]]'
+- '[[_Standards/WikiData/WD~Varde_River,5767687]]'
+- '[[_Standards/WikiData/WD~Minsmere_River,6869475]]'
+- '[[_Standards/WikiData/WD~River_Burn,7337197]]'
+- '[[_Standards/WikiData/WD~River_Coquet,7337301]]'
+- '[[_Standards/WikiData/WD~River_Crouch,7337319]]'
+- '[[_Standards/WikiData/WD~River_Glaven,7337458]]'
+- '[[_Standards/WikiData/WD~River_Hun,7337513]]'
+- '[[_Standards/WikiData/WD~River_Lymn,7337609]]'
+- '[[_Standards/WikiData/WD~River_Mun,7337644]]'
+- '[[_Standards/WikiData/WD~River_Ore,7337682]]'
+- '[[_Standards/WikiData/WD~River_Oykel,7337688]]'
+- '[[_Standards/WikiData/WD~River_Stiffkey,7337826]]'
+- '[[_Standards/WikiData/WD~Canal_of_Blankenberge,11154062]]'
+- '[[_Standards/WikiData/WD~Hååna,11254034]]'
+- '[[_Standards/WikiData/WD~River_Colne,12067337]]'
+- '[[_Standards/WikiData/WD~Great_Eau,15222064]]'
+- '[[_Standards/WikiData/WD~Asheldham_Brook,16868959]]'
+- '[[_Standards/WikiData/WD~Gypsey_Race,16993515]]'
+- '[[_Standards/WikiData/WD~River_Wansbeck,24636606]]'
+- '[[_Standards/WikiData/WD~River_Lyne,24639370]]'
+- '[[_Standards/WikiData/WD~Benser_Tief,32480505]]'
+- '[[_Standards/WikiData/WD~Neuharlingersiel_Tief,53581957]]'
+- '[[_Standards/WikiData/WD~Rhine,584]]'
+- '[[_Standards/WikiData/WD~Elbe,1644]]'
+- '[[_Standards/WikiData/WD~Weser,1650]]'
+- '[[_Standards/WikiData/WD~Eider,3314]]'
+- '[[_Standards/WikiData/WD~River_Thames,19686]]'
+- '[[_Standards/WikiData/WD~River_Great_Ouse,19716]]'
+- '[[_Standards/WikiData/WD~River_Nene,19722]]'
+- '[[_Standards/WikiData/WD~River_Spey,19720]]'
+- '[[_Standards/WikiData/WD~Scheldt,37620]]'
+- '[[_Standards/WikiData/WD~Meuse,41986]]'
+part_of: '[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-lowest_point: "[[_Standards/WikiData/WD~Norwegian_trench,971353]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_North_Sea,5535267]]"
-drainage_basin: "[[_Standards/WikiData/WD~North_Sea_basin,8238745]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_North_Sea,17334994]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+lowest_point: '[[_Standards/WikiData/WD~Norwegian_trench,971353]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_North_Sea,5535267]]'
+drainage_basin: '[[_Standards/WikiData/WD~North_Sea_basin,8238745]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_North_Sea,17334994]]'
 Libris_URI: nl021xr61nh4qk9
 Commons_category: North Sea
 Commons_gallery: North Sea - Nordsee - Noordzee - Nordsøen
 MeSH_tree_code: Z01.756.092.650
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q25681497,25681497]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q27688739,27688739]]"
-instance_of: "[[_Standards/WikiData/WD~northern_sea,121093842]]"
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681497,25681497]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27688739,27688739]]'
+instance_of: '[[_Standards/WikiData/WD~northern_sea,121093842]]'
 coordinate_location: Point(3.6825 56.459)
 named_after:
-  - "[[_Standards/WikiData/WD~north,659]]"
-  - "[[_Standards/WikiData/WD~west,679]]"
-  - "[[_Standards/WikiData/WD~Germanic_people,22633]]"
+- '[[_Standards/WikiData/WD~north,659]]'
+- '[[_Standards/WikiData/WD~west,679]]'
+- '[[_Standards/WikiData/WD~Germanic_people,22633]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~West_Flanders,1113]]"
-  - "[[_Standards/WikiData/WD~Skagerrak,1695]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-  - "[[_Standards/WikiData/WD~English_Channel,34640]]"
+- '[[_Standards/WikiData/WD~West_Flanders,1113]]'
+- '[[_Standards/WikiData/WD~Skagerrak,1695]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~English_Channel,34640]]'
 basin_country:
-  - "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 country:
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 elevation_above_sea_level: 0
 vertical_depth: 700
 salinity: 3.4
 area: 570000
 width: 580
 length: 960
-OmegaWiki_Defined_Meaning: "7963"
-U_S_National_Archives_Identifier: "10046419"
+OmegaWiki_Defined_Meaning: 7963
+U_S_National_Archives_Identifier: 10046419
 image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Sea%2002%20ubt.jpeg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Sea%20location%20map.svg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Sea%20map-en.png
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Sea%20map-en.png
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Sea%20relief%20location%20map.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Storm%20-%20panoramio%20-%20Dg-505%20%28cropped%29.jpg
-TOID: "4000000074789351"
+TOID: 4000000074789351
 BHCL_UUID: ad2a971a-edcf-4c04-b630-e72408e212a3
 UMLS_CUI: C0028410
+dv_has_:
+  name_:
+    ab: Ҩадахьтәи амшын
+    af: Noordsee
+    am: ስሜን ባሕር
+    an: Mar d'o Norte
+    ang: Norþsǣ
+    anp: उत्तरी सागर
+    ar: بحر الشمال
+    arc: ܝܡܐ ܕܓܪܒܝܐ
+    arz: بحر الشمال
+    as: উত্তৰ সাগৰ
+    ast: mar del Norte
+    awa: उत्तरी सागर
+    az: Şimal dənizi
+    azb: قوزئی دنیزی
+    ba: Төньяҡ диңгеҙ
+    ban: Segara Kalér
+    bar: Nordsee
+    be: Паўночнае мора
+    be-tarask: Паўночнае мора
+    bg: Северно море
+    bho: नॉर्थ सागर
+    bn: উত্তর সাগর
+    br: Mor an Hanternoz
+    bs: Sjeverno more
+    bxr: Хойто тэнгис
+    ca: mar del Nord
+    ce: Къилбаседа хӀорд
+    ceb: Dagat Amihanan
+    ckb: دەریای باکوور
+    co: Mare di u Nordu
+    crh: Şimaliy deñiz
+    cs: Severní moře
+    csb: Nordowé Mòrzé
+    cv: Çурçĕр тинĕсĕ
+    cy: Môr y Gogledd
+    da: Nordsøen
+    de: Nordsee
+    de-ch: Nordsee
+    diq: Deryayê Zımey
+    dsb: Pódpołnocne mórjo
+    el: Βόρεια Θάλασσα
+    en: North Sea
+    en-ca: North Sea
+    en-gb: North Sea
+    eo: Norda Maro
+    es: mar del Norte
+    et: Põhjameri
+    eu: Ipar itsasoa
+    ext: Mari del Norti
+    fa: دریای شمال
+    fi: Pohjanmeri
+    fo: Norðsjógvurin
+    fr: mer du Nord
+    frp: Mar du Nord
+    frr: Nuurdsia
+    fy: Noardsee
+    ga: an Mhuir Thuaidh
+    gd: An Cuan a Tuath
+    gl: Mar do Norte
+    glk: کلسيا دریا
+    gn: Para Yvatevogua
+    grc: Γερμανικὴ Θάλασσα
+    gsw: Nordsee
+    gv: Mooir Hostyn
+    hak: Pet-hói
+    he: הים הצפוני
+    hi: उत्तरी सागर
+    hif: North Samundar
+    hr: Sjeverno more
+    hsb: Sewjerne morjo
+    hu: Északi-tenger
+    hy: Հյուսիսային ծով
+    hyw: Հիւսիսային Ծով
+    ia: Mar del Nord
+    id: Laut Utara
+    ilo: Baybay Amianan
+    io: Norda Maro
+    is: Norðursjór
+    it: mare del Nord
+    ja: 北海
+    jbo: berti xamsi
+    jv: Segara Lor
+    ka: ჩრდილოეთის ზღვა
+    kaa: Arqa teńiz
+    kab: Ilel n Ugafa
+    kbp: Hayɩ Kiŋ Teŋgu
+    kcg: Kyai A̱sa̱khwot A̱za
+    kk: Солтүстік теңіз
+    kn: ಉತ್ತರ ಸಮುದ್ರ
+    ko: 북해
+    krc: Шимал тенгиз
+    ksh: Nordsee
+    ku: Deryaya Bakur
+    kw: Mor Kledh
+    ky: Түндүк деңиз
+    la: Mare Germanicum
+    lb: Nordmier
+    lez: Кеферпатан гьуьл
+    lfn: Mar Norde
+    li: Noordzie
+    lij: Mâ do Nord
+    lld: mer dl Nord
+    lmo: Mar del Nord
+    lt: Šiaurės jūra
+    ltg: Pūstumu jiura
+    lv: Ziemeļjūra
+    mg: Ranomasina Avaratra
+    mhr: Йӱдвел теҥыз
+    mk: Северно Море
+    ml: വടക്കൻ കടൽ
+    mn: Хойд тэнгис
+    mr: उत्तर समुद्र
+    ms: Laut Utara
+    mwl: Mar de l Norte
+    my: မြောက်ပင်လယ်
+    mzn: شمال دریا
+    nan: Pak-hái
+    nb: Nordsjøen
+    nds: Noordsee
+    nds-nl: Noordzee
+    ne: उत्तरी सागर
+    new: उत्तर सागर
+    nl: Noordzee
+    nn: Nordsjøen
+    oc: Mar del Nòrd
+    olo: Pohjanmeri
+    os: Цæгат денджыз
+    pa: ਉੱਤਰੀ ਸਾਗਰ
+    pcd: Mér Nord
+    pl: Morze Północne
+    pms: Mar dël Nòrd
+    pnb: بحیرہ شمال
+    ps: شمالي سمندر
+    pt: Mar do Norte
+    pt-br: Mar do Norte
+    rmf: Botnosko ȟyönos
+    ro: Marea Nordului
+    roa-tara: Mare d'u Nord
+    ru: Северное море
+    rue: Северне море
+    sah: Хотугу муора
+    sat: ᱮᱛᱚᱢ ᱫᱚᱨᱭᱟ
+    sc: Mare de su Nord
+    scn: Mari dû nord
+    sco: German Ocean
+    sd: اتر سمنڊ
+    se: Davvimearra
+    sgs: Šiaurės jūra
+    sh: Sjeverno more
+    sk: Severné more
+    skr: بحیرہ شمالی
+    sl: Severno morje
+    smn: Tavemeerâ
+    sms: Vuâđđmiârr
+    sq: Deti i Veriut
+    sr: Северно море
+    sr-ec: Северно море
+    stq: Noudsee
+    su: Laut Kalér
+    sv: Nordsjön
+    sw: Bahari ya Kaskazini
+    ta: வடகடல்
+    te: ఉత్తర సముద్రం
+    tg: Баҳри Шимолӣ
+    th: ทะเลเหนือ
+    tk: Demirgazyk deňzi
+    tl: Dagat Hilaga
+    tr: Kuzey Denizi
+    tt: Төньяк диңгез
+    udm: Уйпал зарезь
+    uk: Північне море
+    ur: بحیرہ شمال
+    uz: Shimoliy dengiz
+    vec: Mar del Nord
+    vep: Pohjoižmeri
+    vi: Biển Bắc
+    vls: Nôordzêe
+    vo: Nolüdamel
+    vro: Põh'ameri
+    wa: Mer do Nôr
+    war: Dagat Amihanan
+    wuu: 北海
+    xmf: ოორუეშ ზუღა
+    yi: צפון ים
+    yue: 北海
+    zea: Noôrdzeê
+    zh: 北海
+    zh-cn: 北海
+    zh-hans: 北海
+    zh-hant: 北海
+    zh-hk: 北海
+    zh-tw: 北海
 ---
-
 # [[North_Sea]] 
 
 #is_/same_as :: [[../../WikiData/WD~North_Sea,1693|WD~North_Sea,1693]] 

@@ -1,9 +1,65 @@
 ---
 aliases:
-  - Reithrodon
+- Bruzdówka
+- Kaninchenratten
+- kaninmöss
+- Reithrodon
+- slakevoleem ke Reithrodon oxi
+- Зайцеподобни плъхове
+- ريثرودون
+- 沟齿沙鼠属
+- 溝齒沙鼠屬
+- 토끼쥐속
 title: Reithrodon
+has_id_wikidata: Q910219
+dv_has_:
+  name_:
+    an: Reithrodon
+    arz: ريثرودون
+    ast: Reithrodon
+    avk: slakevoleem ke Reithrodon oxi
+    bg: Зайцеподобни плъхове
+    ca: Reithrodon
+    ceb: Reithrodon
+    de: Kaninchenratten
+    en: Reithrodon
+    eo: Reithrodon
+    es: Reithrodon
+    eu: Reithrodon
+    ext: Reithrodon
+    fi: Reithrodon
+    fr: Reithrodon
+    ga: Reithrodon
+    gl: Reithrodon
+    hu: Reithrodon
+    ia: Reithrodon
+    ie: Reithrodon
+    io: Reithrodon
+    it: Reithrodon
+    ko: 토끼쥐속
+    la: Reithrodon
+    mul: Reithrodon
+    nl: Reithrodon
+    oc: Reithrodon
+    pl: Bruzdówka
+    pt: Reithrodon
+    pt-br: Reithrodon
+    ro: Reithrodon
+    ru: Reithrodon
+    sq: Reithrodon
+    sv: kaninmöss
+    tr: Reithrodon
+    uk: Reithrodon
+    vi: Reithrodon
+    vo: Reithrodon
+    war: Reithrodon
+    zh: 沟齿沙鼠属
+    zh-cn: 沟齿沙鼠属
+    zh-hans: 沟齿沙鼠属
+    zh-hant: 溝齒沙鼠屬
+    zh-hk: 溝齒沙鼠屬
+    zh-tw: 溝齒沙鼠屬
 ---
-
 # [[Reithrodon]]
 
 ## Reithrodontini, Coney rat 

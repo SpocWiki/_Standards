@@ -1,9 +1,131 @@
 ---
 aliases:
-  - fleet
-  - Fleet,Naval
+- armada
+- cabhlach
+- Donanma
+- filo
+- fleet
+- Fleet,Naval
+- Flot
+- flota
+- flotilė
+- flotta
+- flotta navale
+- Flotte
+- flotă
+- Fluotėlė
+- flåde
+- flåte
+- frota
+- frota (naval)
+- hạm đội
+- laevastik
+- laivasto
+- Lestraz
+- llynges
+- loďstvo
+- lām-tūi
+- militŝiparo
+- naval fleet
+- Navigghiu
+- Vlaot
+- Vloot
+- Στόλος
+- флёт
+- Флот
+- флота
+- նավատորմ
+- צי
+- أسطول حربي
+- اسطول
+- فلوت
+- ناوگان
+- নৌবহর
+- ทัพเรือ
+- 海军舰队
+- 海軍艦隊
+- 艦隊
+- 함대
+has_id_wikidata: Q189524
+dv_has_:
+  name_:
+    af: Vloot
+    ar: أسطول حربي
+    arz: اسطول
+    az: Donanma
+    be: Флот
+    be-tarask: флёт
+    bg: Флот
+    bn: নৌবহর
+    br: Lestraz
+    bs: Flota
+    ca: flota
+    cs: loďstvo
+    cy: llynges
+    da: flåde
+    de: Flotte
+    el: Στόλος
+    en: naval fleet
+    eo: militŝiparo
+    es: flota
+    et: laevastik
+    eu: flota
+    fa: ناوگان
+    fi: laivasto
+    fr: flotte
+    ga: cabhlach
+    gl: frota
+    he: צי
+    hr: flota
+    hu: flotta
+    hy: նավատորմ
+    id: armada
+    it: flotta navale
+    ja: 艦隊
+    kk: Флот
+    kk-arab: فلوت
+    kk-cn: فلوت
+    kk-cyrl: Флот
+    kk-kz: Флот
+    kk-latn: Flot
+    kk-tr: Flot
+    ko: 함대
+    ky: Флот
+    li: Vlaot
+    lt: flotilė
+    mk: флота
+    ms: Armada
+    nan: lām-tūi
+    nb: flåte
+    nl: vloot
+    pl: flota
+    pt: frota
+    pt-br: frota (naval)
+    ro: flotă
+    ru: флот
+    scn: Navigghiu
+    sgs: Fluotėlė
+    sh: flota
+    sl: flota
+    sq: flota
+    sr: флота
+    sr-ec: флота
+    sr-el: flota
+    sv: flotta
+    th: ทัพเรือ
+    tr: filo
+    uk: флот
+    uz: Flot
+    vi: hạm đội
+    yue: 艦隊
+    zh: 海军舰队
+    zh-cn: 海军舰队
+    zh-hans: 海军舰队
+    zh-hant: 海軍艦隊
+    zh-hk: 海軍艦隊
+    zh-sg: 海军舰队
+    zh-tw: 海軍艦隊
 ---
-
 # [[Fleet,Naval]] 
 
 

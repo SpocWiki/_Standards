@@ -1,32 +1,159 @@
 ---
 aliases:
-  - scorpionflies
-  - Mecoptera
-  - Schorpioenvliegen
-  - nebbfluer
+- Bộ Cánh dài
+- csőrösrovarok
+- cuil scairpe
+- kljunarice
+- Kljunavci
+- Knābjgalvju kārta
+- Koonulised
+- kärsäkorennot
+- Mdudu Mabawa-marefu
+- Mecoptera
+- Mecòpter
+- Mecópteros
+- Muve-škorpije
+- nebbfluer
+- näbbsländor
+- Schnabelfliegen
+- Schorpioenvliegen
+- scorpionflies
+- Skorpionfluer
+- Skorpionfluger
+- Skorpionmusės
+- Skorpioonfleegen
+- srpice
+- Tséʼédǫ́ʼii bitsiinézí
+- Wojsiłki
+- Əqrəbşəkilli milçəklər
+- Μηκόπτερα
+- Муве-шкорпије
+- Скарпіёнавая муха
+- Скарпіёнавы мухі
+- Скорпіонові мухи
+- скорпионници
+- Скорпионницы
+- Чаянчы чебеннәр
+- Құршаян шыбын
+- Կարիճաճանճեր
+- זנב־עקרבאים
+- طويلات الأجنحة
+- طويلات الاجنحه
+- منقارسران
+- मेकोप्टेरा
+- തേൾ ഈച്ചകൾ
+- ბუზმორიელები
+- シリアゲムシ目
+- 長翅目
+- 长翅目
+- 밑들이목
 has_id_wikidata: Q205301
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q14976334,14976334]]'
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Antliophora,21354350]]'
-  - '[[_Standards/WikiData/WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~Antliophora,21354350]]'
+- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
 start_time: -299000000-01-01T00:00:00Z
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 114994
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bittacidae%20fg1.jpg
 taxon_common_name:
-  - Schorpioenvliegen
-  - nebbfluer
+- Schorpioenvliegen
+- nebbfluer
 EPPO_Code: 1MECOO
 UMLS_CUI: C1001487
 Commons_category: Mecoptera
 taxon_name: Mecoptera
 NBN_System_Key: NBNSYS0000160388
+dv_has_:
+  name_:
+    an: Mecoptera
+    ar: طويلات الأجنحة
+    arz: طويلات الاجنحه
+    ast: Mecoptera
+    az: Əqrəbşəkilli milçəklər
+    be: Скарпіёнавы мухі
+    be-tarask: Скарпіёнавая муха
+    bg: скорпионници
+    bs: Mecoptera
+    ca: Mecòpter
+    ceb: Mecoptera
+    cs: srpice
+    da: Skorpionfluer
+    de: Schnabelfliegen
+    el: Μηκόπτερα
+    en: Mecoptera
+    en-ca: Mecoptera
+    en-gb: Mecoptera
+    eo: Mecoptera
+    es: Mecoptera
+    et: Koonulised
+    eu: Mecoptera
+    ext: Mecoptera
+    fa: منقارسران
+    fi: kärsäkorennot
+    fr: Mecoptera
+    frr: Skorpioonfleegen
+    ga: cuil scairpe
+    gl: Mecópteros
+    he: זנב־עקרבאים
+    hr: kljunarice
+    hu: csőrösrovarok
+    hy: Կարիճաճանճեր
+    ia: Mecoptera
+    id: Mecoptera
+    ie: Mecoptera
+    io: Mecoptera
+    it: Mecoptera
+    ja: シリアゲムシ目
+    ka: ბუზმორიელები
+    kk: Құршаян шыбын
+    ko: 밑들이목
+    la: Mecoptera
+    lt: Skorpionmusės
+    lv: Knābjgalvju kārta
+    ml: തേൾ ഈച്ചകൾ
+    mr: मेकोप्टेरा
+    ms: Mecoptera
+    mul: Mecoptera
+    nb: nebbfluer
+    nl: Mecoptera
+    nn: Skorpionfluger
+    nv: Tséʼédǫ́ʼii bitsiinézí
+    oc: Mecoptera
+    pl: Wojsiłki
+    pt: Mecoptera
+    pt-br: Mecoptera
+    ro: Mecoptera
+    ru: Скорпионницы
+    sk: Srpice
+    sl: Kljunavci
+    sq: Mecoptera
+    sr: Муве-шкорпије
+    sr-ec: Муве-шкорпије
+    sr-el: Muve-škorpije
+    sv: näbbsländor
+    sw: Mdudu Mabawa-marefu
+    th: Mecoptera
+    tr: Mecoptera
+    tt: Чаянчы чебеннәр
+    uk: Скорпіонові мухи
+    vi: Bộ Cánh dài
+    vo: Mecoptera
+    war: Mecoptera
+    wuu: 长翅目
+    yue: 長翅目
+    zh: 長翅目
+    zh-cn: 长翅目
+    zh-hans: 长翅目
+    zh-hant: 長翅目
+    zh-hk: 長翅目
+    zh-sg: 长翅目
+    zh-tw: 長翅目
 ---
-
 # [[Mecoptera]] 
 
 #is_/same_as :: [[WD~Mecoptera,205301]] 

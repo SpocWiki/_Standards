@@ -1,40 +1,308 @@
 ---
 aliases:
-  - seeds
-  - Samen
-  - Saat
-  - Seed
+- aba
+- biji
+- Biji benih
+- Buto
+- Bɛa/biite
+- Ceh
+- Chí
+- Cī-cī
+- farë
+- Fræ
+- frö
+- frø
+- graine
+- grana
+- Grenn
+- greun
+- Grinne
+- hadau
+- hazi
+- hạt
+- Ifes
+- incek
+- Iniin
+- Isi (Bagian jak tumbuh-tumbuhan)
+- Jatha
+- Kawa
+- Liso
+- llavor
+- mag
+- Mbegu
+- Mbeu
+- Mbewu
+- Mombóto
+- Muru
+- nasiono
+- Paung
+- Pisog
+- Saad
+- Saat
+- Same
+- Samen
+- samesa
+- Sanyii
+- sapaluma
+- Seed
+- seeds
+- seeme
+- seme
+- Semen
+- semeno
+- semente
+- semiente
+- semilla
+- Semino
+- semmenta
+- semo
+- Sied
+- Siekla
+- siemen
+- Siki
+- simenza
+- simient
+- Simințâ
+- Sjeme
+- Sjemenka
+- smens
+- Som
+- Soot
+- síol
+- sākla
+- sămânță
+- sēkla
+- sėkla
+- Ta'ỹi
+- Tohum
+- tov
+- Toxum
+- Urugʻlik
+- Vihin-javamaniry
+- Wiji
+- zaad
+- zaod
+- Ʒi
+- σπόρος
+- Курăк вăрри
+- насіння
+- насенне
+- насеньне
+- Орлоҡ
+- орлык
+- семе
+- семя
+- Тұқым
+- Урук
+- գրենաժ
+- זרע
+- ئۇرۇق
+- بذر
+- بذرة
+- بیج
+- تخمونه
+- توخوم
+- ویج
+- ٻج
+- धान्यानि
+- बी
+- बीउ
+- बीज
+- बीया
+- বীজ
+- ਬੀਜ
+- வித்து
+- విత్తనం
+- ಬೀಜ
+- വിത്ത്
+- เมล็ด
+- မျိုးစေ့များ
+- თესლი
+- ᱡᱟᱝ
+- 种子
+- 種子
+- 籽
+- ꯇꯦꯒꯃꯦꯟ
+- 씨
 has_id_wikidata: Q40763
 has_part_s_:
-  - '[[_Standards/WikiData/WD~cotyledon,193026]]'
-  - '[[_Standards/WikiData/WD~epicotyl,1347099]]'
-  - '[[_Standards/WikiData/WD~germ,1377980]]'
-  - '[[_Standards/WikiData/WD~seed_coat,2217063]]'
-  - '[[_Standards/WikiData/WD~endosperm,25624]]'
+- '[[_Standards/WikiData/WD~cotyledon,193026]]'
+- '[[_Standards/WikiData/WD~epicotyl,1347099]]'
+- '[[_Standards/WikiData/WD~germ,1377980]]'
+- '[[_Standards/WikiData/WD~seed_coat,2217063]]'
+- '[[_Standards/WikiData/WD~endosperm,25624]]'
 develops_from: '[[_Standards/WikiData/WD~ovule,380138]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13156346,13156346]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~plant_structure,20011319]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~plant_structure,20011319]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 different_from: '[[_Standards/WikiData/WD~seed,100275245]]'
 OmegaWiki_Defined_Meaning: 3361
 Commons_gallery: Seeds
 Commons_category: Seeds
 Dewey_Decimal_Classification:
-  - 631.521
-  - 575.68
-  - 581.467
-  - 631.531
+- 631.521
+- 575.68
+- 581.467
+- 631.531
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5%20%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg
 Common_Procurement_Vocabulary_code: 03111000
 Krugosvet_article: biologiya/semya
+dv_has_:
+  name_:
+    af: Saad
+    an: simient
+    ar: بذرة
+    ast: semiente
+    ay: Jatha
+    az: Toxum
+    azb: توخوم
+    ba: Орлоҡ
+    bar: Soot
+    bcl: Pisog
+    be: насенне
+    be-tarask: насеньне
+    bg: семе
+    bho: बीया
+    bjn: Paung
+    bn: বীজ
+    br: greun
+    bs: Sjemenka
+    ca: llavor
+    cdo: Cī-cī
+    cs: semeno
+    cv: Курăк вăрри
+    cy: hadau
+    da: frø
+    dag: Ʒi
+    de: Samen
+    de-ch: Same
+    el: σπόρος
+    en: seed
+    en-ca: Seed
+    en-gb: seed
+    eo: semo
+    es: semilla
+    et: seeme
+    eu: hazi
+    fa: بذر
+    fi: siemen
+    fj: Kawa
+    fr: graine
+    fy: Sied
+    ga: síol
+    gcr: Grenn
+    gl: semente
+    gn: Ta'ỹi
+    gur: Bɛa/biite
+    he: זרע
+    hi: बीज
+    hr: sjeme
+    ht: grenn
+    hu: mag
+    hy: գրենաժ
+    ia: grana
+    id: biji
+    io: Semino
+    is: Fræ
+    it: seme
+    ja: 種子
+    jv: Wiji
+    ka: თესლი
+    kab: Ifes
+    kge: Isi (Bagian jak tumbuh-tumbuhan)
+    kk: Тұқым
+    kn: ಬೀಜ
+    ko: 씨
+    ku: tov
+    ku-latn: tov
+    ky: Урук
+    la: Semen
+    lb: Som
+    ln: Mombóto
+    lt: sėkla
+    ltg: sākla
+    lv: sēkla
+    mg: Vihin-javamaniry
+    min: incek
+    mk: семе
+    ml: വിത്ത്
+    mni: ꯇꯦꯒꯃꯦꯟ
+    mr: बी
+    ms: Biji benih
+    my: မျိုးစေ့များ
+    nan: Chí
+    nap: semmenta
+    nb: frø
+    nds-nl: zaod
+    ne: बीउ
+    nl: zaad
+    nn: frø
+    oc: grana
+    om: Sanyii
+    pa: ਬੀਜ
+    pl: nasiono
+    pms: smens
+    pnb: ویج
+    ps: تخمونه
+    pt: semente
+    pt-br: semente
+    qu: Muru
+    ro: sămânță
+    ru: семя
+    rup: Simințâ
+    sa: धान्यानि
+    sat: ᱡᱟᱝ
+    scn: simenza
+    sco: seed
+    sd: ٻج
+    sgs: Siekla
+    sh: Sjeme
+    sk: semeno
+    sl: seme
+    sn: Mbeu
+    so: Iniin
+    sq: farë
+    sr: семе
+    su: Siki
+    sv: frö
+    sw: Mbegu
+    szy: sapaluma
+    ta: வித்து
+    te: విత్తనం
+    th: เมล็ด
+    tl: Buto
+    tr: Tohum
+    ts: Mbewu
+    tt: орлык
+    tt-cyrl: орлык
+    tw: aba
+    ug: ئۇرۇق
+    uk: насіння
+    ur: بیج
+    uz: Urugʻlik
+    vec: samesa
+    vi: hạt
+    wa: Grinne
+    war: Liso
+    wuu: 种子
+    yue: 籽
+    za: Ceh
+    zh: 種子
+    zh-cn: 种子
+    zh-hans: 种子
+    zh-hant: 種子
+    zh-hk: 種子
+    zh-mo: 種子
+    zh-my: 种子
+    zh-sg: 种子
+    zh-tw: 種子
 ---
-
 # [[Seed]] 
 
 #is_/similar_to :: [[Egg]]

@@ -1,24 +1,83 @@
 ---
 aliases:
-  - Clydesdale horse
-  - Clydesdale_Horse
-  - Clydesdale Horse
+- Clydesdale
+- Clydesdale horse
+- Clydesdale zaldi
+- Clydesdale'i hobune
+- Clydesdalenhevonen
+- Clydesdale_Horse
+- Clydesdalský kůň
+- Klajdsdejl (pasmina konja)
+- Klidestal atı
+- Kuda Clydesdale
+- Ngựa Clydesdale
+- Клайдсдейльський кінь
+- клайдэсдэйл
+- Клейдесдаль
+- Քլայդսդեյլ
+- סוס קליידסדייל
+- خيول كلايدزديل
+- کلائیڈس ڈیل گھوڑا
+- კლაიდესდალური ცხენი
+- クライズデール
+- 克莱兹代尔马
+- 格士德馬
 has_id_wikidata: Q844058
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 named_after: '[[_Standards/WikiData/WD~Clydesdale,796188]]'
 instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~coldbloods,1513036]]'
-  - '[[_Standards/WikiData/WD~draft_horse,18562285]]'
+- '[[_Standards/WikiData/WD~coldbloods,1513036]]'
+- '[[_Standards/WikiData/WD~draft_horse,18562285]]'
 country_of_origin: '[[_Standards/WikiData/WD~Scotland,22]]'
 Commons_gallery: Clydesdale
 Commons_category: Clydesdale
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20Clydesdale%20horses.JPG
+dv_has_:
+  name_:
+    ar: خيول كلايدزديل
+    be-tarask: клайдэсдэйл
+    ca: Clydesdale
+    cs: Clydesdalský kůň
+    da: Clydesdale
+    de: Clydesdale
+    en: Clydesdale horse
+    eo: Clydesdale
+    es: Clydesdale
+    et: Clydesdale'i hobune
+    eu: Clydesdale zaldi
+    fi: Clydesdalenhevonen
+    fr: Clydesdale
+    gl: Clydesdale
+    he: סוס קליידסדייל
+    hu: Clydesdale
+    hy: Քլայդսդեյլ
+    id: Kuda Clydesdale
+    it: Clydesdale
+    ja: クライズデール
+    ka: კლაიდესდალური ცხენი
+    ms: Kuda Clydesdale
+    nb: Clydesdale
+    nl: Clydesdale
+    nn: Clydesdale
+    pl: Clydesdale
+    pt: Clydesdale
+    ru: Клейдесдаль
+    sco: Clydesdale horse
+    sl: Clydesdale
+    sr: Klajdsdejl (pasmina konja)
+    sv: Clydesdale
+    tr: Klidestal atı
+    uk: Клайдсдейльський кінь
+    ur: کلائیڈس ڈیل گھوڑا
+    vi: Ngựa Clydesdale
+    wuu: 克莱兹代尔马
+    yue: 格士德馬
+    zh: 克莱兹代尔马
 ---
-
 # [[Clydesdale_Horse]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Clydesdale_horse,844058|WD~Clydesdale_horse,844058]] 

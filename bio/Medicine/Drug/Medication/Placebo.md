@@ -1,6 +1,40 @@
 ---
 aliases:
-  - Placebo
+- Efekto placebo
+- lumelääke
+- Placebas
+- Placebo
+- Placebo efekat
+- placeboeffekt
+- plasebo
+- Plasebo effekti
+- Platseebo
+- Plazebo
+- sustancia placebo
+- εικονικό φάρμακο
+- плацебо
+- Плацебо ефекат
+- Плацебо-эффект
+- пляцэба
+- Պլացեբոյի էֆեկտ
+- פלאצעבא
+- פלצבו
+- دارونما
+- ذہنی طمانیت کا اثر
+- شبه دارو
+- علاج وهمى
+- علاج وهمي
+- कूटभेषज
+- ছলৌষধ
+- மருந்துப்போலி
+- പ്ലാസിബോ പ്രതിഭാസം
+- ยาหลอก
+- პლაცებო
+- ፕላሤቦ
+- 偽薬
+- 安慰剂
+- 安慰劑
+- 위약 효과
 has_id_wikidata: Q269829
 Commons_category: Placebos
 Dewey_Decimal_Classification: 615.5
@@ -9,19 +43,103 @@ has_effect: '[[_Standards/WikiData/WD~placebo_effect,16303139]]'
 has_use: '[[_Standards/WikiData/WD~double-blind_clinical_trial,108483352]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%22Miracle%20Cure%21%22%20Health%20Fraud%20Scams%20%288528312890%29.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-  - '[[_Standards/WikiData/WD~scientific_control,367359]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~scientific_control,367359]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
 MeSH_tree_code:
-  - D26.660
-  - E02.785
+- D26.660
+- E02.785
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~sham_comparator,107295177]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~medical_procedure,796194]]'
-  - '[[_Standards/WikiData/WD~simulacrum,1412596]]'
+- '[[_Standards/WikiData/WD~medical_procedure,796194]]'
+- '[[_Standards/WikiData/WD~simulacrum,1412596]]'
 UMLS_CUI: C0032042
+dv_has_:
+  name_:
+    af: plasebo
+    am: ፕላሤቦ
+    ar: علاج وهمي
+    arz: علاج وهمى
+    ast: sustancia placebo
+    az: Plasebo effekti
+    ba: Плацебо
+    be-tarask: пляцэба
+    bg: Плацебо
+    bn: ছলৌষধ
+    bs: Placebo
+    ca: placebo
+    cs: placebo
+    da: placebo
+    de: Placebo
+    de-ch: Placebo
+    el: εικονικό φάρμακο
+    en: placebo
+    en-ca: Placebo
+    en-gb: placebo
+    eo: placebo
+    es: sustancia placebo
+    et: Platseebo
+    eu: Plazebo
+    fa: شبه دارو
+    fi: lumelääke
+    fr: placebo
+    ga: placebo
+    gl: placebo
+    he: פלצבו
+    hi: कूटभेषज
+    hr: Placebo
+    hu: placebo
+    hy: Պլացեբոյի էֆեկտ
+    id: Plasebo
+    io: Efekto placebo
+    it: placebo
+    ja: 偽薬
+    jv: Plasebo
+    ka: პლაცებო
+    kk: Плацебо-эффект
+    ko: 위약 효과
+    la: placebo
+    lt: Placebas
+    lv: placebo
+    mk: Плацебо
+    ml: പ്ലാസിബോ പ്രതിഭാസം
+    ms: Plasebo
+    mzn: دارونما
+    nb: placeboeffekt
+    nl: placebo
+    nn: Placebo
+    olo: Placebo
+    pl: Placebo
+    pt: placebo
+    pt-br: Placebo
+    ro: Placebo
+    ru: плацебо
+    sh: Placebo efekat
+    sk: Placebo
+    sl: placebo
+    sq: Placebo
+    sr: Плацебо ефекат
+    sr-ec: Плацебо
+    sr-el: Placebo
+    sv: placebo
+    ta: மருந்துப்போலி
+    th: ยาหลอก
+    tr: Plasebo
+    uk: плацебо
+    ur: ذہنی طمانیت کا اثر
+    vi: Placebo
+    war: Placebo
+    wuu: 安慰剂
+    yi: פלאצעבא
+    yue: 安慰劑
+    zh: 安慰劑
+    zh-cn: 安慰剂
+    zh-hans: 安慰剂
+    zh-hant: 安慰劑
+    zh-hk: 安慰劑
+    zh-sg: 安慰剂
+    zh-tw: 安慰劑
 ---
-
 # [[Placebo]] 
 
 #has_/complement :: [[Nocebo]] 

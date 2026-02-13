@@ -1,19 +1,153 @@
 ---
 aliases:
+- mẫu hình lập trình
+- ohjelmointiparadigma
+- Paradigma 'd programassion
+- Paradigma de porgramaçon
+- Paradigma de programacion
+- paradigma de programació
+- paradigma de programación
+- paradigma de programação
+- paradigma di programmazione
+- paradigma pemrograman
+- paradigma pengaturcaraan
+- Paradigma programmandi
+- Paradigma programore
+- paradigme
+- paradigmă de programare
+- paradygmat programowania
+- paraidím ríomhchláraithe
+- programada paradigmo
+- programavimo paradigma
+- Programazio paradigma
+- programerska paradigma
+- programlama paradigması
+- Programmalastırıw paradigması
+- programmeerimise paradigma
+- programmeerparadigma
+- programmeringsparadigm
+- programmeringsparadigme
+- Programmierparadigma
+- programming paradigm
+- programmâʹsttemparadigma
+- Programméierparadigma
+- programmēšanas paradigma
+- programovacie paradigmy
+- programovací paradigma
+- programozási paradigma
+- Programska paradigma
+- Proqramlaşdırma paradiqmaları
+- Προγραμματιστικό παράδειγμα
+- мылкыд
+- Парадигма на програмиране
+- парадигма программирования
+- парадигма програмування
+- парадыгма праграмаваньня
+- програмерска парадигма
+- програмска парадигма
+- ծրագրավորման պարադիգմ
+- פרדיגמת תכנות
+- اطار برمجہ
+- نمط برمجة
+- پارادایم برنامهنویسی
+- প্রোগ্রামিং প্যারাডাইম
+- நிரலாக்க கருத்தோட்டம்
+- പ്രോഗ്രാമിങ് ശൈലി
+- กระบวนทัศน์การเขียนโปรแกรม
+- პროგრამირების პარადიგმა
+- プログラミングパラダイム
+- 編程範型
+- 編程範式
+- 编程范型
+- 프로그래밍 패러다임
 has_id_wikidata: Q188267
 subclass_of:
-  - "[[_Standards/WikiData/WD~programming_style,962139]]"
-  - "[[_Standards/WikiData/WD~paradigm,28643]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Programming_paradigms_navbox,8084577]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~programming_style,962139]]'
+- '[[_Standards/WikiData/WD~paradigm,28643]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Programming_paradigms_navbox,8084577]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 Wikidata_property: programming paradigm
-facet_of: "[[_Standards/WikiData/WD~computer_science,21198]]"
-OmegaWiki_Defined_Meaning: "975466"
+facet_of: '[[_Standards/WikiData/WD~computer_science,21198]]'
+OmegaWiki_Defined_Meaning: 975466
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Programming%20paradigms.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/paradigms
 Commons_category: Programming language by paradigm
+dv_has_:
+  name_:
+    ar: نمط برمجة
+    ast: Paradigma de programación
+    az: Proqramlaşdırma paradiqmaları
+    bar: Programmierparadigma
+    be-tarask: парадыгма праграмаваньня
+    bg: Парадигма на програмиране
+    bn: প্রোগ্রামিং প্যারাডাইম
+    bs: Programska paradigma
+    ca: paradigma de programació
+    cs: programovací paradigma
+    da: programmeringsparadigme
+    de: Programmierparadigma
+    el: Προγραμματιστικό παράδειγμα
+    en: programming paradigm
+    eo: programada paradigmo
+    es: paradigma de programación
+    et: programmeerimise paradigma
+    eu: Programazio paradigma
+    fa: پارادایم برنامهنویسی
+    fi: ohjelmointiparadigma
+    fr: paradigme
+    ga: paraidím ríomhchláraithe
+    gl: paradigma de programación
+    he: פרדיגמת תכנות
+    hu: programozási paradigma
+    hy: ծրագրավորման պարադիգմ
+    id: paradigma pemrograman
+    it: paradigma di programmazione
+    ja: プログラミングパラダイム
+    ka: პროგრამირების პარადიგმა
+    kaa: Programmalastırıw paradigması
+    ko: 프로그래밍 패러다임
+    la: Paradigma programmandi
+    lb: Programméierparadigma
+    lt: programavimo paradigma
+    lv: programmēšanas paradigma
+    mk: програмерска парадигма
+    ml: പ്രോഗ്രാമിങ് ശൈലി
+    ms: paradigma pengaturcaraan
+    mwl: Paradigma de porgramaçon
+    nb: programmeringsparadigme
+    nl: programmeerparadigma
+    nn: programmeringsparadigme
+    oc: Paradigma de programacion
+    pl: paradygmat programowania
+    pms: Paradigma 'd programassion
+    pt: paradigma de programação
+    ro: paradigmă de programare
+    ru: парадигма программирования
+    sh: Programska paradigma
+    sk: programovacie paradigmy
+    sl: programerska paradigma
+    sms: programmâʹsttemparadigma
+    sq: Paradigma programore
+    sr: програмска парадигма
+    sr-ec: програмска парадигма
+    sv: programmeringsparadigm
+    sw: Programming paradigm
+    ta: நிரலாக்க கருத்தோட்டம்
+    th: กระบวนทัศน์การเขียนโปรแกรม
+    tr: programlama paradigması
+    udm: мылкыд
+    uk: парадигма програмування
+    ur: اطار برمجہ
+    vi: mẫu hình lập trình
+    yue: 編程範式
+    zh: 编程范型
+    zh-cn: 编程范型
+    zh-hans: 编程范型
+    zh-hant: 編程範型
+    zh-hk: 編程範型
+    zh-sg: 编程范型
+    zh-tw: 編程範型
 ---
-
 # [[Prog~Paradigm]] 
 
 #is_/same_as :: [[WD~Programming_paradigm,188267]] 

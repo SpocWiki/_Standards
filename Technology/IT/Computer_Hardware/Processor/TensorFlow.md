@@ -1,4 +1,31 @@
-
+---
+has_id_wikidata: Q21447895
+dv_has_:
+  name_:
+    ar: تنسرفلو
+    bn: টেন্সরফ্লো
+    el: Tensor Flow
+    fa: تنسورفلو
+    hi: टेन्सर फ्लो
+    ko: 텐서플로
+    ml: ടെൻസർഫ്ലോ
+    mul: TensorFlow
+    or: ଟେନସରଫ୍ଲୋ
+    te: టెన్సర్ ఫ్లో
+    th: เทนเซอร์โฟลว์
+aliases:
+- Tensor Flow
+- TensorFlow
+- تنسرفلو
+- تنسورفلو
+- टेन्सर फ्लो
+- টেন্সরফ্লো
+- ଟେନସରଫ୍ଲୋ
+- టెన్సర్ ఫ్లో
+- ടെൻസർഫ്ലോ
+- เทนเซอร์โฟลว์
+- 텐서플로
+---
 ## #has_/text_of_/abstract 
 
 > **TensorFlow** is a free and open-source software library for machine learning and artificial intelligence. 

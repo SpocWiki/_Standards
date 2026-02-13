@@ -1,29 +1,118 @@
 ---
 aliases:
-  - Etude
-  - Étude
+- estudi
+- estudio
+- estudio (música)
+- estudo
+- etida
+- etiuda
+- etuda
+- Etude
+- etyd
+- etyde
+- etydi
+- etüd
+- Etüde
+- etüüd
+- etűd
+- eтюд
+- Khúc luyện
+- studaĵo
+- studio
+- Studium
+- Étude
+- σπουδή
+- Етида
+- етюд
+- этюд
+- эцюд
+- Էտյուդ
+- אטיוד
+- ئێتوود
+- اتود
+- دراسة
+- เอตู๊ด
+- ეტიუდი (მუსიკა)
+- 練習曲
+- 练习曲
+- 연습곡
 has_id_wikidata: Q207841
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_form,862597]]'
-  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 different_from: '[[_Standards/WikiData/WD~Étude,9255655]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~Clavier_Übung,34320210]]'
 Commons_category: Etudes
 Krugosvet_article: kultura_i_obrazovanie/muzyka/ETYUD.html
+dv_has_:
+  name_:
+    ar: دراسة
+    az: etüd
+    be-tarask: эцюд
+    bg: eтюд
+    ca: estudi
+    ckb: ئێتوود
+    cs: etuda
+    da: etude
+    de: Etüde
+    el: σπουδή
+    en: étude
+    eo: studaĵo
+    es: estudio (música)
+    et: etüüd
+    eu: estudio
+    fa: اتود
+    fi: etydi
+    fr: étude
+    gl: estudo
+    he: אטיוד
+    hr: etida
+    hu: etűd
+    hy: Էտյուդ
+    id: Étude
+    it: studio
+    ja: 練習曲
+    ka: ეტიუდი (მუსიკა)
+    ko: 연습곡
+    la: Studium
+    mk: Етида
+    nb: etyde
+    nl: etude
+    nn: etyde
+    pl: etiuda
+    pt: estudo
+    ru: этюд
+    sk: etuda
+    sl: etuda
+    sr: етида
+    sr-ec: етида
+    sr-el: etida
+    sv: etyd
+    th: เอตู๊ด
+    tr: etüd
+    uk: етюд
+    vi: Khúc luyện
+    yue: 練習曲
+    zh: 練習曲
+    zh-cn: 练习曲
+    zh-hans: 练习曲
+    zh-hant: 練習曲
+    zh-hk: 練習曲
+    zh-sg: 练习曲
+    zh-tw: 練習曲
 ---
-
 # [[Étude]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Étude,207841|WD~Étude,207841]] 

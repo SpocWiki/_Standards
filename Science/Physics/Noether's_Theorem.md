@@ -1,4 +1,94 @@
-
+---
+has_id_wikidata: Q578555
+dv_has_:
+  name_:
+    ar: مبرهنة نوتر
+    as: নইথাৰৰ উপপাদ্য
+    be: тэарэма Нётэр
+    bg: теорема на Ньотер
+    ca: teorema de Noether
+    cs: teorém Noetherové
+    cv: Нётер теореми
+    cy: theorem Noether
+    da: Noethers sætning
+    de: Noether-Theorem
+    en: Noether's theorem
+    eo: teoremo de Noether
+    es: teorema de Noether
+    et: Noetheri teoreem
+    fa: قضیه امی نوتر
+    fi: Noetherin teoreema
+    fr: théorème de Noether
+    ga: teoirim Noether
+    gl: teorema de Noether
+    he: משפט נתר
+    hi: नोटर का प्रमेय
+    hr: Noetherin teorem
+    hu: Noether-tétel
+    hy: Նյոթերի թեորեմ
+    it: teorema di Noether
+    ja: ネーターの定理
+    ko: 뇌터 정리
+    ky: Нётер теоремасы
+    lv: Nēteres teorēma
+    ml: നോതെറുടെ പ്രമേയം
+    nb: Noethers teorem
+    nl: stelling van Noether
+    pa: ਨੋਈਥਰ ਦੀ ਥਿਊਰਮ
+    pl: twierdzenie Noether
+    pt: teorema de Noether
+    ro: teorema lui Noether
+    ru: теорема Нётер
+    sh: Noetherin teorem
+    sv: Noethers sats
+    tr: Noether kuramı
+    tt: Нөтер теоремасы
+    uk: теорема Нетер
+    zh: 诺特定理
+    zh-hans: 诺特定理
+    zh-hant: 諾特定理
+aliases:
+- Noether kuramı
+- Noether's theorem
+- Noether-Theorem
+- Noether-tétel
+- Noetheri teoreem
+- Noetherin teoreema
+- Noetherin teorem
+- Noethers sats
+- Noethers sætning
+- Noethers teorem
+- Nēteres teorēma
+- stelling van Noether
+- teoirim Noether
+- teorema de Noether
+- teorema di Noether
+- teorema lui Noether
+- teoremo de Noether
+- teorém Noetherové
+- theorem Noether
+- théorème de Noether
+- twierdzenie Noether
+- Нётер теоремасы
+- Нётер теореми
+- Нөтер теоремасы
+- теорема Нётер
+- теорема на Ньотер
+- теорема Нетер
+- тэарэма Нётэр
+- Նյոթերի թեորեմ
+- משפט נתר
+- قضیه امی نوتر
+- مبرهنة نوتر
+- नोटर का प्रमेय
+- নইথাৰৰ উপপাদ্য
+- ਨੋਈਥਰ ਦੀ ਥਿਊਰਮ
+- നോതെറുടെ പ്രമേയം
+- ネーターの定理
+- 諾特定理
+- 诺特定理
+- 뇌터 정리
+---
 # [[Noether's_Theorem]] 
 
 #has_/creator :: [[../../Mathematics/Mathematician/Noether,Emmy]] 

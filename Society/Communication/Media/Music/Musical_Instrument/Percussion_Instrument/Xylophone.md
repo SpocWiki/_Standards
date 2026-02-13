@@ -1,33 +1,187 @@
 ---
 aliases:
+- amadinda
+- Gyile
+- Kpandɩ kolokolo
+- Ksilofon
+- ksilofonas
+- ksilofono
+- ksilofons
+- Ksylofoan
+- Ksylofon
+- ksylofona
+- ksylofoni
+- ksylofoon
+- Ksylofůn
+- ksülofon
+- Lubug tatuk
+- Marimba
+- murchunga
+- mộc cầm
+- Ngelenge
+- Saylopon
+- seiloffon
+- xileafón
+- xilofon
+- xilofone
+- xilofono
+- xilòfon
+- xilófono
+- Xilófonu
+- xylofon
+- xylofoon
+- xylofón
+- Xylophon
+- xylophone
+- Xylophonum
+- Zilofon
+- ξυλόφωνο
+- Кальхциямат
+- ксілафон
+- Ксилофон
+- ксыляфон
+- Քսիլոֆոն
+- קסילופון
+- اكسليفون
+- خشبية
+- زایلۆفۆن
+- زیلوفون
+- سیلوفون
+- සයිලොෆෝන්
+- ไซโลโฟน
+- ཤིང་དཀྲོལ།
+- ပတ္တလား
+- ပတ်ႉတလႃး
+- ᎠᏓ ᏗᎦᎾᎵ ᏗᎬᏅᏍᏙᏗ
+- シロフォン
+- 木琴
+- 실로폰
 has_id_wikidata: Q165666
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-subclass_of: "[[_Standards/WikiData/WD~chime_bar,5099329]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]"
-Nomenclature_for_Museum_Cataloging: "10770"
-OmegaWiki_Defined_Meaning: "7355"
-P2167: "60131406"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+subclass_of: '[[_Standards/WikiData/WD~chime_bar,5099329]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
+Nomenclature_for_Museum_Cataloging: 10770
+OmegaWiki_Defined_Meaning: 7355
+P2167: 60131406
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Xylophone%20%28PSF%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%28Xylophone%29%20Centro%20Hist%C3%B3rico%20Quito.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Xylophone%20%28PSF%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%28Xylophone%29%20Centro%20Hist%C3%B3rico%20Quito.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/2010-10-04-Glas-Xylophon.ogv
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Xil%C3%B3fono-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Xylofoon-article.ogg
-Hornbostel_Sachs_classification: "111.212"
-Amazon_com_browse_node: "11970371"
-Common_Procurement_Vocabulary_code: "37316600"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Es-Xil%C3%B3fono-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Xylofoon-article.ogg
+Hornbostel_Sachs_classification: 111.212
+Amazon_com_browse_node: 11970371
+Common_Procurement_Vocabulary_code: 37316600
 Krugosvet_article_archived_: muzyka/ksilofon
 Commons_gallery: Xylophone
 Commons_category: Xylophones
-Dewey_Decimal_Classification: "786.843"
+Dewey_Decimal_Classification: 786.843
+dv_has_:
+  name_:
+    ann: Ngelenge
+    ar: خشبية
+    arz: اكسليفون
+    ast: Xilófonu
+    az: Ksilofon
+    azb: سیلوفون
+    be: ксілафон
+    be-tarask: ксыляфон
+    bg: Ксилофон
+    bo: ཤིང་དཀྲོལ།
+    br: Zilofon
+    ca: xilòfon
+    chr: ᎠᏓ ᏗᎦᎾᎵ ᏗᎬᏅᏍᏙᏗ
+    ckb: زایلۆفۆن
+    cs: xylofon
+    cy: seiloffon
+    da: xylofon
+    dag: xylophone
+    de: Xylophon
+    dga: Gyile
+    el: ξυλόφωνο
+    en: xylophone
+    en-us: xylophone
+    eo: ksilofono
+    es: xilófono
+    et: ksülofon
+    eu: Xilofono
+    fa: زیلوفون
+    fi: ksylofoni
+    fr: xylophone
+    fy: Ksylofoan
+    ga: xileafón
+    gl: Xilófono
+    ha: Xylophone
+    he: קסילופון
+    hif: Xylophone
+    hr: Ksilofon
+    hu: xilofon
+    hy: Քսիլոֆոն
+    id: Xilofon
+    io: xilofono
+    it: xilofono
+    ja: シロフォン
+    kbp: Kpandɩ kolokolo
+    kk: Ксилофон
+    ko: 실로폰
+    ky: Ксилофон
+    la: Xylophonum
+    lg: amadinda
+    lt: ksilofonas
+    lv: ksilofons
+    mdf: Кальхциямат
+    mk: Ксилофон
+    ms: Xilofon
+    mwl: Xilofone
+    my: ပတ္တလား
+    nb: xylofon
+    nds: Xylophon
+    ne: murchunga
+    nl: xylofoon
+    nn: xylofon
+    pl: Ksylofon
+    pt: xilofone
+    ro: xilofon
+    ru: ксилофон
+    se: ksylofona
+    sh: Ksilofon
+    shn: ပတ်ႉတလႃး
+    si: සයිලොෆෝන්
+    sk: xylofón
+    sl: ksilofon
+    smn: ksylofon
+    sms: ksylofoon
+    sq: ksilofon
+    sr: ксилофон
+    sr-ec: ксилофон
+    sr-el: ksilofon
+    sv: xylofon
+    sw: Marimba
+    szl: Ksylofůn
+    th: ไซโลโฟน
+    tl: Saylopon
+    tr: Ksilofon
+    trv: Lubug tatuk
+    tt: ксилофон
+    uk: ксилофон
+    uz: Ksilofon
+    vi: mộc cầm
+    wuu: 木琴
+    yue: 木琴
+    zh: 木琴
+    zh-cn: 木琴
+    zh-hans: 木琴
+    zh-hant: 木琴
+    zh-hk: 木琴
+    zh-sg: 木琴
+    zh-tw: 木琴
 ---
-
 # [[Xylophone]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Xylophone,165666|WD~Xylophone,165666]]  

@@ -1,32 +1,187 @@
 ---
 aliases:
-  - radiation-therapy
-  - radiation_therapy
-  - RadiationTherapy
-  - is_a_radiation_therapy
-  - Radiation_Therapy
-  - Radiation Therapy
+- adaptive radiation therapy
+- Erradioterapia
+- Geislalækningar
+- is_a_radiation_therapy
+- Kiiritusravi
+- pадиотерапија
+- radaiteiripe
+- Radiation Therapy
+- radiation-therapy
+- RadiationTherapy
+- radiation_therapy
+- Radijaciona terapija
+- Radioterapeye
+- Radioterapi
+- radioterapia
+- radioterapie
+- Radioterapija
+- radioterapio
+- radioterapiya
+- radioteràpia
+- Radiotherapi
+- Radiotherapia
+- radiotherapie
+- radiothérapie
+- Radyoterapi
+- Rentgenologïya
+- Rádioterapia
+- Strahlentherapie
+- strålbehandling
+- Strålebehandling
+- sugárkezelés
+- sädehoito
+- Xạ trị liệu
+- ακτινοθεραπεία
+- Адаптивна радиотерапија
+- лучевая терапия
+- лъчева терапия
+- Нур менен дарылоо
+- Нурлы терапия
+- прамянёвая тэрапія
+- променева терапія
+- радијациона терапија
+- радыятэрапія
+- Рентгенология
+- Ռադիոթերապիա
+- רדיותרפיה
+- رەنتگەنولوگىييا
+- علاج بالأشعة
+- وړانګدرملنه
+- پرتودرمانی
+- किरणोपचार
+- चिकित्सा विकिरणशास्त्र
+- विकिरण चिकित्सा
+- বিকিরণ চিকিৎসা
+- ਰੇਡੀਏਸ਼ਨ ਇਲਾਜ
+- கதிர் மருத்துவம்
+- రేడియోధార్మిక చికిత్స
+- ರೇಡಿಯೊ ಚಿಕಿತ್ಸೆ
+- റേഡിയേഷൻ ചികിൽസ
+- รังสีรักษา
+- འཕྲོ་འགྱེད་བཅོས་ཐབས་
+- სხივური თერაპია
+- 放射治疗
+- 放射治療
+- 放射線療法
+- 放射线疗法
+- 電療
+- 방사선종양학과
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - radiation_therapy
+- radiation_therapy
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radiation_therapy Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_radiation_therapy Class
 type: Type
+has_id_wikidata: Q180507
+dv_has_:
+  name_:
+    an: Radioterapia
+    ar: علاج بالأشعة
+    ast: Radioterapia
+    az: radioterapiya
+    be: прамянёвая тэрапія
+    be-tarask: радыятэрапія
+    bg: лъчева терапия
+    bn: বিকিরণ চিকিৎসা
+    bo: འཕྲོ་འགྱེད་བཅོས་ཐབས་
+    bs: Radioterapija
+    ca: radioteràpia
+    cs: radioterapie
+    cy: Radiotherapi
+    da: Strålebehandling
+    de: Strahlentherapie
+    el: ακτινοθεραπεία
+    en: adaptive radiation therapy
+    en-us: radiation therapy
+    eo: radioterapio
+    es: radioterapia
+    et: Kiiritusravi
+    eu: Erradioterapia
+    fa: پرتودرمانی
+    fi: sädehoito
+    fr: radiothérapie
+    ga: radaiteiripe
+    gl: Radioterapia
+    gsw: Strahlentherapie
+    he: רדיותרפיה
+    hi: विकिरण चिकित्सा
+    hr: radioterapija
+    hu: sugárkezelés
+    hy: Ռադիոթերապիա
+    ia: Radiotherapia
+    id: Radioterapi
+    is: Geislalækningar
+    it: radioterapia
+    ja: 放射線療法
+    ka: სხივური თერაპია
+    kk: Рентгенология
+    kk-arab: رەنتگەنولوگىييا
+    kk-cn: رەنتگەنولوگىييا
+    kk-cyrl: Рентгенология
+    kk-kz: Рентгенология
+    kk-latn: Rentgenologïya
+    kk-tr: Rentgenologïya
+    kn: ರೇಡಿಯೊ ಚಿಕಿತ್ಸೆ
+    ko: 방사선종양학과
+    ky: Нур менен дарылоо
+    la: Radiotherapia
+    lt: radioterapija
+    lv: radioterapija
+    mk: Адаптивна радиотерапија
+    ml: റേഡിയേഷൻ ചികിൽസ
+    mr: किरणोपचार
+    ms: Radioterapi
+    nb: strålebehandling
+    new: विकिरण चिकित्सा
+    nl: radiotherapie
+    nn: strålebehandling
+    pa: ਰੇਡੀਏਸ਼ਨ ਇਲਾਜ
+    pi: चिकित्सा विकिरणशास्त्र
+    pl: radioterapia
+    ps: وړانګدرملنه
+    pt: radioterapia
+    ro: radioterapie
+    ru: лучевая терапия
+    sh: Radijaciona terapija
+    sk: Rádioterapia
+    sl: radioterapija
+    sr: радијациона терапија
+    sr-ec: pадиотерапија
+    sv: strålbehandling
+    ta: கதிர் மருத்துவம்
+    te: రేడియోధార్మిక చికిత్స
+    th: รังสีรักษา
+    tr: Radyoterapi
+    tt: Нурлы терапия
+    uk: променева терапія
+    uz: Radioterapiya
+    vi: Xạ trị liệu
+    wa: Radioterapeye
+    wuu: 放射治疗
+    yue: 電療
+    zh: 放射治療
+    zh-cn: 放射治疗
+    zh-hans: 放射线疗法
+    zh-hant: 放射治療
+    zh-hk: 放射線療法
+    zh-sg: 放射线疗法
+    zh-tw: 放射線療法
 ---
-
 # [[Radiation_Therapy]] 
 
 Class of all radiation_therapies.

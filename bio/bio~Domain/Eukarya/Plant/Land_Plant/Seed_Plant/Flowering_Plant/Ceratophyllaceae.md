@@ -1,10 +1,70 @@
 ---
 aliases:
-  - Ceratophyllaceae
-  - coontail
+- Ceratofilacoj
+- Ceratophyllaceae
+- coontail
+- Hornblad-familien
+- hornbladfamilien
+- Họ Rong đuôi chó
+- Kardheinalised
+- Karvalehtikasvit
+- Raglapju dzimta
+- Rogatkowate
+- rožkatcovité
+- růžkatcovité
+- tócsagazfélék
+- Роголистникови
+- եղինջատերևազգիներ
+- קרנניים
+- علفشاخیان
+- قرنيات الورق
+- რქაფოთოლასებრნი
+- マツモ科
+- 金鱼藻科
+- 붕어마름과
 title: Ceratophyllaceae
+has_id_wikidata: Q12012524
+dv_has_:
+  name_:
+    ar: قرنيات الورق
+    ast: Ceratophyllaceae
+    bg: Роголистникови
+    ceb: Ceratophyllaceae
+    cs: růžkatcovité
+    da: Hornblad-familien
+    de: Ceratophyllaceae
+    en: Ceratophyllaceae
+    eo: Ceratofilacoj
+    es: Ceratophyllaceae
+    et: Kardheinalised
+    fa: علفشاخیان
+    fi: Karvalehtikasvit
+    fr: Ceratophyllaceae
+    ga: Ceratophyllaceae
+    he: קרנניים
+    hu: tócsagazfélék
+    hy: եղինջատերևազգիներ
+    id: Ceratophyllaceae
+    it: Ceratophyllaceae
+    ja: マツモ科
+    ka: რქაფოთოლასებრნი
+    ko: 붕어마름과
+    la: Ceratophyllaceae
+    lv: Raglapju dzimta
+    mul: Ceratophyllaceae
+    nb: hornbladfamilien
+    nl: Ceratophyllaceae
+    pl: Rogatkowate
+    pt: Ceratophyllaceae
+    ro: Ceratophyllaceae
+    ru: Ceratophyllaceae
+    sk: rožkatcovité
+    sq: Ceratophyllaceae
+    uk: Ceratophyllaceae
+    vi: Họ Rong đuôi chó
+    war: Ceratophyllaceae
+    zh: 金鱼藻科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

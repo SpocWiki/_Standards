@@ -1,31 +1,58 @@
 ---
 aliases:
-  - Gerd_Müller
-  - Gerd Müller
-  - Müller
-  - Müller,Gerd
+- Gerd Müller
+- Gerds Millers
+- Gerd_Müller
+- Gerhard Müller
+- Herd Müller
+- Müller
+- Müller,Gerd
+- Žead Mýula
+- Γκερντ Μίλερ
+- Герд Милер
+- Герд Мюлер
+- Герд Мюллер
+- Мюллер Герд
+- Мюллер, Герд
+- Գերդ Մյուլլեր
+- גרד מילר
+- جيرد مولر
+- غيرد مولر
+- گرد مولر
+- گێرد مۆلەر
+- गर्ड मुलर
+- गेर्ड म्युलर
+- গের্ড মুলার
+- ਗਰਡ ਮੂਲਰ
+- ഗഹാർഡ് മ്യൂളർ
+- แกร์ท มึลเลอร์
+- გერდ მიულერი
+- ゲルト・ミュラー
+- 格得梅拿
+- 盖德·穆勒
+- 게르트 뮐러
 has_id_wikidata: Q43744
 nickname:
-  - Bomber der Nation
-  - Kleines dickes Müller
+- Bomber der Nation
+- Kleines dickes Müller
 date_of_death: 2021-08-15T00:00:00Z
 league_or_competition:
-  - '[[_Standards/WikiData/WD~Q82595,82595]]'
-  - '[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]'
+- '[[_Standards/WikiData/WD~Q82595,82595]]'
+- '[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - '[[_Standards/WikiData/WD~German_Footballer_of_the_Year,311830]]'
-  - '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
-  - '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
-  - '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
+- '[[_Standards/WikiData/WD~German_Footballer_of_the_Year,311830]]'
+- '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
+- '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
+- '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
 position_played_on_team_speciality: '[[_Standards/WikiData/WD~forward,280658]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~Germany_national_under_21_football_team,314851]]'
-  - '[[_Standards/WikiData/WD~TSV_1861_Nördlingen,828338]]'
-  - '[[_Standards/WikiData/WD~Germany_national_under_23_football_team,1202768]]'
-  - '[[_Standards/WikiData/WD~Fort_Lauderdale_Strikers,6502565]]'
-  - '[[_Standards/WikiData/WD~FC_Bayern_Munich,15789]]'
-  - "[[_Standards/WikiData/WD~Germany_men's_national_association_football_team,43310]]"
+- '[[_Standards/WikiData/WD~Germany_national_under_21_football_team,314851]]'
+- '[[_Standards/WikiData/WD~TSV_1861_Nördlingen,828338]]'
+- '[[_Standards/WikiData/WD~Germany_national_under_23_football_team,1202768]]'
+- '[[_Standards/WikiData/WD~Fort_Lauderdale_Strikers,6502565]]'
+- '[[_Standards/WikiData/WD~FC_Bayern_Munich,15789]]'
+- "[[_Standards/WikiData/WD~Germany_men's_national_association_football_team,43310]]"
 place_of_birth: '[[_Standards/WikiData/WD~Nördlingen,489902]]'
 place_of_death: '[[_Standards/WikiData/WD~Wolfratshausen,503160]]'
 occupation: '[[_Standards/WikiData/WD~association_football_player,937857]]'
@@ -41,15 +68,15 @@ medical_condition: "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
 cause_of_death: "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career:
-  - 1
-  - 3
+- 1
+- 3
 country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
 country_for_sport: '[[_Standards/WikiData/WD~Germany,183]]'
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 number_of_matches_played_races_starts:
-  - 2
-  - 3
+- 2
+- 3
 mass: 77
 height: 176
 sport_number: 13
@@ -61,8 +88,218 @@ date_of_birth: 1945-11-03T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gerd%20M%C3%BCller%20c1973%20%28cropped%29.jpg
 ISNI: 0000000121219405
 Munzinger_Sport_number: 01000000915
+dv_has_:
+  name_:
+    aa: Gerd Müller
+    ace: Gerd Müller
+    af: Gerd Müller
+    an: Gerd Müller
+    ang: Gerd Müller
+    ar: غيرد مولر
+    arz: جيرد مولر
+    ast: Gerd Müller
+    atj: Gerd Müller
+    ay: Gerd Müller
+    az: Herd Müller
+    azb: گرد مولر
+    ba: Мюллер Герд
+    bar: Gerd Müller
+    bcl: Gerd Müller
+    be: Герд Мюлер
+    be-tarask: Герд Мюлер
+    bg: Герд Мюлер
+    bi: Gerd Müller
+    bjn: Gerd Müller
+    bm: Gerd Müller
+    bn: গের্ড মুলার
+    br: Gerd Müller
+    bs: Gerd Müller
+    ca: Gerhard Müller
+    cbk-zam: Gerd Müller
+    cdo: Gerd Müller
+    ceb: Gerd Müller
+    ch: Gerd Müller
+    cho: Gerd Müller
+    chy: Gerd Müller
+    ckb: گێرد مۆلەر
+    co: Gerd Müller
+    cr: Gerd Müller
+    crh-latn: Gerd Müller
+    cs: Gerd Müller
+    csb: Gerd Müller
+    cy: Gerd Müller
+    da: Gerd Müller
+    de: Gerd Müller
+    de-at: Gerd Müller
+    de-ch: Gerd Müller
+    diq: Gerd Müller
+    dsb: Gerd Müller
+    dtp: Gerd Müller
+    ee: Gerd Müller
+    egl: Gerd Müller
+    el: Γκερντ Μίλερ
+    eml: Gerd Müller
+    en: Gerd Müller
+    en-ca: Gerd Müller
+    en-gb: Gerd Müller
+    eo: Gerd Müller
+    es: Gerd Müller
+    et: Gerd Müller
+    eu: Gerd Müller
+    ext: Gerd Müller
+    fa: گرد مولر
+    ff: Gerd Müller
+    fi: Gerd Müller
+    fit: Gerd Müller
+    fj: Gerd Müller
+    fo: Gerd Müller
+    fr: Gerd Müller
+    frc: Gerd Müller
+    frp: Gerd Müller
+    frr: Gerd Müller
+    fur: Gerd Müller
+    fy: Gerd Müller
+    ga: Gerd Müller
+    gag: Gerd Müller
+    gd: Gerd Müller
+    gl: Gerd Müller
+    gn: Gerd Müller
+    gsw: Gerd Müller
+    gv: Gerd Müller
+    ha: Gerd Müller
+    hak: Gerd Müller
+    he: גרד מילר
+    hif-latn: Gerd Müller
+    hil: Gerd Müller
+    ho: Gerd Müller
+    hr: Gerd Müller
+    hsb: Gerd Müller
+    ht: Gerd Müller
+    hu: Gerd Müller
+    hy: Գերդ Մյուլլեր
+    hz: Gerd Müller
+    ia: Gerd Müller
+    id: Gerd Müller
+    ie: Gerd Müller
+    ig: Gerd Müller
+    ik: Gerd Müller
+    ike-latn: Gerd Müller
+    ilo: Gerd Müller
+    io: Gerd Müller
+    is: Gerd Müller
+    it: Gerd Müller
+    ja: ゲルト・ミュラー
+    jam: Gerd Müller
+    jbo: Gerd Müller
+    jv: Gerd Müller
+    ka: გერდ მიულერი
+    kaa: Gerd Müller
+    kab: Gerd Müller
+    kg: Gerd Müller
+    ki: Gerd Müller
+    kk: Герд Мюллер
+    kk-latn: Gerd Müller
+    kk-tr: Gerd Müller
+    ko: 게르트 뮐러
+    ksh: Gerd Müller
+    ku-latn: Gerd Müller
+    kw: Gerd Müller
+    la: Gerd Müller
+    lad: Gerd Müller
+    lb: Gerd Müller
+    lfn: Gerd Müller
+    li: Gerd Müller
+    lij: Gerd Müller
+    lmo: Gerd Müller
+    lt: Gerd Müller
+    lv: Gerds Millers
+    map-bms: Gerd Müller
+    mg: Gerd Müller
+    min: Gerd Müller
+    mk: Герд Милер
+    ml: ഗഹാർഡ് മ്യൂളർ
+    mn: Герд Мюллер
+    mr: गेर्ड म्युलर
+    ms: Gerd Müller
+    mul: Gerd Müller
+    mus: Gerd Müller
+    mwl: Gerd Müller
+    myv: Мюллер, Герд
+    nah: Gerd Müller
+    nap: Gerd Müller
+    nb: Gerd Müller
+    nds: Gerd Müller
+    nds-nl: Gerd Müller
+    ne: गर्ड मुलर
+    nl: Gerd Müller
+    nn: Gerd Müller
+    nrm: Gerd Müller
+    oc: Gerd Müller
+    olo: Gerd Müller
+    pa: ਗਰਡ ਮੂਲਰ
+    pam: Gerd Müller
+    pap: Gerd Müller
+    pcd: Gerd Müller
+    pdc: Gerd Müller
+    pdt: Gerd Müller
+    pfl: Gerd Müller
+    pl: Gerd Müller
+    pms: Gerd Müller
+    pt: Gerd Müller
+    pt-br: Gerd Müller
+    qu: Gerd Müller
+    rm: Gerd Müller
+    rmy: Gerd Müller
+    ro: Gerd Müller
+    roa-tara: Gerd Müller
+    ru: Герд Мюллер
+    rup: Gerd Müller
+    sc: Gerd Müller
+    scn: Gerd Müller
+    sco: Gerd Müller
+    sdc: Gerd Müller
+    se: Gerd Müller
+    sei: Gerd Müller
+    sgs: Gerd Müller
+    sh: Gerd Müller
+    sk: Gerd Müller
+    sl: Gerd Müller
+    sli: Gerd Müller
+    sn: Gerd Müller
+    sq: Gerd Müller
+    sr: Герд Милер
+    sr-el: Gerd Müller
+    stq: Gerd Müller
+    su: Gerd Müller
+    sv: Gerd Müller
+    sw: Gerd Müller
+    szl: Gerd Müller
+    th: แกร์ท มึลเลอร์
+    tk: Žead Mýula
+    tl: Gerd Müller
+    tpi: Gerd Müller
+    tr: Gerd Müller
+    tyv: Мюллер, Герд
+    uk: Герд Мюллер
+    uz: Gerd Müller
+    vec: Gerd Müller
+    vep: Gerd Müller
+    vi: Gerd Müller
+    vls: Gerd Müller
+    vmf: Gerd Müller
+    vo: Gerd Müller
+    vro: Gerd Müller
+    wa: Gerd Müller
+    war: Gerd Müller
+    wo: Gerd Müller
+    wuu: 盖德·穆勒
+    xh: Gerd Müller
+    yo: Gerd Müller
+    yue: 格得梅拿
+    zea: Gerd Müller
+    zh: 盖德·穆勒
+    zu: Gerd Müller
 ---
-
 # [[Müller,Gerd]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Gerd_Müller,43744|WD~Gerd_Müller,43744]] 

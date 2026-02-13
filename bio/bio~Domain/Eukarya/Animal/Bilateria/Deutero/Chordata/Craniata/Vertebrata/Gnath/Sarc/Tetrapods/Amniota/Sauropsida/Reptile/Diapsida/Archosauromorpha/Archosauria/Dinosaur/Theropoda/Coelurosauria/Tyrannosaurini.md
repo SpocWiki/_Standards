@@ -1,14 +1,47 @@
 ---
 aliases:
+- Tyrannosaurini
+- ティラノサウルス族
+- 暴龙族
 has_id_wikidata: Q21447922
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-subclass_of: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+subclass_of: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TarbosaurusP1050352.jpg
 taxon_name: Tyrannosaurini
+dv_has_:
+  name_:
+    ast: Tyrannosaurini
+    bg: Tyrannosaurini
+    ceb: Tyrannosaurini
+    cs: Tyrannosaurini
+    de: Tyrannosaurini
+    el: Tyrannosaurini
+    en: Tyrannosaurini
+    es: Tyrannosaurini
+    fi: Tyrannosaurini
+    fr: Tyrannosaurini
+    ga: Tyrannosaurini
+    it: Tyrannosaurini
+    ja: ティラノサウルス族
+    la: Tyrannosaurini
+    mul: Tyrannosaurini
+    nl: Tyrannosaurini
+    pl: Tyrannosaurini
+    pt: Tyrannosaurini
+    ro: Tyrannosaurini
+    ru: Tyrannosaurini
+    sq: Tyrannosaurini
+    sv: Tyrannosaurini
+    uk: Tyrannosaurini
+    vec: Tyrannosaurini
+    vi: Tyrannosaurini
+    war: Tyrannosaurini
+    zh: 暴龙族
+    zh-cn: 暴龙族
+    zh-hans: 暴龙族
 ---
-
 # [[Tyrannosaurini]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]] 

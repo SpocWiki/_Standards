@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q17030262
+---
+
 
 # [[US_anti-trust_lawsuit]] 
 

@@ -1,4 +1,72 @@
-
+---
+has_id_wikidata: Q435056
+dv_has_:
+  name_:
+    ar: جون كامبل
+    arz: جون كامبل
+    ast: John W. Campbell
+    azb: جان دبلیو. کمبل
+    bg: Джон Кемпбъл
+    bn: জন ডাব্লিউ ক্যাম্পবেল
+    ca: John W. Campbell
+    ckb: جۆن دەبلیوو کامپبێڵ
+    cs: John Wood Campbell
+    cy: John W. Campbell
+    da: John W. Campbell
+    de: John W. Campbell
+    el: Τζον Γουντ Κάμπελ
+    en: John W. Campbell
+    en-ca: John W. Campbell
+    en-gb: John W. Campbell
+    es: John W. Campbell
+    eu: John W. Campbell
+    fa: جان وی کمبل
+    fi: John W. Campbell
+    fr: John W. Campbell
+    ga: John W. Campbell
+    gl: John W. Campbell
+    he: ג'ון וו. קמפבל
+    hu: John W. Campbell
+    id: John W. Campbell
+    it: John W. Campbell
+    ja: ジョン・W・キャンベル
+    ko: 존 W. 캠벨
+    nb: John W. Campbell
+    nl: John W. Campbell
+    nn: John W. Campbell
+    pap: John W. Campbell
+    pl: John W. Campbell
+    pt: John W. Campbell
+    pt-br: John W. Campbell
+    ro: John W. Campbell
+    ru: Джон Вуд Кэмпбелл
+    sc: John W. Campbell
+    sh: John W. Campbell
+    sk: John W. Campbell
+    sl: John W. Campbell
+    sq: John W. Campbell
+    sv: John W. Campbell
+    uk: Джон Вуд Кемпбелл
+    xmf: ჯონ ვუდ კემპბელი
+    zh: 約翰·W·坎貝爾
+aliases:
+- John W. Campbell
+- John Wood Campbell
+- Τζον Γουντ Κάμπελ
+- Джон Вуд Кемпбелл
+- Джон Вуд Кэмпбелл
+- Джон Кемпбъл
+- ג'ון וו. קמפבל
+- جان دبلیو. کمبل
+- جان وی کمبل
+- جون كامبل
+- جۆن دەبلیوو کامپبێڵ
+- জন ডাব্লিউ ক্যাম্পবেল
+- ჯონ ვუდ კემპბელი
+- ジョン・W・キャンベル
+- 約翰·W·坎貝爾
+- 존 W. 캠벨
+---
 # [[Campbell,John_Wood]] 
 
 #is_/different_from :: [[Campbell,Joseph-John]]. 

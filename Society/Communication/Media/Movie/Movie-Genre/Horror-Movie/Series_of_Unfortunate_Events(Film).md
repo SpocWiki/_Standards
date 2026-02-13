@@ -1,4 +1,107 @@
-
+---
+has_id_wikidata: Q116905
+dv_has_:
+  name_:
+    ar: 'ليموني سنيكتس: سلسلة من الأحداث المأساوية'
+    arz: 'ليمونى سنيكتس: سلسله من الاحداث الماساويه'
+    ast: Lemony Snicket's A Series of Unfortunate Events
+    bg: 'Лемъни Сникет: Поредица от злополучия'
+    bn: লেমনি স্নিকেটের এ সিরিজ অফ আনফরচুনেট ইভেন্টস
+    ca: Un seguit de desgràcies catastròfiques de Lemony Snicket
+    cs: Řada nešťastných příhod
+    cy: Lemony Snicket's a Series of Unfortunate Events
+    da: Lemony Snicket - En ulykke kommer sjældent alene
+    de: Lemony Snicket – Rätselhafte Ereignisse
+    de-ch: Lemony Snicket – Rätselhafte Ereignisse
+    en: Lemony Snicket's A Series of Unfortunate Events
+    en-ca: Lemony Snicket's A Series of Unfortunate Events
+    en-gb: Lemony Snicket's A Series of Unfortunate Events
+    es: Lemony Snicket's a series of unfortunate events
+    fa: بدبیاریها
+    fi: Lemony Snicketin surkeiden sattumuksien sarja
+    fr: Les Désastreuses Aventures des orphelins Baudelaire
+    ga: Lemony Snicket's A Series of Unfortunate Events
+    gl: Unha serie de sucesos desafortunados, de Lemony Snicket
+    he: סדרה של צרות
+    hr: Niz nesretnih događaja
+    hu: 'Lemony Snicket: A balszerencse áradása'
+    hy: Լեմոնի Սնիքեթ․ 33 դժբախտություն
+    id: Lemony Snicket's A Series of Unfortunate Events
+    io: Lemony Snicket's A Series of Unfortunate Events
+    is: Lemony Snicket's A Series of Unfortunate Events
+    it: Lemony Snicket - Una serie di sfortunati eventi
+    ja: レモニー・スニケットの世にも不幸せな物語
+    ka: 'ლემონი სნიკეტი: 33 უიღბლობა'
+    ko: 레모니 스니켓의 위험한 대결
+    lv: Lemonija Sniketa nelaimīgo notikumu virkne
+    mk: Низа несреќни случки на Лемони Сникет
+    ms: Lemony Snicket's A Series of Unfortunate Events
+    nah: Lemony Snicket's A Series of Unfortunate Events
+    nb: En serie uheldige hendelser
+    nl: Lemony Snicket's A Series of Unfortunate Events
+    nn: En serie uheldige hendelser
+    pa: ਲੈਮੋਨੀ ਸਨਕੇਟ ਦੀ ਮੰਦਭਾਗੀ ਘਟਨਾਵਾਂ ਦੀ ਇੱਕ ਲੜੀ
+    pl: 'Lemony Snicket: Seria niefortunnych zdarzeń'
+    pt: Lemony Snicket's A Series of Unfortunate Events
+    pt-br: Lemony Snicket's A Series of Unfortunate Events
+    ro: Lemony Snicket - O serie de evenimente nefericite
+    ru: 'Лемони Сникет: 33 несчастья'
+    sh: Lemony Snicket's A Series of Unfortunate Events
+    sq: Lemony Snicket's A Series of Unfortunate Events
+    sr: Серија несрећних догађаја Лемонија Сникета
+    sr-ec: Серија несрећних догађаја Лемонија Сникета
+    sr-el: Serija nesrećnih događaja Lemonija Sniketa
+    sv: Lemony Snickets berättelse om syskonen Baudelaires olycksaliga liv
+    th: เลโมนี สนิกเก็ต อยากให้เรื่องนี้ไม่มีโชคร้าย
+    tr: Talihsiz Serüvenler Dizisi
+    uk: 'Лемоні Снікет: 33 нещастя'
+    zh: 雷蒙·斯尼奇的不幸历险
+    zh-cn: 雷蒙·斯尼奇的不幸历险
+    zh-hans: 雷蒙·斯尼奇的不幸历险
+    zh-hant: 波特萊爾的冒險
+    zh-hk: 尼蒙利斯連環不幸事件
+    zh-sg: 波特莱而的冒险
+    zh-tw: 波特萊爾的冒險
+aliases:
+- En serie uheldige hendelser
+- Lemonija Sniketa nelaimīgo notikumu virkne
+- Lemony Snicket - En ulykke kommer sjældent alene
+- Lemony Snicket - O serie de evenimente nefericite
+- Lemony Snicket - Una serie di sfortunati eventi
+- Lemony Snicket – Rätselhafte Ereignisse
+- Lemony Snicket's A Series of Unfortunate Events
+- 'Lemony Snicket: A balszerencse áradása'
+- 'Lemony Snicket: Seria niefortunnych zdarzeń'
+- Lemony Snicketin surkeiden sattumuksien sarja
+- Lemony Snickets berättelse om syskonen Baudelaires olycksaliga liv
+- Les Désastreuses Aventures des orphelins Baudelaire
+- Niz nesretnih događaja
+- Serija nesrećnih događaja Lemonija Sniketa
+- Talihsiz Serüvenler Dizisi
+- Un seguit de desgràcies catastròfiques de Lemony Snicket
+- Unha serie de sucesos desafortunados, de Lemony Snicket
+- Řada nešťastných příhod
+- 'Лемоні Снікет: 33 нещастя'
+- 'Лемони Сникет: 33 несчастья'
+- 'Лемъни Сникет: Поредица от злополучия'
+- Низа несреќни случки на Лемони Сникет
+- Серија несрећних догађаја Лемонија Сникета
+- Լեմոնի Սնիքեթ․ 33 դժբախտություն
+- סדרה של צרות
+- بدبیاریها
+- 'ليمونى سنيكتس: سلسله من الاحداث الماساويه'
+- 'ليموني سنيكتس: سلسلة من الأحداث المأساوية'
+- লেমনি স্নিকেটের এ সিরিজ অফ আনফরচুনেট ইভেন্টস
+- ਲੈਮੋਨੀ ਸਨਕੇਟ ਦੀ ਮੰਦਭਾਗੀ ਘਟਨਾਵਾਂ ਦੀ ਇੱਕ ਲੜੀ
+- เลโมนี สนิกเก็ต อยากให้เรื่องนี้ไม่มีโชคร้าย
+- 'ლემონი სნიკეტი: 33 უიღბლობა'
+- レモニー・スニケットの世にも不幸せな物語
+- 尼蒙利斯連環不幸事件
+- 波特莱而的冒险
+- 波特萊爾的冒險
+- 雷蒙·斯尼奇的不幸历险
+- 레모니 스니켓의 위험한 대결
+---
 #is_a :: [[../../../Creative_Work/Movie|movie]] 
 #has_/director :: [[Brad Silberling]] 
 

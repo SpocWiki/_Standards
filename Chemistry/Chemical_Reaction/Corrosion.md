@@ -1,25 +1,208 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]]"
-    - "[[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]]"
-    - "[[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]]"
-    - "[[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]]"
-    - "[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]"
-    - "[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]"
+  - '[[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]]'
+  - '[[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]]'
+  - '[[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]]'
+  - '[[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]]'
+  - '[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]'
+  - '[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]]"
-  - "[[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]]"
-  - "[[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]]"
-  - "[[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]]"
-  - "[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]"
-  - "[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]"
+- '[[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]]'
+- '[[/_Standards/Chemistry/Chemical_Reaction/Corrosion|Corrosion]]'
+- '[[/_public/Chemistry/Chemical_Reaction/Corrosion.public|Corrosion.public]]'
+- '[[/_internal/Chemistry/Chemical_Reaction/Corrosion.internal|Corrosion.internal]]'
+- '[[/_protect/Chemistry/Chemical_Reaction/Corrosion.protect|Corrosion.protect]]'
+- '[[/_private/Chemistry/Chemical_Reaction/Corrosion.private|Corrosion.private]]'
+- '[[/_personal/Chemistry/Chemical_Reaction/Corrosion.personal|Corrosion.personal]]'
+- '[[/_secret/Chemistry/Chemical_Reaction/Corrosion.secret|Corrosion.secret]]'
+has_id_wikidata: Q137056
+dv_has_:
+  name_:
+    af: Korrosie
+    ar: تآكل
+    ast: Escomiu
+    az: Korroziya
+    azb: یئییلمه
+    ba: коррозия
+    be: карозія
+    be-tarask: карозія
+    bg: Корозия
+    bn: জারণ
+    bs: Korozija
+    ca: corrosió
+    cdo: Săng-cĭng
+    ckb: داخوران
+    cs: koroze
+    cy: cyrydiad
+    da: Korrosion
+    de: Korrosion
+    de-ch: Korrosion
+    el: Διάβρωση
+    en: corrosion
+    en-ca: Corrosion
+    en-gb: corrosion
+    eo: korodo
+    es: corrosión
+    et: korrosioon
+    eu: Korrosio
+    fa: خوردگی
+    fi: korroosio
+    fr: corrosion
+    fy: Korroazje
+    ga: creimeadh
+    gl: Corrosión
+    gsw: Korrosion
+    gu: ક્ષારણ
+    he: קורוזיה
+    hi: संक्षारण
+    hr: Korozija
+    hu: korrózió
+    hy: Կոռոզիա
+    id: Korosi
+    io: Korodo
+    is: Tæring
+    it: corrosione
+    ja: 腐食
+    jv: Korosi
+    ka: კოროზია
+    kk: Жегіде
+    kk-arab: جەگىدە
+    kk-cn: جەگىدە
+    kk-cyrl: Жегіде
+    kk-kz: Жегіде
+    kk-latn: Jegide
+    kk-tr: Jegide
+    ko: 부식
+    ku: Korozyon
+    ky: Металл коррозиясы
+    lt: korozija
+    lv: korozija
+    mk: корозија
+    ml: ലോഹനാശനം
+    mn: Зэврэлт
+    ms: Pengakisan
+    myv: Чемень (кшнипонат)
+    nan: Seⁿ-sian
+    nb: korrosjon
+    nl: corrosie
+    nn: korrosjon
+    oc: Corrosion
+    pa: ਜ਼ੰਗ
+    pl: korozja
+    pt: corrosão
+    pt-br: Corrosão
+    ro: coroziune
+    ru: коррозия
+    sat: ᱠᱷᱤᱞᱟ.
+    se: korrošuvdna
+    sh: Korozija
+    sk: Korózia
+    sl: razjedanje
+    smn: korroosio
+    sms: korroosio
+    sn: Kun'ura
+    sq: Korrozioni
+    sr: корозија
+    sr-ec: Корозија
+    sr-el: Korozija
+    su: Korosi
+    sv: korrosion
+    ta: அரிமானம்
+    th: การกัดกร่อน
+    ti: ምራት
+    tr: Korozyon
+    tt: тутыгу
+    udm: сыномон
+    uk: корозія
+    ur: تآکل
+    uz: Korroziya
+    vi: Sự ăn mòn
+    wuu: 腐蚀
+    yue: 腐蝕
+    za: Myaex
+    zh: 腐蚀
+    zh-cn: 腐蚀
+    zh-hans: 腐蚀
+    zh-hant: 腐蝕
+    zh-hk: 腐蝕
+    zh-sg: 腐蚀
+    zh-tw: 腐蝕
+aliases:
+- coroziune
+- corrosie
+- corrosion
+- corrosione
+- corrosió
+- corrosión
+- corrosão
+- creimeadh
+- cyrydiad
+- Escomiu
+- Jegide
+- korodo
+- Korosi
+- koroze
+- Korozija
+- korozja
+- Korozyon
+- Korroazje
+- korroosio
+- Korrosie
+- Korrosio
+- korrosion
+- korrosioon
+- korrosjon
+- Korrozioni
+- Korroziya
+- korrošuvdna
+- korrózió
+- Korózia
+- Kun'ura
+- Myaex
+- Pengakisan
+- razjedanje
+- Seⁿ-sian
+- Săng-cĭng
+- Sự ăn mòn
+- Tæring
+- Διάβρωση
+- Жегіде
+- Зэврэлт
+- карозія
+- корозія
+- корозија
+- Корозия
+- коррозия
+- Металл коррозиясы
+- сыномон
+- тутыгу
+- Чемень (кшнипонат)
+- Կոռոզիա
+- קורוזיה
+- تآكل
+- تآکل
+- جەگىدە
+- خوردگی
+- داخوران
+- یئییلمه
+- संक्षारण
+- জারণ
+- ਜ਼ੰਗ
+- ક્ષારણ
+- அரிமானம்
+- ലോഹനാശനം
+- การกัดกร่อน
+- კოროზია
+- ምራት
+- ᱠᱷᱤᱞᱟ.
+- 腐蚀
+- 腐蝕
+- 腐食
+- 부식
 ---
-
 # [[Corrosion]] 
 
 #is_/same_as :: [[../../WikiData/WD~Corrosion,137056|WD~Corrosion,137056]] 

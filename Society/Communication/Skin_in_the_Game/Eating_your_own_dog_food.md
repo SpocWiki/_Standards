@@ -1,10 +1,26 @@
 ---
 aliases:
-  - dogfooding
-  - Eating_your_own_dog_food
-  - Eating your own dog food
+- dogfooding
+- Eating your own dog food
+- Eating_your_own_dog_food
+- تناول طعام كلبك
+- خوردن غذای سگ خود
+- ドッグフーディング
+- 개밥 먹기
+has_id_wikidata: Q3033752
+dv_has_:
+  name_:
+    ar: تناول طعام كلبك
+    en: eating your own dog food
+    es: Dogfooding
+    fa: خوردن غذای سگ خود
+    fr: Dogfooding
+    it: Dogfooding
+    ja: ドッグフーディング
+    ko: 개밥 먹기
+    sl: dogfooding
+    zh: Eating your own dog food
 ---
-
 # [[Eating_your_own_dog_food]] 
 
 #is_/similar_to :: [[Skin_in_the_Game]] 

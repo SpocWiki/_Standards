@@ -1,47 +1,155 @@
 ---
 aliases:
-  - Amid
+- aimíd
+- Amid
+- Amida
+- Amidai
+- Amide
+- amides
+- amidi
+- Amidlanish
+- Amido
+- amidy
+- amidă
+- Amied
+- Amiidid
+- Amit
+- ammidi
+- Amīdi
+- Karboxamid
+- αμίδιο
+- амід
+- аміди
+- Аміды
+- Амид
+- Амидтер
+- амидъёс
+- амиды
+- ամիդներ
+- אמיד
+- آمید
+- أميد
+- एमाइड
+- அமைட்டு
+- ಅಮೈಡುಗಳು
+- เอไมด์
+- アミド
+- 酰胺
+- 醯胺
+- 아마이드
 has_id_wikidata: Q188777
 different_from:
-  - "[[_Standards/WikiData/WD~carboxamides,355679]]"
-  - "[[_Standards/WikiData/WD~imide,407944]]"
-  - "[[_Standards/WikiData/WD~amide ion,4026895]]"
-  - "[[_Standards/WikiData/WD~metal amide,4064291]]"
+- '[[_Standards/WikiData/WD~carboxamides,355679]]'
+- '[[_Standards/WikiData/WD~imide,407944]]'
+- '[[_Standards/WikiData/WD~amide_ion,4026895]]'
+- '[[_Standards/WikiData/WD~metal_amide,4064291]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~Encyclopedic Lexicon,4532135]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian Soviet Encyclopedia, vol. 1,123560817]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~nitrogen compound,3685323]]"
-  - "[[_Standards/WikiData/WD~oxo compound,19885597]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Amides,8248726]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~amide group,9376026]]"
+- '[[_Standards/WikiData/WD~nitrogen_compound,3685323]]'
+- '[[_Standards/WikiData/WD~oxo_compound,19885597]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Amides,8248726]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~amide_group,9376026]]'
 part_of:
-  - "[[_Standards/WikiData/WD~cellular amide metabolic process,14916180]]"
-  - "[[_Standards/WikiData/WD~amide binding,15321544]]"
-  - "[[_Standards/WikiData/WD~amide transport,21095687]]"
-  - "[[_Standards/WikiData/WD~amide biosynthetic process,22274684]]"
-  - "[[_Standards/WikiData/WD~amide transmembrane transporter activity,22320685]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
+- '[[_Standards/WikiData/WD~cellular_amide_metabolic_process,14916180]]'
+- '[[_Standards/WikiData/WD~amide_binding,15321544]]'
+- '[[_Standards/WikiData/WD~amide_transport,21095687]]'
+- '[[_Standards/WikiData/WD~amide_biosynthetic_process,22274684]]'
+- '[[_Standards/WikiData/WD~amide_transmembrane_transporter_activity,22320685]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Dewey_Decimal_Classification:
-  - "547.042"
-  - "661.894"
-CXSMILES: "[*]N([*])[*] |$R1;;R2;Acyl_p$|"
-SMARTS_notation: "[NX3][CX3](=[OX1])[6]"
+- 547.042
+- 661.894
+CXSMILES: '[*]N([*])[*] |$R1;;R2;Acyl_p$|'
+SMARTS_notation: '[NX3][CX3](=[OX1])[#6]'
 Commons_category: Amides
 UMLS_CUI: C0002482
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/AMIDI.html
 dv_is_:
-  same_as: "[[WD~Amide,188777]]"
+  same_as: '[[WD~Amide,188777]]'
 dv_has_:
   formula_:
     structural: R−C(=O)−NR′R″
-dv_is_same_as: "[[WD~Amide,188777]]"
+  name_:
+    af: Amied
+    ar: أميد
+    ast: Amida
+    be: Аміды
+    be-tarask: амід
+    bg: Амид
+    bs: Amid
+    ca: amida
+    cs: amidy
+    cy: Amid
+    da: Amid
+    de: Amide
+    el: αμίδιο
+    en: amides
+    eo: amido
+    es: amida
+    et: Amiidid
+    eu: Amida
+    fa: آمید
+    fi: amidi
+    fr: amide
+    ga: aimíd
+    gl: amida
+    he: אמיד
+    hi: एमाइड
+    hr: amidi
+    hu: amid
+    hy: ամիդներ
+    id: Amida
+    io: Amido
+    it: ammidi
+    ja: アミド
+    jv: Amida
+    kk: Амидтер
+    kn: ಅಮೈಡುಗಳು
+    ko: 아마이드
+    lt: Amidai
+    lv: Amīdi
+    mk: Амид
+    ms: Amida
+    nb: amid
+    nl: amide
+    nn: amid
+    oc: Amida
+    pl: amid
+    pt: amida
+    ro: amidă
+    ru: амиды
+    sh: Amid
+    sk: Karboxamid
+    sl: amid
+    sr: Amid
+    sr-ec: Амид
+    sr-el: Amid
+    sv: Amid
+    ta: அமைட்டு
+    th: เอไมด์
+    tl: Amide
+    tr: Amit
+    udm: амидъёс
+    uk: аміди
+    uz: Amidlanish
+    vi: amid
+    war: Amide
+    yue: 酰胺
+    zh: 酰胺
+    zh-cn: 酰胺
+    zh-hans: 酰胺
+    zh-hant: 醯胺
+    zh-hk: 醯胺
+    zh-sg: 酰胺
+    zh-tw: 醯胺
+dv_is_same_as: '[[WD~Amide,188777]]'
 dv_has_formula_structural: R−C(=O)−NR′R″
 ---
-
 # [[Amide]] 
 
 is_same_as = `=this.dv_is_same_as` 

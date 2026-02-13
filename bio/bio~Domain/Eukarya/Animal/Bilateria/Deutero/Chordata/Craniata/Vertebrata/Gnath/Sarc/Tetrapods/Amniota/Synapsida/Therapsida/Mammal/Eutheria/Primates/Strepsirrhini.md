@@ -1,7 +1,50 @@
 ---
 aliases:
-  - Strepsirrhini
-  - Strepsirhini
+- Estrepsirrins
+- Feuchtnasenprimaten
+- Füechtnasenaffe
+- Halfape
+- Halfapen
+- Halvabe
+- Hálfapar
+- Linh trưởng mũi ướt
+- Lägre primater
+- Magí Ndahalinígíí
+- mokronosci
+- nemli burunlu maymunlar
+- orrtükrösök
+- Poloopice
+- puoliapinat
+- Pusbeždžionės
+- Slapjdeguna pērtiķi
+- Strepsirhini
+- Strepsiriinsed primaadid
+- Strepsirino
+- Strepsirrhini
+- Wiatnöösaaben
+- Yaşburun meymunlar
+- Členitonosoblížne
+- Στρεψίρρινοι
+- влажноносни примати
+- макраносыя малпы
+- Мокроносі
+- мокроносые приматы
+- полумаймуни
+- בעלי אף לח
+- خیسبینیان
+- منثنيات المنخرين
+- هباريات
+- گلی نک
+- स्ट्रेपसिराइनी
+- আর্দ্রনাসিক্যবাহী
+- อันดับย่อยไพรเมตจมูกเปียก
+- გვერდო ქიეფი
+- ნახევრად მაიმუნები
+- 原猴
+- 曲鼻亚目
+- 曲鼻亞目
+- 曲鼻猿亜目
+- 곡비원아목
 has_id_wikidata: Q82265
 title: Strepsirrhini
 taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
@@ -9,14 +52,97 @@ instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 943774
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20strepsirrhine%20range%20with%20fossil%20sites.png
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Propithecus%20verreauxi.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ringtailedlemur%20-%2024937.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Propithecus%20verreauxi.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ringtailedlemur%20-%2024937.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Suborder%20Strepsirrhini.jpg
 MeSH_tree_code: B01.050.150.900.649.313.988.700
 Commons_category: Strepsirrhini
 taxon_name: Strepsirrhini
+dv_has_:
+  name_:
+    af: Halfape
+    an: Strepsirrhini
+    ar: منثنيات المنخرين
+    arz: هباريات
+    ast: Strepsirrhini
+    az: Yaşburun meymunlar
+    be: макраносыя малпы
+    be-tarask: Strepsirrhini
+    bg: полумаймуни
+    bn: আর্দ্রনাসিক্যবাহী
+    bs: Strepsirrhini
+    ca: Estrepsirrins
+    ceb: Strepsirrhini
+    cs: Poloopice
+    da: Halvabe
+    de: Feuchtnasenprimaten
+    el: Στρεψίρρινοι
+    en: Strepsirrhini
+    eo: Strepsirino
+    es: Strepsirrhini
+    et: Strepsiriinsed primaadid
+    eu: Strepsirrhini
+    ext: Strepsirrhini
+    fa: خیسبینیان
+    fi: puoliapinat
+    fr: Strepsirrhini
+    frr: Wiatnöösaaben
+    ga: Strepsirrhini
+    gl: Strepsirrhini
+    gsw: Füechtnasenaffe
+    he: בעלי אף לח
+    hi: स्ट्रेपसिराइनी
+    hr: Strepsirrhini
+    hu: orrtükrösök
+    ia: Strepsirrhini
+    id: Strepsirrhini
+    ie: Strepsirrhini
+    io: Strepsirrhini
+    is: Hálfapar
+    it: Strepsirrhini
+    ja: 曲鼻猿亜目
+    jv: Strepsirrhini
+    ka: ნახევრად მაიმუნები
+    ko: 곡비원아목
+    la: Strepsirrhini
+    lij: Strepsirrhini
+    lt: Pusbeždžionės
+    lv: Slapjdeguna pērtiķi
+    mk: влажноносни примати
+    mul: Strepsirrhini
+    nb: Strepsirrhini
+    nl: Halfapen
+    nn: Strepsirrhini
+    nv: Magí Ndahalinígíí
+    oc: Strepsirrhini
+    pl: Strepsirrhini
+    pnb: گلی نک
+    pt: Strepsirrhini
+    pt-br: Strepsirrhini
+    ro: Strepsirrhini
+    ru: мокроносые приматы
+    sco: Strepsirrhini
+    sh: Strepsirrhini
+    sk: Členitonosoblížne
+    sl: mokronosci
+    sq: Strepsirrhini
+    sr: Strepsirrhini
+    sv: Lägre primater
+    th: อันดับย่อยไพรเมตจมูกเปียก
+    tl: Strepsirrhini
+    tr: nemli burunlu maymunlar
+    uk: Мокроносі
+    vi: Linh trưởng mũi ướt
+    vo: Strepsirrhini
+    war: Strepsirrhini
+    wuu: 原猴
+    xmf: გვერდო ქიეფი
+    yue: 原猴
+    zh: 曲鼻亚目
+    zh-cn: 曲鼻亚目
+    zh-hans: 曲鼻亚目
+    zh-tw: 曲鼻亞目
 ---
-
 # [[Strepsirrhini]] 
 
 ![Lesser bushbaby](Strepsirrhini/galago.jpg) 

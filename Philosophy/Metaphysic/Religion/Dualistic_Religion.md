@@ -1,11 +1,52 @@
 ---
 aliases:
+- cosmologia dualística
+- cosmologie dualistă
+- cosmoloxía dualista
+- dualisma kosmologio
+- Dualismus (náboženství)
+- dualistic cosmology
+- dualistische kosmologie
+- dualistična kozmologija
+- Düalist kozmoloji
+- Kosmologi dualistik
+- kozmikus dualizmus
+- Дуалістичні міфи
+- Дуалистические мифы
+- קוסמולוגיה דואליסטית
+- ثنویت
+- دوه ګونی باور
+- द्वैतवादी ब्रह्माण्ड विज्ञान
+- দ্বৈতবাদী সৃষ্টিতত্ত্ব
+- 二元宇宙觀
+- 二元論的宇宙論
 has_id_wikidata: Q5310255
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~dualism,167312]]"
-instance_of: "[[_Standards/WikiData/WD~dualism,167312]]"
-subclass_of: "[[_Standards/WikiData/WD~religious_cosmology,2998321]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~dualism,167312]]'
+instance_of: '[[_Standards/WikiData/WD~dualism,167312]]'
+subclass_of: '[[_Standards/WikiData/WD~religious_cosmology,2998321]]'
+dv_has_:
+  name_:
+    bn: দ্বৈতবাদী সৃষ্টিতত্ত্ব
+    ca: cosmologia dualística
+    cs: Dualismus (náboženství)
+    en: dualistic cosmology
+    eo: dualisma kosmologio
+    fa: ثنویت
+    gl: cosmoloxía dualista
+    he: קוסמולוגיה דואליסטית
+    hi: द्वैतवादी ब्रह्माण्ड विज्ञान
+    hu: kozmikus dualizmus
+    id: Kosmologi dualistik
+    ja: 二元論的宇宙論
+    nl: dualistische kosmologie
+    ps: دوه ګونی باور
+    ro: cosmologie dualistă
+    ru: Дуалистические мифы
+    sl: dualistična kozmologija
+    tr: Düalist kozmoloji
+    uk: Дуалістичні міфи
+    zh: 二元宇宙觀
 ---
-
 # [[Dualistic_Religion]] 
 
 #is_/same_as :: [[WD~Dualistic_Religion,5310255]] 

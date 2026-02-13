@@ -1,32 +1,115 @@
 ---
 aliases:
-  - Paleo-Indians
-  - Paleo-Indian
+- Paleo-hindular
+- Paleo-Indian
+- Paleo-Indianen
+- Paleo-indianere
+- Paleo-Indians
+- Paleo-Kızılderililer
+- Paleoamericani
+- Paleoamericano
+- paleoamericans
+- Paleoamericanu
+- Paleoindianer
+- Paleoindianie
+- Paleoindians
+- Paleoindiar
+- Paleoindijanci
+- Paleoindiáni
+- paleoindiánok
+- Paleoindėnai
+- paleointiaanit
+- Paläoindiana
+- Paläoindianer
+- Palæoindiansk kultur
+- Paléoaméricains
+- Praindianoj
+- pàleo-americani
+- Палеаіндзейцы
+- Палеоіндіанці
+- Палеоиндейцы
+- Палеоиндианци
+- פלאו-אינדיאנים
+- سرخپوستان پالئو
+- لرغوني سورپوستان
+- هنود باليو
+- पेलियो-इंडियन
+- パレオ・インディアン
+- 古印地安人
+- 고인디언
 has_id_wikidata: Q888099
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 Commons_category: Lithic period
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamiento%20de%20America%20-%20Teor%C3%ADa%20P%20Tard%C3%ADo.png
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Paleo-Indians,888099]]"
-    - "[[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]]"
-    - "[[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]]"
-    - "[[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/Paleo-Indian.protect|Paleo-Indian.protect]]"
-    - "[[/_private/Earth/Continent/America~North/Paleo-Indian.private|Paleo-Indian.private]]"
-    - "[[/_personal/Earth/Continent/America~North/Paleo-Indian.personal|Paleo-Indian.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/Paleo-Indian.secret|Paleo-Indian.secret]]"
+  - '[[../../../WikiData/WD~Paleo-Indians,888099]]'
+  - '[[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]]'
+  - '[[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]]'
+  - '[[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/Paleo-Indian.protect|Paleo-Indian.protect]]'
+  - '[[/_private/Earth/Continent/America~North/Paleo-Indian.private|Paleo-Indian.private]]'
+  - '[[/_personal/Earth/Continent/America~North/Paleo-Indian.personal|Paleo-Indian.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/Paleo-Indian.secret|Paleo-Indian.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Paleo-Indians,888099]]"
-  - "[[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]]"
-  - "[[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]]"
-  - "[[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/Paleo-Indian.protect|Paleo-Indian.protect]]"
-  - "[[/_private/Earth/Continent/America~North/Paleo-Indian.private|Paleo-Indian.private]]"
-  - "[[/_personal/Earth/Continent/America~North/Paleo-Indian.personal|Paleo-Indian.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/Paleo-Indian.secret|Paleo-Indian.secret]]"
+- '[[../../../WikiData/WD~Paleo-Indians,888099]]'
+- '[[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]]'
+- '[[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]]'
+- '[[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]]'
+- '[[/_protect/Earth/Continent/America~North/Paleo-Indian.protect|Paleo-Indian.protect]]'
+- '[[/_private/Earth/Continent/America~North/Paleo-Indian.private|Paleo-Indian.private]]'
+- '[[/_personal/Earth/Continent/America~North/Paleo-Indian.personal|Paleo-Indian.personal]]'
+- '[[/_secret/Earth/Continent/America~North/Paleo-Indian.secret|Paleo-Indian.secret]]'
+dv_has_:
+  name_:
+    ar: هنود باليو
+    ast: Paleoamericanu
+    bar: Paläoindiana
+    be: Палеаіндзейцы
+    be-tarask: палеаіндзейцы
+    bg: Палеоиндианци
+    ca: paleoamericans
+    cs: Paleoindiáni
+    da: Palæoindiansk kultur
+    de: Paläoindianer
+    en: Paleo-Indians
+    eo: Praindianoj
+    es: Paleoamericano
+    eu: Paleoindiar
+    fa: سرخپوستان پالئو
+    fi: paleointiaanit
+    fr: Paléoaméricains
+    gl: Paleoamericano
+    he: פלאו-אינדיאנים
+    hi: पेलियो-इंडियन
+    hr: Paleoindijanci
+    hu: paleoindiánok
+    id: Paleo-Indian
+    it: Paleoamericani
+    ja: パレオ・インディアン
+    ko: 고인디언
+    lt: Paleoindėnai
+    nb: Paleo-indianere
+    nl: Paleo-Indianen
+    oc: Paleoindians
+    pl: Paleoindianie
+    ps: لرغوني سورپوستان
+    pt: Paleoamericano
+    ru: Палеоиндейцы
+    sh: Paleoindijanci
+    sk: Paleoindiáni
+    sr: Paleoindijanci
+    sv: Paleoindianer
+    tr: Paleo-Kızılderililer
+    uk: Палеоіндіанці
+    uz: Paleo-hindular
+    vec: pàleo-americani
+    wuu: 古印地安人
+    zh: 古印地安人
+    zh-hant: 古印地安人
+    zh-hk: 古印地安人
+    zh-tw: 古印地安人
 ---
-
 # [[Paleo-Indian]] 
 
 #is_/same_as :: [[WD~Paleo-Indians,888099]] 

@@ -1,14 +1,104 @@
 ---
 aliases:
+- camada de sessão
+- capa de sesión
+- capa de sessió
+- couche session
+- istuntokerros
+- lapisan sesi
+- livello di sessione
+- Nivell de session
+- relační vrstva
+- saio geruza
+- seanca tavolo
+- Seansikiht
+- sejna plast
+- sesijas slānis
+- sesjonslaget
+- sessielaag
+- session layer
+- Sessionslaget
+- sessionsskikt
+- Sitzungsschicht
+- sloj sesije
+- tầng phiên
+- viszonyréteg
+- warstwa sesji
+- Επίπεδο συνόδου
+- сеансовий рівень
+- сеансовый уровень
+- Сесиен слой
+- Сесиски слој
+- слој сесије
+- שכבת השיחה של מודל ה-OSI
+- طبقة الجلسة
+- لایه نشست
+- સત્ર સ્તર
+- அமர்வு அடுக்கு
+- セッション層
+- 会话层
+- 會話層
+- 세션 계층
 has_id_wikidata: Q216292
-part_of: "[[_Standards/WikiData/WD~OSI_model,93312]]"
-follows: "[[_Standards/WikiData/WD~transport_layer,209372]]"
-followed_by: "[[_Standards/WikiData/WD~presentation_layer,215121]]"
-instance_of: "[[_Standards/WikiData/WD~OSI_model_layer,65054805]]"
-standards_body: "[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]"
+part_of: '[[_Standards/WikiData/WD~OSI_model,93312]]'
+follows: '[[_Standards/WikiData/WD~transport_layer,209372]]'
+followed_by: '[[_Standards/WikiData/WD~presentation_layer,215121]]'
+instance_of: '[[_Standards/WikiData/WD~OSI_model_layer,65054805]]'
+standards_body: '[[_Standards/WikiData/WD~International_Organization_for_Standardization,15028]]'
 official_website: https://www.iso.org/ics/35.100.50/x/
+dv_has_:
+  name_:
+    ar: طبقة الجلسة
+    bg: Сесиен слой
+    bs: sloj sesije
+    ca: capa de sessió
+    cs: relační vrstva
+    da: Sessionslaget
+    de: Sitzungsschicht
+    el: Επίπεδο συνόδου
+    en: session layer
+    eo: seanca tavolo
+    es: capa de sesión
+    et: Seansikiht
+    eu: saio geruza
+    fa: لایه نشست
+    fi: istuntokerros
+    fr: couche session
+    gu: સત્ર સ્તર
+    he: שכבת השיחה של מודל ה-OSI
+    hu: viszonyréteg
+    id: lapisan sesi
+    it: livello di sessione
+    ja: セッション層
+    ko: 세션 계층
+    lmo: Nivell de session
+    lv: sesijas slānis
+    mk: Сесиски слој
+    ms: lapisan sesi
+    nb: sesjonslaget
+    nl: sessielaag
+    nn: sesjonslaget
+    pl: warstwa sesji
+    pt: camada de sessão
+    ru: сеансовый уровень
+    sh: sloj sesije
+    sl: sejna plast
+    sr: слој сесије
+    sr-ec: Слој сесије
+    sr-el: sloj sesije
+    sv: sessionsskikt
+    ta: அமர்வு அடுக்கு
+    uk: сеансовий рівень
+    vi: tầng phiên
+    wuu: 会话层
+    zh: 会话层
+    zh-cn: 会话层
+    zh-hans: 会话层
+    zh-hant: 會話層
+    zh-hk: 會話層
+    zh-sg: 会话层
+    zh-tw: 會話層
 ---
-
 # [[OSI~5-Session]] 
 
 #is_/same_as :: [[WD~Session_layer,216292]]

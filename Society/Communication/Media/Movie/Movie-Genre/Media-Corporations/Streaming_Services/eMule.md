@@ -1,4 +1,57 @@
-
+---
+has_id_wikidata: Q217195
+dv_has_:
+  name_:
+    ar: إي ميول
+    ca: eMule
+    da: eMule
+    de: eMule
+    en: eMule
+    eo: eMule
+    es: eMule
+    et: EMule
+    eu: eMule
+    fa: ایمیول
+    fi: EMule
+    fr: eMule
+    gl: eMule
+    he: EMule
+    hu: EMule
+    it: eMule
+    ja: eMule
+    ko: 이뮬
+    lmo: EMule
+    lt: eMule
+    mk: Emule
+    nl: eMule
+    nn: eMule
+    pl: eMule
+    pt: eMule
+    ro: eMule
+    ru: eMule
+    sk: Emule
+    sl: eMule
+    sq: EMule
+    sr: EMule
+    sv: eMule
+    tr: eMule
+    uk: eMule
+    vec: EMule
+    vi: eMule
+    wuu: EMule
+    zh: EMule
+    zh-cn: eMule
+    zh-hans: eMule
+    zh-hant: eMule
+    zh-hk: eMule
+    zh-sg: eMule
+    zh-tw: eMule
+aliases:
+- eMule
+- إي ميول
+- ایمیول
+- 이뮬
+---
 ## #has_/text_of_/abstract 
 
 > **eMule** is a free peer-to-peer file sharing application for Microsoft Windows. 

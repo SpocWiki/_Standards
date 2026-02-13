@@ -1,22 +1,64 @@
 ---
 aliases:
-  - Pycnogonida
-  - Pantopoda
-  - Sea spider
-  - Sea spiders
-  - Sea_Spider
-  - Sea Spider
-  - havedderkopper
-  - Zeespinnen
+- Aranha-do-mar
+- Asselspinnen
+- Bui-bahari
+- Deniz örümcekleri
+- Dəniz hörümçəkləri
+- havedderkopper
+- havkongroar
+- havsspindlar
+- Jūraszirnekļi
+- Kaka sa dagat
+- kikutnice
+- Laba-laba laut
+- Mar-araneo
+- merilukit
+- Morski pauci
+- Nhện biển
+- Nogači
+- Nohatky
+- Pantopoda
+- Picnogònid
+- Pycnogonida
+- sea speeder
+- Sea spider
+- Sea spiders
+- Sea_Spider
+- Sækónguló
+- Tónteel naʼashjéʼii
+- Zeespinnen
+- ászkapókok
+- Παντόποδα
+- Марскія павукі
+- Морски пајаци
+- морски пауци
+- Морски паяци
+- морские пауки
+- морські павуки
+- Теңіз өрмекшілері
+- עכבישנים ימיים
+- دنیز هؤرومچکلری
+- سمندري غڼې
+- عنكبوت البحر
+- عنکبوت دریایی
+- समुद्री मकड़ी
+- கடற்சிலந்தி
+- พีคโนโกนิดา
+- ზღვის ობობები
+- ウミグモ
+- 海蜘蛛
+- 海蜘蛛纲
+- 바다거미목
 has_id_wikidata: Q19106
 title: Pycnogonida
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 homonymous_taxon: '[[_Standards/WikiData/WD~Pycnogonida,119166895]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
@@ -29,10 +71,86 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pycnogonida%20
 EPPO_Code: 1PYCNC
 UMLS_CUI: C1020030
 taxon_common_name:
-  - havedderkopper
-  - Zeespinnen
+- havedderkopper
+- Zeespinnen
+dv_has_:
+  name_:
+    an: Pycnogonida
+    ar: عنكبوت البحر
+    arz: عنكبوت البحر
+    ast: Pycnogonida
+    az: Dəniz hörümçəkləri
+    azb: دنیز هؤرومچکلری
+    be: Марскія павукі
+    be-tarask: марскія павукі
+    bg: Морски паяци
+    ca: Picnogònid
+    ceb: Kaka sa dagat
+    cs: Nohatky
+    de: Asselspinnen
+    el: Παντόποδα
+    en: Pycnogonida
+    en-us: Pycnogonida
+    eo: Mar-araneo
+    es: Pycnogonida
+    eu: Pantopoda
+    ext: Pycnogonida
+    fa: عنکبوت دریایی
+    fi: merilukit
+    fr: Pycnogonida
+    frr: Pycnogonida
+    ga: Pycnogonida
+    gl: Pycnogonida
+    he: עכבישנים ימיים
+    hi: समुद्री मकड़ी
+    hr: Morski pauci
+    hu: ászkapókok
+    ia: Pycnogonida
+    id: Laba-laba laut
+    ie: Pycnogonida
+    io: Pycnogonida
+    is: Sækónguló
+    it: Pycnogonida
+    ja: ウミグモ
+    ka: ზღვის ობობები
+    kk: Теңіз өрмекшілері
+    ko: 바다거미목
+    la: Pycnogonida
+    lv: Jūraszirnekļi
+    mk: Морски пајаци
+    mul: Pycnogonida
+    nb: havedderkopper
+    nl: zeespinnen
+    nn: havkongroar
+    nv: Tónteel naʼashjéʼii
+    oc: Pycnogonida
+    pl: kikutnice
+    ps: سمندري غڼې
+    pt: Aranha-do-mar
+    pt-br: Pycnogonida
+    ro: Pycnogonida
+    ru: морские пауки
+    sco: sea speeder
+    sl: Nogači
+    sq: Pycnogonida
+    sr: морски пауци
+    sr-ec: морски пауци
+    sv: havsspindlar
+    sw: Bui-bahari
+    ta: கடற்சிலந்தி
+    th: พีคโนโกนิดา
+    tr: Deniz örümcekleri
+    uk: морські павуки
+    vec: Pycnogonida
+    vi: Nhện biển
+    vo: Pycnogonida
+    war: Pycnogonida
+    wuu: 海蜘蛛
+    yue: 海蜘蛛
+    zh: 海蜘蛛纲
+    zh-cn: 海蜘蛛纲
+    zh-hans: 海蜘蛛纲
 ---
-
 # [[Sea_Spider]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Pycnogonida,19106|WD~Pycnogonida,19106]] 

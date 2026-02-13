@@ -1,11 +1,198 @@
 ---
 aliases:
-  - Monocotyledons
-  - monocots
-  - Monocot
+- Bir pallali o‘simliklar
+- Birləpəlilər
+- Centzīntiliztica
+- Ch'ulla phutuy raphiyuq
+- eensaadlobbiges
+- eenzaadlobbigen
+- Eenzoadlobbign
+- egyszikűek
+- einfrøblada planter
+- Einkímblöðungar
+- enfrøbladede planter
+- enhjärtbladiga växter
+- Enkimbladede
+- enokaličnice
+- jednoděložné
+- Jednoklíčnolistové
+- jednoliścienne
+- jednosupnice
+- Lelijainiai
+- Liliopsida
+- monacotailéadón
+- Monocot
+- Monocotiledonate
+- Monocotiledoni
+- Monocotiledònies
+- monocotiledónea
+- Monocotiledóneas
+- monocots
+- Monocotyledon
+- Monocotyledoneae
+- Monocotyledons
+- Monocotylédones
+- monokotil
+- Monokotiledon
+- Monokotiledone biljke
+- Monokotiledoni
+- Monokotiledòn
+- Monokotyledonen
+- Tan-chí-hio̍h si̍t-bu̍t
+- Taynayyawin
+- tek çenekliler
+- Tetanduran wiji tunggal
+- thực vật một lá mầm
+- Tokan-dravin-tsimoka
+- Unukotiledonaj plantoj
+- Viendīgļlapji
+- Vėinskiltē augalā
+- yksisirkkaiset
+- Üheidulehelised
+- Μονοκοτυλήδονο
+- аднадольныя
+- Бер өлешле үсемлекләр
+- Бер өлөшлөләр
+- Бир үлүштүү өсүмдүктөр
+- Дара жарнақтылар
+- едносемеделни
+- Иухайон зайæгойтæ
+- монокотиледоне биљке
+- Монокотиледони
+- огтысё будосъёс
+- однодольні
+- однодольные
+- Пĕр пайвăрăлли
+- Цхьа дакъа дола
+- Միաշաքիլավորներ
+- חד-פסיגיים
+- أحاديات الفلقة
+- اکدالے
+- تکلپهایها
+- یک دالہ
+- एक बीजपत्री
+- एकदलीय वनस्पति
+- একবীজপত্রী
+- ଏକବୀଜପତ୍ରୀ
+- ஒருவித்திலையி
+- ఏకదళబీజాలు
+- ഏകബീജപത്ര സസ്യങ്ങൾ
+- ඒක බීජ පත්රී ශාක
+- พืชใบเลี้ยงเดี่ยว
+- ართლებერამეფი
+- ერთლებნიანები
+- 单子叶植物
+- 単子葉類
+- 單子葉植物
+- ꯃꯣꯅꯣꯀꯣꯠ ꯃꯔꯨ
+- 외떡잎식물
 title: Monocotyledons
+has_id_wikidata: Q78961
+dv_has_:
+  name_:
+    af: eensaadlobbiges
+    ar: أحاديات الفلقة
+    ast: monocots
+    az: Birləpəlilər
+    ba: Бер өлөшлөләр
+    be: аднадольныя
+    be-tarask: аднадольныя
+    bg: едносемеделни
+    bn: একবীজপত্রী
+    bs: Monokotiledone biljke
+    ca: Monocotiledònies
+    ceb: monocots
+    cs: jednoděložné
+    cv: Пĕр пайвăрăлли
+    cy: Monocotyledon
+    da: Enkimbladede
+    de: Monokotyledonen
+    el: Μονοκοτυλήδονο
+    en: monocots
+    eo: Unukotiledonaj plantoj
+    es: Liliopsida
+    et: Üheidulehelised
+    eu: Liliopsida
+    fa: تکلپهایها
+    fi: yksisirkkaiset
+    fr: Monocotylédones
+    ga: monacotailéadón
+    gl: Monocotiledóneas
+    gsw: Monokotyledonen
+    ha: monocots
+    he: חד-פסיגיים
+    hi: एक बीजपत्री
+    hr: jednosupnice
+    ht: Monokotiledòn
+    hu: egyszikűek
+    hy: Միաշաքիլավորներ
+    ia: Monocotyledoneae
+    id: monokotil
+    ilo: Monocotyledon
+    inh: Цхьа дакъа дола
+    is: Einkímblöðungar
+    it: Monocotiledoni
+    ja: 単子葉類
+    jv: Tetanduran wiji tunggal
+    ka: ერთლებნიანები
+    kab: Taynayyawin
+    kk: Дара жарнақтылар
+    ko: 외떡잎식물
+    ku: Liliopsida
+    ky: Бир үлүштүү өсүмдүктөр
+    la: Monocotyledoneae
+    lb: Liliopsida
+    lt: Lelijainiai
+    lv: Viendīgļlapji
+    mg: Tokan-dravin-tsimoka
+    mk: Монокотиледони
+    ml: ഏകബീജപത്ര സസ്യങ്ങൾ
+    mni: ꯃꯣꯅꯣꯀꯣꯠ ꯃꯔꯨ
+    ms: Monokotiledon
+    nah: Centzīntiliztica
+    nan: Tan-chí-hio̍h si̍t-bu̍t
+    nb: enfrøbladede planter
+    ne: एकदलीय वनस्पति
+    nl: eenzaadlobbigen
+    nn: einfrøblada planter
+    oc: Monocotyledon
+    or: ଏକବୀଜପତ୍ରୀ
+    os: Иухайон зайæгойтæ
+    pl: jednoliścienne
+    pnb: اکدالے
+    pt: monocotiledónea
+    qu: Ch'ulla phutuy raphiyuq
+    ro: Monocotiledonate
+    ru: однодольные
+    scn: Monocotyledon
+    sco: monocots
+    sgs: Vėinskiltē augalā
+    sh: Monokotiledone biljke
+    si: ඒක බීජ පත්රී ශාක
+    sk: Jednoklíčnolistové
+    sl: enokaličnice
+    sq: monocots
+    sr: монокотиледоне биљке
+    su: Liliopsida
+    sv: enhjärtbladiga växter
+    sw: Monokotiledoni
+    ta: ஒருவித்திலையி
+    te: ఏకదళబీజాలు
+    th: พืชใบเลี้ยงเดี่ยว
+    tr: tek çenekliler
+    tt: Бер өлешле үсемлекләр
+    udm: огтысё будосъёс
+    uk: однодольні
+    ur: یک دالہ
+    uz: Bir pallali o‘simliklar
+    vi: thực vật một lá mầm
+    vls: Eenzoadlobbign
+    war: monocots
+    wuu: 单子叶植物
+    xmf: ართლებერამეფი
+    yue: 單子葉植物
+    zh: 單子葉植物
 ---
-
 # [[Monocot]] 
 
 ![Amorphophallus](Monocot/AmorphophallusF.jpg)  ![Hosta plantaginea](Monocot/Hosta_plantaginea.jpg)  ![Pandanus](Monocot/Pandanus.jpg) 

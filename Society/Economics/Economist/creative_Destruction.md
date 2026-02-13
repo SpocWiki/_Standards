@@ -1,4 +1,77 @@
-
+---
+has_id_wikidata: Q1570382
+dv_has_:
+  name_:
+    af: kreatiewe vernietiging
+    ar: تدمير إبداعي
+    az: yaradıcı yıxım
+    ca: Destrucció creativa
+    cs: kreativní destrukce
+    da: Creative destruction
+    de: Schöpferische Zerstörung
+    el: δημιουργική καταστροφή
+    en: creative destruction
+    eo: kreiva detruo
+    es: Destrucción creativa
+    fa: تخریب خلاق
+    fi: Luova tuho
+    fr: destruction créatrice
+    he: הרס יצירתי
+    id: Destruksi Kreatif
+    it: Distruzione creativa
+    ja: 創造的破壊
+    ko: 창조적 파괴
+    la: Destructio creatrix
+    mk: творечко уништување
+    nb: Kreativ destruksjon
+    nl: creatieve destructie
+    oc: Destruccion creatritz
+    pl: twórcza destrukcja
+    pt: destruição criadora
+    ro: Distrugere creativă
+    ru: креативное разрушение
+    sl: ustvarjalno uničevanje
+    sv: Kreativ förstörelse
+    tr: yaratıcı yıkım
+    uk: творче руйнування
+    vi: Hủy diệt sáng tạo
+    zh: 创造性破坏
+    zh-hans: Creative destruction
+aliases:
+- creatieve destructie
+- Creative destruction
+- Destruccion creatritz
+- Destrucció creativa
+- Destrucción creativa
+- Destructio creatrix
+- destruction créatrice
+- destruição criadora
+- Destruksi Kreatif
+- Distrugere creativă
+- Distruzione creativa
+- Hủy diệt sáng tạo
+- kreatiewe vernietiging
+- Kreativ destruksjon
+- Kreativ förstörelse
+- kreativní destrukce
+- kreiva detruo
+- Luova tuho
+- Schöpferische Zerstörung
+- twórcza destrukcja
+- ustvarjalno uničevanje
+- yaradıcı yıxım
+- yaratıcı yıkım
+- δημιουργική καταστροφή
+- креативное разрушение
+- творечко уништување
+- творче руйнування
+- הרס יצירתי
+- تخریب خلاق
+- تدمير إبداعي
+- 创造性破坏
+- 創造的破壊
+- 창조적 파괴
+---
 # [[creative_Destruction]] 
 
 

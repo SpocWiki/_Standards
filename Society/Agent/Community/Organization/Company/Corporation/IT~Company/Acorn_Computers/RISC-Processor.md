@@ -1,4 +1,88 @@
-
+---
+has_id_wikidata: Q189376
+dv_has_:
+  name_:
+    ar: حوسبة بمجموعة تعليمات مخفضة
+    az: Azaldılmış göstərişlər toplusuyla hesablama
+    be-tarask: вылічэньне скарочанага набору загадаў
+    bg: РИСК архитектура
+    bs: RISC
+    ca: RISC
+    cs: RISC
+    da: RISC
+    de: Reduced Instruction Set Computer
+    de-ch: Reduced Instruction Set Computer
+    el: Reduced instruction set computer
+    en: reduced instruction set computing
+    en-ca: Reduced instruction set computing
+    en-gb: reduced instruction set computing
+    eo: RISC
+    es: RISC
+    et: RISC
+    eu: RISC
+    fa: رایانه کم دستور
+    fi: RISC
+    fr: Reduced instruction set computer
+    ga: ríomhaire le tacar laghdaithe treoracha
+    gl: Reduced instruction set computing
+    he: RISC
+    hr: RISC
+    hu: Reduced Instruction Set Computing
+    id: RISC
+    it: reduced instruction set computer
+    ja: RISC
+    ko: RISC
+    lmo: RISC
+    lt: RISC
+    lv: RISC
+    mk: сметач со смалено множество наредби
+    mul: RISC
+    nb: reduced instruction set computer
+    nl: Reduced instruction set computer
+    nn: RISC
+    pl: RISC
+    pt: RISC
+    pt-br: RISC
+    ro: Arhitectură RISC
+    sco: reduced instruction set computin
+    sh: Reduced instruction set computer
+    sk: Reduced instruction set computer
+    sl: RISC
+    sr: RISC
+    sr-ec: РИСЦ
+    sr-el: RISC
+    sv: Reduced Instruction Set Computing
+    th: RISC
+    tr: RISC
+    tt: RISC
+    tt-cyrl: RISC
+    uk: RISC
+    vi: RISC
+    wuu: 精简指令集
+    zh: 精简指令集
+    zh-cn: 精简指令集
+    zh-hans: 精简指令集
+    zh-hant: 精簡指令集
+    zh-hk: 精簡指令集
+    zh-sg: 精简指令集
+    zh-tw: 精簡指令集
+aliases:
+- Arhitectură RISC
+- Azaldılmış göstərişlər toplusuyla hesablama
+- Reduced Instruction Set Computer
+- reduced instruction set computin
+- reduced instruction set computing
+- RISC
+- ríomhaire le tacar laghdaithe treoracha
+- вылічэньне скарочанага набору загадаў
+- РИСК архитектура
+- РИСЦ
+- сметач со смалено множество наредби
+- حوسبة بمجموعة تعليمات مخفضة
+- رایانه کم دستور
+- 精简指令集
+- 精簡指令集
+---
 ## #has_/text_of_/abstract 
 
 > In electronics and computer science, a reduced instruction set computer (**RISC**) 

@@ -1,29 +1,167 @@
 ---
 aliases:
-  - Internat
-  - Boarding_School
-  - Boarding School
+- aazztõkškooul
+- asâttâhškovlâ
+- Barnetegi
+- Boarding School
+- Boarding_School
+- buirdin schuil
+- collegio scolastico
+- dibistana şevînî
+- Duɗal internat
+- internaatkool
+- internado
+- Internat
+- internatinė mokykla
+- internato
+- internatskola
+- internulejo
+- internáhttaskuvla
+- internátní škola
+- internátus
+- internáu
+- internātskola
+- koshuis
+- kostschool
+- kostskole
+- Kostskule
+- Makarantar allo
+- Maktab-internat
+- Oecotropheum
+- Pansyon (lekòl)
+- pensionnat
+- scoil chónaithe
+- sekolah asrama
+- Shkollat konvikt
+- sisäoppilaitos
+- szkoła z internatem
+- trường nội trú
+- yatılı okul
+- ysgol breswyl
+- οικοτροφείο
+- Жатаканалуу мектеп
+- интернат
+- интернат-мәктәп
+- Пансион
+- Пансиондар
+- школа-інтернат
+- школа-інтэрнат
+- школа-интернат
+- գիշերօթիկ դպրոց
+- פנימייה
+- اقامتی مدرسہ
+- مدرسة داخلية
+- مدرسه شبانهروزی
+- बोर्डिंग स्कूल
+- আবাসিক বিদ্যালয়
+- આશ્રમશાળા
+- โรงเรียนประจำ
+- სკოლა-ინტერნატი
+- ボーディングスクール
+- 寄宿学校
+- 寄宿學校
+- 기숙학교
 has_id_wikidata: Q269770
 subclass_of:
-  - "[[_Standards/WikiData/WD~dwelling,699405]]"
-  - "[[_Standards/WikiData/WD~school_building,1244442]]"
-  - "[[_Standards/WikiData/WD~educational_institution,2385804]]"
-  - "[[_Standards/WikiData/WD~school,3914]]"
+- '[[_Standards/WikiData/WD~dwelling,699405]]'
+- '[[_Standards/WikiData/WD~school_building,1244442]]'
+- '[[_Standards/WikiData/WD~educational_institution,2385804]]'
+- '[[_Standards/WikiData/WD~school,3914]]'
 different_from:
-  - "[[_Standards/WikiData/WD~boarding_house,1558858]]"
-  - "[[_Standards/WikiData/WD~boarding,10253004]]"
-has_list: "[[_Standards/WikiData/WD~list_of_boarding_schools,6607991]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_educational_institution,112872396]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
-OmegaWiki_Defined_Meaning: "902215"
-U_S_National_Archives_Identifier: "10638275"
+- '[[_Standards/WikiData/WD~boarding_house,1558858]]'
+- '[[_Standards/WikiData/WD~boarding,10253004]]'
+has_list: '[[_Standards/WikiData/WD~list_of_boarding_schools,6607991]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_educational_institution,112872396]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
+OmegaWiki_Defined_Meaning: 902215
+U_S_National_Archives_Identifier: 10638275
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Norman%20staircase%20and%20schoolhouse%20in%20The%20King%27s%20School%2C%20Canterbury.jpg
 Commons_category: Boarding schools
 IMDb_keyword: boarding-school
 Gujarati_Vishwakosh_entry: આશ્રમશાળા
-Dewey_Decimal_Classification: "373.222"
+Dewey_Decimal_Classification: 373.222
+dv_has_:
+  name_:
+    af: koshuis
+    ar: مدرسة داخلية
+    ast: internáu
+    be: школа-інтэрнат
+    be-tarask: школа-інтэрнат
+    bg: Пансион
+    bn: আবাসিক বিদ্যালয়
+    ca: internat
+    cs: internátní škola
+    cy: ysgol breswyl
+    da: kostskole
+    de: Internat
+    de-ch: Internat
+    el: οικοτροφείο
+    en: boarding school
+    eo: internulejo
+    es: internado
+    et: internaatkool
+    eu: Barnetegi
+    fa: مدرسه شبانهروزی
+    ff: Duɗal internat
+    fi: sisäoppilaitos
+    fr: pensionnat
+    ga: scoil chónaithe
+    gl: Internado
+    gu: આશ્રમશાળા
+    ha: Makarantar allo
+    he: פנימייה
+    hi: बोर्डिंग स्कूल
+    ht: Pansyon (lekòl)
+    hu: internátus
+    hy: գիշերօթիկ դպրոց
+    hyw: Գիշերօթիկ դպրոց
+    id: sekolah asrama
+    it: collegio scolastico
+    ja: ボーディングスクール
+    ka: სკოლა-ინტერნატი
+    kk: Пансиондар
+    kl: Boarding school
+    ko: 기숙학교
+    ku: dibistana şevînî
+    ky: Жатаканалуу мектеп
+    la: Oecotropheum
+    lb: Internat
+    lt: internatinė mokykla
+    lv: internātskola
+    mk: интернат
+    ms: sekolah asrama
+    nb: kostskole
+    nl: kostschool
+    nn: Kostskule
+    pl: szkoła z internatem
+    pt: internato
+    pt-br: Internato
+    ro: Internat
+    ru: школа-интернат
+    sco: buirdin schuil
+    se: internáhttaskuvla
+    sh: Internat
+    sl: internat
+    smn: asâttâhškovlâ
+    sms: aazztõkškooul
+    sq: Shkollat konvikt
+    sr: интернат
+    sr-ec: интернат
+    sr-el: internat
+    sv: internatskola
+    th: โรงเรียนประจำ
+    tr: yatılı okul
+    tt: интернат-мәктәп
+    tt-cyrl: интернат-мәктәп
+    uk: школа-інтернат
+    ur: اقامتی مدرسہ
+    uz: Maktab-internat
+    vi: trường nội trú
+    yue: 寄宿學校
+    zh: 寄宿学校
+    zh-cn: 寄宿学校
+    zh-hant: 寄宿學校
 ---
-
 # [[Boarding_School]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Boarding_school,269770|WD~Boarding_school,269770]] 

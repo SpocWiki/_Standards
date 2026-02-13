@@ -1,7 +1,11 @@
 ---
 aliases:
-  - Solanaceae
-  - Solaneae
+- Quşüzümükimilər
+- Solanaceae
+- Solaneae
+- Паслёнавыя
+- паслёновые
+- ナス連
 has_id_wikidata: Q3489128
 taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
 parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]]'
@@ -11,8 +15,96 @@ Commons_category: Solaneae
 taxon_name: Solaneae
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2485
 UMLS_CUI: C1902798
+dv_has_:
+  name_:
+    af: Solaneae
+    an: Solaneae
+    ast: Solaneae
+    az: Quşüzümükimilər
+    bar: Solaneae
+    be: Паслёнавыя
+    bg: Solaneae
+    br: Solaneae
+    ca: Solaneae
+    ceb: Solaneae
+    co: Solaneae
+    cs: Solaneae
+    cy: Solaneae
+    da: Solaneae
+    de: Solaneae
+    de-at: Solaneae
+    de-ch: Solaneae
+    en: Solaneae
+    en-ca: Solaneae
+    en-gb: Solaneae
+    eo: Solaneae
+    es: Solaneae
+    et: Solaneae
+    eu: Solaneae
+    ext: Solaneae
+    fi: Solaneae
+    fo: Solaneae
+    fr: Solaneae
+    frp: Solaneae
+    fur: Solaneae
+    ga: Solaneae
+    gd: Solaneae
+    gl: Solaneae
+    gsw: Solaneae
+    hr: Solaneae
+    hu: Solaneae
+    ia: Solaneae
+    id: Solaneae
+    ie: Solaneae
+    io: Solaneae
+    is: Solaneae
+    it: Solaneae
+    ja: ナス連
+    kg: Solaneae
+    kl: Solaneae
+    la: Solaneae
+    lb: Solaneae
+    li: Solaneae
+    lij: Solaneae
+    mg: Solaneae
+    min: Solaneae
+    ms: Solaneae
+    mul: Solaneae
+    nap: Solaneae
+    nb: Solaneae
+    nds: Solaneae
+    nds-nl: Solaneae
+    nl: Solaneae
+    nn: Solaneae
+    nrm: Solaneae
+    oc: Solaneae
+    pcd: Solaneae
+    pl: Solaneae
+    pms: Solaneae
+    pt: Solaneae
+    pt-br: Solaneae
+    rm: Solaneae
+    ro: Solaneae
+    ru: паслёновые
+    sc: Solaneae
+    scn: Solaneae
+    sco: Solaneae
+    sk: Solaneae
+    sl: Solaneae
+    sq: Solaneae
+    sr-el: Solaneae
+    sv: Solaneae
+    sw: Solaneae
+    uk: Solaneae
+    vec: Solaneae
+    vi: Solaneae
+    vls: Solaneae
+    vo: Solaneae
+    wa: Solaneae
+    war: Solaneae
+    wo: Solaneae
+    zu: Solaneae
 ---
-
 # [[Solaneae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]] 

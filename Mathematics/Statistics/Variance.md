@@ -1,22 +1,74 @@
 ---
 aliases:
+- Amrywiant
+- athraitheas
+- Bariantza
+- dispersija
+- Dispersioon
+- Dispersiya
+- Dreifni
+- Muachano
+- phương sai
+- Piàn-ī-sò͘
+- rozptyl
+- Varian
+- varianca
+- variance
+- variancia
+- varianco
+- Varians
+- varianss
+- varianssi
+- variantie
+- Varianz
+- varianza
+- varianță
+- Varijansa
+- variància
+- variánsa
+- variância
+- Varyans
+- wariancja
+- Ăнсăрт капăн дисперсийĕ
+- Διακύμανση
+- Варијанса
+- дисперсія
+- дисперсия
+- дысперсія выпадковай велічыні
+- дыспэрсія выпадковай велічыні
+- Դիսպերսիա
+- שונות
+- تباين
+- تفاوت
+- واریانس
+- ڤاریانس
+- प्रसरण
+- ভেদাঙ্ক
+- વિચરણ
+- பரவற்படி
+- විචල්යතාව
+- დისპერსია
+- 分散
+- 方差
+- 變異數
+- 분산
 has_id_wikidata: Q175199
-invariant_under: "[[_Standards/WikiData/WD~translation,211459]]"
-opposite_of: "[[_Standards/WikiData/WD~precision,254860]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~sample_variance,10351825]]"
+invariant_under: '[[_Standards/WikiData/WD~translation,211459]]'
+opposite_of: '[[_Standards/WikiData/WD~precision,254860]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~sample_variance,10351825]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~descriptive_statistic,28873709]]"
-  - "[[_Standards/WikiData/WD~moment_of_order_r,112578119]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~variance,120504804]]"
+- '[[_Standards/WikiData/WD~descriptive_statistic,28873709]]'
+- '[[_Standards/WikiData/WD~moment_of_order_r,112578119]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~variance,120504804]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi><mo stretchy="false">(</mo><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi><mo stretchy="false">(</mo><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>X</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi><mo stretchy="false">(</mo><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi><mo stretchy="false">(</mo><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>X</mi></mstyle></mrow></math>
 quantity_symbol_LaTeX_:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>&#x03C3;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 main_Wikidata_property: variance of a probability distribution
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mi>E</mi><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><msup><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mi>X</mi><mo stretchy="false">&#x2212;</mo><mi>E</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo data-mjx-texclass="CLOSE">)</mo></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Erwartungswert%2C%20Varianz%20und%20Standardabweichung%20-%20diskrete%20Zufallsgr%C3%B6%C3%9Fe.webm
@@ -24,8 +76,86 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Comparison%20standard%
 Stack_Exchange_tag: https://stackoverflow.com/tags/variance
 IEV_number: 103-08-11
 Commons_category: Variance
+dv_has_:
+  name_:
+    ar: تباين
+    ast: Varianza
+    az: Dispersiya
+    be: дысперсія выпадковай велічыні
+    be-tarask: дыспэрсія выпадковай велічыні
+    bg: Дисперсия
+    bn: ভেদাঙ্ক
+    ca: variància
+    ckb: ڤاریانس
+    cs: rozptyl
+    cv: Ăнсăрт капăн дисперсийĕ
+    cy: Amrywiant
+    da: Varians
+    de: Varianz
+    el: Διακύμανση
+    en: variance
+    eo: varianco
+    es: varianza
+    et: Dispersioon
+    eu: Bariantza
+    fa: واریانس
+    fi: varianssi
+    fr: variance
+    ga: athraitheas
+    gl: Varianza
+    gu: વિચરણ
+    he: שונות
+    hi: प्रसरण
+    hu: variancia
+    hy: Դիսպերսիա
+    id: Varians
+    is: Dreifni
+    it: varianza
+    ja: 分散
+    ka: დისპერსია
+    ko: 분산
+    lt: dispersija
+    mk: Варијанса
+    ms: Varians
+    nan: Piàn-ī-sò͘
+    nb: varians
+    nl: variantie
+    nn: varians
+    pl: wariancja
+    pt: variância
+    ro: varianță
+    ru: дисперсия
+    scn: Varianza
+    se: variánsa
+    sh: Varijansa
+    si: විචල්යතාව
+    sk: Rozptyl
+    sl: varianca
+    smn: varians
+    sms: varianss
+    sq: Varianca
+    sr: варијанса
+    sr-ec: Варијанса
+    sr-el: Varijansa
+    su: Varian
+    sv: varians
+    sw: Muachano
+    ta: பரவற்படி
+    tl: Variance
+    tr: Varyans
+    uk: дисперсія
+    ur: تفاوت
+    vi: phương sai
+    wuu: 方差
+    yue: 變異數
+    zh: 方差
+    zh-cn: 方差
+    zh-hans: 方差
+    zh-hant: 變異數
+    zh-hk: 方差
+    zh-sg: 方差
+    zh-tw: 變異數
 ---
-
 # [[Variance]]
 
 #is_/same_as :: [[../../WikiData/WD~Variance,175199|WD~Variance,175199]]  

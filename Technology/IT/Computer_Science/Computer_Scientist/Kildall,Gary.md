@@ -1,20 +1,35 @@
 ---
 aliases:
-  - Gary Arlen Kildall
-  - Kildall
-  - Gary_Kildall
-  - Kildall,Gary
+- Gary Arlen Kildall
+- Gary Kildall
+- Gary_Kildall
+- Geri Kildal
+- Kildall
+- Kildall,Gary
+- Гері Кілдалл
+- Гэри Килдалл
+- Гэры Кілдал
+- Գարի Քիլդալլ
+- גארי קילדל
+- جارى كيلدال
+- غاري كيلدال
+- گری کیلدال
+- ഗാരി കിൽഡാൽ
+- ゲイリー・キルドール
+- 加里·基尔多尔
+- 蓋瑞·基爾多
+- 게리 킬달
 has_id_wikidata: Q92627
 occupation:
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~programmer,5482740]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 cause_of_death: '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
 notable_work: '[[_Standards/WikiData/WD~CP_M,219528]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Washington,219563]]'
-  - '[[_Standards/WikiData/WD~Queen_Anne_High_School,7270211]]'
+- '[[_Standards/WikiData/WD~University_of_Washington,219563]]'
+- '[[_Standards/WikiData/WD~Queen_Anne_High_School,7270211]]'
 place_of_death: '[[_Standards/WikiData/WD~Monterey,487315]]'
 employer: '[[_Standards/WikiData/WD~Naval_Postgraduate_School,1515048]]'
 given_name: '[[_Standards/WikiData/WD~Gary,1820274]]'
@@ -34,8 +49,57 @@ date_of_birth: 1942-05-19T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Gary%20Kildall%20Signature.svg
 described_at_URL: http://www.computerhistory.org/atchm/gary-kildall-40th-anniversary-of-the-birth-of-the-pc-operating-system/
 name_in_native_language: Gary Kildall
+dv_has_:
+  name_:
+    ar: غاري كيلدال
+    arz: جارى كيلدال
+    ast: Gary Kildall
+    be-tarask: Гэры Кілдал
+    ca: Gary Kildall
+    cs: Gary Kildall
+    cy: Gary Kildall
+    da: Gary Kildall
+    dag: Gary Kildall
+    de: Gary Kildall
+    el: Gary Kildall
+    en: Gary Kildall
+    en-ca: Gary Kildall
+    en-gb: Gary Kildall
+    es: Gary Kildall
+    eu: Gary Kildall
+    fa: گری کیلدال
+    fi: Gary Kildall
+    fr: Gary Kildall
+    ga: Gary Kildall
+    gl: Gary Kildall
+    he: גארי קילדל
+    hu: Gary Kildall
+    hy: Գարի Քիլդալլ
+    it: Gary Kildall
+    ja: ゲイリー・キルドール
+    ko: 게리 킬달
+    mg: Gary Kildall
+    ml: ഗാരി കിൽഡാൽ
+    mul: Gary Kildall
+    nb: Gary Kildall
+    nl: Gary Kildall
+    nn: Gary Kildall
+    oc: Gary Kildall
+    pl: Gary Kildall
+    pt: Gary Kildall
+    pt-br: Gary Kildall
+    ru: Гэри Килдалл
+    sl: Gary Kildall
+    sq: Gary Kildall
+    sr: Geri Kildal
+    sv: Gary Kildall
+    tr: Gary Kildall
+    uk: Гері Кілдалл
+    vi: Gary Kildall
+    war: Gary Kildall
+    zh: 蓋瑞·基爾多
+    zh-cn: 加里·基尔多尔
 ---
-
 # [[Kildall,Gary]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gary_Kildall,92627|WD~Gary_Kildall,92627]] 

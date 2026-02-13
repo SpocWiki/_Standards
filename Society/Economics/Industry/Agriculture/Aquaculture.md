@@ -1,10 +1,140 @@
 ---
 aliases:
-  - aquiculture
-  - aquafarming
-  - Aquaculture
+- acquacoltura
+- acuicultura
+- Acvacultură
+- ahumoana
+- Akuakultur
+- Akuakultura
+- Akuikultura
+- Akuwakultura
+- akvakultur
+- Akvakultura
+- akvakultuur
+- akvakultuvra
+- akvakultúra
+- akvakultūra
+- akvokulturo
+- akwakultura
+- Akwakultuur
+- aquacultura
+- Aquaculture
+- aquacultuur
+- aquafarming
+- Aquakultur
+- aquiculture
+- aqüicultura
+- Budidaya perairan
+- dobharshaothrú
+- Kültür balıkçılığı
+- nuôi trồng thủy sản
+- vesiviljely
+- υδατοκαλλιέργεια
+- Аквакултура
+- аквакультура
+- рибникарство
+- Ջրատնտեսություն
+- חקלאות ימית
+- آبزیپروری
+- ایکوآ کلچر
+- زراعة الميه
+- زراعة مائية
+- जलीय कृषि
+- অ্যাকুয়াকালচার
+- ਜਲ ਖੇਤੀ
+- મત્સ્યઉછેર
+- நீர் வேளாண்மை
+- ఆక్వాకల్చర్
+- ಜಲಚರ ಸಾಕಣೆ
+- การเพาะเลี้ยงพืชและสัตว์ในน้ำ
+- აკვაკულტურა
+- ᱫᱟᱜ ᱯᱟᱞᱟᱣ
+- 水产养殖
+- 水產養殖
+- 養殖業
+- 養殖漁業
+- 양식업
+has_id_wikidata: Q188989
+dv_has_:
+  name_:
+    af: Akwakultuur
+    ar: زراعة مائية
+    arz: زراعة الميه
+    az: Akvakultura
+    be: аквакультура
+    bg: Аквакултура
+    bn: অ্যাকুয়াকালচার
+    ca: aqüicultura
+    cs: akvakultura
+    da: akvakultur
+    de: Aquakultur
+    de-ch: Aquakultur
+    el: υδατοκαλλιέργεια
+    en: aquaculture
+    en-ca: Aquaculture
+    en-gb: aquaculture
+    eo: akvokulturo
+    es: acuicultura
+    et: akvakultuur
+    eu: Akuikultura
+    fa: آبزیپروری
+    fi: vesiviljely
+    fr: aquaculture
+    ga: dobharshaothrú
+    gl: Acuicultura
+    gu: મત્સ્યઉછેર
+    he: חקלאות ימית
+    hi: जलीय कृषि
+    hr: Akvakultura
+    hu: akvakultúra
+    hy: Ջրատնտեսություն
+    id: Budidaya perairan
+    it: acquacoltura
+    ja: 養殖業
+    kn: ಜಲಚರ ಸಾಕಣೆ
+    ko: 양식업
+    lb: Aquakultur
+    lt: akvakultūra
+    mi: ahumoana
+    mk: рибникарство
+    ms: Akuakultur
+    nb: akvakultur
+    nl: aquacultuur
+    pa: ਜਲ ਖੇਤੀ
+    pl: akwakultura
+    pnb: ایکوآ کلچر
+    pt: aquacultura
+    pt-br: Aquacultura
+    ro: Acvacultură
+    ru: аквакультура
+    sat: ᱫᱟᱜ ᱯᱟᱞᱟᱣ
+    se: akvakultuvra
+    sh: Akvakultura
+    sl: akvakultura
+    sq: Akuakultura
+    sr: Akvakultura
+    sv: akvakultur
+    ta: நீர் வேளாண்மை
+    te: ఆక్వాకల్చర్
+    th: การเพาะเลี้ยงพืชและสัตว์ในน้ำ
+    tl: Akuwakultura
+    tr: Kültür balıkçılığı
+    tt: Аквакультура
+    uk: аквакультура
+    uz: Akvakultura
+    vi: nuôi trồng thủy sản
+    war: Akuwakultura
+    wuu: 水产养殖
+    xmf: აკვაკულტურა
+    yue: 養殖漁業
+    zh: 水產養殖
+    zh-cn: 水产养殖
+    zh-hans: 水产养殖
+    zh-hant: 水產養殖
+    zh-hk: 水產養殖
+    zh-sg: 水产养殖
+    zh-tw: 水產養殖
 ---
-
 # [[Aquaculture]] 
 
 #is_/same_as :: 

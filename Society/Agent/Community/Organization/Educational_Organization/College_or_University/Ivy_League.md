@@ -1,31 +1,154 @@
 ---
-has_time_started: 1954-01-01 
+has_time_started: 1954-01-01
 aliases:
-  - Ivy League
+- Aywi ligasy
+- Efeju līga
+- Foedus Hederanum
+- Ivy League
+- Liga bršljana
+- Pechaklar ligasi
+- Sarmaşıq liqası
+- Ürmäle göl ligası
+- Айви лига
+- Айви Лигасы
+- Блющова лига
+- Бршленова лига
+- Бръшлянова лига
+- Дзæгъæлдзуйы лигæ
+- Ліга блюшчу
+- Ліга плюшчу
+- Ліга плюща
+- Лига бршљана
+- Лига плюща
+- Այվի Լիգա
+- ליגת הקיסוס
+- آیوی لیگ
+- ئایڤی لیگ
+- دورى الايڤى للجامعات الامريكيه
+- رابطة اللبلاب
+- आइवी लीग
+- আইভি লিগ
+- ਆਈਵੀ ਲੀਗ
+- ஐவி லீக்
+- ഐവി ലീഗ്
+- ไอวีลีก
+- აივი ლიგა
+- アイビー・リーグ
+- 常春藤盟校
+- 長春藤聯盟
+- 아이비 리그
 has_id_wikidata: Q49113
-part_of: "[[_Standards/WikiData/WD~NCAA_Division_I,2842604]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ivy_League,6148939]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q31961554,31961554]]"
-instance_of: "[[_Standards/WikiData/WD~college_athletic_conference,67476316]]"
-sport: "[[_Standards/WikiData/WD~basketball,5372]]"
+part_of: '[[_Standards/WikiData/WD~NCAA_Division_I,2842604]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ivy_League,6148939]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q31961554,31961554]]'
+instance_of: '[[_Standards/WikiData/WD~college_athletic_conference,67476316]]'
+sport: '[[_Standards/WikiData/WD~basketball,5372]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Harvard_University,13371]]"
-  - "[[_Standards/WikiData/WD~Princeton_University,21578]]"
-  - "[[_Standards/WikiData/WD~Columbia_University,49088]]"
-  - "[[_Standards/WikiData/WD~Brown_University,49114]]"
-  - "[[_Standards/WikiData/WD~Cornell_University,49115]]"
-  - "[[_Standards/WikiData/WD~Yale_University,49112]]"
-  - "[[_Standards/WikiData/WD~Dartmouth_College,49116]]"
-  - "[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-NCAA_organization_code: "865"
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~Brown_University,49114]]'
+- '[[_Standards/WikiData/WD~Cornell_University,49115]]'
+- '[[_Standards/WikiData/WD~Yale_University,49112]]'
+- '[[_Standards/WikiData/WD~Dartmouth_College,49116]]'
+- '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+NCAA_organization_code: 865
 Commons_gallery: Star Wars
 inception: 1954-01-01T00:00:00Z
 Commons_category: Ivy League
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ivy%20league%20simple%20logo.png
 official_website: https://www.ivyleaguesports.com
+dv_has_:
+  name_:
+    af: Ivy League
+    ar: رابطة اللبلاب
+    arz: دورى الايڤى للجامعات الامريكيه
+    ast: Ivy League
+    az: Sarmaşıq liqası
+    be: Ліга плюшчу
+    be-tarask: Ліга блюшчу
+    bg: Бръшлянова лига
+    bn: আইভি লিগ
+    ca: Ivy League
+    ckb: ئایڤی لیگ
+    cs: Ivy League
+    cy: Ivy League
+    da: Ivy League
+    de: Ivy League
+    de-ch: Ivy League
+    el: Ivy League
+    en: Ivy League
+    en-ca: Ivy League
+    en-gb: Ivy League
+    eo: Ivy League
+    es: Ivy League
+    et: Ivy League
+    eu: Ivy League
+    fa: آیوی لیگ
+    fi: Ivy League
+    fr: Ivy League
+    gd: Ivy League
+    gl: Ivy League
+    he: ליגת הקיסוס
+    hi: आइवी लीग
+    hr: Liga bršljana
+    hu: Ivy League
+    hy: Այվի Լիգա
+    ia: Ivy League
+    id: Ivy League
+    is: Ivy League
+    it: Ivy League
+    ja: アイビー・リーグ
+    ka: აივი ლიგა
+    kab: Ivy League
+    kk: Айви Лигасы
+    ko: 아이비 리그
+    ky: Айви лига
+    la: Foedus Hederanum
+    lt: Ivy League
+    lv: Efeju līga
+    mk: Бршленова лига
+    ml: ഐവി ലീഗ്
+    ms: Ivy League
+    nb: Ivy League
+    nl: Ivy League
+    oc: Ivy League
+    os: Дзæгъæлдзуйы лигæ
+    pa: ਆਈਵੀ ਲੀਗ
+    pl: Ivy League
+    pt: Ivy League
+    pt-br: Ivy League
+    ro: Ivy League
+    ru: Лига плюща
+    rue: Блющова лига
+    sco: Ivy League
+    sk: Ivy League
+    sl: Ivy League
+    sq: Ivy League
+    sr: Лига бршљана
+    sv: Ivy League
+    ta: ஐவி லீக்
+    th: ไอวีลีก
+    tk: Aywi ligasy
+    tr: Ivy League
+    tt: Ürmäle göl ligası
+    uk: Ліга плюща
+    uz: Pechaklar ligasi
+    vi: Ivy League
+    war: Ivy League
+    wuu: 常春藤盟校
+    yue: 長春藤聯盟
+    zh: 常春藤盟校
+    zh-cn: 常春藤盟校
+    zh-hans: 常春藤盟校
+    zh-hant: 常春藤盟校
+    zh-hk: 常春藤盟校
+    zh-mo: 常春藤盟校
+    zh-my: 常春藤盟校
+    zh-sg: 常春藤盟校
+    zh-tw: 常春藤盟校
 ---
-
 # [[Ivy_League]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Ivy_League,49113|WD~Ivy_League,49113]] 

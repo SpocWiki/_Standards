@@ -1,13 +1,60 @@
 ---
 aliases:
+- Aeluroidea
+- eluroïdeus
+- Αιλουροειδή
+- мачколике звери
+- گربهواران
+- ネコ上科
 has_id_wikidata: Q4687717
-taxon_rank: "[[_Standards/WikiData/WD~infraorder,2889003]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feliform%20portraits.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20tigris%20corbetti%20090901.jpg
 taxon_name: Aeluroidea
+dv_has_:
+  name_:
+    an: Aeluroidea
+    ast: Aeluroidea
+    bg: Aeluroidea
+    ca: eluroïdeus
+    ceb: Aeluroidea
+    cs: Aeluroidea
+    de: Aeluroidea
+    el: Αιλουροειδή
+    en: Aeluroidea
+    eo: Aeluroidea
+    es: Aeluroidea
+    eu: Aeluroidea
+    ext: Aeluroidea
+    fa: گربهواران
+    fi: Aeluroidea
+    fr: Aeluroidea
+    ga: Aeluroidea
+    gl: Aeluroidea
+    ia: Aeluroidea
+    ie: Aeluroidea
+    io: Aeluroidea
+    it: Aeluroidea
+    ja: ネコ上科
+    la: Aeluroidea
+    mul: Aeluroidea
+    nl: Aeluroidea
+    oc: Aeluroidea
+    pl: Aeluroidea
+    pt: Aeluroidea
+    pt-br: Aeluroidea
+    ro: Aeluroidea
+    ru: Aeluroidea
+    sl: Aeluroidea
+    sq: Aeluroidea
+    sr: мачколике звери
+    sv: Aeluroidea
+    uk: Aeluroidea
+    vi: Aeluroidea
+    vo: Aeluroidea
+    war: Aeluroidea
 ---
-
 # [[Aeluroidea]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717|WD~Aeluroidea,4687717]] 

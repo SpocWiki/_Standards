@@ -1,10 +1,95 @@
 ---
 aliases:
+- briseadh spontáineach siméadrachta
+- brisure spontanée de symétrie
+- kendiliğinden simetri kırılması
+- quebra espontânea de simetria
+- rottura spontanea di simmetria
+- ruperea spontană a simetriei
+- ruptura espontània de simetria
+- ruptura espontánea de simetría
+- ruptura spontanea symmetriae
+- Simetriaren haustura espontaneo
+- spontane Symmetriebrechung
+- spontane symmetriebreking
+- spontanea simetrirompo
+- spontaneous symmetry breaking
+- spontani zlom simetrije
+- spontaniczne złamanie symetrii
+- Spontano narušavanje simetrije
+- spontant symmetribrot
+- spontant symmetribrott
+- spontant symmetribrud
+- spontant symmetribrudd
+- spontán szimmetriasértés
+- spontánní narušení symetrie
+- sïmmetrïyanıñ özdiginen buzılwı
+- симметриянең үзлегеннән бозылуы
+- симметрияның өздігінен бұзылуы
+- спантаннае парушэнне сіметрыі
+- спантаннае парушэньне сымэтрыі
+- спонтанне порушення симетрії
+- Спонтанно нарушение на симетрията
+- спонтанное нарушение симметрии
+- спотано нарушување на симетријата
+- שבירת סימטריה ספונטנית
+- خود به خود شکستن تقارن
+- سىيممەترىييانىڭ وزدىگىنەن بۇزىلۋى
+- كسر التناظر التلقائي
+- 自发对称性破缺
+- 自発的対称性の破れ
+- 自發對稱性破缺
+- 자발 대칭 깨짐
 has_id_wikidata: Q736716
-subclass_of: "[[_Standards/WikiData/WD~symmetry_breaking,903282]]"
+subclass_of: '[[_Standards/WikiData/WD~symmetry_breaking,903282]]'
 Commons_category: Spontaneous symmetry breaking
+dv_has_:
+  name_:
+    ar: كسر التناظر التلقائي
+    be: спантаннае парушэнне сіметрыі
+    be-tarask: спантаннае парушэньне сымэтрыі
+    bg: Спонтанно нарушение на симетрията
+    ca: ruptura espontània de simetria
+    cs: spontánní narušení symetrie
+    da: spontant symmetribrud
+    de: spontane Symmetriebrechung
+    en: spontaneous symmetry breaking
+    eo: spontanea simetrirompo
+    es: ruptura espontánea de simetría
+    eu: Simetriaren haustura espontaneo
+    fa: خود به خود شکستن تقارن
+    fr: brisure spontanée de symétrie
+    ga: briseadh spontáineach siméadrachta
+    he: שבירת סימטריה ספונטנית
+    hu: spontán szimmetriasértés
+    it: rottura spontanea di simmetria
+    ja: 自発的対称性の破れ
+    kk: симметрияның өздігінен бұзылуы
+    kk-arab: سىيممەترىييانىڭ وزدىگىنەن بۇزىلۋى
+    kk-cyrl: симметрияның өздігінен бұзылуы
+    kk-latn: sïmmetrïyanıñ özdiginen buzılwı
+    ko: 자발 대칭 깨짐
+    la: ruptura spontanea symmetriae
+    mk: спотано нарушување на симетријата
+    nb: spontant symmetribrudd
+    nl: spontane symmetriebreking
+    nn: spontant symmetribrot
+    pl: spontaniczne złamanie symetrii
+    pt: quebra espontânea de simetria
+    ro: ruperea spontană a simetriei
+    ru: спонтанное нарушение симметрии
+    sl: spontani zlom simetrije
+    sr: Spontano narušavanje simetrije
+    sv: spontant symmetribrott
+    tr: kendiliğinden simetri kırılması
+    tt: симметриянең үзлегеннән бозылуы
+    uk: спонтанне порушення симетрії
+    yue: 自發對稱性破缺
+    zh: 自发对称性破缺
+    zh-hans: 自发对称性破缺
+    zh-hant: 自發對稱性破缺
+    zh-hk: 自發對稱性破缺
 ---
-
 # [[Spontaneous_Symmetry_Breaking]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spontaneous_symmetry_breaking,736716|WD~Spontaneous_symmetry_breaking,736716]]  

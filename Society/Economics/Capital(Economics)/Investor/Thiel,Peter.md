@@ -1,11 +1,88 @@
 ---
 aliases:
-  - Peter Thiel
-  - Peter Andreas Thiel
-  - Peter_Thiel
-  - Thiel,Peter
+- Peter Andreas Thiel
+- Peter Thiel
+- Peter_Thiel
+- Thiel,Peter
+- Пітер Тіль
+- Пітэр Тыль
+- Питер Тиль
+- Փիթեր Թիլ
+- פיטר ת'יל
+- بيتر ثيل
+- پیتر تیل
+- پیتەر تیل
+- பீட்டர் தீல்
+- പീറ്റർ തീൽ
+- ピーター・ティール
+- 彼得·泰爾
+- 彼德·提路
+- 피터 틸
+has_id_wikidata: Q705525
+dv_has_:
+  name_:
+    af: Peter Thiel
+    an: Peter Thiel
+    ar: بيتر ثيل
+    arz: بيتر ثيل
+    ast: Peter Thiel
+    be: Пітэр Тыль
+    be-tarask: Пітэр Тыль
+    ca: Peter Thiel
+    ckb: پیتەر تیل
+    cs: Peter Thiel
+    cy: Peter Thiel
+    da: Peter Thiel
+    de: Peter Thiel
+    en: Peter Thiel
+    en-gb: Peter Thiel
+    eo: Peter Thiel
+    es: Peter Thiel
+    fa: پیتر تیل
+    fi: Peter Thiel
+    fr: Peter Thiel
+    ga: Peter Thiel
+    gl: Peter Thiel
+    ha: Peter Thiel
+    he: פיטר ת'יל
+    hu: Peter Thiel
+    hy: Փիթեր Թիլ
+    id: Peter Thiel
+    io: Peter Thiel
+    it: Peter Thiel
+    ja: ピーター・ティール
+    jut: Peter Thiel
+    kk: Питер Тиль
+    ko: 피터 틸
+    kw: Peter Thiel
+    ml: പീറ്റർ തീൽ
+    ms: Peter Thiel
+    mul: Peter Thiel
+    nb: Peter Thiel
+    nl: Peter Thiel
+    nn: Peter Thiel
+    pam: Peter Thiel
+    pap: Peter Thiel
+    pl: Peter Thiel
+    pms: Peter Thiel
+    pt: Peter Thiel
+    pt-br: Peter Thiel
+    ru: Питер Тиль
+    sc: Peter Thiel
+    sco: Peter Thiel
+    sje: Peter Thiel
+    sk: Peter Thiel
+    sl: Peter Thiel
+    sq: Peter Thiel
+    sv: Peter Thiel
+    ta: பீட்டர் தீல்
+    tr: Peter Thiel
+    uk: Пітер Тіль
+    uz: Peter Thiel
+    vi: Peter Thiel
+    zh: 彼得·泰爾
+    zh-hk: 彼德·提路
 ---
-
 # [[Thiel,Peter]] 
 
 #has_/time_/started :: 1967-10-11 

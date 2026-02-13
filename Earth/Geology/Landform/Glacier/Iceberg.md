@@ -1,25 +1,223 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Iceberg,47568]]"
-    - "[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]"
-    - "[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]"
+  - '[[../../../../WikiData/WD~Iceberg,47568]]'
+  - '[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]'
+  - '[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Iceberg,47568]]"
-  - "[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]"
-  - "[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]"
+- '[[../../../../WikiData/WD~Iceberg,47568]]'
+- '[[/_Standards/Earth/Geology/Landform/Glacier/Iceberg|Iceberg]]'
+- '[[/_public/Earth/Geology/Landform/Glacier/Iceberg.public|Iceberg.public]]'
+- '[[/_internal/Earth/Geology/Landform/Glacier/Iceberg.internal|Iceberg.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Glacier/Iceberg.protect|Iceberg.protect]]'
+- '[[/_private/Earth/Geology/Landform/Glacier/Iceberg.private|Iceberg.private]]'
+- '[[/_personal/Earth/Geology/Landform/Glacier/Iceberg.personal|Iceberg.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Glacier/Iceberg.secret|Iceberg.secret]]'
+has_id_wikidata: Q47568
+dv_has_:
+  name_:
+    ab: Аисберг
+    af: ysberg
+    ang: īsbeorg
+    ar: جبل جليدي
+    arc: ܛܘܪܐ ܕܓܠܝܕܐ
+    ast: iceber
+    az: aysberq
+    be: айсберг
+    be-tarask: айсбэрг
+    bg: айсберг
+    bjn: gunung is
+    bn: হিমশৈল
+    br: isberg
+    ca: iceberg
+    cs: plovoucí ledovec
+    cv: айсберг
+    cy: mynydd rhew
+    da: isbjerg
+    de: Eisberg
+    de-ch: Eisberg
+    el: παγόβουνο
+    en: iceberg
+    en-ca: iceberg
+    en-gb: iceberg
+    eo: glacimonto
+    es: iceberg
+    et: jäämägi
+    eu: izozmendi
+    fa: کوه یخ
+    fi: jäävuori
+    fr: iceberg
+    ga: cnoc oighir
+    gl: iceberg
+    he: קרחון ימי
+    hi: हिमशैल
+    hr: santa leda
+    ht: ayisbèg
+    hu: jéghegy
+    hy: սառցասար
+    ia: iceberg
+    id: gunung es
+    io: flotacinta glacimonto
+    is: borgarísjaki
+    it: iceberg
+    ja: 氷山
+    jv: gunung ès
+    ka: აისბერგი
+    kk: мұзтау
+    kn: ನೀರ್ಗಲ್ಲು
+    ko: 빙산
+    krc: айсберг
+    ks: شیٖنہٕ پَل
+    kw: rewvenydh
+    ky: айсберг
+    la: mons glacialis
+    lb: Äisbierg
+    lez: Айсберг
+    lt: ledkalnis
+    lv: aisbergs
+    mdf: айсбергсь
+    mk: санта
+    ml: മഞ്ഞുമല ശകലങ്ങൾ
+    mr: हिमनग
+    ms: aisberg
+    my: ရေခဲတောင်
+    myv: эйбандо
+    nah: cetepētl
+    nan: peng-soaⁿ
+    nb: isfjell
+    nds: Iesbarg
+    ne: हिमशिला
+    nl: ijsberg
+    nn: isfjell
+    oc: iceberg
+    pa: ਬਰਫ਼-ਤੋਦਾ
+    pl: góra lodowa
+    pnb: برفانی تودا
+    pt: iceberg
+    pt-br: iceberg
+    ro: aisberg
+    ru: айсберг
+    sah: айсберг
+    sd: برف جون ڇپون
+    se: jiekŋavárri
+    sh: santa leda
+    sk: kryha
+    sl: ledena gora
+    sma: jïengevaerie
+    smj: jiegŋavárre
+    smn: jieŋâvääri
+    sms: jiõŋŋvääʹrr
+    sq: ajsberg
+    sr: санта леда
+    sv: isberg
+    sw: siwa barafu
+    ta: பனிமலை
+    tg: кӯҳи яхӣ
+    th: ภูเขาน้ำแข็ง
+    tl: Iceberg
+    tr: buzdağı
+    tt: айсберг
+    udm: йӧгурезь
+    uk: айсберг
+    ur: آئس برگ
+    uz: aysberg
+    vi: băng trôi
+    wa: isber
+    war: iceberg
+    wuu: 冰山
+    yi: אייזבארג
+    yue: 冰山
+    zh: 冰山
+aliases:
+- aisberg
+- aisbergs
+- ajsberg
+- ayisbèg
+- aysberg
+- aysberq
+- borgarísjaki
+- buzdağı
+- băng trôi
+- cetepētl
+- cnoc oighir
+- Eisberg
+- flotacinta glacimonto
+- glacimonto
+- gunung es
+- gunung is
+- gunung ès
+- góra lodowa
+- iceber
+- iceberg
+- Iesbarg
+- ijsberg
+- isber
+- isberg
+- isbjerg
+- isfjell
+- izozmendi
+- jiegŋavárre
+- jiekŋavárri
+- jieŋâvääri
+- jiõŋŋvääʹrr
+- jäämägi
+- jäävuori
+- jéghegy
+- jïengevaerie
+- kryha
+- ledena gora
+- ledkalnis
+- mons glacialis
+- mynydd rhew
+- peng-soaⁿ
+- plovoucí ledovec
+- rewvenydh
+- santa leda
+- siwa barafu
+- ysberg
+- Äisbierg
+- īsbeorg
+- παγόβουνο
+- Аисберг
+- айсберг
+- айсбергсь
+- айсбэрг
+- йӧгурезь
+- кӯҳи яхӣ
+- мұзтау
+- санта
+- санта леда
+- эйбандо
+- սառցասար
+- אייזבארג
+- קרחון ימי
+- آئس برگ
+- برف جون ڇپون
+- برفانی تودا
+- جبل جليدي
+- شیٖنہٕ پَل
+- کوه یخ
+- ܛܘܪܐ ܕܓܠܝܕܐ
+- हिमनग
+- हिमशिला
+- हिमशैल
+- হিমশৈল
+- ਬਰਫ਼-ਤੋਦਾ
+- பனிமலை
+- ನೀರ್ಗಲ್ಲು
+- മഞ്ഞുമല ശകലങ്ങൾ
+- ภูเขาน้ำแข็ง
+- ရေခဲတောင်
+- აისბერგი
+- 冰山
+- 氷山
+- 빙산
 ---
-
 # [[Iceberg]] 
 
 #is_/same_as :: [[WD~Iceberg,47568]] 

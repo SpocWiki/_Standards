@@ -1,11 +1,56 @@
 ---
 aliases:
-  - Tom Scholz
-  - Scholz,Tom
-  - Donald Thomas Scholz
-  - Thomas Scholz
+- Donald Thomas Scholz
+- Scholz,Tom
+- Thomas Scholz
+- Tom Scholz
+- Том Шольц
+- Թոմ Շոլց
+- تام شولتز
+- توم ستشولز
+- 湯姆·肖爾茨
+- 톰 숄츠
+has_id_wikidata: Q984353
+dv_has_:
+  name_:
+    an: Tom Scholz
+    arz: توم ستشولز
+    ast: Tom Scholz
+    azb: تام شولتز
+    ca: Tom Scholz
+    cs: Tom Scholz
+    da: Tom Scholz
+    de: Tom Scholz
+    en: Tom Scholz
+    en-ca: Tom Scholz
+    en-gb: Tom Scholz
+    es: Tom Scholz
+    eu: Tom Scholz
+    fa: تام شولتز
+    fi: Tom Scholz
+    fr: Tom Scholz
+    ga: Tom Scholz
+    gl: Tom Scholz
+    hu: Tom Scholz
+    hy: Թոմ Շոլց
+    it: Tom Scholz
+    ko: 톰 숄츠
+    mg: Tom Scholz
+    mul: Tom Scholz
+    nb: Tom Scholz
+    nl: Tom Scholz
+    nn: Tom Scholz
+    pap: Tom Scholz
+    pl: Tom Scholz
+    pt: Tom Scholz
+    pt-br: Tom Scholz
+    ru: Том Шольц
+    sl: Tom Scholz
+    sq: Tom Scholz
+    sv: Tom Scholz
+    tr: Tom Scholz
+    zh: 湯姆·肖爾茨
 ---
-
 # [[Scholz,Tom]] 
 
 ## #has_/text_of_/abstract  

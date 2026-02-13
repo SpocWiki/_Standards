@@ -1,9 +1,24 @@
 ---
 aliases:
-  - secundum quid et simpliciter
-  - secundum quid
+- a dicto simpliciter
+- Dicto simpliciter
+- Fallacia a dicto secundum quid ad dictum simpliciter
+- secundum quid
+- secundum quid et simpliciter
+- דיקטו סימפליקיטר
+has_id_wikidata: Q4660909
+dv_has_:
+  name_:
+    en: a dicto simpliciter
+    fi: Dicto simpliciter
+    ga: a dicto simpliciter
+    he: דיקטו סימפליקיטר
+    pl: Fallacia a dicto secundum quid ad dictum simpliciter
+    pt: Dicto simpliciter
+    sl: a dicto simpliciter
+    tr: a dicto simpliciter
+    uk: Secundum quid
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Secundum quid** (also called secundum quid et simpliciter, 

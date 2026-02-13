@@ -1,4 +1,75 @@
-
+---
+has_id_wikidata: Q1917775
+dv_has_:
+  name_:
+    ar: ناشر موسيقى
+    be: музычны выдавец
+    be-tarask: музычнае выдавецтва
+    ca: editorial de música
+    cs: hudební vydavatelství
+    de: Musikverlag
+    el: μουσικός εκδοτικός οίκος
+    en: music publishing company
+    eo: muzika eldonejo
+    es: editora musical
+    fi: musiikkikustantamo
+    fr: éditeur musical
+    fy: Muzykútjouwer
+    gl: editora musical
+    hr: glazbeno izdavaštvo
+    id: perusahan penerbit musik
+    it: casa editrice musicale
+    ja: 音楽出版社
+    ko: 음악 출판사
+    lt: muzikos leidybos bendrovė
+    lv: mūzikas izplatīšanas uzņēmums
+    mk: музичко издаваштво
+    nb: musikkforlag
+    nl: muziekuitgeverij
+    pl: wydawnictwo muzyczne
+    pt: editora musical
+    ru: музыкальный издатель
+    sh: diskografska kuća
+    sk: hudobné vydavateľstvo
+    sl: glasbena založba
+    sv: musikförlag
+    th: ตัวแทนนักแต่งเพลง
+    uk: видавництво музики
+    zh: 音樂出版社
+aliases:
+- casa editrice musicale
+- diskografska kuća
+- editora musical
+- editorial de música
+- glasbena založba
+- glazbeno izdavaštvo
+- hudební vydavatelství
+- hudobné vydavateľstvo
+- music publishing company
+- musiikkikustantamo
+- musikförlag
+- musikkforlag
+- Musikverlag
+- muziekuitgeverij
+- muzika eldonejo
+- muzikos leidybos bendrovė
+- Muzykútjouwer
+- mūzikas izplatīšanas uzņēmums
+- perusahan penerbit musik
+- wydawnictwo muzyczne
+- éditeur musical
+- μουσικός εκδοτικός οίκος
+- видавництво музики
+- музичко издаваштво
+- музыкальный издатель
+- музычнае выдавецтва
+- музычны выдавец
+- ناشر موسيقى
+- ตัวแทนนักแต่งเพลง
+- 音楽出版社
+- 音樂出版社
+- 음악 출판사
+---
 # [[Music_Publisher]] 
 
 In 2025 70% of all music is published by the big three: 

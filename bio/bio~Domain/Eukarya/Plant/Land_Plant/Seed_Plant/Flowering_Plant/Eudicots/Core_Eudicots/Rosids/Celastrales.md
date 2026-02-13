@@ -1,9 +1,108 @@
 ---
 aliases:
-  - Celastrales
+- Benved-ordenen
+- bršlencotvaré
+- bộ Dây gối
+- Celastrales
+- Celastraloj
+- Celastrals
+- dławiszowce
+- Gušićolike
+- jesencotvaré
+- kecskerágó-virágúak
+- Kikkapuulaadsed
+- Koma germeşoyan
+- segliņu rinda
+- Smaugikiečiai
+- Spindelbaumartige
+- Κηλαστρώδη
+- бересклетоцветные
+- Бруслиноцвіті
+- Брызглінакветныя
+- Сақалды берескиет
+- чашкодряноцветни
+- իլենածաղկավորներ
+- קלסטראים
+- حرابيات
+- گوشوارکسانان
+- อันดับกระทงลาย
+- ニシキギ目
+- 卫矛目
+- 衛矛目
+- 노박덩굴목
 title: Celastrales
+has_id_wikidata: Q21870
+dv_has_:
+  name_:
+    an: Celastrales
+    ar: حرابيات
+    arz: حرابيات
+    ast: Celastrales
+    az: Celastrales
+    be: Брызглінакветныя
+    be-tarask: брызглінакветныя
+    bg: чашкодряноцветни
+    ca: Celastrals
+    ceb: Celastrales
+    cs: jesencotvaré
+    da: Benved-ordenen
+    de: Spindelbaumartige
+    el: Κηλαστρώδη
+    en: Celastrales
+    en-ca: Celastrales
+    en-gb: Celastrales
+    eo: Celastraloj
+    es: Celastrales
+    et: Kikkapuulaadsed
+    eu: Celastrales
+    ext: Celastrales
+    fa: گوشوارکسانان
+    fi: Celastrales
+    fr: Celastrales
+    frr: Celastrales
+    ga: Celastrales
+    gl: Celastrales
+    he: קלסטראים
+    hr: Gušićolike
+    hu: kecskerágó-virágúak
+    hy: իլենածաղկավորներ
+    ia: Celastrales
+    id: Celastrales
+    ie: Celastrales
+    io: Celastrales
+    it: Celastrales
+    ja: ニシキギ目
+    kk: Сақалды берескиет
+    ko: 노박덩굴목
+    ku: Koma germeşoyan
+    la: Celastrales
+    lt: Smaugikiečiai
+    lv: segliņu rinda
+    mul: Celastrales
+    nb: Celastrales
+    nl: Celastrales
+    oc: Celastrales
+    pl: dławiszowce
+    pt: Celastrales
+    pt-br: Celastrales
+    ro: Celastrales
+    ru: бересклетоцветные
+    sk: bršlencotvaré
+    sl: Celastrales
+    sq: Celastrales
+    sv: Celastrales
+    th: อันดับกระทงลาย
+    tr: Celastrales
+    uk: Бруслиноцвіті
+    vi: bộ Dây gối
+    vo: Celastrales
+    war: Celastrales
+    zh: 卫矛目
+    zh-cn: 卫矛目
+    zh-hans: 卫矛目
+    zh-hant: 卫矛目
+    zh-tw: 衛矛目
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -1,13 +1,144 @@
 ---
 aliases:
+- contemporary philosophy
+- Falsafah kontemporari
+- fealsúnacht chomhaimseartha
+- felsefeya hevdem
+- filosofia contemporanea
+- filosofia contemporània
+- Filosofia contemporânea
+- Filosofia garaikide
+- Filosofìa contemporania
+- filosofía contemporánea
+- Filozofi kontamporenn
+- filozofia contemporana
+- filozofia współczesna
+- Filsafat kontemporer
+- fiłosofia contenporànea
+- hedendaagse filosofie
+- Heimspeki samtímans
+- Kantempareri filasafi
+- kortárs filozófia
+- modernioji filosofija
+- Müasir fəlsəfə
+- nuntempa filozofio
+- Nutidens filosofi
+- Nykyfilosofia
+- Philosophia hodierna
+- philosophie contemporaine
+- Philosophie der Gegenwart
+- Samtidsfilosofi
+- Savremena filozofija
+- sodobna filozofija
+- současná filozofie
+- súčasná filozofia
+- Triết học đương đại
+- çağdaş felsefe
+- азыркы философия
+- нырыккон философи
+- Орчин үеийн философи
+- современа филозофија
+- современная философия
+- сучасна філософія
+- сучасная філязофія
+- Съвременна философия
+- Фалсафаи муосир
+- ХІХ-ХХ – ғасырдағы Батыс философиясы
+- Хальхи философи
+- Хәҙерге заман фәлсәфәһе
+- ժամանակակից փիլիսոփայություն
+- פילוסופיה בת זמננו
+- فلسفة معاصرة
+- فلسفه معاصر
+- فەلسەفەی ھاوچەرخ
+- معاصره فلسفې
+- समकालीन दर्शन
+- ਸਮਕਾਲੀ ਫ਼ਲਸਫ਼ਾ
+- தற்கால மெய்யியல்
+- အနောက်တိုင်းဖီလိုဆိုဖီခေတ်တိ
+- ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵎⵉⵔⴰⵏⵜ
+- 当代哲学家
+- 現代思想
+- 當代哲學
+- 當代哲學家
+- 현대철학
 has_id_wikidata: Q943303
-subclass_of: "[[_Standards/WikiData/WD~Western_philosophy,842333]]"
-different_from: "[[_Standards/WikiData/WD~modern_philosophy,860746]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+subclass_of: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
+different_from: '[[_Standards/WikiData/WD~modern_philosophy,860746]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Library_of_Congress_Classification: B790-B5802
 Commons_category: Contemporary philosophy
+dv_has_:
+  name_:
+    ar: فلسفة معاصرة
+    ast: filosofía contemporánea
+    az: Müasir fəlsəfə
+    ba: Хәҙерге заман фәлсәфәһе
+    be-tarask: сучасная філязофія
+    bg: Съвременна философия
+    bs: Savremena filozofija
+    ca: filosofia contemporània
+    ckb: فەلسەفەی ھاوچەرخ
+    cs: současná filozofie
+    cv: Хальхи философи
+    da: Samtidsfilosofi
+    de: Philosophie der Gegenwart
+    en: contemporary philosophy
+    eo: nuntempa filozofio
+    es: filosofía contemporánea
+    eu: Filosofia garaikide
+    fa: فلسفه معاصر
+    fi: Nykyfilosofia
+    fr: philosophie contemporaine
+    ga: fealsúnacht chomhaimseartha
+    gcr: Filozofi kontamporenn
+    gl: Filosofía contemporánea
+    he: פילוסופיה בת זמננו
+    hi: समकालीन दर्शन
+    hu: kortárs filozófia
+    hy: ժամանակակից փիլիսոփայություն
+    id: Filsafat kontemporer
+    is: Heimspeki samtímans
+    it: filosofia contemporanea
+    ja: 現代思想
+    jam: Kantempareri filasafi
+    kk: ХІХ-ХХ – ғасырдағы Батыс философиясы
+    ko: 현대철학
+    ku: felsefeya hevdem
+    ky: азыркы философия
+    la: Philosophia hodierna
+    lld: Filosofia contemporanea
+    lt: modernioji filosofija
+    mk: современа филозофија
+    mn: Орчин үеийн философи
+    ms: Falsafah kontemporari
+    nb: samtidsfilosofi
+    nl: hedendaagse filosofie
+    os: нырыккон философи
+    pa: ਸਮਕਾਲੀ ਫ਼ਲਸਫ਼ਾ
+    pl: filozofia współczesna
+    pms: Filosofìa contemporania
+    ps: معاصره فلسفې
+    pt: Filosofia contemporânea
+    pt-br: filosofia contemporânea
+    rki: အနောက်တိုင်းဖီလိုဆိုဖီခေတ်တိ
+    ro: filozofia contemporana
+    ru: современная философия
+    sk: súčasná filozofia
+    sl: sodobna filozofija
+    sr: Savremena filozofija
+    sv: Nutidens filosofi
+    ta: தற்கால மெய்யியல்
+    tg: Фалсафаи муосир
+    tr: çağdaş felsefe
+    uk: сучасна філософія
+    vec: fiłosofia contenporànea
+    vi: Triết học đương đại
+    zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵎⵉⵔⴰⵏⵜ
+    zh: 當代哲學
+    zh-hans: 当代哲学家
+    zh-hant: 當代哲學家
 ---
-
 #is_/same_as :: [[../WikiData/WD~Contemporary_philosophy,943303|WD~Contemporary_philosophy,943303]] 
 
 

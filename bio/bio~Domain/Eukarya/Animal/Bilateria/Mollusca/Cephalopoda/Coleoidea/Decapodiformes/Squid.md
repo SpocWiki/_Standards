@@ -1,15 +1,91 @@
 ---
 aliases:
-  - Teuthida
-  - Squid
+- Bộ Mực ống
+- calamar
+- Calmar
+- Cumi
+- Cumi-cumi
+- Cônet
+- ennos
+- ink-fish
+- Iwak Nus
+- Iù-ngṳ̀
+- Jiû-hî
+- Juhi
+- Kalama
+- Kalamar
+- Kalamara
+- Kalmaarilised
+- Kalmarai
+- Kalmare
+- kalmarit
+- Kalmarlar
+- Kalmaro
+- Kalmaroj
+- Kalmary
+- kalmárok
+- Kalmāri
+- kałamarnice
+- krakatice
+- Kuitanu
+- lignje
+- lignji
+- Loligo vulgaris
+- Lula
+- Lura
+- Mankio
+- Môr lawes
+- Ngisi
+- Ofirikosok
+- Pieldintenfische
+- pijlinktvissen
+- Pusit
+- Pylinkvis
+- Samanna
+- scuid
+- Smokkfiskur
+- Sotong
+- Squid
+- Tautena
+- Teuthida
+- txipiroi
+- Łóóʼ bigaan neeznání íiyisígíí
+- Καλαμάρι
+- калмари
+- Кальмар
+- кальмари
+- Кальмарлар
+- кальмартæ
+- кальмары
+- Лигње
+- лигни
+- Կաղամարներ
+- דיונוני רחף
+- سبيدج
+- قیر ماہی مچھلی
+- ماهی مرکب
+- کالمارلار
+- विद्रूप
+- স্কুইড
+- கணவாய்
+- കൂന്തൾ
+- หมึกกล้วย
+- ပြည်ကြီးငါး
+- კალმარები
+- Ẹja ọlọ́wọ́ mẹ́wàá
+- ツツイカ目
+- 管魷目
+- 管鱿目
+- 魷魚
+- 살오징어목
 has_id_wikidata: Q81900
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~squid_as_food,550774]]"
-parent_taxon: "[[_Standards/WikiData/WD~Decapodiformes,843338]]"
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~squid_as_food,550774]]'
+parent_taxon: '[[_Standards/WikiData/WD~Decapodiformes,843338]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 82367
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mastigoteuthis%20flammea.jpg
 Archive_of_Our_Own_tag: Octopi *a* Squid
@@ -20,9 +96,112 @@ MCN_code: 0307.43.10
 EPPO_Code: 1TEUTO
 Dewey_Decimal_Classification: 594.58
 NBN_System_Key: NHMSYS0021055248
-Unicode_character: 🦑
+Unicode_character: "\U0001F991"
+dv_has_:
+  name_:
+    af: Pylinkvis
+    an: Teuthida
+    ann: Ofirikosok
+    ar: سبيدج
+    arz: سبيدج
+    ast: Loligo vulgaris
+    az: Kalmarlar
+    azb: کالمارلار
+    ban: Cumi
+    bcl: Pusit
+    be: кальмары
+    be-tarask: кальмары
+    bew: Juhi
+    bg: калмари
+    bn: স্কুইড
+    ca: calamar
+    cdo: Iù-ngṳ̀
+    ceb: Teuthida
+    cs: krakatice
+    cy: Môr lawes
+    de: Kalmare
+    el: Καλαμάρι
+    en: Teuthida
+    eo: Kalmaroj
+    es: Teuthida
+    et: Kalmaarilised
+    eu: txipiroi
+    ext: Teuthida
+    fa: ماهی مرکب
+    fi: kalmarit
+    fj: Kuitanu
+    fr: Teuthida
+    ga: scuid
+    gl: Lura
+    gn: Kalama
+    gom: Mankio
+    he: דיונוני רחף
+    hi: विद्रूप
+    hr: lignje
+    hu: kalmárok
+    hy: Կաղամարներ
+    ia: Teuthida
+    id: Cumi-cumi
+    ie: Teuthida
+    io: Kalmaro
+    is: Smokkfiskur
+    it: Teuthida
+    ja: ツツイカ目
+    jv: Iwak Nus
+    ka: კალმარები
+    kk: Кальмар
+    ko: 살오징어목
+    ky: Кальмарлар
+    la: Teuthida
+    lfn: Calamar
+    lt: Kalmarai
+    lv: Kalmāri
+    mad: ennos
+    mg: Kalamara
+    mk: лигни
+    ml: കൂന്തൾ
+    ms: Sotong
+    mul: Teuthida
+    my: ပြည်ကြီးငါး
+    nan: Jiû-hî
+    nds: Pieldintenfische
+    nl: pijlinktvissen
+    nrm: Cônet
+    nv: Łóóʼ bigaan neeznání íiyisígíí
+    oc: Tautena
+    os: кальмартæ
+    pl: kałamarnice
+    pt: Lula
+    pt-br: Teuthida
+    qu: Samanna
+    ro: Calmar
+    ru: кальмары
+    sco: ink-fish
+    sh: Lignje
+    sk: Kalmary
+    sl: lignji
+    sq: Teuthida
+    sr: Лигње
+    su: Cumi-cumi
+    sv: Teuthida
+    sw: Ngisi
+    ta: கணவாய்
+    th: หมึกกล้วย
+    tl: Pusit
+    tr: Kalamar
+    uk: кальмари
+    ur: قیر ماہی مچھلی
+    uz: Kalmarlar
+    vi: Bộ Mực ống
+    vo: Teuthida
+    war: Teuthida
+    wuu: 管鱿目
+    yo: Ẹja ọlọ́wọ́ mẹ́wàá
+    yue: 魷魚
+    zh: 管魷目
+    zh-cn: 管魷目
+    zh-hans: 管鱿目
 ---
-
 # [[Squid]] 🦑 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Teuthida,81900|WD~Teuthida,81900]]  

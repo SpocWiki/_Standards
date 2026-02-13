@@ -1,50 +1,312 @@
 ---
 aliases:
+- amhránaíocht
+- arraneys
+- Belagu
+- cant
+- canta
+- cante
+- canto
+- cantu
+- Cantus
+- canu
+- chan
+- chant
+- chantè
+- chhiùⁿ-koa
+- cântare
+- dainavimas
+- dziedāšana
+- dêrvan
+- džambiba
+- gayan
+- Gesang
+- Gesank
+- gsang
+- hát
+- Jayeechi
+- kanañ
+- kant
+- kantado
+- kantu
+- laulmine
+- laulu
+- lávlun
+- läullmõš
+- menyanyi
+- nakamowin
+- nyanyian
+- nzembo
+- orin kíkọ
+- oxumaq
+- pag-awit
+- pajo
+- petje
+- pjevanje
+- purahéi
+- sang
+- sanga
+- Sangcræft
+- sangkuns
+- seinn
+- singin
+- singing
+- Sjongen
+- sjunga
+- song
+- spev
+- spiéw
+- spěwanje
+- söngur
+- taki
+- taloa
+- tchantaedje
+- yili
+- zangkeunst
+- zangkunst
+- zank
+- zpěv
+- éneklés
+- śpiew
+- śpjyw
+- şarkı söyleme
+- άσμα
+- зард
+- морамо
+- певање
+- пеење
+- пеене
+- пение
+- сараяндагӣ
+- спів
+- спеў
+- сьпеў
+- ырдоо
+- юрлани
+- җырлау
+- երգեցողություն
+- געזאנג
+- זמרה
+- خوانندگی
+- خونش
+- غنا
+- غناء
+- گؠوُن
+- گلوکاری
+- گۆرانیبێژی
+- ܙܡܪܐ
+- गाउनु
+- गायक
+- गायकी
+- गायन
+- গাওয়া
+- ਗਾਇਕੀ
+- ଗାୟନ
+- பாடுதல்
+- గానం
+- ಗಾಯನ
+- ഗാനാലാപനം
+- ගායකයා
+- การร้องเพลง
+- ການຂັບລຳ
+- གཞས་གཏོང་བ།
+- ვოკალისტი
+- მობირე
+- ᱥᱮᱨᱮᱧ
+- 唱
+- 唱歌
+- 歌唱
+- 가창
 has_id_wikidata: Q27939
 practiced_by:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-immediate_cause_of: "[[_Standards/WikiData/WD~vocal_music,685884]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~vocal_music,685884]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+immediate_cause_of: '[[_Standards/WikiData/WD~vocal_music,685884]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~vocal_music,685884]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~activity,1914636]]"
-  - "[[_Standards/WikiData/WD~musical_performance,6942562]]"
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~musical_performance,6942562]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~vocal,2529757]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-uses: "[[_Standards/WikiData/WD~vocal_apparatus,4142193]]"
+- '[[_Standards/WikiData/WD~vocal,2529757]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+uses: '[[_Standards/WikiData/WD~vocal_apparatus,4142193]]'
 different_from:
-  - "[[_Standards/WikiData/WD~chant,23072435]]"
-  - "[[_Standards/WikiData/WD~vocal_performance,105245071]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_activity,125542526]]"
+- '[[_Standards/WikiData/WD~chant,23072435]]'
+- '[[_Standards/WikiData/WD~vocal_performance,105245071]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_activity,125542526]]'
 Dewey_Decimal_Classification:
-  - "782"
-  - "783"
+- 782
+- 783
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Gesang.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-JEP2022-visiteur26%20%28Madehub%29-chant.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Gesang.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-JEP2022-visiteur26%20%28Madehub%29-chant.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ah%20cricket%2020122%20%287364759010%29.jpg
-U_S_National_Archives_Identifier: "10663863"
+U_S_National_Archives_Identifier: 10663863
 described_at_URL: https://neal.fun/earth-reviews/singing
 Iconclass_notation: 11Q7571
 Provenio_UUID: 6adf441a-a0be-4c99-bd0b-80ee43d1bcf0
 UMLS_CUI:
-  - C0335076
-  - C3494466
+- C0335076
+- C3494466
 MeSH_tree_code: G09.772.585.500
 IMDb_keyword: singing
 subreddit: singing
 hashtag: Singing
 Commons_category: Singing
 Baidu_Tieba_name: 唱歌
+dv_has_:
+  name_:
+    af: sangkuns
+    an: cante
+    ang: Sangcræft
+    ar: غناء
+    arc: ܙܡܪܐ
+    arz: غنا
+    ast: cantu
+    atj: nakamowin
+    az: oxumaq
+    bar: gsang
+    bdr: Belagu
+    be: спеў
+    be-tarask: сьпеў
+    bg: пеене
+    bho: गायकी
+    bn: গাওয়া
+    bo: གཞས་གཏོང་བ།
+    br: kanañ
+    bs: pjevanje
+    ca: cant
+    cho: taloa
+    ckb: گۆرانیبێژی
+    cs: zpěv
+    csb: spiéw
+    cv: юрлани
+    cy: canu
+    da: sang
+    dag: yili
+    de: Gesang
+    de-ch: Gesang
+    diq: dêrvan
+    el: άσμα
+    en: singing
+    en-ca: singing
+    en-gb: singing
+    eo: kantado
+    es: canto
+    et: laulmine
+    eu: kantu
+    fa: خوانندگی
+    fi: laulu
+    fr: chant
+    fy: Sjongen
+    ga: amhránaíocht
+    gan: 唱歌
+    gcr: chan
+    gd: seinn
+    gl: canto
+    gn: purahéi
+    gsw: Gsang
+    guc: Jayeechi
+    gv: arraneys
+    ha: Singing
+    he: זמרה
+    hi: गायन
+    hif: gayan
+    hr: pjevanje
+    hsb: spěwanje
+    ht: chantè
+    hu: éneklés
+    hy: երգեցողություն
+    ia: canto
+    iba: Belagu
+    id: menyanyi
+    is: söngur
+    it: canto
+    ja: 歌唱
+    jam: singin
+    jbo: sanga
+    ka: ვოკალისტი
+    kn: ಗಾಯನ
+    ko: 가창
+    ks: گؠوُن
+    ky: ырдоо
+    la: Cantus
+    lb: Gesank
+    li: zank
+    ln: nzembo
+    lo: ການຂັບລຳ
+    lt: dainavimas
+    lv: dziedāšana
+    mai: गायन
+    mk: пеење
+    ml: ഗാനാലാപനം
+    ms: nyanyian
+    mt: kant
+    myv: морамо
+    mzn: خونش
+    nan: chhiùⁿ-koa
+    nb: sang
+    nds-nl: zangkeunst
+    ne: गाउनु
+    new: गायक
+    nl: zangkunst
+    nn: song
+    oc: cant
+    olo: pajo
+    or: ଗାୟନ
+    os: зард
+    pa: ਗਾਇਕੀ
+    pap: canta
+    pcd: cant
+    pl: śpiew
+    pnb: گلوکاری
+    pt: canto
+    pt-br: canto
+    qu: taki
+    rmf: džambiba
+    ro: cântare
+    ru: пение
+    sat: ᱥᱮᱨᱮᱧ
+    scn: cantu
+    sco: singin
+    se: lávlun
+    sh: pjevanje
+    si: ගායකයා
+    sk: spev
+    sl: petje
+    sms: läullmõš
+    sr: певање
+    sv: sjunga
+    szl: śpjyw
+    ta: பாடுதல்
+    te: గానం
+    tg: сараяндагӣ
+    th: การร้องเพลง
+    tl: pag-awit
+    tr: şarkı söyleme
+    tt: җырлау
+    uk: спів
+    ur: گلوکاری
+    vi: hát
+    wa: tchantaedje
+    wuu: 唱歌
+    xmf: მობირე
+    yi: געזאנג
+    yo: orin kíkọ
+    yue: 唱
+    zh: 歌唱
+    zh-cn: 歌唱
+    zh-hans: 歌唱
+    zh-hant: 歌唱
+    zh-hk: 歌唱
+    zh-tw: 歌唱
 ---
-
 # [[Singing]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Singing,27939|WD~Singing,27939]]  

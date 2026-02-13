@@ -1,60 +1,145 @@
 ---
 aliases:
-  - Phoenician script
-  - Script~Phoenician
+- Abbyrlhit Feaneeckagh
+- abecedarium Phoenicium
+- Abidy foinikiana
+- Abjad Fenisia
+- Abjad Phoenicia
+- Abjad Pinisia
+- Agemmay afiniqi
+- aksara Fenisia
+- alfabet fenici
+- Alfabet fenician
+- alfabet fenicki
+- Alfabeta fenisia
+- Alfabeti fenikas
+- alfabeto fenicio
+- Alfabeto fenício
+- alfabetu feniciu
+- alfabetul fenician
+- Alfabey Feniki
+- Alfabeya fenîkî
+- Alpabetong Penisyo
+- bảng chữ cái Phoenicia
+- det fønikiske alfabetet
+- fenica alfabeto
+- Fenicisch alfabet
+- feniciska alfabetet
+- Fenické písmo
+- Fenike alfabesi
+- Fenisiese alfabet
+- Fenisyo nga abakadahan
+- Fenisysk alfabet
+- Feniziar alfabeto
+- feničanska pisava
+- Feničansko pismo
+- Feničko pismo
+- feniķiešu alfabēts
+- finikiečių raštas
+- Finikiy yozuvi
+- foiniikia kiri
+- foinikialainen kirjaimisto
+- Fénické písmo
+- Fönikískt stafróf
+- föníciai ábécé
+- fønikisk alfabet
+- Fønikiske alfabet
+- Lizherenneg fenisek
+- Phenizisches Alphabet
+- Phoenician script
+- phönizische Schrift
+- Phönizisches Alphabet
+- Script~Phoenician
+- sitelen Kanan
+- écriture phénicienne
+- φοινικικο αλφάβητο
+- Сирӹшӹ финикий
+- фінікійскае пісьмо
+- фінікійське письмо
+- Феникиска азбука
+- феничко писмо
+- Финики çырăвĕ
+- Финикийн йоза
+- Финикийска писменост
+- финикийское письмо
+- Финикия жазуусу
+- Финикия жазуы
+- Финикия яҙыуы
+- финикиялеләр язуы
+- Хати финиқӣ
+- Փյունիկերենի այբուբեն
+- אלפבית פיניקי
+- أبجدية فينيقية
+- الفبای فنیقی
+- فنيقي ليکدود
+- فونیقی حروف تہجی
+- فونیقی لپی
+- ߝߋߣߛߌ߫ ߛߓߍߟߌ
+- फ़ोनीशियाई वर्णमाला
+- फेनेसियन लिपि
+- फोनेसियन वर्णमाला
+- ফিনিশীয় লিপি
+- ਫੋਨੀਸ਼ੀਆਈ ਲਿਪੀ
+- பினீசிய எழுத்து
+- ชุดตัวอักษรฟินิเชีย
+- ფინიკიური დამწერლობა
+- ფინიკიური ჭარალუა
+- フェニキア文字
+- 腓尼基字母
+- 페니키아 문자
 has_id_wikidata: Q26752
 instance_of:
-  - "[[_Standards/WikiData/WD~abjad,185087]]"
-  - "[[_Standards/WikiData/WD~unicase_alphabet,4004706]]"
-  - "[[_Standards/WikiData/WD~Semitic_alphabet,28698154]]"
-  - "[[_Standards/WikiData/WD~natural_writing_system,29517555]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-location: "[[_Standards/WikiData/WD~Directorate_General_of_Antiquities,5280614]]"
-script_directionality: "[[_Standards/WikiData/WD~right_to_left,7333457]]"
+- '[[_Standards/WikiData/WD~abjad,185087]]'
+- '[[_Standards/WikiData/WD~unicase_alphabet,4004706]]'
+- '[[_Standards/WikiData/WD~Semitic_alphabet,28698154]]'
+- '[[_Standards/WikiData/WD~natural_writing_system,29517555]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+location: '[[_Standards/WikiData/WD~Directorate_General_of_Antiquities,5280614]]'
+script_directionality: '[[_Standards/WikiData/WD~right_to_left,7333457]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~𐤁,9099115]]"
-  - "[[_Standards/WikiData/WD~𐤀,9099112]]"
-  - "[[_Standards/WikiData/WD~𐤉,9099122]]"
-  - "[[_Standards/WikiData/WD~𐤏,9099135]]"
-  - "[[_Standards/WikiData/WD~𐤆,11120962]]"
-  - "[[_Standards/WikiData/WD~𐤎,11120967]]"
-  - "[[_Standards/WikiData/WD~𐤔,11120972]]"
-  - "[[_Standards/WikiData/WD~𐤃,12221446]]"
-  - "[[_Standards/WikiData/WD~𐤄,12221447]]"
-  - "[[_Standards/WikiData/WD~𐤂,12221448]]"
-  - "[[_Standards/WikiData/WD~𐤇,12857562]]"
-  - "[[_Standards/WikiData/WD~𐤌,12857574]]"
-  - "[[_Standards/WikiData/WD~𐤐,12857582]]"
-  - "[[_Standards/WikiData/WD~𐤑,12857590]]"
-  - "[[_Standards/WikiData/WD~𐤕,12857603]]"
-  - "[[_Standards/WikiData/WD~𐤓,13534269]]"
-  - "[[_Standards/WikiData/WD~𐤒,16652565]]"
-  - "[[_Standards/WikiData/WD~𐤅,17370324]]"
-  - "[[_Standards/WikiData/WD~𐤈,17522730]]"
-  - "[[_Standards/WikiData/WD~𐤍,17522734]]"
-  - "[[_Standards/WikiData/WD~𐤊,17522732]]"
-  - "[[_Standards/WikiData/WD~𐤋,17522733]]"
-heritage_designation: "[[_Standards/WikiData/WD~Memory_of_the_World_International_Register,16024238]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Phoenician_letter,41806174]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+- "[[_Standards/WikiData/WD~\U00010901,9099115]]"
+- "[[_Standards/WikiData/WD~\U00010900,9099112]]"
+- "[[_Standards/WikiData/WD~\U00010909,9099122]]"
+- "[[_Standards/WikiData/WD~\U0001090F,9099135]]"
+- "[[_Standards/WikiData/WD~\U00010906,11120962]]"
+- "[[_Standards/WikiData/WD~\U0001090E,11120967]]"
+- "[[_Standards/WikiData/WD~\U00010914,11120972]]"
+- "[[_Standards/WikiData/WD~\U00010903,12221446]]"
+- "[[_Standards/WikiData/WD~\U00010904,12221447]]"
+- "[[_Standards/WikiData/WD~\U00010902,12221448]]"
+- "[[_Standards/WikiData/WD~\U00010907,12857562]]"
+- "[[_Standards/WikiData/WD~\U0001090C,12857574]]"
+- "[[_Standards/WikiData/WD~\U00010910,12857582]]"
+- "[[_Standards/WikiData/WD~\U00010911,12857590]]"
+- "[[_Standards/WikiData/WD~\U00010915,12857603]]"
+- "[[_Standards/WikiData/WD~\U00010913,13534269]]"
+- "[[_Standards/WikiData/WD~\U00010912,16652565]]"
+- "[[_Standards/WikiData/WD~\U00010905,17370324]]"
+- "[[_Standards/WikiData/WD~\U00010908,17522730]]"
+- "[[_Standards/WikiData/WD~\U0001090D,17522734]]"
+- "[[_Standards/WikiData/WD~\U0001090A,17522732]]"
+- "[[_Standards/WikiData/WD~\U0001090B,17522733]]"
+heritage_designation: '[[_Standards/WikiData/WD~Memory_of_the_World_International_Register,16024238]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Phoenician_letter,41806174]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Punic_alphabet,55809466]]"
-  - "[[_Standards/WikiData/WD~Greek_alphabet,8216]]"
+- '[[_Standards/WikiData/WD~Punic_alphabet,55809466]]'
+- '[[_Standards/WikiData/WD~Greek_alphabet,8216]]'
 end_time: -0149-01-01T00:00:00Z
 time_of_earliest_written_record: -0839-01-01T00:00:00Z
-language_of_work_or_name: "[[_Standards/WikiData/WD~Phoenician,36734]]"
-country: "[[_Standards/WikiData/WD~Phoenicia,41642]]"
+language_of_work_or_name: '[[_Standards/WikiData/WD~Phoenician,36734]]'
+country: '[[_Standards/WikiData/WD~Phoenicia,41642]]'
 ISO_15924_numeric_code: 115
 described_at_URL:
-  - https://www.unesco.org/en/memory-world/phoenician-alphabet
-  - https://www.unesco.org/fr/memory-world/phoenician-alphabet
+- https://www.unesco.org/en/memory-world/phoenician-alphabet
+- https://www.unesco.org/fr/memory-world/phoenician-alphabet
 name:
-  - Phoenician
-  - phénicien
+- Phoenician
+- phénicien
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Phoenician%20alphabet.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Barth%C3%A9l%C3%A9my%20Alphabet%20ph%C3%A9nicien.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fenickiepismo.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Phoenician%20alphabet.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Barth%C3%A9l%C3%A9my%20Alphabet%20ph%C3%A9nicien.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fenickiepismo.JPG
 Unicode_range: U+10900-1091F
 inception: -1049-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gezer%20calendar%20close%20up.jpg
@@ -62,8 +147,106 @@ ISO_15924_alpha_4_code: Phnx
 Commons_gallery: Phoenician alphabet
 Commons_category: Phoenician script
 start_time: -1199-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Fenisiese alfabet
+    ar: أبجدية فينيقية
+    ast: alfabetu feniciu
+    ba: Финикия яҙыуы
+    bar: Phenizisches Alphabet
+    be: фінікійскае пісьмо
+    be-tarask: фінікійскае пісьмо
+    bg: Финикийска писменост
+    bjn: Abjad Pinisia
+    bn: ফিনিশীয় লিপি
+    br: Lizherenneg fenisek
+    bs: Feničko pismo
+    ca: alfabet fenici
+    ce: Финикийн йоза
+    cs: Fénické písmo
+    cv: Финики çырăвĕ
+    da: Fønikiske alfabet
+    dag: Phoenician script
+    de: phönizische Schrift
+    diq: Alfabey Feniki
+    el: φοινικικο αλφάβητο
+    en: Phoenician script
+    en-us: Phoenician script
+    eo: fenica alfabeto
+    es: alfabeto fenicio
+    et: foiniikia kiri
+    eu: Feniziar alfabeto
+    fa: الفبای فنیقی
+    fi: foinikialainen kirjaimisto
+    fr: écriture phénicienne
+    fy: Fenisysk alfabet
+    gl: Alfabeto fenicio
+    gsw: Phönizisches Alphabet
+    gur: Phoenician script
+    gv: Abbyrlhit Feaneeckagh
+    he: אלפבית פיניקי
+    hi: फ़ोनीशियाई वर्णमाला
+    hr: feničko pismo
+    hu: föníciai ábécé
+    hy: Փյունիկերենի այբուբեն
+    id: Abjad Fenisia
+    is: Fönikískt stafróf
+    it: alfabeto fenicio
+    ja: フェニキア文字
+    jv: aksara Fenisia
+    ka: ფინიკიური დამწერლობა
+    kab: Agemmay afiniqi
+    kk: Финикия жазуы
+    ko: 페니키아 문자
+    ku: Alfabeya fenîkî
+    ky: Финикия жазуусу
+    la: abecedarium Phoenicium
+    lfn: Alfabeta fenisia
+    lt: finikiečių raštas
+    lv: feniķiešu alfabēts
+    lzh: 腓尼基字母
+    mg: Abidy foinikiana
+    mk: Феникиска азбука
+    mrj: Сирӹшӹ финикий
+    ms: Abjad Phoenicia
+    nb: fønikisk alfabet
+    ne: फोनेसियन वर्णमाला
+    new: फेनेसियन लिपि
+    nl: Fenicisch alfabet
+    nn: det fønikiske alfabetet
+    nqo: ߝߋߣߛߌ߫ ߛߓߍߟߌ
+    oc: Alfabet fenician
+    pa: ਫੋਨੀਸ਼ੀਆਈ ਲਿਪੀ
+    pl: alfabet fenicki
+    pnb: فونیقی لپی
+    ps: فنيقي ليکدود
+    pt: Alfabeto fenício
+    ro: alfabetul fenician
+    ru: финикийское письмо
+    sh: Feničansko pismo
+    sk: Fenické písmo
+    skr: فونیقی حروف تہجی
+    sl: feničanska pisava
+    sq: Alfabeti fenikas
+    sr: феничко писмо
+    sv: feniciska alfabetet
+    ta: பினீசிய எழுத்து
+    tg: Хати финиқӣ
+    th: ชุดตัวอักษรฟินิเชีย
+    tl: Alpabetong Penisyo
+    tok: sitelen Kanan
+    tr: Fenike alfabesi
+    tt: финикиялеләр язуы
+    uk: фінікійське письмо
+    ur: فونیقی حروف تہجی
+    uz: Finikiy yozuvi
+    vi: bảng chữ cái Phoenicia
+    war: Fenisyo nga abakadahan
+    wuu: 腓尼基字母
+    xmf: ფინიკიური ჭარალუა
+    yue: 腓尼基字母
+    zh: 腓尼基字母
 ---
-
 # [[Script~Phoenician]] 
 
 #is_/same_as :: [[WD~Phoenician_script,26752]] 

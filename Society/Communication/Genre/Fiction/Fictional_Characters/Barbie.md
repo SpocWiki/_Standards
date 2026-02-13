@@ -1,12 +1,46 @@
 ---
-has_time_started: 1959-03-09 
+has_time_started: 1959-03-09
 aliases:
-  - Barbie
+- Barbe
+- Barbi
+- Barbi gəlincikləri
+- Barbie
+- Barbie 公仔
+- Barbiedocka
+- Barbiedukke
+- Barbė
+- Bārbija
+- Dolli Barbie
+- Golekan Barbie
+- Lalka Barbie
+- Pupo Barbie
+- Păpușă Barbie
+- Барбі
+- Барби
+- бренд Барби
+- Բարբի
+- Պարպի Պուպրիկը
+- ברבי
+- باربى
+- باربي
+- باربی
+- बार्बी
+- ਬਾਰਬੀ
+- பார்பி
+- బార్బీ
+- ಬಾರ್ಬಿ
+- ബാർബി
+- บาร์บี้
+- ბარბი
+- バービー
+- 芭比娃娃
+- ꠛꠣꠞꠛꠤ
+- 바비
 has_id_wikidata: Q167447
 instance_of:
-  - '[[_Standards/WikiData/WD~doll,168658]]'
-  - '[[_Standards/WikiData/WD~media_franchise,196600]]'
-  - '[[_Standards/WikiData/WD~brand,431289]]'
+- '[[_Standards/WikiData/WD~doll,168658]]'
+- '[[_Standards/WikiData/WD~media_franchise,196600]]'
+- '[[_Standards/WikiData/WD~brand,431289]]'
 author: '[[_Standards/WikiData/WD~Ruth_Handler,242034]]'
 owned_by: '[[_Standards/WikiData/WD~Mattel,596139]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
@@ -14,8 +48,8 @@ official_color: '[[_Standards/WikiData/WD~Barbie_pink,63089713]]'
 characters: '[[_Standards/WikiData/WD~Barbara_Millicent_Roberts,109225717]]'
 named_after: '[[_Standards/WikiData/WD~Barbara_Handler,111255249]]'
 social_media_followers:
-  - 12800000
-  - 324012
+- 12800000
+- 324012
 IMDb_keyword: barbie
 Facebook_username: barbie
 Instagram_username: barbie
@@ -29,8 +63,104 @@ Commons_category: Barbie dolls
 official_website: https://shop.mattel.com/pages/barbie
 Baidu_Tieba_name: 芭比
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BARB65%20%288080739384%29.jpg
+dv_has_:
+  name_:
+    af: Barbie
+    ar: باربي
+    arz: باربى
+    ast: Barbie
+    az: Barbi gəlincikləri
+    ban: Barbie
+    bcl: Barbie
+    be-tarask: барбі
+    bg: Барби
+    bs: Barbie
+    ca: Barbie
+    ckb: باربی
+    cs: Barbie
+    cv: Барби
+    cy: Barbie
+    da: Barbiedukke
+    de: Barbie
+    el: Barbie
+    en: Barbie
+    eo: Pupo Barbie
+    es: Barbie
+    et: Barbie
+    eu: Barbie
+    fa: باربی
+    fi: Barbie
+    fo: Barbie
+    fr: Barbie
+    ga: Barbie
+    gl: Barbie
+    he: ברבי
+    hi: Barbie
+    hr: Barbie
+    hu: Barbie
+    hy: Բարբի
+    hyw: Պարպի Պուպրիկը
+    id: Barbie
+    io: Barbie
+    is: Barbie
+    it: Barbie
+    ja: バービー
+    jv: Golekan Barbie
+    ka: ბარბი
+    kk: Барби
+    kn: ಬಾರ್ಬಿ
+    ko: 바비
+    kw: Dolli Barbie
+    lt: Barbė
+    lv: Bārbija
+    mg: Barbie
+    mk: Барби
+    ml: ബാർബി
+    mr: बार्बी
+    ms: Barbie
+    mul: Barbie
+    mwl: Barbie
+    nan: Barbie
+    nb: Barbie
+    nl: Barbie
+    nn: Barbie
+    pa: ਬਾਰਬੀ
+    pl: Lalka Barbie
+    pt: Barbie
+    pt-br: Barbie
+    ro: Păpușă Barbie
+    ru: бренд Барби
+    sah: Barbie
+    sco: Barbie
+    sgs: Barbe
+    sh: Barbie
+    sl: Barbie
+    sr: Барби
+    sr-ec: Барби
+    sr-el: Barbi
+    su: Barbie
+    sv: Barbiedocka
+    sw: Barbie
+    syl: ꠛꠣꠞꠛꠤ
+    ta: பார்பி
+    te: బార్బీ
+    th: บาร์บี้
+    tl: Barbie
+    tr: Barbie
+    uk: Барбі
+    uz: Barbie
+    vi: Barbie
+    war: Barbie
+    wuu: 芭比娃娃
+    yue: Barbie 公仔
+    zh: 芭比娃娃
+    zh-cn: 芭比娃娃
+    zh-hans: 芭比娃娃
+    zh-hant: 芭比娃娃
+    zh-hk: Barbie
+    zh-sg: 芭比娃娃
+    zh-tw: 芭比娃娃
 ---
-
 # [[Barbie]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Barbie,167447|WD~Barbie,167447]] 

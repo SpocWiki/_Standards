@@ -1,11 +1,84 @@
 ---
 aliases:
+- colectivización
+- colectivizare
+- collectivisatie
+- collectivisation
+- Collectivizacion
+- collectivization
+- collettivizzazione
+- col·lectivització
+- Kolektibizazio
+- Kolektivigo
+- kolektivizace
+- Kolektivizacija
+- Kolektivizasyon
+- Kolektivizácia poľnohospodárstva
+- kolektyvizacija
+- kolektywizacja
+- Kollektivierung
+- Kollektiviseerimine
+- kollektivisering
+- kollektivisointi
+- szövetkezetesítés
+- Κολεκτιβοποίηση
+- калектывізацыя
+- колективізація
+- колективизација
+- Колективизация
+- коллективизация
+- Күмәкләштерү
+- קולקטיביזציה
+- عملية زراعة جماعية
+- นารวม
+- 集団化
+- 集體化
 has_id_wikidata: Q26844385
-subclass_of: "[[_Standards/WikiData/WD~process,3249551]]"
-facet_of: "[[_Standards/WikiData/WD~collective_farming,4314084]]"
+subclass_of: '[[_Standards/WikiData/WD~process,3249551]]'
+facet_of: '[[_Standards/WikiData/WD~collective_farming,4314084]]'
 Commons_category: Collectivization
+dv_has_:
+  name_:
+    ar: عملية زراعة جماعية
+    be-tarask: калектывізацыя
+    bg: Колективизация
+    ca: col·lectivització
+    cs: kolektivizace
+    da: kollektivisering
+    de: Kollektivierung
+    el: Κολεκτιβοποίηση
+    en: collectivization
+    eo: Kolektivigo
+    es: colectivización
+    et: Kollektiviseerimine
+    eu: Kolektibizazio
+    fi: kollektivisointi
+    fr: collectivisation
+    gl: Colectivización
+    he: קולקטיביזציה
+    hr: Kolektivizacija
+    hu: szövetkezetesítés
+    it: collettivizzazione
+    ja: 集団化
+    lt: kolektyvizacija
+    nb: Kollektivisering
+    nl: collectivisatie
+    oc: Collectivizacion
+    pl: kolektywizacja
+    ro: colectivizare
+    ru: коллективизация
+    sah: коллективизация
+    sh: Kolektivizacija
+    sk: Kolektivizácia poľnohospodárstva
+    sl: kolektivizacija
+    sr: колективизација
+    sv: kollektivisering
+    th: นารวม
+    tr: Kolektivizasyon
+    tt: Күмәкләштерү
+    uk: колективізація
+    zh: 集體化
 ---
-
 # [[Collectivization]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Collectivization,26844385|WD~Collectivization,26844385]] 

@@ -1,32 +1,113 @@
 ---
 aliases:
-  - Home Economics
-  - domestic science
-  - FACS
-  - family and consumer sciences
-  - Hauswirtschaft
-  - Home_Economics
+- arts ménagers
+- domestic science
+- Economeg y cartref
+- Economia domestega
+- economia domestica
+- Economia domèstica
+- Economia doméstica
+- economía doméstica
+- Ekonomi rumah
+- Etxeko ekonomia
+- ev ekonomisi bölümü
+- FACS
+- family and consumer sciences
+- gospodinjstvo
+- Haushaltswissenschaft
+- Hauswirtschaft
+- hejma ekonomio
+- hem- och konsumentkunskap
+- hjemkundskab
+- Home Economics
+- Home_Economics
+- huishoudkunde
+- Huushollenge
+- háztartástan
+- Kodundus
+- kotitaloustiede
+- mat og helse
+- Pamilya at agham pangkonsumo
+- Syensya han pamilya ngan tagkonsumo
+- житлова економіка
+- сямейнае і спажывецкае вядзеньне
+- экотрофология
+- Տնային տնտեսագիտություն
+- כלכלת הבית
+- اقتصاد خانه
+- اقتصاد منزلي
+- گھریلو معاشیات
+- गृह विज्ञान
+- গার্হস্থ্য অর্থনীতি
+- ಗೃಹವಿಜ್ಞಾನ
+- 家政学
+- 家政學
+- 가정학
 has_id_wikidata: Q425694
 Commons_category: Family and consumer science
 depicted_by: '[[_Standards/WikiData/WD~IOP_1956_Episode_320,128344348]]'
 described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 Dewey_Decimal_Classification: 640
 has_part_s_:
-  - '[[_Standards/WikiData/WD~paedology,2120372]]'
-  - '[[_Standards/WikiData/WD~family_and_consumer_science,7884093]]'
-  - '[[_Standards/WikiData/WD~clothing_studies,11626612]]'
-  - '[[_Standards/WikiData/WD~housing_studies,65248698]]'
-  - '[[_Standards/WikiData/WD~food_and_nutritional_science,123518019]]'
+- '[[_Standards/WikiData/WD~paedology,2120372]]'
+- '[[_Standards/WikiData/WD~family_and_consumer_science,7884093]]'
+- '[[_Standards/WikiData/WD~clothing_studies,11626612]]'
+- '[[_Standards/WikiData/WD~housing_studies,65248698]]'
+- '[[_Standards/WikiData/WD~food_and_nutritional_science,123518019]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~school_subject,362165]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~school_subject,362165]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~housekeeper,2596569]]'
-  - '[[_Standards/WikiData/WD~home_economist,66588252]]'
+- '[[_Standards/WikiData/WD~housekeeper,2596569]]'
+- '[[_Standards/WikiData/WD~home_economist,66588252]]'
 subclass_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
 U_S_National_Archives_Identifier: 10640041
+dv_has_:
+  name_:
+    ar: اقتصاد منزلي
+    be-tarask: сямейнае і спажывецкае вядзеньне
+    bn: গার্হস্থ্য অর্থনীতি
+    ca: Economia domèstica
+    cy: Economeg y cartref
+    da: hjemkundskab
+    de: Haushaltswissenschaft
+    en: home economics
+    eo: hejma ekonomio
+    es: economía doméstica
+    et: Kodundus
+    eu: Etxeko ekonomia
+    fa: اقتصاد خانه
+    fi: kotitaloustiede
+    fr: arts ménagers
+    gl: Economía doméstica
+    he: כלכלת הבית
+    hi: गृह विज्ञान
+    hu: háztartástan
+    hy: Տնային տնտեսագիտություն
+    id: Ekonomi rumah
+    it: economia domestica
+    ja: 家政学
+    kn: ಗೃಹವಿಜ್ಞಾನ
+    ko: 가정학
+    lmo: Economia domestega
+    nb: mat og helse
+    nl: huishoudkunde
+    nn: mat og helse
+    pnb: گھریلو معاشیات
+    pt: Economia doméstica
+    pt-br: Economia doméstica
+    ru: экотрофология
+    sl: gospodinjstvo
+    stq: Huushollenge
+    sv: hem- och konsumentkunskap
+    tl: Pamilya at agham pangkonsumo
+    tr: ev ekonomisi bölümü
+    uk: житлова економіка
+    ur: گھریلو معاشیات
+    war: Syensya han pamilya ngan tagkonsumo
+    yue: 家政學
+    zh: 家政学
 ---
-
 # [[Home_Economics]] 
 
 ## #has_/text_of_/abstract 

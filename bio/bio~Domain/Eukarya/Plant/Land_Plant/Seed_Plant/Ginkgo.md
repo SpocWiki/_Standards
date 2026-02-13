@@ -1,4 +1,104 @@
-
+---
+has_id_wikidata: Q149461
+dv_has_:
+  name_:
+    an: Ginkgo
+    ar: جنكة
+    arz: جنكه
+    ast: Ginkgo
+    az: Ginkqo
+    bg: гинко
+    bs: Ginkgo
+    ca: ginkgo
+    ceb: Ginkgo
+    cs: jinan
+    cy: Ginkgo
+    da: Tempeltræ-slægten
+    de: Ginkgo
+    dsb: Ginkgo
+    en: Ginkgo
+    eo: Ginko
+    es: Ginkgo
+    et: Hõlmikpuu
+    eu: Ginkgo
+    ext: Ginkgo
+    fa: کهندار
+    fi: neidonhiuspuut
+    fr: Ginkgo
+    ga: ginceo
+    gl: Ginkgo
+    he: גינקו
+    hr: Ginkgo
+    hsb: Ginkgo
+    hu: Ginkgo
+    hy: գինկո
+    ia: Ginkgo
+    id: Ginkgo
+    ie: Ginkgo
+    io: Ginkgo
+    is: Ginkgo
+    it: Ginkgo
+    ja: イチョウ属
+    ka: გინკგო
+    kk: Гинкго
+    kn: ಜಿಂಗ್ಕೋ
+    ko: 은행나무속
+    la: Ginkgo
+    lv: Ginki
+    ms: Ginkgo
+    mul: Ginkgo
+    my: ဂင်ဂိုပင်
+    nb: Ginkgo-slekta
+    nl: Ginkgo
+    nn: Ginkgo-slekta
+    oc: Ginkgo
+    os: гинкго
+    pl: Miłorząb
+    pt: Ginkgo
+    pt-br: Ginkgo
+    ro: Ginkgo
+    ru: гинкго
+    sq: Ginkgo
+    uk: Гінкго
+    vi: Ginkgo
+    vo: Ginkgo
+    war: Ginkgo
+    yue: 銀杏屬
+    zh: 银杏属
+    zh-cn: 银杏属
+    zh-hans: 银杏属
+    zh-hant: 銀杏屬
+    zh-hk: 銀杏屬
+    zh-sg: 银杏属
+    zh-tw: 銀杏屬
+aliases:
+- ginceo
+- Ginkgo
+- Ginkgo-slekta
+- Ginki
+- Ginko
+- Ginkqo
+- Hõlmikpuu
+- jinan
+- Miłorząb
+- neidonhiuspuut
+- Tempeltræ-slægten
+- Гінкго
+- гинкго
+- гинко
+- գինկո
+- גינקו
+- جنكة
+- جنكه
+- کهندار
+- ಜಿಂಗ್ಕೋ
+- ဂင်ဂိုပင်
+- გინკგო
+- イチョウ属
+- 銀杏屬
+- 银杏属
+- 은행나무속
+---
 # [[Ginkgo]] 
 
 

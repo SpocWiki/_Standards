@@ -1,27 +1,115 @@
 ---
 aliases:
-  - Habeas corpus
-  - Habeas_Corpus
-  - Habeas Corpus
+- Habeas corpus
+- Habeas_Corpus
+- hábeas corpus
+- Хабеас корпус
+- Հաբեաս կորպուս
+- הביאס קורפוס
+- الأمر بالمثول أمام القضاء
+- هیبیاس کورپس
+- बन्दी प्रत्यक्षीकरण
+- হেবিয়াস কর্পাস (ল্যাটিন)
+- ਹੇਬੀਅਸ ਕਾਰਪਸ
+- ஆட்கொணர்வு மனு
+- హెబియస్ కార్పస్
+- ಹೇಬಿಯಸ್ ಕಾರ್ಪಸ್
+- ഹേബിയസ് കോർപ്പസ്
+- හෙබයාස් කොපුස්
+- ရှေ့တော်သွင်း စာချွန်တော် အမိန့်
+- 人身保护令
+- 人身保護令
+- 人身保護令状
+- 인신보호영장
 has_id_wikidata: Q220596
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]'
-  - '[[_Standards/WikiData/WD~Latin_phrase,3062294]]'
+- '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]'
+- '[[_Standards/WikiData/WD~Latin_phrase,3062294]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 field_of_work: '[[_Standards/WikiData/WD~law,7748]]'
 U_S_National_Archives_Identifier:
-  - 10637280
-  - 10661996
+- 10637280
+- 10661996
 Commons_category: Habeas corpus
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Habeas%20corpus.ogg
 Krugosvet_article_archived_: ekonomika-i-pravo/khabeas-korpus
 APA_Dictionary_of_Psychology_entry: habeas-corpus
+dv_has_:
+  name_:
+    af: Habeas corpus
+    ar: الأمر بالمثول أمام القضاء
+    ast: Habeas corpus
+    be: Habeas corpus
+    be-tarask: Habeas corpus
+    bn: হেবিয়াস কর্পাস (ল্যাটিন)
+    ca: Habeas Corpus
+    cs: Habeas corpus
+    da: Habeas corpus
+    de: Habeas Corpus
+    el: Habeas corpus
+    en: habeas corpus
+    eo: habeas corpus
+    es: hábeas corpus
+    et: Habeas corpus
+    eu: Habeas corpus
+    fa: هیبیاس کورپس
+    fi: Habeas corpus
+    fr: habeas corpus
+    ga: habeas corpus
+    gl: Habeas corpus
+    ha: Habeas corpus
+    he: הביאס קורפוס
+    hi: बन्दी प्रत्यक्षीकरण
+    hr: Habeas corpus
+    hu: Habeas Corpus
+    hy: Հաբեաս կորպուս
+    ia: Habeas Corpus
+    id: Habeas corpus
+    io: Habeas corpus
+    it: habeas corpus
+    ja: 人身保護令状
+    kn: ಹೇಬಿಯಸ್ ಕಾರ್ಪಸ್
+    ko: 인신보호영장
+    la: Habeas corpus
+    lv: Habeas corpus
+    mk: Хабеас корпус
+    ml: ഹേബിയസ് കോർപ്പസ്
+    ms: Habeas corpus
+    my: ရှေ့တော်သွင်း စာချွန်တော် အမိန့်
+    nb: habeas corpus
+    ne: बन्दी प्रत्यक्षीकरण
+    nl: habeas corpus
+    oc: Habeas corpus
+    pa: ਹੇਬੀਅਸ ਕਾਰਪਸ
+    pt: habeas corpus
+    pt-br: habeas corpus
+    ro: habeas corpus
+    ru: Хабеас корпус
+    sco: habeas corpus
+    si: හෙබයාස් කොපුස්
+    sl: habeas corpus
+    sq: Habeas corpus
+    sr: Habeas corpus
+    sv: Habeas corpus
+    ta: ஆட்கொணர்வு மனு
+    te: హెబియస్ కార్పస్
+    tl: Habeas corpus
+    tr: habeas corpus
+    uk: Habeas corpus
+    vi: Habeas corpus
+    yue: 人身保護令
+    zh: 人身保護令
+    zh-cn: 人身保护令
+    zh-hans: 人身保护令
+    zh-hant: 人身保護令
+    zh-hk: 人身保護令
+    zh-sg: 人身保护令
+    zh-tw: 人身保護令
 ---
-
 # [[Habeas_Corpus]] 
 
 #is_/same_as :: [[WD~Habeas_corpus,220596]]  

@@ -1,21 +1,140 @@
 ---
 aliases:
-  - Proto-Indo-Europeans
-  - Proto-Indo-European_People
-  - Proto-Indo-European People
+- Indóevrópumenn
+- người Ấn-Âu nguyên thủy
+- Orang Indo-Eropah Purba
+- orang Proto-Indo-Eropa
+- pirmindoeiropieši
+- Pobo protoindoeuropeo
+- Populo proto-indoeuropee
+- prahindeŭropa popolo
+- praindoeuropiečiai
+- Praindoeuropljani
+- Praindoevropejci
+- Prota-Ind-Eorpaigh
+- Proto-hind-avropa xalqı
+- Proto-hind-yevropaliklar
+- Proto-Hint-Avrupalılar
+- Proto-Indo-Eropa
+- Proto-Indo-European People
+- Proto-Indo-Europeanen
+- Proto-Indo-Europeans
+- Proto-Indo-European_People
+- proto-indo-europeni
+- proto-indo-europeus
+- Proto-Indo-Européens
+- Proto-indoeuropar
+- Proto-Indoeuropäer
+- Proto-Indoevropljani
+- protoindo-europeus
+- Protoindoeurooppalaiset
+- Protoindoeuropaei
+- protoindoeuropei
+- protoindoeuropeus
+- Protoindoeuropèus
+- protoindoeurópaiak
+- Protoindoevropljani
+- Protoindoewropanhën
+- pueblo protoindoeuropeo
+- pueblu protoindoeuropéu
+- Urindoeuropeere
+- urindoeuropéer
+- πρωτοϊνδοευρωπαίοι
+- Боронғо һинд-европа халҡы
+- праіндаеўрапейцы
+- праіндаэўрапейцы
+- праіндоєвропейці
+- Праиндоевропљани
+- Праиндоевропејци
+- праиндоевропейцы
+- Протоиндоевропљани
+- פרוטו-הודו-אירופים
+- ابتدائی ہند یورپی لوک
+- الهنود الأوربيون البدائيون
+- مردم نیاهندواروپایی
+- आदिम-हिन्द-यूरोपीय जन
+- आदिम-हिन्द-यूरोपीय लोग
+- ஆதி இந்தோ ஐரோப்பிய மக்கள்
+- ප්රාග්-ඉන්දු-යුරෝපීය ජනයා
+- インド・ヨーロッパ祖族
+- 原始印欧人
+- 原始印歐人
+- 원시 인도유럽인
 has_id_wikidata: Q1145774
 indigenous_to:
-  - '[[_Standards/WikiData/WD~South_Caucasus,200173]]'
-  - '[[_Standards/WikiData/WD~East_European_forest_steppe,723601]]'
+- '[[_Standards/WikiData/WD~South_Caucasus,200173]]'
+- '[[_Standards/WikiData/WD~East_European_forest_steppe,723601]]'
 followed_by: '[[_Standards/WikiData/WD~Indo_European_people,475027]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Proto_Indo_European_mythology,1401124]]'
 described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~ethnolinguistic_group,4533081]]'
-  - '[[_Standards/WikiData/WD~extinct_human_group,55208590]]'
+- '[[_Standards/WikiData/WD~ethnolinguistic_group,4533081]]'
+- '[[_Standards/WikiData/WD~extinct_human_group,55208590]]'
 language_used: '[[_Standards/WikiData/WD~Proto_Indo_European,37178]]'
+dv_has_:
+  name_:
+    ar: الهنود الأوربيون البدائيون
+    ast: pueblu protoindoeuropéu
+    az: Proto-hind-avropa xalqı
+    ba: Боронғо һинд-европа халҡы
+    be: праіндаеўрапейцы
+    be-tarask: праіндаэўрапейцы
+    bjn: Proto-Indo-Eropa
+    ca: protoindoeuropeus
+    de: Proto-Indoeuropäer
+    el: πρωτοϊνδοευρωπαίοι
+    en: Proto-Indo-Europeans
+    en-ca: Proto-Indo-Europeans
+    en-gb: Proto-Indo-Europeans
+    eo: prahindeŭropa popolo
+    es: pueblo protoindoeuropeo
+    eu: Proto-indoeuropar
+    fa: مردم نیاهندواروپایی
+    fi: Protoindoeurooppalaiset
+    fr: Proto-Indo-Européens
+    ga: Prota-Ind-Eorpaigh
+    gl: Pobo protoindoeuropeo
+    he: פרוטו-הודו-אירופים
+    hi: आदिम-हिन्द-यूरोपीय लोग
+    hr: Praindoeuropljani
+    hu: protoindoeurópaiak
+    ia: Populo proto-indoeuropee
+    id: orang Proto-Indo-Eropa
+    is: Indóevrópumenn
+    it: protoindoeuropei
+    ja: インド・ヨーロッパ祖族
+    ko: 원시 인도유럽인
+    krj: Protoindoewropanhën
+    la: Protoindoeuropaei
+    lt: praindoeuropiečiai
+    lv: pirmindoeiropieši
+    mag: आदिम-हिन्द-यूरोपीय जन
+    mk: Праиндоевропејци
+    ms: Orang Indo-Eropah Purba
+    nb: Urindoeuropeere
+    nl: Proto-Indo-Europeanen
+    oc: Protoindoeuropèus
+    pnb: ابتدائی ہند یورپی لوک
+    pt: protoindo-europeus
+    pt-br: proto-indo-europeus
+    ro: proto-indo-europeni
+    ru: праиндоевропейцы
+    sh: Proto-Indoevropljani
+    si: ප්රාග්-ඉන්දු-යුරෝපීය ජනයා
+    sl: Praindoevropejci
+    sr: Праиндоевропљани
+    sr-ec: Протоиндоевропљани
+    sr-el: Protoindoevropljani
+    sv: urindoeuropéer
+    ta: ஆதி இந்தோ ஐரோப்பிய மக்கள்
+    tr: Proto-Hint-Avrupalılar
+    uk: праіндоєвропейці
+    uz: Proto-hind-yevropaliklar
+    vi: người Ấn-Âu nguyên thủy
+    yue: 原始印歐人
+    zh: 原始印欧人
+    zh-hant: 原始印歐人
 ---
-
 # [[Proto-Indo-European_People]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Proto-Indo-European_people,1145774|WD~Proto-Indo-European_people,1145774]]  

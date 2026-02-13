@@ -1,24 +1,59 @@
 ---
 aliases:
-  - Antiproton
+- antiprootoon
+- antiprotoi
+- Antiproton
+- antiprotona
+- antiprotone
+- antiprotoni
+- antiprotono
+- antiprotoon
+- antiprotão
+- antiprotó
+- antiprotón
+- antiprutoni
+- Antiprutonu
+- antipróton
+- antyproton
+- Antïproton
+- frithphrótón
+- phản proton
+- αντιπρωτόνιο
+- антипротон
+- Антыпратон
+- Հակապրոտոն
+- אנטיפרוטון
+- اؠنٹی پرٛوٹان
+- انتىيپروتون
+- مضاد البروتون
+- پادپروتون
+- प्रतिप्रोटोन
+- অ্যান্টিপ্রোটন
+- எதிர் புரோத்தன்
+- แอนติโปรตอน
+- ანტიპროტონი
+- 反質子
+- 反质子
+- 反陽子
+- 반양성자
 has_id_wikidata: Q107575
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
-  - '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
+- '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+- '[[_Standards/WikiData/WD~Owen_Chamberlain,183655]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~charged_particle,587553]]'
-  - '[[_Standards/WikiData/WD~antinucleon,28855250]]'
+- '[[_Standards/WikiData/WD~charged_particle,587553]]'
+- '[[_Standards/WikiData/WD~antinucleon,28855250]]'
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~down_antiquark,18481576]]'
-  - '[[_Standards/WikiData/WD~up_antiquark,18481607]]'
+- '[[_Standards/WikiData/WD~down_antiquark,18481576]]'
+- '[[_Standards/WikiData/WD~up_antiquark,18481607]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
-  - '[[_Standards/WikiData/WD~isotope_of_antihydrogen,31804375]]'
+- '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
+- '[[_Standards/WikiData/WD~isotope_of_antihydrogen,31804375]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 antiparticle: '[[_Standards/WikiData/WD~proton,2294]]'
 isospin_z_component: -0.5
@@ -31,8 +66,88 @@ P8189: 987007295541405171
 Commons_category: Antiprotons
 time_of_discovery_or_invention: 1955-01-01T00:00:00Z
 Dewey_Decimal_Classification: 539.72123
+dv_has_:
+  name_:
+    ar: مضاد البروتون
+    ast: Antiprotón
+    az: Antiproton
+    be: Антыпратон
+    be-tarask: антыпратон
+    bg: антипротон
+    bn: অ্যান্টিপ্রোটন
+    ca: antiprotó
+    co: Antiprutonu
+    cs: antiproton
+    da: antiproton
+    de: Antiproton
+    el: αντιπρωτόνιο
+    en: antiproton
+    en-ca: Antiproton
+    en-gb: Antiproton
+    eo: antiprotono
+    es: antiprotón
+    eu: antiprotoi
+    fa: پادپروتون
+    fi: antiprotoni
+    fr: antiproton
+    ga: frithphrótón
+    gl: antiprotón
+    he: אנטיפרוטון
+    hi: प्रतिप्रोटोन
+    hr: Antiproton
+    hu: antiproton
+    hy: Հակապրոտոն
+    id: Antiproton
+    it: antiprotone
+    ja: 反陽子
+    ka: ანტიპროტონი
+    kk: Антипротон
+    kk-arab: انتىيپروتون
+    kk-cn: انتىيپروتون
+    kk-cyrl: Антипротон
+    kk-kz: Антипротон
+    kk-latn: Antïproton
+    kk-tr: Antïproton
+    ko: 반양성자
+    ks: اؠنٹی پرٛوٹان
+    mk: антипротон
+    mn: Антипротон
+    nb: antiproton
+    nds: Antiproton
+    nl: antiproton
+    nn: antiproton
+    oc: Antiproton
+    pl: antyproton
+    pt: antiprotão
+    pt-br: antipróton
+    ro: antiproton
+    ru: антипротон
+    scn: antiprutoni
+    se: antiprotona
+    sk: antiprotón
+    sl: antiproton
+    smn: antiprootoon
+    sms: antiprotoon
+    sr: антипротон
+    sr-ec: антипротон
+    sr-el: antiproton
+    sv: antiproton
+    ta: எதிர் புரோத்தன்
+    tg: Антипротон
+    th: แอนติโปรตอน
+    tr: Antiproton
+    uk: антипротон
+    uz: Antiproton
+    vi: phản proton
+    yue: 反質子
+    zh: 反質子
+    zh-cn: 反质子
+    zh-hans: 反质子
+    zh-hant: 反質子
+    zh-hk: 反質子
+    zh-sg: 反质子
+    zh-tw: 反質子
 ---
-
 # [[Antiproton]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Antiproton,107575|WD~Antiproton,107575]] 

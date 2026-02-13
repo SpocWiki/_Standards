@@ -1,9 +1,34 @@
 ---
 aliases:
-  - Siphoniulida
+- Siphoniulida
+- Siphoniulus
 title: Siphoniulus neotropicus
+has_id_wikidata: Q6452569
+dv_has_:
+  name_:
+    ast: Siphoniulus
+    bg: Siphoniulus
+    ceb: Siphoniulus
+    de: Siphoniulus
+    en: Siphoniulus
+    es: Siphoniulus
+    fi: Siphoniulus
+    fr: Siphoniulus
+    ga: Siphoniulus
+    it: Siphoniulus
+    la: Siphoniulus
+    mul: Siphoniulus
+    nl: Siphoniulus
+    pl: Siphoniulus
+    pt: Siphoniulus
+    ro: Siphoniulus
+    ru: Siphoniulus
+    sq: Siphoniulus
+    sv: Siphoniulus
+    uk: Siphoniulus
+    vi: Siphoniulus
+    war: Siphoniulus
 ---
-
 ## [[Siphoniulida]] 
 
 Siphoniulidae 

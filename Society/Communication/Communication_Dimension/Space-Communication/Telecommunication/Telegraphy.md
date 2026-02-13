@@ -1,15 +1,68 @@
 ---
 aliases:
-  - Telegraphie
-  - Telegraphy
+- Dealan-spèid
+- Ritsími
+- sähkötys
+- Tangaram
+- teileagrafaíocht
+- telegraafside
+- telegrafas
+- telegrafi
+- telegrafia
+- Telegrafie
+- telegrafiija
+- Telegrafija
+- Telegrafio
+- Telegrafiya
+- Telegrafu
+- telegrafía
+- telegraphia
+- Telegraphie
+- Telegraphy
+- Telegrapiya
+- Telegrāfs
+- Telgraf
+- Tiān-pò
+- távírás
+- télégraphie
+- Têlegraf
+- điện báo
+- τηλεγραφία
+- телеграфія
+- телеграфија
+- телеграфия
+- тэлеграфія
+- Հեռագրական կապ
+- טלגרפיה
+- טעלעגראפיע
+- إبراق
+- التلغراف
+- تلگراف
+- تەلەگراف
+- ٹیلی گرافی
+- ټلګرافي
+- ٽيليگرافي
+- टेलीग्राफ
+- टेलेग्राफी
+- টেলিগ্রাফি
+- தந்தி
+- తంతి
+- കമ്പിത്തപാല്
+- โทรเลข
+- ကြေးနန်း
+- ტელეგრაფი
+- ᏕᎦᏃᏣᎸ
+- 电报
+- 電報
+- 전보
 has_id_wikidata: Q721587
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
 practiced_by: '[[_Standards/WikiData/WD~telegraphist,2024200]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_telegraphy_in_Australia,5868998]]'
 uses: '[[_Standards/WikiData/WD~telegraph,6987428]]'
@@ -17,15 +70,106 @@ subclass_of: '[[_Standards/WikiData/WD~communication,11024]]'
 instance_of: '[[_Standards/WikiData/WD~mail,49845]]'
 Library_of_Congress_Classification: TK
 Dewey_Decimal_Classification:
-  - 384.1
-  - 621.383
+- 384.1
+- 621.383
 Commons_category: Telegraphy
 Commons_gallery: Teleprinter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V09%20D091%20Morse%20key%20and%20register.jpg
 IEV_number: 701-01-07
 Wolfram_Language_entity_code: Entity["Concept", "Telegraphy::fd4j5"]
+dv_has_:
+  name_:
+    af: Telegrafie
+    ar: إبراق
+    arz: التلغراف
+    ast: telegrafía
+    be-tarask: тэлеграфія
+    bg: Телеграфия
+    bn: টেলিগ্রাফি
+    bs: Telegrafija
+    ca: telegrafia
+    chr: ᏕᎦᏃᏣᎸ
+    ckb: تەلەگراف
+    cs: telegrafie
+    da: Telegrafi
+    dag: Tangaram
+    de: Telegrafie
+    de-ch: Telegrafie
+    diq: Têlegraf
+    el: τηλεγραφία
+    en: telegraphy
+    en-ca: Telegraphy
+    en-gb: telegraphy
+    eo: Telegrafio
+    es: telegrafía
+    et: telegraafside
+    eu: telegrafia
+    fa: تلگراف
+    fi: sähkötys
+    fr: télégraphie
+    ga: teileagrafaíocht
+    gd: Dealan-spèid
+    gl: Telegrafía
+    he: טלגרפיה
+    hi: टेलीग्राफ
+    hr: Telegrafija
+    hu: távírás
+    hy: Հեռագրական կապ
+    id: telegrafi
+    is: Ritsími
+    it: telegrafia
+    ja: 電報
+    ka: ტელეგრაფი
+    kk: Телеграфия
+    ko: 전보
+    ky: Телеграфия
+    la: telegraphia
+    lfn: Telegrafia
+    li: Telegrafie
+    lt: telegrafas
+    lv: Telegrāfs
+    mk: телеграфија
+    ml: കമ്പിത്തപാല്
+    ms: Telegrafi
+    my: ကြေးနန်း
+    nan: Tiān-pò
+    nb: telegrafi
+    new: टेलेग्राफी
+    nl: telegrafie
+    nn: Telegrafi
+    pl: telegrafia
+    ps: ټلګرافي
+    pt: telegrafia
+    pt-br: Telegrafia
+    rm: Telegrafia
+    ro: telegrafie
+    ru: телеграфия
+    sd: ٽيليگرافي
+    se: telegrafiija
+    sl: telegrafija
+    smn: telegrafia
+    sms: telegrafia
+    sq: Telegrafi
+    sr: Телеграфија
+    stq: Telegrafie
+    sv: telegrafi
+    sw: Telegrafu
+    ta: தந்தி
+    te: తంతి
+    th: โทรเลข
+    tl: Telegrapiya
+    tr: Telgraf
+    uk: телеграфія
+    ur: ٹیلی گرافی
+    uz: Telegrafiya
+    vi: điện báo
+    war: Telegrapiya
+    wuu: 电报
+    xmf: ტელეგრაფი
+    yi: טעלעגראפיע
+    yue: 電報
+    zh: 電報
 ---
-
 # [[Telegraphy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Telegraphy,721587|WD~Telegraphy,721587]] 

@@ -1,27 +1,121 @@
 ---
 aliases:
+- Debanmertal
+- Deegen
+- Degen
+- Epe
+- Epe (eskrim)
+- Epee
+- espada
+- espada deportiva
+- espasa
+- Ezpata (eskrima)
+- kalpa
+- kord
+- kårde
+- párbajtőr
+- Spa (spòrt)
+- spada
+- spado
+- spadă
+- sportinė špaga
+- szpada sportowa
+- Épé
+- épée
+- мач
+- Мач (спортски)
+- меч
+- спартовая шпага
+- спортивна шпага
+- спортивная шпага
+- шпага
+- Սուսեր
+- דקר
+- اپه
+- دەبانمەرتال
+- سيف المبارزة
+- ਏਪੇ
+- დაშნა
+- エペ
+- 重剑
+- 重劍
+- 銳劍
+- 에페
 has_id_wikidata: Q840419
 different_from:
-  - "[[_Standards/WikiData/WD~rapier,816745]]"
-  - "[[_Standards/WikiData/WD~épée_fencing,25521891]]"
+- '[[_Standards/WikiData/WD~rapier,816745]]'
+- '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sporting_weapon,9180320]]"
-  - "[[_Standards/WikiData/WD~sword,12791]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_family,15142889]]"
-used_by: "[[_Standards/WikiData/WD~épée_fencing,25521891]]"
-sport: "[[_Standards/WikiData/WD~fencing,12100]]"
-Nomenclature_for_Museum_Cataloging: "14546"
-OmegaWiki_Defined_Meaning: "996768"
+- '[[_Standards/WikiData/WD~sporting_weapon,9180320]]'
+- '[[_Standards/WikiData/WD~sword,12791]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+used_by: '[[_Standards/WikiData/WD~épée_fencing,25521891]]'
+sport: '[[_Standards/WikiData/WD~fencing,12100]]'
+Nomenclature_for_Museum_Cataloging: 14546
+OmegaWiki_Defined_Meaning: 996768
 Commons_category: Fencing (épée)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%C3%89p%C3%A9e.jpg
 IPTC_NewsCode: mediatopic/20000930
+dv_has_:
+  name_:
+    ar: سيف المبارزة
+    be: шпага
+    be-tarask: спартовая шпага
+    bg: Шпага
+    ca: espasa
+    cs: kord
+    da: Kårde
+    de: Degen
+    en: épée
+    eo: spado
+    es: espada deportiva
+    et: Epee
+    eu: Ezpata (eskrima)
+    fa: اپه
+    fi: kalpa
+    fr: épée
+    gcr: Épé
+    gl: Espada
+    he: דקר
+    ht: Epe (eskrim)
+    hu: párbajtőr
+    hy: Սուսեր
+    id: Épée
+    it: spada
+    ja: エペ
+    ka: დაშნა
+    ko: 에페
+    ku: Debanmertal
+    ku-arab: دەبانمەرتال
+    ku-latn: Debanmertal
+    lb: Deegen
+    lt: sportinė špaga
+    mk: меч
+    nb: kårde
+    nl: degen
+    pa: ਏਪੇ
+    pl: szpada sportowa
+    pms: Spa (spòrt)
+    pt: espada
+    ro: spadă
+    ru: спортивная шпага
+    sr: Мач (спортски)
+    sr-ec: мач
+    tr: Epe
+    tt: Шпага
+    uk: спортивна шпага
+    yue: 重劍
+    zh: 重劍
+    zh-hans: 重剑
+    zh-hant: 銳劍
+    zh-hk: 重劍
+    zh-tw: 銳劍
 ---
-
 # [[Épée]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Épée,840419|WD~Épée,840419]] 

@@ -1,5 +1,123 @@
-
-
+---
+has_id_wikidata: Q332368
+dv_has_:
+  name_:
+    ar: نظرة إلى قتل
+    arz: نظره الى قتل
+    ast: A View to a Kill
+    az: Öldürməyə baxış
+    azb: اؤلدورمگه بیر باخیش
+    bg: Изглед към долината на смъртта
+    bn: আ ভিউ টু আ কিল
+    ca: Panorama per matar
+    cs: Vyhlídka na vraždu
+    cy: A View to a Kill
+    da: A View to a Kill
+    de: James Bond 007 – Im Angesicht des Todes
+    de-ch: James Bond 007 – Im Angesicht des Todes
+    el: 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση «Κινούμενος Στόχος»'
+    en: A View to a Kill
+    en-ca: A View to a Kill
+    en-gb: A View to a Kill
+    es: A View to a Kill
+    et: '007: Surma palge ees'
+    eu: A View to a Kill
+    fa: نمایی از یک قتل
+    fi: 007 ja kuoleman katse
+    fr: Dangereusement vôtre
+    fy: A View to a Kill
+    ga: A View to a Kill
+    gl: '007: Panorama para matar'
+    he: רצח בעיניים
+    hr: Pogled na ubojstvo
+    hu: Halálvágta
+    hy: Հայացք սպանությանը
+    id: A View to a Kill
+    it: 007 - Bersaglio mobile
+    ja: 007 美しき獲物たち
+    ka: ხედი მკვლელობაზე
+    ko: 007 뷰 투 어 킬
+    lb: A View to a Kill
+    lt: Žvilgsnis į žmogžudystę
+    lv: Skats uz slepkavību
+    mk: Поглед на едно ујбиство
+    ms: A View to a Kill
+    nb: Med døden i sikte
+    nds: A View to a Kill
+    nl: A View to a Kill
+    nn: Med døden i sikte
+    pl: Zabójczy widok
+    pt: A View to a Kill
+    pt-br: A View to a Kill
+    ru: Вид на убийство
+    sco: A View to a Kill
+    sh: A View to a Kill
+    sk: Vyhliadka na smrť
+    sr: Поглед на убиство
+    sr-ec: Поглед на убиство
+    sr-el: Pogled na ubistvo
+    sv: Levande måltavla
+    te: ఎ వ్యూ టు ఎ కిల్
+    th: 007 พยัคฆ์ร้ายพญายม
+    tr: Ölüme Bir Bakış
+    uk: Вид на вбивство
+    ur: اے ویو ٹو اے کل
+    uz: Qotillik uchun sharoit
+    yue: 鐵金剛勇戰大狂魔
+    zh: 鐵金剛勇戰大狂魔
+    zh-cn: 雷霆杀机
+    zh-hans: 铁金刚勇战大狂魔
+    zh-hant: 雷霆殺機
+    zh-hk: 鐵金剛勇戰大狂魔
+    zh-sg: 铁金刚大战电子党
+    zh-tw: 雷霆殺機
+aliases:
+- 007 - Bersaglio mobile
+- 007 ja kuoleman katse
+- 007 พยัคฆ์ร้ายพญายม
+- 007 美しき獲物たち
+- 007 뷰 투 어 킬
+- '007: Panorama para matar'
+- '007: Surma palge ees'
+- A View to a Kill
+- Dangereusement vôtre
+- Halálvágta
+- James Bond 007 – Im Angesicht des Todes
+- Levande måltavla
+- Med døden i sikte
+- Panorama per matar
+- Pogled na ubistvo
+- Pogled na ubojstvo
+- Qotillik uchun sharoit
+- Skats uz slepkavību
+- Vyhliadka na smrť
+- Vyhlídka na vraždu
+- Zabójczy widok
+- Öldürməyə baxış
+- Ölüme Bir Bakış
+- Žvilgsnis į žmogžudystę
+- 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση «Κινούμενος Στόχος»'
+- Вид на вбивство
+- Вид на убийство
+- Изглед към долината на смъртта
+- Поглед на едно ујбиство
+- Поглед на убиство
+- Հայացք սպանությանը
+- רצח בעיניים
+- اؤلدورمگه بیر باخیش
+- اے ویو ٹو اے کل
+- نظرة إلى قتل
+- نظره الى قتل
+- نمایی از یک قتل
+- আ ভিউ টু আ কিল
+- ఎ వ్యూ టు ఎ కిల్
+- ხედი მკვლელობაზე
+- 鐵金剛勇戰大狂魔
+- 铁金刚勇战大狂魔
+- 铁金刚大战电子党
+- 雷霆杀机
+- 雷霆殺機
+---
 ## #has_/text_of_/abstract 
 
 > A View to a Kill is a 1985 spy film, the fourteenth in the James Bond series produced by Eon Productions, 

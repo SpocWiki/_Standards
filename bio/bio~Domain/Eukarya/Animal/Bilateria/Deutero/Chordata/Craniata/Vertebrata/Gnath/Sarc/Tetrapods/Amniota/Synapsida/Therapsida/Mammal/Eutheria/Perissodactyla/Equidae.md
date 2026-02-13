@@ -1,18 +1,80 @@
 ---
 aliases:
-  - horse family
-  - Equidae
-  - hestefamilien
+- arkliai
+- Atgiller
+- atlar
+- Dewar
+- Ecvide
+- Ekvedoj
+- Equidae
+- hestefamilien
+- hevoseläimet
+- Hobuslased
+- horse family
+- Hästdjur
+- Họ Ngựa
+- Igmariyen
+- Koniowate
+- konje
+- Konji
+- koňovití
+- lo xirma
+- lófélék
+- Mpunda
+- Mpúnda
+- okoleem
+- paardachtigen
+- Peerdechtege
+- Peirdachtign
+- Pferde
+- Päerd
+- zirgi
+- èquids
+- Équidos
+- Łį́į́ʼ Ndahalinígíí
+- Ιππίδες
+- Ат һымаҡтар
+- Атсыманнар
+- Аттыҥылар
+- Жылкы сымалдуулар
+- Жылқылар тұқымдасы
+- коњи
+- коне
+- коневі
+- коневыя
+- Лаша йышшисем
+- лошадиные
+- ձիազգիներ
+- סוסיים
+- آت کیمیلر
+- اسبیان
+- خيليات
+- دەوار
+- گهوڙا (خاندان)
+- گُرؠ پرٛٲژ
+- گھوڑا ٹبر
+- अश्ववंश
+- हयाद्य
+- অশ্ব
+- குதிரைக் குடும்பம்
+- ఈక్విడే
+- วงศ์ม้า
+- ცხენისებრნი
+- ცხენიშობურეფი
+- ウマ科
+- 馬科
+- 马科
+- 말과
 has_id_wikidata: Q165115
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Hippomorpha,2292292]]'
-  - '[[_Standards/WikiData/WD~Equoidea,21445554]]'
+- '[[_Standards/WikiData/WD~Hippomorpha,2292292]]'
+- '[[_Standards/WikiData/WD~Equoidea,21445554]]'
 has_list: '[[_Standards/WikiData/WD~glossary_of_equestrian_terms,2950573]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Equidae,13218338]]'
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
@@ -29,8 +91,128 @@ taxon_name: Equidae
 NBN_System_Key: NHMSYS0000376630
 taxon_common_name: hestefamilien
 start_time: -54000000-06
+dv_has_:
+  name_:
+    af: Equidae
+    an: Equidae
+    ar: خيليات
+    arz: خيليات
+    ast: Equidae
+    avk: okoleem
+    az: atlar
+    azb: آت کیمیلر
+    ba: Ат һымаҡтар
+    be: коневыя
+    be-tarask: Коневыя
+    bg: коне
+    bn: অশ্ব
+    br: Equidae
+    bs: Equidae
+    ca: èquids
+    ceb: Equidae
+    ckb: دەوار
+    cs: koňovití
+    cv: Лаша йышшисем
+    cy: Equidae
+    da: hestefamilien
+    de: Pferde
+    el: Ιππίδες
+    en: Equidae
+    eo: Ekvedoj
+    es: Equidae
+    et: Hobuslased
+    eu: Equidae
+    ext: Equidae
+    fa: اسبیان
+    fi: hevoseläimet
+    fr: Equidae
+    ga: Equidae
+    gl: Équidos
+    gsw: Equidae
+    he: סוסיים
+    hi: अश्ववंश
+    hr: Konji
+    hsb: konje
+    hu: lófélék
+    hy: ձիազգիներ
+    ia: Equidae
+    id: Equidae
+    ie: Equidae
+    io: Equidae
+    is: Equidae
+    it: Equidae
+    ja: ウマ科
+    jbo: lo xirma
+    jv: Equidae
+    ka: ცხენისებრნი
+    kab: Igmariyen
+    kg: Mpunda
+    kk: Жылқылар тұқымдасы
+    ko: 말과
+    ks: گُرؠ پرٛٲژ
+    ku: Dewar
+    ky: Жылкы сымалдуулар
+    la: Equidae
+    lb: Päerd
+    li: Peerdechtege
+    lij: Equidae
+    lmo: Equidae
+    ln: Mpúnda
+    lt: arkliai
+    lv: zirgi
+    mk: коњи
+    mr: हयाद्य
+    ms: Equidae
+    mul: Equidae
+    nb: hestefamilien
+    nds: Equidae
+    nds-nl: Equidae
+    nl: paardachtigen
+    nn: hestefamilien
+    nv: Łį́į́ʼ Ndahalinígíí
+    oc: Equidae
+    pl: Koniowate
+    pms: Equidae
+    pnb: گھوڑا ٹبر
+    pt: Equidae
+    pt-br: Equidae
+    ro: Ecvide
+    ru: лошадиные
+    sah: Аттыҥылар
+    sco: Equidae
+    sd: گهوڙا (خاندان)
+    sh: Konji
+    sk: Equidae
+    sl: konji
+    sq: Equidae
+    sr: коњи
+    sr-ec: Коњи
+    sr-el: Konji
+    sv: Hästdjur
+    ta: குதிரைக் குடும்பம்
+    te: ఈక్విడే
+    th: วงศ์ม้า
+    tl: Equidae
+    tr: Atgiller
+    tt: Атсыманнар
+    uk: коневі
+    vec: Equidae
+    vi: Họ Ngựa
+    vls: Peirdachtign
+    vo: Equidae
+    wa: Equidae
+    war: Equidae
+    wuu: 马科
+    xmf: ცხენიშობურეფი
+    yue: 馬科
+    zh: 马科
+    zh-cn: 马科
+    zh-hans: 马科
+    zh-hant: 馬科
+    zh-hk: 馬科
+    zh-sg: 马科
+    zh-tw: 馬科
 ---
-
 # [[Equidae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Equidae,165115|WD~Equidae,165115]]  

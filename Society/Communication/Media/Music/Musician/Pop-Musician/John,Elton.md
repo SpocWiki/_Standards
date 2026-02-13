@@ -1,119 +1,152 @@
 ---
 aliases:
-  - Sir Elton Hercules John
-  - Elton John
-  - Elton_John
-  - Reginald Kenneth Dwight
-  - John,Elton
+- Elton Con
+- Elton John
+- Eltons Džons
+- Elton_John
+- John,Elton
+- Reginald Kenneth Dwight
+- Sir Elton Hercules John
+- Έλτον Τζον
+- Елтон Џон
+- Елтон Джон
+- Елтън Джон
+- Элтан Джон
+- Элтон Джон
+- Элтон Жон
+- Էլթոն Ջոն
+- אלטון ג'ון
+- إلتون جون
+- التون جان
+- التون جون
+- ایلٹن جان
+- एल्टन जॉन
+- एल्टन जोन
+- এলটন জন
+- ਐਲਟਨ ਜਾਨ
+- எல்டன் சான்
+- എൽട്ടൺ ജോൺ
+- เอลตัน จอห์น
+- အယ်လ်တန် ဂျွန်
+- ელთონ ჯონი
+- ელტონ ჯონი
+- エルトン・ジョン
+- 艾尔顿·约翰
+- 艾爾頓·強
+- 艾登·约翰
+- 艾頓·莊
+- 艾頓莊
+- 艾顿·庄
+- 엘튼 존
 has_id_wikidata: Q2808
 genre:
-  - '[[_Standards/WikiData/WD~glam_rock,76092]]'
-  - '[[_Standards/WikiData/WD~soft_rock,217191]]'
-  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+- '[[_Standards/WikiData/WD~glam_rock,76092]]'
+- '[[_Standards/WikiData/WD~soft_rock,217191]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~glam_rock,76092]]'
-  - '[[_Standards/WikiData/WD~popular_music,373342]]'
-  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
-  - '[[_Standards/WikiData/WD~piano_performance,104998020]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~glam_rock,76092]]'
+- '[[_Standards/WikiData/WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~piano_performance,104998020]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Song_Written_for_Visual_Media,428808]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Song_Written_for_Visual_Media,428808]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
-  - '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
-  - '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
-  - '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
-  - '[[_Standards/WikiData/WD~Gershwin_Prize,2422622]]'
-  - '[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]'
-  - '[[_Standards/WikiData/WD~Drama_League_Award,4167639]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
-  - '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
-  - '[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
-  - '[[_Standards/WikiData/WD~Crystal_Award,106517969]]'
-  - '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
-  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~MusiCares_Person_of_the_Year,326482]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
+- '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
+- '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
+- '[[_Standards/WikiData/WD~Gershwin_Prize,2422622]]'
+- '[[_Standards/WikiData/WD~Silver_Clef_Award,3483987]]'
+- '[[_Standards/WikiData/WD~Drama_League_Award,4167639]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,106517969]]'
+- '[[_Standards/WikiData/WD~Academy_Awards,19020]]'
+- '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Mercury_Records,165745]]'
-  - '[[_Standards/WikiData/WD~Island_Records,190585]]'
-  - '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
-  - '[[_Standards/WikiData/WD~A&M_Records,277626]]'
-  - '[[_Standards/WikiData/WD~Uni,510092]]'
-  - '[[_Standards/WikiData/WD~DJM_Records,543391]]'
-  - '[[_Standards/WikiData/WD~Def_Jam_Recordings,654283]]'
-  - '[[_Standards/WikiData/WD~Chrysalis_Records,1088453]]'
-  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
-  - '[[_Standards/WikiData/WD~Regal_Zonophone,2137237]]'
-  - '[[_Standards/WikiData/WD~MCA_Records,2338889]]'
-  - '[[_Standards/WikiData/WD~Universal_Records,2482872]]'
-  - '[[_Standards/WikiData/WD~The_Rocket_Record_Company,3939773]]'
-  - '[[_Standards/WikiData/WD~Cube_Records,5192209]]'
-  - '[[_Standards/WikiData/WD~Paramount_Records,7135347]]'
-  - '[[_Standards/WikiData/WD~Stateside_Records,7604054]]'
-  - '[[_Standards/WikiData/WD~Congress,17150066]]'
-  - '[[_Standards/WikiData/WD~IL,111031086]]'
+- '[[_Standards/WikiData/WD~Mercury_Records,165745]]'
+- '[[_Standards/WikiData/WD~Island_Records,190585]]'
+- '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
+- '[[_Standards/WikiData/WD~A&M_Records,277626]]'
+- '[[_Standards/WikiData/WD~Uni,510092]]'
+- '[[_Standards/WikiData/WD~DJM_Records,543391]]'
+- '[[_Standards/WikiData/WD~Def_Jam_Recordings,654283]]'
+- '[[_Standards/WikiData/WD~Chrysalis_Records,1088453]]'
+- '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+- '[[_Standards/WikiData/WD~Regal_Zonophone,2137237]]'
+- '[[_Standards/WikiData/WD~MCA_Records,2338889]]'
+- '[[_Standards/WikiData/WD~Universal_Records,2482872]]'
+- '[[_Standards/WikiData/WD~The_Rocket_Record_Company,3939773]]'
+- '[[_Standards/WikiData/WD~Cube_Records,5192209]]'
+- '[[_Standards/WikiData/WD~Paramount_Records,7135347]]'
+- '[[_Standards/WikiData/WD~Stateside_Records,7604054]]'
+- '[[_Standards/WikiData/WD~Congress,17150066]]'
+- '[[_Standards/WikiData/WD~IL,111031086]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_London,170027]]'
-  - '[[_Standards/WikiData/WD~Royal_Academy_of_Music,1144673]]'
-  - '[[_Standards/WikiData/WD~St._Thomas_Aquinas_High_School,7591915]]'
+- '[[_Standards/WikiData/WD~University_of_London,170027]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Music,1144673]]'
+- '[[_Standards/WikiData/WD~St._Thomas_Aquinas_High_School,7591915]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~lyricist,822146]]'
-  - '[[_Standards/WikiData/WD~keyboardist,1075651]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~HIV_AIDS_activist,96034777]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~lyricist,822146]]'
+- '[[_Standards/WikiData/WD~keyboardist,1075651]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~HIV_AIDS_activist,96034777]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Sir,209690]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Bernie_Taupin,353788]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Goodbye_Yellow_Brick_Road,827363]]'
-  - '[[_Standards/WikiData/WD~Your_Song,838829]]'
-  - '[[_Standards/WikiData/WD~Tiny_Dancer,2562766]]'
-  - '[[_Standards/WikiData/WD~Billy_Elliot_the_Musical,2771]]'
+- '[[_Standards/WikiData/WD~Goodbye_Yellow_Brick_Road,827363]]'
+- '[[_Standards/WikiData/WD~Your_Song,838829]]'
+- '[[_Standards/WikiData/WD~Tiny_Dancer,2562766]]'
+- '[[_Standards/WikiData/WD~Billy_Elliot_the_Musical,2771]]'
 noble_title: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Renate_Blauel,966906]]'
-  - '[[_Standards/WikiData/WD~David_Furnish,1174489]]'
+- '[[_Standards/WikiData/WD~Renate_Blauel,966906]]'
+- '[[_Standards/WikiData/WD~David_Furnish,1174489]]'
 discography: '[[_Standards/WikiData/WD~Elton_John_discography,1334156]]'
 place_of_birth: '[[_Standards/WikiData/WD~Pinner,2453742]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Elton,3723699]]'
-  - '[[_Standards/WikiData/WD~Hercules,18819898]]'
-  - '[[_Standards/WikiData/WD~Q59979240,59979240]]'
+- '[[_Standards/WikiData/WD~Elton,3723699]]'
+- '[[_Standards/WikiData/WD~Hercules,18819898]]'
+- '[[_Standards/WikiData/WD~Q59979240,59979240]]'
 family_name:
-  - '[[_Standards/WikiData/WD~John,5281981]]'
-  - '[[_Standards/WikiData/WD~Dwight,29584764]]'
+- '[[_Standards/WikiData/WD~John,5281981]]'
+- '[[_Standards/WikiData/WD~Dwight,29584764]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Elton_John,10523994]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Elton_John,16209157]]'
-  - '[[_Standards/WikiData/WD~Elton_John_de_Lírio,33681885]]'
-  - '[[_Standards/WikiData/WD~Elton_F._Johnson,111322970]]'
-  - '[[_Standards/WikiData/WD~Elton_John_Bruins,111805485]]'
+- '[[_Standards/WikiData/WD~Elton_John,16209157]]'
+- '[[_Standards/WikiData/WD~Elton_John_de_Lírio,33681885]]'
+- '[[_Standards/WikiData/WD~Elton_F._Johnson,111322970]]'
+- '[[_Standards/WikiData/WD~Elton_John_Bruins,111805485]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
 blood_type: '[[_Standards/WikiData/WD~Q19831453,19831453]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Elton_John_('On_the_throne'),28052053]]"
-  - '[[_Standards/WikiData/WD~Rocketman,55934795]]'
+- "[[_Standards/WikiData/WD~Elton_John_('On_the_throne'),28052053]]"
+- '[[_Standards/WikiData/WD~Rocketman,55934795]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
@@ -129,9 +162,9 @@ sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
 voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_location:
-  - '[[_Standards/WikiData/WD~England,21]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 2
 net_worth: 320000000
@@ -156,17 +189,133 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Elton%20John%202023.jp
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Elton%20John%20Logo.svg
 official_website: https://www.eltonjohn.com
 ISNI:
-  - 0000000109201181
-  - 0000000368558134
+- 0000000109201181
+- 0000000368558134
 IPI_name_number:
-  - 00041696966
-  - 00042308022
-  - 00070379083
+- 00041696966
+- 00042308022
+- 00070379083
 Libris_URI: 42gjkhxn0g46dp2
 Plex_person_key: 5d776830961905001eb92fb7
 Europeana_entity: agent/base/85053
+dv_has_:
+  name_:
+    af: Elton John
+    an: Elton John
+    ang: Elton John
+    ar: إلتون جون
+    arz: التون جون
+    ast: Elton John
+    az: Elton Con
+    azb: التون جان
+    be: Элтан Джон
+    be-tarask: Элтан Джон
+    bg: Елтън Джон
+    bi: Elton John
+    bn: এলটন জন
+    bs: Elton John
+    ca: Elton John
+    cy: Elton John
+    dag: Elton John
+    de: Elton John
+    de-ch: Elton John
+    el: Έλτον Τζον
+    en: Elton John
+    en-ca: Elton John
+    en-gb: Elton John
+    eo: Elton John
+    es: Elton John
+    et: Elton John
+    eu: Elton John
+    ext: Elton John
+    fa: التون جان
+    fi: Elton John
+    fit: Elton John
+    fo: Elton John
+    fr: Elton John
+    ga: Elton John
+    gl: Elton John
+    gsw: Elton John
+    ha: Elton John
+    he: אלטון ג'ון
+    hi: एल्टन जॉन
+    hr: Elton John
+    hu: Elton John
+    hy: Էլթոն Ջոն
+    ia: Elton John
+    id: Elton John
+    io: Elton John
+    is: Elton John
+    it: Elton John
+    ja: エルトン・ジョン
+    jv: Elton John
+    ka: ელტონ ჯონი
+    kk: Элтон Джон
+    kl: Elton John
+    ko: 엘튼 존
+    la: Elton John
+    lb: Elton John
+    lt: Elton John
+    lv: Eltons Džons
+    mg: Elton John
+    mhr: Элтон Джон
+    mk: Елтон Џон
+    ml: എൽട്ടൺ ജോൺ
+    mn: Элтон Жон
+    mr: एल्टन जॉन
+    mrj: Элтон Джон
+    ms: Elton John
+    mt: Elton John
+    mul: Elton John
+    my: အယ်လ်တန် ဂျွန်
+    nan: Elton John
+    nb: Elton John
+    ne: एल्टन जोन
+    nl: Elton John
+    nn: Elton John
+    oc: Elton John
+    pa: ਐਲਟਨ ਜਾਨ
+    pam: Elton John
+    pt: Elton John
+    pt-br: Elton John
+    qu: Elton John
+    rmf: Elton John
+    ro: Elton John
+    ru: Элтон Джон
+    sco: Elton John
+    se: Elton John
+    sh: Elton John
+    sjd: Элтон Джон
+    sje: Elton John
+    sju: Elton John
+    sl: Elton John
+    sma: Elton John
+    smj: Elton John
+    smn: Elton John
+    sms: Elton John
+    sq: Elton John
+    sr: Елтон Џон
+    su: Elton John
+    sv: Elton John
+    sw: Elton John
+    ta: எல்டன் சான்
+    th: เอลตัน จอห์น
+    tl: Elton John
+    tr: Elton John
+    uk: Елтон Джон
+    ur: ایلٹن جان
+    uz: Elton John
+    vec: Elton John
+    vi: Elton John
+    war: Elton John
+    wuu: 艾尔顿·约翰
+    xmf: ელთონ ჯონი
+    yue: 艾頓莊
+    zh: 艾爾頓·強
+    zh-hk: 艾頓·莊
+    zh-my: 艾顿·庄
+    zh-sg: 艾登·约翰
 ---
-
 # [[John,Elton]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Elton_John,2808|WD~Elton_John,2808]] 

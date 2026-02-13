@@ -1,3 +1,25 @@
+---
+has_id_wikidata: Q200996
+dv_has_:
+  name_:
+    ar: نظام هيندلي-ميلنر للأنواع
+    cs: Hindleyův–Milnerův typový systém
+    de: Typinferenz nach Hindley-Milner
+    en: Hindley–Milner
+    ja: Hindley–Milner型システム
+    ru: Система типов Хиндли — Милнера
+    vi: Hệ thống kiểu Hindley–Milner
+    zh: Hindley–Milner类型系统
+aliases:
+- Hindleyův–Milnerův typový systém
+- Hindley–Milner
+- Hindley–Milner型システム
+- Hindley–Milner类型系统
+- Hệ thống kiểu Hindley–Milner
+- Typinferenz nach Hindley-Milner
+- Система типов Хиндли — Милнера
+- نظام هيندلي-ميلنر للأنواع
+---
 # [[Hindley–Milner_type-system]] 
 
 > A Hindley–Milner (HM) type system is a classical type system 

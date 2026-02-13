@@ -1,28 +1,123 @@
 ---
 aliases:
-  - linear regression
-  - Linear_Regression
-  - Linear Regression
+- Hồi quy tuyến tính
+- Karratu txikienen erregresio zuzen
+- lineaarinen regressioanalyysi
+- lineaarlaž regressioanalyys
+- lineaarlâš regressioanalyys
+- lineaarregressioon
+- lineaire regressie
+- linear regression
+- lineara regreso
+- lineare Regression
+- Linearna regresija
+- Linear_Regression
+- Lineer regresyon
+- lineára regrešuvdnaanalysa
+- lineáris regresszió
+- lineární regrese
+- lineær regresjon
+- lineær regression
+- linjär regression
+- regresi linear
+- regresie liniară
+- Regresioni linear
+- regresión lineal
+- Regresión linear
+- regresión llinial
+- regresja liniowa
+- Regression lineara
+- regressione lineare
+- regressió lineal
+- regressão linear
+- régression linéaire
+- Γραμμική παλινδρόμηση
+- лінійна регресія
+- Лінейная рэгрэсія
+- линеарна регресија
+- линейная регрессия
+- Գծային ռեգրեսիա
+- רגרסיה לינארית
+- انحدار خطي
+- رگرسیون خطی
+- پاشۆچوونی ھێڵی
+- การถดถอยเชิงเส้น
+- 線形回帰
+- 線性回歸
+- 線性迴歸分析
+- 선형 회귀
 has_id_wikidata: Q10861030
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Francis_Galton,191026]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~regression_analysis,208042]]'
-  - '[[_Standards/WikiData/WD~data_science,2374463]]'
+- '[[_Standards/WikiData/WD~regression_analysis,208042]]'
+- '[[_Standards/WikiData/WD~data_science,2374463]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~regression_analysis,208042]]'
-  - '[[_Standards/WikiData/WD~regression,105675274]]'
-  - '[[_Standards/WikiData/WD~machine_learning,2539]]'
+- '[[_Standards/WikiData/WD~regression_analysis,208042]]'
+- '[[_Standards/WikiData/WD~regression,105675274]]'
+- '[[_Standards/WikiData/WD~machine_learning,2539]]'
 uses:
-  - '[[_Standards/WikiData/WD~loss_function,1036748]]'
-  - '[[_Standards/WikiData/WD~linear_model,3339222]]'
-  - '[[_Standards/WikiData/WD~discriminative_model,5282087]]'
+- '[[_Standards/WikiData/WD~loss_function,1036748]]'
+- '[[_Standards/WikiData/WD~linear_model,3339222]]'
+- '[[_Standards/WikiData/WD~discriminative_model,5282087]]'
 opposite_of: '[[_Standards/WikiData/WD~nonlinear_regression,2755024]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_statistical_method,121144069]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/linear-regression
 Commons_category: Linear regression
+dv_has_:
+  name_:
+    ar: انحدار خطي
+    ast: regresión llinial
+    be: Лінейная рэгрэсія
+    be-tarask: лінейная рэгрэсія
+    ca: regressió lineal
+    ckb: پاشۆچوونی ھێڵی
+    cs: lineární regrese
+    da: lineær regression
+    de: lineare Regression
+    el: Γραμμική παλινδρόμηση
+    en: linear regression
+    eo: lineara regreso
+    es: regresión lineal
+    et: lineaarregressioon
+    eu: Karratu txikienen erregresio zuzen
+    fa: رگرسیون خطی
+    fi: lineaarinen regressioanalyysi
+    fr: régression linéaire
+    gl: Regresión linear
+    he: רגרסיה לינארית
+    hr: Linearna regresija
+    hu: lineáris regresszió
+    hy: Գծային ռեգրեսիա
+    id: regresi linear
+    it: regressione lineare
+    ja: 線形回帰
+    ko: 선형 회귀
+    mk: линеарна регресија
+    ms: Regresi linear
+    nb: lineær regresjon
+    nl: lineaire regressie
+    nn: lineær regresjon
+    oc: Regression lineara
+    pl: regresja liniowa
+    pt: regressão linear
+    pt-br: regressão linear
+    ro: regresie liniară
+    ru: линейная регрессия
+    se: lineára regrešuvdnaanalysa
+    sl: linearna regresija
+    smn: lineaarlâš regressioanalyys
+    sms: lineaarlaž regressioanalyys
+    sq: Regresioni linear
+    sr: линеарна регресија
+    sv: linjär regression
+    th: การถดถอยเชิงเส้น
+    tr: Lineer regresyon
+    uk: лінійна регресія
+    vi: Hồi quy tuyến tính
+    yue: 線性迴歸分析
+    zh: 線性回歸
 ---
-
 # [[Linear_Regression]] 
 
 #is_/same_as :: [[WD~Linear_regression,10861030]] 

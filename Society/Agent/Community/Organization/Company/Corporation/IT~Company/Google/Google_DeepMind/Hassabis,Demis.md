@@ -1,55 +1,79 @@
 ---
 aliases:
-  - Demis_Hassabis
-  - Sir Demis Hassabis
-  - Demis Hassabis
-  - Hassabis
-  - Hassabis,Demis
+- Demis Hasabis
+- Demis Hassabis
+- Demis_Hassabis
+- Hassabis
+- Hassabis,Demis
+- Sir Demis Hassabis
+- Ντέμης Χασάμπης
+- Деміс Гассабіс
+- Демис Хасабис
+- Демис Хассабис
+- Дэміс Гасабіс
+- Дэміс Хасабіс
+- Դեմիս Հասաբիս
+- דמיס הסביס
+- دمیس هاسابیس
+- ديمس هاسابيس
+- ديميس هاسابيس
+- دێمیس ھەسابیس
+- ڈیمس ہاسابیس
+- ڈیمس ہسابس
+- ডেমিছ হাছাবিছ
+- ডেমিস হাসাবিস
+- தெமிசு அசபீசு
+- เดมิส แฮสซาบิส
+- დემის ჰასაბისი
+- デミス・ハサビス
+- 德米斯·哈薩比斯
+- 杰米斯·哈萨比斯
+- 데미스 허사비스
 has_id_wikidata: Q3022141
 X_Twitter_username: demishassabis
 Baidu_Tieba_name: 戴密斯哈萨比斯
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Demis%20Hassabis%2C%202024%20Nobel%20Prize%20Laureate%20in%20Chemistry%207%20%28cropped%29.jpg
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~game_programmer,863368]]'
-  - '[[_Standards/WikiData/WD~chess_player,10873124]]'
-  - '[[_Standards/WikiData/WD~poker_player,15295720]]'
-  - '[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092]]'
-  - '[[_Standards/WikiData/WD~data_scientist,29169143]]'
-  - '[[_Standards/WikiData/WD~video_game_developer,58287519]]'
-  - '[[_Standards/WikiData/WD~technology_entrepreneur,133253419]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~game_programmer,863368]]'
+- '[[_Standards/WikiData/WD~chess_player,10873124]]'
+- '[[_Standards/WikiData/WD~poker_player,15295720]]'
+- '[[_Standards/WikiData/WD~artificial_intelligence_researcher,15976092]]'
+- '[[_Standards/WikiData/WD~data_scientist,29169143]]'
+- '[[_Standards/WikiData/WD~video_game_developer,58287519]]'
+- '[[_Standards/WikiData/WD~technology_entrepreneur,133253419]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]'
-  - '[[_Standards/WikiData/WD~Royal_Academy_of_Engineering,1478095]]'
-  - '[[_Standards/WikiData/WD~Scientific_Advisory_Group_for_Emergencies,88096332]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Engineering,1478095]]'
+- '[[_Standards/WikiData/WD~Scientific_Advisory_Group_for_Emergencies,88096332]]'
 influenced_by: '[[../../../../../../../../../WikiData/WD~Peter_Molyneux,164565]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_College_London,193196]]'
-  - '[[../../../../../../../../../WikiData/WD~Google_DeepMind,15733006]]'
+- '[[_Standards/WikiData/WD~University_College_London,193196]]'
+- '[[../../../../../../../../../WikiData/WD~Google_DeepMind,15733006]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_College_London,193196]]'
-  - "[[_Standards/WikiData/WD~Queens'_College,765642]]"
-  - "[[_Standards/WikiData/WD~Christ's_College,_Finchley,5108635]]"
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~University_College_London,193196]]'
+- "[[_Standards/WikiData/WD~Queens'_College,765642]]"
+- "[[_Standards/WikiData/WD~Christ's_College,_Finchley,5108635]]"
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 award_received:
-  - '[[_Standards/WikiData/WD~honorary_degree,209896]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Albert_Lasker_Award_for_Basic_Medical_Research,999734]]'
-  - '[[_Standards/WikiData/WD~Dan_David_Prize,1158951]]'
-  - '[[_Standards/WikiData/WD~Lovelace_Medal,1258725]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Technical_and_Scientific_Research,3320352]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Arts,4905728]]'
-  - '[[_Standards/WikiData/WD~Breakthrough_Prize_in_Life_Sciences,5019489]]'
-  - '[[_Standards/WikiData/WD~Mullard_Award,6934163]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Academy_of_Engineering,18342538]]'
-  - "[[_Standards/WikiData/WD~Nature's_10,59918767]]"
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+- '[[_Standards/WikiData/WD~honorary_degree,209896]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Albert_Lasker_Award_for_Basic_Medical_Research,999734]]'
+- '[[_Standards/WikiData/WD~Dan_David_Prize,1158951]]'
+- '[[_Standards/WikiData/WD~Lovelace_Medal,1258725]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Technical_and_Scientific_Research,3320352]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Arts,4905728]]'
+- '[[_Standards/WikiData/WD~Breakthrough_Prize_in_Life_Sciences,5019489]]'
+- '[[_Standards/WikiData/WD~Mullard_Award,6934163]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Academy_of_Engineering,18342538]]'
+- "[[_Standards/WikiData/WD~Nature's_10,59918767]]"
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 title_of_chess_person: '[[_Standards/WikiData/WD~Candidate_Master,1973600]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Eleanor_A._Maguire,5354323]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -66,17 +90,17 @@ country_for_sport: '[[_Standards/WikiData/WD~England,21]]'
 place_of_birth: '[[_Standards/WikiData/WD~London,84]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 Elo_rating:
-  - 2300
-  - 2220
-  - 2230
-  - 2240
-  - 2260
-  - 2270
-  - 2290
-  - 2235
-  - 2237
-  - 2249
-  - 2285
+- 2300
+- 2220
+- 2230
+- 2240
+- 2260
+- 2270
+- 2290
+- 2235
+- 2237
+- 2249
+- 2285
 social_media_followers: 281113
 affiliation_string: DeepMind
 name_in_native_language: Demis Hassabis
@@ -84,8 +108,68 @@ date_of_birth: 1976-07-27T00:00:00Z
 Commons_category: Demis Hassabis
 ORCID_iD: 0000-0003-2812-9917
 ISNI: 0000000352150230
+dv_has_:
+  name_:
+    af: Demis Hassabis
+    ar: ديمس هاسابيس
+    ary: ديميس هاسابيس
+    arz: ديمس هاسابيس
+    as: ডেমিছ হাছাবিছ
+    ast: Demis Hassabis
+    be: Дэміс Хасабіс
+    be-tarask: Дэміс Гасабіс
+    bg: Демис Хасабис
+    bn: ডেমিস হাসাবিস
+    ca: Demis Hassabis
+    ckb: دێمیس ھەسابیس
+    cs: Demis Hassabis
+    da: Demis Hassabis
+    de: Demis Hassabis
+    el: Ντέμης Χασάμπης
+    en: Demis Hassabis
+    en-ca: Demis Hassabis
+    en-gb: Demis Hassabis
+    eo: Demis Hassabis
+    es: Demis Hassabis
+    eu: Demis Hassabis
+    fa: دمیس هاسابیس
+    fi: Demis Hassabis
+    fo: Demis Hassabis
+    fr: Demis Hassabis
+    he: דמיס הסביס
+    hu: Demis Hassabis
+    hy: Դեմիս Հասաբիս
+    is: Demis Hassabis
+    it: Demis Hassabis
+    ja: デミス・ハサビス
+    ka: დემის ჰასაბისი
+    kl: Demis Hassabis
+    ko: 데미스 허사비스
+    ks: ڈیمس ہسابس
+    mg: Demis Hassabis
+    mul: Demis Hassabis
+    nb: Demis Hassabis
+    nl: Demis Hassabis
+    nn: Demis Hassabis
+    pl: Demis Hassabis
+    pnb: ڈیمس ہاسابیس
+    pt: Demis Hassabis
+    pt-br: Demis Hassabis
+    ro: Demis Hassabis
+    ru: Демис Хассабис
+    sk: Demis Hassabis
+    sl: Demis Hassabis
+    sq: Demis Hassabis
+    sr: Demis Hasabis
+    sv: Demis Hassabis
+    ta: தெமிசு அசபீசு
+    th: เดมิส แฮสซาบิส
+    tr: Demis Hassabis
+    uk: Деміс Гассабіс
+    ur: ڈیمس ہاسابیس
+    zh: 杰米斯·哈萨比斯
+    zh-tw: 德米斯·哈薩比斯
 ---
-
 # [[Hassabis,Demis]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Demis_Hassabis,3022141]] 

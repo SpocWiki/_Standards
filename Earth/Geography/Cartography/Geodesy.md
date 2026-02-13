@@ -1,29 +1,92 @@
 ---
 aliases:
-  - Geodäsie
-  - Geodesy
+- aardmeetkunde
+- Duâi-dê Cháik-liòng-hŏk
+- geodasaíocht
+- Geodedd
+- geodeesia
+- geodesi
+- geodesia
+- geodesie
+- geodesiija
+- geodesija
+- geodesije
+- Geodesy
+- geodezie
+- Geodezija
+- geodezio
+- geodeziya
+- geodezja
+- geodezïya
+- geodyzjô
+- Geodäsie
+- geodæsi
+- geodèsia
+- geodésia
+- geodézia
+- geodézie
+- geuodezėjė
+- gjeodezia
+- géodésie
+- heodesiya
+- jekanyika
+- jeodesia
+- Jiodesia
+- trắc địa
+- xeodesia
+- yer ölçümü
+- zeodezia
+- ģeodēzija
+- γεωδαισία
+- геадэзія
+- геодезія
+- Геодези
+- геодезија
+- геодезий
+- геодезия
+- заминсанҷӣ
+- գեոդեզիա
+- גאודזיה
+- געאדעזיע
+- جيوڊيسي
+- جیۆدیزیا
+- مساحیات
+- مسح الأرض
+- ځمکسنجي
+- ژئودزی
+- گەودەزىييا
+- भूगणित
+- भूपृष्ठमितीशास्त्र
+- ভূগণিত
+- ภูมิมาตรศาสตร์
+- გეოდეზია
+- 大地测量学
+- 大地測量學
+- 測地学
+- 測地學
+- 측지학
 has_id_wikidata: Q131089
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_geodesy,5867918]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_geodesy,5867918]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Geodesy_and_Geoinformatics,31837702]]"
-  - "[[_Standards/WikiData/WD~Geodesy_and_Geoinformation,124623971]]"
-practiced_by: "[[_Standards/WikiData/WD~geodesist,116994205]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Geodesy,122956580]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Geodesy_navbox,123339260]]"
-part_of: "[[_Standards/WikiData/WD~Earth_science,8008]]"
-subclass_of: "[[_Standards/WikiData/WD~Earth_science,8008]]"
+- '[[_Standards/WikiData/WD~Geodesy_and_Geoinformatics,31837702]]'
+- '[[_Standards/WikiData/WD~Geodesy_and_Geoinformation,124623971]]'
+practiced_by: '[[_Standards/WikiData/WD~geodesist,116994205]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Geodesy,122956580]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Geodesy_navbox,123339260]]'
+part_of: '[[_Standards/WikiData/WD~Earth_science,8008]]'
+subclass_of: '[[_Standards/WikiData/WD~Earth_science,8008]]'
 BHCL_UUID: af5da51f-bb07-4c35-8228-d8e01ea20278
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gravity%20anomalies%20on%20Earth.jpg
 described_at_URL: http://www.geoinformatik.uni-rostock.de/einzel.asp?ID=761
@@ -34,25 +97,140 @@ Commons_gallery: Geodesy
 Commons_category: Geodesy
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Geodesy,131089|WD~Geodesy,131089]]"
-    - "[[/_Standards/Earth/Geography/Cartography/Geodesy|Geodesy]]"
-    - "[[/_public/Earth/Geography/Cartography/Geodesy.public|Geodesy.public]]"
-    - "[[/_internal/Earth/Geography/Cartography/Geodesy.internal|Geodesy.internal]]"
-    - "[[/_protect/Earth/Geography/Cartography/Geodesy.protect|Geodesy.protect]]"
-    - "[[/_private/Earth/Geography/Cartography/Geodesy.private|Geodesy.private]]"
-    - "[[/_personal/Earth/Geography/Cartography/Geodesy.personal|Geodesy.personal]]"
-    - "[[/_secret/Earth/Geography/Cartography/Geodesy.secret|Geodesy.secret]]"
+  - '[[../../../WikiData/WD~Geodesy,131089|WD~Geodesy,131089]]'
+  - '[[/_Standards/Earth/Geography/Cartography/Geodesy|Geodesy]]'
+  - '[[/_public/Earth/Geography/Cartography/Geodesy.public|Geodesy.public]]'
+  - '[[/_internal/Earth/Geography/Cartography/Geodesy.internal|Geodesy.internal]]'
+  - '[[/_protect/Earth/Geography/Cartography/Geodesy.protect|Geodesy.protect]]'
+  - '[[/_private/Earth/Geography/Cartography/Geodesy.private|Geodesy.private]]'
+  - '[[/_personal/Earth/Geography/Cartography/Geodesy.personal|Geodesy.personal]]'
+  - '[[/_secret/Earth/Geography/Cartography/Geodesy.secret|Geodesy.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Geodesy,131089|WD~Geodesy,131089]]"
-  - "[[/_Standards/Earth/Geography/Cartography/Geodesy|Geodesy]]"
-  - "[[/_public/Earth/Geography/Cartography/Geodesy.public|Geodesy.public]]"
-  - "[[/_internal/Earth/Geography/Cartography/Geodesy.internal|Geodesy.internal]]"
-  - "[[/_protect/Earth/Geography/Cartography/Geodesy.protect|Geodesy.protect]]"
-  - "[[/_private/Earth/Geography/Cartography/Geodesy.private|Geodesy.private]]"
-  - "[[/_personal/Earth/Geography/Cartography/Geodesy.personal|Geodesy.personal]]"
-  - "[[/_secret/Earth/Geography/Cartography/Geodesy.secret|Geodesy.secret]]"
+- '[[../../../WikiData/WD~Geodesy,131089|WD~Geodesy,131089]]'
+- '[[/_Standards/Earth/Geography/Cartography/Geodesy|Geodesy]]'
+- '[[/_public/Earth/Geography/Cartography/Geodesy.public|Geodesy.public]]'
+- '[[/_internal/Earth/Geography/Cartography/Geodesy.internal|Geodesy.internal]]'
+- '[[/_protect/Earth/Geography/Cartography/Geodesy.protect|Geodesy.protect]]'
+- '[[/_private/Earth/Geography/Cartography/Geodesy.private|Geodesy.private]]'
+- '[[/_personal/Earth/Geography/Cartography/Geodesy.personal|Geodesy.personal]]'
+- '[[/_secret/Earth/Geography/Cartography/Geodesy.secret|Geodesy.secret]]'
+dv_has_:
+  name_:
+    af: aardmeetkunde
+    ar: مسح الأرض
+    ast: xeodesia
+    az: geodeziya
+    ba: геодезия
+    be: геадэзія
+    be-tarask: геадэзія
+    bg: геодезия
+    bn: ভূগণিত
+    bs: Geodezija
+    ca: geodèsia
+    cdo: Duâi-dê Cháik-liòng-hŏk
+    ckb: جیۆدیزیا
+    cs: geodézie
+    csb: geodyzjô
+    cv: Геодези
+    cy: Geodedd
+    da: geodæsi
+    de: Geodäsie
+    de-ch: Geodäsie
+    el: γεωδαισία
+    en: geodesy
+    en-ca: geodesy
+    en-gb: geodesy
+    eo: geodezio
+    es: geodesia
+    et: geodeesia
+    eu: geodesia
+    fa: ژئودزی
+    fi: geodesia
+    fr: géodésie
+    ga: geodasaíocht
+    gl: xeodesia
+    he: גאודזיה
+    hi: भूगणित
+    hr: geodezija
+    hu: geodézia
+    hy: գեոդեզիա
+    id: geodesi
+    io: geodezio
+    it: geodesia
+    ja: 測地学
+    jv: geodesi
+    ka: გეოდეზია
+    kk: геодезия
+    kk-arab: گەودەزىييا
+    kk-cn: گەودەزىييا
+    kk-cyrl: геодезия
+    kk-kz: геодезия
+    kk-latn: geodezïya
+    kk-tr: geodezïya
+    ko: 측지학
+    ky: геодезия
+    lb: Geodesie
+    lfn: jeodesia
+    lt: geodezija
+    lv: ģeodēzija
+    mhr: геодезий
+    min: geodesi
+    mk: геодезија
+    mn: геодези
+    mr: भूपृष्ठमितीशास्त्र
+    ms: geodesi
+    nb: geodesi
+    nl: geodesie
+    nn: geodesi
+    os: геодези
+    pl: geodezja
+    ps: ځمکسنجي
+    pt: geodesia
+    pt-br: geodésia
+    ro: geodezie
+    ru: геодезия
+    sc: geodesia
+    sd: جيوڊيسي
+    se: geodesiija
+    sgs: geuodezėjė
+    sh: geodezija
+    sje: geodesija
+    sk: geodézia
+    sl: geodezija
+    sma: geodesije
+    smj: geodesija
+    smn: geodesia
+    sms: geodesia
+    sn: jekanyika
+    sq: gjeodezia
+    sr: геодезија
+    sr-ec: геодезија
+    sr-el: geodezija
+    sv: geodesi
+    sw: Jiodesia
+    tg: заминсанҷӣ
+    th: ภูมิมาตรศาสตร์
+    tl: heodesiya
+    tr: yer ölçümü
+    tt: геодезия
+    tyv: геодезия
+    uk: геодезія
+    ur: مساحیات
+    uz: geodeziya
+    vec: zeodezia
+    vi: trắc địa
+    war: heodesiya
+    wuu: 大地测量学
+    yi: געאדעזיע
+    yue: 測地學
+    zh: 大地测量学
+    zh-cn: 大地测量学
+    zh-hans: 大地测量学
+    zh-hant: 大地測量學
+    zh-hk: 大地測量學
+    zh-sg: 大地测量学
+    zh-tw: 大地測量學
 ---
-
 # [[Geodesy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Geodesy,131089|WD~Geodesy,131089]] 

@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Karlheinz Stockhausen
-  - Stockhausen,Karlheinz
+- Carolus Henricus Stockhausen
+- Karlheincs Štokhauzens
+- Karlheinz Stockhausen
+- Stockhausen,Karlheinz
+- Καρλχάιντς Στοκχάουζεν
+- Карлгайнц Штокгаўзэн
+- Карлгайнц Штокгаузен
+- Карлхајнц Штокхаузен
+- Карлхайнц Штокхаузен
+- Карлхайнц Щокхаузен
+- Կառլհայնց Շտոքհաուզեն
+- קרלהיינץ שטוקהאוזן
+- كارلهاينز شتوكهاوزن
+- کارل هاینز اشتوکهاوزن
+- کارڵ ھاینز شتۆکھاوزن
+- คาร์ลไฮนทซ์ ชต็อคเฮาเซิน
+- კარლჰაინც შტოკჰაუზენი
+- カールハインツ・シュトックハウゼン
+- 卡尔海因茨·施托克豪森
+- 卡爾海因茲·史托克豪森
+- 카를하인츠 슈토크하우젠
+has_id_wikidata: Q154556
+dv_has_:
+  name_:
+    ar: كارلهاينز شتوكهاوزن
+    arz: كارلهاينز شتوكهاوزن
+    ast: Karlheinz Stockhausen
+    be-tarask: Карлгайнц Штокгаўзэн
+    bg: Карлхайнц Щокхаузен
+    br: Karlheinz Stockhausen
+    bs: Karlheinz Stockhausen
+    ca: Karlheinz Stockhausen
+    ckb: کارڵ ھاینز شتۆکھاوزن
+    co: Karlheinz Stockhausen
+    cs: Karlheinz Stockhausen
+    cy: Karlheinz Stockhausen
+    da: Karlheinz Stockhausen
+    dag: Karlheinz Stockhausen
+    de: Karlheinz Stockhausen
+    el: Καρλχάιντς Στοκχάουζεν
+    en: Karlheinz Stockhausen
+    eo: Karlheinz Stockhausen
+    es: Karlheinz Stockhausen
+    et: Karlheinz Stockhausen
+    eu: Karlheinz Stockhausen
+    fa: کارل هاینز اشتوکهاوزن
+    fi: Karlheinz Stockhausen
+    fr: Karlheinz Stockhausen
+    ga: Karlheinz Stockhausen
+    gl: Karlheinz Stockhausen
+    gv: Karlheinz Stockhausen
+    he: קרלהיינץ שטוקהאוזן
+    hr: Karlheinz Stockhausen
+    hu: Karlheinz Stockhausen
+    hy: Կառլհայնց Շտոքհաուզեն
+    id: Karlheinz Stockhausen
+    io: Karlheinz Stockhausen
+    it: Karlheinz Stockhausen
+    ja: カールハインツ・シュトックハウゼン
+    ka: კარლჰაინც შტოკჰაუზენი
+    ko: 카를하인츠 슈토크하우젠
+    la: Carolus Henricus Stockhausen
+    lb: Karlheinz Stockhausen
+    li: Karlheinz Stockhausen
+    lt: Karlheinz Stockhausen
+    lv: Karlheincs Štokhauzens
+    mk: Карлхајнц Штокхаузен
+    mul: Karlheinz Stockhausen
+    nb: Karlheinz Stockhausen
+    nds: Karlheinz Stockhausen
+    nl: Karlheinz Stockhausen
+    nn: Karlheinz Stockhausen
+    pam: Karlheinz Stockhausen
+    pl: Karlheinz Stockhausen
+    pms: Karlheinz Stockhausen
+    pt: Karlheinz Stockhausen
+    pt-br: Karlheinz Stockhausen
+    ro: Karlheinz Stockhausen
+    ru: Карлхайнц Штокхаузен
+    sk: Karlheinz Stockhausen
+    sl: Karlheinz Stockhausen
+    sq: Karlheinz Stockhausen
+    sr: Карлхајнц Штокхаузен
+    sv: Karlheinz Stockhausen
+    th: คาร์ลไฮนทซ์ ชต็อคเฮาเซิน
+    tr: Karlheinz Stockhausen
+    ty: Karlheinz Stockhausen
+    uk: Карлгайнц Штокгаузен
+    vi: Karlheinz Stockhausen
+    zh: 卡尔海因茨·施托克豪森
+    zh-cn: 卡尔海因茨·施托克豪森
+    zh-hans: 卡尔海因茨·施托克豪森
+    zh-hant: 卡爾海因茲·史托克豪森
+    zh-hk: 卡爾海因茲·史托克豪森
+    zh-sg: 卡尔海因茨·施托克豪森
+    zh-tw: 卡爾海因茲·史托克豪森
 ---
-
 # [[Stockhausen,Karlheinz]] 
 
 

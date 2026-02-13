@@ -1,9 +1,117 @@
 ---
 aliases:
-  - Gnathostomulida
+- Gnathostomulid
+- Gnathostomulida
+- Gnatostomulīdi
+- Gnatostomúlid
+- Gnatostomúlidos
+- kampaleukamadot
+- Kiefermündchen
+- kjevemunnar
+- kjevemunner
+- käkmaskar
+- Lõugsuud
+- Mnyoo-taya
+- Qnatostomulidlər
+- Szczękogębe
+- Tandjmóndjwörm
+- Tandmondwormen
+- Tjaapmüswirmer
+- Táyiʼ naatʼiʼí biwooʼ dahólónígíí
+- Ulod nga papangig
+- Çeneli solucanlar
+- Čelistovky
+- Čeľusťoústky
+- Γναθοστοματυλίδες
+- Гнатостомуліди
+- гнатостомулиды
+- челюстноустни
+- גנתוסטומולידה
+- ديدان فكية
+- ديدان فكيه
+- چنهلی سوْلوجانلار
+- کرمهای آروارهدار
+- นาโธสโทมูลิดา
+- 顎口動物
+- 顎胃動物門
+- 颚胃动物门
+- 악구동물
 title: Gnathostomulida
+has_id_wikidata: Q459276
+dv_has_:
+  name_:
+    an: Gnathostomulida
+    ar: ديدان فكية
+    arz: ديدان فكيه
+    ast: Gnathostomulida
+    az: Qnatostomulidlər
+    azb: چنهلی سوْلوجانلار
+    bg: челюстноустни
+    bs: Gnathostomulida
+    ca: Gnatostomúlid
+    ceb: Ulod nga papangig
+    cs: Čelistovky
+    de: Kiefermündchen
+    el: Γναθοστοματυλίδες
+    en: Gnathostomulida
+    en-ca: Gnathostomulid
+    en-gb: Gnathostomulid
+    eo: Gnathostomulida
+    es: Gnathostomulida
+    et: Lõugsuud
+    eu: Gnathostomulida
+    ext: Gnathostomulida
+    fa: کرمهای آروارهدار
+    fi: kampaleukamadot
+    fr: Gnathostomulida
+    frr: Tjaapmüswirmer
+    ga: Gnathostomulida
+    gl: Gnatostomúlidos
+    he: גנתוסטומולידה
+    hr: Gnathostomulida
+    hu: Gnathostomulida
+    ia: Gnathostomulida
+    ie: Gnathostomulida
+    io: Gnathostomulida
+    it: Gnathostomulida
+    ja: 顎口動物
+    ko: 악구동물
+    la: Gnathostomulida
+    li: Tandjmóndjwörm
+    lv: Gnatostomulīdi
+    mul: Gnathostomulida
+    nb: kjevemunner
+    nl: Tandmondwormen
+    nn: kjevemunnar
+    nv: Táyiʼ naatʼiʼí biwooʼ dahólónígíí
+    oc: Gnathostomulida
+    pl: Szczękogębe
+    pt: Gnathostomulida
+    pt-br: Gnathostomulida
+    ro: Gnathostomulida
+    ru: гнатостомулиды
+    sk: Čeľusťoústky
+    sq: Gnathostomulida
+    sr: Gnathostomulida
+    sr-ec: Gnathostomulida
+    sr-el: Gnathostomulida
+    sv: käkmaskar
+    sw: Mnyoo-taya
+    th: นาโธสโทมูลิดา
+    tl: Gnathostomulida
+    tr: Çeneli solucanlar
+    uk: Гнатостомуліди
+    vi: Gnathostomulida
+    vo: Gnathostomulida
+    war: Gnathostomulida
+    zh: 颚胃动物门
+    zh-cn: 颚胃动物门
+    zh-hans: 颚胃动物门
+    zh-hant: 顎胃動物門
+    zh-hk: 顎胃動物門
+    zh-sg: 颚胃动物门
+    zh-tw: 顎胃動物門
 ---
-
 # [[Gnathostomulida]] 
 
 Jaw Worms 

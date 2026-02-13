@@ -1,8 +1,52 @@
 ---
 aliases:
-  - Fresnel_lens
-  - Fresnel_Lens
-  - Fresnel Lens
+- Frenela lēca
+- Fresnel leiar
+- Fresnel Lens
+- Fresnel linzalari
+- Fresnel-lencse
+- Fresnel-lenso
+- Fresnel-Lins
+- Fresnel-Linse
+- Fresnel-linssi
+- Fresneli lääts
+- Fresnellens
+- Fresnellins
+- Fresnellinse
+- Fresnelova leča
+- Fresnelova zrcala
+- Fresnelova čočka
+- Fresnelova šošovka
+- Fresnel_lens
+- Kanta Fresnel
+- Lensa Fresnel
+- Lent de Fresnel
+- lente de Fresnel
+- Lente di Fresnel
+- Lente Fresnel
+- lentille de Fresnel
+- lentilă Fresnel
+- Soczewka Fresnela
+- Thấu kính Fresnel
+- Лінза Френеля
+- Линза Френеля
+- Френелийн линз
+- Френелова леќа
+- Френелова леща
+- Френель Линзасы
+- Френель линзаһы
+- Фреснелова сочива
+- Фрэнэлева лінза
+- עדשת פרנל
+- عدسة فرينل
+- عدسی فرنل
+- फ्रेसनेल ताल
+- பிரெனெல் வில்லை
+- เลนส์แฟรแนล
+- フレネルレンズ
+- 菲涅爾透鏡
+- 菲涅耳透鏡
+- 프레넬 렌즈
 has_id_wikidata: Q14672
 named_after: '[[_Standards/WikiData/WD~Augustin_Jean_Fresnel,187241]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Augustin_Jean_Fresnel,187241]]'
@@ -11,12 +55,68 @@ subclass_of: '[[_Standards/WikiData/WD~optic,19832917]]'
 has_list: '[[_Standards/WikiData/WD~list_of_Fresnel_lighthouse_lens_sizes,24631247]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116617671,116617671]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel-Linse%20R%C3%BCcklicht.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel%20lens%20loschen%20hg.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel%20lighthouse%20lens%20diagram.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel-Linse%20R%C3%BCcklicht.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel%20lens%20loschen%20hg.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fresnel%20lighthouse%20lens%20diagram.png
 Commons_category: Fresnel lenses
+dv_has_:
+  name_:
+    ar: عدسة فرينل
+    ast: lente de Fresnel
+    ba: Френель линзаһы
+    be-tarask: Фрэнэлева лінза
+    bg: Френелова леща
+    ca: Lent de Fresnel
+    cs: Fresnelova čočka
+    da: Fresnellinse
+    de: Fresnel-Linse
+    en: Fresnel lens
+    en-ca: Fresnel lens
+    en-gb: Fresnel lens
+    eo: Fresnel-lenso
+    es: lente de Fresnel
+    et: Fresneli lääts
+    eu: Fresnel leiar
+    fa: عدسی فرنل
+    fi: Fresnel-linssi
+    fr: lentille de Fresnel
+    frr: Fresnel-Lins
+    gl: Lente de Fresnel
+    gsw: Fresnel-Linse
+    he: עדשת פרנל
+    hi: फ्रेसनेल ताल
+    hr: Fresnelova zrcala
+    hu: Fresnel-lencse
+    id: Lensa Fresnel
+    it: Lente di Fresnel
+    ja: フレネルレンズ
+    kk: Френель Линзасы
+    ko: 프레넬 렌즈
+    lv: Frenela lēca
+    mk: Френелова леќа
+    mn: Френелийн линз
+    ms: Kanta Fresnel
+    nb: Fresnel-linse
+    nl: Fresnellens
+    pl: Soczewka Fresnela
+    pt: Lente de Fresnel
+    pt-br: Lente de Fresnel
+    ro: lentilă Fresnel
+    ru: Линза Френеля
+    sk: Fresnelova šošovka
+    sl: Fresnelova leča
+    sr: Фреснелова сочива
+    sv: Fresnellins
+    ta: பிரெனெல் வில்லை
+    th: เลนส์แฟรแนล
+    tr: Fresnel lens
+    uk: Лінза Френеля
+    uz: Fresnel linzalari
+    vi: Thấu kính Fresnel
+    war: Lente Fresnel
+    yue: 菲涅爾透鏡
+    zh: 菲涅耳透鏡
 ---
-
 # [[Fresnel_Lens]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Fresnel_lens,14672|WD~Fresnel_lens,14672]] 

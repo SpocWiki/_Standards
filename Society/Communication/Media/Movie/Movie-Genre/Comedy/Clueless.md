@@ -1,4 +1,73 @@
-
+---
+has_id_wikidata: Q931165
+dv_has_:
+  name_:
+    ast: Clueless
+    bg: Баровки
+    ca: Fora d'ona
+    cs: Praštěná holka
+    cy: Clueless
+    da: Clueless
+    de: Clueless – Was sonst!
+    el: Το κορίτσι του Μπέβερλι Χιλς
+    en: Clueless
+    es: Clueless
+    fa: بی سرنخ
+    fi: Clueless
+    fr: Clueless
+    ga: Clueless
+    gl: Clueless
+    he: קלולס
+    hu: Spinédzserek
+    id: Clueless
+    it: Ragazze a Beverly Hills
+    ja: クルーレス
+    jv: Clueless (filem)
+    ko: 클루리스
+    li: Clueless
+    lv: Bezpalīdzīgās
+    mk: Изгубена
+    nb: Clueless
+    nl: Clueless
+    pl: Clueless
+    pt: Clueless
+    ro: Liceenele din Beverly Hills
+    ru: Бестолковые
+    sk: Bezmocná (film)
+    so: Clueless
+    sr: Откачена плавуша
+    sv: Clueless
+    uk: Безголові
+    ur: کلولیس
+    yue: 叻女掌門人
+    zh: 獨領風騷
+    zh-hk: 叻女掌門人
+    zh-tw: 獨領風騷
+aliases:
+- Bezmocná (film)
+- Bezpalīdzīgās
+- Clueless
+- Clueless (filem)
+- Clueless – Was sonst!
+- Fora d'ona
+- Liceenele din Beverly Hills
+- Praštěná holka
+- Ragazze a Beverly Hills
+- Spinédzserek
+- Το κορίτσι του Μπέβερλι Χιλς
+- Баровки
+- Безголові
+- Бестолковые
+- Изгубена
+- Откачена плавуша
+- קלולס
+- بی سرنخ
+- کلولیس
+- クルーレス
+- 叻女掌門人
+- 獨領風騷
+- 클루리스
+---
 #has_/parts :: [[Silverstone,Alicia]] 
 
 ## #has_/text_of_/abstract 

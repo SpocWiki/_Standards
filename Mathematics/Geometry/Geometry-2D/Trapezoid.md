@@ -1,8 +1,80 @@
 ---
 aliases:
-  - Trapez
-  - trapezium
-  - Trapezoid
+- gonyoina sambambiri
+- hình thang
+- koor
+- lichobežník
+- lichoběžník
+- ngapan-apan
+- parallelltrapets
+- puolisuunnikas
+- putuq
+- traipéisiam
+- trapec
+- trapece
+- trapecija
+- trapecio
+- trapeciu
+- Trapeets
+- trapes
+- trapesa
+- trapesium
+- trapesiwm
+- trapesiya
+- trapesiýa
+- trapesoid
+- trapesoyd
+- trapessi
+- trapets
+- trapetsiya
+- Trapez
+- trapezi
+- trapezio
+- trapezium
+- trapezo
+- Trapezoid
+- trapezoido
+- trapisa
+- trapèze
+- trapése
+- trapésium
+- trapéz
+- trapézio
+- yamuk
+- τραπέζιο
+- трапез
+- трапец
+- трапеція
+- трапеци
+- трапеций
+- трапеция
+- трапеция в широком смысле
+- трапецыя
+- трапэцыя
+- սեղան
+- טראפעז
+- טרפז
+- ذوزنقه
+- شبه منحرف
+- شکل منحرف
+- نیمچەلاتەریب
+- समलंब चौकोन
+- समलम्ब चतुर्भुज
+- ট্রাপিজিয়াম
+- ਸਮਲੰਬ ਚਤੁਰਭੁਜ
+- સમાંતરબાજુ ચતુષ્કોણ
+- ଟ୍ରାପିଜିଅମ
+- சரிவகம்
+- సమలంబ చతుర్భుజం
+- ലംബകം
+- รูปสี่เหลี่ยมคางหมู
+- ຮູບຄາງໝູ
+- སྐས་དབྱིབས་
+- ტრაპეცია
+- ចតុកោណព្នាយ
+- 台形
+- 梯形
+- 사다리꼴
 has_id_wikidata: Q46303
 described_by_source: '[[_Standards/WikiData/WD~Q2041543,2041543]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -10,9 +82,9 @@ different_from: '[[_Standards/WikiData/WD~Trapez,12777716]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 subclass_of: '[[_Standards/WikiData/WD~convex_quadrilateral,39447036]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~leg,117009003]]'
-  - '[[_Standards/WikiData/WD~base,117009001]]'
-  - '[[_Standards/WikiData/WD~edge,26382]]'
+- '[[_Standards/WikiData/WD~leg,117009003]]'
+- '[[_Standards/WikiData/WD~base,117009001]]'
+- '[[_Standards/WikiData/WD~edge,26382]]'
 studied_by: '[[_Standards/WikiData/WD~geometry,8087]]'
 has_characteristic: '[[_Standards/WikiData/WD~area,11500]]'
 has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
@@ -20,8 +92,115 @@ OmegaWiki_Defined_Meaning: 375310
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Trapezoid%20special%20cases.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B8%E0%A4%AE%E0%A4%B2%E0%A4%82%E0%A4%AC%20%E0%A4%9A%E0%A5%8C%E0%A4%95%E0%A5%8B%E0%A4%A8.wav
 Commons_category: Trapezoids
+dv_has_:
+  name_:
+    af: trapesium
+    ar: شبه منحرف
+    ast: trapeciu
+    az: trapesiya
+    ba: трапеция
+    bcl: trapesoyd
+    be: трапецыя
+    be-tarask: трапэцыя
+    bg: трапец
+    bn: ট্রাপিজিয়াম
+    bo: སྐས་དབྱིབས་
+    br: trapez
+    bs: trapez
+    ca: trapezi
+    ckb: نیمچەلاتەریب
+    cs: lichoběžník
+    cv: трапеци
+    cy: trapesiwm
+    da: trapez
+    de: Trapez
+    el: τραπέζιο
+    en: trapezoid
+    en-gb: trapezium
+    en-us: trapezoid
+    eo: trapezo
+    es: trapecio
+    et: trapets
+    eu: trapezio
+    fa: ذوزنقه
+    fi: puolisuunnikas
+    fr: trapèze
+    frr: Trapeets
+    ga: traipéisiam
+    gl: trapecio
+    gu: સમાંતરબાજુ ચતુષ્કોણ
+    he: טרפז
+    hi: समलम्ब चतुर्भुज
+    hr: trapez
+    hsb: trapec
+    hu: trapéz
+    hy: սեղան
+    ia: trapezio
+    id: trapesium
+    io: trapezoido
+    is: trapisa
+    it: trapezio
+    ja: 台形
+    jv: ngapan-apan
+    ka: ტრაპეცია
+    kk: трапеция
+    km: ចតុកោណព្នាយ
+    ko: 사다리꼴
+    ky: трапеция
+    la: trapezium
+    lmo: trapése
+    lo: ຮູບຄາງໝູ
+    lt: trapecija
+    lv: trapece
+    mhr: трапеций
+    mk: трапез
+    ml: ലംബകം
+    mn: трапец
+    mr: समलंब चौकोन
+    ms: trapezium
+    nb: trapes
+    nl: trapezium
+    nn: trapes
+    or: ଟ୍ରାପିଜିଅମ
+    pa: ਸਮਲੰਬ ਚਤੁਰਭੁਜ
+    pl: trapez
+    pms: trapessi
+    pt: trapézio
+    pt-br: trapézio
+    qu: putuq
+    ro: trapez
+    ru: трапеция в широком смысле
+    se: trapesa
+    sh: trapez
+    sk: lichobežník
+    sl: trapez
+    sn: gonyoina sambambiri
+    so: koor
+    sr: трапез
+    sr-el: trapez
+    su: trapésium
+    sv: parallelltrapets
+    szl: trapez
+    ta: சரிவகம்
+    te: సమలంబ చతుర్భుజం
+    th: รูปสี่เหลี่ยมคางหมู
+    tk: trapesiýa
+    tl: trapesoid
+    tr: yamuk
+    uk: трапеція
+    ur: شکل منحرف
+    uz: trapetsiya
+    vi: hình thang
+    vls: trapezium
+    war: trapesoyd
+    wuu: 梯形
+    xmf: ტრაპეცია
+    yi: טראפעז
+    yue: 梯形
+    zh: 梯形
+    zh-hans: 梯形
+    zh-hant: 梯形
 ---
-
 # [[Trapezoid]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Trapezoid,46303|WD~Trapezoid,46303]]  

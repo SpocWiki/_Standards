@@ -1,25 +1,169 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]"
-    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]]"
-    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]]"
-    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]]"
-    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]]"
-    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]"
-    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]"
-    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]"
+  - '[[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]'
+  - '[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]]'
+  - '[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]]'
+  - '[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]]'
+  - '[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]]'
+  - '[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]'
+  - '[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]'
+  - '[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]"
-  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]]"
-  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]]"
-  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]]"
-  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]]"
-  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]"
-  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]"
-  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]"
+- '[[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]'
+- '[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate|Slate]]'
+- '[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.public|Slate.public]]'
+- '[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.internal|Slate.internal]]'
+- '[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.protect|Slate.protect]]'
+- '[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.private|Slate.private]]'
+- '[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.personal|Slate.personal]]'
+- '[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Slate.secret|Slate.secret]]'
+has_id_wikidata: Q207079
+dv_has_:
+  name_:
+    an: Loseta
+    ar: أردواز
+    be: аспідны сланец
+    be-tarask: асьпідны лупняк
+    bn: স্লেট
+    ca: llicorella
+    cs: břidlice
+    cy: llechfaen
+    da: Skifer
+    de: Tonschiefer
+    el: σχιστόλιθος
+    en: slate
+    eo: ardezo
+    es: pizarra
+    et: kilt
+    eu: Arbel
+    fa: اسلیت
+    fi: saviliuske
+    fr: ardoise
+    frp: ardouèsa
+    frr: Skiifer
+    fy: Laaistien
+    ga: slinn
+    gl: Lousa
+    he: לווחה
+    hi: परतदार पत्थर
+    hu: pala
+    hy: թերթաքար
+    id: Batusabak
+    io: Ardezo
+    is: Flöguberg
+    it: ardesia
+    ja: 粘板岩
+    ka: ფიქალი
+    ko: 점판암
+    kw: legh
+    la: Ardesia
+    lb: Schifer
+    li: Lèjsjtèè
+    lld: ardesia
+    lt: Šiferis
+    mk: аргилошист
+    ml: അഭ്രഷിസ്റ്റ്
+    ms: Sabak (batuan)
+    nb: skifer
+    nds: Lei
+    nl: leisteen
+    nn: skifer
+    pa: ਸਲੇਟ
+    pl: łupek
+    pnb: سلیٹ
+    pt: ardósia
+    qu: Laqa
+    ro: ardezie
+    ru: аспидный сланец
+    scn: ardesia
+    sh: Glineni škriljavac
+    sk: bridlica
+    sl: skril
+    sr: аргилошист
+    sr-ec: Аргилошист
+    sr-el: Argilošist
+    sv: skiffer
+    sw: Grife
+    ta: சிலேட்டுக் கல்
+    th: หินชนวน
+    tr: arduvaz
+    uk: аспідний сланець
+    vi: Đá bảng
+    wa: Schaye
+    yue: 板岩
+    zh: 板岩
+    zh-cn: 板岩
+    zh-hans: 板岩
+    zh-hant: 板岩
+    zh-hk: 板岩
+    zh-sg: 板岩
+    zh-tw: 板岩
+aliases:
+- Arbel
+- ardesia
+- ardezie
+- ardezo
+- ardoise
+- ardouèsa
+- arduvaz
+- ardósia
+- Argilošist
+- Batusabak
+- bridlica
+- břidlice
+- Flöguberg
+- Glineni škriljavac
+- Grife
+- kilt
+- Laaistien
+- Laqa
+- legh
+- Lei
+- leisteen
+- llechfaen
+- llicorella
+- Loseta
+- Lousa
+- Lèjsjtèè
+- pala
+- pizarra
+- Sabak (batuan)
+- saviliuske
+- Schaye
+- Schifer
+- skifer
+- skiffer
+- Skiifer
+- skril
+- slate
+- slinn
+- Tonschiefer
+- Đá bảng
+- łupek
+- Šiferis
+- σχιστόλιθος
+- аргилошист
+- аспідний сланець
+- аспідны сланец
+- аспидный сланец
+- асьпідны лупняк
+- թերթաքար
+- לווחה
+- أردواز
+- اسلیت
+- سلیٹ
+- परतदार पत्थर
+- স্লেট
+- ਸਲੇਟ
+- சிலேட்டுக் கல்
+- അഭ്രഷിസ്റ്റ്
+- หินชนวน
+- ფიქალი
+- 板岩
+- 粘板岩
+- 점판암
 ---
-
 # [[Slate]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]  

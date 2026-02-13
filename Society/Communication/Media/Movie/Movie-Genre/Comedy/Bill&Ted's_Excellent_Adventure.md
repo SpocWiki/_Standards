@@ -1,5 +1,69 @@
-
-
+---
+has_id_wikidata: Q795042
+dv_has_:
+  name_:
+    ar: بيل أند تيد إيكسيلنت أدفينتشر
+    ast: Bill & Ted's Excellent Adventure
+    ca: Bill & Ted's Excellent Adventure
+    cs: Skvělé dobrodružství Billa a Teda
+    cy: Bill & Ted's Excellent Adventure
+    da: Frem til fortiden
+    de: Bill & Teds verrückte Reise durch die Zeit
+    en: Bill & Ted's Excellent Adventure
+    es: Bill & Ted's Excellent Adventure
+    eu: Bill & Ted's Excellent Adventure
+    fa: ماجراجویی بسیار عالی بیل و تد
+    fi: Billin ja Tedin uskomaton seikkailu
+    fr: L'Excellente Aventure de Bill et Ted
+    ga: Bill & Ted's Excellent Adventure
+    gl: Bill & Ted's Excellent Adventure
+    he: ההרפתקה המצוינת של ביל וטד
+    hif: Bill & Ted's Excellent Adventure
+    hr: Bill & Ted's Excellent Adventure (1989.)
+    hu: Bill és Ted zseniális kalandja
+    it: Bill & Ted's Excellent Adventure
+    ja: ビルとテッドの大冒険
+    ko: 엑설런트 어드벤쳐
+    lv: Bila un Teda neticamie piedzīvojumi
+    ms: Filem Bill & Ted's Excellent Adventure
+    nb: Bill og Teds eventyrlige reise
+    nl: Bill & Ted's Excellent Adventure
+    pl: Wspaniała przygoda Billa i Teda
+    pt: Bill & Ted's Excellent Adventure
+    ru: Невероятные приключения Билла и Теда
+    sr: Невероватна пустоловина Била и Теда
+    sv: Bill & Teds galna äventyr
+    yue: 妙趣孖寶時空漫遊
+    zh: 阿比阿弟大冒險
+    zh-cn: 亲爱的 (电影)
+    zh-hant: 阿比阿弟大冒險
+    zh-hk: 妙趣孖寶時空漫遊
+    zh-tw: 阿比阿弟大冒險
+aliases:
+- Bila un Teda neticamie piedzīvojumi
+- Bill & Ted's Excellent Adventure
+- Bill & Ted's Excellent Adventure (1989.)
+- Bill & Teds galna äventyr
+- Bill & Teds verrückte Reise durch die Zeit
+- Bill og Teds eventyrlige reise
+- Bill és Ted zseniális kalandja
+- Billin ja Tedin uskomaton seikkailu
+- Filem Bill & Ted's Excellent Adventure
+- Frem til fortiden
+- L'Excellente Aventure de Bill et Ted
+- Skvělé dobrodružství Billa a Teda
+- Wspaniała przygoda Billa i Teda
+- Невероватна пустоловина Била и Теда
+- Невероятные приключения Билла и Теда
+- ההרפתקה המצוינת של ביל וטד
+- بيل أند تيد إيكسيلنت أدفينتشر
+- ماجراجویی بسیار عالی بیل و تد
+- ビルとテッドの大冒険
+- 亲爱的 (电影)
+- 妙趣孖寶時空漫遊
+- 阿比阿弟大冒險
+- 엑설런트 어드벤쳐
+---
 ## #has_/text_of_/abstract 
 
 > **Bill & Ted's Excellent Adventure** is a 1989 American science fiction comedy film directed by Stephen Herek 

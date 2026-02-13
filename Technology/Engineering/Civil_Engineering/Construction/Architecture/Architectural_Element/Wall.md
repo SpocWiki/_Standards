@@ -1,34 +1,137 @@
 ---
 aliases:
-  - Wand
-  - Mauer
-  - Wall
+- afasuo
+- balla
+- bat
+- bungbong
+- derbi
+- devor
+- dik duvar
+- dinding
+- dingding
+- divar
+- dívál
+- Dîwar
+- efelo
+- fal
+- Garu
+- gooni
+- gìlíkkà
+- lalaga
+- lanob
+- Mauer
+- Meur
+- moeër
+- moger
+- mur
+- mure
+- murja
+- muro
+- muru
+- murus
+- muthâle
+- Muur
+- muuri
+- muvra
+- muvrra
+- muvrâ
+- múr
+- müür
+- mūris
+- pared
+- parede
+- paret
+- pareta
+- piah
+- pirqa
+- pāntli
+- seiʹnn
+- siena
+- stizmâ
+- sès
+- sėina
+- tembok
+- tèmbok
+- témbok
+- tường
+- udonga
+- Wall
+- Wand
+- waw
+- zeď
+- zid
+- τοίχος
+- τουβάρ'
+- ѕид
+- девор
+- дивар
+- дуал
+- дубал
+- зид
+- пен
+- стіна
+- сте̄нн
+- стена
+- сцяна
+- сьцяна
+- хӳме
+- эркин
+- эрс
+- պատ
+- קיר
+- جدار
+- دينديڠ
+- دیوار
+- ساس
+- لَب
+- ڀت
+- کندھ
+- अंगः
+- दीवार
+- पर्खाल
+- দেয়াল
+- ਕੰਧ
+- କାନ୍ଥ
+- மதில்
+- గోడ
+- ಗೋಡೆ
+- ผนัง
+- တံတိုင်း
+- ၽႃ
+- ግድግዳ
+- ᡶᡠ
+- ᱵᱷᱤᱛ
+- 墙
+- 壁
+- 牆
+- 牆壁
+- 벽
 has_id_wikidata: Q42948
 has_contributing_factor:
-  - '[[_Standards/WikiData/WD~dust,165632]]'
-  - '[[_Standards/WikiData/WD~air_current,4698318]]'
-  - '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-  - '[[_Standards/WikiData/WD~precipitation,25257]]'
+- '[[_Standards/WikiData/WD~dust,165632]]'
+- '[[_Standards/WikiData/WD~air_current,4698318]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~precipitation,25257]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~support,1058733]]'
-  - '[[_Standards/WikiData/WD~separation_barrier,27627826]]'
-  - '[[_Standards/WikiData/WD~fencing_structure,66098993]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~support,1058733]]'
+- '[[_Standards/WikiData/WD~separation_barrier,27627826]]'
+- '[[_Standards/WikiData/WD~fencing_structure,66098993]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 connects_with:
-  - '[[_Standards/WikiData/WD~baseboard,1630557]]'
-  - '[[_Standards/WikiData/WD~built_in_furniture,115732280]]'
-  - '[[_Standards/WikiData/WD~mawaribuchi,131603329]]'
+- '[[_Standards/WikiData/WD~baseboard,1630557]]'
+- '[[_Standards/WikiData/WD~built_in_furniture,115732280]]'
+- '[[_Standards/WikiData/WD~mawaribuchi,131603329]]'
 different_from: '[[_Standards/WikiData/WD~wall,2547819]]'
 part_of:
-  - '[[_Standards/WikiData/WD~house,3947]]'
-  - '[[_Standards/WikiData/WD~building,41176]]'
-  - '[[_Standards/WikiData/WD~fortification,57821]]'
+- '[[_Standards/WikiData/WD~house,3947]]'
+- '[[_Standards/WikiData/WD~building,41176]]'
+- '[[_Standards/WikiData/WD~fortification,57821]]'
 OmegaWiki_Defined_Meaning: 3989
 Nomenclature_for_Museum_Cataloging: 396
 Commons_category: Walls
@@ -36,11 +139,164 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2015%20Zak%C5%82ad%20K
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Muur%20%28bouwsel%29-article.ogg
 GeoNames_feature_code: S.WALL
 OpenStreetMap_tag:
-  - barrier=wall
-  - support=wall
+- barrier=wall
+- support=wall
 Dewey_Decimal_Classification: 721.2
+dv_has_:
+  name_:
+    aeb-arab: ساس
+    aeb-latn: sès
+    af: muur
+    ak: afasuo
+    am: ግድግዳ
+    an: paret
+    ar: جدار
+    ast: parede
+    ay: pirqa
+    az: divar
+    azb: دیوار
+    ban: témbok
+    bcl: lanob
+    be: сцяна
+    be-tarask: сьцяна
+    bew: tèmbok
+    bg: стена
+    bn: দেয়াল
+    br: moger
+    brh: dívál
+    bs: zid
+    ca: paret
+    ce: пен
+    ckb: دیوار
+    cs: zeď
+    cv: хӳме
+    cy: mur
+    da: mur
+    dag: gooni
+    de: Mauer
+    el: τοίχος
+    en: wall
+    en-ca: wall
+    en-gb: wall
+    en-us: wall
+    eo: muro
+    es: pared
+    et: müür
+    eu: pareta
+    fa: دیوار
+    fi: muuri
+    fj: lalaga
+    fr: mur
+    ga: balla
+    gan: 壁
+    gd: balla
+    gl: muro
+    ha: Garu
+    he: קיר
+    hi: दीवार
+    hr: zid
+    hsb: murja
+    hu: fal
+    hy: պատ
+    iba: Dinding
+    id: dinding
+    io: muro
+    is: múr
+    it: muro
+    ja: 壁
+    jv: tembok
+    kcg: bat
+    kk: дуал
+    kn: ಗೋಡೆ
+    ko: 벽
+    ks: لَب
+    ku: Dîwar
+    ky: дубал
+    la: murus
+    lb: Mauer
+    li: moeër
+    ln: efelo
+    lt: siena
+    lv: mūris
+    lzh: 牆壁
+    mcn: gìlíkkà
+    mk: ѕид
+    mnc: ᡶᡠ
+    ms: dinding
+    ms-arab: دينديڠ
+    my: တံတိုင်း
+    nah: pāntli
+    nan: piah
+    nb: mur
+    nds: Muur
+    nds-nl: mure
+    ne: पर्खाल
+    new: अंगः
+    nl: muur
+    nn: mur
+    nrm: muthâle
+    oc: paret
+    or: କାନ୍ଥ
+    pa: ਕੰਧ
+    pam: dingding
+    pl: mur
+    pnb: کندھ
+    pnt: τουβάρ'
+    pt: muro
+    pt-br: muro
+    qu: pirqa
+    ro: zid
+    ru: стена
+    rup: stizmâ
+    sah: эркин
+    sat: ᱵᱷᱤᱛ
+    scn: muru
+    sco: waw
+    sd: ڀت
+    se: muvra
+    sgs: sėina
+    sh: zid
+    shn: ၽႃ
+    sjd: сте̄нн
+    sk: múr
+    sl: zid
+    smj: muvrra
+    smn: muvrâ
+    sms: seiʹnn
+    so: derbi
+    sq: mur
+    sr: зид
+    sr-ec: зид
+    sr-el: zid
+    sv: mur
+    ta: மதில்
+    te: గోడ
+    tg: девор
+    th: ผนัง
+    tl: dingding
+    tr: dik duvar
+    tt: дивар
+    tt-cyrl: дивар
+    uk: стіна
+    ur: دیوار
+    uz: devor
+    vi: tường
+    wa: Meur
+    war: bungbong
+    wuu: 墙
+    xal: эрс
+    xh: udonga
+    yue: 牆
+    zh: 墙
+    zh-cn: 墙
+    zh-hans: 墙
+    zh-hant: 牆
+    zh-hk: 牆
+    zh-mo: 牆
+    zh-my: 墙
+    zh-sg: 墙
+    zh-tw: 牆
 ---
-
 # [[Wall]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Wall,42948|WD~Wall,42948]]  

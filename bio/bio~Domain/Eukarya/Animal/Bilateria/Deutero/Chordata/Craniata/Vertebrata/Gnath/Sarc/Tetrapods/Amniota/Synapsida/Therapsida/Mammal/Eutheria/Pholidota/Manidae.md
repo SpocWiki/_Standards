@@ -1,9 +1,92 @@
 ---
 aliases:
-  - Manidae
+- Kələzkimilər
+- Lixwí
+- luskounovití
+- Manidae
+- manido
+- Mànid
+- Nkákoló
+- Pangolin
+- Schubdieren
+- Skubdier
+- soomusloomlased
+- tobzoskafélék
+- vorbumoleem
+- Zvīņnešu dzimta
+- Łuskowcowate
+- панголинови
+- թեփամորթազգիներ
+- פנגולניים
+- قرفيات
+- மேனிடே
+- วงศ์ลิ่น
+- センザンコウ科
+- 穿山甲科
 title: Manidae
+has_id_wikidata: Q9027425
+dv_has_:
+  name_:
+    af: Skubdier
+    an: Manidae
+    ar: قرفيات
+    ast: Manidae
+    avk: vorbumoleem
+    az: Kələzkimilər
+    ban: Manidae
+    bg: панголинови
+    ca: Mànid
+    ceb: Manidae
+    cs: luskounovití
+    de: Manidae
+    en: Manidae
+    eo: Manidae
+    es: Manidae
+    et: soomusloomlased
+    eu: manido
+    ext: Manidae
+    fi: Manidae
+    fon: Lixwí
+    fr: Manidae
+    ga: Manidae
+    gl: Manidae
+    he: פנגולניים
+    hu: tobzoskafélék
+    hy: թեփամորթազգիներ
+    ia: Manidae
+    ie: Manidae
+    io: Manidae
+    it: Manidae
+    ja: センザンコウ科
+    jv: Manidae
+    la: Manidae
+    ln: Nkákoló
+    lv: Zvīņnešu dzimta
+    ms: Manidae
+    mt: Manidae
+    mul: Manidae
+    nl: Schubdieren
+    oc: Manidae
+    pl: Łuskowcowate
+    pt: Manidae
+    pt-br: Manidae
+    ro: Manidae
+    ru: Manidae
+    sl: Manidae
+    sq: Manidae
+    sr: Manidae
+    ta: மேனிடே
+    th: วงศ์ลิ่น
+    tr: Manidae
+    uk: Manidae
+    vi: Manidae
+    vo: Manidae
+    wa: Pangolin
+    war: Manidae
+    zh: 穿山甲科
+    zh-cn: 穿山甲科
+    zh-tw: 穿山甲科
 ---
-
 # [[Manidae]] 
 
 ## Pangolins and extinct relatives 

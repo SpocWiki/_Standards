@@ -1,25 +1,109 @@
 ---
 aliases:
-  - Artiodactyla
-  - Paarhufer
-  - Artiodactyls
-  - Artiodactyl
-  - Cetartiodactyl
-  - anoplothere
-  - cainotheriid
-  - merycoidodont
-  - entelodont
-  - anthracother
-  - basilosaurid
-  - palaeomerycid
-  - klovdyr
-  - artadachtail
+- anoplothere
+- anthracother
+- artadachtail
+- Artiodactile
+- Artiodactyl
+- Artiodactyla
+- artiodactylos
+- Artiodactyls
+- Artiodaktiled
+- Artiodaktilo
+- Artiodatilo
+- artiodàctils
+- artiodáctilos
+- Artiodátilos
+- Baarhuefer
+- basilosaurid
+- Bộ Guốc chẵn
+- cainotheriid
+- Cetartiodactyl
+- Cliferfētedēor
+- Cütdırnaqlılar
+- Dı sımeyıni
+- entelodont
+- Evehovege
+- even-taed ungulate
+- Evenhoevigen
+- Evenoevihen
+- Ewehoewiges
+- guobereallit
+- Hewan berkuku genap
+- Iskay ruk'anayuq
+- Juft tuyoqlilar
+- Klaufdýr
+- klauvdyr
+- klovdyr
+- Kotteeyyii quba guutuu
+- kyeppirelleeh
+- Kéwan kuku genep
+- merycoidodont
+- Ngó͘-tê tōng-bu̍t
+- Paarhufer
+- Paartuanet Kloksdiarten
+- palaeomerycid
+- Papkari
+- Para-hufajo
+- Parhufuloj
+- Parnoprstaši
+- Parrettåede hovdyr
+- partåiga hovdjur
+- parzystokopytne
+- Porakanopiai
+- Pysãkõi
+- Párnokopytníky
+- párosujjú patások
+- pārnadži
+- sodoprsti kopitarji
+- sorkkaeläimet
+- sudokopytníci
+- sõralised
+- Tisenfednin
+- Tollubekdunol (Artiodactyla)
+- Youdaezmoeg
+- Çift toynaklılar
+- Αρτιοδάκτυλα
+- Ача туяктуулар
+- Вожьясянгыжаэз
+- Дысæфтæгонтæ
+- Жұптұяқтылар
+- Йĕкĕр чĕрнеллисем
+- Кок кӹчӓн вольыквлӓ
+- папкари
+- парнакапытныя
+- парнокопиті
+- парнокопитни
+- парнокопытные
+- Партояҡлылар
+- чифтокопитни
+- Ыыраахтаах туйахтаахтар
+- երկսմբակավորներ
+- מכפילי פרסה
+- جفتسمان
+- جوتدیرناقلیلار
+- مزدوجات الأصابع
+- مزدوجات الاصابع
+- پدھرے کھر
+- युग्मखुरी
+- सम-ऊँगली खुरदार
+- যুগ্ম ক্ষুরযুক্ত চতুষ্পদ
+- இரட்டைப்படைக் குளம்பி
+- ಆರ್ಟಿಯೊಡ್ಯಾಕ್ಟೈಲ
+- อันดับสัตว์กีบคู่
+- ခွာစုံပါသော တိရစ္ဆာန်များ
+- წყვილჩლიქოსნები
+- ჭკობაჩორქოამეფი
+- ሙሉ ጣት ሸሆኔ
+- 偶蹄目
+- 雙蹄目
+- 소목
 has_id_wikidata: Q25329
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Artiodactyla
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 EPPO_Code: 1ARTIO
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aepyceros%20melampus%20-%20001.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -31,14 +115,163 @@ NBN_System_Key: NHMSYS0000376178
 parent_taxon: '[[_Standards/WikiData/WD~Paraxonia,68119354]]'
 start_time: -55000000-01-01
 taxon_common_name:
-  - klovdyr
-  - artadachtail
+- klovdyr
+- artadachtail
 taxon_name: Artiodactyla
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Cetartiodactyla,27850]]'
 title: Artiodactyla
+dv_has_:
+  name_:
+    af: Ewehoewiges
+    am: ሙሉ ጣት ሸሆኔ
+    an: Artiodactyla
+    ang: Cliferfētedēor
+    ar: مزدوجات الأصابع
+    arz: مزدوجات الاصابع
+    ast: Artiodactyla
+    avk: Tollubekdunol (Artiodactyla)
+    az: Cütdırnaqlılar
+    azb: جوتدیرناقلیلار
+    ba: Партояҡлылар
+    ban: Artiodactyla
+    bar: Artiodactyla
+    be: парнакапытныя
+    be-tarask: парнакапытныя
+    bg: чифтокопитни
+    bn: যুগ্ম ক্ষুরযুক্ত চতুষ্পদ
+    br: Artiodaktiled
+    bs: Papkari
+    ca: artiodàctils
+    ceb: Artiodactyla
+    co: Artiodactyla
+    cs: sudokopytníci
+    cv: Йĕкĕр чĕрнеллисем
+    cy: Artiodactyla
+    da: Parrettåede hovdyr
+    de: Paarhufer
+    de-at: Artiodactyla
+    de-ch: Artiodactyla
+    diq: Dı sımeyıni
+    el: Αρτιοδάκτυλα
+    en: Artiodactyla
+    en-ca: Artiodactyla
+    en-gb: Artiodactyla
+    eo: Parhufuloj
+    es: artiodáctilos
+    et: sõralised
+    eu: Artiodaktilo
+    ext: Artiodactyla
+    fa: جفتسمان
+    fi: sorkkaeläimet
+    fr: Artiodactyla
+    frp: Artiodactyla
+    frr: Paartuanet Kloksdiarten
+    fur: Artiodactyla
+    fy: Evenhoevigen
+    ga: artadachtail
+    gd: Artiodactyla
+    gl: Artiodáctilos
+    gn: Pysãkõi
+    gsw: Baarhuefer
+    he: מכפילי פרסה
+    hi: सम-ऊँगली खुरदार
+    hr: Parnoprstaši
+    hu: párosujjú patások
+    hy: երկսմբակավորներ
+    ia: artiodactylos
+    id: Hewan berkuku genap
+    ie: Artiodactyla
+    io: Para-hufajo
+    is: Klaufdýr
+    it: Artiodactyla
+    ja: 偶蹄目
+    jv: Kéwan kuku genep
+    ka: წყვილჩლიქოსნები
+    kab: Tisenfednin
+    kg: Artiodactyla
+    kk: Жұптұяқтылар
+    kn: ಆರ್ಟಿಯೊಡ್ಯಾಕ್ಟೈಲ
+    ko: 소목
+    koi: Вожьясянгыжаэз
+    ky: Ача туяктуулар
+    la: Artiodactyla
+    lb: Artiodactyla
+    lfn: Artiodatilo
+    li: Evehovege
+    lij: Artiodactyla
+    lt: Porakanopiai
+    lv: pārnadži
+    mg: Artiodactyla
+    min: Artiodactyla
+    mk: парнокопитни
+    mr: युग्मखुरी
+    mrj: Кок кӹчӓн вольыквлӓ
+    ms: Artiodactyla
+    mul: Artiodactyla
+    my: ခွာစုံပါသော တိရစ္ဆာန်များ
+    nan: Ngó͘-tê tōng-bu̍t
+    nan-hani: 雙蹄目
+    nap: Artiodactyla
+    nb: klovdyr
+    nds: Artiodactyla
+    nds-nl: Artiodactyla
+    nl: evenhoevigen
+    nn: klauvdyr
+    nov: Artiodactyla
+    nrm: Artiodactyla
+    nys: Artiodactyla
+    oc: Artiodactyla
+    om: Kotteeyyii quba guutuu
+    os: Дысæфтæгонтæ
+    pcd: Artiodactyla
+    pl: parzystokopytne
+    pms: Artiodactyla
+    pnb: پدھرے کھر
+    pt: Artiodátilos
+    pt-br: Artiodactyla
+    qu: Iskay ruk'anayuq
+    rm: Artiodactyla
+    ro: Artiodactile
+    ru: парнокопытные
+    sah: Ыыраахтаах туйахтаахтар
+    sc: Artiodactyla
+    scn: Artiodactyla
+    sco: even-taed ungulate
+    se: guobereallit
+    sh: Parnoprstaši
+    sk: Párnokopytníky
+    sl: sodoprsti kopitarji
+    smn: kyeppirelleeh
+    sq: Artiodactyla
+    sr: папкари
+    sv: partåiga hovdjur
+    sw: Artiodactyla
+    ta: இரட்டைப்படைக் குளம்பி
+    th: อันดับสัตว์กีบคู่
+    tl: Artiodactyla
+    tr: Çift toynaklılar
+    uk: парнокопиті
+    uz: Juft tuyoqlilar
+    vec: Artiodactyla
+    vi: Bộ Guốc chẵn
+    vls: Artiodactyla
+    vo: Artiodactyla
+    wa: Artiodactyla
+    war: Artiodactyla
+    wo: Artiodactyla
+    wuu: 偶蹄目
+    xmf: ჭკობაჩორქოამეფი
+    yue: 偶蹄目
+    za: Youdaezmoeg
+    zea: Evenoevihen
+    zh: 偶蹄目
+    zh-cn: 偶蹄目
+    zh-hans: 偶蹄目
+    zh-hant: 偶蹄目
+    zh-tw: 偶蹄目
+    zu: Artiodactyla
 ---
-
 # [[Artiodactyla]]
 
 ## Even-toed ungulates 

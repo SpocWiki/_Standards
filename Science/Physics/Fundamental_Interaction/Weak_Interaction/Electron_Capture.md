@@ -1,4 +1,117 @@
-
+---
+has_id_wikidata: Q109910
+dv_has_:
+  name_:
+    af: Elektronvangs
+    ar: التقاط إلكترون
+    ast: Captura electrónica
+    be: Электронны захоп
+    bg: Електронен захват
+    bn: ইলেকট্রন ক্যাপচার
+    bs: Elektronski zahvat
+    ca: captura electrònica
+    ckb: دیلکردنی ئەلکترۆن
+    cs: záchyt elektronu
+    da: Elektronindfangning
+    de: Elektroneneinfang
+    en: electron capture
+    eo: elektrona kapto
+    es: captura electrónica
+    eu: Elektroi-harrapaketa
+    fa: گیراندازی الکترون
+    fi: Elektronisieppaus
+    fr: capture électronique
+    frr: Elektrooneniinfang
+    ga: leictreonghabháil
+    ha: electron capture
+    he: לכידת אלקטרון
+    hr: Elektronski uhvat
+    ia: Captura electronic
+    id: Penangkapan elektron
+    it: cattura elettronica
+    ja: 電子捕獲
+    ka: კა-ჩატაცება
+    ko: 전자 포획
+    mk: електронски зафат
+    nb: Elektroninnfangning
+    nds: Elektroneninfang
+    nl: elektronenvangst
+    nn: elektroninnfanging
+    pl: wychwyt elektronu
+    pt: captura eletrônica
+    ro: capturarea de electroni
+    ru: электронный захват
+    sh: Elektronski uhvat
+    sk: Absorpcia K
+    sl: zajetje elektrona
+    sr: електронски захват
+    sr-ec: Електронски захват
+    sr-el: Elektronski zahvat
+    sv: elektroninfångning
+    te: ఎలక్ట్రాన్ సంగ్రహణ
+    th: การจับยึดอิเล็กตรอน
+    tr: eksicik yakalanması
+    uk: Електронний захват
+    uz: Elektron tutish
+    vi: Bắt giữ electron
+    zh: 电子俘获
+    zh-cn: 电子俘获
+    zh-hans: 电子俘获
+    zh-hant: 電子俘獲
+    zh-hk: 電子捕獲
+    zh-sg: 电子俘获
+    zh-tw: 電子捕獲
+aliases:
+- Absorpcia K
+- Bắt giữ electron
+- Captura electronic
+- captura electrònica
+- Captura electrónica
+- captura eletrônica
+- capturarea de electroni
+- capture électronique
+- cattura elettronica
+- eksicik yakalanması
+- electron capture
+- Elektroi-harrapaketa
+- Elektron tutish
+- elektrona kapto
+- Elektroneneinfang
+- Elektroneninfang
+- elektronenvangst
+- Elektronindfangning
+- elektroninfångning
+- elektroninnfanging
+- Elektroninnfangning
+- Elektronisieppaus
+- Elektronski uhvat
+- Elektronski zahvat
+- Elektronvangs
+- Elektrooneniinfang
+- leictreonghabháil
+- Penangkapan elektron
+- wychwyt elektronu
+- zajetje elektrona
+- záchyt elektronu
+- Електронен захват
+- Електронний захват
+- електронски зафат
+- електронски захват
+- Электронны захоп
+- электронный захват
+- לכידת אלקטרון
+- التقاط إلكترون
+- دیلکردنی ئەلکترۆن
+- گیراندازی الکترون
+- ইলেকট্রন ক্যাপচার
+- ఎలక్ట్రాన్ సంగ్రహణ
+- การจับยึดอิเล็กตรอน
+- კა-ჩატაცება
+- 电子俘获
+- 電子俘獲
+- 電子捕獲
+- 전자 포획
+---
 # [[Electron_Capture]] 
 
 #is_/same_as :: [[../../Fundamental_Interaction/Weak_Interaction/Beta_Decay]] 

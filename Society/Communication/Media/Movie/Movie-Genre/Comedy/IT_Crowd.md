@@ -1,4 +1,65 @@
-
+---
+has_id_wikidata: Q239672
+dv_has_:
+  name_:
+    an: The IT Crowd
+    ar: ذا آي تي كراود
+    ast: The IT Crowd
+    br: The IT Crowd
+    ca: The IT Crowd
+    ckb: جەماوەری ئای تی
+    cs: Ajťáci
+    de: The IT Crowd
+    en: The IT Crowd
+    es: The IT Crowd
+    eu: The IT Crowd
+    fa: گروه آیتی
+    fi: IT-porukka
+    fr: The IT Crowd
+    ga: The IT Crowd
+    he: צוות איי.טי.
+    hu: Kockafejek
+    it: IT Crowd
+    ja: ハイっ、こちらIT課!
+    ko: IT 크라우드
+    ku: The IT Crowd
+    nl: The IT Crowd
+    pa: ਦਾ ਆਈਟੀ ਕਰਾਊਡ
+    pl: Technicy-magicy
+    pt: The IT Crowd
+    ru: Компьютерщики
+    sh: The IT Crowd
+    sk: Partička IT
+    sl: The IT Crowd
+    sr: Банда из одељења информатике
+    sv: IT-supporten
+    tr: The IT Crowd
+    uk: The IT Crowd
+    uz: The IT Crowd
+    wuu: IT狂人
+    zh: IT狂人
+    zh-hant: IT狂人
+    zh-tw: IT狂人
+aliases:
+- Ajťáci
+- IT Crowd
+- IT 크라우드
+- IT-porukka
+- IT-supporten
+- IT狂人
+- Kockafejek
+- Partička IT
+- Technicy-magicy
+- The IT Crowd
+- Банда из одељења информатике
+- Компьютерщики
+- צוות איי.טי.
+- جەماوەری ئای تی
+- ذا آي تي كراود
+- گروه آیتی
+- ਦਾ ਆਈਟੀ ਕਰਾਊਡ
+- ハイっ、こちらIT課!
+---
 # [[IT_Crowd]] 
 
 #is_/similar_to :: [[Office(Series)]] 

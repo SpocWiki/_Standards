@@ -1,4 +1,75 @@
-
+---
+has_id_wikidata: Q309084
+dv_has_:
+  name_:
+    af: Alstom
+    ar: ألستوم
+    be: Alstom
+    bg: Алстом
+    ca: Alstom
+    cs: Alstom
+    da: Alstom
+    de: Alstom
+    el: Alstom
+    en: Alstom
+    eo: Alstom
+    es: Alstom
+    et: Alstom
+    eu: Alstom
+    fa: آلستوم
+    fi: Alstom
+    fr: Alstom
+    ga: Alstom
+    gl: Alstom
+    he: אלסטום
+    hr: Alstom
+    hu: Alstom
+    id: Alstom
+    is: Alstom
+    it: Alstom
+    ja: アルストム
+    kk: Alstom
+    ko: 알스톰
+    lb: Alstom
+    li: Alstom
+    lv: Alstom
+    ms: Alstom
+    nb: Alstom
+    nl: Alstom
+    oc: Alstom
+    pl: Alstom
+    pt: Alstom
+    ro: Alstom
+    ru: Alstom
+    sl: Alstom
+    sr: Aлстом
+    sv: Alstom
+    th: อัลสตอม
+    tr: Alstom
+    uk: Alstom
+    vi: Alstom
+    wuu: 阿尔斯通
+    zh: 阿尔斯通公司
+    zh-cn: 阿尔斯通公司
+    zh-hans: 阿尔斯通公司
+    zh-hant: 阿爾斯通公司
+    zh-hk: 阿爾斯通公司
+    zh-sg: 阿尔斯通公司
+    zh-tw: 阿爾斯通公司
+aliases:
+- Alstom
+- Aлстом
+- Алстом
+- אלסטום
+- آلستوم
+- ألستوم
+- อัลสตอม
+- アルストム
+- 阿尔斯通
+- 阿尔斯通公司
+- 阿爾斯通公司
+- 알스톰
+---
 # [[Alstom]] 
 
 > **Alstom** SA is a French multinational rolling stock manufacturer 

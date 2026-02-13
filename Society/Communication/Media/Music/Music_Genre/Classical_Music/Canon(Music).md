@@ -1,27 +1,104 @@
 ---
 aliases:
-  - Kanon
-  - Canon(Music)
+- canon
+- Canon(Music)
+- canone
+- canóin
+- cànon
+- cânone
+- kaanon
+- Kanon
+- kanon i musikk
+- kanono
+- kánon
+- κανόνας
+- канон
+- Канон (музика)
+- хуулахаар нь бичих
+- կանոն
+- קאנון
+- كانن
+- کانن
+- เพลงล้อไล่
+- カノン
+- 卡农
+- 卡農
+- 카논
 has_id_wikidata: Q53831
 uses:
-  - '[[_Standards/WikiData/WD~counterpoint,186393]]'
-  - '[[_Standards/WikiData/WD~imitation,1049742]]'
+- '[[_Standards/WikiData/WD~counterpoint,186393]]'
+- '[[_Standards/WikiData/WD~imitation,1049742]]'
 subclass_of: '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_: '[[_Standards/WikiData/WD~theme,833053]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~musical_form,862597]]'
-  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Canon%20example.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pachelbel-canon-colors.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Canon%20example.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pachelbel-canon-colors.png
 P8189: 987007534512205171
 Commons_category: Canons (music)
 Krugosvet_article: kultura_i_obrazovanie/muzyka/KANON.html
+dv_has_:
+  name_:
+    ar: كانن
+    be-tarask: канон
+    bg: канон
+    ca: cànon
+    cs: kánon
+    cy: canon
+    da: kanon
+    de: Kanon
+    de-ch: Kanon
+    el: κανόνας
+    en: canon
+    en-ca: canon
+    en-gb: canon
+    eo: kanono
+    es: canon
+    et: kaanon
+    eu: kanon
+    fa: کانن
+    fi: kaanon
+    fr: canon
+    fy: kanon
+    ga: canóin
+    gl: canon
+    gsw: Kanon
+    he: קאנון
+    hr: kanon
+    hu: kánon
+    hy: կանոն
+    ia: canon
+    it: canone
+    ja: カノン
+    ko: 카논
+    la: canon
+    mk: Канон (музика)
+    mn: хуулахаар нь бичих
+    nb: kanon
+    nl: canon
+    nn: kanon i musikk
+    pl: kanon
+    pt: cânone
+    pt-br: cânone
+    ro: canon
+    ru: канон
+    sk: kánon
+    sl: kanon
+    sr: канон
+    sv: kanon
+    th: เพลงล้อไล่
+    tr: kanon
+    uk: канон
+    vi: canon
+    wuu: 卡农
+    yue: 卡農
+    zh: 卡农
 ---
-
 # [[Canon(Music)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Canon,53831|WD~Canon,53831]] 

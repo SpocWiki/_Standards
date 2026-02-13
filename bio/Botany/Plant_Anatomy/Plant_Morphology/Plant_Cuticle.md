@@ -1,14 +1,86 @@
 ---
 aliases:
+- Biljna kutikula
+- Cuticle bimore
+- cuticola
+- Cuticula
+- cuticule végétale
+- Cutícula (botànica)
+- cutícula (botánica)
+- Cutícula vegetal
+- Cutícula vexetal
+- Kutiikula (botaanika)
+- kutikula
+- Kutikula (botanika)
+- Kutikula (rastlina)
+- Kutikula tanduran
+- Kutikula tumbuhan
+- kutykula
+- kütikula
+- Lớp biểu bì
+- plant cuticle
+- Кутикула
+- кутикула растений
+- надскурка
+- קוטיקולה
+- إهاب النبات
+- کوتیکول گیاهی
+- উদ্ভিদ কিউটিকল
+- ക്യൂട്ടിൻ
+- クチクラ (植物学)
+- 植物角質層
+- 植物角质层
+- 식물 큐티클
 has_id_wikidata: Q1146493
-different_from: "[[_Standards/WikiData/WD~cuticle,1403158]]"
+different_from: '[[_Standards/WikiData/WD~cuticle,1403158]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~plant_structure,20011319]]"
-  - "[[_Standards/WikiData/WD~covering,23497974]]"
-found_in_taxon: "[[_Standards/WikiData/WD~plant,756]]"
+- '[[_Standards/WikiData/WD~plant_structure,20011319]]'
+- '[[_Standards/WikiData/WD~covering,23497974]]'
+found_in_taxon: '[[_Standards/WikiData/WD~plant,756]]'
 Commons_category: Plant cuticles
+dv_has_:
+  name_:
+    ar: إهاب النبات
+    az: kutikula
+    be-tarask: надскурка
+    bg: Кутикула
+    bn: উদ্ভিদ কিউটিকল
+    bs: Biljna kutikula
+    ca: Cutícula (botànica)
+    da: Kutikula
+    de: Cuticula
+    en: plant cuticle
+    en-ca: Plant cuticle
+    en-gb: Plant cuticle
+    es: cutícula (botánica)
+    et: Kutiikula (botaanika)
+    eu: Kutikula (botanika)
+    fa: کوتیکول گیاهی
+    fi: kutikula
+    fr: cuticule végétale
+    gl: Cutícula vexetal
+    he: קוטיקולה
+    id: Kutikula tumbuhan
+    it: cuticola
+    ja: クチクラ (植物学)
+    jv: Kutikula tanduran
+    ko: 식물 큐티클
+    ml: ക്യൂട്ടിൻ
+    nl: cuticula
+    pl: kutykula
+    pt: Cutícula vegetal
+    pt-br: Cutícula vegetal
+    ru: кутикула растений
+    sl: Kutikula (rastlina)
+    sq: Cuticle bimore
+    sr: Biljna kutikula
+    sv: Kutikula
+    tr: kütikula
+    uk: кутикула
+    vi: Lớp biểu bì
+    yue: 植物角質層
+    zh: 植物角质层
 ---
-
 # [[Plant_Cuticle]] 
 
 #is_/same_as :: [[WD~Plant_cuticle,1146493]] 

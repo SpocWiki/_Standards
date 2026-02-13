@@ -1,9 +1,133 @@
 ---
 aliases:
-  - Giraffidae
+- Girafachtign
+- Girafen
+- giraffdjur
+- Giraffenartige
+- giraffer
+- Giraffidae
+- Girafido
+- giràfids
+- họ Hươu cao cổ
+- Kaelkirjaklased
+- kirahvieläimet
+- kustroleem
+- sjiraffer
+- Tn̂g-ām-lo̍k-kho
+- Xiráfidos
+- zsiráffélék
+- Zürafagiller
+- Zürafələr
+- żyrafowate
+- Žirafiniai
+- Žirafovité
+- žirafovití
+- žirafu dzimta
+- Жираф йышшисем
+- жирафи
+- Жирафові
+- жирафови
+- жирафовые
+- Жирафтар
+- жырафавыя
+- Керіктер тұқымдасы
+- ընձուղտանմաններ
+- ג'ירפיים
+- زرافهسانان
+- زرافيات
+- زرافہ ٹبر
+- ჟირაფისებრნი
+- ჟირაფიშობურეფი
+- キリン科
+- 長頸鹿科
+- 长颈鹿科
+- 기린과
 title: Giraffidae
+has_id_wikidata: Q186154
+dv_has_:
+  name_:
+    an: Giraffidae
+    ar: زرافيات
+    arz: زرافيات
+    ast: Giraffidae
+    avk: kustroleem
+    az: Zürafələr
+    be: жырафавыя
+    be-tarask: Жырафавыя
+    bg: жирафови
+    br: Giraffidae
+    ca: giràfids
+    ceb: Giraffidae
+    cs: žirafovití
+    cv: Жираф йышшисем
+    da: giraffer
+    de: Giraffenartige
+    en: Giraffidae
+    eo: Giraffidae
+    es: Giraffidae
+    et: Kaelkirjaklased
+    eu: Girafido
+    ext: Giraffidae
+    fa: زرافهسانان
+    fi: kirahvieläimet
+    fr: Giraffidae
+    frr: Girafen
+    ga: Giraffidae
+    gl: Xiráfidos
+    he: ג'ירפיים
+    hr: Giraffidae
+    hu: zsiráffélék
+    hy: ընձուղտանմաններ
+    ia: Giraffidae
+    id: Giraffidae
+    ie: Giraffidae
+    io: Giraffidae
+    it: Giraffidae
+    ja: キリン科
+    ka: ჟირაფისებრნი
+    kk: Керіктер тұқымдасы
+    ko: 기린과
+    ky: Жирафтар
+    la: Giraffidae
+    lb: Giraffidae
+    lt: Žirafiniai
+    lv: žirafu dzimta
+    mk: жирафи
+    ms: Giraffidae
+    mul: Giraffidae
+    nan: Tn̂g-ām-lo̍k-kho
+    nb: sjiraffer
+    nl: Giraffidae
+    oc: Giraffidae
+    pl: żyrafowate
+    pnb: زرافہ ٹبر
+    pt: Giraffidae
+    pt-br: Giraffidae
+    ro: Giraffidae
+    ru: жирафовые
+    sco: Giraffidae
+    sh: Giraffidae
+    sk: Žirafovité
+    sl: Giraffidae
+    sq: Giraffidae
+    sv: giraffdjur
+    tr: Zürafagiller
+    uk: Жирафові
+    vi: họ Hươu cao cổ
+    vls: Girafachtign
+    vo: Giraffidae
+    war: Giraffidae
+    wuu: 长颈鹿科
+    xmf: ჟირაფიშობურეფი
+    yue: 長頸鹿科
+    zh: 长颈鹿科
+    zh-cn: 长颈鹿科
+    zh-hans: 长颈鹿科
+    zh-hant: 長頸鹿科
+    zh-hk: 長頸鹿科
+    zh-sg: 长颈鹿科
+    zh-tw: 長頸鹿科
 ---
-
 # [[Giraffidae]] 
 
 ![ ](Sivatherium_skull1.jpg)

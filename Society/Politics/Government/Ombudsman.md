@@ -1,33 +1,180 @@
 ---
 aliases:
-  - Ombudsmann
-  - Ombudsman
+- ararteko
+- asiamies
+- Avokati i Popullit
+- defensor del pueblo
+- defensor del pueblu
+- Diamesolabeta
+- difensor del pòpoło
+- difensore civico
+- kamu denetçisi
+- ombud
+- Ombudsman
+- ombudsmand
+- Ombudsmann
+- ombudsmano
+- ombudsmenas
+- ombudsperson
+- ombudspersoon
+- Ombudspersoun
+- ombwdsman
+- Ombwdsmen
+- Openbare Beskermer
+- ouvidor
+- Pučki pravobranitelj
+- síndic de greuges
+- Tanod-bayan
+- tiesībsargs
+- Umboðsmaður
+- valedor do pobo
+- varuh človekovih pravic
+- verejný ochranca práv
+- áittardeaddji
+- äššialmai
+- äʹššooumaž
+- õigusvahemees
+- Συνήγορος του Πολίτη
+- Додовар
+- Народен правобранител
+- омбудсман
+- омбудсмен
+- Մարդու իրավունքների պաշտպան
+- נציב קבילות הציבור
+- أمين مظالم
+- دادآور
+- ومبۋدسمەن
+- लोकपाल
+- ন্যায়পাল
+- குறைகேள் அதிகாரி
+- ഓംബുഡ്സ്മാൻ
+- ඔම්බුස්ට්මන්
+- ผู้ตรวจการแผ่นดิน
+- オンブズマン
+- 申訴專員
+- 申诉专员
+- 옴부즈만
 has_id_wikidata: Q169180
 subclass_of: '[[_Standards/WikiData/WD~official,599151]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~position,4164871]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 field_of_this_occupation: '[[_Standards/WikiData/WD~human_rights_protection,22674784]]'
 different_from: '[[_Standards/WikiData/WD~audience_ombudsman,41202207]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q108109790,108109790]]'
 female_form_of_label:
-  - Ombudsfrau
-  - амбудзмэнка
-  - síndica de greuges
-  - ombudsmanka
-  - ombudswoman
-  - defensora del pueblo
-  - difenditrice civica
-  - Ombudsfra
-  - ombudsmenė
-  - tiesībsardze
+- Ombudsfrau
+- амбудзмэнка
+- síndica de greuges
+- ombudsmanka
+- ombudswoman
+- defensora del pueblo
+- difenditrice civica
+- Ombudsfra
+- ombudsmenė
+- tiesībsardze
 Commons_category: Ombudsman
 male_form_of_label:
-  - Ombudsmann
-  - ombudsmenas
+- Ombudsmann
+- ombudsmenas
 OpenStreetMap_tag: government=ombudsperson
+dv_has_:
+  name_:
+    af: Openbare Beskermer
+    ar: أمين مظالم
+    ast: defensor del pueblu
+    az: ombudsman
+    bcl: Ombudsman
+    be: омбудсман
+    be-tarask: омбудсман
+    bg: Омбудсман
+    bn: ন্যায়পাল
+    ca: síndic de greuges
+    cs: ombudsman
+    cy: ombwdsman
+    da: ombudsmand
+    de: Ombudsmann
+    el: Συνήγορος του Πολίτη
+    en: ombudsman
+    en-ca: Ombudsman
+    en-gb: ombudsman
+    en-us: ombudsperson
+    eo: ombudsmano
+    es: defensor del pueblo
+    et: õigusvahemees
+    eu: ararteko
+    fa: دادآور
+    fi: asiamies
+    fr: ombudsman
+    gl: valedor do pobo
+    he: נציב קבילות הציבור
+    hi: लोकपाल
+    hr: Pučki pravobranitelj
+    hu: ombudsman
+    hy: Մարդու իրավունքների պաշտպան
+    id: Ombudsman
+    is: Umboðsmaður
+    it: difensore civico
+    ja: オンブズマン
+    kaa: Ombudsman
+    kk: Омбудсмен
+    kk-arab: ومبۋدسمەن
+    kk-cn: ومبۋدسمەن
+    kk-cyrl: Омбудсмен
+    kk-kz: Омбудсмен
+    kk-latn: Ombwdsmen
+    kk-tr: Ombwdsmen
+    ko: 옴부즈만
+    ky: Омбудсмен
+    la: Diamesolabeta
+    lb: Ombudspersoun
+    lt: ombudsmenas
+    lv: tiesībsargs
+    mk: Народен правобранител
+    ml: ഓംബുഡ്സ്മാൻ
+    mn: Омбудсмен
+    ms: Ombudsman
+    nb: ombud
+    ne: लोकपाल
+    nl: ombudspersoon
+    pap: ombudsman
+    pap-aw: ombudsman
+    pl: ombudsman
+    pt: ouvidor
+    pt-br: Ombudsman
+    ro: ombudsman
+    ru: омбудсмен
+    se: áittardeaddji
+    sh: Ombudsman
+    si: ඔම්බුස්ට්මන්
+    sk: verejný ochranca práv
+    sl: varuh človekovih pravic
+    smn: äššialmai
+    sms: äʹššooumaž
+    sq: Avokati i Popullit
+    sr: омбудсман
+    sr-ec: омбудсман
+    sr-el: ombudsman
+    sv: ombudsman
+    ta: குறைகேள் அதிகாரி
+    tg: Додовар
+    th: ผู้ตรวจการแผ่นดิน
+    tl: Tanod-bayan
+    tr: kamu denetçisi
+    uk: омбудсмен
+    uz: ombudsman
+    vec: difensor del pòpoło
+    vi: Ombudsman
+    wuu: 申诉专员
+    yue: 申訴專員
+    zh: 申訴專員
+    zh-cn: 申诉专员
+    zh-hans: 申诉专员
+    zh-hant: 申訴專員
+    zh-hk: 申訴專員
+    zh-sg: 申诉专员
+    zh-tw: 申訴專員
 ---
-
 # [[Ombudsman]] 
 
 #is_/same_as :: [[WD~Ombudsman,169180]] 

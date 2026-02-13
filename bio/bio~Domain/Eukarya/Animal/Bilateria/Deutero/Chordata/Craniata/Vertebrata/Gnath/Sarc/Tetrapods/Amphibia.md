@@ -1,121 +1,231 @@
 ---
 aliases:
-  - Amphibians
-  - Amphibian
-  - Amphibia
-  - dvoživke
-  - البَرْمائِيَّات
-  - القَوَازِبُ
-  - Земнаводныя
-  - Земноводни
-  - Divelfenneg
-  - Amfibis
-  - obojživelníci
-  - Amphibien
-  - Αμφίβια
-  - Anfibios
-  - Sammakkoeläimet
-  - Amphibiens
-  - Amfiibie
-  - anfíbios
-  - דו חיים
-  - Kétéltűek
-  - Երկկենցաղներ
-  - Anfibi
-  - 両生綱
-  - 양서강
-  - Водоземци
-  - amfibier
-  - Amfibieën
-  - płazy
-  - Anfíbios
-  - Amfibieni
-  - Земноводные
-  - Obojživelníky
-  - Groddjur
-  - สัตว์ครึ่งบกครึ่งน้ำ
-  - สัตว์สะเทินน้ำสะเทินบก
-  - İki yaşamlılar
-  - Земноводні
-  - lớp lưỡng cư or động vật lưỡng cư
-  - 兩棲綱
+- abinieki
+- akesi pi nasin tu
+- Allpa yaku kawsaq
+- amfaibiach
+- Amffibiad
+- Amfibet
+- amfibi
+- Amfibia
+- Amfibian
+- Amfibie
+- amfibien
+- Amfibieni
+- amfibier
+- Amfibieë
+- Amfibieën
+- Amfibijad
+- amfibiler
+- Amfibio
+- Amfibioj
+- Amfibis
+- amfibium
+- amfibiya
+- Amfibyen
+- Amfiibie
+- Amphibia
+- Amphibian
+- Amphibians
+- Amphibie
+- Amphibien
+- Amphibiens
+- amphibio
+- Ampibi
+- ampibia
+- Ampibyan
+- Anfibbiu
+- Anfibe
+- Anfibi
+- anfibio
+- Anfibios
+- Anfibiu
+- anfíbios
+- banfi
+- Batracyin
+- Bejavî
+- Beribiyood
+- Biyáázh Tsʼǫʼasánígíí
+- Daa-veaghagh
+- Dagal-hareeyyii
+- Divelfenneg
+- Diwelvennek
+- dvoživke
+- Dzehugaro huviri
+- Dà-bheathach
+- Ensolo Lubbira
+- froskdýr
+- Groddjur
+- Isele
+- Jer-suw haywanları
+- Kahepaiksed
+- Kpataayala
+- Kétéltűek
+- Lióng-chhe-lūi
+- Lurchen
+- Lãnɔgodzikpletɔmewo
+- lớp lưỡng cư or động vật lưỡng cư
+- Mananap nga baki
+- Monumanu nofo ʻuta mo vai
+- obojživelníci
+- Obojživelníky
+- padde
+- płazy
+- Sammakkoeläimet
+- Suda-quruda yaşayanlar
+- Suvda va quruqlikda yashovchilar
+- Timankalin
+- Touk
+- varliagyviai
+- Varlēgīvē
+- Vodozemac
+- Vodozemci
+- Ypegua
+- Çĕрти-шыврисем
+- động vật lưỡng cư
+- İki yaşamlılar
+- Αμφίβια
+- аmphibia
+- Амфибиэхэр
+- Амфибия
+- Амфибиялар
+- амфибияос
+- Амфибиясь
+- Водоземци
+- Газар уһанай амитад
+- Донзæххонтæ
+- Ер-һыу хайуандары
+- Земнаводныя
+- Земноводні
+- Земноводни
+- Земноводны
+- Земноводные
+- Обхокиҳо
+- Сүүлтэй хоёр нутагтан
+- җир-су хайваннары
+- Қосмекенділер
+- Երկկենցաղներ
+- אמפיביע
+- דו חיים
+- דו-חיים
+- البَرْمائِيَّات
+- القَوَازِبُ
+- امفيبيا
+- برمائيات
+- جل تھلیل
+- جل تھلیہٕ
+- جل تھلیے
+- دوزیستان
+- دوه ژوندوي
+- سۇدا-قۇرودا یاشایانلار
+- وشکاوی
+- ٻٽي زندگي گذاريندڙ
+- ߡߟߎ߬ߞߎ߬ߕߏߘߌ
+- उभयचर
+- उभयचर प्राणी
+- एम्पिबियन
+- मेघा
+- উভচর প্রাণী
+- উভচৰ প্ৰাণী
+- ਜਲਥਲੀ
+- நீர்நில வாழ்வன
+- ఉభయచరము
+- ಉಭಯಚರಗಳು
+- ഉഭയജീവി
+- උභය ජීවීන්
+- สัตว์ครึ่งบกครึ่งน้ำ
+- สัตว์สะเทินน้ำสะเทินบก
+- སྐམ་ཆུ་གཉིས་འཚོའི་སྲོག་ཆགས།
+- ကုန်းနေရေနေ သတ္တဝါ
+- တူဝ်ယူႇၼိူဝ်လိၼ်
+- ამფიბიები
+- አምፊናል
+- ᎢᏧᎳ ᎦᏙ ᎠᎹ ᏱᏃ ᎡᎯ
+- ⵜⵉⵎⵙⴽⵍⵎⴰⵏⵉⵏ
+- 両生綱
+- 両生類
+- 两栖动物
+- 兩棲動物
+- 兩棲綱
+- 양서강
+- 양서류
 has_id_wikidata: Q10908
 Archive_of_Our_Own_tag:
-  - amphibian
-  - Amphibians
+- amphibian
+- Amphibians
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Amphibia
 described_by_source:
-  - '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 EPPO_Code: 1AMPHC
 GS1_GPC_code: 10005458
 has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
 Iconclass_notation: 25F5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amphibia.png
 instance_of:
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 173420
 Krugosvet_article: nauka_i_tehnika/biologiya/ZEMNOVODNIE.html
 main_food_source:
-  - '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
-  - '[[_Standards/WikiData/WD~worm,47253]]'
+- '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
+- '[[_Standards/WikiData/WD~worm,47253]]'
 MeSH_tree_code: B01.050.150.900.090
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Examples%20of%20Amphibia.png
 OmegaWiki_Defined_Meaning: 162
 parent_taxon: '[[_Standards/WikiData/WD~Batrachomorpha,2521462]]'
 Provenio_UUID:
-  - 2c8b2bd3-c61d-4e11-90a1-65ca8c618173
+- 2c8b2bd3-c61d-4e11-90a1-65ca8c618173
 start_time: -370000000-01-01
 studied_in:
-  - '[[_Standards/WikiData/WD~herpetology,174416]]'
-  - '[[_Standards/WikiData/WD~batrachology,4869597]]'
+- '[[_Standards/WikiData/WD~herpetology,174416]]'
+- '[[_Standards/WikiData/WD~batrachology,4869597]]'
 subreddit:
-  - Amphibians
+- Amphibians
 taxon_common_name:
-  - dvoživke
-  - البَرْمائِيَّات
-  - القَوَازِبُ
-  - Земнаводныя
-  - Земноводни
-  - Divelfenneg
-  - Amfibis
-  - obojživelníci
-  - Amphibien
-  - Αμφίβια
-  - Amphibians
-  - Anfibios
-  - Sammakkoeläimet
-  - Amphibiens
-  - Amfiibie
-  - anfíbios
-  - דו חיים
-  - Kétéltűek
-  - Երկկենցաղներ
-  - Anfibi
-  - 両生綱
-  - 양서강
-  - Водоземци
-  - amfibier
-  - Amfibieën
-  - płazy
-  - Anfíbios
-  - Amfibieni
-  - Земноводные
-  - Obojživelníky
-  - Groddjur
-  - สัตว์ครึ่งบกครึ่งน้ำ
-  - สัตว์สะเทินน้ำสะเทินบก
-  - İki yaşamlılar
-  - Земноводні
-  - lớp lưỡng cư or động vật lưỡng cư
-  - 兩棲綱
+- dvoživke
+- البَرْمائِيَّات
+- القَوَازِبُ
+- Земнаводныя
+- Земноводни
+- Divelfenneg
+- Amfibis
+- obojživelníci
+- Amphibien
+- Αμφίβια
+- Amphibians
+- Anfibios
+- Sammakkoeläimet
+- Amphibiens
+- Amfiibie
+- anfíbios
+- דו חיים
+- Kétéltűek
+- Երկկենցաղներ
+- Anfibi
+- 両生綱
+- 양서강
+- Водоземци
+- amfibier
+- Amfibieën
+- płazy
+- Anfíbios
+- Amfibieni
+- Земноводные
+- Obojživelníky
+- Groddjur
+- สัตว์ครึ่งบกครึ่งน้ำ
+- สัตว์สะเทินน้ำสะเทินบก
+- İki yaşamlılar
+- Земноводні
+- lớp lưỡng cư or động vật lưỡng cư
+- 兩棲綱
 taxon_name: Amphibia
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~amphibian_as_food,124813117]]'
@@ -124,8 +234,198 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q8878457,8878457]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Amphibians,6677674]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Amphibians,21813728]]'
 UMLS_CUI: C0002668
+dv_has_:
+  name_:
+    af: Amfibie
+    am: አምፊናል
+    an: Amphibia
+    ar: برمائيات
+    ary: برمائيات
+    arz: برمائيات
+    as: উভচৰ প্ৰাণী
+    ast: Amphibia
+    awa: मेघा
+    az: Suda-quruda yaşayanlar
+    azb: سۇدا-قۇرودا یاشایانلار
+    ba: Ер-һыу хайуандары
+    ban: Amphibia
+    be: земнаводныя
+    be-tarask: земнаводныя
+    bg: земноводни
+    bn: উভচর প্রাণী
+    bo: སྐམ་ཆུ་གཉིས་འཚོའི་སྲོག་ཆགས།
+    br: Divelfenneg
+    bs: Vodozemci
+    btm: Touk
+    bxr: Газар уһанай амитад
+    ca: amfibi
+    ceb: Mananap nga baki
+    chr: ᎢᏧᎳ ᎦᏙ ᎠᎹ ᏱᏃ ᎡᎯ
+    ckb: وشکاوی
+    crh: amfibiya
+    cs: obojživelníci
+    cv: Çĕрти-шыврисем
+    cy: Amffibiad
+    da: padde
+    de: Amphibien
+    ee: Lãnɔgodzikpletɔmewo
+    el: αμφίβια
+    en: Amphibia
+    en-ca: Amphibian
+    en-gb: amphibian
+    eo: Amfibioj
+    es: Amphibia
+    et: Kahepaiksed
+    eu: anfibio
+    ext: Anfibiu
+    fa: دوزیستان
+    fi: sammakkoeläimet
+    fr: amphibien
+    frp: amfibien
+    frr: Amfiibie
+    fy: Amfibyen
+    ga: amfaibiach
+    gcr: Amphibia
+    gd: Dà-bheathach
+    gl: anfibio
+    gn: Ypegua
+    gsw: Amphibie
+    guc: Anfibio
+    gv: Daa-veaghagh
+    he: דו-חיים
+    hi: उभयचर
+    hif: Amphibian
+    hr: Vodozemci
+    hu: kétéltűek
+    hy: երկկենցաղներ
+    ia: amphibio
+    id: Amfibia
+    ie: Amfibie
+    ilo: ampibia
+    io: Amfibio
+    is: froskdýr
+    it: Amphibia
+    ja: 両生類
+    jam: Amfibian
+    jbo: banfi
+    jv: Amfibi
+    ka: ამფიბიები
+    kaa: Jer-suw haywanları
+    kab: Timankalin
+    kbd: Амфибиэхэр
+    kbp: Kpataayala
+    kk: Қосмекенділер
+    kn: ಉಭಯಚರಗಳು
+    ko: 양서류
+    koi: Amphibia
+    ks: جل تھلیہٕ
+    ku: Bejavî
+    ku-latn: bejavî
+    kw: Diwelvennek
+    ky: Амфибиялар
+    la: аmphibia
+    lb: Lurchen
+    lfn: Amfibio
+    lg: Ensolo Lubbira
+    li: Amfibieë
+    lij: Amphibia
+    lld: Anfibe
+    lt: varliagyviai
+    lv: abinieki
+    mad: Amfibi
+    mdf: Амфибиясь
+    mg: Amphibia
+    min: Amfibia
+    mk: Водоземци
+    ml: ഉഭയജീവി
+    mn: Сүүлтэй хоёр нутагтан
+    mr: उभयचर प्राणी
+    ms: Amfibia
+    ms-arab: امفيبيا
+    mt: Amphibia
+    mul: Amphibia
+    my: ကုန်းနေရေနေ သတ္တဝါ
+    nan: Lióng-chhe-lūi
+    nap: Amphibia
+    nb: amfibier
+    nds: Amphibien
+    nds-nl: amfibieën
+    ne: उभयचर
+    new: एम्पिबियन
+    nl: amfibieën
+    nn: amfibium
+    nqo: ߡߟߎ߬ߞߎ߬ߕߏߘߌ
+    nv: Biyáázh Tsʼǫʼasánígíí
+    oc: Amphibia
+    om: Dagal-hareeyyii
+    os: Донзæххонтæ
+    pa: ਜਲਥਲੀ
+    pam: Amphibian
+    pl: płazy
+    pms: Anfibi
+    pnb: جل تھلیے
+    ps: دوه ژوندوي
+    pt: Anfíbios
+    pt-br: Anfíbios
+    qu: Allpa yaku kawsaq
+    rm: Amfibis
+    ro: Amfibieni
+    ru: земноводные
+    rue: Земноводны
+    rup: Amphibia
+    sah: Амфибия
+    scn: Anfibbiu
+    sco: amphibian
+    sd: ٻٽي زندگي گذاريندڙ
+    sgs: Varlēgīvē
+    sh: Vodozemac
+    shn: တူဝ်ယူႇၼိူဝ်လိၼ်
+    si: උභය ජීවීන්
+    sk: obojživelníky
+    sl: dvoživke
+    sn: Dzehugaro huviri
+    so: Beribiyood
+    sq: Amfibet
+    sr: водоземци
+    stq: Amphibien
+    su: Ampibi
+    sv: groddjur
+    sw: Amfibia
+    ta: நீர்நில வாழ்வன
+    te: ఉభయచరము
+    tg: Обхокиҳо
+    th: สัตว์สะเทินน้ำสะเทินบก
+    tl: Amphibia
+    to: Monumanu nofo ʻuta mo vai
+    tok: akesi pi nasin tu
+    tr: amfibiler
+    tt: җир-су хайваннары
+    udm: амфибияос
+    uk: земноводні
+    ur: جل تھلیل
+    uz: Suvda va quruqlikda yashovchilar
+    vep: Amfibijad
+    vi: động vật lưỡng cư
+    vls: Amfibieën
+    vo: Amphibia
+    wa: Batracyin
+    war: Ampibyan
+    wuu: 两栖动物
+    xh: Isele
+    yi: אמפיביע
+    yue: 兩棲動物
+    zea: Amfibieën
+    zgh: ⵜⵉⵎⵙⴽⵍⵎⴰⵏⵉⵏ
+    zh: 两栖动物
+    zh-cn: 两栖动物
+    zh-hans: 两栖动物
+    zh-hant: 兩棲動物
+    zh-hk: 两栖动物
+    zh-mo: 两栖动物
+    zh-my: 两栖动物
+    zh-sg: 两栖动物
+    zh-tw: 兩棲動物
 ---
-
 # [[Amphibia]]
 
 Frogs and toads, salamanders and newts, and caecilians 

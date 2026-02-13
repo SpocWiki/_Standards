@@ -1,55 +1,74 @@
 ---
 aliases:
-  - Robert_Metcalfe
-  - Robert Melancton Metcalfe
-  - Robert Metcalfe
-  - Bob Metcalfe
-  - Metcalfe
-  - Metcalfe,Robert
+- Bob Metcalfe
+- Metcalfe
+- Metcalfe,Robert
+- Negro
+- Robert Melancton Metcalfe
+- Robert Metcalfe
+- Robert Metkalf
+- Robertus Metcalfe
+- Robert_Metcalfe
+- Ρόμπερτ Μέτκαλφ
+- Роберт Меткалф
+- Робърт Меткалф
+- Робэрт Мэткалф
+- רוברט מטקאלף
+- رابرت متکالف
+- روبرت ميتكالف
+- रॉबर्ट मेटकॉफ
+- রবার্ট মেটক্যাফ
+- இராபர்ட்டு மெட்கால்ஃபு
+- ബോബ് മെറ്റ്കാഫ്
+- რობერტ მეტკალფი
+- ロバート・メトカーフ
+- 罗伯特·梅特卡夫
+- 羅伯特·梅特卡夫
+- 로버트 메칼프
 has_id_wikidata: Q92766
 notable_work:
-  - '[[_Standards/WikiData/WD~Ethernet,79984]]'
-  - "[[_Standards/WikiData/WD~Metcalfe's_law,151103]]"
+- '[[_Standards/WikiData/WD~Ethernet,79984]]'
+- "[[_Standards/WikiData/WD~Metcalfe's_law,151103]]"
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~MIT_Sloan_School_of_Management,142740]]'
-  - '[[_Standards/WikiData/WD~Bay_Shore_High_School,4874095]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~MIT_Sloan_School_of_Management,142740]]'
+- '[[_Standards/WikiData/WD~Bay_Shore_High_School,4874095]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Turing_Award,185667]]'
-  - '[[_Standards/WikiData/WD~Marconi_Prize,473292]]'
-  - '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~IEEE_Alexander_Graham_Bell_Medal,2086833]]'
-  - '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
-  - '[[_Standards/WikiData/WD~EFF_Award,31323]]'
+- '[[_Standards/WikiData/WD~Turing_Award,185667]]'
+- '[[_Standards/WikiData/WD~Marconi_Prize,473292]]'
+- '[[_Standards/WikiData/WD~National_Medal_of_Technology_and_Innovation,937629]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~IEEE_Alexander_Graham_Bell_Medal,2086833]]'
+- '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
+- '[[_Standards/WikiData/WD~EFF_Award,31323]]'
 employer:
-  - '[[_Standards/WikiData/WD~3Com,229329]]'
-  - '[[_Standards/WikiData/WD~PARC,750428]]'
-  - '[[_Standards/WikiData/WD~University_of_Texas_at_Austin,49213]]'
+- '[[_Standards/WikiData/WD~3Com,229329]]'
+- '[[_Standards/WikiData/WD~PARC,750428]]'
+- '[[_Standards/WikiData/WD~University_of_Texas_at_Austin,49213]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~informatics,4027615]]'
-  - '[[_Standards/WikiData/WD~information_technology,11661]]'
-  - '[[_Standards/WikiData/WD~computer_science,21198]]'
-  - '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
-  - '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
+- '[[_Standards/WikiData/WD~informatics,4027615]]'
+- '[[_Standards/WikiData/WD~information_technology,11661]]'
+- '[[_Standards/WikiData/WD~computer_science,21198]]'
+- '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
+- '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Robert,4927937]]'
-  - '[[_Standards/WikiData/WD~Melancton,116027143]]'
+- '[[_Standards/WikiData/WD~Robert,4927937]]'
+- '[[_Standards/WikiData/WD~Melancton,116027143]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Jeffrey_P._Buzen,6176201]]'
-  - '[[_Standards/WikiData/WD~Thomas_A._Standish,102078170]]'
+- '[[_Standards/WikiData/WD~Jeffrey_P._Buzen,6176201]]'
+- '[[_Standards/WikiData/WD~Thomas_A._Standish,102078170]]'
 doctoral_student: '[[_Standards/WikiData/WD~John_Shoch,6257728]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -67,11 +86,77 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/With%20Bob%20Metcalfe%
 ISNI: 0000000110509052
 ORCID_iD: 0009-0007-8785-9625
 X_Twitter_username:
-  - BobMetcalfe
-  - RobertMMetcalfe
+- BobMetcalfe
+- RobertMMetcalfe
 name_in_native_language: Bob Metcalfe
+dv_has_:
+  name_:
+    ar: روبرت ميتكالف
+    arz: روبرت ميتكالف
+    ast: Robert Metcalfe
+    az: Robert Metkalf
+    azb: رابرت متکالف
+    be-tarask: Робэрт Мэткалф
+    bg: Робърт Меткалф
+    bn: রবার্ট মেটক্যাফ
+    ca: Robert Metcalfe
+    cs: Robert Metcalfe
+    cy: Robert Metcalfe
+    da: Robert Metcalfe
+    dag: Robert Metcalfe
+    de: Robert Metcalfe
+    el: Ρόμπερτ Μέτκαλφ
+    en: Robert Metcalfe
+    en-ca: Robert Metcalfe
+    en-gb: Robert Metcalfe
+    eo: Robert Metcalfe
+    es: Negro
+    eu: Robert Metcalfe
+    fa: رابرت متکالف
+    fi: Robert Metcalfe
+    fr: Robert Metcalfe
+    ga: Robert Metcalfe
+    gl: Robert Metcalfe
+    he: רוברט מטקאלף
+    hi: रॉबर्ट मेटकॉफ
+    hu: Robert Metcalfe
+    id: Robert Metcalfe
+    it: Robert Metcalfe
+    ja: ロバート・メトカーフ
+    ka: რობერტ მეტკალფი
+    ko: 로버트 메칼프
+    la: Robertus Metcalfe
+    mg: Robert Metcalfe
+    ml: ബോബ് മെറ്റ്കാഫ്
+    ms: Robert Metcalfe
+    nb: Robert Metcalfe
+    nl: Robert Metcalfe
+    nn: Robert Metcalfe
+    oc: Robert Metcalfe
+    pl: Robert Metcalfe
+    pt: Robert Metcalfe
+    pt-br: Robert Metcalfe
+    ro: Robert Metcalfe
+    ru: Роберт Меткалф
+    sk: Robert Metcalfe
+    sl: Robert Metcalfe
+    sq: Robert Metcalfe
+    sr: Роберт Меткалф
+    sv: Robert Metcalfe
+    ta: இராபர்ட்டு மெட்கால்ஃபு
+    tr: Robert Metcalfe
+    uk: Роберт Меткалф
+    vi: Robert Metcalfe
+    war: Robert Metcalfe
+    yue: 羅伯特·梅特卡夫
+    zh: 羅伯特·梅特卡夫
+    zh-cn: 罗伯特·梅特卡夫
+    zh-hans: 罗伯特·梅特卡夫
+    zh-hant: 羅伯特·梅特卡夫
+    zh-hk: 羅伯特·梅特卡夫
+    zh-sg: 罗伯特·梅特卡夫
+    zh-tw: 羅伯特·梅特卡夫
 ---
-
 # [[Metcalfe,Robert]] 
 
 #is_/same_as :: [[WD~Robert_Metcalfe,92766]] 

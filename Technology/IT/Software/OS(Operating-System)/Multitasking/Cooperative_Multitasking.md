@@ -3,8 +3,8 @@ aliases:
   - Cooperative multitasking
   - Cooperative_Multitasking
   - Cooperative Multitasking
+has_id_wikidata: Q16969336
 ---
-
 #has_/complement :: [[Preemptive_Multitasking]] 
 
 ## #has_/text_of_/abstract 

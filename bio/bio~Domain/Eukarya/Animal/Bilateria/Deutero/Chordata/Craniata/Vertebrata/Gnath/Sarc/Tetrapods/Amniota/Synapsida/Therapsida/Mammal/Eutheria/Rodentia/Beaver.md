@@ -1,11 +1,216 @@
 ---
 aliases:
-  - Castoridae
-  - Castorinae
-  - Castor
-  - Beaver
+- Afanc
+- Amekdad
+- amiskw
+- Avank
+- Beaver
+- Beaver.
+- bebri
+- Bebriniai
+- Berang-berang
+- bevere
+- Bevers
+- Bewer
+- Biber
+- Biibern
+- Biva
+- Bive
+- Bièvre
+- Bjór
+- bober
+- Bobr
+- Bobrlar
+- Bävrar
+- bæver
+- Bævrar
+- béabhar
+- bóbr
+- Castor
+- Castoridae
+- Castorinae
+- Castoro
+- Castôr
+- Chaaʼ
+- Dabar
+- Dabrovi
+- Drelol (Castor)
+- Eku ti odò
+- Hái-lông
+- Ibhiva
+- Kastor
+- Kastore
+- Kastoro
+- kastur
+- Kastôro
+- Kastɔró
+- kobras
+- Kunduz
+- Los-leathann
+- Lostledan
+- Majag
+- majavat
+- Majjai
+- Qunduz
+- Κάστορας
+- Бєбръ
+- бабёр
+- бабры
+- Бобер
+- бобри
+- бобры
+- Бобыртæ
+- дабар
+- Куну
+- Минж
+- Умдыр
+- Хăнтăр
+- Құндыздар
+- Կուղբ
+- կուղբեր
+- בונה
+- بیور
+- سگ آبی
+- سەگاو
+- قندس
+- ٲبی گگُر
+- کاستور
+- बीवर
+- लःछुँ
+- বীভার
+- பீவர்
+- ബീവർ
+- บีเวอร์
+- ဘီဗာရှဉ့်ဝံ
+- ᏙᏯ
+- ᐊᒥᔅᒄ
+- ビーバー
+- 河狸
+- 河狸属
+- 河貍屬
+- 비버
+has_id_wikidata: Q47542
+dv_has_:
+  name_:
+    af: Bewer
+    ar: قندس
+    arz: قندس
+    ast: Castor
+    atj: amiskw
+    avk: Drelol (Castor)
+    az: Qunduz
+    azb: کاستور
+    ban: Berang-berang
+    bcl: Beaver
+    be: бабры
+    be-tarask: бабёр
+    bg: бобри
+    bn: বীভার
+    br: Avank
+    bs: Dabar
+    ca: Castor
+    ceb: Castor
+    chr: ᏙᏯ
+    ckb: سەگاو
+    cr: ᐊᒥᔅᒄ
+    cs: bobr
+    cu: Бєбръ
+    cv: Хăнтăр
+    cy: Afanc
+    da: bæver
+    de: Biber
+    dsb: Bobr
+    el: Κάστορας
+    eml: Castôr
+    en: beaver
+    eo: Kastoro
+    es: Castor
+    et: kobras
+    eu: Kastore
+    fa: سگ آبی
+    fi: majavat
+    fo: Bævrar
+    fr: castor
+    frr: Biibern
+    fy: Bevers
+    ga: béabhar
+    gd: Los-leathann
+    gl: Castor
+    he: בונה
+    hi: बीवर
+    hr: dabrovi
+    hsb: bobr
+    hu: Castor
+    hy: կուղբեր
+    hyw: Կուղբ
+    ia: Castor
+    id: Beaver
+    io: Kastoro
+    is: Bjór
+    it: Castor
+    ja: ビーバー
+    ka: Beaver.
+    kab: Amekdad
+    kk: Құндыздар
+    ko: 비버
+    ks: ٲبی گگُر
+    kw: Lostledan
+    ky: Куну
+    la: Castor
+    lfn: Castor
+    lmo: Castor
+    ln: Kastɔró
+    lt: Bebriniai
+    lv: bebri
+    mg: Kastôro
+    mhr: Умдыр
+    mk: дабар
+    ml: ബീവർ
+    mn: Минж
+    ms: Beaver
+    mul: Castor
+    my: ဘီဗာရှဉ့်ဝံ
+    nan: Hái-lông
+    nb: bevere
+    new: लःछुँ
+    nl: bevers
+    nrm: Bièvre
+    nv: Chaaʼ
+    oc: Castor
+    os: Бобыртæ
+    pam: kastur
+    pl: bóbr
+    pnb: بیور
+    pt: Castor
+    ro: Castor
+    ru: бобры
+    sc: Castoro
+    sco: Beaver
+    sh: Dabrovi
+    sl: bober
+    sq: Castor
+    sr: дабар
+    sv: Bävrar
+    sw: Biva
+    ta: பீவர்
+    th: บีเวอร์
+    tl: Kastor
+    tr: Kunduz
+    uk: Бобер
+    uz: Bobrlar
+    vep: Majag
+    vi: Castor
+    vro: Majjai
+    wa: Bive
+    war: Castor
+    wuu: 河狸
+    yo: Eku ti odò
+    yue: 河狸
+    zh: 河狸属
+    zh-cn: 河狸属
+    zh-tw: 河貍屬
+    zu: Ibhiva
 ---
-
 # [[Beaver]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Beaver,47542|WD~Beaver,47542]] 

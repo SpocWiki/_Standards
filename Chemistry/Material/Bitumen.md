@@ -1,51 +1,200 @@
 ---
 aliases:
+- Asfalt
+- aspal
+- Aspalto
+- betum
+- Betume
+- Betun
+- betún
+- Bitum
+- Bitumas
+- bitume
+- bitumen
+- bitumens
+- bitumi
+- Bitumlar
+- bitumo
+- Bitumy
+- Bituumen
+- Bitúmen
+- Bïtwm
+- Gudrón
+- molanga
+- živice
+- Άσφαλτος
+- асфалт
+- бітум
+- бітуми
+- битум
+- битумен
+- Битумнар
+- Բիտումներ
+- אספלט
+- أسفلت
+- ئاسفالت
+- ایسفلت
+- بتومین
+- بىيتۋم
+- بیتوم
+- قیر
+- لُک
+- ऐस्फाल्ट
+- বিটুমিন
+- அசுபால்ட்டு
+- ಆಸ್ಫಾಲ್ಟ್
+- ยางมะตอย
+- ბიტუმი
+- ᠠᠴᠠᠪᡠᡥᠠ ᠵᠠᡴᡩᠠᠨ ᡳ ᡧᡠᡤᡳ
+- 歴青
+- 沥青
+- 瀝青
+- 臘青
+- 블랙탑
 has_id_wikidata: Q167510
 different_from:
-  - "[[_Standards/WikiData/WD~tar,186209]]"
-  - "[[_Standards/WikiData/WD~asphalt_concrete,189259]]"
-  - "[[_Standards/WikiData/WD~rock_asphalt,202251]]"
-  - "[[_Standards/WikiData/WD~bitumen_of_Judea,4919163]]"
-made_from_material: "[[_Standards/WikiData/WD~rock_asphalt,202251]]"
+- '[[_Standards/WikiData/WD~tar,186209]]'
+- '[[_Standards/WikiData/WD~asphalt_concrete,189259]]'
+- '[[_Standards/WikiData/WD~rock_asphalt,202251]]'
+- '[[_Standards/WikiData/WD~bitumen_of_Judea,4919163]]'
+made_from_material: '[[_Standards/WikiData/WD~rock_asphalt,202251]]'
 has_use:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~waterproofing,2326110]]"
+- '[[_Standards/WikiData/WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~waterproofing,2326110]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[_Standards/WikiData/WD~petroleum_product,1059843]]"
-  - "[[_Standards/WikiData/WD~film_former,37931493]]"
+- '[[_Standards/WikiData/WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~petroleum_product,1059843]]'
+- '[[_Standards/WikiData/WD~film_former,37931493]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-produced_by: "[[_Standards/WikiData/WD~petroleum,22656]]"
-OmegaWiki_Defined_Meaning: "405"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+produced_by: '[[_Standards/WikiData/WD~petroleum,22656]]'
+OmegaWiki_Defined_Meaning: 405
 Commons_category: Bitumen
 image: http://commons.wikimedia.org/wiki/Special:FilePath/McKittrick%20Tar%20Seep%20North%20of%20Highway%2058.jpg
-U_S_National_Archives_Identifier: "10640456"
-P8189: "987007282683105171"
+U_S_National_Archives_Identifier: 10640456
+P8189: 987007282683105171
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]]"
-    - "[[/_Standards/Chemistry/Material/Bitumen|Bitumen]]"
-    - "[[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]]"
-    - "[[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]]"
-    - "[[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]]"
-    - "[[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]]"
-    - "[[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]]"
-    - "[[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]]"
-  similar_to: "[[Tar]]"
+  - '[[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]]'
+  - '[[/_Standards/Chemistry/Material/Bitumen|Bitumen]]'
+  - '[[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]]'
+  - '[[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]]'
+  - '[[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]]'
+  - '[[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]]'
+  - '[[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]]'
+  - '[[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]]'
+  similar_to: '[[Tar]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]]"
-  - "[[/_Standards/Chemistry/Material/Bitumen|Bitumen]]"
-  - "[[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]]"
-  - "[[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]]"
-  - "[[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]]"
-  - "[[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]]"
-  - "[[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]]"
-  - "[[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]]"
-dv_is_similar_to: "[[Tar]]"
+- '[[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]]'
+- '[[/_Standards/Chemistry/Material/Bitumen|Bitumen]]'
+- '[[/_public/Chemistry/Material/Bitumen.public|Bitumen.public]]'
+- '[[/_internal/Chemistry/Material/Bitumen.internal|Bitumen.internal]]'
+- '[[/_protect/Chemistry/Material/Bitumen.protect|Bitumen.protect]]'
+- '[[/_private/Chemistry/Material/Bitumen.private|Bitumen.private]]'
+- '[[/_personal/Chemistry/Material/Bitumen.personal|Bitumen.personal]]'
+- '[[/_secret/Chemistry/Material/Bitumen.secret|Bitumen.secret]]'
+dv_is_similar_to: '[[Tar]]'
+dv_has_:
+  name_:
+    an: Gudrón
+    ar: أسفلت
+    ast: betún
+    az: Bitum
+    azb: بیتوم
+    ba: Битум
+    be: бітум
+    be-tarask: бітум
+    bg: Битум
+    bn: বিটুমিন
+    bs: Bitumen
+    ca: betum
+    ckb: قیر
+    cs: živice
+    da: bitumen
+    de: Bitumen
+    el: Άσφαλτος
+    en: bitumen
+    eo: bitumo
+    es: betún
+    et: Bituumen
+    eu: Betun
+    fa: بتومین
+    fi: bitumi
+    fr: bitume
+    ga: Asfalt
+    gl: Betume
+    he: אספלט
+    hi: ऐस्फाल्ट
+    hr: Bitumen
+    hu: bitumen
+    hy: Բիտումներ
+    id: aspal
+    io: Bitumo
+    it: bitume
+    ja: 歴青
+    jv: Aspal
+    ka: ბიტუმი
+    kk: Битум
+    kk-arab: بىيتۋم
+    kk-cn: بىيتۋم
+    kk-cyrl: Битум
+    kk-kz: Битум
+    kk-latn: Bïtwm
+    kk-tr: Bïtwm
+    kn: ಆಸ್ಫಾಲ್ಟ್
+    ko: 블랙탑
+    ku: Asfalt
+    ku-arab: ئاسفالت
+    ku-latn: Asfalt
+    ky: Битум
+    lt: Bitumas
+    lv: bitumens
+    mg: molanga
+    mk: битумен
+    mnc: ᠠᠴᠠᠪᡠᡥᠠ ᠵᠠᡴᡩᠠᠨ ᡳ ᡧᡠᡤᡳ
+    ms: Asfalt
+    nb: bitumen
+    nds: Bitumen
+    nl: bitumen
+    nn: Bitumen
+    oc: Bitume
+    pl: Bitumy
+    pnb: لُک
+    pt: betume
+    pt-br: betume
+    ro: Bitum
+    ru: битум
+    scn: bitumi
+    sh: Asfalt
+    sk: Bitúmen
+    sl: bitumen
+    sr: асфалт
+    sr-ec: Асфалт
+    sr-el: Asfalt
+    sv: bitumen
+    ta: அசுபால்ட்டு
+    tg: Битум
+    th: ยางมะตอย
+    tl: Aspalto
+    tr: asfalt
+    tt: Битумнар
+    uk: бітуми
+    ur: ایسفلت
+    uz: Bitumlar
+    vi: Bitum
+    wuu: 沥青
+    yue: 臘青
+    zh: 瀝青
+    zh-cn: 沥青
+    zh-hans: 沥青
+    zh-hant: 瀝青
+    zh-hk: 瀝青
+    zh-mo: 瀝青
+    zh-my: 沥青
+    zh-sg: 沥青
+    zh-tw: 瀝青
 ---
-
 # [[Bitumen]] 
 
 #is_/same_as :: [[../../WikiData/WD~Bitumen,167510|WD~Bitumen,167510]] 

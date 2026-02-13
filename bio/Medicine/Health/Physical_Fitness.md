@@ -1,24 +1,77 @@
 ---
 aliases:
+- abilidad fisico
+- Angkop na pangangatawan
+- aptidão física
+- condition physique
+- condiție fizică
+- ffitrwydd corfforol
+- fiksheid
+- Fitnes
+- fitness
+- fizika taŭgeco
+- Fizikal fitnis
+- fiziskā sagatavotība
+- fizička kondicija
+- Fizička vježba
+- Fizički fitnes
+- folláine cholainne
+- forma física
+- fysisk form
+- fysisk kondition
+- fyysinen kunto
+- Habilitas physica
+- jó erőnlét
+- Kebugaran
+- kecergasan fizikal
+- Khỏe mạnh thể chất
+- Lafiyar jiki
+- lengvasis kultūrizmas
+- physical fitness
+- sprawność fizyczna
+- telesna pripravljenost
+- whakapakari tinana
+- Φυσική κατάσταση
+- фізычная падрыхтаванасьць
+- фітнес
+- фитнес
+- Ֆիտնես
+- כושר גופני
+- تناسب اندام
+- جسمانی تندرستی
+- لياقة بدنية
+- لەشڕێکی
+- शारीरिक फिटनेस
+- শারীরিক সক্ষমতা
+- உடல் நலத்தகுதி
+- ശാരീരികക്ഷമത
+- ශාරීරික යෝග්යතාව
+- สมรรถภาพทางกาย
+- ຄວາມແຂງແຮງ
+- フィットネス
+- 肌力与体能训练
+- 肌力與體能訓練
+- 體能
+- 피트니스
 has_id_wikidata: Q309252
 facet_of:
-  - "[[_Standards/WikiData/WD~physical_exercise,219067]]"
-  - "[[_Standards/WikiData/WD~athletic_performance,1815844]]"
-  - "[[_Standards/WikiData/WD~health,12147]]"
-different_from: "[[_Standards/WikiData/WD~fitness,331710]]"
-studied_by: "[[_Standards/WikiData/WD~sports_science,1298380]]"
+- '[[_Standards/WikiData/WD~physical_exercise,219067]]'
+- '[[_Standards/WikiData/WD~athletic_performance,1815844]]'
+- '[[_Standards/WikiData/WD~health,12147]]'
+different_from: '[[_Standards/WikiData/WD~fitness,331710]]'
+studied_by: '[[_Standards/WikiData/WD~sports_science,1298380]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~well_being,7981051]]"
-  - "[[_Standards/WikiData/WD~musculoskeletal_physiological_phenomena,60389878]]"
-  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~physical_condition,8349689]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]"
-sport: "[[_Standards/WikiData/WD~gymnastics,43450]]"
-U_S_National_Archives_Identifier: "10644022"
+- '[[_Standards/WikiData/WD~well_being,7981051]]'
+- '[[_Standards/WikiData/WD~musculoskeletal_physiological_phenomena,60389878]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~physical_condition,8349689]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]'
+sport: '[[_Standards/WikiData/WD~gymnastics,43450]]'
+U_S_National_Archives_Identifier: 10644022
 hashtag: fitness
 subreddit:
-  - Fitness
-  - AdvancedFitness
+- Fitness
+- AdvancedFitness
 Commons_category: Fitness
 Stack_Exchange_site_URL: https://fitness.stackexchange.com/
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerobic%20exercise%20-%20public%20demonstration07.jpg
@@ -26,13 +79,89 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pictograms-nps-land-exe
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Street%20workout%20Slovenija%20banner.jpg
 UMLS_CUI: C0031812
 MeSH_tree_code:
-  - G11.427.685
-  - I03.450.642.845.054.800
-  - N01.400.545
+- G11.427.685
+- I03.450.642.845.054.800
+- N01.400.545
 IPTC_NewsCode: mediatopic/20000475
 Krugosvet_article_archived_: sport/FITNES.html
+dv_has_:
+  name_:
+    af: fiksheid
+    ar: لياقة بدنية
+    ast: Fitness
+    az: Fitnes
+    ba: фитнес
+    be: фітнес
+    be-tarask: фізычная падрыхтаванасьць
+    bg: Фитнес
+    bn: শারীরিক সক্ষমতা
+    bs: Fizička vježba
+    ca: fitnes
+    ckb: لەشڕێکی
+    cs: fitness
+    cy: ffitrwydd corfforol
+    da: fitness
+    de: Fitness
+    diq: Fitness
+    el: Φυσική κατάσταση
+    en: physical fitness
+    eo: fizika taŭgeco
+    es: fitness
+    eu: Fitness
+    fa: تناسب اندام
+    fi: fyysinen kunto
+    fr: condition physique
+    ga: folláine cholainne
+    gl: forma física
+    ha: Lafiyar jiki
+    he: כושר גופני
+    hi: शारीरिक फिटनेस
+    hr: fizička kondicija
+    hu: jó erőnlét
+    hy: Ֆիտնես
+    id: Kebugaran
+    it: fitness
+    ja: フィットネス
+    jam: Fizikal fitnis
+    ko: 피트니스
+    ky: Фитнес
+    la: Habilitas physica
+    lo: ຄວາມແຂງແຮງ
+    lt: lengvasis kultūrizmas
+    lv: fiziskā sagatavotība
+    mi: whakapakari tinana
+    mk: фитнес
+    ml: ശാരീരികക്ഷമത
+    ms: kecergasan fizikal
+    nb: fysisk form
+    nl: fitness
+    nn: fysisk form
+    pap: abilidad fisico
+    pl: sprawność fizyczna
+    pt: aptidão física
+    ro: condiție fizică
+    ru: фитнес
+    si: ශාරීරික යෝග්යතාව
+    sk: fitness
+    sl: telesna pripravljenost
+    sr: Fizički fitnes
+    sv: fysisk kondition
+    ta: உடல் நலத்தகுதி
+    th: สมรรถภาพทางกาย
+    tl: Angkop na pangangatawan
+    tr: Fitness
+    uk: фітнес
+    ur: جسمانی تندرستی
+    vi: Khỏe mạnh thể chất
+    yue: 體能
+    zh: 肌力與體能訓練
+    zh-cn: 肌力与体能训练
+    zh-hans: 肌力与体能训练
+    zh-hant: 肌力與體能訓練
+    zh-hk: 肌力與體能訓練
+    zh-sg: 肌力与体能训练
+    zh-tw: 肌力與體能訓練
 ---
-
 # [[Physical_Fitness]] 
 
 #is_/same_as :: [[WD~Physical_fitness,309252]] 

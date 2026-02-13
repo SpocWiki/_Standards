@@ -1,38 +1,205 @@
 ---
 aliases:
-  - cucurbits
-  - gourd family
+- Balqabaqkimilər
+- Banjowcowe rostliny
+- Bučevke
+- Cawoûtacêyes
+- Cucurbitaceae
+- cucurbits
+- Cucurbitàcies
+- Cucurbitáceas
+- dyniowate
+- Famîleya kundiran
+- gourd family
+- Graskarfamilien
+- Gresskarfamilien
+- græskar-familien
+- gurkväxter
+- Họ Bầu bí
+- Kabakgiller
+- Komkommeragtiges
+- komkommerfamilie
+- Kukurbacoj
+- Kukurbitaceo
+- Kukurbitazeo
+- kurkkukasvit
+- Kõrvitsalised
+- Kürbisgewächse
+- Kürbisplaanten
+- Moliūginiai
+- Nteete
+- Qovoqdoshlar
+- Sapallu yura rikch'aq ayllu
+- tekvicovité
+- Tikvovke
+- tykvovité
+- tökfélék
+- Warbuqqee
+- ķirbju dzimta
+- Κολοκυνθοειδή
+- Асқабақтар тұқымдасы
+- гарбузові
+- Гарбузовыя
+- Кадуиҳо
+- Насхуызтæ
+- Тикви
+- тиквови
+- тыквенные
+- դդմազգիներ
+- דלועיים
+- قرعية
+- قرعيه
+- کدو ٹبر
+- کدوییان
+- ककड़ी वंश
+- কিউকুয়াবিটাশা
+- కుకుర్బిటేసి
+- ಕರ್ಕುಂಬುಡ
+- ಕುಕರ್ಬಿಟೇಸೀ
+- കുക്കുർബിറ്റേസീ
+- วงศ์แตง
+- გოგრისებრნი
+- კოპეშიაშობურეფი
+- ዱባ
+- ウリ科
+- 葫芦科
+- 葫蘆科
+- 박과
 has_id_wikidata: Q8314
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-uses: "[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Cucurbita,5339301]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cucurbita,5339301]]'
 start_time: -62000000-01-01T00:00:00Z
-has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "22337"
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 22337
 Commons_category: Cucurbitaceae
 taxon_name: Cucurbitaceae
-Dewey_Decimal_Classification: "583.63"
+Dewey_Decimal_Classification: 583.63
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hodgsonia%20heteroclita%20male.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=312
 EPPO_Code: 1CUCF
 MeSH_tree_code: B01.875.800.575.912.250.300
 NBN_System_Key: NBNSYS0000159793
 taxon_common_name:
-  - 박과
-  - Komkommerfamilie
-  - 瓜科
-  - 葫芦科
-  - 葫芦科
-  - 葫蘆科
+- 박과
+- Komkommerfamilie
+- 瓜科
+- 葫芦科
+- 葫芦科
+- 葫蘆科
+dv_has_:
+  name_:
+    af: Komkommeragtiges
+    am: ዱባ
+    an: Cucurbitaceae
+    ar: قرعية
+    arz: قرعيه
+    ast: Cucurbitaceae
+    az: Balqabaqkimilər
+    bcl: Cucurbitaceae
+    be: Гарбузовыя
+    be-tarask: Гарбузовыя
+    bg: тиквови
+    bn: কিউকুয়াবিটাশা
+    bs: Cucurbitaceae
+    ca: Cucurbitàcies
+    ceb: Cucurbitaceae
+    co: Cucurbitaceae
+    cs: tykvovité
+    da: græskar-familien
+    de: Kürbisgewächse
+    el: Κολοκυνθοειδή
+    en: Cucurbitaceae
+    en-ca: Cucurbitaceae
+    en-gb: Cucurbitaceae
+    eo: Kukurbacoj
+    es: Cucurbitaceae
+    et: Kõrvitsalised
+    eu: Kukurbitazeo
+    ext: Cucurbitaceae
+    fa: کدوییان
+    fi: kurkkukasvit
+    fr: Cucurbitaceae
+    frr: Kürbisplaanten
+    ga: Cucurbitaceae
+    gl: Cucurbitáceas
+    he: דלועיים
+    hi: ककड़ी वंश
+    hr: Tikvovke
+    hsb: Banjowcowe rostliny
+    hu: tökfélék
+    hy: դդմազգիներ
+    ia: Cucurbitaceae
+    id: Cucurbitaceae
+    ie: Cucurbitaceae
+    ilo: Cucurbitaceae
+    io: Kukurbitaceo
+    it: Cucurbitaceae
+    ja: ウリ科
+    jv: Cucurbitaceae
+    ka: გოგრისებრნი
+    kg: Nteete
+    kk: Асқабақтар тұқымдасы
+    kn: ಕುಕರ್ಬಿಟೇಸೀ
+    ko: 박과
+    ku: Famîleya kundiran
+    la: Cucurbitaceae
+    lt: Moliūginiai
+    lv: ķirbju dzimta
+    mg: Cucurbitaceae
+    mk: Тикви
+    ml: കുക്കുർബിറ്റേസീ
+    mul: Cucurbitaceae
+    nb: Gresskarfamilien
+    nl: komkommerfamilie
+    nn: Graskarfamilien
+    oc: Cucurbitaceae
+    om: Warbuqqee
+    os: Насхуызтæ
+    pl: dyniowate
+    pnb: کدو ٹبر
+    pt: Cucurbitaceae
+    pt-br: Cucurbitaceae
+    qu: Sapallu yura rikch'aq ayllu
+    ro: Cucurbitaceae
+    ru: тыквенные
+    sco: Cucurbitaceae
+    sh: Tikvovke
+    sk: tekvicovité
+    sl: Bučevke
+    sq: Cucurbitaceae
+    sr: Cucurbitaceae
+    su: Cucurbitaceae
+    sv: gurkväxter
+    tcy: ಕರ್ಕುಂಬುಡ
+    te: కుకుర్బిటేసి
+    tg: Кадуиҳо
+    th: วงศ์แตง
+    tl: Cucurbitaceae
+    tr: Kabakgiller
+    uk: гарбузові
+    uz: Qovoqdoshlar
+    vec: Cucurbitaceae
+    vi: Họ Bầu bí
+    vo: Cucurbitaceae
+    wa: Cawoûtacêyes
+    war: Cucurbitaceae
+    wuu: 葫芦科
+    xmf: კოპეშიაშობურეფი
+    yue: 葫蘆科
+    zh: 葫芦科
+    zh-cn: 葫芦科
+    zh-hans: 葫芦科
+    zh-hant: 葫蘆科
+    zh-tw: 葫蘆科
 ---
-
 # [[Cucurbitaceae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cucurbitaceae,8314|WD~Cucurbitaceae,8314]] 

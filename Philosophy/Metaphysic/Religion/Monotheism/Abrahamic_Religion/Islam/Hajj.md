@@ -1,45 +1,117 @@
 ---
-location: [ 39.826166666 , 21.4225 ] 
+location:
+- 39.826166666
+- 21.4225
 aliases:
-  - Hadj
-  - Hadsch
-  - Hajj
+- Acılıq
+- Aikin Hajji
+- Al-Hach
+- Aʒi
+- Fivahiniana masina (silamo)
+- hac
+- Haddsch
+- Hadj
+- Hadsch
+- Hadsjí
+- hadżdż
+- hadž
+- Hadžas
+- Hadždž
+- Hadžiluk
+- Hagga
+- Hagi
+- Haj
+- haji
+- Hajj
+- Hajji
+- Haxhxhi
+- Haĝo
+- Hec
+- Hájì
+- hādžs
+- Həcc
+- Kaji
+- kama sewi (nasin sewi Isilan)
+- Lḥeǧǧ di tneslemt
+- mekkai zarándoklat
+- Xaj
+- χατζ
+- аџилак
+- Ажы
+- Хадж
+- Хадз
+- Хаж
+- Хаҗ
+- Хьажол
+- Хьаьж
+- ХӀаж
+- Қажылық
+- Ҳаҷ
+- հաջ
+- האדזש
+- חג'
+- الحج
+- حج
+- حَج
+- حەج
+- لحج
+- ޙައްޖު
+- ߡߊ߬ߓߊߕߏ
+- हज
+- হজ্জ
+- ਹੱਜ
+- હજ
+- ହଜ
+- ஹஜ்
+- హజ్
+- ಹಜ್
+- ഹജ്ജ്
+- හජ්ජි
+- ฮัจญ์
+- ჰაჯი
+- Ḥajj
+- ハッジ
+- 伊斯蘭教朝聖
+- 朝觐
+- 朝觐 (伊斯兰教)
+- ꠢꠎ
+- 하즈
 has_id_wikidata: Q234915
 Commons_category: Hajj
 DPLA_subject_term: Hajj
 Library_of_Congress_Classification:
-  - KBP181
-  - KBP184.7
-  - KBP184.7-KBP184.73
-  - KBP184.72
-  - KBP184.73.A-KBP184.73.Z
-  - BP181
+- KBP181
+- KBP184.7
+- KBP184.7-KBP184.73
+- KBP184.72
+- KBP184.73.A-KBP184.73.Z
+- BP181
 Gujarati_Vishwakosh_entry: હજ
-part_of: "[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]"
+part_of: '[[_Standards/WikiData/WD~Five_Pillars_of_Islam,176770]]'
 significant_place:
-  - "[[_Standards/WikiData/WD~Mount_Arafat,216894]]"
-  - "[[_Standards/WikiData/WD~Mina,753276]]"
-  - "[[_Standards/WikiData/WD~Muzdalifah_Valley,1788735]]"
-  - "[[_Standards/WikiData/WD~Kaaba,29466]]"
+- '[[_Standards/WikiData/WD~Mount_Arafat,216894]]'
+- '[[_Standards/WikiData/WD~Mina,753276]]'
+- '[[_Standards/WikiData/WD~Muzdalifah_Valley,1788735]]'
+- '[[_Standards/WikiData/WD~Kaaba,29466]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Fard,844614]]"
-  - "[[_Standards/WikiData/WD~pilgrimage,1644573]]"
-has_effect: "[[_Standards/WikiData/WD~Hajji,1066124]]"
-has_part_s_: "[[_Standards/WikiData/WD~Types_of_Hajj,12183653]]"
-organizer: "[[_Standards/WikiData/WD~Ministry_of_Hajj_and_Umrah_(Saudi_Arabia),12250954]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Hajj,18206448]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-country: "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-destination_point: "[[_Standards/WikiData/WD~Mecca,5806]]"
-participant: "[[_Standards/WikiData/WD~Muslim,47740]]"
+- '[[_Standards/WikiData/WD~Fard,844614]]'
+- '[[_Standards/WikiData/WD~pilgrimage,1644573]]'
+has_effect: '[[_Standards/WikiData/WD~Hajji,1066124]]'
+has_part_s_: '[[_Standards/WikiData/WD~Types_of_Hajj,12183653]]'
+organizer: '[[_Standards/WikiData/WD~Ministry_of_Hajj_and_Umrah_(Saudi_Arabia),12250954]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Hajj,18206448]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+country: '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+destination_point: '[[_Standards/WikiData/WD~Mecca,5806]]'
+participant: '[[_Standards/WikiData/WD~Muslim,47740]]'
 IMDb_keyword: hajj
 GitHub_topic: hajj
 subreddit: hajj
@@ -52,8 +124,150 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Supplicating%20P
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/hajj
 Universal_Decimal_Classification: 28-57(532.2)
 Wolfram_Language_entity_code: Entity["Word", "hajj"]
+dv_has_:
+  name_:
+    ace: Haji
+    acm: الحج
+    af: Hadj
+    an: Al-Hach
+    ar: الحج
+    ary: لحج
+    as: হজ্জ
+    ast: Ḥajj
+    av: ХӀаж
+    az: Həcc
+    ba: Хаж
+    bcl: Hajj
+    be: Хадж
+    be-tarask: Хадж
+    bg: Хадж
+    bho: हज
+    bjn: Haji
+    bn: হজ্জ
+    brh: hajj
+    bs: Hadždž
+    ca: hajj
+    ce: Хьаьж
+    ckb: حەج
+    crh: Acılıq
+    crh-latn: Acılıq
+    cs: hadždž
+    cy: Hajj
+    da: Hajj
+    dag: Aʒi
+    de: Haddsch
+    de-ch: Haddsch
+    dv: ޙައްޖު
+    el: χατζ
+    en: Hajj
+    en-ca: Hajj
+    en-gb: hajj
+    eo: Haĝo
+    es: hajj
+    et: hadž
+    eu: Haj
+    fa: حج
+    fi: hadž
+    fr: hajj
+    ga: Hajj
+    gaa: Hajj
+    gl: Hajj
+    gpe: Hajj
+    gu: હજ
+    ha: Aikin Hajji
+    he: חג'
+    hi: हज
+    hr: Hadždž
+    hu: mekkai zarándoklat
+    hy: հաջ
+    ia: Hadj
+    id: haji
+    inh: Хьажол
+    io: Haj
+    is: Hadsjí
+    it: Hajj
+    ja: ハッジ
+    jv: Kaji
+    ka: ჰაჯი
+    kaa: Haj
+    kab: Lḥeǧǧ di tneslemt
+    kge: Haji
+    kk: Қажылық
+    kk-cyrl: Қажылық
+    kn: ಹಜ್
+    ko: 하즈
+    ks: حَج
+    ku: Hec
+    ky: Ажы
+    la: Hagga
+    lb: Haddsch
+    lbe: ХӀаж
+    lmo: Hajj
+    lt: Hadžas
+    lv: hādžs
+    mad: Hajji
+    mg: Fivahiniana masina (silamo)
+    min: Haji
+    mk: аџилак
+    ml: ഹജ്ജ്
+    mr: हज
+    ms: Haji
+    ms-arab: حج
+    nb: hajj
+    ne: हज
+    nl: hadj
+    nn: hadj
+    nqo: ߡߊ߬ߓߊߕߏ
+    nup: Hajj
+    oc: Hajj
+    or: ହଜ
+    os: Хадз
+    pa: ਹੱਜ
+    pcd: Hajj
+    pl: hadżdż
+    pnb: حج
+    ps: حج
+    pt: Hajj
+    pt-br: Hajj
+    ro: Hajj
+    ru: Хадж
+    rup: Hagi
+    sco: hajj
+    sd: حج
+    sh: Hadždž
+    si: හජ්ජි
+    sk: Hadždž
+    skr: حج
+    sl: hadž
+    so: Xaj
+    sq: Haxhxhi
+    sr: Hadžiluk
+    su: Haji
+    sv: hajj
+    sw: Hajj
+    syl: ꠢꠎ
+    ta: ஹஜ்
+    te: హజ్
+    tg: Ҳаҷ
+    th: ฮัจญ์
+    tk: Hajj
+    tl: Hajj
+    tok: kama sewi (nasin sewi Isilan)
+    tr: hac
+    tt: Хаҗ
+    tw: Hajj
+    uk: Хадж
+    ur: حج
+    uz: Haj
+    vi: Hajj
+    war: Hajj
+    wo: Haj
+    wuu: 朝觐 (伊斯兰教)
+    yi: האדזש
+    yo: Hájì
+    yue: 伊斯蘭教朝聖
+    zh: 朝觐
 ---
-
 # [[Hajj]] 
 
 #is_/same_as :: [[WD~Hajj,234915]] 

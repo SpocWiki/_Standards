@@ -1,48 +1,110 @@
 ---
-has_time_started: 1966-12-16 
+has_time_started: 1966-12-16
 aliases:
-  - ICCPR
-  - International Covenant on Civil and Political Rights
-  - ICCPR(International_Covenant_on_Civil_and_Political_Rights)
-  - ICCPR(International Covenant on Civil and Political Rights)
+- A polgári és politikai jogok nemzetközi egyezségokmánya
+- Aalmug- já poolitláid vuoigâdvuođáid kyeskee almossopâmuš
+- Alþjóðasamningur um borgaraleg og stjórnmálaleg réttindi
+- Convenzione internazionale sui diritti civili e politici
+- Công ước Quốc tế về các Quyền Dân sự và Chính trị
+- Eskubide zibil eta politikoen Nazioarteko Ituna
+- FN's konvention om borgerlige og politiske rettigheder
+- FN:s konvention om medborgerliga och politiska rättigheter
+- FNs konvensjon om sivile og politiske rettigheter
+- ICCPR
+- ICCPR(International Covenant on Civil and Political Rights)
+- ICCPR(International_Covenant_on_Civil_and_Political_Rights)
+- Internacia Pakto pri Civilaj kaj Politikaj Rajtoj
+- Internationaal verdrag inzake burgerrechten en politieke rechten
+- International Covenant on Civil and Political Rights
+- Internationaler Pakt über bürgerliche und politische Rechte
+- Kansalais- ja poliittisia oikeuksia koskeva yleissopimus
+- Kişisel ve Siyasal Haklar Uluslararası Sözleşmesi
+- Kodaniku- ja poliitiliste õiguste rahvusvaheline pakt
+- Kong-bîn kap Chèng-tī Koân-lī Kok-chè Kong-iok
+- Kovenan Internasional tentang Hak-Hak Sipil dan Politik
+- Makubaliano ya Kimataifa juu ya Haki za kiraia na kisiasa
+- Mednarodni pakt o državljanskih in političnih pravicah
+- Meerlaž- da poliittlaž vuõiggâdvuõđid kuõskki õõlmâs-suåppmõš
+- Mezinárodní pakt o občanských a politických právech
+- Međunarodni pakt o građanskim i političkim pravima
+- Międzynarodowy Pakt Praw Obywatelskich i Politycznych
+- Mülki və Siyasi Hüquqlar Haqqında Pakt
+- Pacte Internacional de Drets Civils i Polítics
+- Pacte international relatif aux droits civils et politiques
+- Pactio Internationalis de Iuribus Civilibus et Politicis
+- Pacto Internacional de Derechos Civiles y Políticos
+- Pacto Internacional dos Dereitos Civís e Políticos
+- Pacto Internacional dos Direitos Civis e Políticos
+- Pactu Internacional de Derechos Civiles y Políticos
+- Pactul internațional pentru drepturile civile și politice
+- Pakti Ndërkombëtar për të Drejtat Civile dhe Politike
+- Siviila- ja politihkalaš vuoigatvuođaid guoski oktasašsoahpamuš
+- Starptautiskais pakts par pilsoniskajām un politiskajām tiesībām
+- Yarjejeniyar Kasa da Kasa kan 'Yancin Dan Adam da Siyasa
+- Διεθνές Σύμφωνο για τα Ατομικά και Πολιτικά Δικαιώματα
+- Граждан һәм сәяси хокуклар турында халыкара пакт
+- Иргэний болон улс төрийн эрхийн тухай олон улсын пакт
+- Міжнародний пакт про громадянські та політичні права
+- Міжнародны пакт аб грамадзянскіх і палітычных правах
+- Међународни пакт о грађанским и политичким правима
+- Меѓународен пакт за граѓански и политички права
+- Международен пакт за гражданските и политическите права
+- Международный пакт о гражданских и политических правах
+- Քաղաքացիական և քաղաքական իրավունքների մասին միջազգային դաշնագիր
+- האמנה הבינלאומית לזכויות אזרחיות ופוליטיות
+- العهد الدولي الخاص بالحقوق المدنية والسياسية
+- میثاق بینالمللی حقوق مدنی و سیاسی
+- नागरिक और राजनीतिक अधिकारों पर अंतर्राष्ट्रीय संधि
+- নাগরিক ও রাজনৈতিক অধিকার বিষয়ক আন্তর্জাতিক চুক্তি
+- அனைத்துலக குடிசார் மற்றும் அரசியல் உரிமைகள் உடன்படிக்கை
+- กติการะหว่างประเทศว่าด้วยสิทธิพลเมืองและสิทธิทางการเมือง
+- სამოქალაქო და პოლიტიკურ უფლებათა პაქტი
+- 公民搭政治权利国际公约
+- 公民权利及政治权利国际公约
+- 公民权利和政治权利国际公约
+- 公民權利及政治權利國際公約
+- 公民權利和政治權利國際公約
+- 公民與政治權利國際公約
+- 市民的及び政治的権利に関する国際規約
+- 시민적 및 정치적 권리에 관한 국제규약
 has_id_wikidata: Q392119
 depositary: '[[_Standards/WikiData/WD~United_Nations_Secretary_General,81066]]'
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~member_states_of_the_United_Nations,160016]]'
 different_from:
-  - '[[_Standards/WikiData/WD~United_Nations_Human_Rights_Committee,770764]]'
-  - '[[_Standards/WikiData/WD~United_Nations_Document_A_RES_2200(XXI),19022908]]'
+- '[[_Standards/WikiData/WD~United_Nations_Human_Rights_Committee,770764]]'
+- '[[_Standards/WikiData/WD~United_Nations_Document_A_RES_2200(XXI),19022908]]'
 part_of:
-  - '[[_Standards/WikiData/WD~international_human_rights_law,1147615]]'
-  - '[[_Standards/WikiData/WD~International_Bill_of_Human_Rights,1328552]]'
-  - '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472]]'
-  - '[[_Standards/WikiData/WD~Q3820803,3820803]]'
-  - '[[_Standards/WikiData/WD~international_law,4394526]]'
-  - '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_2200_A,108882167]]'
+- '[[_Standards/WikiData/WD~international_human_rights_law,1147615]]'
+- '[[_Standards/WikiData/WD~International_Bill_of_Human_Rights,1328552]]'
+- '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472]]'
+- '[[_Standards/WikiData/WD~Q3820803,3820803]]'
+- '[[_Standards/WikiData/WD~international_law,4394526]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly_Resolution_2200_A,108882167]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472]]'
-  - '[[_Standards/WikiData/WD~United_Nations_treaty,1691434]]'
-  - '[[_Standards/WikiData/WD~core_international_human_rights_instrument,79700418]]'
+- '[[_Standards/WikiData/WD~international_human_rights_instrument,1414472]]'
+- '[[_Standards/WikiData/WD~United_Nations_treaty,1691434]]'
+- '[[_Standards/WikiData/WD~core_international_human_rights_instrument,79700418]]'
 main_subject:
-  - '[[_Standards/WikiData/WD~political_rights,3709056]]'
-  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~political_rights,3709056]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-  - '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~article_9_of_the_International_Covenant_on_Civil_and_Political_Rights,80087753]]'
-  - '[[_Standards/WikiData/WD~article_27_of_the_International_Covenant_on_Civil_and_Political_Rights,112580687]]'
+- '[[_Standards/WikiData/WD~article_9_of_the_International_Covenant_on_Civil_and_Political_Rights,80087753]]'
+- '[[_Standards/WikiData/WD~article_27_of_the_International_Covenant_on_Civil_and_Political_Rights,112580687]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Q128895412,128895412]]'
-  - '[[_Standards/WikiData/WD~Q128904202,128904202]]'
+- '[[_Standards/WikiData/WD~Q128895412,128895412]]'
+- '[[_Standards/WikiData/WD~Q128904202,128904202]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~Czech,9056]]'
 locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
 United_Nations_Treaty_Series_registration_number: 14668
 work_available_at_URL:
-  - https://www.regeringen.se/4a9fab/globalassets/regeringen/bilder/kulturdepartementet/demokrati-och-mr/mr-sidorna/fns-konventioner-om-manskliga-rattigheter.pdf
-  - http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
-  - http://www.un.org/ga/search/viewm_doc.asp?symbol=A/RES/2200(XXI)
-  - http://www.ohchr.org/EN/ProfessionalInterest/Pages/CCPR.aspx
-  - https://www.ohchr.org/ru/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights
+- https://www.regeringen.se/4a9fab/globalassets/regeringen/bilder/kulturdepartementet/demokrati-och-mr/mr-sidorna/fns-konventioner-om-manskliga-rattigheter.pdf
+- http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx
+- http://www.un.org/ga/search/viewm_doc.asp?symbol=A/RES/2200(XXI)
+- http://www.ohchr.org/EN/ProfessionalInterest/Pages/CCPR.aspx
+- https://www.ohchr.org/ru/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights
 publication_date: 1967-01-01T00:00:00Z
 point_in_time: 1966-12-16T00:00:00Z
 inception: 1966-12-16T00:00:00Z
@@ -52,15 +114,86 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ICCPR-members2.PNG
 described_at_URL: https://treaties.un.org/Pages/showDetails.aspx?objid=0800000280004bf5&clang=_en
 PKULaw_CLI_Code: CLI.T.4582
 title:
-  - العهد الدولي الخاص بالحقوق المدنية والسياسية
-  - International Covenant on Civil and Political Rights
-  - Pacto Internacional de Derechos Civiles y Políticos
-  - Pacte international relatif aux droits civils et politiques
-  - 市民的及び政治的権利に関する国際規約
-  - Международный пакт о гражданских и политических правах
-  - Internationell konvention om medborgerliga och politiska rättigheter
+- العهد الدولي الخاص بالحقوق المدنية والسياسية
+- International Covenant on Civil and Political Rights
+- Pacto Internacional de Derechos Civiles y Políticos
+- Pacte international relatif aux droits civils et politiques
+- 市民的及び政治的権利に関する国際規約
+- Международный пакт о гражданских и политических правах
+- Internationell konvention om medborgerliga och politiska rättigheter
+dv_has_:
+  name_:
+    ar: العهد الدولي الخاص بالحقوق المدنية والسياسية
+    ast: Pactu Internacional de Derechos Civiles y Políticos
+    az: Mülki və Siyasi Hüquqlar Haqqında Pakt
+    be: Міжнародны пакт аб грамадзянскіх і палітычных правах
+    be-tarask: Міжнародны пакт аб грамадзянскіх і палітычных правах
+    bg: Международен пакт за гражданските и политическите права
+    bn: নাগরিক ও রাজনৈতিক অধিকার বিষয়ক আন্তর্জাতিক চুক্তি
+    ca: Pacte Internacional de Drets Civils i Polítics
+    cs: Mezinárodní pakt o občanských a politických právech
+    da: FN's konvention om borgerlige og politiske rettigheder
+    de: Internationaler Pakt über bürgerliche und politische Rechte
+    el: Διεθνές Σύμφωνο για τα Ατομικά και Πολιτικά Δικαιώματα
+    en: International Covenant on Civil and Political Rights
+    eo: Internacia Pakto pri Civilaj kaj Politikaj Rajtoj
+    es: Pacto Internacional de Derechos Civiles y Políticos
+    et: Kodaniku- ja poliitiliste õiguste rahvusvaheline pakt
+    eu: Eskubide zibil eta politikoen Nazioarteko Ituna
+    fa: میثاق بینالمللی حقوق مدنی و سیاسی
+    fi: Kansalais- ja poliittisia oikeuksia koskeva yleissopimus
+    fr: Pacte international relatif aux droits civils et politiques
+    gl: Pacto Internacional dos Dereitos Civís e Políticos
+    ha: Yarjejeniyar Kasa da Kasa kan 'Yancin Dan Adam da Siyasa
+    he: האמנה הבינלאומית לזכויות אזרחיות ופוליטיות
+    hi: नागरिक और राजनीतिक अधिकारों पर अंतर्राष्ट्रीय संधि
+    hr: Međunarodni pakt o građanskim i političkim pravima
+    hu: A polgári és politikai jogok nemzetközi egyezségokmánya
+    hy: Քաղաքացիական և քաղաքական իրավունքների մասին միջազգային դաշնագիր
+    id: Kovenan Internasional tentang Hak-Hak Sipil dan Politik
+    is: Alþjóðasamningur um borgaraleg og stjórnmálaleg réttindi
+    it: Convenzione internazionale sui diritti civili e politici
+    ja: 市民的及び政治的権利に関する国際規約
+    ka: სამოქალაქო და პოლიტიკურ უფლებათა პაქტი
+    ko: 시민적 및 정치적 권리에 관한 국제규약
+    la: Pactio Internationalis de Iuribus Civilibus et Politicis
+    lv: Starptautiskais pakts par pilsoniskajām un politiskajām tiesībām
+    mk: Меѓународен пакт за граѓански и политички права
+    mn: Иргэний болон улс төрийн эрхийн тухай олон улсын пакт
+    nan: Kong-bîn kap Chèng-tī Koân-lī Kok-chè Kong-iok
+    nb: FNs konvensjon om sivile og politiske rettigheter
+    nl: Internationaal verdrag inzake burgerrechten en politieke rechten
+    pl: Międzynarodowy Pakt Praw Obywatelskich i Politycznych
+    pt: Pacto Internacional dos Direitos Civis e Políticos
+    ro: Pactul internațional pentru drepturile civile și politice
+    ru: Международный пакт о гражданских и политических правах
+    se: Siviila- ja politihkalaš vuoigatvuođaid guoski oktasašsoahpamuš
+    sh: Međunarodni pakt o građanskim i političkim pravima
+    sl: Mednarodni pakt o državljanskih in političnih pravicah
+    smn: Aalmug- já poolitláid vuoigâdvuođáid kyeskee almossopâmuš
+    sms: Meerlaž- da poliittlaž vuõiggâdvuõđid kuõskki õõlmâs-suåppmõš
+    sq: Pakti Ndërkombëtar për të Drejtat Civile dhe Politike
+    sr: Међународни пакт о грађанским и политичким правима
+    sv: FN:s konvention om medborgerliga och politiska rättigheter
+    sw: Makubaliano ya Kimataifa juu ya Haki za kiraia na kisiasa
+    ta: அனைத்துலக குடிசார் மற்றும் அரசியல் உரிமைகள் உடன்படிக்கை
+    th: กติการะหว่างประเทศว่าด้วยสิทธิพลเมืองและสิทธิทางการเมือง
+    tr: Kişisel ve Siyasal Haklar Uluslararası Sözleşmesi
+    tt: Граждан һәм сәяси хокуклар турында халыкара пакт
+    uk: Міжнародний пакт про громадянські та політичні права
+    vi: Công ước Quốc tế về các Quyền Dân sự và Chính trị
+    wuu: 公民搭政治权利国际公约
+    yue: 公民權利和政治權利國際公約
+    zh: 公民权利及政治权利国际公约
+    zh-cn: 公民权利和政治权利国际公约
+    zh-hans: 公民权利及政治权利国际公约
+    zh-hant: 公民權利及政治權利國際公約
+    zh-hk: 公民權利及政治權利國際公約
+    zh-mo: 公民權利及政治權利國際公約
+    zh-my: 公民权利及政治权利国际公约
+    zh-sg: 公民权利及政治权利国际公约
+    zh-tw: 公民與政治權利國際公約
 ---
-
 # [[ICCPR(International_Covenant_on_Civil_and_Political_Rights)]] 
 
 #is_/same_as :: [[WD~International_Covenant_on_Civil_and_Political_Rights,392119]] 

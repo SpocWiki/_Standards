@@ -1,20 +1,134 @@
 ---
 aliases:
+- acide gras trans
+- Acidi grassi trans
+- aigéad tras-sailleach
+- aċidu xaħmi trans
+- Chất béo chuyển hóa
+- gordura trans
+- grăsimi trans
+- Lemak trans
+- Mafutamhiri
+- riebalų rūgščių transizomerai
+- Tabang trans
+- trans fat
+- trans gantz-azido
+- Trans mast
+- Trans tuky
+- Trans yağ
+- Trans yağlar
+- Trans-Fettsäuren
+- Trans-mast
+- trans-maščobna kislina
+- trans-taukskābe
+- Transfedtsyre
+- transfeitt
+- transfett
+- Transrasv
+- transrasva
+- transvet
+- Transyndyra
+- transz-zsírsav
+- Tùi-hoán-pêng lâ-sng
+- tłuszcz trans
+- Yogʻlarni gidrogenlash
+- àcid gras trans
+- Ácido graso trans
+- Τρανς λιπαρό οξύ
+- Транс маст
+- Транс-жиры
+- Транс-мазнина
+- транс-тлушч
+- трансжири
+- Трансмасти
+- Өсімдік майын гидрогендеу
+- חומצת שומן טראנס
+- دهن تقابلي
+- چربی ترانس
+- ट्रांस वसा संबंधी अम्ल
+- மாறுபக்க கொழுப்பு
+- ไขมันทรานส์
+- トランス脂肪酸
+- 反式脂肪
+- 트랜스 지방
 has_id_wikidata: Q243465
-found_in_taxon: "[[_Standards/WikiData/WD~ruminants,192164]]"
-subclass_of: "[[_Standards/WikiData/WD~unsaturated_fat,652555]]"
+found_in_taxon: '[[_Standards/WikiData/WD~ruminants,192164]]'
+subclass_of: '[[_Standards/WikiData/WD~unsaturated_fat,652555]]'
 part_of:
-  - "[[_Standards/WikiData/WD~shortening,1194601]]"
-  - "[[_Standards/WikiData/WD~oil_hydrogenation,98605802]]"
-opposite_of: "[[_Standards/WikiData/WD~cis_fat,11705516]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[_Standards/WikiData/WD~shortening,1194601]]'
+- '[[_Standards/WikiData/WD~oil_hydrogenation,98605802]]'
+opposite_of: '[[_Standards/WikiData/WD~cis_fat,11705516]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cis%20trans%20svg.svg
 UMLS_CUI: C1257879
 MeSH_tree_code: D10.251.355.920
 Library_of_Congress_Classification: QP752.T63
 Commons_category: Trans fatty acids
+dv_has_:
+  name_:
+    ar: دهن تقابلي
+    az: Trans yağlar
+    be-tarask: транс-тлушч
+    bg: Транс-мазнина
+    ca: àcid gras trans
+    cs: Trans tuky
+    da: Transfedtsyre
+    de: Trans-Fettsäuren
+    el: Τρανς λιπαρό οξύ
+    en: trans fat
+    es: Ácido graso trans
+    et: Transrasv
+    eu: trans gantz-azido
+    fa: چربی ترانس
+    fi: transrasva
+    fr: acide gras trans
+    ga: aigéad tras-sailleach
+    he: חומצת שומן טראנס
+    hi: ट्रांस वसा संबंधी अम्ल
+    hu: transz-zsírsav
+    id: Lemak trans
+    it: Acidi grassi trans
+    ja: トランス脂肪酸
+    kk: Өсімдік майын гидрогендеу
+    ko: 트랜스 지방
+    lt: riebalų rūgščių transizomerai
+    lv: trans-taukskābe
+    mk: Трансмасти
+    ms: Lemak trans
+    mt: aċidu xaħmi trans
+    nan: Tùi-hoán-pêng lâ-sng
+    nb: transfett
+    nl: transvet
+    nn: transfeitt
+    pl: tłuszcz trans
+    pt: gordura trans
+    ro: grăsimi trans
+    ru: Транс-жиры
+    rue: Трансмасти
+    sh: Trans-mast
+    sl: trans-maščobna kislina
+    sn: Mafutamhiri
+    sq: Transyndyra
+    sr: Trans mast
+    sr-ec: Транс маст
+    sr-el: Trans mast
+    sv: transfett
+    ta: மாறுபக்க கொழுப்பு
+    th: ไขมันทรานส์
+    tl: Tabang trans
+    tr: Trans yağ
+    uk: трансжири
+    uz: Yogʻlarni gidrogenlash
+    vi: Chất béo chuyển hóa
+    yue: 反式脂肪
+    zh: 反式脂肪
+    zh-cn: 反式脂肪
+    zh-hans: 反式脂肪
+    zh-hant: 反式脂肪
+    zh-hk: 反式脂肪
+    zh-sg: 反式脂肪
+    zh-tw: 反式脂肪
 ---
-
 # [[Trans_Fat]] 
 
 #is_/same_as :: [[WD~Trans_Fat,243465]] 

@@ -1,50 +1,352 @@
 ---
 aliases:
-  - Information
+- agahî
+- anformaçon
+- axborot
+- bayani
+- bilgi
+- chu-sìn
+- enformasyon
+- enfòmasyon
+- enhormación
+- faisnéis
+- gwybodaeth
+- impormasyon
+- impormasyun
+- infermaasje
+- informaatio
+- informace
+- informaceja
+- informacija
+- informacion
+- informació
+- información
+- informacja
+- informacyjŏ
+- informasi
+- informasijə
+- informasion
+- informasjon
+- informassion
+- informatie
+- informatio
+- Information
+- Informatioun
+- Informatjuun
+- Informatschoon
+- informatsioon
+- informazio
+- informazione
+- informação
+- informație
+- informo
+- informácia
+- információ
+- informācija
+- infuormacėjė
+- infurmazzioni
+- inligting
+- jaankari
+- kedhlow
+- kunning
+- lahabali
+- maklumat
+- malümat
+- mba'ekuaarã
+- málimleme
+- mäğlümat
+- məlumat
+- odeeffannoo
+- pakaammo
+- saenqsik
+- séng-sék
+- taarifa
+- tagħrif
+- thông tin
+- titour
+- uKwaziswa
+- ulwazi
+- upplýsingar
+- willa
+- xibaar
+- ynformaasje
+- ìfilò
+- πληροφορία
+- інфармацыя
+- інформація
+- ақпарат
+- ивортодэт
+- информаци
+- информација
+- информация
+- иттиолоот
+- контент
+- мэдээлэл
+- мэдээсэл
+- мәгълүмат
+- мәғлүмәт
+- увераҥар
+- տեղեկատվություն
+- אינפארמאציע
+- מידע
+- ئۇچۇر
+- اطلاعات
+- بیلگی
+- زانیاری
+- مالومات
+- معلومات
+- معلومة
+- معلومت
+- ߞߎ߲߬ߠߊ߬ߝߏߣߌ߲
+- जानकरी
+- जानकारि
+- जानकारी
+- माहिती
+- सूचना
+- তথ্য
+- ਜਾਣਕਾਰੀ
+- தகவல்
+- సమాచారం
+- ಮಾಹಿತಿ
+- ഇൻഫർമേഷൻ
+- සිංහල
+- สารสนเทศ
+- ສານສົນເທດ
+- သတင်းအချက်အလက်
+- ၶေႃႈၶၢဝ်ႇ
+- ინფორმაცია
+- 信息
+- 情報
+- 資訊
+- 资讯
+- ꯑꯀꯨꯞꯄ ꯋꯥꯔꯣꯜ
+- 정보
 has_id_wikidata: Q11028
 Commons_category: Information
 Commons_gallery: Information
 described_at_URL:
-  - http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277216/norma.htm
-  - http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
+- http://servicios.infoleg.gob.ar/infolegInternet/anexos/275000-279999/277216/norma.htm
+- http://servicios.infoleg.gob.ar/infolegInternet/anexos/240000-244999/242859/norma.htm
 described_by_source:
-  - '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 Dewey_Decimal_Classification:
-  - 020
-  - 306.42
-  - 621.3822
-  - 003.54
-  - 302.24
+- 020
+- 306.42
+- 621.3822
+- 003.54
+- 302.24
 different_from: '[[_Standards/WikiData/WD~Information,3150833]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~signal,174984]]'
-  - '[[_Standards/WikiData/WD~raw_data,2110223]]'
+- '[[_Standards/WikiData/WD~signal,174984]]'
+- '[[_Standards/WikiData/WD~raw_data,2110223]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~information_quality,3412851]]'
-  - '[[_Standards/WikiData/WD~information_form,21550682]]'
+- '[[_Standards/WikiData/WD~information_quality,3412851]]'
+- '[[_Standards/WikiData/WD~information_form,21550682]]'
 has_contributing_factor: '[[_Standards/WikiData/WD~accuracy_and_precision,272035]]'
 has_effect: '[[_Standards/WikiData/WD~knowledge,9081]]'
 IEV_number:
-  - 171-01-01
-  - 701-01-01
+- 171-01-01
+- 701-01-01
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20Universe.jpg
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/LSF%20Vocab%20informer.ogv
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Info%20Simple%20bw.svg
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Cognitive_science,11755993]]'
+- '[[_Standards/WikiData/WD~WikiProject_Computer_Science,6526225]]'
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]'
+- '[[_Standards/WikiData/WD~WikiProject_Cognitive_science,11755993]]'
 OmegaWiki_Defined_Meaning: 1935
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~information,71699827]]'
 studied_in: '[[_Standards/WikiData/WD~information_science,16387]]'
 subclass_of: '[[_Standards/WikiData/WD~abstract_entity,7048977]]'
 used_by:
-  - '[[_Standards/WikiData/WD~informetrics,355654]]'
-  - '[[_Standards/WikiData/WD~information_curation,65770360]]'
+- '[[_Standards/WikiData/WD~informetrics,355654]]'
+- '[[_Standards/WikiData/WD~information_curation,65770360]]'
+dv_has_:
+  name_:
+    aeb-arab: معلومة
+    af: inligting
+    an: información
+    ar: معلومة
+    arz: معلومات
+    as: তথ্য
+    ast: información
+    az: məlumat
+    azb: بیلگی
+    ba: мәғлүмәт
+    bar: Information
+    bcl: impormasyon
+    be: інфармацыя
+    be-tarask: інфармацыя
+    bg: информация
+    bho: जानकारी
+    bn: তথ্য
+    br: titour
+    bs: informacija
+    bxr: мэдээсэл
+    ca: informació
+    cdo: séng-sék
+    ce: информаци
+    ceb: impormasyon
+    ckb: زانیاری
+    crh: malümat
+    cs: informace
+    cv: информаци
+    cy: gwybodaeth
+    da: information
+    dag: lahabali
+    de: Information
+    diq: enformasyon
+    dty: जानकारि
+    el: πληροφορία
+    en: information
+    en-gb: information
+    eo: informo
+    es: información
+    et: informatsioon
+    eu: informazio
+    ext: enhormación
+    fa: اطلاعات
+    fi: informaatio
+    fo: kunning
+    fr: information
+    frr: Informatjuun
+    fy: ynformaasje
+    ga: faisnéis
+    gl: información
+    glk: اطلاعات
+    gn: mba'ekuaarã
+    gsw: Information
+    ha: bayani
+    he: מידע
+    hi: सूचना
+    hif: jaankari
+    hr: informacija
+    hsb: informacija
+    ht: enfòmasyon
+    hu: információ
+    hy: տեղեկատվություն
+    ia: information
+    id: informasi
+    ilo: pakaammo
+    io: informo
+    is: upplýsingar
+    it: informazione
+    ja: 情報
+    jv: informasi
+    ka: ინფორმაცია
+    kaa: málimleme
+    kk: ақпарат
+    kn: ಮಾಹಿತಿ
+    ko: 정보
+    krc: информация
+    ku: agahî
+    ku-latn: agahî
+    kw: kedhlow
+    ky: информация
+    la: informatio
+    lb: Informatioun
+    li: infermaasje
+    lo: ສານສົນເທດ
+    lt: informacija
+    ltg: informaceja
+    lv: informācija
+    mad: Informasi
+    mag: सूचना
+    mai: सूचना
+    mhr: увераҥар
+    min: informasi
+    mk: информација
+    ml: ഇൻഫർമേഷൻ
+    mn: мэдээлэл
+    mni: ꯑꯀꯨꯞꯄ ꯋꯥꯔꯣꯜ
+    mr: माहिती
+    ms: maklumat
+    ms-arab: معلومت
+    mt: tagħrif
+    mwl: anformaçon
+    my: သတင်းအချက်အလက်
+    nan: chu-sìn
+    nb: informasjon
+    nds: Informatschoon
+    ne: सूचना
+    new: जानकरी
+    nl: informatie
+    nn: informasjon
+    nqo: ߞߎ߲߬ߠߊ߬ߝߏߣߌ߲
+    oc: informacion
+    om: odeeffannoo
+    os: информаци
+    pa: ਜਾਣਕਾਰੀ
+    pam: impormasyun
+    pl: informacja
+    pms: informassion
+    pnb: اطلاعات
+    ps: مالومات
+    pt: informação
+    pt-br: informação
+    qu: willa
+    ro: informație
+    ru: информация
+    rue: інформація
+    sa: सूचना
+    sah: информация
+    scn: infurmazzioni
+    sco: information
+    sd: معلومات
+    sgs: infuormacėjė
+    sh: informacija
+    shn: ၶေႃႈၶၢဝ်ႇ
+    si: සිංහල
+    sk: informácia
+    sl: informacija
+    sq: informacion
+    sr: информација
+    sr-ec: информација
+    sr-el: informacija
+    su: informasi
+    sv: information
+    sw: taarifa
+    szl: informacyjŏ
+    ta: தகவல்
+    te: సమాచారం
+    tg: иттиолоот
+    tg-cyrl: контент
+    th: สารสนเทศ
+    tl: impormasyon
+    tly: informasijə
+    tr: bilgi
+    tt: мәгълүмат
+    tt-cyrl: мәгълүмат
+    tt-latn: mäğlümat
+    udm: ивортодэт
+    ug: ئۇچۇر
+    uk: інформація
+    ur: اطلاعات
+    uz: axborot
+    vec: informasion
+    vi: thông tin
+    war: impormasyon
+    wo: xibaar
+    wuu: 信息
+    xh: ulwazi
+    xmf: ინფორმაცია
+    yi: אינפארמאציע
+    yo: ìfilò
+    yue: 資訊
+    za: saenqsik
+    zh: 資訊
+    zh-cn: 信息
+    zh-hans: 信息
+    zh-hant: 資訊
+    zh-hk: 資訊
+    zh-mo: 資訊
+    zh-my: 资讯
+    zh-sg: 信息
+    zh-tw: 資訊
+    zu: uKwaziswa
 ---
-
 # [[Information]] 
 
 

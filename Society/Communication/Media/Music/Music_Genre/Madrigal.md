@@ -1,29 +1,107 @@
 ---
 aliases:
+- madragal
+- madrigaal
+- madrigaali
+- madrigal
+- Madrigalas
+- madrigale
+- Madrigalis
+- madrigalo
+- madrigál
+- Madriqal
+- madrygał
+- μαδριγάλι
+- мадригал
+- Мадрыгал
+- Մադրիգալ
+- מדריגל
+- مادريجال
+- مادریگال
+- მადრიგალი
+- マドリガーレ
+- 牧歌
+- 마드리갈
 has_id_wikidata: Q193217
 subclass_of:
-  - "[[_Standards/WikiData/WD~polyphony,179465]]"
-  - "[[_Standards/WikiData/WD~composed_musical_work,207628]]"
-  - "[[_Standards/WikiData/WD~music_of_Europe,3328676]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
+- '[[_Standards/WikiData/WD~polyphony,179465]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~song_form,1824109]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~song_form,1824109]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-follows: "[[_Standards/WikiData/WD~frottola,944800]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+follows: '[[_Standards/WikiData/WD~frottola,944800]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MADRIGAL.html
 Commons_category: Madrigals
-Dewey_Decimal_Classification: "782.43"
+Dewey_Decimal_Classification: 782.43
+dv_has_:
+  name_:
+    ar: مادريجال
+    az: Madriqal
+    be: Мадрыгал
+    be-tarask: мадрыгал
+    bg: Мадригал
+    ca: madrigal
+    cs: madrigal
+    da: Madrigal
+    de: Madrigal
+    el: μαδριγάλι
+    en: madrigal
+    eo: madrigalo
+    es: madrigal
+    et: Madrigal
+    eu: madrigal
+    fa: مادریگال
+    fi: madrigaali
+    fr: madrigal
+    ga: madragal
+    gl: Madrigal
+    he: מדריגל
+    hr: Madrigal
+    hu: madrigál
+    hy: Մադրիգալ
+    id: Madrigal
+    io: Madrigalo
+    it: madrigale
+    ja: マドリガーレ
+    ka: მადრიგალი
+    kk: Мадригал
+    ko: 마드리갈
+    ky: Мадригал
+    la: Madrigalis
+    lt: Madrigalas
+    mk: мадригал
+    nb: madrigal
+    nl: madrigaal
+    nn: madrigal
+    oc: madrigal
+    pl: madrygał
+    pt: madrigal
+    ro: Madrigal
+    ru: мадригал
+    sh: Madrigal
+    sk: Madrigal
+    sl: madrigal
+    sr: Madrigal
+    sv: madrigal
+    tr: madrigal
+    uk: Мадригал
+    uz: Madrigal
+    vi: madrigal
+    yue: 牧歌
+    zh: 牧歌
+    zh-tw: 牧歌
 ---
-
 # [[Madrigal]] 
 
 #is_/same_as :: [[WD~Madrigal,193217]] 

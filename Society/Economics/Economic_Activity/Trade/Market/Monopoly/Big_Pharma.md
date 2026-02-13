@@ -1,27 +1,85 @@
 ---
 aliases:
-  - Pharmaceutical industry
-  - Pharmaceutical_industry
-  - Big Pharma
-  - Big_Pharma
+- Big Pharma
+- Big_Pharma
+- botika-industria
+- công nghiệp dược phẩm
+- Diwydiant fferyllol
+- dálkkasindustriija
+- farmaceutický průmysl
+- farmaceutische industrie
+- Farmaceutska industrija
+- farmacevtska industrija
+- farmacia industrio
+- Farmacijos pramonė
+- farmasøytisk industri
+- farmācijas industrija
+- gyógyszeripar
+- Heilivágsídnaður
+- ilaç endüstrisi
+- Industri farmaseutikal
+- industria farmaceutica
+- Industria farmaceutică
+- Industria farmaceutike
+- industria farmacéutica
+- industrie pharmaceutique
+- indústria farmacèutica
+- indústria farmacêutica
+- läkemedelsbolag
+- lääketeollisuus
+- lægemiddelindustri
+- Perusahaan farmasi
+- Pharmaceutical industry
+- Pharmaceutical_industry
+- Pharmaindustrie
+- przemysł farmaceutyczny
+- ravimifirma
+- taalkâsindustria
+- talhâsráhtulâšvuotâ
+- φαρμακευτική βιομηχανία
+- фармацевтическая промышленность
+- Фармацевтична индустрия
+- фармацевтична промисловість
+- фармацевтска индустрија
+- фармацеутска индустрија
+- фармацэўтычная прамысловасць
+- фармацэўтычная прамысловасьць
+- դեղամիջոցների արտադրություն
+- תעשיית התרופות
+- دوا ساز صنعت
+- دواسازی
+- صناعة الدوا
+- صناعة الدواء
+- صنایع داروسازی
+- औषध उद्योग
+- औषधनिर्माण उद्योग
+- ঔষধনির্মাণ শিল্প
+- ఔషధ తయారీ సంస్థలు
+- เภสัชอุตสาหกรรม
+- ဆေးဝါးလုပ်ငန်း
+- 制药产业
+- 医薬品製造業
+- 製藥產業
+- 醫藥產業
+- 제약산업
 has_id_wikidata: Q507443
 instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~pharmaceuticals_wholesales,1781782]]'
-  - '[[_Standards/WikiData/WD~clinical_research,5133849]]'
-  - '[[_Standards/WikiData/WD~pharmaceutical_company,19644607]]'
+- '[[_Standards/WikiData/WD~pharmaceuticals_wholesales,1781782]]'
+- '[[_Standards/WikiData/WD~clinical_research,5133849]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_company,19644607]]'
 has_list:
-  - '[[_Standards/WikiData/WD~list_of_pharmaceutical_companies,2087302]]'
-  - '[[_Standards/WikiData/WD~list_of_pharmaceutical_manufacturers_in_the_United_Kingdom,6633340]]'
-  - '[[_Standards/WikiData/WD~list_of_pharmaceutical_laboratories_by_year_of_foundation,55619472]]'
+- '[[_Standards/WikiData/WD~list_of_pharmaceutical_companies,2087302]]'
+- '[[_Standards/WikiData/WD~list_of_pharmaceutical_manufacturers_in_the_United_Kingdom,6633340]]'
+- '[[_Standards/WikiData/WD~list_of_pharmaceutical_laboratories_by_year_of_foundation,55619472]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~drug_development,2198549]]'
-  - '[[_Standards/WikiData/WD~pharmaceutical_marketing,5254772]]'
-  - '[[_Standards/WikiData/WD~pharmaceutical_manufacturing,7180757]]'
-  - '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763]]'
+- '[[_Standards/WikiData/WD~drug_development,2198549]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_marketing,5254772]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_manufacturing,7180757]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_product,28885102]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
 different_from: '[[_Standards/WikiData/WD~manufacture_of_basic_pharmaceutical_products_and_pharmaceutical_preparations,29584274]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Big_Pharma,109017490]]'
 IAB_code: 109
@@ -34,8 +92,75 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/FARMAT
 Commons_category: Pharmaceutical industry
 Gujarati_Vishwakosh_entry: ઔષધનિર્માણ-ઉદ્યોગ
 Dewey_Decimal_Classification: 338.476151
+dv_has_:
+  name_:
+    ar: صناعة الدواء
+    arz: صناعة الدوا
+    be: фармацэўтычная прамысловасць
+    be-tarask: фармацэўтычная прамысловасьць
+    bg: Фармацевтична индустрия
+    bn: ঔষধনির্মাণ শিল্প
+    ca: indústria farmacèutica
+    cs: farmaceutický průmysl
+    cy: Diwydiant fferyllol
+    da: lægemiddelindustri
+    de: Pharmaindustrie
+    el: φαρμακευτική βιομηχανία
+    en: pharmaceutical industry
+    en-ca: Pharmaceutical industry
+    en-gb: pharmaceutical industry
+    eo: farmacia industrio
+    es: industria farmacéutica
+    et: ravimifirma
+    eu: botika-industria
+    fa: صنایع داروسازی
+    fi: lääketeollisuus
+    fo: Heilivágsídnaður
+    fr: industrie pharmaceutique
+    gl: industria farmacéutica
+    he: תעשיית התרופות
+    hi: औषध उद्योग
+    hu: gyógyszeripar
+    hy: դեղամիջոցների արտադրություն
+    id: Perusahaan farmasi
+    it: industria farmaceutica
+    ja: 医薬品製造業
+    ko: 제약산업
+    lt: Farmacijos pramonė
+    lv: farmācijas industrija
+    mk: фармацевтска индустрија
+    mr: औषधनिर्माण उद्योग
+    ms: Industri farmaseutikal
+    my: ဆေးဝါးလုပ်ငန်း
+    nb: farmasøytisk industri
+    nl: farmaceutische industrie
+    nn: farmasøytisk industri
+    pl: przemysł farmaceutyczny
+    pt: indústria farmacêutica
+    pt-br: Indústria farmacêutica
+    ro: Industria farmaceutică
+    ru: фармацевтическая промышленность
+    sd: دوا ساز صنعت
+    se: dálkkasindustriija
+    sh: farmaceutska industrija
+    sl: farmacevtska industrija
+    smn: talhâsráhtulâšvuotâ
+    sms: taalkâsindustria
+    sq: Industria farmaceutike
+    sr: фармацеутска индустрија
+    sr-ec: Фармацеутска индустрија
+    sr-el: Farmaceutska industrija
+    sv: läkemedelsbolag
+    te: ఔషధ తయారీ సంస్థలు
+    th: เภสัชอุตสาหกรรม
+    tr: ilaç endüstrisi
+    uk: фармацевтична промисловість
+    ur: دواسازی
+    vi: công nghiệp dược phẩm
+    zh: 醫藥產業
+    zh-hans: 制药产业
+    zh-hant: 製藥產業
 ---
-
 # [[Big_Pharma]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~pharmaceutical_industry,507443]] 

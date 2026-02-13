@@ -1,37 +1,79 @@
 ---
 aliases:
-  - John_Milton
-  - John Milton
-  - Milton,John
+- Baruch Spinoza
+- Con Milton
+- Džonas Miltonas
+- Džons Miltons
+- Ioannes Miltonus
+- John Milton
+- John_Milton
+- Milton Jon
+- Milton,John
+- Τζον Μίλτον
+- Џон Милтон
+- Джон Мілтан
+- Джон Мілтон
+- Джон Мільтан
+- Джон Милтън
+- Джон Мильтон
+- Жон Милтон
+- Ҷон Милтун
+- Ջոն Միլթոն
+- ג'ון מילטון
+- جان ملٹن
+- جان ملٽن
+- جان مِلٹَن
+- جان میلتون
+- جان مېلټن
+- جون ملتون
+- جون ميلتون
+- جۆن میلتۆن
+- जॉन मिल्टन
+- जोन मिल्टन
+- জন মিলটন
+- জন মিল্টন
+- ਜੌਨ ਮਿਲਟਨ
+- જોન મિલ્ટન
+- ஜான் மில்டன்
+- ಜಾನ್ ಮಿಲ್ಟನ್
+- ജോൺ മിൽട്ടൺ
+- จอห์น มิลตัน
+- မီလတန်၊ ဂျွန်
+- ჯონ მილტონი
+- ジョン・ミルトン
+- 米頓
+- 约翰·弥尔顿
+- 莊·美頓
+- 존 밀턴
 has_id_wikidata: Q79759
 place_of_death: "[[_Standards/WikiData/WD~St_Luke's,124252]]"
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 cause_of_death: '[[_Standards/WikiData/WD~kidney_failure,476921]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Lives_of_the_Most_Eminent_English_Poets,4015014]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Lives_of_the_Most_Eminent_English_Poets,4015014]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Areopagitica,642635]]'
-  - '[[_Standards/WikiData/WD~Paradise_Lost,28754]]'
+- '[[_Standards/WikiData/WD~Areopagitica,642635]]'
+- '[[_Standards/WikiData/WD~Paradise_Lost,28754]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Christ's_College,714717]]"
-  - '[[_Standards/WikiData/WD~Jesus_College,1146700]]'
-  - "[[_Standards/WikiData/WD~St_Paul's_School,1227526]]"
+- "[[_Standards/WikiData/WD~Christ's_College,714717]]"
+- '[[_Standards/WikiData/WD~Jesus_College,1146700]]'
+- "[[_Standards/WikiData/WD~St_Paul's_School,1227526]]"
 place_of_birth: '[[_Standards/WikiData/WD~Cheapside,1068693]]'
 residence: '[[_Standards/WikiData/WD~Chalfont_St_Giles,1170470]]'
 place_of_burial: '[[_Standards/WikiData/WD~St_Giles_without_Cripplegate,2323930]]'
@@ -41,44 +83,44 @@ given_name: '[[_Standards/WikiData/WD~John,4925477]]'
 significant_person: '[[_Standards/WikiData/WD~Edward_Phillips,5344849]]'
 relative: '[[_Standards/WikiData/WD~Edward_Phillips,5344849]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]'
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Greek,9129]]'
-  - '[[_Standards/WikiData/WD~Hebrew,9288]]'
-  - '[[_Standards/WikiData/WD~Aramaic,28602]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~Syriac,33538]]'
+- '[[_Standards/WikiData/WD~Early_Modern_Spanish,5364419]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Greek,9129]]'
+- '[[_Standards/WikiData/WD~Hebrew,9288]]'
+- '[[_Standards/WikiData/WD~Aramaic,28602]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Syriac,33538]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison_Libraries,33122195]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison_Libraries,33122195]]'
 field_of_work: '[[_Standards/WikiData/WD~fiction,8253972]]'
 family_name: '[[_Standards/WikiData/WD~Milton,16877153]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Christopher_Milton,18730102]]'
-  - '[[_Standards/WikiData/WD~Anne_Milton,96089253]]'
+- '[[_Standards/WikiData/WD~Christopher_Milton,18730102]]'
+- '[[_Standards/WikiData/WD~Anne_Milton,96089253]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Mary_Powell,22260184]]'
-  - '[[_Standards/WikiData/WD~Katherine_Woodcock,22998113]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Minshull,22998138]]'
+- '[[_Standards/WikiData/WD~Mary_Powell,22260184]]'
+- '[[_Standards/WikiData/WD~Katherine_Woodcock,22998113]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Minshull,22998138]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~John_Milton,28043565]]'
-  - '[[_Standards/WikiData/WD~John_Milton_(1608_1674),118986342]]'
+- '[[_Standards/WikiData/WD~John_Milton,28043565]]'
+- '[[_Standards/WikiData/WD~John_Milton_(1608_1674),118986342]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 mother: '[[_Standards/WikiData/WD~Sara_Jeffrey,96089257]]'
 child:
-  - '[[_Standards/WikiData/WD~Anne_Milton,96089262]]'
-  - '[[_Standards/WikiData/WD~Deborah_Milton,96089267]]'
-  - '[[_Standards/WikiData/WD~Mary_Milton,96089264]]'
-  - '[[_Standards/WikiData/WD~John_Milton,96089265]]'
-  - '[[_Standards/WikiData/WD~Katherine_Milton,96089269]]'
+- '[[_Standards/WikiData/WD~Anne_Milton,96089262]]'
+- '[[_Standards/WikiData/WD~Deborah_Milton,96089267]]'
+- '[[_Standards/WikiData/WD~Mary_Milton,96089264]]'
+- '[[_Standards/WikiData/WD~John_Milton,96089265]]'
+- '[[_Standards/WikiData/WD~Katherine_Milton,96089269]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 date_of_birth: 1608-12-09T00:00:00Z
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -101,8 +143,151 @@ date_of_death: 1674-11-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/John-milton.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Milton%20signature.svg
 ISNI: 0000000120993562
+dv_has_:
+  name_:
+    af: John Milton
+    an: John Milton
+    ang: John Milton
+    ar: جون ميلتون
+    arz: جون ملتون
+    as: জন মিল্টন
+    ast: John Milton
+    az: Con Milton
+    azb: جان میلتون
+    ba: Джон Мильтон
+    bar: John Milton
+    be: Джон Мільтан
+    be-tarask: Джон Мілтан
+    bg: Джон Милтън
+    bho: जॉन मिल्टन
+    bn: জন মিলটন
+    br: John Milton
+    bs: John Milton
+    ca: John Milton
+    ckb: جۆن میلتۆن
+    co: John Milton
+    cs: John Milton
+    cv: Джон Мильтон
+    cy: John Milton
+    da: John Milton
+    de: John Milton
+    de-at: John Milton
+    de-ch: John Milton
+    diq: John Milton
+    el: Τζον Μίλτον
+    en: John Milton
+    en-ca: John Milton
+    en-gb: John Milton
+    eo: John Milton
+    es: John Milton
+    et: John Milton
+    eu: John Milton
+    fa: جان میلتون
+    fi: John Milton
+    fr: John Milton
+    frp: John Milton
+    frr: John Milton
+    fur: John Milton
+    fy: John Milton
+    ga: John Milton
+    gd: John Milton
+    gl: John Milton
+    gsw: John Milton
+    gu: જોન મિલ્ટન
+    guw: John Milton
+    he: ג'ון מילטון
+    hi: जॉन मिल्टन
+    hr: John Milton
+    hu: John Milton
+    hy: Ջոն Միլթոն
+    ia: John Milton
+    id: John Milton
+    ie: John Milton
+    io: John Milton
+    is: John Milton
+    it: John Milton
+    ja: ジョン・ミルトン
+    ka: ჯონ მილტონი
+    kg: John Milton
+    kk: Джон Мильтон
+    kn: ಜಾನ್ ಮಿಲ್ಟನ್
+    ko: 존 밀턴
+    ks: جان مِلٹَن
+    kw: John Milton
+    la: Ioannes Miltonus
+    lb: John Milton
+    li: Baruch Spinoza
+    lij: John Milton
+    lt: Džonas Miltonas
+    lv: Džons Miltons
+    mai: जोन मिल्टन
+    mg: John Milton
+    min: John Milton
+    mk: Џон Милтон
+    ml: ജോൺ മിൽട്ടൺ
+    mn: Жон Милтон
+    mr: जॉन मिल्टन
+    ms: John Milton
+    mul: John Milton
+    my: မီလတန်၊ ဂျွန်
+    mzn: جان میلتون
+    nap: John Milton
+    nb: John Milton
+    nds: John Milton
+    nds-nl: John Milton
+    ne: जोन मिल्टन
+    nl: John Milton
+    nn: John Milton
+    nrm: John Milton
+    nys: John Milton
+    oc: John Milton
+    pa: ਜੌਨ ਮਿਲਟਨ
+    pcd: John Milton
+    pl: John Milton
+    pms: John Milton
+    pnb: جان ملٹن
+    ps: جان مېلټن
+    pt: John Milton
+    pt-br: John Milton
+    qu: John Milton
+    rm: John Milton
+    ro: John Milton
+    ru: Джон Мильтон
+    sc: John Milton
+    scn: John Milton
+    sco: John Milton
+    sd: جان ملٽن
+    sh: John Milton
+    sk: John Milton
+    sl: John Milton
+    sq: John Milton
+    sr: Џон Милтон
+    sr-el: John Milton
+    sv: John Milton
+    sw: John Milton
+    ta: ஜான் மில்டன்
+    tg: Ҷон Милтун
+    th: จอห์น มิลตัน
+    tl: John Milton
+    tr: John Milton
+    uk: Джон Мілтон
+    ur: جان ملٹن
+    uz: Milton Jon
+    vec: John Milton
+    vi: John Milton
+    vls: John Milton
+    vo: John Milton
+    wa: John Milton
+    war: John Milton
+    wo: John Milton
+    wuu: 约翰·弥尔顿
+    xmf: ჯონ მილტონი
+    yo: John Milton
+    yue: 米頓
+    zh: 约翰·弥尔顿
+    zh-hk: 莊·美頓
+    zu: John Milton
 ---
-
 # [[Milton,John]] 
 
 #is_/same_as :: [[WD~John_Milton,79759]] 

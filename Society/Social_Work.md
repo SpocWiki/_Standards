@@ -1,21 +1,196 @@
 ---
 aliases:
+- asistență socială
+- Buhat pankatiringban
+- công tác xã hội
+- Gawaing panlipunan
+- Gizarte langintza
+- Gwaith cymdeithasol
+- Ijtimoiy ish
+- Karo sosyal
+- kerja sosial
+- lavoro sociale
+- lavoro sociałe
+- maatschappelijk werk
+- maatskaplike werk
+- mahi tauwhiro
+- Nëpunës i shërbimeve sociale
+- obair shóisialta
+- opera socialis
+- Pekerja sosial
+- praca socjalna
+- serviço social
+- social work
+- sociala laboro
+- socialinis darbas
+- socialno delo
+- socialt arbejde
+- socialt arbete
+- Socijalni rad
+- Socijalni radnik
+- sociálna práca
+- sociální práce
+- sociālais darbs
+- sosiaalityö
+- sosiaalpargo
+- sosiaaltuâjj
+- Sosial iş
+- sosialt arbeid
+- sosiálabargu
+- Sosyal Çalışma
+- sotsiaaltöö
+- Sozialaarbecht
+- soziale Arbeit
+- szociális munka
+- trabajo social
+- Traballo social
+- trabayu social
+- travail social
+- treball social
+- Treballo social
+- Umkhakha WezeHlalakuhle
+- κοινωνική εργασία
+- Нийгмийн ажил
+- сацыяльная работа
+- соціальна робота
+- социјална работа
+- социјални рад
+- Социалдык кызмат
+- Социаллă ĕç
+- Социални дейности
+- социальная работа
+- әлеуметтік жұмыс
+- սոցիալական աշխատանք
+- עבודה סוציאלית
+- ئاریکاریی کۆمەڵایەتی
+- خدمت خلق
+- عمل اجتماعي
+- مددکاری اجتماعی
+- समाजसेवा
+- समाजसेवी
+- सामाजिक कार्य
+- সমাজকর্ম
+- ਸਮਾਜਕ ਕੰਮ
+- சமூகப்பணி
+- സാമൂഹിക പ്രവർത്തനം
+- සමාජ සේවා
+- สังคมสงเคราะห์
+- လူမှုရေးရာ ပညာ
+- სოციალური სამუშაო
+- 社会工作
+- 社会福祉援助技術
+- 社會工作
+- 사회사업
 has_id_wikidata: Q205398
-studied_by: "[[_Standards/WikiData/WD~social_work_science,2305240]]"
+studied_by: '[[_Standards/WikiData/WD~social_work_science,2305240]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~streetworker,2355404]]"
-  - "[[_Standards/WikiData/WD~social_worker,7019111]]"
-subclass_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Social_work,19321065]]"
-instance_of: "[[_Standards/WikiData/WD~paramedical_speciality,30109942]]"
+- '[[_Standards/WikiData/WD~streetworker,2355404]]'
+- '[[_Standards/WikiData/WD~social_worker,7019111]]'
+subclass_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_work,19321065]]'
+instance_of: '[[_Standards/WikiData/WD~paramedical_speciality,30109942]]'
 subreddit: socialwork
 UMLS_CUI: C0037441
 MeSH_tree_code:
-  - I01.880.792
-  - N02.421.849
+- I01.880.792
+- N02.421.849
 Commons_category: Social work
+dv_has_:
+  name_:
+    af: maatskaplike werk
+    an: Treballo social
+    ar: عمل اجتماعي
+    ast: trabayu social
+    az: Sosial iş
+    be: сацыяльная работа
+    be-tarask: сацыяльная работа
+    bg: Социални дейности
+    bn: সমাজকর্ম
+    ca: treball social
+    ckb: ئاریکاریی کۆمەڵایەتی
+    cs: sociální práce
+    cv: Социаллă ĕç
+    cy: Gwaith cymdeithasol
+    da: socialt arbejde
+    de: soziale Arbeit
+    diq: Karo sosyal
+    el: κοινωνική εργασία
+    en: social work
+    en-gb: social work
+    eo: sociala laboro
+    es: trabajo social
+    et: sotsiaaltöö
+    eu: Gizarte langintza
+    fa: مددکاری اجتماعی
+    fi: sosiaalityö
+    fr: travail social
+    ga: obair shóisialta
+    gl: Traballo social
+    gu: social work
+    he: עבודה סוציאלית
+    hi: समाजसेवा
+    hr: Socijalni radnik
+    hu: szociális munka
+    hy: սոցիալական աշխատանք
+    id: kerja sosial
+    it: lavoro sociale
+    ja: 社会福祉援助技術
+    ka: სოციალური სამუშაო
+    kk: әлеуметтік жұмыс
+    ko: 사회사업
+    ky: Социалдык кызмат
+    la: opera socialis
+    lb: Sozialaarbecht
+    lt: socialinis darbas
+    lv: sociālais darbs
+    mi: mahi tauwhiro
+    mk: социјална работа
+    ml: സാമൂഹിക പ്രവർത്തനം
+    mn: Нийгмийн ажил
+    mr: सामाजिक कार्य
+    ms: Pekerja sosial
+    my: လူမှုရေးရာ ပညာ
+    nb: sosialt arbeid
+    ne: समाजसेवी
+    nl: maatschappelijk werk
+    nr: Umkhakha WezeHlalakuhle
+    pa: ਸਮਾਜਕ ਕੰਮ
+    pl: praca socjalna
+    pt: serviço social
+    ro: asistență socială
+    ru: социальная работа
+    se: sosiálabargu
+    sh: Socijalni rad
+    si: සමාජ සේවා
+    sk: sociálna práca
+    sl: socialno delo
+    smn: sosiaalpargo
+    sms: sosiaaltuâjj
+    sq: Nëpunës i shërbimeve sociale
+    sr: социјални рад
+    sr-ec: Социјални рад
+    sr-el: Socijalni rad
+    sv: socialt arbete
+    ta: சமூகப்பணி
+    th: สังคมสงเคราะห์
+    tl: Gawaing panlipunan
+    tr: Sosyal Çalışma
+    uk: соціальна робота
+    ur: خدمت خلق
+    uz: Ijtimoiy ish
+    vec: lavoro sociałe
+    vi: công tác xã hội
+    war: Buhat pankatiringban
+    wuu: 社会工作
+    yue: 社會工作
+    zh: 社會工作
+    zh-cn: 社会工作
+    zh-hans: 社会工作
+    zh-hant: 社會工作
+    zh-hk: 社會工作
+    zh-sg: 社会工作
+    zh-tw: 社會工作
 ---
-
 # [[Social_Work]] 
 
 #is_/same_as :: [[../WikiData/WD~Social_work,205398|WD~Social_work,205398]]  

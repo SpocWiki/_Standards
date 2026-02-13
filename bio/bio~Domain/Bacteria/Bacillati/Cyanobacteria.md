@@ -1,11 +1,180 @@
 ---
 aliases:
-  - blue-green algae
-  - Blaualge
-  - Cyanobacteria
+- Algat jeshile-blu
+- algă albastră-verde
+- Anqas añaki
+- Blaualge
+- blauwalgen
+- blue-green algae
+- Blágerlar
+- Blä algen
+- blågrønnbakterier
+- Cianabaictéir
+- cianobacteri
+- Cianobacterias
+- cianobakterije
+- cianobakterio
+- cianobaktériumok
+- Cyanobacteria
+- cyanobakteriar
+- Cyanobakterie
+- Cyanobakterien
+- Cyanobakterier
+- Cïanobakterïyalar
+- Göy-yaşıl yosunlar
+- Koʻk-yashil suvoʻtlar
+- melsvabakterės
+- Modrozelene bakterije
+- Nâ-sè-khún
+- Sianobakterie
+- Sianôbakteria
+- sinice
+- Siyanobakteri
+- Siyanobakteriya
+- syanobakteerit
+- Syanobakteri
+- tsüanobakterid
+- Vi khuẩn lam
+- Zianobakterio
+- Zilaļģes
+- čuovjisbaktereh
+- Κυανοβακτήρια
+- Көкжашыл балырлар
+- модрозелене бактерије
+- ціанобактерії
+- Цијанобактерии
+- цианобактерии
+- Цианобактериялар
+- цыанабактэрыі
+- Ցիանոբակտերիաներ
+- כחוליות
+- بكتيريا زرقاء
+- تسىيانوباكتەرىييالار
+- سائنوبئڪٽيريا
+- ساينوباکتريا (د باکتريا يو ډول دی چې شين اسماني رنګ لري)
+- سیانوباکتر
+- नील हरित शैवाल
+- সায়ানোব্যাকটেরিয়া
+- ਨੀਲ ਹਰੀ ਕਾਈ
+- நீலப்பச்சைப்பாசி
+- സയനോബാക്ടീരിയ
+- සයනොබැක්ටීරියා
+- สาหร่ายสีเขียวแกมน้ำเงิน
+- ლურჯ-მწვანე წყალმცენარეები
+- ሰማያዊ አረንጓዴአማ ዋቅላሚዎች
+- 蓝菌门
+- 藍菌門
+- 藍藻
+- 남조류
 title: Cyanobacteria
+has_id_wikidata: Q93315
+dv_has_:
+  name_:
+    af: Sianobakterie
+    am: ሰማያዊ አረንጓዴአማ ዋቅላሚዎች
+    an: Cyanobacteria
+    ar: بكتيريا زرقاء
+    arz: بكتيريا زرقاء
+    ast: Cyanobacteria
+    az: Göy-yaşıl yosunlar
+    be: цыанабактэрыі
+    bg: цианобактерии
+    bn: সায়ানোব্যাকটেরিয়া
+    bs: Cyanobacteria
+    ca: cianobacteri
+    ceb: Cyanobacteria
+    cs: sinice
+    da: Cyanobakterie
+    de: Cyanobakterien
+    el: Κυανοβακτήρια
+    en: Cyanobacteria
+    eo: cianobakterio
+    es: Cyanobacteria
+    et: tsüanobakterid
+    eu: Zianobakterio
+    ext: Cyanobacteria
+    fa: سیانوباکتر
+    fi: syanobakteerit
+    fr: Cyanobacteria
+    frr: Blä algen
+    ga: Cianabaictéir
+    gl: Cianobacterias
+    he: כחוליות
+    hi: नील हरित शैवाल
+    hr: Cyanobacteria
+    ht: Syanobakteri
+    hu: cianobaktériumok
+    hy: Ցիանոբակտերիաներ
+    ia: Cyanobacteria
+    id: Cyanobacteria
+    ie: Cyanobacteria
+    io: Cyanobacteria
+    is: Blágerlar
+    it: Cyanobacteria
+    ja: 藍藻
+    jv: Cyanobacteria
+    ka: ლურჯ-მწვანე წყალმცენარეები
+    kk: Цианобактериялар
+    kk-arab: تسىيانوباكتەرىييالار
+    kk-cn: تسىيانوباكتەرىييالار
+    kk-cyrl: Цианобактериялар
+    kk-kz: Цианобактериялар
+    kk-latn: Cïanobakterïyalar
+    kk-tr: Cïanobakterïyalar
+    ko: 남조류
+    ky: Көкжашыл балырлар
+    la: Cyanobacteria
+    lt: melsvabakterės
+    lv: Zilaļģes
+    mg: Sianôbakteria
+    mk: Цијанобактерии
+    ml: സയനോബാക്ടീരിയ
+    mul: Cyanobacteria
+    nan: Nâ-sè-khún
+    nb: blågrønnbakterier
+    nl: blauwalgen
+    nn: cyanobakteriar
+    oc: Cyanobacteria
+    pa: ਨੀਲ ਹਰੀ ਕਾਈ
+    pl: sinice
+    ps: ساينوباکتريا (د باکتريا يو ډول دی چې شين اسماني رنګ لري)
+    pt: Cyanobacteria
+    pt-br: Cyanobacteria
+    qu: Anqas añaki
+    ro: algă albastră-verde
+    ru: цианобактерии
+    sco: Cyanobacteria
+    sd: سائنوبئڪٽيريا
+    sh: Cyanobacteria
+    si: සයනොබැක්ටීරියා
+    sk: Sinice
+    sl: cianobakterije
+    smn: čuovjisbaktereh
+    so: Siyanobakteriya
+    sq: Algat jeshile-blu
+    sr: модрозелене бактерије
+    sr-ec: Модрозелене бактерије
+    sr-el: Modrozelene bakterije
+    sv: Cyanobakterier
+    ta: நீலப்பச்சைப்பாசி
+    th: สาหร่ายสีเขียวแกมน้ำเงิน
+    tl: Cyanobacteria
+    tr: Siyanobakteri
+    uk: ціанобактерії
+    uz: Koʻk-yashil suvoʻtlar
+    vi: Vi khuẩn lam
+    vo: Cyanobacteria
+    war: Cyanobacteria
+    wuu: 蓝菌门
+    yue: 藍菌門
+    zh: 藍菌門
+    zh-cn: 蓝菌门
+    zh-hans: 蓝菌门
+    zh-hant: 藍菌門
+    zh-hk: 藍菌門
+    zh-sg: 蓝菌门
+    zh-tw: 藍菌門
 ---
-
 # [[Cyanobacteria]] 
 
 #is_a/bio-Phylum  

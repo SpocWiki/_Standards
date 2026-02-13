@@ -1,35 +1,115 @@
 ---
-has_time_started: 1800-01-01 
-has_time_stopped: 1900-01-01 
+has_time_started: 1800-01-01
+has_time_stopped: 1900-01-01
 aliases:
-  - Romantik
-  - Romantic movement
-  - Romantic era
-  - 1800-Romanticism+1850
+- 1800-Romanticism+1850
+- chủ nghĩa lãng mạn
+- erromantizismo
+- Lōng-bān-chú-gī
+- motus romanticus
+- Py'aitegua reko
+- Rhamantiaeth
+- Romansieth
+- romantaigeachd
+- Romantelezh
+- Romantic era
+- Romantic movement
+- Romantica
+- Romanticism
+- Romanticisme
+- Romanticismo
+- romanticismu
+- Romantiek
+- romantiikka
+- Romantik
+- romantika
+- romantiken
+- romantikismo
+- romantikken
+- Romantis
+- Romantisisme
+- Romantisismo
+- romantism
+- romantisme
+- romantismo
+- romantisms
+- romantismus
+- Romantisse
+- romantizam
+- Romantizism
+- romantizm
+- romantizmas
+- Romantizmi
+- romantizmus
+- Romantizım
+- romantiċiżmu
+- Romantyk
+- romantyzm
+- Romantîzm
+- Rumanticismu
+- Ruomantisizim
+- rómantíkin
+- Rómánsachas
+- ρομαντισμός
+- рамантызм
+- романтізм
+- романтизам
+- Романтизем (литература)
+- Романтизм
+- Романтизм ағымы
+- Романтизъм
+- ռոմանտիզմ
+- Վիպապաշտութիւն
+- רומנטיציזם
+- الرومانسيه
+- رمانتیسم
+- رومانتیزم
+- رومانسية
+- رومانوی
+- رومانيت
+- رومانیت
+- رومٲنوی دور
+- ڕۆمانتیزم
+- स्वच्छन्दतावाद
+- स्वछंदतावाद
+- রোমান্টিকতা
+- ৰমন্যাসবাদ
+- ਰੋਮਾਂਸਵਾਦ
+- રોમેન્ટિસિઝમ
+- புனைவியம்
+- ರೊಮ್ಯಾಂಟಿಸಿಸಂ(ಭಾವಪ್ರಧಾನತೆ ತತ್ವ,ಸಿದ್ದಾಂತ)
+- കാല്പനികത
+- ศิลปะจินตนิยม
+- რომანტიზმი
+- ロマン主義
+- 浪漫主义
+- 浪漫主義
+- 낭만주의
+- 로만찌즘
 has_id_wikidata: Q37068
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-  - '[[_Standards/WikiData/WD~literary_movement,3326717]]'
-  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~literary_movement,3326717]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 followed_by: '[[_Standards/WikiData/WD~Post_romanticism,1125039]]'
 follows: '[[_Standards/WikiData/WD~Pre_romanticism,2614483]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~romantic_drama,3038946]]'
-  - '[[_Standards/WikiData/WD~Romantic_painting,3088366]]'
-  - '[[_Standards/WikiData/WD~Romantic_literature,5977111]]'
-  - '[[_Standards/WikiData/WD~Romantic_philosophy,12775412]]'
-  - '[[_Standards/WikiData/WD~French_Romanticism,27301872]]'
+- '[[_Standards/WikiData/WD~romantic_drama,3038946]]'
+- '[[_Standards/WikiData/WD~Romantic_painting,3088366]]'
+- '[[_Standards/WikiData/WD~Romantic_literature,5977111]]'
+- '[[_Standards/WikiData/WD~Romantic_philosophy,12775412]]'
+- '[[_Standards/WikiData/WD~French_Romanticism,27301872]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Romanticism,24820005]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28038855,28038855]]'
 end_time: 1900-01-01T00:00:00Z
@@ -44,8 +124,143 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 UMLS_CUI: C4042888
 MeSH_tree_code: K01.883
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/ROMANTIZM.html
+dv_has_:
+  name_:
+    af: romantiek
+    an: Romanticismo
+    ar: رومانسية
+    arz: الرومانسيه
+    as: ৰমন্যাসবাদ
+    ast: romanticismu
+    az: romantizm
+    azb: رومانتیزم
+    ba: Романтизм
+    bcl: Romantisismo
+    be: рамантызм
+    be-tarask: рамантызм
+    bg: Романтизъм
+    bn: রোমান্টিকতা
+    br: Romantelezh
+    bs: Romantizam
+    ca: Romanticisme
+    ceb: Romantisismo
+    ckb: ڕۆمانتیزم
+    cs: romantismus
+    cv: Романтизм
+    cy: Rhamantiaeth
+    da: romantikken
+    de: Romantik
+    diq: Romantizım
+    el: ρομαντισμός
+    en: Romanticism
+    en-gb: Romanticism
+    eo: romantikismo
+    es: Romanticismo
+    et: romantism
+    eu: erromantizismo
+    ext: Romanticismu
+    fa: رمانتیسم
+    fi: romantiikka
+    fr: romantisme
+    frr: Romantik
+    fy: Romantyk
+    ga: Rómánsachas
+    gan: 浪漫主義
+    gcr: Romantism
+    gd: romantaigeachd
+    gl: romanticismo
+    gn: Py'aitegua reko
+    gsw: Romantik
+    gu: રોમેન્ટિસિઝમ
+    ha: Romanticism
+    he: רומנטיציזם
+    hi: स्वछंदतावाद
+    hr: romantizam
+    ht: Romantis
+    hu: romantika
+    hy: ռոմանտիզմ
+    hyw: Վիպապաշտութիւն
+    ia: romanticismo
+    id: Romantisisme
+    ie: Romanticisme
+    io: romantikismo
+    is: rómantíkin
+    it: romanticismo
+    ja: ロマン主義
+    jam: Ruomantisizim
+    jv: Romantisisme
+    ka: რომანტიზმი
+    kaa: Romantizm
+    kk: Романтизм ағымы
+    kn: ರೊಮ್ಯಾಂಟಿಸಿಸಂ(ಭಾವಪ್ರಧಾನತೆ ತತ್ವ,ಸಿದ್ದಾಂತ)
+    ko: 낭만주의
+    ko-kp: 로만찌즘
+    ks: رومٲنوی دور
+    ku: Romantîzm
+    kw: Romansieth
+    ky: Романтизм
+    la: motus romanticus
+    lb: Romantik
+    lfn: Romanticisme
+    li: Romantiek
+    lld: Romantizism
+    lt: romantizmas
+    lv: romantisms
+    mk: романтизам
+    ml: കാല്പനികത
+    mn: Романтизм
+    ms: romantisisme
+    mt: romantiċiżmu
+    nan: Lōng-bān-chú-gī
+    nb: romantikken
+    nds-nl: romantiek
+    ne: स्वच्छन्दतावाद
+    nl: romantiek
+    nn: romantikken
+    oc: romantisme
+    pa: ਰੋਮਾਂਸਵਾਦ
+    pap: Romanticismo
+    pl: romantyzm
+    pms: Romanticism
+    pnb: رومانوی
+    pt: romantismo
+    pt-br: romantismo
+    rm: Romantica
+    ro: romantism
+    rsk: Романтизем (литература)
+    ru: романтизм
+    rue: романтізм
+    scn: Rumanticismu
+    sd: رومانيت
+    sh: Romantizam
+    sk: romantizmus
+    sl: romantika
+    sq: Romantizmi
+    sr: романтизам
+    sr-ec: романтизам
+    sr-el: romantizam
+    stq: Romantik
+    sv: romantiken
+    ta: புனைவியம்
+    tg: Романтизм
+    th: ศิลปะจินตนิยม
+    tl: Romantisismo
+    tr: romantizm
+    uk: романтизм
+    ur: رومانیت
+    uz: Romantizm
+    vec: Romanticismo
+    vi: chủ nghĩa lãng mạn
+    vls: Romantiek
+    wa: Romantisse
+    war: Romantisismo
+    wuu: 浪漫主义
+    xmf: რომანტიზმი
+    yue: 浪漫主義
+    zh: 浪漫主义
+    zh-hant: 浪漫主義
+    zh-tw: 浪漫主義
 ---
-
 # [[1800-Romanticism+1850]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Romanticism,37068|WD~Romanticism,37068]] 

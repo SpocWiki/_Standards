@@ -1,28 +1,77 @@
 ---
 aliases:
-  - rata almizclera
-  - ondatra pižmová
-  - Bisam
-  - Bisamratte
-  - Common Muskrat
-  - piisami
-  - rat musqué
-  - muskusrat
-  - pižmovka
-  - piżmak amerykański
-  - bisam
-  - Bisamratte
-  - muskrat
-  - Muskrat
+- Abuop
+- Arratoi musketadun
+- Biisam
+- Bisam
+- Bisamrat
+- Bisamratte
+- Bisamrotte
+- bisámroahttu
+- bizam
+- Bizamski štakor
+- Common Muskrat
+- Heo'këso
+- Kivgaluk
+- Moskorato
+- muscfhrancach
+- muskrat
+- muskusrat
+- Muskusrôt
+- Mùskùsowi szur
+- ondatra
+- ondatra pižmová
+- Ondatra zibethicus
+- Ondatro
+- piisam
+- piisami
+- piżmak amerykański
+- pižmovka
+- pézsmapocok
+- rat musqué
+- rata almizclera
+- Rata de almiscre
+- rata mesquera
+- rato-almiscarado
+- Razh-musk
+- Tábąąh mąʼii
+- Vezirottu
+- Woaterratte
+- Yendol (Ondatra zibethicus)
+- čäcikuáđhuš
+- μοσχοπόντικας
+- Андатра
+- бизамски стаорец
+- Вукомак
+- Ондатр
+- ондатра
+- Ондатыр
+- Шарапуло
+- մշկամուկ
+- אונדטרה
+- فأر المسك
+- فار المسك
+- موش آبی
+- গন্ধমূষিক
+- ਮਸਕ ਚੂਹਾ
+- கத்தூரி எலி
+- ಕಸ್ತೂರಿ ಇಲಿ
+- മസ്ക് റാറ്റ്
+- ကြွက်ကတိုး
+- ონდატრა
+- ᑭᕝᒐᓗᒃ
+- マスクラット
+- 麝鼠
+- 사향쥐
 has_id_wikidata: Q26283
 EPPO_Code: ONDAZI
 short_name: O. zibethicus
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 parent_taxon: '[[_Standards/WikiData/WD~Ondatra,12829163]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: '[[_Standards/WikiData/WD~not_evaluated,56660255]]'
@@ -33,8 +82,8 @@ taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 180318
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ondatra%20zibethicus%20FWS.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Muskrat%20Foraging.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ondatra%20zibethicus%20FWS.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Muskrat%20Foraging.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ondatra%20zibethicus.ogv
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Verbreitungsgebiet%20Bisamratten.jpg
 UNII: 96NE4S2X2D
@@ -43,8 +92,103 @@ NBN_System_Key: NBNSYS0000040193
 Commons_category: Ondatra zibethicus
 taxon_name: Ondatra zibethicus
 Commons_gallery: Ondatra zibethicus
+dv_has_:
+  name_:
+    ar: فأر المسك
+    arz: فار المسك
+    ast: Ondatra zibethicus
+    avk: Yendol (Ondatra zibethicus)
+    az: Ondatra
+    ba: Ондатра
+    ban: Muskrat
+    be: Андатра
+    be-tarask: андатра
+    bg: ондатра
+    bn: গন্ধমূষিক
+    br: Razh-musk
+    ca: rata mesquera
+    ceb: Ondatra zibethicus
+    chy: Heo'këso
+    cs: ondatra pižmová
+    csb: Mùskùsowi szur
+    cv: Ондатра
+    da: Bisamrotte
+    de: Bisamratte
+    din: Abuop
+    el: μοσχοπόντικας
+    en: muskrat
+    eo: Ondatro
+    es: Ondatra zibethicus
+    et: ondatra
+    eu: Arratoi musketadun
+    fa: موش آبی
+    fi: piisami
+    fr: rat musqué
+    frr: Biisam
+    fy: Muskusrôt
+    ga: muscfhrancach
+    gl: Rata de almiscre
+    he: אונדטרה
+    hr: Bizamski štakor
+    hu: pézsmapocok
+    hy: մշկամուկ
+    ia: Ondatra zibethicus
+    id: Muskrat
+    ig: muskrat
+    ik: Kivgaluk
+    io: Moskorato
+    it: Ondatra zibethicus
+    iu: ᑭᕝᒐᓗᒃ
+    ja: マスクラット
+    ka: ონდატრა
+    kk: Ондатр
+    kn: ಕಸ್ತೂರಿ ಇಲಿ
+    ko: 사향쥐
+    ky: Ондатра
+    la: Ondatra zibethicus
+    lb: Bisamrat
+    lt: Ondatra
+    lv: Ondatra
+    mk: бизамски стаорец
+    ml: മസ്ക് റാറ്റ്
+    mul: Ondatra zibethicus
+    my: ကြွက်ကတိုး
+    myv: Шарапуло
+    nb: bisam
+    nl: muskusrat
+    nn: bisam
+    nv: Tábąąh mąʼii
+    olo: Vezirottu
+    pa: ਮਸਕ ਚੂਹਾ
+    pl: Piżmak amerykański
+    pt: rato-almiscarado
+    ro: bizam
+    ru: ондатра
+    sah: Ондатыр
+    se: bisámroahttu
+    sh: Bizamski štakor
+    sk: Ondatra pižmová
+    sl: pižmovka
+    smn: čäcikuáđhuš
+    sms: piisam
+    sq: Ondatra zibethicus
+    sr: Ondatra zibethicus
+    sv: bisam
+    ta: கத்தூரி எலி
+    tr: Ondatra zibethicus
+    tt: Ондатра
+    udm: Вукомак
+    uk: ондатра
+    uz: Ondatra
+    vi: Ondatra zibethicus
+    vls: Woaterratte
+    war: Ondatra zibethicus
+    wuu: 麝鼠
+    yue: 麝鼠
+    zh: 麝鼠
+    zh-cn: 麝鼠
+    zh-tw: 麝鼠
 ---
-
 # [[Muskrat]] 
 
 #is_/same_as :: [[WD~Muskrat,26283]] 

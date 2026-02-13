@@ -1,40 +1,59 @@
 ---
 aliases:
-  - Stevie_Ray_Vaughan
-  - Stephen Ray Vaughan
-  - Vaughan
-  - Vaughan,Stevie_Ray
-  - Vaughan,Stevie Ray
+- Stephen Ray Vaughan
+- Stevie Ray Vaughan
+- Stevie Ray Vaughn
+- Stevie_Ray_Vaughan
+- Vaughan
+- Vaughan,Stevie Ray
+- Vaughan,Stevie_Ray
+- Στίβι Ρέι Βον
+- Стіві Рей Вон
+- Стиви Реј Вон
+- Стиви Рей Вон
+- Стиви Рэй Вон
+- Стыві Рэй Вон
+- Սթիվի Ռեյ Վոն
+- סטיבי ריי וון
+- استیوی ری وان
+- ستيفى راى فوجن
+- ستيفي راي فوغن
+- สตีวี เรย์ วอห์น
+- სტივი რეი ვონი
+- スティーヴィー・レイ・ヴォーン
+- 史蒂維·雷·沃恩
+- 史蒂维·雷·沃恩
+- 스티비 레이 본
 has_id_wikidata: Q202937
 Facebook_username: stevierayvaughan
 genre:
-  - '[[_Standards/WikiData/WD~funk,164444]]'
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~funk,164444]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
 record_label: '[[_Standards/WikiData/WD~Epic_Records,216364]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 sibling: '[[_Standards/WikiData/WD~Jimmie_Vaughan,538543]]'
 cause_of_death: '[[_Standards/WikiData/WD~aviation_accident,744913]]'
 place_of_death: '[[_Standards/WikiData/WD~East_Troy,1278054]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Double_Trouble,2083578]]'
-  - '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_&_Double_Trouble,68561493]]'
+- '[[_Standards/WikiData/WD~Double_Trouble,2083578]]'
+- '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_&_Double_Trouble,68561493]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Ray,2133832]]'
-  - '[[_Standards/WikiData/WD~Stevie,20680397]]'
+- '[[_Standards/WikiData/WD~Ray,2133832]]'
+- '[[_Standards/WikiData/WD~Stevie,20680397]]'
 educated_at: '[[_Standards/WikiData/WD~Justin_F._Kimball_High_School,6317580]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 discography:
-  - '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_discography,7615608]]'
-  - '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_posthumous_discography,16991831]]'
+- '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_discography,7615608]]'
+- '[[_Standards/WikiData/WD~Stevie_Ray_Vaughan_posthumous_discography,16991831]]'
 family_name: '[[_Standards/WikiData/WD~Vaughan,12805306]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 place_of_burial: '[[_Standards/WikiData/WD~Laurel_Land_Memorial_Park,20744191]]'
 manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
@@ -54,8 +73,76 @@ official_website: https://srvofficial.com
 ISNI: 0000000385476923
 Plex_person_key: 5d776852eb5d26001f1e601c
 Europeana_entity: agent/base/61533
+dv_has_:
+  name_:
+    af: Stevie Ray Vaughan
+    ar: ستيفي راي فوغن
+    arz: ستيفى راى فوجن
+    ast: Stevie Ray Vaughan
+    azb: استیوی ری وان
+    be-tarask: Стыві Рэй Вон
+    bg: Стиви Рей Вон
+    br: Stevie Ray Vaughan
+    ca: Stevie Ray Vaughan
+    cs: Stevie Ray Vaughan
+    cy: Stevie Ray Vaughan
+    da: Stevie Ray Vaughan
+    dag: Stevie Ray Vaughan
+    de: Stevie Ray Vaughan
+    el: Στίβι Ρέι Βον
+    en: Stevie Ray Vaughan
+    en-ca: Stevie Ray Vaughan
+    eo: Stevie Ray Vaughan
+    es: Stevie Ray Vaughan
+    eu: Stevie Ray Vaughan
+    fa: استیوی ری وان
+    fi: Stevie Ray Vaughan
+    fr: Stevie Ray Vaughan
+    ga: Stevie Ray Vaughan
+    gl: Stevie Ray Vaughan
+    he: סטיבי ריי וון
+    hr: Stevie Ray Vaughan
+    hu: Stevie Ray Vaughan
+    hy: Սթիվի Ռեյ Վոն
+    id: Stevie Ray Vaughan
+    io: Stevie Ray Vaughan
+    is: Stevie Ray Vaughan
+    it: Stevie Ray Vaughan
+    ja: スティーヴィー・レイ・ヴォーン
+    ka: სტივი რეი ვონი
+    ko: 스티비 레이 본
+    lt: Stevie Ray Vaughan
+    mg: Stevie Ray Vaughan
+    nb: Stevie Ray Vaughan
+    nl: Stevie Ray Vaughan
+    nn: Stevie Ray Vaughan
+    oc: Stevie Ray Vaughan
+    pam: Stevie Ray Vaughn
+    pl: Stevie Ray Vaughan
+    pt: Stevie Ray Vaughan
+    pt-br: Stevie Ray Vaughan
+    ro: Stevie Ray Vaughan
+    ru: Стиви Рэй Вон
+    sk: Stevie Ray Vaughan
+    sl: Stevie Ray Vaughan
+    sq: Stevie Ray Vaughan
+    sr: Стиви Реј Вон
+    sv: Stevie Ray Vaughan
+    th: สตีวี เรย์ วอห์น
+    tr: Stevie Ray Vaughan
+    uk: Стіві Рей Вон
+    vi: Stevie Ray Vaughan
+    vls: Stevie Ray Vaughan
+    war: Stevie Ray Vaughan
+    yue: 史蒂維·雷·沃恩
+    zh: 史蒂维·雷·沃恩
+    zh-cn: 史蒂维·雷·沃恩
+    zh-hans: 史蒂维·雷·沃恩
+    zh-hant: 史蒂維·雷·沃恩
+    zh-hk: 史蒂維·雷·沃恩
+    zh-sg: 史蒂维·雷·沃恩
+    zh-tw: 史蒂維·雷·沃恩
 ---
-
 # [[Vaughan,Stevie_Ray]] 
 
 #is_/same_as :: [[WD~Stevie_Ray_Vaughan,202937]] 

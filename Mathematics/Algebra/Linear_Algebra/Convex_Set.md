@@ -1,15 +1,63 @@
 ---
 aliases:
-  - convex set
-  - Convex_Set
-  - Convex Set
+- Bombadura
+- conjunt convex
+- conjunto convexo
+- convex set
+- convexe verzameling
+- Convexidá
+- Convex_Set
+- conxunto convexo
+- Döñes dene
+- dışbükey küme
+- ensemble convexe
+- himpunan cembung
+- insieme convesso
+- konveks mengd
+- konveks mengde
+- konveksa aro
+- konveksi joukko
+- konveksna množica
+- Konveksni set
+- konvex halmaz
+- konvex mängd
+- konvexe Menge
+- Konvexná množina
+- konvexní množina
+- Kumer hulk
+- multzo konbexu
+- mulțime convexă
+- tacar dronnach
+- tập lồi
+- zbiór wypukły
+- κυρτό σύνολο
+- выпуклае мноства
+- выпуклое множество
+- Гүдгэр олонлог
+- Дөңес дене
+- изпъкнало множество
+- испакнато множество
+- мăкăрăлчăк йыш
+- опукла множина
+- Ուռուցիկ բազմություն
+- קבוצה קמורה
+- دوڭەس دەنە
+- كومهلهی قوقز
+- مجموعة محدبة
+- مجموعه محدب
+- محدب طاقم
+- উত্তল সেট
+- குவிவுக் கணம்
+- 凸集
+- 凸集合
+- 볼록 집합
 has_id_wikidata: Q193657
 part_of:
-  - '[[_Standards/WikiData/WD~affine_space,382698]]'
-  - '[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]'
+- '[[_Standards/WikiData/WD~affine_space,382698]]'
+- '[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~star_domain,769917]]'
-  - '[[_Standards/WikiData/WD~topological_subspace,77613467]]'
+- '[[_Standards/WikiData/WD~star_domain,769917]]'
+- '[[_Standards/WikiData/WD~topological_subspace,77613467]]'
 studied_by: '[[_Standards/WikiData/WD~convex_geometry,1783542]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 has_characteristic: '[[_Standards/WikiData/WD~convexity,52927961]]'
@@ -17,8 +65,73 @@ opposite_of: '[[_Standards/WikiData/WD~non_convex_set,91483756]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Convex%20polygon%20illustration1.svg
 Commons_category: Convexity
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></munderover></mstyle><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><msub><mi>u</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><mo stretchy="false">&#x2208;</mo><mi>S</mi><mo>,</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></munderover></mstyle><msub><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>k</mi></mrow></msub><mo stretchy="false">=</mo><mn>1</mn></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: مجموعة محدبة
+    ast: Convexidá
+    be-tarask: выпуклае мноства
+    bg: изпъкнало множество
+    bn: উত্তল সেট
+    ca: conjunt convex
+    cs: konvexní množina
+    cv: мăкăрăлчăк йыш
+    de: konvexe Menge
+    el: κυρτό σύνολο
+    en: convex set
+    eo: konveksa aro
+    es: conjunto convexo
+    et: Kumer hulk
+    eu: multzo konbexu
+    fa: مجموعه محدب
+    fi: konveksi joukko
+    fr: ensemble convexe
+    ga: tacar dronnach
+    gl: conxunto convexo
+    he: קבוצה קמורה
+    hu: konvex halmaz
+    hy: Ուռուցիկ բազմություն
+    id: himpunan cembung
+    it: insieme convesso
+    ja: 凸集合
+    kk: Дөңес дене
+    kk-arab: دوڭەس دەنە
+    kk-cn: دوڭەس دەنە
+    kk-cyrl: Дөңес дене
+    kk-kz: Дөңес дене
+    kk-latn: Döñes dene
+    kk-tr: Döñes dene
+    ko: 볼록 집합
+    ku-arab: كومهلهی قوقز
+    mk: испакнато множество
+    mn: Гүдгэр олонлог
+    nb: konveks mengde
+    nl: convexe verzameling
+    nn: konveks mengd
+    pl: zbiór wypukły
+    pms: Bombadura
+    pt: conjunto convexo
+    pt-br: conjunto convexo
+    ro: mulțime convexă
+    ru: выпуклое множество
+    sco: convex set
+    sk: Konvexná množina
+    sl: konveksna množica
+    sr: Konveksni set
+    sv: konvex mängd
+    ta: குவிவுக் கணம்
+    tr: dışbükey küme
+    uk: опукла множина
+    ur: محدب طاقم
+    vi: tập lồi
+    yue: 凸集
+    zh: 凸集
+    zh-cn: 凸集
+    zh-hans: 凸集
+    zh-hant: 凸集
+    zh-hk: 凸集
+    zh-sg: 凸集
+    zh-tw: 凸集
 ---
-
 # [[Convex_Set]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Convex_set,193657|WD~Convex_set,193657]] 

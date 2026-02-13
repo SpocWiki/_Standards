@@ -1,25 +1,58 @@
 ---
 aliases:
-  - Fruchtfliege
-  - Fruit Fly
-  - vinegar fly
-  - pomace fly
-  - banana fly
-  - Drosophila_melanogaster
-  - Drosophila melanogaster
-  - mosca de la fruta
-  - mosca del vinagre
-  - fruit fly
-  - bananflue
-  - Schwarzbäuchige Fruchtfliege
-  - Schwarzbäuchige Taufliege
-  - banaanikärpänen
-  - mouche du vinaigre
-  - navadna vinska mušica
+- augļu muša
+- banaanikärpänen
+- banana fly
+- bananenvlieg
+- bananflue
+- bananfluga
+- bananfluge
+- Bari-bari
+- Drosophila melanogaster
+- Drosophila_melanogaster
+- Drozofila obyčajná
+- ecetmuslica
+- Fruchtfliege
+- Fruit Fly
+- Harilik äädikakärbes
+- Izi umaɣus
+- mosca de la fruta
+- mosca del vinagre
+- Mosca do vinagre
+- mouche du vinaigre
+- navadna vinska mušica
+- nigraventra drozofilo
+- octomilka obecná
+- ozpin-euli
+- pomace fly
+- Rametuk
+- ruồi giấm thường
+- Schwarzbäuchige Fruchtfliege
+- Schwarzbäuchige Taufliege
+- vinegar fly
+- Vinska mušica
+- wywilżna karłowata
+- Ávaxtafluga
+- Винска мушичка
+- дрозофіла чорночерева
+- пладовая мушка
+- плодова мушица
+- תסיסנית המחקר
+- ذبابة فاكهة شائعة
+- ذبابه فاكهه شائعه
+- رَئو
+- مگس سرکه
+- ড্রোসোফিলা মেলানোজেস্টার
+- പഴയീച്ച
+- แมลงวันทอง
+- キイロショウジョウバエ
+- 黑腹果蝇
+- 黑腹果蠅
+- 노랑초파리
 has_id_wikidata: Q130888
 instance_of:
-  - '[[_Standards/WikiData/WD~model_organism,213907]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~model_organism,213907]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Drosophila,312154]]'
 diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
@@ -28,32 +61,114 @@ chromosome_count: 8
 OmegaWiki_Defined_Meaning: 1197586
 ITIS_TSN: 146290
 taxon_common_name:
-  - mosca de la fruta
-  - mosca del vinagre
-  - fruit fly
-  - bananflue
-  - Schwarzbäuchige Fruchtfliege
-  - Schwarzbäuchige Taufliege
-  - vinegar fly
-  - banaanikärpänen
-  - mouche du vinaigre
-  - navadna vinska mušica
+- mosca de la fruta
+- mosca del vinagre
+- fruit fly
+- bananflue
+- Schwarzbäuchige Fruchtfliege
+- Schwarzbäuchige Taufliege
+- vinegar fly
+- banaanikärpänen
+- mouche du vinaigre
+- navadna vinska mušica
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Drosophila%20melanogaster%20-%20side%20%28aka%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/202101%20Fruitfly.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Drosophila%20melanogaster%20-%20side%20%28aka%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/202101%20Fruitfly.svg
 Commons_gallery: Drosophila melanogaster
 Commons_category: Drosophila melanogaster
 taxon_name: Drosophila melanogaster
 sequenced_genome_URL:
-  - http://www.ensembl.org/Drosophila_melanogaster
-  - https://metazoa.ensembl.org/Drosophila_melanogaster
+- http://www.ensembl.org/Drosophila_melanogaster
+- https://metazoa.ensembl.org/Drosophila_melanogaster
 MeSH_tree_code: B01.050.500.131.617.720.500.500.750.310.250.500
 UMLS_CUI: C0013139
 EPPO_Code: DROSME
 NBN_System_Key: NBNSYS0000029555
 short_name: D. melanogaster
+dv_has_:
+  name_:
+    ace: Drosophila melanogaster
+    an: Drosophila melanogaster
+    ar: ذبابة فاكهة شائعة
+    arz: ذبابه فاكهه شائعه
+    ast: Drosophila melanogaster
+    be-tarask: пладовая мушка
+    bg: плодова мушица
+    bn: ড্রোসোফিলা মেলানোজেস্টার
+    bs: Vinska mušica
+    ca: mosca del vinagre
+    ceb: Drosophila melanogaster
+    cs: octomilka obecná
+    da: bananflue
+    de: Drosophila melanogaster
+    en: Drosophila melanogaster
+    en-gb: fruit fly
+    eo: nigraventra drozofilo
+    es: Drosophila melanogaster
+    et: Harilik äädikakärbes
+    eu: ozpin-euli
+    ext: Drosophila melanogaster
+    fa: مگس سرکه
+    fi: banaanikärpänen
+    fr: Drosophila melanogaster
+    ga: Drosophila melanogaster
+    gl: Mosca do vinagre
+    he: תסיסנית המחקר
+    hr: Vinska mušica
+    hu: ecetmuslica
+    ia: Drosophila melanogaster
+    id: Drosophila melanogaster
+    ie: Drosophila melanogaster
+    io: Drosophila melanogaster
+    is: Ávaxtafluga
+    it: Drosophila melanogaster
+    ja: キイロショウジョウバエ
+    jv: Drosophila melanogaster
+    kab: Izi umaɣus
+    ko: 노랑초파리
+    ku-latn: Drosophila melanogaster
+    la: Drosophila melanogaster
+    lv: augļu muša
+    min: Drosophila melanogaster
+    mk: Винска мушичка
+    ml: പഴയീച്ച
+    ms: Bari-bari
+    mul: Drosophila melanogaster
+    mzn: رَئو
+    nb: bananflue
+    nl: bananenvlieg
+    nn: bananfluge
+    oc: Drosophila melanogaster
+    pl: wywilżna karłowata
+    pt: Drosophila melanogaster
+    pt-br: Drosophila melanogaster
+    ro: Drosophila melanogaster
+    ru: Drosophila melanogaster
+    sc: Drosophila melanogaster
+    sh: Vinska mušica
+    sk: Drozofila obyčajná
+    sl: navadna vinska mušica
+    sq: Drosophila melanogaster
+    sr: vinska mušica
+    su: Rametuk
+    sv: bananfluga
+    th: แมลงวันทอง
+    tl: Drosophila melanogaster
+    tr: Drosophila melanogaster
+    uk: дрозофіла чорночерева
+    vi: ruồi giấm thường
+    vo: Drosophila melanogaster
+    war: Drosophila melanogaster
+    wuu: 黑腹果蝇
+    yue: 黑腹果蠅
+    zh: 黑腹果蠅
+    zh-cn: 黑腹果蝇
+    zh-hans: 黑腹果蝇
+    zh-hant: 黑腹果蠅
+    zh-hk: 黑腹果蠅
+    zh-sg: 黑腹果蝇
+    zh-tw: 黑腹果蠅
 ---
-
 # [[Drosophila_melanogaster]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Drosophila_melanogaster,130888|WD~Drosophila_melanogaster,130888]] 

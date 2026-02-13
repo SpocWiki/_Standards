@@ -1,42 +1,63 @@
 ---
 aliases:
-  - Guillaume_Dufay
-  - 'Guillaume Du Fay ( dyoo-FEYE, French: [ɡijom dy fa(j)i]; also Dufay, Du Fayt'
-  - Guillaume Dufay
+- Gijom Dife
+- Guillaume Du Fay
+- 'Guillaume Du Fay ( dyoo-FEYE, French: [ɡijom dy fa(j)i]; also Dufay, Du Fayt'
+- Guillaume Dufai
+- Guillaume Dufay
+- Guillaume_Dufay
+- Gulielmus Dufay
+- Γκιγιώμ Ντυφαί
+- Гіём Дзюфаі
+- Гіём Дзюфай
+- Гијом Дифе
+- Гийом Дюфаи
+- Гийом Дюфе
+- Ґійом Дюфаї
+- Գիյոմ Դյուֆայի
+- גיום דופאי
+- جويمى دوفاى
+- جويمي دوفاي
+- گویلام دوفی
+- ഗ്വിയോം ഡ്യൂഫേ
+- ギヨーム・デュファイ
+- 紀堯姆·迪費
+- 纪尧姆·迪费
+- 기욤 뒤파이
 has_id_wikidata: Q207717
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
 genre:
-  - '[[_Standards/WikiData/WD~polyphony,179465]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~polyphony,179465]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 place_of_death: '[[_Standards/WikiData/WD~Cambrai,181285]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~music_theory,193544]]'
-  - '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~music_theory,193544]]'
+- '[[_Standards/WikiData/WD~music,638]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Nuper_rosarum_flores,589115]]'
-  - '[[_Standards/WikiData/WD~Lamentatio_sanctae_matris_ecclesiae_Constantinopolitanae,6481758]]'
-  - '[[_Standards/WikiData/WD~Missa_Se_la_face_ay_pale,12716904]]'
-  - "[[_Standards/WikiData/WD~Missa_L'Homme_armé,47004528]]"
-  - '[[_Standards/WikiData/WD~Resistera,116268141]]'
-  - '[[_Standards/WikiData/WD~Mon_seul_plaisir,_ma_doulce_joie,116268149]]'
-  - '[[_Standards/WikiData/WD~Belle_vueillés,116268154]]'
-  - '[[_Standards/WikiData/WD~Vostre_bruit_et_vostre_grant_fame,116268155]]'
-  - '[[_Standards/WikiData/WD~Dieu_gard_la_dame_sans_reprise,116268158]]'
-  - '[[_Standards/WikiData/WD~Ne_je_ne_dors_ne_je_ne_veille,116268157]]'
-  - '[[_Standards/WikiData/WD~Vassilissa_Ergo_Gaude,126913404]]'
-  - '[[_Standards/WikiData/WD~Masses,136289961]]'
-  - '[[_Standards/WikiData/WD~Ballades,136289971]]'
-  - '[[_Standards/WikiData/WD~Rondeaux,136289969]]'
-  - '[[_Standards/WikiData/WD~Lyrical_poems,136290202]]'
+- '[[_Standards/WikiData/WD~Nuper_rosarum_flores,589115]]'
+- '[[_Standards/WikiData/WD~Lamentatio_sanctae_matris_ecclesiae_Constantinopolitanae,6481758]]'
+- '[[_Standards/WikiData/WD~Missa_Se_la_face_ay_pale,12716904]]'
+- "[[_Standards/WikiData/WD~Missa_L'Homme_armé,47004528]]"
+- '[[_Standards/WikiData/WD~Resistera,116268141]]'
+- '[[_Standards/WikiData/WD~Mon_seul_plaisir,_ma_doulce_joie,116268149]]'
+- '[[_Standards/WikiData/WD~Belle_vueillés,116268154]]'
+- '[[_Standards/WikiData/WD~Vostre_bruit_et_vostre_grant_fame,116268155]]'
+- '[[_Standards/WikiData/WD~Dieu_gard_la_dame_sans_reprise,116268158]]'
+- '[[_Standards/WikiData/WD~Ne_je_ne_dors_ne_je_ne_veille,116268157]]'
+- '[[_Standards/WikiData/WD~Vassilissa_Ergo_Gaude,126913404]]'
+- '[[_Standards/WikiData/WD~Masses,136289961]]'
+- '[[_Standards/WikiData/WD~Ballades,136289971]]'
+- '[[_Standards/WikiData/WD~Rondeaux,136289969]]'
+- '[[_Standards/WikiData/WD~Lyrical_poems,136290202]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 occupation:
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 place_of_birth: '[[_Standards/WikiData/WD~Beersel,692168]]'
 movement: '[[_Standards/WikiData/WD~Burgundian_School,2007658]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -53,8 +74,85 @@ Europeana_entity: agent/base/148474
 Libris_URI: hftwwtm15c8s6tf
 name_in_native_language: Guillaume Dufay
 date_of_birth: 1397-08-21T00:00:00Z
+dv_has_:
+  name_:
+    an: Guillaume Dufay
+    ar: جويمي دوفاي
+    arz: جويمى دوفاى
+    ast: Guillaume Dufay
+    be: Гіём Дзюфаі
+    be-tarask: Гіём Дзюфай
+    bg: Гийом Дюфе
+    br: Guillaume Dufay
+    ca: Guillaume Dufay
+    cs: Guillaume Dufay
+    cy: Guillaume Dufay
+    da: Guillaume Dufay
+    de: Guillaume Dufay
+    de-at: Guillaume Dufay
+    de-ch: Guillaume Dufay
+    el: Γκιγιώμ Ντυφαί
+    en: Guillaume Dufay
+    eo: Guillaume Dufay
+    es: Guillaume Dufay
+    et: Guillaume Dufay
+    eu: Guillaume Dufay
+    fa: گویلام دوفی
+    fi: Guillaume Dufay
+    fr: Guillaume Dufay
+    ga: Guillaume Dufay
+    gl: Guillaume Dufai
+    he: גיום דופאי
+    hu: Guillaume Dufay
+    hy: Գիյոմ Դյուֆայի
+    id: Guillaume Du Fay
+    io: Guillaume Dufay
+    is: Guillaume Dufay
+    it: Guillaume Dufay
+    ja: ギヨーム・デュファイ
+    jut: Guillaume Dufay
+    ko: 기욤 뒤파이
+    la: Gulielmus Dufay
+    li: Guillaume Dufay
+    lt: Guillaume Dufay
+    mg: Guillaume Dufay
+    ml: ഗ്വിയോം ഡ്യൂഫേ
+    mul: Guillaume Dufay
+    nb: Guillaume Dufay
+    nl: Guillaume Dufay
+    nn: Guillaume Dufay
+    oc: Guillaume Du Fay
+    pl: Guillaume Dufay
+    pms: Guillaume Dufay
+    pt: Guillaume Dufay
+    pt-br: Guillaume Dufay
+    ro: Guillaume Dufay
+    ru: Гийом Дюфаи
+    sc: Guillaume Dufay
+    sco: Guillaume Du Fay
+    sh: Guillaume Dufay
+    sje: Guillaume Dufay
+    sk: Guillaume Dufay
+    sl: Guillaume Dufay
+    sq: Guillaume Dufay
+    sr: Гијом Дифе
+    sr-ec: Гијом Дифе
+    sr-el: Gijom Dife
+    sv: Guillaume Dufay
+    tr: Guillaume Dufay
+    uk: Ґійом Дюфаї
+    vi: Guillaume Dufay
+    war: Guillaume Dufay
+    wuu: 纪尧姆·迪费
+    yue: 紀堯姆·迪費
+    zh: 纪尧姆·迪费
+    zh-cn: 纪尧姆·迪费
+    zh-hans: 纪尧姆·迪费
+    zh-hant: 紀堯姆·迪費
+    zh-hk: 紀堯姆·迪費
+    zh-sg: 纪尧姆·迪费
+    zh-tw: 紀堯姆·迪費
 ---
-
 # [[Guillaume_Dufay]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Guillaume_Dufay,207717|WD~Guillaume_Dufay,207717]] 

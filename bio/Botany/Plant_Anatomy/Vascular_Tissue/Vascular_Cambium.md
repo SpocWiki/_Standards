@@ -1,16 +1,113 @@
 ---
 aliases:
+- cambio cribro-vascolare
+- cambium
+- Cambium baskular
+- Cambium vasculare
+- càmbium
+- Cámbium
+- câmbio vascular
+- Demet kambiyumu
+- Inderbark
+- Jälsi
+- Kambij
+- Kambijs
+- Kambijum
+- Kambium
+- Kambiumo
+- Kambïý
+- Tầng sinh mạch
+- vascular cambium
+- žilni kambij
+- Камбій
+- Камбијум
+- Камбий
+- Կամբիում
+- بنلاد آوندی
+- كامبىيي
+- كامبيوم وعائي
+- சாற்றுக்குழலிடைச் சோற்றுத்திசு
+- วาสคิวลาร์แคมเบียม
+- 形成层
+- 形成層
+- 維管形成層
+- 維管束形成層
+- 维管形成层
 has_id_wikidata: Q369429
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-subclass_of: "[[_Standards/WikiData/WD~secondary_meristem,12051336]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+subclass_of: '[[_Standards/WikiData/WD~secondary_meristem,12051336]]'
 Commons_category: Cambium
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cambium%20%28PSF%29.jpg
-Dewey_Decimal_Classification: "575.488"
+Dewey_Decimal_Classification: 575.488
+dv_has_:
+  name_:
+    ar: كامبيوم وعائي
+    ast: Cámbium
+    be: Камбій
+    be-tarask: камбій
+    bs: Kambij
+    ca: càmbium
+    cs: kambium
+    da: Inderbark
+    de: Kambium
+    en: vascular cambium
+    en-ca: Vascular cambium
+    en-gb: Vascular cambium
+    eo: Kambiumo
+    es: Cámbium
+    et: Kambium
+    eu: Cambium baskular
+    fa: بنلاد آوندی
+    fi: Jälsi
+    fr: cambium
+    gl: Cámbium
+    hr: Kambij
+    hu: Kambium
+    hy: Կամբիում
+    id: Kambium
+    it: cambio cribro-vascolare
+    ja: 維管束形成層
+    jv: Kambium
+    kk: Камбий
+    kk-arab: كامبىيي
+    kk-cn: كامبىيي
+    kk-cyrl: Камбий
+    kk-kz: Камбий
+    kk-latn: Kambïý
+    kk-tr: Kambïý
+    ky: Камбий
+    la: Cambium vasculare
+    lv: Kambijs
+    nb: Kambium
+    nl: cambium
+    pl: Kambium
+    pt: câmbio vascular
+    pt-br: Câmbio vascular
+    ru: Камбий
+    sk: Kambium
+    sl: žilni kambij
+    sr: Камбијум
+    sr-ec: Камбијум
+    sr-el: Kambijum
+    sv: Kambium
+    ta: சாற்றுக்குழலிடைச் சோற்றுத்திசு
+    th: วาสคิวลาร์แคมเบียม
+    tr: Demet kambiyumu
+    uk: Камбій
+    vi: Tầng sinh mạch
+    wuu: 维管形成层
+    yue: 維管形成層
+    zh: 維管形成層
+    zh-cn: 形成层
+    zh-hans: 形成层
+    zh-hant: 形成層
+    zh-hk: 形成層
+    zh-sg: 形成层
+    zh-tw: 形成層
 ---
-
 # [[Vascular_Cambium]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Vascular_cambium,369429|WD~Vascular_cambium,369429]] 

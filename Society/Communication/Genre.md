@@ -1,4 +1,205 @@
-
+---
+has_id_wikidata: Q483394
+dv_has_:
+  name_:
+    af: genre
+    ar: نوع فني
+    ary: نوع فني
+    ast: xéneru
+    az: janr
+    azb: ژانر
+    ba: жанр
+    be: жанр
+    be-tarask: жанр
+    bg: жанр
+    bn: বর্গ
+    br: doare
+    bs: žanr
+    ca: gènere
+    ckb: چەشن
+    co: genere
+    cs: žánr
+    cv: жанр
+    cy: genre
+    da: genre
+    de: Genre
+    de-ch: Genre
+    dsb: žanr
+    el: είδος έργου δημιουργίας
+    en: genre
+    en-ca: genre
+    en-gb: genre
+    eo: ĝenro
+    es: género
+    et: žanr
+    eu: genero
+    fa: ژانر
+    fi: genre
+    fr: genre
+    fy: sjenre
+    ga: seánra
+    gl: xénero
+    got: "\U00010332\U00010334\U0001033D\U00010334\U00010342\U00010349"
+    gpe: genre
+    gu: શૈલી
+    he: סוגה
+    hi: विधा
+    hr: žanr
+    hsb: Žanr
+    ht: jan
+    hu: műfaj
+    hy: ժանր
+    id: genre
+    io: jenro
+    it: genere
+    ja: ジャンル
+    jv: Lagak
+    ka: ჟანრი
+    kaa: janr
+    kab: tawsit
+    kk: жанр
+    kk-arab: جانر
+    kk-cyrl: жанр
+    kk-latn: janr
+    kn: ಸಾಹಿತ್ಯದ ವಿಧ
+    ko: 장르
+    ko-kp: 쟌르
+    ks: صَنَف
+    ku: şêwe
+    ku-latn: şêwe
+    kw: gis
+    ky: жанр
+    la: genus
+    lb: Genre
+    lt: žanras
+    lv: žanrs
+    mk: жанр
+    ml: വിഭാഗം
+    mn: бичлэгийн төрөл зүйл
+    ms: genre
+    ms-arab: ݢينري
+    nb: sjanger
+    nl: genre
+    nn: sjanger
+    oc: genre
+    os: жанр
+    pa: ਵਿਧਾ
+    pl: gatunek
+    pnb: صنف
+    pt: género
+    pt-br: gênero
+    ro: gen
+    ru: жанр
+    sd: صنف
+    se: šáŋŋer
+    sgs: žonros
+    sh: žánr
+    sk: žáner
+    sl: zvrst
+    smn: šlaajâ
+    sms: šlaajj
+    sq: zhanër
+    sr: жанр
+    sr-el: žanr
+    sv: genre
+    sw: utanzu
+    szl: gatōnek
+    te: కళా ప్రక్రియ
+    tg: жанр
+    tg-latn: ƶanr
+    th: ประเภท
+    tl: RTVE
+    tly: žanr
+    tr: tür
+    tt: жанр
+    tt-cyrl: жанр
+    uk: жанр
+    ur: صنف
+    uz: janr
+    uz-cyrl: жанр
+    vec: zènaro
+    vi: thể loại
+    wuu: 艺术类型
+    xmf: ჟანრი
+    yi: זשאנער
+    zgh: ⴰⵏⴰⵡ
+    zh: 藝術類型
+    zh-cn: 艺术类型
+    zh-hans: 艺术类型
+    zh-hant: 藝術類型
+aliases:
+- doare
+- gatunek
+- gatōnek
+- gen
+- genere
+- genero
+- genre
+- genus
+- gis
+- gènere
+- género
+- gênero
+- jan
+- janr
+- jenro
+- Lagak
+- műfaj
+- RTVE
+- seánra
+- sjanger
+- sjenre
+- tawsit
+- thể loại
+- tür
+- utanzu
+- xénero
+- xéneru
+- zhanër
+- zvrst
+- zènaro
+- ĝenro
+- şêwe
+- šlaajj
+- šlaajâ
+- šáŋŋer
+- žanr
+- žanras
+- žanrs
+- žonros
+- žáner
+- žánr
+- ƶanr
+- είδος έργου δημιουργίας
+- бичлэгийн төрөл зүйл
+- жанр
+- ժանր
+- זשאנער
+- סוגה
+- جانر
+- صنف
+- صَنَف
+- نوع فني
+- چەشن
+- ژانر
+- ݢينري
+- विधा
+- বর্গ
+- ਵਿਧਾ
+- શૈલી
+- కళా ప్రక్రియ
+- ಸಾಹಿತ್ಯದ ವಿಧ
+- വിഭാഗം
+- ประเภท
+- ჟანრი
+- ⴰⵏⴰⵡ
+- ジャンル
+- 艺术类型
+- 藝術類型
+- 장르
+- 쟌르
+- "\U00010332\U00010334\U0001033D\U00010334\U00010342\U00010349"
+---
 ## #has_/text_of_/abstract 
 
 > **Genre** (French for 'kind, sort') is any style or form of communication 

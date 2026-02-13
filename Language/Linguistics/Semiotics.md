@@ -1,20 +1,71 @@
 ---
 aliases:
-  - Semiotik
-  - Semiotics
+- gösterge bilimi
+- kì-hō-lūn
+- ký hiệu học
+- semiootiga
+- semiootika
+- semioteg
+- semiotica
+- Semiotics
+- semiotică
+- semiotiek
+- semiotihkka
+- semiotiik
+- semiotiikka
+- Semiotik
+- semiotika
+- semiotikk
+- semiotiko
+- semiotikë
+- semiotyka
+- semiòtega
+- semiòtica
+- semiótica
+- szemiotika
+- séimeolaíocht
+- sémiotika
+- sémiotique
+- táknfræði
+- σημειωτική
+- семіётыка
+- семіотика
+- семиотика
+- сэміётыка
+- նշանագիտություն
+- סמיוטיקה
+- سیمبول پوهنه
+- علم العلامات
+- نشانهشناسی
+- گؤسترگهبیلیم
+- ߕߐ߰ߡߊ߬ߛߙߋ߬ߟߐ߲߬ߘߐ߬ߦߊ
+- लक्षण-विज्ञान
+- संकेतविज्ञान
+- সংকেতবিজ্ঞান
+- ਚਿਹਨ-ਵਿਗਿਆਨ
+- குறியியல்
+- సంకేతాధ్యయన శాస్త్రం
+- ಸಂಜ್ಞಾಶಾಸ್ತ್ರ
+- ചിഹ്നശാസ്ത്രം
+- สัญศาสตร์
+- სემიოტიკა
+- 符号学
+- 符號學
+- 記号学
+- 기호학
 has_id_wikidata: Q60195
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~symbol,80071]]'
-  - '[[_Standards/WikiData/WD~semiosis,681696]]'
-  - '[[_Standards/WikiData/WD~sign,3695082]]'
+- '[[_Standards/WikiData/WD~symbol,80071]]'
+- '[[_Standards/WikiData/WD~semiosis,681696]]'
+- '[[_Standards/WikiData/WD~sign,3695082]]'
 different_from: '[[_Standards/WikiData/WD~semiology,957366]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~interdisciplinary_program,84771819]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_program,84771819]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Semiotics,6870266]]'
 practiced_by: '[[_Standards/WikiData/WD~semiotician,16402907]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_semiotics,17004652]]'
@@ -25,8 +76,109 @@ Wikimedia_import_URL: https://en.wikipedia.org/wiki/Semiotics
 Provenio_UUID: 116a111b-bdb2-471e-8c7f-62ef198e5286
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SEMIOTIKA.html
 Commons_category: Semiotics
+dv_has_:
+  name_:
+    af: semiotiek
+    an: semiotica
+    ar: علم العلامات
+    ast: semiótica
+    az: semiotika
+    azb: گؤسترگهبیلیم
+    be: семіётыка
+    be-tarask: сэміётыка
+    bg: семиотика
+    bn: সংকেতবিজ্ঞান
+    bs: semiotika
+    ca: semiòtica
+    cs: sémiotika
+    cv: семиотика
+    cy: semioteg
+    da: semiotik
+    de: Semiotik
+    el: σημειωτική
+    en: semiotics
+    eo: semiotiko
+    es: semiótica
+    et: semiootika
+    eu: semiotika
+    fa: نشانهشناسی
+    fi: semiotiikka
+    fr: sémiotique
+    ga: séimeolaíocht
+    gl: semiótica
+    he: סמיוטיקה
+    hi: संकेतविज्ञान
+    hr: semiotika
+    hu: szemiotika
+    hy: նշանագիտություն
+    ia: semiotica
+    id: semiotika
+    io: semiotiko
+    is: táknfræði
+    it: semiotica
+    ja: 記号学
+    ka: სემიოტიკა
+    kk: семиотика
+    kn: ಸಂಜ್ಞಾಶಾಸ್ತ್ರ
+    ko: 기호학
+    ky: семиотика
+    la: semiotica
+    lb: Semiotik
+    lfn: semiotica
+    li: semiotiek
+    lt: semiotika
+    lv: semiotika
+    mk: семиотика
+    ml: ചിഹ്നശാസ്ത്രം
+    ms: semiotik
+    mwl: semiótica
+    nan: kì-hō-lūn
+    nb: semiotikk
+    ne: लक्षण-विज्ञान
+    nl: semiotiek
+    nn: semiotikk
+    nqo: ߕߐ߰ߡߊ߬ߛߙߋ߬ߟߐ߲߬ߘߐ߬ߦߊ
+    oc: semiotica
+    pa: ਚਿਹਨ-ਵਿਗਿਆਨ
+    pl: semiotyka
+    pms: semiòtica
+    ps: سیمبول پوهنه
+    pt: semiótica
+    pt-br: semiótica
+    ro: semiotică
+    ru: семиотика
+    rue: семиотика
+    sah: Семиотика
+    scn: semiotica
+    sco: semiotics
+    se: semiotihkka
+    sh: semiotika
+    sk: semiotika
+    sl: semiotika
+    smn: semiotiik
+    sms: semiotikk
+    sq: semiotikë
+    sr: семиотика
+    sv: semiotik
+    ta: குறியியல்
+    te: సంకేతాధ్యయన శాస్త్రం
+    th: สัญศาสตร์
+    tl: semiotika
+    tr: gösterge bilimi
+    tt: семиотика
+    uk: семіотика
+    uz: semiotika
+    vec: semiòtega
+    vi: ký hiệu học
+    vro: semiootiga
+    war: semiotika
+    wuu: 符号学
+    yue: 符號學
+    zh: 符號學
+    zh-hans: 符号学
+    zh-hant: 符號學
+    zh-tw: 符號學
 ---
-
 # [[Semiotics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Semiotics,60195|WD~Semiotics,60195]] 

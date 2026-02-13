@@ -1,23 +1,172 @@
 ---
 aliases:
-  - Words
-  - Wort
-  - Worte
-  - Word
+- awal
+- baakoe
+- balikas
+- beseda
+- báhko
+- bòyn
+- cuvânt
+- dictio
+- erey
+- facal
+- fjalë
+- focal
+- gair
+- ger
+- Hata
+- hitz
+- Hogbe
+- igama
+- kalma
+- kata
+- Kataga
+- kecap
+- kelma
+- kruna
+- kupu
+- lau
+- mashoko
+- mo
+- mot
+- mò
+- neno
+- nimi
+- nkómbó
+- Oca'
+- ord
+- orð
+- palabra
+- palavra
+- pallabra
+- palora
+- parabra
+- paraula
+- parol
+- parola
+- parolla
+- paroła
+- paròla
+- perkataan
+- peyv
+- pulong
+- pütchi
+- riječ
+- rima
+- sabd
+- salita
+- sana
+- slovo
+- soʻz
+- szó
+- sátni
+- sääni
+- sääʹnn
+- sóz
+- sõna
+- söz
+- sözcük
+- słowo
+- tan-gí
+- tembung
+- teny
+- tinagâ
+- từ
+- vecik
+- veivosa
+- vorto
+- vöd
+- vārds
+- waord
+- Woat
+- wod
+- woord
+- Woort
+- Woot
+- Word
+- Words
+- Wort
+- Worte
+- Wuert
+- wurd
+- wyraz
+- wyrŏz
+- ñe'ẽ
+- òrò
+- žodis
+- žuodis
+- λέξη
+- λέξις
+- вал
+- валсь
+- гаф
+- дзырд
+- дош
+- дума
+- збор
+- калима
+- кыл
+- мут
+- РагӀи
+- реч
+- сăмах
+- сёз
+- са̄ннҍ
+- слова
+- слово
+- сүз
+- сөз
+- үгэ
+- һүҙ
+- өс
+- բառ
+- ווארט
+- מילה
+- سؤزجوک
+- كلمة
+- لفظ
+- واژه
+- وشە
+- ڤرکاتاءن
+- کلمه
+- खंग्वः
+- शब्द
+- शव्द
+- শব্দ
+- ਸ਼ਬਦ
+- ଶବ୍ଦ
+- சொல்
+- తెలుగు పదాలు
+- വാക്ക്
+- คำ
+- ຄຳ
+- სიტყვა
+- ቃል
+- ᎧᏁᎢᏍᏗ
+- ᐅᖃᐅᓯᖅ
+- ᱟ.ᱲᱟ.
+- 单词
+- 字
+- 字詞
+- 詞
+- 語
+- 词
+- ꯋꯥꯍꯩ
+- 낱말
 has_id_wikidata: Q8171
 Commons_category: Words
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from:
-  - '[[_Standards/WikiData/WD~lexeme,111352]]'
-  - '[[_Standards/WikiData/WD~phonological_word,4117835]]'
-  - '[[_Standards/WikiData/WD~Pulong,11089918]]'
-  - '[[_Standards/WikiData/WD~orthographic_word,115863220]]'
-  - '[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]'
+- '[[_Standards/WikiData/WD~lexeme,111352]]'
+- '[[_Standards/WikiData/WD~phonological_word,4117835]]'
+- '[[_Standards/WikiData/WD~Pulong,11089918]]'
+- '[[_Standards/WikiData/WD~orthographic_word,115863220]]'
+- '[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]'
 equivalent_class: https://schema.org/DefinedTerm
 has_characteristic: '[[_Standards/WikiData/WD~morphosyntactic_word,115863229]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~word_stem,210523]]'
-  - '[[_Standards/WikiData/WD~syllable,8188]]'
+- '[[_Standards/WikiData/WD~word_stem,210523]]'
+- '[[_Standards/WikiData/WD~syllable,8188]]'
 Iconclass_notation: 49K321
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Codex%20claromontanus%20latin%20%28The%20S.S.%20Teacher%27s%20Edition-The%20Holy%20Bible%20-%20Plate%20XXVIII%29.jpg
 Krugosvet_article: gumanitarnye_nauki/lingvistika/SLOVO.html
@@ -27,10 +176,209 @@ opposite_of: '[[_Standards/WikiData/WD~non-word,1553551]]'
 part_of: '[[_Standards/WikiData/WD~phraseme,5551966]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Sacha%20B.%20%28BiblioCanet66%29-mot.wav
 subclass_of:
-  - '[[_Standards/WikiData/WD~lexical_item,2944660]]'
-  - '[[_Standards/WikiData/WD~word_or_phrase,115372263]]'
+- '[[_Standards/WikiData/WD~lexical_item,2944660]]'
+- '[[_Standards/WikiData/WD~word_or_phrase,115372263]]'
+dv_has_:
+  name_:
+    aeb-arab: كلمة
+    af: woord
+    am: ቃል
+    an: palabra
+    ar: كلمة
+    ary: كلمة
+    as: শব্দ
+    ast: pallabra
+    av: РагӀи
+    az: söz
+    azb: سؤزجوک
+    ba: һүҙ
+    ban: kruna
+    bar: Woat
+    bcl: Kataga
+    be: слова
+    be-tarask: слова
+    bg: дума
+    bho: शब्द
+    bn: শব্দ
+    br: ger
+    bs: riječ
+    btm: Hata
+    bxr: үгэ
+    ca: paraula
+    ce: дош
+    ceb: pulong
+    chr: ᎧᏁᎢᏍᏗ
+    ckb: وشە
+    crh: söz
+    cs: slovo
+    cu: слово
+    cv: сăмах
+    cy: gair
+    da: ord
+    de: Wort
+    el: λέξη
+    en: word
+    eo: vorto
+    es: palabra
+    et: sõna
+    eu: hitz
+    ext: parabra
+    fa: واژه
+    fi: sana
+    fj: veivosa
+    fo: orð
+    fr: mot
+    frr: wurd
+    fy: wurd
+    ga: focal
+    gan: 詞
+    gcr: mò
+    gd: facal
+    gl: palabra
+    gn: ñe'ẽ
+    grc: λέξις
+    gsw: Wort
+    guc: pütchi
+    guw: Hogbe
+    ha: kalma
+    he: מילה
+    hi: शब्द
+    hif: sabd
+    hr: riječ
+    hsb: słowo
+    ht: mo
+    hu: szó
+    hy: բառ
+    hyw: բառ
+    ia: parola
+    id: kata
+    ie: parol
+    ilo: balikas
+    inh: дош
+    io: vorto
+    is: orð
+    it: parola
+    iu: ᐅᖃᐅᓯᖅ
+    ja: 語
+    jam: wod
+    jv: tembung
+    ka: სიტყვა
+    kaa: sóz
+    kab: awal
+    kk: сөз
+    ko: 낱말
+    krc: сёз
+    krj: tinagâ
+    ksh: Woot
+    ku: peyv
+    ku-latn: peyv
+    kw: ger
+    ky: сөз
+    la: dictio
+    lb: Wuert
+    lez: гаф
+    lfn: parola
+    li: waord
+    lld: parola
+    lmo: parolla
+    ln: nkómbó
+    lo: ຄຳ
+    lt: žodis
+    lv: vārds
+    lzh: 字
+    mad: Oca'
+    mcn: bòyn
+    mdf: валсь
+    mg: teny
+    mhr: мут
+    mi: kupu
+    mk: збор
+    ml: വാക്ക്
+    mni: ꯋꯥꯍꯩ
+    mr: शब्द
+    ms: perkataan
+    ms-arab: ڤرکاتاءن
+    mt: kelma
+    mwl: palabra
+    myv: вал
+    nan: tan-gí
+    nb: ord
+    nds: Woort
+    ne: शव्द
+    new: खंग्वः
+    nl: woord
+    nn: ord
+    oc: mot
+    or: ଶବ୍ଦ
+    os: дзырд
+    pa: ਸ਼ਬਦ
+    pag: salita
+    pap: palabra
+    pcd: mot
+    pl: wyraz
+    pms: paròla
+    pnb: لفظ
+    ps: کلمه
+    pt: palavra
+    pt-br: palavra
+    pwn: vecik
+    qu: rima
+    rmf: lau
+    ro: cuvânt
+    ru: слово
+    rue: слово
+    sah: өс
+    sat: ᱟ.ᱲᱟ.
+    scn: palora
+    sd: لفظ
+    se: sátni
+    sgs: žuodis
+    sh: riječ
+    sjd: са̄ннҍ
+    sk: slovo
+    sl: beseda
+    sma: baakoe
+    smj: báhko
+    smn: sääni
+    sms: sääʹnn
+    sn: mashoko
+    so: erey
+    sq: fjalë
+    sr: реч
+    sr-ec: реч
+    su: kecap
+    sv: ord
+    sw: neno
+    szl: wyrŏz
+    ta: சொல்
+    te: తెలుగు పదాలు
+    tg: калима
+    tg-cyrl: калима
+    th: คำ
+    tl: salita
+    tok: nimi
+    tr: sözcük
+    tt: сүз
+    tt-cyrl: сүз
+    udm: кыл
+    uk: слово
+    ur: لفظ
+    uz: soʻz
+    vec: paroła
+    vep: sana
+    vi: từ
+    vo: vöd
+    wa: mot
+    war: pulong
+    wuu: 单词
+    yi: ווארט
+    yo: òrò
+    yue: 字詞
+    zh: 詞
+    zh-hans: 词
+    zh-hant: 詞
+    zu: igama
 ---
-
 # [[Word]] 
 
 #is_/same_as :: [[../WikiData/WD~Word,8171|WD~Word,8171]] 

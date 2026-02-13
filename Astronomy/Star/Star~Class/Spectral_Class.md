@@ -1,37 +1,167 @@
 ---
 aliases:
+- aicme speictreach
+- Classis spectralis
+- cпектральный класс
+- dosbarth sbectrol
+- Espektro mota
+- Klasifikasi bintang
+- Kundi la spektra
+- Pag-uuring pambituin
+- Pengelasan najam
+- phân loại sao
+- spectraalklasse
+- spectral class
+- Spektra klase
+- Spektraalklas
+- Spektralklass
+- Spektralklasse
+- Spektralna klasa
+- spektralni razred
+- spektraltyp
+- spektriklass
+- Spektriluokka
+- spektroklaso
+- spektrálny typ
+- spektrální typ
+- Tipe espectrau
+- tipo espectral
+- tipo spettrale
+- Tipu espectral
+- tipus espectral
+- typ widmowy
+- type spectral
+- Ulduz təsnifatı
+- yıldız sınıflandırma
+- šviesio klasė
+- Φασματικοί τύποι αστέρων
+- спектрал сыйныф
+- Спектрален клас
+- спектрална класа
+- спектраль сыйныф
+- спектральний клас
+- спектральныя класы зорак
+- спэктральная кляса
+- Սպեկտրալ դասակարգում
+- סוג ספקטרלי
+- تصنيف الطيف
+- ردهبندی ستارگان
+- तारों की श्रेणियाँ
+- বর্ণালীগত শ্রেণী
+- ਤਾਰਿਆਂ ਦੀਆਂ ਸ਼੍ਰੇਣੀਆਂ
+- விண்மீன் வகைப்பாடு
+- നക്ഷത്രങ്ങളുടെ സ്പെക്ട്രൽ വർഗ്ഗീകരണം
+- การจัดประเภทดาวฤกษ์
+- სპექტრული კლასი
+- スペクトル分類
+- 光譜類型
+- 恆星光譜
+- 恒星光谱
+- 항성분류
 has_id_wikidata: Q179600
-instance_of: "[[_Standards/WikiData/WD~property,937228]]"
+instance_of: '[[_Standards/WikiData/WD~property,937228]]'
 different_from:
-  - "[[_Standards/WikiData/WD~asteroid_spectral_type,1750705]]"
-  - "[[_Standards/WikiData/WD~stellar_classification,25377588]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~stellar_classification,25377588]]"
-subclass_of: "[[_Standards/WikiData/WD~stellar_classification,25377588]]"
+- '[[_Standards/WikiData/WD~asteroid_spectral_type,1750705]]'
+- '[[_Standards/WikiData/WD~stellar_classification,25377588]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~stellar_classification,25377588]]'
+subclass_of: '[[_Standards/WikiData/WD~stellar_classification,25377588]]'
 Wikidata_property: spectral class
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morgan-Keenan%20spectral%20classification.svg
 Commons_category: Spectral types
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]]"
+  - '[[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]]'
+  - '[[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]]"
-  - "[[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]]"
+- '[[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/Spectral_Class|Spectral_Class]]'
+- '[[/_public/Astronomy/Star/Star~Class/Spectral_Class.public|Spectral_Class.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/Spectral_Class.internal|Spectral_Class.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/Spectral_Class.protect|Spectral_Class.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/Spectral_Class.private|Spectral_Class.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/Spectral_Class.personal|Spectral_Class.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/Spectral_Class.secret|Spectral_Class.secret]]'
+dv_has_:
+  name_:
+    ar: تصنيف الطيف
+    ast: Tipu espectral
+    az: Ulduz təsnifatı
+    be: спектральныя класы зорак
+    be-tarask: спэктральная кляса
+    bg: Спектрален клас
+    bn: বর্ণালীগত শ্রেণী
+    ca: tipus espectral
+    cs: spektrální typ
+    cy: dosbarth sbectrol
+    da: Spektralklasse
+    de: Spektralklasse
+    el: Φασματικοί τύποι αστέρων
+    en: spectral class
+    eo: spektroklaso
+    es: tipo espectral
+    et: spektriklass
+    eu: Espektro mota
+    fa: ردهبندی ستارگان
+    fi: Spektriluokka
+    fr: type spectral
+    frr: Spektraalklas
+    ga: aicme speictreach
+    gl: tipo espectral
+    he: סוג ספקטרלי
+    hi: तारों की श्रेणियाँ
+    hr: Spektralni razred
+    hy: Սպեկտրալ դասակարգում
+    id: Klasifikasi bintang
+    it: tipo spettrale
+    ja: スペクトル分類
+    ka: სპექტრული კლასი
+    ko: 항성분류
+    la: Classis spectralis
+    lb: Spektralklass
+    lt: šviesio klasė
+    lv: Spektra klase
+    mk: спектрална класа
+    ml: നക്ഷത്രങ്ങളുടെ സ്പെക്ട്രൽ വർഗ്ഗീകരണം
+    ms: Pengelasan najam
+    nb: spektralklasse
+    nl: spectraalklasse
+    nn: spektralklasse
+    oc: Tipe espectrau
+    pa: ਤਾਰਿਆਂ ਦੀਆਂ ਸ਼੍ਰੇਣੀਆਂ
+    pl: typ widmowy
+    pt: tipo espectral
+    ru: cпектральный класс
+    sh: Spektralna klasa
+    sk: spektrálny typ
+    sl: spektralni razred
+    sr: спектрална класа
+    sv: spektraltyp
+    sw: Kundi la spektra
+    ta: விண்மீன் வகைப்பாடு
+    th: การจัดประเภทดาวฤกษ์
+    tl: Pag-uuring pambituin
+    tr: yıldız sınıflandırma
+    tt: спектраль сыйныф
+    tt-cyrl: спектрал сыйныф
+    uk: спектральний клас
+    vi: phân loại sao
+    wuu: 恒星光谱
+    yue: 光譜類型
+    zh: 恒星光谱
+    zh-cn: 恒星光谱
+    zh-hans: 恒星光谱
+    zh-hant: 恆星光譜
+    zh-hk: 恆星光譜
+    zh-sg: 恒星光谱
+    zh-tw: 恆星光譜
 ---
-
 # [[Spectral_Class]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]  

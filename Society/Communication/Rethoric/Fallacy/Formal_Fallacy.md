@@ -1,15 +1,67 @@
 ---
 aliases:
-  - formal fallacy
+- Błąd formalny
+- eroare formală
+- fal·làcia formal
+- falácia formal
+- felslut
+- formal fallacy
+- formala logika trompo
+- formele drogreden
+- formell tankefeil
+- kesesatan formal
+- Məntiqi səfsətə
+- Non sequitur
+- Формална логическа грешка
+- формална логичка грешка
+- формальна помилки
+- כשל צורני
+- مغالطة صوريَّة
+- مغالطه ساختاری
+- আনুষ্ঠানিক হেত্বাভাস
+- 形式謬誤
+- 形式謬論
+- 形式谬误
+- 誤謬#形式的誤謬
+- 오류론
 has_id_wikidata: Q962165
-subclass_of: "[[_Standards/WikiData/WD~fallacy,186150]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~non_sequitur,825737]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Formal_fallacies,7478515]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+subclass_of: '[[_Standards/WikiData/WD~fallacy,186150]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~non_sequitur,825737]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Formal_fallacies,7478515]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Logical%20Fallacies%20Fallacy%20Icon.png
 Commons_category: Formal fallacies
+dv_has_:
+  name_:
+    ar: مغالطة صوريَّة
+    az: Məntiqi səfsətə
+    bg: Формална логическа грешка
+    bn: আনুষ্ঠানিক হেত্বাভাস
+    ca: fal·làcia formal
+    de: Non sequitur
+    en: formal fallacy
+    eo: formala logika trompo
+    fa: مغالطه ساختاری
+    he: כשל צורני
+    id: kesesatan formal
+    it: non sequitur
+    ja: 誤謬#形式的誤謬
+    ko: 오류론
+    mk: формална логичка грешка
+    nb: formell tankefeil
+    nl: formele drogreden
+    pfl: Non sequitur
+    pl: Błąd formalny
+    pt: falácia formal
+    ro: eroare formală
+    sv: felslut
+    uk: формальна помилки
+    yue: 形式謬論
+    zh: 形式謬誤
+    zh-hans: 形式谬误
+    zh-hant: 形式謬誤
+    zh-hk: 形式謬誤
 ---
-
 # [[Formal_Fallacy]] 
 
 #is_/same_as :: [[WD~Formal_Fallacy,962165]] 

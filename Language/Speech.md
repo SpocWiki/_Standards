@@ -1,33 +1,126 @@
 ---
 aliases:
-  - Sprechen
-  - Speech
+- beszéd
+- biantara
+- bòynà
+- caint
+- fala
+- fala encadeada
+- fjalimi
+- giân-gí
+- glare
+- govor
+- gunem
+- habla
+- hadal
+- intetho
+- konuşma
+- kura kōrero
+- kõne
+- mintzamen
+- mowa
+- Ngabaosang
+- Ngerenwa
+- nitq
+- nutq
+- pagsasalita
+- pagtaram
+- palora
+- paraula
+- parla
+- parlare
+- parolado
+- parole
+- parolo
+- pawòl
+- pertuturan
+- peyivîn
+- puhe
+- reč
+- rujené
+- runa
+- rěčenje
+- Snacken
+- Speech
+- Spraak
+- Sprechen
+- tal
+- tale
+- taħdit
+- vorbire
+- vosa
+- wicara
+- yɛltɔɣa
+- řeč
+- šneka
+- λαλασία
+- ομιλία
+- говор
+- говорение
+- къамаьл
+- маўленне
+- маўленьне
+- мовлення
+- ныхас
+- пуплев
+- реч
+- сухан
+- сөйлеу
+- сөйләшү
+- Яриа
+- խոսք
+- דיבור
+- רעדן
+- باݨی
+- تقریر
+- حديث
+- قسە
+- كلام
+- وینا (تقرير)
+- ڤرتوتورن
+- گفتار
+- न्ववायेज्या
+- बोलना
+- ਬਾਣੀ
+- બોલવું
+- பேச்சு
+- ప్రసంగం
+- ಮಾತು
+- การพูด
+- მეტყველება
+- ᱨᱚᱲ
+- 話事
+- 說話
+- 講嘢
+- 讲言语
+- 音声
+- 랑그와 파롤
 has_id_wikidata: Q52946
 subclass_of:
-  - "[[_Standards/WikiData/WD~human_communication,1066689]]"
-  - "[[_Standards/WikiData/WD~second_signal_system,4127956]]"
-  - "[[_Standards/WikiData/WD~sound,11461]]"
-has_effect: "[[_Standards/WikiData/WD~spoken_language,1322198]]"
+- '[[_Standards/WikiData/WD~human_communication,1066689]]'
+- '[[_Standards/WikiData/WD~second_signal_system,4127956]]'
+- '[[_Standards/WikiData/WD~sound,11461]]'
+has_effect: '[[_Standards/WikiData/WD~spoken_language,1322198]]'
 uses:
-  - "[[_Standards/WikiData/WD~movement,3326454]]"
-  - "[[_Standards/WikiData/WD~human_voice,7390]]"
-  - "[[_Standards/WikiData/WD~language,34770]]"
+- '[[_Standards/WikiData/WD~movement,3326454]]'
+- '[[_Standards/WikiData/WD~human_voice,7390]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
 fabrication_method:
-  - "[[_Standards/WikiData/WD~movement,3326454]]"
-  - "[[_Standards/WikiData/WD~vibration,3695508]]"
-instance_of: "[[_Standards/WikiData/WD~action,4026292]]"
+- '[[_Standards/WikiData/WD~movement,3326454]]'
+- '[[_Standards/WikiData/WD~vibration,3695508]]'
+instance_of: '[[_Standards/WikiData/WD~action,4026292]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~parole,10485156]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~talking,20680322]]"
-has_part_s_: "[[_Standards/WikiData/WD~speech_act,25481968]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~parole,10485156]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~talking,20680322]]'
+has_part_s_: '[[_Standards/WikiData/WD~speech_act,25481968]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~to_say,26254018]]"
-  - "[[_Standards/WikiData/WD~language,315]]"
-facet_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
-has_use: "[[_Standards/WikiData/WD~communication,11024]]"
-part_of: "[[_Standards/WikiData/WD~communication,11024]]"
+- '[[_Standards/WikiData/WD~to_say,26254018]]'
+- '[[_Standards/WikiData/WD~language,315]]'
+facet_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
+has_use: '[[_Standards/WikiData/WD~communication,11024]]'
+part_of: '[[_Standards/WikiData/WD~communication,11024]]'
 OmegaWiki_Defined_Meaning: 4834
 Commons_category: Speech
 Archive_of_Our_Own_tag: Talking
@@ -35,16 +128,128 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q315%20noun%2036122%20c
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Real-time%20MRI%20-%20Speaking%20%28English%29.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ambassadors%20training%2013.JPG
 UMLS_CUI:
-  - C0037817
-  - C0392359
+- C0037817
+- C0392359
 MeSH_tree_code:
-  - F01.145.209.908.677
-  - G11.561.812
-  - L01.559.423.676
+- F01.145.209.908.677
+- G11.561.812
+- L01.559.423.676
 Gujarati_Vishwakosh_entry: વાક્-speech-અને-તેના-વિકારો
-Unicode_character: 🗣
+Unicode_character: "\U0001F5E3"
+dv_has_:
+  name_:
+    af: spraak
+    an: parla
+    ar: حديث
+    arz: كلام
+    az: nitq
+    ban: Ngabaosang
+    bcl: pagtaram
+    be: маўленне
+    be-tarask: маўленьне
+    bg: реч
+    bs: govor
+    ca: parla
+    ckb: قسە
+    cs: řeč
+    cv: пуплев
+    da: tale
+    dag: yɛltɔɣa
+    de: Sprechen
+    el: ομιλία
+    en: speech
+    eo: parolo
+    es: habla
+    et: kõne
+    eu: mintzamen
+    fa: گفتار
+    fi: puhe
+    fj: vosa
+    fr: parole
+    fy: Spraak
+    ga: caint
+    gan: 話事
+    gl: fala
+    gu: બોલવું
+    gv: glare
+    he: דיבור
+    hi: बोलना
+    hr: govor
+    hsb: rěčenje
+    ht: pawòl
+    hu: beszéd
+    hy: խոսք
+    id: wicara
+    inh: къамаьл
+    io: parolado
+    is: tal
+    it: parlare
+    ja: 音声
+    jv: gunem
+    ka: მეტყველება
+    ki: Ngerenwa
+    kk: сөйлеу
+    kn: ಮಾತು
+    ko: 랑그와 파롤
+    ku: peyivîn
+    lld: rujené
+    lt: šneka
+    lv: runa
+    mcn: bòynà
+    mi: kura kōrero
+    mk: говор
+    mn: Яриа
+    ms: pertuturan
+    ms-arab: ڤرتوتورن
+    mt: taħdit
+    nan: giân-gí
+    nb: tale
+    nds: Snacken
+    new: न्ववायेज्या
+    nl: spraak
+    nn: tale
+    oc: paraula
+    os: ныхас
+    pa: ਬਾਣੀ
+    pl: mowa
+    pnb: باݨی
+    pnt: λαλασία
+    ps: وینا (تقرير)
+    pt: fala
+    pt-br: fala encadeada
+    ro: vorbire
+    ru: говорение
+    sat: ᱨᱚᱲ
+    scn: palora
+    sco: speech
+    sh: govor
+    sk: reč
+    sl: govor
+    so: hadal
+    sq: fjalimi
+    sr: говор
+    sr-ec: говор
+    su: biantara
+    sv: tal
+    ta: பேச்சு
+    te: ప్రసంగం
+    tg: сухан
+    th: การพูด
+    tl: pagsasalita
+    tr: konuşma
+    tt: сөйләшү
+    tt-cyrl: сөйләшү
+    uk: мовлення
+    ur: تقریر
+    uz: nutq
+    vi: parole
+    wuu: 讲言语
+    xh: intetho
+    yi: רעדן
+    yue: 講嘢
+    zh: 說話
+    zh-hant: 說話
 ---
-
 # [[Speech]] 🗣 
 
 

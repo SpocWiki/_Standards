@@ -1,3 +1,27 @@
+---
+has_id_wikidata: Q3406428
+dv_has_:
+  name_:
+    ar: بروسيديس
+    de: Procidis
+    en: Procidis
+    es: Procidis
+    fi: Procidis
+    fr: Procidis
+    he: פרוסידיס
+    it: Procidis
+    ja: プロシディス
+    nl: Procidis
+    pl: Procidis
+    pt: Procidis
+    ro: Procidis
+    sv: Procidis
+aliases:
+- Procidis
+- פרוסידיס
+- بروسيديس
+- プロシディス
+---
 #has_/created:: [[Once_upon_a_Time(animations)]] 
 
 ## #has_/text_of_/abstract 

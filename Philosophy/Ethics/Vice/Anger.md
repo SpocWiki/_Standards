@@ -1,12 +1,246 @@
 ---
 aliases:
-  - Wrath
-  - Wut
-  - Rage
-  - frenzy 
-  - fury
+- Abbili
+- Abufuo
+- anger
+- Angga
+- Arlìa
+- ashıw
+- A̱fi̱ri̱m
+- bes
+- Buanegezh
+- carraxe
+- colère
+- Cĕ̤ng
+- dicter
+- dusmas
+- enuig
+- fearg
+- frenzy
+- fury
+- Fushi
+- gniew
+- gniéw
+- Gʻazab
+- harag
+- haserre
+- Hasha
+- hasira
+- Hirs
+- hnev
+- hněv
+- hněw
+- Hêrs
+- Inati
+- Intfukutselo
+- ira
+- Iraco
+- jeza
+- Kaanggotan
+- Kemarahan
+- Khí-pháiⁿ-bīn
+- kiciwasiwin
+- kolero
+- Kolèr
+- Kòlè
+- kızgınlık
+- Lilkens
+- Ljutnja
+- marah
+- mânie
+- Ndatheiq
+- Nesu
+- Nkándá
+- Phiñakuy
+- Pochy
+- Poot
+- Pot-at
+- pyktis
+- Rage
+- raiva
+- reiði
+- Roxura
+- Rábia
+- sinne
+- suuttumus
+- Tshinji
+- tức giận
+- Viha
+- vrede
+- Vukarhi
+- Woede
+- Wrath
+- Wut
+- Xanaaq
+- Zlastis
+- Zorn
+- θυμός
+- μῆνις
+- Ашушаңдық
+- бес
+- гнів
+- Гнїв
+- гнеў
+- гнев
+- Гняв
+- Тарăху
+- Уур уцаар
+- Ғазаб
+- כעס
+- צארן
+- تووڕەیی
+- خشم
+- شَرارَتھ
+- غصہ
+- غضب
+- ߡߐߣߍ
+- क्रोध
+- तं
+- राग
+- ক্রোধ
+- ਗ਼ੁੱਸਾ
+- கோபம்
+- క్రోధం
+- ಕೋಪ
+- ความโกรธ
+- ཁོང་ཁྲོ།
+- ᠵᡳᠯᡳ
+- ᱨᱟᱹᱜᱤ
+- 嬲
+- 怒り
+- 愤怒
+- 憤怒
+- 著氣
+- 노여움
+has_id_wikidata: Q79871
+dv_has_:
+  name_:
+    af: Woede
+    ak: Abufuo
+    ar: غضب
+    ast: Roxura
+    atj: kiciwasiwin
+    az: Hirs
+    bcl: Kaanggotan
+    be: гнеў
+    be-tarask: гнеў
+    bg: Гняв
+    bn: ক্রোধ
+    bo: ཁོང་ཁྲོ།
+    br: Buanegezh
+    bs: Ljutnja
+    ca: enuig
+    cdo: Cĕ̤ng
+    ckb: تووڕەیی
+    cs: hněv
+    csb: gniéw
+    cv: Тарăху
+    cy: dicter
+    da: vrede
+    de: Zorn
+    el: θυμός
+    eml: Arlìa
+    en: anger
+    en-gb: anger
+    eo: kolero
+    es: ira
+    et: Viha
+    eu: haserre
+    fa: خشم
+    fi: suuttumus
+    fr: colère
+    fy: Lilkens
+    ga: fearg
+    gan: 著氣
+    gcr: Kolèr
+    gl: carraxe
+    gn: Pochy
+    grc: μῆνις
+    ha: Fushi
+    hak: Pot-at
+    he: כעס
+    hi: क्रोध
+    hr: ljutnja
+    hsb: hněw
+    ht: Kòlè
+    hu: harag
+    hy: гнев
+    id: marah
+    io: Iraco
+    is: reiði
+    it: ira
+    ja: 怒り
+    jam: Angga
+    jv: Nesu
+    kaa: ashıw
+    kcg: A̱fi̱ri̱m
+    kk: Ашушаңдық
+    kn: ಕೋಪ
+    ko: 노여움
+    ks: شَرارَتھ
+    ku: Hêrs
+    la: ira
+    lmo: raiva
+    ln: Nkándá
+    lt: pyktis
+    lua: Tshinji
+    lv: dusmas
+    mk: бес
+    mn: Уур уцаар
+    mnc: ᠵᡳᠯᡳ
+    mr: राग
+    ms: Kemarahan
+    mwl: Rábia
+    nan: Khí-pháiⁿ-bīn
+    nb: sinne
+    ne: क्रोध
+    new: तं
+    nl: woede
+    nn: sinne
+    nqo: ߡߐߣߍ
+    pa: ਗ਼ੁੱਸਾ
+    pl: gniew
+    pnb: غصہ
+    pt: ira
+    qu: Phiñakuy
+    ro: mânie
+    ru: гнев
+    rue: Гнїв
+    sat: ᱨᱟᱹᱜᱤ
+    scn: Abbili
+    sgs: Zlastis
+    sh: Ljutnja
+    sk: hnev
+    sl: jeza
+    sn: Hasha
+    so: Xanaaq
+    sq: Inati
+    sr: бес
+    sr-ec: бес
+    sr-el: bes
+    ss: Intfukutselo
+    sv: vrede
+    sw: hasira
+    ta: கோபம்
+    te: క్రోధం
+    tg: Ғазаб
+    th: ความโกรธ
+    tl: Poot
+    tr: kızgınlık
+    ts: Vukarhi
+    uk: гнів
+    ur: غصہ
+    uz: Gʻazab
+    vi: tức giận
+    wuu: 愤怒
+    yi: צארן
+    yue: 嬲
+    za: Ndatheiq
+    zh: 憤怒
+    zh-cn: 愤怒
+    zh-hans: 愤怒
+    zh-hant: 憤怒
 ---
-
 # [[Anger]] 
 
 

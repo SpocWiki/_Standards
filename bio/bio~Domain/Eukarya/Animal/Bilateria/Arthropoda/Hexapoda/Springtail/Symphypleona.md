@@ -1,9 +1,60 @@
 ---
 aliases:
-  - Symphypleona
+- kulespretthaler
+- Symphypleona
+- villásgömböcök
+- Zrosłopierścieniowe
+- Łeʼesoołii nímasígíí
+- قافزات الذيل الكروية
+- قافزات الذيل الكرويه
+- 愈腹䖴目
 title: Symphypleona
+has_id_wikidata: Q915691
+dv_has_:
+  name_:
+    an: Symphypleona
+    ar: قافزات الذيل الكروية
+    arz: قافزات الذيل الكرويه
+    ast: Symphypleona
+    bg: Symphypleona
+    ca: Symphypleona
+    ceb: Symphypleona
+    da: Symphypleona
+    de: Symphypleona
+    en: Symphypleona
+    eo: Symphypleona
+    es: Symphypleona
+    eu: Symphypleona
+    ext: Symphypleona
+    fi: Symphypleona
+    fr: Symphypleona
+    ga: Symphypleona
+    gl: Symphypleona
+    hu: villásgömböcök
+    ia: Symphypleona
+    ie: Symphypleona
+    io: Symphypleona
+    it: Symphypleona
+    la: Symphypleona
+    mul: Symphypleona
+    nb: kulespretthaler
+    nl: Symphypleona
+    nn: Symphypleona
+    nv: Łeʼesoołii nímasígíí
+    oc: Symphypleona
+    pl: Zrosłopierścieniowe
+    pt: Symphypleona
+    pt-br: Symphypleona
+    ro: Symphypleona
+    ru: Symphypleona
+    sq: Symphypleona
+    sv: Symphypleona
+    uk: Symphypleona
+    vi: Symphypleona
+    vo: Symphypleona
+    war: Symphypleona
+    zh: 愈腹䖴目
 ---
-
 # [[Symphypleona]] 
 
 ![Dicyrtoma fusca](Symphypleona/Dicyrtoma_fusca.jpg) 

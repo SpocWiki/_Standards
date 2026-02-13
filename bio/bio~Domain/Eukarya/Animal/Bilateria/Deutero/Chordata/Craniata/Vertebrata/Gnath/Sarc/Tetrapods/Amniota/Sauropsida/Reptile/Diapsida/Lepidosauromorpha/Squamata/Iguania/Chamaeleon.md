@@ -1,30 +1,129 @@
 ---
 aliases:
-  - Chamäleon
-  - Chameleon
-  - Chameleons
-  - Chamaeleon
-  - kameleoner
-  - kameleoni
+- Abosomakoterɛ
+- Aganma
+- agànma
+- anguy
+- a̱ghwaghwaak
+- belilik
+- Bukalemun
+- Buqələmunkimilər
+- caimileon
+- Camaleon
+- Camaleons
+- Camaleão
+- Camaleón
+- Cameleon
+- Chamaeleon
+- Chamaeleonidae
+- Chameleon
+- Chameleonai
+- chameleonovití
+- Chameleons
+- Chameleónovité
+- Chamäleon
+- Chamäleonen
+- Chamäleons
+- Gumachuɣu
+- gumatia
+- Hameleoni
+- hawainiya
+- Hunyango
+- Họ Tắc kè hoa
+- Jirjiroole
+- Kameeleon
+- Kameeleonlased
+- Kameleoi
+- kameleon
+- kameleonar
+- kameleoner
+- Kameleong
+- kameleoni
+- kameleono
+- kameleonowate
+- kameleons
+- kameleonter
+- kameleontit
+- kameljón
+- Kamelónir
+- Kamæleon
+- kaméleonfélék
+- Kim-chîⁿ-ku
+- Kinyonga
+- kpɔku
+- Leòmhann-làir
+- Londok
+- Longónya
+- Madfall symudliw
+- margîse
+- Naʼashǫ́ʼii łahgo ánééhé
+- nkube
+- Pien-set-liùng
+- Rwavhi
+- Sumpah-sumpah
+- tarôndro
+- tata
+- Uruwumvu
+- verkleurmannetjie
+- Xameleonlar
+- ĥameleono
+- Ŋanykudɔt
+- χαμαιλέοντας
+- босхувцарг
+- Бӯқаламун
+- Камелеон
+- Хамелеон
+- Хамелеондор
+- хамелеони
+- хамелеонови
+- хамелеонсем
+- хамелеоны
+- хамэлеон
+- Քամելեոն
+- זיקיתיים
+- آفتابپرست
+- حرباء
+- حربائيات
+- خامېلېئون
+- ڕۆژپەرست
+- گرگٹ
+- गिरगिट
+- बिसखोपड़ा
+- বহুরূপী
+- ਗਿਰਗਿਟ
+- ବହୁରୂପୀ ଏଣ୍ଡୁଅ
+- ஓந்தி
+- ఊసరవెల్లి
+- ಗೋಸುಂಬೆ
+- ഓന്ത്
+- วงศ์กิ้งก่าคาเมเลี่ยน
+- ပုတ်သင်ညို
+- ქამელეონები
+- እስስት
+- カメレオン科
+- 变色龙
+- 變色龍
+- 避役科
+- 카멜레온
 has_id_wikidata: Q37686
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Bunglon,12477905]]'
+- '[[_Standards/WikiData/WD~Bunglon,12477905]]'
 parent_taxon: '[[_Standards/WikiData/WD~Acrodonta,60790273]]'
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 ITIS_TSN: 208969
 OmegaWiki_Defined_Meaning: 640095
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bradypodion%20pumilum%20Cape%20chameleon%20female%20IMG%201767%20%28cropped%29.jpg
 taxon_common_name:
-  - kameleoner
-  - kameleoni
+- kameleoner
+- kameleoni
 Commons_category: Chamaeleonidae
 taxon_name: Chamaeleonidae
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cameleonidae%20Repartition%20Map.png
@@ -32,10 +131,141 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Green%20chameleon.ogv
 EPPO_Code: 1CHMLF
 P8189: 987007284948305171
 subreddit:
-  - Chameleons
+- Chameleons
 NBN_System_Key: NHMSYS0000065901
+dv_has_:
+  name_:
+    af: verkleurmannetjie
+    am: እስስት
+    an: Chamaeleonidae
+    ann: nkube
+    ar: حربائيات
+    arz: حرباء
+    ast: Chamaeleonidae
+    az: Buqələmunkimilər
+    bdr: belilik
+    be: хамелеоны
+    be-tarask: хамэлеон
+    bg: хамелеонови
+    bho: बिसखोपड़ा
+    bjn: anguy
+    bn: বহুরূপী
+    br: kameleon
+    bs: kameleoni
+    ca: Camaleons
+    ceb: Chamaeleonidae
+    ckb: ڕۆژپەرست
+    cs: chameleonovití
+    cv: хамелеонсем
+    cy: Madfall symudliw
+    da: Kamæleon
+    dag: Gumachuɣu
+    de: Chamäleons
+    din: Ŋanykudɔt
+    ee: kpɔku
+    el: χαμαιλέοντας
+    en: chameleon
+    eo: ĥameleono
+    es: Chamaeleonidae
+    et: Kameeleonlased
+    eu: Kameleoi
+    ext: Chamaeleonidae
+    fa: آفتابپرست
+    fi: kameleontit
+    fo: Kamelónir
+    fon: Aganma
+    fr: Chamaeleonidae
+    ga: caimileon
+    gd: Leòmhann-làir
+    gl: Camaleón
+    gur: gumatia
+    guw: agànma
+    ha: hawainiya
+    hak: Pien-set-liùng
+    he: זיקיתיים
+    hi: गिरगिट
+    hr: kameleoni
+    hu: kaméleonfélék
+    hy: Քամելեոն
+    ia: Chamaeleonidae
+    id: kameleon
+    ie: Chamaeleonidae
+    inh: босхувцарг
+    io: kameleono
+    is: kameljón
+    it: Chamaeleonidae
+    ja: カメレオン科
+    ka: ქამელეონები
+    kab: tata
+    kcg: a̱ghwaghwaak
+    kk: Хамелеон
+    kn: ಗೋಸುಂಬೆ
+    ko: 카멜레온
+    ku: margîse
+    ky: Хамелеондор
+    la: Chamaeleonidae
+    lb: Chamäleonen
+    lfn: Camaleon
+    ln: Longónya
+    lt: Chameleonai
+    lv: Hameleoni
+    map-bms: Londok
+    mg: tarôndro
+    mk: Камелеон
+    ml: ഓന്ത്
+    mrj: Хамелеон
+    ms: Sumpah-sumpah
+    mul: Chamaeleonidae
+    my: ပုတ်သင်ညို
+    mzn: آفتابپرست
+    nan: Kim-chîⁿ-ku
+    nb: kameleoner
+    nl: kameleons
+    nn: kameleonar
+    nv: Naʼashǫ́ʼii łahgo ánééhé
+    oc: Chamaeleonidae
+    or: ବହୁରୂପୀ ଏଣ୍ଡୁଅ
+    pa: ਗਿਰਗਿਟ
+    pl: kameleonowate
+    pnb: گرگٹ
+    pt: Camaleão
+    pt-br: Chamaeleonidae
+    ro: Cameleon
+    ru: хамелеоны
+    rw: Uruwumvu
+    sco: chameleon
+    sh: Kameleoni
+    sk: Chameleónovité
+    sl: kameleoni
+    sn: Rwavhi
+    so: Jirjiroole
+    sq: Kameleoni
+    sr: камелеон
+    su: Londok
+    sv: kameleonter
+    sw: Kinyonga
+    ta: ஓந்தி
+    te: ఊసరవెల్లి
+    tg: Бӯқаламун
+    th: วงศ์กิ้งก่าคาเมเลี่ยน
+    tl: Hunyango
+    tr: Bukalemun
+    tw: Abosomakoterɛ
+    ug: خامېلېئون
+    uk: хамелеони
+    uz: Xameleonlar
+    vi: Họ Tắc kè hoa
+    vls: Kameleong
+    vo: Chamaeleonidae
+    vro: Kameeleon
+    war: Chamaeleonidae
+    wuu: 变色龙
+    yue: 變色龍
+    zh: 避役科
+    zh-cn: 避役科
+    zh-hans: 避役科
+    zh-tw: 避役科
 ---
-
 # [[Chamaeleon]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Chamaeleonidae,37686|WD~Chamaeleonidae,37686]] 

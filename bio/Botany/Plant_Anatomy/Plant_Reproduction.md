@@ -1,21 +1,106 @@
 ---
 aliases:
+- atgenhedlu planhigion
+- atáirgeadh plandaí
+- bitkilerde üreme
+- bitkilərin çoxalması
+- Fortpflanzung von Pflanzen
+- geslachtelijke voortplanting bij Embryophyta
+- kasvien lisääntyminen
+- landareen ugalketa
+- növényi szaporodás
+- pembiakan tumbuhan
+- plant reproduction
+- planteformeiring
+- razmnožavanje biljaka
+- razmnoževanje rastlin
+- reproducció vegetal
+- reproducción vegetal
+- reproducción vexetal
+- reprodución vexetal
+- reproduction végétale
+- reproduksi tumbuhan
+- rozmnażanie roślin
+- sinh sản thực vật
+- vegetala reproduktado
+- баьцовгӀаш ебаялар
+- размнажэньне расьлінаў
+- размножавање биљака
+- размножение растений
+- размножување на растенијата
+- розмноження рослин
+- үҫемлектәрҙең үрсеүе
+- өсімдіктердің көбеюі
+- өсүмдүкдүн көбөйүү жолдору
+- բույսերի բազմացում
+- تكاثر النبات
+- ڤمبياقن تومبوهن
+- पादप जनन
+- উদ্ভিদ প্রজনন
+- தாவரங்களின் இனப்பெருக்கம்
+- 植物の生殖
+- 植物繁殖
 has_id_wikidata: Q2725616
 has_part_s_:
-  - "[[_Standards/WikiData/WD~pollination,134624]]"
-  - "[[_Standards/WikiData/WD~vegetative_reproduction,464666]]"
-  - "[[_Standards/WikiData/WD~plant_reproductive_morphology,1608538]]"
+- '[[_Standards/WikiData/WD~pollination,134624]]'
+- '[[_Standards/WikiData/WD~vegetative_reproduction,464666]]'
+- '[[_Standards/WikiData/WD~plant_reproductive_morphology,1608538]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-has_characteristic: "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
-part_of: "[[_Standards/WikiData/WD~botany,441]]"
-class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~plant,756]]"
-field_of_work: "[[_Standards/WikiData/WD~plant,756]]"
-subclass_of: "[[_Standards/WikiData/WD~reproduction,11990]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+has_characteristic: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+part_of: '[[_Standards/WikiData/WD~botany,441]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~plant,756]]'
+field_of_work: '[[_Standards/WikiData/WD~plant,756]]'
+subclass_of: '[[_Standards/WikiData/WD~reproduction,11990]]'
 Commons_category: Plant reproduction
+dv_has_:
+  name_:
+    ar: تكاثر النبات
+    ast: reproducción vexetal
+    az: bitkilərin çoxalması
+    ba: үҫемлектәрҙең үрсеүе
+    be-tarask: размнажэньне расьлінаў
+    bn: উদ্ভিদ প্রজনন
+    ca: reproducció vegetal
+    cy: atgenhedlu planhigion
+    de: Fortpflanzung von Pflanzen
+    en: plant reproduction
+    en-ca: plant reproduction
+    en-gb: plant reproduction
+    eo: vegetala reproduktado
+    es: reproducción vegetal
+    eu: landareen ugalketa
+    fi: kasvien lisääntyminen
+    fr: reproduction végétale
+    ga: atáirgeadh plandaí
+    gl: reprodución vexetal
+    hi: पादप जनन
+    hr: razmnožavanje biljaka
+    hu: növényi szaporodás
+    hy: բույսերի բազմացում
+    id: reproduksi tumbuhan
+    inh: баьцовгӀаш ебаялар
+    ja: 植物の生殖
+    kk: өсімдіктердің көбеюі
+    ky: өсүмдүкдүн көбөйүү жолдору
+    mk: размножување на растенијата
+    ms: pembiakan tumbuhan
+    ms-arab: ڤمبياقن تومبوهن
+    nl: geslachtelijke voortplanting bij Embryophyta
+    nn: planteformeiring
+    pl: rozmnażanie roślin
+    ru: размножение растений
+    sl: razmnoževanje rastlin
+    sr: размножавање биљака
+    ta: தாவரங்களின் இனப்பெருக்கம்
+    tr: bitkilerde üreme
+    uk: розмноження рослин
+    vi: sinh sản thực vật
+    wuu: 植物繁殖
+    yue: 植物繁殖
+    zh: 植物繁殖
 ---
-
 # [[Plant_Reproduction]] 
 
 #is_/same_as :: [[WD~Plant_reproduction,2725616]] 

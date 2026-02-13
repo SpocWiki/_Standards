@@ -1,10 +1,61 @@
 ---
 aliases:
+- Trans-avant-garde
+- Transavangarda
+- Transavangardizmus
+- transavangardo
+- Transavanguardia
+- transavanguardia italiana
+- Transavantgarda
+- Transavantgarde
+- Transavantgarden
+- transavantguarda
+- Transawangarda
+- Transvanguarda
+- Transvanguardia
+- Трансавангард
+- Трансавангарда
+- ترانس أفانت جارد
+- فراآوانگارد
+- トランスアバンギャルド
+- 超前衛藝術
+- 트랜스아방가르드
 has_id_wikidata: Q224885
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-country: "[[_Standards/WikiData/WD~Italy,38]]"
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+country: '[[_Standards/WikiData/WD~Italy,38]]'
+dv_has_:
+  name_:
+    ar: ترانس أفانت جارد
+    ast: Transvanguardia
+    be: Трансавангард
+    be-tarask: трансавангард
+    bg: Трансавангард
+    ca: transavantguarda
+    cs: Transavantgarda
+    de: Transavantgarde
+    en: Transavantgarde
+    eo: transavangardo
+    es: Transvanguardia
+    eu: Transavantgarde
+    fa: فراآوانگارد
+    fi: Transavantgarde
+    fr: Trans-avant-garde
+    hr: Transavangarda
+    it: transavanguardia italiana
+    ja: トランスアバンギャルド
+    ko: 트랜스아방가르드
+    la: Transavanguardia
+    mk: Трансавангарда
+    nb: Transavantgarden
+    nl: Transavanguardia Italiana
+    pl: Transawangarda
+    pt: Transvanguarda
+    ru: Трансавангард
+    sk: Transavangardizmus
+    sr: Трансавангарда
+    uk: трансавангард
+    zh: 超前衛藝術
 ---
-
 # [[Transavantgarde]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Transavantgarde,224885|WD~Transavantgarde,224885]]  

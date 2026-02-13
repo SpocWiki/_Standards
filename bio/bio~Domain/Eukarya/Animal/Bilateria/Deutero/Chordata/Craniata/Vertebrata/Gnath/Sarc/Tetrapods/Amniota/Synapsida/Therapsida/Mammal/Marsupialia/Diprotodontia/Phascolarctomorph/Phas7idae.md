@@ -1,7 +1,32 @@
 ---
 aliases:
-  - Phascolarctidae
-  - Phas7idae
+- Fascolarctids
+- Fascolàrctid
+- faskolarktido
+- Kisəli ayılar
+- Koala's
+- koalafélék
+- Koalas
+- koalat
+- koaloleem
+- koalovití
+- Koalowate
+- koalu dzimta
+- Phas7idae
+- Phascolarctidae
+- Баштыкчан аюулар (тукум)
+- Коалові
+- коалови
+- коаловые
+- קואליים
+- دببة جرابية
+- کیسهخرسان
+- コアラ科
+- 无尾熊科
+- 树袋熊科
+- 樹熊科
+- 樹袋熊科
+- 無尾熊科
 has_id_wikidata: Q431978
 taxonomic_type: '[[_Standards/WikiData/WD~Phascolarctos,209692]]'
 parent_taxon: '[[_Standards/WikiData/WD~Phascolarctomorphia,131468339]]'
@@ -15,8 +40,66 @@ taxon_name: Phascolarctidae
 EPPO_Code: 1PHOSF
 MeSH_tree_code: B01.050.150.900.649.573.590
 taxon_author_citation: Owen, 1839
+dv_has_:
+  name_:
+    an: Phascolarctidae
+    ar: دببة جرابية
+    ast: Phascolarctidae
+    avk: koaloleem
+    az: Kisəli ayılar
+    bg: коалови
+    br: Phascolarctidae
+    ca: Fascolàrctid
+    ceb: Phascolarctidae
+    cs: koalovití
+    de: Koalas
+    el: Phascolarctidae
+    en: Phascolarctidae
+    eo: Phascolarctidae
+    es: Phascolarctidae
+    eu: faskolarktido
+    ext: Phascolarctidae
+    fa: کیسهخرسان
+    fi: koalat
+    fr: Phascolarctidae
+    ga: Phascolarctidae
+    gl: Phascolarctidae
+    he: קואליים
+    hu: koalafélék
+    ia: Phascolarctidae
+    ie: Phascolarctidae
+    io: Phascolarctidae
+    it: Phascolarctidae
+    ja: コアラ科
+    ky: Баштыкчан аюулар (тукум)
+    la: Phascolarctidae
+    lv: koalu dzimta
+    mul: Phascolarctidae
+    nl: Koala's
+    nn: Phascolarctidae
+    oc: Fascolarctids
+    pl: Koalowate
+    pt: Phascolarctidae
+    pt-br: Phascolarctidae
+    ro: Phascolarctidae
+    ru: коаловые
+    sq: Phascolarctidae
+    tr: Phascolarctidae
+    uk: Коалові
+    vi: Phascolarctidae
+    vo: Phascolarctidae
+    war: Phascolarctidae
+    yue: 樹熊科
+    zh: 树袋熊科
+    zh-cn: 树袋熊科
+    zh-hans: 树袋熊科
+    zh-hant: 樹袋熊科
+    zh-hk: 樹熊科
+    zh-mo: 樹熊科
+    zh-my: 无尾熊科
+    zh-sg: 无尾熊科
+    zh-tw: 無尾熊科
 ---
-
 # Phascolarctidae 
 
 #is_/same_as :: [[WD~Phascolarctidae,431978]] 

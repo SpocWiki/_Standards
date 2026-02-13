@@ -1,77 +1,361 @@
 ---
 aliases:
-  - Metal
+- Alata
+- alkan
+- asin
+- bir
+- dade
+- dhaatu
+- fém
+- gĭng-sṳ̆k
+- i-metal
+- insimbi
+- jinme
+- kakumea
+- karfe
+- kim loại
+- kim-sio̍k
+- kov
+- kovina
+- kovine
+- kow
+- kuarepoti
+- kurigu
+- kîm-su̍k
+- lajwerd
+- logam
+- maden
+- meain
+- meatailt
+- meetaal
+- metaal
+- Metal
+- metalas
+- metali
+- Metall
+- Metalle
+- metalli
+- metallo
+- metallum
+- metalo
+- Metals
+- metalu
+- metaly
+- metało
+- metel
+- Metoi
+- metálla
+- metâl
+- metāls
+- miotal
+- mitaddu
+- málmur
+- méta
+- métal
+- mẹ́tàlì
+- q'illay
+- sibiila
+- simbi
+- ñɩɣlɩm nɩɣyʊʊ
+- μέταλλο
+- згъæр
+- ков
+- кшнипонат
+- кӧртулов
+- маьхалаш
+- метал
+- металдар
+- металл
+- металлдар
+- митал
+- мэтал
+- մետաղ
+- מעטאל
+- מתכת
+- داتھ
+- دھات
+- فلز
+- لوݢم
+- معدن
+- مېتال
+- کانزا
+- धातु
+- धातू
+- लोरवण
+- ধাতু
+- ਧਾਤ
+- ધાતુ
+- ଧାତୁ
+- உலோகம்
+- లోహాలు
+- ಲೋಹ
+- ലോഹം
+- ලෝහ
+- โลหะ
+- သတ္တု
+- ლითონები
+- ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ
+- 金属
+- 金屬
+- 금속
 has_id_wikidata: Q11426
-associated_hazard: "[[_Standards/WikiData/WD~metal_poisoning,4215775]]"
+associated_hazard: '[[_Standards/WikiData/WD~metal_poisoning,4215775]]'
 Colon_Classification: E191
 Commons_category: Metals
 CPV_Supplementary_code: AA01
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
-  - 546.3
-  - 547.05
-  - 549.23
-  - 553.4
-  - 673
-  - 669
+- 546.3
+- 547.05
+- 549.23
+- 553.4
+- 673
+- 669
 different_from:
-  - "[[_Standards/WikiData/WD~metal,1572505]]"
-  - "[[_Standards/WikiData/WD~metal_element,11646938]]"
-  - "[[_Standards/WikiData/WD~metal_music,12326776]]"
+- '[[_Standards/WikiData/WD~metal,1572505]]'
+- '[[_Standards/WikiData/WD~metal_element,11646938]]'
+- '[[_Standards/WikiData/WD~metal_music,12326776]]'
 EAGLE_id: material/lod/107
 hashtag: metal
-has_characteristic: "[[_Standards/WikiData/WD~metallic_lustre,11646940]]"
-has_part_s_: "[[_Standards/WikiData/WD~transition_metal,19588]]"
+has_characteristic: '[[_Standards/WikiData/WD~metallic_lustre,11646940]]'
+has_part_s_: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A9tal%20Hurlant%20%2884368201%29.jpeg
 MCN_code: 7109.00.00
 OmegaWiki_Defined_Meaning: 2324
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q28970841,28970841]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28970841,28970841]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81.wav
 properties_for_this_type: magnetic ordering
 Stack_Exchange_tag:
-  - https://chemistry.stackexchange.com/tags/metal
-  - https://physics.stackexchange.com/tags/metals
-  - https://engineering.stackexchange.com/tags/metals
-  - https://mechanics.stackexchange.com/tags/metal
+- https://chemistry.stackexchange.com/tags/metal
+- https://physics.stackexchange.com/tags/metals
+- https://engineering.stackexchange.com/tags/metals
+- https://mechanics.stackexchange.com/tags/metal
 subclass_of:
-  - "[[_Standards/WikiData/WD~material,214609]]"
-  - "[[_Standards/WikiData/WD~inorganic_matter,20098970]]"
-  - "[[_Standards/WikiData/WD~malleable_material,34669510]]"
-  - "[[_Standards/WikiData/WD~alloy,37756]]"
+- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~inorganic_matter,20098970]]'
+- '[[_Standards/WikiData/WD~malleable_material,34669510]]'
+- '[[_Standards/WikiData/WD~alloy,37756]]'
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Metals%20and%20insulators%2C%20quantum%20difference%20from%20band%20structure.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Metaux%20et%20isolants%2C%20explication%20quantique%20de%20la%20difference.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Metals%20and%20insulators%2C%20quantum%20difference%20from%20band%20structure.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Metaux%20et%20isolants%2C%20explication%20quantique%20de%20la%20difference.ogv
 dv_is_:
-  opposite_of: "[[Nonmetal]]"
+  opposite_of: '[[Nonmetal]]'
   same_as:
-    - "[[../../../WikiData/WD~Metal,11426|WD~Metal,11426]]"
-    - "[[/_Standards/Chemistry/Material/Metallurgy/Metal|Metal]]"
-    - "[[/_public/Chemistry/Material/Metallurgy/Metal.public|Metal.public]]"
-    - "[[/_internal/Chemistry/Material/Metallurgy/Metal.internal|Metal.internal]]"
-    - "[[/_protect/Chemistry/Material/Metallurgy/Metal.protect|Metal.protect]]"
-    - "[[/_private/Chemistry/Material/Metallurgy/Metal.private|Metal.private]]"
-    - "[[/_personal/Chemistry/Material/Metallurgy/Metal.personal|Metal.personal]]"
-    - "[[/_secret/Chemistry/Material/Metallurgy/Metal.secret|Metal.secret]]"
-dv_is_opposite_of: "[[Nonmetal]]"
+  - '[[../../../WikiData/WD~Metal,11426|WD~Metal,11426]]'
+  - '[[/_Standards/Chemistry/Material/Metallurgy/Metal|Metal]]'
+  - '[[/_public/Chemistry/Material/Metallurgy/Metal.public|Metal.public]]'
+  - '[[/_internal/Chemistry/Material/Metallurgy/Metal.internal|Metal.internal]]'
+  - '[[/_protect/Chemistry/Material/Metallurgy/Metal.protect|Metal.protect]]'
+  - '[[/_private/Chemistry/Material/Metallurgy/Metal.private|Metal.private]]'
+  - '[[/_personal/Chemistry/Material/Metallurgy/Metal.personal|Metal.personal]]'
+  - '[[/_secret/Chemistry/Material/Metallurgy/Metal.secret|Metal.secret]]'
+dv_is_opposite_of: '[[Nonmetal]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Metal,11426|WD~Metal,11426]]"
-  - "[[/_Standards/Chemistry/Material/Metallurgy/Metal|Metal]]"
-  - "[[/_public/Chemistry/Material/Metallurgy/Metal.public|Metal.public]]"
-  - "[[/_internal/Chemistry/Material/Metallurgy/Metal.internal|Metal.internal]]"
-  - "[[/_protect/Chemistry/Material/Metallurgy/Metal.protect|Metal.protect]]"
-  - "[[/_private/Chemistry/Material/Metallurgy/Metal.private|Metal.private]]"
-  - "[[/_personal/Chemistry/Material/Metallurgy/Metal.personal|Metal.personal]]"
-  - "[[/_secret/Chemistry/Material/Metallurgy/Metal.secret|Metal.secret]]"
+- '[[../../../WikiData/WD~Metal,11426|WD~Metal,11426]]'
+- '[[/_Standards/Chemistry/Material/Metallurgy/Metal|Metal]]'
+- '[[/_public/Chemistry/Material/Metallurgy/Metal.public|Metal.public]]'
+- '[[/_internal/Chemistry/Material/Metallurgy/Metal.internal|Metal.internal]]'
+- '[[/_protect/Chemistry/Material/Metallurgy/Metal.protect|Metal.protect]]'
+- '[[/_private/Chemistry/Material/Metallurgy/Metal.private|Metal.private]]'
+- '[[/_personal/Chemistry/Material/Metallurgy/Metal.personal|Metal.personal]]'
+- '[[/_secret/Chemistry/Material/Metallurgy/Metal.secret|Metal.secret]]'
+dv_has_:
+  name_:
+    af: metaal
+    ak: dade
+    an: metal
+    ann: Alata
+    anp: धातु
+    ar: فلز
+    ary: فلز
+    arz: معدن
+    as: ধাতু
+    ast: metal
+    az: metal
+    azb: فلز
+    ba: металдар
+    bar: Metoi
+    bcl: metal
+    be: метал
+    be-tarask: мэтал
+    bg: метал
+    blk: သတ္တု
+    bn: ধাতু
+    br: Metal
+    bs: metal
+    ca: metall
+    cdo: gĭng-sṳ̆k
+    ceb: metal
+    chr: ᎠᎾᎦᎵᏍᎩ ᎦᏂᏱᏍᎩ
+    ckb: کانزا
+    crh: maden
+    cs: kov
+    cv: металл
+    cy: metel
+    da: metal
+    dag: kurigu
+    de: Metalle
+    el: μέταλλο
+    eml: metâl
+    en: metal
+    eo: metalo
+    es: metal
+    et: metall
+    eu: metal
+    ext: metal
+    fa: فلز
+    fi: metalli
+    fj: kakumea
+    fo: metal
+    fr: métal
+    frr: metal
+    ga: miotal
+    gan: 金屬
+    gcr: métal
+    gd: meatailt
+    gl: metal
+    glk: فلز
+    gn: kuarepoti
+    gom: लोरवण
+    gsw: Metalle
+    gu: ધાતુ
+    gv: meain
+    ha: karfe
+    hak: kîm-su̍k
+    he: מתכת
+    hi: धातु
+    hif: dhaatu
+    hr: kovine
+    hsb: kow
+    ht: metal
+    hu: fém
+    hy: մետաղ
+    hyw: մետաղ
+    ia: metallo
+    id: logam
+    ie: metalle
+    ilo: metal
+    inh: маьхалаш
+    io: metalo
+    is: málmur
+    it: metallo
+    ja: 金属
+    jam: metal
+    jbo: jinme
+    jv: logam
+    ka: ლითონები
+    kab: asin
+    kbp: ñɩɣlɩm nɩɣyʊʊ
+    kk: металдар
+    kn: ಲೋಹ
+    ko: 금속
+    ks: داتھ
+    ku: lajwerd
+    kv: кӧртулов
+    kw: alkan
+    ky: металлдар
+    la: metallum
+    lb: Metall
+    lfn: metal
+    li: metaal
+    lmo: metal
+    lt: metalas
+    lv: metāls
+    lzh: 金屬
+    mag: धातु
+    mg: metaly
+    min: logam
+    mk: метал
+    ml: ലോഹം
+    mn: металл
+    mr: धातू
+    ms: logam
+    ms-arab: لوݢم
+    my: သတ္တု
+    myv: кшнипонат
+    nan: kim-sio̍k
+    nb: metall
+    nds: Metall
+    nds-nl: metaal
+    ne: धातु
+    new: धातु
+    nl: metaal
+    nn: metall
+    nrm: méta
+    oc: metal
+    om: sibiila
+    or: ଧାତୁ
+    os: згъæр
+    pa: ਧਾਤ
+    pap: metal
+    pap-aw: metal
+    pl: metal
+    pms: metal
+    pnb: دھات
+    ps: فلز
+    pt: metal
+    pt-br: metal
+    qu: q'illay
+    ro: metal
+    ru: металл
+    rue: ков
+    rup: metalu
+    sah: Метал
+    scn: mitaddu
+    sco: metal
+    se: metálla
+    sgs: Metals
+    sh: metal
+    si: ලෝහ
+    sk: kov
+    sl: kovina
+    smn: meetaal
+    sms: metall
+    sn: simbi
+    so: bir
+    sq: metal
+    sr: метал
+    stq: Metal
+    su: logam
+    sv: metall
+    sw: metali
+    ta: உலோகம்
+    te: లోహాలు
+    th: โลหะ
+    tl: metal
+    tr: metal
+    tt: митал
+    tt-cyrl: митал
+    tyv: Металлдар
+    udm: металл
+    ug: مېتال
+    uk: метал
+    ur: دھات
+    uz: metall
+    vec: metało
+    vep: metall
+    vi: kim loại
+    vro: metal
+    war: metal
+    wuu: 金属
+    xh: i-metal
+    yi: מעטאל
+    yo: mẹ́tàlì
+    yue: 金屬
+    zh: 金屬
+    zh-hant: 金屬
+    zh-hk: 金屬
+    zh-tw: 金屬
+    zu: insimbi
 ---
-
 # [[Metal]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 

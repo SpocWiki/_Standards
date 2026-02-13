@@ -1,14 +1,146 @@
 ---
 aliases:
-  - liturgical year
-  - church year
-  - Christian year
-  - ecclesiastical calendar
-  - kalendar
-  - Christian_Holiday
-  - Christian Holiday
+- anno liturgico
+- Annus liturgicus
+- ano litúrgico
+- ano litúrxico
+- Anul bisericesc
+- any litúrgic
+- año litúrgico
+- baznīcas gads
+- bliain liotúirgeach
+- calendr litwrgïaidd
+- calendrier liturgique
+- cerkveno leto
+- Christian Holiday
+- Christian year
+- Christian_Holiday
+- church year
+- ecclesiastical calendar
+- girkojahki
+- kalendar
+- keresztény egyházi év
+- kerkelijk jaar
+- Kierchejoer
+- Kirchenjahr
+- Kirikuaasta
+- kirkeåret
+- kirkkoihe
+- kirkkovuosi
+- Kirshejoor
+- kyrkjeåret
+- kyrkoår
+- liturgia jaro
+- liturgical year
+- liturgický rok
+- Liturgiese jaar
+- Liturgijska godina
+- Liturginiai metai
+- Mwaka wa Kanisa
+- Năm phụng vụ
+- rok liturgiczny
+- tahun liturgi
+- Taom-piangonana
+- Taon ng liturhiya
+- Taun liturgi
+- Viti liturgjik
+- έτος λειτουργιών
+- літургічний рік
+- літургічны рок
+- литургический год
+- Христиан бәйрәмнәре
+- Христиан пайрем-влак
+- црковна година
+- Քրիստոնեական տոներ
+- שנה ליטורגית
+- أعياد مسيحية
+- اعياد مسيحيه
+- تعطیلات مسیحی
+- عبادتی سال
+- திருவழிபாட்டு ஆண்டு
+- ആരാധനക്രമ വർഷം
+- ජනවන්දනා වසර
+- ปีพิธีกรรม
+- ᱞᱤᱴᱩᱨᱡᱤᱠᱟᱞ ᱥᱮᱨᱢᱟ
+- 教会暦
+- 教历
+- 教會年曆
+- 禮儀年
+- 교회력
+has_id_wikidata: Q51617
+dv_has_:
+  name_:
+    af: Liturgiese jaar
+    ar: أعياد مسيحية
+    arz: اعياد مسيحيه
+    be-tarask: літургічны рок
+    ca: any litúrgic
+    cs: liturgický rok
+    cy: calendr litwrgïaidd
+    da: kirkeåret
+    de: Kirchenjahr
+    de-ch: Kirchenjahr
+    el: έτος λειτουργιών
+    en: liturgical year
+    en-ca: Liturgical year
+    en-gb: liturgical year
+    eo: liturgia jaro
+    es: año litúrgico
+    et: Kirikuaasta
+    fa: تعطیلات مسیحی
+    fi: kirkkovuosi
+    fr: calendrier liturgique
+    ga: bliain liotúirgeach
+    gl: ano litúrxico
+    gsw: Kirchenjahr
+    he: שנה ליטורגית
+    hr: Liturgijska godina
+    hu: keresztény egyházi év
+    hy: Քրիստոնեական տոներ
+    id: tahun liturgi
+    it: anno liturgico
+    ja: 教会暦
+    jv: Taun liturgi
+    ko: 교회력
+    ksh: Kirshejoor
+    la: Annus liturgicus
+    lb: Kierchejoer
+    lt: Liturginiai metai
+    lv: baznīcas gads
+    mg: Taom-piangonana
+    mhr: Христиан пайрем-влак
+    mk: црковна година
+    ml: ആരാധനക്രമ വർഷം
+    ms: Tahun Liturgi
+    nb: kirkeåret
+    nl: kerkelijk jaar
+    nn: kyrkjeåret
+    pl: rok liturgiczny
+    pt: ano litúrgico
+    pt-br: Ano litúrgico
+    ro: Anul bisericesc
+    ru: литургический год
+    sat: ᱞᱤᱴᱩᱨᱡᱤᱠᱟᱞ ᱥᱮᱨᱢᱟ
+    se: girkojahki
+    si: ජනවන්දනා වසර
+    sk: liturgický rok
+    sl: cerkveno leto
+    smn: kirkkoihe
+    sq: Viti liturgjik
+    sv: kyrkoår
+    sw: Mwaka wa Kanisa
+    ta: திருவழிபாட்டு ஆண்டு
+    th: ปีพิธีกรรม
+    tl: Taon ng liturhiya
+    tt: Христиан бәйрәмнәре
+    uk: літургічний рік
+    ur: عبادتی سال
+    vi: Năm phụng vụ
+    yue: 禮儀年
+    zh: 教會年曆
+    zh-hans: 教历
+    zh-hant: 教會年曆
 ---
-
 # [[Christian_Holiday]] 
 
 

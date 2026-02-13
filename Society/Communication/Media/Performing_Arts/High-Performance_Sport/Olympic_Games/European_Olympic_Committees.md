@@ -1,67 +1,112 @@
 ---
-has_time_started: 1968-01-01 
+has_time_started: 1968-01-01
 aliases:
-  - European Olympic Committees
-  - EOC
-  - Comités olympiques européens
-  - COE
-  - European_Olympic_Committees
+- Avropa Olimpiya Komitələri
+- Avrupa Olimpiyat Komiteleri
+- COE
+- Comitati Olimpici Europei
+- Comitès Olímpics Europeus
+- Comités olympiques européens
+- Comités Olímpicos Europeos
+- Comitês Olímpicos Europeus
+- Eiropas Olimpiskās komitejas
+- EOC
+- Euroopa Olümpiakomitee
+- Euroopan olympiakomiteat
+- Europako Batzorde Olinpikoak
+- Europan Olimpic Comité
+- European Olympic Committees
+- Europeanong Olimpikong mga Komite
+- European_Olympic_Committees
+- Europejski Komitet Olimpijski
+- Europese Olympische Comités
+- Europos olimpiniai komitetai
+- Europski olimpijski odbori
+- Europäische Olympische Komitees
+- Evropski olimpijski komiteji
+- Evropský olympijský výbor
+- Eŭropaj olimpikaj komitatoj
+- Jawatankuasa Olimpik Eropah
+- Komite Olimpiade Eropa
+- Komiteti Olimpik Evropian
+- Mga Lupong Olimpikong Europeo
+- Yevropa Olimpiya qoʻmitasi
+- Ευρωπαϊκές Ολυμπιακές Επιτροπές
+- Еўрапейскія алімпійскія камітэты
+- Европа олимпия комитеттары
+- Европейские олимпийские комитеты
+- Европски олимпијски комитет
+- Европски олимписки комитети
+- Олімпійські комітети Європи
+- Эўрапейскія алімпійскія камітэты
+- Եվրոպական օլիմպիական կոմիտեներ
+- הוועדים האולימפיים האירופיים
+- اللجنة الأولمبية الأوروبية
+- کمیته المپیک اروپا
+- ஐரோப்பிய ஒலிம்பிக் குழுக்கள்
+- คณะกรรมการโอลิมปิกยุโรป
+- ევროპის ოლიმპიური კომიტეტი
+- Ủy ban Olympic châu Âu
+- ヨーロッパオリンピック委員会
+- 欧洲奥林匹克委员会
+- 歐洲奧林匹克委員會
+- 유럽 올림픽 위원회
 has_id_wikidata: Q642949
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~Swedish_Olympic_Committee,179688]]'
-  - '[[_Standards/WikiData/WD~Austrian_Olympic_Committee,306692]]'
-  - '[[_Standards/WikiData/WD~German_Olympic_Sports_Confederation,323728]]'
-  - '[[_Standards/WikiData/WD~Comitato_Olimpico_Nazionale_Sammarinese,516324]]'
-  - '[[_Standards/WikiData/WD~Hungarian_Olympic_Committee,543216]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_Serbia,587239]]'
-  - '[[_Standards/WikiData/WD~Swiss_Olympic,679950]]'
-  - '[[_Standards/WikiData/WD~Estonian_Olympic_Committee,775081]]'
-  - '[[_Standards/WikiData/WD~Bulgarian_Olympic_Committee,775187]]'
-  - '[[_Standards/WikiData/WD~Russian_Olympic_Committee,783625]]'
-  - '[[_Standards/WikiData/WD~British_Olympic_Association,849756]]'
-  - '[[_Standards/WikiData/WD~Liechtenstein_Olympic_Committee,860080]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_Israel,968491]]'
-  - '[[_Standards/WikiData/WD~Malta_Olympic_Committee,1045428]]'
-  - '[[_Standards/WikiData/WD~Lithuanian_National_Olympic_Committee,1045788]]'
-  - '[[_Standards/WikiData/WD~Italian_National_Olympic_Committee,1114833]]'
-  - '[[_Standards/WikiData/WD~Andorran_Olympic_Committee,1114870]]'
-  - '[[_Standards/WikiData/WD~Comité_Olympique_Monégasque,1114926]]'
-  - '[[_Standards/WikiData/WD~Slovenian_Olympic_Committee,1133461]]'
-  - '[[_Standards/WikiData/WD~National_Olympic_and_Sports_Association_of_Iceland,1133648]]'
-  - '[[_Standards/WikiData/WD~National_Olympic_Committee_and_Sports_Confederation_of_Denmark,1164315]]'
-  - '[[_Standards/WikiData/WD~Latvian_Olympic_Committee,1185588]]'
-  - '[[_Standards/WikiData/WD~Armenian_Olympic_Committee,1185597]]'
-  - '[[_Standards/WikiData/WD~Slovak_Olympic_and_Sports_Committee,1185604]]'
-  - '[[_Standards/WikiData/WD~Turkish_National_Olympic_Committee,1185611]]'
-  - '[[_Standards/WikiData/WD~National_Olympic_Committee_of_the_Republic_of_Azerbaijan,1208145]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_Albania,1209748]]'
-  - '[[_Standards/WikiData/WD~National_Olympic_Committee_of_Ukraine,1210020]]'
-  - '[[_Standards/WikiData/WD~Hellenic_Olympic_Committee,1358361]]'
-  - '[[_Standards/WikiData/WD~Croatian_Olympic_Committee,1632564]]'
-  - '[[_Standards/WikiData/WD~Romanian_Olympic_and_Sports_Committee,1648635]]'
-  - '[[_Standards/WikiData/WD~NOC_NSF,1650156]]'
-  - '[[_Standards/WikiData/WD~French_National_Olympic_and_Sports_Committee,1650165]]'
-  - '[[_Standards/WikiData/WD~Montenegrin_Olympic_Committee,1650168]]'
-  - '[[_Standards/WikiData/WD~Norwegian_Olympic_and_Paralympic_Committee_and_Confederation_of_Sports,1999116]]'
-  - '[[_Standards/WikiData/WD~Belgian_Olympic_and_Interfederal_Committee,2021554]]'
-  - '[[_Standards/WikiData/WD~Finnish_Olympic_Committee,2035528]]'
-  - '[[_Standards/WikiData/WD~Olympic_Federation_of_Ireland,2358141]]'
-  - '[[_Standards/WikiData/WD~Cyprus_Olympic_Committee,2397471]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_North_Macedonia,2400219]]'
-  - '[[_Standards/WikiData/WD~Luxembourgish_Olympic_and_Sporting_Committee,2411931]]'
-  - '[[_Standards/WikiData/WD~Spanish_Olympic_Committee,2469149]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_Portugal,2543365]]'
-  - '[[_Standards/WikiData/WD~Belarus_Olympic_Committee,2570268]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_Bosnia_and_Herzegovina,2577457]]'
-  - '[[_Standards/WikiData/WD~Georgian_National_Olympic_Committee,2607638]]'
-  - '[[_Standards/WikiData/WD~Polish_Olympic_Committee,2610864]]'
-  - '[[_Standards/WikiData/WD~Czech_Olympic_Committee,2626955]]'
-  - '[[_Standards/WikiData/WD~National_Olympic_Committee_of_the_Republic_of_Moldova,3684417]]'
-  - '[[_Standards/WikiData/WD~Olympic_Committee_of_Kosovo,3684481]]'
+- '[[_Standards/WikiData/WD~Swedish_Olympic_Committee,179688]]'
+- '[[_Standards/WikiData/WD~Austrian_Olympic_Committee,306692]]'
+- '[[_Standards/WikiData/WD~German_Olympic_Sports_Confederation,323728]]'
+- '[[_Standards/WikiData/WD~Comitato_Olimpico_Nazionale_Sammarinese,516324]]'
+- '[[_Standards/WikiData/WD~Hungarian_Olympic_Committee,543216]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_Serbia,587239]]'
+- '[[_Standards/WikiData/WD~Swiss_Olympic,679950]]'
+- '[[_Standards/WikiData/WD~Estonian_Olympic_Committee,775081]]'
+- '[[_Standards/WikiData/WD~Bulgarian_Olympic_Committee,775187]]'
+- '[[_Standards/WikiData/WD~Russian_Olympic_Committee,783625]]'
+- '[[_Standards/WikiData/WD~British_Olympic_Association,849756]]'
+- '[[_Standards/WikiData/WD~Liechtenstein_Olympic_Committee,860080]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_Israel,968491]]'
+- '[[_Standards/WikiData/WD~Malta_Olympic_Committee,1045428]]'
+- '[[_Standards/WikiData/WD~Lithuanian_National_Olympic_Committee,1045788]]'
+- '[[_Standards/WikiData/WD~Italian_National_Olympic_Committee,1114833]]'
+- '[[_Standards/WikiData/WD~Andorran_Olympic_Committee,1114870]]'
+- '[[_Standards/WikiData/WD~Comité_Olympique_Monégasque,1114926]]'
+- '[[_Standards/WikiData/WD~Slovenian_Olympic_Committee,1133461]]'
+- '[[_Standards/WikiData/WD~National_Olympic_and_Sports_Association_of_Iceland,1133648]]'
+- '[[_Standards/WikiData/WD~National_Olympic_Committee_and_Sports_Confederation_of_Denmark,1164315]]'
+- '[[_Standards/WikiData/WD~Latvian_Olympic_Committee,1185588]]'
+- '[[_Standards/WikiData/WD~Armenian_Olympic_Committee,1185597]]'
+- '[[_Standards/WikiData/WD~Slovak_Olympic_and_Sports_Committee,1185604]]'
+- '[[_Standards/WikiData/WD~Turkish_National_Olympic_Committee,1185611]]'
+- '[[_Standards/WikiData/WD~National_Olympic_Committee_of_the_Republic_of_Azerbaijan,1208145]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_Albania,1209748]]'
+- '[[_Standards/WikiData/WD~National_Olympic_Committee_of_Ukraine,1210020]]'
+- '[[_Standards/WikiData/WD~Hellenic_Olympic_Committee,1358361]]'
+- '[[_Standards/WikiData/WD~Croatian_Olympic_Committee,1632564]]'
+- '[[_Standards/WikiData/WD~Romanian_Olympic_and_Sports_Committee,1648635]]'
+- '[[_Standards/WikiData/WD~NOC_NSF,1650156]]'
+- '[[_Standards/WikiData/WD~French_National_Olympic_and_Sports_Committee,1650165]]'
+- '[[_Standards/WikiData/WD~Montenegrin_Olympic_Committee,1650168]]'
+- '[[_Standards/WikiData/WD~Norwegian_Olympic_and_Paralympic_Committee_and_Confederation_of_Sports,1999116]]'
+- '[[_Standards/WikiData/WD~Belgian_Olympic_and_Interfederal_Committee,2021554]]'
+- '[[_Standards/WikiData/WD~Finnish_Olympic_Committee,2035528]]'
+- '[[_Standards/WikiData/WD~Olympic_Federation_of_Ireland,2358141]]'
+- '[[_Standards/WikiData/WD~Cyprus_Olympic_Committee,2397471]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_North_Macedonia,2400219]]'
+- '[[_Standards/WikiData/WD~Luxembourgish_Olympic_and_Sporting_Committee,2411931]]'
+- '[[_Standards/WikiData/WD~Spanish_Olympic_Committee,2469149]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_Portugal,2543365]]'
+- '[[_Standards/WikiData/WD~Belarus_Olympic_Committee,2570268]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_Bosnia_and_Herzegovina,2577457]]'
+- '[[_Standards/WikiData/WD~Georgian_National_Olympic_Committee,2607638]]'
+- '[[_Standards/WikiData/WD~Polish_Olympic_Committee,2610864]]'
+- '[[_Standards/WikiData/WD~Czech_Olympic_Committee,2626955]]'
+- '[[_Standards/WikiData/WD~National_Olympic_Committee_of_the_Republic_of_Moldova,3684417]]'
+- '[[_Standards/WikiData/WD~Olympic_Committee_of_Kosovo,3684481]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_EOC,11243108]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 country: '[[_Standards/WikiData/WD~Italy,38]]'
 operating_area: '[[_Standards/WikiData/WD~Europe,46]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Rome,220]]'
@@ -72,8 +117,64 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Olympi
 official_website: http://www.eurolympic.org
 Instagram_username: eoc_social
 X_Twitter_username: eocmedia
+dv_has_:
+  name_:
+    ar: اللجنة الأولمبية الأوروبية
+    ast: Comités Olímpicos Europeos
+    az: Avropa Olimpiya Komitələri
+    ba: Европа олимпия комитеттары
+    bcl: Europeanong Olimpikong mga Komite
+    be: Еўрапейскія алімпійскія камітэты
+    be-tarask: Эўрапейскія алімпійскія камітэты
+    ca: Comitès Olímpics Europeus
+    cs: Evropský olympijský výbor
+    de: Europäische Olympische Komitees
+    el: Ευρωπαϊκές Ολυμπιακές Επιτροπές
+    en: European Olympic Committees
+    en-ca: European Olympic Committees
+    en-gb: European Olympic Committees
+    eo: Eŭropaj olimpikaj komitatoj
+    es: Comités Olímpicos Europeos
+    et: Euroopa Olümpiakomitee
+    eu: Europako Batzorde Olinpikoak
+    fa: کمیته المپیک اروپا
+    fi: Euroopan olympiakomiteat
+    fr: Comités olympiques européens
+    gl: Comités Olímpicos Europeos
+    he: הוועדים האולימפיים האירופיים
+    hr: Europski olimpijski odbori
+    hy: Եվրոպական օլիմպիական կոմիտեներ
+    id: Komite Olimpiade Eropa
+    ie: Europan Olimpic Comité
+    it: Comitati Olimpici Europei
+    ja: ヨーロッパオリンピック委員会
+    ka: ევროპის ოლიმპიური კომიტეტი
+    ko: 유럽 올림픽 위원회
+    lt: Europos olimpiniai komitetai
+    lv: Eiropas Olimpiskās komitejas
+    mk: Европски олимписки комитети
+    ms: Jawatankuasa Olimpik Eropah
+    nb: Comités Olympiques Européens
+    nl: Europese Olympische Comités
+    pl: Europejski Komitet Olimpijski
+    pt: Comitês Olímpicos Europeus
+    pt-br: Comitês Olímpicos Europeus
+    ru: Европейские олимпийские комитеты
+    sl: Evropski olimpijski komiteji
+    sq: Komiteti Olimpik Evropian
+    sr: Европски олимпијски комитет
+    ta: ஐரோப்பிய ஒலிம்பிக் குழுக்கள்
+    th: คณะกรรมการโอลิมปิกยุโรป
+    tl: Mga Lupong Olimpikong Europeo
+    tr: Avrupa Olimpiyat Komiteleri
+    uk: Олімпійські комітети Європи
+    uz: Yevropa Olimpiya qoʻmitasi
+    vi: Ủy ban Olympic châu Âu
+    zh: 欧洲奥林匹克委员会
+    zh-hans: 欧洲奥林匹克委员会
+    zh-hant: 歐洲奧林匹克委員會
+    zh-hk: 歐洲奧林匹克委員會
 ---
-
 # [[European_Olympic_Committees]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~European_Olympic_Committees,642949|WD~European_Olympic_Committees,642949]] 

@@ -1,25 +1,122 @@
 ---
 aliases:
+- D Suite in dr Muusig
+- sarja
+- siuita
+- sraith
+- Suit muzik
+- Suita
+- suite
+- suito
+- suită
+- suíte
+- svit
+- Svita (muzika)
+- Svīta
+- Syuita
+- szvit
+- Süit
+- süita
+- Tổ khúc
+- σουίτα
+- свита
+- сюіта
+- сюїта
+- сюита
+- Շարանուագ
+- Սյուիտ
+- סוויטה
+- سوئیت
+- متتابعة
+- เพลงชุด
+- 組曲
+- 组曲
+- 모음곡
 has_id_wikidata: Q203005
-subclass_of: "[[_Standards/WikiData/WD~cycle,245596]]"
+subclass_of: '[[_Standards/WikiData/WD~cycle,245596]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~musical_form,862597]]"
-  - "[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]"
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Jazz,13417658]]"
+- '[[_Standards/WikiData/WD~WikiProject_Classical_music,8485042]]'
+- '[[_Standards/WikiData/WD~WikiProject_Jazz,13417658]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SYUITA.html
 Commons_category: Suites (music)
+dv_has_:
+  name_:
+    ar: متتابعة
+    ast: Suite
+    az: süita
+    ba: Сюита
+    be: сюіта
+    be-tarask: сюіта
+    bg: Сюита
+    ca: suite
+    cs: suita
+    da: suite
+    de: Suite
+    el: σουίτα
+    en: suite
+    eo: suito
+    es: suite
+    et: Süit
+    eu: suite
+    fa: سوئیت
+    fi: sarja
+    fr: suite
+    ga: sraith
+    gl: suite
+    gsw: D Suite in dr Muusig
+    he: סוויטה
+    hr: Suita
+    hu: szvit
+    hy: Սյուիտ
+    hyw: Շարանուագ
+    it: suite
+    ja: 組曲
+    kk: Сюита
+    ko: 모음곡
+    ky: сюита
+    lt: siuita
+    lv: Svīta
+    mk: свита
+    ms: Suit muzik
+    nb: suite
+    nl: suite
+    nn: suite
+    pl: Suita
+    pt: suíte
+    ro: suită
+    ru: сюита
+    sh: Suita
+    sk: Suita
+    sl: suita
+    sr: Svita (muzika)
+    sv: svit
+    tg: Сюита
+    th: เพลงชุด
+    tr: Süit
+    tt: Сюита
+    uk: сюїта
+    uz: Syuita
+    vi: Tổ khúc
+    yue: 組曲
+    zh: 组曲
+    zh-cn: 组曲
+    zh-hans: 组曲
+    zh-hant: 組曲
+    zh-hk: 組曲
+    zh-sg: 组曲
+    zh-tw: 組曲
 ---
-
 # [[Suite(Music)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suite,203005|WD~Suite,203005]]  

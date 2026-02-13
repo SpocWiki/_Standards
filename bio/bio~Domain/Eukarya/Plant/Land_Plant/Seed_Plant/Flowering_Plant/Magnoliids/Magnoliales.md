@@ -1,9 +1,124 @@
 ---
 aliases:
-  - Magnoliales
+- Bộ Mộc lan
+- Koma manolyayan
+- liliomfa-virágúak
+- Magnoliales
+- Magnolialoj
+- Magnolials
+- magnoliaordenen
+- magnoliaordningen
+- magnolie-ordenen
+- Magnolienartige
+- magnolijevci
+- Magnolijiečiai
+- Magnolijolike
+- magnoliju rinda
+- Magnoliowce
+- magnoolialaadsed
+- Magnoolienoortagen
+- magnóliotvaré
+- Maqnoliyaçiçəklilər
+- Tanom nga magnolia
+- šácholanotvaré
+- Μαγνολιώδη
+- Магнолієцвіті
+- Магноліякветныя
+- магноліяпсіды
+- магнолиецветни
+- магнолиецветные
+- Магнолионтæ
+- Магнолия чукӧр
+- מגנולאים
+- ماجنوليات
+- ماغنوليات
+- مگنولی
+- میگنولطب
+- മഗ്നോളിയേൽസ്
+- อันดับจำปา
+- モクレン目
+- 木兰目
+- 木蘭目
+- 목련목
 title: Magnoliales
+has_id_wikidata: Q27187
+dv_has_:
+  name_:
+    af: Magnoliales
+    an: Magnoliales
+    ar: ماغنوليات
+    arz: ماجنوليات
+    ast: Magnoliales
+    az: Maqnoliyaçiçəklilər
+    bcl: Magnoliales
+    be: магноліяпсіды
+    be-tarask: Магноліякветныя
+    bg: магнолиецветни
+    bs: Magnoliales
+    ca: Magnolials
+    ceb: Tanom nga magnolia
+    co: Magnoliales
+    cs: šácholanotvaré
+    cy: Magnoliales
+    da: magnolie-ordenen
+    de: Magnolienartige
+    el: Μαγνολιώδη
+    en: Magnoliales
+    eo: Magnolialoj
+    es: Magnoliales
+    et: magnoolialaadsed
+    eu: Magnoliales
+    ext: Magnoliales
+    fa: مگنولی
+    fi: Magnoliales
+    fr: Magnoliales
+    frr: Magnoolienoortagen
+    ga: Magnoliales
+    gl: Magnoliales
+    he: מגנולאים
+    hr: Magnolijolike
+    hu: liliomfa-virágúak
+    ia: Magnoliales
+    id: Magnoliales
+    ie: Magnoliales
+    ilo: Magnoliales
+    io: Magnoliales
+    it: Magnoliales
+    ja: モクレン目
+    ko: 목련목
+    koi: Магнолия чукӧр
+    ku: Koma manolyayan
+    kv: Магнолия чукӧр
+    la: Magnoliales
+    lt: Magnolijiečiai
+    lv: magnoliju rinda
+    ml: മഗ്നോളിയേൽസ്
+    ms: Magnoliales
+    mul: Magnoliales
+    nb: magnoliaordenen
+    nl: Magnoliales
+    oc: Magnoliales
+    os: Магнолионтæ
+    pl: Magnoliowce
+    pt: Magnoliales
+    pt-br: Magnoliales
+    ro: Magnoliales
+    ru: магнолиецветные
+    sco: Magnoliales
+    sk: magnóliotvaré
+    sl: magnolijevci
+    sq: Magnoliales
+    sr: Magnoliales
+    sv: magnoliaordningen
+    th: อันดับจำปา
+    uk: Магнолієцвіті
+    ur: میگنولطب
+    vi: Bộ Mộc lan
+    vo: Magnoliales
+    war: Magnoliales
+    yue: 木蘭目
+    zh: 木兰目
 ---
-
 # [[Magnoliales]] 
 
 ![Magnolia tripetala](Magnoliales/Magnolia_tripetala03805.jpg)  ![Asimina triloba,Pawpaw tree](Magnoliales/Pawpaw_tree.jpg) 

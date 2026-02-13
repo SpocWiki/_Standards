@@ -1,19 +1,89 @@
 ---
-has_time_started: 1600-01-01 
+has_time_started: 1600-01-01
 aliases:
-  - Baroque_Music
-  - Baroque Music
+- Aetas Baroca
+- barockens musik
+- Barockmusik
+- Barok müzik
+- Baroka muziko
+- baroka mūzika
+- barokk zene
+- barokkimusiikki
+- barokkmusikk
+- barokkmuusika
+- barokko
+- Barokko davri musiqasi
+- Barokmusek
+- Barokmusiek
+- barokmusik
+- barokmuziek
+- Barokmuzyk
+- Barokna glazba
+- Barokna muzika
+- barokní hudba
+- Baroko muzika
+- baroková hudba
+- Baroque Music
+- Baroque_Music
+- baročna glasba
+- Barócach
+- cerddoriaeth faróc
+- ceòl barocach
+- D Muusig im Barock
+- ilow baroque
+- kiaull Varockagh
+- Mozika barôka
+- musica barocca
+- musica barròca
+- Musik Barok
+- musika barroko
+- Musikang Baroque
+- musique baroque
+- muzică barocă
+- Muzik era barok
+- Muzika barok
+- muzyka barokowa
+- muzîka barok
+- mużika Barokka
+- Mùsica barocca
+- música barroca
+- música del Barroco
+- Música del Barrocu
+- âm nhạc Baroque
+- μπαρόκ μουσική
+- барокавая музыка
+- барокко дәүере музыкаһы
+- бароккойы музыкæ
+- барокна музика
+- музика бароко
+- музыка барока
+- музыка эпохи барокко
+- բարոկկո դարաշրջանի երաժշտություն
+- באראק מוזיק
+- מוזיקת בארוק
+- باروک موسيقي
+- موسيقى باروكية
+- موسيقى باروكيه
+- موسیقی دوره باروک
+- مۆسیقای بۆرۆک
+- बारोक संगीत
+- బరోక్ సంగీతం
+- ดนตรีสมัยบารอก
+- バロック音楽
+- 巴洛克音乐
+- 巴洛克音樂
+- 바로크 음악
 has_id_wikidata: Q8361
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
 follows: '[[_Standards/WikiData/WD~Renaissance_music,201405]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~music_of_Europe,3328676]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q10514009,10514009]]'
-  - '[[_Standards/WikiData/WD~Template_Baroque_music,22773371]]'
+- '[[_Standards/WikiData/WD~Q10514009,10514009]]'
+- '[[_Standards/WikiData/WD~Template_Baroque_music,22773371]]'
 inception: 1600-01-01T00:00:00Z
 followed_by: '[[_Standards/WikiData/WD~Classical_period,17723]]'
 subreddit: Baroque
@@ -21,8 +91,96 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Johann%20Sebastian%20B
 Commons_category: Baroque music
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pietro%20paolini%2C%20concerto%2C%201625%20ca..JPG
 P8189: 987007553190705171
+dv_has_:
+  name_:
+    af: Barokmusiek
+    ar: موسيقى باروكية
+    arz: موسيقى باروكيه
+    ast: Música del Barrocu
+    az: barokko
+    ba: барокко дәүере музыкаһы
+    be: музыка барока
+    be-tarask: барокавая музыка
+    bs: Barokna muzika
+    ca: música barroca
+    ckb: مۆسیقای بۆرۆک
+    cs: barokní hudba
+    cy: cerddoriaeth faróc
+    da: barokmusik
+    de: Barockmusik
+    de-ch: Barockmusik
+    el: μπαρόκ μουσική
+    en: Baroque music
+    en-ca: Baroque music
+    en-gb: Baroque music
+    eo: Baroka muziko
+    es: música del Barroco
+    et: barokkmuusika
+    eu: musika barroko
+    fa: موسیقی دوره باروک
+    fi: barokkimusiikki
+    fr: musique baroque
+    fy: Barokmuzyk
+    ga: Barócach
+    gd: ceòl barocach
+    gl: música barroca
+    gsw: D Muusig im Barock
+    gv: kiaull Varockagh
+    he: מוזיקת בארוק
+    hr: Barokna glazba
+    hu: barokk zene
+    hy: բարոկկո դարաշրջանի երաժշտություն
+    id: Musik Barok
+    it: musica barocca
+    ja: バロック音楽
+    ko: 바로크 음악
+    ku: muzîka barok
+    ku-latn: muzîka barok
+    kw: ilow baroque
+    la: Aetas Baroca
+    lb: Barokmusek
+    lt: Baroko muzika
+    lv: baroka mūzika
+    mg: Mozika barôka
+    mk: барокна музика
+    ms: Muzik era barok
+    mt: mużika Barokka
+    mwl: Música barroca
+    nb: barokkmusikk
+    new: बारोक संगीत
+    nl: barokmuziek
+    nn: barokkmusikk
+    oc: musica barròca
+    os: бароккойы музыкæ
+    pl: muzyka barokowa
+    ps: باروک موسيقي
+    pt: música barroca
+    pt-br: Música barroca
+    ro: muzică barocă
+    ru: музыка эпохи барокко
+    scn: Mùsica barocca
+    sh: barokna muzika
+    sk: baroková hudba
+    sl: baročna glasba
+    sms: barokkmusikk
+    sq: Muzika barok
+    sr: барокна музика
+    sv: barockens musik
+    te: బరోక్ సంగీతం
+    th: ดนตรีสมัยบารอก
+    tl: Musikang Baroque
+    tr: Barok müzik
+    uk: музика бароко
+    uz: Barokko davri musiqasi
+    vi: âm nhạc Baroque
+    wuu: 巴洛克音乐
+    yi: באראק מוזיק
+    yue: 巴洛克音樂
+    zh: 巴洛克音乐
+    zh-hant: 巴洛克音樂
+    zh-hk: 巴洛克音樂
+    zh-tw: 巴洛克音樂
 ---
-
 # [[Baroque_Music]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Baroque_music,8361|WD~Baroque_music,8361]] 

@@ -1,11 +1,41 @@
 ---
 aliases:
+- Paenungulatomorpha
 has_id_wikidata: Q123509500
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_name: Paenungulatomorpha
-parent_taxon: "[[../Afrotheria]]"
+parent_taxon: '[[../Afrotheria]]'
+dv_has_:
+  name_:
+    an: Paenungulatomorpha
+    ast: Paenungulatomorpha
+    ca: Paenungulatomorpha
+    cs: Paenungulatomorpha
+    de: Paenungulatomorpha
+    el: Paenungulatomorpha
+    en: Paenungulatomorpha
+    eo: Paenungulatomorpha
+    es: Paenungulatomorpha
+    eu: Paenungulatomorpha
+    ext: Paenungulatomorpha
+    fr: Paenungulatomorpha
+    ga: Paenungulatomorpha
+    gl: Paenungulatomorpha
+    ia: Paenungulatomorpha
+    ie: Paenungulatomorpha
+    io: Paenungulatomorpha
+    it: Paenungulatomorpha
+    la: Paenungulatomorpha
+    mul: Paenungulatomorpha
+    nl: Paenungulatomorpha
+    oc: Paenungulatomorpha
+    pl: Paenungulatomorpha
+    pt: Paenungulatomorpha
+    pt-br: Paenungulatomorpha
+    sl: Paenungulatomorpha
+    uk: Paenungulatomorpha
+    vo: Paenungulatomorpha
 ---
-
 # [[Paenungulatomorpha]] 
 
 #is_/same_as :: [[WD~Paenungulatomorpha,123509500]]

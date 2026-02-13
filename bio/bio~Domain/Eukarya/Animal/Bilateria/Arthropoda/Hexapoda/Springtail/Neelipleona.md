@@ -1,9 +1,37 @@
 ---
 aliases:
-  - Neelipleona
+- Neelipleona
+- Zrněnky
+- 短角䖴目
 title: Neelidae
+has_id_wikidata: Q1940074
+dv_has_:
+  name_:
+    ast: Neelipleona
+    bg: Neelipleona
+    ceb: Neelipleona
+    cs: Zrněnky
+    de: Neelipleona
+    en: Neelipleona
+    es: Neelipleona
+    fi: Neelipleona
+    fr: Neelipleona
+    ga: Neelipleona
+    it: Neelipleona
+    la: Neelipleona
+    mul: Neelipleona
+    nl: Neelipleona
+    pl: Neelipleona
+    pt: Neelipleona
+    ro: Neelipleona
+    ru: Neelipleona
+    sq: Neelipleona
+    sv: Neelipleona
+    uk: Neelipleona
+    vi: Neelipleona
+    war: Neelipleona
+    zh: 短角䖴目
 ---
-
 ## [[Neelipleona]] 
 
 Neelidae 

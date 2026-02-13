@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Iuridae
+- Iuridae
+- ايريدى
+- 毒尾蝎科
 title: Iuridae
+has_id_wikidata: Q140687
+dv_has_:
+  name_:
+    an: Iuridae
+    arz: ايريدى
+    ast: Iuridae
+    bg: Iuridae
+    ca: Iuridae
+    ceb: Iuridae
+    de: Iuridae
+    en: Iuridae
+    eo: Iuridae
+    es: Iuridae
+    eu: Iuridae
+    ext: Iuridae
+    fi: Iuridae
+    fr: Iuridae
+    ga: Iuridae
+    gl: Iuridae
+    ia: Iuridae
+    ie: Iuridae
+    io: Iuridae
+    it: Iuridae
+    la: Iuridae
+    mul: Iuridae
+    nb: Iuridae
+    nl: Iuridae
+    oc: Iuridae
+    pl: Iuridae
+    pt: Iuridae
+    pt-br: Iuridae
+    ro: Iuridae
+    ru: Iuridae
+    sq: Iuridae
+    tr: Iuridae
+    uk: Iuridae
+    vi: Iuridae
+    vo: Iuridae
+    war: Iuridae
+    zh: 毒尾蝎科
+    zh-cn: 毒尾蝎科
+    zh-hans: 毒尾蝎科
+    zh-tw: 毒尾蝎科
 ---
-
 # [[Iuridae]] 
 
 

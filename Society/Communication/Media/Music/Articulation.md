@@ -1,16 +1,92 @@
 ---
 aliases:
-  - Articulation
+- articolazione
+- articulació
+- articulación
+- articulatie
+- articulatio
+- Articulation
+- artikulaatio
+- artikulace
+- artikulacija
+- artikulacio
+- artikulasjon
+- artikulation
+- artikulatsioon
+- artikulazio
+- artikulering
+- artikulyasiya
+- artikülasyon
+- artykulacja
+- cynanu
+- zenei játékmód
+- артикулација
+- артикулация
+- Артикулация (музика)
+- артикулятсия
+- артикуляція музична
+- артикуляция
+- артыкуляцыя
+- արտիկուլացիա
+- ארטיקולציה
+- جملهبندی
+- نطق موسيقي
+- アーティキュレーション
+- 發音法
+- 銜接
+- 아티큘레이션
 has_id_wikidata: Q372923
-different_from: "[[_Standards/WikiData/WD~Articulation,230158]]"
-subclass_of: "[[_Standards/WikiData/WD~musical_parameter,1639408]]"
+different_from: '[[_Standards/WikiData/WD~Articulation,230158]]'
+subclass_of: '[[_Standards/WikiData/WD~musical_parameter,1639408]]'
 Commons_category: Articulation (music)
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-duracion.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-intensidad.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-duracion.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Articulaciones-intensidad.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Artikulation.ogg
+dv_has_:
+  name_:
+    ar: نطق موسيقي
+    be-tarask: артыкуляцыя
+    bg: артикулация
+    ca: articulació
+    cs: artikulace
+    cy: cynanu
+    da: artikulation
+    de: Artikulation
+    en: articulation
+    eo: artikulacio
+    es: articulación
+    et: artikulatsioon
+    eu: artikulazio
+    fa: جملهبندی
+    fi: artikulaatio
+    fr: articulation
+    gsw: Artikulation
+    he: ארטיקולציה
+    hu: zenei játékmód
+    hy: արտիկուլացիա
+    it: articolazione
+    ja: アーティキュレーション
+    ko: 아티큘레이션
+    ky: артикуляция
+    la: articulatio
+    nb: artikulasjon
+    nl: articulatie
+    pl: artykulacja
+    rsk: Артикулация (музика)
+    ru: артикуляция
+    sh: artikulacija
+    sl: artikulacija
+    sr: артикулација
+    sr-ec: артикулација
+    sv: artikulering
+    tg: артикулятсия
+    tr: artikülasyon
+    uk: артикуляція музична
+    uz: artikulyasiya
+    yue: 發音法
+    zh: 銜接
 ---
-
 # [[Articulation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Articulation,372923|WD~Articulation,372923]] 

@@ -1,91 +1,351 @@
 ---
 aliases:
-  - hydrophobia
-  - Rabies
+- Amorru
+- besnota
+- Bingh'mabag
+- Bjesnilo
+- Bjesnoća
+- Bolwetši bja Rabies
+- Bệnh dại
+- Chimbwamupengo
+- Chiwewe
+- confadh
+- Dhuukkuba Sarre Maraataa
+- Diĕng-kēng-bâng
+- Dìgbòlugi
+- Emarabi
+- Guduzlama
+- Har
+- harî
+- Hondsdolheid
+- Hundaæði
+- Hundaøði
+- hundegalskab
+- hydrophobia
+- Ibisazi by’imbwa
+- Isiḍ
+- Iṣiḍ (aṭṭan)
+- Kichaa cha mbwa
+- Kraman yare
+- kuduz
+- Marabi
+- Marutaud
+- Mayielëwäth
+- Må d' araedje
+- Ngbáráwá
+- pasiutligė
+- Penyakit anjing gila
+- Quduzluq
+- Quturish
+- Raabiyada
+- rabbia
+- rabia
+- Rabie
+- Rabies
+- rabio
+- Rabis
+- Rabiès
+- Rabiés
+- rage
+- Raggia
+- raiva
+- ravia
+- ràbia
+- Rábies
+- Siáu-káu-pēⁿ
+- steklina
+- Sëmundja e tërbimit
+- Tollwut
+- trakumsērga
+- Umgada
+- vesikauhu
+- veszettség
+- Vuvabyi bya Rihuhu
+- vzteklina
+- wścieklizna
+- Y gynddaredd
+- λύσσα
+- Аапкра
+- Атнаскадома
+- беснило
+- бешенство
+- Бяс
+- Галзуу өвчин
+- Иирии
+- Калчаа
+- котыру авыруы
+- Кутурма
+- сказ
+- Тилĕрӳ
+- шаленства
+- Құтыру
+- Ҳорӣ
+- Կատաղություն
+- כלבת
+- داء الكلب
+- ریبیز
+- غالجىرلىق كېسىلى
+- قودوزلوق
+- مرض کلب
+- نەخۆشیی ھاری
+- هاری
+- रेबिज
+- रेबीज
+- रेबीज़
+- জলাতংক
+- ਹਲਕ
+- હડકવા
+- ଜଳାତଙ୍କ
+- வெறிநாய்க்கடி நோய்
+- రేబీస్
+- ರೇಬೀಸ್
+- പേവിഷബാധ
+- ජලභීතිකාව
+- โรคพิษสุนัขบ้า
+- ཁྱི་སྨྱོན་དུག་
+- ခွီးရူးပြန်ရောဂါ
+- ခွေးရူးပြန်ရောဂါ
+- ცოფი
+- ჸალა
+- ሕማም ዕቡድ ከልቢ
+- የእብድ ውሻ በሽታ
+- ⵉⵚⵉⴹ
+- 狂犬病
+- 癲狗病
+- 광견병
 has_id_wikidata: Q39222
 RIA_Novosti_reference: 61575680
 ICD_10_CM:
-  - A82.0
-  - A82.1
-  - A82.9
-  - A82
+- A82.0
+- A82.1
+- A82.9
+- A82
 UMLS_CUI: C0034494
 MeSH_tree_code: C01.925.782.580.830.750
 Commons_category: Rabies
 Baidu_Tieba_name: 狂犬病
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~pain,81938]]'
-  - '[[_Standards/WikiData/WD~paralysis,107231]]'
-  - '[[_Standards/WikiData/WD~vomiting,127076]]'
-  - '[[_Standards/WikiData/WD~hallucination,130741]]'
-  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
-  - '[[_Standards/WikiData/WD~photophobia,281289]]'
-  - '[[_Standards/WikiData/WD~hypersalivation,761862]]'
-  - '[[_Standards/WikiData/WD~paresthesia,769220]]'
-  - '[[_Standards/WikiData/WD~mydriasis,1128283]]'
-  - '[[_Standards/WikiData/WD~hyperactivity,1640850]]'
-  - '[[_Standards/WikiData/WD~insomnia,1869874]]'
-  - '[[_Standards/WikiData/WD~chills,2260058]]'
-  - '[[_Standards/WikiData/WD~phonophobia,2434711]]'
-  - '[[_Standards/WikiData/WD~respiratory_arrest,3774744]]'
-  - '[[_Standards/WikiData/WD~increase,9073584]]'
-  - '[[_Standards/WikiData/WD~hydrophobia_(sign),56635009]]'
-  - '[[_Standards/WikiData/WD~irritability,29299]]'
-  - '[[_Standards/WikiData/WD~headache,86]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
-  - '[[_Standards/WikiData/WD~fear,44619]]'
+- '[[_Standards/WikiData/WD~pain,81938]]'
+- '[[_Standards/WikiData/WD~paralysis,107231]]'
+- '[[_Standards/WikiData/WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~hallucination,130741]]'
+- '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
+- '[[_Standards/WikiData/WD~photophobia,281289]]'
+- '[[_Standards/WikiData/WD~hypersalivation,761862]]'
+- '[[_Standards/WikiData/WD~paresthesia,769220]]'
+- '[[_Standards/WikiData/WD~mydriasis,1128283]]'
+- '[[_Standards/WikiData/WD~hyperactivity,1640850]]'
+- '[[_Standards/WikiData/WD~insomnia,1869874]]'
+- '[[_Standards/WikiData/WD~chills,2260058]]'
+- '[[_Standards/WikiData/WD~phonophobia,2434711]]'
+- '[[_Standards/WikiData/WD~respiratory_arrest,3774744]]'
+- '[[_Standards/WikiData/WD~increase,9073584]]'
+- '[[_Standards/WikiData/WD~hydrophobia_(sign),56635009]]'
+- '[[_Standards/WikiData/WD~irritability,29299]]'
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~fear,44619]]'
 named_after:
-  - '[[_Standards/WikiData/WD~rage,153641]]'
-  - '[[_Standards/WikiData/WD~dog,144]]'
+- '[[_Standards/WikiData/WD~rage,153641]]'
+- '[[_Standards/WikiData/WD~dog,144]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
-  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~encephalitis,199615]]'
-  - '[[_Standards/WikiData/WD~myelitis,551085]]'
+- '[[_Standards/WikiData/WD~encephalitis,199615]]'
+- '[[_Standards/WikiData/WD~myelitis,551085]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_cause: '[[_Standards/WikiData/WD~rabies_virus,698976]]'
 disease_transmission_process:
-  - '[[_Standards/WikiData/WD~animal_bite,866650]]'
-  - '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+- '[[_Standards/WikiData/WD~animal_bite,866650]]'
+- '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
 possible_treatment: '[[_Standards/WikiData/WD~post_exposure_prophylaxis,1361206]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-  - '[[_Standards/WikiData/WD~central_nervous_system_viral_disease,5062121]]'
-  - '[[_Standards/WikiData/WD~Rhabdoviridae_infectious_disease,18968214]]'
-  - '[[_Standards/WikiData/WD~Lyssavirus_infection,24863584]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~central_nervous_system_viral_disease,5062121]]'
+- '[[_Standards/WikiData/WD~Rhabdoviridae_infectious_disease,18968214]]'
+- '[[_Standards/WikiData/WD~Lyssavirus_infection,24863584]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 maximal_incubation_period_in_humans: 1
 minimal_incubation_period_in_humans: 7
 DiseasesDB: 11148
 described_at_URL:
-  - https://www.who.int/news-room/fact-sheets/detail/rabies
-  - https://www.cdc.gov.tw/Disease/SubIndex/u5dFJL5s1K6uh0EcWVzJYQ
+- https://www.who.int/news-room/fact-sheets/detail/rabies
+- https://www.cdc.gov.tw/Disease/SubIndex/u5dFJL5s1K6uh0EcWVzJYQ
 ICD_9_CM: 071
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrophobia%20in%20rabies.webm
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%9C%E0%AC%B3%E0%AC%BE%E0%AC%A4%E0%AC%99%E0%AD%8D%E0%AC%95.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rabies%20patient.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:11260
-  - http://purl.obolibrary.org/obo/DOID_11260
-  - http://www.orpha.net/ORDO/Orphanet_770
+- http://identifiers.org/doid/DOID:11260
+- http://purl.obolibrary.org/obo/DOID_11260
+- http://www.orpha.net/ORDO/Orphanet_770
+dv_has_:
+  name_:
+    ab: Аапкра
+    af: Hondsdolheid
+    am: የእብድ ውሻ በሽታ
+    an: Rabia
+    ar: داء الكلب
+    arz: داء الكلب
+    as: জলাতংক
+    ast: Rabia
+    az: Quduzluq
+    azb: قودوزلوق
+    ban: Rabiés
+    bcl: Rabies
+    be: шаленства
+    be-tarask: шаленства
+    bg: Бяс
+    bn: জলাতংক
+    bo: ཁྱི་སྨྱོན་དུག་
+    bs: Bjesnilo
+    ca: ràbia
+    cdo: Diĕng-kēng-bâng
+    ckb: نەخۆشیی ھاری
+    cs: vzteklina
+    cv: Тилĕрӳ
+    cy: Y gynddaredd
+    da: hundegalskab
+    de: Tollwut
+    din: Mayielëwäth
+    diq: Har
+    el: λύσσα
+    eml: Ràbia
+    en: rabies
+    eo: rabio
+    es: rabia
+    et: Marutaud
+    eu: Amorru
+    fa: هاری
+    fi: vesikauhu
+    fo: Hundaøði
+    fr: rage
+    ga: confadh
+    gl: Rabia
+    gn: Rabia
+    gpe: Rabies
+    gu: હડકવા
+    ha: Rabies
+    he: כלבת
+    hi: रेबीज़
+    hr: Bjesnoća
+    hu: veszettség
+    hy: Կատաղություն
+    ia: Rabies
+    id: rabies
+    ig: Rabis
+    io: Rabio
+    is: Hundaæði
+    it: rabbia
+    ja: 狂犬病
+    jv: Rabiès
+    ka: ცოფი
+    kab: Isiḍ
+    kk: Құтыру
+    kn: ರೇಬೀಸ್
+    ko: 광견병
+    ks: ریبیز
+    ku: harî
+    ky: Кутурма
+    la: Rabies
+    lij: Raggia
+    lmo: Rabia
+    ln: Ngbáráwá
+    lt: pasiutligė
+    lv: trakumsērga
+    mai: रेबिज
+    map-bms: Rabies
+    mk: беснило
+    ml: പേവിഷബാധ
+    mn: Галзуу өвчин
+    mr: रेबीज
+    ms: Penyakit anjing gila
+    my: ခွေးရူးပြန်ရောဂါ
+    myv: Атнаскадома
+    nan: Siáu-káu-pēⁿ
+    nb: rabies
+    ne: रेबिज
+    nl: hondsdolheid
+    nn: rabies
+    nso: Bolwetši bja Rabies
+    ny: Chiwewe
+    oc: Ràbia
+    om: Dhuukkuba Sarre Maraataa
+    or: ଜଳାତଙ୍କ
+    pa: ਹਲਕ
+    pl: wścieklizna
+    pt: raiva
+    pt-br: raiva
+    rki: ခွီးရူးပြန်ရောဂါ
+    ro: Rabie
+    ru: бешенство
+    rw: Ibisazi by’imbwa
+    sah: Иирии
+    scn: Raggia
+    sco: rabies
+    se: Rábies
+    sh: Bjesnilo
+    shi: Iṣiḍ (aṭṭan)
+    si: ජලභීතිකාව
+    sk: besnota
+    sl: steklina
+    sn: Chimbwamupengo
+    so: Raabiyada
+    sq: Sëmundja e tërbimit
+    sr: беснило
+    ss: Emarabi
+    st: Marabi
+    su: Rabiés
+    sv: rabies
+    sw: Kichaa cha mbwa
+    ta: வெறிநாய்க்கடி நோய்
+    te: రేబీస్
+    tet: ravia
+    tg: Ҳорӣ
+    th: โรคพิษสุนัขบ้า
+    ti: ሕማም ዕቡድ ከልቢ
+    tk: Guduzlama
+    tl: Rabies
+    tr: kuduz
+    ts: Vuvabyi bya Rihuhu
+    tt: котыру авыруы
+    tw: Kraman yare
+    tyv: Калчаа
+    ug: غالجىرلىق كېسىلى
+    uk: сказ
+    ur: مرض کلب
+    uz: Quturish
+    vec: ràbia
+    vi: Bệnh dại
+    wa: Må d' araedje
+    war: Rabies
+    wuu: 狂犬病
+    xh: Umgada
+    xmf: ჸალა
+    yo: Dìgbòlugi
+    yue: 癲狗病
+    za: Bingh'mabag
+    zgh: ⵉⵚⵉⴹ
+    zh: 狂犬病
+    zh-hant: 狂犬病
+    zh-tw: 狂犬病
 ---
-
 # [[Rabies]] 
 
 #is_/same_as :: [[WD~Rabies,39222]] 

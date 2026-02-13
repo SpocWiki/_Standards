@@ -1,11 +1,75 @@
 ---
 aliases:
-  - Eifersucht
-  - Jealousy
+- Ahoɔyaw
+- Armukadedus
+- Celos
+- ciúme
+- Eifersucht
+- féltékenység
+- gelosia
+- gelozie
+- Ghen
+- Gilusìa
+- greizsirdība
+- Gwarizi
+- Jaloesie
+- jaloezie
+- jalousi
+- jalousie
+- Jaluzeso
+- Jealousy
+- Jeloskortasun
+- Kecemburuan
+- kıskançlık
+- Ljubomora
+- mustasukkaisuus
+- Qısqanclıq
+- Rashk
+- Selos
+- sjalusi
+- Svartsjuka
+- Tismin
+- Wivu
+- Xhelozia
+- zavist
+- Zazdrość
+- Zelus
+- éad
+- Ékwòrò
+- ĵaluzo
+- žiarlivosť
+- žárlivost
+- ζήλια
+- Љубомора
+- Күнүү
+- көнчелек
+- Кӳлешӳ
+- Ревност
+- ревность
+- ревнощі
+- Рэўнасць
+- рэўнасьць
+- Хардалт
+- Ҳасадат
+- խանդ
+- קנאה
+- حسادت
+- دڵپیسی
+- غيرة
+- जलन
+- मत्सर
+- ঈৰ্ষা
+- ਈਰਖਾ
+- ઈર્ષ્યા
+- பொறாமை
+- ಅಸೂಯೆ
+- 妒忌
+- 嫉妬
+- 질투
 has_id_wikidata: Q6545811
 different_from:
-  - '[[_Standards/WikiData/WD~envy,188739]]'
-  - '[[_Standards/WikiData/WD~Q20397722,20397722]]'
+- '[[_Standards/WikiData/WD~envy,188739]]'
+- '[[_Standards/WikiData/WD~Q20397722,20397722]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of: '[[_Standards/WikiData/WD~defensive_pessimism,1182638]]'
 opposite_of: '[[_Standards/WikiData/WD~compersion,1283059]]'
@@ -20,8 +84,89 @@ IMDb_keyword: jealousy
 PhilPapers_topic: jealousy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Young%20Romance.jpg
 MeSH_tree_code: F01.470.653
+dv_has_:
+  name_:
+    af: Jaloesie
+    ak: Ahoɔyaw
+    ar: غيرة
+    as: ঈৰ্ষা
+    ast: Celos
+    az: Qısqanclıq
+    be: Рэўнасць
+    be-tarask: рэўнасьць
+    bg: Ревност
+    br: Gwarizi
+    bs: Ljubomora
+    ca: gelosia
+    ckb: دڵپیسی
+    cs: žárlivost
+    cv: Кӳлешӳ
+    da: jalousi
+    de: Eifersucht
+    el: ζήλια
+    en: jealousy
+    eo: ĵaluzo
+    es: celos
+    et: Armukadedus
+    eu: Jeloskortasun
+    fa: حسادت
+    fi: mustasukkaisuus
+    fr: jalousie
+    ga: éad
+    gl: Celos
+    gu: ઈર્ષ્યા
+    he: קנאה
+    hi: जलन
+    hr: Ljubomora
+    hu: féltékenység
+    hy: խանդ
+    id: Kecemburuan
+    ig: Ékwòrò
+    io: Jaluzeso
+    it: gelosia
+    ja: 嫉妬
+    kab: Tismin
+    kn: ಅಸೂಯೆ
+    ko: 질투
+    la: Zelus
+    lmo: Gelosia
+    lv: greizsirdība
+    mk: Љубомора
+    mn: Хардалт
+    mr: मत्सर
+    ms: Kecemburuan
+    nb: sjalusi
+    nl: jaloezie
+    nn: sjalusi
+    oc: Gelosia
+    pa: ਈਰਖਾ
+    pl: Zazdrość
+    pt: ciúme
+    ro: gelozie
+    ru: ревность
+    sah: Күнүү
+    scn: Gilusìa
+    sh: Ljubomora
+    sk: žiarlivosť
+    sl: zavist
+    sq: Xhelozia
+    sr: љубомора
+    sr-ec: љубомора
+    sr-el: ljubomora
+    sv: Svartsjuka
+    sw: Wivu
+    ta: பொறாமை
+    tg: Ҳасадат
+    tl: Selos
+    tr: kıskançlık
+    tt: көнчелек
+    uk: ревнощі
+    uz: Rashk
+    vi: Ghen
+    wuu: 妒忌
+    yue: 妒忌
+    zh: 妒忌
 ---
-
 # [[Jealousy]] 
 
 #is_/same_as :: [[WD~Jealousy,6545811]] 

@@ -1,29 +1,142 @@
 ---
 aliases:
-  - Comet
+- aquchinchay
+- asmil
+- auahitūroa
+- bandus
+- Bintang beguang
+- Bintang kudus
+- Bintang sapu
+- bisycmaplini
+- chēng-chiū-sĭng
+- cier ayɔl
+- comaid
+- comed
+- Comet
+- cometa
+- comete
+- cometes
+- cometă
+- comète
+- comëtta
+- comēta
+- conmète
+- coudu
+- cumeta
+- cuméta
+- cóiméad
+- cītlalin popōca
+- fùi-sên
+- halastjarna
+- Händtähtaz
+- jhaarru
+- kamit
+- komeet
+- komeetta
+- Komet
+- kometa
+- komete
+- kometo
+- komeʹtt
+- komiettu
+- komèt
+- Koméit
+- komét
+- kométa
+- komēta
+- koomeet
+- Kuyruklu yıldız
+- mbyjausuveve
+- ndaundeiqsauqbaet
+- nyotamkia
+- Qorsaa
+- quyruqlı yıldız
+- reul earballach
+- sao chổi
+- seaibenásti
+- steredenn-lostek
+- steren lostek
+- stoele al cawe
+- Sunvívánɔ
+- tn̂g-boé-chheⁿ
+- ubhaqanyezi
+- üstökös
+- šloutžvaizdė
+- κομήτης
+- вутлă хӳре
+- камета
+- камэта
+- комета
+- къæдзилджын стъалы
+- лometa
+- сometa
+- сүүлт од
+- һүүлтэй одон
+- գիսաստղ
+- գիսաւորներ
+- קאמעט
+- שביט
+- دم دار ستارہ
+- دم دار سیارے
+- دنبالهدار
+- قویروقلو اولدوز
+- قۇيرۇقلۇق يۇلتۇز
+- لکۍ لرونکی ستوری
+- مذنب
+- مزنب
+- پوڇڙ تارا
+- کلکدار
+- کیتھ
+- ގިނިހިލަ
+- धुमकेतू
+- धूमकेतु
+- धूमकेतुः
+- धूमकेतू
+- धूम्रकेतू
+- पुच्छल तारा
+- लामपुच्छ्रे तारा
+- लामपुछ्रे तारा
+- ধূমকেতু
+- ਪੂਛਲ ਤਾਰਾ
+- ધૂમકેતુ
+- ଧୁମକେତୁ
+- வால்வெள்ளி
+- తోకచుక్క
+- ಧೂಮಕೇತು
+- ധൂമകേതു
+- වල්ගාතරු
+- ดาวหาง
+- ကြယ်တံခွန်
+- ဆာႏတံꩻခွေါန်ႏ
+- လၢဝ်ၵႂၼ်း
+- კომეტა
+- ᡝᡵᡳᡴᡠ ᡠᠰᡳᡥᠠ
+- 彗星
+- 欃槍
+- 혜성
 has_id_wikidata: Q3559
-subclass_of: "[[_Standards/WikiData/WD~small_Solar_System_body,193275]]"
-part_of: "[[_Standards/WikiData/WD~planetary_system,206717]]"
+subclass_of: '[[_Standards/WikiData/WD~small_Solar_System_body,193275]]'
+part_of: '[[_Standards/WikiData/WD~planetary_system,206717]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~coma,259854]]"
-  - "[[_Standards/WikiData/WD~comet_tail,559875]]"
-  - "[[_Standards/WikiData/WD~comet_nucleus,1773534]]"
+- '[[_Standards/WikiData/WD~coma,259854]]'
+- '[[_Standards/WikiData/WD~comet_tail,559875]]'
+- '[[_Standards/WikiData/WD~comet_nucleus,1773534]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~exocomet,2855300]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~exocomet,2855300]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_comet,5623690]]"
-  - "[[_Standards/WikiData/WD~Template_Comets,7644680]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_comet,5623690]]'
+- '[[_Standards/WikiData/WD~Template_Comets,7644680]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/comets
-depicted_by: "[[_Standards/WikiData/WD~La_Cometa,126685404]]"
-studied_by: "[[_Standards/WikiData/WD~cometology,131560888]]"
-has_list: "[[_Standards/WikiData/WD~list_of_comets,37554]]"
+depicted_by: '[[_Standards/WikiData/WD~La_Cometa,126685404]]'
+studied_by: '[[_Standards/WikiData/WD~cometology,131560888]]'
+has_list: '[[_Standards/WikiData/WD~list_of_comets,37554]]'
 IMDb_keyword: comet
 OmegaWiki_Defined_Meaning: 446805
 image: http://commons.wikimedia.org/wiki/Special:FilePath/C2022%20E3%20%28ZTF%29-%20Alessandro%20Bianconi.jpg
@@ -39,25 +152,233 @@ Krugosvet_article: astronomiya/kometa
 Commons_category: Comets
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Comet,3559|WD~Comet,3559]]"
-    - "[[/_Standards/Astronomy/Solar_System/Comet|Comet]]"
-    - "[[/_public/Astronomy/Solar_System/Comet.public|Comet.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Comet.internal|Comet.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Comet.protect|Comet.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Comet.private|Comet.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Comet.personal|Comet.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Comet.secret|Comet.secret]]"
+  - '[[../../WikiData/WD~Comet,3559|WD~Comet,3559]]'
+  - '[[/_Standards/Astronomy/Solar_System/Comet|Comet]]'
+  - '[[/_public/Astronomy/Solar_System/Comet.public|Comet.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Comet.internal|Comet.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Comet.protect|Comet.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Comet.private|Comet.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Comet.personal|Comet.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Comet.secret|Comet.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Comet,3559|WD~Comet,3559]]"
-  - "[[/_Standards/Astronomy/Solar_System/Comet|Comet]]"
-  - "[[/_public/Astronomy/Solar_System/Comet.public|Comet.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Comet.internal|Comet.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Comet.protect|Comet.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Comet.private|Comet.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Comet.personal|Comet.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Comet.secret|Comet.secret]]"
+- '[[../../WikiData/WD~Comet,3559|WD~Comet,3559]]'
+- '[[/_Standards/Astronomy/Solar_System/Comet|Comet]]'
+- '[[/_public/Astronomy/Solar_System/Comet.public|Comet.public]]'
+- '[[/_internal/Astronomy/Solar_System/Comet.internal|Comet.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Comet.protect|Comet.protect]]'
+- '[[/_private/Astronomy/Solar_System/Comet.private|Comet.private]]'
+- '[[/_personal/Astronomy/Solar_System/Comet.personal|Comet.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Comet.secret|Comet.secret]]'
+dv_has_:
+  name_:
+    af: komeet
+    an: сometa
+    ang: comēta
+    anp: धूमकेतु
+    ar: مذنب
+    arz: مزنب
+    as: ধূমকেতু
+    ast: сometa
+    awa: धूमकेतु
+    az: лometa
+    azb: قویروقلو اولدوز
+    ba: комета
+    ban: Bintang kudus
+    bar: Komet
+    bcl: kometa
+    be: камета
+    be-tarask: камэта
+    bew: Bintang sapu
+    bg: комета
+    bho: पुच्छल तारा
+    bjn: komét
+    blk: ဆာႏတံꩻခွေါန်ႏ
+    bn: ধূমকেতু
+    br: steredenn-lostek
+    bs: kometa
+    btm: Komet
+    bxr: һүүлтэй одон
+    ca: cometa
+    cdo: chēng-chiū-sĭng
+    ce: комета
+    ckb: کلکدار
+    co: Cometa
+    crh: quyruqlı yıldız
+    cs: kometa
+    cv: вутлă хӳре
+    cy: comed
+    da: komet
+    de: Komet
+    din: cier ayɔl
+    dty: लामपुच्छ्रे तारा
+    dv: ގިނިހިލަ
+    el: κομήτης
+    eml: cuméta
+    en: comet
+    en-ca: comet
+    en-gb: comet
+    eo: kometo
+    es: cometa
+    et: komeet
+    eu: kometa
+    fa: دنبالهدار
+    fi: komeetta
+    fon: Sunvívánɔ
+    fr: comète
+    frr: Komeet
+    fur: comete
+    fy: komeet
+    ga: cóiméad
+    gd: reul earballach
+    gl: cometa
+    gn: mbyjausuveve
+    gom: धुमकेतू
+    gor: Komet
+    gsw: Komet
+    gu: ધૂમકેતુ
+    gv: comaid
+    hak: fùi-sên
+    he: שביט
+    hi: धूमकेतु
+    hif: jhaarru
+    hr: komet
+    ht: komèt
+    hu: üstökös
+    hy: գիսաստղ
+    hyw: գիսաւորներ
+    ia: cometa
+    iba: Bintang beguang
+    id: komet
+    ie: Comete
+    ig: Comet
+    ilo: bandus
+    io: kometo
+    is: halastjarna
+    it: cometa
+    ja: 彗星
+    jam: kamit
+    jbo: bisycmaplini
+    jv: komèt
+    ka: კომეტა
+    kaa: kometa
+    kab: asmil
+    kk: комета
+    kn: ಧೂಮಕೇತು
+    knc: Komet
+    ko: 혜성
+    ks: کیتھ
+    ksh: komet
+    kw: steren lostek
+    ky: комета
+    la: cometes
+    lb: Koméit
+    lez: комета
+    lfn: cometa
+    li: komeet
+    lld: cumeta
+    lmo: cometa
+    lt: kometa
+    lv: komēta
+    lzh: 欃槍
+    mad: Komèt
+    mg: kometa
+    mi: auahitūroa
+    min: komet
+    mk: комета
+    ml: ധൂമകേതു
+    mn: сүүлт од
+    mnc: ᡝᡵᡳᡴᡠ ᡠᠰᡳᡥᠠ
+    mr: धूमकेतू
+    ms: komet
+    mt: kometa
+    my: ကြယ်တံခွန်
+    nah: cītlalin popōca
+    nan: tn̂g-boé-chheⁿ
+    nb: komet
+    nds: Komet
+    ne: लामपुछ्रे तारा
+    new: धूम्रकेतू
+    nl: komeet
+    nn: komet
+    nov: komete
+    nrm: conmète
+    oc: cometa
+    olo: komiettu
+    om: Qorsaa
+    or: ଧୁମକେତୁ
+    os: къæдзилджын стъалы
+    pa: ਪੂਛਲ ਤਾਰਾ
+    pam: kometa
+    pap: kometa
+    pl: kometa
+    pms: comëtta
+    pnb: دم دار ستارہ
+    ps: لکۍ لرونکی ستوری
+    pt: cometa
+    pt-br: cometa
+    qu: aquchinchay
+    rki: ကြယ်တံခွန်
+    ro: cometă
+    rsk: Комета
+    ru: комета
+    rue: комета
+    sa: धूमकेतुः
+    sah: комета
+    sc: coudu
+    scn: cumeta
+    sd: پوڇڙ تارا
+    se: seaibenásti
+    sgs: šloutžvaizdė
+    sh: kometa
+    shn: လၢဝ်ၵႂၼ်း
+    si: වල්ගාතරු
+    sk: kométa
+    sl: komet
+    smn: koomeet
+    sms: komeʹtt
+    sq: kometa
+    sr: комета
+    sr-ec: комета
+    sr-el: kometa
+    stq: Komete
+    su: komét
+    sv: komet
+    sw: nyotamkia
+    ta: வால்வெள்ளி
+    te: తోకచుక్క
+    tg: комета
+    th: ดาวหาง
+    tk: kometa
+    tl: kometa
+    tr: Kuyruklu yıldız
+    tt: комета
+    udm: комета
+    ug: قۇيرۇقلۇق يۇلتۇز
+    uk: комета
+    ur: دم دار سیارے
+    uz: kometa
+    vec: cometa
+    vep: Händtähtaz
+    vi: sao chổi
+    wa: stoele al cawe
+    war: kometa
+    wuu: 彗星
+    xmf: კომეტა
+    yi: קאמעט
+    yo: comet
+    yue: 彗星
+    za: ndaundeiqsauqbaet
+    zh: 彗星
+    zh-cn: 彗星
+    zh-hans: 彗星
+    zh-hant: 彗星
+    zh-hk: 彗星
+    zh-mo: 彗星
+    zh-my: 彗星
+    zh-sg: 彗星
+    zh-tw: 彗星
+    zu: ubhaqanyezi
 ---
-
 # [[Comet]] 
 
 #is_/similar_to :: [[Solar_System/Asteroid|Asteroid]] 

@@ -1,26 +1,143 @@
 ---
 aliases:
-  - Ontogeny
-  - Ontogenese
-  - ontogenesis
+- egyedfejlődés
+- Individugenezo
+- Ontoceniye
+- ontogenees
+- Ontogenese
+- ontogenesi
+- ontogenesis
+- Ontogenetsko razviće
+- ontogenez
+- Ontogeneza
+- ontogeneze
+- Ontogeni
+- ontogenia
+- ontogenija
+- Ontogeny
+- ontogenèse
+- Ontogenéza
+- Ontogonez
+- Ontogènesi
+- ontogènia
+- ontojeni
+- ontoxenia
+- ontoģenēze
+- ontwikkelingsfysiologie
+- phát triển cá thể
+- Yksilönkehitys
+- οντογένεση
+- антагенез
+- онтагенэз
+- онтогенез
+- Онтогенеза
+- онтогенетско развиће
+- Онтогонез
+- Օնտոգենեզ
+- אונטוגניה
+- اونتوݢيني
+- تطور الجنين
+- رشد شناسی
+- ونتوگونەز
+- ონტოგენეზი
+- 个体发生学
+- 個体発生
+- 個體發生學
 has_id_wikidata: Q193603
 part_of:
-  - "[[_Standards/WikiData/WD~developmental_biology,213713]]"
-  - "[[_Standards/WikiData/WD~biological_life_cycle,513359]]"
-subclass_of: "[[_Standards/WikiData/WD~developmental_process,2843407]]"
-different_from: "[[_Standards/WikiData/WD~Ontogeneza,11798371]]"
+- '[[_Standards/WikiData/WD~developmental_biology,213713]]'
+- '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
+subclass_of: '[[_Standards/WikiData/WD~developmental_process,2843407]]'
+different_from: '[[_Standards/WikiData/WD~Ontogeneza,11798371]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-depicted_by: "[[_Standards/WikiData/WD~recapitulation_theory,32384]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+depicted_by: '[[_Standards/WikiData/WD~recapitulation_theory,32384]]'
 Commons_category:
-  - Morphogenesis
-  - Ontogeny
-Dewey_Decimal_Classification: "571.8"
+- Morphogenesis
+- Ontogeny
+Dewey_Decimal_Classification: 571.8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ambystoma%20mavortium.jpg
 Terminologia_Embryologica: E1.0.0.0.0.0.20
+dv_has_:
+  name_:
+    ar: تطور الجنين
+    ast: Ontogenia
+    az: ontogenez
+    be: антагенез
+    be-tarask: онтагенэз
+    bg: Онтогенеза
+    bs: Ontogeneza
+    ca: ontogènia
+    cs: ontogeneze
+    da: ontogenese
+    de: Ontogenese
+    diq: Ontoceniye
+    el: οντογένεση
+    en: ontogeny
+    en-ca: Ontogeny
+    en-gb: Ontogeny
+    eo: Individugenezo
+    es: ontogenia
+    et: ontogenees
+    eu: Ontogenia
+    fa: رشد شناسی
+    fi: Yksilönkehitys
+    fr: ontogenèse
+    gl: ontoxenia
+    he: אונטוגניה
+    hu: egyedfejlődés
+    hy: Օնտոգենեզ
+    id: Ontogeni
+    inh: Онтогенез
+    it: ontogenesi
+    ja: 個体発生
+    ka: ონტოგენეზი
+    kaa: Ontogenez
+    kk: Онтогонез
+    kk-arab: ونتوگونەز
+    kk-cn: ونتوگونەز
+    kk-cyrl: Онтогонез
+    kk-kz: Онтогонез
+    kk-latn: Ontogonez
+    kk-tr: Ontogonez
+    ky: Онтогенез
+    lv: ontoģenēze
+    mk: онтогенеза
+    ms: ontogeni
+    ms-arab: اونتوݢيني
+    nb: ontogenese
+    nds: Ontogenese
+    nl: ontwikkelingsfysiologie
+    nn: ontogeni
+    pl: ontogeneza
+    pt: ontogenia
+    pt-br: Ontogenia
+    ru: онтогенез
+    rue: Онтогенеза
+    sc: Ontogènesi
+    sh: Ontogenetsko razviće
+    sk: Ontogenéza
+    sl: ontogenija
+    sr: онтогенетско развиће
+    sr-ec: Онтогенетско развиће
+    sr-el: Ontogenetsko razviće
+    sv: ontogeni
+    tg: Онтогенез
+    tr: ontojeni
+    tt: Онтогенез
+    uk: онтогенез
+    uz: Ontogenez
+    vi: phát triển cá thể
+    yue: 個體發生學
+    zh: 個體發生學
+    zh-cn: 个体发生学
+    zh-hans: 个体发生学
+    zh-hant: 個體發生學
+    zh-hk: 個體發生學
+    zh-sg: 个体发生学
+    zh-tw: 個體發生學
 ---
-
 # [[Ontogeny]] 
 
 #is_/different_from :: [[Phylogeny]] 

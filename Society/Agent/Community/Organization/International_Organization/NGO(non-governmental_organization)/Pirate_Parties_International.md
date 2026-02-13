@@ -1,15 +1,51 @@
 ---
-has_time_started: 2010-04-18 
+has_time_started: 2010-04-18
 aliases:
+- Alderdi Piraten Internazionala
+- Internacia Pirata Partio
+- Internacional de Partidos Piratas
+- Internacional de Partíos Pirata
+- Internacionala piratskih partija
+- Internacionála pirátských stran
+- Internazionale dei Partiti Pirata
+- Międzynarodowa Partia Piratów
+- Parti pirate international
+- Partidos Pirata Internacionales
+- Partits Pirata Internacional
+- Pesta Bajak Laut Internasional
+- Piraattipuolueiden internationaali
+- Pirate Pairties Internaitional
+- Pirate Parties International
+- Pirātu Partiju Internacionāle
+- Vyama vya Maharamia Kimataifa
+- Διεθνής Πειρατικών Κομμάτων
+- Інтернаціонал Піратських Партій
+- Інтэрнацыянал пірацкіх партыяў
+- Међународна пиратска партија
+- Международна пиратска партия
+- Пірацкі Інтэрнацыянал
+- Пиратска интернационала
+- Пиратский Интернационал
+- Ծովահենային ինտերնացիոնալ
+- האינטרנציונל של מפלגות הפיראטים
+- أممية أحزاب القراصنة
+- دزدان دریایی بینالمللی حزب
+- पाइरेट पार्टीज इंटरनेशनल
+- पाइरेट पार्टीज इन्टरनेसनल
+- பைரேட் பர்டீஸ் இன்டர்நேசனல்
+- 海盗党国际
+- 海盜黨國際
+- 海賊党インターナショナル
+- 해적당 인터내셔널
 has_id_wikidata: Q170
 instance_of:
-  - "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
-  - "[[_Standards/WikiData/WD~political_organization,7210356]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-has_part_s_: "[[_Standards/WikiData/WD~European_Pirate_Party,15081858]]"
-country: "[[_Standards/WikiData/WD~Switzerland,39]]"
-headquarters_location: "[[_Standards/WikiData/WD~Geneva,71]]"
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+has_part_s_: '[[_Standards/WikiData/WD~European_Pirate_Party,15081858]]'
+country: '[[_Standards/WikiData/WD~Switzerland,39]]'
+headquarters_location: '[[_Standards/WikiData/WD~Geneva,71]]'
 social_media_followers: 21246
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/PPI%20signet.svg
 official_website: https://pp-international.net/
@@ -18,8 +54,66 @@ X_Twitter_username: PPInternational
 native_label: Pirate Parties International
 short_name: PPI
 inception: 2010-04-18T00:00:00Z
+dv_has_:
+  name_:
+    af: Pirate Parties International
+    ar: أممية أحزاب القراصنة
+    ast: Internacional de Partíos Pirata
+    be: Пірацкі Інтэрнацыянал
+    be-tarask: Інтэрнацыянал пірацкіх партыяў
+    bg: Международна пиратска партия
+    bho: पाइरेट पार्टीज इंटरनेशनल
+    ca: Partits Pirata Internacional
+    cs: Internacionála pirátských stran
+    da: Pirate Parties International
+    de: Pirate Parties International
+    el: Διεθνής Πειρατικών Κομμάτων
+    en: Pirate Parties International
+    en-ca: Pirate Parties International
+    en-gb: Pirate Parties International
+    eo: Internacia Pirata Partio
+    es: Partidos Pirata Internacionales
+    eu: Alderdi Piraten Internazionala
+    fi: Piraattipuolueiden internationaali
+    fo: Pirate Parties International
+    fr: Parti pirate international
+    he: האינטרנציונל של מפלגות הפיראטים
+    hu: Pirate Parties International
+    hy: Ծովահենային ինտերնացիոնալ
+    id: Pesta Bajak Laut Internasional
+    is: Pirate Parties International
+    it: Internazionale dei Partiti Pirata
+    ja: 海賊党インターナショナル
+    kl: Pirate Parties International
+    ko: 해적당 인터내셔널
+    lb: Pirate Parties International
+    lv: Pirātu Partiju Internacionāle
+    mk: Пиратска интернационала
+    mzn: دزدان دریایی بینالمللی حزب
+    nb: Pirate Parties International
+    ne: पाइरेट पार्टीज इन्टरनेसनल
+    nl: Pirate Parties International
+    nn: Pirate Parties International
+    oc: Pirate Parties International
+    pl: Międzynarodowa Partia Piratów
+    pt-br: Internacional de Partidos Piratas
+    ru: Пиратский Интернационал
+    sco: Pirate Pairties Internaitional
+    sh: Internacionala piratskih partija
+    sl: Pirate Parties International
+    sr: Међународна пиратска партија
+    sv: Pirate Parties International
+    sw: Vyama vya Maharamia Kimataifa
+    ta: பைரேட் பர்டீஸ் இன்டர்நேசனல்
+    tr: Pirate Parties International
+    uk: Інтернаціонал Піратських Партій
+    wuu: 海盗党国际
+    zh: 海盜黨國際
+    zh-cn: 海盗党国际
+    zh-hans: 海盗党国际
+    zh-hant: 海盜黨國際
+    zh-tw: 海盜黨國際
 ---
-
 # [[Pirate_Parties_International]] 
 
 #is_/same_as :: [[WD~Pirate_Parties_International,170]] 

@@ -1,33 +1,78 @@
 ---
 aliases:
-  - endorelation
-  - Homogeneous_Relation
-  - Homogeneous Relation
+- endohubungan
+- endorelacija
+- endorelasjon
+- endorelation
+- endorelazione
+- endorełasion
+- endorilato
+- endorrelación
+- endorrelação
+- Homogene Relation
+- Homogeneous Relation
+- Homogeneous_Relation
+- homogenní relace
+- relación homoxénea
+- yakın ilişki
+- внутреннее отношение
+- ендорелација
+- унутраная адносіна
+- эчке мөнәсәбәт
+- ներքին հարաբերություն
+- יחס הומוגני
+- 自己関係
+- 齊次關係
 has_id_wikidata: Q54938846
-subclass_of: "[[_Standards/WikiData/WD~binary_relation,130901]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-opposite_of: "[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_relation,130324710]]"
+subclass_of: '[[_Standards/WikiData/WD~binary_relation,130901]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+opposite_of: '[[_Standards/WikiData/WD~heterogeneous_relation,54939316]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_relation,130324710]]'
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation|Homogeneous_Relation]]"
-    - "[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]"
-    - "[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]"
-    - "[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]"
-    - "[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]"
-    - "[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]"
-    - "[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]"
-    - "[[Homogeneous_Relation]]"
+  - '[[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation|Homogeneous_Relation]]'
+  - '[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]'
+  - '[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]'
+  - '[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]'
+  - '[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]'
+  - '[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]'
+  - '[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]'
+  - '[[Homogeneous_Relation]]'
 dv_is_same_as:
-  - "[[Homogeneous_Relation]]"
-  - "[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]"
-  - "[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]"
-  - "[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]"
-  - "[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]"
-  - "[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]"
-  - "[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]"
+- '[[Homogeneous_Relation]]'
+- '[[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation.public|Homogeneous_Relation.public]]'
+- '[[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.internal|Homogeneous_Relation.internal]]'
+- '[[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation.protect|Homogeneous_Relation.protect]]'
+- '[[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation.private|Homogeneous_Relation.private]]'
+- '[[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation.personal|Homogeneous_Relation.personal]]'
+- '[[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation.secret|Homogeneous_Relation.secret]]'
+dv_has_:
+  name_:
+    be: унутраная адносіна
+    cs: homogenní relace
+    de: Homogene Relation
+    en: endorelation
+    eo: endorilato
+    es: endorrelación
+    fr: endorelation
+    gl: relación homoxénea
+    he: יחס הומוגני
+    hy: ներքին հարաբերություն
+    it: endorelazione
+    ja: 自己関係
+    ms: endohubungan
+    nb: endorelasjon
+    nn: endorelasjon
+    pt: endorrelação
+    pt-br: endorrelação
+    ru: внутреннее отношение
+    sl: endorelacija
+    sr: ендорелација
+    tr: yakın ilişki
+    tt: эчке мөнәсәбәт
+    vec: endorełasion
+    zh: 齊次關係
 ---
-
 # [[Homogeneous_Relation]] 
 
 

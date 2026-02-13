@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1209759
+---
+
 # [[Algol]] 
 
 #is_a_/ComputerLanguage 

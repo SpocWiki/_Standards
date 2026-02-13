@@ -1,11 +1,198 @@
 ---
 aliases:
-  - Sponge
-  - Sponges
-  - Porifera
+- banaog
+- belaki
+- didi laot
+- esponges de mar
+- espongha
+- gąbki
+- houbovci
+- hubky
+- hái-mî tōng-bu̍t
+- käsnad
+- liifaa ykn sarphaphuu
+- Parazoa
+- pintys
+- Porifera
+- Porifero
+- poríferos
+- puqyala
+- sapɔ
+- sbwng
+- Schwämm
+- Schwämme
+- sfungjeri
+- sienieläimet
+- sifongo-bahari
+- span
+- Spoensn
+- Sponge
+- Sponges
+- spongulo
+- sponjo
+- sponsdier
+- sponsdieren
+- spoonge
+- Spoonze
+- spoue
+- spužve
+- spúinse
+- sunger
+- svampar
+- svampdjur
+- svampdýr
+- svampedyr
+- svamper
+- Swaampen
+- Swammdeerter
+- szivacsok
+- süngerler
+- süngərlər
+- sūkļi
+- táłtłʼááh yilcháazhii
+- động vật thân lỗ
+- σπόγγος
+- болоттар
+- болытлар
+- ведьзем
+- водни гъби
+- губкі
+- губка
+- губкавлӓ
+- губкалар
+- губки
+- зныгъойтæ
+- сунђери
+- сунѓери
+- սպունգներ
+- ספוגיים
+- إسفنجيات
+- اسفنج دریایی
+- اسفنجيات
+- اسپنج
+- فایلم پوریفیرا
+- موریانوالے
+- स्पंज
+- পরিফেরা
+- স্পঞ্জ
+- பஞ்சுயிரி
+- స్పంజిక
+- ಸ್ಪಂಜು ಪ್ರಾಣಿಗಳು
+- സ്പോഞ്ച്
+- ฟองน้ำ
+- စပန်းရေမြှုပ်
+- ღრუბლები
+- ሰፍነግ
+- អេប៉ុងហ្ស៍
+- 多孔动物门
+- 多孔動物門
+- 海綿動物
+- 海綿動物門
+- 해면동물
 title: Porifera
+has_id_wikidata: Q18960
+dv_has_:
+  name_:
+    af: sponsdier
+    am: ሰፍነግ
+    ar: إسفنجيات
+    arz: اسفنجيات
+    as: স্পঞ্জ
+    az: süngərlər
+    ba: болоттар
+    be: губкі
+    be-tarask: губкі
+    bew: didi laot
+    bg: водни гъби
+    bn: পরিফেরা
+    br: spoue
+    ca: esponges de mar
+    ceb: banaog
+    cs: houbovci
+    cv: губка
+    cy: sbwng
+    da: svampedyr
+    de: Schwämme
+    diq: sunger
+    el: σπόγγος
+    eo: spongulo
+    et: käsnad
+    eu: belaki
+    fa: اسفنج دریایی
+    fi: sienieläimet
+    frr: Swaampen
+    ga: spúinse
+    gl: poríferos
+    he: ספוגיים
+    hi: स्पंज
+    hr: spužve
+    hu: szivacsok
+    hy: սպունգներ
+    io: sponjo
+    is: svampdýr
+    ja: 海綿動物
+    ka: ღრუბლები
+    kk: губкалар
+    km: អេប៉ុងហ្ស៍
+    kn: ಸ್ಪಂಜು ಪ್ರಾಣಿಗಳು
+    ko: 해면동물
+    ku: Parazoa
+    ky: губкалар
+    lb: Schwämm
+    lfn: Porifero
+    li: Spoonze
+    lld: sponges
+    lt: pintys
+    lv: sūkļi
+    mk: сунѓери
+    ml: സ്പോഞ്ച്
+    mrj: губкавлӓ
+    ms: span
+    mul: Porifera
+    my: စပန်းရေမြှုပ်
+    myv: ведьзем
+    nan: hái-mî tōng-bu̍t
+    nb: svamper
+    nds: Swammdeerter
+    nl: sponsdieren
+    nn: svampar
+    nv: táłtłʼááh yilcháazhii
+    oc: Porifera
+    om: liifaa ykn sarphaphuu
+    os: зныгъойтæ
+    pl: gąbki
+    pnb: موریانوالے
+    qu: puqyala
+    ru: губки
+    sco: spoonge
+    sd: اسپنج
+    sh: spužve
+    sk: hubky
+    sl: spužve
+    sq: sfungjeri
+    sr: сунђери
+    sv: svampdjur
+    sw: sifongo-bahari
+    ta: பஞ்சுயிரி
+    te: స్పంజిక
+    th: ฟองน้ำ
+    tl: espongha
+    tr: süngerler
+    tt: болытлар
+    tw: sapɔ
+    uk: губки
+    ur: فایلم پوریفیرا
+    vi: động vật thân lỗ
+    vls: Spoensn
+    wuu: 多孔动物门
+    yue: 海綿動物
+    zh: 多孔动物门
+    zh-cn: 多孔动物门
+    zh-hans: 多孔动物门
+    zh-hant: 海綿動物門
+    zh-hk: 多孔動物門
+    zh-tw: 海綿動物門
 ---
-
 # [[Sponge]] 
 
 #is_a/bio-Phylum  

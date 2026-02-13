@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q235086
+---
+
 # [[Prog~Smalltalk]] 
 
 #is_a_/ComputerLanguage 

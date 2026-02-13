@@ -1,8 +1,65 @@
 ---
 aliases:
-  - Grabenkrieg
-  - Trench_warfare
-  - Trench warfare
+- asemasota
+- bellum fossis bellicis innixum
+- Brezel ar fozioù-difenn
+- chiến tranh giao thông hào
+- cogaíocht trinsí
+- Grabenkrieg
+- guerra de trincheiras
+- guerra de trincheras
+- guerra de trincheres
+- guerra de trinxeres
+- guerra di trincea
+- guerre de tranchées
+- guèrra de trencadas
+- kaevikusõda
+- loopgraaf
+- loopgravenoorlog
+- Lubaki-gerra
+- Lufta në llogore
+- lövészárok-hadviselés
+- peperangan kubu parit
+- perang parit
+- pozicinis karas
+- poziciska wójna
+- pozīciju karš
+- rhyfela mewn ffosydd
+- rovovsko ratovanje
+- război de tranșee
+- siper savaşı
+- skotgrafahernaður
+- skyttegravskrig
+- skyttergravskrig
+- strelski jarek
+- trancheo militado
+- tranĉea milito
+- Trench warfare
+- Trench_warfare
+- wojna pozycyjna
+- Yaƙi na Trench
+- zákopová vojna
+- zákopová válka
+- πόλεμος χαρακωμάτων
+- акоп
+- Окопна война
+- пазыцыйная вайна
+- позиційна війна
+- позиционная война
+- рововско војување
+- מלחמת חפירות
+- حرب الخنادق
+- حرب خنادق
+- سنگر
+- سەنگەر
+- مورچہ بند جنگ
+- खाई युद्ध
+- ಕಂದಕ ಯುದ್ಧ
+- სანგარი
+- 堑壕战
+- 塹壕戦
+- 塹壕戰
+- 참호전
 has_id_wikidata: Q241059
 instance_of: '[[_Standards/WikiData/WD~military_tactics,207645]]'
 uses: '[[_Standards/WikiData/WD~trench,1852785]]'
@@ -10,14 +67,84 @@ subclass_of: '[[_Standards/WikiData/WD~static_battle,7604156]]'
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Photography%20on%20the%20Western%20Front%2C%201916.%20HU100394.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bundesarchiv%20Bild%20136-B0560%2C%20Frankreich%2C%20Kavalleristen%20im%20Sch%C3%BCtzengraben.jpg
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20Alarm%20%28c.1918%29.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Into%20the%20Catacombs%20of%20War%20-%20Albert%20Dawson%20Inspecting%20Russian%20Trenches%20%28August%201915%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gas%20Alarm%20%28c.1918%29.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Into%20the%20Catacombs%20of%20War%20-%20Albert%20Dawson%20Inspecting%20Russian%20Trenches%20%28August%201915%29.ogg
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Snow%20at%20the%20front%20%284687960129%29.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Trench%20at%20night.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Trench%20construction%20diagram%201914.png
 Commons_category: Trench warfare
+dv_has_:
+  name_:
+    af: loopgraaf
+    ar: حرب الخنادق
+    arz: حرب خنادق
+    ast: guerra de trincheres
+    be: акоп
+    be-tarask: пазыцыйная вайна
+    bg: Окопна война
+    br: Brezel ar fozioù-difenn
+    ca: guerra de trinxeres
+    ckb: سەنگەر
+    cs: zákopová válka
+    cy: rhyfela mewn ffosydd
+    da: skyttegravskrig
+    de: Grabenkrieg
+    dsb: poziciska wójna
+    el: πόλεμος χαρακωμάτων
+    en: trench warfare
+    eo: tranĉea milito
+    es: guerra de trincheras
+    et: kaevikusõda
+    eu: Lubaki-gerra
+    fa: سنگر
+    fi: asemasota
+    fr: guerre de tranchées
+    ga: cogaíocht trinsí
+    gl: guerra de trincheiras
+    ha: Yaƙi na Trench
+    he: מלחמת חפירות
+    hi: खाई युद्ध
+    hr: rovovsko ratovanje
+    hu: lövészárok-hadviselés
+    id: perang parit
+    io: trancheo militado
+    is: skotgrafahernaður
+    it: guerra di trincea
+    ja: 塹壕戦
+    ka: სანგარი
+    kn: ಕಂದಕ ಯುದ್ಧ
+    ko: 참호전
+    la: bellum fossis bellicis innixum
+    lt: pozicinis karas
+    lv: pozīciju karš
+    mk: рововско војување
+    ms: peperangan kubu parit
+    mzn: سنگر
+    nb: skyttergravskrig
+    nl: loopgravenoorlog
+    oc: guèrra de trencadas
+    pl: wojna pozycyjna
+    pt: guerra de trincheiras
+    ro: război de tranșee
+    ru: позиционная война
+    sk: zákopová vojna
+    sl: strelski jarek
+    sq: Lufta në llogore
+    sr: rovovsko ratovanje
+    sv: skyttegravskrig
+    tr: siper savaşı
+    uk: позиційна війна
+    ur: مورچہ بند جنگ
+    vi: chiến tranh giao thông hào
+    yue: 塹壕戰
+    zh: 堑壕战
+    zh-cn: 堑壕战
+    zh-hans: 堑壕战
+    zh-hant: 塹壕戰
+    zh-hk: 塹壕戰
+    zh-sg: 堑壕战
+    zh-tw: 塹壕戰
 ---
-
 # [[Trench_warfare]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Trench_warfare,241059|WD~Trench_warfare,241059]]  

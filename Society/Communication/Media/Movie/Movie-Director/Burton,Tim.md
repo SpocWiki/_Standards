@@ -1,74 +1,107 @@
 ---
 aliases:
-  - Tim Burton
-  - Burton,Tim
+- Burton,Tim
+- Tim Burton
+- Tim Börton
+- Timotheus Burton
+- Tims Bērtons
+- Τιμ Μπάρτον
+- Тім Бертон
+- Тим Бёртон
+- Тим Бартон
+- Тим Бертон
+- Тим Бъртън
+- Тим Бөртон
+- Тым Бэртан
+- Цім Бёртан
+- Թիմ Բարթոն
+- Թիմ Պըրթըն
+- טים בערטאן
+- טים ברטון
+- تيم برتون
+- تیم برتون
+- تیم بێرتن
+- ٹم برٹن
+- टिम बर्टन
+- টিম বার্টন
+- റ്റിം ബർട്ടൻ
+- ทิม เบอร์ตัน
+- ტიმ ბარტონი
+- ティム・バートン
+- 提姆·波頓
+- 提姆·波顿
+- 添·布頓
+- 添·布顿
+- 添布頓
+- 蒂姆·伯顿
+- 팀 버턴
 has_id_wikidata: Q56008
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Monica_Bellucci,81819]]"
-  - "[[_Standards/WikiData/WD~Helena_Bonham_Carter,170428]]"
-  - "[[_Standards/WikiData/WD~Lisa_Marie,242015]]"
-nominated_for: "[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]"
+- '[[_Standards/WikiData/WD~Monica_Bellucci,81819]]'
+- '[[_Standards/WikiData/WD~Helena_Bonham_Carter,170428]]'
+- '[[_Standards/WikiData/WD~Lisa_Marie,242015]]'
+nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Hugo_Award,188914]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]"
-  - "[[_Standards/WikiData/WD~Saturn_Award_for_Best_Animated_Film,1231643]]"
-  - "[[_Standards/WikiData/WD~Inkpot_Award,2687578]]"
-  - "[[_Standards/WikiData/WD~Daytime_Emmy_Award_for_Outstanding_Children's_Animated_Program,3019369]]"
-  - "[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]"
-  - "[[_Standards/WikiData/WD~Lumière_Award,_Lyon_Festival_of_cinema,3404975]]"
-  - "[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]"
-  - "[[_Standards/WikiData/WD~Winsor_McCay_Award,8025998]]"
-  - "[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]"
+- '[[_Standards/WikiData/WD~Hugo_Award,188914]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
+- '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Animated_Film,1231643]]'
+- '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+- "[[_Standards/WikiData/WD~Daytime_Emmy_Award_for_Outstanding_Children's_Animated_Program,3019369]]"
+- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+- '[[_Standards/WikiData/WD~Lumière_Award,_Lyon_Festival_of_cinema,3404975]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Dramatic_Presentation,3414212]]'
+- '[[_Standards/WikiData/WD~Winsor_McCay_Award,8025998]]'
+- '[[_Standards/WikiData/WD~Officer_of_Arts_and_Letters,13452524]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
 occupation:
-  - "[[_Standards/WikiData/WD~animator,266569]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~designer,5322166]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+- '[[_Standards/WikiData/WD~animator,266569]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~designer,5322166]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Walter,499249]]"
-  - "[[_Standards/WikiData/WD~William,12344159]]"
-  - "[[_Standards/WikiData/WD~Timothy,15885954]]"
-student_of: "[[_Standards/WikiData/WD~Jules_Engel,540866]]"
+- '[[_Standards/WikiData/WD~Walter,499249]]'
+- '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Timothy,15885954]]'
+student_of: '[[_Standards/WikiData/WD~Jules_Engel,540866]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~California_Institute_of_the_Arts,1026827]]"
-  - "[[_Standards/WikiData/WD~Burbank_High_School,4998156]]"
-family_name: "[[_Standards/WikiData/WD~Burton,1259568]]"
-employer: "[[_Standards/WikiData/WD~Walt_Disney_Studios,2216535]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-filmography: "[[_Standards/WikiData/WD~Tim_Burton_filmography,7803260]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Tim_Burton,8097175]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
+- '[[_Standards/WikiData/WD~California_Institute_of_the_Arts,1026827]]'
+- '[[_Standards/WikiData/WD~Burbank_High_School,4998156]]'
+family_name: '[[_Standards/WikiData/WD~Burton,1259568]]'
+employer: '[[_Standards/WikiData/WD~Walt_Disney_Studios,2216535]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+filmography: '[[_Standards/WikiData/WD~Tim_Burton_filmography,7803260]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tim_Burton,8097175]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
 child:
-  - "[[_Standards/WikiData/WD~Billy_Burton,29168703]]"
-  - "[[_Standards/WikiData/WD~Nell_Burton,75972052]]"
-spouse: "[[_Standards/WikiData/WD~Lena_Gieseke,56256181]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-mother: "[[_Standards/WikiData/WD~Jean_Rae_Erickson,108844355]]"
-father: "[[_Standards/WikiData/WD~Bill_Burton,108844353]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
-different_from: "[[_Standards/WikiData/WD~Timothy_Burt,113170803]]"
-notable_work: "[[_Standards/WikiData/WD~The_Nightmare_Before_Christmas,136673038]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+- '[[_Standards/WikiData/WD~Billy_Burton,29168703]]'
+- '[[_Standards/WikiData/WD~Nell_Burton,75972052]]'
+spouse: '[[_Standards/WikiData/WD~Lena_Gieseke,56256181]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+mother: '[[_Standards/WikiData/WD~Jean_Rae_Erickson,108844355]]'
+father: '[[_Standards/WikiData/WD~Bill_Burton,108844353]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
+different_from: '[[_Standards/WikiData/WD~Timothy_Burt,113170803]]'
+notable_work: '[[_Standards/WikiData/WD~The_Nightmare_Before_Christmas,136673038]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 2
-residence: "[[_Standards/WikiData/WD~Burbank,39561]]"
-place_of_birth: "[[_Standards/WikiData/WD~Burbank,39561]]"
-identifier_in_filmpolski_movie_database: "2885"
+residence: '[[_Standards/WikiData/WD~Burbank,39561]]'
+place_of_birth: '[[_Standards/WikiData/WD~Burbank,39561]]'
+identifier_in_filmpolski_movie_database: 2885
 social_media_followers: 21338
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BERTON_TIM.html
 Instagram_username: timburton
@@ -82,12 +115,116 @@ name_in_native_language: Tim Burton
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Burton-63605.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Tim%20Burton%20signature.png
 official_website: http://www.timburton.com
-ISNI: "0000000123213875"
+ISNI: 0000000123213875
 Libris_URI: 42gjmkxn2xts0pn
 Plex_person_key: 5d7768243c3c2a001fbca919
-P1015: "90813024"
+P1015: 90813024
+dv_has_:
+  name_:
+    ar: تيم برتون
+    arz: تيم برتون
+    ast: Tim Burton
+    az: Tim Börton
+    ban: Tim Burton
+    be: Цім Бёртан
+    be-tarask: Тым Бэртан
+    bg: Тим Бъртън
+    bn: টিম বার্টন
+    br: Tim Burton
+    bs: Tim Burton
+    ca: Tim Burton
+    ckb: تیم بێرتن
+    co: Tim Burton
+    cs: Tim Burton
+    cy: Tim Burton
+    da: Tim Burton
+    de: Tim Burton
+    de-ch: Tim Burton
+    el: Τιμ Μπάρτον
+    en: Tim Burton
+    en-ca: Tim Burton
+    en-gb: Tim Burton
+    eo: Tim Burton
+    es: Tim Burton
+    et: Tim Burton
+    eu: Tim Burton
+    fa: تیم برتون
+    fi: Tim Burton
+    fr: Tim Burton
+    ga: Tim Burton
+    gl: Tim Burton
+    he: טים ברטון
+    hi: टिम बर्टन
+    hr: Tim Burton
+    ht: Tim Burton
+    hu: Tim Burton
+    hy: Թիմ Բարթոն
+    hyw: Թիմ Պըրթըն
+    id: Tim Burton
+    ig: Tim Burton
+    io: Tim Burton
+    is: Tim Burton
+    it: Tim Burton
+    ja: ティム・バートン
+    ka: ტიმ ბარტონი
+    kk: Тим Бёртон
+    kl: Tim Burton
+    ko: 팀 버턴
+    la: Timotheus Burton
+    lb: Tim Burton
+    lt: Tim Burton
+    lv: Tims Bērtons
+    mg: Tim Burton
+    mk: Тим Бартон
+    ml: റ്റിം ബർട്ടൻ
+    mn: Тим Бартон
+    ms: Tim Burton
+    mul: Tim Burton
+    nan: Tim Burton
+    nb: Tim Burton
+    nl: Tim Burton
+    nn: Tim Burton
+    oc: Tim Burton
+    os: Тим Бёртон
+    pap: Tim Burton
+    pl: Tim Burton
+    pt: Tim Burton
+    pt-br: Tim Burton
+    ro: Tim Burton
+    ru: Тим Бёртон
+    sc: Tim Burton
+    scn: Tim Burton
+    sco: Tim Burton
+    sh: Tim Burton
+    sk: Tim Burton
+    sl: Tim Burton
+    smn: Tim Burton
+    sq: Tim Burton
+    sr: Тим Бертон
+    sv: Tim Burton
+    tg: Тим Бёртон
+    th: ทิม เบอร์ตัน
+    tr: Tim Burton
+    tt: Тим Бөртон
+    tt-cyrl: Тим Бөртон
+    uk: Тім Бертон
+    ur: ٹم برٹن
+    uz: Tim Burton
+    vi: Tim Burton
+    war: Tim Burton
+    wuu: 蒂姆·伯顿
+    xmf: ტიმ ბარტონი
+    yi: טים בערטאן
+    yo: Tim Burton
+    yue: 添布頓
+    zh: 蒂姆·伯顿
+    zh-cn: 蒂姆·伯顿
+    zh-hans: 蒂姆·伯顿
+    zh-hant: 提姆·波頓
+    zh-hk: 添·布頓
+    zh-my: 添·布顿
+    zh-sg: 提姆·波顿
 ---
-
 # [[Burton,Tim]]
 
 #is_a_/Person 

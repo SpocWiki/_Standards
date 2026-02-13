@@ -1,9 +1,144 @@
 ---
 aliases:
-  - Patricia Clarkson
-  - Clarkson,Patricia
+- Clarkson,Patricia
+- Patricia Clarkson
+- Patricia Clarksonová
+- Patriša Klarkson
+- Πατρίσια Κλάρκσον
+- Патрісія Кларксон
+- Патриша Кларксон
+- Патриша Кларксън
+- Патрысія Кларксан
+- Փաթրիշա Քլարքսոն
+- פטרישה קלארקסון
+- باتريشيا كلاركسون
+- پاتریشا کلارکسون
+- پاتریشیا کلارکسون
+- پیٹریشیا کلارکسن
+- প্যাট্রিশিয়া ক্লার্কসন
+- പട്രീഷ്യ ക്ലാർക്ക്സൺ
+- แพทริเซีย คลาร์กสัน
+- პატრისია კლარკსონი
+- パトリシア・クラークソン
+- 派翠西娅·克拉克森
+- 퍼트리샤 클라크슨
+has_id_wikidata: Q229268
+dv_has_:
+  name_:
+    af: Patricia Clarkson
+    an: Patricia Clarkson
+    ar: باتريشيا كلاركسون
+    arz: باتريشيا كلاركسون
+    ast: Patricia Clarkson
+    azb: پاتریشا کلارکسون
+    bar: Patricia Clarkson
+    be-tarask: Патрысія Кларксан
+    bg: Патриша Кларксън
+    bm: Patricia Clarkson
+    bn: প্যাট্রিশিয়া ক্লার্কসন
+    br: Patricia Clarkson
+    ca: Patricia Clarkson
+    co: Patricia Clarkson
+    cs: Patricia Clarksonová
+    cy: Patricia Clarkson
+    da: Patricia Clarkson
+    de: Patricia Clarkson
+    de-at: Patricia Clarkson
+    de-ch: Patricia Clarkson
+    el: Πατρίσια Κλάρκσον
+    en: Patricia Clarkson
+    en-ca: Patricia Clarkson
+    en-gb: Patricia Clarkson
+    eo: Patricia Clarkson
+    es: Patricia Clarkson
+    et: Patricia Clarkson
+    eu: Patricia Clarkson
+    fa: پاتریشیا کلارکسون
+    fi: Patricia Clarkson
+    fr: Patricia Clarkson
+    frc: Patricia Clarkson
+    frp: Patricia Clarkson
+    fur: Patricia Clarkson
+    ga: Patricia Clarkson
+    gd: Patricia Clarkson
+    gl: Patricia Clarkson
+    gsw: Patricia Clarkson
+    he: פטרישה קלארקסון
+    hr: Patricia Clarkson
+    hu: Patricia Clarkson
+    hy: Փաթրիշա Քլարքսոն
+    ia: Patricia Clarkson
+    id: Patricia Clarkson
+    ie: Patricia Clarkson
+    io: Patricia Clarkson
+    it: Patricia Clarkson
+    ja: パトリシア・クラークソン
+    jam: Patricia Clarkson
+    ka: პატრისია კლარკსონი
+    kab: Patricia Clarkson
+    kg: Patricia Clarkson
+    kk: Патриша Кларксон
+    ko: 퍼트리샤 클라크슨
+    lb: Patricia Clarkson
+    li: Patricia Clarkson
+    lij: Patricia Clarkson
+    lt: Patricia Clarkson
+    lv: Patricia Clarkson
+    mg: Patricia Clarkson
+    min: Patricia Clarkson
+    ml: പട്രീഷ്യ ക്ലാർക്ക്സൺ
+    ms: Patricia Clarkson
+    mul: Patricia Clarkson
+    nap: Patricia Clarkson
+    nb: Patricia Clarkson
+    nds: Patricia Clarkson
+    nds-nl: Patricia Clarkson
+    nl: Patricia Clarkson
+    nn: Patricia Clarkson
+    nrm: Patricia Clarkson
+    oc: Patricia Clarkson
+    pap: Patricia Clarkson
+    pcd: Patricia Clarkson
+    pl: Patricia Clarkson
+    pms: Patricia Clarkson
+    prg: Patricia Clarkson
+    pt: Patricia Clarkson
+    pt-br: Patricia Clarkson
+    rgn: Patricia Clarkson
+    rm: Patricia Clarkson
+    ro: Patricia Clarkson
+    ru: Патриша Кларксон
+    sc: Patricia Clarkson
+    scn: Patricia Clarkson
+    sco: Patricia Clarkson
+    sh: Patricia Clarkson
+    sk: Patricia Clarkson
+    skr: پیٹریشیا کلارکسن
+    sl: Patricia Clarkson
+    sq: Patricia Clarkson
+    sr: Патриша Кларксон
+    sr-ec: Патриша Кларксон
+    sr-el: Patriša Klarkson
+    sv: Patricia Clarkson
+    sw: Patricia Clarkson
+    th: แพทริเซีย คลาร์กสัน
+    tl: Patricia Clarkson
+    tr: Patricia Clarkson
+    uk: Патрісія Кларксон
+    ur: پیٹریشیا کلارکسن
+    uz: Patricia Clarkson
+    vec: Patricia Clarkson
+    vi: Patricia Clarkson
+    vls: Patricia Clarkson
+    vmf: Patricia Clarkson
+    vo: Patricia Clarkson
+    wa: Patricia Clarkson
+    wo: Patricia Clarkson
+    xmf: პატრისია კლარკსონი
+    yo: Patricia Clarkson
+    zh: 派翠西娅·克拉克森
+    zu: Patricia Clarkson
 ---
-
 #has_/time_/started :: 1959-12-29 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`  
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

@@ -1,9 +1,165 @@
 ---
 aliases:
-  - Homo
+- ayoleem
+- chi Người
+- cilvēki
+- Frummaður
+- Gjenar uman
+- Homo
+- Homo (genero)
+- ihmiset
+- Inimene
+- inuk
+- Lòm
+- Minsken (skaai)
+- människor
+- človek
+- člověk
+- İnsan
+- Žmonės
+- кешеләр
+- люди
+- Хомо
+- хора
+- чалавек
+- човек
+- Чоловік
+- Этем
+- אדם
+- מענטש
+- آدممونان
+- انسان
+- بشراني
+- مانس
+- هومو
+- ہومو
+- होमो
+- হোমো
+- హోమో
+- ഹോമോ
+- โฮโม
+- ᐃᓄᒃ
+- ヒト属
+- 人属
+- 人屬
+- 사람속
 title: Homo
+has_id_wikidata: Q171283
+dv_has_:
+  name_:
+    af: Homo
+    an: Homo
+    ar: بشراني
+    arz: هومو
+    ast: Homo
+    avk: ayoleem
+    az: İnsan
+    be: чалавек
+    be-tarask: чалавек
+    bg: хора
+    bn: হোমো
+    br: Homo
+    bs: Homo
+    ca: Homo
+    ceb: Homo
+    cs: člověk
+    cv: Этем
+    cy: Homo
+    da: homo
+    de: Homo
+    diq: Homo
+    el: Homo
+    en: Homo
+    en-ca: Homo
+    en-gb: Homo
+    eo: Homo
+    es: Homo
+    et: Inimene
+    eu: Homo
+    ext: Homo
+    fa: انسان
+    fi: ihmiset
+    fr: Homo
+    frr: Homo
+    fur: Gjenar uman
+    fy: Minsken (skaai)
+    ga: Homo
+    gl: Homo
+    gsw: Homo
+    he: אדם
+    hi: होमो
+    hr: Homo
+    ht: Lòm
+    hu: Homo
+    ia: Homo
+    id: Homo
+    ie: Homo
+    ike-cans: ᐃᓄᒃ
+    ike-latn: inuk
+    io: Homo
+    is: Frummaður
+    it: Homo
+    iu: ᐃᓄᒃ
+    ja: ヒト属
+    kab: Homo
+    ko: 사람속
+    ks: ہومو
+    la: Homo
+    lt: Žmonės
+    lv: cilvēki
+    mk: човек
+    ml: ഹോമോ
+    ms: Homo
+    mul: Homo
+    mzn: آدممونان
+    nb: Homo
+    nds: Homo
+    nl: Homo
+    nn: Homo
+    oc: Homo
+    pap: Homo (genero)
+    pl: Homo
+    pnb: مانس
+    ps: هومو
+    pt: Homo
+    pt-br: Homo
+    ro: Homo
+    ru: люди
+    rue: Чоловік
+    rup: Homo
+    scn: Homo
+    sco: Homo
+    sh: Homo
+    sk: človek
+    sl: Homo
+    sq: Homo
+    sr: Хомо
+    sv: människor
+    sw: Homo
+    te: హోమో
+    th: โฮโม
+    tl: Homo
+    tr: Homo
+    tt: кешеләр
+    uk: люди
+    ur: ہومو
+    uz: Homo
+    vi: chi Người
+    vls: Homo
+    vo: Homo
+    war: Homo
+    wuu: 人属
+    yi: מענטש
+    yo: Homo
+    yue: 人屬
+    zh: 人屬
+    zh-cn: 人属
+    zh-hans: 人属
+    zh-hant: 人屬
+    zh-hk: 人屬
+    zh-sg: 人属
+    zh-tw: 人屬
 ---
-
 # [[Homo]] 
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus|bio~Genus]] 

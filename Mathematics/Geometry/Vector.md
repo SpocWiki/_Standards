@@ -1,25 +1,210 @@
 ---
 aliases:
-  - Euclidean_vector
-  - Euclidean Vector
-  - geometric vector
-  - spatial vector
-  - vectors
-  - Vector
+- bektor na Euclidean
+- bektore
+- bheactor
+- Euclidean Vector
+- Euclidean_vector
+- euklidischer Vektor
+- Euklidov vektor
+- evklidsk vektor
+- evklidski vektor
+- fector
+- geometric vector
+- geometrine vektor
+- Hiòng-liōng
+- hióng-liông
+- kalqabee
+- spatial vector
+- vecteur euclidien
+- Vector
+- vector euclidian
+- vector euclidià
+- vectors
+- vectơ
+- veicteoir
+- Vekter
+- vektor
+- vektor Euclid
+- vektor Euklides
+- vektori
+- vektorius
+- vektoro
+- vektors
+- Vektè
+- vektör
+- vetor
+- Vettor (matematega)
+- vettore
+- vettur ewklidju
+- Vigur
+- vitturi euclidèu
+- Véktor
+- wektor
+- Wektor ululyklar
+- wektůr
+- διάνυσμα
+- вектар
+- вектор
+- Вектор (геометри)
+- Вектор (геометрия)
+- вэктар
+- геометрик вектор
+- геометрический вектор
+- Евклидийн вектор
+- Վեկտոր
+- וועקטאר
+- וקטור
+- ئاڕاستەبڕی ئیقلیدسی
+- اقلیدسی سمتیہ
+- بردار اقلیدسی
+- د اقليدس لوری
+- متجه إقليدي
+- یؤنئی (هندسه)
+- सदिश राशि
+- ইউক্লিডিয়ান ভেক্টৰ
+- সদিক রাশি
+- திசையன்
+- സദിശം
+- යුක්ලිඩියානු දෛශිකය
+- เวกเตอร์
+- ევკლიდეს ვექტორი
+- ጨረር
+- 向量
+- 歐幾里得向量
+- 空間ベクトル
+- 벡터
+- 벡토르
 has_id_wikidata: Q44528
 different_from: '[[_Standards/WikiData/WD~Vektor,1420778]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~direction,3055344]]'
-  - '[[_Standards/WikiData/WD~vector_length,12124094]]'
-  - '[[_Standards/WikiData/WD~unidirectionality,67203587]]'
+- '[[_Standards/WikiData/WD~direction,3055344]]'
+- '[[_Standards/WikiData/WD~vector_length,12124094]]'
+- '[[_Standards/WikiData/WD~unidirectionality,67203587]]'
 subclass_of: '[[_Standards/WikiData/WD~vector,13471665]]'
 instance_of: '[[_Standards/WikiData/WD~geometric_concept,21550639]]'
 part_of: '[[_Standards/WikiData/WD~Euclidean_space,17295]]'
 OmegaWiki_Defined_Meaning: 5165
 Commons_category: Vectors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20from%20A%20to%20B.svg
+dv_has_:
+  name_:
+    af: vektor
+    am: ጨረር
+    ar: متجه إقليدي
+    as: ইউক্লিডিয়ান ভেক্টৰ
+    ast: vector
+    az: vektor
+    azb: یؤنئی (هندسه)
+    ba: геометрик вектор
+    be: вектар
+    be-tarask: вэктар
+    bg: Вектор
+    bn: সদিক রাশি
+    bs: Euklidov vektor
+    ca: vector euclidià
+    cdo: hióng-liông
+    ckb: ئاڕاستەبڕی ئیقلیدسی
+    cs: vektor
+    cv: Вектор (геометри)
+    cy: fector
+    da: vektor
+    de: euklidischer Vektor
+    de-ch: Vektor
+    el: διάνυσμα
+    en: Euclidean vector
+    en-ca: Euclidean vector
+    en-gb: Euclidean vector
+    eo: vektoro
+    es: vector
+    et: vektor
+    eu: bektore
+    fa: بردار اقلیدسی
+    fi: vektori
+    fr: vecteur euclidien
+    frr: vektor
+    ga: veicteoir
+    gd: bheactor
+    gl: vector
+    gsw: Vektor
+    he: וקטור
+    hi: सदिश राशि
+    hr: Vektor
+    ht: Vektè
+    hu: vektor
+    hy: Վեկտոր
+    id: vektor Euklides
+    ig: Euclidean vector
+    io: Vektoro
+    is: Vigur
+    it: vettore
+    ja: 空間ベクトル
+    ka: ევკლიდეს ვექტორი
+    kk: Вектор
+    ko: 벡터
+    ko-kp: 벡토르
+    la: vector
+    lmo: Vettor (matematega)
+    lt: vektorius
+    lv: vektors
+    mag: सदिश राशि
+    mhr: Вектор
+    mk: вектор
+    ml: സദിശം
+    mn: Евклидийн вектор
+    ms: vektor Euclid
+    mt: vettur ewklidju
+    myv: Вектор (геометрия)
+    nah: Vector
+    nan: Hiòng-liōng
+    nb: vektor
+    nds: Vekter
+    nl: vector
+    nn: evklidsk vektor
+    om: kalqabee
+    pl: wektor
+    pms: Vetor
+    ps: د اقليدس لوری
+    pt: vector
+    pt-br: vetor
+    ro: vector euclidian
+    ru: геометрический вектор
+    sah: Вектор (геометрия)
+    scn: vitturi euclidèu
+    sco: Euclidean vector
+    sh: Vektor
+    si: යුක්ලිඩියානු දෛශිකය
+    sk: vektor
+    sl: evklidski vektor
+    smn: Vektor
+    sq: Vektori
+    sr: вектор
+    sr-ec: вектор
+    su: Véktor
+    sv: vektor
+    szl: wektůr
+    ta: திசையன்
+    th: เวกเตอร์
+    tk: Wektor ululyklar
+    tl: bektor na Euclidean
+    tr: vektör
+    uk: вектор
+    ur: اقلیدسی سمتیہ
+    uz: Vektor
+    vep: geometrine vektor
+    vi: vectơ
+    wuu: 向量
+    yi: וועקטאר
+    yue: 向量
+    zh: 歐幾里得向量
+    zh-cn: 向量
+    zh-hans: 向量
+    zh-hant: 向量
+    zh-hk: 向量
+    zh-mo: 向量
+    zh-sg: 向量
+    zh-tw: 向量
 ---
-
 # [[Vector]] 
 
 #is_/similar_to :: [[Geometry-2D/Triangle/Angle]]  

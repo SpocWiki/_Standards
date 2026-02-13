@@ -1,26 +1,157 @@
 ---
 aliases:
-  - Harmonie
-  - Harmony
+- armoni
+- armonia
+- armonie
+- Armonya
+- armonía
+- Armunii
+- armóin
+- Garmoniya
+- Garmonïya
+- harmoni
+- harmonia
+- harmonia (música)
+- Harmonie
+- Harmonija
+- Harmonik
+- harmonikk
+- harmoniscienco
+- Harmoniya
+- Harmony
+- Harmonía
+- Harmoonia
+- Harmónia
+- Hòa âm
+- Muzička harmonija
+- αρμονία
+- гармонія
+- Гармонія (музыка)
+- гармония
+- Гармония (мусиқӣ)
+- Музичка хармонија
+- музычная гармонія
+- хармонија
+- хармония
+- Ներդաշնակագիտություն
+- הרמוניה
+- علم انسجام الأصوات
+- هارمونی
+- گارمونىييا
+- ھارمۆنی
+- स्वर-संगति
+- ঐকতান
+- হার্মোনিয়া
+- ఏకస్వరం
+- ಸ್ವರ ಸಾಮರಸ್ಯ
+- เสียงประสาน
+- 和声
+- 和聲
+- 和音
+- 화성
 has_id_wikidata: Q184421
 different_from: '[[_Standards/WikiData/WD~melody,170412]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of: '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-  - '[[_Standards/WikiData/WD~musical_concept,115211517]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~musical_concept,115211517]]'
 opposite_of: '[[_Standards/WikiData/WD~disharmony,65313765]]'
 part_of: '[[_Standards/WikiData/WD~Q123378266,123378266]]'
 Commons_category: Harmony
 name: Wohlklang
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antiparallele.JPG
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/GARMONIYA.html
+dv_has_:
+  name_:
+    af: Harmonie
+    ar: علم انسجام الأصوات
+    ast: Harmonía
+    az: Harmoniya
+    be: Гармонія (музыка)
+    be-tarask: музычная гармонія
+    bg: хармония
+    bn: ঐকতান
+    bpy: হার্মোনিয়া
+    bs: Harmonija
+    ca: harmonia
+    ckb: ھارمۆنی
+    cs: Harmonie
+    da: harmoni
+    de: Harmonik
+    el: αρμονία
+    en: harmony
+    eo: harmoniscienco
+    es: armonía
+    et: Harmoonia
+    eu: harmonia
+    ext: Armonía
+    fa: هارمونی
+    fi: harmonia
+    fr: harmonie
+    ga: armóin
+    gl: harmonía
+    he: הרמוניה
+    hi: स्वर-संगति
+    hr: Harmonija
+    hu: harmónia
+    hy: Ներդաշնակագիտություն
+    id: Harmoni
+    it: armonia
+    ja: 和声
+    kk: Гармония
+    kk-arab: گارمونىييا
+    kk-cn: گارمونىييا
+    kk-cyrl: Гармония
+    kk-kz: Гармония
+    kk-latn: Garmonïya
+    kk-tr: Garmonïya
+    kn: ಸ್ವರ ಸಾಮರಸ್ಯ
+    ko: 화성
+    la: Harmonia
+    lb: Harmonie
+    lt: harmonija
+    lv: harmonija
+    mk: хармонија
+    nb: harmonikk
+    nl: harmonie
+    nn: harmoni
+    pl: harmonia
+    pt: harmonia (música)
+    ro: armonie
+    ru: гармония
+    rup: Armunii
+    sh: Muzička harmonija
+    sk: Harmónia
+    sl: harmonija
+    sq: Harmonia
+    sr: Музичка хармонија
+    sr-ec: Музичка хармонија
+    sr-el: Muzička harmonija
+    sv: Harmoni
+    te: ఏకస్వరం
+    tg: Гармония (мусиқӣ)
+    th: เสียงประสาน
+    tl: Harmoniya
+    tr: armoni
+    uk: гармонія
+    uz: Garmoniya
+    vi: Hòa âm
+    war: Armonya
+    wuu: 和声
+    yue: 和音
+    zh: 和声
+    zh-cn: 和声
+    zh-hans: 和声
+    zh-hant: 和聲
+    zh-hk: 和聲
+    zh-sg: 和声
+    zh-tw: 和聲
 ---
-
 # [[Harmony]] 
 
 #is_/same_as :: [[WikiData/WD~Harmony,184421|WD~Harmony,184421]] 

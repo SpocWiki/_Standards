@@ -1,32 +1,154 @@
 ---
 aliases:
-  - Vente de la Louisiane
-  - Sale of Louisiana
-  - 1803-Louisiana_Purchase
-  - 1803-Louisiana Purchase
+- 1803-Louisiana Purchase
+- 1803-Louisiana_Purchase
+- Achiziția Louisianei
+- acquisto della Louisiana
+- Aquisizion de la Louisiana
+- Compra da Luisiana
+- compra de la Louisiana
+- Compra de la Luisiana
+- Compra de Luisiana
+- Emptio Ludoviciana
+- Koupě Louisiany
+- Kupovina Luizijane
+- Louisiana ost
+- Louisiana Purchase
+- Louisiana Siu-bé
+- Louisiana'nın satın alımı
+- Louisiana-kjøpet
+- Louisiana-købet
+- Louisianai megvásárlása
+- Louisianaköpet
+- Louisianan osto
+- Louisianaren erosketa
+- Luiziana sotib olish
+- Luiziananın satın alınması
+- Luizianos perpirkimas
+- nakup Louisiane
+- Pagpalit han Louisiana
+- Pembelian Louisiana
+- Prenadenn Louiziana
+- Pryniant Louisiana
+- Sale of Louisiana
+- Vendo de Luiziano
+- Vente de la Louisiane
+- Vùng đất mua Louisiana
+- Zakup Luizjany
+- Αγορά της Λουζιάνας
+- Купівля Луїзіани
+- Куповина Луизијане
+- Купувањето на Луизијана
+- Луізіянская купля
+- Луизианăна сутăн илни
+- Луизиананы сатыб алыу
+- Луизианская покупка
+- Покупка на Луизиана
+- רכישת לואיזיאנה
+- خرید لوئیزیانا
+- صفقة لويزيانا
+- لوزیانا دی خرید
+- لوزیانا کی خرید و فروخت
+- लुइसियाना की खरीदारी
+- லூசியானா வாங்கல்
+- การซื้อดินแดนหลุยส์เซียนา
+- ルイジアナ買収
+- 路易斯安那購地
+- 路易斯安那購地案
+- 路易斯安那购地
+- 루이지애나 매입
 dv_has_:
+  name_:
+    ar: صفقة لويزيانا
+    ast: Compra de Luisiana
+    az: Luiziananın satın alınması
+    be: Луізіянская купля
+    bg: Покупка на Луизиана
+    br: Prenadenn Louiziana
+    ca: compra de la Louisiana
+    cs: Koupě Louisiany
+    cv: Луизианăна сутăн илни
+    cy: Pryniant Louisiana
+    da: Louisiana-købet
+    de: Louisiana Purchase
+    el: Αγορά της Λουζιάνας
+    en: Louisiana Purchase
+    eo: Vendo de Luiziano
+    es: Compra de la Luisiana
+    et: Louisiana ost
+    eu: Louisianaren erosketa
+    fa: خرید لوئیزیانا
+    fi: Louisianan osto
+    fr: vente de la Louisiane
+    gl: Compra de Luisiana
+    he: רכישת לואיזיאנה
+    hi: लुइसियाना की खरीदारी
+    hu: Louisianai megvásárlása
+    id: Pembelian Louisiana
+    it: acquisto della Louisiana
+    ja: ルイジアナ買収
+    ko: 루이지애나 매입
+    krc: Луизиананы сатыб алыу
+    la: Emptio Ludoviciana
+    lt: Luizianos perpirkimas
+    lzh: 路易斯安那購地案
+    mk: Купувањето на Луизијана
+    ms: Pembelian Louisiana
+    nan: Louisiana Siu-bé
+    nb: Louisiana-kjøpet
+    nl: Louisiana Purchase
+    pl: Zakup Luizjany
+    pnb: لوزیانا دی خرید
+    pt: Compra da Luisiana
+    ro: Achiziția Louisianei
+    ru: Луизианская покупка
+    sco: Louisiana Purchase
+    sl: nakup Louisiane
+    so: Louisiana Purchase
+    sr: Куповина Луизијане
+    sr-ec: Куповина Луизијане
+    sr-el: Kupovina Luizijane
+    sv: Louisianaköpet
+    ta: லூசியானா வாங்கல்
+    th: การซื้อดินแดนหลุยส์เซียนา
+    tr: Louisiana'nın satın alımı
+    uk: Купівля Луїзіани
+    ur: لوزیانا کی خرید و فروخت
+    uz: Luiziana sotib olish
+    vec: Aquisizion de la Louisiana
+    vi: Vùng đất mua Louisiana
+    war: Pagpalit han Louisiana
+    wuu: 路易斯安那购地
+    yue: 路易斯安那購地
+    zh: 路易斯安那購地
+    zh-cn: 路易斯安那購地
+    zh-hans: 路易斯安那購地
+    zh-hant: 路易斯安那購地
+    zh-hk: 路易斯安那購地
+    zh-sg: 路易斯安那購地
+    zh-tw: 路易斯安那購地
   time_:
     started: 1803-06-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]]"
-    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]"
+  - '[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]]'
+  - '[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]'
 dv_has_time_started: 1803-06-01
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]]"
-  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]"
+- '[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase|1803-Louisiana_Purchase]]'
+- '[[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.public|1803-Louisiana_Purchase.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.internal|1803-Louisiana_Purchase.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.protect|1803-Louisiana_Purchase.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.private|1803-Louisiana_Purchase.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.personal|1803-Louisiana_Purchase.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]'
+has_id_wikidata: Q193155
 ---
-
 # [[1803-Louisiana_Purchase]] 
 
 has_time_started = `=this.dv_has_time_started`

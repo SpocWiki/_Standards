@@ -1,47 +1,81 @@
 ---
 aliases:
-  - Ezra Weston Loomis Pound
-  - Ezra Pound
-  - Pound
-  - Pound,Ezra
+- Ezar Pound
+- Ezra Loomis Pound
+- Ezra Paund
+- Ezra Paunds
+- Ezra Pound
+- Ezra Weston Loomis Pound
+- Pound
+- Pound,Ezra
+- Έζρα Πάουντ
+- Езра Паунд
+- Паунд Эзра
+- Эзра Паўнд
+- Эзра Паунд
+- Էզրա Փաունդ
+- עזרא פאונד
+- ئێزرا پاوەند
+- ئەزرا پۆوند
+- ازرا پاؤنڈ
+- ازرا پاوند
+- ازرا پاونڈ
+- عزرا باوند
+- एज्रा पाउन्ड
+- एज्रा पौंड
+- এজরা পাউন্ড
+- এজৰা পাউণ্ড
+- ਐਜ਼ਰਾ ਪਾਊਂਡ
+- એઝરા પાઉન્ડ
+- எஸ்ரா பவுண்ட்
+- ಎಜ್ರಾ ಪೌಂಡ್
+- എസ്രാ പൗണ്ട്
+- เอซรา พาวด์
+- ეზრა პაუნდი
+- እዝራ ፓውንድ
+- エズラ・パウンド
+- 艾兹拉·庞德
+- 艾茲拉·龐德
+- 艾茲拉龐德
+- 에즈라 파운드
 has_id_wikidata: Q163366
 child:
-  - '[[_Standards/WikiData/WD~Mary_de_Rachewiltz,137683]]'
-  - '[[_Standards/WikiData/WD~Omar_Pound,7089791]]'
+- '[[_Standards/WikiData/WD~Mary_de_Rachewiltz,137683]]'
+- '[[_Standards/WikiData/WD~Omar_Pound,7089791]]'
 occupation:
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~radio_personality,2722764]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~literary_historian,13570226]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~radio_personality,2722764]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~literary_historian,13570226]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Bollingen_Prize,194944]]'
-  - '[[_Standards/WikiData/WD~Fellowship_of_the_Academy_of_American_Poets,94660580]]'
+- '[[_Standards/WikiData/WD~Bollingen_Prize,194944]]'
+- '[[_Standards/WikiData/WD~Fellowship_of_the_Academy_of_American_Poets,94660580]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
-  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-  - '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~Lilly_Library,6548368]]'
-  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
-  - '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
+- '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~Lilly_Library,6548368]]'
+- '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+- '[[_Standards/WikiData/WD~Stuart_A._Rose_Manuscript,_Archives,_and_Rare_Book_Library,72941560]]'
 spouse: '[[_Standards/WikiData/WD~Dorothy_Shakespear,751416]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 place_of_birth: '[[_Standards/WikiData/WD~Hailey,1517614]]'
 cause_of_death: '[[_Standards/WikiData/WD~gastrointestinal_system_disease,2300099]]'
 relative: '[[_Standards/WikiData/WD~Thaddeus_C._Pound,2408311]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Hamilton_College,3113011]]'
-  - '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
+- '[[_Standards/WikiData/WD~Hamilton_College,3113011]]'
+- '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
 place_of_burial: '[[_Standards/WikiData/WD~Cemetery_of_San_Michele,3676942]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 personal_library_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
@@ -68,8 +102,8 @@ country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 Commons_category: Ezra Pound
 DPLA_subject_term:
-  - Ezra Loomis Pound
-  - Pound, Ezra, 1885-1972
+- Ezra Loomis Pound
+- Pound, Ezra, 1885-1972
 U_S_National_Archives_Identifier: 10581148
 BHCL_UUID: 86d08926-8f08-4390-932d-abb6b4ae9472
 date_of_death: 1972-11-01T00:00:00Z
@@ -83,8 +117,112 @@ Krugosvet_article: kultura_i_obrazovanie/literatura/PAUND_EZRA.html
 Library_of_Congress_Classification: PS3531.O82
 name_in_native_language: Ezra Weston Loomis Pound
 work_period_start_: 1909-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Ezra Pound
+    am: እዝራ ፓውንድ
+    an: Ezra Pound
+    ar: عزرا باوند
+    arz: عزرا باوند
+    as: এজৰা পাউণ্ড
+    ast: Ezra Pound
+    az: Ezra Paund
+    ba: Паунд Эзра
+    be: Эзра Паўнд
+    be-tarask: Эзра Паўнд
+    bg: Езра Паунд
+    bn: এজরা পাউন্ড
+    br: Ezra Pound
+    ca: Ezra Pound
+    ckb: ئێزرا پاوەند
+    co: Ezra Pound
+    cs: Ezra Pound
+    cy: Ezra Pound
+    da: Ezra Pound
+    de: Ezra Pound
+    diq: Ezra Pound
+    el: Έζρα Πάουντ
+    en: Ezra Pound
+    en-ca: Ezra Pound
+    eo: Ezra Pound
+    es: Ezra Pound
+    et: Ezra Pound
+    eu: Ezra Pound
+    fa: ازرا پاوند
+    fi: Ezra Pound
+    fr: Ezra Pound
+    fy: Ezra Pound
+    ga: Ezra Pound
+    gl: Ezra Pound
+    gu: એઝરા પાઉન્ડ
+    he: עזרא פאונד
+    hr: Ezra Pound
+    ht: Ezar Pound
+    hu: Ezra Pound
+    hy: Էզրա Փաունդ
+    id: Ezra Loomis Pound
+    io: Ezra Pound
+    it: Ezra Pound
+    ja: エズラ・パウンド
+    ka: ეზრა პაუნდი
+    kn: ಎಜ್ರಾ ಪೌಂಡ್
+    ko: 에즈라 파운드
+    ku: Ezra Pound
+    ku-arab: ئەزرا پۆوند
+    ku-latn: Ezra Pound
+    kw: Ezra Pound
+    la: Ezra Pound
+    lfn: Ezra Pound
+    lmo: Ezra Pound
+    lt: Ezra Pound
+    lv: Ezra Paunds
+    mg: Ezra Pound
+    mk: Езра Паунд
+    ml: എസ്രാ പൗണ്ട്
+    mr: एज्रा पौंड
+    nb: Ezra Pound
+    new: एज्रा पाउन्ड
+    nl: Ezra Pound
+    nn: Ezra Pound
+    oc: Ezra Pound
+    pa: ਐਜ਼ਰਾ ਪਾਊਂਡ
+    pap: Ezra Pound
+    pl: Ezra Pound
+    pms: Ezra Weston Loomis Pound
+    pnb: ازرا پاؤنڈ
+    pt: Ezra Pound
+    pt-br: Ezra Pound
+    qu: Ezra Pound
+    ro: Ezra Pound
+    ru: Эзра Паунд
+    scn: Ezra Pound
+    sco: Ezra Pound
+    sh: Ezra Pound
+    sk: Ezra Pound
+    sl: Ezra Pound
+    sq: Ezra Pound
+    sr: Езра Паунд
+    sv: Ezra Pound
+    ta: எஸ்ரா பவுண்ட்
+    tg: Эзра Паунд
+    th: เอซรา พาวด์
+    tl: Ezra Pound
+    tr: Ezra Pound
+    uk: Езра Паунд
+    ur: ازرا پاونڈ
+    vi: Ezra Pound
+    wuu: 艾兹拉·庞德
+    xmf: ეზრა პაუნდი
+    yo: Ezra Pound
+    yue: 艾茲拉龐德
+    zh: 艾兹拉·庞德
+    zh-cn: 艾兹拉·庞德
+    zh-hans: 艾兹拉·庞德
+    zh-hant: 艾茲拉·龐德
+    zh-hk: 艾茲拉·龐德
+    zh-sg: 艾兹拉·庞德
+    zh-tw: 艾茲拉·龐德
 ---
-
 # [[Pound,Ezra]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ezra_Pound,163366|WD~Ezra_Pound,163366]] 

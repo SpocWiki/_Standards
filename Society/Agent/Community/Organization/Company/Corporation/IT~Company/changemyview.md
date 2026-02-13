@@ -1,5 +1,11 @@
-
-
+---
+has_id_wikidata: Q33105234
+dv_has_:
+  name_:
+    en: /r/changemyview
+aliases:
+- /r/changemyview
+---
 ## #has_/text_of_/abstract 
 
 > r/**changemyview**, also known as Change My View (CMV), is a [[subreddit]] 

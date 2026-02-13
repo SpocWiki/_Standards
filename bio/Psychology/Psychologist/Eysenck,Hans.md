@@ -1,34 +1,55 @@
 ---
 aliases:
-  - Hans_Eysenck
-  - Hans Jürgen Eysenck
-  - Hans Eysenck
-  - Eysenck
-  - Eysenck,Hans
+- Eysenck
+- Eysenck,Hans
+- Hans Ayzenk
+- Hans Eysenck
+- Hans Eysenk
+- Hans J. Eysenck
+- Hans Jurgen Eysenck
+- Hans Jürgen Eysenck
+- Hans_Eysenck
+- Ioannes Eysenck
+- Χανς Άιζενκ
+- Айзенк Ганс Юрген
+- Ганс Айзенк
+- Ганс Айзэнк
+- Ганс Юрген Айзенк
+- Ханс Ајзенк
+- Ханс Айзенк
+- Հանս Յուրգեն Այզենկ
+- הנס אייזנק
+- هانز آيزنك
+- هانس ایسنک
+- ჰანს აიზენკი
+- ハンス・アイゼンク
+- 汉斯·艾森克
+- 漢斯·艾森克
+- 한스 아이젠크
 has_id_wikidata: Q58632
 Wolfram_Language_entity_code: Entity["Concept", "Eysenck::ztdg7"]
 name_in_native_language: Hans Jürgen Eysenck
 date_of_birth:
-  - 1916-03-16T00:00:00Z
-  - 1916-03-04T00:00:00Z
+- 1916-03-16T00:00:00Z
+- 1916-03-04T00:00:00Z
 mother: '[[_Standards/WikiData/WD~Helga_Molander,84452]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_London,170027]]'
-  - '[[_Standards/WikiData/WD~University_College_London,193196]]'
+- '[[_Standards/WikiData/WD~University_of_London,170027]]'
+- '[[_Standards/WikiData/WD~University_College_London,193196]]'
 occupation:
-  - '[[_Standards/WikiData/WD~psychologist,212980]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~psychologist,212980]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 employer: "[[_Standards/WikiData/WD~King's_College_London,245247]]"
 doctoral_advisor: '[[_Standards/WikiData/WD~Cyril_Burt,513197]]'
 given_name: '[[_Standards/WikiData/WD~Hans,632842]]'
 interested_in: '[[_Standards/WikiData/WD~personality,641118]]'
 academic_degree:
-  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
-  - '[[_Standards/WikiData/WD~Doctor_of_Science,2248352]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Science,2248352]]'
 family_name: '[[_Standards/WikiData/WD~Eysenck,977887]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Chris_D._Frith,1077217]]'
-  - '[[_Standards/WikiData/WD~Frank_Farley,17505083]]'
+- '[[_Standards/WikiData/WD~Chris_D._Frith,1077217]]'
+- '[[_Standards/WikiData/WD~Frank_Farley,17505083]]'
 child: '[[_Standards/WikiData/WD~Michael_Eysenck,1467600]]'
 spouse: '[[_Standards/WikiData/WD~Sybil_B._G._Eysenck,1784125]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -38,9 +59,9 @@ cause_of_death: '[[_Standards/WikiData/WD~brain_cancer,9303627]]'
 award_received: '[[_Standards/WikiData/WD~William_James_Fellow_Award,15253460]]'
 father: '[[_Standards/WikiData/WD~Eduard_Eysenck,15434821]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 field_of_work: '[[_Standards/WikiData/WD~psychology,9418]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -48,15 +69,87 @@ residence: '[[_Standards/WikiData/WD~England,21]]'
 place_of_birth: '[[_Standards/WikiData/WD~Berlin,64]]'
 place_of_death: '[[_Standards/WikiData/WD~London,84]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 Libris_URI: fcrtttcz5p1pg54
 Commons_category: Hans Eysenck
 date_of_death: 1997-09-04T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hans.Eysenck.jpg
 ISNI: 0000000121468874
+dv_has_:
+  name_:
+    af: Hans Eysenck
+    ar: هانز آيزنك
+    arz: هانز آيزنك
+    ast: Hans Eysenck
+    az: Hans Ayzenk
+    azb: هانس ایسنک
+    be-tarask: Ганс Айзэнк
+    bg: Ханс Айзенк
+    ca: Hans Eysenck
+    co: Hans Eysenck
+    cs: Hans Eysenck
+    da: Hans Jürgen Eysenck
+    dag: Hans Eysenck
+    de: Hans Jürgen Eysenck
+    ee: Hans J. Eysenck
+    el: Χανς Άιζενκ
+    en: Hans Eysenck
+    en-ca: Hans Eysenck
+    en-gb: Hans Eysenck
+    eo: Hans Eysenck
+    es: Hans Eysenck
+    et: Hans Jürgen Eysenck
+    eu: Hans Jurgen Eysenck
+    fa: هانس ایسنک
+    fi: Hans Eysenck
+    fr: Hans Eysenck
+    fy: Hans Eysenck
+    ga: Hans Jurgen Eysenck
+    gd: Hans Eysenck
+    gl: Hans Eysenck
+    he: הנס אייזנק
+    hr: Hans Eysenck
+    hu: Hans Eysenck
+    hy: Հանս Յուրգեն Այզենկ
+    id: Hans Eysenck
+    it: Hans Eysenck
+    ja: ハンス・アイゼンク
+    ka: ჰანს აიზენკი
+    kk: Айзенк Ганс Юрген
+    ko: 한스 아이젠크
+    la: Ioannes Eysenck
+    lb: Hans Eysenck
+    lt: Hans Eysenck
+    lv: Hans Eysenck
+    mg: Hans Eysenck
+    mk: Ханс Ајзенк
+    ms: Hans Eysenck
+    nb: Hans Eysenck
+    nds: Hans Jürgen Eysenck
+    nl: Hans Eysenck
+    nn: Hans J. Eysenck
+    oc: Hans Eysenck
+    pl: Hans Eysenck
+    pt: Hans Eysenck
+    pt-br: Hans Eysenck
+    ro: Hans Eysenck
+    ru: Ганс Юрген Айзенк
+    sk: Hans Jürgen Eysenck
+    sl: Hans Eysenck
+    sq: Hans Eysenk
+    sr: Ханс Ајзенк
+    su: Hans Eysenck
+    sv: Hans Eysenck
+    sw: Hans Eysenck
+    tr: Hans Eysenck
+    uk: Ганс Айзенк
+    vi: Hans Eysenck
+    vo: Hans Eysenck
+    war: Hans Eysenck
+    yue: 漢斯·艾森克
+    zh: 汉斯·艾森克
 ---
-
 # [[Eysenck,Hans]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Hans_Eysenck,58632|WD~Hans_Eysenck,58632]] 

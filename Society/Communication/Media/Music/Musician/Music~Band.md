@@ -1,9 +1,35 @@
 ---
 aliases:
-  - Band
-  - Music~Band
+- Band
+- list of musical band types
+- lista rodzajów zespołów muzycznych
+- liste de type d'ensemble/groupe musical
+- Music~Band
+- müzik grubu türlerinin listesi
+- senarai jenis kumpulan muzik
+- seznam vrst glasbenih skupin
+- список типов музыкальных групп
+- сьпіс тыпаў музычных гуртоў
+- සංගීත කණ්ඩායම් වර්ග ලැයිස්තුව
+- 音乐乐队类型列表
+- 音樂樂隊類型列表
+has_id_wikidata: Q6630017
+dv_has_:
+  name_:
+    be-tarask: сьпіс тыпаў музычных гуртоў
+    en: list of musical band types
+    en-ca: list of musical band types
+    en-gb: list of musical band types
+    fr: liste de type d'ensemble/groupe musical
+    ms: senarai jenis kumpulan muzik
+    pl: lista rodzajów zespołów muzycznych
+    ru: список типов музыкальных групп
+    si: සංගීත කණ්ඩායම් වර්ග ලැයිස්තුව
+    sl: seznam vrst glasbenih skupin
+    tr: müzik grubu türlerinin listesi
+    zh: 音乐乐队类型列表
+    zh-hant: 音樂樂隊類型列表
 ---
-
 # [[Music~Band]]
 
 

@@ -1,32 +1,83 @@
 ---
 aliases:
+- (136199) Eris
+- (136199) Éris
+- 136199 Eris
+- 2003 UB313
+- Chanya la Eris
+- Eeris
+- Elika
+- Erida
+- Eridė
+- Eris
+- Eris (planet katai)
+- Eriso
+- Eriss
+- Erit
+- Erîs
+- Erīda
+- UNogxada
+- Xena
+- Èris
+- Éris
+- Ééwis
+- Έρις
+- Ерида
+- Ерис
+- Эридæ
+- Эрида
+- Эрис (карлик планета)
+- Эрыс
+- Էրիս
+- אריס
+- עריס
+- إريس
+- ئیریس
+- ئېرىدا
+- اریس
+- ایرس
+- ऍरिस
+- एरिस
+- এরিস
+- ஏரிசு
+- ఎరిస్
+- ഈറിസ്
+- එරිස්
+- ดาวอีริส
+- အဲရစ်
+- ერისი
+- អៀរីស
+- エリス (準惑星)
+- 阋神星
+- 鬩神星
+- 에리스
 has_id_wikidata: Q611
-child_astronomical_body: "[[_Standards/WikiData/WD~Dysnomia,102656]]"
+child_astronomical_body: '[[_Standards/WikiData/WD~Dysnomia,102656]]'
 minor_planet_group:
-  - "[[_Standards/WikiData/WD~plutoid,131731]]"
-  - "[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]"
+- '[[_Standards/WikiData/WD~plutoid,131731]]'
+- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~plutoid,131731]]"
-  - "[[_Standards/WikiData/WD~dwarf_planet,2199]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-named_after: "[[_Standards/WikiData/WD~Eris,140001]]"
-part_of: "[[_Standards/WikiData/WD~Scattered_disc,180380]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~Palomar_Observatory,191684]]"
+- '[[_Standards/WikiData/WD~plutoid,131731]]'
+- '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+named_after: '[[_Standards/WikiData/WD~Eris,140001]]'
+part_of: '[[_Standards/WikiData/WD~Scattered_disc,180380]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Palomar_Observatory,191684]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Michael_E._Brown,298913]]"
-  - "[[_Standards/WikiData/WD~David_L._Rabinowitz,453758]]"
-  - "[[_Standards/WikiData/WD~Chadwick_Trujillo,499195]]"
-follows: "[[_Standards/WikiData/WD~(136198)_2003_UJ296,3453980]]"
-followed_by: "[[_Standards/WikiData/WD~(136200)_2003_VS5,8258820]]"
-significant_event: "[[_Standards/WikiData/WD~naming,25488743]]"
-described_by_source: "[[_Standards/WikiData/WD~Q111319534,111319534]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
-locations: "[[_Standards/WikiData/WD~Solar_System,544]]"
+- '[[_Standards/WikiData/WD~Michael_E._Brown,298913]]'
+- '[[_Standards/WikiData/WD~David_L._Rabinowitz,453758]]'
+- '[[_Standards/WikiData/WD~Chadwick_Trujillo,499195]]'
+follows: '[[_Standards/WikiData/WD~(136198)_2003_UJ296,3453980]]'
+followed_by: '[[_Standards/WikiData/WD~(136200)_2003_VS5,8258820]]'
+significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
+described_by_source: '[[_Standards/WikiData/WD~Q111319534,111319534]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+locations: '[[_Standards/WikiData/WD~Solar_System,544]]'
 absolute_magnitude: -1.1
 temperature:
-  - 30
-  - 55
-  - 42.5
+- 30
+- 55
+- 42.5
 area: 17000000
 surface_gravity: 0.82
 albedo: 0.96
@@ -40,8 +91,8 @@ diameter: 2326
 semi_major_axis_of_an_orbit: 67.74
 periapsis: 38.013
 orbital_eccentricity:
-  - 0.43883
-  - 0.4346554671925892
+- 0.43883
+- 0.4346554671925892
 orbital_period: 557.55
 apoapsis: 97.468
 mean_anomaly: 205.384
@@ -52,44 +103,176 @@ name: Xena
 periapsis_date_DEPRECATED_: 2258-10-14T00:00:00Z
 time_of_discovery_or_invention: 2003-10-21T00:00:00Z
 astronomic_symbol_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Circled%20K%20%28all%20rights%20reversed%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eris%20arrow%20symbol%20%28fixed%20width%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eris%20symbol%20%28fixed%20width%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Circled%20K%20%28all%20rights%20reversed%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eris%20arrow%20symbol%20%28fixed%20width%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eris%20symbol%20%28fixed%20width%29.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Eris.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Eris.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Eris.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Eris.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eris%20and%20dysnomia.jpg
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/ESOcast%2038.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/UB313-2003.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/ESOcast%2038.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/UB313-2003.gif
 IPA_transcription: ˈeːʁɪs
 Commons_category: 136199 Eris
 provisional_designation: 2003 UB313
 Unicode_character:
-  - ⯰
-  - ⯱
+- ⯰
+- ⯱
 official_name: 136199 Eris
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Eris,611|WD~Eris,611]]"
-    - "[[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]]"
-    - "[[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]]"
-    - "[[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]]"
-    - "[[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]]"
-    - "[[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]]"
-    - "[[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]]"
-    - "[[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]]"
+  - '[[../../../WikiData/WD~Eris,611|WD~Eris,611]]'
+  - '[[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]]'
+  - '[[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]]'
+  - '[[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]]'
+  - '[[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]]'
+  - '[[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]]'
+  - '[[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]]'
+  - '[[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Eris,611|WD~Eris,611]]"
-  - "[[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]]"
-  - "[[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]]"
-  - "[[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]]"
-  - "[[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]]"
-  - "[[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]]"
-  - "[[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]]"
-  - "[[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]]"
+- '[[../../../WikiData/WD~Eris,611|WD~Eris,611]]'
+- '[[/_Standards/Astronomy/Planet/Dwarf_Planet/Eris|Eris]]'
+- '[[/_public/Astronomy/Planet/Dwarf_Planet/Eris.public|Eris.public]]'
+- '[[/_internal/Astronomy/Planet/Dwarf_Planet/Eris.internal|Eris.internal]]'
+- '[[/_protect/Astronomy/Planet/Dwarf_Planet/Eris.protect|Eris.protect]]'
+- '[[/_private/Astronomy/Planet/Dwarf_Planet/Eris.private|Eris.private]]'
+- '[[/_personal/Astronomy/Planet/Dwarf_Planet/Eris.personal|Eris.personal]]'
+- '[[/_secret/Astronomy/Planet/Dwarf_Planet/Eris.secret|Eris.secret]]'
+dv_has_:
+  name_:
+    af: Eris
+    an: (136199) Eris
+    ar: إريس
+    arz: إريس
+    ast: 136199 Eris
+    az: Erida
+    bar: Eris
+    be: Эрыс
+    be-tarask: Эрыс
+    bg: Ерида
+    bjn: Eris (planet katai)
+    bn: এরিস
+    br: 136199 Eris
+    bs: Eris
+    ca: Eris
+    ckb: ئیریس
+    cs: Eris
+    csb: Eris
+    cy: Eris
+    da: Eris
+    de: (136199) Eris
+    de-ch: Eris
+    diq: Eris
+    el: Έρις
+    eml: Eris
+    en: Eris
+    en-ca: Eris
+    en-gb: Eris
+    eo: Eriso
+    es: Eris
+    et: 136199 Eris
+    eu: 136199 Eris
+    fa: اریس
+    fi: Eris
+    fr: (136199) Éris
+    ga: Eris
+    gl: Eris
+    gn: Eris
+    gv: Eris
+    haw: Elika
+    he: אריס
+    hi: ऍरिस
+    hif: Eris
+    hr: 136199 Eris
+    hu: Eris
+    hy: Էրիս
+    ia: Eris
+    id: Eris
+    ilo: Eris
+    io: Eris
+    is: Eris
+    it: Eris
+    ja: エリス (準惑星)
+    jv: Xena
+    ka: ერისი
+    kcg: Erit
+    kk: Ерис
+    km: អៀរីស
+    ko: 에리스
+    ku: Erîs
+    kv: Эрида
+    kw: Eris
+    la: Eris
+    lb: Eris
+    lfn: Eris
+    li: Eris
+    lmo: Eris
+    lt: Eridė
+    lv: Erīda
+    lzh: 鬩神星
+    map-bms: 2003 UB313
+    mk: Ерида
+    ml: ഈറിസ്
+    mn: Эрида
+    mr: एरिस
+    ms: Eris
+    mwl: Éris
+    my: အဲရစ်
+    nah: Eris
+    nan: Eris
+    nb: Eris
+    nds: Eris
+    ne: एरिस
+    nl: Eris
+    nn: 136199 Eris
+    nv: Ééwis
+    oc: Èris
+    om: Eeris
+    os: Эридæ
+    pl: Eris
+    pnb: ایرس
+    pt: Éris
+    pt-br: Éris
+    qu: Eris
+    rm: Eris
+    ro: Eris
+    ru: Эрида
+    scn: Eris
+    sh: Eris
+    si: එරිස්
+    sk: 136199 Eris
+    sl: Erida
+    so: Eris
+    sq: Eris
+    sr: Ерида
+    sv: Eris
+    sw: Eris
+    ta: ஏரிசு
+    te: ఎరిస్
+    th: ดาวอีริส
+    tl: Eris
+    tr: Eris
+    tum: Chanya la Eris
+    tyv: Эрис (карлик планета)
+    udm: Эрида
+    ug: ئېرىدا
+    uk: Ерида
+    ur: ایرس
+    uz: Eris
+    vi: Eris
+    wa: Eriss
+    war: Eris
+    wuu: 阋神星
+    xmf: ერისი
+    yi: עריס
+    yue: 鬩神星
+    zh: 阋神星
+    zh-cn: 阋神星
+    zh-hans: 阋神星
+    zh-hant: 阋神星
+    zu: UNogxada
 ---
-
 # [[Eris]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eris,611|WD~Eris,611]] 

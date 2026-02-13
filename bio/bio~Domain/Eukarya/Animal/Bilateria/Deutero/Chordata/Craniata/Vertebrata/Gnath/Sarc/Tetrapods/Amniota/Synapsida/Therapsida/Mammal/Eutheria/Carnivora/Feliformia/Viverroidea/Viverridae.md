@@ -1,28 +1,183 @@
 ---
 aliases:
+- Cibetke
+- cibetkovití
+- cibetmacskafélék
+- cibetovke
+- Civetkatachtigen
+- Civetkatachtign
+- Civeto
+- Desmerdyr
+- Dlǫ́ʼiitsoh Danilínígíí
+- Fungo
+- Họ Cầy
+- Misk kedisigiller
+- Nzobo
+- Schleichkatzen
+- sivettieläimet
+- Slikkaater
+- smankoleem
+- snikekattfamilien
+- tsiibetlased
+- Viveralar
+- Viveredoj
+- Viveriniai
+- Viverridae
+- Viverrider
+- Viverrídeos
+- viveru dzimta
+- Vivèrrid
+- Vivérridos
+- wiwerowate
+- Şubalañ quýrıqtılar
+- віверавыя
+- віверові
+- вівэравыя
+- виверови
+- виверровые
+- цибетки
+- шұбалаң құйрықтылар
+- Մշկաբեշկներ
+- גחניים
+- ئىپار مۈشۈك ئائىلىسى
+- زباديات
+- شۇبالاڭ قۇيرىقتىلار
+- مشکی بلی
+- ویوئرالار
+- گربه زباد
+- ऊदाद्य
+- वाइवेरिडाए
+- വിവെരിഡെ
+- วงศ์ชะมดและอีเห็น
+- ວົງເຫງັນ
+- ဝံပိုင့်
+- ვივერისებრნი
+- ジャコウネコ科
+- 灵猫科
+- 靈貓科
+- 사향고양이과
 has_id_wikidata: Q185864
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q48975703,48975703]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Viverra,1762710]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q48975703,48975703]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Viverra,1762710]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 start_time: -34000000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 Commons_category: Viverridae
 taxon_name: Viverridae
-ITIS_TSN: "621757"
+ITIS_TSN: 621757
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Genetta%20genetta%20felina%20%28Wroclaw%20zoo%29.JPG
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Viverrids%20mosaic.jpg
 EPPO_Code: 1VIVEF
 MeSH_tree_code: B01.050.150.900.649.313.750.377.984
 UMLS_CUI: C1135593
 NBN_System_Key: NHMSYS0000377325
+dv_has_:
+  name_:
+    an: Viverridae
+    ar: زباديات
+    arz: زباديات
+    ast: Viverridae
+    avk: smankoleem
+    az: Viveralar
+    azb: ویوئرالار
+    be: віверавыя
+    be-tarask: вівэравыя
+    bg: виверови
+    br: Viverridae
+    ca: Vivèrrid
+    ceb: Viverridae
+    cs: cibetkovití
+    da: Desmerdyr
+    de: Schleichkatzen
+    en: Viverridae
+    en-ca: Viverridae
+    en-gb: Viverridae
+    eo: Viveredoj
+    es: Viverridae
+    et: tsiibetlased
+    eu: Viverridae
+    ext: Viverridae
+    fa: گربه زباد
+    fi: sivettieläimet
+    fr: Viverridae
+    frr: Slikkaater
+    ga: Viverridae
+    gl: Vivérridos
+    he: גחניים
+    hi: वाइवेरिडाए
+    hr: Cibetke
+    hu: cibetmacskafélék
+    hy: Մշկաբեշկներ
+    ia: Viverridae
+    id: Viverridae
+    ie: Viverridae
+    io: Civeto
+    it: Viverridae
+    ja: ジャコウネコ科
+    ka: ვივერისებრნი
+    kg: Nzobo
+    kk: шұбалаң құйрықтылар
+    kk-arab: شۇبالاڭ قۇيرىقتىلار
+    kk-cn: شۇبالاڭ قۇيرىقتىلار
+    kk-cyrl: шұбалаң құйрықтылар
+    kk-kz: шұбалаң құйрықтылар
+    kk-latn: Şubalañ quýrıqtılar
+    kk-tr: Şubalañ quýrıqtılar
+    ko: 사향고양이과
+    la: Viverridae
+    lo: ວົງເຫງັນ
+    lt: Viveriniai
+    lv: viveru dzimta
+    mk: цибетки
+    ml: വിവെരിഡെ
+    mr: ऊदाद्य
+    ms: Viverridae
+    mul: Viverridae
+    my: ဝံပိုင့်
+    nan: Viverridae
+    nb: snikekattfamilien
+    nl: Civetkatachtigen
+    nn: Snikekattfamilien
+    nv: Dlǫ́ʼiitsoh Danilínígíí
+    oc: Viverridae
+    pl: wiwerowate
+    pnb: مشکی بلی
+    pt: Viverrídeos
+    pt-br: Viverridae
+    ro: Viverridae
+    ru: виверровые
+    sco: Viverridae
+    sh: Cibetke
+    sl: cibetovke
+    sq: Viverridae
+    sr: cibetke
+    sv: Viverrider
+    sw: Fungo
+    th: วงศ์ชะมดและอีเห็น
+    tl: Viverridae
+    tr: Misk kedisigiller
+    ug: ئىپار مۈشۈك ئائىلىسى
+    uk: віверові
+    vi: Họ Cầy
+    vls: Civetkatachtign
+    vo: Viverridae
+    war: Viverridae
+    wuu: 灵猫科
+    yue: 靈貓科
+    zh: 灵猫科
+    zh-cn: 灵猫科
+    zh-hans: 灵猫科
+    zh-hant: 靈貓科
+    zh-hk: 靈貓科
+    zh-sg: 灵猫科
+    zh-tw: 靈貓科
 ---
-
 # [[Viverridae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Viverridae,185864|WD~Viverridae,185864]]  

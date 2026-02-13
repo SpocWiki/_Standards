@@ -1,51 +1,245 @@
 ---
-has_time_started: 1829-01-01 
+has_time_started: 1829-01-01
 aliases:
-  - Accordion
+- accordeon
+- Accordeong
+- Accordion
+- accordéon
+- acordeon
+- acordeão
+- acordeón
+- acordion
+- acordió
+- acordión
+- Akkordeon
+- akkordeonlar
+- akordeoi
+- akordeon
+- akordeonas
+- akordeono
+- akordeons
+- akordeoñs
+- akordeón
+- akordion
+- akordiono
+- akordiyon
+- akòrdeón
+- angorodao
+- armoniche
+- bocs kiaullee
+- bogsa-ciùil
+- cairdín
+- cordión
+- cyjo
+- dragspel
+- fisarmonica
+- fisarmònica
+- fizarmonika
+- garmaan
+- Gwetschn
+- haanoor
+- harmonica diductilis
+- harmonihkká
+- harmonika
+- harmonikka
+- Kĩnanda kĩa muira
+- lindánda
+- ngètngot
+- organitu
+- phong cầm
+- Quetschkommood
+- tetarik
+- trekklavier
+- trekkspel
+- trekkspill
+- yatana takiy phukulli
+- årmonica
+- ακκορντεόν
+- акардэон
+- аккордеон
+- аккордеоны
+- акордеон
+- баян хуур
+- каьхатпандар
+- хармоника
+- ակորդեոն
+- դաշնօն
+- אקורדיון
+- האַרמאָניע
+- آکاردئون
+- آکوردئون
+- أكورديون
+- اكورديون
+- اڪارڊين
+- অ্যাকর্ডিয়ন
+- அக்கார்டியன்
+- അക്കോർഡിയൻ
+- අ'කෝඩිඅ'න්
+- หีบเพลงชัก
+- ལག་སྦྲེང་།
+- ဢၵေႃႇတီႇယၼ်ႇ
+- აკორდეონი
+- アコーディオン
+- 手風琴
+- 手风琴
+- 아코디언
 has_id_wikidata: Q79838
 Amazon_com_browse_node: 11969991
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/AccordionBellowsSounds.ogg
 Commons_category: Accordions
 Commons_gallery: Accordion
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 described_at_URL:
-  - https://mondes.occitanica.eu/explorer/les-arts/les-instruments/accordeon
-  - https://mondes.occitanica.eu/oc/explorar/arts/los-instruments/acordeon
+- https://mondes.occitanica.eu/explorer/les-arts/les-instruments/accordeon
+- https://mondes.occitanica.eu/oc/explorar/arts/los-instruments/acordeon
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02672831-n
 Google_Doodle: celebrating-the-accordion
 Hornbostel_Sachs_classification:
-  - 412.132
-  - 412.132-62-8
+- 412.132
+- 412.132-62-8
 Iconclass_notation: 48C7335
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20converter%20free-bass%20piano-accordion%20and%20a%20Russian%20bayan.jpg
 IMDb_keyword: accordion
 inception: 1829-01-01T00:00:00Z
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Pau,132671]]"
-  - "[[_Standards/WikiData/WD~Ossau_Valley,2305607]]"
-instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Mondes_d_Occitanica,_Portail_occitan_du_PCI,117197442]]"
+- '[[_Standards/WikiData/WD~Pau,132671]]'
+- '[[_Standards/WikiData/WD~Ossau_Valley,2305607]]'
+instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Mondes_d_Occitanica,_Portail_occitan_du_PCI,117197442]]'
 Nomenclature_for_Museum_Cataloging: 10708
 OmegaWiki_Defined_Meaning: 368916
 P8189: 987007293690605200
 subclass_of:
-  - "[[_Standards/WikiData/WD~squeezebox,336767]]"
-  - "[[_Standards/WikiData/WD~multimonica,19650003]]"
+- '[[_Standards/WikiData/WD~squeezebox,336767]]'
+- '[[_Standards/WikiData/WD~multimonica,19650003]]'
 subreddit: Accordion
-Unicode_character: 🪗
+Unicode_character: "\U0001FA97"
 UNSPSC_Code: 60131002
-used_by: "[[_Standards/WikiData/WD~accordionist,1863064]]"
+used_by: '[[_Standards/WikiData/WD~accordionist,1863064]]'
 U_S_National_Archives_Identifier: 10646133
+dv_has_:
+  name_:
+    af: trekklavier
+    an: cordión
+    ar: أكورديون
+    arz: اكورديون
+    ast: acordión
+    az: akkordeon
+    bar: Gwetschn
+    be: акардэон
+    be-tarask: акардэон
+    bew: ngètngot
+    bg: акордеон
+    bn: অ্যাকর্ডিয়ন
+    bo: ལག་སྦྲེང་།
+    br: akordeoñs
+    bs: harmonika
+    ca: acordió
+    cs: akordeon
+    csb: akòrdeón
+    cy: acordion
+    da: harmonika
+    de: Akkordeon
+    el: ακκορντεόν
+    en: accordion
+    eo: akordiono
+    es: acordeón
+    et: akordion
+    eu: akordeoi
+    fa: آکوردئون
+    fi: harmonikka
+    fr: accordéon
+    fur: armoniche
+    ga: cairdín
+    gd: bogsa-ciùil
+    gl: acordeón
+    gsw: Akkordeon
+    gv: bocs kiaullee
+    he: אקורדיון
+    hr: harmonika
+    hu: harmonika
+    hy: ակորդեոն
+    hyw: դաշնօն
+    ia: accordion
+    id: akordeon
+    ie: acordeon
+    inh: каьхатпандар
+    io: akordeono
+    is: harmonikka
+    it: fisarmonica
+    ja: アコーディオン
+    ka: აკორდეონი
+    ki: Kĩnanda kĩa muira
+    kk: аккордеон
+    ko: 아코디언
+    ku: akordiyon
+    ky: аккордеон
+    la: harmonica diductilis
+    lb: Akkordeon
+    lmo: fisarmonica
+    ln: lindánda
+    lt: akordeonas
+    lv: akordeons
+    mg: angorodao
+    mk: хармоника
+    ml: അക്കോർഡിയൻ
+    mn: баян хуур
+    ms: tetarik
+    mzn: آکاردئون
+    nb: trekkspill
+    nds: Quetschkommood
+    nl: accordeon
+    nn: trekkspel
+    oc: acordeon
+    pfl: Akkordeon
+    pl: akordeon
+    pt: acordeão
+    pt-br: acordeão
+    qu: yatana takiy phukulli
+    ro: acordeon
+    ru: аккордеоны
+    sc: organitu
+    scn: fisarmònica
+    sco: accordion
+    sd: اڪارڊين
+    se: harmonihkká
+    sh: harmonika
+    shn: ဢၵေႃႇတီႇယၼ်ႇ
+    si: අ'කෝඩිඅ'න්
+    sk: akordeón
+    sl: harmonika
+    smn: haanoor
+    sms: garmaan
+    sq: fizarmonika
+    sr: хармоника
+    sr-ec: хармоника
+    sv: dragspel
+    szl: cyjo
+    ta: அக்கார்டியன்
+    tg: аккордеон
+    th: หีบเพลงชัก
+    tr: akordeon
+    uk: акордеон
+    uz: akkordeonlar
+    vi: phong cầm
+    vls: Accordeong
+    wa: årmonica
+    wuu: 手风琴
+    xmf: აკორდეონი
+    yi: האַרמאָניע
+    yue: 手風琴
+    zh: 手风琴
+    zh-hans: 手风琴
+    zh-hant: 手風琴
 ---
-
 # [[Accordion]] 🪗 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Accordion,79838]] 

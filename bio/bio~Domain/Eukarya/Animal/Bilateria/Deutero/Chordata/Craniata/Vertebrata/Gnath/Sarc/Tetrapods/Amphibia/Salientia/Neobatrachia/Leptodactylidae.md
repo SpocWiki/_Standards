@@ -1,9 +1,90 @@
 ---
 aliases:
-  - Leptodactylidae
+- Dantytosios rupūžės
+- fluitkikkers
+- füttyentőbéka-félék
+- hvízdalkovití
+- Leptodactylidae
+- Leptodactílidos
+- Leptodactílids
+- Leptodaktiledoj
+- Pfeiffrösche
+- Shádiʼááhdę́ę́ʼ chʼał
+- Tandpaddor
+- tannfrosker
+- viheltäjäsammakot
+- Świstkowate
+- Žvižgovke
+- жаби свирци
+- Свистуни
+- Свистуновые
+- לפטודקטיליים
+- ضفادع جنوبية
+- ضفادع جنوبيه
+- قورباغههای جنوبی
+- ユビナガガエル科
+- 細趾蟾科
+- 细趾蟾科
+- 긴발가락개구리과
 title: \'Leptodactylidae\'
+has_id_wikidata: Q55475
+dv_has_:
+  name_:
+    an: Leptodactylidae
+    ar: ضفادع جنوبية
+    arz: ضفادع جنوبيه
+    ast: Leptodactylidae
+    bg: жаби свирци
+    ca: Leptodactílids
+    ceb: Leptodactylidae
+    cs: hvízdalkovití
+    de: Pfeiffrösche
+    de-ch: Leptodactylidae
+    en: Leptodactylidae
+    en-ca: Leptodactylidae
+    en-gb: Leptodactylidae
+    eo: Leptodaktiledoj
+    es: Leptodactylidae
+    eu: Leptodactylidae
+    ext: Leptodactylidae
+    fa: قورباغههای جنوبی
+    fi: viheltäjäsammakot
+    fr: Leptodactylidae
+    ga: Leptodactylidae
+    gl: Leptodactílidos
+    he: לפטודקטיליים
+    hu: füttyentőbéka-félék
+    ia: Leptodactylidae
+    ie: Leptodactylidae
+    io: Leptodactylidae
+    it: Leptodactylidae
+    ja: ユビナガガエル科
+    ko: 긴발가락개구리과
+    la: Leptodactylidae
+    lt: Dantytosios rupūžės
+    mul: Leptodactylidae
+    nb: tannfrosker
+    nl: fluitkikkers
+    nv: Shádiʼááhdę́ę́ʼ chʼał
+    oc: Leptodactylidae
+    pl: Świstkowate
+    pt: Leptodactylidae
+    pt-br: Leptodactylidae
+    ro: Leptodactylidae
+    ru: Свистуновые
+    sl: Žvižgovke
+    sq: Leptodactylidae
+    sv: Tandpaddor
+    tr: Leptodactylidae
+    uk: Свистуни
+    vi: Leptodactylidae
+    vo: Leptodactylidae
+    war: Leptodactylidae
+    zh: 细趾蟾科
+    zh-cn: 细趾蟾科
+    zh-hans: 细趾蟾科
+    zh-tw: 細趾蟾科
 ---
-
 # [[Leptodactylidae]] 
 
 Leptodactylid Frogs 

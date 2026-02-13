@@ -1,10 +1,101 @@
 ---
 aliases:
-  - Vanadium
+- banadio
+- Banadiomu
+- Banadyo
+- Bhanadium
+- Cīmapantepoztli
+- Fanadhiyaam
+- fanadiwm
+- Fanadɩyɔm
+- ijo lili nanpa 23
+- jinmrvanadi
+- UVathofi
+- vanaadium
+- vanaadjum
+- vanad
+- Vanaddio
+- vanadi
+- Vanadii
+- vanadiini
+- vanadij
+- Vanadijum
+- vanadin
+- vanadio
+- Vanadiom
+- vanadis
+- vanadiu
+- Vanadium
+- Vanadiumi
+- Vanadiy
+- Vanadiôma
+- vanadju
+- Vanadyo
+- vanadyum
+- Vanadyòm
+- Vanadyûm
+- vanadín
+- vanaidiam
+- Vandel
+- Vanàdiu
+- vanád
+- vanádio
+- vanádium
+- vanādijs
+- wanad
+- Wanadyu
+- βανάδιο
+- Ванад
+- ванадій
+- Ванади
+- ванадијум
+- ванадий
+- ванадиум
+- Ванадый
+- Վանադին
+- վանադիում
+- וואנאדיום
+- ונדיום
+- فاناديوم
+- وانادیم
+- وانېديوم
+- ونیڈیم
+- وينئڊيئم
+- وینیڈیئم
+- ڤاناديوم
+- ڤانادیۆم
+- ۋانادىي
+- ۏاناديوم
+- ވެނޭޑިއަމް
+- भेनेडियम
+- भ्यानडियम
+- वनेडियम
+- वैनेडियम
+- व्हेनेडियम
+- ভ্যানাডিয়াম
+- ਵੈਨੇਡੀਅਮ
+- વેનેડિયમ
+- ଭାନାଡ଼ିଅମ
+- வனேடியம்
+- వెనేడియం
+- ವನೆಡಿಯಮ್
+- വനേഡിയം
+- วาเนเดียม
+- ཝེ་ནི་ཌིམ།
+- ဗနဒီယမ်
+- ဗနေဒီယမ်
+- ვანადიუმი
+- ቫናዲየም
+- ᏩᏁᏗᎥᎻ
+- ⴰⴱⴰⵏⴰⴷⵢⵓⵎ
+- バナジウム
+- 釩
+- 钒
+- 바나듐
 has_id_wikidata: Q722
 atomic_number: 23
 boiling_point: 3377
-canonical_SMILES: "[V]"
+canonical_SMILES: '[V]'
 CAS_Registry_Number: 7440-62-2
 chemical_formula: V
 Commons_category: Vanadium
@@ -12,62 +103,62 @@ Commons_gallery: Vanadium
 Common_Procurement_Vocabulary_code: 14725000
 CPV_Supplementary_code: AA13
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~EB-11___Vanadium,84669050]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~EB-11___Vanadium,84669050]]'
 Dewey_Decimal_Classification: 546.522
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Andrés_Manuel_del_Río,524465]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Andrés_Manuel_del_Río,524465]]'
 DSSTOX_compound_identifier: DTXCID0020282
 EC_number: 231-171-1
 electronegativity: 1.63
-electron_configuration: "[Ar] 3d³ 4s²"
+electron_configuration: '[Ar] 3d³ 4s²'
 element_symbol: V
 Gmelin_number: 16007
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium%201.jpg
 InChI: InChI=1S/V
 InChIKey: LEONUFNNVUYDNQ-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.36
-  - 0.46
-  - 0.53
-  - 0.54
-  - 0.58
-  - 0.64
-  - 0.72
-  - 0.76
+- 0.36
+- 0.46
+- 0.53
+- 0.54
+- 0.58
+- 0.64
+- 0.72
+- 0.76
 made_from_material:
-  - "[[_Standards/WikiData/WD~vanadinite,407251]]"
-  - "[[_Standards/WikiData/WD~carnotite,409100]]"
-  - "[[_Standards/WikiData/WD~patrónite,416203]]"
-  - "[[_Standards/WikiData/WD~shcherbinaite,3959261]]"
-  - "[[_Standards/WikiData/WD~colimaite,5144828]]"
-  - "[[_Standards/WikiData/WD~ardennite-(V),19799657]]"
-  - "[[_Standards/WikiData/WD~rhabdoborite-(V),55876690]]"
+- '[[_Standards/WikiData/WD~vanadinite,407251]]'
+- '[[_Standards/WikiData/WD~carnotite,409100]]'
+- '[[_Standards/WikiData/WD~patrónite,416203]]'
+- '[[_Standards/WikiData/WD~shcherbinaite,3959261]]'
+- '[[_Standards/WikiData/WD~colimaite,5144828]]'
+- '[[_Standards/WikiData/WD~ardennite-(V),19799657]]'
+- '[[_Standards/WikiData/WD~rhabdoborite-(V),55876690]]'
 mass: 50.9415
 melting_point: 1887
 MeSH_tree_code:
-  - D01.268.556.920
-  - D01.268.956.886
-  - D01.552.544.920
-named_after: "[[_Standards/WikiData/WD~Freyja,1647325]]"
+- D01.268.556.920
+- D01.268.956.886
+- D01.552.544.920
+named_after: '[[_Standards/WikiData/WD~Freyja,1647325]]'
 OmegaWiki_Defined_Meaning: 3940
 oxidation_state: 5
 part_of:
-  - "[[_Standards/WikiData/WD~group_5,193276]]"
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
+- '[[_Standards/WikiData/WD~group_5,193276]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Vanadium-ar.ogg
 PubChem_CID: 23990
-subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0042306
@@ -77,22 +168,194 @@ U_S_National_Archives_Identifier: 10645191
 ZVG_number: 8180
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Vanadium,722]]"
-    - "[[../../../WikiData/WD~Vanadium,722|WD~Vanadium,722]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium|Vanadium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.public|Vanadium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.internal|Vanadium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.protect|Vanadium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.private|Vanadium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.personal|Vanadium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.secret|Vanadium.secret]]"
-  part_of: "[[../Group-05-Vanadium]]"
+  - '[[../../../WikiData/WD~Vanadium,722]]'
+  - '[[../../../WikiData/WD~Vanadium,722|WD~Vanadium,722]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium|Vanadium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.public|Vanadium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.internal|Vanadium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.protect|Vanadium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.private|Vanadium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.personal|Vanadium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.secret|Vanadium.secret]]'
+  part_of: '[[../Group-05-Vanadium]]'
 dv_has_:
   name_:
-    group: Group-05-Vanadium
-    en: Vanadium
-    de: Vanadium
     abbreviated: V
+    af: vanadium
+    am: ቫናዲየም
+    an: Vanadio
+    anp: वनेडियम
+    ar: فاناديوم
+    ary: ڤاناديوم
+    arz: فاناديوم
+    ast: vanadiu
+    avk: Vandel
+    awa: भ्यानडियम
+    az: Vanadium
+    ba: Ванадий
+    ban: Vanadium
+    bar: Vanadium
+    bcl: Banadyo
+    be: Ванадый
+    be-tarask: Ванад
+    bg: ванадий
+    bho: वैनेडियम
+    blk: ဗနဒီယမ်
+    bn: ভ্যানাডিয়াম
+    bo: ཝེ་ནི་ཌིམ།
+    br: Vanadiom
+    bs: vanadij
+    ca: vanadi
+    cdo: Vanadium
+    ceb: Vanadyo
+    chr: ᏩᏁᏗᎥᎻ
+    ckb: ڤانادیۆم
+    co: Vanadiu
+    cs: vanad
+    cv: Ванади
+    cy: fanadiwm
+    da: vanadium
+    de: Vanadium
+    dv: ވެނޭޑިއަމް
+    el: βανάδιο
+    en: vanadium
+    eo: vanadio
+    es: vanadio
+    et: vanaadium
+    eu: banadio
+    fa: وانادیم
+    fi: vanadiini
+    fr: vanadium
+    frr: Vanadium
+    fur: Vanadi
+    ga: vanaidiam
+    gd: Bhanadium
+    gl: Vanadio
+    group: Group-05-Vanadium
+    gu: વેનેડિયમ
+    gv: vanaadjum
+    hak: Vanadium
+    haw: Vanadium
+    he: ונדיום
+    hi: वनेडियम
+    hif: Vanadium
+    hr: vanadij
+    ht: Vanadyòm
+    hu: vanádium
+    hy: վանադիում
+    hyw: Վանադին
+    ia: vanadium
+    id: vanadium
+    io: vanadio
+    is: vanadín
+    it: vanadio
+    ja: バナジウム
+    jbo: jinmrvanadi
+    jv: Vanadium
+    ka: ვანადიუმი
+    kbp: Fanadɩyɔm
+    kk: Ванадий
+    kn: ವನೆಡಿಯಮ್
+    ko: 바나듐
+    ku: Vanadyûm
+    kv: Ванадий
+    kw: Vanadiom
+    ky: Ванадий
+    la: vanadium
+    lb: Vanadium
+    lfn: vanadio
+    li: Vanadium
+    lij: Vanaddio
+    lmo: Vanadio
+    lt: vanadis
+    lv: vanādijs
+    lzh: 釩
+    mdf: Ванади
+    mg: Vanadiôma
+    mk: ванадиум
+    ml: വനേഡിയം
+    mn: ванади
+    mr: व्हेनेडियम
+    mrj: Ванадий
+    ms: vanadium
+    ms-arab: ۏاناديوم
+    mt: vanadju
+    my: ဗနေဒီယမ်
+    nah: Cīmapantepoztli
+    nan: Vanadium
+    nb: vanadium
+    nds: Vanadium
+    ne: भेनेडियम
+    new: भ्यानडियम
+    nl: vanadium
+    nn: vanadium
+    nov: Vanadium
+    oc: Vanadi
+    olo: Vanadium
+    or: ଭାନାଡ଼ିଅମ
+    os: ванадий
+    pa: ਵੈਨੇਡੀਅਮ
+    pap: vanadio
+    pap-aw: vanadio
+    pi: भ्यानडियम
+    pl: wanad
+    pms: Vanadi
+    pnb: ونیڈیم
+    ps: وانېديوم
+    pt: vanádio
+    pt-br: vanádio
+    qu: Wanadyu
+    ro: vanadiu
+    ru: ванадий
+    rup: Vanadiu
+    sa: भ्यानडियम
+    sc: Vanàdiu
+    scn: vanadiu
+    sco: vanadium
+    sd: وينئڊيئم
+    sh: Vanadijum
+    sk: vanád
+    sl: vanadij
+    so: Fanadhiyaam
+    sq: Vanadiumi
+    sr: ванадијум
+    sr-ec: Ванадијум
+    stq: Vanadium
+    su: Vanadium
+    sv: vanadin
+    sw: Vanadi
+    ta: வனேடியம்
+    te: వెనేడియం
+    tg: Ванадий
+    th: วาเนเดียม
+    tl: Banadyo
+    tok: ijo lili nanpa 23
+    tr: vanadyum
+    tt: Ванадий
+    ug: ۋانادىي
+    uk: ванадій
+    ur: وینیڈیئم
+    uz: Vanadiy
+    vep: Vanadii
+    vi: vanadi
+    war: Vanadyo
+    wuu: 钒
+    xal: Ванад
+    yi: וואנאדיום
+    yo: Banadiomu
+    yue: 釩
+    zgh: ⴰⴱⴰⵏⴰⴷⵢⵓⵎ
+    zh: 釩
+    zh-cn: 钒
+    zh-hans: 钒
+    zh-hant: 釩
+    zh-hk: 釩
+    zh-tw: 釩
+    zu: UVathofi
+  number_of_:
+    period: 4
+    group: 5
+    electrons: 23
   value_for_:
     weight_:
       u: 50.9415
@@ -120,22 +383,18 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 4
-    group: 5
-    electrons: 23
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Vanadium,722]]"
-  - "[[../../../WikiData/WD~Vanadium,722|WD~Vanadium,722]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium|Vanadium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.public|Vanadium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.internal|Vanadium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.protect|Vanadium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.private|Vanadium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.personal|Vanadium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.secret|Vanadium.secret]]"
+- '[[../../../WikiData/WD~Vanadium,722]]'
+- '[[../../../WikiData/WD~Vanadium,722|WD~Vanadium,722]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium|Vanadium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.public|Vanadium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.internal|Vanadium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.protect|Vanadium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.private|Vanadium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.personal|Vanadium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Vanadium.secret|Vanadium.secret]]'
 dv_has_name_group: Group-05-Vanadium
-dv_is_part_of: "[[../Group-05-Vanadium]]"
+dv_is_part_of: '[[../Group-05-Vanadium]]'
 dv_has_name_en: Vanadium
 dv_has_name_de: Vanadium
 dv_has_value_for_weight_u: 50.9415
@@ -156,7 +415,6 @@ dv_has_number_of_group: 5
 dv_has_name_abbreviated: V
 dv_has_number_of_electrons: 23
 ---
-
 # [[Vanadium]] 
 
 #chemic/Element 

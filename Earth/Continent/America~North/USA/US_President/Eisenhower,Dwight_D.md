@@ -1,150 +1,205 @@
 ---
 aliases:
-  - Dwight D. Eisenhower
-  - Eisenhower,Dwight_D
-  - Eisenhower,Dwight D
+- Duayt Eyzenhauer
+- Dvaits Deivėds Eizenhaueris
+- Dvaits Eizenhauers
+- Dwayt Eyzenhauer
+- Dwight D. Eisenhower
+- Dwight D.Eisenhower
+- Dwight David Eisenhower
+- Dwight Eisenhower
+- Dwight Eişenhower
+- Eisenhower,Dwight D
+- Eisenhower,Dwight_D
+- Ντουάιτ Αϊζενχάουερ
+- Дўайт Дэйвід Эйзэнгаўэр
+- Двајт Ајзенхауер
+- Двајт Д. Ајзенхауер
+- Двайт Ейзенгавер
+- Дуайт Айзенхауер
+- Дуайт Айзенҳоуер
+- Дуайт Дэвид Эйзенхауэр
+- Дуайт Дэйвід Эйзенхаўэр
+- Дуайт Эйзенхауер
+- Дуайт Эйзенхауэр
+- Еизенхауер, Дуаиҭ Девид
+- Эйзенхауэр Дуайт Девид
+- Эйзенхауэр Дуайт Дэвид
+- Դուայթ Էյզենհաուեր
+- דווייט אייזנהאואר
+- דווייט דעיוויד אייזנהאוער
+- آئزن هاور
+- دوايت أيزنهاور
+- دوايت ايزينهاور
+- دوایت آیزنهاور
+- دوایت د. ئایزێنھاوەر
+- ڈیوائٹ ڈی آئزن ہاور
+- ډوایټ ډیویډ ایزنهاور
+- ड्वाइट डी. आयझेनहॉवर
+- ड्वाइट डेविड आइज़नहावर
+- ड्वीट डी. आइजेनहावर
+- ডোয়াইট ডি. আইজেনহাওয়ার
+- ਡਵਾਈਟ ਡੇਵਿਡ ਆਈਜ਼ਨਹਾਵਰ
+- டுவைட் டி. ஐசனாவர்
+- డ్వైట్ డి. ఐసెన్హోవర్
+- ಡ್ವೈಟ್ ಡಿ. ಐಸೆನ್ಹೋವರ್
+- ഡ്വൈറ്റ് ഐസനോവർ
+- ඩ්වයිට් ඩී. අයිසන්හවර්
+- ดไวต์ ดี. ไอเซนฮาวร์
+- ດວາຍ ດິ. ໄອເຊນໂຮເວີ
+- ဒွိုက် ဒေးဗစ် အိုင်ဆင်ဟောင်ဝါ
+- დუაით ეიზენჰაუერი
+- დუაიტ ეიზენჰაუერი
+- ድዋይት አይዘንሃወር
+- ᏓᏩᎢᏘ Ꮥ. ᎠᎢᏎᏂᎭᏩ
+- ドワイト・D・アイゼンハワー
+- 德怀特·艾森豪威尔
+- 德懷特·艾森豪
+- 德瓦·艾叟豁沃
+- 艾森豪威爾
+- 드와이트 D. 아이젠하워
 has_id_wikidata: Q9916
 title: Dwight D. Eisenhower
 type: Person
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~army_officer,38239859]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~army_officer,38239859]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Royal_House_of_Chakri,93911]]"
-  - "[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]"
-  - "[[_Standards/WikiData/WD~World_Golf_Hall_of_Fame,258851]]"
-  - "[[_Standards/WikiData/WD~Order_of_Victory,465316]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Redeemer,614661]]"
-  - "[[_Standards/WikiData/WD~Atoms_for_Peace_Award,757645]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]"
-  - "[[_Standards/WikiData/WD~Order_of_Sikatuna,980578]]"
-  - "[[_Standards/WikiData/WD~European_African_Middle_Eastern_Campaign_Medal,1376304]]"
-  - "[[_Standards/WikiData/WD~Distinguished_Service_Medal,1774648]]"
-  - "[[_Standards/WikiData/WD~Nishan_e_Pakistan,1820710]]"
-  - "[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]"
-  - "[[_Standards/WikiData/WD~Czechoslovak_War_Cross_1939_1945,2297431]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]"
-  - "[[_Standards/WikiData/WD~Order_of_Aeronautical_Merit,2448945]]"
-  - "[[_Standards/WikiData/WD~Victory_Medal,2454427]]"
-  - "[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]"
-  - "[[_Standards/WikiData/WD~Africa_Star,2701827]]"
-  - "[[_Standards/WikiData/WD~Order_of_Manuel_Amador_Guerrero,2803223]]"
-  - "[[_Standards/WikiData/WD~American_Defense_Service_Medal,2842905]]"
-  - "[[_Standards/WikiData/WD~Companion_of_the_Liberation,2990283]]"
-  - "[[_Standards/WikiData/WD~Order_of_Vasco_Núñez_de_Balboa,3885425]]"
-  - "[[_Standards/WikiData/WD~Army_of_Occupation_Medal,4794320]]"
-  - "[[_Standards/WikiData/WD~Collar_of_the_Supreme_Order_of_the_Chrysanthemum,5357263]]"
-  - "[[_Standards/WikiData/WD~Mexican_Border_Service_Medal,6825751]]"
-  - "[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]"
-  - "[[_Standards/WikiData/WD~Order_of_Propitious_Clouds,11044080]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]"
-  - "[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_Bath,12177470]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_order_of_Nichan_Iftikhar,13398465]]"
-  - "[[_Standards/WikiData/WD~World_War_I_Victory_Medal,13409491]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_Savoy,14763449]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Oak_Crown,15042145]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]"
-  - "[[_Standards/WikiData/WD~Hoover_Medal,17132005]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Wissam_El_Alaouite,17200167]]"
-  - "[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]"
-  - "[[_Standards/WikiData/WD~Order_of_Ismail,18887941]]"
-  - "[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]"
-  - "[[_Standards/WikiData/WD~Order_of_Suvorov,_1st_class,21292820]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Cross_of_Grunwald,_1st_class,21405589]]"
-  - "[[_Standards/WikiData/WD~Silver_Cross_of_the_Virtuti_Militari,21877402]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Southern_Cross,22058319]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Brussels,66827449]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_Hofstra_University,101242891]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Liberator_General_San_Martin,104170805]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_Caen_University,120737049]]"
-  - "[[_Standards/WikiData/WD~Croix_de_guerre,48915]]"
+- '[[_Standards/WikiData/WD~Order_of_the_Royal_House_of_Chakri,93911]]'
+- '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+- '[[_Standards/WikiData/WD~World_Golf_Hall_of_Fame,258851]]'
+- '[[_Standards/WikiData/WD~Order_of_Victory,465316]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Redeemer,614661]]'
+- '[[_Standards/WikiData/WD~Atoms_for_Peace_Award,757645]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Elephant,976544]]'
+- '[[_Standards/WikiData/WD~Order_of_Sikatuna,980578]]'
+- '[[_Standards/WikiData/WD~European_African_Middle_Eastern_Campaign_Medal,1376304]]'
+- '[[_Standards/WikiData/WD~Distinguished_Service_Medal,1774648]]'
+- '[[_Standards/WikiData/WD~Nishan_e_Pakistan,1820710]]'
+- '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+- '[[_Standards/WikiData/WD~Czechoslovak_War_Cross_1939_1945,2297431]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_in_the_Order_of_the_Netherlands_Lion,2297608]]'
+- '[[_Standards/WikiData/WD~Order_of_Aeronautical_Merit,2448945]]'
+- '[[_Standards/WikiData/WD~Victory_Medal,2454427]]'
+- '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
+- '[[_Standards/WikiData/WD~Africa_Star,2701827]]'
+- '[[_Standards/WikiData/WD~Order_of_Manuel_Amador_Guerrero,2803223]]'
+- '[[_Standards/WikiData/WD~American_Defense_Service_Medal,2842905]]'
+- '[[_Standards/WikiData/WD~Companion_of_the_Liberation,2990283]]'
+- '[[_Standards/WikiData/WD~Order_of_Vasco_Núñez_de_Balboa,3885425]]'
+- '[[_Standards/WikiData/WD~Army_of_Occupation_Medal,4794320]]'
+- '[[_Standards/WikiData/WD~Collar_of_the_Supreme_Order_of_the_Chrysanthemum,5357263]]'
+- '[[_Standards/WikiData/WD~Mexican_Border_Service_Medal,6825751]]'
+- '[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+- '[[_Standards/WikiData/WD~Order_of_Propitious_Clouds,11044080]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]'
+- '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_Bath,12177470]]'
+- '[[_Standards/WikiData/WD~Grand_Cordon_of_the_order_of_Nichan_Iftikhar,13398465]]'
+- '[[_Standards/WikiData/WD~World_War_I_Victory_Medal,13409491]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Military_Order_of_Savoy,14763449]]'
+- '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Oak_Crown,15042145]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Polonia_Restituta,15715257]]'
+- '[[_Standards/WikiData/WD~Hoover_Medal,17132005]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Wissam_El_Alaouite,17200167]]'
+- '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
+- '[[_Standards/WikiData/WD~Order_of_Ismail,18887941]]'
+- '[[_Standards/WikiData/WD~Grand_cross_of_the_Order_of_the_White_Lion,20966518]]'
+- '[[_Standards/WikiData/WD~Order_of_Suvorov,_1st_class,21292820]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Cross_of_Grunwald,_1st_class,21405589]]'
+- '[[_Standards/WikiData/WD~Silver_Cross_of_the_Virtuti_Militari,21877402]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Southern_Cross,22058319]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Brussels,66827449]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Hofstra_University,101242891]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Liberator_General_San_Martin,104170805]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Caen_University,120737049]]'
+- '[[_Standards/WikiData/WD~Croix_de_guerre,48915]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Mennonites,110223]]"
-  - "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
-  - "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269]]"
+- '[[_Standards/WikiData/WD~Mennonites,110223]]'
+- '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
+- "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269]]"
 medical_condition:
-  - "[[_Standards/WikiData/WD~infection,166231]]"
-  - "[[_Standards/WikiData/WD~aneurysm,189389]]"
-  - "[[_Standards/WikiData/WD~phaeochromocytoma,536269]]"
-  - "[[_Standards/WikiData/WD~knee_injury,15283847]]"
-  - "[[_Standards/WikiData/WD~Crohn's_disease,1472]]"
-  - "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-  - "[[_Standards/WikiData/WD~stroke,12202]]"
-spouse: "[[_Standards/WikiData/WD~Mamie_Eisenhower,233686]]"
-field_of_work: "[[_Standards/WikiData/WD~politics_of_the_United_States,330963]]"
+- '[[_Standards/WikiData/WD~infection,166231]]'
+- '[[_Standards/WikiData/WD~aneurysm,189389]]'
+- '[[_Standards/WikiData/WD~phaeochromocytoma,536269]]'
+- '[[_Standards/WikiData/WD~knee_injury,15283847]]'
+- "[[_Standards/WikiData/WD~Crohn's_disease,1472]]"
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~stroke,12202]]'
+spouse: '[[_Standards/WikiData/WD~Mamie_Eisenhower,233686]]'
+field_of_work: '[[_Standards/WikiData/WD~politics_of_the_United_States,330963]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Legion,468865]]"
-  - "[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]"
+- '[[_Standards/WikiData/WD~American_Legion,468865]]'
+- '[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~NIOD_Institute_for_War,_Holocaust_and_Genocide_Studies,474823]]"
-  - "[[_Standards/WikiData/WD~Freedom_Museum,1869397]]"
-place_of_birth: "[[_Standards/WikiData/WD~Denison,534669]]"
+- '[[_Standards/WikiData/WD~NIOD_Institute_for_War,_Holocaust_and_Genocide_Studies,474823]]'
+- '[[_Standards/WikiData/WD~Freedom_Museum,1869397]]'
+place_of_birth: '[[_Standards/WikiData/WD~Denison,534669]]'
 child:
-  - "[[_Standards/WikiData/WD~John_Eisenhower,538633]]"
-  - "[[_Standards/WikiData/WD~Doud_Eisenhower,5300213]]"
+- '[[_Standards/WikiData/WD~John_Eisenhower,538633]]'
+- '[[_Standards/WikiData/WD~Doud_Eisenhower,5300213]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~United_States_Army_War_College,635078]]"
-  - "[[_Standards/WikiData/WD~United_States_Army_Command_and_General_Staff_College,1115050]]"
-  - "[[_Standards/WikiData/WD~Abilene_High_School,4667764]]"
-  - "[[_Standards/WikiData/WD~United_States_Military_Academy,9219]]"
+- '[[_Standards/WikiData/WD~United_States_Army_War_College,635078]]'
+- '[[_Standards/WikiData/WD~United_States_Army_Command_and_General_Staff_College,1115050]]'
+- '[[_Standards/WikiData/WD~Abilene_High_School,4667764]]'
+- '[[_Standards/WikiData/WD~United_States_Military_Academy,9219]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Chief_of_Staff_of_the_United_States_Army,783785]]"
-  - "[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]"
-  - "[[_Standards/WikiData/WD~Supreme_Allied_Commander_Europe,1640949]]"
-  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-participant_in: "[[_Standards/WikiData/WD~Hostages_Trial,836476]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~General_of_the_Army,1331037]]"
-place_of_death: "[[_Standards/WikiData/WD~Walter_Reed_Army_Medical_Center,1473658]]"
+- '[[_Standards/WikiData/WD~Chief_of_Staff_of_the_United_States_Army,783785]]'
+- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]'
+- '[[_Standards/WikiData/WD~Supreme_Allied_Commander_Europe,1640949]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+participant_in: '[[_Standards/WikiData/WD~Hostages_Trial,836476]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~General_of_the_Army,1331037]]'
+place_of_death: '[[_Standards/WikiData/WD~Walter_Reed_Army_Medical_Center,1473658]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Dwight_D._Eisenhower_Presidential_Library,_Museum_and_Boyhood_Home,3270206]]"
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]"
-place_of_burial: "[[_Standards/WikiData/WD~Dwight_D._Eisenhower_Presidential_Library,_Museum_and_Boyhood_Home,3270206]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+- '[[_Standards/WikiData/WD~Dwight_D._Eisenhower_Presidential_Library,_Museum_and_Boyhood_Home,3270206]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+place_of_burial: '[[_Standards/WikiData/WD~Dwight_D._Eisenhower_Presidential_Library,_Museum_and_Boyhood_Home,3270206]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Milton_Stover_Eisenhower,4501243]]"
-  - "[[_Standards/WikiData/WD~Earl_D._Eisenhower,5325810]]"
-  - "[[_Standards/WikiData/WD~Edgar_Newton_Eisenhower,5337394]]"
-commemorates: "[[_Standards/WikiData/WD~Eisenhower_Fellowships,5349914]]"
-affiliation: "[[_Standards/WikiData/WD~Eisenhower_Fellowships,5349914]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Milton_Stover_Eisenhower,4501243]]'
+- '[[_Standards/WikiData/WD~Earl_D._Eisenhower,5325810]]'
+- '[[_Standards/WikiData/WD~Edgar_Newton_Eisenhower,5337394]]'
+commemorates: '[[_Standards/WikiData/WD~Eisenhower_Fellowships,5349914]]'
+affiliation: '[[_Standards/WikiData/WD~Eisenhower_Fellowships,5349914]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Dwight,13582327]]"
-  - "[[_Standards/WikiData/WD~David,18057751]]"
-mother: "[[_Standards/WikiData/WD~Ida_Stover_Eisenhower,15997423]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~Army_Black_Knights_football,16148024]]"
-blood_type: "[[_Standards/WikiData/WD~Q19831451,19831451]]"
-family_name: "[[_Standards/WikiData/WD~Eisenhower,20748923]]"
-father: "[[_Standards/WikiData/WD~David_Jacob_Eisenhower,20760306]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-has_list: "[[_Standards/WikiData/WD~Q92323350,92323350]]"
+- '[[_Standards/WikiData/WD~Dwight,13582327]]'
+- '[[_Standards/WikiData/WD~David,18057751]]'
+mother: '[[_Standards/WikiData/WD~Ida_Stover_Eisenhower,15997423]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~Army_Black_Knights_football,16148024]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831451,19831451]]'
+family_name: '[[_Standards/WikiData/WD~Eisenhower,20748923]]'
+father: '[[_Standards/WikiData/WD~David_Jacob_Eisenhower,20760306]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+has_list: '[[_Standards/WikiData/WD~Q92323350,92323350]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
+- '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 date_of_birth: 1890-10-14T00:00:00Z
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-writing_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-cause_of_death: "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-allegiance: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+allegiance: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 2
 height:
-  - 180
-  - 179
+- 180
+- 179
 Commons_gallery: Dwight D. Eisenhower
 date_of_death: 1969-03-28T00:00:00Z
 Krugosvet_article: istoriya/EZENHAUER_DUAT_DEVID.html
@@ -165,38 +220,206 @@ described_at_URL: https://wikispooks.com/wiki/Dwight_Eisenhower
 ISNI: 121450914
 U_S_National_Archives_Identifier: 10678039
 Plex_person_key: 5d77683b961905001eb951ed
-dv_has_role: "[[../US_President]]"
+dv_has_role: '[[../US_President]]'
 dv_created: 1953-01-20
 dv_cancelled: 1961-01-20
 dv_class: Person
 dv_has_:
+  name_:
+    ab: Еизенхауер, Дуаиҭ Девид
+    af: Dwight D. Eisenhower
+    am: ድዋይት አይዘንሃወር
+    an: Dwight David Eisenhower
+    ang: Dwight D. Eisenhower
+    ar: دوايت أيزنهاور
+    ary: دوايت أيزنهاور
+    arz: دوايت ايزينهاور
+    ast: Dwight D. Eisenhower
+    ay: Dwight Eisenhower
+    az: Duayt Eyzenhauer
+    azb: دوایت آیزنهاور
+    ba: Эйзенхауэр Дуайт Дэвид
+    ban: Dwight D. Eisenhower
+    bcl: Dwight D. Eisenhower
+    be: Дуайт Дэйвід Эйзенхаўэр
+    be-tarask: Дўайт Дэйвід Эйзэнгаўэр
+    bg: Дуайт Айзенхауер
+    bi: Dwight D. Eisenhower
+    bn: ডোয়াইট ডি. আইজেনহাওয়ার
+    br: Dwight D. Eisenhower
+    bs: Dwight D. Eisenhower
+    ca: Dwight David Eisenhower
+    cdo: Dwight D. Eisenhower
+    ceb: Dwight D. Eisenhower
+    chr: ᏓᏩᎢᏘ Ꮥ. ᎠᎢᏎᏂᎭᏩ
+    ckb: دوایت د. ئایزێنھاوەر
+    co: Dwight D. Eisenhower
+    crh: Dwight Eişenhower
+    cs: Dwight D. Eisenhower
+    cv: Дуайт Эйзенхауэр
+    cy: Dwight D. Eisenhower
+    da: Dwight D. Eisenhower
+    de: Dwight D. Eisenhower
+    de-ch: Dwight D. Eisenhower
+    diq: Dwight Eisenhower
+    el: Ντουάιτ Αϊζενχάουερ
+    en: Dwight D. Eisenhower
+    en-ca: Dwight D. Eisenhower
+    en-gb: Dwight D. Eisenhower
+    eo: Dwight D. Eisenhower
+    es: Dwight D. Eisenhower
+    et: Dwight Eisenhower
+    eu: Dwight David Eisenhower
+    ext: Dwight D. Eisenhower
+    fa: دوایت آیزنهاور
+    fi: Dwight D. Eisenhower
+    fit: Dwight D. Eisenhower
+    fr: Dwight David Eisenhower
+    frr: Dwight Eisenhower
+    fy: Dwight D. Eisenhower
+    ga: Dwight D. Eisenhower
+    gd: Dwight D. Eisenhower
+    gl: Dwight D. Eisenhower
+    gsw: Dwight D. Eisenhower
+    guw: Dwight D. Eisenhower
+    gv: Dwight D. Eisenhower
+    ha: Dwight D.Eisenhower
+    hak: Dwight D. Eisenhower
+    haw: Dwight D. Eisenhower
+    he: דווייט אייזנהאואר
+    hi: ड्वाइट डेविड आइज़नहावर
+    hr: Dwight D. Eisenhower
+    hu: Dwight D. Eisenhower
+    hy: Դուայթ Էյզենհաուեր
+    ia: Dwight D. Eisenhower
+    id: Dwight D. Eisenhower
+    ilo: Dwight D. Eisenhower
+    io: Dwight D. Eisenhower
+    is: Dwight D. Eisenhower
+    it: Dwight Eisenhower
+    ja: ドワイト・D・アイゼンハワー
+    jv: Dwight D. Eisenhower
+    ka: დუაიტ ეიზენჰაუერი
+    kk: Дуайт Дэвид Эйзенхауэр
+    kn: ಡ್ವೈಟ್ ಡಿ. ಐಸೆನ್ಹೋವರ್
+    ko: 드와이트 D. 아이젠하워
+    ksh: Dwight D. Eisenhower
+    ku: Dwight D. Eisenhower
+    kw: Dwight D. Eisenhower
+    ky: Эйзенхауэр Дуайт Девид
+    la: Dwight D. Eisenhower
+    lb: Dwight D. Eisenhower
+    lfn: Dwight David Eisenhower
+    li: Dwight D. Eisenhower
+    lij: Dwight D. Eisenhower
+    lmo: Dwight D. Eisenhower
+    ln: Dwight David Eisenhower
+    lo: ດວາຍ ດິ. ໄອເຊນໂຮເວີ
+    lt: Dwight Eisenhower
+    lv: Dvaits Eizenhauers
+    mg: Dwight D. Eisenhower
+    mk: Двајт Ајзенхауер
+    ml: ഡ്വൈറ്റ് ഐസനോവർ
+    mn: Дуайт Эйзенхауэр
+    mr: ड्वाइट डी. आयझेनहॉवर
+    ms: Dwight D. Eisenhower
+    mul: Dwight D. Eisenhower
+    my: ဒွိုက် ဒေးဗစ် အိုင်ဆင်ဟောင်ဝါ
+    mzn: دوایت آیزنهاور
+    nan: Dwight D. Eisenhower
+    nb: Dwight D. Eisenhower
+    nds: Dwight David Eisenhower
+    ne: ड्वीट डी. आइजेनहावर
+    nl: Dwight D. Eisenhower
+    nn: Dwight D. Eisenhower
+    oc: Dwight D. Eisenhower
+    os: Дуайт Эйзенхауэр
+    pa: ਡਵਾਈਟ ਡੇਵਿਡ ਆਈਜ਼ਨਹਾਵਰ
+    pam: Dwight D. Eisenhower
+    pap: Dwight D. Eisenhower
+    pl: Dwight D. Eisenhower
+    pms: Dwight D. Eisenhower
+    pnb: ڈیوائٹ ڈی آئزن ہاور
+    ps: ډوایټ ډیویډ ایزنهاور
+    pt: Dwight D. Eisenhower
+    pt-br: Dwight D. Eisenhower
+    qu: Dwight Eisenhower
+    rm: Dwight D. Eisenhower
+    rmf: Dwight D. Eisenhower
+    ro: Dwight David Eisenhower
+    ru: Дуайт Дэвид Эйзенхауэр
+    rw: Dwight D. Eisenhower
+    sah: Дуайт Эйзенхауер
+    sc: Dwight Eisenhower
+    scn: Dwight Eisenhower
+    sco: Dwight D. Eisenhower
+    sd: آئزن هاور
+    se: Dwight D. Eisenhower
+    sgs: Dvaits Deivėds Eizenhaueris
+    sh: Dwight D. Eisenhower
+    si: ඩ්වයිට් ඩී. අයිසන්හවර්
+    sje: Dwight D. Eisenhower
+    sju: Dwight D. Eisenhower
+    sk: Dwight D. Eisenhower
+    sl: Dwight David Eisenhower
+    sma: Dwight D. Eisenhower
+    smj: Dwight D. Eisenhower
+    smn: Dwight D. Eisenhower
+    sms: Dwight D. Eisenhower
+    sq: Dwight D. Eisenhower
+    sr: Двајт Д. Ајзенхауер
+    sv: Dwight D. Eisenhower
+    sw: Dwight D. Eisenhower
+    ta: டுவைட் டி. ஐசனாவர்
+    te: డ్వైట్ డి. ఐసెన్హోవర్
+    tg: Дуайт Айзенҳоуер
+    th: ดไวต์ ดี. ไอเซนฮาวร์
+    tl: Dwight D. Eisenhower
+    tly: Duayt Eyzenhauer
+    tr: Dwight Eisenhower
+    tt: Dwayt Eyzenhauer
+    uk: Двайт Ейзенгавер
+    ur: ڈیوائٹ ڈی آئزن ہاور
+    uz: Dwight Eisenhower
+    vec: Dwight D. Eisenhower
+    vi: Dwight D. Eisenhower
+    vo: Dwight Eisenhower
+    war: Dwight D. Eisenhower
+    wuu: 德瓦·艾叟豁沃
+    xmf: დუაით ეიზენჰაუერი
+    yi: דווייט דעיוויד אייזנהאוער
+    yo: Dwight D. Eisenhower
+    yue: 艾森豪威爾
+    zea: Dwight D. Eisenhower
+    zh: 德怀特·艾森豪威尔
+    zh-hant: 德懷特·艾森豪
+    zh-tw: 德懷特·艾森豪
   time_:
     started: 1890-10-14T00:00:00.000+00:53
     stopped: 1969-03-28T00:00:00.000+01:00
 dv_is_:
   member_:
-    of: "[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]"
+    of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]'
   same_as:
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D|Eisenhower,Dwight_D]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.public|Eisenhower,Dwight_D.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.internal|Eisenhower,Dwight_D.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.protect|Eisenhower,Dwight_D.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.private|Eisenhower,Dwight_D.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.personal|Eisenhower,Dwight_D.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.secret|Eisenhower,Dwight_D.secret]]"
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D|Eisenhower,Dwight_D]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.public|Eisenhower,Dwight_D.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.internal|Eisenhower,Dwight_D.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.protect|Eisenhower,Dwight_D.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.private|Eisenhower,Dwight_D.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.personal|Eisenhower,Dwight_D.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.secret|Eisenhower,Dwight_D.secret]]'
 dv_has_time_started: 1890-10-14
 dv_has_time_stopped: 1969-03-28
-dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]"
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D|Eisenhower,Dwight_D]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.public|Eisenhower,Dwight_D.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.internal|Eisenhower,Dwight_D.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.protect|Eisenhower,Dwight_D.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.private|Eisenhower,Dwight_D.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.personal|Eisenhower,Dwight_D.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.secret|Eisenhower,Dwight_D.secret]]"
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D|Eisenhower,Dwight_D]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.public|Eisenhower,Dwight_D.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.internal|Eisenhower,Dwight_D.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.protect|Eisenhower,Dwight_D.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.private|Eisenhower,Dwight_D.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.personal|Eisenhower,Dwight_D.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Eisenhower,Dwight_D.secret|Eisenhower,Dwight_D.secret]]'
 ---
-
 # [[Eisenhower,Dwight_D]]
 
 class = `=this.dv_class`

@@ -1,11 +1,157 @@
 ---
 aliases:
-  - Franciscan Order
-  - Franciscans
-  - Franciscan
-has_id_wikidata: ''
+- Dòng Phan Sinh
+- ferences rend
+- Franciscan
+- Franciscan Order
+- Franciscanen
+- Franciscans
+- Franciskanerorde
+- Franciskanerordenen
+- Franciskano
+- Franciskanoj
+- Franciskanorden
+- franciskāņi
+- franciszkanie
+- Franjevci
+- Fransiskaanit
+- Fransiskan
+- Fransiskanarordenen
+- Fransiskanen
+- Fransiskanerordenen
+- Fransiskenler
+- Františkáni
+- Františkánský řád
+- Frantsisklased
+- Frantziskotarren Ordena
+- Franziskaner
+- Franziskanische Orden
+- Françeskanët
+- frančiškani
+- Koobu paɣtʊ ŋgbɛyɛ cikpeɖe
+- Orde Franciscana
+- Ordem dos Frades Menores
+- Orden de Sant Francisco
+- Orden Franciscana
+- ordes franciscanas
+- Ordine francescano
+- Ordinele franciscane
+- Ordines Franciscani
+- ordre des Frères mineurs de saint François
+- Pranciškonai
+- Pransiskano
+- Proinsiasaigh
+- Urdd Sant Ffransis
+- Urzh ar Vreudeur minor
+- Wafransisko
+- Òrdre franciscan
+- τάγμα των Φραγκισκανών
+- Фрањевци
+- францішкане
+- Францискански орден
+- францисканці
+- Францисканци
+- Францисканцы
+- францысканцы
+- Ֆրանցիսկյան միաբանություն
+- פרנציסקנים
+- الفرنسيسكان
+- فرانسيسکنلر
+- فرانسیسکن راہب
+- فرقه فرانسیسکن
+- فرنسيسكانية
+- फ्रांसिसन
+- பிரான்சிஸ்கன் சபை
+- คณะฟรันซิสกัน
+- フランシスコ会
+- 方济各会
+- 方濟各會
+- 프란치스코회
+has_id_wikidata: Q165005
+dv_has_:
+  name_:
+    af: Franciskanerorde
+    an: Orden de Sant Francisco
+    ar: فرنسيسكانية
+    arz: الفرنسيسكان
+    ast: Orde Franciscana
+    azb: فرانسيسکنلر
+    be: францысканцы
+    be-tarask: францішкане
+    bg: Францискански орден
+    br: Urzh ar Vreudeur minor
+    bs: Franjevci
+    ca: Franciscans
+    cs: Františkánský řád
+    cy: Urdd Sant Ffransis
+    da: Franciskanerordenen
+    de: Franziskanische Orden
+    de-ch: Franziskanische Orden
+    el: τάγμα των Φραγκισκανών
+    en: Franciscans
+    en-ca: Franciscan
+    en-gb: Franciscan
+    eo: Franciskanoj
+    es: Orden Franciscana
+    et: Frantsisklased
+    eu: Frantziskotarren Ordena
+    fa: فرقه فرانسیسکن
+    fi: Fransiskaanit
+    fr: ordre des Frères mineurs de saint François
+    fy: Fransiskanen
+    ga: Proinsiasaigh
+    gl: ordes franciscanas
+    gsw: Franziskaner
+    he: פרנציסקנים
+    hi: फ्रांसिसन
+    hr: franjevci
+    hu: ferences rend
+    hy: Ֆրանցիսկյան միաբանություն
+    id: Fransiskan
+    io: Franciskano
+    it: Ordine francescano
+    ja: フランシスコ会
+    kbp: Koobu paɣtʊ ŋgbɛyɛ cikpeɖe
+    ko: 프란치스코회
+    la: Ordines Franciscani
+    lt: Pranciškonai
+    lv: franciskāņi
+    mk: Францисканци
+    nb: Fransiskanerordenen
+    nl: Franciscanen
+    nn: Fransiskanarordenen
+    oc: Òrdre franciscan
+    pl: franciszkanie
+    pt: Ordem dos Frades Menores
+    pt-br: Ordem dos Frades Menores
+    ro: Ordinele franciscane
+    ru: Францисканцы
+    sh: Franjevci
+    sk: Františkáni
+    sl: frančiškani
+    sq: Françeskanët
+    sr: Фрањевци
+    sr-ec: Фрањевци
+    sr-el: Franjevci
+    su: Fransiskan
+    sv: Franciskanorden
+    sw: Wafransisko
+    ta: பிரான்சிஸ்கன் சபை
+    th: คณะฟรันซิสกัน
+    tl: Pransiskano
+    tr: Fransiskenler
+    uk: францисканці
+    ur: فرانسیسکن راہب
+    vi: Dòng Phan Sinh
+    wuu: 方济各会
+    zh: 方濟各會
+    zh-cn: 方济各会
+    zh-hans: 方济各会
+    zh-hant: 方濟各會
+    zh-hk: 方濟各會
+    zh-sg: 方济各会
+    zh-tw: 方濟各會
 ---
-
 # [[Franciscan]] 
 
 #is_/same_as :: 

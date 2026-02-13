@@ -1,26 +1,127 @@
 ---
 aliases:
-  - Military_staff
-  - military staff
-  - general staff
-  - Military_Staff
-  - Military Staff
+- ardfhoireann
+- esikunta
+- Estado maior
+- estado mayor
+- Estado-Maior
+- estat major
+- estatu nagusi
+- general staff
+- generalstab
+- Kurmay subay
+- militaire staf
+- military staff
+- Military_staff
+- Militærstab
+- Perwira staf
+- Shtab
+- staap
+- Stab
+- stabo
+- Staf Am
+- Staff
+- Staff milwrol
+- Stafi (ushtarak)
+- Stožer
+- sztab
+- törzskar
+- vojaški štab
+- état-major
+- Štab
+- Štabas
+- štáb
+- επιτελείο
+- ситод
+- штаб
+- Щаб
+- Շտաբ
+- מטה
+- أركان الحرب
+- ستافی سەربازی
+- کارکنان نظامی
+- ทหารเสนาธิการ
+- စစ်ဦးစီးအဖွဲ့
+- შტაბი
+- 参謀
+- 参谋部
+- 參謀部
+- 참모
 has_id_wikidata: Q6813432
 subclass_of:
-  - '[[_Standards/WikiData/WD~military_unit,176799]]'
-  - '[[_Standards/WikiData/WD~command,2008856]]'
-  - '[[_Standards/WikiData/WD~military_profession,6857706]]'
-  - '[[_Standards/WikiData/WD~military_organization,15627509]]'
+- '[[_Standards/WikiData/WD~military_unit,176799]]'
+- '[[_Standards/WikiData/WD~command,2008856]]'
+- '[[_Standards/WikiData/WD~military_profession,6857706]]'
+- '[[_Standards/WikiData/WD~military_organization,15627509]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Combined%20Chiefs%20of%20Staff%20in%20Quebec.jpg
 Commons_category: Military staff
+dv_has_:
+  name_:
+    ar: أركان الحرب
+    be: штаб
+    be-tarask: штаб
+    bg: Щаб
+    ca: estat major
+    ckb: ستافی سەربازی
+    cs: štáb
+    cy: Staff milwrol
+    de: Stab
+    el: επιτελείο
+    en: military staff
+    en-ca: Staff
+    en-gb: staff
+    eo: stabo
+    es: estado mayor
+    et: staap
+    eu: estatu nagusi
+    fa: کارکنان نظامی
+    fi: esikunta
+    fr: état-major
+    ga: ardfhoireann
+    gl: Estado maior
+    he: מטה
+    hr: Stožer
+    hu: törzskar
+    hy: Շտաբ
+    id: Perwira staf
+    io: Stabo
+    ja: 参謀
+    ka: შტაბი
+    kk: Штаб
+    ko: 참모
+    lt: Štabas
+    mk: штаб
+    ms: Staf Am
+    my: စစ်ဦးစီးအဖွဲ့
+    nb: generalstab
+    nl: militaire staf
+    nn: Militærstab
+    oc: Estat major
+    pl: sztab
+    pt: Estado-Maior
+    ru: штаб
+    sh: Štab
+    sk: Štáb
+    sl: vojaški štab
+    sq: Stafi (ushtarak)
+    sr: Штаб
+    sv: stab
+    tg: ситод
+    th: ทหารเสนาธิการ
+    tr: Kurmay subay
+    uk: штаб
+    uz: Shtab
+    zh: 参谋部
+    zh-hans: 参谋部
+    zh-hant: 參謀部
+    zh-tw: 參謀部
 ---
-
 # [[Military_Staff]] 
 
 #is_/same_as :: [[WD~Military_staff,6813432]] 

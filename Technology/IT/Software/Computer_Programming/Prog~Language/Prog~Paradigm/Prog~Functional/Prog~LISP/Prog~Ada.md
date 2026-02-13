@@ -1,59 +1,114 @@
 ---
-has_time_started: 1980-01-01 
+has_time_started: 1980-01-01
 aliases:
-  - Prog~Ada
+- Ada
+- Ada (lingua programmandi)
+- Ada (programifo-linguo)
+- Ada dili
+- Ada程序设计语言
+- Luengache de programación Ada
+- Programmeringsspråket Ada
+- Prog~Ada
+- Ада
+- Ադա
+- עדה
+- أيدا
+- ادا
+- ایدا
+- অ্যাডা
+- ਅਡਾ
+- அடா
+- അഡ
+- ภาษาเอดา
+- ადა
+- ꠀꠒꠣ
+- 에이다
 has_id_wikidata: Q154755
 programming_paradigm:
-  - "[[_Standards/WikiData/WD~object_oriented_programming,79872]]"
-  - "[[_Standards/WikiData/WD~structured_programming,223335]]"
-  - "[[_Standards/WikiData/WD~imperative_programming,275596]]"
-  - "[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]"
+- '[[_Standards/WikiData/WD~object_oriented_programming,79872]]'
+- '[[_Standards/WikiData/WD~structured_programming,223335]]'
+- '[[_Standards/WikiData/WD~imperative_programming,275596]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming,4306983]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Pascal,81571]]"
-  - "[[_Standards/WikiData/WD~Smalltalk,235086]]"
-  - "[[_Standards/WikiData/WD~Eiffel,732089]]"
-  - "[[_Standards/WikiData/WD~Modula_2,777358]]"
-  - "[[_Standards/WikiData/WD~ALGOL_60,1209759]]"
-  - "[[_Standards/WikiData/WD~ALGOL_68,2166735]]"
-  - "[[_Standards/WikiData/WD~Ada_95,20665104]]"
-  - "[[_Standards/WikiData/WD~Green,28942656]]"
-  - "[[_Standards/WikiData/WD~Q2407,2407]]"
-  - "[[_Standards/WikiData/WD~Java,251]]"
+- '[[_Standards/WikiData/WD~Pascal,81571]]'
+- '[[_Standards/WikiData/WD~Smalltalk,235086]]'
+- '[[_Standards/WikiData/WD~Eiffel,732089]]'
+- '[[_Standards/WikiData/WD~Modula_2,777358]]'
+- '[[_Standards/WikiData/WD~ALGOL_60,1209759]]'
+- '[[_Standards/WikiData/WD~ALGOL_68,2166735]]'
+- '[[_Standards/WikiData/WD~Ada_95,20665104]]'
+- '[[_Standards/WikiData/WD~Green,28942656]]'
+- '[[_Standards/WikiData/WD~Q2407,2407]]'
+- '[[_Standards/WikiData/WD~Java,251]]'
 designed_by:
-  - "[[_Standards/WikiData/WD~Jean_Ichbiah,92853]]"
-  - "[[_Standards/WikiData/WD~S._Tucker_Taft,20898521]]"
+- '[[_Standards/WikiData/WD~Jean_Ichbiah,92853]]'
+- '[[_Standards/WikiData/WD~S._Tucker_Taft,20898521]]'
 developer:
-  - "[[_Standards/WikiData/WD~Jean_Ichbiah,92853]]"
-  - "[[_Standards/WikiData/WD~S._Tucker_Taft,20898521]]"
-different_from: "[[_Standards/WikiData/WD~Ada,154614]]"
+- '[[_Standards/WikiData/WD~Jean_Ichbiah,92853]]'
+- '[[_Standards/WikiData/WD~S._Tucker_Taft,20898521]]'
+different_from: '[[_Standards/WikiData/WD~Ada,154614]]'
 typing_discipline:
-  - "[[_Standards/WikiData/WD~safe_typing,736866]]"
-  - "[[_Standards/WikiData/WD~strong_typing,991202]]"
-  - "[[_Standards/WikiData/WD~static_typing,1940914]]"
-  - "[[_Standards/WikiData/WD~nominative_typing,3509459]]"
+- '[[_Standards/WikiData/WD~safe_typing,736866]]'
+- '[[_Standards/WikiData/WD~strong_typing,991202]]'
+- '[[_Standards/WikiData/WD~static_typing,1940914]]'
+- '[[_Standards/WikiData/WD~nominative_typing,3509459]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~object_based_language,899523]]"
-  - "[[_Standards/WikiData/WD~wide_spectrum_language,7998546]]"
-  - "[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]"
-  - "[[_Standards/WikiData/WD~imperative_programming_language,21562092]]"
-  - "[[_Standards/WikiData/WD~programming_language,9143]]"
-derivative_work: "[[_Standards/WikiData/WD~PL_pgSQL,2044345]]"
-dialect_of_computer_language: "[[_Standards/WikiData/WD~SPARK,3493345]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_IEC_8652,5974102]]"
-named_after: "[[_Standards/WikiData/WD~Ada_Lovelace,7259]]"
+- '[[_Standards/WikiData/WD~object_based_language,899523]]'
+- '[[_Standards/WikiData/WD~wide_spectrum_language,7998546]]'
+- '[[_Standards/WikiData/WD~multi_paradigm_programming_language,12772052]]'
+- '[[_Standards/WikiData/WD~imperative_programming_language,21562092]]'
+- '[[_Standards/WikiData/WD~programming_language,9143]]'
+derivative_work: '[[_Standards/WikiData/WD~PL_pgSQL,2044345]]'
+dialect_of_computer_language: '[[_Standards/WikiData/WD~SPARK,3493345]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_IEC_8652,5974102]]'
+named_after: '[[_Standards/WikiData/WD~Ada_Lovelace,7259]]'
 GitHub_topic: ada
 subreddit: ada
 Debian_Wiki_article: Ada
 ArchWiki_article: Ada
-ACM_Classification_Code_2012_: "10011451"
+ACM_Classification_Code_2012_: 10011451
 inception: 1980-01-01T00:00:00Z
 publication_date: 1983-01-22T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ada%20horizon%20green%20logo%20with%20slogan.svg
 official_website: https://adaic.org
 Stack_Exchange_tag: https://stackoverflow.com/tags/Ada
 Commons_category: Ada (programming language)
+dv_has_:
+  name_:
+    an: Luengache de programación Ada
+    ar: أيدا
+    az: Ada dili
+    be: Ада
+    bn: অ্যাডা
+    cv: Ада
+    fa: ایدا
+    he: עדה
+    hy: Ադա
+    io: Ada (programifo-linguo)
+    ka: ადა
+    kaa: Ada
+    kk: Ада
+    kk-arab: ادا
+    kk-cn: ادا
+    kk-cyrl: Ада
+    kk-kz: Ада
+    ko: 에이다
+    la: Ada (lingua programmandi)
+    ml: അഡ
+    mul: Ada
+    nn: Programmeringsspråket Ada
+    pa: ਅਡਾ
+    ru: Ада
+    rue: Ада
+    sr: Ада
+    sr-ec: Ада
+    syl: ꠀꠒꠣ
+    ta: அடா
+    tg: Ада
+    th: ภาษาเอดา
+    uk: Ада
+    zh: Ada程序设计语言
 ---
-
 # [[Prog~Ada]] 
 
 #is_a_/ComputerLanguage 

@@ -1,3 +1,55 @@
+---
+has_id_wikidata: Q22907849
+dv_has_:
+  name_:
+    ar: ديسكورد
+    ary: ديسكورد
+    bg: Дискорд
+    bn: ডিসকর্ড
+    ckb: دیسکۆرد
+    el: Ντίσκορντ
+    en: Discord
+    fa: دیسکورد
+    he: דיסקורד
+    hi: डिस्काॅर्ड
+    ia: Discord (Programmario)
+    ko: 디스코드
+    lo: ດິສຄອດ
+    lt: „Discord“
+    lzh: 齟齬
+    ml: ഡിസ്കോർഡ്
+    ms-arab: ديسکورد
+    mul: Discord
+    ne: डिस्कर्ड
+    pa: ਡਿਸਕੋਰਡ
+    sr: Diskord
+    th: ดิสคอร์ด
+    tok: ilo Siko
+    zgh: ⴷⵉⵙⴽⵓⵔⴷ
+aliases:
+- Discord
+- Discord (Programmario)
+- Diskord
+- ilo Siko
+- Ντίσκορντ
+- Дискорд
+- דיסקורד
+- ديسكورد
+- ديسکورد
+- دیسکورد
+- دیسکۆرد
+- डिस्कर्ड
+- डिस्काॅर्ड
+- ডিসকর্ড
+- ਡਿਸਕੋਰਡ
+- ഡിസ്കോർഡ്
+- ดิสคอร์ด
+- ດິສຄອດ
+- „Discord“
+- ⴷⵉⵙⴽⵓⵔⴷ
+- 齟齬
+- 디스코드
+---
 # [[Discord]] 
 
 #has_/Frameworks :: [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang]], [[../../../../../../../Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/Prog~Go|Prog~Go]] 

@@ -1,26 +1,100 @@
 ---
 aliases:
-  - Simplified Molecular Input Line Entry System
-  - SMILES-Formula
+- Simplified Molecular Input Line Entry Specification
+- Simplified Molecular Input Line Entry System
+- Simplified molecular-input line-entry system
+- Simpligita Molekula Intern-Lini-Eniga Specifiko
+- SMILES
+- SMILES-Formula
+- SMILES記法
+- спрошчаная лінейная спэцыфікацыя запісаў малекулярнай будовы
+- Упростен систем за заведување во редови со молекуларен внос
+- סמיילס
+- اسمائلس
+- اسمایلز
+- محددات الإدخال الخطي النصي الجزيئي المبسط
+- সিমপ্লিফায়েড মলিকুলার-ইনপুট লাইন-এন্ট্রি সিস্টেম
+- எளிமைப்படுத்தப்பட்ட மூலக்கூறு-உள்ளீடு வரி-நுழைவு அமைப்பு
+- സിമ്പ്ലിഫൈഡ് മോളിക്യൂലാർ-ഇൻപുട് ലൈൻ-എൻട്രി സിസ്റ്റം
+- 简化分子线性输入规范
+- 簡化分子線型輸入規範
+- 단순화된 분자입력 라인입력 시스템
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/SMILES-Formula|SMILES-Formula]]"
-    - "[[/_public/Chemistry/SMILES-Formula.public|SMILES-Formula.public]]"
-    - "[[/_internal/Chemistry/SMILES-Formula.internal|SMILES-Formula.internal]]"
-    - "[[/_protect/Chemistry/SMILES-Formula.protect|SMILES-Formula.protect]]"
-    - "[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]"
-    - "[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]"
-    - "[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]"
+  - '[[/_Standards/Chemistry/SMILES-Formula|SMILES-Formula]]'
+  - '[[/_public/Chemistry/SMILES-Formula.public|SMILES-Formula.public]]'
+  - '[[/_internal/Chemistry/SMILES-Formula.internal|SMILES-Formula.internal]]'
+  - '[[/_protect/Chemistry/SMILES-Formula.protect|SMILES-Formula.protect]]'
+  - '[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]'
+  - '[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]'
+  - '[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/SMILES-Formula|SMILES-Formula]]"
-  - "[[/_public/Chemistry/SMILES-Formula.public|SMILES-Formula.public]]"
-  - "[[/_internal/Chemistry/SMILES-Formula.internal|SMILES-Formula.internal]]"
-  - "[[/_protect/Chemistry/SMILES-Formula.protect|SMILES-Formula.protect]]"
-  - "[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]"
-  - "[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]"
-  - "[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]"
+- '[[/_Standards/Chemistry/SMILES-Formula|SMILES-Formula]]'
+- '[[/_public/Chemistry/SMILES-Formula.public|SMILES-Formula.public]]'
+- '[[/_internal/Chemistry/SMILES-Formula.internal|SMILES-Formula.internal]]'
+- '[[/_protect/Chemistry/SMILES-Formula.protect|SMILES-Formula.protect]]'
+- '[[/_private/Chemistry/SMILES-Formula.private|SMILES-Formula.private]]'
+- '[[/_personal/Chemistry/SMILES-Formula.personal|SMILES-Formula.personal]]'
+- '[[/_secret/Chemistry/SMILES-Formula.secret|SMILES-Formula.secret]]'
+has_id_wikidata: Q466769
+dv_has_:
+  name_:
+    ar: محددات الإدخال الخطي النصي الجزيئي المبسط
+    az: SMILES
+    be-tarask: спрошчаная лінейная спэцыфікацыя запісаў малекулярнай будовы
+    bg: SMILES
+    bn: সিমপ্লিফায়েড মলিকুলার-ইনপুট লাইন-এন্ট্রি সিস্টেম
+    bs: SMILES
+    ca: SMILES
+    cs: SMILES
+    da: SMILES
+    de: Simplified Molecular Input Line Entry Specification
+    el: SMILES
+    en: simplified molecular input line entry specification
+    eo: Simpligita Molekula Intern-Lini-Eniga Specifiko
+    es: SMILES
+    fa: اسمایلز
+    fi: SMILES
+    fr: Simplified Molecular Input Line Entry Specification
+    gl: SMILES
+    he: סמיילס
+    hu: SMILES
+    id: SMILES
+    it: SMILES
+    ja: SMILES記法
+    ko: 단순화된 분자입력 라인입력 시스템
+    lt: SMILES
+    mk: Упростен систем за заведување во редови со молекуларен внос
+    ml: സിമ്പ്ലിഫൈഡ് മോളിക്യൂലാർ-ഇൻപുട് ലൈൻ-എൻട്രി സിസ്റ്റം
+    ms: SMILES
+    nb: SMILES
+    nl: SMILES
+    nn: Simplified molecular-input line-entry system
+    pl: SMILES
+    pt: SMILES
+    ro: Simplified molecular-input line-entry system
+    ru: SMILES
+    scn: Simplified molecular-input line-entry system
+    sd: اسمائلس
+    sh: SMILES
+    sl: SMILES
+    sr: SMILES
+    sr-ec: SMILES
+    sr-el: SMILES
+    sv: SMILES
+    ta: எளிமைப்படுத்தப்பட்ட மூலக்கூறு-உள்ளீடு வரி-நுழைவு அமைப்பு
+    tr: SMILES
+    uk: SMILES
+    ur: اسمائلس
+    wuu: 简化分子线性输入规范
+    zh: 簡化分子線型輸入規範
+    zh-cn: 简化分子线性输入规范
+    zh-hans: SMILES
+    zh-hant: SMILES
+    zh-hk: SMILES
+    zh-sg: SMILES
+    zh-tw: 簡化分子線型輸入規範
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Simplified Molecular Input Line Entry System** (SMILES) is a specification in the form of 

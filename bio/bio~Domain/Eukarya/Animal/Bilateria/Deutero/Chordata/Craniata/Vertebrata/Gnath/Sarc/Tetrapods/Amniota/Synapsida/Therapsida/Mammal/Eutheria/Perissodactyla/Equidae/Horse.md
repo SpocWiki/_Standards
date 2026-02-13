@@ -1,12 +1,230 @@
 ---
 aliases:
-  - Pferd
-  - equus
-  - Equus ferus caballus
-  - Horse
-  - omid
-  - horse
-  - caballu
+- Aas
+- agmar
+- Ama
+- arklys
+- Arklīs
+- Asi
+- at
+- atikw
+- Bhiza
+- Bé
+- caballo
+- caballu
+- cabalo
+- cabbyl
+- Caddu
+- Cahuāyoh
+- cal
+- Calu
+- capall
+- Cavaddu
+- caval
+- cavall
+- Cavallo
+- cavalo
+- Cavàl
+- ceffyl
+- Chaval
+- cheval
+- Chwal
+- Ciaval
+- Cjaval
+- doki
+- domaći konj
+- Domôcy kóń
+- each
+- equus
+- Equus caballus
+- Equus ferus caballus
+- Estor
+- Ev atı
+- Faras
+- farasi
+- farda
+- Farása
+- Fas w
+- Furr
+- Gaul
+- Ghorra
+- godo
+- grai
+- Gray
+- Guda
+- Hauspferd
+- Hauspäerd
+- heabuš
+- Hebo
+- hesp
+- hest
+- hestur
+- hevonen
+- heässta
+- heävaš
+- hierkie
+- Hingst
+- hiävuš
+- Hoangst
+- hobune
+- Hoda
+- Hopõn
+- Hors
+- Horse
+- Hoss
+- hynder
+- häst
+- hæssta
+- Ifarashi
+- J'va
+- Jaran
+- Jaran domestik
+- jevod
+- Jhârân
+- kabalio
+- Kabalu
+- kabayo
+- Kabayu
+- Kali
+- Kavaju
+- kavalo
+- Kavayo
+- Kawallu
+- kawellu
+- konj
+- koń
+- Kpaŋnɔ
+- Kuda
+- Kudo
+- Kvau
+- kóń
+- kôň
+- kú̀lúm
+- Kůń
+- kůň
+- Kə asp
+- Lio
+- ló
+- marc'h
+- margh
+- Mathiaŋ
+- Max
+- Mbarata
+- Mo'éhno'ha
+- Mâ
+- Mā
+- ngựa
+- Okol (Equus caballus)
+- omid
+- Ose
+- Ot
+- paard
+- Paerd
+- peerd
+- Peird
+- perd
+- Pferd
+- Pääd
+- pɔnkɔ
+- rigi
+- Rme'
+- ross
+- Roß
+- Soavaly
+- Solofanua
+- Sɔ
+- Sɔ́
+- Taam peerd
+- Tchivå
+- Tsaai
+- Tuttuqpak
+- ullí
+- Wadala
+- wahu
+- Wed-moaag
+- Wɔsi
+- xirma
+- zaldi
+- zirgs
+- ĉevalo
+- Łį́į́ʼ
+- żiemel
+- άλογο
+- Адуу
+- Асп
+- Ат
+- Бæх
+- вал
+- Вӧв
+- домаћи коњ
+- домашняя лошадь
+- Жылкы
+- имне
+- Имни
+- Кінь
+- кінь свійський
+- коњ
+- кон
+- конь
+- Лаша
+- Лишме
+- Морин
+- Мөрн
+- свойскі конь
+- Чу
+- Чылгы
+- Шы
+- Ձի
+- סוס הבית
+- פערד
+- آت
+- ئات
+- ئەسپ
+- اس
+- اسب
+- اسپ
+- حصان
+- عود
+- فرس
+- لعاود
+- کودا
+- گهوڙو
+- گُر
+- گھوڑا
+- ܣܘܣܝܐ
+- ߛߏ߭
+- अश्वः
+- घोड़ा
+- घोडा
+- सल
+- ঘোঁৰা
+- ঘোড়া
+- ਘੋੜਾ
+- ઘોડો
+- ଘୋଡ଼ା
+- குதிரை
+- గుర్రము
+- ಕುದುರೆ
+- കുതിര
+- අශ්වයා
+- ม้า
+- ມ້າ
+- རྟ།
+- မြင်း
+- မႃႉ
+- ცხენი
+- ፈረስ
+- ᏐᏈᎵ
+- ᠮᠣᡵᡳᠨ
+- ᥛᥣᥳ
+- ᱥᱟᱫᱚᱢ
+- Ẹṣin
+- ἵππος
+- ウマ
+- 馬
+- 马
+- ꯁꯒꯣꯜ
+- 말
 has_id_wikidata: Q726
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20Horse%20smooth.stl
 Archive_of_Our_Own_tag: Horses
@@ -14,108 +232,395 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mares-Prefer-the-Voice
 Colon_Classification: KX442
 Commons_category: Horses
 Commons_gallery: Horses
-depicted_by: "[[_Standards/WikiData/WD~horses_in_art,2962928]]"
+depicted_by: '[[_Standards/WikiData/WD~horses_in_art,2962928]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q15962837,15962837]]"
+- '[[_Standards/WikiData/WD~Q15962837,15962837]]'
 DPLA_subject_term: Horses
-gait: "[[_Standards/WikiData/WD~horse_gait,754659]]"
+gait: '[[_Standards/WikiData/WD~horse_gait,754659]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~impulsion,56882]]"
+- '[[_Standards/WikiData/WD~impulsion,56882]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~allergy_to_horses,82747771]]"
+- '[[_Standards/WikiData/WD~allergy_to_horses,82747771]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~fur,197204]]"
-  - "[[_Standards/WikiData/WD~stallion,757833]]"
-  - "[[_Standards/WikiData/WD~horse_hoof,841290]]"
-  - "[[_Standards/WikiData/WD~horsehair,964736]]"
-  - "[[_Standards/WikiData/WD~mare,1104034]]"
-  - "[[_Standards/WikiData/WD~back,3037298]]"
-  - "[[_Standards/WikiData/WD~Equine_vision,5384514]]"
-  - "[[_Standards/WikiData/WD~horse_teeth,5905688]]"
-  - "[[_Standards/WikiData/WD~horsetail,7676058]]"
-  - "[[_Standards/WikiData/WD~horse_ears,99067849]]"
-  - "[[_Standards/WikiData/WD~horse_head,116939736]]"
+- '[[_Standards/WikiData/WD~fur,197204]]'
+- '[[_Standards/WikiData/WD~stallion,757833]]'
+- '[[_Standards/WikiData/WD~horse_hoof,841290]]'
+- '[[_Standards/WikiData/WD~horsehair,964736]]'
+- '[[_Standards/WikiData/WD~mare,1104034]]'
+- '[[_Standards/WikiData/WD~back,3037298]]'
+- '[[_Standards/WikiData/WD~Equine_vision,5384514]]'
+- '[[_Standards/WikiData/WD~horse_teeth,5905688]]'
+- '[[_Standards/WikiData/WD~horsetail,7676058]]'
+- '[[_Standards/WikiData/WD~horse_ears,99067849]]'
+- '[[_Standards/WikiData/WD~horse_head,116939736]]'
 has_use:
-  - "[[_Standards/WikiData/WD~equestrianism,179226]]"
-  - "[[_Standards/WikiData/WD~chariot,203788]]"
-  - "[[_Standards/WikiData/WD~horse-drawn_vehicle,1112950]]"
-  - "[[_Standards/WikiData/WD~draft_animal,11637629]]"
+- '[[_Standards/WikiData/WD~equestrianism,179226]]'
+- '[[_Standards/WikiData/WD~chariot,203788]]'
+- '[[_Standards/WikiData/WD~horse-drawn_vehicle,1112950]]'
+- '[[_Standards/WikiData/WD~draft_animal,11637629]]'
 heart_rate: 38
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Biandintz%20eta%20zaldiak%20-%20modified2.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/LOSHAD_DOMASHNYAYA.html
 MeSH_tree_code: B01.050.150.900.649.313.984.235.472
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BClmen%2C%20Wildpferde%20--%202020.jpg
 OmegaWiki_Defined_Meaning: 1780
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20page%20banner%20horses%20two.jpg
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q124130190,124130190]]"
+- '[[_Standards/WikiData/WD~Q124130190,124130190]]'
 population: 58315816
-produced_sound: "[[_Standards/WikiData/WD~neigh,1742041]]"
+produced_sound: '[[_Standards/WikiData/WD~neigh,1742041]]'
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Isabelle%20Fabri%C3%A8s%20%28Culex%29-cheval.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%2016%20%28Madehub%29-cheval.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Isabelle%20Fabri%C3%A8s%20%28Culex%29-cheval.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%2016%20%28Madehub%29-cheval.wav
 properties_for_this_type:
-  - color
-  - date of birth
-  - date of death
-  - native label
-  - height
-  - Horsetelex ID
-  - Allbreedpedigree ID
-  - Infochevaux ID
-  - Sporthorse data ID
-  - animal breed
-  - image
-  - sex or gender
-  - place of death
-  - father
-  - mother
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Equus_ferus_caballus,26644764]]"
+- color
+- date of birth
+- date of death
+- native label
+- height
+- Horsetelex ID
+- Allbreedpedigree ID
+- Infochevaux ID
+- Sporthorse data ID
+- animal breed
+- image
+- sex or gender
+- place of death
+- father
+- mother
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Equus_ferus_caballus,26644764]]'
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20horse.svg
 studied_in:
-  - "[[_Standards/WikiData/WD~hippology,1157006]]"
+- '[[_Standards/WikiData/WD~hippology,1157006]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
-  - "[[_Standards/WikiData/WD~milk_yielding_animal,110878538]]"
+- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+- '[[_Standards/WikiData/WD~milk_yielding_animal,110878538]]'
 taxon_common_name:
-  - omid
-  - horse
-  - caballu
+- omid
+- horse
+- caballu
 taxon_name: Equus ferus caballus
-taxon_rank: "[[_Standards/WikiData/WD~subspecies,68947]]"
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~horse_manure,534853]]"
-  - "[[_Standards/WikiData/WD~equine_chorionic_gonadotropin,929668]]"
-  - "[[_Standards/WikiData/WD~horsehair,964736]]"
-  - "[[_Standards/WikiData/WD~horse_meat,1124327]]"
-  - "[[_Standards/WikiData/WD~mare_milk,2011964]]"
-  - "[[_Standards/WikiData/WD~horse_leather,25381748]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Horses,10814975]]"
+- '[[_Standards/WikiData/WD~horse_manure,534853]]'
+- '[[_Standards/WikiData/WD~equine_chorionic_gonadotropin,929668]]'
+- '[[_Standards/WikiData/WD~horsehair,964736]]'
+- '[[_Standards/WikiData/WD~horse_meat,1124327]]'
+- '[[_Standards/WikiData/WD~mare_milk,2011964]]'
+- '[[_Standards/WikiData/WD~horse_leather,25381748]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Horses,10814975]]'
 UMLS_CUI: C0019944
 Unicode_character:
-  - 🐴
-  - 🐎
+- "\U0001F434"
+- "\U0001F40E"
 UNSPSC_Code: 10101506
-used_by: "[[_Standards/WikiData/WD~equestrian,2730732]]"
+used_by: '[[_Standards/WikiData/WD~equestrian,2730732]]'
 uses:
-  - "[[_Standards/WikiData/WD~horseshoe,192130]]"
+- '[[_Standards/WikiData/WD~horseshoe,192130]]'
 U_S_National_Archives_Identifier:
-  - 10637564
+- 10637564
 video: http://commons.wikimedia.org/wiki/Special:FilePath/20120616Domaene%20Mechtildshausen04.ogv
 Wolfram_Language_entity_code: Entity["Concept", "EquusCaballus::x93n2"]
+dv_has_:
+  name_:
+    ace: Guda
+    aeb-arab: حصان
+    af: perd
+    ak: pɔnkɔ
+    alt: Ат
+    am: ፈረስ
+    an: Equus caballus
+    ang: Hors
+    anp: घोड़ा
+    ar: فرس
+    arc: ܣܘܣܝܐ
+    arn: kawellu
+    arq: عود
+    ary: لعاود
+    arz: حصان
+    as: ঘোঁৰা
+    ast: Equus ferus caballus
+    atj: atikw
+    av: Чу
+    avk: Okol (Equus caballus)
+    awa: घोडा
+    ay: Kawallu
+    az: Ev atı
+    azb: آت
+    ba: Ат
+    ban: Jaran domestik
+    bar: Roß
+    bbc: Hoda
+    bcl: Kabayo
+    be: свойскі конь
+    be-tarask: конь
+    bg: кон
+    bi: Horse
+    bjn: Kuda
+    bn: ঘোড়া
+    bo: རྟ།
+    br: marc'h
+    brh: ullí
+    bs: konj
+    bxr: Морин
+    ca: cavall
+    cdo: Mā
+    ceb: Equus caballus
+    chr: ᏐᏈᎵ
+    chy: Mo'éhno'ha
+    ckb: ئەسپ
+    co: Cavaddu
+    crh: at
+    cs: kůň
+    csb: Domôcy kóń
+    cv: Лаша
+    cy: ceffyl
+    da: hest
+    dag: wahu
+    de: Hauspferd
+    din: Mathiaŋ
+    diq: Estor
+    dua: Wɔsi
+    ee: Sɔ
+    el: άλογο
+    eml: Cavàl
+    en: horse
+    en-ca: Horse
+    en-gb: horse
+    eo: ĉevalo
+    es: caballo
+    et: hobune
+    eu: zaldi
+    ext: Equus ferus caballus
+    fa: اسب
+    fi: hevonen
+    fj: Ose
+    fo: ross
+    fon: Sɔ́
+    fr: cheval
+    frr: Hingst
+    fur: Cjaval
+    fy: hynder
+    ga: capall
+    gan: 馬
+    gd: each
+    gl: cabalo
+    glk: اسب
+    gn: Kavaju
+    gom: godo
+    gor: Wadala
+    gpe: Horse
+    grc: ἵππος
+    gsw: Hauspferd
+    gu: ઘોડો
+    guc: Ama
+    gv: cabbyl
+    ha: doki
+    hak: Mâ
+    haw: Lio
+    he: סוס הבית
+    hi: घोड़ा
+    hif: Ghorra
+    hr: Domaći konj
+    hsb: kóń
+    ht: Chwal
+    hu: ló
+    hy: ձի
+    hyw: Ձի
+    ia: Cavallo
+    id: kuda
+    ik: Tuttuqpak
+    ilo: kabalio
+    io: kavalo
+    is: hestur
+    it: Equus ferus caballus
+    ja: ウマ
+    jam: Aas
+    jbo: xirma
+    jv: Jaran
+    ka: ცხენი
+    kab: agmar
+    kbd: Шы
+    kbp: Kpaŋnɔ
+    kcg: Tsaai
+    kea: kabalu
+    kk: Ат
+    kn: ಕುದುರೆ
+    knc: Furr
+    ko: 말
+    koi: Вӧв
+    ks: گُر
+    ksh: Pääd
+    ku: hesp
+    ku-latn: hesp
+    kv: Вӧв
+    kw: margh
+    ky: Жылкы
+    la: Equus ferus caballus
+    lad: Kavayo
+    lb: Hauspäerd
+    lbe: Чу
+    lfn: cavalo
+    li: Taam peerd
+    lij: Cavallo
+    lld: Ciaval
+    lmo: Equus ferus caballus
+    ln: Farása
+    lo: ມ້າ
+    lt: arklys
+    lua: Kabalu
+    lv: zirgs
+    lzh: 馬
+    mad: Jhârân
+    mai: घोड़ा
+    map-bms: Jaran
+    mcn: kú̀lúm
+    mdf: Лишме
+    mg: Soavaly
+    mhr: имне
+    min: Kudo
+    mk: коњ
+    ml: കുതിര
+    mn: Адуу
+    mnc: ᠮᠣᡵᡳᠨ
+    mni: ꯁꯒꯣꯜ
+    mos: Wed-moaag
+    mr: घोडा
+    mrj: Имни
+    ms: kuda
+    ms-arab: کودا
+    mt: żiemel
+    mul: Equus ferus caballus
+    my: မြင်း
+    myv: Лишме
+    mzn: اسپ
+    nah: Cahuāyoh
+    nan: Bé
+    nb: hest
+    nds: Peerd
+    nds-nl: peerd
+    ne: घोडा
+    new: सल
+    nia: Kudo
+    nl: paard
+    nn: hest
+    nqo: ߛߏ߭
+    nrm: J'va
+    nv: Łį́į́ʼ
+    oc: caval
+    olo: Hebo
+    om: farda
+    or: ଘୋଡ଼ା
+    os: Бæх
+    pa: ਘੋੜਾ
+    pag: kabayo
+    pam: Kabayu
+    pcd: Kvau
+    pdc: Gaul
+    pfl: Gaul
+    pih: Hoss
+    pl: koń
+    pms: Caval
+    pnb: گھوڑا
+    ps: اس
+    pt: cavalo
+    pt-br: cavalo
+    pwn: rigi
+    qu: Kawallu
+    rm: Chaval
+    rmf: grai
+    rmy: Gray
+    ro: cal
+    ru: домашняя лошадь
+    rue: Кінь
+    rup: Calu
+    rw: Ifarashi
+    sa: अश्वः
+    sah: Ат
+    sat: ᱥᱟᱫᱚᱢ
+    sc: Caddu
+    scn: cavaddu
+    sco: Horse
+    sd: گهوڙو
+    se: heabuš
+    sg: Mbarata
+    sgs: Arklīs
+    sh: domaći konj
+    shn: မႃႉ
+    si: අශ්වයා
+    sju: heässta
+    sk: kôň
+    skr: گھوڑا
+    sl: konj
+    sm: Solofanua
+    sma: hierkie
+    smj: hæssta
+    smn: hiävuš
+    sms: heävaš
+    sn: Bhiza
+    so: Faras
+    sq: Kali
+    sr: домаћи коњ
+    sr-ec: домаћи коњ
+    srn: Asi
+    stq: Hoangst
+    su: Kuda
+    sv: häst
+    sw: farasi
+    szl: Kůń
+    ta: குதிரை
+    tay: Rme'
+    tcy: ಕುದುರೆ
+    tdd: ᥛᥣᥳ
+    te: గుర్రము
+    tg: Асп
+    th: ม้า
+    tl: kabayo
+    tly: Kə asp
+    tr: At
+    tt: ат
+    tt-cyrl: ат
+    tt-latn: at
+    tyv: Чылгы
+    udm: вал
+    ug: ئات
+    uk: кінь свійський
+    ur: گھوڑا
+    uz: Ot
+    vec: Caval
+    vep: Hebo
+    vi: ngựa
+    vls: Peird
+    vo: jevod
+    vro: Hopõn
+    wa: Tchivå
+    war: Kabayo
+    wo: Fas w
+    wuu: 马
+    xal: Мөрн
+    yi: פערד
+    yo: Ẹṣin
+    yue: 馬
+    za: Max
+    zea: Paerd
+    zh: 马
+    zh-cn: 马
+    zh-hans: 马
+    zh-hant: 馬
+    zh-hk: 馬
+    zh-tw: 馬
 ---
-
 # [[Horse]] 🐎 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Horse,726|WD~Horse,726]] 

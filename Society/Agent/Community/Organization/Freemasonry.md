@@ -1,28 +1,109 @@
 ---
-has_time_started: 1717-01-01 
+has_time_started: 1717-01-01
 aliases:
-  - Freimaurer
-  - Free-Masonry
-  - Freemasonry
+- brīvmūrniecība
+- Framasonaro
+- framasonismo
+- Framasôneria
+- Framazoneria
+- Franc-manchonnrie
+- franc-maçonnerie
+- francmasonerie
+- francmasonería
+- francmaçoneria
+- Franmasonri
+- Frañmasonerezh
+- Free-Masonry
+- Freemasonry
+- Freimaurer
+- Freimaurerei
+- Frijmitselderij
+- frimureri
+- Fräimaurerei
+- frímúrarareglan
+- Hội Tam Điểm
+- Kiōng-chè-hoē
+- kulupu Pimeson
+- Laisvieji masonai
+- masonaría
+- Masoneria
+- Masoneriya
+- masonería
+- Masonlik
+- masonluk
+- masonluq
+- Masonstvo
+- Masonëria e Lirë
+- Masoonys
+- massoneria
+- maçonaria
+- mażunerija
+- máisiúnachas
+- Ordo Massonicus
+- prostozidarstvo
+- Saor-chlachaireachd
+- Seiri Rhyddion
+- slobodno zidarstvo
+- slobodomurárstvo
+- svobodné zednářství
+- szabadkőművesség
+- vabamüürlus
+- vapaamuurarit
+- vriemetselariej
+- vrijmetselarij
+- vrymesselary
+- Vrymestelarye
+- Wamasoni
+- wolnomularstwo
+- ελευθεροτεκτονισμός
+- Масон буюу Чөлөөт чулуучид
+- Масондық
+- Масонлăх
+- Масонства
+- масонство
+- слободно ѕидарство
+- слободно зидарство
+- Франкмасонӣ
+- Մասոնականութիւն
+- Մասոնականություն
+- הבונים החופשיים
+- الماسونية
+- فراماسونری
+- فری میسن
+- ماسونيان
+- ماسونيه
+- ماسۆنی
+- ফ্রিম্যাসনরি
+- விடுதலைக் கட்டுநர்
+- ഫ്രീമേസണ്മാർ
+- ෆ්රීමේසනරි
+- ฟรีเมสัน
+- ဖရီးမေဆန်
+- თავისუფალი მასონები
+- フリーメイソン
+- 共济会
+- 共濟會
+- 프리메이슨
+- "\U00010346\U00010342\U00010339\U0001033E\U00010330\U00010344\U00010339\U0001033C\U00010342\U00010334\U00010339\U0001033D\U00010343"
 has_id_wikidata: Q41726
 history_of_topic: '[[_Standards/WikiData/WD~history_of_Freemasonry,153704]]'
 named_after:
-  - '[[_Standards/WikiData/WD~masonry,272999]]'
-  - '[[_Standards/WikiData/WD~liberty,2979]]'
+- '[[_Standards/WikiData/WD~masonry,272999]]'
+- '[[_Standards/WikiData/WD~liberty,2979]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Black_book_Freemasonry,81826980]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Black_book_Freemasonry,81826980]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~social_group,874405]]'
-  - '[[_Standards/WikiData/WD~fraternal_organization,996839]]'
+- '[[_Standards/WikiData/WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~fraternal_organization,996839]]'
 has_part_s_: '[[_Standards/WikiData/WD~Grand_Lodge,1378781]]'
 opposite_of: '[[_Standards/WikiData/WD~anti_Masonry,2275310]]'
 studied_by: '[[_Standards/WikiData/WD~Masonic_studies,3303205]]'
@@ -36,16 +117,16 @@ location_of_formation: '[[_Standards/WikiData/WD~London,84]]'
 Dewey_Decimal_Classification: 366.1
 OmegaWiki_Defined_Meaning: 397358
 transliteration_or_transcription:
-  - Freimaurerei
-  - Franc-maçonnerie
-  - Ελευθεροτεκτονισμός
+- Freimaurerei
+- Franc-maçonnerie
+- Ελευθεροτεκτονισμός
 official_name: Freemasonry
 Basisklassifikation: 02.60
 U_S_National_Archives_Identifier: 10638657
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Square%20and%20Compasses.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%BF%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Freemasonry.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%CE%95%CE%BB%CE%B5%CF%85%CE%B8%CE%B5%CF%81%CE%BF%CF%84%CE%B5%CE%BA%CF%84%CE%BF%CE%BD%CE%B9%CF%83%CE%BC%CF%8C%CF%82.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Freemasonry.ogg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Emblematic%20Structure%20of%20Freemasonry.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Palazzo%20Roffia%2C%20galleria%2000.JPG
 ISNI: 0000000111459966
@@ -53,8 +134,114 @@ Iconclass_notation: 12U(FREEMASONRY)
 Commons_category: Freemasonry
 Library_of_Congress_Classification: HS351-HS929
 IPTC_NewsCode: mediatopic/20000675
+dv_has_:
+  name_:
+    af: vrymesselary
+    an: Francmasonería
+    ar: الماسونية
+    arz: ماسونيه
+    ast: masonería
+    az: masonluq
+    bcl: Masoneriya
+    be: Масонства
+    be-tarask: масонства
+    bg: Масонство
+    bn: ফ্রিম্যাসনরি
+    br: Frañmasonerezh
+    bs: slobodno zidarstvo
+    ca: francmaçoneria
+    ckb: ماسۆنی
+    cs: svobodné zednářství
+    cv: Масонлăх
+    cy: Seiri Rhyddion
+    da: frimureri
+    de: Freimaurerei
+    de-ch: Freimaurerei
+    el: ελευθεροτεκτονισμός
+    en: freemasonry
+    en-ca: Freemasonry
+    en-gb: freemasonry
+    eo: framasonismo
+    es: francmasonería
+    et: vabamüürlus
+    eu: Framazoneria
+    fa: فراماسونری
+    fi: vapaamuurarit
+    fr: franc-maçonnerie
+    fy: Frijmitselderij
+    ga: máisiúnachas
+    gd: Saor-chlachaireachd
+    gl: masonaría
+    gor: Freemasonry
+    got: "\U00010346\U00010342\U00010339\U0001033E\U00010330\U00010344\U00010339\U0001033C\U00010342\U00010334\U00010339\U0001033D\U00010343"
+    gv: Masoonys
+    he: הבונים החופשיים
+    hr: slobodno zidarstvo
+    ht: Franmasonri
+    hu: szabadkőművesség
+    hy: Մասոնականություն
+    hyw: Մասոնականութիւն
+    id: freemasonry
+    io: Framasonaro
+    is: frímúrarareglan
+    it: massoneria
+    ja: フリーメイソン
+    ka: თავისუფალი მასონები
+    kk: Масондық
+    ko: 프리메이슨
+    la: Ordo Massonicus
+    lb: Fräimaurerei
+    li: vriemetselariej
+    lmo: Massoneria
+    lt: Laisvieji masonai
+    lv: brīvmūrniecība
+    lzh: 共濟會
+    mg: Framasôneria
+    mk: слободно ѕидарство
+    ml: ഫ്രീമേസണ്മാർ
+    mn: Масон буюу Чөлөөт чулуучид
+    ms: freemasonry
+    mt: mażunerija
+    my: ဖရီးမေဆန်
+    mzn: فراماسونری
+    nan: Kiōng-chè-hoē
+    nb: frimureri
+    nds-nl: Vrymestelarye
+    nl: vrijmetselarij
+    nn: frimureri
+    oc: francmaçoneria
+    pcd: Franc-manchonnrie
+    pl: wolnomularstwo
+    pnb: فری میسن
+    ps: ماسونيان
+    pt: maçonaria
+    pt-br: Maçonaria
+    ro: francmasonerie
+    ru: масонство
+    sco: freemasonry
+    sh: Masonstvo
+    si: ෆ්රීමේසනරි
+    sk: slobodomurárstvo
+    sl: prostozidarstvo
+    sq: Masonëria e Lirë
+    sr: слободно зидарство
+    sv: frimureri
+    sw: Wamasoni
+    ta: விடுதலைக் கட்டுநர்
+    tg: Франкмасонӣ
+    th: ฟรีเมสัน
+    tok: kulupu Pimeson
+    tr: masonluk
+    uk: масонство
+    ur: فری میسن
+    uz: Masonlik
+    vec: Masoneria
+    vi: Hội Tam Điểm
+    wuu: 共济会
+    yue: 共濟會
+    zh: 共济会
+    zh-hk: 共濟會
 ---
-
 # [[Freemasonry]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Freemasonry,41726|WD~Freemasonry,41726]] 

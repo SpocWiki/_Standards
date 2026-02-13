@@ -1,21 +1,184 @@
 ---
 aliases:
+- Arf dinistr torfol
+- arm ollscriosta
+- Arma 'd distrussion ëd massa
+- Arma de destruccion massisa
+- Arma de destrucció massiva
+- arma de destrucción masiva
+- arma de destrución masiva
+- arma de destruição em massa
+- arma di distruzione di massa
+- Arma e shkatërrimit në masë
+- arme de destruction massive
+- Armes de destrucción masiva
+- Armi di sdisolu di fudda
+- armilo de amasa detruo
+- armo amas-destruktiva
+- armă de distrugere în masă
+- broń masowego rażenia
+- Gereyðingarvopn
+- joukkotuhoase
+- kitle imha silahı
+- Kütləvi qırğın silahı
+- Masinio naikinimo ginklas
+- massaferneatigingswapen
+- massavernietigingswapen
+- Massenvernichtungswaffe
+- masseødeleggelsesvåpen
+- masseødelæggelsesvåben
+- masseøydeleggingsvåpen
+- massförstörelsevapen
+- massihävitusrelv
+- masu iznīcināšanas ierocis
+- Ommaviy qirgʻin qurollaridan mudofaa
+- orožje za množično uničevanje
+- Oružje za masovno uništenje
+- Senjata pemusnah besar-besaran
+- senjata pemusnah massal
+- suntsipen handiko arma
+- tömegpusztító fegyver
+- vũ khí hủy diệt hàng loạt
+- weapon o mass destruction
+- weapon of mass destruction
+- Weapons of mass destruction
+- Zbraň hromadného ničenia
+- zbraň hromadného ničení
+- Çeka rûxandina girseyî
+- Όπλο μαζικής καταστροφής
+- Жаппай жою қаруы
+- Зброя масавага знішчэння
+- зброя масавага паражэньня
+- зброя масового ураження
+- кёбчюлюкню къурутхан сауут
+- Массăлла сиенлекен хĕçпăшал
+- оружје за масовно уништење
+- оружје за масовно уништување
+- оружие массового поражения
+- Оръжия за масово поразяване
+- Үй олноор хөнөөх зэвсэг
+- Զանգվածային ոչնչացման զենք
+- מאסן פארניכטונג וואפן
+- נשק להשמדה המונית
+- انبوہ تباہی ہتھیار
+- د ډله ییزو وژنو وسله
+- سلاح دمار شامل
+- سلاح کشتارجمعی
+- وڈی تباہی دے ہتھیار
+- چەکی کۆکوژ
+- सामूहिक विनाश के हथियार
+- গণবিধ্বংসী অস্ত্র
+- பேரழிவு ஆயுதம்
+- อาวุธอานุภาพทำลายล้างสูง
+- მასობრივი განადგურების იარაღი
+- მასობური მოჯალაგუაშ ანჯარი
+- 大規模殺傷性武器
+- 大规模杀伤性武器
+- 大量破壊兵器
+- 대량살륙무기
+- 대량살상무기
 has_id_wikidata: Q49394
-has_effect: "[[_Standards/WikiData/WD~technology_risk,6108858]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Weapons_of_mass_destruction,11055190]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_type,124078422]]"
-subclass_of: "[[_Standards/WikiData/WD~weapon,728]]"
-U_S_National_Archives_Identifier: "10642605"
+has_effect: '[[_Standards/WikiData/WD~technology_risk,6108858]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Weapons_of_mass_destruction,11055190]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
+subclass_of: '[[_Standards/WikiData/WD~weapon,728]]'
+U_S_National_Archives_Identifier: 10642605
 Dewey_Decimal_Classification:
-  - "358.3"
-  - "623.4516"
-  - "327.1745"
+- 358.3
+- 623.4516
+- 327.1745
 image: http://commons.wikimedia.org/wiki/Special:FilePath/WMD%20world%20map.svg
 UMLS_CUI: C1443860
 MeSH_tree_code: J01.637.870.900
 Commons_category: Weapons of mass destruction
+dv_has_:
+  name_:
+    ar: سلاح دمار شامل
+    ast: Armes de destrucción masiva
+    az: Kütləvi qırğın silahı
+    be: Зброя масавага знішчэння
+    be-tarask: зброя масавага паражэньня
+    bg: Оръжия за масово поразяване
+    bn: গণবিধ্বংসী অস্ত্র
+    ca: Arma de destrucció massiva
+    ckb: چەکی کۆکوژ
+    cs: zbraň hromadného ničení
+    cv: Массăлла сиенлекен хĕçпăшал
+    cy: Arf dinistr torfol
+    da: masseødelæggelsesvåben
+    de: Massenvernichtungswaffe
+    el: Όπλο μαζικής καταστροφής
+    en: weapon of mass destruction
+    en-ca: Weapon of mass destruction
+    en-us: weapon of mass destruction
+    eo: armilo de amasa detruo
+    es: arma de destrucción masiva
+    et: massihävitusrelv
+    eu: suntsipen handiko arma
+    fa: سلاح کشتارجمعی
+    fi: joukkotuhoase
+    fr: arme de destruction massive
+    fy: massaferneatigingswapen
+    ga: arm ollscriosta
+    gl: arma de destrución masiva
+    he: נשק להשמדה המונית
+    hi: सामूहिक विनाश के हथियार
+    hr: oružje za masovno uništenje
+    hu: tömegpusztító fegyver
+    hy: Զանգվածային ոչնչացման զենք
+    id: senjata pemusnah massal
+    io: armo amas-destruktiva
+    is: Gereyðingarvopn
+    it: arma di distruzione di massa
+    ja: 大量破壊兵器
+    ka: მასობრივი განადგურების იარაღი
+    kk: Жаппай жою қаруы
+    ko: 대량살상무기
+    ko-kp: 대량살륙무기
+    krc: кёбчюлюкню къурутхан сауут
+    ku: Çeka rûxandina girseyî
+    lt: Masinio naikinimo ginklas
+    lv: masu iznīcināšanas ierocis
+    mk: оружје за масовно уништување
+    mn: Үй олноор хөнөөх зэвсэг
+    ms: Senjata pemusnah besar-besaran
+    nb: masseødeleggelsesvåpen
+    nl: massavernietigingswapen
+    nn: masseøydeleggingsvåpen
+    oc: Arma de destruccion massisa
+    pl: broń masowego rażenia
+    pms: Arma 'd distrussion ëd massa
+    pnb: وڈی تباہی دے ہتھیار
+    ps: د ډله ییزو وژنو وسله
+    pt: arma de destruição em massa
+    pt-br: Arma de destruição em massa
+    ro: armă de distrugere în masă
+    ru: оружие массового поражения
+    scn: Armi di sdisolu di fudda
+    sco: weapon o mass destruction
+    sh: Oružje za masovno uništenje
+    sk: Zbraň hromadného ničenia
+    sl: orožje za množično uničevanje
+    sq: Arma e shkatërrimit në masë
+    sr: оружје за масовно уништење
+    sr-ec: оружје за масовно уништење
+    sr-el: oružje za masovno uništenje
+    sv: massförstörelsevapen
+    ta: பேரழிவு ஆயுதம்
+    th: อาวุธอานุภาพทำลายล้างสูง
+    tl: Weapons of mass destruction
+    tr: kitle imha silahı
+    uk: зброя масового ураження
+    ur: انبوہ تباہی ہتھیار
+    uz: Ommaviy qirgʻin qurollaridan mudofaa
+    vi: vũ khí hủy diệt hàng loạt
+    wuu: 大规模杀伤性武器
+    xmf: მასობური მოჯალაგუაშ ანჯარი
+    yi: מאסן פארניכטונג וואפן
+    yue: 大規模殺傷性武器
+    zh: 大規模殺傷性武器
+    zh-hans: 大规模杀伤性武器
 ---
-
 # [[Weapon_of_Mass_Destruction]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Weapon_of_mass_destruction,49394|WD~Weapon_of_mass_destruction,49394]]  

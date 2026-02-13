@@ -1,13 +1,40 @@
 ---
 aliases:
+- hidrógeno-1
+- hydrogen-1
+- hydrogeno-1
+- Procij
+- procio
+- prot
+- proti
+- protij
+- protijs
+- Protijum
+- protio
+- protium
+- Protiy
+- prozio
+- prócium
+- prótio
+- протій
+- протијум
+- протий
+- протиум
+- פרוטיום
+- প্রোটিয়াম
+- প্ৰ’টিয়াম
+- პროთიუმი
+- 氕
+- 軽水素
+- 경수소
 has_id_wikidata: Q12830437
-followed_by: "[[_Standards/WikiData/WD~deuterium,102296]]"
+followed_by: '[[_Standards/WikiData/WD~deuterium,102296]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]"
-  - "[[_Standards/WikiData/WD~stable_isotope,878130]]"
-described_by_source: "[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]"
-different_from: "[[_Standards/WikiData/WD~protium_atom,19824964]]"
-subclass_of: "[[_Standards/WikiData/WD~hydrogen,556]]"
+- '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
+- '[[_Standards/WikiData/WD~stable_isotope,878130]]'
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+different_from: '[[_Standards/WikiData/WD~protium_atom,19824964]]'
+subclass_of: '[[_Standards/WikiData/WD~hydrogen,556]]'
 binding_energy: 0
 neutron_number: 0
 parity_quantum_number: 1
@@ -20,23 +47,64 @@ mass_excess: 7288.97061
 mass: 1.00782503224
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium|Protium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public|Protium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal|Protium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect|Protium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private|Protium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal|Protium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret|Protium.secret]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium|Protium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public|Protium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal|Protium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect|Protium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private|Protium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal|Protium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret|Protium.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium|Protium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public|Protium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal|Protium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect|Protium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private|Protium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal|Protium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret|Protium.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium|Protium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.public|Protium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.internal|Protium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.protect|Protium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.private|Protium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.personal|Protium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Protium.secret|Protium.secret]]'
+dv_has_:
+  name_:
+    as: প্ৰ’টিয়াম
+    bn: প্রোটিয়াম
+    bs: Protijum
+    ca: proti
+    cs: protium
+    de: Protium
+    en: protium
+    eo: procio
+    es: hidrógeno-1
+    eu: protio
+    fr: protium
+    he: פרוטיום
+    hr: Procij
+    hu: prócium
+    ia: hydrogeno-1
+    id: protium
+    it: prozio
+    ja: 軽水素
+    ka: პროთიუმი
+    ko: 경수소
+    lv: protijs
+    mk: протиум
+    nb: protium
+    nl: protium
+    nn: hydrogen-1
+    oc: Proti
+    pl: prot
+    pt: prótio
+    ru: протий
+    sh: Protijum
+    sk: prócium
+    sl: protij
+    sr: протијум
+    sv: protium
+    uk: протій
+    uz: Protiy
+    vi: Proti
+    zh: 氕
+    zh-hans: 氕
+    zh-hant: 氕
 ---
-
 # [[Protium]] 
 
 [[_Standards/WikiData/WD~protium,12830437]] 

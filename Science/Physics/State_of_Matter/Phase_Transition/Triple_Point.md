@@ -1,25 +1,176 @@
 ---
 aliases:
-  - Tripelpunkt
-  - Triple_Point
-  - Triple Point
+- drievoudpunt
+- hármaspont
+- Kiwango utatu
+- kolmikpunkt
+- kolmoispiste
+- kuulmâsčuogâstâh
+- Poent tric'hement
+- point triple
+- Ponch triple
+- Pont tripl
+- ponto triplo
+- punct triplu
+- Puncto triple
+- Punctum triplex
+- punkt potrójny
+- punt triple
+- Punto triple
+- punto triplo
+- Puntu hirukoitz
+- Puntu triple
+- puntu triplu
+- Sam-siòng-tiám
+- Titik tripel
+- trigubasis taškas
+- triobla punkto
+- Tripelpunkt
+- tripelpunt
+- Triple Point
+- Triple_Point
+- trippelpunkt
+- Trojna tačka
+- Trojna točka
+- trojný bod
+- trīskāršais punkts
+- üçlü nokta
+- Üştik nükte
+- Þrípunktur
+- điểm ba trạng thái
+- Виççĕлле пăнчă
+- Гурван фазын цэг
+- патройны пункт
+- потрійна точка
+- трайны пункт
+- тројна тачка
+- тројна точка
+- Тройна точка
+- тройная точка
+- үштік нүкте
+- Եռակի կետ
+- נקודה משולשת
+- تگنا پوانٹ
+- نقطة ثلاثية
+- نقطه سهگانه
+- نقطۂ ثلاثیہ
+- ۇشتىك نۇكتە
+- त्रिगुण बिंदु
+- ত্রৈধ বিন্দু
+- மும்மைப் புள்ளி
+- ത്രിക ബിന്ദു
+- ත්රික ලක්ෂ්යය
+- จุดร่วมสาม
+- 三相点
+- 三相點
+- 三重点
+- 삼중점
 has_id_wikidata: Q106410
 subclass_of:
-  - '[[_Standards/WikiData/WD~state,3505845]]'
-  - '[[_Standards/WikiData/WD~phase_boundary,7180938]]'
+- '[[_Standards/WikiData/WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~phase_boundary,7180938]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 has_characteristic: '[[_Standards/WikiData/WD~possibility,21170479]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~temperature,11466]]'
-  - '[[_Standards/WikiData/WD~pressure,39552]]'
+- '[[_Standards/WikiData/WD~temperature,11466]]'
+- '[[_Standards/WikiData/WD~pressure,39552]]'
 studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Water-triple-point-20210210.gif
 Commons_category: Triple point
+dv_has_:
+  name_:
+    af: drievoudpunt
+    an: Punto triple
+    ar: نقطة ثلاثية
+    ast: Puntu triple
+    be: трайны пункт
+    be-tarask: патройны пункт
+    bg: Тройна точка
+    bn: ত্রৈধ বিন্দু
+    br: Poent tric'hement
+    bs: Trojna tačka
+    ca: punt triple
+    cs: trojný bod
+    cv: Виççĕлле пăнчă
+    da: trippelpunkt
+    de: Tripelpunkt
+    en: triple point
+    eo: triobla punkto
+    es: punto triple
+    et: kolmikpunkt
+    eu: Puntu hirukoitz
+    fa: نقطه سهگانه
+    fi: kolmoispiste
+    fr: point triple
+    gl: punto triplo
+    he: נקודה משולשת
+    hi: त्रिगुण बिंदु
+    hr: Trojna točka
+    hu: hármaspont
+    hy: Եռակի կետ
+    ia: Puncto triple
+    id: Titik tripel
+    is: Þrípunktur
+    it: punto triplo
+    ja: 三重点
+    kk: үштік нүкте
+    kk-arab: ۇشتىك نۇكتە
+    kk-cn: ۇشتىك نۇكتە
+    kk-cyrl: Үштік нүкте
+    kk-kz: Үштік нүкте
+    kk-latn: Üştik nükte
+    kk-tr: Üştik nükte
+    ko: 삼중점
+    la: Punctum triplex
+    lt: trigubasis taškas
+    lv: trīskāršais punkts
+    mk: тројна точка
+    ml: ത്രിക ബിന്ദു
+    mn: Гурван фазын цэг
+    nan: Sam-siòng-tiám
+    nb: trippelpunkt
+    nds: Tripelpunkt
+    nl: tripelpunt
+    nn: trippelpunkt
+    oc: Ponch triple
+    pl: punkt potrójny
+    pms: Pont tripl
+    pnb: تگنا پوانٹ
+    pt: ponto triplo
+    ro: punct triplu
+    ru: тройная точка
+    scn: puntu triplu
+    sh: Trojna tačka
+    si: ත්රික ලක්ෂ්යය
+    sk: Trojný bod
+    sl: trojna točka
+    smn: kuulmâsčuogâstâh
+    sr: тројна тачка
+    sr-ec: тројна тачка
+    sr-el: trojna tačka
+    sv: trippelpunkt
+    sw: Kiwango utatu
+    ta: மும்மைப் புள்ளி
+    th: จุดร่วมสาม
+    tr: üçlü nokta
+    uk: потрійна точка
+    ur: نقطۂ ثلاثیہ
+    vi: điểm ba trạng thái
+    wuu: 三相点
+    yue: 三相點
+    zh: 三相點
+    zh-cn: 三相点
+    zh-hans: 三相点
+    zh-hant: 三相點
+    zh-hk: 三相點
+    zh-mo: 三相點
+    zh-my: 三相点
+    zh-sg: 三相点
+    zh-tw: 三相點
 ---
-
 # [[Triple_Point]] 
 
 #is_/same_as :: [[WD~Triple_point,106410]] 

@@ -1,22 +1,52 @@
 ---
 aliases:
-  - Leier
-  - Lyre
+- Leier
+- Lier
+- Liere
+- lir
+- lira
+- Lira (alat muzik)
+- lirika
+- liro
+- Liră
+- lyra
+- Lyre
+- Lyyra
+- líra
+- Lüüra
+- Lýra (starogrécky nástroj)
+- Đàn Lia
+- λύρα
+- ліра
+- лирæ
+- лира
+- лирика
+- քնար
+- לירה
+- سمسميه (آلة)
+- كنّارة
+- لیر(موزیک)
+- چنگ رومی
+- ܟܢܪܐ
+- ქნარი
+- リラ
+- 里拉琴
+- 리라
 has_id_wikidata: Q201129
 subclass_of:
-  - '[[_Standards/WikiData/WD~plucked_string_instrument,230262]]'
-  - '[[_Standards/WikiData/WD~yoke_lute,1814870]]'
+- '[[_Standards/WikiData/WD~plucked_string_instrument,230262]]'
+- '[[_Standards/WikiData/WD~yoke_lute,1814870]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Lyre,3782415]]'
-  - '[[_Standards/WikiData/WD~Lyra,10484]]'
+- '[[_Standards/WikiData/WD~Lyre,3782415]]'
+- '[[_Standards/WikiData/WD~Lyra,10484]]'
 practiced_by: '[[_Standards/WikiData/WD~lyrist,136324624]]'
 inception: -3199-01-01T00:00:00Z
 Nomenclature_for_Museum_Cataloging: 10808
@@ -25,8 +55,85 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mousai%20Helikon%20Sta
 Hornbostel_Sachs_classification: 321.21-5
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LIRA.html
 Commons_category: Lyres
+dv_has_:
+  name_:
+    af: Lier
+    ar: كنّارة
+    arc: ܟܢܪܐ
+    arz: سمسميه (آلة)
+    az: Lira
+    azb: لیر(موزیک)
+    be: ліра
+    be-tarask: ліра
+    bg: Лира
+    bs: Lira
+    ca: lira
+    cs: lyra
+    cy: lyra
+    da: lyre
+    de: Lyra
+    el: λύρα
+    en: lyre
+    eo: liro
+    es: lira
+    et: Lüüra
+    eu: Lira
+    fa: چنگ رومی
+    fi: Lyyra
+    fr: lyre
+    fy: Liere
+    ga: lir
+    gl: Lira
+    grc: λύρα
+    he: לירה
+    hr: lira
+    hu: líra
+    hy: քնար
+    id: lira
+    io: liro
+    it: lira
+    ja: リラ
+    ka: ქნარი
+    ko: 리라
+    la: Lyra
+    lt: Lyra
+    lv: Lira
+    ms: Lira (alat muzik)
+    nb: lyre
+    nl: lier
+    nn: lyre
+    oc: Lira
+    os: лирæ
+    pl: Lira
+    pnt: Λύρα
+    pt: lira
+    pt-br: lira
+    ro: Liră
+    rsk: Лира
+    ru: лира
+    sh: Lira
+    sk: Lýra (starogrécky nástroj)
+    sl: lira
+    sr: лира
+    sr-ec: лира
+    sr-el: lira
+    sv: lyra
+    tg: лирика
+    tg-latn: lirika
+    tr: lir
+    uk: ліра
+    uz: Lira
+    vi: Đàn Lia
+    wuu: 里拉琴
+    yue: 里拉琴
+    zh: 里拉琴
+    zh-cn: 里拉琴
+    zh-hans: 里拉琴
+    zh-hant: 里拉琴
+    zh-hk: 里拉琴
+    zh-sg: 里拉琴
+    zh-tw: 里拉琴
 ---
-
 # [[Lyre]] 
 
 #is_/same_as :: [[WD~Lyre,201129]] 

@@ -1,9 +1,210 @@
 ---
 aliases:
-  - Johnny Depp
-  - Depp,Johnny
+- Conni Depp
+- Depp Džonni
+- Depp,Johnny
+- Džonijs Deps
+- Iohannes Depp
+- Johnny Depp
+- Johny Depp
+- Jonny Dep
+- Τζόνι Ντεπ
+- Џони Деп
+- Джоні Дэп
+- Джони Деп
+- Джонні Депп
+- Джонни Депп
+- Жонни Депп
+- Ҷоннӣ Депп
+- Ճոնի Տեփ
+- Ջոնի Դեփ
+- ג'וני דפ
+- דזשאני דעפ
+- جانی دپ
+- جونى ديب
+- جوني ديب
+- جونی ڈیپ
+- جۆنی دێپ
+- जॉनी डेप
+- जोनी डेप
+- জনি ডেপ
+- ਜੌਨੀ ਡੈੱਪ
+- ஜானி டெப்
+- జానీ డెప్
+- ಜಾನಿ ಡೆಪ್
+- ജോണി ഡെപ്പ്
+- ජොනී ඩෙප්
+- จอห์นนี เดปป์
+- ຈອນນີ ເດບ
+- ჯონი დეპი
+- ጆኒ ዴፖ
+- ᱡᱚᱱᱤ ᱰᱮᱯ
+- ジョニー・デップ
+- 尊尼·特普
+- 尊尼特普
+- 強尼·戴普
+- 约翰尼·德普
+- 조니 뎁
+has_id_wikidata: Q37175
+dv_has_:
+  name_:
+    ace: Johnny Depp
+    af: Johnny Depp
+    am: ጆኒ ዴፖ
+    an: Johnny Depp
+    ar: جوني ديب
+    arz: جونى ديب
+    ast: Johnny Depp
+    az: Conni Depp
+    azb: جانی دپ
+    bar: Johnny Depp
+    be: Джоні Дэп
+    be-tarask: Джоні Дэп
+    bew: Johnny Depp
+    bg: Джони Деп
+    bi: Johnny Depp
+    bn: জনি ডেপ
+    br: Johnny Depp
+    bs: Johnny Depp
+    ca: Johnny Depp
+    ceb: Johnny Depp
+    ckb: جۆنی دێپ
+    co: Johnny Depp
+    cs: Johnny Depp
+    csb: Johnny Depp
+    cv: Джонни Депп
+    cy: Johnny Depp
+    da: Johnny Depp
+    dag: Johnny Depp
+    de: Johnny Depp
+    de-ch: Johnny Depp
+    diq: Johnny Depp
+    dsb: Johnny Depp
+    dty: जोनी डेप
+    ee: Johnny Depp
+    el: Τζόνι Ντεπ
+    eml: Johnny Depp
+    en: Johnny Depp
+    en-ca: Johnny Depp
+    en-gb: Johnny Depp
+    eo: Johnny Depp
+    es: Johnny Depp
+    et: Johnny Depp
+    eu: Johnny Depp
+    fa: جانی دپ
+    fi: Johnny Depp
+    fo: Johnny Depp
+    fr: Johnny Depp
+    frr: Johnny Depp
+    fy: Johnny Depp
+    ga: Johnny Depp
+    gl: Johnny Depp
+    gsw: Johnny Depp
+    gv: Johnny Depp
+    ha: Johnny Depp
+    he: ג'וני דפ
+    hi: जॉनी डेप
+    hr: Johnny Depp
+    hsb: Johnny Depp
+    ht: Johnny Depp
+    hu: Johnny Depp
+    hy: Ջոնի Դեփ
+    hyw: Ճոնի Տեփ
+    ia: Johnny Depp
+    id: Johnny Depp
+    ie: Johny Depp
+    ig: Johnny Depp
+    io: Johnny Depp
+    is: Johnny Depp
+    it: Johnny Depp
+    ja: ジョニー・デップ
+    jam: Johnny Depp
+    jv: Johnny Depp
+    ka: ჯონი დეპი
+    kk: Джонни Депп
+    kl: Johnny Depp
+    kn: ಜಾನಿ ಡೆಪ್
+    ko: 조니 뎁
+    ku: Johnny Depp
+    ky: Жонни Депп
+    la: Iohannes Depp
+    lb: Johnny Depp
+    li: Johnny Depp
+    lo: ຈອນນີ ເດບ
+    lt: Johnny Depp
+    lv: Džonijs Deps
+    mai: जोनी डेप
+    mg: Johnny Depp
+    min: Johnny Depp
+    mk: Џони Деп
+    ml: ജോണി ഡെപ്പ്
+    mn: Жонни Депп
+    mr: जॉनी डेप
+    ms: Johnny Depp
+    mt: Johnny Depp
+    mul: Johnny Depp
+    mzn: جانی دپ
+    nb: Johnny Depp
+    nds: Johnny Depp
+    ne: जोनी डेप
+    nl: Johnny Depp
+    nn: Johnny Depp
+    oc: Johnny Depp
+    pa: ਜੌਨੀ ਡੈੱਪ
+    pag: Johnny Depp
+    pap: Johnny Depp
+    pl: Johnny Depp
+    pms: Johnny Depp
+    pt: Johnny Depp
+    pt-br: Johnny Depp
+    qu: Johnny Depp
+    rm: Johnny Depp
+    ro: Johnny Depp
+    ru: Джонни Депп
+    sat: ᱡᱚᱱᱤ ᱰᱮᱯ
+    sc: Johnny Depp
+    scn: Johnny Depp
+    sco: Johnny Depp
+    sh: Johnny Depp
+    si: ජොනී ඩෙප්
+    sk: Johnny Depp
+    sl: Johnny Depp
+    so: Johnny Depp
+    sq: Johnny Depp
+    sr: Џони Деп
+    sr-ec: Џони Деп
+    su: Johnny Depp
+    sv: Johnny Depp
+    sw: Johnny Depp
+    ta: ஜானி டெப்
+    te: జానీ డెప్
+    tg: Ҷоннӣ Депп
+    th: จอห์นนี เดปป์
+    tk: Jonny Dep
+    tl: Johnny Depp
+    tr: Johnny Depp
+    tt: Джонни Депп
+    uk: Джонні Депп
+    ur: جونی ڈیپ
+    uz: Johnny Depp
+    vep: Depp Džonni
+    vi: Johnny Depp
+    vls: Johnny Depp
+    vo: Johnny Depp
+    wa: Johnny Depp
+    war: Johnny Depp
+    wuu: 约翰尼·德普
+    xmf: ჯონი დეპი
+    yi: דזשאני דעפ
+    yue: 尊尼特普
+    zh: 強尼·戴普
+    zh-cn: 约翰尼·德普
+    zh-hans: 约翰尼·德普
+    zh-hant: 強尼·戴普
+    zh-hk: 尊尼特普
+    zh-my: 尊尼·特普
+    zh-tw: 強尼·戴普
 ---
-
 #has_/time_/started :: 1963-07-09 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

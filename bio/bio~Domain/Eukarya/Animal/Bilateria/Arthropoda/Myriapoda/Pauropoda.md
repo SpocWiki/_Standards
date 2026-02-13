@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Pauropoda
+- drobnušky
+- fåfotingar
+- fåfotinger
+- harvajalkaiset
+- Harvjalgsed
+- Jongoo Miguu-michache
+- Letjetbianer
+- Malonoge
+- Pauropoda
+- Pauropodi
+- Pauropodina
+- Pauropodlar
+- pauròpodes
+- Paurópodos
+- Paŭropodoj
+- Skąponogi
+- Trišakaūsiai
+- villáscsápúak
+- Wenigfüsser
+- Wenigfüßer
+- Łeeyiʼ jááłániichilí
+- Παυρόποδα
+- Паўраподы
+- Пауроподи
+- Пауроподы
+- خردپایان
+- قليلات الأرجل
+- پاوروپودلار
+- エダヒゲムシ
+- 少足纲
+- 소각류
 title: Pauropoda
+has_id_wikidata: Q217512
+dv_has_:
+  name_:
+    an: Pauropoda
+    ar: قليلات الأرجل
+    ast: Pauropoda
+    az: Pauropodlar
+    azb: پاوروپودلار
+    be: Паўраподы
+    be-tarask: Паўраподы
+    bg: Пауроподи
+    ca: pauròpodes
+    ceb: Pauropoda
+    cs: drobnušky
+    de: Wenigfüßer
+    de-ch: Wenigfüsser
+    el: Παυρόποδα
+    en: Pauropoda
+    eo: Paŭropodoj
+    es: Pauropoda
+    et: Harvjalgsed
+    eu: Pauropodina
+    ext: Pauropoda
+    fa: خردپایان
+    fi: harvajalkaiset
+    fr: Pauropoda
+    frr: Letjetbianer
+    ga: Pauropoda
+    gl: Paurópodos
+    hu: villáscsápúak
+    ia: Pauropoda
+    ie: Pauropoda
+    io: Pauropoda
+    it: Pauropoda
+    ja: エダヒゲムシ
+    ko: 소각류
+    la: Pauropoda
+    lt: Trišakaūsiai
+    lv: Pauropodi
+    mul: Pauropoda
+    nb: fåfotinger
+    nl: Pauropoda
+    nn: fåfotingar
+    nv: Łeeyiʼ jááłániichilí
+    oc: Pauropoda
+    pl: Skąponogi
+    pt: Pauropoda
+    pt-br: Pauropoda
+    ro: Pauropoda
+    ru: Пауроподы
+    sl: Malonoge
+    sq: Pauropoda
+    sv: Fåfotingar
+    sw: Jongoo Miguu-michache
+    tr: Pauropoda
+    uk: Пауроподи
+    vi: Pauropoda
+    vo: Pauropoda
+    war: Pauropoda
+    zh: 少足纲
+    zh-cn: 少足纲
+    zh-hans: 少足纲
 ---
-
 # [[Pauropoda]] 
 
 pauropods 

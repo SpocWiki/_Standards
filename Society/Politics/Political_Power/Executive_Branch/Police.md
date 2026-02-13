@@ -1,32 +1,135 @@
 ---
 aliases:
-  - Polizei
-  - Police
+- "'yan sanda"
+- Amaphoyisa
+- boles
+- Booliis
+- Burgweard
+- Chapaq
+- cảnh sát
+- Gīng-chák
+- heddlu
+- Ipolisa
+- kapulisan
+- kepolisian
+- Kibara
+- Kincac
+- Kéng-chhat
+- Kín-chhat
+- Lapolis (enstitisyon)
+- Lögregla
+- Løgregla
+- Pirihimana
+- pirinsi
+- plysje
+- Police
+- Police (institucion)
+- Policia
+- Policie
+- policija
+- policja
+- polico
+- policía
+- Poliis
+- poliisi
+- polis
+- Polisi
+- polisie
+- Polisy
+- politi
+- politie
+- politija
+- politsei
+- Politsiya
+- Polizei
+- Polizey
+- polizia
+- Polizzia
+- poliție
+- pollise
+- Polícia
+- poolis
+- połisia
+- Puleŋa
+- Pulis
+- Pulisi
+- pulizija
+- Pulís
+- pååʹles
+- póilíní
+- Pɔlísi
+- rendőrség
+- Shagede
+- Tahachi
+- Torobbii
+- Vigil
+- αστυνομία
+- паліцыя
+- поліція
+- полис
+- полиција
+- полиций
+- полиция
+- Сагдаа
+- Ոստիկանություն
+- משטרה
+- פאליציי
+- آجون
+- بوليس
+- ساتونکی
+- شرطة
+- پلیس
+- پولیس
+- پۆلیس
+- ڤوليس
+- ߕߐ߲ߓߟߏߡߟߊ
+- पुलिस
+- पोलीस
+- प्रहरी
+- পুলিশ
+- ਪੁਲਿਸ
+- પોલીસ
+- ପୋଲିସ
+- காவல்துறை
+- రక్షకులు
+- ಪೋಲಿಸ್
+- പോലീസ്
+- ตำรวจ
+- ཉེན་རྟོག་པ།
+- ရဲ
+- პოლიცია
+- ፖሊስ
+- ᐸᓖᓯᒃᑯᑦ
+- ⵍⴱⵓⵍⵉⵙ
+- 警察
+- 警察机构
+- 警察機構
+- 경찰
 has_id_wikidata: Q35535
 MeSH_tree_code:
-  - M01.526.760
-  - M01.526.373.750
+- M01.526.760
+- M01.526.373.750
 IPTC_NewsCode: mediatopic/20000133
 subreddit:
-  - policeporn
-  - police
+- policeporn
+- police
 different_from:
-  - '[[_Standards/WikiData/WD~Police,223925]]'
-  - '[[_Standards/WikiData/WD~police_officer,384593]]'
-  - '[[_Standards/WikiData/WD~Policja,11821680]]'
-  - '[[_Standards/WikiData/WD~prevention_service,15692375]]'
-  - '[[_Standards/WikiData/WD~military,8473]]'
+- '[[_Standards/WikiData/WD~Police,223925]]'
+- '[[_Standards/WikiData/WD~police_officer,384593]]'
+- '[[_Standards/WikiData/WD~Policja,11821680]]'
+- '[[_Standards/WikiData/WD~prevention_service,15692375]]'
+- '[[_Standards/WikiData/WD~military,8473]]'
 has_part_s_: '[[_Standards/WikiData/WD~police_officer,384593]]'
 subclass_of: '[[_Standards/WikiData/WD~law_enforcement_agency,732717]]'
 part_of:
-  - '[[_Standards/WikiData/WD~local_government,6501447]]'
-  - '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~local_government,6501447]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Q100775579,100775579]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Q100775579,100775579]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_policing,20981084]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Police,21265305]]'
 has_use: '[[_Standards/WikiData/WD~law_enforcement,44554]]'
@@ -40,14 +143,181 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/HH%20Polizeihauptmeist
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Polizei.ogg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/American%20police%20siren%20i.ogg
 equivalent_class:
-  - http://data.culture.fr/thesaurus/resource/ark:/67717/T1-471
-  - http://dbpedia.org/resource/Police
-  - http://www.eionet.europa.eu/gemet/concept/6367
+- http://data.culture.fr/thesaurus/resource/ark:/67717/T1-471
+- http://dbpedia.org/resource/Police
+- http://www.eionet.europa.eu/gemet/concept/6367
 U_S_National_Archives_Identifier: 10643529
 Iconclass_notation: 44G22
 Common_Procurement_Vocabulary_code: 75241100
+dv_has_:
+  name_:
+    af: polisie
+    am: ፖሊስ
+    ami: Kincac
+    an: Policía
+    ang: Burgweard
+    ar: شرطة
+    ary: بوليس
+    arz: بوليس
+    ast: policía
+    az: polis
+    azb: پولیس
+    ban: polisi
+    bar: Kibara
+    bcl: Pulis
+    bdr: Pulis
+    be: паліцыя
+    be-tarask: паліцыя
+    bg: Полиция
+    bjn: Pulisi
+    bn: পুলিশ
+    bo: ཉེན་རྟོག་པ།
+    br: polis
+    bs: policija
+    bxr: Сагдаа
+    ca: policia
+    cbk-zam: policía
+    cdo: Gīng-chák
+    ckb: پۆلیس
+    cs: policie
+    cy: heddlu
+    da: politi
+    dag: pirinsi
+    de: Polizei
+    diq: Polis
+    el: αστυνομία
+    en: police
+    en-gb: police
+    eo: polico
+    es: policía
+    et: politsei
+    eu: polizia
+    fa: پلیس
+    fi: poliisi
+    fo: Løgregla
+    fr: police
+    frr: Politsei
+    fy: plysje
+    ga: póilíní
+    gan: 警察
+    gcr: Lapolis (enstitisyon)
+    gl: policía
+    gn: Tahachi
+    gsw: Polizey
+    gu: પોલીસ
+    gur: Puleŋa
+    ha: "'yan sanda"
+    hak: Kín-chhat
+    he: משטרה
+    hi: पुलिस
+    hr: policija
+    ht: Polis
+    hu: rendőrség
+    hy: Ոստիկանություն
+    ia: Policia
+    id: kepolisian
+    ie: Policie
+    ilo: Pulís
+    io: polico
+    is: Lögregla
+    it: polizia
+    iu: ᐸᓖᓯᒃᑯᑦ
+    ja: 警察
+    jam: Poliis
+    jv: Pulisi
+    ka: პოლიცია
+    kk: Полиция
+    kn: ಪೋಲಿಸ್
+    ko: 경찰
+    ky: Полиция
+    la: Vigil
+    lb: Police
+    lmo: Polizia
+    ln: Pɔlísi
+    lt: policija
+    lv: policija
+    mag: पुलिस
+    mg: Polisy
+    mhr: полиций
+    mi: Pirihimana
+    min: Polisi
+    mk: полиција
+    ml: പോലീസ്
+    mr: पोलीस
+    ms: polis
+    ms-arab: ڤوليس
+    mt: pulizija
+    my: ရဲ
+    mzn: آجون
+    nan: Kéng-chhat
+    nb: politi
+    ne: प्रहरी
+    nl: politie
+    nn: politi
+    nov: Police
+    nqo: ߕߐ߲ߓߟߏߡߟߊ
+    oc: Polícia
+    om: Torobbii
+    or: ପୋଲିସ
+    pa: ਪੁਲਿਸ
+    pam: kapulisan
+    pcd: Police (institucion)
+    pl: policja
+    pnb: پولیس
+    ps: ساتونکی
+    pt: polícia
+    pt-br: polícia
+    qu: Chapaq
+    rmy: Shagede
+    ro: poliție
+    ru: полиция
+    scn: Polizzia
+    sco: polis
+    se: boles
+    sh: Policija
+    sk: polícia
+    sl: policija
+    sma: pollise
+    smj: politija
+    smn: poolis
+    sms: pååʹles
+    so: Booliis
+    sq: Policia
+    sr: полиција
+    sv: polis
+    sw: Polisi
+    ta: காவல்துறை
+    te: రక్షకులు
+    tg: полис
+    th: ตำรวจ
+    ti: ፖሊስ
+    tl: kapulisan
+    to: Polisi
+    tr: polis
+    tt: полиция
+    uk: поліція
+    ur: پولیس
+    uz: Politsiya
+    vec: połisia
+    vi: cảnh sát
+    war: Pulis
+    wuu: 警察机构
+    xh: Ipolisa
+    xmf: პოლიცია
+    yi: פאליציי
+    yue: 警察機構
+    zgh: ⵍⴱⵓⵍⵉⵙ
+    zh: 警察機構
+    zh-cn: 警察机构
+    zh-hans: 警察机构
+    zh-hant: 警察機構
+    zh-hk: 警察機構
+    zh-mo: 警察機構
+    zh-my: 警察机构
+    zh-sg: 警察机构
+    zh-tw: 警察機構
+    zu: Amaphoyisa
 ---
-
 # [[Police]] 
 
 #is_/same_as :: [[WD~Police,35535]] 

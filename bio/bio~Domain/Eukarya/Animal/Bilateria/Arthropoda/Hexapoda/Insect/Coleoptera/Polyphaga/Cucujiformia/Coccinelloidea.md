@@ -1,4 +1,51 @@
-
+---
+has_id_wikidata: Q25406957
+dv_has_:
+  name_:
+    an: Coccinelloidea
+    ast: Coccinelloidea
+    bg: Coccinelloidea
+    ca: Coccinelloidea
+    ceb: Coccinelloidea
+    de: Coccinelloidea
+    en: Coccinelloidea
+    eo: Coccinelloidea
+    es: Coccinelloidea
+    eu: Coccinelloidea
+    ext: Coccinelloidea
+    fi: Coccinelloidea
+    fr: Coccinelloidea
+    ga: Coccinelloidea
+    gl: Coccinelloidea
+    hu: Coccinelloidea
+    ia: Coccinelloidea
+    ie: Coccinelloidea
+    io: Coccinelloidea
+    it: Coccinelloidea
+    la: Coccinelloidea
+    ms: Coccinelloidea
+    mul: Coccinelloidea
+    nl: Coccinelloidea
+    oc: Coccinelloidea
+    pl: Coccinelloidea
+    pt: Coccinelloidea
+    pt-br: Coccinelloidea
+    ro: Coccinelloidea
+    ru: Coccinelloidea
+    sl: Coccinelloidea
+    sq: Coccinelloidea
+    uk: Coccinelloidea
+    vi: Coccinelloidea
+    vo: Coccinelloidea
+    war: Coccinelloidea
+    zh: 瓢虫总科
+    zh-cn: 瓢甲总科
+    zh-hans: 瓢甲总科
+aliases:
+- Coccinelloidea
+- 瓢甲总科
+- 瓢虫总科
+---
 # [[Coccinelloidea]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Coccinelloidea,25406957]] 

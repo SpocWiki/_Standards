@@ -1,30 +1,109 @@
 ---
 aliases:
-  - Sexual_Reproduction
-  - Sexual Reproduction
+- amyaraw azufan
+- atgynhyrchu rhywiol
+- atáirgeadh gnéasach
+- biological reproduction
+- cinsi çoxalma
+- dzimumvairošanās
+- eşeyli üreme
+- geschlechtliche Fortpflanzung
+- geslachtelijke voortplanting
+- geslachtlike fuortplanting
+- ivaros szaporodás
+- Iú-sèng seⁿ-si̍t
+- jinsiy koʻpayish
+- jınıstı köbeyu jäne urıqtanw erekşelikteri
+- kjønna formeiring
+- kjønnet formering
+- kynæxlun
+- kønnet formering
+- lytinis dauginimasis
+- pembiakan seks
+- pirbûna zayendî
+- pohlavné rozmnožovanie
+- pohlavní rozmnožování
+- reproducció sexual
+- reproducción sexual
+- reproducere sexuată
+- reprodución sexual
+- reproduction sexuée
+- reprodui sesal
+- reproduksi seksual
+- reproduksyong seksuwal
+- reprodusion sesuałe
+- reprodução sexuada
+- repwodiksyon seksyèl
+- riproduzione sessuata
+- rozmnażanie płciowe
+- seksa reproduktado
+- sekswal na reproduksyon
+- Sexual Reproduction
+- Sexuala genitado
+- Sexual_Reproduction
+- sexuell förökning
+- sinh sản hữu tính
+- spolno razmnožavanje
+- spolno razmnoževanje
+- suguline sigimine
+- sugulinõ siginemine
+- suvullinen lisääntyminen
+- ugalketa sexual
+- εγγενής αναπαραγωγή
+- арамалăхлă ĕрчев
+- жынысты көбею және ұрықтану ерекшеліктері
+- палавое размнажэнне
+- плоцевае размнажэньне
+- полно размножавање
+- полово размножаване
+- полово размножување
+- половое размножение
+- статеве розмноження
+- җенси үрчү
+- սեռական բազմացում
+- רבייה זוויגית
+- تكاثر جنسى
+- تكاثر جنسي
+- توخمە زۆربوون
+- تولید مثل جنسی
+- جنسي بیا توليد
+- جنسی تولید
+- جىنىستى كوبەيۋ جانە ۇرىقتانۋ ەرەكشەلىكتەرى
+- लैंगिक जनन
+- যৌন প্রজনন
+- લિંગી પ્રજનન
+- பாலியல் இனப்பெருக்கம்
+- ലൈംഗികപ്രത്യുൽപ്പാദനം
+- ලිංගික ප්රජනනය
+- การสืบพันธุ์แบบอาศัยเพศ
+- လိင်နန့် မျိုးပွားခြင်း
+- လိင်ဖြင့်မျိုးပွားခြင်း
+- 有性生殖
+- 有性繁殖
+- 유성 생식
 has_id_wikidata: Q182353
 opposite_of: '[[_Standards/WikiData/WD~asexual_reproduction,173432]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~mating,228395]]'
-  - '[[_Standards/WikiData/WD~fertilization,14890574]]'
-  - '[[_Standards/WikiData/WD~gamete_generation,14903781]]'
-  - '[[_Standards/WikiData/WD~sporocarp_development_involved_in_sexual_reproduction,22294168]]'
-  - '[[_Standards/WikiData/WD~sexual_sporulation,22294442]]'
+- '[[_Standards/WikiData/WD~mating,228395]]'
+- '[[_Standards/WikiData/WD~fertilization,14890574]]'
+- '[[_Standards/WikiData/WD~gamete_generation,14903781]]'
+- '[[_Standards/WikiData/WD~sporocarp_development_involved_in_sexual_reproduction,22294168]]'
+- '[[_Standards/WikiData/WD~sexual_sporulation,22294442]]'
 history_of_topic: '[[_Standards/WikiData/WD~evolution_of_sexual_reproduction,2915088]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
-  - '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
 facet_of: '[[_Standards/WikiData/WD~animal_reproduction,3427333]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Molecular_and_Cell_Biology,15884967]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]'
-  - "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Biology,6723002]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943]]'
+- '[[_Standards/WikiData/WD~WikiProject_Molecular_and_Cell_Biology,15884967]]'
+- '[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~multi_organism_reproductive_process,22271532]]'
-  - '[[_Standards/WikiData/WD~reproduction,11990]]'
+- '[[_Standards/WikiData/WD~multi_organism_reproductive_process,22271532]]'
+- '[[_Standards/WikiData/WD~reproduction,11990]]'
 Library_of_Congress_Classification: QH481-QH487
 OmegaWiki_Defined_Meaning: 799321
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sexual%20cycle.svg
@@ -35,8 +114,107 @@ UMLS_CUI: C0871354
 Terminologia_Embryologica: E1.0.0.0.0.0.2
 Colon_Classification: G:675
 Commons_category: Sexual reproduction
+dv_has_:
+  name_:
+    ar: تكاثر جنسي
+    arz: تكاثر جنسى
+    ast: reproducción sexual
+    az: cinsi çoxalma
+    bcl: sekswal na reproduksyon
+    be: палавое размнажэнне
+    be-tarask: плоцевае размнажэньне
+    bg: полово размножаване
+    bn: যৌন প্রজনন
+    bs: spolno razmnožavanje
+    ca: reproducció sexual
+    ckb: توخمە زۆربوون
+    cs: pohlavní rozmnožování
+    cv: арамалăхлă ĕрчев
+    cy: atgynhyrchu rhywiol
+    da: kønnet formering
+    de: geschlechtliche Fortpflanzung
+    el: εγγενής αναπαραγωγή
+    en: sexual reproduction
+    eo: seksa reproduktado
+    es: reproducción sexual
+    et: suguline sigimine
+    eu: ugalketa sexual
+    fa: تولید مثل جنسی
+    fi: suvullinen lisääntyminen
+    fr: reproduction sexuée
+    fy: geslachtlike fuortplanting
+    ga: atáirgeadh gnéasach
+    gl: reprodución sexual
+    gsw: geschlechtliche Fortpflanzung
+    gu: લિંગી પ્રજનન
+    he: רבייה זוויגית
+    hi: लैंगिक जनन
+    hif: biological reproduction
+    hr: spolno razmnožavanje
+    ht: repwodiksyon seksyèl
+    hu: ivaros szaporodás
+    hy: սեռական բազմացում
+    id: reproduksi seksual
+    io: Sexuala genitado
+    is: kynæxlun
+    it: riproduzione sessuata
+    ja: 有性生殖
+    kab: amyaraw azufan
+    kk: жынысты көбею және ұрықтану ерекшеліктері
+    kk-arab: جىنىستى كوبەيۋ جانە ۇرىقتانۋ ەرەكشەلىكتەرى
+    kk-cn: جىنىستى كوبەيۋ جانە ۇرىقتانۋ ەرەكشەلىكتەرى
+    kk-cyrl: жынысты көбею және ұрықтану ерекшеліктері
+    kk-kz: жынысты көбею және ұрықтану ерекшеліктері
+    kk-latn: jınıstı köbeyu jäne urıqtanw erekşelikteri
+    kk-tr: jınıstı köbeyu jäne urıqtanw erekşelikteri
+    ko: 유성 생식
+    ku: pirbûna zayendî
+    ku-latn: pirbûna zayendî
+    lfn: reprodui sesal
+    lt: lytinis dauginimasis
+    lv: dzimumvairošanās
+    mk: полово размножување
+    ml: ലൈംഗികപ്രത്യുൽപ്പാദനം
+    ms: pembiakan seks
+    my: လိင်ဖြင့်မျိုးပွားခြင်း
+    nan: Iú-sèng seⁿ-si̍t
+    nb: kjønnet formering
+    nl: geslachtelijke voortplanting
+    nn: kjønna formeiring
+    pl: rozmnażanie płciowe
+    pnb: جنسی تولید
+    ps: جنسي بیا توليد
+    pt: reprodução sexuada
+    rki: လိင်နန့် မျိုးပွားခြင်း
+    ro: reproducere sexuată
+    ru: половое размножение
+    sco: sexual reproduction
+    si: ලිංගික ප්රජනනය
+    sk: pohlavné rozmnožovanie
+    sl: spolno razmnoževanje
+    sr: полно размножавање
+    sv: sexuell förökning
+    ta: பாலியல் இனப்பெருக்கம்
+    th: การสืบพันธุ์แบบอาศัยเพศ
+    tl: reproduksyong seksuwal
+    tr: eşeyli üreme
+    tt: җенси үрчү
+    uk: статеве розмноження
+    ur: جنسی تولید
+    uz: jinsiy koʻpayish
+    vec: reprodusion sesuałe
+    vi: sinh sản hữu tính
+    vro: sugulinõ siginemine
+    wuu: 有性生殖
+    yue: 有性繁殖
+    zh: 有性生殖
+    zh-cn: 有性生殖
+    zh-hans: 有性生殖
+    zh-hant: 有性生殖
+    zh-hk: 有性生殖
+    zh-sg: 有性生殖
+    zh-tw: 有性生殖
 ---
-
 # [[Sexual_Reproduction]] 
 
 #has_/complement :: [[Asexual_Reproduction]] 

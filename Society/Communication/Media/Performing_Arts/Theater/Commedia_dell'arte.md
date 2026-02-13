@@ -1,23 +1,48 @@
 ---
 aliases:
-  - Italian comedy
-  - commedia alla maschera
-  - commedia improvviso
-  - commedia dell'arte all'improvviso
-  - Commedia_dell'arte
-  - Commedia dell'arte
+- Comedia del arte
+- commedia alla maschera
+- Commedia dell'arte
+- commedia dell'arte all'improvviso
+- Commedia dell’arte
+- commedia improvviso
+- Commedia_dell'arte
+- Comoedia artis
+- Cumedia de l'art
+- Delartiskā komēdija
+- Delarto
+- Italian comedy
+- komedija del arte
+- ítalski gamanleikurinn
+- Κομέντια ντελ άρτε
+- камэдыя дэль артэ
+- Комедія дель арте
+- Комедија дел арте
+- Комедия дел арте
+- комедия дель арте
+- Կոմեդիա դել'արտե
+- קומדיה דל'ארטה
+- ملهاة مرتجلة
+- کمدی هنرمندان
+- කොමීඩියා ඩෙල් ආටේ
+- ཀོ་མེ་དི་ཡ་དེལ་ཨར་ཏེ།
+- კომედია დელ არტე
+- コンメディア・デッラルテ
+- 意大利即興喜劇
+- 義大利即興喜劇
+- 콤메디아 델라르테
 has_id_wikidata: Q191890
 country_of_origin: '[[_Standards/WikiData/WD~Papal_States,170174]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Maschere,3850681]]'
-  - "[[_Standards/WikiData/WD~Costumes_in_commedia_dell'arte,28229130]]"
+- '[[_Standards/WikiData/WD~Maschere,3850681]]'
+- "[[_Standards/WikiData/WD~Costumes_in_commedia_dell'arte,28229130]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
-  - '[[_Standards/WikiData/WD~group_of_works,17489659]]'
+- '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
+- '[[_Standards/WikiData/WD~group_of_works,17489659]]'
 different_from: '[[_Standards/WikiData/WD~Commedia_erudita,12879230]]'
 derivative_work: '[[_Standards/WikiData/WD~mime,39818]]'
 subclass_of: '[[_Standards/WikiData/WD~comedy,40831]]'
@@ -28,8 +53,68 @@ described_at_URL: http://www.treccani.it/enciclopedia/commedia-dell-arte_%28Enci
 P8189: 987007542995905171
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/KOMEDIYA_DEL_ARTE.html
 inception: http://www.wikidata.org/.well-known/genid/6c137cf332d8ff8bf18f336fcd9c9686
+dv_has_:
+  name_:
+    af: Commedia dell'arte
+    ar: ملهاة مرتجلة
+    ast: Comedia del arte
+    be-tarask: камэдыя дэль артэ
+    bg: Комедия дел арте
+    bo: ཀོ་མེ་དི་ཡ་དེལ་ཨར་ཏེ།
+    ca: Commedia dell'arte
+    cs: Commedia dell'arte
+    cy: commedia dell'arte
+    da: commedia dell'arte
+    de: Commedia dell’arte
+    el: Κομέντια ντελ άρτε
+    en: commedia dell'arte
+    eo: Delarto
+    es: comedia del arte
+    et: Commedia dell'arte
+    eu: commedia dell'arte
+    fa: کمدی هنرمندان
+    fi: commedia dell’arte
+    fr: commedia dell'arte
+    gl: Commedia dell’arte
+    he: קומדיה דל'ארטה
+    hr: Commedia dell'arte
+    hu: commedia dell’arte
+    hy: Կոմեդիա դել'արտե
+    is: ítalski gamanleikurinn
+    it: commedia dell'arte
+    ja: コンメディア・デッラルテ
+    ka: კომედია დელ არტე
+    ko: 콤메디아 델라르테
+    la: Comoedia artis
+    lmo: Cumedia de l'art
+    lt: Commedia dell'arte
+    lv: Delartiskā komēdija
+    mk: Комедија дел арте
+    mt: Commedia dell’arte
+    nb: commedia dell'arte
+    nl: Commedia dell'arte
+    nn: Commedia dell'arte
+    oc: Commedia dell'arte
+    pl: Commedia dell’arte
+    pt: Commedia dell'arte
+    ro: commedia dell'arte
+    ru: комедия дель арте
+    sh: Commedia dell'arte
+    si: කොමීඩියා ඩෙල් ආටේ
+    sk: Commedia dell’Arte
+    sl: commedia dell'arte
+    sr: комедија дел арте
+    sr-ec: комедија дел арте
+    sr-el: komedija del arte
+    sv: commedia dell'arte
+    tr: commedia dell'arte
+    uk: Комедія дель арте
+    vi: Commedia dell'arte
+    yue: 意大利即興喜劇
+    zh: 義大利即興喜劇
+    zh-hant: 義大利即興喜劇
+    zh-tw: 義大利即興喜劇
 ---
-
 # [[Commedia_dell'arte]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Commedia_dell'arte,191890|WD~Commedia_dell'arte,191890]] 

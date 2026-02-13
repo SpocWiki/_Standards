@@ -1,4 +1,127 @@
-
+---
+has_id_wikidata: Q338450
+dv_has_:
+  name_:
+    ar: تانجو
+    arz: تانجو
+    az: tanqo
+    ba: Танго
+    be: танга
+    be-tarask: танга
+    bg: Танго
+    bn: ট্যাঙ্গো
+    br: Tango
+    bs: Tango
+    ca: tango
+    ceb: Tanggo
+    ckb: تانگۆ
+    co: Tangu
+    cs: tango
+    da: Tango
+    de: Tango
+    el: Τάγκο
+    en: tango
+    en-us: tango
+    eo: tango
+    es: tango
+    et: tango
+    eu: tango
+    fa: تانگو
+    fi: tango
+    fr: tango
+    fur: Tango
+    gl: Tango
+    gn: Tángo (jeroky)
+    he: טנגו
+    hi: टैंगो
+    hr: Tango
+    hu: tangó
+    hy: Տանգո
+    ia: Tango
+    id: Tango (tarian)
+    it: tango
+    ja: タンゴ
+    ka: ტანგო
+    kk: Танго
+    ko: 탱고
+    ku: Tango
+    ky: танго
+    lb: Tango
+    lij: Tango
+    lt: Tango
+    lv: Tango
+    mk: Танго
+    ml: ടാൻഗോ
+    mzn: تانگو
+    nb: tango
+    ne: ट्याङ्गो
+    nl: tango
+    oc: Tango
+    pa: ਟੈਂਗੋ
+    pl: tango
+    pt: tango
+    qu: Tango
+    ro: Tango
+    ru: танго
+    sc: Tango
+    scn: Tango
+    se: tango
+    sh: Tango
+    sk: tango
+    sl: tango
+    smn: tango
+    sms: tango
+    sq: Tango
+    sr: Танго
+    sr-ec: танго
+    sr-el: tango
+    sv: tango
+    ta: தாங்கோ
+    te: టాంగో
+    tl: Tanggo
+    tr: Tango
+    tt: танго
+    uk: танго
+    ur: ٹینگو
+    uz: Tango
+    vec: Tango
+    vi: Tango
+    wa: Tango
+    war: Tanggo
+    wuu: 探戈
+    yi: טאנגא
+    yue: 探戈
+    zh: 探戈
+aliases:
+- Tanggo
+- tango
+- Tango (tarian)
+- Tangu
+- tangó
+- tanqo
+- Tángo (jeroky)
+- Τάγκο
+- танга
+- танго
+- Տանգո
+- טאנגא
+- טנגו
+- تانجو
+- تانگو
+- تانگۆ
+- ٹینگو
+- टैंगो
+- ट्याङ्गो
+- ট্যাঙ্গো
+- ਟੈਂਗੋ
+- தாங்கோ
+- టాంగో
+- ടാൻഗോ
+- ტანგო
+- タンゴ
+- 探戈
+- 탱고
+---
 # [[Tango]]  
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Tango,338450|WD~Tango,338450]] 

@@ -1,11 +1,38 @@
 ---
-has_time_started: 1712-01-01 
+has_time_started: 1712-01-01
 aliases:
-  - Newcomen_atmospheric_engine
-  - Newcomen atmospheric engine
-  - atmospheric engine
-  - Newcomen_Steam_Engine
-  - Newcomen Steam Engine
+- Atmosferický parní stroj
+- atmosferyczny silnik parowy
+- atmosfæremotor
+- Atmosférický parný stroj
+- atmospheric engine
+- Macchina a vapore di Thomas Newcomen
+- Mesin atmosfer Newcomen
+- màquina de Newcomen
+- Máquina Atmosférica de Newcomen
+- máquina de Newcomen
+- Newcomen atmospheric engine
+- Newcomen buhar makinesi
+- Newcomen Steam Engine
+- Newcomen Steam Ingine
+- Newcomen-gufuvél
+- Newcomenov atmosferski motor
+- Newcomenova mašina
+- Newcomen_atmospheric_engine
+- Newcomen_Steam_Engine
+- Nyukomenin buxar maşını
+- pompe à feu
+- Stoommachine van Newcomen
+- Stoommasine fan Newcomen
+- Парова машина Томаса Ньюкомена
+- Паровая машина Ньюкомена
+- מנוע הקיטור של ניוקומן
+- محرك نيوكومن الجوي
+- نیوکومین ماحول انجن
+- 紐科門蒸氣引擎
+- 紐科門蒸汽機
+- 纽科门蒸汽机
+- 蒸気機関
 has_id_wikidata: Q2224989
 named_after: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Newcomen,193042]]'
@@ -13,8 +40,39 @@ start_time: 1712-01-01T00:00:00Z
 time_of_discovery_or_invention: 1712-01-01T00:00:00Z
 subclass_of: '[[_Standards/WikiData/WD~steam_engine,12760]]'
 Commons_category: Newcomen engines
+dv_has_:
+  name_:
+    ar: محرك نيوكومن الجوي
+    az: Nyukomenin buxar maşını
+    ca: màquina de Newcomen
+    cs: Atmosferický parní stroj
+    en: Newcomen atmospheric engine
+    es: máquina de Newcomen
+    fr: pompe à feu
+    fy: Stoommasine fan Newcomen
+    he: מנוע הקיטור של ניוקומן
+    id: Mesin atmosfer Newcomen
+    is: Newcomen-gufuvél
+    it: Macchina a vapore di Thomas Newcomen
+    ja: 蒸気機関
+    nb: atmosfæremotor
+    nl: Stoommachine van Newcomen
+    nn: Atmosfæremotor
+    pl: atmosferyczny silnik parowy
+    pt: Máquina Atmosférica de Newcomen
+    ru: Паровая машина Ньюкомена
+    sco: Newcomen Steam Ingine
+    sh: Newcomenova mašina
+    sk: Atmosférický parný stroj
+    sl: Newcomenov atmosferski motor
+    tr: Newcomen buhar makinesi
+    uk: Парова машина Томаса Ньюкомена
+    ur: نیوکومین ماحول انجن
+    zh: 紐科門蒸氣引擎
+    zh-cn: 纽科门蒸汽机
+    zh-hans: 纽科门蒸汽机
+    zh-hant: 紐科門蒸汽機
 ---
-
 # [[Newcomen_Steam_Engine]] 
 
 #is_/same_as :: [[WD~Newcomen_Steam_Engine,2224989]]

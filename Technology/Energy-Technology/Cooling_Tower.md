@@ -1,27 +1,147 @@
 ---
 aliases:
+- chladiaca veža
+- chladicí věž
+- chłodnia kominowa
+- cooling tower
+- Cuilin touer
+- dzesēšanas tornis
+- Gradïrnya
+- hladilni stolp
+- hozteko dorre
+- hűtőtorony
+- Jahutustorn
+- Jäähdytystorni
+- kjøletårn
+- koeltoren
+- Kyltorn
+- Kæliturn
+- Kühlturm
+- malvarmiga turo
+- Menara pendingin
+- Menara penyejuk
+- Rashladni toranj
+- soğutma kulesi
+- tháp giải nhiệt
+- Tor ëd rafreidament
+- Toranj za hlađenje
+- Torre de refrigeració
+- Torre de refrigeración
+- Torre de refrixeración
+- torre de resfriamento
+- torre di raffreddamento
+- tour aéroréfrigérante
+- Turn de răcire
+- tŵr oeri
+- πύργος ψύξης
+- Градзірня
+- градирня
+- градырня
+- Охладителна кула
+- разладна кула
+- Торањ за хлађење
+- מגדל קירור
+- برج تبريد
+- برج خنککننده
+- گرادىيرنيا
+- कुलिङ टावर
+- कूलिंग टॉवर
+- ಶೈತ್ಯಗೋಪುರ
+- 冷却塔
+- 冷卻塔
+- 냉각탑
 has_id_wikidata: Q193886
 subclass_of:
-  - "[[_Standards/WikiData/WD~heat_exchanger,189124]]"
-  - "[[_Standards/WikiData/WD~hyperboloid_structure,1580122]]"
-  - "[[_Standards/WikiData/WD~tower,12518]]"
-shape: "[[_Standards/WikiData/WD~hyperboloid,505628]]"
-has_part_s_: "[[_Standards/WikiData/WD~chiller,1501558]]"
-different_from: "[[_Standards/WikiData/WD~cool_store,1796951]]"
-instance_of: "[[_Standards/WikiData/WD~nonbiological_component,66310125]]"
-Nomenclature_for_Museum_Cataloging: "215"
-OmegaWiki_Defined_Meaning: "756"
+- '[[_Standards/WikiData/WD~heat_exchanger,189124]]'
+- '[[_Standards/WikiData/WD~hyperboloid_structure,1580122]]'
+- '[[_Standards/WikiData/WD~tower,12518]]'
+shape: '[[_Standards/WikiData/WD~hyperboloid,505628]]'
+has_part_s_: '[[_Standards/WikiData/WD~chiller,1501558]]'
+different_from: '[[_Standards/WikiData/WD~cool_store,1796951]]'
+instance_of: '[[_Standards/WikiData/WD~nonbiological_component,66310125]]'
+Nomenclature_for_Museum_Cataloging: 215
+OmegaWiki_Defined_Meaning: 756
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Sequoyah%20Nuclear%20Power%20Plant%20cooling%20towers.jpg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cooling%20towers%20in%20the%20sunset%2C%20Ratcliffe%20Power%20Station%20-%20geograph.org.uk%20-%20396420.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Evaporative%20Cooling%20Tower.jpg
-Common_Procurement_Vocabulary_code: "31140000"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cooling%20towers%20in%20the%20sunset%2C%20Ratcliffe%20Power%20Station%20-%20geograph.org.uk%20-%20396420.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Evaporative%20Cooling%20Tower.jpg
+Common_Procurement_Vocabulary_code: 31140000
 Commons_category: Cooling towers
 OpenStreetMap_tag_or_key:
-  - Tag:man_made=cooling_tower
-  - Tag:tower:type=cooling
+- Tag:man_made=cooling_tower
+- Tag:tower:type=cooling
+dv_has_:
+  name_:
+    ar: برج تبريد
+    ast: Torre de refrigeración
+    ba: Градирня
+    be: Градзірня
+    be-tarask: градырня
+    bg: Охладителна кула
+    ca: Torre de refrigeració
+    cs: chladicí věž
+    cy: tŵr oeri
+    de: Kühlturm
+    el: πύργος ψύξης
+    en: cooling tower
+    eo: malvarmiga turo
+    es: torre de refrigeración
+    et: Jahutustorn
+    eu: hozteko dorre
+    fa: برج خنککننده
+    fi: Jäähdytystorni
+    fr: tour aéroréfrigérante
+    gl: Torre de refrixeración
+    he: מגדל קירור
+    hi: कूलिंग टॉवर
+    hr: Rashladni toranj
+    hu: hűtőtorony
+    id: Menara pendingin
+    is: Kæliturn
+    it: torre di raffreddamento
+    ja: 冷却塔
+    kk: Градирня
+    kk-arab: گرادىيرنيا
+    kk-cn: گرادىيرنيا
+    kk-cyrl: Градирня
+    kk-kz: Градирня
+    kk-latn: Gradïrnya
+    kk-tr: Gradïrnya
+    kn: ಶೈತ್ಯಗೋಪುರ
+    ko: 냉각탑
+    lv: dzesēšanas tornis
+    mk: разладна кула
+    ms: Menara penyejuk
+    nb: kjøletårn
+    ne: कुलिङ टावर
+    nl: koeltoren
+    pl: chłodnia kominowa
+    pms: Tor ëd rafreidament
+    pt: torre de resfriamento
+    ro: Turn de răcire
+    ru: градирня
+    sco: Cuilin touer
+    sh: Rashladni toranj
+    sk: chladiaca veža
+    sl: hladilni stolp
+    sr: Торањ за хлађење
+    sr-ec: Торањ за хлађење
+    sr-el: Toranj za hlađenje
+    sv: Kyltorn
+    ta: cooling tower
+    tr: soğutma kulesi
+    uk: градирня
+    vi: tháp giải nhiệt
+    wuu: 冷却塔
+    yue: 冷卻塔
+    zh: 冷却塔
+    zh-cn: 冷却塔
+    zh-hans: 冷却塔
+    zh-hant: 冷卻塔
+    zh-hk: 冷卻塔
+    zh-sg: 冷却塔
+    zh-tw: 冷卻塔
 ---
-
 # [[Cooling_Tower]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cooling_tower,193886|WD~Cooling_tower,193886]] 

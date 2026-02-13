@@ -1,6 +1,37 @@
 ---
 aliases:
-  - Bremsstrahlung
+- Bremsestråling
+- bremsradiado
+- Bremsstrahlung
+- bromsstrålning
+- Brzdné záření
+- Brzdné žiarenie
+- fékezési sugárzás
+- Jarrutussäteily
+- Promieniowanie hamowania
+- radiació de frenada
+- radiación de frenado
+- Radiación de frenáu
+- rayonnement continu de freinage
+- remstraling
+- Zakočeno zračenje
+- Zakočno zračenje
+- zavorno sevanje
+- Ακτινοβολία πέδησης
+- Гальмівне випромінювання
+- закочно зрачење
+- тармазное выпраменьваньне
+- Тармазное выпрамяненне
+- Тормозное излучение
+- קרינת בלימה
+- أشعة انكباح
+- تابش ترمزی
+- अवमंदक विकिरण
+- เบรมส์ชตราลุง
+- 制動放射
+- 軔致輻射
+- 轫致辐射
+- 제동 복사
 has_id_wikidata: Q655904
 subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
 has_effect: '[[_Standards/WikiData/WD~electromagnetic_wave,11386]]'
@@ -9,8 +40,57 @@ Commons_category: Bremsstrahlung
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bremsstrahlung.png
 IEV_number: 881-02-18
 P8189: 987007282511805171
+dv_has_:
+  name_:
+    ar: أشعة انكباح
+    ast: Radiación de frenáu
+    be: Тармазное выпрамяненне
+    be-tarask: тармазное выпраменьваньне
+    bs: Zakočno zračenje
+    ca: radiació de frenada
+    cs: Brzdné záření
+    da: Bremsestråling
+    de: Bremsstrahlung
+    el: Ακτινοβολία πέδησης
+    en: bremsstrahlung
+    eo: bremsradiado
+    es: radiación de frenado
+    eu: bremsstrahlung
+    fa: تابش ترمزی
+    fi: Jarrutussäteily
+    fr: rayonnement continu de freinage
+    ga: Bremsstrahlung
+    he: קרינת בלימה
+    hi: अवमंदक विकिरण
+    hr: Zakočeno zračenje
+    hu: fékezési sugárzás
+    id: Bremsstrahlung
+    it: Bremsstrahlung
+    ja: 制動放射
+    ko: 제동 복사
+    mk: закочно зрачење
+    nb: bremsstrahlung
+    nl: remstraling
+    nn: Bremsestråling
+    pl: Promieniowanie hamowania
+    pt: Bremsstrahlung
+    ru: Тормозное излучение
+    sk: Brzdné žiarenie
+    sl: zavorno sevanje
+    sr: Закочно зрачење
+    sr-ec: Закочно зрачење
+    sr-el: Zakočno zračenje
+    sv: bromsstrålning
+    th: เบรมส์ชตราลุง
+    tl: Bremsstrahlung
+    tr: Bremsstrahlung
+    uk: Гальмівне випромінювання
+    ur: Bremsstrahlung
+    zh: 轫致辐射
+    zh-hans: 轫致辐射
+    zh-hant: 軔致輻射
+    zh-hk: 軔致輻射
 ---
-
 # [[Bremsstrahlung]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bremsstrahlung,655904|WD~Bremsstrahlung,655904]] 

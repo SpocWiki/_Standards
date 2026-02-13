@@ -1,81 +1,506 @@
 ---
 aliases:
-  - Periodic table
-  - Periodic_Table
-  - Periodic Table
-  - Periodensystem
+- an vosen beriodek
+- apỹi kímiko rechaukaha
+- ayiren imezzi
+- bảng tuần hoàn
+- Chapotera cheNhangande Dzakadevana
+- chiu-kî-piáu
+- clàr pillteach
+- dhaptar unsur miturut lambang
+- dikni selratni cartu
+- drah kimia
+- etánda ya bileko
+- gabatee pireediikii
+- gome la nyengo-na-nyengo la vya kaŵiro
+- himiki elementleriň periodik ulgamy
+- himiyaviy elementlerniñ devriy sisteması
+- himižiden elementoiden periodine tablut
+- i-periodic table
+- jadual berkala
+- Jadwalka Curiyayaasha
+- jaksollinen järjestelmä
+- keemiliste elementide perioodilisussüsteem
+- kimyəvi elementlərin dövri cədvəli
+- lotukerfið
+- mendelejevi tapõl
+- metha Njokereri
+- mfumo radidia
+- ngièn-su Chû-khì-péu
+- perioda tabelo
+- periodala tabelo dil elementaro
+- periodalaš tabealla
+- Periodensystem
+- Periodesystem
+- Periodesystem vun den Elementer
+- periodesystemet
+- periodic cairt
+- Periodic table
+- periodická tabulka
+- periodická tabuľka
+- Periodic_Table
+- periodiek systeem
+- periodiek systeem vaan elemente
+- periodiek système
+- periodieke tabel
+- periodiki sistemi
+- periodiko a lamisaan dagiti elemento
+- periodinė elementų lentelė
+- periodiska systemet
+- periodiske system
+- periodiske Tabelle
+- periodni sistem
+- periodni sistem elemenata
+- periodni sistem elementov
+- periodni sustav
+- Periodnsysdem
+- periodyk systeem fan de eleminten
+- perioodisch tabäle
+- periuodėnė elementu lentalė
+- periyodik tablo
+- periódusos rendszer
+- peryodikong tableta
+- piiriadik tiebl
+- qallawap ñiqi rakirinkuna
+- ripanga pūmotu
+- ráiđulâš vuáhádâh
+- sistemi periodik i elementeve
+- skeiðbundna skipanin
+- systema periodicum
+- sîstema vedorî ya elementan
+- taabyl reiltagh ny bunstooghyn
+- tab periodik
+- tabel periodik
+- tabela periodica di elemenc
+- tabela periódica
+- tabele periodiche
+- tabella periodic del elementos
+- tabelle periodic
+- tabellu periodicu a elementiľoru
+- tabelul periodic al elementelor
+- tabeła periòdica
+- tabilao ny singa
+- tabl cyfnodol
+- tabla periodica d'os elementos
+- tabla periódica
+- tabla periódica de los elementos
+- table periodal de la elementos
+- tableau périodique
+- tableau périodique des éléments
+- tablo klasifikasyon peryodik eleman
+- tablo péryodik di sé éléman
+- tabloyo periyodik
+- tablèu periodic dels elements
+- tabol Pariodik
+- tabra periúdica e los elementus
+- tabèl periódiko
+- tabél periodik
+- tabél périodik
+- taflwit tazdawant n ifrḍisn
+- tafole ya periodiki
+- talaang peryodiko
+- taolenn beriodek an elfennoù
+- taramdan peryodiko
+- taula periodica
+- taula periodikoa
+- taula periòdica
+- taula periòdica de is elementos
+- tavele periodiche
+- tavla perjodika
+- tavola periodica
+- tavola periodica degli elementi
+- tebol bilong ol elemen
+- tlapēuhcāyōtl nemachiyōtīlpāntli
+- tàula periòdica
+- tàvula piriòdica
+- tábla peiriadach
+- táboa periódica dos elementos
+- tábìlì ìgbà
+- tåvlea periodike des elemints
+- układ okresowy pierwiastków
+- ukłŏd ôkresowy elymyntōw
+- unsurlarning davriy jadvali
+- yenzsoq couhgibyauj
+- ķīmisko elementu periodiskā tabula
+- περιοδικόν πινάκιν
+- περιοδικός πίνακας των χημικών στοιχείων
+- ёзнэтъёслэн периодической сӧзнэтсы
+- Аелементқәа рпериодикатә система
+- менделеевның периодик таблицасы
+- періодічна сістема елементів
+- періодична система елементів
+- периоддэз сьӧрті химия ӧтувторрезлӧн тэчас
+- периоден систем на елементите
+- периодическая система химических элементов
+- периодична система
+- периодни систем
+- периодни систем елемената
+- периодтаах таабыл
+- перыядычная сістэма элементаў
+- пэрыядычная сыстэма хімічных элемэнтаў
+- химе элементий мура система
+- химий тӱҥлык-влакын периодик радамлыкше
+- химик элементтарҙың периодик системаһы
+- химиктиг элементилерниң периодтуг системазы
+- химин хӀумалгийн рогӀаллин система
+- химия элементъяслӧн период система
+- Химиядин элементрин девирдин система
+- химиялық элементтердің периодтық жүйесі
+- элементсен периодикăллă системи
+- элементтердин мезгилдик тутуму
+- элементты периодон системæ
+- үелхэ системэ
+- үелэх систем
+- ҷадвали даврии элементҳои кимёӣ
+- պարբերական աղյուսակ
+- הטבלה המחזורית
+- פעריאדישע טאבעלע
+- ئېلېمېنتلارنىڭ دەۋرىي جەەدۋىلى
+- الجدول الدوري
+- بابل
+- جدوال برکالا
+- جدول تناوبی
+- جدول دورى
+- جدول دوري
+- جدول پشت سریک کاری عناصر
+- خشتەی خولی
+- دوري جدول
+- دوری جدول
+- دوری خاکہٕ
+- پیریاڈک ٹیبل
+- کیمیاسال المنت لر تابلوسو
+- ޕީރިއަޑިކް ތާވަލު
+- आवर्त सारणी
+- आवर्तसारणी
+- पिरियोडिक टेबल
+- पीरियॉडिक टेबल
+- পর্যায় সারণী
+- পৰ্যাবৃত্ত তালিকা
+- ਪੀਰੀਆਡਿਕ ਟੇਬਲ
+- આવર્ત કોષ્ટક
+- ପର୍ଯ୍ୟାୟ ସାରଣୀ
+- தனிம அட்டவணை
+- విస్తృత ఆవర్తన పట్టిక
+- ಆವರ್ತ ಕೋಷ್ಟಕ
+- ആവർത്തനപ്പട്ടിക
+- ආවර්තිතා වගුව
+- ตารางธาตุ
+- ຕາລາງທາດ
+- རྩ་རྫས་ཀྱི་དུས་འཁོར་རེའུ་མིག།
+- ဒြပ်စင်အလှည့်ကျဇယား
+- သ္ၚိအင်ကာလ
+- အထဲ့ရော့ꩻ ထာꩻရွောင်
+- ქიმიურ ელემენტეფიშ პერიოდული სისტემა
+- ქიმიურ ელემენტთა პერიოდული სისტემა
+- የንጥረ ነገሮች ሠንጠረዥ
+- តារាងខួបនៃធាតុគីមី
+- 元素周期表
+- 元素週期表
+- 周期表
+- 멘델레예브원소주기표
+- 주기율표
 has_id_wikidata: Q10693
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20Table%20-%20Atomic%20Radius%20%28Tolle%20via%20Thingiverse%29.stl
-based_on: "[[_Standards/WikiData/WD~periodic_trends,2622089]]"
+based_on: '[[_Standards/WikiData/WD~periodic_trends,2622089]]'
 Colon_Classification: E:17
 Commons_category: Periodic table
 Commons_gallery: Periodic table of elements
-country_of_origin: "[[_Standards/WikiData/WD~Russian_Empire,34266]]"
-depicted_by: "[[_Standards/WikiData/WD~Tableau_périodique_des_éléments,63967990]]"
-depicts: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+country_of_origin: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+depicted_by: '[[_Standards/WikiData/WD~Tableau_périodique_des_éléments,63967990]]'
+depicts: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 Dewey_Decimal_Classification: 546.8
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]"
-does_not_have_part: "[[_Standards/WikiData/WD~isotope,25276]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]'
+does_not_have_part: '[[_Standards/WikiData/WD~isotope,25276]]'
 Gujarati_Vishwakosh_entry: આવર્તક-કોષ્ટક
 has_part_s_:
-  - "[[_Standards/WikiData/WD~group,83306]]"
-  - "[[_Standards/WikiData/WD~period,101843]]"
-  - "[[_Standards/WikiData/WD~block,193099]]"
+- '[[_Standards/WikiData/WD~group,83306]]'
+- '[[_Standards/WikiData/WD~period,101843]]'
+- '[[_Standards/WikiData/WD~block,193099]]'
 has_time_started: 1869-03-06
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Periodic%20table%20%2832-col%2C%20enwiki%29%2C%20black%20and%20white.png
 inception: 1869-03-06
-instance_of: "[[_Standards/WikiData/WD~chemical_classification,732744]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_classification,732744]]'
 Krugosvet_article: nauka_i_tehnika/himiya/PERIODICHESKAYA_SISTEMA_ELEMENTOV.html
-location_of_creation: "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
+location_of_creation: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
 named_after:
-  - "[[_Standards/WikiData/WD~period,101843]]"
-  - "[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]"
+- '[[_Standards/WikiData/WD~period,101843]]'
+- '[[_Standards/WikiData/WD~Dmitri_Mendeleev,9106]]'
 OmegaWiki_Defined_Meaning: 8381
-part_of: "[[_Standards/WikiData/WD~extended_periodic_table,428887]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q18325033,18325033]]"
+part_of: '[[_Standards/WikiData/WD~extended_periodic_table,428887]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18325033,18325033]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%20%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%A3%E0%A7%80.wav
 short_name:
-  - PSdE
-  - PSE
-subclass_of: "[[_Standards/WikiData/WD~table,496946]]"
+- PSdE
+- PSE
+subclass_of: '[[_Standards/WikiData/WD~table,496946]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Periodic_table_(32_columns,_micro),5485101]]"
-  - "[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]"
-  - "[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]"
-  - "[[_Standards/WikiData/WD~Template_Navbox_periodic_table,6439622]]"
-  - "[[_Standards/WikiData/WD~Template_Periodic_table_(group_names),19822721]]"
+- '[[_Standards/WikiData/WD~Template_Periodic_table_(32_columns,_micro),5485101]]'
+- '[[_Standards/WikiData/WD~Template_Periodic_table_(navbox),5866775]]'
+- '[[_Standards/WikiData/WD~Template_Periodic_table,6310132]]'
+- '[[_Standards/WikiData/WD~Template_Navbox_periodic_table,6439622]]'
+- '[[_Standards/WikiData/WD~Template_Periodic_table_(group_names),19822721]]'
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Erfindung%20des%20Periodensystems.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Orbitales%20atomiques%20et%20classification%20p%C3%A9riodique.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Erfindung%20des%20Periodensystems.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Orbitales%20atomiques%20et%20classification%20p%C3%A9riodique.ogv
 dv_is_:
-  similar_to: "[[Table_of_Nuclides]]"
+  similar_to: '[[Table_of_Nuclides]]'
   same_as:
-    - "[[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]]"
-    - "[[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]]"
-dv_is_similar_to: "[[Table_of_Nuclides]]"
+  - '[[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]]'
+  - '[[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]]'
+dv_is_similar_to: '[[Table_of_Nuclides]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]]"
-  - "[[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]]"
+- '[[../../WikiData/WD~Periodic_table,10693|WD~Periodic_table,10693]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Periodic_Table|Periodic_Table]]'
+- '[[/_public/Chemistry/Chemical_Element/Periodic_Table.public|Periodic_Table.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Periodic_Table.internal|Periodic_Table.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Periodic_Table.protect|Periodic_Table.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Periodic_Table.private|Periodic_Table.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Periodic_Table.personal|Periodic_Table.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Periodic_Table.secret|Periodic_Table.secret]]'
+dv_has_:
+  name_:
+    ab: Аелементқәа рпериодикатә система
+    ace: drah kimia
+    af: periodieke tabel
+    am: የንጥረ ነገሮች ሠንጠረዥ
+    an: tabla periodica d'os elementos
+    anp: आवर्त सारणी
+    ar: الجدول الدوري
+    ary: جدول دوري
+    arz: جدول دورى
+    as: পৰ্যাবৃত্ত তালিকা
+    ast: tabla periódica
+    awa: पीरियॉडिक टेबल
+    az: kimyəvi elementlərin dövri cədvəli
+    azb: کیمیاسال المنت لر تابلوسو
+    ba: химик элементтарҙың периодик системаһы
+    ban: tabél périodik
+    bar: Periodnsysdem
+    bcl: peryodikong tableta
+    be: перыядычная сістэма элементаў
+    be-tarask: пэрыядычная сыстэма хімічных элемэнтаў
+    bg: периодична система
+    bho: पीरियॉडिक टेबल
+    blk: အထဲ့ရော့ꩻ ထာꩻရွောင်
+    bn: পর্যায় সারণী
+    bo: རྩ་རྫས་ཀྱི་དུས་འཁོར་རེའུ་མིག།
+    bpy: পর্যায় সারণী
+    br: taolenn beriodek an elfennoù
+    bs: periodni sistem
+    bxr: үелхэ системэ
+    ca: taula periòdica
+    cdo: 元素週期表
+    ce: химин хӀумалгийн рогӀаллин система
+    ceb: talaang peryodiko
+    ckb: خشتەی خولی
+    co: tavola periodica
+    crh: himiyaviy elementlerniñ devriy sisteması
+    cs: periodická tabulka
+    cv: элементсен периодикăллă системи
+    cy: tabl cyfnodol
+    da: periodiske system
+    de: Periodensystem
+    diq: tabloyo periyodik
+    dv: ޕީރިއަޑިކް ތާވަލު
+    el: περιοδικός πίνακας των χημικών στοιχείων
+    en: periodic table
+    en-ca: periodic table
+    en-gb: periodic table
+    en-us: periodic table
+    eo: perioda tabelo
+    es: tabla periódica de los elementos
+    et: keemiliste elementide perioodilisussüsteem
+    eu: taula periodikoa
+    ext: tabra periúdica e los elementus
+    fa: جدول تناوبی
+    fi: jaksollinen järjestelmä
+    fo: skeiðbundna skipanin
+    fr: tableau périodique des éléments
+    frr: perioodisch tabäle
+    fur: tabele periodiche
+    fy: periodyk systeem fan de eleminten
+    ga: tábla peiriadach
+    gan: 元素週期表
+    gcr: tablo péryodik di sé éléman
+    gd: clàr pillteach
+    gl: táboa periódica dos elementos
+    gn: apỹi kímiko rechaukaha
+    gsw: Periodesystem
+    gu: આવર્ત કોષ્ટક
+    gv: taabyl reiltagh ny bunstooghyn
+    hak: ngièn-su Chû-khì-péu
+    he: הטבלה המחזורית
+    hi: आवर्त सारणी
+    hif: periodic table
+    hr: periodni sustav
+    ht: tablo klasifikasyon peryodik eleman
+    hu: periódusos rendszer
+    hy: պարբերական աղյուսակ
+    ia: tabella periodic del elementos
+    id: tabel periodik
+    ie: tabelle periodic
+    ilo: periodiko a lamisaan dagiti elemento
+    inh: химе элементий мура система
+    io: periodala tabelo dil elementaro
+    is: lotukerfið
+    it: tavola periodica degli elementi
+    ja: 周期表
+    jam: piiriadik tiebl
+    jbo: dikni selratni cartu
+    jv: dhaptar unsur miturut lambang
+    ka: ქიმიურ ელემენტთა პერიოდული სისტემა
+    kab: ayiren imezzi
+    kge: tabol Pariodik
+    ki: metha Njokereri
+    kk: химиялық элементтердің периодтық жүйесі
+    km: តារាងខួបនៃធាតុគីមី
+    kn: ಆವರ್ತ ಕೋಷ್ಟಕ
+    ko: 주기율표
+    koi: периоддэз сьӧрті химия ӧтувторрезлӧн тэчас
+    ko-kp: 멘델레예브원소주기표
+    ks: دوری خاکہٕ
+    ku: sîstema vedorî ya elementan
+    kv: химия элементъяслӧн период система
+    kw: an vosen beriodek
+    ky: элементтердин мезгилдик тутуму
+    la: systema periodicum
+    lb: Periodesystem vun den Elementer
+    lez: Химиядин элементрин девирдин система
+    lfn: table periodal de la elementos
+    li: periodiek systeem vaan elemente
+    lld: tabela periodica di elemenc
+    lmo: taula periodica
+    ln: etánda ya bileko
+    lo: ຕາລາງທາດ
+    lrc: جدول پشت سریک کاری عناصر
+    lt: periodinė elementų lentelė
+    lv: ķīmisko elementu periodiskā tabula
+    lzh: 元素週期表
+    mag: आवर्त सारणी
+    mg: tabilao ny singa
+    mhr: химий тӱҥлык-влакын периодик радамлыкше
+    mi: ripanga pūmotu
+    min: tabel periodik
+    mk: периоден систем на елементите
+    ml: ആവർത്തനപ്പട്ടിക
+    mn: үелэх систем
+    mnw: သ္ၚိအင်ကာလ
+    mr: आवर्त सारणी
+    ms: jadual berkala
+    ms-arab: جدوال برکالا
+    mt: tavla perjodika
+    mwl: tabela periódica
+    my: ဒြပ်စင်အလှည့်ကျဇယား
+    nah: tlapēuhcāyōtl nemachiyōtīlpāntli
+    nan: chiu-kî-piáu
+    nb: periodesystemet
+    nds: Periodensystem
+    ne: आवर्त सारणी
+    new: पिरियोडिक टेबल
+    nl: periodiek systeem
+    nn: periodesystemet
+    oc: tablèu periodic dels elements
+    om: gabatee pireediikii
+    or: ପର୍ଯ୍ୟାୟ ସାରଣୀ
+    os: элементты периодон системæ
+    pa: ਪੀਰੀਆਡਿਕ ਟੇਬਲ
+    pam: periodic table
+    pap: tabèl periódiko
+    pcd: tableau périodique
+    pl: układ okresowy pierwiastków
+    pms: tàula periòdica
+    pnb: پیریاڈک ٹیبل
+    pnt: περιοδικόν πινάκιν
+    ps: بابل
+    pt: tabela periódica
+    pt-br: tabela periódica
+    qu: qallawap ñiqi rakirinkuna
+    rki: periodic table
+    ro: tabelul periodic al elementelor
+    roa-tara: tavele periodiche
+    ru: периодическая система химических элементов
+    rue: періодічна сістема елементів
+    rup: tabellu periodicu a elementiľoru
+    sa: आवर्तसारणी
+    sah: периодтаах таабыл
+    sc: taula periòdica de is elementos
+    scn: tàvula piriòdica
+    sco: periodic cairt
+    sd: دوري جدول
+    se: periodalaš tabealla
+    sgs: periuodėnė elementu lentalė
+    sh: periodni sistem elemenata
+    shi: taflwit tazdawant n ifrḍisn
+    si: ආවර්තිතා වගුව
+    sk: periodická tabuľka
+    sl: periodni sistem elementov
+    smn: ráiđulâš vuáhádâh
+    sn: Chapotera cheNhangande Dzakadevana
+    so: Jadwalka Curiyayaasha
+    sq: sistemi periodik i elementeve
+    sr: периодни систем
+    sr-ec: периодни систем елемената
+    srn: periodiki sistemi
+    st: tafole ya periodiki
+    stq: periodiske Tabelle
+    su: tabél periodik
+    sv: periodiska systemet
+    sw: mfumo radidia
+    szl: ukłŏd ôkresowy elymyntōw
+    ta: தனிம அட்டவணை
+    te: విస్తృత ఆవర్తన పట్టిక
+    tg: ҷадвали даврии элементҳои кимёӣ
+    th: ตารางธาตุ
+    tk: himiki elementleriň periodik ulgamy
+    tl: talaang peryodiko
+    tpi: tebol bilong ol elemen
+    tr: periyodik tablo
+    tt: менделеевның периодик таблицасы
+    tt-cyrl: менделеевның периодик таблицасы
+    tum: gome la nyengo-na-nyengo la vya kaŵiro
+    tyv: химиктиг элементилерниң периодтуг системазы
+    udm: ёзнэтъёслэн периодической сӧзнэтсы
+    ug: ئېلېمېنتلارنىڭ دەۋرىي جەەدۋىلى
+    uk: періодична система елементів
+    ur: دوری جدول
+    uz: unsurlarning davriy jadvali
+    vec: tabeła periòdica
+    vep: himižiden elementoiden periodine tablut
+    vi: bảng tuần hoàn
+    vls: periodiek système
+    vo: tab periodik
+    vro: mendelejevi tapõl
+    wa: tåvlea periodike des elemints
+    war: taramdan peryodiko
+    wuu: 元素周期表
+    xmf: ქიმიურ ელემენტეფიშ პერიოდული სისტემა
+    yi: פעריאדישע טאבעלע
+    yo: tábìlì ìgbà
+    yue: 元素週期表
+    za: yenzsoq couhgibyauj
+    zh: 元素周期表
+    zh-cn: 元素周期表
+    zh-hans: 元素周期表
+    zh-hant: 元素週期表
+    zh-hk: 元素週期表
+    zh-mo: 元素週期表
+    zh-my: 元素周期表
+    zh-sg: 元素周期表
+    zh-tw: 元素週期表
+    zu: i-periodic table
 ---
-
 # [[Periodic_Table]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

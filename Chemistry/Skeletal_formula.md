@@ -1,29 +1,85 @@
 ---
 aliases:
-  - Skeletal formula
-  - line-angle formula
-  - bond-line formula
-  - shorthand formula
-  - Skeletal_formula
+- bond-line formula
+- formule topologique
+- fórmula esqueletal
+- fórmula esquelética
+- Förenklad strukturformel
+- line-angle formula
+- Rumus kerangka
+- shorthand formula
+- Skeletal formula
+- Skeletalna formula
+- Skeletal_formula
+- Skeletformel
+- Skeletformule
+- Skeletna formula
+- skeletstructuur
+- Skelettformel
+- Skelettvalem
+- skjelettformel
+- Viivakaava
+- vonalképlet
+- wzór strukturalny
+- скелетна формула
+- скелетная формула
+- شكل هيكلي
+- فرمول اسکلتی
+- 鍵線式
+- 键线式
+- 骨格式
+- 골격 구조식
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Skeletal_formula|Skeletal_formula]]"
-    - "[[/_public/Chemistry/Skeletal_formula.public|Skeletal_formula.public]]"
-    - "[[/_internal/Chemistry/Skeletal_formula.internal|Skeletal_formula.internal]]"
-    - "[[/_protect/Chemistry/Skeletal_formula.protect|Skeletal_formula.protect]]"
-    - "[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]"
-    - "[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]"
-    - "[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]"
+  - '[[/_Standards/Chemistry/Skeletal_formula|Skeletal_formula]]'
+  - '[[/_public/Chemistry/Skeletal_formula.public|Skeletal_formula.public]]'
+  - '[[/_internal/Chemistry/Skeletal_formula.internal|Skeletal_formula.internal]]'
+  - '[[/_protect/Chemistry/Skeletal_formula.protect|Skeletal_formula.protect]]'
+  - '[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]'
+  - '[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]'
+  - '[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Skeletal_formula|Skeletal_formula]]"
-  - "[[/_public/Chemistry/Skeletal_formula.public|Skeletal_formula.public]]"
-  - "[[/_internal/Chemistry/Skeletal_formula.internal|Skeletal_formula.internal]]"
-  - "[[/_protect/Chemistry/Skeletal_formula.protect|Skeletal_formula.protect]]"
-  - "[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]"
-  - "[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]"
-  - "[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]"
+- '[[/_Standards/Chemistry/Skeletal_formula|Skeletal_formula]]'
+- '[[/_public/Chemistry/Skeletal_formula.public|Skeletal_formula.public]]'
+- '[[/_internal/Chemistry/Skeletal_formula.internal|Skeletal_formula.internal]]'
+- '[[/_protect/Chemistry/Skeletal_formula.protect|Skeletal_formula.protect]]'
+- '[[/_private/Chemistry/Skeletal_formula.private|Skeletal_formula.private]]'
+- '[[/_personal/Chemistry/Skeletal_formula.personal|Skeletal_formula.personal]]'
+- '[[/_secret/Chemistry/Skeletal_formula.secret|Skeletal_formula.secret]]'
+has_id_wikidata: Q899274
+dv_has_:
+  name_:
+    af: Skeletformule
+    ar: شكل هيكلي
+    bs: Skeletna formula
+    ca: fórmula esqueletal
+    da: Skeletformel
+    de: Skelettformel
+    en: skeletal formula
+    es: fórmula esqueletal
+    et: Skelettvalem
+    fa: فرمول اسکلتی
+    fi: Viivakaava
+    fr: formule topologique
+    hu: vonalképlet
+    id: Rumus kerangka
+    ja: 骨格式
+    ko: 골격 구조식
+    mk: скелетна формула
+    nl: skeletstructuur
+    nn: skjelettformel
+    pl: wzór strukturalny
+    pt: fórmula esquelética
+    ru: скелетная формула
+    sl: skeletna formula
+    sr: Skeletalna formula
+    sv: Förenklad strukturformel
+    uk: скелетна формула
+    zh: 键线式
+    zh-hans: 键线式
+    zh-hant: 鍵線式
+    zh-hk: 鍵線式
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Skeletal formula**, line-angle formula, bond-line formula 

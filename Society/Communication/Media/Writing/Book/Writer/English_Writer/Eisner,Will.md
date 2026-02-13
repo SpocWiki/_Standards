@@ -1,10 +1,77 @@
 ---
 aliases:
-  - Will Eisner
-  - William Erwin Eisner
-  - Eisner,Will
+- Eisner,Will
+- Will Eisner
+- William Erwin Eisner
+- Γουίλ Άισνερ
+- Вілл Айснер
+- Вил Ајзнер
+- Уил Айзнър
+- Уилл Айснер
+- ՈՒիլլ Այսներ
+- ויל אייזנר
+- ويل إيسنر
+- ويل ايسنر
+- ویل آیزنر
+- ウィル・アイズナー
+- 威尔·埃斯纳
+- 威爾·埃斯納
+- 威爾·艾斯納
+- 윌 아이스너
+has_id_wikidata: Q309850
+dv_has_:
+  name_:
+    ar: ويل إيسنر
+    arz: ويل ايسنر
+    ast: Will Eisner
+    bg: Уил Айзнър
+    ca: Will Eisner
+    cs: Will Eisner
+    cy: Will Eisner
+    da: Will Eisner
+    de: Will Eisner
+    el: Γουίλ Άισνερ
+    en: Will Eisner
+    eo: Will Eisner
+    es: Will Eisner
+    eu: Will Eisner
+    fa: ویل آیزنر
+    fi: Will Eisner
+    fr: Will Eisner
+    fy: Will Eisner
+    ga: Will Eisner
+    gl: Will Eisner
+    he: ויל אייזנר
+    hu: Will Eisner
+    hy: ՈՒիլլ Այսներ
+    it: Will Eisner
+    ja: ウィル・アイズナー
+    ko: 윌 아이스너
+    la: Will Eisner
+    nb: Will Eisner
+    nl: Will Eisner
+    nn: Will Eisner
+    pap: Will Eisner
+    pl: Will Eisner
+    pt: Will Eisner
+    pt-br: Will Eisner
+    ro: Will Eisner
+    ru: Уилл Айснер
+    sl: Will Eisner
+    sq: Will Eisner
+    sr: Вил Ајзнер
+    sv: Will Eisner
+    tr: Will Eisner
+    uk: Вілл Айснер
+    yue: 威爾·艾斯納
+    zh: 威尔·埃斯纳
+    zh-cn: 威尔·埃斯纳
+    zh-hans: 威尔·埃斯纳
+    zh-hant: 威爾·埃斯納
+    zh-hk: 威爾·艾斯納
+    zh-sg: 威尔·埃斯纳
+    zh-tw: 威爾·艾斯納
 ---
-
 # [[Eisner,Will]] 
 
 #has_/time_/started :: 1917-03-06

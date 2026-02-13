@@ -1,14 +1,42 @@
 ---
 aliases:
-  - Moving the goalposts
-  - shifting the goalposts
+- Changer les règles du jeu
+- Mover los postes de la portería
+- Moving the goalposts
+- Mudar as regras do jogo
+- Mutarea ștachetei
+- Porteriak mugitze
+- premikanje vratnic
+- shifting the goalposts
+- הזזת עמודי השער
+- مغالطة تحريك المرمى
+- ムービング・ゴールポスト
+- 挪动门柱
+- 挪動門柱
+- 搬龍門
 has_id_wikidata: Q3244473
 instance_of:
-  - "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
-  - "[[_Standards/WikiData/WD~metaphor,18534]]"
-named_after: "[[_Standards/WikiData/WD~goalpost,4810284]]"
+- '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
+- '[[_Standards/WikiData/WD~metaphor,18534]]'
+named_after: '[[_Standards/WikiData/WD~goalpost,4810284]]'
+dv_has_:
+  name_:
+    ar: مغالطة تحريك المرمى
+    en: moving the goalposts
+    es: Mover los postes de la portería
+    eu: Porteriak mugitze
+    fr: Changer les règles du jeu
+    he: הזזת עמודי השער
+    ja: ムービング・ゴールポスト
+    pt: Mudar as regras do jogo
+    ro: Mutarea ștachetei
+    sl: premikanje vratnic
+    yue: 搬龍門
+    zh: 挪動門柱
+    zh-hans: 挪动门柱
+    zh-hant: 挪動門柱
+    zh-hk: 挪動門柱
 ---
-
 # [[Moving_Goalpost_Fallacy]] 
 
 #is_/same_as :: [[WD~Moving_the_goalposts,3244473]] 

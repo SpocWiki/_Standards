@@ -1,9 +1,40 @@
 ---
 aliases:
-  - World Masterpiece Theater
-  - World_Masterpiece_Theater
+- World Masterpiece Theater
+- World_Masterpiece_Theater
+- Кінотеатр світових шедеврів
+- تئاتر شاهکار جهان
+- مسرح تحف العالم
+- 世界名作剧场
+- 世界名作劇場
+- 세계명작극장
+has_id_wikidata: Q1197782
+dv_has_:
+  name_:
+    ar: مسرح تحف العالم
+    ast: World Masterpiece Theater
+    de: World Masterpiece Theater
+    en: World Masterpiece Theater
+    es: World Masterpiece Theater
+    fa: تئاتر شاهکار جهان
+    fr: World Masterpiece Theater
+    gl: World Masterpiece Theater
+    hu: World Masterpiece Theater
+    it: World Masterpiece Theater
+    ja: 世界名作劇場
+    ko: 세계명작극장
+    nl: World Masterpiece Theater
+    pl: World Masterpiece Theater
+    pt: World Masterpiece Theater
+    ru: World Masterpiece Theater
+    sv: World Masterpiece Theater
+    tr: World Masterpiece Theater
+    uk: Кінотеатр світових шедеврів
+    zh: 世界名作劇場
+    zh-hans: 世界名作剧场
+    zh-hant: 世界名作劇場
+    zh-hk: 世界名作劇場
 ---
-
 > **World Masterpiece Theater** (世界名作劇場, Sekai Meisaku Gekijō) is a Japanese TV animated series 
 > that showcased an animated version of a different classical book or story 
 > each year from 19:30 to 20:00 on Sunday on [[Fuji_TV]]. 

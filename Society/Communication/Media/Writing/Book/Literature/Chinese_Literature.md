@@ -1,4 +1,134 @@
-
+---
+has_id_wikidata: Q456012
+dv_has_:
+  name_:
+    ar: أدب صيني
+    arz: ادب صينى
+    ast: Lliteratura de China
+    az: Çin ədəbiyyatı
+    ba: Ҡытай әҙәбиәте
+    be: Кітайская літаратура
+    be-tarask: кітайская літаратура
+    bjn: Sastra Tiongkok
+    bn: চীনা সাহিত্য
+    bs: Kineska književnost
+    ca: literatura xinesa
+    cs: čínská literatura
+    de: Chinesische Literatur
+    en: Chinese literature
+    eo: Ĉinlingva literaturo
+    es: literatura de China
+    et: Hiina kirjandus
+    eu: Txinerazko literatura
+    fa: ادبیات چین
+    fi: Kiinan kirjallisuus
+    fr: littérature chinoise
+    gl: Literatura da China
+    he: ספרות סינית
+    hi: चीनी भाषा और साहित्य
+    hr: Kineska književnost
+    hu: kínai irodalom
+    hy: Չինական գրականություն
+    id: Sejarah Sastra Tionghoa
+    is: kínverskar bókmenntir
+    it: letteratura cinese
+    ja: 中国文学
+    ka: ჩინური ლიტერატურა
+    kk: Қытай әдебиеті
+    ko: 중국 문학
+    la: Litterae Sinarum
+    lb: Chineesesch Literatur
+    lt: Kinijos literatūra
+    lv: ķīniešu literatūra
+    mk: Кинеска книжевност
+    ml: ചൈനീസ് സാഹിത്യം
+    ms: Kesusasteraan Cina
+    new: चिनियाँ साहित्य
+    nl: Chinese literatuur
+    nn: Kinesisk litteratur
+    pa: ਚੀਨੀ ਸਾਹਿਤ
+    pl: Literatura chińska
+    pt: Literatura da China
+    ro: Literatură chineză
+    ru: китайская литература
+    sk: Čínska literatúra
+    sl: kitajska književnost
+    sr: Kineska književnost
+    sv: kinesisk litteratur
+    ta: சீன இலக்கியம்
+    tr: Çin edebiyatı
+    tt: Кытай әдәбияты
+    uk: Китайська література
+    ur: چینی ادب
+    vi: văn học Trung Quốc
+    war: Literatura Tsinino
+    yue: 中文文學
+    zh: 中國文學
+    zh-cn: 中国文学
+    zh-hans: 中国文学
+    zh-hant: 中國文學
+    zh-hk: 中國文學
+    zh-sg: 中国文学
+    zh-tw: 中國文學
+aliases:
+- Chineesesch Literatur
+- Chinese literature
+- Chinese literatuur
+- Chinesische Literatur
+- Hiina kirjandus
+- Kesusasteraan Cina
+- Kiinan kirjallisuus
+- Kinesisk litteratur
+- Kineska književnost
+- Kinijos literatūra
+- kitajska književnost
+- kínai irodalom
+- kínverskar bókmenntir
+- letteratura cinese
+- Literatura chińska
+- Literatura da China
+- literatura de China
+- Literatura Tsinino
+- literatura xinesa
+- Literatură chineză
+- Litterae Sinarum
+- littérature chinoise
+- Lliteratura de China
+- Sastra Tiongkok
+- Sejarah Sastra Tionghoa
+- Txinerazko literatura
+- văn học Trung Quốc
+- Çin edebiyatı
+- Çin ədəbiyyatı
+- Ĉinlingva literaturo
+- Čínska literatúra
+- čínská literatura
+- ķīniešu literatūra
+- Кітайская літаратура
+- Кинеска книжевност
+- китайская литература
+- Китайська література
+- Кытай әдәбияты
+- Қытай әдебиеті
+- Ҡытай әҙәбиәте
+- Չինական գրականություն
+- ספרות סינית
+- أدب صيني
+- ادب صينى
+- ادبیات چین
+- چینی ادب
+- चिनियाँ साहित्य
+- चीनी भाषा और साहित्य
+- চীনা সাহিত্য
+- ਚੀਨੀ ਸਾਹਿਤ
+- சீன இலக்கியம்
+- ചൈനീസ് സാഹിത്യം
+- ჩინური ლიტერატურა
+- 中国文学
+- 中國文學
+- 中文文學
+- 중국 문학
+---
 ## #has_/text_of_/abstract 
 
 > The history of Chinese literature extends thousands of years, 

@@ -1,25 +1,175 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Ionization_energy,483769]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]"
+  - '[[../../../../../WikiData/WD~Ionization_energy,483769]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Ionization_energy,483769]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]"
+- '[[../../../../../WikiData/WD~Ionization_energy,483769]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy|Ionization_Energy]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.public|Ionization_Energy.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.internal|Ionization_Energy.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.protect|Ionization_Energy.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.private|Ionization_Energy.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.personal|Ionization_Energy.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ionization_Energy.secret|Ionization_Energy.secret]]'
+has_id_wikidata: Q483769
+dv_has_:
+  name_:
+    af: Ionisasie-energie
+    an: Enerchía d'ionización
+    ar: طاقة تأين
+    ast: Enerxía d'ionización
+    be: Энергія іянізацыі
+    be-tarask: энэргія іянізацыі
+    bg: Йонизационна енергия
+    bn: আয়নীকরণ শক্তি
+    bs: Energija ionizacije
+    ca: energia d'ionització
+    cs: ionizační potenciál
+    cv: Ионизаци энергийĕ
+    cy: Egni ïoneiddiad
+    da: Ioniseringsenergi
+    de: Ionisierungsenergie
+    el: Ενέργεια ιονισμού
+    en: ionization energy
+    en-gb: ionisation energy
+    eo: joniga energio
+    es: energía de ionización
+    et: Ionisatsioonienergia
+    eu: Ionizazio-potentzial
+    fa: انرژی یونش
+    fi: ionisoitumisenergia
+    fr: énergie d'ionisation
+    ga: fuinneamh ianúcháin
+    gl: enerxía de ionización
+    he: אנרגיית יינון
+    hi: आयनन ऊर्जा
+    hr: Energija ionizacije
+    ht: Enèji iyonizasyon
+    hu: ionizációs energia
+    hy: Իոնացման էներգիա
+    id: Energi ionisasi
+    it: energia di ionizzazione
+    ja: イオン化エネルギー
+    ka: იონიზაციის ენერგია
+    kk: Иондалу потенциалы
+    ko: 이온화 에너지
+    lb: Ioniséierungsenergie
+    lv: jonizācijas potenciāls
+    mk: енергија на јонизација
+    ml: അയോണീകരണ ഊർജം
+    mn: Иончлолын энерги
+    ms: Tenaga pengionan
+    nb: ioniseringsenergi
+    nds: Ionisatschoonsenergie
+    nl: ionisatiepotentiaal
+    nn: ioniseringsenergi
+    oc: Potencial d'ionizacion dels elements
+    pl: potencjał jonizacyjny
+    pt: potencial de ionização
+    ro: energie de ionizare
+    ru: энергия ионизации
+    sh: Energija jonizacije
+    si: අයනීකරණ ශක්තිය
+    sk: Ionizačná energia
+    sl: ionizacijska energija
+    sq: Energjia e jonizuar
+    sr: енергија јонизације
+    sr-ec: енергија јонизације
+    sr-el: Energija jonizacije
+    sv: jonisationspotential
+    ta: மின்மமாக்கும் ஆற்றல்
+    th: พลังงานไอออไนเซชัน
+    tk: Baglanyşyk energiýasy
+    tr: İyonlaşma enerjisi
+    udm: ионизацилэн кужымез
+    uk: Енергія іонізації
+    ur: تائین توانائی
+    uz: Ionlashish energiyasi
+    vi: Năng lượng ion hóa
+    wuu: 电离能
+    yue: 電離能
+    zh: 电离能
+    zh-hans: 电离能
+    zh-hant: 電離能
+    zh-hk: 電離能
+aliases:
+- Baglanyşyk energiýasy
+- Egni ïoneiddiad
+- Enerchía d'ionización
+- Energi ionisasi
+- energia d'ionització
+- energia di ionizzazione
+- energie de ionizare
+- Energija ionizacije
+- Energija jonizacije
+- Energjia e jonizuar
+- energía de ionización
+- Enerxía d'ionización
+- enerxía de ionización
+- Enèji iyonizasyon
+- fuinneamh ianúcháin
+- Ionisasie-energie
+- ionisatiepotentiaal
+- ionisation energy
+- Ionisatschoonsenergie
+- Ionisatsioonienergia
+- ioniseringsenergi
+- Ionisierungsenergie
+- ionisoitumisenergia
+- Ioniséierungsenergie
+- ionizacijska energija
+- ionization energy
+- Ionizazio-potentzial
+- Ionizačná energia
+- ionizační potenciál
+- ionizációs energia
+- Ionlashish energiyasi
+- joniga energio
+- jonisationspotential
+- jonizācijas potenciāls
+- Năng lượng ion hóa
+- Potencial d'ionizacion dels elements
+- potencial de ionização
+- potencjał jonizacyjny
+- Tenaga pengionan
+- énergie d'ionisation
+- İyonlaşma enerjisi
+- Ενέργεια ιονισμού
+- Енергія іонізації
+- енергија јонизације
+- енергија на јонизација
+- Иондалу потенциалы
+- Ионизаци энергийĕ
+- ионизацилэн кужымез
+- Иончлолын энерги
+- Йонизационна енергия
+- Энергія іянізацыі
+- энергия ионизации
+- энэргія іянізацыі
+- Իոնացման էներգիա
+- אנרגיית יינון
+- انرژی یونش
+- تائین توانائی
+- طاقة تأين
+- आयनन ऊर्जा
+- আয়নীকরণ শক্তি
+- மின்மமாக்கும் ஆற்றல்
+- അയോണീകരണ ഊർജം
+- අයනීකරණ ශක්තිය
+- พลังงานไอออไนเซชัน
+- იონიზაციის ენერგია
+- イオン化エネルギー
+- 电离能
+- 電離能
+- 이온화 에너지
 ---
-
 # [[Ionization_Energy]] 
 
 #is_/same_as :: [[WD~Ionization_energy,483769]] 

@@ -1,4 +1,38 @@
-
+---
+has_id_wikidata: Q306418
+dv_has_:
+  name_:
+    ca: eDonkey
+    en: eDonkey network
+    es: Red eDonkey
+    he: EDonkey
+    hu: EDonkey hálózat
+    ja: eDonkey
+    ko: 당나귀
+    nb: eDonkey nettverket
+    nl: eDonkeynetwerk
+    pl: Ed2k
+    ru: EDonkey2000
+    sl: omrežje eDonkey
+    sv: EDonkey
+    tr: Ed2k
+    uk: EDonkey2000
+    zh: EDonkey网络
+    zh-hans: eDonkey网络
+    zh-hant: eDonkey网络
+aliases:
+- Ed2k
+- eDonkey
+- EDonkey hálózat
+- eDonkey nettverket
+- eDonkey network
+- EDonkey2000
+- eDonkeynetwerk
+- EDonkey网络
+- omrežje eDonkey
+- Red eDonkey
+- 당나귀
+---
 ## #has_/text_of_/abstract 
 
 > The eDonkey Network (also known as the eDonkey2000 network or eD2k) 

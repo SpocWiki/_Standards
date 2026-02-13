@@ -1,22 +1,160 @@
 ---
 aliases:
-  - mass extinction
-  - biotic crisis
-  - Extinction_Event
-  - Extinction Event
+- Amas extingo
+- biotic crisis
+- Bûyera nemanê
+- difodiant mawr bywyd
+- Disparisyon an mas
+- Estinción masiva
+- estinzione di massa
+- eveniment de extincție
+- Exstinctio maior
+- Extincion massisa
+- extinció massiva
+- extinción en masa
+- extinción masiva
+- Extinction Event
+- extinction massive
+- Extinction_Event
+- extinção em massa
+- fjöldaútdauði
+- formortiga evento
+- hromadné vymieranie
+- hromadné vymírání
+- Iraungipen masibo
+- joukkosukupuutto
+- Kapunahan massal
+- kepunahan massal
+- Kepupusan besar-besaran
+- kihalási esemény
+- Lepu ntshi a taʼ legʉɔ mbik
+- Masovna izumiranja
+- Masovno izumiranje
+- masowe wymieranie
+- mass extinction
+- Massa-ekstinksje
+- massa-extinctie
+- Massa-uutstervienge
+- Massenaussterben
+- masseuddøen
+- masseutryddelse
+- Masseutrydding
+- Massiline väljasuremine
+- massutdöende
+- Masveida izmiršana
+- množično izumrtje
+- Sự kiện tuyệt chủng
+- Yok olma olayı
+- Yox olma hadisəsi
+- Γεγονός μαζικού αφανισμού
+- масавае выміраньне
+- масове вимирання
+- масовно изумирање
+- Масово измиране
+- Массăллă пĕтни
+- массовое вымирание
+- הכחדה המונית
+- انقراض
+- حدث انقراض
+- رویداد انقراض
+- معدومیت کا واقعہ
+- ߕߌߢߍߟߌ ߞߏ
+- विलुप्ति घटना
+- বিলুপ্তি ঘটনা
+- இனவழிப்பு நிகழ்வு
+- การสูญพันธุ์ครั้งใหญ่
+- ການສູນພັນຄັ້ງໃຫຍ່
+- ព្រឹត្តិការណ៍ផុតពូជ
+- 大量絶滅
+- 生物集群灭绝
+- 集體絕種
+- 대량 멸종
 has_id_wikidata: Q55814
 subclass_of:
-  - '[[_Standards/WikiData/WD~extinction,123509]]'
-  - '[[_Standards/WikiData/WD~bioevent,4914809]]'
-  - '[[_Standards/WikiData/WD~existential_risk,16830153]]'
+- '[[_Standards/WikiData/WD~extinction,123509]]'
+- '[[_Standards/WikiData/WD~bioevent,4914809]]'
+- '[[_Standards/WikiData/WD~existential_risk,16830153]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q10554369,10554369]]'
 has_cause: '[[_Standards/WikiData/WD~global_environmental_change,134519251]]'
 short_name: ELE
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artensterben%20im%20Wandel%20der%20Zeit.webm
 Commons_category: Mass extinctions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Extinction%20Intensity.svg
+dv_has_:
+  name_:
+    ar: حدث انقراض
+    ast: Estinción masiva
+    az: Yox olma hadisəsi
+    be-tarask: масавае выміраньне
+    bg: Масово измиране
+    bn: বিলুপ্তি ঘটনা
+    bs: Masovno izumiranje
+    ca: extinció massiva
+    cs: hromadné vymírání
+    cv: Массăллă пĕтни
+    cy: difodiant mawr bywyd
+    da: masseuddøen
+    de: Massenaussterben
+    el: Γεγονός μαζικού αφανισμού
+    en: extinction event
+    en-ca: extinction event
+    en-gb: extinction event
+    en-us: Extinction event
+    eo: formortiga evento
+    es: extinción masiva
+    et: Massiline väljasuremine
+    eu: Iraungipen masibo
+    fa: رویداد انقراض
+    fi: joukkosukupuutto
+    fr: extinction massive
+    fy: Massa-ekstinksje
+    gl: extinción en masa
+    he: הכחדה המונית
+    hi: विलुप्ति घटना
+    hr: Masovna izumiranja
+    ht: Disparisyon an mas
+    hu: kihalási esemény
+    id: kepunahan massal
+    io: Amas extingo
+    is: fjöldaútdauði
+    it: estinzione di massa
+    ja: 大量絶滅
+    km: ព្រឹត្តិការណ៍ផុតពូជ
+    ko: 대량 멸종
+    ku: Bûyera nemanê
+    la: Exstinctio maior
+    lo: ການສູນພັນຄັ້ງໃຫຍ່
+    lv: Masveida izmiršana
+    mk: масовно изумирање
+    ms: Kepupusan besar-besaran
+    nb: masseutryddelse
+    nl: massa-extinctie
+    nn: Masseutrydding
+    nqo: ߕߌߢߍߟߌ ߞߏ
+    oc: Extincion massisa
+    pl: masowe wymieranie
+    ps: انقراض
+    pt: extinção em massa
+    pt-br: Extinção em massa
+    ro: eveniment de extincție
+    ru: массовое вымирание
+    sh: Masovna izumiranja
+    sk: hromadné vymieranie
+    sl: množično izumrtje
+    sr: Masovna izumiranja
+    su: Kapunahan massal
+    sv: massutdöende
+    ta: இனவழிப்பு நிகழ்வு
+    th: การสูญพันธุ์ครั้งใหญ่
+    tr: Yok olma olayı
+    uk: масове вимирання
+    ur: معدومیت کا واقعہ
+    vi: Sự kiện tuyệt chủng
+    vls: Massa-uutstervienge
+    ybb: Lepu ntshi a taʼ legʉɔ mbik
+    yue: 集體絕種
+    zh: 生物集群灭绝
 ---
-
 # [[Extinction_Event]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Extinction_event,55814|WD~Extinction_event,55814]] 

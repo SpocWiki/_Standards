@@ -1,50 +1,207 @@
 ---
 aliases:
-  - Pesach
-  - חַג הַפֶּסַח
-  - Ḥag hapPesaḥ
-  - Passover
+- Cáisc na nGiúdach
+- Fisih bayrami
+- Gawai Paska Judah
+- Hamursuz Bayramı
+- Kapenga
+- Lễ Vượt Qua
+- Paasapühad
+- Pasaka ya Kiyahudi
+- Pascha
+- Pasche ebraiche
+- Pascua xudía
+- Pasha
+- Paska jiosy
+- Paskah Yahudi
+- Paskuwa
+- Passover
+- Pesac'h
+- Pesach
+- Pesachas
+- Pesah
+- Pesax
+- Pesaĥo
+- Pesaḥ
+- Pessa'h
+- Pessach
+- Pessah
+- Páskahald gyðinga
+- Pésaj
+- pészah
+- Yaɣigari Chuɣu
+- Εβραϊκό Πάσχα
+- Дээгүүр өнгөрөх баяр
+- Пасха
+- Песах
+- Пэсах
+- Փեսախ
+- חַג הַפֶּסַח
+- פסח
+- جەژنی پێسح
+- عيد الفصح
+- عيد الفصح اليهودي
+- عید فسح
+- پسح
+- پیساخ
+- পেসাখ
+- பாஸ்கா
+- పాస్ ఓవర్
+- പെസഹാ
+- උපරිගමන් උත්සවය
+- ปัสคา
+- ფესახი
+- បុណ្យរំលង
+- Ḥag hapPesaḥ
+- 逾越節
+- 逾越节
+- 過越
+- 유월절
 has_id_wikidata: Q121393
 subclass_of:
-  - '[[_Standards/WikiData/WD~Jewish_holiday,94920]]'
-  - '[[_Standards/WikiData/WD~Yom_Tov,3572511]]'
+- '[[_Standards/WikiData/WD~Jewish_holiday,94920]]'
+- '[[_Standards/WikiData/WD~Yom_Tov,3572511]]'
 month_of_the_year: '[[_Standards/WikiData/WD~Nisan,208192]]'
 foods_traditionally_associated:
-  - '[[_Standards/WikiData/WD~matzah,211361]]'
-  - '[[_Standards/WikiData/WD~matzah_ball,559201]]'
-  - '[[_Standards/WikiData/WD~matzah_brei,2654880]]'
+- '[[_Standards/WikiData/WD~matzah,211361]]'
+- '[[_Standards/WikiData/WD~matzah_ball,559201]]'
+- '[[_Standards/WikiData/WD~matzah_brei,2654880]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 commemorates: '[[_Standards/WikiData/WD~The_Exodus,1290338]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~holiday,1445650]]'
-  - '[[_Standards/WikiData/WD~Three_Pilgrimage_Festivals,1517900]]'
+- '[[_Standards/WikiData/WD~holiday,1445650]]'
+- '[[_Standards/WikiData/WD~Three_Pilgrimage_Festivals,1517900]]'
 day_in_year_for_periodic_occurrence:
-  - '[[_Standards/WikiData/WD~18_Nisan,2906241]]'
-  - '[[_Standards/WikiData/WD~19_Nisan,2906277]]'
-  - '[[_Standards/WikiData/WD~15_Nisan,2911896]]'
-  - '[[_Standards/WikiData/WD~17_Nisan,2912200]]'
-  - '[[_Standards/WikiData/WD~22_Nisan,2912297]]'
-  - '[[_Standards/WikiData/WD~16_Nisan,2912314]]'
-  - '[[_Standards/WikiData/WD~20_Nisan,2912320]]'
-  - '[[_Standards/WikiData/WD~21_Nisan,12408426]]'
+- '[[_Standards/WikiData/WD~18_Nisan,2906241]]'
+- '[[_Standards/WikiData/WD~19_Nisan,2906277]]'
+- '[[_Standards/WikiData/WD~15_Nisan,2911896]]'
+- '[[_Standards/WikiData/WD~17_Nisan,2912200]]'
+- '[[_Standards/WikiData/WD~22_Nisan,2912297]]'
+- '[[_Standards/WikiData/WD~16_Nisan,2912314]]'
+- '[[_Standards/WikiData/WD~20_Nisan,2912320]]'
+- '[[_Standards/WikiData/WD~21_Nisan,12408426]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Passover_footer,13100192]]'
 duration:
-  - 7
-  - 8
+- 7
+- 8
 U_S_National_Archives_Identifier: 10647924
 Commons_category: Passover
 native_label: פסח
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pessach%20Pesach%20Pascha%20Judentum%20Ungesaeuert%20Seder%20datafox.jpg
 RIA_Novosti_reference: 45597058
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PESAH.html
+dv_has_:
+  name_:
+    af: Pessach
+    ar: عيد الفصح اليهودي
+    arz: عيد الفصح
+    ast: Pascua xudía
+    az: Pesah
+    ba: Песах
+    bar: Pessach
+    bcl: Paskuwa
+    be: Песах
+    be-tarask: Пэсах
+    bg: Пасха
+    bn: পেসাখ
+    br: Pesac'h
+    bs: Pesah
+    ca: Pessa'h
+    ceb: Pesaḥ
+    ckb: جەژنی پێسح
+    cs: Pesach
+    cy: Pessach
+    da: Pesach
+    dag: Yaɣigari Chuɣu
+    de: Pessach
+    diq: Pesax
+    el: Εβραϊκό Πάσχα
+    en: Passover
+    en-ca: Passover
+    en-gb: Passover
+    en-us: Passover
+    eo: Pesaĥo
+    es: Pésaj
+    et: Paasapühad
+    eu: Pessah
+    fa: پسح
+    fi: Pesah
+    fr: Pessa'h
+    fur: Pasche ebraiche
+    ga: Cáisc na nGiúdach
+    gl: Pessach
+    gsw: Pessach
+    he: פסח
+    hr: Pasha
+    hu: pészah
+    hy: Փեսախ
+    ia: Pascha
+    iba: Gawai Paska Judah
+    id: Paskah Yahudi
+    is: Páskahald gyðinga
+    it: Pesach
+    ja: 過越
+    ka: ფესახი
+    km: បុណ្យរំលង
+    ko: 유월절
+    ky: Пасха
+    la: Pascha
+    lad: Pesah
+    lmo: Pesach
+    lt: Pesachas
+    lv: Pasha
+    mg: Paska jiosy
+    mi: Kapenga
+    mk: Пасха
+    ml: പെസഹാ
+    mn: Дээгүүр өнгөрөх баяр
+    ms: Paskah Yahudi
+    nb: Pesach
+    nl: Pesach
+    nn: Pesah
+    pl: Pesach
+    pnb: پیساخ
+    pt: Pessach
+    pt-br: Pessach
+    ro: Pesah
+    ru: Песах
+    sh: Pasha
+    si: උපරිගමන් උත්සවය
+    sk: Pesach
+    sl: pasha
+    sr: Пасха
+    sr-ec: Пасха
+    sr-el: Pasha
+    sv: Pesach
+    sw: Pasaka ya Kiyahudi
+    ta: பாஸ்கா
+    te: పాస్ ఓవర్
+    th: ปัสคา
+    tl: Pesaḥ
+    tr: Hamursuz Bayramı
+    uk: Песах
+    ur: عید فسح
+    uz: Fisih bayrami
+    vi: Lễ Vượt Qua
+    war: Pesaḥ
+    wuu: 逾越节
+    xmf: ფესახი
+    yi: פסח
+    yue: 逾越節
+    zh: 逾越節
+    zh-cn: 逾越节
+    zh-hans: 逾越节
+    zh-hant: 逾越節
+    zh-hk: 逾越節
+    zh-sg: 逾越节
+    zh-tw: 逾越節
 ---
-
 # [[Passover]] 
 
 #is_/same_as :: [[WD~Passover,121393]] 

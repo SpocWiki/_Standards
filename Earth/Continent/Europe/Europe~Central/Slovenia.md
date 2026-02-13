@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 斯洛文尼亚共和国
 dv_UNTERM_French_Formal: la République de Slovénie
 dv_UNTERM_Russian: Словения
 dv_UNTERM_Russian_Formal: Республика Словения
-dv_Region_Name: "[[../../Europe]]"
-dv_Intermediate_Region_Name: "[[Slovenia]]"
-dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region_Name: '[[../../Europe]]'
+dv_Intermediate_Region_Name: '[[Slovenia]]'
+dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
 dv_Sub-region: 39
 dv_Geoname-ID: 3190538
@@ -52,460 +52,912 @@ dv_ISO2: SI
 dv_ISO3: SVN
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Slovenia,215|WD~Slovenia,215]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia|Slovenia]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]]"
+  - '[[../../../../WikiData/WD~Slovenia,215|WD~Slovenia,215]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia|Slovenia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]]'
 dv_has_:
   name_:
+    ab: Словениа
+    ace: Slovenia
+    ady: Словение
+    aeb-arab: سلوڥينيا
+    af: Slowenië
+    am: ስሎቬኒያ
+    ami: Slovenia
+    an: Eslovenia
+    ang: Slofenland
+    anp: स्लोवेनिया
+    ar: سلوفينيا
+    arc: ܣܠܘܒܢܝܐ
+    ary: صلوڤينيا
+    arz: سلوفينيا
+    ast: Eslovenia
+    av: Словения
+    avk: Slovenia
+    awa: स्लोवेनिया
+    ay: Isluwiña
+    az: Sloveniya
+    azb: ایسلوونی
+    ba: Словения
+    ban: Slovénia
+    bar: Slowénien
+    bcl: Slobinya
+    be: Славенія
+    be-tarask: Славенія
+    bew: Slowéni
+    bg: Словения
+    bgn: سلوانیا
+    bho: स्लोवेनिया
+    bi: Slovenia
+    bn: স্লোভেনিয়া
+    bo: སི་ལོ་ཝེ་ནི་ཡ།
+    bpy: স্লোভেনিয়া
+    br: Slovenia
+    bs: Slovenija
+    bxr: Словен
+    ca: Eslovènia
+    cbk-zam: Eslovenia
+    cdo: Slovenia
+    ce: Словени
+    ceb: Eslobenya
+    ch: Eslovenia
+    chr: ᏍᎶᏫᏂᎠ
+    chy: Slovenia
+    ckb: سلۆڤێنیا
+    co: Sluvenia
+    crh: Sloveniya
+    crh-latn: Sloveniya
+    cs: Slovinsko
+    csb: Sloweńskô
+    cu: Їллѷрїиска Словѣнїꙗ
+    cv: Словени
+    cy: Slofenia
+    da: Slovenien
+    dag: Slovenia
+    de: Slowenien
+    de-at: Slowenien
+    de-ch: Slowenien
+    diq: Slowenya
+    dsb: Słowjeńska
+    dty: स्लोभेनिया
+    dv: ސުލޮވީނިއާ
+    dz: སི་ལོ་ཝེ་ཉི་ཡ
+    ee: Slovenia
+    el: Σλοβενία
+    eml: Śluvègna
+    en: Slovenia
+    en-ca: Slovenia
+    en-gb: Slovenia
+    eo: Slovenio
+    es: Eslovenia
+    et: Sloveenia
+    eu: Eslovenia
+    ext: Eslovénia
+    fa: اسلوونی
+    ff: Suloweniya
+    fi: Slovenia
+    fo: Slovenia
+    fr: Slovénie
+    frp: Slovènie
+    frr: Sloweenien
+    fur: Slovenie
+    fy: Sloveenje
+    ga: an tSlóivéin
+    gag: Sloveniya
+    gcr: Slovéni
+    gd: An t-Slòbhain
+    gl: Eslovenia
+    glk: اسلؤوني
+    gn: Eloveña
+    gom: स्लोव्हेनिया
+    gom-deva: स्लोव्हेनिया
+    gom-latn: Slovenia
+    got: "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U00010339\U0001033D\U0001033E\U00010330"
+    gpe: Slovenia
+    gsw: Slowenia
+    gu: સ્લોવેનિયા
+    gv: y Clovean
+    ha: Sloveniya
+    hak: Slovenia
+    haw: Solowenia
+    he: סלובניה
+    hi: स्लोवेनिया
+    hif: Slovenia
+    hr: Slovenija
+    hsb: Słowjenska
+    ht: Sloveni
+    hu: Szlovénia
+    hy: Սլովենիա
+    hyw: Սլովենիա
+    ia: Slovenia
+    iba: Slovenia
+    id: Slovenia
+    ie: Slovenia
+    ig: Slovenia
+    ilo: Eslobenia
+    io: Slovenia
+    is: Slóvenía
+    it: Slovenia
+    ja: スロベニア
+    jam: Sloviinia
+    jbo: slovEni,as
+    jv: Slovénia
+    ka: სლოვენია
+    kaa: Sloveniya
+    kab: Sluvinya
+    kbd: Слоуэнэ
+    kbp: Siloveni
+    kg: Slovenia
+    kk: Словения
+    kl: Slovenia
+    km: ស្លូវេនី
+    kn: ಸ್ಲೊವೇನಿಯ
+    ko: 슬로베니아
+    koi: Словения
+    krc: Словения
+    ks: سلووینیا
+    ku: Slovenya
+    kv: Словения
+    kw: Sloveni
+    ky: Словения
+    la: Slovenia
+    lad: Eslovenia
+    lb: Slowenien
+    lez: Словения
+    lfn: Slovenia
+    lg: Slovenia
+    li: Slovenië
+    lij: Slovénia
+    liv: Slovēnij
+    lld: Slovenia
+    lmo: Slovenia
+    ln: Slovenia
+    lo: ປະເທດສະໂລເວນີ
+    lt: Slovėnija
+    ltg: Sloveneja
+    lv: Slovēnija
+    lzh: 斯洛維尼亞
+    mad: Slovenia
+    map-bms: Slovenia
+    mdf: Словэния
+    mg: Silaovenia
+    mhr: Словений
+    mi: Horowinia
+    min: Slovenia
+    mk: Словенија
+    ml: സ്ലൊവീന്യ
+    mn: Словен
+    mni: ꯁ꯭ꯂꯣꯚꯦꯅꯤꯌꯥ
+    mos: Slovenia
+    mr: स्लोव्हेनिया
+    ms: Slovenia
+    mt: Slovenja
+    mwl: Slobénia
+    my: ဆလိုဗေးနီးယားနိုင်ငံ
+    myv: Словения Мастор
+    mzn: اسلونی
+    na: Tsirobeniya
+    nah: Eslovenia
+    nan: Su-lo̍k-biân
+    nap: Slovenia
+    nb: Slovenia
+    nds: Slowenien
+    nds-nl: Sloveniën
+    ne: स्लोभेनिया
+    new: स्लोभेनिया
+    nl: Slovenië
+    nn: Slovenia
+    nov: Slovenia
+    nrm: Slovénie
+    nv: Słobíín Bikéyah
+    oc: Eslovènia
+    olo: Slovenii
+    om: Isloveeniyaa
+    or: ସ୍ଲୋଭେନିଆ
+    os: Словени
+    pa: ਸਲੋਵੇਨੀਆ
+    pag: Eslovenia
+    pam: Slovenia
+    pap: Slovenia
+    pcd: Slovénie
+    pdc: Slovenia
+    pi: स्लोवीनिया
+    pih: Slowenya
+    pl: Słowenia
+    pms: Slovenia
+    pnb: سلوینیا
+    pnt: Σλοβενία
+    ps: سلووانيا
+    pt: Eslovénia
+    pt-br: Eslovênia
+    qu: Isluwinya
+    rki: ဆလိုဗေးနီးယားသမ္မတနိုင်ငံ
+    rm: Slovenia
+    rmy: Sloveniya
+    ro: Slovenia
+    roa-tara: Slovenie
+    rsk: Зловения
+    ru: Словения
+    rue: Словенія
+    rup: Slovenia
+    rw: Siloveniya
+    sa: स्लोवीनिया
+    sah: Словения
+    sat: ᱥᱞᱳᱵᱷᱮᱱᱤᱭᱟ
+    sc: Islovènia
+    scn: Slovenia
+    sco: Slovenie
+    sd: سلووينیا
+    se: Slovenia
+    sgs: Slovienėjė
+    sh: Slovenija
+    shn: မိူင်းသလူဝ်ႇဝေးၼီးယႃး
+    si: ස්ලෝවේනියාව
+    sk: Slovinsko
+    sl: Slovenija
+    sm: Slovenia
+    sma: Sloveenia
+    smn: Slovenia
+    sms: Slovenia
+    sn: Slovenia
+    so: Isloveeniya
+    sq: Sllovenia
+    sr: Словенија
+    sr-ec: Словенија
+    sr-el: Slovenija
+    srn: Slovenikondre
+    ss: Siloveni
+    st: Slovenia
+    stq: Slowenien
+    su: Slovénia
+    sv: Slovenien
+    sw: Slovenia
+    szl: Słowyńijo
+    szy: Slovenia
+    ta: சுலோவீனியா
+    tay: Slovenia
+    te: స్లోవేనియా
+    tet: Eslovénia
+    tg: Словения
+    th: ประเทศสโลวีเนีย
+    tk: Sloweniýa
+    tl: Slovenia
+    tly: Sloveniyə
+    to: Silōvenia
+    tok: ma Lowensina
+    tpi: Slovenia
+    tr: Slovenya
+    trv: Slovenia
+    ts: Slovenia
+    tt: Словения
+    tum: Slovenia
+    tw: Slovenia
+    udm: Словения
+    ug: Slowéniye
+    uk: Словенія
+    ur: سلووینیا
+    uz: Sloveniya
+    vec: Slovènia
+    vep: Slovenii
+    vi: Slovenia
+    vls: Slovenië
+    vo: Slovenän
+    vro: Sloveeniä
+    wa: Sloveneye
+    war: Eslovenya
+    wo: Esloweeni
+    wuu: 斯洛文尼亚
+    xal: Словенмудин Орн
+    xh: Sloveniya
+    xmf: სლოვენია
+    yi: סלאוועניע
+    yo: Sloféníà
+    yue: 斯洛文尼亞
+    za: Slovenia
+    zea: Slovenië
+    zgh: ⵚⵍⵓⴼⵉⵏⵢⴰ
+    zh: 斯洛文尼亞
+    zh-cn: 斯洛文尼亚
+    zh-hans: 斯洛文尼亚
+    zh-hant: 斯洛維尼亞
+    zh-hk: 斯洛文尼亞
+    zh-tw: 斯洛維尼亞
+    zu: ISloveniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Slovenia
 dv_has_name_de: Slowenien
 dv_Area-Total: 20255
 dv_Area-Land: 20120
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: SLO
-dv_Capital: "[[Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City]]"
+dv_Capital: '[[Slovenia/Regions~Slovenia/Osrednje_slovenska/counties~Osrednjeslovenska/Ljubljana/City/Ljubliana,City]]'
 dv_Alcohol-l: 15.2
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 46.05
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Slovenia,215|WD~Slovenia,215]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia|Slovenia]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]]"
+- '[[../../../../WikiData/WD~Slovenia,215|WD~Slovenia,215]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Slovenia|Slovenia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Slovenia.public|Slovenia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Slovenia.internal|Slovenia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Slovenia.protect|Slovenia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Slovenia.private|Slovenia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Slovenia.personal|Slovenia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Slovenia.secret|Slovenia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Slovenia
-
 aliases:
-  - Slovenia
-  - Eslovenia
-  - Slovénie
-  - سلوفينيا
-  - 斯洛文尼亚
-  - Словения
-  - the Republic of Slovenia
-  - la República de Eslovenia
+- An t-Slòbhain
+- an tSlóivéin
+- Eloveña
+- Eslobenia
+- Eslobenya
+- Eslovenia
+- Eslovenya
+- Eslovènia
+- Eslovénia
+- Eslovênia
+- Esloweeni
+- Horowinia
+- Isloveeniya
+- Isloveeniyaa
+- ISloveniya
+- Islovènia
+- Isluwinya
+- Isluwiña
+- la República de Eslovenia
+- ma Lowensina
+- Silaovenia
+- Siloveni
+- Siloveniya
+- Silōvenia
+- Sllovenia
+- Slobinya
+- Slobénia
+- Slofenia
+- Slofenland
+- Sloféníà
+- Sloveenia
+- Sloveeniä
+- Sloveenje
+- Sloveneja
+- Sloveneye
+- Sloveni
+- slovEni,as
+- Slovenia
+- Slovenie
+- Slovenien
+- Slovenii
+- Slovenija
+- Slovenikondre
+- Slovenio
+- Sloveniya
+- Sloveniyə
+- Slovenië
+- Sloveniën
+- Slovenja
+- Slovenya
+- Slovenän
+- Slovienėjė
+- Sloviinia
+- Slovinsko
+- Slovènia
+- Slovènie
+- Slovéni
+- Slovénia
+- Slovénie
+- Slovēnij
+- Slovēnija
+- Slovėnija
+- Sloweenien
+- Slowenia
+- Slowenien
+- Slowenië
+- Sloweniýa
+- Slowenya
+- Sloweńskô
+- Slowéni
+- Slowénien
+- Slowéniye
+- Sluvenia
+- Sluvinya
+- Slóvenía
+- Solowenia
+- Su-lo̍k-biân
+- Suloweniya
+- Szlovénia
+- Słobíín Bikéyah
+- Słowenia
+- Słowjenska
+- Słowjeńska
+- Słowyńijo
+- the Republic of Slovenia
+- Tsirobeniya
+- y Clovean
+- Śluvègna
+- Σλοβενία
+- Їллѷрїиска Словѣнїꙗ
+- Зловения
+- Славенія
+- Словен
+- Словенія
+- Словени
+- Словенија
+- Словениа
+- Словение
+- Словений
+- Словения
+- Словения Мастор
+- Словенмудин Орн
+- Словэния
+- Слоуэнэ
+- Սլովենիա
+- סלאוועניע
+- סלובניה
+- اسلؤوني
+- اسلونی
+- اسلوونی
+- ایسلوونی
+- سلوانیا
+- سلوفينيا
+- سلووانيا
+- سلووينیا
+- سلووینیا
+- سلوڥينيا
+- سلوینیا
+- سلۆڤێنیا
+- صلوڤينيا
+- ܣܠܘܒܢܝܐ
+- ސުލޮވީނިއާ
+- स्लोभेनिया
+- स्लोवीनिया
+- स्लोवेनिया
+- स्लोव्हेनिया
+- স্লোভেনিয়া
+- ਸਲੋਵੇਨੀਆ
+- સ્લોવેનિયા
+- ସ୍ଲୋଭେନିଆ
+- சுலோவீனியா
+- స్లోవేనియా
+- ಸ್ಲೊವೇನಿಯ
+- സ്ലൊവീന്യ
+- ස්ලෝවේනියාව
+- ประเทศสโลวีเนีย
+- ປະເທດສະໂລເວນີ
+- སི་ལོ་ཝེ་ཉི་ཡ
+- སི་ལོ་ཝེ་ནི་ཡ།
+- ဆလိုဗေးနီးယားနိုင်ငံ
+- ဆလိုဗေးနီးယားသမ္မတနိုင်ငံ
+- မိူင်းသလူဝ်ႇဝေးၼီးယႃး
+- სლოვენია
+- ስሎቬኒያ
+- ᏍᎶᏫᏂᎠ
+- ស្លូវេនី
+- ᱥᱞᱳᱵᱷᱮᱱᱤᱭᱟ
+- ⵚⵍⵓⴼⵉⵏⵢⴰ
+- スロベニア
+- 斯洛文尼亚
+- 斯洛文尼亞
+- 斯洛維尼亞
+- ꯁ꯭ꯂꯣꯚꯦꯅꯤꯌꯥ
+- 슬로베니아
+- "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U00010339\U0001033D\U0001033E\U00010330"
 has_id_wikidata: Q215
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~NATO,7184]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]"
-  - "[[_Standards/WikiData/WD~Socialist_Republic_of_Slovenia,211092]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Slovenia,130807]]"
+- '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
+- '[[_Standards/WikiData/WD~Socialist_Republic_of_Slovenia,211092]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Slovenia,130807]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Municipality_of_Bloke,164123]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Zavrč,167001]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Turnišče,201074]]"
-  - "[[_Standards/WikiData/WD~Zreče_Municipality,227163]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Pivka,252154]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Črna_na_Koroškem,279072]]"
-  - "[[_Standards/WikiData/WD~Ajdovščina_Municipality,331701]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Radenci,338743]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Črenšovci,341658]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vuzenica,370390]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šempeter_Vrtojba,391428]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šentilj,391446]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Škocjan,391800]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Škofljica,392103]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šmarje_pri_Jelšah,392173]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šmartno_ob_Paki,392188]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Štore,392468]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Žetale,393910]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Žiri,394087]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Žirovnica,394103]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Novo_Mesto,398116]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kranjska_Gora,507051]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Preddvor,539864]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sežana,554854]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Koper,556203]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Hrpelje-Kozina,556206]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Divača,557216]]"
-  - "[[_Standards/WikiData/WD~Piran_Municipality,565170]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Gornja_Radgona,570397]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Destrnik,570618]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Lendava,587328]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Poljčane,594852]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Rogašovci,599480]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Renče_Vogrsko,612216]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Gorišnica,632998]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Bled,647572]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Prevalje,650009]]"
-  - "[[_Standards/WikiData/WD~Miren_Kostanjevica_Municipality,658076]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Luče,669648]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Mozirje,670975]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Mežica,678147]]"
-  - "[[_Standards/WikiData/WD~Kobarid_Municipality,688287]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Gornji_Grad,726548]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Rače_Fram,731093]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Brda,763400]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Trzin,773160]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Ljubno,773659]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kidričevo,776770]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Osilnica,778147]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Beltinci,778542]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Benedikt,779018]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Brezovica,849320]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Cerklje_na_Gorenjskem,859679]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kuzma,906636]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Brežice,906879]]"
-  - "[[_Standards/WikiData/WD~Ig_Municipality,917397]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Selnica_ob_Dravi,919934]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sveti_Jurij_ob_Ščavnici,920353]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Puconci,921092]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Odranci,924698]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sveti_Andraž_v_Slovenskih_Goricah,925149]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kobilje,927718]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Polzela,938443]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Lukovica,946766]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Nazarje,954987]]"
-  - "[[_Standards/WikiData/WD~Komenda_Municipality,963986]]"
-  - "[[_Standards/WikiData/WD~Sveta_Ana_Municipality,990063]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Pesnica,995048]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Hajdina,995065]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Velika_Polana,995101]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dol_pri_Ljubljani,998557]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kungota,998566]]"
-  - "[[_Standards/WikiData/WD~Loška_Dolina_Municipality,999525]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Tabor,999530]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Podčetrtek,999540]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Loški_Potok,999553]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Trnovska_Vas,999559]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Križevci,999563]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dobrna,999579]]"
-  - "[[_Standards/WikiData/WD~Mislinja_Municipality,999584]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Duplek,999589]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vipava,1002229]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Podlehnik,1002247]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Majšperk,1002371]]"
-  - "[[_Standards/WikiData/WD~municipality_of_Videm,1002863]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dornava,1003969]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Juršinci,1003984]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Miklavž_na_Dravskem_Polju,1005165]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Horjul,1005185]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dobrova_Polhov_Gradec,1005208]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Gorenja_Vas-Poljane,1005224]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Radlje_ob_Dravi,1005364]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Ivančna_Gorica,1008048]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sodražica,1008079]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Veržej,1008086]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Markovci,1008095]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Hoče-Slivnica,1008102]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sveti_Jurij_v_Slovenskih_Goricah,1008144]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dobje,1008179]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dobrepolje,1009409]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Ribnica_na_Pohorju,1009413]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kozje,1009421]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Moravče,1012761]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Prebold,1016698]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Podvelka,1016800]]"
-  - "[[_Standards/WikiData/WD~Mirna_Peč_Municipality,1016805]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šentjernej,1016812]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sveta_Trojica_v_Slovenskih_Goricah,1016820]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Starše,1016826]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Sveti_Tomaž,1016831]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dolenjske_Toplice,1016840]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Grad,1019067]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Gorje,1027062]]"
-  - "[[_Standards/WikiData/WD~Mokronog-Trebelno_Municipality,1027078]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Log_Dragomer,1027089]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Rogatec,1027245]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Braslovče,1034410]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Cerkvenjak,1252438]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Tišina,1276793]]"
-  - "[[_Standards/WikiData/WD~Solčava_Municipality,1313614]]"
-  - "[[_Standards/WikiData/WD~Mirna_Municipality,1515842]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Naklo,1569014]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Oplotnica,1587261]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Semič,1587704]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Jezersko,1688771]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Straža,1784972]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Makole,1808143]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vojnik,2134561]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Postojna,2242799]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Škofja_Loka,2318898]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šenčur,2346638]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Bovec,3259688]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Apače,3278915]]"
-  - "[[_Standards/WikiData/WD~Ruše_Municipality,3346841]]"
-  - "[[_Standards/WikiData/WD~Kostel_Municipality,3434092]]"
-  - "[[_Standards/WikiData/WD~Ljubljana_City_Municipality,3434113]]"
-  - "[[_Standards/WikiData/WD~Maribor_City_Municipality,3435104]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Razkrižje,3435117]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Nova_Gorica,3435478]]"
-  - "[[_Standards/WikiData/WD~Kanal_ob_Soči_Municipality,3435496]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Gornji_Petrovci,3435689]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Središče_ob_Dravi,3441796]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Ptuj,3441808]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Slovenj_Gradec,3441817]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Celje,3441823]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Idrija,3441842]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Velenje,3441849]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Metlika,3441856]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Kranj,3441893]]"
-  - "[[_Standards/WikiData/WD~Črnomelj_Municipality,3482211]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Krško,3484655]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šentrupert,3487128]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Moravske_Toplice,3494723]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dravograd,3503123]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kamnik,3503153]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šmarješke_Toplice,3509893]]"
-  - "[[_Standards/WikiData/WD~Bohinj_Municipality,3661628]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Muta,6309297]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vrhnika,9014817]]"
-  - "[[_Standards/WikiData/WD~City_Municipality_of_Murska_Sobota,9273677]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Slovenska_Bistrica,11211457]]"
-  - "[[_Standards/WikiData/WD~Sevnica_Municipality,11214302]]"
-  - "[[_Standards/WikiData/WD~Ankaran_Municipality,12042075]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Izola,12042076]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kostanjevica_na_Krki,12062190]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Cerknica,13107298]]"
-  - "[[_Standards/WikiData/WD~municipality_of_Cerkno,13220435]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Lenart,13365883]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Dobrovnik,13365892]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Hodoš,13365904]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Cirkulane,13370246]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Bistrica_ob_Sotli,13377731]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Borovnica,13377747]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Cankova,13377751]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Domžale,13377763]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Grosuplje,13377778]]"
-  - "[[_Standards/WikiData/WD~Hrastnik_Municipality,13377780]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Ilirska_Bistrica,13377784]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Žužemberk,13377798]]"
-  - "[[_Standards/WikiData/WD~Radeče_Municipality,13377986]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Ravne_na_Koroškem,13378051]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Rečica_ob_Savinji,13378058]]"
-  - "[[_Standards/WikiData/WD~Slovenske_Konjice_Municipality,13378155]]"
-  - "[[_Standards/WikiData/WD~Trebnje_Municipality,13378243]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Velike_Lašče,13378281]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vitanje,13378288]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vodice,13378292]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Vransko,13378299]]"
-  - "[[_Standards/WikiData/WD~Zagorje_ob_Savi_Municipality,13378328]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šalovci,13378373]]"
-  - "[[_Standards/WikiData/WD~Šentjur_Municipality,13378384]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šmartno_pri_Litiji,13378453]]"
-  - "[[_Standards/WikiData/WD~Komen_Municipality,15283322]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Jesenice,15881]]"
-  - "[[_Standards/WikiData/WD~Laško_Municipality,15887]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Kočevje,15884]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Litija,15891]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Medvode,15894]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Mengeš,15895]]"
-  - "[[_Standards/WikiData/WD~Ljutomer_Municipality,15892]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Logatec,15893]]"
-  - "[[_Standards/WikiData/WD~Ormož_Municipality,15900]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Radovljica,15910]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Ribnica,15912]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Rogaška_Slatina,15913]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Šoštanj,15923]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Tržič,15927]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Tolmin,15924]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Trbovlje,15925]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Žalec,15931]]"
-  - "[[_Standards/WikiData/WD~Železniki_Municipality,15932]]"
-  - "[[_Standards/WikiData/WD~Municipality_of_Lovrenc_na_Pohorju,25110]]"
-anthem: "[[_Standards/WikiData/WD~Zdravljica,169215]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Slovenia,173189]]"
-follows: "[[_Standards/WikiData/WD~Socialist_Republic_of_Slovenia,211092]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Slovenia,324945]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Slovenia,495877]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Slovenia,525236]]"
+- '[[_Standards/WikiData/WD~Municipality_of_Bloke,164123]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Zavrč,167001]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Turnišče,201074]]'
+- '[[_Standards/WikiData/WD~Zreče_Municipality,227163]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Pivka,252154]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Črna_na_Koroškem,279072]]'
+- '[[_Standards/WikiData/WD~Ajdovščina_Municipality,331701]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Radenci,338743]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Črenšovci,341658]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vuzenica,370390]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šempeter_Vrtojba,391428]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šentilj,391446]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Škocjan,391800]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Škofljica,392103]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šmarje_pri_Jelšah,392173]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šmartno_ob_Paki,392188]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Štore,392468]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Žetale,393910]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Žiri,394087]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Žirovnica,394103]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Novo_Mesto,398116]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kranjska_Gora,507051]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Preddvor,539864]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sežana,554854]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Koper,556203]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Hrpelje-Kozina,556206]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Divača,557216]]'
+- '[[_Standards/WikiData/WD~Piran_Municipality,565170]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Gornja_Radgona,570397]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Destrnik,570618]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Lendava,587328]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Poljčane,594852]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Rogašovci,599480]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Renče_Vogrsko,612216]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Gorišnica,632998]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Bled,647572]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Prevalje,650009]]'
+- '[[_Standards/WikiData/WD~Miren_Kostanjevica_Municipality,658076]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Luče,669648]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Mozirje,670975]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Mežica,678147]]'
+- '[[_Standards/WikiData/WD~Kobarid_Municipality,688287]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Gornji_Grad,726548]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Rače_Fram,731093]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Brda,763400]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Trzin,773160]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Ljubno,773659]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kidričevo,776770]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Osilnica,778147]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Beltinci,778542]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Benedikt,779018]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Brezovica,849320]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Cerklje_na_Gorenjskem,859679]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kuzma,906636]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Brežice,906879]]'
+- '[[_Standards/WikiData/WD~Ig_Municipality,917397]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Selnica_ob_Dravi,919934]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sveti_Jurij_ob_Ščavnici,920353]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Puconci,921092]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Odranci,924698]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sveti_Andraž_v_Slovenskih_Goricah,925149]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kobilje,927718]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Polzela,938443]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Lukovica,946766]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Nazarje,954987]]'
+- '[[_Standards/WikiData/WD~Komenda_Municipality,963986]]'
+- '[[_Standards/WikiData/WD~Sveta_Ana_Municipality,990063]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Pesnica,995048]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Hajdina,995065]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Velika_Polana,995101]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dol_pri_Ljubljani,998557]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kungota,998566]]'
+- '[[_Standards/WikiData/WD~Loška_Dolina_Municipality,999525]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Tabor,999530]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Podčetrtek,999540]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Loški_Potok,999553]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Trnovska_Vas,999559]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Križevci,999563]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dobrna,999579]]'
+- '[[_Standards/WikiData/WD~Mislinja_Municipality,999584]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Duplek,999589]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vipava,1002229]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Podlehnik,1002247]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Majšperk,1002371]]'
+- '[[_Standards/WikiData/WD~municipality_of_Videm,1002863]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dornava,1003969]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Juršinci,1003984]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Miklavž_na_Dravskem_Polju,1005165]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Horjul,1005185]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dobrova_Polhov_Gradec,1005208]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Gorenja_Vas-Poljane,1005224]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Radlje_ob_Dravi,1005364]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Ivančna_Gorica,1008048]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sodražica,1008079]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Veržej,1008086]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Markovci,1008095]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Hoče-Slivnica,1008102]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sveti_Jurij_v_Slovenskih_Goricah,1008144]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dobje,1008179]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dobrepolje,1009409]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Ribnica_na_Pohorju,1009413]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kozje,1009421]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Moravče,1012761]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Prebold,1016698]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Podvelka,1016800]]'
+- '[[_Standards/WikiData/WD~Mirna_Peč_Municipality,1016805]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šentjernej,1016812]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sveta_Trojica_v_Slovenskih_Goricah,1016820]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Starše,1016826]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Sveti_Tomaž,1016831]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dolenjske_Toplice,1016840]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Grad,1019067]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Gorje,1027062]]'
+- '[[_Standards/WikiData/WD~Mokronog-Trebelno_Municipality,1027078]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Log_Dragomer,1027089]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Rogatec,1027245]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Braslovče,1034410]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Cerkvenjak,1252438]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Tišina,1276793]]'
+- '[[_Standards/WikiData/WD~Solčava_Municipality,1313614]]'
+- '[[_Standards/WikiData/WD~Mirna_Municipality,1515842]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Naklo,1569014]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Oplotnica,1587261]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Semič,1587704]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Jezersko,1688771]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Straža,1784972]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Makole,1808143]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vojnik,2134561]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Postojna,2242799]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Škofja_Loka,2318898]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šenčur,2346638]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Bovec,3259688]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Apače,3278915]]'
+- '[[_Standards/WikiData/WD~Ruše_Municipality,3346841]]'
+- '[[_Standards/WikiData/WD~Kostel_Municipality,3434092]]'
+- '[[_Standards/WikiData/WD~Ljubljana_City_Municipality,3434113]]'
+- '[[_Standards/WikiData/WD~Maribor_City_Municipality,3435104]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Razkrižje,3435117]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Nova_Gorica,3435478]]'
+- '[[_Standards/WikiData/WD~Kanal_ob_Soči_Municipality,3435496]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Gornji_Petrovci,3435689]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Središče_ob_Dravi,3441796]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Ptuj,3441808]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Slovenj_Gradec,3441817]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Celje,3441823]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Idrija,3441842]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Velenje,3441849]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Metlika,3441856]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Kranj,3441893]]'
+- '[[_Standards/WikiData/WD~Črnomelj_Municipality,3482211]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Krško,3484655]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šentrupert,3487128]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Moravske_Toplice,3494723]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dravograd,3503123]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kamnik,3503153]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šmarješke_Toplice,3509893]]'
+- '[[_Standards/WikiData/WD~Bohinj_Municipality,3661628]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Muta,6309297]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vrhnika,9014817]]'
+- '[[_Standards/WikiData/WD~City_Municipality_of_Murska_Sobota,9273677]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Slovenska_Bistrica,11211457]]'
+- '[[_Standards/WikiData/WD~Sevnica_Municipality,11214302]]'
+- '[[_Standards/WikiData/WD~Ankaran_Municipality,12042075]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Izola,12042076]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kostanjevica_na_Krki,12062190]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Cerknica,13107298]]'
+- '[[_Standards/WikiData/WD~municipality_of_Cerkno,13220435]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Lenart,13365883]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Dobrovnik,13365892]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Hodoš,13365904]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Cirkulane,13370246]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Bistrica_ob_Sotli,13377731]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Borovnica,13377747]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Cankova,13377751]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Domžale,13377763]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Grosuplje,13377778]]'
+- '[[_Standards/WikiData/WD~Hrastnik_Municipality,13377780]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Ilirska_Bistrica,13377784]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Žužemberk,13377798]]'
+- '[[_Standards/WikiData/WD~Radeče_Municipality,13377986]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Ravne_na_Koroškem,13378051]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Rečica_ob_Savinji,13378058]]'
+- '[[_Standards/WikiData/WD~Slovenske_Konjice_Municipality,13378155]]'
+- '[[_Standards/WikiData/WD~Trebnje_Municipality,13378243]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Velike_Lašče,13378281]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vitanje,13378288]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vodice,13378292]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Vransko,13378299]]'
+- '[[_Standards/WikiData/WD~Zagorje_ob_Savi_Municipality,13378328]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šalovci,13378373]]'
+- '[[_Standards/WikiData/WD~Šentjur_Municipality,13378384]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šmartno_pri_Litiji,13378453]]'
+- '[[_Standards/WikiData/WD~Komen_Municipality,15283322]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Jesenice,15881]]'
+- '[[_Standards/WikiData/WD~Laško_Municipality,15887]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Kočevje,15884]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Litija,15891]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Medvode,15894]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Mengeš,15895]]'
+- '[[_Standards/WikiData/WD~Ljutomer_Municipality,15892]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Logatec,15893]]'
+- '[[_Standards/WikiData/WD~Ormož_Municipality,15900]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Radovljica,15910]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Ribnica,15912]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Rogaška_Slatina,15913]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Šoštanj,15923]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Tržič,15927]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Tolmin,15924]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Trbovlje,15925]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Žalec,15931]]'
+- '[[_Standards/WikiData/WD~Železniki_Municipality,15932]]'
+- '[[_Standards/WikiData/WD~Municipality_of_Lovrenc_na_Pohorju,25110]]'
+anthem: '[[_Standards/WikiData/WD~Zdravljica,169215]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Slovenia,173189]]'
+follows: '[[_Standards/WikiData/WD~Socialist_Republic_of_Slovenia,211092]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Slovenia,324945]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Slovenia,495877]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Slovenia,525236]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Slavonia,681964]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Slovenia,837309]]"
+- '[[_Standards/WikiData/WD~Slavonia,681964]]'
+- '[[_Standards/WikiData/WD~Slovakia,214]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Slovenia,837309]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Slovenia,1264458]]"
-legislative_body: "[[_Standards/WikiData/WD~Slovenian_Parliament,1288169]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Slovenia,1299355]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Slovenia,1264458]]'
+legislative_body: '[[_Standards/WikiData/WD~Slovenian_Parliament,1288169]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Slovenia,1299355]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Sinte_Romani,1793299]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Croatian,6654]]"
-  - "[[_Standards/WikiData/WD~Albanian,8748]]"
-  - "[[_Standards/WikiData/WD~Slovene,9063]]"
-  - "[[_Standards/WikiData/WD~Hungarian,9067]]"
-  - "[[_Standards/WikiData/WD~Serbian,9299]]"
-  - "[[_Standards/WikiData/WD~Macedonian,9296]]"
-  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
-  - "[[_Standards/WikiData/WD~Romani,13201]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Slovenia,3007297]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+- '[[_Standards/WikiData/WD~Sinte_Romani,1793299]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Croatian,6654]]'
+- '[[_Standards/WikiData/WD~Albanian,8748]]'
+- '[[_Standards/WikiData/WD~Slovene,9063]]'
+- '[[_Standards/WikiData/WD~Hungarian,9067]]'
+- '[[_Standards/WikiData/WD~Serbian,9299]]'
+- '[[_Standards/WikiData/WD~Macedonian,9296]]'
+- '[[_Standards/WikiData/WD~Bosnian,9303]]'
+- '[[_Standards/WikiData/WD~Romani,13201]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Slovenia,3007297]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~unitary_parliamentary_republic,22909549]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~democratic_republic,5255892]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Slovenia,7112452]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Slovenia,10815317]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~unitary_parliamentary_republic,22909549]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~democratic_republic,5255892]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Slovenia,7112452]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Slovenia,10815317]]'
 part_of:
-  - "[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Slovenia,11034628]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_Republic_of_Slovenia,12040608]]"
-head_of_state: "[[_Standards/WikiData/WD~Nataša_Pirc_Musar,12797332]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-head_of_government: "[[_Standards/WikiData/WD~Robert_Golob,18645045]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~113,25648804]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103273,27103273]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_of_Slovenia,97119097]]"
+- '[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Slovenia,11034628]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_the_Republic_of_Slovenia,12040608]]'
+head_of_state: '[[_Standards/WikiData/WD~Nataša_Pirc_Musar,12797332]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+head_of_government: '[[_Standards/WikiData/WD~Robert_Golob,18645045]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~113,25648804]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103273,27103273]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_of_Slovenia,97119097]]'
 coordinates_of_northernmost_point: Point(16.23 46.88)
 official_name:
-  - Repubblica di Slovenia
-  - Szlovén Köztársaság
-  - Republika Slovenija
-  - Slovenija
+- Repubblica di Slovenia
+- Szlovén Köztársaság
+- Republika Slovenija
+- Slovenija
 demonym:
-  - صلوڤيني
-  - صلوڤينية
-  - صلوڤينيين
-  - صلوڤينيات
-  - Slóivéanach
-  - سلوفيني
-  - eslovena
-  - esloveno
-  - eslovenu
-  - স্লোভেনীয়
-  - Slowenin
-  - sloveno
-  - סלובני
-  - Sloveniano
-  - slovena
-  - slovene
-  - Sloveen
-  - sloven
-  - slovenă
-  - sloveni
-  - словенець
-  - словенка
-  - словенці
-  - slovena
-  - slovene
-  - Sloveniyänan
-  - سلوفينية
-  - Slovenian
-  - سلوفينيون
-  - Slowene
-  - Slovène
-  - sloveni
-  - словенец
-  - словенка
-  - словенцы
-  - sloveni
-  - Slovenka
-  - Slovene
-  - סלובנית
-  - szlovén
-  - sloveno
-  - slovenian
-  - sloven
-  - Slovenec
+- صلوڤيني
+- صلوڤينية
+- صلوڤينيين
+- صلوڤينيات
+- Slóivéanach
+- سلوفيني
+- eslovena
+- esloveno
+- eslovenu
+- স্লোভেনীয়
+- Slowenin
+- sloveno
+- סלובני
+- Sloveniano
+- slovena
+- slovene
+- Sloveen
+- sloven
+- slovenă
+- sloveni
+- словенець
+- словенка
+- словенці
+- slovena
+- slovene
+- Sloveniyänan
+- سلوفينية
+- Slovenian
+- سلوفينيون
+- Slowene
+- Slovène
+- sloveni
+- словенец
+- словенка
+- словенцы
+- sloveni
+- Slovenka
+- Slovene
+- סלובנית
+- szlovén
+- sloveno
+- slovenian
+- sloven
+- Slovenec
 ISNI: 121109038
 MeSH_tree_code: Z01.542.248.820
 IPA_transcription:
-  - swɔˈvɛɲä
-  - slɐˈvʲenʲɪjə
-  - ʂluˈʋeːnɪɑ
+- swɔˈvɛɲä
+- slɐˈvʲenʲɪjə
+- ʂluˈʋeːnɪɑ
 coordinates_of_westernmost_point: Point(13.37537706 46.29772959)
 coordinate_location: Point(15.0 46.0)
 coordinates_of_southernmost_point: Point(15.17724752 45.42179897)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Finland,33]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Netherlands,55]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
-  - "[[_Standards/WikiData/WD~Montenegro,236]]"
-capital: "[[_Standards/WikiData/WD~Ljubljana,437]]"
-highest_point: "[[_Standards/WikiData/WD~Triglav,1024]]"
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+capital: '[[_Standards/WikiData/WD~Ljubljana,437]]'
+highest_point: '[[_Standards/WikiData/WD~Triglav,1024]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-  - "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-official_language: "[[_Standards/WikiData/WD~Slovene,9063]]"
-lowest_point: "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Adriatic_Sea,13924]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+official_language: '[[_Standards/WikiData/WD~Slovene,9063]]'
+lowest_point: '[[_Standards/WikiData/WD~Adriatic_Sea,13924]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Central_Europe,27509]]"
-central_bank: "[[_Standards/WikiData/WD~Bank_of_Slovenia,26662]]"
+- '[[_Standards/WikiData/WD~Balkans,23522]]'
+- '[[_Standards/WikiData/WD~Central_Europe,27509]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Slovenia,26662]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 unemployment_rate: 10
-country: "[[_Standards/WikiData/WD~Slovenia,215]]"
+country: '[[_Standards/WikiData/WD~Slovenia,215]]'
 compulsory_education_minimum_age_: 6
 suicide_rate: 14
 compulsory_education_maximum_age_: 15
@@ -514,35 +966,35 @@ age_of_majority: 18
 VAT_rate: 22
 mains_voltage: 230
 BTI_Governance_Index:
-  - 6.2
-  - 6.3
-  - 6.47
-  - 6.55
-  - 6.57
-  - 6.72
-  - 6.78
-  - 6.83
-  - 7.41
+- 6.2
+- 6.3
+- 6.47
+- 6.55
+- 6.57
+- 6.72
+- 6.78
+- 6.83
+- 7.41
 life_expectancy: 81
 birth_rate: 8.3
 BTI_Status_Index:
-  - 8.9
-  - 9.01
-  - 9.11
-  - 9.18
-  - 9.27
-  - 9.45
-  - 9.49
-  - 9.52
+- 8.9
+- 9.01
+- 9.11
+- 9.18
+- 9.27
+- 9.45
+- 9.49
+- 9.52
 death_rate: 10.6
 total_fertility_rate: 1.55
 Gini_coefficient: 24.4
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Slovenia,45758]]"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Slovenia,45758]]'
 Happy_Planet_Index_score: 47.9
 trunk_prefix: 0
 maritime_identification_digits: 278
 Democracy_Index: 7.54
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.si,58723]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.si,58723]]'
 Inequality_adjusted_Human_Development_Index: 0.878
 Human_Development_Index: 0.918
 UIC_numerical_country_code: 79
@@ -554,14 +1006,14 @@ WIPO_ST_3: SI
 ISO_3166_1_alpha_2_code: SI
 FIPS_10_4_countries_and_regions_: SI
 NUTS_code:
-  - SI
-  - SI0
+- SI
+- SI0
 number_of_out_of_school_children: 6716
 carbon_footprint:
-  - 15365000
-  - 15939000
-  - 16624000
-  - 18334000
+- 15365000
+- 15939000
+- 16624000
+- 18334000
 Dewey_Decimal_Classification: 2--4973
 area: 20271
 median_income: 25085
@@ -573,36 +1025,36 @@ UIC_alphabetical_country_code: SLO
 licence_plate_code: SLO
 IOC_country_code: SLO
 rural_population:
-  - 934533
-  - 939634
-  - 943491
-  - 943608
+- 934533
+- 939634
+- 943491
+- 943608
 INSEE_countries_and_foreign_territories_code: 99145
 subreddit: Slovenia
 Commons_category: Slovenia
 hashtag: Slovenia
 Commons_gallery: Slovenija
 female_population:
-  - 1042591
-  - 1047063
-  - 1048601
-  - 1050321
+- 1042591
+- 1047063
+- 1048601
+- 1050321
 male_population:
-  - 1045795
-  - 1055356
-  - 1059477
-  - 1061664
+- 1045795
+- 1055356
+- 1059477
+- 1061664
 CIVICUS_Monitor_country_entry: slovenia
 GitHub_topic: slovenia
 Krugosvet_article: strany_mira/SLOVENIYA.html
 motto_text: I feel SLOVEnia
 native_label: Slovenija
-short_name: 🇸🇮
+short_name: "\U0001F1F8\U0001F1EE"
 urban_population:
-  - 1144894
-  - 1158811
-  - 1168445
-  - 1177453
+- 1144894
+- 1158811
+- 1168445
+- 1177453
 ITU_letter_code: SVN
 ISO_3166_1_alpha_3_code: SVN
 coordinates_of_easternmost_point: Point(16.61068976 46.46978084)
@@ -614,25 +1066,25 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Slovenia.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Izlake%20banner.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Slowenien.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B8%E0%AD%8D%E0%AC%B2%E0%AD%8B%E0%AC%AD%E0%AD%87%E0%AC%A8%E0%AC%BF%E0%AC%86.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Slovenia.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Slowenien.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%B8%E0%AD%8D%E0%AC%B2%E0%AD%8B%E0%AC%AD%E0%AD%87%E0%AC%A8%E0%AC%BF%E0%AC%86.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Slovenia.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SLO%20%E2%80%94%20Ljubljana%20%28Blick%20auf%20Burg%29%202020.JPG
 official_website:
-  - http://www.gov.si/
-  - https://www.gov.si/en/
-  - https://www.gov.si/it/
+- http://www.gov.si/
+- https://www.gov.si/en/
+- https://www.gov.si/it/
 country_calling_code: 386
 U_S_National_Archives_Identifier: 10045308
 BHCL_UUID: 6ce7bf2f-0a71-4070-841b-d81c20f18c0c
 Colon_Classification: SG--59223
-Unicode_character: 🇸🇮
+Unicode_character: "\U0001F1F8\U0001F1EE"
 location:
-  - 46.05
-  - 14.52
+- 46.05
+- 14.52
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27016
 isDeleted: false
 confidential: public
@@ -640,21 +1092,20 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Slovenia
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - sl
-  - sh
+- sl
+- sh
 icon: flag-si
 ---
-
 # [[Slovenia]] 
 
 ## [[Slovenia]] has Problems... 

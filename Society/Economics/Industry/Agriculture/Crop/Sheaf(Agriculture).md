@@ -1,21 +1,95 @@
 ---
 aliases:
-  - Garbe
-  - Sheaf(Agriculture)
+- Berkas (petanian)
+- Covone
+- Fascis
+- Feixe
+- garba
+- Garbe
+- garbo
+- Garv
+- gavilla
+- gerbe
+- Gregna
+- Kjarf
+- kornband
+- kornbånd
+- kärve
+- Lyhde
+- Motilón
+- Règna
+- schoof
+- sheaf
+- Sheaf(Agriculture)
+- Sjob
+- snop
+- Vihk
+- ysgub
+- Ìgwè atụrụ (ọrụ ugbo)
+- Кĕлте
+- Көлтә
+- пучок
+- сніп
+- Сноп
+- אלומה (חקלאות)
+- حزمة
+- கதிர்க்கட்டு
+- 稲積
+- 稻草束
 has_id_wikidata: Q942040
 different_from:
-  - "[[_Standards/WikiData/WD~sheaf,595298]]"
-  - "[[_Standards/WikiData/WD~sheave,1057381]]"
-part_of: "[[_Standards/WikiData/WD~grain_harvest,7214166]]"
-has_part_s_: "[[_Standards/WikiData/WD~straw_mulch_stack,9190072]]"
-instance_of: "[[_Standards/WikiData/WD~specialized_term,12812139]]"
-described_by_source: "[[_Standards/WikiData/WD~Diccionario_de_voces_aragonesas,65393650]]"
-subclass_of: "[[_Standards/WikiData/WD~bundle,112186436]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Aragonese,8765]]"
+- '[[_Standards/WikiData/WD~sheaf,595298]]'
+- '[[_Standards/WikiData/WD~sheave,1057381]]'
+part_of: '[[_Standards/WikiData/WD~grain_harvest,7214166]]'
+has_part_s_: '[[_Standards/WikiData/WD~straw_mulch_stack,9190072]]'
+instance_of: '[[_Standards/WikiData/WD~specialized_term,12812139]]'
+described_by_source: '[[_Standards/WikiData/WD~Diccionario_de_voces_aragonesas,65393650]]'
+subclass_of: '[[_Standards/WikiData/WD~bundle,112186436]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Aragonese,8765]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Straw%20of%20the%20rice.08Oct9.jpg
 Commons_category: Garbs
+dv_has_:
+  name_:
+    an: Motilón
+    ar: حزمة
+    ba: Көлтә
+    be: пучок
+    be-tarask: сноп
+    ca: garba
+    cs: snop
+    cv: Кĕлте
+    cy: ysgub
+    de: Garbe
+    en: sheaf
+    eo: garbo
+    es: gavilla
+    et: Vihk
+    fi: Lyhde
+    fr: gerbe
+    gl: Feixe
+    he: אלומה (חקלאות)
+    id: Berkas (petanian)
+    ig: Ìgwè atụrụ (ọrụ ugbo)
+    is: Kjarf
+    it: Covone
+    ja: 稲積
+    la: Fascis
+    li: Sjob
+    mk: сноп
+    nap: Règna
+    nb: kornbånd
+    nds: Garv
+    nl: schoof
+    nn: kornband
+    pl: snop
+    ru: Сноп
+    scn: Gregna
+    sl: snop
+    sv: kärve
+    ta: கதிர்க்கட்டு
+    uk: сніп
+    zh: 稻草束
 ---
-
 # [[Sheaf(Agriculture)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sheaf,942040|WD~Sheaf,942040]]

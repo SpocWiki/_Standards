@@ -1,13 +1,88 @@
 ---
 aliases:
-  - Institutions
-  - Institutionen
-  - Institution
+- Chè-tō͘
+- ensavadur
+- erakunde
+- gaga klahang cinlangan
+- iestāde
+- institiúid
+- instituce
+- institucija
+- institucio
+- institucion
+- institució
+- institución
+- institucjô
+- instituição
+- institusi
+- institusjon
+- institutio
+- Institution
+- institution sociale
+- Institutionen
+- Institutions
+- Institutioun
+- institutsioon
+- instituutio
+- Instituzioon
+- institušuvdna
+- instituție
+- instytucja
+- instytucyjŏ
+- intézmény
+- inštitúcia
+- Isoqosoqo oqo
+- istitusion
+- istituzione
+- istituzzioni
+- Jámiyetlik shólkem
+- kurum
+- müəssisə
+- pranata
+- sazî
+- sefydliad
+- sociale institutie
+- Tata kemasarakatan
+- thiết chế xã hội
+- ustanova
+- Älewmettik uýım
+- Ìdìmúlẹ̀
+- θεσμός
+- ижтимағи институт
+- Институти иҷтимоӣ
+- Институция
+- Нийгмийн институт
+- общественный институт
+- сацыяльны інстытут
+- соціальний інститут
+- Социалдык институт
+- социалон институт
+- установа
+- җәмгыять институты
+- Әлеуметтік ұйым
+- מוסד
+- ادارہ
+- الەۋمەتتىك ۇيىم
+- اينستيتوسي
+- مؤسسة
+- مؤسسه
+- نهاد اجتماعی
+- सरकारी संस्था
+- প্রতিষ্ঠান
+- প্ৰতিষ্ঠান
+- ਅਦਾਰਾ
+- நிறுவனம்
+- ಸಂಸ್ಥೆ
+- สถาบัน
+- အင်စတီကျူးရှင်း
+- საჯარო ინსტიტუტი
+- 制度
+- 제도
 has_id_wikidata: Q178706
 subclass_of:
-  - '[[_Standards/WikiData/WD~social_structure,211606]]'
-  - '[[_Standards/WikiData/WD~person_or_organization,106559804]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~social_structure,211606]]'
+- '[[_Standards/WikiData/WD~person_or_organization,106559804]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 different_from: '[[_Standards/WikiData/WD~institute,1664720]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_organization,4430243]]'
 subject_has_role: '[[_Standards/WikiData/WD~normative_social_influence,9370542]]'
@@ -18,8 +93,117 @@ OmegaWiki_Defined_Meaning: 1627758
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Israel%20Silvestre%2C%20Coll%C3%A8ge%20des%20Quatre-Nations.jpg
 equivalent_class: http://pcp-on-web.de/ontology#Institution
 Commons_category: Institutions
+dv_has_:
+  name_:
+    ar: مؤسسة
+    arz: مؤسسه
+    as: প্ৰতিষ্ঠান
+    ast: institución
+    az: müəssisə
+    ba: ижтимағи институт
+    be: сацыяльны інстытут
+    be-tarask: сацыяльны інстытут
+    bew: Tata kemasarakatan
+    bg: Институция
+    bn: প্রতিষ্ঠান
+    br: ensavadur
+    bs: institucija
+    ca: institució
+    cs: instituce
+    csb: institucjô
+    cy: sefydliad
+    da: institution
+    de: Institution
+    de-ch: Institution
+    el: θεσμός
+    en: institution
+    en-ca: Institution
+    en-gb: institution
+    eo: institucio
+    es: institución
+    et: institutsioon
+    eu: erakunde
+    fa: نهاد اجتماعی
+    fi: instituutio
+    fj: Isoqosoqo oqo
+    fr: institution sociale
+    ga: institiúid
+    gl: institución
+    gsw: Instituzioon
+    he: מוסד
+    hi: सरकारी संस्था
+    hr: ustanova
+    hsb: institucija
+    hu: intézmény
+    id: pranata
+    it: istituzione
+    ja: 制度
+    ka: საჯარო ინსტიტუტი
+    kaa: Jámiyetlik shólkem
+    kk: Әлеуметтік ұйым
+    kk-arab: الەۋمەتتىك ۇيىم
+    kk-cn: الەۋمەتتىك ۇيىم
+    kk-cyrl: Әлеуметтік ұйым
+    kk-kz: Әлеуметтік ұйым
+    kk-latn: Älewmettik uýım
+    kk-tr: Älewmettik uýım
+    kn: ಸಂಸ್ಥೆ
+    ko: 제도
+    ku: sazî
+    ky: Социалдык институт
+    la: institutio
+    lb: Institutioun
+    lt: institucija
+    lv: iestāde
+    mk: установа
+    mn: Нийгмийн институт
+    ms: institusi
+    ms-arab: اينستيتوسي
+    my: အင်စတီကျူးရှင်း
+    nan: Chè-tō͘
+    nb: institusjon
+    nl: sociale institutie
+    nn: institusjon
+    oc: institucion
+    os: социалон институт
+    pa: ਅਦਾਰਾ
+    pl: instytucja
+    pnb: ادارہ
+    pt: instituição
+    pt-br: instituição
+    ro: instituție
+    ru: общественный институт
+    scn: istituzzioni
+    se: institušuvdna
+    sh: Institucija
+    sk: inštitúcia
+    sl: ustanova
+    sq: institucion
+    sr: установа
+    sr-ec: установа
+    sr-el: установа
+    sv: institution
+    szl: instytucyjŏ
+    ta: நிறுவனம்
+    tay: gaga klahang cinlangan
+    tg: Институти иҷтимоӣ
+    th: สถาบัน
+    tr: kurum
+    tt: җәмгыять институты
+    uk: соціальний інститут
+    ur: ادارہ
+    vec: istitusion
+    vi: thiết chế xã hội
+    yo: Ìdìmúlẹ̀
+    yue: 制度
+    zh: 制度
+    zh-cn: 制度
+    zh-hans: 制度
+    zh-hant: 制度
+    zh-hk: 制度
+    zh-sg: 制度
+    zh-tw: 制度
 ---
-
 # [[Institution]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Institution,178706|WD~Institution,178706]] 

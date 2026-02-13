@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Frank Miller
-  - Miller,Frank
+- Frank Miller
+- Frenk Miler
+- Frenk Miller
+- Frenks Millers
+- Miller,Frank
+- Φρανκ Μίλερ
+- Франк Милър
+- Френк Міллер
+- Френк Милер
+- Фрэнк Мілер
+- Фрэнк Миллер
+- Ֆրենկ Միլլեր
+- פרנק מילר
+- فرانك ميلر
+- فرانک میلر
+- فرانک میلەر
+- فرینک ملر
+- ফ্রাঙ্ক মিলার
+- フランク・ミラー
+- 弗兰克·米勒
+- 法蘭·米拿
+- 法蘭克·米勒
+- 法蘭米拿
+- 프랭크 밀러
+has_id_wikidata: Q207676
+dv_has_:
+  name_:
+    ar: فرانك ميلر
+    arz: فرانك ميلر
+    ast: Frank Miller
+    az: Frenk Miller
+    be: Фрэнк Мілер
+    bg: Франк Милър
+    bn: ফ্রাঙ্ক মিলার
+    br: Frank Miller
+    bs: Frank Miller
+    ca: Frank Miller
+    ckb: فرانک میلەر
+    cs: Frank Miller
+    cy: Frank Miller
+    da: Frank Miller
+    de: Frank Miller
+    ee: Frank Miller
+    el: Φρανκ Μίλερ
+    en: Frank Miller
+    eo: Frank Miller
+    es: Frank Miller
+    eu: Frank Miller
+    fa: فرانک میلر
+    fi: Frank Miller
+    fr: Frank Miller
+    ga: Frank Miller
+    gl: Frank Miller
+    he: פרנק מילר
+    hr: Frank Miller
+    hu: Frank Miller
+    hy: Ֆրենկ Միլլեր
+    id: Frank Miller
+    it: Frank Miller
+    ja: フランク・ミラー
+    ko: 프랭크 밀러
+    lv: Frenks Millers
+    mg: Frank Miller
+    mul: Frank Miller
+    nb: Frank Miller
+    nl: Frank Miller
+    nn: Frank Miller
+    nrm: Frank Miller
+    pap: Frank Miller
+    pl: Frank Miller
+    pt: Frank Miller
+    pt-br: Frank Miller
+    ro: Frank Miller
+    ru: Фрэнк Миллер
+    sco: Frank Miller
+    sh: Frank Miller
+    sl: Frank Miller
+    sq: Frank Miller
+    sr: Френк Милер
+    sr-ec: Френк Милер
+    sr-el: Frenk Miler
+    sv: Frank Miller
+    tr: Frank Miller
+    uk: Френк Міллер
+    ur: فرینک ملر
+    yo: Frank Miller
+    yue: 法蘭米拿
+    zh: 弗兰克·米勒
+    zh-cn: 弗兰克·米勒
+    zh-hans: 弗兰克·米勒
+    zh-hant: 法蘭克·米勒
+    zh-hk: 法蘭·米拿
+    zh-sg: 弗兰克·米勒
+    zh-tw: 法蘭克·米勒
 ---
-
 #has_/time_/started :: 1957-01-27
 
 ## #has_/text_of_/abstract 

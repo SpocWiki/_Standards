@@ -1,25 +1,102 @@
 ---
 aliases:
-  - Linse
-  - Lens
+- arotahi
+- Doo'innee
+- hawêne
+- Ixtehuilotl
+- kanta
+- Lanti optik
+- Lantiy
+- Leiar
+- Lens
+- Lensa
+- lenso
+- Lent
+- Lenta
+- lente
+- Lenti
+- lentille optique
+- lentilă
+- Lenz
+- Lenzi
+- Leća
+- leča
+- linnsa
+- lins
+- Lins (Optik)
+- linsa
+- Linse
+- linss
+- linssa
+- linssi
+- Linti
+- Linza
+- lionsa
+- lääts
+- Lènsa
+- Lénsa
+- lēca
+- lęšis
+- Mercek
+- optikai lencse
+- optische Linse
+- optisk linse
+- soczewka
+- Thjerrëzat optike
+- Thàu-kiàⁿ
+- thấu kính
+- čočka
+- Čóčka
+- Šošovka
+- Φακός
+- лінза
+- леќа
+- Леща
+- Линз
+- Линза
+- Оптикалық линза
+- сочиво
+- օպտիկական ոսպնյակ
+- לינדז
+- עדשה
+- اپٽيل بلور
+- عدسة
+- عدسہ
+- عدسی
+- لێنز
+- कन्भेक्स लेन्स
+- लेंस
+- লেন্স
+- ਲੈੱਨਜ਼
+- வில்லை
+- కటకము
+- ലെൻസ്
+- කාච
+- เลนส์
+- ምስሮ
+- レンズ
+- 球面镜成像
+- 透鏡
+- 透镜
+- 렌즈
 has_id_wikidata: Q768575
 uses:
-  - '[[_Standards/WikiData/WD~refraction,72277]]'
-  - '[[_Standards/WikiData/WD~light,9128]]'
+- '[[_Standards/WikiData/WD~refraction,72277]]'
+- '[[_Standards/WikiData/WD~light,9128]]'
 different_from: '[[_Standards/WikiData/WD~Lens,165271]]'
 has_use:
-  - '[[_Standards/WikiData/WD~magnifying_glass,166849]]'
-  - '[[_Standards/WikiData/WD~objective,3880557]]'
+- '[[_Standards/WikiData/WD~magnifying_glass,166849]]'
+- '[[_Standards/WikiData/WD~objective,3880557]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~refractive_index,174102]]'
-  - '[[_Standards/WikiData/WD~dioptric_power,559265]]'
-  - '[[_Standards/WikiData/WD~transmittance,1427863]]'
+- '[[_Standards/WikiData/WD~refractive_index,174102]]'
+- '[[_Standards/WikiData/WD~dioptric_power,559265]]'
+- '[[_Standards/WikiData/WD~transmittance,1427863]]'
 part_of: '[[_Standards/WikiData/WD~camera_lens,192234]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of: '[[_Standards/WikiData/WD~optical_component,65037298]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116591763,116591763]]'
@@ -35,8 +112,117 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/28.%20%D0%A1%D1%84%D0%
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Lens%20%28optiek%29-article.ogg
 UNSPSC_Code: 31241501
 Iconclass_notation: 49E2511
+dv_has_:
+  name_:
+    af: lens
+    am: ምስሮ
+    ar: عدسة
+    ast: lente
+    az: Linza
+    be: лінза
+    be-tarask: лінза
+    bg: Леща
+    bho: लेंस
+    bn: লেন্স
+    bs: leća
+    ca: lent
+    ckb: لێنز
+    cs: čočka
+    cv: Линза
+    cy: lens
+    da: optisk linse
+    de: optische Linse
+    diq: Lens
+    dsb: Linsa
+    el: Φακός
+    en: lens
+    eo: lenso
+    es: lente
+    et: lääts
+    eu: Leiar
+    fa: عدسی
+    fi: linssi
+    fr: lentille optique
+    frr: Lins (Optik)
+    fy: Lins
+    ga: lionsa
+    gan: 透鏡
+    gcr: Lanti optik
+    gl: lente
+    he: עדשה
+    hi: लेंस
+    hr: Leća
+    hsb: Čóčka
+    ht: Lantiy
+    hu: optikai lencse
+    hy: օպտիկական ոսպնյակ
+    id: Lensa
+    io: Lenso
+    is: Linsa
+    it: lente
+    ja: レンズ
+    jam: Lenz
+    jv: Lènsa
+    kk: Оптикалық линза
+    ko: 렌즈
+    ku: hawêne
+    ky: Линза
+    lmo: Lenta
+    lt: lęšis
+    lv: lēca
+    mi: arotahi
+    mk: леќа
+    ml: ലെൻസ്
+    mn: Линз
+    ms: kanta
+    nah: Ixtehuilotl
+    nan: Thàu-kiàⁿ
+    nb: optisk linse
+    ne: कन्भेक्स लेन्स
+    nl: lens
+    nn: optisk linse
+    om: Doo'innee
+    pa: ਲੈੱਨਜ਼
+    pl: soczewka
+    pms: Lent
+    pt: lente
+    pt-br: lente
+    qu: Linti
+    ro: lentilă
+    ru: линза
+    scn: Lenti
+    sd: اپٽيل بلور
+    se: linsa
+    sh: Leća
+    si: කාච
+    sje: linnsa
+    sk: Šošovka
+    sl: leča
+    smj: linssa
+    smn: linssi
+    sms: linss
+    sq: Thjerrëzat optike
+    sr: сочиво
+    su: Lénsa
+    sv: lins
+    sw: Lenzi
+    ta: வில்லை
+    te: కటకము
+    tg: Линза
+    th: เลนส์
+    tl: Lente
+    tr: Mercek
+    tt: линза
+    uk: лінза
+    ur: عدسہ
+    uz: Linza
+    vi: thấu kính
+    war: Lente
+    wuu: 球面镜成像
+    yi: לינדז
+    yue: 透鏡
+    zh: 透镜
 ---
-
 # [[Lens]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Lens,768575|WD~Lens,768575]] 

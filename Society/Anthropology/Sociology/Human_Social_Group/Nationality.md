@@ -1,26 +1,213 @@
 ---
 aliases:
-  - Nationalität
-  - Nationality
+- ashoonaght
+- Cenedligrwydd
+- državljanstvo
+- Folk
+- hetã
+- Kabansaan
+- kansallisuus
+- kebangsaan
+- Kerakyatan
+- Kok-che̍k
+- kombësia
+- milliyet
+- Milliyyət
+- nacieco
+- nacionalidad
+- nacionalidade
+- nacionalidá
+- nacionalitat
+- nacionalnost
+- Nacionaneso
+- nacyja
+- narodnosć
+- narodowość
+- nashonalidat
+- nasionałità
+- Nasjonaliteit
+- nasjonalitet
+- Nasyonalidad
+- Nasyonalite
+- nationaliteit
+- nationalitet
+- Nationality
+- Nationalität
+- Nationalitèèt
+- nationalité
+- Nationalitéit
+- Nazionalitate
+- nazionalità
+- Nazionalität
+- naționalitate
+- nemzetiség
+- netewe
+- náisiúntacht
+- národnost
+- národnosť
+- quốc tịch
+- Rahvas
+- tautybė
+- valstspiederība
+- Wadanimo
+- Zom-pirenena
+- εθνικότητα
+- Милләт
+- милләт (ватандашлык)
+- народность
+- національність
+- нациад
+- националност
+- национальность
+- нацыянальнасць
+- нацыянальнасьць
+- ազգություն
+- אזרחות
+- الجنسيه
+- تابعیت
+- جنسية
+- قوميت
+- قومیت
+- مليت
+- ڕەگەزنامە
+- राष्ट्रीयता
+- राष्ट्रीयत्व
+- জাতীয়তা
+- ਕੌਮੀਅਤ
+- జాతీయత
+- ദേശീയത
+- ජාතිකත්වය
+- สัญชาติ
+- ສັນຊາດ
+- ეროვნება
+- 国籍
+- 國籍
+- ꠎꠣꠔꠤꠅꠔꠣ
+- 국적
 has_id_wikidata: Q231002
 instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~national_identity,1880695]]'
 different_from:
-  - '[[_Standards/WikiData/WD~ethnicity,5404323]]'
-  - '[[_Standards/WikiData/WD~ethnos,12839330]]'
-  - '[[_Standards/WikiData/WD~national_demonym,81058955]]'
-  - '[[_Standards/WikiData/WD~country,6256]]'
-  - '[[_Standards/WikiData/WD~nation,6266]]'
-  - '[[_Standards/WikiData/WD~state,7275]]'
-  - '[[_Standards/WikiData/WD~ethnic_group,41710]]'
-  - '[[_Standards/WikiData/WD~citizenship,42138]]'
+- '[[_Standards/WikiData/WD~ethnicity,5404323]]'
+- '[[_Standards/WikiData/WD~ethnos,12839330]]'
+- '[[_Standards/WikiData/WD~national_demonym,81058955]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~nation,6266]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+- '[[_Standards/WikiData/WD~citizenship,42138]]'
 subclass_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 Commons_category: Nationality
+dv_has_:
+  name_:
+    ar: جنسية
+    arz: الجنسيه
+    ast: nacionalidá
+    az: Milliyyət
+    ba: Милләт
+    bcl: Nasyonalidad
+    be: нацыянальнасць
+    be-tarask: нацыянальнасьць
+    bg: националност
+    bn: জাতীয়তা
+    br: Folk
+    bs: nacionalnost
+    ca: nacionalitat
+    ckb: ڕەگەزنامە
+    cs: národnost
+    cy: Cenedligrwydd
+    da: nationalitet
+    de: Nationalität
+    de-ch: Nationalität
+    el: εθνικότητα
+    en: nationality
+    en-us: nationality
+    eo: nacieco
+    es: nacionalidad
+    et: Rahvas
+    eu: Nazionalitate
+    fa: تابعیت
+    fi: kansallisuus
+    fr: nationalité
+    fy: Nasjonaliteit
+    ga: náisiúntacht
+    gl: nacionalidade
+    gn: hetã
+    gsw: Nazionalität
+    gv: ashoonaght
+    he: אזרחות
+    hi: राष्ट्रीयता
+    hr: nacionalnost
+    hsb: narodnosć
+    ht: Nasyonalite
+    hu: nemzetiség
+    hy: ազգություն
+    id: kebangsaan
+    io: Nacionaneso
+    it: nazionalità
+    ja: 国籍
+    ka: ეროვნება
+    ko: 국적
+    ku: netewe
+    lb: Nationalitéit
+    li: Nationalitèèt
+    lo: ສັນຊາດ
+    lt: tautybė
+    lv: valstspiederība
+    mg: Zom-pirenena
+    mk: националност
+    ml: ദേശീയത
+    mr: राष्ट्रीयत्व
+    ms: Kerakyatan
+    nan: Kok-che̍k
+    nb: nasjonalitet
+    nl: nationaliteit
+    nn: nasjonalitet
+    oc: Nacionalitat
+    os: нациад
+    pa: ਕੌਮੀਅਤ
+    pap: nashonalidat
+    pl: narodowość
+    ps: مليت
+    pt: nacionalidade
+    pt-br: nacionalidade
+    ro: naționalitate
+    ru: национальность
+    rue: народность
+    sd: قوميت
+    sh: Nacionalnost
+    si: ජාතිකත්වය
+    sk: národnosť
+    sl: državljanstvo
+    so: Wadanimo
+    sq: kombësia
+    sr: националност
+    sv: nationalitet
+    syl: ꠎꠣꠔꠤꠅꠔꠣ
+    szl: nacyja
+    te: జాతీయత
+    th: สัญชาติ
+    tl: Kabansaan
+    tr: milliyet
+    tt: милләт (ватандашлык)
+    tt-cyrl: милләт (ватандашлык)
+    uk: національність
+    ur: قومیت
+    vec: nasionałità
+    vi: quốc tịch
+    wuu: 国籍
+    yue: 國籍
+    zh: 國籍
+    zh-cn: 国籍
+    zh-hans: 国籍
+    zh-hant: 國籍
+    zh-hk: 國籍
+    zh-sg: 国籍
+    zh-tw: 國籍
 ---
-
 # [[Nationality]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Nationality,231002|WD~Nationality,231002]]  

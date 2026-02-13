@@ -1,8 +1,71 @@
 ---
 aliases:
-  - Stockholm Syndrom
-  - Stockholm_Syndrome
-  - Stockholm Syndrome
+- azoniad Stockholm
+- Hội chứng Stockholm
+- Sendroma Stokholmê
+- sindrom Stockholm
+- sindrome di Stoccolma
+- sindromi i stokholmit
+- sindromul Stockholm
+- Stockholm sendromu
+- Stockholm Syndrom
+- Stockholm Syndrome
+- Stockholm-sindromo
+- Stockholm-Syndrom
+- Stockholm-szindróma
+- Stockholmgo sindrome
+- Stockholmi sündroom
+- Stockholmsindroom
+- Stockholmski sindrom
+- Stockholmský syndrom
+- Stockholmssyndromet
+- Stockholmsyndrom
+- Stockholmsyndromet
+- Stockholmsyndroom
+- Stockholm_Syndrome
+- Stokgolm sindromi
+- Stokholm sindromu
+- Stokholm-sindromo
+- Stokholmas sindroms
+- Stokholmo sindromas
+- Stokholmski sindrom
+- Stokholmsyndroom
+- syndrom Stockholm
+- syndrom sztokholmski
+- Syndroma Holmiensis
+- syndrome de Stockholm
+- síndrome d'Estocolm
+- síndrome d'Estocolmu
+- síndrome de Estocolmo
+- Tukholma-syndrooma
+- Štokholmský syndróm
+- Σύνδρομο της Στοκχόλμης
+- Стакгольмскі сіндром
+- Стакгольмскі сындром
+- Стокгольм синдромы
+- стокгольмский синдром
+- Стокгольмський синдром
+- Стокхолмски синдром
+- Սթոքհոլմեան Համախտանիշ
+- Ստոկհոլմի համախտանիշ
+- תסמונת סטוקהולם
+- متلازمة ستوكهولم
+- نشانگان استکهلم
+- کۆنیشانی ستۆکھۆڵم
+- स्टॉकहोम सिंड्रोम
+- ষ্টকহ'ম চিনড্ৰ’ম
+- স্টকহোম সিনড্রোম
+- ਸਟਾਕਹੋਮ ਸਿੰਡਰੋਮ
+- இசுட்டாக்குஃகோம் நோய்க்கூட்டறிகுறி
+- സ്റ്റോക്ക്ഹോം സിൻഡ്രോം
+- ස්ටොක්හෝම් සින්ඩ්රෝමය
+- กลุ่มอาการสต็อกโฮล์ม
+- სტოკჰოლმის სინდრომი
+- ストックホルム症候群
+- 斯德哥尔摩综合征
+- 斯德哥爾摩症候群
+- 斯德哥爾摩綜合症
+- 스톡홀름 증후군
 has_id_wikidata: Q180242
 opposite_of: '[[_Standards/WikiData/WD~Lima_syndrome,3508666]]'
 instance_of: '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
@@ -12,13 +75,97 @@ health_specialty: '[[_Standards/WikiData/WD~psychology,9418]]'
 country: '[[_Standards/WikiData/WD~Sweden,34]]'
 Archive_of_Our_Own_tag: Stockholm Syndrome
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Stockholm-Syndroms.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-au-Stockholm%20syndrome.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-Stockholmssyndromet.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Stockholm-Syndroms.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-au-Stockholm%20syndrome.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sv-Stockholmssyndromet.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Former%20Kreditbanken%20Norrmalmstorg%20Stockholm%20Sweden.jpg
 IMDb_keyword: stockholm-syndrome
+dv_has_:
+  name_:
+    af: Stockholmsindroom
+    ar: متلازمة ستوكهولم
+    as: ষ্টকহ'ম চিনড্ৰ’ম
+    ast: síndrome d'Estocolmu
+    az: Stokholm sindromu
+    be: Стакгольмскі сіндром
+    be-tarask: Стакгольмскі сындром
+    bg: Стокхолмски синдром
+    bn: স্টকহোম সিনড্রোম
+    br: azoniad Stockholm
+    ca: síndrome d'Estocolm
+    ckb: کۆنیشانی ستۆکھۆڵم
+    cs: Stockholmský syndrom
+    cy: syndrom Stockholm
+    da: Stockholmsyndrom
+    de: Stockholm-Syndrom
+    el: Σύνδρομο της Στοκχόλμης
+    en: Stockholm syndrome
+    en-ca: Stockholm Syndrome
+    eo: Stokholm-sindromo
+    es: síndrome de Estocolmo
+    et: Stockholmi sündroom
+    eu: Stockholmgo sindrome
+    fa: نشانگان استکهلم
+    fi: Tukholma-syndrooma
+    fr: syndrome de Stockholm
+    fy: Stokholmsyndroom
+    gl: síndrome de Estocolmo
+    he: תסמונת סטוקהולם
+    hi: स्टॉकहोम सिंड्रोम
+    hr: Stockholmski sindrom
+    hu: Stockholm-szindróma
+    hy: Ստոկհոլմի համախտանիշ
+    hyw: Սթոքհոլմեան Համախտանիշ
+    id: sindrom Stockholm
+    io: Stockholm-sindromo
+    it: sindrome di Stoccolma
+    ja: ストックホルム症候群
+    jv: sindrom Stockholm
+    ka: სტოკჰოლმის სინდრომი
+    kk: Стокгольм синдромы
+    ko: 스톡홀름 증후군
+    ku: Sendroma Stokholmê
+    ku-latn: Sendroma Stokholmê
+    la: Syndroma Holmiensis
+    lt: Stokholmo sindromas
+    lv: Stokholmas sindroms
+    mk: Стокхолмски синдром
+    ml: സ്റ്റോക്ക്ഹോം സിൻഡ്രോം
+    mr: स्टॉकहोम सिंड्रोम
+    ms: Sindrom Stockholm
+    nb: Stockholmsyndromet
+    nl: Stockholmsyndroom
+    pa: ਸਟਾਕਹੋਮ ਸਿੰਡਰੋਮ
+    pl: syndrom sztokholmski
+    pt: síndrome de Estocolmo
+    ro: sindromul Stockholm
+    ru: стокгольмский синдром
+    sh: Stokholmski sindrom
+    si: ස්ටොක්හෝම් සින්ඩ්රෝමය
+    sk: Štokholmský syndróm
+    sl: stockholmski sindrom
+    sq: sindromi i stokholmit
+    sr: Стокхолмски синдром
+    sr-ec: Стокхолмски синдром
+    sr-el: Stokholmski sindrom
+    sv: Stockholmssyndromet
+    ta: இசுட்டாக்குஃகோம் நோய்க்கூட்டறிகுறி
+    th: กลุ่มอาการสต็อกโฮล์ม
+    tr: Stockholm sendromu
+    uk: Стокгольмський синдром
+    ur: Stockholm syndrome
+    uz: Stokgolm sindromi
+    vi: Hội chứng Stockholm
+    wuu: 斯德哥尔摩综合征
+    yue: 斯德哥爾摩綜合症
+    zh: 斯德哥爾摩綜合症
+    zh-cn: 斯德哥尔摩综合征
+    zh-hans: 斯德哥尔摩综合征
+    zh-hant: 斯德哥爾摩症候群
+    zh-hk: 斯德哥爾摩症候群
+    zh-sg: 斯德哥尔摩综合征
+    zh-tw: 斯德哥爾摩症候群
 ---
-
 # [[Stockholm_Syndrome]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stockholm_syndrome,180242|WD~Stockholm_syndrome,180242]]  

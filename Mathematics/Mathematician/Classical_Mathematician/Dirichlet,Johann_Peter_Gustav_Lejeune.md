@@ -1,77 +1,110 @@
 ---
 aliases:
-  - Johann_Peter_Gustav_Lejeune_Dirichlet
-  - Johann Peter Gustav Lejeune Dirichlet
-  - Dirichlet
-  - Dirichlet,Johann_Peter_Gustav_Lejeune
-  - Dirichlet,Johann Peter Gustav Lejeune
+- Dirichlet
+- Dirichlet,Johann Peter Gustav Lejeune
+- Dirichlet,Johann_Peter_Gustav_Lejeune
+- Dirixle
+- Iohannes Petrus Gustavus Lejeune Dirichlet
+- Johann Dirichlet
+- Johann Peter Gustav Lejeune Dirichlet
+- Johann_Peter_Gustav_Lejeune_Dirichlet
+- Peter Gustav Lejeune Dirichlet
+- Peter Qustav Lejyon Dirixle
+- Pēters Gustavs Ležēns Dirihlē
+- Πέτερ Γκούσταφ Λεζέν Ντίριχλετ
+- Ёган Пэтэр Густаў Лёжэн Дырыхле
+- Іаган Петэр Густаў Лежон Дзірыхле
+- Јохан Петер Густав Лежен Дирихле
+- Густав Лежен Дирихле
+- Йоганн Петер Густав Лежен-Діріхле
+- Петер Густав Лежён Дирихле
+- Петер Густав Льожон Дирихле
+- Петр Густав Дирихлей
+- Պետեր Գուստավ Լըժյոն Դիրիխլե
+- יוהאן פטר גוסטב לז'ן דיריכלה
+- دىرىخلې
+- يوهان بيتر جوستاف لوجون دركليه
+- يوهان بيتر غوستاف لوجون دركليه
+- پیٹر ڈرچلٹ
+- یوهان پتر قوستاف لوژون دیریکله
+- یوهان پتر گوستاف لوژون دیریکله
+- पीटर गुस्ताफ लजन डीरिक्ले
+- டிரிஃக்லெ
+- ಪೀಟರ್ ಗುಸ್ತಾವ್ ಲೆಜೆಯೂನ್ ಡೈರಿಚ್ಲೆಟ್
+- പീറ്റർ ഗുസ്താവ് ലെജ്യൂൺ ഡിറിക്ലെ
+- პეტერ გუსტავ ლეჟენ დირიხლე
+- ペーター・グスタフ・ディリクレ
+- 狄利克雷
+- 約翰·彼得·古斯塔夫·勒熱納·狄利克雷
+- 约翰·彼得·古斯塔夫·勒热纳·狄利克雷
+- 페터 구스타프 르죈 디리클레
 has_id_wikidata: Q29193
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Alfred_Enneper,68521]]'
-  - '[[_Standards/WikiData/WD~Leopold_Kronecker,76410]]'
-  - '[[_Standards/WikiData/WD~Rudolf_Lipschitz,77322]]'
-  - '[[_Standards/WikiData/WD~August_Ephraim_Kramer,100460]]'
-  - '[[_Standards/WikiData/WD~Gustav_Michaelis,105409]]'
-  - '[[_Standards/WikiData/WD~Carl_Anton_Bjerknes,694077]]'
-  - '[[_Standards/WikiData/WD~Leon_Wituski,11754434]]'
-  - '[[_Standards/WikiData/WD~Gustav_Bauer,15454803]]'
-  - '[[_Standards/WikiData/WD~Reinhold_Hoppe,15881197]]'
-  - '[[_Standards/WikiData/WD~Oscar_Johann_Wilhelm_Röthig,102257159]]'
-  - '[[_Standards/WikiData/WD~Johannes_Franz_Stader,103165746]]'
+- '[[_Standards/WikiData/WD~Alfred_Enneper,68521]]'
+- '[[_Standards/WikiData/WD~Leopold_Kronecker,76410]]'
+- '[[_Standards/WikiData/WD~Rudolf_Lipschitz,77322]]'
+- '[[_Standards/WikiData/WD~August_Ephraim_Kramer,100460]]'
+- '[[_Standards/WikiData/WD~Gustav_Michaelis,105409]]'
+- '[[_Standards/WikiData/WD~Carl_Anton_Bjerknes,694077]]'
+- '[[_Standards/WikiData/WD~Leon_Wituski,11754434]]'
+- '[[_Standards/WikiData/WD~Gustav_Bauer,15454803]]'
+- '[[_Standards/WikiData/WD~Reinhold_Hoppe,15881197]]'
+- '[[_Standards/WikiData/WD~Oscar_Johann_Wilhelm_Röthig,102257159]]'
+- '[[_Standards/WikiData/WD~Johannes_Franz_Stader,103165746]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 spouse: '[[_Standards/WikiData/WD~Rebecka_Mendelssohn,95404]]'
 employer:
-  - '[[_Standards/WikiData/WD~Prussian_Military_Academy,144242]]'
-  - '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
-  - '[[_Standards/WikiData/WD~University_of_Wrocław,315658]]'
-  - '[[_Standards/WikiData/WD~Maximilien_Sebastien_Foy,633498]]'
-  - '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
+- '[[_Standards/WikiData/WD~Prussian_Military_Academy,144242]]'
+- '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
+- '[[_Standards/WikiData/WD~University_of_Wrocław,315658]]'
+- '[[_Standards/WikiData/WD~Maximilien_Sebastien_Foy,633498]]'
+- '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
-  - '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
-  - '[[_Standards/WikiData/WD~Beethoven_Gymnasium_Bonn,814126]]'
-  - '[[_Standards/WikiData/WD~Dreikönigsgymnasium,1257931]]'
+- '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
+- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~Beethoven_Gymnasium_Bonn,814126]]'
+- '[[_Standards/WikiData/WD~Dreikönigsgymnasium,1257931]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
+- '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
 occupation:
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]'
-  - '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
+- '[[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]]'
+- '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~mathematical_statistics,745328]]'
-  - '[[_Standards/WikiData/WD~Dirichlet_problem,1192869]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
-  - '[[_Standards/WikiData/WD~number_theory,12479]]'
+- '[[_Standards/WikiData/WD~mathematical_statistics,745328]]'
+- '[[_Standards/WikiData/WD~Dirichlet_problem,1192869]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~number_theory,12479]]'
 place_of_burial: '[[_Standards/WikiData/WD~Bartholomäusfriedhof,_Göttingen,809394]]'
 relative:
-  - '[[_Standards/WikiData/WD~Paul_Mendelssohn_Bartholdy,2061251]]'
-  - '[[_Standards/WikiData/WD~Albertine_Mendelssohn_Bartholdy,60845349]]'
-  - '[[_Standards/WikiData/WD~Ottilie_Ernestine_Françoise_Mendelssohn,105441228]]'
-  - '[[_Standards/WikiData/WD~Felix_Mendelssohn,46096]]'
-  - '[[_Standards/WikiData/WD~Ernst_Kummer,57245]]'
-  - '[[_Standards/WikiData/WD~Fanny_Mendelssohn,57286]]'
+- '[[_Standards/WikiData/WD~Paul_Mendelssohn_Bartholdy,2061251]]'
+- '[[_Standards/WikiData/WD~Albertine_Mendelssohn_Bartholdy,60845349]]'
+- '[[_Standards/WikiData/WD~Ottilie_Ernestine_Françoise_Mendelssohn,105441228]]'
+- '[[_Standards/WikiData/WD~Felix_Mendelssohn,46096]]'
+- '[[_Standards/WikiData/WD~Ernst_Kummer,57245]]'
+- '[[_Standards/WikiData/WD~Fanny_Mendelssohn,57286]]'
 child: '[[_Standards/WikiData/WD~Walter_Arnold_Abraham_Dirichlet,2543970]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 notable_work: '[[_Standards/WikiData/WD~list_of_things_named_after_Gustav_Lejeune_Dirichlet,6643286]]'
@@ -81,13 +114,13 @@ family_name: '[[_Standards/WikiData/WD~Dirichlet,21126357]]'
 family: '[[_Standards/WikiData/WD~Mendelssohn_Bartholdy,64589902]]'
 date_of_death: 1859-05-05T00:00:00Z
 student_of:
-  - '[[_Standards/WikiData/WD~Georg_Simon_Ohm,1585]]'
-  - '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
+- '[[_Standards/WikiData/WD~Georg_Simon_Ohm,1585]]'
+- '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Wrocław,1799]]'
-  - '[[_Standards/WikiData/WD~Göttingen,3033]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Wrocław,1799]]'
+- '[[_Standards/WikiData/WD~Göttingen,3033]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
 place_of_birth: '[[_Standards/WikiData/WD~Düren,1884]]'
 place_of_death: '[[_Standards/WikiData/WD~Göttingen,3033]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -104,8 +137,88 @@ ISNI: 0000000108607198
 Regensburg_Classification: SF 2540
 name_in_native_language: Johann Peter Gustav Lejeune Dirichlet
 birth_name: Johann Peter Gustav Lejeune Dirichlet
+dv_has_:
+  name_:
+    an: Peter Gustav Lejeune Dirichlet
+    ar: يوهان بيتر غوستاف لوجون دركليه
+    arz: يوهان بيتر جوستاف لوجون دركليه
+    ast: Peter Gustav Lejeune Dirichlet
+    az: Peter Qustav Lejyon Dirixle
+    azb: یوهان پتر قوستاف لوژون دیریکله
+    be: Іаган Петэр Густаў Лежон Дзірыхле
+    be-tarask: Ёган Пэтэр Густаў Лёжэн Дырыхле
+    bg: Петер Густав Льожон Дирихле
+    bs: Johann Peter Gustav Lejeune Dirichlet
+    ca: Johann Peter Gustav Lejeune Dirichlet
+    cs: Johann Peter Gustav Lejeune Dirichlet
+    da: Peter Gustav Lejeune Dirichlet
+    dag: Johann Peter Gustav Lejeune Dirichlet
+    de: Peter Gustav Lejeune Dirichlet
+    ee: Peter Gustav Lejeune Dirichlet
+    el: Πέτερ Γκούσταφ Λεζέν Ντίριχλετ
+    en: Johann Peter Gustav Lejeune Dirichlet
+    en-us: Johann Peter Gustav Lejeune Dirichlet
+    eo: Johann Peter Gustav Lejeune Dirichlet
+    es: Peter Gustav Lejeune Dirichlet
+    eu: Johann Peter Gustav Lejeune Dirichlet
+    ext: Peter Gustav Lejeune Dirichlet
+    fa: یوهان پتر گوستاف لوژون دیریکله
+    fi: Johann Peter Gustav Lejeune Dirichlet
+    fr: Johann Peter Gustav Lejeune Dirichlet
+    ga: Johann Peter Gustav Lejeune Dirichlet
+    gl: Peter Gustav Lejeune Dirichlet
+    he: יוהאן פטר גוסטב לז'ן דיריכלה
+    hi: पीटर गुस्ताफ लजन डीरिक्ले
+    hr: Johann Peter Gustav Lejeune Dirichlet
+    ht: Johann Peter Gustav Lejeune Dirichlet
+    hu: Peter Gustav Lejeune Dirichlet
+    hy: Պետեր Գուստավ Լըժյոն Դիրիխլե
+    id: Peter Gustav Lejeune Dirichlet
+    is: Johann Peter Gustav Lejeune Dirichlet
+    it: Peter Gustav Lejeune Dirichlet
+    ja: ペーター・グスタフ・ディリクレ
+    ka: პეტერ გუსტავ ლეჟენ დირიხლე
+    kn: ಪೀಟರ್ ಗುಸ್ತಾವ್ ಲೆಜೆಯೂನ್ ಡೈರಿಚ್ಲೆಟ್
+    ko: 페터 구스타프 르죈 디리클레
+    la: Iohannes Petrus Gustavus Lejeune Dirichlet
+    lv: Pēters Gustavs Ležēns Dirihlē
+    mg: Johann Peter Gustav Lejeune Dirichlet
+    mk: Густав Лежен Дирихле
+    ml: പീറ്റർ ഗുസ്താവ് ലെജ്യൂൺ ഡിറിക്ലെ
+    mn: Петр Густав Дирихлей
+    mul: Johann Peter Gustav Lejeune Dirichlet
+    nb: Johann Peter Gustav Lejeune Dirichlet
+    nds: Peter Gustav Lejeune Dirichlet
+    nl: Johann Dirichlet
+    nn: Johann Peter Gustav Lejeune Dirichlet
+    oc: Johann Peter Gustav Lejeune Dirichlet
+    pl: Peter Gustav Lejeune Dirichlet
+    pms: Peter Gustav Lejeune Dirichlet
+    pnb: پیٹر ڈرچلٹ
+    pt: Johann Peter Gustav Lejeune Dirichlet
+    pt-br: Johann Peter Gustav Lejeune Dirichlet
+    ro: Johann Peter Gustav Lejeune Dirichlet
+    ru: Петер Густав Лежён Дирихле
+    sco: Peter Gustav Lejeune Dirichlet
+    sk: Peter Gustav Lejeune Dirichlet
+    sl: Johann Peter Gustav Lejeune Dirichlet
+    sq: Johann Peter Gustav Lejeune Dirichlet
+    sr: Јохан Петер Густав Лежен Дирихле
+    sr-ec: Јохан Петер Густав Лежен Дирихле
+    sv: Johann Peter Gustav Lejeune Dirichlet
+    ta: டிரிஃக்லெ
+    tr: Peter Gustav Lejeune Dirichlet
+    ug: دىرىخلې
+    uk: Йоганн Петер Густав Лежен-Діріхле
+    ur: پیٹر ڈرچلٹ
+    uz: Dirixle
+    vi: Johann Peter Gustav Lejeune Dirichlet
+    vo: Johann Peter Gustav Lejeune Dirichlet
+    xmf: პეტერ გუსტავ ლეჟენ დირიხლე
+    yue: 狄利克雷
+    zh: 約翰·彼得·古斯塔夫·勒熱納·狄利克雷
+    zh-cn: 约翰·彼得·古斯塔夫·勒热纳·狄利克雷
 ---
-
 # [[Dirichlet,Johann_Peter_Gustav_Lejeune]] 
 
 #is_/same_as :: [[WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]] 

@@ -1,27 +1,46 @@
 ---
-has_time_started: 1959-01-01 
+has_time_started: 1959-01-01
 aliases:
-  - Confédération Mondiale des Activités Subaquatiques
-  - World Underwater Federation
-  - CMAS
-  - Confédération_Mondiale_des_Activités_Subaquatiques
+- CMAS
+- Confederació Mundial d'Activitats Subaquàtiques
+- Confederación Mundial d'Actividaes Subacuátiques
+- Confederación Mundial de Actividades Subacuáticas
+- Confédération Mondiale des Activités Subaquatiques
+- Confédération_Mondiale_des_Activités_Subaquatiques
+- Dünya Sualtı Aktiviteleri Konfederasyonu
+- Konfederacio Monda de Aktivecoj Subakvaj
+- Svetovna podvodna federacija
+- Svetová konfederácia činností pod vodou
+- Svetska federacija za podvodne aktivnosti
+- Světová potápěčská konfederace
+- Urpeko Jardueren Mundu Konfederazioa
+- World Underwater Federation
+- Всемирная конфедерация подводной деятельности
+- Сусьветная канфэдэрацыя падводнай дзейнасьці
+- الاتحاد الدولي للأنشطة تحت المائية
+- کنفدراسیون جهانی فعالیتهای زیر آبی
+- สมาพันธ์กีฬาใต้น้ำโลก
+- 世界水中連盟
+- 国际水中运动联合会
+- 國際水中運動聯合會
+- 세계 수중 연맹
 has_id_wikidata: Q845773
 field_of_work:
-  - '[[_Standards/WikiData/WD~underwater_diving,179643]]'
-  - '[[_Standards/WikiData/WD~marine_ecology,4530312]]'
-  - '[[_Standards/WikiData/WD~water_sport,61065]]'
+- '[[_Standards/WikiData/WD~underwater_diving,179643]]'
+- '[[_Standards/WikiData/WD~marine_ecology,4530312]]'
+- '[[_Standards/WikiData/WD~water_sport,61065]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
-  - '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
+- '[[_Standards/WikiData/WD~Association_of_IOC_Recognised_International_Sports_Federations,744105]]'
+- '[[_Standards/WikiData/WD~Global_Association_of_International_Sports_Federations,1067053]]'
 sport: '[[_Standards/WikiData/WD~underwater_sports,2369170]]'
 instance_of: '[[_Standards/WikiData/WD~international_sport_governing_body,11422536]]'
 operating_area:
-  - '[[_Standards/WikiData/WD~worldwide,13780930]]'
-  - '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~worldwide,13780930]]'
+- '[[_Standards/WikiData/WD~Earth,2]]'
 official_language:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
 social_media_followers: 10000
 headquarters_locations: '[[_Standards/WikiData/WD~Rome,220]]'
@@ -31,8 +50,43 @@ official_website: http://www.cmas.org/
 ISNI: 000000012173620X
 Facebook_username: cmasorg
 Commons_category: Confédération Mondiale des Activités Subaquatiques
+dv_has_:
+  name_:
+    ar: الاتحاد الدولي للأنشطة تحت المائية
+    ast: Confederación Mundial d'Actividaes Subacuátiques
+    be-tarask: Сусьветная канфэдэрацыя падводнай дзейнасьці
+    ca: Confederació Mundial d'Activitats Subaquàtiques
+    cs: Světová potápěčská konfederace
+    da: CMAS
+    de: Confédération Mondiale des Activités Subaquatiques
+    en: Confédération Mondiale des Activités Subaquatiques
+    eo: Konfederacio Monda de Aktivecoj Subakvaj
+    es: Confederación Mundial de Actividades Subacuáticas
+    eu: Urpeko Jardueren Mundu Konfederazioa
+    fa: کنفدراسیون جهانی فعالیتهای زیر آبی
+    fi: CMAS
+    fr: Confédération mondiale des activités subaquatiques
+    hr: CMAS
+    it: Confédération Mondiale des Activités Subaquatiques
+    ja: 世界水中連盟
+    ko: 세계 수중 연맹
+    nb: Confédération Mondiale des Activités Subaquatiques
+    nl: Confédération Mondiale des Activités Subaquatiques
+    pl: CMAS
+    ro: CMAS
+    ru: Всемирная конфедерация подводной деятельности
+    sk: Svetová konfederácia činností pod vodou
+    sl: Svetovna podvodna federacija
+    sr: Svetska federacija za podvodne aktivnosti
+    sv: Confédération mondiale des activités subaquatiques
+    th: สมาพันธ์กีฬาใต้น้ำโลก
+    tr: Dünya Sualtı Aktiviteleri Konfederasyonu
+    uk: CMAS
+    zh: 國際水中運動聯合會
+    zh-hans: 国际水中运动联合会
+    zh-hant: 國際水中運動聯合會
+    zh-hk: 國際水中運動聯合會
 ---
-
 # [[Confédération_Mondiale_des_Activités_Subaquatiques]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Confédération_Mondiale_des_Activités_Subaquatiques,845773|WD~Confédération_Mondiale_des_Activités_Subaquatiques,845773]]

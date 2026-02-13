@@ -1,9 +1,87 @@
 ---
 aliases:
-  - Remipedia
+- airojalkaiset
+- Daraqayaqlılar
+- gályarákok
+- Kirmėliniai vėžiagyviai
+- Oearpuuetige
+- Remipedi
+- Remipedia
+- Remipedios
+- Remipēdijas
+- Yeenaʼałkǫ́ʼíłániichilí
+- årefotkreps
+- Łopatonogi
+- ρεμίποδα
+- Ремипедии
+- متشعبات الأرجل
+- متشعبات الارجل
+- گوشپایان
+- แรมิพีเดีย
+- ムカデエビ
+- 桨足纲
+- 槳足綱
+- 요지강
 title: Remipedia
+has_id_wikidata: Q490800
+dv_has_:
+  name_:
+    an: Remipedia
+    ar: متشعبات الأرجل
+    arz: متشعبات الارجل
+    ast: Remipedia
+    az: Daraqayaqlılar
+    bg: Ремипедии
+    ca: Remipedi
+    ceb: Remipedia
+    de: Remipedia
+    el: ρεμίποδα
+    en: Remipedia
+    eo: Remipedia
+    es: Remipedia
+    eu: Remipedia
+    ext: Remipedia
+    fa: گوشپایان
+    fi: airojalkaiset
+    fr: Remipedia
+    ga: Remipedia
+    gl: Remipedios
+    hr: Remipedia
+    hu: gályarákok
+    ia: Remipedia
+    ie: Remipedia
+    io: Remipedia
+    it: Remipedia
+    ja: ムカデエビ
+    ko: 요지강
+    la: Remipedia
+    li: Oearpuuetige
+    lt: Kirmėliniai vėžiagyviai
+    lv: Remipēdijas
+    mul: Remipedia
+    nb: årefotkreps
+    nl: Remipedia
+    nn: Remipedia
+    nv: Yeenaʼałkǫ́ʼíłániichilí
+    oc: Remipedia
+    pl: Łopatonogi
+    pt: Remipedia
+    pt-br: Remipedia
+    ro: Remipedia
+    ru: Ремипедии
+    sl: Remipedia
+    sq: Remipedia
+    sv: Remipedia
+    th: แรมิพีเดีย
+    tr: Remipedia
+    uk: Remipedia
+    vi: Remipedia
+    vo: Remipedia
+    war: Remipedia
+    zh: 槳足綱
+    zh-cn: 桨足纲
+    zh-tw: 槳足綱
 ---
-
 # [[Remipedia]] 
 ![ ](Remipedia/Speleonectes_ondinae.gif) 
 ## #has_/text_of_/abstract 

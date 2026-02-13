@@ -1,21 +1,96 @@
 ---
 aliases:
-  - Vedism
-  - Brahmanism
+- brahmalaisuus
+- brahmanesimo
+- Brahmanism
+- Brahmanisma
+- brahmanisme
+- Brahmanismo
+- Brahmanismus
+- brahmanizem
+- Brahmanizm
+- Brahmanizmus
+- brahmoismo
+- Bramaismu
+- bramanisme
+- bramanismo
+- Braminizm
+- bráhmanismus
+- Brëmëismo
+- Vedism
+- Бараҳмания
+- Браманизам
+- Брахманізм
+- брахманизм
+- برهمية
+- බ්රාහ්මණාගම
+- ბრაჰმანიზმი
+- លទ្ធិព្រាហ្មណ៍
+- バラモン教
+- 吠陀婆罗门教
+- 吠陀婆羅門教
+- 吠陀宗教
 has_id_wikidata: Q889766
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 in_opposition_to: '[[_Standards/WikiData/WD~anti_Brahminism,4774117]]'
 subclass_of: '[[_Standards/WikiData/WD~Hinduism,9089]]'
 instance_of: '[[_Standards/WikiData/WD~religion,9174]]'
 Dewey_Decimal_Classification: 294.5
+dv_has_:
+  name_:
+    ar: برهمية
+    az: Brahmanizm
+    bcl: Brëmëismo
+    ca: bramanisme
+    cbk-zam: bramanismo
+    ceb: Brëmëismo
+    cps: Brëmëismo
+    cs: bráhmanismus
+    de: Brahmanismus
+    en: Brahmanism
+    eo: brahmoismo
+    es: bramanismo
+    et: Brahmanism
+    eu: Brahmanismo
+    fi: brahmalaisuus
+    fr: brahmanisme
+    id: Brahmanisme
+    it: brahmanesimo
+    ja: バラモン教
+    ka: ბრაჰმანიზმი
+    km: លទ្ធិព្រាហ្មណ៍
+    krj: Brëmëismo
+    ky: Брахманизм
+    mg: Brahmanisma
+    nb: Brahmanisme
+    nl: Brahmanisme
+    pag: Brëmëismo
+    pam: Bramaismu
+    pl: Braminizm
+    pt: bramanismo
+    ro: Brahmanism
+    ru: брахманизм
+    si: බ්රාහ්මණාගම
+    sk: Brahmanizmus
+    sl: brahmanizem
+    sr: Браманизам
+    sv: brahmanism
+    tg: Бараҳмания
+    tl: Brëmëismo
+    tr: Brahmanizm
+    uk: Брахманізм
+    uz: Brahmanizm
+    xmf: ბრაჰმანიზმი
+    zh: 吠陀宗教
+    zh-cn: 吠陀婆罗门教
+    zh-hant: 吠陀婆羅門教
 ---
-
 # [[Brahmanism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Brahmanism,889766]] 

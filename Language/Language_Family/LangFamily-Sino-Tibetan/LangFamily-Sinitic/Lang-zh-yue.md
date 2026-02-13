@@ -1,65 +1,216 @@
 ---
 aliases:
-  - Yue
-  - Cantonese
-  - Lang-yu
-  - Yue Chinese
-  - Lang-zh-yue
+- bahasa Yue
+- Basa Yüt (basa Yit)
+- cantonais
+- Cantonese
+- cantonezo
+- cantonés
+- Chinu cantonés
+- Guangdong
+- isi-Yue Chinese
+- Jue kineski
+- Jüe
+- język yue
+- Kantonees
+- Kantoneesch
+- Kantonesisch
+- kantonesisk
+- kantonesiska
+- Kantonezî
+- kantoni keel
+- kantonščina
+- Kari Kwongtong
+- Kiyue
+- kulupu toki Ju
+- Lang-yu
+- Lang-zh-yue
+- Lenga Cinèisa
+- lingua yue
+- Língua yue
+- Oa̍t-gí
+- sudĉina lingvo
+- Sínis Yúé
+- tiếng Quảng Đông
+- Tsieineeg Yue
+- Uŏk-ngṳ̄
+- Vahgvangjdungh
+- xinès Yue
+- Yue
+- Yue Chinese
+- Yue kineski
+- Yue txinera
+- Yue Çin dili
+- Yue Çincesi
+- Yue-kieli
+- Yueish
+- јуе
+- юе
+- юе теле
+- юэ
+- յուե չինարեն
+- סינית קנטונזית
+- الشينوية د يووي
+- زبان کانتونی
+- صينية يوي
+- صينيه يوى
+- یو چینی
+- یوئی چینی
+- یویی چینی
+- यू चीनी
+- ইউয়ে ভাষা
+- காந்தோநீசிய மொழி
+- ภาษาจีนกวางตุ้ง
+- ཀོང་ཏུང་སྐད།
+- ጓንግዶንግኛ
+- 粤語
+- 粤语
+- 粵語
+- 월어
 has_id_wikidata: Q7033959
 tags:
-  - Lang/yu
+- Lang/yu
 type: Lang
 linguistic_typology:
-  - '[[_Standards/WikiData/WD~tonal_language,191328]]'
-  - '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
+- '[[_Standards/WikiData/WD~tonal_language,191328]]'
+- '[[_Standards/WikiData/WD~subject_verb_object,651641]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~language,34770]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~language,34770]]'
 replaces: '[[_Standards/WikiData/WD~Middle_Chinese,2016252]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~written_Cantonese,2472605]]'
-  - '[[_Standards/WikiData/WD~Simplified_Chinese,13414913]]'
-  - '[[_Standards/WikiData/WD~Cantonese_Braille,13586477]]'
-  - '[[_Standards/WikiData/WD~Traditional_Chinese,18130932]]'
+- '[[_Standards/WikiData/WD~written_Cantonese,2472605]]'
+- '[[_Standards/WikiData/WD~Simplified_Chinese,13414913]]'
+- '[[_Standards/WikiData/WD~Cantonese_Braille,13586477]]'
+- '[[_Standards/WikiData/WD~Traditional_Chinese,18130932]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~varieties_of_Chinese,2748296]]'
-  - '[[_Standards/WikiData/WD~Sinitic,33857]]'
+- '[[_Standards/WikiData/WD~varieties_of_Chinese,2748296]]'
+- '[[_Standards/WikiData/WD~Sinitic,33857]]'
 uses:
-  - '[[_Standards/WikiData/WD~Cantonese_characters,7214747]]'
-  - '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
+- '[[_Standards/WikiData/WD~Cantonese_characters,7214747]]'
+- '[[_Standards/WikiData/WD~Chinese_characters,8201]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828495,22828495]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
 country:
-  - '[[_Standards/WikiData/WD~Malaysia,833]]'
-  - '[[_Standards/WikiData/WD~Brunei,921]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Brunei,921]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 indigenous_to:
-  - '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
-  - '[[_Standards/WikiData/WD~Macau,14773]]'
-  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
-  - '[[_Standards/WikiData/WD~Guangxi,15176]]'
-  - '[[_Standards/WikiData/WD~Hainan,42200]]'
+- '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
+- '[[_Standards/WikiData/WD~Macau,14773]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Guangxi,15176]]'
+- '[[_Standards/WikiData/WD~Hainan,42200]]'
 number_of_speakers_writers_or_signers: 73100000
 WALS_lect_code: cnt
 GitHub_topic: cantonese
 native_label:
-  - 粤语
-  - 粵語
+- 粤语
+- 粵語
 Ethnologue_com_language_code: yue
 Wikimedia_language_code:
-  - yue
-  - zh-yue
+- yue
+- zh-yue
 IETF_language_tag: yue
 ISO_639_3_code: yue
 distribution_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Yue.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Idioma%20canton%C3%A9s.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Chinois%20Yue.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Idioma%20canton%C3%A9s.png
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20yue.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yueyu-vector.svg
 exact_match: http://publications.europa.eu/resource/authority/language/YUE
 Glottolog_code: yuec1235
+dv_has_:
+  name_:
+    af: Kantonees
+    am: ጓንግዶንግኛ
+    ar: صينية يوي
+    ary: الشينوية د يووي
+    arz: صينيه يوى
+    ast: Chinu cantonés
+    az: Yue Çin dili
+    be-tarask: юэ
+    bn: ইউয়ে ভাষা
+    bo: ཀོང་ཏུང་སྐད།
+    ca: xinès Yue
+    cdo: Uŏk-ngṳ̄
+    ckb: یویی چینی
+    co: cantonese
+    cs: Jüe
+    cy: Tsieineeg Yue
+    da: yue
+    de: Kantonesisch
+    en: Yue Chinese
+    en-gb: Yue Chinese
+    eo: sudĉina lingvo
+    es: cantonés
+    et: kantoni keel
+    eu: Yue txinera
+    fa: زبان کانتونی
+    fi: Yue-kieli
+    fr: cantonais
+    ga: Sínis Yúé
+    gan: 粵語
+    gl: lingua yue
+    gv: Yueish
+    hak: 粵語
+    he: סינית קנטונזית
+    hi: यू चीनी
+    hif: Yue Chinese
+    hr: Yue kineski
+    hy: յուե չինարեն
+    id: Yue
+    it: cantonese
+    ja: 粤語
+    jv: Basa Yüt (basa Yit)
+    ko: 월어
+    ku: Kantonezî
+    kv: Юэ
+    la: Yue
+    lfn: Guangdong
+    lzh: 粵語
+    mk: јуе
+    ms: bahasa Yue
+    mul: yue
+    nan: Oa̍t-gí
+    nb: kantonesisk
+    nds: Kantoneesch
+    nl: Kantonees
+    nn: kantonesisk
+    os: юэ
+    pl: język yue
+    pms: Lenga Cinèisa
+    pnb: یو چینی
+    pt: Língua yue
+    ru: юэ
+    sl: kantonščina
+    sr: Jue kineski
+    sv: kantonesiska
+    sw: Kiyue
+    ta: காந்தோநீசிய மொழி
+    th: ภาษาจีนกวางตุ้ง
+    tl: Yue
+    tok: kulupu toki Ju
+    tr: Yue Çincesi
+    trv: Kari Kwongtong
+    tt: юе теле
+    uk: юе
+    ur: یوئی چینی
+    vec: cantonezo
+    vi: tiếng Quảng Đông
+    wuu: 粤语
+    yue: 粵語
+    za: Vahgvangjdungh
+    zh: 粵語
+    zh-cn: 粤语
+    zh-hans: 粤语
+    zh-hant: 粵語
+    zh-hk: 粵語
+    zh-mo: 粵語
+    zh-sg: 粤语
+    zh-tw: 粵語
+    zu: isi-Yue Chinese
 ---
-
 # [[Lang-zh-yue]] 
 
 [SpocWebEntityId:: 457 ]

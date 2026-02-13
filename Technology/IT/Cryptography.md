@@ -1,25 +1,101 @@
 ---
 aliases:
-  - Kryptographie
-  - Cryptography
+- cripteagrafaíocht
+- criptografia
+- criptografie
+- Criptografìa
+- criptografía
+- crittografia
+- Crittugrafìa
+- cryptografie
+- cryptographia
+- cryptographie
+- Cryptography
+- Cêl-ysgrifiaeth
+- Dulmálsfræði
+- Jüfav
+- Kriptografi
+- kriptografia
+- Kriptografie
+- Kriptografija
+- Kriptografiya
+- Kriptografo
+- Kriptograpiya
+- kriptográfia
+- Kriptogrāfija
+- Kriptolociye
+- kriptologio
+- kriptoqrafiya
+- kryptografi
+- kryptografia
+- kryptografie
+- kryptografiija
+- Kryptographie
+- krüptograafia
+- Krüptografii
+- mật mã học
+- sona pi lukin ala
+- Ufichamishi
+- Umchazanyandla
+- Àm-bé-ha̍k
+- şifreleme
+- κρυπτογραφία
+- Криптограф
+- криптографія
+- криптографи
+- криптографија
+- криптографий
+- криптография
+- крыптаграфія
+- рамзнигорӣ
+- գաղտնագրություն
+- קריפטאגראפיע
+- קריפטוגרפיה
+- تعمية
+- رمز نگاری
+- رمزنویسی
+- رمزنگاری
+- كريپتولوچى
+- كريپطوݣرافيا
+- کریپتۆگرافی
+- क्रिप्टोग्राफी
+- क्रिप्टोग्रॉफी
+- बीज-लेखन
+- তথ্যগুপ্তিবিদ্যা
+- સંકેતલિપિ
+- କ୍ରିପ୍ଟୋଗ୍ରାଫି
+- மறையீட்டியல்
+- గూఢ లిపి శాస్త్రం
+- ಗುಪ್ತ ಲಿಪಿ ಶಾಸ್ತ್ರ
+- ഗൂഢശാസ്ത്രം
+- วิทยาการเข้ารหัสลับ
+- ကုဒ်ဝှက်ရေးသားခြင်း
+- კრიპტოგრაფია
+- 密码学
+- 密码编码学
+- 密碼學
+- 暗号理論
+- 暗號學
+- ꠇꠤꠙꠐꠞ ꠇꠣꠝ
+- 암호학
 has_id_wikidata: Q8789
 has_part_s_:
-  - '[[_Standards/WikiData/WD~public_key_cryptography,201339]]'
-  - '[[_Standards/WikiData/WD~symmetric_key_algorithm,327675]]'
-  - '[[_Standards/WikiData/WD~quantum_cryptography,471906]]'
-  - '[[_Standards/WikiData/WD~post_quantum_cryptography,7233576]]'
+- '[[_Standards/WikiData/WD~public_key_cryptography,201339]]'
+- '[[_Standards/WikiData/WD~symmetric_key_algorithm,327675]]'
+- '[[_Standards/WikiData/WD~quantum_cryptography,471906]]'
+- '[[_Standards/WikiData/WD~post_quantum_cryptography,7233576]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~security_engineering,365674]]'
-  - '[[_Standards/WikiData/WD~technique,2695280]]'
+- '[[_Standards/WikiData/WD~security_engineering,365674]]'
+- '[[_Standards/WikiData/WD~technique,2695280]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_cryptography,467928]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_cryptography,620009]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Security_Engineering_A_Guide_to_Building_Dependable_Distributed_Systems,_2nd_edition,47482102]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 is_the_study_of: '[[_Standards/WikiData/WD~cryptosystem,976521]]'
 part_of: '[[_Standards/WikiData/WD~cryptology,1430062]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Cryptography_navbox,10858706]]'
@@ -30,29 +106,146 @@ OmegaWiki_Defined_Meaning: 676340
 U_S_National_Archives_Identifier: 10644644
 ACM_Classification_Code_2012_: 10002979
 GitHub_topic:
-  - cryptography
-  - crypto
+- cryptography
+- crypto
 subreddit: crypto
 Stack_Exchange_site_URL: https://crypto.stackexchange.com/
 Commons_category: Cryptography
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorenz-SZ42-2.jpg
 Stack_Exchange_tag:
-  - https://academia.stackexchange.com/tags/cryptography
-  - https://bitcoin.stackexchange.com/tags/cryptography
-  - https://codereview.stackexchange.com/tags/cryptography
-  - https://cs.stackexchange.com/tags/cryptography
-  - https://cstheory.stackexchange.com/tags/cryptography
-  - https://ethereum.stackexchange.com/tags/cryptography
-  - https://math.stackexchange.com/tags/cryptography
-  - https://mathematica.stackexchange.com/tags/cryptography
-  - https://mathoverflow.net/tags/cryptography
-  - https://stackoverflow.com/tags/cryptography
+- https://academia.stackexchange.com/tags/cryptography
+- https://bitcoin.stackexchange.com/tags/cryptography
+- https://codereview.stackexchange.com/tags/cryptography
+- https://cs.stackexchange.com/tags/cryptography
+- https://cstheory.stackexchange.com/tags/cryptography
+- https://ethereum.stackexchange.com/tags/cryptography
+- https://math.stackexchange.com/tags/cryptography
+- https://mathematica.stackexchange.com/tags/cryptography
+- https://mathoverflow.net/tags/cryptography
+- https://stackoverflow.com/tags/cryptography
 IEV_number: 171-08-08
 Iconclass_notation: 49L32
 Krugosvet_article: lingvistika/kriptografiya
 Baidu_Tieba_name: 密码
+dv_has_:
+  name_:
+    af: Kriptografie
+    ar: تعمية
+    ary: كريپطوݣرافيا
+    arz: كريپتولوچى
+    ast: Criptografía
+    az: kriptoqrafiya
+    ba: Криптография
+    bar: Kryptographie
+    be: крыптаграфія
+    be-tarask: крыптаграфія
+    bg: Криптография
+    bn: তথ্যগুপ্তিবিদ্যা
+    bs: Kriptografija
+    ca: criptografia
+    ckb: کریپتۆگرافی
+    cs: kryptografie
+    cy: Cêl-ysgrifiaeth
+    da: kryptografi
+    de: Kryptographie
+    de-ch: Kryptographie
+    diq: Kriptolociye
+    el: κρυπτογραφία
+    en: cryptography
+    en-ca: Cryptography
+    en-gb: cryptography
+    eo: kriptologio
+    es: criptografía
+    et: krüptograafia
+    eu: kriptografia
+    fa: رمزنگاری
+    fi: kryptografia
+    fr: cryptographie
+    frr: Krüptografii
+    ga: cripteagrafaíocht
+    gan: 暗號學
+    gcr: Kriptografi
+    gl: criptografía
+    gu: સંકેતલિપિ
+    he: קריפטוגרפיה
+    hi: बीज-लेखन
+    hr: Kriptografija
+    hu: kriptográfia
+    hy: գաղտնագրություն
+    id: Kriptografi
+    io: Kriptografo
+    is: Dulmálsfræði
+    it: crittografia
+    ja: 暗号理論
+    jam: Kriptografi
+    jv: Kriptografi
+    ka: კრიპტოგრაფია
+    kk: Криптография
+    kn: ಗುಪ್ತ ಲಿಪಿ ಶಾಸ್ತ್ರ
+    ko: 암호학
+    ky: Криптограф
+    la: cryptographia
+    lmo: Crittografia
+    lt: kriptografija
+    lv: Kriptogrāfija
+    mhr: криптографий
+    mk: криптографија
+    ml: ഗൂഢശാസ്ത്രം
+    mn: Криптограф
+    mr: क्रिप्टोग्राफी
+    ms: Kriptografi
+    my: ကုဒ်ဝှက်ရေးသားခြင်း
+    nan: Àm-bé-ha̍k
+    nb: kryptografi
+    ne: क्रिप्टोग्रॉफी
+    nl: cryptografie
+    nn: kryptografi
+    oc: Criptografia
+    or: କ୍ରିପ୍ଟୋଗ୍ରାଫି
+    os: криптографи
+    pl: kryptografia
+    pms: Criptografìa
+    pnb: رمز نگاری
+    pt: criptografia
+    pt-br: criptografia
+    ro: criptografie
+    ru: криптография
+    scn: Crittugrafìa
+    se: kryptografiija
+    sh: Kriptografija
+    sk: Kryptografia
+    sl: kriptografija
+    smn: kryptografia
+    sms: kryptografia
+    sq: Kriptografia
+    sr: криптографија
+    sr-ec: криптографија
+    sv: kryptografi
+    sw: Ufichamishi
+    syl: ꠇꠤꠙꠐꠞ ꠇꠣꠝ
+    ta: மறையீட்டியல்
+    te: గూఢ లిపి శాస్త్రం
+    tg: рамзнигорӣ
+    th: วิทยาการเข้ารหัสลับ
+    tl: Kriptograpiya
+    tok: sona pi lukin ala
+    tr: şifreleme
+    tt: криптография
+    uk: криптографія
+    ur: رمزنویسی
+    uz: Kriptografiya
+    vi: mật mã học
+    vo: Jüfav
+    war: Kriptograpiya
+    wuu: 密码学
+    yi: קריפטאגראפיע
+    yue: 密碼學
+    zh: 密码编码学
+    zh-cn: 密码学
+    zh-hans: 密码学
+    zh-hant: 密碼學
+    zu: Umchazanyandla
 ---
-
 # [[Cryptography]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cryptography,8789|WD~Cryptography,8789]] 

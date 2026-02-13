@@ -1,9 +1,120 @@
 ---
 aliases:
-  - Liliales
+- Bộ Loa kèn
+- Koma lîliyan
+- lelieagtiges
+- Lelijiečiai
+- Liilialaadsed
+- Liliales
+- Lilialoj
+- Lilials
+- Lilienartige
+- lilijevci
+- Liliju rinda
+- liliomvirágúak
+- liliotvaré
+- liliowce
+- Lilje-ordenen
+- liljeordenen
+- Liljeplanter
+- Liljubálkur
+- Ljiljanolike
+- Tanom nga liryo
+- Zanbaqçiçəklilər
+- ľaliotvaré
+- лілієцвіті
+- лілеякветныя
+- Лалагүлділер
+- лилјаноцветни
+- лилиецветни
+- лилиецветные
+- Лилия чукӧр
+- Хъоппæгдидинонтæ
+- շուշանածաղկավորներ
+- שושנאים
+- زنبقيات
+- سوسنسانان
+- ユリ目
+- 百合目
+- 백합목
 title: Liliales
+has_id_wikidata: Q53478
+dv_has_:
+  name_:
+    af: lelieagtiges
+    an: Liliales
+    ar: زنبقيات
+    arz: زنبقيات
+    ast: Liliales
+    az: Zanbaqçiçəklilər
+    be: лілеякветныя
+    be-tarask: Лілеякветныя
+    bg: лилиецветни
+    bs: Liliales
+    ca: Lilials
+    ceb: Tanom nga liryo
+    co: Liliales
+    cs: liliotvaré
+    cy: Liliales
+    da: Lilje-ordenen
+    de: Lilienartige
+    en: Liliales
+    eo: Lilialoj
+    es: Liliales
+    et: Liilialaadsed
+    eu: Liliales
+    ext: Liliales
+    fa: سوسنسانان
+    fi: Liliales
+    fr: Liliales
+    frr: Liliales
+    ga: Liliales
+    gl: Liliales
+    he: שושנאים
+    hr: Ljiljanolike
+    hu: liliomvirágúak
+    hy: շուշանածաղկավորներ
+    ia: Liliales
+    id: Liliales
+    ie: Liliales
+    io: Liliales
+    is: Liljubálkur
+    it: Liliales
+    ja: ユリ目
+    jv: Liliales
+    kk: Лалагүлділер
+    ko: 백합목
+    koi: Лилия чукӧр
+    ku: Koma lîliyan
+    kv: Лилия чукӧр
+    la: Liliales
+    lt: Lelijiečiai
+    lv: Liliju rinda
+    mk: лилјаноцветни
+    mul: Liliales
+    nb: Liljeplanter
+    nl: Liliales
+    nn: liljeordenen
+    oc: Liliales
+    os: Хъоппæгдидинонтæ
+    pl: liliowce
+    pt: Liliales
+    pt-br: Liliales
+    ro: Liliales
+    ru: лилиецветные
+    sco: Liliales
+    sk: ľaliotvaré
+    sl: lilijevci
+    sq: Liliales
+    sv: Liliales
+    tr: Liliales
+    uk: лілієцвіті
+    vi: Bộ Loa kèn
+    vo: Liliales
+    war: Liliales
+    yue: 百合目
+    zh: 百合目
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

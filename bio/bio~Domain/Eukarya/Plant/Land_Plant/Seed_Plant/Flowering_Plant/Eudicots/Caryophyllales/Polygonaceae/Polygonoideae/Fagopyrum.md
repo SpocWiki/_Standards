@@ -1,23 +1,62 @@
 ---
 aliases:
+- ajda
+- Artobeltz
+- boghvede
+- bokhveteslekta
+- bokkveiteslekta
+- Bokwiaten (skööl)
+- boveten
+- Buchweizen
+- Chi Kiều mạch
+- Fagopiro
+- Fagopyrum
+- Grano
+- Grikis
+- Griķi
+- Gryka
+- heljda
+- Hoadn
+- pohanka
+- Qarabaşaq
+- Tatar
+- viljatattaret
+- Wëllkar
+- гречиха
+- гречка
+- грэчка
+- елда
+- Карабодай
+- Марҷумак
+- Хура тул
+- Қарақұмық
+- Ҡарабойҙай
+- հնդկացորեն
+- سیاهگندمها
+- قاراباشاق
+- نضم
+- წიწიბურა
+- ソバ属
+- 荞麦属
+- 蕎麥屬
 has_id_wikidata: Q7223832
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Polygonoideae,1238742]]"
-  - "[[_Standards/WikiData/WD~Fagopyreae,21398906]]"
+- '[[_Standards/WikiData/WD~Polygonoideae,1238742]]'
+- '[[_Standards/WikiData/WD~Fagopyreae,21398906]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-has_fruit_type: "[[_Standards/WikiData/WD~nucule,5118786]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "21281"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 21281
 taxon_common_name:
-  - buckwheat
-  - Boekweit
-  - ajda
-  - 荞麦属
-  - 荞麦属
+- buckwheat
+- Boekweit
+- ajda
+- 荞麦属
+- 荞麦属
 Commons_category: Fagopyrum
 taxon_name: Fagopyrum
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fagopyrum%20esculentum2.jpg
@@ -25,8 +64,82 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=4602
 EPPO_Code: 1FAGG
 MeSH_tree_code: B01.875.800.575.912.250.825.333
 NBN_System_Key: NHMSYS0000458704
+dv_has_:
+  name_:
+    an: Fagopyrum
+    ar: نضم
+    ast: Fagopyrum
+    az: Qarabaşaq
+    azb: قاراباشاق
+    ba: Ҡарабойҙай
+    bar: Hoadn
+    be: грэчка
+    bg: елда
+    br: Fagopyrum
+    ca: Fagopyrum
+    ceb: Fagopyrum
+    cs: pohanka
+    cv: Хура тул
+    da: boghvede
+    de: Fagopyrum
+    de-ch: Buchweizen
+    en: Fagopyrum
+    en-ca: Fagopyrum
+    en-gb: Fagopyrum
+    eo: Fagopiro
+    es: Fagopyrum
+    et: Tatar
+    eu: Artobeltz
+    ext: Fagopyrum
+    fa: سیاهگندمها
+    fi: viljatattaret
+    fr: Fagopyrum
+    frr: Bokwiaten (skööl)
+    ga: Fagopyrum
+    gl: Fagopyrum
+    hr: heljda
+    hy: հնդկացորեն
+    hyw: Հնդկացորեն
+    ia: Fagopyrum
+    id: Fagopyrum
+    ie: Fagopyrum
+    io: Fagopyrum
+    it: Grano
+    ja: ソバ属
+    ka: წიწიბურა
+    kk: Қарақұмық
+    la: Fagopyrum
+    lb: Wëllkar
+    lt: Grikis
+    lv: Griķi
+    mk: елда
+    mul: Fagopyrum
+    nb: bokhveteslekta
+    nl: Fagopyrum
+    nn: bokkveiteslekta
+    oc: Fagopyrum
+    pl: Gryka
+    pt: Fagopyrum
+    pt-br: Fagopyrum
+    ro: Fagopyrum
+    ru: гречиха
+    sl: ajda
+    sq: Fagopyrum
+    sv: boveten
+    tg: Марҷумак
+    tr: Fagopyrum
+    tt: Карабодай
+    uk: гречка
+    vec: Fagopyrum
+    vi: Chi Kiều mạch
+    vo: Fagopyrum
+    wa: Fagopyrum
+    war: Fagopyrum
+    zh: 荞麦属
+    zh-cn: 荞麦属
+    zh-hans: 荞麦属
+    zh-tw: 蕎麥屬
 ---
-
 # [[Fagopyrum]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Fagopyrum,7223832]]

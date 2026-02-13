@@ -1,72 +1,160 @@
 ---
 aliases:
-  - Eubacteria
-  - Bacteria
-  - bacterium
-  - bacteria
-  - is_a_bacteria
-  - Bakterien
-  - Бактерии
-  - Bakteri
-  - Bakterije
-  - Bacteris
-  - bakterie
-  - Bakterie
-  - Bακτήρια
-  - Bacterium
-  - Bakterioj
-  - Bakterid
-  - Bakteerit
-  - Bactéries
-  - Bakteerien
-  - Baictéir
-  - חיידקים אמיתיים
-  - जीवाणु
-  - Baktérium
-  - Բակտերիա
-  - Bacterios
-  - Batteri
-  - វេត្រាណូ
-  - 세균
-  - Bakterijos
-  - Baktērijas
-  - Bakterier
-  - Bacteriën
-  - Bacterias
-  - Bactéria
-  - Añaki
-  - Bacterii
-  - Baktérie
-  - Бактерије
-  - பாக்டீரியா
-  - แบคทีเรีย
-  - Bakterya
-  - Бактерії
-  - Vi khuẩn
-  - באַקטעריעס
-  - 细菌
-  - 細菌
-  - باکتری
-  - بكتيريا
+- Añaki
+- Baakteeriyaa(Bacteria)
+- Bactereye
+- Bacteria
+- Bacterias
+- bacterie
+- Bacterii
+- bacterio
+- Bacterios
+- Bacteris
+- bacterium
+- Bacterië
+- Bacteriën
+- Bactèri
+- Bactéria
+- bactérie
+- Bactéries
+- Bactéthie
+- Bagiteri
+- baictéar
+- Baictéir
+- bakteara
+- Baktearje
+- bakteer
+- Bakteeri
+- Bakteerien
+- Bakteerit
+- bakteeros
+- bakteeʹr
+- Bakter
+- Bakteret
+- Bakteri
+- Bakteria
+- bakteriar
+- Bakterid
+- bakterie
+- Bakterien
+- Bakterier
+- Bakterija
+- Bakterijad
+- Bakterije
+- Bakterijos
+- bakterio
+- Bakterioj
+- bakteriya
+- Bakteriyalar
+- Bakterya
+- Bakterî
+- Bakterėjės
+- Baktiiria
+- baktèri
+- Baktéri
+- Baktérie
+- Baktérium
+- baktériumok
+- Baktéríà
+- Baktērijas
+- Batere
+- Bateri
+- Bateria
+- Batteri
+- Batteriu
+- batterji
+- Bbakitiiriya
+- Bακτήρια
+- Eubacteria
+- Gerlar
+- is_a_bacteria
+- Izinungwana
+- Jisk'a laq'u
+- Koman
+- Kwayar cutar Bakteriya
+- Nemiltōpīllōtl
+- palisa lili
+- Pisiläne
+- Pokokaku'i
+- Se-khiûn
+- Sigin
+- Sá̤-kṳ̄ng
+- Sè-khún
+- Vi khuẩn
+- Βακτήριο
+- Бактерії
+- бактерија
+- Бактерије
+- Бактерии
+- бактериос
+- Бактерисем
+- Бактерия
+- Бактериялар
+- бактерияләр
+- Бактерияр
+- бактэрыі
+- илер
+- Нян
+- НӀанкӀигаш
+- Բակտերիա
+- բակտերիաներ
+- באַקטעריעס
+- באקטעריע
+- חיידקים
+- חיידקים אמיתיים
+- بئڪٽيريا
+- باكتيرية
+- باکتری
+- باکټريا
+- بكتيريا
+- بیکٹیریا
+- بەکتریا
+- ܒܩܛܝܪܝܐ
+- ބެކްޓީރިޔާ
+- जीवाणु
+- जीवाणुः
+- जीवाणू
+- बैक्टीरिया
+- ब्याक्टेरिया
+- বেক্টেৰিয়া
+- ব্যাকটেরিয়া
+- ਜੀਵਾਣੂ
+- ଜୀବାଣୁ
+- பாக்டீரியா
+- బాక్టీరియా
+- ಬ್ಯಾಕ್ಟೀರಿಯ
+- ബാക്റ്റീരിയ
+- බැක්ටීරියා
+- แบคทีเรีย
+- ເຊື້ອແບັກທີເຣັຍ
+- ဘက်တီးရီးယား
+- ბაქტერიები
+- ბაქტერიეფი
+- ባክቴሪያ
+- ᎥᏳᎩ ᏗᏱᏙᎯ
+- វេត្រាណូ
+- 細菌
+- 细菌
+- 세균
 has_id_wikidata: Q10876
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_of_Prokaryotes,743780]]'
 Commons_category: Bacteria
 confidential: public
 cssclasses:
-  - Type
+- Type
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 draft: false
 enumerationtype: InfectiousAgentClass
 EPPO_Code: 1BACTK
 expiryDate: ''
 has_effect:
-  - '[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]'
-  - '[[_Standards/WikiData/WD~bacterial_pneumonia,3776920]]'
+- '[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]'
+- '[[_Standards/WikiData/WD~bacterial_pneumonia,3776920]]'
 homonymous_taxon: '[[_Standards/WikiData/WD~Bacteria,4034791]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -74,7 +162,7 @@ isDeleted: false
 isReadOnly: false
 ITIS_TSN: 50
 keywords:
-  - bacteria
+- bacteria
 Krugosvet_article: nauka_i_tehnika/biologiya/BAKTERII.html
 layout: ''
 license: CC BY-SA 4.0
@@ -89,64 +177,64 @@ publishDate: ''
 start_time: -3500000000-01-01
 subclass_of: '[[_Standards/WikiData/WD~microorganism,39833]]'
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/infectious_agent
+- class/Class
+- schema-org/Class
+- class/infectious_agent
 taxonomic_type: '[[_Standards/WikiData/WD~Bacillus,212032]]'
 taxon_common_name:
-  - Bakterien
-  - Бактерии
-  - Bakteri
-  - Bakterije
-  - Bacteris
-  - bakterie
-  - Bakterie
-  - Bακτήρια
-  - Bacterium
-  - Bakterioj
-  - Bakterid
-  - Bakteerit
-  - Bactéries
-  - Bakteerien
-  - Baictéir
-  - Bakterie
-  - חיידקים אמיתיים
-  - जीवाणु
-  - Bakterije
-  - Baktérium
-  - Բակտերիա
-  - Bacterios
-  - Bakteri
-  - Batteri
-  - វេត្រាណូ
-  - 세균
-  - Bakterijos
-  - Baktērijas
-  - Бактерии
-  - Bakterier
-  - Bacteriën
-  - Bacterias
-  - bakterie
-  - Bactéria
-  - Añaki
-  - Bacterii
-  - Baktérie
-  - Bakterije
-  - Бактерије
-  - Bakterier
-  - பாக்டீரியா
-  - แบคทีเรีย
-  - Bakterya
-  - Bakteri
-  - Бактерії
-  - Vi khuẩn
-  - באַקטעריעס
-  - 细菌
-  - 細菌
-  - Bakterien
-  - باکتری
-  - Бактерии
-  - بكتيريا
+- Bakterien
+- Бактерии
+- Bakteri
+- Bakterije
+- Bacteris
+- bakterie
+- Bakterie
+- Bακτήρια
+- Bacterium
+- Bakterioj
+- Bakterid
+- Bakteerit
+- Bactéries
+- Bakteerien
+- Baictéir
+- Bakterie
+- חיידקים אמיתיים
+- जीवाणु
+- Bakterije
+- Baktérium
+- Բակտերիա
+- Bacterios
+- Bakteri
+- Batteri
+- វេត្រាណូ
+- 세균
+- Bakterijos
+- Baktērijas
+- Бактерии
+- Bakterier
+- Bacteriën
+- Bacterias
+- bakterie
+- Bactéria
+- Añaki
+- Bacterii
+- Baktérie
+- Bakterije
+- Бактерије
+- Bakterier
+- பாக்டீரியா
+- แบคทีเรีย
+- Bakterya
+- Bakteri
+- Бактерії
+- Vi khuẩn
+- באַקטעריעס
+- 细菌
+- 細菌
+- Bakterien
+- باکتری
+- Бактерии
+- بكتيريا
 taxon_name: Bacteria
 taxon_rank: '[[_Standards/WikiData/WD~domain,146481]]'
 title: is_a_bacteria Class
@@ -155,11 +243,209 @@ type: Type
 UMLS_CUI: C0004611
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s002.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s003.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s002.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s003.ogv
 WordLift_URL: http://data.wordlift.io/wl01714/entity/bacteria
+dv_has_:
+  name_:
+    ace: Bakteri
+    af: bakterie
+    am: ባክቴሪያ
+    an: Eubacteria
+    anp: जीवाणु
+    ar: بكتيريا
+    arc: ܒܩܛܝܪܝܐ
+    ary: باكتيرية
+    arz: بكتيريا
+    as: বেক্টেৰিয়া
+    ast: bacteria
+    ay: Jisk'a laq'u
+    az: Bakteriyalar
+    azb: باکتری
+    ba: Бактериялар
+    bcl: Bakterya
+    be: бактэрыі
+    be-tarask: бактэрыі
+    bg: бактерии
+    bho: बैक्टीरिया
+    bn: ব্যাকটেরিয়া
+    br: Bakteri
+    bs: Bakterije
+    bxr: Нян
+    ca: bacteris
+    cdo: Sá̤-kṳ̄ng
+    ceb: Bacteria
+    chr: ᎥᏳᎩ ᏗᏱᏙᎯ
+    ckb: بەکتریا
+    crh: bakteriya
+    cs: bakterie
+    cv: Бактерисем
+    cy: bacteria
+    da: Bakterier
+    de: Bakterien
+    dv: ބެކްޓީރިޔާ
+    el: Βακτήριο
+    en: bacteria
+    en-ca: Bacteria
+    en-gb: bacteria
+    eo: bakterioj
+    es: bacteria
+    et: bakterid
+    eu: bakterio
+    ext: Bateria
+    fa: باکتری
+    fi: bakteerit
+    fo: Bakteria
+    fr: bactérie
+    frr: Bakteerien
+    fy: Baktearje
+    ga: baictéar
+    gcr: Baktéri
+    gd: Bacteria
+    gl: bacteria
+    gn: Pokokaku'i
+    gsw: Bakterie
+    gv: Bacteria
+    ha: Kwayar cutar Bakteriya
+    hak: Se-khiûn
+    he: חיידקים
+    hi: जीवाणु
+    hif: Bacteria
+    hr: bakterije
+    hsb: Bakterije
+    ht: Bakteri
+    hu: baktériumok
+    hy: բակտերիաներ
+    ia: bacterio
+    id: bakteri
+    ilo: bakteria
+    inh: НӀанкӀигаш
+    io: Bakterio
+    is: Gerlar
+    it: Bacteria
+    ja: 細菌
+    jam: Baktiiria
+    jv: baktèri
+    ka: ბაქტერიები
+    kaa: Bakteriya
+    ki: Bacteria
+    kk: Бактериялар
+    kk-cyrl: бактериялар
+    kn: ಬ್ಯಾಕ್ಟೀರಿಯ
+    ko: 세균
+    ku: Bakterî
+    kw: Bakteria
+    ky: Бактериялар
+    la: bacterium
+    lb: Bakterien
+    lez: Бактерияр
+    lfn: Bateria
+    lg: Bbakitiiriya
+    li: Bacterië
+    lij: Bacteria
+    lld: Batere
+    lmo: Bacteria
+    lo: ເຊື້ອແບັກທີເຣັຍ
+    lt: bakterijos
+    lv: baktērijas
+    lzh: 細菌
+    mad: Koman
+    mg: Bakteria
+    mhr: илер
+    min: Bakteri
+    mk: бактерија
+    ml: ബാക്റ്റീരിയ
+    mn: Нян
+    mr: जीवाणू
+    ms: Bakteria
+    mt: batterji
+    mul: Bacteria
+    my: ဘက်တီးရီးယား
+    mzn: باکتری
+    nah: Nemiltōpīllōtl
+    nan: Sè-khún
+    nap: Bacteria
+    nb: bakterier
+    nds: Bakterien
+    ne: जीवाणु
+    new: ब्याक्टेरिया
+    nl: bacteriën
+    nn: bakteriar
+    nrm: Bactéthie
+    oc: Bactèri
+    om: Baakteeriyaa(Bacteria)
+    or: ଜୀବାଣୁ
+    pa: ਜੀਵਾਣੂ
+    pap: Bakteria
+    pl: bakterie
+    pms: Bateri
+    pnb: بیکٹیریا
+    ps: باکټريا
+    pt: bactéria
+    pt-br: Bactéria
+    qu: Añaki
+    rmf: bakteeros
+    ro: bacterie
+    ru: бактерии
+    rue: Бактерії
+    rw: Bagiteri
+    sa: जीवाणुः
+    sah: Бактериялар
+    sc: Bacteria
+    scn: Batteriu
+    sco: bacteria
+    sd: بئڪٽيريا
+    se: bakteara
+    sgs: Bakterėjės
+    sh: Bakterija
+    si: බැක්ටීරියා
+    sk: baktérie
+    sl: bakterije
+    smn: bakteer
+    sms: bakteeʹr
+    so: Bakteeri
+    sq: Bakteret
+    sr: бактерија
+    su: baktéri
+    sv: bakterier
+    sw: Bakteria
+    ta: பாக்டீரியா
+    te: బాక్టీరియా
+    tg: Бактерия
+    th: แบคทีเรีย
+    tl: bacteria
+    tok: palisa lili
+    tr: bakteri
+    tt: бактерияләр
+    tt-cyrl: бактерияләр
+    udm: бактериос
+    uk: бактерії
+    ur: بیکٹیریا
+    uz: Bakteriyalar
+    vec: Bateri
+    vep: Bakterijad
+    vi: Vi khuẩn
+    vo: Bakter
+    vro: Pisiläne
+    wa: Bactereye
+    war: Bakterya
+    wuu: 細菌
+    xmf: ბაქტერიეფი
+    yi: באקטעריע
+    yo: Baktéríà
+    yue: 細菌
+    za: Sigin
+    zh: 细菌
+    zh-cn: 细菌
+    zh-hans: 细菌
+    zh-hant: 细菌
+    zh-hk: 细菌
+    zh-mo: 细菌
+    zh-my: 细菌
+    zh-sg: 细菌
+    zh-tw: 细菌
+    zu: Izinungwana
 ---
-
 # [[Bacteria]] 
 
 #is_a/bio-Domain 

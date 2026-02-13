@@ -1,23 +1,91 @@
 ---
 aliases:
-  - Bernoulli's principle
-  - Bernoulli's_principle
-  - Bernoulli_Principle
-  - Bernoulli Principle
+- Bernouilli-prinsippet
+- Bernoulli beginsel
+- Bernoulli ilkesi
+- Bernoulli Principle
+- Bernoulli törvénye
+- Bernoulli võrrand
+- Bernoulli's principle
+- Bernoulli's_principle
+- Bernoulli-prinsippet
+- Bernoulliho rovnica
+- Bernoulliho rovnice
+- Bernoullijeva jednadžba
+- Bernoullijeva jednačina
+- Bernoullijevo načelo
+- Bernoullin laki
+- Bernoulliren printzipio
+- Bernoullis ekvation
+- Bernoullis princip
+- Bernoulli_Principle
+- Bernulijeva jednačina
+- Bernulio dėsnis
+- Bernulli likums
+- Bernulli qanunu
+- Bernulli tenglamasi
+- Bernwllï teñdewi
+- Ecuația lui Bernoulli
+- equazione di Bernoulli
+- Nguyên lý Bernoulli
+- Persamaan Bernoulli
+- Principi de Bernoulli
+- Principio de Bernoulli
+- Principiu de Bernoulli
+- principo de Bernoulli
+- princípio de Bernoulli
+- Prinsip Bernoulli
+- Prinsipyo ni Bernoulli
+- Prionsabal Bernoulli
+- Równanie Bernoulliego
+- Strömung nach Bernoulli und Venturi
+- théorème de Bernoulli
+- wet van Bernoulli
+- Νόμος του Μπερνούλι
+- Бернулијева једначина
+- Бернулиев принцип
+- Бернулли теңдемеси
+- Бернулли теңдеуі
+- Бернуллийн зарчим
+- Бернуллин закон
+- Закон Бернуллі
+- Закон Бернулли
+- закон Бэрнульлі
+- Ураўненне Бернулі
+- Уравнение на Бернули
+- Բեռնուլիի հավասարում
+- משוואת ברנולי
+- بەرنۋللىي تەڭدەۋى
+- د برنولي اصل
+- مبدأ بيرنولي
+- معادله برنولی
+- बर्नूलीके प्रमेय
+- बर्नौली का प्रमेय
+- बर्नौलीचे प्रमेय
+- বার্নুলি'র নীতি
+- பெர்னூலி தத்துவம்
+- బెర్నౌలీ సూత్రం
+- ബെർനോളി സിദ്ധാന്തം
+- ბერნულიშ კანონი
+- ベルヌーイの定理
+- 伯努利定律
+- 白努利定律
+- 白努利法則
+- 베르누이 방정식
 has_id_wikidata: Q181328
 named_after: '[[_Standards/WikiData/WD~Daniel_Bernoulli,122366]]'
 part_of: '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~constant,188248]]'
-  - '[[_Standards/WikiData/WD~conservative_force,822938]]'
-  - '[[_Standards/WikiData/WD~speed,3711325]]'
-  - '[[_Standards/WikiData/WD~mass_density,29539]]'
-  - '[[_Standards/WikiData/WD~pressure,39552]]'
+- '[[_Standards/WikiData/WD~constant,188248]]'
+- '[[_Standards/WikiData/WD~conservative_force,822938]]'
+- '[[_Standards/WikiData/WD~speed,3711325]]'
+- '[[_Standards/WikiData/WD~mass_density,29539]]'
+- '[[_Standards/WikiData/WD~pressure,39552]]'
 instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~Magnus_effect,622975]]'
-  - '[[_Standards/WikiData/WD~Venturi_effect,725699]]'
-  - '[[_Standards/WikiData/WD~Pitot_theorem,2310718]]'
+- '[[_Standards/WikiData/WD~Magnus_effect,622975]]'
+- '[[_Standards/WikiData/WD~Venturi_effect,725699]]'
+- '[[_Standards/WikiData/WD~Pitot_theorem,2310718]]'
 different_from: '[[_Standards/WikiData/WD~Bernoulli_theorem,6141847]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 foundational_text: '[[_Standards/WikiData/WD~Hydrodynamica,16928507]]'
@@ -26,9 +94,123 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/07.%20%D0%91%D0%B5%D1%
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VenturiFlow.png
 Commons_category: Bernoulli's principle
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "BernoullisPrinciple"]
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\frac {v^{2}}{2}}+\\Psi +{\\frac {p}{\\rho }}=C}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <msup>\n              <mi>v</mi>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mn>2</mn>\n              </mrow>\n            </msup>\n            <mn>2</mn>\n          </mfrac>\n        </mrow>\n        <mo>+</mo>\n        <mi mathvariant=\"normal\">&#x03A8;<!-- Ψ --></mi>\n        <mo>+</mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mfrac>\n            <mi>p</mi>\n            <mi>&#x03C1;<!-- ρ --></mi>\n          </mfrac>\n        </mrow>\n        <mo>=</mo>\n        <mi>C</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\frac {v^{2}}{2}}+\\Psi +{\\frac {p}{\\rho }}=C}</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\frac {v^{2}}{2}}+\Psi +{\frac {p}{\rho }}=C}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <msup>
+                <mi>v</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+              <mn>2</mn>
+            </mfrac>
+          </mrow>
+          <mo>+</mo>
+          <mi mathvariant="normal">&#x03A8;<!-- Ψ --></mi>
+          <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mfrac>
+              <mi>p</mi>
+              <mi>&#x03C1;<!-- ρ --></mi>
+            </mfrac>
+          </mrow>
+          <mo>=</mo>
+          <mi>C</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\frac {v^{2}}{2}}+\Psi +{\frac {p}{\rho }}=C}</annotation>
+    </semantics>
+  </math>
+dv_has_:
+  name_:
+    af: Bernoulli beginsel
+    ar: مبدأ بيرنولي
+    ast: Principiu de Bernoulli
+    az: Bernulli qanunu
+    be: Ураўненне Бернулі
+    be-tarask: закон Бэрнульлі
+    bg: Уравнение на Бернули
+    bn: বার্নুলি'র নীতি
+    bs: Bernoullijeva jednačina
+    ca: Principi de Bernoulli
+    ce: Бернуллин закон
+    cs: Bernoulliho rovnice
+    da: Bernoullis princip
+    de: Strömung nach Bernoulli und Venturi
+    el: Νόμος του Μπερνούλι
+    en: Bernoulli's principle
+    eo: principo de Bernoulli
+    es: Principio de Bernoulli
+    et: Bernoulli võrrand
+    eu: Bernoulliren printzipio
+    fa: معادله برنولی
+    fi: Bernoullin laki
+    fr: théorème de Bernoulli
+    ga: Prionsabal Bernoulli
+    gl: Principio de Bernoulli
+    he: משוואת ברנולי
+    hi: बर्नौली का प्रमेय
+    hr: Bernoullijeva jednadžba
+    hu: Bernoulli törvénye
+    hy: Բեռնուլիի հավասարում
+    id: Prinsip Bernoulli
+    it: equazione di Bernoulli
+    ja: ベルヌーイの定理
+    kk: Бернулли теңдеуі
+    kk-arab: بەرنۋللىي تەڭدەۋى
+    kk-cn: بەرنۋللىي تەڭدەۋى
+    kk-cyrl: Бернулли теңдеуі
+    kk-kz: Бернулли теңдеуі
+    kk-latn: Bernwllï teñdewi
+    kk-tr: Bernwllï teñdewi
+    ko: 베르누이 방정식
+    ky: Бернулли теңдемеси
+    lt: Bernulio dėsnis
+    lv: Bernulli likums
+    mag: बर्नूलीके प्रमेय
+    mk: Бернулиев принцип
+    ml: ബെർനോളി സിദ്ധാന്തം
+    mn: Бернуллийн зарчим
+    mr: बर्नौलीचे प्रमेय
+    ms: Persamaan Bernoulli
+    nb: Bernoulli-prinsippet
+    nl: wet van Bernoulli
+    nn: Bernouilli-prinsippet
+    pl: Równanie Bernoulliego
+    ps: د برنولي اصل
+    pt: princípio de Bernoulli
+    ro: Ecuația lui Bernoulli
+    ru: Закон Бернулли
+    sh: Bernulijeva jednačina
+    sk: Bernoulliho rovnica
+    sl: Bernoullijevo načelo
+    sr: Бернулијева једначина
+    sr-ec: Бернулијева једначина
+    sr-el: Bernulijeva jednačina
+    sv: Bernoullis ekvation
+    ta: பெர்னூலி தத்துவம்
+    te: బెర్నౌలీ సూత్రం
+    tl: Prinsipyo ni Bernoulli
+    tr: Bernoulli ilkesi
+    uk: Закон Бернуллі
+    uz: Bernulli tenglamasi
+    vi: Nguyên lý Bernoulli
+    wuu: 伯努利定律
+    xmf: ბერნულიშ კანონი
+    yue: 白努利法則
+    zh: 伯努利定律
+    zh-cn: 伯努利定律
+    zh-hans: 伯努利定律
+    zh-hant: 伯努利定律
+    zh-hk: 白努利定律
+    zh-sg: 伯努利定律
+    zh-tw: 白努利定律
 ---
-
 # [[Bernoulli_Principle]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bernoulli's_principle,181328|WD~Bernoulli's_principle,181328]] 

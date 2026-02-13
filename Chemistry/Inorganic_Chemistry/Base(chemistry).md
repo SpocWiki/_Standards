@@ -1,47 +1,272 @@
 ---
 aliases:
-  - Base (chemistry)
-  - Base(chemistry)
-  - Base
+- Alcali
+- alkaal
+- alus
+- Asos
+- baas
+- bas
+- Bas (chìmica)
+- Basa
+- Base
+- Base (chemistry)
+- Base (cimica)
+- Base (kimika)
+- Base(chemistry)
+- Basen
+- Basi
+- Basis
+- baz
+- Baz (chimi)
+- Baza
+- Bazat
+- Bazenn
+- bazo
+- Bazâ
+- Bază
+- Bazė
+- Beezii
+- Bes
+- Besi
+- Bies
+- bun
+- bása
+- bázis
+- båze (tchimeye)
+- bāze
+- emäs
+- Hoye
+- Iâm-ki
+- Lipõ
+- Llipt'a
+- Lútur
+- pāpāhua
+- Sanyawa Basa
+- temel (himiya)
+- zasada
+- zásada
+- Əsaslar
+- Βάση
+- аснова
+- Асновы
+- Асосҳо
+- база
+- Негіздер
+- Негиздер
+- нигез
+- Нигеҙ
+- Никĕс (хими)
+- Олох (химия)
+- основа
+- Основание (химия)
+- основаниос
+- основания
+- Химиин һуури
+- Հիմքեր
+- באזע
+- בסיס
+- اساس
+- اساس (ڪيميا)
+- اساس(کیمیا)
+- باز
+- باز (شیمی)
+- تفت
+- قاعدة
+- क्षार
+- क्षारः
+- ক্ষারক
+- ক্ষাৰ
+- ਖ਼ਾਰ
+- બેઈઝ
+- காரம்
+- ಪ್ರತ್ಯಾಮ್ಲ
+- ക്ഷാരം
+- เบส
+- ພື້ນຖານ (ເຄມີ)
+- ဘေ့စ်
+- ფუძეები
+- 塩基
+- 盐基
+- 鹼
+- 鹽基
+- ꯑꯈꯥ ꯃꯍꯤ
+- 염기
 has_id_wikidata: Q11193
 Commons_category: Bases
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-  - "[[_Standards/WikiData/WD~alkali,485742]]"
-  - "[[_Standards/WikiData/WD~base,29841371]]"
+- '[[_Standards/WikiData/WD~alkali,485742]]'
+- '[[_Standards/WikiData/WD~base,29841371]]'
 has_use:
-  - "[[_Standards/WikiData/WD~acid_base_reaction,378751]]"
-  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
+- '[[_Standards/WikiData/WD~acid_base_reaction,378751]]'
+- '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
 IEV_number: 114-01-18
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20hydroxide%20solution.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]"
-opposite_of: "[[_Standards/WikiData/WD~acid,11158]]"
+- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+opposite_of: '[[_Standards/WikiData/WD~acid,11158]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_compound,11173]]"
+- '[[_Standards/WikiData/WD~chemical_compound,11173]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Base,11193|WD~Base,11193]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]]"
+  - '[[../../WikiData/WD~Base,11193|WD~Base,11193]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Base,11193|WD~Base,11193]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]]"
+- '[[../../WikiData/WD~Base,11193|WD~Base,11193]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]]'
+dv_has_:
+  name_:
+    af: Basis
+    an: Base
+    ar: قاعدة
+    as: ক্ষাৰ
+    ast: Base
+    az: Əsaslar
+    azb: باز (شیمی)
+    ba: Нигеҙ
+    bcl: Base (kimika)
+    be: Асновы
+    be-tarask: аснова
+    bg: Основа
+    bn: ক্ষারক
+    br: Bazenn
+    bs: Baza
+    bxr: Химиин һуури
+    ca: base
+    ckb: تفت
+    crh: temel (himiya)
+    cs: zásada
+    cv: Никĕс (хими)
+    cy: Bas
+    da: base
+    de: Base
+    diq: Baz
+    el: Βάση
+    en: base
+    eo: bazo
+    es: base
+    et: alus
+    eu: Base
+    fa: باز
+    fi: emäs
+    fo: Lútur
+    fr: base
+    frr: baas
+    ga: bun
+    gcr: Baz (chimi)
+    gl: base
+    gsw: Basen
+    gu: બેઈઝ
+    he: בסיס
+    hi: क्षार
+    hif: Base
+    hr: Baza
+    ht: Baz
+    hu: bázis
+    hy: Հիմքեր
+    ia: Base
+    id: Basa
+    io: Bazo
+    is: Basi
+    it: base
+    ja: 塩基
+    jam: Bies
+    ka: ფუძეები
+    kbp: Hoye
+    kge: Basa
+    kk: Негіздер
+    kn: ಪ್ರತ್ಯಾಮ್ಲ
+    ko: 염기
+    ku: Baz
+    ky: Негиздер
+    la: Basis
+    lb: Bas
+    lfn: Base (cimica)
+    lmo: Bas
+    lo: ພື້ນຖານ (ເຄມີ)
+    lt: Bazė
+    lv: bāze
+    mag: क्षार
+    mi: pāpāhua
+    mk: База
+    ml: ക്ഷാരം
+    mni: ꯑꯈꯥ ꯃꯍꯤ
+    ms: Bes
+    my: ဘေ့စ်
+    nan: Iâm-ki
+    nb: base
+    nds: Base
+    nl: base
+    nn: base
+    nov: base
+    oc: Basa
+    om: Beezii
+    pa: ਖ਼ਾਰ
+    pap: base
+    pl: zasada
+    pms: Bas (chìmica)
+    pnb: اساس
+    pt: base
+    pt-br: base
+    qu: Llipt'a
+    ro: Bază
+    ru: основания
+    rue: Основа
+    rup: Bazâ
+    sa: क्षारः
+    sah: Олох (химия)
+    scn: Alcali
+    sd: اساس (ڪيميا)
+    se: bása
+    sgs: Bazė
+    sh: Baza
+    sk: zásada
+    skr: اساس(کیمیا)
+    sl: baza
+    smn: alkaal
+    sms: alkaal
+    sq: Bazat
+    sr: база
+    sr-ec: база
+    su: Sanyawa Basa
+    sv: bas
+    sw: Besi
+    ta: காரம்
+    tg: Асосҳо
+    th: เบส
+    tl: base
+    tr: baz
+    tt: нигез
+    tt-cyrl: нигез
+    tyv: Основание (химия)
+    udm: основаниос
+    uk: основа
+    ur: اساس
+    uz: Asos
+    vi: base
+    vls: Base
+    vro: Lipõ
+    wa: båze (tchimeye)
+    war: Base
+    wuu: 盐基
+    yi: באזע
+    yue: 鹼
+    zh: 鹽基
 ---
-
 # [[Base(chemistry)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Base,11193|WD~Base,11193]] 

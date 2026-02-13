@@ -1,38 +1,186 @@
 ---
-has_time_started: 1822-01-01 
+has_time_started: 1822-01-01
 aliases:
-  - Fourier series
-  - Fourier_Series
-  - Fourier Series
+- chuỗi Fourier
+- cyfres Fourier
+- deret Fourier
+- dérét Fourier
+- Fourier Kip-sú
+- Fourier series
+- Fourier serileri
+- Fourier' rida
+- Fourier-reeks
+- Fourier-rekker
+- Fourier-sor
+- Fourierov rad
+- Fourierov red
+- Fourierova vrsta
+- Fourierova řada
+- Fourierreeks
+- Fourierreihe
+- Fourierrekkje
+- Fourierren serie
+- Fourierrække
+- Fourierserie
+- Fourier_Series
+- Fourier’n sarja
+- Furijeov red
+- Furjē rinda
+- Furjė eilutė
+- Furye sıraları
+- Fwrʹye qatarı
+- serie de Fourier
+- serie di Fourier
+- serie Fourier
+- serie ëd Fourier
+- series Fourieriana
+- seritë e Furierit
+- serje ta' Fourier
+- siri Fourier
+- szereg Fouriera
+- Sèrie de Fourier
+- série de Fourier
+- vico de Fourier
+- Σειρές Fourier
+- рад Фур'е
+- ред на Фурие
+- ряд Фур'є
+- ряд Фурье
+- Фуријеов ред
+- Фуриеов ред
+- Фурье речĕ
+- Фурье рәте
+- Фурье қатары
+- шэраг Фур’е
+- Ֆուրիեի շարքեր
+- טור פורייה
+- سری فوریه
+- فۋريە قاتارى
+- متسلسلة فورييه
+- फ़ोरियर श्रेणी
+- ফুরিয়ার ধারা
+- ಫೋರ್ಯೇ ಶ್ರೇಣಿಗಳು
+- ෆූරියර් ශ්රේණිය
+- อนุกรมฟูรีเย
+- የፎሪየር ዝርዝር
+- フーリエ級数
+- 傅利葉級數
+- 傅立葉級數
+- 傅里叶级数
+- 푸리에 급수
 has_id_wikidata: Q179467
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~trigonometric_series,1149336]]'
-  - '[[_Standards/WikiData/WD~function_series,1474614]]'
+- '[[_Standards/WikiData/WD~trigonometric_series,1149336]]'
+- '[[_Standards/WikiData/WD~function_series,1474614]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Fourier_analysis,1365258]]'
-  - '[[_Standards/WikiData/WD~discrete_Fourier_transform,2878]]'
+- '[[_Standards/WikiData/WD~Fourier_analysis,1365258]]'
+- '[[_Standards/WikiData/WD~discrete_Fourier_transform,2878]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>sin</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>cos</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>sin</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>cos</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></mfrac></mrow><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mn>0</mn></mrow></msub><mo stretchy="false">+</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>n</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover></mstyle><mo stretchy="false">(</mo><msub><mi>a</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mi>cos</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>n</mi><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">+</mo><msub><mi>b</mi><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></msub><mi>sin</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>n</mi><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">)</mo></mstyle></mrow></math>
 named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 inception: 1822-01-01T00:00:00Z
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Animated%20plot%20of%20the%20first%20five%20successive%20partial%20Fourier%20series.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fourier%20series%20and%20transform.gif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SquareWaveFourierArrows%2Crotated-id.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Animated%20plot%20of%20the%20first%20five%20successive%20partial%20Fourier%20series.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fourier%20series%20and%20transform.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/SquareWaveFourierArrows%2Crotated-id.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fourier%20Series.svg
 IEV_number: 103-07-18
 Commons_category: Fourier series
+dv_has_:
+  name_:
+    af: Fourier-reeks
+    am: የፎሪየር ዝርዝር
+    ar: متسلسلة فورييه
+    ast: serie de Fourier
+    az: Furye sıraları
+    ba: Фурье рәте
+    be: рад Фур'е
+    be-tarask: шэраг Фур’е
+    bg: ред на Фурие
+    bn: ফুরিয়ার ধারা
+    bs: Fourierov red
+    ca: Sèrie de Fourier
+    cs: Fourierova řada
+    cv: Фурье речĕ
+    cy: cyfres Fourier
+    da: Fourierrække
+    de: Fourierreihe
+    el: Σειρές Fourier
+    en: Fourier series
+    eo: vico de Fourier
+    es: serie de Fourier
+    et: Fourier' rida
+    eu: Fourierren serie
+    fa: سری فوریه
+    fi: Fourier’n sarja
+    fr: série de Fourier
+    gl: Serie de Fourier
+    hak: Fourier Kip-sú
+    he: טור פורייה
+    hi: फ़ोरियर श्रेणी
+    hu: Fourier-sor
+    hy: Ֆուրիեի շարքեր
+    id: deret Fourier
+    it: serie di Fourier
+    ja: フーリエ級数
+    kk: Фурье қатары
+    kk-arab: فۋريە قاتارى
+    kk-cn: فۋريە قاتارى
+    kk-cyrl: Фурье қатары
+    kk-kz: Фурье қатары
+    kk-latn: Fwrʹye qatarı
+    kk-tr: Fwrʹye qatarı
+    kn: ಫೋರ್ಯೇ ಶ್ರೇಣಿಗಳು
+    ko: 푸리에 급수
+    la: series Fourieriana
+    lt: Furjė eilutė
+    lv: Furjē rinda
+    mk: Фуриеов ред
+    ms: siri Fourier
+    mt: serje ta' Fourier
+    nb: Fourier-rekker
+    nl: Fourierreeks
+    nn: Fourierrekkje
+    pl: szereg Fouriera
+    pms: serie ëd Fourier
+    pt: série de Fourier
+    ro: serie Fourier
+    ru: ряд Фурье
+    sh: Furijeov red
+    si: ෆූරියර් ශ්රේණිය
+    sk: Fourierov rad
+    sl: Fourierova vrsta
+    sq: seritë e Furierit
+    sr: Фуријеов ред
+    sr-ec: Фуријеов ред
+    sr-el: Furijeov red
+    su: dérét Fourier
+    sv: Fourierserie
+    th: อนุกรมฟูรีเย
+    tr: Fourier serileri
+    tt: Фурье рәте
+    uk: ряд Фур'є
+    ur: Fourier series
+    vi: chuỗi Fourier
+    wuu: 傅里叶级数
+    yue: 傅利葉級數
+    zh: 傅里叶级数
+    zh-cn: 傅里叶级数
+    zh-hans: 傅里叶级数
+    zh-hant: 傅立葉級數
+    zh-hk: 傅利葉級數
+    zh-sg: 傅里叶级数
+    zh-tw: 傅立葉級數
 ---
-
 # [[Fourier_Series]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fourier_series,179467|WD~Fourier_series,179467]] 

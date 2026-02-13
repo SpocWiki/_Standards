@@ -1,120 +1,383 @@
 ---
 aliases:
-  - Whale
-  - Cetacea
-  - kêtos
-  - Плави кит
-  - Hvaler
-  - 고래
-  - Cetaceans
-  - Wale
-  - Китообразные
-  - Morfil
-  - Valar
-  - Cetáceo
-  - حيتانيات
-  - Китоподобни
-  - kytovci
-  - Cetáceos
-  - Valaat
-  - Cétacé
-  - לווייתנאים
-  - Kitovi
-  - Cetek
-  - Cetacei
-  - クジラ目
-  - ვეშაპისნაირნი
-  - Walvèsachtege
-  - Ikan paus
-  - Walvisachtigen
-  - Kvalar
-  - walenie
-  - อันดับวาฬและโลมา
-  - Balinalar
-  - Китоподібні
-  - 鯨豚類
-  - kiti
+- Baleine
+- Balena
+- Balina
+- Balinakimilər
+- Balinalar
+- Balinnacîs
+- Balin·ne
+- Balyena
+- Balèn
+- Banginiai
+- Bongėnē
+- Cetacea
+- Cetaceans
+- Cetacei
+- Cetaceo
+- cetacis
+- Cetacoj
+- Cetek
+- Cetáceo
+- Cetáceos
+- Cétacé
+- fállát
+- Ginghyiz
+- Huēyimichin
+- Hvaler
+- hvalir
+- Hvalur
+- Hƿæl
+- Ika moana
+- Ikan paus
+- kit
+- Kitanvuiččed
+- kiti
+- Kitovi
+- Kitsimonlar
+- Kvalar
+- kytovci
+- kêtos
+- Kîn-ǹg
+- Lauk Paus
+- Leruarua
+- Megoldunol (Cetacea)
+- Mondɛ́lɛ́
+- Morfil
+- Morvil
+- Muc-mhara
+- Ngumi
+- Nibiri
+- Nyangumi
+- phân thứ bộ Cá voi
+- pirapuã
+- Setaseo
+- Vaalalised
+- Valaat
+- Valar
+- vaļveidīgie
+- veľryby
+- válláh
+- Waaler
+- Wale
+- Walen
+- walenie
+- Wallina
+- Walvisachtigen
+- Walvisachtihen
+- Walvisagtiges
+- Walvissn
+- Walvèsachtege
+- Walvèsechtege
+- Whale
+- Whaul
+- Wjelryby
+- Zetazeo
+- Łóóʼtsoh dóó Tééh hóyáanii
+- Κητώδη
+- Гайхуызтæ
+- Джейхэр
+- кітападобныя
+- Кииттиҥилэр аймахтара
+- Кит
+- кит выллемъёс
+- Кит ганьывлӓ
+- Кит сымалдар
+- Кит һымаҡтар
+- китови
+- Китообразные
+- Китоподібні
+- Китоподобни
+- Киттәрізділер
+- Китъ
+- Плави кит
+- Тул
+- Халим
+- կետանմաններ
+- וואלפיש
+- לווייתנאים
+- آببازسانان
+- بالينات
+- بالیناکیمیلر
+- حوتيات
+- حوتیہ
+- حيتانيات
+- سيٽئشي
+- سیتاسه
+- سیتەیسیا
+- سیٹیشیا
+- نهنګ
+- सीटेशया
+- सीटेशिया
+- ह्वेल
+- তিমি
+- তিমি বর্গ
+- ਸੈਟੇਸ਼ੀਆ
+- கடற்பாலூட்டி
+- సెటాసియా
+- സീറ്റേസി ഗോത്രം
+- อันดับวาฬและโลมา
+- ཆུ་སྲིན།
+- ငါးဝန်
+- ვეშაპისნაირნი
+- የዓሣንበሪ አስተኔ
+- ᐊᕐᕕᒃ
+- クジラ目
+- 鯨下目
+- 鯨豚類
+- 鯨類
+- 鲸下目
+- 鲸豚类
+- 고래
 has_id_wikidata: Q160
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Cetacea
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 EPPO_Code: 1CETAO
 GS1_GPC_code: 10005469
 habitat: '[[_Standards/WikiData/WD~body_of_water,15324]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~cetacean_intelligence,592525]]'
+- '[[_Standards/WikiData/WD~cetacean_intelligence,592525]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~whale,1865281]]'
+- '[[_Standards/WikiData/WD~whale,1865281]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Graywhale%20MMC.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 180403
 Krugosvet_article: biologiya/kitoobraznye
 main_food_source:
-  - '[[_Standards/WikiData/WD~zooplankton,842627]]'
+- '[[_Standards/WikiData/WD~zooplankton,842627]]'
 MCN_code: 0106.12.00
 MeSH_tree_code:
-  - B01.050.150.900.649.313.875
+- B01.050.150.900.649.313.875
 montage_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cetacea.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cetacea.jpg
 NBN_System_Key: NHMSYS0000376171
 OmegaWiki_Defined_Meaning: 530
 parent_taxon: '[[_Standards/WikiData/WD~Cetaceamorpha,24031895]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q60168844,60168844]]'
 start_time: -50000000-01-01
 studied_in:
-  - '[[_Standards/WikiData/WD~cetology,695883]]'
+- '[[_Standards/WikiData/WD~cetology,695883]]'
 subreddit:
-  - Cetacea
+- Cetacea
 taxon_common_name:
-  - Плави кит
-  - Hvaler
-  - 고래
-  - Cetaceans
-  - Wale
-  - Hvaler
-  - Китообразные
-  - Morfil
-  - Valar
-  - Cetáceo
-  - حيتانيات
-  - Китоподобни
-  - kytovci
-  - Cetáceos
-  - Valaat
-  - Cétacé
-  - לווייתנאים
-  - Kitovi
-  - Cetek
-  - Cetacei
-  - クジラ目
-  - ვეშაპისნაირნი
-  - Walvèsachtege
-  - Ikan paus
-  - Walvisachtigen
-  - Kvalar
-  - walenie
-  - อันดับวาฬและโลมา
-  - Balinalar
-  - Китоподібні
-  - 鯨豚類
-  - kiti
+- Плави кит
+- Hvaler
+- 고래
+- Cetaceans
+- Wale
+- Hvaler
+- Китообразные
+- Morfil
+- Valar
+- Cetáceo
+- حيتانيات
+- Китоподобни
+- kytovci
+- Cetáceos
+- Valaat
+- Cétacé
+- לווייתנאים
+- Kitovi
+- Cetek
+- Cetacei
+- クジラ目
+- ვეშაპისნაირნი
+- Walvèsachtege
+- Ikan paus
+- Walvisachtigen
+- Kvalar
+- walenie
+- อันดับวาฬและโลมา
+- Balinalar
+- Китоподібні
+- 鯨豚類
+- kiti
 taxon_name: Cetacea
 taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~whale_oil,1053334]]'
+- '[[_Standards/WikiData/WD~whale_oil,1053334]]'
 title: Cetacea
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9658599,9658599]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cetaceans,14615189]]'
 UMLS_CUI: C0007896
+dv_has_:
+  name_:
+    af: Walvisagtiges
+    am: የዓሣንበሪ አስተኔ
+    an: Cetacea
+    ang: Hƿæl
+    ar: حوتيات
+    ary: بالينات
+    arz: حيتانيات
+    as: তিমি
+    ast: Cetacea
+    avk: Megoldunol (Cetacea)
+    az: Balinakimilər
+    azb: بالیناکیمیلر
+    ba: Кит һымаҡтар
+    ban: Cetacea
+    be: кітападобныя
+    be-tarask: кітападобныя
+    bg: китоподобни
+    bho: सीटेशिया
+    bn: তিমি বর্গ
+    bo: ཆུ་སྲིན།
+    br: Morvil
+    bs: Cetacea
+    bxr: Халим
+    ca: cetacis
+    ceb: Balyena
+    chr: Cetacea
+    ckb: سیتەیسیا
+    crh: kit
+    cs: kytovci
+    cu: Китъ
+    cv: Кит
+    cy: Cetacea
+    da: hvaler
+    de: Wale
+    diq: Balina
+    el: Κητώδη
+    en: Cetacea
+    en-ca: Cetacea
+    en-gb: Cetacea
+    eo: Cetacoj
+    es: cetáceos
+    et: Vaalalised
+    eu: Zetazeo
+    ext: Cetacea
+    fa: آببازسانان
+    fi: valaat
+    fo: Hvalur
+    fr: cétacé
+    frr: Waaler
+    ga: Cetacea
+    gd: Muc-mhara
+    gl: Cetáceos
+    gn: pirapuã
+    gsw: Wale
+    hak: Kîn-ǹg
+    he: לווייתנאים
+    hi: सीटेशया
+    hif: Cetacea
+    hr: kit
+    hsb: Wjelryby
+    ht: Balèn
+    hu: cetek
+    hy: կետանմաններ
+    ia: Cetacea
+    id: Cetacea
+    ie: Cetacea
+    io: Cetaceo
+    is: hvalir
+    it: Cetacea
+    iu: ᐊᕐᕕᒃ
+    ja: 鯨類
+    jv: Cetacea
+    ka: ვეშაპისნაირნი
+    kbd: Джейхэр
+    kk: Киттәрізділер
+    ko: 고래
+    koi: Cetacea
+    kw: Morvil
+    ky: Кит сымалдар
+    la: Cetacea
+    lb: Walen
+    lfn: Setaseo
+    li: Walvèsechtege
+    lij: Cetacea
+    lld: Balena
+    ln: Mondɛ́lɛ́
+    lt: Banginiai
+    lv: vaļveidīgie
+    mi: Ika moana
+    mk: китови
+    ml: സീറ്റേസി ഗോത്രം
+    mn: Халим
+    mrj: Кит ганьывлӓ
+    ms: Cetacea
+    mul: Cetacea
+    my: ငါးဝန်
+    mzn: سیتاسه
+    nah: Huēyimichin
+    nan: Cetacea
+    nb: hvaler
+    nds: Wale
+    ne: ह्वेल
+    nl: walvisachtigen
+    nn: Kvalar
+    nov: Cetacea
+    nrm: Baleine
+    nso: Leruarua
+    nv: Łóóʼtsoh dóó Tééh hóyáanii
+    oc: Cetacea
+    or: Cetacea
+    os: Гайхуызтæ
+    pa: ਸੈਟੇਸ਼ੀਆ
+    pcd: Balin·ne
+    pfl: Wale
+    pl: walenie
+    pms: Cetacei
+    pnb: سیٹیشیا
+    ps: نهنګ
+    pt: Cetáceos
+    pt-br: cetáceos
+    qu: Wallina
+    ro: Cetacea
+    ru: китообразные
+    sah: Кииттиҥилэр аймахтара
+    scn: Cetacea
+    sco: Whaul
+    sd: سيٽئشي
+    se: fállát
+    sgs: Bongėnē
+    sh: Kit
+    sk: veľryby
+    sl: kiti
+    smn: válláh
+    sn: Ngumi
+    so: Nibiri
+    sq: Balena
+    sr: китови
+    su: Lauk Paus
+    sv: valar
+    sw: Nyangumi
+    ta: கடற்பாலூட்டி
+    te: సెటాసియా
+    tg: Кит
+    th: อันดับวาฬและโลมา
+    tl: Cetacea
+    tr: Balinalar
+    udm: кит выллемъёс
+    uk: китоподібні
+    ur: حوتیہ
+    uz: Kitsimonlar
+    vep: Kitanvuiččed
+    vi: phân thứ bộ Cá voi
+    vls: Walvissn
+    vo: Cetacea
+    wa: Balinnacîs
+    war: Cetacea
+    wuu: 鲸豚类
+    xal: Тул
+    yi: וואלפיש
+    yue: 鯨下目
+    za: Ginghyiz
+    zea: Walvisachtihen
+    zh: 鲸下目
+    zh-cn: 鲸下目
+    zh-hans: 鲸下目
+    zh-hant: 鯨下目
+    zh-tw: 鯨下目
 ---
-
 # [[Whale]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Cetacea,160|WD~Cetacea,160]]  

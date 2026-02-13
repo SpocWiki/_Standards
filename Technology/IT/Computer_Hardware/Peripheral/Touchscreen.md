@@ -1,12 +1,93 @@
 ---
 aliases:
-  - touch screen
-  - Touchscreen
+- aanraakscherm
+- aanraakskerm
+- berøringsfølsom skærm
+- berøringsskjerm
+- chhiok-khòng êng-bō͘
+- dadurekrans
+- dokunmatik
+- dotyková obrazovka
+- ecran tactil
+- ecrã tátil
+- efijery kasihina
+- ekran dotykowy
+- ekran osetljiv na dodir
+- ekran osjetljiv na dodir
+- jutiklinis ekranas
+- kosketusnäyttö
+- layar sentuh
+- Layar tunyuk
+- layar tutul
+- màn hình cảm ứng
+- pantalla tàctil
+- pantalla táctil
+- pekskärm
+- puute-ekraan
+- quadrum tactile
+- Schermu a tocu
+- scáileán tadhaill
+- sensor ekran
+- sgrin gyffwrdd
+- skolapotha
+- skrin sesentuh
+- skrinikugusa
+- skārienekrāns
+- snertiskjár
+- taastskerm
+- tela sensível ao toque
+- tochskrin
+- touch screen
+- Touchscreen
+- trykkskjerm
+- tuŝekrano
+- ukipen-pantaila
+- waitroûle aduzåve
+- zaslon na dotik
+- zaslon osjetljiv na dodir
+- écran tactile
+- érintőképernyő
+- οθόνη αφής
+- дотыкавы экран
+- екран на допир
+- екран осјетљив на додир
+- мэдрэгч дэлгэц
+- сензорен екран
+- сенсор экран
+- сенсорлы экран
+- сенсорний екран
+- сенсорный экран
+- сэнсарны экран
+- թաչսքրին
+- מסך מגע
+- تاچ اسکرین
+- شاشة لمس
+- شاشەلەمس
+- صفحه لمسی
+- ٹچسکرین
+- छुअंतुआ स्क्रीन
+- टच स्क्रिन
+- टच्स्क्रिन
+- स्पर्श पटल
+- স্পর্শসংবেদী পর্দা
+- தொடுதிரை
+- టచ్స్క్రీన్
+- ടച്ച് സ്ക്രീൻ
+- จอสัมผัส
+- ထိတွေ့ ဖန်သားပြင်
+- სენსორული ეკრანი
+- タッチパネル
+- 触摸屏
+- 觸控式螢幕
+- 輕觸式熒幕
+- 輕觸式螢幕
+- 손접촉
+- 터치스크린
 has_id_wikidata: Q165970
 subclass_of:
-  - '[[_Standards/WikiData/WD~output_device,778637]]'
-  - '[[_Standards/WikiData/WD~input_device,864114]]'
-  - '[[_Standards/WikiData/WD~human_interface_device,1348085]]'
+- '[[_Standards/WikiData/WD~output_device,778637]]'
+- '[[_Standards/WikiData/WD~input_device,864114]]'
+- '[[_Standards/WikiData/WD~human_interface_device,1348085]]'
 has_immediate_cause: '[[_Standards/WikiData/WD~digit,34583]]'
 Nomenclature_for_Museum_Cataloging: 10513
 ArchWiki_article: Touchscreen
@@ -16,10 +97,112 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/touchscreen
 GitHub_topic: touchscreen
 Commons_category: Touchscreens
 Dewey_Decimal_Classification:
-  - 004.76
-  - 621.3986
+- 004.76
+- 621.3986
+dv_has_:
+  name_:
+    af: aanraakskerm
+    ar: شاشة لمس
+    ast: pantalla táctil
+    az: sensor ekran
+    ba: сенсорлы экран
+    be: сэнсарны экран
+    be-tarask: дотыкавы экран
+    bew: Layar tunyuk
+    bg: сензорен екран
+    bho: छुअंतुआ स्क्रीन
+    bn: স্পর্শসংবেদী পর্দা
+    bs: touchscreen
+    ca: pantalla tàctil
+    ckb: شاشەلەمس
+    cs: dotyková obrazovka
+    cy: sgrin gyffwrdd
+    da: berøringsfølsom skærm
+    de: Touchscreen
+    el: οθόνη αφής
+    en: touchscreen
+    eo: tuŝekrano
+    es: pantalla táctil
+    et: puute-ekraan
+    eu: ukipen-pantaila
+    fa: صفحه لمسی
+    fi: kosketusnäyttö
+    fr: écran tactile
+    fy: taastskerm
+    ga: scáileán tadhaill
+    gl: pantalla táctil
+    he: מסך מגע
+    hi: स्पर्श पटल
+    hr: zaslon osjetljiv na dodir
+    hu: érintőképernyő
+    hy: թաչսքրին
+    id: layar sentuh
+    is: snertiskjár
+    it: touch screen
+    ja: タッチパネル
+    jv: layar tutul
+    kk: сенсорлы экран
+    ko: 터치스크린
+    ko-kp: 손접촉
+    kw: tochskrin
+    la: quadrum tactile
+    lb: Touchscreen
+    lt: jutiklinis ekranas
+    ltg: dadurekrans
+    lv: skārienekrāns
+    mg: efijery kasihina
+    mk: екран на допир
+    ml: ടച്ച് സ്ക്രീൻ
+    mn: мэдрэгч дэлгэц
+    ms: skrin sesentuh
+    my: ထိတွေ့ ဖန်သားပြင်
+    mzn: تاچ اسکرین
+    nan: chhiok-khòng êng-bō͘
+    nb: berøringsskjerm
+    ne: टच्स्क्रिन
+    new: टच स्क्रिन
+    nl: aanraakscherm
+    nn: trykkskjerm
+    oc: ecran tactil
+    pl: ekran dotykowy
+    pms: Touchscreen
+    pnb: ٹچسکرین
+    pt: ecrã tátil
+    pt-br: tela sensível ao toque
+    ro: touchscreen
+    ru: сенсорный экран
+    sc: Schermu a tocu
+    sh: ekran osetljiv na dodir
+    si: skolapotha
+    sk: dotyková obrazovka
+    sl: zaslon na dotik
+    sq: touchscreen
+    sr: ekran osjetljiv na dodir
+    sr-ec: екран осјетљив на додир
+    sr-el: ekran osjetljiv na dodir
+    sv: pekskärm
+    sw: skrinikugusa
+    ta: தொடுதிரை
+    te: టచ్స్క్రీన్
+    th: จอสัมผัส
+    tr: dokunmatik
+    tt: сенсор экран
+    uk: сенсорний екран
+    ur: ٹچسکرین
+    vec: touch screen
+    vi: màn hình cảm ứng
+    wa: waitroûle aduzåve
+    wuu: 触摸屏
+    xmf: სენსორული ეკრანი
+    yue: 輕觸式熒幕
+    zh: 觸控式螢幕
+    zh-cn: 触摸屏
+    zh-hans: 触摸屏
+    zh-hant: 觸控式螢幕
+    zh-hk: 輕觸式螢幕
+    zh-sg: 触摸屏
+    zh-tw: 觸控式螢幕
 ---
-
 # [[Touchscreen]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Touchscreen,165970|WD~Touchscreen,165970]]  

@@ -1,11 +1,48 @@
 ---
 aliases:
+- Sphenodontinae
 has_id_wikidata: Q7576641
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_name: Sphenodontinae
+dv_has_:
+  name_:
+    an: Sphenodontinae
+    ast: Sphenodontinae
+    bg: Sphenodontinae
+    ca: Sphenodontinae
+    ceb: Sphenodontinae
+    cs: Sphenodontinae
+    de: Sphenodontinae
+    el: Sphenodontinae
+    en: Sphenodontinae
+    eo: Sphenodontinae
+    es: Sphenodontinae
+    eu: Sphenodontinae
+    ext: Sphenodontinae
+    fi: Sphenodontinae
+    fr: Sphenodontinae
+    ga: Sphenodontinae
+    gl: Sphenodontinae
+    ia: Sphenodontinae
+    ie: Sphenodontinae
+    io: Sphenodontinae
+    it: Sphenodontinae
+    la: Sphenodontinae
+    mul: Sphenodontinae
+    nl: Sphenodontinae
+    oc: Sphenodontinae
+    pl: Sphenodontinae
+    pt: Sphenodontinae
+    pt-br: Sphenodontinae
+    ro: Sphenodontinae
+    ru: Sphenodontinae
+    sq: Sphenodontinae
+    uk: Sphenodontinae
+    vi: Sphenodontinae
+    vo: Sphenodontinae
+    war: Sphenodontinae
 ---
-
 # [[Sphenodontinae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641|WD~Sphenodontinae,7576641]]  

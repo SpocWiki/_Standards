@@ -1,7 +1,91 @@
 ---
-has_time_started: 2002-01-01 
+has_time_started: 2002-01-01
 aliases:
-  - Euro
+- Amafaranga y'amayero
+- avro
+- Eeuro
+- eiro
+- Erô
+- Eura
+- Euras
+- Euro
+- Eurs
+- euru
+- euró
+- euʹrr
+- Evra
+- Evro
+- evroe
+- Ewo
+- Ewro
+- Eùro
+- eŭro
+- I-eur
+- Iwru
+- lo ronru'u
+- Léro
+- mani Elopa
+- Ojro
+- Ouro
+- uro
+- yevro
+- Yuro
+- Yuuro
+- Yuṛu
+- Èuro
+- èuru
+- Étchu
+- Õuro
+- Ĕu-nguòng
+- Œüro
+- ʻEulo
+- ευρώ
+- євро
+- Єѵрѡ
+- еўра
+- евро
+- Еуро
+- эўра
+- Эвро
+- Эуро
+- եվրո
+- Եւրօ
+- איירא
+- אירו
+- أورو
+- اييورو
+- ياۋرۇ
+- يورو
+- یورو
+- یوٗرو
+- یۆرۆ
+- یۊرؤ
+- ېورو
+- ܐܘܪܘ
+- युरो
+- यूरो
+- ইউরো
+- ইউৰো
+- ਯੂਰੋ
+- ୟୁରୋ
+- ஐரோ
+- యూరో
+- ಯುರೋ
+- യൂറോ
+- ยูโร
+- ເອີໂລ
+- ယူရို
+- ევრო
+- ዩሮ
+- ᏳᎳᏈ ᎠᏕᎳ
+- ᱤᱭᱩᱨᱳ
+- ⵢⵓⵕⵓ
+- ユーロ
+- 欧元
+- 歐元
+- 歐羅
+- 유로
+- "\U00010330\U00010339\U00010345\U00010342\U00010349"
 has_id_wikidata: Q4916
 applies_to_jurisdiction: '[[_Standards/WikiData/WD~eurozone,8268]]'
 award_received: '[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]'
@@ -9,32 +93,32 @@ central_bank_issuer: '[[_Standards/WikiData/WD~European_Central_Bank,8901]]'
 Commons_category: Euro
 Commons_gallery: Euro
 country:
-  - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-  - '[[_Standards/WikiData/WD~Ireland,27]]'
-  - '[[_Standards/WikiData/WD~Belgium,31]]'
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
-  - '[[_Standards/WikiData/WD~Finland,33]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
-  - '[[_Standards/WikiData/WD~Lithuania,37]]'
-  - '[[_Standards/WikiData/WD~Austria,40]]'
-  - '[[_Standards/WikiData/WD~Greece,41]]'
-  - '[[_Standards/WikiData/WD~Portugal,45]]'
-  - '[[_Standards/WikiData/WD~Netherlands,55]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
-  - '[[_Standards/WikiData/WD~Estonia,191]]'
-  - '[[_Standards/WikiData/WD~Latvia,211]]'
-  - '[[_Standards/WikiData/WD~Slovakia,214]]'
-  - '[[_Standards/WikiData/WD~Slovenia,215]]'
-  - '[[_Standards/WikiData/WD~Croatia,224]]'
-  - '[[_Standards/WikiData/WD~Andorra,228]]'
-  - '[[_Standards/WikiData/WD~Cyprus,229]]'
-  - '[[_Standards/WikiData/WD~Monaco,235]]'
-  - '[[_Standards/WikiData/WD~Malta,233]]'
-  - '[[_Standards/WikiData/WD~San_Marino,238]]'
-  - '[[_Standards/WikiData/WD~Montenegro,236]]'
-  - '[[_Standards/WikiData/WD~Vatican_City,237]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Luxembourg,32]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Andorra,228]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Monaco,235]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~San_Marino,238]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+- '[[_Standards/WikiData/WD~Vatican_City,237]]'
 currency_symbol_description: '[[_Standards/WikiData/WD~euro_sign,18100]]'
 depicted_by: '[[_Standards/WikiData/WD~euro_sign,18100]]'
 described_by_source: '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
@@ -43,8 +127,8 @@ exact_match: http://dati.beniculturali.it/cis/Euro
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_euro,2293337]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20coins%20and%20banknotes.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~decimal_currency,25401445]]'
-  - '[[_Standards/WikiData/WD~currency,8142]]'
+- '[[_Standards/WikiData/WD~decimal_currency,25401445]]'
+- '[[_Standards/WikiData/WD~currency,8142]]'
 ISO_4217_code: EUR
 Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/EVRO.html
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Euro%20symbol.svg
@@ -56,45 +140,259 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681519,25681519]]'
 PermID: 500111
 point_in_time: 2002-01-01
 price:
-  - 24.5
-  - 1.95583
-  - 655.957
-  - 7.46038
-  - 491.96775
+- 24.5
+- 1.95583
+- 655.957
+- 7.46038
+- 491.96775
 short_name:
-  - euro
-  - Euro
-  - евро
-  - euro
-  - ευρώ
-  - euro
-  - euro
-  - euro
-  - euro
-  - euró
-  - euro
-  - euras
-  - eiro
-  - ewro
-  - euro
-  - euro
-  - euro
-  - euro
+- euro
+- Euro
+- евро
+- euro
+- ευρώ
+- euro
+- euro
+- euro
+- euro
+- euró
+- euro
+- euras
+- eiro
+- ewro
+- euro
+- euro
+- euro
+- euro
 Stack_Exchange_tag: https://stackoverflow.com/tags/euro
 start_time: 2002-01-01
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~eurocent,2377701]]'
 TeX_string:
-  - \EUR
-  - \euro
-  - \texteuro
+- \EUR
+- \euro
+- \texteuro
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Euro,10347768]]'
-  - '[[_Standards/WikiData/WD~Q62683097,62683097]]'
+- '[[_Standards/WikiData/WD~Template_Euro,10347768]]'
+- '[[_Standards/WikiData/WD~Q62683097,62683097]]'
 Unicode_character: €
 unit_symbol: €
 Wolfram_Language_unit_code: '"Euros"'
+dv_has_:
+  name_:
+    am: ዩሮ
+    ar: يورو
+    arc: ܐܘܪܘ
+    ary: أورو
+    arz: يورو
+    as: ইউৰো
+    ast: euru
+    az: avro
+    azb: یورو
+    ba: Евро
+    bar: Euro
+    bcl: Euro
+    be: еўра
+    be-tarask: эўра
+    bg: евро
+    blk: ယူရို
+    bn: ইউরো
+    bpy: ইউরো
+    btm: Euro
+    bxr: Евро
+    ca: euro
+    cdo: Ĕu-nguòng
+    ce: Евро
+    chr: ᏳᎳᏈ ᎠᏕᎳ
+    ckb: یۆرۆ
+    co: euru
+    crh: Avro
+    crh-latn: Avro
+    cs: euro
+    csb: Eùro
+    cu: Єѵрѡ
+    cv: Евро
+    cy: Ewro
+    de: Euro
+    de-ch: Euro
+    dga: Yuro
+    diq: Ewro
+    dsb: Euro
+    el: ευρώ
+    en: euro
+    en-ca: Euro
+    en-gb: euro
+    en-us: euro
+    eo: eŭro
+    es: Euro
+    et: Euro
+    eu: Euro
+    ext: Euru
+    fa: یورو
+    fo: Evra
+    frp: Erô
+    frr: Euro
+    fur: Euro
+    fy: Euro
+    ga: Euro
+    gag: Euro
+    gan: 歐元
+    gcr: Léro
+    gd: Euro
+    glk: یۊرؤ
+    gn: Euro
+    got: "\U00010330\U00010339\U00010345\U00010342\U00010349"
+    gsw: Euro
+    guc: Eeuro
+    gv: euro
+    hak: Euro
+    haw: ʻEulo
+    he: אירו
+    hi: यूरो
+    hif: Euro
+    ht: Ewo
+    hu: euró
+    hy: եվրո
+    hyw: Եւրօ
+    ia: Euro
+    id: Euro
+    ie: Euro
+    ilo: Euro
+    io: Euro
+    is: Evra
+    it: euro
+    ja: ユーロ
+    jam: Yuuro
+    jbo: lo ronru'u
+    jv: Euro
+    ka: ევრო
+    kaa: Evro
+    kab: Euro
+    kbd: Еуро
+    kge: Euro
+    kk: Еуро
+    kn: ಯುರೋ
+    ko: 유로
+    krc: Евро
+    ks: یوٗرو
+    ksh: Euro
+    ku: Euro
+    kv: Евро
+    kw: Euro
+    ky: Эвро
+    lad: Euro
+    lb: Euro
+    lez: Евро
+    li: Euro
+    lij: Œüro
+    lld: Euro
+    lmo: Euro
+    ln: Euro
+    lo: ເອີໂລ
+    lrc: یورو
+    lt: Euras
+    ltg: Eura
+    lv: eiro
+    lzh: 歐元
+    mad: Euro
+    mg: Euro
+    mi: Euro
+    min: Euro
+    mk: евро
+    ml: യൂറോ
+    mn: Евро
+    mr: युरो
+    ms-arab: اييورو
+    mt: ewro
+    mul: euro
+    mwl: Ouro
+    my: ယူရို
+    myv: Евро
+    mzn: یورو
+    nah: Euro
+    nan: Euro
+    nap: Euro
+    nds: Euro
+    nds-nl: uro
+    ne: युरो
+    new: युरो
+    nrm: Étchu
+    nso: Euro
+    oc: Èuro
+    or: ୟୁରୋ
+    os: евро
+    pa: ਯੂਰੋ
+    pap: Euro
+    pcd: Uro
+    pdc: Euro
+    pih: Uro
+    pl: euro
+    pms: Euro
+    pnb: یورو
+    ps: ېورو
+    qu: Iwru
+    rm: Euro
+    roa-tara: Euro
+    ru: евро
+    rue: Евро
+    rw: Amafaranga y'amayero
+    sah: Эуро
+    sat: ᱤᱭᱩᱨᱳ
+    sc: èuru
+    scn: euru
+    sd: يورو
+    sgs: Eurs
+    shi: Yuṛu
+    sk: euro
+    sl: evro
+    sm: Euro
+    sma: evroe
+    sms: euʹrr
+    so: Euro
+    sr: евро
+    sr-ec: евро
+    sr-el: evro
+    st: Euro
+    stq: Euro
+    sw: Euro
+    szl: Ojro
+    ta: ஐரோ
+    te: యూరో
+    tg: евро
+    th: ยูโร
+    tl: Euro
+    tok: mani Elopa
+    tpi: Euro
+    tr: Euro
+    tt: евро
+    tt-cyrl: евро
+    udm: евро
+    ug: ياۋرۇ
+    uk: євро
+    ur: یورو
+    uz: yevro
+    vep: Evro
+    vi: Euro
+    vls: Euro
+    vo: Euro
+    vro: Õuro
+    wa: uro
+    war: Euro
+    wuu: 欧元
+    xh: I-eur
+    xmf: ევრო
+    yi: איירא
+    yo: Euro
+    yue: 歐羅
+    zea: Euro
+    zgh: ⵢⵓⵕⵓ
+    zh: 歐元
+    zh-cn: 欧元
+    zh-hans: 欧元
+    zh-hant: 歐元
+    zh-hk: 歐元
+    zh-tw: 歐元
+    zu: Euro
 ---
-
 # [[Euro]] 
 
 #is_a_/Currency 

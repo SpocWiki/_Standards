@@ -1,9 +1,81 @@
 ---
 aliases:
-  - Pre-Socratic philosophy
-  - early Greek philosophy
-  - Pre-Socratic_Philosophy
-  - Pre-Socratic Philosophy
+- Antaŭsokrataj filozofoj
+- athroniaeth cyn-Socratig
+- early Greek philosophy
+- Esisokraatikot
+- feallsanachd ro-Shocraticeach
+- fealsúnacht réamh-Shócraiteach
+- filosofia presocratică
+- filosofia presocràtica
+- filosofia pré-socrática
+- filosofieth kyns-Socratek
+- Filosofija Presokratika
+- Filosofo presokratikoak
+- Filosofía presocrática
+- Filozofia przedsokratejska
+- Filsafat pra-Sokrates
+- Filôzôfia presôkratika
+- Forverar Sókratesar
+- Försokratisk filosofi
+- Før-sokratikarane
+- Førsokratikere
+- Førsokratikerne
+- Ikisokratikai
+- Parasokratikët
+- Philosophia praesocratica
+- Philosophia presocratic
+- Pirmssokrātiķi
+- Pre-Socratic filosofie
+- Pre-Socratic philosophy
+- Pre-Socratic_Philosophy
+- Prederourien kent Sokrates
+- Predsokratovska filozofija
+- Predsokratovská filozofia
+- predsokratska filozofija
+- presocratici
+- Presocratics
+- presocratische filosofie
+- Presocratistes
+- Presocráticos
+- Presokraatikud
+- Presokratovci
+- preszókratikus filozófia
+- Présocratiques
+- Předsókratici
+- Sokrataqədərki fəlsəfə
+- Sokrates öncesi düşünürler
+- Triết học tiền Socrates
+- Vorsokratiker
+- Προσωκρατικοί φιλόσοφοι
+- Дасакратыкі
+- Досократики
+- Предсократици
+- пресократиктæ
+- Пресократовци
+- Претсократовци
+- Сократка кадәрге фәлсәфә мәктәпләре
+- Сократка чейинкилер
+- Сократҡа тиклемге фәйләсуфтар
+- նախասոկրատյան փիլիսոփայություն
+- פילוסופיה קדם-סוקרטית
+- سقراط کان پهرين دور جي فلاسافيءَ جا موضوع
+- فلاسفه ما قبل سقرط
+- فلسفة ما قبل سقراط
+- فلسفه پیشاسقراطی
+- فلسفۂ ما قبل سقراط
+- فەلسەفەی پێشسوقراتی
+- له سقراط مخکې فلسفه
+- پیشاسقراطیون
+- প্রাক-সক্রেতীয় দর্শন
+- প্ৰাক্-ছক্ৰেটেছীয় দৰ্শন
+- ปรัชญาในยุคก่อนโสเครตีส
+- სოკრატემდელი ფილოსოფია
+- სოკრატეშახჷ ფილოსოფია
+- ソクラテス以前の哲学者
+- 前苏格拉底哲学
+- 前蘇格拉底哲學
+- 소크라테스 이전 철학자
 has_id_wikidata: Q178540
 topic_has_template: '[[_Standards/WikiData/WD~Template_Presocratics,8072379]]'
 instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
@@ -12,11 +84,100 @@ Dewey_Decimal_Classification: 182
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Presocratic%20graph.svg
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/DOSOKRATIKI.html
 Commons_category:
-  - Pre-Socratic philosophy
-  - Presocratic philosophers
+- Pre-Socratic philosophy
+- Presocratic philosophers
 PhilPapers_topic: pre-socratic-philosophy
+dv_has_:
+  name_:
+    ar: فلسفة ما قبل سقراط
+    arz: فلاسفه ما قبل سقرط
+    as: প্ৰাক্-ছক্ৰেটেছীয় দৰ্শন
+    ast: Filosofía presocrática
+    az: Sokrataqədərki fəlsəfə
+    ba: Сократҡа тиклемге фәйләсуфтар
+    be: Дасакратыкі
+    be-tarask: дасакратыкі
+    bg: Предсократици
+    bn: প্রাক-সক্রেতীয় দর্শন
+    br: Prederourien kent Sokrates
+    ca: filosofia presocràtica
+    ckb: فەلسەفەی پێشسوقراتی
+    cs: Předsókratici
+    cy: athroniaeth cyn-Socratig
+    da: Førsokratikere
+    de: Vorsokratiker
+    el: Προσωκρατικοί φιλόσοφοι
+    en: Pre-Socratic philosophy
+    eo: Antaŭsokrataj filozofoj
+    es: Filosofía presocrática
+    et: Presokraatikud
+    eu: Filosofo presokratikoak
+    fa: فلسفه پیشاسقراطی
+    fi: Esisokraatikot
+    fr: Présocratiques
+    ga: fealsúnacht réamh-Shócraiteach
+    gd: feallsanachd ro-Shocraticeach
+    gl: Presocráticos
+    gsw: Vorsokratiker
+    he: פילוסופיה קדם-סוקרטית
+    hr: Predsokratovska filozofija
+    hu: preszókratikus filozófia
+    hy: նախասոկրատյան փիլիսոփայություն
+    ia: Philosophia presocratic
+    id: Filsafat pra-Sokrates
+    is: Forverar Sókratesar
+    it: presocratici
+    ja: ソクラテス以前の哲学者
+    ka: სოკრატემდელი ფილოსოფია
+    ko: 소크라테스 이전 철학자
+    kw: filosofieth kyns-Socratek
+    ky: Сократка чейинкилер
+    la: Philosophia praesocratica
+    lfn: Presocratistes
+    lt: Ikisokratikai
+    lv: Pirmssokrātiķi
+    mg: Filôzôfia presôkratika
+    mk: Претсократовци
+    mt: Filosofija Presokratika
+    mzn: پیشاسقراطیون
+    nb: Førsokratikerne
+    nl: presocratische filosofie
+    nn: Før-sokratikarane
+    oc: Presocratics
+    os: пресократиктæ
+    pl: Filozofia przedsokratejska
+    ps: له سقراط مخکې فلسفه
+    pt: filosofia pré-socrática
+    pt-br: filosofia pré-socrática
+    ro: filosofia presocratică
+    ru: Досократики
+    sco: Pre-Socratic filosofie
+    sd: سقراط کان پهرين دور جي فلاسافيءَ جا موضوع
+    sh: Presokratovci
+    sk: Predsokratovská filozofia
+    sl: predsokratska filozofija
+    sq: Parasokratikët
+    sr: Пресократовци
+    sr-ec: Пресократовци
+    sr-el: Presokratovci
+    sv: Försokratisk filosofi
+    th: ปรัชญาในยุคก่อนโสเครตีส
+    tr: Sokrates öncesi düşünürler
+    tt: Сократка кадәрге фәлсәфә мәктәпләре
+    uk: Досократики
+    ur: فلسفۂ ما قبل سقراط
+    vi: Triết học tiền Socrates
+    wuu: 前苏格拉底哲学
+    xmf: სოკრატეშახჷ ფილოსოფია
+    yue: 前蘇格拉底哲學
+    zh: 前苏格拉底哲学
+    zh-cn: 前苏格拉底哲学
+    zh-hans: 前苏格拉底哲学
+    zh-hant: 前蘇格拉底哲學
+    zh-hk: 前蘇格拉底哲學
+    zh-sg: 前苏格拉底哲学
+    zh-tw: 前蘇格拉底哲學
 ---
-
 # [[Pre-Socratic_Philosophy]] 
 
 #is_/same_as :: [[WD~Pre-Socratic_philosophy,178540]] 

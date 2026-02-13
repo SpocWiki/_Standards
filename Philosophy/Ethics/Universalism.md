@@ -1,23 +1,89 @@
 ---
 aliases:
+- An tUilíochas
+- Evrenselcilik
+- religia universalismo
+- religiöser Universalismus
+- unibertsalismo
+- universalism
+- universalisme
+- Universalismi
+- universalismo
+- universalizmas
+- Universałismo
+- univerzalismus
+- univerzalizem
+- univerzalizmus
+- Uniwersalizm
+- Ουνιβερσαλισμός
+- универсализм
+- Универсализъм
+- Ունիվերսալիզմ
+- אוניברסליזם
+- آفا قیت
+- آفاقيت
+- كونية
+- সার্বজনীনতাবাদ
+- 普世主义
+- 普遍主義 (宗教)
+- 보편주의
 has_id_wikidata: Q6843150
-subclass_of: "[[_Standards/WikiData/WD~Unitarian_Universalism,1622507]]"
+subclass_of: '[[_Standards/WikiData/WD~Unitarian_Universalism,1622507]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~provincialism,1733479]]"
-  - "[[_Standards/WikiData/WD~parochialism,30323949]]"
-  - "[[_Standards/WikiData/WD~theological_particularism,118822387]]"
+- '[[_Standards/WikiData/WD~provincialism,1733479]]'
+- '[[_Standards/WikiData/WD~parochialism,30323949]]'
+- '[[_Standards/WikiData/WD~theological_particularism,118822387]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~religious_philosophy,2054106]]"
-  - "[[_Standards/WikiData/WD~unitarian_universalism_denomination,137324375]]"
-  - "[[_Standards/WikiData/WD~world_view,49447]]"
-different_from: "[[_Standards/WikiData/WD~universalism,19001724]]"
+- '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
+- '[[_Standards/WikiData/WD~unitarian_universalism_denomination,137324375]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
+different_from: '[[_Standards/WikiData/WD~universalism,19001724]]'
 Dewey_Decimal_Classification:
-  - "111.2"
-  - "330.15"
-  - "289.134"
+- 111.2
+- 330.15
+- 289.134
 Commons_category: Universalism
+dv_has_:
+  name_:
+    af: Universalisme
+    ar: كونية
+    bg: Универсализъм
+    bn: সার্বজনীনতাবাদ
+    ca: universalisme
+    cs: univerzalismus
+    da: universalisme
+    de: religiöser Universalismus
+    el: Ουνιβερσαλισμός
+    en: universalism
+    eo: religia universalismo
+    es: universalismo
+    eu: unibertsalismo
+    fi: Universalismi
+    fr: Universalisme
+    ga: An tUilíochas
+    he: אוניברסליזם
+    hu: univerzalizmus
+    hy: Ունիվերսալիզմ
+    ia: Universalismo
+    id: universalisme
+    it: universalismo
+    ja: 普遍主義 (宗教)
+    ko: 보편주의
+    lt: universalizmas
+    nb: universalisme
+    nl: universalisme
+    pl: Uniwersalizm
+    pt: universalismo
+    pt-br: universalismo
+    ru: универсализм
+    sd: آفاقيت
+    sl: univerzalizem
+    sv: universalism
+    tr: Evrenselcilik
+    ur: آفا قیت
+    vec: Universałismo
+    zh: 普世主义
 ---
-
 # [[Universalism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~universalism,6843150]] 

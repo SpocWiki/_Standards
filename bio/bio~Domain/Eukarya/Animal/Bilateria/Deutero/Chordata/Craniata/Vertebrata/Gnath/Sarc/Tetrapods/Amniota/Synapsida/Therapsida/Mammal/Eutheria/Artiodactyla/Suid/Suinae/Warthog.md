@@ -1,12 +1,126 @@
 ---
 aliases:
-  - Phacochoerus
-  - warthogs
-  - warthog
-  - Warthog
+- babi gembol
+- Bisóodi bizęęs dį́įʼii
+- Facocer
+- Facocero
+- Facoquero
+- Facóquero
+- Fakochero
+- fakôsera
+- faoleem
+- guziec
+- Intibane
+- Karpočiai
+- kārpcūkas
+- Ngiri
+- pahkasiat
+- Phacochoerus
+- prase
+- torc na bhfaithní
+- Tüügassiga
+- varacskosdisznó
+- Vortesvin
+- warthog
+- warthogs
+- Warzenschweine
+- zéŋŋà
+- Φακόχοιρος
+- бородавочник
+- брадавичести свињи
+- Сүйелді қабандар
+- Шĕпĕнлĕскер
+- חזיר יבלות
+- حلالف تالولية
+- خنازير تؤلولية
+- خنازير تؤلوليه
+- زگیلداران
+- ߟߍ߭
+- वॉर्टहॉग
+- สกุลหมูป่าหน้าหูด
+- イボイノシシ属
+- 疣猪亚科
+- 疣猪属
+- 疣豬亞科
+- 疣豬屬
+- 혹멧돼지속
 title: Phacochoerus
+has_id_wikidata: Q3645260
+dv_has_:
+  name_:
+    an: Phacochoerus
+    ar: خنازير تؤلولية
+    ary: حلالف تالولية
+    arz: خنازير تؤلوليه
+    ast: Phacochoerus
+    avk: faoleem
+    ban: Phacochoerus
+    bg: Phacochoerus
+    br: Phacochoerus
+    ca: Phacochoerus
+    ceb: Phacochoerus
+    cs: prase
+    cv: Шĕпĕнлĕскер
+    de: Warzenschweine
+    de-ch: Warzenschweine
+    el: Φακόχοιρος
+    en: Phacochoerus
+    en-ca: Phacochoerus
+    en-gb: Phacochoerus
+    eo: Phacochoerus
+    es: Phacochoerus
+    et: Tüügassiga
+    eu: Phacochoerus
+    ext: Phacochoerus
+    fa: زگیلداران
+    fi: pahkasiat
+    fr: Phacochoerus
+    ga: torc na bhfaithní
+    gl: Phacochoerus
+    he: חזיר יבלות
+    hi: वॉर्टहॉग
+    hu: varacskosdisznó
+    ia: Phacochoerus
+    id: babi gembol
+    ie: Phacochoerus
+    io: Fakochero
+    it: Facocero
+    ja: イボイノシシ属
+    kk: Сүйелді қабандар
+    ko: 혹멧돼지속
+    la: Phacochoerus
+    lt: Karpočiai
+    lv: kārpcūkas
+    mcn: zéŋŋà
+    mg: fakôsera
+    mk: брадавичести свињи
+    ms: Phacochoerus
+    mul: Phacochoerus
+    nb: Vortesvin
+    nl: Phacochoerus
+    nqo: ߟߍ߭
+    nv: Bisóodi bizęęs dį́įʼii
+    oc: Phacochoerus
+    pl: guziec
+    pt: Facoquero
+    pt-br: Facóquero
+    ro: Facocer
+    ru: бородавочник
+    sq: Phacochoerus
+    sv: Phacochoerus
+    sw: Ngiri
+    th: สกุลหมูป่าหน้าหูด
+    uk: бородавочник
+    vi: Phacochoerus
+    vo: Phacochoerus
+    war: Phacochoerus
+    zh: 疣豬屬
+    zh-cn: 疣猪属
+    zh-hans: 疣猪亚科
+    zh-hant: 疣豬亞科
+    zh-tw: 疣豬屬
+    zu: Intibane
 ---
-
 # Phacochoerus
 
 ## wart hogs 

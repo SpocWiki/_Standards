@@ -1,12 +1,101 @@
 ---
 aliases:
-  - Testudinidae
-  - Tortoise
-  - Tortoises
-  - Schildkröte
-  - landskilpadder
-  - kopenske želve
-  - tortues terrestres
+- Akyekyedeɛ
+- Baning
+- Byrdling
+- Chʼééh digháhii íiyisígíí
+- Crwban tir
+- Crùban-coille
+- Diin
+- ehclo
+- Fano
+- Họ Rùa cạn
+- Kamba
+- Kara kaplumbağası
+- kopenske želve
+- Kopnice
+- Kornjača
+- Korytnačkovité
+- Kumerkilpkonlased
+- Kunkuru
+- Kura-kura darat sejati
+- Kuvak
+- Kûsî
+- Landdeckelsmouken
+- Landschildkröten
+- landschildpadden
+- landskildpadde
+- Landskilpad
+- landskilpadder
+- Landskjaldbøkur
+- landsköldpadda
+- maakilpikonnat
+- Melhwioges
+- Nguru
+- nopawy
+- Pagong na panlupa
+- Quru tısbağaları
+- Sausumos vėžliai
+- sauszemes bruņurupuču dzimta
+- Schildkröte
+- szárazfölditeknős-félék
+- Teraj testudoj
+- Testudinidae
+- Testudínid
+- Testudínidos
+- toirtís
+- Tortoise
+- Tortoises
+- tortues terrestres
+- Totel
+- Ufudo
+- Ìjàpá
+- żółwie lądowe
+- želvovití
+- Χελώνα
+- Газрын яст мэлхий
+- сувоземни желки
+- сухапутныя чарапахі
+- Сухоземни костенурки
+- сухопутні черепахи
+- сухопутные черепахи
+- Уæртджын хæфс
+- Құрлық тасбақалары
+- ցամաքային կրիաներ
+- צבים יבשתיים
+- سلاحف برية
+- فكارن د لبر
+- فكرونه
+- لاکپشت زمینی
+- کٔچھوٕ
+- کچھو کما
+- کیسەڵ
+- ڪمي
+- कछुआ
+- कछुवा
+- काउले
+- कूर्मः
+- কচ্ছপ
+- কাছ
+- ਕੱਛੂਕੁੰਮਾ
+- ஆமை
+- తాబేలు
+- ಆಮೆ
+- ಏಮೆ
+- ആമ
+- කැස්බෑවා
+- เต่าบก
+- རུས་སྦལ།
+- ကုန်းလိပ်
+- တဝ်ႇလွႆ
+- ხმელეთის კუები
+- ኤሊ
+- ᱦᱚᱨᱚ
+- リクガメ科
+- 陆龟科
+- 陸龜
+- 陸龜科
+- 땅거북과
 has_id_wikidata: Q46360
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Testudinoidea,1946537]]'
@@ -18,12 +107,12 @@ taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 ITIS_TSN: 173852
 OmegaWiki_Defined_Meaning: 3788
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A.%20gigantea%20Aldabra%20Giant%20Tortoise.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Testudo%20graeca.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/A.%20gigantea%20Aldabra%20Giant%20Tortoise.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Testudo%20graeca.jpg
 taxon_common_name:
-  - landskilpadder
-  - kopenske želve
-  - tortues terrestres
+- landskilpadder
+- kopenske želve
+- tortues terrestres
 Commons_gallery: Testudinidae
 Commons_category: Testudinidae
 taxon_name: Testudinidae
@@ -31,8 +120,130 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3396
 EPPO_Code: 1TSTDF
 NBN_System_Key: NHMSYS0000375783
 subreddit: Tortoises
+dv_has_:
+  name_:
+    af: Landskilpad
+    ak: Akyekyedeɛ
+    am: ኤሊ
+    an: Testudinidae
+    ang: Byrdling
+    ar: سلاحف برية
+    ary: فكارن د لبر
+    arz: فكرونه
+    as: কাছ
+    ast: Testudinidae
+    az: Quru tısbağaları
+    be: сухапутныя чарапахі
+    be-tarask: сухапутныя чарапахі
+    bg: Сухоземни костенурки
+    bi: Totel
+    bn: কচ্ছপ
+    bo: རུས་སྦལ།
+    br: Testudinidae
+    ca: Testudínid
+    ceb: Testudinidae
+    ckb: کیسەڵ
+    cs: želvovití
+    cy: Crwban tir
+    da: landskildpadde
+    de: Landschildkröten
+    ee: ehclo
+    el: Χελώνα
+    en: Testudinidae
+    eo: Teraj testudoj
+    es: Testudinidae
+    et: Kumerkilpkonlased
+    eu: Testudinidae
+    ext: Testudinidae
+    fa: لاکپشت زمینی
+    fi: maakilpikonnat
+    fo: Landskjaldbøkur
+    fr: Testudinidae
+    ga: toirtís
+    gd: Crùban-coille
+    gl: Testudínidos
+    ha: Kunkuru
+    he: צבים יבשתיים
+    hi: कछुआ
+    hr: Kopnice
+    hsb: nopawy
+    hu: szárazfölditeknős-félék
+    hy: ցամաքային կրիաներ
+    ia: Testudinidae
+    id: Kura-kura darat sejati
+    ie: Testudinidae
+    io: Testudinidae
+    it: Testudinidae
+    ja: リクガメ科
+    ka: ხმელეთის კუები
+    kcg: Kuvak
+    ki: Nguru
+    kk: Құрлық тасбақалары
+    kn: ಆಮೆ
+    ko: 땅거북과
+    ks: کٔچھوٕ
+    ku: Kûsî
+    kw: Melhwioges
+    la: Testudinidae
+    lb: Landdeckelsmouken
+    lt: Sausumos vėžliai
+    lv: sauszemes bruņurupuču dzimta
+    mai: कछुवा
+    mg: Fano
+    mk: сувоземни желки
+    ml: ആമ
+    mn: Газрын яст мэлхий
+    ms: Baning
+    mul: Testudinidae
+    my: ကုန်းလိပ်
+    nb: landskilpadder
+    ne: कछुवा
+    new: काउले
+    nl: landschildpadden
+    nv: Chʼééh digháhii íiyisígíí
+    oc: Testudinidae
+    os: Уæртджын хæфс
+    pa: ਕੱਛੂਕੁੰਮਾ
+    pl: żółwie lądowe
+    pnb: کچھو کما
+    pt: Testudinidae
+    pt-br: Testudinidae
+    ro: Testudinidae
+    ru: сухопутные черепахи
+    sa: कूर्मः
+    sat: ᱦᱚᱨᱚ
+    sco: tortoise
+    sd: ڪمي
+    sh: Kornjača
+    shn: တဝ်ႇလွႆ
+    si: කැස්බෑවා
+    sk: Korytnačkovité
+    sl: kopenske želve
+    sn: Kamba
+    so: Diin
+    sq: Testudinidae
+    sr: Testudinidae
+    sv: landsköldpadda
+    ta: ஆமை
+    tcy: ಏಮೆ
+    te: తాబేలు
+    th: เต่าบก
+    tl: Pagong na panlupa
+    tr: Kara kaplumbağası
+    uk: сухопутні черепахи
+    vi: Họ Rùa cạn
+    vo: Testudinidae
+    war: Testudinidae
+    wuu: 陸龜
+    xh: Ufudo
+    yo: Ìjàpá
+    yue: 陸龜
+    zh: 陸龜科
+    zh-cn: 陆龟科
+    zh-hans: 陆龟科
+    zh-hant: 陸龜科
+    zh-tw: 陸龜科
 ---
-
 # [[Tortoise]] 
 
 #is_/same_as :: [[WD~Testudinidae,46360]] 

@@ -1,14 +1,100 @@
 ---
 aliases:
-  - Pan(Genus)
+- Akaatia
+- chimpancé
+- chimpanse
+- Chimpansees
+- Chimpansi
+- Chimpanze
+- chimpanzee
+- Chimpanzeo
+- Chimpanzé
+- Chympansi
+- Cimpanzeu
+- Cimpanzi
+- csimpánz
+- Imamfu
+- Kimpenzi
+- Mokómbósó
+- Mágíshzhin
+- Obična čimpanza
+- O͘-seng-seng
+- Pan
+- Pan (genus)
+- Pan genus
+- Pan(Genus)
+- Schimpanse
+- Schimpansen
+- Schimpanser
+- Simpanse
+- Simpanseu
+- Simpansi
+- simpanssit
+- Simpansy
+- Simpansé
+- simpeansaí
+- Siompansaidhe
+- sjimpansar
+- Sjimpansees
+- Sjimpansen
+- Sjimpanser
+- Sokwe Mtu
+- Szimpans
+- szympans
+- tcimpazi
+- Tinh tinh
+- Tsimpansî
+- Ximpanze
+- ximpanzé
+- zegoleem
+- Ĉimpanza genro
+- Čimpanze
+- Şempanze
+- Şimpanze
+- Šimpans
+- šimpansy
+- Šimpanz
+- Šimpanzes
+- Šimpanzės
+- χιμπαντζής
+- род
+- шимпанзе
+- шимпанзета
+- Шимпанзо
+- шымпанзэ
+- շիմպանզե
+- שימפנזה
+- شامپانزه
+- شمبانزى
+- شمبانزي
+- شمپانزه
+- چمپانزي
+- چمپینزی
+- चिंपैंजी
+- चिम्पान्ज़ी
+- चिम्पान्जी
+- শিম্পাঞ্জী
+- ਚਿੰਪੈਂਜ਼ੀ
+- சிம்பன்சி
+- చింపాంజీ
+- ಚಿಂಪಾಂಜಿ಼
+- ചിമ്പാൻസി
+- สกุลชิมแปนซี
+- ချင်ပန်ဇီမျောက်ဝံ
+- လိင်းၶျိမ်ပႅၼ်ႇၸီႇ
+- შიმპანზე
+- チンパンジー属
+- 黑猩猩属
+- 黑猩猩屬
+- 침팬지속
 has_id_wikidata: Q80174
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
 Commons_category: Pan (genus)
 Commons_gallery: Pan (genus)
 described_by_source:
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 EPPO_Code: 1PANZG
 has_characteristic: '[[_Standards/WikiData/WD~self_awareness,1314553]]'
 has_part_s_: '[[_Standards/WikiData/WD~brain,1073]]'
@@ -26,16 +112,144 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pan%20
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 title: Pan
 uses:
-  - '[[_Standards/WikiData/WD~Yerkish,153630]]'
-  - '[[_Standards/WikiData/WD~physical_object,223557]]'
-  - '[[_Standards/WikiData/WD~club,392326]]'
-  - '[[_Standards/WikiData/WD~self_awareness,1314553]]'
-  - '[[_Standards/WikiData/WD~signal_language,2285130]]'
-  - '[[_Standards/WikiData/WD~nest,4785]]'
-  - '[[_Standards/WikiData/WD~metaphor,18534]]'
+- '[[_Standards/WikiData/WD~Yerkish,153630]]'
+- '[[_Standards/WikiData/WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~club,392326]]'
+- '[[_Standards/WikiData/WD~self_awareness,1314553]]'
+- '[[_Standards/WikiData/WD~signal_language,2285130]]'
+- '[[_Standards/WikiData/WD~nest,4785]]'
+- '[[_Standards/WikiData/WD~metaphor,18534]]'
 U_S_National_Archives_Identifier: 10647859
+dv_has_:
+  name_:
+    af: Pan (genus)
+    ak: Akaatia
+    an: Pan
+    anp: चिंपैंजी
+    ar: شمبانزي
+    arz: شمبانزى
+    ast: Pan
+    avk: zegoleem
+    az: Şimpanze
+    azb: شامپانزه
+    ba: Шимпанзе
+    be: шымпанзэ
+    be-tarask: шымпанзэ
+    bg: шимпанзета
+    bn: শিম্পাঞ্জী
+    br: Chimpanze
+    bs: Čimpanze
+    ca: ximpanzé
+    ceb: Pan
+    cs: šimpanz
+    csb: Szimpans
+    cv: Шимпанзе
+    cy: Tsimpansî
+    da: chimpanse
+    de: Schimpansen
+    de-ch: Schimpansen
+    el: χιμπαντζής
+    en: Pan
+    eo: Ĉimpanza genro
+    es: chimpancé
+    et: Šimpans
+    eu: Pan
+    ext: Pan
+    fa: شمپانزه
+    fi: simpanssit
+    fr: chimpanzé
+    frr: Sjimpansen
+    fy: Sjimpansees
+    ga: simpeansaí
+    gd: Siompansaidhe
+    gl: Chimpancé
+    gsw: Schimpanse
+    ha: Pan genus
+    he: שימפנזה
+    hi: चिम्पान्ज़ी
+    hr: Čimpanze
+    hsb: šimpansy
+    hu: csimpánz
+    hy: շիմպանզե
+    ia: Chimpanze
+    id: Simpanse
+    ie: Pan
+    io: Chimpanzeo
+    is: Simpansi
+    it: Pan
+    ja: チンパンジー属
+    jbo: tcimpazi
+    jv: Simpansé
+    ka: შიმპანზე
+    kg: Kimpenzi
+    kk: Шимпанзе
+    kk-cyrl: род
+    kn: ಚಿಂಪಾಂಜಿ಼
+    ko: 침팬지속
+    kw: Chympansi
+    ky: Шимпанзе
+    la: Pan
+    lbe: Шимпанзе
+    lfn: Ximpanze
+    li: Chimpansees
+    ln: Mokómbósó
+    lt: Šimpanzės
+    lv: Šimpanzes
+    mg: Simpansy
+    mhr: Шимпанзе
+    min: Simpanse
+    mk: Шимпанзо
+    ml: ചിമ്പാൻസി
+    mrj: Шимпанзе
+    ms: Cimpanzi
+    mul: Pan
+    my: ချင်ပန်ဇီမျောက်ဝံ
+    nan: O͘-seng-seng
+    nb: Sjimpanser
+    ne: चिम्पान्जी
+    nl: chimpansees
+    nn: sjimpansar
+    nv: Mágíshzhin
+    oc: Chimpanzé
+    os: шимпанзе
+    pa: ਚਿੰਪੈਂਜ਼ੀ
+    pl: szympans
+    pnb: چمپینزی
+    ps: چمپانزي
+    pt: Chimpanzé
+    pt-br: Chimpanzé
+    qu: Chimpansi
+    rn: Imamfu
+    ro: Cimpanzeu
+    ru: шимпанзе
+    scn: Pan
+    sco: chimpanzee
+    sh: Obična čimpanza
+    shn: လိင်းၶျိမ်ပႅၼ်ႇၸီႇ
+    sk: Šimpanz
+    sl: šimpanz
+    sq: Pan
+    sr: шимпанзе
+    su: Simpanseu
+    sv: Schimpanser
+    sw: Sokwe Mtu
+    ta: சிம்பன்சி
+    te: చింపాంజీ
+    tg: Шимпанзе
+    th: สกุลชิมแปนซี
+    tl: Pan
+    tr: Şempanze
+    udm: Шимпанзе
+    uk: шимпанзе
+    vi: Tinh tinh
+    vo: Pan
+    war: Pan
+    wuu: 黑猩猩属
+    yue: 黑猩猩屬
+    zh: 黑猩猩屬
+    zh-cn: 黑猩猩属
+    zh-tw: 黑猩猩屬
 ---
-
 # [[Pan(Genus)]] 
 
 ![](Pan(Genus)/Chimpanzee/Chimp_hugh.jpg)

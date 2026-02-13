@@ -1,21 +1,45 @@
 ---
-has_time_started: 1922-01-01 
+has_time_started: 1922-01-01
 aliases:
+- Det Bedste
+- Det Beste
+- Reader's Digest
+- Readers’Digest
+- Reader\'s Digest
+- Reader’s Digest
+- Seleções
+- Valitut Palat
+- Рідерз дайджест
+- Ридерз Дайджест
+- Ридерс дајџест
+- Рыдэрз Дайджэсі
+- ريدرز دايجست
+- ریدرز دایجست
+- ریڈرز ڈائجسٹ
+- रीडर्स डायजेस्ट
+- ਰੀਡਰ'ਜ਼ ਡਾਇਜੈਸਟ
+- ரீடர்ஸ் டைஜஸ்ட்
+- റീഡേഴ്സ് ഡൈജസ്റ്റ്
+- รีดเดอร์ส ไดเจสท์
+- リーダーズ・ダイジェスト
+- 讀者文摘
+- 读者文摘
+- 리더스 다이제스트
 has_id_wikidata: Q371820
 founded_by:
-  - "[[_Standards/WikiData/WD~Lila_Bell_Wallace,1824903]]"
-  - "[[_Standards/WikiData/WD~DeWitt_Wallace,5244201]]"
-owner_of: "[[_Standards/WikiData/WD~11_Westferry_Circus,4547785]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Trusted_Media_Brands,7300422]]"
+- '[[_Standards/WikiData/WD~Lila_Bell_Wallace,1824903]]'
+- '[[_Standards/WikiData/WD~DeWitt_Wallace,5244201]]'
+owner_of: '[[_Standards/WikiData/WD~11_Westferry_Circus,4547785]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Trusted_Media_Brands,7300422]]'
 has_edition_or_translation: "[[_Standards/WikiData/WD~Selezione_dal_Reader's_Digest,16601414]]"
 language_of_work_or_name:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
 publication_interval: 1
-instance_of: "[[_Standards/WikiData/WD~magazine,41298]]"
+instance_of: '[[_Standards/WikiData/WD~magazine,41298]]'
 ISSN_L: 0034-0375
 ISSN: 0034-0375
 described_at_URL: http://www.namebase.net:82/names/nn01.cgi?READERS_DIGEST_
@@ -24,19 +48,76 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20issue%20of%20t
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Reader%27s%20Digest%20logo.svg
 official_shop_URL: https://shop.rd.com/
 official_website:
-  - https://www.rd.com/
-  - https://www.readersdigest.co.uk/
+- https://www.rd.com/
+- https://www.readersdigest.co.uk/
 domain_name: rd.com
 Commons_category: Reader's Digest
 X_Twitter_username:
-  - readersdigest
-  - readersdigestUK
+- readersdigest
+- readersdigestUK
 title:
-  - Reader's Digest
-  - The Reader's Digest
+- Reader's Digest
+- The Reader's Digest
 inception: 1922-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: ريدرز دايجست
+    arz: ريدرز دايجست
+    ast: Reader\'s Digest
+    az: Reader's Digest
+    be-tarask: Рыдэрз Дайджэсі
+    ca: Reader's Digest
+    cs: Reader's Digest
+    da: Det Bedste
+    de: Reader’s Digest
+    el: Reader's Digest
+    en: Reader's Digest
+    en-gb: Reader's Digest
+    eo: Reader’s Digest
+    es: Reader's Digest
+    eu: Reader's Digest
+    fa: ریدرز دایجست
+    fi: Valitut Palat
+    fr: Reader's Digest
+    gl: Reader's Digest
+    he: Reader's Digest
+    ht: Reader's Digest
+    hu: Readers’Digest
+    id: Reader's Digest
+    it: Reader's Digest
+    ja: リーダーズ・ダイジェスト
+    ko: 리더스 다이제스트
+    ml: റീഡേഴ്സ് ഡൈജസ്റ്റ്
+    mr: रीडर्स डायजेस्ट
+    ms: Reader's Digest
+    nan: Reader's Digest
+    nb: Det Beste
+    nl: Reader's Digest
+    nn: Det Beste
+    pa: ਰੀਡਰ'ਜ਼ ਡਾਇਜੈਸਟ
+    pl: Reader's Digest
+    pnb: ریڈرز ڈائجسٹ
+    pt: Seleções
+    pt-br: Seleções
+    ro: Reader's Digest
+    ru: Ридерз Дайджест
+    sr: Ридерс дајџест
+    sv: Reader's Digest
+    ta: ரீடர்ஸ் டைஜஸ்ட்
+    th: รีดเดอร์ส ไดเจสท์
+    tl: Reader's Digest
+    tr: Reader's Digest
+    uk: Рідерз дайджест
+    ur: ریڈرز ڈائجسٹ
+    vi: Reader's Digest
+    zh: 读者文摘
+    zh-cn: 读者文摘
+    zh-hans: 读者文摘
+    zh-hant: 讀者文摘
+    zh-hk: 讀者文摘
+    zh-sg: 读者文摘
+    zh-tw: 讀者文摘
 ---
-
 # [[Reader's_Digest]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Reader's_Digest,371820|WD~Reader's_Digest,371820]]  

@@ -1,34 +1,64 @@
 ---
 aliases:
-  - Peter_Sellers
-  - Peter Sellers
-  - Richard Henry Sellers
-  - Sellers,Peter
+- Peter Sellers
+- Peter_Sellers
+- Petrus Sellers
+- Piter Selers
+- Piter Sellers
+- Pīters Selerss
+- Richard Henry Sellers
+- Sellers,Peter
+- Πίτερ Σέλερς
+- Пітер Селлерс
+- Пітэр Селерс
+- Пітэр Сэлерз
+- Питер Селерс
+- Питер Селлерс
+- Питър Селърс
+- Պիտեր Սելլերս
+- פיטר סלרס
+- بيتر سلرز
+- پیتر سلرز
+- پیٹر سیلرز
+- पीटर सेलर्स
+- পিটার সেলার্স
+- ਪੀਟਰ ਸੈਲਰਸ
+- பீட்டர் செல்லர்சு
+- ಪೀಟರ್ ಸೆಲ್ಲರ್ಸ್
+- പീറ്റർ സെല്ലേഴ്സ്
+- ปีเตอร์ เซลเลอส์
+- პიტერ სელერსი
+- ピーター・セラーズ
+- 彼得·塞勒斯
+- 彼得·斯拉
+- 彼得·謝勒
+- 彼得斯拉
+- 피터 셀러스
 has_id_wikidata: Q177984
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Live_Action_Short_Film,1324407]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Live_Action_Short_Film,1324407]]'
 military_branch: '[[_Standards/WikiData/WD~Royal_Air_Force,165862]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~banjoist,9648008]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~banjoist,9648008]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Britt_Ekland,233837]]'
-  - '[[_Standards/WikiData/WD~Lynne_Frederick,442166]]'
-  - '[[_Standards/WikiData/WD~Miranda,_Countess_of_Stockton,6872829]]'
-  - '[[_Standards/WikiData/WD~Anne_Hayes,112277098]]'
+- '[[_Standards/WikiData/WD~Britt_Ekland,233837]]'
+- '[[_Standards/WikiData/WD~Lynne_Frederick,442166]]'
+- '[[_Standards/WikiData/WD~Miranda,_Countess_of_Stockton,6872829]]'
+- '[[_Standards/WikiData/WD~Anne_Hayes,112277098]]'
 place_of_birth: '[[_Standards/WikiData/WD~Southsea,541348]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Henry,1158477]]'
-  - '[[_Standards/WikiData/WD~Richard,1249148]]'
-  - '[[_Standards/WikiData/WD~Peter,2793400]]'
+- '[[_Standards/WikiData/WD~Henry,1158477]]'
+- '[[_Standards/WikiData/WD~Richard,1249148]]'
+- '[[_Standards/WikiData/WD~Peter,2793400]]'
 place_of_death: '[[_Standards/WikiData/WD~Middlesex_Hospital,1431700]]'
 different_from: '[[_Standards/WikiData/WD~Peter_Sellars,1867549]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -36,15 +66,15 @@ place_of_burial: '[[_Standards/WikiData/WD~Golders_Green_Crematorium,4141350]]'
 filmography: '[[_Standards/WikiData/WD~Peter_Sellers_filmography,6100512]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child:
-  - '[[_Standards/WikiData/WD~Michael_Sellers,6834281]]'
-  - '[[_Standards/WikiData/WD~Victoria_Sellers,7927032]]'
-  - '[[_Standards/WikiData/WD~Sarah_Sellers,112583089]]'
+- '[[_Standards/WikiData/WD~Michael_Sellers,6834281]]'
+- '[[_Standards/WikiData/WD~Victoria_Sellers,7927032]]'
+- '[[_Standards/WikiData/WD~Sarah_Sellers,112583089]]'
 educated_at: '[[_Standards/WikiData/WD~St_Aloysius_RC_College,7592308]]'
 award_received: '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_British_Empire,12201477]]'
 family_name: '[[_Standards/WikiData/WD~Sellers,16882943]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 father: '[[_Standards/WikiData/WD~William_Sellers,108840480]]'
 mother: '[[_Standards/WikiData/WD~Agnes_Doreen_Marks,108840481]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -57,8 +87,8 @@ height: 174
 genre: '[[_Standards/WikiData/WD~comedy,40831]]'
 Commons_category: Peter Sellers
 birth_name:
-  - Richard Henry Seller
-  - Richard Henry Sellers
+- Richard Henry Seller
+- Richard Henry Sellers
 date_of_birth: 1925-09-08T00:00:00Z
 name_in_native_language: Peter Sellers
 work_period_end_: 1980-01-01T00:00:00Z
@@ -69,8 +99,135 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Selle
 official_website: http://www.petersellers.com/
 ISNI: 0000000081280438
 Plex_person_key: 5d7768284de0ee001fcc8dd1
+dv_has_:
+  name_:
+    af: Peter Sellers
+    an: Peter Sellers
+    ar: بيتر سلرز
+    arz: بيتر سلرز
+    ast: Peter Sellers
+    az: Piter Sellers
+    azb: پیتر سلرز
+    ba: Питер Селлерс
+    bar: Peter Sellers
+    be: Пітэр Селерс
+    be-tarask: Пітэр Сэлерз
+    bg: Питър Селърс
+    bn: পিটার সেলার্স
+    br: Peter Sellers
+    bs: Peter Sellers
+    ca: Peter Sellers
+    co: Peter Sellers
+    cs: Peter Sellers
+    cy: Peter Sellers
+    da: Peter Sellers
+    dag: Peter Sellers
+    de: Peter Sellers
+    de-at: Peter Sellers
+    de-ch: Peter Sellers
+    el: Πίτερ Σέλερς
+    en: Peter Sellers
+    en-ca: Peter Sellers
+    en-gb: Peter Sellers
+    eo: Peter Sellers
+    es: Peter Sellers
+    et: Peter Sellers
+    eu: Peter Sellers
+    fa: پیتر سلرز
+    fi: Peter Sellers
+    fr: Peter Sellers
+    frp: Peter Sellers
+    fur: Peter Sellers
+    fy: Peter Sellers
+    ga: Peter Sellers
+    gd: Peter Sellers
+    gl: Peter Sellers
+    gsw: Peter Sellers
+    he: פיטר סלרס
+    hi: पीटर सेलर्स
+    hif: Peter Sellers
+    hr: Peter Sellers
+    hu: Peter Sellers
+    hy: Պիտեր Սելլերս
+    ia: Peter Sellers
+    id: Peter Sellers
+    ie: Peter Sellers
+    ilo: Peter Sellers
+    io: Peter Sellers
+    is: Peter Sellers
+    it: Peter Sellers
+    ja: ピーター・セラーズ
+    ka: პიტერ სელერსი
+    kg: Peter Sellers
+    kn: ಪೀಟರ್ ಸೆಲ್ಲರ್ಸ್
+    ko: 피터 셀러스
+    la: Petrus Sellers
+    lb: Peter Sellers
+    li: Peter Sellers
+    lij: Peter Sellers
+    lt: Peter Sellers
+    lv: Pīters Selerss
+    mg: Peter Sellers
+    min: Peter Sellers
+    mk: Питер Селерс
+    ml: പീറ്റർ സെല്ലേഴ്സ്
+    ms: Peter Sellers
+    mul: Peter Sellers
+    nap: Peter Sellers
+    nb: Peter Sellers
+    nds: Peter Sellers
+    nds-nl: Peter Sellers
+    nl: Peter Sellers
+    nn: Peter Sellers
+    nrm: Peter Sellers
+    oc: Peter Sellers
+    pa: ਪੀਟਰ ਸੈਲਰਸ
+    pcd: Peter Sellers
+    pl: Peter Sellers
+    pms: Peter Sellers
+    pt: Peter Sellers
+    pt-br: Peter Sellers
+    qu: Peter Sellers
+    rm: Peter Sellers
+    ro: Peter Sellers
+    ru: Питер Селлерс
+    sc: Peter Sellers
+    scn: Peter Sellers
+    sco: Peter Sellers
+    sh: Peter Sellers
+    sk: Peter Sellers
+    sl: Peter Sellers
+    sq: Peter Sellers
+    sr: Питер Селерс
+    sr-ec: Питер Селерс
+    sr-el: Piter Selers
+    sv: Peter Sellers
+    sw: Peter Sellers
+    ta: பீட்டர் செல்லர்சு
+    th: ปีเตอร์ เซลเลอส์
+    tl: Peter Sellers
+    tr: Peter Sellers
+    uk: Пітер Селлерс
+    ur: پیٹر سیلرز
+    vec: Peter Sellers
+    vi: Peter Sellers
+    vls: Peter Sellers
+    vo: Peter Sellers
+    wa: Peter Sellers
+    war: Peter Sellers
+    wo: Peter Sellers
+    wuu: 彼得·塞勒斯
+    yue: 彼得斯拉
+    zh: 彼得·塞勒斯
+    zh-cn: 彼得·塞勒斯
+    zh-hans: 彼得·塞勒斯
+    zh-hant: 彼得·謝勒
+    zh-hk: 彼得·斯拉
+    zh-my: 彼得·斯拉
+    zh-sg: 彼得·斯拉
+    zh-tw: 彼得·謝勒
+    zu: Peter Sellers
 ---
-
 # [[Sellers,Peter]] 
 
 #is_/same_as :: [[WD~Peter_Sellers,177984]] 

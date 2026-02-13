@@ -1,13 +1,83 @@
 ---
 aliases:
-  - Heat transfer
-  - Heat_Transfer
-  - Heat Transfer
+- Bero transferentzia
+- Calor
+- Heat transfer
+- Heat_Transfer
+- hőátadás
+- Isı aktarımı
+- Jılw almasw beti
+- Kalorala transfero
+- Katakata tokitaki
+- lämmön siirtyminen
+- Paglilipat-hatid ng init
+- Pemindahan haba
+- Pindah panas
+- Prenos toplote
+- prevajanje toplote
+- prijenos topline
+- propagação térmica
+- siltumpārnese
+- Soojusülekanne
+- transferencia de calor
+- Transferi i nxehtësisë
+- transfert thermique
+- Transfè tèmik
+- Transmisión de calor
+- transmissió tèrmica
+- Transmiterea căldurii
+- trao đổi nhiệt
+- traschur teasa
+- trasmissione del calore
+- Tresferencia de calor
+- Varmeoverførsel
+- varmetransport
+- varmotransdono
+- värmeöverföring
+- Warmteoordrag
+- warmteoverdracht
+- wymiana cieplna
+- Wärmeübertragung
+- Ăшăярăш
+- İstilik mübadiləsi
+- šírenie tepla
+- šíření tepla
+- μεταφορά θερμότητας
+- Дулаан дамжуулал
+- Жылу алмасу беті
+- пренос на топлина
+- пренос топлоте
+- теплообмін
+- теплопередача
+- Топлообмен
+- цеплаперадача
+- җылылык тапшыру
+- Ջերմափոխանակություն
+- מעבר חום
+- انتقال الحرارة
+- انتقال گرما
+- جىلۋ الماسۋ بەتى
+- حرارت کی منتقلی
+- उष्णता वहन
+- ऊष्मा का संचार
+- ताप प्रसारण
+- তাপ সঞ্চালন
+- வெப்பப் பரிமாற்றம்
+- ಶಾಖ ವರ್ಗಾವಣೆ
+- තාපය ගමන් කිරීම
+- การถ่ายเทความร้อน
+- ການໂອນຄວາມຮ້ອນ
+- အပူကူးပြောင်းခြင်း
+- 伝熱
+- 传热
+- 傳熱
+- 熱傳
+- 전열
 has_id_wikidata: Q179635
 has_part_s_:
-  - '[[_Standards/WikiData/WD~convection,160329]]'
-  - '[[_Standards/WikiData/WD~thermal_radiation,192593]]'
-  - '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
+- '[[_Standards/WikiData/WD~convection,160329]]'
+- '[[_Standards/WikiData/WD~thermal_radiation,192593]]'
+- '[[_Standards/WikiData/WD~thermal_conduction,7465774]]'
 instance_of: '[[_Standards/WikiData/WD~thermodynamic_process,213016]]'
 opposite_of: '[[_Standards/WikiData/WD~adiabasis,356865]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
@@ -16,17 +86,110 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climat
 different_from: '[[_Standards/WikiData/WD~heat,44432]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~heat,44432]]'
 Dewey_Decimal_Classification:
-  - 536.2
-  - 621.4022
-  - 660.28427
+- 536.2
+- 621.4022
+- 660.28427
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%89%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A4%E0%A4%BE%20%E0%A4%B5%E0%A4%B9%E0%A4%A8.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%A4%E0%A6%BE%E0%A6%AA%20%E0%A6%B8%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%89%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A4%E0%A4%BE%20%E0%A4%B5%E0%A4%B9%E0%A4%A8.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Helperofhumanity-%E0%A6%A4%E0%A6%BE%E0%A6%AA%20%E0%A6%B8%E0%A6%9E%E0%A7%8D%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%A8.wav
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Transfert%20radiation.png
 Commons_gallery: Heat transfer
 Commons_category: Heat transfer
+dv_has_:
+  name_:
+    af: Warmteoordrag
+    ar: انتقال الحرارة
+    as: তাপ সঞ্চালন
+    ast: Tresferencia de calor
+    az: İstilik mübadiləsi
+    be: цеплаперадача
+    be-tarask: цеплаперадача
+    bg: Топлообмен
+    bn: তাপ সঞ্চালন
+    ca: transmissió tèrmica
+    cs: šíření tepla
+    cv: Ăшăярăш
+    da: Varmeoverførsel
+    de: Wärmeübertragung
+    de-ch: Wärmeübertragung
+    el: μεταφορά θερμότητας
+    en: heat transfer
+    en-ca: heat transfer
+    en-gb: heat transfer
+    eo: varmotransdono
+    es: transferencia de calor
+    et: Soojusülekanne
+    eu: Bero transferentzia
+    fa: انتقال گرما
+    fi: lämmön siirtyminen
+    fj: Katakata tokitaki
+    fr: transfert thermique
+    ga: traschur teasa
+    gl: Transmisión de calor
+    he: מעבר חום
+    hi: ऊष्मा का संचार
+    hr: prijenos topline
+    ht: Transfè tèmik
+    hu: hőátadás
+    hy: Ջերմափոխանակություն
+    id: Pindah panas
+    io: Kalorala transfero
+    it: trasmissione del calore
+    ja: 伝熱
+    kk: Жылу алмасу беті
+    kk-arab: جىلۋ الماسۋ بەتى
+    kk-cn: جىلۋ الماسۋ بەتى
+    kk-cyrl: Жылу алмасу беті
+    kk-kz: Жылу алмасу беті
+    kk-latn: Jılw almasw beti
+    kk-tr: Jılw almasw beti
+    kn: ಶಾಖ ವರ್ಗಾವಣೆ
+    ko: 전열
+    lo: ການໂອນຄວາມຮ້ອນ
+    lv: siltumpārnese
+    mk: пренос на топлина
+    mn: Дулаан дамжуулал
+    mr: उष्णता वहन
+    ms: Pemindahan haba
+    my: အပူကူးပြောင်းခြင်း
+    nb: varmetransport
+    ne: ताप प्रसारण
+    nl: warmteoverdracht
+    nn: varmetransport
+    oc: Calor
+    pl: wymiana cieplna
+    pt: propagação térmica
+    pt-br: Propagação térmica
+    ro: Transmiterea căldurii
+    ru: теплопередача
+    sh: Prenos toplote
+    si: තාපය ගමන් කිරීම
+    sk: šírenie tepla
+    sl: prevajanje toplote
+    sq: Transferi i nxehtësisë
+    sr: пренос топлоте
+    sr-ec: Пренос топлоте
+    sr-el: Prenos toplote
+    sv: värmeöverföring
+    ta: வெப்பப் பரிமாற்றம்
+    th: การถ่ายเทความร้อน
+    tl: Paglilipat-hatid ng init
+    tr: Isı aktarımı
+    tt: җылылык тапшыру
+    tt-cyrl: җылылык тапшыру
+    uk: теплообмін
+    ur: حرارت کی منتقلی
+    vi: trao đổi nhiệt
+    wuu: 传热
+    yue: 傳熱
+    zh: 熱傳
+    zh-cn: 传热
+    zh-hans: 传热
+    zh-hant: 傳熱
+    zh-hk: 傳熱
+    zh-sg: 传热
+    zh-tw: 傳熱
 ---
-
 # [[Heat_Transfer]] 
 
 #is_/same_as :: [[WD~Heat_transfer,179635]] 

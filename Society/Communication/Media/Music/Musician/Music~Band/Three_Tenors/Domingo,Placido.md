@@ -1,87 +1,110 @@
 ---
 aliases:
-  - Placido Domingo
-  - José Plácido Domingo Embil
-  - Plácido Domingo
-  - Domingo
-  - Plácido_Domingo
-  - Domingo,Placido
+- Domingo
+- Domingo,Placido
+- José Plácido Domingo Embil
+- Placido Domingo
+- Placidus Domingo
+- Plasido Domingo
+- Plaçido Dominqo
+- Plácido Domingo
+- Plácido_Domingo
+- Πλάθιντο Ντομίνγκο
+- Пласіда Дамінга
+- Пласідо Домінго
+- Пласидо Доминго
+- Плясыда Дамінга
+- Պլասիդո Դոմինգո
+- Փլասիտօ Տոմինկօ
+- פלאסידו דומינגו
+- بلاثيدو دومينغو
+- بلاسيدو دومينجو
+- پلاسیدو دومینگو
+- ปลาซีโด โดมิงโก
+- პლასიდო დომინგო
+- პლაჩიდო დომინგო
+- プラシド・ドミンゴ
+- 普拉西多·多明哥
+- 普拉西多·多明戈
+- 普拉西多·杜鳴高
+- 杜明高
+- 플라시도 도밍고
 has_id_wikidata: Q130853
 residence:
-  - '[[_Standards/WikiData/WD~Q81398,81398]]'
-  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
-  - '[[_Standards/WikiData/WD~Madrid,2807]]'
-  - '[[_Standards/WikiData/WD~Manhattan,11299]]'
+- '[[_Standards/WikiData/WD~Q81398,81398]]'
+- '[[_Standards/WikiData/WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Madrid,2807]]'
+- '[[_Standards/WikiData/WD~Manhattan,11299]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Prince_Henry,93488]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_the_Cedar,93864]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Aztec_Eagle,93956]]'
-  - '[[_Standards/WikiData/WD~Decoration_of_Honour_for_Services_to_the_Republic_of_Austria,94044]]'
-  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-  - '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
-  - '[[_Standards/WikiData/WD~Order_of_Public_Instruction,495686]]'
-  - '[[_Standards/WikiData/WD~Order_of_Cultural_Merit,716556]]'
-  - '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-  - '[[_Standards/WikiData/WD~Order_of_Friendship,791135]]'
-  - '[[_Standards/WikiData/WD~Birgit_Nilsson_Prize,865195]]'
-  - '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
-  - '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
-  - '[[_Standards/WikiData/WD~Ring_of_Honour_of_the_City_of_Vienna,1300543]]'
-  - '[[_Standards/WikiData/WD~Civil_Order_of_Alfonso_X,_the_Wise,1551695]]'
-  - '[[_Standards/WikiData/WD~Medal_for_Merit_to_Culture,1702885]]'
-  - '[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
-  - '[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]'
-  - '[[_Standards/WikiData/WD~Latin_Recording_Academy_Person_of_the_Year,6496471]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-  - '[[_Standards/WikiData/WD~Österreichischer_Kammersänger,16875614]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Grand_Decoration_of_Honour_in_Gold_for_services_to_the_State_of_Vienna,18507211]]'
-  - '[[_Standards/WikiData/WD~Great_Silver_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,18591931]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_National_Order_of_the_Cedar,20857721]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Prince_Henry,20859490]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Civil_Order_of_Alfonso_X_the_Wise,20884576]]'
-  - '[[_Standards/WikiData/WD~Golden_Medal_for_Merit_to_Culture,21950735]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Sun_of_Peru,25755314]]'
-  - '[[_Standards/WikiData/WD~Royal_Philharmonic_Society_Gold_Medal,26183322]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Civil_Merit,28861961]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
-  - '[[_Standards/WikiData/WD~Dearest_Son_of_Madrid,41705680]]'
-  - '[[_Standards/WikiData/WD~Dostyk_Order_of_grade_II,41793795]]'
-  - '[[_Standards/WikiData/WD~Gold_Medal_for_Tourism_Merit,42128907]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Salamanca,50614979]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Murcia,50625921]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Public_Instruction,59188764]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Cultural_Merit,62743716]]'
-  - '[[_Standards/WikiData/WD~Lo_Nuestro_Excellence_Award,65077806]]'
-  - '[[_Standards/WikiData/WD~Medaille_für_Kunst_und_Wissenschaft_(Hamburg),79419202]]'
-  - '[[_Standards/WikiData/WD~Galardón_Camino_Real,120648343]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_British_Empire,14420]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Order_of_Prince_Henry,93488]]'
+- '[[_Standards/WikiData/WD~National_Order_of_the_Cedar,93864]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Aztec_Eagle,93956]]'
+- '[[_Standards/WikiData/WD~Decoration_of_Honour_for_Services_to_the_Republic_of_Austria,94044]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
+- '[[_Standards/WikiData/WD~Order_of_Public_Instruction,495686]]'
+- '[[_Standards/WikiData/WD~Order_of_Cultural_Merit,716556]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~Order_of_Friendship,791135]]'
+- '[[_Standards/WikiData/WD~Birgit_Nilsson_Prize,865195]]'
+- '[[_Standards/WikiData/WD~Order_of_Isabella_the_Catholic,931502]]'
+- '[[_Standards/WikiData/WD~Classic_Brit_Awards,1096102]]'
+- '[[_Standards/WikiData/WD~Ring_of_Honour_of_the_City_of_Vienna,1300543]]'
+- '[[_Standards/WikiData/WD~Civil_Order_of_Alfonso_X,_the_Wise,1551695]]'
+- '[[_Standards/WikiData/WD~Medal_for_Merit_to_Culture,1702885]]'
+- '[[_Standards/WikiData/WD~Order_of_Civil_Merit,2703201]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]'
+- '[[_Standards/WikiData/WD~Latin_Recording_Academy_Person_of_the_Year,6496471]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Knight_Commander_of_the_Order_of_the_British_Empire,12201445]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~Österreichischer_Kammersänger,16875614]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Isabella_the_Catholic,17365974]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Grand_Decoration_of_Honour_in_Gold_for_services_to_the_State_of_Vienna,18507211]]'
+- '[[_Standards/WikiData/WD~Great_Silver_Medal_of_Honour_for_Services_to_the_Republic_of_Austria,18591931]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_National_Order_of_the_Cedar,20857721]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Prince_Henry,20859490]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Civil_Order_of_Alfonso_X_the_Wise,20884576]]'
+- '[[_Standards/WikiData/WD~Golden_Medal_for_Merit_to_Culture,21950735]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Sun_of_Peru,25755314]]'
+- '[[_Standards/WikiData/WD~Royal_Philharmonic_Society_Gold_Medal,26183322]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Civil_Merit,28861961]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+- '[[_Standards/WikiData/WD~Dearest_Son_of_Madrid,41705680]]'
+- '[[_Standards/WikiData/WD~Dostyk_Order_of_grade_II,41793795]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_for_Tourism_Merit,42128907]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Salamanca,50614979]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Madrid_Complutense,50621171]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Murcia,50625921]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Public_Instruction,59188764]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Cultural_Merit,62743716]]'
+- '[[_Standards/WikiData/WD~Lo_Nuestro_Excellence_Award,65077806]]'
+- '[[_Standards/WikiData/WD~Medaille_für_Kunst_und_Wissenschaft_(Hamburg),79419202]]'
+- '[[_Standards/WikiData/WD~Galardón_Camino_Real,120648343]]'
+- '[[_Standards/WikiData/WD~Order_of_the_British_Empire,14420]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~opera_singer,2865819]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~opera_singer,2865819]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 position_held: '[[_Standards/WikiData/WD~UNESCO_Goodwill_Ambassador,378422]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~The_Three_Tenors,751079]]'
-  - '[[_Standards/WikiData/WD~Royal_Academy_of_Fine_Arts_of_San_Fernando,1322403]]'
-  - '[[_Standards/WikiData/WD~Academia_de_las_Artes_Escénicas_de_España,28662917]]'
-  - '[[_Standards/WikiData/WD~Q133543408,133543408]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~The_Three_Tenors,751079]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Fine_Arts_of_San_Fernando,1322403]]'
+- '[[_Standards/WikiData/WD~Academia_de_las_Artes_Escénicas_de_España,28662917]]'
+- '[[_Standards/WikiData/WD~Q133543408,133543408]]'
 student_of: '[[_Standards/WikiData/WD~Igor_Markevitch,503355]]'
 voice_type:
-  - '[[_Standards/WikiData/WD~Heldentenor,1601762]]'
-  - '[[_Standards/WikiData/WD~tenor,27914]]'
-  - '[[_Standards/WikiData/WD~baritone,31687]]'
+- '[[_Standards/WikiData/WD~Heldentenor,1601762]]'
+- '[[_Standards/WikiData/WD~tenor,27914]]'
+- '[[_Standards/WikiData/WD~baritone,31687]]'
 record_label: '[[_Standards/WikiData/WD~EMI_Classics,3045977]]'
 educated_at: '[[_Standards/WikiData/WD~National_Conservatory_of_Music_of_Mexico,4314843]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -94,12 +117,12 @@ instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 spouse: '[[_Standards/WikiData/WD~Marta_Domingo,18206431]]'
 family_name: '[[_Standards/WikiData/WD~Domingo,28861977]]'
 given_name:
-  - '[[_Standards/WikiData/WD~José,29043257]]'
-  - '[[_Standards/WikiData/WD~Plácido,43298500]]'
+- '[[_Standards/WikiData/WD~José,29043257]]'
+- '[[_Standards/WikiData/WD~Plácido,43298500]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 second_family_name_in_Spanish_name: '[[_Standards/WikiData/WD~Embil,56677985]]'
 medical_condition: '[[_Standards/WikiData/WD~COVID_19,84263196]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Spanish,1321]]'
@@ -126,8 +149,95 @@ X_Twitter_username: PlacidoDomingo
 Libris_URI: rp369ns95lkp7hk
 name_in_native_language: José Plácido Domingo Embil
 date_of_birth: 1941-01-21T00:00:00Z
+dv_has_:
+  name_:
+    af: Plácido Domingo
+    ar: بلاثيدو دومينغو
+    arz: بلاسيدو دومينجو
+    ast: Plácido Domingo
+    ay: Plácido Domingo
+    az: Plaçido Dominqo
+    ba: Пласидо Доминго
+    be: Пласіда Дамінга
+    be-tarask: Плясыда Дамінга
+    bg: Пласидо Доминго
+    bs: Plácido Domingo
+    ca: Plácido Domingo
+    cs: Plácido Domingo
+    cy: Plácido Domingo
+    da: Plácido Domingo
+    dag: Plácido Domingo
+    de: Plácido Domingo
+    el: Πλάθιντο Ντομίνγκο
+    en: Plácido Domingo
+    eo: Plácido Domingo
+    es: Plácido Domingo
+    et: Plácido Domingo
+    eu: Plácido Domingo
+    fa: پلاسیدو دومینگو
+    fi: Plácido Domingo
+    fr: Plácido Domingo
+    ga: Plácido Domingo
+    gl: Plácido Domingo
+    gsw: Plácido Domingo
+    he: פלאסידו דומינגו
+    hr: Plácido Domingo
+    hu: Plácido Domingo
+    hy: Պլասիդո Դոմինգո
+    hyw: Փլասիտօ Տոմինկօ
+    io: Plácido Domingo
+    is: Plácido Domingo
+    it: Plácido Domingo
+    ja: プラシド・ドミンゴ
+    ka: პლაჩიდო დომინგო
+    ko: 플라시도 도밍고
+    la: Placidus Domingo
+    lb: Plácido Domingo
+    lt: Plácido Domingo
+    lv: Plasido Domingo
+    mg: Plácido Domingo
+    mk: Пласидо Доминго
+    mn: Пласидо Доминго
+    ms: Plácido Domingo
+    mul: Plácido Domingo
+    nap: Plácido Domingo
+    nb: Plácido Domingo
+    nl: Plácido Domingo
+    nn: Plácido Domingo
+    pam: Plácido Domingo
+    pap: Plácido Domingo
+    pl: Plácido Domingo
+    pt: Plácido Domingo
+    pt-br: Plácido Domingo
+    qu: Plácido Domingo
+    ro: Plácido Domingo
+    ru: Пласидо Доминго
+    scn: Plácido Domingo
+    sco: Plácido Domingo
+    sh: Plácido Domingo
+    sk: Plácido Domingo
+    sl: Placido Domingo
+    sq: Plácido Domingo
+    sr: Пласидо Доминго
+    sr-ec: Пласидо Доминго
+    sv: Plácido Domingo
+    th: ปลาซีโด โดมิงโก
+    tl: Plácido Domingo
+    tr: Plácido Domingo
+    uk: Пласідо Домінго
+    vi: Placido Domingo
+    war: Plácido Domingo
+    wuu: 普拉西多·多明戈
+    xmf: პლასიდო დომინგო
+    yue: 杜明高
+    zh: 普拉西多·多明哥
+    zh-cn: 普拉西多·多明戈
+    zh-hans: 普拉西多·多明戈
+    zh-hant: 普拉西多·多明哥
+    zh-hk: 普拉西多·杜鳴高
+    zh-sg: 普拉西多·多明戈
+    zh-tw: 普拉西多·多明哥
 ---
-
 #has_/time_/started :: 1941-01-21 
 #has_/location_/created :: [[../../../../../../../../_Standards/Earth/Continent/America~Central/Mexico|Mexico]] 
 #is_/member_/of :: [[../Three_Tenors]] 

@@ -1,24 +1,143 @@
 ---
 aliases:
+- Avetnjaci
+- cadı makigiller
+- Ilgakulniai
+- Kummituseläimet
+- Mágí binááʼtsohígíí
+- nártoun
+- Pincol (Tarsius)
+- Spookdierkes
+- spookdiertjes
+- Spökdjur
+- Spøgelsesabe
+- Spøkelsesaper
+- Spøkjelsesapar
+- Sulawesi-Koboldmakis
+- tarsaire
+- Tarser
+- Tarsiiformes
+- Tarsiji
+- Tarsius
+- Tarsyi
+- Uzuntopuq
+- Wyrak
+- Τάρσιος
+- Авети
+- даўгапяты
+- доўгапятка
+- довгоп'ят
+- дългопети
+- Тарзијери
+- קופיף
+- ترسير
+- رسغي
+- شبگردمیمونها
+- ٹارسیر
+- ടാർസിയർ
+- ทาร์เซียร์
+- გრძელტერფასებრნი
+- メガネザル属
+- 眼鏡猴属
+- 眼鏡猴屬
+- 眼镜猴属
+- 안경원숭이속
 has_id_wikidata: Q60205
-homonymous_taxon: "[[_Standards/WikiData/WD~Tarsius,13458593]]"
-this_zoological_name_is_coordinate_with: "[[_Standards/WikiData/WD~Tarsius,13458593]]"
+homonymous_taxon: '[[_Standards/WikiData/WD~Tarsius,13458593]]'
+this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Tarsius,13458593]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Lemur_tarsier,122279036]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "572805"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+diel_cycle: '[[_Standards/WikiData/WD~nocturnal,101029366]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Lemur_tarsier,122279036]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 572805
 Commons_gallery: Tarsius
 Commons_category: Tarsius
 taxon_name: Tarsius
 MeSH_tree_code: B01.050.150.900.649.313.988.400.800
 UMLS_CUI: C1318105
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tarsius%20spectrumgurskyae%20339769929.jpg
+dv_has_:
+  name_:
+    an: Tarsius
+    ar: رسغي
+    arz: ترسير
+    ast: Tarsius
+    avk: Pincol (Tarsius)
+    az: Uzuntopuq
+    be: даўгапяты
+    be-tarask: доўгапятка
+    bg: дългопети
+    bs: Avetnjaci
+    ca: Tarser
+    ceb: Tarsius
+    cs: nártoun
+    da: Spøgelsesabe
+    de: Sulawesi-Koboldmakis
+    el: Τάρσιος
+    en: Tarsius
+    en-ca: Tarsius
+    en-gb: Tarsius
+    eo: Tarsius
+    es: Tarsius
+    eu: Tarsius
+    ext: Tarsius
+    fa: شبگردمیمونها
+    fi: Kummituseläimet
+    fr: Tarsius
+    ga: tarsaire
+    gl: Tarsius
+    he: קופיף
+    hr: Avetnjaci
+    hu: Tarsius
+    ia: Tarsius
+    id: Tarsius
+    ie: Tarsius
+    io: Tarsius
+    it: Tarsius
+    ja: メガネザル属
+    ka: გრძელტერფასებრნი
+    ko: 안경원숭이속
+    la: Tarsius
+    li: Spookdierkes
+    lij: Tarsiiformes
+    lt: Ilgakulniai
+    lv: Tarsiji
+    mk: Авети
+    ml: ടാർസിയർ
+    ms: Tarsius
+    mul: Tarsius
+    nb: Spøkelsesaper
+    nl: spookdiertjes
+    nn: Spøkjelsesapar
+    nrm: Tarsyi
+    nv: Mágí binááʼtsohígíí
+    oc: Tarsius
+    pl: Wyrak
+    pnb: ٹارسیر
+    pt: Tarsius
+    pt-br: Tarsius
+    ro: Tarsius
+    ru: Tarsius
+    sh: Tarsius
+    sq: Tarsius
+    sr: Тарзијери
+    sr-ec: Тарзијери
+    sv: Spökdjur
+    th: ทาร์เซียร์
+    tr: cadı makigiller
+    uk: довгоп'ят
+    vi: Tarsius
+    vo: Tarsius
+    war: Tarsius
+    yue: 眼鏡猴屬
+    zh: 眼镜猴属
+    zh-cn: 眼鏡猴属
+    zh-hans: 眼镜猴属
+    zh-tw: 眼鏡猴屬
 ---
-
 # [[Tarsius]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Tarsius,60205|WD~Tarsius,60205]]  

@@ -1,36 +1,191 @@
 ---
 aliases:
+- co-rollageys caslagh
+- galaeth droellog
+- Galaksi pilin
+- Galaksi spiral
+- galaktyka spiralna
+- galassia spirale
+- Galassia spirali
+- galaxa espiral
+- galaxia espiral
+- Galaxia espirala
+- galaxia kiribil
+- galaxie spirale
+- galaxie spirală
+- galàssia spirali
+- galàxia espiral
+- galáxia espiral
+- kierteisgalaksi
+- Kńg-lê gîn-hô
+- Ruda margundoo
+- réaltra bíseach
+- sarmal galaksi
+- Spiraalgalaktika
+- spiraalsterrestelsel
+- spiraalvormig sterrenstelsel
+- spiral galaxy
+- Spiral qalaktikalar
+- spirala galaksio
+- spiralgalakse
+- spiralgalax
+- Spiralgalaxie
+- spiralinė galaktika
+- spiralna galaksija
+- spiralna galaktika
+- spirálgalaxis
+- spirální galaxie
+- spirālveida galaktika
+- thiên hà xoắn ốc
+- Vawyaye galaksi
+- špirálová galaxia
+- σπειροειδής γαλαξίας
+- Мушгиа галактик
+- спіральна галактика
+- Спіральная галактыка
+- спирална галаксија
+- Спирална галактика
+- спираль галактика
+- Спиральды галактика
+- спиральная галактика
+- сьпіральная галяктыка
+- պարուրաձև գալակտիկա
+- גלקסיה ספירלית
+- بوروشوق قالاکسی
+- مجرة حلزونية
+- مرپیچی کهکشون
+- چکری تارہ سمندر
+- کهکشان مارپیچی
+- گەلەستێرەی لوولپێچ
+- सर्पिल गैलेक्सी
+- सर्पिलाकार दीर्घिका
+- সর্পিল ছায়াপথ
+- ਸਰਪਿਲ ਆਕਾਸ਼ਗੰਗਾ
+- சுருள் விண்மீன் மண்டலம்
+- సర్పిల నక్షత్ర మండలం
+- ดาราจักรชนิดก้นหอย
+- ခရုပတ်ပုံစံ ဂလက်ဆီ
+- სპირალური გალაქტიკა
+- 旋涡星系
+- 渦巻銀河
+- 螺旋星系
+- 나선 은하
+- 라선은하계
 has_id_wikidata: Q2488
-shape: "[[_Standards/WikiData/WD~spiral,189114]]"
-followed_by: "[[_Standards/WikiData/WD~lenticular_galaxy,192078]]"
-has_list: "[[_Standards/WikiData/WD~list_of_spiral_galaxies,1051686]]"
-subclass_of: "[[_Standards/WikiData/WD~disc_galaxy,1371025]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
+shape: '[[_Standards/WikiData/WD~spiral,189114]]'
+followed_by: '[[_Standards/WikiData/WD~lenticular_galaxy,192078]]'
+has_list: '[[_Standards/WikiData/WD~list_of_spiral_galaxies,1051686]]'
+subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spiralgalaxie%20M74.jpg
-Dewey_Decimal_Classification: "523.112"
+Dewey_Decimal_Classification: 523.112
 Library_of_Congress_Classification: QB858.42
 Commons_category: Spiral galaxies
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]"
-    - "[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy|Spiral_Galaxy]]"
-    - "[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy.public|Spiral_Galaxy.public]]"
-    - "[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.internal|Spiral_Galaxy.internal]]"
-    - "[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy.protect|Spiral_Galaxy.protect]]"
-    - "[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy.private|Spiral_Galaxy.private]]"
-    - "[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.personal|Spiral_Galaxy.personal]]"
-    - "[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy.secret|Spiral_Galaxy.secret]]"
+  - '[[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]'
+  - '[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy|Spiral_Galaxy]]'
+  - '[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy.public|Spiral_Galaxy.public]]'
+  - '[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.internal|Spiral_Galaxy.internal]]'
+  - '[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy.protect|Spiral_Galaxy.protect]]'
+  - '[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy.private|Spiral_Galaxy.private]]'
+  - '[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.personal|Spiral_Galaxy.personal]]'
+  - '[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy.secret|Spiral_Galaxy.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]"
-  - "[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy|Spiral_Galaxy]]"
-  - "[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy.public|Spiral_Galaxy.public]]"
-  - "[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.internal|Spiral_Galaxy.internal]]"
-  - "[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy.protect|Spiral_Galaxy.protect]]"
-  - "[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy.private|Spiral_Galaxy.private]]"
-  - "[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.personal|Spiral_Galaxy.personal]]"
-  - "[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy.secret|Spiral_Galaxy.secret]]"
+- '[[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]'
+- '[[/_Standards/Astronomy/Star_System/Galaxy/Spiral_Galaxy|Spiral_Galaxy]]'
+- '[[/_public/Astronomy/Star_System/Galaxy/Spiral_Galaxy.public|Spiral_Galaxy.public]]'
+- '[[/_internal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.internal|Spiral_Galaxy.internal]]'
+- '[[/_protect/Astronomy/Star_System/Galaxy/Spiral_Galaxy.protect|Spiral_Galaxy.protect]]'
+- '[[/_private/Astronomy/Star_System/Galaxy/Spiral_Galaxy.private|Spiral_Galaxy.private]]'
+- '[[/_personal/Astronomy/Star_System/Galaxy/Spiral_Galaxy.personal|Spiral_Galaxy.personal]]'
+- '[[/_secret/Astronomy/Star_System/Galaxy/Spiral_Galaxy.secret|Spiral_Galaxy.secret]]'
+dv_has_:
+  name_:
+    af: spiraalsterrestelsel
+    ar: مجرة حلزونية
+    ast: galaxa espiral
+    az: Spiral qalaktikalar
+    azb: بوروشوق قالاکسی
+    be: Спіральная галактыка
+    be-tarask: сьпіральная галяктыка
+    bg: Спирална галактика
+    bjn: Galaksi spiral
+    bn: সর্পিল ছায়াপথ
+    bs: spiralna galaksija
+    ca: galàxia espiral
+    ckb: گەلەستێرەی لوولپێچ
+    co: Galassia spirali
+    cs: spirální galaxie
+    cy: galaeth droellog
+    da: spiralgalakse
+    de: Spiralgalaxie
+    diq: Vawyaye galaksi
+    el: σπειροειδής γαλαξίας
+    en: spiral galaxy
+    eo: spirala galaksio
+    es: galaxia espiral
+    et: Spiraalgalaktika
+    eu: galaxia kiribil
+    fa: کهکشان مارپیچی
+    fi: kierteisgalaksi
+    fr: galaxie spirale
+    ga: réaltra bíseach
+    gl: galaxia espiral
+    gv: co-rollageys caslagh
+    he: גלקסיה ספירלית
+    hi: सर्पिल गैलेक्सी
+    hr: spiralna galaktika
+    hu: spirálgalaxis
+    hy: պարուրաձև գալակտիկա
+    id: Galaksi spiral
+    it: galassia spirale
+    ja: 渦巻銀河
+    kk: Спиральды галактика
+    ko: 나선 은하
+    ko-kp: 라선은하계
+    lb: Spiralgalaxie
+    lt: spiralinė galaktika
+    lv: spirālveida galaktika
+    mk: спирална галаксија
+    mn: Мушгиа галактик
+    mr: सर्पिलाकार दीर्घिका
+    ms: Galaksi pilin
+    my: ခရုပတ်ပုံစံ ဂလက်ဆီ
+    mzn: مرپیچی کهکشون
+    nan: Kńg-lê gîn-hô
+    nb: spiralgalakse
+    ne: सर्पिल गैलेक्सी
+    nl: spiraalvormig sterrenstelsel
+    nn: spiralgalakse
+    oc: Galaxia espirala
+    om: Ruda margundoo
+    pa: ਸਰਪਿਲ ਆਕਾਸ਼ਗੰਗਾ
+    pl: galaktyka spiralna
+    pnb: چکری تارہ سمندر
+    pt: galáxia espiral
+    ro: galaxie spirală
+    ru: спиральная галактика
+    scn: galàssia spirali
+    sh: Spiralna galaksija
+    sk: špirálová galaxia
+    sl: spiralna galaksija
+    sr: спирална галаксија
+    sr-ec: spiralna galaksija
+    sr-el: spiralna galaksija
+    sv: spiralgalax
+    ta: சுருள் விண்மீன் மண்டலம்
+    te: సర్పిల నక్షత్ర మండలం
+    th: ดาราจักรชนิดก้นหอย
+    tr: sarmal galaksi
+    tt: спираль галактика
+    uk: спіральна галактика
+    vi: thiên hà xoắn ốc
+    wuu: 旋涡星系
+    xmf: სპირალური გალაქტიკა
+    yue: 螺旋星系
+    zh: 螺旋星系
 ---
-
 # [[Spiral_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]  

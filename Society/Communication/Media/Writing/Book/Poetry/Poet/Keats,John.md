@@ -1,62 +1,97 @@
 ---
 aliases:
-  - John_Keats
-  - John Keats
-  - Keats,John
+- A. John Keats
+- Con Kits
+- Džons Kītss
+- Ioannes Keats
+- John Keats
+- John_Keats
+- Keats
+- Keats,John
+- Τζον Κητς
+- Џон Китс
+- Джон Кітс
+- Джон Кийтс
+- Джон Китс
+- Ջոն Քիթս
+- ג'ון קיטס
+- جان کیتس
+- جان کیٖٹٕس
+- جان کیٹس
+- جان ڪيٽس
+- جون كيتس
+- کیٹس
+- जान कीट्स
+- जॉन कीट्स
+- जोन किट्स
+- জন কীটছ
+- জন কীট্স
+- ਜੌਨ ਕੀਟਸ
+- ஜோன் கீற்ஸ்
+- ಜಾನ್ ಕೀಟ್ಸ್
+- ജോൺ കീറ്റ്സ്
+- จอห์น คีตส์
+- ဂျွန်ကိ
+- ჯონ კიტსი
+- ジョン・キーツ
+- 吉茨
+- 濟慈
+- 约翰·济慈
+- 존 키츠
 has_id_wikidata: Q82083
 influenced_by:
-  - '[[_Standards/WikiData/WD~John_Milton,79759]]'
-  - '[[_Standards/WikiData/WD~William_Hazlitt,126596]]'
-  - '[[_Standards/WikiData/WD~Edmund_Spenser,4352055]]'
-  - '[[_Standards/WikiData/WD~Virgil,1398]]'
+- '[[_Standards/WikiData/WD~John_Milton,79759]]'
+- '[[_Standards/WikiData/WD~William_Hazlitt,126596]]'
+- '[[_Standards/WikiData/WD~Edmund_Spenser,4352055]]'
+- '[[_Standards/WikiData/WD~Virgil,1398]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 occupation:
-  - '[[_Standards/WikiData/WD~judge_rapporteur,202471]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~judge_rapporteur,202471]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 educated_at: "[[_Standards/WikiData/WD~King's_College_London,245247]]"
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~John_Keats_The_Making_of_a_Poet,18208324]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~John_Keats,105479660]]'
-  - '[[_Standards/WikiData/WD~John_Keats_A_New_Life,105480985]]'
-  - '[[_Standards/WikiData/WD~Keats_as_Doctor_and_Patient,128225441]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~John_Keats_The_Making_of_a_Poet,18208324]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~John_Keats,105479660]]'
+- '[[_Standards/WikiData/WD~John_Keats_A_New_Life,105480985]]'
+- '[[_Standards/WikiData/WD~Keats_as_Doctor_and_Patient,128225441]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Protestant_Cemetery,_Rome,1187723]]'
-  - '[[_Standards/WikiData/WD~Grave_of_John_Keats,126685444]]'
+- '[[_Standards/WikiData/WD~Protestant_Cemetery,_Rome,1187723]]'
+- '[[_Standards/WikiData/WD~Grave_of_John_Keats,126685444]]'
 place_of_birth:
-  - '[[_Standards/WikiData/WD~Moorgate,2356445]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Moorgate,2356445]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 residence:
-  - '[[_Standards/WikiData/WD~Geographical_region_of_Italy,3155864]]'
-  - '[[_Standards/WikiData/WD~Ireland,22890]]'
-  - '[[_Standards/WikiData/WD~Scotland,22]]'
-  - '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~Geographical_region_of_Italy,3155864]]'
+- '[[_Standards/WikiData/WD~Ireland,22890]]'
+- '[[_Standards/WikiData/WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~England,21]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name: '[[_Standards/WikiData/WD~John,4925477]]'
 sibling:
-  - '[[_Standards/WikiData/WD~George_Keats,5541254]]'
-  - '[[_Standards/WikiData/WD~Frances_Mary_Keats,19942165]]'
+- '[[_Standards/WikiData/WD~George_Keats,5541254]]'
+- '[[_Standards/WikiData/WD~Frances_Mary_Keats,19942165]]'
 family_name: '[[_Standards/WikiData/WD~Keats,6382344]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_John_Keats,20363647]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~John_Keats,28048922]]'
-  - '[[_Standards/WikiData/WD~Grave_of_John_Keats,126685444]]'
+- '[[_Standards/WikiData/WD~John_Keats,28048922]]'
+- '[[_Standards/WikiData/WD~Grave_of_John_Keats,126685444]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 field_of_work: '[[_Standards/WikiData/WD~poetry,482]]'
@@ -85,8 +120,151 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Keats%20fir
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Keats%20Tombstone%20in%20Rome%2001.jpg
 ISNI: 0000000121372872
 Libris_URI: 64jlmv9q3n1735f
+dv_has_:
+  name_:
+    af: John Keats
+    an: John Keats
+    ar: جون كيتس
+    arz: جون كيتس
+    as: জন কীটছ
+    ast: John Keats
+    az: Con Kits
+    azb: جان کیتس
+    bar: John Keats
+    be: Джон Кітс
+    be-tarask: Джон Кітс
+    bg: Джон Кийтс
+    bho: जॉन कीट्स
+    bm: John Keats
+    bn: জন কীট্স
+    br: John Keats
+    bs: John Keats
+    ca: John Keats
+    co: John Keats
+    crh: John Keats
+    cs: John Keats
+    cv: Джон Китс
+    cy: John Keats
+    da: John Keats
+    de: John Keats
+    de-at: John Keats
+    de-ch: John Keats
+    el: Τζον Κητς
+    en: John Keats
+    en-ca: John Keats
+    en-gb: John Keats
+    eo: John Keats
+    es: John Keats
+    et: John Keats
+    eu: John Keats
+    fa: جان کیتس
+    fi: John Keats
+    fo: John Keats
+    fr: John Keats
+    frc: John Keats
+    frp: John Keats
+    fur: John Keats
+    ga: John Keats
+    gan: 吉茨
+    gd: John Keats
+    gl: John Keats
+    gor: John Keats
+    gsw: John Keats
+    he: ג'ון קיטס
+    hi: जान कीट्स
+    hr: John Keats
+    hu: John Keats
+    hy: Ջոն Քիթս
+    ia: John Keats
+    id: John Keats
+    ie: John Keats
+    io: John Keats
+    it: John Keats
+    ja: ジョン・キーツ
+    jam: John Keats
+    ka: ჯონ კიტსი
+    kab: John Keats
+    kg: John Keats
+    kn: ಜಾನ್ ಕೀಟ್ಸ್
+    ko: 존 키츠
+    ks: جان کیٖٹٕس
+    kw: John Keats
+    la: Ioannes Keats
+    lb: John Keats
+    lfn: John Keats
+    li: John Keats
+    lij: John Keats
+    lt: John Keats
+    lv: Džons Kītss
+    mai: जोन किट्स
+    mg: John Keats
+    min: John Keats
+    mk: Џон Китс
+    ml: ജോൺ കീറ്റ്സ്
+    ms: John Keats
+    my: ဂျွန်ကိ
+    nan: John Keats
+    nap: John Keats
+    nb: John Keats
+    nds: John Keats
+    nds-nl: John Keats
+    ne: जोन किट्स
+    nl: John Keats
+    nn: John Keats
+    nrm: John Keats
+    oc: John Keats
+    pa: ਜੌਨ ਕੀਟਸ
+    pap: John Keats
+    pcd: John Keats
+    pl: John Keats
+    pms: John Keats
+    pnb: کیٹس
+    prg: John Keats
+    pt: John Keats
+    pt-br: John Keats
+    rgn: John Keats
+    rm: John Keats
+    ro: John Keats
+    ru: Джон Китс
+    sa: जान कीट्स
+    sc: John Keats
+    scn: John Keats
+    sco: John Keats
+    sd: جان ڪيٽس
+    sh: John Keats
+    sk: John Keats
+    sl: John Keats
+    sq: A. John Keats
+    sr: Џон Китс
+    sr-ec: Џон Китс
+    sr-el: John Keats
+    sv: John Keats
+    sw: John Keats
+    ta: ஜோன் கீற்ஸ்
+    th: จอห์น คีตส์
+    tl: John Keats
+    tr: John Keats
+    tt: Джон Китс
+    uk: Джон Кітс
+    ur: جان کیٹس
+    vec: John Keats
+    vi: John Keats
+    vls: John Keats
+    vmf: John Keats
+    vo: John Keats
+    wa: John Keats
+    war: John Keats
+    wo: John Keats
+    wuu: 约翰·济慈
+    xmf: ჯონ კიტსი
+    yo: Keats
+    yue: 濟慈
+    za: John Keats
+    zh: 约翰·济慈
+    zh-cn: 约翰·济慈
+    zh-hans: 约翰·济慈
+    zu: John Keats
 ---
-
 # [[Keats,John]]
 
 #is_/same_as :: [[WD~John_Keats,82083]] 

@@ -1,9 +1,164 @@
 ---
 aliases:
-  - Placozoa
+- korongállatkák
+- laakkoeläimet
+- Neefka baxxee
+- Placosoa
+- Placozoa
+- placozoar
+- Placozoer
+- Placozoos
+- Plakbieskes
+- Plakdiertjes
+- Plakosoa
+- Plakozoe
+- Plakozoji
+- Plakozoo
+- Plastinkalilar
+- Plokščiagyvis
+- płaskowce
+- Skiiwdiarten
+- Táyiʼ naatʼiʼí danteelígíí
+- Vločkovce
+- vločkovci
+- плакозое
+- Пластинкалылар
+- пластинчасті
+- пластинчати
+- пластинчатые
+- Трихоплакс
+- Фагоцителлотәрізділер
+- פלקוזואה
+- تختزیان
+- صفيحيات
+- پليڪوزوئا
+- प्लेकोजोआ
+- พลาโคซัว
+- センモウヒラムシ
+- 扁盘动物门
+- 扁盤動物門
+- 털납작벌레
 title: Placozoa
+has_id_wikidata: Q131040
+dv_has_:
+  name_:
+    af: Placozoa
+    an: Placozoa
+    ar: صفيحيات
+    arz: صفيحيات
+    ast: Placozoa
+    az: Placozoa
+    bar: Placozoa
+    bg: пластинчати
+    br: Placozoa
+    bs: Placozoa
+    ca: Placozoa
+    ceb: Plakosoa
+    co: Placozoa
+    cs: vločkovci
+    cy: Placozoa
+    da: Placozoa
+    de: Placozoa
+    de-at: Placozoa
+    de-ch: Placozoa
+    en: Placozoa
+    en-ca: Placozoa
+    en-gb: Placozoa
+    eo: Plakozoo
+    es: Placozoa
+    et: Placozoa
+    eu: Placozoa
+    ext: Placozoa
+    fa: تختزیان
+    fi: laakkoeläimet
+    fr: Placozoa
+    frp: Placozoa
+    frr: Skiiwdiarten
+    fur: Placozoa
+    ga: Placozoa
+    gd: Placozoa
+    gl: Placozoos
+    gsw: Placozoa
+    gv: Placosoa
+    he: פלקוזואה
+    hi: प्लेकोजोआ
+    hr: Placozoa
+    hu: korongállatkák
+    ia: Placozoa
+    id: Placozoa
+    ie: Placozoa
+    io: Placozoa
+    is: Placozoa
+    it: Placozoa
+    ja: センモウヒラムシ
+    jv: Placozoa
+    kg: Placozoa
+    kk: Фагоцителлотәрізділер
+    ko: 털납작벌레
+    la: Placozoa
+    lb: Placozoa
+    li: Plakbieskes
+    lij: Placozoa
+    lt: Plokščiagyvis
+    lv: Plakozoji
+    mg: Placozoa
+    min: Placozoa
+    mk: Трихоплакс
+    ms: Placozoa
+    mul: Placozoa
+    nap: Placozoa
+    nb: Placozoer
+    nds: Placozoa
+    nds-nl: Placozoa
+    nl: Plakdiertjes
+    nn: placozoar
+    nrm: Placozoa
+    nv: Táyiʼ naatʼiʼí danteelígíí
+    nys: Placozoa
+    oc: Placozoa
+    om: Neefka baxxee
+    pcd: Placozoa
+    pl: płaskowce
+    pms: Placozoa
+    pt: Placozoa
+    pt-br: Placozoa
+    rm: Placozoa
+    ro: Placozoa
+    ru: пластинчатые
+    sc: Placozoa
+    scn: Placozoa
+    sco: Placozoa
+    sd: پليڪوزوئا
+    sk: Vločkovce
+    sl: plakozoji
+    sq: Placozoa
+    sr: плакозое
+    sr-ec: Плакозое
+    sr-el: Plakozoe
+    sv: Placozoer
+    sw: Placozoa
+    th: พลาโคซัว
+    tl: Placozoa
+    tr: Placozoa
+    tt: Пластинкалылар
+    uk: пластинчасті
+    uz: Plastinkalilar
+    vec: Placozoa
+    vi: Placozoa
+    vls: Placozoa
+    vo: Placozoa
+    wa: Placozoa
+    war: Placozoa
+    wo: Placozoa
+    zh: 扁盘动物门
+    zh-cn: 扁盘动物门
+    zh-hans: 扁盘动物门
+    zh-hant: 扁盤動物門
+    zh-hk: 扁盤動物門
+    zh-sg: 扁盘动物门
+    zh-tw: 扁盤動物門
+    zu: Placozoa
 ---
-
 # [[Placozoa]] 
 
 #is_a/bio-Phylum  

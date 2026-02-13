@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Amygdaleae
-  - Prunus
+- Amygdaleae
+- Prunus
+- لوزيات
 has_id_wikidata: Q5673432
 taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
 parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]]'
@@ -12,8 +13,44 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe
 Commons_category: Amygdaleae
 taxon_name: Amygdaleae
 UMLS_CUI: C2818714
+dv_has_:
+  name_:
+    an: Amygdaleae
+    ar: لوزيات
+    ast: Amygdaleae
+    bg: Amygdaleae
+    ca: Amygdaleae
+    ceb: Amygdaleae
+    de: Amygdaleae
+    en: Amygdaleae
+    eo: Amygdaleae
+    es: Amygdaleae
+    eu: Amygdaleae
+    ext: Amygdaleae
+    fi: Amygdaleae
+    fr: Amygdaleae
+    ga: Amygdaleae
+    gl: Amygdaleae
+    ia: Amygdaleae
+    ie: Amygdaleae
+    io: Amygdaleae
+    it: Amygdaleae
+    la: Amygdaleae
+    mul: Amygdaleae
+    nl: Amygdaleae
+    oc: Amygdaleae
+    pl: Amygdaleae
+    pt: Amygdaleae
+    pt-br: Amygdaleae
+    ro: Amygdaleae
+    ru: Amygdaleae
+    sl: Amygdaleae
+    sq: Amygdaleae
+    uk: Amygdaleae
+    vi: Amygdaleae
+    vo: Amygdaleae
+    war: Amygdaleae
 ---
-
 # [[Amygdaleae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432|WD~Amygdaleae,5673432]] 

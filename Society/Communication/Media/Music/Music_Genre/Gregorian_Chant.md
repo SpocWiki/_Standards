@@ -1,22 +1,75 @@
 ---
-has_time_started: 0900-01-01 
+has_time_started: 0900-01-01
 aliases:
-  - Gregorian chant
-  - Gregorian_Chant
-  - Gregorian Chant
+- Awiting Gregoriano
+- cant gregorià
+- Cant grégorien
+- cantaireacht Ghreagórach
+- Cante gregoriano
+- Canto gregorian
+- canto gregoriano
+- cantu gregorianu
+- Cantus Gregorianus
+- chant grégorien
+- Chorał gregoriański
+- Gregoria ĉanto
+- gregoriaaninen kirkkolaulu
+- Gregoriaans gezang
+- Gregoriaanse gelyksang
+- Gregorian chant
+- Gregorianischer Choral
+- gregoriansk sang
+- gregoriansk song
+- Gregoriansk sång
+- Gregorian_Chant
+- Gregorijanski koral
+- Gregorijanski napev
+- Gregorijanski napjev
+- Gregorius sèng-koa
+- Gregoriuse koraal
+- gregorián ének
+- Gregoriánsky chorál
+- gregoriánský chorál
+- gregoriāņu dziedājums
+- Gregoryen İlahi
+- grigališkasis choralas
+- kantu gregoriano
+- Kidung Gregorian
+- muzică gregoriană
+- Muziki wa Kigregori
+- siant Gregoraidd
+- Thánh ca Gregory
+- Timang Gregorian
+- Γρηγοριανό μέλος
+- Грегоријански корал
+- Грегорианско песнопение
+- григоріанський спів
+- григорианское пение
+- грыгарыянскі спеў
+- грыгарыянскі сьпеў
+- מזמור גרגוריאני
+- سرودهای گریگوری
+- غناء جريجوري
+- چانتی گریگۆری
+- グレゴリオ聖歌
+- 格雷高利圣咏
+- 葛利果聖歌
+- 額我略聖歌
+- 额我略圣歌
+- 그레고리오 성가
 has_id_wikidata: Q26473
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_form,862597]]'
-  - '[[_Standards/WikiData/WD~song_type,107356781]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~song_type,107356781]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~monody,827775]]'
-  - '[[_Standards/WikiData/WD~plainsong,2707688]]'
+- '[[_Standards/WikiData/WD~monody,827775]]'
+- '[[_Standards/WikiData/WD~plainsong,2707688]]'
 studied_by: '[[_Standards/WikiData/WD~semiology,1545237]]'
 uses: '[[_Standards/WikiData/WD~repercussion,1803735]]'
 practiced_by: '[[_Standards/WikiData/WD~gregorianist,56259975]]'
@@ -28,8 +81,71 @@ named_after: '[[_Standards/WikiData/WD~Gregory_I,42827]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Graduale%20Aboense%202.jpg
 Provenio_UUID: c6731e14-31d4-420f-806b-02ea27b2f02a
 Commons_category: Gregorian chant
+dv_has_:
+  name_:
+    af: Gregoriaanse gelyksang
+    an: Cante gregoriano
+    ar: غناء جريجوري
+    ast: cantu gregorianu
+    be: грыгарыянскі спеў
+    be-tarask: грыгарыянскі сьпеў
+    bg: Грегорианско песнопение
+    ca: cant gregorià
+    ckb: چانتی گریگۆری
+    cs: gregoriánský chorál
+    cy: siant Gregoraidd
+    da: gregoriansk sang
+    de: Gregorianischer Choral
+    el: Γρηγοριανό μέλος
+    en: Gregorian chant
+    eo: Gregoria ĉanto
+    es: canto gregoriano
+    et: Gregoriuse koraal
+    eu: kantu gregoriano
+    fa: سرودهای گریگوری
+    fi: gregoriaaninen kirkkolaulu
+    fr: chant grégorien
+    ga: cantaireacht Ghreagórach
+    gl: Canto gregoriano
+    he: מזמור גרגוריאני
+    hr: Gregorijanski napjev
+    hu: gregorián ének
+    iba: Timang Gregorian
+    id: Kidung Gregorian
+    it: canto gregoriano
+    ja: グレゴリオ聖歌
+    ko: 그레고리오 성가
+    la: Cantus Gregorianus
+    lt: grigališkasis choralas
+    lv: gregoriāņu dziedājums
+    mk: Грегоријански корал
+    mwl: Canto gregoriano
+    nan: Gregorius sèng-koa
+    nb: gregoriansk sang
+    nl: Gregoriaans gezang
+    nn: gregoriansk song
+    pcd: Cant grégorien
+    pl: Chorał gregoriański
+    pt: canto gregoriano
+    pt-br: canto gregoriano
+    ro: muzică gregoriană
+    ru: григорианское пение
+    sh: Gregorijanski koral
+    sk: Gregoriánsky chorál
+    sl: gregorijanski koral
+    sr: Gregorijanski napev
+    sv: Gregoriansk sång
+    sw: Muziki wa Kigregori
+    tl: Awiting Gregoriano
+    tr: Gregoryen İlahi
+    uk: григоріанський спів
+    vec: Canto gregorian
+    vi: Thánh ca Gregory
+    wuu: 格雷高利圣咏
+    yue: 額我略聖歌
+    zh: 额我略圣歌
+    zh-tw: 葛利果聖歌
 ---
-
 # [[Gregorian_Chant]] 
 
 #is_/same_as :: [[WD~Gregorian_chant,26473]] 

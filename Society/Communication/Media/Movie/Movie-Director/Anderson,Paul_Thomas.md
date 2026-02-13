@@ -1,10 +1,102 @@
 ---
 aliases:
-  - Paul Thomas Anderson
-  - Anderson,Paul_Thomas
-  - Anderson,Paul Thomas
+- Anderson,Paul Thomas
+- Anderson,Paul_Thomas
+- Paul Thomas Anderson
+- Pol Tomas Anderson
+- Pols Tomass Andersons
+- Πολ Τόμας Άντερσον
+- Пол Томас Андерсон
+- Пол Томас Андерсън
+- Пол Томас Андэрсан
+- Փոլ Թոմաս Անդերսոն
+- פול תומאס אנדרסון
+- بول توماس أندرسون
+- بول توماس اندرسون
+- پال تھامس اینڈرسن
+- پاول توماس آندرسن
+- पॉल थॉमस एंडरसन
+- পল টমাস অ্যান্ডারসন
+- პოლ ტომას ანდერსონი
+- ポール・トーマス・アンダーソン
+- 保罗·托马斯·安德森
+- 保罗·汤玛斯·安德森
+- 保羅·湯瑪斯·安德森
+- 保羅·湯馬士·安德遜
+- 保羅湯馬士安德遜
+- 폴 토머스 앤더슨
+has_id_wikidata: Q25132
+dv_has_:
+  name_:
+    an: Paul Thomas Anderson
+    ar: بول توماس أندرسون
+    arz: بول توماس اندرسون
+    ast: Paul Thomas Anderson
+    az: Pol Tomas Anderson
+    be: Пол Томас Андэрсан
+    bg: Пол Томас Андерсън
+    bn: পল টমাস অ্যান্ডারসন
+    ca: Paul Thomas Anderson
+    cs: Paul Thomas Anderson
+    cy: Paul Thomas Anderson
+    da: Paul Thomas Anderson
+    de: Paul Thomas Anderson
+    el: Πολ Τόμας Άντερσον
+    en: Paul Thomas Anderson
+    en-gb: Paul Thomas Anderson
+    eo: Paul Thomas Anderson
+    es: Paul Thomas Anderson
+    eu: Paul Thomas Anderson
+    ext: Paul Thomas Anderson
+    fa: پاول توماس آندرسن
+    fi: Paul Thomas Anderson
+    fr: Paul Thomas Anderson
+    ga: Paul Thomas Anderson
+    gl: Paul Thomas Anderson
+    he: פול תומאס אנדרסון
+    hi: पॉल थॉमस एंडरसन
+    hr: Paul Thomas Anderson
+    hu: Paul Thomas Anderson
+    hy: Փոլ Թոմաս Անդերսոն
+    id: Paul Thomas Anderson
+    is: Paul Thomas Anderson
+    it: Paul Thomas Anderson
+    ja: ポール・トーマス・アンダーソン
+    ka: პოლ ტომას ანდერსონი
+    kk: Пол Томас Андерсон
+    ko: 폴 토머스 앤더슨
+    lb: Paul Thomas Anderson
+    lv: Pols Tomass Andersons
+    mg: Paul Thomas Anderson
+    mul: Paul Thomas Anderson
+    nan: Paul Thomas Anderson
+    nb: Paul Thomas Anderson
+    nl: Paul Thomas Anderson
+    nn: Paul Thomas Anderson
+    oc: Paul Thomas Anderson
+    pap: Paul Thomas Anderson
+    pl: Paul Thomas Anderson
+    pt: Paul Thomas Anderson
+    pt-br: Paul Thomas Anderson
+    ro: Paul Thomas Anderson
+    ru: Пол Томас Андерсон
+    sh: Paul Thomas Anderson
+    sk: Paul Thomas Anderson
+    sl: Paul Thomas Anderson
+    sq: Paul Thomas Anderson
+    sr: Пол Томас Андерсон
+    sv: Paul Thomas Anderson
+    tr: Paul Thomas Anderson
+    uk: Пол Томас Андерсон
+    ur: پال تھامس اینڈرسن
+    vi: Paul Thomas Anderson
+    yue: 保羅湯馬士安德遜
+    zh: 保羅·湯瑪斯·安德森
+    zh-cn: 保罗·托马斯·安德森
+    zh-hans: 保罗·托马斯·安德森
+    zh-hk: 保羅·湯馬士·安德遜
+    zh-sg: 保罗·汤玛斯·安德森
 ---
-
 # [[Anderson,Paul_Thomas]] 
 
 #is_/same_as :: [[Anderson,Paul_Thomas]]

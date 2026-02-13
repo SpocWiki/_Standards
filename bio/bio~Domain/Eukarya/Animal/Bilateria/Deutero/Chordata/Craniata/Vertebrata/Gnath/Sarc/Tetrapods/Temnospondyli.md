@@ -1,9 +1,76 @@
 ---
 aliases:
-  - Temnospondyli
+- panssarisammakot
+- Temnospondyle
+- Temnospondyli
+- Temnospòndil
+- темноспондили
+- темноспондильные
+- טמנוספונדילים
+- تمنوسپوندیلها
+- مقسومات الفقار
+- ტემნოსპონდილები
+- 分椎目
+- 离片椎目
+- 離片椎目
+- 분추목
 title: Temnospondyli
+has_id_wikidata: Q131447
+dv_has_:
+  name_:
+    ar: مقسومات الفقار
+    ast: Temnospondyli
+    ba: Temnospondyli
+    bg: Temnospondyli
+    ca: Temnospòndil
+    ceb: Temnospondyli
+    cs: Temnospondyli
+    de: Temnospondyli
+    de-at: Temnospondyli
+    de-ch: Temnospondyli
+    el: Temnospondyli
+    en: Temnospondyli
+    en-ca: Temnospondyli
+    en-gb: Temnospondyli
+    eo: Temnospondyli
+    es: Temnospondyli
+    eu: Temnospondyli
+    fa: تمنوسپوندیلها
+    fi: panssarisammakot
+    fr: Temnospondyli
+    ga: Temnospondyli
+    he: טמנוספונדילים
+    ia: Temnospondyli
+    id: Temnospondyli
+    it: Temnospondyli
+    ja: 分椎目
+    ka: ტემნოსპონდილები
+    ko: 분추목
+    la: Temnospondyli
+    mul: Temnospondyli
+    nb: Temnospondyli
+    nl: Temnospondyli
+    nn: Temnospondyli
+    pl: Temnospondyle
+    pt: Temnospondyli
+    pt-br: Temnospondyli
+    ro: Temnospondyli
+    ru: темноспондильные
+    sq: Temnospondyli
+    sr: Temnospondyli
+    sv: Temnospondyli
+    uk: темноспондили
+    vec: Temnospondyli
+    vi: Temnospondyli
+    war: Temnospondyli
+    zh: 离片椎目
+    zh-cn: 离片椎目
+    zh-hans: 离片椎目
+    zh-hant: 離片椎目
+    zh-hk: 離片椎目
+    zh-sg: 离片椎目
+    zh-tw: 離片椎目
 ---
-
 # [[Temnospondyli]] 
 
 ![Temnospondyli](Temnospondyli/Eryops.jpg) 

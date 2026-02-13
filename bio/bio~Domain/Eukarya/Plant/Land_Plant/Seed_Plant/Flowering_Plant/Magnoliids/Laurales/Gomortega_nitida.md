@@ -1,10 +1,68 @@
 ---
 aliases:
-  - Gomortega_nitida
-  - Gomortega nitida
+- Gomortega
+- Gomortega keule
+- Gomortega nitida
+- Gomortegaceae
+- Gomortega_nitida
+- جومورتيجا كولى
+- کئوله
+- 奎乐果
+- 케울레나무
 title: Gomortega nitida
+has_id_wikidata: Q131312
+dv_has_:
+  name_:
+    an: Gomortega keule
+    arz: جومورتيجا كولى
+    ast: Gomortega keule
+    bg: Gomortega keule
+    bs: Gomortega
+    ca: Gomortega keule
+    ceb: Gomortega keule
+    cs: Gomortega keule
+    da: Gomortega keule
+    de: Gomortega keule
+    en: Gomortega keule
+    en-gb: Gomortega
+    eo: Gomortega keule
+    es: Gomortega keule
+    eu: Gomortega keule
+    ext: Gomortega keule
+    fa: کئوله
+    fi: Gomortega keule
+    fr: Gomortega keule
+    ga: Gomortega keule
+    gl: Gomortega keule
+    hr: Gomortega keule
+    ia: Gomortega keule
+    id: Gomortega keule
+    ie: Gomortega keule
+    ig: Gomortega keule
+    io: Gomortega keule
+    it: Gomortega keule
+    ko: 케울레나무
+    la: Gomortega keule
+    mul: Gomortega keule
+    nb: Gomortega keule
+    nl: Gomortega keule
+    oc: Gomortega keule
+    pl: Gomortega keule
+    pt: Gomortegaceae
+    pt-br: Gomortega keule
+    ro: Gomortega keule
+    ru: Gomortega keule
+    sq: Gomortega keule
+    sr: Gomortega keule
+    sr-ec: Gomortega keule
+    sr-el: Gomortega keule
+    sv: Gomortega keule
+    uk: Gomortega keule
+    vi: Gomortega keule
+    vo: Gomortega keule
+    war: Gomortega keule
+    zh: 奎乐果
 ---
-
 # [[Gomortega_nitida]] 
 
 ![Gomortega keule](Gomortega_nitida/Gomortega_keule.jpg) 

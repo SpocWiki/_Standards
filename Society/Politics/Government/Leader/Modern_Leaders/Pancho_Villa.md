@@ -1,16 +1,38 @@
 ---
 aliases:
-  - Pancho_Villa
-  - Francisco "Pancho" Villa
-  - José Doroteo Arango Arámbula
-  - Pancho Villa
+- Francisco "Pancho" Villa
+- Francisco Villa
+- Franciscus Villa (activista)
+- José Doroteo Arango Arámbula
+- Pancho Villa
+- Pancho_Villa
+- Panço Vilya
+- Pančo Vilja
+- Πάντσο Βίγια
+- Панча Вільля
+- Панчо Вілья
+- Панчо Виља
+- Панчо Вилья
+- Панчо Вилья (генерал)
+- Панчо Виля
+- Ֆրանսիսկո Վիլյա
+- פנצ'ו וייה
+- بانشو فيا
+- پانچو وییا
+- پانچۆ ڤیا
+- ਪਾਂਚੋ ਬੀਆ
+- პანჩო ვილია
+- パンチョ・ビリャ
+- 微拉
+- 潘乔·比利亚
+- 판초 비야
 has_id_wikidata: Q192278
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/4242048
 birth_name: José Doroteo Arango Arámbula
 date_of_death: 1923-07-20T00:00:00Z
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~partisan,212948]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~partisan,212948]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 place_of_death: '[[_Standards/WikiData/WD~Hidalgo_del_Parral,771214]]'
@@ -21,12 +43,12 @@ place_of_birth: '[[_Standards/WikiData/WD~San_Juan_del_Río_del_Centauro_del_Nor
 owner_of: '[[_Standards/WikiData/WD~Siete_Leguas,2555186]]'
 has_pet: '[[_Standards/WikiData/WD~Siete_Leguas,2555186]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Doroteo,5813598]]'
-  - '[[_Standards/WikiData/WD~José,29043257]]'
+- '[[_Standards/WikiData/WD~Doroteo,5813598]]'
+- '[[_Standards/WikiData/WD~José,29043257]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 facial_hair: '[[_Standards/WikiData/WD~walrus_moustache,7963760]]'
 position_held: '[[_Standards/WikiData/WD~Governor_of_Chihuahua,9282520]]'
@@ -41,8 +63,8 @@ country_of_citizenship: '[[_Standards/WikiData/WD~Mexico,96]]'
 military_branch: '[[_Standards/WikiData/WD~cavalry,47315]]'
 Commons_category: Pancho Villa
 pseudonym:
-  - Pancho Villa
-  - Francisco Villa
+- Pancho Villa
+- Francisco Villa
 name_in_native_language: Pancho Villa
 U_S_National_Archives_Identifier: 10581814
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pancho%20Villa%20bandolier%20%28cropped%29.jpg
@@ -50,8 +72,89 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Pancho%20Villa%20s
 ISNI: 0000000121244600
 Libris_URI: 20dhm98l00m88d7
 Wolfram_Language_entity_code: Entity["Person", "PanchoVilla::m8byc"]
+dv_has_:
+  name_:
+    af: Pancho Villa
+    ar: بانشو فيا
+    arz: بانشو فيا
+    ast: Pancho Villa
+    ay: Pancho Villa
+    az: Panço Vilya
+    be-tarask: Панча Вільля
+    bg: Панчо Виля
+    br: Pancho Villa
+    bs: Pancho Villa
+    ca: Pancho Villa
+    ckb: پانچۆ ڤیا
+    cs: Pancho Villa
+    cy: Pancho Villa
+    da: Pancho Villa
+    de: Pancho Villa
+    el: Πάντσο Βίγια
+    en: Pancho Villa
+    en-ca: Pancho Villa
+    en-gb: Pancho Villa
+    eo: Francisco Villa
+    es: Pancho Villa
+    eu: Pancho Villa
+    fa: پانچو وییا
+    fi: Pancho Villa
+    fr: Pancho Villa
+    ga: Pancho Villa
+    gl: Pancho Villa
+    he: פנצ'ו וייה
+    hr: Pancho Villa
+    hu: Pancho Villa
+    hy: Ֆրանսիսկո Վիլյա
+    ia: Pancho Villa
+    id: Francisco Villa
+    io: Pancho Villa
+    is: Pancho Villa
+    it: Pancho Villa
+    ja: パンチョ・ビリャ
+    ko: 판초 비야
+    la: Franciscus Villa (activista)
+    li: Pancho Villa
+    lt: Pancho Villa
+    lv: Pančo Vilja
+    mg: Pancho Villa
+    mk: Панчо Виља
+    nah: Pancho Villa
+    nb: Pancho Villa
+    nl: Pancho Villa
+    nn: Pancho Villa
+    oc: Pancho Villa
+    os: Панчо Вилья
+    pa: ਪਾਂਚੋ ਬੀਆ
+    pl: Pancho Villa
+    pt: Pancho Villa
+    pt-br: Pancho Villa
+    qu: Pancho Villa
+    ro: Pancho Villa
+    ru: Панчо Вилья (генерал)
+    sh: Pancho Villa
+    sl: Pancho Villa
+    sq: Pancho Villa
+    sr: Панчо Виља
+    sr-ec: Панчо Виља
+    sr-el: Pančo Vilja
+    sv: Pancho Villa
+    tl: Pancho Villa
+    tr: Pancho Villa
+    uk: Панчо Вілья
+    vi: Pancho Villa
+    war: Pancho Villa
+    wuu: 潘乔·比利亚
+    xmf: პანჩო ვილია
+    yue: 微拉
+    zh: 潘乔·比利亚
+    zh-cn: 微拉
+    zh-hans: 微拉
+    zh-hant: 微拉
+    zh-hk: 微拉
+    zh-sg: 微拉
+    zh-tw: 微拉
 ---
-
 # [[Pancho_Villa]] 
 
 #is_/same_as ::  [[WD~Pancho_Villa,192278]] 

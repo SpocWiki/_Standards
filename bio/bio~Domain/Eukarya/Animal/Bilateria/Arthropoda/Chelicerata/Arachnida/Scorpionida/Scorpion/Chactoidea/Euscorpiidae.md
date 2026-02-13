@@ -1,9 +1,59 @@
 ---
 aliases:
-  - Euscorpiidae
+- Euscorpiidae
+- Ευσκορπιίδες
+- عقيربية
+- عقيربيه
+- 真蝎科
+- 真蠍科
 title: Euscorpiidae
+has_id_wikidata: Q135121
+dv_has_:
+  name_:
+    an: Euscorpiidae
+    ar: عقيربية
+    arz: عقيربيه
+    ast: Euscorpiidae
+    bg: Euscorpiidae
+    ca: Euscorpiidae
+    ceb: Euscorpiidae
+    cs: Euscorpiidae
+    de: Euscorpiidae
+    el: Ευσκορπιίδες
+    en: Euscorpiidae
+    eo: Euscorpiidae
+    es: Euscorpiidae
+    eu: Euscorpiidae
+    ext: Euscorpiidae
+    fi: Euscorpiidae
+    fr: Euscorpiidae
+    ga: Euscorpiidae
+    gl: Euscorpiidae
+    ia: Euscorpiidae
+    ie: Euscorpiidae
+    io: Euscorpiidae
+    it: Euscorpiidae
+    la: Euscorpiidae
+    mul: Euscorpiidae
+    nb: Euscorpiidae
+    nl: Euscorpiidae
+    oc: Euscorpiidae
+    pl: Euscorpiidae
+    pt: Euscorpiidae
+    pt-br: Euscorpiidae
+    ro: Euscorpiidae
+    ru: Euscorpiidae
+    sq: Euscorpiidae
+    tr: Euscorpiidae
+    uk: Euscorpiidae
+    vi: Euscorpiidae
+    vo: Euscorpiidae
+    war: Euscorpiidae
+    zh: 真蝎科
+    zh-cn: 真蝎科
+    zh-hans: 真蝎科
+    zh-tw: 真蠍科
 ---
-
 # [[Euscorpiidae]] 
 
 ![](Euscorpiidae.png)

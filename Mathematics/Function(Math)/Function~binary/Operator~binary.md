@@ -1,9 +1,28 @@
 ---
 aliases:
-  - binary Operator
-  - binary operation
-  - dyadic operation
-  - Operator~binary
+- binarni operator
+- binary operation
+- binary Operator
+- binární operátor
+- binär operator
+- binärer Operator
+- binær operator
+- duloka operatoro
+- dyadic operation
+- eragile bitar
+- oibreoir dénártha
+- operador binari
+- operador binario
+- operador binário
+- operator binarny
+- operatore binario
+- Operator~binary
+- toán tử hai ngôi
+- бінарний оператор
+- бінарны апэратар
+- бинарный оператор
+- אופרטור בינארי
+- 二項演算子
 has_id_wikidata: Q30242895
 manifestation_of: '[[_Standards/WikiData/WD~binary_operation,164307]]'
 used_by: '[[_Standards/WikiData/WD~binary_operation,164307]]'
@@ -12,8 +31,32 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 instance_of: '[[_Standards/WikiData/WD~group_of_2,135268494]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basic%20arithmetic%20operators.svg
 Commons_category: Symbols for binary operations
+dv_has_:
+  name_:
+    be-tarask: бінарны апэратар
+    ca: operador binari
+    cs: binární operátor
+    da: binær operator
+    de: binärer Operator
+    en: binary operator
+    eo: duloka operatoro
+    es: operador binario
+    eu: eragile bitar
+    ga: oibreoir dénártha
+    gl: operador binario
+    he: אופרטור בינארי
+    it: operatore binario
+    ja: 二項演算子
+    nb: binær operator
+    nn: binær operator
+    pl: operator binarny
+    pt: operador binário
+    ru: бинарный оператор
+    sl: binarni operator
+    sv: binär operator
+    uk: бінарний оператор
+    vi: toán tử hai ngôi
 ---
-
 # [[Operator~binary]] 
 
 #has_/parent_class :: [[../Function~binary|Function~binary]] 

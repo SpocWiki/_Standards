@@ -1,87 +1,117 @@
 ---
-has_time_started: 1933-12-26 
+has_time_started: 1933-12-26
 aliases:
-  - Nissan Motor
-  - Jidosha-Seizo
-  - Nissan_Motor
+- Jidosha-Seizo
+- Ji̍t-sán Chū-tōng-chhia
+- Nditcanj
+- Nissan
+- Nissan Motor
+- Nissan Motor Co.
+- Nissan Motor Company
+- Nissan Motors
+- Nissan_Motor
+- Нисан
+- Нисан (автопроизводител)
+- Нисан Мотър Къмпани
+- Ниссан
+- Նիսսան
+- ניסאן מוטורס
+- نسان موٹر کارپوریشن
+- نيسان
+- نيسان موتورز
+- نیسان
+- نیسان مۆتۆرز
+- निसान
+- निस्सान् मोटार् कम्पनि
+- নিসান মোটর কর্পোরেশন
+- ਨੀਸਾਨ
+- நிசான்
+- నిస్సాన్
+- നിസാൻ
+- นิสสัน
+- နီဆန်း
+- 日产汽车
+- 日產汽車
+- 日産自動車
+- 닛산 자동차
 has_id_wikidata: Q20165
 stock_exchange:
-  - '[[_Standards/WikiData/WD~Nasdaq,82059]]'
-  - '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
+- '[[_Standards/WikiData/WD~Nasdaq,82059]]'
+- '[[_Standards/WikiData/WD~Tokyo_Stock_Exchange,217475]]'
 industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Nisan,208192]]'
-  - '[[_Standards/WikiData/WD~Nissan_Concern,4115848]]'
-  - '[[_Standards/WikiData/WD~Nissin_Food_Products,53293]]'
+- '[[_Standards/WikiData/WD~Nisan,208192]]'
+- '[[_Standards/WikiData/WD~Nissan_Concern,4115848]]'
+- '[[_Standards/WikiData/WD~Nissin_Food_Products,53293]]'
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Montigny_le_Bretonneux,240798]]'
-  - '[[_Standards/WikiData/WD~Yokohama,38283]]'
+- '[[_Standards/WikiData/WD~Montigny_le_Bretonneux,240798]]'
+- '[[_Standards/WikiData/WD~Yokohama,38283]]'
 child_organization_or_unit:
-  - '[[_Standards/WikiData/WD~Nissan_Shatai,372967]]'
-  - '[[_Standards/WikiData/WD~Aichi_Machine_Industry,403685]]'
-  - '[[_Standards/WikiData/WD~Automotive_Energy_Supply_Corporation,787901]]'
-  - '[[_Standards/WikiData/WD~Nissan_Motor_Manufacturing_UK,822406]]'
-  - '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
-  - '[[_Standards/WikiData/WD~Nismo,1543585]]'
-  - '[[_Standards/WikiData/WD~Nissan_Motor_Ibérica,1993716]]'
-  - '[[_Standards/WikiData/WD~Renault_Nissan_Automotive_India_Private_Limited,2143731]]'
-  - '[[_Standards/WikiData/WD~Calsonic_Kansei,5023967]]'
-  - '[[_Standards/WikiData/WD~Nissan_Motor_Indonesia,9544829]]'
-  - '[[_Standards/WikiData/WD~Jatco,10851180]]'
-  - '[[_Standards/WikiData/WD~AutoTechnicJapan_CO.,LTD,11293327]]'
-  - '[[_Standards/WikiData/WD~Nissan_Car_Rental_Solutions,11509714]]'
-  - '[[_Standards/WikiData/WD~Nissan_Network_Holdings,11509749]]'
-  - '[[_Standards/WikiData/WD~Nissan_Financial_Services,11509752]]'
-  - '[[_Standards/WikiData/WD~Nissan_Kohki,11509870]]'
-  - '[[_Standards/WikiData/WD~Nissan_Motor_Car_Carrier,11509869]]'
-  - '[[_Standards/WikiData/WD~Nissan_Motor_Kyushu,11509881]]'
-  - '[[_Standards/WikiData/WD~Nissan_New_Zealand,17055920]]'
-  - '[[_Standards/WikiData/WD~NISSAN_TRADING_CO.,_LTD.,28687418]]'
-  - '[[_Standards/WikiData/WD~Nissan_Technical_Center_North_America,28973233]]'
-  - '[[_Standards/WikiData/WD~Nissan_France,64915728]]'
-  - '[[_Standards/WikiData/WD~Datsun,27543]]'
-  - '[[_Standards/WikiData/WD~Infiniti,29714]]'
+- '[[_Standards/WikiData/WD~Nissan_Shatai,372967]]'
+- '[[_Standards/WikiData/WD~Aichi_Machine_Industry,403685]]'
+- '[[_Standards/WikiData/WD~Automotive_Energy_Supply_Corporation,787901]]'
+- '[[_Standards/WikiData/WD~Nissan_Motor_Manufacturing_UK,822406]]'
+- '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
+- '[[_Standards/WikiData/WD~Nismo,1543585]]'
+- '[[_Standards/WikiData/WD~Nissan_Motor_Ibérica,1993716]]'
+- '[[_Standards/WikiData/WD~Renault_Nissan_Automotive_India_Private_Limited,2143731]]'
+- '[[_Standards/WikiData/WD~Calsonic_Kansei,5023967]]'
+- '[[_Standards/WikiData/WD~Nissan_Motor_Indonesia,9544829]]'
+- '[[_Standards/WikiData/WD~Jatco,10851180]]'
+- '[[_Standards/WikiData/WD~AutoTechnicJapan_CO.,LTD,11293327]]'
+- '[[_Standards/WikiData/WD~Nissan_Car_Rental_Solutions,11509714]]'
+- '[[_Standards/WikiData/WD~Nissan_Network_Holdings,11509749]]'
+- '[[_Standards/WikiData/WD~Nissan_Financial_Services,11509752]]'
+- '[[_Standards/WikiData/WD~Nissan_Kohki,11509870]]'
+- '[[_Standards/WikiData/WD~Nissan_Motor_Car_Carrier,11509869]]'
+- '[[_Standards/WikiData/WD~Nissan_Motor_Kyushu,11509881]]'
+- '[[_Standards/WikiData/WD~Nissan_New_Zealand,17055920]]'
+- '[[_Standards/WikiData/WD~NISSAN_TRADING_CO.,_LTD.,28687418]]'
+- '[[_Standards/WikiData/WD~Nissan_Technical_Center_North_America,28973233]]'
+- '[[_Standards/WikiData/WD~Nissan_France,64915728]]'
+- '[[_Standards/WikiData/WD~Datsun,27543]]'
+- '[[_Standards/WikiData/WD~Infiniti,29714]]'
 official_color: '[[_Standards/WikiData/WD~Tricolor,402994]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Yoshisuke_Aikawa,404867]]'
-  - '[[_Standards/WikiData/WD~Den_Kenjirō,707834]]'
-  - '[[_Standards/WikiData/WD~William_R._Gorham,2580296]]'
+- '[[_Standards/WikiData/WD~Yoshisuke_Aikawa,404867]]'
+- '[[_Standards/WikiData/WD~Den_Kenjirō,707834]]'
+- '[[_Standards/WikiData/WD~William_R._Gorham,2580296]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~brand,431289]]'
-  - '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~brand,431289]]'
+- '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
 award_received:
-  - '[[_Standards/WikiData/WD~North_American_Car_of_the_Year,784990]]'
-  - '[[_Standards/WikiData/WD~Car_and_Driver_10Best,5037253]]'
-  - '[[_Standards/WikiData/WD~Motor_Trend_Car_of_the_Year,6918171]]'
-  - '[[_Standards/WikiData/WD~Jella_Lepman_Medal,104859122]]'
+- '[[_Standards/WikiData/WD~North_American_Car_of_the_Year,784990]]'
+- '[[_Standards/WikiData/WD~Car_and_Driver_10Best,5037253]]'
+- '[[_Standards/WikiData/WD~Motor_Trend_Car_of_the_Year,6918171]]'
+- '[[_Standards/WikiData/WD~Jella_Lepman_Medal,104859122]]'
 is_member_of:
-  - '[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045]]'
-  - '[[_Standards/WikiData/WD~CHAdeMO_Association,47460769]]'
+- '[[_Standards/WikiData/WD~Wi_Fi_Alliance,1361045]]'
+- '[[_Standards/WikiData/WD~CHAdeMO_Association,47460769]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Tan_Chong_Motor_Holdings_Berhad,1456473]]'
-  - '[[_Standards/WikiData/WD~Dongfeng_Motor_Company_Limited,5295889]]'
-  - '[[_Standards/WikiData/WD~Renault,6686]]'
-  - '[[_Standards/WikiData/WD~Mitsubishi_Motors,36033]]'
+- '[[_Standards/WikiData/WD~Tan_Chong_Motor_Holdings_Berhad,1456473]]'
+- '[[_Standards/WikiData/WD~Dongfeng_Motor_Company_Limited,5295889]]'
+- '[[_Standards/WikiData/WD~Renault,6686]]'
+- '[[_Standards/WikiData/WD~Mitsubishi_Motors,36033]]'
 parent_organization_or_unit:
-  - '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
-  - '[[_Standards/WikiData/WD~Renault,6686]]'
+- '[[_Standards/WikiData/WD~Renault_Nissan_Mitsubishi_Alliance,1477864]]'
+- '[[_Standards/WikiData/WD~Renault,6686]]'
 legal_form: '[[_Standards/WikiData/WD~kabushiki_gaisha,1480166]]'
 organizational_divisions:
-  - '[[_Standards/WikiData/WD~Nismo,1543585]]'
-  - '[[_Standards/WikiData/WD~Datsun,27543]]'
-  - '[[_Standards/WikiData/WD~Infiniti,29714]]'
+- '[[_Standards/WikiData/WD~Nismo,1543585]]'
+- '[[_Standards/WikiData/WD~Datsun,27543]]'
+- '[[_Standards/WikiData/WD~Infiniti,29714]]'
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Makoto_Uchida,70092183]]'
 replaces: '[[_Standards/WikiData/WD~Nihon_Sangyō,112270109]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~car,1420]]'
-  - '[[_Standards/WikiData/WD~truck,43193]]'
+- '[[_Standards/WikiData/WD~car,1420]]'
+- '[[_Standards/WikiData/WD~truck,43193]]'
 owned_by: '[[_Standards/WikiData/WD~Renault,6686]]'
 country: '[[_Standards/WikiData/WD~Japan,17]]'
 social_media_followers:
-  - 240000
-  - 378975
+- 240000
+- 378975
 location_of_formation: '[[_Standards/WikiData/WD~Yokohama,38283]]'
 operating_income: 574760000000
 employees: 136134
@@ -90,15 +120,15 @@ net_profit: 763657000000
 official_website: https://www.nissan-global.com/
 total_revenue: 11951169000000
 name:
-  - 日産
-  - NISSAN MOTOR CORPORATION
-  - 日産自動車株式会社
+- 日産
+- NISSAN MOTOR CORPORATION
+- 日産自動車株式会社
 total_assets: 18746901000000
 location_information_URL: https://dealers.nissan.in/
 Legal_Entity_Identifier: 353800DRBDH1LUTNAY26
 X_Twitter_username:
-  - Nissan
-  - NissanJP
+- Nissan
+- NissanJP
 Commons_category: Nissan
 Facebook_username: NissanJP
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nissan%20Motor%20Corporation%202020%20logo.svg
@@ -113,14 +143,110 @@ Commons_gallery: Nissan vehicles
 Instagram_username: nissanjapan
 YouTube_handle: NissanNewsroom
 official_name:
-  - Nissan Motor Co., Ltd.
-  - 日産自動車株式会社
+- Nissan Motor Co., Ltd.
+- 日産自動車株式会社
 catchphrase:
-  - 技術の日産
-  - 電気自動車と自動運転をリードする日産自動車
+- 技術の日産
+- 電気自動車と自動運転をリードする日産自動車
 inception: 1933-12-26T00:00:00Z
+dv_has_:
+  name_:
+    af: Nissan
+    ar: نيسان موتورز
+    ary: نيسان
+    arz: نيسان
+    ast: Nissan
+    az: Nissan
+    azb: نیسان
+    be: Nissan
+    be-tarask: Nissan Motors
+    bg: Нисан Мотър Къмпани
+    bn: নিসান মোটর কর্পোরেশন
+    br: Nissan
+    ca: Nissan
+    ckb: نیسان مۆتۆرز
+    cs: Nissan
+    cy: Nissan
+    da: Nissan Motor
+    de: Nissan
+    diq: Nissan
+    el: Nissan
+    en: Nissan
+    en-ca: Nissan Motor Company
+    en-gb: Nissan Motor Company
+    eo: Nissan
+    es: Nissan
+    et: Nissan
+    eu: Nissan
+    fa: نیسان
+    fi: Nissan
+    fr: Nissan
+    frr: Nissan
+    ga: Nissan
+    gl: Nissan
+    he: ניסאן מוטורס
+    hi: निसान
+    hr: Nissan Motors
+    ht: Nissan
+    hu: Nissan
+    hy: Նիսսան
+    id: Nissan Motors
+    io: Nissan
+    it: Nissan Motor Co.
+    ja: 日産自動車
+    ka: Nissan Motors
+    kaa: Nissan
+    kk: Nissan
+    ko: 닛산 자동차
+    ln: Nissan
+    lt: Nissan
+    lv: Nissan
+    mk: Нисан (автопроизводител)
+    ml: നിസാൻ
+    mn: Ниссан
+    ms: Nissan
+    my: နီဆန်း
+    nah: Nissan
+    nan: Ji̍t-sán Chū-tōng-chhia
+    nb: Nissan
+    nl: Nissan Motor
+    oc: Nissan
+    pa: ਨੀਸਾਨ
+    pl: Nissan
+    pms: Nissan Motor
+    pt: Nissan
+    ro: Nissan
+    ru: Nissan
+    sa: निस्सान् मोटार् कम्पनि
+    sah: NISSAN
+    sco: Nissan
+    sh: Nissan Motors
+    sk: Nissan
+    sl: Nissan
+    so: Nissan
+    sr: Нисан
+    su: Nissan
+    sv: Nissan
+    ta: நிசான்
+    te: నిస్సాన్
+    tg: Nissan
+    th: นิสสัน
+    tly: Nissan
+    tr: Nissan
+    uk: Nissan
+    ur: نسان موٹر کارپوریشن
+    uz: Nissan
+    vi: Nissan
+    wuu: 日产汽车
+    yue: 日產汽車
+    za: Nditcanj
+    zh: 日產汽車
+    zh-cn: 日产汽车
+    zh-hans: 日产汽车
+    zh-hant: 日產汽車
+    zh-hk: 日產汽車
+    zh-tw: 日產汽車
 ---
-
 # [[Nissan_Motor]] 
 
 #is_/same_as :: [[WD~Nissan_Motor_Co._Ltd.,20165]] 

@@ -1,16 +1,61 @@
 ---
 aliases:
+- Rhodoreae
+- rododendru cilts
+- ردندراوية
+- 杜鹃花族
+- 진달래족
 has_id_wikidata: Q15839119
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
-parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Ericoideae,933098]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Ericoideae,933098]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhododendron-by-eiffel-public-domain-20040617.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=1734
 UMLS_CUI: C1229179
 Commons_category: Rhodoreae
 taxon_name: Rhodoreae
+dv_has_:
+  name_:
+    an: Rhodoreae
+    ar: ردندراوية
+    ast: Rhodoreae
+    bg: Rhodoreae
+    ca: Rhodoreae
+    ceb: Rhodoreae
+    de: Rhodoreae
+    en: Rhodoreae
+    eo: Rhodoreae
+    es: Rhodoreae
+    eu: Rhodoreae
+    ext: Rhodoreae
+    fi: Rhodoreae
+    fr: Rhodoreae
+    ga: Rhodoreae
+    gl: Rhodoreae
+    ia: Rhodoreae
+    ie: Rhodoreae
+    io: Rhodoreae
+    it: Rhodoreae
+    ko: 진달래족
+    la: Rhodoreae
+    lv: rododendru cilts
+    mul: Rhodoreae
+    nl: Rhodoreae
+    oc: Rhodoreae
+    pl: Rhodoreae
+    pt: Rhodoreae
+    pt-br: Rhodoreae
+    ro: Rhodoreae
+    ru: Rhodoreae
+    sl: Rhodoreae
+    sq: Rhodoreae
+    uk: Rhodoreae
+    vi: Rhodoreae
+    vo: Rhodoreae
+    war: Rhodoreae
+    zh: 杜鹃花族
+    zh-cn: 杜鹃花族
 ---
-
 # [[Rhodoreae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Rhodoreae,15839119|WD~Rhodoreae,15839119]]  

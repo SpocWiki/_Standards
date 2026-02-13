@@ -1,11 +1,93 @@
 ---
 aliases:
-  - Atlantic horseshoe crab
-  - Limulus polyphemus
-  - Limulus_polyphemus
+- atlanti tőrfarkú rák
+- Atlantic horseshoe crab
+- Atlantiese hoefysterkrap
+- Atlantik atnalı yengəci
+- Atlantikoko ferra-karramarroa
+- Atlantische degenkrab
+- atlantska podkvasta rakovica
+- Belangkas Atlantik
+- Cangrejo herradura
+- Cassola de l'Atlàntic
+- Dolkhale
+- dolksvans
+- limulo polifema
+- Limulus
+- Limulus polyphemus
+- Limulus_polyphemus
+- Límulo
+- molukkirapu
+- Odasaba
+- ostrorep americký
+- rak bodljaš
+- Skrzypłocz
+- мечоопашат рак
+- סרטן פרסת-סוס אטלנטי
+- خرچنگ نعلی
+- سلطعون حدوة الحصان الاطلسى
+- അരശുഞണ്ട്
+- แมงดาแอตแลนติก
+- アメリカカブトガニ
+- 美洲鱟
+- 美洲鲎
+- 대서양투구게
 title: Limulus polyphemus
+has_id_wikidata: Q1133152
+dv_has_:
+  name_:
+    af: Atlantiese hoefysterkrap
+    arz: سلطعون حدوة الحصان الاطلسى
+    ast: Limulus polyphemus
+    az: Atlantik atnalı yengəci
+    bg: мечоопашат рак
+    ca: Cassola de l'Atlàntic
+    ceb: Limulus
+    cs: ostrorep americký
+    da: Dolkhale
+    de: Limulus polyphemus
+    en: Atlantic horseshoe crab
+    eo: limulo polifema
+    es: Cangrejo herradura
+    et: Odasaba
+    eu: Atlantikoko ferra-karramarroa
+    fa: خرچنگ نعلی
+    fi: molukkirapu
+    fr: Limulus polyphemus
+    ga: Limulus polyphemus
+    gl: Limulus polyphemus
+    he: סרטן פרסת-סוס אטלנטי
+    hr: rak bodljaš
+    hu: atlanti tőrfarkú rák
+    id: Belangkas Atlantik
+    ig: Atlantic horseshoe crab
+    it: Limulus polyphemus
+    ja: アメリカカブトガニ
+    ko: 대서양투구게
+    la: Limulus polyphemus
+    ml: അരശുഞണ്ട്
+    ms: Belangkas Atlantik
+    mul: Limulus polyphemus
+    nl: Atlantische degenkrab
+    pl: Skrzypłocz
+    pt: Límulo
+    ro: Limulus polyphemus
+    ru: Limulus polyphemus
+    sl: atlantska podkvasta rakovica
+    sq: Limulus polyphemus
+    sr: Limulus polyphemus
+    sr-ec: Limulus polyphemus
+    sr-el: Limulus polyphemus
+    sv: dolksvans
+    th: แมงดาแอตแลนติก
+    uk: Limulus polyphemus
+    vi: Limulus polyphemus
+    war: Limulus polyphemus
+    zh: 美洲鱟
+    zh-hans: 美洲鲎
+    zh-hant: 美洲鱟
+    zh-hk: 美洲鱟
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

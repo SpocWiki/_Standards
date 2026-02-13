@@ -1,32 +1,72 @@
 ---
 aliases:
+- Marco Vitrubio
+- Marco Vitruvio
+- Marco Vitruvio Pollione
+- Marcu Vitruvio
+- Marcus Vitruvius Pollio
+- Mark Vitruvij Polio
+- Vitriúivias
+- Vitruv
+- Vitruve
+- Vitruvi
+- Vitruvije
+- Vitruvio
+- Vitruviu
+- Vitruvius
+- Vitruviy
+- Vitrúvio
+- Vitrúvíus
+- Vitrūvijs
+- Witruwiusz
+- Βιτρούβιος
+- Вітрувій
+- Вітрувіюс
+- Витрувиј
+- Витрувий
+- Марк Витрувий Поллион
+- Марко Витрувије
+- Վիտրուվիոս
+- ויטרוביוס
+- فيتروفيو
+- ویترویوس
+- भर्चुभियस
+- वित्रुवियस
+- மார்க்கஸ் விட்ருவியஸ் பொல்லியோ
+- വിട്രൂവിയസ്
+- วิตรูวิอุส
+- ვიტრუვიუსი
+- ウィトルウィウス
+- 維特魯威
+- 维特鲁威
+- 비트루비우스
 has_id_wikidata: Q47163
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-notable_work: "[[_Standards/WikiData/WD~De_architectura,1232238]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-praenomen: "[[_Standards/WikiData/WD~Marcus,6757977]]"
-cognomen: "[[_Standards/WikiData/WD~Pollio,7225697]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-gens: "[[_Standards/WikiData/WD~Vitruvia_gens,53858506]]"
-nomen_gentilicium: "[[_Standards/WikiData/WD~Vitruvius,53858524]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+notable_work: '[[_Standards/WikiData/WD~De_architectura,1232238]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+praenomen: '[[_Standards/WikiData/WD~Marcus,6757977]]'
+cognomen: '[[_Standards/WikiData/WD~Pollio,7225697]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+gens: '[[_Standards/WikiData/WD~Vitruvia_gens,53858506]]'
+nomen_gentilicium: '[[_Standards/WikiData/WD~Vitruvius,53858524]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_death: -0014-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-work_location: "[[_Standards/WikiData/WD~Italy,38]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+work_location: '[[_Standards/WikiData/WD~Italy,38]]'
 occupation:
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~architect,42973]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
 Royal_Academy_new_identifier: vitruvius
 Libris_URI: zw9cdw0h59h3xcr
 name_in_native_language: Marcus Vitruvius Pollio
@@ -39,14 +79,99 @@ floruit: -0100-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Vitruvio.jpg
 described_at_URL: http://www.digiporta.net/index.php?id=503924446
 ISNI: 000000012130962X
-P1015: "90187506"
+P1015: 90187506
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/VITRUVI_POLLION.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/64097
 Commons_category: Marcus Vitruvius Pollio
 Commons_Creator_page: Marcus Vitruvius Pollio
 Commons_gallery: Marcus Vitruvius Pollio
+dv_has_:
+  name_:
+    af: Vitruvius
+    an: Marco Vitrubio
+    ar: فيتروفيو
+    arz: فيتروفيو
+    ast: Marcu Vitruvio
+    az: Vitruvi
+    ba: Витрувий
+    be: Вітрувій
+    be-tarask: Вітрувіюс
+    bg: Витрувий
+    br: Vitruvius
+    bs: Vitruvije
+    ca: Vitruvi
+    cs: Marcus Vitruvius Pollio
+    cv: Витрувий
+    cy: Vitruvius
+    da: Vitruv
+    de: Vitruv
+    el: Βιτρούβιος
+    en: Vitruvius
+    en-us: Vitruvius
+    eo: Vitruvio
+    es: Vitruvio
+    et: Vitruvius
+    eu: Vitruvio
+    fa: ویترویوس
+    fi: vitruvius
+    fr: Vitruve
+    ga: Vitriúivias
+    gl: Marco Vitruvio
+    he: ויטרוביוס
+    hi: वित्रुवियस
+    hif: Vitruvius
+    hr: Vitruvije
+    hu: Marcus Vitruvius Pollio
+    hy: Վիտրուվիոս
+    ia: Vitruvio
+    id: Vitruvius
+    io: Marcus Vitruvius Pollio
+    is: Vitrúvíus
+    it: Marco Vitruvio Pollione
+    ja: ウィトルウィウス
+    jv: Vitruvius
+    ka: ვიტრუვიუსი
+    ko: 비트루비우스
+    ky: Витрувий
+    la: Marcus Vitruvius Pollio
+    lt: Vitruvius
+    lv: Vitrūvijs
+    mg: Vitruve
+    mk: Витрувиј
+    ml: വിട്രൂവിയസ്
+    mr: वित्रुवियस
+    nb: Vitruvius
+    new: भर्चुभियस
+    nl: Vitruvius
+    nn: Vitruvius
+    oc: Vitruvi
+    pl: Witruwiusz
+    pt: Vitrúvio
+    pt-br: Vitrúvio
+    ro: Vitruviu
+    ru: Марк Витрувий Поллион
+    scn: Vitruviu
+    sco: Vitruvius
+    sh: Vitruvije
+    sk: Marcus Vitruvius Pollio
+    sl: Mark Vitruvij Polio
+    sq: Vitruvius
+    sr: Марко Витрувије
+    su: Vitruvius
+    sv: Vitruvius
+    ta: மார்க்கஸ் விட்ருவியஸ் பொல்லியோ
+    tg: Витрувий
+    th: วิตรูวิอุส
+    tl: Vitruvio
+    tr: Vitruvius
+    uk: Вітрувій
+    uz: Vitruviy
+    vi: Vitruvius
+    war: Vitruvius
+    wuu: 维特鲁威
+    yue: 維特魯威
+    zh: 维特鲁威
 ---
-
 # [[Vitruvius]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Vitruvius,47163|WD~Vitruvius,47163]] 

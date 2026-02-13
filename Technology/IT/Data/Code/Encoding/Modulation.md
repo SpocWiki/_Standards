@@ -1,26 +1,167 @@
 ---
 aliases:
+- Avtomodwlyacïya
+- Fifanaraham-peo
+- Kipleme
+- modhnú
+- modulaatio
+- modulace
+- Modulacija
+- modulació
+- modulación
+- modulacja
+- modulado
+- Modulasi
+- modulasjon
+- modulatie
+- modulation
+- modulation du signal
+- modulatsioon
+- Modulazio
+- modulazione
+- modulação
+- modulašuvdna
+- modulație
+- moduliacija
+- Modulyasiya
+- modulácia
+- moduláció
+- Modulācija
+- Piàn-tiāu (tiān-sìn)
+- suai tala
+- Điều chế tín hiệu
+- Διαμόρφωση σήματος
+- Автомодуляция
+- мадуляцыя
+- Модулација
+- Модулация
+- модуляція
+- модуляция
+- Մոդուլում
+- אפנון
+- اۆتومودۋلياتسىييا
+- تحویر
+- تضمين
+- سواي تالا
+- مدولاسیون
+- मॉड्युलेशन
+- মড্যুলেশন
+- குறிப்பேற்றம்
+- മോഡുലേഷൻ
+- මූර්ජනය
+- การกล้ำสัญญาณ
+- မော်ဒျူလေးရှင်း
+- မော်ဒျူလေးရှင်း(Modulation)
+- 変調方式
+- 調制
+- 調變
+- 调制
+- 변조
 has_id_wikidata: Q170474
 has_part_s_:
-  - "[[_Standards/WikiData/WD~frequency_modulation,181417]]"
-  - "[[_Standards/WikiData/WD~amplitude_modulation,183755]]"
-facet_of: "[[_Standards/WikiData/WD~physical_layer,192727]]"
-uses: "[[_Standards/WikiData/WD~carrier_wave,499193]]"
-different_from: "[[_Standards/WikiData/WD~modulation,750240]]"
-opposite_of: "[[_Standards/WikiData/WD~demodulation,1185939]]"
-instance_of: "[[_Standards/WikiData/WD~technique,2695280]]"
-has_use: "[[_Standards/WikiData/WD~information_transfer,4350200]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Modulation_techniques,8056464]]"
+- '[[_Standards/WikiData/WD~frequency_modulation,181417]]'
+- '[[_Standards/WikiData/WD~amplitude_modulation,183755]]'
+facet_of: '[[_Standards/WikiData/WD~physical_layer,192727]]'
+uses: '[[_Standards/WikiData/WD~carrier_wave,499193]]'
+different_from: '[[_Standards/WikiData/WD~modulation,750240]]'
+opposite_of: '[[_Standards/WikiData/WD~demodulation,1185939]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
+has_use: '[[_Standards/WikiData/WD~information_transfer,4350200]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Modulation_techniques,8056464]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-subclass_of: "[[_Standards/WikiData/WD~telecommunications,418]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~telecommunications,418]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Modulation%20categorization.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/modulation
 IEV_number: 701-03-08
 Commons_category: Radio modulation modes
+dv_has_:
+  name_:
+    ar: تضمين
+    be: мадуляцыя
+    be-tarask: мадуляцыя
+    bg: Модулация
+    bn: মড্যুলেশন
+    ca: modulació
+    cs: modulace
+    da: Modulation
+    de: Modulation
+    el: Διαμόρφωση σήματος
+    en: modulation
+    en-us: modulation
+    eo: modulado
+    es: modulación
+    et: modulatsioon
+    eu: Modulazio
+    fa: مدولاسیون
+    fi: modulaatio
+    fr: modulation du signal
+    ga: modhnú
+    he: אפנון
+    hi: मॉड्युलेशन
+    hr: Modulacija
+    hu: moduláció
+    hy: Մոդուլում
+    id: Modulasi
+    it: modulazione
+    ja: 変調方式
+    kk: Автомодуляция
+    kk-arab: اۆتومودۋلياتسىييا
+    kk-cn: اۆتومودۋلياتسىييا
+    kk-cyrl: Автомодуляция
+    kk-kz: Автомодуляция
+    kk-latn: Avtomodwlyacïya
+    kk-tr: Avtomodwlyacïya
+    ko: 변조
+    ky: Модуляция
+    lt: moduliacija
+    lv: Modulācija
+    mg: Fifanaraham-peo
+    mk: Модулација
+    ml: മോഡുലേഷൻ
+    ms: suai tala
+    ms-arab: سواي تالا
+    my: မော်ဒျူလေးရှင်း
+    nan: Piàn-tiāu (tiān-sìn)
+    nb: modulasjon
+    nl: modulatie
+    nn: modulasjon
+    pl: modulacja
+    pt: modulação
+    rki: မော်ဒျူလေးရှင်း(Modulation)
+    ro: modulație
+    ru: модуляция
+    sco: modulation
+    se: modulašuvdna
+    sh: Modulacija
+    si: මූර්ජනය
+    sk: modulácia
+    sl: modulacija
+    smn: modulaatio
+    sms: modulaatio
+    sr: Модулација
+    sr-ec: модулација
+    sr-el: modulacija
+    su: Modulasi
+    sv: modulation
+    ta: குறிப்பேற்றம்
+    th: การกล้ำสัญญาณ
+    tr: Kipleme
+    uk: модуляція
+    ur: تحویر
+    uz: Modulyasiya
+    vi: Điều chế tín hiệu
+    wuu: 调制
+    yue: 調制
+    zh: 調變
+    zh-cn: 调制
+    zh-hans: 调制
+    zh-hant: 調變
+    zh-hk: 調變
+    zh-sg: 调制
+    zh-tw: 調變
 ---
-
 # [[Modulation]] 
 
 #is_/same_as :: [[WD~Modulation,170474]] 

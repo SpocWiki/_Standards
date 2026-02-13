@@ -1,18 +1,114 @@
 ---
 aliases:
+- disposeetion
+- disposicion
+- disposició
+- disposición
+- disposisi
+- disposisjon
+- dispositie
+- disposition
+- Dispositioun
+- dispositsioon
+- disposizione
+- disposição
+- dispozice
+- dispozicija
+- dispozicioj
+- dispozision
+- Dispoziție
+- eğilim
+- gogo
+- hajlam
+- kecenderungan
+- meyl
+- méin
+- nagnjenje
+- nosliece
+- psykologisk disposition
+- skłonność
+- tendentia actionis
+- διάθεση
+- Бейімділік (жантану)
+- диспозиція
+- диспозиција
+- Диспозиция
+- предрасположенность
+- расположение
+- схільнасць
+- схільнасьць
+- מזג
+- آمادگی (جامعه شناسی)
+- استعداد
+- 性向
+- 性情
+- 기질
 has_id_wikidata: Q1149305
 different_from:
-  - "[[_Standards/WikiData/WD~genetic_predisposition,784237]]"
-  - "[[_Standards/WikiData/WD~kuśala_mūla,10923465]]"
-subclass_of: "[[_Standards/WikiData/WD~tendency,55919789]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- '[[_Standards/WikiData/WD~genetic_predisposition,784237]]'
+- '[[_Standards/WikiData/WD~kuśala_mūla,10923465]]'
+subclass_of: '[[_Standards/WikiData/WD~tendency,55919789]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~physiology,521]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~behavior,9332]]"
+- '[[_Standards/WikiData/WD~physiology,521]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~behavior,9332]]'
+dv_has_:
+  name_:
+    ar: استعداد
+    az: meyl
+    be: схільнасць
+    be-tarask: схільнасьць
+    bg: Диспозиция
+    bs: dispozicija
+    ca: disposició
+    cs: dispozice
+    da: psykologisk disposition
+    de: Disposition
+    el: διάθεση
+    en: disposition
+    eo: dispozicioj
+    es: disposición
+    et: dispositsioon
+    eu: gogo
+    fa: آمادگی (جامعه شناسی)
+    fr: disposition
+    ga: méin
+    gl: disposición
+    he: מזג
+    hr: dispozicija
+    hu: hajlam
+    id: kecenderungan
+    it: disposizione
+    ja: 性向
+    kk: Бейімділік (жантану)
+    ko: 기질
+    la: tendentia actionis
+    lb: Dispositioun
+    lv: nosliece
+    mk: расположение
+    ms: disposisi
+    nb: disposisjon
+    nl: dispositie
+    nn: disposisjon
+    oc: disposicion
+    pl: skłonność
+    pt: disposição
+    ro: Dispoziție
+    ru: предрасположенность
+    sco: disposeetion
+    sl: nagnjenje
+    sr: диспозиција
+    sr-ec: диспозиција
+    sr-el: dispozicija
+    sv: disposition
+    tr: eğilim
+    uk: диспозиція
+    vec: dispozision
+    zh: 性情
+    zh-hant: 性情
 ---
-
 # [[Disposition]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~disposition,1149305]] 

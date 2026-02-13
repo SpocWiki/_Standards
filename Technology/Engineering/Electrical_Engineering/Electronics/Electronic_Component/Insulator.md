@@ -1,21 +1,185 @@
 ---
 aliases:
+- aislamientu llétricu
+- aislante
+- aïllant elèctric
+- chất cách điện
+- einangrari
+- elektra izolaĵo
+- elektrisk isolator
+- elektriskais izolators
+- električni izolator
+- elektromos szigetelő
+- illante eléctrico
+- insulador
+- insulator
+- insulator electric
+- insulator listrik
+- insulatum electricum
+- isolaator
+- isolador electrical
+- isoladôr
+- isolant elétrich
+- isolante elettrico
+- isolante elétrico
+- isolateur
+- isolator
+- isolatzaile elektriko
+- izolan
+- izolant
+- izolator
+- izoliatorius
+- izolivo
+- izolyator
+- izolátor
+- Nichtleiter
+- oqşawlatqış
+- penebat elektrik
+- rutsuwa rwemagetsi
+- sähköneriste
+- Yalıtkan
+- ynysydd
+- μονωτής
+- ізалятар
+- електрични изолатор
+- електроізолятор
+- изолатор
+- изолятор
+- оқшаулатқыш
+- цахилгаан тусгаарлагч
+- электроизолятор
+- Էլեկտրական մեկուսիչ
+- בידוד חשמלי
+- عازل
+- غیر موصل
+- مقره
+- نەگەیەنەر کارەبایی
+- وقشاۋلاتقىش
+- विद्युतरोधी
+- অন্তরক
+- ਕੁਚਾਲਕ
+- மின்காப்பான்
+- విద్యుత్ వ్యాప్తి నిరోధం
+- ಅವಾಹಕ
+- വൈദ്യുത അചാലകം
+- පරිවාරක (විද්යුත්)
+- ฉนวนไฟฟ้า
+- လျှပ်ကာ
+- 絕緣體
+- 絶縁体
+- 绝缘体
+- 절연체
 has_id_wikidata: Q178150
-opposite_of: "[[_Standards/WikiData/WD~electrical_conductor,124291]]"
-instance_of: "[[_Standards/WikiData/WD~material,214609]]"
-manifestation_of: "[[_Standards/WikiData/WD~electric_insulation,3155522]]"
-has_characteristic: "[[_Standards/WikiData/WD~electric_insulation,3155522]]"
-used_by: "[[_Standards/WikiData/WD~electric_insulation,3155522]]"
-subclass_of: "[[_Standards/WikiData/WD~insulator,12767712]]"
+opposite_of: '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
+instance_of: '[[_Standards/WikiData/WD~material,214609]]'
+manifestation_of: '[[_Standards/WikiData/WD~electric_insulation,3155522]]'
+has_characteristic: '[[_Standards/WikiData/WD~electric_insulation,3155522]]'
+used_by: '[[_Standards/WikiData/WD~electric_insulation,3155522]]'
+subclass_of: '[[_Standards/WikiData/WD~insulator,12767712]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-different_from: "[[_Standards/WikiData/WD~insulator,103895122]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~insulator,103895122]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CintaAislanteElectricaRojaUnion.jpg
-Common_Procurement_Vocabulary_code: "44111511"
+Common_Procurement_Vocabulary_code: 44111511
 OpenStreetMap_tag: power=insulator
+dv_has_:
+  name_:
+    af: isolator
+    ar: عازل
+    ast: aislamientu llétricu
+    az: izolyator
+    be-tarask: ізалятар
+    bg: изолатор
+    bn: অন্তরক
+    bs: izolator
+    ca: aïllant elèctric
+    ckb: نەگەیەنەر کارەبایی
+    cs: izolátor
+    cy: ynysydd
+    da: elektrisk isolator
+    de: Nichtleiter
+    el: μονωτής
+    en: insulator
+    eo: elektra izolaĵo
+    es: aislante
+    et: isolaator
+    eu: isolatzaile elektriko
+    fa: مقره
+    fi: sähköneriste
+    fr: isolateur
+    fur: isoladôr
+    gl: illante eléctrico
+    he: בידוד חשמלי
+    hi: विद्युतरोधी
+    hr: izolator
+    ht: izolan
+    hu: elektromos szigetelő
+    hy: Էլեկտրական մեկուսիչ
+    ia: insulator electric
+    id: insulator listrik
+    io: izolivo
+    is: einangrari
+    it: isolante elettrico
+    ja: 絶縁体
+    kk: оқшаулатқыш
+    kk-arab: وقشاۋلاتقىش
+    kk-cn: وقشاۋلاتقىش
+    kk-cyrl: оқшаулатқыш
+    kk-kz: оқшаулатқыш
+    kk-latn: oqşawlatqış
+    kk-tr: oqşawlatqış
+    kn: ಅವಾಹಕ
+    ko: 절연체
+    ky: изолятор
+    la: insulatum electricum
+    lfn: isolador electrical
+    lt: izoliatorius
+    lv: elektriskais izolators
+    mag: विद्युतरोधी
+    mk: изолатор
+    ml: വൈദ്യുത അചാലകം
+    mn: цахилгаан тусгаарлагч
+    ms: penebat elektrik
+    my: လျှပ်ကာ
+    nb: isolator
+    nl: isolator
+    nn: elektrisk isolator
+    pa: ਕੁਚਾਲਕ
+    pl: izolator
+    pms: isolant elétrich
+    pt: isolante elétrico
+    ro: izolator
+    ru: электроизолятор
+    sco: insulator
+    sh: električni izolator
+    si: පරිවාරක (විද්යුත්)
+    sk: izolant
+    sl: izolator
+    sn: rutsuwa rwemagetsi
+    sr: електрични изолатор
+    sr-ec: електрични изолатор
+    sr-el: električni izolator
+    sv: isolator
+    ta: மின்காப்பான்
+    te: విద్యుత్ వ్యాప్తి నిరోధం
+    th: ฉนวนไฟฟ้า
+    tl: insulador
+    tr: Yalıtkan
+    udm: изолятор
+    uk: електроізолятор
+    ur: غیر موصل
+    vi: chất cách điện
+    wuu: 绝缘体
+    yue: 絕緣體
+    zh: 絕緣體
+    zh-cn: 绝缘体
+    zh-hans: 绝缘体
+    zh-hant: 絕緣體
+    zh-hk: 絕緣體
+    zh-sg: 绝缘体
+    zh-tw: 絕緣體
 ---
-
 # [[Insulator]] 
 
 #is_/same_as :: [[WikiData/WD~Insulator,178150|WD~Insulator,178150]] 

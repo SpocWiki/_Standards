@@ -1,12 +1,103 @@
 ---
 aliases:
-  - '{ newTitle: null }': ''
-  - Biotechnology
+- bayoteknalaji
+- bevdeknologiezh
+- bewdeknologieth
+- bijoteknoloġija
+- biotechnoleg
+- biotechnologia
+- Biotechnologie
+- biotechnologija
+- Biotechnology
+- biotechnológia
+- biotecnolochía
+- biotecnologia
+- Biotecnologìa
+- biotecnología
+- biotecnolojia
+- biotecnoloxía
+- biotegnologie
+- biotehniekku
+- biotehnologie
+- Biotehnologii
+- biotehnologija
+- biotehnologiya
+- biotehnoloogia
+- biotehnoloģija
+- biotekinolojia
+- biotekniik
+- biotekniikka
+- bioteknik
+- bioteknikk
+- biotekniko
+- bioteknologi
+- bioteknologia
+- bioteknologiija
+- bioteknologija
+- bioteknologije
+- bioteknologio
+- bioteknologjia
+- bioteknolohia
+- bioteknuoluogėjė
+- bioteunoloxía
+- Biotexnologijə
+- biotexnologiya
+- biotéhnologi
+- biteicneolaíocht
+- biyoteknolohiya
+- biyoteknoloji
+- biyoteknolojî
+- byoteknoloji
+- công nghệ sinh học
+- líftækni
+- seng-bu̍t ki-su̍t
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- βιοτεχνολογία
+- біотехнологія
+- біотехнолоґія
+- біятэхналёгія
+- біятэхналогія
+- биотехнологи
+- биотехнологија
+- биотехнология
+- կենսատեխնոլոգիա
+- ביאטעכנאלאגיע
+- ביוטכנולוגיה
+- بائيو ٽيڪنالاجي
+- بائیو ٹیکنالوجی
+- بيوطيكنولوجيا
+- بیوتکنولوژی
+- بیوټکنالوژي
+- بیۆتەکنۆلۆژیا
+- تقانة حيوية
+- حیاتیاتی ٹیکنالوجی
+- زیستفناوری
+- जीवप्रविधि
+- जैवतंत्रज्ञान
+- जैवप्रौद्योगिकी
+- জৈবপ্রযুক্তি
+- জৈৱ প্ৰযুক্তি
+- ਜੀਵ ਟੈਕਨਾਲੋਜੀ
+- જૈવ તકનીક
+- உயிரித் தொழில்நுட்பம்
+- జీవసాంకేతిక విజ్ఞానం
+- ಜೈವಿಕತಂತ್ರಜ್ಞಾನ
+- ജൈവസാങ്കേതികവിദ്യ
+- ජෛව තාක්ෂණය
+- เทคโนโลยีชีวภาพ
+- ဇီဝနည်းပညာ
+- ဇီဝအနယ်ꩻပညာႏ
+- ბიოტექნოლოგია
+- 生物工学
+- 生物技术
+- 生物技術
+- 生物科技
+- 생명공학기술
 has_id_wikidata: Q7108
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -27,13 +118,149 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - '{ newTitle: null }': ''
-  - excalidraw
+- '{ newTitle: null }': ''
+- excalidraw
 title:
   '{ newTitle: null }': ''
 type: private_note
+dv_has_:
+  name_:
+    af: biotegnologie
+    an: biotecnolochía
+    ar: تقانة حيوية
+    ary: بيوطيكنولوجيا
+    as: জৈৱ প্ৰযুক্তি
+    ast: bioteunoloxía
+    az: biotexnologiya
+    azb: بیوتکنولوژی
+    ba: биотехнология
+    bar: Biotechnologie
+    be: біятэхналогія
+    be-tarask: біятэхналёгія
+    bg: биотехнология
+    blk: ဇီဝအနယ်ꩻပညာႏ
+    bn: জৈবপ্রযুক্তি
+    br: bevdeknologiezh
+    bs: biotehnologija
+    ca: biotecnologia
+    ce: биотехнологи
+    ckb: بیۆتەکنۆلۆژیا
+    crh: biotehnologiya
+    cs: biotechnologie
+    cy: biotechnoleg
+    da: bioteknologi
+    de: Biotechnologie
+    el: βιοτεχνολογία
+    en: biotechnology
+    en-ca: biotechnology
+    en-gb: biotechnology
+    eo: biotekniko
+    es: biotecnología
+    et: biotehnoloogia
+    eu: bioteknologia
+    fa: زیستفناوری
+    fi: biotekniikka
+    fr: biotechnologie
+    ga: biteicneolaíocht
+    gan: 生物技術
+    gcr: byoteknoloji
+    gl: biotecnoloxía
+    gsw: Biotechnologie
+    gu: જૈવ તકનીક
+    ha: biotechnology
+    he: ביוטכנולוגיה
+    hi: जैवप्रौद्योगिकी
+    hif: biotechnology
+    hr: biotehnologija
+    hu: biotechnológia
+    hy: կենսատեխնոլոգիա
+    ia: biotechnologia
+    id: bioteknologi
+    ilo: bioteknolohia
+    io: bioteknologio
+    is: líftækni
+    it: biotecnologia
+    ja: 生物工学
+    jam: bayoteknalaji
+    jv: bioteknologi
+    ka: ბიოტექნოლოგია
+    kk: биотехнология
+    kn: ಜೈವಿಕತಂತ್ರಜ್ಞಾನ
+    ko: 생명공학기술
+    ku: biyoteknolojî
+    kw: bewdeknologieth
+    ky: биотехнология
+    la: biotechnologia
+    lfn: biotecnolojia
+    li: biotechnologie
+    lmo: biotecnologia
+    lt: biotechnologija
+    lv: biotehnoloģija
+    mk: биотехнологија
+    ml: ജൈവസാങ്കേതികവിദ്യ
+    mn: биотехнологи
+    mr: जैवतंत्रज्ञान
+    ms: bioteknologi
+    mt: bijoteknoloġija
+    my: ဇီဝနည်းပညာ
+    nan: seng-bu̍t ki-su̍t
+    nb: bioteknologi
+    new: जीवप्रविधि
+    nl: biotechnologie
+    nn: bioteknologi
+    oc: biotecnologia
+    olo: biotehniekku
+    pa: ਜੀਵ ਟੈਕਨਾਲੋਜੀ
+    pl: biotechnologia
+    pms: Biotecnologìa
+    pnb: بائیو ٹیکنالوجی
+    ps: بیوټکنالوژي
+    pt: biotecnologia
+    pt-br: biotecnologia
+    rki: ဇီဝနည်းပညာ
+    ro: biotehnologie
+    ru: биотехнология
+    rue: біотехнолоґія
+    sah: биотехнология
+    sd: بائيو ٽيڪنالاجي
+    se: bioteknologiija
+    sgs: bioteknuoluogėjė
+    sh: biotehnologija
+    si: ජෛව තාක්ෂණය
+    sk: biotechnológia
+    skr: حیاتیاتی ٹیکنالوجی
+    sl: biotehnologija
+    sma: bioteknologije
+    smj: bioteknologija
+    smn: biotekniik
+    sms: bioteknikk
+    sq: bioteknologjia
+    sr: биотехнологија
+    su: biotéhnologi
+    sv: bioteknik
+    sw: biotekinolojia
+    ta: உயிரித் தொழில்நுட்பம்
+    te: జీవసాంకేతిక విజ్ఞానం
+    tg: биотехнология
+    th: เทคโนโลยีชีวภาพ
+    tl: biyoteknolohiya
+    tly: Biotexnologijə
+    tr: biyoteknoloji
+    tt: биотехнология
+    udm: биотехнология
+    uk: біотехнологія
+    ur: حیاتیاتی ٹیکنالوجی
+    uz: biotexnologiya
+    vep: Biotehnologii
+    vi: công nghệ sinh học
+    war: biyoteknolohiya
+    wuu: 生物技术
+    yi: ביאטעכנאלאגיע
+    yue: 生物科技
+    zh: 生物技术
+    zh-hans: 生物技术
+    zh-hant: 生物技術
 ---
-
 # [[Biotechnology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Biotechnology,7108|WD~Biotechnology,7108]] 

@@ -1,4 +1,71 @@
-
+---
+has_id_wikidata: Q153616
+dv_has_:
+  name_:
+    ar: تانجرين دريم
+    ast: Tangerine Dream
+    azb: تنجرین دریم
+    be: Tangerine Dream
+    bg: Танджърин Дрийм
+    bn: ট্যাঞ্জারিন ড্রিম
+    ca: Tangerine Dream
+    cs: Tangerine Dream
+    da: Tangerine Dream
+    de: Tangerine Dream
+    el: Tangerine Dream
+    en: Tangerine Dream
+    eo: Tangerine Dream
+    es: Tangerine Dream
+    es-419: Tangerine Dream
+    et: Tangerine Dream
+    fa: تنجرین دریم
+    fi: Tangerine Dream
+    fr: Tangerine Dream
+    ga: Tangerine Dream
+    gl: Tangerine Dream
+    he: טנג'רין דרים
+    hu: Tangerine Dream
+    hy: Tangerine Dream
+    io: Tangerine Dream
+    it: Tangerine Dream
+    ja: タンジェリン・ドリーム
+    ka: Tangerine Dream
+    ko: 탠저린 드림
+    lb: Tangerine Dream
+    lmo: Tangerine Dream
+    lv: Tangerine Dream
+    nb: Tangerine Dream
+    nl: Tangerine Dream
+    nn: Tangerine Dream
+    pl: Tangerine Dream
+    pt: Tangerine Dream
+    pt-br: Tangerine Dream
+    ro: Tangerine Dream
+    ru: Tangerine Dream
+    sk: Tangerine Dream
+    sl: Tangerine Dream
+    sv: Tangerine Dream
+    uk: Tangerine Dream
+    vi: Tangerine Dream
+    zh: 橘夢樂團
+    zh-cn: 橘梦乐团
+    zh-hans: 橘梦乐团
+    zh-hant: 橘夢樂團
+    zh-hk: 橘夢樂團
+    zh-sg: 橘梦乐团
+    zh-tw: 橘夢樂團
+aliases:
+- Tangerine Dream
+- Танджърин Дрийм
+- טנג'רין דרים
+- تانجرين دريم
+- تنجرین دریم
+- ট্যাঞ্জারিন ড্রিম
+- タンジェリン・ドリーム
+- 橘夢樂團
+- 橘梦乐团
+- 탠저린 드림
+---
 #has_/created_/soundtrack :: [[../../../../../../../_private/Society/Communication/Media/TV-Series/Tatort/Mädchen_auf_der_Treppe,Tatort]]
 
 ## #has_/text_of_/abstract 

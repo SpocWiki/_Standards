@@ -1,18 +1,40 @@
 ---
-has_time_started: 1890-01-01 
+has_time_started: 1890-01-01
 aliases:
-  - rag-time
-  - rag time
-  - Ragtime
+- rag time
+- rag-time
+- ragcheol
+- Ragtime
+- Ragtimo
+- Regtaimas
+- regtaims
+- Reqtaym
+- Ράγκταϊμ
+- рагтајм
+- Рагтайм
+- регтайм
+- Реґтайм
+- Рэгтайм
+- ռեգթայմ
+- רגטיים
+- راجتايم
+- رگتایم
+- ڕاگتایم
+- राग
+- แร็กไทม์
+- ラグタイム
+- 拉格泰姆
+- 散拍
+- 래그타임
 has_id_wikidata: Q185652
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
 different_from: '[[_Standards/WikiData/WD~raga,216926]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~popular_music,373342]]'
-  - '[[_Standards/WikiData/WD~parlour_music,7139128]]'
-  - '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
+- '[[_Standards/WikiData/WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~parlour_music,7139128]]'
+- '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
 has_list: '[[_Standards/WikiData/WD~list_of_ragtime_composers,767967]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 inception: 1890-01-01T00:00:00Z
@@ -21,11 +43,76 @@ country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_category: Ragtime
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cake%20walk%201903%2C%2010%20seconds.gif
 audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%2212th%20Street%20Rag%22%20%281915%29%2C%20by%20Euday%20Bowman.mid
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Chauvin%20and%20Scott%20Joplin%27s%20%22Heliotrope%20Bouquet%22%20%281907%29%2C%20performed%20by%20John%20Robson%20on%20piano%20c.%202007.flac
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Maple%20Leaf%20RagQ.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%2212th%20Street%20Rag%22%20%281915%29%2C%20by%20Euday%20Bowman.mid
+- http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20Chauvin%20and%20Scott%20Joplin%27s%20%22Heliotrope%20Bouquet%22%20%281907%29%2C%20performed%20by%20John%20Robson%20on%20piano%20c.%202007.flac
+- http://commons.wikimedia.org/wiki/Special:FilePath/Maple%20Leaf%20RagQ.ogg
+dv_has_:
+  name_:
+    ar: راجتايم
+    ast: Ragtime
+    az: Reqtaym
+    be: Рэгтайм
+    be-tarask: Рэгтайм
+    bg: Рагтайм
+    br: Ragtime
+    ca: Ragtime
+    ckb: ڕاگتایم
+    cs: ragtime
+    da: ragtime
+    de: Ragtime
+    el: Ράγκταϊμ
+    en: ragtime
+    eo: Ragtimo
+    es: Ragtime
+    et: Ragtime
+    eu: ragtime
+    fa: رگتایم
+    fi: Ragtime
+    fr: ragtime
+    fy: Ragtime
+    ga: ragcheol
+    gl: Ragtime
+    he: רגטיים
+    hu: ragtime
+    hy: ռեգթայմ
+    id: Ragtime
+    it: ragtime
+    ja: ラグタイム
+    ko: 래그타임
+    ky: Регтайм
+    la: Ragtime
+    lb: Ragtime
+    ln: Ragtime
+    lt: Regtaimas
+    lv: regtaims
+    mn: Регтайм
+    nan: Ragtime
+    nb: ragtime
+    ne: राग
+    nl: ragtime
+    nn: ragtime
+    pl: ragtime
+    pt: ragtime
+    ru: регтайм
+    sc: Ragtime
+    sh: Ragtime
+    sk: Ragtime
+    sl: ragtime
+    sr: рагтајм
+    sv: ragtime
+    th: แร็กไทม์
+    tr: ragtime
+    uk: Реґтайм
+    vi: Ragtime
+    yue: 散拍
+    zh: 拉格泰姆
+    zh-cn: 拉格泰姆
+    zh-hans: 拉格泰姆
+    zh-hant: 拉格泰姆
+    zh-hk: 拉格泰姆
+    zh-sg: 拉格泰姆
+    zh-tw: 拉格泰姆
 ---
-
 # [[Ragtime]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ragtime,185652|WD~Ragtime,185652]]  

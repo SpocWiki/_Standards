@@ -1,67 +1,96 @@
 ---
 aliases:
-  - Aepyceros melampus
-  - Impala
-  - rooibok
-  - Імпала
-  - 高角羚
-  - impala
-  - อิมพาลา
-  - Rooibok
-  - Импала
-  - Schwarzfersenantilope
-  - Black-faced Impala
-  - Common Impala
-  - Impalo
-  - אימפלה
-  - インパラ
-  - impala zwyczajna
-  - İmpala
+- Aepyceros melampus
+- Black-faced Impala
+- Common Impala
+- Impala
+- impala zwyczajna
+- Impalahjörtur
+- Impalas
+- Impalo
+- Impara
+- Inpala
+- iompála
+- Jádí bideeʼ yisdizígíí
+- Linh dương Impala
+- Mhara
+- Phala
+- putcudol
+- rooibok
+- Schwarzfersenantilope
+- Swala pala
+- Ïmpala
+- İmpala
+- İmpalalar
+- Ιμπάλα
+- Імпала
+- імпаля
+- Импала
+- Пала гөрөөс
+- Իմպալա
+- אימפלה
+- إمبالة
+- امباله
+- امپالا
+- ایمپالا
+- ىيمپالا
+- इंपाला
+- इम्पाला
+- ଇମ୍ପାଲା
+- ஆப்பிரிக்கச் சிறுமான்
+- ಇಂಪಾಲ
+- ഇംപാല
+- อิมพาลา
+- იმპალა
+- インパラ
+- 高角羚
+- 黑斑羚
+- 임팔라
 has_id_wikidata: Q132576
 title: Aepyceros melampus
 taxon_common_name:
-  - Імпала
-  - Impala
-  - 高角羚
-  - Impala
-  - impala
-  - Impala
-  - Impala
-  - Impala
-  - Impala
-  - Impala
-  - Impala
-  - อิมพาลา
-  - Impala
-  - Rooibok
-  - impala
-  - Импала
-  - Impala
-  - Impala
-  - impala
-  - Schwarzfersenantilope
-  - Black-faced Impala
-  - Common Impala
-  - Impalo
-  - Impala
-  - אימפלה
-  - Impala
-  - インパラ
-  - Impala
-  - Impala
-  - Impala
-  - Импала
-  - Impala
-  - impala zwyczajna
-  - Impala
-  - Impala
-  - Импала
-  - Impala
-  - İmpala
+- Імпала
+- Impala
+- 高角羚
+- Impala
+- impala
+- Impala
+- Impala
+- Impala
+- Impala
+- Impala
+- Impala
+- อิมพาลา
+- Impala
+- Rooibok
+- impala
+- Импала
+- Impala
+- Impala
+- impala
+- Schwarzfersenantilope
+- Black-faced Impala
+- Common Impala
+- Impalo
+- Impala
+- אימפלה
+- Impala
+- インパラ
+- Impala
+- Impala
+- Impala
+- Импала
+- Impala
+- impala zwyczajna
+- Impala
+- Impala
+- Импала
+- Impala
+- İmpala
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 parent_taxon: '[[_Standards/WikiData/WD~Aepyceros,10730799]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 original_combination: '[[_Standards/WikiData/WD~Antilope_melampus,122418440]]'
@@ -74,17 +103,129 @@ ITIS_TSN: 625076
 short_name: A. melampus
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aepyceros%20melampus.svg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aepyceros%20melampus%20-%20001.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Female%20impala.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Impala%2C%20Chobe%20National%20Park%2C%20Botswana%20%2851879018932%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Aepyceros%20melampus%20-%20001.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Female%20impala.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Impala%2C%20Chobe%20National%20Park%2C%20Botswana%20%2851879018932%29.jpg
 Commons_gallery: Aepyceros melampus
 Commons_category: Aepyceros melampus
 taxon_name: Aepyceros melampus
 EPPO_Code: AEPYME
 UMLS_CUI: C0325295
 GenBank_assembly_accession_number: GCA_006408695.1
+dv_has_:
+  name_:
+    af: Rooibok
+    ar: إمبالة
+    arz: امباله
+    ast: Aepyceros melampus
+    av: Импала
+    avk: putcudol
+    az: İmpalalar
+    ban: Impala
+    be-tarask: імпаля
+    bg: импала
+    br: Impala
+    ca: impala
+    ceb: Aepyceros melampus
+    cs: impala
+    cy: Impala
+    da: Impala
+    de: Impala
+    el: Ιμπάλα
+    en: impala
+    en-ca: Impala
+    en-gb: Impala
+    eo: Impalo
+    es: Aepyceros melampus
+    et: Impala
+    eu: Inpala
+    fa: ایمپالا
+    fi: impala
+    fr: impala
+    frr: Impalas
+    fy: Impala
+    ga: iompála
+    gd: Aepyceros melampus
+    gl: Impala
+    he: אימפלה
+    hi: इंपाला
+    hr: Impala
+    hu: impala
+    hy: Իմպալա
+    ia: impala
+    id: Impala
+    is: Impalahjörtur
+    it: Aepyceros melampus
+    ja: インパラ
+    jv: Impala
+    ka: იმპალა
+    kk: Импала
+    kk-arab: ىيمپالا
+    kk-cn: ىيمپالا
+    kk-cyrl: Импала
+    kk-kz: Импала
+    kk-latn: Ïmpala
+    kk-tr: Ïmpala
+    kn: ಇಂಪಾಲ
+    ko: 임팔라
+    kw: Impala
+    la: Impala
+    lb: Impala
+    lez: Импала
+    lfn: Impala
+    lt: Impala
+    lv: Impala
+    mg: Impala
+    mhr: Импала
+    ml: ഇംപാല
+    mn: Пала гөрөөс
+    mr: इम्पाला
+    ms: Impala
+    mul: Aepyceros melampus
+    nb: impala
+    nl: impala
+    nn: Aepyceros melampus
+    nso: Phala
+    nv: Jádí bideeʼ yisdizígíí
+    oc: Aepyceros melampus
+    or: ଇମ୍ପାଲା
+    pl: impala zwyczajna
+    pnb: امپالا
+    pt: Impala
+    pt-br: Impala
+    ro: Impala
+    ru: Импала
+    rw: Impara
+    sco: Impala
+    sh: Impala
+    sl: impala
+    sn: Mhara
+    sq: Aepyceros melampus
+    sr: импала
+    sr-ec: Импала
+    sr-el: Impala
+    sv: Impala
+    sw: Swala pala
+    ta: ஆப்பிரிக்கச் சிறுமான்
+    th: อิมพาลา
+    tl: Impala
+    tr: İmpala
+    udm: Импала
+    uk: Імпала
+    ur: امپالا
+    uz: Impala
+    vi: Linh dương Impala
+    war: Aepyceros melampus
+    wuu: 高角羚
+    yue: 黑斑羚
+    zh: 高角羚
+    zh-cn: 高角羚
+    zh-hans: 高角羚
+    zh-hant: 高角羚
+    zh-hk: 高角羚
+    zh-sg: 高角羚
+    zh-tw: 高角羚
 ---
-
 # [[Impala]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Impala,132576|WD~Impala,132576]] 

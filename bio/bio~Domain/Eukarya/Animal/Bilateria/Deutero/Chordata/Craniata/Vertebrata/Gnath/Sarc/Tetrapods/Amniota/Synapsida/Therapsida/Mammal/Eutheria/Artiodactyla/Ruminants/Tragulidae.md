@@ -1,9 +1,136 @@
 ---
 aliases:
-  - Tragulidae
+- Bugʻuchalar
+- Chevrotain
+- Cüce geyikgiller
+- Dvergmoskusdyr
+- Dværghjorte
+- dwergherten
+- Dwerghertn
+- Elniukiniai
+- fia luiche
+- Hirschferkel
+- Hirviklased
+- Họ Cheo cheo
+- Kancil
+- kancsilfélék
+- Kanczylowate
+- kančilovití
+- kääpiökauriit
+- Maralçalar
+- Mushjortar
+- nefasatoleem
+- Náátsʼózídę́ę́ʼ bįįhchilí
+- Paa-chonge
+- Sweraghirsker
+- Tragoledoj
+- Tragulidae
+- Tragulide
+- Tragúlid
+- Tragúlidos
+- Trágulo
+- Аленьчыкавыя
+- еленчиња
+- Мишевидни елени
+- Оленьковые
+- איילוניים
+- تراگۇلۇس بۇغىسى
+- طرغولية
+- موشآهو
+- पिसोरी
+- சருகுமான்
+- మౌస్ డీర్
+- ಬರ್ಕ
+- ചെവ്റോടെയ്ൻ
+- วงศ์กระจง
+- ချေလှောင်
+- ირმულასებრნი
+- マメジカ
+- 鼷鹿科
+- 작은사슴
 title: Tragulidae
+has_id_wikidata: Q8535351
+dv_has_:
+  name_:
+    an: Tragulidae
+    ar: طرغولية
+    ast: Tragulidae
+    avk: nefasatoleem
+    az: Maralçalar
+    ban: Kancil
+    be: Tragulidae
+    be-tarask: Аленьчыкавыя
+    bg: Мишевидни елени
+    br: Tragulidae
+    ca: Tragúlid
+    ceb: Tragulidae
+    cs: kančilovití
+    da: Dværghjorte
+    de: Hirschferkel
+    de-ch: Hirschferkel
+    en: Tragulidae
+    en-ca: Chevrotain
+    en-gb: Chevrotain
+    eo: Tragoledoj
+    es: Tragulidae
+    et: Hirviklased
+    eu: Tragulidae
+    ext: Tragulidae
+    fa: موشآهو
+    fi: kääpiökauriit
+    fr: Tragulidae
+    frr: Sweraghirsker
+    ga: fia luiche
+    gl: Tragúlidos
+    he: איילוניים
+    hu: kancsilfélék
+    ia: Tragulidae
+    id: Tragulidae
+    ie: Tragulidae
+    io: Tragulidae
+    it: Tragulidae
+    ja: マメジカ
+    jv: Kancil
+    ka: ირმულასებრნი
+    kn: ಬರ್ಕ
+    ko: 작은사슴
+    la: Tragulidae
+    lt: Elniukiniai
+    mk: еленчиња
+    ml: ചെവ്റോടെയ്ൻ
+    mr: पिसोरी
+    ms: Chevrotain
+    mul: Tragulidae
+    my: ချေလှောင်
+    nb: Dvergmoskusdyr
+    nl: dwergherten
+    nn: dvergmoskusdyr
+    nv: Náátsʼózídę́ę́ʼ bįįhchilí
+    oc: Tragulidae
+    pl: Kanczylowate
+    pt: Trágulo
+    pt-br: Trágulo
+    ro: Tragulide
+    ru: Оленьковые
+    sq: Tragulidae
+    sv: Mushjortar
+    sw: Paa-chonge
+    ta: சருகுமான்
+    te: మౌస్ డీర్
+    th: วงศ์กระจง
+    tr: Cüce geyikgiller
+    ug: تراگۇلۇس بۇغىسى
+    uk: Tragulidae
+    uz: Bugʻuchalar
+    vi: Họ Cheo cheo
+    vls: Dwerghertn
+    vo: Tragulidae
+    war: Tragulidae
+    yue: 鼷鹿科
+    zh: 鼷鹿科
+    zh-cn: 鼷鹿科
+    zh-hans: 鼷鹿科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

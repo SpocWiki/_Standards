@@ -1,10 +1,38 @@
 ---
 aliases:
-  - Dictator game
-  - Dictator_Game
-  - Dictator Game
+- Dictator game
+- Dictator_Game
+- diktatorludo
+- Diktatorspillet
+- Gra dyktator
+- Jeu du dictateur
+- Juego del dictador
+- O Jogo do Ditador
+- Vertrauensspiel
+- Диктатор (игра)
+- משחק הדיקטטור
+- بازی دیکتاتور
+- 独裁者ゲーム
+- 独裁者博弈
+- 獨裁者博弈
+has_id_wikidata: Q2915979
+dv_has_:
+  name_:
+    da: Diktatorspillet
+    de: Vertrauensspiel
+    en: Dictator game
+    eo: diktatorludo
+    es: Juego del dictador
+    fa: بازی دیکتاتور
+    fr: Jeu du dictateur
+    he: משחק הדיקטטור
+    ja: 独裁者ゲーム
+    pl: Gra dyktator
+    pt: O Jogo do Ditador
+    ru: Диктатор (игра)
+    yue: 獨裁者博弈
+    zh: 独裁者博弈
 ---
-
 # [[Dictator_Game]]  
 
 #is_/similar_to :: [[Ultimatum_Game]] 

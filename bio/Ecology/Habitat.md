@@ -1,4 +1,179 @@
-
+---
+has_id_wikidata: Q52105
+dv_has_:
+  name_:
+    af: Habitat
+    an: Habitat
+    ar: موطن
+    ast: Hábitat
+    az: Areal
+    bas: lìyèènɛ́/hɔ̀ma
+    be: месцапражыванне
+    be-tarask: пражываньне
+    bg: Местообитание
+    bho: आवास
+    bjn: Habitat
+    ca: hàbitat
+    cs: habitat
+    cy: cynefin
+    da: habitat
+    de: Habitat
+    diq: Habitat
+    el: ενδιαίτημα
+    en: habitat
+    en-ca: Habitat
+    en-gb: habitat
+    eo: habitato
+    es: hábitat
+    et: elupaik
+    eu: habitat
+    fa: زیستگاه
+    fi: elinympäristö
+    fr: habitat
+    fy: Habitat
+    ga: gnáthóg
+    gd: Àrainn
+    gl: hábitat
+    he: בית גידול
+    hi: पर्यावास
+    hr: stanište
+    hu: élőhely
+    hy: Հաբիթաթ (բնակավայր)
+    id: habitat
+    ig: habitat
+    is: Búsvæði
+    it: habitat
+    ja: 生息地
+    jv: Habitat
+    ka: ჰაბიტატი
+    kk: Ареал
+    kn: ಆವಾಸಸ್ಥಾನ
+    ko: 서식지
+    ku-latn: habîtat
+    kw: bewva
+    la: Habitatio
+    lt: buveinė
+    lv: dzīvotne
+    mk: живеалиште
+    ml: വാസസ്ഥലം
+    ms: Habitat
+    mzn: زیوشجا
+    nan: senn-thuànn-tè
+    nan-hani: 生湠地
+    nan-hant: 生湠地
+    nb: habitat
+    nl: habitat
+    nn: habitat
+    nqo: ߡߊ߬ߞߍ߬ߦߙߐ
+    oc: Abitat
+    pcm: Abitant
+    pih: Habitat
+    pl: siedlisko
+    ps: مېشتځای (هبیتات)
+    pt: habitat
+    pt-br: habitat
+    ro: habitat
+    ru: местообитание
+    sah: Ареал
+    scn: Ambienti
+    sco: habitat
+    se: eallinbiras
+    sl: habitat
+    smj: iellembirás
+    smn: eellimpiirâs
+    sms: jieʹllempirrõs
+    sq: habitat
+    sr: ареал
+    sr-ec: станиште
+    su: Habitat
+    sv: habitat
+    sw: Makazi
+    ta: வாழிடம்
+    tg: Зиистгоҳ
+    th: ที่อยู่อาศัย
+    tk: Areal
+    tl: hunterlands
+    tr: yaşam alanı
+    tt: Areal
+    udm: улон инты
+    uk: природне оселище
+    ur: مسکن (بیئیات)
+    uz: Yashash joyi
+    vec: habitat
+    vi: sinh cảnh
+    wuu: 栖息地
+    xh: I-Habitat
+    yue: 棲息地
+    zh: 棲息地
+    zh-cn: 棲息地
+    zh-hant: 棲息地
+    zh-tw: 棲息地
+aliases:
+- Abitant
+- Abitat
+- Ambienti
+- Areal
+- bewva
+- buveinė
+- Búsvæði
+- cynefin
+- dzīvotne
+- eallinbiras
+- eellimpiirâs
+- elinympäristö
+- elupaik
+- gnáthóg
+- habitat
+- Habitatio
+- habitato
+- habîtat
+- hunterlands
+- hàbitat
+- hábitat
+- I-Habitat
+- iellembirás
+- jieʹllempirrõs
+- lìyèènɛ́/hɔ̀ma
+- Makazi
+- senn-thuànn-tè
+- siedlisko
+- sinh cảnh
+- stanište
+- Yashash joyi
+- yaşam alanı
+- Àrainn
+- élőhely
+- ενδιαίτημα
+- ареал
+- живеалиште
+- Зиистгоҳ
+- местообитание
+- месцапражыванне
+- пражываньне
+- природне оселище
+- станиште
+- улон инты
+- Հաբիթաթ (բնակավայր)
+- בית גידול
+- زیستگاه
+- زیوشجا
+- مسکن (بیئیات)
+- موطن
+- مېشتځای (هبیتات)
+- ߡߊ߬ߞߍ߬ߦߙߐ
+- आवास
+- पर्यावास
+- வாழிடம்
+- ಆವಾಸಸ್ಥಾನ
+- വാസസ്ഥലം
+- ที่อยู่อาศัย
+- ჰაბიტატი
+- 栖息地
+- 棲息地
+- 生息地
+- 生湠地
+- 서식지
+---
 # [[Habitat]] 
 
 #is_/same_as :: [[WD~Habitat,52105]] 

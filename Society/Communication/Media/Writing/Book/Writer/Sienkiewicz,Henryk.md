@@ -1,83 +1,116 @@
 ---
 aliases:
-  - Henryk_Sienkiewicz
-  - Henryk Adam Aleksander Pius Sienkiewicz
-  - Henryk Sienkiewicz
-  - Sienkiewicz
-  - Litwos
-  - Sienkiewicz,Henryk
+- Henricus Sienkiewicz
+- Henrik Senkeviç
+- Henrikas Senkevičius
+- Henriks Senkevičs
+- Henryk Adam Aleksander Pius Sienkiewicz
+- Henryk Sienkiewicz
+- Henryk_Sienkiewicz
+- Litwos
+- Senkevich Genrik
+- Sienkiewicz
+- Sienkiewicz,Henryk
+- Χένρικ Σιενκιέβιτς
+- Генрик Сенкевич
+- Генрык Сянкевіч
+- Хенрик Сјенкјевич
+- Хенрик Сенкевич
+- Хенрик Сиенкевич
+- Хенрик Шенкевич
+- Һенрик Сенкевич
+- Հենրիկ Սենկևիչ
+- הנריק סנקביץ'
+- هنريك سينكيفيتش
+- هنریک سینکیهویچ
+- هنریک سینکیویچ
+- هېنريک سېنکېويچ
+- ہینرک سائنکائیوکز
+- ہینرک شنگوچ
+- हेन्रिक सींकीविक्ज़
+- হেনরিক শেঙ্ক্যেভিচ
+- ਹੈਨਰਿਕ ਸੈਂਕੀਏਵਿੱਚ
+- ಹೆನ್ರಿಕ್ ಶೆಂಕ್ಯೆವಿಚ್
+- ഹെൻറിക്ക് ഷെൻകിയേവിച്ച്
+- แคนรึก แชงกีเยวิตช์
+- ჰენრიკ სენკევიჩი
+- ヘンリク・シェンキェヴィチ
+- 亨利克·亞當·亞歷山大·皮烏斯·显克微支
+- 亨利克·显克微支
+- 軒克維奇
+- 헨리크 시엔키에비치
 has_id_wikidata: Q41502
 place_of_death: '[[_Standards/WikiData/WD~Vevey,68160]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Learning,740370]]'
-  - '[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-  - '[[_Standards/WikiData/WD~Polskie_Towarzystwo_Tatrzanskie,11822817]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Academy_of_Learning,740370]]'
+- '[[_Standards/WikiData/WD~Serbian_Academy_of_Sciences_and_Arts,1132636]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Polskie_Towarzystwo_Tatrzanskie,11822817]]'
 genre:
-  - '[[_Standards/WikiData/WD~reportage,124922]]'
-  - '[[_Standards/WikiData/WD~novella,149537]]'
-  - '[[_Standards/WikiData/WD~feuilleton,193195]]'
-  - '[[_Standards/WikiData/WD~short_novel,12799318]]'
-  - '[[_Standards/WikiData/WD~short_story,49084]]'
+- '[[_Standards/WikiData/WD~reportage,124922]]'
+- '[[_Standards/WikiData/WD~novella,149537]]'
+- '[[_Standards/WikiData/WD~feuilleton,193195]]'
+- '[[_Standards/WikiData/WD~short_novel,12799318]]'
+- '[[_Standards/WikiData/WD~short_story,49084]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Warsaw,144488]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Quo_Vadis,335315]]'
-  - '[[_Standards/WikiData/WD~With_Fire_and_Sword,927292]]'
-  - '[[_Standards/WikiData/WD~The_Knights_of_the_Cross,1214098]]'
-  - '[[_Standards/WikiData/WD~Fire_in_the_Steppe,2389340]]'
-  - '[[_Standards/WikiData/WD~The_Deluge,2635106]]'
-  - '[[_Standards/WikiData/WD~In_Desert_and_Wilderness,2981270]]'
-  - '[[_Standards/WikiData/WD~Janko_Muzykant,11719936]]'
+- '[[_Standards/WikiData/WD~Quo_Vadis,335315]]'
+- '[[_Standards/WikiData/WD~With_Fire_and_Sword,927292]]'
+- '[[_Standards/WikiData/WD~The_Knights_of_the_Cross,1214098]]'
+- '[[_Standards/WikiData/WD~Fire_in_the_Steppe,2389340]]'
+- '[[_Standards/WikiData/WD~The_Deluge,2635106]]'
+- '[[_Standards/WikiData/WD~In_Desert_and_Wilderness,2981270]]'
+- '[[_Standards/WikiData/WD~Janko_Muzykant,11719936]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Adam,347181]]'
-  - '[[_Standards/WikiData/WD~Pius,1236883]]'
-  - '[[_Standards/WikiData/WD~Henryk,13584864]]'
-  - '[[_Standards/WikiData/WD~Aleksander,17520844]]'
+- '[[_Standards/WikiData/WD~Adam,347181]]'
+- '[[_Standards/WikiData/WD~Pius,1236883]]'
+- '[[_Standards/WikiData/WD~Henryk,13584864]]'
+- '[[_Standards/WikiData/WD~Aleksander,17520844]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
-  - '[[_Standards/WikiData/WD~aortic_aneurysm,616003]]'
+- '[[_Standards/WikiData/WD~cardiovascular_disease,389735]]'
+- '[[_Standards/WikiData/WD~aortic_aneurysm,616003]]'
 coat_of_arms: '[[_Standards/WikiData/WD~Oszyk_coat_of_arms,580674]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Q14271809,14271809]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Q14271809,14271809]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 place_of_burial: "[[_Standards/WikiData/WD~St._John's_Archcathedral,648754]]"
 movement:
-  - '[[_Standards/WikiData/WD~Positivism_in_Poland,735828]]'
-  - '[[_Standards/WikiData/WD~Q11761905,11761905]]'
+- '[[_Standards/WikiData/WD~Positivism_in_Poland,735828]]'
+- '[[_Standards/WikiData/WD~Q11761905,11761905]]'
 occupation:
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Wola_Okrzejska,2750458]]'
 employer: '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 field_of_work: '[[_Standards/WikiData/WD~fiction,8253972]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Henryk_Sienkiewicz,9288700]]'
-  - '[[_Standards/WikiData/WD~Henryk_Sienkiewicz,43982475]]'
+- '[[_Standards/WikiData/WD~Henryk_Sienkiewicz,9288700]]'
+- '[[_Standards/WikiData/WD~Henryk_Sienkiewicz,43982475]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Maria_Szetkiewicz,22248397]]'
-  - '[[_Standards/WikiData/WD~Maria_Romanowska_Wołodkowicz,22248506]]'
-  - '[[_Standards/WikiData/WD~Maria_Babska,22248539]]'
+- '[[_Standards/WikiData/WD~Maria_Szetkiewicz,22248397]]'
+- '[[_Standards/WikiData/WD~Maria_Romanowska_Wołodkowicz,22248506]]'
+- '[[_Standards/WikiData/WD~Maria_Babska,22248539]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Portrait_of_Henryk_Sienkiewicz,25918384]]'
-  - '[[_Standards/WikiData/WD~Portrait_of_Henryk_Sienkiewicz,104766281]]'
-  - '[[_Standards/WikiData/WD~Portrait_of_Henryk_Sienkiewicz.,133567132]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Henryk_Sienkiewicz,25918384]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Henryk_Sienkiewicz,104766281]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Henryk_Sienkiewicz.,133567132]]'
 child: '[[_Standards/WikiData/WD~Jadwiga_Korniłowiczowa,28025935]]'
 family_name: '[[_Standards/WikiData/WD~Q37476429,37476429]]'
 family: '[[_Standards/WikiData/WD~House_of_Sienkiwicz,63531613]]'
@@ -88,8 +121,8 @@ writing_language: '[[_Standards/WikiData/WD~Polish,809]]'
 native_language: '[[_Standards/WikiData/WD~Polish,809]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Polish,809]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
-  - '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+- '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Poland,36]]'
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
@@ -113,10 +146,115 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Henryk%20Sienkiewi
 handwriting_example: http://commons.wikimedia.org/wiki/Special:FilePath/Krzyzacy-rekopis.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Sienkiewicz%20grave.JPG
 ISNI:
-  - 0000000118740101
-  - 0000000368617560
+- 0000000118740101
+- 0000000368617560
+dv_has_:
+  name_:
+    af: Henryk Sienkiewicz
+    an: Henryk Sienkiewicz
+    ar: هنريك سينكيفيتش
+    arz: هنريك سينكيفيتش
+    ast: Henryk Sienkiewicz
+    avk: Henryk Sienkiewicz
+    az: Henrik Senkeviç
+    azb: هنریک سینکیهویچ
+    ba: Генрик Сенкевич
+    be: Генрык Сянкевіч
+    be-tarask: Генрык Сянкевіч
+    bg: Хенрик Сенкевич
+    bn: হেনরিক শেঙ্ক্যেভিচ
+    br: Henryk Sienkiewicz
+    bs: Henryk Sienkiewicz
+    ca: Henryk Sienkiewicz
+    crh: Henrik Senkeviç
+    cs: Henryk Sienkiewicz
+    cy: Henryk Sienkiewicz
+    da: Henryk Sienkiewicz
+    de: Henryk Sienkiewicz
+    diq: Henryk Sienkiewicz
+    dsb: Henryk Sienkiewicz
+    ee: Henryk Sienkiewicz
+    el: Χένρικ Σιενκιέβιτς
+    en: Henryk Sienkiewicz
+    en-ca: Henryk Sienkiewicz
+    en-gb: Henryk Sienkiewicz
+    en-us: Henryk Sienkiewicz
+    eo: Henryk Sienkiewicz
+    es: Henryk Sienkiewicz
+    et: Henryk Sienkiewicz
+    eu: Henryk Sienkiewicz
+    fa: هنریک سینکیهویچ
+    fi: Henryk Sienkiewicz
+    fr: Henryk Sienkiewicz
+    ga: Henryk Sienkiewicz
+    gd: Henryk Sienkiewicz
+    gl: Henryk Sienkiewicz
+    hak: Henryk Sienkiewicz
+    he: הנריק סנקביץ'
+    hi: हेन्रिक सींकीविक्ज़
+    hr: Henryk Sienkiewicz
+    hsb: Henryk Sienkiewicz
+    hu: Henryk Sienkiewicz
+    hy: Հենրիկ Սենկևիչ
+    id: Henryk Adam Aleksander Pius Sienkiewicz
+    ilo: Henryk Sienkiewicz
+    io: Henryk Sienkiewicz
+    is: Henryk Sienkiewicz
+    it: Henryk Sienkiewicz
+    ja: ヘンリク・シェンキェヴィチ
+    ka: ჰენრიკ სენკევიჩი
+    kk: Генрик Сенкевич
+    kn: ಹೆನ್ರಿಕ್ ಶೆಂಕ್ಯೆವಿಚ್
+    ko: 헨리크 시엔키에비치
+    ku: Henryk Sienkiewicz
+    la: Henricus Sienkiewicz
+    lfn: Henryk Sienkiewicz
+    lt: Henrikas Senkevičius
+    lv: Henriks Senkevičs
+    mg: Henryk Sienkiewicz
+    mk: Хенрик Шенкевич
+    ml: ഹെൻറിക്ക് ഷെൻകിയേവിച്ച്
+    mn: Хенрик Сиенкевич
+    ms: Henryk Sienkiewicz
+    mul: Henryk Sienkiewicz
+    mzn: هنریک سینکیویچ
+    nan: Henryk Sienkiewicz
+    nb: Henryk Sienkiewicz
+    nl: Henryk Sienkiewicz
+    nn: Henryk Sienkiewicz
+    oc: Henryk Sienkiewicz
+    pa: ਹੈਨਰਿਕ ਸੈਂਕੀਏਵਿੱਚ
+    pl: Henryk Sienkiewicz
+    pms: Henryk Sienkiewicz
+    pnb: ہینرک سائنکائیوکز
+    ps: هېنريک سېنکېويچ
+    pt: Henryk Sienkiewicz
+    pt-br: Henryk Sienkiewicz
+    qu: Henryk Sienkiewicz
+    ro: Henryk Sienkiewicz
+    ru: Генрик Сенкевич
+    rue: Генрик Сенкевич
+    sh: Henryk Sienkiewicz
+    sk: Henryk Sienkiewicz
+    sl: Henryk Sienkiewicz
+    sq: Henryk Sienkiewicz
+    sr: Хенрик Сјенкјевич
+    sv: Henryk Sienkiewicz
+    sw: Henryk Sienkiewicz
+    th: แคนรึก แชงกีเยวิตช์
+    tr: Henryk Sienkiewicz
+    tt: Һенрик Сенкевич
+    uk: Генрик Сенкевич
+    ur: ہینرک شنگوچ
+    uz: Senkevich Genrik
+    vi: Henryk Sienkiewicz
+    war: Henryk Sienkiewicz
+    wuu: 亨利克·显克微支
+    xmf: ჰენრიკ სენკევიჩი
+    yo: Henryk Sienkiewicz
+    yue: 軒克維奇
+    zh: 亨利克·亞當·亞歷山大·皮烏斯·显克微支
 ---
-
 # [[Sienkiewicz,Henryk]] 
 
 #is_/same_as :: [[WD~Henryk_Sienkiewicz,41502]] 

@@ -1,8 +1,96 @@
 ---
-has_time_started: 1900-01-01 
+has_time_started: 1900-01-01
 aliases:
-  - Genetik
-  - Genetics
+- Aqoonta dirtiris
+- Baranyira
+- bomawezanî
+- Chenetica
+- Cênetik
+- di truyền học
+- Erflikheidslear
+- erfðafræði
+- Essomabuzaale
+- Geneetik
+- geneetika
+- Geneteg
+- Genetica
+- Genetics
+- genetică
+- genetihke
+- genetihkka
+- genetiik
+- Genetik
+- Genetika
+- genetike
+- genetikk
+- genetiko
+- genetyka
+- genetîk
+- genètica
+- genética
+- ginske
+- Gintinneachd
+- Gjenetika
+- géineolaíocht
+- génétique
+- henetika
+- Hinitika
+- iranga
+- Jeneetiik
+- Jenetica
+- Jenetik
+- Jenitikia
+- Jinetix
+- Jénétik
+- Maũthĩ (genetics)
+- Nastopa
+- perinnöllisyystiede
+- xenética
+- Ìṣiṣẹ́àbínimọ́
+- Ûi-thoân-ha̍k
+- ġenetika
+- ģenētika
+- γενετική
+- Генетик
+- генетикæ
+- Генетика
+- Генетикась
+- Генетике
+- генетыка
+- генэтыка
+- офаринишшиносӣ
+- գենետիկա
+- גנטיקה
+- גענעטיק
+- جنتیک
+- جينياتي سائنس
+- جینیٹکس
+- جێنەتیک
+- علم الوراثة
+- وراثیات
+- ژنتیک
+- ݢينيتيک
+- अनुवांशिकी
+- आनुवंशिकी
+- आनुवांशिकता
+- वंशाणुगत विज्ञान
+- বংশাণুবিজ্ঞান
+- மரபியல்
+- జన్యుశాస్త్రం
+- ತಳಿವಿಜ್ಞಾನ
+- ജനിതകശാസ്ത്രം
+- ප්රවේනි විද්යාව
+- พันธุศาสตร์
+- ພັນທຸສາດ
+- ဂျင်နက်တစ်ပညာ
+- გენეტიკა
+- ሥነ ባህርይ
+- ᎤᎾᏓᏰᎶᏒ ᎠᎦᏎᏍᏔᏅ
+- ពន្ធុវិទ្យា
+- 遗传学
+- 遺伝学
+- 遺傳學
+- 유전학
 has_id_wikidata: Q7162
 All_Science_Journal_Classification_Codes: 1311
 Basisklassifikation: 42.20
@@ -24,15 +112,15 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_genetics,7112645]]'
 different_from: '[[_Standards/WikiData/WD~genology,3508604]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Erich_von_Tschermak,93385]]'
-  - '[[_Standards/WikiData/WD~Hugo_de_Vries,160192]]'
-  - '[[_Standards/WikiData/WD~Gregor_Mendel,37970]]'
-  - '[[_Standards/WikiData/WD~Carl_Correns,62096]]'
+- '[[_Standards/WikiData/WD~Erich_von_Tschermak,93385]]'
+- '[[_Standards/WikiData/WD~Hugo_de_Vries,160192]]'
+- '[[_Standards/WikiData/WD~Gregor_Mendel,37970]]'
+- '[[_Standards/WikiData/WD~Carl_Correns,62096]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_genetics,465920]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
+- '[[_Standards/WikiData/WD~science,336]]'
 inception: 1900-01-01T00:00:00Z
 is_the_study_of: '[[_Standards/WikiData/WD~genome,7020]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gene.png
@@ -43,11 +131,167 @@ subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
 social_media_followers: 87661
 subreddit: genetics
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Genetics,6339146]]'
-  - '[[_Standards/WikiData/WD~Template_Genetics_sidebar,12269758]]'
+- '[[_Standards/WikiData/WD~Template_Genetics,6339146]]'
+- '[[_Standards/WikiData/WD~Template_Genetics_sidebar,12269758]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genetics,11046531]]'
+dv_has_:
+  name_:
+    af: Genetika
+    am: ሥነ ባህርይ
+    an: Chenetica
+    ar: علم الوراثة
+    ast: xenética
+    av: Генетика
+    avk: Nastopa
+    az: Genetika
+    azb: ژنتیک
+    ba: генетика
+    ban: Genetika
+    be: генетыка
+    be-tarask: генэтыка
+    bg: Генетика
+    bn: বংশাণুবিজ্ঞান
+    br: Genetik
+    bs: genetika
+    ca: genètica
+    ce: Генетика
+    chr: ᎤᎾᏓᏰᎶᏒ ᎠᎦᏎᏍᏔᏅ
+    ckb: جێنەتیک
+    cs: genetika
+    cv: Генетика
+    cy: Geneteg
+    da: genetik
+    de: Genetik
+    diq: Cênetik
+    el: γενετική
+    en: genetics
+    en-ca: Genetics
+    en-gb: genetics
+    eo: genetiko
+    es: genética
+    et: geneetika
+    eu: genetika
+    ext: Genética
+    fa: ژنتیک
+    fi: perinnöllisyystiede
+    fr: génétique
+    fy: Erflikheidslear
+    ga: géineolaíocht
+    gcr: Jénétik
+    gd: Gintinneachd
+    gl: xenética
+    gor: Genetika
+    gsw: Genetik
+    ha: Genetics
+    he: גנטיקה
+    hi: आनुवंशिकी
+    hr: genetika
+    ht: Jenetik
+    hu: genetika
+    hy: գենետիկա
+    ia: genetica
+    id: Genetika
+    ie: Genetica
+    io: Genetiko
+    is: erfðafræði
+    it: genetica
+    ja: 遺伝学
+    jam: Jinetix
+    jbo: ginske
+    jv: Genetika
+    ka: გენეტიკა
+    ki: Maũthĩ (genetics)
+    kk: Генетика
+    km: ពន្ធុវិទ្យា
+    kn: ತಳಿವಿಜ್ಞಾನ
+    ko: 유전학
+    ku: genetîk
+    ku-latn: bomawezanî
+    ky: Генетика
+    la: Genetica
+    lb: Geneetik
+    lfn: Jenetica
+    lg: Essomabuzaale
+    lld: Genetica
+    lo: ພັນທຸສາດ
+    lt: genetika
+    lv: ģenētika
+    mad: Genetika
+    mdf: Генетикась
+    mhr: Генетике
+    mi: iranga
+    min: Genetika
+    mk: генетика
+    ml: ജനിതകശാസ്ത്രം
+    mn: Генетик
+    ms: genetik
+    ms-arab: ݢينيتيک
+    mt: ġenetika
+    my: ဂျင်နက်တစ်ပညာ
+    nan: Ûi-thoân-ha̍k
+    nb: genetikk
+    ne: आनुवांशिकता
+    new: वंशाणुगत विज्ञान
+    nl: genetica
+    nn: genetikk
+    nov: genetike
+    oc: Genetica
+    om: Jeneetiik
+    os: генетикæ
+    pap: Genetica
+    pl: genetyka
+    pnb: جینیٹکس
+    ps: جنتیک
+    pt: genética
+    pt-br: genética
+    qu: Hinitika
+    ro: genetică
+    ru: генетика
+    rue: Генетика
+    sa: अनुवांशिकी
+    sah: Генетика
+    sco: genetics
+    sd: جينياتي سائنس
+    se: genetihkka
+    sh: Genetika
+    si: ප්රවේනි විද්යාව
+    sk: genetika
+    sl: genetika
+    sma: genetihke
+    smj: genetihkka
+    smn: genetiik
+    sms: genetikk
+    sn: Baranyira
+    so: Aqoonta dirtiris
+    sq: Gjenetika
+    sr: генетика
+    sr-ec: генетика
+    su: Genetika
+    sv: genetik
+    sw: Jenitikia
+    ta: மரபியல்
+    te: జన్యుశాస్త్రం
+    tg: офаринишшиносӣ
+    th: พันธุศาสตร์
+    tl: henetika
+    tr: genetik
+    tt: генетика
+    tyv: Генетика
+    udm: генетика
+    uk: генетика
+    ur: وراثیات
+    uz: Genetika
+    vi: di truyền học
+    war: Henetika
+    wuu: 遗传学
+    xmf: გენეტიკა
+    yi: גענעטיק
+    yo: Ìṣiṣẹ́àbínimọ́
+    yue: 遺傳學
+    zh: 遗传学
+    zh-hant: 遺傳學
+    zh-tw: 遺傳學
 ---
-
 # [[Genetics]] 
 
 #is_/same_as :: [[../WikiData/WD~Genetics,7162|WD~Genetics,7162]] 

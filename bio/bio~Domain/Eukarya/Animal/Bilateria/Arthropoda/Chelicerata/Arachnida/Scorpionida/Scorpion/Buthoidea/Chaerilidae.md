@@ -1,9 +1,50 @@
 ---
 aliases:
-  - Chaerilidae
+- Chaerilidae
+- 寇里蝎科
 title: Chaerilus
+has_id_wikidata: Q2947474
+dv_has_:
+  name_:
+    an: Chaerilidae
+    ast: Chaerilidae
+    bg: Chaerilidae
+    ca: Chaerilidae
+    ceb: Chaerilidae
+    de: Chaerilidae
+    en: Chaerilidae
+    eo: Chaerilidae
+    es: Chaerilidae
+    eu: Chaerilidae
+    ext: Chaerilidae
+    fi: Chaerilidae
+    fr: Chaerilidae
+    ga: Chaerilidae
+    gl: Chaerilidae
+    ia: Chaerilidae
+    ie: Chaerilidae
+    io: Chaerilidae
+    it: Chaerilidae
+    la: Chaerilidae
+    mul: Chaerilidae
+    nb: Chaerilidae
+    nl: Chaerilidae
+    oc: Chaerilidae
+    pl: Chaerilidae
+    pt: Chaerilidae
+    pt-br: Chaerilidae
+    ro: Chaerilidae
+    ru: Chaerilidae
+    sq: Chaerilidae
+    tr: Chaerilidae
+    uk: Chaerilidae
+    vi: Chaerilidae
+    vo: Chaerilidae
+    war: Chaerilidae
+    zh: 寇里蝎科
+    zh-cn: 寇里蝎科
+    zh-hans: 寇里蝎科
 ---
-
 ## [[Chaerilidae]] 
 
 # Chaerilus 

@@ -1,55 +1,247 @@
 ---
 aliases:
+- bintang neutron
+- estela de neutrons
+- estrela de neutrons
+- estrela de neutróns
+- estrela de neutrões
+- estrela de nêutrons
+- estrella de neutrones
+- estrella de neutrons
+- etwal a netwon
+- gwiazda neutronowa
+- neitronu zvaigzne
+- neodrónréalta
+- neutroi-izar
+- neutron kalokalo
+- neutron star
+- neutroncsillag
+- neutronenster
+- Neutronenstern
+- Neutronestär
+- neutroninė žvaigždė
+- neutronitähti
+- neutronnásti
+- neutronová hvězda
+- neutronska zvezda
+- neutronska zvijezda
+- neutronster
+- neutronstjerne
+- neutronstjärna
+- neutrontäht
+- neutrontäsni
+- neutroontäʹsnn
+- neutrónová hviezda
+- nevtronska zvezda
+- neytron ulduzu
+- neytron yulduzlar
+- neùtronowô gwiôzda
+- neŭtrona stelo
+- nifteindastjörnur
+- Nyenyezi ya nyutironi
+- nötron yıldızı
+- nøytronstjerne
+- sao neutron
+- seren niwtron
+- stea neutronică
+- stella di neutroni
+- stella neutronica
+- stidda di niutroni
+- stéla 'd neutròṅ
+- yjet neutronik
+- étoile à neutrons
+- Αστέρας νετρονίων
+- нейтрон жылдызы
+- нейтрон йолдыз
+- нейтрондық жұлдыздар
+- нейтронна зоря
+- нейтронная звезда
+- нейтронная зорка
+- неутронна звезда
+- неутронска ѕвезда
+- неутронска звезда
+- нэўтронная зорка
+- Նեյտրոնային աստղ
+- כוכב נייטרונים
+- ئەستێرەی نیوترۆنی
+- ستاره نوترونی
+- نجم نيوتروني
+- نوترون اولدوزو
+- نیوتروني ستوری
+- نیوٹرون تارہ
+- न्युट्रन तारा
+- न्यूट्रॉन तारा
+- নিউট্রন তারা
+- নিউট্ৰন তৰা
+- ਨਿਉਟ੍ਰੋਨ ਤਾਰਾ
+- ન્યુટ્રોન સ્ટાર
+- நொதுமி விண்மீன்
+- న్యూట్రాన్ తార
+- ന്യൂട്രോൺ നക്ഷത്രം
+- නියුට්රෝන තරු
+- ดาวนิวตรอน
+- နယူထရွန်ကြယ်
+- ნეიტრონული ვარსკვლავი
+- 中子星
+- 中性子星
+- 중성자별
 has_id_wikidata: Q4202
-subclass_of: "[[_Standards/WikiData/WD~compact_star,368442]]"
-part_of: "[[_Standards/WikiData/WD~Thorne_Żytkow_object,2296150]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Neutron_star,14402853]]"
+subclass_of: '[[_Standards/WikiData/WD~compact_star,368442]]'
+part_of: '[[_Standards/WikiData/WD~Thorne_Żytkow_object,2296150]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neutron_star,14402853]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-  - "[[_Standards/WikiData/WD~astronomical_object,6999]]"
-different_from: "[[_Standards/WikiData/WD~Q25382797,25382797]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-made_from_material: "[[_Standards/WikiData/WD~Neutron_degenerate_matter,132398961]]"
-studied_by: "[[_Standards/WikiData/WD~astrophysics,37547]]"
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+different_from: '[[_Standards/WikiData/WD~Q25382797,25382797]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+made_from_material: '[[_Standards/WikiData/WD~Neutron_degenerate_matter,132398961]]'
+studied_by: '[[_Standards/WikiData/WD~astrophysics,37547]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Moving%20heart%20of%20the%20Crab%20Nebula.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20collision.ogv
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-cs.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-es.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-gl.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-it.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-ka.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-lv.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-nl.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-sk.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-sv.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section%20hy.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutronstarsimple-ru.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neutronstarsimple.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-cs.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-es.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-gl.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-it.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-ka.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-lv.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-nl.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-sk.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section-sv.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20cross%20section%20hy.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutronstarsimple-ru.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neutronstarsimple.png
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/NETRONNAYA_ZVEZDA.html
 Commons_category: Neutron stars
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Neutron_star,4202]]"
-    - "[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]"
-    - "[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]"
-    - "[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]"
-    - "[[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]]"
-    - "[[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]]"
-    - "[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]"
-    - "[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]"
+  - '[[../../../WikiData/WD~Neutron_star,4202]]'
+  - '[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]'
+  - '[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]'
+  - '[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]'
+  - '[[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]]'
+  - '[[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]]'
+  - '[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]'
+  - '[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Neutron_star,4202]]"
-  - "[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]"
-  - "[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]"
-  - "[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]"
-  - "[[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]]"
-  - "[[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]]"
-  - "[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]"
-  - "[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]"
+- '[[../../../WikiData/WD~Neutron_star,4202]]'
+- '[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]'
+- '[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]'
+- '[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]'
+- '[[/_protect/Astronomy/Star/Star~Class/Neutron_Star.protect|Neutron_Star.protect]]'
+- '[[/_private/Astronomy/Star/Star~Class/Neutron_Star.private|Neutron_Star.private]]'
+- '[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]'
+- '[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]'
+dv_has_:
+  name_:
+    af: neutronster
+    an: estrela de neutrons
+    anp: न्यूट्रॉन तारा
+    ar: نجم نيوتروني
+    as: নিউট্ৰন তৰা
+    ast: estrella de neutrones
+    az: neytron ulduzu
+    azb: نوترون اولدوزو
+    be: нейтронная зорка
+    be-tarask: нэўтронная зорка
+    bg: неутронна звезда
+    bn: নিউট্রন তারা
+    bs: neutronska zvijezda
+    ca: estrella de neutrons
+    ckb: ئەستێرەی نیوترۆنی
+    cs: neutronová hvězda
+    csb: neùtronowô gwiôzda
+    cy: seren niwtron
+    da: neutronstjerne
+    de: Neutronenstern
+    el: Αστέρας νετρονίων
+    eml: stéla 'd neutròṅ
+    en: neutron star
+    eo: neŭtrona stelo
+    es: estrella de neutrones
+    et: neutrontäht
+    eu: neutroi-izar
+    fa: ستاره نوترونی
+    fi: neutronitähti
+    fj: neutron kalokalo
+    fr: étoile à neutrons
+    ga: neodrónréalta
+    gl: estrela de neutróns
+    gu: ન્યુટ્રોન સ્ટાર
+    he: כוכב נייטרונים
+    hi: न्यूट्रॉन तारा
+    hr: neutronska zvijezda
+    ht: etwal a netwon
+    hu: neutroncsillag
+    hy: Նեյտրոնային աստղ
+    id: bintang neutron
+    is: nifteindastjörnur
+    it: stella di neutroni
+    ja: 中性子星
+    ka: ნეიტრონული ვარსკვლავი
+    kk: нейтрондық жұлдыздар
+    ko: 중성자별
+    ky: нейтрон жылдызы
+    la: stella neutronica
+    lb: Neutronestär
+    lt: neutroninė žvaigždė
+    lv: neitronu zvaigzne
+    lzh: 中子星
+    min: bintang neutron
+    mk: неутронска ѕвезда
+    ml: ന്യൂട്രോൺ നക്ഷത്രം
+    mr: न्यूट्रॉन तारा
+    ms: bintang neutron
+    my: နယူထရွန်ကြယ်
+    nb: nøytronstjerne
+    ne: न्युट्रन तारा
+    nl: neutronenster
+    nn: nøytronstjerne
+    oc: estela de neutrons
+    pa: ਨਿਉਟ੍ਰੋਨ ਤਾਰਾ
+    pl: gwiazda neutronowa
+    pnb: نیوٹرون تارہ
+    ps: نیوتروني ستوری
+    pt: estrela de neutrões
+    pt-br: estrela de nêutrons
+    rki: နယူထရွန်ကြယ်
+    ro: stea neutronică
+    ru: нейтронная звезда
+    scn: stidda di niutroni
+    se: neutronnásti
+    sh: neutronska zvijezda
+    si: නියුට්රෝන තරු
+    sk: neutrónová hviezda
+    sl: nevtronska zvezda
+    smn: neutrontäsni
+    sms: neutroontäʹsnn
+    sq: yjet neutronik
+    sr: неутронска звезда
+    sr-ec: неутронска звезда
+    sr-el: neutronska zvezda
+    sv: neutronstjärna
+    ta: நொதுமி விண்மீன்
+    te: న్యూట్రాన్ తార
+    th: ดาวนิวตรอน
+    tr: nötron yıldızı
+    tt: нейтрон йолдыз
+    tum: Nyenyezi ya nyutironi
+    uk: нейтронна зоря
+    uz: neytron yulduzlar
+    vi: sao neutron
+    wuu: 中子星
+    yue: 中子星
+    zh: 中子星
+    zh-cn: 中子星
+    zh-hans: 中子星
+    zh-hant: 中子星
+    zh-hk: 中子星
+    zh-mo: 中子星
+    zh-my: 中子星
+    zh-sg: 中子星
+    zh-tw: 中子星
 ---
-
 # [[Neutron_Star]] 
 
 #is_/same_as :: [[WD~Neutron_star,4202]] 

@@ -1,19 +1,62 @@
 ---
 aliases:
-  - Down Quark
-  - Down_Quark
-  - Down-Quark
+- af-kwark
+- aşağı kuark
+- babang quark
+- behe quark
+- cuark abajo
+- d kvarks
+- d-kvark
+- d-kvarkki
+- d-kvarko
+- D-quarko
+- d-кварк
+- d-քվարկ
+- D-კვარკი
+- donji kvark
+- down kvark
+- Down Quark
+- down-kvark
+- Down-Quark
+- Down_Quark
+- kuark down
+- kuark turun
+- kvark d
+- kwark dolny
+- nedkvark
+- quarcum deorsum
+- quark abaixo
+- quark bas
+- quark d
+- quark down
+- quark embaxo
+- quark xuống
+- ubos nga quark
+- íoschuarc
+- žemyn kvarkas
+- долен кварк
+- קווארק למטה
+- كوارك سفلي
+- ڈاؤن کوارک
+- کوارک پایین
+- डाउन क्वार्क
+- ডাউন কোয়ার্ক
+- ডাউন কোৱাৰ্ক
+- ダウンクォーク
+- 下夸克
+- 아래 쿼크
+- 아래로쿼크
 has_id_wikidata: Q6745
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 antiparticle: '[[_Standards/WikiData/WD~down_antiquark,18481576]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~quark,6718]]'
-  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
 mass: 4.7
@@ -21,8 +64,71 @@ Monte_Carlo_Particle_Number: 1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Down%20quark.svg
 Wolfram_Language_entity_code: Entity["Particle", "DownQuark"]
 electric_charge: -0.3333333333333333
+dv_has_:
+  name_:
+    af: af-kwark
+    ar: كوارك سفلي
+    as: ডাউন কোৱাৰ্ক
+    ast: quark embaxo
+    be: d-кварк
+    be-tarask: d-кварк
+    bg: долен кварк
+    bn: ডাউন কোয়ার্ক
+    ca: quark d
+    cs: kvark d
+    da: down-kvark
+    de: Down-Quark
+    en: down quark
+    en-gb: down quark
+    eo: d-kvarko
+    es: cuark abajo
+    et: d-kvark
+    eu: behe quark
+    fa: کوارک پایین
+    fi: d-kvarkki
+    fr: quark bas
+    ga: íoschuarc
+    gl: quark abaixo
+    he: קווארק למטה
+    hi: डाउन क्वार्क
+    hr: donji kvark
+    hu: down kvark
+    hy: d-քվարկ
+    id: kuark down
+    io: D-quarko
+    it: quark down
+    ja: ダウンクォーク
+    ka: D-კვარკი
+    ko: 아래 쿼크
+    ko-kp: 아래로쿼크
+    la: quarcum deorsum
+    lt: žemyn kvarkas
+    lv: d kvarks
+    mk: долен кварк
+    ms: kuark turun
+    nb: nedkvark
+    nl: down quark
+    nn: d-kvark
+    oc: quark down
+    pl: kwark dolny
+    pnb: ڈاؤن کوارک
+    pt: quark down
+    ro: quark down
+    ru: d-кварк
+    sh: donji kvark
+    sk: kvark d
+    sl: kvark d
+    sr: donji kvark
+    tl: babang quark
+    tr: aşağı kuark
+    tt: d-kvark
+    uk: d-кварк
+    vi: quark xuống
+    war: ubos nga quark
+    wuu: 下夸克
+    yue: 下夸克
+    zh: 下夸克
 ---
-
 # [[Down Quark]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Down_quark,6745|WD~Down_quark,6745]] 

@@ -1,13 +1,144 @@
 ---
 aliases:
+- devinme
+- liukan
+- luainíocht
+- praecessio
+- precese
+- Precesia
+- Precesie
+- Precesija
+- Precesio
+- Precesiono
+- precesión
+- precesja
+- precessie
+- precession
+- precessione
+- precessió
+- precesszió
+- precessão
+- Precessïya jäne nwtacïya
+- Prekessio
+- Presesi
+- presesiad
+- presesjon
+- Presesyon
+- Pressesiya
+- Pretsessioon
+- Prezesio
+- Präzession
+- Præcession
+- précession
+- Tiến động
+- прецесія
+- прецесија
+- Прецесия
+- Прецесси
+- прецессия
+- Прецессия және нутация
+- прэцэсiя
+- прэцэсія
+- Պրեցեսիա
+- נקיפה
+- بدارية
+- بے دائریت
+- حرکت تقدیمی
+- پرەتسەسسىييا جانە نۋتاتسىييا
+- अयन
+- പുരസ്സരണം
+- การหมุนควง
+- პრეცესია
+- 歳差
+- 进动
+- 進動
+- 세차 운동
 has_id_wikidata: Q104225
-subclass_of: "[[_Standards/WikiData/WD~rotation,107617]]"
-described_by_source: "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-part_of: "[[_Standards/WikiData/WD~classical_mechanics,11397]]"
+subclass_of: '[[_Standards/WikiData/WD~rotation,107617]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+part_of: '[[_Standards/WikiData/WD~classical_mechanics,11397]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gyroscope%20precession.gif
 Commons_category: Precession
+dv_has_:
+  name_:
+    ar: بدارية
+    ast: Precesión
+    az: Pressesiya
+    be: прэцэсія
+    be-tarask: прэцэсiя
+    bg: Прецесия
+    ca: precessió
+    cs: precese
+    cv: Прецесси
+    cy: presesiad
+    da: Præcession
+    de: Präzession
+    en: precession
+    eo: Precesio
+    es: precesión
+    et: Pretsessioon
+    eu: Prezesio
+    fa: حرکت تقدیمی
+    fi: Prekessio
+    fr: précession
+    ga: luainíocht
+    gl: Precesión
+    he: נקיפה
+    hi: अयन
+    hr: Precesija
+    ht: Presesyon
+    hu: precesszió
+    hy: Պրեցեսիա
+    id: Presesi
+    io: Precesiono
+    it: precessione
+    ja: 歳差
+    ka: პრეცესია
+    kk: Прецессия және нутация
+    kk-arab: پرەتسەسسىييا جانە نۋتاتسىييا
+    kk-cn: پرەتسەسسىييا جانە نۋتاتسىييا
+    kk-cyrl: Прецессия және нутация
+    kk-kz: Прецессия және нутация
+    kk-latn: Precessïya jäne nwtacïya
+    kk-tr: Precessïya jäne nwtacïya
+    ko: 세차 운동
+    ky: Прецессия
+    la: praecessio
+    lt: precesija
+    lv: precesija
+    mk: прецесија
+    ml: പുരസ്സരണം
+    ms: liukan
+    nb: presesjon
+    nds: Präzession
+    nl: precessie
+    nn: presesjon
+    oc: Precession
+    pl: precesja
+    pt: precessão
+    ro: Precesie
+    ru: прецессия
+    sh: Precesija
+    sk: Precesia
+    sl: precesija
+    sr: Precesija
+    sv: Precession
+    th: การหมุนควง
+    tr: devinme
+    tt: Прецессия
+    uk: прецесія
+    ur: بے دائریت
+    vi: Tiến động
+    wuu: 进动
+    xmf: პრეცესია
+    zh: 進動
+    zh-cn: 进动
+    zh-hans: 进动
+    zh-hant: 進動
+    zh-hk: 進動
+    zh-sg: 进动
+    zh-tw: 進動
 ---
-
 # [[Precession]] 
 
 #is_/same_as :: [[WD~Precession,104225]] 

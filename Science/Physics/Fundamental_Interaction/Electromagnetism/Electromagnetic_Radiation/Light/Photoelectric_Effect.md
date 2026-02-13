@@ -1,26 +1,195 @@
 ---
 aliases:
+- efect fotoelectric
+- efecte fotoelèctric
+- efecto fotoeléctrico
+- efed luc'htredanel
+- efeito fotoelétrico
+- Efek fotolistrik
+- efekt fotoelektryczny
+- Efektu fotoelektriko
+- Efet fotoelétrich
+- Efeutu fotoeléctricu
+- Effaith ffotodrydanol
+- effet photoélectrique
+- effetto fotoelettrico
+- Epektong potoelektriko
+- foto-elektrisch effect
+- Fotoefekt
+- Fotoefektas
+- Fotoefekti
+- fotoeffekt
+- fotoelektra efiko
+- fotoelektrický jav
+- fotoelektrický jev
+- fotoelektrik effekt
+- fotoelektrik etki
+- Fotoelektrisk effekt
+- fotoelektriskais efekts
+- Fotoelektrični efekat
+- Fotoelektrični efekt
+- fotoelektrični pojav
+- Fotoelektrični učinak
+- fényelektromos jelenség
+- hiệu ứng quang điện
+- iarmhairt fhótaileictreach
+- Kesan fotoelektrik
+- Photoeffekt
+- photoelectric effect
+- photoelektrischer Effekt
+- Valosähköinen ilmiö
+- Éfék fotolistrik
+- Φωτοηλεκτρικό φαινόμενο
+- фотаэфект
+- фотаэфэкт
+- Фото-электрон үйлчлэл
+- Фотоелектричен ефект
+- фотоелектрични ефекат
+- фотоефект
+- фотоэлектрлік құбылыстар
+- фотоэффект
+- ֆոտոէֆեկտ
+- האפקט הפוטואלקטרי
+- اثر فوتوالکتریک
+- ضیا برقی اثر
+- ظاهرة كهرضوئية
+- فوتوالکتریک
+- فوٹو الیکٹرک ایفیکٹ
+- فوٹوٗ اِلؠکٹرک اَثَر
+- ڦوٽو اليڪٽرڪ اثر
+- کارگرایی فوتوالکتریک
+- کاریگەریی کارۆڕووناکی
+- प्रकाश विद्युत प्रभाव
+- प्रकाशीय विद्युत परिणाम
+- আলোক তড়িৎ ক্রিয়া
+- আলোক বিদ্যুৎ পৰিঘটনা
+- ਫੋਟੋਇਲੈਕਟ੍ਰਿਕ ਪ੍ਰਭਾਵ
+- પ્રકાશ-વિદ્યુતીય અસર
+- ଆଲୋକ-ବୈଦୁତିକ ପ୍ରଭାବ
+- ஒளிமின் விளைவு
+- ದ್ಯುತಿವಿದ್ಯುತ್ ಪರಿಣಾಮ
+- പ്രകാശവൈദ്യുത പ്രഭാവം
+- ปรากฏการณ์โฟโตอิเล็กทริก
+- ფოტოეფექტი
+- 光电效应
+- 光電効果
+- 光電效應
+- 광전 효과
+- 빛전기효과
 has_id_wikidata: Q83213
 instance_of:
-  - "[[_Standards/WikiData/WD~principle,211364]]"
-  - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
+- '[[_Standards/WikiData/WD~principle,211364]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-has_part_s_: "[[_Standards/WikiData/WD~photoelectron,11388587]]"
-solved_by: "[[_Standards/WikiData/WD~Albert_Einstein,937]]"
-subclass_of: "[[_Standards/WikiData/WD~quantum_mechanics,944]]"
-OmegaWiki_Defined_Meaning: "1113976"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_: '[[_Standards/WikiData/WD~photoelectron,11388587]]'
+solved_by: '[[_Standards/WikiData/WD~Albert_Einstein,937]]'
+subclass_of: '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+OmegaWiki_Defined_Meaning: 1113976
 Commons_gallery: Photoelectric effect
 Commons_category: Photoelectric effect
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Photoelectric%20effect%20in%20a%20solid%20-%20diagram.svg
 IEV_number:
-  - 395-02-08
-  - 881-02-84
+- 395-02-08
+- 881-02-84
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "PhotoelectricEffect"]
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/FOTOELEKTRICHESKI_EFFEKT.html
+dv_has_:
+  name_:
+    ar: ظاهرة كهرضوئية
+    as: আলোক বিদ্যুৎ পৰিঘটনা
+    ast: Efeutu fotoeléctricu
+    az: fotoelektrik effekt
+    azb: فوتوالکتریک
+    ba: фотоэффект
+    be: фотаэфект
+    be-tarask: фотаэфэкт
+    bg: Фотоелектричен ефект
+    bn: আলোক তড়িৎ ক্রিয়া
+    br: efed luc'htredanel
+    bs: Fotoelektrični efekat
+    ca: efecte fotoelèctric
+    ckb: کاریگەریی کارۆڕووناکی
+    cs: fotoelektrický jev
+    cy: Effaith ffotodrydanol
+    da: Fotoelektrisk effekt
+    de: photoelektrischer Effekt
+    el: Φωτοηλεκτρικό φαινόμενο
+    en: photoelectric effect
+    en-ca: Photoelectric effect
+    en-gb: photoelectric effect
+    eo: fotoelektra efiko
+    es: efecto fotoeléctrico
+    et: Fotoefekt
+    eu: Efektu fotoelektriko
+    fa: اثر فوتوالکتریک
+    fi: Valosähköinen ilmiö
+    fr: effet photoélectrique
+    ga: iarmhairt fhótaileictreach
+    gl: Efecto fotoeléctrico
+    gu: પ્રકાશ-વિદ્યુતીય અસર
+    he: האפקט הפוטואלקטרי
+    hi: प्रकाश विद्युत प्रभाव
+    hr: Fotoelektrični učinak
+    hu: fényelektromos jelenség
+    hy: ֆոտոէֆեկտ
+    id: Efek fotolistrik
+    it: effetto fotoelettrico
+    ja: 光電効果
+    ka: ფოტოეფექტი
+    kk: фотоэлектрлік құбылыстар
+    kn: ದ್ಯುತಿವಿದ್ಯುತ್ ಪರಿಣಾಮ
+    ko: 광전 효과
+    ko-kp: 빛전기효과
+    ks: فوٹوٗ اِلؠکٹرک اَثَر
+    ky: фотоэффект
+    lb: Photoeffekt
+    lrc: کارگرایی فوتوالکتریک
+    lt: Fotoefektas
+    lv: fotoelektriskais efekts
+    mk: Фотоелектричен ефект
+    ml: പ്രകാശവൈദ്യുത പ്രഭാവം
+    mn: Фото-электрон үйлчлэл
+    mr: प्रकाशीय विद्युत परिणाम
+    ms: Kesan fotoelektrik
+    nb: fotoelektrisk effekt
+    ne: प्रकाश विद्युत प्रभाव
+    nl: foto-elektrisch effect
+    nn: fotoelektrisk effekt
+    or: ଆଲୋକ-ବୈଦୁତିକ ପ୍ରଭାବ
+    pa: ਫੋਟੋਇਲੈਕਟ੍ਰਿਕ ਪ੍ਰਭਾਵ
+    pl: efekt fotoelektryczny
+    pms: Efet fotoelétrich
+    pnb: فوٹو الیکٹرک ایفیکٹ
+    pt: efeito fotoelétrico
+    pt-br: Efeito fotoelétrico
+    ro: efect fotoelectric
+    ru: фотоэффект
+    sd: ڦوٽو اليڪٽرڪ اثر
+    sh: Fotoelektrični efekt
+    sk: fotoelektrický jav
+    sl: fotoelektrični pojav
+    sq: Fotoefekti
+    sr: фотоелектрични ефекат
+    sr-ec: фотоелектрични ефекат
+    su: Éfék fotolistrik
+    sv: fotoelektrisk effekt
+    ta: ஒளிமின் விளைவு
+    th: ปรากฏการณ์โฟโตอิเล็กทริก
+    tk: Fotoelektrik Effekt
+    tl: Epektong potoelektriko
+    tr: fotoelektrik etki
+    uk: фотоефект
+    ur: ضیا برقی اثر
+    uz: fotoeffekt
+    vi: hiệu ứng quang điện
+    wuu: 光电效应
+    yue: 光電效應
+    zh: 光電效應
+    zh-hant: 光電效應
+    zh-hk: 光電效應
 ---
-
 # [[Photoelectric_Effect]] 
 
 #is_/same_as :: [[WD~Photoelectric_effect,83213]] 

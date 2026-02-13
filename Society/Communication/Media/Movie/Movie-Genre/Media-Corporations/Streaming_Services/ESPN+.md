@@ -1,4 +1,31 @@
-
+---
+has_id_wikidata: Q46996011
+dv_has_:
+  name_:
+    ar: إي إس بي إن+
+    ca: ESPN+
+    de: ESPN+
+    en: ESPN+
+    es: ESPN+
+    fa: ایاسپیان پلاس
+    fr: ESPN+
+    hi: ईएसपीएन+
+    id: ESPN+
+    it: ESPN+
+    ja: ESPN+
+    ko: ESPN+
+    nl: ESPN+
+    pl: ESPN+
+    ro: ESPN+
+    sq: ESPN+
+    tr: ESPN+
+    zh: ESPN+
+aliases:
+- ESPN+
+- إي إس بي إن+
+- ایاسپیان پلاس
+- ईएसपीएन+
+---
 #has_/text_of_/genre :: [[../../../../../../../schema-org/Class/is_a_/event_/sports_event|SportsEvent]]
 
 ## #has_/text_of_/abstract 

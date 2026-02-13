@@ -1,43 +1,169 @@
 ---
 aliases:
-  - Polymerisation
-  - Polymerization
+- pempolimeran
+- phản ứng trùng hợp
+- polaiméiriúchán
+- polimerigo
+- polimerisasi
+- polimerització
+- polimerizacija
+- Polimerizacion
+- polimerización
+- polimerizare
+- polimerizasyon
+- polimerizazio
+- polimerização
+- Polimerizimi
+- polimerizzazione
+- polimerizáció
+- polimeryzacja
+- polimérisasi
+- polymerisasjon
+- polymerisatie
+- Polymerisation
+- polymerisering
+- polymerizace
+- Polymerization
+- polymerizácia
+- polymerointi
+- polymérisation
+- polïmerlew
+- polümerisatsioon
+- πολυμερισμός
+- күбөлешләштерү
+- палімэрызацыя
+- полімеризація
+- полімерызацыя
+- полимеризација
+- полимеризация
+- полимерлеу
+- полимерлөө
+- Պոլիմերացում
+- פילמור
+- بسپارش
+- بلمرة
+- پولىيمەرلەۋ
+- बहुलकीकरण
+- পলিমারকরণ বিক্রিয়া
+- பல்லுறுப்பாக்கல்
+- പോളിമറൈസേഷൻ
+- พอลิเมอไรเซชัน
+- 聚合
+- 聚合反應
+- 重合反応
+- 중합
 has_id_wikidata: Q181898
-has_effect: "[[_Standards/WikiData/WD~polymer,81163]]"
-raw_material_processed: "[[_Standards/WikiData/WD~monomer,178827]]"
-opposite_of: "[[_Standards/WikiData/WD~depolymerization,906487]]"
-different_from: "[[_Standards/WikiData/WD~curing,2991861]]"
-part_of: "[[_Standards/WikiData/WD~curing,2991861]]"
-studied_by: "[[_Standards/WikiData/WD~polymer_science,3456979]]"
+has_effect: '[[_Standards/WikiData/WD~polymer,81163]]'
+raw_material_processed: '[[_Standards/WikiData/WD~monomer,178827]]'
+opposite_of: '[[_Standards/WikiData/WD~depolymerization,906487]]'
+different_from: '[[_Standards/WikiData/WD~curing,2991861]]'
+part_of: '[[_Standards/WikiData/WD~curing,2991861]]'
+studied_by: '[[_Standards/WikiData/WD~polymer_science,3456979]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~connection,12819913]]"
-  - "[[_Standards/WikiData/WD~chemical_reaction,36534]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~polymerism,49096036]]"
+- '[[_Standards/WikiData/WD~connection,12819913]]'
+- '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~polymerism,49096036]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Polystyrene%20formation.PNG
 UMLS_CUI: C0314672
 MeSH_tree_code: G02.750
 Commons_category: Polymerization
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Polymerization,181898]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization|Polymerization]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymerization.public|Polymerization.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymerization.internal|Polymerization.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymerization.protect|Polymerization.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polymerization.private|Polymerization.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymerization.personal|Polymerization.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymerization.secret|Polymerization.secret]]"
+  - '[[../../../WikiData/WD~Polymerization,181898]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization|Polymerization]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymerization.public|Polymerization.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymerization.internal|Polymerization.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymerization.protect|Polymerization.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Polymer/Polymerization.private|Polymerization.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymerization.personal|Polymerization.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymerization.secret|Polymerization.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Polymerization,181898]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization|Polymerization]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymerization.public|Polymerization.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymerization.internal|Polymerization.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymerization.protect|Polymerization.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Polymer/Polymerization.private|Polymerization.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymerization.personal|Polymerization.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymerization.secret|Polymerization.secret]]"
+- '[[../../../WikiData/WD~Polymerization,181898]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization|Polymerization]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymerization.public|Polymerization.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymerization.internal|Polymerization.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymerization.protect|Polymerization.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Polymer/Polymerization.private|Polymerization.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymerization.personal|Polymerization.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymerization.secret|Polymerization.secret]]'
+dv_has_:
+  name_:
+    ar: بلمرة
+    ast: polimerización
+    be: полімерызацыя
+    be-tarask: палімэрызацыя
+    bg: полимеризация
+    bn: পলিমারকরণ বিক্রিয়া
+    bs: polimerizacija
+    ca: polimerització
+    cs: polymerizace
+    de: Polymerisation
+    el: πολυμερισμός
+    en: polymerization
+    en-gb: polymerisation
+    eo: polimerigo
+    es: polimerización
+    et: polümerisatsioon
+    eu: polimerizazio
+    fa: بسپارش
+    fi: polymerointi
+    fr: polymérisation
+    ga: polaiméiriúchán
+    gl: polimerización
+    he: פילמור
+    hi: बहुलकीकरण
+    hr: polimerizacija
+    hu: polimerizáció
+    hy: Պոլիմերացում
+    id: polimerisasi
+    it: polimerizzazione
+    ja: 重合反応
+    kk: полимерлеу
+    kk-arab: پولىيمەرلەۋ
+    kk-cn: پولىيمەرلەۋ
+    kk-cyrl: полимерлеу
+    kk-kz: полимерлеу
+    kk-latn: polïmerlew
+    kk-tr: polïmerlew
+    ko: 중합
+    ky: полимерлөө
+    lt: polimerizacija
+    mk: полимеризација
+    ml: പോളിമറൈസേഷൻ
+    ms: pempolimeran
+    nb: polymerisering
+    nl: polymerisatie
+    nn: polymerisasjon
+    oc: Polimerizacion
+    pl: polimeryzacja
+    pt: polimerização
+    ro: polimerizare
+    ru: полимеризация
+    sh: polimerizacija
+    sk: polymerizácia
+    sl: polimerizacija
+    sq: Polimerizimi
+    sr: полимеризација
+    sr-ec: полимеризација
+    sr-el: polimerizacija
+    su: polimérisasi
+    sv: polymerisation
+    ta: பல்லுறுப்பாக்கல்
+    th: พอลิเมอไรเซชัน
+    tr: polimerizasyon
+    tt: күбөлешләштерү
+    udm: полимеризация
+    uk: полімеризація
+    vi: phản ứng trùng hợp
+    yue: 聚合反應
+    zh: 聚合
+    zh-cn: 聚合
+    zh-hans: 聚合
+    zh-hant: 聚合
+    zh-hk: 聚合
+    zh-sg: 聚合
+    zh-tw: 聚合
 ---
-
 # [[Polymerization]] 
 
 #is_/same_as :: [[WD~Polymerization,181898]] 

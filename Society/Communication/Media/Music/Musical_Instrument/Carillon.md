@@ -1,42 +1,124 @@
 ---
 aliases:
+- beiaard
+- carillon
+- carilló
+- carillón
+- carrilhão
+- clogra
+- karijon
+- kariljon
+- kariljonas
+- kariljono
+- karilloi
+- karillon
+- Klockenspeel
+- klockspel
+- klokkespel
+- klokkespil
+- klokkespill
+- zvonkohra
+- καριγιόν
+- кariljon
+- каријон
+- карийон
+- карильйон
+- карильон
+- карыльён
+- զանգակներ
+- קריון
+- مصلصلة
+- کاریلون
+- সুরেলা ঘণ্টাস্তবক
+- カリヨン
+- 排鐘琴
+- 鐘琴
+- 카리용
 has_id_wikidata: Q505174
 has_part_s_:
-  - "[[_Standards/WikiData/WD~bell,101401]]"
-  - "[[_Standards/WikiData/WD~musical_keyboard,901207]]"
-  - "[[_Standards/WikiData/WD~clapper,9335418]]"
+- '[[_Standards/WikiData/WD~bell,101401]]'
+- '[[_Standards/WikiData/WD~musical_keyboard,901207]]'
+- '[[_Standards/WikiData/WD~clapper,9335418]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-different_from: "[[_Standards/WikiData/WD~glockenspiel,626035]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+different_from: '[[_Standards/WikiData/WD~glockenspiel,626035]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]"
-  - "[[_Standards/WikiData/WD~sets_of_bells,55721745]]"
-  - "[[_Standards/WikiData/WD~keyboard_instrument,52954]]"
-has_list: "[[_Standards/WikiData/WD~list_of_carillons,6608841]]"
-used_by: "[[_Standards/WikiData/WD~carillonist,18749693]]"
-operator: "[[_Standards/WikiData/WD~carillonist,18749693]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]"
-Nomenclature_for_Museum_Cataloging: "10699"
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]'
+- '[[_Standards/WikiData/WD~sets_of_bells,55721745]]'
+- '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
+has_list: '[[_Standards/WikiData/WD~list_of_carillons,6608841]]'
+used_by: '[[_Standards/WikiData/WD~carillonist,18749693]]'
+operator: '[[_Standards/WikiData/WD~carillonist,18749693]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_in_France,21011287]]'
+Nomenclature_for_Museum_Cataloging: 10699
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Carillon%20Olympiapark%20Muenchen.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CarillonShenandoah.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Carillon%20Olympiapark%20Muenchen.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CarillonShenandoah.JPG
 Commons_gallery: Carillon
 Hornbostel_Sachs_classification: 111.242.222
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Carillon%20St%20Nic%20Maudit%20carillonneur.ogg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Prelude%20in%20F%20by%20Matthias%20Vanden%20Gheyn%20played%20at%20St.%20Rumbold%27s%20Cathedral.webm
 Iconclass_notation: 48C7343
-P8189: "987007283466405171"
+P8189: 987007283466405171
 Commons_category: Carillons
 Krugosvet_article: muzyka/kariyon
+dv_has_:
+  name_:
+    ar: مصلصلة
+    ast: carillón
+    be-tarask: карыльён
+    bg: карийон
+    bn: সুরেলা ঘণ্টাস্তবক
+    ca: carilló
+    cs: zvonkohra
+    da: klokkespil
+    de: Carillon
+    el: καριγιόν
+    en: carillon
+    en-gb: carillon
+    eo: kariljono
+    es: carillón
+    et: kariljon
+    eu: karilloi
+    fa: کاریلون
+    fi: carillon
+    fr: carillon
+    ga: clogra
+    gl: carillón
+    he: קריון
+    hu: carillon
+    hy: զանգակներ
+    id: karillon
+    it: carillon
+    ja: カリヨン
+    ko: 카리용
+    lt: kariljonas
+    mk: каријон
+    nb: klokkespill
+    nds: Klockenspeel
+    nl: beiaard
+    nn: klokkespel
+    pl: carillon
+    pt: carrilhão
+    ro: carillon
+    ru: карильон
+    sh: karijon
+    sl: kariljon
+    sr: кariljon
+    sv: klockspel
+    tr: carillon
+    uk: карильйон
+    vi: carillon
+    yue: 排鐘琴
+    zh: 鐘琴
 ---
-
 # [[Carillon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Carillon,505174|WD~Carillon,505174]] 

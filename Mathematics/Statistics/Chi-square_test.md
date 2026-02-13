@@ -1,15 +1,108 @@
 ---
-aliases: 
+aliases:
+- Chi i anden-test
+- chi-kwadraattoets
+- Chi-Quadrat-Test
+- chi-square test
+- Chi-squared test
+- Chí-kvadrát test
+- Doikuntzaren egokitasunerako khi-karratu froga
+- hi-kvadrat test
+- Hi-kvadratni test
+- Hī kvadrāta kritērijs
+- Jaribu la χ²
+- khí-négyzet-próba
+- ki-kare testi
+- Kiểm định chi bình phương
+- Kjikvadrattest
+- Pagsubok na kinwadradong-Chi
+- prova khi quadrat
+- prueba de la ji al cuadrado
+- Tes chi-kuadrat
+- test chi quadrato
+- Test chi-kwadrat
+- test du χ²
+- Test khi cadrado
+- teste qui-quadrado
+- Testi hi-katror
+- testo de kvadrata ĥi
+- triail chí-chearnóige
+- Uji khi-kwadrat
+- Δοκιμασία X2
+- Χ²-testi
+- χ²検定
+- Тест хи-квадрат
+- хі-квадрат крытэр
+- Хі-квадрат тест
+- хи-квадрат тест
+- хи-квадратна проверка
+- מבחן כי בריבוע
+- آزمون خیدوی پیرسون
+- اختبار مربع كاي
+- चाई-वर्ग परीक्षण
+- 卡方检验
+- 卡方檢定
+- 卡方檢驗
+- 카이제곱 검정
 has_id_wikidata: Q1071004
-instance_of: "[[_Standards/WikiData/WD~statistical_test,210832]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-subclass_of: "[[_Standards/WikiData/WD~non_parametric_test,47093179]]"
-different_from: "[[_Standards/WikiData/WD~Pearson_correlation_test,47103114]]"
+instance_of: '[[_Standards/WikiData/WD~statistical_test,210832]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~non_parametric_test,47093179]]'
+different_from: '[[_Standards/WikiData/WD~Pearson_correlation_test,47103114]]'
 Stack_Exchange_tag: https://stats.stackexchange.com/tags/chi-squared-test
-P8189: "987007285526505171"
+P8189: 987007285526505171
 name_in_kana: かいにじょうけんてい
+dv_has_:
+  name_:
+    ar: اختبار مربع كاي
+    be-tarask: хі-квадрат крытэр
+    ca: prova khi quadrat
+    cs: Chí-kvadrát test
+    da: Chi i anden-test
+    de: Chi-Quadrat-Test
+    el: Δοκιμασία X2
+    en: chi-square test
+    en-ca: Chi-squared test
+    en-gb: Chi-squared test
+    eo: testo de kvadrata ĥi
+    es: prueba de la ji al cuadrado
+    eu: Doikuntzaren egokitasunerako khi-karratu froga
+    fa: آزمون خیدوی پیرسون
+    fi: Χ²-testi
+    fr: test du χ²
+    ga: triail chí-chearnóige
+    gl: Test khi cadrado
+    he: מבחן כי בריבוע
+    hi: चाई-वर्ग परीक्षण
+    hu: khí-négyzet-próba
+    it: test chi quadrato
+    ja: χ²検定
+    jv: Uji khi-kwadrat
+    ko: 카이제곱 검정
+    lv: Hī kvadrāta kritērijs
+    mk: хи-квадратна проверка
+    mn: хи-квадрат тест
+    nb: Kjikvadrattest
+    nl: chi-kwadraattoets
+    pl: Test chi-kwadrat
+    pt: teste qui-quadrado
+    pt-br: Teste Qui-Quadrado
+    ru: Тест хи-квадрат
+    sl: hi-kvadrat test
+    sq: Testi hi-katror
+    sr: Hi-kvadratni test
+    su: Tes chi-kuadrat
+    sw: Jaribu la χ²
+    tl: Pagsubok na kinwadradong-Chi
+    tr: ki-kare testi
+    uk: Хі-квадрат тест
+    vi: Kiểm định chi bình phương
+    yue: 卡方檢定
+    zh: 卡方检验
+    zh-hans: 卡方检验
+    zh-hant: 卡方檢驗
+    zh-hk: 卡方檢驗
 ---
-
 # [[Chi-square_test]] 
 
 #is_/same_as :: [[../../WikiData/WD~Chi-square_test,1071004|WD~Chi-square_test,1071004]] 

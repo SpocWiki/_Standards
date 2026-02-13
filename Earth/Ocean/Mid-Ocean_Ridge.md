@@ -1,35 +1,188 @@
 ---
 aliases:
+- dorsal centro-oceánica
+- Dorsal mediooceánica
+- dorsal oceànica
+- Dorsal oceánica
+- dorsal oceânica
+- dorsale médio-océanique
+- dorsale oceanica
+- dorsală oceanică
+- dromanna aigéanacha
+- grzbiet śródoceaniczny
+- Hái-niá
+- Iugum oceanicum medium
+- keskiselänne
+- Mezoceana dorso
+- Mgongo kati wa bahari
+- mid-ocean ridge
+- mid-oceanische rug
+- Mid-oseaniese rif
+- Middelozeaansch Rüch
+- midthavsrygg
+- Mittelozeanischer Rücken
+- mittoceanisk rygg
+- Munduk tengah samudra
+- Mëttelozeanesche Réck
+- Oceanryg
+- okyanus ortası sırtı
+- Ookeani keskahelik
+- Orta-Okean silsiləsi
+- Ozeano dortsal
+- Punggung tengah samudra
+- Rabung tengah lautan
+- Srednjeoceanski hrbat
+- srednjeoceanski hrbet
+- Srednjeokeanski grebeni
+- Srednjooceanski hrbat
+- Srednjookeanski greben
+- Stredooceánsky chrbát
+- středooceánský hřbet
+- Suv osti tizmalari
+- Sống núi giữa đại dương
+- Vandenyno vidurio kalnagūbris
+- Vidusokeāniskā grēda
+- óceáni hátság
+- Μεσοωκεάνια ράχη
+- акіянічны сьцяг
+- океан шорысь гурезь чуръёс
+- океанічні хребти
+- Средњоокеански гребен
+- Срединно-океанический хребет
+- средноокеански гребен
+- Средноокеански хребет
+- Су асты жоталары
+- Сярэдзінна-акіянічны хрыбет
+- Միջինօվկիանոսային լեռնաշղթա
+- רכס מרכז-אוקייני
+- ادھ سمندری وٹ
+- حيد وسط محيط
+- پشته میانی اقیانوس
+- मध्य-महासागर पर्वतमाला
+- মধ্য-মহাসাগর শৈলশিরা
+- ਮੱਧ-ਸਮੁੰਦਰੀ ਵੱਟ
+- நடுக்கடல் முகடு
+- സമുദ്രമധ്യവരമ്പ്
+- เทือกเขากลางสมุทร
+- შუაოკეანური ქედები
+- 中洋脊
+- 洋中脊
+- 海嶺
+- 해령
 has_id_wikidata: Q104698
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
-subclass_of: "[[_Standards/WikiData/WD~undersea_ridge,11702690]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+subclass_of: '[[_Standards/WikiData/WD~undersea_ridge,11702690]]'
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Global%20SRTM%20Bathymetry%20map.png
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000406
 Commons_category: Mid-ocean ridges
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Mid-ocean_ridge,104698]]"
-    - "[[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]]"
-    - "[[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]]"
-    - "[[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]]"
-    - "[[/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect|Mid-Ocean_Ridge.protect]]"
-    - "[[/_private/Earth/Ocean/Mid-Ocean_Ridge.private|Mid-Ocean_Ridge.private]]"
-    - "[[/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal|Mid-Ocean_Ridge.personal]]"
-    - "[[/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret|Mid-Ocean_Ridge.secret]]"
+  - '[[../../WikiData/WD~Mid-ocean_ridge,104698]]'
+  - '[[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]]'
+  - '[[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]]'
+  - '[[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]]'
+  - '[[/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect|Mid-Ocean_Ridge.protect]]'
+  - '[[/_private/Earth/Ocean/Mid-Ocean_Ridge.private|Mid-Ocean_Ridge.private]]'
+  - '[[/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal|Mid-Ocean_Ridge.personal]]'
+  - '[[/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret|Mid-Ocean_Ridge.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Mid-ocean_ridge,104698]]"
-  - "[[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]]"
-  - "[[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]]"
-  - "[[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]]"
-  - "[[/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect|Mid-Ocean_Ridge.protect]]"
-  - "[[/_private/Earth/Ocean/Mid-Ocean_Ridge.private|Mid-Ocean_Ridge.private]]"
-  - "[[/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal|Mid-Ocean_Ridge.personal]]"
-  - "[[/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret|Mid-Ocean_Ridge.secret]]"
+- '[[../../WikiData/WD~Mid-ocean_ridge,104698]]'
+- '[[/_Standards/Earth/Ocean/Mid-Ocean_Ridge|Mid-Ocean_Ridge]]'
+- '[[/_public/Earth/Ocean/Mid-Ocean_Ridge.public|Mid-Ocean_Ridge.public]]'
+- '[[/_internal/Earth/Ocean/Mid-Ocean_Ridge.internal|Mid-Ocean_Ridge.internal]]'
+- '[[/_protect/Earth/Ocean/Mid-Ocean_Ridge.protect|Mid-Ocean_Ridge.protect]]'
+- '[[/_private/Earth/Ocean/Mid-Ocean_Ridge.private|Mid-Ocean_Ridge.private]]'
+- '[[/_personal/Earth/Ocean/Mid-Ocean_Ridge.personal|Mid-Ocean_Ridge.personal]]'
+- '[[/_secret/Earth/Ocean/Mid-Ocean_Ridge.secret|Mid-Ocean_Ridge.secret]]'
+dv_has_:
+  name_:
+    af: Mid-oseaniese rif
+    ar: حيد وسط محيط
+    ast: Dorsal mediooceánica
+    az: Orta-Okean silsiləsi
+    ban: Munduk tengah samudra
+    be: Сярэдзінна-акіянічны хрыбет
+    be-tarask: акіянічны сьцяг
+    bg: Средноокеански хребет
+    bn: মধ্য-মহাসাগর শৈলশিরা
+    bs: Srednjeokeanski grebeni
+    ca: dorsal oceànica
+    cs: středooceánský hřbet
+    da: Oceanryg
+    de: Mittelozeanischer Rücken
+    de-ch: Mittelozeanischer Rücken
+    el: Μεσοωκεάνια ράχη
+    en: mid-ocean ridge
+    en-ca: mid-ocean ridge
+    en-gb: mid-ocean ridge
+    eo: Mezoceana dorso
+    es: dorsal centro-oceánica
+    et: Ookeani keskahelik
+    eu: Ozeano dortsal
+    fa: پشته میانی اقیانوس
+    fi: keskiselänne
+    fr: dorsale médio-océanique
+    ga: dromanna aigéanacha
+    gl: Dorsal oceánica
+    he: רכס מרכז-אוקייני
+    hi: मध्य-महासागर पर्वतमाला
+    hr: Srednjooceanski hrbat
+    hu: óceáni hátság
+    hy: Միջինօվկիանոսային լեռնաշղթա
+    id: Punggung tengah samudra
+    it: dorsale oceanica
+    ja: 海嶺
+    ka: შუაოკეანური ქედები
+    kk: Су асты жоталары
+    ko: 해령
+    la: Iugum oceanicum medium
+    lb: Mëttelozeanesche Réck
+    lt: Vandenyno vidurio kalnagūbris
+    lv: Vidusokeāniskā grēda
+    mk: средноокеански гребен
+    ml: സമുദ്രമധ്യവരമ്പ്
+    ms: Rabung tengah lautan
+    nan: Hái-niá
+    nb: midthavsrygg
+    nds: Middelozeaansch Rüch
+    nl: mid-oceanische rug
+    nn: Midthavsrygg
+    pa: ਮੱਧ-ਸਮੁੰਦਰੀ ਵੱਟ
+    pl: grzbiet śródoceaniczny
+    pnb: ادھ سمندری وٹ
+    pt: dorsal oceânica
+    pt-br: Dorsal oceânica
+    ro: dorsală oceanică
+    ru: Срединно-океанический хребет
+    sh: Srednjeoceanski hrbat
+    sk: Stredooceánsky chrbát
+    sl: srednjeoceanski hrbet
+    sr: Средњоокеански гребен
+    sr-ec: Средњоокеански гребен
+    sr-el: Srednjookeanski greben
+    sv: mittoceanisk rygg
+    sw: Mgongo kati wa bahari
+    ta: நடுக்கடல் முகடு
+    th: เทือกเขากลางสมุทร
+    tr: okyanus ortası sırtı
+    udm: океан шорысь гурезь чуръёс
+    uk: океанічні хребти
+    uz: Suv osti tizmalari
+    vi: Sống núi giữa đại dương
+    wuu: 中洋脊
+    yue: 中洋脊
+    zh: 洋中脊
+    zh-cn: 中洋脊
+    zh-hans: 洋中脊
+    zh-hant: 中洋脊
+    zh-hk: 中洋脊
+    zh-my: 中洋脊
+    zh-sg: 中洋脊
+    zh-tw: 中洋脊
 ---
-
 # [[Mid-Ocean_Ridge]] 
 
 #is_/same_as :: [[WD~Mid-ocean_ridge,104698]] 

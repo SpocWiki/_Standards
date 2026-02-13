@@ -1,29 +1,132 @@
 ---
 aliases:
-  - Zensus
-  - Volkszählung
-  - Census
+- aalmugrekinistem
+- almetjelohkeme
+- Amarê nıfuse
+- asiḍn n imzdaɣn
+- banci
+- cacah jiwa
+- cens de població
+- Censiment
+- censimento
+- censo
+- censo demográfico
+- censu de población
+- Census
+- cinsimentu
+- cyfrifiad
+- daonáireamh
+- Fanisam-bahoaka
+- folketeljing
+- folketelling
+- folketælling
+- folkräkning
+- Folkstelling
+- gyventojų surašymas
+- gīvėntuoju sorašīms
+- kautetanga
+- Kuverengwa kweVanhu
+- ludličenje
+- manntal
+- Niveradeg
+- népszámlálás
+- nüfus sayımı
+- Phó͘-cha
+- popis prebivalstva
+- popis stanovništva
+- rahvaloendus
+- recensement de la population
+- recensământ
+- Runa yupay
+- Sensa
+- Senso
+- sensus
+- spis statystyczny
+- Sénsus
+- Sčítanie obyvateľov, domov a bytov
+- sčítání lidu
+- tautas skaitīšana
+- Uddun n imezdaɣ
+- volkstelling
+- Volkszählung
+- Vollekszielung
+- Voukstèlling
+- väestönlaskenta
+- Zensus
+- zentsu
+- álbmotlohkan
+- điều tra dân số
+- əhalinin siyahıyaalınması
+- ƙidaya
+- απογραφή
+- Барӯйхатгирии аҳолӣ
+- бахархой ларар
+- перапіс насельніцтва
+- перепис населення
+- перепись населения
+- попис
+- попис становништва
+- преброяване на населението
+- Халық санағы
+- халыҡ иҫәбен алыу
+- Халӑх ҫырса тухӑвӗ
+- Хүн амын тооллого судалгаа
+- цæрджыты сфыст
+- ценз
+- Эл каттоо
+- җанисәп
+- մարդահամար
+- מפקד אוכלוסין
+- צענזוס
+- آدم شماری
+- آدمشماري
+- إحصاء السكان
+- بانچي
+- سرشماری
+- سرشمېرنه
+- سەرژمێریی دانیشتووان
+- لوک گݨݨ
+- مردم شماری
+- مَردَم شُمٲری
+- نۆفوس ساییمی
+- जनगणना
+- मिल्याः खाज्या
+- জনশুমারি
+- ਮਰਦਮਸ਼ੁਮਾਰੀ
+- மக்கள் தொகைக் கணக்கெடுப்பு
+- జనాభా గణన
+- ಜನಗಣತಿ
+- കാനേഷുമാരി
+- ජන සංගණන
+- สำมะโน
+- သန်းခေါင်စာရင်း
+- მახორობაშ ეჭარუა
+- მოსახლეობის აღწერა
+- ᱦᱚᱲ ᱞᱮᱠᱷᱟ
+- 人口普查
+- 国勢調査
+- 인구 조사
 has_id_wikidata: Q39825
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~recurring_event,15275719]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~recurring_event,15275719]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~data_set,1172284]]'
-  - '[[_Standards/WikiData/WD~source_of_information,3523102]]'
-  - '[[_Standards/WikiData/WD~census,4350743]]'
+- '[[_Standards/WikiData/WD~data_set,1172284]]'
+- '[[_Standards/WikiData/WD~source_of_information,3523102]]'
+- '[[_Standards/WikiData/WD~census,4350743]]'
 different_from:
-  - '[[_Standards/WikiData/WD~number_of_individuals,1613416]]'
-  - '[[_Standards/WikiData/WD~Hamming_weight,5645805]]'
+- '[[_Standards/WikiData/WD~number_of_individuals,1613416]]'
+- '[[_Standards/WikiData/WD~Hamming_weight,5645805]]'
 has_effect: '[[_Standards/WikiData/WD~apportionment_of_seats,2286103]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_census,16911771]]'
 has_use: '[[_Standards/WikiData/WD~population_estimation,29051383]]'
@@ -35,11 +138,156 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Altar%20Domitius%20Ahe
 U_S_National_Archives_Identifier: 10637740
 P8189: 987007284975005171
 MeSH_tree_code:
-  - I01.240.205
-  - N01.224.175
-  - N06.850.505.400.225
+- I01.240.205
+- N01.224.175
+- N06.850.505.400.225
+dv_has_:
+  name_:
+    af: Sensus
+    ar: إحصاء السكان
+    ast: censu de población
+    av: ценз
+    az: əhalinin siyahıyaalınması
+    azb: نۆفوس ساییمی
+    ba: халыҡ иҫәбен алыу
+    be: перапіс насельніцтва
+    be-tarask: перапіс насельніцтва
+    bg: преброяване на населението
+    bho: जनगणना
+    bn: জনশুমারি
+    br: Niveradeg
+    bs: popis stanovništva
+    ca: cens de població
+    ce: бахархой ларар
+    ckb: سەرژمێریی دانیشتووان
+    cs: sčítání lidu
+    cv: Халӑх ҫырса тухӑвӗ
+    cy: cyfrifiad
+    da: folketælling
+    de: Volkszählung
+    diq: Amarê nıfuse
+    el: απογραφή
+    en: census
+    en-ca: census
+    en-gb: census
+    en-us: census
+    eo: censo
+    es: censo
+    et: rahvaloendus
+    eu: zentsu
+    fa: سرشماری
+    fi: väestönlaskenta
+    fo: manntal
+    fr: recensement de la population
+    fy: Folkstelling
+    ga: daonáireamh
+    gl: censo
+    ha: ƙidaya
+    he: מפקד אוכלוסין
+    hi: जनगणना
+    hr: popis stanovništva
+    hsb: ludličenje
+    hu: népszámlálás
+    hy: մարդահամար
+    ia: Censo
+    id: sensus
+    ilo: senso
+    io: Censo
+    is: manntal
+    it: censimento
+    ja: 国勢調査
+    jv: cacah jiwa
+    ka: მოსახლეობის აღწერა
+    kab: Uddun n imezdaɣ
+    kk: Халық санағы
+    kn: ಜನಗಣತಿ
+    ko: 인구 조사
+    ks: مَردَم شُمٲری
+    ky: Эл каттоо
+    la: census
+    lb: Vollekszielung
+    li: Voukstèlling
+    lt: gyventojų surašymas
+    lv: tautas skaitīšana
+    mg: Fanisam-bahoaka
+    mi: kautetanga
+    mk: попис
+    ml: കാനേഷുമാരി
+    mn: Хүн амын тооллого судалгаа
+    mr: जनगणना
+    ms: banci
+    ms-arab: بانچي
+    my: သန်းခေါင်စာရင်း
+    mzn: سرشماری
+    nan: Phó͘-cha
+    nb: folketelling
+    nds: Zensus
+    ne: जनगणना
+    new: मिल्याः खाज्या
+    nia: Sensus
+    nl: volkstelling
+    nn: folketeljing
+    os: цæрджыты сфыст
+    pa: ਮਰਦਮਸ਼ੁਮਾਰੀ
+    pag: senso
+    pl: spis statystyczny
+    pms: Censiment
+    pnb: لوک گݨݨ
+    ps: سرشمېرنه
+    pt: censo demográfico
+    pt-br: censo demográfico
+    qu: Runa yupay
+    ro: recensământ
+    ru: перепись населения
+    sat: ᱦᱚᱲ ᱞᱮᱠᱷᱟ
+    scn: cinsimentu
+    sco: census
+    sd: آدمشماري
+    se: álbmotlohkan
+    sgs: gīvėntuoju sorašīms
+    sh: popis stanovništva
+    shi: asiḍn n imzdaɣn
+    si: ජන සංගණන
+    sk: Sčítanie obyvateľov, domov a bytov
+    skr: آدم شماری
+    sl: popis prebivalstva
+    sma: almetjelohkeme
+    smn: aalmugrekinistem
+    sn: Kuverengwa kweVanhu
+    sq: Census
+    sr: попис становништва
+    sr-ec: попис становништва
+    su: Sénsus
+    sv: folkräkning
+    sw: Sensa
+    ta: மக்கள் தொகைக் கணக்கெடுப்பு
+    te: జనాభా గణన
+    tg: Барӯйхатгирии аҳолӣ
+    tg-cyrl: барӯйхатгирии аҳолӣ
+    th: สำมะโน
+    tl: Senso
+    tr: nüfus sayımı
+    tt: җанисәп
+    tt-cyrl: җанисәп
+    uk: перепис населення
+    ur: مردم شماری
+    vec: censimento
+    vi: điều tra dân số
+    war: Senso
+    wuu: 人口普查
+    xmf: მახორობაშ ეჭარუა
+    yi: צענזוס
+    yue: 人口普查
+    zh: 人口普查
+    zh-cn: 人口普查
+    zh-hans: 人口普查
+    zh-hant: 人口普查
+    zh-hk: 人口普查
+    zh-mo: 人口普查
+    zh-my: 人口普查
+    zh-sg: 人口普查
+    zh-tw: 人口普查
 ---
-
 # [[Census]] 
 
 #is_/same_as :: [[../WikiData/WD~Census,39825|WD~Census,39825]] 

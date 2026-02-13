@@ -1,47 +1,203 @@
 ---
 aliases:
+- Ade
+- Ades
+- Adi
+- Aid
+- Aīds
+- Haades
+- Had
+- Hadas
+- Hade
+- Hades
+- Hades (god)
+- Hadeso
+- Hadi
+- Hadès
+- Hadész
+- Hadês
+- Haides
+- Hádes
+- Hádés
+- Háidéas
+- Άδης
+- Аід
+- Аїд
+- Ад
+- Аид
+- Хад
+- Хадес
+- Ҳодис
+- Հադես
+- Հադէս
+- האדס
+- هادس
+- هاديس
+- هيدز
+- ھادێس
+- हेडीस
+- হেডিচ
+- হেডিস
+- ਹੇਡੀਜ਼
+- ஹேடிஸ்
+- ഹേഡിസ്
+- เฮดีส
+- ဟေးဒီးစ်
+- ჰადესი
+- ᾍδης
+- ハーデース
+- 哈帝斯
+- 哈得斯
+- 黑帝斯
+- ꯍꯦꯗꯤꯁ
+- 하데스
 has_id_wikidata: Q41410
-mother: "[[_Standards/WikiData/WD~Rhea,108419]]"
-different_from: "[[_Standards/WikiData/WD~Hades,140294]]"
+mother: '[[_Standards/WikiData/WD~Rhea,108419]]'
+different_from: '[[_Standards/WikiData/WD~Hades,140294]]'
 child:
-  - "[[_Standards/WikiData/WD~Zagreus,140406]]"
-  - "[[_Standards/WikiData/WD~Macaria,3274055]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Pluto,152262]]"
+- '[[_Standards/WikiData/WD~Zagreus,140406]]'
+- '[[_Standards/WikiData/WD~Macaria,3274055]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Pluto,152262]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Leuce,582643]]"
-  - "[[_Standards/WikiData/WD~Minthe,1546353]]"
+- '[[_Standards/WikiData/WD~Leuce,582643]]'
+- '[[_Standards/WikiData/WD~Minthe,1546353]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-worshipped_by: "[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~death_deity,2803758]]"
-  - "[[_Standards/WikiData/WD~Greek_deity,22989102]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-owner_of: "[[_Standards/WikiData/WD~Alastor,21548208]]"
-present_in_work: "[[_Standards/WikiData/WD~Hades,59756366]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Clymenus,107272974]]"
-residence: "[[_Standards/WikiData/WD~Hades,112572697]]"
+- '[[_Standards/WikiData/WD~death_deity,2803758]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+owner_of: '[[_Standards/WikiData/WD~Alastor,21548208]]'
+present_in_work: '[[_Standards/WikiData/WD~Hades,59756366]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Clymenus,107272974]]'
+residence: '[[_Standards/WikiData/WD~Hades,112572697]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Detail%20of%20Pluto-Serapis%2C%20Statue%20group%20of%20Persephone%20%28as%20Isis%29%20and%20Pluto%20%28as%20Serapis%29%2C%20from%20the%20Sanctuary%20of%20the%20Egyptian%20Gods%20at%20Gortyna%2C%20mid-2nd%20century%20AD%2C%20Heraklion%20Archaeological%20Museum%20%2830305313721%29.jpg
-depicted_by: "[[_Standards/WikiData/WD~Hades,131613691]]"
+depicted_by: '[[_Standards/WikiData/WD~Hades,131613691]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Zeus,34201]]"
-  - "[[_Standards/WikiData/WD~Hera,38012]]"
-  - "[[_Standards/WikiData/WD~Demeter,40730]]"
-  - "[[_Standards/WikiData/WD~Poseidon,41127]]"
-  - "[[_Standards/WikiData/WD~Hestia,41419]]"
-father: "[[_Standards/WikiData/WD~Cronus,44204]]"
-spouse: "[[_Standards/WikiData/WD~Persephone,45967]]"
+- '[[_Standards/WikiData/WD~Zeus,34201]]'
+- '[[_Standards/WikiData/WD~Hera,38012]]'
+- '[[_Standards/WikiData/WD~Demeter,40730]]'
+- '[[_Standards/WikiData/WD~Poseidon,41127]]'
+- '[[_Standards/WikiData/WD~Hestia,41419]]'
+father: '[[_Standards/WikiData/WD~Cronus,44204]]'
+spouse: '[[_Standards/WikiData/WD~Persephone,45967]]'
 Commons_category: Hades
-OmegaWiki_Defined_Meaning: "965434"
+OmegaWiki_Defined_Meaning: 965434
 Hederich_encyclopedia_article: Ades
-ISNI: "0000000025026902"
+ISNI: 0000000025026902
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/AID.html
+dv_has_:
+  name_:
+    af: Hades
+    an: Hades
+    ar: هاديس
+    arz: هيدز
+    as: হেডিচ
+    ast: Hades
+    az: Aid
+    bar: Hades
+    bcl: Hades
+    be: Аід
+    be-tarask: Аід
+    bg: Хадес
+    bn: হেডিস
+    br: Haides
+    bs: Had
+    ca: Hades
+    ckb: ھادێس
+    cs: Hádés
+    cv: Аид
+    cy: Hades
+    da: Hades
+    de: Hades
+    diq: Hades
+    el: Άδης
+    en: Hades
+    eo: Hadeso
+    es: Hades
+    et: Hades
+    eu: Hades
+    fa: هادس
+    fi: Haades
+    fr: Hadès
+    fy: Hades (god)
+    ga: Háidéas
+    gl: Hades
+    grc: ᾍδης
+    gsw: Hades
+    he: האדס
+    hi: हेडीस
+    hr: Had
+    hu: Hadész
+    hy: Հադես
+    hyw: Հադէս
+    id: Hades
+    io: Ades
+    is: Hades
+    it: Ade
+    ja: ハーデース
+    jv: Hades
+    ka: ჰადესი
+    kk: Аид
+    ko: 하데스
+    ku: Hadês
+    ku-latn: Hadês
+    la: Hades
+    lb: Hades
+    lt: Hadas
+    lv: Aīds
+    lzh: 哈帝斯
+    mk: Ад
+    ml: ഹേഡിസ്
+    mni: ꯍꯦꯗꯤꯁ
+    mr: हेडीस
+    ms: Hades
+    my: ဟေးဒီးစ်
+    mzn: هادس
+    nan: Hades
+    nb: Hades
+    nds: Hades
+    nl: Hades
+    nn: Hades
+    oc: Ades
+    os: Аид
+    pa: ਹੇਡੀਜ਼
+    pl: Hades
+    ps: هادس
+    pt: Hades
+    ro: Hades
+    ru: Аид
+    scn: Adi
+    sco: Hades
+    sh: Had
+    sk: Hádes
+    sl: Had
+    sq: Hadi
+    sr: Хад
+    sv: Hades
+    sw: Hade
+    ta: ஹேடிஸ்
+    tg: Ҳодис
+    th: เฮดีส
+    tl: Hades
+    tr: Hades
+    tt: Aid
+    uk: Аїд
+    uz: Aid
+    vep: Aid
+    vi: Hades
+    vro: Hades
+    war: Hades
+    wuu: 哈得斯
+    yue: 哈帝斯
+    zh: 哈得斯
+    zh-tw: 黑帝斯
 ---
-
 # [[Hades(Mythology)]] 
 
 #is_/same_as :: [[WD~Hades,41410]] 

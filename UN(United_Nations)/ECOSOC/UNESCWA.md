@@ -2,8 +2,8 @@
 aliases:
   - ESCWA
   - UNESCWA
+has_id_wikidata: Q1355485
 ---
-
 # [[UNESCWA]] 
 
 > The United Nations Economic and Social Commission for West Asia (**ESCWA**; Arabic: الإسكوا) is one of five regional commissions under the jurisdiction of the United Nations Economic and Social Council. 

@@ -1,11 +1,106 @@
 ---
 aliases:
-  - sauropod
-  - Sauropodomorpha
-has_id_wikidata: ''
+- sauropod
+- Sauropodomorfi
+- Sauropodomorfos
+- Sauropodomorfs
+- Sauropodomorpha
+- Sauropodomorpher
+- Sauropodomorphy
+- Saŭropodomorfoj
+- Zauropodai
+- Zauropodomorfy
+- Zavropodomorflar
+- Гуштероноголики
+- Завроподоморфни
+- завроподоморфы
+- զավրոպոդոմորֆեր
+- דמויי זאורופודים
+- أشباه الصوروبوديات
+- سوروپودومورفها
+- सौरोपोडोमोर्फ़ा
+- সরোপোডোমর্ফা
+- സോറാപോഡമോർഫ
+- 竜脚形亜目
+- 蜥脚形亚目
+- 蜥腳形亞目
+- 용각아목
+has_id_wikidata: Q133012
 title: Sauropodomorpha
+dv_has_:
+  name_:
+    af: Sauropodomorpha
+    an: sauropodomorpha
+    ar: أشباه الصوروبوديات
+    ast: Sauropodomorpha
+    az: Zavropodomorflar
+    be: Sauropodomorpha
+    bg: Завроподоморфни
+    bn: সরোপোডোমর্ফা
+    br: Sauropodomorpha
+    ca: Sauropodomorfs
+    ceb: Sauropodomorpha
+    cs: Sauropodomorpha
+    da: Sauropodomorpha
+    de: Sauropodomorpha
+    el: Sauropodomorpha
+    en: Sauropodomorpha
+    eo: Saŭropodomorfoj
+    es: Sauropodomorpha
+    eu: Sauropodomorpha
+    ext: sauropodomorpha
+    fa: سوروپودومورفها
+    fi: Sauropodomorpha
+    fr: Sauropodomorpha
+    ga: Sauropodomorpha
+    gl: sauropodomorpha
+    he: דמויי זאורופודים
+    hi: सौरोपोडोमोर्फ़ा
+    hr: Sauropodomorpha
+    hu: Sauropodomorpha
+    hy: զավրոպոդոմորֆեր
+    ia: Sauropodomorpha
+    id: Sauropodomorpha
+    ie: sauropodomorpha
+    io: sauropodomorpha
+    it: Sauropodomorpha
+    ja: 竜脚形亜目
+    ko: 용각아목
+    la: Sauropodomorpha
+    lt: Zauropodai
+    mk: Гуштероноголики
+    ml: സോറാപോഡമോർഫ
+    mul: Sauropodomorpha
+    nb: Sauropodomorpha
+    nl: Sauropodomorpha
+    oc: Sauropodomorpha
+    pl: Zauropodomorfy
+    pt: Sauropodomorfos
+    pt-br: sauropodomorpha
+    ro: Sauropodomorpha
+    ru: завроподоморфы
+    sco: Sauropodomorpha
+    sh: Sauropodomorfi
+    sk: Sauropodomorphy
+    sq: Sauropodomorpha
+    sr: Sauropodomorpha
+    sv: Sauropodomorpher
+    tl: Sauropodomorpha
+    tr: Sauropodomorpha
+    uk: Sauropodomorpha
+    vec: Sauropodomorpha
+    vi: Sauropodomorpha
+    vo: sauropodomorpha
+    war: Sauropodomorpha
+    yue: 蜥腳形亞目
+    zh: 蜥腳形亞目
+    zh-cn: 蜥脚形亚目
+    zh-hans: 蜥脚形亚目
+    zh-hant: 蜥腳形亞目
+    zh-hk: 蜥腳形亞目
+    zh-sg: 蜥脚形亚目
+    zh-tw: 蜥腳形亞目
 ---
-
 # [[Sauropodomorpha]] 
 
 

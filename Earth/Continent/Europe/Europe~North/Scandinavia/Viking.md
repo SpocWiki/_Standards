@@ -1,8 +1,117 @@
 ---
 aliases:
-  - Vikings
-  - Wikinger
-  - Viking
+- Ankrydoryon Vor
+- Bikingo
+- Bikings
+- Llychlynnwr
+- Lochlannaigh
+- Na Lochlannaich
+- Người Viking
+- Ny Loghlynee
+- Viccingi
+- Vichincs
+- Vichinghi
+- Vichingos
+- Vicing
+- viikingid
+- Viikingiq
+- viikingit
+- viikiŋgeh
+- viikiŋŋ
+- vijkiŋ
+- Viking
+- Viking-lâng
+- Vikingad
+- vikingai
+- Vikingar
+- Vikinge
+- Vikinged
+- vikingek
+- vikingen
+- vikinger
+- Vikingi
+- Vikinglar
+- Vikingler
+- Vikingo
+- vikingoj
+- Vikingokuéra
+- Vikingovia
+- vikingové
+- Vikings
+- Vikingy
+- Vikingët
+- Vikinqlər
+- Vikinzi
+- vikiŋŋat
+- Viquingo
+- Viquingu
+- Vunz Veizging
+- Vì-kîn-ngìn
+- Víkingar
+- víkings
+- Víkingur
+- Vîkîng
+- Vėkingā
+- Waviking
+- Wikinger
+- Wikingler
+- Wikingowie
+- Wikings
+- Wytsingen
+- Ƿīcingas
+- Βίκινγκ
+- Авикингцәа
+- вікінгі
+- вікінги
+- Вікінґове
+- Викинг
+- Викингал
+- Викингаш
+- Викингвлӓ
+- Викингдер
+- викинги
+- Викинглар
+- Викингсем
+- Викингтæ
+- Викингтар
+- Викингтер
+- Викингүүд
+- Викингҳо
+- Викинзи
+- Վիկինգներ
+- וויקינג
+- ויקינגים
+- فايكنج
+- قائد جيوش الڤايكنج
+- وائى كنگ
+- وائی کنگ
+- وايکينګز (وايکينګيان)
+- وایکینقلر
+- وایکینگ
+- وایکینگها
+- ڤايكينڭ
+- ڤایکینگەکان
+- भाइकिङ
+- भाइकिङहरू
+- वाइकिंग
+- व्हायकिंग
+- ভাইকিং
+- ভাইকিংছ
+- ਵਾਈਕਿੰਗ
+- வைக்கிங்
+- వైకింగ్స్
+- വൈക്കിങ്
+- වයිකිංවරු
+- ชาวไวกิง
+- ဗိုက်ကင်း
+- ვიკინგები
+- ვიკინგეფი
+- ቫይኪንግ
+- ⴼⴰⵢⴽⵉⵏⴳ
+- ヴァイキング
+- 維京人
+- 维京人
+- 바이킹
 has_id_wikidata: Q12567
 Commons_gallery: Vikings
 Commons_category: Vikings
@@ -13,42 +122,201 @@ Libris_URI: pm136tj73pg9mnj
 OmegaWiki_Defined_Meaning: 933625
 OpenStreetMap_tag: historic:civilization=vikingian
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Wikingowie,16615111]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Wikingowie,16615111]]'
 has_time_started: 0793-06
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Fries_Museum,848313]]"
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Fries_Museum,848313]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dublin%20-%20Dublinia%20-%2020190809102938.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~style,1292119]]"
-  - "[[_Standards/WikiData/WD~people,2472587]]"
-  - "[[_Standards/WikiData/WD~historical_period,11514315]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110097651,110097651]]"
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~people,2472587]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110097651,110097651]]'
 start_time: 0793-06
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]]'
+dv_has_:
+  name_:
+    ab: Авикингцәа
+    af: Wikings
+    am: ቫይኪንግ
+    an: Vikingo
+    ang: Ƿīcingas
+    ar: فايكنج
+    ary: ڤايكينڭ
+    arz: قائد جيوش الڤايكنج
+    as: ভাইকিংছ
+    ast: Viquingu
+    av: Викингал
+    az: Vikinqlər
+    azb: وایکینقلر
+    ba: Викингтар
+    ban: Viking
+    be: вікінгі
+    be-tarask: вікінгі
+    bg: Викинги
+    bn: ভাইকিং
+    br: Vikinged
+    bs: Vikinzi
+    bxr: Викингүүд
+    ca: víkings
+    ce: Викингаш
+    ckb: ڤایکینگەکان
+    crh: Vikingler
+    cs: vikingové
+    cv: Викингсем
+    cy: Llychlynnwr
+    da: viking
+    de: Wikinger
+    diq: Vikingi
+    el: Βίκινγκ
+    en: Vikings
+    en-ca: Viking
+    en-gb: Viking
+    eo: vikingoj
+    es: vikingo
+    et: viikingid
+    eu: Bikingo
+    fa: وایکینگها
+    fi: viikingit
+    fo: Víkingur
+    fr: Vikings
+    frr: Wikinger
+    fur: Vichincs
+    fy: Wytsingen
+    ga: Lochlannaigh
+    gd: Na Lochlannaich
+    gl: Viquingo
+    gn: Vikingokuéra
+    gsw: Wikinger
+    gv: Ny Loghlynee
+    hak: Vì-kîn-ngìn
+    he: ויקינגים
+    hi: वाइकिंग
+    hif: Viking
+    hr: Vikinzi
+    hu: vikingek
+    hy: Վիկինգներ
+    ia: Viking
+    id: Viking
+    ilo: Viking
+    io: Vikingo
+    is: Víkingar
+    it: vichinghi
+    ja: ヴァイキング
+    jv: Viking
+    ka: ვიკინგები
+    kk: Викингтер
+    ko: 바이킹
+    krc: Викинг
+    ku: Vîkîng
+    kw: Ankrydoryon Vor
+    ky: Викингдер
+    la: Viccingi
+    lfn: Vicing
+    li: Vikinge
+    lij: Vichinghi
+    lt: vikingai
+    lv: vikingi
+    mg: Vikingy
+    mi: Vikings
+    mk: Викинзи
+    ml: വൈക്കിങ്
+    mn: Викингүүд
+    mr: व्हायकिंग
+    mrj: Викингвлӓ
+    ms: Viking
+    mt: Vikingi
+    mwl: Bikings
+    my: ဗိုက်ကင်း
+    mzn: وایکینگ
+    nan: Viking-lâng
+    nb: vikinger
+    nds: Wikinger
+    nds-nl: Vikings
+    ne: भाइकिङहरू
+    new: भाइकिङ
+    nl: vikingen
+    nn: Vikingar
+    oc: Viking
+    os: Викингтæ
+    pa: ਵਾਈਕਿੰਗ
+    pcd: Vikings
+    pl: Wikingowie
+    pnb: وائی کنگ
+    ps: وايکينګز (وايکينګيان)
+    pt: Vikings
+    pt-br: Vikings
+    rm: Vikings
+    ro: Vikingi
+    ru: викинги
+    rue: Вікінґове
+    sc: Vichingos
+    scn: Vichinghi
+    sco: Vikings
+    se: vikiŋŋat
+    sgs: Vėkingā
+    sh: Vikinzi
+    si: වයිකිංවරු
+    sje: vijkiŋ
+    sk: Vikingovia
+    sl: Vikingi
+    smn: viikiŋgeh
+    sms: viikiŋŋ
+    sq: Vikingët
+    sr: Викинзи
+    su: Viking
+    sv: viking
+    sw: Waviking
+    ta: வைக்கிங்
+    te: వైకింగ్స్
+    tg: Викингҳо
+    tg-cyrl: Викингҳо
+    th: ชาวไวกิง
+    tk: Wikingler
+    tl: Viking
+    tr: Vikingler
+    tt: Викинглар
+    uk: вікінги
+    ur: وائى كنگ
+    uz: Vikinglar
+    vec: Vichinghi
+    vep: Vikingad
+    vi: Người Viking
+    vls: Viking
+    vro: Viikingiq
+    war: Viking
+    wuu: 维京人
+    xmf: ვიკინგეფი
+    yi: וויקינג
+    yue: 維京人
+    za: Vunz Veizging
+    zgh: ⴼⴰⵢⴽⵉⵏⴳ
+    zh: 維京人
+    zh-hant: 維京人
+    zh-tw: 維京人
 ---
-
 # [[Viking]] 
 
 ## #has_/text_of_/abstract 

@@ -1,20 +1,83 @@
 ---
 aliases:
-  - Shor algorithm
-  - Shor-algorithm
-  - Shor's_Algorithm
-  - Shor's Algorithm
+- algorisme de Shor
+- algorithme de Shor
+- Algoritm de fattorizzazion de Shor
+- Algoritme van Shor
+- algoritmo de Shor
+- Algoritmo di fattorizzazione di Shor
+- algoritmul lui Shor
+- Algorytm faktoryzacji Shora
+- Shor algorithm
+- Shor algoritması
+- Shor's Algorithm
+- Shor's_Algorithm
+- Shor-algorithm
+- Shor-Algorithmus
+- Shor-algoritmus
+- Shori algoritm
+- Shorin algoritmi
+- Shors algoritme
+- Shorův algoritmus
+- Thuật toán Shor
+- Šoro algoritmas
+- Šorov algoritam
+- Алгоритм Шора
+- Алгоритъм на Питър Шор
+- Шоров алгоритам
+- אלגוריתם שור
+- الگوریتم شر
+- خوارزمية شور
+- शोर का अल्गोरिद्म
+- ขั้นตอนวิธีของชอร์
+- ショアのアルゴリズム
+- 秀爾演算法
+- 쇼어 알고리즘
 has_id_wikidata: Q940334
 named_after: '[[_Standards/WikiData/WD~Peter_Shor,370071]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Peter_Shor,370071]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~quantum_algorithm,2623817]]'
-  - '[[_Standards/WikiData/WD~integer_factorization_algorithm,97940647]]'
+- '[[_Standards/WikiData/WD~quantum_algorithm,2623817]]'
+- '[[_Standards/WikiData/WD~integer_factorization_algorithm,97940647]]'
 computes_solution_to: '[[_Standards/WikiData/WD~integer_factorization,4846249]]'
 time_of_discovery_or_invention: 1994-01-01T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Beno%C3%AEt%20Prieur-algorithme%20de%20Shor.wav
+dv_has_:
+  name_:
+    ar: خوارزمية شور
+    bg: Алгоритъм на Питър Шор
+    ca: algorisme de Shor
+    cs: Shorův algoritmus
+    da: Shors algoritme
+    de: Shor-Algorithmus
+    en: Shor's algorithm
+    eo: algoritmo de Shor
+    es: Algoritmo de Shor
+    et: Shori algoritm
+    fa: الگوریتم شر
+    fi: Shorin algoritmi
+    fr: algorithme de Shor
+    he: אלגוריתם שור
+    hi: शोर का अल्गोरिद्म
+    hu: Shor-algoritmus
+    it: Algoritmo di fattorizzazione di Shor
+    ja: ショアのアルゴリズム
+    ko: 쇼어 알고리즘
+    lmo: Algoritm de fattorizzazion de Shor
+    lt: Šoro algoritmas
+    nl: Algoritme van Shor
+    pl: Algorytm faktoryzacji Shora
+    pt: Algoritmo de Shor
+    ro: algoritmul lui Shor
+    ru: Алгоритм Шора
+    sh: Šorov algoritam
+    sr: Шоров алгоритам
+    th: ขั้นตอนวิธีของชอร์
+    tr: Shor algoritması
+    uk: Алгоритм Шора
+    vi: Thuật toán Shor
+    zh: 秀爾演算法
 ---
-
 # [[Shor's_Algorithm]] 
 
 #is_/same_as :: [[WD~Shor's_algorithm,940334]] 

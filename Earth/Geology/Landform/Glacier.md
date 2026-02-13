@@ -1,52 +1,168 @@
 ---
 aliases:
-  - Gletscher
-  - Glacier
+- akullnaja
+- awin rioee
+- barafuto
+- buzlaq
+- buzluk
+- buzul
+- chelera
+- dielhtie
+- dlaciá
+- eigh-shruth
+- geleira
+- ghețar
+- ghiacciaio
+- ghiacciaru
+- Gileshiya (Tsaunin kankara)
+- glacera
+- glaciar
+- Glaciarium
+- Glacier
+- glaciero
+- glaciär
+- glacièr
+- glaecî
+- glasier
+- glasye kontinantal
+- glasyé
+- glatscher
+- glaziar
+- glaĉero
+- gleccser
+- Gletscha
+- Gletscher
+- gletser
+- gletsjer
+- gleysyer
+- glečer
+- gliesia
+- Glitsker
+- gllaciér
+- glètser
+- hatun chullunku
+- isbre
+- Istong
+- jasaro
+- jiehkke
+- jiehkki
+- jieŋâdâh
+- jäätikkö
+- jökull
+- laduojs
+- ledenik
+- ledenjak
+- ledovec
+- ledynas
+- ledājs
+- Leŋwɛ te ncʉ́ atāa
+- liustik
+- lodofôłt
+- lodowc
+- lodowiec
+- muzlik
+- Muzlıq
+- oighearshruth
+- peng-hô
+- rewliv
+- rhewlif
+- ro'yrupa
+- skorneg
+- sông băng
+- Tahirin-dranomandry
+- vedretta
+- Ľadovec
+- Ɖomba ɛwaɣ
+- παγετώνας
+- бозлык
+- булуус
+- ийнальык
+- йӧлюк
+- ледавік
+- ледник
+- льодовик
+- мұздық
+- мөсөн гол
+- мөңгү
+- пăрлăх
+- пирях
+- цъити
+- эймар
+- սառցադաշտ
+- גלעטשער
+- קרחון
+- برفالو
+- بوزلاق
+- سەھۆڵبەند
+- مثلجة
+- مۇزلۇق
+- کنګل
+- گلیشیر
+- ہَنٛدٕر
+- یخچال طبیعی
+- च्वापुखुसि
+- हिमनद
+- हिमनदी
+- हिमानी
+- হিমবাহ
+- ਗਲੇਸ਼ੀਅਰ
+- ହିମବାହ
+- பனியாறு
+- హిమానీనదం
+- ಹಿಮನದಿ
+- ഹിമാനി
+- ธารน้ำแข็ง
+- ရေခဲမြစ်
+- მყინვარი
+- უგურყელი
+- 冰川
+- 氷河
+- 빙하
 has_id_wikidata: Q35666
 OpenStreetMap_tag_or_key: Tag:natural=glacier
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Glacier%20diagram.svg
 model_item:
-  - "[[_Standards/WikiData/WD~Perito_Moreno_Glacier,367943]]"
-  - "[[_Standards/WikiData/WD~Jostedal_Glacier,654352]]"
-  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
-  - "[[_Standards/WikiData/WD~Helags_glacier,19521143]]"
-facet_of: "[[_Standards/WikiData/WD~cryosphere,493109]]"
+- '[[_Standards/WikiData/WD~Perito_Moreno_Glacier,367943]]'
+- '[[_Standards/WikiData/WD~Jostedal_Glacier,654352]]'
+- '[[_Standards/WikiData/WD~ice_cap,878077]]'
+- '[[_Standards/WikiData/WD~Helags_glacier,19521143]]'
+facet_of: '[[_Standards/WikiData/WD~cryosphere,493109]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~glacier_terminus,556920]]"
-  - "[[_Standards/WikiData/WD~glacial_lobe,98857704]]"
+- '[[_Standards/WikiData/WD~glacier_terminus,556920]]'
+- '[[_Standards/WikiData/WD~glacial_lobe,98857704]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-  - "[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]"
-has_list: "[[_Standards/WikiData/WD~list_of_glaciers,3273934]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]'
+has_list: '[[_Standards/WikiData/WD~list_of_glaciers,3273934]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~perennial_ice_or_snow_covered_land,3748258]]"
-  - "[[_Standards/WikiData/WD~ice_cover,59674586]]"
+- '[[_Standards/WikiData/WD~perennial_ice_or_snow_covered_land,3748258]]'
+- '[[_Standards/WikiData/WD~ice_cover,59674586]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Glaciers,21830071]]"
+- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
+- '[[_Standards/WikiData/WD~WikiProject_Geology,14943910]]'
+- '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~WikiProject_Glaciers,21830071]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_glacier,6548399]]"
-  - "[[_Standards/WikiData/WD~Template_Glaciers,7959410]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_glacier,6548399]]'
+- '[[_Standards/WikiData/WD~Template_Glaciers,7959410]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~Q134623384,134623384]]"
-  - "[[_Standards/WikiData/WD~glaciology,52120]]"
+- '[[_Standards/WikiData/WD~Q134623384,134623384]]'
+- '[[_Standards/WikiData/WD~glaciology,52120]]'
 properties_for_this_type:
-  - World Glacier Inventory ID
-  - Gridabase glacier ID
-  - GLAMOS glacier ID
-  - GLIMS ID
+- World Glacier Inventory ID
+- Gridabase glacier ID
+- GLAMOS glacier ID
+- GLIMS ID
 Wikidata_property: glacier status
-part_of: "[[_Standards/WikiData/WD~mountain,8502]]"
-made_from_material: "[[_Standards/WikiData/WD~ice,23392]]"
+part_of: '[[_Standards/WikiData/WD~mountain,8502]]'
+made_from_material: '[[_Standards/WikiData/WD~ice,23392]]'
 OmegaWiki_Defined_Meaning: 1654
 GeoNames_feature_code: H.GLCR
 GitHub_topic: glacier
@@ -63,25 +179,183 @@ Commons_gallery: Glacier
 Commons_category: Glaciers
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Glacier,35666]]"
-    - "[[/_Standards/Earth/Geology/Landform/Glacier|Glacier]]"
-    - "[[/_public/Earth/Geology/Landform/Glacier.public|Glacier.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Glacier.internal|Glacier.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Glacier.protect|Glacier.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Glacier.private|Glacier.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Glacier.personal|Glacier.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Glacier.secret|Glacier.secret]]"
+  - '[[../../../WikiData/WD~Glacier,35666]]'
+  - '[[/_Standards/Earth/Geology/Landform/Glacier|Glacier]]'
+  - '[[/_public/Earth/Geology/Landform/Glacier.public|Glacier.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Glacier.internal|Glacier.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Glacier.protect|Glacier.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Glacier.private|Glacier.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Glacier.personal|Glacier.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Glacier.secret|Glacier.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Glacier,35666]]"
-  - "[[/_Standards/Earth/Geology/Landform/Glacier|Glacier]]"
-  - "[[/_public/Earth/Geology/Landform/Glacier.public|Glacier.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Glacier.internal|Glacier.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Glacier.protect|Glacier.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Glacier.private|Glacier.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Glacier.personal|Glacier.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Glacier.secret|Glacier.secret]]"
+- '[[../../../WikiData/WD~Glacier,35666]]'
+- '[[/_Standards/Earth/Geology/Landform/Glacier|Glacier]]'
+- '[[/_public/Earth/Geology/Landform/Glacier.public|Glacier.public]]'
+- '[[/_internal/Earth/Geology/Landform/Glacier.internal|Glacier.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Glacier.protect|Glacier.protect]]'
+- '[[/_private/Earth/Geology/Landform/Glacier.private|Glacier.private]]'
+- '[[/_personal/Earth/Geology/Landform/Glacier.personal|Glacier.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Glacier.secret|Glacier.secret]]'
+dv_has_:
+  name_:
+    af: gletser
+    an: chelera
+    ar: مثلجة
+    as: হিমবাহ
+    ast: glaciar
+    az: buzlaq
+    azb: بوزلاق
+    bar: Gletscha
+    be: ледавік
+    be-tarask: ледавік
+    bg: ледник
+    bho: हिमानी
+    bn: হিমবাহ
+    br: skorneg
+    bs: glečer
+    ca: glacera
+    ckb: سەھۆڵبەند
+    cs: ledovec
+    csb: lodofôłt
+    cv: пăрлăх
+    cy: rhewlif
+    da: gletsjer
+    de: Gletscher
+    de-ch: Gletscher
+    el: παγετώνας
+    en: glacier
+    en-ca: glacier
+    en-gb: glacier
+    en-us: glacier
+    eo: glaĉero
+    es: glaciar
+    et: liustik
+    eu: glaziar
+    fa: یخچال طبیعی
+    fi: jäätikkö
+    fr: glacier
+    frp: gllaciér
+    frr: Istong
+    fy: Gletsjer
+    ga: oighearshruth
+    gan: 冰川
+    gcr: glasyé
+    gd: eigh-shruth
+    gl: glaciar
+    gn: ro'yrupa
+    gsw: Gletscher
+    gv: awin rioee
+    ha: Gileshiya (Tsaunin kankara)
+    he: קרחון
+    hi: हिमनद
+    hr: ledenjak
+    hsb: lodowc
+    ht: glasye kontinantal
+    hu: gleccser
+    hy: սառցադաշտ
+    ia: glaciero
+    id: gletser
+    io: glaciero
+    is: jökull
+    it: ghiacciaio
+    ja: 氷河
+    jam: gliesia
+    jv: glètser
+    ka: მყინვარი
+    kaa: Muzlıq
+    kbp: Ɖomba ɛwaɣ
+    kk: мұздық
+    kn: ಹಿಮನದಿ
+    ko: 빙하
+    ks: ہَنٛدٕر
+    kw: rewliv
+    ky: мөңгү
+    la: Glaciarium
+    lb: Gletscher
+    li: Gletsjer
+    lld: dlaciá
+    lmo: vedretta
+    lt: ledynas
+    ltg: laduojs
+    lv: ledājs
+    mai: हिमनदी
+    mg: Tahirin-dranomandry
+    mhr: ийнальык
+    mk: ледник
+    ml: ഹിമാനി
+    mn: мөсөн гол
+    mr: हिमनदी
+    ms: glasier
+    my: ရေခဲမြစ်
+    myv: эймар
+    nan: peng-hô
+    nb: isbre
+    nds: Gletscher
+    nds-nl: gletsjer
+    ne: हिमनदी
+    new: च्वापुखुसि
+    nl: gletsjer
+    nn: isbre
+    oc: glacièr
+    or: ହିମବାହ
+    os: цъити
+    pa: ਗਲੇਸ਼ੀਅਰ
+    pl: lodowiec
+    pnb: گلیشیر
+    ps: کنګل
+    pt: glaciar
+    pt-br: geleira
+    qu: hatun chullunku
+    rm: glatscher
+    ro: ghețar
+    ru: ледник
+    sah: булуус
+    scn: ghiacciaru
+    sco: glacier
+    sd: برفالو
+    se: jiehkki
+    sh: ledenjak
+    sk: Ľadovec
+    sl: ledenik
+    sma: dielhtie
+    smj: jiehkke
+    smn: jieŋâdâh
+    sq: akullnaja
+    sr: ледник
+    sr-ec: ледник
+    stq: Glitsker
+    sv: glaciär
+    sw: barafuto
+    ta: பனியாறு
+    te: హిమానీనదం
+    tg: пирях
+    th: ธารน้ำแข็ง
+    tk: buzluk
+    tl: glacier
+    tr: buzul
+    tt: бозлык
+    tt-cyrl: бозлык
+    udm: йӧлюк
+    ug: مۇزلۇق
+    uk: льодовик
+    ur: گلیشیر
+    uz: muzlik
+    vec: jasaro
+    vi: sông băng
+    vls: Gletsjer
+    wa: glaecî
+    war: gleysyer
+    wuu: 冰川
+    xmf: უგურყელი
+    ybb: Leŋwɛ te ncʉ́ atāa
+    yi: גלעטשער
+    yue: 冰川
+    zh: 冰川
+    zh-cn: 冰川
+    zh-hans: 冰川
+    zh-hk: 冰川
+    zh-tw: 冰川
 ---
-
 # [[Glacier]] 
 
 #is_/same_as :: [[WD~Glacier,35666]] 

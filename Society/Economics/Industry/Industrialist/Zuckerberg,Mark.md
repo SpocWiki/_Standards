@@ -1,75 +1,131 @@
 ---
 aliases:
-  - Mark_Zuckerberg
-  - Mark Elliot Zuckerberg
-  - Mark Zuckerberg
-  - Zuckerberg
-  - Zuckerberg,Mark
+- Marcus Zuckerberg
+- Mark Cukerberg
+- Mark Elliot Zuckerberg
+- Mark Tsukerberq
+- Mark Zuckerberg
+- Mark Zukerberq
+- Marks Zakerbergs
+- Markut Zuka̱beg
+- Mark_Zuckerberg
+- Zuckerberg
+- Zuckerberg,Mark
+- Μαρκ Ζάκερμπεργκ
+- Марк Закерберг
+- Марк Зукерберг
+- Марк Зукърбърг
+- Марк Цукерберг
+- Марк Цукербэрг
+- Цукерберг
+- Մարկ Ցուկերբերգ
+- Մարք Զաքըրպըրկ
+- מארק צוקרברג
+- مارك زاكربيرݣ
+- مارك زاكىربېرگ
+- مارك زوكربرج
+- مارك زوكربيرغ
+- مارک ذكربرگ
+- مارک زاکربرگ
+- مارک زوکربرگ
+- مارک زَکَربَرگ
+- مارک زکربرگ
+- مارڪ زوڪربرگ
+- ماڕک زەکەربێرگ
+- मार्क ज़करबर्ग
+- मार्क ज़ुकेरबर्ग
+- मार्क जुकरबर्ग
+- मार्क झुकरबर्ग
+- মার্ক জাকারবার্গ
+- মাৰ্ক যুকাৰবাৰ্গ
+- ਮਾਰਕ ਜ਼ਕਰਬਰਗ
+- માર્ક ઝુકરબર્ગ
+- ମାର୍କ ଜୁକରବର୍ଗ
+- மார்க் சக்கர்பெர்க்
+- మార్క్ జూకర్బర్గ్
+- ಮಾರ್ಕ್ ಜ಼ುಕರ್ಬರ್ಗ್
+- മാർക്ക് സക്കർബർഗ്
+- මාක් සකර්බර්ග්
+- มาร์ก ซักเคอร์เบิร์ก
+- ມາກ ຊັກເກີເບີກ
+- မာ့ခ် ဇက်ကာဘာ့
+- မာ့ခ် ဇက်ကာဘာ့ဂ်
+- მარკ ცუკერბერგი
+- ម៉ាក ហ្សុកឃឺប៊ឺគ
+- ᱢᱟᱨᱠ ᱡᱩᱠᱚᱨᱵᱚᱨᱜᱽ
+- マーク・ザッカーバーグ
+- 朱克伯格
+- 馬克·朱克伯格
+- 馬克·祖克柏
+- 马克·扎克伯格
+- ꠝꠣꠞ꠆ꠇ ꠎꠣꠇꠣꠞꠛꠣꠞ꠆ꠉ
+- 마크 저커버그
+- "\U0001033C\U00010330\U00010342\U0001033A \U00010336\U0001033F\U0001033A\U00010330\U00010339\U00010342\U00010331\U00010330\U00010339\U00010342\U00010332"
 has_id_wikidata: Q36215
 field_of_work:
-  - '[[_Standards/WikiData/WD~computer_programming,80006]]'
-  - '[[_Standards/WikiData/WD~Q355,355]]'
-  - '[[_Standards/WikiData/WD~Internet,75]]'
+- '[[_Standards/WikiData/WD~computer_programming,80006]]'
+- '[[_Standards/WikiData/WD~Q355,355]]'
+- '[[_Standards/WikiData/WD~Internet,75]]'
 occupation:
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
-  - '[[_Standards/WikiData/WD~programmer,5482740]]'
-  - '[[_Standards/WikiData/WD~philanthropist,12362622]]'
-  - '[[_Standards/WikiData/WD~patron_of_the_arts,15472169]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~philanthropist,12362622]]'
+- '[[_Standards/WikiData/WD~patron_of_the_arts,15472169]]'
 lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
-  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
-  - '[[_Standards/WikiData/WD~Innovators_Under_35,7671220]]'
-  - '[[_Standards/WikiData/WD~Axel_Springer_Award,31838295]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
-  - '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
+- '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~Innovators_Under_35,7671220]]'
+- '[[_Standards/WikiData/WD~Axel_Springer_Award,31838295]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Harvard_University,39384825]]'
+- '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Randi_Zuckerberg,292708]]'
-  - '[[_Standards/WikiData/WD~Donna_Zuckerberg,22276670]]'
-  - '[[_Standards/WikiData/WD~Arielle_Zuckerberg,22276668]]'
+- '[[_Standards/WikiData/WD~Randi_Zuckerberg,292708]]'
+- '[[_Standards/WikiData/WD~Donna_Zuckerberg,22276670]]'
+- '[[_Standards/WikiData/WD~Arielle_Zuckerberg,22276668]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Eduardo_Saverin,312663]]'
-  - '[[_Standards/WikiData/WD~Dustin_Moskovitz,370217]]'
-  - '[[_Standards/WikiData/WD~Chris_Hughes,370321]]'
+- '[[_Standards/WikiData/WD~Eduardo_Saverin,312663]]'
+- '[[_Standards/WikiData/WD~Dustin_Moskovitz,370217]]'
+- '[[_Standards/WikiData/WD~Chris_Hughes,370321]]'
 place_of_birth: '[[_Standards/WikiData/WD~White_Plains,462177]]'
 position_held: '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
 vehicle_normally_used:
-  - '[[_Standards/WikiData/WD~Pagani_Huayra,1414821]]'
-  - '[[_Standards/WikiData/WD~Acura_TSX,2455196]]'
+- '[[_Standards/WikiData/WD~Pagani_Huayra,1414821]]'
+- '[[_Standards/WikiData/WD~Acura_TSX,2455196]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Phillips_Exeter_Academy,1426464]]'
-  - '[[_Standards/WikiData/WD~New_York_Medical_College,4115972]]'
-  - '[[_Standards/WikiData/WD~Ardsley_High_School,4788298]]'
-  - '[[_Standards/WikiData/WD~Johns_Hopkins_Center_for_Talented_Youth,5059890]]'
-  - '[[_Standards/WikiData/WD~Mercy_University,16951582]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Phillips_Exeter_Academy,1426464]]'
+- '[[_Standards/WikiData/WD~New_York_Medical_College,4115972]]'
+- '[[_Standards/WikiData/WD~Ardsley_High_School,4788298]]'
+- '[[_Standards/WikiData/WD~Johns_Hopkins_Center_for_Talented_Youth,5059890]]'
+- '[[_Standards/WikiData/WD~Mercy_University,16951582]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
 medical_condition: '[[_Standards/WikiData/WD~red_green_color_blindness,2167988]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Mark,13610143]]'
 participant_in:
-  - '[[_Standards/WikiData/WD~commencement_at_the_Harvard_University,16972891]]'
-  - '[[_Standards/WikiData/WD~Ice_Bucket_Challenge,17521923]]'
+- '[[_Standards/WikiData/WD~commencement_at_the_Harvard_University,16972891]]'
+- '[[_Standards/WikiData/WD~Ice_Bucket_Challenge,17521923]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 mother: '[[_Standards/WikiData/WD~Karen_Kempner,20900226]]'
 spouse: '[[_Standards/WikiData/WD~Priscilla_Chan,20900227]]'
 father: '[[_Standards/WikiData/WD~Edwardes_Zuckerberg,20900225]]'
 family_name: '[[_Standards/WikiData/WD~Zuckerberg,21491489]]'
 child:
-  - '[[_Standards/WikiData/WD~Maxima_Chan_Zuckerberg,22302383]]'
-  - '[[_Standards/WikiData/WD~August_Chan_Zuckerberg,102400157]]'
-  - '[[_Standards/WikiData/WD~Aurelia_Chan_Zuckerberg,123336416]]'
+- '[[_Standards/WikiData/WD~Maxima_Chan_Zuckerberg,22302383]]'
+- '[[_Standards/WikiData/WD~August_Chan_Zuckerberg,102400157]]'
+- '[[_Standards/WikiData/WD~Aurelia_Chan_Zuckerberg,123336416]]'
 website_account_on: '[[_Standards/WikiData/WD~Clubhouse,104101703]]'
 different_from: '[[_Standards/WikiData/WD~Mark_Zuckerberg,115785690]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Mark_Zuckerberg,127766899]]'
 employer: '[[_Standards/WikiData/WD~Meta,380]]'
 owner_of: '[[_Standards/WikiData/WD~Meta,380]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Mandarin,9192]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Mandarin,9192]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
@@ -86,9 +142,9 @@ Threads_username: zuck
 Facebook_username: zuck
 Instagram_username: zuck
 nickname:
-  - ザック
-  - Zuck
-  - The Zucc
+- ザック
+- Zuck
+- The Zucc
 date_of_birth: 1984-05-14T00:00:00Z
 work_period_start_: 2004-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mark%20Zuckerberg%20F8%202019%20Keynote%20%2832830578717%29%20%28cropped%29.jpg
@@ -99,8 +155,177 @@ X_Twitter_username: finkd
 IMDb_keyword: reference-to-mark-zuckerberg
 hashtag: zuckerberg
 name_in_native_language: Mark Elliot Zuckerberg
+dv_has_:
+  name_:
+    af: Mark Zuckerberg
+    an: Mark Zuckerberg
+    ar: مارك زوكربيرغ
+    ary: مارك زاكربيرݣ
+    arz: مارك زوكربرج
+    as: মাৰ্ক যুকাৰবাৰ্গ
+    ast: Mark Zuckerberg
+    awa: मार्क ज़ुकेरबर्ग
+    az: Mark Zukerberq
+    bar: Mark Zuckerberg
+    bcl: Mark Zuckerberg
+    be: Марк Цукерберг
+    be-tarask: Марк Цукербэрг
+    bew: Mark Zuckerberg
+    bg: Марк Зукърбърг
+    bho: मार्क ज़करबर्ग
+    bi: Mark Zuckerberg
+    bn: মার্ক জাকারবার্গ
+    br: Mark Zuckerberg
+    bs: Mark Zuckerberg
+    ca: Mark Zuckerberg
+    ceb: Mark Zuckerberg
+    ckb: ماڕک زەکەربێرگ
+    co: Mark Zuckerberg
+    cs: Mark Zuckerberg
+    cy: Mark Zuckerberg
+    da: Mark Zuckerberg
+    de: Mark Zuckerberg
+    de-ch: Mark Zuckerberg
+    diq: Mark Zuckerberg
+    dsb: Mark Zuckerberg
+    dty: मार्क जुकरबर्ग
+    ee: Mark Zuckerberg
+    el: Μαρκ Ζάκερμπεργκ
+    eml: Mark Zuckerberg
+    en: Mark Zuckerberg
+    en-us: Mark Zuckerberg
+    eo: Mark Zuckerberg
+    es: Mark Zuckerberg
+    et: Mark Zuckerberg
+    eu: Mark Zuckerberg
+    ext: Mark Zuckerberg
+    fa: مارک زاکربرگ
+    fi: Mark Zuckerberg
+    fo: Mark Zuckerberg
+    fr: Mark Zuckerberg
+    frr: Mark Zuckerberg
+    fy: Mark Zuckerberg
+    ga: Mark Zuckerberg
+    gl: Mark Zuckerberg
+    gn: Mark Zuckerberg
+    got: "\U0001033C\U00010330\U00010342\U0001033A \U00010336\U0001033F\U0001033A\U00010330\U00010339\U00010342\U00010331\U00010330\U00010339\U00010342\U00010332"
+    gsw: Mark Zuckerberg
+    gu: માર્ક ઝુકરબર્ગ
+    ha: Mark Zuckerberg
+    he: מארק צוקרברג
+    hi: मार्क ज़ुकेरबर्ग
+    hr: Mark Zuckerberg
+    hsb: Mark Zuckerberg
+    hu: Mark Zuckerberg
+    hy: Մարկ Ցուկերբերգ
+    hyw: Մարք Զաքըրպըրկ
+    id: Mark Zuckerberg
+    ie: Mark Zuckerberg
+    io: Mark Zuckerberg
+    is: Mark Zuckerberg
+    it: Mark Zuckerberg
+    ja: マーク・ザッカーバーグ
+    jam: Mark Zuckerberg
+    jv: Mark Zuckerberg
+    ka: მარკ ცუკერბერგი
+    kaa: Mark Cukerberg
+    kab: Mark Zuckerberg
+    kbd: Марк Цукерберг
+    kcg: Markut Zuka̱beg
+    kk: Марк Цукерберг
+    kl: Mark Zuckerberg
+    km: ម៉ាក ហ្សុកឃឺប៊ឺគ
+    kn: ಮಾರ್ಕ್ ಜ಼ುಕರ್ಬರ್ಗ್
+    ko: 마크 저커버그
+    ks: مارک زَکَربَرگ
+    ku: Mark Zuckerberg
+    kw: Mark Zuckerberg
+    ky: Цукерберг
+    la: Marcus Zuckerberg
+    lb: Mark Zuckerberg
+    li: Mark Zuckerberg
+    lmo: Mark Zuckerberg
+    lo: ມາກ ຊັກເກີເບີກ
+    lt: Mark Zuckerberg
+    lv: Marks Zakerbergs
+    mai: मार्क जुकरबर्ग
+    mg: Mark Zuckerberg
+    min: Mark Zuckerberg
+    mk: Марк Цукерберг
+    ml: മാർക്ക് സക്കർബർഗ്
+    mn: Марк Цукерберг
+    mr: मार्क झुकरबर्ग
+    ms: Mark Zuckerberg
+    mt: Mark Zuckerberg
+    mul: Mark Zuckerberg
+    my: မာ့ခ် ဇက်ကာဘာ့ဂ်
+    nan: Mark Zuckerberg
+    nb: Mark Zuckerberg
+    nds: Mark Zuckerberg
+    ne: मार्क जुकरबर्ग
+    nia: Mark Zuckerberg
+    nl: Mark Zuckerberg
+    nn: Mark Zuckerberg
+    oc: Mark Zuckerberg
+    or: ମାର୍କ ଜୁକରବର୍ଗ
+    pa: ਮਾਰਕ ਜ਼ਕਰਬਰਗ
+    pam: Mark Zuckerberg
+    pl: Mark Zuckerberg
+    pnb: مارک زکربرگ
+    ps: مارک زوکربرگ
+    pt: Mark Zuckerberg
+    pt-br: Mark Zuckerberg
+    rki: မာ့ခ် ဇက်ကာဘာ့
+    rm: Mark Zuckerberg
+    rmy: Mark Zuckerberg
+    ro: Mark Zuckerberg
+    ru: Марк Цукерберг
+    sat: ᱢᱟᱨᱠ ᱡᱩᱠᱚᱨᱵᱚᱨᱜᱽ
+    sc: Mark Zuckerberg
+    scn: Mark Zuckerberg
+    sco: Mark Zuckerberg
+    sd: مارڪ زوڪربرگ
+    sh: Mark Zuckerberg
+    si: මාක් සකර්බර්ග්
+    sk: Mark Zuckerberg
+    sl: Mark Zuckerberg
+    smn: Mark Zuckerberg
+    so: Mark Zuckerberg
+    sq: Mark Zuckerberg
+    sr: Марк Закерберг
+    su: Mark Zuckerberg
+    sv: Mark Zuckerberg
+    sw: Mark Zuckerberg
+    syl: ꠝꠣꠞ꠆ꠇ ꠎꠣꠇꠣꠞꠛꠣꠞ꠆ꠉ
+    ta: மார்க் சக்கர்பெர்க்
+    te: మార్క్ జూకర్బర్గ్
+    tet: Mark Zuckerberg
+    tg: Марк Зукерберг
+    th: มาร์ก ซักเคอร์เบิร์ก
+    tk: Mark Zuckerberg
+    tl: Mark Zuckerberg
+    tly: Mark Tsukerberq
+    tr: Mark Zuckerberg
+    tt: Марк Цукерберг
+    ug: مارك زاكىربېرگ
+    uk: Марк Цукерберг
+    ur: مارک ذكربرگ
+    uz: Mark Zuckerberg
+    vi: Mark Zuckerberg
+    vls: Mark Zuckerberg
+    vo: Mark Zuckerberg
+    wa: Mark Zuckerberg
+    war: Mark Zuckerberg
+    wuu: 马克·扎克伯格
+    xmf: მარკ ცუკერბერგი
+    yo: Mark Zuckerberg
+    yue: 朱克伯格
+    zh: 马克·扎克伯格
+    zh-cn: 马克·扎克伯格
+    zh-hant: 馬克·祖克柏
+    zh-hk: 馬克·朱克伯格
+    zh-tw: 馬克·祖克柏
 ---
-
 # [[Zuckerberg,Mark]] 
 
 #is_/same_as :: [[WD~Mark_Zuckerberg,36215]] 

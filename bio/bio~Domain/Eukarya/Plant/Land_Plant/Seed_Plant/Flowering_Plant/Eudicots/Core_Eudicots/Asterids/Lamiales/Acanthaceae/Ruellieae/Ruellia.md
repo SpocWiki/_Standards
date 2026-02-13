@@ -1,9 +1,74 @@
 ---
 aliases:
-  - Ruellia
+- Ruellia
+- ruelliat
+- Ruellien
+- Ruelliya
+- Rujelija
+- Руэлли
+- Руэллия
+- رولیا
+- قصيف
+- உரூல்லியா
+- ルイラソウ属
+- 芦莉草属
+- 蘆莉草屬
 title: Ruellia s. l.
+has_id_wikidata: Q1280862
+dv_has_:
+  name_:
+    an: Ruellia
+    ar: قصيف
+    arz: قصيف
+    ast: Ruellia
+    az: Ruelliya
+    bg: Ruellia
+    ca: Ruellia
+    ceb: Ruellia
+    de: Ruellien
+    en: Ruellia
+    eo: Ruellia
+    es: Ruellia
+    eu: Ruellia
+    ext: Ruellia
+    fa: رولیا
+    fi: ruelliat
+    fr: Ruellia
+    ga: Ruellia
+    gl: Ruellia
+    hr: Rujelija
+    ia: Ruellia
+    id: Ruellia
+    ie: Ruellia
+    io: Ruellia
+    it: Ruellia
+    ja: ルイラソウ属
+    koi: Руэллия
+    kv: Руэллия
+    la: Ruellia
+    mrj: Руэлли
+    mul: Ruellia
+    nl: Ruellia
+    oc: Ruellia
+    pl: Ruellia
+    pt: Ruellia
+    pt-br: Ruellia
+    ro: Ruellia
+    ru: Руэллия
+    sq: Ruellia
+    sv: Ruellia
+    ta: உரூல்லியா
+    tr: Ruellia
+    udm: Руэллия
+    uk: Ruellia
+    vi: Ruellia
+    vo: Ruellia
+    war: Ruellia
+    zh: 芦莉草属
+    zh-cn: 芦莉草属
+    zh-hans: 芦莉草属
+    zh-tw: 蘆莉草屬
 ---
-
 # *Ruellia s. l.* 
 
 ![ ](Ruellia/Ruellia_affinis23.jpg)  ![ ](Ruellia/et166b.jpg)  ![](Ruellia/Ruellia_bourgaei1.jpg)  ![ ](Ruellia/ruel.jpg) 

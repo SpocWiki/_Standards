@@ -1,34 +1,185 @@
 ---
 aliases:
+- Bangsa Sarmatia
+- người Sarmatia
+- Sarmaadid
+- Sarmaatit
+- Sarmaci
+- Sarmatae
+- sarmatai
+- Sarmatar
+- Sarmatas
+- Sarmaten
+- Sarmater
+- sarmatere
+- Sarmates
+- Sarmati
+- Sarmatiaid
+- Sarmatiana
+- Sarmatianes
+- Sarmatians
+- Sarmatlar
+- Sarmatoj
+- Sarmattar
+- Sarmaziar
+- Sarmați
+- Sermeti
+- szarmaták
+- sàrmates
+- Sármatas
+- Σαρμάτες
+- Συρμάται
+- Сæрмæттæ
+- Сармати
+- Сарматлар
+- Сарматсем
+- Сарматтар
+- Сарматхэр
+- сарматы
+- СарматӀий
+- Սարմատներ
+- סרמטים
+- سارماتتار
+- سارماتيين
+- سرماطيون
+- سرمتی
+- سرمتی لوک
+- سرمتیلر
+- سرمتیون
+- सरमती लोग
+- ชาวซาร์เมเชีย
+- სარმატები
+- სარმატეფი
+- ሳርማትያ
+- サルマタイ
+- 萨尔马提亚人
+- 薩爾馬提亞人
+- 薩馬提亞人
+- 사르마티아
 has_id_wikidata: Q162858
-subclass_of: "[[_Standards/WikiData/WD~tribe,133311]]"
+subclass_of: '[[_Standards/WikiData/WD~tribe,133311]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Alans,178054]]"
-  - "[[_Standards/WikiData/WD~Roxolani,383325]]"
-  - "[[_Standards/WikiData/WD~Aorsi,444749]]"
-  - "[[_Standards/WikiData/WD~Saka,673001]]"
-  - "[[_Standards/WikiData/WD~Iazyges,837791]]"
-  - "[[_Standards/WikiData/WD~Siraces,2141648]]"
-different_from: "[[_Standards/WikiData/WD~Samaritan,182651]]"
+- '[[_Standards/WikiData/WD~Alans,178054]]'
+- '[[_Standards/WikiData/WD~Roxolani,383325]]'
+- '[[_Standards/WikiData/WD~Aorsi,444749]]'
+- '[[_Standards/WikiData/WD~Saka,673001]]'
+- '[[_Standards/WikiData/WD~Iazyges,837791]]'
+- '[[_Standards/WikiData/WD~Siraces,2141648]]'
+different_from: '[[_Standards/WikiData/WD~Samaritan,182651]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Dāʾirat_al_Maʿārif_Qāmūs_ʿĀmm_li_Kull_Fann_wa_Maṭlab,12211115]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~An_encyclopaedic_dictionary_of_cultural_terms_English_French_Arabic,108055079]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
-part_of: "[[_Standards/WikiData/WD~Iranian_peoples,1672477]]"
-country: "[[_Standards/WikiData/WD~Sarmatia,2528503]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Q4465708,4465708]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dāʾirat_al_Maʿārif_Qāmūs_ʿĀmm_li_Kull_Fann_wa_Maṭlab,12211115]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~An_encyclopaedic_dictionary_of_cultural_terms_English_French_Arabic,108055079]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+part_of: '[[_Standards/WikiData/WD~Iranian_peoples,1672477]]'
+country: '[[_Standards/WikiData/WD~Sarmatia,2528503]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Q4465708,4465708]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/028%20Conrad%20Cichorius%2C%20Die%20Reliefs%20der%20Traianss%C3%A4ule%2C%20Tafel%20XXVIII%20%28Ausschnitt%2001%29.jpg
 Krugosvet_article_archived_: istoriya/Sarmatae.html
 Commons_gallery: Sarmatians
 Commons_category: Sarmatians
+dv_has_:
+  name_:
+    ady: Сарматхэр
+    am: ሳርማትያ
+    an: Sarmatas
+    ar: سرماطيون
+    arz: سارماتيين
+    ast: Sármatas
+    az: Sarmatlar
+    azb: سرمتیلر
+    ba: Сарматтар
+    be: сарматы
+    be-tarask: сарматы
+    bg: Сармати
+    ca: sàrmates
+    crh: Sarmatlar
+    crh-latn: Sarmatlar
+    cs: Sarmati
+    cv: Сарматсем
+    cy: Sarmatiaid
+    da: Sarmater
+    de: Sarmaten
+    diq: Sermeti
+    el: Σαρμάτες
+    en: Sarmatians
+    eo: Sarmatoj
+    es: sármatas
+    et: Sarmaadid
+    eu: Sarmaziar
+    fa: سرمتی
+    fi: Sarmaatit
+    fr: Sarmates
+    fy: Sarmaten
+    gl: sármatas
+    grc: Συρμάται
+    he: סרמטים
+    hi: सरमती लोग
+    hr: Sarmati
+    hu: szarmaták
+    hy: Սարմատներ
+    id: Bangsa Sarmatia
+    inh: СарматӀий
+    io: Sarmati
+    is: Sarmatar
+    it: Sarmati
+    ja: サルマタイ
+    ka: სარმატები
+    kk: Сарматтар
+    kk-arab: سارماتتار
+    kk-cn: سارماتتار
+    kk-cyrl: Сарматтар
+    kk-kz: Сарматтар
+    kk-latn: Sarmattar
+    kk-tr: Sarmattar
+    ko: 사르마티아
+    la: Sarmatae
+    lfn: Sarmatianes
+    lt: sarmatai
+    lv: sarmati
+    mg: Sarmatiana
+    mk: Сармати
+    mzn: سرمتیون
+    nb: sarmatere
+    nl: Sarmaten
+    os: Сæрмæттæ
+    pl: Sarmaci
+    pnb: سرمتی لوک
+    pt: Sármatas
+    ro: Sarmați
+    ru: сарматы
+    sco: Sarmatians
+    sh: Sarmati
+    sk: Sarmati
+    sl: Sarmati
+    sr: Сармати
+    sr-ec: Сармати
+    sr-el: Sarmati
+    sv: Sarmater
+    th: ชาวซาร์เมเชีย
+    tr: Sarmatlar
+    tt: Сарматлар
+    tt-cyrl: Сарматлар
+    uk: сармати
+    uz: Sarmatlar
+    vec: sarmati
+    vi: người Sarmatia
+    wuu: 萨尔马提亚人
+    xmf: სარმატეფი
+    yue: 薩馬提亞人
+    zh: 萨尔马提亚人
+    zh-cn: 萨尔马提亚人
+    zh-hans: 萨尔马提亚人
+    zh-hant: 薩爾馬提亞人
+    zh-hk: 薩爾馬提亞人
+    zh-sg: 萨尔马提亚人
+    zh-tw: 薩爾馬提亞人
 ---
-
 # [[Sarmatians]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sarmatians,162858|WD~Sarmatians,162858]] 

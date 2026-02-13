@@ -1,9 +1,207 @@
 ---
 aliases:
-  - Squamata
+- Bò sát có vảy
+- Escamados
+- Escamosos
+- Escatós
+- Fjällbärande kräldjur
+- Hreisturdýr
+- Iú-lân-ba̍k
+- Jašterotvaré
+- Ljuskaši
+- luskarji
+- Pelikdar
+- pikkelyes hüllők
+- Pulcuqlular
+- Pullular
+- Qabırşaqtılar
+- schubreptielen
+- Schubreptieln
+- Schuppenkriechtiere
+- Schuppereptiller
+- skjelkrypdyr
+- skjellreptiler
+- Skobhûdigen
+- Skolepkrepdiarten
+- Skubreptiel
+- Skvamuloj
+- slanger og øgler
+- Soomuselised
+- Squamata
+- suomumatelijat
+- Tangachalilar
+- Timeskebrin
+- zvīņrāpuļi
+- łuskonośne
+- šupinatí
+- Žvynaropliai
+- Φολιδωτά
+- Вĕтĕ хупǎллисем
+- Кабырчыктуулар
+- лускаватыя
+- лускаті
+- лушпари
+- люспести
+- Хæрвæгонтæ
+- чешуйчатые
+- Қабыршақтылар
+- թեփուկավորներ
+- קשקשאים
+- حرشفيات
+- قابىرشاقتىلار
+- پولجوقلولار
+- پولکداران
+- چانے کرلے
+- स्क्वमाटा
+- செதிலுடைய ஊர்வன
+- อันดับกิ้งก่าและงู
+- ქერცლიანები
+- 有鱗目
+- 有鳞目
+- 뱀목
 title: Squamata
+has_id_wikidata: Q122422
+dv_has_:
+  name_:
+    af: Skubreptiel
+    an: Squamata
+    ar: حرشفيات
+    arz: حرشفيات
+    ast: Squamata
+    az: Pulcuqlular
+    azb: پولجوقلولار
+    bar: Squamata
+    be: лускаватыя
+    be-tarask: лускаватыя
+    bg: люспести
+    br: Squamata
+    bs: Squamata
+    ca: Escatós
+    ceb: Squamata
+    co: Squamata
+    cs: šupinatí
+    cv: Вĕтĕ хупǎллисем
+    cy: Squamata
+    da: slanger og øgler
+    de: Schuppenkriechtiere
+    de-at: Squamata
+    de-ch: Schuppenkriechtiere
+    el: Φολιδωτά
+    en: Squamata
+    en-ca: Squamata
+    en-gb: Squamata
+    eo: Skvamuloj
+    es: Squamata
+    et: Soomuselised
+    eu: Squamata
+    ext: Squamata
+    fa: پولکداران
+    fi: suomumatelijat
+    fr: Squamata
+    frp: Squamata
+    frr: Skolepkrepdiarten
+    fur: Squamata
+    fy: Skobhûdigen
+    ga: Squamata
+    gd: Squamata
+    gl: Escamosos
+    gsw: Squamata
+    he: קשקשאים
+    hi: स्क्वमाटा
+    hr: Ljuskaši
+    hu: pikkelyes hüllők
+    hy: թեփուկավորներ
+    ia: Squamata
+    id: Squamata
+    ie: Squamata
+    io: Squamata
+    is: Hreisturdýr
+    it: Squamata
+    ja: 有鱗目
+    jv: Squamata
+    ka: ქერცლიანები
+    kab: Timeskebrin
+    kg: Squamata
+    kk: Қабыршақтылар
+    kk-arab: قابىرشاقتىلار
+    kk-cn: قابىرشاقتىلار
+    kk-cyrl: Қабыршақтылар
+    kk-kz: Қабыршақтылар
+    kk-latn: Qabırşaqtılar
+    kk-tr: Qabırşaqtılar
+    ko: 뱀목
+    ku: Pelikdar
+    ky: Кабырчыктуулар
+    la: Squamata
+    lb: Schuppereptiller
+    li: Squamata
+    lij: Squamata
+    lt: Žvynaropliai
+    lv: zvīņrāpuļi
+    mg: Squamata
+    min: Squamata
+    mk: лушпари
+    mrj: Squamata
+    ms: Squamata
+    mt: Squamata
+    mul: Squamata
+    nan: Iú-lân-ba̍k
+    nap: Squamata
+    nb: skjellreptiler
+    nds: Squamata
+    nds-nl: Squamata
+    nl: schubreptielen
+    nn: skjelkrypdyr
+    nrm: Squamata
+    nys: Squamata
+    oc: Squamata
+    os: Хæрвæгонтæ
+    pcd: Squamata
+    pl: łuskonośne
+    pms: Squamata
+    pnb: چانے کرلے
+    pt: Escamados
+    pt-br: Escamados
+    rm: Squamata
+    ro: Squamata
+    ru: чешуйчатые
+    sc: Squamata
+    scn: Squamata
+    sco: Squamata
+    sk: Jašterotvaré
+    sl: luskarji
+    sq: Squamata
+    sr: Squamata
+    sr-ec: Squamata
+    sr-el: Squamata
+    su: Squamata
+    sv: Fjällbärande kräldjur
+    sw: Squamata
+    ta: செதிலுடைய ஊர்வன
+    th: อันดับกิ้งก่าและงู
+    tl: Squamata
+    tr: Pullular
+    uk: лускаті
+    uz: Tangachalilar
+    vec: Squamata
+    vi: Bò sát có vảy
+    vls: Schubreptieln
+    vo: Squamata
+    wa: Squamata
+    war: Squamata
+    wo: Squamata
+    wuu: 有鳞目
+    yue: 有鱗目
+    zea: Squamata
+    zh: 有鱗目
+    zh-cn: 有鳞目
+    zh-hans: 有鳞目
+    zh-hant: 有鱗目
+    zh-hk: 有鱗目
+    zh-sg: 有鳞目
+    zh-tw: 有鱗目
+    zu: Squamata
 ---
-
 # [[Squamata]]
 
 Lizards and snakes 

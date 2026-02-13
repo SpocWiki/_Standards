@@ -1,10 +1,58 @@
 ---
 aliases:
-  - Allophryne_ruthveni
-  - Allophryne ruthveni
+- Allophryne
+- Allophryne ruthveni
+- Allophryne_ruthveni
+- Blattkrötchen
+- безуха дървесна жаба
+- Безухая квакша
+- אלופריניים
+- تپهغوکیان
+- ضفدع تل توكيت
 title: Allophryne ruthveni
+has_id_wikidata: Q656324
+dv_has_:
+  name_:
+    an: Allophryne ruthveni
+    ar: ضفدع تل توكيت
+    arz: ضفدع تل توكيت
+    ast: Allophryne ruthveni
+    bg: безуха дървесна жаба
+    ca: Allophryne ruthveni
+    ceb: Allophryne
+    de: Blattkrötchen
+    en: Allophryne ruthveni
+    eo: Allophryne ruthveni
+    es: Allophryne ruthveni
+    eu: Allophryne ruthveni
+    ext: Allophryne ruthveni
+    fa: تپهغوکیان
+    fi: Allophryne ruthveni
+    fr: Allophryne ruthveni
+    ga: Allophryne ruthveni
+    gl: Allophryne ruthveni
+    he: אלופריניים
+    hu: Allophryne ruthveni
+    ia: Allophryne ruthveni
+    ie: Allophryne ruthveni
+    io: Allophryne ruthveni
+    it: Allophryne ruthveni
+    la: Allophryne ruthveni
+    mul: Allophryne ruthveni
+    nl: Allophryne ruthveni
+    oc: Allophryne ruthveni
+    pl: Allophryne ruthveni
+    pt: Allophryne ruthveni
+    pt-br: Allophryne ruthveni
+    ro: Allophryne ruthveni
+    ru: Безухая квакша
+    sq: Allophryne ruthveni
+    sv: Allophryne ruthveni
+    uk: Allophryne ruthveni
+    vi: Allophryne
+    vo: Allophryne ruthveni
+    war: Allophryne ruthveni
 ---
-
 # Allophryne ruthveni 
 
 ## #has_/text_of_/abstract 

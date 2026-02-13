@@ -1,5 +1,309 @@
 ---
-has_time_started: 2012-10-29 
+has_time_started: 2012-10-29
+aliases:
+- lipu Wikinanpa
+- túyú éwú kúmà dó lébél
+- Veizgiek Soqgi
+- Vicidata
+- Vicidatos
+- Vikidat
+- Vikidata
+- Vikidati
+- vikidatumoj
+- Vikiduomenys
+- Vikima'lumot
+- Vikipodaci
+- Vikiveri
+- Vükinunäds
+- Wicidata
+- Wikibirelmälär
+- Wikidane
+- WikiData
+- Wikidatos
+- Wikidonaji
+- Wikidátus
+- Wikimaǵlıwmatlar
+- Wikipodaci
+- Wikipodatci
+- Wikipodatki
+- Wikiúdaje
+- Wîkîdane
+- Авикидыррақәа
+- Вікідані
+- Вікіданыя
+- Вікізьвесткі
+- Викибирелмәләр
+- Викида̄ннэ
+- Викиданные
+- Викидата
+- Викидода
+- Викимаалымат
+- Викимәгълүматлар
+- Викимәғлүмәт
+- Википодатоци
+- Википодаци
+- Викирардтæ
+- Викитодэтъёсы
+- Викихаамаш
+- Уикиданни
+- Уикидерек
+- Վիքիտվյալներ
+- ויקינתונים
+- ويكى داتا
+- ويكي بيانات
+- ويكي معلومة
+- ويکياومتوک
+- ويکيتداتا
+- وِکیٖڈیٹا
+- وِکیڈیٹا
+- وڪيڊيٽا
+- ویکیدئیتا
+- ویکیداده
+- ویکیدراوە
+- ویکیدیتا
+- ویکیڈیٹا
+- ߥߞߌߘߕߊ
+- विकिडाटा
+- विकिडेटा
+- উইকিউপাত্ত
+- ৱিকিতথ্য
+- ਵਿਕੀਡਾਟਾ
+- વિકિડેટા
+- ଉଇକିଡାଟା
+- விக்கித்தரவு
+- వికీడేటా
+- ವಿಕಿಡಾಟಾ
+- വിക്കിഡാറ്റ
+- විකිඩේටා
+- วิกิสนเทศ
+- ဝီကီဒေတာ
+- ဝီခီဒေတာ
+- ვიკიმონაცემები
+- ዊኪዳታ
+- វិគីទិន្នន័យ
+- ᥝᥤᥱ ᥑᥤᥱ ᥖᥥᥱ ᥖᥣᥱ
+- ᬯᬶᬓᬶᬤᬢ
+- ᱣᱤᱠᱤᱰᱮᱴᱟ
+- ⵡⵉⴽⵉⵙⴼⴽⴰ
+- ウィキデータ
+- ヰキデータ
+- 維基數據
+- 维基数据
+- ꠃꠁꠇꠤꠒꠣꠐꠣ
+- 위키데이터
+- 위키자료
+has_id_wikidata: Q2013
+instance_of:
+- '[[_Standards/WikiData/WD~knowledge_base,593744]]'
+- '[[_Standards/WikiData/WD~online_database,7094076]]'
+- '[[_Standards/WikiData/WD~MediaWiki_wiki,15633582]]'
+- '[[_Standards/WikiData/WD~knowledge_graph,33002955]]'
+- '[[_Standards/WikiData/WD~Wikimedia_content_project,33120876]]'
+significant_event:
+- '[[_Standards/WikiData/WD~presentation,604733]]'
+- '[[_Standards/WikiData/WD~anniversary,1062856]]'
+- '[[_Standards/WikiData/WD~QID_milestone,38074555]]'
+replaces:
+- '[[_Standards/WikiData/WD~interwiki_link,677652]]'
+- '[[_Standards/WikiData/WD~WikiProject_Persondata,21830599]]'
+has_characteristic:
+- '[[_Standards/WikiData/WD~secondary_source,905511]]'
+- '[[_Standards/WikiData/WD~tertiary_source,1063801]]'
+- '[[_Standards/WikiData/WD~collaboration,1145523]]'
+- '[[_Standards/WikiData/WD~curating,63386008]]'
+- '[[_Standards/WikiData/WD~quaternary_reference,105459799]]'
+sponsor:
+- '[[_Standards/WikiData/WD~Gordon_and_Betty_Moore_Foundation,3070474]]'
+- '[[_Standards/WikiData/WD~Allen_Institute_for_Artificial_Intelligence,16002567]]'
+- '[[_Standards/WikiData/WD~Google,95]]'
+has_part_s_of_the_class:
+- '[[_Standards/WikiData/WD~semantic_triple,3539534]]'
+- '[[_Standards/WikiData/WD~user_account,3604202]]'
+- '[[_Standards/WikiData/WD~Wikidata_item,16222597]]'
+- '[[_Standards/WikiData/WD~active_user,22075476]]'
+- '[[_Standards/WikiData/WD~Wikibase_lexeme,51885771]]'
+- '[[_Standards/WikiData/WD~MediaWiki_page_revision,83378585]]'
+- '[[_Standards/WikiData/WD~word,8171]]'
+used_by:
+- '[[_Standards/WikiData/WD~OpenRefine,5583871]]'
+- '[[_Standards/WikiData/WD~Wikidata_Game,17595556]]'
+- '[[_Standards/WikiData/WD~iD,18275868]]'
+- '[[_Standards/WikiData/WD~QuickStatements,20084080]]'
+- '[[_Standards/WikiData/WD~Primary_Sources_Tool,20656106]]'
+- '[[_Standards/WikiData/WD~Platypus,20726406]]'
+- '[[_Standards/WikiData/WD~Wikidata_Query_Service,20950365]]'
+- '[[_Standards/WikiData/WD~Search_Autodescription,21281236]]'
+- '[[_Standards/WikiData/WD~WikiData_Free_Image_Search_Tool,21283216]]'
+- '[[_Standards/WikiData/WD~PagePile,21449969]]'
+- '[[_Standards/WikiData/WD~Harvest_Templates,21914398]]'
+- '[[_Standards/WikiData/WD~PetScan,23665536]]'
+- '[[_Standards/WikiData/WD~metaphactory,23831237]]'
+- '[[_Standards/WikiData/WD~Related_Properties,25337203]]'
+- '[[_Standards/WikiData/WD~TABernacle,26882268]]'
+- '[[_Standards/WikiData/WD~WikiShootMe,26964791]]'
+- "[[_Standards/WikiData/WD~Mix'n'match,28054658]]"
+- '[[_Standards/WikiData/WD~QuickStatements_2,29032512]]'
+- '[[_Standards/WikiData/WD~Sistercities,29167550]]'
+- '[[_Standards/WikiData/WD~Monumental,29167605]]'
+- '[[_Standards/WikiData/WD~ConedaKOR,42309254]]'
+- '[[_Standards/WikiData/WD~Scholia,45340488]]'
+- '[[_Standards/WikiData/WD~Ask_Wikidata,47525820]]'
+- '[[_Standards/WikiData/WD~Wikipedia_and_Wikidata_Tools,48719750]]'
+- '[[_Standards/WikiData/WD~BridgeDb,55582517]]'
+- '[[_Standards/WikiData/WD~Sophox,55840137]]'
+- '[[_Standards/WikiData/WD~OSM_Wikidata_matcher,62057752]]'
+copyright_license:
+- '[[_Standards/WikiData/WD~Creative_Commons_CC0_License,6938433]]'
+- '[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_3.0_Unported,14946043]]'
+- '[[_Standards/WikiData/WD~Creative_Commons_Attribution_ShareAlike_4.0_International,18199165]]'
+uses:
+- '[[_Standards/WikiData/WD~semantic_technology,7449091]]'
+- '[[_Standards/WikiData/WD~Q16354758,16354758]]'
+- '[[_Standards/WikiData/WD~data_donation,99608496]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wikidata,8478926]]'
+software_engine:
+- '[[_Standards/WikiData/WD~Q16354758,16354758]]'
+- '[[_Standards/WikiData/WD~Q83,83]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q18325389,18325389]]'
+award_received:
+- '[[_Standards/WikiData/WD~Open_Data_Award,18503067]]'
+- '[[_Standards/WikiData/WD~Open_Publishing_Awards,74903609]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Q18507561,18507561]]'
+- '[[_Standards/WikiData/WD~Q27042516,27042516]]'
+- '[[_Standards/WikiData/WD~Q29644957,29644957]]'
+- '[[_Standards/WikiData/WD~Q56010228,56010228]]'
+founded_by:
+- '[[_Standards/WikiData/WD~Markus_Krötzsch,18618630]]'
+- '[[_Standards/WikiData/WD~Denny_Vrandečić,18618629]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+main_subject: '[[_Standards/WikiData/WD~linked_open_data,18692990]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
+operator:
+- '[[_Standards/WikiData/WD~Wikimedia_Site_Reliability_Engineering,27983259]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+creator:
+- '[[_Standards/WikiData/WD~Wikidata_editors,28859214]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Deutschland,8288]]'
+practiced_by: '[[_Standards/WikiData/WD~Wikidata_editor,28859215]]'
+dataset_distribution:
+- '[[_Standards/WikiData/WD~Wikidata_RDF_Dump_Format,32786132]]'
+- '[[_Standards/WikiData/WD~Wikidata_JSON_dumps,58624545]]'
+history_of_topic:
+- '[[_Standards/WikiData/WD~QID_milestone,38074555]]'
+- '[[_Standards/WikiData/WD~LID_milestone,55003547]]'
+part_of:
+- '[[_Standards/WikiData/WD~Linked_Open_Data_cloud_diagram,43984865]]'
+- '[[_Standards/WikiData/WD~Network_of_Terms,133444965]]'
+- '[[_Standards/WikiData/WD~Semantic_Web,54837]]'
+copyright_status:
+- '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+- '[[_Standards/WikiData/WD~copyrighted,_dedicated_to_the_public_domain_by_copyright_holder,88088423]]'
+has_part_s_: '[[_Standards/WikiData/WD~lexicographical_data_in_Wikidata,51955175]]'
+author: '[[_Standards/WikiData/WD~Wikimedia_community,56035565]]'
+complies_with: '[[_Standards/WikiData/WD~Digital_Public_Goods_Standard,102442905]]'
+funder: '[[_Standards/WikiData/WD~Wikidata_funder,116726820]]'
+different_from: '[[_Standards/WikiData/WD~Wikidata.org,124314549]]'
+developer:
+- '[[_Standards/WikiData/WD~Wikimedia_Deutschland,8288]]'
+- '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+website_account_on: '[[_Standards/WikiData/WD~identi.ca,28773]]'
+owned_by: '[[_Standards/WikiData/WD~Wikimedia_Foundation,180]]'
+named_after: '[[_Standards/WikiData/WD~data,42848]]'
+social_media_followers: 24560
+Alexa_rank: 7136
+dummy_value:
+- Q17339402
+- P369
+- Q4115189
+- Q13406268
+- Q15397819
+Research_Resource_Identifier: SCR_018492
+Mastodon_address: wikidata@wikis.world
+Telegram_username:
+- wikidatachat
+- http://www.wikidata.org/.well-known/genid/74687a9f2908f69585701ede9f79411f
+Bluesky_handle: wikidatacommunity.bsky.social
+short_name:
+- ВЗ
+- ВД
+- WD
+motto_text:
+- the free knowledge base that anyone can edit
+- la base de conocimiento libre que todo el mundo puede editar
+- מאגר הידע החינמי שכל אחד יכול לערוך
+date_of_official_opening: 2012-10-29T00:00:00Z
+inception: 2012-10-29T00:00:00Z
+number_of_triples: 15019738576
+Similarweb_ranking: 11159
+DuckDuckGo_bang:
+- wd
+- wdt
+native_label: Wikidata
+interwiki_prefix_at_Wikimedia:
+- d
+- wikidata
+- lexemes
+login_URL: https://www.wikidata.org/wiki/Special:UserLogin
+Australian_Trade_Mark_Number:
+- 1658100
+- 1637860
+official_website: https://wikidata.org/
+described_at_URL:
+- http://viaf.org/viaf/partnerpages/WKP.html
+- https://dashboard.wikiedu.org/training/wikidata-professional
+- https://iccl.inf.tu-dresden.de/web/Wikidata
+- https://python.langchain.com/docs/integrations/tools/wikidata/
+- https://www.theguardian.com/news/datablog/2013/apr/26/wikidata-launch
+- https://www.wikidata.org/wiki/Wikidata:Main_Page
+registration_page_URL: https://www.wikidata.org/wiki/Special:CreateAccount
+official_forum_URL: https://www.wikidata.org/wiki/Wikidata:Project_chat
+IRC_channel_URL: irc://irc.libera.chat/wikidata
+X_Twitter_username: wikidata
+OpenStreetMap_key: wikidata
+GitHub_topic: wikidata
+identifiers_org_prefix: wikidata
+Datahub_page: wikidata
+domain_name: wikidata.org
+Wikimedia_database_name: wikidatawiki
+GitHub_username: Wikidata
+Facebook_username: Wikidata
+Commons_category: Wikidata
+ComputerLanguage_com_definition: Wikidata
+Stadtwiki_Dresden_article: Wikidata
+subreddit: Wikidata
+hashtag: Wikidata
+SPARQL_endpoint_URL: https://query.wikidata.org/sparql
+API_endpoint_URL:
+- https://www.wikidata.org/w/api.php
+- https://www.wikidata.org/w/rest.php
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikidata-logo-en.svg
+number_of_registered_users_contributors: 6179033
+terms_of_service_URL: https://foundation.wikimedia.org/wiki/Terms_of_Use
+video: http://commons.wikimedia.org/wiki/Special:FilePath/Instructievideo%20Wikidata%20aanmaken%20item%20Irene%20Houben.webm
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-0x010C-fra-Wikidata.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikidata-nl.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikidata%20-%20pronounced%20by%20Andy%20Mabbett%20-%202019-10-25.ogg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikidata-Homepage%2020220422%2021%2018%2054.png
+small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Wikidata%20Favicon%20color.svg
+spoken_text_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Wikidata%20%28hablado%20por%20voz%20AI%29.mp3
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Wikidata%20%28spoken%20by%20AI%20voice%29.mp3
+exact_match:
+- https://observablehq.com/tag/wikidata
+- https://wikis.world/tags/Wikidata
+Stack_Exchange_tag:
+- https://opendata.stackexchange.com/tags/wikidata
+- https://stackoverflow.com/tags/wikidata
+issue_tracker_URL: https://phabricator.wikimedia.org/project/view/71/
+web_feed_URL: https://www.wikidata.org/w/api.php?hidecategorization=1&urlversion=2&days=30&limit=50&action=feedrecentchanges&feedformat=atom
+FAQ_URL: https://www.wikidata.org/wiki/Help:FAQ
+service_status_information_URL: https://www.wikimediastatus.net
+IPA_transcription: ˌwɪ.ki.ˈdeɪ.tə
+Commons_gallery: Commons:Wikidata
+IM_channel_URL: https://chat.wmcloud.org/wikimedia/channels/wikidata
+search_formatter_URL: https://www.wikidata.org/w/index.php?search=has_time_started: 2012-10-29 
 aliases:
   - WikiData
 has_id_wikidata: Q2013
@@ -214,8 +518,126 @@ IPA_transcription: ˌwɪ.ki.ˈdeɪ.tə
 Commons_gallery: Commons:Wikidata
 IM_channel_URL: https://chat.wmcloud.org/wikimedia/channels/wikidata
 search_formatter_URL: https://www.wikidata.org/w/index.php?search=$1
+dv_has_:
+  name_:
+    yue: 維基數據
+    za: Veizgiek Soqgi
+    zh: 维基数据
+    zh-cn: 维基数据
+    zh-hk: 維基數據
+    zh-mo: 維基數據
+    zh-my: 维基数据
+    zh-sg: 维基数据
+    zh-tw: 維基數據
+    kaa: Wikimaǵlıwmatlar
+    tt: Викимәгълүматлар
+    igl: túyú éwú kúmà dó lébél
+    zgh: ⵡⵉⴽⵉⵙⴼⴽⴰ
+    krj: Wikidatos
+    pam: Wikidátus
+    sjd: Викида̄ннэ
+    ps: ويکياومتوک
+    en: Wikidata
+    zh-hans: 维基数据
+    zh-hant: 維基數據
+    cs: Wikidata
+    ko: 위키데이터
+    fa: ویکیداده
+    tg: Викидода
+    es: Wikidata
+    la: Vicidata
+    pl: Wikidane
+    ml: വിക്കിഡാറ്റ
+    tok: lipu Wikinanpa
+    mul: Wikidata
+    ar: ويكي بيانات
+    be-tarask: Вікізьвесткі
+    ka: ვიკიმონაცემები
+    cdo: 維基數據
+    ru: Викиданные
+    ab: Авикидыррақәа
+    aeb-arab: ويكي معلومة
+    arz: ويكى داتا
+    as: ৱিকিতথ্য
+    az: Vikidata
+    azb: ویکیدئیتا
+    ba: Викимәғлүмәт
+    ban-bali: ᬯᬶᬓᬶᬤᬢ
+    be: Вікіданыя
+    bg: Уикиданни
+    bho: विकिडेटा
+    blk: ဝီခီဒေတာ
+    bn: উইকিউপাত্ত
+    bs: Wikipodaci
+    ca: Wikidata
+    ce: Викихаамаш
+    ckb: ویکیدراوە
+    cy: Wicidata
+    el: Wikidata
+    en-us: Wikidata
+    eo: vikidatumoj
+    gl: Wikidata
+    gu: વિકિડેટા
+    he: ויקינתונים
+    hi: विकिडेटा
+    hr: Wikipodatci
+    hu: Wikidata
+    hy: Վիքիտվյալներ
+    io: Wikidonaji
+    it: Wikidata
+    ja: ウィキデータ
+    kk: Уикидерек
+    km: វិគីទិន្នន័យ
+    kn: ವಿಕಿಡಾಟಾ
+    ko-kp: 위키자료
+    ks: وِکیٖڈیٹا
+    ku: Wîkîdane
+    ku-latn: Wîkîdane
+    ky: Викимаалымат
+    lfn: Vicidatos
+    lt: Vikiduomenys
+    lv: Vikidati
+    lzh: 維基數據
+    mhr: Викидата
+    mk: Википодатоци
+    mr: विकिडाटा
+    ms-arab: ويکيتداتا
+    mt: Wikidata
+    my: ဝီကီဒေတာ
+    mzn: ویکیدیتا
+    ne: विकिडेटा
+    nqo: ߥߞߌߘߕߊ
+    or: ଉଇକିଡାଟା
+    os: Викирардтæ
+    pa: ਵਿਕੀਡਾਟਾ
+    pnb: وِکیڈیٹا
+    ryu: ヰキデータ
+    sat: ᱣᱤᱠᱤᱰᱮᱴᱟ
+    sd: وڪيڊيٽا
+    sh: Wikipodaci
+    si: විකිඩේටා
+    sk: Wikiúdaje
+    sl: Wikipodatki
+    sr: Википодаци
+    sr-ec: Википодаци
+    sr-el: Vikipodaci
+    syl: ꠃꠁꠇꠤꠒꠣꠐꠣ
+    ta: விக்கித்தரவு
+    tdd: ᥝᥤᥱ ᥑᥤᥱ ᥖᥥᥱ ᥖᥣᥱ
+    te: వికీడేటా
+    th: วิกิสนเทศ
+    ti: ዊኪዳታ
+    tr: Vikiveri
+    tt-cyrl: Викибирелмәләр
+    tt-latn: Wikibirelmälär
+    udm: Викитодэтъёсы
+    uk: Вікідані
+    ur: ویکیڈیٹا
+    uz: Vikima'lumot
+    vep: Vikidat
+    vo: Vükinunäds
+    wuu: 维基数据
 ---
-
 # [[WikiData]]
 
 #is_/same_as :: [[WD~WikiData,2013]]

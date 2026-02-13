@@ -1,121 +1,306 @@
 ---
 aliases:
-  - Object
-  - Thing
-  - Instance
-  - Entity
-  - owl:Thing
-  - SomeThing
-  - AnyThing
-  - schema:Thing
-  - is_a_
-  - is_a_thing
-  - rdfs:Resource
-  - things
-  - sumo~Entity
+- abu
+- AnyThing
+- aonán
+- biće
+- bolmıs
+- encja
+- endid
+- ens
+- ente
+- entidad
+- entidade
+- entidá
+- entita
+- entitas
+- entitat
+- entitate
+- entite
+- entiteet
+- entiteetti
+- entiteit
+- entitet
+- entiteta
+- entiti
+- Entity
+- entità
+- entitás
+- Entität
+- entité
+- Entitéit
+- ento
+- Estey
+- esybė
+- ijo
+- Instance
+- is_a_
+- is_a_thing
+- izaki
+- Kantha
+- Kejegregan
+- Kitu
+- konkrēta lieta
+- lo zasti
+- nkan
+- Object
+- olmuz
+- owl:Thing
+- rdfs:Resource
+- schema:Thing
+- SomeThing
+- sumo~Entity
+- Thing
+- things
+- thực thể
+- Umenzo
+- varlık
+- varlıq
+- veran
+- οντότητα
+- асыл
+- Болмыс
+- ентитет
+- зат
+- мавҷудот
+- нещо
+- Пурри
+- сутність
+- сутнасць
+- сутнасьць
+- сушност
+- Сущее
+- сущность
+- էություն
+- ישות
+- اينتيتي
+- كيان
+- موجود
+- هستار
+- وجود
+- ھەبوو
+- इन्टिटी
+- সত্তা
+- สิ่ง
+- ყოფიერება
+- エンティティ
+- 实体
+- 實體
+- 존재자
 has_id_wikidata: Q35120
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 dv_has_child_class:
-  - "[[Class/is_a_/action|Action]]"
-  - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
-  - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
-  - "[[Class/is_a_/event|event]]"
-  - "[[Class/is_a_/Intangible|Intangible]]"
-  - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
-  - "[[../../Earth/Geography/Place|place]]"
-  - "[[../../Society/Agent/Community/Organization|organization]]"
-  - "[[../../Society/Agent/Person|person]]"
-  - "[[../../Society/Agent/Community/Organization/Business/Product|product]]"
-  - "[[../../bio/Taxon_Rank/Taxon|taxon]]"
+- '[[Class/is_a_/action|Action]]'
+- '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
+- '[[../../Society/Communication/Media/Creative_Work|creative_work]]'
+- '[[Class/is_a_/event|event]]'
+- '[[Class/is_a_/Intangible|Intangible]]'
+- '[[../../bio/Medicine/Medical_Entity|medical-entity]]'
+- '[[../../Earth/Geography/Place|place]]'
+- '[[../../Society/Agent/Community/Organization|organization]]'
+- '[[../../Society/Agent/Person|person]]'
+- '[[../../Society/Agent/Community/Organization/Business/Product|product]]'
+- '[[../../bio/Taxon_Rank/Taxon|taxon]]'
 has_time_started: 2023-10-02
 isDeleted: false
 isReadOnly: false
 keywords:
-  - thing
+- thing
 lang: en
-layout: ""
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_thing Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - schema-org/Class
-  - class/Class
+- schema-org/Class
+- class/Class
 title: is_a_thing Class
 type: Type
 dv_is_:
   same_as:
-    - "[[WD~Entity,35120]]"
-    - "[[Thing]]"
-    - "[[/_public/schema-org/Class/Thing.public|Thing.public]]"
-    - "[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]"
-    - "[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]"
-    - "[[/_private/schema-org/Class/Thing.private|Thing.private]]"
-    - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
-    - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
-  instance_of: "[[../Class|Class]]"
-  parent_class: "[[Thing]]"
+  - '[[WD~Entity,35120]]'
+  - '[[Thing]]'
+  - '[[/_public/schema-org/Class/Thing.public|Thing.public]]'
+  - '[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]'
+  - '[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]'
+  - '[[/_private/schema-org/Class/Thing.private|Thing.private]]'
+  - '[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]'
+  - '[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]'
+  instance_of: '[[../Class|Class]]'
+  parent_class: '[[Thing]]'
 dv_has_:
   child_:
     class:
-      - "[[is_a_/Action|Action]]"
-      - "[[Class/is_a_/bio_chem_entity|bio_chem_entity]]"
-      - "[[../../Society/Communication/Media/Creative_Work|creative_work]]"
-      - "[[Class/is_a_/event|event]]"
-      - "[[Class/is_a_/Intangible|Intangible]]"
-      - "[[../../bio/Medicine/Medical_Entity|medical-entity]]"
-      - "[[../../Earth/Geography/Place|place]]"
-      - "[[../../Society/Agent/Community/Organization|organization]]"
-      - "[[../../Society/Agent/Person|person]]"
-      - "[[../../Society/Agent/Community/Organization/Business/Product|product]]"
-      - "[[../../bio/Taxon_Rank/Taxon|taxon]]"
+    - '[[is_a_/Action|Action]]'
+    - '[[Class/is_a_/bio_chem_entity|bio_chem_entity]]'
+    - '[[../../Society/Communication/Media/Creative_Work|creative_work]]'
+    - '[[Class/is_a_/event|event]]'
+    - '[[Class/is_a_/Intangible|Intangible]]'
+    - '[[../../bio/Medicine/Medical_Entity|medical-entity]]'
+    - '[[../../Earth/Geography/Place|place]]'
+    - '[[../../Society/Agent/Community/Organization|organization]]'
+    - '[[../../Society/Agent/Person|person]]'
+    - '[[../../Society/Agent/Community/Organization/Business/Product|product]]'
+    - '[[../../bio/Taxon_Rank/Taxon|taxon]]'
+  name_:
+    af: entiteit
+    ar: كيان
+    ast: entidá
+    az: varlıq
+    ba: асыл
+    be: сутнасць
+    be-tarask: сутнасьць
+    bew: Kejegregan
+    bg: нещо
+    bn: সত্তা
+    br: entite
+    bs: entitet
+    ca: ens
+    ckb: ھەبوو
+    cs: entita
+    cv: Пурри
+    cy: endid
+    da: entitet
+    de: Entität
+    diq: Estey
+    el: οντότητα
+    en: entity
+    en-ca: entity
+    en-gb: entity
+    en-us: entity
+    eo: ento
+    es: entidad
+    et: entiteet
+    eu: izaki
+    fa: هستار
+    fi: entiteetti
+    fo: veran
+    fr: entité
+    ga: aonán
+    gl: entidade
+    gsw: Entität
+    ha: abu
+    he: ישות
+    hr: entitet
+    hsb: entita
+    hu: entitás
+    hy: էություն
+    ia: entitate
+    id: entitas
+    io: ento
+    it: entità
+    ja: エンティティ
+    jbo: lo zasti
+    jv: Kantha
+    ka: ყოფიერება
+    kaa: bolmıs
+    kk: Болмыс
+    ko: 존재자
+    ky: Сущее
+    lb: Entitéit
+    lt: esybė
+    lv: konkrēta lieta
+    mg: Entity
+    mk: сушност
+    mo: Entitate
+    ms: entiti
+    ms-arab: اينتيتي
+    mzn: موجود
+    nb: entitet
+    nds: Entität
+    ne: इन्टिटी
+    nl: entiteit
+    nn: entitet
+    oc: entitat
+    pl: encja
+    pt: ente
+    pt-br: ente
+    ro: entitate
+    ru: сущность
+    scn: entità
+    sco: entity
+    sd: وجود
+    sh: biće
+    sk: entita
+    sl: entiteta
+    sq: entitet
+    sr: ентитет
+    sr-ec: ентитет
+    sr-el: entitet
+    sv: entitet
+    sw: Kitu
+    tg: мавҷудот
+    tg-cyrl: мавҷудот
+    th: สิ่ง
+    tl: Entidad
+    tok: ijo
+    tr: varlık
+    tt: зат
+    tt-cyrl: зат
+    uk: сутність
+    ur: وجود
+    vec: entità
+    vep: olmuz
+    vi: thực thể
+    yo: nkan
+    yue: 實體
+    zh: 實體
+    zh-cn: 实体
+    zh-hans: 实体
+    zh-hant: 實體
+    zh-hk: 實體
+    zh-mo: 實體
+    zh-my: 实体
+    zh-sg: 实体
+    zh-tw: 實體
+    zu: Umenzo
   properties:
-    - "[[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-    - "[[../Property/has_name/has_name_alternate|has_name_alternate]]"
-    - "[[../Property/Texts/has_description|has_description]]"
-    - "[[../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-    - "[[../Relation/has/has_identifier|has_identifier]]"
-    - "[[../Relation/has/has_image|has_image]]"
-    - "[[../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-    - "[[../Property/has_name|has_name]]"
-    - "[[../Relation/has/has_potential_action|has_potential_action]]"
-    - "[[../Relation/is_same_as|is_same_as]]"
-    - "[[../Relation/is/is_subject_of|is_subject_of]]"
-    - "[[../Property/has_url_for/has_url|has_url]]"
+  - '[[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'
+  - '[[../Property/has_name/has_name_alternate|has_name_alternate]]'
+  - '[[../Property/Texts/has_description|has_description]]'
+  - '[[../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]'
+  - '[[../Relation/has/has_identifier|has_identifier]]'
+  - '[[../Relation/has/has_image|has_image]]'
+  - '[[../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]'
+  - '[[../Property/has_name|has_name]]'
+  - '[[../Relation/has/has_potential_action|has_potential_action]]'
+  - '[[../Relation/is_same_as|is_same_as]]'
+  - '[[../Relation/is/is_subject_of|is_subject_of]]'
+  - '[[../Property/has_url_for/has_url|has_url]]'
 dv_Predicate:
   Urls:
-    "has_url_for_additional_type.md| #has_":
+    'has_url_for_additional_type.md| #has_':
       properties: "[ \"[has_url_for_additional_type]]\", '[[Predicate/Texts/has_name_alternate.md|has_name_alternate]]', \"[[Predicate/Texts/has_description.md|has_description]]\", disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url"
 dv_is_same_as:
-  - "[[WD~Entity,35120]]"
-  - "[[Thing]]"
-  - "[[/_public/schema-org/Class/Thing.public|Thing.public]]"
-  - "[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]"
-  - "[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]"
-  - "[[/_private/schema-org/Class/Thing.private|Thing.private]]"
-  - "[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]"
-  - "[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]"
-dv_is_instance_of: "[[../Class|Class]]"
-dv_has_parent_class: "[[Thing]]"
+- '[[WD~Entity,35120]]'
+- '[[Thing]]'
+- '[[/_public/schema-org/Class/Thing.public|Thing.public]]'
+- '[[/_internal/schema-org/Class/Thing.internal|Thing.internal]]'
+- '[[/_protect/schema-org/Class/Thing.protect|Thing.protect]]'
+- '[[/_private/schema-org/Class/Thing.private|Thing.private]]'
+- '[[/_personal/schema-org/Class/Thing.personal|Thing.personal]]'
+- '[[/_secret/schema-org/Class/Thing.secret|Thing.secret]]'
+dv_is_instance_of: '[[../Class|Class]]'
+dv_has_parent_class: '[[Thing]]'
 dv_has_properties:
-  - "[[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]"
-  - "[[../Property/has_name/has_name_alternate|has_name_alternate]]"
-  - "[[../Property/Texts/has_description|has_description]]"
-  - "[[../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]"
-  - "[[../Relation/has/has_identifier|has_identifier]]"
-  - "[[../Relation/has/has_image|has_image]]"
-  - "[[../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]"
-  - "[[../Property/has_name|has_name]]"
-  - "[[../Relation/has/has_potential_action|has_potential_action]]"
-  - "[[../Relation/is_same_as|is_same_as]]"
-  - "[[../Relation/is/is_subject_of|is_subject_of]]"
-  - "[[../Property/has_url_for/has_url|has_url]]"
+- '[[../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'
+- '[[../Property/has_name/has_name_alternate|has_name_alternate]]'
+- '[[../Property/Texts/has_description|has_description]]'
+- '[[../Property/Texts/has_description/has_description_disambiguating|has_description_disambiguating]]'
+- '[[../Relation/has/has_identifier|has_identifier]]'
+- '[[../Relation/has/has_image|has_image]]'
+- '[[../Relation/is/is_main_entity_of_page|is_main_entity_of_page]]'
+- '[[../Property/has_name|has_name]]'
+- '[[../Relation/has/has_potential_action|has_potential_action]]'
+- '[[../Relation/is_same_as|is_same_as]]'
+- '[[../Relation/is/is_subject_of|is_subject_of]]'
+- '[[../Property/has_url_for/has_url|has_url]]'
 ---
-
 # [[Thing]]s/Entities/Objects/Instances/Resources 
 
 #is_/same_as :: [[WD~Entity,35120]] 

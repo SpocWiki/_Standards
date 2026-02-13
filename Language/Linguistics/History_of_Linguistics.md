@@ -1,13 +1,117 @@
 ---
 aliases:
+- die geskiedenis van taalwetenskap
+- dil bilimi tarihi
+- dilçilik tarixi
+- dějiny lingvistiky
+- Geschichte der Sprachwissenschaft
+- histoire des sciences du langage
+- histori e gjuhësisë
+- historia da lingüística
+- historia de la lingüística
+- historia de la llingüística
+- historia językoznawstwa
+- historia linguisticae
+- historio de lingvistiko
+- historio di linguistiko
+- history of linguistic
+- history of linguistics
+- història de la lingüística
+- história da linguística
+- hizkuntzalaritzaren historia
+- kielitieteen historia
+- lingvistikkens historie
+- nyelvtudomány-történet
+- sejarah linguistika
+- storia della linguistica
+- til biliminiñ tarïxı
+- valodniecības vēsture
+- zgodovina jezikoslovja
+- ιστορία της γλωσσολογίας
+- історія лінгвістики
+- гісторыя мовазнаўства
+- историја лингвистике
+- историја на лингвистиката
+- история лингвистики
+- тіл білімінің тарихы
+- тил илиминин тарыхы
+- היסטוריה של הבלשנות
+- تاريخ اللغويات
+- تاریخ زبانشناسی
+- د ژبپوهنې تاریخ
+- لسانیات کی تاریخ
+- ٴتىل ٴبىلىمىنىڭ تارىيحى
+- भाषाविज्ञान का इतिहास
+- ভাষাবিজ্ঞানের ইতিহাস
+- ਭਾਸ਼ਾ ਵਿਗਿਆਨ ਦਾ ਇਤਿਹਾਸ
+- ಭಾಷಾಶಾಸ್ತ್ರ ಚಿಂತನೆಯ ಇತಿಹಾಸ
+- ഭാഷാപഠനചരിത്രം
+- 言語学の歴史
+- 語言學史
+- 语言学史
 has_id_wikidata: Q1478235
-different_from: "[[_Standards/WikiData/WD~historical_linguistics,190375]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~linguistics,8162]]"
+different_from: '[[_Standards/WikiData/WD~historical_linguistics,190375]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~linguistics,8162]]'
 Commons_category: History of linguistics
+dv_has_:
+  name_:
+    af: die geskiedenis van taalwetenskap
+    ar: تاريخ اللغويات
+    ast: historia de la llingüística
+    az: dilçilik tarixi
+    be-tarask: гісторыя мовазнаўства
+    bn: ভাষাবিজ্ঞানের ইতিহাস
+    ca: història de la lingüística
+    cs: dějiny lingvistiky
+    de: Geschichte der Sprachwissenschaft
+    el: ιστορία της γλωσσολογίας
+    en: history of linguistics
+    eo: historio de lingvistiko
+    es: historia de la lingüística
+    eu: hizkuntzalaritzaren historia
+    fa: تاریخ زبانشناسی
+    fi: kielitieteen historia
+    fr: histoire des sciences du langage
+    gl: historia da lingüística
+    he: היסטוריה של הבלשנות
+    hi: भाषाविज्ञान का इतिहास
+    hu: nyelvtudomány-történet
+    id: sejarah linguistika
+    ig: history of linguistic
+    io: historio di linguistiko
+    it: storia della linguistica
+    ja: 言語学の歴史
+    kk: тіл білімінің тарихы
+    kk-arab: ٴتىل ٴبىلىمىنىڭ تارىيحى
+    kk-cyrl: тіл білімінің тарихы
+    kk-latn: til biliminiñ tarïxı
+    kn: ಭಾಷಾಶಾಸ್ತ್ರ ಚಿಂತನೆಯ ಇತಿಹಾಸ
+    ky: тил илиминин тарыхы
+    la: historia linguisticae
+    lv: valodniecības vēsture
+    mk: историја на лингвистиката
+    ml: ഭാഷാപഠനചരിത്രം
+    nl: history of linguistics
+    nn: lingvistikkens historie
+    pa: ਭਾਸ਼ਾ ਵਿਗਿਆਨ ਦਾ ਇਤਿਹਾਸ
+    pl: historia językoznawstwa
+    ps: د ژبپوهنې تاریخ
+    pt: história da linguística
+    ru: история лингвистики
+    sl: zgodovina jezikoslovja
+    sq: histori e gjuhësisë
+    sr: историја лингвистике
+    tr: dil bilimi tarihi
+    uk: історія лінгвістики
+    ur: لسانیات کی تاریخ
+    yue: 語言學史
+    zh: 語言學史
+    zh-hans: 语言学史
+    zh-hant: 語言學史
+    zh-hk: 語言學史
 ---
-
 # [[History_of_Linguistics]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_linguistics,1478235|WD~History_of_linguistics,1478235]] 

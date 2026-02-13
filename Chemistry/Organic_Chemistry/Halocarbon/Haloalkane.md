@@ -1,30 +1,138 @@
 ---
 aliases:
+- alkil-halogenid
+- Alkilhalidai
+- Alkylhalid
+- alkyylihalidit
+- Alküülhaliidid
+- alogenuri alchilici
+- Compuși halogenați
+- Fluorkoinwossastoffe
+- hala-alcáin
+- Haloalcano
+- haloalcà
+- Haloalkan
+- Haloalkana
+- haloalkane
+- haloalkano
+- halogeenalkaan
+- halogenalkan
+- halogenetos de alquilo
+- halogenki alkilowe
+- Halogenoalcan
+- Halogenoalkaan
+- Halogénderivát
+- halogénoalcane
+- Halogēnogļūdeņraži
+- hydroklorfluorkarbon
+- Klorofluorougljici
+- Αλκυλαλογονίδια
+- галогеналкани
+- галогеноалканы
+- галягенаалькан
+- Халоалкан
+- הלואלקאן
+- هالوآلکان
+- هيدروكربونات هالوجينية
+- ہیلو الکین
+- ہیلوالکین
+- हैलोएल्केन
+- ஹலோஅல்கேன்
+- ჰალოგენალკანები
+- ハロアルカン
+- 卤代烷烃
+- 鹵代烷
+- 鹵代烷烴
+- 鹵烷
+- 할로알케인
 has_id_wikidata: Q271026
-subclass_of: "[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+subclass_of: '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Haloalkanes
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Haloalkane,271026]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]"
+  - '[[../../../WikiData/WD~Haloalkane,271026]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Haloalkane,271026]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]"
+- '[[../../../WikiData/WD~Haloalkane,271026]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.protect|Haloalkane.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.private|Haloalkane.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]'
+dv_has_:
+  name_:
+    af: Halogenoalkaan
+    ar: هيدروكربونات هالوجينية
+    ast: Haloalcano
+    bar: Fluorkoinwossastoffe
+    be-tarask: галягенаалькан
+    bg: Халоалкан
+    ca: haloalcà
+    cs: halogenalkan
+    cy: Halogenoalcan
+    da: Alkylhalid
+    de: Halogenalkan
+    el: Αλκυλαλογονίδια
+    en: haloalkane
+    es: haloalcano
+    et: Alküülhaliidid
+    eu: haloalkano
+    fa: هالوآلکان
+    fi: alkyylihalidit
+    fr: halogénoalcane
+    ga: hala-alcáin
+    gl: Haloalcano
+    he: הלואלקאן
+    hi: हैलोएल्केन
+    hr: Klorofluorougljici
+    hu: alkil-halogenid
+    id: Haloalkana
+    it: alogenuri alchilici
+    ja: ハロアルカン
+    ka: ჰალოგენალკანები
+    ko: 할로알케인
+    lt: Alkilhalidai
+    lv: Halogēnogļūdeņraži
+    lzh: 鹵代烷
+    mk: халоалкан
+    ms: Haloalkana
+    nb: hydroklorfluorkarbon
+    nl: halogeenalkaan
+    pl: halogenki alkilowe
+    pnb: ہیلوالکین
+    pt: halogenetos de alquilo
+    pt-br: haloalcano
+    ro: Compuși halogenați
+    ru: галогеноалканы
+    sh: Haloalkan
+    sk: Halogénderivát
+    sl: haloalkan
+    sr: Haloalkan
+    sv: Halogenalkan
+    ta: ஹலோஅல்கேன்
+    tr: Haloalkan
+    uk: галогеналкани
+    ur: ہیلو الکین
+    vi: Haloalkan
+    war: Haloalkane
+    yue: 鹵烷
+    zh: 卤代烷烃
+    zh-cn: 卤代烷烃
+    zh-hans: 卤代烷烃
+    zh-hant: 鹵代烷烴
+    zh-hk: 鹵代烷烴
+    zh-sg: 卤代烷烃
+    zh-tw: 鹵代烷烴
 ---
-
 # [[Haloalkane]] 
 
 #is_/same_as :: [[WD~Haloalkane,271026]] 

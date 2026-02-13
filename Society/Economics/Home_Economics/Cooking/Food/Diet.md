@@ -1,38 +1,183 @@
 ---
 aliases:
+- aiste bia
+- chế độ ăn
+- Diaeta
+- Dieet
+- diet
+- dieta
+- Diete
+- dieto
+- diett
+- dietético
+- dietă
+- Dijeta
+- Diyet
+- Diyeta
+- Diät
+- diæt
+- Diét
+- diéta
+- diēta
+- Dïyeta
+- Jekaru
+- Mataræði
+- Nutriva rejimo
+- prehrana
+- Pəhriz
+- ruokavalio
+- régime alimentaire
+- Réxime alimenticiu
+- strava
+- Ucciadawsan
+- Uhlobo lolutya
+- étrend
+- διατροφή
+- дієта
+- диет
+- диета
+- дыета
+- Мүнөздөп тамактануу
+- начин исхране
+- начин на исхрана
+- Դիետա
+- דיאטה
+- حمية غذائية
+- دىييەتا
+- رژیم غذایی
+- आहार
+- ਖੁਰਾਕ
+- திட்ட உணவு
+- ఆహారం
+- ഭക്ഷണക്രമം
+- დიეტა
+- 食物
+- 飲食
+- 飲食 (營養學)
+- 飲食配搭
+- 饮食
+- 식단
 has_id_wikidata: Q474191
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~availability,384871]]"
-  - "[[_Standards/WikiData/WD~food_intolerance,1727229]]"
-  - "[[_Standards/WikiData/WD~medical_advice,6806456]]"
-  - "[[_Standards/WikiData/WD~oral_health,70359543]]"
-  - "[[_Standards/WikiData/WD~psychological_factors,106106512]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
-  - "[[_Standards/WikiData/WD~instinct,18237]]"
+- '[[_Standards/WikiData/WD~availability,384871]]'
+- '[[_Standards/WikiData/WD~food_intolerance,1727229]]'
+- '[[_Standards/WikiData/WD~medical_advice,6806456]]'
+- '[[_Standards/WikiData/WD~oral_health,70359543]]'
+- '[[_Standards/WikiData/WD~psychological_factors,106106512]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~instinct,18237]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-different_from: "[[_Standards/WikiData/WD~reducing_diet,861974]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~reducing_diet,861974]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~nutritional_value,2075931]]"
-  - "[[_Standards/WikiData/WD~diversity,36793538]]"
-  - "[[_Standards/WikiData/WD~health_risk,87075524]]"
-  - "[[_Standards/WikiData/WD~dietary_restriction,118612017]]"
-  - "[[_Standards/WikiData/WD~dietary_style,131908101]]"
-has_use: "[[_Standards/WikiData/WD~nutrition,2138622]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Diets,14338416]]"
-has_part_s_: "[[_Standards/WikiData/WD~food,2095]]"
-subclass_of: "[[_Standards/WikiData/WD~food,2095]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~health,12147]]"
-OmegaWiki_Defined_Meaning: "1184310"
+- '[[_Standards/WikiData/WD~nutritional_value,2075931]]'
+- '[[_Standards/WikiData/WD~diversity,36793538]]'
+- '[[_Standards/WikiData/WD~health_risk,87075524]]'
+- '[[_Standards/WikiData/WD~dietary_restriction,118612017]]'
+- '[[_Standards/WikiData/WD~dietary_style,131908101]]'
+has_use: '[[_Standards/WikiData/WD~nutrition,2138622]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Diets,14338416]]'
+has_part_s_: '[[_Standards/WikiData/WD~food,2095]]'
+subclass_of: '[[_Standards/WikiData/WD~food,2095]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~health,12147]]'
+OmegaWiki_Defined_Meaning: 1184310
 Commons_category: Diets
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FoodSourcesOfMagnesium.jpg
 MeSH_tree_code: G07.203.650.240
+dv_has_:
+  name_:
+    ar: حمية غذائية
+    ast: Réxime alimenticiu
+    az: Pəhriz
+    ba: диета
+    be-tarask: дыета
+    bg: Диета
+    bs: dijeta
+    ca: dieta
+    cs: strava
+    cy: Diet
+    da: diæt
+    de: Diät
+    el: διατροφή
+    en: diet
+    en-us: diet
+    eo: dieto
+    es: dieta
+    et: Dieet
+    eu: Dieta
+    fa: رژیم غذایی
+    fi: ruokavalio
+    fr: régime alimentaire
+    fur: Diete
+    ga: aiste bia
+    gl: dieta
+    gn: Jekaru
+    he: דיאטה
+    hi: आहार
+    hr: dijeta
+    hu: étrend
+    hy: Դիետա
+    id: diet
+    io: Nutriva rejimo
+    is: Mataræði
+    it: dieta
+    ja: 食物
+    jv: Diét
+    ka: დიეტა
+    kk: Диета
+    kk-arab: دىييەتا
+    kk-cn: دىييەتا
+    kk-cyrl: Диета
+    kk-kz: Диета
+    kk-latn: Dïyeta
+    kk-tr: Dïyeta
+    ko: 식단
+    ky: Мүнөздөп тамактануу
+    la: Diaeta
+    lt: dieta
+    lv: diēta
+    mk: начин на исхрана
+    ml: ഭക്ഷണക്രമം
+    mr: आहार
+    ms: diet
+    mt: dieta
+    nb: diett
+    nl: dieet
+    nn: diett
+    pa: ਖੁਰਾਕ
+    pl: dieta
+    pt: dietético
+    ro: dietă
+    ru: диета
+    sh: Dijeta
+    shi: Ucciadawsan
+    sk: diéta
+    sl: prehrana
+    sq: dieta
+    sr: начин исхране
+    sv: diet
+    ta: திட்ட உணவு
+    te: ఆహారం
+    tl: Diyeta
+    tr: Diyet
+    tt: диет
+    tt-cyrl: диет
+    uk: дієта
+    uz: Diyeta
+    vec: dieta
+    vi: chế độ ăn
+    war: Diyeta
+    xh: Uhlobo lolutya
+    yue: 飲食配搭
+    zh: 飲食
+    zh-cn: 饮食
+    zh-hant: 飲食 (營養學)
+    zh-tw: 飲食
 ---
-
 # [[Diet]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Diet,474191|WD~Diet,474191]] 

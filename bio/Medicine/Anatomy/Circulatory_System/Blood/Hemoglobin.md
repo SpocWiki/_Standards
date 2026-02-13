@@ -1,25 +1,87 @@
 ---
 aliases:
-  - Hemoglobin
-  - Haemoglobin
-  - Hämoglobin
+- Blóðrauði
+- Burebiluu
+- Emoglobin
+- emoglobina
+- emuglubbina
+- Gemoglobinn
+- haemaglóibin
+- Haemoglobin
+- Haemoglobinum
+- hemoglobien
+- hemoglobiidna
+- hemoglobiin
+- hemoglobiini
+- hemoglobijdna
+- hemoglobijnna
+- Hemoglobin
+- hemoglobina
+- hemoglobinas
+- hemoglobine
+- hemoglobino
+- hemoglobină
+- hemoglobín
+- hemoglobîn
+- hemoglobīns
+- Hemoqlobin
+- Hämoglobin
+- hæmoglobin
+- Hémoglobin
+- hémoglobine
+- Yawar puka
+- Αιμοσφαιρίνη
+- Гемаглабін
+- гемаглябін
+- Гемоглобін
+- Гемоглобин
+- гемоглобины
+- Хемоглобин
+- Ҳемоглобин
+- Հեմոգլոբին
+- המוגלובין
+- حمریچہ
+- هموقلوبین
+- هموگلوبین
+- هيموجلوبين
+- هيموغلوبين
+- هيموګلوبين
+- ھیمۆگلۆبین
+- ہیموگلوبن
+- ހިމަގްލޯބިން
+- हिमोग्लोबिन
+- हीमोग्लोबिन
+- হিমোগ্লোবিন
+- হিম’গ্ল’বিন
+- ਹੀਮੋਗਲੋਬਿਨ
+- குருதிவளிக்காவி
+- హీమోగ్లోబిన్
+- ಹಿಮೋಗ್ಲಾಬಿನ್
+- ഹീമോഗ്ലോബിൻ
+- හිමොග්ලොබින්
+- เฮโมโกลบิน
+- ჰემოგლობინი
+- ヘモグロビン
+- 血紅蛋白
+- 血红蛋白
+- 헤모글로빈
 has_id_wikidata: Q43041
 subclass_of:
-  - '[[_Standards/WikiData/WD~globin,412234]]'
-  - '[[_Standards/WikiData/WD~metalloprotein,423350]]'
-  - '[[_Standards/WikiData/WD~protein,8054]]'
+- '[[_Standards/WikiData/WD~globin,412234]]'
+- '[[_Standards/WikiData/WD~metalloprotein,423350]]'
+- '[[_Standards/WikiData/WD~protein,8054]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from: '[[_Standards/WikiData/WD~hemoglobinometry,10431462]]'
 part_of:
-  - '[[_Standards/WikiData/WD~hemoglobin_metabolic_process,14819250]]'
-  - '[[_Standards/WikiData/WD~hemoglobin_binding,14820933]]'
-  - '[[_Standards/WikiData/WD~hemoglobin_biosynthetic_process,14852014]]'
-  - '[[_Standards/WikiData/WD~hemoglobin_catabolic_process,22282546]]'
-  - '[[_Standards/WikiData/WD~endocytic_hemoglobin_import_into_cell,22290745]]'
+- '[[_Standards/WikiData/WD~hemoglobin_metabolic_process,14819250]]'
+- '[[_Standards/WikiData/WD~hemoglobin_binding,14820933]]'
+- '[[_Standards/WikiData/WD~hemoglobin_biosynthetic_process,14852014]]'
+- '[[_Standards/WikiData/WD~hemoglobin_catabolic_process,22282546]]'
+- '[[_Standards/WikiData/WD~endocytic_hemoglobin_import_into_cell,22290745]]'
 instance_of: '[[_Standards/WikiData/WD~family_of_protein_complexes,78155096]]'
 physically_interacts_with: '[[_Standards/WikiData/WD~oxygen,629]]'
 CosIng_number: 85111
@@ -30,11 +92,120 @@ CAS_Registry_Number: 9008-02-0
 UMLS_CUI: C0019046
 chemical_formula: C₂₉₅₂H₄₆₆₄O₈₁₂₅S₈Fe₄₃₂₁
 MeSH_tree_code:
-  - D12.776.124.400
-  - D12.776.422.316.762
+- D12.776.124.400
+- D12.776.422.316.762
 Krugosvet_article_archived_: meditsina/gemoglobin
+dv_has_:
+  name_:
+    af: hemoglobien
+    ar: هيموغلوبين
+    arz: هيموجلوبين
+    as: হিম’গ্ল’বিন
+    ast: hemoglobina
+    az: Hemoqlobin
+    azb: هموقلوبین
+    ba: Гемоглобин
+    bcl: Hemoglobin
+    be: Гемаглабін
+    be-tarask: гемаглябін
+    bg: Хемоглобин
+    bn: হিমোগ্লোবিন
+    bs: hemoglobin
+    ca: hemoglobina
+    ckb: ھیمۆگلۆبین
+    cs: hemoglobin
+    da: hæmoglobin
+    de: Hämoglobin
+    dv: ހިމަގްލޯބިން
+    el: Αιμοσφαιρίνη
+    en: hemoglobin
+    en-gb: haemoglobin
+    eo: hemoglobino
+    es: hemoglobina
+    et: hemoglobiin
+    eu: hemoglobina
+    fa: هموگلوبین
+    fi: hemoglobiini
+    fr: hémoglobine
+    frr: Hämoglobin
+    ga: haemaglóibin
+    gl: hemoglobina
+    he: המוגלובין
+    hi: हीमोग्लोबिन
+    hr: hemoglobin
+    ht: Emoglobin
+    hu: hemoglobin
+    hy: Հեմոգլոբին
+    ia: hemoglobina
+    id: hemoglobin
+    io: hemoglobino
+    is: Blóðrauði
+    it: emoglobina
+    ja: ヘモグロビン
+    jv: Hemoglobin
+    ka: ჰემოგლობინი
+    kk: Гемоглобин
+    kn: ಹಿಮೋಗ್ಲಾಬಿನ್
+    ko: 헤모글로빈
+    ku: hemoglobîn
+    ky: Гемоглобин
+    la: Haemoglobinum
+    lt: hemoglobinas
+    lv: hemoglobīns
+    mk: Хемоглобин
+    ml: ഹീമോഗ്ലോബിൻ
+    mn: Хемоглобин
+    mr: हिमोग्लोबिन
+    ms: hemoglobin
+    nan: Hemoglobin
+    nb: hemoglobin
+    nds: Hämoglobin
+    nl: hemoglobine
+    nn: hemoglobin
+    oc: emoglobina
+    om: Burebiluu
+    pa: ਹੀਮੋਗਲੋਬਿਨ
+    pl: hemoglobina
+    pnb: ہیموگلوبن
+    ps: هيموګلوبين
+    pt: hemoglobina
+    pt-br: hemoglobina
+    qu: Yawar puka
+    ro: hemoglobină
+    ru: гемоглобины
+    sc: emoglobina
+    scn: emuglubbina
+    se: hemoglobiidna
+    sh: hemoglobin
+    si: හිමොග්ලොබින්
+    sje: hemoglobijdna
+    sk: hemoglobín
+    sl: hemoglobin
+    smj: hemoglobijnna
+    smn: hemoglobin
+    sms: hemoglobiin
+    sq: hemoglobina
+    sr: хемоглобин
+    sr-ec: хемоглобин
+    su: Hémoglobin
+    sv: hemoglobin
+    ta: குருதிவளிக்காவி
+    te: హీమోగ్లోబిన్
+    tg: Ҳемоглобин
+    th: เฮโมโกลบิน
+    tr: hemoglobin
+    tt: Гемоглобин
+    tyv: Гемоглобин
+    udm: гемоглобин
+    uk: Гемоглобін
+    ur: حمریچہ
+    uz: Gemoglobinn
+    vi: Hemoglobin
+    war: Hemoglobin
+    wuu: 血红蛋白
+    yue: 血紅蛋白
+    zh: 血红蛋白
 ---
-
 # [[Hemoglobin]] 
 
 #is_/same_as :: [[WD~Hemoglobin,43041]] 

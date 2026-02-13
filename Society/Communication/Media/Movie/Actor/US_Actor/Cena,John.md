@@ -1,10 +1,163 @@
 ---
 aliases:
-  - John Cena
-  - John Felix Anthony Cena
-  - Cena,John
+- Cena,John
+- Con Sina
+- Džons Sina
+- Ioannes Cena
+- John Cena
+- John Felix Anthony Cena
+- Sina Džon
+- Τζον Σίνα
+- Џон Сина
+- Джон Сіна
+- Джон Сина
+- Джон Сына
+- Сина Жон
+- Ҷон Сина
+- Ջոն Սինա
+- ג'ון סינה
+- جان سینا
+- جون سينا
+- جون سیٚنا
+- جۆن سینا
+- जॉन सीना
+- जॉन सेना
+- जोन सिना
+- জন সিনা
+- ਜਾਨ ਸੀਨਾ
+- ஜான் சீனா
+- జాన్ సెనా
+- ಜಾನ್ ಸೆನಾ
+- ജോൺ സീന
+- ජෝන් සීනා
+- จอห์น ซีนา
+- ჯონ სინა
+- ចន ស៊ីណា
+- ジョン・シナ
+- 約翰·希南
+- 約翰・希南
+- 约翰·塞纳
+- 莊先拿
+- 존 시나
+has_id_wikidata: Q44437
+dv_has_:
+  name_:
+    ace: John Cena
+    af: John Cena
+    ar: جون سينا
+    arz: جون سينا
+    ast: John Cena
+    az: Con Sina
+    azb: جان سینا
+    bar: John Cena
+    be: Джон Сіна
+    be-tarask: Джон Сына
+    bg: Джон Сина
+    bjn: John Cena
+    bn: জন সিনা
+    bug: John Cena
+    ca: John Cena
+    ckb: جۆن سینا
+    cs: John Cena
+    cy: John Cena
+    de: John Cena
+    el: Τζον Σίνα
+    en: John Cena
+    en-ca: John Cena
+    en-gb: John Cena
+    eo: John Cena
+    es: John Cena
+    et: John Cena
+    eu: John Cena
+    fa: جان سینا
+    fi: John Cena
+    fit: John Cena
+    fo: John Cena
+    fr: John Cena
+    ga: John Cena
+    gl: John Cena
+    ha: John Cena
+    he: ג'ון סינה
+    hi: जॉन सीना
+    hr: John Cena
+    ht: John Cena
+    hu: John Cena
+    hy: Ջոն Սինա
+    id: John Cena
+    io: John Cena
+    it: John Cena
+    ja: ジョン・シナ
+    jv: John Cena
+    ka: ჯონ სინა
+    kk: Джон Сина
+    kl: John Cena
+    km: ចន ស៊ីណា
+    kn: ಜಾನ್ ಸೆನಾ
+    knc: John Cena
+    ko: 존 시나
+    ks: جون سیٚنا
+    ku: John Cena
+    ky: Сина Жон
+    la: Ioannes Cena
+    ln: John Cena
+    lt: John Cena
+    lua: John Cena
+    lv: Džons Sina
+    mai: जोन सिना
+    map-bms: John Cena
+    min: John Cena
+    mk: Џон Сина
+    ml: ജോൺ സീന
+    mr: जॉन सेना
+    ms: John Cena
+    mul: John Cena
+    my: John cena
+    nan: John Cena
+    nb: John Cena
+    ne: जोन सिना
+    nl: John Cena
+    nn: John Cena
+    oc: John Cena
+    pa: ਜਾਨ ਸੀਨਾ
+    pam: John Cena
+    pap: John Cena
+    pt: John Cena
+    pt-br: John Cena
+    ro: John Cena
+    ru: Джон Сина
+    scn: John Cena
+    sco: John Cena
+    sh: John Cena
+    si: ජෝන් සීනා
+    sl: John Cena
+    sm: John Cena
+    so: John Cena
+    sq: John Cena
+    sr: Џон Сина
+    su: John Cena
+    sv: John Cena
+    sw: John Cena
+    ta: ஜான் சீனா
+    te: జాన్ సెనా
+    tg: Ҷон Сина
+    th: จอห์น ซีนา
+    tl: John Cena
+    tr: John Cena
+    uk: Джон Сіна
+    ur: جان سینا
+    uz: John Cena
+    vep: Sina Džon
+    vi: John Cena
+    wuu: 约翰·塞纳
+    yo: John Cena
+    yue: 莊先拿
+    zh: 約翰·希南
+    zh-cn: 约翰·塞纳
+    zh-hans: 约翰·塞纳
+    zh-hant: 約翰・希南
+    zh-hk: 莊先拿
+    zh-tw: 約翰・希南
 ---
-
 ## #has_/text_of_/abstract 
 
 > John Felix Anthony Cena ( SEE-nə; born April 23, 1977) is an American actor and professional wrestler. 

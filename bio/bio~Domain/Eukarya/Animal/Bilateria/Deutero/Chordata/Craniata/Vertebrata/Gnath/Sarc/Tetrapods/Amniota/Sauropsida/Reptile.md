@@ -1,72 +1,176 @@
 ---
 aliases:
-  - Reptile
-  - Reptilia
-  - Sürünənlər
-  - Һөйрәлеүселәр
-  - Kriachviecher
-  - Reptilien
-  - সরীসৃপ
-  - Rèptils
-  - plazi
-  - Krybdyr
-  - Ερπετά
-  - Reptiles
-  - Matelijat
-  - Krepdiarten
-  - Réptiles
-  - Ἑρπετόν
-  - Mo‘ohana
-  - זוחלים
-  - hüllők
-  - Սողուններ
-  - Skriðdýr
-  - Rettili
-  - ქვეწარმავლები
-  - 파충강
-  - Ropliai
-  - Krypdyr
-  - Reptielen
-  - Gady
-  - Рептилии
-  - Rreptilët
-  - Zvarranikët
-  - Kräldjur
-  - สัตว์เลื้อยคลาน
-  - Sürüngenler
-  - Плазуни
-  - Động vật bò sát
-  - 爬蟲類
-  - plazilci
-  - တွားသွားသတ္တဝါ
-  - 爬虫綱
-  - Réptil
-  - Пресмыкающиеся
-  - Plazy
+- Afàyàwọ́
+- akesi pi nasin wan
+- Biby mandady sy mikisaka
+- bini vura
+- Cropante biesse
+- Dzinokambaira
+- Gady
+- gmazovi
+- hüllők
+- Isihuquzi
+- Kpɩna wena atuu a-lotu yɔɔ yɔ
+- Kramvil
+- Krepdiarten
+- Kriachviecher
+- kroepdeers
+- Krybdyr
+- Krypdyr
+- Kräldjur
+- Linyóka
+- Lãtatawo
+- Matelijat
+- Monumanu ngaolo pe totolo
+- Mo‘ohana
+- Munyuuqee
+- Naaldlooshii dadichʼízhii
+- narrasti
+- Otyryrýva
+- Paamġuaq
+- plazi
+- plazilci
+- Plazy
+- Pâ-thiông-lūi
+- Pèist
+- reiptíl
+- Reptail
+- Reptero
+- Reptiel
+- Reptiele
+- Reptielen
+- Reptieln
+- reptil
+- Reptile
+- Reptiles
+- Reptili
+- Reptilia
+- Reptilien
+- Reptilioj
+- Reptiller
+- Reptils
+- Reptilya
+- Reptyl
+- Reptülien
+- respa
+- Retil
+- Rettile
+- Rettili
+- Roomajad
+- Ropliai
+- Rreptilët
+- Ruoplē
+- Ruumaja
+- rèptil
+- Rèptils
+- Répteis
+- Réptil
+- Réptiles
+- Rétij
+- rāpuļi
+- Segagabi
+- Skriðdýr
+- Stlejvil
+- Suchuq
+- Sudralib yuruvchilar
+- Sürüngenler
+- Sürünənlər
+- süyreklengen
+- Timraradin
+- Ujelijad
+- Xamaarato
+- xişok
+- Ymlusgiad
+- Zvarranikët
+- Động vật bò sát
+- Łažaki
+- Ερπετά
+- Бауырымен жорғалаушылар
+- Веглясьысьяс
+- Влекачи
+- влечуги
+- гмизавци
+- Кыссиссез
+- Мүлхигшэд
+- нюжветлӥсьёс
+- паўзуны
+- Плазуни
+- Плазы
+- Пресмыкающиеся
+- Рептилии
+- Рептилия
+- Сыыллааччылар
+- сөйрәлүчеләр
+- Хилджытæ
+- Хэвлээр явагч
+- Шуса çӳрекенсем
+- Һөйрәлеүселәр
+- Սողուններ
+- זוחלים
+- רעפטיליע
+- خاپوړن
+- خزنده
+- خزندگان
+- خشۆک
+- ريڙهيون پائيندڙ
+- ريڤتيليا
+- ریپٹائیل
+- زواحف
+- سوروننلر
+- سَریسۄرَپھ
+- گزندے
+- रेप्टाइल
+- सरिसृप
+- सरीसृप
+- सर्पण-शीलः
+- সরীসৃপ
+- সৰীসৃপ
+- ਭੁਜੰਗੀ
+- ஊர்வன
+- రెప్టిలియా
+- ಸರೀಸೃಪ
+- ഉരഗം
+- උරගයින්
+- สัตว์เลื้อยคลาน
+- တွားသွားသတ္တဝါ
+- မၟာ
+- ქვერქვენწეფი
+- ქვეწარმავლები
+- ተሳቢ እንስሳ
+- ᎠᎾᏓᏂᏏᏂᏙᎯ
+- Ἑρπετόν
+- 爬虫綱
+- 爬虫類
+- 爬蟲類
+- 爬行动物
+- 爬行動物
+- 爬行纲
+- 파충강
+- 파충류
 has_id_wikidata: Q10811
 Archive_of_Our_Own_tag:
-  - REPTILES
-  - Reptilian
-  - reptilians
+- REPTILES
+- Reptilian
+- reptilians
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Colon_Classification: K94
 Commons_category: Reptilia
 Commons_gallery: Reptilia
 described_by_source:
-  - '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from: '[[_Standards/WikiData/WD~Gady,_Warmian-Masurian_Voivodeship,5516481]]'
 EPPO_Code: 1REPTC
 GS1_GPC_code: 10005466
 IAB_code: 429
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Smaug%20giganteus%20head.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Smaug%20giganteus%20head.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 IPA_transcription: ɹɛpˈtɪli.ə
 ITIS_TSN: 173747
@@ -74,72 +178,264 @@ Krugosvet_article: nauka_i_tehnika/biologiya/PRESMIKAYUSHCHIESYA.html
 MCN_code: 0106.20.00
 MeSH_tree_code: B01.050.150.900.833
 montage_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clade%20Reptilia.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Clade%20Reptilia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
 OmegaWiki_Defined_Meaning: 3190
 OpenStreetMap_tag_or_key: Tag:zoo=reptile
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%88%D8%A7%D8%AD%D9%81.wav
 start_time: -318000000-01-01
 studied_in:
-  - '[[_Standards/WikiData/WD~herpetology,174416]]'
-  - '[[_Standards/WikiData/WD~reptiliology,9307400]]'
+- '[[_Standards/WikiData/WD~herpetology,174416]]'
+- '[[_Standards/WikiData/WD~reptiliology,9307400]]'
 subreddit: reptiles
 taxon_common_name:
-  - Sürünənlər
-  - Һөйрәлеүселәр
-  - Kriachviecher
-  - Reptilien
-  - সরীসৃপ
-  - Rèptils
-  - plazi
-  - Krybdyr
-  - Reptilien
-  - Ερπετά
-  - Reptiles
-  - Matelijat
-  - Reptiles
-  - Krepdiarten
-  - Réptiles
-  - Ἑρπετόν
-  - Mo‘ohana
-  - זוחלים
-  - hüllők
-  - Սողուններ
-  - Skriðdýr
-  - Rettili
-  - ქვეწარმავლები
-  - 파충강
-  - Ropliai
-  - Krypdyr
-  - Reptielen
-  - Gady
-  - Reptile
-  - Рептилии
-  - Rreptilët
-  - Zvarranikët
-  - Kräldjur
-  - สัตว์เลื้อยคลาน
-  - Sürüngenler
-  - Плазуни
-  - Động vật bò sát
-  - 爬蟲類
-  - plazilci
-  - တွားသွားသတ္တဝါ
-  - Reptiles
-  - 爬虫綱
-  - Réptil
-  - Пресмыкающиеся
-  - Plazy
+- Sürünənlər
+- Һөйрәлеүселәр
+- Kriachviecher
+- Reptilien
+- সরীসৃপ
+- Rèptils
+- plazi
+- Krybdyr
+- Reptilien
+- Ερπετά
+- Reptiles
+- Matelijat
+- Reptiles
+- Krepdiarten
+- Réptiles
+- Ἑρπετόν
+- Mo‘ohana
+- זוחלים
+- hüllők
+- Սողուններ
+- Skriðdýr
+- Rettili
+- ქვეწარმავლები
+- 파충강
+- Ropliai
+- Krypdyr
+- Reptielen
+- Gady
+- Reptile
+- Рептилии
+- Rreptilët
+- Zvarranikët
+- Kräldjur
+- สัตว์เลื้อยคลาน
+- Sürüngenler
+- Плазуни
+- Động vật bò sát
+- 爬蟲類
+- plazilci
+- တွားသွားသတ္တဝါ
+- Reptiles
+- 爬虫綱
+- Réptil
+- Пресмыкающиеся
+- Plazy
 taxon_name: Reptilia
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~egg_as_food,93189]]'
-  - '[[_Standards/WikiData/WD~reptile_meat,51873806]]'
+- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+- '[[_Standards/WikiData/WD~reptile_meat,51873806]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Reptiles,11164852]]'
 UMLS_CUI: C0035161
 U_S_National_Archives_Identifier: 10644305
+dv_has_:
+  name_:
+    af: Reptiel
+    am: ተሳቢ እንስሳ
+    an: Reptilia
+    anp: सरिसृप
+    ar: زواحف
+    ary: زواحف
+    arz: زواحف
+    as: সৰীসৃপ
+    ast: Reptilia
+    az: Sürünənlər
+    azb: سوروننلر
+    ba: Һөйрәлеүселәр
+    ban: Reptilia
+    bar: Reptülien
+    bcl: Reptilya
+    be: паўзуны
+    be-tarask: паўзуны
+    bg: влечуги
+    bn: সরীসৃপ
+    br: Stlejvil
+    bs: Reptili
+    bxr: Мүлхигшэд
+    ca: rèptil
+    ceb: Reptil
+    chr: ᎠᎾᏓᏂᏏᏂᏙᎯ
+    ckb: خشۆک
+    crh: süyreklengen
+    cs: plazi
+    cv: Шуса çӳрекенсем
+    cy: Ymlusgiad
+    da: krybdyr
+    dag: bini vura
+    de: Reptilien
+    ee: Lãtatawo
+    el: Ερπετά
+    en: Reptilia
+    en-ca: Reptile
+    en-gb: reptile
+    eo: Reptilioj
+    es: reptil
+    et: Roomajad
+    eu: narrasti
+    ext: Retil
+    fa: خزندگان
+    fi: matelijat
+    fo: Skriðdýr
+    fr: Reptiles
+    frr: Krepdiarten
+    fy: Reptyl
+    ga: reiptíl
+    gcr: Reptil
+    gd: Pèist
+    gl: réptil
+    gn: Otyryrýva
+    gsw: Reptilien
+    gv: reptilia
+    he: זוחלים
+    hi: सरीसृप
+    hif: Reptile
+    hr: gmazovi
+    hsb: Łažaki
+    ht: Rèptil
+    hu: hüllők
+    hy: սողուններ
+    hyw: Սողուններ
+    ia: reptile
+    id: Reptil
+    ie: Reptilia
+    ik: Paamġuaq
+    ilo: reptilia
+    io: Reptero
+    is: Skriðdýr
+    it: Reptilia
+    ja: 爬虫類
+    jam: Reptail
+    jbo: respa
+    jv: Reptil
+    ka: ქვეწარმავლები
+    kab: Timraradin
+    kbp: Kpɩna wena atuu a-lotu yɔɔ yɔ
+    kk: Бауырымен жорғалаушылар
+    kn: ಸರೀಸೃಪ
+    ko: 파충류
+    koi: Кыссиссез
+    ks: سَریسۄرَپھ
+    ku: xişok
+    kv: Веглясьысьяс
+    kw: Kramvil
+    la: Reptilia
+    lb: Reptiller
+    lfn: Retil
+    li: Reptiele
+    lij: Reptilia
+    lld: Retil
+    ln: Linyóka
+    lt: ropliai
+    lv: rāpuļi
+    mad: Rèptil
+    mg: Biby mandady sy mikisaka
+    mk: Влекачи
+    ml: ഉരഗം
+    mn: Хэвлээр явагч
+    mnw: မၟာ
+    mrj: Reptilia
+    ms: Reptilia
+    ms-arab: ريڤتيليا
+    mt: Reptilia
+    mul: Reptilia
+    my: တွားသွားသတ္တဝါ
+    mzn: خزنده
+    nan: Pâ-thiông-lūi
+    nap: Rettile
+    nb: krypdyr
+    nds: Reptilien
+    nds-nl: kroepdeers
+    ne: सरिसृप
+    new: रेप्टाइल
+    nl: reptielen
+    nn: krypdyr
+    nso: Segagabi
+    nv: Naaldlooshii dadichʼízhii
+    oc: Reptilia
+    om: Munyuuqee
+    os: Хилджытæ
+    pa: ਭੁਜੰਗੀ
+    pl: gady
+    pms: Rétij
+    pnb: ریپٹائیل
+    ps: خاپوړن
+    pt: réptil
+    pt-br: Répteis
+    qu: Suchuq
+    rm: Reptils
+    ro: Reptilia
+    ru: пресмыкающиеся
+    rue: Плазы
+    sa: सर्पण-शीलः
+    sah: Сыыллааччылар
+    scn: Reptilia
+    sco: reptile
+    sd: ريڙهيون پائيندڙ
+    sgs: Ruoplē
+    sh: Reptil
+    si: උරගයින්
+    sk: plazy
+    sl: plazilci
+    sn: Dzinokambaira
+    so: Xamaarato
+    sq: Zvarranikët
+    sr: гмизавци
+    su: Réptil
+    sv: kräldjur
+    sw: Reptilia
+    ta: ஊர்வன
+    te: రెప్టిలియా
+    tg: Рептилия
+    th: สัตว์เลื้อยคลาน
+    tl: Reptilya
+    to: Monumanu ngaolo pe totolo
+    tok: akesi pi nasin wan
+    tpi: Reptail
+    tr: Sürüngenler
+    tt: сөйрәлүчеләр
+    tt-cyrl: сөйрәлүчеләр
+    udm: нюжветлӥсьёс
+    uk: плазуни
+    ur: گزندے
+    uz: Sudralib yuruvchilar
+    vep: Ujelijad
+    vi: động vật bò sát
+    vls: Reptieln
+    vo: Reptilia
+    vro: Ruumaja
+    wa: Cropante biesse
+    war: Reptilya
+    wuu: 爬蟲類
+    xmf: ქვერქვენწეფი
+    yi: רעפטיליע
+    yo: Afàyàwọ́
+    yue: 爬蟲類
+    zea: Reptielen
+    zh: 爬行纲
+    zh-cn: 爬行动物
+    zh-hans: 爬行纲
+    zh-hant: 爬行動物
+    zh-hk: 爬蟲類
+    zh-mo: 爬行动物
+    zh-my: 爬行动物
+    zh-sg: 爬行动物
+    zh-tw: 爬行動物
+    zu: Isihuquzi
 ---
-
 # [[Reptile]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Reptilia,10811]]

@@ -1,27 +1,171 @@
 ---
 aliases:
-  - Soap Opera
-  - daytime drama
-  - soap
-  - Soap_Opera
+- daytime drama
+- drama lipur lara
+- fulletó
+- limonadnica
+- muilo opera
+- mydlová opera
+- mýdlová opera
+- opera mydlana
+- opera sabun
+- opera sebon
+- Opera xà phòng
+- pembe dizi
+- sabun opera
+- saippuasarja
+- Sapon-opero
+- sapopero
+- sapunica
+- seebiooper
+- Seifenoper
+- serial televisivo
+- Serial televisivu
+- sheeabin-drama
+- sinétron
+- soap
+- Soap Opera
+- Soapsearje
+- soapserie
+- Soap_Opera
+- sobaldráma
+- szappanopera
+- sápuópera
+- såpeopera
+- såpopera
+- sæbeopera
+- telenovela
+- Teleserye
+- Ziepju opera
+- σαπουνόπερα
+- мильна опера
+- мыльная опера
+- мыльная опэра
+- Операи собунӣ
+- сабын операсы
+- сапунена опера
+- сапуница
+- сапунска опера
+- Супăньлĕ опера
+- օճառային օպերա
+- אופרת סבון
+- ئۆپێرای سابوون
+- اپرای صابونی
+- سوپ اوپيرا
+- مسلسل تلفزيوني طويل
+- सोप ओपेरा
+- தொலைக்காட்சி நாடகத் தொடர்
+- സോപ്പ് ഓപ്പറ
+- සෝප් ඔපෙරා
+- ソープオペラ
+- 肥皂剧
+- 肥皂劇
+- 연속극
 has_id_wikidata: Q23739
 subclass_of:
-  - '[[_Standards/WikiData/WD~melodrama,191489]]'
-  - '[[_Standards/WikiData/WD~drama_television_series,1366112]]'
-  - '[[_Standards/WikiData/WD~serial_drama,7724161]]'
+- '[[_Standards/WikiData/WD~melodrama,191489]]'
+- '[[_Standards/WikiData/WD~drama_television_series,1366112]]'
+- '[[_Standards/WikiData/WD~serial_drama,7724161]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~téléroman,2388283]]'
-  - '[[_Standards/WikiData/WD~telenovela,23745]]'
+- '[[_Standards/WikiData/WD~téléroman,2388283]]'
+- '[[_Standards/WikiData/WD~telenovela,23745]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~serial_drama,7724161]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~television_series_genre,12343431]]'
-  - '[[_Standards/WikiData/WD~radio_genre,15961983]]'
+- '[[_Standards/WikiData/WD~television_series_genre,12343431]]'
+- '[[_Standards/WikiData/WD~radio_genre,15961983]]'
 different_from: '[[_Standards/WikiData/WD~television_opera,106393147]]'
 IAB_code: 642
 OmegaWiki_Defined_Meaning: 624635
 IMDb_keyword: soap-opera
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01016001
 Commons_category: Soap operas
+dv_has_:
+  name_:
+    ar: مسلسل تلفزيوني طويل
+    arz: سوپ اوپيرا
+    ast: Serial televisivu
+    az: sabun opera
+    bcl: Teleserye
+    be: мыльная опера
+    be-tarask: мыльная опэра
+    bg: сапунена опера
+    ca: fulletó
+    ckb: ئۆپێرای سابوون
+    cs: mýdlová opera
+    cv: Супăньлĕ опера
+    cy: opera sebon
+    da: sæbeopera
+    de: Seifenoper
+    de-ch: Seifenoper
+    el: σαπουνόπερα
+    en: soap opera
+    en-ca: soap opera
+    en-gb: soap opera
+    eo: sapopero
+    es: serial televisivo
+    et: seebiooper
+    eu: soap opera
+    fa: اپرای صابونی
+    fi: saippuasarja
+    fr: soap opera
+    fy: Soapsearje
+    ga: sobaldráma
+    gl: telenovela
+    gv: sheeabin-drama
+    he: אופרת סבון
+    hi: सोप ओपेरा
+    hr: sapunica
+    hu: szappanopera
+    hy: օճառային օպերա
+    id: opera sabun
+    io: Sapon-opero
+    is: sápuópera
+    it: soap opera
+    ja: ソープオペラ
+    jv: sinétron
+    kk: мыльная опера
+    ko: 연속극
+    li: soap
+    lt: muilo opera
+    lv: Ziepju opera
+    mk: сапунска опера
+    ml: സോപ്പ് ഓപ്പറ
+    ms: drama lipur lara
+    nb: såpeopera
+    nds-nl: soapserie
+    nl: soapserie
+    nn: såpeopera
+    pl: opera mydlana
+    pt: soap opera
+    pt-br: soap opera
+    ro: soap opera
+    ru: мыльная опера
+    sh: sapunica
+    si: සෝප් ඔපෙරා
+    sk: mydlová opera
+    sl: limonadnica
+    sr: сапуница
+    su: Opera sabun
+    sv: såpopera
+    ta: தொலைக்காட்சி நாடகத் தொடர்
+    tg: Операи собунӣ
+    tg-cyrl: операи собунӣ
+    tr: pembe dizi
+    tt: сабын операсы
+    uk: мильна опера
+    vec: soap opera
+    vi: Opera xà phòng
+    wuu: 肥皂剧
+    yue: 肥皂劇
+    zh: 肥皂劇
+    zh-cn: 肥皂剧
+    zh-hans: 肥皂剧
+    zh-hant: 肥皂劇
+    zh-hk: 肥皂劇
+    zh-mo: 肥皂劇
+    zh-my: 肥皂剧
+    zh-sg: 肥皂剧
+    zh-tw: 肥皂劇
 ---
 # [[Soap_Opera]] 
 

@@ -1,40 +1,202 @@
 ---
 aliases:
-  - Geocentric model
-  - Geocentric_Model
-  - Geocentric Model
+- Akkaayyaa Dachee-handhuurawaa
+- cyfundrefn geosentrig
+- córas Tholamaes
+- Geocentric model
+- Geocentric_Model
+- geocentrikus világkép
+- geocentrisk
+- geocentrisk världsbild
+- geocentrism
+- Geocentrisme
+- geocentrismo
+- geocentrismus
+- geocentrizmas
+- geocentrizmus
+- geocentrični model
+- geocentrični sistem
+- geocentrični sistem sveta
+- geocentrični sustav
+- geosantrizm
+- geosentries
+- geosentrik sistem
+- Geosentriko
+- geosentrisk verdssystem
+- geosentrisme
+- Geosintrisme
+- geotsentriline maailmasüsteem
+- Geozentrescht Weltbild
+- geozentrisches Weltbild
+- geozentrisme
+- Gjeocentrizmi
+- géocentrisme
+- Jarðmiðjukenningin
+- jeosentrisme
+- Maakeskinen maailmankuva
+- Model geopusat
+- musasakamuan nu teban nu lala’
+- Olamning geotsentrik sistemasi
+- sistema geocentrico
+- teoria geocentryczna
+- teoria geocèntrica
+- teoria geozentrikoa
+- teoría geocéntrica
+- teoría xeocéntrica
+- tercentra teorio
+- Thuyết địa tâm
+- xeocentrismo
+- Ģeocentrisms
+- Γεωκεντρικό μοντέλο
+- Геацэнтрычная сістэма свету
+- геацэнтрычная сыстэма
+- геоцентризам
+- Геоцентризм
+- Геоцентрическая система мира
+- Геоцентрична система
+- геоцентрични систем света
+- Назарияи заминмарказӣ
+- Կոորդինատների երկրակենտրոն համակարգ
+- המודל הגאוצנטרי
+- ارض مرکزی نظریہ
+- نظریه زمین مرکزی
+- نموذج مركزية الأرض
+- گئوسنتریزم
+- पृथ्वीकेंद्री सिद्धान्त
+- भूकेन्द्रीय मॉडल
+- ভূকেন্দ্রিক মডেল
+- భూ కేంద్రక సిద్ధాంతం
+- ഭൗമകേന്ദ്ര മാതൃക
+- ระบบโลกเป็นศูนย์กลาง
+- གནམ་འགུལ་སྨྲ་བ་
+- გეოცენტრიზმი
+- გეოცენტრული სისტემა
+- 地心說
+- 地心说
+- 天動說
+- 天動説
+- 지구중심설
 has_id_wikidata: Q165800
-opposite_of: "[[_Standards/WikiData/WD~heliocentrism,103983]]"
-subclass_of: "[[_Standards/WikiData/WD~superseded_scientific_theory,4115113]]"
+opposite_of: '[[_Standards/WikiData/WD~heliocentrism,103983]]'
+subclass_of: '[[_Standards/WikiData/WD~superseded_scientific_theory,4115113]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Aristotle,868]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Aristotle,868]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ptolemaic%20system.svg
 Iconclass_notation: 4.9e+132
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "GeocentricModel"]
 Commons_category: Geocentric model
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Geocentric_model,165800|WD~Geocentric_model,165800]]"
-    - "[[/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model|Geocentric_Model]]"
-    - "[[/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public|Geocentric_Model.public]]"
-    - "[[/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal|Geocentric_Model.internal]]"
-    - "[[/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect|Geocentric_Model.protect]]"
-    - "[[/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private|Geocentric_Model.private]]"
-    - "[[/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal|Geocentric_Model.personal]]"
-    - "[[/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret|Geocentric_Model.secret]]"
+  - '[[../../../WikiData/WD~Geocentric_model,165800|WD~Geocentric_model,165800]]'
+  - '[[/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model|Geocentric_Model]]'
+  - '[[/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public|Geocentric_Model.public]]'
+  - '[[/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal|Geocentric_Model.internal]]'
+  - '[[/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect|Geocentric_Model.protect]]'
+  - '[[/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private|Geocentric_Model.private]]'
+  - '[[/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal|Geocentric_Model.personal]]'
+  - '[[/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret|Geocentric_Model.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Geocentric_model,165800|WD~Geocentric_model,165800]]"
-  - "[[/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model|Geocentric_Model]]"
-  - "[[/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public|Geocentric_Model.public]]"
-  - "[[/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal|Geocentric_Model.internal]]"
-  - "[[/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect|Geocentric_Model.protect]]"
-  - "[[/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private|Geocentric_Model.private]]"
-  - "[[/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal|Geocentric_Model.personal]]"
-  - "[[/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret|Geocentric_Model.secret]]"
+- '[[../../../WikiData/WD~Geocentric_model,165800|WD~Geocentric_model,165800]]'
+- '[[/_Standards/Astronomy/Astronomer/Ptolemy/Geocentric_Model|Geocentric_Model]]'
+- '[[/_public/Astronomy/Astronomer/Ptolemy/Geocentric_Model.public|Geocentric_Model.public]]'
+- '[[/_internal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.internal|Geocentric_Model.internal]]'
+- '[[/_protect/Astronomy/Astronomer/Ptolemy/Geocentric_Model.protect|Geocentric_Model.protect]]'
+- '[[/_private/Astronomy/Astronomer/Ptolemy/Geocentric_Model.private|Geocentric_Model.private]]'
+- '[[/_personal/Astronomy/Astronomer/Ptolemy/Geocentric_Model.personal|Geocentric_Model.personal]]'
+- '[[/_secret/Astronomy/Astronomer/Ptolemy/Geocentric_Model.secret|Geocentric_Model.secret]]'
+dv_has_:
+  name_:
+    af: geosentries
+    ar: نموذج مركزية الأرض
+    ast: teoría xeocéntrica
+    az: geosentrik sistem
+    azb: گئوسنتریزم
+    ba: Геоцентризм
+    be: Геацэнтрычная сістэма свету
+    be-tarask: геацэнтрычная сыстэма
+    bg: Геоцентрична система
+    bn: ভূকেন্দ্রিক মডেল
+    bo: གནམ་འགུལ་སྨྲ་བ་
+    ca: teoria geocèntrica
+    cs: geocentrismus
+    cy: cyfundrefn geosentrig
+    da: geocentrisk
+    de: geozentrisches Weltbild
+    el: Γεωκεντρικό μοντέλο
+    en: geocentric model
+    en-us: geocentric model
+    eo: tercentra teorio
+    es: teoría geocéntrica
+    et: geotsentriline maailmasüsteem
+    eu: teoria geozentrikoa
+    fa: نظریه زمین مرکزی
+    fi: Maakeskinen maailmankuva
+    fr: géocentrisme
+    fy: Geosintrisme
+    ga: córas Tholamaes
+    gl: xeocentrismo
+    he: המודל הגאוצנטרי
+    hi: भूकेन्द्रीय मॉडल
+    hr: geocentrični sustav
+    hu: geocentrikus világkép
+    hy: Կոորդինատների երկրակենտրոն համակարգ
+    id: geosentrisme
+    is: Jarðmiðjukenningin
+    it: sistema geocentrico
+    ja: 天動説
+    ka: გეოცენტრული სისტემა
+    kk: Геоцентризм
+    ko: 지구중심설
+    ky: Геоцентризм
+    lb: Geozentrescht Weltbild
+    lfn: jeosentrisme
+    lt: geocentrizmas
+    lv: Ģeocentrisms
+    mk: геоцентризам
+    ml: ഭൗമകേന്ദ്ര മാതൃക
+    mr: पृथ्वीकेंद्री सिद्धान्त
+    ms: Model geopusat
+    nb: geosentrisme
+    nds-nl: geozentrisme
+    nl: Geocentrisme
+    nn: geosentrisk verdssystem
+    oc: geocentrisme
+    om: Akkaayyaa Dachee-handhuurawaa
+    pl: teoria geocentryczna
+    pt: geocentrismo
+    ro: geocentrism
+    ru: Геоцентрическая система мира
+    sh: geocentrični sistem
+    sk: geocentrizmus
+    sl: geocentrični model
+    sq: Gjeocentrizmi
+    sr: геоцентрични систем света
+    sr-ec: геоцентрични систем света
+    sr-el: geocentrični sistem sveta
+    sv: geocentrisk världsbild
+    szy: musasakamuan nu teban nu lala’
+    te: భూ కేంద్రక సిద్ధాంతం
+    tg: Назарияи заминмарказӣ
+    th: ระบบโลกเป็นศูนย์กลาง
+    tl: Geosentriko
+    tr: geosantrizm
+    uk: Геоцентризм
+    ur: ارض مرکزی نظریہ
+    uz: Olamning geotsentrik sistemasi
+    vi: Thuyết địa tâm
+    wuu: 地心说
+    xmf: გეოცენტრიზმი
+    yue: 地心說
+    zh: 地心说
+    zh-cn: 地心说
+    zh-hans: 地心说
+    zh-hant: 天動說
+    zh-hk: 地心說
+    zh-sg: 地心说
+    zh-tw: 天動說
 ---
-
 # [[Geocentric_Model]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Geocentric_model,165800|WD~Geocentric_model,165800]] 

@@ -1,27 +1,87 @@
 ---
-has_time_started: 1949-01-01 
+has_time_started: 1949-01-01
 aliases:
+- Aspettando Godot
+- Atendante Godot
+- Așteptându-l pe Godot
+- Belaukiant Godo
+- Czekając na Godota
+- E ratindant Godot
+- En attendant Godot
+- En attendant Godot (Wrth aros Godot)
+- En esperar Godot
+- Esperando a Godot
+- Esperando Godot
+- Gaidot Godo
+- Godot'd oodates
+- Godot'd uutõn
+- Godot'yu Beklerken
+- Godot-ra várva
+- Godoten esperoan
+- Huomenna hän tulee
+- I väntan på Godot
+- Mens vi venter på Godot
+- Menunggu Godot
+- Paghihintay kay Godo
+- Paghinulat kan Godot
+- Panagur-uray ken ni Godot
+- Qodonu gözləyərkən
+- Tot esperant Godot
+- U očekivanju Godota
+- Wachten op Godot
+- Waiting for Godot
+- Warten auf Godot
+- Á espera de Godot
+- Čakajoč Godota
+- Čakanie na Godota
+- Čekajući Godoa
+- Čekání na Godota
+- Περιμένοντας τον Γκοντό
+- В ожидании Годо
+- В очакване на Годо
+- Годотту күтүүдө
+- У чаканні Гадо
+- У чаканьні Гадо
+- Чекајќи го Годо
+- Чекаючи на Ґодо
+- Գոդոյին սպասելիս
+- Կոտօն Սպասելու Ատեն
+- מחכים לגודו
+- در انتظار گودو
+- في انتظار غودو
+- چاوەڕوانی گۆدۆ
+- वेटिंग फ़ॉर गोडोट
+- ওয়েটিং ফর গোডো
+- ਗੋਦੋ ਦੀ ਉਡੀਕ
+- ವೇಟಿಂಗ್ ಫಾರ್ ಗೊಡಾಟ್
+- വെയ്റ്റിങ്ങ് ഫോർ ഗോദോ
+- გოდოს მოლოდინში
+- ゴドーを待ちながら
+- 等待戈多
+- 等待果陀
+- 等緊高鐸
+- 고도를 기다리며
 has_id_wikidata: Q19871
-genre: "[[_Standards/WikiData/WD~theatre_of_the_absurd,191760]]"
-location_of_first_performance: "[[_Standards/WikiData/WD~Theatre_de_Babylone,2430625]]"
+genre: '[[_Standards/WikiData/WD~theatre_of_the_absurd,191760]]'
+location_of_first_performance: '[[_Standards/WikiData/WD~Theatre_de_Babylone,2430625]]'
 characters:
-  - "[[_Standards/WikiData/WD~Estragon,5401769]]"
-  - "[[_Standards/WikiData/WD~Lucky,6697827]]"
-  - "[[_Standards/WikiData/WD~Pozzo,7237071]]"
-  - "[[_Standards/WikiData/WD~Vladimir,7938230]]"
-instance_of: "[[_Standards/WikiData/WD~literary_work,7725634]]"
-translator: "[[_Standards/WikiData/WD~Francisco_Pillado,20534671]]"
+- '[[_Standards/WikiData/WD~Estragon,5401769]]'
+- '[[_Standards/WikiData/WD~Lucky,6697827]]'
+- '[[_Standards/WikiData/WD~Pozzo,7237071]]'
+- '[[_Standards/WikiData/WD~Vladimir,7938230]]'
+instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
+translator: '[[_Standards/WikiData/WD~Francisco_Pillado,20534671]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Wrth_aros_Godot,56848491]]"
-  - "[[_Standards/WikiData/WD~En_attendant_Godot,101095440]]"
-  - "[[_Standards/WikiData/WD~En_attendant_Godot,101095473]]"
-  - "[[_Standards/WikiData/WD~Q121916049,121916049]]"
-  - "[[_Standards/WikiData/WD~Q122027880,122027880]]"
-  - "[[_Standards/WikiData/WD~Q122040361,122040361]]"
-form_of_creative_work: "[[_Standards/WikiData/WD~play,25379]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~French,150]]"
-author: "[[_Standards/WikiData/WD~Samuel_Beckett,37327]]"
+- '[[_Standards/WikiData/WD~Wrth_aros_Godot,56848491]]'
+- '[[_Standards/WikiData/WD~En_attendant_Godot,101095440]]'
+- '[[_Standards/WikiData/WD~En_attendant_Godot,101095473]]'
+- '[[_Standards/WikiData/WD~Q121916049,121916049]]'
+- '[[_Standards/WikiData/WD~Q122027880,122027880]]'
+- '[[_Standards/WikiData/WD~Q122040361,122040361]]'
+form_of_creative_work: '[[_Standards/WikiData/WD~play,25379]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~French,150]]'
+author: '[[_Standards/WikiData/WD~Samuel_Beckett,37327]]'
 award_received: "[[_Standards/WikiData/WD~Le_Monde's_100_Books_of_the_Century,40734]]"
 title: En attendant Godot
 date_of_first_performance: 1953-01-05T00:00:00Z
@@ -31,8 +91,86 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20student%20producti
 Commons_category: Waiting for Godot
 first_line: Estragon  (renonçant à nouveau) — Rien à faire.
 last_line: Estragon — Allons-y. [Il ne bougent pas.]
+dv_has_:
+  name_:
+    af: Waiting for Godot
+    ar: في انتظار غودو
+    ast: En attendant Godot
+    az: Qodonu gözləyərkən
+    be: У чаканні Гадо
+    be-tarask: У чаканьні Гадо
+    bg: В очакване на Годо
+    bn: ওয়েটিং ফর গোডো
+    ca: Tot esperant Godot
+    ckb: چاوەڕوانی گۆدۆ
+    cs: Čekání na Godota
+    cy: En attendant Godot (Wrth aros Godot)
+    da: Mens vi venter på Godot
+    de: Warten auf Godot
+    el: Περιμένοντας τον Γκοντό
+    en: Waiting for Godot
+    en-ca: Waiting for Godot
+    en-gb: Waiting for Godot
+    eo: Atendante Godot
+    es: Esperando a Godot
+    et: Godot'd oodates
+    eu: Godoten esperoan
+    fa: در انتظار گودو
+    fi: Huomenna hän tulee
+    fr: En attendant Godot
+    fy: En attendant Godot
+    ga: Waiting for Godot
+    gl: Á espera de Godot
+    he: מחכים לגודו
+    hi: वेटिंग फ़ॉर गोडोट
+    hr: U očekivanju Godota
+    hu: Godot-ra várva
+    hy: Գոդոյին սպասելիս
+    hyw: Կոտօն Սպասելու Ատեն
+    id: Menunggu Godot
+    ilo: Panagur-uray ken ni Godot
+    it: Aspettando Godot
+    ja: ゴドーを待ちながら
+    ka: გოდოს მოლოდინში
+    kn: ವೇಟಿಂಗ್ ಫಾರ್ ಗೊಡಾಟ್
+    ko: 고도를 기다리며
+    ky: Годотту күтүүдө
+    la: En attendant Godot
+    lt: Belaukiant Godo
+    lv: Gaidot Godo
+    mk: Чекајќи го Годо
+    ml: വെയ്റ്റിങ്ങ് ഫോർ ഗോദോ
+    nb: Mens vi venter på Godot
+    nl: Wachten op Godot
+    nn: Mens vi venter på Godot
+    oc: En esperar Godot
+    pa: ਗੋਦੋ ਦੀ ਉਡੀਕ
+    pl: Czekając na Godota
+    pt: Esperando Godot
+    ro: Așteptându-l pe Godot
+    ru: В ожидании Годо
+    sh: En attendant Godot
+    sk: Čakanie na Godota
+    sl: Čakajoč Godota
+    sr: Čekajući Godoa
+    sv: I väntan på Godot
+    tl: Paghihintay kay Godo
+    tr: Godot'yu Beklerken
+    uk: Чекаючи на Ґодо
+    vec: Aspettando Godot
+    vi: Waiting for Godot
+    vro: Godot'd uutõn
+    wa: E ratindant Godot
+    war: Paghinulat kan Godot
+    wuu: 等待戈多
+    yue: 等緊高鐸
+    zh: 等待戈多
+    zh-cn: 等待戈多
+    zh-hans: 等待戈多
+    zh-hant: 等待果陀
+    zh-my: 等待果陀
+    zh-sg: 等待果陀
 ---
-
 # [[Waiting_for_Godot]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Waiting_for_Godot,19871|WD~Waiting_for_Godot,19871]]  

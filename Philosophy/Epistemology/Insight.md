@@ -1,16 +1,86 @@
 ---
 aliases:
-  - Einsicht
+- belátásos tanulás
+- Einsicht
+- indsigt
+- innsikt
+- Insaits
+- Insayt
+- insight
+- inzicht
+- Pakiramdam
+- Uvid
+- vhled
+- Vhľad
+- vpogled
+- Waantoob
+- Wawasan
+- wgląd
+- İnsayt
+- İrfan
+- інсайт
+- Инсайт
+- Увид
+- תובנה
+- استبصار
+- بینش
+- دەروونبینی
+- अन्तर्दृष्टि
+- 洞察
+- 洞察力
+- 통찰
 has_id_wikidata: Q1553259
 facet_of:
-  - "[[_Standards/WikiData/WD~causality,179289]]"
-  - "[[_Standards/WikiData/WD~storytelling,989963]]"
-  - "[[_Standards/WikiData/WD~strategic_thinking,7621861]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-different_from: "[[_Standards/WikiData/WD~cognitive_faculty,9372276]]"
-subclass_of: "[[_Standards/WikiData/WD~understanding,46744]]"
+- '[[_Standards/WikiData/WD~causality,179289]]'
+- '[[_Standards/WikiData/WD~storytelling,989963]]'
+- '[[_Standards/WikiData/WD~strategic_thinking,7621861]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+different_from: '[[_Standards/WikiData/WD~cognitive_faculty,9372276]]'
+subclass_of: '[[_Standards/WikiData/WD~understanding,46744]]'
+dv_has_:
+  name_:
+    ar: استبصار
+    arz: استبصار
+    az: İnsayt
+    ckb: دەروونبینی
+    cs: vhled
+    cv: Инсайт
+    da: indsigt
+    de: Einsicht
+    en: insight
+    es: insight
+    fa: بینش
+    fr: insight
+    he: תובנה
+    hi: अन्तर्दृष्टि
+    hu: belátásos tanulás
+    id: Wawasan
+    it: insight
+    ja: 洞察
+    kk: Инсайт
+    ko: 통찰
+    ky: Инсайт
+    lv: Insaits
+    nb: innsikt
+    nl: inzicht
+    pl: wgląd
+    pt-br: insight
+    ro: insight
+    ru: Инсайт
+    sh: Uvid
+    sk: Vhľad
+    sl: vpogled
+    so: Waantoob
+    sr: Увид
+    sr-ec: Увид
+    sr-el: Uvid
+    tl: Pakiramdam
+    tr: İrfan
+    uk: інсайт
+    uz: Insayt
+    yue: 洞察
+    zh: 洞察力
 ---
-
 # [[Insight]] 
 
 #is_/better_than :: [[Epistemology/Knowledge|Knowledge]] 

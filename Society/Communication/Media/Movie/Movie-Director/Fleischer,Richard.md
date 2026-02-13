@@ -1,4 +1,84 @@
-
+---
+has_id_wikidata: Q262735
+dv_has_:
+  name_:
+    ar: ريتشارد فليشر
+    arz: ريتشارد فليشر
+    ast: Richard Fleischer
+    be: Рычард Флейшэр
+    bn: রিচার্ড ফ্লেশার
+    br: Richard Fleischer
+    ca: Richard Fleischer
+    cs: Richard Fleischer
+    cy: Richard Fleischer
+    da: Richard Fleischer
+    de: Richard Fleischer
+    de-ch: Richard Fleischer
+    el: Ρίτσαρντ Φλέτσερ
+    en: Richard Fleischer
+    en-ca: Richard Fleischer
+    en-gb: Richard Fleischer
+    eo: Richard Fleischer
+    es: Richard Fleischer
+    et: Richard Fleischer
+    eu: Richard Fleischer
+    fa: ریچارد فلایشر
+    fi: Richard Fleischer
+    fr: Richard Fleischer
+    ga: Richard Fleischer
+    gl: Richard Fleischer
+    he: ריצ'רד פליישר
+    hi: रिचर्ड फ्लीशर
+    ht: Richard Fleischer
+    hu: Richard Fleischer
+    hy: Ռիչարդ Ֆլեիշեր
+    it: Richard Fleischer
+    ja: リチャード・フライシャー
+    ko: 리처드 플라이셔
+    lb: Richard Fleischer
+    lv: Ričards Flaišers
+    mg: Richard Fleischer
+    ms: Richard Fleischer
+    mul: Richard Fleischer
+    nb: Richard Fleischer
+    nl: Richard Fleischer
+    nn: Richard Fleischer
+    nrm: Richard Fleischer
+    pap: Richard Fleischer
+    pl: Richard Fleischer
+    pt: Richard Fleischer
+    pt-br: Richard Fleischer
+    ro: Richard Fleischer
+    ru: Ричард Флейшер
+    sh: Richard Fleischer
+    sl: Richard Fleischer
+    sq: Richard Fleischer
+    sv: Richard Fleischer
+    tr: Richard Fleischer
+    ur: رچرڈ فلیشر
+    zh: 理查德·弗莱舍
+    zh-cn: 理查德·弗莱彻
+    zh-hans: 理查德·弗莱彻
+    zh-hant: 理查德·弗萊徹
+aliases:
+- Richard Fleischer
+- Ričards Flaišers
+- Ρίτσαρντ Φλέτσερ
+- Ричард Флейшер
+- Рычард Флейшэр
+- Ռիչարդ Ֆլեիշեր
+- ריצ'רד פליישר
+- ريتشارد فليشر
+- رچرڈ فلیشر
+- ریچارد فلایشر
+- रिचर्ड फ्लीशर
+- রিচার্ড ফ্লেশার
+- リチャード・フライシャー
+- 理查德·弗莱彻
+- 理查德·弗莱舍
+- 理查德·弗萊徹
+- 리처드 플라이셔
+---
 #has_/time_/started :: 1916-12-08 
 #has_/time_/stopped ::  2006-03-25 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

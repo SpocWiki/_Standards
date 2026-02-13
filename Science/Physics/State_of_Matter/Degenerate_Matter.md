@@ -1,15 +1,112 @@
 ---
 aliases:
-  - Degenerate matter
-  - Degenerierte Materie
-  - Degenerate_Matter
-  - Degenerate Matter
+- degenerat modda
+- Degenerate matter
+- Degenerate_Matter
+- degenereca materio
+- degenererad materia
+- degenereret stof
+- degenerert materie
+- Degenerierte Materie
+- degenerirana materija
+- degenerirana snov
+- degenerisana materija
+- degenerovaný plyn
+- degenerált anyag
+- Degeneréiert Matière
+- entartete Materie
+- Jirim degenerat
+- materia degenerada
+- materia degenere
+- materia dexenerada
+- materia endekatu
+- materia zdegenerowana
+- Materie degenerată
+- matière dégénérée
+- matèria degenerada
+- matéria degenerada
+- ontaarde materie
+- vật chất suy biến
+- Yoz madde
+- εκφυλισμένη ύλη
+- вироджений газ
+- выраджаны газ
+- вырожденный газ
+- изродена материја
+- изродена материя
+- күйреуік материя
+- моддаи табоҳида
+- тәлгәшләнгән газ
+- юхăннă газ
+- مادة متحللة
+- ماده تباهیده
+- विकृत पदार्थ
+- অবক্ষয়িত পদার্থ
+- สสารเสื่อม
+- フェルミ縮退
+- 简并态物质
+- 簡併態
+- 축퇴물질
 has_id_wikidata: Q51368
 instance_of: '[[_Standards/WikiData/WD~state_of_matter,11430]]'
 subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "DegenerateMatter"]
+dv_has_:
+  name_:
+    af: ontaarde materie
+    ar: مادة متحللة
+    ast: materia dexenerada
+    be: выраджаны газ
+    be-tarask: выраджаны газ
+    bg: изродена материя
+    bn: অবক্ষয়িত পদার্থ
+    ca: matèria degenerada
+    cs: degenerovaný plyn
+    cv: юхăннă газ
+    da: degenereret stof
+    de: entartete Materie
+    de-ch: entartete Materie
+    el: εκφυλισμένη ύλη
+    en: degenerate matter
+    en-ca: degenerate matter
+    en-gb: degenerate matter
+    eo: degenereca materio
+    es: materia degenerada
+    eu: materia endekatu
+    fa: ماده تباهیده
+    fr: matière dégénérée
+    hi: विकृत पदार्थ
+    hr: degenerirana materija
+    hu: degenerált anyag
+    it: materia degenere
+    ja: フェルミ縮退
+    kk: күйреуік материя
+    ko: 축퇴물질
+    lb: Degeneréiert Matière
+    lzh: 簡併態
+    mk: изродена материја
+    ms: Jirim degenerat
+    nb: degenerert materie
+    nl: ontaarde materie
+    oc: Matèria degenerada
+    pl: materia zdegenerowana
+    pt: matéria degenerada
+    pt-br: matéria degenerada
+    ro: Materie degenerată
+    ru: вырожденный газ
+    sk: degenerovaný plyn
+    sl: degenerirana snov
+    sr: degenerisana materija
+    sv: degenererad materia
+    tg: моддаи табоҳида
+    th: สสารเสื่อม
+    tr: Yoz madde
+    tt: тәлгәшләнгән газ
+    uk: вироджений газ
+    uz: degenerat modda
+    vi: vật chất suy biến
+    zh: 简并态物质
 ---
-
 # [[Degenerate_Matter]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Degenerate_matter,51368|WD~Degenerate_matter,51368]] 

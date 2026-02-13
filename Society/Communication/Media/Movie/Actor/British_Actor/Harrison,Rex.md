@@ -1,10 +1,159 @@
 ---
 aliases:
-  - Rex Harrison
-  - Reginald Carey Harrison
-  - Harrison,Rex
+- Harrison,Rex
+- Reginald Carey Harrison
+- Reks Harison
+- Rex Harrison
+- Ρεξ Χάρισον
+- Рекс Гаррісон
+- Рекс Харисон
+- Рекс Харисън
+- Рекс Харрисон
+- Рэкс Харысан
+- Ռեքս Հարիսոն
+- רקס הריסון
+- ريكس هاريسون
+- رکس هاریسون
+- رکس هریسون
+- ریکس ہیریسن
+- रेक्स हॅरिसन
+- রেক্স হ্যারিসন
+- ರೆಕ್ಸ್ ಹ್ಯಾರಿಸನ್
+- เรกซ์ แฮร์ริสัน
+- რექს ჰარისონი
+- レックス・ハリソン
+- 力士·夏里逊
+- 力士·夏里遜
+- 雷克斯·哈里森
+- 雷克斯·哈里逊
+- 雷克斯·哈里遜
+- 렉스 해리슨
+has_id_wikidata: Q181887
+dv_has_:
+  name_:
+    af: Rex Harrison
+    an: Rex Harrison
+    ar: ريكس هاريسون
+    arz: ريكس هاريسون
+    ast: Rex Harrison
+    azb: رکس هریسون
+    bar: Rex Harrison
+    be: Рэкс Харысан
+    bg: Рекс Харисън
+    bm: Rex Harrison
+    bn: রেক্স হ্যারিসন
+    br: Rex Harrison
+    ca: Rex Harrison
+    co: Rex Harrison
+    cs: Rex Harrison
+    cy: Rex Harrison
+    da: Rex Harrison
+    de: Rex Harrison
+    de-at: Rex Harrison
+    de-ch: Rex Harrison
+    el: Ρεξ Χάρισον
+    en: Rex Harrison
+    en-ca: Rex Harrison
+    en-gb: Rex Harrison
+    eo: Rex Harrison
+    es: Rex Harrison
+    et: Rex Harrison
+    eu: Rex Harrison
+    fa: رکس هاریسون
+    fi: Rex Harrison
+    fr: Rex Harrison
+    frc: Rex Harrison
+    frp: Rex Harrison
+    fur: Rex Harrison
+    ga: Rex Harrison
+    gd: Rex Harrison
+    gl: Rex Harrison
+    gsw: Rex Harrison
+    he: רקס הריסון
+    hr: Rex Harrison
+    hu: Rex Harrison
+    hy: Ռեքս Հարիսոն
+    ia: Rex Harrison
+    id: Rex Harrison
+    ie: Rex Harrison
+    ilo: Rex Harrison
+    io: Rex Harrison
+    it: Rex Harrison
+    ja: レックス・ハリソン
+    jam: Rex Harrison
+    ka: რექს ჰარისონი
+    kab: Rex Harrison
+    kg: Rex Harrison
+    kn: ರೆಕ್ಸ್ ಹ್ಯಾರಿಸನ್
+    ko: 렉스 해리슨
+    la: Rex Harrison
+    lb: Rex Harrison
+    lfn: Rex Harrison
+    li: Rex Harrison
+    lij: Rex Harrison
+    lt: Rex Harrison
+    lv: Rex Harrison
+    mg: Rex Harrison
+    min: Rex Harrison
+    mr: रेक्स हॅरिसन
+    ms: Rex Harrison
+    mul: Rex Harrison
+    nap: Rex Harrison
+    nb: Rex Harrison
+    nds: Rex Harrison
+    nds-nl: Rex Harrison
+    nl: Rex Harrison
+    nn: Rex Harrison
+    nrm: Rex Harrison
+    oc: Rex Harrison
+    pap: Rex Harrison
+    pcd: Rex Harrison
+    pl: Rex Harrison
+    pms: Rex Harrison
+    prg: Rex Harrison
+    pt: Rex Harrison
+    pt-br: Rex Harrison
+    qu: Rex Harrison
+    rgn: Rex Harrison
+    rm: Rex Harrison
+    ro: Rex Harrison
+    ru: Рекс Харрисон
+    sc: Rex Harrison
+    scn: Rex Harrison
+    sh: Rex Harrison
+    sk: Rex Harrison
+    sl: Rex Harrison
+    sq: Rex Harrison
+    sr: Рекс Харисон
+    sr-ec: Рекс Харисон
+    sr-el: Reks Harison
+    sv: Rex Harrison
+    sw: Rex Harrison
+    th: เรกซ์ แฮร์ริสัน
+    tl: Rex Harrison
+    tr: Rex Harrison
+    uk: Рекс Гаррісон
+    ur: ریکس ہیریسن
+    uz: Rex Harrison
+    vec: Rex Harrison
+    vi: Rex Harrison
+    vls: Rex Harrison
+    vmf: Rex Harrison
+    vo: Rex Harrison
+    wa: Rex Harrison
+    wo: Rex Harrison
+    xmf: რექს ჰარისონი
+    yo: Rex Harrison
+    zh: 雷克斯·哈里遜
+    zh-cn: 雷克斯·哈里森
+    zh-hans: 雷克斯·哈里逊
+    zh-hant: 雷克斯·哈里遜
+    zh-hk: 力士·夏里遜
+    zh-my: 力士·夏里逊
+    zh-sg: 力士·夏里逊
+    zh-tw: 雷克斯·哈里遜
+    zu: Rex Harrison
 ---
-
 ## #has_/text_of_/abstract 
 
 > Sir Reginald Carey "Rex" Harrison (5 March 1908 – 2 June 1990) was an English actor. 

@@ -1,9 +1,115 @@
 ---
 aliases:
-  - Dipsacales
+- Bộ Tục đoạn
+- Dipsacales
+- Dipsacals
+- Dipsakaloj
+- Dipsaku rinda
+- Fırçaotuçiçəklilər
+- Kardenartige
+- Kartebolle-ordenen
+- Karšuliečiai
+- Koma gulehingivîn û adoksasiyan
+- mácsonyavirágúak
+- szczeciowce
+- Uniohakalaadsed
+- väddordningen
+- Češljugovinolike
+- štetkotvaré
+- štětkotvaré
+- ščetičevci
+- Διψακώδη
+- Варсянкакветныя
+- Ворсянкоцветные
+- лугачкоцветни
+- Черсакоцвіті
+- чешленковидни
+- ակքանածաղկավորներ
+- שלמונאים
+- خواجهباشیسانان
+- ممشقيات
+- マツムシソウ目
+- 川續斷目
+- 川续断目
+- 산토끼꽃목
 title: Dipsacales
+has_id_wikidata: Q21774
+dv_has_:
+  name_:
+    an: Dipsacales
+    ar: ممشقيات
+    arz: ممشقيات
+    ast: Dipsacales
+    az: Fırçaotuçiçəklilər
+    be: Варсянкакветныя
+    be-tarask: Варсянкакветныя
+    bg: лугачкоцветни
+    bs: Dipsacales
+    ca: Dipsacals
+    ceb: Dipsacales
+    co: Dipsacales
+    cs: štětkotvaré
+    da: Kartebolle-ordenen
+    de: Kardenartige
+    el: Διψακώδη
+    en: Dipsacales
+    en-ca: Dipsacales
+    en-gb: Dipsacales
+    eo: Dipsakaloj
+    es: Dipsacales
+    et: Uniohakalaadsed
+    eu: Dipsacales
+    ext: Dipsacales
+    fa: خواجهباشیسانان
+    fi: Dipsacales
+    fr: Dipsacales
+    frr: Dipsacales
+    ga: Dipsacales
+    gl: Dipsacales
+    he: שלמונאים
+    hr: Češljugovinolike
+    hu: mácsonyavirágúak
+    hy: ակքանածաղկավորներ
+    ia: Dipsacales
+    id: Dipsacales
+    ie: Dipsacales
+    io: Dipsacales
+    it: Dipsacales
+    ja: マツムシソウ目
+    ko: 산토끼꽃목
+    ku: Koma gulehingivîn û adoksasiyan
+    la: Dipsacales
+    lt: Karšuliečiai
+    lv: Dipsaku rinda
+    mk: чешленковидни
+    mul: Dipsacales
+    nb: Dipsacales
+    nl: Dipsacales
+    oc: Dipsacales
+    pl: szczeciowce
+    pt: Dipsacales
+    pt-br: Dipsacales
+    ro: Dipsacales
+    ru: Ворсянкоцветные
+    sco: Dipsacales
+    sh: Dipsacales
+    sk: štetkotvaré
+    sl: ščetičevci
+    sq: Dipsacales
+    sr: Dipsacales
+    sv: väddordningen
+    uk: Черсакоцвіті
+    vi: Bộ Tục đoạn
+    vls: Dipsacales
+    vo: Dipsacales
+    war: Dipsacales
+    yue: 川續斷目
+    zh: 川续断目
+    zh-cn: 川续断目
+    zh-hans: 川续断目
+    zh-hant: 川续断目
+    zh-tw: 川續斷目
 ---
-
 # [[Dipsacales]] 
 
 

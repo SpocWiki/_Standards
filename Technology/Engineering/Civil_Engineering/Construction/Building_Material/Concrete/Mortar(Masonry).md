@@ -1,31 +1,158 @@
 ---
 aliases:
-  - mortar
-  - Mörtel
-  - Mortar(Masonry)
+- Aol-tàthaidh
+- argamassa
+- būvjava
+- habarcs
+- Harç
+- laasti
+- Lepa
+- Maitl
+- malta
+- Malter
+- moirtéal
+- Molta
+- Mort
+- mortar
+- Mortar(Masonry)
+- Morteiro (construción)
+- mortel
+- Morter
+- mortero
+- mortier
+- Mortièr
+- murbruk
+- Mòtye
+- Mört
+- Mörtel
+- mørtel
+- Mūrijimo skiedinys
+- ortero
+- Pirqa llut'ana
+- Vữa
+- Zaprawa
+- Çурттăвăмлăх ирĕлчĕк
+- κονίαμα
+- Малтер
+- раствор
+- розчин будівельний
+- рошчына
+- Таастыйар
+- Хоросан
+- շինարարական շաղախ
+- מלט
+- مرطوب
+- مسالو
+- ملات
+- ملاط
+- मसाला
+- మాలు
+- ಗಾರೆ
+- බදාම
+- დუღაბი
+- モルタル
+- 砂浆
+- 砂漿
+- 모르타르
 has_id_wikidata: Q189566
 subclass_of:
-  - '[[_Standards/WikiData/WD~adhesive,131790]]'
-  - '[[_Standards/WikiData/WD~binder,863583]]'
-  - '[[_Standards/WikiData/WD~binding_material,12106347]]'
+- '[[_Standards/WikiData/WD~adhesive,131790]]'
+- '[[_Standards/WikiData/WD~binder,863583]]'
+- '[[_Standards/WikiData/WD~binding_material,12106347]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Zaprawa,9387024]]'
+- '[[_Standards/WikiData/WD~Zaprawa,9387024]]'
 Nomenclature_for_Museum_Cataloging: 65
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Three%20old%20bricks%20held%20together%20with%20mortar.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Throwel%20in%20a%20bucket.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Three%20old%20bricks%20held%20together%20with%20mortar.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Throwel%20in%20a%20bucket.JPG
 OmegaWiki_Defined_Meaning: 703845
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D9%85%D9%84%D8%A7%D8%B7.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D9%85%D9%84%D8%A7%D8%B7.wav
 P8189: 987007546058005171
 Commons_category: Mortar (masonry)
+dv_has_:
+  name_:
+    ar: ملاط
+    ary: مرطوب
+    bar: Maitl
+    be-tarask: рошчына
+    bg: Хоросан
+    bs: Malter
+    ca: morter
+    cs: malta
+    cv: Çурттăвăмлăх ирĕлчĕк
+    cy: Morter
+    da: mørtel
+    de: Mörtel
+    el: κονίαμα
+    en: mortar
+    eo: ortero
+    es: mortero
+    et: Mört
+    eu: Mortero
+    fa: ملات
+    fi: laasti
+    fr: mortier
+    ga: moirtéal
+    gd: Aol-tàthaidh
+    gl: Morteiro (construción)
+    he: מלט
+    hi: मसाला
+    hr: Mort
+    ht: Mòtye
+    hu: habarcs
+    hy: շինարարական շաղախ
+    id: Lepa
+    io: Mortero
+    it: malta
+    ja: モルタル
+    ka: დუღაბი
+    kn: ಗಾರೆ
+    ko: 모르타르
+    lmo: Molta
+    lt: Mūrijimo skiedinys
+    lv: būvjava
+    mk: Малтер
+    nb: mørtel
+    nl: mortel
+    nn: mørtel
+    oc: Mortièr
+    pl: Zaprawa
+    pt: argamassa
+    qu: Pirqa llut'ana
+    ro: Mortar
+    ru: раствор
+    sah: Таастыйар
+    sd: مسالو
+    sh: malter
+    si: බදාම
+    sk: Malta
+    sl: malta
+    sr: Malter
+    sr-ec: Малтер
+    sr-el: Malter
+    sv: murbruk
+    szl: Malta
+    te: మాలు
+    tr: Harç
+    uk: розчин будівельний
+    vec: malta
+    vi: Vữa
+    wuu: 砂浆
+    yue: 砂漿
+    zh: 砂漿
+    zh-cn: 砂浆
+    zh-hans: 砂浆
+    zh-hant: 砂漿
+    zh-hk: 砂漿
+    zh-sg: 砂浆
+    zh-tw: 砂漿
 ---
-
 # [[Mortar(Masonry)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Mortar,189566|WD~Mortar,189566]] 

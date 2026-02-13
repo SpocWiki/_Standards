@@ -1,11 +1,71 @@
 ---
 aliases:
-  - algebraic integers
-  - algebraic integer
-  - Algebraic_Integer
-  - Algebraic Integer
+- algebra entjero
+- algebrai egész szám
+- algebraic integer
+- algebraic integers
+- Algebraic_Integer
+- algebrallinen kokonaisluku
+- algebrallâš olesloho
+- algebraïsch geheel getal
+- algebrsko celo število
+- celé algebraické číslo
+- enteiro alxébrico
+- enters algebraics
+- entier algébrique
+- ganzalgebraische Zahl
+- inteiro algébrico
+- intero algebrico
+- número entero algebraico
+- số đại số nguyên
+- întreg algebric
+- αλγεβρικός ακέραιος
+- алгебралык бүтүн сан
+- бүтін алгебралық сан
+- ціле алгебраїчне число
+- целое алгебраическое число
+- цэлы алгебраічны лік
+- שלם אלגברי
+- عدد صحيح جبري
+- 代数整数
+- 代数的整数
+- 代數整數
+- 대수적 정수
+has_id_wikidata: Q646245
+dv_has_:
+  name_:
+    ar: عدد صحيح جبري
+    be: цэлы алгебраічны лік
+    ca: enters algebraics
+    cs: celé algebraické číslo
+    de: ganzalgebraische Zahl
+    el: αλγεβρικός ακέραιος
+    en: algebraic integer
+    eo: algebra entjero
+    es: número entero algebraico
+    fi: algebrallinen kokonaisluku
+    fr: entier algébrique
+    gl: enteiro alxébrico
+    he: שלם אלגברי
+    hu: algebrai egész szám
+    it: intero algebrico
+    ja: 代数的整数
+    kk: бүтін алгебралық сан
+    ko: 대수적 정수
+    ky: алгебралык бүтүн сан
+    nl: algebraïsch geheel getal
+    pt: inteiro algébrico
+    pt-br: inteiro algébrico
+    ro: întreg algebric
+    ru: целое алгебраическое число
+    sl: algebrsko celo število
+    smn: algebrallâš olesloho
+    uk: ціле алгебраїчне число
+    vi: số đại số nguyên
+    zh: 代數整數
+    zh-cn: 代数整数
+    zh-hant: 代數整數
 ---
-
 # [[Algebraic_Integer]] 
 
 #is_/same_as :: 

@@ -1,12 +1,193 @@
 ---
 aliases:
-  - East–West Schism
-  - Great Schism
-  - Schism of 1054
-  - 1054~East-West_Schism
-  - 1054~East-West Schism
+- 1054~East-West Schism
+- 1054~East-West_Schism
+- Cisma d'Oriente
+- Cisma de Oriente y Occidente
+- Crkveni raskol
+- Det store skisma 1054
+- Det store skismaet
+- Didžioji schizma
+- Doğu - Batı Kiliselerinin Ayrılması
+- East-West Schism
+- Eastersk Skisma
+- East–Wast Schism
+- East–West Schism
+- Esquisma de 1054
+- Farakano la mwaka 1054
+- Fisarahan' ny Fiangonana Tatsinanana sy Tandrefana
+- Gran Cisma
+- Gran Cisma d'Orient
+- Gran Scisma d'Orient
+- Grand Cisma d'Orient
+- grand schisme d'Orient
+- Grande Cisma de l Ouriente
+- Grande Cisma do Oriente
+- Grande Scisma
+- Grando Sisma de Oriente
+- Great Schism
+- Greeksch Schisma
+- Iis-Wes Skizim
+- Kirkjusundrungin
+- Lielā Shizma
+- Ly giáo Đông - Tây
+- Marea Schismă
+- Morgenländisches Schisma
+- nagy egyházszakadás
+- Oosters Schisma
+- Oosterse Skisma
+- Orienta skismo
+- Pagburublag han Sinirangan-Katundan
+- Paghahati ng Silangan-Kanluran
+- Perpecahan Timur-Barat
+- Raskol Istoka i Zapada
+- Schism of 1054
+- Schisma Orientale
+- Scisma Granni
+- Siosma Mór 1054
+- Skism Kornôg-Reter
+- Skisma Timur-Barat
+- Skizma Lindje-Perëndim
+- Stora schismen 1054
+- Suur kerkolaheq
+- Suur kirikulõhe
+- Suuri skisma
+- Séparasyon di sé Légliz di Oryan é di Oksidan
+- velika shizma
+- Velké schizma
+- Veqetana dêrên rojhilat û rojava
+- Východná schizma
+- Wielka schizma wschodnia
+- Xristianlikning boʻlinishi
+- Xristianlıqda bölünmə
+- Y Sgism Fawr
+- Zisma Nagusia
+- Σχίσμα του 1054
+- Велики раскол
+- Вялікая схізма
+- Големиот раскол
+- Източно-западна схизма
+- Разделение церквей
+- Раскол хрысціянскай царквы 1054 года
+- Розкол християнської церкви 1054
+- Схизмась
+- Արեւելեան – Արեւմտեան հերձուած
+- פילוג הכנסייה הנוצרית
+- الانشقاق العظيم
+- الانشقاق الكبير
+- تفرقۂ عظیم
+- جدایی شرق و غرب
+- د ختیځ او لوېدیځ وېش
+- لێکترازانی گەورە
+- धार्मिक महाविच्छेद
+- पूर्व-पश्चिम शाईज्म
+- পূর্ব–পশ্চিম ধর্মবিচ্ছেদ
+- பெரும் சமயப்பிளவு
+- ศาสนเภทตะวันออก-ตะวันตก
+- დიდი სქიზმა
+- 东西教会大分裂
+- 基督教大分裂
+- 東西教会の分裂
+- 東西教會大分裂
+- 동서 교회의 분열
+has_id_wikidata: Q51648
+dv_has_:
+  name_:
+    af: Oosterse Skisma
+    an: Gran Scisma d'Orient
+    ar: الانشقاق العظيم
+    arz: الانشقاق الكبير
+    ast: Cisma d'Oriente
+    az: Xristianlıqda bölünmə
+    be: Раскол хрысціянскай царквы 1054 года
+    be-tarask: Вялікая схізма
+    bg: Източно-западна схизма
+    bn: পূর্ব–পশ্চিম ধর্মবিচ্ছেদ
+    br: Skism Kornôg-Reter
+    bs: Crkveni raskol
+    ca: Gran Cisma d'Orient
+    ckb: لێکترازانی گەورە
+    cs: Velké schizma
+    cy: Y Sgism Fawr
+    da: Det store skisma 1054
+    de: Morgenländisches Schisma
+    de-ch: Morgenländisches Schisma
+    el: Σχίσμα του 1054
+    en: East-West Schism
+    en-ca: East–West Schism
+    en-gb: East–West Schism
+    eo: Orienta skismo
+    es: Cisma de Oriente y Occidente
+    et: Suur kirikulõhe
+    eu: Zisma Nagusia
+    fa: جدایی شرق و غرب
+    fi: Suuri skisma
+    fr: grand schisme d'Orient
+    fy: Eastersk Skisma
+    ga: Siosma Mór 1054
+    gcr: Séparasyon di sé Légliz di Oryan é di Oksidan
+    gl: Gran Cisma
+    he: פילוג הכנסייה הנוצרית
+    hi: धार्मिक महाविच्छेद
+    hr: Crkveni raskol
+    hu: nagy egyházszakadás
+    hy: Արեւելեան – Արեւմտեան հերձուած
+    hyw: Արեւելեան – Արեւմտեան հերձուած
+    id: Skisma Timur-Barat
+    is: Kirkjusundrungin
+    it: Grande Scisma
+    ja: 東西教会の分裂
+    jam: Iis-Wes Skizim
+    ka: დიდი სქიზმა
+    ko: 동서 교회의 분열
+    ku: Veqetana dêrên rojhilat û rojava
+    la: Schisma Orientale
+    lmo: Grand Cisma d'Orient
+    lt: Didžioji schizma
+    lv: Lielā Shizma
+    mdf: Схизмась
+    mg: Fisarahan' ny Fiangonana Tatsinanana sy Tandrefana
+    mk: Големиот раскол
+    ms: Perpecahan Timur-Barat
+    mwl: Grande Cisma de l Ouriente
+    nb: Det store skisma 1054
+    nds: Greeksch Schisma
+    new: पूर्व-पश्चिम शाईज्म
+    nl: Oosters Schisma
+    nn: Det store skismaet
+    oc: Esquisma de 1054
+    pl: Wielka schizma wschodnia
+    pnb: تفرقۂ عظیم
+    ps: د ختیځ او لوېدیځ وېش
+    pt: Grande Cisma do Oriente
+    pt-br: Grande Cisma do Oriente
+    ro: Marea Schismă
+    ru: Разделение церквей
+    scn: Scisma Granni
+    sco: East–Wast Schism
+    sh: Raskol Istoka i Zapada
+    si: East-West Schism
+    sk: Východná schizma
+    sl: velika shizma
+    sq: Skizma Lindje-Perëndim
+    sr: Велики раскол
+    sv: Stora schismen 1054
+    sw: Farakano la mwaka 1054
+    ta: பெரும் சமயப்பிளவு
+    th: ศาสนเภทตะวันออก-ตะวันตก
+    tl: Paghahati ng Silangan-Kanluran
+    tr: Doğu - Batı Kiliselerinin Ayrılması
+    uk: Розкол християнської церкви 1054
+    ur: تفرقۂ عظیم
+    uz: Xristianlikning boʻlinishi
+    vec: Grando Sisma de Oriente
+    vi: Ly giáo Đông - Tây
+    vro: Suur kerkolaheq
+    war: Pagburublag han Sinirangan-Katundan
+    wuu: 东西教会大分裂
+    yue: 基督教大分裂
+    zh: 東西教會大分裂
 ---
-
 # [[1054~East-West_Schism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~East-West_Schism,51648|WD~East-West_Schism,51648]] 

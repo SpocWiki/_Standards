@@ -1,18 +1,100 @@
 ---
 aliases:
+- Paranthropus
+- Parantrop
+- Robústen
+- Παράνθρωπος
+- Парантроп
+- Парантропы
+- паратрап
+- פרנתרופוס
+- أناسي نظير
+- پارانتروپوس
+- پرامردم
+- जिंजानथ्रोपस
+- पारान्थ्रोपस
+- パラントロプス
+- 傍人
+- 傍人属
+- 傍人屬
+- 파란트로푸스
 has_id_wikidata: Q111463
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-parent_taxon: "[[_Standards/WikiData/WD~Australopithecinae,33141205]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Paraustralopithecus,56425559]]"
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+parent_taxon: '[[_Standards/WikiData/WD~Australopithecinae,33141205]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Paraustralopithecus,56425559]]'
 start_time: -2600000-01-01T00:00:00Z
 end_time: -600000-01-01T00:00:00Z
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paranthropus-boisei-Nairobi.JPG
 Commons_category: Paranthropus
 taxon_name: Paranthropus
 taxon_common_name: Robust australopithecines
+dv_has_:
+  name_:
+    af: Paranthropus
+    ar: أناسي نظير
+    ast: Paranthropus
+    ba: Парантроп
+    be: Парантроп
+    be-tarask: паратрап
+    bg: Paranthropus
+    ca: Paranthropus
+    ceb: Paranthropus
+    cs: Paranthropus
+    cy: Paranthropus
+    de: Paranthropus
+    el: Παράνθρωπος
+    en: Paranthropus
+    eo: Paranthropus
+    es: Paranthropus
+    eu: Paranthropus
+    fa: پرامردم
+    fi: Paranthropus
+    fr: Paranthropus
+    fy: Robústen
+    ga: Paranthropus
+    gl: Paranthropus
+    he: פרנתרופוס
+    hi: जिंजानथ्रोपस
+    hr: Paranthropus
+    ia: Paranthropus
+    id: Paranthropus
+    it: Paranthropus
+    ja: パラントロプス
+    ko: 파란트로푸스
+    la: Paranthropus
+    lb: Paranthropus
+    mul: Paranthropus
+    nb: Paranthropus
+    nds: Paranthropus
+    new: पारान्थ्रोपस
+    nl: Paranthropus
+    nn: Paranthropus
+    oc: Paranthropus
+    pl: Paranthropus
+    ps: پارانتروپوس
+    pt: Paranthropus
+    ro: Paranthropus
+    ru: Парантропы
+    sh: Paranthropus
+    sk: Parantrop
+    sq: Paranthropus
+    sr: Paranthropus
+    sv: Paranthropus
+    tl: Paranthropus
+    tr: Paranthropus
+    uk: Парантроп
+    vec: Paranthropus
+    vi: Paranthropus
+    war: Paranthropus
+    zh: 傍人属
+    zh-cn: 傍人属
+    zh-hans: 傍人属
+    zh-hant: 傍人
+    zh-hk: 傍人
+    zh-sg: 傍人
+    zh-tw: 傍人屬
 ---
-
 # [[Paranthropus]] 
 
 #is_/same_as :: [[WD~Paranthropus,111463]] 

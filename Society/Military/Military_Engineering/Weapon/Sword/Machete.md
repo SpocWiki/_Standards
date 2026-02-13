@@ -1,16 +1,121 @@
 ---
 aliases:
+- aihotz
+- bedog
+- kapmes
+- macetă
+- machete
+- machette
+- Machéte
+- maczeta
+- manchèt
+- matchete
+- matxet
+- matšeete
+- Maçete
+- maĉeto
+- mačeta
+- mačete
+- mačetė
+- mã tấu
+- Njora (banga)
+- sua
+- viidakkoveitsi
+- wíkkòrì
+- ματσέτα
+- мачета
+- мачете
+- мачэтэ
+- մաչետե
+- מצ'טה
+- قداره
+- منجل ماشيتي
+- মাচেতে
+- ਮਾਛੇਤੇ
+- குறுவாள்
+- მაჩეტე
+- マチェテ
+- 開山刀
+- 마체테
 has_id_wikidata: Q230711
 subclass_of:
-  - "[[_Standards/WikiData/WD~cold_weapon,222405]]"
-  - "[[_Standards/WikiData/WD~agricultural_tool,3629395]]"
-  - "[[_Standards/WikiData/WD~knife,32489]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_family,15142889]]"
-Nomenclature_for_Museum_Cataloging: "3391"
+- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+- '[[_Standards/WikiData/WD~knife,32489]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+Nomenclature_for_Museum_Cataloging: 3391
 Commons_category: Machetes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Machete%20knife%20blade.jpg
+dv_has_:
+  name_:
+    af: kapmes
+    ar: منجل ماشيتي
+    ast: machete
+    az: Maçete
+    be-tarask: мачэтэ
+    bg: мачете
+    bn: মাচেতে
+    ca: matxet
+    cs: mačeta
+    da: machete
+    dag: sua
+    de: Machete
+    el: ματσέτα
+    en: machete
+    en-ca: machete
+    en-us: machete
+    eo: maĉeto
+    es: machete
+    et: matšeete
+    eu: aihotz
+    fa: قداره
+    fi: viidakkoveitsi
+    fr: machette
+    gl: machete
+    gn: Machéte
+    he: מצ'טה
+    hr: mačeta
+    ht: manchèt
+    hu: machete
+    hy: մաչետե
+    id: machete
+    it: machete
+    ja: マチェテ
+    ka: მაჩეტე
+    ki: Njora (banga)
+    ko: 마체테
+    lt: mačetė
+    lv: mačete
+    mcn: wíkkòrì
+    mk: мачета
+    nb: machete
+    nl: kapmes
+    pa: ਮਾਛੇਤੇ
+    pl: maczeta
+    pt: machete
+    pt-br: machete
+    ro: macetă
+    ru: мачете
+    sco: machete
+    sh: mačeta
+    sk: mačeta
+    sl: mačeta
+    sq: machete
+    sr: мачета
+    sr-ec: мачета
+    sr-el: mačeta
+    su: bedog
+    sv: machete
+    ta: குறுவாள்
+    tr: Machete
+    uk: мачете
+    uz: machete
+    vi: mã tấu
+    wa: matchete
+    xmf: მაჩეტე
+    yue: 開山刀
+    zh: 開山刀
 ---
-
 # [[Machete]] 
 
 #is_/same_as :: [[WD~Machete,230711]] 

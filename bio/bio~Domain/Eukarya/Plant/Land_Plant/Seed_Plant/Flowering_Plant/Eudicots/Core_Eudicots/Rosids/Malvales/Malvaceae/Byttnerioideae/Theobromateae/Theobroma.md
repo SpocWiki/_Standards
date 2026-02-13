@@ -1,16 +1,37 @@
 ---
 aliases:
+- kaakaopuut
+- Kakao-slægten
+- Kakaobäume
+- Kakaopuu
+- Kakaosläktet
+- Kakaovac
+- kakaovník
+- Kakaowiec
+- Kakavmedis
+- kakavovec
+- Kakawowc
+- Teobrom
+- Teobroma
+- Theobroma
+- теоброма
+- тэаброма
+- ثيوبروما
+- টহেওবরোমা
+- 可可属
+- 可可屬
+- 카카오속
 has_id_wikidata: Q162078
-different_from: "[[_Standards/WikiData/WD~Theobroma,2372186]]"
-parent_taxon: "[[../../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728]]"
+different_from: '[[_Standards/WikiData/WD~Theobroma,2372186]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]"
-studied_by: "[[_Standards/WikiData/WD~theobromatology,134987139]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-taxonomic_type: "[[_Standards/WikiData/WD~cacao,42385]]"
-ITIS_TSN: "21556"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
+studied_by: '[[_Standards/WikiData/WD~theobromatology,134987139]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~cacao,42385]]'
+ITIS_TSN: 21556
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cacao.jpeg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20flowerdiagram.png
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=12064
@@ -19,11 +40,72 @@ UMLS_CUI: C0242207
 Commons_category: Theobroma
 taxon_name: Theobroma
 taxon_common_name:
-  - kakavovec
-  - 可可属
-  - 可可属
+- kakavovec
+- 可可属
+- 可可属
+dv_has_:
+  name_:
+    an: Theobroma
+    ar: ثيوبروما
+    arz: ثيوبروما
+    ast: Theobroma
+    az: Teobrom
+    be-tarask: тэаброма
+    bg: теоброма
+    bpy: টহেওবরোমা
+    ca: Theobroma
+    ceb: Theobroma
+    cs: kakaovník
+    da: Kakao-slægten
+    de: Kakaobäume
+    en: Theobroma
+    eo: Theobroma
+    es: Theobroma
+    et: Kakaopuu
+    eu: Theobroma
+    ext: Theobroma
+    fi: kaakaopuut
+    fr: Theobroma
+    ga: Theobroma
+    gl: Theobroma
+    hr: Kakaovac
+    hsb: Kakawowc
+    hu: Theobroma
+    ia: Theobroma
+    id: Theobroma
+    ie: Theobroma
+    io: Theobroma
+    it: Theobroma
+    ko: 카카오속
+    la: Theobroma
+    lt: Kakavmedis
+    mul: Theobroma
+    nb: Theobroma
+    nl: Theobroma
+    nn: Theobroma
+    oc: Theobroma
+    pl: Kakaowiec
+    pt: Theobroma
+    pt-br: Theobroma
+    ro: Theobroma
+    ru: Теоброма
+    sl: kakavovec
+    sq: Theobroma
+    sr: Theobroma
+    sv: Kakaosläktet
+    uk: Theobroma
+    uz: Teobroma
+    vi: Theobroma
+    vo: Theobroma
+    war: Theobroma
+    zh: 可可属
+    zh-cn: 可可属
+    zh-hans: 可可属
+    zh-hant: 可可屬
+    zh-hk: 可可屬
+    zh-sg: 可可属
+    zh-tw: 可可屬
 ---
-
 # [[Theobroma]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078]] 

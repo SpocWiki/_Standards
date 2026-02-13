@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 马耳他共和国
 dv_UNTERM_French_Formal: la République de Malte
 dv_UNTERM_Russian: Мальта
 dv_UNTERM_Russian_Formal: Республика Мальта
-dv_Region_Name: "[[../../Europe]]"
-dv_Intermediate_Region_Name: "[[Malta]]"
-dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region_Name: '[[../../Europe]]'
+dv_Intermediate_Region_Name: '[[Malta]]'
+dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
 dv_Sub-region: 39
 dv_Geoname-ID: 2562770
@@ -52,241 +52,627 @@ dv_ISO2: MT
 dv_ISO3: MLT
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Malta,233|WD~Malta,233]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]"
+  - '[[../../../../WikiData/WD~Malta,233|WD~Malta,233]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]'
 dv_has_:
   name_:
+    ab: Мальта
+    ace: Malta
+    aeb-arab: مالطا
+    af: Malta
+    am: ማልታ
+    ami: Malta
+    an: Malta
+    ang: Melita
+    ann: Mọlita
+    anp: माल्टा
+    ar: مالطا
+    arc: ܡܝܠܛܐ
+    ary: مالطا
+    arz: مالطا
+    ast: Malta
+    av: Мальта
+    avk: Malta
+    awa: माल्टा
+    az: Malta
+    azb: مالت
+    ba: Мальта
+    ban: Malta
+    bar: Malta
+    bcl: Malta
+    be: Мальта
+    be-tarask: Мальта
+    bew: Malta
+    bg: Малта
+    bgn: مالتا
+    bho: माल्टा
+    bi: Molta
+    bn: মাল্টা
+    bo: མལ་ཏ།
+    bpy: মাল্টা মিউনিসিপিও
+    br: Malta
+    bs: Malta
+    bxr: Мальта
+    ca: Malta
+    cbk-zam: Malta
+    cdo: Malta
+    ce: Мальта
+    ceb: Malta
+    ch: Malta
+    chr: ᎹᎵᏔ
+    ckb: ماڵتا
+    co: Malta
+    crh: Malta
+    crh-latn: Malta
+    cs: Malta
+    csb: Malta
+    cu: Малта
+    cv: Мальта
+    cy: Malta
+    da: Malta
+    dag: Malta
+    de: Malta
+    de-at: Malta
+    de-ch: Malta
+    diq: Malta
+    dsb: Malta
+    dty: माल्टा
+    dv: މޯލްޓާ
+    ee: Malta
+    el: Μάλτα
+    eml: Malta
+    en: Malta
+    en-ca: Malta
+    en-gb: Malta
+    en-us: Malta
+    eo: Malto
+    es: Malta
+    et: Malta
+    eu: Malta
+    ext: Malta
+    fa: مالت
+    ff: Malta
+    fi: Malta
+    fj: Melita
+    fo: Malta
+    fr: Malte
+    frp: Malta
+    frr: Malta
+    fur: Malte
+    fy: Malta
+    ga: Málta
+    gag: Malta
+    gcr: Malt
+    gd: Malta
+    gl: Malta
+    glk: مالت
+    gn: Malta
+    gom: माल्टा
+    gom-deva: माल्टा
+    gom-latn: Malta
+    got: "\U0001033C\U00010330\U0001033B\U00010344\U00010330"
+    gpe: Malta
+    gsw: Malta
+    gu: માલ્ટા
+    gv: y Valta
+    ha: Malta
+    hak: Malta
+    haw: Malata
+    he: מלטה
+    hi: माल्टा
+    hif: Malta
+    hr: Malta
+    hsb: Malta
+    ht: Malt
+    hu: Málta
+    hy: Մալթա
+    hyw: Մալթա
+    ia: Malta
+    id: Malta
+    ie: Malta
+    ig: Malta
+    ilo: Malta
+    io: Malta
+    is: Malta
+    it: Malta
+    ja: マルタ
+    jam: Malta
+    jbo: lo gugdemutu
+    jv: Malta
+    ka: მალტა
+    kaa: Malta
+    kab: Malṭa
+    kbd: Малтэ
+    kg: Malta
+    kge: Malta
+    kk: Мальта
+    kl: Malta
+    kn: ಮಾಲ್ಟ
+    ko: 몰타
+    koi: Мальта
+    krc: Мальта
+    ku: Malta
+    kv: Мальта
+    kw: Malta
+    ky: Мальта
+    la: Melita
+    lad: Malta
+    lb: Malta
+    lbe: Мальта
+    lfn: Malta
+    lg: Malta
+    li: Malta
+    lij: Mâta
+    liv: Malta
+    lld: Malta
+    lmo: Malta
+    ln: Malta
+    lo: ປະເທດມັນ
+    lrc: مالت
+    lt: Malta
+    ltg: Malta
+    lv: Malta
+    lzh: 馬爾他
+    mad: Malta
+    mai: माल्टा
+    map-bms: Malta
+    mdf: Мальта
+    mg: Malta
+    mhr: Мальта
+    mi: Mārata
+    min: Malta
+    mk: Малта
+    ml: മാൾട്ട
+    mn: Мальта
+    mni: ꯃꯥꯜꯇꯥ
+    mr: माल्टा
+    ms: Malta
+    ms-arab: ملتا
+    mt: Malta
+    mwl: Malta
+    my: မော်လတာနိုင်ငံ
+    myv: Мальта Мастор
+    mzn: مالت
+    na: Marta
+    nah: Maltah
+    nan: Malta
+    nap: Malta
+    nb: Malta
+    nds: Malta
+    nds-nl: Malta
+    ne: माल्टा
+    new: मल्ता
+    nl: Malta
+    nn: Malta
+    nov: Malta
+    nqo: ߡߊߟߕ
+    nrm: Malte
+    nv: Táłkááʼ Bineʼ Naʼadziʼnii Bikéyah
+    oc: Malta
+    olo: Mal'tu
+    om: Mooltaa
+    or: ମାଲଟା
+    os: Мальтæ
+    ota: مالطه
+    pa: ਮਾਲਟਾ
+    pag: Malta
+    pam: Malta
+    pap: Malta
+    pcd: Malte
+    pi: माल्टा
+    pih: Marlta
+    pl: Malta
+    pms: Malta
+    pnb: مالٹا
+    pnt: Μάλτα
+    ps: مالټا
+    pt: Malta
+    pt-br: Malta
+    qu: Malta
+    rm: Malta
+    rmy: Malta
+    ro: Malta
+    roa-tara: Malte
+    ru: Мальта
+    rue: Малта
+    rup: Malta
+    rw: Malita
+    sa: माल्टा
+    sah: Мальта
+    sat: ᱢᱟᱞᱴᱟ
+    sc: Malta
+    scn: Malta
+    sco: Maltae
+    sd: مالٽا
+    se: Malta
+    sgs: Malta
+    sh: Malta
+    shi: Malṭa
+    shn: မိူင်းမေႃးတႃႇ
+    si: මෝල්ටාව
+    sk: Malta
+    sl: Malta
+    sm: Malitia
+    sma: Malta
+    smn: Malta
+    sms: Malta
+    sn: Malta
+    so: Malta
+    sq: Malta
+    sr: Малта
+    sr-ec: Малта
+    srn: Maltakondre
+    ss: IMalitha
+    stq: Malta
+    su: Malta
+    sv: Malta
+    sw: Malta
+    syl: ꠝꠣꠟ꠆ꠐꠣ
+    szl: Malta
+    szy: Malta
+    ta: மால்ட்டா
+    tay: Malta
+    te: మాల్టా
+    tet: Malta
+    tg: Малта
+    th: ประเทศมอลตา
+    tk: Malta
+    tl: Malta
+    tly: Maltə
+    to: Malita
+    tok: ma Mata
+    tr: Malta
+    trv: Malta
+    ts: Malta
+    tt: Мальта
+    tum: Malta
+    tw: Malta
+    udm: Мальта
+    ug: مالتا
+    uk: Мальта
+    ur: مالطہ
+    uz: Malta
+    vec: Malta
+    vep: Mal't
+    vi: Malta
+    vls: Malta
+    vo: Malteän
+    vro: Malta
+    wa: Male
+    war: Malta
+    wo: Malt
+    wuu: 马耳他
+    xal: Малтдин Орн
+    xh: Maltha
+    xmf: მალტა
+    yi: מאלטא
+    yo: Máltà
+    yue: 馬耳他
+    za: Malta
+    zea: Malta
+    zgh: ⵎⴰⵍⵟⴰ
+    zh: 馬耳他
+    zh-cn: 马耳他
+    zh-hans: 马耳他
+    zh-hant: 馬耳他
+    zh-hk: 馬耳他
+    zh-mo: 馬耳他
+    zh-my: 马耳他
+    zh-sg: 马耳他
+    zh-tw: 馬爾他
+    zu: IMalta
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Malta
 dv_has_name_de: Malta
 dv_Area-Total: 316
 dv_Area-Land: 320
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: M
-dv_Capital: "[[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]"
+dv_Capital: '[[geo/Continent/Europe/Europe~South/Malta/City/Valletta]]'
 dv_Alcohol-l: 4.3
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 14.52
 dv_has_place_latitude: 35.9
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Malta,233|WD~Malta,233]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]"
+- '[[../../../../WikiData/WD~Malta,233|WD~Malta,233]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~South/Malta|Malta]]'
+- '[[/_public/Earth/Continent/Europe/Europe~South/Malta.public|Malta.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~South/Malta.internal|Malta.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~South/Malta.protect|Malta.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~South/Malta.private|Malta.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~South/Malta.personal|Malta.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~South/Malta.secret|Malta.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Malta
-
 aliases:
-  - Malta
-  - Malte
-  - مالطة
-  - 马耳他
-  - Мальта
-  - the Republic of Malta
-  - la República de Malta
+- IMalitha
+- IMalta
+- la República de Malta
+- lo gugdemutu
+- ma Mata
+- Mal't
+- Mal'tu
+- Malata
+- Male
+- Malita
+- Malitia
+- Malt
+- Malta
+- Maltae
+- Maltah
+- Maltakondre
+- Malte
+- Malteän
+- Maltha
+- Malto
+- Maltə
+- Malṭa
+- Marlta
+- Marta
+- Melita
+- Molta
+- Mooltaa
+- Málta
+- Máltà
+- Mâta
+- Mārata
+- Mọlita
+- the Republic of Malta
+- Táłkááʼ Bineʼ Naʼadziʼnii Bikéyah
+- y Valta
+- Μάλτα
+- Малта
+- Малтдин Орн
+- Малтэ
+- Мальтæ
+- Мальта
+- Мальта Мастор
+- Մալթա
+- מאלטא
+- מלטה
+- مالت
+- مالتا
+- مالطا
+- مالطة
+- مالطه
+- مالطہ
+- مالٹا
+- مالټا
+- مالٽا
+- ماڵتا
+- ملتا
+- ܡܝܠܛܐ
+- މޯލްޓާ
+- ߡߊߟߕ
+- मल्ता
+- माल्टा
+- মাল্টা
+- মাল্টা মিউনিসিপিও
+- ਮਾਲਟਾ
+- માલ્ટા
+- ମାଲଟା
+- மால்ட்டா
+- మాల్టా
+- ಮಾಲ್ಟ
+- മാൾട്ട
+- මෝල්ටාව
+- ประเทศมอลตา
+- ປະເທດມັນ
+- མལ་ཏ།
+- မိူင်းမေႃးတႃႇ
+- မော်လတာနိုင်ငံ
+- მალტა
+- ማልታ
+- ᎹᎵᏔ
+- ᱢᱟᱞᱴᱟ
+- ⵎⴰⵍⵟⴰ
+- マルタ
+- 馬爾他
+- 馬耳他
+- 马耳他
+- ꠝꠣꠟ꠆ꠐꠣ
+- ꯃꯥꯜꯇꯥ
+- 몰타
+- "\U0001033C\U00010330\U0001033B\U00010344\U00010330"
 has_id_wikidata: Q233
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Malta,74690]]"
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Malta,74690]]'
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Malta,131469]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Malta,152814]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Malta,190085]]"
-anthem: "[[_Standards/WikiData/WD~L-Innu_Malti,192792]]"
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Malta,131469]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Malta,152814]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Malta,190085]]'
+anthem: '[[_Standards/WikiData/WD~L-Innu_Malti,192792]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Malta,193896]]"
-  - "[[_Standards/WikiData/WD~Malta,1518045]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Malta,243842]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Malta,796593]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Malta,851997]]"
+- '[[_Standards/WikiData/WD~Malta,193896]]'
+- '[[_Standards/WikiData/WD~Malta,1518045]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Malta,243842]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Malta,796593]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Malta,851997]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]"
-award_received: "[[_Standards/WikiData/WD~George_Cross,1143510]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Malta,1354023]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+award_received: '[[_Standards/WikiData/WD~George_Cross,1143510]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Malta,1354023]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Fort_Manoel,1366489]]"
-  - "[[_Standards/WikiData/WD~Fort_St_Angelo,2207146]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-head_of_state: "[[_Standards/WikiData/WD~Myriam_Spiteri_Debono,1647394]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Malta,1763897]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Malta,1817866]]"
+- '[[_Standards/WikiData/WD~Fort_Manoel,1366489]]'
+- '[[_Standards/WikiData/WD~Fort_St_Angelo,2207146]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+head_of_state: '[[_Standards/WikiData/WD~Myriam_Spiteri_Debono,1647394]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Malta,1763897]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Malta,1817866]]'
 highest_point: "[[_Standards/WikiData/WD~Ta'_Dmejrek,1850604]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Gozo_Region_(Ghawdex),2054290]]"
-  - "[[_Standards/WikiData/WD~Northern_Region_(Tramuntana),20199334]]"
-  - "[[_Standards/WikiData/WD~Southern_Region_(Nofsinhar),20199405]]"
-  - "[[_Standards/WikiData/WD~Port_Region_(Port),120512566]]"
-  - "[[_Standards/WikiData/WD~Western_Region_(Punent),120512576]]"
-  - "[[_Standards/WikiData/WD~Eastern_Region_(Lvant),120512582]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Malta,2401292]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_democracy,3043547]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+- '[[_Standards/WikiData/WD~Gozo_Region_(Ghawdex),2054290]]'
+- '[[_Standards/WikiData/WD~Northern_Region_(Tramuntana),20199334]]'
+- '[[_Standards/WikiData/WD~Southern_Region_(Nofsinhar),20199405]]'
+- '[[_Standards/WikiData/WD~Port_Region_(Port),120512566]]'
+- '[[_Standards/WikiData/WD~Western_Region_(Punent),120512576]]'
+- '[[_Standards/WikiData/WD~Eastern_Region_(Lvant),120512582]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Malta,2401292]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_democracy,3043547]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Maltese_Islands,3803158]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Malta,5589242]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Maltese_Islands,3803158]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Malta,5589242]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Crown_Colony_of_Malta,6744657]]"
-  - "[[_Standards/WikiData/WD~State_of_Malta,7603765]]"
+- '[[_Standards/WikiData/WD~Crown_Colony_of_Malta,6744657]]'
+- '[[_Standards/WikiData/WD~State_of_Malta,7603765]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Maltese_Sign_Language,6744816]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Maltese,9166]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Malta,7112348]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Malta,11256685]]"
-driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Regions_of_Malta,18182604]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22665616,22665616]]"
-head_of_government: "[[_Standards/WikiData/WD~Robert_Abela,37860840]]"
-open_data_portal: "[[_Standards/WikiData/WD~Malta_Data_Portal,97012118]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Constitutional_Court_of_Malta,119988571]]"
+- '[[_Standards/WikiData/WD~Maltese_Sign_Language,6744816]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Maltese,9166]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Malta,7112348]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malta,11256685]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Regions_of_Malta,18182604]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22665616,22665616]]'
+head_of_government: '[[_Standards/WikiData/WD~Robert_Abela,37860840]]'
+open_data_portal: '[[_Standards/WikiData/WD~Malta_Data_Portal,97012118]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Constitutional_Court_of_Malta,119988571]]'
 coordinate_location: Point(14.5 35.883333333)
 demonym:
-  - مالطية
-  - Maltežanka
-  - مالطي
-  - مالطيين
-  - مالطيات
-  - Máltach
-  - Maltanka
-  - مالطي
-  - مالطية
-  - مالطيون
-  - maltés
-  - maltesa
-  - মাল্টীয়
-  - Maltese
-  - Maltano
-  - Maltais
-  - Maltaise
-  - מלטזי
-  - מלטזית
-  - máltai
-  - Maltano
-  - maltese
-  - maltesi
-  - malti
-  - maltez
-  - malteză
-  - maltezi
-  - мальтийцы
-  - мальтієць
-  - мальтійка
-  - мальтійці
-  - malteza
-  - malteze
-  - maltezi
-  - maltezo
-  - Malteänan
-  - Maltańczyk
-  - Maltežan
+- مالطية
+- Maltežanka
+- مالطي
+- مالطيين
+- مالطيات
+- Máltach
+- Maltanka
+- مالطي
+- مالطية
+- مالطيون
+- maltés
+- maltesa
+- মাল্টীয়
+- Maltese
+- Maltano
+- Maltais
+- Maltaise
+- מלטזי
+- מלטזית
+- máltai
+- Maltano
+- maltese
+- maltesi
+- malti
+- maltez
+- malteză
+- maltezi
+- мальтийцы
+- мальтієць
+- мальтійка
+- мальтійці
+- malteza
+- malteze
+- maltezi
+- maltezo
+- Malteänan
+- Maltańczyk
+- Maltežan
 Provenio_UUID: fbbf66bb-e720-457c-8e28-127f9ff812d0
 UMLS_CUI: C0024653
 X_Twitter_username: MaltaGov
 ISNI: 120975364
 MeSH_tree_code:
-  - Z01.542.580.500.650
-  - Z01.639.640.650
+- Z01.542.580.500.650
+- Z01.639.640.650
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
 part_of:
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Maltese,9166]]"
-lowest_point: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-named_after: "[[_Standards/WikiData/WD~honey,10987]]"
-capital: "[[_Standards/WikiData/WD~Valletta,23800]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Maltese,9166]]'
+lowest_point: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+named_after: '[[_Standards/WikiData/WD~honey,10987]]'
+capital: '[[_Standards/WikiData/WD~Valletta,23800]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-shares_border_with: "[[_Standards/WikiData/WD~Italy,38]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+shares_border_with: '[[_Standards/WikiData/WD~Italy,38]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Malta.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malta.svg
-country: "[[_Standards/WikiData/WD~Malta,233]]"
+country: '[[_Standards/WikiData/WD~Malta,233]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Malta.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malta.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Malta.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AE%E0%AC%BE%E0%AC%B2%E0%AC%9F%E0%AC%BE.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Malta.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Malta.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AE%E0%AC%BE%E0%AC%B2%E0%AC%9F%E0%AC%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Malta.wav
 unemployment_rate: 6
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Malta%20Valletta%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Malta%2C%202010%20-%20panoramio%20-%20Bengt%20Nyman%20%2823%29.jpg
 death_rate:
-  - 8
-  - 7.3
-  - 7.9
+- 8
+- 7.3
+- 7.9
 marriageable_age: 18
 age_of_majority: 18
 VAT_rate: 18
@@ -296,11 +682,11 @@ Gini_coefficient: 31
 suicide_rate: 5.3
 retirement_age: 62
 birth_rate:
-  - 8.1
-  - 8.5
-  - 8.6
+- 8.1
+- 8.5
+- 8.6
 total_fertility_rate: 1.38
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.mt,41856]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mt,41856]]'
 area: 316
 Happy_Planet_Index_score: 43.5
 IPA_transcription: ˈmalʲtə
@@ -310,11 +696,11 @@ U_S_National_Archives_Identifier: 10044725
 IAB_code: 1350
 Dewey_Decimal_Classification: 2--4585
 maritime_identification_digits:
-  - 215
-  - 229
-  - 248
-  - 249
-  - 256
+- 215
+- 229
+- 248
+- 249
+- 256
 mobile_country_code: 278
 ISO_3166_1_numeric_code: 470
 M49_code: 470
@@ -327,10 +713,10 @@ licence_plate_code: M
 GitHub_topic: malta
 CIVICUS_Monitor_country_entry: malta
 urban_population:
-  - 477236
-  - 488246
-  - 491624
-  - 503893
+- 477236
+- 488246
+- 491624
+- 503893
 population: 553214
 inception: 1964-09-21
 has_time_started: 1964-09-21
@@ -347,13 +733,13 @@ ISO_3166_1_alpha_3_code: MLT
 IOC_country_code: MLT
 ITU_letter_code: MLT
 NUTS_code:
-  - MT
-  - MT0
-  - MT00
+- MT
+- MT0
+- MT00
 ISO_3166_1_alpha_2_code: MT
 FIPS_10_4_countries_and_regions_: MT
 WIPO_ST_3: MT
-Unicode_character: 🇲🇹
+Unicode_character: "\U0001F1F2\U0001F1F9"
 Colon_Classification: SG--5285
 Krugosvet_article: strany_mira/MALTA.html
 motto_text: Truly Mediterranean
@@ -362,30 +748,30 @@ native_label: Malta
 official_name: Repubblika ta' Malta
 Inequality_adjusted_Human_Development_Index: 0.849
 Human_Development_Index: 0.918
-short_name: 🇲🇹
+short_name: "\U0001F1F2\U0001F1F9"
 rural_population:
-  - 27220
-  - 26826
-  - 26912
-  - 27086
+- 27220
+- 26826
+- 26912
+- 27086
 number_of_out_of_school_children: 2795
 coordinates_of_southernmost_point: Point(14.51625165 35.80623721)
 female_population:
-  - 244207
-  - 248434
-  - 248831
-  - 254244
+- 244207
+- 248434
+- 248831
+- 254244
 male_population:
-  - 259854
-  - 266898
-  - 269705
-  - 276869
+- 259854
+- 266898
+- 269705
+- 276869
 location:
-  - 35.9
-  - 14.52
+- 35.9
+- 14.52
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26970
 isDeleted: false
 confidential: public
@@ -393,21 +779,20 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Malta
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - mt
-  - en-MT
+- mt
+- en-MT
 icon: flag-mt
 ---
-
 # [[Malta]] 
 
 ## [[Malta]] has Properties... 

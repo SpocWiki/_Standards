@@ -1,30 +1,216 @@
 ---
 aliases:
+- abat
+- coraa
+- cảm giác
+- duyğu
+- feelin
+- feeling
+- fiili
+- følelse
+- følelser
+- gefoel
+- Gefühl
+- Geveul
+- gevoel
+- his
+- hissiyot
+- imizwa
+- jausmai
+- kawllay
+- kensla
+- kjensle
+- känsla
+- ndjenjat
+- občutek
+- osećaj
+- osjećaji
+- oсећај
+- perasaan
+- pocit
+- sajūta
+- santimant
+- sentimendu
+- sentiment
+- sentimento
+- sentimiento
+- sentimientu
+- teimlad
+- temiandu
+- tilfinning
+- tobddõš
+- tundmus
+- tuntemus
+- uczucia
+- zacuśe
+- érzés
+- ùczëcé
+- αίσθημα
+- иэйии
+- осећај
+- пачуццё
+- пачуцьцё
+- почуття
+- сезім
+- сьӧлӧмкылӧм
+- туйăм
+- хис
+- хиссиәт
+- чувство
+- эҳсос
+- զգացմունք
+- געפילן
+- הרגשה
+- احساس
+- جذبا
+- حس
+- دویغو
+- ڤراساءن
+- ھەست
+- अनुभूति
+- भावना
+- অনুভূতি
+- ਭਾਵਨਾ
+- మానవ అంతర్గత లక్షణాలు
+- തോന്നൽ
+- ความรู้สึก
+- ထိကြုံခံစားချက်
+- ᱟᱹᱭᱠᱟᱹᱣᱜ
+- 感覺
+- 感觉
+- 気持ち
+- 감정
 has_id_wikidata: Q205555
 different_from:
-  - "[[_Standards/WikiData/WD~affect,159904]]"
-  - "[[_Standards/WikiData/WD~mood,331769]]"
-  - "[[_Standards/WikiData/WD~Feelings,960781]]"
-  - "[[_Standards/WikiData/WD~Feeling,1248072]]"
-  - "[[_Standards/WikiData/WD~Gefühl,1498195]]"
-  - "[[_Standards/WikiData/WD~Abat,2820192]]"
-  - "[[_Standards/WikiData/WD~Sentiment,28659447]]"
+- '[[_Standards/WikiData/WD~affect,159904]]'
+- '[[_Standards/WikiData/WD~mood,331769]]'
+- '[[_Standards/WikiData/WD~Feelings,960781]]'
+- '[[_Standards/WikiData/WD~Feeling,1248072]]'
+- '[[_Standards/WikiData/WD~Gefühl,1498195]]'
+- '[[_Standards/WikiData/WD~Abat,2820192]]'
+- '[[_Standards/WikiData/WD~Sentiment,28659447]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~perception,160402]]"
-  - "[[_Standards/WikiData/WD~emotional_process,4531715]]"
-has_part_s_: "[[_Standards/WikiData/WD~somatosensory_system,328835]]"
-has_characteristic: "[[_Standards/WikiData/WD~subjectivity,1139554]]"
+- '[[_Standards/WikiData/WD~perception,160402]]'
+- '[[_Standards/WikiData/WD~emotional_process,4531715]]'
+has_part_s_: '[[_Standards/WikiData/WD~somatosensory_system,328835]]'
+has_characteristic: '[[_Standards/WikiData/WD~subjectivity,1139554]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~sentiment,7451247]]"
-has_cause: "[[_Standards/WikiData/WD~emotion,9415]]"
-Dewey_Decimal_Classification: "152.4"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sentiment,7451247]]'
+has_cause: '[[_Standards/WikiData/WD~emotion,9415]]'
+Dewey_Decimal_Classification: 152.4
 Commons_category: Senses
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sensitiva%20%28Miquel%20Blay%2C%20MRABASF%20E-76%29%2001.jpg
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/CHUVSTVO.html
+dv_has_:
+  name_:
+    af: gevoel
+    ar: حس
+    arz: حس
+    ast: sentimientu
+    az: duyğu
+    azb: دویغو
+    ba: хиссиәт
+    be: пачуццё
+    be-tarask: пачуцьцё
+    bg: чувство
+    bn: অনুভূতি
+    br: santimant
+    ca: sentiment
+    ckb: ھەست
+    cs: pocit
+    csb: ùczëcé
+    cv: туйăм
+    cy: teimlad
+    da: følelse
+    dag: fiili
+    de: Gefühl
+    dsb: zacuśe
+    el: αίσθημα
+    en: feeling
+    eo: sentimento
+    es: sentimiento
+    et: tundmus
+    eu: sentimendu
+    fa: احساس
+    fi: tuntemus
+    fo: kensla
+    fr: sentiment
+    fy: gefoel
+    gl: sentimento
+    gn: temiandu
+    he: הרגשה
+    hi: अनुभूति
+    hr: osjećaji
+    hu: érzés
+    hy: զգացմունք
+    ia: sentimento
+    id: perasaan
+    io: sentimento
+    is: tilfinning
+    it: sentimento
+    ja: 気持ち
+    kk: сезім
+    ko: 감정
+    koi: сьӧлӧмкылӧм
+    li: Geveul
+    lt: jausmai
+    lv: sajūta
+    mk: чувство
+    ml: തോന്നൽ
+    mr: भावना
+    ms: perasaan
+    ms-arab: ڤراساءن
+    my: ထိကြုံခံစားချက်
+    nb: følelser
+    nl: gevoel
+    nn: kjensle
+    oc: sentiment
+    om: coraa
+    pa: ਭਾਵਨਾ
+    pap: sentimento
+    pl: uczucia
+    pt: sentimento
+    pt-br: sentimento
+    qu: kawllay
+    ro: sentiment
+    ru: чувство
+    sah: иэйии
+    sat: ᱟᱹᱭᱠᱟᱹᱣᱜ
+    sco: feelin
+    sd: جذبا
+    sk: pocit
+    sl: občutek
+    sms: tobddõš
+    sq: ndjenjat
+    sr: осећај
+    sr-ec: oсећај
+    sr-el: osećaj
+    sv: känsla
+    te: మానవ అంతర్గత లక్షణాలు
+    tg: эҳсос
+    th: ความรู้สึก
+    tr: his
+    tt: хис
+    tt-cyrl: хис
+    uk: почуття
+    uz: hissiyot
+    vec: sentimento
+    vi: cảm giác
+    war: abat
+    wuu: 感觉
+    yi: געפילן
+    yue: 感覺
+    zh: 感覺
+    zh-cn: 感觉
+    zh-hans: 感觉
+    zh-hant: 感覺
+    zh-hk: 感覺
+    zh-sg: 感觉
+    zh-tw: 感覺
+    zu: imizwa
 ---
-
 # [[Feeling]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~feeling,205555]] 

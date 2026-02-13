@@ -1,11 +1,133 @@
 ---
 aliases:
-  - Robin_Wright
-  - Robin Wright
-  - Robin Gayle Wright
-  - Wright,Robin
+- Robin Gayle Wright
+- Robin Rajt
+- Robin Rayt
+- Robin Wright
+- Robin Wright Penn
+- Robin Wrightová
+- Robina Raita
+- Robin_Wright
+- Wright,Robin
+- Ρόμπιν Ράιτ
+- Робін Райт
+- Робин Рајт
+- Робин Райт
+- Ռոբին Ռայթ
+- רובין רייט
+- رابن رائٹ
+- رابین رایت
+- روبين رايت
+- रॉबिन राइट
+- রবিন রাইট
+- ராபின் ரைட்
+- റോബിൻ റൈറ്റ്
+- რობინ რაითი
+- რობინ რაიტი
+- ロビン・ライト
+- 罗宾·怀特
+- 罗宾·莱特
+- 罗宾·赖特
+- 罗萍·韦特
+- 羅冰·活麗
+- 羅冰活麗
+- 羅蘋·萊特
+- 羅蘋·萊特·潘
+- 로빈 라이트 펜
+has_id_wikidata: Q272972
+dv_has_:
+  name_:
+    af: Robin Wright
+    an: Robin Wright Penn
+    ar: روبين رايت
+    arz: روبين رايت
+    ast: Robin Wright
+    az: Robin Rayt
+    azb: رابین رایت
+    be: Робін Райт
+    be-tarask: Робін Райт
+    bg: Робин Райт
+    bn: রবিন রাইট
+    br: Robin Wright
+    ca: Robin Wright
+    co: Robin Wright Penn
+    cs: Robin Wrightová
+    cy: Robin Wright Penn
+    da: Robin Wright Penn
+    de: Robin Wright
+    de-ch: Robin Wright
+    el: Ρόμπιν Ράιτ
+    en: Robin Wright
+    en-ca: Robin Wright
+    en-gb: Robin Wright
+    en-us: Robin Wright
+    eo: Robin Wright Penn
+    es: Robin Wright
+    eu: Robin Wright
+    fa: رابین رایت
+    fi: Robin Wright
+    fr: Robin Wright
+    ga: Robin Wright
+    gl: Robin Wright
+    he: רובין רייט
+    hi: रॉबिन राइट
+    hr: Robin Wright Penn
+    ht: Robin Wright
+    hu: Robin Wright
+    hy: Ռոբին Ռայթ
+    id: Robin Wright Penn
+    it: Robin Wright
+    ja: ロビン・ライト
+    ka: რობინ რაითი
+    ko: 로빈 라이트 펜
+    ky: Робин Райт
+    lb: Robin Wright
+    lv: Robina Raita
+    mk: Робин Рајт
+    ml: റോബിൻ റൈറ്റ്
+    ms: Robin Wright
+    mul: Robin Wright
+    nan: Robin Wright
+    nb: Robin Wright
+    nl: Robin Wright
+    nn: Robin Wright
+    pap: Robin Wright
+    pl: Robin Wright
+    pt: Robin Wright Penn
+    pt-br: Robin Wright Penn
+    ro: Robin Wright
+    ru: Робин Райт
+    sco: Robin Wright
+    sh: Robin Wright
+    sk: Robin Wrightová
+    skr: رابن رائٹ
+    sl: Robin Wright
+    sq: Robin Wright
+    sr: Робин Рајт
+    sr-ec: Робин Рајт
+    sr-el: Robin Rajt
+    sv: Robin Wright
+    sw: Robin Wright
+    ta: ராபின் ரைட்
+    tr: Robin Wright
+    uk: Робін Райт
+    ur: رابن رائٹ
+    uz: Robin Wright
+    vi: Robin Wright
+    vo: Robin Wright
+    wuu: 罗宾·怀特
+    xmf: რობინ რაიტი
+    yo: Robin Wright
+    yue: 羅冰活麗
+    zh: 罗宾·赖特
+    zh-cn: 罗宾·赖特
+    zh-hans: 罗宾·赖特
+    zh-hant: 羅蘋·萊特
+    zh-hk: 羅冰·活麗
+    zh-my: 罗萍·韦特
+    zh-sg: 罗宾·莱特
+    zh-tw: 羅蘋·萊特·潘
 ---
-
 #has_/time_/started :: 1966-04-08 
 
 ## #has_/text_of_/abstract 

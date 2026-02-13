@@ -1,3 +1,67 @@
+---
+has_id_wikidata: Q212587
+dv_has_:
+  name_:
+    ar: لغة كامل الموضوعية
+    az: OCaml
+    ca: OCaml
+    cs: OCaml
+    da: OCaml
+    de: Objective CAML
+    el: OCaml
+    en: OCaml
+    eo: OCaml
+    es: Ocaml
+    et: OCaml
+    fa: اکمل
+    fi: OCaml
+    fr: OCaml
+    ga: OCaml
+    gl: Ocaml
+    he: OCaml
+    hu: OCaml (programozási nyelv)
+    it: OCaml
+    ja: OCaml
+    ka: ობიექტური კამლი
+    ko: OCaml
+    la: Ocaml
+    lb: OCaml
+    ml: ഒകാമൽ
+    ms: OCaml
+    nb: Objective Caml
+    nl: Ocaml
+    nn: OCaml
+    pl: OCaml
+    pt: OCaml
+    ro: OCaml
+    ru: OCaml
+    sl: Ocaml
+    sq: OCaml
+    sv: OCaml
+    syl: ꠅꠇꠣꠝꠟ
+    tg: OCaml
+    tg-latn: OCaml
+    tr: OCaml
+    uk: Objective Caml
+    vec: Objective Caml
+    vi: OCaml
+    zh: OCaml
+    zh-cn: OCaml
+    zh-hans: OCaml
+    zh-hant: OCaml
+    zh-hk: OCaml
+    zh-sg: OCaml
+    zh-tw: OCaml
+aliases:
+- Objective CAML
+- OCaml
+- OCaml (programozási nyelv)
+- اکمل
+- لغة كامل الموضوعية
+- ഒകാമൽ
+- ობიექტური კამლი
+- ꠅꠇꠣꠝꠟ
+---
 # [[OCaml]] 
 
 #is_a_/ComputerLanguage 

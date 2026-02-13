@@ -1,50 +1,234 @@
 ---
-has_time_stopped: 0400-01-01 
-location: [ 29.909167 , 31.208889 ] 
+has_time_stopped: 0400-01-01
+location:
+- 29.909167
+- 31.208889
 aliases:
+- Agwut Ikpa Alikisendira
+- Aleksandria raamatukogu
+- Aleksandrian kirjasto
+- Aleksandrijas bibliotēka
+- Aleksandrijos biblioteka
+- Aleksandrijska biblioteka
+- Aleksandrijska knjižnica
+- Aleksandriya kutubxonasi
+- Alexandriai könyvtár
+- Alexandriako Liburutegia
+- Alexandrijská knihovna
+- Alexandrijská knižnica
+- Biblioteca d'Alexandria
+- Biblioteca d'Alexandría
+- Biblioteca de Alejandría
+- Biblioteca de Alexandria
+- Biblioteca de Alexandría
+- Biblioteca di Alessandria
+- Biblioteca din Alexandria
+- Biblioteek van Alexandrië
+- Biblioteka Aleksandryjska
+- Biblioteka e Aleksandrisë
+- Biblioteket i Alexandria
+- Biblioteko de Aleksandrio
+- Biblioteko di Alexandria
+- Bibliotheca Alexandrina
+- Bibliotheca de Alexandria
+- Bibliotheek van Alexandrië
+- Bibliothek von Alexandria
+- bibliothèque d'Alexandrie
+- Bibliothéik vun Alexandria
+- Bibliotèca d'Alexandria
+- Bókasafnið í Alexandríu
+- Kutıbxaney İskenderiya
+- Leabharlann Chathair Alastair
+- Levraoueg Aleksandria
+- Library of Alexandria
+- Library of Alexandria .
+- Llyfrgell Alexandria
+- Maktaba ya Aleksandria
+- Perpustakaan Aleksandria
+- Perpustakaan Iskandariah
+- Pirtûkxaneya Îskenderiyeyê
+- Sulod-barasahan han Alexandria
+- Thư viện Alexandria
+- İsgəndəriyyə kitabxanası
+- İskenderiye Kütüphanesi
+- Βιβλιοθήκη της Αλεξάνδρειας
+- Βιβλιοθήκη τῆς Ἀλεξανδρείας
+- Александрійська бібліотека
+- Александријска библиотека
+- Александриа хотын номын сан
+- Александрийска библиотека
+- Александрийская библиотека
+- Александриска библиотека
+- Александрия библиотеки
+- Александрия кiтапханасы
+- Александрия китапханәсе
+- Александрия китепканасы
+- Александрыйская бібліятэка
+- Китобхонаи Искандария
+- Ալեքսանդրիայի գրադարան
+- Աղեքսանդրիոյ հին մատենադարան
+- הספרייה הגדולה של אלכסנדריה
+- اسکندریه کتابخنه
+- مكتبة اسكندريه
+- مكتبة الإسكندرية
+- پەرتووکخانەی ئەسکەندەرییە
+- کتابخانه اسکندریه
+- کتب خانہ اسکندریہ
+- کتب خانہ سکندریہ
+- अलेक्जेन्ड्रियाको पुस्तकालय
+- अलेक्जेन्द्रियाया सफूधुकू
+- अलेग्जेंड्रिया की लाइब्रेरी
+- আলেকজান্দ্রিয়ার প্রাচীন গ্রন্থাগার
+- ਅਲੈਗਜ਼ੈਂਡਰੀਆ ਦੀ ਲਾਇਬਰੇਰੀ
+- அலெக்ஸ்சாண்டிரியா நூலகம்
+- అలెగ్జాండ్రియా గ్రంథాలయం
+- അലക്സാൻഡ്രിയ ഗ്രന്ഥാലയം
+- ห้องสมุดแห่งอะเล็กซานเดรีย
+- ალექსანდრიის ბიბლიოთეკა
+- アレクサンドリア図書館
+- 亚历山大图书馆
+- 亞歷山大圖書館
+- 알렉산드리아 도서관
 has_id_wikidata: Q435
-dedicated_to: "[[_Standards/WikiData/WD~Muse,66016]]"
-creator: "[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]"
+dedicated_to: '[[_Standards/WikiData/WD~Muse,66016]]'
+creator: '[[_Standards/WikiData/WD~Ptolemy_I_Soter,168261]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Bibliotheca_Alexandrina,501851]]"
-part_of: "[[_Standards/WikiData/WD~Musaeum,684645]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Bibliotheca_Alexandrina,501851]]'
+part_of: '[[_Standards/WikiData/WD~Musaeum,684645]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~research_library,1438040]]"
-  - "[[_Standards/WikiData/WD~cultural_institution,3152824]]"
-  - "[[_Standards/WikiData/WD~library,7075]]"
-facet_of: "[[_Standards/WikiData/WD~classical_literature,4223073]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~head_of_the_Library_of_Alexandria,18608940]]"
-state_of_conservation: "[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]"
+- '[[_Standards/WikiData/WD~research_library,1438040]]'
+- '[[_Standards/WikiData/WD~cultural_institution,3152824]]'
+- '[[_Standards/WikiData/WD~library,7075]]'
+facet_of: '[[_Standards/WikiData/WD~classical_literature,4223073]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~head_of_the_Library_of_Alexandria,18608940]]'
+state_of_conservation: '[[_Standards/WikiData/WD~demolished_or_destroyed,56556915]]'
 dissolved_abolished_or_demolished_date: 0400-01-01T00:00:00Z
 coordinate_location: Point(29.909167 31.208889)
 inception: -0300-01-01T00:00:00Z
-locations: "[[_Standards/WikiData/WD~Alexandria,87]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Alexandria,87]]"
+locations: '[[_Standards/WikiData/WD~Alexandria,87]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Alexandria,87]]'
 collection_or_exhibition_size: 1000000
 exact_match:
-  - http://dbpedia.org/resource/Library_of_Alexandria
-  - http://yago-knowledge.org/resource/Library_of_Alexandria
+- http://dbpedia.org/resource/Library_of_Alexandria
+- http://yago-knowledge.org/resource/Library_of_Alexandria
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ancientlibraryalex.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Xenoph%C3%B4n-biblioth%C3%A8que%20d%27Alexandrie.wav
 Commons_category: Library of Alexandria
 Libris_URI: ljx167l450r4wdv
+dv_has_:
+  name_:
+    af: Biblioteek van Alexandrië
+    ann: Agwut Ikpa Alikisendira
+    ar: مكتبة الإسكندرية
+    arz: مكتبة اسكندريه
+    ast: Biblioteca d'Alexandría
+    az: İsgəndəriyyə kitabxanası
+    be: Александрыйская бібліятэка
+    be-tarask: Александрыйская бібліятэка
+    bg: Александрийска библиотека
+    bn: আলেকজান্দ্রিয়ার প্রাচীন গ্রন্থাগার
+    br: Levraoueg Aleksandria
+    ca: Biblioteca d'Alexandria
+    ckb: پەرتووکخانەی ئەسکەندەرییە
+    cs: Alexandrijská knihovna
+    cv: Александрия библиотеки
+    cy: Llyfrgell Alexandria
+    da: Biblioteket i Alexandria
+    de: Bibliothek von Alexandria
+    diq: Kutıbxaney İskenderiya
+    el: Βιβλιοθήκη της Αλεξάνδρειας
+    en: Library of Alexandria
+    en-gb: Library of Alexandria
+    en-us: Library of Alexandria
+    eo: Biblioteko de Aleksandrio
+    es: Biblioteca de Alejandría
+    et: Aleksandria raamatukogu
+    eu: Alexandriako Liburutegia
+    fa: کتابخانه اسکندریه
+    fi: Aleksandrian kirjasto
+    fr: bibliothèque d'Alexandrie
+    ga: Leabharlann Chathair Alastair
+    gl: Biblioteca de Alexandría
+    grc: Βιβλιοθήκη τῆς Ἀλεξανδρείας
+    ha: Library of Alexandria .
+    he: הספרייה הגדולה של אלכסנדריה
+    hi: अलेग्जेंड्रिया की लाइब्रेरी
+    hr: Aleksandrijska knjižnica
+    hu: Alexandriai könyvtár
+    hy: Ալեքսանդրիայի գրադարան
+    hyw: Աղեքսանդրիոյ հին մատենադարան
+    ia: Bibliotheca de Alexandria
+    id: Perpustakaan Aleksandria
+    io: Biblioteko di Alexandria
+    is: Bókasafnið í Alexandríu
+    it: Biblioteca di Alessandria
+    ja: アレクサンドリア図書館
+    ka: ალექსანდრიის ბიბლიოთეკა
+    kk: Александрия кiтапханасы
+    ko: 알렉산드리아 도서관
+    ku: Pirtûkxaneya Îskenderiyeyê
+    ky: Александрия китепканасы
+    la: Bibliotheca Alexandrina
+    lb: Bibliothéik vun Alexandria
+    lt: Aleksandrijos biblioteka
+    lv: Aleksandrijas bibliotēka
+    mad: Perpustakaan Aleksandria
+    mk: Александриска библиотека
+    ml: അലക്സാൻഡ്രിയ ഗ്രന്ഥാലയം
+    mn: Александриа хотын номын сан
+    ms: Perpustakaan Iskandariah
+    mzn: اسکندریه کتابخنه
+    nb: Biblioteket i Alexandria
+    ne: अलेक्जेन्ड्रियाको पुस्तकालय
+    new: अलेक्जेन्द्रियाया सफूधुकू
+    nl: Bibliotheek van Alexandrië
+    nn: Biblioteket i Alexandria
+    oc: Bibliotèca d'Alexandria
+    pa: ਅਲੈਗਜ਼ੈਂਡਰੀਆ ਦੀ ਲਾਇਬਰੇਰੀ
+    pl: Biblioteka Aleksandryjska
+    pnb: کتب خانہ سکندریہ
+    pt: Biblioteca de Alexandria
+    ro: Biblioteca din Alexandria
+    ru: Александрийская библиотека
+    sh: Aleksandrijska biblioteka
+    sk: Alexandrijská knižnica
+    sl: Aleksandrijska knjižnica
+    sq: Biblioteka e Aleksandrisë
+    sr: Александријска библиотека
+    sr-ec: Александријска библиотека
+    sr-el: Aleksandrijska biblioteka
+    sv: Biblioteket i Alexandria
+    sw: Maktaba ya Aleksandria
+    ta: அலெக்ஸ்சாண்டிரியா நூலகம்
+    te: అలెగ్జాండ్రియా గ్రంథాలయం
+    tg: Китобхонаи Искандария
+    th: ห้องสมุดแห่งอะเล็กซานเดรีย
+    tr: İskenderiye Kütüphanesi
+    tt: Александрия китапханәсе
+    uk: Александрійська бібліотека
+    ur: کتب خانہ اسکندریہ
+    uz: Aleksandriya kutubxonasi
+    vi: Thư viện Alexandria
+    war: Sulod-barasahan han Alexandria
+    wuu: 亚历山大图书馆
+    yue: 亞歷山大圖書館
+    zh: 亚历山大图书馆
 ---
-
 # [[Library_of_Alexandria]] 
 
 #is_/same_as :: [[WD~Library_of_Alexandria,435]] 

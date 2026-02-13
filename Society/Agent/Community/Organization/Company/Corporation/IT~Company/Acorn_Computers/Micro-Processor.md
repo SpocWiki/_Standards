@@ -1,4 +1,164 @@
-
+---
+has_id_wikidata: Q5297
+dv_has_:
+  name_:
+    af: Mikroverwerker
+    an: Microprocesador
+    ar: معالج صغري
+    ast: microprocesador
+    az: mikroprosessor
+    be: мікрапрацэсар
+    be-tarask: мікрапрацэсар
+    bg: Микропроцесор
+    bn: মাইক্রোপ্রসেসর
+    br: mikroprosesor
+    bs: mikroprocesor
+    ca: microprocessador
+    cs: mikroprocesor
+    cy: Microbrosesydd
+    da: mikroprocessor
+    de: Mikroprozessor
+    el: Μικροεπεξεργαστής
+    en: microprocessor
+    en-ca: Microprocessor
+    en-gb: microprocessor
+    eo: mikroprocesoro
+    es: microprocesador
+    et: mikroprotsessor
+    eu: Mikroprozesadore
+    ext: Microprohessaol
+    fa: ریزپردازنده
+    fi: mikroprosessori
+    fr: microprocesseur
+    ga: micreaphróiseálaí
+    gl: microprocesador
+    he: מיקרו מעבד
+    hi: माइक्रोप्रोसेसर
+    hr: mikroprocesor
+    hu: mikroprocesszor
+    id: Mikroprosesor
+    io: Mikraprocedilo
+    is: Örgjörvi
+    it: microprocessore
+    ja: マイクロプロセッサ
+    ka: მიკროპროცესორი
+    kaa: Mikroprocessor
+    kk: Микропроцессор
+    kn: ಮೈಕ್ರೊಪ್ರೊಸೆಸರ್
+    ko: 마이크로프로세서
+    ku: Mîkroprosesor
+    ky: Микропроцессор
+    la: Processor
+    lmo: Microprocessor
+    lt: Mikroprocesorius
+    lv: Mikroprocesors
+    min: Mikroprosesor
+    mk: микрообработувач
+    ml: മൈക്രോപ്രൊസസ്സർ
+    mn: Микро процессор
+    mr: मायक्रोप्रोसेसर
+    ms: Mikropemproses
+    nb: mikroprosessor
+    nl: microprocessor
+    nn: mikroprosessor
+    os: микропроцессор
+    pa: ਮਾਇਕਰੋਪ੍ਰੋਸੇਸਰ
+    pl: mikroprocesor
+    pt: microprocessador
+    pt-br: Microprocessador
+    qu: T'unathatkichiq
+    ro: microprocesor
+    ru: микропроцессор
+    sc: Micro-protzessore
+    scn: micruprucissuri
+    se: mikroprosessora
+    si: ක්ෂුද්ර සැකසුම් ඒකකය
+    sk: mikroprocesor
+    sl: mikroprocesor
+    sms: mikroprosessor
+    sr: микропроцесор
+    sr-ec: микропроцесор
+    sr-el: mikroprocesor
+    sv: mikroprocessor
+    sw: Microprocessor
+    ta: நுண்செயலி
+    tg: Микропратсессор
+    th: ไมโครโพรเซสเซอร์
+    tl: Microprocessor
+    tr: Mikroişlemci
+    uk: мікропроцесор
+    ur: خرد عملیہ
+    vec: Microprocesor
+    vi: Vi xử lý
+    war: Microprocessor
+    wuu: 微处理器
+    xmf: მიკროპროცესორი
+    zh: 微处理器
+    zh-hant: 微處理器
+    zh-tw: 微處理器
+    zu: Isidludlungincinci
+aliases:
+- Isidludlungincinci
+- micreaphróiseálaí
+- Micro-protzessore
+- Microbrosesydd
+- microprocesador
+- microprocesor
+- microprocessador
+- microprocesseur
+- microprocessor
+- microprocessore
+- Microprohessaol
+- micruprucissuri
+- Mikraprocedilo
+- Mikroişlemci
+- Mikropemproses
+- mikroprocesor
+- Mikroprocesorius
+- mikroprocesoro
+- Mikroprocesors
+- mikroprocessor
+- mikroprocesszor
+- mikroprosesor
+- mikroprosessor
+- mikroprosessora
+- mikroprosessori
+- mikroprotsessor
+- Mikroprozesadore
+- Mikroprozessor
+- Mikroverwerker
+- Mîkroprosesor
+- Processor
+- T'unathatkichiq
+- Vi xử lý
+- Örgjörvi
+- Μικροεπεξεργαστής
+- мікрапрацэсар
+- мікропроцесор
+- Микро процессор
+- микрообработувач
+- Микропратсессор
+- Микропроцесор
+- микропроцессор
+- מיקרו מעבד
+- خرد عملیہ
+- ریزپردازنده
+- معالج صغري
+- माइक्रोप्रोसेसर
+- मायक्रोप्रोसेसर
+- মাইক্রোপ্রসেসর
+- ਮਾਇਕਰੋਪ੍ਰੋਸੇਸਰ
+- நுண்செயலி
+- ಮೈಕ್ರೊಪ್ರೊಸೆಸರ್
+- മൈക്രോപ്രൊസസ്സർ
+- ක්ෂුද්ර සැකසුම් ඒකකය
+- ไมโครโพรเซสเซอร์
+- მიკროპროცესორი
+- マイクロプロセッサ
+- 微处理器
+- 微處理器
+- 마이크로프로세서
+---
 # [[Micro-Processor]]
 
 ## History 

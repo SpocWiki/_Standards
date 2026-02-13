@@ -1,4 +1,168 @@
-
+---
+has_id_wikidata: Q7037230
+dv_has_:
+  name_:
+    aeb-arab: فرفزّو
+    af: perdebye
+    an: Vespidae
+    ar: زنبوريات
+    ast: Vespidae
+    bar: Vespidae
+    be: сапраўдныя восы
+    bg: оси
+    br: Vespidae
+    ca: vèspid
+    ceb: Vespidae
+    co: Vespidae
+    cs: sršňovití
+    cy: Vespidae
+    da: gedehams
+    de: Faltenwespen
+    de-at: Vespidae
+    de-ch: Vespidae
+    el: βεσπίδες
+    en: Vespidae
+    en-ca: Vespidae
+    en-gb: Vespidae
+    eo: Vespedoj
+    es: Vespidae
+    et: voltherilased
+    eu: Vespidae
+    ext: Vespidae
+    fa: زنبوران
+    fi: ampiaiset
+    fr: Vespidae
+    frp: Vespidae
+    frr: Wespen
+    fur: Vespidae
+    ga: Vespidae
+    gd: Vespidae
+    gl: Véspidos
+    gsw: Vespidae
+    he: צרעיים
+    hr: Ose
+    hu: redősszárnyú darazsak
+    hy: Իսկական կրետներ
+    ia: Vespidae
+    id: Vespidae
+    ie: Vespidae
+    inh: Ювмоза
+    io: Vespidae
+    is: Vespidae
+    it: Vespidae
+    ja: スズメバチ科
+    ka: კრაზანისებრნი
+    kg: Vespidae
+    kk: Қағаз аралары
+    ko: 말벌과
+    la: Vespidae
+    lb: Falenharespelen
+    li: Vespidae
+    lij: Vespidae
+    lt: Klostinės vapsvos
+    lv: Lapseņu dzimta
+    mg: Vespidae
+    min: Vespidae
+    mk: Vespidae
+    ms: Vespidae
+    mul: Vespidae
+    nan: Hó͘-thâu-phang Kho
+    nap: Vespidae
+    nb: stikkevepser
+    nds: Vespidae
+    nds-nl: wespe
+    nl: plooivleugelwespen
+    nn: Vespidae
+    nrm: Vespidae
+    nys: Vespidae
+    oc: Vespidae
+    os: æцæг дыдынбындзытæ
+    pcd: Vespidae
+    pl: osowate
+    pms: Vespidae
+    pt: Vespidae
+    pt-br: Vespidae
+    rm: Vespidae
+    ro: Vespidae
+    ru: настоящие осы
+    sc: Espe
+    scn: Vespidae
+    sco: Vespidae
+    se: vieksát
+    sh: Ose
+    sk: Vespidae
+    sl: prave ose
+    smn: viäpsáh
+    sq: Vespidae
+    sr: Оса
+    su: Éngang
+    sv: getingar
+    sw: Vespidae
+    ta: வெசுபிடே
+    tr: Vespidae
+    uk: справжні оси
+    vec: Vespidae
+    vi: Vespidae
+    vls: Plooivleugelwespn
+    vo: Vespidae
+    wa: Vespidae
+    war: Vespidae
+    wo: Vespidae
+    yue: 胡蜂科
+    zh: 胡蜂科
+    zh-cn: 胡蜂科
+    zh-hans: 胡蜂科
+    zh-tw: 胡蜂科
+    zu: Vespidae
+aliases:
+- ampiaiset
+- Espe
+- Falenharespelen
+- Faltenwespen
+- gedehams
+- getingar
+- Hó͘-thâu-phang Kho
+- Klostinės vapsvos
+- Lapseņu dzimta
+- Ose
+- osowate
+- perdebye
+- plooivleugelwespen
+- Plooivleugelwespn
+- prave ose
+- redősszárnyú darazsak
+- sršňovití
+- stikkevepser
+- Vespedoj
+- Vespidae
+- vieksát
+- viäpsáh
+- voltherilased
+- vèspid
+- Véspidos
+- wespe
+- Wespen
+- æцæг дыдынбындзытæ
+- Éngang
+- βεσπίδες
+- настоящие осы
+- Оса
+- оси
+- сапраўдныя восы
+- справжні оси
+- Ювмоза
+- Қағаз аралары
+- Իսկական կրետներ
+- צרעיים
+- زنبوران
+- زنبوريات
+- فرفزّو
+- வெசுபிடே
+- კრაზანისებრნი
+- スズメバチ科
+- 胡蜂科
+- 말벌과
+---
 # [[Vespidae]] 
 
 

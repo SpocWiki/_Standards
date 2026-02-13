@@ -1,26 +1,157 @@
 ---
 aliases:
-  - natality
-  - Birth-Rate
+- birth rate
+- Birth-Rate
+- cyfradd geni
+- doğum oranı
+- dzimstība
+- Feur genel
+- fæðingartíðni
+- födelsetal
+- fødselsrate
+- geboortecijfer
+- Geburtenziffer
+- Gebuëteciefer
+- gimstamumas
+- Jaiotza tasa
+- Kadar kelahiran
+- naskindico
+- Natalidá
+- natalitate
+- natalitet
+- Nataliteti
+- natality
+- porodnost
+- Pôrodnosť
+- rodnost
+- ráta beireatais
+- rêjeya zayînê
+- syntyvyys
+- születési arányszám
+- Sündimuskordaja
+- tasa de natalidad
+- tasso di natalità
+- Taus de natalitat
+- taux de natalité
+- taxa de natalidade
+- taxa de natalitat
+- tingkat kelahiran
+- Ton natalite
+- tỷ suất sinh thô
+- współczynnik urodzeń
+- δείκτης γεννητικότητας
+- Нараджальнасць
+- нараджальнасьць
+- народжуваність
+- наталитет
+- Раждаемост
+- родност
+- рождаемость
+- тыуым
+- ծնելիության գործակից
+- שיעור ילודה
+- معدل المواليد
+- میزان زاد ولد
+- प्रजननदर
+- জন্মহার
+- பிறப்பு வீதம்
+- උපත් අනුපාතිකය
+- ọnụ ọgụgụ ọmụmụ
+- 出生率
+- 출생률
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate|Birth-Rate]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public|Birth-Rate.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal|Birth-Rate.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect|Birth-Rate.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]"
+  - '[[/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate|Birth-Rate]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public|Birth-Rate.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal|Birth-Rate.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect|Birth-Rate.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate|Birth-Rate]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public|Birth-Rate.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal|Birth-Rate.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect|Birth-Rate.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]"
+- '[[/_Standards/Earth/Continent/Asia/Asia~East/Birth-Rate|Birth-Rate]]'
+- '[[/_public/Earth/Continent/Asia/Asia~East/Birth-Rate.public|Birth-Rate.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~East/Birth-Rate.internal|Birth-Rate.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~East/Birth-Rate.protect|Birth-Rate.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~East/Birth-Rate.private|Birth-Rate.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~East/Birth-Rate.personal|Birth-Rate.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~East/Birth-Rate.secret|Birth-Rate.secret]]'
+has_id_wikidata: Q203516
+dv_has_:
+  name_:
+    ar: معدل المواليد
+    ast: Natalidá
+    ba: тыуым
+    be: Нараджальнасць
+    be-tarask: нараджальнасьць
+    bg: Раждаемост
+    bn: জন্মহার
+    br: Feur genel
+    bs: natalitet
+    ca: taxa de natalitat
+    cs: porodnost
+    cy: cyfradd geni
+    da: Fødselsrate
+    de: Geburtenziffer
+    el: δείκτης γεννητικότητας
+    en: birth rate
+    en-us: birth rate
+    eo: naskindico
+    es: tasa de natalidad
+    et: Sündimuskordaja
+    eu: Jaiotza tasa
+    fa: میزان زاد ولد
+    fi: syntyvyys
+    fr: taux de natalité
+    ga: ráta beireatais
+    gl: Taxa de natalidade
+    he: שיעור ילודה
+    hr: Natalitet
+    ht: Ton natalite
+    hu: születési arányszám
+    hy: ծնելիության գործակից
+    id: tingkat kelahiran
+    ig: ọnụ ọgụgụ ọmụmụ
+    is: fæðingartíðni
+    it: tasso di natalità
+    ja: 出生率
+    ko: 출생률
+    ku-latn: rêjeya zayînê
+    li: Gebuëteciefer
+    lt: gimstamumas
+    lv: dzimstība
+    mk: родност
+    ms: Kadar kelahiran
+    nb: fødselsrate
+    ne: प्रजननदर
+    nl: geboortecijfer
+    oc: Taus de natalitat
+    pl: współczynnik urodzeń
+    pt: taxa de natalidade
+    ro: natalitate
+    ru: рождаемость
+    sco: birth rate
+    sh: Natalitet
+    si: උපත් අනුපාතිකය
+    sk: Pôrodnosť
+    sl: rodnost
+    sq: Nataliteti
+    sr: наталитет
+    sr-ec: Наталитет
+    sr-el: Natalitet
+    sv: födelsetal
+    ta: பிறப்பு வீதம்
+    tr: doğum oranı
+    uk: народжуваність
+    vi: tỷ suất sinh thô
+    zh: 出生率
+    zh-cn: 出生率
+    zh-hans: 出生率
+    zh-hant: 出生率
+    zh-hk: 出生率
+    zh-sg: 出生率
+    zh-tw: 出生率
 ---
-
 # [[Birth-Rate]] 
 
 More descriptive is the [[Fertility-Rate]], which puts it into relation to the Number of Women. 

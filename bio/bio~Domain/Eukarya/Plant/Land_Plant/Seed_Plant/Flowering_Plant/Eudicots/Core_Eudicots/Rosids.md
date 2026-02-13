@@ -1,9 +1,137 @@
 ---
 aliases:
-  - Rosids
+- Chhiûⁿ-bî-lūi
+- Erškietēžeidē
+- erškėčiažiedžiai
+- nhánh hoa Hồng
+- Rosid
+- Rosidae
+- rosidar
+- Rosideae
+- rosideh
+- Rosiden
+- rosider
+- rosidit
+- Rosids
+- Rosidées
+- Rosídeas
+- Rozedoj
+- rozide
+- Rozidlər
+- ružové
+- Ròsides
+- Rósidas
+- różowe
+- Ροδίδες
+- разіды
+- Розидасем
+- розиди
+- розиды
+- ռոզիդներ
+- رزیدها
+- روسِڑٕس
+- روسڈز
+- روسڊس
+- وردانيات
+- रोज़िड
+- रोसाइड
+- গোলাপ গোষ্ঠী
+- ரோசிதுகள்
+- రోసిడ్స్
+- റോസിഡുകൾ
+- โรสิด
+- バラ類
+- 蔷薇类植物
+- 薔薇類
+- 薔薇類植物
+- 장미군
 title: Rosids
+has_id_wikidata: Q338878
+dv_has_:
+  name_:
+    af: Rosids
+    ar: وردانيات
+    ast: Rosidae
+    az: Rozidlər
+    bcl: Rosids
+    be: Rosids
+    be-tarask: разіды
+    bg: розиди
+    bho: रोसाइड
+    bn: গোলাপ গোষ্ঠী
+    bs: rozide
+    ca: Ròsides
+    ceb: rosids
+    cv: Розидасем
+    cy: Rosid
+    de: Rosiden
+    el: Ροδίδες
+    en: rosids
+    en-ca: Rosids
+    en-gb: rosids
+    eo: Rozedoj
+    es: Rósidas
+    eu: Rosidae
+    fa: رزیدها
+    fi: rosidit
+    fr: Rosidées
+    ga: rosids
+    gl: Rosidae
+    hi: रोज़िड
+    hr: Rosidae
+    hu: Rosidae
+    hy: ռոզիդներ
+    ia: Rosidae
+    id: Rosidae
+    ilo: rosids
+    it: Rosidae
+    ja: バラ類
+    jv: Rosidae
+    ko: 장미군
+    ks: روسِڑٕس
+    la: Rosidae
+    lt: erškėčiažiedžiai
+    mk: Розиди
+    ml: റോസിഡുകൾ
+    ms: Rosids
+    mul: rosids
+    nan: Chhiûⁿ-bî-lūi
+    nb: rosider
+    nl: Rosids
+    nn: rosidar
+    oc: Rosideae
+    pl: różowe
+    pt: Rosídeas
+    pt-br: Rosídeas
+    ro: Rosidae
+    ru: розиды
+    sco: rosids
+    sd: روسڊس
+    sgs: Erškietēžeidē
+    sh: rozide
+    sk: ružové
+    sl: rozide
+    smn: rosideh
+    sq: rosids
+    sr: Rosids
+    sv: Rosidae
+    ta: ரோசிதுகள்
+    te: రోసిడ్స్
+    th: โรสิด
+    tl: Rosid
+    tr: Rosids
+    uk: розиди
+    ur: روسڈز
+    vi: nhánh hoa Hồng
+    vls: Rosids
+    war: rosids
+    wuu: 蔷薇类植物
+    yue: 薔薇類
+    zh: 蔷薇类植物
+    zh-cn: 蔷薇类植物
+    zh-hans: 蔷薇类植物
+    zh-tw: 薔薇類植物
 ---
-
 # [[Rosids]] 
 
 ![Euphorbia_coerulescens](Rosids/Euphorbia_coerulescens.jpg) 

@@ -1,56 +1,86 @@
 ---
 aliases:
-  - Doris Day (born Doris Mary Kappelhoff
-  - Day,Doris
+- Day,Doris
+- dorada frita
+- Doris Day
+- Doris Day (born Doris Mary Kappelhoff
+- Doris Dayová
+- Doris Dey
+- Dorisa Deja
+- Dorothea Day
+- Ντόρις Ντέι
+- Доріс Дей
+- Дорис Деј
+- Дорис Дей
+- Дорис Дэй
+- Дорыс Дэй
+- Դորիս Դեյ
+- דוריס דיי
+- دوريس داى
+- دوريس داي
+- دوریس دی
+- ڈورس ڈے
+- ডরিস ডে
+- ਡੋਰਿਸ ਡੇ
+- ഡോറിസ് ഡേ
+- ดอริส เดย์
+- დორის დეი
+- ドリス・デイ
+- 多丽丝·戴
+- 桃丽丝·黛
+- 桃樂絲·黛
+- 桃麗絲·黛
+- 桃麗絲黛
+- 도리스 데이
 has_id_wikidata: Q104372
 award_received:
-  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
-  - "[[_Standards/WikiData/WD~Ohio_Women's_Hall_of_Fame,11795583]]"
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
-  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
+- '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
+- "[[_Standards/WikiData/WD~Ohio_Women's_Hall_of_Fame,11795583]]"
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
-  - '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_for_an_Actress_in_a_Television_Series,3110058]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Motion_Picture_Drama,463085]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+- '[[_Standards/WikiData/WD~Henrietta_Award,1534911]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_for_an_Actress_in_a_Television_Series,3110058]]'
 employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
 genre:
-  - '[[_Standards/WikiData/WD~big_band,207378]]'
-  - '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
-  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~big_band,207378]]'
+- '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~acting,222749]]'
-  - '[[_Standards/WikiData/WD~animal_rights,426]]'
-  - '[[_Standards/WikiData/WD~singing,27939]]'
+- '[[_Standards/WikiData/WD~acting,222749]]'
+- '[[_Standards/WikiData/WD~animal_rights,426]]'
+- '[[_Standards/WikiData/WD~singing,27939]]'
 notable_work: '[[_Standards/WikiData/WD~Qué_Será,_Será,257915]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christian_Science,624477]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Mary,734578]]'
-  - '[[_Standards/WikiData/WD~Doris,3094766]]'
+- '[[_Standards/WikiData/WD~Mary,734578]]'
+- '[[_Standards/WikiData/WD~Doris,3094766]]'
 child: '[[_Standards/WikiData/WD~Terry_Melcher,1545284]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Martin_Melcher,1644646]]'
-  - '[[_Standards/WikiData/WD~George_William_Weidler,5546356]]'
-  - '[[_Standards/WikiData/WD~Barry_Comden,61839325]]'
-  - '[[_Standards/WikiData/WD~Al_Jorden,61839510]]'
+- '[[_Standards/WikiData/WD~Martin_Melcher,1644646]]'
+- '[[_Standards/WikiData/WD~George_William_Weidler,5546356]]'
+- '[[_Standards/WikiData/WD~Barry_Comden,61839325]]'
+- '[[_Standards/WikiData/WD~Al_Jorden,61839510]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Q5242796,5242796]]'
-  - '[[_Standards/WikiData/WD~Kappelhoff,63798466]]'
+- '[[_Standards/WikiData/WD~Q5242796,5242796]]'
+- '[[_Standards/WikiData/WD~Kappelhoff,63798466]]'
 filmography: '[[_Standards/WikiData/WD~Doris_Day_filmography,5297918]]'
 discography: '[[_Standards/WikiData/WD~Doris_Day_discography,5297917]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
@@ -80,14 +110,133 @@ date_of_birth: 1922-04-03T00:00:00Z
 date_of_death: 2019-05-13T00:00:00Z
 Commons_category: Doris Day
 ISNI:
-  - 0000000368591225
-  - 0000000114712242
+- 0000000368591225
+- 0000000114712242
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20Day%201958%20crop.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Doris%20Day%20signature.svg
 official_website: https://www.dorisday.com
 Europeana_entity: agent/base/146799
+dv_has_:
+  name_:
+    af: Doris Day
+    an: Doris Day
+    ar: دوريس داي
+    arz: دوريس داى
+    ast: Doris Day
+    ay: Doris Day
+    az: Doris Dey
+    azb: دوریس دی
+    bcl: Doris Day
+    be-tarask: Дорыс Дэй
+    bg: Дорис Дей
+    bn: ডরিস ডে
+    br: Doris Day
+    bs: Doris Day
+    ca: Doris Day
+    co: Doris Day
+    cs: Doris Dayová
+    cy: Doris Day
+    da: Doris Day
+    de: Doris Day
+    de-ch: Doris Day
+    el: Ντόρις Ντέι
+    eml: Doris Day
+    en: Doris Day
+    en-ca: Doris Day
+    en-gb: Doris Day
+    eo: Doris Day
+    es: Doris Day
+    et: Doris Day
+    eu: Doris Day
+    fa: دوریس دی
+    fi: Doris Day
+    fit: Doris Day
+    fo: Doris Day
+    fr: Doris Day
+    frp: Doris Day
+    fy: Doris Day
+    ga: Doris Day
+    gl: dorada frita
+    he: דוריס דיי
+    hif: Doris Day
+    hr: Doris Day
+    hu: Doris Day
+    hy: Դորիս Դեյ
+    id: Doris Day
+    ig: Doris Day
+    io: Doris Day
+    is: Doris Day
+    it: Doris Day
+    ja: ドリス・デイ
+    ka: დორის დეი
+    kl: Doris Day
+    ko: 도리스 데이
+    ku: Doris Day
+    la: Dorothea Day
+    lb: Doris Day
+    lt: Doris Day
+    lv: Dorisa Deja
+    mg: Doris Day
+    mhr: Дорис Дэй
+    mk: Дорис Деј
+    ml: ഡോറിസ് ഡേ
+    ms: Doris Day
+    mul: Doris Day
+    nb: Doris Day
+    nds: Doris Day
+    nl: Doris Day
+    nn: Doris Day
+    nov: Doris Day
+    oc: Doris Day
+    pa: ਡੋਰਿਸ ਡੇ
+    pap: Doris Day
+    pl: Doris Day
+    pt: Doris Day
+    pt-br: Doris Day
+    qu: Doris Day
+    rmf: Doris Day
+    ro: Doris Day
+    ru: Дорис Дэй
+    sc: Doris Day
+    sco: Doris Day
+    se: Doris Day
+    sh: Doris Day
+    sjd: Дорис Дэй
+    sje: Doris Day
+    sju: Doris Day
+    sk: Doris Dayová
+    skr: ڈورس ڈے
+    sl: Doris Day
+    sma: Doris Day
+    smj: Doris Day
+    smn: Doris Day
+    sms: Doris Day
+    sq: Doris Day
+    sr: Дорис Деј
+    sr-ec: Дорис Деј
+    sv: Doris Day
+    th: ดอริส เดย์
+    tl: Doris Day
+    tr: Doris Day
+    uk: Доріс Дей
+    ur: ڈورس ڈے
+    uz: Doris Day
+    vi: Doris Day
+    vls: Doris Day
+    vo: Doris Day
+    war: Doris Day
+    wuu: 多丽丝·戴
+    yo: Doris Day
+    yue: 桃麗絲黛
+    zh: 桃樂絲·黛
+    zh-cn: 多丽丝·戴
+    zh-hans: 桃丽丝·黛
+    zh-hant: 桃樂絲·黛
+    zh-hk: 桃麗絲·黛
+    zh-my: 桃丽丝·黛
+    zh-sg: 桃丽丝·黛
+    zh-tw: 桃樂絲·黛
 ---
-
 # [[Day,Doris]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Doris_Day,104372|WD~Doris_Day,104372]] 

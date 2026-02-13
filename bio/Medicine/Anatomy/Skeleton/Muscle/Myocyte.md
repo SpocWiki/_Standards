@@ -1,20 +1,110 @@
 ---
 aliases:
+- fibra muscular
+- fibrocellula
+- izomsejt
+- Kas hücresi
+- lihassolu
+- masûlkexane
+- Miocit
+- Miocito
+- Miocyt
+- miócito
+- mióicít
+- Muscle cell
+- muskelcelle
+- Muskelfaser
+- Muskolĉelo
+- muskulu-zuntz
+- myocyt
+- myocyte
+- Myocytus
+- Sel otot
+- spiercel
+- Tế bào cơ
+- Μυικό κύτταρο
+- Бұлшықет талшығы
+- Міоцит
+- міяцыт
+- миоциты
+- Միոցիտներ
+- خلية عضلية
+- عضلاتی خلیہ
+- ماسوولکەڕیشاڵ
+- یاخته ماهیچهای
+- पेशी कोशिका
+- পেশীকোষ
+- 筋細胞
+- 肌肉細胞
+- 근육세포
 has_id_wikidata: Q428914
-instance_of: "[[_Standards/WikiData/WD~cell_type,189118]]"
-has_part_s_: "[[_Standards/WikiData/WD~myofibril,318623]]"
+instance_of: '[[_Standards/WikiData/WD~cell_type,189118]]'
+has_part_s_: '[[_Standards/WikiData/WD~myofibril,318623]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~somatic_cell,725508]]"
-  - "[[_Standards/WikiData/WD~cell,7868]]"
-part_of: "[[_Standards/WikiData/WD~muscle_tissue,797559]]"
+- '[[_Standards/WikiData/WD~somatic_cell,725508]]'
+- '[[_Standards/WikiData/WD~cell,7868]]'
+part_of: '[[_Standards/WikiData/WD~muscle_tissue,797559]]'
 MeSH_tree_code: A11.620
 UMLS_CUI: C0596981
 Terminologia_Histologica: H2.00.05.0.00002
 Commons_category: Myocytes
 TA98_Latin_term: myocytus
 native_label: myocytus
+dv_has_:
+  name_:
+    ar: خلية عضلية
+    ast: Fibra muscular
+    be-tarask: міяцыт
+    bn: পেশীকোষ
+    bs: Miocit
+    ca: fibra muscular
+    ckb: ماسوولکەڕیشاڵ
+    cs: myocyt
+    de: Muskelfaser
+    el: Μυικό κύτταρο
+    en: myocyte
+    en-ca: Muscle cell
+    en-gb: Muscle cell
+    eo: Muskolĉelo
+    es: fibra muscular
+    eu: muskulu-zuntz
+    fa: یاخته ماهیچهای
+    fi: lihassolu
+    fr: myocyte
+    ga: mióicít
+    gl: Miocito
+    hi: पेशी कोशिका
+    hr: Miocit
+    hu: izomsejt
+    hy: Միոցիտներ
+    id: Sel otot
+    it: fibrocellula
+    ja: 筋細胞
+    kk: Бұлшықет талшығы
+    ko: 근육세포
+    ku-latn: masûlkexane
+    la: Myocytus
+    ms: Sel otot
+    nb: muskelcelle
+    nl: spiercel
+    nn: muskelcelle
+    oc: Miocit
+    pl: Miocyt
+    pt: miócito
+    pt-br: Fibra muscular
+    ro: Miocit
+    ru: миоциты
+    sk: myocyt
+    sl: miocit
+    sr: Miocit
+    sv: Myocyt
+    tr: Kas hücresi
+    uk: Міоцит
+    ur: عضلاتی خلیہ
+    vi: Tế bào cơ
+    yue: 肌肉細胞
+    zh: 肌肉細胞
 ---
-
 # [[Myocyte]] 
 
 #is_/same_as :: [[WD~Myocyte,428914]] 

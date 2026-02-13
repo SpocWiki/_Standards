@@ -1,16 +1,66 @@
 ---
 aliases:
-  - Electrostatik
-  - Electrostatics
+- electrostatica
+- Electrostatics
+- electrostatică
+- Electrostatik
+- electrostàtica
+- electrostática
+- elektrostaatik
+- elektrostaatika
+- elektrostatica
+- elektrostatik
+- elektrostatika
+- elektrostatikk
+- elektrostatiko
+- elektrostatyka
+- elektrosztatika
+- Elektwostatik
+- eletrostàtica
+- eletrostática
+- elettrostatica
+- leictreastataic
+- mbëjtekkaaral
+- sähköstatiikka
+- tĩnh điện học
+- électrostatique
+- éléktrostatika
+- ηλεκτροστατική
+- електростатика
+- электрастатыка
+- электростатика
+- электрстатика
+- էլեկտրաստատիկա
+- אלקטרוסטטיקה
+- עלעקטראסטאטיק
+- الکترواستاتیک
+- الیکٹروسٹیٹکس
+- برقی سکونیات
+- كهرسكونيات
+- स्थिरवैद्युतिकी
+- ইলেকট্রনিক্সে হাতেখড়ি
+- ਇਲੈਕਟ੍ਰੋਸਟੈਟਿਕਸ
+- நிலைமின்னியல்
+- ఎలెక్ట్రోస్టాటిక్స్
+- ಸ್ಥಾಯೀ ವಿದ್ಯುದ್ವಿಜ್ಞಾನ
+- ഇലക്ട്രോസ്റ്റാറ്റിക്സ്
+- สถิตยศาสตร์ไฟฟ้า
+- လျှပ်ငြိမ်ပညာ
+- ელექტროსტატიკა
+- ἤλεκτροστατική
+- 静电学
+- 静電気学
+- 靜電學
+- 정전기학
 has_id_wikidata: Q26336
 part_of: '[[_Standards/WikiData/WD~classical_electromagnetism,377930]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 is_the_study_of: '[[_Standards/WikiData/WD~static_electricity,845744]]'
 instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
 OmegaWiki_Defined_Meaning: 1057112
@@ -18,8 +68,97 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20demonstrating%20
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/electrostatics
 IEV_number: 121-11-72
 Commons_category: Electrostatics
+dv_has_:
+  name_:
+    anp: स्थिरवैद्युतिकी
+    ar: كهرسكونيات
+    ast: electrostática
+    az: elektrostatika
+    be: электрастатыка
+    be-tarask: электрастатыка
+    bg: електростатика
+    bn: ইলেকট্রনিক্সে হাতেখড়ি
+    bs: elektrostatika
+    ca: electrostàtica
+    cs: Elektrostatika
+    cv: электростатика
+    da: elektrostatik
+    de: Elektrostatik
+    el: ηλεκτροστατική
+    en: electrostatics
+    eo: elektrostatiko
+    es: electrostática
+    et: elektrostaatika
+    eu: elektrostatika
+    fa: الکترواستاتیک
+    fi: sähköstatiikka
+    fr: électrostatique
+    frr: elektrostaatik
+    ga: leictreastataic
+    gl: electrostática
+    grc: ἤλεκτροστατική
+    gsw: Elektrostatik
+    he: אלקטרוסטטיקה
+    hi: स्थिरवैद्युतिकी
+    hr: elektrostatika
+    ht: Elektwostatik
+    hu: elektrosztatika
+    hy: էլեկտրաստատիկա
+    id: elektrostatik
+    io: elektrostatiko
+    it: elettrostatica
+    ja: 静電気学
+    ka: ელექტროსტატიკა
+    kk: электрстатика
+    kn: ಸ್ಥಾಯೀ ವಿದ್ಯುದ್ವಿಜ್ಞಾನ
+    ko: 정전기학
+    ky: электростатика
+    la: electrostatica
+    lt: elektrostatika
+    lv: elektrostatika
+    mag: स्थिरवैद्युतिकी
+    mk: електростатика
+    ml: ഇലക്ട്രോസ്റ്റാറ്റിക്സ്
+    ms: elektrostatik
+    my: လျှပ်ငြိမ်ပညာ
+    nb: elektrostatikk
+    nl: elektrostatica
+    nn: elektrostatikk
+    oc: electrostatica
+    pa: ਇਲੈਕਟ੍ਰੋਸਟੈਟਿਕਸ
+    pl: elektrostatyka
+    pms: eletrostàtica
+    pnb: الیکٹروسٹیٹکس
+    pt: eletrostática
+    ro: electrostatică
+    ru: электростатика
+    sco: electrostatics
+    sh: elektrostatika
+    sk: elektrostatika
+    sl: elektrostatika
+    sq: elektrostatika
+    sr: електростатика
+    sr-ec: електростатика
+    sr-el: elektrostatika
+    su: éléktrostatika
+    sv: elektrostatik
+    ta: நிலைமின்னியல்
+    te: ఎలెక్ట్రోస్టాటిక్స్
+    th: สถิตยศาสตร์ไฟฟ้า
+    tr: elektrostatik
+    tt: электростатика
+    uk: електростатика
+    ur: برقی سکونیات
+    uz: elektrostatika
+    vi: tĩnh điện học
+    wo: mbëjtekkaaral
+    wuu: 静电学
+    yi: עלעקטראסטאטיק
+    yue: 靜電學
+    zh: 靜電學
+    zh-hans: 静电学
+    zh-hant: 靜電學
 ---
-
 # [[Electrostatics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electrostatics,26336|WD~Electrostatics,26336]] 

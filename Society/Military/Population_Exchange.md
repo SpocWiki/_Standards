@@ -1,9 +1,78 @@
 ---
 aliases:
-  - Population Exchange
-  - Population_Exchange
+- di dân
+- Nüfus aktarımı
+- odsun
+- Pemindahan penduduk
+- Population Exchange
+- population transfer
+- Population_Exchange
+- populazio transferentzia
+- preseljevanje prebivalstva
+- przesiedlenie
+- transfer de populație
+- transferencia de población
+- Transferencia de poboación
+- transferim i popullsisë
+- transfert de population
+- transferència de població
+- transferência populacional
+- translokigo de loĝantaro
+- trosglwyddo poblogaeth
+- tvungen migrasjon
+- volksverhuizing
+- väestönsiirto
+- μετακίνηση πληθυσμού
+- перасяленьне
+- Переміщення населення
+- перемещение населения
+- преместување на население
+- трансфер на население
+- բնակչության շարժ
+- טרנספר
+- انتقال جمعیت
+- نزوح السكان
+- 人口移動
+- 人口轉移
+- 人口转移
+has_id_wikidata: Q15589476
+dv_has_:
+  name_:
+    ar: نزوح السكان
+    be-tarask: перасяленьне
+    bg: трансфер на население
+    ca: transferència de població
+    cs: odsun
+    cy: trosglwyddo poblogaeth
+    el: μετακίνηση πληθυσμού
+    en: population transfer
+    eo: translokigo de loĝantaro
+    es: transferencia de población
+    eu: populazio transferentzia
+    fa: انتقال جمعیت
+    fi: väestönsiirto
+    fr: transfert de population
+    gl: Transferencia de poboación
+    he: טרנספר
+    hy: բնակչության շարժ
+    id: Pemindahan penduduk
+    ja: 人口移動
+    mk: преместување на население
+    nb: tvungen migrasjon
+    nl: volksverhuizing
+    nn: tvungen migrasjon
+    pl: przesiedlenie
+    pt: transferência populacional
+    ro: transfer de populație
+    ru: перемещение населения
+    sl: preseljevanje prebivalstva
+    sq: transferim i popullsisë
+    tr: Nüfus aktarımı
+    uk: Переміщення населення
+    vi: di dân
+    zh: 人口轉移
+    zh-hans: 人口转移
 ---
-
 # [[Population_Exchange]] 
 
 #is_/same_as :: 

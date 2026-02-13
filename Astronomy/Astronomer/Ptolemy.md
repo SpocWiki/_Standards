@@ -1,81 +1,164 @@
 ---
 aliases:
-  - Ptolemäus
-  - Ptolemy
+- Batlamyus
+- Batlamyûs
+- Claude Ptolémée
+- Claudi Ptolemeu
+- Claudi Ptolemèu
+- Claudio Ptolomeo
+- Claudio Ptolomeu
+- Claudio Tolomeo
+- Claudiu Ptolomeu
+- Claudiu Tolomeu
+- Claudius Ptolemaeus
+- Claudius Ptolemeu
+- Claudius Ptolemäus
+- Clàudi Tolomé
+- Klaudije Ptolemej
+- Klaudije Ptolomej
+- Klaudijus Ptolemėjus
+- Klaudio Ptolemaio
+- Klaudio Ptolomeo
+- Klaudio Ptolomeu
+- Klaudios Ptolemaios
+- Klaudiosz Ptolemaiosz
+- Klaudiusz Ptolemeusz
+- Kládíus Ptólmæos
+- Ptolemaeus
+- Ptolemaios
+- Ptolemaiosõ Klaudios
+- Ptolemaj
+- Ptolemajs
+- Ptolemeo
+- Ptolemeu
+- Ptolemey
+- Ptolemey Klavdiy
+- Ptolemi
+- Ptolemy
+- Ptolemäus
+- Ptolemæus
+- Ptolomaidh
+- Ptolomej
+- Ptolomeo
+- Tolamaes
+- Toleme
+- Tolomeo
+- Tolomew
+- Tulumeu
+- Κλαύδιος Πτολεμαίος
+- Κλαύδιος Πτολεμαῖος
+- Батламиюс
+- Клаўдзій Пталемей
+- Клавдій Птолемей
+- Клавдиј Птоломеј
+- Клавдий Птолемей
+- Клаудије Птолемеј
+- Кляўдыюс Пталемэй
+- Птолемей
+- Птолемей Клавдий
+- Птолмей
+- Птоломей Клавдий
+- Պտղոմեոս Կլավդիոս
+- Քլաուտիոս Պտղոմէոս
+- תלמי
+- بطلمیوس
+- بطليموس
+- بطلیموس
+- بەتڵیمۆس
+- كلاوديوس بطليموس
+- كلاوديوس پطوليمايوس
+- क्लाडियस टॉलमी
+- टॉलेमी
+- টলেমি
+- ਕਲੌਡੀਅਸ ਟੋਲੇਮੀ
+- କ୍ଲାଡିୟସ ଟଲେମୀ
+- தொலெமி
+- టోలెమీ
+- ಕ್ಲಾಡಿಯಸ್ ಟಾಲೆಮಿ
+- ടോളമി
+- ทอเลมี
+- တော်လမီ
+- တော်လမီ(Ptolemaeus)
+- პტოლემე
+- ቶለሚ
+- クラウディオス・プトレマイオス
+- 克劳狄乌斯·托勒密
+- 托勒密
+- 클라우디오스 프톨레마이오스
 has_id_wikidata: Q34943
 occupation:
-  - "[[_Standards/WikiData/WD~astrologer,155647]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~geographer,901402]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~musicologist,14915627]]"
-  - "[[_Standards/WikiData/WD~music_theorist,16031530]]"
-  - "[[_Standards/WikiData/WD~epigrammatist,26237228]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+- '[[_Standards/WikiData/WD~astrologer,155647]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~geographer,901402]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~epigrammatist,26237228]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Almagest,155952]]"
-  - "[[_Standards/WikiData/WD~Ptolemy's_theorem,459547]]"
-  - "[[_Standards/WikiData/WD~Ptolemy's_inequality,743775]]"
-  - "[[_Standards/WikiData/WD~quadrant,841280]]"
-  - "[[_Standards/WikiData/WD~Geography,1194350]]"
-  - "[[_Standards/WikiData/WD~Tetrabiblos,1879027]]"
-  - "[[_Standards/WikiData/WD~equant,1965418]]"
-  - "[[_Standards/WikiData/WD~Ptolemy's_intense_diatonic_scale,7257099]]"
-  - "[[_Standards/WikiData/WD~Ptolemy's_table_of_chords,7257100]]"
-  - "[[_Standards/WikiData/WD~Handy_Tables,42190733]]"
-  - "[[_Standards/WikiData/WD~Ptolemaic_map,64138390]]"
-  - "[[_Standards/WikiData/WD~List_of_Roman_emperors,122260129]]"
+- '[[_Standards/WikiData/WD~Almagest,155952]]'
+- "[[_Standards/WikiData/WD~Ptolemy's_theorem,459547]]"
+- "[[_Standards/WikiData/WD~Ptolemy's_inequality,743775]]"
+- '[[_Standards/WikiData/WD~quadrant,841280]]'
+- '[[_Standards/WikiData/WD~Geography,1194350]]'
+- '[[_Standards/WikiData/WD~Tetrabiblos,1879027]]'
+- '[[_Standards/WikiData/WD~equant,1965418]]'
+- "[[_Standards/WikiData/WD~Ptolemy's_intense_diatonic_scale,7257099]]"
+- "[[_Standards/WikiData/WD~Ptolemy's_table_of_chords,7257100]]"
+- '[[_Standards/WikiData/WD~Handy_Tables,42190733]]'
+- '[[_Standards/WikiData/WD~Ptolemaic_map,64138390]]'
+- '[[_Standards/WikiData/WD~List_of_Roman_emperors,122260129]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~music_theory,193544]]"
-  - "[[_Standards/WikiData/WD~music_theorist,16031530]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~geography,1071]]"
-  - "[[_Standards/WikiData/WD~optics,14620]]"
-  - "[[_Standards/WikiData/WD~astrology,34362]]"
-  - "[[_Standards/WikiData/WD~mechanics,41217]]"
-gens: "[[_Standards/WikiData/WD~Claudia_gens,385338]]"
+- '[[_Standards/WikiData/WD~music_theory,193544]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~geography,1071]]'
+- '[[_Standards/WikiData/WD~optics,14620]]'
+- '[[_Standards/WikiData/WD~astrology,34362]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
+gens: '[[_Standards/WikiData/WD~Claudia_gens,385338]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-  - "[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Dictionary_of_African_Biography,46002746]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Astronomers_A_Biographical_Reference,126740695]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]"
-  - "[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]"
-place_of_birth: "[[_Standards/WikiData/WD~Ptolemais_Hermiou,1302772]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-nomen_gentilicium: "[[_Standards/WikiData/WD~Claudius,30006705]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-given_name: "[[_Standards/WikiData/WD~Ptolemaios,98593717]]"
+- '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
+- '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
+place_of_birth: '[[_Standards/WikiData/WD~Ptolemais_Hermiou,1302772]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+nomen_gentilicium: '[[_Standards/WikiData/WD~Claudius,30006705]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+given_name: '[[_Standards/WikiData/WD~Ptolemaios,98593717]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-  - "[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]"
-different_from: "[[_Standards/WikiData/WD~Pseudo_Ptolemy,111188716]]"
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+- '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
+different_from: '[[_Standards/WikiData/WD~Pseudo_Ptolemy,111188716]]'
 date_of_birth: 0100-01-01T00:00:00Z
-employer: "[[_Standards/WikiData/WD~Library_of_Alexandria,435]]"
-influenced_by: "[[_Standards/WikiData/WD~Aristotle,868]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-residence: "[[_Standards/WikiData/WD~Alexandria,87]]"
-place_of_death: "[[_Standards/WikiData/WD~Alexandria,87]]"
-writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-present_in_work: "[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]"
+employer: '[[_Standards/WikiData/WD~Library_of_Alexandria,435]]'
+influenced_by: '[[_Standards/WikiData/WD~Aristotle,868]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+residence: '[[_Standards/WikiData/WD~Alexandria,87]]'
+place_of_death: '[[_Standards/WikiData/WD~Alexandria,87]]'
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+present_in_work: '[[_Standards/WikiData/WD~The_Divine_Comedy,40185]]'
 BHCL_UUID: 7cf9f3b5-54ab-45b7-92e7-aed8ffdf3b14
 Provenio_UUID:
-  - b40349d4-77d7-44ea-bccc-d4a37eb0078f
-  - 2a538c14-8648-4ddc-a305-b2e7435cb7ae
-  - 73a05c78-c395-4318-a45a-1cd72e7e8c86
+- b40349d4-77d7-44ea-bccc-d4a37eb0078f
+- 2a538c14-8648-4ddc-a305-b2e7435cb7ae
+- 73a05c78-c395-4318-a45a-1cd72e7e8c86
 Commons_category: Ptolemy
 Commons_Creator_page: Ptolemy
 date_of_death: 0170-01-01T00:00:00Z
@@ -83,7 +166,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5863
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PSM%20V78%20D326%20Ptolemy.png
 ISNI: 122800429
 Libris_URI: 0xbdfsxj4p9xzln
-Wolfram_Language_entity_code: Entity"Concept", "ClaudiusPtolemaeus = `=this.dv_"Concept", "ClaudiusPtolemaeus` 
+Wolfram_Language_entity_code: Entity"Concept", "ClaudiusPtolemaeus = `=this.dv_"Concept", "ClaudiusPtolemaeus`
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/46760
 Krugosvet_article: nauka_i_tehnika/astronomiya/PTOLEME_KLAVDI.html
 Commons_gallery: Κλαύδιος Πτολεμαῖος
@@ -91,35 +174,165 @@ name_in_native_language: Κλαύδιος Πτολεμαῖος
 birth_name: Κλαύδιος Πτολεμαῖος
 dv_"Concept", "ClaudiusPtolemaeus: jzg4q"
 dv_has_:
+  name_:
+    af: Ptolemaeus
+    am: ቶለሚ
+    an: Claudio Ptolomeu
+    ar: بطليموس
+    ary: كلاوديوس پطوليمايوس
+    arz: كلاوديوس بطليموس
+    ast: Claudio Tolomeo
+    az: Ptolemey
+    ba: Клавдий Птолемей
+    bcl: Ptolemy
+    be: Клаўдзій Пталемей
+    be-tarask: Кляўдыюс Пталемэй
+    bg: Клавдий Птолемей
+    bn: টলেমি
+    br: Klaudios Ptolemaios
+    bs: Ptolomej
+    ca: Claudi Ptolemeu
+    cbk-zam: Claudio Ptolomeo
+    ce: Птоломей Клавдий
+    ckb: بەتڵیمۆس
+    co: Claudiu Tolomeu
+    cs: Klaudios Ptolemaios
+    cy: Ptolemi
+    da: Ptolemæus
+    de: Claudius Ptolemäus
+    diq: Batlamyus
+    el: Κλαύδιος Πτολεμαίος
+    en: Ptolemy
+    en-ca: Ptolemy
+    en-gb: Ptolemy
+    eo: Ptolemeo
+    es: Claudio Ptolomeo
+    et: Ptolemaios
+    eu: Klaudio Ptolomeo
+    ext: Claudiu Ptolomeu
+    fa: بطلمیوس
+    fi: Klaudios Ptolemaios
+    fr: Claude Ptolémée
+    frr: Claudius Ptolemäus
+    fy: Ptolemaeus
+    ga: Tolamaes
+    gd: Ptolomaidh
+    gl: Claudio Tolomeo
+    gor: Ptolemy
+    grc: Κλαύδιος Πτολεμαῖος
+    gsw: Ptolemäus
+    he: תלמי
+    hi: क्लाडियस टॉलमी
+    hr: Klaudije Ptolemej
+    ht: Toleme
+    hu: Klaudiosz Ptolemaiosz
+    hy: Պտղոմեոս Կլավդիոս
+    hyw: Քլաուտիոս Պտղոմէոս
+    ia: Ptolemeo
+    iba: Ptolemaios
+    id: Ptolemaeus
+    io: Claudius Ptolemaeus
+    is: Kládíus Ptólmæos
+    it: Claudio Tolomeo
+    ja: クラウディオス・プトレマイオス
+    jv: Claudius Ptolemaeus
+    ka: პტოლემე
+    kbp: Claude Ptolémée
+    kk: Клавдий Птолемей
+    kn: ಕ್ಲಾಡಿಯಸ್ ಟಾಲೆಮಿ
+    ko: 클라우디오스 프톨레마이오스
+    ku: Batlamyûs
+    ky: Птолемей Клавдий
+    la: Claudius Ptolemaeus
+    lb: Ptolemäus
+    lfn: Ptolomeo
+    lt: Klaudijus Ptolemėjus
+    lv: Ptolemajs
+    mdf: Птолемей
+    mg: Claude Ptolémée
+    mk: Клавдиј Птоломеј
+    ml: ടോളമി
+    mn: Птолмей
+    mr: टॉलेमी
+    ms: Ptolemy
+    mt: Tolomew
+    my: တော်လမီ
+    nb: Klaudios Ptolemaios
+    nds-nl: Ptolemaeus
+    nl: Claudius Ptolemaeus
+    nn: Klaudios Ptolemaios
+    oc: Claudi Ptolemèu
+    or: କ୍ଲାଡିୟସ ଟଲେମୀ
+    pa: ਕਲੌਡੀਅਸ ਟੋਲੇਮੀ
+    pam: Claudio Ptolomeo
+    pl: Klaudiusz Ptolemeusz
+    pms: Clàudi Tolomé
+    pnb: بطلیموس
+    ps: بطلمیوس
+    pt: Ptolemeu
+    pt-br: Ptolemeu
+    rki: တော်လမီ(Ptolemaeus)
+    ro: Ptolemeu
+    ru: Клавдий Птолемей
+    rue: Клавдий Птолемей
+    rup: Claudius Ptolemeu
+    sah: Клавдий Птолемей
+    scn: Tulumeu
+    sco: Ptolemy
+    sd: بطليموس
+    sh: Klaudije Ptolomej
+    sk: Klaudios Ptolemaios
+    sl: Ptolemaj
+    sq: Klaudio Ptolomeu
+    sr: Клаудије Птолемеј
+    sr-ec: Клаудије Птолемеј
+    sv: Klaudios Ptolemaios
+    sw: Klaudio Ptolemaio
+    ta: தொலெமி
+    te: టోలెమీ
+    tg: Батламиюс
+    th: ทอเลมี
+    tl: Tolomeo
+    tr: Batlamyus
+    tt: Клавдий Птолемей
+    uk: Клавдій Птолемей
+    ur: بطلیموس
+    uz: Ptolemey Klavdiy
+    vi: Claudius Ptolemaeus
+    vro: Ptolemaiosõ Klaudios
+    war: Ptolemy
+    wuu: 克劳狄乌斯·托勒密
+    xmf: პტოლემე
+    yue: 托勒密
+    zh: 克劳狄乌斯·托勒密
   time_:
     started:
-      - 0100-06-01T00:00:00.000+00:53
-      - 0170-06-01T00:00:00.000+00:53
+    - 0100-06-01T00:00:00.000+00:53
+    - 0170-06-01T00:00:00.000+00:53
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Ptolemy,34943|WD~Ptolemy,34943]]"
-    - "[[/_Standards/Astronomy/Astronomer/Ptolemy|Ptolemy]]"
-    - "[[/_public/Astronomy/Astronomer/Ptolemy.public|Ptolemy.public]]"
-    - "[[/_internal/Astronomy/Astronomer/Ptolemy.internal|Ptolemy.internal]]"
-    - "[[/_protect/Astronomy/Astronomer/Ptolemy.protect|Ptolemy.protect]]"
-    - "[[/_private/Astronomy/Astronomer/Ptolemy.private|Ptolemy.private]]"
-    - "[[/_personal/Astronomy/Astronomer/Ptolemy.personal|Ptolemy.personal]]"
-    - "[[/_secret/Astronomy/Astronomer/Ptolemy.secret|Ptolemy.secret]]"
+  - '[[../../WikiData/WD~Ptolemy,34943|WD~Ptolemy,34943]]'
+  - '[[/_Standards/Astronomy/Astronomer/Ptolemy|Ptolemy]]'
+  - '[[/_public/Astronomy/Astronomer/Ptolemy.public|Ptolemy.public]]'
+  - '[[/_internal/Astronomy/Astronomer/Ptolemy.internal|Ptolemy.internal]]'
+  - '[[/_protect/Astronomy/Astronomer/Ptolemy.protect|Ptolemy.protect]]'
+  - '[[/_private/Astronomy/Astronomer/Ptolemy.private|Ptolemy.private]]'
+  - '[[/_personal/Astronomy/Astronomer/Ptolemy.personal|Ptolemy.personal]]'
+  - '[[/_secret/Astronomy/Astronomer/Ptolemy.secret|Ptolemy.secret]]'
 dv_concept-claudiusptolemaeus: jzg4q"
 dv_has_time_started:
-  - 0100-06-01T00:00:00.000+00:53
-  - 0170-06-01T00:00:00.000+00:53
+- 0100-06-01T00:00:00.000+00:53
+- 0170-06-01T00:00:00.000+00:53
 dv_is_same_as:
-  - "[[../../WikiData/WD~Ptolemy,34943|WD~Ptolemy,34943]]"
-  - "[[/_Standards/Astronomy/Astronomer/Ptolemy|Ptolemy]]"
-  - "[[/_public/Astronomy/Astronomer/Ptolemy.public|Ptolemy.public]]"
-  - "[[/_internal/Astronomy/Astronomer/Ptolemy.internal|Ptolemy.internal]]"
-  - "[[/_protect/Astronomy/Astronomer/Ptolemy.protect|Ptolemy.protect]]"
-  - "[[/_private/Astronomy/Astronomer/Ptolemy.private|Ptolemy.private]]"
-  - "[[/_personal/Astronomy/Astronomer/Ptolemy.personal|Ptolemy.personal]]"
-  - "[[/_secret/Astronomy/Astronomer/Ptolemy.secret|Ptolemy.secret]]"
+- '[[../../WikiData/WD~Ptolemy,34943|WD~Ptolemy,34943]]'
+- '[[/_Standards/Astronomy/Astronomer/Ptolemy|Ptolemy]]'
+- '[[/_public/Astronomy/Astronomer/Ptolemy.public|Ptolemy.public]]'
+- '[[/_internal/Astronomy/Astronomer/Ptolemy.internal|Ptolemy.internal]]'
+- '[[/_protect/Astronomy/Astronomer/Ptolemy.protect|Ptolemy.protect]]'
+- '[[/_private/Astronomy/Astronomer/Ptolemy.private|Ptolemy.private]]'
+- '[[/_personal/Astronomy/Astronomer/Ptolemy.personal|Ptolemy.personal]]'
+- '[[/_secret/Astronomy/Astronomer/Ptolemy.secret|Ptolemy.secret]]'
 ---
-
 # [[Ptolemy]] 
 
 #has_/time_/started :: 0100-06-01 

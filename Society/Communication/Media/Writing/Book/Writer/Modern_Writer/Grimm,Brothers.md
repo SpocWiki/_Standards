@@ -1,23 +1,112 @@
 ---
 aliases:
-  - Brothers Grimm
-  - Brüder Grimm
-  - Gebrüder Grimm
-  - Grimm,Brothers
+- Aka-uka Grimmlar
+- Akina Grimm
+- An Vreder Grimm
+- Anh em nhà Grimm
+- Armanos Grimm
+- Birayên Grimm
+- Bracia Grimmowie
+- brata Grimm
+- bratři Grimmové
+- Bray Grimm
+- Braća Grimm
+- Bridder Grimm
+- Brithers Grimm
+- Broers Grimm
+- Broliai Grimai
+- Brothers Grimm
+- Bruorren Grimm
+- Bröderna Grimm
+- Brødrene Grimm
+- Brøðurnir Grimm
+- Brüder Grimm
+- Brāļi Grimmi
+- Chirmans Grimm
+- D Briäder Grimm
+- Deartháireacha Grimm
+- Fraires Grimm
+- Frars Grimm
+- fratelli Grimm
+- Frates Grimm
+- Fratoj Grimm
+- Fratres Grimm
+- Fratuli Grimm
+- Frații Grimm
+- frères Grimm
+- Frés Grimm
+- gebroeders Grimm
+- Gebrüder Grimm
+- germans Grimm
+- Grimm anaiak
+- Grimm Bersaudara
+- Grimm bertuğannar
+- Grimm fivérek
+- Grimm Hiaⁿ-tī
+- Grimm Kardeşler
+- Grimm wawqikuna
+- Grimm,Brothers
+- Grimm-brørne
+- Grimmin veljekset
+- Grimmsbræður
+- Hermanos Grimm
+- irmáns Grimm
+- Irmãos Grimm
+- Jacob ha Wilhelm Grimm
+- Magbugto nga Grimm
+- Magkapatid na Grimm
+- pico
+- Qrimm qardaşları
+- Vennad Grimmid
+- Vëllezërit Grim
+- y brodyr Grimm
+- Αδελφοί Γκριμ
+- Ага-ини Гриммдер
+- Ах дүү Гримм
+- Ағайынды Гриммдер
+- Бер туған Гриммдар
+- Браћа Грим
+- Браќа Грим
+- Брати Ґрімм
+- Браты Грым
+- братья Гримм
+- Братя Грим
+- Гримм агай-вынъёс
+- Гримм шӱмбелвлӓ
+- Գրիմ եղբայրներ
+- Կրիմ Եղբայները
+- האחים גרים
+- الأخوان غريم
+- برادران گریم
+- گرم برادران
+- گرم پعرا
+- ग्रिम भाई
+- ब्रदर्स् गृम्
+- গ্রিম ভ্রাতৃদ্বয়
+- ਗ੍ਰਿਮ ਭਰਾ
+- கிரிம் சகோதரர்கள்
+- ಗ್ರಿಮ್ ಸಹೋದರರು
+- ഗ്രിം സഹോദരന്മാർ
+- พี่น้องตระกูลกริมม์
+- ཡཱ་ཁོ་དང་ཝེ་ལེམ་.ཀོ་ལིམ།
+- ဂရင်းညီနောင်
+- グリム兄弟
+- 格林兄弟
+- 그림 형제
 has_id_wikidata: Q2793
 notable_work: "[[_Standards/WikiData/WD~Grimms'_fairy_tales,163027]]"
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~ProDetLit,124821483]]'
 family_name: '[[_Standards/WikiData/WD~Grimm,1422706]]'
 floruit: 1900-01-01T00:00:00Z
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 instance_of: '[[_Standards/WikiData/WD~brother_duo,125258836]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Jacob_Grimm,6701]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Grimm,6714]]'
+- '[[_Standards/WikiData/WD~Jacob_Grimm,6701]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Grimm,6714]]'
 field_of_work: '[[_Standards/WikiData/WD~linguistics,8162]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
@@ -28,8 +117,125 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Br%C3%B8dr
 Commons_gallery: Brothers Grimm
 Commons_category: Brothers Grimm
 Krugosvet_article: kultura_i_obrazovanie/literatura/GRIMM_YAKOB_I_VILGELM.html
+dv_has_:
+  name_:
+    af: Broers Grimm
+    an: Chirmans Grimm
+    ar: الأخوان غريم
+    arn: pico
+    ast: Hermanos Grimm
+    az: Qrimm qardaşları
+    ba: Бер туған Гриммдар
+    be: Браты Грым
+    be-tarask: Браты Грым
+    bg: Братя Грим
+    bn: গ্রিম ভ্রাতৃদ্বয়
+    bo: ཡཱ་ཁོ་དང་ཝེ་ལེམ་.ཀོ་ལིམ།
+    br: Jacob ha Wilhelm Grimm
+    bs: Braća Grimm
+    ca: germans Grimm
+    cs: bratři Grimmové
+    cy: y brodyr Grimm
+    da: Brødrene Grimm
+    de: Brüder Grimm
+    de-ch: Brüder Grimm
+    diq: Bray Grimm
+    el: Αδελφοί Γκριμ
+    en: Brothers Grimm
+    en-ca: Brothers Grimm
+    en-gb: Brothers Grimm
+    eo: Fratoj Grimm
+    es: Hermanos Grimm
+    et: Vennad Grimmid
+    eu: Grimm anaiak
+    fa: برادران گریم
+    fi: Grimmin veljekset
+    fo: Brøðurnir Grimm
+    fr: frères Grimm
+    fy: Bruorren Grimm
+    ga: Deartháireacha Grimm
+    gl: irmáns Grimm
+    gsw: D Briäder Grimm
+    he: האחים גרים
+    hi: ग्रिम भाई
+    hif: Brothers Grimm
+    hr: Braća Grimm
+    hu: Grimm fivérek
+    hy: Գրիմ եղբայրներ
+    hyw: Կրիմ Եղբայները
+    ia: Fratres Grimm
+    id: Grimm Bersaudara
+    ig: Brothers Grimm
+    io: Fratuli Grimm
+    is: Grimmsbræður
+    it: fratelli Grimm
+    ja: グリム兄弟
+    kk: Ағайынды Гриммдер
+    kn: ಗ್ರಿಮ್ ಸಹೋದರರು
+    ko: 그림 형제
+    ku: Birayên Grimm
+    kw: An Vreder Grimm
+    ky: Ага-ини Гриммдер
+    la: Fratres Grimm
+    lb: Bridder Grimm
+    lfn: Frates Grimm
+    lt: Broliai Grimai
+    lv: Brāļi Grimmi
+    mg: Brothers Grimm
+    mk: Браќа Грим
+    ml: ഗ്രിം സഹോദരന്മാർ
+    mn: Ах дүү Гримм
+    mrj: Гримм шӱмбелвлӓ
+    ms: Grimm Bersaudara
+    mwl: Armanos Grimm
+    my: ဂရင်းညီနောင်
+    nan: Grimm Hiaⁿ-tī
+    nb: Brødrene Grimm
+    new: ब्रदर्स् गृम्
+    nl: gebroeders Grimm
+    nn: Grimm-brørne
+    oc: Fraires Grimm
+    pa: ਗ੍ਰਿਮ ਭਰਾ
+    pag: Brothers Grimm
+    pl: Bracia Grimmowie
+    pnb: گرم پعرا
+    pt: Irmãos Grimm
+    pt-br: Irmãos Grimm
+    qu: Grimm wawqikuna
+    rm: Frars Grimm
+    ro: Frații Grimm
+    ru: братья Гримм
+    sco: Brithers Grimm
+    sh: Braća Grimm
+    sl: brata Grimm
+    sq: Vëllezërit Grim
+    sr: Браћа Грим
+    sv: Bröderna Grimm
+    sw: Akina Grimm
+    ta: கிரிம் சகோதரர்கள்
+    th: พี่น้องตระกูลกริมม์
+    tl: Magkapatid na Grimm
+    tr: Grimm Kardeşler
+    tt: Grimm bertuğannar
+    udm: Гримм агай-вынъёс
+    uk: Брати Ґрімм
+    ur: گرم برادران
+    uz: Aka-uka Grimmlar
+    vi: Anh em nhà Grimm
+    wa: Frés Grimm
+    war: Magbugto nga Grimm
+    wuu: 格林兄弟
+    yue: 格林兄弟
+    zh: 格林兄弟
+    zh-cn: 格林兄弟
+    zh-hans: 格林兄弟
+    zh-hant: 格林兄弟
+    zh-hk: 格林兄弟
+    zh-mo: 格林兄弟
+    zh-my: 格林兄弟
+    zh-sg: 格林兄弟
+    zh-tw: 格林兄弟
 ---
-
 # [[Grimm,Brothers]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brothers_Grimm,2793|WD~Brothers_Grimm,2793]] 

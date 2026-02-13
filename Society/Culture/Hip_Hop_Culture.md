@@ -1,18 +1,55 @@
 ---
-has_time_started: 1970-01-01 
+has_time_started: 1970-01-01
 aliases:
+- cultura hip hop
+- hip hap
+- hip hop
+- Hip hop bûn-hòa
+- hip hop culture
+- Hip Hop 文化
+- hip-hop
+- hip-hop kultura
+- Hip-Hop-Kultur
+- hip-hopa
+- hiphop
+- hiphopkultur
+- hiphopo
+- kultura hiphopa
+- Musik rap
+- Văn hóa hip hop
+- χιπ χοπ
+- гіп-гоп
+- гіпгоп
+- хіп-хоп
+- хип хоп
+- Хип-хоп
+- хип-хоп-культура
+- һип-һоп
+- հիփ-հոփ
+- תרבות ההיפ הופ
+- فرهنگ هیپ هاپ
+- هيب هوب
+- هيپ هوپ
+- ھیپ ھۆپ
+- ہپ ہاپ
+- ହିପ ହପ ସଂସ୍କୃତି
+- ჰიპ-ჰოპი
+- ሂፕ ሆፕ
+- ヒップホップ
+- 嘻哈
+- 힙합
 has_id_wikidata: Q1132127
 has_part_s_:
-  - "[[_Standards/WikiData/WD~breakdance,169737]]"
-  - "[[_Standards/WikiData/WD~turntablism,1046801]]"
-  - "[[_Standards/WikiData/WD~hip_hop,11401]]"
-subclass_of: "[[_Standards/WikiData/WD~subculture,264965]]"
-instance_of: "[[_Standards/WikiData/WD~art_movement,968159]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Hip_hop,11015433]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-start_point: "[[_Standards/WikiData/WD~United_States_of_America,106315054]]"
-different_from: "[[_Standards/WikiData/WD~hip_hop,11401]]"
+- '[[_Standards/WikiData/WD~breakdance,169737]]'
+- '[[_Standards/WikiData/WD~turntablism,1046801]]'
+- '[[_Standards/WikiData/WD~hip_hop,11401]]'
+subclass_of: '[[_Standards/WikiData/WD~subculture,264965]]'
+instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hip_hop,11015433]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+start_point: '[[_Standards/WikiData/WD~United_States_of_America,106315054]]'
+different_from: '[[_Standards/WikiData/WD~hip_hop,11401]]'
 inception: 1970-01-01T00:00:00Z
 social_media_followers: 2505860
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B%20Boy%20doing%20a%20freeze.jpg
@@ -23,8 +60,81 @@ Baidu_Tieba_name: hiphop
 hashtag_: hiphop
 subreddit: hiphopheads
 Library_of_Congress_Classification: NX456.5.H57
+dv_has_:
+  name_:
+    af: hip-hop
+    am: ሂፕ ሆፕ
+    ar: هيب هوب
+    arz: هيپ هوپ
+    az: Hip-hop
+    be: хіп-хоп
+    be-tarask: гіп-гоп
+    bg: Хип-хоп
+    bi: Hip-hop
+    ca: hip-hop
+    ckb: ھیپ ھۆپ
+    crh: Hip-hop
+    cs: hip-hop kultura
+    da: hiphop
+    de: Hip-Hop-Kultur
+    el: χιπ χοπ
+    en: hip hop culture
+    eo: hiphopo
+    es: cultura hip hop
+    eu: hip-hopa
+    fa: فرهنگ هیپ هاپ
+    fi: hip hop
+    fr: hip-hop
+    ga: hip hap
+    gl: cultura hip hop
+    he: תרבות ההיפ הופ
+    hr: Hip-hop
+    hy: հիփ-հոփ
+    hyw: Հիփ-հոփ
+    ia: cultura hip hop
+    id: Musik rap
+    it: hip hop
+    ja: ヒップホップ
+    ka: ჰიპ-ჰოპი
+    kk: Хип-хоп
+    ko: 힙합
+    ku: Hip-hop
+    la: Hiphop
+    lb: Hip-Hop
+    mk: хип-хоп
+    nan: Hip hop bûn-hòa
+    nb: hip-hop
+    nds: Hip-Hop
+    nl: hiphop
+    nn: hiphop
+    or: ହିପ ହପ ସଂସ୍କୃତି
+    pap: hip hop
+    pap-aw: hip hop
+    pl: hip-hop
+    pms: Hip hop
+    pt: Hip hop
+    pwn: hip hap
+    ro: hip-hop
+    ru: хип-хоп-культура
+    sco: hip hop
+    sk: Hip-hop
+    sl: kultura hiphopa
+    sr: хип хоп
+    sv: hiphopkultur
+    sw: Hip hop
+    tl: Hip hop
+    tr: Hip hop
+    tt: һип-һоп
+    tt-cyrl: һип-һоп
+    uk: гіпгоп
+    ur: ہپ ہاپ
+    vi: Văn hóa hip hop
+    war: Hip hop
+    wuu: 嘻哈
+    yue: Hip Hop 文化
+    zh: 嘻哈
+    zh-hant: 嘻哈
 ---
-
 # [[Hip_Hop_Culture]] 
 
 #is_/same_as :: [[WikiData/WD~Hip_hop_culture,1132127|WD~Hip_hop_culture,1132127]] 

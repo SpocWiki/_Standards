@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Vaejovidae
+- Vaejovidae
+- 狱神蝎科
+- 獄神蠍科
 title: Vaejovidae
+has_id_wikidata: Q136927
+dv_has_:
+  name_:
+    an: Vaejovidae
+    ast: Vaejovidae
+    bg: Vaejovidae
+    ca: Vaejovidae
+    ceb: Vaejovidae
+    de: Vaejovidae
+    en: Vaejovidae
+    eo: Vaejovidae
+    es: Vaejovidae
+    eu: Vaejovidae
+    ext: Vaejovidae
+    fi: Vaejovidae
+    fr: Vaejovidae
+    ga: Vaejovidae
+    gl: Vaejovidae
+    ia: Vaejovidae
+    ie: Vaejovidae
+    io: Vaejovidae
+    it: Vaejovidae
+    la: Vaejovidae
+    mul: Vaejovidae
+    nb: Vaejovidae
+    nl: Vaejovidae
+    oc: Vaejovidae
+    pl: Vaejovidae
+    pt: Vaejovidae
+    pt-br: Vaejovidae
+    ro: Vaejovidae
+    ru: Vaejovidae
+    sq: Vaejovidae
+    tr: Vaejovidae
+    uk: Vaejovidae
+    vi: Vaejovidae
+    vo: Vaejovidae
+    war: Vaejovidae
+    zh: 狱神蝎科
+    zh-cn: 狱神蝎科
+    zh-hans: 狱神蝎科
+    zh-tw: 獄神蠍科
 ---
-
 # [[Vaejovidae]] 
 
 ![Pseudouroctonus apacheanus](Vaejovidae/vaejovidae.jpg) 

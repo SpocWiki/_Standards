@@ -1,22 +1,83 @@
 ---
 aliases:
-  - Elektrisches Netz
-  - electrical grid
-  - electricity network
-  - Electrical_Grid
-  - Electrical Grid
+- electrical grid
+- Electrical_Grid
+- electricity network
+- Elektr tarmogʻi
+- elektra reto
+- elektriciteitsnet
+- elektricitetsforsyningsnet
+- Elektrik şebekesi
+- Elektrisches Netz
+- elektrivõrk
+- elektrizačná sústava
+- elektrizační soustava
+- Električne mreže
+- električno omrežje
+- elektroenergetski sistem
+- Elektroenergetski sustav
+- elnett
+- elnät
+- Grid elektrik
+- mogalra leictreach
+- mạng lưới truyền tải điện
+- Overføringsnett
+- red eléctrica
+- rede eléctrica
+- rede elétrica
+- rede llétrica
+- Rej elétrica
+- rete elettrica
+- rezo elektrik
+- rețea electrică
+- Rrjeti elektrik
+- réseau électrique
+- Sare elektriko
+- sieć elektroenergetyczna
+- sistem kelistrikan
+- Stromnetz
+- Stroumnetz
+- sähköverkko
+- villamos hálózat
+- xarxa elèctrica
+- šleađgafierpmádat
+- Ηλεκτρικό δίκτυο
+- електрична мрежа
+- Електричне мреже
+- електроснабдителна мрежа
+- мережа живлення
+- Электр Желісі
+- электр тармагы
+- электрическая сеть
+- Электро тетел
+- электрычная сетка
+- רשת חשמל
+- تورین برقی
+- شبكة كهربائية
+- विद्युत ग्रिड
+- वीजवहन जाळे
+- ഗാന്ധിനഗർ സെക്കന്റ് സ്ട്രീറ്റ്
+- กริด
+- ဂရစ်လျှပ်စစ်စနစ်
+- 輸電網絡
+- 輸電網路
+- 输电网络
+- 输电网路
+- 電力系統
+- 電網
+- 전력 계통
 has_id_wikidata: Q1096907
 has_part_s_:
-  - '[[_Standards/WikiData/WD~electrical_substation,174814]]'
-  - '[[_Standards/WikiData/WD~distribution_substation,478986]]'
-  - '[[_Standards/WikiData/WD~grid_control_centre,2230662]]'
+- '[[_Standards/WikiData/WD~electrical_substation,174814]]'
+- '[[_Standards/WikiData/WD~distribution_substation,478986]]'
+- '[[_Standards/WikiData/WD~grid_control_centre,2230662]]'
 has_use:
-  - '[[_Standards/WikiData/WD~electric_power_transmission,200928]]'
-  - '[[_Standards/WikiData/WD~electric_power_distribution,844861]]'
+- '[[_Standards/WikiData/WD~electric_power_transmission,200928]]'
+- '[[_Standards/WikiData/WD~electric_power_distribution,844861]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~network,1900326]]'
-  - '[[_Standards/WikiData/WD~facility,13226383]]'
-  - '[[_Standards/WikiData/WD~energy_infrastructure,56397239]]'
+- '[[_Standards/WikiData/WD~network,1900326]]'
+- '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~energy_infrastructure,56397239]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 facet_of: '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
@@ -24,8 +85,76 @@ OmegaWiki_Defined_Meaning: 716304
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Itzalaldiak.webm
 IEV_number: 601-01-02
 Commons_category: Power grids
+dv_has_:
+  name_:
+    ar: شبكة كهربائية
+    ast: rede llétrica
+    be-tarask: электрычная сетка
+    bg: електроснабдителна мрежа
+    bs: elektroenergetski sistem
+    ca: xarxa elèctrica
+    cs: elektrizační soustava
+    cv: Электро тетел
+    da: elektricitetsforsyningsnet
+    de: Stromnetz
+    el: Ηλεκτρικό δίκτυο
+    en: electrical grid
+    eo: elektra reto
+    es: red eléctrica
+    et: elektrivõrk
+    eu: Sare elektriko
+    fa: تورین برقی
+    fi: sähköverkko
+    fr: réseau électrique
+    ga: mogalra leictreach
+    gl: rede eléctrica
+    he: רשת חשמל
+    hi: विद्युत ग्रिड
+    hr: Elektroenergetski sustav
+    ht: rezo elektrik
+    hu: villamos hálózat
+    id: sistem kelistrikan
+    it: rete elettrica
+    ja: 電力系統
+    kk: Электр Желісі
+    ko: 전력 계통
+    ky: электр тармагы
+    lb: Stroumnetz
+    mk: електрична мрежа
+    ml: ഗാന്ധിനഗർ സെക്കന്റ് സ്ട്രീറ്റ്
+    mr: वीजवहन जाळे
+    ms: Grid elektrik
+    my: ဂရစ်လျှပ်စစ်စနစ်
+    nb: Overføringsnett
+    nl: elektriciteitsnet
+    nn: elnett
+    pl: sieć elektroenergetyczna
+    pms: Rej elétrica
+    pt: rede elétrica
+    ro: rețea electrică
+    ru: электрическая сеть
+    se: šleađgafierpmádat
+    sh: elektroenergetski sistem
+    sk: elektrizačná sústava
+    sl: električno omrežje
+    sq: Rrjeti elektrik
+    sr: Електричне мреже
+    sr-ec: Електричне мреже
+    sr-el: Električne mreže
+    sv: elnät
+    th: กริด
+    tr: Elektrik şebekesi
+    uk: мережа живлення
+    uz: Elektr tarmogʻi
+    vi: mạng lưới truyền tải điện
+    wuu: 输电网络
+    yue: 電網
+    zh: 輸電網路
+    zh-cn: 输电网络
+    zh-hans: 输电网路
+    zh-hant: 輸電網路
+    zh-hk: 輸電網絡
 ---
-
 # [[Electrical_Grid]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electrical_grid,1096907|WD~Electrical_grid,1096907]] 

@@ -1,21 +1,185 @@
 ---
 aliases:
+- Bonu stari
+- buresbirgenriika
+- estado de bem-estar social
+- Estado del bienestar
+- Estado social
+- estat del benestar
+- estáu del bientar
+- gerovės valstybė
+- Gwladwriaeth les
+- heaoluriik
+- Hukmeta jînfirehiyê
+- hyvinvointivaltio
+- Ijtimoiy davlat
+- jóléti állam
+- Labklājības valsts
+- negara kebajikan
+- Negara kesejahteraan
+- nhà nước phúc lợi
+- Ongizate-estatu
+- państwo dobrobytu
+- pueʹrrvââjjamvaldia
+- pyereestvaijeemstaatâ
+- Refah devleti
+- Skrbnička država
+- sociala ŝtato
+- socialna država
+- Socijalna država
+- sociální stát
+- Sosial dövlət
+- Stato sociala
+- stato sociale
+- statul bunăstării
+- stát leasa
+- Subsidium sociale
+- velferdsstat
+- velfærdsstat
+- verzorgingsstaat
+- Verzörgingsstaot
+- välfärdssamhälle
+- Vælferðarríki
+- welfare state
+- Wohlfahrtsstaat
+- álkkádusstáhtta
+- État-providence
+- Ònderstant
+- štát blahobytu
+- κράτος πρόνοιας
+- государство всеобщего благосостояния
+- дзяржава дабрабыту
+- Иҗтимагый дәүләт
+- Соціальна держава
+- социјална држава
+- социјална заштита
+- Социалдык мамлекет
+- Социална държава
+- Սոցիալական պետություն
+- מדינת רווחה
+- خیریه دولت
+- دولة رفاهية
+- دولة رفاهيه
+- دەوڵەتی خۆشبژیوی
+- رفاه
+- رفاه دؤولتی
+- فلاحي رياست
+- فلاحی ریاست
+- نݢارا کباجيقن
+- कल्याणकारी राज्य
+- কল্যাণ রাষ্ট্র
+- ക്ഷേമരാഷ്ട്രം
+- รัฐสวัสดิการ
+- საყოველთაო კეთილდღეობის სახელმწიფო
+- 福利国家
+- 福利國
+- 福利國家
+- 福祉国家論
+- 복지국가
 has_id_wikidata: Q192451
 instance_of:
-  - "[[_Standards/WikiData/WD~concept,151885]]"
-  - "[[_Standards/WikiData/WD~type_of_policy,96251375]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~social_state,619610]]"
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_state,619610]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~social_policy,828395]]"
-  - "[[_Standards/WikiData/WD~economic_support,11497309]]"
-subclass_of: "[[_Standards/WikiData/WD~state_model,2325086]]"
-described_by_source: "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[_Standards/WikiData/WD~social_policy,828395]]'
+- '[[_Standards/WikiData/WD~economic_support,11497309]]'
+subclass_of: '[[_Standards/WikiData/WD~state_model,2325086]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Library_of_Congress_Classification: JC479
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Signing%20Of%20The%20Social%20Security%20Act.jpg
 Commons_category: Welfare state
-Dewey_Decimal_Classification: "361.65"
+Dewey_Decimal_Classification: 361.65
+dv_has_:
+  name_:
+    ar: دولة رفاهية
+    arz: دولة رفاهيه
+    ast: estáu del bientar
+    az: Sosial dövlət
+    azb: رفاه دؤولتی
+    be-tarask: дзяржава дабрабыту
+    bg: Социална държава
+    bn: কল্যাণ রাষ্ট্র
+    ca: estat del benestar
+    ckb: دەوڵەتی خۆشبژیوی
+    cs: sociální stát
+    cy: Gwladwriaeth les
+    da: velfærdsstat
+    de: Wohlfahrtsstaat
+    el: κράτος πρόνοιας
+    en: welfare state
+    en-ca: Welfare state
+    en-gb: welfare state
+    eo: sociala ŝtato
+    es: Estado del bienestar
+    et: heaoluriik
+    eu: Ongizate-estatu
+    fa: رفاه
+    fi: hyvinvointivaltio
+    fo: Vælferðarríki
+    fr: État-providence
+    ga: stát leasa
+    gl: Estado social
+    he: מדינת רווחה
+    hi: कल्याणकारी राज्य
+    hr: Skrbnička država
+    hu: jóléti állam
+    hy: Սոցիալական պետություն
+    id: Negara kesejahteraan
+    io: Stato sociala
+    it: stato sociale
+    ja: 福祉国家論
+    ka: საყოველთაო კეთილდღეობის სახელმწიფო
+    ko: 복지국가
+    ku: Hukmeta jînfirehiyê
+    ky: Социалдык мамлекет
+    la: Subsidium sociale
+    li: Verzörgingsstaot
+    lt: gerovės valstybė
+    lv: Labklājības valsts
+    mk: социјална држава
+    ml: ക്ഷേമരാഷ്ട്രം
+    ms: negara kebajikan
+    ms-arab: نݢارا کباجيقن
+    nb: velferdsstat
+    nl: verzorgingsstaat
+    nn: Velferdsstat
+    oc: Estat del benestar
+    pap: Ònderstant
+    pl: państwo dobrobytu
+    ps: خیریه دولت
+    pt: estado de bem-estar social
+    pt-br: Estado de bem-estar social
+    ro: statul bunăstării
+    ru: государство всеобщего благосостояния
+    scn: Bonu stari
+    sd: فلاحي رياست
+    se: buresbirgenriika
+    sh: Socijalna država
+    sk: štát blahobytu
+    sl: socialna država
+    smj: álkkádusstáhtta
+    smn: pyereestvaijeemstaatâ
+    sms: pueʹrrvââjjamvaldia
+    sr: социјална заштита
+    sv: välfärdssamhälle
+    th: รัฐสวัสดิการ
+    tr: Refah devleti
+    tt: Иҗтимагый дәүләт
+    uk: Соціальна держава
+    ur: فلاحی ریاست
+    uz: Ijtimoiy davlat
+    vi: nhà nước phúc lợi
+    wuu: 福利国家
+    yue: 福利國
+    zh: 福利國家
+    zh-cn: 福利国家
+    zh-hans: 福利国家
+    zh-hant: 福利國家
+    zh-hk: 福利國家
+    zh-sg: 福利国家
+    zh-tw: 福利國家
 ---
-
 # [[Welfare_State]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Welfare_state,192451|WD~Welfare_state,192451]]  

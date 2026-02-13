@@ -1,21 +1,125 @@
 ---
 aliases:
-  - Photosynthese
-  - Photosynthesis
+- ahotakakame
+- co-haaghey sollysh
+- ekitangattisa
+- ffotosynthesis
+- foto-cho-chur
+- fotosentez
+- fotosenteze
+- Fotosentèz
+- fotosintese
+- fotosintesi
+- fotosintesi clorofilliana
+- Fotosintesis
+- fotosintexi
+- fotosintez
+- fotosinteza
+- fotosintezenn
+- fotosintezo
+- fotosinteză
+- fotosintezė
+- fotosintèsi
+- Fotosintèsis
+- fotosintēze
+- fotossíntese
+- fotosyntees
+- fotosynteesi
+- fotosynteeʹs
+- fotosyntes
+- fotosyntesa
+- fotosyntese
+- fotosynteza
+- fotosynteze
+- fotosynthees
+- fotosynthese
+- fotosyntéza
+- fotoszintézis
+- Fotosìntesi
+- fotosíntese
+- fotosíntesi
+- fotosíntesis
+- Fotosüntees
+- fuotėsintezė
+- fótaisintéis
+- habka samayska cuntada
+- I-photosynthesis
+- inti wayllay
+- kng-ha̍p-sêng
+- Lilo Agbara Itansan Oorun (Photosynthesis)
+- ljóstillífun
+- Photosynthees
+- Photosynthes
+- Photosynthese
+- Photosynthesis
+- photosynthèse
+- potosintesis
+- potosintésis
+- Qophifa ykn footosinteesi
+- quang hợp
+- Rukotsvanidzo muRujeko
+- tesapemoñanga
+- usanisinuru
+- Usanisinuru (ndiyo photosinfesisi)
+- φωτοσύνθεση
+- фотасінтэз
+- фотасынтэз
+- фотосінтеза
+- фотосинтез
+- фотосинтеза
+- ֆոտոսինթեզ
+- פאטאסינטעז
+- פוטוסינתזה
+- تركيب ضوئي
+- ضیائی تالیف
+- ضیائی تالیف (فوٹوسنتھیسز)
+- فتوسنتز
+- فوتوسىنتېز رولى
+- فوتوسینتز
+- فوطوسانتيز
+- فوٹوسنتھیسز
+- فوټوسينتيسز (د لمر د وړانګو په مرسته د موادو ترکيب او يوځای کول)
+- فۆتۆسەنتێز
+- ڦوٽوسنٿيسس
+- प्रकाश संश्लेषण
+- प्रकाश-संश्लेषण
+- प्रकाशसंश्लेषण
+- प्रभासंयोगः
+- फोटोसिन्थेसिस
+- সালোক সংশ্লেষণ
+- সালোকসংশ্লেষণ
+- ਫ਼ੋਟੋਸਿੰਥਸਿਸ
+- પ્રકાશસંશ્લેષણ
+- ஒளித்தொகுப்பு
+- కిరణజన్య సంయోగ క్రియ
+- ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ
+- പ്രകാശസംശ്ലേഷണം
+- ප්රභාසංශ්ලේෂණය
+- การสังเคราะห์ด้วยแสง
+- ການສັງເຄາະແສງ
+- འོད་སྦྱོར་ནུས་པ།
+- ဖိုတိုဆင်းသီးဆစ်
+- လျးသံယိုဂ်
+- အလင်းမှီစုဖွဲ့ခြင်း
+- ფოტოსინთეზი
+- ᎤᎦᎵᏒ ᎤᏩᏂᏗᏍᎩ
+- 光合作用
+- 光合成
+- 광합성
 has_id_wikidata: Q11982
 Commons_category: Photosynthesis
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 Dewey_Decimal_Classification: 572.46
 exact_match: http://purl.obolibrary.org/obo/GO_0015979
 facet_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
 has_characteristic: '[[_Standards/WikiData/WD~photosynthetic_efficiency,7187915]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Calvin_cycle,220389]]'
-  - '[[_Standards/WikiData/WD~light-dependent_reactions,862876]]'
-  - '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]'
+- '[[_Standards/WikiData/WD~Calvin_cycle,220389]]'
+- '[[_Standards/WikiData/WD~light-dependent_reactions,862876]]'
+- '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]'
 history_of_topic: '[[_Standards/WikiData/WD~Evolution_of_photosynthesis,17012783]]'
 IEV_number: 845-26-078
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaves%20in%20iran%20%D8%A8%D8%B1%DA%AF%20%DA%AF%D9%84%D9%87%D8%A7%20%D9%88%20%DA%AF%DB%8C%D8%A7%D9%87%D8%A7%D9%86%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%2032.jpg
@@ -23,32 +127,199 @@ instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 Krugosvet_article: biologiya/fotosintez
 Library_of_Congress_Classification: QR88.5
 MeSH_tree_code:
-  - G02.111.158.937
-  - G02.111.669.700
-  - G02.740.921
-  - G03.191.937
-  - G03.493.700
-  - G03.800.700
-  - G15.568
+- G02.111.158.937
+- G02.111.669.700
+- G02.740.921
+- G03.191.937
+- G03.493.700
+- G03.800.700
+- G15.568
 OmegaWiki_Defined_Meaning: 2786
 operator:
-  - '[[_Standards/WikiData/WD~phytoplankton,184755]]'
-  - '[[_Standards/WikiData/WD~plant,756]]'
-  - '[[_Standards/WikiData/WD~algae,37868]]'
+- '[[_Standards/WikiData/WD~phytoplankton,184755]]'
+- '[[_Standards/WikiData/WD~plant,756]]'
+- '[[_Standards/WikiData/WD~algae,37868]]'
 product_material_or_service_produced_or_provided:
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
-  - '[[_Standards/WikiData/WD~glucose,37525]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~glucose,37525]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20en.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Photosynthesis%20equation.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20photosynthesis%20overview.svg
 subclass_of: '[[_Standards/WikiData/WD~cell_metabolism,13416689]]'
 uses:
-  - '[[_Standards/WikiData/WD~sunlight,193788]]'
-  - '[[_Standards/WikiData/WD~water,283]]'
-  - '[[_Standards/WikiData/WD~carbon_dioxide,1997]]'
+- '[[_Standards/WikiData/WD~sunlight,193788]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~carbon_dioxide,1997]]'
+dv_has_:
+  name_:
+    af: fotosintese
+    an: fotosintesi
+    ar: تركيب ضوئي
+    ary: فوطوسانتيز
+    as: সালোক সংশ্লেষণ
+    ast: fotosíntesis
+    av: Фотосинтез
+    az: fotosintez
+    azb: فوتوسینتز
+    ba: фотосинтез
+    bcl: Potosintesis
+    be: фотасінтэз
+    be-tarask: фотасынтэз
+    bg: фотосинтеза
+    bho: प्रकाश संश्लेषण
+    bn: সালোকসংশ্লেষণ
+    bo: འོད་སྦྱོར་ནུས་པ།
+    br: fotosintezenn
+    bs: fotosinteza
+    btm: Potosintesis
+    bxr: фотосинтез
+    ca: fotosíntesi
+    ce: Фотосинтез
+    ceb: photosynthesis
+    chr: ᎤᎦᎵᏒ ᎤᏩᏂᏗᏍᎩ
+    ckb: فۆتۆسەنتێز
+    crh: fotosintez
+    cs: fotosyntéza
+    cy: ffotosynthesis
+    da: fotosyntese
+    de: Photosynthese
+    diq: fotosenteze
+    el: φωτοσύνθεση
+    en: photosynthesis
+    eo: fotosintezo
+    es: fotosíntesis
+    et: fotosüntees
+    eu: fotosintesi
+    ext: fotosíntesi
+    fa: فتوسنتز
+    fi: fotosynteesi
+    fr: photosynthèse
+    frr: photosynthees
+    fy: fotosynteze
+    ga: fótaisintéis
+    gcr: Fotosentèz
+    gd: foto-cho-chur
+    gl: fotosíntese
+    gn: tesapemoñanga
+    gor: Fotosintesis
+    gsw: Photosynthes
+    gu: પ્રકાશસંશ્લેષણ
+    gv: co-haaghey sollysh
+    ha: Photosynthesis
+    he: פוטוסינתזה
+    hi: प्रकाश-संश्लेषण
+    hif: photosynthesis
+    hr: fotosinteza
+    ht: fotosentèz
+    hu: fotoszintézis
+    hy: ֆոտոսինթեզ
+    ia: photosynthese
+    id: fotosintesis
+    ilo: potosintesis
+    inh: Фотосинтез
+    io: fotosintezo
+    is: ljóstillífun
+    it: fotosintesi clorofilliana
+    ja: 光合成
+    jv: fotosintesis
+    ka: ფოტოსინთეზი
+    kaa: Fotosintez
+    kk: фотосинтез
+    kn: ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ
+    ko: 광합성
+    ku: fotosentez
+    ku-latn: fotosentez
+    ky: фотосинтез
+    la: photosynthesis
+    lez: фотосинтез
+    lg: ekitangattisa
+    li: fotosynthees
+    lmo: Fotosintesi
+    lo: ການສັງເຄາະແສງ
+    lt: fotosintezė
+    lv: fotosintēze
+    lzh: 光合作用
+    mad: Fotosintèsis
+    mai: प्रकाश-संश्लेषण
+    mg: photosynthesis
+    mi: ahotakakame
+    mk: фотосинтеза
+    ml: പ്രകാശസംശ്ലേഷണം
+    mn: фотосинтез
+    mnw: လျးသံယိုဂ်
+    mr: प्रकाशसंश्लेषण
+    ms: fotosintesis
+    my: အလင်းမှီစုဖွဲ့ခြင်း
+    nan: kng-ha̍p-sêng
+    nb: fotosyntese
+    nds: Photosynthees
+    nds-nl: fotosyntese
+    ne: प्रकाश संश्लेषण
+    new: फोटोसिन्थेसिस
+    nl: fotosynthese
+    nn: fotosyntese
+    oc: fotosintèsi
+    om: Qophifa ykn footosinteesi
+    pa: ਫ਼ੋਟੋਸਿੰਥਸਿਸ
+    pam: fotosintesis
+    pcm: Fotosintesis
+    pl: fotosynteza
+    pms: Fotosìntesi
+    pnb: فوٹوسنتھیسز
+    ps: فوټوسينتيسز (د لمر د وړانګو په مرسته د موادو ترکيب او يوځای کول)
+    pt: fotossíntese
+    qu: inti wayllay
+    rki: ဖိုတိုဆင်းသီးဆစ်
+    ro: fotosinteză
+    ru: фотосинтез
+    rue: фотосінтеза
+    sa: प्रभासंयोगः
+    sah: фотосинтез
+    sco: photosynthesis
+    sd: ڦوٽوسنٿيسس
+    se: fotosyntesa
+    sgs: fuotėsintezė
+    sh: fotosinteza
+    si: ප්රභාසංශ්ලේෂණය
+    sk: fotosyntéza
+    skr: ضیائی تالیف (فوٹوسنتھیسز)
+    sl: fotosinteza
+    smn: fotosyntees
+    sms: fotosynteeʹs
+    sn: Rukotsvanidzo muRujeko
+    so: habka samayska cuntada
+    sq: fotosinteza
+    sr: фотосинтеза
+    sr-ec: фотосинтеза
+    su: potosintésis
+    sv: fotosyntes
+    sw: usanisinuru
+    ta: ஒளித்தொகுப்பு
+    te: కిరణజన్య సంయోగ క్రియ
+    tg: фотосинтез
+    th: การสังเคราะห์ด้วยแสง
+    tl: potosintesis
+    tr: fotosentez
+    tt: фотосинтез
+    tum: Usanisinuru (ndiyo photosinfesisi)
+    udm: фотосинтез
+    ug: فوتوسىنتېز رولى
+    uk: фотосинтез
+    ur: ضیائی تالیف
+    uz: fotosintez
+    vec: fotosintexi
+    vep: fotosintez
+    vi: quang hợp
+    vro: Fotosüntees
+    war: fotosintesis
+    wuu: 光合作用
+    xh: I-photosynthesis
+    yi: פאטאסינטעז
+    yo: Lilo Agbara Itansan Oorun (Photosynthesis)
+    yue: 光合作用
+    zh: 光合作用
 ---
-
 # [[Photosynthesis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Photosynthesis,11982|WD~Photosynthesis,11982]] 

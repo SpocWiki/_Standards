@@ -1,4 +1,122 @@
-
+---
+has_id_wikidata: Q685772
+dv_has_:
+  name_:
+    an: Caviidae
+    ar: كابيائية
+    arz: كابيائيه
+    ast: Caviidae
+    avk: bukoleem
+    az: Caviidae
+    azb: کاویده
+    be-tarask: грызухавыя
+    bg: свинчета
+    br: Caviidae
+    ca: càvids
+    ceb: Caviidae
+    cs: morčatovití
+    de: Meerschweinchen
+    el: Καβιίδες
+    en: Caviidae
+    eo: Kaviedoj
+    es: Caviidae
+    eu: Caviidae
+    ext: Caviidae
+    fa: خوگچگان هندی
+    fi: marsut
+    fr: Caviidae
+    frr: Maarswenkin
+    fy: Kavia-eftigen
+    ga: Caviidae
+    gl: Cavíidos
+    he: קבייתיים
+    hu: tengerimalacfélék
+    hy: ծովախոզուկներ
+    ia: Caviidae
+    id: Caviidae
+    ie: Caviidae
+    io: Caviidae
+    it: Caviidae
+    ja: テンジクネズミ科
+    ka: ზღვის გოჭისებრნი
+    ko: 천축서과
+    la: Caviidae
+    lt: Jūrų kiaulytės
+    lv: Jūrascūciņu dzimta
+    mk: морски прасиња
+    ml: കാവിഡേ
+    mul: Caviidae
+    nb: Marsvinfamilien
+    nl: cavia-achtigen
+    nn: Marsvinfamilien
+    oc: Caviidae
+    pl: kawiowate
+    pnb: کاوی
+    pt: Caviidae
+    pt-br: Caviidae
+    ro: Caviidae
+    ru: свинковые
+    sk: Morčatovité
+    sl: morski prašički
+    sms: maarsuh
+    sq: Caviidae
+    sr: Caviidae
+    sr-ec: Цавиидае
+    sr-el: Caviidae
+    sv: marsvin
+    tr: Caviidae
+    uk: кавієві
+    vi: Họ Chuột lang
+    vls: Cavia-achtign
+    vo: Caviidae
+    war: Caviidae
+    zh: 豚鼠科
+    zh-cn: 豚鼠科
+    zh-hans: 豚鼠科
+    zh-tw: 豚鼠科
+aliases:
+- bukoleem
+- cavia-achtigen
+- Cavia-achtign
+- Caviidae
+- Cavíidos
+- càvids
+- Họ Chuột lang
+- Jūrascūciņu dzimta
+- Jūrų kiaulytės
+- Kavia-eftigen
+- Kaviedoj
+- kawiowate
+- maarsuh
+- Maarswenkin
+- marsut
+- marsvin
+- Marsvinfamilien
+- Meerschweinchen
+- morski prašički
+- Morčatovité
+- morčatovití
+- tengerimalacfélék
+- Καβιίδες
+- грызухавыя
+- кавієві
+- морски прасиња
+- свинковые
+- свинчета
+- Цавиидае
+- ծովախոզուկներ
+- קבייתיים
+- خوگچگان هندی
+- كابيائية
+- كابيائيه
+- کاوی
+- کاویده
+- കാവിഡേ
+- ზღვის გოჭისებრნი
+- テンジクネズミ科
+- 豚鼠科
+- 천축서과
+---
 # [[Caviidae]] 
 
 #has_/parent_taxon :: [[../Caviomorpha|Caviomorpha]]  

@@ -1,21 +1,62 @@
 ---
 aliases:
-  - cheddar
-  - Cheddar_Cheese
-  - Cheddar Cheese
+- Caseus Cheddarensis
+- Caws Cheddar
+- cheddar
+- Cheddar (keso)
+- Cheddar Cheese
+- Cheddar gazta
+- Cheddar pishloq
+- Cheddar-ostur
+- Cheddari juust
+- Cheddarkaas
+- cheddarost
+- Cheddar_Cheese
+- céadar
+- Keju Cheddar
+- Kèju cheddar
+- Kéju Cédar
+- Pho mát Cheddar
+- queso Cheddar
+- Quesu cheddar
+- Ĉedder
+- čedar
+- Čedar sir
+- Čedars
+- Čederis
+- Τσένταρ
+- Чедар
+- Чеддер
+- Чеддер (чăкăт)
+- Чедър
+- чэдар
+- Չեդեր
+- צ'דר
+- جبنة تشيدر
+- جبنه شيدر  Cheddar Cheese
+- پنیر چدار
+- ಚೆಡರ್ ಚೀಸ್
+- เชดดาร์ชีส
+- ჩედერი
+- チェダー・チーズ
+- 切达干酪
+- 切達乾酪
+- 切達起司
+- 車打芝士
+- 체다 치즈
 has_id_wikidata: Q217525
 subclass_of:
-  - '[[_Standards/WikiData/WD~dairy_product,185217]]'
-  - "[[_Standards/WikiData/WD~cow's_milk_cheese,3088299]]"
-  - '[[_Standards/WikiData/WD~British_cheese,19361017]]'
+- '[[_Standards/WikiData/WD~dairy_product,185217]]'
+- "[[_Standards/WikiData/WD~cow's_milk_cheese,3088299]]"
+- '[[_Standards/WikiData/WD~British_cheese,19361017]]'
 different_from: '[[_Standards/WikiData/WD~Cheddar,415379]]'
 named_after: '[[_Standards/WikiData/WD~Cheddar,1019479]]'
 made_from_material: "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
 has_part_s_: '[[_Standards/WikiData/WD~milk,8495]]'
 location_of_creation: '[[_Standards/WikiData/WD~Somerset,23157]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~England,21]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 food_energy: 410
 OmegaWiki_Defined_Meaning: 537452
 USDA_NDB_number: 01009
@@ -29,16 +70,86 @@ Amazon_com_browse_node: 6520458011
 P8189: 987007285077905171
 UMLS_CUI: C0452767
 DPLA_subject_term:
-  - Cheddar (Fromage)
-  - Cheddar cheese
+- Cheddar (Fromage)
+- Cheddar cheese
 Commons_category: Cheddar cheese
 Wolfram_Language_entity_code:
-  - Entity["Food", "CheddarCheese::238v3"]
-  - Entity["Food", "CheddarCheese::fbpx8"]
-  - Entity["Food", "CheddarCheese::n9kv9"]
+- Entity["Food", "CheddarCheese::238v3"]
+- Entity["Food", "CheddarCheese::fbpx8"]
+- Entity["Food", "CheddarCheese::n9kv9"]
 Library_of_Congress_Classification: SF272.C5
+dv_has_:
+  name_:
+    af: Cheddarkaas
+    ar: جبنة تشيدر
+    arz: جبنه شيدر  Cheddar Cheese
+    ast: Quesu cheddar
+    be-tarask: чэдар
+    bg: Чедър
+    ca: Cheddar
+    cs: čedar
+    cv: Чеддер (чăкăт)
+    cy: Caws Cheddar
+    da: Cheddarost
+    de: Cheddar
+    de-ch: Cheddar
+    el: Τσένταρ
+    en: Cheddar cheese
+    en-ca: Cheddar cheese
+    en-gb: Cheddar cheese
+    eo: Ĉedder
+    es: queso Cheddar
+    et: Cheddari juust
+    eu: Cheddar gazta
+    fa: پنیر چدار
+    fi: cheddar
+    fr: cheddar
+    ga: céadar
+    gl: Cheddar
+    he: צ'דר
+    hu: cheddar
+    hy: Չեդեր
+    id: Keju Cheddar
+    is: Cheddar-ostur
+    it: cheddar
+    ja: チェダー・チーズ
+    jv: Kèju cheddar
+    ka: ჩედერი
+    kn: ಚೆಡರ್ ಚೀಸ್
+    ko: 체다 치즈
+    la: Caseus Cheddarensis
+    lt: Čederis
+    lv: Čedars
+    mk: Чедар
+    ms: Keju Cheddar
+    nb: cheddarost
+    nl: cheddar
+    pl: Cheddar
+    pt: cheddar
+    pt-br: Cheddar
+    ru: Чеддер
+    sk: Čedar
+    sl: čedar
+    sr: Čedar sir
+    su: Kéju Cédar
+    sv: Cheddar
+    te: cheddar
+    th: เชดดาร์ชีส
+    tr: Cheddar
+    uk: Чеддер
+    uz: Cheddar pishloq
+    vi: Pho mát Cheddar
+    war: Cheddar (keso)
+    wuu: 切达干酪
+    yue: 車打芝士
+    zh: 車打芝士
+    zh-cn: 切达干酪
+    zh-hans: 切达干酪
+    zh-hant: 切達乾酪
+    zh-hk: 車打芝士
+    zh-sg: 切达干酪
+    zh-tw: 切達起司
 ---
-
 # [[Cheddar_Cheese]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Cheddar_cheese,217525|WD~Cheddar_cheese,217525]] 

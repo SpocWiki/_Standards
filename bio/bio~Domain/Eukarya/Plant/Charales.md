@@ -1,9 +1,73 @@
 ---
 aliases:
-  - Charales
+- Charales
+- Kransalger
+- Maurabragiečiai
+- Ramienicowce
+- Харові
+- נאווניתאים
+- كاريات
+- کارایان
+- 車軸藻類
+- 輪藻目
+- 轮藻目
+- 차축조과
 title: Charales
+has_id_wikidata: Q14920463
+dv_has_:
+  name_:
+    an: Charales
+    ar: كاريات
+    ast: Charales
+    az: Charales
+    bg: Charales
+    ca: Charales
+    ceb: Charales
+    de: Charales
+    en: Charales
+    en-us: Charales
+    eo: Charales
+    es: Charales
+    eu: Charales
+    ext: Charales
+    fa: کارایان
+    fi: Charales
+    fr: Charales
+    ga: Charales
+    gl: Charales
+    ha: Charales
+    he: נאווניתאים
+    hr: Charales
+    ia: Charales
+    ie: Charales
+    ig: Charales
+    io: Charales
+    it: Charales
+    ja: 車軸藻類
+    ko: 차축조과
+    la: Charales
+    lt: Maurabragiečiai
+    mul: Charales
+    nb: Kransalger
+    nl: Charales
+    oc: Charales
+    pcm: Charales
+    pl: Ramienicowce
+    pt: Charales
+    pt-br: Charales
+    ro: Charales
+    ru: Charales
+    sq: Charales
+    uk: Харові
+    vi: Charales
+    vo: Charales
+    war: Charales
+    zh: 轮藻目
+    zh-cn: 轮藻目
+    zh-hans: 轮藻目
+    zh-hant: 輪藻目
+    zh-tw: 輪藻目
 ---
-
 # [[Charales]] 
 
 #is_a/bio-Phylum  

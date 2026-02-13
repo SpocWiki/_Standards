@@ -1,9 +1,61 @@
 ---
 aliases:
-  - Limnodynastinae
+- Limnodynastidae
+- Limnodynastinae
+- mocsárjáróbéka-félék
+- Myobatrachidae
+- Nahatʼeʼiitsoh Bikéyahdę́ę́ʼ chʼał
+- לימנודינסטיים
+- 汀蟾科
+- 림노디나스테스과
 title: Limnodynastinae
+has_id_wikidata: Q55479
+dv_has_:
+  name_:
+    an: Limnodynastidae
+    ast: Limnodynastidae
+    bg: Limnodynastidae
+    ca: Limnodynastidae
+    ceb: Myobatrachidae
+    de: Limnodynastidae
+    en: Limnodynastidae
+    eo: Limnodynastidae
+    es: Limnodynastidae
+    eu: Limnodynastidae
+    ext: Limnodynastidae
+    fi: Limnodynastidae
+    fr: Limnodynastidae
+    ga: Limnodynastidae
+    gl: Limnodynastidae
+    he: לימנודינסטיים
+    hu: mocsárjáróbéka-félék
+    ia: Limnodynastidae
+    ie: Limnodynastidae
+    io: Limnodynastidae
+    it: Limnodynastidae
+    ko: 림노디나스테스과
+    la: Limnodynastidae
+    mul: Limnodynastidae
+    nl: Limnodynastidae
+    nv: Nahatʼeʼiitsoh Bikéyahdę́ę́ʼ chʼał
+    oc: Limnodynastidae
+    pl: Limnodynastidae
+    pt: Limnodynastidae
+    pt-br: Limnodynastidae
+    ro: Limnodynastidae
+    ru: Limnodynastidae
+    sq: Limnodynastidae
+    sv: Myobatrachidae
+    tr: Limnodynastidae
+    uk: Limnodynastidae
+    vi: Limnodynastidae
+    vo: Limnodynastidae
+    war: Myobatrachidae
+    zh: 汀蟾科
+    zh-cn: 汀蟾科
+    zh-hans: 汀蟾科
+    zh-tw: 汀蟾科
 ---
-
 # [[Limnodynastinae]] 
 
 ![limnodynastes](Limnodynastinae/limnodynastes.jpg) 

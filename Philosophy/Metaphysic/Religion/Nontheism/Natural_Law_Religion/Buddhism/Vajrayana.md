@@ -1,17 +1,59 @@
 ---
 aliases:
-  - वज्रयान
-  - Mantrayāna
-  - Guhyamantrayāna
-  - Tantrayāna
-  - Indo-Tibetan Buddhism
-  - Tantric Buddhism
-  - Esoteric Buddhism
-  - Vajrayana
+- Bajrayana
+- Bodisma vajraiana
+- Bouddhisme vajrayāna
+- Boudism vajrayāna
+- Buddha Vajrayana
+- buddismo Vajrayana
+- Esoteric Buddhism
+- Guhyamantrayāna
+- Indo-Tibetan Buddhism
+- Kim cương thừa
+- Mantrayāna
+- Tantrayāna
+- Tantric Buddhism
+- Vadjrayana
+- vadzsrajána
+- Vadžrajaana
+- Vadžrajana
+- Vadžrajána
+- vadžrajāna
+- Vajrayaana
+- Vajrayana
+- Vajrayāna
+- Vađrajana
+- Vaĝrajano
+- Wadżrajana
+- Wajrayana
+- Wëdzrëyanë
+- вађрајана
+- Ваджраяна
+- וג'ריאנה
+- فاجرايانا
+- فاجرايانيه
+- وجرهیانه
+- وجریان
+- ڤاجرایانا
+- बज्रयान
+- वज्रयान
+- বজ্রযান
+- ਵਜਰਯਾਨ
+- வச்ரயான பௌத்தம்
+- వజ్రయానం
+- വജ്രയാനം
+- වජ්රයාන
+- วัชรยาน
+- တျံတြစ်အယူဝါဒ
+- ვაჯრაიანა
+- ព្រះពុទ្ធសាសនាតាមតំបន់
+- 密宗
+- 密教
+- 밀교
 has_id_wikidata: Q172175
 different_from:
-  - '[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]'
-  - '[[_Standards/WikiData/WD~Tantra_techniques,7683864]]'
+- '[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]'
+- '[[_Standards/WikiData/WD~Tantra_techniques,7683864]]'
 instance_of: '[[_Standards/WikiData/WD~yana,15489667]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Vajrayana,18996336]]'
 subclass_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
@@ -20,11 +62,105 @@ Commons_category: Vajrayana
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ghanta%20et%20Vajra%20%28British%20Museum%29%20%288697431158%29.jpg
 Stack_Exchange_tag: https://buddhism.stackexchange.com/tags/vajrayana
 Dewey_Decimal_Classification:
-  - 294.385
-  - 294.3925
+- 294.385
+- 294.3925
 OpenStreetMap_tag: denomination=vajrayana
+dv_has_:
+  name_:
+    af: Vajrayana
+    ar: فاجرايانا
+    arz: فاجرايانيه
+    bcl: Vajrayana
+    be: Ваджраяна
+    be-tarask: ваджраяна
+    bg: Ваджраяна
+    bho: वज्रयान
+    bn: বজ্রযান
+    br: Vajrayana
+    ca: Vajrayana
+    ckb: ڤاجرایانا
+    cs: Vadžrajána
+    da: Vajrayana
+    de: Vajrayana
+    en: Vajrayana
+    eo: Vaĝrajano
+    es: Vajrayāna
+    et: Vadžrajaana
+    eu: Vajrayāna
+    fa: وجرهیانه
+    fi: vajrayana
+    fr: Bouddhisme vajrayāna
+    frr: Vajrayana
+    fy: Vajrayana
+    gcr: Boudism vajrayāna
+    gl: Vajrayana
+    ha: Vajrayana
+    he: וג'ריאנה
+    hi: वज्रयान
+    hr: Vađrajana
+    hu: vadzsrajána
+    id: Wajrayana
+    is: Vajrayāna
+    it: buddismo Vajrayana
+    ja: 密教
+    jam: Vajrayaana
+    jv: Buddha Vajrayana
+    ka: ვაჯრაიანა
+    kk: Ваджраяна
+    kk-cyrl: Ваджраяна
+    km: ព្រះពុទ្ធសាសនាតាមតំបន់
+    ko: 밀교
+    krj: Wëdzrëyanë
+    la: Vajrayana
+    lmo: Vajrayāna
+    lt: Vadžrajana
+    lv: vadžrajāna
+    mg: Bodisma vajraiana
+    ml: വജ്രയാനം
+    mr: वज्रयान
+    mul: Vajrayāna
+    mwl: Bajrayana
+    my: တျံတြစ်အယူဝါဒ
+    nb: Vajrayana
+    ne: बज्रयान
+    new: बज्रयान
+    nl: Vajrayana
+    pa: ਵਜਰਯਾਨ
+    pl: Wadżrajana
+    pnb: وجریان
+    pt: Vajrayana
+    ro: Vajrayana
+    ru: Ваджраяна
+    sa: वज्रयान
+    sco: Vajrayana
+    sh: Vajrayana
+    si: වජ්රයාන
+    sk: Vadžrajána
+    sl: vadžrajana
+    sr: вађрајана
+    sr-ec: Вађрајана
+    sr-el: Vađrajana
+    sv: vajrayana
+    ta: வச்ரயான பௌத்தம்
+    te: వజ్రయానం
+    th: วัชรยาน
+    tl: Vajrayana
+    tr: vajrayāna
+    uk: Ваджраяна
+    ur: وجریان
+    uz: Vadjrayana
+    vi: Kim cương thừa
+    war: Vajrayana
+    wuu: 密宗
+    yue: 密宗
+    zh: 密宗
+    zh-cn: 密宗
+    zh-hans: 密宗
+    zh-hant: 密宗
+    zh-hk: 密宗
+    zh-sg: 密宗
+    zh-tw: 密宗
 ---
-
 # [[Vajrayana]] 
 
 #is_/same_as  :: [[../../../../../../WikiData/WD~Vajrayana,172175|WD~Vajrayana,172175]]  

@@ -1,93 +1,121 @@
 ---
 aliases:
-  - Joseph Frank "Buster" Keaton
-  - Joseph Frank Keaton
-  - '"Buster" Keaton'
-  - Buster Keaton
-  - Great Stone Face
-  - Keaton,Buster
+- '"Buster" Keaton'
+- Baster Kiton
+- Basters Kītons
+- Buster Keaton
+- Great Stone Face
+- Joseph Frank "Buster" Keaton
+- Joseph Frank Keaton
+- Keaton,Buster
+- Kiton Bester
+- Μπάστερ Κίτον
+- Бастер Кітон
+- Бастер Китон
+- Бастэр Кітан
+- Бъстър Кийтън
+- Բաստեր Քիթոն
+- באסטר קיטון
+- باستر كيتون
+- باستر کیتون
+- باستەر کیتۆن
+- बस्टर कीटन
+- বাস্টার কিটন
+- ਬਸਟਰ ਕੀਟਨ
+- ବସ୍ଟର କୀଟନ
+- பஸ்டர் கீடன்
+- బస్టర్ కీటన్
+- ബസ്റ്റർ കീറ്റൻ
+- บัสเตอร์ คีตัน
+- ბასტერ კიტონი
+- バスター・キートン
+- 伯士達傑頓
+- 巴士達基頓
+- 巴斯特·基頓
+- 巴斯特·基顿
+- 버스터 키턴
 has_id_wikidata: Q103949
 influenced_by:
-  - "[[_Standards/WikiData/WD~Harold_Lloyd,104340]]"
-  - "[[_Standards/WikiData/WD~Roscoe_Arbuckle,315202]]"
-residence: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+- '[[_Standards/WikiData/WD~Harold_Lloyd,104340]]'
+- '[[_Standards/WikiData/WD~Roscoe_Arbuckle,315202]]'
+residence: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~comedy_film,157443]]"
-  - "[[_Standards/WikiData/WD~action_film,188473]]"
-  - "[[_Standards/WikiData/WD~silent_film,226730]]"
-  - "[[_Standards/WikiData/WD~adventure_film,319221]]"
-  - "[[_Standards/WikiData/WD~independent_film,459290]]"
-  - "[[_Standards/WikiData/WD~romance_film,1054574]]"
-  - "[[_Standards/WikiData/WD~historical_film,17013749]]"
-  - "[[_Standards/WikiData/WD~historical_drama_film,116514801]]"
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~comedy_film,157443]]'
+- '[[_Standards/WikiData/WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~silent_film,226730]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~independent_film,459290]]'
+- '[[_Standards/WikiData/WD~romance_film,1054574]]'
+- '[[_Standards/WikiData/WD~historical_film,17013749]]'
+- '[[_Standards/WikiData/WD~historical_drama_film,116514801]]'
 occupation:
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~stunt_performer,465501]]"
-  - "[[_Standards/WikiData/WD~mime_artist,674067]]"
-  - "[[_Standards/WikiData/WD~stage_actor,2259451]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~military_personnel,47064]]"
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~mime_artist,674067]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Frank,220546]]"
-  - "[[_Standards/WikiData/WD~Joseph,471788]]"
+- '[[_Standards/WikiData/WD~Frank,220546]]'
+- '[[_Standards/WikiData/WD~Joseph,471788]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Natalie_Talmadge,444788]]"
-  - "[[_Standards/WikiData/WD~Eleanor_Keaton,98406748]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
-filmography: "[[_Standards/WikiData/WD~Buster_Keaton_filmography,622638]]"
+- '[[_Standards/WikiData/WD~Natalie_Talmadge,444788]]'
+- '[[_Standards/WikiData/WD~Eleanor_Keaton,98406748]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+filmography: '[[_Standards/WikiData/WD~Buster_Keaton_filmography,622638]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-place_of_burial: "[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1302545]]"
-place_of_death: "[[_Standards/WikiData/WD~Woodland_Hills,1337818]]"
-father: "[[_Standards/WikiData/WD~Joe_Keaton,1557810]]"
-place_of_birth: "[[_Standards/WikiData/WD~Piqua,2038259]]"
-mother: "[[_Standards/WikiData/WD~Myra_Keaton,3331486]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1302545]]'
+place_of_death: '[[_Standards/WikiData/WD~Woodland_Hills,1337818]]'
+father: '[[_Standards/WikiData/WD~Joe_Keaton,1557810]]'
+place_of_birth: '[[_Standards/WikiData/WD~Piqua,2038259]]'
+mother: '[[_Standards/WikiData/WD~Myra_Keaton,3331486]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 military_branch:
-  - "[[_Standards/WikiData/WD~40th_Infantry_Division,4637475]]"
-  - "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Keaton,16277785]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
+- '[[_Standards/WikiData/WD~40th_Infantry_Division,4637475]]'
+- '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Keaton,16277785]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 copyright_status_as_a_creator:
-  - "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-  - "[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]"
+- '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+- '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
 child:
-  - "[[_Standards/WikiData/WD~Joseph_Talmadge_Keaton,111187183]]"
-  - "[[_Standards/WikiData/WD~Robert_Talmadge_Keaton,111187209]]"
+- '[[_Standards/WikiData/WD~Joseph_Talmadge_Keaton,111187183]]'
+- '[[_Standards/WikiData/WD~Robert_Talmadge_Keaton,111187209]]'
 date_of_birth: 1895-10-04T00:00:00Z
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 2
 height: 165
-cause_of_death: "[[_Standards/WikiData/WD~lung_cancer,47912]]"
+cause_of_death: '[[_Standards/WikiData/WD~lung_cancer,47912]]'
 subreddit: busterkeaton
 Krugosvet_article_archived_: teatr-i-kino/kiton-baster
 nickname:
-  - Frigo
-  - Kamenná tvář
-  - Buster
-  - The Great Stone Face
-  - Pamplinas
+- Frigo
+- Kamenná tvář
+- Buster
+- The Great Stone Face
+- Pamplinas
 birth_name: Joseph Frank Keaton
 date_of_death: 1966-02-01T00:00:00Z
 work_period_end_: 1966-01-01T00:00:00Z
@@ -102,12 +130,108 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Busterkeaton%20edit.jp
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20of%20Buster%20Keaton.jpg
 official_website: http://www.busterkeaton.com
 ISNI:
-  - "0000000081456042"
-  - "0000000368500426"
-U_S_National_Archives_Identifier: "10581330"
-P1015: "90246210"
+- 0000000081456042
+- 0000000368500426
+U_S_National_Archives_Identifier: 10581330
+P1015: 90246210
+dv_has_:
+  name_:
+    af: Buster Keaton
+    an: Buster Keaton
+    ar: باستر كيتون
+    arz: باستر كيتون
+    ast: Buster Keaton
+    az: Baster Kiton
+    azb: باستر کیتون
+    ba: Бастер Китон
+    be: Бастэр Кітан
+    be-tarask: Бастэр Кітан
+    bg: Бъстър Кийтън
+    bi: Buster Keaton
+    bn: বাস্টার কিটন
+    bs: Buster Keaton
+    ca: Buster Keaton
+    ckb: باستەر کیتۆن
+    cs: Buster Keaton
+    cy: Buster Keaton
+    da: Buster Keaton
+    de: Buster Keaton
+    el: Μπάστερ Κίτον
+    en: Buster Keaton
+    eo: Buster Keaton
+    es: Buster Keaton
+    et: Buster Keaton
+    eu: Buster Keaton
+    fa: باستر کیتون
+    fi: Buster Keaton
+    fr: Buster Keaton
+    fy: Buster Keaton
+    ga: Buster Keaton
+    gl: Buster Keaton
+    gpe: Buster Keaton
+    gv: Buster Keaton
+    ha: Buster Keaton
+    he: באסטר קיטון
+    hi: बस्टर कीटन
+    hif: Buster Keaton
+    hr: Buster Keaton
+    hu: Buster Keaton
+    hy: Բաստեր Քիթոն
+    id: Buster Keaton
+    ig: Buster Keaton
+    ilo: Buster Keaton
+    io: Buster Keaton
+    is: Buster Keaton
+    it: Buster Keaton
+    ja: バスター・キートン
+    ka: ბასტერ კიტონი
+    ko: 버스터 키턴
+    kw: Buster Keaton
+    la: Buster Keaton
+    lb: Buster Keaton
+    lt: Buster Keaton
+    lv: Basters Kītons
+    mg: Buster Keaton
+    mk: Бастер Китон
+    ml: ബസ്റ്റർ കീറ്റൻ
+    mul: Buster Keaton
+    nb: Buster Keaton
+    nl: Buster Keaton
+    nn: Buster Keaton
+    oc: Buster Keaton
+    or: ବସ୍ଟର କୀଟନ
+    pa: ਬਸਟਰ ਕੀਟਨ
+    pap: Buster Keaton
+    pl: Buster Keaton
+    pms: Buster Keaton
+    pt: Buster Keaton
+    pt-br: Buster Keaton
+    ro: Buster Keaton
+    ru: Бастер Китон
+    scn: Buster Keaton
+    sco: Buster Keaton
+    sh: Buster Keaton
+    sk: Buster Keaton
+    sl: Buster Keaton
+    sq: Buster Keaton
+    sr: Бастер Китон
+    sv: Buster Keaton
+    sw: Buster Keaton
+    ta: பஸ்டர் கீடன்
+    te: బస్టర్ కీటన్
+    th: บัสเตอร์ คีตัน
+    tr: Buster Keaton
+    uk: Бастер Кітон
+    uz: Kiton Bester
+    vi: Buster Keaton
+    war: Buster Keaton
+    wuu: 巴斯特·基顿
+    yo: Buster Keaton
+    yue: 巴士達基頓
+    zh: 巴斯特·基頓
+    zh-hant: 巴斯特·基頓
+    zh-hk: 伯士達傑頓
 ---
-
 # [[Keaton,Buster]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Buster_Keaton,103949|WD~Buster_Keaton,103949]] 

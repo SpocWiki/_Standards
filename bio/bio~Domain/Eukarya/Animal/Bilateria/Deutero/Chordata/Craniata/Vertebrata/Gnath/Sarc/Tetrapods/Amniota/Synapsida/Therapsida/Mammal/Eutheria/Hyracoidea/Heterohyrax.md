@@ -1,9 +1,84 @@
 ---
 aliases:
-  - Heterohyrax
+- Buschschliefer
+- Daman Bruce
+- Daman de steppe
+- daman stepní
+- damà de Bruce
+- Damão‑de‑bocage
+- Flekklippegrevling
+- Gulprickig hyrax
+- góralek zaroślowy
+- Heterohyrax
+- Heterohyrax brucei
+- hioracsach carraige buíbhallach
+- Hodíłchʼiltah shą́ą́ʼnahalghałí
+- kelet-afrikai szirtiborz
+- Nokol (Heterohyrax brucei)
+- Procavia delle steppe
+- Steppeklipdas
+- Yellow-spotted rock hyrax
+- Горный даман
+- Жовто-плямистий даман
+- жълтопетнист даман
+- שפן הסבך
+- خرگوش کوهی زردلکه
+- وبر منقط أصفر
+- وبر منقط اصفر
+- ไฮแรกซ์จุดเหลือง
+- キボシイワハイラックス
+- 黃斑蹄兔
+- 黄斑蹄兔
+- 노랑반점바위너구리
 title: Heterohyrax
+has_id_wikidata: Q186942
+dv_has_:
+  name_:
+    ar: وبر منقط أصفر
+    arz: وبر منقط اصفر
+    ast: Heterohyrax brucei
+    avk: Nokol (Heterohyrax brucei)
+    bar: Heterohyrax brucei
+    bg: жълтопетнист даман
+    br: Daman Bruce
+    ca: damà de Bruce
+    ceb: Heterohyrax brucei
+    cs: daman stepní
+    de: Buschschliefer
+    en: Yellow-spotted rock hyrax
+    es: Heterohyrax brucei
+    eu: Heterohyrax brucei
+    fa: خرگوش کوهی زردلکه
+    fi: Heterohyrax brucei
+    fr: Daman de steppe
+    ga: hioracsach carraige buíbhallach
+    he: שפן הסבך
+    hu: kelet-afrikai szirtiborz
+    ia: Heterohyrax brucei
+    it: Procavia delle steppe
+    ja: キボシイワハイラックス
+    ko: 노랑반점바위너구리
+    la: Heterohyrax brucei
+    mt: Heterohyrax brucei
+    mul: Heterohyrax brucei
+    nb: Flekklippegrevling
+    nl: Steppeklipdas
+    nv: Hodíłchʼiltah shą́ą́ʼnahalghałí
+    pl: góralek zaroślowy
+    pt: Damão‑de‑bocage
+    ro: Heterohyrax brucei
+    ru: Горный даман
+    sq: Heterohyrax brucei
+    sr: Heterohyrax brucei
+    sv: Gulprickig hyrax
+    th: ไฮแรกซ์จุดเหลือง
+    uk: Жовто-плямистий даман
+    vi: Heterohyrax brucei
+    war: Heterohyrax brucei
+    zh: 黄斑蹄兔
+    zh-cn: 黄斑蹄兔
+    zh-tw: 黃斑蹄兔
 ---
-
 # [[Heterohyrax]]
 
 ## Yellow-spotted hyraxes 

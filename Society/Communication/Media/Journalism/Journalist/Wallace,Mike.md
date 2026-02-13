@@ -1,31 +1,50 @@
 ---
 aliases:
-  - Mike_Wallace
-  - Myron Leon Wallace
-  - Wallace
-  - Wallace,Mike
+- Majk Volas
+- Michael Wallace
+- Mike Wallace
+- Mike_Wallace
+- Myron Leon Wallace
+- Wallace
+- Wallace,Mike
+- Майк Ўолес
+- Майк Воллес
+- Майк Уоллес
+- Մայք Ուոլլես
+- מייק וולאס
+- مايك والاس
+- مايك والاس (صحفى)
+- مایک والاس
+- مایک واڵاس
+- মাইক ওয়ালেস
+- ਮਾਈਕ ਵਾਲੇਸ
+- ไมก์ วอลเลซ
+- マイク・ウォレス
+- 迈克·华莱士
+- 邁克·華萊士
+- 마이크 월리스
 has_id_wikidata: Q325487
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Michigan,230492]]'
-  - '[[_Standards/WikiData/WD~Interlochen_Center_for_the_Arts,6047120]]'
-  - '[[_Standards/WikiData/WD~Brookline_High_School,14715421]]'
+- '[[_Standards/WikiData/WD~University_of_Michigan,230492]]'
+- '[[_Standards/WikiData/WD~Interlochen_Center_for_the_Arts,6047120]]'
+- '[[_Standards/WikiData/WD~Brookline_High_School,14715421]]'
 given_name: '[[_Standards/WikiData/WD~Mike,361309]]'
 occupation:
-  - '[[_Standards/WikiData/WD~television_presenter,947873]]'
-  - '[[_Standards/WikiData/WD~announcer,1371925]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~game_show_host,22662561]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~television_presenter,947873]]'
+- '[[_Standards/WikiData/WD~announcer,1371925]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~game_show_host,22662561]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 child: '[[_Standards/WikiData/WD~Chris_Wallace,2964885]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 spouse: '[[_Standards/WikiData/WD~Buff_Cobb,4985609]]'
 family_name: '[[_Standards/WikiData/WD~Wallace,5261248]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 is_member_of: '[[_Standards/WikiData/WD~Zeta_Beta_Tau,8069701]]'
@@ -54,8 +73,66 @@ name_in_native_language: Myron Leon Wallace
 work_period_end_: 2008-01-01T00:00:00Z
 date_of_death: 2012-04-07T00:00:00Z
 date_of_birth: 1918-05-09T00:00:00Z
+dv_has_:
+  name_:
+    af: Mike Wallace
+    ar: مايك والاس
+    arz: مايك والاس (صحفى)
+    ast: Mike Wallace
+    be-tarask: Майк Ўолес
+    bn: মাইক ওয়ালেস
+    ca: Mike Wallace
+    ckb: مایک واڵاس
+    cs: Mike Wallace
+    cy: Mike Wallace
+    da: Mike Wallace
+    de: Mike Wallace
+    en: Mike Wallace
+    es: Mike Wallace
+    eu: Mike Wallace
+    fa: مایک والاس
+    fi: Mike Wallace
+    fr: Mike Wallace
+    ga: Mike Wallace
+    gl: Mike Wallace
+    he: מייק וולאס
+    hu: Mike Wallace
+    hy: Մայք Ուոլլես
+    id: Mike Wallace
+    it: Mike Wallace
+    ja: マイク・ウォレス
+    ko: 마이크 월리스
+    la: Michael Wallace
+    lzh: 邁克·華萊士
+    mg: Mike Wallace
+    nb: Mike Wallace
+    nl: Mike Wallace
+    nn: Mike Wallace
+    pa: ਮਾਈਕ ਵਾਲੇਸ
+    pap: Mike Wallace
+    pl: Mike Wallace
+    pt: Mike Wallace
+    pt-br: Mike Wallace
+    ru: Майк Уоллес
+    sh: Mike Wallace
+    sl: Mike Wallace
+    sq: Mike Wallace
+    sr: Majk Volas
+    sv: Mike Wallace
+    th: ไมก์ วอลเลซ
+    uk: Майк Воллес
+    war: Mike Wallace
+    wuu: 迈克·华莱士
+    yo: Mike Wallace
+    yue: 邁克·華萊士
+    zh: 迈克·华莱士
+    zh-cn: 迈克·华莱士
+    zh-hans: 迈克·华莱士
+    zh-hant: 邁克·華萊士
+    zh-hk: 邁克·華萊士
+    zh-sg: 迈克·华莱士
+    zh-tw: 邁克·華萊士
 ---
-
 # [[Wallace,Mike]] 
 
 #is_/same_as :: [[WD~Mike_Wallace,325487]] 

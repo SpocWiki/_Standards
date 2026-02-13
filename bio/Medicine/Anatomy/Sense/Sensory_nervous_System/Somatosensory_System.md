@@ -1,16 +1,143 @@
 ---
 aliases:
+- det somatosensoriske systemet
+- dodir
+- dotyk
+- følesans
+- hệ cảm giác thân thể
+- kugunzva
+- känsel
+- líkamsvitund
+- pututaminõ
+- Shqisa e prekjes
+- sistem somatosensori
+- sistema somatosensorial
+- sistema somatosentsorial
+- sistema somatossensorial
+- sistemang somatosensoryo
+- sistemul somatosenzorial
+- somatosensorinė sistema
+- somatosensoriyel sistem
+- somatosensory system
+- somatosensorā sistēma
+- somatosenzorični sistem
+- somatosenzorni sistem
+- somatosenzorni sustav
+- somesthésie
+- somstezi
+- taabasho
+- Taast
+- Tactus
+- tapintás
+- tassin
+- Tastsinn
+- tastzin
+- thé-kak hē-thóng
+- tuntoaisti
+- tuŝa sistemo
+- układ czuciowy
+- vie somatosensoriali
+- σωματοαισθητικό σύστημα
+- осезание
+- саматасэнсарная сыстэма
+- соматосенсорна система
+- соматосенсорная система
+- շոշափելիքի օրգաններ
+- המערכת הסומטוסנסורית
+- اللمس
+- حاسة اللمس
+- دستگاه حسی-پیکری
+- স্পর্শেন্দ্রিয়
+- స్పర్శ
+- സോമാറ്റോസെൻസറി സിസ്റ്റം
+- ระบบรับความรู้สึกทางกาย
+- 体性感覚
+- 体感
+- 體感
+- 體覺
+- 몸감각 기관
 has_id_wikidata: Q328835
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-has_cause: "[[_Standards/WikiData/WD~touch,877674]]"
-subclass_of: "[[_Standards/WikiData/WD~perception_set,16354711]]"
-has_use: "[[_Standards/WikiData/WD~sensory_perception_of_touch,21108053]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+has_cause: '[[_Standards/WikiData/WD~touch,877674]]'
+subclass_of: '[[_Standards/WikiData/WD~perception_set,16354711]]'
+has_use: '[[_Standards/WikiData/WD~sensory_perception_of_touch,21108053]]'
 PhilPapers_topic: touch
 Commons_category: Somatosensation
+dv_has_:
+  name_:
+    af: tassin
+    ar: حاسة اللمس
+    arz: اللمس
+    ast: sistema somatosensorial
+    be-tarask: саматасэнсарная сыстэма
+    bg: осезание
+    bn: স্পর্শেন্দ্রিয়
+    bs: dodir
+    ca: sistema somatosensorial
+    da: følesans
+    de: Tastsinn
+    de-ch: Tastsinn
+    el: σωματοαισθητικό σύστημα
+    en: somatosensory system
+    en-ca: somatosensory system
+    en-gb: somatosensory system
+    eo: tuŝa sistemo
+    es: sistema somatosensorial
+    eu: sistema somatosentsorial
+    fa: دستگاه حسی-پیکری
+    fi: tuntoaisti
+    fr: somesthésie
+    fy: Taast
+    gl: sistema somatosensorial
+    gsw: Tastsinn
+    he: המערכת הסומטוסנסורית
+    hr: somatosenzorni sustav
+    ht: somstezi
+    hu: tapintás
+    hy: շոշափելիքի օրգաններ
+    id: sistem somatosensori
+    is: líkamsvitund
+    it: vie somatosensoriali
+    ja: 体性感覚
+    ko: 몸감각 기관
+    la: Tactus
+    lt: somatosensorinė sistema
+    lv: somatosensorā sistēma
+    ml: സോമാറ്റോസെൻസറി സിസ്റ്റം
+    nan: thé-kak hē-thóng
+    nl: tastzin
+    nn: det somatosensoriske systemet
+    pl: układ czuciowy
+    pt: sistema somatossensorial
+    pt-br: sistema somatossensorial
+    ro: sistemul somatosenzorial
+    ru: соматосенсорная система
+    sh: somatosenzorni sistem
+    sk: dotyk
+    sl: somatosenzorični sistem
+    sn: kugunzva
+    so: taabasho
+    sq: Shqisa e prekjes
+    sr: somatosenzorni sistem
+    sv: känsel
+    te: స్పర్శ
+    th: ระบบรับความรู้สึกทางกาย
+    tl: sistemang somatosensoryo
+    tr: somatosensoriyel sistem
+    uk: соматосенсорна система
+    vi: hệ cảm giác thân thể
+    vro: pututaminõ
+    yue: 體覺
+    zh: 体感
+    zh-cn: 体感
+    zh-hans: 体感
+    zh-hant: 體感
+    zh-hk: 體感
+    zh-sg: 体感
+    zh-tw: 體感
 ---
-
 # [[Somatosensory_System]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Somatosensory_system,328835|WD~Somatosensory_system,328835]]  

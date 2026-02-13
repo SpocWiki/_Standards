@@ -1,23 +1,89 @@
 ---
 aliases:
-  - Amboss
-  - Anvil
+- "'Ncunia"
+- aambeeld
+- alasi
+- alasin
+- ambeeld
+- ambolt
+- amboso
+- Amboss
+- andas
+- annev
+- Anvil
+- bigorna
+- bigornia
+- eingion
+- enclume
+- Enclusa
+- enclutge
+- etúleli
+- incudine
+- incus
+- Incüsen
+- ingude
+- kovadlina
+- kowadło
+- kudhra
+- lakta
+- nakovalo
+- nakovanj
+- nicovală
+- paron
+- priekalas
+- steðji
+- Stáđđi
+- städ
+- totopan
+- Uwar Makera
+- xunque
+- yunque
+- zindan
+- örs
+- üllő
+- đe
+- кавадла
+- ковадло
+- наковањ
+- Наковална (алатка)
+- наковалня
+- наковальня
+- Нуьйжа
+- сандал
+- сунтал
+- Төс (құрал)
+- Хъæсдарæг
+- Һандал һөйәк
+- զնդան
+- סדן
+- اہرن
+- سندان
+- ऐरण
+- নেহাই
+- பட்டடைக்கல்
+- ಬಡಿಗಲ್ಲು
+- അടയിരുമ്പ്
+- გრდემლი
+- 金床
+- 鐵砧
+- 铁砧
+- 모루
 has_id_wikidata: Q104363
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]"
-has_use: "[[_Standards/WikiData/WD~metalworking,953045]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
+has_use: '[[_Standards/WikiData/WD~metalworking,953045]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~metalworking,953045]]"
-  - "[[_Standards/WikiData/WD~directly_struck_idiophone,19462049]]"
-  - "[[_Standards/WikiData/WD~musical_instrument,34379]]"
-used_by: "[[_Standards/WikiData/WD~blacksmith,1639825]]"
-different_from: "[[_Standards/WikiData/WD~anvil,16632086]]"
+- '[[_Standards/WikiData/WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~directly_struck_idiophone,19462049]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
+used_by: '[[_Standards/WikiData/WD~blacksmith,1639825]]'
+different_from: '[[_Standards/WikiData/WD~anvil,16632086]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~iron,677]]"
-  - "[[_Standards/WikiData/WD~steel,11427]]"
-instance_of: "[[_Standards/WikiData/WD~physical_tool,39546]]"
+- '[[_Standards/WikiData/WD~iron,677]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+instance_of: '[[_Standards/WikiData/WD~physical_tool,39546]]'
 Nomenclature_for_Museum_Cataloging: 5830
 OmegaWiki_Defined_Meaning: 6777
 GS1_GPC_code: 10003552
@@ -30,25 +96,116 @@ Commons_gallery: Anvil
 Commons_category: Anvils
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Anvil,104363|WD~Anvil,104363]]"
-    - "[[/_Standards/Chemistry/Material/Metallurgy/Anvil|Anvil]]"
-    - "[[/_public/Chemistry/Material/Metallurgy/Anvil.public|Anvil.public]]"
-    - "[[/_internal/Chemistry/Material/Metallurgy/Anvil.internal|Anvil.internal]]"
-    - "[[/_protect/Chemistry/Material/Metallurgy/Anvil.protect|Anvil.protect]]"
-    - "[[/_private/Chemistry/Material/Metallurgy/Anvil.private|Anvil.private]]"
-    - "[[/_personal/Chemistry/Material/Metallurgy/Anvil.personal|Anvil.personal]]"
-    - "[[/_secret/Chemistry/Material/Metallurgy/Anvil.secret|Anvil.secret]]"
+  - '[[../../../WikiData/WD~Anvil,104363|WD~Anvil,104363]]'
+  - '[[/_Standards/Chemistry/Material/Metallurgy/Anvil|Anvil]]'
+  - '[[/_public/Chemistry/Material/Metallurgy/Anvil.public|Anvil.public]]'
+  - '[[/_internal/Chemistry/Material/Metallurgy/Anvil.internal|Anvil.internal]]'
+  - '[[/_protect/Chemistry/Material/Metallurgy/Anvil.protect|Anvil.protect]]'
+  - '[[/_private/Chemistry/Material/Metallurgy/Anvil.private|Anvil.private]]'
+  - '[[/_personal/Chemistry/Material/Metallurgy/Anvil.personal|Anvil.personal]]'
+  - '[[/_secret/Chemistry/Material/Metallurgy/Anvil.secret|Anvil.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Anvil,104363|WD~Anvil,104363]]"
-  - "[[/_Standards/Chemistry/Material/Metallurgy/Anvil|Anvil]]"
-  - "[[/_public/Chemistry/Material/Metallurgy/Anvil.public|Anvil.public]]"
-  - "[[/_internal/Chemistry/Material/Metallurgy/Anvil.internal|Anvil.internal]]"
-  - "[[/_protect/Chemistry/Material/Metallurgy/Anvil.protect|Anvil.protect]]"
-  - "[[/_private/Chemistry/Material/Metallurgy/Anvil.private|Anvil.private]]"
-  - "[[/_personal/Chemistry/Material/Metallurgy/Anvil.personal|Anvil.personal]]"
-  - "[[/_secret/Chemistry/Material/Metallurgy/Anvil.secret|Anvil.secret]]"
+- '[[../../../WikiData/WD~Anvil,104363|WD~Anvil,104363]]'
+- '[[/_Standards/Chemistry/Material/Metallurgy/Anvil|Anvil]]'
+- '[[/_public/Chemistry/Material/Metallurgy/Anvil.public|Anvil.public]]'
+- '[[/_internal/Chemistry/Material/Metallurgy/Anvil.internal|Anvil.internal]]'
+- '[[/_protect/Chemistry/Material/Metallurgy/Anvil.protect|Anvil.protect]]'
+- '[[/_private/Chemistry/Material/Metallurgy/Anvil.private|Anvil.private]]'
+- '[[/_personal/Chemistry/Material/Metallurgy/Anvil.personal|Anvil.personal]]'
+- '[[/_secret/Chemistry/Material/Metallurgy/Anvil.secret|Anvil.secret]]'
+dv_has_:
+  name_:
+    af: aambeeld
+    an: Enclusa
+    ar: سندان
+    ast: xunque
+    az: zindan
+    ba: Һандал һөйәк
+    bcl: totopan
+    be: кавадла
+    be-tarask: кавадла
+    bg: наковалня
+    bn: নেহাই
+    br: annev
+    ca: enclusa
+    ce: Нуьйжа
+    co: Incudine
+    cs: kovadlina
+    cv: сунтал
+    cy: eingion
+    da: ambolt
+    de: Amboss
+    en: anvil
+    eo: amboso
+    es: yunque
+    et: alasi
+    eu: ingude
+    fa: سندان
+    fi: alasin
+    fr: enclume
+    gl: bigornia
+    ha: Uwar Makera
+    he: סדן
+    hr: nakovanj
+    hu: üllő
+    hy: զնդան
+    id: paron
+    io: amboso
+    is: steðji
+    it: incudine
+    ja: 金床
+    jv: paron
+    ka: გრდემლი
+    kk: Төс (құрал)
+    kn: ಬಡಿಗಲ್ಲು
+    ko: 모루
+    la: incus
+    lb: Amboss
+    lmo: Incüsen
+    ln: etúleli
+    lt: priekalas
+    lv: lakta
+    mk: Наковална (алатка)
+    ml: അടയിരുമ്പ്
+    mr: ऐरण
+    ms: andas
+    nap: "'Ncunia"
+    nb: ambolt
+    nds: Ambolt
+    nds-nl: ambeeld
+    nl: aambeeld
+    nn: ambolt
+    oc: enclutge
+    os: Хъæсдарæг
+    pl: kowadło
+    pt: bigorna
+    ro: nicovală
+    ru: наковальня
+    se: Stáđđi
+    sh: nakovanj
+    sk: kovadlina
+    sl: nakovalo
+    sq: kudhra
+    sr: наковањ
+    sr-ec: наковањ
+    sr-el: nakovanj
+    sv: städ
+    ta: பட்டடைக்கல்
+    tr: örs
+    tt: сандал
+    uk: ковадло
+    ur: اہرن
+    vi: đe
+    wuu: 铁砧
+    yue: 鐵砧
+    zh: 铁砧
+    zh-cn: 铁砧
+    zh-hans: 铁砧
+    zh-hant: 鐵砧
+    zh-hk: 鐵砧
+    zh-sg: 铁砧
+    zh-tw: 鐵砧
 ---
-
 # [[Anvil]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Anvil,104363|WD~Anvil,104363]] 

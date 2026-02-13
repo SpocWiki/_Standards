@@ -1,4 +1,309 @@
-
+---
+has_id_wikidata: Q165308
+dv_has_:
+  name_:
+    af: Pampoen
+    am: የሰይጣን ዱባ
+    ami: Tamorak
+    an: Cucurbita
+    ar: يقطين
+    arz: قرع
+    as: ৰঙালাউ
+    atj: Akosamin
+    awa: कोंहड़ा
+    az: Qabaq
+    azb: بورانی
+    ban: Tabu
+    be: гарбуз
+    be-tarask: гарбуз
+    bg: тиква
+    bho: कोंहड़ा
+    bjn: Waluh
+    bn: মিষ্টিকুমড়া
+    bo: ལྷོ་ཀུབ།
+    br: sitrouilhez
+    ca: Carabassa
+    cdo: Gĭng-guă
+    chr: ᎢᏯ
+    crh-ro: kabak
+    cs: dýně
+    cy: pwmpen
+    da: græskar
+    de: Kürbis
+    de-ch: Kürbisse
+    dv: ބަރަބޯ
+    dz: ཀ་ཀུ་རུ
+    el: Κολοκύθα
+    eml: Süca
+    en: pumpkin
+    en-ca: Pumpkin
+    en-gb: pumpkin
+    eo: kukurbo
+    es: calabaza gigante
+    et: kõrvits
+    eu: kuia
+    fa: کدو تنبل
+    fi: kurpitsa
+    fr: citrouille
+    ga: puimcín
+    gan: 北瓜
+    gn: Jurumu
+    gu: કોળું
+    gur: Yɔga/yɔgerɛ
+    ha: Kabushi
+    hak: Kîm-kôa
+    he: דלעת
+    hi: कुम्हड़ा
+    hr: tikva
+    hsb: kirbs
+    hu: sütőtök
+    hy: Դդում (պտուղ)
+    id: waluh
+    ig: Anyu
+    io: Kukurbito
+    is: Grasker
+    it: zucca
+    ja: カボチャ
+    jv: Waluh
+    ka: გოგრა
+    kaa: Qabaq
+    kbp: Siitruwii
+    kge: Tabu
+    ki: Marenge
+    km: ល្ពៅ
+    kn: ಕುಂಬಳಕಾಯಿ
+    ko: 호박
+    ks: مشأدؠ ال
+    ku: Kundir
+    ku-arab: کوندر
+    ku-latn: Kundir
+    la: Cucurbita
+    lb: Kalbass
+    lt: Moliūgas
+    lv: ķirbis
+    mk: Тиква
+    mni: ꯃꯥꯢꯔꯦꯟ
+    mr: भोपळा
+    ms: labu manis
+    ms-arab: لابو
+    mt: qargħa ħamra
+    my: ဖရုံသီး
+    nah: Ayohtli
+    nan: Kim-koe
+    nan-hani: 金瓜
+    nan-hant: 金瓜
+    nan-latn-pehoeji: Kim-koe
+    nan-latn-tailo: Kim-kue
+    nb: gresskar
+    nds: Körbs
+    ne: फर्सी
+    nia: Lawu'ale
+    nl: pompoen
+    nqo: ߖߋ߭
+    or: କଖାରୁ
+    os: Нас
+    pa: ਹਲਵਾ ਕੱਦੂ
+    pam: Kulubasa
+    pcd: Chitroule
+    pl: dynia
+    pnb: حلوا کدو
+    ps: کدو
+    pt: abóbora
+    pt-br: Abóbora
+    pwn: ljasiak
+    qu: Kalawasa
+    rn: Umwungu
+    ro: citrouille
+    ru: тыква
+    sa: मधुरकूष्माण्डम्
+    sat: ᱠᱚᱦᱚᱸᱰᱟ
+    sd: ڪدو
+    se: gurbbet
+    sh: Tikva
+    shi: Taxsayt
+    shn: မၢၵ်ႇပၵ်ႉ
+    si: වට්ටක්කා
+    sl: buča
+    smn: kurpicca
+    sms: kurpicc
+    sn: Nhanga
+    so: Bocor guduud
+    sq: Cucurbita
+    sr: Dulek
+    st: Mokopu
+    su: Waluh
+    sv: pumpa
+    sw: Boga
+    szl: Korbol
+    szy: tamulak
+    ta: பூசணி
+    tay: qabang
+    te: గుమ్మడి
+    tg: Каду
+    tg-latn: Kadu
+    th: ฟักทองอเมริกัน
+    tk: Kädi
+    tl: Kalabasa
+    tr: kabak
+    tt: кабак
+    tt-cyrl: кабак
+    ug: كاۋا
+    uk: гарбуз
+    ur: کدو
+    uz: Qovoq
+    vec: Suca
+    vep: tikv
+    vi: Bí ngô
+    vls: Pompoen
+    wuu: 南瓜
+    xmf: კოპეშია
+    yi: קירבעס
+    yue: 橙皮南瓜
+    za: namzgva
+    zgh: ⵜⴰⵅⵙⴰⵢⵜ
+    zh: 南瓜
+    zh-hant: 南瓜
+    zh-tw: 南瓜
+    zu: Ikhukhu
+aliases:
+- Abóbora
+- Akosamin
+- Anyu
+- Ayohtli
+- Bocor guduud
+- Boga
+- buča
+- Bí ngô
+- calabaza gigante
+- Carabassa
+- Chitroule
+- citrouille
+- Cucurbita
+- Dulek
+- dynia
+- dýně
+- Grasker
+- gresskar
+- græskar
+- gurbbet
+- Gĭng-guă
+- Ikhukhu
+- Jurumu
+- kabak
+- Kabushi
+- Kadu
+- Kalabasa
+- Kalawasa
+- Kalbass
+- Kim-koe
+- Kim-kue
+- kirbs
+- Korbol
+- kuia
+- Kukurbito
+- kukurbo
+- Kulubasa
+- Kundir
+- kurpicc
+- kurpicca
+- kurpitsa
+- Kädi
+- Kîm-kôa
+- kõrvits
+- Körbs
+- Kürbis
+- Kürbisse
+- labu manis
+- Lawu'ale
+- ljasiak
+- Marenge
+- Mokopu
+- Moliūgas
+- namzgva
+- Nhanga
+- Pampoen
+- pompoen
+- puimcín
+- pumpa
+- pumpkin
+- pwmpen
+- qabang
+- Qabaq
+- qargħa ħamra
+- Qovoq
+- Siitruwii
+- sitrouilhez
+- Suca
+- Süca
+- sütőtök
+- Tabu
+- Tamorak
+- tamulak
+- Taxsayt
+- tikv
+- Tikva
+- Umwungu
+- Waluh
+- Yɔga/yɔgerɛ
+- zucca
+- ķirbis
+- Κολοκύθα
+- гарбуз
+- кабак
+- Каду
+- Нас
+- тиква
+- тыква
+- Դդում (պտուղ)
+- דלעת
+- קירבעס
+- بورانی
+- حلوا کدو
+- قرع
+- كاۋا
+- لابو
+- مشأدؠ ال
+- يقطين
+- کدو
+- کدو تنبل
+- کوندر
+- ڪدو
+- ބަރަބޯ
+- ߖߋ߭
+- कुम्हड़ा
+- कोंहड़ा
+- फर्सी
+- भोपळा
+- मधुरकूष्माण्डम्
+- মিষ্টিকুমড়া
+- ৰঙালাউ
+- ਹਲਵਾ ਕੱਦੂ
+- કોળું
+- କଖାରୁ
+- பூசணி
+- గుమ్మడి
+- ಕುಂಬಳಕಾಯಿ
+- වට්ටක්කා
+- ฟักทองอเมริกัน
+- ཀ་ཀུ་རུ
+- ལྷོ་ཀུབ།
+- ဖရုံသီး
+- မၢၵ်ႇပၵ်ႉ
+- გოგრა
+- კოპეშია
+- የሰይጣን ዱባ
+- ᎢᏯ
+- ល្ពៅ
+- ᱠᱚᱦᱚᱸᱰᱟ
+- ⵜⴰⵅⵙⴰⵢⵜ
+- カボチャ
+- 北瓜
+- 南瓜
+- 橙皮南瓜
+- 金瓜
+- ꯃꯥꯢꯔꯦꯟ
+- 호박
+---
 # [[Pumpkin]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Pumpkin,165308|WD~Pumpkin,165308]]  

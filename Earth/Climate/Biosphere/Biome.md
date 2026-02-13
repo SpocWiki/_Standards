@@ -1,36 +1,187 @@
 ---
 aliases:
-  - Biome
+- Auan
+- Baayoomii
+- Bijoma
+- Biom
+- bioma
+- Biomas
+- Biome
+- biomi
+- Biomo
+- bioom
+- bithóm
+- Biyom
+- Biyoma
+- Biyòm
+- Biòma
+- bióm
+- bïom
+- Lífbelti
+- quần xã sinh vật
+- Μεγαοικοσύστημα
+- біём
+- біом
+- биом
+- Բիոմ
+- ביומה
+- بائیوم
+- بايوم
+- بىيوم
+- حياتياتي علائقو
+- حيوم
+- زیستبوم
+- ژینبووم
+- बायोम
+- জীবাঞ্চল
+- বায়’ম
+- உயிர்மம்
+- ಬಯೊಮ್
+- බයෝම
+- ชีวนิเวศ
+- ბუნებრივი ზონები
+- 生物群系
+- 생물 군계
 has_id_wikidata: Q101998
 subclass_of:
-  - "[[_Standards/WikiData/WD~landscape,107425]]"
-  - "[[_Standards/WikiData/WD~biological_system,30336093]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Biomes,6444040]]"
+- '[[_Standards/WikiData/WD~landscape,107425]]'
+- '[[_Standards/WikiData/WD~biological_system,30336093]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Biomes,6444040]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Groot%20River%20Banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vegetation.png
 Commons_category: Biomes
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Biome,101998|WD~Biome,101998]]"
-    - "[[/_Standards/Earth/Climate/Biosphere/Biome|Biome]]"
-    - "[[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]]"
-    - "[[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]]"
-    - "[[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]]"
-    - "[[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]]"
-    - "[[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]]"
-    - "[[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]]"
+  - '[[../../WikiData/WD~Biome,101998|WD~Biome,101998]]'
+  - '[[/_Standards/Earth/Climate/Biosphere/Biome|Biome]]'
+  - '[[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]]'
+  - '[[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]]'
+  - '[[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]]'
+  - '[[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]]'
+  - '[[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]]'
+  - '[[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Biome,101998|WD~Biome,101998]]"
-  - "[[/_Standards/Earth/Climate/Biosphere/Biome|Biome]]"
-  - "[[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]]"
-  - "[[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]]"
-  - "[[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]]"
-  - "[[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]]"
-  - "[[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]]"
-  - "[[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]]"
+- '[[../../WikiData/WD~Biome,101998|WD~Biome,101998]]'
+- '[[/_Standards/Earth/Climate/Biosphere/Biome|Biome]]'
+- '[[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]]'
+- '[[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]]'
+- '[[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]]'
+- '[[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]]'
+- '[[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]]'
+- '[[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]]'
+dv_has_:
+  name_:
+    af: bioom
+    ar: حيوم
+    as: বায়’ম
+    ast: Bioma
+    az: Biom
+    ba: Биом
+    be: біём
+    be-tarask: біём
+    bg: Биом
+    bho: बायोम
+    bn: জীবাঞ্চল
+    bs: Biom
+    ca: bioma
+    ckb: ژینبووم
+    cs: biom
+    cv: Биом
+    cy: bïom
+    da: Biom
+    de: Biom
+    el: Μεγαοικοσύστημα
+    en: biome
+    eo: biomo
+    es: bioma
+    et: bioom
+    eu: bioma
+    fa: زیستبوم
+    fi: biomi
+    fr: biome
+    ga: bithóm
+    gl: bioma
+    he: ביומה
+    hi: बायोम
+    hr: biom
+    ht: Biyòm
+    hu: biom
+    hy: Բիոմ
+    id: Bioma
+    ig: biome
+    ik: Auan
+    io: Biomo
+    is: Lífbelti
+    it: bioma
+    ja: 生物群系
+    jv: Bioma
+    ka: ბუნებრივი ზონები
+    kk: Биом
+    kk-arab: بىيوم
+    kk-cn: بىيوم
+    kk-cyrl: Биом
+    kk-kz: Биом
+    kk-latn: Bïom
+    kk-tr: Bïom
+    kn: ಬಯೊಮ್
+    ko: 생물 군계
+    ku: Biyom
+    kw: biom
+    ky: Биом
+    lt: Biomas
+    lv: bioma
+    mk: биом
+    mr: बायोम
+    ms: biom
+    mt: Bijoma
+    nb: biome
+    nds: Biom
+    nl: bioom
+    nn: biom
+    oc: Biòma
+    om: Baayoomii
+    os: биом
+    pl: biom
+    pnb: بائیوم
+    ps: بايوم
+    pt: bioma
+    pt-br: bioma
+    ro: Biom
+    ru: биом
+    sah: Биом
+    sd: حياتياتي علائقو
+    sh: Biom
+    si: බයෝම
+    sk: bióm
+    sl: biom
+    sms: bioom
+    sq: Bioma
+    sr: биом
+    sr-ec: биом
+    sr-el: biom
+    su: Bioma
+    sv: biom
+    sw: Biome
+    ta: உயிர்மம்
+    th: ชีวนิเวศ
+    tl: Biyoma
+    tr: biyom
+    uk: біом
+    ur: بائیوم
+    vi: quần xã sinh vật
+    vls: Bioom
+    war: Biyoma
+    wuu: 生物群系
+    yue: 生物群系
+    zh: 生物群系
+    zh-cn: 生物群系
+    zh-hans: 生物群系
+    zh-hant: 生物群系
+    zh-hk: 生物群系
+    zh-sg: 生物群系
+    zh-tw: 生物群系
 ---
-
 # [[Biome]] 
 
 #is_/same_as :: [[../../WikiData/WD~Biome,101998|WD~Biome,101998]] 

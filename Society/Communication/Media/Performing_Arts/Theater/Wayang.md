@@ -1,39 +1,106 @@
 ---
 aliases:
-  - ꦮꦪꦁ
-  - ꦫꦶꦁꦒꦶꦠ
-  - ringgit
-  - Wayang
+- ringgit
+- rối bóng
+- Vajang
+- vajangas
+- vajango
+- Vayang
+- vayanq
+- wajang
+- Wayang
+- ваянг
+- Ինդոնեզական թատրոն
+- וויאנג קוליט
+- وايانج
+- وایانگ
+- ওয়ায়াং
+- বায়াং
+- ஓயாங்
+- വയാങ്ങ്
+- ཝ་ཡང་ཟློས་གར་ཁང་།
+- ワヤン
+- 哇揚皮影偶戲
+- ꦫꦶꦁꦒꦶꦠ
+- ꦮꦪꦁ
+- 와양
 has_id_wikidata: Q1078316
 subclass_of: '[[_Standards/WikiData/WD~puppetry,588750]]'
 intangible_cultural_heritage_status:
-  - '[[_Standards/WikiData/WD~Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity,877988]]'
-  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+- '[[_Standards/WikiData/WD~Masterpieces_of_the_Oral_and_Intangible_Heritage_of_Humanity,877988]]'
+- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
 instance_of: '[[_Standards/WikiData/WD~theatrical_genre,7777573]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 location:
-  - '[[_Standards/WikiData/WD~Central_Java,3557]]'
-  - '[[_Standards/WikiData/WD~East_Java,3586]]'
-  - '[[_Standards/WikiData/WD~West_Java,3724]]'
-  - '[[_Standards/WikiData/WD~Yogyakarta,3741]]'
-  - '[[_Standards/WikiData/WD~Majalengka,10377]]'
-  - '[[_Standards/WikiData/WD~Blora,10608]]'
-  - '[[_Standards/WikiData/WD~Tegal,10705]]'
-  - '[[_Standards/WikiData/WD~Pekalongan,11026]]'
-  - '[[_Standards/WikiData/WD~Gresik,11077]]'
+- '[[_Standards/WikiData/WD~Central_Java,3557]]'
+- '[[_Standards/WikiData/WD~East_Java,3586]]'
+- '[[_Standards/WikiData/WD~West_Java,3724]]'
+- '[[_Standards/WikiData/WD~Yogyakarta,3741]]'
+- '[[_Standards/WikiData/WD~Majalengka,10377]]'
+- '[[_Standards/WikiData/WD~Blora,10608]]'
+- '[[_Standards/WikiData/WD~Tegal,10705]]'
+- '[[_Standards/WikiData/WD~Pekalongan,11026]]'
+- '[[_Standards/WikiData/WD~Gresik,11077]]'
 country_of_origin: '[[_Standards/WikiData/WD~Indonesia,252]]'
 country: '[[_Standards/WikiData/WD~Indonesia,252]]'
 Commons_gallery: Wayang
 Commons_category: Wayang
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2%20painted%20wayang%20puppets.jpg
 described_at_URL:
-  - http://www.unesco.org/culture/ich/en/RL/wayang-puppet-theatre-00063
-  - https://ich.unesco.org/en/RL/00063
-  - https://ich.unesco.org/es/RL/00063
-  - https://ich.unesco.org/fr/RL/00063
+- http://www.unesco.org/culture/ich/en/RL/wayang-puppet-theatre-00063
+- https://ich.unesco.org/en/RL/00063
+- https://ich.unesco.org/es/RL/00063
+- https://ich.unesco.org/fr/RL/00063
+dv_has_:
+  name_:
+    ar: وايانج
+    as: বায়াং
+    ast: wayang
+    az: vayanq
+    ban: wayang
+    bcl: Wayang
+    be-tarask: ваянг
+    bn: ওয়ায়াং
+    bo: ཝ་ཡང་ཟློས་གར་ཁང་།
+    ca: wayang
+    cs: wayang
+    de: wayang
+    en: wayang
+    eo: vajango
+    es: wayang
+    eu: Wayang
+    fa: وایانگ
+    fi: wayang
+    fr: wayang
+    he: וויאנג קוליט
+    hr: wayang
+    hy: Ինդոնեզական թատրոն
+    id: wayang
+    it: wayang
+    ja: ワヤン
+    jv: wayang
+    ko: 와양
+    lt: vajangas
+    map-bms: wayang
+    ml: വയാങ്ങ്
+    ms: wayang
+    nl: wajang
+    pl: wayang
+    pt: wayang
+    ru: ваянг
+    sk: wayang
+    sl: wayang
+    sr: Vajang
+    su: wayang
+    ta: ஓயாங்
+    tr: wayang
+    tt: ваянг
+    uk: ваянг
+    uz: Vayang
+    vi: rối bóng
+    zh: 哇揚皮影偶戲
 ---
-
 # [[Wayang]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Wayang,1078316|WD~Wayang,1078316]]  

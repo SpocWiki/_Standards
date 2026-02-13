@@ -1,24 +1,110 @@
 ---
 aliases:
+- Leh edebiyatı
+- lengyel irodalom
+- lenkų literatūra
+- letteratura polacca
+- literatura de Polonia
+- literatura polonesa
+- literatura polska
+- Literatură poloneză
+- Litterae Poloniae
+- littérature polonaise
+- Lliteratura de Polonia
+- Llên Gwlad Pwyl
+- Pola literaturo
+- Polens litteratur
+- Polish literature
+- Poljska književnost
+- poljska literatura
+- polnische Literatur
+- Polonierazko literatura
+- Polsk litteratur
+- polská literatura
+- Poola kirjandus
+- Puolan kirjallisuus
+- Sastra Polandia
+- văn học Ba Lan
+- Πολωνική λογοτεχνία
+- Пољска књижевност
+- Польская літаратура
+- польская литература
+- Польська література
+- поляк әдәбияты
+- Լեհական գրականություն
+- הספרות הפולנית
+- أدب بولندي
+- ادبیات لهستانی
+- ポーランド文学
+- 波兰文学
+- 波蘭文學
+- 波蘭文文學
+- 폴란드 문학
 has_id_wikidata: Q692327
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_by: "[[_Standards/WikiData/WD~Polish_studies,1463332]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~Polish_studies,1463332]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Polish_studies,1463332]]"
-  - "[[_Standards/WikiData/WD~literature,8242]]"
-practiced_by: "[[_Standards/WikiData/WD~scholar_of_Polish_literature,96186657]]"
-instance_of: "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Polish_language_literature,109577724]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~Polish,809]]"
-country: "[[_Standards/WikiData/WD~Poland,36]]"
+- '[[_Standards/WikiData/WD~Polish_studies,1463332]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+practiced_by: '[[_Standards/WikiData/WD~scholar_of_Polish_literature,96186657]]'
+instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~Polish_language_literature,109577724]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~Polish,809]]'
+country: '[[_Standards/WikiData/WD~Poland,36]]'
 Commons_category: Polish literature
 Provenio_UUID: 3b25db51-320f-4f26-8fbc-78bbf6f3873e
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/POLSKAYA_LITERATURA.html
+dv_has_:
+  name_:
+    ar: أدب بولندي
+    ast: Lliteratura de Polonia
+    be: Польская літаратура
+    be-tarask: польская літаратура
+    ca: literatura polonesa
+    cs: polská literatura
+    cy: Llên Gwlad Pwyl
+    da: Polsk litteratur
+    de: polnische Literatur
+    el: Πολωνική λογοτεχνία
+    en: Polish literature
+    en-us: Polish literature
+    eo: Pola literaturo
+    es: literatura de Polonia
+    et: Poola kirjandus
+    eu: Polonierazko literatura
+    fa: ادبیات لهستانی
+    fi: Puolan kirjallisuus
+    fr: littérature polonaise
+    he: הספרות הפולנית
+    hr: Poljska književnost
+    hu: lengyel irodalom
+    hy: Լեհական գրականություն
+    id: Sastra Polandia
+    it: letteratura polacca
+    ja: ポーランド文学
+    ko: 폴란드 문학
+    la: Litterae Poloniae
+    lt: lenkų literatūra
+    nn: Polsk litteratur
+    pl: literatura polska
+    ro: Literatură poloneză
+    ru: польская литература
+    sl: poljska literatura
+    sr: Пољска књижевност
+    sv: Polens litteratur
+    tr: Leh edebiyatı
+    tt: поляк әдәбияты
+    uk: Польська література
+    vi: văn học Ba Lan
+    yue: 波蘭文文學
+    zh: 波兰文学
+    zh-cn: 波兰文学
+    zh-hans: 波兰文学
+    zh-hant: 波蘭文學
 ---
-
 # [[Polish_Literature]] 
 
 #is_/same_as :: [[WD~Polish_literature,692327]] 

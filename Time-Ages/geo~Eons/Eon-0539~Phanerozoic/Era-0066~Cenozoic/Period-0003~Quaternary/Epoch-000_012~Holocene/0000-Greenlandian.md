@@ -9,10 +9,10 @@ instance_of:
   - "[[_Standards/WikiData/WD~age,568683]]"
   - "[[_Standards/WikiData/WD~stage,1123245]]"
 named_after: "[[_Standards/WikiData/WD~Greenland,4148644]]"
-part_of: "[[_Standards/WikiData/WD~ICS Standard Global Chronostratigraphic (Geochronologic) Scale,63463770]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 sRGB_color_hex_triplet: FEECDB
 start_time: -9700-01-01
-type_locality_geology_: "[[_Standards/WikiData/WD~GSSP for the base of the Greenlandian,1487065]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Greenlandian,1487065]]"
 dv_has_:
   name_:
     abbreviated: q5

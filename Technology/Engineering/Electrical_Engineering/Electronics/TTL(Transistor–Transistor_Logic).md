@@ -1,4 +1,68 @@
-
+---
+has_id_wikidata: Q173451
+dv_has_:
+  name_:
+    ar: منطق ترانزستور-ترانزستور
+    az: Məntiqi tranzistor-tranzistor
+    ca: Tecnologia TTL
+    cs: TTL
+    de: Transistor-Transistor-Logik
+    de-ch: Transistor-Transistor-Logik
+    en: transistor–transistor logic
+    en-ca: Transistor–transistor logic
+    en-gb: transistor–transistor logic
+    eo: transistora-transistora logiko
+    es: tecnología TTL
+    eu: TTL
+    fa: منطق ترانزیستور-ترانزیستور
+    fi: TTL
+    fr: Logique Transistor-Transistor
+    hr: TTL
+    hu: Tranzisztor–tranzisztor logika
+    id: Logika transistor–transistor
+    it: transistor-transistor logic
+    ja: transistor–transistor logic
+    kk: Транзистор-транзисторлық логика
+    ko: 트랜지스터-트랜지스터 논리
+    nl: Transistor-transistorlogica
+    pl: Transistor-transistor logic
+    pt: transistor-transistor logic
+    pt-br: Transistor-Transistor Logic
+    ru: транзисторно-транзисторная логика
+    sh: Tranzistor tranzistor logika
+    sr: TTL
+    sv: transistor-transistor-logik
+    tr: transistör-transistör mantığı
+    uk: Транзисторно-транзисторна логіка
+    ur: ٹرانزسٹر-ٹرانزسٹر منطق
+    uz: Transistor-tranzistor mantig'i
+    vi: TTL
+    zh: 電晶體－電晶體邏輯
+aliases:
+- Logika transistor–transistor
+- Logique Transistor-Transistor
+- Məntiqi tranzistor-tranzistor
+- Tecnologia TTL
+- tecnología TTL
+- transistor-transistor logic
+- Transistor-Transistor-Logik
+- Transistor-transistorlogica
+- Transistor-tranzistor mantig'i
+- transistora-transistora logiko
+- transistor–transistor logic
+- transistör-transistör mantığı
+- Tranzistor tranzistor logika
+- Tranzisztor–tranzisztor logika
+- TTL
+- Транзистор-транзисторлық логика
+- Транзисторно-транзисторна логіка
+- транзисторно-транзисторная логика
+- منطق ترانزستور-ترانزستور
+- منطق ترانزیستور-ترانزیستور
+- ٹرانزسٹر-ٹرانزسٹر منطق
+- 電晶體－電晶體邏輯
+- 트랜지스터-트랜지스터 논리
+---
 #is_/worse_than :: [[CMOS]] 
 
 TTL operates at 5V and at rest consumes substantially 

@@ -1,31 +1,155 @@
 ---
 aliases:
+- Echte grûniikhoarntsjes
+- Gelengi
+- siiselit
+- Souslik
+- spermophile
+- Spermophilus
+- Starai
+- Suseł
+- Suslik
+- sysel
+- Syseľ
+- Sünbülqıran
+- Tekunica
+- Werpol (Spermophilus)
+- Yumronqoziqlar
+- Ziesel
+- Zizelo
+- ürge
+- Σπερμόφιλος
+- ГӀанхвара
+- Дьабарааскылар уустара
+- Зумбаhаа
+- Йомрандар
+- Йомраннар
+- Кайгарш
+- лалугери
+- Сарышұнақтар
+- Стоболки
+- Суслікі
+- суслак
+- Суслики
+- Тыркас
+- Ховрах
+- Юрмон
+- Ӧркӧ
+- գետնասկյուռներ
+- סוסליק
+- دانهدوستها
+- هوقل
+- თრია
+- წვინორი
+- ジリス属
+- 美洲黃鼠屬
+- 美洲黄鼠属
+- 黃鼠屬
+- 스페르모필루스속
 has_id_wikidata: Q199251
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250]]"
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-different_from: "[[_Standards/WikiData/WD~European_ground_squirrel,623466]]"
-taxonomic_type: "[[_Standards/WikiData/WD~European_ground_squirrel,623466]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Spermophilus,20871338]]"
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[_Standards/WikiData/WD~European_ground_squirrel,623466]]'
+taxonomic_type: '[[_Standards/WikiData/WD~European_ground_squirrel,623466]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Spermophilus,20871338]]'
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Arctomys,24502341]]"
-  - "[[_Standards/WikiData/WD~Citellus,26156044]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Spermophilus,25529527]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+- '[[_Standards/WikiData/WD~Arctomys,24502341]]'
+- '[[_Standards/WikiData/WD~Citellus,26156044]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Spermophilus,25529527]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 Commons_gallery: Spermophilus
 Commons_category: Spermophilus
 taxon_name: Spermophilus
-ITIS_TSN: "180145"
+ITIS_TSN: 180145
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Europ%C3%A4ischer%20Ziesel%20in%20Hockstellung.jpg
-OmegaWiki_Defined_Meaning: "1573824"
+OmegaWiki_Defined_Meaning: 1573824
 EPPO_Code: 1SPRMG
 NBN_System_Key: NHMSYS0000376534
+dv_has_:
+  name_:
+    alt: Ӧркӧ
+    an: Spermophilus
+    ar: هوقل
+    arz: هوقل
+    ast: Spermophilus
+    av: ГӀанхвара
+    avk: Werpol (Spermophilus)
+    az: Sünbülqıran
+    ba: Йомрандар
+    be: Суслікі
+    be-tarask: суслак
+    bg: лалугери
+    br: Souslik
+    bxr: Зумбаhаа
+    ca: Spermophilus
+    ceb: Spermophilus
+    cs: sysel
+    cv: Тыркас
+    de: Ziesel
+    el: Σπερμόφιλος
+    en: Spermophilus
+    en-ca: Spermophilus
+    en-gb: Spermophilus
+    eo: Zizelo
+    es: Spermophilus
+    et: Suslik
+    eu: Spermophilus
+    ext: Spermophilus
+    fa: دانهدوستها
+    fi: siiselit
+    fr: spermophile
+    fy: Echte grûniikhoarntsjes
+    ga: Spermophilus
+    gl: Spermophilus
+    he: סוסליק
+    hu: ürge
+    hy: գետնասկյուռներ
+    ia: Spermophilus
+    ie: Spermophilus
+    io: Spermophilus
+    it: Spermophilus
+    ja: ジリス属
+    ka: თრია
+    kk: Сарышұнақтар
+    ko: 스페르모필루스속
+    la: Spermophilus
+    lt: Starai
+    mk: Стоболки
+    mt: Spermophilus
+    mul: Spermophilus
+    myv: Кайгарш
+    nl: Spermophilus
+    oc: Spermophilus
+    pl: Suseł
+    pt: Spermophilus
+    pt-br: Spermophilus
+    ro: Spermophilus
+    ru: Суслики
+    sah: Дьабарааскылар уустара
+    sk: Syseľ
+    sq: Spermophilus
+    sr: Tekunica
+    sv: Spermophilus
+    tg: Юрмон
+    tr: Gelengi
+    tt: Йомраннар
+    uk: Ховрах
+    uz: Yumronqoziqlar
+    vi: Spermophilus
+    vo: Spermophilus
+    war: Spermophilus
+    xmf: წვინორი
+    yue: 黃鼠屬
+    zh: 美洲黄鼠属
+    zh-cn: 美洲黄鼠属
+    zh-hans: 美洲黄鼠属
+    zh-tw: 美洲黃鼠屬
 ---
-
 # [[Spermophilus]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Spermophilus,199251|WD~Spermophilus,199251]]  

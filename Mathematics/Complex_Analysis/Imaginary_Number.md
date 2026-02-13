@@ -1,13 +1,81 @@
 ---
 aliases:
-  - imaginary number
-  - Imaginary_Number
-  - Imaginary Number
+- bilang na guni
+- bilangan khayal
+- imaginaararv
+- imaginaariluku
+- imaginaarloho
+- imaginaarlååkk
+- imaginair getal
+- imaginaire getalln
+- imaginara nombro
+- imaginarni broj
+- imaginarno število
+- imaginary number
+- Imaginary_Number
+- imaginární číslo
+- imaginära tal
+- imaginäre Zahl
+- imaginære tal
+- imaginært tal
+- imaginært tall
+- imaginêre getal
+- imaginārs skaitlis
+- képzetes szám
+- liczby urojone
+- menamasis skaičius
+- nombor khayalan
+- nombre imaginaire pur
+- nombre imaginari
+- numero immaginario
+- număr imaginar
+- númberu imaxinariu
+- número imaginario
+- número imaginário puro
+- número imaxinario
+- nümar imaginari
+- nọ́mbà tíkòsí
+- quantitas imaginaria
+- rhif dychmygol
+- sanal sayılar
+- số ảo
+- zenbaki irudikari
+- þvertala
+- φΦανταστικός αριθμός
+- жорамал сан
+- имагинарен број
+- имагинарни број
+- имагинерно число
+- таса ытарлă хисеп
+- уйланма һан
+- ухалдг тойг
+- уяўны лік
+- уявне число
+- чисто мнимое число
+- բացարձակ կեղծ թիվ
+- מספר מדומה
+- عدد تخيلي
+- عدد موهومی
+- نومبور خيالن
+- ژمارەی خەیاڵی
+- काल्पनिक संख्या
+- काल्पनिक सङ्ख्या
+- অবাস্তব সংখ্যা
+- ਕਾਲਪਨਿਕ ਸੰਖਿਆ
+- கற்பனை எண்
+- അവാസ്തവികസംഖ്യ
+- අතාත්වික සංඛ්යා
+- จำนวนจินตภาพ
+- ကိန်းတေး
+- წარმოსახვითი რიცხვი
+- 虚数
+- 虛數
+- 허수
 has_id_wikidata: Q9165172
 has_characteristic: '[[_Standards/WikiData/WD~absolute_value,120812]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~imaginary_unit,193796]]'
-  - '[[_Standards/WikiData/WD~real_number,12916]]'
+- '[[_Standards/WikiData/WD~imaginary_unit,193796]]'
+- '[[_Standards/WikiData/WD~real_number,12916]]'
 different_from: '[[_Standards/WikiData/WD~imaginary_part,1341545]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 part_of: '[[_Standards/WikiData/WD~set_of_imaginary_numbers,47310259]]'
@@ -18,8 +86,92 @@ in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmln
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>z</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">&#x2264;</mo><mn>0</mn></mstyle></mrow></math>
 IEV_number: 102-02-13
 Commons_category: Imaginary numbers
+dv_has_:
+  name_:
+    af: imaginêre getal
+    ar: عدد تخيلي
+    ast: númberu imaxinariu
+    ba: уйланма һан
+    be-tarask: уяўны лік
+    bg: имагинерно число
+    bn: অবাস্তব সংখ্যা
+    bs: imaginarni broj
+    ca: nombre imaginari
+    ckb: ژمارەی خەیاڵی
+    cs: imaginární číslo
+    cv: таса ытарлă хисеп
+    cy: rhif dychmygol
+    da: imaginære tal
+    de: imaginäre Zahl
+    de-ch: imaginäre Zahl
+    el: φΦανταστικός αριθμός
+    en: imaginary number
+    en-ca: imaginary number
+    en-gb: imaginary number
+    en-us: imaginary number
+    eo: imaginara nombro
+    es: número imaginario
+    et: imaginaararv
+    eu: zenbaki irudikari
+    fa: عدد موهومی
+    fi: imaginaariluku
+    fr: nombre imaginaire pur
+    gl: número imaxinario
+    he: מספר מדומה
+    hi: काल्पनिक संख्या
+    hr: imaginarni broj
+    hu: képzetes szám
+    hy: բացարձակ կեղծ թիվ
+    id: bilangan khayal
+    io: imaginara nombro
+    is: þvertala
+    it: numero immaginario
+    ja: 虚数
+    ka: წარმოსახვითი რიცხვი
+    kk: жорамал сан
+    ko: 허수
+    la: quantitas imaginaria
+    lmo: nümar imaginari
+    lt: menamasis skaičius
+    lv: imaginārs skaitlis
+    mag: काल्पनिक सङ्ख्या
+    mk: имагинарен број
+    ml: അവാസ്തവികസംഖ്യ
+    mr: काल्पनिक संख्या
+    ms: nombor khayalan
+    ms-arab: نومبور خيالن
+    my: ကိန်းတေး
+    nb: imaginært tall
+    nl: imaginair getal
+    nn: imaginært tal
+    pa: ਕਾਲਪਨਿਕ ਸੰਖਿਆ
+    pl: liczby urojone
+    pt: número imaginário puro
+    pt-br: número imaginário puro
+    ro: număr imaginar
+    ru: чисто мнимое число
+    si: අතාත්වික සංඛ්යා
+    sl: imaginarno število
+    smn: imaginaarloho
+    sms: imaginaarlååkk
+    sr: имагинарни број
+    sr-ec: имагинарни број
+    sv: imaginära tal
+    ta: கற்பனை எண்
+    th: จำนวนจินตภาพ
+    tl: bilang na guni
+    tr: sanal sayılar
+    uk: уявне число
+    vi: số ảo
+    vls: imaginaire getalln
+    wuu: 虚数
+    xal: ухалдг тойг
+    yo: nọ́mbà tíkòsí
+    yue: 虛數
+    zh: 虚数
+    zh-hk: 虛數
+    zh-tw: 虛數
 ---
-
 # [[Imaginary_Number]] 
 
 #is_/same_as :: [[WD~Imaginary_number,9165172]] 

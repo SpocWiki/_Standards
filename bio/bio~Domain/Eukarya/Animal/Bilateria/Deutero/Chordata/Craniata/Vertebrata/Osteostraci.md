@@ -1,9 +1,68 @@
 ---
 aliases:
-  - Osteostraci
+- Cá giáp xương
+- kilpikalat
+- Kostnopancerne
+- Kostnopanciernatce
+- Osteostraci
+- Остеостраци
+- אוסטסטרקים
+- استخوانزرهان
+- مدرعات العظم
+- 骨甲目
+- 骨甲魚綱
+- 骨甲鱼纲
 title: Osteostraci
+has_id_wikidata: Q132935
+dv_has_:
+  name_:
+    an: Osteostraci
+    ar: مدرعات العظم
+    arz: مدرعات العظم
+    ast: Osteostraci
+    bg: Osteostraci
+    ca: Osteostraci
+    ceb: Osteostraci
+    de: Osteostraci
+    en: Osteostraci
+    eo: Osteostraci
+    es: Osteostraci
+    eu: Osteostraci
+    ext: Osteostraci
+    fa: استخوانزرهان
+    fi: kilpikalat
+    fr: Osteostraci
+    ga: Osteostraci
+    gl: Osteostraci
+    he: אוסטסטרקים
+    hu: Osteostraci
+    ia: Osteostraci
+    ie: Osteostraci
+    io: Osteostraci
+    it: Osteostraci
+    ja: 骨甲目
+    la: Osteostraci
+    mul: Osteostraci
+    nl: Osteostraci
+    oc: Osteostraci
+    pl: Kostnopancerne
+    pt: Osteostraci
+    pt-br: Osteostraci
+    ro: Osteostraci
+    ru: Osteostraci
+    sk: Kostnopanciernatce
+    sq: Osteostraci
+    sr: Остеостраци
+    sr-ec: Остеостраци
+    sr-el: Osteostraci
+    uk: Osteostraci
+    vi: Cá giáp xương
+    vo: Osteostraci
+    war: Osteostraci
+    zh: 骨甲魚綱
+    zh-cn: 骨甲鱼纲
+    zh-hans: 骨甲鱼纲
 ---
-
 # [[Osteostraci]]
 
 

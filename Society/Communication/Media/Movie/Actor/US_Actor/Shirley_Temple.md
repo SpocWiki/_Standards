@@ -1,41 +1,71 @@
 ---
 aliases:
-  - Shirley_Temple
-  - Shirley Temple Black
-  - Shirley Jane Temple
-  - Shirley Temple
-  - Temple
+- Shirley Jane Temple
+- Shirley Jane Templová
+- Shirley Temple
+- Shirley Temple Black
+- Shirley Temple-Blacková
+- Shirley_Temple
+- Temple
+- Şirli Templ
+- Širli Templ
+- Šērlija Templa
+- Σίρλεϊ Τέμπλ
+- Темпл Ширли
+- Ширлі Темпл
+- Ширли Темпл
+- Шърли Темпъл
+- Шырлі Тэмпл
+- Շըրլի Թեմփըլ
+- Շիռլի Թեմպլ
+- שירלי טמפל
+- شرلی تمپل
+- شرلی ٹیمپل
+- شيرلى تيمبل
+- شيرلي تيمبل
+- शर्ली टेम्पल
+- शर्ले टेम्पल
+- শার্লি টেম্পল
+- ਸ਼ਰਲੀ ਟੈਂਪਲ
+- சிர்லி டெம்பிள்
+- ഷിർലി ടെംപിൾ ബ്ലാക്ക്
+- შერლი ტემფლი
+- シャーリー・テンプル
+- 秀兰·邓波儿
+- 秀蘭·鄧波爾
+- 莎莉譚寶
+- 셜리 템플
 has_id_wikidata: Q182580
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~diplomat,193391]]'
-  - '[[_Standards/WikiData/WD~child_actor,970153]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~child_actor,970153]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 cause_of_death: '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
 dance_style: '[[_Standards/WikiData/WD~tap_dance,244475]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Juvenile_Award,489705]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Plzeň,51954535]]'
+- '[[_Standards/WikiData/WD~Academy_Juvenile_Award,489705]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Plzeň,51954535]]'
 spouse:
-  - '[[_Standards/WikiData/WD~John_Agar,593286]]'
-  - '[[_Standards/WikiData/WD~Charles_Alden_Black,5075025]]'
+- '[[_Standards/WikiData/WD~John_Agar,593286]]'
+- '[[_Standards/WikiData/WD~Charles_Alden_Black,5075025]]'
 place_of_death: '[[_Standards/WikiData/WD~Woodside,984177]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Jane,1682564]]'
-  - '[[_Standards/WikiData/WD~Shirley,13872259]]'
+- '[[_Standards/WikiData/WD~Jane,1682564]]'
+- '[[_Standards/WikiData/WD~Shirley,13872259]]'
 child: '[[_Standards/WikiData/WD~Lori_Black,2257107]]'
 place_of_burial: '[[_Standards/WikiData/WD~Alta_Mesa_Memorial_Park,2477691]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Black,2662465]]'
-  - '[[_Standards/WikiData/WD~Agar,12784009]]'
-  - '[[_Standards/WikiData/WD~Temple,21500480]]'
+- '[[_Standards/WikiData/WD~Black,2662465]]'
+- '[[_Standards/WikiData/WD~Agar,12784009]]'
+- '[[_Standards/WikiData/WD~Temple,21500480]]'
 record_label: '[[_Standards/WikiData/WD~RCA_Victor,3415083]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at: '[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]'
@@ -46,8 +76,8 @@ father: '[[_Standards/WikiData/WD~George_Francis_Temple,15726370]]'
 mother: '[[_Standards/WikiData/WD~Gertrude_Amelia_Temple,15726371]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Records_of_persons_of_interest,104900509]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -60,15 +90,15 @@ place_of_birth: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
 identifier_in_filmpolski_movie_database: 10565
 Commons_category: Shirley Temple
 work_period_start_:
-  - 1932-01-01T00:00:00Z
-  - 1967-01-01T00:00:00Z
+- 1932-01-01T00:00:00Z
+- 1967-01-01T00:00:00Z
 date_of_birth: 1928-04-23T00:00:00Z
 date_of_death: 2014-02-10T00:00:00Z
 name_in_native_language: Shirley Temple
 birth_name: Shirley Temple
 work_period_end_:
-  - 1963-01-01T00:00:00Z
-  - 1992-01-01T00:00:00Z
+- 1963-01-01T00:00:00Z
+- 1992-01-01T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Shirley%20Temple%20Black%20autograph.JPG
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shirleytemple.jpg
 official_website: https://www.shirleytemple.com/
@@ -78,8 +108,107 @@ Libris_URI: 97mqwwst5l0x29f
 Europeana_entity: agent/base/150395
 Google_Doodle: celebrating-shirley-temple
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/TEMPL_SHIRLI.html
+dv_has_:
+  name_:
+    af: Shirley Temple
+    ar: شيرلي تيمبل
+    arz: شيرلى تيمبل
+    ast: Shirley Temple
+    az: Şirli Templ
+    azb: شرلی تمپل
+    ba: Темпл Ширли
+    be: Шырлі Тэмпл
+    be-tarask: Шырлі Тэмпл
+    bg: Шърли Темпъл
+    bi: Shirley Temple
+    bn: শার্লি টেম্পল
+    bs: Shirley Temple
+    ca: Shirley Temple
+    cs: Shirley Temple-Blacková
+    cy: Shirley Temple
+    da: Shirley Temple
+    de: Shirley Temple
+    de-ch: Shirley Temple
+    el: Σίρλεϊ Τέμπλ
+    en: Shirley Temple
+    en-ca: Shirley Temple
+    en-gb: Shirley Temple
+    eo: Shirley Temple
+    es: Shirley Temple
+    et: Shirley Temple
+    eu: Shirley Temple
+    fa: شرلی تمپل
+    fi: Shirley Temple
+    fo: Shirley Temple
+    fr: Shirley Temple
+    fy: Shirley Temple
+    ga: Shirley Temple
+    gl: Shirley Temple
+    he: שירלי טמפל
+    hi: शर्ले टेम्पल
+    hif: Shirley Temple
+    hr: Shirley Temple
+    hu: Shirley Temple
+    hy: Շիռլի Թեմպլ
+    hyw: Շըրլի Թեմփըլ
+    id: Shirley Temple
+    ig: Shirley Temple
+    ilo: Shirley Temple
+    io: Shirley Temple
+    it: Shirley Temple
+    ja: シャーリー・テンプル
+    ka: შერლი ტემფლი
+    ko: 셜리 템플
+    la: Shirley Temple
+    lb: Shirley Temple
+    lt: Shirley Jane Temple
+    lv: Šērlija Templa
+    mg: Shirley Temple
+    mk: Ширли Темпл
+    ml: ഷിർലി ടെംപിൾ ബ്ലാക്ക്
+    mul: Shirley Temple
+    nb: Shirley Temple
+    new: शर्ली टेम्पल
+    nl: Shirley Temple
+    nn: Shirley Temple
+    oc: Shirley Temple
+    pa: ਸ਼ਰਲੀ ਟੈਂਪਲ
+    pam: Shirley Temple
+    pap: Shirley Temple
+    pl: Shirley Temple
+    pt: Shirley Temple
+    pt-br: Shirley Temple
+    ro: Shirley Temple
+    ru: Ширли Темпл
+    sco: Shirley Temple
+    sh: Shirley Temple
+    sk: Shirley Jane Templová
+    skr: شرلی ٹیمپل
+    sl: Shirley Temple
+    sq: Shirley Temple
+    sr: Ширли Темпл
+    sr-ec: Ширли Темпл
+    sr-el: Širli Templ
+    sv: Shirley Temple
+    ta: சிர்லி டெம்பிள்
+    tl: Shirley Temple
+    tr: Shirley Temple
+    uk: Ширлі Темпл
+    ur: شرلی ٹیمپل
+    uz: Shirley Temple
+    vi: Shirley Temple
+    war: Shirley Temple
+    wuu: 秀兰·邓波儿
+    yo: Shirley Temple
+    yue: 莎莉譚寶
+    zh: 秀兰·邓波儿
+    zh-cn: 秀兰·邓波儿
+    zh-hans: 秀兰·邓波儿
+    zh-hant: 秀蘭·鄧波爾
+    zh-hk: 莎莉譚寶
+    zh-sg: 秀兰·邓波儿
+    zh-tw: 秀蘭·鄧波爾
 ---
-
 # [[Shirley_Temple]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Shirley_Temple,182580|WD~Shirley_Temple,182580]]  

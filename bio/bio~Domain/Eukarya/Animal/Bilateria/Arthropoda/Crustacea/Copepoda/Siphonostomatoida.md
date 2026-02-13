@@ -1,9 +1,71 @@
 ---
 aliases:
-  - Siphonostomatoida
+- Siphonostomatoida
+- Łóóʼ biyaʼ
+- سحاريات الفم
+- シフォノストム目
+- 管口水蚤目
 title: Siphonostomatoida
+has_id_wikidata: Q2226964
+dv_has_:
+  name_:
+    an: Siphonostomatoida
+    ar: سحاريات الفم
+    arz: سحاريات الفم
+    ast: Siphonostomatoida
+    bg: Siphonostomatoida
+    br: Siphonostomatoida
+    ca: Siphonostomatoida
+    ceb: Siphonostomatoida
+    co: Siphonostomatoida
+    da: Siphonostomatoida
+    de: Siphonostomatoida
+    en: Siphonostomatoida
+    eo: Siphonostomatoida
+    es: Siphonostomatoida
+    eu: Siphonostomatoida
+    ext: Siphonostomatoida
+    fi: Siphonostomatoida
+    fr: Siphonostomatoida
+    ga: Siphonostomatoida
+    gl: Siphonostomatoida
+    hu: Siphonostomatoida
+    ia: Siphonostomatoida
+    id: Siphonostomatoida
+    ie: Siphonostomatoida
+    io: Siphonostomatoida
+    it: Siphonostomatoida
+    ja: シフォノストム目
+    la: Siphonostomatoida
+    lad: Siphonostomatoida
+    lmo: Siphonostomatoida
+    mul: Siphonostomatoida
+    nb: Siphonostomatoida
+    nl: Siphonostomatoida
+    nn: Siphonostomatoida
+    nov: Siphonostomatoida
+    nrm: Siphonostomatoida
+    nv: Łóóʼ biyaʼ
+    oc: Siphonostomatoida
+    pl: Siphonostomatoida
+    pt: Siphonostomatoida
+    pt-br: Siphonostomatoida
+    rm: Siphonostomatoida
+    ro: Siphonostomatoida
+    ru: Siphonostomatoida
+    rup: Siphonostomatoida
+    sq: Siphonostomatoida
+    sv: Siphonostomatoida
+    tr: Siphonostomatoida
+    uk: Siphonostomatoida
+    vi: Siphonostomatoida
+    vo: Siphonostomatoida
+    war: Siphonostomatoida
+    zh: 管口水蚤目
+    zh-cn: 管口水蚤目
+    zh-hans: 管口水蚤目
+    zh-tw: 管口水蚤目
 ---
-
 # [[Siphonostomatoida]] 
 
 ![Cryptopontius_thorelli](Siphonostomatoida/Cryptopontius_thorelli.jpg) 

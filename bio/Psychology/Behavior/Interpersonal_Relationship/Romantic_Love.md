@@ -1,14 +1,75 @@
 ---
 aliases:
-  - Romance
-  - Romantic love
-  - Romantic_Love
-  - Romantic Love
+- amor romàntego
+- amor romàntic
+- amor romántico
+- Amor románticu
+- amor romântico
+- amore romantico
+- cariad rhamantus
+- Dala
+- Liebesbeziehung
+- Lãng mạn
+- maitasun erromantiko
+- miłość romantyczna
+- Nanu ya ing Sinta
+- percintaan
+- relacion amorosa
+- relation amoureuse
+- romanca
+- Romance
+- romansa
+- Romantic love
+- romantická láska
+- Romantic_Love
+- romantiek
+- Romantik amo
+- Romantik aşk
+- Romantik sevgi
+- Romantika
+- romantika amo
+- Romantikong relasyon
+- romantiline armastus
+- romantisk kjærlighet
+- romantisk kärlek
+- romantisk kærlighed
+- Romantism (dragoste)
+- romanttinen rakkaus
+- Romantyk
+- Shoku
+- szerelem
+- έρωτας
+- Муҳаббати ошиқона
+- рамантычнае каханне
+- рамантычнае каханьне
+- Романс
+- романса
+- Романтик хайр
+- романтическая любовь
+- романтичне кохання
+- ռոմանտիկ սեր
+- אהבה רומנטית
+- حب رومانسي
+- رمانتیسم (عاشقانه)
+- رومانس
+- رومانسيه
+- رومانی محبت
+- ڕۆمانس
+- प्रणय
+- रूमानी प्रेम
+- প্রেম
+- ৰোমাণ্টিক প্ৰেম
+- ਰੋਮਾਂਸ
+- ᱨᱚᱢᱚᱡ (ᱫᱩᱞᱟᱹᱲ)
+- ロマンチック・ラブ
+- 浪漫关系
+- 浪漫關係
+- 연애
 has_id_wikidata: Q1189047
 opposite_of: '[[_Standards/WikiData/WD~platonic_love,209041]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
-  - '[[_Standards/WikiData/WD~love,316]]'
+- '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+- '[[_Standards/WikiData/WD~love,316]]'
 named_after: '[[_Standards/WikiData/WD~chivalric_romance,1159457]]'
 different_from: '[[_Standards/WikiData/WD~romantic_friendship,2487865]]'
 part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
@@ -17,8 +78,81 @@ Archive_of_Our_Own_tag: Romance
 Commons_category: Romance
 Baidu_Tieba_name: 浪漫
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Love%20is%20being%20stupid%20together.jpg
+dv_has_:
+  name_:
+    ar: حب رومانسي
+    arz: رومانسيه
+    as: ৰোমাণ্টিক প্ৰেম
+    ast: Amor románticu
+    az: Romantik sevgi
+    bcl: Romantikong relasyon
+    be: рамантычнае каханне
+    be-tarask: рамантычнае каханьне
+    bg: Романс
+    bn: প্রেম
+    bs: romansa
+    ca: amor romàntic
+    ckb: ڕۆمانس
+    cs: romantická láska
+    cy: cariad rhamantus
+    da: romantisk kærlighed
+    de: Liebesbeziehung
+    el: έρωτας
+    en: romantic love
+    en-us: romantic love
+    eo: romantika amo
+    es: amor romántico
+    et: romantiline armastus
+    eu: maitasun erromantiko
+    fa: رمانتیسم (عاشقانه)
+    fi: romanttinen rakkaus
+    fr: relation amoureuse
+    fy: Romantyk
+    gl: amor romántico
+    he: אהבה רומנטית
+    hi: रूमानी प्रेम
+    hr: Romansa
+    hu: szerelem
+    hy: ռոմանտիկ սեր
+    id: percintaan
+    io: Romantik amo
+    it: amore romantico
+    ja: ロマンチック・ラブ
+    ko: 연애
+    mk: романса
+    mn: Романтик хайр
+    mr: प्रणय
+    nb: romantisk kjærlighet
+    nl: romantiek
+    oc: relacion amorosa
+    om: Dala
+    pa: ਰੋਮਾਂਸ
+    pam: Nanu ya ing Sinta
+    pl: miłość romantyczna
+    pt: amor romântico
+    ro: Romantism (dragoste)
+    ru: романтическая любовь
+    sat: ᱨᱚᱢᱚᱡ (ᱫᱩᱞᱟᱹᱲ)
+    sd: رومانس
+    sh: Romansa
+    sk: Romantika
+    sl: romanca
+    sq: Shoku
+    sr: романса
+    sv: romantisk kärlek
+    tg: Муҳаббати ошиқона
+    tr: Romantik aşk
+    uk: романтичне кохання
+    ur: رومانی محبت
+    vec: amor romàntego
+    vi: Lãng mạn
+    yue: 浪漫關係
+    zh: 浪漫关系
+    zh-cn: 浪漫关系
+    zh-hans: 浪漫关系
+    zh-hant: 浪漫關係
+    zh-hk: 浪漫關係
 ---
-
 # [[Romantic_Love]] 
 
 #is_/same_as :: [[WD~Romantic_love,1189047]]

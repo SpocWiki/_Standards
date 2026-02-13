@@ -1,8 +1,86 @@
 ---
-aliases: 
-has_id_wikidata: "773108"
+aliases:
+- Aromato
+- assaisonnement
+- blaistiú
+- condiment
+- condimentación
+- condimentar
+- condimentare
+- condimento
+- fűszerezés
+- hạt nêm
+- kondimentado
+- kruiden
+- kryddning
+- Maitsestamine
+- maustaminen
+- Pambumbuan
+- Pembumbuan
+- Perasa
+- przyprawianie
+- seasoning
+- sesnin
+- ukuthokela
+- Würzen
+- začinjavanje
+- začinjenje
+- άρτυμα
+- мирудија
+- приправление
+- прыпраўленьне
+- Համեմում
+- חומרי טעם וריח
+- تتبيل
+- چاشنیزنی
+- ܡܘܕܟܐ
+- ඒදීම
+- 調味
+- 香り付け
+- 양념
+has_id_wikidata: Q773108
+dv_has_:
+  name_:
+    ar: تتبيل
+    arc: ܡܘܕܟܐ
+    be-tarask: прыпраўленьне
+    bs: začinjavanje
+    ca: condiment
+    cy: sesnin
+    de: Würzen
+    el: άρτυμα
+    en: seasoning
+    en-us: seasoning
+    eo: kondimentado
+    es: condimentar
+    et: Maitsestamine
+    fa: چاشنیزنی
+    fi: maustaminen
+    fr: assaisonnement
+    ga: blaistiú
+    gl: condimentación
+    he: חומרי טעם וריח
+    hu: fűszerezés
+    hy: Համեմում
+    id: Pembumbuan
+    io: Aromato
+    it: condimento
+    ja: 香り付け
+    jv: Pambumbuan
+    ko: 양념
+    mk: мирудија
+    ms: Perasa
+    nl: kruiden
+    pl: przyprawianie
+    ro: condimentare
+    ru: приправление
+    si: ඒදීම
+    sl: začinjenje
+    sv: kryddning
+    vi: hạt nêm
+    zh: 調味
+    zu: ukuthokela
 ---
-
 # [[Seasoning]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~seasoning,773108]]

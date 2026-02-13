@@ -1,9 +1,79 @@
 ---
 aliases:
-  - Die Welt
-  - Die_Welt
+- Die Welt
+- Die_Welt
+- Велт
+- Вельт
+- די ולט
+- دي فيلت
+- دی ولت
+- ڈائی ولٹ
+- ডি ভেল্ট
+- ディ・ヴェルト
+- 世界報
+- 世界报
+- 디 벨트
+has_id_wikidata: Q29872
+dv_has_:
+  name_:
+    ar: دي فيلت
+    az: Die Welt
+    be: Die Welt
+    bg: Велт
+    bn: ডি ভেল্ট
+    br: Die Welt
+    ca: Die Welt
+    cs: Die Welt
+    da: Die Welt
+    de: Die Welt
+    de-at: Die Welt
+    de-ch: Die Welt
+    el: Die Welt
+    en: Die Welt
+    en-ca: Die Welt
+    en-gb: Die Welt
+    eo: Die Welt
+    es: Die Welt
+    et: Die Welt
+    eu: Die Welt
+    fa: دی ولت
+    fi: Die Welt
+    fr: Die Welt
+    ga: Die Welt
+    he: די ולט
+    hr: Die Welt
+    hu: Die Welt
+    id: Die Welt
+    ie: Die Welt
+    it: Die Welt
+    ja: ディ・ヴェルト
+    ko: 디 벨트
+    ku: Die Welt
+    la: Die Welt
+    lt: Die Welt
+    nb: Die Welt
+    nl: Die Welt
+    oc: Die Welt
+    pl: Die Welt
+    pt: Die Welt
+    qu: Die Welt
+    ro: Die Welt
+    ru: Вельт
+    scn: Die Welt
+    sco: Die Welt
+    sk: Die Welt
+    sv: Die Welt
+    sw: Die Welt
+    tg: Die Welt
+    tr: Die Welt
+    uk: Die Welt
+    ur: ڈائی ولٹ
+    vi: Die Welt
+    zh: 世界报
+    zh-cn: 世界报
+    zh-hans: 世界报
+    zh-hant: 世界報
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Die Welt** (German pronunciation: [diː ˈvɛlt], lit. 'The World') 

@@ -1,91 +1,138 @@
 ---
 aliases:
-  - Richard Nixon
-  - Richard_Nixon
-  - Nixon
-  - Richard Milhous Nixon
-  - Nixon,Richard
+- Nixon
+- Nixon,Richard
+- Ricardus Milhous Nixon
+- Richard M. Nixon
+- Richard Milhous Nixon
+- Richard Nixon
+- Richard_Nixon
+- Riçard Nikson
+- Riçard Nikşon
+- Ričards Niksons
+- Ρίτσαρντ Νίξον
+- Никсон Ричард Милхауз
+- Річард Ніксон
+- Ричард Милхауз Никсон
+- Ричард Никсон
+- Ричард Никсън
+- Рычард Мілхаўс Ніксан
+- Рычард Ніксан
+- Ռիչարդ Նիքսոն
+- Ռիչըրտ Նիքսըն
+- ריטשארד ניקסאן
+- ריצ'רד ניקסון
+- رىچارد نىكسون
+- ريتشارد نيكسون
+- رچرڈ نکسن
+- ریچارد نیکسون
+- ریچارډ میلهوس نیکسون
+- ڕیچارد نیکسۆن
+- ރިޗަރޑް ނިކްސަން
+- रिचर्ड निक्सन
+- रिचर्ड मिल्हौस निक्सन
+- रिचार्ड निक्सन
+- রিচার্ড নিক্সন
+- ਰਿਚਰਡ ਨਿਕਸਨ
+- ரிச்சர்ட் நிக்சன்
+- రిచర్డ్ నిక్సన్
+- ರಿಚರ್ಡ್ ನಿಕ್ಸನ್
+- റിച്ചാർഡ് നിക്സൺ
+- රිචඩ් නික්සන්
+- ริชาร์ด นิกสัน
+- ຣິຊາດ ນິກສັນ
+- ရစ်ချက် နစ်ကဆင်
+- რიჩარდ ნიქსონი
+- ሪቻርድ ኒክሰን
+- ᎵᏣᏗ ᏂᎩᏌᏂ
+- リチャード・ニクソン
+- 尼克松
+- 尼克森
+- 李察·尼克遜
+- 理察尼克遜
+- 理查德·尼克松
+- 리처드 닉슨
 has_id_wikidata: Q9588
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-spouse: "[[_Standards/WikiData/WD~Pat_Nixon,158707]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+spouse: '[[_Standards/WikiData/WD~Pat_Nixon,158707]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Duke_University,168751]]"
-  - "[[_Standards/WikiData/WD~Duke_University_School_of_Law,5312901]]"
-  - "[[_Standards/WikiData/WD~Fullerton_Union_High_School,5508304]]"
-  - "[[_Standards/WikiData/WD~Whittier_College,7996868]]"
-  - "[[_Standards/WikiData/WD~Whittier_High_School,7996874]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Quakers,170208]]"
+- '[[_Standards/WikiData/WD~Duke_University,168751]]'
+- '[[_Standards/WikiData/WD~Duke_University_School_of_Law,5312901]]'
+- '[[_Standards/WikiData/WD~Fullerton_Union_High_School,5508304]]'
+- '[[_Standards/WikiData/WD~Whittier_College,7996868]]'
+- '[[_Standards/WikiData/WD~Whittier_High_School,7996874]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Quakers,170208]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]"
-  - "[[_Standards/WikiData/WD~Nishan_e_Pakistan,1820710]]"
-  - "[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]"
-  - "[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]"
-  - "[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]"
-  - "[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]"
-  - "[[_Standards/WikiData/WD~Commendation_Medal,2986122]]"
-  - "[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]"
-  - "[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]"
-  - "[[_Standards/WikiData/WD~Navy_and_Marine_Corps_Commendation_Medal,16144959]]"
+- '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Italian_Republic,1059569]]'
+- '[[_Standards/WikiData/WD~Nishan_e_Pakistan,1820710]]'
+- '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+- '[[_Standards/WikiData/WD~Asiatic_Pacific_Campaign_Medal,2338071]]'
+- '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
+- '[[_Standards/WikiData/WD~National_Defense_Service_Medal,2611552]]'
+- '[[_Standards/WikiData/WD~Commendation_Medal,2986122]]'
+- '[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]'
+- '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~Navy_and_Marine_Corps_Commendation_Medal,16144959]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]"
-  - "[[_Standards/WikiData/WD~American_Legion,468865]]"
-  - "[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]"
-place_of_birth: "[[_Standards/WikiData/WD~Yorba_Linda,493518]]"
+- '[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]'
+- '[[_Standards/WikiData/WD~American_Legion,468865]]'
+- '[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]'
+place_of_birth: '[[_Standards/WikiData/WD~Yorba_Linda,493518]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Whittier,838791]]"
-  - "[[_Standards/WikiData/WD~La_Habra,948071]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+- '[[_Standards/WikiData/WD~Whittier,838791]]'
+- '[[_Standards/WikiData/WD~La_Habra,948071]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Richard,1249148]]"
-  - "[[_Standards/WikiData/WD~Milhous,101251048]]"
+- '[[_Standards/WikiData/WD~Richard,1249148]]'
+- '[[_Standards/WikiData/WD~Milhous,101251048]]'
 position_held:
-  - "[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]"
-  - "[[_Standards/WikiData/WD~United_States_senator,4416090]]"
-  - "[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]"
-  - "[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]"
-  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-archives_at: "[[_Standards/WikiData/WD~Richard_Nixon_Presidential_Library_and_Museum,1754354]]"
-place_of_burial: "[[_Standards/WikiData/WD~Richard_Nixon_Presidential_Library_and_Museum,1754354]]"
+- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]'
+- '[[_Standards/WikiData/WD~United_States_senator,4416090]]'
+- '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]'
+- '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+archives_at: '[[_Standards/WikiData/WD~Richard_Nixon_Presidential_Library_and_Museum,1754354]]'
+place_of_burial: '[[_Standards/WikiData/WD~Richard_Nixon_Presidential_Library_and_Museum,1754354]]'
 child:
-  - "[[_Standards/WikiData/WD~Julie_Nixon_Eisenhower,1770472]]"
-  - "[[_Standards/WikiData/WD~Tricia_Nixon_Cox,7841119]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+- '[[_Standards/WikiData/WD~Julie_Nixon_Eisenhower,1770472]]'
+- '[[_Standards/WikiData/WD~Tricia_Nixon_Cox,7841119]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 military_or_police_rank:
-  - "[[_Standards/WikiData/WD~lieutenant_commander,3983433]]"
-  - "[[_Standards/WikiData/WD~captain_3rd_rank,23021487]]"
+- '[[_Standards/WikiData/WD~lieutenant_commander,3983433]]'
+- '[[_Standards/WikiData/WD~captain_3rd_rank,23021487]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Donald_Nixon,5294941]]"
-  - "[[_Standards/WikiData/WD~Edward_Nixon,5344628]]"
-father: "[[_Standards/WikiData/WD~Francis_A._Nixon,5479914]]"
-nominated_for: "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Audio_Book,_Narration_&_Storytelling_Recording,5593890]]"
-mother: "[[_Standards/WikiData/WD~Hannah_Milhous_Nixon,5648899]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Donald_Nixon,5294941]]'
+- '[[_Standards/WikiData/WD~Edward_Nixon,5344628]]'
+father: '[[_Standards/WikiData/WD~Francis_A._Nixon,5479914]]'
+nominated_for: '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Audio_Book,_Narration_&_Storytelling_Recording,5593890]]'
+mother: '[[_Standards/WikiData/WD~Hannah_Milhous_Nixon,5648899]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~Assignment_Earth,7600958]]"
-  - "[[_Standards/WikiData/WD~Federation_The_First_150_Years,47468233]]"
-family_name: "[[_Standards/WikiData/WD~Nixon,16880460]]"
-eye_color: "[[_Standards/WikiData/WD~dark_brown,17244894]]"
-blood_type: "[[_Standards/WikiData/WD~Q19831453,19831453]]"
-hair_color: "[[_Standards/WikiData/WD~dark_brown_hair,28961883]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-member_of_sports_team: "[[_Standards/WikiData/WD~Whittier_Poets_football,107877871]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Navy,11220]]"
-place_of_death: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-cause_of_death: "[[_Standards/WikiData/WD~stroke,12202]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Assignment_Earth,7600958]]'
+- '[[_Standards/WikiData/WD~Federation_The_First_150_Years,47468233]]'
+family_name: '[[_Standards/WikiData/WD~Nixon,16880460]]'
+eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831453,19831453]]'
+hair_color: '[[_Standards/WikiData/WD~dark_brown_hair,28961883]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+member_of_sports_team: '[[_Standards/WikiData/WD~Whittier_Poets_football,107877871]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Navy,11220]]'
+place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+cause_of_death: '[[_Standards/WikiData/WD~stroke,12202]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 3
 height: 182
 Krugosvet_article_archived_: istoriya/NIKSON_RICHARD_MILHAUC.html
@@ -107,37 +154,215 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Nixon%20
 ISNI: 122790777
 Libris_URI: 42gjldtn5k9xqxn
 Plex_person_key: 5d77682b2e80df001ebdd55e
-dv_has_role: "[[../US_President]]"
+dv_has_role: '[[../US_President]]'
 dv_created: 1969-01-20
 dv_cancelled: 1974-08-09
 dv_has_:
+  name_:
+    af: Richard Nixon
+    am: ሪቻርድ ኒክሰን
+    an: Richard Nixon
+    ang: Richard Nixon
+    ar: ريتشارد نيكسون
+    ary: ريتشارد نيكسون
+    arz: ريتشارد نيكسون
+    ast: Richard Nixon
+    az: Riçard Nikson
+    azb: ریچارد نیکسون
+    ban: Richard Nixon
+    bcl: Richard Nixon
+    be: Рычард Мілхаўс Ніксан
+    be-tarask: Рычард Ніксан
+    bg: Ричард Никсън
+    bi: Richard Nixon
+    bn: রিচার্ড নিক্সন
+    br: Richard Nixon
+    bs: Richard Nixon
+    ca: Richard Nixon
+    cdo: Richard Nixon
+    ceb: Richard M. Nixon
+    chr: ᎵᏣᏗ ᏂᎩᏌᏂ
+    ckb: ڕیچارد نیکسۆن
+    co: Richard M. Nixon
+    crh: Riçard Nikşon
+    cs: Richard Nixon
+    cv: Ричард Никсон
+    cy: Richard Nixon
+    da: Richard Nixon
+    dag: Richard Nixon
+    de: Richard Nixon
+    de-ch: Richard Nixon
+    diq: Richard Nixon
+    dtp: Richard Nixon
+    dv: ރިޗަރޑް ނިކްސަން
+    el: Ρίτσαρντ Νίξον
+    en: Richard Nixon
+    en-ca: Richard Nixon
+    en-gb: Richard Nixon
+    eo: Richard Nixon
+    es: Richard Nixon
+    et: Richard Nixon
+    eu: Richard Nixon
+    ext: Richard Nixon
+    fa: ریچارد نیکسون
+    fi: Richard Nixon
+    fit: Richard Nixon
+    fo: Richard Nixon
+    fr: Richard Nixon
+    frp: Richard Nixon
+    frr: Richard Nixon
+    fur: Richard Nixon
+    fy: Richard Nixon
+    ga: Richard Nixon
+    gd: Richard Nixon
+    gl: Richard Nixon
+    gsw: Richard Nixon
+    guw: Richard Nixon
+    gv: Richard Nixon
+    hak: Richard Nixon
+    haw: Richard Nixon
+    he: ריצ'רד ניקסון
+    hi: रिचर्ड मिल्हौस निक्सन
+    hr: Richard Nixon
+    hsb: Richard Nixon
+    ht: Richard Nixon
+    hu: Richard Nixon
+    hy: Ռիչարդ Նիքսոն
+    hyw: Ռիչըրտ Նիքսըն
+    ia: Richard Nixon
+    id: Richard Nixon
+    ilo: Richard Nixon
+    io: Richard Nixon
+    is: Richard Nixon
+    it: Richard Nixon
+    ja: リチャード・ニクソン
+    jv: Richard Nixon
+    ka: რიჩარდ ნიქსონი
+    kk: Ричард Милхауз Никсон
+    kn: ರಿಚರ್ಡ್ ನಿಕ್ಸನ್
+    ko: 리처드 닉슨
+    krc: Ричард Никсон
+    ksh: Richard M. Nixon
+    ku: Richard Nixon
+    kw: Richard Nixon
+    ky: Никсон Ричард Милхауз
+    la: Ricardus Milhous Nixon
+    lb: Richard Nixon
+    lfn: Richard Nixon
+    li: Richard Nixon
+    lij: Richard Nixon
+    lmo: Richard Nixon
+    lo: ຣິຊາດ ນິກສັນ
+    lt: Richard Nixon
+    lv: Ričards Niksons
+    mdf: Ричард Никсон
+    mg: Richard Nixon
+    mk: Ричард Никсон
+    ml: റിച്ചാർഡ് നിക്സൺ
+    mn: Ричард Никсон
+    mr: रिचर्ड निक्सन
+    ms: Richard Nixon
+    mul: Richard Nixon
+    my: ရစ်ချက် နစ်ကဆင်
+    mzn: ریچارد نیکسون
+    nan: Richard Nixon
+    nb: Richard Nixon
+    nds: Richard Nixon
+    nds-nl: Richard Nixon
+    ne: रिचार्ड निक्सन
+    nl: Richard Nixon
+    nn: Richard Nixon
+    oc: Richard Nixon
+    os: Ричард Никсон
+    pa: ਰਿਚਰਡ ਨਿਕਸਨ
+    pam: Richard Nixon
+    pap: Richard Nixon
+    pl: Richard Nixon
+    pms: Richard Nixon
+    pnb: رچرڈ نکسن
+    ps: ریچارډ میلهوس نیکسون
+    pt: Richard Nixon
+    pt-br: Richard Nixon
+    qu: Richard Nixon
+    rm: Richard Nixon
+    rmf: Richard Nixon
+    ro: Richard Nixon
+    ru: Ричард Никсон
+    rw: Richard Nixon
+    sc: Richard Nixon
+    scn: Richard Nixon
+    sco: Richard Nixon
+    se: Richard Nixon
+    sgs: Richard Nixon
+    sh: Richard Nixon
+    si: රිචඩ් නික්සන්
+    sje: Richard Nixon
+    sju: Richard Nixon
+    sk: Richard Nixon
+    sl: Richard Nixon
+    sma: Richard Nixon
+    smj: Richard Nixon
+    smn: Richard Nixon
+    sms: Richard Nixon
+    sq: Richard Nixon
+    sr: Ричард Никсон
+    sv: Richard Nixon
+    sw: Richard Nixon
+    ta: ரிச்சர்ட் நிக்சன்
+    te: రిచర్డ్ నిక్సన్
+    tg: Ричард Никсон
+    th: ริชาร์ด นิกสัน
+    tl: Richard Nixon
+    tly: Riçard Nikson
+    tr: Richard Nixon
+    tt: Ричард Никсон
+    ug: رىچارد نىكسون
+    uk: Річард Ніксон
+    ur: رچرڈ نکسن
+    uz: Richard Nixon
+    vec: Richard Nixon
+    vi: Richard Nixon
+    vo: Richard Nixon
+    wa: Richard Nixon
+    war: Richard Nixon
+    wuu: 理查德·尼克松
+    xmf: რიჩარდ ნიქსონი
+    yi: ריטשארד ניקסאן
+    yo: Richard Nixon
+    yue: 理察尼克遜
+    zea: Richard Nixon
+    zh: 理查德·尼克松
+    zh-cn: 尼克松
+    zh-hant: 尼克森
+    zh-hk: 李察·尼克遜
+    zh-tw: 尼克森
+    zu: Richard Nixon
   time_:
     started: 1913-01-09T00:00:00.000+01:00
     stopped: 1994-04-22T00:00:00.000+02:00
-dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]"
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Richard_Nixon,9588|WD~Richard_Nixon,9588]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Nixon,Richard|Nixon,Richard]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Nixon,Richard.public|Nixon,Richard.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.internal|Nixon,Richard.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Nixon,Richard.protect|Nixon,Richard.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Nixon,Richard.private|Nixon,Richard.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.personal|Nixon,Richard.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Nixon,Richard.secret|Nixon,Richard.secret]]"
+  - '[[../../../../WikiData/WD~Richard_Nixon,9588|WD~Richard_Nixon,9588]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Nixon,Richard|Nixon,Richard]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Nixon,Richard.public|Nixon,Richard.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.internal|Nixon,Richard.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Nixon,Richard.protect|Nixon,Richard.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Nixon,Richard.private|Nixon,Richard.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.personal|Nixon,Richard.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Nixon,Richard.secret|Nixon,Richard.secret]]'
 dv_has_time_started: 1913-01-09
 dv_has_time_stopped: 1994-04-22
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Richard_Nixon,9588|WD~Richard_Nixon,9588]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Nixon,Richard|Nixon,Richard]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Nixon,Richard.public|Nixon,Richard.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.internal|Nixon,Richard.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Nixon,Richard.protect|Nixon,Richard.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Nixon,Richard.private|Nixon,Richard.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.personal|Nixon,Richard.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Nixon,Richard.secret|Nixon,Richard.secret]]"
+- '[[../../../../WikiData/WD~Richard_Nixon,9588|WD~Richard_Nixon,9588]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Nixon,Richard|Nixon,Richard]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Nixon,Richard.public|Nixon,Richard.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.internal|Nixon,Richard.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Nixon,Richard.protect|Nixon,Richard.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Nixon,Richard.private|Nixon,Richard.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Nixon,Richard.personal|Nixon,Richard.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Nixon,Richard.secret|Nixon,Richard.secret]]'
 ---
-
 # [[Nixon,Richard]]
 
 has_time_started = `=this.dv_has_time_started`

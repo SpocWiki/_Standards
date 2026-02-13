@@ -1,4 +1,67 @@
-
+---
+has_id_wikidata: Q1716022
+dv_has_:
+  name_:
+    ar: الأساطير اليهودية
+    az: yəhudi mifologiyası
+    be-tarask: жыдоўская міталёгія
+    ca: mitologia jueva
+    de: jüdische Mythologie
+    el: Εβραϊκή μυθολογία
+    en: Jewish mythology
+    eo: juda mitologio
+    es: mitología judía
+    eu: Judu mitologia
+    fr: mythologie juive
+    he: מיתולוגיה יהודית
+    hy: հրեական դիցաբանություն
+    it: mitologia ebraica
+    ja: ユダヤの神話
+    lv: ebreju mitoloģija
+    mk: еврејска митологија
+    my: ဂျူးဒဏ္ဍာရီ
+    nb: jødisk mytologi
+    nl: joodse mythologie
+    pt: folclore judaico
+    pt-br: mitologia judaica
+    ru: еврейская мифология
+    sl: judovska mitologija
+    sq: Mitologjia hebreje
+    sv: Judisk mytologi
+    tr: Yahudi mitolojisi
+    uk: Єврейська міфологія
+    zh: 猶太神話
+aliases:
+- ebreju mitoloģija
+- folclore judaico
+- Jewish mythology
+- joodse mythologie
+- juda mitologio
+- Judisk mytologi
+- judovska mitologija
+- Judu mitologia
+- jødisk mytologi
+- jüdische Mythologie
+- mitologia ebraica
+- mitologia judaica
+- mitologia jueva
+- Mitologjia hebreje
+- mitología judía
+- mythologie juive
+- Yahudi mitolojisi
+- yəhudi mifologiyası
+- Εβραϊκή μυθολογία
+- Єврейська міфологія
+- еврејска митологија
+- еврейская мифология
+- жыдоўская міталёгія
+- հրեական դիցաբանություն
+- מיתולוגיה יהודית
+- الأساطير اليهودية
+- ဂျူးဒဏ္ဍာရီ
+- ユダヤの神話
+- 猶太神話
+---
 # [[Jewish_Mythology]] 
 
 ## #has_/text_of_/abstract 

@@ -1,15 +1,33 @@
 ---
 aliases:
-  - Emotionale Stabilität
-  - Emotional Stability
-  - neuroticism
-  - Equanimity
-  - Big5~Emotional_Stability
-  - Big5~Emotional Stability
+- Big5~Emotional Stability
+- Big5~Emotional_Stability
+- calm
+- ecuanimidad
+- Emotional Stability
+- Emotionale Stabilität
+- Equanimity
+- Gelassenheit
+- Gelijkmoedigheid
+- Gwastadrwydd meddwl
+- metanet
+- neuroticism
+- Sereneco
+- serenità
+- Spokoj
+- équanimité
+- Хладнокровие
+- יישוב הדעת
+- آرامش
+- رباطة الجأش
+- 内心宁静
+- 宁静
+- 寧靜
+- 放下
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -27,12 +45,34 @@ linkTitle: Emotionale Stabilität
 publish: false
 publishDate: ''
 tags:
-  - Emotionale Stabilität
-  - excalidraw
+- Emotionale Stabilität
+- excalidraw
 title: Emotionale Stabilität
 type: private_note
+has_id_wikidata: Q47924
+dv_has_:
+  name_:
+    ar: رباطة الجأش
+    cy: Gwastadrwydd meddwl
+    de: Gelassenheit
+    en: Equanimity
+    eo: Sereneco
+    es: ecuanimidad
+    fa: آرامش
+    fr: équanimité
+    he: יישוב הדעת
+    hr: Spokoj
+    it: serenità
+    ja: 放下
+    nl: Gelijkmoedigheid
+    ro: calm
+    ru: Хладнокровие
+    tr: metanet
+    zh: 内心宁静
+    zh-cn: 宁静
+    zh-hans: 宁静
+    zh-hant: 寧靜
 ---
-
 # [[Big5~E-Emotional_Stability]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

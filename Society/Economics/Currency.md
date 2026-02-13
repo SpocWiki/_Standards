@@ -1,51 +1,370 @@
 ---
 aliases:
-  - Currency
+- adrim
+- airgeadra
+- argid cadjin
+- arian cyfred
+- Currency
+- currener
+- devisa
+- deviza
+- dibisa
+- dirav
+- divisa
+- doviz
+- geldeenheid
+- Geldsoort
+- gjaldmiðill
+- gjaldoyra
+- kañina
+- kretan
+- kuarta
+- kurencii
+- kuɗi
+- liidiye
+- lo jdini
+- manoye
+- mata epeng
+- Mata Pèssè
+- mata uang
+- mata wang
+- mato uang
+- mašeleng
+- mena
+- moeda
+- mona kemmyn
+- monea
+- moneda
+- monedă
+- moneiz
+- moneta
+- moneto
+- monnaie
+- mosɔlɔ
+- mounaie
+- mudra
+- munita
+- munt
+- Munte
+- muntienheid
+- měna
+- numerario
+- owóníná
+- padrão monetário
+- pananalapi
+- para birimi
+- para birlemi
+- pénznem
+- ruith-airgid
+- sandam-bola
+- sarafu
+- thong-hòe
+- tiền tệ
+- vaaluut
+- valiota
+- valiuta
+- valuda
+- valuhtta
+- valuta
+- valuto
+- valutt
+- valuuta
+- valuutta
+- valyuta
+- valūta
+- vałuta
+- waluta
+- Wearung
+- Währig
+- Währung
+- Wärung
+- νομισματική μονάδα
+- арз
+- валута
+- валютæ
+- валюта
+- гӏарац
+- міна
+- мүнгэн тэмдэгтэ
+- мөнгөн тэмдэгт
+- окса иктык
+- платьно срѣдьство
+- տարադրամ
+- וואלוטע
+- מטבע
+- دراو
+- صولدي
+- عملة
+- عمله
+- فلس
+- مات واڠ
+- مودا
+- پول بیریمی
+- پولي واحد
+- کرنسی
+- یکای پول
+- ܙܘܙܐ
+- ߝߊ߬ߘߊ߲߬ߞߊ
+- करेंसी
+- चलन
+- दां
+- मुद्रा
+- প্ৰচলিত মুদ্ৰা
+- মুদ্রা
+- ਮੁਦਰਾ
+- ମୁଦ୍ରା
+- நாணயம்
+- ద్రవ్యం
+- ನಗದು
+- നാണയം
+- เงินตรา
+- ເງິນຕາ
+- ငွေကြေး
+- သၠုဲ
+- ვალუტა
+- ባጤራ
+- የገንዘብ አይነት
+- 流通貨幣
+- 通貨
+- 通货
+- 통화
+- "\U00010346\U00010330\U00010339\U00010337\U0001033F\U0001033A\U00010339\U0001033D\U00010333\U00010343"
 has_id_wikidata: Q8142
 Basisklassifikation: 83.44
 Colon_Classification: X61
 Commons_category: Currencies
 described_at_URL: http://publications.europa.eu/code/en/en-5000500.htm
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 different_from:
-  - "[[_Standards/WikiData/WD~foreign_currencies,831772]]"
-  - "[[_Standards/WikiData/WD~Currency,5194983]]"
-  - "[[_Standards/WikiData/WD~Munt,6936966]]"
-  - "[[_Standards/WikiData/WD~Devise,15220494]]"
-  - "[[_Standards/WikiData/WD~Währung,110367783]]"
-  - "[[_Standards/WikiData/WD~money,1368]]"
-  - "[[_Standards/WikiData/WD~coin,41207]]"
-has_characteristic: "[[_Standards/WikiData/WD~currency_unit,12039317]]"
-has_list: "[[_Standards/WikiData/WD~list_of_currencies,858338]]"
-history_of_topic: "[[_Standards/WikiData/WD~Q3137262,3137262]]"
+- '[[_Standards/WikiData/WD~foreign_currencies,831772]]'
+- '[[_Standards/WikiData/WD~Currency,5194983]]'
+- '[[_Standards/WikiData/WD~Munt,6936966]]'
+- '[[_Standards/WikiData/WD~Devise,15220494]]'
+- '[[_Standards/WikiData/WD~Währung,110367783]]'
+- '[[_Standards/WikiData/WD~money,1368]]'
+- '[[_Standards/WikiData/WD~coin,41207]]'
+has_characteristic: '[[_Standards/WikiData/WD~currency_unit,12039317]]'
+has_list: '[[_Standards/WikiData/WD~list_of_currencies,858338]]'
+history_of_topic: '[[_Standards/WikiData/WD~Q3137262,3137262]]'
 IAB_code: 82
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Billets%20de%205000.jpg
-model_item: "[[_Standards/WikiData/WD~Indian_rupee,80524]]"
+model_item: '[[_Standards/WikiData/WD~Indian_rupee,80524]]'
 OmegaWiki_Defined_Meaning: 347472
 OpenStreetMap_tag_or_key: Key:currency
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Money%20and%20pills%20in%20three%20colors%20banner.jpg
 properties_for_this_type:
-  - currency symbol description
-  - ISO 4217 code
-  - central bank/issuer
-  - subdivision of this unit
-  - country
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~electronic_money,6501095]]"
+- currency symbol description
+- ISO 4217 code
+- central bank/issuer
+- subdivision of this unit
+- country
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~electronic_money,6501095]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/currency
 subclass_of:
-  - "[[_Standards/WikiData/WD~medium_of_exchange,11105360]]"
-  - "[[_Standards/WikiData/WD~means_of_payment,65240001]]"
-  - "[[_Standards/WikiData/WD~money,1368]]"
-  - "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]"
-Unicode_character: 💵
+- '[[_Standards/WikiData/WD~medium_of_exchange,11105360]]'
+- '[[_Standards/WikiData/WD~means_of_payment,65240001]]'
+- '[[_Standards/WikiData/WD~money,1368]]'
+- '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]'
+Unicode_character: "\U0001F4B5"
 Wikidata_property: currency
+dv_has_:
+  name_:
+    af: geldeenheid
+    am: የገንዘብ አይነት
+    an: divisa
+    ar: عملة
+    arc: ܙܘܙܐ
+    ary: صولدي
+    arz: عمله
+    as: প্ৰচলিত মুদ্ৰা
+    ast: moneda
+    av: гӏарац
+    awa: मुद्रा
+    az: valyuta
+    azb: پول بیریمی
+    ba: валюта
+    bar: Wearung
+    be: валюта
+    be-tarask: валюта
+    bg: валута
+    bho: करेंसी
+    bn: মুদ্রা
+    br: moneiz
+    bs: valuta
+    btm: mata epeng
+    bxr: мүнгэн тэмдэгтэ
+    ca: moneda
+    ce: валюта
+    ckb: دراو
+    crh: para birlemi
+    crh-latn: para birlemi
+    cs: měna
+    cu: платьно срѣдьство
+    cy: arian cyfred
+    da: valuta
+    de: Währung
+    de-ch: Währung
+    diq: doviz
+    el: νομισματική μονάδα
+    en: currency
+    en-ca: currency
+    en-gb: currency
+    en-us: currency
+    eo: valuto
+    es: moneda
+    et: valuuta
+    eu: dibisa
+    ext: monea
+    fa: یکای پول
+    fi: valuutta
+    fo: gjaldoyra
+    fr: monnaie
+    fy: munt
+    ga: airgeadra
+    gd: ruith-airgid
+    gl: moeda
+    got: "\U00010346\U00010330\U00010339\U00010337\U0001033F\U0001033A\U00010339\U0001033D\U00010333\U00010343"
+    gsw: Währig
+    gv: argid cadjin
+    ha: kuɗi
+    he: מטבע
+    hi: मुद्रा
+    hif: mudra
+    hr: valuta
+    hu: pénznem
+    hy: տարադրամ
+    ia: numerario
+    id: mata uang
+    ie: valuta
+    ilo: kuarta
+    io: moneto
+    is: gjaldmiðill
+    it: valuta
+    ja: 通貨
+    jbo: lo jdini
+    jv: valuta
+    ka: ვალუტა
+    kaa: valyuta
+    kab: adrim
+    kbp: liidiye
+    kk: валюта
+    kn: ನಗದು
+    knc: Currency
+    ko: 통화
+    krc: валюта
+    ku-latn: dirav
+    kw: mona kemmyn
+    ky: валюта
+    la: moneta
+    lb: Wärung
+    li: munt
+    lmo: valuda
+    ln: mosɔlɔ
+    lo: ເງິນຕາ
+    lt: valiuta
+    lv: valūta
+    mad: Mata Pèssè
+    mg: sandam-bola
+    mhr: окса иктык
+    min: mato uang
+    mk: валута
+    ml: നാണയം
+    mn: мөнгөн тэмдэгт
+    mnw: သၠုဲ
+    mr: चलन
+    ms: mata wang
+    ms-arab: مات واڠ
+    mt: valuta
+    mwl: moneda
+    my: ငွေကြေး
+    mzn: مودا
+    nan: thong-hòe
+    nb: valuta
+    nds: Geldsoort
+    nds-nl: muntienheid
+    ne: मुद्रा
+    new: दां
+    nl: valuta
+    nn: valuta
+    nqo: ߝߊ߬ߘߊ߲߬ߞߊ
+    nrm: mounaie
+    nso: mašeleng
+    oc: devisa
+    or: ମୁଦ୍ରା
+    os: валютæ
+    pa: ਮੁਦਰਾ
+    pap: moneda
+    pap-aw: moneda
+    pih: kurencii
+    pl: waluta
+    pms: valuta
+    pnb: کرنسی
+    ps: پولي واحد
+    pt: padrão monetário
+    pt-br: moeda
+    qu: kañina
+    rm: valuta
+    ro: monedă
+    ru: валюта
+    rue: міна
+    sah: валюта
+    scn: munita
+    sco: currener
+    se: valuhtta
+    sgs: valiota
+    sh: valuta
+    sk: mena
+    sl: valuta
+    smn: vaaluut
+    sms: valutt
+    sq: deviza
+    sr: валута
+    sr-ec: валута
+    sr-el: valuta
+    stq: Munte
+    su: mata uang
+    sv: valuta
+    sw: sarafu
+    ta: நாணயம்
+    te: ద్రవ్యం
+    tg: арз
+    tg-cyrl: арз
+    th: เงินตรา
+    ti: ባጤራ
+    tl: pananalapi
+    tr: para birimi
+    trv: kretan
+    tt: валюта
+    tt-cyrl: валюта
+    tyv: валюта
+    udm: валюта
+    uk: валюта
+    ur: فلس
+    uz: valyuta
+    vec: vałuta
+    vi: tiền tệ
+    wa: manoye
+    war: pananalapi
+    wuu: 通货
+    xmf: ვალუტა
+    yi: וואלוטע
+    yo: owóníná
+    yue: 通貨
+    zh: 通貨
+    zh-cn: 通货
+    zh-hans: 通货
+    zh-hant: 通貨
+    zh-hk: 流通貨幣
+    zh-mo: 通貨
+    zh-my: 通貨
+    zh-sg: 通貨
+    zh-tw: 通貨
 ---
-
 # [[Currency]] 💵 
 
 #is_/same_as :: [[../../WikiData/WD~Currency,8142|WD~Currency,8142]] 

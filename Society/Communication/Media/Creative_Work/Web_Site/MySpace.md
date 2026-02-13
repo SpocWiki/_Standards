@@ -1,5 +1,50 @@
 ---
-has_time_started: 2003-01-01 
+has_time_started: 2003-01-01
+aliases:
+- Myspace
+- my␣
+- Мајспејс
+- מייספייס
+- ماي سبيس
+- مايسبيس
+- مای سپێیس
+- مایاسپیس
+- माइस्पेस
+- माईस्पेस
+- মাইস্পেস
+- மைஸ்பேஸ்
+- ಮೈಸ್ಪೇಸ್
+- മൈസ്പേസ്
+- มายสเปซ
+- ማይስፔስ
+- 마이스페이스
+has_id_wikidata: Q40629
+locations: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
+creator: '[[_Standards/WikiData/WD~Tom_Anderson,1189725]]'
+founded_by:
+- '[[_Standards/WikiData/WD~Tom_Anderson,1189725]]'
+- '[[_Standards/WikiData/WD~Chris_DeWolfe,5106382]]'
+owner_of: '[[_Standards/WikiData/WD~Zephyr,1972018]]'
+instance_of:
+- '[[_Standards/WikiData/WD~social_networking_service,3220391]]'
+- '[[_Standards/WikiData/WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~website,35127]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Myspace,5911954]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Girl_Culture_An_Encyclopedia,116876043]]'
+different_from: '[[_Standards/WikiData/WD~SpaceHey,107123627]]'
+operator: '[[_Standards/WikiData/WD~Myspace,115258218]]'
+Wikidata_property: Myspace ID
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+industry: '[[_Standards/WikiData/WD~Internet,75]]'
+visitors_per_year: 25000000
+social_media_followers:
+- 5610
+- 210026
+Alexa_rank: 3787
+autonomous_system_number: 33739
+search_formatter_URL: https://myspace.com/search?q=has_time_started: 2003-01-01 
 aliases:
   - my␣
 has_id_wikidata: Q40629
@@ -41,8 +86,155 @@ Instagram_username: myspace
 Facebook_username: Myspace
 X_Twitter_username: Myspace
 Commons_category: Myspace
+native_label: Myspace
+inception: 2003-01-01T00:00:00Z
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-0x010C-Myspace.wav
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Myspace%20T-shirt%20%282406126656%29.jpg
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Myspacelogo2013.svg
+official_website: https://myspace.com
+booru_tag: myspace
+Tumblr_username: myspace
+Instagram_username: myspace
+Facebook_username: Myspace
+X_Twitter_username: Myspace
+Commons_category: Myspace
+dv_has_:
+  name_:
+    af: Myspace
+    am: ማይስፔስ
+    an: Myspace
+    ar: ماي سبيس
+    arz: مايسبيس
+    ast: Myspace
+    ay: Myspace
+    az: Myspace
+    bar: myspace
+    be: Myspace
+    be-tarask: Myspace
+    bg: Myspace
+    bn: মাইস্পেস
+    ca: MySpace
+    ckb: مای سپێیس
+    co: Myspace
+    cs: Myspace
+    cy: MySpace
+    da: Myspace
+    de: Myspace
+    de-at: Myspace
+    de-ch: Myspace
+    dty: माइस्पेस
+    el: Myspace
+    eml: Myspace
+    en: Myspace
+    en-ca: Myspace
+    en-gb: Myspace
+    eo: Myspace
+    es: Myspace
+    es-419: Myspace
+    et: Myspace
+    eu: Myspace
+    fa: مایاسپیس
+    fi: Myspace
+    fit: MySpace
+    fo: Myspace
+    fr: Myspace
+    frr: Myspace
+    fy: Myspace
+    ga: Myspace
+    gl: Myspace
+    gsw: Myspace
+    he: מייספייס
+    hi: माईस्पेस
+    hr: Myspace
+    hu: Myspace
+    hy: MySpace
+    ia: Myspace
+    id: Myspace
+    is: Myspace
+    it: Myspace
+    ja: Myspace
+    jv: Myspace
+    ka: Myspace
+    kn: ಮೈಸ್ಪೇಸ್
+    ko: 마이스페이스
+    ksh: Myspace
+    ku: Myspace
+    lb: Myspace
+    lfn: MySpace
+    li: Myspace
+    lmo: Myspace
+    lt: Myspace
+    lv: Myspace
+    mai: माइस्पेस
+    mhr: MySpace
+    mk: Myspace
+    ml: മൈസ്പേസ്
+    ms: Myspace
+    mul: Myspace
+    nap: Myspace
+    nb: Myspace
+    nds: Myspace
+    nds-nl: Myspace
+    ne: माइस्पेस
+    nl: Myspace
+    nn: Myspace
+    oc: Myspace
+    pam: Myspace
+    pfl: Myspace
+    pl: Myspace
+    pms: Myspace
+    pt: Myspace
+    pt-br: Myspace
+    qu: Myspace
+    rmf: MySpace
+    ro: Myspace
+    ru: Myspace
+    sah: Myspace
+    sc: Myspace
+    scn: Myspace
+    sco: Myspace
+    se: MySpace
+    sh: Myspace
+    sjd: MySpace
+    sje: MySpace
+    sju: MySpace
+    sk: myspace
+    sl: MySpace
+    sma: MySpace
+    smj: MySpace
+    smn: MySpace
+    sms: MySpace
+    so: Myspace
+    sq: Myspace
+    sr: Мајспејс
+    stq: Myspace
+    sv: Myspace
+    ta: மைஸ்பேஸ்
+    th: มายสเปซ
+    tr: Myspace
+    tt: Myspace
+    uk: Myspace
+    uz: Myspace
+    vec: Myspace
+    vep: MySpace
+    vi: Myspace
+    vls: Myspace
+    wa: Myspace
+    wuu: Myspace
+    xmf: MySpace
+    yi: Myspace
+    yue: Myspace
+    zea: Myspace
+    zh: Myspace
+    zh-cn: Myspace
+    zh-hans: Myspace
+    zh-hant: Myspace
+    zh-hk: Myspace
+    zh-mo: Myspace
+    zh-my: Myspace
+    zh-sg: Myspace
+    zh-tw: Myspace
 ---
-
 # [[MySpace]] 
 
 #is_/same_as :: [[WD~Myspace,40629]] 

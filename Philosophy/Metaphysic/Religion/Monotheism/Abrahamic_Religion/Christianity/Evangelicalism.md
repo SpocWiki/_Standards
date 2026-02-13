@@ -1,27 +1,86 @@
 ---
 aliases:
-  - evangelical Christianity
-  - evangelical Protestantism
-  - Evangelicalism
+- chủ nghĩa phúc âm
+- Creideamh nan Soisgeulasach
+- Ebanghelikalismo
+- Efengylaidd
+- Eglesias evanjélikas
+- evangelical
+- evangelical Christianity
+- evangelical Protestantism
+- Evangelicalism
+- evangelicalisme
+- evangelicalismo
+- Evangeliismo
+- Evangelikai
+- Evangelikal
+- evangelikalism
+- Evangelikalisme
+- evangelikalismus
+- evangelisch christendom
+- Evangelismus
+- evangelizam
+- evangelizmus
+- evangeličanstvo
+- evanghelism
+- Evangjelikalizmi
+- Evanhelicalisme
+- Evanjelikalizm
+- Evanjelikálne hnutie
+- Evanjelis
+- Evanjelisma
+- evankelikalisma
+- evankelikalismi
+- evanxelicalismo
+- Ewangelikalizm
+- Gesa Evangelega
+- Ilesies evanxéliques
+- kristautasun ebanjeliko
+- Protastúnachas Shoiscéalach
+- Protestantismo Ebanghelikanhën
+- Ukristo wa Kiinjilisti
+- Églléses èvangèliques
+- évangélisme
+- Ευαγγελικοί
+- Євангельські християни
+- евангелизам
+- евангелизм
+- Евангелизъм
+- Евангелисттер
+- евангельскія хрысціяне
+- эвангелізм
+- ավետարանչականություն
+- אוונגליזם
+- الإنجيلية
+- الكنيسه الانجيليه
+- انجیلی مسیحیت
+- انجیلیت
+- اوانجلیکال
+- مسیحیت انجیلی
+- शुभसंदेशीयवाद
+- நற்செய்தி இயக்கம்
+- 福音派
+- 福音神學
+- 복음주의
 has_id_wikidata: Q194253
 different_from:
-  - '[[_Standards/WikiData/WD~Protestant_church,346575]]'
-  - '[[_Standards/WikiData/WD~evangelism,373069]]'
+- '[[_Standards/WikiData/WD~Protestant_church,346575]]'
+- '[[_Standards/WikiData/WD~evangelism,373069]]'
 instance_of: '[[_Standards/WikiData/WD~Christian_movement,995347]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Evangelical_Christianity,14614581]]'
 operating_area:
-  - '[[_Standards/WikiData/WD~Australia,408]]'
-  - '[[_Standards/WikiData/WD~New_Zealand,664]]'
-  - '[[_Standards/WikiData/WD~Philippines,928]]'
-  - '[[_Standards/WikiData/WD~Nigeria,1033]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Netherlands,55]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 member_count: 619
@@ -30,8 +89,85 @@ subreddit: Evangelical
 Commons_category: Evangelical Christianity
 OpenStreetMap_tag_or_key: Tag:denomination=evangelical
 name_in_kana: ふくいんは
+dv_has_:
+  name_:
+    ar: الإنجيلية
+    arz: الكنيسه الانجيليه
+    ast: Ilesies evanxéliques
+    azb: اوانجلیکال
+    be: евангельскія хрысціяне
+    be-tarask: эвангелізм
+    bg: Евангелизъм
+    ca: evangelicalisme
+    ceb: Ebanghelikalismo
+    cs: evangelikalismus
+    cy: Efengylaidd
+    da: Evangelikalisme
+    de: Evangelikalismus
+    diq: Evanjelikalizm
+    el: Ευαγγελικοί
+    en: Evangelicalism
+    en-ca: Evangelicalism
+    en-gb: Evangelicalism
+    eo: Evangeliismo
+    es: evangelicalismo
+    eu: kristautasun ebanjeliko
+    fa: مسیحیت انجیلی
+    fi: evankelikalismi
+    fr: évangélisme
+    frp: Églléses èvangèliques
+    ga: Protastúnachas Shoiscéalach
+    gd: Creideamh nan Soisgeulasach
+    gl: evanxelicalismo
+    he: אוונגליזם
+    hi: शुभसंदेशीयवाद
+    ht: Evanjelis
+    hu: evangelizmus
+    hy: ավետարանչականություն
+    ia: Evangelicalismo
+    id: Evangelikalisme
+    it: evangelicalismo
+    ja: 福音派
+    ko: 복음주의
+    krj: Protestantismo Ebanghelikanhën
+    ky: Евангелисттер
+    la: Evangelismus
+    lad: Eglesias evanjélikas
+    lmo: Gesa Evangelega
+    lt: Evangelikai
+    mg: Evanjelisma
+    mk: евангелизам
+    ms: Evangelikal
+    nb: evangelikalisme
+    nl: evangelisch christendom
+    oc: evangelicalisme
+    pl: Ewangelikalizm
+    pnb: انجیلی مسیحیت
+    pt: evangelicalismo
+    pt-br: Evangelicalismo
+    ro: evanghelism
+    ru: евангелизм
+    sah: Евангелизм
+    se: evankelikalisma
+    sh: evangelizam
+    sk: Evanjelikálne hnutie
+    sl: evangeličanstvo
+    sq: Evangjelikalizmi
+    sr: евангелизам
+    sr-ec: Евангелизам
+    sr-el: Evangelizam
+    sv: evangelikalism
+    sw: Ukristo wa Kiinjilisti
+    ta: நற்செய்தி இயக்கம்
+    tl: evangelical
+    tr: Evanjelikalizm
+    uk: Євангельські християни
+    ur: انجیلیت
+    vi: chủ nghĩa phúc âm
+    yue: 福音派
+    zea: Evanhelicalisme
+    zh: 福音神學
 ---
-
 # [[Evangelicalism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Evangelicalism,194253|WD~Evangelicalism,194253]] 

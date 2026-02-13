@@ -1,4 +1,309 @@
-
+---
+has_id_wikidata: Q345
+dv_has_:
+  name_:
+    af: Maria
+    am: ማርያም
+    an: Santa María
+    apc: مريم العدرا
+    ar: مريم العذراء
+    arc: ܡܪܝܡ
+    ary: السيدة مريم
+    arz: العدرا مريم
+    ast: María
+    atj: Kitcitwa Marie
+    az: Məryəm
+    azb: مریم
+    ba: Мәрйәм Инә
+    bar: Maria
+    bbc: Maria
+    bcl: Maria, Ina ni Hesus
+    be: Марыя, маці Ісуса
+    be-tarask: Панна Марыя
+    bew: Mariam, enya' Isa
+    bg: Богородица
+    bn: মেরি, যিশুর মাতা
+    bo: མིར་ཡམ །
+    br: Mari
+    bs: Djevica Marija
+    ca: Verge Maria
+    cdo: Séng-mū Mā-lé-ā
+    ce: ЙоӀстаг Марьям
+    ceb: María
+    ckb: مریەم
+    co: Maria
+    cs: Panna Maria
+    cy: y Forwyn Fair
+    da: Jomfru Maria
+    de: Maria
+    de-ch: Maria
+    diq: Meryeme
+    dsb: Kněžna Marija
+    el: Παναγία
+    eml: Maria
+    en: Mary
+    en-ca: Mary
+    en-gb: Mary
+    eo: Maria, patrino de Jesuo
+    es: Virgen María
+    et: Maarja
+    eu: Maria
+    ext: María (Mairi de Jesús)
+    fa: مریم
+    fi: Neitsyt Maria
+    fo: Maria Moy
+    fr: Marie
+    frp: Vièrge Marie
+    fy: Marije
+    ga: Muire
+    gcr: Mari (mè di Jézi)
+    gd: Moire
+    gl: Santa María
+    gn: Tupãsy
+    gom: Maria
+    got: "\U0001033C\U00010330\U00010342\U00010339\U00010330\U0001033C (\U00010330\U00010339\U00010338\U00010334\U00010339 \U00010339\U00010334\U00010343\U0001033F\U00010339\U00010343)"
+    gsw: Maria, d Mueter vom Jesus
+    gu: મરિયમ
+    ha: Maryamu, mahaifiyar Yesu
+    he: מרים, אם ישו
+    hi: मरियम
+    hr: Marija
+    hsb: Knježna Marija
+    ht: Mari
+    hu: Szűz Mária
+    hy: Մարիամ Աստվածածին
+    hyw: Ս. Կոյս Մարիամ Աստուածամայր
+    ia: Maria
+    iba: Maria
+    id: Maria
+    ie: Maria (matre de Jesu)
+    ig: Mary, mother of Jesus
+    ilo: Maria
+    io: Madono
+    is: María mey
+    it: Maria
+    ja: 聖母マリア
+    jam: Mieri
+    jv: Maria
+    ka: მარიამ ღვთისმშობელი
+    kbp: Maarɩ
+    kk: Мәриям
+    kn: ಸಂತ ಮೇರಿ
+    knc: Mary, ya Yesu bǝ
+    ko: 마리아
+    ku: Meryem
+    kw: Maria Wynn
+    ky: Мадонна
+    la: Maria
+    lb: Maria
+    lfn: Maria
+    li: Maria
+    lmo: Maria, mader de Gesü
+    ln: Maria wa Nazaleti
+    lt: Marija
+    lv: Jaunava Marija
+    lzh: 瑪利亞
+    mg: Maria
+    min: Maria
+    mk: Богородица Марија
+    ml: മറിയം
+    mr: मारिया
+    ms: Maryam
+    mt: Santa Marija
+    my: အပျိုစင် မေရီ
+    mzn: مریم
+    nah: María Ichpōchtli
+    nan: Má-lī-a
+    nap: Madonna
+    nb: Maria
+    ne: म्यारी
+    nl: Maria
+    nn: Jomfru Maria
+    nrm: Sainte Mathie
+    oc: Maria
+    os: Мады Майрæм
+    pa: ਕੁਆਰੀ ਮਰਯਮ
+    pap: Birgen Maria
+    pcd: Marie
+    pl: Maria z Nazaretu
+    pnb: مریم
+    pt: Virgem Maria
+    pt-br: Maria
+    qu: Qullana Mariya
+    rmy: Mary
+    ro: Fecioara Maria
+    ru: Дева Мария
+    rue: Богородіця
+    scn: Marìa (matri di Gesù)
+    sgs: Pana Marėjė
+    sh: Marija
+    shi: tamghust
+    si: මරියතුමිය
+    sk: Panna Mária
+    sl: Devica Marija
+    smn: Nieidâ Máárjá
+    sms: Nijdd Mäʹrjj
+    sq: Shën Maria
+    sr: Богородица
+    su: Maria
+    sv: Jungfru Maria
+    sw: Bikira Maria
+    szl: Maryja ze Nazarytu
+    szy: Ma-li-ya
+    ta: மரியாள்
+    te: మరియమ్
+    tg: Марям
+    th: มารีย์
+    tl: Maria
+    tok: jan Malan
+    tr: Meryem
+    tt: Изге Ана
+    uk: Діва Марія
+    ur: کنواری مریم
+    uz: Bibi Maryam
+    vec: Maria Vèrzane
+    vi: Maria
+    vls: Maria
+    wa: Mareye
+    war: Maria
+    wuu: 圣母玛利亚
+    xh: Mariya, umama kaYesu
+    xmf: მარია ღორონთიშნანა
+    yo: Màríà
+    yue: 聖母瑪利亞
+    zgh: ⵎⴰⵔⵢⴰⵎ
+    zh: 圣母玛利亚
+    zh-cn: 圣母玛利亚
+    zh-hans: 圣母玛利亚
+    zh-hant: 聖母瑪利亞
+aliases:
+- Bibi Maryam
+- Bikira Maria
+- Birgen Maria
+- Devica Marija
+- Djevica Marija
+- Fecioara Maria
+- jan Malan
+- Jaunava Marija
+- Jomfru Maria
+- Jungfru Maria
+- Kitcitwa Marie
+- Knježna Marija
+- Kněžna Marija
+- Ma-li-ya
+- Maarja
+- Maarɩ
+- Madonna
+- Madono
+- Mareye
+- Mari
+- Mari (mè di Jézi)
+- Maria
+- Maria (matre de Jesu)
+- Maria Moy
+- Maria Vèrzane
+- Maria wa Nazaleti
+- Maria Wynn
+- Maria z Nazaretu
+- Maria, d Mueter vom Jesus
+- Maria, Ina ni Hesus
+- Maria, mader de Gesü
+- Maria, patrino de Jesuo
+- Mariam, enya' Isa
+- Marie
+- Marija
+- Marije
+- Mariya, umama kaYesu
+- Mary
+- Mary, mother of Jesus
+- Mary, ya Yesu bǝ
+- Maryam
+- Maryamu, mahaifiyar Yesu
+- Maryja ze Nazarytu
+- Marìa (matri di Gesù)
+- María
+- María (Mairi de Jesús)
+- María Ichpōchtli
+- María mey
+- Meryem
+- Meryeme
+- Mieri
+- Moire
+- Muire
+- Màríà
+- Má-lī-a
+- Məryəm
+- Neitsyt Maria
+- Nieidâ Máárjá
+- Nijdd Mäʹrjj
+- Pana Marėjė
+- Panna Maria
+- Panna Mária
+- Qullana Mariya
+- Sainte Mathie
+- Santa Marija
+- Santa María
+- Shën Maria
+- Szűz Mária
+- Séng-mū Mā-lé-ā
+- tamghust
+- Tupãsy
+- Verge Maria
+- Virgem Maria
+- Virgen María
+- Vièrge Marie
+- y Forwyn Fair
+- Παναγία
+- Богородіця
+- Богородица
+- Богородица Марија
+- Діва Марія
+- Дева Мария
+- Изге Ана
+- ЙоӀстаг Марьям
+- Мадонна
+- Мады Майрæм
+- Марыя, маці Ісуса
+- Марям
+- Мәриям
+- Мәрйәм Инә
+- Панна Марыя
+- Մարիամ Աստվածածին
+- Ս. Կոյս Մարիամ Աստուածամայր
+- מרים, אם ישו
+- السيدة مريم
+- العدرا مريم
+- مريم العدرا
+- مريم العذراء
+- مریم
+- مریەم
+- کنواری مریم
+- ܡܪܝܡ
+- मरियम
+- मारिया
+- म्यारी
+- মেরি, যিশুর মাতা
+- ਕੁਆਰੀ ਮਰਯਮ
+- મરિયમ
+- மரியாள்
+- మరియమ్
+- ಸಂತ ಮೇರಿ
+- മറിയം
+- මරියතුමිය
+- มารีย์
+- མིར་ཡམ །
+- အပျိုစင် မေရီ
+- მარია ღორონთიშნანა
+- მარიამ ღვთისმშობელი
+- ማርያም
+- ⵎⴰⵔⵢⴰⵎ
+- 圣母玛利亚
+- 瑪利亞
+- 聖母マリア
+- 聖母瑪利亞
+- 마리아
+- "\U0001033C\U00010330\U00010342\U00010339\U00010330\U0001033C (\U00010330\U00010339\U00010338\U00010334\U00010339 \U00010339\U00010334\U00010343\U0001033F\U00010339\U00010343)"
+---
 # [[Virgin_Mary]] 
 
 #is_/same_as :: [[WD~Virgin_Mary,345]] 

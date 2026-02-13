@@ -1,25 +1,46 @@
 ---
 aliases:
-  - Aaron Benjamin Sorkin
-  - Aaron Sorkin
-  - Sorkin,Aaron
+- Aaron Benjamin Sorkin
+- Aaron Sorkin
+- Aron Sorkin
+- Sorkin,Aaron
+- Ārons Sorkins
+- Άαρον Σόρκιν
+- Ааран Соркін
+- Аарон Соркін
+- Аарон Соркин
+- Арън Соркин
+- Աարոն Սորկին
+- אהרן סורקין
+- آرون سوركين
+- آرون سورکین
+- ئارۆن سۆرکین
+- ਐਰੋਨ ਸੋਰਕਿਨ
+- ஆரன் சோர்க்கின்
+- აარონ სორკინი
+- アーロン・ソーキン
+- 艾伦·索金
+- 艾倫·索金
+- 阿伦·索尔金
+- 阿倫·索金
+- 에런 소킨
 has_id_wikidata: Q299194
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]'
-  - '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Screenplay,1355247]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
-  - '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Adapted_Screenplay,1634847]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series,3123491]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]'
+- '[[_Standards/WikiData/WD~New_York_Film_Critics_Circle_Award_for_Best_Screenplay,1355247]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
+- '[[_Standards/WikiData/WD~National_Humanities_Medal,1571938]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Adapted_Screenplay,1634847]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Drama_Series,3123491]]'
 birth_name: Aaron Benjamin Sorkin
 Commons_category: Aaron Sorkin
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 date_of_birth: 1961-06-09T00:00:00Z
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Syracuse_University,617433]]'
-  - '[[_Standards/WikiData/WD~Scarsdale_High_School,14707276]]'
+- '[[_Standards/WikiData/WD~Syracuse_University,617433]]'
+- '[[_Standards/WikiData/WD~Scarsdale_High_School,14707276]]'
 Europeana_entity: agent/base/62128
 family_name: '[[_Standards/WikiData/WD~Sorkin,21489079]]'
 given_name: '[[_Standards/WikiData/WD~Aaron,905085]]'
@@ -30,22 +51,22 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America,_West,8038459]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Molly's_Game,27888445]]"
-  - '[[_Standards/WikiData/WD~To_Kill_a_Mockingbird,55635945]]'
+- "[[_Standards/WikiData/WD~Molly's_Game,27888445]]"
+- '[[_Standards/WikiData/WD~To_Kill_a_Mockingbird,55635945]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~television_producer,578109]]'
-  - '[[_Standards/WikiData/WD~showrunner,1440873]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~scenographer,2707485]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~showrunner,1440873]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~scenographer,2707485]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 P8189: 987007421834805171
 place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 Plex_person_key: 5d7768288718ba001e3121c7
@@ -54,8 +75,77 @@ spouse: '[[_Standards/WikiData/WD~Julia_Bingham,22669657]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aaron_Sorkin,6666710]]'
 work_period_start_: 1984-01-01T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    ar: آرون سوركين
+    arz: آرون سوركين
+    ast: Aaron Sorkin
+    azb: آرون سورکین
+    be: Аарон Соркін
+    be-tarask: Ааран Соркін
+    bg: Арън Соркин
+    ca: Aaron Sorkin
+    ckb: ئارۆن سۆرکین
+    cs: Aaron Sorkin
+    cy: Aaron Sorkin
+    da: Aaron Sorkin
+    de: Aaron Sorkin
+    el: Άαρον Σόρκιν
+    en: Aaron Sorkin
+    eo: Aaron Sorkin
+    es: Aaron Sorkin
+    et: Aaron Sorkin
+    eu: Aaron Sorkin
+    fa: آرون سورکین
+    fi: Aaron Sorkin
+    fr: Aaron Sorkin
+    ga: Aaron Sorkin
+    gl: Aaron Sorkin
+    he: אהרן סורקין
+    hr: Aaron Sorkin
+    hu: Aaron Sorkin
+    hy: Աարոն Սորկին
+    id: Aaron Sorkin
+    it: Aaron Sorkin
+    ja: アーロン・ソーキン
+    ka: აარონ სორკინი
+    ko: 에런 소킨
+    lv: Ārons Sorkins
+    mg: Aaron Sorkin
+    nb: Aaron Sorkin
+    nl: Aaron Sorkin
+    nn: Aaron Sorkin
+    pa: ਐਰੋਨ ਸੋਰਕਿਨ
+    pap: Aaron Sorkin
+    pl: Aaron Sorkin
+    pt: Aaron Sorkin
+    pt-br: Aaron Sorkin
+    ro: Aaron Sorkin
+    ru: Аарон Соркин
+    sh: Aaron Sorkin
+    sl: Aaron Sorkin
+    sq: Aaron Sorkin
+    sr: Aron Sorkin
+    sv: Aaron Sorkin
+    sw: Aaron Sorkin
+    ta: ஆரன் சோர்க்கின்
+    tl: Aaron Sorkin
+    tr: Aaron Sorkin
+    uk: Аарон Соркін
+    vi: Aaron Sorkin
+    war: Aaron Sorkin
+    xmf: აარონ სორკინი
+    yo: Aaron Sorkin
+    yue: 阿倫·索金
+    zh: 艾倫·索金
+    zh-cn: 阿伦·索尔金
+    zh-hans: 阿伦·索尔金
+    zh-hant: 艾倫·索金
+    zh-hk: 阿倫·索金
+    zh-my: 艾伦·索金
+    zh-sg: 艾伦·索金
+    zh-tw: 艾倫·索金
 ---
-
 # [[Sorkin,Aaron]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Aaron_Sorkin,299194]] 

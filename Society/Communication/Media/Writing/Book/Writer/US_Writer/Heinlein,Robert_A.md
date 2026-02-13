@@ -1,59 +1,88 @@
 ---
 aliases:
-  - Robert_A._Heinlein
-  - Robert Anson Heinlein
-  - Robert Heinlein
-  - Heinlein
-  - Heinlein,Robert_A
-  - Heinlein,Robert A
+- Heinlein
+- Heinlein,Robert A
+- Heinlein,Robert_A
+- Robert A. Hajnlajn
+- Robert A. Heinlein
+- Robert Anson Heinlein
+- Robert Haynlayn
+- Robert Heinlein
+- Robertas Heinleinas
+- Roberts Hainlains
+- Robertus A. Heinlein
+- Robert_A._Heinlein
+- Ρόμπερτ Χαϊνλάιν
+- Роберт Гайнлайн
+- Роберт Хайнлайн
+- Робърт Хайнлайн
+- Робэрт Гайнлайн
+- Ռոբերտ Հայնլայն
+- רוברט היינליין
+- رابرت آنسون هاینلاین
+- رابرټ اې. هاینلاین
+- روبرت أنسون هاينلاين
+- روبرت انسون هاينلاين
+- রবার্ট এ. হাইনলাইন
+- ராபர்ட் ஏ. ஐன்லைன்
+- ರಾಬರ್ಟ್ ಹೈನ್ಲೈನ್
+- റോബർട്ട് എ. ഹൈൻലൈൻ
+- โรเบิร์ต เอ. ไฮน์ไลน์
+- რობერტ ჰაინლაინი
+- ロバート・A・ハインライン
+- 罗伯特·海因莱因
+- 羅伯特·海因萊因
+- 羅伯特·海萊因
+- 羅拔海萊因
+- 로버트 A. 하인라인
 has_id_wikidata: Q123078
 genre:
-  - '[[_Standards/WikiData/WD~fantasy,132311]]'
-  - '[[_Standards/WikiData/WD~military_science_fiction,904447]]'
-  - '[[_Standards/WikiData/WD~young_adult_literature,1233720]]'
-  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
+- '[[_Standards/WikiData/WD~fantasy,132311]]'
+- '[[_Standards/WikiData/WD~military_science_fiction,904447]]'
+- '[[_Standards/WikiData/WD~young_adult_literature,1233720]]'
+- '[[_Standards/WikiData/WD~science_fiction,24925]]'
 residence:
-  - '[[_Standards/WikiData/WD~Santa_Cruz,159232]]'
-  - '[[_Standards/WikiData/WD~Colorado_Springs,49258]]'
+- '[[_Standards/WikiData/WD~Santa_Cruz,159232]]'
+- '[[_Standards/WikiData/WD~Colorado_Springs,49258]]'
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
-  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+- '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Collection,54824268]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Fantasy_Novel,607354]]'
-  - '[[_Standards/WikiData/WD~Damon_Knight_Memorial_Grand_Master_Award,901462]]'
-  - '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
-  - '[[_Standards/WikiData/WD~Prometheus_Award_Hall_of_Fame,19360203]]'
-  - '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
-  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]'
-  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novella,115288957]]'
-  - '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novelette,115289074]]'
+- '[[_Standards/WikiData/WD~Hugo_Award_for_Best_Novel,255032]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Fantasy_Novel,607354]]'
+- '[[_Standards/WikiData/WD~Damon_Knight_Memorial_Grand_Master_Award,901462]]'
+- '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+- '[[_Standards/WikiData/WD~Prometheus_Award_Hall_of_Fame,19360203]]'
+- '[[_Standards/WikiData/WD~Science_Fiction_and_Fantasy_Hall_of_Fame,48961500]]'
+- '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novel,115280877]]'
+- '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novella,115288957]]'
+- '[[_Standards/WikiData/WD~Retro_Hugo_Award_for_Best_Novelette,115289074]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Centraal_Museum,260913]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Starship_Troopers,492207]]'
-  - '[[_Standards/WikiData/WD~Stranger_in_a_Strange_Land,929821]]'
-  - '[[_Standards/WikiData/WD~Double_Star,945382]]'
-  - '[[_Standards/WikiData/WD~Have_Space_Suit_Will_Travel,1213656]]'
-  - '[[_Standards/WikiData/WD~The_Puppet_Masters,4400679]]'
-  - "[[_Standards/WikiData/WD~Farnham's_Freehold,4411127]]"
+- '[[_Standards/WikiData/WD~Starship_Troopers,492207]]'
+- '[[_Standards/WikiData/WD~Stranger_in_a_Strange_Land,929821]]'
+- '[[_Standards/WikiData/WD~Double_Star,945382]]'
+- '[[_Standards/WikiData/WD~Have_Space_Suit_Will_Travel,1213656]]'
+- '[[_Standards/WikiData/WD~The_Puppet_Masters,4400679]]'
+- "[[_Standards/WikiData/WD~Farnham's_Freehold,4411127]]"
 educated_at: '[[_Standards/WikiData/WD~United_States_Naval_Academy,559549]]'
 place_of_death: '[[_Standards/WikiData/WD~Carmel_by_the_Sea,625458]]'
 place_of_birth: '[[_Standards/WikiData/WD~Butler,955151]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 list_of_works: '[[_Standards/WikiData/WD~Robert_A._Heinlein_bibliography,4086324]]'
 occupation:
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~naval_officer,10669499]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~naval_officer,10669499]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Robert,4927937]]'
-  - '[[_Standards/WikiData/WD~Q27179450,27179450]]'
+- '[[_Standards/WikiData/WD~Robert,4927937]]'
+- '[[_Standards/WikiData/WD~Q27179450,27179450]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse: '[[_Standards/WikiData/WD~Virginia_Heinlein,7934303]]'
 has_list: '[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_Robert_A._Heinlein,18278093]]'
@@ -70,11 +99,11 @@ member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 pseudonym:
-  - Simon York
-  - Anson MacDonald
-  - Caleb Saunders
-  - John Riverside
-  - Lyle Monroe
+- Simon York
+- Anson MacDonald
+- Caleb Saunders
+- John Riverside
+- Lyle Monroe
 name_in_native_language: Robert A. Heinlein
 birth_name: Robert Anson Heinlein
 work_period_end_: 1988-01-01T00:00:00Z
@@ -93,8 +122,89 @@ Wolfram_Language_entity_code: Entity["Concept", "Heinlein::7csts"]
 subreddit: heinlein
 Regensburg_Classification: HU 3846
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/HANLAN_ROBERT_ENSON.html
+dv_has_:
+  name_:
+    af: Robert A. Heinlein
+    ar: روبرت أنسون هاينلاين
+    arz: روبرت انسون هاينلاين
+    ast: Robert A. Heinlein
+    az: Robert Haynlayn
+    azb: رابرت آنسون هاینلاین
+    be: Роберт Хайнлайн
+    be-tarask: Робэрт Гайнлайн
+    bg: Робърт Хайнлайн
+    bn: রবার্ট এ. হাইনলাইন
+    br: Robert Heinlein
+    bs: Robert Heinlein
+    ca: Robert A. Heinlein
+    cs: Robert Anson Heinlein
+    cv: Роберт Хайнлайн
+    cy: Robert A. Heinlein
+    de: Robert A. Heinlein
+    el: Ρόμπερτ Χαϊνλάιν
+    en: Robert A. Heinlein
+    en-gb: Robert A. Heinlein
+    en-us: Robert A. Heinlein
+    eo: Robert A. Heinlein
+    es: Robert A. Heinlein
+    et: Robert A. Heinlein
+    eu: Robert A. Heinlein
+    fa: رابرت آنسون هاینلاین
+    fi: Robert A. Heinlein
+    fr: Robert A. Heinlein
+    fy: Robert A. Heinlein
+    ga: Robert Anson Heinlein
+    gl: Robert A. Heinlein
+    he: רוברט היינליין
+    hr: Robert A. Heinlein
+    hu: Robert A. Heinlein
+    hy: Ռոբերտ Հայնլայն
+    id: Robert A. Heinlein
+    it: Robert A. Heinlein
+    ja: ロバート・A・ハインライン
+    ka: რობერტ ჰაინლაინი
+    kn: ರಾಬರ್ಟ್ ಹೈನ್ಲೈನ್
+    ko: 로버트 A. 하인라인
+    kw: Robert A. Heinlein
+    la: Robertus A. Heinlein
+    li: Robert A. Heinlein
+    lt: Robertas Heinleinas
+    lv: Roberts Hainlains
+    mg: Robert A. Heinlein
+    ml: റോബർട്ട് എ. ഹൈൻലൈൻ
+    ms: Robert A. Heinlein
+    nb: Robert A. Heinlein
+    nl: Robert Heinlein
+    nn: Robert A. Heinlein
+    oc: Robert A. Heinlein
+    pap: Robert A. Heinlein
+    pms: Robert A. Heinlein
+    ps: رابرټ اې. هاینلاین
+    pt: Robert A. Heinlein
+    pt-br: Robert A. Heinlein
+    ro: Robert A. Heinlein
+    ru: Роберт Хайнлайн
+    sco: Robert A. Heinlein
+    sh: Robert A. Heinlein
+    sl: Robert A. Heinlein
+    sq: Robert A. Heinlein
+    sr: Robert A. Hajnlajn
+    sv: Robert A. Heinlein
+    sw: Robert A. Heinlein
+    ta: ராபர்ட் ஏ. ஐன்லைன்
+    th: โรเบิร์ต เอ. ไฮน์ไลน์
+    tl: Robert A. Heinlein
+    tr: Robert A. Heinlein
+    tt: Robert A. Heinlein
+    uk: Роберт Гайнлайн
+    vi: Robert A. Heinlein
+    war: Robert A. Heinlein
+    wuu: 罗伯特·海因莱因
+    xmf: რობერტ ჰაინლაინი
+    yue: 羅拔海萊因
+    zh: 羅伯特·海萊因
+    zh-hant: 羅伯特·海因萊因
 ---
-
 # [[Heinlein,Robert_A]] 
 
 #is_/same_as :: [[WD~Robert_A._Heinlein,123078]] 

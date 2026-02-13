@@ -1,7 +1,112 @@
 ---
 aliases:
-  - Fotografie
-  - Photography
+- afigasuteropa
+- argazkigintza
+- ffotograffiaeth
+- fotograafia
+- fotograafii
+- fotografeye
+- fotografi
+- fotografia
+- Fotografie
+- fotografii
+- fotografija
+- fotografio
+- fotografiya
+- fotografo
+- fotografovanie
+- fotografy
+- Fotografìa
+- fotografía
+- fotogrāfija
+- fotokunst
+- fotoqrafiya
+- fotoğrafçılık
+- fotugrafìa
+- futugrâfii
+- fényképezés
+- fòtografijô
+- fóto
+- fọ́tòyíyà
+- grianghrafadóireacht
+- gåvvidibme
+- hip-siōng
+- hoto
+- kɔtɛba
+- kɩlɛmɩŋ lɩzʊʊ
+- ljósmyndun
+- luc'hskeudennerezh
+- nataal
+- nhiếp ảnh
+- pagritrato
+- pamaglarawan
+- photographia
+- photographie
+- Photography
+- Pikder
+- potograpia
+- potograpiya
+- puortėgrapėjė
+- qiñiġaġñiq
+- rikch'aqillqay
+- sary
+- sitelen lon
+- sniimmʼmõš
+- te hopu whakaahua
+- upigaji picha
+- valokuvaus
+- veiitaba
+- wênegirî
+- čuovgagovven
+- čuovâkuvvim
+- φωτογραφία
+- акс
+- гэрэл зураг авалт
+- туспуктэм
+- фатаграфія
+- фотографія
+- фотографи
+- фотографија
+- фотография
+- фотоґрафія
+- фѡтографїꙗ
+- լուսանկարչութիւն
+- լուսանկարչություն
+- פאטאגראפיע
+- צילום
+- انځوراخيستنه
+- تصوير ضوئي
+- عکاسی
+- فوتوجرافيا
+- فوتوقرافچیلیق
+- فوتوݢرافي
+- فوٹوٗگرٛافی
+- فوٹوگرافی
+- فوٽوگرافي
+- وێنەگری
+- छायाचित्र
+- छायाचित्रण
+- छायाचित्रणम्
+- फोटोग्राफी
+- আলোকচিত্রশিল্প
+- ফটোগ্ৰাফী
+- ਫ਼ੋਟੋਗਰਾਫ਼ੀ
+- ஒளிப்படவியல்
+- ఫోటోగ్రఫి
+- ಫೋಟೋಗ್ರಫಿ
+- ഛായാഗ്രഹണം
+- ඡයාරූපකරණය
+- การถ่ายภาพ
+- ການຖ່າຍຮູບ
+- འོད་པར་རྒྱབ་ཐབས།
+- ფოტოგრაფია
+- អ្នកថតរូប
+- 影相
+- 拍相
+- 摄影
+- 撮影
+- 攝影
+- 사진술
 has_id_wikidata: Q11633
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9%20%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BF%D0%B0%D1%80%D0%BA%20%D0%B7%20%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B8.jpg
 Colon_Classification: M95
@@ -9,50 +114,50 @@ Commons_category: Photography
 Commons_gallery: Photography
 country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 770
 different_from:
-  - '[[_Standards/WikiData/WD~photograph,125191]]'
-  - '[[_Standards/WikiData/WD~Q3498649,3498649]]'
-  - '[[_Standards/WikiData/WD~photographic_work,11900210]]'
+- '[[_Standards/WikiData/WD~photograph,125191]]'
+- '[[_Standards/WikiData/WD~Q3498649,3498649]]'
+- '[[_Standards/WikiData/WD~photographic_work,11900210]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Thomas_Wedgwood,933545]]'
 DPLA_subject_term: Photography
 equivalent_class:
-  - http://id.cabi.org/cabt/89400
-  - http://skos.um.es/unesco6/220917
+- http://id.cabi.org/cabt/89400
+- http://skos.um.es/unesco6/220917
 exact_match: http://cv.iptc.org/newscodes/subjectcode/01013000
 GitHub_topic: photography
 GS1_GPC_code: 68020100
 hashtag:
-  - photography
-  - photooftheday
-  - 写真好きな人と繋がりたい
+- photography
+- photooftheday
+- 写真好きな人と繋がりたい
 has_use:
-  - '[[_Standards/WikiData/WD~pleasure,208195]]'
-  - '[[_Standards/WikiData/WD~information_exchange,6031064]]'
-  - '[[_Standards/WikiData/WD~economic_profit,26911]]'
+- '[[_Standards/WikiData/WD~pleasure,208195]]'
+- '[[_Standards/WikiData/WD~information_exchange,6031064]]'
+- '[[_Standards/WikiData/WD~economic_profit,26911]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_photography,355472]]'
 IAB_code: 255
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q11633%20noun%20186116%20ccAntonGajdosik%20photography.svg
 Iconclass_notation: 48C61
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Winterswijk%20%28NL%29%2C%20Woold%2C%20Boven%20Slinge%20--%202014%20--%203170.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~artistic_technique,11177771]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-  - '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~artistic_technique,11177771]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 IPTC_NewsCode:
-  - mediatopic/20000036
-  - subjectcode/01013000
+- mediatopic/20000036
+- subjectcode/01013000
 Library_of_Congress_Classification: TR
 Mastodon_instance_URL: https://photog.social
 MeSH_tree_code:
-  - E01.370.350.600
-  - E05.712
+- E01.370.350.600
+- E05.712
 OmegaWiki_Defined_Meaning: 4863
 part_of: '[[_Standards/WikiData/WD~lens-based_visual_arts,113147222]]'
 practiced_by: '[[_Standards/WikiData/WD~photographer,33231]]'
@@ -62,8 +167,8 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Fotogra
 Stack_Exchange_site_URL: https://photo.stackexchange.com/
 subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 subreddit:
-  - photocritique
-  - photography
+- photocritique
+- photography
 time_of_discovery_or_invention: 1800
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Photography,8084538]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Photography,3248943]]'
@@ -72,8 +177,193 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 UNSPSC_Code: 82131604
 U_S_National_Archives_Identifier: 10643525
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_photography,7112699]]'
+dv_has_:
+  name_:
+    af: fotografie
+    an: fotografía
+    ar: تصوير ضوئي
+    arz: فوتوجرافيا
+    as: ফটোগ্ৰাফী
+    ast: fotografía
+    avk: afigasuteropa
+    az: fotoqrafiya
+    azb: فوتوقرافچیلیق
+    ba: фотография
+    bar: Photographie
+    bcl: potograpiya
+    be: фатаграфія
+    be-tarask: фатаграфія
+    bg: фотография
+    bho: फोटोग्राफी
+    bm: kɔtɛba
+    bn: আলোকচিত্রশিল্প
+    bo: འོད་པར་རྒྱབ་ཐབས།
+    br: luc'hskeudennerezh
+    bs: fotografija
+    ca: fotografia
+    ckb: وێنەگری
+    co: fotografia
+    crh: fotografiya
+    cs: fotografie
+    csb: fòtografijô
+    cu: фѡтографїꙗ
+    cv: фотографи
+    cy: ffotograffiaeth
+    da: fotografi
+    de: Fotografie
+    de-ch: Fotografie
+    el: φωτογραφία
+    en: photography
+    en-ca: photography
+    en-gb: photography
+    eo: fotografio
+    es: fotografía
+    et: fotograafia
+    eu: argazkigintza
+    ext: fotografia
+    fa: عکاسی
+    fi: valokuvaus
+    fj: veiitaba
+    fr: photographie
+    frp: fotografia
+    fur: fotografie
+    fy: fotografy
+    ga: grianghrafadóireacht
+    gan: 拍相
+    gcr: fotografi
+    gl: fotografía
+    gn: fóto
+    gsw: Fotografie
+    ha: hoto
+    he: צילום
+    hi: छायाचित्र
+    hif: photography
+    hr: fotografija
+    hsb: fotografija
+    ht: fotografi
+    hu: fényképezés
+    hy: լուսանկարչություն
+    hyw: լուսանկարչութիւն
+    ia: photographia
+    id: fotografi
+    ik: qiñiġaġñiq
+    ilo: potograpia
+    io: fotografo
+    is: ljósmyndun
+    it: fotografia
+    ja: 撮影
+    jam: fotografi
+    jv: fotografi
+    ka: ფოტოგრაფია
+    kaa: fotografiya
+    kbp: kɩlɛmɩŋ lɩzʊʊ
+    kk: фотография
+    km: អ្នកថតរូប
+    kn: ಫೋಟೋಗ್ರಫಿ
+    ko: 사진술
+    ks: فوٹوٗگرٛافی
+    ku: wênegirî
+    ky: фотография
+    la: photographia
+    lb: Fotografie
+    lfn: fotografia
+    li: fotografie
+    lld: fotografia
+    lmo: fotografia
+    lo: ການຖ່າຍຮູບ
+    lt: fotografija
+    lv: fotogrāfija
+    mad: Fotografi
+    mg: sary
+    mi: te hopu whakaahua
+    min: fotografi
+    mk: фотографија
+    ml: ഛായാഗ്രഹണം
+    mn: гэрэл зураг авалт
+    mr: छायाचित्रण
+    ms: fotografi
+    ms-arab: فوتوݢرافي
+    nan: hip-siōng
+    nap: fotografia
+    nb: fotografi
+    nds: Fotografie
+    nds-nl: fotografie
+    ne: फोटोग्राफी
+    nl: fotografie
+    nn: fotografi
+    nrm: photographie
+    oc: fotografia
+    os: фотографи
+    pa: ਫ਼ੋਟੋਗਰਾਫ਼ੀ
+    pam: pamaglarawan
+    pcd: fotografie
+    pdc: Pikder
+    pih: fotograafii
+    pl: fotografia
+    pms: Fotografìa
+    pnb: فوٹوگرافی
+    ps: انځوراخيستنه
+    pt: fotografia
+    pt-br: fotografia
+    qu: rikch'aqillqay
+    ro: fotografie
+    ru: фотография
+    rue: фотоґрафія
+    rup: futugrâfii
+    sa: छायाचित्रणम्
+    sc: fotografia
+    scn: fotugrafìa
+    sco: photography
+    sd: فوٽوگرافي
+    se: čuovgagovven
+    sgs: puortėgrapėjė
+    sh: fotografija
+    si: ඡයාරූපකරණය
+    sk: fotografovanie
+    sl: fotografija
+    smj: gåvvidibme
+    smn: čuovâkuvvim
+    sms: sniimmʼmõš
+    sq: fotografi
+    sr: фотографија
+    st: fotografi
+    stq: Photographie
+    su: fotografi
+    sv: fotografi
+    sw: upigaji picha
+    ta: ஒளிப்படவியல்
+    te: ఫోటోగ్రఫి
+    tg: акс
+    th: การถ่ายภาพ
+    tl: potograpiya
+    tly: fotografija
+    tok: sitelen lon
+    tr: fotoğrafçılık
+    tt: фотография
+    udm: туспуктэм
+    uk: фотографія
+    ur: عکاسی
+    uz: fotografiya
+    vec: fotografia
+    vep: fotografii
+    vi: nhiếp ảnh
+    vls: fotografie
+    vro: fotokunst
+    wa: fotografeye
+    war: pagritrato
+    wo: nataal
+    wuu: 摄影
+    xmf: ფოტოგრაფია
+    yi: פאטאגראפיע
+    yo: fọ́tòyíyà
+    yue: 影相
+    zh: 攝影
+    zh-cn: 摄影
+    zh-hans: 摄影
+    zh-hant: 攝影
+    zh-hk: 攝影
+    zh-tw: 攝影
 ---
-
 # [[Photography]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Photography,11633|WD~Photography,11633]] 

@@ -1,25 +1,192 @@
 ---
 aliases:
-  - Mohr
-  - Moor
+- Mairu
+- Maora (vahoaka)
+- Maurai
+- Maurarar
+- Maure
+- Mauren
+- Maurer
+- Maurere
+- Maures
+- Mauri
+- Maurid
+- Maurit
+- Maurové
+- Maurowie
+- Mavri
+- Mavrlar
+- Maŭroj
+- Mohr
+- Moor
+- Moors
+- Mora (mitolochía)
+- More
+- Moren
+- Morer
+- Mori
+- moro
+- Morolar
+- Moros
+- Moru
+- Mouros
+- Mwriaid
+- Márar
+- mórok
+- Múraigh
+- Wamoor
+- Μαυριτανοί
+- маўры
+- Мавраш
+- Маври
+- Маврла
+- Маврлар
+- мавры
+- Маврҙар
+- Մավրեր
+- מורים
+- المور
+- ماورن
+- مسلمانان اندلس
+- مور
+- مور لوک
+- مورو
+- موروها
+- مۆرۆکان
+- मूर
+- মুর উপজাতি
+- ਮੂਰ
+- மூர்ஸ்
+- മൂർസ്
+- මරක්කල
+- ชาวมัวร์
+- მავრები
+- მავრეფი
+- ムーア人
+- 摩尔人
+- 摩爾人
+- 무어인
 has_id_wikidata: Q169260
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of: '[[_Standards/WikiData/WD~ethnonym,1137656]]'
 named_after: '[[_Standards/WikiData/WD~Mauretania_Tingitana,1244742]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 Commons_category: Moors (people)
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Almoravid%20Empire-ca.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Almoravid%20Empire.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Almoravid%20Empire-ca.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Almoravid%20Empire.png
 Krugosvet_article_archived_: istoriya/MAVRI.html
+dv_has_:
+  name_:
+    af: More
+    an: Mora (mitolochía)
+    ar: مورو
+    ary: المور
+    arz: مور
+    ast: Moru
+    az: Mavrlar
+    ba: Маврҙар
+    be: маўры
+    be-tarask: маўры
+    bg: Маври
+    bn: মুর উপজাতি
+    bs: Mauri
+    ca: moro
+    ce: Мавраш
+    ceb: Moro
+    ckb: مۆرۆکان
+    cs: Maurové
+    cy: Mwriaid
+    da: Maurer
+    de: Mauren
+    de-ch: Mauren
+    el: Μαυριτανοί
+    en: Moors
+    en-ca: Moors
+    en-gb: Moors
+    eo: Maŭroj
+    es: moro
+    et: Maurid
+    eu: Mairu
+    fa: موروها
+    fi: Maurit
+    fr: Maures
+    ga: Múraigh
+    gl: Mouros
+    gsw: Maure
+    ha: Moors
+    he: מורים
+    hi: मूर
+    hr: Mauri
+    hu: mórok
+    hy: Մավրեր
+    id: Moor
+    io: Mauri
+    is: Márar
+    it: Mori
+    ja: ムーア人
+    jv: Moor
+    ka: მავრები
+    ko: 무어인
+    krc: Маврла
+    ky: Маврлар
+    la: Mauri
+    lt: Maurai
+    lv: mauri
+    mg: Maora (vahoaka)
+    mk: Маври
+    ml: മൂർസ്
+    ms: Moor
+    nan: Moro
+    nb: Maurere
+    nl: Moren
+    nn: Maurarar
+    oc: Moros
+    pa: ਮੂਰ
+    pl: Maurowie
+    pnb: مور لوک
+    ps: ماورن
+    pt: Mouros
+    pt-br: Mouros
+    ro: Mauri
+    ru: мавры
+    sh: Mauri
+    si: මරක්කල
+    sk: Mauri
+    sl: Mavri
+    sr: Маври
+    sr-ec: Маври
+    sr-el: Mavri
+    sv: Morer
+    sw: Wamoor
+    ta: மூர்ஸ்
+    th: ชาวมัวร์
+    tl: Moro
+    tr: Morolar
+    tt: маврлар
+    uk: Маври
+    ur: مسلمانان اندلس
+    uz: Mavrlar
+    vec: mori
+    vi: Moor
+    war: Moor
+    wuu: 摩爾人
+    xmf: მავრეფი
+    yue: 摩爾人
+    zh: 摩尔人
+    zh-cn: 摩尔人
+    zh-hans: 摩尔人
+    zh-hant: 摩爾人
+    zh-hk: 摩爾人
+    zh-sg: 摩尔人
+    zh-tw: 摩爾人
 ---
-
 # [[Moor]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Moors,169260|WD~Moors,169260]] 

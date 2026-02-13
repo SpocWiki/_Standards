@@ -1,3 +1,141 @@
+---
+has_id_wikidata: Q170002
+dv_has_:
+  name_:
+    af: Maltose
+    ar: مالتوز
+    az: Maltoza
+    azb: مالتوز
+    be: мальтоза
+    be-tarask: мальтоза
+    bg: Малтоза
+    bn: ম্যালটোজ
+    bs: Maltoza
+    ca: maltosa
+    cdo: Măk-ngà-tòng
+    cs: maltóza
+    cy: maltos
+    da: Maltose
+    de: Maltose
+    el: Μαλτόζη
+    en: maltose
+    eo: maltozo
+    es: maltosa
+    et: maltoos
+    eu: Maltosa
+    fa: مالتوز
+    fi: maltoosi
+    fr: maltose
+    ga: maltós
+    gl: Maltosa
+    he: מלטוז
+    hi: माल्टोज़
+    hr: Maltoza
+    hu: maltóz
+    hy: Մալթոզ
+    id: maltosa
+    is: Maltósi
+    it: maltosio
+    ja: マルトース
+    ka: მალტოზა
+    kk: Мальтоза
+    kk-arab: مالتوزا
+    kk-cn: مالتوزا
+    kk-cyrl: Мальтоза
+    kk-kz: Мальтоза
+    kk-latn: Malʹtoza
+    kk-tr: Malʹtoza
+    ko: 말토스
+    ky: Мальтоза
+    la: Maltosum
+    lb: Maltos
+    li: Maltsókker
+    lt: Maltozė
+    lv: maltoze
+    mk: Малтоза
+    ms: Maltosa
+    mt: maltożju
+    nan: Be̍h-gê-thn̂g
+    nb: maltose
+    nl: maltose
+    nn: maltose
+    oc: Maltòsa
+    pl: maltoza
+    pt: maltose
+    ro: Maltoză
+    ru: мальтоза
+    se: maltosa
+    sh: Maltoza
+    si: Maltose
+    sk: maltóza
+    sl: maltoza
+    smn: maltoos
+    sms: maltoos
+    sq: Maltoza
+    sr: малтоза
+    sr-ec: Малтоза
+    sr-el: Maltoza
+    su: Maltosa
+    sv: maltos
+    th: มอลโทส
+    tr: Maltoz
+    uk: Мальтоза
+    uz: Maltoza
+    vi: Kẹo mạch nha
+    wuu: 麦芽糖
+    yue: 麥芽糖
+    za: Dangzhaeux
+    zh: 麥芽糖
+    zh-cn: 麦芽糖
+    zh-hans: 麦芽糖
+    zh-hant: 麥芽糖
+    zh-hk: 麥芽糖
+    zh-sg: 麦芽糖
+    zh-tw: 麥芽糖
+    zu: I-Maltose
+aliases:
+- Be̍h-gê-thn̂g
+- Dangzhaeux
+- I-Maltose
+- Kẹo mạch nha
+- maltoos
+- maltoosi
+- maltos
+- maltosa
+- maltose
+- maltosio
+- Maltosum
+- Maltoz
+- Maltoza
+- maltoze
+- maltozo
+- Maltoză
+- Maltozė
+- maltożju
+- Maltsókker
+- Maltòsa
+- maltós
+- Maltósi
+- maltóz
+- maltóza
+- Malʹtoza
+- Măk-ngà-tòng
+- Μαλτόζη
+- Малтоза
+- мальтоза
+- Մալթոզ
+- מלטוז
+- مالتوز
+- مالتوزا
+- माल्टोज़
+- ম্যালটোজ
+- มอลโทส
+- მალტოზა
+- マルトース
+- 麥芽糖
+- 麦芽糖
+- 말토스
+---
 #is_/instance_of :: [[../Disaccharide]]
 #has_/parts :: [[../Monosaccharide/Glucose]] 
 

@@ -1,11 +1,88 @@
 ---
 aliases:
-  - Chloroflexi
-  - Chloroflexota
-  - Chloroflexia
+- Chloroflexi
+- Chloroflexia
+- Chloroflexota
+- クロロフレクサス門
 title: Chloroflexi
+has_id_wikidata: Q8592142
+dv_has_:
+  name_:
+    af: Chloroflexi
+    an: Chloroflexi
+    ast: Chloroflexi
+    bar: Chloroflexi
+    br: Chloroflexi
+    ca: Chloroflexi
+    co: Chloroflexi
+    cs: Chloroflexi
+    cy: Chloroflexi
+    da: Chloroflexi
+    de: Chloroflexi
+    de-at: Chloroflexi
+    de-ch: Chloroflexi
+    en: Chloroflexi
+    en-ca: Chloroflexi
+    en-gb: Chloroflexi
+    eo: Chloroflexi
+    es: Chloroflexi
+    et: Chloroflexi
+    eu: Chloroflexi
+    fi: Chloroflexi
+    fr: Chloroflexi
+    frp: Chloroflexi
+    fur: Chloroflexi
+    ga: Chloroflexi
+    gd: Chloroflexi
+    gl: Chloroflexi
+    gsw: Chloroflexi
+    hr: Chloroflexi
+    ia: Chloroflexi
+    id: Chloroflexi
+    ie: Chloroflexi
+    io: Chloroflexi
+    is: Chloroflexi
+    it: Chloroflexi
+    ja: クロロフレクサス門
+    kg: Chloroflexi
+    lb: Chloroflexi
+    li: Chloroflexi
+    lij: Chloroflexi
+    mg: Chloroflexi
+    min: Chloroflexi
+    ms: Chloroflexi
+    nap: Chloroflexi
+    nb: Chloroflexi
+    nds: Chloroflexi
+    nds-nl: Chloroflexi
+    nl: Chloroflexi
+    nn: Chloroflexi
+    nrm: Chloroflexi
+    oc: Chloroflexi
+    pcd: Chloroflexi
+    pl: Chloroflexi
+    pms: Chloroflexi
+    pt: Chloroflexi
+    pt-br: Chloroflexi
+    rm: Chloroflexi
+    ro: Chloroflexi
+    sc: Chloroflexi
+    scn: Chloroflexi
+    sco: Chloroflexi
+    sk: Chloroflexi
+    sl: Chloroflexi
+    sr-el: Chloroflexi
+    sv: Chloroflexi
+    sw: Chloroflexi
+    tl: Chloroflexi
+    vec: Chloroflexi
+    vi: Chloroflexi
+    vls: Chloroflexi
+    vo: Chloroflexi
+    wa: Chloroflexi
+    wo: Chloroflexi
+    zu: Chloroflexi
 ---
-
 # [[Chloroflexi]] 
 
 green nonsulfur bacteria 

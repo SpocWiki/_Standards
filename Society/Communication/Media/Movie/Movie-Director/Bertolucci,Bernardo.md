@@ -1,93 +1,121 @@
 ---
 aliases:
-  - Bernardo Bertolucci
-  - Bertolucci,Bernardo
+- Bernardo Bertaluççi
+- Bernardo Bertolucci
+- Bernardo Bertoluči
+- Bernardus Bertolucci
+- Bertolucci,Bernardo
+- Μπερνάρντο Μπερτολούτσι
+- Бернарда Берталучы
+- Бернардо Бертолучи
+- Бернардо Бертолуччі
+- Бернардо Бертолуччи
+- Бэрнарда Бэрталюччы
+- Բեռնարդո Բերտոլուչի
+- ברנרדו ברטולוצ'י
+- برناردو برتولوتشى
+- برناردو برتولوتشي
+- برناردو برتولوچی
+- बर्नारडो बर्टोलूची
+- বেরনার্দো বেরতোলুচ্চি
+- ਬਰਨਾਰਡੋ ਬਰਤੋਲੂਚੀ
+- பெர்னார்டோ பெர்டோலூசி
+- బెర్నార్డో బెర్టోలుచి
+- ബെർനാർഡു ബെർതുലൂച്ചി
+- แบร์นาโด แบร์โตลุชชี
+- ბერნარდო ბერტოლუჩი
+- ベルナルド・ベルトルッチ
+- 貝托洛奇
+- 貝納多·貝托魯奇
+- 贝尔纳多·贝托鲁奇
+- 贝纳尔多·贝托鲁奇
+- 베르나르도 베르톨루치
 has_id_wikidata: Q53009
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Film,768476]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]"
-  - "[[_Standards/WikiData/WD~Nastro_d'Argento_for_the_director_of_the_best_film,1061238]]"
-  - "[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_Director,1377773]]"
-  - "[[_Standards/WikiData/WD~Goya_Award_for_Best_European_Film,2418096]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]"
-  - "[[_Standards/WikiData/WD~Directors_Guild_of_America_Award_for_Outstanding_Directing_Feature_Film,5280675]]"
-  - "[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Best_Original_Screenplay,8038461]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Film,768476]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
+- "[[_Standards/WikiData/WD~Nastro_d'Argento_for_the_director_of_the_best_film,1061238]]"
+- '[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]'
+- "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_Director,1377773]]"
+- '[[_Standards/WikiData/WD~Goya_Award_for_Best_European_Film,2418096]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]'
+- '[[_Standards/WikiData/WD~Directors_Guild_of_America_Award_for_Outstanding_Directing_Feature_Film,5280675]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award_for_Best_Original_Screenplay,8038461]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]"
-  - "[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]"
-  - "[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]"
-  - "[[_Standards/WikiData/WD~Leopard_of_Honour,674146]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Film,768476]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]"
-  - "[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]"
-  - "[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]"
-  - "[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]"
-  - "[[_Standards/WikiData/WD~Directors_Guild_of_America_Award_for_Outstanding_Directing_Feature_Film,5280675]]"
-  - "[[_Standards/WikiData/WD~Sutherland_Trophy,7650000]]"
-  - "[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]"
-  - "[[_Standards/WikiData/WD~Gold_Medal_of_the_Italian_Order_of_Merit_for_Culture_and_Art,15284180]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~European_Film_Academy_Special_Jury_Award,77533361]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Parma,111166145]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Lifetime_Achievement_Award,514445]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~Leopard_of_Honour,674146]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Film,768476]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Screenplay,849124]]'
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Foreign_Film,900414]]'
+- '[[_Standards/WikiData/WD~National_Society_of_Film_Critics_Award_for_Best_Director,1315008]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_for_Best_Director,3703463]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_Merit_in_the_Fine_Arts,3753203]]'
+- '[[_Standards/WikiData/WD~Directors_Guild_of_America_Award_for_Outstanding_Directing_Feature_Film,5280675]]'
+- '[[_Standards/WikiData/WD~Sutherland_Trophy,7650000]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Order_of_Merit_of_the_Italian_Republic,14539884]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_of_the_Italian_Order_of_Merit_for_Culture_and_Art,15284180]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~European_Film_Academy_Special_Jury_Award,77533361]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_the_University_of_Parma,111166145]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]"
-  - "[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]"
-educated_at: "[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]"
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+educated_at: '[[_Standards/WikiData/WD~Sapienza_University_of_Rome,209344]]'
 occupation:
-  - "[[_Standards/WikiData/WD~playwright,214917]]"
-  - "[[_Standards/WikiData/WD~author,482980]]"
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~film_editor,7042855]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~film_screenwriter,69423232]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Adriana_Asti,374855]]"
-  - "[[_Standards/WikiData/WD~Clare_Peploe,2975534]]"
-  - "[[_Standards/WikiData/WD~Maria_Paola_Maino,3847448]]"
-father: "[[_Standards/WikiData/WD~Attilio_Bertolucci,758132]]"
-filmography: "[[_Standards/WikiData/WD~Bernardo_Bertolucci_filmography,822959]]"
-family_name: "[[_Standards/WikiData/WD~Bertolucci,828390]]"
+- '[[_Standards/WikiData/WD~Adriana_Asti,374855]]'
+- '[[_Standards/WikiData/WD~Clare_Peploe,2975534]]'
+- '[[_Standards/WikiData/WD~Maria_Paola_Maino,3847448]]'
+father: '[[_Standards/WikiData/WD~Attilio_Bertolucci,758132]]'
+filmography: '[[_Standards/WikiData/WD~Bernardo_Bertolucci_filmography,822959]]'
+family_name: '[[_Standards/WikiData/WD~Bertolucci,828390]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~film_production,932586]]"
-  - "[[_Standards/WikiData/WD~film_direction,12765827]]"
-  - "[[_Standards/WikiData/WD~film_screenwriting,115156386]]"
-  - "[[_Standards/WikiData/WD~film,11424]]"
-sibling: "[[_Standards/WikiData/WD~Giuseppe_Bertolucci,988072]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Bernardo_Bertolucci,11239004]]"
-given_name: "[[_Standards/WikiData/WD~Bernardo,11687769]]"
-position_held: "[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]"
+- '[[_Standards/WikiData/WD~film_production,932586]]'
+- '[[_Standards/WikiData/WD~film_direction,12765827]]'
+- '[[_Standards/WikiData/WD~film_screenwriting,115156386]]'
+- '[[_Standards/WikiData/WD~film,11424]]'
+sibling: '[[_Standards/WikiData/WD~Giuseppe_Bertolucci,988072]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Bernardo_Bertolucci,11239004]]'
+given_name: '[[_Standards/WikiData/WD~Bernardo,11687769]]'
+position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-residence: "[[_Standards/WikiData/WD~Parma,2683]]"
-place_of_birth: "[[_Standards/WikiData/WD~Parma,2683]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-medical_condition: "[[_Standards/WikiData/WD~multiple_sclerosis,8277]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Rome,220]]"
-cause_of_death: "[[_Standards/WikiData/WD~lung_cancer,47912]]"
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+residence: '[[_Standards/WikiData/WD~Parma,2683]]'
+place_of_birth: '[[_Standards/WikiData/WD~Parma,2683]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+medical_condition: '[[_Standards/WikiData/WD~multiple_sclerosis,8277]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Rome,220]]'
+cause_of_death: '[[_Standards/WikiData/WD~lung_cancer,47912]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/BERTOLUCHCHI_BERNARDO.html
 Libris_URI: zw9djz3h18vgtzd
 name_in_native_language: Bernardo Bertolucci
@@ -98,12 +126,106 @@ date_of_birth: 1941-03-16T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Bertolucci.jpg
 audio_recording_of_the_subject_s_spoken_voice: http://commons.wikimedia.org/wiki/Special:FilePath/Bernardo%20Bertolucci%20bbc%20radio4%20front%20row%2029%2004%202013.flac
 described_at_URL:
-  - http://www.alibionline.it/recensione-ultimo-tango-parigi-bertolucci/
-  - http://www.movielicious.it/2018/11/26/addio-a-bernardo-bertolucci/
-ISNI: "0000000120968463"
-P1015: "90080278"
+- http://www.alibionline.it/recensione-ultimo-tango-parigi-bertolucci/
+- http://www.movielicious.it/2018/11/26/addio-a-bernardo-bertolucci/
+ISNI: 0000000120968463
+P1015: 90080278
+dv_has_:
+  name_:
+    af: Bernardo Bertolucci
+    an: Bernardo Bertolucci
+    ar: برناردو برتولوتشي
+    arz: برناردو برتولوتشى
+    ast: Bernardo Bertolucci
+    az: Bernardo Bertaluççi
+    be: Бернарда Берталучы
+    be-tarask: Бэрнарда Бэрталюччы
+    bg: Бернардо Бертолучи
+    bho: बर्नारडो बर्टोलूची
+    bn: বেরনার্দো বেরতোলুচ্চি
+    bs: Bernardo Bertolucci
+    ca: Bernardo Bertolucci
+    cs: Bernardo Bertolucci
+    cy: Bernardo Bertolucci
+    da: Bernardo Bertolucci
+    de: Bernardo Bertolucci
+    de-ch: Bernardo Bertolucci
+    diq: Bernardo Bertolucci
+    el: Μπερνάρντο Μπερτολούτσι
+    eml: Bernardo Bertolucci
+    en: Bernardo Bertolucci
+    en-ca: Bernardo Bertolucci
+    en-gb: Bernardo Bertolucci
+    eo: Bernardo Bertolucci
+    es: Bernardo Bertolucci
+    et: Bernardo Bertolucci
+    eu: Bernardo Bertolucci
+    fa: برناردو برتولوچی
+    fi: Bernardo Bertolucci
+    fr: Bernardo Bertolucci
+    ga: Bernardo Bertolucci
+    gl: Bernardo Bertolucci
+    he: ברנרדו ברטולוצ'י
+    hi: बर्नारडो बर्टोलूची
+    hr: Bernardo Bertolucci
+    hu: Bernardo Bertolucci
+    hy: Բեռնարդո Բերտոլուչի
+    id: Bernardo Bertolucci
+    io: Bernardo Bertolucci
+    is: Bernardo Bertolucci
+    it: Bernardo Bertolucci
+    ja: ベルナルド・ベルトルッチ
+    ka: ბერნარდო ბერტოლუჩი
+    kk: Бернардо Бертолуччи
+    ko: 베르나르도 베르톨루치
+    la: Bernardus Bertolucci
+    lb: Bernardo Bertolucci
+    li: Bernardo Bertolucci
+    lt: Bernardo Bertolucci
+    lv: Bernardo Bertoluči
+    mg: Bernardo Bertolucci
+    min: Bernardo Bertolucci
+    mk: Бернардо Бертолучи
+    ml: ബെർനാർഡു ബെർതുലൂച്ചി
+    mn: Бернардо Бертолуччи
+    mul: Bernardo Bertolucci
+    nan: Bernardo Bertolucci
+    nb: Bernardo Bertolucci
+    nl: Bernardo Bertolucci
+    nn: Bernardo Bertolucci
+    oc: Bernardo Bertolucci
+    pa: ਬਰਨਾਰਡੋ ਬਰਤੋਲੂਚੀ
+    pap: Bernardo Bertolucci
+    pl: Bernardo Bertolucci
+    pms: Bernardo Bertolucci
+    pt: Bernardo Bertolucci
+    pt-br: Bernardo Bertolucci
+    qu: Bernardo Bertolucci
+    ro: Bernardo Bertolucci
+    ru: Бернардо Бертолуччи
+    sco: Bernardo Bertolucci
+    sh: Bernardo Bertolucci
+    sk: Bernardo Bertolucci
+    sl: Bernardo Bertolucci
+    sq: Bernardo Bertolucci
+    sr: Бернардо Бертолучи
+    sr-ec: Бернардо Бертолучи
+    sv: Bernardo Bertolucci
+    ta: பெர்னார்டோ பெர்டோலூசி
+    te: బెర్నార్డో బెర్టోలుచి
+    th: แบร์นาโด แบร์โตลุชชี
+    tr: Bernardo Bertolucci
+    uk: Бернардо Бертолуччі
+    vi: Bernardo Bertolucci
+    war: Bernardo Bertolucci
+    wuu: 贝纳尔多·贝托鲁奇
+    xmf: ბერნარდო ბერტოლუჩი
+    yue: 貝托洛奇
+    zh: 貝納多·貝托魯奇
+    zh-hk: 貝托洛奇
+    zh-my: 贝尔纳多·贝托鲁奇
+    zh-sg: 贝尔纳多·贝托鲁奇
 ---
-
 # [[Bertolucci,Bernardo]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bernardo_Bertolucci,53009|WD~Bernardo_Bertolucci,53009]] 

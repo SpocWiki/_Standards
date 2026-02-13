@@ -1,13 +1,58 @@
 ---
 aliases:
-  - Egge
-  - Harrow(Tool)
+- Akėčios
+- are
+- Borona
+- brona
+- Brány
+- Bừa
+- Crates dentatae
+- Diskaro
+- Drljača
+- eg
+- Egge
+- Eide
+- erpice
+- Erpilo
+- Freuz
+- Garu
+- grada
+- grade
+- Grapă
+- harrow
+- Harrow(Tool)
+- harv
+- Harve
+- Herfi
+- herse
+- Rascle
+- retobatu
+- äes
+- Äke
+- Éig
+- îpe
+- σβάρνα
+- Барана
+- борона
+- Брана
+- грибло
+- Дерляча
+- Дрљача
+- Инзама
+- Ցաքան
+- משדדה
+- مشط
+- کلوخشکن
+- हेंगा
+- 耖
+- 馬鍬
+- 써레
 has_id_wikidata: Q209042
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from: '[[_Standards/WikiData/WD~Brona,4973806]]'
 has_use: '[[_Standards/WikiData/WD~harrowing,13542714]]'
 subclass_of: '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
@@ -16,8 +61,70 @@ Commons_gallery: Harrow
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scheibenegge.jpg
 Iconclass_notation: 47I15(HARROW)
 Commons_category: Harrows
+dv_has_:
+  name_:
+    ar: مشط
+    ast: retobatu
+    be: Барана
+    be-tarask: барана
+    bg: Брана
+    bho: हेंगा
+    br: Freuz
+    ca: Rascle
+    cs: Brány
+    da: Harve
+    de: Egge
+    el: σβάρνα
+    en: harrow
+    eo: Erpilo
+    es: grada
+    et: Äke
+    eu: are
+    fa: کلوخشکن
+    fi: äes
+    fr: herse
+    fy: Eide
+    gl: Grade
+    he: משדדה
+    hr: Drljača
+    hu: borona
+    hy: Ցաքան
+    is: Herfi
+    it: erpice
+    ja: 馬鍬
+    ko: 써레
+    la: Crates dentatae
+    lb: Éig
+    lt: Akėčios
+    mdf: Инзама
+    mk: грибло
+    nb: harv
+    nl: eg
+    nn: harv
+    pl: brona
+    pt: grade
+    ro: Grapă
+    rsk: Дерляча
+    ru: борона
+    sr: Дрљача
+    sr-ec: Дрљача
+    sr-el: Drljača
+    su: Garu
+    sv: harv
+    tr: Diskaro
+    uk: Борона
+    uz: Borona
+    vi: Bừa
+    wa: îpe
+    yue: 耖
+    zh: 耖
+    zh-cn: 耖
+    zh-hans: 耖
+    zh-hant: 耖
+    zh-hk: 耖
+    zh-sg: 耖
+    zh-tw: 耖
 ---
-
 # [[Harrow(Tool)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Harrow,209042|WD~Harrow,209042]] 

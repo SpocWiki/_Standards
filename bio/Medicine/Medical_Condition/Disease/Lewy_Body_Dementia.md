@@ -1,27 +1,134 @@
 ---
 aliases:
-  - Parkinson's Disease
-  - Lewy Body Dementia
-  - Lewy_Body_Dementia
+- boala Parkinson
+- Buyuten
+- bệnh Parkinson
+- choroba Parkinsona
+- clefyd Parkinson
+- Cutar Parkinson
+- doença de Parkinson
+- enfermedad de Parkinson
+- Enfermedá de Parkinson
+- Galar Parkinson
+- Jenjazi
+- Karamdaman ni Parkinson
+- kleñved Parkinson
+- Lewy Body Dementia
+- Lewy_Body_Dementia
+- Maladi di Parkinson
+- Maladia de Parkinson
+- maladie de Parkinson
+- malaltia de Parkinson
+- malattia di Parkinson
+- Malatìa di Parkinson
+- Malautía de Parkinson
+- maläd di Parkinson
+- marda ta’ Parkinson
+- małatia de Parkinson
+- Morbo di Parkinson
+- Morbus Parkinson
+- Murimu wa parkinson
+- Nexweşiya parkinsonê
+- Paakinsn diziiz
+- Parkinson
+- Parkinson hastalığı
+- Parkinson kasalligi (qozoq tilidan)
+- Parkinson mba'asy
+- Parkinson se siekte
+- Parkinson xəstəliyi
+- Parkinson ê pēⁿ
+- Parkinson's Disease
+- Parkinson-Chranket
+- Parkinson-Krankheet
+- Parkinson-Krankheit
+- Parkinson-kór
+- Parkinsona malsano
+- Parkinsonan taudi
+- Parkinsonen gaixotasun
+- Parkinsoni tõbi
+- Parkinsonin tauti
+- Parkinsono liga
+- Parkinsonova bolest
+- Parkinsonova bolezen
+- Parkinsonova choroba
+- Parkinsonova nemoc
+- parkinsons disease
+- Parkinsons sjukdom
+- Parkinsons sygdom
+- Parkinsons sykdom
+- Parkinsonsveiki
+- Penyakit Parkinson
+- Pàrkinson
+- párkinson
+- Pārkinsona slimība
+- Sakit Parkinson
+- Sykte fan Parkinson
+- tinneas Parkinson
+- Ugonjwa wa Parkinson
+- ziekte van Parkinson
+- Àrùn Parkinson
+- νόσος του Πάρκινσον
+- болезнь Паркинсона
+- Болест на Паркинсон
+- Паркинсон авыруы
+- Паркинсон ауруы
+- Паркинсонова болест
+- Паркинсоны өвчин
+- Хвароба Паркінсона
+- хвороба Паркінсона
+- Պարկինսոնյան հիվանդություն
+- Փարքինսըն
+- מחלת פרקינסון
+- פארקינסאן קרענק
+- د پارکېنسون ناروغي
+- لمرض د پاركينسون
+- مرض باركنسون
+- پارکنسن بؠمٲرؠ
+- پارکنسن دی بیماری
+- پارکنسن کی بیماری
+- پارکینسون
+- پارکینسون مریضلیگی
+- پارکینسۆن
+- ތުރުތުރުއަޅާ ބަލި
+- कंपवात
+- पार्किंसन रोग
+- पार्किनसन
+- পারকিনসন রোগ
+- পাৰকিনছনৰ ৰোগ
+- ਪਾਰਕਿੰਸਨ ਰੋਗ
+- ପାର୍କିନ୍ସନ୍ ରୋଗ
+- நடுக்குவாதம்
+- ಪಾರ್ಕಿನ್ಸನ್ ಕಾಯಿಲೆ
+- പാർക്കിൻസൺസ് രോഗം
+- පාර්කින්සන් රෝගය
+- โรคพาร์กินสัน
+- ပါကိန်သောန်၊ ယဲ
+- პარკინსონის დაავადება
+- Ọrià Parkinson
+- パーキンソン病
+- 巴金森氏症
+- 帕金森病
+- 柏金遜症
+- 파킨슨병
 has_id_wikidata: Q11085
 OmegaWiki_Defined_Meaning: 717561
 ICD_9_CM:
-  - 332.0
-  - 332
+- 332.0
+- 332
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Akathisie.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sir%20William%20Richard%20Gowers%20Parkinson%20Disease%20sketch%201886.svg
 exact_match:
-  - http://identifiers.org/doid/DOID:14330
-  - http://purl.obolibrary.org/obo/DOID_14330
-  - http://www.orpha.net/ORDO/Orphanet_2828
+- http://identifiers.org/doid/DOID:14330
+- http://purl.obolibrary.org/obo/DOID_14330
+- http://www.orpha.net/ORDO/Orphanet_2828
 UMLS_CUI: C0030567
 MeSH_tree_code:
-  - C10.228.140.079.862.500
-  - C10.228.662.600.400
-  - C10.574.928.750
+- C10.228.140.079.862.500
+- C10.228.662.600.400
+- C10.574.928.750
 ICD_10_CM:
-  - F02.3
-  - G20
+- F02.3
+- G20
 Krugosvet_article_archived_: medicina/PARKINSONA_BOLEZN.html
 Commons_category: Parkinson's disease
 subreddit: Parkinsons
@@ -30,97 +137,226 @@ Baidu_Tieba_name: 帕金森
 described_at_URL: https://www.sciencefocus.com/the-human-body/parkinsons-diagnosis-years-early
 health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~spasticity,117060]]'
-  - '[[_Standards/WikiData/WD~tremor,223907]]'
-  - '[[_Standards/WikiData/WD~gait_abnormality,827017]]'
-  - '[[_Standards/WikiData/WD~hypokinesia,1036662]]'
+- '[[_Standards/WikiData/WD~spasticity,117060]]'
+- '[[_Standards/WikiData/WD~tremor,223907]]'
+- '[[_Standards/WikiData/WD~gait_abnormality,827017]]'
+- '[[_Standards/WikiData/WD~hypokinesia,1036662]]'
 medical_examination:
-  - '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
-  - '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
-  - '[[_Standards/WikiData/WD~single_photon_emission_computed_tomography,849737]]'
-  - '[[_Standards/WikiData/WD~PDQ39_questionnaire,112056597]]'
+- '[[_Standards/WikiData/WD~magnetic_resonance_imaging,161238]]'
+- '[[_Standards/WikiData/WD~positron_emission_tomography,208376]]'
+- '[[_Standards/WikiData/WD~single_photon_emission_computed_tomography,849737]]'
+- '[[_Standards/WikiData/WD~PDQ39_questionnaire,112056597]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~zonisamide,219957]]'
-  - '[[_Standards/WikiData/WD~clozapine,221361]]'
-  - '[[_Standards/WikiData/WD~apomorphine,269111]]'
-  - '[[_Standards/WikiData/WD~levodopa,300989]]'
-  - '[[_Standards/WikiData/WD~(_)_deprenyl,402633]]'
-  - '[[_Standards/WikiData/WD~amantadine,409761]]'
-  - '[[_Standards/WikiData/WD~rivastigmine,411887]]'
-  - '[[_Standards/WikiData/WD~(6S)_rotigotine,411985]]'
-  - '[[_Standards/WikiData/WD~bromocriptine,413581]]'
-  - '[[_Standards/WikiData/WD~tolcapone,413840]]'
-  - '[[_Standards/WikiData/WD~piribedil,413976]]'
-  - '[[_Standards/WikiData/WD~(S)_(_)_carbidopa_monohydrate,414225]]'
-  - '[[_Standards/WikiData/WD~biperiden,414914]]'
-  - '[[_Standards/WikiData/WD~pergolide,415752]]'
-  - '[[_Standards/WikiData/WD~entacapone,416444]]'
-  - '[[_Standards/WikiData/WD~ropinirol,420590]]'
-  - '[[_Standards/WikiData/WD~rasagiline,420685]]'
-  - '[[_Standards/WikiData/WD~pramipexole,421304]]'
-  - '[[_Standards/WikiData/WD~cabergoline,423308]]'
-  - '[[_Standards/WikiData/WD~droxidopa,907853]]'
-  - '[[_Standards/WikiData/WD~safinamide,2211523]]'
-  - '[[_Standards/WikiData/WD~trihexyphenidyl,2991856]]'
-  - '[[_Standards/WikiData/WD~levodopa_carbidopa,5037862]]'
-  - '[[_Standards/WikiData/WD~pimavanserin,7194603]]'
-  - '[[_Standards/WikiData/WD~budipine,28128]]'
+- '[[_Standards/WikiData/WD~zonisamide,219957]]'
+- '[[_Standards/WikiData/WD~clozapine,221361]]'
+- '[[_Standards/WikiData/WD~apomorphine,269111]]'
+- '[[_Standards/WikiData/WD~levodopa,300989]]'
+- '[[_Standards/WikiData/WD~(_)_deprenyl,402633]]'
+- '[[_Standards/WikiData/WD~amantadine,409761]]'
+- '[[_Standards/WikiData/WD~rivastigmine,411887]]'
+- '[[_Standards/WikiData/WD~(6S)_rotigotine,411985]]'
+- '[[_Standards/WikiData/WD~bromocriptine,413581]]'
+- '[[_Standards/WikiData/WD~tolcapone,413840]]'
+- '[[_Standards/WikiData/WD~piribedil,413976]]'
+- '[[_Standards/WikiData/WD~(S)_(_)_carbidopa_monohydrate,414225]]'
+- '[[_Standards/WikiData/WD~biperiden,414914]]'
+- '[[_Standards/WikiData/WD~pergolide,415752]]'
+- '[[_Standards/WikiData/WD~entacapone,416444]]'
+- '[[_Standards/WikiData/WD~ropinirol,420590]]'
+- '[[_Standards/WikiData/WD~rasagiline,420685]]'
+- '[[_Standards/WikiData/WD~pramipexole,421304]]'
+- '[[_Standards/WikiData/WD~cabergoline,423308]]'
+- '[[_Standards/WikiData/WD~droxidopa,907853]]'
+- '[[_Standards/WikiData/WD~safinamide,2211523]]'
+- '[[_Standards/WikiData/WD~trihexyphenidyl,2991856]]'
+- '[[_Standards/WikiData/WD~levodopa_carbidopa,5037862]]'
+- '[[_Standards/WikiData/WD~pimavanserin,7194603]]'
+- '[[_Standards/WikiData/WD~budipine,28128]]'
 named_after: '[[_Standards/WikiData/WD~James_Parkinson,336489]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~rare_disease,929833]]'
-  - '[[_Standards/WikiData/WD~designated_intractable_rare_disease,42303753]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~rare_disease,929833]]'
+- '[[_Standards/WikiData/WD~designated_intractable_rare_disease,42303753]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~synucleinopathy,2376264]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~synucleinopathy,2376264]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 genetic_association:
-  - '[[_Standards/WikiData/WD~DSG3,3011469]]'
-  - '[[_Standards/WikiData/WD~COL13A1,5145896]]'
-  - '[[_Standards/WikiData/WD~NSF,14860336]]'
-  - '[[_Standards/WikiData/WD~SNCA,14862268]]'
-  - '[[_Standards/WikiData/WD~MAPT,14865307]]'
-  - '[[_Standards/WikiData/WD~GBA,14878770]]'
-  - '[[_Standards/WikiData/WD~HLA_DRA,14904874]]'
-  - '[[_Standards/WikiData/WD~LRRK2,15331136]]'
-  - '[[_Standards/WikiData/WD~BST1,17853626]]'
-  - '[[_Standards/WikiData/WD~DGKQ,17912742]]'
-  - '[[_Standards/WikiData/WD~DLG2,17914010]]'
-  - '[[_Standards/WikiData/WD~RIT2,18031133]]'
-  - '[[_Standards/WikiData/WD~SH3GL2,18031477]]'
-  - '[[_Standards/WikiData/WD~WNT3,18032360]]'
-  - '[[_Standards/WikiData/WD~ITGA8,18033064]]'
-  - '[[_Standards/WikiData/WD~SEMA5A,18033776]]'
-  - '[[_Standards/WikiData/WD~UNC13B,18035435]]'
-  - '[[_Standards/WikiData/WD~AAK1,18036533]]'
-  - '[[_Standards/WikiData/WD~ATF6,18036598]]'
-  - '[[_Standards/WikiData/WD~CHCHD2,18040038]]'
-  - '[[_Standards/WikiData/WD~VPS35,18042008]]'
-  - '[[_Standards/WikiData/WD~PRDM15,18045528]]'
-  - '[[_Standards/WikiData/WD~CCDC82,18046343]]'
-  - '[[_Standards/WikiData/WD~SLC2A13,18048952]]'
-  - '[[_Standards/WikiData/WD~CLRN3,18049353]]'
-  - '[[_Standards/WikiData/WD~ODAPH,18052210]]'
-  - '[[_Standards/WikiData/WD~CNKSR3,18052256]]'
-  - '[[_Standards/WikiData/WD~SLC41A1,18053750]]'
-  - '[[_Standards/WikiData/WD~GAK,18297975]]'
+- '[[_Standards/WikiData/WD~DSG3,3011469]]'
+- '[[_Standards/WikiData/WD~COL13A1,5145896]]'
+- '[[_Standards/WikiData/WD~NSF,14860336]]'
+- '[[_Standards/WikiData/WD~SNCA,14862268]]'
+- '[[_Standards/WikiData/WD~MAPT,14865307]]'
+- '[[_Standards/WikiData/WD~GBA,14878770]]'
+- '[[_Standards/WikiData/WD~HLA_DRA,14904874]]'
+- '[[_Standards/WikiData/WD~LRRK2,15331136]]'
+- '[[_Standards/WikiData/WD~BST1,17853626]]'
+- '[[_Standards/WikiData/WD~DGKQ,17912742]]'
+- '[[_Standards/WikiData/WD~DLG2,17914010]]'
+- '[[_Standards/WikiData/WD~RIT2,18031133]]'
+- '[[_Standards/WikiData/WD~SH3GL2,18031477]]'
+- '[[_Standards/WikiData/WD~WNT3,18032360]]'
+- '[[_Standards/WikiData/WD~ITGA8,18033064]]'
+- '[[_Standards/WikiData/WD~SEMA5A,18033776]]'
+- '[[_Standards/WikiData/WD~UNC13B,18035435]]'
+- '[[_Standards/WikiData/WD~AAK1,18036533]]'
+- '[[_Standards/WikiData/WD~ATF6,18036598]]'
+- '[[_Standards/WikiData/WD~CHCHD2,18040038]]'
+- '[[_Standards/WikiData/WD~VPS35,18042008]]'
+- '[[_Standards/WikiData/WD~PRDM15,18045528]]'
+- '[[_Standards/WikiData/WD~CCDC82,18046343]]'
+- '[[_Standards/WikiData/WD~SLC2A13,18048952]]'
+- '[[_Standards/WikiData/WD~CLRN3,18049353]]'
+- '[[_Standards/WikiData/WD~ODAPH,18052210]]'
+- '[[_Standards/WikiData/WD~CNKSR3,18052256]]'
+- '[[_Standards/WikiData/WD~SLC41A1,18053750]]'
+- '[[_Standards/WikiData/WD~GAK,18297975]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 possible_treatment:
-  - '[[_Standards/WikiData/WD~Q56226724,56226724]]'
-  - '[[_Standards/WikiData/WD~medication,12140]]'
-  - '[[_Standards/WikiData/WD~surgery,40821]]'
+- '[[_Standards/WikiData/WD~Q56226724,56226724]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~surgery,40821]]'
 prevalence: 0.002
 DiseasesDB: 9651
 U_S_National_Archives_Identifier: 10647691
 external_data_available_at_URL: http://www.nanbyou.or.jp/entry/169
+dv_has_:
+  name_:
+    af: Parkinson se siekte
+    an: Malautía de Parkinson
+    ar: مرض باركنسون
+    ary: لمرض د پاركينسون
+    arz: مرض باركنسون
+    as: পাৰকিনছনৰ ৰোগ
+    ast: Enfermedá de Parkinson
+    az: Parkinson xəstəliyi
+    azb: پارکینسون مریضلیگی
+    be: Хвароба Паркінсона
+    be-tarask: хвароба Паркінсона
+    bg: Болест на Паркинсон
+    bn: পারকিনসন রোগ
+    br: kleñved Parkinson
+    bs: Parkinsonova bolest
+    ca: malaltia de Parkinson
+    ckb: پارکینسۆن
+    co: Malatìa di Parkinson
+    cs: Parkinsonova nemoc
+    cy: clefyd Parkinson
+    da: Parkinsons sygdom
+    de: Parkinson-Krankheit
+    dv: ތުރުތުރުއަޅާ ބަލި
+    el: νόσος του Πάρκινσον
+    eml: Pàrkinson
+    en: Parkinson's disease
+    en-ca: Parkinson's disease
+    en-gb: Parkinson's disease
+    eo: Parkinsona malsano
+    es: enfermedad de Parkinson
+    et: Parkinsoni tõbi
+    eu: Parkinsonen gaixotasun
+    fa: پارکینسون
+    fi: Parkinsonin tauti
+    fr: maladie de Parkinson
+    fy: Sykte fan Parkinson
+    ga: Galar Parkinson
+    gcr: Maladi di Parkinson
+    gd: tinneas Parkinson
+    gl: párkinson
+    gn: Parkinson mba'asy
+    gpe: Parkinson's disease
+    gsw: Parkinson-Chranket
+    ha: Cutar Parkinson
+    he: מחלת פרקינסון
+    hi: पार्किंसन रोग
+    hr: Parkinsonova bolest
+    hu: Parkinson-kór
+    hy: Պարկինսոնյան հիվանդություն
+    hyw: Փարքինսըն
+    ia: Maladia de Parkinson
+    id: Penyakit Parkinson
+    ig: Ọrià Parkinson
+    io: Morbo di Parkinson
+    is: Parkinsonsveiki
+    it: malattia di Parkinson
+    ja: パーキンソン病
+    jam: Paakinsn diziiz
+    jv: Buyuten
+    ka: პარკინსონის დაავადება
+    ki: Murimu wa parkinson
+    kk: Паркинсон ауруы
+    kn: ಪಾರ್ಕಿನ್ಸನ್ ಕಾಯಿಲೆ
+    ko: 파킨슨병
+    ks: پارکنسن بؠمٲرؠ
+    ku: Nexweşiya parkinsonê
+    la: Morbus Parkinson
+    lb: Parkinson-Krankheet
+    lt: Parkinsono liga
+    lv: Pārkinsona slimība
+    mk: Паркинсонова болест
+    ml: പാർക്കിൻസൺസ് രോഗം
+    mn: Паркинсоны өвчин
+    mnw: ပါကိန်သောန်၊ ယဲ
+    mr: कंपवात
+    ms: Penyakit Parkinson
+    mt: marda ta’ Parkinson
+    nan: Parkinson ê pēⁿ
+    nb: Parkinsons sykdom
+    ne: पार्किनसन
+    nl: ziekte van Parkinson
+    nn: Parkinsons sjukdom
+    olo: Parkinsonan taudi
+    or: ପାର୍କିନ୍ସନ୍ ରୋଗ
+    pa: ਪਾਰਕਿੰਸਨ ਰੋਗ
+    pl: choroba Parkinsona
+    pnb: پارکنسن دی بیماری
+    ps: د پارکېنسون ناروغي
+    pt: doença de Parkinson
+    pt-br: doença de Parkinson
+    ro: boala Parkinson
+    ru: болезнь Паркинсона
+    sco: Parkinson's disease
+    sh: Parkinsonova bolest
+    si: පාර්කින්සන් රෝගය
+    sk: Parkinsonova choroba
+    sl: Parkinsonova bolezen
+    sn: Jenjazi
+    sq: Parkinson
+    sr: Паркинсонова болест
+    sv: Parkinsons sjukdom
+    sw: Ugonjwa wa Parkinson
+    ta: நடுக்குவாதம்
+    te: parkinsons disease
+    th: โรคพาร์กินสัน
+    tl: Karamdaman ni Parkinson
+    tr: Parkinson hastalığı
+    tt: Паркинсон авыруы
+    uk: хвороба Паркінсона
+    ur: پارکنسن کی بیماری
+    uz: Parkinson kasalligi (qozoq tilidan)
+    vec: małatia de Parkinson
+    vi: bệnh Parkinson
+    vo: maläd di Parkinson
+    war: Sakit Parkinson
+    wuu: 帕金森病
+    yi: פארקינסאן קרענק
+    yo: Àrùn Parkinson
+    yue: 柏金遜症
+    zh: 帕金森病
+    zh-cn: 帕金森病
+    zh-hans: 帕金森病
+    zh-hant: 帕金森病
+    zh-hk: 柏金遜症
+    zh-mo: 柏金遜症
+    zh-my: 帕金森病
+    zh-sg: 帕金森病
+    zh-tw: 巴金森氏症
 ---
-
 # [[Lewy_Body_Dementia]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Parkinson's_disease,11085|WD~Parkinson's_disease,11085]] 

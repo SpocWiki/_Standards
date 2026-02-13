@@ -1,49 +1,111 @@
 ---
-has_time_started: 1876-01-01 
+has_time_started: 1876-01-01
 aliases:
-  - Dewey Decimal Classification
-  - Dewey_Decimal_Classification
+- Clasificación Decimal Dewey
+- Clasificarea zecimală Dewey
+- Classificació Decimal de Dewey
+- Classificatio Decimalis Dewey
+- classification décimale de Dewey
+- classificazione decimale Dewey
+- classificazzioni dicimali di Dewey
+- Classificação Decimal de Dewey
+- córas deachúlach Dewey
+- Decimalni sustav klasifikacije
+- Dewey classification system
+- Dewey Decimal Classification
+- Dewey decimala klasifiko
+- Dewey Decimale Classificatie
+- Dewey decimalna klasifikacija
+- Dewey dekuma klasifiko
+- Dewey klassifikasiestelsel
+- Dewey Ondalık Sınıflama
+- Dewey sailkapen sistema
+- Dewey Si̍p-chìn Hun-lūi-hoat
+- Dewey-Dezimalklassifikation
+- Dewey-flokkunarkerfið
+- Dewey-féle tizedes osztályozás
+- Deweyev decimalni sistem klasifikacije
+- Deweyho desatinné triedenie
+- Deweyjeva decimalna klasifikacija
+- Deweyn luokittelu
+- Deweys desimalklassifikasjon
+- Dewey_Decimal_Classification
+- Deweyův desetinný systém
+- Djūija Decimālā klasifikācija
+- e ici actek Dewey
+- Han-ayng Dewey
+- Klasifikasi Desimal Dewey
+- klasyfikacja dziesiętna Deweya
+- Pengelasan Perpuluhan Dewey
+- rabuwar DDC
+- sistema Dewey de clasificación
+- System Ddegol Dewey
+- UMjinjo wezishumi womtapolwazi
+- Δεκαδικό Σύστημα Ταξινόμησης Ντιούι
+- Дјуиева децимална класификација
+- Десетична класификация на Дюи
+- десятичная классификация Дьюи
+- десяткова класифікація Дьюї
+- дзесятковая клясыфікацыя Д’юі
+- Дюигийн аравтын ангилал
+- שיטת דיואי
+- تصنيف ديوي العشري
+- ردهبندی دهدهی دیوئی
+- ڈیوی اعشاریائی درجہ بندی
+- ڊيوي ڏهائي درجه بندي
+- ڤڠلسن ڤرڤولوهن دووي
+- डेवी दशमलव वर्गीकरण
+- ডিউই ডেসিমাল শ্রেণীবিন্যাস
+- ਡੀਯੂਈ ਦਸ਼ਮਲਵ ਵਰਗੀਕਰਣ
+- தூவி தசம வகைப்படுத்தல்
+- ഡ്യൂയി ഡെസിമൽ വർഗ്ഗീകരണം
+- ඩිවි දශම වර්ගීකරණය
+- การจัดหมู่ระบบทศนิยมดิวอี้
+- デューイ十進分類法
+- 杜威十进制图书分类法
+- 杜威十進制圖書分類法
+- 듀이 십진분류법
 has_id_wikidata: Q48460
 publisher: '[[_Standards/WikiData/WD~OCLC,_Inc.,190593]]'
 studied_by: '[[_Standards/WikiData/WD~library_science,199655]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Universal_Decimal_Classification,243350]]'
-  - '[[_Standards/WikiData/WD~Library_of_Congress_Classification,621080]]'
-  - '[[_Standards/WikiData/WD~Colon_Classification,1110558]]'
-  - '[[_Standards/WikiData/WD~Bliss_bibliographic_classification,1114454]]'
-  - '[[_Standards/WikiData/WD~Chinese_Library_Classification,5100524]]'
+- '[[_Standards/WikiData/WD~Universal_Decimal_Classification,243350]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress_Classification,621080]]'
+- '[[_Standards/WikiData/WD~Colon_Classification,1110558]]'
+- '[[_Standards/WikiData/WD~Bliss_bibliographic_classification,1114454]]'
+- '[[_Standards/WikiData/WD~Chinese_Library_Classification,5100524]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~decimal_classification,1207369]]'
-  - '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
-  - '[[_Standards/WikiData/WD~universal_classification_scheme,24243801]]'
-  - '[[_Standards/WikiData/WD~library_classification_scheme,48473]]'
+- '[[_Standards/WikiData/WD~decimal_classification,1207369]]'
+- '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
+- '[[_Standards/WikiData/WD~universal_classification_scheme,24243801]]'
+- '[[_Standards/WikiData/WD~library_classification_scheme,48473]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~DDC_23,15222117]]'
-  - '[[_Standards/WikiData/WD~DDC_22,15222138]]'
-  - '[[_Standards/WikiData/WD~DDC_21,20830578]]'
-  - '[[_Standards/WikiData/WD~DDC_19,22291302]]'
-  - '[[_Standards/WikiData/WD~DDC_20,22291387]]'
-  - '[[_Standards/WikiData/WD~DDC_11,22293455]]'
-  - '[[_Standards/WikiData/WD~Classification_and_Subject_Index_for_Cataloguing_and_Arranging_the_Books_and_Pamphlets_of_a_Library,26486789]]'
-  - '[[_Standards/WikiData/WD~DDC_18,55765088]]'
+- '[[_Standards/WikiData/WD~DDC_23,15222117]]'
+- '[[_Standards/WikiData/WD~DDC_22,15222138]]'
+- '[[_Standards/WikiData/WD~DDC_21,20830578]]'
+- '[[_Standards/WikiData/WD~DDC_19,22291302]]'
+- '[[_Standards/WikiData/WD~DDC_20,22291387]]'
+- '[[_Standards/WikiData/WD~DDC_11,22293455]]'
+- '[[_Standards/WikiData/WD~Classification_and_Subject_Index_for_Cataloguing_and_Arranging_the_Books_and_Pamphlets_of_a_Library,26486789]]'
+- '[[_Standards/WikiData/WD~DDC_18,55765088]]'
 has_use: '[[_Standards/WikiData/WD~item_of_collection_or_exhibition,18593264]]'
 inception: 1876-01-01T00:00:00Z
 Wikidata_property:
-  - Dewey Decimal Classification
-  - Dewey Decimal Classification (works and editions)
+- Dewey Decimal Classification
+- Dewey Decimal Classification (works and editions)
 language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
 used_by: '[[_Standards/WikiData/WD~library,7075]]'
 creator: '[[_Standards/WikiData/WD~Melvil_Dewey,26879]]'
 exact_match:
-  - http://purl.org/dc/terms/DDC
-  - http://www.bl.uk/schemas/bibliographic/blterms#TopicDDC
+- http://purl.org/dc/terms/DDC
+- http://www.bl.uk/schemas/bibliographic/blterms#TopicDDC
 short_name:
-  - DDC
-  - CDD
-  - DDK
-  - CDD
-  - DOS
-  - CDD
+- DDC
+- CDD
+- DDK
+- CDD
+- DOS
+- CDD
 Commons_category: Dewey Decimal System
 Datahub_page: dewey_decimal_classification
 Dewey_Decimal_Classification: 025.431
@@ -51,11 +113,86 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Dewey%20relatv%20index
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%209%20%28Madehub%29-classification%20d%C3%A9micale%20de%20Dewey.wav
 described_at_URL: https://www.oclc.org/content/dam/oclc/dewey/ddc23-summaries.pdf
 official_website: https://www.oclc.org/en/dewey.html
+dv_has_:
+  name_:
+    af: Dewey klassifikasiestelsel
+    ar: تصنيف ديوي العشري
+    atj: e ici actek Dewey
+    be-tarask: дзесятковая клясыфікацыя Д’юі
+    bg: Десетична класификация на Дюи
+    bn: ডিউই ডেসিমাল শ্রেণীবিন্যাস
+    bs: Dewey decimalna klasifikacija
+    ca: Classificació Decimal de Dewey
+    ceb: Han-ayng Dewey
+    cs: Deweyův desetinný systém
+    cy: System Ddegol Dewey
+    da: dewey decimal classification
+    de: Dewey-Dezimalklassifikation
+    el: Δεκαδικό Σύστημα Ταξινόμησης Ντιούι
+    en: Dewey Decimal Classification
+    en-ca: Dewey Decimal Classification
+    en-gb: Dewey Decimal Classification
+    eo: Dewey dekuma klasifiko
+    es: sistema Dewey de clasificación
+    eu: Dewey sailkapen sistema
+    fa: ردهبندی دهدهی دیوئی
+    fi: Deweyn luokittelu
+    fr: classification décimale de Dewey
+    ga: córas deachúlach Dewey
+    gl: Clasificación Decimal Dewey
+    ha: rabuwar DDC
+    he: שיטת דיואי
+    hi: डेवी दशमलव वर्गीकरण
+    hr: Decimalni sustav klasifikacije
+    hu: Dewey-féle tizedes osztályozás
+    id: Klasifikasi Desimal Dewey
+    io: Dewey decimala klasifiko
+    is: Dewey-flokkunarkerfið
+    it: classificazione decimale Dewey
+    ja: デューイ十進分類法
+    ko: 듀이 십진분류법
+    la: Classificatio Decimalis Dewey
+    lv: Djūija Decimālā klasifikācija
+    mk: Дјуиева децимална класификација
+    ml: ഡ്യൂയി ഡെസിമൽ വർഗ്ഗീകരണം
+    mn: Дюигийн аравтын ангилал
+    ms: Pengelasan Perpuluhan Dewey
+    ms-arab: ڤڠلسن ڤرڤولوهن دووي
+    nan: Dewey Si̍p-chìn Hun-lūi-hoat
+    nb: Deweys desimalklassifikasjon
+    nl: Dewey Decimale Classificatie
+    nn: Deweys desimalklassifikasjon
+    pa: ਡੀਯੂਈ ਦਸ਼ਮਲਵ ਵਰਗੀਕਰਣ
+    pag: Dewey classification system
+    pl: klasyfikacja dziesiętna Deweya
+    pt: Classificação Decimal de Dewey
+    pt-br: Classificação Decimal de Dewey
+    ro: Clasificarea zecimală Dewey
+    ru: десятичная классификация Дьюи
+    scn: classificazzioni dicimali di Dewey
+    sd: ڊيوي ڏهائي درجه بندي
+    sh: Deweyev decimalni sistem klasifikacije
+    si: ඩිවි දශම වර්ගීකරණය
+    sk: Deweyho desatinné triedenie
+    sl: Deweyjeva decimalna klasifikacija
+    sr: Dewey Decimal Classification
+    sr-ec: Dewey Decimal Classification
+    sv: Dewey Decimal Classification
+    ta: தூவி தசம வகைப்படுத்தல்
+    th: การจัดหมู่ระบบทศนิยมดิวอี้
+    tr: Dewey Ondalık Sınıflama
+    uk: десяткова класифікація Дьюї
+    ur: ڈیوی اعشاریائی درجہ بندی
+    yue: 杜威十進制圖書分類法
+    zh: 杜威十进制图书分类法
+    zh-cn: 杜威十进制图书分类法
+    zh-hans: 杜威十进制图书分类法
+    zh-hant: 杜威十進制圖書分類法
+    zu: UMjinjo wezishumi womtapolwazi
 ---
-
 # [[Dewey_Decimal_Classification]]
 
-#is_/same_as :: [[WD~Dewey Decimal Classification,48460]]
+#is_/same_as :: [[WD~Dewey_Decimal_Classification,48460]]
 
 ## Top-Level Classes 
 

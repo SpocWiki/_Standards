@@ -1,19 +1,147 @@
 ---
 aliases:
+- anghydraddoldeb cymdeithasol
+- bất bình đẳng xã hội
+- Desberdintasun sozial
+- desigualdad social
+- desigualdade social
+- Desigualdá social
+- desigualtat social
+- deziguałità sociałe
+- disuguaglianza sociale
+- družbena neenakost
+- eriarvoisuus
+- ikpe na-ezighị ezi na-elekọta mmadụ
+- inaequalitas socialis
+- inegalitate socială
+- inégalité sociale
+- Joja
+- Ketidaksetaraan sosial
+- Maatskaplike ongelykheid
+- neamhionannas sóisialta
+- nierówność społeczna
+- ojämlikhet
+- Pabarazia sociale
+- samajik asamanatha
+- Sinaandarro
+- socia malegaleco
+- social inequality
+- social ulighed
+- sociale ongelijkheid
+- socialinė nelygybė
+- sociální nerovnost
+- sociālā nevienlīdzība
+- Sosial bərabərsizlik
+- sosial ulikhet
+- sosyal eşitsizlik
+- soziale Ungleichheit
+- társadalmi egyenlőtlenség
+- κοινωνική ανισότητα
+- Нийгмийн тэгш бус байдал
+- Нобаробарии иҷтимоӣ
+- општествена нееднаквост
+- сацыяльная няроўнасць
+- сацыяльная няроўнасьць
+- соціальна нерівність
+- Социјална неједнакост
+- социаль тигезсезлек
+- социальное неравенство
+- Теңсіздік
+- սոցիալական անհավասարություն
+- אי־שיוויון חברתי
+- גלייכרעכטיקייט
+- تفاوت اجتماعي
+- معاشرتی عدم مساوات
+- نابرابری اجتماعی
+- نایەکسانیی کۆمەڵایەتی
+- ټولنيزه نابرابري
+- सामाजिक बिसमता
+- சமத்துவம்
+- ความเหลื่อมล้ำทางสังคม
+- 社会不平等
+- 社会的不平等
+- 사회적 불평등
 has_id_wikidata: Q5431887
 instance_of:
-  - "[[_Standards/WikiData/WD~social_phenomenon,602884]]"
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~social_science_concept,131362181]]"
-subclass_of: "[[_Standards/WikiData/WD~disparity,11536499]]"
-has_cause: "[[_Standards/WikiData/WD~greed,12819497]]"
-opposite_of: "[[_Standards/WikiData/WD~social_equality,13416790]]"
-studied_by: "[[_Standards/WikiData/WD~sociology_of_inequalities,111327036]]"
+- '[[_Standards/WikiData/WD~social_phenomenon,602884]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
+subclass_of: '[[_Standards/WikiData/WD~disparity,11536499]]'
+has_cause: '[[_Standards/WikiData/WD~greed,12819497]]'
+opposite_of: '[[_Standards/WikiData/WD~social_equality,13416790]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_inequalities,111327036]]'
 Library_of_Congress_Classification: HM821-HM821.17
-Dewey_Decimal_Classification: "305.5"
+Dewey_Decimal_Classification: 305.5
 Commons_category: Social inequality
+dv_has_:
+  name_:
+    af: Maatskaplike ongelykheid
+    ar: تفاوت اجتماعي
+    ast: Desigualdá social
+    az: Sosial bərabərsizlik
+    be: сацыяльная няроўнасць
+    be-tarask: сацыяльная няроўнасьць
+    bho: सामाजिक बिसमता
+    ca: desigualtat social
+    ckb: نایەکسانیی کۆمەڵایەتی
+    cs: sociální nerovnost
+    cy: anghydraddoldeb cymdeithasol
+    da: social ulighed
+    de: soziale Ungleichheit
+    de-ch: Soziale Ungleichheit
+    el: κοινωνική ανισότητα
+    en: social inequality
+    en-ca: Social inequality
+    en-gb: social inequality
+    eo: socia malegaleco
+    es: desigualdad social
+    eu: Desberdintasun sozial
+    fa: نابرابری اجتماعی
+    fi: eriarvoisuus
+    fr: inégalité sociale
+    ga: neamhionannas sóisialta
+    gl: desigualdade social
+    gn: Joja
+    he: אי־שיוויון חברתי
+    hi: samajik asamanatha
+    hu: társadalmi egyenlőtlenség
+    hy: սոցիալական անհավասարություն
+    id: Ketidaksetaraan sosial
+    ig: ikpe na-ezighị ezi na-elekọta mmadụ
+    it: disuguaglianza sociale
+    ja: 社会的不平等
+    kk: Теңсіздік
+    ko: 사회적 불평등
+    la: inaequalitas socialis
+    lt: socialinė nelygybė
+    lv: sociālā nevienlīdzība
+    mk: општествена нееднаквост
+    mn: Нийгмийн тэгш бус байдал
+    nb: sosial ulikhet
+    nl: sociale ongelijkheid
+    pl: nierówność społeczna
+    ps: ټولنيزه نابرابري
+    pt: desigualdade social
+    pt-br: desigualdade social
+    ro: inegalitate socială
+    ru: социальное неравенство
+    sl: družbena neenakost
+    so: Sinaandarro
+    sq: Pabarazia sociale
+    sr: Социјална неједнакост
+    sv: ojämlikhet
+    ta: சமத்துவம்
+    tg: Нобаробарии иҷтимоӣ
+    th: ความเหลื่อมล้ำทางสังคม
+    tr: sosyal eşitsizlik
+    tt: социаль тигезсезлек
+    uk: соціальна нерівність
+    ur: معاشرتی عدم مساوات
+    vec: deziguałità sociałe
+    vi: bất bình đẳng xã hội
+    yi: גלייכרעכטיקייט
+    zh: 社会不平等
 ---
-
 # [[Social_Inequality]] 
 
 

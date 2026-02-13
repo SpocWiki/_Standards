@@ -1,48 +1,66 @@
 ---
 aliases:
-  - John_Lee_Hooker
-  - John Lee Hooker
-  - Hooker
-  - Hooker,John_Lee
-  - Hooker,John Lee
+- Džon Li Huker
+- Hooker
+- Hooker,John Lee
+- Hooker,John_Lee
+- Ioannes Lee Hooker
+- John Lee Hooker
+- John_Lee_Hooker
+- Τζον Λη Χούκερ
+- Джон Лі Гукер
+- Джон Лі Хукер
+- Джон Ли Хукер
+- Джон Лий Хукър
+- Ջոն Լի Հուքեր
+- ג'ון לי הוקר
+- جان لی هوکر
+- جون لى هوكر
+- جون لي هوكر
+- ਜ਼ੌਨ ਲੀ ਹੂਕਰ
+- ジョン・リー・フッカー
+- 約翰·李·霍克
+- 约翰·李·胡克
+- 约翰·李·霍克
+- 존 리 후커
 has_id_wikidata: Q44570
 instrument:
-  - '[[_Standards/WikiData/WD~drum_kit,128309]]'
-  - '[[_Standards/WikiData/WD~bass,810447]]'
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~drum_kit,128309]]'
+- '[[_Standards/WikiData/WD~bass,810447]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Chess_Records,772494]]'
-  - '[[_Standards/WikiData/WD~Modern_Records,1551705]]'
-  - '[[_Standards/WikiData/WD~Flair_Records,2047343]]'
-  - '[[_Standards/WikiData/WD~Charly_Records,5086379]]'
+- '[[_Standards/WikiData/WD~Chess_Records,772494]]'
+- '[[_Standards/WikiData/WD~Modern_Records,1551705]]'
+- '[[_Standards/WikiData/WD~Flair_Records,2047343]]'
+- '[[_Standards/WikiData/WD~Charly_Records,5086379]]'
 place_of_death: '[[_Standards/WikiData/WD~Los_Altos,864124]]'
 place_of_birth: '[[_Standards/WikiData/WD~Clarksdale,990145]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Lee,2061957]]'
-  - '[[_Standards/WikiData/WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Lee,2061957]]'
+- '[[_Standards/WikiData/WD~John,4925477]]'
 genre:
-  - '[[_Standards/WikiData/WD~Afro_Cuban_jazz,3163340]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
-  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+- '[[_Standards/WikiData/WD~Afro_Cuban_jazz,3163340]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Hooker,16870868]]'
 discography: '[[_Standards/WikiData/WD~John_Lee_Hooker_discography,24887209]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 cause_of_death: '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -61,8 +79,73 @@ Europeana_entity: agent/base/60058
 Libris_URI: vs68998d1svc3vd
 birth_name: John Lee Hooker
 date_of_birth: 1917-08-22T00:00:00Z
+dv_has_:
+  name_:
+    ar: جون لي هوكر
+    arz: جون لى هوكر
+    ast: John Lee Hooker
+    azb: جان لی هوکر
+    bar: John Lee Hooker
+    be: Джон Лі Хукер
+    be-tarask: Джон Лі Гукер
+    bg: Джон Лий Хукър
+    br: John Lee Hooker
+    ca: John Lee Hooker
+    cs: John Lee Hooker
+    cy: John Lee Hooker
+    da: John Lee Hooker
+    dag: John Lee Hooker
+    de: John Lee Hooker
+    el: Τζον Λη Χούκερ
+    en: John Lee Hooker
+    eo: John Lee Hooker
+    es: John Lee Hooker
+    eu: John Lee Hooker
+    fa: جان لی هوکر
+    fi: John Lee Hooker
+    fr: John Lee Hooker
+    fy: John Lee Hooker
+    ga: John Lee Hooker
+    gl: John Lee Hooker
+    he: ג'ון לי הוקר
+    hr: John Lee Hooker
+    hu: John Lee Hooker
+    hy: Ջոն Լի Հուքեր
+    id: John Lee Hooker
+    ig: John Lee Hooker
+    ilo: John Lee Hooker
+    io: John Lee Hooker
+    it: John Lee Hooker
+    ja: ジョン・リー・フッカー
+    ko: 존 리 후커
+    la: Ioannes Lee Hooker
+    lb: John Lee Hooker
+    li: John Lee Hooker
+    mg: John Lee Hooker
+    nb: John Lee Hooker
+    nl: John Lee Hooker
+    nn: John Lee Hooker
+    oc: John Lee Hooker
+    pa: ਜ਼ੌਨ ਲੀ ਹੂਕਰ
+    pap: John Lee Hooker
+    pl: John Lee Hooker
+    pt: John Lee Hooker
+    pt-br: John Lee Hooker
+    ru: Джон Ли Хукер
+    sh: John Lee Hooker
+    sl: John Lee Hooker
+    sq: John Lee Hooker
+    sr: Džon Li Huker
+    sv: John Lee Hooker
+    tr: John Lee Hooker
+    uk: Джон Лі Гукер
+    vi: John Lee Hooker
+    war: John Lee Hooker
+    yue: 約翰·李·霍克
+    zh: 约翰·李·胡克
+    zh-cn: 约翰·李·霍克
+    zh-hant: 約翰·李·霍克
 ---
-
 # [[Hooker,John_Lee]] 
 
 #is_/same_as :: [[WD~John_Lee_Hooker,44570]] 

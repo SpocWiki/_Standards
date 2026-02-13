@@ -1,27 +1,163 @@
 ---
 aliases:
-  - Radionuklid
-  - radioactive nuclide
-  - radioisotope
-  - radioactive isotope
-  - Radionuclide
+- hạt nhân phóng xạ
+- Isotopo erradiaktibo
+- isótopu radioactivu
+- izotop promieniotwórczy
+- izotopet radioaktive
+- radanúiclíd
+- radioactive isotope
+- radioactive nuclide
+- radioaktiivne isotoop
+- radioaktiv izotoplar
+- radioaktivni izotop
+- radioisotooppi
+- radioisotop
+- radioisotope
+- radioisòtop
+- Radioisótopo
+- radioizotop
+- radioizotopas
+- radionucleido
+- radionuclid
+- Radionuclide
+- radionucléide
+- Radionuklid
+- radionuklida
+- radionuklide
+- radionuklido
+- radionuklied
+- radyo-izotòp
+- radyonüklid
+- radyoîzotopa sîntêtî
+- rádionuklid
+- ραδιοϊσότοπο
+- радіонукліди
+- радиоактив изотоплар
+- радиоактивни изотопи
+- радиоактивные изотопы
+- радиоактивон изотоптæ
+- радиожигара изотопаш
+- радиоизотоп
+- радиоизотоптар
+- радионуклид
+- радионуклидсем
+- радыеактыўныя ізатопы
+- радыянуклід
+- Цацраг идэвхт бодис
+- ռադիոնուկլիդներ
+- רדיונוקליד
+- ایزوتوپ پرتوزا
+- رادیۆیزۆتۆپا سینتێتی
+- مشعہ نویدہ
+- ناوکیدی تیشکن
+- نظير مشع
+- विकिरण समस्थानिक
+- রেডিওনিউক্লাইড
+- கதிரியக்க ஓரிடத்தான்
+- റേഡിയോ ഐസോട്ടോപ്പ്
+- นิวไคลด์รังสี
+- რადიონუკლიდები
+- 放射性同位素
+- 放射性核種
+- 방사성 동위 원소
 has_id_wikidata: Q192900
 subclass_of: '[[_Standards/WikiData/WD~nuclide,108149]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-  - '[[_Standards/WikiData/WD~radiogenic_nuclide,2750292]]'
-  - '[[_Standards/WikiData/WD~radioactive_matter,11996855]]'
-  - '[[_Standards/WikiData/WD~radioisotope,108883098]]'
+- '[[_Standards/WikiData/WD~radiogenic_nuclide,2750292]]'
+- '[[_Standards/WikiData/WD~radioactive_matter,11996855]]'
+- '[[_Standards/WikiData/WD~radioisotope,108883098]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Americium-241.jpg
 Common_Procurement_Vocabulary_code:
-  - 09343000-5
-  - 09344000-2
+- 09343000-5
+- 09344000-2
 U_S_National_Archives_Identifier: 10675444
 OmegaWiki_Defined_Meaning: 789671
 IEV_number: 881-02-36
 Commons_category: Radionuclides
+dv_has_:
+  name_:
+    af: radionuklied
+    ar: نظير مشع
+    ast: isótopu radioactivu
+    be: радыеактыўныя ізатопы
+    be-tarask: радыянуклід
+    bg: радиоактивни изотопи
+    bn: রেডিওনিউক্লাইড
+    ca: radioisòtop
+    ce: радиожигара изотопаш
+    ckb: ناوکیدی تیشکن
+    cs: radionuklid
+    cv: радионуклидсем
+    da: radionuklid
+    de: Radionuklid
+    el: ραδιοϊσότοπο
+    en: radionuclide
+    eo: radionuklido
+    es: radionucleido
+    et: radioaktiivne isotoop
+    eu: Isotopo erradiaktibo
+    fa: ایزوتوپ پرتوزا
+    fi: radioisotooppi
+    fr: radionucléide
+    frr: Radionuklid
+    ga: radanúiclíd
+    gl: Radioisótopo
+    he: רדיונוקליד
+    hi: विकिरण समस्थानिक
+    hr: radionuklid
+    ht: radyo-izotòp
+    hu: radionuklid
+    hy: ռադիոնուկլիդներ
+    id: radionuklida
+    it: radionuclide
+    ja: 放射性核種
+    ka: რადიონუკლიდები
+    kk: радиоизотоптар
+    ko: 방사성 동위 원소
+    ku: radyoîzotopa sîntêtî
+    ku-arab: رادیۆیزۆتۆپا سینتێتی
+    ku-latn: radyoîzotopa sîntêtî
+    ky: радионуклид
+    lt: radioizotopas
+    mk: радиоизотоп
+    ml: റേഡിയോ ഐസോട്ടോപ്പ്
+    mn: Цацраг идэвхт бодис
+    nb: radionuklide
+    nl: radionuclide
+    nn: radioisotop
+    os: радиоактивон изотоптæ
+    pl: izotop promieniotwórczy
+    pt: radioisótopo
+    ro: radionuclid
+    ru: радиоактивные изотопы
+    sh: radionuklid
+    sk: rádionuklid
+    sl: radioaktivni izotop
+    sq: izotopet radioaktive
+    sr: радиоизотоп
+    sr-ec: радиоизотоп
+    sr-el: radioizotop
+    sv: radionuklid
+    ta: கதிரியக்க ஓரிடத்தான்
+    th: นิวไคลด์รังสี
+    tr: radyonüklid
+    tt: радиоактив изотоплар
+    uk: радіонукліди
+    ur: مشعہ نویدہ
+    uz: radioaktiv izotoplar
+    vi: hạt nhân phóng xạ
+    wuu: 放射性同位素
+    yue: 放射性同位素
+    zh: 放射性同位素
+    zh-cn: 放射性同位素
+    zh-hans: 放射性同位素
+    zh-hant: 放射性同位素
+    zh-hk: 放射性同位素
+    zh-sg: 放射性同位素
+    zh-tw: 放射性同位素
 ---
-
 # [[Radionuclide]] 
 
 #is_/same_as :: [[WD~Radionuclide,192900]] 

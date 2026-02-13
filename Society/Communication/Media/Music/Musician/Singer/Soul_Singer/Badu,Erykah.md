@@ -1,9 +1,86 @@
 ---
 aliases:
-  - Erykah Badu
-  - Badu,Erykah
+- Badu,Erykah
+- Erykah Badu
+- Έρικα Μπαντού
+- Еріка Баду
+- Ерика Баду
+- Эрика Баду
+- Էրիկա Բադու
+- Էրիքա Պատու
+- אריקה באדו
+- إيريكاه بادو
+- اریکا بادو
+- ايريكاه بادو
+- ایریکا بادو
+- เอรีกาห์ บาดู
+- ერიკა ბადუ
+- エリカ・バドゥ
+- 埃丽卡‧巴杜
+- 艾莉卡·芭朵
+- 에리카 바두
+has_id_wikidata: Q223875
+dv_has_:
+  name_:
+    ar: إيريكاه بادو
+    arz: ايريكاه بادو
+    ast: Erykah Badu
+    azb: اریکا بادو
+    bg: Ерика Баду
+    ca: Erykah Badu
+    cs: Erykah Badu
+    cy: Erykah Badu
+    da: Erykah Badu
+    de: Erykah Badu
+    el: Έρικα Μπαντού
+    en: Erykah Badu
+    eo: Erykah Badu
+    es: Erykah Badu
+    et: Erykah Badu
+    eu: Erykah Badu
+    fa: اریکا بادو
+    fi: Erykah Badu
+    fr: Erykah Badu
+    ga: Erykah Badu
+    gl: Erykah Badu
+    he: אריקה באדו
+    hr: Erykah Badu
+    hu: Erykah Badu
+    hy: Էրիկա Բադու
+    hyw: Էրիքա Պատու
+    id: Erykah Badu
+    ig: Erykah Badu
+    io: Erykah Badu
+    it: Erykah Badu
+    ja: エリカ・バドゥ
+    ka: ერიკა ბადუ
+    ko: 에리카 바두
+    lt: Erykah Badu
+    mk: Ерика Баду
+    ms: Erykah Badu
+    nb: Erykah Badu
+    nl: Erykah Badu
+    nn: Erykah Badu
+    pap: Erykah Badu
+    pl: Erykah Badu
+    pt: Erykah Badu
+    pt-br: Erykah Badu
+    ro: Erykah Badu
+    ru: Эрика Баду
+    sl: Erykah Badu
+    sq: Erykah Badu
+    sv: Erykah Badu
+    th: เอรีกาห์ บาดู
+    tr: Erykah Badu
+    uk: Еріка Баду
+    ur: ایریکا بادو
+    uz: Erykah Badu
+    yo: Erykah Badu
+    zh: 埃丽卡‧巴杜
+    zh-cn: 埃丽卡‧巴杜
+    zh-hant: 艾莉卡·芭朵
+    zh-tw: 艾莉卡·芭朵
 ---
-
 Her Voice sounds similar to [[Holiday,Billie]]. 
 Her music is very funky and soulful. 
 

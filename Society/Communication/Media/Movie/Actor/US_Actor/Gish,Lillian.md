@@ -1,37 +1,71 @@
 ---
 aliases:
-  - Lillian_Gish
-  - Lillian Diana Gish
-  - Lillian Gish
-  - Gish
-  - Gish,Lillian
+- Gish
+- Gish,Lillian
+- Liliana Giša
+- Lillian Diana Gish
+- Lillian Gish
+- Lillian Gishová
+- Lillian Qiş
+- Lilliana Gish
+- Lillian_Gish
+- Λίλιαν Γκις
+- Ліліан Гіш
+- Ліліян Гіш
+- Лилијан Гиш
+- Лилиан Гиш
+- Лиллиан Гиш
+- Լիլիան Գիշ
+- ליליאן גיש
+- ليليان جيش
+- ليليان غيش
+- لیلیان گیش
+- لیلین قیش
+- لیلین گیش
+- लिलियन गिष
+- লিলিয়ান গিশ
+- ਲਿਲੀਅਨ ਗਿਸ਼
+- ଲିଲିଅନ ଗିଷ
+- லில்லியன் கிஸ்
+- లిలియన్ గిష్
+- ലില്ലിയൻ ഗിഷ്
+- ลิลเลียน กิช
+- ლილიან გიში
+- リリアン・ギッシュ
+- 丽琳·甘许
+- 丽莲·姬丝
+- 呂倫·居殊
+- 呂倫居殊
+- 莉莲·吉什
+- 莉蓮·吉許
+- 릴리언 기시
 has_id_wikidata: Q104183
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
-  - '[[_Standards/WikiData/WD~Independent_Spirit_Award_for_Best_Female_Lead,2544851]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
+- '[[_Standards/WikiData/WD~Independent_Spirit_Award_for_Best_Female_Lead,2544851]]'
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 sibling: '[[_Standards/WikiData/WD~Dorothy_Gish,234536]]'
 award_received:
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actress,1419495]]'
-  - "[[_Standards/WikiData/WD~Ohio_Women's_Hall_of_Fame,11795583]]"
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actress,1419495]]'
+- "[[_Standards/WikiData/WD~Ohio_Women's_Hall_of_Fame,11795583]]"
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
 member_of: '[[_Standards/WikiData/WD~Daughters_of_the_American_Revolution,1541947]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~peace_activist,16323111]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~peace_activist,16323111]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 place_of_burial: '[[_Standards/WikiData/WD~Church_of_the_Heavenly_Rest,5117872]]'
 filmography: '[[_Standards/WikiData/WD~Lillian_Gish_filmography,6548124]]'
@@ -41,10 +75,10 @@ mother: '[[_Standards/WikiData/WD~Mary_Gish,12735108]]'
 given_name: '[[_Standards/WikiData/WD~Lillian,16420442]]'
 family_name: '[[_Standards/WikiData/WD~Gish,16870201]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Women_film_directors_an_international_bio_critical_dictionary,128623368]]'
-  - '[[_Standards/WikiData/WD~The_St._James_women_filmmakers_encyclopedia,128623553]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Women_film_directors_an_international_bio_critical_dictionary,128623368]]'
+- '[[_Standards/WikiData/WD~The_St._James_women_filmmakers_encyclopedia,128623553]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 father: '[[_Standards/WikiData/WD~James_Leigh_Gish,97072132]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
@@ -71,8 +105,110 @@ name_in_native_language: Lillian Gish
 work_period_end_: 1988-01-01T00:00:00Z
 date_of_death: 1993-02-27T00:00:00Z
 work_period_start_: 1902-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Lillian Gish
+    an: Lillian Gish
+    ar: ليليان غيش
+    arz: ليليان جيش
+    ast: Lillian Gish
+    az: Lillian Qiş
+    azb: لیلین قیش
+    ba: Лиллиан Гиш
+    be: Ліліян Гіш
+    be-tarask: Ліліян Гіш
+    bg: Лилиан Гиш
+    bi: Lillian Gish
+    bn: লিলিয়ান গিশ
+    bs: Lillian Gish
+    ca: Lillian Gish
+    ckb: لیلیان گیش
+    cs: Lillian Gishová
+    cy: Lillian Gish
+    da: Lillian Gish
+    de: Lillian Gish
+    el: Λίλιαν Γκις
+    en: Lillian Gish
+    en-ca: Lillian Gish
+    en-gb: Lillian Gish
+    eo: Lillian Gish
+    es: Lillian Gish
+    et: Lillian Gish
+    eu: Lillian Gish
+    fa: لیلین گیش
+    fi: Lillian Gish
+    fr: Lillian Gish
+    fy: Lillian Gish
+    ga: Lillian Gish
+    gl: Lillian Gish
+    gpe: Lillian Gish
+    ha: Lillian Gish
+    he: ליליאן גיש
+    hi: लिलियन गिष
+    hif: Lillian Gish
+    hr: Lillian Gish
+    hu: Lillian Gish
+    hy: Լիլիան Գիշ
+    id: Lillian Gish
+    ig: Lillian Gish
+    ilo: Lillian Gish
+    is: Lillian Gish
+    it: Lillian Gish
+    ja: リリアン・ギッシュ
+    ka: ლილიან გიში
+    kk: Лиллиан Гиш
+    ko: 릴리언 기시
+    la: Lilliana Gish
+    lb: Lillian Gish
+    li: Lillian Gish
+    lt: Lillian Gish
+    lv: Liliana Giša
+    mg: Lillian Gish
+    mk: Лилијан Гиш
+    ml: ലില്ലിയൻ ഗിഷ്
+    ms: Lillian Gish
+    mul: Lillian Gish
+    nb: Lillian Gish
+    nl: Lillian Gish
+    nn: Lillian Gish
+    oc: Lillian Gish
+    or: ଲିଲିଅନ ଗିଷ
+    pa: ਲਿਲੀਅਨ ਗਿਸ਼
+    pam: Lillian Gish
+    pap: Lillian Gish
+    pl: Lillian Gish
+    pnb: لیلیان گیش
+    pt: Lillian Gish
+    pt-br: Lillian Gish
+    ro: Lillian Gish
+    ru: Лиллиан Гиш
+    sco: Lillian Gish
+    sh: Lillian Gish
+    sk: Lillian Gish
+    sl: Lillian Gish
+    sq: Lillian Gish
+    sr: Лилијан Гиш
+    sv: Lillian Gish
+    sw: Lillian Gish
+    ta: லில்லியன் கிஸ்
+    te: లిలియన్ గిష్
+    th: ลิลเลียน กิช
+    tl: Lillian Gish
+    tr: Lillian Gish
+    tt: Лиллиан Гиш
+    uk: Ліліан Гіш
+    uz: Lillian Gish
+    vi: Lillian Gish
+    war: Lillian Gish
+    wuu: 莉莲·吉什
+    yue: 呂倫居殊
+    zh: 莉蓮·吉許
+    zh-hant: 莉蓮·吉許
+    zh-hk: 呂倫·居殊
+    zh-my: 丽莲·姬丝
+    zh-sg: 丽琳·甘许
+    zh-tw: 莉蓮·吉許
 ---
-
 # [[Gish,Lillian]] 
 
 #is_/same_as :: [[WD~Lillian_Gish,104183]] 

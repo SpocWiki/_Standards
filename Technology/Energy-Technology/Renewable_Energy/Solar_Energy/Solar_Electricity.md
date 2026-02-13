@@ -1,23 +1,141 @@
 ---
 aliases:
-  - Solar power, also known as solar electricity
-  - Solar_Electricity
-  - Solar Electricity
+- eguzkiaren energia
+- electricitas solaris
+- electricitat solar
+- energia słoneczna
+- energie electrică solară
+- energiezh an heol
+- energjia solare
+- grianchumhacht
+- günəş elektrik stansiyası
+- Kusog sirak
+- napenergia
+- potencia solar
+- Potensa solar
+- potensa sołare
+- potenza solare
+- puissance solaire
+- päikeseenergeetika
+- Solar Electricity
+- solar power
+- Solar power, also known as solar electricity
+- Solarna energetika
+- Solarstrom
+- Solar_Electricity
+- solkraft
+- solární elektřina
+- Sonkrag
+- sončna elektrarna
+- suna elektro
+- sunala povo
+- Tenaga surya
+- zonnestroom
+- điện mặt trời
+- Күн энергетикасы
+- Нарны эрчим хүч
+- солнечная энергетика
+- сонечная энергетыка
+- сонечная энэргетыка
+- сончева енергетика
+- сонячна енергетика
+- Хĕвел хăвачĕ
+- ҡояш энергетикаһы
+- توان خورشیدی
+- توانی خۆری
+- قوة شمسية
+- لمریزه برېښنا
+- सौर शक्ति
+- सौरऊर्जा
+- সৌর শক্তি
+- সৌৰ শক্তি
+- સોલર પાવર પ્લાન્ટ
+- சூரிய மின் ஆற்றல்
+- సౌర శక్తి
+- සූර්ය බලශක්තිය
+- พลังแสงอาทิตย์
+- ᎤᎦᎵᏒ ᎤᏝᏂᎪᎯᏍᏗᏍᎩ
+- 太陽エネルギー
+- 太陽能發電
+- 태양광 발전
 has_id_wikidata: Q1483757
 subclass_of:
-  - '[[_Standards/WikiData/WD~electricity_generation,383973]]'
-  - '[[_Standards/WikiData/WD~energy_industry,2151621]]'
-  - '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
+- '[[_Standards/WikiData/WD~electricity_generation,383973]]'
+- '[[_Standards/WikiData/WD~energy_industry,2151621]]'
+- '[[_Standards/WikiData/WD~alternative_energy,4202245]]'
 different_from: '[[_Standards/WikiData/WD~solar_luminosity,843877]]'
 uses:
-  - '[[_Standards/WikiData/WD~solar_power_plant,2298412]]'
-  - '[[_Standards/WikiData/WD~solar_energy,40015]]'
+- '[[_Standards/WikiData/WD~solar_power_plant,2298412]]'
+- '[[_Standards/WikiData/WD~solar_energy,40015]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 Commons_category: Solar energy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electrical%20and%20Mechanical%20Services%20Department%20Headquarters%20Photovoltaics.jpg
 OpenStreetMap_tag: electricity=solar
+dv_has_:
+  name_:
+    af: Sonkrag
+    ar: قوة شمسية
+    as: সৌৰ শক্তি
+    az: günəş elektrik stansiyası
+    ba: ҡояш энергетикаһы
+    be: сонечная энергетыка
+    be-tarask: сонечная энэргетыка
+    bn: সৌর শক্তি
+    br: energiezh an heol
+    ca: electricitat solar
+    chr: ᎤᎦᎵᏒ ᎤᏝᏂᎪᎯᏍᏗᏍᎩ
+    ckb: توانی خۆری
+    cs: solární elektřina
+    cv: Хĕвел хăвачĕ
+    da: solkraft
+    de: Solarstrom
+    en: solar power
+    en-ca: solar power
+    en-gb: solar power
+    eo: suna elektro
+    es: potencia solar
+    et: päikeseenergeetika
+    eu: eguzkiaren energia
+    fa: توان خورشیدی
+    fr: puissance solaire
+    ga: grianchumhacht
+    gu: સોલર પાવર પ્લાન્ટ
+    hi: सौर शक्ति
+    hu: napenergia
+    id: Tenaga surya
+    io: sunala povo
+    it: potenza solare
+    ja: 太陽エネルギー
+    kk: Күн энергетикасы
+    ko: 태양광 발전
+    la: electricitas solaris
+    mk: сончева енергетика
+    mn: Нарны эрчим хүч
+    mr: सौरऊर्जा
+    nb: solkraft
+    nl: zonnestroom
+    nn: solkraft
+    pa: Solar power
+    pl: energia słoneczna
+    pms: Potensa solar
+    ps: لمریزه برېښنا
+    ro: energie electrică solară
+    ru: солнечная энергетика
+    si: සූර්ය බලශක්තිය
+    sl: sončna elektrarna
+    sq: energjia solare
+    sr: Solarna energetika
+    sv: solkraft
+    ta: சூரிய மின் ஆற்றல்
+    te: సౌర శక్తి
+    th: พลังแสงอาทิตย์
+    uk: сонячна енергетика
+    vec: potensa sołare
+    vi: điện mặt trời
+    war: Kusog sirak
+    yue: 太陽能發電
+    zh: 太陽能發電
 ---
-
 # [[Solar_Electricity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Solar_power,1483757|WD~Solar_power,1483757]] 

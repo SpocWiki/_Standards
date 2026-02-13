@@ -1,53 +1,189 @@
 ---
 aliases:
-  - Weißkohl
-  - White_Cabbage
-  - White Cabbage
-  - 卷心菜
-  - 甘蓝
-  - 甘藍
-  - belo zelje
-  - 莲花白
-  - 包菜
-  - 洋白菜
+- Aza
+- belo zelje
+- Brassica
+- Brassica oleracea var capitata
+- Brassica oleracea var. capitata
+- Bresychen
+- busekool
+- Byaekgienjsim
+- Cabbage
+- Cabbash vane
+- cabbitch
+- Caboche
+- Cabu
+- cabáiste
+- Capuso
+- Caule
+- Caulet
+- cavolo cappuccio
+- Caƿel
+- Chou
+- chou cabus
+- Chʼil łigaii
+- Col
+- col blanca
+- Càl
+- Càvulu
+- Cải bắp
+- Engkol
+- fejes káposzta
+- galviņkāposti
+- Gái-làng-chái
+- Gūžinis kopūstas
+- hlávkové zelí
+- hovedkål
+- hovudkål
+- huvudkål
+- Hvítkál
+- Iklabishi
+- Ishu
+- Kaabaj
+- Kabeeji
+- Kabichi
+- Kabis
+- kaboċċa
+- Kapisi
+- Kapobrasiko
+- Kappes
+- Kapsas
+- Kapusta
+- Kapusta gowjasto
+- kapusta obyčajná hlávková
+- kapusta warzywna głowiasta
+- Kaulo
+- Kaveti
+- Kelem
+- Kerakapust
+- Khabeche
+- Ko-lê-chhài
+- Kopfkohl
+- Kubis
+- Kubis Bulat
+- Kul
+- Kuopūsts
+- kupus
+- kål
+- Kô-lì-chhoi
+- Kāpisi
+- Lahana
+- Lakra
+- nīko
+- Qapısta
+- repolho
+- repolo
+- Repolyo
+- Repolyu
+- Ripolyu
+- Sjepeng
+- Su
+- Tajao
+- valkokaali
+- varză comună
+- Weisskohl
+- Weißkohl
+- White Cabbage
+- White_Cabbage
+- Witjkual
+- wittekool
+- Wäisse Kabes
+- Λάχανο
+- зеле
+- Зелка
+- Капста
+- капуста білоголова
+- капуста белакачанная
+- капуста белокочанная
+- Карам
+- купус
+- Куреки
+- кәбестә
+- кәбеҫтә
+- կաղամբ
+- כרוב
+- קרויט
+- بند گوبي
+- بند گوبھی
+- بند گوبی
+- بَنٛدگوٗپی
+- كاپۇسكا
+- كرم
+- ملفوف
+- کلمبرگ
+- کەلەم
+- कोबी
+- पत्ता गोभी
+- पर्णशाकम्
+- बंद गोभी
+- बन्दाकोबी
+- बन्दागोभी
+- বন্ধাকবি
+- বাঁধাকপি
+- ਪੱਤਾ ਗੋਭੀ / ਬੰਦ ਗੋਭੀ
+- ବନ୍ଧାକୋବି
+- முட்டைக்கோசு
+- కాబేజీ
+- ಎಲೆಕೋಸು
+- മൊട്ടക്കൂസ്
+- ගෝවා
+- กะหล่ำปลี
+- པད་ལོག
+- ဂေါ်ဖီထုပ်
+- კომბოსტო
+- ლუყუ
+- ጥቅል ጎመን
+- ស្ពៃក្ដោប
+- ᱵᱳᱱᱫᱷᱟᱠᱩᱵᱤ
+- キャベツ
+- 包菜
+- 卷心菜
+- 椰菜
+- 洋白菜
+- 甘蓝
+- 甘藍
+- 结球甘蓝
+- 莲花白
+- 高麗菜
+- 양배추
 has_id_wikidata: Q35051
 parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]'
 has_use:
-  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-  - '[[_Standards/WikiData/WD~cabbage,14328596]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~cabbage,14328596]]'
 taxon_rank: '[[_Standards/WikiData/WD~variety,767728]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
 subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~white_cabbage,62728616]]'
 hardiness_of_plant: '[[_Standards/WikiData/WD~1,99543589]]'
 taxon_range:
-  - '[[_Standards/WikiData/WD~Guangdong,15175]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 PLU_code: 4069
 USDA_NDB_number: 11109
 OmegaWiki_Defined_Meaning: 344475
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Witte%20kool.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aesthetic%20Cabage.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20oleracea0.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Witte%20kool.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Aesthetic%20Cabage.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Brassica%20oleracea0.jpg
 taxon_author_citation: L.
 AFCD_PFKID: F002015
 ITIS_TSN: 526962
 Commons_gallery: Brassica oleracea
 taxon_common_name:
-  - 卷心菜
-  - 甘蓝
-  - 甘藍
-  - 卷心菜
-  - belo zelje
-  - 莲花白
-  - 包菜
-  - 洋白菜
+- 卷心菜
+- 甘蓝
+- 甘藍
+- 卷心菜
+- belo zelje
+- 莲花白
+- 包菜
+- 洋白菜
 Commons_category: Brassica oleracea var. capitata
 taxon_name: Brassica oleracea var. capitata
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/20140221-OC-LSC-0001.jpg
@@ -59,8 +195,163 @@ EPPO_Code: BRSOL
 UMLS_CUI: C5750233
 UNII: M066067JJD
 NBN_System_Key: NBNSYS0000034337
+dv_has_:
+  name_:
+    am: ጥቅል ጎመን
+    ang: Caƿel
+    ar: ملفوف
+    arz: ملفوف
+    as: বন্ধাকবি
+    ast: Brassica oleracea var capitata
+    ba: кәбеҫтә
+    bar: Kabis
+    bcl: Repolyo
+    be: капуста белакачанная
+    be-tarask: капуста белакачанная
+    bg: зеле
+    bho: पत्ता गोभी
+    bi: Kabis
+    bn: বাঁধাকপি
+    bo: པད་ལོག
+    ca: col
+    cdo: Gái-làng-chái
+    ceb: Brassica oleracea var. capitata
+    ckb: کەلەم
+    crh: Qapısta
+    cs: hlávkové zelí
+    cy: Bresychen
+    da: hovedkål
+    de: Kopfkohl
+    de-ch: Weisskohl
+    el: Λάχανο
+    en: Brassica oleracea var. capitata
+    en-ca: Cabbage
+    en-gb: cabbage
+    eo: Kapobrasiko
+    es: col blanca
+    et: Kapsas
+    eu: Aza
+    fa: کلمبرگ
+    fi: valkokaali
+    fj: Kaveti
+    fr: chou cabus
+    frr: Witjkual
+    ga: cabáiste
+    gd: Càl
+    gl: repolo
+    gn: Tajao
+    gv: Cabbash vane
+    hak: Kô-lì-chhoi
+    he: כרוב
+    hi: बंद गोभी
+    hr: kupus
+    ht: Chou
+    hu: fejes káposzta
+    hy: կաղամբ
+    hyw: Կաղամբ
+    ia: Caule
+    id: Kubis
+    ig: Kabeeji
+    io: Kaulo
+    is: Hvítkál
+    it: cavolo cappuccio
+    ja: キャベツ
+    jv: Kul
+    ka: კომბოსტო
+    kaa: Kapusta
+    km: ស្ពៃក្ដោប
+    kn: ಎಲೆಕೋಸು
+    ko: 양배추
+    ks: بَنٛدگوٗپی
+    ksh: Kappes
+    ku: Kelem
+    la: Brassica
+    lb: Wäisse Kabes
+    li: Sjepeng
+    lt: Gūžinis kopūstas
+    lv: galviņkāposti
+    mai: बन्दाकोबी
+    mdf: Капста
+    mi: nīko
+    mk: Зелка
+    ml: മൊട്ടക്കൂസ്
+    mo: Куреки
+    mos: Su
+    mr: कोबी
+    ms: Kubis Bulat
+    mt: kaboċċa
+    mul: Brassica oleracea var. capitata
+    my: ဂေါ်ဖီထုပ်
+    nah: Col
+    nan: Ko-lê-chhài
+    nb: kål
+    nds-nl: busekool
+    ne: बन्दागोभी
+    nl: wittekool
+    nn: hovudkål
+    nrm: Caboche
+    nv: Chʼil łigaii
+    oc: Caulet
+    or: ବନ୍ଧାକୋବି
+    pa: ਪੱਤਾ ਗੋਭੀ / ਬੰਦ ਗੋਭੀ
+    pam: Repolyu
+    pcd: Cabu
+    pl: kapusta warzywna głowiasta
+    pnb: بند گوبی
+    ps: كرم
+    pt: repolho
+    pt-br: Repolho
+    rn: Ishu
+    ro: varză comună
+    ru: капуста белокочанная
+    rw: Ishu
+    sa: पर्णशाकम्
+    sat: ᱵᱳᱱᱫᱷᱟᱠᱩᱵᱤ
+    scn: Càvulu
+    sco: cabbitch
+    sd: بند گوبي
+    sgs: Kuopūsts
+    sh: Kupus
+    si: ගෝවා
+    sk: kapusta obyčajná hlávková
+    sl: belo zelje
+    sm: Kapisi
+    so: Kaabaj
+    sq: Lakra
+    sr: купус
+    sr-ec: купус
+    sr-el: kupus
+    su: Engkol
+    sv: huvudkål
+    sw: Kabichi
+    szl: Kapusta gowjasto
+    ta: முட்டைக்கோசு
+    te: కాబేజీ
+    tg: Карам
+    th: กะหล่ำปลี
+    tl: Repolyo
+    tn: Khabeche
+    to: Kāpisi
+    tr: Lahana
+    tt: кәбестә
+    ug: كاپۇسكا
+    uk: капуста білоголова
+    ur: بند گوبھی
+    vec: Capuso
+    vep: Kerakapust
+    vi: Cải bắp
+    war: Ripolyu
+    wuu: 卷心菜
+    xmf: ლუყუ
+    yi: קרויט
+    yue: 椰菜
+    za: Byaekgienjsim
+    zh: 结球甘蓝
+    zh-cn: 结球甘蓝
+    zh-hans: 卷心菜
+    zh-tw: 高麗菜
+    zu: Iklabishi
 ---
-
 # [[White_Cabbage]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~White_cabbage,35051|WD~White_cabbage,35051]]   

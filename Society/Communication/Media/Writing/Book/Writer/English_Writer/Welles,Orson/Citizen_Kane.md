@@ -1,130 +1,258 @@
 ---
-aliases: 
+aliases:
+- Aranypolgár
+- Cetățeanul Kane
+- Cidadão Kane
+- Citizen Kane
+- Citizen Kane - O Mundo a seus Pés
+- Ciudadano Kane
+- Ciutadà Kane
+- Civitano Kane
+- Công dân Kane
+- Državljan Kane
+- En sensation
+- Filem Citizen Kane
+- Fuqaro Keyn
+- Građanin Kane
+- Llaqtayuq Kane
+- Obywatel Kane
+- Občan Kane
+- Pilietis Keinas
+- Pilsonis Keins
+- Quarto potere
+- Vətəndaş Keyn
+- Yurttaş Kane
+- Πολίτης Κέιν
+- Азамат Кейн
+- Грађанин Кејн
+- Граѓанинот Кејн
+- Гражданин Кейн
+- Гражданинът Кейн
+- Грамадзянін Кейн
+- Громадянин Кейн
+- Քաղաքացի Քեյնը
+- האזרח קיין
+- المواطن كين
+- سٹیزن کین
+- همشهری کین
+- وطنداش کانه
+- सिटिजन केन
+- সিটিজেন কেইন
+- சிட்டிசன் கேன்
+- సిటిజన్ కేన్
+- സിറ്റിസൻ കെയ്ൻ
+- ซิติเซน เคน
+- მოქალაქე კეინი
+- 公民凯恩
+- 大国民
+- 大國民
+- 市民ケーン
+- 시민 케인
 has_id_wikidata: Q24815
 cast_member:
-  - "[[_Standards/WikiData/WD~Joseph_Cotten,95148]]"
-  - "[[_Standards/WikiData/WD~Gregg_Toland,166000]]"
-  - "[[_Standards/WikiData/WD~Dorothy_Comingore,221874]]"
-  - "[[_Standards/WikiData/WD~Agnes_Moorehead,231221]]"
-  - "[[_Standards/WikiData/WD~Alan_Ladd,346280]]"
-  - "[[_Standards/WikiData/WD~Ruth_Warrick,456375]]"
-  - "[[_Standards/WikiData/WD~Everett_Sloane,600233]]"
-  - "[[_Standards/WikiData/WD~William_Alland,925872]]"
-  - "[[_Standards/WikiData/WD~Paul_Stewart,1385381]]"
-  - "[[_Standards/WikiData/WD~Gus_Schilling,1387120]]"
-  - "[[_Standards/WikiData/WD~Fortunio_Bonanova,1439141]]"
-  - "[[_Standards/WikiData/WD~George_Coulouris,1507169]]"
-  - "[[_Standards/WikiData/WD~Ray_Collins,1550341]]"
-  - "[[_Standards/WikiData/WD~Philip_Van_Zandt,2464819]]"
-  - "[[_Standards/WikiData/WD~Charles_Bennett,2958529]]"
-  - "[[_Standards/WikiData/WD~Erskine_Sanford,3057498]]"
-  - "[[_Standards/WikiData/WD~Harry_Shannon,3127914]]"
-  - "[[_Standards/WikiData/WD~Sonny_Bupp,3490635]]"
-  - "[[_Standards/WikiData/WD~Buddy_Swan,4984951]]"
-  - "[[_Standards/WikiData/WD~Walter_Sande,5421985]]"
-  - "[[_Standards/WikiData/WD~Georgia_Backus,5547351]]"
-  - "[[_Standards/WikiData/WD~Gino_Corrado,5563216]]"
-  - "[[_Standards/WikiData/WD~Roland_Winters,7360500]]"
-  - "[[_Standards/WikiData/WD~Orson_Welles,24829]]"
+- '[[_Standards/WikiData/WD~Joseph_Cotten,95148]]'
+- '[[_Standards/WikiData/WD~Gregg_Toland,166000]]'
+- '[[_Standards/WikiData/WD~Dorothy_Comingore,221874]]'
+- '[[_Standards/WikiData/WD~Agnes_Moorehead,231221]]'
+- '[[_Standards/WikiData/WD~Alan_Ladd,346280]]'
+- '[[_Standards/WikiData/WD~Ruth_Warrick,456375]]'
+- '[[_Standards/WikiData/WD~Everett_Sloane,600233]]'
+- '[[_Standards/WikiData/WD~William_Alland,925872]]'
+- '[[_Standards/WikiData/WD~Paul_Stewart,1385381]]'
+- '[[_Standards/WikiData/WD~Gus_Schilling,1387120]]'
+- '[[_Standards/WikiData/WD~Fortunio_Bonanova,1439141]]'
+- '[[_Standards/WikiData/WD~George_Coulouris,1507169]]'
+- '[[_Standards/WikiData/WD~Ray_Collins,1550341]]'
+- '[[_Standards/WikiData/WD~Philip_Van_Zandt,2464819]]'
+- '[[_Standards/WikiData/WD~Charles_Bennett,2958529]]'
+- '[[_Standards/WikiData/WD~Erskine_Sanford,3057498]]'
+- '[[_Standards/WikiData/WD~Harry_Shannon,3127914]]'
+- '[[_Standards/WikiData/WD~Sonny_Bupp,3490635]]'
+- '[[_Standards/WikiData/WD~Buddy_Swan,4984951]]'
+- '[[_Standards/WikiData/WD~Walter_Sande,5421985]]'
+- '[[_Standards/WikiData/WD~Georgia_Backus,5547351]]'
+- '[[_Standards/WikiData/WD~Gino_Corrado,5563216]]'
+- '[[_Standards/WikiData/WD~Roland_Winters,7360500]]'
+- '[[_Standards/WikiData/WD~Orson_Welles,24829]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Black_and_White,21995139]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Black_and_White,22253133]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Film_Editing,281939]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Sound,830079]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,_Black_and_White,21995139]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Art_Direction,_Black_and_White,22253133]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 genre:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~biographical_film,645928]]"
-  - "[[_Standards/WikiData/WD~mystery_film,1200678]]"
-  - "[[_Standards/WikiData/WD~fiction_film,12912091]]"
-  - "[[_Standards/WikiData/WD~flashback_film,21401869]]"
-director_of_photography: "[[_Standards/WikiData/WD~Gregg_Toland,166000]]"
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~biographical_film,645928]]'
+- '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+- '[[_Standards/WikiData/WD~fiction_film,12912091]]'
+- '[[_Standards/WikiData/WD~flashback_film,21401869]]'
+director_of_photography: '[[_Standards/WikiData/WD~Gregg_Toland,166000]]'
 distributed_by:
-  - "[[_Standards/WikiData/WD~RKO_Pictures,267282]]"
-  - "[[_Standards/WikiData/WD~Q907311,907311]]"
-  - "[[_Standards/WikiData/WD~Fandango_at_Home,5371838]]"
-  - "[[_Standards/WikiData/WD~HBO_Max,65359104]]"
-production_company: "[[_Standards/WikiData/WD~RKO_Pictures,267282]]"
-composer: "[[_Standards/WikiData/WD~Bernard_Herrmann,296804]]"
+- '[[_Standards/WikiData/WD~RKO_Pictures,267282]]'
+- '[[_Standards/WikiData/WD~Q907311,907311]]'
+- '[[_Standards/WikiData/WD~Fandango_at_Home,5371838]]'
+- '[[_Standards/WikiData/WD~HBO_Max,65359104]]'
+production_company: '[[_Standards/WikiData/WD~RKO_Pictures,267282]]'
+composer: '[[_Standards/WikiData/WD~Bernard_Herrmann,296804]]'
 screenwriter:
-  - "[[_Standards/WikiData/WD~John_Houseman,315734]]"
-  - "[[_Standards/WikiData/WD~Herman_J._Mankiewicz,956533]]"
-  - "[[_Standards/WikiData/WD~Orson_Welles,24829]]"
+- '[[_Standards/WikiData/WD~John_Houseman,315734]]'
+- '[[_Standards/WikiData/WD~Herman_J._Mankiewicz,956533]]'
+- '[[_Standards/WikiData/WD~Orson_Welles,24829]]'
 filming_location:
-  - "[[_Standards/WikiData/WD~Malibu,387047]]"
-  - "[[_Standards/WikiData/WD~San_Diego,16552]]"
-costume_designer: "[[_Standards/WikiData/WD~Edward_Stevenson,592131]]"
-distribution_format: "[[_Standards/WikiData/WD~video_on_demand,723685]]"
+- '[[_Standards/WikiData/WD~Malibu,387047]]'
+- '[[_Standards/WikiData/WD~San_Diego,16552]]'
+costume_designer: '[[_Standards/WikiData/WD~Edward_Stevenson,592131]]'
+distribution_format: '[[_Standards/WikiData/WD~video_on_demand,723685]]'
 part_of:
-  - "[[_Standards/WikiData/WD~National_Film_Registry,823422]]"
-  - "[[_Standards/WikiData/WD~Vatican's_list_of_films,2557998]]"
-color: "[[_Standards/WikiData/WD~black_and_white,838368]]"
-production_designer: "[[_Standards/WikiData/WD~Van_Nest_Polglase,1474823]]"
+- '[[_Standards/WikiData/WD~National_Film_Registry,823422]]'
+- "[[_Standards/WikiData/WD~Vatican's_list_of_films,2557998]]"
+color: '[[_Standards/WikiData/WD~black_and_white,838368]]'
+production_designer: '[[_Standards/WikiData/WD~Van_Nest_Polglase,1474823]]'
 award_received:
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]"
-  - "[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Top_Ten_Films,1966965]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 characters:
-  - "[[_Standards/WikiData/WD~Charles_Foster_Kane,2959094]]"
-  - "[[_Standards/WikiData/WD~Jedediah_Leland,103843100]]"
-  - "[[_Standards/WikiData/WD~Susan_Alexander_Kane,103843150]]"
-  - "[[_Standards/WikiData/WD~Jim_W._Gettys,103843229]]"
+- '[[_Standards/WikiData/WD~Charles_Foster_Kane,2959094]]'
+- '[[_Standards/WikiData/WD~Jedediah_Leland,103843100]]'
+- '[[_Standards/WikiData/WD~Susan_Alexander_Kane,103843150]]'
+- '[[_Standards/WikiData/WD~Jim_W._Gettys,103843229]]'
 assessment:
-  - "[[_Standards/WikiData/WD~Bechdel_test,4165246]]"
-  - "[[_Standards/WikiData/WD~reverse_Bechdel_Test,105776216]]"
-executive_producer: "[[_Standards/WikiData/WD~George_Schaefer,5544335]]"
+- '[[_Standards/WikiData/WD~Bechdel_test,4165246]]'
+- '[[_Standards/WikiData/WD~reverse_Bechdel_Test,105776216]]'
+executive_producer: '[[_Standards/WikiData/WD~George_Schaefer,5544335]]'
 producer:
-  - "[[_Standards/WikiData/WD~George_Schaefer,5544335]]"
-  - "[[_Standards/WikiData/WD~Orson_Welles,24829]]"
-MPA_film_rating: "[[_Standards/WikiData/WD~PG,18665334]]"
-FSK_film_rating: "[[_Standards/WikiData/WD~FSK_12,20644796]]"
-Kijkwijzer_rating: "[[_Standards/WikiData/WD~6,23649981]]"
-CNC_film_rating_France_: "[[_Standards/WikiData/WD~no_age_restriction,23817729]]"
-Filmiroda_rating: "[[_Standards/WikiData/WD~Category_II,23830577]]"
-CNC_film_rating_Romania_: "[[_Standards/WikiData/WD~A.G.,27915574]]"
-described_by_source: "[[_Standards/WikiData/WD~AWFJ_s_Top_100_Films_List,95415779]]"
+- '[[_Standards/WikiData/WD~George_Schaefer,5544335]]'
+- '[[_Standards/WikiData/WD~Orson_Welles,24829]]'
+MPA_film_rating: '[[_Standards/WikiData/WD~PG,18665334]]'
+FSK_film_rating: '[[_Standards/WikiData/WD~FSK_12,20644796]]'
+Kijkwijzer_rating: '[[_Standards/WikiData/WD~6,23649981]]'
+CNC_film_rating_France_: '[[_Standards/WikiData/WD~no_age_restriction,23817729]]'
+Filmiroda_rating: '[[_Standards/WikiData/WD~Category_II,23830577]]'
+CNC_film_rating_Romania_: '[[_Standards/WikiData/WD~A.G.,27915574]]'
+described_by_source: '[[_Standards/WikiData/WD~AWFJ_s_Top_100_Films_List,95415779]]'
 narrative_location:
-  - "[[_Standards/WikiData/WD~Florida,812]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-original_language_of_film_or_TV_show: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~film,11424]]"
-director: "[[_Standards/WikiData/WD~Orson_Welles,24829]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Florida,812]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
+original_language_of_film_or_TV_show: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~film,11424]]'
+director: '[[_Standards/WikiData/WD~Orson_Welles,24829]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 duration: 119
-film_editor: "[[_Standards/WikiData/WD~Robert_Wise,59821]]"
-exploitation_mark_number: "4521"
+film_editor: '[[_Standards/WikiData/WD~Robert_Wise,59821]]'
+exploitation_mark_number: 4521
 Wolfram_Language_entity_code: Entity["Movie", "CitizenKane::64hdy"]
 first_line: Rosebud...
-The_Criterion_Collection_spine_number: "1104"
+The_Criterion_Collection_spine_number: 1104
 capital_cost: 839727
 Commons_gallery: Citizen Kane
 Commons_category: Citizen Kane
 title: Citizen Kane
 review_score:
-  - 99%
-  - 8.2/10
-  - 100/100
-  - 9.7/10
+- 99%
+- 8.2/10
+- 100/100
+- 9.7/10
 publication_date:
-  - 1946-07-03T00:00:00Z
-  - 1941-05-01T00:00:00Z
-  - 1941-01-01T00:00:00Z
+- 1946-07-03T00:00:00Z
+- 1941-05-01T00:00:00Z
+- 1941-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Citizen%20Kane%20poster%2C%201941%20%28Style%20B%2C%20unrestored%29.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Citizen%20Kane%20Trailer%20%281940%29.webm
 described_at_URL:
-  - http://www.movist.com/movist3d/movie.asp?mid=122
-  - https://www.newyorker.com/magazine/1971/02/20/raising-kane-i
+- http://www.movist.com/movist3d/movie.asp?mid=122
+- https://www.newyorker.com/magazine/1971/02/20/raising-kane-i
 official_website: http://www2.warnerbros.com/citizenkane/
 ISAN: 0000-0001-2C52-0000-P-0000-0000-0
 Plex_media_key: 5d776824f59e580021897863
-P8189: "987007289007805171"
+P8189: 987007289007805171
 Amazon_Standard_Identification_Number: B005MLP8E0
+dv_has_:
+  name_:
+    ar: المواطن كين
+    arz: المواطن كين
+    ast: Citizen Kane
+    az: Vətəndaş Keyn
+    azb: وطنداش کانه
+    be: Грамадзянін Кейн
+    be-tarask: Грамадзянін Кейн
+    bg: Гражданинът Кейн
+    bn: সিটিজেন কেইন
+    bs: Građanin Kane
+    ca: Ciutadà Kane
+    ceb: Citizen Kane
+    cs: Občan Kane
+    cy: Citizen Kane
+    da: Citizen Kane
+    de: Citizen Kane
+    el: Πολίτης Κέιν
+    en: Citizen Kane
+    eo: Civitano Kane
+    es: Ciudadano Kane
+    eu: Citizen Kane
+    fa: همشهری کین
+    fi: Citizen Kane
+    fr: Citizen Kane
+    gl: Citizen Kane
+    he: האזרח קיין
+    hi: सिटिजन केन
+    hr: Građanin Kane
+    hu: Aranypolgár
+    hy: Քաղաքացի Քեյնը
+    id: Citizen Kane
+    it: Quarto potere
+    ja: 市民ケーン
+    jv: Citizen Kane
+    ka: მოქალაქე კეინი
+    kk: Азамат Кейн
+    ko: 시민 케인
+    la: Citizen Kane
+    lt: Pilietis Keinas
+    lv: Pilsonis Keins
+    mk: Граѓанинот Кејн
+    ml: സിറ്റിസൻ കെയ്ൻ
+    ms: Filem Citizen Kane
+    nb: Citizen Kane
+    nl: Citizen Kane
+    nn: Citizen Kane
+    oc: Citizen Kane
+    pl: Obywatel Kane
+    pt: Citizen Kane - O Mundo a seus Pés
+    pt-br: Cidadão Kane
+    qu: Llaqtayuq Kane
+    ro: Cetățeanul Kane
+    ru: Гражданин Кейн
+    sco: Citizen Kane
+    sh: Citizen Kane
+    sk: Občan Kane
+    sl: Državljan Kane
+    sq: Citizen Kane
+    sr: Грађанин Кејн
+    sv: En sensation
+    ta: சிட்டிசன் கேன்
+    te: సిటిజన్ కేన్
+    th: ซิติเซน เคน
+    tr: Yurttaş Kane
+    uk: Громадянин Кейн
+    ur: سٹیزن کین
+    uz: Fuqaro Keyn
+    vi: Công dân Kane
+    war: Citizen Kane
+    wuu: 公民凯恩
+    yue: 大國民
+    zh: 大國民
+    zh-cn: 公民凯恩
+    zh-hans: 公民凯恩
+    zh-hant: 大國民
+    zh-hk: 大國民
+    zh-my: 大国民
+    zh-sg: 大国民
+    zh-tw: 大國民
 ---
-
 # [[Citizen_Kane]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Citizen_Kane,24815|WD~Citizen_Kane,24815]] 

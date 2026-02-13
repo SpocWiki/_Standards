@@ -1,18 +1,106 @@
 ---
 aliases:
-  - Gewächshaus
-  - glasshouse
-  - hothouse
-  - Greenhouse
+- Bahay-patubuan
+- Balay-patubuan
+- Berotegi
+- Caldarium
+- Capano
+- Drievhuus
+- drivhus
+- estufa
+- forcejo
+- Gewächshaus
+- Gidan Gishiri
+- glasshouse
+- Greenhouse
+- Gróðurhús
+- hivernacle
+- hothouse
+- invernadero
+- Invernadoiro
+- Isilugu
+- Issiqxona
+- ivernaderu
+- Jılıjaý
+- kas
+- kasvihuone
+- kasvuhoone
+- nhà kính
+- Omah kaca
+- Parnik
+- rastlinjak
+- rostlinarnja
+- rumah hijau
+- rumah kaca
+- sera
+- Sere
+- serra
+- serre
+- Seră
+- siltumnīca
+- sjaddadimviesso
+- Skleník
+- staklena bašta
+- staklenik
+- szklarnia
+- teach gloine
+- Teplico
+- tŷ gwydr
+- veksthus
+- växthus
+- Zär
+- üvegház
+- šaddadanvisti
+- šaddoviste
+- šiltnamis
+- Šiltnomis
+- šâddeempõrtt
+- Θερμοκήπιο
+- Гармхона
+- Жылыжай
+- оранжерея
+- Парник
+- стаклена башта
+- Стаклена градина
+- теплица
+- хъæрмуат
+- цяпліца
+- Ջերմատներ
+- Ջերմոց
+- חממה
+- بيت لغرس
+- جىلىجاي
+- دفيئة زراعية
+- سەوزەخانە
+- پود گھر
+- گرين هائوس
+- گرین ہاؤس
+- گلخانه
+- گول خانا
+- ग्रीनहाउस
+- हरित गृह
+- हरितगृह
+- हरितगृहम्
+- গ্রীনহাউস
+- ਗਰੀਨ ਹਾਊਸ ਤਕਨੀਕ ਨਾਲ ਬੇਮੌਸਮੀਆ ਸਬਜ਼ੀਆਂ ਦੀ ਪੈਦਾਵਾਰ
+- ગ્રીન હાઉસ
+- பசுமைக்குடில்
+- గ్రీన్హౌస్(హరితగృహం)
+- ಹಸಿರುಮನೆ
+- ഹരിതഗൃഹം
+- හරිතාගාර
+- 温室
+- 溫室
+- 온실
 has_id_wikidata: Q165044
 subclass_of:
-  - '[[_Standards/WikiData/WD~vivarium,315630]]'
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~agricultural_structure,10480682]]'
-  - '[[_Standards/WikiData/WD~garden_feature,112049379]]'
+- '[[_Standards/WikiData/WD~vivarium,315630]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~agricultural_structure,10480682]]'
+- '[[_Standards/WikiData/WD~garden_feature,112049379]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 used_by: '[[_Standards/WikiData/WD~greenhouse_agriculture,3479981]]'
 part_of: '[[_Standards/WikiData/WD~building_integrated_agriculture,4986435]]'
 Nomenclature_for_Museum_Cataloging: 556
@@ -21,18 +109,130 @@ subreddit: Greenhouses
 Commons_category: Greenhouses
 IMDb_keyword: greenhouse
 equivalent_class:
-  - http://cat.aii.caas.cn/concept/33805
-  - http://cat.aii.caas.cn/concept/47189
-  - http://id.cabi.org/cabt/53395
-  - http://wordnet-rdf.princeton.edu/wn30/03457902-n
+- http://cat.aii.caas.cn/concept/33805
+- http://cat.aii.caas.cn/concept/47189
+- http://id.cabi.org/cabt/53395
+- http://wordnet-rdf.princeton.edu/wn30/03457902-n
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenhouse%20for%20strawberry.jpg
 U_S_National_Archives_Identifier: 10675845
 Dewey_Decimal_Classification: 631.583
 UNSPSC_Code: 95141502
 Commons_gallery: Greenhouse
 OpenStreetMap_tag_or_key: Tag:building=greenhouse
+dv_has_:
+  name_:
+    ar: دفيئة زراعية
+    ary: بيت لغرس
+    ast: ivernaderu
+    az: Parnik
+    azb: گول خانا
+    be: цяпліца
+    be-tarask: цяпліца
+    bg: Парник
+    bn: গ্রীনহাউস
+    ca: hivernacle
+    ckb: سەوزەخانە
+    cs: skleník
+    cy: tŷ gwydr
+    da: drivhus
+    de: Gewächshaus
+    el: Θερμοκήπιο
+    en: greenhouse
+    eo: forcejo
+    es: invernadero
+    et: kasvuhoone
+    eu: Berotegi
+    fa: گلخانه
+    fi: kasvihuone
+    fr: serre
+    ga: teach gloine
+    gl: Invernadoiro
+    gu: ગ્રીન હાઉસ
+    ha: Gidan Gishiri
+    he: חממה
+    hi: ग्रीनहाउस
+    hr: staklenik
+    hsb: rostlinarnja
+    hu: üvegház
+    hy: Ջերմատներ
+    hyw: Ջերմոց
+    id: rumah kaca
+    io: Teplico
+    is: Gróðurhús
+    it: serra
+    ja: 温室
+    jv: Omah kaca
+    kk: Жылыжай
+    kk-arab: جىلىجاي
+    kk-cn: جىلىجاي
+    kk-cyrl: Жылыжай
+    kk-kz: Жылыжай
+    kk-latn: Jılıjaý
+    kk-tr: Jılıjaý
+    kn: ಹಸಿರುಮನೆ
+    ko: 온실
+    la: Caldarium
+    lb: Zär
+    lt: šiltnamis
+    lv: siltumnīca
+    mai: हरित गृह
+    mk: Стаклена градина
+    ml: ഹരിതഗൃഹം
+    mr: हरितगृह
+    ms: rumah hijau
+    nb: drivhus
+    nds: Drievhuus
+    ne: हरित गृह
+    nl: kas
+    nn: veksthus
+    os: хъæрмуат
+    pa: ਗਰੀਨ ਹਾਊਸ ਤਕਨੀਕ ਨਾਲ ਬੇਮੌਸਮੀਆ ਸਬਜ਼ੀਆਂ ਦੀ ਪੈਦਾਵਾਰ
+    pl: szklarnia
+    pnb: گرین ہاؤس
+    pt: estufa
+    ro: Seră
+    ru: теплица
+    sa: हरितगृहम्
+    scn: Serra
+    sd: گرين هائوس
+    se: šaddadanvisti
+    sgs: Šiltnomis
+    sh: staklenik
+    si: හරිතාගාර
+    sk: Skleník
+    sl: rastlinjak
+    smj: sjaddadimviesso
+    smn: šaddoviste
+    sms: šâddeempõrtt
+    sq: Serra
+    sr: стаклена башта
+    sr-ec: стаклена башта
+    sr-el: staklena bašta
+    sv: växthus
+    ta: பசுமைக்குடில்
+    te: గ్రీన్హౌస్(హరితగృహం)
+    tg: Гармхона
+    tl: Bahay-patubuan
+    tr: sera
+    tt-latn: теплица
+    uk: оранжерея
+    ur: پود گھر
+    uz: Issiqxona
+    vec: Capano
+    vi: nhà kính
+    wa: Sere
+    war: Balay-patubuan
+    wuu: 温室
+    yue: 溫室
+    zh: 溫室
+    zh-cn: 温室
+    zh-hans: 温室
+    zh-hant: 溫室
+    zh-hk: 溫室
+    zh-sg: 温室
+    zh-tw: 溫室
+    zu: Isilugu
 ---
-
 # [[Greenhouse]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Greenhouse,165044|WD~Greenhouse,165044]] 

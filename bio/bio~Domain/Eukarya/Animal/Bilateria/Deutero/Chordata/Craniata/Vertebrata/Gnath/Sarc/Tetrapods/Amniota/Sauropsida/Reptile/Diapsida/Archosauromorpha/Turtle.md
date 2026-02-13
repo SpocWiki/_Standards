@@ -1,16 +1,152 @@
 ---
 aliases:
-  - Turtle
-  - Schildkröte
-  - Testudines
-  - tortoise
-  - terrapin
-  - سُلحفاء
-  - سُلحفاة
-  - سُلحفى
-  - želve
-  - skilpadder
-  - فكرون
+- Afifiya
+- akesi pi monsi kiwen
+- Ba-ó
+- Bao
+- Baot
+- bilanga
+- Breshka
+- Broascâ
+- bruņurupuči
+- Bulus
+- Bộ Rùa
+- Celóne
+- Chʼééh digháhii dóó Tsisteeł
+- crwban
+- Deckelsmouken
+- Dortoka
+- Duzgvi
+- Galàna
+- hùldà
+- Ifker
+- Kaplumbağa
+- katussambad
+- Kesa
+- kilpikonnat
+- kilpkonnalised
+- Kobe
+- Kornjača
+- Kornjače
+- korytnačkotvaré
+- Ku
+- Kura-kura
+- Kuya
+- Kuî-é
+- Kûsî
+- Labi-labi
+- Logozo
+- Ma'ëno
+- mikinakw
+- Muir-seilche
+- Nkóbá
+- Nopawy
+- Padakunn
+- Pag-ong
+- Pagong
+- Qaplı baqa
+- Qarapara
+- Qubo
+- Schildkröte
+- Schildkröten
+- schildpadden
+- Sjèldkróddele
+- Skildpadde
+- skilpad
+- skilpadder
+- Skiltpoden
+- Skjaldbaka
+- Skjaldbøkur
+- skjelpadder
+- sköldpaddor
+- Sokatra
+- Tarekaja
+- tartaruga
+- Tartuca
+- Tartuga
+- Tasbaqa
+- teknősök
+- terrapin
+- Testudinata
+- Testudines
+- Testuduloj
+- testüze
+- tortoise
+- tortue
+- Tortuga
+- Tortugo
+- tortugues
+- Toshbaqalar
+- Tostoine
+- turtar
+- Turtle
+- Tòti
+- Tısbağalar
+- vėžliai
+- Āyōtl
+- Ŭ-gŭi
+- żółwie
+- želve
+- želvy
+- Χελώνια
+- Желка
+- корњача
+- костенурки
+- Сангпушт
+- таасбаҕалар
+- Тасбақалар
+- Таш бакалар
+- Тимĕр шапасем
+- Уæртджын хæфс
+- чарапахі
+- Черепаха
+- черепахи
+- Чьрѣпахи
+- կրիաներ
+- טשערעפאכע
+- צבים
+- أولاکۊ
+- تاشپاقا
+- تیسباغا
+- زحلفه
+- سلحفاة
+- سُلحفاء
+- سُلحفاة
+- سُلحفى
+- فكرون
+- لاکپشت
+- ڕەقە
+- کرٕٛم
+- کوز
+- کيشپ
+- کچھوا
+- کھچوپڑا
+- ڪڇون
+- कच्छप
+- कछुआ
+- कासव
+- কচ্ছপ
+- કાચબો
+- କଇଁଛ
+- ஆமை
+- ಆಮೆ
+- ആമ
+- ඉබ්බෝ සහ කැස්බෑවෝ
+- เต่า
+- རུས་སྤལ་
+- လိပ်
+- კუები
+- ኤሊ
+- ᎤᎵᎾᏫ
+- ᱦᱚᱨᱚ
+- カメ
+- 龜
+- 龜鱉目
+- 龟
+- 龟鳖目
+- ꯊꯦꯡꯒꯨ
+- 거북
+- "\U00010332\U00010330\U00010332\U00010332\U00010330\U00010343\U0001033D\U00010330\U00010332\U00010339\U0001033B\U00010343"
 has_id_wikidata: Q223044
 title: Testudines
 Commons_category: Testudines
@@ -18,30 +154,30 @@ taxon_name: Testudines
 Gujarati_Vishwakosh_entry: કાચબો
 Baidu_Tieba_name: 乌龟
 taxon_common_name:
-  - سُلحفاء
-  - سُلحفاة
-  - سُلحفى
-  - želve
-  - skilpadder
-  - فكرون
+- سُلحفاء
+- سُلحفاة
+- سُلحفى
+- želve
+- skilpadder
+- فكرون
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Archosauromorpha,134676]]'
-  - '[[_Standards/WikiData/WD~Perichelydia,64043742]]'
+- '[[_Standards/WikiData/WD~Archosauromorpha,134676]]'
+- '[[_Standards/WikiData/WD~Perichelydia,64043742]]'
 has_list: '[[_Standards/WikiData/WD~list_of_Testudines_families,194582]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~tortoise_shell,2141546]]'
-  - '[[_Standards/WikiData/WD~turtle_oil,104640391]]'
+- '[[_Standards/WikiData/WD~tortoise_shell,2141546]]'
+- '[[_Standards/WikiData/WD~turtle_oil,104640391]]'
 different_from: '[[_Standards/WikiData/WD~Testudinata,16114972]]'
 studied_by: '[[_Standards/WikiData/WD~cheloniology,24002214]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -59,8 +195,179 @@ MeSH_tree_code: B01.050.150.900.833.848
 UMLS_CUI: C3164084
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHEREPAHI.html
 NBN_System_Key: NHMSYS0021053576
+dv_has_:
+  name_:
+    af: skilpad
+    am: ኤሊ
+    an: Testudines
+    anp: कछुआ
+    ar: سلحفاة
+    arq: فكرون
+    ary: فكرون
+    arz: زحلفه
+    ast: Testudines
+    atj: mikinakw
+    az: Tısbağalar
+    azb: تیسباغا
+    ban: Testudines
+    be: чарапахі
+    be-tarask: чарапахі
+    bg: костенурки
+    bho: कछुआ
+    bn: কচ্ছপ
+    bo: རུས་སྤལ་
+    br: Baot
+    bs: Kornjače
+    ca: tortugues
+    cdo: Ŭ-gŭi
+    ceb: Bao
+    chr: ᎤᎵᎾᏫ
+    chy: Ma'ëno
+    ckb: ڕەقە
+    crh: Qaplı baqa
+    cs: želvy
+    cu: Чьрѣпахи
+    cv: Тимĕр шапасем
+    cy: crwban
+    da: Skildpadde
+    de: Schildkröten
+    diq: Kesa
+    el: Χελώνια
+    eml: Galàna
+    en: Testudines
+    en-gb: turtle
+    eo: Testuduloj
+    es: Testudines
+    et: kilpkonnalised
+    eu: Dortoka
+    ext: Testudines
+    fa: لاکپشت
+    fi: kilpikonnat
+    fo: Skjaldbøkur
+    fon: Logozo
+    fr: tortue
+    frr: Skiltpoden
+    ga: turtar
+    gd: Muir-seilche
+    gl: tartaruga
+    glk: أولاکۊ
+    gn: Tarekaja
+    got: "\U00010332\U00010330\U00010332\U00010332\U00010330\U00010343\U0001033D\U00010330\U00010332\U00010339\U0001033B\U00010343"
+    gsw: Schildkröten
+    gu: કાચબો
+    ha: Afifiya
+    hak: Kuî-é
+    he: צבים
+    hi: कछुआ
+    hr: Kornjače
+    hsb: Nopawy
+    ht: Tòti
+    hu: teknősök
+    hy: կրիաներ
+    hyw: Կրիաներ
+    ia: Testudines
+    id: Kura-kura
+    ie: Tortuga
+    ilo: Pag-ong
+    io: Tortugo
+    is: Skjaldbaka
+    it: tartaruga
+    ja: カメ
+    jv: Bulus
+    ka: კუები
+    kaa: Tasbaqa
+    kab: Ifker
+    kge: Labi-labi
+    kk: Тасбақалар
+    kn: ಆಮೆ
+    ko: 거북
+    ks: کرٕٛم
+    ku: Kûsî
+    ky: Таш бакалар
+    la: Testudinata
+    lb: Deckelsmouken
+    lfn: Tortuga
+    li: Sjèldkróddele
+    lij: testüze
+    ln: Nkóbá
+    lt: vėžliai
+    lv: bruņurupuči
+    lzh: 龜
+    mcn: hùldà
+    mg: Sokatra
+    mk: Желка
+    ml: ആമ
+    mni: ꯊꯦꯡꯒꯨ
+    mr: कासव
+    mrj: Черепаха
+    ms: Testudines
+    mul: Testudines
+    my: လိပ်
+    mzn: کوز
+    nah: Āyōtl
+    nan: Ku
+    nb: skilpadder
+    new: कच्छप
+    nl: schildpadden
+    nn: skjelpadder
+    nov: Tortuga
+    nv: Chʼééh digháhii dóó Tsisteeł
+    oc: Tartuga
+    or: କଇଁଛ
+    os: Уæртджын хæфс
+    pl: żółwie
+    pnb: کھچوپڑا
+    ps: کيشپ
+    pt: Tartaruga
+    pt-br: Testudinata
+    qu: Qarapara
+    ro: Testudines
+    roa-tara: Celóne
+    ru: черепахи
+    rup: Broascâ
+    sah: таасбаҕалар
+    sat: ᱦᱚᱨᱚ
+    sc: Tostoine
+    scn: Tartuca
+    sco: Testudines
+    sd: ڪڇون
+    sh: Kornjača
+    si: ඉබ්බෝ සහ කැස්බෑවෝ
+    sk: korytnačkotvaré
+    sl: želve
+    so: Qubo
+    sq: Breshka
+    sr: корњача
+    sr-ec: корњача
+    su: Kuya
+    sv: sköldpaddor
+    sw: Kobe
+    szy: bilanga
+    ta: ஆமை
+    tg: Сангпушт
+    th: เต่า
+    tl: Pagong
+    tok: akesi pi monsi kiwen
+    tr: Kaplumbağa
+    ug: تاشپاقا
+    uk: черепахи
+    ur: کچھوا
+    uz: Toshbaqalar
+    vep: katussambad
+    vi: Bộ Rùa
+    vro: Padakunn
+    war: Ba-ó
+    wuu: 龟
+    yi: טשערעפאכע
+    yue: 龜
+    za: Duzgvi
+    zh: 龟鳖目
+    zh-cn: 龟鳖目
+    zh-hans: 龟鳖目
+    zh-hant: 龜鱉目
+    zh-hk: 龜鱉目
+    zh-tw: 龜鱉目
 ---
-
 # [[Turtle]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Turtle,223044|WD~Turtle,223044]] 

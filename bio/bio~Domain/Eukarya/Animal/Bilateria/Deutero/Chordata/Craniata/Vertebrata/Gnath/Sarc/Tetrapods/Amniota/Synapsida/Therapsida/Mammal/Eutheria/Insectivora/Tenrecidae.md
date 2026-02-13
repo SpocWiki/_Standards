@@ -1,9 +1,110 @@
 ---
 aliases:
-  - Tenrecidae
+- bodlínovití
+- Burstasvín
+- Børstepinnsvin
+- ratiavatoleem
+- Tandaraka
+- Tanderak
+- Tanrekar
+- tanrekfélék
+- tanrekit
+- tenrec
+- Tenrecidae
+- tenrecs
+- Tenrek
+- Tenrekgiller
+- Tenrekiniai
+- Tenreklər
+- Tenrekowate
+- Tenreks
+- Tenreku dzimta
+- Tenrécidos
+- Yáázhłání dóó bikʼéí
+- Тенрекові
+- тенрекови
+- Тенрековые
+- тенреци
+- Тэнрэкавыя
+- տենրեկներ
+- טנרקיים
+- تیغپشت
+- مدال
+- ಟೆನ್ರೆಕ್
+- ტანრეკისებრნი
+- テンレック科
+- 馬島猬科
+- 马岛猬科
+- 텐렉과
 title: Tenrecidae
+has_id_wikidata: Q23340
+dv_has_:
+  name_:
+    ar: مدال
+    arz: مدال
+    ast: Tenrecidae
+    avk: ratiavatoleem
+    az: Tenreklər
+    be: Тэнрэкавыя
+    be-tarask: Тэнрэкавыя
+    bg: тенрекови
+    br: Tenrek
+    ca: tenrecs
+    ceb: Tenrecidae
+    cs: bodlínovití
+    de: Tenreks
+    de-ch: Tenreks
+    en: tenrecs
+    en-ca: Tenrecidae
+    en-gb: Tenrecidae
+    en-us: tenrecs
+    es: Tenrecidae
+    eu: Tenrecidae
+    fa: تیغپشت
+    fi: tanrekit
+    fr: Tenrecidae
+    ga: Tenrecidae
+    gl: Tenrécidos
+    he: טנרקיים
+    hu: tanrekfélék
+    hy: տենրեկներ
+    ia: Tenrecidae
+    id: Tanderak
+    is: Burstasvín
+    it: Tenrecidae
+    ja: テンレック科
+    ka: ტანრეკისებრნი
+    kn: ಟೆನ್ರೆಕ್
+    ko: 텐렉과
+    la: Tenrecidae
+    li: Tenreks
+    lt: Tenrekiniai
+    lv: Tenreku dzimta
+    mk: тенреци
+    ms: Tenrecidae
+    mul: Tenrecidae
+    nb: Børstepinnsvin
+    nl: tenreks
+    nv: Yáázhłání dóó bikʼéí
+    oc: Tenrecidae
+    pl: Tenrekowate
+    pt: Tenrecidae
+    pt-br: Tenrecidae
+    ro: Tenrecidae
+    ru: Тенрековые
+    sco: tenrec
+    sq: Tenrecidae
+    sv: Tanrekar
+    sw: Tandaraka
+    tr: Tenrekgiller
+    uk: Тенрекові
+    vi: Tenrecidae
+    war: Tenrecidae
+    zh: 马岛猬科
+    zh-cn: 马岛猬科
+    zh-hans: 马岛猬科
+    zh-tw: 馬島猬科
 ---
-
 # [[Tenrecidae]]
 
 ## tenrecs, Madagascar \"hedgehogs\" 

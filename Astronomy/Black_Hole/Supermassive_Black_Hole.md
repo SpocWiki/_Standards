@@ -1,38 +1,171 @@
 ---
 aliases:
+- agujero negro supermasivo
+- Bolongan ireng gedhe pol
+- buco nero supermassiccio
+- buraco negro supermaciço
+- buraco negro supermassivo
+- forat negre supermassiu
+- Furacu negru supermasivu
+- Gaură neagră supermasivă
+- Liang hideung badag kacida
+- lobang item gedé gambrèng
+- Lohong hitam supermasif
+- lubang hitam supermasif
+- lỗ đen siêu khối lượng
+- obří černá díra
+- pezega nigra truo
+- Supermasivna crna rupa
+- supermasivna črna luknja
+- supermassereiches Schwarzes Loch
+- supermassief zwart gat
+- supermassiewe swartkolk
+- supermassiivinen musta aukko
+- supermassiv sort hul
+- supermassiva svarta hål
+- Supermassive black hole
+- supermassivt sort hull
+- supermassivt svart hòl
+- Supermasyvi juodoji skylė
+- supermasywna czarna dziura
+- Supermasívna čierna diera
+- szupermasszív fekete lyuk
+- Süper kütleli kara delik
+- Trauc negre supermassís
+- trou noir supermassif
+- Zulo beltz supermasibo
+- Ülimassiivne must auk
+- υπερμεγέθης μαύρη τρύπα
+- Звышмасіўная чорная дзірка
+- надмасивна чорна діра
+- сверхмассивная чёрная дыра
+- супермасивна црна дупка
+- супермасивна црна рупа
+- Супермасивна черна дупка
+- Գերզանգվածային սև խոռոչ
+- חור שחור על-מסיבי
+- ثقب أسود فائق الكتلة
+- سیاهچاله کلانجرم
+- محفر كحل مݣضر
+- विशालकाय ब्लैक होल
+- অতিভারী কৃষ্ণগহ্বর
+- ਮਹਾਂਵਿਸ਼ਾਲ ਬਲੈਕ ਹੋਲ
+- மீப்பெரும் நிறை கருந்துளை
+- අති විශාල කළු කුහරය
+- หลุมดำมวลยวดยิ่ง
+- სუპერმასიური უჩა რხვილი
+- სუპერმასიური შავი ხვრელი
+- 超大質量ブラックホール
+- 超大質量黑洞
+- 超大质量黑洞
+- 초거대질량 블랙홀
+- 초대형검은구멍
 has_id_wikidata: Q40392
 subclass_of:
-  - "[[_Standards/WikiData/WD~central_massive_object,16256303]]"
-  - "[[_Standards/WikiData/WD~black_hole,589]]"
-part_of: "[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]"
+- '[[_Standards/WikiData/WD~central_massive_object,16256303]]'
+- '[[_Standards/WikiData/WD~black_hole,589]]'
+part_of: '[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]'
 short_name:
-  - SMBH
-  - TNSM
+- SMBH
+- TNSM
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%E2%80%99s%20impression%20of%20a%20supermassive%20black%20hole%20at%20the%20centre%20of%20a%20galaxy.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Supermassive%20black%20hole-article.ogg
 Commons_category: Supermassive black holes
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]"
-    - "[[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]]"
-    - "[[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]]"
-    - "[[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]]"
-    - "[[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]]"
-    - "[[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]]"
-    - "[[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]]"
-    - "[[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]]"
+  - '[[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]'
+  - '[[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]]'
+  - '[[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]]'
+  - '[[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]]'
+  - '[[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]]'
+  - '[[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]]'
+  - '[[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]]'
+  - '[[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]"
-  - "[[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]]"
-  - "[[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]]"
-  - "[[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]]"
-  - "[[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]]"
-  - "[[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]]"
-  - "[[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]]"
-  - "[[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]]"
+- '[[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]'
+- '[[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]]'
+- '[[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]]'
+- '[[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]]'
+- '[[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]]'
+- '[[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]]'
+- '[[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]]'
+- '[[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]]'
+dv_has_:
+  name_:
+    af: supermassiewe swartkolk
+    ar: ثقب أسود فائق الكتلة
+    ary: محفر كحل مݣضر
+    ast: Furacu negru supermasivu
+    be-tarask: Звышмасіўная чорная дзірка
+    bew: lobang item gedé gambrèng
+    bg: Супермасивна черна дупка
+    bn: অতিভারী কৃষ্ণগহ্বর
+    ca: forat negre supermassiu
+    cs: obří černá díra
+    da: supermassiv sort hul
+    de: supermassereiches Schwarzes Loch
+    el: υπερμεγέθης μαύρη τρύπα
+    en: supermassive black hole
+    en-ca: Supermassive black hole
+    en-gb: supermassive black hole
+    en-us: supermassive black hole
+    eo: pezega nigra truo
+    es: agujero negro supermasivo
+    et: Ülimassiivne must auk
+    eu: Zulo beltz supermasibo
+    fa: سیاهچاله کلانجرم
+    fi: supermassiivinen musta aukko
+    fr: trou noir supermassif
+    he: חור שחור על-מסיבי
+    hi: विशालकाय ब्लैक होल
+    hr: Supermasivna crna rupa
+    hu: szupermasszív fekete lyuk
+    hy: Գերզանգվածային սև խոռոչ
+    id: lubang hitam supermasif
+    it: buco nero supermassiccio
+    ja: 超大質量ブラックホール
+    jv: Bolongan ireng gedhe pol
+    ka: სუპერმასიური შავი ხვრელი
+    ko: 초거대질량 블랙홀
+    ko-kp: 초대형검은구멍
+    lt: Supermasyvi juodoji skylė
+    mk: супермасивна црна дупка
+    ms: Lohong hitam supermasif
+    nb: supermassivt sort hull
+    nl: supermassief zwart gat
+    nn: supermassivt svart hòl
+    oc: Trauc negre supermassís
+    pa: ਮਹਾਂਵਿਸ਼ਾਲ ਬਲੈਕ ਹੋਲ
+    pl: supermasywna czarna dziura
+    pt: buraco negro supermassivo
+    pt-br: buraco negro supermaciço
+    ro: Gaură neagră supermasivă
+    ru: сверхмассивная чёрная дыра
+    sh: Supermasivna crna rupa
+    si: අති විශාල කළු කුහරය
+    sk: Supermasívna čierna diera
+    sl: supermasivna črna luknja
+    sr: супермасивна црна рупа
+    sr-ec: супермасивна црна рупа
+    sr-el: supermasivna crna rupa
+    su: Liang hideung badag kacida
+    sv: supermassiva svarta hål
+    ta: மீப்பெரும் நிறை கருந்துளை
+    th: หลุมดำมวลยวดยิ่ง
+    tr: Süper kütleli kara delik
+    uk: надмасивна чорна діра
+    vi: lỗ đen siêu khối lượng
+    wuu: 超大质量黑洞
+    xmf: სუპერმასიური უჩა რხვილი
+    yue: 超大質量黑洞
+    zh: 超大質量黑洞
+    zh-cn: 超大质量黑洞
+    zh-hant: 超大質量黑洞
+    zh-hk: 超大質量黑洞
+    zh-mo: 超大質量黑洞
+    zh-tw: 超大質量黑洞
 ---
-
 # [[Supermassive_Black_Hole]] 
 
 #is_/same_as :: [[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]  

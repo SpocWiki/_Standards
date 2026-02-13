@@ -1,9 +1,81 @@
 ---
 aliases:
-  - Cyclopoida
+- Buchanky
+- Ciclópodos
+- Cyclopoida
+- Sõudikulised
+- Táyiʼ naatʼiʼí bikeeʼ ditsʼozí
+- Κυκλοποΐδα
+- Малгундар
+- Циклоп
+- циклопы
+- Цыклопы
+- ציקלופיים
+- سكلوبيات
+- キクロプス目
+- 剑水蚤目
+- 劍水蚤目
+- 검물벼룩목
 title: Cyclopoida
+has_id_wikidata: Q899782
+dv_has_:
+  name_:
+    an: Cyclopoida
+    ar: سكلوبيات
+    arz: سكلوبيات
+    ast: Cyclopoida
+    be: Цыклопы
+    bg: Cyclopoida
+    ca: Cyclopoida
+    ceb: Cyclopoida
+    cs: Buchanky
+    de: Cyclopoida
+    el: Κυκλοποΐδα
+    en: Cyclopoida
+    eo: Cyclopoida
+    es: Cyclopoida
+    et: Sõudikulised
+    eu: Cyclopoida
+    ext: Cyclopoida
+    fi: Cyclopoida
+    fr: Cyclopoida
+    frr: Cyclopoida
+    ga: Cyclopoida
+    gl: Ciclópodos
+    he: ציקלופיים
+    hu: Cyclopoida
+    ia: Cyclopoida
+    id: Cyclopoida
+    ie: Cyclopoida
+    io: Cyclopoida
+    it: Cyclopoida
+    ja: キクロプス目
+    kk: Циклоп
+    ko: 검물벼룩목
+    ky: Малгундар
+    la: Cyclopoida
+    mul: Cyclopoida
+    nl: Cyclopoida
+    nv: Táyiʼ naatʼiʼí bikeeʼ ditsʼozí
+    oc: Cyclopoida
+    pl: Cyclopoida
+    pt: Cyclopoida
+    pt-br: Cyclopoida
+    ro: Cyclopoida
+    ru: циклопы
+    sq: Cyclopoida
+    sv: Cyclopoida
+    tr: Cyclopoida
+    uk: Cyclopoida
+    vi: Cyclopoida
+    vo: Cyclopoida
+    war: Cyclopoida
+    zh: 劍水蚤目
+    zh-cn: 剑水蚤目
+    zh-hans: 剑水蚤目
+    zh-hant: 劍水蚤目
+    zh-tw: 剑水蚤目
 ---
-
 # [[Cyclopoida]] 
 ![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
 

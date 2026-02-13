@@ -1,21 +1,110 @@
 ---
 aliases:
+- Dasiúrid
+- Dasiúridos
+- Dasyuridae
+- echte roofbuideldieren
+- erszényesnyestfélék
+- Keseli sansargiller
+- kunovcovití
+- lucha marsúipiacha
+- Niełazowate
+- plēsējsomaiņu dzimta
+- Plėšrieji sterbliniai
+- Pokamýs og pokamerðir
+- pussipedot
+- Raubbeutler
+- Rovpungdjur
+- Rovpungdyr
+- xusoleem
+- zverski vrečarji
+- Сумчатые куницы
+- торбести мишки
+- Хижі сумчасті
+- נמיות כיס
+- دصيوريات
+- ستبردمان
+- ഡാസ്യുറിഡേ
+- フクロネコ科
+- 袋鼬科
+- 주머니고양이과
 has_id_wikidata: Q23133
-parent_taxon: "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuromorphia,213333]]"
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuromorphia,213333]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "552315"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 552315
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SpottedQuoll%202005%20SeanMcClean.jpg
 EPPO_Code: 1DSURF
 Commons_gallery: Dasyuridae
 Commons_category: Dasyuridae
 taxon_name: Dasyuridae
+dv_has_:
+  name_:
+    an: Dasyuridae
+    ar: دصيوريات
+    arz: دصيوريات
+    ast: Dasyuridae
+    avk: xusoleem
+    bg: торбести мишки
+    br: Dasyuridae
+    ca: Dasiúrid
+    ceb: Dasyuridae
+    cs: kunovcovití
+    de: Raubbeutler
+    en: Dasyuridae
+    en-ca: Dasyuridae
+    en-gb: Dasyuridae
+    eo: Dasyuridae
+    es: Dasyuridae
+    eu: Dasyuridae
+    ext: Dasyuridae
+    fa: ستبردمان
+    fi: pussipedot
+    fr: Dasyuridae
+    ga: lucha marsúipiacha
+    gl: Dasiúridos
+    he: נמיות כיס
+    hu: erszényesnyestfélék
+    ia: Dasyuridae
+    id: Dasyuridae
+    ie: Dasyuridae
+    io: Dasyuridae
+    is: Pokamýs og pokamerðir
+    it: Dasyuridae
+    ja: フクロネコ科
+    ko: 주머니고양이과
+    la: Dasyuridae
+    lt: Plėšrieji sterbliniai
+    lv: plēsējsomaiņu dzimta
+    ml: ഡാസ്യുറിഡേ
+    mt: Dasyuridae
+    mul: Dasyuridae
+    nb: Rovpungdyr
+    nl: echte roofbuideldieren
+    oc: Dasyuridae
+    pl: Niełazowate
+    pt: Dasyuridae
+    pt-br: Dasyuridae
+    ro: Dasyuridae
+    ru: Сумчатые куницы
+    sl: zverski vrečarji
+    sq: Dasyuridae
+    sr: Dasyuridae
+    sv: Rovpungdjur
+    tr: Keseli sansargiller
+    uk: Хижі сумчасті
+    vi: Dasyuridae
+    vo: Dasyuridae
+    war: Dasyuridae
+    zh: 袋鼬科
+    zh-cn: 袋鼬科
+    zh-hans: 袋鼬科
+    zh-tw: 袋鼬科
 ---
-
 # [[Dasyuridae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuridae,23133|WD~Dasyuridae,23133]]  

@@ -1,10 +1,101 @@
 ---
 aliases:
-  - Tree_of_Life
-  - Tree of Life
+- '"Жашоо дарагы"'
+- albero della vita
+- Arbo de vivo
+- arbre de la vida
+- arbre de vie
+- Baum des Lebens
+- Bizitzaren zuhaitza
+- drevo življenja
+- Drvo života
+- Drzewo Życia
+- Dzīvības koks
+- Elupuu (mütoloogia)
+- elämän puu
+- Gyvybės medis
+- leavensboom
+- levensboom
+- Livets träd
+- Pema e jetës
+- Pohon kehidupan
+- pomul vieții
+- strom života
+- Tree of Life
+- Tree_of_Life
+- Yaşam ağacı
+- árbol de la vida
+- Árvore da vida
+- égig érő fa
+- Дерево жизни
+- Дрво живота
+- древо життя
+- Дрэва жыцця
+- Կենաց ծառ
+- Կենաց Ծառը
+- עץ החיים
+- درخت زندگی
+- شجرة الحياة
+- یاشام آغاجی
+- জীবন বৃক্ষ (পৌরাণিক উপকথা)
+- জীৱন বৃক্ষ (পৌৰাণিক লোককথা)
+- தி ட்ரீ ஆஃப் லைப்
+- 生命の樹
+- 生命之樹
+- 生命樹
+- 생명나무
 title: Tree of Life
+has_id_wikidata: Q1651237
+dv_has_:
+  name_:
+    ar: شجرة الحياة
+    as: জীৱন বৃক্ষ (পৌৰাণিক লোককথা)
+    azb: یاشام آغاجی
+    be: Дрэва жыцця
+    bn: জীবন বৃক্ষ (পৌরাণিক উপকথা)
+    ca: arbre de la vida
+    cs: strom života
+    de: Baum des Lebens
+    en: tree of life
+    eo: Arbo de vivo
+    es: árbol de la vida
+    et: Elupuu (mütoloogia)
+    eu: Bizitzaren zuhaitza
+    fa: درخت زندگی
+    fi: elämän puu
+    fr: arbre de vie
+    he: עץ החיים
+    hr: Drvo života
+    hu: égig érő fa
+    hy: Կենաց ծառ
+    hyw: Կենաց Ծառը
+    id: Pohon kehidupan
+    it: albero della vita
+    ja: 生命の樹
+    ko: 생명나무
+    ky: '"Жашоо дарагы"'
+    lt: Gyvybės medis
+    lv: Dzīvības koks
+    ms: Pohon kehidupan
+    nds-nl: leavensboom
+    nl: levensboom
+    pl: Drzewo Życia
+    pt: Árvore da vida
+    ro: pomul vieții
+    ru: Дерево жизни
+    sh: Drvo života
+    sl: drevo življenja
+    sq: Pema e jetës
+    sr: Дрво живота
+    sr-ec: Дрво живота
+    sr-el: Drvo života
+    sv: Livets träd
+    ta: தி ட்ரீ ஆஃப் லைப்
+    tr: Yaşam ağacı
+    uk: древо життя
+    yue: 生命之樹
+    zh: 生命樹
 ---
-
 # [[Tree_of_Life]]   
 
 ![Meloid on a yellow composite flower](meloid.gif) ![Fischerella](fischerella.gif) 

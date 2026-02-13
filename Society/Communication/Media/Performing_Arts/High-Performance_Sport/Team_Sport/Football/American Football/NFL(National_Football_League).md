@@ -1,28 +1,60 @@
 ---
-has_time_started: 1920-01-01 
+has_time_started: 1920-01-01
 aliases:
-  - National Football League
-  - NFL
-  - NFL(National_Football_League)
-  - NFL(National Football League)
+- Foedus Pediludii Nationale
+- Liga Nasional Sepak bola Amerika
+- Milli Futbol Liqası
+- Milliy futbol ligasi
+- Nacionalinė futbolo lyga
+- Nacionālā futbola līga
+- National Football League
+- National Football League (NFL)
+- NFL
+- NFL(National Football League)
+- NFL(National_Football_League)
+- Sraithchomórtas Peile Náisiúnta
+- Þēodlic Fōtball Leaga
+- Національна футбольна ліга
+- Национална фудбалска лига
+- Национална футболна лига
+- Национальная футбольная лига
+- Нацыянальная футбольная ліга
+- НФЛ
+- Ֆուտբոլի ազգային լիգա
+- الدوري الوطني لكرة القدم الأمريكية
+- انافال
+- خولی ڕەگبیی ئەمریکی
+- نیشنل فٹ بال لیگ
+- नॅशनल फुटबॉल लीग
+- नेशनल फुटबॉल लीग
+- ন্যাশনাল ফুটবল লিগ
+- ਨੈਸ਼ਨਲ ਫੁੱਟਬਾਲ ਲੀਗ
+- என்.எஃப்.எல்.
+- ನ್ಯಾಷನಲ್ ಫುಟ್ಬಾಲ್ ಲೀಗ್
+- เอ็นเอฟแอล
+- ნაციონალური საფეხბურთო ლიგა
+- 全国橄榄球联盟
+- 国家橄榄球联盟
+- 國家美式足球聯盟
+- 내셔널 풋볼 리그
 has_id_wikidata: Q1215884
 sponsor: '[[_Standards/WikiData/WD~Pizza_Hut,191615]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~American_Football_Conference,276530]]'
-  - '[[_Standards/WikiData/WD~National_Football_Conference,319007]]'
+- '[[_Standards/WikiData/WD~American_Football_Conference,276530]]'
+- '[[_Standards/WikiData/WD~National_Football_Conference,319007]]'
 headquarters_locations: '[[_Standards/WikiData/WD~345_Park_Avenue,3489200]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_the_National_Football_League,5870004]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_NFL,6307529]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
-  - '[[_Standards/WikiData/WD~American_football_league,124059801]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
+- '[[_Standards/WikiData/WD~American_football_league,124059801]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 season_starts: '[[_Standards/WikiData/WD~September,123]]'
 number_of_participants: 32
 social_media_followers:
-  - 15400000
-  - 32600630
-  - 4130783
+- 15400000
+- 32600630
+- 4130783
 sport: '[[_Standards/WikiData/WD~American_football,41323]]'
 TikTok_username: nfl
 Giphy_username: nfl
@@ -47,8 +79,89 @@ Commons_category: National Football League
 Archive_of_Our_Own_tag: National Football League RPF
 IMDb_keyword: reference-to-the-nfl
 inception: 1920-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ang: Þēodlic Fōtball Leaga
+    ar: الدوري الوطني لكرة القدم الأمريكية
+    ast: National Football League
+    az: Milli Futbol Liqası
+    be: Нацыянальная футбольная ліга
+    be-tarask: Нацыянальная футбольная ліга
+    bg: Национална футболна лига
+    bn: ন্যাশনাল ফুটবল লিগ
+    bs: NFL
+    ca: National Football League
+    ckb: خولی ڕەگبیی ئەمریکی
+    cs: National Football League
+    cy: National Football League
+    da: National Football League
+    de: National Football League
+    el: NFL
+    en: National Football League
+    eo: National Football League
+    es: National Football League
+    et: NFL
+    eu: National Football League
+    fa: انافال
+    fi: National Football League
+    fo: NFL
+    fr: National Football League
+    fy: National Football League
+    ga: Sraithchomórtas Peile Náisiúnta
+    gl: National Football League
+    haw: NFL
+    he: NFL
+    hi: नेशनल फुटबॉल लीग
+    hif: National Football League (NFL)
+    hr: National Football League
+    hu: National Football League
+    hy: Ֆուտբոլի ազգային լիգա
+    id: Liga Nasional Sepak bola Amerika
+    ie: National Football League
+    io: National Football League
+    is: National Football League
+    it: National Football League
+    ja: NFL
+    ka: ნაციონალური საფეხბურთო ლიგა
+    kn: ನ್ಯಾಷನಲ್ ಫುಟ್ಬಾಲ್ ಲೀಗ್
+    ko: 내셔널 풋볼 리그
+    la: Foedus Pediludii Nationale
+    lt: Nacionalinė futbolo lyga
+    lv: Nacionālā futbola līga
+    mk: Национална фудбалска лига
+    mr: नॅशनल फुटबॉल लीग
+    ms: National Football League
+    mul: National Football League
+    nan: NFL
+    nb: National Football League
+    nl: National Football League
+    oc: National Football League
+    pa: ਨੈਸ਼ਨਲ ਫੁੱਟਬਾਲ ਲੀਗ
+    pl: National Football League
+    pt: National Football League
+    ro: National Football League
+    ru: Национальная футбольная лига
+    sco: National Football League
+    sh: NFL
+    sk: National Football League
+    sl: National Football League
+    sr: НФЛ
+    sv: National Football League
+    ta: என்.எஃப்.எல்.
+    th: เอ็นเอฟแอล
+    tl: National Football League
+    tr: National Football League
+    uk: Національна футбольна ліга
+    ur: نیشنل فٹ بال لیگ
+    uz: Milliy futbol ligasi
+    vec: National Football League
+    vi: National Football League
+    wuu: 国家橄榄球联盟
+    yue: 國家美式足球聯盟
+    zh: 全国橄榄球联盟
+    zh-cn: 全国橄榄球联盟
+    zh-hans: 全国橄榄球联盟
 ---
-
 # [[NFL(National_Football_League)]] 
 
 #is_/same_as :: [[WD~National_Football_League,1215884]] 

@@ -1,42 +1,137 @@
 ---
 aliases:
-  - CPU
-  - processor
-  - main processor
-  - central processor
-  - CPU(Central_Processing_Unit)
-  - CPU(Central Processing Unit)
+- bɔngɔ́
+- central processing unit
+- central processor
+- centralna procesorska jedinica
+- centralni procesor
+- centrinis procesorius
+- centrální procesorová jednotka
+- centrālais procesors
+- Cipiyu
+- CPU
+- CPU(Central Processing Unit)
+- CPU(Central_Processing_Unit)
+- cėntrėnis pruocesuorios
+- Hauptprozessor
+- isidludlungi esimqoka
+- keskprotsessor
+- kichakato kikuu
+- láraonad próiseála
+- main processor
+- merkezi işlem birimi
+- miðverk
+- mərkəzi prosessor
+- njësia qendrore e përpunimit
+- oraylıq processor
+- Perzesser
+- Piranti Pamrosésan Sentral
+- procedilo
+- procesor
+- processor
+- processor central
+- processorium medium
+- protsessor
+- prozesatzeko unitate zentral
+- qullana ruwachiq kaq
+- sentral na nagpoprosesong unit
+- sentrale verwerkingseenheid
+- suoritin
+- tiong-iong chhù-lí tan-goân
+- Uned Brosesu Ganolog
+- unidad central de procesamiento
+- unidade central de procesamento
+- unidade central de processamento
+- unidat central de procesamiento
+- unidá central de procesamientu
+- unit pemprosesan pusat
+- unit pemroses pusat
+- unitat central de processament
+- unità sentrałe de procesamento
+- unité centrale de traitement
+- yekeya pêvajoyê ya navendî
+- ĉefprocesoro
+- Κεντρική Μονάδα Επεξεργασίας
+- κεντρικόν μονάδα επεξεργασίας
+- киин процессор
+- орталық процессор
+- прокєссоръ
+- протсессори марказӣ
+- процесор
+- процессор
+- рӱдӧ процессор
+- төв процессор
+- централен процесор
+- централна обработувачка единица
+- централный процесор
+- центральний процесор
+- центральной процессор
+- центральный процессор
+- цэнтральны працэсар
+- үзәк эшкәрткеч җайланма
+- үҙәк процессор
+- մշակիչ
+- יחידת עיבוד מרכזית
+- פראצעסאר
+- بروسيسور
+- خرد عملیہ
+- سی پی یو
+- مرکزیایشلمبیریمی
+- واحد پردازش مرکزی
+- وحدة مركازية د الطريطما
+- وحدة معالجة مركزية
+- پروسیسر
+- ګرافیکي پروسس واحد
+- یەکەی ناوەندیی پێوەئاژۆیی
+- सेंट्रल प्रोसेसिंग यूनिट
+- কেন্দ্রীয় প্রক্রিয়াজাতকরণ ইউনিট
+- চেণ্ট্ৰেল প্ৰচেছিং ইউনিট
+- ਸੈਂਟਰਲ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ
+- மையச் செயற்பகுதி
+- కేంద్రీయ కార్యసరణి విభాగం
+- ಕೇಂದ್ರ ಸಂಸ್ಕರಣ ಘಟಕ
+- സെൻട്രൽ പ്രൊസസിങ് യൂണിറ്റ്
+- මධ් යම සැකසුම් ඒකකය
+- หน่วยประมวลผลกลาง
+- ຊີພີຢູ
+- စီပီယူ
+- ცენტრალური პროცესორი
+- ⴰⵙⵖⴰⵍ ⵏ ⵓⵙⵎⴽⵍ ⴰⵏⴰⵎⵎⴰⵙ
+- 中央处理器
+- 中央處理器
+- 處理器
+- 중앙 처리 장치
 has_id_wikidata: Q5300
 has_part_s_:
-  - '[[_Standards/WikiData/WD~CPU_cache,352090]]'
-  - '[[_Standards/WikiData/WD~processor_design,1303814]]'
+- '[[_Standards/WikiData/WD~CPU_cache,352090]]'
+- '[[_Standards/WikiData/WD~processor_design,1303814]]'
 connects_with: '[[_Standards/WikiData/WD~CPU_socket,727009]]'
 different_from:
-  - '[[_Standards/WikiData/WD~processor,1466064]]'
-  - '[[_Standards/WikiData/WD~data_processing_unit,5227334]]'
-  - '[[_Standards/WikiData/WD~computer,68]]'
+- '[[_Standards/WikiData/WD~processor,1466064]]'
+- '[[_Standards/WikiData/WD~data_processing_unit,5227334]]'
+- '[[_Standards/WikiData/WD~computer,68]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~processor,1466064]]'
-  - '[[_Standards/WikiData/WD~computer_hardware,3966]]'
+- '[[_Standards/WikiData/WD~processor,1466064]]'
+- '[[_Standards/WikiData/WD~computer_hardware,3966]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_CPU,6978288]]'
-  - '[[_Standards/WikiData/WD~Template_Processor_technologies,8084425]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_CPU,6978288]]'
+- '[[_Standards/WikiData/WD~Template_Processor_technologies,8084425]]'
 instance_of: '[[_Standards/WikiData/WD~processor_type,124996351]]'
 Wikidata_property: CPU
 properties_for_this_type:
-  - socket supported
-  - instruction set
-  - number of processor cores
-  - fabrication method
-  - clock frequency
-  - FSB speed
-  - microarchitecture
-  - CPUID
-  - number of processor threads
+- socket supported
+- instruction set
+- number of processor cores
+- fabrication method
+- clock frequency
+- FSB speed
+- microarchitecture
+- CPUID
+- number of processor threads
 part_of: '[[_Standards/WikiData/WD~computer,68]]'
 short_name:
-  - ЦП
-  - CPU
+- ЦП
+- CPU
 video: http://commons.wikimedia.org/wiki/Special:FilePath/AMD%20Ryzen%20Threadripper%207970X%20%E2%86%92%20Ein%20Rundumblick.webm
 Baidu_Tieba_name: cpu
 Commons_category: Microprocessors
@@ -45,8 +140,141 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Intel%20Core%20
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Gnome-cpu.png
 Stack_Exchange_tag: https://stackoverflow.com/tags/cpu
 IEV_number: 171-04-05
+dv_has_:
+  name_:
+    af: sentrale verwerkingseenheid
+    an: unidat central de procesamiento
+    ar: وحدة معالجة مركزية
+    ary: وحدة مركازية د الطريطما
+    arz: بروسيسور
+    as: চেণ্ট্ৰেল প্ৰচেছিং ইউনিট
+    ast: unidá central de procesamientu
+    az: mərkəzi prosessor
+    azb: مرکزیایشلمبیریمی
+    ba: үҙәк процессор
+    be: цэнтральны працэсар
+    be-tarask: цэнтральны працэсар
+    bg: централен процесор
+    bm: Cpu
+    bn: কেন্দ্রীয় প্রক্রিয়াজাতকরণ ইউনিট
+    bo: Cpu
+    bs: centralna procesorska jedinica
+    ca: unitat central de processament
+    ckb: یەکەی ناوەندیی پێوەئاژۆیی
+    crh: protsessor
+    cs: centrální procesorová jednotka
+    cu: прокєссоръ
+    cv: процессор
+    cy: Uned Brosesu Ganolog
+    de: Hauptprozessor
+    de-ch: Hauptprozessor
+    diq: processor
+    el: Κεντρική Μονάδα Επεξεργασίας
+    en: central processing unit
+    en-ca: central processing unit
+    en-gb: central processing unit
+    eo: ĉefprocesoro
+    es: unidad central de procesamiento
+    et: keskprotsessor
+    eu: prozesatzeko unitate zentral
+    fa: واحد پردازش مرکزی
+    fi: suoritin
+    fr: unité centrale de traitement
+    ga: láraonad próiseála
+    gl: unidade central de procesamento
+    glk: سی پی یو
+    gsw: Central Processing Unit
+    he: יחידת עיבוד מרכזית
+    hi: सेंट्रल प्रोसेसिंग यूनिट
+    hif: central processing unit
+    hr: procesor
+    hu: Central processing unit
+    hy: մշակիչ
+    hyw: մշակիչ
+    ia: processor central
+    id: unit pemroses pusat
+    io: procedilo
+    is: miðverk
+    jv: Piranti Pamrosésan Sentral
+    ka: ცენტრალური პროცესორი
+    kaa: oraylıq processor
+    ki: Cipiyu
+    kk: орталық процессор
+    kk-cyrl: орталық процессор
+    km: central processing unit
+    kn: ಕೇಂದ್ರ ಸಂಸ್ಕರಣ ಘಟಕ
+    ko: 중앙 처리 장치
+    krc: процессор
+    ku: yekeya pêvajoyê ya navendî
+    ky: процессор
+    la: processorium medium
+    lmo: Central processing unit
+    ln: bɔngɔ́
+    lo: ຊີພີຢູ
+    lt: centrinis procesorius
+    lv: centrālais procesors
+    mhr: рӱдӧ процессор
+    mk: централна обработувачка единица
+    ml: സെൻട്രൽ പ്രൊസസിങ് യൂണിറ്റ്
+    mn: төв процессор
+    ms: unit pemprosesan pusat
+    mul: CPU
+    my: စီပီယူ
+    nan: tiong-iong chhù-lí tan-goân
+    nds: Perzesser
+    nl: CPU
+    oc: processor central
+    pa: ਸੈਂਟਰਲ ਪ੍ਰੋਸੈਸਿੰਗ ਯੂਨਿਟ
+    pl: procesor
+    pnb: پروسیسر
+    pnt: κεντρικόν μονάδα επεξεργασίας
+    ps: ګرافیکي پروسس واحد
+    pt: unidade central de processamento
+    pt-br: unidade central de processamento
+    qu: qullana ruwachiq kaq
+    ro: CPU
+    ru: центральный процессор
+    rue: централный процесор
+    sah: киин процессор
+    sgs: cėntrėnis pruocesuorios
+    sh: procesor
+    si: මධ් යම සැකසුම් ඒකකය
+    sl: centralni procesor
+    sq: njësia qendrore e përpunimit
+    sr: процесор
+    sr-ec: процесор
+    sr-el: procesor
+    sv: processor
+    sw: kichakato kikuu
+    ta: மையச் செயற்பகுதி
+    te: కేంద్రీయ కార్యసరణి విభాగం
+    tg: протсессори марказӣ
+    th: หน่วยประมวลผลกลาง
+    tl: sentral na nagpoprosesong unit
+    tr: merkezi işlem birimi
+    tt: үзәк эшкәрткеч җайланма
+    tt-cyrl: үзәк эшкәрткеч җайланма
+    udm: центральной процессор
+    uk: центральний процесор
+    ur: خرد عملیہ
+    uz: protsessor
+    vec: unità sentrałe de procesamento
+    war: processor
+    wuu: 中央处理器
+    yi: פראצעסאר
+    yue: 處理器
+    zgh: ⴰⵙⵖⴰⵍ ⵏ ⵓⵙⵎⴽⵍ ⴰⵏⴰⵎⵎⴰⵙ
+    zh: 中央處理器
+    zh-cn: 中央处理器
+    zh-hans: 中央处理器
+    zh-hant: 中央處理器
+    zh-hk: 中央處理器
+    zh-mo: 中央處理器
+    zh-my: 中央处理器
+    zh-sg: 中央处理器
+    zh-tw: 中央處理器
+    zu: isidludlungi esimqoka
 ---
-
 # [[CPU(Central_Processing_Unit)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Central_processing_unit,5300|WD~Central_processing_unit,5300]] 

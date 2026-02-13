@@ -1,23 +1,106 @@
 ---
 aliases:
-  - irrigation sprinkler
-  - water sprinkler
-  - sprinkler
-  - Irrigation_Sprinkler
-  - Irrigation Sprinkler
+- arrosage automatique
+- aspersor
+- aspersor de irigare
+- asperxador
+- chū-tōng ak-chúi
+- fiskiye
+- fıskiye
+- ihinztagailu
+- irigacia ŝprucilo
+- irigator
+- Irigator automàtich
+- irrigation sprinkler
+- Irrigation_Sprinkler
+- irrigatore
+- Perenjis
+- purkagichlar
+- Ruixador
+- sadetin
+- sprinkler
+- sproeier
+- vannspreder
+- vattenspridare
+- water sprinkler
+- zraszacz
+- Çiləyici
+- обпош
+- обприскувач
+- опрыскиватель
+- пĕрĕхтерĕш
+- прскалица за наводњавање
+- прскалка
+- пырскаўка
+- разпръсквач
+- սրսկիչ մեքենաներ
+- ממטרה
+- آبیاری بارانی
+- إرواء بالرش
+- सेक्त्र
+- உயர் அமுக்க நீர் தெளிப்பான்
+- ఇరిగేషన్ స్ప్రింక్లర్
+- スプリンクラー
+- 灌溉花灑
+- 灑水車
+- 살수장치
 has_id_wikidata: Q998539
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~sprinklers,784008]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 has_use: '[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]'
-  - '[[_Standards/WikiData/WD~irrigation_system,6129871]]'
-  - '[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]'
+- '[[_Standards/WikiData/WD~sprinkler_irrigation,6108826]]'
+- '[[_Standards/WikiData/WD~irrigation_system,6129871]]'
+- '[[_Standards/WikiData/WD~outdoors,_garden_and_lawn_item,115922801]]'
 Commons_category: Irrigation sprinklers
 image: http://commons.wikimedia.org/wiki/Special:FilePath/An%20Irrigation%20sprinkler%20watering%20a%20garden.gif
 Commons_gallery: Irrigation sprinkler
+dv_has_:
+  name_:
+    an: Ruixador
+    ar: إرواء بالرش
+    ast: asperxador
+    az: Çiləyici
+    be-tarask: пырскаўка
+    bg: разпръсквач
+    ca: aspersor
+    cv: пĕрĕхтерĕш
+    de: Sprinkler
+    en: irrigation sprinkler
+    eo: irigacia ŝprucilo
+    es: aspersor
+    eu: ihinztagailu
+    fa: آبیاری بارانی
+    fi: sadetin
+    fr: arrosage automatique
+    he: ממטרה
+    hi: सेक्त्र
+    hy: սրսկիչ մեքենաներ
+    id: Perenjis
+    it: irrigatore
+    ja: スプリンクラー
+    ko: 살수장치
+    ku: fiskiye
+    lmo: irigator
+    mk: прскалка
+    nan: chū-tōng ak-chúi
+    nb: vannspreder
+    nl: sproeier
+    pl: zraszacz
+    pms: Irigator automàtich
+    ro: aspersor de irigare
+    ru: опрыскиватель
+    sr: прскалица за наводњавање
+    sv: vattenspridare
+    ta: உயர் அமுக்க நீர் தெளிப்பான்
+    te: ఇరిగేషన్ స్ప్రింక్లర్
+    tg: обпош
+    tr: fıskiye
+    uk: обприскувач
+    uz: purkagichlar
+    yue: 灌溉花灑
+    zh: 灑水車
 ---
-
 # [[Irrigation_Sprinkler]] 
 
 #is_/same_as :: [[WD~Irrigation_sprinkler,998539]] 

@@ -1,33 +1,116 @@
 ---
 aliases:
-  - lymphatic-vessel
-  - lymphatic_vessel
-  - LymphaticVessel
-  - is_a_lymphatic_vessel
-  - lymphatics
-  - Lymphatic_vessel
-  - Lymphatic vessel
+- Enët limfatike
+- is_a_lymphatic_vessel
+- Lenf damarı
+- limfagyslė
+- Limfni sud
+- limfovaskulo
+- linfa-hodi
+- Lymfatická cieva
+- lymfeåre
+- Lymphatic vessel
+- lymphatic-vessel
+- lymphatics
+- LymphaticVessel
+- lymphatic_vessel
+- Lymphgefäß
+- lûleya lîmfê
+- Lümfisooned
+- mezgovnica
+- mízní céva
+- Naczynie chłonne
+- nyirokér
+- Pembuluh limfa
+- pibell lymff
+- sistema circolatorio linfatico
+- vaisseau lymphatique
+- vas limfatic
+- Vas limfàtic
+- vaso linfático
+- Λεμφαγγείο
+- Лимфа тамырлары
+- лимфатик тамыр
+- лимфатический сосуд
+- Лимфатични садови
+- лимфен съд
+- Лимфни суд
+- ավշային անոթ
+- כלי לימפה
+- رگ لنفی
+- لوولەی لیمفی
+- وعاء لمفي
+- หลอดน้ำเหลือง
+- リンパ管
+- 淋巴管
+- 림프관
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - lymphatic_vessel
+- lymphatic_vessel
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_lymphatic_vessel Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_lymphatic_vessel Class
 type: Type
+has_id_wikidata: Q11238641
+dv_has_:
+  name_:
+    ar: وعاء لمفي
+    bg: лимфен съд
+    bs: Limfni sud
+    ca: Vas limfàtic
+    ckb: لوولەی لیمفی
+    cs: mízní céva
+    cy: pibell lymff
+    de: Lymphgefäß
+    el: Λεμφαγγείο
+    en: lymphatic vessel
+    eo: limfovaskulo
+    es: vaso linfático
+    et: Lümfisooned
+    eu: linfa-hodi
+    fa: رگ لنفی
+    fr: vaisseau lymphatique
+    gl: Vaso linfático
+    he: כלי לימפה
+    hu: nyirokér
+    hy: ավշային անոթ
+    id: Pembuluh limfa
+    it: sistema circolatorio linfatico
+    ja: リンパ管
+    kk: Лимфа тамырлары
+    ko: 림프관
+    ku: lûleya lîmfê
+    ky: Лимфа тамырлары
+    lt: limfagyslė
+    mk: Лимфатични садови
+    nb: lymfeåre
+    nn: lymfeåre
+    pl: Naczynie chłonne
+    pt: vaso linfático
+    ro: vas limfatic
+    ru: лимфатический сосуд
+    sk: Lymfatická cieva
+    sl: mezgovnica
+    sq: Enët limfatike
+    sr: Лимфни суд
+    th: หลอดน้ำเหลือง
+    tr: Lenf damarı
+    tt: лимфатик тамыр
+    yue: 淋巴管
+    zh: 淋巴管
 ---
-
 # [[Lymphatic_vessel]] 
 
 Class of all lymphatic_vessels.

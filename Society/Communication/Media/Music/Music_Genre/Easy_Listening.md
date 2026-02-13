@@ -1,22 +1,113 @@
 ---
-has_time_started: 1948-01-01 
+has_time_started: 1948-01-01
 aliases:
-  - Easy listening
-  - mood music
-  - Easy_Listening
-  - Easy Listening
+- Auscultatio facilis
+- canol y ffordd
+- Easy listening
+- Easy_Listening
+- fonmuziko
+- lagana muzika
+- mood music
+- musika arin
+- muzică ușoară
+- mużika ħafifa
+- música ligera
+- música lixeira
+- música lleugera
+- rea-chiaull
+- récheol
+- Senti
+- viihdemusiikki
+- ájanasmusihkka
+- èisteachd fhurasta
+- Жеңіл музыка
+- лёгкая музыка
+- Легка музика
+- лесна музика
+- мусиқии сабук
+- թեթև երաժշտություն
+- מוזיקה קלה
+- إيزي ليسينينج
+- ایزی لیسنینگ
+- อีซีลีเซ็นนิง
+- მსუბუქი მუსიკა
+- イージーリスニング
+- 易听音乐
+- 輕音樂
+- 輕鬆流行樂
+- 轻松流行乐
+- 이지 리스닝
 has_id_wikidata: Q848399
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
 different_from:
-  - '[[_Standards/WikiData/WD~light_music,1537056]]'
-  - '[[_Standards/WikiData/WD~musica_leggera,97326344]]'
+- '[[_Standards/WikiData/WD~light_music,1537056]]'
+- '[[_Standards/WikiData/WD~musica_leggera,97326344]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 inception: 1948-01-01T00:00:00Z
 Commons_category: Easy listening music
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Easy%20listening%20CD%20section%2C%20First%20floor%2C%20HMV%2C%20the%20Core%2C%20Leeds%20%2814th%20January%202020%29.jpg
+dv_has_:
+  name_:
+    ar: إيزي ليسينينج
+    ast: Easy listening
+    be-tarask: лёгкая музыка
+    ca: música lleugera
+    cs: easy listening
+    cy: canol y ffordd
+    da: easy listening
+    de: Easy Listening
+    el: Easy listening
+    en: easy listening
+    en-gb: easy listening
+    eo: fonmuziko
+    es: música ligera
+    et: Easy listening
+    eu: musika arin
+    fa: ایزی لیسنینگ
+    fi: viihdemusiikki
+    fr: easy listening
+    ga: récheol
+    gd: èisteachd fhurasta
+    gl: música lixeira
+    gv: rea-chiaull
+    he: מוזיקה קלה
+    hr: Easy listening
+    hy: թեթև երաժշտություն
+    id: Easy listening
+    it: easy listening
+    ja: イージーリスニング
+    ka: მსუბუქი მუსიკა
+    kk: Жеңіл музыка
+    ko: 이지 리스닝
+    la: Auscultatio facilis
+    lb: Easy Listening
+    mk: лесна музика
+    mt: mużika ħafifa
+    mul: Easy Listening
+    nb: easy listening
+    nl: easy listening
+    nn: easy listening
+    pl: Easy listening
+    pt: easy listening
+    pt-br: easy listening
+    ro: muzică ușoară
+    ru: easy listening
+    se: ájanasmusihkka
+    sh: Easy listening
+    sl: easy listening
+    sr: lagana muzika
+    sv: easy listening
+    tg: мусиқии сабук
+    th: อีซีลีเซ็นนิง
+    tl: Senti
+    tr: Easy Listening
+    uk: Легка музика
+    zh: 輕音樂
+    zh-cn: 轻松流行乐
+    zh-hans: 易听音乐
+    zh-hant: 輕鬆流行樂
 ---
-
 # [[Easy_Listening]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Easy_listening,848399|WD~Easy_listening,848399]] 

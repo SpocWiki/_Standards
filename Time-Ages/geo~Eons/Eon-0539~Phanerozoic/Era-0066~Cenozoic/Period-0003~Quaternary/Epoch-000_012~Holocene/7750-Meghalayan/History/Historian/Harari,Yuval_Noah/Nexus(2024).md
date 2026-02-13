@@ -37,8 +37,8 @@ dv_is_same_as:
   - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).private|Nexus(2024).private]]"
   - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).personal|Nexus(2024).personal]]"
   - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).secret|Nexus(2024).secret]]"
+has_id_wikidata: Q130649687
 ---
-
 # [[Nexus(2024)]] 
 
 

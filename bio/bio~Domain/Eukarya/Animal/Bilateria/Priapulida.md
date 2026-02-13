@@ -1,9 +1,119 @@
 ---
 aliases:
-  - Priapulida
+- Bjúgormar
+- Daa-mboo
+- farkosférgek
+- Hlavatci
+- Keraskärssussid
+- makkaramadot
+- Niezmogowce
+- peniswormen
+- Priapovermoj
+- Priapswirmer
+- Priapswürmer
+- Priapula
+- Priapulida
+- Priapulider
+- Priapulidlər
+- Priapulido
+- Priapuly
+- Priapúlid
+- Priāpuli
+- Pølseorme
+- snabelsäckmaskar
+- Valjčari
+- Yırtıcı deniz solucanları
+- Zizchʼosh
+- črvorilčniki
+- пріапуліди
+- Пријапулиде
+- приапулиди
+- приапулиды
+- פריאפולידה
+- استوانهایها
+- قضيبيات
+- ప్రియపులిడా
+- ไพรอะพูลา
+- პრიაპულიდები
+- 鰓曳動物
+- 鳃曳动物门
+- 새예동물
 title: Priapulida
+has_id_wikidata: Q5184
+dv_has_:
+  name_:
+    an: Priapulida
+    ar: قضيبيات
+    arz: قضيبيات
+    ast: Priapulida
+    az: Priapulidlər
+    be: Priapulida
+    bg: приапулиди
+    bs: Priapulida
+    ca: Priapúlid
+    ceb: Priapulida
+    cs: Hlavatci
+    da: Pølseorme
+    de: Priapswürmer
+    en: Priapulida
+    en-ca: Priapulida
+    en-gb: Priapulida
+    eo: Priapovermoj
+    es: Priapula
+    et: Keraskärssussid
+    eu: Priapulido
+    ext: Priapulida
+    fa: استوانهایها
+    fi: makkaramadot
+    fr: Priapulida
+    frr: Priapswirmer
+    ga: Priapulida
+    gl: Priapulida
+    he: פריאפולידה
+    hr: Valjčari
+    hu: farkosférgek
+    ia: Priapulida
+    id: Priapulida
+    ie: Priapulida
+    io: Priapulida
+    is: Bjúgormar
+    it: Priapulida
+    ja: 鰓曳動物
+    ka: პრიაპულიდები
+    ko: 새예동물
+    la: Priapulida
+    lv: Priāpuli
+    mul: Priapulida
+    nb: Priapulider
+    nl: peniswormen
+    nv: Zizchʼosh
+    oc: Priapulida
+    pl: Niezmogowce
+    pt: Priapulida
+    pt-br: Priapulida
+    ro: Priapulida
+    ru: приапулиды
+    sh: Priapulida
+    sk: Priapuly
+    sl: črvorilčniki
+    sq: Priapulida
+    sr: Пријапулиде
+    sv: snabelsäckmaskar
+    sw: Daa-mboo
+    te: ప్రియపులిడా
+    th: ไพรอะพูลา
+    tl: Priapulida
+    tr: Yırtıcı deniz solucanları
+    uk: пріапуліди
+    vi: Priapulida
+    vo: Priapulida
+    war: Priapulida
+    wuu: 鳃曳动物门
+    zh: 鳃曳动物门
+    zh-cn: 鳃曳动物门
+    zh-hans: 鳃曳动物门
+    zh-hant: 鳃曳动物门
 ---
-
 # [[Priapulida]] 
 
 ## Penis Worms 

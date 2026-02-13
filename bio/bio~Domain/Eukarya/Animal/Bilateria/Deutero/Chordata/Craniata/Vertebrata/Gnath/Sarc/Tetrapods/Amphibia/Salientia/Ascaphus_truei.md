@@ -1,10 +1,75 @@
 ---
 aliases:
-  - Ascaphus_truei
-  - Ascaphus truei
+- Ascaphidae
+- Ascaphus
+- Ascaphus truei
+- Ascaphus_truei
+- Askafedoj
+- Chʼał bitseeʼ hólóní
+- Katak berekor
+- Kuyruklu kurbağa
+- ocasatka
+- Schwanzfrösche
+- tailed frog
+- опашати жаби
+- Хвостата жаба
+- Хвостатые лягушки
+- Хӳреллӗ шапасем
+- Ҡойроҡло тәлмәрйендәр
+- אסקפיים
+- قورباغه دمدار
+- วงศ์กบมีหาง
+- オガエル
+- 尾蟾属
+- 꼬리개구리
 title: Ascaphus truei
+has_id_wikidata: Q2925426
+dv_has_:
+  name_:
+    ast: Ascaphus
+    ba: Ҡойроҡло тәлмәрйендәр
+    bg: опашати жаби
+    ceb: Ascaphus
+    cs: ocasatka
+    cv: Хӳреллӗ шапасем
+    de: Schwanzfrösche
+    en: tailed frog
+    en-ca: Tailed frog
+    en-gb: tailed frog
+    eo: Askafedoj
+    es: Ascaphus
+    eu: Ascaphus
+    fa: قورباغه دمدار
+    fi: Ascaphus
+    fr: Ascaphus
+    ga: Ascaphus
+    he: אסקפיים
+    hu: Ascaphus
+    ia: Ascaphus
+    id: Katak berekor
+    it: Ascaphus
+    ja: オガエル
+    ko: 꼬리개구리
+    la: Ascaphus
+    mul: Ascaphus
+    nl: Ascaphus
+    nv: Chʼał bitseeʼ hólóní
+    pl: Ascaphus
+    pt: Ascaphidae
+    pt-br: Ascaphus
+    ro: Ascaphus
+    ru: Хвостатые лягушки
+    sq: Ascaphus
+    sv: Ascaphus
+    th: วงศ์กบมีหาง
+    tr: Kuyruklu kurbağa
+    uk: Хвостата жаба
+    vi: Ascaphus
+    war: Ascaphus
+    zh: 尾蟾属
+    zh-cn: 尾蟾属
+    zh-hans: 尾蟾属
 ---
-
 # [[Ascaphus truei]]
 
 ## The Tailed Frog 

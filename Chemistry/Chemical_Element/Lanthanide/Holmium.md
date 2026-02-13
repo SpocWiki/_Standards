@@ -1,55 +1,125 @@
 ---
 aliases:
-  - Holmium
+- Gol'mii
+- Golmiy
+- Ho
+- hoilmiam
+- Hoilmium
+- Hol'mii
+- holm
+- Holmi
+- holmij
+- holmijs
+- Holmijum
+- holmio
+- Holmiom
+- Holmis
+- holmiu
+- Holmium
+- Holmiumi
+- holmiwm
+- Holmiyo
+- Holmiyum
+- Holmyo
+- Holmyu
+- hólmio
+- Hólmín
+- hôlmio
+- Hôlmiôma
+- Hɔlɩmɩyɔm
+- jinmrxolmi
+- Olmi
+- olmio
+- olmiu
+- olmju
+- UmHomambi
+- Òlmi
+- Òlmio
+- Òlmiu
+- όλμιο
+- Гольм
+- гольмій
+- гольми
+- гольмий
+- гольмиум
+- холмијум
+- холмий
+- холмиум
+- հոլմիում
+- הולמיום
+- هولميوم
+- هولمیم
+- گولمىي
+- ھۆلمیۆم
+- ہولمیئم
+- ہولمیم
+- होल्मियम
+- হোলমিয়াম
+- ਹੋਮੀਅਮ
+- હોલ્મીયમ
+- ହୋଲ୍ମିଅମ
+- ஓல்மியம்
+- హోల్మియం
+- ಹೊಲ್ಮಿಯಮ್
+- ഹോമിയം
+- โฮลเมียม
+- ဟိုမီယမ်
+- ჰოლმიუმი
+- ሆልሚየም
+- ホルミウム
+- 鈥
+- 钬
+- 홀뮴
+- 홀미움
 has_id_wikidata: Q1846
 atomic_number: 67
 boiling_point: 2873
-canonical_SMILES: "[Ho]"
+canonical_SMILES: '[Ho]'
 CAS_Registry_Number: 7440-60-0
 chemical_formula: Ho
 Commons_category: Holmium
 Commons_gallery: Holmium
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-different_from: "[[_Standards/WikiData/WD~Ho,224477]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+different_from: '[[_Standards/WikiData/WD~Ho,224477]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Jacques-Louis_Soret,124083]]"
-  - "[[_Standards/WikiData/WD~Marc_Delafontaine,124122]]"
-  - "[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]"
+- '[[_Standards/WikiData/WD~Jacques-Louis_Soret,124083]]'
+- '[[_Standards/WikiData/WD~Marc_Delafontaine,124122]]'
+- '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
 DSSTOX_compound_identifier: DTXCID0047664
 EC_number: 231-169-0
 electronegativity: 1.23
 element_symbol: Ho
 Gmelin_number: 16291
 has_use:
-  - "[[_Standards/WikiData/WD~nuclear_poison,221033]]"
-  - "[[_Standards/WikiData/WD~pole_piece,2102629]]"
+- '[[_Standards/WikiData/WD~nuclear_poison,221033]]'
+- '[[_Standards/WikiData/WD~pole_piece,2102629]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Holmium.jpg
 InChI: InChI=1S/Ho
 InChIKey: KJZYNXUDTRRSPN-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Uppsala,25286]]"
-  - "[[_Standards/WikiData/WD~Geneva,71]]"
+- '[[_Standards/WikiData/WD~Uppsala,25286]]'
+- '[[_Standards/WikiData/WD~Geneva,71]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
-  - "[[_Standards/WikiData/WD~gadolinite_group,18043462]]"
-  - "[[_Standards/WikiData/WD~monazite_sands,115626544]]"
+- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+- '[[_Standards/WikiData/WD~gadolinite_group,18043462]]'
+- '[[_Standards/WikiData/WD~monazite_sands,115626544]]'
 mass: 164.930329
 melting_point: 1734
 MeSH_tree_code:
-  - D01.268.558.362.492
-  - D01.552.550.399.492
-named_after: "[[_Standards/WikiData/WD~Stockholm,1754]]"
+- D01.268.558.362.492
+- D01.552.550.399.492
+named_after: '[[_Standards/WikiData/WD~Stockholm,1754]]'
 OmegaWiki_Defined_Meaning: 160464
 oxidation_state:
-  - 2
-  - 3
+- 2
+- 3
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23988
 SpocWebEntityId: 21963
 time_of_discovery_or_invention: 1878
@@ -60,10 +130,158 @@ UNII: W1XX32SQN1
 ZVG_number: 7670
 dv_has_:
   name_:
-    group: Lanthanide-Group
-    en: Holmium
-    de: Holmium
     abbreviated: Ho
+    af: Holmium
+    am: ሆልሚየም
+    anp: होल्मियम
+    ar: هولميوم
+    ary: هولميوم
+    arz: هولميوم
+    ast: holmiu
+    az: Holmium
+    ban: Holmium
+    be: гольмій
+    be-tarask: Гольм
+    bg: холмий
+    bho: होल्मियम
+    bn: হোলমিয়াম
+    br: Holmiom
+    bs: holmij
+    ca: holmi
+    cdo: Holmium
+    ceb: Holmyo
+    ckb: ھۆلمیۆم
+    co: Olmiu
+    cs: holmium
+    cv: гольми
+    cy: holmiwm
+    da: holmium
+    de: Holmium
+    el: όλμιο
+    en: holmium
+    en-gb: holmium
+    eo: holmio
+    es: holmio
+    et: holmium
+    eu: holmio
+    fa: هولمیم
+    fi: holmium
+    fo: Holmium
+    fr: holmium
+    frr: Holmium
+    fur: Olmi
+    ga: hoilmiam
+    gd: Hoilmium
+    gl: Holmio
+    group: Lanthanide-Group
+    gu: હોલ્મીયમ
+    gv: holmium
+    hak: holmium
+    he: הולמיום
+    hi: होल्मियम
+    hif: Holmium
+    hr: Holmij
+    hu: holmium
+    hy: հոլմիում
+    ia: holmium
+    id: holmium
+    io: holmio
+    is: Hólmín
+    it: olmio
+    ja: ホルミウム
+    jbo: jinmrxolmi
+    jv: Holmium
+    ka: ჰოლმიუმი
+    kbp: Hɔlɩmɩyɔm
+    kk: гольмий
+    kn: ಹೊಲ್ಮಿಯಮ್
+    ko: 홀뮴
+    ko-kp: 홀미움
+    kv: гольмий
+    kw: Holmiom
+    ky: гольмий
+    la: holmium
+    lb: Holmium
+    lfn: holmio
+    li: Holmium
+    lij: Olmio
+    lt: Holmis
+    lv: holmijs
+    lzh: 鈥
+    mg: Hôlmiôma
+    mk: холмиум
+    ml: ഹോമിയം
+    mn: гольми
+    mr: होल्मियम
+    mrj: гольмий
+    ms: holmium
+    ms-arab: هولميوم
+    mt: olmju
+    mul: Ho
+    my: ဟိုမီယမ်
+    nan: Holmium
+    nb: holmium
+    ne: होल्मियम
+    new: होल्मियम
+    nl: holmium
+    nn: holmium
+    nov: Holmium
+    oc: Òlmi
+    olo: Hol'mii
+    or: ହୋଲ୍ମିଅମ
+    os: гольмий
+    pa: ਹੋਮੀਅਮ
+    pi: होल्मियम
+    pl: holm
+    pms: Òlmio
+    pnb: ہولمیم
+    ps: هولميوم
+    pt: hólmio
+    pt-br: hôlmio
+    qu: Holmyu
+    ro: holmiu
+    ru: гольмий
+    rup: Holmiu
+    sa: होल्मियम
+    sah: холмиум
+    sc: Òlmiu
+    scn: olmiu
+    sh: Holmijum
+    sk: holmium
+    sl: holmij
+    sq: Holmiumi
+    sr: холмијум
+    sr-ec: холмијум
+    stq: Holmium
+    sv: holmium
+    sw: Holmi
+    ta: ஓல்மியம்
+    te: హోల్మియం
+    tg: гольмий
+    th: โฮลเมียม
+    tl: Holmiyo
+    tr: Holmiyum
+    tt: гольмий
+    ug: گولمىي
+    uk: гольмій
+    ur: ہولمیئم
+    uz: Golmiy
+    vep: Gol'mii
+    vi: holmi
+    war: Holmyo
+    wuu: 钬
+    xal: гольмиум
+    yo: Holmium
+    yue: 鈥
+    zh: 鈥
+    zh-hans: 钬
+    zh-hant: 鈥
+    zh-tw: 鈥
+    zu: UmHomambi
+  number_of_:
+    period: 6
+    group: 33
+    electrons: 67
   value_for_:
     weight_:
       u: 164.9304
@@ -91,23 +309,19 @@ dv_has_:
       form_:
         kj_:
           mol: 241
-  number_of_:
-    period: 6
-    group: 33
-    electrons: 67
 dv_is_:
-  part_of: "[[../Lanthanide]]"
+  part_of: '[[../Lanthanide]]'
   same_as:
-    - "[[../../../WikiData/WD~Holmium,1846]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Holmium|Holmium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Holmium.public|Holmium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Holmium.internal|Holmium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Holmium.protect|Holmium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Holmium.private|Holmium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Holmium.personal|Holmium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Holmium.secret|Holmium.secret]]"
+  - '[[../../../WikiData/WD~Holmium,1846]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Holmium|Holmium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Holmium.public|Holmium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Holmium.internal|Holmium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Holmium.protect|Holmium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Holmium.private|Holmium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Holmium.personal|Holmium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Holmium.secret|Holmium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: "[[../Lanthanide]]"
+dv_is_part_of: '[[../Lanthanide]]'
 dv_has_name_en: Holmium
 dv_has_name_de: Holmium
 dv_has_value_for_weight_u: 164.9304
@@ -126,18 +340,17 @@ dv_has_value_for_energy_form_kj_mol: 241
 dv_has_number_of_period: 6
 dv_has_number_of_group: 33
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Holmium,1846]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Holmium|Holmium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Holmium.public|Holmium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Holmium.internal|Holmium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Holmium.protect|Holmium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Holmium.private|Holmium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Holmium.personal|Holmium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Holmium.secret|Holmium.secret]]"
+- '[[../../../WikiData/WD~Holmium,1846]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Holmium|Holmium]]'
+- '[[/_public/Chemistry/Chemical_Element/Lanthanide/Holmium.public|Holmium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Holmium.internal|Holmium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Holmium.protect|Holmium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Lanthanide/Holmium.private|Holmium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Holmium.personal|Holmium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Holmium.secret|Holmium.secret]]'
 dv_has_name_abbreviated: Ho
 dv_has_number_of_electrons: 67
 ---
-
 # [[Holmium]] 
 
 #chemic/Element 

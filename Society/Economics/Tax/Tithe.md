@@ -1,34 +1,160 @@
 ---
 aliases:
-  - Zehnter
-  - Zehnte
-  - Tithe
+- Ampahafolon-karena
+- decima
+- Degevow Puskes en Kernow
+- degwm
+- Dekonaĵo
+- delme
+- Deog
+- Desetina
+- Desetina (porez)
+- desátek
+- Dešimtinė
+- diezmo
+- Diezmu
+- Dismo
+- Dziesięcina
+- Dèime
+- Décimo (imposto)
+- Déme
+- dízimo
+- dîme
+- Dəhsiyyə
+- Hamarren
+- Kirikukümnis
+- Kymmenykset
+- Pahunos
+- Pasepuluhan
+- Persepuluhan
+- Teng
+- Thuế thập phân
+- tiend
+- tiende
+- Tionde
+- Tithe
+- tized
+- Tíund
+- Zaka
+- zeciuială
+- Zehnt
+- Zehnte
+- Zehnter
+- Zähnt
+- Zéngten
+- Ótù ụzọ n'ụzọ iri
+- Φόρος της δεκάτης
+- Дæсæтин
+- десятина
+- Десятък
+- дзесяціна
+- Дисәтинә
+- Церковна десятина
+- Տասանորդ
+- מעשר
+- العشر
+- عشر
+- عشریه
+- பதின்மை வரி விதி
+- ทศางค์
+- 什一奉獻
+- 十一奉獻
+- 十分の一税
+- 십일조
 has_id_wikidata: Q184664
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~expenditure,760120]]'
-  - '[[_Standards/WikiData/WD~levy,16102139]]'
+- '[[_Standards/WikiData/WD~expenditure,760120]]'
+- '[[_Standards/WikiData/WD~levy,16102139]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxation,1964442]]'
-  - '[[_Standards/WikiData/WD~religious_behaviour,2110808]]'
+- '[[_Standards/WikiData/WD~taxation,1964442]]'
+- '[[_Standards/WikiData/WD~religious_behaviour,2110808]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~aşir,12165060]]'
 different_from: '[[_Standards/WikiData/WD~Decima,18438304]]'
 OmegaWiki_Defined_Meaning: 1008499
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monier22.JPG
 Commons_category: Tithe
 Dewey_Decimal_Classification: 248.6
+dv_has_:
+  name_:
+    an: Decima
+    ar: العشر
+    ast: Diezmu
+    az: Dəhsiyyə
+    ba: Дисәтинә
+    be-tarask: дзесяціна
+    bg: Десятък
+    br: Deog
+    ca: delme
+    cs: desátek
+    cy: degwm
+    da: tiende
+    de: Zehnt
+    el: Φόρος της δεκάτης
+    en: tithe
+    eo: Dekonaĵo
+    es: diezmo
+    et: Kirikukümnis
+    eu: Hamarren
+    fa: عشریه
+    fi: Kymmenykset
+    fr: dîme
+    gl: Décimo (imposto)
+    gsw: Zähnt
+    he: מעשר
+    hr: Desetina
+    hu: tized
+    hy: Տասանորդ
+    id: Persepuluhan
+    ig: Ótù ụzọ n'ụzọ iri
+    io: Dismo
+    is: Tíund
+    it: decima
+    ja: 十分の一税
+    jv: Pasepuluhan
+    ko: 십일조
+    kw: Degevow Puskes en Kernow
+    la: Decima
+    lb: Zéngten
+    lt: Dešimtinė
+    mg: Ampahafolon-karena
+    nb: tiende
+    nds: Teng
+    nl: tiende
+    nn: tiend
+    oc: Dèime
+    os: Дæсæтин
+    pl: Dziesięcina
+    pt: dízimo
+    ro: zeciuială
+    ru: десятина
+    sh: Desetina (porez)
+    sl: Desetina
+    sr: Desetina (porez)
+    sv: Tionde
+    sw: Zaka
+    ta: பதின்மை வரி விதி
+    th: ทศางค์
+    tl: Pahunos
+    uk: Церковна десятина
+    ur: عشر
+    vi: Thuế thập phân
+    wa: Déme
+    yue: 什一奉獻
+    zh: 十一奉獻
+    zh-hant: 十一奉獻
+    zh-hk: 十一奉獻
 ---
-
 # [[Tithe]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tithe,184664|WD~Tithe,184664]]  

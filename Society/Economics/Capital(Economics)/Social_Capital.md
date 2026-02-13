@@ -1,28 +1,126 @@
 ---
 aliases:
-  - Social capital
-  - Soziales Kapital
-  - Social_Capital
-  - Social Capital
+- capital social
+- capitale sociale
+- Društveni kapital
+- Félagsauður
+- isi obodo
+- Kapital sozial
+- kapitał społeczny
+- Modal sosial
+- Siā-hōe chu-pún
+- socia kapitalo
+- sociaal kapitaal
+- Social capital
+- social kapital
+- socialinis kapitalas
+- socialni kapital
+- Socialt kapital
+- Social_Capital
+- Socijalni kapital
+- sociální kapitál
+- sociālais kapitāls
+- sosiaalinen pääoma
+- Sosial kapital
+- Sosyo-kapital
+- Sotsiaalne kapital
+- Soziales Kapital
+- társadalmi tőke
+- Vốn xã hội
+- İctimai kapital
+- сацыяльны капітал
+- соціальний капітал
+- Социалдык капитал
+- социальный капитал
+- Սոցիալական կապիտալ
+- הון חברתי
+- رأس المال الاجتماعي
+- سرمایه اجتماعی
+- सामाजिक पूँजी
+- ਸਮਾਜਿਕ ਪੂੰਜੀ
+- சமூக மூலதனம்
+- ทุนทางสังคม
+- ソーシャル・キャピタル
+- 社会资本
+- 社會資本
+- 사회 자본
 has_id_wikidata: Q214693
 instance_of:
-  - '[[_Standards/WikiData/WD~concept,151885]]'
-  - '[[_Standards/WikiData/WD~resource_type,135412187]]'
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~resource_type,135412187]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
-  - '[[_Standards/WikiData/WD~cooperation,380962]]'
-  - '[[_Standards/WikiData/WD~trust,659974]]'
-  - '[[_Standards/WikiData/WD~identity,844569]]'
-  - '[[_Standards/WikiData/WD~reciprocity,2147331]]'
-  - '[[_Standards/WikiData/WD~values,25394833]]'
+- '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
+- '[[_Standards/WikiData/WD~cooperation,380962]]'
+- '[[_Standards/WikiData/WD~trust,659974]]'
+- '[[_Standards/WikiData/WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~reciprocity,2147331]]'
+- '[[_Standards/WikiData/WD~values,25394833]]'
 described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 part_of: '[[_Standards/WikiData/WD~politics,7163]]'
 subclass_of: '[[_Standards/WikiData/WD~capital,8137]]'
 studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
 MeSH_tree_code: I01.880.853.375
 Commons_category: Social capital
+dv_has_:
+  name_:
+    ar: رأس المال الاجتماعي
+    az: İctimai kapital
+    be-tarask: сацыяльны капітал
+    bs: Socijalni kapital
+    ca: capital social
+    cs: sociální kapitál
+    da: social kapital
+    de: Soziales Kapital
+    en: social capital
+    eo: socia kapitalo
+    es: capital social
+    et: Sotsiaalne kapital
+    eu: Kapital sozial
+    fa: سرمایه اجتماعی
+    fi: sosiaalinen pääoma
+    fr: capital social
+    gl: Capital social
+    he: הון חברתי
+    hi: सामाजिक पूँजी
+    hu: társadalmi tőke
+    hy: Սոցիալական կապիտալ
+    id: Modal sosial
+    ig: isi obodo
+    is: Félagsauður
+    it: capitale sociale
+    ja: ソーシャル・キャピタル
+    ko: 사회 자본
+    ky: Социалдык капитал
+    lt: socialinis kapitalas
+    lv: sociālais kapitāls
+    ms: Modal sosial
+    nan: Siā-hōe chu-pún
+    nb: sosial kapital
+    nl: sociaal kapitaal
+    nn: Sosial kapital
+    pa: ਸਮਾਜਿਕ ਪੂੰਜੀ
+    pl: kapitał społeczny
+    pt: capital social
+    ro: capital social
+    ru: социальный капитал
+    sl: socialni kapital
+    sr: Društveni kapital
+    sr-el: Društveni kapital
+    sv: Socialt kapital
+    ta: சமூக மூலதனம்
+    th: ทุนทางสังคม
+    tr: Sosyo-kapital
+    uk: соціальний капітал
+    vi: Vốn xã hội
+    wuu: 社会资本
+    zh: 社会资本
+    zh-cn: 社会资本
+    zh-hans: 社会资本
+    zh-hant: 社會資本
+    zh-hk: 社會資本
+    zh-sg: 社会资本
+    zh-tw: 社會資本
 ---
-
 # [[Social_Capital]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_capital,214693|WD~Social_capital,214693]]  

@@ -1,41 +1,137 @@
 ---
 aliases:
-  - incandescent light bulb
-  - incandescent lamp
-  - incandescent light globe
-  - Incandescent_Light_Bulb
-  - Incandescent Light Bulb
+- alektrėnė lėmpele
+- ampolo
+- ampul
+- ampûl
+- balbu
+- bec incandescent
+- bhoni
+- Bier
+- bolgan
+- bombeta
+- bombeta elèctrica
+- bonbilla
+- bumbilya
+- bwlb golau gwynias
+- Byrna
+- choʻgʻlanma lampa
+- elektrik lampası
+- električna sijalica
+- električna žarulja
+- Gleujlamp
+- globulus electricus
+- gloeilamp
+- gloeilampe
+- glödlampa
+- glødelampe
+- Glühlampe
+- hehkulamppu
+- History of electric light
+- hõõglamp
+- incandescent lamp
+- incandescent light bulb
+- incandescent light globe
+- Incandescent_Light_Bulb
+- Inkandeco-lampo
+- Inkiandesent lait bolb
+- izzólámpa
+- kaitrinė lemputė
+- kvēlspuldze
+- lampa gealbhruthach
+- Lampa incandescente
+- Lampada invernighenta
+- Lampadin-a a incandessensa
+- lampadina
+- lampe à incandescence
+- lampu pijar
+- lanp enekandesans
+- Lanpadina da incandesensa
+- ljósapera
+- lámpada incandescente
+- lámpara incandescente
+- lâmpada incandescente
+- mentol lampu
+- Opokotcan
+- poçi
+- sansa k'anchana
+- sijalica
+- Tian-kiû
+- đèn sợi đốt
+- żarówka
+- žarnica
+- žehlawka
+- žiarovka
+- žárovka
+- Λαμπτήρας πυράκτωσης
+- инкандесцентна сијалица
+- лампа накаливания
+- лампа розжарення
+- Лампа с нажежаема жичка
+- Лампи риштаӣ
+- лямпа напальвання
+- лямпа напальваньня
+- светилка
+- сијалица
+- Улайсдаг гэрлийн чийдэн
+- Қызу шамы
+- Շիկացման լամպ
+- נורת להט
+- برق ڏيئو
+- برقی قمقمہ
+- بلب
+- لامپ رشتهای
+- مصباح متوهج
+- उद्दीप्त दीपक
+- बिजली बत्ती
+- बिजुली बत्ती
+- ইনক্যান্ডিসেন্ট আলোক বাতি
+- বিজুলী বাতি
+- ਬਲਬ
+- வெள்ளொளிர்வு விளக்கு
+- വൈദ്യുതവിളക്ക്
+- තැවිදිලි පහන
+- หลอดไส้ร้อนแบบธรรมดา
+- ნათურა
+- 燈泡
+- 白炽灯
+- 白熱電球
+- 白熾燈
+- 白熾燈泡
+- 電燈膽
+- ꄆꄒ
+- 백열등
 has_id_wikidata: Q47616
 represents:
-  - "[[_Standards/WikiData/WD~idea,131841]]"
-  - "[[_Standards/WikiData/WD~creativity,170658]]"
-source_of_energy: "[[_Standards/WikiData/WD~electrical_energy,206799]]"
+- '[[_Standards/WikiData/WD~idea,131841]]'
+- '[[_Standards/WikiData/WD~creativity,170658]]'
+source_of_energy: '[[_Standards/WikiData/WD~electrical_energy,206799]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Joseph_Swan,315422]]"
-  - "[[_Standards/WikiData/WD~Alexander_Lodygin,554871]]"
-  - "[[_Standards/WikiData/WD~H._D._F._Kitto,1637246]]"
-  - "[[_Standards/WikiData/WD~Alessandro_Volta,680]]"
-  - "[[_Standards/WikiData/WD~Thomas_Edison,8743]]"
-has_part_s_: "[[_Standards/WikiData/WD~electrical_filament,515888]]"
-subclass_of: "[[_Standards/WikiData/WD~light_bulb,1318740]]"
+- '[[_Standards/WikiData/WD~Joseph_Swan,315422]]'
+- '[[_Standards/WikiData/WD~Alexander_Lodygin,554871]]'
+- '[[_Standards/WikiData/WD~H._D._F._Kitto,1637246]]'
+- '[[_Standards/WikiData/WD~Alessandro_Volta,680]]'
+- '[[_Standards/WikiData/WD~Thomas_Edison,8743]]'
+has_part_s_: '[[_Standards/WikiData/WD~electrical_filament,515888]]'
+subclass_of: '[[_Standards/WikiData/WD~light_bulb,1318740]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-instance_of: "[[_Standards/WikiData/WD~invention,14208553]]"
-different_from: "[[_Standards/WikiData/WD~Q42885863,42885863]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+instance_of: '[[_Standards/WikiData/WD~invention,14208553]]'
+different_from: '[[_Standards/WikiData/WD~Q42885863,42885863]]'
 time_of_discovery_or_invention: 1879-01-01T00:00:00Z
 made_from_material:
-  - "[[_Standards/WikiData/WD~argon,696]]"
-  - "[[_Standards/WikiData/WD~glass,11469]]"
-copyright_status: "[[_Standards/WikiData/WD~public_domain,19652]]"
+- '[[_Standards/WikiData/WD~argon,696]]'
+- '[[_Standards/WikiData/WD~glass,11469]]'
+copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 Nomenclature_for_Museum_Cataloging: 1761
 OmegaWiki_Defined_Meaning: 406777
-Unicode_character: 💡
+Unicode_character: "\U0001F4A1"
 Commons_category: Incandescent light bulbs
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gluehlampe%2001%20KMJ.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20Church%20NYC%20117.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gluehlampe%2001%20KMJ.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20Church%20NYC%20117.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Incandescent%20light%20bulb.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Latarnie-morskie-w-Polsce-01.webm
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Lightbulb%2001%204k%20-%20Model%20%28Josh%20Dean%20via%20Poly%20Haven%29.stl
@@ -47,8 +143,116 @@ Iconclass_notation: 41B371
 MCN_code: 7011.10.10
 IEV_number: 845-27-011
 Commons_gallery: Incandescent light bulb
+dv_has_:
+  name_:
+    af: gloeilamp
+    an: bombeta
+    ar: مصباح متوهج
+    as: বিজুলী বাতি
+    ast: lámpara incandescente
+    atj: Opokotcan
+    az: elektrik lampası
+    bcl: Bumbilya
+    be: лямпа напальвання
+    be-tarask: лямпа напальваньня
+    bg: Лампа с нажежаема жичка
+    bho: बिजली बत्ती
+    bn: ইনক্যান্ডিসেন্ট আলোক বাতি
+    bs: sijalica
+    ca: bombeta elèctrica
+    cs: žárovka
+    cy: bwlb golau gwynias
+    da: glødelampe
+    de: Glühlampe
+    el: Λαμπτήρας πυράκτωσης
+    en: incandescent light bulb
+    eo: ampolo
+    es: lámpara incandescente
+    et: hõõglamp
+    eu: bonbilla
+    fa: لامپ رشتهای
+    fi: hehkulamppu
+    fr: lampe à incandescence
+    fy: gloeilampe
+    ga: lampa gealbhruthach
+    gan: 燈泡
+    gd: bolgan
+    gl: lámpada incandescente
+    he: נורת להט
+    hi: उद्दीप्त दीपक
+    hr: električna žarulja
+    hsb: žehlawka
+    ht: lanp enekandesans
+    hu: izzólámpa
+    hy: Շիկացման լամպ
+    ia: Lampa incandescente
+    id: lampu pijar
+    ii: ꄆꄒ
+    io: Inkandeco-lampo
+    is: ljósapera
+    it: lampadina
+    ja: 白熱電球
+    jam: Inkiandesent lait bolb
+    jv: Lampu pijar
+    ka: ნათურა
+    kk: Қызу шамы
+    ko: 백열등
+    ksh: Bier
+    ku: ampûl
+    la: globulus electricus
+    li: Gleujlamp
+    lmo: Lampada invernighenta
+    lt: kaitrinė lemputė
+    lv: kvēlspuldze
+    mk: светилка
+    ml: വൈദ്യുതവിളക്ക്
+    mn: Улайсдаг гэрлийн чийдэн
+    ms: mentol lampu
+    nan: Tian-kiû
+    nb: glødelampe
+    ne: बिजुली बत्ती
+    nl: gloeilamp
+    nn: glødelampe
+    pa: ਬਲਬ
+    pl: żarówka
+    pms: Lampadin-a a incandessensa
+    pnb: بلب
+    pt: lâmpada incandescente
+    qu: sansa k'anchana
+    ro: bec incandescent
+    ru: лампа накаливания
+    sd: برق ڏيئو
+    sgs: alektrėnė lėmpele
+    sh: električna sijalica
+    si: තැවිදිලි පහන
+    sk: žiarovka
+    sl: žarnica
+    sn: bhoni
+    sq: poçi
+    sr: сијалица
+    sr-ec: инкандесцентна сијалица
+    sr-el: sijalica
+    sv: glödlampa
+    sw: balbu
+    szl: Byrna
+    ta: வெள்ளொளிர்வு விளக்கு
+    te: History of electric light
+    tg: Лампи риштаӣ
+    th: หลอดไส้ร้อนแบบธรรมดา
+    tl: bumbilya
+    tr: ampul
+    uk: лампа розжарення
+    ur: برقی قمقمہ
+    uz: choʻgʻlanma lampa
+    vec: Lanpadina da incandesensa
+    vi: đèn sợi đốt
+    war: bumbilya
+    wuu: 白炽灯
+    yue: 電燈膽
+    zh: 白熾燈泡
+    zh-hant: 白熾燈
+    zh-tw: 白熾燈
 ---
-
 # [[Incandescent_Light_Bulb]] 💡 
 
 #is_/same_as :: [[WD~Incandescent_light_bulb,47616]] 

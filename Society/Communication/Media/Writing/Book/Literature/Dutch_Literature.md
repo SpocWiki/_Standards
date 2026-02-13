@@ -1,23 +1,97 @@
 ---
 aliases:
-  - Dutch-language literature
-  - Nederlandstalige literatuur
-  - Dutch_Literature
-  - Dutch Literature
+- Dutch Literature
+- Dutch-language literature
+- Dutch_Literature
+- Felemenkçe edebiyatı
+- Holandska književnost
+- holland irodalom
+- hollanninkielinen kirjallisuus
+- holländsk litteratur
+- Kesusasteraan Belanda
+- Letteratura olandese
+- Literatura dos Países Baixos
+- literatura en neerlandès
+- Literatura neerlandesa
+- literatura niderlandzkojęzyczna
+- Litterae Nederlandicae
+- Litteratura nederlandese
+- littérature néerlandaise
+- Nederlanderazko literatura
+- Nederlandlingva literaturo
+- Nederlandse letterkunde
+- Nederlandse literatuur
+- Nederlandsk litteratur
+- Nederlandstalige literatuur
+- Nederlânske literatuer
+- Niederländische Literatur
+- Nizozemska književnost
+- nizozemska literatura
+- nizozemská literatura
+- Olandijos literatūra
+- нідерландська література
+- нідэрландская літаратура
+- нідэрляндзкая літаратура
+- нидерландская литература
+- Նիդերլանդական գրականություն
+- أدب اللغة الهولندية
+- ادبیات هلندیزبان
+- オランダ語文学
+- 荷蘭文學
+- 荷蘭文文學
 has_id_wikidata: Q1853321
 subclass_of: '[[_Standards/WikiData/WD~Western_literature,116476]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 instance_of: '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~Dutch,7411]]'
 Basisklassifikation: 18.13
 Krugosvet_article: kultura_i_obrazovanie/literatura/NIDERLANDSKAYA_LITERATURA.html
 Commons_category: Literature of the Netherlands
+dv_has_:
+  name_:
+    af: Nederlandse letterkunde
+    ar: أدب اللغة الهولندية
+    be: нідэрландская літаратура
+    be-tarask: нідэрляндзкая літаратура
+    ca: literatura en neerlandès
+    cs: nizozemská literatura
+    da: Nederlandsk litteratur
+    de: Niederländische Literatur
+    en: Dutch literature
+    eo: Nederlandlingva literaturo
+    es: Literatura neerlandesa
+    eu: Nederlanderazko literatura
+    fa: ادبیات هلندیزبان
+    fi: hollanninkielinen kirjallisuus
+    fr: littérature néerlandaise
+    fy: Nederlânske literatuer
+    hr: Nizozemska književnost
+    hu: holland irodalom
+    hy: Նիդերլանդական գրականություն
+    ia: Litteratura nederlandese
+    it: Letteratura olandese
+    ja: オランダ語文学
+    la: Litterae Nederlandicae
+    li: Nederlandse literatuur
+    lt: Olandijos literatūra
+    ms: Kesusasteraan Belanda
+    nl: Nederlandse literatuur
+    pl: literatura niderlandzkojęzyczna
+    pt: Literatura dos Países Baixos
+    ru: нидерландская литература
+    sl: nizozemska literatura
+    sr: Holandska književnost
+    sv: holländsk litteratur
+    tr: Felemenkçe edebiyatı
+    uk: нідерландська література
+    yue: 荷蘭文文學
+    zh: 荷蘭文學
+    zh-hant: 荷蘭文學
 ---
-
 # [[Dutch_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dutch_literature,1853321|WD~Dutch_literature,1853321]] 

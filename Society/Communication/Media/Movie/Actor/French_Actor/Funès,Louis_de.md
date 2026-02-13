@@ -1,34 +1,60 @@
 ---
 aliases:
-  - Louis_de_Funès
-  - Louis Germain David de Funès de Galarza
-  - Louis de Funès
-  - Funès,Louis_de
-  - Funès,Louis de
+- Funès,Louis de
+- Funès,Louis_de
+- Louis de Funès
+- Louis Germain David de Funès de Galarza
+- Louis_de_Funès
+- Ludovicus de Funès
+- Lui de Fünes
+- Luijs de Finess
+- Λουί ντε Φυνές
+- Луі дэ Фюнэс
+- Луї де Фюнес
+- Луј де Финес
+- Луи де Фюнес
+- Луи дьо Фюнес
+- Луи дэ Фюнэс
+- Луй де Фунес
+- Люі дэ Фюнэс
+- Լուի դը Ֆյունես
+- לואי דה פינס
+- لوئی دوفونس
+- لويس دى فنيس
+- لويس دي فنيس
+- لويی دو فونس
+- لۇئىس دې فىناس
+- லூயிஸ் டெ ஃபூன்ஸ்
+- ლუი დე ფიუნესი
+- ルイ・ド・フュネス
+- 路易·德菲内斯
+- 路易·狄芬尼
+- 路易狄芬尼
+- 루이 드 퓌네스
 has_id_wikidata: Q2737
 place_of_birth: '[[_Standards/WikiData/WD~Courbevoie,189715]]'
 occupation:
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~dub_actor,11481802]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~dub_actor,11481802]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 place_of_burial: '[[_Standards/WikiData/WD~Le_Cellier,664678]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]'
-  - '[[_Standards/WikiData/WD~Cours_Simon,1137719]]'
+- '[[_Standards/WikiData/WD~Lycée_Condorcet,926749]]'
+- '[[_Standards/WikiData/WD~Cours_Simon,1137719]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Germain,1303342]]'
-  - '[[_Standards/WikiData/WD~Louis,2897866]]'
-  - '[[_Standards/WikiData/WD~David,18057751]]'
+- '[[_Standards/WikiData/WD~Germain,1303342]]'
+- '[[_Standards/WikiData/WD~Louis,2897866]]'
+- '[[_Standards/WikiData/WD~David,18057751]]'
 child:
-  - '[[_Standards/WikiData/WD~Olivier_de_Funès,1366088]]'
-  - '[[_Standards/WikiData/WD~Q128903293,128903293]]'
+- '[[_Standards/WikiData/WD~Olivier_de_Funès,1366088]]'
+- '[[_Standards/WikiData/WD~Q128903293,128903293]]'
 filmography: '[[_Standards/WikiData/WD~Louis_Funès_filmography,3072136]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -36,15 +62,15 @@ award_received: '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,1085527
 family: '[[_Standards/WikiData/WD~de_Funès,29511361]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 family_name:
-  - '[[_Standards/WikiData/WD~de_Funès,55146316]]'
-  - '[[_Standards/WikiData/WD~de_Galarza,120401777]]'
+- '[[_Standards/WikiData/WD~de_Funès,55146316]]'
+- '[[_Standards/WikiData/WD~de_Galarza,120401777]]'
 relative:
-  - '[[_Standards/WikiData/WD~Julia_de_Funès,62829112]]'
-  - '[[_Standards/WikiData/WD~Teolindo_Soto_Barro,106531655]]'
+- '[[_Standards/WikiData/WD~Julia_de_Funès,62829112]]'
+- '[[_Standards/WikiData/WD~Teolindo_Soto_Barro,106531655]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Jeanne_de_Funès,106555636]]'
-  - '[[_Standards/WikiData/WD~Germaine_Louise_Élodie_Carroyer,128901115]]'
+- '[[_Standards/WikiData/WD~Jeanne_de_Funès,106555636]]'
+- '[[_Standards/WikiData/WD~Germaine_Louise_Élodie_Carroyer,128901115]]'
 instrument: '[[_Standards/WikiData/WD~piano,5994]]'
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 place_of_death: '[[_Standards/WikiData/WD~Nantes,12191]]'
@@ -63,12 +89,157 @@ official_website: http://www.louisdefunes.com/
 ISNI: 0000000121340520
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FYUNES_LUI_DE.html
 birth_name:
-  - Louis Germain David de Funès de Galarza y Soto
-  - Louis Germain David de Funès de Galarra
+- Louis Germain David de Funès de Galarza y Soto
+- Louis Germain David de Funès de Galarra
 name_in_native_language: Louis de Funès
 date_of_birth: 1914-07-31T00:00:00Z
+dv_has_:
+  name_:
+    af: Louis de Funès
+    an: Louis de Funès
+    ang: Louis de Funès
+    ar: لويس دي فنيس
+    arz: لويس دى فنيس
+    ast: Louis de Funès
+    avk: Louis de Funès
+    az: Lui de Fünes
+    azb: لوئی دوفونس
+    ba: Луи де Фюнес
+    bar: Louis de Funès
+    be: Луі дэ Фюнэс
+    be-tarask: Люі дэ Фюнэс
+    bg: Луи дьо Фюнес
+    bi: Louis de Funès
+    bm: Louis de Funès
+    br: Louis de Funès
+    bs: Louis de Funès
+    ca: Louis de Funès
+    co: Louis de Funès
+    cs: Louis de Funès
+    cy: Louis de Funès
+    da: Louis de Funès
+    de: Louis de Funès
+    de-at: Louis de Funès
+    de-ch: Louis de Funès
+    el: Λουί ντε Φυνές
+    en: Louis de Funès
+    en-ca: Louis de Funès
+    en-gb: Louis de Funès
+    en-us: Louis de Funès
+    eo: Louis de Funès
+    es: Louis de Funès
+    et: Louis de Funès
+    eu: Louis de Funès
+    ext: Louis de Funès
+    fa: لوئی دوفونس
+    fi: Louis de Funès
+    fo: Louis de Funès
+    fr: Louis de Funès
+    frc: Louis de Funès
+    frp: Louis de Funès
+    fur: Louis de Funès
+    fy: Louis de Funès
+    ga: Louis de Funès
+    gd: Louis de Funès
+    gl: Louis de Funès
+    glk: لويی دو فونس
+    gsw: Louis de Funès
+    haw: Louis de Funès
+    he: לואי דה פינס
+    hif: Louis de Funès
+    hr: Louis de Funès
+    ht: Louis de Funès
+    hu: Louis de Funès
+    hy: Լուի դը Ֆյունես
+    ia: Louis de Funès
+    id: Louis de Funès
+    ie: Louis de Funès
+    ilo: Louis de Funès
+    io: Louis de Funès
+    is: Louis de Funès
+    it: Louis de Funès
+    ja: ルイ・ド・フュネス
+    jam: Louis de Funès
+    ka: ლუი დე ფიუნესი
+    kab: Louis de Funès
+    kg: Louis de Funès
+    kk: Луи Де Фюнес
+    kl: Louis de Funès
+    ko: 루이 드 퓌네스
+    la: Ludovicus de Funès
+    lad: Louis de Funès
+    lb: Louis de Funès
+    li: Louis de Funès
+    lij: Louis de Funès
+    lt: Louis de Funès
+    lv: Luijs de Finess
+    mdf: Луи дэ Фюнэс
+    mg: Louis de Funès
+    mi: Louis de Funès
+    min: Louis de Funès
+    mn: Луй де Фунес
+    ms: Louis de Funès
+    mul: Louis de Funès
+    nah: Louis de Funès
+    nap: Louis de Funès
+    nb: Louis de Funès
+    nds: Louis de Funès
+    nds-nl: Louis de Funès
+    nl: Louis de Funès
+    nn: Louis de Funès
+    nrm: Louis de Funès
+    oc: Louis de Funès
+    olo: Louis de Funès
+    pap: Louis de Funès
+    pcd: Louis de Funès
+    pl: Louis de Funès
+    pms: Louis de Funès
+    prg: Louis de Funès
+    pt: Louis de Funès
+    pt-br: Louis de Funès
+    qu: Louis de Funès
+    rgn: Louis de Funès
+    rm: Louis de Funès
+    rn: Louis de Funès
+    ro: Louis de Funès
+    ru: Луи де Фюнес
+    sah: Louis de Funès
+    sc: Louis de Funès
+    scn: Louis de Funès
+    sco: Louis de Funès
+    sh: Louis de Funès
+    sk: Louis de Funès
+    sl: Louis de Funès
+    sq: Louis de Funès
+    sr: Луј де Финес
+    sr-ec: Луј де Финес
+    sr-el: Louis de Funès
+    sv: Louis de Funès
+    sw: Louis de Funès
+    szl: Louis de Funès
+    ta: லூயிஸ் டெ ஃபூன்ஸ்
+    tr: Louis de Funès
+    tt: Луи де Фюнес
+    ug: لۇئىس دې فىناس
+    ug-arab: لۇئىس دې فىناس
+    uk: Луї де Фюнес
+    vec: Louis de Funès
+    vi: Louis de Funès
+    vls: Louis de Funès
+    vmf: Louis de Funès
+    vo: Louis de Funès
+    wa: Louis de Funès
+    war: Louis de Funès
+    wo: Louis de Funès
+    wuu: 路易·德菲内斯
+    xmf: ლუი დე ფიუნესი
+    yue: 路易狄芬尼
+    zh: 路易·德菲内斯
+    zh-hans: 路易·狄芬尼
+    zh-my: 路易·狄芬尼
+    zh-sg: 路易·狄芬尼
+    zu: Louis de Funès
 ---
-
 # [[Funès,Louis_de]] 
 
 #is_/same_as :: [[WD~Louis_de_Funès,2737]]  

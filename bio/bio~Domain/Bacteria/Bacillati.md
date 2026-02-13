@@ -1,4 +1,41 @@
-
+---
+has_id_wikidata: Q124372015
+dv_has_:
+  name_:
+    an: Bacillati
+    ast: Bacillati
+    ca: Bacillati
+    de: Bacillati
+    en: Bacillati
+    eo: Bacillati
+    es: Bacillati
+    eu: Bacillati
+    ext: Bacillati
+    fr: Bacillati
+    ga: Bacillati
+    gl: Bacillati
+    ia: Bacillati
+    ie: Bacillati
+    io: Bacillati
+    it: Bacillati
+    ja: バシラス界
+    la: Bacillati
+    mul: Bacillati
+    nl: Bacillati
+    oc: Bacillati
+    pl: Bacillati
+    pt: Bacillati
+    pt-br: Bacillati
+    ru: Bacillati
+    sl: Bacillati
+    sv: Bacillati
+    vo: Bacillati
+    zh: 芽孢杆菌界
+aliases:
+- Bacillati
+- バシラス界
+- 芽孢杆菌界
+---
 # [[Bacillati]] 
 
 

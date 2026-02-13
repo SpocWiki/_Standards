@@ -1,39 +1,149 @@
 ---
-has_time_stopped: 1066-01-01 
+has_time_stopped: 1066-01-01
 aliases:
+- Aajdingels
+- Aldingelsk
+- Altenglisch
+- Ancien Angliana
+- Angeleg
+- angelsaksisk
+- Angelsassische Sprake
+- Anglese antique
+- Anglo-Sassoni
+- anglosaksa lingvo
+- anglosaxoiera
+- Anglosaxon
+- anglosaština
+- Anglsaxische Sproch
+- anglès antic
+- Auld Inglis leid
+- Bahasa Inggeris Kuno
+- bahasa Inggris Kuno
+- Basa Inggris Kuna
+- Daan nga Ingles
+- dološ eaŋgalasgiella
+- Engles antica
+- Eski İngilizce
+- fornengelska
+- Fornenska
+- Fornenskt mál
+- gammalengelsk
+- gammelengelsk
+- Gjuha e vjetër angleze
+- hensaozneg
+- Huehcāuh Inglatlahtōlli
+- Idioma anglés antigo
+- inglese antico
+- inglezo antigo
+- inglés antigo
+- inglés antiguo
+- inglés antiguu
+- inglês antigo
+- inglîziya kevn
+- język staroangielski
+- Kiingereza cha Kale
+- Kó͘ Eng-gí
+- Köhnə ingilis dili
+- Limba engleză veche
+- lingua Anglica antiqua
+- Lingua Anglo-saksona
+- língua inglesa antiga
+- muinaisenglanti
+- ngrisi anticu
+- Old English
+- Ou Engels
+- Oudengels
+- Oudiengels
+- Purana English
+- Reo Ingarihi Inamata
+- Sean-Bhéarla
+- Senangļu valoda
+- Senoji anglų kalba
+- stara angleščina
+- staroangličtina
+- Staroengleski jezik
+- tiếng Anh cổ
+- toki Inli majuna
+- Ualingels
+- Vanainglise keel
+- vieil anglais
+- Vuur aunglleis
+- Vöna-Linglänapük
+- Ænglisc sprǣc
+- Ñawpa Inlis simi
+- óangol
+- Παλαιά αγγλική γλώσσα
+- Ажәытә англыз бызшәа
+- Важ англичан кыв
+- давньоанглійська мова
+- древнеанглийский язык
+- иске инглиз теле
+- Көне ағылшын тілі
+- рагон англисаг æвзаг
+- стараангельская мова
+- старажытнаанглійская мова
+- Староанглийски език
+- староанглиски јазик
+- староенглески језик
+- հին անգլերեն
+- אנגלית עתיקה
+- ئینگلیزیی کۆن
+- الإنجليزية القديمة
+- زبان انگلیسی باستان
+- زړه انگليسي
+- قدیم انگریزی
+- قدیمی اینگیلیسی
+- پراڻي انگريزي
+- پراݨی انگریزی
+- ऐंग्लो-सैक्सन भाषा
+- पुरातन अङ्ग्रेजी
+- पुरानऽ अंगरेजी भाषा
+- প্রাচীন ইংরেজি ভাষা
+- ਪੁਰਾਣੀ ਅੰਗਰੇਜ਼ੀ
+- பண்டைய ஆங்கிலம்
+- ภาษาอังกฤษเก่า
+- ພາສາອັງກິດເກົ່າ
+- ძველი ინგლისური ენა
+- ጥንታዊ እንግሊዝኛ
+- ᱢᱟᱨᱮ ᱤᱝᱞᱤᱥ ᱯᱟᱹᱨᱥᱤ
+- 古英文
+- 古英語
+- 古英语
+- ꯑꯔꯤꯕ ꯏꯪꯂꯤꯁ ꯂꯣꯟ
+- 고대 영어
 has_id_wikidata: Q42365
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~nominative_accusative_language,178435]]"
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
-  - "[[_Standards/WikiData/WD~V2_word_order,1516105]]"
-  - "[[_Standards/WikiData/WD~stress_timed_language,7888721]]"
+- '[[_Standards/WikiData/WD~nominative_accusative_language,178435]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~V2_word_order,1516105]]'
+- '[[_Standards/WikiData/WD~stress_timed_language,7888721]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subclass_of: "[[_Standards/WikiData/WD~Anglic,1346342]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subclass_of: '[[_Standards/WikiData/WD~Anglic,1346342]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~futhark,1937113]]"
-  - "[[_Standards/WikiData/WD~Latin_script,8229]]"
+- '[[_Standards/WikiData/WD~futhark,1937113]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~historical_language,2315359]]"
-  - "[[_Standards/WikiData/WD~extinct_language,38058796]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-  - "[[_Standards/WikiData/WD~dead_language,45762]]"
-different_from: "[[_Standards/WikiData/WD~Q11732661,11732661]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q36457709,36457709]]"
+- '[[_Standards/WikiData/WD~historical_language,2315359]]'
+- '[[_Standards/WikiData/WD~extinct_language,38058796]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~dead_language,45762]]'
+different_from: '[[_Standards/WikiData/WD~Q11732661,11732661]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q36457709,36457709]]'
 end_time: 1066-01-01T00:00:00Z
 indigenous_to:
-  - "[[_Standards/WikiData/WD~Scotland,22]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-  - "[[_Standards/WikiData/WD~British_Isles,38272]]"
+- '[[_Standards/WikiData/WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~British_Isles,38272]]'
 number_of_speakers_writers_or_signers: 0
-replaced_by: "[[_Standards/WikiData/WD~Middle_English,36395]]"
+replaced_by: '[[_Standards/WikiData/WD~Middle_English,36395]]'
 Dewey_Decimal_Classification:
-  - "420"
-  - "429"
+- 420
+- 429
 ISO_639_6_code: ango
 POSIX_locale_identifier: ang
 Linguist_List_code: ang
@@ -52,8 +162,128 @@ Glottolog_code: olde1238
 subreddit: OldEnglish
 GOST_7_75_97_code: ста 623
 native_label: Ænglisc sprǣc
+dv_has_:
+  name_:
+    ab: Ажәытә англыз бызшәа
+    af: Ou Engels
+    am: ጥንታዊ እንግሊዝኛ
+    an: Idioma anglés antigo
+    ang: Ænglisc sprǣc
+    anp: पुरानऽ अंगरेजी भाषा
+    ar: الإنجليزية القديمة
+    ast: inglés antiguu
+    az: Köhnə ingilis dili
+    bar: Anglsaxische Sproch
+    be: старажытнаанглійская мова
+    be-tarask: стараангельская мова
+    bg: Староанглийски език
+    bn: প্রাচীন ইংরেজি ভাষা
+    br: hensaozneg
+    ca: anglès antic
+    ckb: ئینگلیزیی کۆن
+    cs: staroangličtina
+    cy: Angeleg
+    da: angelsaksisk
+    de: Altenglisch
+    de-ch: Altenglisch
+    el: Παλαιά αγγλική γλώσσα
+    en: Old English
+    en-us: Old English
+    eo: anglosaksa lingvo
+    es: inglés antiguo
+    et: Vanainglise keel
+    eu: anglosaxoiera
+    fa: زبان انگلیسی باستان
+    fi: muinaisenglanti
+    fo: Fornenskt mál
+    fr: vieil anglais
+    frr: Ualingels
+    fy: Aldingelsk
+    ga: Sean-Bhéarla
+    gl: inglés antigo
+    glk: قدیمی اینگیلیسی
+    he: אנגלית עתיקה
+    hi: ऐंग्लो-सैक्सन भाषा
+    hif: Purana English
+    hr: Staroengleski jezik
+    hu: óangol
+    hy: հին անգլերեն
+    ia: Anglese antique
+    id: bahasa Inggris Kuno
+    ilo: Daan nga Ingles
+    io: Ancien Angliana
+    is: Fornenska
+    it: inglese antico
+    ja: 古英語
+    jv: Basa Inggris Kuna
+    ka: ძველი ინგლისური ენა
+    kk: Көне ағылшын тілі
+    ko: 고대 영어
+    ku: inglîziya kevn
+    kv: Важ англичан кыв
+    la: lingua Anglica antiqua
+    lad: Lingua Anglo-saksona
+    lfn: Engles antica
+    li: Aajdingels
+    lo: ພາສາອັງກິດເກົ່າ
+    lt: Senoji anglų kalba
+    lv: Senangļu valoda
+    mi: Reo Ingarihi Inamata
+    mk: староанглиски јазик
+    mni: ꯑꯔꯤꯕ ꯏꯪꯂꯤꯁ ꯂꯣꯟ
+    ms: Bahasa Inggeris Kuno
+    mt: Anglo-Sassoni
+    nah: Huehcāuh Inglatlahtōlli
+    nan: Kó͘ Eng-gí
+    nb: gammelengelsk
+    nds: Angelsassische Sprake
+    ne: पुरातन अङ्ग्रेजी
+    nl: Oudengels
+    nn: gammalengelsk
+    nrm: Vuur aunglleis
+    oc: Anglosaxon
+    os: рагон англисаг æвзаг
+    pa: ਪੁਰਾਣੀ ਅੰਗਰੇਜ਼ੀ
+    pl: język staroangielski
+    pnb: پراݨی انگریزی
+    ps: زړه انگليسي
+    pt: inglês antigo
+    pt-br: língua inglesa antiga
+    qu: Ñawpa Inlis simi
+    ro: Limba engleză veche
+    ru: древнеанглийский язык
+    sat: ᱢᱟᱨᱮ ᱤᱝᱞᱤᱥ ᱯᱟᱹᱨᱥᱤ
+    scn: ngrisi anticu
+    sco: Auld Inglis leid
+    sd: پراڻي انگريزي
+    se: dološ eaŋgalasgiella
+    sh: Staroengleski jezik
+    sk: anglosaština
+    sl: stara angleščina
+    sq: Gjuha e vjetër angleze
+    sr: староенглески језик
+    sr-ec: староенглески језик
+    sr-el: staroengleski jezik
+    sv: fornengelska
+    sw: Kiingereza cha Kale
+    ta: பண்டைய ஆங்கிலம்
+    th: ภาษาอังกฤษเก่า
+    tok: toki Inli majuna
+    tr: Eski İngilizce
+    tt: иске инглиз теле
+    uk: давньоанглійська мова
+    ur: قدیم انگریزی
+    vec: inglezo antigo
+    vi: tiếng Anh cổ
+    vls: Oudiengels
+    vo: Vöna-Linglänapük
+    wuu: 古英语
+    yue: 古英文
+    zh: 古英語
+    zh-hant: 古英語
+    zh-hk: 古英語
+    zh-tw: 古英語
 ---
-
 # [[Old_English]] 
 
 #is_/same_as :: [[WD~Old_English,42365]] 

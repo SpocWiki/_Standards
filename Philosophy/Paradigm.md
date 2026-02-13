@@ -1,15 +1,128 @@
 ---
 aliases:
+- mẫu hình
+- paradigm
+- paradigma
+- paradigme
+- Paradigmo
+- paradigmă
+- paradiqma
+- paradygmat
+- paraidím
+- Parariqma
+- patrwm
+- scienca paradigmo
+- παράδειγμα
+- Парадіґма
+- парадигма
+- парадыгма
+- Պարադիգմ
+- פרדיגמה
+- الگوواره
+- نموذج فكري
+- پئراڊائيم
+- پارادایم
+- তাত্ত্বিক পরিকাঠামো
+- ਪੈਰਾਡਾਈਮ
+- கருத்தோட்டம்
+- กระบวนทัศน์
+- パラダイム
+- 典範
+- 範式
+- 范式
+- 패러다임
 has_id_wikidata: Q28643
-different_from: "[[_Standards/WikiData/WD~Paradigm,344284]]"
-subclass_of: "[[_Standards/WikiData/WD~pattern,2083958]]"
-instance_of: "[[_Standards/WikiData/WD~philosophical_concept,33104279]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+different_from: '[[_Standards/WikiData/WD~Paradigm,344284]]'
+subclass_of: '[[_Standards/WikiData/WD~pattern,2083958]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 Commons_category: Paradigm
 Library_of_Congress_Classification: BD225
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/PARADIGMA.html
+dv_has_:
+  name_:
+    ar: نموذج فكري
+    ast: Paradigma
+    az: paradiqma
+    be-tarask: парадыгма
+    bg: Парадигма
+    bn: তাত্ত্বিক পরিকাঠামো
+    bs: paradigma
+    btm: paradigma
+    ca: paradigma
+    ckb: پارادایم
+    cs: paradigma
+    cy: patrwm
+    da: paradigme
+    de: Paradigma
+    el: παράδειγμα
+    en: paradigm
+    eo: scienca paradigmo
+    es: paradigma
+    et: paradigma
+    eu: Paradigma
+    fa: الگوواره
+    fi: paradigma
+    fr: paradigme
+    ga: paraidím
+    gl: paradigma
+    he: פרדיגמה
+    hr: Paradigma
+    hu: paradigma
+    hy: Պարադիգմ
+    id: paradigma
+    io: Paradigmo
+    it: paradigma
+    ja: パラダイム
+    ki: Paradigm
+    ko: 패러다임
+    ky: парадигма
+    la: Paradigma
+    lt: paradigma
+    lv: paradigma
+    mk: парадигма
+    ms: Paradigma
+    mwl: Paradigma
+    nb: paradigme
+    nds: Paradigma
+    nl: paradigma
+    nn: paradigme
+    oc: paradigma
+    pa: ਪੈਰਾਡਾਈਮ
+    pl: paradygmat
+    pms: Paradigma
+    pt: paradigma
+    qu: Parariqma
+    ro: paradigmă
+    ru: парадигма
+    rue: Парадіґма
+    sd: پئراڊائيم
+    se: paradigma
+    sh: Paradigma
+    sk: paradigma
+    sl: paradigma
+    smn: paradigma
+    sms: paradigma
+    sq: Paradigma
+    sr: парадигма
+    sr-ec: парадигма
+    sr-el: paradigma
+    sv: paradigm
+    ta: கருத்தோட்டம்
+    th: กระบวนทัศน์
+    tk: Paradigma
+    tl: Paradigmo
+    tr: paradigma
+    tt: парадигма
+    uk: парадигма
+    uz: Paradigma
+    vi: mẫu hình
+    war: Paradigma
+    wuu: 范式
+    yue: 範式
+    zh: 范式
+    zh-tw: 典範
 ---
-
 # [[Paradigm]] 
 
 #is_/same_as :: [[WD~Paradigm,28643]] 

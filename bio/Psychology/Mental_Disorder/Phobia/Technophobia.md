@@ -1,15 +1,103 @@
 ---
 aliases:
+- Hội chứng sợ công nghệ hiện đại
+- Technofobie
+- technofobija
+- technofóbia
+- technophobia
+- Technophobie
+- tecnofobia
+- Tecnofobìa
+- tecnofòbia
+- tehnofobija
+- teknofobi
+- Teknofobia
+- Teunofobia
+- Texnofobiya
+- Texnofobïya
+- teĥnofobio
+- timor technologiae
+- τεχνοφοβία
+- технофобія
+- Технофобија
+- технофобия
+- тэхнафобія
+- Տեխնոֆոբիա
+- טכנופוביה
+- تەحنوفوبىييا
+- رهاب التقانة
+- فناوریهراسی
+- டெக்னோபோபியா
+- კიბერფობია
+- 恐科技者
+- 科学技術恐怖症
+- 科技恐惧症
+- 科技恐懼
+- 科技恐懼症
+- 테크노포비아
 has_id_wikidata: Q1042900
-instance_of: "[[_Standards/WikiData/WD~phobia,175854]]"
-opposite_of: "[[_Standards/WikiData/WD~technophilia,1658941]]"
-subclass_of: "[[_Standards/WikiData/WD~mechanophobia,18389618]]"
-main_subject: "[[_Standards/WikiData/WD~technology,11016]]"
+instance_of: '[[_Standards/WikiData/WD~phobia,175854]]'
+opposite_of: '[[_Standards/WikiData/WD~technophilia,1658941]]'
+subclass_of: '[[_Standards/WikiData/WD~mechanophobia,18389618]]'
+main_subject: '[[_Standards/WikiData/WD~technology,11016]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fear%20computer.jpg
 Wolfram_Language_entity_code: Entity["Concept", "Technophobia::y5s74"]
 Archive_of_Our_Own_tag: technophobia
+dv_has_:
+  name_:
+    ar: رهاب التقانة
+    ast: Teunofobia
+    az: Texnofobiya
+    be-tarask: тэхнафобія
+    bg: Технофобия
+    ca: tecnofòbia
+    cs: Technofobie
+    de: Technophobie
+    el: τεχνοφοβία
+    en: technophobia
+    en-ca: Technophobia
+    en-gb: Technophobia
+    eo: teĥnofobio
+    es: tecnofobia
+    eu: Teknofobia
+    fa: فناوریهراسی
+    fi: teknofobia
+    fr: technophobie
+    he: טכנופוביה
+    hu: technofóbia
+    hy: Տեխնոֆոբիա
+    id: Teknofobia
+    it: tecnofobia
+    ja: 科学技術恐怖症
+    ka: კიბერფობია
+    kk: Технофобия
+    kk-arab: تەحنوفوبىييا
+    kk-cyrl: Технофобия
+    kk-latn: Texnofobïya
+    ko: 테크노포비아
+    la: timor technologiae
+    lt: technofobija
+    mk: Технофобија
+    nl: technofobie
+    pms: Tecnofobìa
+    pt: tecnofobia
+    pt-br: Tecnofobia
+    ru: технофобия
+    sl: tehnofobija
+    sr: Технофобија
+    su: Teknofobia
+    sv: teknofobi
+    ta: டெக்னோபோபியா
+    tr: Teknofobi
+    uk: технофобія
+    uz: Texnofobiya
+    vi: Hội chứng sợ công nghệ hiện đại
+    yue: 科技恐懼
+    zh: 恐科技者
+    zh-cn: 科技恐惧症
+    zh-hans: 科技恐惧症
+    zh-hant: 科技恐懼症
 ---
-
 # [[Technophobia]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Technophobia,1042900|WD~Technophobia,1042900]]  

@@ -1,12 +1,67 @@
 ---
 aliases:
-  - strategic management
-  - Economic_Strategy
-  - Economic Strategy
+- administratio strategica
+- adminstrare strategică
+- Economic Strategy
+- Economic_Strategy
+- forretningsstrategi
+- gestió estratègica
+- gestión estratégica
+- gestão estratégica de empresas
+- Kudeaketa estrategiko
+- liikkeenjohdon strategia
+- management stratégique
+- Manajemen strategis
+- Pamamahalang may estratehiya
+- pengurusan strategi
+- quản trị chiến lược
+- rheolaeth strategol
+- Stefnumótun
+- strategia d'impresa
+- strategic management
+- strategický management
+- Strategický manažment
+- strategiese bestuur
+- Strategija u ekonomiji
+- strategio de entrepreno
+- strategisch management
+- strategisches Management
+- strategisk ledelse
+- strategisk ledning
+- strateji menecment
+- stratejik yönetim
+- stratezia de inpreza
+- strateški menedžment
+- strateško upravljanje
+- stratēģiskā vadība
+- xestión estratéxica
+- zarządzanie strategiczne
+- στρατηγική διαχείριση
+- стратегічний менеджмент
+- Стратегическо управление
+- стратегическое управление
+- стратегиялык менеджмент
+- стратешко управљање
+- стратешко управување
+- стратэгічны мэнэджмэнт
+- אסטרטגיה עסקית
+- إدارة إستراتيجية
+- ستراتيژيک مديريت
+- مدیریت راهبردی
+- ڤڠوروسن ستراتيݢي
+- निर्णायक प्रबन्धन
+- ਰਣਨੀਤਕ ਪ੍ਰਬੰਧਨ
+- வர்த்தக உத்தி
+- උපායමාර්ගික කළමනාකරණය
+- မဟာဗျူဟာ စီမံခန့်ခွဲမှု
+- 战略管理
+- 策略管理
+- 経営戦略論
+- 전략적 관리
 has_id_wikidata: Q376657
 subclass_of:
-  - '[[_Standards/WikiData/WD~management,2920921]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~management,2920921]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 has_characteristic: '[[_Standards/WikiData/WD~strategic_thinking,7621861]]'
 uses: '[[_Standards/WikiData/WD~strategic_management_process,30673599]]'
 practiced_by: '[[_Standards/WikiData/WD~strategic_manager,38357345]]'
@@ -14,8 +69,73 @@ instance_of: '[[_Standards/WikiData/WD~type_of_management,96247293]]'
 All_Science_Journal_Classification_Codes: 1408
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/Strategic_management
 Commons_category: Strategic management
+dv_has_:
+  name_:
+    af: strategiese bestuur
+    ar: إدارة إستراتيجية
+    az: strateji menecment
+    be-tarask: стратэгічны мэнэджмэнт
+    bg: Стратегическо управление
+    ca: gestió estratègica
+    cs: strategický management
+    cy: rheolaeth strategol
+    da: strategisk ledelse
+    de: strategisches Management
+    el: στρατηγική διαχείριση
+    en: strategic management
+    eo: strategio de entrepreno
+    es: gestión estratégica
+    eu: Kudeaketa estrategiko
+    fa: مدیریت راهبردی
+    fi: liikkeenjohdon strategia
+    fr: management stratégique
+    gl: xestión estratéxica
+    he: אסטרטגיה עסקית
+    hi: निर्णायक प्रबन्धन
+    hr: Strategija u ekonomiji
+    id: Manajemen strategis
+    is: Stefnumótun
+    it: strategia d'impresa
+    ja: 経営戦略論
+    ko: 전략적 관리
+    ky: стратегиялык менеджмент
+    la: administratio strategica
+    lv: stratēģiskā vadība
+    mk: стратешко управување
+    ms: pengurusan strategi
+    ms-arab: ڤڠوروسن ستراتيݢي
+    my: မဟာဗျူဟာ စီမံခန့်ခွဲမှု
+    nb: forretningsstrategi
+    nl: strategisch management
+    pa: ਰਣਨੀਤਕ ਪ੍ਰਬੰਧਨ
+    pl: zarządzanie strategiczne
+    ps: ستراتيژيک مديريت
+    pt: gestão estratégica de empresas
+    pt-br: gestão estratégica de empresas
+    ro: adminstrare strategică
+    ru: стратегическое управление
+    si: උපායමාර්ගික කළමනාකරණය
+    sk: Strategický manažment
+    sl: strateški menedžment
+    sr: стратешко управљање
+    sr-ec: стратешко управљање
+    sr-el: strateško upravljanje
+    sv: strategisk ledning
+    ta: வர்த்தக உத்தி
+    tl: Pamamahalang may estratehiya
+    tr: stratejik yönetim
+    uk: стратегічний менеджмент
+    vec: stratezia de inpreza
+    vi: quản trị chiến lược
+    yue: 策略管理
+    zh: 战略管理
+    zh-cn: 战略管理
+    zh-hans: 战略管理
+    zh-hant: 策略管理
+    zh-hk: 策略管理
+    zh-sg: 战略管理
+    zh-tw: 策略管理
 ---
-
 # [[Economic_Strategy]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~strategic_management,376657]] 

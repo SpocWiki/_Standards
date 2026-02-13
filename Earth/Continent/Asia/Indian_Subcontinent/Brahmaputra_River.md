@@ -2,78 +2,138 @@
 dv_"River", "Brahmaputra: 23z35"
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]]"
-    - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]]"
-    - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]]"
+  - '[[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]]'
+  - '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]]'
+  - '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]]'
 dv_river-brahmaputra: 23z35"
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]]"
-  - "[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]]"
-  - "[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]]"
-
-location: [ 91.746833333 , 26.200722222 ] 
+- '[[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]]'
+- '[[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River|Brahmaputra_River]]'
+- '[[/_public/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.public|Brahmaputra_River.public]]'
+- '[[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.internal|Brahmaputra_River.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.protect|Brahmaputra_River.protect]]'
+- '[[/_private/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.private|Brahmaputra_River.private]]'
+- '[[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.personal|Brahmaputra_River.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Brahmaputra_River.secret|Brahmaputra_River.secret]]'
+location:
+- 91.746833333
+- 26.200722222
 aliases:
-  - Brahmaputra River
-  - Luit
-  - Yarlung Tsangpo
-  - Siang
-  - Dihang
-  - Jamuna
-  - Brahmaputra_River
+- Abhainn Brahmaputra
+- Afon Brahmaputra
+- Brahmapoutra
+- Brahmapoutre
+- Brahmaputra
+- Brahmaputra Naddi
+- Brahmaputra Nehri
+- Brahmaputra River
+- Brahmaputra çayı
+- Brahmaputra_River
+- Bramaputra
+- Bramaputro
+- Bramapútra
+- Dihang
+- Fiume Brahmaputra
+- Jamuna
+- Kali Brahmaputra
+- Luit
+- Mto Brahmaputra
+- Rio Brahmaputra
+- Rio Bramaputra
+- Río Brahmaputra
+- Siang
+- Sungai Brahmaputra
+- Tukad Brahmaputra
+- Yarlung Tsangpo
+- Βραχμαπούτρας
+- Брамапутра
+- Брахмапутрæ
+- Брахмапутра
+- Брахмапутра өзені
+- Браһмапутра
+- Дарёи Браҳмапутра
+- Рака Брахмапутра
+- Բրահմապուտրա
+- בראהמאפוטרה
+- براهماپوترا
+- براهماپوترا چایی
+- برہم پترا
+- دریائے برہم پتر
+- رود براهماپوترا
+- نهر براهمابوترا
+- ڕووباری براھماپوترا
+- ब्रह्मपुत्र
+- ब्रह्मपुत्र खुसि
+- ब्रह्मपुत्र नदी
+- ब्रह्मपुत्रनदः
+- ब्रह्मपुत्रा नदी
+- ব্রহ্মপুত্র নদ
+- ব্ৰহ্মপুত্ৰ নদ
+- ਬ੍ਰੰਮਪੁੱਤਰ ਦਰਿਆ
+- બ્રહ્મપુત્રા નદી
+- ବ୍ରହ୍ମପୁତ୍ର ନଦୀ
+- பிரம்மபுத்திரா ஆறு
+- బ్రహ్మపుత్రా నది
+- ಬ್ರಹ್ಮಪುತ್ರ
+- ബ്രഹ്മപുത്ര നദി
+- แม่น้ำพรหมบุตร
+- ཡར་ཀླུང་གཙང་པོ་
+- ბრაჰმაპუტრა
+- ទន្លេព្រហ្មបុត្រ
+- ᱵᱨᱚᱢᱦᱚᱯᱩᱛᱨᱚ ᱜᱟᱰᱟ
+- ブラマプトラ川
+- 布拉馬普特拉河
+- 布拉马普特拉河
+- 브라마푸트라강
 has_id_wikidata: Q45403
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
 tributary:
-  - "[[_Standards/WikiData/WD~Sankosh_River,629894]]"
-  - "[[_Standards/WikiData/WD~Teesta_River,907883]]"
-  - "[[_Standards/WikiData/WD~Lohit_River,1083286]]"
-  - "[[_Standards/WikiData/WD~Myang_Chu,1557805]]"
-  - "[[_Standards/WikiData/WD~Subansiri_River,1709162]]"
-  - "[[_Standards/WikiData/WD~Dhansiri_River,1755951]]"
-  - "[[_Standards/WikiData/WD~Lhasa_River,1795013]]"
-  - "[[_Standards/WikiData/WD~Nyang_River,2005922]]"
-  - "[[_Standards/WikiData/WD~Manas_River,2015702]]"
-  - "[[_Standards/WikiData/WD~Torsa_River,2066287]]"
-  - "[[_Standards/WikiData/WD~Buriganga_River,2991464]]"
-  - "[[_Standards/WikiData/WD~River_Diphlu,3028861]]"
-  - "[[_Standards/WikiData/WD~Raidāk_River,3647339]]"
-  - "[[_Standards/WikiData/WD~Kameng_River,3652914]]"
-  - "[[_Standards/WikiData/WD~Dibang_River,4161089]]"
-  - "[[_Standards/WikiData/WD~Dihing_River,5276409]]"
-  - "[[_Standards/WikiData/WD~Jaldhaka_River,6126710]]"
-  - "[[_Standards/WikiData/WD~Kopili_River,11929642]]"
-  - "[[_Standards/WikiData/WD~Gangadhar,18169637]]"
-  - "[[_Standards/WikiData/WD~Siyom,20826529]]"
-  - "[[_Standards/WikiData/WD~Beki_River,27997052]]"
-category_for_the_water_basin: "[[_Standards/WikiData/WD~Q7454405,7454405]]"
-drainage_basin: "[[_Standards/WikiData/WD~Brahmaputra_Basin,46483425]]"
+- '[[_Standards/WikiData/WD~Sankosh_River,629894]]'
+- '[[_Standards/WikiData/WD~Teesta_River,907883]]'
+- '[[_Standards/WikiData/WD~Lohit_River,1083286]]'
+- '[[_Standards/WikiData/WD~Myang_Chu,1557805]]'
+- '[[_Standards/WikiData/WD~Subansiri_River,1709162]]'
+- '[[_Standards/WikiData/WD~Dhansiri_River,1755951]]'
+- '[[_Standards/WikiData/WD~Lhasa_River,1795013]]'
+- '[[_Standards/WikiData/WD~Nyang_River,2005922]]'
+- '[[_Standards/WikiData/WD~Manas_River,2015702]]'
+- '[[_Standards/WikiData/WD~Torsa_River,2066287]]'
+- '[[_Standards/WikiData/WD~Buriganga_River,2991464]]'
+- '[[_Standards/WikiData/WD~River_Diphlu,3028861]]'
+- '[[_Standards/WikiData/WD~Raidāk_River,3647339]]'
+- '[[_Standards/WikiData/WD~Kameng_River,3652914]]'
+- '[[_Standards/WikiData/WD~Dibang_River,4161089]]'
+- '[[_Standards/WikiData/WD~Dihing_River,5276409]]'
+- '[[_Standards/WikiData/WD~Jaldhaka_River,6126710]]'
+- '[[_Standards/WikiData/WD~Kopili_River,11929642]]'
+- '[[_Standards/WikiData/WD~Gangadhar,18169637]]'
+- '[[_Standards/WikiData/WD~Siyom,20826529]]'
+- '[[_Standards/WikiData/WD~Beki_River,27997052]]'
+category_for_the_water_basin: '[[_Standards/WikiData/WD~Q7454405,7454405]]'
+drainage_basin: '[[_Standards/WikiData/WD~Brahmaputra_Basin,46483425]]'
 basin_country:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 country:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Nepal,837]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Ganges,5089]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Nepal,837]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Ganges,5089]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 length: 2900
 discharge: 19500
 watershed_area: 651334
@@ -83,8 +143,119 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Brahmapout
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AC%E0%A7%8D%E0%A6%B0%E0%A6%B9%E0%A7%8D%E0%A6%AE%E0%A6%AA%E0%A7%81%E0%A6%A4%E0%A7%8D%E0%A6%B0%20%E0%A6%A8%E0%A6%A6.wav
 Wolfram_Language_entity_code: Entity"River", "Brahmaputra = `=this.dv_"River", "Brahmaputra`
 coordinate_location: Point(91.746833333 26.200722222)
+dv_has_:
+  name_:
+    af: Brahmaputra
+    anp: ब्रह्मपुत्र
+    ar: نهر براهمابوترا
+    arz: نهر براهمابوترا
+    as: ব্ৰহ্মপুত্ৰ নদ
+    ast: Brahmaputra
+    awa: ब्रह्मपुत्र नदी
+    az: Brahmaputra çayı
+    azb: براهماپوترا چایی
+    ba: Брахмапутра
+    ban: Tukad Brahmaputra
+    bcl: Brahmaputra
+    be: Рака Брахмапутра
+    be-tarask: Брахмапутра
+    bg: Брахмапутра
+    bho: ब्रह्मपुत्र
+    bn: ব্রহ্মপুত্র নদ
+    bo: ཡར་ཀླུང་གཙང་པོ་
+    br: Brahmapoutra
+    bs: Brahmaputra
+    ca: Brahmaputra
+    ckb: ڕووباری براھماپوترا
+    cs: Brahmaputra
+    cy: Afon Brahmaputra
+    da: Brahmaputra
+    de: Brahmaputra
+    dty: ब्रह्मपुत्र नदी
+    el: Βραχμαπούτρας
+    en: Brahmaputra River
+    eo: Bramaputro
+    es: Brahmaputra
+    et: Brahmaputra
+    eu: Brahmaputra
+    fa: رود براهماپوترا
+    fi: Brahmaputra
+    fr: Brahmapoutre
+    frr: Brahmaputra
+    ga: Abhainn Brahmaputra
+    gl: Río Brahmaputra
+    gu: બ્રહ્મપુત્રા નદી
+    he: בראהמאפוטרה
+    hi: ब्रह्मपुत्र नदी
+    hif: Brahmaputra Naddi
+    hr: Brahmaputra
+    hu: Brahmaputra
+    hy: Բրահմապուտրա
+    id: Sungai Brahmaputra
+    io: Brahmaputra
+    is: Bramapútra
+    it: Brahmaputra
+    ja: ブラマプトラ川
+    jv: Kali Brahmaputra
+    ka: ბრაჰმაპუტრა
+    kk: Брахмапутра өзені
+    km: ទន្លេព្រហ្មបុត្រ
+    kn: ಬ್ರಹ್ಮಪುತ್ರ
+    ko: 브라마푸트라강
+    ky: Брахмапутра
+    la: Brahmaputra
+    lfn: Rio Brahmaputra
+    lmo: Brahmaputra
+    lt: Bramaputra
+    lv: Brahmaputra
+    mai: ब्रह्मपुत्र नदी
+    mk: Брамапутра
+    ml: ബ്രഹ്മപുത്ര നദി
+    mr: ब्रह्मपुत्रा नदी
+    ms: Sungai Brahmaputra
+    mzn: براهماپوترا
+    nb: Brahmaputra
+    ne: ब्रह्मपुत्र नदी
+    new: ब्रह्मपुत्र खुसि
+    nl: Brahmaputra
+    nn: Brahmaputra
+    oc: Brahmaputra
+    or: ବ୍ରହ୍ମପୁତ୍ର ନଦୀ
+    os: Брахмапутрæ
+    pa: ਬ੍ਰੰਮਪੁੱਤਰ ਦਰਿਆ
+    pl: Brahmaputra
+    pnb: دریائے برہم پتر
+    pt: Rio Bramaputra
+    ro: Brahmaputra
+    ru: Брахмапутра
+    sa: ब्रह्मपुत्रनदः
+    sat: ᱵᱨᱚᱢᱦᱚᱯᱩᱛᱨᱚ ᱜᱟᱰᱟ
+    sco: Brahmaputra River
+    sh: Brahmaputra
+    sk: Brahmaputra
+    skr: برہم پترا
+    sl: Brahmaputra
+    sr: Брамапутра
+    sv: Brahmaputra
+    sw: Mto Brahmaputra
+    ta: பிரம்மபுத்திரா ஆறு
+    te: బ్రహ్మపుత్రా నది
+    tg: Дарёи Браҳмапутра
+    th: แม่น้ำพรหมบุตร
+    tr: Brahmaputra Nehri
+    tt: Браһмапутра
+    uk: Брахмапутра
+    ur: دریائے برہم پتر
+    uz: Brahmaputra
+    vec: Fiume Brahmaputra
+    vi: Brahmaputra
+    war: Brahmaputra
+    wuu: 布拉马普特拉河
+    xmf: ბრაჰმაპუტრა
+    yue: 布拉馬普特拉河
+    zh: 布拉马普特拉河
+    zh-hans: 布拉马普特拉河
 ---
-
 # [[Brahmaputra_River]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Brahmaputra_River,45403|WD~Brahmaputra_River,45403]] 

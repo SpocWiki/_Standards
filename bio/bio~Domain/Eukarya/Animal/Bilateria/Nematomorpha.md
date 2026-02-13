@@ -1,9 +1,133 @@
 ---
 aliases:
-  - Nematomorpha
+- Hiarwirmer
+- Hårorme
+- húrférgek
+- jouhimadot
+- Jõhvussid
+- kılımsısolucanlar
+- Matoņi
+- Mnyoo-unywele
+- nematodmorfoj
+- Nematomorf
+- Nematomorfos
+- Nematomorpha
+- nitnikowce
+- paardenhaarwormen
+- qnawal
+- Qılqurdlar
+- Saitenwürmer
+- Strunovce
+- Strunovci
+- tagelmaskar
+- Taglmakk
+- Taglormer
+- Ulod nga buhok sa kabayo
+- Yaatsʼósí
+- žive niti
+- волосатики
+- Волосові
+- живи влакна
+- Кыл курттар
+- сacing rambut kuda
+- Түкті құрттар
+- תולעי שיער-סוס
+- ديدان شعرية
+- ديدان شعريه
+- سوتر ورگے
+- پَنہٕ سۄرُپھ
+- کرمهای مو اسبی
+- अश्वरोम कृमि
+- నెమటోమోర్ఫా
+- ಗೋರ್ಡಿಯೇಸಿಯ
+- มีมาโทมอร์ฟา
+- ბეწვურები
+- 綫形蟲動物
+- 线形动物门
+- 线形虫动物门
+- 類線形動物
+- 유선형동물
 title: Nematomorpha
+has_id_wikidata: Q5186
+dv_has_:
+  name_:
+    an: Nematomorpha
+    ar: ديدان شعرية
+    arz: ديدان شعريه
+    ast: Nematomorpha
+    az: Qılqurdlar
+    be: Nematomorpha
+    bg: живи влакна
+    bs: Nematomorpha
+    ca: Nematomorf
+    ceb: Ulod nga buhok sa kabayo
+    cs: Strunovci
+    da: Hårorme
+    de: Saitenwürmer
+    en: Nematomorpha
+    en-ca: Nematomorpha
+    en-gb: Nematomorpha
+    eo: nematodmorfoj
+    es: Nematomorpha
+    et: Jõhvussid
+    eu: Nematomorpha
+    ext: Nematomorpha
+    fa: کرمهای مو اسبی
+    fi: jouhimadot
+    fr: Nematomorpha
+    frr: Hiarwirmer
+    ga: Nematomorpha
+    gl: Nematomorfos
+    he: תולעי שיער-סוס
+    hi: अश्वरोम कृमि
+    hu: húrférgek
+    ia: Nematomorpha
+    id: сacing rambut kuda
+    ie: Nematomorpha
+    io: Nematomorpha
+    it: Nematomorpha
+    ja: 類線形動物
+    ka: ბეწვურები
+    kk: Түкті құрттар
+    kn: ಗೋರ್ಡಿಯೇಸಿಯ
+    ko: 유선형동물
+    ks: پَنہٕ سۄرُپھ
+    ky: Кыл курттар
+    la: Nematomorpha
+    lv: Matoņi
+    ms: Nematomorpha
+    mul: Nematomorpha
+    nb: Taglormer
+    nl: paardenhaarwormen
+    nn: Taglmakk
+    nv: Yaatsʼósí
+    oc: Nematomorpha
+    pl: nitnikowce
+    pnb: سوتر ورگے
+    pt: Nematomorpha
+    pt-br: Nematomorpha
+    ro: Nematomorpha
+    ru: волосатики
+    sco: Nematomorpha
+    sk: Strunovce
+    sl: žive niti
+    sq: Nematomorpha
+    sr: Nematomorpha
+    sv: tagelmaskar
+    sw: Mnyoo-unywele
+    tay: qnawal
+    te: నెమటోమోర్ఫా
+    th: มีมาโทมอร์ฟา
+    tl: Nematomorpha
+    tr: kılımsısolucanlar
+    uk: Волосові
+    vi: Nematomorpha
+    vo: Nematomorpha
+    war: Nematomorpha
+    wuu: 线形动物门
+    yue: 綫形蟲動物
+    zh: 线形虫动物门
 ---
-
 # [[Nematomorpha]] 
 
 ## Horsehair worms 

@@ -1,16 +1,78 @@
 ---
 aliases:
-  - Photokopierer
-  - copier
-  - Kopierer
-  - copy machine
-  - Xerox machine
-  - Photocopier
+- amiiuliuru
+- Aparatong pangopya
+- Arriḷiun
+- copiator
+- copier
+- copy machine
+- Fotocopiadera
+- fotocopiadora
+- Fotocopiaedje
+- fotocopiatrice
+- Fotokopi
+- Fotokopiado
+- fotokopiadora
+- Fotokopiagailua
+- Fotokopierer
+- Fotokopiranje
+- fotokopirni stroj
+- fotokopyadora
+- fotokopírka
+- fótachóipeálaí
+- kopiator
+- kopieerapparaat
+- Kopierer
+- Kopijavimo aparatas
+- kopimaskin
+- kopimaskine
+- kopiokone
+- kserokopiarka
+- Köşirgiş qürılğı
+- Ljósritunarvél
+- Luc'heilerez
+- Masin fotokopi
+- Mesin fotokopi
+- Máy photocopy
+- Photocopier
+- photocopieur
+- Photokopierer
+- Xerox machine
+- φωτοτυπικό μηχάνημα
+- капіявальны апарат
+- Копіювальний апарат
+- Копирна машина
+- Копировальный аппарат
+- Күсермә яһау аппараты
+- Көшіргіш қүрылғы
+- Фотокопирање
+- Хувилуур
+- Պատճենահան ապարատ
+- מכונת צילום
+- ئامێری لەبەرگرتنەوە
+- دستگاه فتوکپی
+- زیراکس
+- فوٹو کاپی مشین
+- كوشىرگىش قۇرىلعى
+- ناسخة ضوئية
+- نۇسخىئالغۇ
+- আলোক চিত্রানুলিপিকারক
+- நகலி
+- ఫోటో కాపీ
+- കോപിയർ
+- เครื่องถ่ายเอกสาร
+- မိတ္တူကူးစက်
+- ၸၢၵ်ႈထၢႆႇလိၵ်ႈ
+- ᐊᒥᐃᐅᓕᐅᕈ
+- 复印机
+- 影印機
+- 複写機
+- 복사기
 has_id_wikidata: Q185369
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~photocopy,8011558]]'
 has_use: '[[_Standards/WikiData/WD~photocopying,56821429]]'
 subclass_of: '[[_Standards/WikiData/WD~machine,11019]]'
@@ -22,8 +84,105 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Copy%20machine.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Xerox%20photocopier%20in%20GlenOak%20High%20School%20library%202004.jpg
 exact_match: http://wordnet-rdf.princeton.edu/wn30/03924679-n
 Commons_category: Photocopiers
+dv_has_:
+  name_:
+    ar: ناسخة ضوئية
+    ast: fotocopiadora
+    ba: Күсермә яһау аппараты
+    bcl: fotokopyadora
+    be-tarask: капіявальны апарат
+    bg: Копирна машина
+    bn: আলোক চিত্রানুলিপিকারক
+    br: Luc'heilerez
+    ca: fotocopiadora
+    cbk-zam: fotocopiadora
+    ceb: fotokopyadora
+    ckb: ئامێری لەبەرگرتنەوە
+    cps: fotokopyadora
+    cs: fotokopírka
+    da: kopimaskine
+    de: Fotokopierer
+    el: φωτοτυπικό μηχάνημα
+    en: photocopier
+    en-us: photocopier
+    eo: Fotokopiado
+    es: fotocopiadora
+    eu: Fotokopiagailua
+    fa: دستگاه فتوکپی
+    fi: kopiokone
+    fr: photocopieur
+    ga: fótachóipeálaí
+    gl: Fotocopiadora
+    he: מכונת צילום
+    hil: fotokopyadora
+    hr: Fotokopiranje
+    ht: Fotokopi
+    hy: Պատճենահան ապարատ
+    id: Mesin fotokopi
+    ik: Arriḷiun
+    ike-cans: ᐊᒥᐃᐅᓕᐅᕈ
+    ike-latn: amiiuliuru
+    ilo: fotokopiadora
+    is: Ljósritunarvél
+    it: fotocopiatrice
+    iu: ᐊᒥᐃᐅᓕᐅᕈ
+    ja: 複写機
+    jv: Mesin fotokopi
+    kk: Көшіргіш қүрылғы
+    kk-arab: كوشىرگىش قۇرىلعى
+    kk-cn: كوشىرگىش قۇرىلعى
+    kk-cyrl: Көшіргіш қүрылғы
+    kk-kz: Көшіргіш қүрылғы
+    kk-latn: Köşirgiş qürılğı
+    kk-tr: Köşirgiş qürılğı
+    ko: 복사기
+    krj: fotokopyadora
+    lt: Kopijavimo aparatas
+    min: Masin fotokopi
+    mk: Фотокопирање
+    ml: കോപിയർ
+    mn: Хувилуур
+    ms: Mesin fotokopi
+    my: မိတ္တူကူးစက်
+    mzn: زیراکس
+    nb: kopimaskin
+    nl: kopieerapparaat
+    nn: kopimaskin
+    oc: Fotocopiadera
+    pag: fotokopyadora
+    pam: fotokopiadora
+    pl: kserokopiarka
+    pt: fotocopiadora
+    rki: မိတ္တူကူးစက်
+    ro: copiator
+    ru: Копировальный аппарат
+    shn: ၸၢၵ်ႈထၢႆႇလိၵ်ႈ
+    sl: fotokopirni stroj
+    sr: Фотокопирање
+    sr-ec: фотокопирање
+    sr-el: fotokopiranje
+    sv: kopiator
+    ta: நகலி
+    te: ఫోటో కాపీ
+    th: เครื่องถ่ายเอกสาร
+    tl: Aparatong pangopya
+    tr: Fotokopi
+    ug: نۇسخىئالغۇ
+    uk: Копіювальний апарат
+    ur: فوٹو کاپی مشین
+    vi: Máy photocopy
+    wa: Fotocopiaedje
+    war: fotokopyadora
+    wuu: 复印机
+    yue: 影印機
+    zh: 复印机
+    zh-cn: 复印机
+    zh-hans: 复印机
+    zh-hant: 影印機
+    zh-hk: 影印機
+    zh-sg: 复印机
+    zh-tw: 影印機
 ---
-
 # [[Photocopier]] 
 
 #is_/same_as :: [[WD~Photocopier,185369]] 

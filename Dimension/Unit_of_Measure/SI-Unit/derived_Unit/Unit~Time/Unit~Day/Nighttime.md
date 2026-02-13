@@ -1,47 +1,387 @@
 ---
 aliases:
-  - nighttime
-  - Night
-  - Nighttime
+- abalị
+- alina
+- am-pû-thèu
+- anadwo
+- anochi
+- anubumin
+- aruma
+- a̱tyetuk
+- ban đêm
+- banggi
+- butú
+- dare
+- e tipiskak
+- gab-í
+- gabi
+- gau
+- gece
+- gecə
+- guddi
+- gyanghaemh
+- habeen
+- husiku
+- idja
+- ijjâ
+- inn
+- iḍ
+- lejl
+- malam
+- màng-buŏ
+- Nacht
+- nag
+- nait
+- naktis
+- nakts
+- naktės
+- nat
+- nata
+- natt
+- nicht
+- nicte
+- Night
+- nighttime
+- Niht
+- nit
+- nite
+- noapte
+- noapti
+- noc
+- nocc
+- noche
+- nocte
+- noite
+- nokto
+- nos
+- note
+- notte
+- notti
+- nox
+- noz
+- noć
+- noč
+- nueche
+- Nuecht
+- nueit
+- nuit
+- nute
+- nuèit
+- nwit
+- nyekiro
+- nyit
+- nóc
+- nótt
+- nôt
+- oidhche
+- oíche
+- peuting
+- puengi
+- pyhare
+- tenpo pimeja
+- tun
+- tuta
+- tłʼééʼ
+- usiku
+- wengi
+- yohualli
+- yuŋ
+- yö
+- àm-sî
+- éjszaka
+- ö
+- öö
+- şab
+- şev
+- şewe
+- βραδή
+- νύξ
+- νύχτα
+- бийса
+- ве
+- йӱд
+- каç
+- ніч
+- ноћ
+- ноќ
+- ноч
+- ночь
+- нощ
+- сордо
+- түн
+- түүн
+- төн
+- уй
+- шаб
+- шөнө
+- գիշեր
+- לילה
+- נאכט
+- الليل
+- رات
+- شب
+- شپه
+- شەو
+- كېچە
+- ليل
+- ܠܠܝܐ
+- बहनि
+- रात
+- राती
+- রাত
+- ਰਾਤ
+- ରାତି
+- இரவு
+- రాత్రి
+- ರಾತ್ರಿ
+- ರಾತ್ರೆ
+- രാത്രി
+- රාත්රිය
+- กลางคืน
+- དགོང་མོ།
+- ည
+- ည (အချိန်)
+- ၵၢင်ၶမ်ႈ
+- ሌሊት
+- ᏒᏃᏱ
+- ᐅᓐᓄᖅ
+- ᡩᠣᠪᠣᡵᡳ
+- ᱧᱤᱫᱟᱹ
+- 夜
+- 夜到
+- 夜晚
+- 晚上
+- 밤
 has_id_wikidata: Q575
 has_part_s_:
-  - '[[_Standards/WikiData/WD~twilight,164160]]'
-  - '[[_Standards/WikiData/WD~astronomical_night,73605035]]'
-  - '[[_Standards/WikiData/WD~overnight_hours,109667766]]'
-  - '[[_Standards/WikiData/WD~midnight,36402]]'
+- '[[_Standards/WikiData/WD~twilight,164160]]'
+- '[[_Standards/WikiData/WD~astronomical_night,73605035]]'
+- '[[_Standards/WikiData/WD~overnight_hours,109667766]]'
+- '[[_Standards/WikiData/WD~midnight,36402]]'
 follows: '[[_Standards/WikiData/WD~sunset,166564]]'
 followed_by:
-  - '[[_Standards/WikiData/WD~sunrise,193294]]'
-  - '[[_Standards/WikiData/WD~red_sky_at_morning,635954]]'
-  - '[[_Standards/WikiData/WD~morning,7722]]'
+- '[[_Standards/WikiData/WD~sunrise,193294]]'
+- '[[_Standards/WikiData/WD~red_sky_at_morning,635954]]'
+- '[[_Standards/WikiData/WD~morning,7722]]'
 has_characteristic: '[[_Standards/WikiData/WD~darkness,204170]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of: '[[_Standards/WikiData/WD~time_of_day,1260524]]'
 different_from: '[[_Standards/WikiData/WD~Lyle,2357973]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Time,13548104]]'
+- '[[_Standards/WikiData/WD~WikiProject_Astronomy,8493596]]'
+- '[[_Standards/WikiData/WD~WikiProject_Time,13548104]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828600,22828600]]'
 part_of: '[[_Standards/WikiData/WD~day,573]]'
 opposite_of: '[[_Standards/WikiData/WD~daytime,52643]]'
 OmegaWiki_Defined_Meaning: 5486
 Commons_category: Night
 hashtag:
-  - Goodnight
-  - night
-  - ночь
+- Goodnight
+- night
+- ночь
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Earth%27s%20City%20Lights%20by%20DMSP%2C%201994-1995%20%28large%29.jpg
 IMDb_keyword: night
 nighttime_view:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Brevnov%20-%20panoramio.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Calle%20de%20Molino%20de%20San%20Jos%C3%A9%2C%20noche%20-%20panoramio.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Brevnov%20-%20panoramio.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Calle%20de%20Molino%20de%20San%20Jos%C3%A9%2C%20noche%20-%20panoramio.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crescent%20moon%2C%20Istanbul%2C%20Turkey%20%289603517863%29.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Night-article.ogg
+dv_has_:
+  name_:
+    af: nag
+    am: ሌሊት
+    an: nueit
+    ang: Niht
+    apc: ليل
+    ar: ليل
+    arc: ܠܠܝܐ
+    ary: ليل
+    arz: الليل
+    ast: nueche
+    atj: e tipiskak
+    av: сордо
+    ay: aruma
+    az: gecə
+    ba: төн
+    bcl: banggi
+    be: ноч
+    be-tarask: ноч
+    bg: нощ
+    bho: रात
+    bjn: malam
+    bn: রাত
+    bo: དགོང་མོ།
+    br: noz
+    bs: noć
+    ca: nit
+    cdo: màng-buŏ
+    ch: puengi
+    chr: ᏒᏃᏱ
+    ckb: شەو
+    cs: noc
+    csb: noc
+    cv: каç
+    cy: nos
+    da: nat
+    dag: yuŋ
+    de: Nacht
+    diq: şewe
+    dsb: noc
+    el: νύχτα
+    eml: nôt
+    en: night
+    en-ca: night
+    en-gb: night
+    eo: nokto
+    es: noche
+    et: öö
+    eu: gau
+    fa: شب
+    fi: yö
+    fr: nuit
+    fy: Nacht
+    ga: oíche
+    gd: oidhche
+    gl: noite
+    gn: pyhare
+    grc: νύξ
+    ha: dare
+    hak: am-pû-thèu
+    he: לילה
+    hi: रात
+    hr: noć
+    hsb: nóc
+    ht: nwit
+    hu: éjszaka
+    hy: գիշեր
+    ia: nocte
+    iba: malam
+    id: malam
+    ie: nocte
+    ig: abalị
+    inh: бийса
+    io: nokto
+    is: nótt
+    it: notte
+    iu: ᐅᓐᓄᖅ
+    ja: 夜
+    jbo: nicte
+    jv: wengi
+    kab: iḍ
+    kcg: a̱tyetuk
+    kk: түн
+    kn: ರಾತ್ರಿ
+    ko: 밤
+    ku: şev
+    ky: түн
+    la: nox
+    lb: Nuecht
+    lmo: nocc
+    ln: butú
+    lt: naktis
+    lv: nakts
+    lzh: 夜
+    mg: alina
+    mhr: йӱд
+    min: malam
+    mk: ноќ
+    ml: രാത്രി
+    mn: шөнө
+    mnc: ᡩᠣᠪᠣᡵᡳ
+    ms: malam
+    mt: lejl
+    my: ည (အချိန်)
+    myv: ве
+    na: anubumin
+    nah: yohualli
+    nan: àm-sî
+    nb: natt
+    nds: Nacht
+    ne: राती
+    new: बहनि
+    nl: nacht
+    nn: natt
+    nrm: nyit
+    nv: tłʼééʼ
+    nyn: nyekiro
+    oc: nuèit
+    or: ରାତି
+    pa: ਰਾਤ
+    pap: anochi
+    pap-aw: anochi
+    pcm: nite
+    pdc: Nacht
+    pih: nait
+    pl: noc
+    pnb: رات
+    pnt: βραδή
+    ps: شپه
+    pt: noite
+    qu: tuta
+    rki: ည
+    ro: noapte
+    ru: ночь
+    rue: ночь
+    rup: noapti
+    sah: түүн
+    sat: ᱧᱤᱫᱟᱹ
+    scn: notti
+    sco: nicht
+    sd: رات
+    se: idja
+    sgs: naktės
+    sh: noć
+    shn: ၵၢင်ၶမ်ႈ
+    si: රාත්රිය
+    sk: noc
+    sl: noč
+    smn: ijjâ
+    sms: inn
+    sn: husiku
+    so: habeen
+    sq: nata
+    sr: ноћ
+    sr-ec: ноћ
+    su: peuting
+    sv: natt
+    sw: usiku
+    szl: noc
+    ta: இரவு
+    tcy: ರಾತ್ರೆ
+    te: రాత్రి
+    tg: шаб
+    tg-latn: şab
+    th: กลางคืน
+    tl: gabi
+    tok: tenpo pimeja
+    tr: gece
+    tt: төн
+    tt-cyrl: төн
+    tw: anadwo
+    udm: уй
+    ug: كېچە
+    uk: ніч
+    ur: رات
+    uz: tun
+    vec: note
+    vep: ö
+    vi: ban đêm
+    wa: nute
+    war: gab-í
+    wo: guddi
+    wuu: 夜到
+    yi: נאכט
+    yue: 夜晚
+    za: gyanghaemh
+    zh: 夜
+    zh-cn: 夜
+    zh-hans: 夜
+    zh-hant: 夜
+    zh-tw: 晚上
 ---
-
 # [[Nighttime]] 
 
 #is_/part_of :: [[../Unit~Day|Unit~Day]] 

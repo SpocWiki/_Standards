@@ -1,40 +1,157 @@
 ---
 aliases:
+- geoid
+- geoida
+- Geoidas
+- geoide
+- geoidi
+- Geoido
+- Geoit
+- Geoïd
+- geoïde
+- Gjeoidi
+- géoïde
+- Xeoide
+- ģeoīds
+- Γεωειδές
+- геоід
+- геоїд
+- геоид
+- Заминвора
+- Գեոիդ
+- גאואיד
+- زمینوار
+- مجسم أرضي
+- گەوىيد
+- ज्याॅइड
+- सम गुरुत्व सतह (जियोइड)
+- ভূগোলক
+- பூமிவடிவம்
+- ജിയോയിഡ്
+- จีออยด์
+- გეოიდი
+- ジオイド
+- 大地水准面
+- 大地水準面
+- 지오이드
 has_id_wikidata: Q185969
-studied_by: "[[_Standards/WikiData/WD~solid_geometry,207648]]"
-subclass_of: "[[_Standards/WikiData/WD~shape,207961]]"
-instance_of: "[[_Standards/WikiData/WD~equipotential_surface,256040]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~figure_of_the_Earth,437882]]"
+studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648]]'
+subclass_of: '[[_Standards/WikiData/WD~shape,207961]]'
+instance_of: '[[_Standards/WikiData/WD~equipotential_surface,256040]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~figure_of_the_Earth,437882]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-facet_of: "[[_Standards/WikiData/WD~orthometric_height,3495324]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+facet_of: '[[_Standards/WikiData/WD~orthometric_height,3495324]]'
 Commons_category: Geoid
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Geoid%20undulation%2010k%20scale.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-GeoMechain-g%C3%A9o%C3%AFde.wav
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]]"
-    - "[[/_Standards/Earth/Geography/Geoid|Geoid]]"
-    - "[[/_public/Earth/Geography/Geoid.public|Geoid.public]]"
-    - "[[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]]"
-    - "[[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]]"
-    - "[[/_private/Earth/Geography/Geoid.private|Geoid.private]]"
-    - "[[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]]"
-    - "[[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]]"
+  - '[[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]]'
+  - '[[/_Standards/Earth/Geography/Geoid|Geoid]]'
+  - '[[/_public/Earth/Geography/Geoid.public|Geoid.public]]'
+  - '[[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]]'
+  - '[[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]]'
+  - '[[/_private/Earth/Geography/Geoid.private|Geoid.private]]'
+  - '[[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]]'
+  - '[[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]]"
-  - "[[/_Standards/Earth/Geography/Geoid|Geoid]]"
-  - "[[/_public/Earth/Geography/Geoid.public|Geoid.public]]"
-  - "[[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]]"
-  - "[[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]]"
-  - "[[/_private/Earth/Geography/Geoid.private|Geoid.private]]"
-  - "[[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]]"
-  - "[[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]]"
+- '[[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]]'
+- '[[/_Standards/Earth/Geography/Geoid|Geoid]]'
+- '[[/_public/Earth/Geography/Geoid.public|Geoid.public]]'
+- '[[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]]'
+- '[[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]]'
+- '[[/_private/Earth/Geography/Geoid.private|Geoid.private]]'
+- '[[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]]'
+- '[[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]]'
+dv_has_:
+  name_:
+    ar: مجسم أرضي
+    ast: Xeoide
+    az: Geoid
+    be: геоід
+    be-tarask: геоід
+    bg: Геоид
+    bho: ज्याॅइड
+    bn: ভূগোলক
+    ca: geoide
+    cs: geoid
+    cv: Геоид
+    da: Geoide
+    de: Geoid
+    diq: Geoid
+    el: Γεωειδές
+    en: geoid
+    eo: Geoido
+    es: geoide
+    et: Geoid
+    eu: geoide
+    fa: زمینوار
+    fi: geoidi
+    fr: géoïde
+    gl: Xeoide
+    he: גאואיד
+    hr: geoid
+    hu: geoid
+    hy: Գեոիդ
+    id: Geoid
+    it: geoide
+    ja: ジオイド
+    ka: გეოიდი
+    kaa: Geoid
+    kk: Геоид
+    kk-arab: گەوىيد
+    kk-cn: گەوىيد
+    kk-cyrl: Геоид
+    kk-kz: Геоид
+    kk-latn: Geoïd
+    kk-tr: Geoïd
+    ko: 지오이드
+    ky: Геоид
+    lb: Geoid
+    lt: Geoidas
+    lv: ģeoīds
+    mk: геоид
+    ml: ജിയോയിഡ്
+    ms: Geoid
+    nb: geoide
+    ne: सम गुरुत्व सतह (जियोइड)
+    nl: geoïde
+    nn: geoide
+    pl: geoida
+    pt: geoide
+    ro: Geoid
+    ru: геоид
+    rue: Геоид
+    sah: геоид
+    sh: Geoid
+    sk: Geoid
+    sl: geoid
+    sq: Gjeoidi
+    sr: геоид
+    sr-ec: Геоид
+    sr-el: Geoid
+    sv: geoid
+    ta: பூமிவடிவம்
+    tg: Заминвора
+    th: จีออยด์
+    tr: Geoit
+    uk: геоїд
+    uz: Geoid
+    vi: Geoid
+    wuu: 大地水准面
+    yue: 大地水準面
+    zh: 大地水准面
+    zh-cn: 大地水准面
+    zh-hans: 大地水准面
+    zh-hant: 大地水準面
+    zh-hk: 大地水準面
+    zh-sg: 大地水准面
+    zh-tw: 大地水準面
 ---
-
 # [[Geoid]] 
 
 #is_/same_as :: [[../../WikiData/WD~Geoid,185969|WD~Geoid,185969]] 

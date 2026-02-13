@@ -1,33 +1,142 @@
 ---
 aliases:
+- aonaid Planck
+- Hệ thống đo lường Planck
+- jednostki Plancka
+- Planck birimleri
+- Planck units
+- planck-eenheden
+- Planck-egységek
+- Planck-Einheiten
+- Planck-einingar
+- Planck-enheder
+- Planck-enheter
+- Plancken unitateak
+- Planckenheter
+- Plancki ühikud
+- Planckin yksiköt
+- Planckov sistem enot
+- Planckove jednotky
+- Planckovy jednotky
+- Plank berämlekläre
+- prirodne jedinice
+- satuan Planck
+- tabiiy birliklar tizimi
+- unidades de Planck
+- unidaes de Planck
+- Unitates Planckianae
+- unitati di misura di Planck
+- unitats de Planck
+- unità di misura di Planck
+- unités de Planck
+- unuoj de Planck
+- μονάδες Πλανκ
+- единици на Планк
+- планківські одиниці
+- планкаўскія адзінкі
+- Планкийн нэгж
+- Планкови единици
+- планковские единицы
+- плянкаўскія адзінкі
+- природна јединица
+- Природне јединице
+- Պլանկի միավորներ
+- יחידות פלאנק
+- وحدات بلانك
+- یکاهای طبیعی
+- प्लांक इकाई
+- प्लांक एकके
+- ਪਲੈਂਕ ਯੂਨਿਟਾਂ
+- პლანკის ერთეულები
+- プランク単位系
+- 普朗克單位
+- 普朗克單位制
+- 플랑크 단위계
 has_id_wikidata: Q468999
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Planck_time,202642]]"
-  - "[[_Standards/WikiData/WD~Planck_length,207387]]"
-  - "[[_Standards/WikiData/WD~Planck_momentum,239830]]"
-  - "[[_Standards/WikiData/WD~Planck_charge,249439]]"
-  - "[[_Standards/WikiData/WD~Planck_density,536785]]"
-  - "[[_Standards/WikiData/WD~Planck_mass,592634]]"
-  - "[[_Standards/WikiData/WD~Planck_pressure,685662]]"
-  - "[[_Standards/WikiData/WD~Planck_temperature,720055]]"
-  - "[[_Standards/WikiData/WD~Planck_energy,913365]]"
-  - "[[_Standards/WikiData/WD~Planck_power,914151]]"
-  - "[[_Standards/WikiData/WD~Planck_force,915169]]"
-  - "[[_Standards/WikiData/WD~Planck_angular_frequency,1196837]]"
-  - "[[_Standards/WikiData/WD~Planck_current,1196846]]"
-  - "[[_Standards/WikiData/WD~Planck_impedance,1323237]]"
-  - "[[_Standards/WikiData/WD~Planck_voltage,1377741]]"
-  - "[[_Standards/WikiData/WD~Planck_area,14158377]]"
-  - "[[_Standards/WikiData/WD~Planck_volume,17255465]]"
-  - "[[_Standards/WikiData/WD~Planck_acceleration,28003216]]"
-  - "[[_Standards/WikiData/WD~Planck_current_density,30080109]]"
-  - "[[_Standards/WikiData/WD~Planck_flow_rate,56317622]]"
-instance_of: "[[_Standards/WikiData/WD~system_of_units,932268]]"
+- '[[_Standards/WikiData/WD~Planck_time,202642]]'
+- '[[_Standards/WikiData/WD~Planck_length,207387]]'
+- '[[_Standards/WikiData/WD~Planck_momentum,239830]]'
+- '[[_Standards/WikiData/WD~Planck_charge,249439]]'
+- '[[_Standards/WikiData/WD~Planck_density,536785]]'
+- '[[_Standards/WikiData/WD~Planck_mass,592634]]'
+- '[[_Standards/WikiData/WD~Planck_pressure,685662]]'
+- '[[_Standards/WikiData/WD~Planck_temperature,720055]]'
+- '[[_Standards/WikiData/WD~Planck_energy,913365]]'
+- '[[_Standards/WikiData/WD~Planck_power,914151]]'
+- '[[_Standards/WikiData/WD~Planck_force,915169]]'
+- '[[_Standards/WikiData/WD~Planck_angular_frequency,1196837]]'
+- '[[_Standards/WikiData/WD~Planck_current,1196846]]'
+- '[[_Standards/WikiData/WD~Planck_impedance,1323237]]'
+- '[[_Standards/WikiData/WD~Planck_voltage,1377741]]'
+- '[[_Standards/WikiData/WD~Planck_area,14158377]]'
+- '[[_Standards/WikiData/WD~Planck_volume,17255465]]'
+- '[[_Standards/WikiData/WD~Planck_acceleration,28003216]]'
+- '[[_Standards/WikiData/WD~Planck_current_density,30080109]]'
+- '[[_Standards/WikiData/WD~Planck_flow_rate,56317622]]'
+instance_of: '[[_Standards/WikiData/WD~system_of_units,932268]]'
 topic_has_template: "[[_Standards/WikiData/WD~Template_Planck's_natural_units,6427850]]"
-named_after: "[[_Standards/WikiData/WD~Max_Planck,9021]]"
-subclass_of: "[[_Standards/WikiData/WD~unit_of_measurement,47574]]"
+named_after: '[[_Standards/WikiData/WD~Max_Planck,9021]]'
+subclass_of: '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+dv_has_:
+  name_:
+    ar: وحدات بلانك
+    arz: وحدات بلانك
+    ast: unidaes de Planck
+    be: планкаўскія адзінкі
+    be-tarask: плянкаўскія адзінкі
+    bg: единици на Планк
+    bs: prirodne jedinice
+    ca: unitats de Planck
+    cs: Planckovy jednotky
+    da: Planck-enheder
+    de: Planck-Einheiten
+    el: μονάδες Πλανκ
+    en: Planck units
+    eo: unuoj de Planck
+    es: unidades de Planck
+    et: Plancki ühikud
+    eu: Plancken unitateak
+    fa: یکاهای طبیعی
+    fi: Planckin yksiköt
+    fr: unités de Planck
+    ga: aonaid Planck
+    he: יחידות פלאנק
+    hi: प्लांक इकाई
+    hu: Planck-egységek
+    hy: Պլանկի միավորներ
+    id: satuan Planck
+    it: unità di misura di Planck
+    ja: プランク単位系
+    ka: პლანკის ერთეულები
+    ko: 플랑크 단위계
+    la: Unitates Planckianae
+    mk: Планкови единици
+    mn: Планкийн нэгж
+    mr: प्लांक एकके
+    nb: Planck-enheter
+    nl: planck-eenheden
+    nn: Planck-einingar
+    pa: ਪਲੈਂਕ ਯੂਨਿਟਾਂ
+    pl: jednostki Plancka
+    pt: unidades de Planck
+    ru: планковские единицы
+    scn: unitati di misura di Planck
+    sh: prirodne jedinice
+    sk: Planckove jednotky
+    sl: Planckov sistem enot
+    sr: природна јединица
+    sr-ec: Природне јединице
+    sr-el: Prirodne jedinice
+    sv: Planckenheter
+    tr: Planck birimleri
+    tt: Plank berämlekläre
+    uk: планківські одиниці
+    uz: tabiiy birliklar tizimi
+    vi: Hệ thống đo lường Planck
+    wuu: 普朗克單位
+    zh: 普朗克單位制
 ---
-
 # [[Planck_Units]] 
 
 #is_/same_as :: [[../../WikiData/WD~Planck_units,468999|WD~Planck_units,468999]]  

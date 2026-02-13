@@ -1,4 +1,73 @@
-
+---
+has_id_wikidata: Q410005
+dv_has_:
+  name_:
+    azb: پرالترین
+    be: Рафіноза
+    bg: рафиноза
+    bn: র্যাফিনোজ
+    ca: rafinosa
+    cs: rafinóza
+    de: Raffinose
+    el: Ραφινόζη
+    en: raffinose
+    es: Rafinosa
+    eu: Errafinosa
+    fa: پرالترین
+    fi: raffinoosi
+    fr: raffinose
+    gl: Rafinosa
+    hi: रैफिनोज
+    hu: raffinóz
+    id: Rafinosa
+    it: raffinosio
+    ja: ラフィノース
+    ko: 라피노스
+    nb: raffinose
+    nl: raffinose
+    pl: rafinoza
+    pt: rafinose
+    ro: Rafinoză
+    ru: рафиноза
+    sh: Rafinoza
+    sk: Rafinóza
+    sr: рафиноза
+    sr-ec: Рафиноза
+    sr-el: Rafinoza
+    sv: Raffinos
+    th: ราฟฟิโนส
+    tr: Raffinoz
+    zh: 棉子糖
+    zh-cn: 棉子糖
+    zh-hans: 棉子糖
+    zh-hant: 棉子糖
+    zh-hk: 棉子糖
+    zh-sg: 棉子糖
+    zh-tw: 棉子糖
+aliases:
+- Errafinosa
+- raffinoosi
+- Raffinos
+- raffinose
+- raffinosio
+- Raffinoz
+- raffinóz
+- rafinosa
+- rafinose
+- rafinoza
+- Rafinoză
+- rafinóza
+- Ραφινόζη
+- Рафіноза
+- рафиноза
+- پرالترین
+- रैफिनोज
+- র্যাফিনোজ
+- ราฟฟิโนส
+- ラフィノース
+- 棉子糖
+- 라피노스
+---
 > **Raffinose** is a trisaccharide composed of galactose, glucose, and fructose. 
 > 
 > It can be found in beans, cabbage, brussels sprouts, broccoli, asparagus, other vegetables, and whole grains. 

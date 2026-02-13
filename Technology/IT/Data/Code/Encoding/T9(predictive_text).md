@@ -1,13 +1,45 @@
 ---
 has_id_wikidata: Q1142557
-different_from: "[[_Standards/WikiData/WD~T9,423444]]"
-instance_of: "[[_Standards/WikiData/WD~technology,11016]]"
+different_from: '[[_Standards/WikiData/WD~T9,423444]]'
+instance_of: '[[_Standards/WikiData/WD~technology,11016]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phone%20Numberblock%20ITU-T%20E.161.svg
 Commons_category:
-  - 4x3 arrays
-  - Telephone keypads
+- 4x3 arrays
+- Telephone keypads
+dv_has_:
+  name_:
+    ar: تي ناين
+    be-tarask: T9
+    ca: T9
+    cs: T9
+    da: T9
+    de: Text on 9 keys
+    el: T9
+    en: T9
+    fi: T9
+    fr: T9
+    hi: टी९ (पूर्वानुमानी पाठ)
+    id: T9
+    it: T9
+    ja: T9
+    ko: T9
+    nb: T9
+    nl: T9
+    pl: Słownik T9
+    pt: T9
+    ru: T9
+    sv: T9
+    tr: T9
+    uk: T9
+    zh: 9鍵文字輸入法
+aliases:
+- 9鍵文字輸入法
+- Słownik T9
+- T9
+- Text on 9 keys
+- تي ناين
+- टी९ (पूर्वानुमानी पाठ)
 ---
-
 # [[T9(predictive_text)]]
 
 #is_/same_as :: [[WD~T9,1142557]] 

@@ -1,9 +1,87 @@
 ---
 aliases:
-  - Ichthyostega
+- Ichthyostega
+- Ichthyostegidae
+- Ichtiostega
+- ictiostega
+- Ihtiostega
+- Ιχθυόστεγα
+- Іхтіостега
+- Ихтиостега
+- איכטיוסטגה
+- إكتوستيجة
+- ایکتیوستگا
+- ইখটিওস্টেগা
+- ഇക്തിയോസ്റ്റെഗ
+- იქტოსტეგა
+- イクチオステガ
+- 魚石螈屬
+- 鱼石螈属
+- 이크티오스테가
 title: Ichthyostega
+has_id_wikidata: Q131475
+dv_has_:
+  name_:
+    ar: إكتوستيجة
+    ast: Ichthyostega
+    bg: Ichthyostega
+    bn: ইখটিওস্টেগা
+    ca: ictiostega
+    ceb: Ichthyostega
+    cs: Ichthyostega
+    de: Ichthyostega
+    de-ch: Ichthyostega
+    el: Ιχθυόστεγα
+    en: Ichthyostega
+    en-ca: Ichthyostega
+    en-gb: Ichthyostega
+    en-us: Ichthyostega
+    es: Ichthyostega
+    eu: Ichthyostega
+    fa: ایکتیوستگا
+    fi: Ichthyostega
+    fr: Ichthyostega
+    ga: Ichthyostega
+    gl: Ichthyostega
+    he: איכטיוסטגה
+    hr: Ihtiostega
+    ia: Ichthyostega
+    id: Ichthyostega
+    it: Ichthyostega
+    ja: イクチオステガ
+    ka: იქტოსტეგა
+    ko: 이크티오스테가
+    la: Ichthyostega
+    ml: ഇക്തിയോസ്റ്റെഗ
+    ms: Ichthyostega
+    mul: Ichthyostega
+    nb: Ichthyostega
+    nl: Ichthyostega
+    nn: Ichthyostega
+    oc: Ichthyostega
+    pl: Ichtiostega
+    pt: Ichthyostega
+    pt-br: Ichthyostega
+    ro: Ichthyostega
+    ru: Ихтиостега
+    sk: Ichthyostegidae
+    sq: Ichthyostega
+    sr: Ichthyostega
+    sv: Ichthyostega
+    tl: Ichthyostega
+    tr: Ichthyostega
+    uk: Іхтіостега
+    vec: Ichthyostega
+    vi: Ichthyostega
+    war: Ichthyostega
+    zh: 鱼石螈属
+    zh-cn: 鱼石螈属
+    zh-hans: 鱼石螈属
+    zh-hant: 魚石螈屬
+    zh-hk: 魚石螈屬
+    zh-sg: 鱼石螈属
+    zh-tw: 魚石螈屬
 ---
-
 # [[Ichthyostega]]
 
 ![ ](Ichthyostega/ichthyostega.jpg)

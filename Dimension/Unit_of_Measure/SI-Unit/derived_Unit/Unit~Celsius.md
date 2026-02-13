@@ -1,21 +1,103 @@
 ---
 aliases:
-  - Degree Celsius
-  - Grad Celsius
-  - Unit~Celsius
+- Celcius
+- celsia grado
+- Celsija grāds
+- Celsijus
+- Celsius
+- Celsius gradu
+- Celsius-fok
+- celsiusaste
+- celsiuscekki
+- Celsiuse skaala
+- Celsiussjaol
+- Celzijev stupanj
+- Celzijus
+- Degre Sèlsiyis
+- Degree Celsius
+- degré Celsius
+- Derez Celsius
+- Gra Celsius
+- Graad Celsius
+- Grad Celsius
+- gradd Celsius
+- graden Celsius
+- grader Celsius
+- Grado Celsius
+- grado Selsio
+- Gradu cintigradu
+- Gradus Celsianus
+- Grau Celsius
+- grau(s) Celsius
+- jacke'o
+- Liap-sī
+- Santigrat derece
+- Scala Celsius
+- scála teochta Celsius
+- Selsi şkalası
+- Selsiasi
+- Selsios
+- Selsiy shkalasi
+- Selsiyus
+- Selsíus
+- Sentigrado
+- stopień Celsjusza
+- stopiéń Celsjusza
+- stupeň Celsia
+- stupeň Celzia
+- Unit~Celsius
+- °C
+- độ Celsius
+- Βαθμός Κελσίου
+- градус Целзий
+- градус Цельсія
+- градус Цельсия
+- градус Цэльсія
+- дараҷаи Селсий
+- Силси градысы
+- степен целзијуса
+- Целзиусов степен
+- Цельсий градусĕ
+- Цельсий градусы
+- Цельсийн градус
+- מעלות צלזיוס
+- درجة حرارة مئوية
+- درجة سيلسيوس
+- درجۂ صد
+- سلسیوس
+- سیلسیئس
+- پلەی سەدی
+- सेल्सियस
+- সেলসিয়াস
+- ਸੈਲਸੀਅਸ
+- செல்சியசு
+- సెల్సియస్
+- സെൽഷ്യസ്
+- องศาเซลเซียส
+- སེ་དྲོད།
+- ဒီဂရီ ဆဲလ်စီးယပ်စ်
+- ცელსიუსის სკალა
+- ᎠᏤ ᎠᏟᎶᎥ
+- ℃
+- セルシウス度
+- 摄氏度
+- 摄氏温标
+- 攝氏
+- 攝氏度
+- 섭씨도
 has_id_wikidata: Q25267
 named_after: '[[_Standards/WikiData/WD~Anders_Celsius,81130]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-  - '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
-  - '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-  - '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-  - '[[_Standards/WikiData/WD~unit_of_Celsius_temperature,126917082]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_Celsius_temperature,126917082]]'
 different_from:
-  - '[[_Standards/WikiData/WD~cent,724178]]'
-  - '[[_Standards/WikiData/WD~degree_Celsius_difference,69362731]]'
-  - '[[_Standards/WikiData/WD~Celsius_temperature_scale,110748751]]'
+- '[[_Standards/WikiData/WD~cent,724178]]'
+- '[[_Standards/WikiData/WD~degree_Celsius_difference,69362731]]'
+- '[[_Standards/WikiData/WD~Celsius_temperature_scale,110748751]]'
 measured_physical_quantity: '[[_Standards/WikiData/WD~Celsius_temperature,74758530]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~degree_Celsius,134880239]]'
 OmegaWiki_Defined_Meaning: 665350
@@ -30,15 +112,148 @@ Commons_category: Celsius temperature
 CPV_Supplementary_code: GA32
 Wikidata_SPARQL_query_equivalent: wd:Q25267 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 unit_symbol:
-  - °C
-  - °C
-  - °C
-  - °C
-  - ℃
-  - °C
-  - °С
+- °C
+- °C
+- °C
+- °C
+- ℃
+- °C
+- °С
+dv_has_:
+  name_:
+    af: Celsius
+    an: Grau Celsius
+    ar: درجة حرارة مئوية
+    ary: درجة سيلسيوس
+    ast: grau Celsius
+    az: Selsi şkalası
+    azb: سلسیوس
+    ba: Цельсий градусы
+    ban: Celsius
+    bcl: Celsius
+    be: градус Цэльсія
+    be-tarask: градус Цэльсія
+    bg: градус Целзий
+    bn: সেলসিয়াস
+    bo: སེ་དྲོད།
+    br: Derez Celsius
+    bs: Celzijus
+    ca: grau Celsius
+    chr: ᎠᏤ ᎠᏟᎶᎥ
+    ckb: پلەی سەدی
+    cs: stupeň Celsia
+    csb: stopiéń Celsjusza
+    cv: Цельсий градусĕ
+    cy: gradd Celsius
+    da: Celsius
+    de: Grad Celsius
+    el: Βαθμός Κελσίου
+    en: degree Celsius
+    eo: celsia grado
+    es: grado Celsius
+    et: Celsiuse skaala
+    eu: Celsius gradu
+    fa: سلسیوس
+    fi: celsiusaste
+    fo: Celsius
+    fr: degré Celsius
+    frr: Graad Celsius
+    fy: Celsius
+    ga: scála teochta Celsius
+    gan: 攝氏
+    gl: Celsius
+    gsw: Grad Celsius
+    he: מעלות צלזיוס
+    hi: सेल्सियस
+    hr: Celzijev stupanj
+    ht: Degre Sèlsiyis
+    hu: Celsius-fok
+    hy: °C
+    ia: Celsius
+    id: Celsius
+    ilo: grado Celsius
+    io: grado Celsius
+    is: Selsíus
+    it: grado Celsius
+    ja: セルシウス度
+    jam: Selsios
+    jbo: jacke'o
+    ka: ცელსიუსის სკალა
+    kk: °C
+    ko: 섭씨도
+    ku: Selsiyus
+    la: Gradus Celsianus
+    lb: Grad Celsius
+    li: Celsiussjaol
+    lt: Celsijus
+    lv: Celsija grāds
+    mk: Целзиусов степен
+    ml: സെൽഷ്യസ്
+    mn: Цельсийн градус
+    mr: सेल्सियस
+    ms: Celsius
+    mt: grad Celsius
+    mul: ℃
+    mwl: Grau Celsius
+    my: ဒီဂရီ ဆဲလ်စီးယပ်စ်
+    nan: Liap-sī
+    nan-hant: 攝氏
+    nb: grader celsius
+    nds: Grad Celsius
+    nds-nl: Celsius
+    nl: graden Celsius
+    nn: grader celsius
+    oc: Gra Celsius
+    pa: ਸੈਲਸੀਅਸ
+    pag: Celsius
+    pap: grado Selsio
+    pap-aw: grado Celsius
+    pl: stopień Celsjusza
+    pms: Scala Celsius
+    pnb: سیلسیئس
+    pt: grau Celsius
+    pt-br: grau(s) Celsius
+    ro: grad Celsius
+    ru: градус Цельсия
+    scn: Gradu cintigradu
+    sco: Celsius
+    sh: Celzijus
+    si: Celsius
+    sk: stupeň Celzia
+    sl: °C
+    smn: celsiuscekki
+    sq: Celcius
+    sr: степен целзијуса
+    sr-ec: Степен целзијуса
+    su: Celsius
+    sv: grader Celsius
+    sw: Selsiasi
+    ta: செல்சியசு
+    te: సెల్సియస్
+    tg: дараҷаи Селсий
+    th: องศาเซลเซียส
+    tl: Celsius
+    tr: Santigrat derece
+    tt: Силси градысы
+    uk: градус Цельсія
+    ur: درجۂ صد
+    uz: Selsiy shkalasi
+    vec: Grado Celsius
+    vi: độ Celsius
+    vls: Celsius
+    war: Sentigrado
+    wuu: 摄氏温标
+    yue: 攝氏
+    zh: 攝氏度
+    zh-cn: 摄氏度
+    zh-hans: 摄氏度
+    zh-hant: 攝氏度
+    zh-hk: 攝氏度
+    zh-mo: 攝氏度
+    zh-my: 摄氏度
+    zh-sg: 摄氏度
+    zh-tw: 攝氏度
 ---
-
 # [[Unit~Celsius]] 
 
 #is_a_/unit_/for_/temperature 

@@ -1,32 +1,171 @@
 ---
 aliases:
-  - Chovgan
-  - چوگان
-  - Polo
+- Chovgan
+- hästpolo
+- lovaspóló
+- polas
+- Polo
+- polo călare
+- poloo
+- poolo
+- poło
+- pulu
+- pòlo
+- Pòlo (spòrt)
+- pólo
+- póló
+- πόλο
+- пола
+- поло
+- чавгон
+- պոլո
+- פולו
+- بولو
+- پولو
+- پۆلۆ
+- چوگان
+- ڤولو
+- पोलो
+- पोलोक्रीडा
+- পোলো
+- ਪੋਲੋ
+- செண்டாட்டம்
+- పోలో
+- ಪೋಲೊ
+- པོ་ལོ།
+- ဂူလီသဘင်
+- პოლო
+- ポロ
+- 馬球
+- 马球
+- 폴로
 has_id_wikidata: Q134211
 subclass_of:
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~equestrian_sport,902378]]"
+- '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~equestrian_sport,902378]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 uses:
-  - "[[_Standards/WikiData/WD~polo_stick,1442455]]"
-  - "[[_Standards/WikiData/WD~horse,726]]"
-practiced_by: "[[_Standards/WikiData/WD~polo_player,13218361]]"
+- '[[_Standards/WikiData/WD~polo_stick,1442455]]'
+- '[[_Standards/WikiData/WD~horse,726]]'
+practiced_by: '[[_Standards/WikiData/WD~polo_player,13218361]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Wikimedia_duplicated_page,17362920]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+- '[[_Standards/WikiData/WD~Wikimedia_duplicated_page,17362920]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Commons_category: Polo
-Unicode_character: 🏇
+Unicode_character: "\U0001F3C7"
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Polo%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Varsity%20Polo%202013.jpg
 IPTC_NewsCode: mediatopic/20001014
 Colon_Classification: MY2146
+dv_has_:
+  name_:
+    af: polo
+    ar: بولو
+    ary: پولو
+    arz: بولو
+    az: polo
+    ba: поло
+    be: пола
+    be-tarask: пола
+    bg: поло
+    bn: পোলো
+    bo: པོ་ལོ།
+    btm: Polo
+    ca: polo
+    ckb: پۆلۆ
+    cs: pólo
+    cv: поло
+    cy: polo
+    da: polo
+    de: Polo
+    de-ch: Polo
+    el: πόλο
+    en: polo
+    en-ca: polo
+    en-gb: polo
+    en-us: polo
+    eo: poloo
+    es: polo
+    et: polo
+    eu: polo
+    fa: چوگان
+    fi: poolo
+    fr: polo
+    ga: póló
+    gd: polo
+    gl: polo
+    he: פולו
+    hi: पोलो
+    hr: polo
+    ht: polo
+    hu: lovaspóló
+    hy: պոլո
+    id: polo
+    io: polo
+    it: polo
+    ja: ポロ
+    ka: პოლო
+    kk: поло
+    kn: ಪೋಲೊ
+    ko: 폴로
+    ks: پولو
+    lb: Polo
+    li: Polo
+    lt: polas
+    lv: polo
+    min: polo
+    mk: поло
+    mn: поло
+    mr: पोलो
+    ms: polo
+    ms-arab: ڤولو
+    mt: pulu
+    my: ဂူလီသဘင်
+    nb: polo
+    ne: पोलो
+    nl: polo
+    nn: polo
+    nup: Polo
+    oc: pòlo
+    pa: ਪੋਲੋ
+    pl: polo
+    pms: Pòlo (spòrt)
+    pnb: پولو
+    pt: polo
+    pt-br: polo
+    ro: polo călare
+    ru: поло
+    sa: पोलोक्रीडा
+    sco: polo
+    sh: polo
+    sk: pólo
+    sl: polo
+    sr: поло
+    sr-ec: поло
+    sr-el: polo
+    sv: hästpolo
+    ta: செண்டாட்டம்
+    te: పోలో
+    tg: чавгон
+    tr: polo
+    uk: поло
+    ur: چوگان
+    vec: poło
+    vi: polo
+    wuu: 马球
+    yue: 馬球
+    zh: 马球
+    zh-cn: 马球
+    zh-hans: 马球
+    zh-hant: 馬球
+    zh-hk: 馬球
+    zh-sg: 马球
+    zh-tw: 馬球
 ---
-
 # [[Polo]] 🏇 
 
 #is_/same_as :: [[WD~Polo,134211]] 

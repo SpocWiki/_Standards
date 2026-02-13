@@ -1,11 +1,119 @@
 ---
 aliases:
-  - Silicon
+- cancmu
+- Gveih
+- ijo lili nanpa 14
+- ISiphemba
+- kisel
+- Kremniy
+- kremík
+- krzem
+- Kuarepotiatã
+- kísill
+- křemík
+- Ola
+- pii
+- räni
+- Si
+- Si-lí-khóng
+- sileacan
+- Sileagan
+- silic
+- silici
+- silicij
+- silicio
+- Silicis
+- siliciu
+- silicium
+- silico
+- silicoin
+- Silicon
+- Silikan
+- Silikin
+- Siliko
+- silikon
+- Silikone
+- Silikoni
+- Silikoon
+- silisiom
+- silisium
+- Silisiôma
+- Silissi
+- silisyum
+- Silisyòm
+- Silitsium
+- silizio
+- Silizium
+- Siliçio
+- Silìciu
+- silício
+- silīcijs
+- Siłicio
+- Si̍t
+- szilícium
+- Sîlîsyûm
+- Sĭk
+- Sɩlɩsɩyɔm
+- takawai
+- Tecpatepozteuh
+- Ullayayaq
+- πυρίτιο
+- кремній
+- Кремни
+- кремний
+- крэмні
+- крэмній
+- Сахюур
+- Силитсий
+- силицијум
+- силиций
+- силициум
+- цахиур
+- Цәкүр
+- սիլիցիում
+- Սիղիկիոն
+- סיליציום
+- צורן
+- سليکان
+- سليڪان
+- سلیکان
+- سىلىتسىي
+- سيليسيوم
+- سيليكون
+- سيليکون
+- سیلیسیم
+- سیلیکون
+- سیلیکۆن
+- ސިލިކަން
+- मृत्स्नक
+- सिलिकन
+- सिलिकॉन
+- সিলিকন
+- ਸਿਲੀਕੋਨ
+- સિલિકોન
+- ସିଲିକନ
+- சிலிக்கன்
+- సిలికాన్
+- ಸಿಲಿಕಾನ್
+- സിലിക്കൺ
+- සිලිකන්
+- ซิลิคอน
+- སྭི་ལི་ཀོན།
+- ဆီလီကွန်
+- သီလီကွန်
+- სილიციუმი
+- ሲልከን
+- ᱥᱤᱞᱤᱠᱟᱱ
+- ケイ素
+- 矽
+- 硅
+- ꯁꯤꯂꯤꯀꯣꯟ
+- 규소
 has_id_wikidata: Q670
-associated_hazard: "[[_Standards/WikiData/WD~silicon_exposure,21175300]]"
+associated_hazard: '[[_Standards/WikiData/WD~silicon_exposure,21175300]]'
 atomic_number: 14
 boiling_point: 4271
-canonical_SMILES: "[Si]"
+canonical_SMILES: '[Si]'
 CAS_Registry_Number: 7440-21-3
 chemical_formula: Si
 Commons_category: Silicon
@@ -13,68 +121,68 @@ Commons_gallery: Silicon
 CosIng_number: 96140
 density: 2.329
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Silicon,108309527]]"
-different_from: "[[_Standards/WikiData/WD~silicone,146439]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Silicon,108309527]]'
+different_from: '[[_Standards/WikiData/WD~silicone,146439]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
 DSSTOX_compound_identifier: DTXCID5030038
 EC_number: 231-130-8
 electronegativity: 1.9
 electron_configuration:
-  - "[Ne] 3s² 3p²"
-  - 1s² 2s² 2p⁶ 3s² 3p²
+- '[Ne] 3s² 3p²'
+- 1s² 2s² 2p⁶ 3s² 3p²
 element_symbol: Si
 exact_match: http://agrovoc.uniroma2.it/agrovoc/agrovoc/en/page/c_7061
-found_in_taxon: "[[_Standards/WikiData/WD~Opuntia_stricta,141416]]"
-has_effect: "[[_Standards/WikiData/WD~silicon_exposure,21175300]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Opuntia_stricta,141416]]'
+has_effect: '[[_Standards/WikiData/WD~silicon_exposure,21175300]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SiliconCroda.jpg
 InChI: InChI=1S/Si
 InChIKey: XUIMIQQOPSSXEZ-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.4
-  - 0.26
+- 0.4
+- 0.26
 Krugosvet_article: himiya/kremniy
 made_from_material:
-  - "[[_Standards/WikiData/WD~sand,34679]]"
-  - "[[_Standards/WikiData/WD~quartzite,237883]]"
-  - "[[_Standards/WikiData/WD~aluminosilicate,429979]]"
+- '[[_Standards/WikiData/WD~sand,34679]]'
+- '[[_Standards/WikiData/WD~quartzite,237883]]'
+- '[[_Standards/WikiData/WD~aluminosilicate,429979]]'
 mass: 28.085
 melting_point: 2570
 MeSH_tree_code: D01.268.513.937
 minimum_explosive_concentration: 160
-named_after: "[[_Standards/WikiData/WD~flint,83087]]"
+named_after: '[[_Standards/WikiData/WD~flint,83087]]'
 OmegaWiki_Defined_Meaning: 3421
 oxidation_state:
-  - 4
-  - -4
-  - -3
-  - -2
-  - -1
-  - 1
-  - 2
-  - 3
+- 4
+- -4
+- -3
+- -2
+- -1
+- 1
+- 2
+- 3
 part_of:
-  - "[[_Standards/WikiData/WD~group_14,106693]]"
-  - "[[_Standards/WikiData/WD~period_3,211331]]"
+- '[[_Standards/WikiData/WD~group_14,106693]]'
+- '[[_Standards/WikiData/WD~period_3,211331]]'
 PubChem_CID: 5461123
 RTECS_number: VW0400000
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Silicon-unit-cell-3D-balls.png
 SpocWebEntityId: 21915
 standard_molar_entropy: 18.8
-subclass_of: "[[_Standards/WikiData/WD~metalloid,19596]]"
-subject_has_role: "[[_Standards/WikiData/WD~trace_metal,7831165]]"
+subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: 1823
 time_weighted_average_exposure_limit:
-  - 5
-  - 15
-  - 10
+- 5
+- 15
+- 10
 type: Element
 UMLS_CUI: C0037107
 Unicode_character: 矽
@@ -85,10 +193,203 @@ Wolfram_Language_entity_code: Entity["Mineral", "Silicon"]
 ZVG_number: 8110
 dv_has_:
   name_:
-    group: Group-14-Carbon
-    en: Silicon
-    de: Silicium
     abbreviated: Si
+    af: silikon
+    am: ሲልከን
+    an: Silicio
+    anp: सिलिकन
+    ar: سيليكون
+    ary: سيليسيوم
+    arz: سيليكون
+    ast: siliciu
+    awa: सिलिकन
+    az: Silisium
+    azb: سیلیکون
+    ba: Кремний
+    ban: Silikon
+    bcl: Silikon
+    be: крэмній
+    be-tarask: крэмні
+    bg: силиций
+    bho: सिलिकॉन
+    blk: သီလီကွန်
+    bn: সিলিকন
+    bo: སྭི་ལི་ཀོན།
+    br: silisiom
+    bs: silicij
+    bxr: Сахюур
+    ca: silici
+    cdo: Sĭk
+    ceb: Siliko
+    ckb: سیلیکۆن
+    co: Siliciu
+    cs: křemík
+    cv: Кремни
+    cy: silicon
+    da: silicium
+    de: Silicium
+    de-ch: Silicium
+    dv: ސިލިކަން
+    el: πυρίτιο
+    en: silicon
+    en-ca: Silicon
+    en-gb: silicon
+    eo: silicio
+    es: silicio
+    et: räni
+    eu: silizio
+    fa: سیلیسیم
+    fi: pii
+    fo: Silicium
+    fr: silicium
+    frr: Silitsium
+    fur: Silici
+    ga: sileacan
+    gcr: Silicium
+    gd: Sileagan
+    gl: silicio
+    gn: Kuarepotiatã
+    group: Group-14-Carbon
+    gsw: Silicium
+    gu: સિલિકોન
+    gv: silicoin
+    hak: Si̍t
+    haw: Silikone
+    he: צורן
+    hi: सिलिकॉन
+    hif: Silicon
+    hr: silicij
+    ht: Silisyòm
+    hu: szilícium
+    hy: սիլիցիում
+    hyw: Սիղիկիոն
+    ia: silicium
+    id: silikon
+    io: siliko
+    is: kísill
+    it: silicio
+    ja: ケイ素
+    jam: Silikan
+    jbo: cancmu
+    jv: Silikon
+    ka: სილიციუმი
+    kbp: Sɩlɩsɩyɔm
+    ki: Silicon
+    kk: кремний
+    kn: ಸಿಲಿಕಾನ್
+    ko: 규소
+    ku: Sîlîsyûm
+    kv: Кремний
+    kw: silikon
+    ky: Кремний
+    la: silicium
+    lb: Silizium
+    lfn: silico
+    li: Silicium
+    lij: Siliçio
+    lmo: Silicio
+    lt: Silicis
+    lv: silīcijs
+    lzh: 硅
+    mag: मृत्स्नक
+    mg: Silisiôma
+    mi: takawai
+    mk: силициум
+    ml: സിലിക്കൺ
+    mn: цахиур
+    mni: ꯁꯤꯂꯤꯀꯣꯟ
+    mr: सिलिकॉन
+    mrj: Кремний
+    ms: silikon
+    ms-arab: سيليکون
+    mt: silikon
+    mul: Si
+    my: ဆီလီကွန်
+    nah: Tecpatepozteuh
+    nan: Si-lí-khóng
+    nb: silisium
+    nds: Silizium
+    ne: सिलिकन
+    new: सिलिकन
+    nl: silicium
+    nn: silisium
+    nov: Silisium
+    oc: Silici
+    olo: Pii
+    or: ସିଲିକନ
+    os: кремний
+    pa: ਸਿਲੀਕੋਨ
+    pap: silicio
+    pap-aw: silicio
+    pi: सिलिकन
+    pl: krzem
+    pms: Silissi
+    pnb: سلیکان
+    ps: سليکان
+    pt: silício
+    pt-br: silício
+    qu: Ullayayaq
+    ro: siliciu
+    ru: кремний
+    rup: Siliciu
+    sa: सिलिकन
+    sah: Кремний
+    sat: ᱥᱤᱞᱤᱠᱟᱱ
+    sc: Silìciu
+    scn: siliciu
+    sco: silicon
+    sd: سليڪان
+    se: silisium
+    sh: Silicij
+    si: සිලිකන්
+    sk: kremík
+    sl: silicij
+    smn: pii
+    so: Silikoon
+    sq: Silici
+    sr: силицијум
+    stq: Silicium
+    su: Silikon
+    sv: kisel
+    sw: Silikoni
+    ta: சிலிக்கன்
+    te: సిలికాన్
+    tg: Силитсий
+    th: ซิลิคอน
+    tl: silicon
+    tok: ijo lili nanpa 14
+    tr: silisyum
+    tt: Кремний
+    tum: Silikoni
+    ug: سىلىتسىي
+    uk: кремній
+    ur: سلیکان
+    uz: Kremniy
+    vec: Siłicio
+    vep: Ola
+    vi: silic
+    vo: Silikin
+    war: Silicon
+    wuu: 硅
+    xal: Цәкүр
+    yi: סיליציום
+    yo: Silikoni
+    yue: 矽
+    za: Gveih
+    zh: 硅
+    zh-cn: 硅
+    zh-hans: 硅
+    zh-hant: 矽
+    zh-hk: 矽
+    zh-mo: 矽
+    zh-my: 硅
+    zh-sg: 矽
+    zh-tw: 矽
+    zu: ISiphemba
+  number_of_:
+    period: 3
+    electrons: 14
+    group: 14
   value_for_:
     weight_:
       u: 28.0855
@@ -116,22 +417,18 @@ dv_has_:
       form_:
         kj_:
           mol: 384.22
-  number_of_:
-    period: 3
-    electrons: 14
-    group: 14
-dv_Group: "[[../Group-14-Carbon]]"
+dv_Group: '[[../Group-14-Carbon]]'
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Silicon,670]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]]"
-  different_from: "[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]"
+  - '[[../../../WikiData/WD~Silicon,670]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]]'
+  different_from: '[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]'
 dv_has_name_group: Group-14-Carbon
 dv_has_name_en: Silicon
 dv_has_name_de: Silicium
@@ -150,20 +447,19 @@ dv_has_value_for_enthalpy: 50.55
 dv_has_value_for_energy_form_kj_mol: 384.22
 dv_has_number_of_period: 3
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Silicon,670]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]]"
-dv_is_different_from: "[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]"
+- '[[../../../WikiData/WD~Silicon,670]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon|Silicon]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.public|Silicon.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.internal|Silicon.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.protect|Silicon.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.private|Silicon.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.personal|Silicon.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon.secret|Silicon.secret]]'
+dv_is_different_from: '[[../../Organic_Chemistry/Polymer/Silicone|Silicone]]'
 dv_has_name_abbreviated: Si
 dv_has_number_of_electrons: 14
 dv_has_number_of_group: 14
 ---
-
 # [[Silicon]] 
 
 #chemic/Element 

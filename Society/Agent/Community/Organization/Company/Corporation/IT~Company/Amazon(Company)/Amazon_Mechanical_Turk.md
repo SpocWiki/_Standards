@@ -1,8 +1,38 @@
 ---
 aliases:
-  - MTurk
-  - Amazon_Mechanical_Turk
-  - Amazon Mechanical Turk
+- Amazon Mechanical Turk
+- Amazon_Mechanical_Turk
+- Mechanical Turk
+- MTurk
+- ترک مکانیکی آمازون
+- 亞馬遜土耳其機器人
+- 아마존 MTurk
+has_id_wikidata: Q733115
+dv_has_:
+  name_:
+    ca: Amazon Mechanical Turk
+    de: Amazon Mechanical Turk
+    el: Amazon Mechanical Turk
+    en: Amazon Mechanical Turk
+    en-ca: Amazon Mechanical Turk
+    en-gb: Amazon Mechanical Turk
+    es: Amazon Mechanical Turk
+    fa: ترک مکانیکی آمازون
+    fr: Amazon Mechanical Turk
+    id: Amazon Mechanical Turk
+    it: Amazon Mechanical Turk
+    ja: Amazon Mechanical Turk
+    ko: 아마존 MTurk
+    mul: Amazon Mechanical Turk
+    nl: Amazon Mechanical Turk
+    pl: Amazon Mechanical Turk
+    pt: Amazon Mechanical Turk
+    pt-br: Amazon Mechanical Turk
+    ru: Amazon Mechanical Turk
+    sr: Mechanical Turk
+    tr: Amazon Mechanical Turk
+    uk: Amazon Mechanical Turk
+    zh: 亞馬遜土耳其機器人
 ---
 # [[Amazon_Mechanical_Turk]] 
 

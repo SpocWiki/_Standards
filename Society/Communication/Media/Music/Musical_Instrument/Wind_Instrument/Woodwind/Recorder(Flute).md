@@ -1,11 +1,66 @@
 ---
 aliases:
-  - Blockflöte
-  - Recorder(Flute)
+- bekfluto
+- blockflöjt
+- Blockflöte
+- Blockflütt
+- blokflauta
+- Blokfleyta
+- Blokfloit
+- blokfluit
+- blokfløjte
+- blokflüt
+- Blokkflauta
+- blokkfløyte
+- feddan millish
+- flaut dulce
+- flauta de bisel
+- flauta doce
+- flauta dolça
+- Flauta duce
+- flauta dulce
+- flauto
+- flauto dolce
+- Flet prosty
+- fliúit Shasanach
+- flûte à bec
+- Frauta doce
+- furulya
+- kljunasta flavta
+- Misk'i sirinka
+- Moko-txirula
+- nokkahuilu
+- plokkflööt
+- recorder
+- Recorder(Flute)
+- rehu Pākehā
+- rekorder
+- Tibia recta
+- zobcová flauta
+- zobcová flétna
+- φλάουτο με ράμφος
+- блёкфлейта
+- блокфлејта
+- блокфлейта
+- кљунаста флаута
+- բլոկֆլեյտա
+- חלילית
+- ريكوردر
+- ریکوردر
+- ڕیکۆردەر
+- රෙකෝන්ඩය
+- รีคอร์เดอร์
+- ပီႇလူင်
+- リコーダー
+- 木笛
+- 牧童笛
+- 直笛
+- 竖笛
+- 리코더
 has_id_wikidata: Q187851
 subclass_of:
-  - '[[_Standards/WikiData/WD~duct_flute,478634]]'
-  - '[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]'
+- '[[_Standards/WikiData/WD~duct_flute,478634]]'
+- '[[_Standards/WikiData/WD~open_flutes_with_internal_duct_with_fingerholes,55738665]]'
 used_by: '[[_Standards/WikiData/WD~recorder_player,3074722]]'
 described_by_source: "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
@@ -20,11 +75,76 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/SopranoRecorder.ogg
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tonumfang-Sopranblockfl%C3%B6te.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VariousRecorderFlutes.jpg
 Amazon_com_browse_node:
-  - 11972101
-  - 11975291
+- 11972101
+- 11975291
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/BLOKFLETA.html
+dv_has_:
+  name_:
+    ar: ريكوردر
+    ast: Flauta duce
+    be: блокфлейта
+    be-tarask: блёкфлейта
+    bg: Блокфлейта
+    ca: flauta dolça
+    ckb: ڕیکۆردەر
+    cs: zobcová flétna
+    da: blokfløjte
+    de: Blockflöte
+    el: φλάουτο με ράμφος
+    en: recorder
+    eo: bekfluto
+    es: flauta dulce
+    et: plokkflööt
+    eu: Moko-txirula
+    fa: ریکوردر
+    fi: nokkahuilu
+    fr: flûte à bec
+    frr: Blokfloit
+    fy: Blokfluit
+    ga: fliúit Shasanach
+    gl: Frauta doce
+    gsw: Blockflöte
+    gv: feddan millish
+    he: חלילית
+    hr: blokflauta
+    hu: furulya
+    hy: բլոկֆլեյտա
+    id: rekorder
+    is: Blokkflauta
+    it: flauto dolce
+    ja: リコーダー
+    ko: 리코더
+    la: Tibia recta
+    lb: Blockflütt
+    mi: rehu Pākehā
+    mk: блокфлејта
+    ms: Rekorder
+    nap: flauto
+    nb: blokkfløyte
+    nl: blokfluit
+    nn: blokkfløyte
+    pl: Flet prosty
+    pt: flauta de bisel
+    pt-br: flauta doce
+    qu: Misk'i sirinka
+    ro: flaut dulce
+    ru: блокфлейта
+    shn: ပီႇလူင်
+    si: රෙකෝන්ඩය
+    sk: zobcová flauta
+    sl: kljunasta flavta
+    sr: кљунаста флаута
+    sv: blockflöjt
+    th: รีคอร์เดอร์
+    tr: blokflüt
+    uk: Блокфлейта
+    uz: Blokfleyta
+    yue: 牧童笛
+    zh: 直笛
+    zh-cn: 竖笛
+    zh-hk: 木笛
+    zh-tw: 直笛
 ---
-
 # [[Recorder(Flute)]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Recorder,187851|WD~Recorder,187851]]  

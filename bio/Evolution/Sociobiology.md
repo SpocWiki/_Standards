@@ -1,4 +1,128 @@
-
+---
+has_id_wikidata: Q190553
+dv_has_:
+  name_:
+    ar: علم الأحياء الاجتماعي
+    ast: Sociobiología
+    be: сацыябіялогія
+    be-tarask: соцыябіялёгія
+    bn: সমাজজীববিজ্ঞান
+    ca: sociobiologia
+    cs: sociobiologie
+    da: sociobiologi
+    de: Soziobiologie
+    de-ch: Soziobiologie
+    el: κοινωνιοβιολογία
+    en: sociobiology
+    en-ca: sociobiology
+    en-gb: sociobiology
+    eo: Socibiologio
+    es: sociobiología
+    et: sotsiobioloogia
+    eu: Soziobiologia
+    fa: زیستجامعهشناسی
+    fi: sosiobiologia
+    fr: sociobiologie
+    ga: sochbhitheolaíocht
+    gl: Sociobioloxía
+    he: סוציוביולוגיה
+    hr: Sociobiologija
+    hu: szociobiológia
+    hy: սոցիոկենսաբանություն
+    id: Sosiobiologi
+    io: sociobiologio
+    it: sociobiologia
+    ja: 社会生物学
+    kk: Социобиология
+    kk-arab: سوتسىيوبىيولوگىييا
+    kk-cn: سوتسىيوبىيولوگىييا
+    kk-cyrl: Социобиология
+    kk-kz: Социобиология
+    kk-latn: Socïobïologïya
+    kk-tr: Socïobïologïya
+    ko: 사회생물학
+    la: Sociobiologia
+    lb: Soziobiologie
+    lfn: sosiobiolojia
+    lt: sociobiologija
+    ms: Sosiobiologi
+    nb: Sosiobiologi
+    nl: sociobiologie
+    pl: Socjobiologia
+    pms: Sociobiologìa
+    ps: ټولنيزه بيالوژي
+    pt: sociobiologia
+    pt-br: Sociobiologia
+    ro: sociobiologie
+    ru: социобиология
+    se: sosiobiologiija
+    sh: Sociobiologija
+    sk: Sociobiológia
+    sl: sociobiologija
+    smn: sosiobiologia
+    sms: sosiobiologia
+    sr: социобиологија
+    sv: sociobiologi
+    tr: Sosyobiyoloji
+    uk: біосоціологія
+    ur: معاشری حیاتیات
+    uz: Sotsiobiologiya
+    vi: sinh học xã hội
+    war: Sosyobiyolohiya
+    wuu: 社会生物学
+    yue: 社會生物學
+    zh: 社會生物學
+    zh-cn: 社会生物学
+    zh-hans: 社会生物学
+    zh-hant: 社會生物學
+    zh-hk: 社會生物學
+    zh-sg: 社会生物学
+    zh-tw: 社會生物學
+aliases:
+- sinh học xã hội
+- sochbhitheolaíocht
+- Socibiologio
+- sociobiologi
+- sociobiologia
+- sociobiologie
+- Sociobiologija
+- sociobiologio
+- sociobiology
+- Sociobiologìa
+- sociobiología
+- Sociobioloxía
+- Sociobiológia
+- Socjobiologia
+- Socïobïologïya
+- Sosiobiologi
+- sosiobiologia
+- sosiobiologiija
+- sosiobiolojia
+- Sosyobiyolohiya
+- Sosyobiyoloji
+- Sotsiobiologiya
+- sotsiobioloogia
+- Soziobiologia
+- Soziobiologie
+- szociobiológia
+- κοινωνιοβιολογία
+- біосоціологія
+- сацыябіялогія
+- социобиологија
+- социобиология
+- соцыябіялёгія
+- սոցիոկենսաբանություն
+- סוציוביולוגיה
+- زیستجامعهشناسی
+- سوتسىيوبىيولوگىييا
+- علم الأحياء الاجتماعي
+- معاشری حیاتیات
+- ټولنيزه بيالوژي
+- সমাজজীববিজ্ঞান
+- 社会生物学
+- 社會生物學
+- 사회생물학
+---
 # [[Sociobiology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sociobiology,190553|WD~Sociobiology,190553]]  

@@ -1,17 +1,71 @@
 ---
 aliases:
+- Byttnerioideae
+- Phân họ Trôm leo
+- بتنراوات
+- ബൈറ്റ്നെറിയോയ്ഡീ
+- 刺果藤亚科
+- 불암초아과
 has_id_wikidata: Q652608
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Malvaceae,156551]]"
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Malvaceae,156551]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20grandiflorum-flower.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=1750
 EPPO_Code: 1BYTS
 Commons_category: Byttnerioideae
 taxon_name: Byttnerioideae
 UMLS_CUI: C1228150
+dv_has_:
+  name_:
+    af: Byttnerioideae
+    an: Byttnerioideae
+    ar: بتنراوات
+    arz: بتنراوات
+    ast: Byttnerioideae
+    be-tarask: Byttnerioideae
+    bg: Byttnerioideae
+    ca: Byttnerioideae
+    ceb: Byttnerioideae
+    cs: Byttnerioideae
+    de: Byttnerioideae
+    en: Byttnerioideae
+    eo: Byttnerioideae
+    es: Byttnerioideae
+    eu: Byttnerioideae
+    ext: Byttnerioideae
+    fi: Byttnerioideae
+    fr: Byttnerioideae
+    ga: Byttnerioideae
+    gl: Byttnerioideae
+    hr: Byttnerioideae
+    hu: Byttnerioideae
+    ia: Byttnerioideae
+    ie: Byttnerioideae
+    io: Byttnerioideae
+    it: Byttnerioideae
+    ko: 불암초아과
+    la: Byttnerioideae
+    lmo: Byttnerioideae
+    ml: ബൈറ്റ്നെറിയോയ്ഡീ
+    mul: Byttnerioideae
+    nl: Byttnerioideae
+    oc: Byttnerioideae
+    pl: Byttnerioideae
+    pt: Byttnerioideae
+    pt-br: byttnerioideae
+    ro: Byttnerioideae
+    ru: Byttnerioideae
+    sl: Byttnerioideae
+    sq: Byttnerioideae
+    uk: Byttnerioideae
+    vi: Phân họ Trôm leo
+    vo: Byttnerioideae
+    war: Byttnerioideae
+    zh: 刺果藤亚科
+    zh-cn: 刺果藤亚科
+    zh-hans: 刺果藤亚科
 ---
-
 # [[Byttnerioideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Byttnerioideae,652608]] 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q826165
+---
+
 # [[owl(Ontology_Web_Language)]] 
 
 is a very expressive Language with more inference and strictness than [[rdfs]]

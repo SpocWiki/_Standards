@@ -1,9 +1,123 @@
 ---
 aliases:
-  - Studio Ghibli
-  - Studio_Ghibli
+- Džibli studio
+- Estúdio Ghibli
+- Studio Ghibli
+- Studio_Ghibli
+- Џибли студио
+- Жибли студи
+- Студио Гибли
+- סטודיו ג'יבלי
+- استوديو غيبلي
+- استودیو جیبلی
+- اسٹوڈیو غبلی
+- ایستودیو جیبلی
+- ستوديو جيبلى
+- ستۆدیۆکانی گێبڵی
+- स्टूडियो घिब्ली
+- স্টুডিও জিবলি
+- இசுடுடியோ கிப்ளி
+- స్టూడియో గిబ్లి
+- สตูดิโอจิบลิ
+- სტუდია ღიბლი
+- スタジオジブリ
+- 吉卜力工作室
+- 吉卜力社
+- 知步里工作室
+- 스튜디오 지브리
+has_id_wikidata: Q182950
+dv_has_:
+  name_:
+    an: Studio Ghibli
+    ar: استوديو غيبلي
+    arz: ستوديو جيبلى
+    ast: Studio Ghibli
+    az: Studio Ghibli
+    azb: ایستودیو جیبلی
+    bcl: Studio Ghibli
+    be: Studio Ghibli
+    bg: Студио Гибли
+    bn: স্টুডিও জিবলি
+    br: Studio Ghibli
+    ca: Studio Ghibli
+    ckb: ستۆدیۆکانی گێبڵی
+    cs: Studio Ghibli
+    cy: Studio Ghibli
+    da: Studio Ghibli
+    de: Studio Ghibli
+    el: Studio Ghibli
+    en: Studio Ghibli
+    eo: Studio Ghibli
+    es: Studio Ghibli
+    et: Studio Ghibli
+    eu: Studio Ghibli
+    fa: استودیو جیبلی
+    fi: Studio Ghibli
+    fr: Studio Ghibli
+    gl: Studio Ghibli
+    haw: Studio Ghibli
+    he: סטודיו ג'יבלי
+    hi: स्टूडियो घिब्ली
+    hr: Studio Ghibli
+    hu: Studio Ghibli
+    hy: Studio Ghibli
+    id: Studio Ghibli
+    io: Studio Ghibli
+    is: Studio Ghibli
+    it: Studio Ghibli
+    ja: スタジオジブリ
+    jv: Studio Ghibli
+    ka: სტუდია ღიბლი
+    ko: 스튜디오 지브리
+    ky: Studio Ghibli
+    lb: Studio Ghibli
+    lt: Studio Ghibli
+    lv: Studio Ghibli
+    lzh: 吉卜力社
+    mk: Студио Гибли
+    mn: Жибли студи
+    ms: Studio Ghibli
+    nan: Studio Ghibli
+    nb: Studio Ghibli
+    nl: Studio Ghibli
+    nn: Studio Ghibli
+    oc: Estúdio Ghibli
+    pl: Studio Ghibli
+    pt: Studio Ghibli
+    pt-br: Studio Ghibli
+    ro: Studio Ghibli
+    ru: Studio Ghibli
+    sah: Studio Ghibli
+    sc: Studio Ghibli
+    sco: Studio Ghibli
+    sh: Studio Ghibli
+    sl: Studio Ghibli
+    sq: Studio Ghibli
+    sr: Џибли студио
+    sr-ec: Џибли студио
+    sr-el: Džibli studio
+    sv: Studio Ghibli
+    ta: இசுடுடியோ கிப்ளி
+    te: స్టూడియో గిబ్లి
+    th: สตูดิโอจิบลิ
+    tl: Studio Ghibli
+    tr: Studio Ghibli
+    uk: Studio Ghibli
+    ur: اسٹوڈیو غبلی
+    uz: Studio Ghibli
+    vep: Studio Ghibli
+    vi: Studio Ghibli
+    war: Studio Ghibli
+    wuu: 吉卜力工作室
+    yue: 知步里工作室
+    zh: 吉卜力工作室
+    zh-cn: 吉卜力工作室
+    zh-hans: 吉卜力工作室
+    zh-hant: 吉卜力工作室
+    zh-hk: 吉卜力工作室
+    zh-sg: 吉卜力工作室
+    zh-tw: 吉卜力工作室
 ---
-
 > Studio Ghibli, Inc. 
 > (Japanese: 株式会社スタジオジブリ, Hepburn: Kabushiki-gaisha Sutajio Jiburi) 
 > is a Japanese animation studio based in [[Koganei,Tokyo]]. 

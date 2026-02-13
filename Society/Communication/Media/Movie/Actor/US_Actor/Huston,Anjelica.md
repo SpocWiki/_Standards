@@ -1,41 +1,71 @@
 ---
 aliases:
-  - Anjelica_Huston
-  - Huston,Anjelica
+- Ancelika Hyuston
+- Andželika Hjuston
+- Andželika Hjūstone
+- Angelica hoston
+- Angelica Houston
+- Anjelica Huston
+- Anjelica Hustonová
+- Anjelica_Huston
+- Huston,Anjelica
+- Αντζέλικα Χιούστον
+- Анџелика Хјустон
+- Анджэліка Г’юстан
+- Анжеліка Г'юстон
+- Анжелика Хьюстон
+- Анжелика Хюстън
+- Анжелика Һьюстон
+- Անժելիկա Հյուսթոն
+- אנג'ליקה יוסטון
+- آنجلیکا هاستون
+- آنجلیکا هیوستون
+- أنجيليكا هيوستن
+- انجيليكا هيوستن
+- انجیلیکا ہیوسٹن
+- অ্যাঞ্জেলিকা হিউস্টন
+- อันเจลิกา ฮัสตัน
+- ანჯელიკა ჰიუსტონი
+- アンジェリカ・ヒューストン
+- 安杰丽卡·休斯顿
+- 安洁莉卡·休斯顿
+- 安潔莉卡·休斯頓
+- 安芝莉嘉侯絲頓
+- 앤젤리카 휴스턴
 has_id_wikidata: Q190998
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
-  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Crystal_Award,56085709]]'
 student_of: '[[_Standards/WikiData/WD~Martin_Landau,294641]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Danny_Huston,357762]]'
-  - '[[_Standards/WikiData/WD~Allegra_Huston,4731396]]'
-  - '[[_Standards/WikiData/WD~Tony_Huston,19059415]]'
+- '[[_Standards/WikiData/WD~Danny_Huston,357762]]'
+- '[[_Standards/WikiData/WD~Allegra_Huston,4731396]]'
+- '[[_Standards/WikiData/WD~Tony_Huston,19059415]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Q726136,726136]]'
-  - '[[_Standards/WikiData/WD~Jack_Nicholson,39792]]'
+- '[[_Standards/WikiData/WD~Q726136,726136]]'
+- '[[_Standards/WikiData/WD~Jack_Nicholson,39792]]'
 spouse: '[[_Standards/WikiData/WD~Q726136,726136]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~model,4610556]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~model,4610556]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 given_name: '[[_Standards/WikiData/WD~Anjelica,4765791]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Holland_Park_School,5881040]]'
-  - "[[_Standards/WikiData/WD~St._Mary's_Town_and_Country_School,7590441]]"
+- '[[_Standards/WikiData/WD~Holland_Park_School,5881040]]'
+- "[[_Standards/WikiData/WD~St._Mary's_Town_and_Country_School,7590441]]"
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 mother: '[[_Standards/WikiData/WD~Enrica_Soma,18211504]]'
 family_name: '[[_Standards/WikiData/WD~Huston,20008663]]'
@@ -44,8 +74,8 @@ described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 place_of_birth: '[[_Standards/WikiData/WD~Santa_Monica,47164]]'
@@ -64,8 +94,88 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Anjelica%20Huston%20Ma
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Anjelica%20Huston%20signature.svg
 ISNI: 0000000121411448
 Plex_person_key: 5d776826961905001eb90e2e
+dv_has_:
+  name_:
+    af: Anjelica Huston
+    an: Anjelica Huston
+    ar: أنجيليكا هيوستن
+    arz: انجيليكا هيوستن
+    ast: Anjelica Huston
+    az: Ancelika Hyuston
+    azb: آنجلیکا هیوستون
+    be-tarask: Анджэліка Г’юстан
+    bg: Анжелика Хюстън
+    bn: অ্যাঞ্জেলিকা হিউস্টন
+    ca: Anjelica Huston
+    cs: Anjelica Hustonová
+    cy: Anjelica Huston
+    da: Anjelica Huston
+    de: Anjelica Huston
+    el: Αντζέλικα Χιούστον
+    en: Anjelica Huston
+    es: Anjelica Huston
+    eu: Anjelica Huston
+    fa: آنجلیکا هاستون
+    fi: Anjelica Huston
+    fr: Anjelica Huston
+    ga: Anjelica Huston
+    gl: Anjelica Huston
+    ha: Angelica hoston
+    he: אנג'ליקה יוסטון
+    hr: Anjelica Huston
+    hu: Anjelica Huston
+    hy: Անժելիկա Հյուսթոն
+    id: Anjelica Huston
+    io: Anjelica Huston
+    is: Anjelica Huston
+    it: Anjelica Huston
+    ja: アンジェリカ・ヒューストン
+    ka: ანჯელიკა ჰიუსტონი
+    kl: Anjelica Huston
+    ko: 앤젤리카 휴스턴
+    la: Angelica Houston
+    lb: Anjelica Huston
+    lv: Andželika Hjūstone
+    mg: Anjelica Huston
+    mn: Анжелика Хьюстон
+    mul: Anjelica Huston
+    nan: Anjelica Huston
+    nb: Anjelica Huston
+    nl: Anjelica Huston
+    nn: Anjelica Huston
+    oc: Anjelica Huston
+    pap: Anjelica Huston
+    pl: Anjelica Huston
+    pt: Anjelica Huston
+    pt-br: Anjelica Huston
+    ro: Anjelica Huston
+    ru: Анжелика Хьюстон
+    sco: Anjelica Huston
+    sh: Anjelica Huston
+    sk: Anjelica Huston
+    sl: Anjelica Huston
+    sq: Anjelica Huston
+    sr: Анџелика Хјустон
+    sr-ec: Анџелика Хјустон
+    sr-el: Andželika Hjuston
+    sv: Anjelica Huston
+    th: อันเจลิกา ฮัสตัน
+    tl: Anjelica Huston
+    tr: Anjelica Huston
+    tt: Анжелика Һьюстон
+    uk: Анжеліка Г'юстон
+    ur: انجیلیکا ہیوسٹن
+    uz: Anjelica Huston
+    vi: Anjelica Huston
+    wuu: 安杰丽卡·休斯顿
+    yo: Anjelica Huston
+    yue: 安芝莉嘉侯絲頓
+    zh: 安杰丽卡·休斯顿
+    zh-hans: 安杰丽卡·休斯顿
+    zh-hant: 安潔莉卡·休斯頓
+    zh-sg: 安洁莉卡·休斯顿
+    zh-tw: 安潔莉卡·休斯頓
 ---
-
 # [[Huston,Anjelica]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Anjelica_Huston,190998]] 

@@ -1,7 +1,65 @@
 ---
 aliases:
-  - Pazifismus
-  - Pacifism
+- Aştîxwazî
+- bakezaletasun
+- chủ nghĩa hòa bình
+- Cinta damé
+- Coodtabin
+- Friðarsinni
+- heddychiaeth
+- mirotvorstvo
+- Pacifism
+- pacifisme
+- pacifismo
+- pacifisms
+- Pacifismu
+- pacifismus
+- Pacifizam
+- pacifizem
+- pacifizmas
+- Pacifizmi
+- pacifizmus
+- pacismo
+- pacyfizm
+- pasifism
+- pasifisma
+- pasifisme
+- pasifismi
+- pasifismm
+- pasifismo
+- Pasifizm
+- Pasipismo
+- Pasisme
+- patsifism
+- Pazifismus
+- peoc'helouriezh
+- Sìochantas
+- síochánachas
+- whakamārietanga
+- Πασιφισμός
+- пасыфизем
+- Патсифизм
+- пацифізм
+- пацифизам
+- пацифизм
+- пацифизъм
+- пацыфізм
+- Պացիֆիզմ
+- פציפיזם
+- امن پسندی
+- سلامية
+- سوله غوښتنه
+- صلحجویی
+- शांतीवाद
+- शान्तिवाद
+- শান্তিবাদ
+- สันตินิยม
+- ཞི་བདེ་རིང་ལུགས།
+- პაციფიზმი
+- 和平主义
+- 和平主義
+- 平和主義
+- 평화주의
 has_id_wikidata: Q58848
 subclass_of: '[[_Standards/WikiData/WD~nonviolence,76611]]'
 different_from: '[[_Standards/WikiData/WD~antimilitarism,506674]]'
@@ -18,8 +76,100 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peace%20symbol%20%28bold%29.svg
 PhilPapers_topic: pacifism
 hashtag: pacifism
+dv_has_:
+  name_:
+    af: pasifisme
+    ar: سلامية
+    as: শান্তিবাদ
+    ast: Pacifismu
+    az: Pasifizm
+    be: пацыфізм
+    be-tarask: пацыфізм
+    bew: Cinta damé
+    bg: пацифизъм
+    bn: শান্তিবাদ
+    bo: ཞི་བདེ་རིང་ལུགས།
+    br: peoc'helouriezh
+    ca: pacifisme
+    co: pacifismu
+    cs: pacifismus
+    cy: heddychiaeth
+    da: Pacifisme
+    de: Pazifismus
+    el: Πασιφισμός
+    en: pacifism
+    eo: pacismo
+    es: pacifismo
+    et: patsifism
+    eu: bakezaletasun
+    fa: صلحجویی
+    fi: pasifismi
+    fr: pacifisme
+    fy: pasifisme
+    ga: síochánachas
+    gd: Sìochantas
+    gl: pacifismo
+    gsw: Pazifismus
+    he: פציפיזם
+    hi: शान्तिवाद
+    hr: mirotvorstvo
+    hu: pacifizmus
+    hy: Պացիֆիզմ
+    ia: Pacifismo
+    id: pasifisme
+    io: Pacifismo
+    is: Friðarsinni
+    it: pacifismo
+    ja: 平和主義
+    ka: პაციფიზმი
+    kk: пацифизм
+    ko: 평화주의
+    ku: Aştîxwazî
+    ky: Пацифизм
+    la: Pacifismus
+    lfn: Pasisme
+    lt: pacifizmas
+    lv: pacifisms
+    mi: whakamārietanga
+    mk: пацифизам
+    mn: пацифизм
+    mr: शांतीवाद
+    ms: Pasifisme
+    nb: pasifisme
+    nl: pacifisme
+    nn: pasifisme
+    oc: pacifisme
+    pl: pacyfizm
+    ps: سوله غوښتنه
+    pt: pacifismo
+    ro: pacifism
+    ru: пацифизм
+    scn: pacifismu
+    se: pasifisma
+    sh: Pacifizam
+    sk: Pacifizmus
+    sl: pacifizem
+    smn: pasifism
+    sms: pasifismm
+    so: Coodtabin
+    sq: Pacifizmi
+    sr: пацифизам
+    sr-ec: пацифизам
+    sv: pacifism
+    tg: Патсифизм
+    th: สันตินิยม
+    tl: Pasipismo
+    tr: pasifizm
+    tt: пасыфизем
+    uk: пацифізм
+    ur: امن پسندی
+    vec: pasifismo
+    vi: chủ nghĩa hòa bình
+    wuu: 和平主义
+    xmf: პაციფიზმი
+    yue: 和平主義
+    zh: 和平主义
 ---
-
 # [[Pacifism]] 
 
 #is_/same_as :: [[WD~Pacifism,58848]] 

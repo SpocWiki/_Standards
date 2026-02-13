@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Araneomorphae
+- Araneomorf
+- Araneomorf hörümçəklər
+- Araneomorfuloj
+- Araneomorphae
+- augstākie zirnekļi
+- Dvojpľúcne
+- Dvouplicní
+- Echte Webspinnen
+- Echte Weevspinnen
+- Eiginlegar köngulær
+- főpókok
+- Naʼashjéʼii
+- prečnočeljustarji
+- tangkakigen
+- Αραχνομόρφα
+- аранеоморфе
+- Аранеоморфні павуки
+- аранеоморфни паяци
+- аранеоморфные пауки
+- вистински пајаци
+- ארנומורפיה
+- تارتنکریختان
+- رتيلاوات الشكل
+- عناكب حقيقية
+- フツウクモ下目
+- 新蛛下目
+- 新蛛亞目
+- 새실젖거미하목
 title: Araneomorphae
+has_id_wikidata: Q12084
+dv_has_:
+  name_:
+    an: Araneomorphae
+    ar: عناكب حقيقية
+    arz: رتيلاوات الشكل
+    ast: Araneomorphae
+    az: Araneomorf hörümçəklər
+    be: Araneomorphae
+    bg: аранеоморфни паяци
+    ca: Araneomorf
+    ceb: Araneomorphae
+    cs: Dvouplicní
+    da: Araneomorphae
+    de: Echte Webspinnen
+    el: Αραχνομόρφα
+    en: Araneomorphae
+    eo: Araneomorfuloj
+    es: Araneomorphae
+    eu: Araneomorphae
+    ext: Araneomorphae
+    fa: تارتنکریختان
+    fi: Araneomorphae
+    fr: Araneomorphae
+    ga: Araneomorphae
+    gl: Araneomorphae
+    he: ארנומורפיה
+    hu: főpókok
+    ia: Araneomorphae
+    id: Araneomorphae
+    ie: Araneomorphae
+    io: Araneomorphae
+    is: Eiginlegar köngulær
+    it: Araneomorphae
+    ja: フツウクモ下目
+    ko: 새실젖거미하목
+    la: Araneomorphae
+    lv: augstākie zirnekļi
+    mk: вистински пајаци
+    mul: Araneomorphae
+    nb: Araneomorphae
+    nds: Echte Weevspinnen
+    nl: tangkakigen
+    nn: Araneomorphae
+    nv: Naʼashjéʼii
+    oc: Araneomorphae
+    pl: Araneomorphae
+    pt: Araneomorphae
+    pt-br: Araneomorphae
+    ro: Araneomorphae
+    ru: аранеоморфные пауки
+    sco: Araneomorphae
+    sk: Dvojpľúcne
+    sl: prečnočeljustarji
+    sq: Araneomorphae
+    sr: аранеоморфе
+    sv: Araneomorphae
+    tr: Araneomorphae
+    uk: Аранеоморфні павуки
+    vi: Araneomorphae
+    vo: Araneomorphae
+    war: Araneomorphae
+    zh: 新蛛下目
+    zh-cn: 新蛛下目
+    zh-hans: 新蛛下目
+    zh-hant: 新蛛亞目
+    zh-tw: 新蛛下目
 ---
-
 # [[Araneomorphae]] 
 ![ ](Araneomorphae/Dysdera_crocata.jpg) 
 ![Nephila_clavipes](Araneomorphae/Nephila_clavipes.jpg) 

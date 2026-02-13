@@ -1,42 +1,75 @@
 ---
-has_time_started: 1769-01-01 
-has_time_stopped: 1854-07-05 
+has_time_started: 1769-01-01
+has_time_stopped: 1854-07-05
 aliases:
-  - Mechanical Turk
-  - Mechanical_Turk
+- A Török
+- El Turc
+- El Turco
+- Il Turco
+- La Turko
+- Mechanical Turk
+- Mechanical_Turk
+- Mechaniczny Turek
+- Meganiese Turk
+- O Turco
+- Schachtürke
+- Skaktyrken
+- The Turk
+- Turc mécanique
+- Turcach Meicniúil
+- Turcul
+- Turek
+- Turk
+- Turken
+- Turkiar mekanikoa
+- Turkkilainen
+- Tyrkeren
+- Türk
+- механічний турок
+- Механички Турчин
+- Турчинът
+- Шахматный автомат
+- Մեխանիկական թուրք
+- הטורקי
+- ذي تورك
+- شطرنجباز ترک
+- দ্যা টার্ক
+- トルコ人
+- 土耳其行棋傀儡
+- 더 투르크
 has_id_wikidata: Q275924
 named_after: '[[_Standards/WikiData/WD~Turks_of_Türkiye,84072]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~chessboard,110079]]'
-  - '[[_Standards/WikiData/WD~mannequin,855680]]'
-  - '[[_Standards/WikiData/WD~clockwork,1400734]]'
-  - '[[_Standards/WikiData/WD~seat,2207370]]'
-  - '[[_Standards/WikiData/WD~cabinet,2741056]]'
-  - '[[_Standards/WikiData/WD~chess_set,25098560]]'
+- '[[_Standards/WikiData/WD~chessboard,110079]]'
+- '[[_Standards/WikiData/WD~mannequin,855680]]'
+- '[[_Standards/WikiData/WD~clockwork,1400734]]'
+- '[[_Standards/WikiData/WD~seat,2207370]]'
+- '[[_Standards/WikiData/WD~cabinet,2741056]]'
+- '[[_Standards/WikiData/WD~chess_set,25098560]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~Eugène_de_Beauharnais,155545]]'
-  - '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041]]'
-  - '[[_Standards/WikiData/WD~Peale_Museum,3373833]]'
-  - '[[_Standards/WikiData/WD~John_Kearsley_Mitchell,6242585]]'
-  - '[[_Standards/WikiData/WD~John_Ohl,24254506]]'
-  - '[[_Standards/WikiData/WD~Johann_Nepomuk_Maelzel,60927]]'
+- '[[_Standards/WikiData/WD~Eugène_de_Beauharnais,155545]]'
+- '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041]]'
+- '[[_Standards/WikiData/WD~Peale_Museum,3373833]]'
+- '[[_Standards/WikiData/WD~John_Kearsley_Mitchell,6242585]]'
+- '[[_Standards/WikiData/WD~John_Ohl,24254506]]'
+- '[[_Standards/WikiData/WD~Johann_Nepomuk_Maelzel,60927]]'
 has_use:
-  - '[[_Standards/WikiData/WD~hoax,190084]]'
-  - '[[_Standards/WikiData/WD~chess_tournament,2210277]]'
-  - '[[_Standards/WikiData/WD~temporary_exhibition,29023906]]'
+- '[[_Standards/WikiData/WD~hoax,190084]]'
+- '[[_Standards/WikiData/WD~chess_tournament,2210277]]'
+- '[[_Standards/WikiData/WD~temporary_exhibition,29023906]]'
 creator: '[[_Standards/WikiData/WD~Wolfgang_von_Kempelen,252041]]'
 operator:
-  - '[[_Standards/WikiData/WD~William_Lewis,329029]]'
-  - '[[_Standards/WikiData/WD~Aaron_Alexandre,2467677]]'
-  - '[[_Standards/WikiData/WD~William_Schlumberger,3506229]]'
-  - '[[_Standards/WikiData/WD~Jacques_François_Mouret,12022213]]'
-  - '[[_Standards/WikiData/WD~Hyacinthe_Henri_Boncourt,15515413]]'
-  - '[[_Standards/WikiData/WD~Johann_Baptist_Allgaier,64939]]'
-  - http://www.wikidata.org/.well-known/genid/e448b458bb2e18776cdda7516a6898ea
+- '[[_Standards/WikiData/WD~William_Lewis,329029]]'
+- '[[_Standards/WikiData/WD~Aaron_Alexandre,2467677]]'
+- '[[_Standards/WikiData/WD~William_Schlumberger,3506229]]'
+- '[[_Standards/WikiData/WD~Jacques_François_Mouret,12022213]]'
+- '[[_Standards/WikiData/WD~Hyacinthe_Henri_Boncourt,15515413]]'
+- '[[_Standards/WikiData/WD~Johann_Baptist_Allgaier,64939]]'
+- http://www.wikidata.org/.well-known/genid/e448b458bb2e18776cdda7516a6898ea
 instance_of:
-  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
-  - '[[_Standards/WikiData/WD~appliance,1183543]]'
-  - '[[_Standards/WikiData/WD~hoax_chess_automaton,12075990]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~appliance,1183543]]'
+- '[[_Standards/WikiData/WD~hoax_chess_automaton,12075990]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 collection: '[[_Standards/WikiData/WD~Peale_Museum,3373833]]'
 contains: '[[_Standards/WikiData/WD~chess_player,10873124]]'
@@ -46,8 +79,51 @@ sport: '[[_Standards/WikiData/WD~chess,718]]'
 Commons_category: The Turk
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Racknitz%20-%20The%20Turk%201.jpg
 inception: 1769-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Meganiese Turk
+    ar: ذي تورك
+    bg: Турчинът
+    bn: দ্যা টার্ক
+    ca: El Turc
+    cs: Turek
+    da: Skaktyrken
+    de: Schachtürke
+    en: The Turk
+    eo: La Turko
+    es: El Turco
+    eu: Turkiar mekanikoa
+    fa: شطرنجباز ترک
+    fi: Turkkilainen
+    fr: Turc mécanique
+    ga: Turcach Meicniúil
+    he: הטורקי
+    hu: A Török
+    hy: Մեխանիկական թուրք
+    id: Turk
+    it: Il Turco
+    ja: トルコ人
+    ko: 더 투르크
+    ms: Turk
+    nb: Tyrkeren
+    nl: Turk
+    pl: Mechaniczny Turek
+    pt: O Turco
+    ro: Turcul
+    ru: Шахматный автомат
+    sk: Turek
+    sr: Механички Турчин
+    sv: Turken
+    tr: Türk
+    uk: механічний турок
+    zh: 土耳其行棋傀儡
+    zh-cn: 土耳其行棋傀儡
+    zh-hans: 土耳其行棋傀儡
+    zh-hant: 土耳其行棋傀儡
+    zh-hk: 土耳其行棋傀儡
+    zh-sg: 土耳其行棋傀儡
+    zh-tw: 土耳其行棋傀儡
 ---
-
 # [[Mechanical_Turk]] 
 
 #is_/similar_to :: [[../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk]] 

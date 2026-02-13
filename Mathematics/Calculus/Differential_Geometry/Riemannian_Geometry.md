@@ -1,16 +1,121 @@
 ---
 aliases:
+- Geometri Riemann
+- geometria de Riemann
+- Geometria riemanniana
+- geometria riemannowska
+- geometrie riemanniană
+- geometría de Riemann
+- géométrie riemannienne
+- Heometriyang Riemanniano
+- hình học Riemann
+- Riemann geometrisi
+- Riemann-geometria
+- riemann-meetkunde
+- Riemannen geometria
+- Riemanngeometri
+- Riemanni geomeetria
+- Riemannian geometry
+- Riemannin geometria
+- Riemannova geometrie
+- Riemannova geometrija
+- Riemanns differensialgeometri
+- riemannsche Geometrie
+- Riemannsk geometri
+- Riman geometriyasi
+- Riman həndəsəsi
+- rimana geometrio
+- Rimanova geometrija
+- Xeometría de Riemann
+- Ριμάνεια Γεωμετρία.
+- ріманова геометрія
+- Риман геометрийĕ
+- риман геометриясе
+- Риман геометриясы
+- Риман геометрияһы
+- Риманова геометрија
+- Риманова геометрия
+- рыманава геаметрыя
+- рыманава геамэтрыя
+- ҳандасаи римонӣ
+- Ռիմանյան երկրաչափություն
+- هندسة ريمانية
+- هندسه ریمانی
+- रीमानी ज्यामिति
+- ਰੀਮਾਨੀਅਨ ਜੀਓਮੈਟ੍ਰੀ
+- リーマン幾何学
+- 黎曼几何
+- 黎曼幾何
+- 리만 기하학
 has_id_wikidata: Q761383
-subclass_of: "[[_Standards/WikiData/WD~differential_geometry,188444]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-named_after: "[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]"
+subclass_of: '[[_Standards/WikiData/WD~differential_geometry,188444]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
 Commons_category: Riemannian geometry
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/riemannian-geometry
-  - https://mathoverflow.net/tags/riemannian-geometry
+- https://math.stackexchange.com/tags/riemannian-geometry
+- https://mathoverflow.net/tags/riemannian-geometry
+dv_has_:
+  name_:
+    ar: هندسة ريمانية
+    ast: Xeometría de Riemann
+    az: Riman həndəsəsi
+    ba: Риман геометрияһы
+    be: рыманава геаметрыя
+    be-tarask: рыманава геамэтрыя
+    bg: Риманова геометрия
+    ca: Geometria riemanniana
+    cs: Riemannova geometrie
+    cv: Риман геометрийĕ
+    da: Riemannsk geometri
+    de: riemannsche Geometrie
+    el: Ριμάνεια Γεωμετρία.
+    en: Riemannian geometry
+    eo: rimana geometrio
+    es: geometría de Riemann
+    et: Riemanni geomeetria
+    eu: Riemannen geometria
+    fa: هندسه ریمانی
+    fi: Riemannin geometria
+    fr: géométrie riemannienne
+    gl: xeometría de Riemann
+    hi: रीमानी ज्यामिति
+    hu: Riemann-geometria
+    hy: Ռիմանյան երկրաչափություն
+    id: Geometri Riemann
+    it: geometria riemanniana
+    ja: リーマン幾何学
+    kk: Риман геометриясы
+    ko: 리만 기하학
+    lrc: هندسه ریمانی
+    mk: Риманова геометрија
+    nb: Riemanns differensialgeometri
+    nl: riemann-meetkunde
+    nn: Riemannsk geometri
+    pa: ਰੀਮਾਨੀਅਨ ਜੀਓਮੈਟ੍ਰੀ
+    pl: geometria riemannowska
+    pt: geometria de Riemann
+    pt-br: geometria Riemanniana
+    ro: geometrie riemanniană
+    ru: риманова геометрия
+    sh: Riemannova geometrija
+    sl: Riemannova geometrija
+    sr: Rimanova geometrija
+    sv: Riemanngeometri
+    tg: ҳандасаи римонӣ
+    tl: Heometriyang Riemanniano
+    tr: Riemann geometrisi
+    tt: риман геометриясе
+    uk: ріманова геометрія
+    uz: Riman geometriyasi
+    vi: hình học Riemann
+    yue: 黎曼幾何
+    zh: 黎曼几何
+    zh-hans: 黎曼几何
+    zh-hant: 黎曼幾何
+    zh-hk: 黎曼幾何
 ---
-
 # [[Riemannian_Geometry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Riemannian_geometry,761383|WD~Riemannian_geometry,761383]]  

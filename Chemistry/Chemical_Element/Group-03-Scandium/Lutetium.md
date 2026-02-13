@@ -1,27 +1,112 @@
 ---
 aliases:
-  - cassiopeium
-  - cassiopium
-  - lutecium
-  - lutetium
-  - Lutetium
+- cassiopeium
+- cassiopium
+- jinmrluteti
+- L'utecii
+- Litesyòm
+- Lootaiçhum
+- Lotesiôma
+- luteci
+- lutecij
+- Lutecijum
+- lutecio
+- lutecis
+- luteciu
+- lutecium
+- Luteetiyaam
+- luteetsium
+- lutesio
+- Lutesiom
+- Lutesium
+- Lutessi
+- Lutesyo
+- Lutesyu
+- lutesyum
+- Lutesyûm
+- lutet
+- Luteti
+- Lutetiom
+- lutetium
+- Lutetiumi
+- Lutezi
+- lutezio
+- Luteziu
+- lutezju
+- lutezziu
+- lutețiu
+- Lutèci
+- Lutètziu
+- lutécio
+- lutécium
+- Lutésium
+- lutēcijs
+- lwtetiwm
+- Lyutetsiy
+- lúitéitiam
+- lútetín
+- Lütecii
+- Lʊtɛsɩyɔm
+- UmLuthambi
+- λουτήτιο
+- лутецијум
+- лутеций
+- лутециум
+- лютецій
+- Лютеци
+- лютеций
+- Лютециум
+- Лютэц
+- лютэцый
+- Лӱтеций
+- լուտեցիում
+- לוטציום
+- لتیتیم
+- لوتتیم
+- لوتيتيوم
+- لوتيشيوم
+- لوطيسيوم
+- لووتیشیۆم
+- لوٹیٹیئم
+- لوٽئشيئم
+- لۇتېتسىي
+- लुटीशियम
+- लुटेटियम
+- ल्यूटेटियम
+- লুটিশিয়াম
+- ਲੁਟੀਸ਼ੀਅਮ
+- લ્યુટેશિયમ
+- ଲ୍ୟୁଟେସିଅମ
+- லியுதேத்தியம்
+- లుటీషియం
+- ಲ್ಯುಟೇಶಿಯಮ್
+- ലുറ്റീഷ്യം
+- ลูทีเทียม
+- လူတက်သီယမ်
+- ლუტეციუმი
+- ሉቴቲየም
+- ルテチウム
+- 鎦
+- 鑥
+- 镥
+- 루테튬
 has_id_wikidata: Q1857
 atomic_number: 71
-canonical_SMILES: "[Lu]"
+canonical_SMILES: '[Lu]'
 CAS_Registry_Number: 7439-94-3
 chemical_formula: Lu
 Commons_category: Lutetium
 Commons_gallery: Lutetium
 Common_Procurement_Vocabulary_code:
-  - 14752000-7
-  - 14752000
+- 14752000-7
+- 14752000
 CPV_Supplementary_code: AA24
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]"
-  - "[[_Standards/WikiData/WD~Georges_Urbain,560404]]"
+- '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
+- '[[_Standards/WikiData/WD~Georges_Urbain,560404]]'
 DSSTOX_compound_identifier: DTXCID9027730
 EC_number: 231-103-0
 electronegativity: 1
@@ -31,47 +116,196 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20
 InChI: InChI=1S/Lu
 InChIKey: OHSVLFRHMCKCQY-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.86
-  - 0.97
+- 0.86
+- 0.97
 mass: 174.96669
 MeSH_tree_code:
-  - D01.268.558.362.562
-  - D01.268.956.311
-  - D01.552.550.399.562
-named_after: "[[_Standards/WikiData/WD~Lutetia,270273]]"
+- D01.268.558.362.562
+- D01.268.956.311
+- D01.552.550.399.562
+named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
 OmegaWiki_Defined_Meaning: 161929
 oxidation_state: 3
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23929
 SpocWebEntityId: 21967
 time_of_discovery_or_invention: 1906
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]'
 type: Element
 UMLS_CUI: C0024170
 Unicode_character: 鎦
 UNII: 5H0DOZ21UJ
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Lutetium,1857]]"
-    - "[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.internal|Lutetium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.protect|Lutetium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]"
-  part_of: "[[../Group-03-Scandium]]"
+  - '[[../../../WikiData/WD~Lutetium,1857]]'
+  - '[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.internal|Lutetium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.protect|Lutetium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]'
+  part_of: '[[../Group-03-Scandium]]'
 dv_has_:
   name_:
-    group: Group-03-Scandium
-    en: Lutetium
-    de: Lutetium
     abbreviated: Lu
+    af: lutetium
+    am: ሉቴቲየም
+    anp: ल्यूटेटियम
+    ar: لوتيشيوم
+    ary: لوطيسيوم
+    arz: لوتيشيوم
+    ast: luteciu
+    az: Lutesium
+    ban: Lutésium
+    bcl: Lutesyo
+    be: лютэцый
+    be-tarask: Лютэц
+    bg: лутеций
+    bho: लुटेटियम
+    bn: লুটিশিয়াম
+    br: Lutesiom
+    bs: lutecij
+    ca: luteci
+    cdo: Lutetium
+    ceb: Lutesyo
+    ckb: لووتیشیۆم
+    co: Luteziu
+    cs: lutecium
+    cv: Лютеци
+    cy: lwtetiwm
+    da: lutetium
+    de: Lutetium
+    el: λουτήτιο
+    en: lutetium
+    eo: lutecio
+    es: lutecio
+    et: luteetsium
+    eu: lutezio
+    fa: لوتتیم
+    fi: lutetium
+    fo: Lutetium
+    fr: lutécium
+    frr: Luteetsium
+    fur: Lutezi
+    ga: lúitéitiam
+    gd: Lutetium
+    gl: lutecio
+    group: Group-03-Scandium
+    gu: લ્યુટેશિયમ
+    gv: Lootaiçhum
+    hak: lutetium
+    he: לוטציום
+    hi: लुटीशियम
+    hif: Lutetium
+    hr: lutecij
+    ht: Litesyòm
+    hu: lutécium
+    hy: լուտեցիում
+    ia: lutetium
+    id: lutesium
+    io: lutecio
+    is: lútetín
+    it: lutezio
+    ja: ルテチウム
+    jbo: jinmrluteti
+    jv: Lutetium
+    ka: ლუტეციუმი
+    kbp: Lʊtɛsɩyɔm
+    kk: Лютеций
+    kn: ಲ್ಯುಟೇಶಿಯಮ್
+    ko: 루테튬
+    ku: Lutesyûm
+    kv: Лютеций
+    kw: Lutetiom
+    ky: Лютеций
+    la: lutetium
+    lb: Lutetium
+    lfn: lutesio
+    li: Lutetium
+    lij: Lutesio
+    lt: lutecis
+    lv: lutēcijs
+    lzh: 鑥
+    mg: Lotesiôma
+    mk: лутециум
+    ml: ലുറ്റീഷ്യം
+    mn: лютеци
+    mr: लुटेटियम
+    mrj: Лӱтеций
+    ms: Lutetium
+    mt: lutezju
+    my: လူတက်သီယမ်
+    nan: Lutetium
+    nb: lutetium
+    ne: लुटेटियम
+    new: लुटेटियम
+    nl: lutetium
+    nn: lutetium
+    nov: Lutesium
+    oc: Lutèci
+    olo: L'utecii
+    or: ଲ୍ୟୁଟେସିଅମ
+    os: лютеций
+    pa: ਲੁਟੀਸ਼ੀਅਮ
+    pi: लुटेटियम
+    pl: lutet
+    pms: Lutessi
+    pnb: لتیتیم
+    ps: لوتيتيوم
+    pt: lutécio
+    pt-br: lutécio
+    qu: Lutesyu
+    ro: lutețiu
+    ru: лютеций
+    rup: Lutețiu
+    sa: लुटेटियम
+    sah: Лютециум
+    sc: Lutètziu
+    scn: lutezziu
+    sco: lutetium
+    sd: لوٽئشيئم
+    sh: Lutecijum
+    sk: lutécium
+    sl: lutecij
+    so: Luteetiyaam
+    sq: Lutetiumi
+    sr: лутецијум
+    sr-ec: Лутецијум
+    stq: Lutetium
+    sv: lutetium
+    sw: Luteti
+    ta: லியுதேத்தியம்
+    te: లుటీషియం
+    tg: лютеций
+    th: ลูทีเทียม
+    tl: Lutesyo
+    tr: lutesyum
+    tt: Лютеций
+    ug: لۇتېتسىي
+    uk: лютецій
+    ur: لوٹیٹیئم
+    uz: Lyutetsiy
+    vep: Lütecii
+    vi: luteti
+    war: Lutesyo
+    wuu: 镥
+    xal: Лютециум
+    yo: Lutetium
+    yue: 鑥
+    zh: 镥
+    zh-hant: 鎦
+    zh-tw: 鎦
+    zu: UmLuthambi
+  number_of_:
+    period: 6
+    group: 37
+    electrons: 71
   value_for_:
     weight_:
       u: 174.967
@@ -99,22 +333,18 @@ dv_has_:
       form_:
         kj_:
           mol: 355.9
-  number_of_:
-    period: 6
-    group: 37
-    electrons: 71
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Lutetium,1857]]"
-  - "[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.internal|Lutetium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.protect|Lutetium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]"
+- '[[../../../WikiData/WD~Lutetium,1857]]'
+- '[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.internal|Lutetium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.protect|Lutetium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]'
 dv_has_name_group: Group-03-Scandium
-dv_is_part_of: "[[../Group-03-Scandium]]"
+dv_is_part_of: '[[../Group-03-Scandium]]'
 dv_has_name_en: Lutetium
 dv_has_name_de: Lutetium
 dv_has_name_abbreviated: Lu
@@ -135,7 +365,6 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 37
 dv_has_number_of_electrons: 71
 ---
-
 # [[Lutetium]] 
 
 #chemic/Element 

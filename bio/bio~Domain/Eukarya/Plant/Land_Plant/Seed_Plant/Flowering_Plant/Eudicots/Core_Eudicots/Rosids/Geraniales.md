@@ -1,9 +1,112 @@
 ---
 aliases:
-  - Geraniales
+- bodziszkowce
+- Bộ Mỏ hạc
+- Gandreņu rinda
+- Geraniales
+- Geranialoj
+- Geranials
+- gólyaorrvirágúak
+- iglicolike
+- kakostotvaré
+- krvomočnikovci
+- Näveordningen
+- pakostotvaré
+- snaputiečiai
+- Storchschnabelartige
+- storkenebbordenen
+- storkenæb-ordenen
+- Ətirşahçiçəklilər
+- Γερανιώδη
+- Геранієцвіті
+- Геранекветныя
+- гераниецветные
+- здравецоцветни
+- Здравцовидни
+- խորդենածաղկավորներ
+- גרנאים
+- شمعدانیسانان
+- غرنوقيات
+- జెరానియల్స్
+- フウロソウ目
+- 牻牛儿苗目
+- 쥐손이풀목
 title: Geraniales
+has_id_wikidata: Q14272
+dv_has_:
+  name_:
+    af: Geraniales
+    an: Geraniales
+    ar: غرنوقيات
+    arz: غرنوقيات
+    ast: Geraniales
+    az: Ətirşahçiçəklilər
+    be: Геранекветныя
+    be-tarask: Геранекветныя
+    bg: здравецоцветни
+    bs: Geraniales
+    ca: Geranials
+    ceb: Geraniales
+    co: Geraniales
+    cs: kakostotvaré
+    da: storkenæb-ordenen
+    de: Storchschnabelartige
+    de-ch: Storchschnabelartige
+    el: Γερανιώδη
+    en: Geraniales
+    en-ca: Geraniales
+    en-gb: Geraniales
+    eo: Geranialoj
+    es: Geraniales
+    eu: Geraniales
+    ext: Geraniales
+    fa: شمعدانیسانان
+    fi: Geraniales
+    fr: Geraniales
+    frr: Geraniales
+    ga: Geraniales
+    gl: Geraniales
+    he: גרנאים
+    hr: iglicolike
+    hu: gólyaorrvirágúak
+    hy: խորդենածաղկավորներ
+    ia: Geraniales
+    id: Geraniales
+    ie: Geraniales
+    io: Geraniales
+    it: Geraniales
+    ja: フウロソウ目
+    ko: 쥐손이풀목
+    la: Geraniales
+    lt: snaputiečiai
+    lv: Gandreņu rinda
+    mk: Здравцовидни
+    mul: Geraniales
+    nb: storkenebbordenen
+    nl: Geraniales
+    nn: storkenebbordenen
+    oc: Geraniales
+    pl: bodziszkowce
+    pt: Geraniales
+    pt-br: Geraniales
+    ro: Geraniales
+    ru: гераниецветные
+    sco: Geraniales
+    sk: pakostotvaré
+    sl: krvomočnikovci
+    sq: Geraniales
+    sr: Geraniales
+    sv: Näveordningen
+    te: జెరానియల్స్
+    tr: Geraniales
+    uk: Геранієцвіті
+    vi: Bộ Mỏ hạc
+    vo: Geraniales
+    war: Geraniales
+    zh: 牻牛儿苗目
+    zh-cn: 牻牛儿苗目
+    zh-hans: 牻牛儿苗目
 ---
-
 # [[Geraniales]] 
 
 ![Erodium cicutarium](Geraniales/Erodium_cicutarium.jpg) 

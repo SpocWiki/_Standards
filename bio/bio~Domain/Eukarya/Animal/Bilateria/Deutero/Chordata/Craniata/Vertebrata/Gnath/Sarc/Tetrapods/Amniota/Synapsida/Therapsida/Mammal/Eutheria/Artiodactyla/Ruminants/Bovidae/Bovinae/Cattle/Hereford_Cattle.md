@@ -1,22 +1,105 @@
 ---
 aliases:
-  - Hereford Cattle
-  - Hereford_Cattle
+- Bò Hereford
+- Gereford sïırı
+- Hereford
+- Hereford (govedo)
+- Hereford behi
+- Hereford Cattle
+- hereford marha
+- Hereford-Rind
+- Herefordai
+- Herefordfe
+- Herefordi veis
+- Herefordkveg
+- Herefordkvæg
+- Herefordsko govedo
+- Herefordský skot
+- Hereford_Cattle
+- Sapi hereford
+- Герефорд сиыры
+- Герефорд сыеры
+- Герефорд Ую
+- герефордская порода
+- Герефордська порода корів
+- гэрэфардзкая карова
+- Հերեֆորդյան տավար
+- פר הרפורד
+- هيريفورد
+- گاو هرفورد
+- گەرەفورد سىيىرى
+- ჰერიფორდული ჯიში
+- ヘレフォード種
+- 海福特牛
+- 禧福牛
 has_id_wikidata: Q737173
 instance_of:
-  - '[[_Standards/WikiData/WD~beef_cattle,1208989]]'
-  - '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
+- '[[_Standards/WikiData/WD~beef_cattle,1208989]]'
+- '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of: '[[_Standards/WikiData/WD~cattle,830]]'
 country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
 height: 125
 Commons_category: Hereford cattle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hereford%20bull%20large.jpg
 Commons_gallery: Hereford (cattle)
+dv_has_:
+  name_:
+    af: Hereford
+    ar: هيريفورد
+    arz: هيريفورد
+    be-tarask: гэрэфардзкая карова
+    ca: Hereford
+    cs: Herefordský skot
+    da: Herefordkvæg
+    de: Hereford-Rind
+    en: Hereford
+    eo: Hereford
+    es: Hereford
+    et: Herefordi veis
+    eu: Hereford behi
+    fa: گاو هرفورد
+    fi: Hereford
+    fr: Hereford
+    fy: Hereford
+    gl: Hereford
+    he: פר הרפורד
+    hr: Hereford (govedo)
+    hu: hereford marha
+    hy: Հերեֆորդյան տավար
+    id: Sapi hereford
+    it: Hereford
+    ja: ヘレフォード種
+    ka: ჰერიფორდული ჯიში
+    kk: Герефорд сиыры
+    kk-arab: گەرەفورد سىيىرى
+    kk-cyrl: Герефорд сиыры
+    kk-latn: Gereford sïırı
+    ky: Герефорд Ую
+    lt: Herefordai
+    nb: Herefordkveg
+    nl: Hereford
+    nn: Herefordfe
+    pl: Hereford
+    pt: Hereford
+    ro: Hereford
+    ru: герефордская порода
+    sr: Herefordsko govedo
+    sv: Hereford
+    tr: Hereford
+    tt: Герефорд сыеры
+    uk: Герефордська порода корів
+    vi: Bò Hereford
+    war: Hereford
+    wuu: 海福特牛
+    yue: 禧福牛
+    zh: 海福特牛
+    zh-hans: 海福特牛
+    zh-hant: 海福特牛
+    zh-hk: 海福特牛
 ---
-
 # [[Hereford_Cattle]] 
 
 #is_/same_as :: [[WD~Hereford,737173]] 

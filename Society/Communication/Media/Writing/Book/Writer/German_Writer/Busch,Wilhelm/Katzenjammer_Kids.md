@@ -1,9 +1,48 @@
 ---
 aliases:
-  - Katzenjammer Kids
-  - Katzenjammer_Kids
+- Bibì e Bibò
+- Kapteainna Juovllat
+- Katzenjammer Kids
+- Katzenjammer_Kids
+- Kissalan pojat
+- Knold og Tot
+- Knoll och Tott
+- Knoll og Tott
+- Pim, Pam et Poum
+- The Katzenjammer Kids
+- Бим и Бум
+- ילדי קאצניאמר
+- کتزنجمر کیدز
+- カッツェンジャマー・キッズ
+- 卡岑賈默的孩子
+has_id_wikidata: Q1315973
+dv_has_:
+  name_:
+    br: The Katzenjammer Kids
+    ca: The Katzenjammer Kids
+    da: Knold og Tot
+    de: The Katzenjammer Kids
+    en: The Katzenjammer Kids
+    es: The Katzenjammer Kids
+    fa: کتزنجمر کیدز
+    fi: Kissalan pojat
+    fr: Pim, Pam et Poum
+    ga: The Katzenjammer Kids
+    he: ילדי קאצניאמר
+    id: Katzenjammer Kids
+    it: Bibì e Bibò
+    ja: カッツェンジャマー・キッズ
+    la: The Katzenjammer Kids
+    nb: Knoll og Tott
+    nl: The Katzenjammer Kids
+    nn: Knoll og Tott
+    pt: Katzenjammer Kids
+    se: Kapteainna Juovllat
+    sh: The Katzenjammer Kids
+    sr: Бим и Бум
+    sv: Knoll och Tott
+    zh: 卡岑賈默的孩子
 ---
-
 #has_/previous_/item :: [[Max_and_Moritz]] 
 
 ## #has_/text_of_/abstract 

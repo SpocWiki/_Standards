@@ -1,4 +1,64 @@
-
+---
+has_id_wikidata: Q295287
+dv_has_:
+  name_:
+    ar: اقتصاد الانتباه
+    as: মনোযোগ অৰ্থনীতি
+    az: Diqqət iqtisadiyyatı
+    bg: Икономика на вниманието
+    bn: মনোযোগের অর্থনীতি
+    ca: Economia de l'atenció
+    da: opmærksomhedsøkonomi
+    de: Ökonomie der Aufmerksamkeit
+    en: attention economy
+    es: economía de la atención
+    et: Tähelepanumajandus
+    fa: اقتصاد توجه
+    fr: économie de l'attention
+    he: כלכלת תשומת הלב
+    hr: Ekonomija pozornosti
+    hu: figyelemgazdaság
+    ja: アテンション・エコノミー
+    ko: 주목경제
+    nb: oppmerksomhetsøkonomi
+    nn: merksemdøkonomi
+    or: ଅଭିନିବେଶ ଅର୍ଥନୀତି
+    pt: Economia da atenção
+    ru: экономика внимания
+    tg: Иқтисоди диққат
+    tr: Dikkat ekonomisi
+    vi: Kinh tế sức chú ý
+    yue: 注意力經濟
+    zh: 注意力經濟
+aliases:
+- attention economy
+- Dikkat ekonomisi
+- Diqqət iqtisadiyyatı
+- Economia da atenção
+- Economia de l'atenció
+- economía de la atención
+- Ekonomija pozornosti
+- figyelemgazdaság
+- Kinh tế sức chú ý
+- merksemdøkonomi
+- opmærksomhedsøkonomi
+- oppmerksomhetsøkonomi
+- Tähelepanumajandus
+- économie de l'attention
+- Ökonomie der Aufmerksamkeit
+- Икономика на вниманието
+- Иқтисоди диққат
+- экономика внимания
+- כלכלת תשומת הלב
+- اقتصاد الانتباه
+- اقتصاد توجه
+- মনোযোগ অৰ্থনীতি
+- মনোযোগের অর্থনীতি
+- ଅଭିନିବେଶ ଅର୍ଥନୀତି
+- アテンション・エコノミー
+- 注意力經濟
+- 주목경제
+---
 # [[Attention Economy]] 
 
 Algorithms figured out that Attention can best be obtained by 

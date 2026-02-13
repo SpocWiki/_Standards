@@ -1,28 +1,156 @@
 ---
 aliases:
-  - Functional_analysis
-  - Functional_Analysis
-  - Functional Analysis
+- analisi funtzional
+- analisi funzionale
+- analisis fungsi
+- analisis fungsional
+- analiza funkcjonalna
+- analiza funksionale
+- analiză funcțională
+- analyse fonctionnelle
+- analysis functionalis
+- analís funcional
+- anàlisi fonsional
+- anàlisi funcional
+- análise funcional
+- análisis funcional
+- dadansoddiad swyddogaethol
+- fonksiyonel analiz
+- functionaalanalyse
+- Functional Analysis
+- Functional_analysis
+- funkcia analitiko
+- funkcionalna analiza
+- funkcionálanalízis
+- Funkcionálna analýza
+- funkcionální analýza
+- funksjonalanalyse
+- funktionaalianalyysi
+- funktionalanalys
+- funktionalanalyse
+- Funktionalanalysis
+- funktsionaalanalüüs
+- fwnkcïonaldıq taldaw
+- giải tích hàm
+- συναρτησιακή ανάλυση
+- таҳлили тобеъӣ
+- функціональний аналіз
+- функцилле анализ
+- Функционалдық талдау
+- функционален анализ
+- функционална анализа
+- функционалон анализ
+- функциональ анализ
+- функциональный анализ
+- функцыянальны аналіз
+- ֆունկցիոնալ վերլուծություն
+- אנליזה פונקציונלית
+- آنالیز تابعی
+- تحليل دالي
+- شیکاریی فانکشنی
+- فۋنكتسىيونالدىق تالداۋ
+- फलन विश्लेषण
+- ဖန်ရှင်ဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာသင်္ချာ
+- ဖန်သျှင်ဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာသင်္ချာ
+- ფუნქციონალური ანალიზი
+- 泛函分析
+- 関数解析学
+- 함수해석학
 has_id_wikidata: Q190549
 subclass_of:
-  - '[[_Standards/WikiData/WD~pure_mathematics,837863]]'
-  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~pure_mathematics,837863]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 has_part_s_: '[[_Standards/WikiData/WD~operator_algebra,1892554]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Functional_analysis,20367560]]'
 part_of: '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
 Stack_Exchange_tag:
-  - https://hsm.stackexchange.com/tags/functional-analysis
-  - https://math.stackexchange.com/tags/functional-analysis
-  - https://mathoverflow.net/tags/fa.functional-analysis
+- https://hsm.stackexchange.com/tags/functional-analysis
+- https://math.stackexchange.com/tags/functional-analysis
+- https://mathoverflow.net/tags/fa.functional-analysis
 ACM_Classification_Code_2012_: 10003736
 Classification_of_Instructional_Programs_code: 27.0103
 Commons_category: Functional analysis
+dv_has_:
+  name_:
+    ar: تحليل دالي
+    ast: analís funcional
+    ba: функциональ анализ
+    be: функцыянальны аналіз
+    be-tarask: функцыянальны аналіз
+    bg: функционален анализ
+    ca: anàlisi funcional
+    ckb: شیکاریی فانکشنی
+    co: analisi funzionale
+    cs: funkcionální analýza
+    cv: функцилле анализ
+    cy: dadansoddiad swyddogaethol
+    da: funktionalanalyse
+    de: Funktionalanalysis
+    el: συναρτησιακή ανάλυση
+    en: functional analysis
+    eo: funkcia analitiko
+    es: análisis funcional
+    et: funktsionaalanalüüs
+    eu: analisi funtzional
+    fa: آنالیز تابعی
+    fi: funktionaalianalyysi
+    fr: analyse fonctionnelle
+    gl: análise funcional
+    he: אנליזה פונקציונלית
+    hi: फलन विश्लेषण
+    hu: funkcionálanalízis
+    hy: ֆունկցիոնալ վերլուծություն
+    id: analisis fungsional
+    it: analisi funzionale
+    ja: 関数解析学
+    ka: ფუნქციონალური ანალიზი
+    kk: Функционалдық талдау
+    kk-arab: فۋنكتسىيونالدىق تالداۋ
+    kk-cn: فۋنكتسىيونالدىق تالداۋ
+    kk-cyrl: функционалдық талдау
+    kk-kz: функционалдық талдау
+    kk-latn: fwnkcïonaldıq taldaw
+    kk-tr: fwnkcïonaldıq taldaw
+    ko: 함수해석학
+    la: analysis functionalis
+    mk: функционална анализа
+    ms: analisis fungsi
+    my: ဖန်ရှင်ဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာသင်္ချာ
+    nb: funksjonalanalyse
+    nl: functionaalanalyse
+    nn: funksjonalanalyse
+    os: функционалон анализ
+    pl: analiza funkcjonalna
+    pms: anàlisi fonsional
+    pt: análise funcional
+    pt-br: análise funcional
+    rki: ဖန်သျှင်ဆိုင်ရာ ခွဲခြမ်းစိတ်ဖြာသင်္ချာ
+    ro: analiză funcțională
+    ru: функциональный анализ
+    sk: Funkcionálna analýza
+    sl: funkcionalna analiza
+    sq: analiza funksionale
+    sr: функционална анализа
+    sv: funktionalanalys
+    tg: таҳлили тобеъӣ
+    tr: fonksiyonel analiz
+    tt: функциональ анализ
+    uk: функціональний аналіз
+    vi: giải tích hàm
+    wuu: 泛函分析
+    yue: 泛函分析
+    zh: 泛函分析
+    zh-cn: 泛函分析
+    zh-hans: 泛函分析
+    zh-hant: 泛函分析
+    zh-hk: 泛函分析
+    zh-sg: 泛函分析
+    zh-tw: 泛函分析
 ---
-
 # [[Functional_Analysis]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Functional_analysis,190549|WD~Functional_analysis,190549]] 

@@ -1,15 +1,80 @@
 ---
 aliases:
-  - Totalitarismus
-  - Totalitarianism
+- Alræði
+- Choân-thé-chú-gī
+- Chủ nghĩa toàn trị
+- Hollveliouriezh
+- ollsmachtachas
+- totalismo
+- totalitariaeth
+- Totalitarianism
+- Totalitarianisme
+- totalitarianizmus
+- totalitarism
+- totalitarisma
+- totalitarisme
+- totalitarismi
+- totalitarismm
+- Totalitarismo
+- Totalitarismu
+- Totalitarismus
+- totalitarizam
+- totalitarizem
+- Totalitarizm
+- totalitarizmas
+- Totalitarizmi
+- Totalitarizmus
+- Totalitaryanismo
+- Totalitarysm
+- totalitaryzm
+- totaliterisme
+- totalitær
+- totalitārisms
+- Totalïtarïzm
+- totałitarismo
+- Tutalitarismu
+- Ολοκληρωτισμός
+- тамомиятхоҳӣ
+- таталітарызм
+- тоталітаризм
+- тоталитаризам
+- тоталитаризм
+- Тоталитаризъм
+- ամբողջատիրություն
+- טוטליטריזם
+- الانظمه الشموليه
+- الشمولية
+- تمامیتخواهی
+- توتالىيتارىيزم
+- توتالیتاریزیم
+- توتالیتاریسم
+- تەواوخوازی
+- مطلق آمريت
+- ټوټالېټر
+- ہمہ گیریت
+- सर्वंकषवाद
+- सर्वसत्तावाद
+- একচ্ছত্রবাদ
+- ਸਰਬ ਅਧਿਕਾਰਵਾਦ
+- સર્વસત્તાવાદ
+- ระบบรวบอำนาจเบ็ดเสร็จ
+- ລະບອບຮວມອຳນາດເບັດເສັດ
+- အကြွင်းမဲ့ အာဏာရှင် စနစ်
+- ტოტალიტარიზმი
+- ፍፁም ጠቅላይ
+- 全体主義
+- 极权主义
+- 極權
+- 極權主義
+- 전체주의
 has_id_wikidata: Q128135
 different_from:
-  - '[[_Standards/WikiData/WD~totalism,9089200]]'
-  - '[[_Standards/WikiData/WD~Q125656942,125656942]]'
+- '[[_Standards/WikiData/WD~totalism,9089200]]'
+- '[[_Standards/WikiData/WD~Q125656942,125656942]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
-  - '[[_Standards/WikiData/WD~political_concept,33104069]]'
-  - '[[_Standards/WikiData/WD~political_system,28108]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~political_concept,33104069]]'
+- '[[_Standards/WikiData/WD~political_system,28108]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 opposite_of: '[[_Standards/WikiData/WD~anti_totalitarianism,99633672]]'
 has_characteristic: '[[_Standards/WikiData/WD~Forced_merger,130312329]]'
@@ -23,8 +88,122 @@ IMDb_keyword: totalitarianism
 Commons_category: Totalitarianism
 Gujarati_Vishwakosh_entry: સર્વસત્તાવાદ
 Dewey_Decimal_Classification: 320.53
+dv_has_:
+  name_:
+    af: Totalitarisme
+    am: ፍፁም ጠቅላይ
+    ar: الشمولية
+    arz: الانظمه الشموليه
+    ast: Totalitarismu
+    az: Totalitarizm
+    azb: توتالیتاریزیم
+    be: таталітарызм
+    be-tarask: таталітарызм
+    bg: Тоталитаризъм
+    bn: একচ্ছত্রবাদ
+    br: Hollveliouriezh
+    bs: totalitarizam
+    ca: totalitarisme
+    ckb: تەواوخوازی
+    cs: totalitarismus
+    cv: Тоталитаризм
+    cy: totalitariaeth
+    da: totalitarisme
+    de: Totalitarismus
+    el: Ολοκληρωτισμός
+    en: totalitarianism
+    eo: totalismo
+    es: totalitarismo
+    et: totalitarism
+    eu: Totalitarismo
+    fa: تمامیتخواهی
+    fi: totalitarismi
+    fr: totalitarisme
+    ga: ollsmachtachas
+    gl: totalitarismo
+    gsw: Totalitarismus
+    gu: સર્વસત્તાવાદ
+    he: טוטליטריזם
+    hi: सर्वसत्तावाद
+    hr: Totalitarizam
+    hsb: totalitarizm
+    hu: totalitarianizmus
+    hy: ամբողջատիրություն
+    ia: Totalitarismo
+    id: totaliterisme
+    io: Totalitarismo
+    is: Alræði
+    it: totalitarismo
+    ja: 全体主義
+    ka: ტოტალიტარიზმი
+    kk: Тоталитаризм
+    kk-arab: توتالىيتارىيزم
+    kk-cn: توتالىيتارىيزم
+    kk-cyrl: Тоталитаризм
+    kk-kz: Тоталитаризм
+    kk-latn: Totalïtarïzm
+    kk-tr: Totalïtarïzm
+    ko: 전체주의
+    kv: Тоталитаризм
+    ky: Тоталитаризм
+    la: totalitarismus
+    lb: Totalitarismus
+    lmo: Totalitarism
+    lo: ລະບອບຮວມອຳນາດເບັດເສັດ
+    lt: totalitarizmas
+    lv: totalitārisms
+    mk: тоталитаризам
+    mn: Тоталитаризм
+    mr: सर्वंकषवाद
+    ms: Totalitarianisme
+    my: အကြွင်းမဲ့ အာဏာရှင် စနစ်
+    mzn: توتالیتاریسم
+    nan: Choân-thé-chú-gī
+    nb: totalitarisme
+    nl: totalitarisme
+    nn: totalitær
+    pa: ਸਰਬ ਅਧਿਕਾਰਵਾਦ
+    pl: totalitaryzm
+    ps: ټوټالېټر
+    pt: totalitarismo
+    ro: totalitarism
+    ru: тоталитаризм
+    scn: Tutalitarismu
+    sco: totalitarianism
+    sd: مطلق آمريت
+    se: totalitarisma
+    sh: Totalitarizam
+    sk: Totalitarizmus
+    sl: totalitarizem
+    smn: totalitarism
+    sms: totalitarismm
+    sq: Totalitarizmi
+    sr: тоталитаризам
+    sr-ec: Тоталитаризам
+    sr-el: Totalitarizam
+    sv: totalitarism
+    szl: Totalitarysm
+    tg: тамомиятхоҳӣ
+    th: ระบบรวบอำนาจเบ็ดเสร็จ
+    tl: Totalitaryanismo
+    tr: totalitarizm
+    tt: тоталитаризм
+    uk: тоталітаризм
+    ur: ہمہ گیریت
+    uz: Totalitarizm
+    vec: totałitarismo
+    vi: Chủ nghĩa toàn trị
+    wuu: 极权主义
+    xmf: ტოტალიტარიზმი
+    yue: 極權
+    zh: 極權主義
+    zh-cn: 极权主义
+    zh-hans: 极权主义
+    zh-hant: 極權主義
+    zh-hk: 極權主義
+    zh-sg: 极权主义
+    zh-tw: 極權主義
 ---
-
 # [[Totalitarianism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Totalitarianism,128135|WD~Totalitarianism,128135]]  

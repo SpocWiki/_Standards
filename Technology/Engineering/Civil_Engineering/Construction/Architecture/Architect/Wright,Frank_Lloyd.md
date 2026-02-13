@@ -1,26 +1,72 @@
 ---
 aliases:
-  - Frank Lloyd Wright
-  - Wright,Frank_Lloyd
-  - Frank_Lloyd_Wright
-  - Wright
-  - Wright,Frank Lloyd
+- Franciscus Lloyd Wright
+- Frank Liod rait
+- Frank Lloyd Rayt
+- Frank Lloyd Wright
+- Frank Wright
+- Frank_Lloyd_Wright
+- Frenk Llojd Rajt
+- Frenk Lloyd Rayt
+- Frenks Loids Raits
+- Rait Frenk Lloid
+- Rayt Frank Lloyd
+- Wright
+- Wright,Frank Lloyd
+- Wright,Frank_Lloyd
+- Φρανκ Λόιντ Ράιτ
+- Райт, Фрэнк Ллойд
+- Франк Ллойд Райт
+- Франк Лойд Райт
+- Френк Ллойд Райт
+- Френк Лојд Рајт
+- Френк Лойд Райт
+- Фрэнк Ллойд Райт
+- Фрэнк Лойд Райт
+- Фрәңк Ллойд Райт
+- Ֆրենկ Լլոյդ Ռայթ
+- פרנק לויד רייט
+- פרענק לויד רייט
+- فرانك لويد رايت
+- فرانک لويد رايټ
+- فرانک لوید رایت
+- فرانک لۆید ڕایت
+- فرینک لائیڈ رائٹ
+- फ्रँक लॉईड राइट
+- फ्रैंक लियोड लयड
+- ফ্র্যাংক লয়েড রাইট
+- ফ্ৰেঙ্ক লইড ৰাইট
+- ਫਰੈਂਕ ਲਾਇਡ ਰਾਇਟ
+- பிராங்க் லாய்டு ரைட்
+- ಫ್ರಾಂಕ್ ಲಾಯ್ಡ್ ರೈಟ್
+- ഫ്രാങ്ക് ലോയ്ഡ് റൈറ്റ്
+- แฟรงก์ ลอยด์ ไรต์
+- ფრენკ ლოიდ რაიტი
+- ፍራንክ ሎይድ ራይት
+- ហ្វ្រេង្ស ផ្លយរ៉ាយស៍
+- ᱣᱨᱤᱴ, ᱯᱷᱨᱟᱸᱠ ᱞᱚᱭᱰ
+- フランク・ロイド・ライト
+- 弗兰克·劳埃德·赖特
+- 弗蘭克·勞埃德·賴特
+- 法蘭克·萊德·韋特
+- 法蘭萊勵德
+- 프랭크 로이드 라이트
 has_id_wikidata: Q5604
 archives_at: '[[_Standards/WikiData/WD~Avery_Architectural_and_Fine_Arts_Library,790646]]'
 artist_files_at:
-  - '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]'
-  - '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
+- '[[_Standards/WikiData/WD~Philadelphia_Museum_of_Art_Library_and_Archives,89574171]]'
+- '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Royal_Gold_Medal,920783]]'
-  - '[[_Standards/WikiData/WD~Frank_P._Brown_Medal,19873358]]'
+- '[[_Standards/WikiData/WD~Royal_Gold_Medal,920783]]'
+- '[[_Standards/WikiData/WD~Frank_P._Brown_Medal,19873358]]'
 BHCL_UUID: dac89b08-5b0a-4645-9ed5-023875c06018
 birth_name: Franklin Lincoln Wright
 cause_of_death: '[[_Standards/WikiData/WD~surgical_complications,14467705]]'
 child:
-  - '[[_Standards/WikiData/WD~Lloyd_Wright,1866958]]'
-  - '[[_Standards/WikiData/WD~John_Lloyd_Wright,6245074]]'
-  - '[[_Standards/WikiData/WD~Iovanna_Lloyd_Wright,76133911]]'
-  - '[[_Standards/WikiData/WD~Catherine_Dorothy_Wright,106036712]]'
+- '[[_Standards/WikiData/WD~Lloyd_Wright,1866958]]'
+- '[[_Standards/WikiData/WD~John_Lloyd_Wright,6245074]]'
+- '[[_Standards/WikiData/WD~Iovanna_Lloyd_Wright,76133911]]'
+- '[[_Standards/WikiData/WD~Catherine_Dorothy_Wright,106036712]]'
 Commons_category: Frank Lloyd Wright
 Commons_Creator_page: Frank Lloyd Wright
 Commons_gallery: Frank Lloyd Wright
@@ -29,25 +75,25 @@ copyright_representative: '[[_Standards/WikiData/WD~reproduction_right_represent
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 cssclasses:
-  - private
-  - note
+- private
+- note
 date_of_birth: 1867-06-08
 date_of_death: 1959-04-09
 described_at_URL:
-  - https://www.oxfordreference.com/view/10.1093/acref/9780195335798.001.0001/acref-9780195335798-e-2277
-  - http://arch-pavouk.cz/index.php/architekti/1450-wright-frank-lloyd
+- https://www.oxfordreference.com/view/10.1093/acref/9780195335798.001.0001/acref-9780195335798-e-2277
+- http://arch-pavouk.cz/index.php/architekti/1450-wright-frank-lloyd
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Allgemeines_Künstlerlexikon,15649499]]'
-  - '[[_Standards/WikiData/WD~The_Oxford_Companion_to_Architecture,60205427]]'
-  - "[[_Standards/WikiData/WD~Who's_Who_in_the_Twentieth_Century,64331210]]"
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Modern_Design,107430469]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Allgemeines_Künstlerlexikon,15649499]]'
+- '[[_Standards/WikiData/WD~The_Oxford_Companion_to_Architecture,60205427]]'
+- "[[_Standards/WikiData/WD~Who's_Who_in_the_Twentieth_Century,64331210]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Modern_Design,107430469]]'
 different_from: '[[_Standards/WikiData/WD~Lloyd_Wright,1866958]]'
 draft: true
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
-  - '[[_Standards/WikiData/WD~Madison_Central_High_School,105764085]]'
+- '[[_Standards/WikiData/WD~University_of_Wisconsin_Madison,838330]]'
+- '[[_Standards/WikiData/WD~Madison_Central_High_School,105764085]]'
 employer: '[[_Standards/WikiData/WD~The_New_School,599316]]'
 Europeana_entity: agent/base/146814
 excalidraw_autoexport: svg
@@ -59,24 +105,24 @@ family_name: '[[_Standards/WikiData/WD~Wright,2594455]]'
 father: '[[_Standards/WikiData/WD~William_Carey_Wright,101246254]]'
 field_of_work: '[[_Standards/WikiData/WD~architecture,12271]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Frank,220546]]'
-  - '[[_Standards/WikiData/WD~Lloyd,13478831]]'
+- '[[_Standards/WikiData/WD~Frank,220546]]'
+- '[[_Standards/WikiData/WD~Lloyd,13478831]]'
 Google_Doodle: frank-lloyd-wrights-138th-birthday
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-17
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
-  - '[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]'
-  - '[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]'
-  - '[[_Standards/WikiData/WD~Swedish_Centre_for_Architecture_and_Design,4356728]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Victoria,1464509]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~Toledo_Museum_of_Art,1743116]]'
+- '[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]'
+- '[[_Standards/WikiData/WD~Swedish_Centre_for_Architecture_and_Design,4356728]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lloyd%20Wright%20LC-USZ62-36384.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 IPI_base_code: I-002928030-4
@@ -96,20 +142,20 @@ mother: '[[_Standards/WikiData/WD~Anna_Lloyd_Jones_Wright,61913778]]'
 name_in_native_language: Frank Lloyd Wright
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Museum,201469]]'
-  - '[[_Standards/WikiData/WD~Fallingwater,463179]]'
-  - '[[_Standards/WikiData/WD~Prairie_School_architecture,616358]]'
-  - '[[_Standards/WikiData/WD~Emil_Bach_House,1335804]]'
-  - '[[_Standards/WikiData/WD~Pettit_Memorial_Chapel,2081276]]'
-  - '[[_Standards/WikiData/WD~A._D._German_Warehouse,4647666]]'
+- '[[_Standards/WikiData/WD~Solomon_R._Guggenheim_Museum,201469]]'
+- '[[_Standards/WikiData/WD~Fallingwater,463179]]'
+- '[[_Standards/WikiData/WD~Prairie_School_architecture,616358]]'
+- '[[_Standards/WikiData/WD~Emil_Bach_House,1335804]]'
+- '[[_Standards/WikiData/WD~Pettit_Memorial_Chapel,2081276]]'
+- '[[_Standards/WikiData/WD~A._D._German_Warehouse,4647666]]'
 occupation:
-  - '[[_Standards/WikiData/WD~urban_planner,131062]]'
-  - '[[_Standards/WikiData/WD~designer,5322166]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~architect,42973]]'
+- '[[_Standards/WikiData/WD~urban_planner,131062]]'
+- '[[_Standards/WikiData/WD~designer,5322166]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Frank%20Lloyd%20Wright%20View%20of%20Taliesin%20West.jpg
 part_of: '[[_Standards/WikiData/WD~POPiS,7120021]]'
 place_of_birth: '[[_Standards/WikiData/WD~Richland_Center,1569965]]'
@@ -123,22 +169,194 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Maginel_Wright_Enright,16004024]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Lloyd%20Wright%20signature.svg
 spouse:
-  - '[[_Standards/WikiData/WD~Olgivanna_Lloyd_Wright,7086736]]'
-  - '[[_Standards/WikiData/WD~Catherine_Tobin_Wright,106032034]]'
-  - '[[_Standards/WikiData/WD~Miriam_Noel_Wright,106036199]]'
+- '[[_Standards/WikiData/WD~Olgivanna_Lloyd_Wright,7086736]]'
+- '[[_Standards/WikiData/WD~Catherine_Tobin_Wright,106032034]]'
+- '[[_Standards/WikiData/WD~Miriam_Noel_Wright,106036199]]'
 student: '[[_Standards/WikiData/WD~Gira_Sarabhai,106089430]]'
 student_of: '[[_Standards/WikiData/WD~Louis_Sullivan,243240]]'
 tags:
-  - Wright,Frank_Lloyd
-  - excalidraw
+- Wright,Frank_Lloyd
+- excalidraw
 title: Wright,Frank_Lloyd
 type: private_note
 unmarried_partner: '[[_Standards/WikiData/WD~Mamah_Borthwick,2351927]]'
 U_S_National_Archives_Identifier: 10580379
 work_period_end_: 1959
 work_period_start_: 1893
+dv_has_:
+  name_:
+    ace: Frank Lloyd Wright
+    af: Frank Lloyd Wright
+    am: ፍራንክ ሎይድ ራይት
+    an: Frank Lloyd Wright
+    ar: فرانك لويد رايت
+    arz: فرانك لويد رايت
+    as: ফ্ৰেঙ্ক লইড ৰাইট
+    ast: Frank Lloyd Wright
+    av: Фрэнк Ллойд Райт
+    az: Frank Lloyd Rayt
+    azb: فرانک لوید رایت
+    ba: Фрэнк Ллойд Райт
+    ban: Frank Lloyd Wright
+    bar: Frank Lloyd Wright
+    bcl: Frank Lloyd Wright
+    be: Фрэнк Лойд Райт
+    be-tarask: Фрэнк Лойд Райт
+    bg: Франк Лойд Райт
+    bi: Frank Lloyd Wright
+    bn: ফ্র্যাংক লয়েড রাইট
+    br: Frank Lloyd Wright
+    bs: Frank Lloyd Wright
+    bxr: Фрэнк Ллойд Райт
+    ca: Frank Lloyd Wright
+    cbk-zam: Frank Lloyd Wright
+    ce: Райт, Фрэнк Ллойд
+    ceb: Frank Lloyd Wright
+    ckb: فرانک لۆید ڕایت
+    co: Frank Lloyd Wright
+    crh: Frenk Lloyd Rayt
+    cs: Frank Lloyd Wright
+    cy: Frank Lloyd Wright
+    da: Frank Lloyd Wright
+    dag: Frank Lloyd Wright
+    de: Frank Lloyd Wright
+    dsb: Frank Lloyd Wright
+    el: Φρανκ Λόιντ Ράιτ
+    en: Frank Lloyd Wright
+    en-ca: Frank Lloyd Wright
+    en-gb: Frank Lloyd Wright
+    eo: Frank Lloyd Wright
+    es: Frank Lloyd Wright
+    et: Frank Lloyd Wright
+    eu: Frank Lloyd Wright
+    ext: Frank Lloyd Wright
+    fa: فرانک لوید رایت
+    fi: Frank Lloyd Wright
+    fo: Frank Lloyd Wright
+    fr: Frank Lloyd Wright
+    frp: Frank Lloyd Wright
+    frr: Frank Lloyd Wright
+    fy: Frank Lloyd Wright
+    ga: Frank Lloyd Wright
+    gd: Frank Lloyd Wright
+    gl: Frank Lloyd Wright
+    gn: Frank Lloyd Wright
+    got: Frank Lloyd Wright
+    gsw: Frank Lloyd Wright
+    gv: Frank Lloyd Wright
+    haw: Frank Lloyd Wright
+    he: פרנק לויד רייט
+    hif: Frank Lloyd Wright
+    hr: Frank Lloyd Wright
+    hsb: Frank Lloyd Wright
+    hu: Frank Lloyd Wright
+    hy: Ֆրենկ Լլոյդ Ռայթ
+    ia: Frank Lloyd Wright
+    id: Frank Lloyd Wright
+    ig: Frank Lloyd Wright
+    ilo: Frank Lloyd Wright
+    io: Frank Lloyd Wright
+    is: Frank Lloyd Wright
+    it: Frank Lloyd Wright
+    iu: Frank Lloyd Wright
+    ja: フランク・ロイド・ライト
+    jv: Frank Lloyd Wright
+    ka: ფრენკ ლოიდ რაიტი
+    kaa: Frank Lloyd Wright
+    kbd: Френк Лойд Райт
+    kbp: Frank Wright
+    kcg: Frank Liod rait
+    ki: Frank Lloyd Wright
+    kk: Френк Ллойд Райт
+    km: ហ្វ្រេង្ស ផ្លយរ៉ាយស៍
+    kn: ಫ್ರಾಂಕ್ ಲಾಯ್ಡ್ ರೈಟ್
+    ko: 프랭크 로이드 라이트
+    kw: Frank Lloyd Wright
+    la: Franciscus Lloyd Wright
+    lb: Frank Lloyd Wright
+    li: Frank Lloyd Wright
+    lld: Frank Lloyd Wright
+    lmo: Frank Lloyd Wright
+    ln: Frank Lloyd Wright
+    lt: Frank Lloyd Wright
+    lv: Frenks Loids Raits
+    mg: Frank Lloyd Wright
+    mhr: Фрэнк Ллойд Райт
+    min: Frank Lloyd Wright
+    mk: Френк Лојд Рајт
+    ml: ഫ്രാങ്ക് ലോയ്ഡ് റൈറ്റ്
+    mn: Фрэнк Ллойд Райт
+    mr: फ्रँक लॉईड राइट
+    ms: Frank Lloyd Wright
+    mul: Frank Lloyd Wright
+    nah: Frank Lloyd Wright
+    nan: Frank Lloyd Wright
+    nb: Frank Lloyd Wright
+    nds: Frank Lloyd Wright
+    ne: फ्रैंक लियोड लयड
+    nl: Frank Lloyd Wright
+    nn: Frank Lloyd Wright
+    nov: Frank Lloyd Wright
+    oc: Frank Lloyd Wright
+    pa: ਫਰੈਂਕ ਲਾਇਡ ਰਾਇਟ
+    pag: Frank Lloyd Wright
+    pam: Frank Lloyd Wright
+    pap: Frank Lloyd Wright
+    pdc: Frank Lloyd Wright
+    pl: Frank Lloyd Wright
+    pms: Frank Lloyd Wright
+    pnb: فرینک لائیڈ رائٹ
+    ps: فرانک لويد رايټ
+    pt: Frank Lloyd Wright
+    pt-br: Frank Lloyd Wright
+    qu: Frank Lloyd Wright
+    ro: Frank Lloyd Wright
+    ru: Фрэнк Ллойд Райт
+    rue: Френк Ллойд Райт
+    sat: ᱣᱨᱤᱴ, ᱯᱷᱨᱟᱸᱠ ᱞᱚᱭᱰ
+    sc: Frank Lloyd Wright
+    sco: Frank Lloyd Wright
+    se: Frank Lloyd Wright
+    sgs: Frank Lloyd Wright
+    sh: Frank Lloyd Wright
+    sk: Frank Lloyd Wright
+    sl: Frank Lloyd Wright
+    sq: Frank Lloyd Wright
+    sr: Френк Лојд Рајт
+    stq: Frank Lloyd Wright
+    su: Frank Lloyd Wright
+    sv: Frank Lloyd Wright
+    sw: Frank Lloyd Wright
+    ta: பிராங்க் லாய்டு ரைட்
+    tg: Франк Ллойд Райт
+    th: แฟรงก์ ลอยด์ ไรต์
+    tl: Frank Lloyd Wright
+    tly: Frenk Llojd Rajt
+    tpi: Frank Lloyd Wright
+    tr: Frank Lloyd Wright
+    tt: Фрәңк Ллойд Райт
+    tt-cyrl: Фрәңк Ллойд Райт
+    tyv: Райт, Фрэнк Ллойд
+    uk: Френк Ллойд Райт
+    ur: فرینک لائیڈ رائٹ
+    uz: Rayt Frank Lloyd
+    vec: Frank Lloyd Wright
+    vep: Rait Frenk Lloid
+    vi: Frank Lloyd Wright
+    vo: Frank Lloyd Wright
+    wa: Frank Lloyd Wright
+    war: Frank Lloyd Wright
+    wo: Frank Lloyd Wright
+    wuu: 弗兰克·劳埃德·赖特
+    xmf: ფრენკ ლოიდ რაიტი
+    yi: פרענק לויד רייט
+    yo: Frank Lloyd Wright
+    yue: 法蘭萊勵德
+    zh: 弗蘭克·勞埃德·賴特
+    zh-cn: 弗兰克·劳埃德·赖特
+    zh-hans: 弗兰克·劳埃德·赖特
+    zh-hk: 法蘭克·萊德·韋特
 ---
-
 # [[Wright,Frank_Lloyd]] 
 
 #has_/time_/started :: 1867-06-08 

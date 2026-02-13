@@ -1,6 +1,96 @@
 ---
 aliases:
-  - Candy
+- alewa
+- añaka
+- babbelaer
+- bala
+- Bellaria
+- bomboană
+- bombon
+- bombona
+- bombono
+- Bonbon
+- Bonbono
+- bumboanâ
+- bůmbůn
+- Candy
+- carambelu
+- caramella
+- Chucrîn
+- cicipackotcoc
+- cukierek
+- cukrovinka
+- cukrík
+- dangznaed
+- dulse
+- dulsi
+- godis
+- godteri
+- golosina
+- gozoki
+- gula batu
+- gula-gula
+- kanfet
+- Karamelli
+- kim-kâm
+- kompvek
+- konfektes
+- konfet
+- kẹo
+- lambetada
+- lamín
+- lekkergoed
+- llaminadura
+- madig
+- makeinen
+- melysion
+- milseán
+- Nuŋuraaq
+- permen
+- permèn
+- rebuçado
+- saldainis
+- slatkiši
+- slik
+- snoepje
+- Spekke
+- sweets
+- sælgæti
+- vatomamy
+- Zuckerl
+- édesség
+- şekerleme
+- şîranî
+- ζαχαρωτό
+- бомбона
+- бонбон
+- кампеткӓ
+- канихвет
+- кондиторски производи
+- конфета
+- кәмпит
+- кәнфит
+- цукерка
+- чихэр
+- կոնֆետ
+- քաղցրաւենիք
+- סוכרייה
+- آبنبات
+- بونبون
+- حلوى سكرية
+- شیرانی
+- ক্যান্ডি
+- মৰ্টন
+- ਕੈਂਡੀ
+- மிட்டாய்
+- മിഠായി
+- ลูกอม
+- သကြားလုံး
+- კანფეტი
+- キャンディ
+- 糖
+- 糖果
+- 사탕
 has_id_wikidata: Q185583
 Commons_category: Candy
 Commons_gallery: Candy
@@ -10,11 +100,11 @@ has_part_s_: '[[_Standards/WikiData/WD~sugar,11002]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Candy%20in%20Damascus.jpg
 made_from_material: '[[_Standards/WikiData/WD~sugar,11002]]'
 MeSH_tree_code:
-  - G07.203.300.140
-  - J02.500.140
+- G07.203.300.140
+- J02.500.140
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~sugar_candy,17119302]]'
-  - '[[_Standards/WikiData/WD~ame,17238884]]'
+- '[[_Standards/WikiData/WD~sugar_candy,17119302]]'
+- '[[_Standards/WikiData/WD~ame,17238884]]'
 subclass_of: '[[_Standards/WikiData/WD~confection,5159627]]'
 UMLS_CUI: C0006855
 Unicode_character: ??
@@ -24,8 +114,114 @@ IMDb_keyword: candy
 subreddit: candy
 hashtag: candy
 P8189: 987007283365205171
+dv_has_:
+  name_:
+    af: lekkergoed
+    an: lamín
+    ar: حلوى سكرية
+    arz: بونبون
+    as: মৰ্টন
+    ast: carambelu
+    atj: cicipackotcoc
+    az: konfet
+    ba: кәнфит
+    bar: Zuckerl
+    bcl: dulse
+    be: цукерка
+    be-tarask: цукерка
+    bg: бонбон
+    bjn: gula batu
+    bn: ক্যান্ডি
+    br: madig
+    ca: llaminadura
+    cs: cukrovinka
+    cv: канихвет
+    cy: melysion
+    da: slik
+    de: Bonbon
+    el: ζαχαρωτό
+    en: candy
+    en-gb: sweets
+    eo: bombono
+    es: golosina
+    et: kompvek
+    eu: gozoki
+    fa: آبنبات
+    fi: makeinen
+    fr: bonbon
+    ga: milseán
+    gl: lambetada
+    ha: alewa
+    he: סוכרייה
+    hr: slatkiši
+    ht: bonbon
+    hu: édesség
+    hy: կոնֆետ
+    hyw: քաղցրաւենիք
+    id: permen
+    ik: Nuŋuraaq
+    io: Bonbono
+    is: sælgæti
+    it: caramella
+    ja: キャンディ
+    jv: permèn
+    ka: კანფეტი
+    kk: кәмпит
+    ko: 사탕
+    ku: şîranî
+    ku-arab: شیرانی
+    ku-latn: şîranî
+    la: Bellaria
+    li: babbelaer
+    lt: saldainis
+    lv: konfektes
+    mg: vatomamy
+    mk: кондиторски производи
+    ml: മിഠായി
+    mn: чихэр
+    mrj: кампеткӓ
+    ms: gula-gula
+    my: သကြားလုံး
+    nan: kim-kâm
+    nb: godteri
+    nds-nl: slik
+    nl: snoepje
+    nn: godteri
+    nrm: Chucrîn
+    olo: Karamelli
+    pa: ਕੈਂਡੀ
+    pl: cukierek
+    pt: rebuçado
+    pt-br: bala
+    qu: añaka
+    rki: သကြားလုံး
+    ro: bomboană
+    ru: конфета
+    rup: bumboanâ
+    sh: bombon
+    sk: cukrík
+    sl: bombon
+    sr: бомбона
+    sr-ec: бомбона
+    sr-el: bombona
+    sv: godis
+    szl: bůmbůn
+    ta: மிட்டாய்
+    th: ลูกอม
+    tr: şekerleme
+    uk: цукерка
+    uz: konfet
+    vep: kanfet
+    vi: kẹo
+    vls: Spekke
+    war: dulsi
+    wuu: 糖果
+    yue: 糖
+    za: dangznaed
+    zh: 糖果
+    zh-hant: 糖果
+    zh-tw: 糖果
 ---
-
 # [[Candy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Candy,185583|WD~Candy,185583]] 

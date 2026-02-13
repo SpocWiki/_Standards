@@ -1,19 +1,76 @@
 ---
 aliases:
-  - Ethnographie
-  - Ethnography
+- Bîn-cho̍k-chì
+- Dân tộc ký
+- eitneagrafaíocht
+- Ethnograffeg
+- Ethnografie
+- Ethnographia
+- Ethnographie
+- Ethnography
+- etnograafia
+- etnografeja
+- etnografi
+- etnografia
+- etnografie
+- etnografii
+- etnografiija
+- etnografija
+- etnografije
+- etnografijŏ
+- etnografio
+- Etnografiya
+- etnografy
+- etnografía
+- etnograpiya
+- etnogrāfija
+- etnoqrafiya
+- Etnuograpėjė
+- kavmiyat
+- néprajz
+- εθνογραφία
+- єѳнографїꙗ
+- етнографія
+- етнографија
+- етнография
+- етноґрафія
+- Мардумнигорӣ
+- Угсаатны зүй
+- этнаграфія
+- Этнографи
+- этнографий
+- этнография
+- ազգագրութիւն
+- ազգագրություն
+- אתנוגרפיה
+- ئیتنۆگرافی
+- ايتنوݢرافي
+- توکمکښنه
+- مردمنگاری
+- وصف الشعوب
+- नृवंशविज्ञान
+- नृवंशशास्त्र
+- নৃকুলবিদ্যা
+- இனவரைவியல்
+- വംശീയശാസ്ത്രം
+- ชาติพันธุ์วรรณนา
+- ეთნოგრაფია
+- 民族志
+- 民族誌
+- 民族誌學
+- 문화기술지
 has_id_wikidata: Q132151
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~ethnographer,12347522]]'
 subclass_of: '[[_Standards/WikiData/WD~social_science,34749]]'
@@ -23,8 +80,118 @@ spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mus
 ACM_Classification_Code_2012_: 10011763
 Basisklassifikation: 73.06
 Commons_category: Ethnography
+dv_has_:
+  name_:
+    ar: وصف الشعوب
+    ast: etnografía
+    az: etnoqrafiya
+    ba: этнография
+    be: этнаграфія
+    be-tarask: этнаграфія
+    bg: етнография
+    bn: নৃকুলবিদ্যা
+    ca: etnografia
+    ckb: ئیتنۆگرافی
+    cs: etnografie
+    cu: єѳнографїꙗ
+    cv: Этнографи
+    cy: Ethnograffeg
+    da: etnografi
+    de: Ethnografie
+    el: εθνογραφία
+    en: ethnography
+    eo: etnografio
+    es: etnografía
+    et: etnograafia
+    eu: etnografia
+    fa: مردمنگاری
+    fi: etnografia
+    fr: ethnographie
+    frr: etnografii
+    fy: etnografy
+    ga: eitneagrafaíocht
+    gl: etnografía
+    he: אתנוגרפיה
+    hi: नृवंशविज्ञान
+    hr: etnografija
+    hsb: etnografija
+    hu: néprajz
+    hy: ազգագրություն
+    hyw: ազգագրութիւն
+    id: etnografi
+    io: etnografio
+    it: etnografia
+    ja: 民族誌
+    jv: Etnografi
+    ka: ეთნოგრაფია
+    kk: Этнография
+    ko: 문화기술지
+    ky: Этнография
+    la: Ethnographia
+    lez: Этнография
+    lfn: etnografia
+    lld: Etnografia
+    lmo: Etnografia
+    lt: etnografija
+    ltg: etnografeja
+    lv: etnogrāfija
+    mhr: этнографий
+    mk: етнографија
+    ml: വംശീയശാസ്ത്രം
+    mn: Угсаатны зүй
+    ms: etnografi
+    ms-arab: ايتنوݢرافي
+    nan: Bîn-cho̍k-chì
+    nb: etnografi
+    ne: नृवंशशास्त्र
+    nl: etnografie
+    nn: etnografi
+    os: этнографи
+    pap: etnografia
+    pap-aw: etnografia
+    pl: etnografia
+    ps: توکمکښنه
+    pt: etnografia
+    ro: etnografie
+    ru: этнография
+    rue: етноґрафія
+    se: etnografiija
+    sgs: Etnuograpėjė
+    sh: Etnografija
+    sk: etnografia
+    sl: etnografija
+    sma: etnografije
+    smn: etnografia
+    sms: etnografia
+    sq: Etnografia
+    sr: етнографија
+    sr-ec: етнографија
+    sr-el: Etnografija
+    su: Etnografi
+    sv: etnografi
+    szl: etnografijŏ
+    ta: இனவரைவியல்
+    tg: Мардумнигорӣ
+    th: ชาติพันธุ์วรรณนา
+    tl: etnograpiya
+    tr: kavmiyat
+    tt: этнография
+    uk: етнографія
+    uz: Etnografiya
+    vi: Dân tộc ký
+    vro: Etnograafia
+    war: Etnograpiya
+    wuu: 民族志
+    xmf: ეთნოგრაფია
+    yue: 民族誌學
+    zh: 民族誌
+    zh-cn: 民族志
+    zh-hans: 民族志
+    zh-hant: 民族誌
+    zh-hk: 民族誌
+    zh-sg: 民族志
+    zh-tw: 民族誌
 ---
-
 # [[Ethnography]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ethnography,132151|WD~Ethnography,132151]] 

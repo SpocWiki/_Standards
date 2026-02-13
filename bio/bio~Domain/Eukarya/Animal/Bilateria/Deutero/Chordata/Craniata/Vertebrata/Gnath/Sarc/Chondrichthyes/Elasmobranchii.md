@@ -1,4 +1,128 @@
-
+---
+has_id_wikidata: Q194257
+dv_has_:
+  name_:
+    af: Elasmobranchii
+    an: Elasmobranchii
+    ar: صفيحية الخياشيم الغضروفية
+    arz: صفيحية الخياشيم الغضروفيه
+    ast: Elasmobranchii
+    az: Yastıqəlsəməlilər
+    be: пласцінажаберныя
+    be-tarask: пласьцінажабравыя
+    bg: пластинчатохрили
+    ca: Elasmobranqui
+    ceb: Iho ug pagi
+    cs: příčnoústí
+    de: Plattenkiemer
+    el: Ελασμοβράγχια
+    en: Elasmobranchs
+    eo: Elasmobrankuloj
+    es: elasmobranquios
+    eu: Elasmobrankio
+    ext: Elasmobranchii
+    fa: نرمآبششداران
+    fi: leveäsuiset
+    fr: Elasmobranchii
+    frr: Elasmobranchii
+    fy: Haaien en roggen
+    ga: Elasmobranchii
+    gl: Elasmobranquios
+    he: מחויצי זימים
+    hr: prečnouste
+    hu: cápák és ráják
+    ia: elasmobranchio
+    id: Elasmobranchii
+    ie: Elasmobranchii
+    io: Elasmobranchii
+    is: Fasttálknar
+    it: Elasmobranchi
+    ja: 板鰓亜綱
+    ka: ფირფიტლაყუჩიანები
+    kk: Тақтажелбезектілер
+    ko: 판새아강
+    la: Elasmobranchii
+    lv: Plātņžauņi
+    mk: плочестожабрени
+    ms: Elasmobranchii
+    mul: Elasmobranchii
+    nb: Haier og skater
+    nl: haaien en roggen
+    nn: haiar og skater
+    oc: Elasmobranchii
+    pl: spodouste
+    pt: Elasmobrânquios
+    pt-br: Elasmobranchii
+    ro: Elasmobranchii
+    ru: пластиножаберные
+    sd: اليسموبرينڪياء
+    sh: Prečnouste
+    sk: Pásožiabrovce
+    sl: Elasmobranchii
+    sq: Elasmobranchii
+    sr: Elasmobranchii
+    sv: hajar och rockor
+    th: ชั้นย่อยอีลาสโมแบรนชิไอ
+    tl: Elasmobranchii
+    uk: Пластинозяброві
+    vi: Phân lớp Cá mang tấm
+    vo: Elasmobranchii
+    war: Elasmobranchii
+    wuu: 板鳃亚纲
+    yue: 板鰓亞綱
+    zh: 板鳃亚纲
+    zh-cn: 板鳃亚纲
+    zh-hans: 板鳃亚纲
+    zh-hant: 板鰓亞綱
+    zh-hk: 板鰓亞綱
+    zh-sg: 板鳃亚纲
+    zh-tw: 板鰓亞綱
+aliases:
+- cápák és ráják
+- Elasmobranchi
+- Elasmobranchii
+- elasmobranchio
+- Elasmobranchs
+- Elasmobrankio
+- Elasmobrankuloj
+- Elasmobranqui
+- elasmobranquios
+- Elasmobrânquios
+- Fasttálknar
+- Haaien en roggen
+- haiar og skater
+- Haier og skater
+- hajar och rockor
+- Iho ug pagi
+- leveäsuiset
+- Phân lớp Cá mang tấm
+- Plattenkiemer
+- Plātņžauņi
+- prečnouste
+- Pásožiabrovce
+- příčnoústí
+- spodouste
+- Yastıqəlsəməlilər
+- Ελασμοβράγχια
+- пластиножаберные
+- Пластинозяброві
+- пластинчатохрили
+- пласцінажаберныя
+- пласьцінажабравыя
+- плочестожабрени
+- Тақтажелбезектілер
+- מחויצי זימים
+- اليسموبرينڪياء
+- صفيحية الخياشيم الغضروفية
+- صفيحية الخياشيم الغضروفيه
+- نرمآبششداران
+- ชั้นย่อยอีลาสโมแบรนชิไอ
+- ფირფიტლაყუჩიანები
+- 板鰓亜綱
+- 板鰓亞綱
+- 板鳃亚纲
+- 판새아강
+---
 # [[Elasmobranchii]] 
 
 

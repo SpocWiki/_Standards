@@ -1,11 +1,117 @@
 ---
 aliases:
-  - Faboideae
-  - Papilionaceae
-  - Papilionoideae
+- bobowate właściwe
+- bükkönyformák
+- Daftar marga anggota Faboideae
+- Echt Flenerkbloosen
+- Faboideae
+- Faboideoj
+- motýlokvěté
+- Papilionaceae
+- Papilionoideae
+- Paxlakimilər
+- Phân họ Đậu
+- Pillpintu tuktuyuq urin rikch'aq ayllu
+- Påwionacêyes
+- Schmetterlingsblütler
+- Ψυχανθή
+- глушини
+- Лĕпĕш тĕлĕшлĕ çеçкеллисем
+- Матыльковыя
+- метеликові
+- мотыльковые
+- բակլայիններ
+- פרפרניים
+- باقالیها
+- فولاوات
+- پوپوولەیەکان
+- วงศ์ย่อยถั่ว
+- ფარვანასებრნი
+- マメ亜科
+- 蝶形花亚科
+- 蝶形花亞科
+- 콩아과
 title: Papilionoideae
+has_id_wikidata: Q316856
+dv_has_:
+  name_:
+    af: Faboideae
+    an: Faboideae
+    ar: فولاوات
+    arz: فولاوات
+    ast: Faboideae
+    az: Paxlakimilər
+    be: Матыльковыя
+    be-tarask: Faboideae
+    bg: Faboideae
+    ca: Faboideae
+    ceb: Faboideae
+    ckb: پوپوولەیەکان
+    cs: motýlokvěté
+    cv: Лĕпĕш тĕлĕшлĕ çеçкеллисем
+    de: Schmetterlingsblütler
+    el: Ψυχανθή
+    en: Faboideae
+    eo: Faboideoj
+    es: Faboideae
+    eu: Faboideae
+    ext: Faboideae
+    fa: باقالیها
+    fi: Faboideae
+    fr: Faboideae
+    frr: Echt Flenerkbloosen
+    ga: Faboideae
+    gl: Faboideae
+    he: פרפרניים
+    hr: Faboideae
+    hu: bükkönyformák
+    hy: բակլայիններ
+    ia: Faboideae
+    id: Daftar marga anggota Faboideae
+    ie: Faboideae
+    ilo: Faboideae
+    io: Faboideae
+    it: Faboideae
+    ja: マメ亜科
+    jv: Faboideae
+    ka: ფარვანასებრნი
+    ko: 콩아과
+    la: Faboideae
+    lt: Faboideae
+    mk: глушини
+    mul: Faboideae
+    nb: Faboideae
+    nl: Faboideae
+    nn: Faboideae
+    oc: Faboideae
+    pl: bobowate właściwe
+    pt: Faboideae
+    pt-br: Faboideae
+    qu: Pillpintu tuktuyuq urin rikch'aq ayllu
+    ro: Faboideae
+    ru: мотыльковые
+    sh: Faboideae
+    sl: Faboideae
+    sq: Faboideae
+    sr: Faboideae
+    sv: Faboideae
+    th: วงศ์ย่อยถั่ว
+    tl: Faboideae
+    tr: Faboideae
+    uk: метеликові
+    vi: Phân họ Đậu
+    vo: Faboideae
+    wa: Påwionacêyes
+    war: Faboideae
+    yue: 蝶形花亞科
+    zh: 蝶形花亚科
+    zh-cn: 蝶形花亚科
+    zh-hans: 蝶形花亚科
+    zh-hant: 蝶形花亞科
+    zh-hk: 蝶形花亞科
+    zh-sg: 蝶形花亚科
+    zh-tw: 蝶形花亞科
 ---
-
 # [[Papilionoideae]]  
 
 ![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg) 

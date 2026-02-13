@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Morinaceae
+- Morinaceae
+- Morinoideae
+- Мориновые
+- 刺续断亚科
+- 모리나아과
 title: Morinaceae
+has_id_wikidata: Q14404419
+dv_has_:
+  name_:
+    an: Morinoideae
+    ast: Morinoideae
+    bg: Morinoideae
+    ca: Morinoideae
+    ceb: Morinoideae
+    de: Morinoideae
+    en: Morinoideae
+    eo: Morinoideae
+    es: Morinoideae
+    eu: Morinoideae
+    ext: Morinoideae
+    fi: Morinoideae
+    fr: Morinoideae
+    ga: Morinoideae
+    gl: Morinoideae
+    hr: Morinoideae
+    ia: Morinoideae
+    ie: Morinoideae
+    io: Morinoideae
+    it: Morinoideae
+    ko: 모리나아과
+    la: Morinoideae
+    mul: Morinoideae
+    nb: Morinoideae
+    nl: Morinoideae
+    oc: Morinoideae
+    pl: Morinoideae
+    pt: Morinoideae
+    pt-br: Morinoideae
+    ro: Morinoideae
+    ru: Мориновые
+    sq: Morinoideae
+    uk: Morinoideae
+    vi: Morinoideae
+    vo: Morinoideae
+    war: Morinoideae
+    zh: 刺续断亚科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

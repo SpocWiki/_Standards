@@ -1,44 +1,292 @@
 ---
 aliases:
+- Abrid amṭalsu
+- Barabara ya hariri
+- Beýik Ýüpek ýoly
+- Buyuk Ipak yoʻli
+- Bóthar an tSíoda
+- Böyek yefäk yulı
+- Böyük ipək yolu
+- Con đường tơ lụa
+- Daan ng Sutla
+- Dalan nga sida
+- Dalan nin Seda
+- Drumul Mătăsii
+- Ffordd y Sidan
+- Hedvábná stezka
+- Hent ar Seiz
+- Hodvábna cesta
+- Jalur Sutra
+- jedwabny szlak
+- Kamino de la Seda
+- Lalana landy
+- Laluan Sutera
+- Put svile
+- Raya Bırsımi
+- Riya Hevrîşimê
+- Roen Seicouz
+- Rota da Seda
+- Rota de la Seda
+- route de la soie
+- Rruga e Mëndafshit
+- Ruta da seda
+- Ruta de la seda
+- Seidenstrasse
+- Seidenstraße
+- Seidestrooss
+- selyemút
+- Si-tiû chi Lō͘
+- Sidenvägen
+- Siderûte
+- Siidestrooss
+- Siiditee
+- Silk Road
+- Silka Vojo
+- Silkevegen
+- Silkeveien
+- Silkevejen
+- Silkivegurinn
+- Silkkitie
+- Silko-Voyo
+- Strada dla sëda
+- Svileni put
+- svilna pot
+- Syroete
+- Sṳ̂-chhù-chṳ̂-lu
+- Ullı jipek jolı
+- Via de Seda
+- via della seta
+- Via serica
+- Wadada xariir
+- Yipek Yoli
+- Yipek Yolı
+- Ysorenimbo Rape
+- Zetaren Bidea
+- zijderoute
+- Zīda ceļš
+- İpek Yolu
+- Ńydbowno Cesta
+- Šilko kelias
+- Δρόμος του μεταξιού
+- Аслă пурçăн çулĕ
+- Бөйөк Ебәк юлы
+- Великий шёлковый путь
+- Великий шовковий шлях
+- Вялікі шаўковы шлях
+- Пат на свилата
+- Пут свиле
+- Път на коприната
+- Торгоны зам
+- Улуу жибек жолу
+- Шоҳроҳи Абрешим
+- Ұлы жібек жолы
+- Մետաքսի ճանապարհ
+- דרך המשי
+- זיידן גאס
+- ایپک یولو
+- جاده ابریشم
+- شاہراہ ریشم
+- طريق الحرير
+- ورېښمو لار
+- يىپەك يولى
+- ڕێگای ئاوریشم
+- रेशम मार्ग
+- रेशीम मार्ग
+- ছিল্ক ৰোড
+- রেশম পথ
+- ਰੇਸ਼ਮ ਮਾਰਗ
+- રેશમ માર્ગ
+- ରେଶମ ପଥ
+- பட்டுப் பாதை
+- సిల్క్ రోడ్డు
+- ರೇಷ್ಮೆ ಮಾರ್ಗ
+- സിൽക്ക് റോഡ്
+- සේද මාවත
+- เส้นทางสายไหม
+- ပိုးခြည်လမ်း
+- აბრეშუმის დიდი გზა
+- აბრეშუმიშ დიდი შარა
+- ⴰⴱⵔⵉⴷ ⵏ ⵓⵎⵟⵟⴰⵍⵙⵓ
+- シルクロード
+- 丝绸之路
+- 絲綢之路
+- 비단길
 has_id_wikidata: Q36288
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ferdinand_von_Richthofen,76791]]'
 instance_of:
-  - "[[../../../../../WikiData/WD~trade_route,405155]]"
-  - "[[_Standards/WikiData/WD~historic_road,445741]]"
+- '[[../../../../../WikiData/WD~trade_route,405155]]'
+- '[[_Standards/WikiData/WD~historic_road,445741]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]"
-  - "[[_Standards/WikiData/WD~WikiProject_History,8486462]]"
-  - "[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Middle_Ages,10743405]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Archaeology,10801979]]"
-  - "[[_Standards/WikiData/WD~WikiProject_China,10816953]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Western_Asia,14867525]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Central_Asia,14944118]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Culture,17859486]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Globalization,19578241]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Textile_Arts,21830897]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Trade,21830927]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Transport,53057]]"
-has_part_s_: "[[_Standards/WikiData/WD~Maritime_Silk_Road,11149509]]"
+- '[[_Standards/WikiData/WD~WikiProject_Economics,7212331]]'
+- '[[_Standards/WikiData/WD~WikiProject_History,8486462]]'
+- '[[_Standards/WikiData/WD~WikiProject_European_history,8486525]]'
+- '[[_Standards/WikiData/WD~WikiProject_Middle_Ages,10743405]]'
+- '[[_Standards/WikiData/WD~WikiProject_Archaeology,10801979]]'
+- '[[_Standards/WikiData/WD~WikiProject_China,10816953]]'
+- '[[_Standards/WikiData/WD~WikiProject_Western_Asia,14867525]]'
+- '[[_Standards/WikiData/WD~WikiProject_Central_Asia,14944118]]'
+- '[[_Standards/WikiData/WD~WikiProject_Culture,17859486]]'
+- '[[_Standards/WikiData/WD~WikiProject_Globalization,19578241]]'
+- '[[_Standards/WikiData/WD~WikiProject_Textile_Arts,21830897]]'
+- '[[_Standards/WikiData/WD~WikiProject_Trade,21830927]]'
+- '[[_Standards/WikiData/WD~WikiProject_Transport,53057]]'
+has_part_s_: '[[_Standards/WikiData/WD~Maritime_Silk_Road,11149509]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q22828669,22828669]]"
-  - "[[_Standards/WikiData/WD~Q25696236,25696236]]"
+- '[[_Standards/WikiData/WD~Q22828669,22828669]]'
+- '[[_Standards/WikiData/WD~Q25696236,25696236]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(v),23038979]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
-  - "[[_Standards/WikiData/WD~(vi),23038980]]"
-follows: "[[_Standards/WikiData/WD~Steppe_Route,30592581]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-country: "[[_Standards/WikiData/WD~Eurasia,5401]]"
+- '[[_Standards/WikiData/WD~(v),23038979]]'
+- '[[_Standards/WikiData/WD~(ii),23038976]]'
+- '[[_Standards/WikiData/WD~(iii),23038977]]'
+- '[[_Standards/WikiData/WD~(vi),23038980]]'
+follows: '[[_Standards/WikiData/WD~Steppe_Route,30592581]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+country: '[[_Standards/WikiData/WD~Eurasia,5401]]'
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Khunjerab%20Pass%20Karakorum.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Silk%20road%20Kazakhstan.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikiwyprawa%202015%20IGP2382%20%28cropped%29.jpg
 Krugosvet_article_archived_: istoriya/VELIKI_SHELKOVI_PUT.html
 Commons_gallery: Silk Road
 Commons_category: Silk Road
+dv_has_:
+  name_:
+    af: Syroete
+    ar: طريق الحرير
+    arz: طريق الحرير
+    as: ছিল্ক ৰোড
+    ast: Ruta de la seda
+    awa: रेशम मार्ग
+    az: Böyük ipək yolu
+    azb: ایپک یولو
+    ba: Бөйөк Ебәк юлы
+    bcl: Dalan nin Seda
+    be: Вялікі шаўковы шлях
+    be-tarask: Вялікі шаўковы шлях
+    bg: Път на коприната
+    bn: রেশম পথ
+    br: Hent ar Seiz
+    bs: Put svile
+    ca: ruta de la Seda
+    ckb: ڕێگای ئاوریشم
+    crh: Yipek Yolı
+    cs: Hedvábná stezka
+    cv: Аслă пурçăн çулĕ
+    cy: Ffordd y Sidan
+    da: Silkevejen
+    de: Seidenstraße
+    de-ch: Seidenstrasse
+    diq: Raya Bırsımi
+    el: Δρόμος του μεταξιού
+    en: Silk Road
+    en-ca: Silk Road
+    en-gb: Silk Road
+    eo: Silka Vojo
+    es: ruta de la seda
+    et: Siiditee
+    eu: Zetaren Bidea
+    fa: جاده ابریشم
+    fi: Silkkitie
+    fr: route de la soie
+    fy: Siderûte
+    ga: Bóthar an tSíoda
+    gl: Ruta da seda
+    gn: Ysorenimbo Rape
+    gsw: Siidestrooss
+    gu: રેશમ માર્ગ
+    hak: Sṳ̂-chhù-chṳ̂-lu
+    he: דרך המשי
+    hi: रेशम मार्ग
+    hr: Svileni put
+    hu: selyemút
+    hy: Մետաքսի ճանապարհ
+    hyw: Մետաքսի Ճանապարհ
+    id: Jalur Sutra
+    io: Silko-Voyo
+    is: Silkivegurinn
+    it: via della seta
+    ja: シルクロード
+    jv: Jalur sutra
+    ka: აბრეშუმის დიდი გზა
+    kaa: Ullı jipek jolı
+    kab: Abrid amṭalsu
+    kk: Ұлы жібек жолы
+    kn: ರೇಷ್ಮೆ ಮಾರ್ಗ
+    ko: 비단길
+    ku: Riya Hevrîşimê
+    ky: Улуу жибек жолу
+    la: Via serica
+    lad: Kamino de la Seda
+    lb: Seidestrooss
+    lfn: Via de Seda
+    lld: Strada dla sëda
+    lt: Šilko kelias
+    lv: Zīda ceļš
+    lzh: 絲綢之路
+    mg: Lalana landy
+    mk: Пат на свилата
+    ml: സിൽക്ക് റോഡ്
+    mn: Торгоны зам
+    mr: रेशीम मार्ग
+    ms: Laluan Sutera
+    my: ပိုးခြည်လမ်း
+    nan: Si-tiû chi Lō͘
+    nb: Silkeveien
+    ne: रेशम मार्ग
+    nl: zijderoute
+    nn: Silkevegen
+    oc: Rota de la Seda
+    or: ରେଶମ ପଥ
+    pa: ਰੇਸ਼ਮ ਮਾਰਗ
+    pl: jedwabny szlak
+    pnb: شاہراہ ریشم
+    ps: ورېښمو لار
+    pt: Rota da Seda
+    pt-br: Rota da Seda
+    ro: Drumul Mătăsii
+    ru: Великий шёлковый путь
+    sco: Silk Road
+    sh: Put svile
+    si: සේද මාවත
+    sk: Hodvábna cesta
+    sl: svilna pot
+    so: Wadada xariir
+    sq: Rruga e Mëndafshit
+    sr: Пут свиле
+    sv: Sidenvägen
+    sw: Barabara ya hariri
+    szl: Ńydbowno Cesta
+    ta: பட்டுப் பாதை
+    te: సిల్క్ రోడ్డు
+    tg: Шоҳроҳи Абрешим
+    th: เส้นทางสายไหม
+    tk: Beýik Ýüpek ýoly
+    tl: Daan ng Sutla
+    tr: İpek Yolu
+    tt: Böyek yefäk yulı
+    ug: يىپەك يولى
+    ug-arab: يىپەك يولى
+    ug-latn: Yipek Yoli
+    uk: Великий шовковий шлях
+    ur: شاہراہ ریشم
+    uz: Buyuk Ipak yoʻli
+    vi: Con đường tơ lụa
+    war: Dalan nga sida
+    wuu: 丝绸之路
+    xmf: აბრეშუმიშ დიდი შარა
+    yi: זיידן גאס
+    yue: 絲綢之路
+    za: Roen Seicouz
+    zgh: ⴰⴱⵔⵉⴷ ⵏ ⵓⵎⵟⵟⴰⵍⵙⵓ
+    zh: 絲綢之路
+    zh-cn: 丝绸之路
+    zh-hans: 丝绸之路
+    zh-hant: 絲綢之路
+    zh-hk: 絲綢之路
+    zh-mo: 絲綢之路
+    zh-my: 丝绸之路
+    zh-sg: 丝绸之路
+    zh-tw: 絲綢之路
 ---
-
 # [[Silk_Road]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Silk_Road,36288|WD~Silk_Road,36288]]  

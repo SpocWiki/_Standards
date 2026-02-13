@@ -1,9 +1,206 @@
 ---
 aliases:
-  - Pholidota
+- alem
+- Aprawa
+- Balintong
+- Folidoto
+- Folidotos
+- hreisturdýr
+- Imfinyezi
+- kakakuona
+- Klesih
+- Kpîkara
+- Lixwí
+- Lièn-lî
+- luskavci
+- luskouni
+- Luʋuluʋu
+- Là-lī
+- Lâ-lí
+- Manisuloj
+- muurahaiskävyt
+- Myrkottar
+- Olugave
+- Panggolin
+- Pangolin
+- Pangolinlar
+- Pangolí
+- Panqolinlər
+- Pholidota
+- qam
+- Schubbebêest'n
+- Schubdierachtigen
+- Schuppentiere
+- skjelldyr
+- Skubdier
+- Skujuotiniai
+- Skældyr
+- soomusloomalised
+- Tenggiling
+- tobzoskák
+- Trenggiling
+- Tê tê
+- Vorbumoldunol (Pholidota)
+- Wóláchííʼ yildeełí bikágí ntłʼizí
+- Zvīņnešu kārta
+- Łuskowce
+- Šupinavce
+- παγκολίνος
+- калтă
+- пангаліны
+- панголіноподібні
+- панголини
+- панголины
+- թեփամորթներ
+- פנגולינאים
+- بنغوليات
+- تاغتېشەر(ھايۋان)
+- فولیدوتا
+- پانجولين
+- پولکپوست
+- پینگولن
+- फोलिडोटा
+- फोलोदोता
+- सालक
+- বন-ৰৌ
+- বনরুই
+- ਪੈਂਗੋਲਿਨ
+- ବଜ୍ର କାପତା
+- அழுங்கு
+- తెలు
+- ಫೋಲಿಡೋಟಾ
+- อันดับลิ่น
+- လိၼ်ႈ
+- သင်းခွေချပ်
+- პანგოლინები
+- 穿山甲
+- 鯪鯉
+- 鱗甲目
+- 鳞甲目
+- ꠛꠘꠞꠃ
+- 천산갑
 title: Pholidota
+has_id_wikidata: Q2191516
+dv_has_:
+  name_:
+    af: Skubdier
+    ak: Aprawa
+    an: Pholidota
+    ar: بنغوليات
+    arz: پانجولين
+    as: বন-ৰৌ
+    ast: Pholidota
+    avk: Vorbumoldunol (Pholidota)
+    az: Panqolinlər
+    azb: فولیدوتا
+    ban: Klesih
+    bcl: Balintong
+    be: пангаліны
+    be-tarask: пангаліны
+    bg: панголини
+    bn: বনরুই
+    br: Pangolin
+    ca: Pangolí
+    cdo: Là-lī
+    ceb: Pholidota
+    cs: luskouni
+    cv: калтă
+    cy: Pangolin
+    da: Skældyr
+    de: Schuppentiere
+    ee: Luʋuluʋu
+    el: παγκολίνος
+    en: Pholidota
+    eo: Manisuloj
+    es: Pholidota
+    et: soomusloomalised
+    eu: Pholidota
+    ext: Pholidota
+    fa: پولکپوست
+    fi: muurahaiskävyt
+    fon: Lixwí
+    fr: Pholidota
+    ga: Pholidota
+    gl: Folidotos
+    hak: Lièn-lî
+    he: פנגולינאים
+    hi: फोलिडोटा
+    hu: tobzoskák
+    hy: թեփամորթներ
+    ia: Pholidota
+    id: Tenggiling
+    ie: Pholidota
+    io: Pholidota
+    is: hreisturdýr
+    it: Pholidota
+    ja: 鱗甲目
+    jv: Trenggiling
+    ka: პანგოლინები
+    kn: ಫೋಲಿಡೋಟಾ
+    ko: 천산갑
+    la: Pholidota
+    lfn: Folidoto
+    lg: Olugave
+    lij: Pholidota
+    lt: Skujuotiniai
+    lv: Zvīņnešu kārta
+    lzh: 鯪鯉
+    mad: Trenggiling
+    mk: панголини
+    ms: tenggiling
+    mt: Pholidota
+    mul: Pholidota
+    my: သင်းခွေချပ်
+    nan: Lâ-lí
+    nb: skjelldyr
+    ne: सालक
+    nl: Schubdierachtigen
+    nn: skjelldyr
+    nov: Pholidota
+    nv: Wóláchííʼ yildeełí bikágí ntłʼizí
+    oc: Pholidota
+    or: ବଜ୍ର କାପତା
+    pa: ਪੈਂਗੋਲਿਨ
+    pl: Łuskowce
+    pt: Pholidota
+    pt-br: Pholidota
+    pwn: qam
+    ro: Pangolin
+    ru: панголины
+    sa: फोलोदोता
+    scn: Pholidota
+    sco: Pholidota
+    sg: Kpîkara
+    shn: လိၼ်ႈ
+    sk: Šupinavce
+    sl: luskavci
+    sq: Pholidota
+    sr: Pholidota
+    sv: Myrkottar
+    sw: kakakuona
+    syl: ꠛꠘꠞꠃ
+    szy: alem
+    ta: அழுங்கு
+    te: తెలు
+    th: อันดับลิ่น
+    tl: Panggolin
+    tr: Pangolin
+    tw: Aprawa
+    ug: تاغتېشەر(ھايۋان)
+    uk: панголіноподібні
+    ur: پینگولن
+    uz: Pangolinlar
+    vi: Tê tê
+    vls: Schubbebêest'n
+    vo: Pholidota
+    war: Pholidota
+    wuu: 穿山甲
+    yue: 鱗甲目
+    zh: 鳞甲目
+    zh-cn: 鳞甲目
+    zh-tw: 鱗甲目
+    zu: Imfinyezi
 ---
-
 # [[Pholidota]]
 
 ## Pangolins and their extinct relatives 

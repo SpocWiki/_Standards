@@ -1,16 +1,79 @@
 ---
 aliases:
-  - Leibeigenschaft
-  - Serfdom
+- baudžiava
+- Bændaánauð
+- chế độ nông nô
+- Dzimtbūšana
+- eanašlávvavuohta
+- Hadimu
+- iobăgie
+- jobbágy
+- Joputza
+- Kmetstvo
+- Leibeigenschaft
+- Leifeegeschaft
+- Liefegenschop
+- Liibeigeschaft
+- lijfeigenschap
+- Livegenskab
+- livegenskap
+- liveigenskap
+- Lyfeienskap
+- maaorjuus
+- nevolnictví
+- Nevoľníctvo
+- Poddaństwo
+- pärisorjus
+- seirfeachas
+- serf
+- Serfdom
+- Serfeso
+- servage
+- servidumbre
+- Servidume
+- servidão
+- servitù della gleba
+- servuteco
+- Siervu
+- Sinyoría
+- Sèrv
+- taeogaeth
+- tlačanstvo
+- Topraq qulluğı
+- Təhkimçilik hüququ
+- δουλοπαροικία
+- ГӀопалла
+- Кметство
+- кріпосне право
+- Крепостно право
+- крепостное право
+- Крепостной укук
+- Подданство
+- прыгоннае права
+- прыгоньніцтва
+- Ճորտատիրություն
+- צמיתות
+- رعیتداری
+- فلاح عبد
+- قنانة
+- يانچىلىق تۈزۈمى
+- दासत्व
+- ਭੌਂ-ਗੁਲਾਮੀ
+- பண்ணையடிமை
+- ಜೀತ ಪದ್ಧತಿ
+- ทาสติดที่ดิน
+- 农奴制
+- 農奴制
+- 농노제
 has_id_wikidata: Q103350
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - '[[_Standards/WikiData/WD~subjecthood,837395]]'
-  - '[[_Standards/WikiData/WD~Q13405597,13405597]]'
+- '[[_Standards/WikiData/WD~subjecthood,837395]]'
+- '[[_Standards/WikiData/WD~Q13405597,13405597]]'
 subclass_of: '[[_Standards/WikiData/WD~social_relation,853725]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~slave,12773225]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_serfdom,17089893]]'
@@ -18,11 +81,93 @@ practiced_by: '[[_Standards/WikiData/WD~serf,85000195]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Leibeigenschaft.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reeve%20and%20Serfs.jpg
 exact_match:
-  - http://data.culture.fr/thesaurus/page/ark:/67717/T1-1181
-  - http://www.treccani.it/enciclopedia/servi-della-gleba_%28Enciclopedia-dei-ragazzi%29/
+- http://data.culture.fr/thesaurus/page/ark:/67717/T1-1181
+- http://www.treccani.it/enciclopedia/servi-della-gleba_%28Enciclopedia-dei-ragazzi%29/
 Commons_category: Serfdom
+dv_has_:
+  name_:
+    af: Lyfeienskap
+    an: Sinyoría
+    ar: قنانة
+    arz: فلاح عبد
+    ast: Siervu
+    az: Təhkimçilik hüququ
+    be: прыгоннае права
+    be-tarask: прыгоньніцтва
+    bg: Крепостно право
+    ca: serf
+    ce: ГӀопалла
+    crh: Topraq qulluğı
+    cs: nevolnictví
+    cy: taeogaeth
+    da: Livegenskab
+    de: Leibeigenschaft
+    diq: Serf
+    el: δουλοπαροικία
+    en: serfdom
+    eo: servuteco
+    es: servidumbre
+    et: pärisorjus
+    eu: Joputza
+    fa: رعیتداری
+    fi: maaorjuus
+    fr: servage
+    ga: seirfeachas
+    gl: Servidume
+    gsw: Liibeigeschaft
+    he: צמיתות
+    hi: दासत्व
+    hr: Kmetstvo
+    hu: jobbágy
+    hy: Ճորտատիրություն
+    id: Serf
+    io: Serfeso
+    is: Bændaánauð
+    it: servitù della gleba
+    ja: 農奴制
+    kn: ಜೀತ ಪದ್ಧತಿ
+    ko: 농노제
+    ky: Крепостной укук
+    lb: Leifeegeschaft
+    lt: baudžiava
+    lv: Dzimtbūšana
+    ms: Serf
+    nb: livegenskap
+    nds: Liefegenschop
+    nl: lijfeigenschap
+    nn: liveigenskap
+    oc: Sèrv
+    pa: ਭੌਂ-ਗੁਲਾਮੀ
+    pl: Poddaństwo
+    pt: servidão
+    ro: iobăgie
+    ru: крепостное право
+    rue: Подданство
+    se: eanašlávvavuohta
+    sh: Kmetstvo
+    sk: Nevoľníctvo
+    sl: tlačanstvo
+    sr: Кметство
+    sr-ec: Кметство
+    sr-el: Kmetstvo
+    sv: livegenskap
+    sw: Hadimu
+    ta: பண்ணையடிமை
+    th: ทาสติดที่ดิน
+    tr: serf
+    ug: يانچىلىق تۈزۈمى
+    uk: кріпосне право
+    vi: chế độ nông nô
+    wuu: 农奴制
+    yue: 農奴制
+    zh: 農奴制
+    zh-cn: 农奴制
+    zh-hans: 农奴制
+    zh-hant: 農奴制
+    zh-hk: 農奴制
+    zh-sg: 农奴制
+    zh-tw: 農奴制
 ---
-
 # [[Serfdom]] 
 
 #is_/similar_to :: [[../../../../Social_Issues/Slavery|Slavery]] 

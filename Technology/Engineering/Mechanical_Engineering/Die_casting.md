@@ -1,17 +1,91 @@
 ---
 aliases:
-  - Die casting
-  - Druckguss
-  - high pressure die casting
-  - Die_casting
+- Basınçlı döküm
+- Die casting
+- Die_casting
+- Druckguss
+- fosa a pressió
+- Fundición a presión
+- Fundiçon anjetada
+- Fundição injetada
+- high pressure die casting
+- Livenje pod pritiskom
+- Matrysgietwerk
+- Metalmuldado
+- moulage métallique
+- Odlewanie ciśnieniowe
+- painevalu
+- presiozko moldekatze
+- pressgjutning
+- pressofusione
+- presstøping
+- presstøyping
+- Survevalu
+- tlakové lití
+- tlačno litje
+- turnare sub presiune
+- Đúc khuôn
+- ліцьцё мэталаў пад ціскам
+- Леене под налягане
+- лиття металів під тиском
+- Литьё металлов под давлением
+- ریختهگری تحت فشار
+- سبك في قوالب
+- డై కాస్టింగ్
+- മർദ്ദിത അച്ചുവാർപ്പ്
+- ダイカスト
+- 压铸
+- 壓鑄
+- 다이캐스팅
 has_id_wikidata: Q3325511
 different_from: '[[_Standards/WikiData/WD~metal_injection_molding,1367385]]'
 subclass_of: '[[_Standards/WikiData/WD~metal_casting,9268371]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Library_of_Congress_Classification: TS239
 Commons_category: Die casting
+dv_has_:
+  name_:
+    af: Matrysgietwerk
+    ar: سبك في قوالب
+    be-tarask: ліцьцё мэталаў пад ціскам
+    bg: Леене под налягане
+    ca: fosa a pressió
+    cs: tlakové lití
+    de: Druckguss
+    de-ch: Druckguss
+    en: die casting
+    en-ca: Die casting
+    en-gb: Die casting
+    eo: Metalmuldado
+    es: Fundición a presión
+    et: Survevalu
+    eu: presiozko moldekatze
+    fa: ریختهگری تحت فشار
+    fi: painevalu
+    fr: moulage métallique
+    it: pressofusione
+    ja: ダイカスト
+    ko: 다이캐스팅
+    ml: മർദ്ദിത അച്ചുവാർപ്പ്
+    mwl: Fundiçon anjetada
+    nb: presstøping
+    nn: presstøyping
+    pl: Odlewanie ciśnieniowe
+    pt: Fundição injetada
+    pt-br: Fundição injetada
+    ro: turnare sub presiune
+    ru: Литьё металлов под давлением
+    sl: tlačno litje
+    sr: Livenje pod pritiskom
+    sv: pressgjutning
+    te: డై కాస్టింగ్
+    tr: Basınçlı döküm
+    uk: лиття металів під тиском
+    vi: Đúc khuôn
+    wuu: 压铸
+    yue: 壓鑄
+    zh: 壓鑄
 ---
-
 # [[Die_casting]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Die_casting,3325511|WD~Die_casting,3325511]] 

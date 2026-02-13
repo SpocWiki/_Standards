@@ -1,36 +1,119 @@
 ---
 aliases:
-  - Martin Heinrich Klaproth
-  - Klaproth,Martin_Heinrich
-  - Klaproth,Martin Heinrich
+- Klaproth,Martin Heinrich
+- Klaproth,Martin_Heinrich
+- Martin Haynriş Klaprot
+- Martin Heinrich Klaproth
+- Martin Klaproth
+- Martins Heinrihs Klaprots
+- Μάρτιν Χάινριχ Κλάπροτ
+- Мартін Генріх Клапрот
+- Мартин Генрих Клапрот
+- Мартин Хајнрих Клапрот
+- Мартин Хайнриx Клапрот
+- Мартин Хайнрих Клапрот
+- Мартин Һайнрих Клапрот
+- Марцін Генрых Клапрот
+- מרטין היינריך קלפרות
+- مارتن كلابروت
+- مارتین هاینریش کلاپروت
+- مارتین هینریچ کلاپروت
+- مارٹن ہینرک کلاپروتھ
+- มาร์ทีน ไฮน์ริช คลัพโรท
+- მარტინ ჰაინრიხ კლაპროთი
+- マルティン・ハインリヒ・クラプロート
+- 馬丁·克拉普羅特
+- 馬丁·海因里希·克拉普羅特
+- 马丁·海因里希·克拉普罗特
+- 마르틴 하인리히 클라프로트
 dv_has_:
+  age_:
+    years: 73
+  name_:
+    ar: مارتن كلابروت
+    arz: مارتن كلابروت
+    ast: Martin Heinrich Klaproth
+    az: Martin Haynriş Klaprot
+    azb: مارتین هاینریش کلاپروت
+    be: Марцін Генрых Клапрот
+    bg: Мартин Хайнрих Клапрот
+    ca: Martin Heinrich Klaproth
+    cs: Martin Heinrich Klaproth
+    da: Martin Heinrich Klaproth
+    de: Martin Heinrich Klaproth
+    el: Μάρτιν Χάινριχ Κλάπροτ
+    en: Martin Heinrich Klaproth
+    en-ca: Martin Heinrich Klaproth
+    en-gb: Martin Heinrich Klaproth
+    eo: Martin Heinrich Klaproth
+    es: Martin Heinrich Klaproth
+    et: Martin Heinrich Klaproth
+    fa: مارتین هینریچ کلاپروت
+    fi: Martin Klaproth
+    fr: Martin Heinrich Klaproth
+    ga: Martin Heinrich Klaproth
+    gd: Martin Heinrich Klaproth
+    gv: Martin Heinrich Klaproth
+    he: מרטין היינריך קלפרות
+    hr: Martin Heinrich Klaproth
+    hu: Martin Heinrich Klaproth
+    id: Martin Heinrich Klaproth
+    it: Martin Heinrich Klaproth
+    ja: マルティン・ハインリヒ・クラプロート
+    ka: მარტინ ჰაინრიხ კლაპროთი
+    ko: 마르틴 하인리히 클라프로트
+    lv: Martins Heinrihs Klaprots
+    mk: Мартин Хајнрих Клапрот
+    mn: Мартин Хайнриx Клапрот
+    mul: Martin Heinrich Klaproth
+    nb: Martin Heinrich Klaproth
+    nds: Martin Heinrich Klaproth
+    nl: Martin Heinrich Klaproth
+    nn: Martin Heinrich Klaproth
+    pl: Martin Heinrich Klaproth
+    pt: Martin Heinrich Klaproth
+    pt-br: Martin Heinrich Klaproth
+    ro: Martin Heinrich Klaproth
+    ru: Мартин Генрих Клапрот
+    sk: Martin Heinrich Klaproth
+    sl: Martin Heinrich Klaproth
+    sq: Martin Heinrich Klaproth
+    su: Martin Heinrich Klaproth
+    sv: Martin Heinrich Klaproth
+    th: มาร์ทีน ไฮน์ริช คลัพโรท
+    tr: Martin Heinrich Klaproth
+    tt: Мартин Һайнрих Клапрот
+    uk: Мартін Генріх Клапрот
+    ur: مارٹن ہینرک کلاپروتھ
+    yue: 馬丁·克拉普羅特
+    zh: 馬丁·克拉普羅特
+    zh-cn: 马丁·海因里希·克拉普罗特
+    zh-hant: 馬丁·海因里希·克拉普羅特
   time_:
     started: 1743-12-01T00:00:00.000+00:53
     stopped: 1817-01-01T00:00:00.000+00:53
-  age_:
-    years: 73
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]]"
-    - "[[/_public/Chemistry/Chemist/Klaproth,Martin_Heinrich.public|Klaproth,Martin_Heinrich.public]]"
-    - "[[/_internal/Chemistry/Chemist/Klaproth,Martin_Heinrich.internal|Klaproth,Martin_Heinrich.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Klaproth,Martin_Heinrich.protect|Klaproth,Martin_Heinrich.protect]]"
-    - "[[/_private/Chemistry/Chemist/Klaproth,Martin_Heinrich.private|Klaproth,Martin_Heinrich.private]]"
-    - "[[/_personal/Chemistry/Chemist/Klaproth,Martin_Heinrich.personal|Klaproth,Martin_Heinrich.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]"
+  - '[[/_Standards/Chemistry/Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]]'
+  - '[[/_public/Chemistry/Chemist/Klaproth,Martin_Heinrich.public|Klaproth,Martin_Heinrich.public]]'
+  - '[[/_internal/Chemistry/Chemist/Klaproth,Martin_Heinrich.internal|Klaproth,Martin_Heinrich.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Klaproth,Martin_Heinrich.protect|Klaproth,Martin_Heinrich.protect]]'
+  - '[[/_private/Chemistry/Chemist/Klaproth,Martin_Heinrich.private|Klaproth,Martin_Heinrich.private]]'
+  - '[[/_personal/Chemistry/Chemist/Klaproth,Martin_Heinrich.personal|Klaproth,Martin_Heinrich.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]'
 dv_has_time_started: 1743-12-01
 dv_has_time_stopped: 1817-01-01
 dv_has_age_years: 73
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]]"
-  - "[[/_public/Chemistry/Chemist/Klaproth,Martin_Heinrich.public|Klaproth,Martin_Heinrich.public]]"
-  - "[[/_internal/Chemistry/Chemist/Klaproth,Martin_Heinrich.internal|Klaproth,Martin_Heinrich.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Klaproth,Martin_Heinrich.protect|Klaproth,Martin_Heinrich.protect]]"
-  - "[[/_private/Chemistry/Chemist/Klaproth,Martin_Heinrich.private|Klaproth,Martin_Heinrich.private]]"
-  - "[[/_personal/Chemistry/Chemist/Klaproth,Martin_Heinrich.personal|Klaproth,Martin_Heinrich.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]"
+- '[[/_Standards/Chemistry/Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]]'
+- '[[/_public/Chemistry/Chemist/Klaproth,Martin_Heinrich.public|Klaproth,Martin_Heinrich.public]]'
+- '[[/_internal/Chemistry/Chemist/Klaproth,Martin_Heinrich.internal|Klaproth,Martin_Heinrich.internal]]'
+- '[[/_protect/Chemistry/Chemist/Klaproth,Martin_Heinrich.protect|Klaproth,Martin_Heinrich.protect]]'
+- '[[/_private/Chemistry/Chemist/Klaproth,Martin_Heinrich.private|Klaproth,Martin_Heinrich.private]]'
+- '[[/_personal/Chemistry/Chemist/Klaproth,Martin_Heinrich.personal|Klaproth,Martin_Heinrich.personal]]'
+- '[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]'
+has_id_wikidata: Q160196
 ---
-
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 

@@ -2,8 +2,8 @@
 aliases:
   - Visual-Basic
   - Prog~VB
+has_id_wikidata: Q15853013
 ---
-
 #has_/parent :[[../../Prog~Structured/Structured_Prog-Lang/Microsoft_BASIC|Microsoft_BASIC]]]] 
 #has_/time_/started : 1991-07-01 
 

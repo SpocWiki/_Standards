@@ -1,52 +1,192 @@
 ---
 aliases:
+- Dewa Horus
+- Her
+- Hor
+- Horas
+- Horos
+- Hors
+- Horus
+- Horusi
+- Horuso
+- Hóras
+- Hórus
+- Hórusz
+- Hôrosy
+- jan sewi Olo
+- Ώρος
+- Гор
+- Хор
+- Хорус
+- Գոր
+- הורוס
+- حورس
+- حۆروس
+- هورس - هاروئریس
+- هوروس
+- होरस
+- হোরাস
+- ਹੋਰਸ
+- ஓரசு
+- ഹോറസ്
+- හොරස්
+- ฮอรัส
+- ཧོ་ལུའུ་སི།
+- ဟိုးရပ်စ်နတ်ဘုရား
+- ჰოროსი
+- ホルス
+- 荷魯斯
+- 荷鲁斯
+- ꯍꯣꯔꯁ
+- 호루스
 has_id_wikidata: Q84122
 mother:
-  - "[[_Standards/WikiData/WD~Isis,79876]]"
-  - "[[_Standards/WikiData/WD~Nut,165496]]"
-enemy: "[[_Standards/WikiData/WD~Seth,131795]]"
-spouse: "[[_Standards/WikiData/WD~Hathor,133343]]"
+- '[[_Standards/WikiData/WD~Isis,79876]]'
+- '[[_Standards/WikiData/WD~Nut,165496]]'
+enemy: '[[_Standards/WikiData/WD~Seth,131795]]'
+spouse: '[[_Standards/WikiData/WD~Hathor,133343]]'
 father:
-  - "[[_Standards/WikiData/WD~Geb,168444]]"
-  - "[[_Standards/WikiData/WD~Ra,1252904]]"
-  - "[[_Standards/WikiData/WD~Osiris,46491]]"
-part_of: "[[_Standards/WikiData/WD~Egyptian_mythology,205740]]"
-connects_with: "[[_Standards/WikiData/WD~Eye_of_Horus,211286]]"
-worshipped_by: "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
+- '[[_Standards/WikiData/WD~Geb,168444]]'
+- '[[_Standards/WikiData/WD~Ra,1252904]]'
+- '[[_Standards/WikiData/WD~Osiris,46491]]'
+part_of: '[[_Standards/WikiData/WD~Egyptian_mythology,205740]]'
+connects_with: '[[_Standards/WikiData/WD~Eye_of_Horus,211286]]'
+worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 child:
-  - "[[_Standards/WikiData/WD~Four_sons_of_Horus,727053]]"
-  - "[[_Standards/WikiData/WD~Ihy,1051726]]"
-  - "[[_Standards/WikiData/WD~Imsety,1128502]]"
-  - "[[_Standards/WikiData/WD~Hapy_(Son_of_Horus),1141220]]"
-  - "[[_Standards/WikiData/WD~Duamutef,1164867]]"
-  - "[[_Standards/WikiData/WD~Qebehsenuef,1344074]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Four_sons_of_Horus,727053]]'
+- '[[_Standards/WikiData/WD~Ihy,1051726]]'
+- '[[_Standards/WikiData/WD~Imsety,1128502]]'
+- '[[_Standards/WikiData/WD~Hapy_(Son_of_Horus),1141220]]'
+- '[[_Standards/WikiData/WD~Duamutef,1164867]]'
+- '[[_Standards/WikiData/WD~Qebehsenuef,1344074]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 domain_of_saint_or_deity:
-  - "[[_Standards/WikiData/WD~kingship,11573140]]"
-  - "[[_Standards/WikiData/WD~sky,527]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q20857111,20857111]]"
-instance_of: "[[_Standards/WikiData/WD~war_deity,41863069]]"
-appears_in_the_form_of: "[[_Standards/WikiData/WD~falcon,43489]]"
+- '[[_Standards/WikiData/WD~kingship,11573140]]'
+- '[[_Standards/WikiData/WD~sky,527]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q20857111,20857111]]'
+instance_of: '[[_Standards/WikiData/WD~war_deity,41863069]]'
+appears_in_the_form_of: '[[_Standards/WikiData/WD~falcon,43489]]'
 name_in_hiero_markup:
-  - G9
-  - G5-G7
-  - H-Hr:r
+- G9
+- G5-G7
+- H-Hr:r
 Commons_gallery: Horus
 Commons_category: Horus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Horus%20standing.svg
 Iconclass_notation: 12C13(HORUS)
 Hederich_encyclopedia_article: Horvs
+dv_has_:
+  name_:
+    af: Horus
+    ar: حورس
+    arz: حورس
+    ast: Horus
+    az: Horus
+    bar: Horus
+    be: Хор
+    be-tarask: Гор
+    bg: Хор
+    bn: হোরাস
+    bo: ཧོ་ལུའུ་སི།
+    br: Horus
+    ca: Horus
+    cdo: Horus
+    ckb: حۆروس
+    cs: Hor
+    cv: Гор
+    da: Horus
+    de: Horus
+    de-ch: Horus
+    diq: Horus
+    el: Ώρος
+    en: Horus
+    en-ca: Horus
+    en-gb: Horus
+    eo: Horuso
+    es: Horus
+    et: Horos
+    eu: Horus
+    fa: هورس - هاروئریس
+    fi: Horus
+    fr: Horus
+    ga: Hóras
+    gl: Horus
+    gsw: Horus
+    he: הורוס
+    hi: होरस
+    hr: Horus
+    hu: Hórusz
+    hy: Գոր
+    id: Horus
+    is: Hórus
+    it: Horus
+    ja: ホルス
+    jv: Horus
+    ka: ჰოროსი
+    ko: 호루스
+    la: Horus
+    lt: Horas
+    lv: Hors
+    mg: Hôrosy
+    mk: Хор
+    ml: ഹോറസ്
+    mn: Хорус
+    mni: ꯍꯣꯔꯁ
+    ms: Dewa Horus
+    my: ဟိုးရပ်စ်နတ်ဘုရား
+    nb: Horus
+    ne: होरस
+    nl: Horus
+    oc: Her
+    pa: ਹੋਰਸ
+    pl: Horus
+    pnb: حورس
+    ps: هوروس
+    pt: Hórus
+    pt-br: Hórus
+    ro: Horus
+    ru: Гор
+    scn: Horus
+    sco: Horus
+    sd: حورس
+    sh: Horus
+    si: හොරස්
+    sk: Hor
+    sl: Hor
+    sq: Horusi
+    sr: Хорус
+    sv: Horus
+    sw: Horus
+    ta: ஓரசு
+    tg: Гор
+    th: ฮอรัส
+    tl: Horus
+    tok: jan sewi Olo
+    tr: Horus
+    uk: Гор
+    ur: حورس
+    vi: Horus
+    war: Horus
+    wuu: 荷鲁斯
+    xmf: ჰოროსი
+    yue: 荷魯斯
+    zh: 荷鲁斯
+    zh-cn: 荷鲁斯
+    zh-hans: 荷鲁斯
+    zh-hant: 荷魯斯
+    zh-hk: 荷魯斯
+    zh-sg: 荷鲁斯
+    zh-tw: 荷魯斯
 ---
-
 # [[Horus]] 
 
 #is_/same_as :: [[WD~Horus,84122]] 

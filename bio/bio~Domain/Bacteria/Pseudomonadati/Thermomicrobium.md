@@ -1,9 +1,61 @@
 ---
 aliases:
-  - Thermomicrobium
+- Termomicrobios
+- Thermomicrobia
+- Thermomicrobium
+- سحناوات
+- テルモミクロビウム綱
+- 热微菌门
+- 熱微菌門
+- 열미균류
 title: Thermomicrobium
+has_id_wikidata: Q1349847
+dv_has_:
+  name_:
+    an: Thermomicrobia
+    ar: سحناوات
+    arz: سحناوات
+    ast: Thermomicrobia
+    bg: Thermomicrobia
+    ca: Thermomicrobia
+    ceb: Thermomicrobia
+    cs: Thermomicrobia
+    de: Thermomicrobia
+    en: Thermomicrobia
+    eo: Thermomicrobia
+    es: Thermomicrobia
+    eu: Thermomicrobia
+    ext: Thermomicrobia
+    fi: Thermomicrobia
+    fr: Thermomicrobia
+    ga: Thermomicrobia
+    gl: Termomicrobios
+    ia: Thermomicrobia
+    ie: Thermomicrobia
+    io: Thermomicrobia
+    it: Thermomicrobia
+    ja: テルモミクロビウム綱
+    ko: 열미균류
+    la: Thermomicrobia
+    mul: Thermomicrobia
+    nb: Thermomicrobia
+    nl: Thermomicrobia
+    oc: Thermomicrobia
+    pl: Thermomicrobia
+    pt: Thermomicrobia
+    pt-br: Thermomicrobia
+    ro: Thermomicrobia
+    ru: Thermomicrobia
+    sq: Thermomicrobia
+    uk: Thermomicrobia
+    vi: Thermomicrobia
+    vo: Thermomicrobia
+    war: Thermomicrobia
+    zh: 熱微菌門
+    zh-hans: 热微菌门
+    zh-hant: 熱微菌門
+    zh-hk: 熱微菌門
 ---
-
 # [[Thermomicrobia]] 
 
 #is_a/bio-Phylum  

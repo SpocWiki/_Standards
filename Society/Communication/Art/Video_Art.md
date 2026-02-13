@@ -1,26 +1,131 @@
 ---
 aliases:
+- art vidéo
+- bideoarte
+- celfyddyd fideo
+- físealaín
+- nghệ thuật video
+- sztuka wideo
+- video art
+- video sanatı
+- Video umjetnost
+- Video-art
+- videoart
+- videoarte
+- videoarto
+- videodáidda
+- Videokonscht
+- videokonst
+- videokunst
+- videomenas
+- videotaaiđâ
+- videotaide
+- videoumetnost
+- Videoumjetnost
+- videočeäppõs
+- Βίντεο αρτ
+- відео-арт
+- відэамастацтва
+- видео умјетност
+- Видео-арт
+- видеоарт
+- видеоизкуство
+- видеоуметност
+- Վիդեոարտ
+- וידאו ארט
+- فن الفيديو
+- هنر ویدیویی
+- ਵੀਡਿਓ ਆਰਟ
+- ビデオ・アート
+- 影像艺术
+- 影像藝術
+- 視訊藝術
+- 视频艺术
+- 錄像藝術
+- 비디오 아트
 has_id_wikidata: Q682010
 instance_of:
-  - "[[_Standards/WikiData/WD~film_genre,201658]]"
-  - "[[_Standards/WikiData/WD~form_of_art,1437361]]"
-  - "[[_Standards/WikiData/WD~art_genre,1792379]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
+- '[[_Standards/WikiData/WD~film_genre,201658]]'
+- '[[_Standards/WikiData/WD~form_of_art,1437361]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~new_media_art,378604]]"
-  - "[[_Standards/WikiData/WD~visual_arts,36649]]"
-practiced_by: "[[_Standards/WikiData/WD~video_artist,18216771]]"
-different_from: "[[_Standards/WikiData/WD~video_artwork,20742776]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~video_artwork,20742776]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-uses: "[[_Standards/WikiData/WD~video,98069877]]"
+- '[[_Standards/WikiData/WD~new_media_art,378604]]'
+- '[[_Standards/WikiData/WD~visual_arts,36649]]'
+practiced_by: '[[_Standards/WikiData/WD~video_artist,18216771]]'
+different_from: '[[_Standards/WikiData/WD~video_artwork,20742776]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~video_artwork,20742776]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+uses: '[[_Standards/WikiData/WD~video,98069877]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Video%20synthesizer%2C%20PNW%20SynthFest%202013.jpg
 Commons_category: Video art
 Subreddit: videoart
 hashtag: videoart
-Dewey_Decimal_Classification: "778.59"
+Dewey_Decimal_Classification: 778.59
+dv_has_:
+  name_:
+    ar: فن الفيديو
+    arz: فن الفيديو
+    ast: Videoarte
+    az: Video-art
+    be-tarask: відэамастацтва
+    bg: видеоизкуство
+    ca: videoart
+    cs: videoart
+    cy: celfyddyd fideo
+    da: Videokunst
+    de: Videokunst
+    el: Βίντεο αρτ
+    en: video art
+    eo: videoarto
+    es: videoarte
+    et: videokunst
+    eu: bideoarte
+    fa: هنر ویدیویی
+    fi: videotaide
+    fr: art vidéo
+    ga: físealaín
+    gl: Videoarte
+    he: וידאו ארט
+    hr: Videoumjetnost
+    hu: video art
+    hy: Վիդեոարտ
+    it: videoarte
+    ja: ビデオ・アート
+    ko: 비디오 아트
+    ky: Видео-арт
+    lb: Videokonscht
+    lt: videomenas
+    mk: видеоуметност
+    nb: videokunst
+    nl: videokunst
+    nn: Videokunst
+    pa: ਵੀਡਿਓ ਆਰਟ
+    pl: sztuka wideo
+    pt: videoarte
+    pt-br: videoarte
+    ru: видеоарт
+    se: videodáidda
+    sh: Video umjetnost
+    sk: videoart
+    sl: videoumetnost
+    smn: videotaaiđâ
+    sms: videočeäppõs
+    sr: видео умјетност
+    sr-ec: Видео умјетност
+    sr-el: Video umjetnost
+    sv: videokonst
+    tr: video sanatı
+    uk: відео-арт
+    vi: nghệ thuật video
+    wuu: 影像艺术
+    yue: 錄像藝術
+    zh: 視訊藝術
+    zh-cn: 视频艺术
+    zh-hans: 影像艺术
+    zh-hant: 影像藝術
+    zh-tw: 錄像藝術
 ---
-
 # [[Video_Art]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Video_art,682010|WD~Video_art,682010]]  

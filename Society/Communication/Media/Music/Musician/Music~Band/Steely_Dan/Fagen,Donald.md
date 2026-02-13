@@ -1,9 +1,62 @@
 ---
 aliases:
-  - Donald Fagen
-  - Fagen,Donald
+- Donald Fagen
+- Fagen,Donald
+- Доналд Фейгън
+- Дональд Фейген
+- דונלד פייגן
+- دانلد فقن
+- دانلد فگن
+- دونالد فاجين
+- ডোনাল্ড ফ্যাগেন
+- ドナルド・フェイゲン
+- 唐納德·費根
+- 唐纳德·费根
+- 도널드 페이건
+has_id_wikidata: Q506554
+dv_has_:
+  name_:
+    an: Donald Fagen
+    arz: دونالد فاجين
+    ast: Donald Fagen
+    azb: دانلد فقن
+    bg: Доналд Фейгън
+    bn: ডোনাল্ড ফ্যাগেন
+    ca: Donald Fagen
+    cs: Donald Fagen
+    da: Donald Fagen
+    de: Donald Fagen
+    en: Donald Fagen
+    es: Donald Fagen
+    eu: Donald Fagen
+    fa: دانلد فگن
+    fi: Donald Fagen
+    fr: Donald Fagen
+    ga: Donald Fagen
+    gl: Donald Fagen
+    he: דונלד פייגן
+    hu: Donald Fagen
+    it: Donald Fagen
+    ja: ドナルド・フェイゲン
+    ko: 도널드 페이건
+    mul: Donald Fagen
+    nb: Donald Fagen
+    nl: Donald Fagen
+    nn: Donald Fagen
+    pap: Donald Fagen
+    pl: Donald Fagen
+    pt: Donald Fagen
+    pt-br: Donald Fagen
+    ru: Дональд Фейген
+    sl: Donald Fagen
+    sq: Donald Fagen
+    sv: Donald Fagen
+    tr: Donald Fagen
+    zh: 唐納德·費根
+    zh-cn: 唐纳德·费根
+    zh-hans: 唐纳德·费根
+    zh-hant: 唐納德·費根
 ---
-
 #has_/time_/started :: 1948-01-10 
 
 > Donald Jay Fagen (born 1948-01-10) is an American musician who was the co-founder, 

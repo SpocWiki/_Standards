@@ -1,16 +1,73 @@
 ---
 aliases:
+- Mirtòidia
+- Myrtoideae
+- Mərsinkimilər
+- миртови
+- Миртовые (подсемейство)
+- մրտենայիններ
+- آسياوات
+- 桃金娘亚科
+- 도금양아과
 has_id_wikidata: Q4296312
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 Commons_category: Myrtoideae
 taxon_name: Myrtoideae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Myrtus%20communis.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2423
 EPPO_Code: 1MYTS
 UMLS_CUI: C4096999
+dv_has_:
+  name_:
+    an: Myrtoideae
+    ar: آسياوات
+    arz: آسياوات
+    ast: Myrtoideae
+    az: Mərsinkimilər
+    bg: миртови
+    ca: Mirtòidia
+    ceb: Myrtoideae
+    da: Myrtoideae
+    de: Myrtoideae
+    en: Myrtoideae
+    eo: Myrtoideae
+    es: Myrtoideae
+    eu: Myrtoideae
+    ext: Myrtoideae
+    fi: Myrtoideae
+    fr: Myrtoideae
+    ga: Myrtoideae
+    gl: Myrtoideae
+    hr: Myrtoideae
+    hy: մրտենայիններ
+    ia: Myrtoideae
+    ie: Myrtoideae
+    io: Myrtoideae
+    it: Myrtoideae
+    ko: 도금양아과
+    la: Myrtoideae
+    mul: Myrtoideae
+    nb: Myrtoideae
+    nl: Myrtoideae
+    nn: Myrtoideae
+    oc: Myrtoideae
+    pl: Myrtoideae
+    pt: Myrtoideae
+    pt-br: Myrtoideae
+    ro: Myrtoideae
+    ru: Миртовые (подсемейство)
+    sl: Myrtoideae
+    sq: Myrtoideae
+    sv: Myrtoideae
+    uk: Myrtoideae
+    vi: Myrtoideae
+    vo: Myrtoideae
+    war: Myrtoideae
+    zh: 桃金娘亚科
+    zh-cn: 桃金娘亚科
+    zh-hans: 桃金娘亚科
 ---
-
 # [[Myrtoideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312]] 

@@ -1,9 +1,88 @@
 ---
 aliases:
-  - Coelurosauria
+- celurosaures
+- Celurosauri
+- Celurosaŭroj
+- celurozaury
+- Coelurosaur
+- Coelurosauria
+- Coelurosaurier
+- целурозаври
+- целурозавры
+- קלורוזאוריה
+- سيلوروصوريات
+- سیلوروسورها
+- コエルロサウルス類
+- 虚骨龙类
+- 虛骨龍類
 title: Coelurosauria
+has_id_wikidata: Q131092
+dv_has_:
+  name_:
+    af: Coelurosauria
+    an: Coelurosauria
+    ar: سيلوروصوريات
+    arz: سيلوروصوريات
+    ast: Coelurosauria
+    bg: целурозаври
+    ca: celurosaures
+    ceb: Coelurosauria
+    cs: Coelurosauria
+    de: Coelurosauria
+    el: Coelurosauria
+    en: Coelurosauria
+    en-ca: Coelurosauria
+    en-gb: Coelurosauria
+    eo: Celurosaŭroj
+    es: Coelurosauria
+    eu: Coelurosauria
+    ext: Coelurosauria
+    fa: سیلوروسورها
+    fi: Coelurosauria
+    fr: Coelurosauria
+    ga: Coelurosauria
+    gl: Coelurosauria
+    he: קלורוזאוריה
+    hr: Celurosauri
+    hu: Coelurosauria
+    ia: Coelurosauria
+    id: Coelurosauria
+    ie: Coelurosauria
+    io: Coelurosauria
+    it: Coelurosauria
+    ja: コエルロサウルス類
+    la: Coelurosauria
+    mul: Coelurosauria
+    nb: Coelurosauria
+    nl: Coelurosauria
+    oc: Coelurosauria
+    or: Coelurosaur
+    pl: celurozaury
+    pt: Coelurosauria
+    pt-br: Coelurosauria
+    ro: Coelurosauria
+    ru: целурозавры
+    sco: Coelurosauria
+    sh: Celurosauri
+    sk: Coelurosauria
+    sl: Coelurosauria
+    sq: Coelurosauria
+    sr: Coelurosauria
+    sv: Coelurosaurier
+    tl: Coelurosauria
+    tr: Coelurosauria
+    uk: Целурозаври
+    vi: Coelurosauria
+    vo: Coelurosauria
+    war: Coelurosauria
+    zh: 虛骨龍類
+    zh-cn: 虚骨龙类
+    zh-hans: 虚骨龙类
+    zh-hant: 虛骨龍類
+    zh-hk: 虛骨龍類
+    zh-sg: 虚骨龙类
+    zh-tw: 虛骨龍類
 ---
-
 # [[Coelurosauria]]
 
 Birds, tyrannosaurs, velociraptors, etc. 

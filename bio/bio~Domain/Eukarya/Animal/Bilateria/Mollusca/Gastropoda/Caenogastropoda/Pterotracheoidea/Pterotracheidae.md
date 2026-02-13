@@ -1,9 +1,51 @@
 ---
 aliases:
-  - Pterotracheidae
+- hyytelökölijalkaiset
+- Pterotracheidae
+- 翼管螺科
 title: Pterotracheidae
+has_id_wikidata: Q121811
+dv_has_:
+  name_:
+    an: Pterotracheidae
+    ast: Pterotracheidae
+    bg: Pterotracheidae
+    ca: Pterotracheidae
+    ceb: Pterotracheidae
+    de: Pterotracheidae
+    en: Pterotracheidae
+    eo: Pterotracheidae
+    es: Pterotracheidae
+    eu: Pterotracheidae
+    ext: Pterotracheidae
+    fi: hyytelökölijalkaiset
+    fr: Pterotracheidae
+    ga: Pterotracheidae
+    gl: Pterotracheidae
+    ia: Pterotracheidae
+    ie: Pterotracheidae
+    io: Pterotracheidae
+    it: Pterotracheidae
+    la: Pterotracheidae
+    mul: Pterotracheidae
+    nl: Pterotracheidae
+    oc: Pterotracheidae
+    pl: Pterotracheidae
+    pt: Pterotracheidae
+    pt-br: Pterotracheidae
+    ro: Pterotracheidae
+    ru: Pterotracheidae
+    sq: Pterotracheidae
+    sv: Pterotracheidae
+    tr: Pterotracheidae
+    uk: Pterotracheidae
+    vi: Pterotracheidae
+    vo: Pterotracheidae
+    war: Pterotracheidae
+    zh: 翼管螺科
+    zh-cn: 翼管螺科
+    zh-tw: 翼管螺科
 ---
-
 # [[Pterotracheidae]] 
 ![Pterotrachea coronata](Pterotracheidae/PterotracheaA.jpg)) 
 

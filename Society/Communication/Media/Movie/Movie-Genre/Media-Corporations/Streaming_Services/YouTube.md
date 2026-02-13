@@ -1,5 +1,686 @@
 ---
-has_time_started: 2005-02-14 
+has_time_started: 2005-02-14
+aliases:
+- I-YouTube
+- Jutubo
+- lipu Jutu
+- Tiriata
+- You Tube
+- YouTube
+- YuTub
+- Yuutubii
+- YuutYuub
+- Јутјуб
+- Ютоѵбъ
+- Ютюб
+- ՅուԹյուբ
+- יוטוב
+- יוטיוב
+- يوتوب
+- يوتىيۇب
+- يوتيوب
+- يوټيوب
+- يوٽيوب
+- یو ٹیوب
+- یوتیوب
+- یووتیووب
+- یوٗٹیٛوٗب
+- یوٹیوب
+- ޔޫޓިއުބް
+- ߦߎߕߎߓ
+- युट्युब
+- यूट्यूब
+- ইউটিউব
+- ਯੂਟਿਊਬ
+- યુ ટ્યુબ
+- ୟୁ ଟ୍ୟୁବ
+- யூடியூப்
+- యూ ట్యూబ్
+- ಯೂಟ್ಯೂಬ್
+- യൂട്യൂബ്
+- යූ ටියුබ්
+- ยูทูบ
+- ຢູທູບ
+- ཡུ་ཊོབ་
+- ယူကျု့
+- ယူကျူ့ဘ်
+- ယူႇၵျုပ်ႉ
+- ዩ ቱብ
+- ዩቱብ
+- យូ ធូប
+- ᥕᥧᥱ ᥗᥧᥙᥳ
+- ᱤᱭᱩᱴᱩᱵᱽ
+- ⵢⵓⵜⵢⵓⴱ
+- 優管
+- ꠁꠃꠐꠤꠃꠛ
+- 유튜브
+has_id_wikidata: Q866
+search_formatter_URL:
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=EgJAAQ%253D%253D
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=EgIQAg%253D%253D
+- https://www.youtube.com/results?&search_query=has_time_started: 2005-02-14 
 aliases:
 has_id_wikidata: Q866
 search_formatter_URL:
@@ -311,8 +992,2581 @@ Know_Your_Meme_slug: youtube
 booru_tag: youtube
 Uniform_Resource_Identifier_Scheme: youtube
 subreddit: youtube
+- https://www.youtube.com/results?&search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=CAM%253D
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=CAESAhAB
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=CAI%253D
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=EgIIAQ%253D%253D
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=EgIQAQ%253D%253D
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=EgIQAw%253D%253D
+- https://www.youtube.com/results?search_query=has_time_started: 2005-02-14 
+aliases:
+has_id_wikidata: Q866
+search_formatter_URL:
+  - https://www.youtube.com/results?search_query=$1&sp=EgJAAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAg%253D%253D
+  - https://www.youtube.com/results?&search_query=$1
+  - https://www.youtube.com/results?&search_query=$1&sp=CAM%253D
+  - https://www.youtube.com/results?search_query=$1&sp=CAESAhAB
+  - https://www.youtube.com/results?search_query=$1&sp=CAI%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIIAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAQ%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQAw%253D%253D
+  - https://www.youtube.com/results?search_query=$1&sp=EgIQBA%253D%253D
+IMDb_keyword:
+  - video-on-youtube
+  - youtube
+domain_name:
+  - withyoutube.com
+  - youtube-nocookie.com
+  - youtube.ae
+  - youtube.al
+  - youtube.am
+  - youtube.at
+  - youtube.az
+  - youtube.ba
+  - youtube.be
+  - youtube.bg
+  - youtube.bh
+  - youtube.bo
+  - youtube.by
+  - youtube.ca
+  - youtube.cat
+  - youtube.ch
+  - youtube.cl
+  - youtube.co
+  - youtube.co.ae
+  - youtube.co.at
+  - youtube.co.cr
+  - youtube.co.hu
+  - youtube.co.id
+  - youtube.co.il
+  - youtube.co.in
+  - youtube.co.jp
+  - youtube.co.ke
+  - youtube.co.kr
+  - youtube.co.ma
+  - youtube.co.nz
+  - youtube.co.th
+  - youtube.co.tz
+  - youtube.co.ug
+  - youtube.co.uk
+  - youtube.co.ve
+  - youtube.co.za
+  - youtube.co.zw
+  - youtube.com.ar
+  - youtube.com.au
+  - youtube.com.az
+  - youtube.com.bd
+  - youtube.com.bh
+  - youtube.com.bo
+  - youtube.com.br
+  - youtube.com.by
+  - youtube.com.co
+  - youtube.com.do
+  - youtube.com.ec
+  - youtube.com.ee
+  - youtube.com.eg
+  - youtube.com.es
+  - youtube.com.gh
+  - youtube.com.gr
+  - youtube.com.gt
+  - youtube.com.hk
+  - youtube.com.hn
+  - youtube.com.hr
+  - youtube.com.jm
+  - youtube.com.jo
+  - youtube.com.kw
+  - youtube.com.lb
+  - youtube.com.lv
+  - youtube.com.ly
+  - youtube.com.mk
+  - youtube.com.mt
+  - youtube.com.mx
+  - youtube.com.my
+  - youtube.com.ng
+  - youtube.com.ni
+  - youtube.com.om
+  - youtube.com.pa
+  - youtube.com.pe
+  - youtube.com.ph
+  - youtube.com.pk
+  - youtube.com.pt
+  - youtube.com.py
+  - youtube.com.qa
+  - youtube.com.ro
+  - youtube.com.sa
+  - youtube.com.sg
+  - youtube.com.sv
+  - youtube.com.tn
+  - youtube.com.tr
+  - youtube.com.tw
+  - youtube.com.ua
+  - youtube.com.uy
+  - youtube.com.ve
+  - youtube.cr
+  - youtube.cz
+  - youtube.de
+  - youtube.dk
+  - youtube.ee
+  - youtube.es
+  - youtube.fi
+  - youtube.fr
+  - youtube.ge
+  - youtube.gr
+  - youtube.gt
+  - youtube.hk
+  - youtube.hr
+  - youtube.hu
+  - youtube.ie
+  - youtube.in
+  - youtube.iq
+  - youtube.is
+  - youtube.jo
+  - youtube.jp
+  - youtube.kr
+  - youtube.kz
+  - youtube.la
+  - youtube.lk
+  - youtube.lt
+  - youtube.lu
+  - youtube.lv
+  - youtube.ly
+  - youtube.ma
+  - youtube.md
+  - youtube.me
+  - youtube.mk
+  - youtube.mn
+  - youtube.mx
+  - youtube.my
+  - youtube.ng
+  - youtube.ni
+  - youtube.nl
+  - youtube.no
+  - youtube.pa
+  - youtube.pe
+  - youtube.ph
+  - youtube.pk
+  - youtube.pl
+  - youtube.pr
+  - youtube.pt
+  - youtube.qa
+  - youtube.ro
+  - youtube.rs
+  - youtube.ru
+  - youtube.sa
+  - youtube.se
+  - youtube.sg
+  - youtube.si
+  - youtube.sk
+  - youtube.sn
+  - youtube.soy
+  - youtube.sv
+  - youtube.tn
+  - youtube.tv
+  - youtube.ua
+  - youtube.ug
+  - youtube.uy
+  - youtube.vn
+  - youtubeeducation.com
+  - youtubefanfest.com
+  - youtubegaming.com
+  - youtubego.co.id
+  - youtubego.co.in
+  - youtubego.com
+  - youtubego.com.br
+  - youtubego.id
+  - youtubego.in
+  - youtubekids.com
+  - youtubemobilesupport.com
+  - yt.be
+  - ytimg.com
+  - youtube.com
+  - youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+  - youtube
+  - yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: "4297403627"
+social_media_followers:
+  - 789407
+  - 78543236
+  - 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: "1636831"
+review_score:
+  - 4.0/5
+  - 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+author:
+  - "[[_Standards/WikiData/WD~Jawed_Karim,76694]]"
+  - "[[_Standards/WikiData/WD~Chad_Hurley,370299]]"
+  - "[[_Standards/WikiData/WD~Steve_Chen,379396]]"
+readable_file_format:
+  - "[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]"
+  - "[[_Standards/WikiData/WD~WebM,309440]]"
+  - "[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]"
+  - "[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]"
+  - "[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]"
+  - "[[_Standards/WikiData/WD~3GPP_file_format,27863097]]"
+  - "[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]"
+  - "[[_Standards/WikiData/WD~FLV,27967488]]"
+  - "[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]"
+  - "[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]"
+product_or_material_produced:
+  - "[[_Standards/WikiData/WD~streaming_media,220499]]"
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Music,28404534]]"
+  - "[[_Standards/WikiData/WD~YouTube_Kids,30637282]]"
+  - "[[_Standards/WikiData/WD~YouTube_TV,53720737]]"
+  - "[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]"
+different_from:
+  - "[[_Standards/WikiData/WD~YT,251969]]"
+  - "[[_Standards/WikiData/WD~YouTube,18157148]]"
+  - "[[_Standards/WikiData/WD~YouTube_Premium,18643737]]"
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+industry:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~Internet_industry,56611700]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~online_video_platform,559856]]"
+  - "[[_Standards/WikiData/WD~online_community,6576792]]"
+  - "[[_Standards/WikiData/WD~video_streaming_service,59152282]]"
+  - "[[_Standards/WikiData/WD~live_streaming_service,102336293]]"
+  - "[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]"
+location:
+  - "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+  - "[[_Standards/WikiData/WD~California,99]]"
+headquarters_location: "[[_Standards/WikiData/WD~San_Bruno,667738]]"
+copyright_license: "[[_Standards/WikiData/WD~end_user_license_agreement,725920]]"
+legal_form: "[[_Standards/WikiData/WD~big_business,4906718]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_YouTube,5867307]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]"
+operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
+  - "[[_Standards/WikiData/WD~Q96472645,96472645]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+has_part_s_: "[[_Standards/WikiData/WD~YouTube_channel,17558136]]"
+language_of_work_or_name: "[[_Standards/WikiData/WD~multiple_languages,20923490]]"
+official_app:
+  - "[[_Standards/WikiData/WD~YouTube,41697543]]"
+  - "[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]"
+copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
+subject_has_role: "[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]"
+copyright_representative: "[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q110087891,110087891]]"
+owned_by:
+  - "[[_Standards/WikiData/WD~YouTube_LLC,112247183]]"
+  - "[[_Standards/WikiData/WD~Google,95]]"
+programmed_in:
+  - "[[_Standards/WikiData/WD~Python,28865]]"
+  - "[[_Standards/WikiData/WD~Go,37227]]"
+country: "[[_Standards/WikiData/WD~United_States,30]]"
+Alexa_rank: 2
+number_of_viewers_listeners:
+  - 1350000000
+  - 1470000000
+  - 1580000000
+  - 1680000000
+  - 1780000000
+  - 1860000000
+total_revenue: 31500000000
+platform: "[[_Standards/WikiData/WD~Wii_U,56942]]"
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube&sp=EgIQBA%253D%253D
+IMDb_keyword:
+- video-on-youtube
+- youtube
+domain_name:
+- withyoutube.com
+- youtube-nocookie.com
+- youtube.ae
+- youtube.al
+- youtube.am
+- youtube.at
+- youtube.az
+- youtube.ba
+- youtube.be
+- youtube.bg
+- youtube.bh
+- youtube.bo
+- youtube.by
+- youtube.ca
+- youtube.cat
+- youtube.ch
+- youtube.cl
+- youtube.co
+- youtube.co.ae
+- youtube.co.at
+- youtube.co.cr
+- youtube.co.hu
+- youtube.co.id
+- youtube.co.il
+- youtube.co.in
+- youtube.co.jp
+- youtube.co.ke
+- youtube.co.kr
+- youtube.co.ma
+- youtube.co.nz
+- youtube.co.th
+- youtube.co.tz
+- youtube.co.ug
+- youtube.co.uk
+- youtube.co.ve
+- youtube.co.za
+- youtube.co.zw
+- youtube.com.ar
+- youtube.com.au
+- youtube.com.az
+- youtube.com.bd
+- youtube.com.bh
+- youtube.com.bo
+- youtube.com.br
+- youtube.com.by
+- youtube.com.co
+- youtube.com.do
+- youtube.com.ec
+- youtube.com.ee
+- youtube.com.eg
+- youtube.com.es
+- youtube.com.gh
+- youtube.com.gr
+- youtube.com.gt
+- youtube.com.hk
+- youtube.com.hn
+- youtube.com.hr
+- youtube.com.jm
+- youtube.com.jo
+- youtube.com.kw
+- youtube.com.lb
+- youtube.com.lv
+- youtube.com.ly
+- youtube.com.mk
+- youtube.com.mt
+- youtube.com.mx
+- youtube.com.my
+- youtube.com.ng
+- youtube.com.ni
+- youtube.com.om
+- youtube.com.pa
+- youtube.com.pe
+- youtube.com.ph
+- youtube.com.pk
+- youtube.com.pt
+- youtube.com.py
+- youtube.com.qa
+- youtube.com.ro
+- youtube.com.sa
+- youtube.com.sg
+- youtube.com.sv
+- youtube.com.tn
+- youtube.com.tr
+- youtube.com.tw
+- youtube.com.ua
+- youtube.com.uy
+- youtube.com.ve
+- youtube.cr
+- youtube.cz
+- youtube.de
+- youtube.dk
+- youtube.ee
+- youtube.es
+- youtube.fi
+- youtube.fr
+- youtube.ge
+- youtube.gr
+- youtube.gt
+- youtube.hk
+- youtube.hr
+- youtube.hu
+- youtube.ie
+- youtube.in
+- youtube.iq
+- youtube.is
+- youtube.jo
+- youtube.jp
+- youtube.kr
+- youtube.kz
+- youtube.la
+- youtube.lk
+- youtube.lt
+- youtube.lu
+- youtube.lv
+- youtube.ly
+- youtube.ma
+- youtube.md
+- youtube.me
+- youtube.mk
+- youtube.mn
+- youtube.mx
+- youtube.my
+- youtube.ng
+- youtube.ni
+- youtube.nl
+- youtube.no
+- youtube.pa
+- youtube.pe
+- youtube.ph
+- youtube.pk
+- youtube.pl
+- youtube.pr
+- youtube.pt
+- youtube.qa
+- youtube.ro
+- youtube.rs
+- youtube.ru
+- youtube.sa
+- youtube.se
+- youtube.sg
+- youtube.si
+- youtube.sk
+- youtube.sn
+- youtube.soy
+- youtube.sv
+- youtube.tn
+- youtube.tv
+- youtube.ua
+- youtube.ug
+- youtube.uy
+- youtube.vn
+- youtubeeducation.com
+- youtubefanfest.com
+- youtubegaming.com
+- youtubego.co.id
+- youtubego.co.in
+- youtubego.com
+- youtubego.com.br
+- youtubego.id
+- youtubego.in
+- youtubekids.com
+- youtubemobilesupport.com
+- yt.be
+- ytimg.com
+- youtube.com
+- youtu.be
+OpenStreetMap_key: contact:youtube
+sitemap_URL: https://www.youtube.com/sitemaps/sitemap.xml
+hashtag:
+- youtube
+- yt
+GitHub_topic: youtube
+TikTok_username: youtube
+GitHub_username: youtube
+Facebook_username: youtube
+Instagram_username: youtube
+privacy_policy_URL: https://policies.google.com/privacy
+PermID: 4297403627
+social_media_followers:
+- 789407
+- 78543236
+- 39100000
+Pinterest_username: YouTube
+Commons_category: YouTube
+YouTube_handle: YouTube
+stylized_name: YouTube
+X_Twitter_username: YouTube
+OmegaWiki_Defined_Meaning: 1636831
+review_score:
+- 4.0/5
+- 1.6/5 (Bad)
+short_name: YT
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%202024.svg
+inception: 2005-02-14T00:00:00Z
+official_blog_URL: https://blog.youtube/
+IPA_transcription: ˈju.tub
+motto_text: Broadcast Yourself
+small_logo_or_icon:
+- http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20favicon.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20full-color%20icon%20%282024%29.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/YouTube%20results%20screenshot.jpg
+spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Youtube%20spoken%20word.ogg
+web_feed_URL: http://feeds.feedburner.com/youtube/PKJx
+Stack_Exchange_tag: https://stackoverflow.com/tags/youtube
+API_endpoint_URL: https://youtube.googleapis.com/youtube/v3
+founded_by:
+- '[[_Standards/WikiData/WD~Jawed_Karim,76694]]'
+- '[[_Standards/WikiData/WD~Chad_Hurley,370299]]'
+- '[[_Standards/WikiData/WD~Steve_Chen,379396]]'
+author:
+- '[[_Standards/WikiData/WD~Jawed_Karim,76694]]'
+- '[[_Standards/WikiData/WD~Chad_Hurley,370299]]'
+- '[[_Standards/WikiData/WD~Steve_Chen,379396]]'
+readable_file_format:
+- '[[_Standards/WikiData/WD~Audio_Video_Interleave,209054]]'
+- '[[_Standards/WikiData/WD~WebM,309440]]'
+- '[[_Standards/WikiData/WD~MPEG_4_Part_14,336316]]'
+- '[[_Standards/WikiData/WD~QuickTime_File_Format,942350]]'
+- '[[_Standards/WikiData/WD~3GPP2_file_format,27863098]]'
+- '[[_Standards/WikiData/WD~3GPP_file_format,27863097]]'
+- '[[_Standards/WikiData/WD~Windows_Media_Video,27895063]]'
+- '[[_Standards/WikiData/WD~FLV,27967488]]'
+- '[[_Standards/WikiData/WD~MPEG_1_program_stream,28018470]]'
+- '[[_Standards/WikiData/WD~MPEG_2_program_stream,28018471]]'
+product_or_material_produced:
+- '[[_Standards/WikiData/WD~streaming_media,220499]]'
+- '[[_Standards/WikiData/WD~online_video_platform,559856]]'
+- '[[_Standards/WikiData/WD~YouTube_Premium,18643737]]'
+- '[[_Standards/WikiData/WD~YouTube_Music,28404534]]'
+- '[[_Standards/WikiData/WD~YouTube_Kids,30637282]]'
+- '[[_Standards/WikiData/WD~YouTube_TV,53720737]]'
+- '[[_Standards/WikiData/WD~YouTube_Shorts,99438379]]'
+different_from:
+- '[[_Standards/WikiData/WD~YT,251969]]'
+- '[[_Standards/WikiData/WD~YouTube,18157148]]'
+- '[[_Standards/WikiData/WD~YouTube_Premium,18643737]]'
+- '[[_Standards/WikiData/WD~YouTube,41697543]]'
+- '[[_Standards/WikiData/WD~YouTube_LLC,112247183]]'
+industry:
+- '[[_Standards/WikiData/WD~online_video_platform,559856]]'
+- '[[_Standards/WikiData/WD~Internet_industry,56611700]]'
+instance_of:
+- '[[_Standards/WikiData/WD~online_video_platform,559856]]'
+- '[[_Standards/WikiData/WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~video_streaming_service,59152282]]'
+- '[[_Standards/WikiData/WD~live_streaming_service,102336293]]'
+- '[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]'
+location:
+- '[[_Standards/WikiData/WD~San_Bruno,667738]]'
+- '[[_Standards/WikiData/WD~California,99]]'
+headquarters_location: '[[_Standards/WikiData/WD~San_Bruno,667738]]'
+copyright_license: '[[_Standards/WikiData/WD~end_user_license_agreement,725920]]'
+legal_form: '[[_Standards/WikiData/WD~big_business,4906718]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_YouTube,5867307]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_YouTube_navbox,6621134]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+described_by_source:
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Q96472645,96472645]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~YouTube_channel,17558136]]'
+has_part_s_: '[[_Standards/WikiData/WD~YouTube_channel,17558136]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~multiple_languages,20923490]]'
+official_app:
+- '[[_Standards/WikiData/WD~YouTube,41697543]]'
+- '[[_Standards/WikiData/WD~YouTube_for_Android_TV,125755137]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+subject_has_role: '[[_Standards/WikiData/WD~ISNI_Direct_Data_Contributor,96176534]]'
+copyright_representative: '[[_Standards/WikiData/WD~website_gives_user_option_to_publish_content_with_a_free_license,105337508]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110087891,110087891]]'
+owned_by:
+- '[[_Standards/WikiData/WD~YouTube_LLC,112247183]]'
+- '[[_Standards/WikiData/WD~Google,95]]'
+programmed_in:
+- '[[_Standards/WikiData/WD~Python,28865]]'
+- '[[_Standards/WikiData/WD~Go,37227]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+Alexa_rank: 2
+number_of_viewers_listeners:
+- 1350000000
+- 1470000000
+- 1580000000
+- 1680000000
+- 1780000000
+- 1860000000
+total_revenue: 31500000000
+platform: '[[_Standards/WikiData/WD~Wii_U,56942]]'
+press_information_URL: https://blog.youtube/press/
+official_website: https://www.youtube.com/
+contact_page_URL: https://www.youtube.com/t/contact_us
+terms_of_service_URL: https://www.youtube.com/t/terms
+Know_Your_Meme_slug: youtube
+booru_tag: youtube
+Uniform_Resource_Identifier_Scheme: youtube
+subreddit: youtube
+dv_has_:
+  name_:
+    acm: يوتيوب
+    am: ዩ ቱብ
+    apc: يوتيوب
+    ar: يوتيوب
+    arq: يوتوب
+    ary: يوتوب
+    arz: يوتيوب
+    as: ইউটিউব
+    avk: Youtube
+    azb: یوتیوب
+    ban: Youtube
+    bew: YuTub
+    bg: Ютюб
+    bho: यूट्यूब
+    blk: ယူကျု့
+    bn: ইউটিউব
+    bo: ཡུ་ཊོབ་
+    ceb: Youtube
+    ckb: یووتیووب
+    cs: YouTube
+    csb: YouTube
+    cu: Ютоѵбъ
+    de: YouTube
+    dty: युट्युब
+    dv: ޔޫޓިއުބް
+    en: YouTube
+    eo: Jutubo
+    fa: یوتیوب
+    fi: Youtube
+    fo: Youtube
+    gu: યુ ટ્યુબ
+    he: יוטיוב
+    hi: यूट्यूब
+    hif: Youtube
+    hy: ՅուԹյուբ
+    hyw: Յություբ
+    ilo: Youtube
+    ja: YouTube
+    km: យូ ធូប
+    kn: ಯೂಟ್ಯೂಬ್
+    ko: 유튜브
+    ks: یوٗٹیٛوٗب
+    lo: ຢູທູບ
+    lzh: 優管
+    mai: युट्युब
+    mi: Tiriata
+    mk: Јутјуб
+    ml: യൂട്യൂബ്
+    mr: यूट्यूब
+    ms-arab: يوتيوب
+    mul: YouTube
+    my: ယူကျူ့ဘ်
+    mzn: یوتیوب
+    nan: YouTube
+    ne: युट्युब
+    nqo: ߦߎߕߎߓ
+    nup: You Tube
+    om: Yuutubii
+    or: ୟୁ ଟ୍ୟୁବ
+    pa: ਯੂਟਿਊਬ
+    pap: Youtube
+    pl: YouTube
+    pnb: یو ٹیوب
+    ps: يوټيوب
+    sat: ᱤᱭᱩᱴᱩᱵᱽ
+    sd: يوٽيوب
+    shi: Yutub
+    shn: ယူႇၵျုပ်ႉ
+    si: යූ ටියුබ්
+    so: YuutYuub
+    sr: Јутјуб
+    sv: Youtube
+    syl: ꠁꠃꠐꠤꠃꠛ
+    szl: Youtube
+    ta: யூடியூப்
+    tdd: ᥕᥧᥱ ᥗᥧᥙᥳ
+    te: యూ ట్యూబ్
+    tet: Youtube
+    th: ยูทูบ
+    ti: ዩቱብ
+    tok: lipu Jutu
+    ug: يوتىيۇب
+    ur: یوٹیوب
+    wuu: 優管
+    xmf: Youtube
+    yi: יוטוב
+    zgh: ⵢⵓⵜⵢⵓⴱ
+    zh: YouTube
+    zh-hant: YouTube
+    zu: I-YouTube
 ---
-
 # [[YouTube]] 
 
 #is_/same_as :: [[WD~YouTube,866]] 

@@ -1,15 +1,58 @@
 ---
-has_time_started: 1980-01-01 
+has_time_started: 1980-01-01
 aliases:
-  - Transhumanismus
-  - Transhumanism
+- Canjin Dan Adam
+- transhomismo
+- Transhumanism
+- transhumanisma
+- Transhumanisme
+- transhumanismi
+- transhumanismm
+- transhumanismo
+- transhumanismu
+- Transhumanismus
+- Transhumanizam
+- transhumanizem
+- transhumanizm
+- Transhumanizmas
+- Transhumanizmi
+- Transhumanizmus
+- Transhumānisms
+- Transhümanizm
+- transumanesimo
+- transumanism
+- Transumanisme
+- transumanismo
+- Transumanésim
+- transzhumanizmus
+- trasdaonnachas
+- Triết học siêu nhân học
+- Διανθρωπισμός
+- Трансгуманізм
+- трансгуманизм
+- Трансхуманизам
+- Трансхуманизъм
+- Տրանսհումանիզմ
+- טרנס הומניזם
+- تجاوز الإنسانية
+- ترابشریت
+- موربنادمية
+- ٹرانس ہیومن ازم
+- ټرانس هومانیزم (ټرانس بشرپالنه)
+- மீவுமனிதத்துவம்
+- มนุษยนิยมเปลี่ยนผ่าน
+- ტრანსჰუმანიზმი
+- トランスヒューマニズム
+- 超人类主义
+- 超人類主義
+- 트랜스휴머니즘
 has_id_wikidata: Q194100
 subclass_of:
-  - '[[_Standards/WikiData/WD~futures_studies,188867]]'
-  - '[[_Standards/WikiData/WD~secular_humanism,312226]]'
+- '[[_Standards/WikiData/WD~futures_studies,188867]]'
+- '[[_Standards/WikiData/WD~secular_humanism,312226]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-  - '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~human_enhancement,2495354]]'
 main_subject: '[[_Standards/WikiData/WD~transhuman,3849662]]'
 different_from: '[[_Standards/WikiData/WD~transhumance,4657754]]'
@@ -23,8 +66,80 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Transhumanism%20h
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Transhumanism%20reading1.ogg
 Library_of_Congress_Classification: B842.5.A-B842.5.Z
 Commons_category: Transhumanism
+dv_has_:
+  name_:
+    af: Transhumanisme
+    ar: تجاوز الإنسانية
+    ary: موربنادمية
+    ast: transhumanismu
+    az: Transhumanism
+    be: Трансгуманізм
+    be-tarask: трансгуманізм
+    bg: Трансхуманизъм
+    bs: Transhumanizam
+    ca: transhumanisme
+    cs: transhumanismus
+    da: Transhumanisme
+    de: Transhumanismus
+    el: Διανθρωπισμός
+    en: transhumanism
+    eo: transhomismo
+    es: transhumanismo
+    et: transhumanism
+    eu: Transhumanismo
+    fa: ترابشریت
+    fi: transhumanismi
+    fr: transhumanisme
+    ga: trasdaonnachas
+    gl: transhumanismo
+    ha: Canjin Dan Adam
+    he: טרנס הומניזם
+    hr: Transhumanizam
+    hu: transzhumanizmus
+    hy: Տրանսհումանիզմ
+    id: Transhumanisme
+    it: transumanesimo
+    ja: トランスヒューマニズム
+    ka: ტრანსჰუმანიზმი
+    kk: Трансгуманизм
+    ko: 트랜스휴머니즘
+    la: Transhumanismus
+    lfn: Transhumanisme
+    lt: Transhumanizmas
+    lv: Transhumānisms
+    mk: Трансхуманизам
+    nb: transhumanisme
+    nl: transhumanisme
+    oc: Transumanisme
+    pl: transhumanizm
+    pms: Transumanésim
+    ps: ټرانس هومانیزم (ټرانس بشرپالنه)
+    pt: transumanismo
+    ro: transumanism
+    ru: трансгуманизм
+    se: transhumanisma
+    sk: Transhumanizmus
+    sl: transhumanizem
+    smn: transhumanism
+    sms: transhumanismm
+    sq: Transhumanizmi
+    sr: Transhumanizam
+    sv: transhumanism
+    ta: மீவுமனிதத்துவம்
+    th: มนุษยนิยมเปลี่ยนผ่าน
+    tr: Transhümanizm
+    uk: Трансгуманізм
+    ur: ٹرانس ہیومن ازم
+    vi: Triết học siêu nhân học
+    yue: 超人類主義
+    zh: 超人類主義
+    zh-cn: 超人类主义
+    zh-hans: 超人类主义
+    zh-hant: 超人類主義
+    zh-hk: 超人類主義
+    zh-sg: 超人类主义
+    zh-tw: 超人類主義
 ---
-
 # [[Transhumanism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Transhumanism,194100|WD~Transhumanism,194100]]  

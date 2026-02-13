@@ -1,98 +1,295 @@
 ---
 aliases:
-  - synagogue
-  - Synagogue
-  - is_a_synagogue
+- Hội đường Do Thái giáo
+- is_a_synagogue
+- Kinîşt
+- Loji
+- saumaah
+- Senagôga
+- sinagog
+- sinagoga
+- sinagoge
+- sinagogenn
+- sinagogi
+- sinagogo
+- sinagogă
+- Sinaguoga
+- sinagòga
+- Sinagóga
+- Sinagọgu
+- sinaqoq
+- sinoga
+- sionagóg
+- Snoa
+- synagog
+- synagoga
+- Synagoge
+- Synagogn
+- synagogue
+- synagååge
+- synagóga
+- Sìonagoga
+- sünagoog
+- Sýnagogur
+- sýnagóga
+- sŷnnagogue
+- Tacnuɣa
+- Xevra
+- Yuda mba naŋ
+- zsinagóga
+- συναγωγή
+- каниса
+- сінагога
+- синагогæ
+- синагога
+- синагого
+- синаґоґа
+- сынагога
+- хӏавра
+- սինագոգ
+- בית כנסת
+- שול
+- شول
+- كنيس
+- کنیسه
+- کنیسٱ
+- यहूदी मंदिर
+- सिनेगॉग
+- বেইথ নেসেট
+- ਸਿਨਾਗੌਗ
+- தொழுகைக் கூடம்
+- ജൂതപ്പള്ളി
+- สุเหร่ายิว
+- სინაგოგა
+- シナゴーグ
+- 犹太会堂
+- 猶太會堂
+- 猶太聚會所
+- 시나고그
+- "\U00010343\U00010345\U0001033D\U00010330\U00010332\U00010349\U00010332\U00010334"
 has_id_wikidata: Q34627
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - synagogue
-layout: ""
+- synagogue
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_synagogue Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_synagogue Class
 type: Type
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Samaritan,182651]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
+- '[[_Standards/WikiData/WD~Samaritan,182651]]'
+- '[[_Standards/WikiData/WD~Judaism,9268]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~architectural_structure,811979]]"
-  - "[[_Standards/WikiData/WD~house_of_prayer,831219]]"
-  - "[[_Standards/WikiData/WD~organization,43229]]"
-has_part_s_: "[[_Standards/WikiData/WD~bimah,863418]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_synagogue,10805605]]"
-facet_of: "[[_Standards/WikiData/WD~Judaism,9268]]"
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~house_of_prayer,831219]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
+has_part_s_: '[[_Standards/WikiData/WD~bimah,863418]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_synagogue,10805605]]'
+facet_of: '[[_Standards/WikiData/WD~Judaism,9268]]'
 Nomenclature_for_Museum_Cataloging: 594
 OmegaWiki_Defined_Meaning: 6564
 IMDb_keyword: synagogue
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eldridge%20Street%20Synagogue%20%2842773%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Princes%20Road%20Synagogue%20Nave.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eldridge%20Street%20Synagogue%20%2842773%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Princes%20Road%20Synagogue%20Nave.jpg
 Commons_gallery: Synagogue
 Dewey_Decimal_Classification:
-  - 726.3
-  - 296.46
-  - 296.09
-  - 296.65
+- 726.3
+- 296.46
+- 296.09
+- 296.65
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20synagogue.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%BF%E0%A4%A8%E0%A5%87%E0%A4%97%E0%A5%89%E0%A4%97.wav
 equivalent_class:
-  - http://dbpedia.org/ontology/Synagogue
-  - https://schema.org/Synagogue
+- http://dbpedia.org/ontology/Synagogue
+- https://schema.org/Synagogue
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SINAGOGA.html
 IPTC_NewsCode: mediatopic/20000700
 GeoNames_feature_code: S.SYG
 Commons_category: Synagogues
-Unicode_character: 🕍
+Unicode_character: "\U0001F54D"
 OpenStreetMap_tag: building=synagogue
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]]"
-    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue|Synagogue]]"
-    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public|Synagogue.public]]"
-    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal|Synagogue.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect|Synagogue.protect]]"
-    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private|Synagogue.private]]"
-    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal|Synagogue.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret|Synagogue.secret]]"
+  - '[[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]]'
+  - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue|Synagogue]]'
+  - '[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public|Synagogue.public]]'
+  - '[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal|Synagogue.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect|Synagogue.protect]]'
+  - '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private|Synagogue.private]]'
+  - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal|Synagogue.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret|Synagogue.secret]]'
 dv_has_:
-  parent_class: "[[../PlaceOfWorship]]"
-  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  name_:
+    af: sinagoge
+    an: sinoga
+    anp: यहूदी मंदिर
+    ar: كنيس
+    arz: كنيس
+    ast: sinagoga
+    az: sinaqoq
+    ba: синагога
+    bar: Synagogn
+    bcl: sinagoga
+    be: сінагога
+    be-tarask: сынагога
+    bew: Loji
+    bg: Синагога
+    bho: सिनेगॉग
+    bn: বেইথ নেসেট
+    br: sinagogenn
+    bs: sinagoga
+    ca: sinagoga
+    cs: synagoga
+    cy: synagog
+    da: synagoge
+    de: Synagoge
+    diq: Xevra
+    el: συναγωγή
+    en: synagogue
+    eo: sinagogo
+    es: sinagoga
+    et: sünagoog
+    eu: sinagoga
+    fa: کنیسه
+    fi: synagoga
+    fo: Sýnagogur
+    fr: synagogue
+    frp: Senagôga
+    fy: synagoge
+    ga: sionagóg
+    gd: Sìonagoga
+    gl: sinagoga
+    gom: सिनेगॉग
+    got: "\U00010343\U00010345\U0001033D\U00010330\U00010332\U00010349\U00010332\U00010334"
+    gsw: Synagoge
+    guw: Sinagọgu
+    he: בית כנסת
+    hi: यहूदी मंदिर
+    hr: sinagoga
+    hsb: synagoga
+    hu: zsinagóga
+    hy: սինագոգ
+    ia: Synagoga
+    id: sinagoge
+    io: Sinagogo
+    is: sýnagóga
+    it: sinagoga
+    ja: シナゴーグ
+    jv: sinagoga
+    ka: სინაგოგა
+    kaa: sinagoga
+    kab: Tacnuɣa
+    kbp: Yuda mba naŋ
+    kk: Синагога
+    ko: 시나고그
+    ku: Kinîşt
+    la: synagoga
+    lad: Sinagoga
+    lb: Synagog
+    lbe: хӏавра
+    li: synagoge
+    lmo: Sinagoga
+    ln: Sinagóga
+    lrc: کنیسٱ
+    lt: sinagoga
+    lv: sinagoga
+    mg: Sinagoga
+    mhr: синагого
+    min: Sinagoga
+    mk: синагога
+    ml: ജൂതപ്പള്ളി
+    mr: सिनेगॉग
+    mrj: Синагога
+    ms: saumaah
+    mwl: sinagoga
+    nb: synagoge
+    nl: synagoge
+    nn: synagoge
+    nrm: sŷnnagogue
+    oc: sinagòga
+    os: синагогæ
+    pa: ਸਿਨਾਗੌਗ
+    pap: Snoa
+    pl: synagoga
+    pnb: شول
+    pt: sinagoga
+    pt-br: Sinagoga
+    ro: sinagogă
+    ru: синагога
+    rue: синаґоґа
+    scn: sinagoga
+    sco: synagogue
+    se: synagoga
+    sgs: Sinaguoga
+    sh: sinagoga
+    sk: synagóga
+    sl: sinagoga
+    sma: synagååge
+    smj: synagoga
+    smn: synagoga
+    sms: synagoga
+    sq: Sinagoga
+    sr: синагога
+    sr-ec: синагога
+    sv: synagoga
+    sw: sinagogi
+    ta: தொழுகைக் கூடம்
+    tg: каниса
+    th: สุเหร่ายิว
+    tl: sinagoga
+    tr: sinagog
+    tt: Синагога
+    uk: синагога
+    ur: شول
+    uz: Sinagoga
+    vep: sinagog
+    vi: Hội đường Do Thái giáo
+    war: sinagoga
+    wuu: 犹太会堂
+    xmf: სინაგოგა
+    yi: שול
+    yue: 猶太聚會所
+    zea: Synagoge
+    zh: 猶太會堂
+    zh-hant: 猶太會堂
+    zh-tw: 猶太會堂
+  parent_class: '[[../PlaceOfWorship]]'
+  properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]]"
-  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue|Synagogue]]"
-  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public|Synagogue.public]]"
-  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal|Synagogue.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect|Synagogue.protect]]"
-  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private|Synagogue.private]]"
-  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal|Synagogue.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret|Synagogue.secret]]"
-dv_has_parent_class: "[[../PlaceOfWorship]]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+- '[[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]]'
+- '[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue|Synagogue]]'
+- '[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.public|Synagogue.public]]'
+- '[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.internal|Synagogue.internal]]'
+- '[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.protect|Synagogue.protect]]'
+- '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.private|Synagogue.private]]'
+- '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.personal|Synagogue.personal]]'
+- '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Synagogue.secret|Synagogue.secret]]'
+dv_has_parent_class: '[[../PlaceOfWorship]]'
+dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 ---
-
 # [[Synagogue]] 🕍 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Synagogue,34627|WD~Synagogue,34627]] 

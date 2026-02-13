@@ -1,96 +1,174 @@
 ---
 aliases:
-  - Nickel
+- ijo lili nanpa 28
+- IsiNimbi
+- iztāctepoztli
+- konukōreko
+- ngiĕk
+- Ni
+- ni-ké-luh
+- niccolum
+- niceal
+- nicel
+- nichel
+- nichele
+- nichelu
+- nicil
+- Nickel
+- nickyl
+- nikal
+- nikel
+- nikel'
+- nikela
+- nikele
+- nikeli
+- nikelis
+- nikelj
+- nikelo
+- niken
+- nikiel
+- nikil
+- nikkel
+- nikkeli
+- nikl
+- nikle
+- nikèl
+- niquèl
+- niyakari
+- niķelis
+- Néckel
+- nìchel
+- níquel
+- nîkel
+- nɩkɛlɩ
+- Νικέλιο
+- Нікель
+- Никĕль
+- никел
+- Никели
+- Никелион
+- никель
+- никл
+- նիկել
+- Նիքէղ
+- ניקל
+- نىكېل
+- نيكل
+- نکل
+- نڪل
+- نیکل
+- نیکڵ
+- نېکل
+- ނިކަލް
+- निकल
+- निकेल
+- নিকেল
+- ਨਿਕਲ
+- નિકલ
+- ନିକେଲ
+- நிக்கல்
+- నికెల్
+- ನಿಕಲ್
+- നിക്കൽ
+- นิกเกิล
+- དང་གཤའ་དཀར།
+- နီကယ်
+- ნიკელი
+- ኒኬል
+- ニッケル
+- 鎳
+- 镍
+- 니켈
 has_id_wikidata: Q744
-associated_hazard: "[[_Standards/WikiData/WD~nickel_exposure,21174946]]"
+associated_hazard: '[[_Standards/WikiData/WD~nickel_exposure,21174946]]'
 atomic_number: 28
 boiling_point:
-  - 2913
-  - 3186
-  - 5139
-canonical_SMILES: "[Ni]"
+- 2913
+- 3186
+- 5139
+canonical_SMILES: '[Ni]'
 CAS_Registry_Number: 7440-02-0
 chemical_formula: Ni
 Commons_category: Nickel
 Commons_gallery: Nickel
 density: 8.9
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Nickel,108309417]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Axel_Fredrik_Cronstedt,468351]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Nickel,108309417]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Axel_Fredrik_Cronstedt,468351]]'
 DSSTOX_compound_identifier: DTXCID80925
 EC_number: 231-111-4
 electronegativity: 1.91
 element_symbol: Ni
-found_in_taxon: "[[_Standards/WikiData/WD~Ludwigia_repens,4406281]]"
+found_in_taxon: '[[_Standards/WikiData/WD~Ludwigia_repens,4406281]]'
 Gmelin_number: 16229
-has_characteristic: "[[_Standards/WikiData/WD~ferromagnetism,184207]]"
+has_characteristic: '[[_Standards/WikiData/WD~ferromagnetism,184207]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~nickel_allergic_contact_dermatitis,16606544]]"
-  - "[[_Standards/WikiData/WD~nickel_exposure,21174946]]"
+- '[[_Standards/WikiData/WD~nickel_allergic_contact_dermatitis,16606544]]'
+- '[[_Standards/WikiData/WD~nickel_exposure,21174946]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Electrolytic%20nickel.jpg
 immediately_dangerous_to_life_or_health: 10
 InChI: InChI=1S/Ni
 InChIKey: PXHVJJICTQNCMI-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]"
-  - "[[_Standards/WikiData/WD~flammable_solid,21073024]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.49
-  - 0.56
-  - 0.69
+- 0.49
+- 0.56
+- 0.69
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.html
 made_from_material:
-  - "[[_Standards/WikiData/WD~pentlandite,410101]]"
-  - "[[_Standards/WikiData/WD~millerite,411068]]"
-  - "[[_Standards/WikiData/WD~nickeline,419197]]"
-  - "[[_Standards/WikiData/WD~pyrrhotite,421944]]"
-  - "[[_Standards/WikiData/WD~garnierite_mineral_group,1494409]]"
-  - "[[_Standards/WikiData/WD~paratacamite_(Ni),19861151]]"
-  - "[[_Standards/WikiData/WD~phosphocyclite_(Ni),106623134]]"
-  - "[[_Standards/WikiData/WD~tetrahedrite_(Ni),108145984]]"
-  - "[[_Standards/WikiData/WD~tennantite_(Ni),108146107]]"
+- '[[_Standards/WikiData/WD~pentlandite,410101]]'
+- '[[_Standards/WikiData/WD~millerite,411068]]'
+- '[[_Standards/WikiData/WD~nickeline,419197]]'
+- '[[_Standards/WikiData/WD~pyrrhotite,421944]]'
+- '[[_Standards/WikiData/WD~garnierite_mineral_group,1494409]]'
+- '[[_Standards/WikiData/WD~paratacamite_(Ni),19861151]]'
+- '[[_Standards/WikiData/WD~phosphocyclite_(Ni),106623134]]'
+- '[[_Standards/WikiData/WD~tetrahedrite_(Ni),108145984]]'
+- '[[_Standards/WikiData/WD~tennantite_(Ni),108146107]]'
 mass: 58.6934
 melting_point:
-  - 1455
-  - 1728
-  - 2831
+- 1455
+- 1728
+- 2831
 MeSH_tree_code:
-  - D01.268.556.607
-  - D01.268.956.625
-  - D01.552.544.607
-named_after: "[[_Standards/WikiData/WD~nickeline,419197]]"
+- D01.268.556.607
+- D01.268.956.625
+- D01.552.544.607
+named_after: '[[_Standards/WikiData/WD~nickeline,419197]]'
 OmegaWiki_Defined_Meaning: 2509
 oxidation_state:
-  - -1
-  - 1
-  - 2
-  - 3
-  - 4
+- -1
+- 1
+- 2
+- 3
+- 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_10,205253]]"
-  - "[[_Standards/WikiData/WD~period_4,239825]]"
+- '[[_Standards/WikiData/WD~group_10,205253]]'
+- '[[_Standards/WikiData/WD~period_4,239825]]'
 PubChem_CID: 935
 Reaxys_registry_number: 4122946
 RTECS_number: QR5950000
 SpocWebEntityId: 21927
 subclass_of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~carcinogen,187661]]"
-  - "[[_Standards/WikiData/WD~trace_metal,7831165]]"
-  - "[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]"
+- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+- '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
 time_of_discovery_or_invention: 1751-01-01T00:00:00Z
 time_weighted_average_exposure_limit:
-  - 1
-  - 0.015
+- 1
+- 0.015
 type: Element
 UMLS_CUI: C0028013
 Unicode_character: 鎳
@@ -102,28 +180,200 @@ Wolfram_Language_entity_code: Entity["Mineral", "Nickel"]
 ZVG_number: 8230
 RxNorm_CUI: 1311629
 Dewey_Decimal_Classification:
-  - 546.625
-  - 572.52625
-  - 620.188
-  - 669.7332
+- 546.625
+- 572.52625
+- 620.188
+- 669.7332
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NIKEL.html
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Nickel,744]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Nickel|Nickel]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.public|Nickel.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.internal|Nickel.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.protect|Nickel.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.private|Nickel.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.personal|Nickel.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.secret|Nickel.secret]]"
-  part_of: "[[../Group-10-Nickel]]"
+  - '[[../../../WikiData/WD~Nickel,744]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Nickel|Nickel]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.public|Nickel.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.internal|Nickel.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.protect|Nickel.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.private|Nickel.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.personal|Nickel.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.secret|Nickel.secret]]'
+  part_of: '[[../Group-10-Nickel]]'
 dv_has_:
   name_:
-    group: Group-10-Nickel
-    en: Nickel
-    de: Nickel
     abbreviated: Ni
+    af: nikkel
+    am: ኒኬል
+    an: níquel
+    anp: निकल
+    ar: نيكل
+    ary: نيكل
+    arz: نيكل
+    ast: níquel
+    awa: निकेल
+    az: nikel
+    azb: نیکل
+    ban: nikel
+    bcl: nickel
+    be: Нікель
+    be-tarask: нікель
+    bg: никел
+    bho: निकेल
+    blk: နီကယ်
+    bn: নিকেল
+    bo: དང་གཤའ་དཀར།
+    br: nikel
+    bs: nikl
+    ca: níquel
+    cdo: ngiĕk
+    ceb: nikil
+    ckb: نیکڵ
+    co: nichele
+    cs: nikl
+    cv: Никĕль
+    cy: nicel
+    da: nikkel
+    de: Nickel
+    dv: ނިކަލް
+    el: Νικέλιο
+    en: nickel
+    eo: nikelo
+    es: níquel
+    et: nikkel
+    eu: nikel
+    fa: نیکل
+    fi: nikkeli
+    fr: nickel
+    frr: nikel
+    fur: nichel
+    ga: nicil
+    gd: niceal
+    gl: níquel
+    group: Group-10-Nickel
+    gsw: Nickel
+    gu: નિકલ
+    gv: nickyl
+    ha: nickel
+    hak: nickel
+    he: ניקל
+    hi: निकल
+    hif: nickel
+    hr: nikal
+    ht: nikèl
+    hu: nikkel
+    hy: նիկել
+    hyw: Նիքէղ
+    ia: nickel
+    id: nikel
+    io: nikelo
+    is: nikkel
+    it: nichel
+    ja: ニッケル
+    jbo: nikle
+    jv: nikel
+    ka: ნიკელი
+    kbp: nɩkɛlɩ
+    kk: Никель
+    kn: ನಿಕಲ್
+    ko: 니켈
+    ku: nîkel
+    kv: Никель
+    kw: nikel
+    ky: Никель
+    la: niccolum
+    lb: Néckel
+    lfn: nicel
+    li: nikkel
+    lij: nichel
+    lmo: nìchel
+    lt: nikelis
+    lv: niķelis
+    lzh: 鎳
+    mdf: Никели
+    mg: nikela
+    mi: konukōreko
+    mk: никел
+    ml: നിക്കൽ
+    mn: никель
+    mr: निकेल
+    mrj: Никель
+    ms: nikel
+    mt: nikil
+    mul: Ni
+    my: နီကယ်
+    myv: Никель
+    nah: iztāctepoztli
+    nan: ni-ké-luh
+    nb: nikkel
+    nds: Nickel
+    ne: निकेल
+    new: निकेल
+    nl: nikkel
+    nn: nikkel
+    nov: nikele
+    oc: niquèl
+    olo: nikeli
+    or: ନିକେଲ
+    os: никель
+    pa: ਨਿਕਲ
+    pap: nikel
+    pap-aw: nikel
+    pi: निकेल
+    pl: nikiel
+    pms: nìchel
+    pnb: نکل
+    ps: نېکل
+    pt: níquel
+    pt-br: níquel
+    qu: nikil
+    ro: nichel
+    ru: никель
+    rup: nichelu
+    sa: निकेल
+    sc: nichel
+    scn: nichel
+    sd: نڪل
+    sh: nikl
+    sk: nikel
+    sl: nikelj
+    sn: niyakari
+    so: nikel
+    sq: nikeli
+    sr: никл
+    stq: nikkel
+    su: nikel
+    sv: nickel
+    sw: nikeli
+    ta: நிக்கல்
+    te: నికెల్
+    tg: Никел
+    th: นิกเกิล
+    tl: nickel
+    tok: ijo lili nanpa 28
+    tr: nikel
+    tt: Никель
+    udm: никель
+    ug: نىكېل
+    uk: нікель
+    ur: Nickel
+    uz: nikel
+    vep: nikel'
+    vi: niken
+    wa: nikel
+    war: nikel
+    wuu: 镍
+    xal: Никелион
+    yi: ניקל
+    yo: nickel
+    yue: 鎳
+    zh: 鎳
+    zh-cn: 镍
+    zh-hans: 镍
+    zh-hant: 鎳
+    zh-hk: 鎳
+    zh-tw: 鎳
+    zu: IsiNimbi
+  number_of_:
+    period: 4
+    group: 10
+    electrons: 28
   value_for_:
     weight_:
       u: 58.69
@@ -151,21 +401,17 @@ dv_has_:
       form_:
         kj_:
           mol: 370.4
-  number_of_:
-    period: 4
-    group: 10
-    electrons: 28
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Nickel,744]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Nickel|Nickel]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.public|Nickel.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.internal|Nickel.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.protect|Nickel.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.private|Nickel.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.personal|Nickel.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.secret|Nickel.secret]]"
+- '[[../../../WikiData/WD~Nickel,744]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Nickel|Nickel]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.public|Nickel.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.internal|Nickel.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.protect|Nickel.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.private|Nickel.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.personal|Nickel.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Nickel.secret|Nickel.secret]]'
 dv_has_name_group: Group-10-Nickel
-dv_is_part_of: "[[../Group-10-Nickel]]"
+dv_is_part_of: '[[../Group-10-Nickel]]'
 dv_has_name_en: Nickel
 dv_has_name_de: Nickel
 dv_has_value_for_weight_u: 58.69
@@ -186,7 +432,6 @@ dv_has_number_of_group: 10
 dv_has_name_abbreviated: Ni
 dv_has_number_of_electrons: 28
 ---
-
 # [[Nickel]]
 
 

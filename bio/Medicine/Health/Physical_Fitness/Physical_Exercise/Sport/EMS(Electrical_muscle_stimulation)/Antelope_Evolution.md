@@ -1,0 +1,901 @@
+
+# [[Antelope_Evolution]] 
+
+Lies diese Gebrauchsanweisung sorgfältig durch und beachte die Hinweise. 
+Bewahre sie für den späteren Gebrauch auf und mache sie anderen Benutzern zugänglich. 
+
+Willkommen im Team Antelope! 
+Wir freuen uns sehr, dass du dich für das EMS Training mit Antelope entschieden hast! 
+Wir von beurer vereinen Erfahrung aus über 100 Jahren Tradition mit jahrelangem Wissen als Spezialist für EMS Produkte. 
+
+Und weil uns gut nie gut genug ist, haben wir unsere ganze Leidenschaft eingesetzt, um Antelope Evolution zu entwickeln. 
+Mit deinem neuen Antelope Produkt erwarten dich fantastische Trai&shy;ningserlebnisse. 
+Freu dich auf: 
+- Textilien, die passen wie eine zweite Haut.
+- einen einzigartigen Booster.
+- ein besonders effektives, effizientes und kurzes Training – denn die elektrischen Impulse verstär&shy;ken die natürlichen Prozesse im Körper.
+- EMS, wo und wann du willst: Mit unseren Produkten kannst du nahezu jede Sportart trainieren – ganz unabhängig von deinem Leistungsniveau.
+- Mehr als 40 App-Programme, die dich auf dem Weg zu deinem nächsten Etappenziel unterstützen. 
+
+Auf den folgenden Seiten erfährst du alles, was du über dein Antelope Produkt wissen musst. 
+Wenn du noch Fragen hast, berät dich unser Kundenservice gerne telefonisch in Deutsch und Englisch. 
+Die Supportzeiten findest du auf: www.antelope-shop.com | tel:49 69 25786744 
+Du sprichst eine andere Sprache? 
+Dann schreibe gerne eine Mail an:  info@antelope.de 
+Du willst immer up-to-date bleiben und deine Erfolge mit uns feiern? 
+Folge uns auf unseren Social-Media-Kanälen und abonniere unseren Newsletter. 
+Alle Infos dazu findest du auf: www.antelope-shop.com 
+Wir wünschen dir viel Spaß mit deinem EMS Training! 
+Bis bald dein Antelope Team 
+
+## ZEICHENERKLÄRUNG 
+
+Folgende Symbole werden auf dem Gerät, in dieser Gebrauchsanweisung, auf der Verpackung und auf dem Typschild verwendet: 
+
+Warnung Warnhinweis auf Verletzungsgefahren oder Gefahren für deine Gesundheit 
+Achtung Sicherheitshinweis auf mögliche Schäden an Gerät/Zubehör Produktinformation Hinweis auf wichtige Informationen Anweisung lesen 
+Hersteller 
+CE-Kennzeichnung Dieses Produkt erfüllt die Anforderun&shy;gen der geltenden europäischen und nationalen Richtlinien 
+(Elektro-)Gerät darf nicht über den Hausmüll entsorgt werden 
+Verpackungskomponenten trennen und entsprechend der kommunalen Vorschriften entsorgen. 
+B A Kennzeichnung zur Identifikation des Verpackungsmaterials A = Materialabkürzung, B = Material&shy;nummer: 1-7 = Kunststoffe, 20-22 = Papier und Pappe 
+Produkt und Verpackungskomponen&shy;ten trennen und entsprechend der kommunalen Vorschriften entsorgen 
+Chargenbezeichnung 
+Artikelnummer 
+Schonende Handwäsche Höchsttemperatur 30 °C 
+Nicht bügeln 
+Nicht bleichen 
+Nicht chemisch reinigen 
+Nicht im Wäschetrockner (Tumbler) trocknen 
+EMS Produkt nicht verwenden an Per&shy;sonen mit implantierten elektrischen Geräten (wie z. B. Herzschrittmachern) 
+IP22 Gerät geschützt gegen Fremdkörper ≥12,5 mm und gegen schräges Tropf&shy;wasser 
+Konformitätsbewertungszeichen für Großbritannien 
+Storage/Transport Zulässige Lagerungstemperatur und -luftfeuchtigkeit 
+Operating Zulässige Betriebstemperatur und -luftfeuchtigkeit 
+Biphasische Rechteckimpulse 
+Anwendungsteile Typ BF 
+Importeur Symbol 
+## WARN- UND SICHERHEITS&shy;HINWEISE 
+
+### ABSOLUTE KONTRAINDIKATIONEN: 
+In diesen Fällen darfst du nicht mit EMS trainieren. 
+
+Um gesundheitlichen Schäden vorzubeugen, 
+ist in folgenden Fällen ein EMS Training mit Antelope ausgeschlossen. 
+Trifft das auf dich zu, darfst du kein EMS Ganzkörpertraining machen. Du ...
+- trägst implantierte elektrische Geräte, z. B. Herzschrittmacher.
+- hast metallene Implantate.
+- trägst eine Insulinpumpe.
+- hast Fieber (> 38°C).
+- leidest unter bekannten oder akuten Herzrhythmusstörungen und anderen Erregungsbildungs- und Leitungsstörungen am Herzen.
+- leidest unter einer neurologischen Erkran&shy;kung wie Epilepsie oder schweren Sensitivi&shy;tätsstörungen.
+- bist schwanger.
+- leidest unter einer Krebs- oder anderen Tumorerkrankung.
+- wurdest kürzlich operiert. Besonders kritisch ist es, wenn verstärkte Muskelkontraktionen den Heilungsprozess stören könnten.
+- bist gleichzeitig an ein Hochfrequenz&shy;Chirurgiegerät angeschlossen.
+- verwendest gleichzeitig weitere elektrische Geräte, die die Stromzufuhr oder die Muskulatur beeinflussen könnten.
+- bist akut oder chronisch im Magen-Darm&shy;Trakt erkrankt.
+- hast akute Muskelschmerzen, -kater oder -krämpfe.
+- leidest unter einer akuten Erkrankung, einer bakteriellen Infektion oder entzündlichen Prozessen.
+- hast Diabetes mellitus Typ 1.
+- leidest unter Arteriosklerose und arteriellen Durchblutungsstörungen.
+- hast im Bereich der Elektroden akut oder chronisch erkrankte/verletzte/entzündete Haut wie schmerzhafte/schmerzlose Ent&shy;zündungen, Rötungen, Hautausschläge, Allergien, Verbrennungen, Prellungen, Schwellungen, offene oder heilende Wunden oder Operationsnarben.
+- hast Stents und Bypässe, die weniger als 6 Monate aktiv sind.
+- hast unbehandelten Bluthochdruck, Blutungsstörung oder Blutungsneigung (Hämophilie).
+- leidest unter Bauchwand- und Leistenhernien.
+- hast gerade Alkohol getrunken, Drogen oder Rauschmittel genommen.
+- bist unter 18 Jahre alt. 
+
+Um gesundheitlichen Schäden vorzubeugen, ist an folgenden Stellen und Umgebungen von der Anwendung einer Elektro&shy;Muskel-Stimulation dringend abzuraten:
+- Am knöchernen Schädel, im Bereich des Mun&shy;des, des Rachenraumes oder des Kehlkopfes.
+- Die Stimulation darf nicht an oder auf dem Kopf erfolgen, auch nicht direkt auf den Augen, über dem Mund, am Hals und der Halsschlagader.
+- Im Bereich der Genitalien.
+- In Umgebungen mit hoher Feuchtigkeit, wie z. B. im Badezimmer, beim Baden oder Du&shy;schen, bei starkem Regen oder bei Schnee. 
+### RELATIVE KONTRAINDIKATIONEN: 
+Wenn diese Faktoren auf dich zutreffen, 
+darfst du nur mit EMS trainieren, wenn deine Ärztin es dir ausdrücklich erlaubt. Du ...
+- leidest unter akuten Rückenbeschwerden ohne spezielle Diagnose.
+- leidest unter akuten Neuralgien und Band&shy;scheibenvorfällen.
+- besitzt Implantate, die älter als 6 Monate sind.
+- leidest unter einer Erkrankung der inneren Organe. Besondere Vorsicht gilt bei Nieren&shy;erkrankungen.
+- leidest unter kardiovaskulären Erkrankungen.
+- neigst zu thromboembolischen Erkrankungen.
+- leidest unter nicht abgeklärten chronischen Schmerzzuständen, unabhängig von der Körperregion.
+- leidest unter einer Sensibilitätsstörung mit reduziertem Schmerzempfinden (wie z. B. Stoffwechselstörungen).
+- erlebst während der Stimulation Beschwerden.
+- hast an den Stellen, an denen du die Elektro&shy;den verwendest, langfristig gereizte Haut.
+- tendierst zu Blutungen aufgrund von Ver&shy;letzungen.
+- hast eine Bewegungskinetose.
+- hast größere Flüssigkeitsansammlungen und Ödeme. DEUTSCH 4 5
+- hast offene Hautverletzungen, Wunden, Ekzeme und/oder Verbrennungen.
+- nimmst entsprechende Medikamente ein. 
+### TRAININGSBEDINGUNGEN: 
+So trainierst du richtig Was muss beim Training berücksichtigt wer&shy;den?
+- Trainiere maximal dreimal pro Woche.
+- Achte auf Pausen und gib deinem Körper mindestens 48 Stunden Zeit, zu regenerieren.
+- Trainiere je Einheit nicht länger als 20 bis 30 Minuten, je nach gewählter Belastung und Intensität.
+- Hör auf deinen Körper und kenne deine Grenzen.
+- Trinke ausreichend Wasser.
+- Wir empfehlen, gerade bei trockener Haut, die Verwendung eines Elektrodenkontakt mit&shy;tels von Antelope. 
+Du fühlst dich während des Trainings unwohl? 
+Brich das Workout umgehend ab und melde dich bei deiner Ärztin oder dem Notdienst! 
+Nach dem Training ist dir schwindelig, 
+du hast Prob&shy;leme mit dem Herzen oder starke Schmerzen? 
+Melde dich ebenfalls unbedingt bei deiner*m Ärzt*in! 
+
+### MÖGLICHE NEBENWIRKUNGEN: 
+
+Bei einem Training trotz Vorliegen einer Kontra&shy;indikation 
+und/oder der Nichteinhaltung der Trai&shy;ningsbedingungen 
+können erhebliche gesund&shy;heitliche Beschwerden auftreten, 
+die in seltenen Fällen bis zum Tod führen. 
+
+Diese können unter anderem durch ein starkes Übertrainieren 
+und die Nichteinhaltung der nötigen Ruhepausen entstehen. 
+Mögliche Nebenwirkungen sind teil&shy;weiser Kraftverlust, verzögerter Muskelkater 
+und ein signifikanter Anstieg des im Blut vorkommen&shy;den Muskelproteinspiegels, 
+wie bspw. von Crea&shy;tin-Kinase. 
+
+Creatin-Kinase kann in Einzelfällen bei Überdosierungen 
+die Nieren oder weitere Or&shy;gane schädigen und zu deren Versagen führen. 
+
+Besonders nach zu intensiven Trainingseinheiten mit den Produkten von Antelope 
+besteht ein er&shy;höhtes Risiko von Muskelschäden. 
+Wenn du aber unsere Trainingsanweisungen genau befolgst, 
+sollten keine der genannten Probleme auftreten. 
+
+Tritt eines der folgenden Symptome bei dir auf, kontaktiere eine*n Ärzt*in – 
+es besteht die Gefahr einer schweren Schädigung deines Muskelgewe&shy;bes 
+(Rhabdomyolyse):
+- Dein Urin ist braun.
+- Du hast starke Muskelschmerzen (Myalgie).
+- Dein Muskel ist extrem geschwollen. 
+### ALLGEMEINE WARNHINWEISE 
+Jeder unsachgemäße Gebrauch kann gefährlich sein. 
+Verwende die Produkte von Antelope aus&shy;schließlich:
+- am Menschen.
+- für den Zweck, für den diese entwickelt wurden und auf die in dieser Gebrauchs&shy;anweisung angegebene Art und Weise.
+- zur äußerlichen Anwendung.
+- mit den mitgelieferten und nachbestellbaren Original-Zubehörteilen, ansonsten erlischt u. a. der Garantieanspruch. 
+### ALLGEMEINE SICHERHEITS- UND VORSICHTSMASSNAHMEN
+- Entferne die Elektroden stets mit mäßigem Zug von der Haut, 
+  um bei hochempfind&shy;licher Haut Verletzungen zu vermeiden.
+- Halte die Produkte von Wärmequellen fern und verwende sie nicht in der Nähe (~1 m) von Kurz- oder Mikrowellengeräten, da dies zu unangenehmen Stromspitzen führen kann.
+- Setze das Gerät nicht direkter Sonne oder hohen Temperaturen aus.
+- Schütze das Gerät vor Staub, Schmutz und Feuchtigkeit.
+- Insbesondere der Booster ist vor Feuchtig&shy;keit zu schützen. Den Booster niemals in Wasser oder andere Flüssigkeiten tauchen.
+- Die Produkte dürfen nur bei Personen ohne Kontraindikationen und nicht bei Tieren angewendet werden.
+- Sollte das Gerät nicht korrekt funktionieren, sich Unwohlsein oder Schmerzen einstellen, brich die Anwendung sofort ab.
+- Zum Versetzen von Elektroden oder Auszie&shy;hen pausiere die Produkte von Antelope bzw. den zugehörigen Kanal, um ungewollte Reize zu vermeiden.
+- Modifiziere keine Elektroden (z. B. durch Be&shy;schnitt). Dies führt zu höherer Stromdichte und kann gefährlich sein.
+- Nicht im Schlaf, beim Führen eines Kraftfahr&shy;zeuges oder gleichzeitigem Bedienen von Maschinen anwenden.
+- Nicht anwenden bei allen Tätigkeiten, bei denen eine unvorhergesehene Reaktion (z. B. verstärkte Muskelkontraktion trotz nied&shy;riger Intensität) gefährlich werden kann. 6
+- Achte darauf, dass während der Stimulation keine metallischen Objekte wie Gürtel&shy;schnallen oder Halsbänder in Kontakt mit den Elektroden gelangen können. Solltest du im Bereich der Anwendung Schmuck oder Piercings (z. B. Bauchnabelpiercings) tragen, musst du diese vor dem Gebrauch des Ge&shy;rätes entfernen, da es sonst zu punktuellen Verbrennungen kommen kann.
+- Nicht anwenden, falls du eine Tätowierung hast, die metallische Partikel enthält und diese in der Nähe oder unter einer der Elek&shy;troden liegt.
+- Verbinde die Komponenten der Antelope Produkte nicht mit anderen Geräten. Eine Verwendung ist ausschließlich mit den in dieser Gebrauchsanweisung beschriebenen Produkten zulässig.
+- Benutze die Produkte nicht gleichzeitig mit anderen Geräten, die elektrische Impulse an deinen Körper abgeben.
+- Nicht anwenden in der Nähe leicht entzünd&shy;licher Stoffe, Gase oder Sprengstoffe.
+- Stelle das Gerät bei Eintreten eines Schwä&shy;chegefühls sofort ab und leg die Beine hoch (ca. 5–10 Min.). Melde dich unbedingt bei deiner*m Ärzt*in oder dem Notdienst.
+- Antelope Produkte sind nicht dafür be&shy;stimmt, durch Kinder oder Personen mit eingeschränkten physischen, sensorischen (z. B. Schmerzunempfindlichkeit) oder geisti&shy;gen Fähigkeiten sowie mit fehlender Erfahrung und/oder fehlendem Wissen benutzt zu werden. Stelle sicher, dass ein EMS Training von und mit Minderjährigen ausgeschlossen ist.
+- Halte EMS Geräte von Antelope und deren Verpackungsmaterial von Kindern und Tieren fern, um eventuellen Gefahren vorzubeugen.
+- Berühre die Elektroden nicht mit den Fingern, während du dein mobiles Endgerät bedienst.
+- Stelle sicher, dass der Booster beim An- und Ausziehen von Antelope Produkten immer ausgeschaltet ist.
+- Bitte beachte, dass unsere EMS-Produkte nur von Personen verwendet werden dürfen, die die in dieser Gebrauchsanweisung ent&shy;haltenen Informationen zur bestimmungs&shy;gemäßen Verwendung, einschließlich der Warnhinweise und Kontraindikationen, vorab vollständig zur Kenntnis genommen und das Nichtvorliegen von Kontraindikationen in der eigenen Person verifiziert haben. Sofern die EMS-Produkte nicht nur durch Dich selbst, sondern auch von Dritten verwendet werden sollten, bist du verpflichtet, sicherzustellen, dass die oben genannten Hinweise auch dem Dritten zur Kenntnis gebracht und durch diesen vor Trainingsbeginn eigen&shy;ständig überprüft und beachtet werden. Wir empfehlen, dass du dir das Nichtvorliegen von Kontraindikationen durch den nutzenden Dritten schriftlich bestätigen lässt. Bei Fragen hierzu kannst du dich selbstverständlich jederzeit mit uns in Verbindung setzen. 
+### BESCHÄDIGUNG 
+- Benutze das Gerät bei Beschädigungen nicht und wende dich an deinen Händlern oder an die angegebene Kundendienstadresse. 
+- Zur Gewährleistung der wirkungsvollen Funktion des Gerätes, sollte es nicht fallen gelassen oder zerlegt werden. 
+- Überprüfe das Gerät auf Anzeichen von Abnutzung oder Beschädigung. Falls du solche Anzeichen findest oder falls das Gerät unsachgemäß benutzt wurde, solltest du es vor erneuter Benutzung zum Hersteller oder dem*der Händler*in bringen/senden. 
+- Schalte das Gerät sofort aus, wenn es defekt ist oder Betriebsstörungen vorliegen. 
+- Versuche in keinem Fall, das Gerät selbst&shy;ständig zu öffnen und/oder zu reparieren. Lasse die Reparaturen nur vom autorisierten Kundendienst oder autorisierten Händ&shy;ler*innen durchführen. Bei Nichtbeachtung erlischt die Garantie. 
+- Der Hersteller haftet nicht für Schäden, die durch unsachgemäßen oder falschen Gebrauch verursacht wurden. 
+### HINWEISE ZUM UMGANG MIT AKKUS 
+
+WARNUNG
+- Explosionsgefahr! Brandgefahr! 
+  Nichtbe&shy;achtung der genannten Punkte kann zu Per&shy;sonenschäden, Überhitzung, Auslaufen, Ent&shy;lüftung, Bruch, Explosion oder Feuer führen.
+- Zum Laden immer das richtige oder mitgelie&shy;ferte Ladekabel/Ladegerät/Netzteil verwen&shy;den.
+- Dauerhaftes Laden oder eine Überladung vermeide.
+- Den Stecker des Ladegeräts ziehen, wenn es aufgeladen ist. 
+- Nur mit Batterieladegeräten USB-C 5V ver&shy;wenden. Den Stecker des Ladegeräts ziehen, wenn es aufgeladen ist.
+- Das Gerät unter Aufsicht laden und dabei auf Hitzeentwicklung, Deformierung und Ausga&shy;sung achten. Im Zweifelsfall Ladevorgang ab&shy;brechen.
+- Defekte Batterien/Ladekabel/Ladegerät nicht mehr verwenden und schnellstmöglich ord&shy;nungsgemäß entsorgen (s. Kapitel Entsor&shy;gung).
+- Das Gerät oder Batterien nicht ins Feuer wer&shy;fen.
+- Das Gerät oder Batterien niemals zwangsent&shy;laden, erhitzen, zerlegen, öffnen, zerkleinern, deformieren, einkapseln, modifizieren oder Stößen aussetzen.
+- Niemals Batterien und die Anschlüsse des batteriebetriebenen Geräts kurzschließen.
+- Das Gerät oder Batterien vor direkter Son&shy;neneinstrahlung, Regen, Hitze und Wasser schützen.
+- Werden Batterien einer Umgebung mit ext&shy;rem hohen Temperaturen oder extrem niedri&shy;gem Luftdruck ausgesetzt, kann dies zu einer Explosion oder zum Auslaufen von entflamm&shy;baren Flüssigkeiten und Gasen führen.
+- Wenn Flüssigkeit aus einer Batterie mit Haut oder Augen in Kontakt kommt, die betroffene Stelle mit Wasser auswaschen und ärztliche Hilfe aufsuchen. 
+HINWEIS
+- Dieses Gerät enthält eine Batterie, die nur von Fachkräften ausgetauscht werden darf.
+- Dieses Gerät enthält eine Batterie, die nicht austauschbar ist. Wenn eine Batterie das Ende ihrer Lebensdauer erreicht hat, muss das Gerät ordnungsgemäß entsorgt werden (s. Kapitel Entsorgung).
+- Informationen zum Entfernen und / oder Austauschen der Batterie finden Sie auf der Homepage 
+
+## VOR DER ANWENDUNG 
+
+### Evolution-Booster laden 
+
+Lade den Evolution-Booster **mindestens zwei Stunden** auf, 
+bevor du ihn zum ersten Mal in Betrieb nimmst. 
+
+Dafür verbindest du das mitgelieferte USB-C-Ladekabel mit einem USB-Netzteil 
+(Ausgang: max. 5 V/ 2 A, nicht im Lieferumfang enthalten) und dem Booster. 
+Alternativ kannst du den Booster auch über deinen Computer/Laptop aufladen. 
+
+Verbinde dazu das USB-C-Ladekabel mit dem Booster 
+und dem USB-Anschluss deines Computers/Laptops. 
+
+### EMS Textilien waschen 
+
+Wir empfehlen, die Textilien vor dem ersten Gebrauch zu waschen. 
+In „Reinigung und Pflege“ erfährst du, wie du sie reinigst und pflegst. 
+
+### App „Antelope Go“ downloaden und registrieren 
+Prüfe deine Telefoneinstellung 
+Stelle sicher, dass dein Bluetooth aktiviert ist. 
+Als Android-User ist zusätzlich zu beachten, 
+dass die Standortdaten deines Telefons aktiviert sind. 
+
+### Elektrodenkontaktmittel auftragen 
+Wir empfehlen dir, ein Elektrodenkontaktmittel zu verwenden. Das sorgt dafür, 
+dass die Elektroden den Strom besser leiten und sie sich beim Training besser anfühlen. 
+Zudem wird der EMS Impuls so leichter und gleichmäßiger übertragen. 
+Trage es dazu kurz vor dem Training auf die Elektroden oder direkt auf die Haut auf. 
+Alternativ kannst du dich auch mit einem Warm Up vor dem EMS Trai&shy;ning ins Schwitzen bringen.
+
+## GERÄTEBESCHREIBUNG & INBETRIEBNAHME 
+
+### Geräteübersicht 
+
+- Voraussetzung für jedes Training: App, Booster 
+- Wahloption Oberteil für Frauen & Männer: Shirt, Tank Top 
+- Kombina&shy;tionsartikel Unterteile Frauen & Männer: Shorts Leggings 
+
+Zu jeder Bestellung, die ein EMS Textil enthält, wird ein Evolution Wäschenetz mitgeliefert. 
+
+### App „Antelope Go“ 
+
+Los geht’s! Um mit deinem EMS Training zu starten, 
+brauchst du die App „Antelope Go“ und einen Account. 
+Die App ist dein EMS Trainingsbegleiter in der Hosentasche: 
+Hier wählst du das für dich passende Programm aus 
+und konfigurierst es nach deinen Wünschen und Bedürfnissen. 
+Über die App steuerst du auch die Elektroden – 
+alle gleichzeitig oder jede einzeln: Du entscheidest! 
+Die App speichert bei jedem Programm deine Einstellungen, 
+sodass du beim nächsten Training schnell und komfortabel einsteigst. 
+
+#### So startest du:
+- Lade die App „Antelope Go“ im Google Play Store oder im Apple Store herunter.
+- Führe die Registrierung durch. Dafür musst du die Kontraindikationen aktiv bestätigen. Diese kannst du dir im Kapitel „Warn- und Sicherheitshinweise“ durchlesen.
+- Damit du trainieren kannst, wirst du während der Anmeldung aufgefordert, deine Produkte zu registrieren.
+- Schalte dafür den Booster ein und verbinde ihn via Bluetooth mit deinem Handy. Ist er einmal registriert, verbindet er sich zukünftig selbstständig mit der App. Du erkennst das an dem runden Verbindungs-Symbol oben rechts im Screen – es färbt sich von Weiß in Türkis, wenn der Booster verbunden ist.
+- Um deine Textilien zu registrieren, 
+  folgst du der Schritt-für-Schritt-Anleitung in der App. 
+  Den Bar&shy;code des jeweiligen Kleidungsstücks findest du im Bund. 
+  Diesen scannst du einfach mit der Kamera deines Mobiltelefons ab. 
+  Diesen Schritt kannst du auch später noch nachholen. 
+  Du bist aber erst für dein erstes Training bereit, 
+  wenn alle verwendeten Textilien unter „Equipment“ angelegt sind. 
+- Tipp: Warte beim Scanvorgang bis der Code er&shy;kannt wurde 
+  und halte das Mobiltelefon ruhig. 
+  Wenn der Code nicht erkannt wird, kannst du ihn auch manuell eingeben. 
+- Wenn du bereits einen beurer-Account hast, loggst du dich direkt damit ein. 
+  Einmal re&shy;gistriert, funktioniert dein Zugang auch in anderen beurer Apps 
+  wie „beurer FreshHome“ oder „beurer HealthManager Pro“. 
+- Hast du dich und deine Textilien registriert? 
+  Dann kann es jetzt mit deinem ersten Training losgehen. 
+  Wenn du nicht mehr warten willst, 
+  blättere gleich weiter zu Kapitel „Anwendung: Schnellstart“. 
+  Wir empfehlen dir aber, vorher die Gerätebeschreibung durchzulesen. 
+  
+### Evolution Booster 
+
+Der Booster ist das Herz deines EMS Trainings. 
+Sein wiederaufladbarer Lithium-Ionen-Akku verleiht den Elektroden die Energie, 
+die sie für die elektrische Muskelstimulation brauchen. 
+
+Den Booster steu&shy;erst du über die App „Antelope Go“. 
+Hier wählst du unter mehr als 40 Programmen aus, womit du heute trainieren willst. 
+Mit dem Booster selbst regulierst du die Intensität aller Muskelgruppen gleichzeitig, 
+pausierst dein Programm und startest via Schnellzugriff sofort dein Lieblingstraining. 
+Das legst du ganz einfach über die App fest – 
+und kannst es dann auch ohne Handy nutzen. 
+
+So nutzt du den Booster am Textil:
+- Setze ihn in die magnetische Halterung an deinem Antelope Oberteil ein.
+- Schiebe ihn dafür leicht schräg auf „6 Uhr“ in die eckige Ausbuchtung.
+- Klappe ihn nun zurück, bis der Magnet anzieht.
+- Jetzt kannst du starten! 
+1. Power-Taste:
+	- Anschalten
+	- Ausschalten
+	- Pause/wieder starten 
+2. Plus-/Minus-Taste:
+	- Intensität reduzieren – und erhöhen + 
+3. Favoriten-Taste:
+	- frei wählbares Favoriten-Programm
+	- einstellbar über die App  
+
+4. MAC-Adresse:
+	- Diese Adresse wird in der App angezeigt, 
+	  damit du jeden Booster eindeutig zuordnen kannst. 
+	  Das ist besonders praktisch, wenn mehrere Booster in einer App registriert sind. 
+5. Seriennummer:
+	- Mit dieser Nummer kann der Kundenservice dein Gerät identifizieren. 
+6. USB-C-Anschluss:
+	- Ladekabelanschluss 
+#### Booster-Tasten 
+
+##### Die Power-Taste 
+Gerät anschalten: 
+Power-Taste gedrückt halten, bis der LED&shy;Ring 2x im Uhrzeiger&shy;sinn durchgelaufen ist. Der LED-Ring leuchtet blau. 
+Das Licht bleibt auf „12 Uhr“ stehen und leuchtet im Intervall auf. 
+Der Booster ist nun be&shy;reit. Du kannst ihn via Bluetooth verbinden. 
+
+##### Gerät ausschalten: 
+Power-Taste gedrückt halten, bis der LED-Ring 2x gegen den Uhrzeigersinn gelaufen ist. 
+Während&shy;dessen leuchtet er grün. Danach ist das LED-Licht aus. 
+Wenn der Booster aus ist und nicht am Strom angeschlossen, darf kein Licht mehr leuchten. 
+
+##### Training pausieren: 
+Durch ein kurzes Drücken der Power&shy;Taste pausierst du ein laufendes Programm. 
+Dabei leuchtet der LED-Ring in Intervallen auf. 
+
+##### Training wieder starten: 
+Durch kurzes Drücken der Power&shy;Taste setzt du das Training nach einer Pause fort. 
+Der LED-Ring leuchtet jetzt wieder passend zum Programm. 
+
+##### Ein laufendes Training abbrechen: 
+Pausiere das laufende Programm durch ein kurzes Drücken der Power-Taste. 
+Der LED-Ring beginnt zu pulsieren. 
+Halte anschließend die Power-Taste gedrückt, bis der LED-Ring 1x grün gegen den Uhr&shy;zeigersinn gelaufen ist. Die LED-Anzeige bleibt auf „12 Uhr“ stehen. 
+
+##### Plus- & Minus-Taste 
+
+###### Intensität reduzieren: 
+Drückst du kurz die Minus-Taste, reduzierst du die Intensität aller Elektrodenpaare um einen Intensi&shy;tätspunkt. Hältst du die Taste lange gedrückt, reduziert sich die Intensität direkt um 3 Intensi&shy;tätspunkte. Willst du einzelne Elektroden ansteu&shy;ern, wählst du diese in der App aus. 3 Sekunden 
+
+###### Intensität erhöhen: 
+
+Drückst du kurz die Plus-Taste, erhöhst du die Intensität aller Elektrodenpaare um einen Intensi&shy;tätspunkt. Hältst du die Taste lange gedrückt, erhöht sich die Intensität direkt um 3 Intensitäts&shy;punkte. Willst du einzelne Elektroden ansteuern, wählst du diese in der App aus. Favoriten-Taste Favoriten-Programm starten: Um dein Favoriten-Programm zu starten, drückst du 1x kurz die Blitzsymbol-Taste auf dem Booster. Der LED-Ring beginnt nun zu pulsieren. Daran er&shy;kennst du, dass das Programm aktiviert wurde. Nun hast du zwei Startmöglichkeiten: 1. Starte bei 0 %: Drücke hierfür die Plus-Taste auf dem Booster, um selbst deine Wunschin&shy;tensität einzustellen. 2. Mit Memory Intensität starten: Drücke dafür er&shy;neut die Favoriten-Taste. Der Booster fährt nun langsam auf die gespeicherten Werte hoch. Die Geschwindigkeit stellst du unter „Anstiegsassistent“ ein. Memory Intensität stoppen: Während der Booster auf deine Memory Intensität hochfährt, kannst du den Prozess jederzeit mit der Minus-Taste stoppen. Die Intensität bleibt dann auf dieser Einstellung stehen. Wie du dir ein Favoriten-Programm mithilfe der App einstellst, erfährst du in Kapitel „Favoriten-Pro&shy;gramm einstellen“. 3 Sekunden 
+
+#### LED-Ring 
+- Der Leuchtring zeigt an, welche Aktion der Booster gerade durchführt.
+- Seitliche Integration für bessere Sichtbarkeit während des Trainings. 
+Was passiert, wenn du die Power-Taste drückst, hast du im vorherigen Kapitel gelesen. 
+Weitere Aktionen sind: 
+
+##### Anzeigen der Bluetooth-Verbindung: 
+Schaltest du den Booster ein, leuchtet die Anzeige dauerhaft auf „12 Uhr“. 
+Jetzt kannst du die Bluetooth-Verbindung herstellen. 
+Wenn eine Bluetooth-Verbindung hergestellt ist, 
+leuchtet der LED-Ring konstant und das Licht erweitert sich auf beiden Seiten. 
+##### Stimulationsanzeige: 
+Ist die Stimulation während eines Programms konstant, 
+leuchtet der LED-Ring ebenfalls durch&shy;gängig. 
+In manchen Einstellungen arbeiten die Elektroden in einem Duty Cycle, das heißt, 
+der Muskel wird für eine bestimmte Zeit stimuliert, danach ist für einige Sekunden Pause. 
+Du erkennst die stimulierten Phasen an dem sich füllenden Licht im LED-Ring. 
+##### Ladevorgang: 
+Sobald der Booster geladen wird, leuchtet der ganze LED-Ring in kurzen Intervallen auf. 
+Ist der Booster vollgeladen, leuchtet der LED-Ring konstant. 
+### EMS Textilien 
+
+In der Antelope Evolution Serie gibt es vier verschiedene Textilien: 
+Shirt, Tank Top, Shorts und Leggings. 
+
+Dabei sind alle Oberteile mit allen Hosen kombinierbar. 
+Die hochwertigen Antelope Textilien 
+bestehen aus 54 % Polyamid, 36 % Polypropylen und 10 % Elasthan. 
+Statt auf Unisex-Modelle 
+setzen wir auf angepasste Kleidungsstücke für Männer- und Frauenkörper. 
+
+Deswegen haben wir auf Wunsch vieler Kundinnen mit dem Sport-BH ein spezielles 
+Feature in unsere Damen-Modelle integriert und die Brustelektroden umpositioniert. 
+Das verbessert den Halt und sorgt für ein sicheres Tragegefühl. 
+
+Auch die Antelope Anzüge für Männer 
+sind an die männlichen Propor&shy;tionen angepasst. 
+
+Die Damen-Modelle sind in den Größen XS bis XL verfügbar. 
+Die Herren-Modelle erhältst du in den Größen S bis XXL. 
+In der Evolution Serie trainierst du mit der neuesten Generation von 
+Hightech-Silikonelektroden, die in Deutschland entwickelt wurden. 
+Sie sind so dünn, dass sie angenehm und schmeichelnd auf der Haut liegen. 
+Ihre Formen sind denen der jeweiligen Muskelgruppe angepasst. 
+Das ermöglicht eine ganz neue Art der Reizübertragung. 
+
+Die Elektroden bestehen aus mehreren Schichten 
+und sind vollständig mit Silikon ummantelt. 
+
+Das gewährleistet ein gleichmäßiges Impulsgefühl auf der Haut. 
+Du kannst die Elektro&shy;den vor dem Training mit einem Elektrodenkontaktmittel anfeuchten, um die Intensität zu erhöhen. Oder du startest direkt trocken. Wenn du deine EMS Textilien anziehst, achte darauf, dass die Elektroden an der richtigen Stelle liegen. In dem Schaubild siehst du die ideale Elektrodenpositionierung. Jede Wahrnehmung ist individuell, aber du kannst dich daran orientieren. Sensible Zone sind bei den meisten Menschen: Wade, Nacken, Arm. 
+
+#### Antelope Oberteile 
+
+Mit den EMS Oberteilen von Antelope bist du herrlich flexibel: Du hast eine Vielzahl an Optionen, um im Leistungssport oder im Fitness zu trainieren und dein Wohlbefinden zu steigern. Sie funktionieren alleine als Stand-Alone-Produkt oder gemeinsam mit einem Antelope Unterteil. Unsere Oberteile sind mit drei Reißverschlüssen ausgestattet. Dadurch ziehst du sie besonders bequem an und sie liegen komfortabel auf der Haut. Das ist wichtig, damit die Elektroden einen guten Kontakt zu deiner Haut haben. Bei den Damen-Modellen haben wir zusätzlich einen Sport-BH integriert. 
+
+An den Antelope Oberteilen befindet sich eine magnetische Halterung. 
+Diese ist die Dockingstation für den Evolution Booster. 
+Ein Magnet hält ihn fest in der Halterung verankert – 
+auch bei intensiven Trainingseinhei&shy;ten. 
+Direkt unter der Halterung haben wir eine Tasche eingefügt. 
+In dieser platzierst du den USB-Stecker, der aus der Halterung herausragt, 
+wenn du das Oberteil ohne Hose verwendest. 
+Magnetische Befestigung mit Snap-In-Effekt 
+
+##### SHIRT 
+Das EMS Shirt verfügt über 6 Elektrodenpaare mit 12 Elektroden. 
+Diese befinden sich im Bereich Brust, Bauch, Oberarm-Trizeps, Nacken, mittlerer und unterer Rücken. 
+
+##### TANK TOP 
+
+Die Light-Version für einen starken Rücken: 
+Das EMS Tank Top verfügt über 4 Elektrodenpaare und 8 Elektroden. 
+Diese befinden sich im Bereich Bauch, Nacken, mittlerer und unterer Rücken. 
+
+#### Antelope Hosen 
+Mit den Antelope Hosen erweiterst du die Oberteile zum kompletten Antelope Anzug: 
+Sie stimulieren zusätzlich Gesäß und Beine. 
+An jeder Hose befindet sich eine Handytasche – so hast du Smartphone und App „Antelope Go“ ganz unkompliziert bei jedem Training dabei. Mit den Antelope Hosen trai&shy;nierst du die großen Muskelgruppen. Die speziell dafür entwickelte Form der Elektroden unterstützt dich intensiv in deinem Training. Du verbindest Oberteil und Hose mithilfe der USB-C-Verbindung. So geht’s:
+- Führe das längere Kabel der Hose durch die dafür vorgesehene Ta&shy;sche am Oberteil.
+- Verbinde es mit dem Anschluss des Oberteils.
+- Verstaue die Kabel in der Tasche. So trägst du sie komfortabler. Du kannst die USB-C-Verbindung mit in die Waschmaschine geben. Beachte dabei: An dem mitge&shy;lieferten Wäschenetz befinden sich Waschkappen. Setze diese vor dem Waschen auf die Anschlüsse. 
+##### LEGGINGS 
+Entwickelt für Sportler, um ein herausforderndes Ganzkörpertraining zu ermöglichen: 
+Die EMS Leg&shy;gings verfügen über 4 Elektrodenpaare und 8 Elektroden. 
+Diese befinden sich am Gesäß, 
+dem vor&shy;deren und hinteren Oberschenkel und der Wade. 
+Du kannst die Leggings nur gemeinsam mit einem Antelope Oberteil verwenden. 
+##### SHORTS 
+Die EMS Shorts verfügen über 3 Elektrodenpaare und 6 Elektroden. 
+Diese befinden sich am Gesäß, dem vorderen und dem hinteren Oberschenkel. 
+Du kannst die Shorts nur gemeinsam mit einem Antelope Oberteil verwenden. 
+
+## ANWENDUNG: SCHNELLSTART 
+
+### Registrierung und Start 
+
+1. App-Konto erstellen 
+   Bereit für dein erstes Workout? 
+   Dafür musst du die App „Antelope Go“ herunterladen und dir einen Account anlegen. 
+2. Equipment registrieren 
+   Bevor du loslegst, 
+   registriere bitte deine Produkte unter „Mehr“ und „Mein Equipment“. 
+   Das geht ganz schnell – versprochen! 
+   Hast du das alles schon gemacht, springe zu Punkt 6. 
+3. Booster auf Apple- und Android-Geräten registrieren    
+	1. So registrierst du deinen Booster auf iOS-Geräten in der App: 
+		1. Wähle „Booster hinzufügen“. 
+		2. Ist das erledigt, erscheint die Mac-Adresse in der App. 
+		   Diese ist auch auf der Rückseite des Boosters abgedruckt. Klicke darauf. 
+		3. Warte, bis du eine Kopplungsanforderung (Bluetooth) erhältst. 
+		4. Bestätige, damit du auf die Seite „Booster verbunden“ geleitet wirst. 
+		5. Solltest du eine Fehlermeldung erhalten, 
+		   wende dich bitte direkt an unseren Kundenservice. 
+		   Diesen findest du unter „Kontakt“ in den Einstellungen. 
+	2. So registrierst du deinen Booster auf Android-Geräten in der App: 
+		1. Wähle „Booster hinzufügen“. 
+		2. Ist das erledigt, erscheint die Mac-Adresse in der App. 
+		   Diese ist auch auf der Rückseite des Boosters abgedruckt. Klicke darauf. 
+		3. Schaltest du den Booster das erste Mal an, 
+		   wirst du aufgefordert, die Ortungsdienste deines Handys zu aktivieren. 
+		4. Bestätige – so erteilst du die Berechtigung, 
+		   ohne in die Einstellungen deines Smartphones gehen zu müssen. 
+		5. Nun kannst du deinen Booster auswählen 
+		   und erhältst die Kopplungsaufforderung für Bluetooth. 
+		6. Bestätige diese und warte bis du zu „Booster verbunden“ geleitet wirst. 
+4. Textilien registrieren 
+   Registriere jetzt deine Textilien. So geht’s: 
+	1. Wähle „Produkte hinzufügen“. 
+	2. An deinem Textil ist im Saum ein Barcode angebracht. 
+	   Du erkennst ihn am Mobiltelefon&shy;Piktogramm. 
+	   Du findest den Code auch am Hängeetikett. Scanne ihn mit der App ein. 
+	3. Warte beim Scanvorgang, 
+	   bis die App den Code erkennt und halte das Mobiltelefon ruhig. 
+	   Erkennt die App den Code nicht, kannst du ihn auch manuell eingeben. Manchmal nutzt sich der Code im Saum deiner Textilie im Laufe der Zeit ab. 
+	   Wir emp&shy;fehlen daher, 
+	   das Hängeetikett mit dem Code für die App-Registrierung aufzubewahren. 
+5. Oberteil und Hose verbinden 
+   Willst du dein Oberteil mit Shorts oder Leggings zu einem Anzug kombinieren? 
+   Ziehe beide Textilien an und verknüpfe sie dann mittels der USB-C-Verbindung. 
+   Wie das geht, erfährst du im Kapitel „EMS Textilien“. DEUTSCH 
+6. Booster einsetzen 
+   Setze den Booster in die magnetische Halterung am Oberteil ein. 
+   Booster anschalten und verbinden. 
+	1. Gerät anschalten: 
+	   Schalte den Booster ein, indem du die Power-Taste gedrückt hältst, 
+	   bis der LED-Ring 2x blau im Uhrzeigersinn durchgelaufen ist. 
+	   Das Licht bleibt auf „12 Uhr“ stehen und leuchtet im Intervall auf. 
+	   Du kannst nun den Booster via Bluetooth mit der App „Antelope Go“ verbinden. 
+	2. Booster verbinden: 
+		1. Öffne die App „Antelope Go“. 
+		2. Geh in den Bereich „Mein Equipment“ unter „Mehr“. 
+		3. Klicke auf „Booster registrieren“. 
+		4. Folge den Anweisungen. 
+		   Einmal registriert, 
+		   verbindet sich der Booster zukünftig von alleine, wenn du ihn einschaltest. 
+		   Du erkennst das am kleinen Verbindungs-Button oben rechts im Screen. 
+		   Er färbt sich von Weiß in Türkis, wenn die Verbindung erfolgreich war. 
+7. Wähle ein EMS Programm in der App aus 
+   Jetzt kannst du dein Training starten. 
+   Gehe zu „Training“ und wähle aus, wie du heute trainieren möchtest. 
+   Du entscheidest zwischen diesen Kategorien:
+- Warm Up & Cool Down
+- Fitness
+- Sport
+- Kraftaufbau
+- Regeneration 
+
+Nun folgen weitere Unterkategorien. 
+Unter „Kraft&shy;aufbau“ findest du z. B. Programme für Maximalkraft, Kraftausdauer und Schnellkraft. 
+
+### Programmeinstellungen 
+
+#### Dauer (Minuten) 
+
+Du willst nur kurz in die Vollen gehen 
+oder eine aus&shy;giebige, entspannte Joggingrunde nach Feierabend drehen? 
+Hier wählst du, wie lange dein Workout dauern soll. 
+
+Aufgepasst: In manchen Programmen kannst du die Dauer nicht ändern. 
+Nur so können sie ihre volle Wirkung entfalten. 
+
+#### Stimulationsintervall (Duty Cycle) 
+
+Im Stimulationsintervall (Duty Cycle) 
+stimulieren die Elektroden deine Muskeln für eine bestimmte Zeit. 
+Danach haben sie für einige Sekunden Pause. Hier kannst du einstellen, wie lang die jeweiligen Intervalle sein sollen – oder ob deine Muskeln durchgängig angesprochen werden. 
+**Aufgepasst**: In manchen Programmen ist die Pause notwendig. 
+Mehr dazu erfährst du in Kapitel „Programme“. 
+
+#### Anstiegsassistent 
+
+Hast du neue Intensitäten eingestellt, deine Memory Intensität abgerufen 
+oder startest das Programm nach einer kleinen Pause neu, 
+kommt der Anstiegsas&shy;sistent zum Einsatz. 
+Er sorgt dafür, dass die Stimula&shy;tion sich langsam steigert. 
+Diese Optionen hast du: 
+- Sensitiv: 2 Intensitätspunkte pro Sekunde 
+- Standard: 3 Intensitätspunkte pro Sekunde 
+- Schnell: 5 Intensitätspunkte pro Sekunde 
+Mehr dazu erfährst du in Kapitel „Anstiegsassistent“. 
+
+### Trainingssteuerung 
+
+- Programm vorzeitig beenden 
+- Zeitleiste deines laufenden Programms 
+- Steuerung der einzelnen Elektroden, 
+  je nach&shy;dem, welche Textilien du verwendest. 
+  Du kannst alle gleichzeitig oder nur einzelne Muskelgruppen auswählen. 
+  Eine Mehr&shy;fachauswahl ist ebenfalls möglich. 
+  Auswahl löschen Power-Button – mit diesem startest und pausierst du ein Programm. Klickflächen „Plus“ und „Minus“, um die Intensität zu erhöhen oder zu reduzieren. Stimulationsintervall&shy;anzeige analog zum LED-Ring deines Boosters. Sie füllt sich während der stimu&shy;lierten Intervalle im Duty Cycle. Bei einer konstanten Stimulation leuchtet auch der Ring gleichbleibend. Du möchtest die Einstellungen speichern? Dann kannst du im Anschluss an das Training die Memory Intensität nutzen! Mehr dazu erfährst du direkt im folgenden Kapitel „Hilf&shy;reiche Funktionen“. 
+#### Stimulationsprüfung 
+
+Gibt es ein Problem, erscheint ein gelbes Steckersymbol über einer Elektrode. 
+Das kann der Grund sein:
+- Die Elektrode hat nicht genug Kontakt zu deiner Haut. 
+  Korrigiere bitte den Sitz deiner Antelope Textilie.
+- Die Impulsübertragung ist beeinträchtigt. 
+  Trage Elektrodenkontaktmittel auf, um sie zu verbessern. 
+Kannst du das Problem nicht beheben? Unser Kundenservice hilft dir gerne weiter! 
+Wie du ihn erreichst, erfährst du unter „Mehr“. 
+
+Es kann vorkommen, 
+dass du die Stimulation an manchen Muskelgruppen kaum oder gar nicht spürst. 
+Wird die Elektrode grün angezeigt, 
+funktioniert die elektrische Muskelstimu&shy;lation dennoch wie gewünscht. 
+Du solltest die Stimulation nicht erhöhen. 
+
+## HILFREICHE FUNKTIONEN 
+
+### Memory Intensität 
+
+Hast du ein Programm absolviert, kannst du deine eingestellte Intensität speichern. 
+Dabei berech&shy;net die App automatisch die durchschnittliche Intensität jedes Elektrodenpaares dieses Trainings. Das nennen wir Memory Intensität. Startest du dieses Programm das nächste Mal, kannst du direkt mit diesen Werten loslegen. Das Pro&shy;gramm fährt sie dann automatisch gemäß deines Anstiegsassistenten hoch. Die App „Antelope Go“ bietet dir mehr als 40 Programme – und jedes ist einzigartig. Des&shy;wegen musst du auch jedes einzeln einstellen. Du musst das Programm also einmal trai&shy;nieren, damit du die Memory Intensität speichern kannst. Die App fragt dich nach jedem Training automatisch, ob du deine Werte speichern möchtest und hilft dir dabei, die rich&shy;tige Intensität für dich zu finden. 
+### Anstiegsassistent 
+
+Hast du neue Intensitäten eingestellt, deine Memory Intensität abgerufen 
+oder startest das Programm nach einer kleinen Pause neu, 
+kommt der Anstiegsassistent zum Einsatz. 
+
+Er sorgt dafür, dass die Sti&shy;mulation sich langsam steigert 
+und nicht gleich in die Vollen geht. Diese Optionen hast du:
+- Sensitiv: 2 Intensitätspunkte pro Sekunde
+- Standard: 3 Intensitätspunkte pro Sekunde
+- Schnell: 5 Intensitätspunkte pro Sekunde 
+
+#### Anstiegsassistent stoppen: 
+Merkst du, dass dir die Intensität zu stark wird, 
+kannst du den Anstiegsassistenten stoppen. Dafür hast du zwei Möglichkeiten: 
+1. Drücke die „Minus-Taste“ auf dem Booster oder im Steuerungsscreen der App. 
+   Die Intensität bleibt auf dem aktuellen Wert stehen. 
+   Wenn du willst, kannst du sie jetzt weiter reduzieren. 
+2. Pausiere mit der „Power-Taste“ des Boosters oder im Steuerungsscreen. 
+   Startest du das Programm wieder, fährt es nur bis zur zuletzt verwendeten Intensitätsstufe hoch. 
+### 6.3 Favoriten-Programm 
+
+Du hast dein Lieblingsprogramm gefunden und deine Trainingsroutine steht fest? 
+Perfekt! 
+Dann speicherst du es mithilfe dieser Funktion auf der Favoriten-Taste am Booster. 
+So trainierst du ganz einfach und schnell ohne die App mit allen deinen Konfigurationen: Memory Intensitäten, Dauer, An&shy;stiegsassistent und ggf. Stimulationsintervall (Duty Cycle). 
+Das Favoriten-Programm stellst du über die App ein. 
+Dazu muss die App mit dem Booster verbunden sein. 
+
+Es gibt zwei Wege: 
+1. Gehe über die Startseite der App direkt auf das „Favoriten-Programm“. 
+2. Unter „Mehr“ kommst du auf „Mein Equipment“. Hier wählst du den Booster und anschließend dein „Favoriten-Programm“. Folge nun der App bis zum gewünschten EMS Programm. Stelle es so ein, wie du es dir wünschst und bestätige. Ab sofort kannst du das Programm über die Blitzsymbol-Taste auf deinem Booster starten. Du erkennst das Programm in der Programmliste an dem Fähnchen an der rechten Seite. 
+### 6.4 Körperwerte speichern 
+
+Im Menüpunkt „Erfolge“ findest du auch den Reiter „Körperwerte“. 
+Hier kannst du tracken, wie sich dein Körper verändert. Speichere die Tageswerte von:
+- Gewicht
+- Körperfettanteil
+- Muskelanteil
+- Wasseranteil 
+Das geht auf zwei Wegen: 
+1. Manuell, 
+   klicke dafür auf den Button „Daten manuell hinzufügen“ am Ende des Screens. 
+2. Automatisch über eine beurer Smartwaage und die App „beurer HealthManager Pro“ (die Daten müssen hier korrekt erfasst sein). 
+Aktiviere dafür den Regler „Daten synchronisieren“ unter „Körper&shy;werte“ am Ende des Screens. 
+## PROGRAMME 
+
+### Warm Up & Cool Down 
+Unser Warm Up Programm bereitet deinen Körper auf das Workout vor. 
+Es sorgt so für einen guten Trainingseinstieg. 
+Mit dem Cool Down Programm hilfst du deinen Muskeln dabei, 
+nach dem Training „herunterzufahren“ oder langsam „auszulaufen“. 
+
+| Training  | Beschreibung                                                                                                                                                                                                                                                                              | Hz   | µs  |  ms | Duty Cycle | Min |
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | --- | --: | ---------- | --- |
+| Warm Up   | Ready, set, go! Wärme dich auf und bereite deine Muskeln auf die nächste Trainingseinheit vor. Die Häufigkeit (Frequenz) der Reize nimmt dabei langsam zu: von 7 auf 40 Stimulationen pro Sekunde. Du kannst dabei den Zeitraum wählen, in dem diese Steigerung stattfindet.              | 7-40 | 350 |  28 | -          | 3,6 |
+| Cool Down | Training geschafft? Super – jetzt erst mal runterkommen und schon mit der ersten Regeneration für deine Muskeln beginnen. Die Häufigkeit (Frequenz) der Stimulation nimmt dabei langsam ab: von 40 auf 7 Stimulationen pro Sekunde. Du kannst einen Zeitraum von 3 oder 6 Minuten wählen. | 40-7 | 350 |   5 | -          | 3,6 |
+
+### Fitness 
+Jeder Mensch ist individuell und hat seine ganz eigenen Ziele. 
+Deswegen gibt es nicht ein Fitness-Pro&shy;gramm für alle. 
+In dieser Kategorie findest du das, was genau zu deinen Trainingsbedürfnissen passt, 
+von unterstützendem Rücken- oder Beckenbodentraining 
+bis hin zu einem HIIT-Workout, das dich ins Schwitzen bringt. 
+
+| Training          | Beschreibung                                                                                                                                                                                                                                                                                                                                                                       | Hz     | µs       | ms  | Duty Cycle                                | Dauer (Min.)      |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- | --- | ----------------------------------------- | ----------------- |
+| Kraft             | Das klassische EMS Kraft-Programm: Für starke Muskelkon&shy;traktionen und eine erhöhte Tiefenwirkung. Es eignet sich für viele Trainingsarten und Übungen für den gezielten Kraft&shy;aufbau. Eine große Auswahl an Stimulationsintervallen (Duty Cycles) vereinfacht eine Integration in jeden Trainingsplan.                                                                    | 85     | 350      | 60  | [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 5, 10, 15, 20     |
+| Fitness           | Hervorragend für dynamische Bewegungen, viele Sport&shy;arten und Ausdauereinheiten. Unser Fitness-Programm ist ein echter Allrounder. Es sendet durchgehend Impulse für ein effektives Maximalkraft- und Kraftausdauertraining an deine Muskeln. Sport- und Fitnessbegeisterte lieben dieses Programm wegen seiner großen Vielfalt.                                               | 40     | 350      | 28  | –                                         | 5, 10, 15, 20     |
+| Fatburn           | 40 Sekunden Kraft, 20 Sekunden Fatburner: Dieses Programm unterstützt ein funktionelles Training und aktiviert deinen Stoffwechsel. In den ersten 40 Sekunden geht es um die Belastung deiner Muskeln. In den folgenden 20 Sekunden ist das Ziel, die Durchblutung der oberen Haut- und Fettschich&shy;ten anzukurbeln.                                                            | 85     | 350      | 60  | [4,4]                                     | 5, 10, 15, 20     |
+| Cardio            | Neue Impulse für dein Ausdauer- und Cardiotraining gesucht? Dann versuche es einmal mit unserem Cardio-Pro&shy;gramm. Die kontinuierliche Muskelstimulation erlaubt einen hohen Freiheitsgrad bei der Integration in dein Training. Die geringere Impulsdauer von 250 µs eignet sich zudem auch hervorragend für längere Trainingseinheiten von bis zu 25 Minuten.                 | 40     | 250      | 20  | –                                         | 5, 10, 15, 20, 25 |
+| HIIT Allrounder   | Wähle dieses Kombinations-Programm, um dein High-Inten&shy;sity-Interval-Training zu unterstützen. Das bewährte EMS Programm “Kraftausdauer - Basis“ ist die Grundlage für dein Training. Powere dich in den wählbaren Stimulationsinter&shy;vallen (Duty Cycles) 20-10, 30-30 und 40-20 bei intensiven Muskelkontraktionen aus.                                                   | 40     | 350      | 28  | –                                         | 4, 5, 8, 10, 15   |
+| HIIT Combo        | Intervall-Training plus EMS? Das geht – und haut richtig rein. Du solltest schon Erfahrung mit HIIT haben, bevor du dich hier dran wagst. Noch da? Dann halte dich fest: Ein Intervall dauert 80 Sekunden. 40 Sekunden Kraft, 20 Sekunden Aus&shy;dauer und 20 Sekunden Regeneration. So bleibst du immer auf Betriebstemperatur und hast gleichzeitig vielfältige Trainingsreize. | 40-85  | 150- 400 | 68  | [4,4]                                     | 4, 8, 12          |
+| HIIT Antelope     | Willkommen zum Intervall-Training der besonderen Art: Das Antelope HIIT-Programm verlangt Höchstleistungen von dir und deinem Körper. 30 Sekunden setzen sich aus 20 Sekun&shy;den besonders intensivem Kraftprogramm und 10 Sekunden aktiver Regeneration zusammen. Das Kraftintervall erfolgt in einem Duty Cycle von 5 Sekunden.                                                | 20-95  | 350- 400 | 76  | [5,5]                                     | 4, 8, 12, 15      |
+| HIIT Kraft-Aufbau | In kurzer Zeit viel Kraft aufbauen? Das geht mit diesem High&shy;Intensity-Interval-Programm. 40 Sekunden lang bewirken die Impulse, dass deine Muskeln kraftvoll angesprochen werden. Darauf folgt eine 20-sekündige Ruhepause.                                                                                                                                                   | 85     | 350      | 60  | [4,4]                                     | 4, 5, 8, 10, 15   |
+| Rücken            | Längere Impulse von 400 µs dringen tief in die Muskulatur ein: Dieses Programm richtet sich speziell an die großen und tief liegenden Muskeln. Das Programm eignet sich für viele Trainingsarten und intensive Workouts zum Kraftaufbau. Eine große Auswahl an Stimulationsintervallen (Duty Cycles) verein&shy;facht eine Integration in jeden Trainingsplan.                     | 85     | 400      | 68  | [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 5, 10, 15, 20     |
+| Becken&shy;boden  | Die Körpermitte stärken, mit effektivem Beckenbodentrai&shy;ning und dem richtigen EMS Programm! Du trainierst 15 Minuten lang deinen Beckenboden mit dem Maximalkraft&shy;Basis-Programm. Darauf folgen 5 Minuten mit 100 Hertz in einem einsekündigen Intervall – das setzt einen besonders intensiven Reiz.                                                                     | 85-100 | 150- 350 | 70  | [4,4] [1,1]                               | 20                |
+
+### Sport 
+
+EMS soll dir helfen, in deinem Sport noch besser zu werden? 
+Von Laufen bis Radfahren, Boxen bis Ten&shy;nis – 
+in dieser Kategorie findest du eine Vielzahl an Sportarten 
+und darauf zugeschnittene Programm&shy;einstellungen. 
+Sie begleiten dich zu deinen Trainingszielen wie anstehende Matches oder Wettkämpfe. 
+
+| Training           | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                      |    Hz |        µs |  ms | Duty Cycle | Dauer (Min.)         |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----: | --------: | --: | ---------- | -------------------- |
+| Laufen             | Power dich so richtig aus und erhöhe deine Trainingsintensi&shy;tät beim Laufen oder Joggen. Tipp: Starte das Programm erst kurz nachdem du dein Training begonnen und dich schon aufgewärmt hast. So hast du direkt eine gute Verbindung der Elektroden mit der Haut geschaffen.                                                                                                                 |    40 |       350 |  28 | -          | 5, 10, 15, 20, 25 24 |
+| Fahrrad            | Tritt in die Pedale, während das EMS Programm deine Mus&shy;keln zusätzlich stimuliert: Die kontinuierlichen Reize sind auf die Belastung beim Radfahren abgestimmt. Wähle zwischen kurzen Trainings mit hoher Intensität und längeren Trainings mit niedriger Intensität.                                                                                                                        |    40 |       250 |  20 | –          | 5, 10, 15, 20, 25    |
+| Boxen              | Jab, Cross, Punches – im Ring sind Ausdauer, Schnellkraft und Schlagkraft mitentscheidend über den Erfolg. Das Boxpro&shy;gramm sendet kontinuierlich Impulse an deine Muskeln. So machst du garantiert eine gute Figur, ob am Sandsack oder vor dem Spiegel. Die Impulslänge von 400 µs sorgt dafür, dass deine Muskulatur in der Tiefe aktiviert wird.                                          |    40 |       400 |  32 | –          | 5, 10, 15, 20        |
+| Ski                | Bei der Skiabfahrt kommen unterschiedliche Belastungen auf deine Muskeln zu. Dieses High-Intensity-Interval-Programm spiegelt den Wintersport wider: Beine und Rumpf empfangen in nur 80 Sekunden verschiedene Trainingsimpulse. Auf 40 Sekunden Kraft folgen je 20 Sekunden Ausdauer und 20 Sekunden Regeneration. Das bedeutet, dass sich die Frequenz ändert: 85 Hertz, 40 Hertz und 20 Hertz. | 20-85 | 150 - 400 |  68 | [4,4]      | 4, 8, 12             |
+| Golf               | Verbessere deine Stabilität und Abschlaggeschwindigkeit, ohne an Dynamik zu verlieren. Setze das Golf-Programm begleitend zu deinen normalen Übungen ein. Tipp: Trainiere mit EMS Unterstützung 2x in der Woche.                                                                                                                                                                                  |    40 |       350 |  28 | –          | 5, 10, 15, 20        |
+| Tennis             | Spiel, Satz und Sieg: Hole mehr aus deinem Tennis-Trai&shy;ning heraus! Trainiere deine Kraftausdauer und mach dich fit für das nächste Tennis-Match. Das Tennis-Programm ist hervorragend geeignet, um deine Schlagkraft und explosive Bewegungen intensiver zu trainieren.                                                                                                                      |    40 |       400 |  32 | –          | 5, 10, 15, 20        |
+| Crossfit           | Was ist heute das Workout of the Day? Maximalkraft oder Kraftausdauer? Egal, was ansteht, mit diesem Programm holst du so einiges aus der Übung raus und setzt einen intensiven Trainingsreiz! Denn dieses EMS Programm ist genauso viel&shy;fältig wie CrossFit selbst: 40 Sekunden Kraft gefolgt von je 20 Sekunden Ausdauer und 20 Sekunden Regeneration.                                      | 20-85 |  150- 400 |  68 | [4,4]      | 4, 8, 12             |
+| Aktivierung        | Wärme dich und deine Muskeln vor dem Wettkampf auf: Das Programm regt die Durchblutung an und bringt dich auf Betriebstemperatur. Verschiedene Frequenzen sorgen dafür, dass du gut auf die Belastung vorbereitet bist.                                                                                                                                                                           |  5-70 |  300- 350 |  49 | [4,4]      | 10                   |
+| Nach dem Wettkampf | Nach dem Wettkampf ist vor dem Wettkampf: Dieses Pro&shy;gramm fördert die aktive Erholung. So kannst du bald wieder ins Training einsteigen. Eine Vielfahl an Frequenzen lockern deine Muskeln auf und fördern die Durchblutung. Tipp: Wähle deine Intensitäten passend zu deiner vorange&shy;gangenen Wettkampfbelastung.                                                                       | 5-100 |  200- 350 |  70 | [1,1]      | 11                   |
+| Resistance         | Eine kurze Einheit von 9 Minuten, um deine Resistenz zu fördern und dich vorzubereiten. Das Programm verwendet 3 unterschiedliche Frequenzen: 50, 60 und 70 Hertz, um deine Muskeln in einem größeren Spektrum zu aktivieren. Die Im&shy;pulslänge von 300 µs sorgt für eine moderate Ansprache.                                                                                                  |  5-70 |       300 |  42 | [4,4]      | 9                    |
+
+### Kraftaufbau 
+
+Unterstütze mit EMS dein Krafttraining: Ob Maximalkraft, Kraftausdauer oder Schnellkraft – 
+für jedes Ziel findest du das passende Training mit vielen unterschiedlichen Duty Cycle Optionen. 
+Wir haben eine Auswahl für jedes Leistungsniveau, von Anfänger bis Profi. 
+Du erkennst die Intensität am Trainingsnamen. 
+
+| Training                     | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                             | Hz      | µs  | ms  | Duty Cycle                                      | Min               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- | --- | --- | ----------------------------------------------- | ----------------- |
+| Maximal-kraft - Einstieg     | Gut geeignet für EMS Einsteiger, die ihre Maximalkraft stei&shy;gern möchten. Das Progamm startet mit einer im Vergleich zu den anderen Kraftprogrammen niedrigeren Frequenz – so kannst du dich langsam an die Stimulation gewöhnen.                                                                                                                                                                                    | 75      | 350 | 52  | [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4]       | 5, 10, 15, 20     |
+| Maximal-kraft - Basis        | Intensive Muskelkontraktionen mit dem EMS Klassiker schlechthin. Dieses Basisprogramm unterstützt dein Training durch eine erhöhte Tiefenwirkung und ist für viele Trainings&shy;arten sehr gut geeignet. Eine große Auswahl an Stimulations&shy;intervallen (Duty Cycles) vereinfacht eine Integration in jeden Trainingsplan.                                                                                          | 85      | 350 | 60  | [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4]       | 5, 10, 15, 20     |
+| Maximal&shy;kraft - Intensiv | Der Name ist Programm und richtet sich an Fortgeschrittene, die einen überschwelligen Trainingsreiz setzen wollen. Bei einer intensiven Muskelstimulation von 95 Hertz und einer hohen Impulslänge von 400 µs bringst du deinen Körper ans Limit. Tipp: Starte moderat ins Training und passe die Intensität an deinen Trainingsload an.                                                                                 | 95      | 400 | 76  | [2,2] [4,2] [4,4] [6,4] [6,6] 5, 10, 15, 20     |                   |
+| Maximal&shy;kraft - Dynamic  | Verhindere, dass deine Muskeln sich an die Belastung gewöh&shy;nen – ohne dir Gedanken über das EMS Programm zu machen: Das Dynamic-Programm variiert zufällig die Impulsfrequenz. Mit 75 bis 95 Hertz trainierst du wie gewohnt die Maximalkraft. Setze zuverlässig Trainingsreize und behalte gleichzeitig deinen Trainingsplan bei. Also lass dich von uns überraschen und viel Spaß beim Schwitzen :)                | 75-95   | 350 | 67  | [2,2] [4,2] [4,4] [6,4] [6,6]                   | 5, 10, 15, 20     |
+| Schnellkraft - Einstieg      | Für den Einstieg und die ersten Trainings: Dieses Schnellkraft&shy;Programm hat eine vergleichsweise niedrige Impulslänge von 300 µs, wodurch der Reiz weniger tief wirkt. Das belastet die Muskeln weniger.                                                                                                                                                                                                             | 100     | 300 | 60  | [1,1] [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 5, 10, 15, 20     |
+| Schnellkraft - Basis         | Du willst deine Schnell- und Explosivkraft verbessern? Mit diesem Programm machst du einen Schritt in die richtige Richtung. Denn dieses Programm eignet sich für unterschied&shy;liche Übungsformen und du kannst aus einer Vielzahl an Stimulationsintervallen (Duty Cycles) frei wählen.                                                                                                                              | 100     | 350 | 70  | [1,1] [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 5, 10, 15, 20 26  |
+| Schnellkraft - Intensiv      | Ein Programm für Fortgeschrittene, die einen wirklich intensi&shy;ven Trainingsreiz setzen wollen. Die hohe Muskelstimulation mit einer Impulslänge von 400 µs sorgt für starke Kontraktio&shy;nen und bringt deinen Körper ans Limit. Tipp: Starte moderat ins Training und passe die Intensität an deinen Trainingsload an.                                                                                            | 100     | 400 | 80  | [1,1] [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 5, 10, 15, 20     |
+| Schnellkraft - Dynamic       | Verhindere, dass deine Muskeln sich an die Belastung ge&shy;wöhnen – ohne dir Gedanken über das EMS Programm zu machen: Das Dynamic-Programm variiert zufällig die Impuls&shy;frequenz. <br>Mit 100 bis 110 Hertz trainierst du wie gewohnt die Schnellkraft. <br>Setze zuverlässig Trainingsreize und behalte gleichzeitig deinen Trainingsplan bei. Also lass dich von uns überraschen und viel Spaß beim Schwitzen :) | 100-110 | 350 | 77  | [1,1] [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 5, 10, 15, 20     |
+| Kraft-Ausdauer - Einstieg    | Für den Einstieg und EMS Anfänger, die ihre Kraftausdauer trainieren möchten. Mit einer vergleichsweise niedrigeren Impulslänge von 250 µs werden die Muskeln nicht ganz so intensiv belastet. Gut geeignet für den Start sowie für erste oder längere Einheiten.                                                                                                                                                        | 40      | 250 | 20  | –                                               | 5, 10, 15, 20, 25 |
+| Kraft-Ausdauer - Basis       | Dein treuer Begleiter für ein effektives Kraftausdauertraining - oder für deinen Lieblingssport: Ob Laufen, Radsport, Boxen, Rudern, Kanufahren oder Skilanglauf. Die kontinuierlichen Im&shy;pulse eignen sich hervorragend für dynamische Bewegungen, viele Sportarten und Ausdauerübungen. Gerade bei Sportlern und bei Ausdauerspezialisten ist das Programm sehr beliebt.                                           | 40      | 350 | 28  | –                                               | 5, 10, 15, 20, 25 |
+| Kraft-ausdauer - Intensiv    | Das Programm eignet sich für schweißtreibende und gute Ausdauertrainings. Eine Impulslänge von 400 µs sorgt für starke Muskelkontraktionen – eines der bewährtesten Antelope Programme. Es ist eher für Fortgeschrittene geeignet, da die Belastung recht hoch ist. Tipp: Starte moderat ins Training und passe die Intensität an deinen Trainingsload an.                                                               | 40      | 400 | 32  | –                                               | 5, 10, 15, 20, 25 |
+
+### Regeneration 
+
+EMS hilft dir dabei, dich nach einem Training oder Workout zu erholen. 
+Diese Programme senden auflockernde und entspannende Stimulationen in deine Muskeln, 
+die wie eine Massage funktionieren. 
+
+Das tut Körper und Geist gut und fördert die Regeneration. 
+
+| Training                        | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |     Hz |  µs |  ms | Duty Cycle                                      | Min                  |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -----: | --: | --: | ----------------------------------------------- | -------------------- |
+| Regeneration aktiv - Basis      | Aktiv Regenerieren heißt einen spürbaren Reiz zu setzen, ohne den Körper stark zu belasten. Das Basis-Programm für aktive Erholung hat zwei Vorteile. Dein Blut fließt ver&shy;stärkt durch deine Muskeln und dein Stoffwechsel kommt in Schwung. Was bringt dir das? Deine Muskeln regenerieren besonders gut. Die Intensität ist dementsprechend gering: 150 µs und 100 Hertz.                                                                                                                      |    100 | 150 |  30 | [1,1] [2,2]                                     | 5, 10, 15, 20, 25    |
+| Regeneration aktiv - Intensiv   | Regeneration ist ein wichtiger Teil des Trainings. Das Intensiv&shy;Programm für aktive Erholung hat eine höhere Intensität als die Basis-Version: 200 µs Impulslänge und 100 Hertz. Du aktivierst die Muskeln dadurch etwas intensiver. Mit dem Programm wird deine Durchblutung angeregt und der Abbau deiner Stoffwechselprodukte gefördert.                                                                                                                                                       |    100 | 200 |  40 | [1,1] [2,2]                                     | 5, 10, 15, 20, 25    |
+| Regeneration aktiv - Countdown  | Das Programm unterstützt dich bei deiner Regeneration, während du Übungen mit einer leichten Belastung ausführst. Von 100 Hertz senken wir die Frequenz kontinuierlich bis auf 60 Hertz. Deine Muskulatur wird durch ein breites Spektrum an Impulsfrequenzen angesprochen. Durch die eher geringe Impulslänge von 200 µs sind die Muskelkontraktionen nicht zu intensiv und können die Regeneration fördern.                                                                                         | 100-60 | 200 |  40 | [1,1]                                           | 5, 10, 15, 20        |
+| Regeneration passiv - Basis     | Ausschütteln und auflockern: Das Programm unterstützt durch die Verwendung der sogenannten Schüttelfrequenzen die Durchblutung und den Stoffwechsel. Deine Muskeln werden in wechselnden Frequenzen (5 bis 20 Hertz) stimuliert. Da keine vollständigen Muskelkontraktionen ausgelöst werden, fühlt es sich eher wie eine Massage an. Daher empfehlen wir auch keine Übungen zu diesem Programm zu machen. Also ruh dich aus und lass den Anzug für dich arbeiten ;)                                  |   5-20 | 200 |   8 | –                                               | 2, 4, 6, 8           |
+| Regeneration passiv - Intensiv  | Lass dich mal so richtig durchschütteln – und gönne deinen Muskeln was: Dieses vergleichsweise intensive und passive Regenerationsprogramm hat es in sich. Die sogenannten Schüttelfrequenzen (5-20 Hertz) regen deine Durchblutung und den Stoffwechsel an. Da keine vollständigen Muskel&shy;kontraktionen ausgelöst werden, fühlt es sich eher wie eine Massage an. Daher empfehlen wir auch keine Übungen zu diesem Programm zu machen. Also ruh dich aus und lass den Anzug für dich arbeiten ;) |   5-20 | 350 |  14 | –                                               | 2, 4, 6, 8           |
+| Regeneration passiv - Countdown | Ausschütteln und auflockern: Dieses Programm ermöglicht dir eine passive Regeneration. Deine Muskeln werden in ab&shy;steigenden Frequenzen (40 bis 7 Hertz) stimuliert. Das regt die Durchblutung und den Stoffwechsel an. Du kannst dich während des Programms komplett entspannen, ein Training ist nicht empfohlen. Wähle einen Zeitraum von 3 oder 6 Minuten.                                                                                                                                    |   40-7 | 200 |  16 | [1,1] [2,2] [4,2] [4,4] [6,4] [6,6] [8,2] [8,4] | 3, 6                 |
+| Metabolismus                    | Das Metabolismus-Programm hat zwei Funktionen: Zum einen regt es deinen Stoffwechsel, zum anderen die Durchblutung der Haut und der darunterliegenden Fettschichten an. Dazu wird eine niedrige Frequenz von 7 Hertz verwendet.                                                                                                                                                                                                                                                                       |      7 | 350 |   5 | –                                               | 5, 10, 15, 20, 25    |
+| Mindful Regeneration            | Vereine Achtsamkeit und Erholung mit „Mindful Regeneration“. Eine Welle der Entspannung und Regeneration für dich: Dieses einzigartige Programm steuert die Elektroden nachein&shy;ander an und verschafft dir ein einmaliges Erlebnis. Tipp: Lass zusätzlich Entspannungsmusik laufen, mach eine Atem- oder Meditationsübung und lass dich Welle für Welle davontreiben.                                                                                                                             |     50 | 200 |  20 | –                                               | 5, 10, 15, 20, 25    |
+| Massage                         | Lehne dich zurück und genieße die niedrigen Frequenzen mit dem Massage-Programm. Das lockert deine Muskeln auf und fördert so die Regeneration. Du musst währenddessen auch keine Übungen machen, sondern kannst dich auf die Reize konzentrieren.                                                                                                                                                                                                                                                    |    1-5 | 200 |   2 | –                                               | 5, 10, 15, 20, 25 28 |
+
+### Spalten 
+
+#### Intensität in %
+
+Die Intensität bestimmt die Impulsstärke, das heißt, 
+wie viel elektrische Ladung in einer bestimmten Zeit fließt. 
+Je intensiver, desto mehr Muskelfasern werden angesprochen. 
+
+#### Frequenz in Hz
+
+Die Frequenz bestimmt, wie oft ein elektrischer Impuls innerhalb einer bestimmten Zeit auftritt. 
+Dar&shy;aus ergibt sich, wie oft einzelne Muskelfasern kontrahieren. 
+Diesen Wert kannst du bei den Antelope Programmen nicht ändern. 
+
+#### Impulslänge (Impulsdauer) in µs 
+
+Die Impulslänge oder auch Impulsdauer beschreibt die Zeit, in der elektrische Impulse in die Muskulatur fließen. 
+Je länger, desto intensiver und tiefer wird der Muskel angesprochen. 
+
+#### GesamtImpulslänge in ms/s  
+
+Das Produkt aus Frequenz und Impulslänge ergibt den Gesamtanteil in ms von 1000 pro Sekunde. 
+Wie man sehen kann, werden Muskeln max. 80ms/s also 8% der Zeit aktiviert.  
+
+#### Duty Cycle in s 
+
+Das Stimulationsintervall, auch Duty Cycle genannt, 
+bestimmt das Verhältnis der Stimulationsphasen und der Stimulationspausen während eines Trainings. 
+Einige EMS Programme erfordern diese Pausen für deine Muskulatur. 
+
+Du findest in der App zwei Varianten: 
+BEISPIEL ON TIME = 4 Sekunden Stimulationsphase OFF TIME = 4 Sekunden Stimulationspause Ein Stimulationsintervall (Duty Cycle) 4S ON 4S ON 4S ON 4S OFF 4S OFF 4S OFF 
+IMPULS ZEIT ON TIME = konstant und durchgängig ON IMPULS ZEIT 
+
+##### Programme mit Duty Cycle: 
+
+Bei einigen Programmen ist ein Stimulations-Intervall notwendig. Dieser könnte so aussehen: Beispiel: Du wählst ein Programm mit dem Duty Cycle „4 Sek ON, 4 Sek OFF“. 
+Dieses läuft nun mit einem sich wiederholenden Intervall aus vier Sekunden Stimulation und vier Sekunden Pause. 
+In dieser Zeit füllt sich der LED-Ring des Boosters, bzw. leert sich in der Pause wieder. Du kannst das auch im Steuerungsscreen der App erkennen. 
+Bei manchen Programmen ist der Duty Cycle fest vorgegeben, bei anderen darfst du wählen. Pro&shy;biere aus, wie es sich für dich gut anfühlt! 
+
+##### Programme ohne Duty Cycle: 
+
+Bei manchen Programmen gibt es keinen Duty Cycle. Hier werden deine Muskeln durchgängig stimuliert. 
+
+## REINIGUNG UND PFLEGE 
+
+Befolge bitte die Tipps und Hinweise, damit deine Produkte möglichst lange gut funktionieren. 
+
+### Wasch- und Pflegehinweise der Textilie 
+
+So wäschst du deine EMS Textilien richtig:
+
+- Die EMS Textilien können via Handwäsche oder in der Waschmaschine gereinigt werden.
+- Die Waschmaschine sollte möglichst voll sein. So verhinderst du, dass die Halterung des Boosters gegen die Trommel schlägt.
+- Wähle dazu einen Schonwaschgang mit max. 30° C. Die Maschine sollte bei höchstens 800 Umdrehungen schleudern. DEUTSCH 28 29
+- Verwende beim Waschen keinen Weichspüler. Die Textilien dürfen nicht chemisch gereinigt oder gebleicht werden.
+- Wasche den Booster auf keinen Fall mit!
+- Verwende das mitgelieferte Wäschenetz, um dein Kleidungsstück zu schützen.
+- Am Wäschenetz sind grüne Waschkappen angebracht. Stülpe diese vor dem Waschen über die USB-C-Stecker. Denk daran, diese nach dem Waschen wieder zu entfernen. Achtung! Die Textilien können abfärben! Nach der Wäsche:
+- Du darfst deine Textilien nicht im Wäschetrockner trocknen.
+- Wringe die Textilien nicht aus.
+- Bügele die Textilien nicht.
+- Lagere die EMS Texilien und den Booster nicht in direkter Sonneneinstrahlung, sondern am besten geschützt im Schrank. Reinigung und Pflege des Boosters So pflegst du den Booster richtig:
+- Reinige den Booster ausschließlich mit einem feinen Mikrofasertuch.
+- Verwende keine chemischen Reiniger oder Scheuermilch.
+- Stecke Booster oder Ladekabel niemals in die Waschmaschine.
+- Bewahre ihn am besten immer an einem kühlen, trockenen Ort in der dafür vorgesehenen Booster-Tasche auf. 
+
+## ZUBEHÖR- UND ERSATZTEILE 
+
+Du brauchst ein Ersatzteil oder willst dein Antelope Equipment aufstocken? 
+Folgende Produkte kannst du bei uns erwerben:
+- Antelope Evolution Booster
+- EMS Shirt Damen in den Größen XS–XL
+- EMS Shirt Herren in den Größen S–XXL
+- EMS Tank Top Damen in den Größen XS–XL
+- EMS Tank Top Herren in den Größen S–XXL
+- EMS Shorts Damen in den Größen XS–XL
+- EMS Shorts Herren in den Größen S–XXL
+- EMS Leggings Damen in den Größen XS–XL
+- EMS Leggings Herren in den Größen S–XXL
+- Elektrodenkontaktgel
+- Elektrodenkontaktspray Du findest alle Produkte in unserem Shop auf www.antelope-shop.com. 
+
+## ENTSORGUNG 
+
+Im Interesse des Umweltschutzes darf das Gerät am Ende seiner Lebensdauer nicht mit dem Haus&shy;müll entfernt werden. 
+Die Entsorgung kann über entsprechende Sammelstellen in deinem Land erfolgen. 
+Entsorge das Gerät gemäß der Elektro- und Elektronik-Altgeräte EG-Richtlinie – WEEE (Waste Electrical and Electronic Equipment). 
+Bei Rückfragen wende dich an die für die Entsorgung zuständige kommunale Behörde. 
+
+Die verbrauchten, vollkommen entladenen Batterien musst du über speziell gekennzeichnete Sammel&shy;behälter, Sondermüllannahmestellen oder über den Elektrohändler entsorgen. 
+Du bist gesetzlich dazu verpflichtet, die Batterien zu entsorgen. 
+
+Hinweis: Diese Zeichen findest du auf schadstoffhaltigen Akkus:
+- Pb = Batterie enthält Blei
+- Cd = Batterie enthält Cadmium
+- Hg = Batterie enthält Quecksilber 
+
+### Hinweise für Verbraucher zur Altgeräteentsorgung und Verschrottung in Deutschland 
+
+Besitzer von Altgeräten können diese im Rahmen der durch die öffentlich-rechtlichen Entsorgungs&shy;träger eingerichteten und zur Verfügung stehenden Möglichkeiten der Rückgabe oder Sammlung von Altgeräten unentgeltlich abgeben, damit eine ordnungsgemäße Entsorgung der Altgeräte si&shy;chergestellt ist. 
+Die Rückgabe ist gesetzlich vorgeschrieben. 
+Außerdem ist die Rückgabe unter bestimmten Voraussetzungen auch bei Vertreibern möglich. 
+Gemäß Elektro- und Elektronikgerätegesetz (ElektroG) 
+sind die folgenden Vertreiber zur unentgeltlichen Rück&shy;nahme von Altgeräten verpflichtet:
+- Elektro-Fachgeschäfte, mit einer Verkaufsfläche für Elektro- und Elektronikgeräte von mindestens 400 Quadratmetern
+- Lebensmitteläden mit einer Gesamtverkaufsfläche von mindestens 800 Quadratmetern, die mehr&shy;mals pro Jahr oder dauerhaft Elektro- und Elektronikgeräte anbieten und auf dem Markt bereit&shy;stellen.
+- Versandhandel, wobei die Pflicht zur 1:1-Rücknahme im privaten Haushalt nur für Wärme&shy;überträger (Kühl-/Gefriergeräte, Klimageräte u.a.), Bildschirmgeräte und Großgeräte gilt. Für die 1:1-Rücknahme von Lampen, Kleingeräten und kleinen IT- u. Telekommunikationsgeräten sowie die 0:1-Rücknahme müssen Versandhändler Rückgabemöglichkeiten in zumutbarer Entfernung zum Endverbraucher bereitstellen. 
+
+Diese Vertreiber sind verpflichtet,
+- bei der Abgabe eines neuen Elektro- oder Elektronikgerätes an einen Endnutzer ein Altgerät des Endnutzers der gleichen Geräteart, das im Wesentlichen die gleichen Funktionen wie das neue Ge&shy;rät erfüllt, am Ort der Abgabe oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen und
+- auf Verlangen des Endnutzers Altgeräte, die in keiner äußeren Abmessung größer als 25 Zentime&shy;ter sind, im Einzelhandelsgeschäft oder in unmittelbarer Nähe hierzu unentgeltlich zurückzuneh&shy;men; die Rücknahme darf nicht an den Kauf eines Elektro- oder Elektronikgerätes geknüpft werden und ist auf drei Altgeräte pro Geräteart beschränkt. 
+
+Enthalten die Produkte Batterien und Akkus oder Lampen, die aus dem Altgerät zerstörungsfrei ent&shy;nommen werden können, 
+müssen diese vor der Entsorgung entnommen werden und getrennt als Batterie bzw. Lampe entsorgt werden. 
+Sofern das alte Elektro- bzw. Elektronikgerät personenbezogene Daten enthält, 
+sind Sie selbst für deren Löschung verantwortlich, bevor Sie es zurückgeben. 
+
+## TECHNISCHE ANGABEN 
+
+| Typ                         | Antelope Evolution                                   |     |
+| --------------------------- | ---------------------------------------------------- | --- |
+| Lager-/Transportbedingungen | Temperatur (-10 ~ 50°C)                              |     |
+|                             | Luftfeuchtigkeit (15 – 98%)                          |     |
+| Betriebsbedingungen         | Temperatur (10 - 40°C)                               |     |
+|                             | Luftfeuchtigkeit (15 – 65%)                          |     |
+| Abmessungen                 | Ø 7,8cm x 2cm (nur Booster)                          |     |
+| Gewicht                     | 86g (nur Booster)                                    |     |
+| Intensität                  | von 0 bis 100 einstellbar                            |     |
+| Ausgangs-Kurvenform         | Biphasische Rechteckimpulse                          |     |
+| Ausgangsspannung            | Max. 120V pp ±10% (500 Ohm)                          |     |
+| Ausgangsstrom               | Max. 240mA pp ±10% (500 Ohm)                         |     |
+| Impulsfrequenz              | 1-150Hz                                              |     |
+| Impulsdauer                 | 50-500μs                                             |     |
+| Datenübertragung            | Frequenzband: 2402 MHz – 2480 MHz                    |     |
+| Sendeleistung               | max. < 8 dBm                                         |     |
+| technology                  | Bluetooth® low energy  Kompatibel mit Bluetooth® 4.0 |     |
+| Akku                        | Kapazität: 700mAh                                    |     |
+|                             | Nennspannung: 3,7V                                   |     |
+|                             | Typbezeichnung: Lithium Polymer                      |     |
+| Textile Bestandteile        | 54% Polyamid, 36% Polypropylen und 10% Elasthan      |     |
+
+Technische Änderungen vorbehalten. 
+Wir bestätigen hiermit, dass dieses Produkt der europäischen RED Richtlinie 2014/53/EU entspricht. 
+Die CE-Konformitätserklärung zu diesem Produkt finden Sie unter: https://www.beurer.com/conformity 
+
+## SERVICE & REPARATUR 
+
+### Reparieren statt wegwerfen: 
+
+Wir wollen, dass du deine Antelope Produkte lange liebst. 
+Schäden, die nicht in die Gewährleistung fal&shy;len, können kostenpflichtig repariert werden, 
+denn auch nach der Garantiezeit sollen deine Antelope Produkte möglichst lange halten. 
+Daher bieten wir einen Reparatur-Service zu fairen Preisen an. 
+Die jeweiligen Kosten werden ermittelt und vor der Reparatur mitgeteilt. 
+
+Du möchtest deine Antelope Produkte individualisieren, 
+eine Elektrodenform oder die Größe anpassen? 
+Das ist gar kein Problem – gerne beraten wir dich, 
+wie dein Anzug für dich maßgeschneidert oder weiter angepasst wird. 
+
+Bei Fragen bezüglich möglicher Individualisierungsoptionen, Mängelansprüchen, 
+Gewährleistung und Service-Preisen kontaktiere bitte den Antelope Kundenservice.
+

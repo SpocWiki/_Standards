@@ -1,9 +1,35 @@
 ---
 aliases:
-  - Influenza A virus
-  - IAV
-  - Influenza_A_Virus
-  - Influenza A Virus
+- A(H5N1)-virus
+- A-tüüpi gripiviiruse alatüüp H5N1
+- A/H5N1
+- A型H5N1流感病毒
+- A型流感病毒H5N1亞型
+- Gripearen A birusa H5N1 mota
+- Gripo-A-viruso, subtipo H5N1
+- H5N1
+- H5N1 subtype
+- H5N1亜型
+- IAV
+- influenssa A vyelitijppâ H5N1
+- influenza A H5N1
+- influenza A subtip H5N1
+- Influenza A subtipo H5N1
+- Influenza A virus
+- Influenza A virus subtype H5N1
+- Influenza-A-Virus H5N1
+- Influenzavirus A sous-type H5N1
+- Influenzavirus A subtipo H5N1
+- Influenza_A_Virus
+- virus influence A podtipa H5N1
+- Virusas H5N1
+- İnfluenza A virüsü alt tipi H5N1
+- Х5Н1
+- إتش 5 إن 1
+- ویروس آنفلوانزای نوع A زیرگروه H5N1
+- 甲型H5N1流感病毒
+- 甲型流感病毒H5N1亚型
+- 甲型流感病毒H5N1亞型
 has_id_wikidata: Q160122
 parent_taxon: '[[_Standards/WikiData/WD~influenza_A_virus,834390]]'
 has_effect: '[[_Standards/WikiData/WD~Transmission_and_infection_of_H5N1,7834633]]'
@@ -16,8 +42,73 @@ UMLS_CUI: C1613950
 Commons_gallery: H5N1
 Commons_category: H5N1
 taxon_name: Influenza A virus subtype H5N1
+dv_has_:
+  name_:
+    ar: إتش 5 إن 1
+    ast: Influenzavirus A subtipo H5N1
+    be-tarask: H5N1
+    bg: H5N1
+    ca: H5N1
+    ceb: Influenza A virus subtype H5N1
+    cs: H5N1
+    da: influenza A H5N1
+    de: Influenza-A-Virus H5N1
+    en: influenza A virus subtype H5N1
+    eo: Gripo-A-viruso, subtipo H5N1
+    es: H5N1
+    et: A-tüüpi gripiviiruse alatüüp H5N1
+    eu: Gripearen A birusa H5N1 mota
+    fa: ویروس آنفلوانزای نوع A زیرگروه H5N1
+    fi: H5N1
+    fr: Influenzavirus A sous-type H5N1
+    ga: Influenza A virus subtype H5N1
+    gl: Influenza A subtipo H5N1
+    hr: H5N1
+    hu: H5N1
+    id: H5N1
+    is: H5N1
+    it: H5N1 subtype
+    ja: H5N1亜型
+    ko: H5N1
+    la: H5N1
+    lb: H5N1
+    lt: Virusas H5N1
+    mk: Х5Н1
+    ms: H5N1
+    nb: H5N1
+    nds: A/H5N1
+    nl: H5N1
+    pl: H5N1
+    pt: influenza A subtipo H5N1
+    ro: influenza A subtip H5N1
+    ru: H5N1
+    se: A(H5N1)-virus
+    sh: H5N1
+    si: Influenza A virus subtype H5N1
+    sk: H5N1
+    sl: virus influence A podtipa H5N1
+    smn: influenssa A vyelitijppâ H5N1
+    sms: A(H5N1)-virus
+    sq: Influenza A virus subtype H5N1
+    sr: Х5Н1
+    sr-ec: Х5Н1
+    sr-el: Х5Н1
+    sv: H5N1
+    tr: İnfluenza A virüsü alt tipi H5N1
+    uk: H5N1
+    vi: H5N1
+    war: Influenza A virus subtype H5N1
+    yue: H5N1
+    zh: 甲型流感病毒H5N1亚型
+    zh-cn: 甲型H5N1流感病毒
+    zh-hans: 甲型H5N1流感病毒
+    zh-hant: 甲型流感病毒H5N1亞型
+    zh-hk: 甲型流感病毒H5N1亞型
+    zh-mo: 甲型流感病毒H5N1亞型
+    zh-my: A型H5N1流感病毒
+    zh-sg: A型H5N1流感病毒
+    zh-tw: A型流感病毒H5N1亞型
 ---
-
 # [[Influenza_A_Virus]] 
 
 #is_/same_as :: [[WikiData/WD~Influenza_A_virus_subtype_H5N1,160122|WD~Influenza_A_virus_subtype_H5N1,160122]] 

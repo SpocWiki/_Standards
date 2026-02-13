@@ -1,10 +1,42 @@
 ---
 aliases:
-  - Gefühlsvampir
-  - Emotional_Vampire
-  - Emotional Vampire
+- Emotional Vampire
+- Emotional_Vampire
+- energetický upír
+- energiavampiir
+- energiavámpír
+- energievampier
+- energinis vampyras
+- Energivampyr
+- Gefühlsvampir
+- psychic vampire
+- Psychischer Vampir
+- vampir psíquic
+- vampiro psíquico
+- wampiryzm psychiczny
+- Психічний вампір
+- психический вампир
+- Էներգետիկ վամպիրներ
+- エネルギーヴァンパイア
+has_id_wikidata: Q3306791
+dv_has_:
+  name_:
+    ca: vampir psíquic
+    cs: energetický upír
+    de: Psychischer Vampir
+    en: psychic vampire
+    et: energiavampiir
+    hu: energiavámpír
+    hy: Էներգետիկ վամպիրներ
+    ja: エネルギーヴァンパイア
+    lt: energinis vampyras
+    nb: Energivampyr
+    nl: energievampier
+    pl: wampiryzm psychiczny
+    pt: vampiro psíquico
+    ru: психический вампир
+    uk: Психічний вампір
 ---
-
 ## #has_/text_of_/abstract 
 
 > A psychic vampire is a creature in folklore said to feed off the "life force" of other living creatures. 

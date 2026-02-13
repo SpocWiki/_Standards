@@ -1,13 +1,58 @@
 ---
 aliases:
-  - Gila monster
-  - Gila_monster
-  - Gila Monster
-  - monstruu de xila
-  - Monstruo de Gila
-  - Lézard perlé
-  - Monstre de gila
-  - strupeni bradavičar
+- Boncuklu kertenkele
+- Cinawira Gîlayê
+- Dubwana-Gila
+- geriang hila
+- Gila
+- Gila monster
+- Gila monstro
+- Gila-Krustenechse
+- Gilaeðla
+- gilalisko
+- Gilamonster
+- Gila_monster
+- Gilaödla
+- gilaøgle
+- heloderma arizońska
+- Heloderma suspectum
+- korovec jedovatý
+- Kôrnatec gila
+- Lézard perlé
+- Monster gila
+- Monstre de gila
+- Monstro-de-gila
+- Monstruo de Gila
+- monstruu de xila
+- ollphéist Gila
+- Rakasa Gila
+- strupeni bradavičar
+- Tiníléí
+- Šiurpusis nuodadantis
+- žilatjee
+- Σαύρα Χίλα
+- Аризона ядан пӱӓн шӓкшӓльӹ
+- аризонски отровен гущер
+- Аризонский ядозуб
+- Гила чудовиште
+- Жилатье
+- Отрутозуб підозрілий
+- Утіс
+- ядазуб арызонскі
+- הלודרמה מרירית
+- هيلية
+- هیولای گیلا
+- وحش جيلا
+- گيلا هيولا
+- ਗਿਲਾ ਮੌਂਸਟਰ
+- கிலா அரக்கப் பல்லி
+- ഗില മോൺസ്റ്റർ
+- กิล่ามอนสเตอร์
+- アメリカドクトカゲ
+- 大毒蜥
+- 美国毒蜥
+- 美國毒蜥
+- 미국독도마뱀
 has_id_wikidata: Q207058
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Near_Threatened,719675]]'
 parent_taxon: '[[_Standards/WikiData/WD~Heloderma,729412]]'
@@ -16,30 +61,101 @@ taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 174113
 taxon_common_name:
-  - Gila monster
-  - Gila Monster
-  - monstruu de xila
-  - Monstruo de Gila
-  - Lézard perlé
-  - Monstre de gila
-  - strupeni bradavičar
+- Gila monster
+- Gila Monster
+- monstruu de xila
+- Monstruo de Gila
+- Lézard perlé
+- Monstre de gila
+- strupeni bradavičar
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AZ%20Gila%20Monster%2001.jpg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/01692333-n
-  - http://wordnet-rdf.princeton.edu/wn31/101695078-n
+- http://wordnet-rdf.princeton.edu/wn30/01692333-n
+- http://wordnet-rdf.princeton.edu/wn31/101695078-n
 UNII: 351BFM11D0
 MeSH_tree_code:
-  - B01.050.050.286.625
-  - B01.050.150.900.833.393.250
+- B01.050.050.286.625
+- B01.050.150.900.833.393.250
 taxon_author_citation: Cope, 1869
 Commons_gallery: Heloderma suspectum
 Commons_category: Heloderma suspectum
 taxon_name: Heloderma suspectum
 EPPO_Code: HLDMSU
 short_name: H. suspectum
+dv_has_:
+  name_:
+    ar: هيلية
+    arz: وحش جيلا
+    ast: Heloderma suspectum
+    ban: Rakasa Gila
+    be-tarask: ядазуб арызонскі
+    bg: аризонски отровен гущер
+    ca: monstre de Gila
+    ceb: Heloderma suspectum
+    cs: korovec jedovatý
+    da: gilaøgle
+    de: Gila-Krustenechse
+    el: Σαύρα Χίλα
+    en: Gila monster
+    eo: Gila monstro
+    es: Heloderma suspectum
+    et: žilatjee
+    eu: Heloderma suspectum
+    fa: هیولای گیلا
+    fi: gilalisko
+    fr: Monstre de Gila
+    ga: ollphéist Gila
+    gl: Heloderma suspectum
+    he: הלודרמה מרירית
+    hu: Gila
+    ia: Heloderma suspectum
+    id: Monster gila
+    is: Gilaeðla
+    it: Heloderma suspectum
+    ja: アメリカドクトカゲ
+    kk: Утіс
+    ko: 미국독도마뱀
+    ku: Cinawira Gîlayê
+    ky: Жилатье
+    la: Heloderma suspectum
+    lt: Šiurpusis nuodadantis
+    mk: Гила чудовиште
+    ml: ഗില മോൺസ്റ്റർ
+    mrj: Аризона ядан пӱӓн шӓкшӓльӹ
+    ms: geriang hila
+    mul: Heloderma suspectum
+    nb: Gilaøgle
+    nl: Gilamonster
+    nv: Tiníléí
+    pa: ਗਿਲਾ ਮੌਂਸਟਰ
+    pl: heloderma arizońska
+    ps: گيلا هيولا
+    pt: Monstro-de-gila
+    ro: Heloderma suspectum
+    ru: Аризонский ядозуб
+    sk: Kôrnatec gila
+    sl: strupeni bradavičar
+    sq: Heloderma suspectum
+    sr: Heloderma suspectum
+    sr-ec: Heloderma suspectum
+    sr-el: Heloderma suspectum
+    sv: Gilaödla
+    sw: Dubwana-Gila
+    ta: கிலா அரக்கப் பல்லி
+    th: กิล่ามอนสเตอร์
+    tr: Boncuklu kertenkele
+    uk: Отрутозуб підозрілий
+    vi: Heloderma suspectum
+    war: Heloderma suspectum
+    yue: 大毒蜥
+    zh: 美國毒蜥
+    zh-cn: 美国毒蜥
+    zh-hans: 美国毒蜥
+    zh-hant: 美國毒蜥
+    zh-hk: 美國毒蜥
+    zh-sg: 美国毒蜥
+    zh-tw: 美國毒蜥
 ---
-
-
 # [[Gila_monster]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Gila_monster,207058|WD~Gila_monster,207058]]

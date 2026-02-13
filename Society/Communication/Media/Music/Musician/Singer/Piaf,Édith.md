@@ -1,63 +1,101 @@
 ---
 aliases:
-  - Édith_Piaf
-  - Édith Piaf
-  - Edith Piaf
-  - Édith Giovanna Gassion
-  - Piaf,Édith
+- Edit Piaf
+- Edith Piaf
+- Editha Piaf
+- Edīte Piafa
+- Piaf Edit
+- Piaf,Édith
+- Édith Giovanna Gassion
+- Édith Piaf
+- Édith_Piaf
+- Εντίθ Πιάφ
+- Едіт Піаф
+- Едит Пјаф
+- Едит Пиаф
+- Пиаф
+- Пиаф, Эдит
+- Эдзіт Піяф
+- Эдит Пиаф
+- Эдыт Піяф
+- Էդիթ Պիաֆ
+- Էտիթ Փիաֆ
+- אדית פיאף
+- עדיט פיאף
+- إديث بياف
+- ئێدیت پیاف
+- ادیت پیاف
+- ايديت بياف
+- ایڈتھ پیاف
+- एडिथ पियाफ
+- এদিত পিয়াফ
+- ਏਦੀਥ ਪੀਆਫ
+- எடித் பியாஃப்
+- ఈదిత్ పియాఫ్
+- എഡിത് പിയാഫ്
+- เอดิต ปียัฟ
+- ედიტ პიაფი
+- ᎢᏗᏘ ᏈᎠᏫ
+- エディット・ピアフ
+- 伊蒂琵雅芙
+- 伊迪丝·琵雅芙
+- 愛迪·琵雅芙
+- 艾迪托 比娅呋
+- 艾迪特·皮雅芙
+- 에디트 피아프
 has_id_wikidata: Q1631
 award_received:
-  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
-  - '[[_Standards/WikiData/WD~gold_record,521371]]'
-  - '[[_Standards/WikiData/WD~platinum_record,3194212]]'
-  - '[[_Standards/WikiData/WD~silver_record,5400477]]'
+- '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+- '[[_Standards/WikiData/WD~gold_record,521371]]'
+- '[[_Standards/WikiData/WD~platinum_record,3194212]]'
+- '[[_Standards/WikiData/WD~silver_record,5400477]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Jean_Cocteau,83158]]'
-  - '[[_Standards/WikiData/WD~Marguerite_Monnot,293092]]'
-  - '[[_Standards/WikiData/WD~Louis_Leplée,614107]]'
-  - '[[_Standards/WikiData/WD~Simone_Berteaut,2288049]]'
-  - '[[_Standards/WikiData/WD~Raymond_Asso,2552540]]'
+- '[[_Standards/WikiData/WD~Jean_Cocteau,83158]]'
+- '[[_Standards/WikiData/WD~Marguerite_Monnot,293092]]'
+- '[[_Standards/WikiData/WD~Louis_Leplée,614107]]'
+- '[[_Standards/WikiData/WD~Simone_Berteaut,2288049]]'
+- '[[_Standards/WikiData/WD~Raymond_Asso,2552540]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Yves_Montand,106057]]'
-  - '[[_Standards/WikiData/WD~Marcel_Cerdan,347201]]'
-  - '[[_Standards/WikiData/WD~Louis_Gérardin,448325]]'
-  - http://www.wikidata.org/.well-known/genid/48d058a85e28109ee9770895beab19f5
+- '[[_Standards/WikiData/WD~Yves_Montand,106057]]'
+- '[[_Standards/WikiData/WD~Marcel_Cerdan,347201]]'
+- '[[_Standards/WikiData/WD~Louis_Gérardin,448325]]'
+- http://www.wikidata.org/.well-known/genid/48d058a85e28109ee9770895beab19f5
 record_label:
-  - '[[_Standards/WikiData/WD~Polydor,155152]]'
-  - '[[_Standards/WikiData/WD~Pathé_Marconi,26203208]]'
+- '[[_Standards/WikiData/WD~Polydor,155152]]'
+- '[[_Standards/WikiData/WD~Pathé_Marconi,26203208]]'
 place_of_death: '[[_Standards/WikiData/WD~Grasse,173705]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~street_artist,2914170]]'
-  - '[[_Standards/WikiData/WD~chansonnier,13391399]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~street_artist,2914170]]'
+- '[[_Standards/WikiData/WD~chansonnier,13391399]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]'
-  - '[[_Standards/WikiData/WD~keratitis,757838]]'
-  - '[[_Standards/WikiData/WD~blindness,10874]]'
+- '[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]'
+- '[[_Standards/WikiData/WD~keratitis,757838]]'
+- '[[_Standards/WikiData/WD~blindness,10874]]'
 significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
 present_in_work: '[[_Standards/WikiData/WD~La_Vie_en_Rose,236217]]'
 genre:
-  - '[[_Standards/WikiData/WD~chanson,1062400]]'
-  - '[[_Standards/WikiData/WD~chanson_réaliste,2956171]]'
+- '[[_Standards/WikiData/WD~chanson,1062400]]'
+- '[[_Standards/WikiData/WD~chanson_réaliste,2956171]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Théophanis_Lamboukas,1393800]]'
-  - '[[_Standards/WikiData/WD~Jacques_Pills,1678088]]'
+- '[[_Standards/WikiData/WD~Théophanis_Lamboukas,1393800]]'
+- '[[_Standards/WikiData/WD~Jacques_Pills,1678088]]'
 member_of: '[[_Standards/WikiData/WD~Ancient_Mystical_Order_Rosae_Crucis,1759864]]'
 copyright_representative: '[[_Standards/WikiData/WD~SACEM,1806936]]'
 cause_of_death: '[[_Standards/WikiData/WD~internal_bleeding,2361887]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Milord,2608479]]'
-  - '[[_Standards/WikiData/WD~La_Vie_en_rose,11986]]'
-  - '[[_Standards/WikiData/WD~Non,_je_ne_regrette_rien,11988]]'
+- '[[_Standards/WikiData/WD~Milord,2608479]]'
+- '[[_Standards/WikiData/WD~La_Vie_en_rose,11986]]'
+- '[[_Standards/WikiData/WD~Non,_je_ne_regrette_rien,11988]]'
 mother: '[[_Standards/WikiData/WD~Line_Marsa,3241476]]'
 father: '[[_Standards/WikiData/WD~Louis_Gassion,3262015]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Giovanna,3806969]]'
-  - '[[_Standards/WikiData/WD~Édith,18188068]]'
+- '[[_Standards/WikiData/WD~Giovanna,3806969]]'
+- '[[_Standards/WikiData/WD~Édith,18188068]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 discography: '[[_Standards/WikiData/WD~Édith_Piaf_discography,11903317]]'
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
@@ -67,17 +105,17 @@ on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutc
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 family_name: '[[_Standards/WikiData/WD~Gassion,99889250]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Grave_of_Gassion_Piaf,112336139]]'
-  - '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
+- '[[_Standards/WikiData/WD~Grave_of_Gassion_Piaf,112336139]]'
+- '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
 child: '[[_Standards/WikiData/WD~Marcelle_Dupont,117037882]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 residence:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~France,142]]'
 place_of_birth: '[[_Standards/WikiData/WD~Paris,90]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 native_language: '[[_Standards/WikiData/WD~French,150]]'
@@ -97,8 +135,8 @@ Commons_gallery: Édith Piaf
 pseudonym: Édith Piaf
 Commons_category: Édith Piaf
 ISNI:
-  - 0000000368643144
-  - 000000012136707X
+- 0000000368643144
+- 000000012136707X
 date_of_death: 1963-10-10T00:00:00Z
 work_period_end_: 1963-01-01T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A8re-Lachaise%20-%20Division%2097%20-%20Piaf%2001.jpg
@@ -106,10 +144,176 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Edith%20Piaf%20Sig
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Piaf%20Harcourt%201946%202.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20%C3%89dith%20Piaf%2C%2067%20boulevard%20Lannes%2C%20Paris%2016.jpg
 IPI_name_number:
-  - 00011475025
-  - 00024250523
+- 00011475025
+- 00024250523
+dv_has_:
+  name_:
+    ab: Едит Пиаф
+    af: Édith Piaf
+    an: Édith Piaf
+    ar: إديث بياف
+    arz: ايديت بياف
+    as: এদিত পিয়াফ
+    ast: Édith Piaf
+    ay: Édith Piaf
+    az: Edit Piaf
+    azb: ادیت پیاف
+    ba: Эдит Пиаф
+    bar: Édith Piaf
+    be: Эдзіт Піяф
+    be-tarask: Эдыт Піяф
+    bg: Едит Пиаф
+    bi: Édith Piaf
+    bm: Édith Piaf
+    bn: এদিত পিয়াফ
+    br: Édith Piaf
+    bs: Edith Piaf
+    btm: Édith Piaf
+    bxr: Эдит Пиаф
+    ca: Édith Piaf
+    ce: Пиаф, Эдит
+    chr: ᎢᏗᏘ ᏈᎠᏫ
+    ckb: ئێدیت پیاف
+    co: Édith Piaf
+    crh: Edit Piaf
+    cs: Édith Piaf
+    cy: Édith Piaf
+    da: Édith Piaf
+    de: Édith Piaf
+    de-at: Édith Piaf
+    de-ch: Édith Piaf
+    dsb: Édith Piaf
+    el: Εντίθ Πιάφ
+    eml: Édith Piaf
+    en: Édith Piaf
+    en-ca: Édith Piaf
+    en-gb: Édith Piaf
+    eo: Édith Piaf
+    es: Édith Piaf
+    et: Édith Piaf
+    eu: Édith Piaf
+    ext: Édith Piaf
+    fa: ادیت پیاف
+    fi: Édith Piaf
+    fo: Édith Piaf
+    fr: Édith Piaf
+    frc: Édith Piaf
+    frp: Édith Piaf
+    fur: Édith Piaf
+    fy: Edith Piaf
+    ga: Édith Piaf
+    gd: Édith Piaf
+    gl: Édith Piaf
+    gsw: Édith Piaf
+    he: אדית פיאף
+    hif: Edith Piaf
+    hr: Edith Piaf
+    hsb: Édith Piaf
+    ht: Édith Piaf
+    hu: Édith Piaf
+    hy: Էդիթ Պիաֆ
+    hyw: Էտիթ Փիաֆ
+    ia: Édith Piaf
+    id: Édith Piaf
+    ie: Édith Piaf
+    ilo: Édith Piaf
+    io: Édith Piaf
+    is: Édith Piaf
+    it: Édith Piaf
+    ja: エディット・ピアフ
+    jam: Édith Piaf
+    ka: ედიტ პიაფი
+    kab: Edith Piaf
+    kbp: Édith Piaf
+    kg: Édith Piaf
+    kk: Эдит Пиаф
+    knc: Édith Piaf
+    ko: 에디트 피아프
+    ku: Édith Piaf
+    la: Editha Piaf
+    lb: Édith Piaf
+    lfn: Édith Piaf
+    li: Édith Piaf
+    lij: Édith Piaf
+    lmo: Édith Piaf
+    lt: Édith Piaf
+    lv: Edīte Piafa
+    mg: Edith Piaf
+    mhr: Пиаф
+    mk: Едит Пјаф
+    ml: എഡിത് പിയാഫ്
+    mn: Эдит Пиаф
+    mr: एडिथ पियाफ
+    ms: Édith Piaf
+    mt: Édith Piaf
+    mul: Édith Piaf
+    nan: Édith Piaf
+    nap: Édith Piaf
+    nb: Édith Piaf
+    nds: Édith Piaf
+    nds-nl: Édith Piaf
+    nl: Édith Piaf
+    nn: Édith Piaf
+    nrm: Édith Piaf
+    oc: Édith Piaf
+    pa: ਏਦੀਥ ਪੀਆਫ
+    pam: Édith Piaf
+    pap: Édith Piaf
+    pcd: Édith Piaf
+    pl: Édith Piaf
+    pms: Edith Piaf
+    pnb: ایڈتھ پیاف
+    prg: Édith Piaf
+    pt: Édith Piaf
+    pt-br: Édith Piaf
+    qu: Édith Piaf
+    rgn: Édith Piaf
+    rm: Édith Piaf
+    ro: Édith Piaf
+    ru: Эдит Пиаф
+    rue: Едіт Піаф
+    sah: Эдит Пиаф
+    sc: Édith Piaf
+    scn: Édith Piaf
+    sco: Édith Piaf
+    sgs: Edit Piaf
+    sh: Édith Piaf
+    sk: Édith Piaf
+    sl: Edith Piaf
+    sq: Édith Piaf
+    sr: Едит Пјаф
+    sv: Édith Piaf
+    sw: Édith Piaf
+    ta: எடித் பியாஃப்
+    te: ఈదిత్ పియాఫ్
+    tg: Эдит Пиаф
+    th: เอดิต ปียัฟ
+    tl: Édith Piaf
+    tr: Édith Piaf
+    tt: Edit Piaf
+    tyv: Пиаф, Эдит
+    uk: Едіт Піаф
+    ur: ایڈتھ پیاف
+    uz: Édith Piaf
+    vec: Édith Piaf
+    vep: Piaf Edit
+    vi: Édith Piaf
+    vls: Édith Piaf
+    vmf: Édith Piaf
+    vo: Édith Piaf
+    wa: Édith Piaf
+    war: Édith Piaf
+    wo: Édith Piaf
+    wuu: 艾迪托 比娅呋
+    xmf: ედიტ პიაფი
+    yi: עדיט פיאף
+    yue: 伊蒂琵雅芙
+    zh: 艾迪特·皮雅芙
+    zh-hant: 愛迪·琵雅芙
+    zh-sg: 伊迪丝·琵雅芙
+    zh-tw: 愛迪·琵雅芙
+    zu: Édith Piaf
 ---
-
 # [[Piaf,Édith]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Édith_Piaf,1631|WD~Édith_Piaf,1631]] 

@@ -1,9 +1,73 @@
 ---
-has_time_started: 1886-01-01 
-has_time_stopped: 1905-01-01 
+has_time_started: 1886-01-01
+has_time_stopped: 1905-01-01
 aliases:
-  - Postimpressionism
-  - Post-Impressionism
+- Art izlenimcilik
+- hậu ấn tượng
+- Iar-eas-preiseanas
+- iarimpriseanachas
+- Pascaimpresionisme
+- posimpresionismo
+- Posimpresionismu
+- post-impresionismo
+- Post-Impressionism
+- post-impressionismo
+- Post-Impressionismus
+- Post-Impressjoniżmu
+- post-inpresionismo
+- postimpresionism
+- postimpresionismo
+- postimpresionisms
+- Postimpresionismus
+- Postimpresionizam
+- postimpresionizem
+- Postimpresionizmas
+- POSTIMPRESIONIZMI
+- Postimpresionizmus
+- postimpresjonisme
+- postimpresjonizm
+- Postimpressionism
+- postimpressionisma
+- Postimpressionisme
+- postimpressionismi
+- postimpressionismm
+- Postimpressionismus
+- postimpressionizm
+- postimpressionnisme
+- postinpresionismo
+- Postïmpressïonïzm
+- posztimpresszionizmus
+- Pòs-enpresyonis
+- Pós-impressionismo
+- Ôl-argraffiaeth
+- Μεταϊμπρεσιονισμός
+- постімпресіонізм
+- постімпрэсіянізм
+- постимпресионизам
+- постимпресионизъм
+- постимпрессионизм
+- Պոստիմպրեսիոնիզմ
+- פוסט-אימפרסיוניזם
+- ما بعد الانطباعية
+- مابعد الانطباعيه
+- پاش ئیمپڕێشنیزم
+- پسادریافتگری
+- پست-امپرسیونیست
+- پستامپرسیونیسم
+- پوستىيمپرەسسىيونىيزم
+- پوسٹ امپریشنزم
+- پوسٽ امپريشن ازم
+- ځنډي اغېزمنتيا
+- प्रभाववादोत्तर (पोस्ट-इम्प्रेशनिज़्म)
+- উত্তর-অন্তর্মুদ্রাবাদ
+- ਉੱਤਰ-ਪ੍ਰਭਾਵਵਾਦ
+- பின்-உணர்வுப்பதிவியம்
+- ลัทธิประทับใจยุคหลัง
+- პოსტიმპრესიონიზმი
+- ポスト印象派
+- 后印象派
+- 後印象派
+- 후기인상주의
 has_id_wikidata: Q166713
 instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Post_Impressionism,11011136]]'
@@ -17,8 +81,104 @@ Commons_category: Post-Impressionism
 Commons_gallery: Post-impressionnisme
 native_label: postimpressionnisme
 end_time: 1905-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Postimpressionisme
+    ar: ما بعد الانطباعية
+    arz: مابعد الانطباعيه
+    ast: Posimpresionismu
+    az: postimpressionizm
+    azb: پست-امپرسیونیست
+    be: постімпрэсіянізм
+    be-tarask: постімпрэсіянізм
+    bg: постимпресионизъм
+    bn: উত্তর-অন্তর্মুদ্রাবাদ
+    bs: Postimpresionizam
+    ca: postimpressionisme
+    ckb: پاش ئیمپڕێشنیزم
+    cs: Postimpresionismus
+    cy: Ôl-argraffiaeth
+    da: postimpressionisme
+    de: Post-Impressionismus
+    el: Μεταϊμπρεσιονισμός
+    en: Post-impressionism
+    eo: post-impresionismo
+    es: posimpresionismo
+    et: postimpressionism
+    eu: postinpresionismo
+    fa: پسادریافتگری
+    fi: postimpressionismi
+    fr: postimpressionnisme
+    ga: iarimpriseanachas
+    gd: Iar-eas-preiseanas
+    gl: postimpresionismo
+    he: פוסט-אימפרסיוניזם
+    hi: प्रभाववादोत्तर (पोस्ट-इम्प्रेशनिज़्म)
+    hr: postimpresionizam
+    ht: Pòs-enpresyonis
+    hu: posztimpresszionizmus
+    hy: Պոստիմպրեսիոնիզմ
+    id: Pascaimpresionisme
+    it: post-impressionismo
+    ja: ポスト印象派
+    ka: პოსტიმპრესიონიზმი
+    kk: Постимпрессионизм
+    kk-arab: پوستىيمپرەسسىيونىيزم
+    kk-cn: پوستىيمپرەسسىيونىيزم
+    kk-cyrl: Постимпрессионизм
+    kk-kz: Постимпрессионизм
+    kk-latn: Postïmpressïonïzm
+    kk-tr: Postïmpressïonïzm
+    ko: 후기인상주의
+    ky: Постимпрессионизм
+    la: Postimpressionismus
+    lt: Postimpresionizmas
+    lv: postimpresionisms
+    mk: постимпресионизам
+    ms: pascaimpresionisme
+    mt: Post-Impressjoniżmu
+    mzn: پستامپرسیونیسم
+    nb: postimpresjonisme
+    nl: postimpressionisme
+    nn: Postimpresjonisme
+    pa: ਉੱਤਰ-ਪ੍ਰਭਾਵਵਾਦ
+    pl: postimpresjonizm
+    pnb: پوسٹ امپریشنزم
+    ps: ځنډي اغېزمنتيا
+    pt: Pós-impressionismo
+    ro: postimpresionism
+    ru: постимпрессионизм
+    sco: Post-Impressionism
+    sd: پوسٽ امپريشن ازم
+    se: postimpressionisma
+    sh: Postimpresionizam
+    sk: Postimpresionizmus
+    sl: postimpresionizem
+    smn: postimpressionism
+    sms: postimpressionismm
+    sq: POSTIMPRESIONIZMI
+    sr: постимпресионизам
+    sr-ec: постимпресионизам
+    sr-el: postimpresionizam
+    stq: Post-Impressionismus
+    sv: postimpressionism
+    ta: பின்-உணர்வுப்பதிவியம்
+    th: ลัทธิประทับใจยุคหลัง
+    tr: Art izlenimcilik
+    uk: постімпресіонізм
+    uz: Postimpressionizm
+    vec: post-inpresionismo
+    vi: hậu ấn tượng
+    wuu: 后印象派
+    yue: 後印象派
+    zh: 后印象派
+    zh-cn: 后印象派
+    zh-hans: 后印象派
+    zh-hant: 後印象派
+    zh-hk: 後印象派
+    zh-sg: 后印象派
+    zh-tw: 後印象派
 ---
-
 # [[Post-Impressionism]] 
 
 #is_/same_as :: [[WD~Post-impressionism,166713]] 

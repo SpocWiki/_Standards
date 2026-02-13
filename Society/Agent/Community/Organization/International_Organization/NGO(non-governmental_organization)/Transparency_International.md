@@ -1,67 +1,185 @@
 ---
-has_time_started: 1993-02-09 
+has_time_started: 1993-02-09
 aliases:
+- Badan Ketelusan Antarabangsa
+- Transparencia Internacional
+- Transparency International
+- Transparency International uýımı
+- Transparency International ұйымы
+- Transparency International ۇيىمى
+- Transparentia Internationalis
+- Transparència Internacional
+- Transparência Internacional
+- Transperensi internešnal
+- Travideblo Internacia
+- Tresparencia Internacional
+- Tổ chức Minh bạch Quốc tế
+- Uluslararası Şeffaflık Örgütü
+- Διεθνής Διαφάνεια
+- Прозрачност без граници
+- Транспаренцy Ынтернатіонал ұйымы
+- Трансперенсі Інтернешнл
+- Թրանսփարենսի ինթերնեյշնլ
+- שקיפות בין-לאומית
+- الشفافية الدولية
+- شفافیت بین الاقوامی
+- شفافیت بینالملل
+- ٽرانسپيرنسي انٽرنيشنل
+- ट्रांसपरन्सी इंटरनॅशनल
+- ट्रान्सपरेन्सि इन्टरनेशनल
+- ट्रान्सपैरेंसी इंटरनेशनल
+- ট্রান্সপারেন্সি ইন্টারন্যাশনাল
+- ട്രാൻസ്പരൻസി ഇന്റർനാഷണൽ
+- အပြည်ပြည်ဆိုင်ရာ ပွင့်လင်းမြင်သာမှု
+- საერთაშორისო გამჭვირვალობა
+- អង្គការតម្លាភាពអន្តរជាតិ
+- トランスペアレンシー・インターナショナル
+- 國際透明組織
+- 透明国际
+- 透明國際
+- 국제 투명성 기구
 has_id_wikidata: Q174240
 founded_by:
-  - "[[_Standards/WikiData/WD~Peter_Eigen,95830]]"
-  - "[[_Standards/WikiData/WD~Kamal_Hossain,327967]]"
-  - "[[_Standards/WikiData/WD~John_Githongo,1700229]]"
-  - "[[_Standards/WikiData/WD~Obiageli_Katryn_Ezekwesili,7074927]]"
-  - "[[_Standards/WikiData/WD~Jeremy_Pope,15457412]]"
-  - "[[_Standards/WikiData/WD~Dolores_Español,21037377]]"
+- '[[_Standards/WikiData/WD~Peter_Eigen,95830]]'
+- '[[_Standards/WikiData/WD~Kamal_Hossain,327967]]'
+- '[[_Standards/WikiData/WD~John_Githongo,1700229]]'
+- '[[_Standards/WikiData/WD~Obiageli_Katryn_Ezekwesili,7074927]]'
+- '[[_Standards/WikiData/WD~Jeremy_Pope,15457412]]'
+- '[[_Standards/WikiData/WD~Dolores_Español,21037377]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~nonprofit_organization,163740]]"
-  - "[[_Standards/WikiData/WD~international_organization,484652]]"
-  - "[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]"
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Initiative_Transparent_Civil_Society,1663590]]"
-  - "[[_Standards/WikiData/WD~Financial_Transparency_Coalition,17013594]]"
-  - "[[_Standards/WikiData/WD~Q24243568,24243568]]"
-legal_form: "[[_Standards/WikiData/WD~Registered_association_(eingetragener_Verein),9299236]]"
-operating_area: "[[_Standards/WikiData/WD~worldwide,13780930]]"
-chairperson: "[[_Standards/WikiData/WD~François_Valérian,33187526]]"
-director_manager: "[[_Standards/WikiData/WD~Patricia_Moreira,41558597]]"
-partnership_with: "[[_Standards/WikiData/WD~UNESCO,7809]]"
+- '[[_Standards/WikiData/WD~Initiative_Transparent_Civil_Society,1663590]]'
+- '[[_Standards/WikiData/WD~Financial_Transparency_Coalition,17013594]]'
+- '[[_Standards/WikiData/WD~Q24243568,24243568]]'
+legal_form: '[[_Standards/WikiData/WD~Registered_association_(eingetragener_Verein),9299236]]'
+operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+chairperson: '[[_Standards/WikiData/WD~François_Valérian,33187526]]'
+director_manager: '[[_Standards/WikiData/WD~Patricia_Moreira,41558597]]'
+partnership_with: '[[_Standards/WikiData/WD~UNESCO,7809]]'
 country:
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-headquarters_location: "[[_Standards/WikiData/WD~Berlin,64]]"
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+headquarters_location: '[[_Standards/WikiData/WD~Berlin,64]]'
 number_of_volunteers: 9
 employees: 38
 donations:
-  - 58000
-  - 62000
-  - 27837
-  - 57306
-  - 77139
+- 58000
+- 62000
+- 27837
+- 57306
+- 77139
 social_media_followers:
-  - 18200
-  - 271004
+- 18200
+- 271004
 total_revenue:
-  - 3321000
-  - 4253000
-  - 4954650
-  - 3009453
-  - 3768621
-  - 23671935
-Charity_Commission_no_: "1112842"
+- 3321000
+- 4253000
+- 4954650
+- 3009453
+- 3768621
+- 23671935
+Charity_Commission_no_: 1112842
 Commons_category: Transparency International
 Legal_Entity_Identifier: 529900UJKO26NSNK9F38
 short_name: TI
 inception: 1993-02-09T00:00:00Z
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Transparency%20International%20Logo.svg
 described_at_URL:
-  - http://powerbase.info/index.php/Transparency_International
-  - https://www.monde-diplomatique.fr/2000/11/ABRAMOVICI/2535
+- http://powerbase.info/index.php/Transparency_International
+- https://www.monde-diplomatique.fr/2000/11/ABRAMOVICI/2535
 official_website: https://www.transparency.org
-ISNI: "0000000108603971"
-Facebook_username: "111014922285371"
+ISNI: 0000000108603971
+Facebook_username: 111014922285371
 X_Twitter_username: anticorruption
 Bluesky_handle: anticorruption.bsky.social
 domain_name: transparency.org
 TikTok_username: transparencyintl
+dv_has_:
+  name_:
+    ar: الشفافية الدولية
+    ary: الشفافية الدولية
+    ast: Tresparencia Internacional
+    az: Transparency International
+    be-tarask: Transparency International
+    bg: Прозрачност без граници
+    bn: ট্রান্সপারেন্সি ইন্টারন্যাশনাল
+    bs: Transparency International
+    ca: Transparència Internacional
+    cs: Transparency International
+    cv: Transparency International
+    da: Transparency International
+    de: Transparency International
+    el: Διεθνής Διαφάνεια
+    en: Transparency International
+    eo: Travideblo Internacia
+    es: Transparencia Internacional
+    et: Transparency International
+    eu: Transparency International
+    fa: شفافیت بینالملل
+    fi: Transparency International
+    fr: Transparency International
+    gl: Transparencia Internacional
+    he: שקיפות בין-לאומית
+    hi: ट्रान्सपैरेंसी इंटरनेशनल
+    hr: Transparency International
+    hu: Transparency International
+    hy: Թրանսփարենսի ինթերնեյշնլ
+    id: Transparency International
+    it: Transparency International
+    ja: トランスペアレンシー・インターナショナル
+    ka: საერთაშორისო გამჭვირვალობა
+    kk: Transparency International ұйымы
+    kk-arab: Transparency International ۇيىمى
+    kk-cn: Transparency International ۇيىمى
+    kk-cyrl: Транспаренцy Ынтернатіонал ұйымы
+    kk-kz: Транспаренцy Ынтернатіонал ұйымы
+    kk-latn: Transparency International uýımı
+    kk-tr: Transparency International uýımı
+    km: អង្គការតម្លាភាពអន្តរជាតិ
+    ko: 국제 투명성 기구
+    la: Transparentia Internationalis
+    lt: Transparency International
+    lv: Transparency International
+    mg: Transparency International
+    ml: ട്രാൻസ്പരൻസി ഇന്റർനാഷണൽ
+    mr: ट्रांसपरन्सी इंटरनॅशनल
+    ms: Badan Ketelusan Antarabangsa
+    mul: Transparency International
+    my: အပြည်ပြည်ဆိုင်ရာ ပွင့်လင်းမြင်သာမှု
+    nb: Transparency International
+    ne: ट्रान्सपरेन्सि इन्टरनेशनल
+    nl: Transparency International
+    nn: Transparency International
+    pl: Transparency International
+    pt: Transparência Internacional
+    ro: Transparency International
+    ru: Transparency International
+    sd: ٽرانسپيرنسي انٽرنيشنل
+    sh: Transparency International
+    sk: Transparency International
+    sl: Transparency International
+    sq: Transparency International
+    sr: Transperensi internešnal
+    sv: Transparency International
+    sw: Transparency International
+    tr: Uluslararası Şeffaflık Örgütü
+    uk: Трансперенсі Інтернешнл
+    ur: شفافیت بین الاقوامی
+    vi: Tổ chức Minh bạch Quốc tế
+    yue: 透明國際
+    zh: 透明国际
+    zh-cn: 透明国际
+    zh-hans: 透明国际
+    zh-hant: 國際透明組織
+    zh-hk: 透明國際
+    zh-mo: 透明國際
+    zh-my: 透明国际
+    zh-sg: 透明国际
+    zh-tw: 國際透明組織
 ---
-
 # [[Transparency_International]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Transparency_International,174240|WD~Transparency_International,174240]]  

@@ -1,70 +1,153 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]]"
-    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia|Hagia_Sophia]]"
-    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public|Hagia_Sophia.public]]"
-    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal|Hagia_Sophia.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect|Hagia_Sophia.protect]]"
-    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private|Hagia_Sophia.private]]"
-    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal|Hagia_Sophia.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret|Hagia_Sophia.secret]]"
+  - '[[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]]'
+  - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia|Hagia_Sophia]]'
+  - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public|Hagia_Sophia.public]]'
+  - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal|Hagia_Sophia.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect|Hagia_Sophia.protect]]'
+  - '[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private|Hagia_Sophia.private]]'
+  - '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal|Hagia_Sophia.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret|Hagia_Sophia.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]]"
-  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia|Hagia_Sophia]]"
-  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public|Hagia_Sophia.public]]"
-  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal|Hagia_Sophia.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect|Hagia_Sophia.protect]]"
-  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private|Hagia_Sophia.private]]"
-  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal|Hagia_Sophia.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret|Hagia_Sophia.secret]]"
-
-has_time_started: 0532-02-25 
-location: [ 41.008333333, 28.98 ] 
+- '[[../../../../WikiData/WD~Hagia_Sophia,12506|WD~Hagia_Sophia,12506]]'
+- '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia|Hagia_Sophia]]'
+- '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.public|Hagia_Sophia.public]]'
+- '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.internal|Hagia_Sophia.internal]]'
+- '[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.protect|Hagia_Sophia.protect]]'
+- '[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.private|Hagia_Sophia.private]]'
+- '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.personal|Hagia_Sophia.personal]]'
+- '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Hagia_Sophia.secret|Hagia_Sophia.secret]]'
+has_time_started: 0532-02-25
+location:
+- 41.008333333
+- 28.98
 aliases:
-  - Hagia Sophia
-  - Hagia_Sophia
+- Aedes Sanctae Sophiae
+- Aja Sofija
+- Aya Sofia
+- Aya Sofya
+- Aya Sophia
+- Aya Sophiya
+- Aya Sopia
+- Ayaa sofiya
+- Ayasofya
+- basilica di Santa Sofia
+- Basílica de Santa Sofia
+- Hagia Sofia
+- Hagia Sofia (Istanbûl)
+- Hagia Sofia din Istanbul
+- Hagia Sofia, Istanbul
+- Hagia Sophia
+- Hagia Szophia
+- Hagia_Sophia
+- Hagija Sofija
+- Igrexa de Santa Sofía
+- Marangatu Sofía
+- Meuseujid Aya Sophia
+- Sainte-Sophie
+- Santa Sofia
+- Santa Sofiya d'Istambul
+- Santa Sofía
+- Santez-Sofia (Istanbul)
+- Sofijos soboras
+- Sofiya ibodatxonasi
+- Sophie Kiɖeɖeu Keɖeyaɣ wondu ɖɩɣa
+- Suopėjės sobors
+- Svētā Sofija
+- tomo Aja Sopija
+- Ægisif
+- Αγία Σοφία
+- Аја Софија
+- Айёсуфия
+- Айыы Суоппуйа собора
+- Айя София
+- Айя Суфия
+- Айя-София
+- Айя-Софья
+- Ая София
+- Дун-сьӧлыктэм Софиялэн соборез
+- Сафійскі сабор
+- Сийлахь Софин Килс
+- Собор Святой Софии
+- Софійський собор
+- Софийн цогчин дуган
+- Храм Божой Премудрости
+- Црква Света Софија
+- Ս. Սոֆիա տաճար (Կ. Պոլիս)
+- Սուրբ Սոֆիայի տաճար
+- איה סופיה
+- האגיא סאפיא
+- آيا صوفيا
+- آیا صوفیا
+- آیاصوفیا
+- ئاياسوڧيا
+- ئایاسۆفیا
+- ايا صوفيا
+- اياصوفيه
+- ایاصوفیه
+- ހާޖިޔާ ސޯފިޔާ
+- हाइया सोफिया
+- हागिया सोफिया
+- ह्यागिया सोफिया
+- আয়া সোফিয়া
+- হাজিয়া চ'ফিয়া
+- ਹਾਗੀਆ ਸੋਫੀਆ
+- ஹேகியா சோபியா
+- ഹേജിയ സോഫിയ
+- හජියා සොෆියා
+- ฮายาโซฟีอา
+- ဟာဂီယာ ဆိုဖီယာ
+- აია-სოფიას ტაძარი
+- აია-სოფიაშ ოხიდა
+- ሃጊያ ሶፊያ
+- „Света София“
+- アヤソフィア
+- 圣索菲亚大教堂
+- 聖蘇菲亞大教堂
+- 阿亚索菲亚
+- 아야 소피아
 has_id_wikidata: Q12506
 Commons_Institution_page: Ayasofya
 Commons_gallery: Ayasofya
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/SVYATAYA_SOFIYA.html
 name: basilique de Sainte-Sophie
 native_label:
-  - Ayasofya
-  - Αγία Σοφία
+- Ayasofya
+- Αγία Σοφία
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Marmara_Region,155583]]'
 architectural_style:
-  - '[[_Standards/WikiData/WD~basilica,163687]]'
-  - '[[_Standards/WikiData/WD~Byzantine_architecture,47591]]'
+- '[[_Standards/WikiData/WD~basilica,163687]]'
+- '[[_Standards/WikiData/WD~Byzantine_architecture,47591]]'
 field_of_work: '[[_Standards/WikiData/WD~Byzantine_art,211884]]'
 architect:
-  - '[[_Standards/WikiData/WD~Anthemius_of_Tralles,298226]]'
-  - '[[_Standards/WikiData/WD~Isidore_of_Miletus,310028]]'
+- '[[_Standards/WikiData/WD~Anthemius_of_Tralles,298226]]'
+- '[[_Standards/WikiData/WD~Isidore_of_Miletus,310028]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
 culture:
-  - '[[_Standards/WikiData/WD~Ottoman_architecture,527449]]'
-  - '[[_Standards/WikiData/WD~Byzantine_architecture,47591]]'
+- '[[_Standards/WikiData/WD~Ottoman_architecture,527449]]'
+- '[[_Standards/WikiData/WD~Byzantine_architecture,47591]]'
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Istanbul_Province,534799]]'
-  - '[[_Standards/WikiData/WD~Fatih,732923]]'
-  - '[[_Standards/WikiData/WD~Cankurtaran,6073520]]'
-  - '[[_Standards/WikiData/WD~Istanbul,406]]'
+- '[[_Standards/WikiData/WD~Istanbul_Province,534799]]'
+- '[[_Standards/WikiData/WD~Fatih,732923]]'
+- '[[_Standards/WikiData/WD~Cankurtaran,6073520]]'
+- '[[_Standards/WikiData/WD~Istanbul,406]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Hagia_Sophia,541998]]'
-  - '[[_Standards/WikiData/WD~Navel_of_the_World,15489401]]'
+- '[[_Standards/WikiData/WD~Hagia_Sophia,541998]]'
+- '[[_Standards/WikiData/WD~Navel_of_the_World,15489401]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~mosque,32815]]'
-  - '[[_Standards/WikiData/WD~museum,33506]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~mosque,32815]]'
+- '[[_Standards/WikiData/WD~museum,33506]]'
 payment_types_accepted:
-  - '[[_Standards/WikiData/WD~cash,693464]]'
-  - '[[_Standards/WikiData/WD~Müzekart,1118621]]'
+- '[[_Standards/WikiData/WD~cash,693464]]'
+- '[[_Standards/WikiData/WD~Müzekart,1118621]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Meisterwerke_des_Kirchenbaus,29428354]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meisterwerke_des_Kirchenbaus,29428354]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Erster_Band,126374795]]'
 locations: '[[_Standards/WikiData/WD~Sultan_Ahmet,2147870]]'
 part_of: '[[_Standards/WikiData/WD~Historic_Areas_of_Istanbul,5773394]]'
 named_after: '[[_Standards/WikiData/WD~Holy_Wisdom,7501062]]'
@@ -72,13 +155,13 @@ dedicated_to: '[[_Standards/WikiData/WD~Holy_Wisdom,7501062]]'
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q9534441,9534441]]'
 contains: '[[_Standards/WikiData/WD~Tomb_of_Mehmed_III,21526269]]'
 dissolved_abolished_or_demolished_date:
-  - 0404-01-01T00:00:00Z
-  - 0532-01-16T00:00:00Z
+- 0404-01-01T00:00:00Z
+- 0532-01-16T00:00:00Z
 state_of_conservation: '[[_Standards/WikiData/WD~preserved,56557591]]'
 affiliation: '[[_Standards/WikiData/WD~Museum_Directorate_of_Ayasofya,108564933]]'
 heritage_designation:
-  - '[[_Standards/WikiData/WD~immovable_cultural_property_requiring_protection,133462433]]'
-  - '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
+- '[[_Standards/WikiData/WD~immovable_cultural_property_requiring_protection,133462433]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
 inception: 0532-02-25T00:00:00Z
 date_of_official_opening: 1054-01-01T00:00:00Z
 coordinate_location: Point(28.98 41.008333333)
@@ -89,8 +172,8 @@ has_use: '[[_Standards/WikiData/WD~mosque,32815]]'
 commissioned_by: '[[_Standards/WikiData/WD~Justinian_I,41866]]'
 Commons_category: Hagia Sophia
 sectional_view:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aya-sophia-sketech-without-hatch.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hagia-Sophia-Laengsschnitt.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Aya-sophia-sketech-without-hatch.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hagia-Sophia-Laengsschnitt.jpg
 image_of_design_plans: http://commons.wikimedia.org/wiki/Special:FilePath/Hagia-Sophia-Grundriss.jpg
 model_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hagia%20Sophia.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hagia%20Sophia%20Mars%202013.jpg
@@ -100,8 +183,152 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20ban
 described_at_URL: https://www.thebyzantinelegacy.com/hagia-sophia
 ISNI: 0000000121532741
 P8189: 987007258064605171
+dv_has_:
+  name_:
+    ace: Meuseujid Aya Sophia
+    af: Aya Sophia
+    am: ሃጊያ ሶፊያ
+    an: Santa Sofiya d'Istambul
+    ar: آيا صوفيا
+    arz: ايا صوفيا
+    as: হাজিয়া চ'ফিয়া
+    ast: Santa Sofía
+    av: Айя София
+    az: Aya Sofya
+    azb: آیاصوفیا
+    ba: Айя Суфия
+    ban: Hagia Sophia
+    bar: Hagia Sophia
+    be: Сафійскі сабор
+    be-tarask: Сафійскі сабор
+    bg: „Света София“
+    bn: আয়া সোফিয়া
+    br: Santez-Sofia (Istanbul)
+    bs: Aja Sofija
+    bxr: Айя-София
+    ca: Santa Sofia
+    ce: Сийлахь Софин Килс
+    ckb: ئایاسۆفیا
+    crh: Ayasofya
+    cs: Hagia Sofia
+    cy: Hagia Sophia
+    da: Hagia Sophia
+    de: Hagia Sophia
+    diq: Ayasofya
+    dv: ހާޖިޔާ ސޯފިޔާ
+    el: Αγία Σοφία
+    en: Hagia Sophia
+    eo: Hagia Sofia
+    es: Santa Sofía
+    et: Hagia Sophia
+    eu: Hagia Sofia
+    fa: ایاصوفیه
+    fi: Hagia Sofia
+    fr: Sainte-Sophie
+    fy: Hagia Sofia (Istanbûl)
+    ga: Hagia Sofia
+    gaa: Hagia Sophia
+    gl: Igrexa de Santa Sofía
+    gn: Marangatu Sofía
+    gpe: Hagia Sophia
+    gsw: Hagia Sophia
+    ha: Hagia Sophia
+    he: איה סופיה
+    hi: हागिया सोफिया
+    hif: Hagia Sophia
+    hr: Hagia Sophia
+    hu: Hagia Szophia
+    hy: Սուրբ Սոֆիայի տաճար
+    hyw: Ս. Սոֆիա տաճար (Կ. Պոլիս)
+    id: Hagia Sofia
+    ilo: Hagia Sophia
+    inh: Айя София
+    io: Hagia Sofia
+    is: Ægisif
+    it: basilica di Santa Sofia
+    ja: アヤソフィア
+    jv: Hagia Sophia
+    ka: აია-სოფიას ტაძარი
+    kab: Aya Sofya
+    kbp: Sophie Kiɖeɖeu Keɖeyaɣ wondu ɖɩɣa
+    kk: Айя София
+    ko: 아야 소피아
+    ku: Ayasofya
+    kw: Hagia Sophia
+    ky: Айя-Софья
+    la: Aedes Sanctae Sophiae
+    lad: Santa Sofia
+    lb: Hagia Sofia
+    lt: Sofijos soboras
+    lv: Svētā Sofija
+    mad: Hagia Sofia, Istanbul
+    mg: Hagia Sophia
+    min: Hagia Sophia
+    mk: Црква Света Софија
+    ml: ഹേജിയ സോഫിയ
+    mn: Софийн цогчин дуган
+    mr: हागिया सोफिया
+    ms: Aya Sophia
+    mt: Hagia Sophia
+    my: ဟာဂီယာ ဆိုဖီယာ
+    nan: Hagia Sophia
+    nb: Hagia Sofia
+    nds: Hagia Sophia
+    ne: ह्यागिया सोफिया
+    new: हाइया सोफिया
+    nl: Hagia Sophia
+    nn: Hagia Sofia
+    oc: Hagia Sophia
+    pa: ਹਾਗੀਆ ਸੋਫੀਆ
+    pl: Hagia Sofia
+    pms: Hagia Sophia
+    pnb: آیا صوفیا
+    ps: اياصوفيه
+    pt: Basílica de Santa Sofia
+    pt-br: Santa Sofia
+    qu: Aya Sophiya
+    ro: Hagia Sofia din Istanbul
+    rsk: Ая София
+    ru: Собор Святой Софии
+    rue: Храм Божой Премудрости
+    sah: Айыы Суоппуйа собора
+    sco: Hagia Sophia
+    sgs: Suopėjės sobors
+    sh: Aja Sofija
+    si: හජියා සොෆියා
+    sk: Hagia Sofia
+    sl: Hagija Sofija
+    smn: Hagia Sofia
+    so: Ayaa sofiya
+    sq: Aya Sofia
+    sr: Аја Софија
+    sr-ec: Аја Софија
+    stq: Hagia Sophia
+    su: Aya Sopia
+    sv: Hagia Sofia
+    sw: Hagia Sophia
+    ta: ஹேகியா சோபியா
+    tg: Айёсуфия
+    th: ฮายาโซฟีอา
+    tl: Hagia Sophia
+    tok: tomo Aja Sopija
+    tr: Ayasofya
+    tt: Айя Суфия
+    tw: Hagia Sophia
+    udm: Дун-сьӧлыктэм Софиялэн соборез
+    ug: ئاياسوڧيا
+    uk: Софійський собор
+    ur: آیاصوفیا
+    uz: Sofiya ibodatxonasi
+    vi: Hagia Sophia
+    war: Hagia Sophia
+    wuu: 圣索菲亚大教堂
+    xmf: აია-სოფიაშ ოხიდა
+    yi: האגיא סאפיא
+    yue: 聖蘇菲亞大教堂
+    zh: 阿亚索菲亚
+    zh-hk: 聖蘇菲亞大教堂
 ---
-
 # [[Hagia_Sophia]] 
 
 ![[../../../../assets/Hagia_Sophia.png]]  

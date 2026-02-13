@@ -1,8 +1,44 @@
 ---
-has_time_started: 1937-05-28 
+has_time_started: 1937-05-28
 aliases:
-  - Volkswagen
-  - VW(Volkswagen)
+- Folksvagen
+- Folkswein
+- Volkswaegen
+- Volkswagen
+- Volkswagen AG
+- Volkswagen kompaniyasi
+- VW(Volkswagen)
+- Фолксваген
+- Фольксваген
+- פאלקסוואגן
+- פולקסווגן
+- ئاممىباپ ئاپتوموبىل
+- فولكس فاجن
+- فولكسفاغن
+- فولكسڤاكن
+- فولکسواقن
+- فولکسواگن
+- فوکس ویگن
+- فۆلکسڤاگن
+- ولکسواگن
+- ووکس ویگن
+- फोक्सवागन
+- भोल्क्सवागन
+- वॉक्सवैगन
+- ফোক্সওয়াগেন
+- ਫ਼ੌਕਸਵੈਗਨ
+- வோல்க்ஸ்வேகன்
+- వోక్స్ వాగన్
+- ವೋಕ್ಸ್ ವ್ಯಾಗನ್
+- ഫോക്സ്-വാഗൺ
+- ෆෝක්ස්වෑගන්
+- โฟล์กสวาเกน
+- ဗော့စ်ဝဂ္ဂန်
+- フォルクスワーゲン
+- 大众汽车
+- 福士汽車
+- 福斯汽車
+- 폭스바겐
 has_id_wikidata: Q246
 Giphy_username: volkswagen-sk
 Baidu_Tieba_name: 大众汽车
@@ -11,36 +47,36 @@ native_label: Volkswagen
 different_from: '[[_Standards/WikiData/WD~Volkswagen_Group,156578]]'
 parent_organization_or_unit: '[[_Standards/WikiData/WD~Volkswagen_Group,156578]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~Volkswagen_Phaeton,158736]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Passat,216754]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Eos,500665]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Jetta,697152]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Transporter,719895]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Up!,748949]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Lupo,817309]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Scirocco,835078]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Amarok,1027973]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Crafter,1351132]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Bora,1417237]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Vento,1418315]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Beetle,1968742]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_T_Roc,15966358]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Arteon,28064385]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_T_Cross,39075622]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_ID._series,55637210]]'
-  - '[[_Standards/WikiData/WD~Volkswagen_Golf,247]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Phaeton,158736]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Passat,216754]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Eos,500665]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Jetta,697152]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Transporter,719895]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Up!,748949]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Lupo,817309]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Scirocco,835078]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Amarok,1027973]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Crafter,1351132]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Bora,1417237]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Vento,1418315]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Beetle,1968742]]'
+- '[[_Standards/WikiData/WD~Volkswagen_T_Roc,15966358]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Arteon,28064385]]'
+- '[[_Standards/WikiData/WD~Volkswagen_T_Cross,39075622]]'
+- '[[_Standards/WikiData/WD~Volkswagen_ID._series,55637210]]'
+- '[[_Standards/WikiData/WD~Volkswagen_Golf,247]]'
 award_received: '[[_Standards/WikiData/WD~Ig_Nobel_Prize,184253]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
-  - '[[_Standards/WikiData/WD~National_Car_Museum_of_Iran,13218982]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Bundeswehr_Museum_of_German_Defense_Technology,2205919]]'
+- '[[_Standards/WikiData/WD~National_Car_Museum_of_Iran,13218982]]'
 industry: '[[_Standards/WikiData/WD~automotive_industry,190117]]'
 founded_by: '[[_Standards/WikiData/WD~German_Labor_Front,312526]]'
 legal_form: '[[_Standards/WikiData/WD~Aktiengesellschaft,422062]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~subsidiary_company,658255]]'
-  - '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
-  - '[[_Standards/WikiData/WD~car_brand,10429667]]'
+- '[[_Standards/WikiData/WD~subsidiary_company,658255]]'
+- '[[_Standards/WikiData/WD~automobile_manufacturer,786820]]'
+- '[[_Standards/WikiData/WD~car_brand,10429667]]'
 named_after: '[[_Standards/WikiData/WD~KdF_Wagen,1737639]]'
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Thomas_Schäfer,100989426]]'
@@ -49,8 +85,8 @@ location_of_formation: '[[_Standards/WikiData/WD~Wolfsburg,3014]]'
 headquarters_location: '[[_Standards/WikiData/WD~Wolfsburg,3014]]'
 country: '[[_Standards/WikiData/WD~Germany,183]]'
 social_media_followers:
-  - 105000
-  - 326000
+- 105000
+- 326000
 significant_person: '[[_Standards/WikiData/WD~Ferdinand_Porsche,57249]]'
 net_profit: 17928000000
 operating_income: 22576000000
@@ -58,8 +94,8 @@ total_revenue: 322284000000
 subreddit: Volkswagen
 hashtag: Volkswagen
 X_Twitter_username:
-  - Volkswagen
-  - VW
+- Volkswagen
+- VW
 Commons_gallery: Volkswagen
 Commons_category: Volkswagen
 Facebook_username: VW
@@ -74,17 +110,70 @@ TikTok_username: volkswagen
 short_name: VW
 WMI_code: WVW
 location_information_URL:
-  - https://www.volkswagen.co.nz/app/nz/find-a-dealer
-  - https://www.volkswagen.com.au/app/locals/find-dealer
-  - https://www.volkswagen.ie/en/find-a-volkswagen-retailer.html
-  - https://www.vw-eg.com/showrooms-locations/
-  - https://www.vw.co.za/en/dealer-search-south-africa.html
+- https://www.volkswagen.co.nz/app/nz/find-a-dealer
+- https://www.volkswagen.com.au/app/locals/find-dealer
+- https://www.volkswagen.ie/en/find-a-volkswagen-retailer.html
+- https://www.vw-eg.com/showrooms-locations/
+- https://www.vw.co.za/en/dealer-search-south-africa.html
 official_website: https://www.vw.com/
 Bilibili_UID: 1396130300
 REDnote_profile: 63d9f30a0000000027029e6c
 Zhihu_username: da-zhong-qi-che-pin-pai
+dv_has_:
+  name_:
+    ar: فولكسفاغن
+    ary: فولكسڤاكن
+    arz: فولكس فاجن
+    azb: فولکسواقن
+    be-tarask: Фольксваген
+    bg: Фолксваген
+    bn: ফোক্সওয়াগেন
+    ckb: فۆلکسڤاگن
+    en: Volkswagen
+    eu: Volkswagen AG
+    fa: فولکسواگن
+    fy: Folkswein
+    gan-hans: 大众汽车
+    he: פולקסווגן
+    hi: वॉक्सवैगन
+    ja: フォルクスワーゲン
+    kn: ವೋಕ್ಸ್ ವ್ಯಾಗನ್
+    ko: 폭스바겐
+    mk: Фолксваген
+    ml: ഫോക്സ്-വാഗൺ
+    mn: Фолксваген
+    mr: फोक्सवागन
+    mul: Volkswagen
+    my: ဗော့စ်ဝဂ္ဂန်
+    mzn: ولکسواگن
+    ne: भोल्क्सवागन
+    pa: ਫ਼ੌਕਸਵੈਗਨ
+    pnb: فوکس ویگن
+    pt: Volkswagen
+    si: ෆෝක්ස්වෑගන්
+    sr: Фолксваген
+    sr-ec: Фолксваген
+    sr-el: Folksvagen
+    ta: வோல்க்ஸ்வேகன்
+    te: వోక్స్ వాగన్
+    th: โฟล์กสวาเกน
+    ug: ئاممىباپ ئاپتوموبىل
+    ur: ووکس ویگن
+    uz: Volkswagen kompaniyasi
+    wuu: 大众汽车
+    yi: פאלקסוואגן
+    yue: 福士汽車
+    zea: Volkswaegen
+    zh: 大众汽车
+    zh-cn: 大众汽车
+    zh-hans: 大众汽车
+    zh-hant: 大众汽车
+    zh-hk: 大众汽车
+    zh-mo: 大众汽车
+    zh-my: 大众汽车
+    zh-sg: 大众汽车
+    zh-tw: 福斯汽車
 ---
-
 # [[VW(Volkswagen)]] 
 
 #is_/same_as :: [[WD~Volkswagen,246]] 

@@ -1,42 +1,221 @@
 ---
 aliases:
+- Gidrosfera
+- Guenqraemx
+- H,FJZ6
+- Haayidroosfiiraa
+- hidrisféar
+- Hidrosfeer
+- Hidrosfer
+- hidrosfera
+- Hidrosferenn
+- hidrosfero
+- hidrosferă
+- Hidrosfēra
+- Hidrospera
+- hidroszféra
+- hidrósfera
+- hydrosfeara
+- Hydrosfeer
+- hydrosfera
+- hydrosfären
+- hydrosfääʹr
+- Hydrosfære
+- hydrosfæære
+- hydrosféra
+- Hydrosphaera
+- hydrosphere
+- Hydrosphär
+- Hydrosphäre
+- hydrosphère
+- hüdrosfäär
+- idrosfera
+- Idrosfèra
+- Idwosfè
+- Lìtegnɛ li màlep
+- ntshi ánɛ nti ntsem
+- thủy quyển
+- Vatnshvolf
+- vesikehä
+- Yaku pacha
+- čäcikerdi
+- Υδρόσφαιρα
+- гідрасфера
+- гідрасфэра
+- гідросфера
+- гидросферæ
+- гидросфера
+- Усан мандал
+- Хидросфера
+- ХинтIехар-Iи
+- Ջրոլորտ
+- הידרוספירה
+- آبکره
+- غلاف الأرض المائي
+- هايدروسفير
+- هیدروسفر
+- پاڻي جو دائرو
+- کرہ آبی
+- जलमंडल
+- जलमण्डल
+- জলমণ্ডল
+- বারিমণ্ডল
+- ਜਲਮੰਡਲ
+- நீர்க்கோளம்
+- ജലമണ്ഡലം
+- อุทกภาค
+- ჰიდროსფერო
+- 水圈
+- 水圏
+- 수권
 has_id_wikidata: Q83169
 instance_of:
-  - "[[_Standards/WikiData/WD~geosphere,241284]]"
-  - "[[_Standards/WikiData/WD~geographic_envelope,2627400]]"
-has_part_s_: "[[_Standards/WikiData/WD~World_Ocean,715269]]"
+- '[[_Standards/WikiData/WD~geosphere,241284]]'
+- '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
+has_part_s_: '[[_Standards/WikiData/WD~World_Ocean,715269]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]"
-part_of: "[[_Standards/WikiData/WD~Earth,2]]"
-studied_by: "[[_Standards/WikiData/WD~physical_geography,52107]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]'
+part_of: '[[_Standards/WikiData/WD~Earth,2]]'
+studied_by: '[[_Standards/WikiData/WD~physical_geography,52107]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%9C%E0%A8%B2%E0%A8%AE%E0%A9%B0%E0%A8%A1%E0%A8%B2.wav
 Provenio_UUID: 5d3d1008-39da-433e-9d8f-ecf6d8af4845
 Commons_category: Hydrosphere
 dv_is_:
-  studied_by: "[[../Geology/Hydrology|Hydrology]]"
+  studied_by: '[[../Geology/Hydrology|Hydrology]]'
   same_as:
-    - "[[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]]"
-    - "[[/_Standards/Earth/Climate/Hydrosphere|Hydrosphere]]"
-    - "[[/_public/Earth/Climate/Hydrosphere.public|Hydrosphere.public]]"
-    - "[[/_internal/Earth/Climate/Hydrosphere.internal|Hydrosphere.internal]]"
-    - "[[/_protect/Earth/Climate/Hydrosphere.protect|Hydrosphere.protect]]"
-    - "[[/_private/Earth/Climate/Hydrosphere.private|Hydrosphere.private]]"
-    - "[[/_personal/Earth/Climate/Hydrosphere.personal|Hydrosphere.personal]]"
-    - "[[/_secret/Earth/Climate/Hydrosphere.secret|Hydrosphere.secret]]"
-dv_is_studied_by: "[[../Geology/Hydrology|Hydrology]]"
+  - '[[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]]'
+  - '[[/_Standards/Earth/Climate/Hydrosphere|Hydrosphere]]'
+  - '[[/_public/Earth/Climate/Hydrosphere.public|Hydrosphere.public]]'
+  - '[[/_internal/Earth/Climate/Hydrosphere.internal|Hydrosphere.internal]]'
+  - '[[/_protect/Earth/Climate/Hydrosphere.protect|Hydrosphere.protect]]'
+  - '[[/_private/Earth/Climate/Hydrosphere.private|Hydrosphere.private]]'
+  - '[[/_personal/Earth/Climate/Hydrosphere.personal|Hydrosphere.personal]]'
+  - '[[/_secret/Earth/Climate/Hydrosphere.secret|Hydrosphere.secret]]'
+dv_is_studied_by: '[[../Geology/Hydrology|Hydrology]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]]"
-  - "[[/_Standards/Earth/Climate/Hydrosphere|Hydrosphere]]"
-  - "[[/_public/Earth/Climate/Hydrosphere.public|Hydrosphere.public]]"
-  - "[[/_internal/Earth/Climate/Hydrosphere.internal|Hydrosphere.internal]]"
-  - "[[/_protect/Earth/Climate/Hydrosphere.protect|Hydrosphere.protect]]"
-  - "[[/_private/Earth/Climate/Hydrosphere.private|Hydrosphere.private]]"
-  - "[[/_personal/Earth/Climate/Hydrosphere.personal|Hydrosphere.personal]]"
-  - "[[/_secret/Earth/Climate/Hydrosphere.secret|Hydrosphere.secret]]"
+- '[[../../WikiData/WD~Hydrosphere,83169|WD~Hydrosphere,83169]]'
+- '[[/_Standards/Earth/Climate/Hydrosphere|Hydrosphere]]'
+- '[[/_public/Earth/Climate/Hydrosphere.public|Hydrosphere.public]]'
+- '[[/_internal/Earth/Climate/Hydrosphere.internal|Hydrosphere.internal]]'
+- '[[/_protect/Earth/Climate/Hydrosphere.protect|Hydrosphere.protect]]'
+- '[[/_private/Earth/Climate/Hydrosphere.private|Hydrosphere.private]]'
+- '[[/_personal/Earth/Climate/Hydrosphere.personal|Hydrosphere.personal]]'
+- '[[/_secret/Earth/Climate/Hydrosphere.secret|Hydrosphere.secret]]'
+dv_has_:
+  name_:
+    af: Hidrosfeer
+    ar: غلاف الأرض المائي
+    as: জলমণ্ডল
+    ast: hidrosfera
+    az: Hidrosfer
+    azb: هیدروسفر
+    ba: Гидросфера
+    bas: Lìtegnɛ li màlep
+    bcl: Hidrospera
+    be: гідрасфера
+    be-tarask: гідрасфэра
+    bg: Хидросфера
+    bho: जलमण्डल
+    bn: বারিমণ্ডল
+    br: Hidrosferenn
+    bs: hidrosfera
+    ca: hidrosfera
+    cs: hydrosféra
+    da: Hydrosfære
+    de: Hydrosphäre
+    el: Υδρόσφαιρα
+    en: hydrosphere
+    en-ca: Hydrosphere
+    en-gb: hydrosphere
+    en-us: hydrosphere
+    eo: hidrosfero
+    es: hidrósfera
+    et: hüdrosfäär
+    eu: hidrosfera
+    fa: آبکره
+    fi: vesikehä
+    fr: hydrosphère
+    ga: hidrisféar
+    gl: hidrosfera
+    gu: H,FJZ6
+    he: הידרוספירה
+    hi: जलमण्डल
+    hr: hidrosfera
+    ht: Idwosfè
+    hu: hidroszféra
+    hy: Ջրոլորտ
+    id: Hidrosfer
+    ig: hydrosphere
+    inh: ХинтIехар-Iи
+    is: Vatnshvolf
+    it: idrosfera
+    ja: 水圏
+    ka: ჰიდროსფერო
+    kaa: Gidrosfera
+    kk: Гидросфера
+    ko: 수권
+    ky: Гидросфера
+    la: Hydrosphaera
+    lb: Hydrosphär
+    li: Hydrosfeer
+    lt: hidrosfera
+    lv: Hidrosfēra
+    mk: Хидросфера
+    ml: ജലമണ്ഡലം
+    mn: Усан мандал
+    mr: जलमंडल
+    ms: Hidrosfera
+    nb: hydrosfære
+    nl: hydrosfeer
+    nn: hydrosfære
+    oc: Idrosfèra
+    om: Haayidroosfiiraa
+    os: гидросферæ
+    pa: ਜਲਮੰਡਲ
+    pap: Hidrosfeer
+    pl: hydrosfera
+    ps: هايدروسفير
+    pt: hidrosfera
+    pt-br: Hidrosfera
+    qu: Yaku pacha
+    ro: hidrosferă
+    ru: гидросфера
+    sco: hydrosphere
+    sd: پاڻي جو دائرو
+    se: hydrosfeara
+    sh: Hidrosfera
+    sk: Hydrosféra
+    sl: hidrosfera
+    sma: hydrosfæære
+    smn: čäcikerdi
+    sms: hydrosfääʹr
+    sq: Hidrosfera
+    sr: хидросфера
+    sr-ec: хидросфера
+    sr-el: hidrosfera
+    sv: hydrosfären
+    ta: நீர்க்கோளம்
+    tg: Гидросфера
+    th: อุทกภาค
+    tl: hydrosphere
+    tr: Hidrosfer
+    tt: Гидросфера
+    udm: гидросфера
+    uk: гідросфера
+    ur: کرہ آبی
+    uz: Gidrosfera
+    vi: thủy quyển
+    vls: Hydrosfeer
+    war: Hidrospera
+    wuu: 水圈
+    xmf: ჰიდროსფერო
+    ybb: ntshi ánɛ nti ntsem
+    yue: 水圈
+    za: Guenqraemx
+    zh: 水圈
 ---
-
 # [[Hydrosphere]] 
 
 is_studied_by = `=this.dv_is_studied_by`

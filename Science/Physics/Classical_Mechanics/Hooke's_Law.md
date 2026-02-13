@@ -1,27 +1,178 @@
 ---
 aliases:
-  - Hookesches Gesetz
-  - Hookesche Gesetz
-  - Hooke's_Law
-  - Hooke's Law
+- dlí Hooke
+- Guk qonuni
+- Gukan käskuz
+- Gwk zañı
+- Hooke yasası
+- Hooke'i seadus
+- Hooke's Law
+- Hooke's_Law
+- Hooke-lova
+- Hooke-törvény
+- Hooken laki
+- Hookeov zakon
+- Hookeren legea
+- Hookes lag
+- Hookes lov
+- Hookesche Gesetz
+- Hookesches Gesetz
+- Hookeův zákon
+- Hookov zakon
+- Hookov zákon
+- Huka likums
+- Huko dėsnis
+- Hukov zakon
+- Hukum Hooke
+- Hük qanunu
+- legea lui Hooke
+- legge di Hooke
+- lei de Hooke
+- lej ëd Hooke
+- lex Hooke
+- ley de elasticidad de Hooke
+- leĝo de Hooke
+- ligi ta' Hooke
+- llei d'elasticidá de Hooke
+- Llei de Hooke
+- loi de Hooke
+- lèi de Hooke
+- prawo Hooke'a
+- S Gsetz vom Hooke
+- wet van Hooke
+- định luật Hooke
+- νόμος του Χουκ
+- Гук заңы
+- Гук саккунĕ
+- Гукийн хууль
+- закон Гука
+- закон на Хук
+- Хуков закон
+- Հուկի օրենք
+- חוק הוק
+- قانون هوك
+- قانون هوک
+- گۋك زاڭى
+- یاسای ھۆک
+- हुक का नियम
+- হুকের সূত্র
+- ஹூக்கின் விதி
+- ಹುಕ್ನ ನಿಯಮ
+- හුක්ගේ නියමය
+- กฎของฮุก
+- პუასონის კოეფიციენტი
+- የሁክ ህግ
+- ច្បាប់ហ៊ូក
+- フックの法則
+- 胡克定律
+- 虎克定律
+- 훅 법칙
 has_id_wikidata: Q170282
 main_subject: '[[_Standards/WikiData/WD~spring,102836]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~physical_law,214070]]'
-  - '[[_Standards/WikiData/WD~empirical_law,3258494]]'
+- '[[_Standards/WikiData/WD~physical_law,214070]]'
+- '[[_Standards/WikiData/WD~empirical_law,3258494]]'
 part_of: '[[_Standards/WikiData/WD~elasticity_theory,1913277]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 named_after: '[[_Standards/WikiData/WD~Robert_Hooke,46830]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>F</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>k</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi><mi>l</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>F</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>k</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi><mi>l</mi></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>F</mi><mo stretchy="false">=</mo><mi>k</mi><mi mathvariant="normal">&#x0394;</mi><mi>l</mi></mstyle></mrow></math>
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%20%D0%93%D1%83%D0%BA%D0%B0.webm
 Commons_category: Hooke's law
+dv_has_:
+  name_:
+    am: የሁክ ህግ
+    ar: قانون هوك
+    ast: llei d'elasticidá de Hooke
+    az: Hük qanunu
+    be: закон Гука
+    be-tarask: закон Гука
+    bg: закон на Хук
+    bn: হুকের সূত্র
+    bs: Hookeov zakon
+    ca: Llei de Hooke
+    ckb: یاسای ھۆک
+    cs: Hookeův zákon
+    cv: Гук саккунĕ
+    da: Hookes lov
+    de: hookesches Gesetz
+    el: νόμος του Χουκ
+    en: Hooke's law
+    eo: leĝo de Hooke
+    es: ley de elasticidad de Hooke
+    et: Hooke'i seadus
+    eu: Hookeren legea
+    fa: قانون هوک
+    fi: Hooken laki
+    fr: loi de Hooke
+    ga: dlí Hooke
+    gl: lei de Hooke
+    gsw: S Gsetz vom Hooke
+    he: חוק הוק
+    hi: हुक का नियम
+    hr: Hookeov zakon
+    hu: Hooke-törvény
+    hy: Հուկի օրենք
+    id: Hukum Hooke
+    it: legge di Hooke
+    ja: フックの法則
+    ka: პუასონის კოეფიციენტი
+    kk: Гук заңы
+    kk-arab: گۋك زاڭى
+    kk-cn: گۋك زاڭى
+    kk-cyrl: Гук заңы
+    kk-kz: Гук заңы
+    kk-latn: Gwk zañı
+    kk-tr: Gwk zañı
+    km: ច្បាប់ហ៊ូក
+    kn: ಹುಕ್ನ ನಿಯಮ
+    ko: 훅 법칙
+    la: lex Hooke
+    lt: Huko dėsnis
+    lv: Huka likums
+    mk: Хуков закон
+    mn: Гукийн хууль
+    ms: Hukum Hooke
+    mt: ligi ta' Hooke
+    nb: Hookes lov
+    nl: wet van Hooke
+    nn: Hooke-lova
+    oc: lèi de Hooke
+    pl: prawo Hooke'a
+    pms: lej ëd Hooke
+    pt: lei de Hooke
+    ro: legea lui Hooke
+    ru: закон Гука
+    sh: Hookeov zakon
+    si: හුක්ගේ නියමය
+    sk: Hookov zákon
+    sl: Hookov zakon
+    sr: Хуков закон
+    sr-ec: Хуков закон
+    sr-el: Hukov zakon
+    sv: Hookes lag
+    ta: ஹூக்கின் விதி
+    th: กฎของฮุก
+    tr: Hooke yasası
+    uk: закон Гука
+    uz: Guk qonuni
+    vep: Gukan käskuz
+    vi: định luật Hooke
+    wuu: 胡克定律
+    yue: 胡克定律
+    zh: 胡克定律
+    zh-cn: 胡克定律
+    zh-hans: 胡克定律
+    zh-hant: 胡克定律
+    zh-hk: 虎克定律
+    zh-sg: 胡克定律
+    zh-tw: 虎克定律
 ---
 # [[Hooke's_Law]] 
 

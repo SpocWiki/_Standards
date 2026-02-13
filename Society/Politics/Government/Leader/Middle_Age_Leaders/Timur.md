@@ -1,37 +1,111 @@
 ---
 aliases:
-  - Timur
-  - Tamerlane
-  - Tamerlan
+- Amir Temur
+- Tamburlan
+- Tamerlan
+- Tamerlane
+- Tamerlanes
+- Tamerlano
+- Tamerlanu
+- Tamerlà
+- Tamerlán
+- Tamerlão
+- Temir
+- Thiếp Mộc Nhi
+- Timoer
+- Timoer Lenk
+- Timur
+- Timur Bacach
+- Timur Chromy
+- Timur Lenk
+- Timuri
+- Timurleng
+- Timuro
+- Timurs
+- Timūras
+- Timūrs
+- Tímúr
+- Tîmûrleng
+- Əmir Teymur
+- Ταμερλάνος
+- Аксак Тимер
+- Амир Темир
+- Аҡһаҡ Тимер
+- Доголон Төмөр
+- Дохолон Тэмүр
+- Тімур
+- Тамерлан
+- Темури Ланг
+- Тимур
+- Тымур
+- Әмір Темір
+- Լենկ-Թիմուր
+- Լենկթեմուր
+- טימור
+- טימור לנג
+- ئەمىر تېمۇر
+- امیر تیمور
+- تئیموٙر لأنگ
+- تيمور لنگ
+- تيمورلنك
+- تيمورلينك
+- تیمور
+- تیمور لنگ
+- تیمور گورکانی
+- تەیمووری لەنگ
+- ګوډ تېمور
+- तमेरलेन
+- तिमुर
+- तैमुरलंग
+- तैमूर लंग
+- तैमूरलंग
+- তৈমুর লং
+- তৈমুৰ লং
+- ਤੈਮੂਰ
+- તૈમુરલંઘ
+- தைமூர்
+- తైమూర్ లంగ్
+- ತೈಮೂರ್ ಲಂಗ್
+- തിമൂർ
+- เตมือร์
+- တိမူး
+- თემურლენგი
+- ተሙር
+- ティムール
+- 帖木儿
+- 帖木兒
+- 帖木尔
+- 帖木爾
+- 티무르
 has_id_wikidata: Q8462
 allegiance:
-  - '[[_Standards/WikiData/WD~khagan,187878]]'
-  - '[[_Standards/WikiData/WD~Mirza,12269708]]'
+- '[[_Standards/WikiData/WD~khagan,187878]]'
+- '[[_Standards/WikiData/WD~Mirza,12269708]]'
 BHCL_UUID: c6006258-bb69-417d-89be-6cf3fd95146f
 child:
-  - '[[_Standards/WikiData/WD~Shah_Rukh,553204]]'
-  - '[[_Standards/WikiData/WD~Miran_Shah,936616]]'
-  - '[[_Standards/WikiData/WD~Jahangir_Mirza_ibn_Timur,4139069]]'
-  - '[[_Standards/WikiData/WD~Aka_Begi,4449521]]'
-  - '[[_Standards/WikiData/WD~Umar_Shaikh,4475316]]'
-  - '[[_Standards/WikiData/WD~Jahanshah_Mirza,131823659]]'
+- '[[_Standards/WikiData/WD~Shah_Rukh,553204]]'
+- '[[_Standards/WikiData/WD~Miran_Shah,936616]]'
+- '[[_Standards/WikiData/WD~Jahangir_Mirza_ibn_Timur,4139069]]'
+- '[[_Standards/WikiData/WD~Aka_Begi,4449521]]'
+- '[[_Standards/WikiData/WD~Umar_Shaikh,4475316]]'
+- '[[_Standards/WikiData/WD~Jahanshah_Mirza,131823659]]'
 Commons_category: Timur
 Commons_Creator_page: Timur
 Commons_gallery: Tamerlan
 date_of_birth:
-  - 1336-04-17
-  - 1336-04-16
+- 1336-04-17
+- 1336-04-16
 date_of_death:
-  - 1405-02-28
-  - 1405-02-27
+- 1405-02-28
+- 1405-02-27
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_History_of_Yuan,1053256]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 family: '[[_Standards/WikiData/WD~Timurid_dynasty,20737645]]'
 father: '[[_Standards/WikiData/WD~Taraghai,3515578]]'
 given_name: '[[_Standards/WikiData/WD~Timur,12376986]]'
@@ -44,20 +118,20 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 000000012136280X
 Krugosvet_article: istoriya/TIMUR.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Middle_Mongolian,2582455]]'
-  - '[[_Standards/WikiData/WD~Persian,9168]]'
-  - '[[_Standards/WikiData/WD~Chagatai,36831]]'
+- '[[_Standards/WikiData/WD~Middle_Mongolian,2582455]]'
+- '[[_Standards/WikiData/WD~Persian,9168]]'
+- '[[_Standards/WikiData/WD~Chagatai,36831]]'
 Libris_URI: xv8bf2kg2m0d860
 medical_condition: '[[_Standards/WikiData/WD~limp,2909116]]'
 military_or_police_rank:
-  - '[[_Standards/WikiData/WD~khagan,187878]]'
-  - '[[_Standards/WikiData/WD~Baig,3683091]]'
-  - '[[_Standards/WikiData/WD~Mirza,12269708]]'
+- '[[_Standards/WikiData/WD~khagan,187878]]'
+- '[[_Standards/WikiData/WD~Baig,3683091]]'
+- '[[_Standards/WikiData/WD~Mirza,12269708]]'
 mother: '[[_Standards/WikiData/WD~Tekina_Khatun,108091442]]'
 noble_title:
-  - '[[_Standards/WikiData/WD~Amir,166382]]'
-  - '[[_Standards/WikiData/WD~Bey,181217]]'
-  - '[[_Standards/WikiData/WD~Mirza,12269708]]'
+- '[[_Standards/WikiData/WD~Amir,166382]]'
+- '[[_Standards/WikiData/WD~Bey,181217]]'
+- '[[_Standards/WikiData/WD~Mirza,12269708]]'
 occupation: '[[_Standards/WikiData/WD~warrior,1250916]]'
 participant_in: "[[_Standards/WikiData/WD~Timur's_Counter_Siege,118957290]]"
 place_of_birth: '[[_Standards/WikiData/WD~Shahrisabz,569766]]'
@@ -69,13 +143,168 @@ religion_or_worldview: '[[_Standards/WikiData/WD~Sunni_Islam,483654]]'
 replaced_by: '[[_Standards/WikiData/WD~Khalil_Sultan,1367188]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Saray_Malik_Katun,734418]]'
-  - '[[_Standards/WikiData/WD~Uljay-Turkan_aga,4474916]]'
-  - '[[_Standards/WikiData/WD~Dilshad_aga,12821413]]'
-  - '[[_Standards/WikiData/WD~Cholpan-Mulk_Aga,25525265]]'
+- '[[_Standards/WikiData/WD~Saray_Malik_Katun,734418]]'
+- '[[_Standards/WikiData/WD~Uljay-Turkan_aga,4474916]]'
+- '[[_Standards/WikiData/WD~Dilshad_aga,12821413]]'
+- '[[_Standards/WikiData/WD~Cholpan-Mulk_Aga,25525265]]'
 time_period: '[[_Standards/WikiData/WD~Timurid_Empire,484195]]'
+dv_has_:
+  name_:
+    af: Timoer
+    am: ተሙር
+    an: Tamerlán
+    anp: तैमूर लंग
+    ar: تيمورلنك
+    ary: تيمورلينك
+    arz: تيمورلنك
+    as: তৈমুৰ লং
+    ast: Tamerlán
+    awa: तमेरलेन
+    az: Əmir Teymur
+    azb: تیمور
+    ba: Аҡһаҡ Тимер
+    be: Тамерлан
+    be-tarask: Тымур
+    bew: Timur
+    bg: Тимур
+    bn: তৈমুর লং
+    br: Timur
+    bs: Timur Lenk
+    btm: Tamerlane
+    bxr: Дохолон Тэмүр
+    ca: Tamerlà
+    ce: Тамерлан
+    ckb: تەیمووری لەنگ
+    co: Tamerlanu
+    crh: Temir
+    cs: Tamerlán
+    cv: Тамерлан
+    cy: Timur
+    da: Timur Lenk
+    de: Tamerlan
+    diq: Timurleng
+    el: Ταμερλάνος
+    en: Timur
+    en-ca: Timur
+    en-gb: Timur
+    en-us: Timur
+    eo: Timuro
+    es: Tamerlán
+    et: Timur
+    eu: Tamerlan
+    fa: تیمور
+    fi: Timur Lenk
+    fr: Tamerlan
+    fy: Timoer Lenk
+    ga: Timur Bacach
+    gl: Tamerlán
+    gn: Tamerlán
+    gsw: Tamerlan
+    gu: તૈમુરલંઘ
+    ha: Timur
+    he: טימור לנג
+    hi: तैमूरलंग
+    hif: Timur
+    hr: Timur
+    hu: Timur Lenk
+    hy: Լենկթեմուր
+    hyw: Լենկ-Թիմուր
+    ia: Timur
+    id: Tamerlane
+    ilo: Timur
+    is: Tímúr
+    it: Tamerlano
+    ja: ティムール
+    ka: თემურლენგი
+    kaa: Amir Temur
+    kbp: Tamerlan
+    kk: Әмір Темір
+    kn: ತೈಮೂರ್ ಲಂಗ್
+    knc: Tamerlane
+    ko: 티무르
+    ku: Tîmûrleng
+    kw: Timur
+    ky: Амир Темир
+    la: Tamerlanes
+    lad: Timur
+    lez: Тамерлан
+    lfn: Timur
+    lij: Tamerlan
+    lmo: Tamerlan
+    lrc: تئیموٙر لأنگ
+    lt: Timūras
+    lv: Timurs
+    lzh: 帖木爾
+    mad: Timur Lenk
+    mai: तमेरलेन
+    mg: Timur
+    min: Timur Lenk
+    mk: Тамерлан
+    ml: തിമൂർ
+    mn: Доголон Төмөр
+    mr: तैमूरलंग
+    ms: Tamerlane
+    mt: Timur
+    my: တိမူး
+    mzn: تیمور گورکانی
+    nan: Timur
+    nb: Timur Lenk
+    nds: Tamerlan
+    new: तिमुर
+    nl: Timoer Lenk
+    nn: Timur Lenk
+    oc: Tamburlan
+    os: Тамерлан
+    pa: ਤੈਮੂਰ
+    pap: Timur
+    pcm: Timur
+    pl: Timur Chromy
+    pms: Tamerlan
+    pnb: تیمور
+    ps: ګوډ تېمور
+    pt: Tamerlão
+    pt-br: Tamerlão
+    ro: Timur
+    ru: Тамерлан
+    rue: Тімур
+    sa: तैमुरलंग
+    sah: Тамерлан
+    scn: Tamerlanu
+    sco: Timur
+    sd: تيمور لنگ
+    sgs: Timūrs
+    sh: Timur
+    sk: Tímúr
+    skr: تیمور لنگ
+    sl: Timur Lenk
+    so: Timur
+    sq: Timuri
+    sr: Тамерлан
+    sv: Timur Lenk
+    sw: Timur
+    ta: தைமூர்
+    te: తైమూర్ లంగ్
+    tg: Темури Ланг
+    th: เตมือร์
+    tk: Timur
+    tl: Timur
+    tr: Timur
+    tt: Аксак Тимер
+    ug: ئەمىر تېمۇر
+    uk: Тимур
+    ur: امیر تیمور
+    uz: Amir Temur
+    vi: Thiếp Mộc Nhi
+    vro: Timur
+    war: Timur
+    wuu: 帖木儿
+    xmf: თემურლენგი
+    yi: טימור
+    yue: 帖木兒
+    zh: 帖木尔
+    zh-hans: 帖木尔
+    zh-hant: 帖木兒
 ---
-
 # [[Timur]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Timur,8462|WD~Timur,8462]] 

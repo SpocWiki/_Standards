@@ -1,63 +1,104 @@
 ---
 aliases:
-  - Yard
+- ela
+- iarda
+- jaardi
+- jaart
+- jard
+- jarda
+- jardas
+- jardi
+- jardo
+- jards
+- jardur
+- jiarda
+- llath
+- slat
+- Vedje canadyinne
+- verge
+- virga
+- Yadi
+- Yard
+- yarda
+- òpá
+- υάρδα
+- јард
+- ярд
+- յարդ
+- יָארד
+- يارد
+- گز
+- یارد
+- यार्ड
+- গজ
+- ਯਾਰਡ
+- யார்
+- గజము
+- หลา
+- იარდი
+- ያርድ
+- ᎣᎰᏂ
+- ヤード
+- 码
+- 碼
+- 야드
 has_id_wikidata: Q482798
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-part_of: "[[_Standards/WikiData/WD~imperial_system_of_units,641227]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+part_of: '[[_Standards/WikiData/WD~imperial_system_of_units,641227]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_length,1978718]]"
-  - "[[_Standards/WikiData/WD~human_based_unit_of_measurement,28608087]]"
+- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~human_based_unit_of_measurement,28608087]]'
 different_from:
-  - "[[_Standards/WikiData/WD~international_yard,61756607]]"
-  - "[[_Standards/WikiData/WD~US_survey_yards,61769985]]"
-  - "[[_Standards/WikiData/WD~British_Imperial_yard,100158590]]"
+- '[[_Standards/WikiData/WD~international_yard,61756607]]'
+- '[[_Standards/WikiData/WD~US_survey_yards,61769985]]'
+- '[[_Standards/WikiData/WD~British_Imperial_yard,100158590]]'
 conversion_to_standard_unit:
-  - 3
-  - 36000000
-  - 36
-  - 914400
-  - 914.4
-  - 91.44
-  - 9.144
-  - 0.0009144
-  - 0.00016458
-  - 0.00018928
-  - 0.00018939
-  - 2.9634e-17
-  - 0.0045454
-  - 0.00049342
-  - 0.00056818
-  - 9.6652e-17
-  - 0.0001644737
-  - 0.0004937365
-measured_physical_quantity: "[[_Standards/WikiData/WD~length,36253]]"
+- 3
+- 36000000
+- 36
+- 914400
+- 914.4
+- 91.44
+- 9.144
+- 0.0009144
+- 0.00016458
+- 0.00018928
+- 0.00018939
+- 2.9634e-17
+- 0.0045454
+- 0.00049342
+- 0.00056818
+- 9.6652e-17
+- 0.0001644737
+- 0.0004937365
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
 conversion_to_SI_unit: 0.9144
 OmegaWiki_Defined_Meaning: 339629
 unit_symbol:
-  - یارد
-  - ярдов
-  - വാര
-  - গজ
-  - iarde
-  - 码
-  - 碼
-  - yd
-  - jardoj
-  - yd
-  - yards
-  - iardas
-  - јарди
-  - jardów
-  - jardas
-  - ярдів
+- یارد
+- ярдов
+- വാര
+- গজ
+- iarde
+- 码
+- 碼
+- yd
+- jardoj
+- yd
+- yards
+- iardas
+- јарди
+- jardów
+- jardas
+- ярдів
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Britanski%20merki%20za%20dalzhina%20Grinuich%202005.jpg
 UN_CEFACT_Common_Code: YRD
 described_at_URL: https://bfvietnam.com.vn/1-yard-bang-bao-nhieu-m-cm-feet
@@ -65,9 +106,109 @@ Wolfram_Language_unit_code: '"Yards"'
 IPTC_NewsCode: spdistanceunits/yards
 Wikidata_SPARQL_query_equivalent: wd:Q482798 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 Commons_category: Yard (unit of length)
+dv_has_:
+  name_:
+    af: jaart
+    am: ያርድ
+    ar: يارد
+    ast: yarda
+    az: yard
+    be: ярд
+    be-tarask: ярд
+    bg: ярд
+    bn: গজ
+    bs: jard
+    ca: iarda
+    chr: ᎣᎰᏂ
+    ckb: یارد
+    cs: yard
+    cy: llath
+    da: yard
+    de: Yard
+    el: υάρδα
+    en: yard
+    en-us: yard
+    eo: jardo
+    es: yarda
+    et: jard
+    eu: yarda
+    fa: یارد
+    fi: jaardi
+    fo: jardur
+    fr: verge
+    frr: yard
+    ga: slat
+    gl: iarda
+    he: יָארד
+    hr: jard
+    hu: yard
+    hy: յարդ
+    id: yard
+    ilo: yarda
+    it: iarda
+    ja: ヤード
+    ka: იარდი
+    kcg: Yadi
+    kk: ярд
+    kk-arab: يارد
+    kk-cyrl: ярд
+    kk-latn: yard
+    ko: 야드
+    ku: yard
+    ku-arab: یارد
+    ku-latn: yard
+    la: virga
+    lt: jardas
+    lv: jards
+    mk: јард
+    mr: यार्ड
+    ms: ela
+    nb: yard
+    nl: yard
+    nn: yard
+    pa: ਯਾਰਡ
+    pl: jard
+    pnb: گز
+    pt: jarda
+    ro: yard
+    ru: ярд
+    scn: jiarda
+    sco: yard
+    sh: jard
+    sk: yard
+    sl: jard
+    sq: jardi
+    sr: јард
+    sr-ec: јард
+    sr-el: jard
+    sv: yard
+    ta: யார்
+    te: గజము
+    th: หลา
+    tl: yarda
+    tr: yarda
+    tt: ярд
+    uk: ярд
+    ur: گز
+    uz: yard
+    vec: jarda
+    vi: yard
+    wa: Vedje canadyinne
+    war: yarda
+    wuu: 码
+    xmf: იარდი
+    yo: òpá
+    yue: 碼
+    zh: 码
+    zh-cn: 码
+    zh-hans: 码
+    zh-hant: 碼
+    zh-hk: 碼
+    zh-mo: 碼
+    zh-my: 码
+    zh-sg: 码
+    zh-tw: 碼
 ---
-
-
 # [[Yard]]
 
 #is_/same_as :: [[../../../WikiData/WD~Yard,482798|WD~Yard,482798]]

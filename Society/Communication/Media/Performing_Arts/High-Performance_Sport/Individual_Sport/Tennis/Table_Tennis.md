@@ -1,36 +1,132 @@
 ---
-has_time_started: 1891-01-01 
+has_time_started: 1891-01-01
 aliases:
-  - ping-pong
-  - Table_Tennis
-  - Table Tennis
+- asztalitenisz
+- beavdetennis
+- bievddetennis
+- blidotenis
+- bordtennis
+- borðtennis
+- buärrdetennis
+- bóng bàn
+- Dëschtennis
+- galda teniss
+- lauatennis
+- leadóg bhoird
+- mahai-tenis
+- masa tenisi
+- mizisəpe tennis
+- namizni tenis
+- pevditennis
+- ping pong
+- ping-pong
+- pingpong
+- pink-ponk
+- pinpón
+- påʹrddtennis
+- pöytätennis
+- pĭng-pŏng-giù
+- stalo tenisas
+- stol tennisi
+- stolni tenis
+- stolní tenis
+- stolný tenis
+- stolüstü tennis
+- stoni tenis
+- stołowi tenys
+- Table Tennis
+- Table_Tennis
+- tabloteniso
+- tafeltennis
+- tawjja n tdabut
+- teniludium mensale
+- tenis bwrdd
+- tenis de masă
+- tenis de mesa
+- tenis meja
+- tenis stołowy
+- tenisse di tåve
+- tennis de table
+- tennis de tabula
+- tennis de taula
+- tennis taol
+- tennis éd tabe
+- tennistavolo
+- tenîsa sermaseyê
+- Tiktak top
+- Tischtennis
+- toh-kiû
+- tsok-khiù
+- tênis de mesa
+- tēpu tēnehi
+- επιτραπέζια αντισφαίριση
+- настільний теніс
+- настольны тэніс
+- настольный теннис
+- пинг-понг
+- стол теннисі
+- стони тенис
+- тенис на маса
+- ширээний теннис
+- өстәл теннисы
+- өҫтәл теннисы
+- սեղանի թենիս
+- טניס שולחן
+- بينج بونج
+- تنیس روی میز
+- تێنسی سەرمێز
+- كرة الطاولة
+- میز اوسته تنیس
+- ٹیبل ٹینس
+- پینگ-پونگ
+- टेबल टेनिस
+- टेबुलटेनिस
+- पटलानम्
+- টেবিল টেনিস
+- ਟੇਬਲ ਟੈਨਿਸ
+- ଟେବୁଲ ଟେନିସ
+- மேசைப்பந்தாட்டம்
+- టేబుల్ టెన్నిస్
+- ಟೇಬಲ್ ಟೆನ್ನಿಸ್
+- ടേബിൾ ടെന്നീസ്
+- මේස පන්දු
+- เทเบิลเทนนิส
+- ཕིན་ཕང་སྤོ་ལོ།
+- စားပွဲတင်တင်းနစ်
+- ပိင်းပွင်ႈ
+- მაგიდის ჩოგბურთი
+- 乒乓波
+- 乒乓球
+- 卓球
+- 桌球
+- 탁구
 has_id_wikidata: Q3930
 Baidu_Tieba_name: 乒乓球
-Unicode_character: 🏓
+Unicode_character: "\U0001F3D3"
 name:
-  - Gossima
-  - Ping Pong
+- Gossima
+- Ping Pong
 OpenStreetMap_tag: sport=table_tennis
 Dewey_Decimal_Classification: 796.346
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
-  - "[[_Standards/WikiData/WD~racket_sport,2426135]]"
-  - "[[_Standards/WikiData/WD~table_sports,20478894]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~ball_game,877517]]'
+- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
+- '[[_Standards/WikiData/WD~table_sports,20478894]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 uses:
-  - "[[_Standards/WikiData/WD~table_tennis_racket,337695]]"
-  - "[[_Standards/WikiData/WD~table_tennis_ball,2436595]]"
-  - "[[_Standards/WikiData/WD~table_for_table_tennis,48961427]]"
-  - "[[_Standards/WikiData/WD~ping_pong_nets_&_post,117208731]]"
-authority: "[[_Standards/WikiData/WD~International_Table_Tennis_Federation,661379]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- '[[_Standards/WikiData/WD~table_tennis_racket,337695]]'
+- '[[_Standards/WikiData/WD~table_tennis_ball,2436595]]'
+- '[[_Standards/WikiData/WD~table_for_table_tennis,48961427]]'
+- '[[_Standards/WikiData/WD~ping_pong_nets_&_post,117208731]]'
+authority: '[[_Standards/WikiData/WD~International_Table_Tennis_Federation,661379]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~table_tennis_player,13382519]]"
-  - "[[_Standards/WikiData/WD~table_tennis_coach,98636346]]"
+- '[[_Standards/WikiData/WD~table_tennis_player,13382519]]'
+- '[[_Standards/WikiData/WD~table_tennis_coach,98636346]]'
 inception: 1891-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-country_of_origin: "[[_Standards/WikiData/WD~England,21]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 4
 IAB_code: 538
@@ -38,8 +134,8 @@ U_S_National_Archives_Identifier: 10648524
 BHCL_UUID: cab8b5bc-fd98-4e67-9e81-f5eb5def46ac
 alternative_name: Ping-Pong
 described_at_URL:
-  - https://www.bouncepingpong.com/about
-  - https://neal.fun/earth-reviews/table-tennis
+- https://www.bouncepingpong.com/about
+- https://neal.fun/earth-reviews/table-tennis
 OmegaWiki_Defined_Meaning: 757442
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20tennis%20pictogram.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Tischtennis2.ogg
@@ -52,8 +148,139 @@ Commons_gallery: Table tennis
 Commons_category: Table tennis
 Archive_of_Our_Own_tag: Table Tennis RPF
 subreddit: tabletennis
+dv_has_:
+  name_:
+    af: tafeltennis
+    ar: كرة الطاولة
+    arz: بينج بونج
+    ast: tenis de mesa
+    awa: टेबल टेनिस
+    az: stolüstü tennis
+    azb: میز اوسته تنیس
+    ba: өҫтәл теннисы
+    bcl: pingpong
+    be: настольны тэніс
+    be-tarask: настольны тэніс
+    bew: pingpong
+    bg: тенис на маса
+    bn: টেবিল টেনিস
+    bo: ཕིན་ཕང་སྤོ་ལོ།
+    br: tennis taol
+    bs: stoni tenis
+    ca: tennis de taula
+    cdo: pĭng-pŏng-giù
+    ckb: تێنسی سەرمێز
+    crh-ro: pink-ponk
+    cs: stolní tenis
+    csb: stołowi tenys
+    cy: tenis bwrdd
+    da: bordtennis
+    de: Tischtennis
+    de-ch: Tischtennis
+    el: επιτραπέζια αντισφαίριση
+    en: table tennis
+    eo: tabloteniso
+    es: tenis de mesa
+    et: lauatennis
+    eu: mahai-tenis
+    fa: تنیس روی میز
+    fi: pöytätennis
+    fo: borðtennis
+    fr: tennis de table
+    ga: leadóg bhoird
+    gl: tenis de mesa
+    hak: tsok-khiù
+    he: טניס שולחן
+    hi: टेबल टेनिस
+    hr: stolni tenis
+    hsb: blidotenis
+    ht: pingpong
+    hu: asztalitenisz
+    hy: սեղանի թենիս
+    hyw: սեղանի Թենիս
+    ia: tennis de tabula
+    id: tenis meja
+    io: tabloteniso
+    is: borðtennis
+    it: tennistavolo
+    ja: 卓球
+    jv: pingpong
+    ka: მაგიდის ჩოგბურთი
+    kaa: stol tennisi
+    kk: стол теннисі
+    kn: ಟೇಬಲ್ ಟೆನ್ನಿಸ್
+    ko: 탁구
+    ku: tenîsa sermaseyê
+    la: teniludium mensale
+    lb: Dëschtennis
+    lt: stalo tenisas
+    lv: galda teniss
+    lzh: 乒乓球
+    mi: tēpu tēnehi
+    mk: пинг-понг
+    ml: ടേബിൾ ടെന്നീസ്
+    mn: ширээний теннис
+    mr: टेबल टेनिस
+    ms: ping pong
+    my: စားပွဲတင်တင်းနစ်
+    mzn: پینگ-پونگ
+    nan: toh-kiû
+    nb: bordtennis
+    ne: टेबुलटेनिस
+    nl: tafeltennis
+    nn: bordtennis
+    oc: tennis de taula
+    or: ଟେବୁଲ ଟେନିସ
+    pa: ਟੇਬਲ ਟੈਨਿਸ
+    pcd: tennis éd tabe
+    pcm: table tennis
+    pl: tenis stołowy
+    pt: tênis de mesa
+    pt-br: tênis de mesa
+    ro: tenis de masă
+    ru: настольный теннис
+    sa: पटलानम्
+    se: beavdetennis
+    sh: stolni tenis
+    shi: tawjja n tdabut
+    shn: ပိင်းပွင်ႈ
+    si: මේස පන්දු
+    sje: buärrdetennis
+    sk: stolný tenis
+    sl: namizni tenis
+    smj: bievddetennis
+    smn: pevditennis
+    sms: påʹrddtennis
+    sq: pingpong
+    sr: стони тенис
+    su: tenis meja
+    sv: bordtennis
+    ta: மேசைப்பந்தாட்டம்
+    te: టేబుల్ టెన్నిస్
+    th: เทเบิลเทนนิส
+    tl: pingpong
+    tly: mizisəpe tennis
+    tr: masa tenisi
+    tt: өстәл теннисы
+    tt-cyrl: өстәл теннисы
+    ug: Tiktak top
+    uk: настільний теніс
+    ur: ٹیبل ٹینس
+    uz: stol tennisi
+    vec: pinpón
+    vi: bóng bàn
+    wa: tenisse di tåve
+    wuu: 乒乓球
+    yue: 乒乓波
+    zh: 乒乓球
+    zh-cn: 乒乓球
+    zh-hans: 乒乓球
+    zh-hant: 乒乓球
+    zh-hk: 乒乓球
+    zh-mo: 乒乓球
+    zh-sg: 乒乓球
+    zh-tw: 桌球
 ---
-
 # [[Table_Tennis]] 🏓 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Table_tennis,3930|WD~Table_tennis,3930]]  

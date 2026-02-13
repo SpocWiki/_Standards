@@ -1,10 +1,31 @@
 ---
 aliases:
-  - Compagnie Française Thomson-Houston
-  - Thomson-Houston_Electric_Company
-  - Thomson-Houston Electric Company
+- Compagnie Française Thomson-Houston
+- Thomson-Houston Electric Company
+- Thomson-Houston_Electric_Company
+- Εταιρεία παροχής ηλεκτρισμού Thomson-Houston
+- شرکت تامسون-هوستون الکتریک
+- طومسون هيوستن
+- トムソン・ヒューストン・エレクトリック
+- 汤姆孙-豪斯顿电气公司
+- 湯姆孫-豪斯頓電氣公司
+has_id_wikidata: Q1244162
+dv_has_:
+  name_:
+    ar: طومسون هيوستن
+    de: Thomson-Houston Electric Company
+    el: Εταιρεία παροχής ηλεκτρισμού Thomson-Houston
+    en: Thomson-Houston Electric Company
+    es: Thomson-Houston Electric Company
+    fa: شرکت تامسون-هوستون الکتریک
+    fr: Thomson-Houston Electric Company
+    it: Thomson-Houston Electric Company
+    ja: トムソン・ヒューストン・エレクトリック
+    nl: Thomson-Houston Electric Company
+    zh: 汤姆孙-豪斯顿电气公司
+    zh-hans: 汤姆孙-豪斯顿电气公司
+    zh-hant: 湯姆孫-豪斯頓電氣公司
 ---
-
 > The Thomson-Houston Electric Company was a manufacturing company that was one of the precursors of General Electric.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomson-Houston%20Electric%20Company) 

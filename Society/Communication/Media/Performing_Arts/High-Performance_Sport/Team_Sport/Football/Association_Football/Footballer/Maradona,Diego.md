@@ -1,73 +1,129 @@
 ---
 aliases:
-  - Diego Armando Maradona Franco
-  - Diego Maradona
-  - Maradona
-  - Maradona,Diego
+- Armando Diego Maradona
+- Didacus Hermannus Maradona
+- Diego Armando Maradona
+- Diego Armando Maradona Franco
+- Diego Maradona
+- Diegu Armandu Maradona
+- Dieqo Armando Maradona
+- Dieqo Maradona
+- Dijego Maradona
+- Djego Maradona
+- Maradona
+- Maradona Diego
+- Maradona Diyego Armando
+- Maradona,Diego
+- Ντιέγκο Μαραντόνα
+- Дієго Марадона
+- Дијего Армандо Марадона
+- Диего Армандо Марадона
+- Диего Марадона
+- Дыега Марадона
+- Марадона
+- Марадона Диего
+- Марадона Диего Армандо
+- Марадона, Диего Армандо
+- Դիեգո Մարադոնա
+- Տիեկօ Մարատոնա
+- דייגו מראדונה
+- دياٛگو مارادونا
+- دييغو مارادونا
+- دييݣو مارادونا
+- دیقو مارادونا
+- دیگو مارادونا
+- دیێگۆ مارادۆنا
+- ڈیاگو میراڈونا
+- ډياګو مارادونا
+- डिएगो माराडोना
+- डिएगो म्याराडोना
+- डियेगो माराडोना
+- दिएगो मारादोना
+- দিয়েগো মারাদোনা
+- মাৰাড'না
+- ਡਿਏਗੋ ਮੈਰਾਡੋਨਾ
+- டீகோ மரடோனா
+- డియెగో మారడోనా
+- ಡಿಯೇಗೋ ಮೆರಡೋನ
+- ഡീഗോ മറഡോണ
+- เดียโก มาราโดนา
+- ດີເອໂກ ມາຣາໂດນາ
+- တီႇယေးၵူဝ်း မႃရႃတူဝ်ၼႃႇ
+- ဒီယဲဂို မာရာဒိုနာ
+- დიეგო მარადონა
+- ዲየጎ ማራዶና
+- ᱫᱤᱭᱮᱜᱚ ᱢᱮᱨᱟᱰᱚᱱᱟ
+- ディエゴ・マラドーナ
+- 迪亞哥·馬拉度納
+- 迭戈·马拉多纳
+- 馬勒當拿
+- 馬拉多納
+- ꠒꠤꠀꠉꠅ ꠝꠦꠞꠣꠒꠘꠣ
+- 디에고 마라도나
 has_id_wikidata: Q17515
 coach_of_sports_team:
-  - "[[_Standards/WikiData/WD~Argentina_men's_national_association_football_team,79800]]"
-  - '[[_Standards/WikiData/WD~Racing_Club,276533]]'
-  - '[[_Standards/WikiData/WD~Al_Wasl_FC,520066]]'
-  - '[[_Standards/WikiData/WD~Dorados_de_Sinaloa,1243720]]'
-  - '[[_Standards/WikiData/WD~Al_Fujairah_FC,2084032]]'
-  - '[[_Standards/WikiData/WD~Deportivo_Mandiyú,8347076]]'
-  - '[[_Standards/WikiData/WD~Club_de_Gimnasia_y_Esgrima_La_Plata,18640]]'
+- "[[_Standards/WikiData/WD~Argentina_men's_national_association_football_team,79800]]"
+- '[[_Standards/WikiData/WD~Racing_Club,276533]]'
+- '[[_Standards/WikiData/WD~Al_Wasl_FC,520066]]'
+- '[[_Standards/WikiData/WD~Dorados_de_Sinaloa,1243720]]'
+- '[[_Standards/WikiData/WD~Al_Fujairah_FC,2084032]]'
+- '[[_Standards/WikiData/WD~Deportivo_Mandiyú,8347076]]'
+- '[[_Standards/WikiData/WD~Club_de_Gimnasia_y_Esgrima_La_Plata,18640]]'
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~Argentina_men's_national_association_football_team,79800]]"
-  - '[[_Standards/WikiData/WD~Boca_Juniors,170703]]'
-  - '[[_Standards/WikiData/WD~Argentinos_Juniors,220621]]'
-  - "[[_Standards/WikiData/WD~Newell's_Old_Boys,221882]]"
-  - '[[_Standards/WikiData/WD~Argentina_national_under_20_football_team,1187790]]'
-  - '[[_Standards/WikiData/WD~SSC_Napoli,2641]]'
-  - '[[_Standards/WikiData/WD~FC_Barcelona,7156]]'
-  - '[[_Standards/WikiData/WD~Sevilla_FC,10329]]'
+- "[[_Standards/WikiData/WD~Argentina_men's_national_association_football_team,79800]]"
+- '[[_Standards/WikiData/WD~Boca_Juniors,170703]]'
+- '[[_Standards/WikiData/WD~Argentinos_Juniors,220621]]'
+- "[[_Standards/WikiData/WD~Newell's_Old_Boys,221882]]"
+- '[[_Standards/WikiData/WD~Argentina_national_under_20_football_team,1187790]]'
+- '[[_Standards/WikiData/WD~SSC_Napoli,2641]]'
+- '[[_Standards/WikiData/WD~FC_Barcelona,7156]]'
+- '[[_Standards/WikiData/WD~Sevilla_FC,10329]]'
 relative: '[[_Standards/WikiData/WD~Sergio_Agüero,119562]]'
 position_played_on_team_speciality:
-  - '[[_Standards/WikiData/WD~midfielder,193592]]'
-  - '[[_Standards/WikiData/WD~forward,280658]]'
+- '[[_Standards/WikiData/WD~midfielder,193592]]'
+- '[[_Standards/WikiData/WD~forward,280658]]'
 cause_of_death: '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
 occupation:
-  - '[[_Standards/WikiData/WD~association_football_manager,628099]]'
-  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~association_football_manager,628099]]'
+- '[[_Standards/WikiData/WD~association_football_player,937857]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 award_received:
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
-  - '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
+- '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Raúl_Maradona,1100169]]'
-  - '[[_Standards/WikiData/WD~Hugo_Maradona,2339817]]'
+- '[[_Standards/WikiData/WD~Raúl_Maradona,1100169]]'
+- '[[_Standards/WikiData/WD~Hugo_Maradona,2339817]]'
 child:
-  - '[[_Standards/WikiData/WD~Diego_Sinagra,1199119]]'
-  - '[[_Standards/WikiData/WD~Dalma_Maradona,8353467]]'
-  - '[[_Standards/WikiData/WD~Gianinna_Maradona,15728880]]'
+- '[[_Standards/WikiData/WD~Diego_Sinagra,1199119]]'
+- '[[_Standards/WikiData/WD~Dalma_Maradona,8353467]]'
+- '[[_Standards/WikiData/WD~Gianinna_Maradona,15728880]]'
 place_of_birth: '[[_Standards/WikiData/WD~Lanús,1622565]]'
 convicted_of: '[[_Standards/WikiData/WD~shooting,2252077]]'
 place_of_death: '[[_Standards/WikiData/WD~Dique_Luján,2463131]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~sports_training,3055155]]'
-  - '[[_Standards/WikiData/WD~association_football,2736]]'
-  - '[[_Standards/WikiData/WD~sport_management,48519]]'
+- '[[_Standards/WikiData/WD~sports_training,3055155]]'
+- '[[_Standards/WikiData/WD~association_football,2736]]'
+- '[[_Standards/WikiData/WD~sport_management,48519]]'
 given_name: '[[_Standards/WikiData/WD~Diego,3579048]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Maradona,12369639]]'
 spouse: '[[_Standards/WikiData/WD~Claudia_Villafañe,15732807]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - '[[_Standards/WikiData/WD~Ho_perso_Maradona_Storie_di_tifo_e_altre_dipendenze,55460612]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Ho_perso_Maradona_Storie_di_tifo_e_altre_dipendenze,55460612]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 place_of_burial: '[[_Standards/WikiData/WD~Jardín_Bella_Vista,102360766]]'
 parent: '[[_Standards/WikiData/WD~Diego_Maradona_Sr.,105952378]]'
 father: '[[_Standards/WikiData/WD~Diego_Maradona_Sr.,105952378]]'
 country_for_sport: '[[_Standards/WikiData/WD~Argentina,414]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Argentina,414]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
 sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 mass: 70
@@ -87,8 +143,178 @@ name_in_native_language: Diego Armando Maradona
 birth_name: Diego Armando Maradona
 nickname: El Pibe de Oro
 date_of_death: 2020-11-25T00:00:00Z
+dv_has_:
+  name_:
+    af: Diego Maradona
+    am: ዲየጎ ማራዶና
+    an: Diego Armando Maradona
+    ar: دييغو مارادونا
+    ary: دييݣو مارادونا
+    arz: دييغو مارادونا
+    as: মাৰাড'না
+    ast: Diego Armando Maradona
+    ay: Diego Armando Maradona
+    az: Dieqo Armando Maradona
+    azb: دیقو مارادونا
+    ba: Марадона Диего Армандо
+    ban: Diego Maradona
+    be: Дыега Марадона
+    be-tarask: Дыега Марадона
+    bg: Диего Марадона
+    bn: দিয়েগো মারাদোনা
+    bpy: দিয়েগো মারাদোনা
+    br: Diego Maradona
+    bs: Diego Maradona
+    bxr: Марадона
+    ca: Diego Armando Maradona
+    ckb: دیێگۆ مارادۆنا
+    cs: Diego Maradona
+    cv: Марадона Диего
+    cy: Diego Armando Maradona
+    da: Diego Maradona
+    de: Diego Maradona
+    de-at: Diego Maradona
+    de-ch: Diego Maradona
+    diq: Maradona
+    el: Ντιέγκο Μαραντόνα
+    en: Diego Maradona
+    en-ca: Diego Maradona
+    en-gb: Diego Maradona
+    eo: Diego Armando Maradona
+    es: Diego Maradona
+    es-419: Diego Maradona
+    et: Diego Maradona
+    eu: Diego Armando Maradona
+    fa: دیگو مارادونا
+    fi: Diego Maradona
+    fit: Diego Maradona
+    fo: Diego Maradona
+    fr: Diego Maradona
+    fy: Diego Maradona
+    ga: Diego Maradona
+    gag: Diego Maradona
+    gd: Diego Armando Maradona
+    gl: Diego Armando Maradona
+    gsw: Diego Maradona
+    ha: Diego Maradona
+    he: דייגו מראדונה
+    hi: डिएगो माराडोना
+    hr: Diego Maradona
+    hu: Diego Maradona
+    hy: Դիեգո Մարադոնա
+    hyw: Տիեկօ Մարատոնա
+    ia: Diego Maradona
+    id: Diego Maradona
+    ie: Diego Maradona
+    io: Diego Armando Maradona
+    is: Diego Maradona
+    it: Diego Maradona
+    ja: ディエゴ・マラドーナ
+    jv: Diego Armando Maradona
+    ka: დიეგო მარადონა
+    kaa: Diego Maradona
+    kab: Diego Maradona
+    kk: Диего Армандо Марадона
+    kn: ಡಿಯೇಗೋ ಮೆರಡೋನ
+    ko: 디에고 마라도나
+    ku: Armando Diego Maradona
+    kw: Diego Maradona
+    ky: Марадона, Диего Армандо
+    la: Didacus Hermannus Maradona
+    lb: Diego Maradona
+    lez: Диего Армандо Марадона
+    li: Diego Maradona
+    lo: ດີເອໂກ ມາຣາໂດນາ
+    lrc: دياٛگو مارادونا
+    lt: Diego Maradona
+    lua: Diego Maradona
+    lv: Djego Maradona
+    lzh: 馬拉多納
+    mai: डिएगो म्याराडोना
+    mg: Diego Maradona
+    mhr: Диего Марадона
+    min: Diego Maradona
+    mk: Диего Марадона
+    ml: ഡീഗോ മറഡോണ
+    mn: Диего Марадона
+    mr: दिएगो मारादोना
+    ms: Diego Maradona
+    mt: Diego Maradona
+    mul: Diego Maradona
+    my: ဒီယဲဂို မာရာဒိုနာ
+    mzn: دیگو مارادونا
+    nan: Diego Maradona
+    nap: Diego Armando Maradona
+    nb: Diego Maradona
+    nds: Diego Maradona
+    nds-nl: Diego Maradona
+    ne: डिएगो म्याराडोना
+    nl: Diego Maradona
+    nn: Diego Armando Maradona
+    oc: Diego Maradona
+    os: Диего Марадона
+    pa: ਡਿਏਗੋ ਮੈਰਾਡੋਨਾ
+    pl: Diego Maradona
+    pnb: ڈیاگو میراڈونا
+    ps: ډياګو مارادونا
+    pt: Diego Maradona
+    pt-br: Diego Maradona
+    qu: Diego Armando Maradona
+    rmf: Diego Maradona
+    ro: Diego Maradona
+    ru: Диего Марадона
+    sa: डियेगो माराडोना
+    sat: ᱫᱤᱭᱮᱜᱚ ᱢᱮᱨᱟᱰᱚᱱᱟ
+    scn: Diegu Armandu Maradona
+    sco: Diego Maradona
+    se: Diego Maradona
+    sgs: Diego Maradona
+    sh: Diego Maradona
+    shn: တီႇယေးၵူဝ်း မႃရႃတူဝ်ၼႃႇ
+    sjd: Диего Марадона
+    sje: Diego Maradona
+    sju: Diego Maradona
+    sk: Diego Maradona
+    sl: Diego Armando Maradona
+    sma: Diego Maradona
+    smj: Diego Maradona
+    smn: Diego Maradona
+    sms: Diego Maradona
+    sq: Diego Maradona
+    sr: Дијего Армандо Марадона
+    su: Diego Maradona
+    sv: Diego Maradona
+    sw: Diego Maradona
+    syl: ꠒꠤꠀꠉꠅ ꠝꠦꠞꠣꠒꠘꠣ
+    szl: Diego Maradona
+    ta: டீகோ மரடோனா
+    te: డియెగో మారడోనా
+    tg: Марадона
+    th: เดียโก มาราโดนา
+    tl: Diego Maradona
+    tly: Dieqo Maradona
+    tr: Diego Maradona
+    tt: Diego Maradona
+    uk: Дієго Марадона
+    ur: ڈیاگو میراڈونا
+    uz: Maradona Diyego Armando
+    vec: Diego Armando Maradona
+    vep: Dijego Maradona
+    vi: Diego Maradona
+    vls: Diego Maradona
+    vo: Diego Maradona
+    vro: Maradona Diego
+    wa: Diego Maradona
+    war: Diego Maradona
+    wuu: 迭戈·马拉多纳
+    xmf: დიეგო მარადონა
+    yo: Diego Maradona
+    yue: 馬勒當拿
+    zh: 迭戈·马拉多纳
+    zh-hans: 迭戈·马拉多纳
+    zh-hant: 迪亞哥·馬拉度納
+    zh-tw: 迪亞哥·馬拉度納
 ---
-
 # [[Maradona,Diego]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Diego_Maradona,17515|WD~Diego_Maradona,17515]] 

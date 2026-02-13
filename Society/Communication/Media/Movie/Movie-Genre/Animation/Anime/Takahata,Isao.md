@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Isao Takahata
-  - Takahata,Isao
+- Isao Takahata
+- Takahata Isao
+- Takahata Iszao
+- Takahata,Isao
+- Ίσαο Τακαχατα
+- Ісао Такахата
+- Исао Такахата
+- Такахата Ісао
+- Իսաո Տաքահատա
+- איסאו טקהאטה
+- إيزاو تاكاهاتا
+- ئیزاو تاکاھاتا
+- ايزاو تاكاهاتا
+- ایسائو تاکاهاتا
+- ইসাও তাকাহাতা
+- อิซาโอะ ทาคาฮาตะ
+- ტაკაჰატა ისაო
+- 高畑勋
+- 高畑勲
+- 高畑勳
+- 다카하타 이사오
+has_id_wikidata: Q178713
+dv_has_:
+  name_:
+    ar: إيزاو تاكاهاتا
+    arz: ايزاو تاكاهاتا
+    ast: Isao Takahata
+    az: Isao Takahata
+    be: Ісао Такахата
+    bg: Исао Такахата
+    bn: ইসাও তাকাহাতা
+    ca: Isao Takahata
+    ckb: ئیزاو تاکاھاتا
+    cs: Isao Takahata
+    cy: Isao Takahata
+    da: Isao Takahata
+    de: Isao Takahata
+    el: Ίσαο Τακαχατα
+    en: Isao Takahata
+    eo: Isao Takahata
+    es: Isao Takahata
+    et: Isao Takahata
+    eu: Isao Takahata
+    fa: ایسائو تاکاهاتا
+    fi: Isao Takahata
+    fr: Isao Takahata
+    gl: Isao Takahata
+    haw: Isao Takahata
+    he: איסאו טקהאטה
+    hr: Isao Takahata
+    hu: Takahata Iszao
+    hy: Իսաո Տաքահատա
+    id: Isao Takahata
+    it: Isao Takahata
+    ja: 高畑勲
+    ka: ტაკაჰატა ისაო
+    ko: 다카하타 이사오
+    ky: Исао Такахата
+    lb: Isao Takahata
+    lij: Isao Takahata
+    lt: Isao Takahata
+    mg: Isao Takahata
+    mk: Исао Такахата
+    ms: Isao Takahata
+    nan: Takahata Isao
+    nb: Isao Takahata
+    nl: Isao Takahata
+    pap: Isao Takahata
+    pl: Isao Takahata
+    pt: Isao Takahata
+    pt-br: Isao Takahata
+    ru: Исао Такахата
+    sco: Isao Takahata
+    sh: Isao Takahata
+    sl: Isao Takahata
+    sq: Isao Takahata
+    sr: Исао Такахата
+    sv: Takahata Isao
+    th: อิซาโอะ ทาคาฮาตะ
+    tr: Isao Takahata
+    tt: Исао Такахата
+    uk: Такахата Ісао
+    vi: Takahata Isao
+    wuu: 高畑勋
+    yue: 高畑勳
+    zh: 高畑勳
+    zh-cn: 高畑勋
+    zh-hans: 高畑勋
+    zh-hant: 高畑勳
+    zh-hk: 高畑勳
+    zh-mo: 高畑勳
+    zh-my: 高畑勋
+    zh-sg: 高畑勋
+    zh-tw: 高畑勳
 ---
-
 > **Isao Takahata** (高畑 勲, Takahata Isao, October 29, 1935 – April 5, 2018) 
 > was a [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japanese]] director, screenwriter and producer. 
 > 

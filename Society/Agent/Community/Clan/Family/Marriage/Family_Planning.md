@@ -1,39 +1,165 @@
 ---
 aliases:
+- aile planlaması
+- Ailə planlaşdırılması
+- családtervezés
+- cynllunio teulu
+- Familia-plangintza
+- Familienplanung
+- familieplanlegging
+- familiplanado
+- familjeplanering
+- Familljeplanifikatioun
+- family planning
+- Fandrindram-piterahana
+- gezinsplanning
+- KB
+- Keluarga Berencana
+- Kuhlela umndeni
+- Kế hoạch hóa gia đình
+- načrtovanje družine
+- Nchịkwa ọmụmụ
+- Ogaygua ñembohaperã
+- oranga taihema
+- Perancang keluarga
+- perhesuunnittelu
+- pianificazione familiare
+- planeamento familiar
+- planejamento familiar
+- planificació familiar
+- Planificación familiar
+- planificare familială
+- planification familiale
+- Planiranje obitelji
+- planowanie rodziny
+- Plánované rodičovstvo
+- plánované rodičovství
+- Uzazi wa mpango
+- οικογενειακός προγραμματισμός
+- Планирање породице
+- планирование семьи
+- планування сім'ї
+- плянаваньне сям’і
+- Ընտանիքի պլանավորում
+- תכנון משפחה
+- تنظيم الأسرة
+- تنظیم خانواده
+- خاندانی منصوبہ بندی
+- कुटुंबनियोजन
+- परिवार नियोजन
+- পরিবার পরিকল্পনা
+- ਪਰਿਵਾਰਕ ਯੋਜਨਾਬੰਦੀ
+- ପରିବାର ନିୟୋଜନ
+- குடும்பக் கட்டுப்பாடு
+- కుటుంబ నియంత్రణ
+- കുടുംബാസൂത്രണം
+- การวางแผนครอบครัว
+- 家族計画
+- 計劃生育
+- 计划生育
+- 가족계획
 has_id_wikidata: Q1280670
 has_part_s_:
-  - "[[_Standards/WikiData/WD~birth_control,122224]]"
-  - "[[_Standards/WikiData/WD~adoption,180472]]"
-  - "[[_Standards/WikiData/WD~sex_education,192280]]"
-  - "[[_Standards/WikiData/WD~abortion,8452]]"
+- '[[_Standards/WikiData/WD~birth_control,122224]]'
+- '[[_Standards/WikiData/WD~adoption,180472]]'
+- '[[_Standards/WikiData/WD~sex_education,192280]]'
+- '[[_Standards/WikiData/WD~abortion,8452]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~human_population_control,130819]]"
-  - "[[_Standards/WikiData/WD~sex_education,192280]]"
-  - "[[_Standards/WikiData/WD~women's_health,8031191]]"
-  - "[[_Standards/WikiData/WD~family,8436]]"
-subclass_of: "[[_Standards/WikiData/WD~planning,309100]]"
-has_use: "[[_Standards/WikiData/WD~climate_change_mitigation,898653]]"
-instance_of: "[[_Standards/WikiData/WD~medical_specialty,930752]]"
+- '[[_Standards/WikiData/WD~human_population_control,130819]]'
+- '[[_Standards/WikiData/WD~sex_education,192280]]'
+- "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~family,8436]]'
+subclass_of: '[[_Standards/WikiData/WD~planning,309100]]'
+has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Project_Drawdown,27218199]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
-followed_by: "[[_Standards/WikiData/WD~starting_a_family,130746549]]"
+- '[[_Standards/WikiData/WD~Project_Drawdown,27218199]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+followed_by: '[[_Standards/WikiData/WD~starting_a_family,130746549]]'
 Dewey_Decimal_Classification:
-  - "363.96"
-  - "304.666"
-  - "613.94"
+- 363.96
+- 304.666
+- 613.94
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HK%20FPA%20Poster%201952.jpg
 Commons_category: Family planning
 IPTC_NewsCode: mediatopic/20000784
 MeSH_tree_code:
-  - N02.421.143.401
-  - N02.421.800.249
+- N02.421.143.401
+- N02.421.800.249
+dv_has_:
+  name_:
+    ar: تنظيم الأسرة
+    ast: Planificación familiar
+    az: Ailə planlaşdırılması
+    be-tarask: плянаваньне сям’і
+    bn: পরিবার পরিকল্পনা
+    ca: planificació familiar
+    cs: plánované rodičovství
+    cy: cynllunio teulu
+    de: Familienplanung
+    de-ch: Familienplanung
+    dty: परिवार नियोजन
+    el: οικογενειακός προγραμματισμός
+    en: family planning
+    en-ca: Family planning
+    en-gb: family planning
+    eo: familiplanado
+    es: planificación familiar
+    eu: Familia-plangintza
+    fa: تنظیم خانواده
+    fi: perhesuunnittelu
+    fr: planification familiale
+    gl: Planificación familiar
+    gn: Ogaygua ñembohaperã
+    he: תכנון משפחה
+    hi: family planning
+    hr: Planiranje obitelji
+    hu: családtervezés
+    hy: Ընտանիքի պլանավորում
+    id: Keluarga Berencana
+    ig: Nchịkwa ọmụmụ
+    it: pianificazione familiare
+    ja: 家族計画
+    jv: KB
+    ko: 가족계획
+    lb: Familljeplanifikatioun
+    mg: Fandrindram-piterahana
+    mi: oranga taihema
+    ml: കുടുംബാസൂത്രണം
+    mr: कुटुंबनियोजन
+    ms: Perancang keluarga
+    nb: familieplanlegging
+    ne: परिवार नियोजन
+    nl: gezinsplanning
+    or: ପରିବାର ନିୟୋଜନ
+    pa: ਪਰਿਵਾਰਕ ਯੋਜਨਾਬੰਦੀ
+    pl: planowanie rodziny
+    pnb: خاندانی منصوبہ بندی
+    pt: planeamento familiar
+    pt-br: planejamento familiar
+    ro: planificare familială
+    ru: планирование семьи
+    sk: Plánované rodičovstvo
+    sl: načrtovanje družine
+    sr: Планирање породице
+    ss: Kuhlela umndeni
+    sv: familjeplanering
+    sw: Uzazi wa mpango
+    ta: குடும்பக் கட்டுப்பாடு
+    te: కుటుంబ నియంత్రణ
+    th: การวางแผนครอบครัว
+    tr: aile planlaması
+    uk: планування сім'ї
+    ur: خاندانی منصوبہ بندی
+    vi: Kế hoạch hóa gia đình
+    yue: 計劃生育
+    zh: 计划生育
+    zh-hans: 计划生育
 ---
-
 # [[Family_Planning]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Family_planning,1280670|WD~Family_planning,1280670]] 

@@ -1,33 +1,180 @@
 ---
 aliases:
+- camp
+- Camp (matematega)
+- campo
+- Campu
+- ciało
+- Cisim
+- corp
+- corpo
+- Corpore (mathematica)
+- corps commutatif
+- Corpus
+- cos commutatiu
+- cuerpo
+- Feldo
+- field
+- Field (mathematics)
+- fushë
+- gorputz
+- kampo
+- Kierper
+- Korpus
+- Korpus (matõmaatiga)
+- kropp
+- kunta
+- Körper
+- laukas
+- Lauks (matemātika)
+- Legeme
+- lichaam (Ned) / veld (Be)
+- medan
+- obseg
+- Pole
+- Polje
+- Polje (matematika)
+- réimse
+- test
+- Thé
+- trường
+- těleso
+- Σώμα
+- кыр
+- поље
+- поле
+- Поле, алгебра
+- Талбар (математикийн)
+- Уй (алгебра)
+- Ялан (алгебра)
+- שדה
+- حقل
+- میدان
+- مەیدان
+- क्षेत्र
+- ফিল্ড
+- களம் (கணிதம்)
+- ฟีลด์
+- ཁོངས། ༼རྩིས་རིག༽
+- 可換体
+- 域
+- 域 (数学)
+- 場
+- 體
+- 체
 has_id_wikidata: Q190109
 subclass_of:
-  - "[[_Standards/WikiData/WD~vector_space,125977]]"
-  - "[[_Standards/WikiData/WD~bialgebra,494141]]"
-  - "[[_Standards/WikiData/WD~division_ring,650741]]"
-  - "[[_Standards/WikiData/WD~artinian_ring,713084]]"
-  - "[[_Standards/WikiData/WD~commutative_ring,858656]]"
-  - "[[_Standards/WikiData/WD~Euclidean_domain,867345]]"
-  - "[[_Standards/WikiData/WD~simple_ring,2326800]]"
-  - "[[_Standards/WikiData/WD~partial_algebra,18386809]]"
-  - "[[_Standards/WikiData/WD~field,21406562]]"
+- '[[_Standards/WikiData/WD~vector_space,125977]]'
+- '[[_Standards/WikiData/WD~bialgebra,494141]]'
+- '[[_Standards/WikiData/WD~division_ring,650741]]'
+- '[[_Standards/WikiData/WD~artinian_ring,713084]]'
+- '[[_Standards/WikiData/WD~commutative_ring,858656]]'
+- '[[_Standards/WikiData/WD~Euclidean_domain,867345]]'
+- '[[_Standards/WikiData/WD~simple_ring,2326800]]'
+- '[[_Standards/WikiData/WD~partial_algebra,18386809]]'
+- '[[_Standards/WikiData/WD~field,21406562]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-  - "[[_Standards/WikiData/WD~category_theory,217413]]"
-  - "[[_Standards/WikiData/WD~field_theory,903820]]"
+- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~field_theory,903820]]'
 different_from:
-  - "[[_Standards/WikiData/WD~body,170494]]"
-  - "[[_Standards/WikiData/WD~field,21406562]]"
+- '[[_Standards/WikiData/WD~body,170494]]'
+- '[[_Standards/WikiData/WD~field,21406562]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~abelian_group,181296]]"
-  - "[[_Standards/WikiData/WD~element_of_a_field,68023621]]"
-  - "[[_Standards/WikiData/WD~ideal,44649]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q17253046,17253046]]"
-OmegaWiki_Defined_Meaning: "1407739"
+- '[[_Standards/WikiData/WD~abelian_group,181296]]'
+- '[[_Standards/WikiData/WD~element_of_a_field,68023621]]'
+- '[[_Standards/WikiData/WD~ideal,44649]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q17253046,17253046]]'
+OmegaWiki_Defined_Meaning: 1407739
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anillo%20c%C3%ADclico.png
+dv_has_:
+  name_:
+    ar: حقل
+    ba: Ялан (алгебра)
+    be: Поле, алгебра
+    be-tarask: поле
+    bg: Поле
+    bn: ফিল্ড
+    bo: ཁོངས། ༼རྩིས་རིག༽
+    bs: Polje (matematika)
+    ca: cos commutatiu
+    ckb: مەیدان
+    cs: těleso
+    cv: Уй (алгебра)
+    da: Legeme
+    de: Körper
+    de-ch: Körper
+    el: Σώμα
+    en: field
+    en-ca: Field
+    en-gb: field
+    eo: kampo
+    es: cuerpo
+    et: Korpus
+    eu: gorputz
+    fa: میدان
+    fi: kunta
+    fr: corps commutatif
+    ga: réimse
+    gl: corpo
+    he: שדה
+    hi: क्षेत्र
+    hr: Polje
+    hu: test
+    ia: Corpore (mathematica)
+    id: medan
+    io: Feldo
+    it: campo
+    ja: 可換体
+    ko: 체
+    la: Corpus
+    lb: Kierper
+    lmo: Camp (matematega)
+    lt: laukas
+    lv: Lauks (matemātika)
+    lzh: 域
+    mn: Талбар (математикийн)
+    ms: Medan
+    nan: Thé
+    nb: kropp
+    nl: lichaam (Ned) / veld (Be)
+    nn: kropp
+    oc: camp
+    pl: ciało
+    pms: Camp
+    pt: corpo
+    pt-br: corpo
+    ro: corp
+    ru: поле
+    scn: Campu
+    sh: Polje
+    sk: Pole
+    sl: obseg
+    sq: fushë
+    sr: поље
+    sr-ec: Поље
+    sr-el: Polje
+    sv: kropp
+    ta: களம் (கணிதம்)
+    te: Field (mathematics)
+    th: ฟีลด์
+    tr: Cisim
+    tt: кыр
+    uk: поле
+    ur: میدان
+    vi: trường
+    vro: Korpus (matõmaatiga)
+    wuu: 域 (数学)
+    yue: 場
+    zh: 域
+    zh-cn: 域
+    zh-hans: 域
+    zh-hant: 域
+    zh-hk: 體
+    zh-sg: 域
+    zh-tw: 體
 ---
-
 # [[Field(Math)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Field,190109|WD~Field,190109]] 

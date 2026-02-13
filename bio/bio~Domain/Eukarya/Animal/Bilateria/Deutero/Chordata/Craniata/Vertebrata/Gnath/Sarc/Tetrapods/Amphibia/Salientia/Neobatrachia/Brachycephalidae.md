@@ -1,9 +1,74 @@
 ---
 aliases:
-  - Brachycephalidae
+- Brachycephalidae
+- Braĥicefaledoj
+- kortskallepadder
+- nyergesbékafélék
+- ropušenkovití
+- Sattelkröten
+- Áhí dah oojołítah chʼał
+- Короткоголові
+- Короткоголовые лягушки
+- късоглавови жаби
+- Томолок бака сымалдуулар
+- ברכיספליים
+- ذوات الرؤوس القصيرة
+- ذوات الرؤوس القصيره
+- მოკლეთავა ბაყაყისებრნი
+- 短头蟾科
 title: Brachycephalidae
+has_id_wikidata: Q55363
+dv_has_:
+  name_:
+    an: Brachycephalidae
+    ar: ذوات الرؤوس القصيرة
+    arz: ذوات الرؤوس القصيره
+    ast: Brachycephalidae
+    bg: късоглавови жаби
+    ca: Brachycephalidae
+    ceb: Brachycephalidae
+    cs: ropušenkovití
+    de: Sattelkröten
+    de-ch: Sattelkröten
+    en: Brachycephalidae
+    eo: Braĥicefaledoj
+    es: Brachycephalidae
+    eu: Brachycephalidae
+    ext: Brachycephalidae
+    fi: Brachycephalidae
+    fr: Brachycephalidae
+    ga: Brachycephalidae
+    gl: Brachycephalidae
+    he: ברכיספליים
+    hu: nyergesbékafélék
+    ia: Brachycephalidae
+    ie: Brachycephalidae
+    io: Brachycephalidae
+    it: Brachycephalidae
+    ka: მოკლეთავა ბაყაყისებრნი
+    ky: Томолок бака сымалдуулар
+    la: Brachycephalidae
+    mul: Brachycephalidae
+    nb: kortskallepadder
+    nl: Brachycephalidae
+    nv: Áhí dah oojołítah chʼał
+    oc: Brachycephalidae
+    pl: Brachycephalidae
+    pt: Brachycephalidae
+    pt-br: Brachycephalidae
+    ro: Brachycephalidae
+    ru: Короткоголовые лягушки
+    sq: Brachycephalidae
+    sv: Brachycephalidae
+    tr: Brachycephalidae
+    uk: Короткоголові
+    vi: Brachycephalidae
+    vo: Brachycephalidae
+    war: Brachycephalidae
+    zh: 短头蟾科
+    zh-cn: 短头蟾科
+    zh-hans: 短头蟾科
 ---
-
 # [[Brachycephalidae]]
 
 Gold Frogs 

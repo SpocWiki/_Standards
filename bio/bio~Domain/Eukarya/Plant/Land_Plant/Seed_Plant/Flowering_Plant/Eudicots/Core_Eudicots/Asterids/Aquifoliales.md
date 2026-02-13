@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Aquifoliales
+- Akvifolialoj
+- Aquifoliales
+- Aqüifolials
+- Astelpõõsalaadsed
+- bodikovci
+- Bộ Nhựa ruồi
+- cesmínotvaré
+- cezmínotvaré
+- Koma holan
+- kristtorn-ordenen
+- kristtornordenen
+- Ostrokrzewowce
+- Stechpalmenartige
+- Οξυφυλλώδη
+- джелоцветни
+- Падубоцвіті
+- падубоцветные
+- ציניתאים
+- بهشيات
+- خاسسانان
+- അക്വിഫോളിയൽസ്
+- อันดับเน่าใน
+- モチノキ目
+- 冬青目
+- 감탕나무목
 title: Aquifoliales
+has_id_wikidata: Q21779
+dv_has_:
+  name_:
+    an: Aquifoliales
+    ar: بهشيات
+    arz: بهشيات
+    ast: Aquifoliales
+    az: Aquifoliales
+    bg: джелоцветни
+    bs: Aquifoliales
+    ca: Aqüifolials
+    ceb: Aquifoliales
+    cs: cesmínotvaré
+    da: kristtorn-ordenen
+    de: Stechpalmenartige
+    el: Οξυφυλλώδη
+    en: Aquifoliales
+    en-ca: Aquifoliales
+    en-gb: Aquifoliales
+    eo: Akvifolialoj
+    es: Aquifoliales
+    et: Astelpõõsalaadsed
+    eu: Aquifoliales
+    ext: Aquifoliales
+    fa: خاسسانان
+    fi: Aquifoliales
+    fr: Aquifoliales
+    frr: Aquifoliales
+    ga: Aquifoliales
+    gl: Aquifoliales
+    he: ציניתאים
+    hr: Aquifoliales
+    hu: Aquifoliales
+    ia: Aquifoliales
+    id: Aquifoliales
+    ie: Aquifoliales
+    io: Aquifoliales
+    it: Aquifoliales
+    ja: モチノキ目
+    ko: 감탕나무목
+    ku: Koma holan
+    la: Aquifoliales
+    ml: അക്വിഫോളിയൽസ്
+    mul: Aquifoliales
+    nb: kristtornordenen
+    nl: Aquifoliales
+    oc: Aquifoliales
+    pl: Ostrokrzewowce
+    pt: Aquifoliales
+    pt-br: Aquifoliales
+    ro: Aquifoliales
+    ru: падубоцветные
+    sk: cezmínotvaré
+    sl: bodikovci
+    sq: Aquifoliales
+    sv: Aquifoliales
+    th: อันดับเน่าใน
+    tr: Aquifoliales
+    uk: Падубоцвіті
+    vi: Bộ Nhựa ruồi
+    vo: Aquifoliales
+    war: Aquifoliales
+    wuu: 冬青目
+    yue: 冬青目
+    zh: 冬青目
+    zh-cn: 冬青目
+    zh-hans: 冬青目
+    zh-hant: 冬青目
 ---
-
 # [[Aquifoliales]] 
 
 ![Ilex_aquifolium](Aquifoliales/Ilex_aquifolium.jpg) 

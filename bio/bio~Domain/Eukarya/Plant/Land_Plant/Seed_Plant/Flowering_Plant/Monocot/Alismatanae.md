@@ -1,9 +1,122 @@
 ---
 aliases:
-  - Alismatanae
+- Alismaloj
+- Alismatales
+- Alismatals
+- Alismatanae
+- Baqəvərçiçəklilər
+- Bộ Trạch tả
+- Cirveņu rinda
+- Dumblialaiškiečiai
+- Froschlöffelartige
+- hídőrvirágúak
+- Koma pelkevçiyan
+- Konnarohulaadsed
+- porečnikovci
+- Skeblad-ordenen
+- vassgroordenen
+- żabieńcowce
+- žabníkotvaré
+- žabočunolike
+- αλισματώδη
+- воднотегавцовидни
+- Кербезгүлдер тұқымдасы
+- лаваницоцветни
+- Частухоцвіті
+- частухоцветные
+- Шальнікакветныя
+- հովվափողածաղկավորներ
+- כף צפרדע
+- در نمو درخت
+- قاشقواشسانان
+- مزماريات
+- अलिस्माटेल्स
+- अलिस्माटेल्स्
+- ಅಲಿಸ್ಮಟೆಲ್ಸ್
+- อันดับขาเขียด
+- オモダカ目
+- 泽泻目
+- 澤瀉目
+- 택사목
 title: Alismatanae
+has_id_wikidata: Q27341
+dv_has_:
+  name_:
+    an: Alismatales
+    ar: مزماريات
+    arz: مزماريات
+    ast: Alismatales
+    az: Baqəvərçiçəklilər
+    be: Шальнікакветныя
+    be-tarask: Шальнікакветныя
+    bg: лаваницоцветни
+    bs: Alismatales
+    ca: Alismatals
+    ceb: Alismatales
+    co: Alismatales
+    cs: žabníkotvaré
+    da: Skeblad-ordenen
+    de: Froschlöffelartige
+    el: αλισματώδη
+    en: Alismatales
+    eo: Alismaloj
+    es: Alismatales
+    et: Konnarohulaadsed
+    eu: Alismatales
+    ext: Alismatales
+    fa: قاشقواشسانان
+    fi: Alismatales
+    fr: Alismatales
+    frr: Alismatales
+    ga: Alismatales
+    gl: Alismatales
+    he: כף צפרדע
+    hi: अलिस्माटेल्स
+    hr: žabočunolike
+    hu: hídőrvirágúak
+    hy: հովվափողածաղկավորներ
+    ia: Alismatales
+    id: Alismatales
+    ie: Alismatales
+    io: Alismatales
+    it: Alismatales
+    ja: オモダカ目
+    kk: Кербезгүлдер тұқымдасы
+    kn: ಅಲಿಸ್ಮಟೆಲ್ಸ್
+    ko: 택사목
+    ku: Koma pelkevçiyan
+    la: Alismatales
+    lt: Dumblialaiškiečiai
+    lv: Cirveņu rinda
+    mk: воднотегавцовидни
+    mul: Alismatales
+    nah: Alismatales
+    nb: vassgroordenen
+    nl: Alismatales
+    nn: vassgroordenen
+    oc: Alismatales
+    pl: żabieńcowce
+    pt: Alismatales
+    pt-br: Alismatales
+    ro: Alismatales
+    ru: частухоцветные
+    sa: अलिस्माटेल्स्
+    sco: Alismatales
+    sh: Alismatales
+    sl: porečnikovci
+    sq: Alismatales
+    sr: Alismatales
+    sv: Alismatales
+    th: อันดับขาเขียด
+    tr: Alismatales
+    uk: Частухоцвіті
+    ur: در نمو درخت
+    vi: Bộ Trạch tả
+    vo: Alismatales
+    war: Alismatales
+    yue: 澤瀉目
+    zh: 泽泻目
 ---
-
 # [[Alismatanae]] 
 
 ![Sagittaria latifolia](Alismatanae/Sagittaria_latifolia.jpg) 

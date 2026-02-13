@@ -1,9 +1,85 @@
 ---
 aliases:
-  - Phrynosomatidae
+- békagyíkfélék
+- Frinosomàtid
+- Frynosomowate
+- Naʼashǫ́ʼii dichʼízhii dóó bikʼéí
+- Phrynosomatidae
+- Qurbağayabənzər kərtənkələlər
+- Stekelleguanen
+- Xincoyōtl
+- Πρυνοσωματίδες
+- Фринозома йишвлӓ
+- Фринозомові
+- לטאות מקרינות
+- سحالى ذات القرون
+- سحالي ذات القرون
+- شاخیمارمولکان
+- کنڈیلے ایگوانے
+- फ्रायनोसोमाटिडाए
+- ツノトカゲ科
+- 角蜥科
+- 뿔도마뱀과
 title: Phrynosomatidae
+has_id_wikidata: Q852822
+dv_has_:
+  name_:
+    an: Phrynosomatidae
+    ar: سحالي ذات القرون
+    arz: سحالى ذات القرون
+    ast: Phrynosomatidae
+    az: Qurbağayabənzər kərtənkələlər
+    bg: Phrynosomatidae
+    ca: Frinosomàtid
+    ceb: Phrynosomatidae
+    de: Phrynosomatidae
+    el: Πρυνοσωματίδες
+    en: Phrynosomatidae
+    eo: Phrynosomatidae
+    es: Phrynosomatidae
+    eu: Phrynosomatidae
+    ext: Phrynosomatidae
+    fa: شاخیمارمولکان
+    fi: Phrynosomatidae
+    fr: Phrynosomatidae
+    ga: Phrynosomatidae
+    gl: Phrynosomatidae
+    he: לטאות מקרינות
+    hi: फ्रायनोसोमाटिडाए
+    hu: békagyíkfélék
+    ia: Phrynosomatidae
+    id: Phrynosomatidae
+    ie: Phrynosomatidae
+    io: Phrynosomatidae
+    it: Phrynosomatidae
+    ja: ツノトカゲ科
+    ko: 뿔도마뱀과
+    la: Phrynosomatidae
+    mrj: Фринозома йишвлӓ
+    mul: Phrynosomatidae
+    nah: Xincoyōtl
+    nb: Phrynosomatidae
+    nl: Stekelleguanen
+    nv: Naʼashǫ́ʼii dichʼízhii dóó bikʼéí
+    oc: Phrynosomatidae
+    pl: Frynosomowate
+    pnb: کنڈیلے ایگوانے
+    pt: Phrynosomatidae
+    pt-br: Phrynosomatidae
+    ro: Phrynosomatidae
+    ru: Phrynosomatidae
+    sq: Phrynosomatidae
+    sr: Phrynosomatidae
+    sv: Phrynosomatidae
+    tr: Phrynosomatidae
+    uk: Фринозомові
+    vi: Phrynosomatidae
+    vo: Phrynosomatidae
+    war: Phrynosomatidae
+    zh: 角蜥科
+    zh-cn: 角蜥科
+    zh-hans: 角蜥科
 ---
-
 # [[Phrynosomatidae]] 
 
 

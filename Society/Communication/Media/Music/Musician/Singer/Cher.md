@@ -1,87 +1,113 @@
 ---
 aliases:
-  - Cheryl Sarkisian
-  - Cher
+- Cher
+- Cher (koa-chhiú)
+- Cher (mang-aawit)
+- Cheryl Sarkisian
+- Şer
+- Šēra
+- Σερ
+- Шер
+- Шэр
+- Շեր
+- שר
+- شر
+- شر (اداکارہ)
+- شير
+- شیر
+- شێر
+- शैर
+- শের
+- ਸ਼ੈਰ
+- செர்
+- ഷെർ
+- චෙර්
+- แชร์
+- შერი
+- シェール
+- 雪儿
+- 雪兒
+- 셰어
 has_id_wikidata: Q12003
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_European_Film,628637]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_European_Film,628637]]"
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Television_Series_Musical_or_Comedy,596294]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
-  - '[[_Standards/WikiData/WD~GLAAD_Vanguard_Award,5513594]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Musical_or_Comedy,5579497]]'
-  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
-  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Television_Series_Musical_or_Comedy,596294]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
+- '[[_Standards/WikiData/WD~GLAAD_Vanguard_Award,5513594]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_Musical_or_Comedy,5579497]]'
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 medical_condition: '[[_Standards/WikiData/WD~dyslexia,132971]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 partner_in_business_or_sport:
-  - '[[_Standards/WikiData/WD~Sonny_Bono,179150]]'
-  - '[[_Standards/WikiData/WD~Gregg_Allman,503264]]'
+- '[[_Standards/WikiData/WD~Sonny_Bono,179150]]'
+- '[[_Standards/WikiData/WD~Gregg_Allman,503264]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Sonny_Bono,179150]]'
-  - '[[_Standards/WikiData/WD~Gregg_Allman,503264]]'
+- '[[_Standards/WikiData/WD~Sonny_Bono,179150]]'
+- '[[_Standards/WikiData/WD~Gregg_Allman,503264]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
-  - '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
-  - '[[_Standards/WikiData/WD~Atco_Records,585643]]'
-  - '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
-  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
-  - '[[_Standards/WikiData/WD~Casablanca_Records,1046707]]'
-  - '[[_Standards/WikiData/WD~United_Artists_Records,1542119]]'
-  - '[[_Standards/WikiData/WD~Imperial,1660305]]'
-  - '[[_Standards/WikiData/WD~Kapp_Records,1728690]]'
-  - '[[_Standards/WikiData/WD~MCA_Records,2338889]]'
-  - '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+- '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
+- '[[_Standards/WikiData/WD~Atco_Records,585643]]'
+- '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Casablanca_Records,1046707]]'
+- '[[_Standards/WikiData/WD~United_Artists_Records,1542119]]'
+- '[[_Standards/WikiData/WD~Imperial,1660305]]'
+- '[[_Standards/WikiData/WD~Kapp_Records,1728690]]'
+- '[[_Standards/WikiData/WD~MCA_Records,2338889]]'
+- '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
 genre:
-  - '[[_Standards/WikiData/WD~folk_rock,186472]]'
-  - '[[_Standards/WikiData/WD~dance_music,316930]]'
-  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~house_music,20502]]'
-  - '[[_Standards/WikiData/WD~folk_music,43343]]'
-  - '[[_Standards/WikiData/WD~disco,58339]]'
+- '[[_Standards/WikiData/WD~folk_rock,186472]]'
+- '[[_Standards/WikiData/WD~dance_music,316930]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~house_music,20502]]'
+- '[[_Standards/WikiData/WD~folk_music,43343]]'
+- '[[_Standards/WikiData/WD~disco,58339]]'
 copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 residence: '[[_Standards/WikiData/WD~Malibu,387047]]'
 place_of_birth: '[[_Standards/WikiData/WD~El_Centro,495369]]'
 filmography: '[[_Standards/WikiData/WD~Cher_filmography,860496]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Sonny_&_Cher,907445]]'
-  - '[[_Standards/WikiData/WD~Allman_and_Woman,83551763]]'
+- '[[_Standards/WikiData/WD~Sonny_&_Cher,907445]]'
+- '[[_Standards/WikiData/WD~Allman_and_Woman,83551763]]'
 child:
-  - '[[_Standards/WikiData/WD~Chaz_Bono,979387]]'
-  - '[[_Standards/WikiData/WD~Elijah_Blue_Allman,1329372]]'
+- '[[_Standards/WikiData/WD~Chaz_Bono,979387]]'
+- '[[_Standards/WikiData/WD~Elijah_Blue_Allman,1329372]]'
 discography: '[[_Standards/WikiData/WD~Cher_discography,1070182]]'
 different_from: '[[_Standards/WikiData/WD~Cher,1070238]]'
 given_name: '[[_Standards/WikiData/WD~Cheryl,1070506]]'
 mother: '[[_Standards/WikiData/WD~Georgia_Holt,4348188]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Fresno_High_School,5503182]]'
-  - '[[_Standards/WikiData/WD~Montclair_College_Preparatory_School,6904590]]'
-  - '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
+- '[[_Standards/WikiData/WD~Fresno_High_School,5503182]]'
+- '[[_Standards/WikiData/WD~Montclair_College_Preparatory_School,6904590]]'
+- '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
 sibling: '[[_Standards/WikiData/WD~Georganne_LaPiere,5535853]]'
 setlist: '[[_Standards/WikiData/WD~list_of_Cher_concert_tours,6566753]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Cher,6872197]]'
 pseudonym:
-  - Cherilyn Sarkisian LaPiere Bono Allman
-  - Cherilyn Sarkisan LaPiere
-  - Cher
-  - Bonnie Jo Mason
-  - Cher Allman
-  - Cher Bono
-  - Cheryl LaPiere
+- Cherilyn Sarkisian LaPiere Bono Allman
+- Cherilyn Sarkisan LaPiere
+- Cher
+- Bonnie Jo Mason
+- Cher Allman
+- Cher Bono
+- Cheryl LaPiere
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 family_name: '[[_Standards/WikiData/WD~Q36994654,36994654]]'
 Plex_person_key: 5d77682b151a60001f24bac2
@@ -98,8 +124,8 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 1260000
-  - 4048650
+- 1260000
+- 4048650
 voice_type: '[[_Standards/WikiData/WD~contralto,37137]]'
 EcuRed_article: Cher
 Know_Your_Meme_slug: cher
@@ -127,8 +153,123 @@ IPI_name_number: 00073882841
 RIA_Novosti_reference: 1435675139
 P8189: 987007442710905171
 Europeana_entity: agent/base/147204
+dv_has_:
+  name_:
+    af: Cher
+    an: Cher
+    ar: شير
+    arz: شير
+    ast: Cher
+    az: Şer
+    azb: شر
+    bcl: Cher
+    be: Шэр
+    be-tarask: Шэр
+    bg: Шер
+    bn: শের
+    br: Cher
+    bs: Cher
+    ca: Cher
+    ceb: Cher (mang-aawit)
+    ckb: شێر
+    cs: Cher
+    cy: Cher
+    da: Cher
+    de: Cher
+    el: Σερ
+    eml: Cher
+    en: Cher
+    en-ca: Cher
+    en-gb: Cher
+    en-us: Cher
+    eo: Cher
+    es: Cher
+    et: Cher
+    eu: Cher
+    ext: Cher
+    fa: شر
+    fi: Cher
+    fo: Cher
+    fr: Cher
+    fy: Cher
+    ga: Cher
+    gl: Cher
+    he: שר
+    hi: शैर
+    hr: Cher
+    hu: Cher
+    hy: Շեր
+    hyw: Շեր
+    ia: Cher
+    id: Cher
+    ig: Cher
+    ilo: Cher
+    io: Cher
+    is: Cher
+    it: Cher
+    ja: シェール
+    ka: შერი
+    kk: Шер
+    ko: 셰어
+    ks: شر (اداکارہ)
+    ku: Cher
+    la: Cher
+    lb: Cher
+    li: Cher
+    lmo: Cher
+    lt: Cher
+    lv: Šēra
+    mg: Cher
+    mk: Шер
+    ml: ഷെർ
+    ms: Cher
+    mul: Cher
+    mzn: شر
+    nan: Cher (koa-chhiú)
+    nb: Cher
+    nl: Cher
+    nn: Cher
+    oc: Cher
+    pa: ਸ਼ੈਰ
+    pag: Cher
+    pap: Cher
+    pcm: Cher
+    pl: Cher
+    pnb: شیر
+    pt: Cher
+    pt-br: Cher
+    rmy: Cher
+    ro: Cher
+    ru: Шер
+    sah: Cher
+    scn: Cher
+    sco: Cher
+    sh: Cher
+    si: චෙර්
+    sk: Cher
+    skr: شر (اداکارہ)
+    sl: Cher
+    sq: Cher
+    sr: Шер
+    sv: Cher
+    ta: செர்
+    tg: Шер
+    th: แชร์
+    tl: Cher
+    tr: Cher
+    uk: Шер
+    ur: شر (اداکارہ)
+    uz: Cher
+    vi: Cher
+    war: Cher
+    wuu: 雪儿
+    xmf: შერი
+    yo: Cher
+    yue: 雪兒
+    zh: 雪兒
+    zh-hans: 雪儿
+    zh-hant: 雪兒
 ---
-
 # [[Cher]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cher,12003|WD~Cher,12003]] 

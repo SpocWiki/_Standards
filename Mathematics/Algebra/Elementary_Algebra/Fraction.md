@@ -1,37 +1,240 @@
 ---
 aliases:
+- almennt brot
+- ampaha
+- bloigh
+- breuk
+- Broch
+- Bruch
+- bråk
+- Bröök
+- Brööktaal
+- brøk
+- ch'iqtaku
+- codán
+- daļskaitlis
+- dimbu
+- drob
+- ffracsiwn
+- fracció
+- fracción
+- fraciono
+- fractio
+- fraction
+- fracție
+- fraición
+- frakcio
+- frakshan
+- fraksyon
+- frato
+- frazione
+- frazzioni
+- frazziun
+- frazzjoni
+- fração
+- hautau
+- hirmeemmii
+- i-fraction
+- Iwasewase (naba)
+- kasr
+- kesir
+- kəsr
+- murdarv
+- murtoluku
+- omukutule ogwa bulijjo
+- pachjta
+- pecahan
+- phân số
+- praksiyon
+- praksyon
+- rann
+- razlomak
+- thyesa
+- tirẓi
+- trupmena
+- törtszám
+- ulomek
+- ułamek
+- wilangan pecahan
+- zatiki
+- zlomek
+- zlomok
+- κλάσμα
+- алым
+- вак
+- дріб
+- дроб
+- дробь
+- дропка
+- кәсерҙәр
+- разломак
+- Розламок
+- կոտորակ
+- בראכטייל
+- שבר
+- كسر
+- كەسىر
+- کسر
+- کەرت
+- भिन्न
+- ভগ্নাংশ
+- பின்னம்
+- భిన్నాలు
+- ಭಿನ್ನಾಂಕ
+- ഭിന്നസംഖ്യ
+- เศษส่วน
+- ဂဏန်ꩻခေါဝ်
+- အပိုင်းဂဏန်း
+- 分数
+- 分數
+- 분수
 has_id_wikidata: Q66055
-different_from: "[[_Standards/WikiData/WD~nominative_case,131105]]"
+different_from: '[[_Standards/WikiData/WD~nominative_case,131105]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Matemaatikaleksikon,115203852]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Matemaatikaleksikon,115203852]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_notation,1140046]]"
-  - "[[_Standards/WikiData/WD~rational_number,1244890]]"
+- '[[_Standards/WikiData/WD~mathematical_notation,1140046]]'
+- '[[_Standards/WikiData/WD~rational_number,1244890]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~numerator,2279584]]"
-  - "[[_Standards/WikiData/WD~denominator,3044574]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_fractions,3974127]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Fraction,10806324]]"
+- '[[_Standards/WikiData/WD~numerator,2279584]]'
+- '[[_Standards/WikiData/WD~denominator,3044574]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_fractions,3974127]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fraction,10806324]]'
 Colon_Classification: B115
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fracciones.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cake%20fractions.svg
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fraction%20in%20greek.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fraction%20one%20fourth.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gemeiner%20Bruch.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fraction%20in%20greek.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fraction%20one%20fourth.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gemeiner%20Bruch.svg
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/fractions
-  - https://matheducators.stackexchange.com/tags/fractions
+- https://math.stackexchange.com/tags/fractions
+- https://matheducators.stackexchange.com/tags/fractions
 TeX_string: \frac{}{}
 IEV_number: 102-02-04
 Commons_category: Fractions
+dv_has_:
+  name_:
+    af: breuk
+    ar: كسر
+    as: ভগ্নাংশ
+    ast: fraición
+    ay: pachjta
+    az: kəsr
+    ba: кәсерҙәр
+    bcl: praksyon
+    be: дроб
+    be-tarask: дроб
+    bg: дроб
+    blk: ဂဏန်ꩻခေါဝ်
+    bn: ভগ্নাংশ
+    br: rann
+    bs: razlomak
+    ca: fracció
+    ckb: کەرت
+    cs: zlomek
+    cv: вак
+    cy: ffracsiwn
+    da: brøk
+    de: Bruch
+    el: κλάσμα
+    en: fraction
+    en-ca: fraction
+    en-gb: fraction
+    eo: frakcio
+    es: fracción
+    et: murdarv
+    eu: zatiki
+    fa: کسر
+    fi: murtoluku
+    fj: Iwasewase (naba)
+    fr: fraction
+    frr: Brööktaal
+    ga: codán
+    gan: 分數
+    gcr: fraksyon
+    gd: bloigh
+    gl: fracción
+    he: שבר
+    hi: भिन्न
+    hr: razlomak
+    hu: törtszám
+    hy: կոտորակ
+    id: pecahan
+    io: fraciono
+    is: almennt brot
+    it: frazione
+    ja: 分数
+    jam: frakshan
+    jv: wilangan pecahan
+    kab: tirẓi
+    kn: ಭಿನ್ನಾಂಕ
+    ko: 분수
+    ky: алым
+    la: fractio
+    lb: Broch
+    lfn: frato
+    lg: omukutule ogwa bulijjo
+    lmo: frazziun
+    lt: trupmena
+    lv: daļskaitlis
+    mag: भिन्न
+    mg: ampaha
+    mi: hautau
+    mk: дропка
+    ml: ഭിന്നസംഖ്യ
+    ms: pecahan
+    mt: frazzjoni
+    my: အပိုင်းဂဏန်း
+    nb: brøk
+    nds: Bröök
+    nl: breuk
+    nn: brøk
+    oc: fraction
+    om: hirmeemmii
+    pl: ułamek
+    pt: fração
+    pt-br: fração
+    qu: ch'iqtaku
+    ro: fracție
+    rsk: Розламок
+    ru: дробь
+    scn: frazzioni
+    sco: fraction
+    sh: razlomak
+    sk: zlomok
+    sl: ulomek
+    sn: dimbu
+    sq: thyesa
+    sr: разломак
+    sr-ec: разломак
+    sv: bråk
+    ta: பின்னம்
+    te: భిన్నాలు
+    th: เศษส่วน
+    tk: drob
+    tl: praksiyon
+    tr: kesir
+    udm: дробь
+    ug: كەسىر
+    uk: дріб
+    ur: کسر
+    uz: kasr
+    vi: phân số
+    war: fraksyon
+    wuu: 分数
+    xh: i-fraction
+    yi: בראכטייל
+    yue: 分數
+    zh: 分數
+    zh-hant: 分數
+    zh-hk: 分數
 ---
-
 # [[Fraction]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fraction,66055|WD~Fraction,66055]] 

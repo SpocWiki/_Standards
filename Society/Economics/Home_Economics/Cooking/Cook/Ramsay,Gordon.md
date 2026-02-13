@@ -1,9 +1,32 @@
 ---
 aliases:
-  - Gordon James Ramsay
-  - Gordon Ramsay
-  - Ramsay
-  - Ramsay,Gordon
+- Gordon James Ramsay
+- Gordon Ramsay
+- Gordons Remzijs
+- Gordonus Ramsay
+- Qordon Ramzi
+- Ramsay
+- Ramsay,Gordon
+- Γκόρντον Ράμσεϊ
+- Гордон Рамзі
+- Гордон Рамзи
+- Гордон Ремзи
+- Гордън Рамзи
+- Գորդոն Ռամզի
+- גורדון רמזי
+- جوردون رامزى
+- غوردون رامزي
+- گوردون رمزی
+- گۆردن ڕامزی
+- गॉर्डन जेम्स
+- ಗೊರ್ಡೊನ್ ರಾಮ್ಸೆ
+- กอร์ดอน แรมซีย์
+- ゴードン・ラムゼイ
+- 哥頓·霖士
+- 哥頓藍斯
+- 戈登·拉姆齊
+- 戈登·拉姆齐
+- 고든 램지
 has_id_wikidata: Q15280
 Quora_username: Gordon-Ramsay
 Threads_username: gordongram
@@ -16,44 +39,44 @@ birth_name: Gordon James Ramsay
 name_in_native_language: Gordon James Ramsay OBE
 medical_condition: '[[_Standards/WikiData/WD~arthritis,170990]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Q677191,677191]]'
-  - '[[_Standards/WikiData/WD~Gordon,18402571]]'
+- '[[_Standards/WikiData/WD~Q677191,677191]]'
+- '[[_Standards/WikiData/WD~Gordon,18402571]]'
 handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 place_of_birth: '[[_Standards/WikiData/WD~Johnstone,2240072]]'
 occupation: '[[_Standards/WikiData/WD~chef,3499072]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~North_Oxfordshire_Academy,7056248]]'
-  - '[[_Standards/WikiData/WD~Stratford_upon_Avon_High_School,7621935]]'
-  - '[[_Standards/WikiData/WD~Activate_Learning,67150238]]'
+- '[[_Standards/WikiData/WD~North_Oxfordshire_Academy,7056248]]'
+- '[[_Standards/WikiData/WD~Stratford_upon_Avon_High_School,7621935]]'
+- '[[_Standards/WikiData/WD~Activate_Learning,67150238]]'
 spouse: '[[_Standards/WikiData/WD~Tana_Ramsay,7682175]]'
 residence:
-  - '[[_Standards/WikiData/WD~Wandsworth_Common,7967303]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~Wandsworth_Common,7967303]]'
+- '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
-  - '[[_Standards/WikiData/WD~Diamond_Play_Button,61942967]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
+- '[[_Standards/WikiData/WD~Diamond_Play_Button,61942967]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Gordon_Ramsay_Plane_Food,14955152]]'
-  - '[[_Standards/WikiData/WD~Bread_Street_Kitchen,17511880]]'
-  - '[[_Standards/WikiData/WD~The_Fat_Cow,17512703]]'
+- '[[_Standards/WikiData/WD~Gordon_Ramsay_Plane_Food,14955152]]'
+- '[[_Standards/WikiData/WD~Bread_Street_Kitchen,17511880]]'
+- '[[_Standards/WikiData/WD~The_Fat_Cow,17512703]]'
 family_name: '[[_Standards/WikiData/WD~Ramsay,16881845]]'
 relative: '[[_Standards/WikiData/WD~Adam_Peaty,17465546]]'
 child:
-  - '[[_Standards/WikiData/WD~Matilda_Ramsay,29641189]]'
-  - '[[_Standards/WikiData/WD~Holly_Ramsay,131406316]]'
+- '[[_Standards/WikiData/WD~Matilda_Ramsay,29641189]]'
+- '[[_Standards/WikiData/WD~Holly_Ramsay,131406316]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 honorific_suffix: '[[_Standards/WikiData/WD~OBE,135287728]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 supported_sports_team: '[[_Standards/WikiData/WD~Rangers_F.C.,19597]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 number_of_children: 6
 social_media_followers:
-  - 21300000
-  - 7721206
+- 21300000
+- 7721206
 Commons_category: Gordon Ramsay
 date_of_birth: 1966-11-08T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gordon%20Ramsay.jpg
@@ -61,8 +84,105 @@ official_website: https://www.gordonramsay.com
 Reddit_username: _Gordon_Ramsay
 ISNI: 0000000073665864
 Plex_person_key: 5d7768aa374a5b001fecc9c4
+dv_has_:
+  name_:
+    af: Gordon Ramsay
+    an: Gordon Ramsay
+    ar: غوردون رامزي
+    arz: جوردون رامزى
+    ast: Gordon Ramsay
+    az: Qordon Ramzi
+    bar: Gordon Ramsay
+    bg: Гордън Рамзи
+    br: Gordon Ramsay
+    bs: Gordon Ramsay
+    ca: Gordon Ramsay
+    ceb: Gordon Ramsay
+    ckb: گۆردن ڕامزی
+    co: Gordon Ramsay
+    cs: Gordon Ramsay
+    cy: Gordon Ramsay
+    da: Gordon Ramsay
+    de: Gordon Ramsay
+    dsb: Gordon Ramsay
+    el: Γκόρντον Ράμσεϊ
+    eml: Gordon Ramsay
+    en: Gordon Ramsay
+    en-ca: Gordon Ramsay
+    en-gb: Gordon Ramsay
+    en-us: Gordon Ramsay
+    eo: Gordon Ramsay
+    es: Gordon Ramsay
+    et: Gordon Ramsay
+    eu: Gordon Ramsay
+    fa: گوردون رمزی
+    fi: Gordon Ramsay
+    fo: Gordon Ramsay
+    fr: Gordon Ramsay
+    frr: Gordon Ramsay
+    fy: Gordon Ramsay
+    ga: Gordon Ramsay
+    gl: Gordon Ramsay
+    gsw: Gordon Ramsay
+    he: גורדון רמזי
+    hi: गॉर्डन जेम्स
+    hr: Gordon Ramsay
+    hsb: Gordon Ramsay
+    hu: Gordon Ramsay
+    hy: Գորդոն Ռամզի
+    id: Gordon Ramsay
+    is: Gordon Ramsay
+    it: Gordon Ramsay
+    ja: ゴードン・ラムゼイ
+    jam: Gordon Ramsay
+    kk: Гордон Рамзи
+    kn: ಗೊರ್ಡೊನ್ ರಾಮ್ಸೆ
+    ko: 고든 램지
+    la: Gordonus Ramsay
+    lb: Gordon Ramsay
+    lt: Gordon Ramsay
+    lv: Gordons Remzijs
+    min: Gordon Ramsay
+    mk: Гордон Рамзи
+    ms: Gordon Ramsay
+    mt: Gordon Ramsay
+    mul: Gordon Ramsay
+    nb: Gordon Ramsay
+    nds: Gordon Ramsay
+    nl: Gordon Ramsay
+    nn: Gordon Ramsay
+    nrm: Gordon Ramsay
+    oc: Gordon Ramsay
+    pl: Gordon Ramsay
+    pt: Gordon Ramsay
+    pt-br: Gordon Ramsay
+    rm: Gordon Ramsay
+    ro: Gordon Ramsay
+    ru: Гордон Рамзи
+    sc: Gordon Ramsay
+    scn: Gordon Ramsay
+    sco: Gordon Ramsay
+    sh: Gordon Ramsay
+    sk: Gordon Ramsay
+    sl: Gordon Ramsay
+    sq: Gordon Ramsay
+    sr: Гордон Ремзи
+    sv: Gordon Ramsay
+    th: กอร์ดอน แรมซีย์
+    tl: Gordon Ramsay
+    tr: Gordon Ramsay
+    ty: Gordon Ramsay
+    uk: Гордон Рамзі
+    vi: Gordon Ramsay
+    vls: Gordon Ramsay
+    wa: Gordon Ramsay
+    yue: 哥頓藍斯
+    zh: 戈登·拉姆齊
+    zh-hans: 戈登·拉姆齐
+    zh-hant: 戈登·拉姆齊
+    zh-hk: 哥頓·霖士
+    zu: Gordon Ramsay
 ---
-
 # [[Ramsay,Gordon]] 
 
 ## #has_/text_of_/abstract 

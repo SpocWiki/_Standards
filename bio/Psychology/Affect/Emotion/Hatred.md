@@ -1,15 +1,101 @@
 ---
 aliases:
-  - Hass
-  - Hatred
+- benci
+- casineb
+- Chiqniy
+- Chuki
+- cikeritamowin
+- fuath
+- gorroto
+- gramstwo
+- gyűlölet
+- haat
+- had
+- haine
+- Haingue
+- Hass
+- hat
+- Hatred
+- hatur
+- het
+- Inzondo
+- Kasoni
+- Kebencian
+- Kin
+- Kiyayya
+- malamo
+- mržnja
+- Nacayb
+- Nafrat
+- naids
+- neapykanta
+- nefret
+- nenávist
+- nenávisť
+- nienawiść
+- Nifrət
+- Näfrät
+- odi
+- odio
+- Odiu
+- Odium
+- Pagka-ongis
+- Rayi
+- Royrõ
+- sovraštvo
+- Sámâ
+- thù ghét
+- urrejtja
+- ură
+- uumisuttuq
+- vaje
+- vašši
+- viha
+- vihkamine
+- vââʹjj
+- Òdi
+- ódio
+- μίσος
+- Жек көру
+- Курайманлăх
+- мржња
+- ненависть
+- Нянавісць
+- нянавісьць
+- Омраза
+- Ատելություն
+- האס
+- שנאה
+- بیزاری
+- كره
+- نفرت
+- घृणा
+- मयैगु
+- ঘৃণা
+- ਨਫ਼ਰਤ
+- வெறுப்பு
+- ద్వేషం
+- ಹಗೆತನ
+- വിദ്വേഷം
+- ความเกลียดชัง
+- སྡང་སེམས།
+- မုန်း
+- ၸင်း
+- სიძულვილი
+- ᐆᒥᓱᑦᑐᖅ
+- ᱦᱤᱨᱠᱟ.
+- 仇恨
+- 憎
+- 憎悪
+- 증오
 has_id_wikidata: Q160232
 greater_than: '[[_Standards/WikiData/WD~antipathy,581459]]'
 has_effect: '[[_Standards/WikiData/WD~injustice,770480]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from: '[[_Standards/WikiData/WD~Q11791645,11791645]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Nnecca,13197000]]'
 subclass_of: '[[_Standards/WikiData/WD~aversion,13631330]]'
@@ -24,8 +110,123 @@ hashtag_: hate
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20man%20glowering%2C%20expressing%20hatred%20or%20jealousy.%20Engraving%20by%20Wellcome%20V0009360.jpg
 UMLS_CUI: C0018616
 MeSH_tree_code: F01.470.548
+dv_has_:
+  name_:
+    af: haat
+    ar: كره
+    arz: كره
+    ast: Odiu
+    atj: cikeritamowin
+    az: Nifrət
+    bcl: Pagka-ongis
+    be: Нянавісць
+    be-tarask: нянавісьць
+    bg: Омраза
+    bn: ঘৃণা
+    bo: སྡང་སེམས།
+    br: Kasoni
+    ca: odi
+    cs: nenávist
+    cv: Курайманлăх
+    cy: casineb
+    da: had
+    de: Hass
+    de-ch: Hass
+    dsb: gramstwo
+    el: μίσος
+    eml: Òdi
+    en: hatred
+    en-ca: Hatred
+    en-gb: hatred
+    eo: malamo
+    es: odio
+    et: vihkamine
+    eu: gorroto
+    fa: بیزاری
+    fi: viha
+    fr: haine
+    fy: haat
+    ga: fuath
+    gl: odio
+    gn: Royrõ
+    ha: Kiyayya
+    he: שנאה
+    hi: घृणा
+    hr: mržnja
+    ht: Rayi
+    hu: gyűlölet
+    hy: Ատելություն
+    id: Kebencian
+    ike-cans: ᐆᒥᓱᑦᑐᖅ
+    ike-latn: uumisuttuq
+    io: odio
+    is: hatur
+    it: odio
+    iu: ᐆᒥᓱᑦᑐᖅ
+    ja: 憎悪
+    ka: სიძულვილი
+    kk: Жек көру
+    kn: ಹಗೆತನ
+    ko: 증오
+    ku: nefret
+    ku-latn: nefret
+    la: Odium
+    lt: neapykanta
+    lv: naids
+    ml: വിദ്വേഷം
+    ms: benci
+    my: မုန်း
+    nb: hat
+    new: मयैगु
+    nl: haat
+    nr: Inzondo
+    nrm: Haingue
+    oc: òdi
+    pa: ਨਫ਼ਰਤ
+    pam: Sámâ
+    pl: nienawiść
+    ps: نفرت
+    pt: ódio
+    pt-br: ódio
+    qu: Chiqniy
+    ro: ură
+    ru: ненависть
+    sat: ᱦᱤᱨᱠᱟ.
+    se: vašši
+    sh: Mržnja
+    shn: ၸင်း
+    sk: nenávisť
+    sl: sovraštvo
+    smn: vaje
+    sms: vââʹjj
+    so: Nacayb
+    sq: urrejtja
+    sr: мржња
+    sr-ec: Мржња
+    sr-el: Mržnja
+    sv: hat
+    sw: Chuki
+    ta: வெறுப்பு
+    te: ద్వేషం
+    th: ความเกลียดชัง
+    tr: Kin
+    tt: Näfrät
+    uk: ненависть
+    ur: نفرت
+    uz: Nafrat
+    vi: thù ghét
+    vo: het
+    wuu: 仇恨
+    yi: האס
+    yue: 憎
+    zh: 仇恨
+    zh-cn: 仇恨
+    zh-hans: 仇恨
+    zh-hant: 仇恨
+    zh-hk: 仇恨
+    zh-sg: 仇恨
+    zh-tw: 仇恨
 ---
-
 # [[Hatred]] 
 
 #is_/same_as :: [[WD~Hatred,160232]] 

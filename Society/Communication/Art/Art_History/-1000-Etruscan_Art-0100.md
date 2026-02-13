@@ -1,27 +1,105 @@
 ---
 aliases:
-  - Etruscan art
-  - -1000-Etruscan_Art-0100
-  - -1000-Etruscan Art-0100
+- -1000-Etruscan Art-0100
+- -1000-Etruscan_Art-0100
+- art etrusc
+- art étrusque
+- arta etrusca
+- arte etrusca
+- arte etrusco
+- arte etruscu
+- celf Etrwsgaidd
+- ealaín Éatrúscach
+- etruriar arte
+- etrurska umetnost
+- etrurska umjetnost
+- Etruscan art
+- etruska arto
+- Etruski kunst
+- etruskien taide
+- etruskische Kunst
+- etruskisk konst
+- etruskisk kunst
+- etruské umění
+- etruszk művészet
+- etruščanska umetnost
+- sztuka etruska
+- Етрурска уметност
+- етруське мистецтво
+- этрускае мастацтва
+- этрусское искусство
+- Էտրուսկյան արվեստ
+- אמנות אטרוסקית
+- الفن الاتروسكانى
+- فن إتروسكاني
+- هنر اتروسکی
+- ეტრუსკული ხელოვნება
+- エトルスク美術
+- 伊特魯里亞藝術
+- 에트루리아 미술
 has_id_wikidata: Q830331
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~ancient_art,2277510]]'
-  - '[[_Standards/WikiData/WD~art_by_humans,31721120]]'
+- '[[_Standards/WikiData/WD~ancient_art,2277510]]'
+- '[[_Standards/WikiData/WD~art_by_humans,31721120]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Etruscan_sculpture,2760651]]'
-  - '[[_Standards/WikiData/WD~Etruscan_jewelry,3355917]]'
-  - '[[_Standards/WikiData/WD~Etruscan_painting,3374400]]'
-  - '[[_Standards/WikiData/WD~Etruscan_architecture,3771791]]'
+- '[[_Standards/WikiData/WD~Etruscan_sculpture,2760651]]'
+- '[[_Standards/WikiData/WD~Etruscan_jewelry,3355917]]'
+- '[[_Standards/WikiData/WD~Etruscan_painting,3374400]]'
+- '[[_Standards/WikiData/WD~Etruscan_architecture,3771791]]'
 part_of: '[[_Standards/WikiData/WD~Etruscan_culture,25571451]]'
 instance_of: '[[_Standards/WikiData/WD~art_by_ethnic_group,120400477]]'
 Commons_category: Etruscan art
+dv_has_:
+  name_:
+    ar: فن إتروسكاني
+    arz: الفن الاتروسكانى
+    ast: arte etruscu
+    be: этрускае мастацтва
+    be-tarask: этрускае мастацтва
+    bs: etrurska umjetnost
+    ca: art etrusc
+    cs: etruské umění
+    cy: celf Etrwsgaidd
+    da: etruskisk kunst
+    de: etruskische Kunst
+    en: Etruscan art
+    eo: etruska arto
+    es: arte etrusco
+    et: Etruski kunst
+    eu: etruriar arte
+    fa: هنر اتروسکی
+    fi: etruskien taide
+    fr: art étrusque
+    ga: ealaín Éatrúscach
+    he: אמנות אטרוסקית
+    hr: etrurska umjetnost
+    hu: etruszk művészet
+    hy: Էտրուսկյան արվեստ
+    it: arte etrusca
+    ja: エトルスク美術
+    ka: ეტრუსკული ხელოვნება
+    ko: 에트루리아 미술
+    mk: Етрурска уметност
+    nb: etruskisk kunst
+    nl: Etruskische kunst
+    pl: sztuka etruska
+    pt: arte etrusca
+    ro: arta etrusca
+    ru: этрусское искусство
+    sh: etrurska umjetnost
+    sl: etruščanska umetnost
+    sr: етрурска уметност
+    sr-ec: етрурска уметност
+    sr-el: etrurska umetnost
+    sv: etruskisk konst
+    uk: етруське мистецтво
+    zh: 伊特魯里亞藝術
 ---
-
 # [[-1000-Etruscan_Art-0100]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Etruscan_art,830331|WD~Etruscan_art,830331]] 

@@ -1,31 +1,114 @@
 ---
 aliases:
-  - Donnerwetter
-  - electrical storm
-  - lightning storm
-  - Thunderstorm
+- Auratge
+- badai petir
+- bouřka
+- burza
+- bão tố có sấm sét
+- búrka
+- donderstorm
+- Donnerweder
+- Donnerwetter
+- Donnerwieder
+- electrical storm
+- fulmotondro
+- Furtună cu fulgere
+- Gewitter
+- grmljavinska oluja
+- gromówka
+- Hernu
+- lightning storm
+- negaiss
+- nevihta
+- nube llétrica
+- Onkod
+- onweer
+- Oraedje
+- orage
+- oraj
+- Oram-baratra
+- perkūnija
+- Perkūnėjė
+- Ribut petir
+- stoirm toirní
+- storm
+- Sturmo
+- tempesta
+- tempesta elèctrica
+- tempestas
+- Temporal
+- temporale
+- Thunderstorm
+- Thunnerstorm
+- tordenvejr
+- tordenvær
+- torevêr
+- tormenta eléctrica
+- Tronada
+- trovoada
+- trumoi-ekaitz
+- Tuyur
+- ukkonen
+- Unwaar
+- zivatar
+- Äike
+- åskväder
+- Þrumuveður
+- İldırım
+- Καταιγίδα
+- Аслатиллĕ çумăр
+- бура со грмотевици
+- гроза
+- гръмотевична буря
+- Күк күкрәү
+- навальніца
+- Найзағай
+- олуја са грмљавином
+- чилекъяськон
+- ամպրոպ
+- סופת רעמים
+- توفان تندری
+- طوفان برق و باراں
+- عاصفة رعدية
+- ڕەشەبای برووسکاوی
+- झंझावात
+- तड़ितझंझा
+- मेघगर्जनेचे वादळ
+- বজ্রঝড়
+- ਬਿਜਲਈ-ਤੂਫ਼ਾਨ
+- இடியுடன் கூடிய மழை
+- ఉరుములతో కూడిన గాలివాన
+- തണ്ടർസ്റ്റോം
+- พายุฟ้าคะนอง
+- လေမုန်တိုင်း
+- ტყვაცი დო გურგინი
+- ჭექა-ქუხილი
+- 行雷閃電
+- 雷暴
+- 雷雨
+- 뇌우
 has_id_wikidata: Q2857578
-history_of_topic: "[[_Standards/WikiData/WD~water_cycle,81041]]"
+history_of_topic: '[[_Standards/WikiData/WD~water_cycle,81041]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~storm,81054]]"
-  - "[[_Standards/WikiData/WD~weather,11663]]"
-  - "[[_Standards/WikiData/WD~precipitation,25257]]"
-produced_sound: "[[_Standards/WikiData/WD~thunder,83301]]"
+- '[[_Standards/WikiData/WD~storm,81054]]'
+- '[[_Standards/WikiData/WD~weather,11663]]'
+- '[[_Standards/WikiData/WD~precipitation,25257]]'
+produced_sound: '[[_Standards/WikiData/WD~thunder,83301]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~thunder,83301]]"
-  - "[[_Standards/WikiData/WD~rain,7925]]"
-  - "[[_Standards/WikiData/WD~tornado,8081]]"
-  - "[[_Standards/WikiData/WD~wind,8094]]"
-  - "[[_Standards/WikiData/WD~lightning,33741]]"
-  - "[[_Standards/WikiData/WD~hail,37602]]"
+- '[[_Standards/WikiData/WD~thunder,83301]]'
+- '[[_Standards/WikiData/WD~rain,7925]]'
+- '[[_Standards/WikiData/WD~tornado,8081]]'
+- '[[_Standards/WikiData/WD~wind,8094]]'
+- '[[_Standards/WikiData/WD~lightning,33741]]'
+- '[[_Standards/WikiData/WD~hail,37602]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Burza,2664575]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Burza,2664575]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
 OmegaWiki_Defined_Meaning: 4687
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20Pritzerbe%2001%20%28MK%29.jpg
 subject_lexeme: L307191
@@ -43,25 +126,119 @@ Commons_category: Thunderstorms
 Dewey_Decimal_Classification: 551.554
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Thunderstorm,2857578|WD~Thunderstorm,2857578]]"
-    - "[[/_Standards/Earth/Climate/Weather/Thunderstorm|Thunderstorm]]"
-    - "[[/_public/Earth/Climate/Weather/Thunderstorm.public|Thunderstorm.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Thunderstorm.internal|Thunderstorm.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Thunderstorm.protect|Thunderstorm.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Thunderstorm.private|Thunderstorm.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Thunderstorm.personal|Thunderstorm.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Thunderstorm.secret|Thunderstorm.secret]]"
+  - '[[../../../WikiData/WD~Thunderstorm,2857578|WD~Thunderstorm,2857578]]'
+  - '[[/_Standards/Earth/Climate/Weather/Thunderstorm|Thunderstorm]]'
+  - '[[/_public/Earth/Climate/Weather/Thunderstorm.public|Thunderstorm.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Thunderstorm.internal|Thunderstorm.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Thunderstorm.protect|Thunderstorm.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Thunderstorm.private|Thunderstorm.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Thunderstorm.personal|Thunderstorm.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Thunderstorm.secret|Thunderstorm.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Thunderstorm,2857578|WD~Thunderstorm,2857578]]"
-  - "[[/_Standards/Earth/Climate/Weather/Thunderstorm|Thunderstorm]]"
-  - "[[/_public/Earth/Climate/Weather/Thunderstorm.public|Thunderstorm.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Thunderstorm.internal|Thunderstorm.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Thunderstorm.protect|Thunderstorm.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Thunderstorm.private|Thunderstorm.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Thunderstorm.personal|Thunderstorm.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Thunderstorm.secret|Thunderstorm.secret]]"
+- '[[../../../WikiData/WD~Thunderstorm,2857578|WD~Thunderstorm,2857578]]'
+- '[[/_Standards/Earth/Climate/Weather/Thunderstorm|Thunderstorm]]'
+- '[[/_public/Earth/Climate/Weather/Thunderstorm.public|Thunderstorm.public]]'
+- '[[/_internal/Earth/Climate/Weather/Thunderstorm.internal|Thunderstorm.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Thunderstorm.protect|Thunderstorm.protect]]'
+- '[[/_private/Earth/Climate/Weather/Thunderstorm.private|Thunderstorm.private]]'
+- '[[/_personal/Earth/Climate/Weather/Thunderstorm.personal|Thunderstorm.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Thunderstorm.secret|Thunderstorm.secret]]'
+dv_has_:
+  name_:
+    af: donderstorm
+    an: Tronada
+    ar: عاصفة رعدية
+    ast: nube llétrica
+    az: İldırım
+    ba: Күк күкрәү
+    be: навальніца
+    be-tarask: навальніца
+    bg: гръмотевична буря
+    bho: झंझावात
+    bn: বজ্রঝড়
+    ca: tempesta elèctrica
+    ckb: ڕەشەبای برووسکاوی
+    cs: bouřka
+    csb: gromówka
+    cv: Аслатиллĕ çумăр
+    cy: storm
+    da: tordenvejr
+    de: Gewitter
+    el: Καταιγίδα
+    en: thunderstorm
+    en-ca: Thunderstorm
+    en-gb: thunderstorm
+    eo: fulmotondro
+    es: tormenta eléctrica
+    et: Äike
+    eu: trumoi-ekaitz
+    fa: توفان تندری
+    fi: ukkonen
+    fr: orage
+    fy: Unwaar
+    ga: stoirm toirní
+    gl: tormenta eléctrica
+    he: סופת רעמים
+    hi: तड़ितझंझा
+    hr: grmljavinska oluja
+    hu: zivatar
+    hy: ամպրոպ
+    ia: tempesta
+    id: badai petir
+    io: Sturmo
+    is: Þrumuveður
+    it: temporale
+    ja: 雷雨
+    ka: ჭექა-ქუხილი
+    kk: Найзағай
+    ko: 뇌우
+    la: tempestas
+    lb: Donnerwieder
+    lmo: Temporal
+    lt: perkūnija
+    lv: negaiss
+    mg: Oram-baratra
+    mk: бура со грмотевици
+    ml: തണ്ടർസ്റ്റോം
+    mr: मेघगर्जनेचे वादळ
+    ms: Ribut petir
+    my: လေမုန်တိုင်း
+    nb: tordenvær
+    nds: Donnerweder
+    nl: onweer
+    nn: torevêr
+    oc: Auratge
+    pa: ਬਿਜਲਈ-ਤੂਫ਼ਾਨ
+    pcd: Hernu
+    pl: burza
+    pnb: طوفان برق و باراں
+    pt: trovoada
+    pt-br: Trovoada
+    qu: Tuyur
+    ro: Furtună cu fulgere
+    ru: гроза
+    sco: Thunnerstorm
+    sgs: Perkūnėjė
+    sh: Grmljavinska oluja
+    sk: búrka
+    sl: nevihta
+    so: Onkod
+    sr: олуја са грмљавином
+    sv: åskväder
+    ta: இடியுடன் கூடிய மழை
+    te: ఉరుములతో కూడిన గాలివాన
+    th: พายุฟ้าคะนอง
+    tr: oraj
+    udm: чилекъяськон
+    uk: гроза
+    vi: bão tố có sấm sét
+    wa: Oraedje
+    wuu: 雷暴
+    xmf: ტყვაცი დო გურგინი
+    yue: 行雷閃電
+    zh: 雷暴
+    zh-hant: 雷暴
 ---
-
 # [[Thunderstorm]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thunderstorm,2857578|WD~Thunderstorm,2857578]] 

@@ -1,18 +1,130 @@
 ---
 aliases:
-  - Gaussian Elimination
-  - Gaussian_Elimination
+- Eleminimi gausian
+- Eliminación de Gauss
+- eliminación de Gauss-Jordan
+- eliminare gaussiană
+- Eliminasi Gauss
+- eliminação de Gauss
+- Gausa izslēgšanas metode
+- Gausova eliminacija
+- Gauss eliminasyonu
+- Gauss-eliminasjon
+- Gauss-eliminatie
+- Gauss-elimination
+- Gauss-elimináció
+- Gauss-Jordan algoritmo
+- Gaussan metod
+- Gausselimination
+- Gaussian Elimination
+- Gaussian_Elimination
+- Gaussin algoritmi
+- Gaussova eliminacijska metoda
+- Gaussova eliminačná metóda
+- Gaussova eliminační metoda
+- Gauß-eyðing
+- Gaußsches Eliminationsverfahren
+- Gaŭsa eliminado
+- Metod de eliminazion de Gauss
+- metoda eliminacji Gaussa
+- metodo di eliminazione di Gauss
+- Mètode de reducció de Gauss
+- Phép khử Gauss
+- Qauss üsulu
+- S Eliminationsverfahre vom Gauss
+- élimination de Gauss
+- Γκαουσιανή απαλοιφή
+- Гаусс меслечĕ
+- Гаусс ысулы
+- Метад Гауса
+- метод Гауса
+- метод Гаусса
+- метод на Гаус
+- мэтад Гаўса
+- Գաուսի մեթոդ
+- דירוג מטריצות
+- حذف غاوسي
+- حذف گاوسی
+- گاسین اخراج
+- गाउस विलोपन
+- காஸ்சியன் வெளியேற்றம்
+- ගවුසීය බැහැරීම
+- ガウスの消去法
+- 高斯消元法
+- 高斯消去法
+- 가우스 소거법
 has_id_wikidata: Q2658
 different_from:
-  - '[[_Standards/WikiData/WD~Gaussian_quadrature,767680]]'
-  - '[[_Standards/WikiData/WD~Gauss_Jordan_elimination,1195020]]'
-  - '[[_Standards/WikiData/WD~Q4291824,4291824]]'
+- '[[_Standards/WikiData/WD~Gaussian_quadrature,767680]]'
+- '[[_Standards/WikiData/WD~Gauss_Jordan_elimination,1195020]]'
+- '[[_Standards/WikiData/WD~Q4291824,4291824]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of: '[[_Standards/WikiData/WD~method_for_solving_linear_systems,27868110]]'
 named_after: '[[_Standards/WikiData/WD~Carl_Friedrich_Gauss,6722]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A8tode%20de%20Gauss.jpg
+dv_has_:
+  name_:
+    ar: حذف غاوسي
+    az: Qauss üsulu
+    ba: Гаусс ысулы
+    be: Метад Гауса
+    be-tarask: мэтад Гаўса
+    bg: метод на Гаус
+    ca: Mètode de reducció de Gauss
+    cs: Gaussova eliminační metoda
+    cv: Гаусс меслечĕ
+    da: Gauss-elimination
+    de: Gaußsches Eliminationsverfahren
+    de-ch: Gaußsches Eliminationsverfahren
+    el: Γκαουσιανή απαλοιφή
+    en: Gaussian elimination
+    en-ca: Gaussian elimination
+    en-gb: Gaussian elimination
+    eo: Gaŭsa eliminado
+    es: eliminación de Gauss-Jordan
+    eu: Gauss-Jordan algoritmo
+    fa: حذف گاوسی
+    fi: Gaussin algoritmi
+    fr: élimination de Gauss
+    gl: Eliminación de Gauss
+    gsw: S Eliminationsverfahre vom Gauss
+    he: דירוג מטריצות
+    hi: गाउस विलोपन
+    hu: Gauss-elimináció
+    hy: Գաուսի մեթոդ
+    id: Eliminasi Gauss
+    is: Gauß-eyðing
+    it: metodo di eliminazione di Gauss
+    ja: ガウスの消去法
+    ko: 가우스 소거법
+    lmo: Metod de eliminazion de Gauss
+    lv: Gausa izslēgšanas metode
+    min: Eliminasi gauss
+    nb: Gauss-eliminasjon
+    nl: Gauss-eliminatie
+    pl: metoda eliminacji Gaussa
+    pt: eliminação de Gauss
+    pt-br: eliminação de Gauss
+    ro: eliminare gaussiană
+    ru: метод Гаусса
+    sah: Метод гаусса
+    sh: Gaussova eliminacijska metoda
+    si: ගවුසීය බැහැරීම
+    sk: Gaussova eliminačná metóda
+    sl: Gaussova eliminacijska metoda
+    sq: Eleminimi gausian
+    sr: Gausova eliminacija
+    sv: Gausselimination
+    ta: காஸ்சியன் வெளியேற்றம்
+    tr: Gauss eliminasyonu
+    uk: метод Гауса
+    ur: گاسین اخراج
+    vep: Gaussan metod
+    vi: Phép khử Gauss
+    wuu: 高斯消元法
+    yue: 高斯消去法
+    zh: 高斯消去法
 ---
-
 # [[Gaussian_Elimination]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gaussian_elimination,2658|WD~Gaussian_elimination,2658]] 

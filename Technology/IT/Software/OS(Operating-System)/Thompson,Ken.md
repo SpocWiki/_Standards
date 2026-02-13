@@ -4,8 +4,8 @@ aliases:
   - Ken_Thompson
   - Thompson~Ken
   - Thompson,Ken
+has_id_wikidata: Q1107006
 ---
-
 > Kenneth Lane Thompson (born 1943-02-04) 
 > is an American pioneer of computer science. 
 > 

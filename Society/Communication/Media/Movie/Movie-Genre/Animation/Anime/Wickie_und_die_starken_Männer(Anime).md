@@ -1,11 +1,68 @@
 ---
 aliases:
-  - Vicky_the_Viking
-  - Wickie und die starken Männer
-  - Wickie_und_die_starken_Männer(Anime)
-  - Wickie und die starken Männer(Anime)
+- Pak-hái Sió Eng-hiông
+- Vic le Viking
+- Vicke Viking
+- Vickie
+- Vickie el vikingo
+- Vicky bikingoa
+- Vicky o viquingo
+- Vicky the Viking
+- Vicky_the_Viking
+- Viki il vichingo
+- Viki Vikingu
+- Viki, a viking
+- Vikingler
+- Wickie de Viking
+- Wickie und die starken Männer
+- Wickie und die starken Männer(Anime)
+- Wickie, el víking
+- Wickie, syn wikingów
+- Wickie_und_die_starken_Männer(Anime)
+- Έρικ ο Βίκινγκ
+- Вики, маленький викинг
+- Վիկինգ վիկը
+- فيكي الفايكنج
+- ویکی وایکینگ
+- ဗစ်ကီတို့ ဗိုက်ကင်းရွား
+- 北海小英雄
+- 小さなバイキングビッケ
+- 비키 바이킹
+has_id_wikidata: Q713578
+dv_has_:
+  name_:
+    ar: فيكي الفايكنج
+    ast: Wickie und die starken Männer
+    ca: Wickie, el víking
+    de: Wickie und die starken Männer
+    el: Έρικ ο Βίκινγκ
+    en: Vicky the Viking
+    eo: Vicke Viking
+    es: Vickie el vikingo
+    eu: Vicky bikingoa
+    fa: ویکی وایکینگ
+    fr: Vic le Viking
+    gl: Vicky o viquingo
+    hu: Viki, a viking
+    hy: Վիկինգ վիկը
+    it: Viki il vichingo
+    ja: 小さなバイキングビッケ
+    ko: 비키 바이킹
+    my: ဗစ်ကီတို့ ဗိုက်ကင်းရွား
+    nan: Pak-hái Sió Eng-hiông
+    nb: Vicky the Viking
+    nl: Wickie de Viking
+    pl: Wickie, syn wikingów
+    pt: Vickie
+    ru: Вики, маленький викинг
+    sq: Viki Vikingu
+    sv: Vicke Viking
+    tr: Vikingler
+    zh: 北海小英雄
+    zh-hans: 北海小英雄
+    zh-hant: 北海小英雄
+    zh-hk: 北海小英雄
 ---
-
 This was the first [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japan]]ese Production that [[ZDF]] commissioned
 and was followed by . 
 

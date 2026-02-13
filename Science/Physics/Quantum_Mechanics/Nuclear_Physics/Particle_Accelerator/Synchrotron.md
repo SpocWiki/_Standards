@@ -1,27 +1,117 @@
 ---
 aliases:
+- Senkrotron
+- Sinchrotronas
+- sincreatrón
+- Sincrotrone
+- sincrotró
+- Sincrotrón
+- sinhrotron
+- sinkrotroi
+- Sinkrotron
+- sinkrotrono
+- Sinxrotron
+- synchrotron
+- synkrotron
+- synkrotroni
+- szinkrotron
+- síncrotron
+- Sünkrotron
+- Σύγχροτρο
+- Сінхратрон
+- Сінхротрон
+- Синхротрон
+- сынхратрон
+- סינכרוטרון
+- سنکروترون
+- مسرع دوراني تزامني
+- सिंक्रोट्रॉन
+- ஒத்தியங்கு முடுக்கி
+- സിങ്ക്രോട്രോൺ
+- ซินโครตรอน
+- სინქროტრონი
+- シンクロトロン
+- 同步加速器
+- 싱크로트론
 has_id_wikidata: Q689863
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Mark_Oliphant,727443]]"
-  - "[[_Standards/WikiData/WD~Vladimir_Veksler,1151055]]"
-  - "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
-subclass_of: "[[_Standards/WikiData/WD~cyclic_particle_accelerator,1736799]]"
-Nomenclature_for_Museum_Cataloging: "9912"
+- '[[_Standards/WikiData/WD~Mark_Oliphant,727443]]'
+- '[[_Standards/WikiData/WD~Vladimir_Veksler,1151055]]'
+- '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
+subclass_of: '[[_Standards/WikiData/WD~cyclic_particle_accelerator,1736799]]'
+Nomenclature_for_Museum_Cataloging: 9912
 Commons_category: Synchrotrons
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/2Synkrotronkiirgusest.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Synchrotron.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Synchrotron%20schemat.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/2Synkrotronkiirgusest.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Synchrotron.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Synchrotron%20schemat.jpg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aust.-Synchrotron-Interior-Panorama%2C-14.06.2007.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cosmotron%20%28PSF%29.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Synchrotron%20Solaris.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Michigan%20synchrotron.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Aust.-Synchrotron-Interior-Panorama%2C-14.06.2007.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cosmotron%20%28PSF%29.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Synchrotron%20Solaris.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/University%20of%20Michigan%20synchrotron.jpg
 IEV_number: 881-06-29
 UMLS_CUI: C0162738
 MeSH_tree_code: E07.710.680.700
+dv_has_:
+  name_:
+    ar: مسرع دوراني تزامني
+    ast: Sincrotrón
+    be: Сінхратрон
+    be-tarask: сынхратрон
+    bg: Синхротрон
+    ca: sincrotró
+    cs: synchrotron
+    da: synkrotron
+    de: Synchrotron
+    el: Σύγχροτρο
+    en: synchrotron
+    en-ca: Synchrotron
+    en-gb: synchrotron
+    eo: sinkrotrono
+    es: sincrotrón
+    et: Sünkrotron
+    eu: sinkrotroi
+    fa: سنکروترون
+    fi: synkrotroni
+    fr: synchrotron
+    ga: sincreatrón
+    he: סינכרוטרון
+    hi: सिंक्रोट्रॉन
+    hr: Sinkrotron
+    hu: szinkrotron
+    id: Sinkrotron
+    it: Sincrotrone
+    ja: シンクロトロン
+    ka: სინქროტრონი
+    kk: Синхротрон
+    ko: 싱크로트론
+    ky: Синхротрон
+    lt: Sinchrotronas
+    ml: സിങ്ക്രോട്രോൺ
+    nb: synkrotron
+    nl: synchrotron
+    nn: synkrotron
+    pl: Synchrotron
+    pt: síncrotron
+    pt-br: Síncrotron
+    ro: synchrotron
+    ru: Синхротрон
+    rue: Сінхротрон
+    sh: Sinkrotron
+    sl: sinhrotron
+    sr: Sinhrotron
+    ta: ஒத்தியங்கு முடுக்கி
+    th: ซินโครตรอน
+    tr: Senkrotron
+    uk: Синхротрон
+    uz: Sinxrotron
+    yue: 同步加速器
+    zh: 同步加速器
+    zh-hans: 同步加速器
+    zh-hant: 同步加速器
+    zh-hk: 同步加速器
 ---
-
 # [[Synchrotron]] 
 
 #is_/same_as ::  [[../../../../../WikiData/WD~Synchrotron,689863|WD~Synchrotron,689863]] 

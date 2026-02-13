@@ -1,11 +1,178 @@
 ---
 aliases:
-  - Yeoh Choo Kheng
-  - Michelle Yeoh
-  - Michelle Yeoh Choo Kheng
-  - Yeoh,Michelle
+- Dương Tử Quỳnh
+- Michelle Yeoh
+- Michelle Yeoh Choo Kheng
+- Michelle Yeohová
+- Mişel Yeo
+- Mišela Jeo
+- Yangz Swjcingz
+- Yeoh Choo Kheng
+- Yeoh,Michelle
+- Μισέλ Γιο
+- Мішель Єо
+- Мішэль Еа
+- Мишел Јео
+- Мишел Йо
+- Мишель Йео
+- Միշել Եո
+- מישל יאו
+- مشیل یؤ
+- ميشيل يوه
+- میشل یئو
+- میشێل یەو
+- ياڭ زىچيۇڭ
+- मिशेल यो
+- मिशेल योह
+- মিচেল য়হ
+- মিশেল ইয়ো
+- ਮਿਸ਼ੇਲ ਯੋਹ
+- மிசெல் இயோ
+- มิเชล โหย่ว
+- မစ်ရှဲ ယိုး
+- მიშელ იოუ
+- ミシェル・ヨー
+- 杨紫琼
+- 楊紫瓊
+- 양자경
+has_id_wikidata: Q214289
+dv_has_:
+  name_:
+    af: Michelle Yeoh
+    an: Michelle Yeoh
+    ar: ميشيل يوه
+    arz: ميشيل يوه
+    as: মিচেল য়হ
+    ast: Michelle Yeoh
+    az: Mişel Yeo
+    bar: Michelle Yeoh
+    bcl: Michelle Yeoh
+    be: Мішэль Еа
+    bg: Мишел Йо
+    bm: Michelle Yeoh
+    bn: মিশেল ইয়ো
+    br: Michelle Yeoh
+    bs: Michelle Yeoh
+    ca: Michelle Yeoh
+    ckb: میشێل یەو
+    co: Michelle Yeoh
+    cs: Michelle Yeohová
+    cy: Michelle Yeoh
+    da: Michelle Yeoh
+    de: Michelle Yeoh
+    de-at: Michelle Yeoh
+    de-ch: Michelle Yeoh
+    dtp: Michelle Yeoh
+    el: Μισέλ Γιο
+    en: Michelle Yeoh
+    en-ca: Michelle Yeoh
+    en-gb: Michelle Yeoh
+    eo: Michelle Yeoh
+    es: Michelle Yeoh
+    et: Michelle Yeoh
+    eu: Michelle Yeoh
+    fa: میشل یئو
+    fi: Michelle Yeoh
+    fr: Michelle Yeoh
+    frc: Michelle Yeoh
+    frp: Michelle Yeoh
+    fur: Michelle Yeoh
+    fy: Michelle Yeoh
+    ga: Michelle Yeoh
+    gd: Michelle Yeoh
+    gl: Michelle Yeoh
+    gsw: Michelle Yeoh
+    he: מישל יאו
+    hi: मिशेल योह
+    hr: Michelle Yeoh
+    hu: Michelle Yeoh
+    hy: Միշել Եո
+    ia: Michelle Yeoh
+    id: Michelle Yeoh
+    ie: Michelle Yeoh
+    ig: Michelle Yeoh
+    io: Michelle Yeoh
+    it: Michelle Yeoh
+    ja: ミシェル・ヨー
+    jam: Michelle Yeoh
+    jv: Michelle Yeoh Choo Kheng
+    ka: მიშელ იოუ
+    kab: Michelle Yeoh
+    kg: Michelle Yeoh
+    ko: 양자경
+    kw: Michelle Yeoh
+    lb: Michelle Yeoh
+    li: Michelle Yeoh
+    lij: Michelle Yeoh
+    lt: Michelle Yeoh
+    lv: Mišela Jeo
+    mg: Michelle Yeoh
+    mi: Michelle Yeoh
+    min: Michelle Yeoh
+    mr: मिशेल यो
+    ms: Michelle Yeoh
+    mul: Michelle Yeoh
+    my: မစ်ရှဲ ယိုး
+    nap: Michelle Yeoh
+    nb: Michelle Yeoh
+    nds: Michelle Yeoh
+    nds-nl: Michelle Yeoh
+    nl: Michelle Yeoh
+    nn: Michelle Yeoh
+    nrm: Michelle Yeoh
+    oc: Michelle Yeoh
+    pa: ਮਿਸ਼ੇਲ ਯੋਹ
+    pap: Michelle Yeoh
+    pcd: Michelle Yeoh
+    pl: Michelle Yeoh
+    pms: Michelle Yeoh
+    pnb: مشیل یؤ
+    prg: Michelle Yeoh
+    pt: Michelle Yeoh
+    pt-br: Michelle Yeoh
+    rgn: Michelle Yeoh
+    rm: Michelle Yeoh
+    ro: Michelle Yeoh
+    ru: Мишель Йео
+    sc: Michelle Yeoh
+    scn: Michelle Yeoh
+    sco: Michelle Yeoh
+    sh: Michelle Yeoh
+    sk: Michelle Yeoh
+    sl: Michelle Yeoh
+    sq: Michelle Yeoh
+    sr: Мишел Јео
+    sr-el: Michelle Yeoh
+    sv: Michelle Yeoh
+    sw: Michelle Yeoh
+    ta: மிசெல் இயோ
+    th: มิเชล โหย่ว
+    tl: Michelle Yeoh
+    tr: Michelle Yeoh
+    ug: ياڭ زىچيۇڭ
+    ug-arab: ياڭ زىچيۇڭ
+    uk: Мішель Єо
+    ur: مشیل یؤ
+    uz: Michelle Yeoh
+    vec: Michelle Yeoh
+    vi: Dương Tử Quỳnh
+    vls: Michelle Yeoh
+    vmf: Michelle Yeoh
+    vo: Michelle Yeoh
+    wa: Michelle Yeoh
+    wo: Michelle Yeoh
+    wuu: 杨紫琼
+    yue: 楊紫瓊
+    za: Yangz Swjcingz
+    zh: 杨紫琼
+    zh-cn: 杨紫琼
+    zh-hans: 杨紫琼
+    zh-hant: 楊紫瓊
+    zh-hk: 楊紫瓊
+    zh-sg: 杨紫琼
+    zh-tw: 楊紫瓊
+    zu: Michelle Yeoh
 ---
-
 # [[Yeoh,Michelle]] 
 
 

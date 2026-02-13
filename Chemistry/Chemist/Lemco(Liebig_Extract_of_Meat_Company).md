@@ -1,23 +1,39 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company)|Lemco(Liebig_Extract_of_Meat_Company)]]"
-    - "[[/_public/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).public|Lemco(Liebig_Extract_of_Meat_Company).public]]"
-    - "[[/_internal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).internal|Lemco(Liebig_Extract_of_Meat_Company).internal]]"
-    - "[[/_protect/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).protect|Lemco(Liebig_Extract_of_Meat_Company).protect]]"
-    - "[[/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private|Lemco(Liebig_Extract_of_Meat_Company).private]]"
-    - "[[/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal|Lemco(Liebig_Extract_of_Meat_Company).personal]]"
-    - "[[/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret|Lemco(Liebig_Extract_of_Meat_Company).secret]]"
+  - '[[/_Standards/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company)|Lemco(Liebig_Extract_of_Meat_Company)]]'
+  - '[[/_public/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).public|Lemco(Liebig_Extract_of_Meat_Company).public]]'
+  - '[[/_internal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).internal|Lemco(Liebig_Extract_of_Meat_Company).internal]]'
+  - '[[/_protect/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).protect|Lemco(Liebig_Extract_of_Meat_Company).protect]]'
+  - '[[/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private|Lemco(Liebig_Extract_of_Meat_Company).private]]'
+  - '[[/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal|Lemco(Liebig_Extract_of_Meat_Company).personal]]'
+  - '[[/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret|Lemco(Liebig_Extract_of_Meat_Company).secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company)|Lemco(Liebig_Extract_of_Meat_Company)]]"
-  - "[[/_public/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).public|Lemco(Liebig_Extract_of_Meat_Company).public]]"
-  - "[[/_internal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).internal|Lemco(Liebig_Extract_of_Meat_Company).internal]]"
-  - "[[/_protect/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).protect|Lemco(Liebig_Extract_of_Meat_Company).protect]]"
-  - "[[/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private|Lemco(Liebig_Extract_of_Meat_Company).private]]"
-  - "[[/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal|Lemco(Liebig_Extract_of_Meat_Company).personal]]"
-  - "[[/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret|Lemco(Liebig_Extract_of_Meat_Company).secret]]"
+- '[[/_Standards/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company)|Lemco(Liebig_Extract_of_Meat_Company)]]'
+- '[[/_public/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).public|Lemco(Liebig_Extract_of_Meat_Company).public]]'
+- '[[/_internal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).internal|Lemco(Liebig_Extract_of_Meat_Company).internal]]'
+- '[[/_protect/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).protect|Lemco(Liebig_Extract_of_Meat_Company).protect]]'
+- '[[/_private/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).private|Lemco(Liebig_Extract_of_Meat_Company).private]]'
+- '[[/_personal/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).personal|Lemco(Liebig_Extract_of_Meat_Company).personal]]'
+- '[[/_secret/Chemistry/Chemist/Lemco(Liebig_Extract_of_Meat_Company).secret|Lemco(Liebig_Extract_of_Meat_Company).secret]]'
+has_id_wikidata: Q700517
+dv_has_:
+  name_:
+    de: Liebig’s Extract of Meat Company
+    en: Liebig's Extract of Meat Company
+    es: Liebig Extract of Meat Company
+    fr: Liebig's Extract of Meat Company
+    he: חברת ליביג למיצוי בשר
+    hy: Լիբիգի մսի էքստրակտի ընկերություն
+    ja: リービッヒ肉エキス会社
+aliases:
+- Liebig Extract of Meat Company
+- Liebig's Extract of Meat Company
+- Liebig’s Extract of Meat Company
+- Լիբիգի մսի էքստրակտի ընկերություն
+- חברת ליביג למיצוי בשר
+- リービッヒ肉エキス会社
 ---
-
 ## #has_/text_of_/abstract 
 
 > Liebig's Extract of Meat Company, established in the United Kingdom, 

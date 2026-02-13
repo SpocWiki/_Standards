@@ -1,9 +1,97 @@
 ---
 aliases:
-  - Cassieae
+- Brezylkowe
+- Caesalpinioideae
+- Cassieae
+- Cesalpiniòidia
+- Johannisbrotgewächse
+- Johannisbruadplaanten
+- lepényfaformák
+- Phân họ Vang
+- Rohowcowe rostliny
+- Tara yura urin rikch'aq ayllu
+- варзила
+- цезалпиниеви
+- цезальпінієві
+- цезальпиниевые
+- цэзальпініевыя
+- קסאלפיניים
+- ارغوانیان
+- بقماوات
+- วงศ์ย่อยราชพฤกษ์
+- ცეზალპინიისებრნი
+- ジャケツイバラ亜科
+- 苏木亚科
+- 蘇木亞科
+- 실거리나무아과
 title: Cassieae sensu lato (pro parte)
+has_id_wikidata: Q157156
+dv_has_:
+  name_:
+    af: Caesalpinioideae
+    an: Caesalpinioideae
+    ar: بقماوات
+    arz: بقماوات
+    ast: Caesalpinioideae
+    be: цэзальпініевыя
+    bg: цезалпиниеви
+    ca: Cesalpiniòidia
+    ceb: Caesalpinioideae
+    cs: Caesalpinioideae
+    de: Johannisbrotgewächse
+    en: Caesalpinioideae
+    eo: Caesalpinioideae
+    es: Caesalpinioideae
+    eu: Caesalpinioideae
+    ext: Caesalpinioideae
+    fa: ارغوانیان
+    fi: Caesalpinioideae
+    fr: Caesalpinioideae
+    frr: Johannisbruadplaanten
+    ga: Caesalpinioideae
+    gl: Caesalpinioideae
+    he: קסאלפיניים
+    hr: Caesalpinioideae
+    hsb: Rohowcowe rostliny
+    hu: lepényfaformák
+    ia: Caesalpinioideae
+    id: Caesalpinioideae
+    ie: Caesalpinioideae
+    io: Caesalpinioideae
+    it: Caesalpinioideae
+    ja: ジャケツイバラ亜科
+    ka: ცეზალპინიისებრნი
+    ko: 실거리나무아과
+    la: Caesalpinioideae
+    lt: Caesalpinioideae
+    mk: варзила
+    mul: Caesalpinioideae
+    nb: Caesalpinioideae
+    nl: Caesalpinioideae
+    nn: Caesalpinioideae
+    oc: Caesalpinioideae
+    pl: Brezylkowe
+    pt: Caesalpinioideae
+    pt-br: Caesalpinioideae
+    qu: Tara yura urin rikch'aq ayllu
+    ro: Caesalpinioideae
+    ru: цезальпиниевые
+    sl: Caesalpinioideae
+    sq: Caesalpinioideae
+    sv: Caesalpinioideae
+    th: วงศ์ย่อยราชพฤกษ์
+    uk: цезальпінієві
+    vi: Phân họ Vang
+    vo: Caesalpinioideae
+    war: Caesalpinioideae
+    zh: 蘇木亞科
+    zh-cn: 苏木亚科
+    zh-hans: 苏木亚科
+    zh-hant: 蘇木亞科
+    zh-hk: 蘇木亞科
+    zh-sg: 苏木亚科
+    zh-tw: 蘇木亞科
 ---
-
 # [[Cassieae]] sensu lato (pro parte) 
 
 ![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg) 

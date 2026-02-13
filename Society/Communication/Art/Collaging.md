@@ -1,26 +1,163 @@
 ---
-aliases: 
+aliases:
+- colagem
+- Colaj
+- Colax
+- colaxe
+- collage
+- collagekunst
+- collaging
+- colláis
+- cắt dán
+- Glutinamentum
+- kesyap
+- Klippimynd
+- Kolaj
+- kolajlama
+- Kolase
+- kolaĝo
+- kolaż
+- kolaž
+- koliažas
+- kollaasi
+- kollaaž
+- Kollaj
+- kollázs
+- koláž
+- kolāža
+- pegadenn
+- Κολάζ
+- калаж
+- каляж
+- колаж
+- коллаж
+- կոլաժ
+- קולאז'
+- تلصيق
+- كوللاج
+- چسبانهکاری
+- کۆلاژ
+- কলাজ
+- ਕੋਲਾਜ
+- కోల్లెజ్
+- ಅಂಟು ಚಿತ್ರಣ ಕಲೆ
+- കൊളാഷ്
+- ศิลปะภาพตัดปะ
+- კოლაჟი
+- コラージュ
+- 拼貼
+- 拼贴画
+- 珂拉琪
+- 콜라주
 has_id_wikidata: Q170593
-movement: "[[_Standards/WikiData/WD~appropriation,123305]]"
-different_from: "[[_Standards/WikiData/WD~college,189004]]"
-opposite_of: "[[_Standards/WikiData/WD~décollage,1270454]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Photo_montage,6396733]]"
-instance_of: "[[_Standards/WikiData/WD~artistic_technique,11177771]]"
-practiced_by: "[[_Standards/WikiData/WD~collagist,22343478]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~collage,22669857]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+movement: '[[_Standards/WikiData/WD~appropriation,123305]]'
+different_from: '[[_Standards/WikiData/WD~college,189004]]'
+opposite_of: '[[_Standards/WikiData/WD~décollage,1270454]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Photo_montage,6396733]]'
+instance_of: '[[_Standards/WikiData/WD~artistic_technique,11177771]]'
+practiced_by: '[[_Standards/WikiData/WD~collagist,22343478]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~collage,22669857]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Wikidata_property: montage image
-used_by: "[[_Standards/WikiData/WD~Dada,6034]]"
-subclass_of: "[[_Standards/WikiData/WD~visual_arts,36649]]"
+used_by: '[[_Standards/WikiData/WD~Dada,6034]]'
+subclass_of: '[[_Standards/WikiData/WD~visual_arts,36649]]'
 Commons_gallery: Collage
 image: http://commons.wikimedia.org/wiki/Special:FilePath/QUINTO%20STATO%20115X90.jpg
-P8189: "987007284186405171"
+P8189: 987007284186405171
 Commons_category: Collages
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KOLLAZH.html
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Collage.ogg
+dv_has_:
+  name_:
+    af: Collage
+    ar: تلصيق
+    as: কলাজ
+    ast: Colax
+    az: kolajlama
+    be: калаж
+    be-tarask: каляж
+    bg: Колаж
+    br: pegadenn
+    bs: Kolaž
+    ca: collage
+    cs: koláž
+    da: Collage
+    de: Collage
+    el: Κολάζ
+    en: collaging
+    eo: kolaĝo
+    es: collage
+    et: kollaaž
+    eu: collage
+    fa: چسبانهکاری
+    fi: kollaasi
+    fr: collage
+    ga: colláis
+    gl: colaxe
+    gsw: Collage
+    he: קולאז'
+    hr: kolaž
+    hu: kollázs
+    hy: կոլաժ
+    id: Kolase
+    is: Klippimynd
+    it: collage
+    ja: コラージュ
+    ka: კოლაჟი
+    kaa: kollaj
+    kk: Коллаж
+    kk-arab: كوللاج
+    kk-cn: كوللاج
+    kk-cyrl: Коллаж
+    kk-kz: Коллаж
+    kk-latn: Kollaj
+    kk-tr: Kollaj
+    kn: ಅಂಟು ಚಿತ್ರಣ ಕಲೆ
+    ko: 콜라주
+    ku: Kolaj
+    ku-arab: کۆلاژ
+    ku-latn: Kolaj
+    ky: Коллаж
+    la: Glutinamentum
+    lb: Collage
+    lt: koliažas
+    lv: kolāža
+    mk: колаж
+    ml: കൊളാഷ്
+    ms: Kolaj
+    nb: collage
+    nl: collagekunst
+    nn: Collage
+    pa: ਕੋਲਾਜ
+    pl: kolaż
+    pt: colagem
+    ro: Colaj
+    ru: коллаж
+    scn: collage
+    sh: Kolaž
+    si: Collage
+    sl: kolaž
+    sr: колаж
+    sr-ec: колаж
+    sr-el: kolaž
+    sv: collage
+    te: కోల్లెజ్
+    th: ศิลปะภาพตัดปะ
+    tr: kesyap
+    uk: колаж
+    uz: Kollaj
+    vi: cắt dán
+    wuu: 拼贴画
+    yue: 拼貼
+    zh: 珂拉琪
+    zh-cn: 珂拉琪
+    zh-hans: 珂拉琪
+    zh-hant: 珂拉琪
+    zh-hk: 珂拉琪
+    zh-sg: 珂拉琪
+    zh-tw: 珂拉琪
 ---
-
 # [[Collaging]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Collaging,170593|WD~Collaging,170593]] 

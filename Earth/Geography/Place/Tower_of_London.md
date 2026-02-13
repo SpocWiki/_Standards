@@ -1,28 +1,92 @@
 ---
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~Tower_of_London,62378]]"
-    - "[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]"
-    - "[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]"
-    - "[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]]"
-    - "[[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]]"
-    - "[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]"
+  - '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
+  - '[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]'
+  - '[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]'
+  - '[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]]'
+  - '[[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]]'
+  - '[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Tower_of_London,62378]]"
-  - "[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]"
-  - "[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]"
-  - "[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]]"
-  - "[[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]]"
-  - "[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]"
-
-has_time_started: 1066-01-01 
+- '[[_Standards/WikiData/WD~Tower_of_London,62378]]'
+- '[[/_Standards/Earth/Geography/Place/Tower_of_London|Tower_of_London]]'
+- '[[/_public/Earth/Geography/Place/Tower_of_London.public|Tower_of_London.public]]'
+- '[[/_internal/Earth/Geography/Place/Tower_of_London.internal|Tower_of_London.internal]]'
+- '[[/_protect/Earth/Geography/Place/Tower_of_London.protect|Tower_of_London.protect]]'
+- '[[/_private/Earth/Geography/Place/Tower_of_London.private|Tower_of_London.private]]'
+- '[[/_personal/Earth/Geography/Place/Tower_of_London.personal|Tower_of_London.personal]]'
+- '[[/_secret/Earth/Geography/Place/Tower_of_London.secret|Tower_of_London.secret]]'
+has_time_started: 1066-01-01
 aliases:
-  - Tower of London
-  - Tower_of_London
+- Londense Tower
+- London minorasi
+- London qalası
+- London rasek
+- Londoni Tower
+- Londono Taueris
+- Londonski Tower
+- Londra Kalesi
+- Londresko dorrea
+- Lontoon Tower
+- Lundenturr
+- Lundúnaturn
+- Menara London
+- Tauers
+- Tháp Luân Đôn
+- Toer fan Londen
+- Tor de Londres
+- Tore de London
+- Tore han London
+- Tore ng Londres
+- Torre de Londres
+- Torre di Londra
+- Torri ta' Londra
+- Touer o Lunnon
+- tour de Londres
+- Tower
+- Tower of London
+- Tower vu London
+- Towern
+- Tower_of_London
+- Turmo di London
+- Turnul Londrei
+- Turo de Londono
+- Turre de London
+- Turris Londinii
+- Túr Londan
+- Tŵr Llundain
+- Πύργος του Λονδίνου
+- Лондон тауер
+- Лондонска кула
+- Таўэр
+- Тауер
+- Тауър
+- Тауэр
+- Լոնդոնի թաուեր
+- טורעם פון לאנדאן
+- מצודת לונדון
+- برج لندن
+- تاوەری لەندەن
+- د لندن برج
+- ٹاور آف لندن
+- टावर ऑफ़ लंदन
+- टॉवर ऑफ लंडन
+- लंदन टावर
+- টাওয়ার অব লন্ডন
+- ટાવર ઓફ લંડન
+- இலண்டன் கோபுரம்
+- లండన్ టవర్
+- ಲಂಡನ್ ಗೋಪುರ
+- ലണ്ടൻ ടവർ
+- หอคอยแห่งลอนดอน
+- လန်ဒန်ရဲတိုက်ကြီး
+- ლონდონის ტაუერი
+- ロンドン塔
+- 伦敦塔
+- 倫敦塔
+- 런던탑
 has_id_wikidata: Q62378
 Wolfram_Language_entity_code: Entity["Castle", "TowerOfLondon"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TAUER.html
@@ -31,56 +95,56 @@ X_Twitter_username: TowerOfLondon
 OS_grid_reference: TQ3358580570
 street_address: Tower Hill, London EC3N 4AB
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~moat,88480]]"
-  - "[[_Standards/WikiData/WD~inner_bailey,381634]]"
-  - "[[_Standards/WikiData/WD~outer_bailey,1401281]]"
-architectural_style: "[[_Standards/WikiData/WD~Norman_architecture,136693]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~London_Borough_of_Tower_Hamlets,208152]]"
+- '[[_Standards/WikiData/WD~moat,88480]]'
+- '[[_Standards/WikiData/WD~inner_bailey,381634]]'
+- '[[_Standards/WikiData/WD~outer_bailey,1401281]]'
+architectural_style: '[[_Standards/WikiData/WD~Norman_architecture,136693]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~London_Borough_of_Tower_Hamlets,208152]]'
 heritage_designation:
-  - "[[_Standards/WikiData/WD~scheduled_monument,219538]]"
-  - "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+- '[[_Standards/WikiData/WD~scheduled_monument,219538]]'
+- '[[_Standards/WikiData/WD~World_Heritage_Site,9259]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~archaeological_site,839954]]"
-  - "[[_Standards/WikiData/WD~independent_museum,115154402]]"
-  - "[[_Standards/WikiData/WD~castle,23413]]"
-  - "[[_Standards/WikiData/WD~museum,33506]]"
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~independent_museum,115154402]]'
+- '[[_Standards/WikiData/WD~castle,23413]]'
+- '[[_Standards/WikiData/WD~museum,33506]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sketchfab,7534755]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]"
-  - "[[_Standards/WikiData/WD~CastlesFortsBattles,113626792]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sketchfab,7534755]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~CastlesFortsBattles,113626792]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~Caen_stone,1421807]]"
-  - "[[_Standards/WikiData/WD~mudstone,6642424]]"
-  - "[[_Standards/WikiData/WD~rag_stone,7282754]]"
-  - "[[_Standards/WikiData/WD~Reigate_stone,63385305]]"
-has_part_s_: "[[_Standards/WikiData/WD~White_Tower,1528473]]"
-has_facility: "[[_Standards/WikiData/WD~accessible_toilet,2775009]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q9914330,9914330]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q14920101,14920101]]"
+- '[[_Standards/WikiData/WD~Caen_stone,1421807]]'
+- '[[_Standards/WikiData/WD~mudstone,6642424]]'
+- '[[_Standards/WikiData/WD~rag_stone,7282754]]'
+- '[[_Standards/WikiData/WD~Reigate_stone,63385305]]'
+has_part_s_: '[[_Standards/WikiData/WD~White_Tower,1528473]]'
+has_facility: '[[_Standards/WikiData/WD~accessible_toilet,2775009]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q9914330,9914330]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q14920101,14920101]]'
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(iv),23038978]]"
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32649077,32649077]]"
+- '[[_Standards/WikiData/WD~(iv),23038978]]'
+- '[[_Standards/WikiData/WD~(ii),23038976]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32649077,32649077]]'
 inception: 1066-01-01T00:00:00Z
-historic_county: "[[_Standards/WikiData/WD~Middlesex,19186]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~River_Thames,19686]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-founded_by: "[[_Standards/WikiData/WD~William_the_Conqueror,37594]]"
-commissioned_by: "[[_Standards/WikiData/WD~William_the_Conqueror,37594]]"
-owned_by: "[[_Standards/WikiData/WD~Charles_III,43274]]"
-ARCHON_code: "2919"
+historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~River_Thames,19686]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+founded_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594]]'
+commissioned_by: '[[_Standards/WikiData/WD~William_the_Conqueror,37594]]'
+owned_by: '[[_Standards/WikiData/WD~Charles_III,43274]]'
+ARCHON_code: 2919
 social_media_followers: 95826
 National_Heritage_List_for_England_number:
-  - "1002061"
-  - "1000092"
+- 1002061
+- 1000092
 Commons_category: Tower of London
 Commons_Institution_page: Tower of London
 Commons_gallery: Tower of London
@@ -94,10 +158,102 @@ panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Panoramic%20v
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/PLAN%20OF%20THE%20TOWER%20OF%20LONDON.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tower%20of%20London%20viewed%20from%20the%20River%20Thames.jpg
 official_website: https://www.hrp.org.uk/tower-of-london/
-ISNI: "0000000404923259"
-P1015: "90166256"
+ISNI: 0000000404923259
+P1015: 90166256
+dv_has_:
+  name_:
+    af: Londense Tower
+    ang: Lundenturr
+    ar: برج لندن
+    avk: London rasek
+    az: London qalası
+    ban: Menara London
+    be: Таўэр
+    be-tarask: Таўэр
+    bg: Тауър
+    bho: लंदन टावर
+    bn: টাওয়ার অব লন্ডন
+    bs: Tower of London
+    ca: Torre de Londres
+    ceb: Tower of London
+    ckb: تاوەری لەندەن
+    cs: Tower
+    cy: Tŵr Llundain
+    da: Tower of London
+    de: Tower of London
+    el: Πύργος του Λονδίνου
+    en: Tower of London
+    eo: Turo de Londono
+    es: Torre de Londres
+    et: Tower
+    eu: Londresko dorrea
+    fa: برج لندن
+    fi: Lontoon Tower
+    fr: tour de Londres
+    fy: Toer fan Londen
+    ga: Túr Londan
+    gl: Torre de Londres
+    gu: ટાવર ઓફ લંડન
+    he: מצודת לונדון
+    hi: टावर ऑफ़ लंदन
+    hr: Londonski Tower
+    hu: Londoni Tower
+    hy: Լոնդոնի թաուեր
+    ia: Turre de London
+    id: Menara London
+    io: Turmo di London
+    is: Lundúnaturn
+    it: Torre di Londra
+    ja: ロンドン塔
+    jv: Menara London
+    ka: ლონდონის ტაუერი
+    kn: ಲಂಡನ್ ಗೋಪುರ
+    ko: 런던탑
+    la: Turris Londinii
+    lb: Tower vu London
+    lfn: Tore de London
+    lt: Londono Taueris
+    lv: Tauers
+    mk: Лондонска кула
+    ml: ലണ്ടൻ ടവർ
+    mr: टॉवर ऑफ लंडन
+    ms: Menara London
+    mt: Torri ta' Londra
+    my: လန်ဒန်ရဲတိုက်ကြီး
+    nb: Tower of London
+    nl: Tower of London
+    nn: Tower of London
+    oc: Tor de Londres
+    pl: Tower of London
+    pnb: ٹاور آف لندن
+    ps: د لندن برج
+    pt: Torre de Londres
+    ro: Turnul Londrei
+    ru: Тауэр
+    scn: Tower of London
+    sco: Touer o Lunnon
+    sh: Londonski Tower
+    sk: Tower of London
+    sl: Tower of London
+    sr: Лондон тауер
+    sv: Towern
+    ta: இலண்டன் கோபுரம்
+    te: లండన్ టవర్
+    th: หอคอยแห่งลอนดอน
+    tl: Tore ng Londres
+    tr: Londra Kalesi
+    uk: Тауер
+    ur: ٹاور آف لندن
+    uz: London minorasi
+    vi: Tháp Luân Đôn
+    war: Tore han London
+    wuu: 伦敦塔
+    yi: טורעם פון לאנדאן
+    yue: 倫敦塔
+    zh: 倫敦塔
+    zh-hk: 倫敦塔
+    zh-tw: 倫敦塔
 ---
-
 # [[Tower_of_London]] 
 
 ![[../../../assets/Tower_of_London.png]]  

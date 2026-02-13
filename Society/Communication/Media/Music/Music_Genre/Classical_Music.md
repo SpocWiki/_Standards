@@ -1,29 +1,150 @@
 ---
-has_time_started: 0500-01-01 
+has_time_started: 0500-01-01
 aliases:
-  - Classical music
-  - Klassische Musik
-  - Western classical music
-  - Classical_Music
-  - Classical Music
+- ceol clasaiceach
+- cerddoriaeth glasurol
+- ceòl clasaigeach
+- classical muisic
+- Classical music
+- Classical_Music
+- ilow klassek a'n West
+- kiaull chlassicagh
+- klasická hudba
+- klasik müzik
+- klasika muziko
+- klasikal myuuzik
+- klasikal nga musika
+- klasikinė muzika
+- klasiku musika
+- klasisk musiik
+- klasiskā mūzika
+- klasična glasba
+- klasična glazba
+- klasična muzika
+- klassesch Musek
+- klassieke musiek
+- klassieke muziek
+- klassihkalaš musihkka
+- Klassik musiqa
+- klassik musiqi
+- Klassik ğarb muzıkası
+- klassikaline muusika
+- klassikalinõ muusiga
+- klassike musik
+- klassike muzyk
+- klassische Musi
+- Klassische Musik
+- klassischi Musig
+- klassisk musik
+- klassisk musikk
+- klassiskur tónleikur
+- klassísk tónlist
+- klasėkėnė mozėka
+- komolyzene
+- lanmizik klasik
+- länsimainen taidemusiikki
+- mizik klasik
+- Mozika klasika tandrefana
+- musica clasica
+- musica classic
+- musica classica
+- musiche classiche
+- Musik klasik
+- musika klasiko
+- musikang klasiko
+- musique classique
+- muzică clasică
+- muzik klasikal
+- muzika klasike
+- muzike classike
+- muziki wa klasiki
+- muziko klasik
+- muzyka klasyczna
+- muzîka klasîk
+- mużika klassika
+- Mùsica clàssica
+- música clàssica
+- música clásica
+- música clássica
+- música crássica
+- nhạc cổ điển
+- puoro ōkawa
+- pupoty hekoporãitéva
+- se-iûⁿ kó͘-tián im-ga̍k
+- sonerezh klasel
+- Tɩlɩyɛ alɩwaatʊ taa mʊsɩ
+- Western classical music
+- κλασική μουσική
+- класічна музика
+- класічная музыка
+- класическа музика
+- класична музика
+- классик музыка
+- Классикăлла мусăк
+- классикалык музыка
+- классикалық музыка
+- классикан музыка
+- классикон музыкæ
+- классическая музыка
+- классической крезьгур
+- классическэ суммь
+- клясычная музыка
+- мусиқии килоссик
+- Һунгадаг хүгжэм
+- դասական երաժշտութիւն
+- դասական երաժշտություն
+- מוזיקה קלאסית
+- קלאסישע מוזיק
+- مزيكا كلاسيك
+- مغربی موسیقی
+- موسيقى كلاسيكية
+- موسیقی کلاسیک
+- مۆسیقای کلاسیک
+- پخوانۍ موسيقي
+- کلاسیک موسیقی
+- کلاسیکی موسیقی
+- ڪلاسيڪي راڳ
+- गानं
+- पाश्चात्य शास्त्रीय संगीत
+- भारतीय शास्त्रीय संगीत
+- युरोपेली शास्त्रीय संगीत
+- शास्त्रीय संगीत
+- পশ্চিমীয়া ধ্ৰুপদী সংগীত
+- পাশ্চাত্য ধ্রুপদী সঙ্গীত
+- ਪੱਛਮੀ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ
+- શાસ્ત્રીય સંગીત
+- மேல்நாட்டுச் செந்நெறி இசை
+- యూరోపియన్ శాస్త్రీయ సంగీతం
+- ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+- പാശ്ചാത്യസംഗീതം
+- ดนตรีคลาสสิก
+- གནའ་གཞུང་རོལ་དབྱངས།
+- ဂန္ထဝင်ဂီတ
+- კლასიკური მუსიკა
+- クラシック音楽
+- 古典樂
+- 古典音乐
+- 古典音樂
+- 洋樂
+- 서양 고전 음악
 has_id_wikidata: Q9730
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Indian_classical_music,1323698]]'
-  - '[[_Standards/WikiData/WD~art_music,1583807]]'
-  - '[[_Standards/WikiData/WD~Classical_period,17723]]'
+- '[[_Standards/WikiData/WD~Indian_classical_music,1323698]]'
+- '[[_Standards/WikiData/WD~art_music,1583807]]'
+- '[[_Standards/WikiData/WD~Classical_period,17723]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~art_music,1583807]]'
-  - '[[_Standards/WikiData/WD~serious_music,10666381]]'
+- '[[_Standards/WikiData/WD~art_music,1583807]]'
+- '[[_Standards/WikiData/WD~serious_music,10666381]]'
 subclass_of: '[[_Standards/WikiData/WD~art_music,1583807]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Classical_music,8921101]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Classical_music,17600120]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~classical_composer,21680663]]'
-  - '[[_Standards/WikiData/WD~classical_musician,81729632]]'
+- '[[_Standards/WikiData/WD~classical_composer,21680663]]'
+- '[[_Standards/WikiData/WD~classical_musician,81729632]]'
 subreddit:
-  - classical_circlejerk
-  - classicalmusic
+- classical_circlejerk
+- classicalmusic
 described_by_source: '[[_Standards/WikiData/WD~DDEX_AVS_Data_Dictionary_Version_1,106615149]]'
 inception: 0500-01-01T00:00:00Z
 indigenous_to: '[[_Standards/WikiData/WD~Europe,46]]'
@@ -41,8 +162,166 @@ equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_ClassicalMusic
 Archive_of_Our_Own_tag: Classical Music RPF
 IPTC_NewsCode: mediatopic/20000022
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Magic%20Flute%20Overture.ogg
+dv_has_:
+  name_:
+    af: klassieke musiek
+    an: musica clasica
+    anp: पाश्चात्य शास्त्रीय संगीत
+    ar: موسيقى كلاسيكية
+    arz: مزيكا كلاسيك
+    as: পশ্চিমীয়া ধ্ৰুপদী সংগীত
+    ast: música clásica
+    az: klassik musiqi
+    azb: کلاسیک موسیقی
+    ba: классик музыка
+    bar: klassische Musi
+    be: класічная музыка
+    be-tarask: клясычная музыка
+    bg: класическа музика
+    bn: পাশ্চাত্য ধ্রুপদী সঙ্গীত
+    bo: གནའ་གཞུང་རོལ་དབྱངས།
+    br: sonerezh klasel
+    bs: klasična muzika
+    bxr: Һунгадаг хүгжэм
+    ca: música clàssica
+    ce: классикан музыка
+    ceb: klasikal nga musika
+    ckb: مۆسیقای کلاسیک
+    co: musica classica
+    crh: Klassik ğarb muzıkası
+    cs: klasická hudba
+    cv: Классикăлла мусăк
+    cy: cerddoriaeth glasurol
+    da: klassisk musik
+    de: klassische Musik
+    diq: muziko klasik
+    el: κλασική μουσική
+    en: classical music
+    en-ca: classical music
+    en-gb: classical music
+    en-us: western classical music
+    eo: klasika muziko
+    es: música clásica
+    et: klassikaline muusika
+    eu: musika klasiko
+    ext: música crássica
+    fa: موسیقی کلاسیک
+    fi: länsimainen taidemusiikki
+    fo: klassiskur tónleikur
+    fr: musique classique
+    frr: klasisk musiik
+    fur: musiche classiche
+    fy: klassike muzyk
+    ga: ceol clasaiceach
+    gan: 古典音樂
+    gcr: lanmizik klasik
+    gd: ceòl clasaigeach
+    gl: música clásica
+    gn: pupoty hekoporãitéva
+    gsw: klassischi Musig
+    gu: શાસ્ત્રીય સંગીત
+    gv: kiaull chlassicagh
+    he: מוזיקה קלאסית
+    hi: शास्त्रीय संगीत
+    hif: classical music
+    hr: klasična glazba
+    ht: mizik klasik
+    hu: komolyzene
+    hy: դասական երաժշտություն
+    hyw: դասական երաժշտութիւն
+    ia: musica classic
+    id: musik klasik
+    is: klassísk tónlist
+    it: musica classica
+    ja: クラシック音楽
+    jam: klasikal myuuzik
+    ka: კლასიკური მუსიკა
+    kbp: Tɩlɩyɛ alɩwaatʊ taa mʊsɩ
+    kk: классикалық музыка
+    kn: ಶಾಸ್ತ್ರೀಯ ಸಂಗೀತ
+    ko: 서양 고전 음악
+    ku: muzîka klasîk
+    kw: ilow klassek a'n West
+    ky: классикалык музыка
+    la: Musica classica
+    lb: klassesch Musek
+    li: klassieke muziek
+    lt: klasikinė muzika
+    lv: klasiskā mūzika
+    lzh: 洋樂
+    mg: Mozika klasika tandrefana
+    mi: puoro ōkawa
+    mk: класична музика
+    ml: പാശ്ചാത്യസംഗീതം
+    mr: शास्त्रीय संगीत
+    ms: muzik klasikal
+    mt: mużika klassika
+    my: ဂန္ထဝင်ဂီတ
+    mzn: کلاسیک موسیقی
+    nan: se-iûⁿ kó͘-tián im-ga̍k
+    nb: klassisk musikk
+    nds: Klassische Musik
+    nds-nl: klassike musik
+    ne: भारतीय शास्त्रीय संगीत
+    new: युरोपेली शास्त्रीय संगीत
+    nl: klassieke muziek
+    nn: klassisk musikk
+    oc: musica classica
+    os: классикон музыкæ
+    pa: ਪੱਛਮੀ ਸ਼ਾਸਤਰੀ ਸੰਗੀਤ
+    pl: muzyka klasyczna
+    pms: Mùsica clàssica
+    pnb: کلاسیکی موسیقی
+    ps: پخوانۍ موسيقي
+    pt: música clássica
+    pt-br: música clássica
+    qu: klasiku musika
+    ro: muzică clasică
+    ru: классическая музыка
+    rue: класічна музика
+    sa: गानं
+    sc: musica classica
+    scn: mùsica clàssica
+    sco: classical muisic
+    sd: ڪلاسيڪي راڳ
+    se: klassihkalaš musihkka
+    sgs: klasėkėnė mozėka
+    sh: klasična muzika
+    sjd: классическэ суммь
+    sk: klasická hudba
+    sl: klasična glasba
+    sq: muzika klasike
+    sr: класична музика
+    sr-ec: класична музика
+    sr-el: klasična muzika
+    su: Musik klasik
+    sv: klassisk musik
+    sw: muziki wa klasiki
+    ta: மேல்நாட்டுச் செந்நெறி இசை
+    te: యూరోపియన్ శాస్త్రీయ సంగీతం
+    tg: мусиқии килоссик
+    th: ดนตรีคลาสสิก
+    tl: musikang klasiko
+    tr: klasik müzik
+    tt: классик музыка
+    udm: классической крезьгур
+    uk: класична музика
+    ur: مغربی موسیقی
+    uz: Klassik musiqa
+    vi: nhạc cổ điển
+    vro: klassikalinõ muusiga
+    wa: muzike classike
+    war: klasikal nga musika
+    wuu: 古典音乐
+    xmf: კლასიკური მუსიკა
+    yi: קלאסישע מוזיק
+    yue: 古典樂
+    zh: 古典音樂
+    zh-cn: 古典音乐
+    zh-hans: 古典音乐
+    zh-hant: 古典音樂
+    zh-tw: 古典音樂
 ---
-
 [[Classical_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Classical_music,9730|WD~Classical_music,9730]] 

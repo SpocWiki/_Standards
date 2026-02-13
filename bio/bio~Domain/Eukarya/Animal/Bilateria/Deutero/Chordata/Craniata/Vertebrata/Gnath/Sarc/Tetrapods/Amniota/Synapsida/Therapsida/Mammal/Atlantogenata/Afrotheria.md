@@ -1,17 +1,104 @@
 ---
 aliases:
+- Afrikterioj
+- Afrodyr
+- Afroterilər
+- Afroterios
+- afroteris
+- afrotery
+- Afrotheria
+- Naakaii Łizhiní Bikéyahdi Hadahóólįįdígíí
+- Āfrikas placentāļi
+- Αφροθήρια
+- Афротерії
+- Афротерии
+- אפרותריה
+- آفریقاددان
+- وحشيات إفريقية
+- وحشيات افريقيه
+- アフリカ獣上目
+- 非洲兽总目
+- 非洲獸總目
+- 아프로테리아상목
 has_id_wikidata: Q27399
-parent_taxon: "[[../../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670]]"
-taxon_rank: "[[_Standards/WikiData/WD~superorder,5868144]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Afrotheria,13217714]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: '[[../../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670]]'
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Afrotheria,13217714]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 start_time: -65000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Afrotheria.jpg
 Commons_category: Afrotheria
 taxon_name: Afrotheria
 MeSH_tree_code: B01.050.150.900.649.313.250
+dv_has_:
+  name_:
+    af: Afrotheria
+    an: Afrotheria
+    ar: وحشيات إفريقية
+    arz: وحشيات افريقيه
+    ast: Afrotheria
+    az: Afroterilər
+    be-tarask: Afrotheria
+    bg: Afrotheria
+    ca: afroteris
+    ceb: Afrotheria
+    cs: Afrotheria
+    de: Afrotheria
+    el: Αφροθήρια
+    en: Afrotheria
+    eo: Afrikterioj
+    es: Afrotheria
+    eu: Afrotheria
+    ext: Afrotheria
+    fa: آفریقاددان
+    fi: Afrotheria
+    fr: Afrotheria
+    frr: Afrotheria
+    ga: Afrotheria
+    gl: Afroterios
+    he: אפרותריה
+    hu: Afrotheria
+    ia: Afrotheria
+    id: Afrotheria
+    ie: Afrotheria
+    io: Afrotheria
+    it: Afrotheria
+    ja: アフリカ獣上目
+    ko: 아프로테리아상목
+    la: Afrotheria
+    li: Afrotheria
+    lv: Āfrikas placentāļi
+    mk: Афротерии
+    ms: Afrotheria
+    mt: Afrotheria
+    mul: Afrotheria
+    nb: Afrotheria
+    nl: Afrotheria
+    nn: Afrodyr
+    nv: Naakaii Łizhiní Bikéyahdi Hadahóólįįdígíí
+    oc: Afrotheria
+    pl: afrotery
+    pt: Afrotheria
+    pt-br: Afrotheria
+    ro: Afrotheria
+    ru: афротерии
+    sah: Afrotheria
+    sco: Afrotheria
+    sl: Afrotheria
+    sq: Afrotheria
+    sr: Afrotheria
+    sv: Afrotheria
+    tl: Afrotheria
+    tr: Afrotheria
+    uk: Афротерії
+    vi: Afrotheria
+    vo: Afrotheria
+    war: Afrotheria
+    zh: 非洲兽总目
+    zh-cn: 非洲兽总目
+    zh-hans: 非洲兽总目
+    zh-tw: 非洲獸總目
 ---
-
 # [[Afrotheria]] 
 
 #is_/same_as :: [[WD~Afrotheria,27399]] 

@@ -1,45 +1,159 @@
 ---
 aliases:
-  - continental glacier
-  - Ice_Sheet
-  - Ice Sheet
+- buz örtüsü
+- Buzlaq örtüyü
+- calotta di ghiaccio
+- continental glacier
+- Dải băng
+- Eisschild
+- Glaciarium continentale
+- glacitavolo
+- Ice Sheet
+- Ice_Sheet
+- Ieskap
+- ijskap
+- Indlandsis
+- inlandsis
+- innlandsis
+- jégpajzs
+- Kontinentálny ľadovec
+- Lapisan es
+- Ledena ploča
+- ledeni pokrov
+- ledový příkrov
+- Ledāja vairogs
+- Lembar ais
+- Llen iâ
+- lądolód
+- mandrijää
+- mannerjäätikkö
+- manto de gelo
+- mpempe akwụkwọ ice
+- nannánjiekŋa
+- Yankin kankara
+- Yskap
+- İce sheet
+- Арктикалық шөл
+- ледавіковы шчыт
+- леден щит
+- ледена покривка
+- ледяной щит
+- льодовиковий щит
+- Эйваксар
+- Սառցե վահան
+- שכבת קרח יבשתית
+- برف کی چادر
+- صفيحة جليدية
+- یخسار
+- हिमचादर
+- হিমচাদর
+- பனிவிரிப்பு
+- พืดน้ำแข็ง
+- მყინვარული საფარი
+- 冰盖
+- 冰蓋
+- 氷床
+- 빙상
 has_id_wikidata: Q12599
 different_from:
-  - "[[_Standards/WikiData/WD~ice_cap,878077]]"
-  - "[[_Standards/WikiData/WD~ice_shelf,46966]]"
-subclass_of: "[[_Standards/WikiData/WD~ice_cap,878077]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q3761676,3761676]]"
+- '[[_Standards/WikiData/WD~ice_cap,878077]]'
+- '[[_Standards/WikiData/WD~ice_shelf,46966]]'
+subclass_of: '[[_Standards/WikiData/WD~ice_cap,878077]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q3761676,3761676]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]"
-has_part_s_: "[[_Standards/WikiData/WD~glacial_lobe,98857704]]"
-made_from_material: "[[_Standards/WikiData/WD~ice,23392]]"
-studied_by: "[[_Standards/WikiData/WD~glaciology,52120]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Antarctica_The_Melting_Continent,127164207]]'
+has_part_s_: '[[_Standards/WikiData/WD~glacial_lobe,98857704]]'
+made_from_material: '[[_Standards/WikiData/WD~ice,23392]]'
+studied_by: '[[_Standards/WikiData/WD~glaciology,52120]]'
 OmegaWiki_Defined_Meaning: 1307432
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenland-ice%20sheet%20hg.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000132
 Commons_category: Ice sheets
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Ice_sheet,12599]]"
-    - "[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet|Ice_Sheet]]"
-    - "[[/_public/Earth/Geology/Landform/Glacier/Ice_Sheet.public|Ice_Sheet.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Glacier/Ice_Sheet.internal|Ice_Sheet.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Glacier/Ice_Sheet.protect|Ice_Sheet.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Glacier/Ice_Sheet.private|Ice_Sheet.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Glacier/Ice_Sheet.personal|Ice_Sheet.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Glacier/Ice_Sheet.secret|Ice_Sheet.secret]]"
+  - '[[../../../../WikiData/WD~Ice_sheet,12599]]'
+  - '[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet|Ice_Sheet]]'
+  - '[[/_public/Earth/Geology/Landform/Glacier/Ice_Sheet.public|Ice_Sheet.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Glacier/Ice_Sheet.internal|Ice_Sheet.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Glacier/Ice_Sheet.protect|Ice_Sheet.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Glacier/Ice_Sheet.private|Ice_Sheet.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Glacier/Ice_Sheet.personal|Ice_Sheet.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Glacier/Ice_Sheet.secret|Ice_Sheet.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Ice_sheet,12599]]"
-  - "[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet|Ice_Sheet]]"
-  - "[[/_public/Earth/Geology/Landform/Glacier/Ice_Sheet.public|Ice_Sheet.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Glacier/Ice_Sheet.internal|Ice_Sheet.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Glacier/Ice_Sheet.protect|Ice_Sheet.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Glacier/Ice_Sheet.private|Ice_Sheet.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Glacier/Ice_Sheet.personal|Ice_Sheet.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Glacier/Ice_Sheet.secret|Ice_Sheet.secret]]"
+- '[[../../../../WikiData/WD~Ice_sheet,12599]]'
+- '[[/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet|Ice_Sheet]]'
+- '[[/_public/Earth/Geology/Landform/Glacier/Ice_Sheet.public|Ice_Sheet.public]]'
+- '[[/_internal/Earth/Geology/Landform/Glacier/Ice_Sheet.internal|Ice_Sheet.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Glacier/Ice_Sheet.protect|Ice_Sheet.protect]]'
+- '[[/_private/Earth/Geology/Landform/Glacier/Ice_Sheet.private|Ice_Sheet.private]]'
+- '[[/_personal/Earth/Geology/Landform/Glacier/Ice_Sheet.personal|Ice_Sheet.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Glacier/Ice_Sheet.secret|Ice_Sheet.secret]]'
+dv_has_:
+  name_:
+    af: Yskap
+    ar: صفيحة جليدية
+    ast: Indlandsis
+    az: Buzlaq örtüyü
+    be-tarask: ледавіковы шчыт
+    bg: леден щит
+    bn: হিমচাদর
+    ca: inlandsis
+    cs: ledový příkrov
+    cy: Llen iâ
+    da: Indlandsis
+    de: Eisschild
+    en: ice sheet
+    en-us: İce sheet
+    eo: glacitavolo
+    es: indlandsis
+    et: mandrijää
+    eu: Inlandsis
+    fa: یخسار
+    fi: mannerjäätikkö
+    fr: inlandsis
+    gl: Inlandsis
+    ha: Yankin kankara
+    he: שכבת קרח יבשתית
+    hi: हिमचादर
+    hu: jégpajzs
+    hy: Սառցե վահան
+    id: Lapisan es
+    ig: mpempe akwụkwọ ice
+    it: calotta di ghiaccio
+    ja: 氷床
+    ka: მყინვარული საფარი
+    kk: Арктикалық шөл
+    knc: Ice sheet
+    ko: 빙상
+    la: Glaciarium continentale
+    li: Ieskap
+    lv: Ledāja vairogs
+    mk: ледена покривка
+    ms: Lembar ais
+    myv: Эйваксар
+    nb: innlandsis
+    nl: ijskap
+    nn: Innlandsis
+    oc: Indlandsis
+    pl: lądolód
+    pt: manto de gelo
+    ro: Inlandsis
+    ru: ледяной щит
+    se: nannánjiekŋa
+    sk: Kontinentálny ľadovec
+    sl: ledeni pokrov
+    sr: Ledena ploča
+    sv: inlandsis
+    ta: பனிவிரிப்பு
+    th: พืดน้ำแข็ง
+    tr: buz örtüsü
+    uk: льодовиковий щит
+    ur: برف کی چادر
+    vi: Dải băng
+    yue: 冰蓋
+    zh: 冰盖
 ---
-
 # [[Ice_Sheet]] 
 
 #is_/same_as :: [[WD~Ice_sheet,12599]] 

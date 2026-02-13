@@ -1,41 +1,153 @@
 ---
 aliases:
-  - Quarzit
-  - Quartzite
+- cuarcita
+- cuarțit
+- cwartsit
+- grianchloichít
+- kremenec
+- kuarsit
+- kuartzita
+- kuvarsit
+- Kvarcit
+- Kvarcitas
+- kvarcito
+- kvarctit
+- kvarsit
+- Kvarsít
+- kvartsihtta
+- kvartsiit
+- kvartsiitti
+- kvartsit
+- kvartsitt
+- kwarcyt
+- Kwartsiet
+- Kwartsiit
+- metakvarcit
+- Quarcita
+- quarsita
+- Quartzit
+- Quartzite
+- Quartzites
+- quartziti
+- quartzito
+- Quarzit
+- quarzite
+- кварцит
+- кварцыт
+- Քվարցիտ
+- קוורציט
+- كوارتزيت
+- کوارتزیت
+- কোয়ার্টজাইট
+- კვარციტი
+- 珪岩
+- 石英岩
+- 규암
 has_id_wikidata: Q237883
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-award_received: "[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Mala_hirnycha_encyclopædia,1270052]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
 Mohs_hardness: 7
-made_from_material: "[[_Standards/WikiData/WD~quartz,43010]]"
-subclass_of: "[[_Standards/WikiData/WD~metamorphic_rock,47069]]"
+made_from_material: '[[_Standards/WikiData/WD~quartz,43010]]'
+subclass_of: '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quartzite%202%20jpg.jpg
 EAGLE_id: material/lod/51
 Commons_category: Quartzite
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]"
-    - "[[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]]"
-    - "[[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]]"
-    - "[[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]]"
-    - "[[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]]"
-    - "[[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]]"
-    - "[[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]]"
-    - "[[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]]"
+  - '[[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]'
+  - '[[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]]'
+  - '[[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]]'
+  - '[[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]]'
+  - '[[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]]'
+  - '[[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]]'
+  - '[[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]]'
+  - '[[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]"
-  - "[[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]]"
-  - "[[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]]"
-  - "[[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]]"
-  - "[[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]]"
-  - "[[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]]"
-  - "[[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]]"
-  - "[[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]]"
+- '[[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]'
+- '[[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]]'
+- '[[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]]'
+- '[[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]]'
+- '[[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]]'
+- '[[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]]'
+- '[[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]]'
+- '[[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]]'
+dv_has_:
+  name_:
+    af: Kwartsiet
+    an: Quarcita
+    ar: كوارتزيت
+    ast: Cuarcita
+    az: kvarsit
+    be: кварцыт
+    be-tarask: кварцыт
+    bg: Кварцит
+    bn: কোয়ার্টজাইট
+    ca: quarsita
+    cs: metakvarcit
+    cy: cwartsit
+    de: Quarzit
+    en: quartzite
+    eo: kvarcito
+    es: cuarcita
+    et: kvartsiit
+    eu: kuartzita
+    fa: کوارتزیت
+    fi: kvartsiitti
+    fr: quartzite
+    frr: Kwartsiit
+    ga: grianchloichít
+    gl: cuarcita
+    he: קוורציט
+    hr: Kvarcit
+    hy: Քվարցիտ
+    id: kuarsit
+    is: Kvarsít
+    it: quarzite
+    ja: 珪岩
+    ka: კვარციტი
+    kk: кварцит
+    ko: 규암
+    ky: кварцит
+    la: Quartzites
+    lb: Quarzit
+    li: Kwartsiet
+    lt: Kvarcitas
+    mk: кварцит
+    nb: kvartsitt
+    nds: Quarzit
+    nl: kwartsiet
+    nn: kvartsitt
+    pl: kwarcyt
+    pt: quartzito
+    ro: cuarțit
+    ru: кварцит
+    scn: quartziti
+    se: kvartsihtta
+    sh: Kvarcit
+    sk: kremenec
+    sl: kvarctit
+    sms: kvartsitt
+    sr: кварцит
+    sr-ec: Кварцит
+    sr-el: Kvarcit
+    sv: kvartsit
+    tr: kuvarsit
+    uk: кварцит
+    uz: kvarsit
+    vi: Quartzit
+    yue: 石英岩
+    zh: 石英岩
+    zh-cn: 石英岩
+    zh-hans: 石英岩
+    zh-hant: 石英岩
+    zh-hk: 石英岩
+    zh-sg: 石英岩
+    zh-tw: 石英岩
 ---
-
 # [[Quartzite]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]  

@@ -1,20 +1,244 @@
 ---
 aliases:
+- amldduwiaeth
+- dini ya miungu mingi
+- fjölgyðistrú
+- ildiachas
+- liesdhuwieth
+- liesdoueegezh
+- nwuak a̱cucuk da̱ a̱yaagwaza ma̱ a̱di̱di̱t
+- politeisim
+- politeism
+- politeisma
+- politeisme
+- politeismo
+- politeisms
+- politeizam
+- politeizem
+- politeizm
+- politeizmas
+- politeizmi
+- politeìsmu
+- politeísmo
+- politeísmu
+- politeïsme
+- polyteism
+- polyteisma
+- polyteisme
+- polyteismi
+- polyteismm
+- polyteismus
+- polyteizmus
+- polytheism
+- polytheismo
+- Polytheismus
+- Polytheïsme
+- polythéisme
+- polytéyism
+- polüteism
+- puolėteėzmos
+- pòlitejizm
+- thuyết đa thần
+- to-sîn-kàu
+- tupã hetávare jerovia
+- többistenhit
+- yl-jeeaghys
+- çoktanrıcılık
+- πολυθεϊσμός
+- многубоштво
+- політеізм
+- політеїзм
+- політэізм
+- политеизам
+- политеизм
+- политеизъм
+- трос инмарлы оскон
+- юмынйӱла
+- բազմաստվածություն
+- פאליטעאיזם
+- פוליתאיזם
+- تعدد الآلهة
+- تعدد الآلهه
+- فرەخوایی
+- واریاہ دیوتا پرستی
+- پولیتئیزم
+- پولیتھیازم
+- چندخدایی
+- ڤوليتيئيسمى
+- کثرت پرستی
+- बहुदेववाद
+- বহু-ঈশ্বরবাদ
+- বহু-ঈশ্বৰবাদ
+- ਬਹੁਦੇਵਵਾਦ
+- பல கடவுட் கொள்கை
+- ಅನೇಕದೇವತಾವಾದ
+- ബഹുദൈവവിശ്വാസം
+- බහුදේව වාදය
+- พหุเทวนิยม
+- ལྷ་མང་ཆོས་ལུགས།
+- နတ်ဘုရားအမျိုးမျိုးတို့ကိုကိုးကွယ်ခြင်း
+- პოლითეიზმი
+- 多神敎
+- 多神教
+- 多神论
+- 다신교
 has_id_wikidata: Q9163
-subclass_of: "[[_Standards/WikiData/WD~theism,620805]]"
+subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~religious_belief,2728698]]"
-different_from: "[[_Standards/WikiData/WD~polyethism,3395889]]"
-opposite_of: "[[_Standards/WikiData/WD~monotheism,9159]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~religious_belief,2728698]]'
+different_from: '[[_Standards/WikiData/WD~polyethism,3395889]]'
+opposite_of: '[[_Standards/WikiData/WD~monotheism,9159]]'
 Commons_category: Deities
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jacopo%20Zucchi%20-%20The%20Assembly%20of%20the%20Gods%20-%20WGA26036.jpg
 Universal_Decimal_Classification: 2-157
 subreddit: polytheism
+dv_has_:
+  name_:
+    af: politeïsme
+    an: politeísmo
+    ar: تعدد الآلهة
+    arz: تعدد الآلهه
+    as: বহু-ঈশ্বৰবাদ
+    ast: politeísmu
+    az: politeizm
+    azb: پولیتئیزم
+    ba: политеизм
+    bar: Polytheismus
+    be: політэізм
+    be-tarask: політэізм
+    bg: политеизъм
+    bn: বহু-ঈশ্বরবাদ
+    bo: ལྷ་མང་ཆོས་ལུགས།
+    br: liesdoueegezh
+    bs: politeizam
+    btm: politeisme
+    bxr: политеизм
+    ca: politeisme
+    ce: политеизм
+    ckb: فرەخوایی
+    crh: politeizm
+    cs: polyteismus
+    csb: pòlitejizm
+    cy: amldduwiaeth
+    da: polyteisme
+    de: Polytheismus
+    de-ch: Polytheismus
+    el: πολυθεϊσμός
+    en: polytheism
+    en-ca: polytheism
+    en-gb: polytheism
+    eo: politeismo
+    es: politeísmo
+    et: polüteism
+    eu: Politeismo
+    fa: چندخدایی
+    fi: polyteismi
+    fr: polythéisme
+    fur: politeisim
+    fy: Polyteisme
+    ga: ildiachas
+    gcr: polytéyism
+    gl: politeísmo
+    gn: tupã hetávare jerovia
+    gsw: Polytheismus
+    gv: yl-jeeaghys
+    he: פוליתאיזם
+    hi: बहुदेववाद
+    hif: polytheism
+    hr: politeizam
+    hu: többistenhit
+    hy: բազմաստվածություն
+    ia: polytheismo
+    id: politeisme
+    ilo: politeismo
+    io: politeismo
+    is: fjölgyðistrú
+    it: politeismo
+    ja: 多神教
+    ka: პოლითეიზმი
+    kaa: politeizm
+    kcg: nwuak a̱cucuk da̱ a̱yaagwaza ma̱ a̱di̱di̱t
+    kk: политеизм
+    kn: ಅನೇಕದೇವತಾವಾದ
+    knc: Polytheism
+    ko: 다신교
+    ks: واریاہ دیوتا پرستی
+    kw: liesdhuwieth
+    ky: политеизм
+    la: polytheismus
+    lb: Polytheismus
+    lfn: politeisme
+    li: Polytheïsme
+    lmo: politeism
+    lt: politeizmas
+    lv: politeisms
+    mg: politeisma
+    mhr: юмынйӱла
+    mk: многубоштво
+    ml: ബഹുദൈവവിശ്വാസം
+    mn: политеизм
+    ms: politeisme
+    ms-arab: ڤوليتيئيسمى
+    my: နတ်ဘုရားအမျိုးမျိုးတို့ကိုကိုးကွယ်ခြင်း
+    nan: to-sîn-kàu
+    nb: polyteisme
+    nds: Polytheismus
+    nl: polytheïsme
+    nn: polyteisme
+    oc: politeïsme
+    os: политеизм
+    pa: ਬਹੁਦੇਵਵਾਦ
+    pap: politeismo
+    pl: politeizm
+    pms: politeism
+    pnb: پولیتھیازم
+    pt: politeísmo
+    pt-br: politeísmo
+    ro: politeism
+    ru: политеизм
+    rue: політеізм
+    sah: политеизм
+    scn: politeìsmu
+    sco: polytheism
+    se: polyteisma
+    sgs: puolėteėzmos
+    sh: politeizam
+    si: බහුදේව වාදය
+    sk: polyteizmus
+    sl: politeizem
+    smn: polyteism
+    sms: polyteismm
+    sq: politeizmi
+    sr: политеизам
+    sr-ec: политеизам
+    sr-el: politeizam
+    sv: polyteism
+    sw: dini ya miungu mingi
+    ta: பல கடவுட் கொள்கை
+    th: พหุเทวนิยม
+    tl: politeismo
+    tr: çoktanrıcılık
+    tt: политеизм
+    tyv: политеизм
+    udm: трос инмарлы оскон
+    uk: політеїзм
+    ur: کثرت پرستی
+    uz: politeizm
+    vep: politeizm
+    vi: thuyết đa thần
+    vro: polüteism
+    war: politeismo
+    wuu: 多神论
+    xmf: პოლითეიზმი
+    yi: פאליטעאיזם
+    yue: 多神敎
+    zh: 多神论
+    zh-cn: 多神论
+    zh-hans: 多神论
 ---
-
 # [[Polytheism]] 
 
 #has_/complement :: [[Monotheism|Monotheism]] 

@@ -1,33 +1,199 @@
 ---
 aliases:
+- Awọn iyipada jiini (genetic mutations)
+- Foloqa
+- Hoán-chéng
+- Mitasyon
+- mutaatio
+- mutace
+- Mutacija
+- mutacio
+- Mutacioni
+- mutació
+- mutación
+- mutacja
+- Mutaco
+- mutasi
+- mutasie
+- mutasion
+- Mutasiya
+- Mutasiýa
+- mutasjon
+- Mutasyon
+- mutatie
+- Mutatio genetica
+- mutation
+- Mutatjuun
+- mutatsioon
+- Mutatsiya
+- mutazio
+- mutazione
+- mutação
+- mutație genetică
+- Mutácia
+- mutáció
+- Mutācija
+- salihan
+- Stökkbreyting
+- sóchán
+- Wakman tukuy
+- đột biến sinh học
+- Μετάλλαξη
+- мутація
+- мутаци
+- мутација
+- мутация
+- мутацыя
+- Ҷаҳиш (зистшиносӣ)
+- Մուտացիա
+- מוטאציע
+- מוטציה
+- اوښتون (بیولوجي)
+- بازدان
+- جهش
+- ساليهن
+- طفرة
+- طَفرَہ
+- उत्परिवर्तन
+- পরিব্যক্তি
+- ਮਿਊਟੇਸ਼ਨ
+- மரபணு திடீர்மாற்றம்
+- ఉత్పరివర్తనము
+- ವ್ಯತ್ಯಯನ
+- ഉൾപരിവർത്തനം
+- ප්රවේණික විකෘති
+- การกลายพันธุ์
+- მუტაცია
+- 基因突變
+- 突变
+- 突然変異
+- 갑작변이
+- 돌연변이
 has_id_wikidata: Q42918
-has_cause: "[[_Standards/WikiData/WD~mutagen,221696]]"
-different_from: "[[_Standards/WikiData/WD~Mutation,413689]]"
+has_cause: '[[_Standards/WikiData/WD~mutagen,221696]]'
+different_from: '[[_Standards/WikiData/WD~Mutation,413689]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~somatic_mutation,2215243]]"
-  - "[[_Standards/WikiData/WD~germline_mutation,5552256]]"
+- '[[_Standards/WikiData/WD~somatic_mutation,2215243]]'
+- '[[_Standards/WikiData/WD~germline_mutation,5552256]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~sequence_variant,15304597]]"
-  - "[[_Standards/WikiData/WD~variation,102116514]]"
-  - "[[_Standards/WikiData/WD~genetic_event,115865817]]"
-has_effect: "[[_Standards/WikiData/WD~mutant,3285695]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Mutation,13501050]]"
+- '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~sequence_variant,15304597]]'
+- '[[_Standards/WikiData/WD~variation,102116514]]'
+- '[[_Standards/WikiData/WD~genetic_event,115865817]]'
+has_effect: '[[_Standards/WikiData/WD~mutant,3285695]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mutation,13501050]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-has_characteristic: "[[_Standards/WikiData/WD~mutational_signature,28790837]]"
-OmegaWiki_Defined_Meaning: "2453"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_characteristic: '[[_Standards/WikiData/WD~mutational_signature,28790837]]'
+OmegaWiki_Defined_Meaning: 2453
 Commons_category: Mutations
 NCI_Dictionary_of_Genetics_Terms_entry: mutation
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Otitis-Media-in-a-New-Mouse-Model-for-CHARGE-Syndrome-with-a-Deletion-in-the-Chd7-Gene-pone.0034944.s002.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Otitis-Media-in-a-New-Mouse-Model-for-CHARGE-Syndrome-with-a-Deletion-in-the-Chd7-Gene-pone.0034944.s003.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Otitis-Media-in-a-New-Mouse-Model-for-CHARGE-Syndrome-with-a-Deletion-in-the-Chd7-Gene-pone.0034944.s002.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Otitis-Media-in-a-New-Mouse-Model-for-CHARGE-Syndrome-with-a-Deletion-in-the-Chd7-Gene-pone.0034944.s003.ogv
 IEV_number: 881-17-16
 MeSH_tree_code: G05.365.590
-Dewey_Decimal_Classification: "576.549"
+Dewey_Decimal_Classification: 576.549
+dv_has_:
+  name_:
+    af: mutasie
+    ar: طفرة
+    ast: Mutación
+    az: Mutasiya
+    be: мутацыя
+    be-tarask: мутацыя
+    bg: Мутация
+    bn: পরিব্যক্তি
+    bs: Mutacija
+    ca: mutació
+    ckb: بازدان
+    cs: mutace
+    da: mutation
+    de: Mutation
+    diq: Mutasyon
+    el: Μετάλλαξη
+    en: mutation
+    eo: mutacio
+    es: mutación
+    et: mutatsioon
+    eu: mutazio
+    fa: جهش
+    fi: mutaatio
+    fr: mutation
+    frr: Mutatjuun
+    ga: sóchán
+    gl: mutación
+    he: מוטציה
+    hi: उत्परिवर्तन
+    hr: mutacija
+    ht: Mitasyon
+    hu: mutáció
+    hy: Մուտացիա
+    id: mutasi
+    io: Mutaco
+    is: Stökkbreyting
+    it: mutazione
+    ja: 突然変異
+    jv: Mutasi
+    ka: მუტაცია
+    kk: Мутация
+    kn: ವ್ಯತ್ಯಯನ
+    ko: 돌연변이
+    ko-kp: 갑작변이
+    ku: Mutasyon
+    ku-latn: mutasyon
+    ky: Мутация
+    la: Mutatio genetica
+    lt: mutacija
+    lv: Mutācija
+    mk: мутација
+    ml: ഉൾപരിവർത്തനം
+    mn: мутаци
+    ms: salihan
+    ms-arab: ساليهن
+    mzn: جهش
+    nan: Hoán-chéng
+    nb: mutasjon
+    ne: उत्परिवर्तन
+    nl: mutatie
+    nn: mutasjon
+    oc: Mutation
+    om: Foloqa
+    pa: ਮਿਊਟੇਸ਼ਨ
+    pl: mutacja
+    ps: اوښتون (بیولوجي)
+    pt: mutação
+    qu: Wakman tukuy
+    ro: mutație genetică
+    ru: мутация
+    sh: Mutacija
+    si: ප්රවේණික විකෘති
+    sk: Mutácia
+    sl: mutacija
+    sq: Mutacioni
+    sr: мутација
+    sv: mutation
+    ta: மரபணு திடீர்மாற்றம்
+    te: ఉత్పరివర్తనము
+    tg: Ҷаҳиш (зистшиносӣ)
+    th: การกลายพันธุ์
+    tk: Mutasiýa
+    tl: Mutasyon
+    tr: mutasyon
+    udm: мутация
+    uk: мутація
+    ur: طَفرَہ
+    uz: Mutatsiya
+    vec: mutasion
+    vi: đột biến sinh học
+    war: Mutasyon
+    wuu: 突变
+    yi: מוטאציע
+    yo: Awọn iyipada jiini (genetic mutations)
+    yue: 基因突變
+    zh: 突变
 ---
-
 # [[Mutation]] 
 
 #is_/same_as :: [[WD~Mutation,42918]] 

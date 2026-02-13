@@ -1,4 +1,33 @@
-
+---
+has_id_wikidata: Q163226
+dv_has_:
+  name_:
+    ast: Everlong
+    de: Everlong
+    en: Everlong
+    es: Everlong
+    fa: بیپایان
+    fi: Everlong
+    fr: Everlong
+    fy: Everlong
+    ga: Everlong
+    he: Everlong
+    it: Everlong
+    ja: エヴァーロング
+    nl: Everlong
+    pl: Everlong
+    pt: Everlong
+    pt-br: Everlong
+    ru: Everlong
+    sk: Everlong
+    sr: Everlong
+    sv: Everlong
+    uk: Everlong
+aliases:
+- Everlong
+- بیپایان
+- エヴァーロング
+---
 [[../../../../movie/Movie-Roles/Gondry,Michel]] directed the Video to this song. 
 
 

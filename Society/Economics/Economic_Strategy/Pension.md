@@ -1,4 +1,148 @@
-
+---
+has_id_wikidata: Q156223
+dv_has_:
+  name_:
+    af: pensioen
+    ar: راتب التقاعد
+    az: təqaüd
+    be: пенсія
+    be-tarask: пэнсія
+    bg: пенсия
+    bn: অবসরভাতা
+    ca: pensió
+    cs: starobní důchod
+    cy: pensiwn
+    da: pension
+    de: Pension
+    el: σύνταξη
+    en: pension
+    eo: pensio
+    es: pensión
+    et: pension
+    eu: pentsio
+    fa: مزایای بازنشستگی
+    fi: eläke
+    fr: épargne retraite
+    fy: Pinsjoen
+    ga: pinsean
+    gu: પેન્શન
+    gv: penshyn
+    he: פנסיה
+    hi: पेंशन
+    hr: mirovina
+    hu: nyugdíj
+    hy: Կենսաթոշակ
+    id: pensiun
+    io: pensiono
+    it: pensione
+    ja: 年金
+    ka: პენსია
+    kk: Зейнетақы
+    kn: ಪಿಂಚಣಿ
+    ko: 연금
+    ky: пенсия
+    lmo: pension
+    lt: pensija
+    lv: Pensija
+    mk: пензиски систем
+    ml: അടുത്തൂൺ
+    ms: pencen
+    nb: alderspensjon
+    nl: pensioen
+    nn: alderspensjon
+    pl: emerytura
+    ps: تقاعد
+    ru: пенсия
+    sat: ᱯᱮᱱᱥᱳᱱ
+    se: ealáhat
+    sh: penzija
+    sl: pokojninska sredstva
+    sma: pensjovne
+    smj: pensjåvnnå
+    smn: iäláttâh
+    sms: jeältõk
+    sr: пензија
+    sr-ec: пензија
+    sr-el: penzija
+    sv: pension
+    szl: Pynzyjo
+    te: పింఛను
+    tg: Нафақа
+    th: บำนาญ
+    tr: Emekli maaşı
+    tt: пенсия
+    uk: пенсія
+    uz: Pensiyalar
+    yue: 退休金
+    zh: 退休金
+    zh-cn: 退休金
+    zh-hans: 退休金
+    zh-hant: 退休金
+    zh-hk: 退休金
+    zh-mo: 退休金
+    zh-my: 退休金
+    zh-sg: 退休金
+    zh-tw: 退休金
+aliases:
+- alderspensjon
+- ealáhat
+- eläke
+- Emekli maaşı
+- emerytura
+- iäláttâh
+- jeältõk
+- mirovina
+- nyugdíj
+- pencen
+- penshyn
+- pensija
+- pensio
+- pensioen
+- pension
+- pensione
+- pensiono
+- pensiun
+- pensiwn
+- Pensiyalar
+- pensió
+- pensión
+- pensjovne
+- pensjåvnnå
+- pentsio
+- penzija
+- pinsean
+- Pinsjoen
+- pokojninska sredstva
+- Pynzyjo
+- starobní důchod
+- təqaüd
+- épargne retraite
+- σύνταξη
+- Зейнетақы
+- Нафақа
+- пензија
+- пензиски систем
+- пенсія
+- пенсия
+- пэнсія
+- Կենսաթոշակ
+- פנסיה
+- تقاعد
+- راتب التقاعد
+- مزایای بازنشستگی
+- पेंशन
+- অবসরভাতা
+- પેન્શન
+- పింఛను
+- ಪಿಂಚಣಿ
+- അടുത്തൂൺ
+- บำนาญ
+- პენსია
+- ᱯᱮᱱᱥᱳᱱ
+- 年金
+- 退休金
+- 연금
+---
 # [[Pension]] 
 
 

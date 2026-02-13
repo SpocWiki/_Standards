@@ -1,17 +1,38 @@
 ---
 aliases:
-  - Clericó
-  - Sangria
+- Clericó
+- Sanggriya
+- Sangria
+- sangrija
+- Sangrio
+- sangría
+- Sanqriya
+- σαγκρία
+- Сангрія
+- сангрија
+- Сангрия
+- Сангрыя
+- Սանգրիա
+- סנגריה
+- سانجريا
+- سانگریا
+- ซังกริอา
+- სანგრია
+- サングリア
+- 桑格利亞
+- 生个利亚酒
+- 西班牙特飲
+- 상그리아
 has_id_wikidata: Q273296
 has_part_s_:
-  - '[[_Standards/WikiData/WD~soft_drink,147538]]'
-  - '[[_Standards/WikiData/WD~fruit,3314483]]'
-  - '[[_Standards/WikiData/WD~red_wine,1827]]'
-  - '[[_Standards/WikiData/WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~soft_drink,147538]]'
+- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~red_wine,1827]]'
+- '[[_Standards/WikiData/WD~sugar,11002]]'
 instance_of: '[[_Standards/WikiData/WD~wine_cocktail,2894814]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-  - '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
 OmegaWiki_Defined_Meaning: 1016353
 Commons_category: Sangria
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sangria%20in%20a%20tall%20skinny%20glass%20in%20Malaga.jpg
@@ -19,8 +40,65 @@ Amazon_com_browse_node: 18327545011
 FoodEx2_code: A03PT
 Wolfram_Language_entity_code: Entity["FoodType", "Sangria"]
 native_label: Sangría
+dv_has_:
+  name_:
+    ar: سانجريا
+    arz: سانجريا
+    az: Sanqriya
+    be: Сангрыя
+    be-tarask: Сангрыя
+    bg: Сангрия
+    br: sangria
+    bs: Sangria
+    ca: sangria
+    ceb: Sanggriya
+    cs: Sangria
+    da: Sangria
+    de: Sangría
+    el: σαγκρία
+    en: sangria
+    en-us: sangria
+    eo: Sangrio
+    es: sangría
+    et: Sangria
+    eu: Sangria
+    fa: سانگریا
+    fi: Sangria
+    fr: sangria
+    gl: Sangría
+    he: סנגריה
+    hr: Sangría
+    hu: Sangría
+    hy: Սանգրիա
+    is: Sangria
+    it: sangria
+    ja: サングリア
+    jv: Sangria
+    ka: სანგრია
+    ko: 상그리아
+    lt: Sangrija
+    lv: Sangrija
+    nb: sangria
+    nl: sangria
+    oc: Sangria
+    pl: sangria
+    pt: sangria
+    ro: Sangria
+    ru: Сангрия
+    sl: sangrija
+    sr: сангрија
+    sr-ec: сангрија
+    sr-el: sangrija
+    sv: Sangria
+    th: ซังกริอา
+    tl: Sangria
+    tr: Sangria
+    uk: Сангрія
+    wuu: 生个利亚酒
+    xmf: სანგრია
+    yue: 西班牙特飲
+    zh: 桑格利亞
 ---
-
 # [[Sangria]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Sangria,273296|WD~Sangria,273296]] 

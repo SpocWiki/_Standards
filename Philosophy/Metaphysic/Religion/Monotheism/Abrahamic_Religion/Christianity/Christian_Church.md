@@ -1,38 +1,273 @@
 ---
-has_time_started: 0033-05-22 
+has_time_started: 0033-05-22
 aliases:
-  - Christliche Kirche
-  - Christian_Church
-  - Christian Church
+- biserică
+- cerkev
+- Cesa
+- Chiesa
+- Christian Church
+- Christian_Church
+- Christliche Kirche
+- Cirice
+- cirkev
+- Creja
+- Crèsia
+- cyrkej
+- Cèsa
+- církev
+- dêr
+- Eaglais
+- Eaglais Chríostaí
+- Ecclesia
+- Eigreija
+- Eklezio
+- Eliza kristau
+- església
+- Fiangonana
+- gereja
+- Geréja
+- Gesa
+- Gexa
+- Giáo hội Kitô giáo
+- glèisa
+- Gréja
+- Hrišćanska crkva
+- Huria
+- iglesia cristiana
+- Igreja
+- Igrexa
+- Ilesia
+- iliz kristen
+- Isonto
+- Kanisa
+- Kark
+- keresztény egyház
+- Kerk
+- Kerk (organisasie)
+- Kilise
+- Kirche
+- Kirik (institutsioon)
+- Kirken
+- Kirkja
+- kirkko
+- Kirko
+- kiukay
+- kiwkay
+- Kościół
+- Krikščionių Bažnyčia
+- Kristian Choch
+- Kristiyanu inlisya
+- kristna kyrkan
+- Kristīgā baznīca
+- kršćanska crkva
+- kyokay
+- Kyrkja
+- Kàu-huē
+- Kàu-hōe
+- Kî-tuk Kau-fi
+- Legliz (òganizasyon)
+- Simbahan
+- Taglizt (Tamaddast)
+- Tsjerke
+- Xristian shirkewi
+- xristian çirkäwe
+- Xristianlıqda kilsə
+- yr Eglwys Gristnogol
+- Église
+- Εκκλησία
+- Еклези
+- Ибодатгоҳи Масеҳӣ
+- Костёл
+- христијанска црква
+- христиан сиркәүе
+- Христианска Церковь
+- христианская церковь
+- Христийн чуулган
+- Християнська церква
+- хрысціянская царква
+- хрысьціянская царква
+- црква
+- Църква
+- Чиркӳ
+- եկեղեցի
+- כנסייה קתולית
+- الكنيسة المسيحية
+- مسیحی کلیسیا
+- کلیسا
+- کلیسا (عیسوي کلیسا)
+- کلیسیا
+- کڵێسا
+- کیلیسا (اؤرگۆت)
+- कलीसिया
+- चर्च
+- খ্রিস্টান গির্জা
+- திருச்சபை
+- പള്ളി
+- ක්රිස්තියානි සභාව
+- คริสตจักร
+- ụka nke otu Kraịst
+- 圣堂
+- 教会
+- 教會
+- 교회
 has_id_wikidata: Q34651
 studied_by: '[[_Standards/WikiData/WD~ecclesiology,223693]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~sodality,357849]]'
-  - '[[_Standards/WikiData/WD~parachurch_organization,3356065]]'
-  - '[[_Standards/WikiData/WD~modality,6888032]]'
+- '[[_Standards/WikiData/WD~sodality,357849]]'
+- '[[_Standards/WikiData/WD~parachurch_organization,3356065]]'
+- '[[_Standards/WikiData/WD~modality,6888032]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Churches_of_Christ,1272775]]'
-  - '[[_Standards/WikiData/WD~Christian_Church_(Disciples_of_Christ),1541206]]'
-  - '[[_Standards/WikiData/WD~Christian_churches_and_churches_of_Christ,5110310]]'
-  - '[[_Standards/WikiData/WD~Kirche,15823565]]'
-  - '[[_Standards/WikiData/WD~Iglesia,1594]]'
-  - '[[_Standards/WikiData/WD~church_building,16970]]'
+- '[[_Standards/WikiData/WD~Churches_of_Christ,1272775]]'
+- '[[_Standards/WikiData/WD~Christian_Church_(Disciples_of_Christ),1541206]]'
+- '[[_Standards/WikiData/WD~Christian_churches_and_churches_of_Christ,5110310]]'
+- '[[_Standards/WikiData/WD~Kirche,15823565]]'
+- '[[_Standards/WikiData/WD~Iglesia,1594]]'
+- '[[_Standards/WikiData/WD~church_building,16970]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
-  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-  - '[[_Standards/WikiData/WD~type_of_Christian_institution,121144598]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+- '[[_Standards/WikiData/WD~type_of_Christian_institution,121144598]]'
 subclass_of: '[[_Standards/WikiData/WD~Christian_organization,94670589]]'
 part_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Iconclass_notation: 11P
 inception: 0033-05-22T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sint-Willibrorduskerk%20%28Berchem%29%20%2810944%29%20calvarie%2029-07-2019.jpg
 Krugosvet_article: kultura_i_obrazovanie/religiya/TSERKOV_HRISTIANSKAYA.html
+dv_has_:
+  name_:
+    af: Kerk (organisasie)
+    ang: Cirice
+    ar: الكنيسة المسيحية
+    ast: Ilesia
+    az: Xristianlıqda kilsə
+    azb: کیلیسا (اؤرگۆت)
+    ba: христиан сиркәүе
+    bbc: Huria
+    be: хрысціянская царква
+    be-tarask: хрысьціянская царква
+    bew: Geréja
+    bg: Църква
+    bho: चर्च
+    bn: খ্রিস্টান গির্জা
+    br: iliz kristen
+    bs: kršćanska crkva
+    ca: església
+    ckb: کڵێسا
+    cs: církev
+    cv: Чиркӳ
+    cy: yr Eglwys Gristnogol
+    da: Kirken
+    de: Kirche
+    de-at: Kirche
+    de-ch: Kirche
+    el: Εκκλησία
+    eml: Cèsa
+    en: Christian Church
+    en-ca: Christian Church
+    en-gb: Christian Church
+    eo: Eklezio
+    es: iglesia cristiana
+    et: Kirik (institutsioon)
+    eu: Eliza kristau
+    fa: کلیسا
+    fi: kirkko
+    fr: Église
+    fy: Tsjerke
+    ga: Eaglais Chríostaí
+    gd: Eaglais
+    gl: Igrexa
+    hak: Kî-tuk Kau-fi
+    he: כנסייה קתולית
+    hi: कलीसिया
+    hr: Kršćanska crkva
+    hsb: cyrkej
+    ht: Legliz (òganizasyon)
+    hu: keresztény egyház
+    hy: եկեղեցի
+    ia: Ecclesia
+    id: gereja
+    ig: ụka nke otu Kraịst
+    io: Kirko
+    is: Kirkja
+    it: Chiesa
+    ja: 教会
+    jam: Kristian Choch
+    jv: Gréja
+    kaa: Xristian shirkewi
+    ko: 교회
+    ku: dêr
+    ku-latn: dêr
+    la: Ecclesia
+    lij: Gexa
+    lmo: Gesa
+    lt: Krikščionių Bažnyčia
+    lv: Kristīgā baznīca
+    mg: Fiangonana
+    min: Gereja
+    mk: христијанска црква
+    ml: പള്ളി
+    mn: Христийн чуулган
+    mrj: Костёл
+    mwl: Eigreija
+    mzn: کلیسا
+    nan: Kàu-hōe
+    nan-hani: 教會
+    nan-hant: 教會
+    nan-latn-pehoeji: Kàu-hōe
+    nan-latn-tailo: Kàu-huē
+    nb: Kirken
+    nds: Kark
+    nl: Kerk
+    nn: Kyrkja
+    oc: glèisa
+    os: Еклези
+    pl: Kościół
+    pms: Cesa
+    pnb: کلیسیا
+    ps: کلیسا (عیسوي کلیسا)
+    pt: Igreja
+    pt-br: Igreja
+    pwn: kiukay
+    qu: Kristiyanu inlisya
+    ro: biserică
+    ru: христианская церковь
+    rue: Христианска Церковь
+    sc: Creja
+    scn: Crèsia
+    sh: Hrišćanska crkva
+    shi: Taglizt (Tamaddast)
+    si: ක්රිස්තියානි සභාව
+    sk: cirkev
+    sl: cerkev
+    sr: црква
+    sr-ec: црква
+    sv: kristna kyrkan
+    sw: Kanisa
+    szy: kiwkay
+    ta: திருச்சபை
+    tay: kyokay
+    tg: Ибодатгоҳи Масеҳӣ
+    th: คริสตจักร
+    tl: Simbahan
+    tr: Kilise
+    tt: xristian çirkäwe
+    uk: Християнська церква
+    ur: مسیحی کلیسیا
+    vi: Giáo hội Kitô giáo
+    wuu: 教会
+    yue: 教會
+    zh: 教會
+    zh-cn: 教会
+    zh-hans: 圣堂
+    zh-hant: 教會
+    zh-hk: 教會
+    zh-tw: 教會
+    zu: Isonto
 ---
-
 # [[Christian_Church]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Christian_Church,34651|WD~Christian_Church,34651]] 

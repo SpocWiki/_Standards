@@ -1,25 +1,177 @@
 ---
-aliases: 
+aliases:
+- cipati
+- coconut milk
+- Gata
+- Guta
+- Hatok
+- Hindistan cevizi sütü
+- Klappermelk
+- Koko-esne
+- kokoslakto
+- kokosmelk
+- Kokosmilch
+- kokosmjölk
+- Kokosmjølk
+- kokosmælk
+- kokosovo mleko
+- Kokosovo mlijeko
+- kokosové mlieko
+- kokosové mléko
+- kokosriekstu piens
+- Kokosų pienas
+- Kookosmaito
+- Kookospiim
+- kókusztej
+- Lac cocois
+- lait de coco
+- lapte de cocos
+- latte di cocco
+- leche de coco
+- leite de coco
+- Lleche de cocu
+- llet de coco
+- Madara ta kwakwa
+- mleczko kokosowe
+- Mmiri akị bekee
+- nước cốt dừa
+- Pati Nyiwi
+- Qumeshti i kokosit
+- Ronono voanio
+- Roro (kai)
+- santan
+- Santen
+- Γάλα καρύδας
+- Какосавае малако
+- кокосове молоко
+- Кокосово млеко
+- Кокосово мляко
+- кокосовое молоко
+- Կոկոսի կաթ
+- חלב קוקוס
+- حليب جوز الهند
+- شیر نارگیل
+- ناریل دا دُدھ
+- नारियल का दूध
+- নারকেল দুধ
+- নাৰিকলৰ গাখীৰ
+- ਨਾਰੀਅਲ ਦਾ ਦੁੱਧ
+- ନଡ଼ିଆ କ୍ଷୀର
+- தேங்காய்ப்பால்
+- కొబ్బరిపాలు
+- ತೆಂಗಿನ ಹಾಲು
+- തേങ്ങാപ്പാൽ
+- กะทิ
+- အုန်းနို့
+- ココナッツミルク
+- 椰汁
+- 椰浆
+- 椰漿
+- 코코넛 밀크
 has_id_wikidata: Q841779
 different_from:
-  - "[[_Standards/WikiData/WD~Gata,399713]]"
-  - "[[_Standards/WikiData/WD~Guta,1217393]]"
+- '[[_Standards/WikiData/WD~Gata,399713]]'
+- '[[_Standards/WikiData/WD~Guta,1217393]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~plant_milk,2640574]]"
-  - "[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]"
+- '[[_Standards/WikiData/WD~plant_milk,2640574]]'
+- '[[_Standards/WikiData/WD~non_alcoholic_beverage,2647467]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~grated_coconut,11117594]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-instance_of: "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
-has_use: "[[_Standards/WikiData/WD~pandan_waffle,69102980]]"
-USDA_NDB_number: "12118"
+- '[[_Standards/WikiData/WD~grated_coconut,11117594]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+has_use: '[[_Standards/WikiData/WD~pandan_waffle,69102980]]'
+USDA_NDB_number: 12118
 Commons_category: Coconut milk
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coconut%20milk%20from%20can01.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A6%95%E0%A7%87%E0%A6%B2%20%E0%A6%A6%E0%A7%81%E0%A6%A7.wav
-Amazon_com_browse_node: "6520453011"
+Amazon_com_browse_node: 6520453011
 UNII: AMN6S4M09G
+dv_has_:
+  name_:
+    af: Klappermelk
+    ar: حليب جوز الهند
+    as: নাৰিকলৰ গাখীৰ
+    ast: Lleche de cocu
+    bcl: Guta
+    be: Какосавае малако
+    be-tarask: какосавае малако
+    bew: santen
+    bg: Кокосово мляко
+    bn: নারকেল দুধ
+    ca: llet de coco
+    ceb: Gata
+    cs: kokosové mléko
+    da: kokosmælk
+    de: Kokosmilch
+    de-at: Kokosmilch
+    de-ch: Kokosmilch
+    dtp: santan
+    el: Γάλα καρύδας
+    en: coconut milk
+    eo: kokoslakto
+    es: leche de coco
+    et: Kookospiim
+    eu: Koko-esne
+    fa: شیر نارگیل
+    fi: Kookosmaito
+    fr: lait de coco
+    gl: Leite de coco
+    ha: Madara ta kwakwa
+    he: חלב קוקוס
+    hi: नारियल का दूध
+    hr: Kokosovo mlijeko
+    hu: kókusztej
+    hy: Կոկոսի կաթ
+    iba: Santan
+    id: Santan
+    ig: Mmiri akị bekee
+    it: latte di cocco
+    ja: ココナッツミルク
+    jv: Santen
+    kge: Pati Nyiwi
+    kn: ತೆಂಗಿನ ಹಾಲು
+    ko: 코코넛 밀크
+    la: Lac cocois
+    lt: Kokosų pienas
+    lv: kokosriekstu piens
+    mg: Ronono voanio
+    mi: Roro (kai)
+    min: santan
+    mk: Кокосово млеко
+    ml: തേങ്ങാപ്പാൽ
+    ms: santan
+    my: အုန်းနို့
+    nb: kokosmelk
+    nl: klappermelk
+    nn: Kokosmjølk
+    or: ନଡ଼ିଆ କ୍ଷୀର
+    pa: ਨਾਰੀਅਲ ਦਾ ਦੁੱਧ
+    pl: mleczko kokosowe
+    pnb: ناریل دا دُدھ
+    pt: leite de coco
+    rki: အုန်းနို့
+    ro: lapte de cocos
+    ru: кокосовое молоко
+    sk: kokosové mlieko
+    sl: kokosovo mleko
+    sq: Qumeshti i kokosit
+    sr: Кокосово млеко
+    su: cipati
+    sv: kokosmjölk
+    ta: தேங்காய்ப்பால்
+    te: కొబ్బరిపాలు
+    th: กะทิ
+    tl: Gata
+    tr: Hindistan cevizi sütü
+    uk: кокосове молоко
+    vi: nước cốt dừa
+    war: Hatok
+    yue: 椰汁
+    zh: 椰漿
+    zh-hans: 椰浆
+    zh-hant: 椰漿
+    zh-hk: 椰漿
 ---
-
 # [[Coconut_Milk]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Coconut_milk,841779|WD~Coconut_milk,841779]] 

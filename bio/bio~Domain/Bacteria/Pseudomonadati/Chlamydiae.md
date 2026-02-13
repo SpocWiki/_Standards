@@ -1,9 +1,35 @@
 ---
 aliases:
-  - Chlamydiae
+- Chlamydiae
+- Chlamydiota
+- 衣原體門
 title: Chlamydiae
+has_id_wikidata: Q20388896
+dv_has_:
+  name_:
+    ast: Chlamydiota
+    bg: Chlamydiota
+    ceb: Chlamydiota
+    de: Chlamydiota
+    en: Chlamydiota
+    es: Chlamydiota
+    fi: Chlamydiota
+    fr: Chlamydiota
+    ga: Chlamydiota
+    it: Chlamydiota
+    la: Chlamydiota
+    mul: Chlamydiota
+    nl: Chlamydiota
+    pl: Chlamydiota
+    pt: Chlamydiota
+    ro: Chlamydiota
+    ru: Chlamydiota
+    sq: Chlamydiota
+    uk: Chlamydiota
+    vi: Chlamydiota
+    war: Chlamydiota
+    zh: 衣原體門
 ---
-
 # [[Chlamydiae]] 
 
 #is_a/bio-Phylum  

@@ -1,23 +1,38 @@
 ---
 aliases:
-  - Josephine_Cochrane
-  - Josephine Cochrane
-  - Josephine Cochran
-  - Josephine Garis
-  - Cochrane
-  - Cochrane,Josephine
+- Cochrane
+- Cochrane,Josephine
+- Josephine Cochran
+- Josephine Cochrane
+- Josephine Cochraneová
+- Josephine Garis
+- Josephine_Cochrane
+- Џозефина Кокран
+- Джазэфіна Какрэйн
+- Джозефіна Кокрейн
+- Джозефина Кокрейн
+- Джоузефин Кокрейн
+- Ջոզեֆին Քոքրեն
+- ג'וזפין קוקרן
+- جوزفين كوكران
+- جوزفین کاکرن
+- जोसेफिन कोक्रेन
+- ਜੋਸੇਫਾਈਨ ਕੋਚਰੇਨ
+- ജോസഫീൻ കൊക്രെയ്ൻ
+- ジョセフィン・コクラン
+- 約瑟芬·科克倫
 has_id_wikidata: Q21901
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 place_of_birth: '[[_Standards/WikiData/WD~Shelbyville,575659]]'
 given_name: '[[_Standards/WikiData/WD~Josephine,666954]]'
 award_received: '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
 cause_of_death: '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Cochrane,5139428]]'
-  - '[[_Standards/WikiData/WD~Garis,37188468]]'
+- '[[_Standards/WikiData/WD~Cochrane,5139428]]'
+- '[[_Standards/WikiData/WD~Garis,37188468]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 mother: '[[_Standards/WikiData/WD~Irene_Fitch_Garis,107471893]]'
 date_of_birth: 1839-03-08T00:00:00Z
@@ -28,8 +43,63 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Josephine%20Garis%20Co
 Commons_category: Josephine Cochrane
 name_in_native_language: Josephine Lorelai Coachrana
 date_of_death: 1913-08-03T00:00:00Z
+dv_has_:
+  name_:
+    an: Josephine Cochrane
+    ar: جوزفين كوكران
+    arz: جوزفين كوكران
+    ast: Josephine Cochrane
+    be-tarask: Джазэфіна Какрэйн
+    bg: Джоузефин Кокрейн
+    ca: Josephine Cochrane
+    cs: Josephine Cochraneová
+    cy: Josephine Cochrane
+    da: Josephine Cochrane
+    de: Josephine Cochrane
+    en: Josephine Cochrane
+    en-ca: Josephine Cochrane
+    en-gb: Josephine Cochrane
+    es: Josephine Cochrane
+    eu: Josephine Cochrane
+    ext: Josephine Cochrane
+    fa: جوزفین کاکرن
+    fi: Josephine Cochrane
+    fr: Josephine Cochrane
+    ga: Josephine Cochrane
+    gl: Josephine Cochrane
+    gsw: Josephine Cochrane
+    he: ג'וזפין קוקרן
+    hi: जोसेफिन कोक्रेन
+    hu: Josephine Cochrane
+    hy: Ջոզեֆին Քոքրեն
+    id: Josephine Cochrane
+    is: Josephine Cochrane
+    it: Josephine Cochrane
+    ja: ジョセフィン・コクラン
+    mg: Josephine Cochrane
+    ml: ജോസഫീൻ കൊക്രെയ്ൻ
+    nb: Josephine Cochrane
+    nl: Josephine Cochrane
+    nn: Josephine Cochrane
+    oc: Josephine Cochrane
+    pa: ਜੋਸੇਫਾਈਨ ਕੋਚਰੇਨ
+    pl: Josephine Cochrane
+    pt: Josephine Cochrane
+    pt-br: Josephine Cochrane
+    ro: Josephine Cochrane
+    ru: Джозефина Кокрейн
+    sl: Josephine Cochrane
+    sq: Josephine Cochrane
+    sr: Џозефина Кокран
+    sv: Josephine Cochrane
+    tr: Josephine Cochrane
+    uk: Джозефіна Кокрейн
+    vec: Josephine Cochrane
+    vi: Josephine Cochrane
+    war: Josephine Cochrane
+    zh: 約瑟芬·科克倫
+    zh-hant: 約瑟芬·科克倫
 ---
-
 # [[Cochrane,Josephine]] 
 
 #is_/same_as :: [[WD~Josephine_Cochrane,21901]] 

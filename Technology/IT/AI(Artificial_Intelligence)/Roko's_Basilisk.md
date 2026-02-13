@@ -1,4 +1,50 @@
-
+---
+has_id_wikidata: Q21564971
+dv_has_:
+  name_:
+    ar: بازيليسك روكو
+    ca: Basilisc de Roko
+    de: Rokos Basilisk
+    en: Roko's basilisk
+    eo: bazilisko de Roko
+    es: Basilisco de Roko
+    fa: باسیلیسک روکو
+    fi: Rokon basiliski
+    fr: Basilic de Roko
+    he: הבסיליסק של רוקו
+    id: Basilisk Roko
+    it: Basilisco di roko
+    ja: ロコのバジリスク
+    ko: 로코의 바실리스크
+    pl: Bazyliszek Roko
+    pt: Basilisco de Roko
+    ro: Vasiliscul lui Roko
+    ru: Василиск Роко
+    sr: Роков базилиск
+    uk: Василіск Роко
+    zh: 洛科的蛇怪
+aliases:
+- Basilic de Roko
+- Basilisc de Roko
+- Basilisco de Roko
+- Basilisco di roko
+- Basilisk Roko
+- bazilisko de Roko
+- Bazyliszek Roko
+- Roko's basilisk
+- Rokon basiliski
+- Rokos Basilisk
+- Vasiliscul lui Roko
+- Василіск Роко
+- Василиск Роко
+- Роков базилиск
+- הבסיליסק של רוקו
+- بازيليسك روكو
+- باسیلیسک روکو
+- ロコのバジリスク
+- 洛科的蛇怪
+- 로코의 바실리스크
+---
 #is_/similar_to :: [[../../../Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel)]] 
 
 ## #has_/text_of_/abstract 

@@ -1,168 +1,236 @@
 ---
 aliases:
-  - Ronald_Reagan
-  - Reagan,Ronald
-  - Ronald Reagan
-  - ""
+- Hastiin alą́ąjįʼ dahsidáhígíí Ronald Reagan
+- RANyld.REIgen
+- Reagan,Ronald
+- Reagani Ronald
+- Reigan Ronal'd
+- Ronald Reagan
+- Ronald Rejgan
+- Ronald Reygan
+- Ronald Reyqan
+- Ronald W. Reagan
+- Ronaldas Reiganas
+- Ronalds Reigans
+- Ronaldus Reagan
+- Ronald_Reagan
+- Ruonalds Reigans
+- Ρόναλντ Ρήγκαν
+- Рейган
+- Рейган Рональд Уилсон
+- Роналд Реган
+- Роналд Рейган
+- Роналд Рейгън
+- Роналд Рэйган
+- Роналдъ Рєиганъ
+- Рональд Рейган
+- Рональд Уілсан Рэйган
+- Ռոնալդ Ռեյգան
+- Ռոնալտ Ռիկըն
+- ראנאלד רייגען
+- רונלד רייגן
+- رونالد ريجان
+- رونالد ريغان
+- رونالد ريڭان
+- رونالد ریگان
+- رونالد رېگن
+- رونالد ویلسون ریگان
+- رونالڈ ریگن
+- رېگان
+- ڕۆناڵد ڕەیگن
+- ރޮނަލްޑް ރޭގަން
+- रॉनल्ड रेगन
+- रोनाल्ड रेगन
+- रोनाल्ड विलसन रीगन
+- रोनाल्ड विल्सन रीगन
+- रोनाल्द रेगन
+- রোনাল্ড রেগন
+- ৰোনাল্ড ৰেগন
+- ਰੋਨਲਡ ਰੀਗਨ
+- રોનાલ્ડ રીગન
+- ରୋନାଲ୍ଡ ରେଗନ
+- ரானல்ட் ரேகன்
+- రోనాల్డ్ రీగన్
+- ರೋನಾಲ್ಡ್ ರೇಗನ್
+- റൊണാൾഡ് റീഗൻ
+- රොනල්ඩ් රේගන්
+- โรนัลด์ เรแกน
+- ໂຣນັລດ໌ ເຣແກນ
+- ရော်နယ် ရေဂင်
+- რონალდ რეიგანი
+- ሮናልድ ሬገን
+- ᏬᎾᎵᏗ ᏪᎦᏂ
+- រ៉ូណល់ វីហ្កេន
+- ロナルド・レーガン
+- 朗奴·列根
+- 朗奴列根
+- 罗纳德·里根
+- 羅納德·列根
+- 羅納德·里根
+- 里根
+- 隆納·雷根
+- 隆納德·列根
+- 로널드 레이건
+- "\U00010342\U00010349\U0001033D\U00010330\U0001033B\U00010333 \U00010342\U00010334\U00010330\U00010332\U00010330\U0001033D"
 has_id_wikidata: Q9960
 confidential: private
 cssclasses: private note
 draft: true
-expiryDate: ""
+expiryDate: ''
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~lifeguard,259327]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~character_actor,948329]]"
-  - "[[_Standards/WikiData/WD~announcer,1371925]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~art_collector,10732476]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~trade_unionist,15627169]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~diarist,18939491]]"
-  - "[[_Standards/WikiData/WD~game_show_host,22662561]]"
-  - "[[_Standards/WikiData/WD~anti_communist,120115224]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~lifeguard,259327]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~announcer,1371925]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~art_collector,10732476]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~game_show_host,22662561]]'
+- '[[_Standards/WikiData/WD~anti_communist,120115224]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]"
-  - "[[_Standards/WikiData/WD~Order_of_Merit_of_the_Republic_of_Poland,93982]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Chrysanthemum,696246]]"
-  - "[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]"
-  - "[[_Standards/WikiData/WD~Order_pro_Merito_Melitensi,762844]]"
-  - "[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]"
-  - "[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]"
-  - "[[_Standards/WikiData/WD~American_Defense_Service_Medal,2842905]]"
-  - "[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]"
-  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
-  - "[[_Standards/WikiData/WD~Doublespeak_Award,5300150]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_Supreme_Order_of_the_Chrysanthemum,5361043]]"
-  - "[[_Standards/WikiData/WD~Francis_Boyer_Award,5480301]]"
-  - "[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_1st_class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905105]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]"
-  - "[[_Standards/WikiData/WD~Labor_Hall_of_Honor,17277947]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Merit_of_the_Republic_of_Poland,20853482]]"
-  - "[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_the_Weizmann_Institute_of_Science,51035522]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Vilnius,58398498]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Gdańsk,58402380]]"
-  - "[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]"
+- '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
+- '[[_Standards/WikiData/WD~Order_of_the_White_Lion,93728]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Republic_of_Poland,93982]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Chrysanthemum,696246]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Order_pro_Merito_Melitensi,762844]]'
+- '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+- '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
+- '[[_Standards/WikiData/WD~American_Defense_Service_Medal,2842905]]'
+- '[[_Standards/WikiData/WD~Armed_Forces_Reserve_Medal,4793010]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~Doublespeak_Award,5300150]]'
+- '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Supreme_Order_of_the_Chrysanthemum,5361043]]'
+- '[[_Standards/WikiData/WD~Francis_Boyer_Award,5480301]]'
+- '[[_Standards/WikiData/WD~Theodore_Roosevelt_Award,7781991]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_1st_class_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905105]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_the_Bath,12177451]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]'
+- '[[_Standards/WikiData/WD~Labor_Hall_of_Honor,17277947]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Merit_of_the_Republic_of_Poland,20853482]]'
+- '[[_Standards/WikiData/WD~Collar_of_the_Order_of_the_White_Lion,20966612]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_Weizmann_Institute_of_Science,51035522]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Vilnius,58398498]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Gdańsk,58402380]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 residence:
-  - "[[_Standards/WikiData/WD~Bel_Air,86768]]"
-  - "[[_Standards/WikiData/WD~Rancho_del_Cielo,2153479]]"
-  - "[[_Standards/WikiData/WD~Ronald_Reagan_Boyhood_Home,7365195]]"
-place_of_death: "[[_Standards/WikiData/WD~Bel_Air,86768]]"
+- '[[_Standards/WikiData/WD~Bel_Air,86768]]'
+- '[[_Standards/WikiData/WD~Rancho_del_Cielo,2153479]]'
+- '[[_Standards/WikiData/WD~Ronald_Reagan_Boyhood_Home,7365195]]'
+place_of_death: '[[_Standards/WikiData/WD~Bel_Air,86768]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jane_Wyman,95055]]"
-  - "[[_Standards/WikiData/WD~Nancy_Reagan,193426]]"
-employer: "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
+- '[[_Standards/WikiData/WD~Jane_Wyman,95055]]'
+- '[[_Standards/WikiData/WD~Nancy_Reagan,193426]]'
+employer: '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
 military_or_police_rank:
-  - "[[_Standards/WikiData/WD~private,158668]]"
-  - "[[_Standards/WikiData/WD~captain,5036511]]"
-  - "[[_Standards/WikiData/WD~first_lieutenant,20715023]]"
-  - "[[_Standards/WikiData/WD~second_lieutenant,56826567]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Anne_Frank_House,165366]]"
+- '[[_Standards/WikiData/WD~private,158668]]'
+- '[[_Standards/WikiData/WD~captain,5036511]]'
+- '[[_Standards/WikiData/WD~first_lieutenant,20715023]]'
+- '[[_Standards/WikiData/WD~second_lieutenant,56826567]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Anne_Frank_House,165366]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Presbyterianism,178169]]"
-  - "[[_Standards/WikiData/WD~Restorationism,855941]]"
-  - "[[_Standards/WikiData/WD~Christian_Church_(Disciples_of_Christ),1541206]]"
+- '[[_Standards/WikiData/WD~Presbyterianism,178169]]'
+- '[[_Standards/WikiData/WD~Restorationism,855941]]'
+- '[[_Standards/WikiData/WD~Christian_Church_(Disciples_of_Christ),1541206]]'
 medical_condition:
-  - "[[_Standards/WikiData/WD~colorectal_cancer,188874]]"
-  - "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
+- '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
+- "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
 child:
-  - "[[_Standards/WikiData/WD~Ron_Reagan,321846]]"
-  - "[[_Standards/WikiData/WD~Patti_Davis,469302]]"
-  - "[[_Standards/WikiData/WD~Maureen_Reagan,6792754]]"
-  - "[[_Standards/WikiData/WD~Michael_Reagan,6833765]]"
-  - "[[_Standards/WikiData/WD~Christine_Reagan,75763229]]"
+- '[[_Standards/WikiData/WD~Ron_Reagan,321846]]'
+- '[[_Standards/WikiData/WD~Patti_Davis,469302]]'
+- '[[_Standards/WikiData/WD~Maureen_Reagan,6792754]]'
+- '[[_Standards/WikiData/WD~Michael_Reagan,6833765]]'
+- '[[_Standards/WikiData/WD~Christine_Reagan,75763229]]'
 military_branch:
-  - "[[_Standards/WikiData/WD~Air_Force_Reserve_Command,407191]]"
-  - "[[_Standards/WikiData/WD~United_States_Army_Reserve,2036662]]"
-  - "[[_Standards/WikiData/WD~United_States_Army,9212]]"
+- '[[_Standards/WikiData/WD~Air_Force_Reserve_Command,407191]]'
+- '[[_Standards/WikiData/WD~United_States_Army_Reserve,2036662]]'
+- '[[_Standards/WikiData/WD~United_States_Army,9212]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Legion,468865]]"
-  - "[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]"
-  - "[[_Standards/WikiData/WD~Tau_Kappa_Epsilon,33498885]]"
+- '[[_Standards/WikiData/WD~American_Legion,468865]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]'
+- '[[_Standards/WikiData/WD~Tau_Kappa_Epsilon,33498885]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Culver_City,493378]]"
-  - "[[_Standards/WikiData/WD~Fort_Mason,948933]]"
-  - "[[_Standards/WikiData/WD~Fort_MacArthur,5471564]]"
-  - "[[_Standards/WikiData/WD~Sacramento,18013]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-  - "[[_Standards/WikiData/WD~Hollywood,34006]]"
-  - "[[_Standards/WikiData/WD~Des_Moines,39709]]"
+- '[[_Standards/WikiData/WD~Culver_City,493378]]'
+- '[[_Standards/WikiData/WD~Fort_Mason,948933]]'
+- '[[_Standards/WikiData/WD~Fort_MacArthur,5471564]]'
+- '[[_Standards/WikiData/WD~Sacramento,18013]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Hollywood,34006]]'
+- '[[_Standards/WikiData/WD~Des_Moines,39709]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Governor_of_California,887010]]"
-  - "[[_Standards/WikiData/WD~president,1255921]]"
-  - "[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]"
-  - "[[_Standards/WikiData/WD~President_of_SAG,120638159]]"
-  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-archives_at: "[[_Standards/WikiData/WD~Ronald_Reagan_Presidential_Library,1432360]]"
-place_of_burial: "[[_Standards/WikiData/WD~Ronald_Reagan_Presidential_Library,1432360]]"
-significant_event: "[[_Standards/WikiData/WD~death_and_state_funeral_of_Ronald_Reagan,2081441]]"
-hair_color: "[[_Standards/WikiData/WD~brown_hair,2367101]]"
-given_name: "[[_Standards/WikiData/WD~Ronald,2532287]]"
-handedness: "[[_Standards/WikiData/WD~right_handedness,3039938]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-place_of_birth: "[[_Standards/WikiData/WD~Birthplace_of_Ronald_Reagan,4917087]]"
+- '[[_Standards/WikiData/WD~Governor_of_California,887010]]'
+- '[[_Standards/WikiData/WD~president,1255921]]'
+- '[[_Standards/WikiData/WD~President_elect_of_the_United_States,1467287]]'
+- '[[_Standards/WikiData/WD~President_of_SAG,120638159]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+archives_at: '[[_Standards/WikiData/WD~Ronald_Reagan_Presidential_Library,1432360]]'
+place_of_burial: '[[_Standards/WikiData/WD~Ronald_Reagan_Presidential_Library,1432360]]'
+significant_event: '[[_Standards/WikiData/WD~death_and_state_funeral_of_Ronald_Reagan,2081441]]'
+hair_color: '[[_Standards/WikiData/WD~brown_hair,2367101]]'
+given_name: '[[_Standards/WikiData/WD~Ronald,2532287]]'
+handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+place_of_birth: '[[_Standards/WikiData/WD~Birthplace_of_Ronald_Reagan,4917087]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Dixon_High_School,5284951]]"
-  - "[[_Standards/WikiData/WD~Eureka_College,5411163]]"
+- '[[_Standards/WikiData/WD~Dixon_High_School,5284951]]'
+- '[[_Standards/WikiData/WD~Eureka_College,5411163]]'
 military_unit:
-  - "[[_Standards/WikiData/WD~First_Motion_Picture_Unit,5453356]]"
-  - "[[_Standards/WikiData/WD~322nd_Cavalry_Regiment,39072864]]"
-  - "[[_Standards/WikiData/WD~323rd_Cavalry_Regiment,39072959]]"
-  - "[[_Standards/WikiData/WD~San_Francisco_Port_of_Embarkation,108377993]]"
-father: "[[_Standards/WikiData/WD~Jack_Reagan,6114763]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Nelle_Wilson_Reagan,6990072]]"
+- '[[_Standards/WikiData/WD~First_Motion_Picture_Unit,5453356]]'
+- '[[_Standards/WikiData/WD~322nd_Cavalry_Regiment,39072864]]'
+- '[[_Standards/WikiData/WD~323rd_Cavalry_Regiment,39072959]]'
+- '[[_Standards/WikiData/WD~San_Francisco_Port_of_Embarkation,108377993]]'
+father: '[[_Standards/WikiData/WD~Jack_Reagan,6114763]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Nelle_Wilson_Reagan,6990072]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Rex,7319126]]"
-  - "[[_Standards/WikiData/WD~Lucky,47670871]]"
-filmography: "[[_Standards/WikiData/WD~Ronald_Reagan_filmography,7365206]]"
-sibling: "[[_Standards/WikiData/WD~Neil_Reagan,15628572]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ronald_Reagan,15720814]]"
-family_name: "[[_Standards/WikiData/WD~Reagan,16881921]]"
-eye_color: "[[_Standards/WikiData/WD~blue,17122834]]"
-blood_type: "[[_Standards/WikiData/WD~Q19831451,19831451]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-represented_by: "[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]"
+- '[[_Standards/WikiData/WD~Rex,7319126]]'
+- '[[_Standards/WikiData/WD~Lucky,47670871]]'
+filmography: '[[_Standards/WikiData/WD~Ronald_Reagan_filmography,7365206]]'
+sibling: '[[_Standards/WikiData/WD~Neil_Reagan,15628572]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ronald_Reagan,15720814]]'
+family_name: '[[_Standards/WikiData/WD~Reagan,16881921]]'
+eye_color: '[[_Standards/WikiData/WD~blue,17122834]]'
+blood_type: '[[_Standards/WikiData/WD~Q19831451,19831451]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+represented_by: '[[_Standards/WikiData/WD~Music_Corporation_of_America,_Inc.,61205003]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~TP_updated_between_September_2019_and_August_2020,98755339]]"
+- "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~TP_updated_between_September_2019_and_August_2020,98755339]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-writing_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
+writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
-  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-allegiance: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
+- '[[_Standards/WikiData/WD~pneumonia,12192]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+allegiance: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children:
-  - 1
-  - 4
-  - 5
+- 1
+- 4
+- 5
 height:
-  - 71
-  - 185
+- 71
+- 185
 identifier_in_filmpolski_movie_database: 2779
 nickname:
-  - Dutch
-  - The Gipper
-  - The Great Communicator
+- Dutch
+- The Gipper
+- The Great Communicator
 Plex_person_key: 5d77682a151a60001f24b511
 Libris_URI: 86lnqkbs0mfk2gx
 Wolfram_Language_entity_code: Entity"Person", "RonaldReagan = `=this.dv_"Person", "RonaldReagan`
@@ -189,39 +257,143 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Ronal
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ronald%20Reagan%20Signature2.svg
 official_website: https://whitehouse.gov/about-the-white-house/presidents/ronald-reagan/
 ISNI: 121400474
-dv_has_role: "[[../US_President]]"
-dv_is_member_of: "[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]"
+dv_has_role: '[[../US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
 dv_created: 1981-01-20
 dv_cancelled: 1989-01-20
 dv_"Person", "RonaldReagan: gn3nt"
 dv_has_:
+  name_:
+    am: ሮናልድ ሬገን
+    ar: رونالد ريغان
+    ary: رونالد ريڭان
+    arz: رونالد ريجان
+    as: ৰোনাল্ড ৰেগন
+    av: Роналд Рейган
+    az: Ronald Reyqan
+    azb: رونالد ریگان
+    ba: Рональд Рейган
+    be: Рональд Уілсан Рэйган
+    be-tarask: Роналд Рэйган
+    bg: Роналд Рейгън
+    bho: रोनाल्ड विल्सन रीगन
+    bn: রোনাল্ড রেগন
+    bpy: রোনাল্ড রেগন
+    ca: Ronald Reagan
+    ce: Рейган
+    chr: ᏬᎾᎵᏗ ᏪᎦᏂ
+    ckb: ڕۆناڵد ڕەیگن
+    crh: Ronald Reygan
+    crh-latn: Ronald Reygan
+    cs: Ronald Reagan
+    cu: Роналдъ Рєиганъ
+    cv: Рональд Рейган
+    de: Ronald Reagan
+    dty: रोनाल्ड रेगन
+    dv: ރޮނަލްޑް ރޭގަން
+    el: Ρόναλντ Ρήγκαν
+    en: Ronald Reagan
+    en-us: Ronald Reagan
+    fa: رونالد ریگان
+    ga: Ronald W. Reagan
+    gan: 羅納德·里根
+    got: "\U00010342\U00010349\U0001033D\U00010330\U0001033B\U00010333 \U00010342\U00010334\U00010330\U00010332\U00010330\U0001033D"
+    gu: રોનાલ્ડ રીગન
+    he: רונלד רייגן
+    hi: रोनाल्ड विलसन रीगन
+    hy: Ռոնալդ Ռեյգան
+    hyw: Ռոնալտ Ռիկըն
+    it: Ronald Reagan
+    ja: ロナルド・レーガン
+    jbo: RANyld.REIgen
+    ka: რონალდ რეიგანი
+    kk: Рональд Рейган
+    km: រ៉ូណល់ វីហ្កេន
+    kn: ರೋನಾಲ್ಡ್ ರೇಗನ್
+    ko: 로널드 레이건
+    krc: Рональд Рейган
+    ksh: Ronald W. Reagan
+    ky: Рейган Рональд Уилсон
+    la: Ronaldus Reagan
+    lo: ໂຣນັລດ໌ ເຣແກນ
+    lt: Ronaldas Reiganas
+    ltg: Ronalds Reigans
+    lv: Ronalds Reigans
+    lzh: 里根
+    mai: रोनाल्ड रेगन
+    mhr: Рональд Рейган
+    mk: Роналд Реган
+    ml: റൊണാൾഡ് റീഗൻ
+    mn: Роналд рейган
+    mr: रॉनल्ड रेगन
+    mrj: Рональд Рейган
+    mul: Ronald Reagan
+    my: ရော်နယ် ရေဂင်
+    mzn: رونالد ویلسون ریگان
+    ne: रोनाल्ड रेगन
+    new: रोनाल्द रेगन
+    nl: Ronald Reagan
+    nv: Hastiin alą́ąjįʼ dahsidáhígíí Ronald Reagan
+    or: ରୋନାଲ୍ଡ ରେଗନ
+    os: Рональд Рейган
+    pa: ਰੋਨਲਡ ਰੀਗਨ
+    pl: Ronald Reagan
+    pnb: رونالڈ ریگن
+    ps: رونالد رېگن
+    ru: Рональд Рейган
+    sa: रोनाल्द रेगन
+    sah: Рональд Рейган
+    sgs: Ruonalds Reigans
+    si: රොනල්ඩ් රේගන්
+    sk: Ronald Reagan
+    sr: Роналд Реган
+    ta: ரானல்ட் ரேகன்
+    te: రోనాల్డ్ రీగన్
+    tg: Роналд Рейган
+    th: โรนัลด์ เรแกน
+    tly: Ronald Rejgan
+    tt: Рональд Рейган
+    ug: رېگان
+    uk: Рональд Рейган
+    ur: رونالڈ ریگن
+    vep: Reigan Ronal'd
+    vro: Reagani Ronald
+    wuu: 羅納德·列根
+    xmf: რონალდ რეიგანი
+    yi: ראנאלד רייגען
+    yue: 朗奴列根
+    zh: 罗纳德·里根
+    zh-cn: 罗纳德·里根
+    zh-hans: 罗纳德·里根
+    zh-hant: 隆納德·列根
+    zh-hk: 朗奴·列根
+    zh-tw: 隆納·雷根
   time_:
     started: 1911-02-06T00:00:00.000+01:00
     stopped: 2004-06-05T00:00:00.000+02:00
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Ronald_Reagan,9960|WD~Ronald_Reagan,9960]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Reagan,Ronald|Reagan,Ronald]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.public|Reagan,Ronald.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.internal|Reagan,Ronald.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.protect|Reagan,Ronald.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.private|Reagan,Ronald.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.personal|Reagan,Ronald.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.secret|Reagan,Ronald.secret]]"
+  - '[[../../../../WikiData/WD~Ronald_Reagan,9960|WD~Ronald_Reagan,9960]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Reagan,Ronald|Reagan,Ronald]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.public|Reagan,Ronald.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.internal|Reagan,Ronald.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.protect|Reagan,Ronald.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.private|Reagan,Ronald.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.personal|Reagan,Ronald.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.secret|Reagan,Ronald.secret]]'
 dv_person-ronaldreagan: gn3nt"
 dv_has_time_started: 1911-02-06
 dv_has_time_stopped: 2004-06-05
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Ronald_Reagan,9960|WD~Ronald_Reagan,9960]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Reagan,Ronald|Reagan,Ronald]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.public|Reagan,Ronald.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.internal|Reagan,Ronald.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.protect|Reagan,Ronald.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.private|Reagan,Ronald.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.personal|Reagan,Ronald.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.secret|Reagan,Ronald.secret]]"
+- '[[../../../../WikiData/WD~Ronald_Reagan,9960|WD~Ronald_Reagan,9960]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Reagan,Ronald|Reagan,Ronald]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.public|Reagan,Ronald.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.internal|Reagan,Ronald.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.protect|Reagan,Ronald.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.private|Reagan,Ronald.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.personal|Reagan,Ronald.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Reagan,Ronald.secret|Reagan,Ronald.secret]]'
 ---
-
 # [[Reagan,Ronald]] 
 
 has_time_started = `=this.dv_has_time_started`

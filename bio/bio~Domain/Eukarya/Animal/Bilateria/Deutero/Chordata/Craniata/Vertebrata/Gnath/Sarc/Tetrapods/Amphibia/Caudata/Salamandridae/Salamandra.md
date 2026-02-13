@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Salamandra
+- daždevnjak
+- Eigentlech Salamanderen
+- Eigentliche Salamander
+- Marasàndula
+- močerad
+- Salamander
+- salamandr
+- Salamandra
+- Salamandras
+- Salamandro
+- tulisalamanterit
+- Tó wónaanídę́ę́ʼ tsxilghááh daalkizhígíí dóó bikʼéí
+- даждевњак
+- Саламандрæтæ
+- Саламандра
+- Саламандрасем
+- саламандри
+- סלמנדרה
+- سالاماندرا
+- سمندرهای سالاماندرا
+- سمندل
+- சலமாண்டிரா
+- サラマンドラ属
+- 真螈属
+- 真螈屬
+- 노랑무늬영원속
 title: Salamandra
+has_id_wikidata: Q62181
+dv_has_:
+  name_:
+    an: Salamandra
+    ar: سمندل
+    arz: سالاماندرا
+    ast: Salamandra
+    bg: саламандри
+    br: Salamandra
+    ca: Salamandra
+    ceb: Salamandra
+    cs: Salamandra
+    cv: Саламандрасем
+    de: Eigentliche Salamander
+    el: Salamandra
+    eml: Marasàndula
+    en: Salamandra
+    eo: Salamandro
+    es: Salamandra
+    et: Salamander
+    eu: Salamandra
+    ext: Salamandra
+    fa: سمندرهای سالاماندرا
+    fi: tulisalamanterit
+    fr: Salamandra
+    ga: Salamandra
+    gl: Salamandra
+    he: סלמנדרה
+    hy: salamandr
+    ia: Salamandra
+    ie: Salamandra
+    io: Salamandra
+    it: Salamandra
+    ja: サラマンドラ属
+    kk: Саламандра
+    ko: 노랑무늬영원속
+    la: Salamandra
+    lb: Eigentlech Salamanderen
+    lv: Salamandras
+    mul: Salamandra
+    nl: Salamandra
+    nv: Tó wónaanídę́ę́ʼ tsxilghááh daalkizhígíí dóó bikʼéí
+    oc: Salamandra
+    os: Саламандрæтæ
+    pl: Salamandra
+    pt: Salamandra
+    pt-br: Salamandra
+    ro: Salamandra
+    ru: Salamandra
+    sco: Salamandra
+    sl: močerad
+    sq: Salamandra
+    sr: даждевњак
+    sr-ec: даждевњак
+    sr-el: daždevnjak
+    sv: Salamandra
+    ta: சலமாண்டிரா
+    tr: Salamandra
+    uk: Саламандра
+    vi: Salamandra
+    vls: Salamandra
+    vo: Salamandra
+    war: Salamandra
+    zh: 真螈属
+    zh-cn: 真螈属
+    zh-hans: 真螈属
+    zh-tw: 真螈屬
 ---
-
 # [[Salamandra]] 
 
 ![ ](Salamandra/img_3736_2.jpg)

@@ -1,21 +1,117 @@
 ---
 aliases:
-  - Fireworks
-  - Feuerwerk
-  - Firework
+- artfajraĵo
+- Artificii
+- bunga api
+- dållåruson
+- fajerwerki
+- Fataki
+- Fejerverkai
+- feu d'artifice
+- Feuerwerk
+- Filot
+- Firework
+- Fireworks
+- Fishekziarret
+- fişəng
+- Fjoerwurk
+- Flugeldar
+- Foco de artificio
+- focs artificials
+- Focu d'artifizi
+- Fogos de artificio
+- fogos de artifício
+- fuegos artificiales
+- fueos artificiales
+- fuochi d'artificio
+- Fuòc d'artifici
+- fyrverkeri
+- fyrværkeri
+- Fȳrƿeorc
+- havai fişek
+- Ian-hoé
+- Ignes artificiosi
+- ilotulite
+- ilutulestik
+- Iĕng-huă
+- Jocu di focu
+- Kambang sarai
+- kembang api
+- Klapchi
+- kule pi open wawa
+- merekelik salyut
+- mushakbozlik festivali
+- ognjemet
+- ohňostroj
+- pahū ahi
+- Pailaw
+- pháo hoa
+- Pirotekno
+- riepmodolat
+- su artifizialak
+- sztuczne ognie
+- tinte ealaíne
+- tân gwyllt
+- tűzijáték
+- uguņošana
+- vatromet
+- vuurwerk
+- Vuurwèrk
+- wognjopraskot
+- wohnjostroj
+- ávupačâlem
+- Πυροτέχνημα
+- Ватромет
+- Галын наадам
+- мерекелік салют
+- огномет
+- оташбозӣ
+- фаервэрк
+- феєрверк
+- феерверк
+- фейерверк
+- Фойерверки
+- Հրավառություն
+- זיקוקין די-נור
+- פייער ווארקס
+- آتش بازی
+- آتشبازي
+- آتشبازی
+- ألعاب نارية
+- مەرەكەلىك ساليۋت
+- یاریی ئاگرین
+- आतषबाजी
+- आतिशबाज़ी
+- आतिशबाजी
+- আতশবাজি
+- ਆਤਿਸ਼ਬਾਜ਼ੀ
+- ଆତସବାଜି
+- வாணவெடி
+- പടക്കം
+- ดอกไม้ไฟ
+- ပၟတ်သြဴ
+- မီးကျည်မီးပန်း
+- ფოიერვერკი
+- ᎠᏍᏆᏂᎪᏒᏗ ᏂᎦᎵᏍᏔᏂᏙᎲ
+- 烟火
+- 焰火
+- 煙火
+- 煙花
+- 花火
+- 불꽃놀이
 has_id_wikidata: Q127933
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~light_source,1146001]]"
-  - "[[_Standards/WikiData/WD~product,2424752]]"
-  - "[[_Standards/WikiData/WD~noisemaker,7047745]]"
-  - "[[_Standards/WikiData/WD~pyrotechnic_device,10805684]]"
-part_of: "[[_Standards/WikiData/WD~event,1656682]]"
-has_use: "[[_Standards/WikiData/WD~fireworks_festival,2699757]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828654,22828654]]"
-topic_has_template: "[[_Standards/WikiData/WD~Model_Fireworks_pallet,92184253]]"
+- '[[_Standards/WikiData/WD~light_source,1146001]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~noisemaker,7047745]]'
+- '[[_Standards/WikiData/WD~pyrotechnic_device,10805684]]'
+part_of: '[[_Standards/WikiData/WD~event,1656682]]'
+has_use: '[[_Standards/WikiData/WD~fireworks_festival,2699757]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828654,22828654]]'
+topic_has_template: '[[_Standards/WikiData/WD~Model_Fireworks_pallet,92184253]]'
 Nomenclature_for_Museum_Cataloging: 14308
 U_S_National_Archives_Identifier: 10637257
 GS1_GPC_code: 10001216
@@ -27,14 +123,136 @@ Danbooru_tag: fireworks
 IMDb_keyword: fireworks
 name_in_kana: はなび
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Covarrubias%20%28RPS%2013-07-2014%29%20pasacalles%20pirot%C3%A9cnico.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA%20%D0%B2%20%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%BC%20%D0%BF%D0%BE%D1%80%D1%82%D1%83%20%D0%A1%D0%BE%D1%87%D0%B8%209%20%D0%BC%D0%B0%D1%8F%202015%20%D0%B3%D0%BE%D0%B4%D0%B0.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Covarrubias%20%28RPS%2013-07-2014%29%20pasacalles%20pirot%C3%A9cnico.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A4%D0%B5%D0%B9%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BA%20%D0%B2%20%D0%BC%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%BC%20%D0%BF%D0%BE%D1%80%D1%82%D1%83%20%D0%A1%D0%BE%D1%87%D0%B8%209%20%D0%BC%D0%B0%D1%8F%202015%20%D0%B3%D0%BE%D0%B4%D0%B0.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Fireworks.webm
-Unicode_character: 🎆
+Unicode_character: "\U0001F386"
 UMLS_CUI: C0336695
 hashtag: feudartifice
+dv_has_:
+  name_:
+    af: Vuurwerk
+    ang: Fȳrƿeorc
+    ar: ألعاب نارية
+    ast: fueos artificiales
+    az: fişəng
+    be: феерверк
+    be-tarask: фаервэрк
+    bg: Фойерверки
+    bjn: Kambang sarai
+    bn: আতশবাজি
+    ca: focs artificials
+    cdo: Iĕng-huă
+    chr: ᎠᏍᏆᏂᎪᏒᏗ ᏂᎦᎵᏍᏔᏂᏙᎲ
+    ckb: یاریی ئاگرین
+    co: Focu d'artifizi
+    cs: ohňostroj
+    cy: tân gwyllt
+    da: fyrværkeri
+    de: Feuerwerk
+    dsb: wognjopraskot
+    el: Πυροτέχνημα
+    en: firework
+    en-us: firework
+    eo: artfajraĵo
+    es: fuegos artificiales
+    et: ilutulestik
+    eu: su artifizialak
+    fa: آتشبازی
+    fi: ilotulite
+    fr: feu d'artifice
+    fy: Fjoerwurk
+    ga: tinte ealaíne
+    gan: 焰火
+    gan-hans: 焰火
+    gan-hant: 焰火
+    gl: Fogos de artificio
+    he: זיקוקין די-נור
+    hi: आतिशबाज़ी
+    hr: vatromet
+    hsb: wohnjostroj
+    hu: tűzijáték
+    hy: Հրավառություն
+    ia: Foco de artificio
+    id: kembang api
+    io: Pirotekno
+    is: Flugeldar
+    it: fuochi d'artificio
+    ja: 花火
+    jv: Kembang api
+    kk: мерекелік салют
+    kk-arab: مەرەكەلىك ساليۋت
+    kk-cn: مەرەكەلىك ساليۋت
+    kk-cyrl: Мерекелік салют
+    kk-kz: Мерекелік салют
+    kk-latn: merekelik salyut
+    kk-tr: Merekelik salyut
+    ko: 불꽃놀이
+    ky: фейерверк
+    la: Ignes artificiosi
+    li: Vuurwèrk
+    lt: Fejerverkai
+    lv: uguņošana
+    mai: आतिशबाजी
+    mi: pahū ahi
+    mk: огномет
+    ml: പടക്കം
+    mn: Галын наадам
+    mnw: ပၟတ်သြဴ
+    mr: आतषबाजी
+    ms: bunga api
+    my: မီးကျည်မီးပန်း
+    nan: Ian-hoé
+    nb: fyrverkeri
+    nl: vuurwerk
+    nn: fyrverkeri
+    oc: Fuòc d'artifici
+    or: ଆତସବାଜି
+    pa: ਆਤਿਸ਼ਬਾਜ਼ੀ
+    pap: Klapchi
+    pl: sztuczne ognie
+    pnb: آتش بازی
+    pt: fogos de artifício
+    ro: Artificii
+    ru: фейерверк
+    scn: Jocu di focu
+    sd: آتشبازي
+    se: riepmodolat
+    sh: Vatromet
+    si: Fireworks
+    sk: ohňostroj
+    sl: ognjemet
+    smj: dållåruson
+    smn: ávupačâlem
+    sq: Fishekziarret
+    sr: Ватромет
+    sr-ec: Ватромет
+    sr-el: Vatromet
+    sv: fyrverkeri
+    sw: Fataki
+    szl: fajerwerki
+    ta: வாணவெடி
+    tg: оташбозӣ
+    th: ดอกไม้ไฟ
+    tl: Pailaw
+    tok: kule pi open wawa
+    tr: havai fişek
+    uk: феєрверк
+    uz: mushakbozlik festivali
+    vi: pháo hoa
+    vo: Filot
+    wuu: 烟火
+    xmf: ფოიერვერკი
+    yi: פייער ווארקס
+    yue: 煙花
+    zh: 烟火
+    zh-cn: 烟火
+    zh-hans: 烟火
+    zh-hant: 煙火
+    zh-hk: 煙火
+    zh-sg: 烟火
+    zh-tw: 煙火
 ---
-
 # [[Firework]] 🎆 
 
 #is_/same_as :: [[WD~Firework,127933]] 

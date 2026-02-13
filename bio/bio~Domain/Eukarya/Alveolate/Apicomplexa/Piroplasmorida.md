@@ -1,9 +1,60 @@
 ---
 aliases:
-  - Piroplasmorida
+- Piroplasmida
+- Piroplasmorida
+- كمثريات
+- ピロプラズマ目
+- 梨形虫目
+- 梨形蟲目
+- 이형열원충류
 title: Piroplasmorida
+has_id_wikidata: Q1656634
+dv_has_:
+  name_:
+    an: Piroplasmida
+    ar: كمثريات
+    arz: كمثريات
+    ast: Piroplasmida
+    bg: Piroplasmida
+    ca: Piroplasmida
+    ceb: Piroplasmida
+    de: Piroplasmida
+    en: Piroplasmida
+    eo: Piroplasmida
+    es: Piroplasmida
+    eu: Piroplasmida
+    ext: Piroplasmida
+    fi: Piroplasmida
+    fr: Piroplasmida
+    ga: Piroplasmida
+    gl: Piroplasmida
+    ia: Piroplasmida
+    ie: Piroplasmida
+    io: Piroplasmida
+    it: Piroplasmida
+    ja: ピロプラズマ目
+    ko: 이형열원충류
+    la: Piroplasmida
+    mul: Piroplasmida
+    nl: Piroplasmida
+    oc: Piroplasmida
+    pl: Piroplasmida
+    pt: Piroplasmida
+    pt-br: Piroplasmida
+    ro: Piroplasmida
+    ru: Piroplasmida
+    sq: Piroplasmida
+    uk: Piroplasmida
+    vi: Piroplasmida
+    vo: Piroplasmida
+    war: Piroplasmida
+    zh: 梨形蟲目
+    zh-cn: 梨形虫目
+    zh-hans: 梨形虫目
+    zh-hant: 梨形蟲目
+    zh-hk: 梨形蟲目
+    zh-tw: 梨形蟲目
 ---
-
 # [[Piroplasmorida]] 
 
 ![ ](Piroplasmorida/Babesia_microti.jpg)

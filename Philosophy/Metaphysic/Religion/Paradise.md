@@ -1,25 +1,178 @@
 ---
 aliases:
+- Aljannah
+- Canet
+- cennet
+- Cənnət
+- Firdaus
+- Firdaus (Surga)
+- Jano
+- Llapa ruru kancha
+- lola
+- paradicsom
+- Paradies
+- Paradiis
+- paradijs
+- paradis
+- Paradisa
+- paradise
+- paradiso
+- Paradisu
+- Paradisus
+- Paradizo
+- Paradoz
+- paradwys
+- Paradys
+- Paradís
+- Paradîs
+- paradīze
+- Paraiso
+- Parajsa
+- paratiisi
+- paraíso
+- Pàrras
+- Raiu
+- raj
+- Rojus
+- ráj
+- Swarga
+- Vườn cực lạc
+- Çăтмах
+- Παράδεισος
+- Жәннәт
+- Ожмах
+- Рај
+- Раи
+- рай
+- Ырай
+- Ялсмале
+- җәннәт
+- Դրախտ
+- גן עדן
+- فردوس
+- فِردوس
+- پاردێز
+- پردیس
+- पैराडाइज
+- স্বর্গোদ্যান
+- სამოთხე
+- 乐园 (宗教)
+- 楽園
+- 樂園
+- 樂土
+- 낙원
+- 락원
 has_id_wikidata: Q3363340
-different_from: "[[_Standards/WikiData/WD~Paradise,225035]]"
+different_from: '[[_Standards/WikiData/WD~Paradise,225035]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mythical_location,3238337]]"
-  - "[[_Standards/WikiData/WD~otherworld,13383731]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~heaven,4489450]]"
-opposite_of: "[[_Standards/WikiData/WD~hell,564]]"
-instance_of: "[[_Standards/WikiData/WD~Garden_of_Eden,19014]]"
+- '[[_Standards/WikiData/WD~mythical_location,3238337]]'
+- '[[_Standards/WikiData/WD~otherworld,13383731]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~heaven,4489450]]'
+opposite_of: '[[_Standards/WikiData/WD~hell,564]]'
+instance_of: '[[_Standards/WikiData/WD~Garden_of_Eden,19014]]'
 Commons_category: Paradise
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jan%20Brueghel%20de%20Oude%20en%20Peter%20Paul%20Rubens%20-%20Het%20aards%20paradijs%20met%20de%20zondeval%20van%20Adam%20en%20Eva.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Suzanne%20G.%20%28BiblioCanet66%29-paradis.wav
 Colon_Classification: Q:364
+dv_has_:
+  name_:
+    an: Paradiso
+    ar: فردوس
+    az: Cənnət
+    ba: Ожмах
+    bcl: Paraiso
+    be: рай
+    be-tarask: рай
+    bg: Рай
+    bn: স্বর্গোদ্যান
+    br: Paradoz
+    bs: Raj
+    ca: Paradís
+    ckb: پاردێز
+    co: Paradisu
+    cs: ráj
+    cu: Раи
+    cv: Çăтмах
+    cy: paradwys
+    da: Paradis
+    de: Paradies
+    diq: Canet
+    el: Παράδεισος
+    en: paradise
+    eo: Paradizo
+    es: paraíso
+    et: Paradiis
+    eu: Paradisu
+    fa: پردیس
+    fi: paratiisi
+    fr: paradis
+    fur: Paradîs
+    fy: Paradys
+    gd: Pàrras
+    ha: Aljannah
+    he: גן עדן
+    hi: पैराडाइज
+    hr: Raj
+    hu: paradicsom
+    hy: Դրախտ
+    ia: Paradiso
+    id: Firdaus (Surga)
+    inh: Ялсмале
+    io: Paradizo
+    it: paradiso
+    ja: 楽園
+    jv: Swarga
+    ka: სამოთხე
+    kk: Жәннәт
+    ko: 낙원
+    ko-kp: 락원
+    ks: فِردوس
+    la: Paradisus
+    lmo: paradis
+    ln: lola
+    lt: Rojus
+    lv: paradīze
+    mg: Paradisa
+    mk: Рај
+    ms: Firdaus
+    na: Paradis
+    nb: Paradis
+    nl: paradijs
+    nn: Paradis
+    nrm: Paradis
+    oc: Paradís
+    pl: raj
+    pt: paraíso
+    qu: Llapa ruru kancha
+    ro: paradis
+    ru: рай
+    rup: Raiu
+    sah: Ырай
+    sh: Raj
+    sk: Raj
+    sl: raj
+    so: Jano
+    sq: Parajsa
+    sr: Рај
+    sv: paradis
+    sw: Paradiso
+    tl: Paraiso
+    tr: cennet
+    tt: җәннәт
+    tt-cyrl: җәннәт
+    uk: рай
+    ur: فردوس
+    vi: Vườn cực lạc
+    wuu: 乐园 (宗教)
+    yue: 樂土
+    zh: 樂園
 ---
-
 # [[Paradise]] 
 
 #is_/same_as :: [[WD~Paradise,3363340]] 

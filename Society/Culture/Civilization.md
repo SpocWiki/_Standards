@@ -1,8 +1,131 @@
 ---
 aliases:
-  - civilisation
-  - Zivilisation
-  - Civilization
+- beschaving
+- Besjaving
+- Beskaving
+- beskawing
+- Bûn-bêng
+- Ceblizaçon
+- Civilisacion
+- civilisation
+- civilització
+- civilizace
+- civilizacija
+- civilizacio
+- Civilizacion
+- civilizaciya
+- civilización
+- Civilizatio
+- Civilization
+- civilização
+- civilizație
+- Civilizácia
+- civilizáció
+- Civilizåcion
+- civilizācija
+- civiltà
+- Civìltà
+- ciwilizacija
+- cywilizacja
+- Cėvėlėzacėjė
+- Folctilþ
+- gwareiddiad
+- Haifomba
+- Hawaykawsay
+- Hwarheans
+- Ilbaximo
+- Kabihasnan
+- kulupu tomo
+- Nukunhunhun
+- Paradapan
+- Peradaban
+- Qaroomina
+- Qytetërimi
+- Sabhyata
+- sevenadurezh
+- sibhialtacht
+- Sibilisasion
+- Sibilisasyon
+- Sibilisasyón
+- Siblaizieshan
+- sivilisaatio
+- sivilisashon
+- sivilisasjon
+- sivilisasjovne
+- sivilisasjåvnnå
+- sivilisašuvdna
+- Sivilizasiya
+- Sivilizasyon
+- Siviltà
+- Siðmenning
+- Tamaddun
+- tamadun
+- tat-a̱ghyi
+- Taɣrma
+- tetãngatu
+- Trapsèla
+- Tsivilisats'uun
+- tsivilisatsioon
+- tsivilizatsiya
+- Ustaarabu
+- uygarlık
+- Vwnzmingz
+- Vùn-mìn
+- văn minh
+- Wayewa
+- Xay
+- Zibilizazio
+- Zivilisation
+- Zivilisatioun
+- Zivilisatschoon
+- zivilizazzion
+- şaristanî
+- Ɛsakuliye
+- Πολιτισμός
+- Ошондямо
+- Соёл иргэншил
+- Тамаддун
+- Цівілізація
+- цивілізація
+- Цивилизаци
+- цивилизација
+- Цивилизация
+- цывілізацыя
+- Шағын өркениеттер
+- Эргэншэл
+- Քաղաքակրթություն
+- ציוויליזאציע
+- ציוויליזציה
+- تمدن
+- تھذيب
+- تہذیب
+- حضارة
+- حضاره
+- شارستانێتی
+- مدنیت
+- مەدەنيەت
+- ߛߏߡߐ߯ߦߊ
+- लहना
+- सभ्यता
+- सांस्कृतिक सभ्यता
+- সভ্যতা
+- ਸੱਭਿਅਤਾ
+- સંસ્કૃતિ
+- நாகரிகம்
+- నాగరికత
+- ನಾಗರೀಕತೆ
+- നാഗരികത
+- ශිෂ්ටාචාරය
+- อารยธรรม
+- ອາລະຍະທຳ
+- ცივილიზაცია
+- ሥልጣኔ
+- អរិយធម៏
+- ᱥᱚᱥᱱᱚᱜ
+- 教化
+- 文明
+- ꯂꯩꯆꯥꯎꯔꯣꯜ
+- 문명
 has_id_wikidata: Q8432
 Colon_Classification: Y:1
 Commons_category: Civilizations
@@ -18,8 +141,192 @@ Provenio_UUID: aa01f293-410a-422c-b8b1-93552340f5cf
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~world_community,8036557]]'
 subclass_of: '[[_Standards/WikiData/WD~society,8425]]'
 UMLS_CUI: C0008870
+dv_has_:
+  name_:
+    af: beskawing
+    am: ሥልጣኔ
+    an: Civilización
+    ang: Folctilþ
+    ar: حضارة
+    ary: حضارة
+    arz: حضاره
+    as: সভ্যতা
+    ast: Civilización
+    av: Цивилизация
+    az: Sivilizasiya
+    azb: مدنیت
+    ba: Цивилизация
+    bcl: Sibilisasyon
+    be: цывілізацыя
+    be-tarask: цывілізацыя
+    bg: Цивилизация
+    bho: सभ्यता
+    bn: সভ্যতা
+    br: sevenadurezh
+    bs: Civilizacija
+    btm: Paradapan
+    bxr: Эргэншэл
+    ca: civilització
+    ce: Цивилизаци
+    ceb: sibilisasyon
+    ckb: شارستانێتی
+    crh: tsivilizatsiya
+    cs: civilizace
+    cy: gwareiddiad
+    da: civilisation
+    de: Zivilisation
+    diq: Sivilizasyon
+    el: Πολιτισμός
+    en: civilization
+    en-ca: civilisation
+    en-gb: civilisation
+    eo: civilizacio
+    es: civilización
+    et: tsivilisatsioon
+    eu: Zibilizazio
+    fa: تمدن
+    fi: sivilisaatio
+    fr: civilisation
+    frp: Civilisacion
+    fy: Beskaving
+    ga: sibhialtacht
+    gan: 文明
+    gcr: Sivilizasyon
+    gl: civilización
+    gn: tetãngatu
+    gsw: Zivilisation
+    gu: સંસ્કૃતિ
+    guw: Nukunhunhun
+    ha: Wayewa
+    hak: Vùn-mìn
+    he: ציוויליזציה
+    hi: सभ्यता
+    hif: Sabhyata
+    hr: civilizacija
+    hsb: ciwilizacija
+    ht: Sivilizasyon
+    hu: civilizáció
+    hy: Քաղաքակրթություն
+    ia: Civilisation
+    id: peradaban
+    ilo: Sibilisasion
+    inh: Цивилизаци
+    is: Siðmenning
+    it: civiltà
+    ja: 文明
+    jam: Siblaizieshan
+    jv: Peradaban
+    ka: ცივილიზაცია
+    kaa: civilizaciya
+    kbp: Ɛsakuliye
+    kcg: tat-a̱ghyi
+    kk: Шағын өркениеттер
+    km: អរិយធម៏
+    kn: ನಾಗರೀಕತೆ
+    knc: Civilization
+    ko: 문명
+    krc: Цивилизация
+    ku: şaristanî
+    ku-latn: şaristanî
+    kw: Hwarheans
+    ky: цивилизация
+    la: Civilizatio
+    lb: Zivilisatioun
+    li: Besjaving
+    lmo: zivilizazzion
+    lo: ອາລະຍະທຳ
+    lt: civilizacija
+    lv: civilizācija
+    lzh: 教化
+    mad: Trapsèla
+    mg: Haifomba
+    mk: цивилизација
+    ml: നാഗരികത
+    mn: Соёл иргэншил
+    mni: ꯂꯩꯆꯥꯎꯔꯣꯜ
+    mr: सांस्कृतिक सभ्यता
+    ms: tamadun
+    mwl: Ceblizaçon
+    myv: Ошондямо
+    nan: Bûn-bêng
+    nap: Civìltà
+    nb: sivilisasjon
+    nds: Zivilisatschoon
+    ne: सभ्यता
+    new: लहना
+    nl: beschaving
+    nn: sivilisasjon
+    nqo: ߛߏߡߐ߯ߦߊ
+    oc: Civilizacion
+    om: Qaroomina
+    os: цивилизаци
+    pa: ਸੱਭਿਅਤਾ
+    pap: sivilisashon
+    pl: cywilizacja
+    pms: Siviltà
+    pnb: تہذیب
+    ps: تمدن
+    pt: civilização
+    pt-br: civilização
+    qu: Hawaykawsay
+    ro: civilizație
+    ru: цивилизация
+    rue: Цівілізація
+    sa: सभ्यता
+    sah: Цивилизация
+    sat: ᱥᱚᱥᱱᱚᱜ
+    sd: تھذيب
+    se: sivilisašuvdna
+    sgs: Cėvėlėzacėjė
+    sh: civilizacija
+    shi: Taɣrma
+    si: ශිෂ්ටාචාරය
+    sk: Civilizácia
+    sl: civilizacija
+    sma: sivilisasjovne
+    smj: sivilisasjåvnnå
+    smn: sivilisaatio
+    sms: sivilisaatio
+    so: Ilbaximo
+    sq: Qytetërimi
+    sr: цивилизација
+    sr-ec: цивилизација
+    sv: civilisation
+    sw: Ustaarabu
+    ta: நாகரிகம்
+    te: నాగరికత
+    tg: Тамаддун
+    th: อารยธรรม
+    tl: Kabihasnan
+    tok: kulupu tomo
+    tr: uygarlık
+    tt: цивилизация
+    udm: цивилизация
+    ug: مەدەنيەت
+    uk: цивілізація
+    ur: تہذیب
+    uz: Tamaddun
+    vec: siviltà
+    vi: văn minh
+    vro: Tsivilisats'uun
+    wa: Civilizåcion
+    war: Sibilisasyón
+    wo: Xay
+    wuu: 文明
+    xmf: ცივილიზაცია
+    yi: ציוויליזאציע
+    yue: 文明
+    za: Vwnzmingz
+    zh: 文明
+    zh-cn: 文明
+    zh-hans: 文明
+    zh-hant: 文明
+    zh-hk: 文明
+    zh-mo: 文明
+    zh-my: 文明
+    zh-sg: 文明
+    zh-tw: 文明
 ---
-
 # [[Civilization]] 
 
 #is_/same_as :: [[../../WikiData/WD~Civilization,8432|WD~Civilization,8432]] 

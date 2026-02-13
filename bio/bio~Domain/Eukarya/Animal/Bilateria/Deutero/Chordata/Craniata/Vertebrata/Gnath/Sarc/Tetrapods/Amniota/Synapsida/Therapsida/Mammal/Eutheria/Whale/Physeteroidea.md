@@ -1,4 +1,77 @@
-
+---
+has_id_wikidata: Q21446362
+dv_has_:
+  name_:
+    an: Physeteroidea
+    ar: حيتان العنبر
+    arz: حيتان العنبر
+    ast: Physeteroidea
+    bg: Physeteroidea
+    ca: fiseteroïdeus
+    ceb: Physeteroidea
+    cs: Physeteroidea
+    de: Physeteroidea
+    el: Φυσητηροείδη
+    en: Physeteroidea
+    eo: Kaĉalotedoj
+    es: Physeteroidea
+    eu: Physeteroidea
+    ext: Physeteroidea
+    fa: شاهنهنگیان
+    fi: Physeteroidea
+    fr: Physeteroidea
+    ga: Physeteroidea
+    gl: Fiseteroideos
+    he: דמויי ראשתן
+    hu: Physeteroidea
+    ia: Physeteroidea
+    id: Physeteroidea
+    ie: Physeteroidea
+    io: Physeteroidea
+    it: Physeteroidea
+    ja: マッコウクジラ科
+    ko: 향고래상과
+    la: Physeteroidea
+    lv: kašalotu virsdzimta
+    mk: кашалоти
+    mul: Physeteroidea
+    nb: Spermasetthvaler
+    nl: Physeteroidea
+    oc: Physeteroidea
+    pl: Physeteroidea
+    pt: Physeteroidea
+    pt-br: Physeteroidea
+    ro: Physeteroidea
+    ru: Physeteroidea
+    sl: Physeteroidea
+    sq: Kashalotët
+    uk: Physeteroidea
+    vi: Liên họ Cá nhà táng
+    vo: Physeteroidea
+    war: Physeteroidea
+    zh: 抹香鯨總科
+    zh-cn: 抹香鲸总科
+    zh-hans: 抹香鲸总科
+    zh-tw: 抹香鯨總科
+aliases:
+- Fiseteroideos
+- fiseteroïdeus
+- Kashalotët
+- Kaĉalotedoj
+- kašalotu virsdzimta
+- Liên họ Cá nhà táng
+- Physeteroidea
+- Spermasetthvaler
+- Φυσητηροείδη
+- кашалоти
+- דמויי ראשתן
+- حيتان العنبر
+- شاهنهنگیان
+- マッコウクジラ科
+- 抹香鯨總科
+- 抹香鲸总科
+- 향고래상과
+---
 # [[Physeteroidea]] 
 
 #is_/same_as :: [[Physeteroidea,]]

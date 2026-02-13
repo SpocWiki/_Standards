@@ -1,33 +1,180 @@
 ---
 aliases:
-  - Skin
+- Agbasa
+- aglim
+- Akpalek
+- awọ
+- balat
+- banges
+- baog
+- Bawak
+- bákgà
+- bőr
+- chamrra
+- cheali
+- craiceann
+- croen
+- cuetlaxtli
+- cute
+- cutis
+- da
+- deri
+- dəri
+- fata
+- ganda
+- gbaŋ
+- Haut
+- haŭto
+- hoditra
+- hoed
+- hud
+- huid
+- Huut
+- húð
+- hûd
+- igbagɔ
+- iho
+- ilm
+- janchi lip'ichi
+- kkūra
+- kneus
+- Kolè'
+- koža
+- kroc'hen
+- kublit
+- kudil
+- kueru
+- kuli
+- kulimbit
+- kulit
+- kwa
+- kůže
+- lapo
+- larruazal
+- leʹšǩǩ
+- liiki
+- liške
+- lomposo
+- lëkura
+- maqaar
+- naeng
+- nahk
+- ngozi
+- ocaki
+- oda
+- panit
+- pea
+- peau
+- peddi
+- pel
+- pele
+- pell
+- pelle
+- pelo
+- phoê-hu
+- phì-fû
+- piel
+- piele
+- pire
+- po
+- postık
+- puòi-hŭ
+- pèu
+- pé
+- qara
+- selo
+- Skin
+- skóra
+- teri
+- tɔnʊʊ
+- tері
+- uviñiq
+- vel
+- çerm
+- āda
+- δέρμα
+- арсн
+- арьс
+- арһан
+- бурчу
+- кедь
+- кожа
+- кожни систем
+- ку
+- пӯст
+- скура
+- тери
+- тир
+- тире
+- тирии
+- хъал
+- шкіра
+- մաշկ
+- הויט
+- עור
+- تېرە
+- جلد
+- دری
+- مٕسلہٕ
+- پوست
+- پوستکی
+- پێست
+- کل
+- کھل
+- ܓܠܕܐ
+- ހަން
+- ߜߏ߬ߟߏ
+- चर्म
+- छाला
+- छ्येंगु
+- जैविक त्वचा
+- त्वचा
+- চামড়া
+- চৰ্ম
+- ਖੱਲ
+- தோல்
+- చర్మము
+- ಚರ್ಮ
+- ചർമ്മം
+- ผิวหนัง
+- အရီပြား
+- အရေပြား
+- კანი
+- ቆዳ
+- ᒪᓴᑲᕀ
+- ᠰᡠᡴᡡ
+- ᱦᱟᱨᱛᱟ
+- 皮
+- 皮肤
+- 皮膚
+- 피부
 has_id_wikidata: Q1074
 studied_by: '[[_Standards/WikiData/WD~dermatology,171171]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~epidermis,212743]]'
-  - '[[_Standards/WikiData/WD~dermis,505531]]'
+- '[[_Standards/WikiData/WD~epidermis,212743]]'
+- '[[_Standards/WikiData/WD~dermis,505531]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~animal_product,629103]]'
-  - '[[_Standards/WikiData/WD~sensory_organ,3355930]]'
-  - '[[_Standards/WikiData/WD~animal_organ,24060765]]'
-  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~animal_product,629103]]'
+- '[[_Standards/WikiData/WD~sensory_organ,3355930]]'
+- '[[_Standards/WikiData/WD~animal_organ,24060765]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 has_characteristic: '[[_Standards/WikiData/WD~complexion,1146989]]'
 has_use: '[[_Standards/WikiData/WD~protection,2251595]]'
 different_from:
-  - '[[_Standards/WikiData/WD~human_skin,5259911]]'
-  - '[[_Standards/WikiData/WD~leather,286]]'
+- '[[_Standards/WikiData/WD~human_skin,5259911]]'
+- '[[_Standards/WikiData/WD~leather,286]]'
 development_of_anatomical_structure: '[[_Standards/WikiData/WD~skin_development,14599571]]'
 connects_with: '[[_Standards/WikiData/WD~subcutaneous_bursa,29079566]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~organ_type,103812529]]'
-  - '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 OmegaWiki_Defined_Meaning: 3430
 Commons_category: Skin
 TA98_Latin_term: cutis
@@ -37,8 +184,201 @@ Iconclass_notation: 49G614
 MeSH_tree_code: A17.815
 Krugosvet_article_archived_: biologiya/kozha
 Colon_Classification: L87
+dv_has_:
+  name_:
+    af: vel
+    am: ቆዳ
+    an: piel
+    ann: Akpalek
+    ar: جلد
+    arc: ܓܠܕܐ
+    as: চৰ্ম
+    ast: piel
+    atj: ocaki
+    av: хъал
+    ay: janchi lip'ichi
+    az: dəri
+    azb: دری
+    ba: тире
+    bcl: kublit
+    bdr: Kulit
+    be: скура
+    be-tarask: скура
+    bew: Kulit
+    bg: кожа
+    bjn: kulimbit
+    bn: চামড়া
+    br: kroc'hen
+    bs: koža
+    bxr: арһан
+    ca: pell
+    cdo: puòi-hŭ
+    ckb: پێست
+    cr: ᒪᓴᑲᕀ
+    crh: teri
+    cs: kůže
+    cv: тир
+    cy: croen
+    da: hud
+    dag: gbaŋ
+    de: Haut
+    de-ch: Haut
+    diq: postık
+    dv: ހަން
+    el: δέρμα
+    en: skin
+    en-ca: skin
+    en-gb: skin
+    eo: haŭto
+    es: piel
+    et: nahk
+    eu: larruazal
+    ext: piel
+    fa: پوست
+    fi: iho
+    fj: kuli
+    fo: húð
+    fr: peau
+    fy: hûd
+    ga: craiceann
+    gcr: lapo
+    gd: craiceann
+    gl: pel
+    gn: pire
+    gsw: Haut
+    gur: igbagɔ
+    guw: Agbasa
+    ha: fata
+    hak: phì-fû
+    he: עור
+    hi: त्वचा
+    hif: chamrra
+    hr: koža
+    ht: po
+    hu: bőr
+    hy: մաշկ
+    ia: cute
+    id: kulit
+    ik: uviñiq
+    ilo: kudil
+    io: pelo
+    is: húð
+    it: pelle
+    ja: 皮膚
+    jv: kulit
+    ka: კანი
+    kab: aglim
+    kbp: tɔnʊʊ
+    kcg: kwa
+    kge: Bawak
+    kk: tері
+    kn: ಚರ್ಮ
+    ko: 피부
+    ks: مٕسلہٕ
+    ku: çerm
+    kw: kneus
+    ky: тери
+    la: cutis
+    lb: Haut
+    lbe: бурчу
+    lfn: pel
+    li: hoed
+    lmo: pell
+    ln: lomposo
+    lt: oda
+    lv: āda
+    mad: Kolè'
+    mcn: bákgà
+    mg: hoditra
+    mk: кожа
+    ml: ചർമ്മം
+    mn: арьс
+    mnc: ᠰᡠᡴᡡ
+    mr: जैविक त्वचा
+    ms: kulit
+    my: အရေပြား
+    myv: кедь
+    nah: cuetlaxtli
+    nan: phoê-hu
+    nb: hud
+    nds: Huut
+    ne: छाला
+    new: छ्येंगु
+    nl: huid
+    nn: hud
+    nqo: ߜߏ߬ߟߏ
+    nrm: pé
+    oc: pèu
+    pa: ਖੱਲ
+    pag: baog
+    pam: balat
+    pap: kueru
+    pl: skóra
+    pms: Pel
+    pnb: کھل
+    ps: پوستکی
+    pt: pele
+    pt-br: pele
+    qu: qara
+    rki: အရီပြား
+    rm: pel
+    ro: piele
+    ru: кожа
+    rup: cheali
+    sa: चर्म
+    sah: тирии
+    sat: ᱦᱟᱨᱛᱟ
+    scn: peddi
+    sco: skin
+    sd: کل
+    se: liiki
+    sgs: kkūra
+    sh: koža
+    shi: ilm
+    sk: koža
+    sl: koža
+    smn: liške
+    sms: leʹšǩǩ
+    sn: ganda
+    so: maqaar
+    sq: lëkura
+    sr: кожни систем
+    sr-ec: кожни систем
+    su: kulit
+    sv: hud
+    sw: ngozi
+    szy: banges
+    ta: தோல்
+    te: చర్మము
+    tg: пӯст
+    th: ผิวหนัง
+    tl: balat
+    tok: selo
+    tr: deri
+    tt: тире
+    tt-cyrl: тире
+    udm: ку
+    ug: تېرە
+    uk: шкіра
+    ur: جلد
+    uz: teri
+    vec: pele
+    vep: nahk
+    vi: da
+    vro: nahk
+    wa: pea
+    war: panit
+    wuu: 皮肤
+    xal: арсн
+    yi: הויט
+    yo: awọ
+    yue: 皮
+    za: naeng
+    zh: 皮膚
+    zh-hans: 皮肤
+    zh-hant: 皮膚
+    zh-tw: 皮膚
 ---
-
 # [[Skin]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Skin,1074|WD~Skin,1074]] 

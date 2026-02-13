@@ -1,87 +1,122 @@
 ---
 aliases:
-  - Johannes Erwin Eugen Rommel
-  - Erwin Rommel
-  - Rommel
-  - Erwin_Rommel
-  - Desert Fox
-  - Wüstenfuchs
-  - Rommel,Erwin
+- Desert Fox
+- Ervin Romel
+- Ervin Rommel
+- Ervins Rommels
+- Ervinus Rommel
+- Erwin Rommel
+- Erwin_Rommel
+- Johannes Erwin Eugen Rommel
+- Rommel
+- Rommel,Erwin
+- Wüstenfuchs
+- Έρβιν Ρόμμελ
+- Ервін Роммель
+- Ервин Ромел
+- Эрвін Ромель
+- Эрвін Ромэль
+- Эрвин Роммель
+- Էրվին Ռոմմել
+- ארווין רומל
+- ערווין ראמעל
+- إرفين رومل
+- ئىرۋىن روممىل
+- ئێرڤین ڕۆمل
+- اروین رومل
+- اْرڤین رومل
+- جنرل رومیل
+- رومل
+- فیلڈ مارشل رومیل
+- एर्विन रोमेल
+- এর্ভিন রমেল
+- ਇਰਵਿਨ ਰੋਮਲ
+- இர்வின் ரோமெல்
+- എർവിൻ റോമെൽ
+- แอร์วีน ร็อมเมิล
+- ရွမ်းမဲ၊ အားဝင်း
+- ერვინ რომელი
+- លោក អ៊ែរវីន រ៉ូមមែល
+- エルヴィン・ロンメル
+- 埃尔温·隆美尔
+- 埃爾溫·隆美爾
+- 隆美爾
+- 에르빈 롬멜
 has_id_wikidata: Q14060
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Lutheranism,75809]]'
-  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
+- '[[_Standards/WikiData/WD~Lutheranism,75809]]'
+- '[[_Standards/WikiData/WD~Protestantism,23540]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Honour_Cross_of_the_World_War_1914_1918,120758]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
-  - '[[_Standards/WikiData/WD~Wehrmacht_Long_Service_Award,520140]]'
-  - '[[_Standards/WikiData/WD~Order_of_Military_Merit_(Württemberg),661851]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Order,684511]]'
-  - '[[_Standards/WikiData/WD~Sudetenland_Medal,688857]]'
-  - '[[_Standards/WikiData/WD~Military_Merit_Order_(Bavaria),690107]]'
-  - '[[_Standards/WikiData/WD~Memel_Medal,690287]]'
-  - '[[_Standards/WikiData/WD~Military_Merit_Cross,701262]]'
-  - '[[_Standards/WikiData/WD~Order_of_Michael_the_Brave,1536698]]'
-  - '[[_Standards/WikiData/WD~Clasp_to_the_Iron_Cross,1754284]]'
-  - "[[_Standards/WikiData/WD~Knight's_Cross_of_the_Iron_Cross_with_Oak_Leaves,_Swords_and_Diamonds,3003470]]"
-  - '[[_Standards/WikiData/WD~Iron_Cross_1st_Class,11353044]]'
-  - '[[_Standards/WikiData/WD~Iron_Cross_2nd_Class,11371757]]'
-  - '[[_Standards/WikiData/WD~Silver_Medal_of_Military_Valour,13426499]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Military_Order_of_Savoy,14763430]]'
-  - '[[_Standards/WikiData/WD~Military_Merit_Cross_III._Class,15831416]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Colonial_Order_of_the_Star_of_Italy,39748286]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Württemberg_Military_Order_of_Merit,100997212]]'
-  - '[[_Standards/WikiData/WD~Wound_Badge_(1918)_in_Silver,130343742]]'
+- '[[_Standards/WikiData/WD~Honour_Cross_of_the_World_War_1914_1918,120758]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite,156478]]'
+- '[[_Standards/WikiData/WD~Wehrmacht_Long_Service_Award,520140]]'
+- '[[_Standards/WikiData/WD~Order_of_Military_Merit_(Württemberg),661851]]'
+- '[[_Standards/WikiData/WD~Friedrich_Order,684511]]'
+- '[[_Standards/WikiData/WD~Sudetenland_Medal,688857]]'
+- '[[_Standards/WikiData/WD~Military_Merit_Order_(Bavaria),690107]]'
+- '[[_Standards/WikiData/WD~Memel_Medal,690287]]'
+- '[[_Standards/WikiData/WD~Military_Merit_Cross,701262]]'
+- '[[_Standards/WikiData/WD~Order_of_Michael_the_Brave,1536698]]'
+- '[[_Standards/WikiData/WD~Clasp_to_the_Iron_Cross,1754284]]'
+- "[[_Standards/WikiData/WD~Knight's_Cross_of_the_Iron_Cross_with_Oak_Leaves,_Swords_and_Diamonds,3003470]]"
+- '[[_Standards/WikiData/WD~Iron_Cross_1st_Class,11353044]]'
+- '[[_Standards/WikiData/WD~Iron_Cross_2nd_Class,11371757]]'
+- '[[_Standards/WikiData/WD~Silver_Medal_of_Military_Valour,13426499]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Military_Order_of_Savoy,14763430]]'
+- '[[_Standards/WikiData/WD~Military_Merit_Cross_III._Class,15831416]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Colonial_Order_of_the_Star_of_Italy,39748286]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Württemberg_Military_Order_of_Merit,100997212]]'
+- '[[_Standards/WikiData/WD~Wound_Badge_(1918)_in_Silver,130343742]]'
 commander_of_DEPRECATED_:
-  - '[[_Standards/WikiData/WD~Afrika_Korps,153113]]'
-  - '[[_Standards/WikiData/WD~Army_Group_B,157572]]'
-  - '[[_Standards/WikiData/WD~Panzer_Army_Africa,175346]]'
-  - '[[_Standards/WikiData/WD~7th_Panzer_Division,260811]]'
+- '[[_Standards/WikiData/WD~Afrika_Korps,153113]]'
+- '[[_Standards/WikiData/WD~Army_Group_B,157572]]'
+- '[[_Standards/WikiData/WD~Panzer_Army_Africa,175346]]'
+- '[[_Standards/WikiData/WD~7th_Panzer_Division,260811]]'
 military_branch:
-  - '[[_Standards/WikiData/WD~Reichswehr,157608]]'
-  - '[[_Standards/WikiData/WD~Imperial_German_Army,313422]]'
-  - '[[_Standards/WikiData/WD~German_Army,701923]]'
-  - '[[_Standards/WikiData/WD~Württembergische_Sicherheitstruppen,2596869]]'
+- '[[_Standards/WikiData/WD~Reichswehr,157608]]'
+- '[[_Standards/WikiData/WD~Imperial_German_Army,313422]]'
+- '[[_Standards/WikiData/WD~German_Army,701923]]'
+- '[[_Standards/WikiData/WD~Württembergische_Sicherheitstruppen,2596869]]'
 occupation: '[[_Standards/WikiData/WD~military_officer,189290]]'
 place_of_burial: '[[_Standards/WikiData/WD~Herrlingen,224701]]'
 place_of_death: '[[_Standards/WikiData/WD~Herrlingen,224701]]'
 cause_of_death: '[[_Standards/WikiData/WD~cyanide_poisoning,883082]]'
 relative: '[[_Standards/WikiData/WD~Karl_Luz,1733637]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Johannes,2117521]]'
-  - '[[_Standards/WikiData/WD~Erwin,16747215]]'
-  - '[[_Standards/WikiData/WD~Eugen,18012526]]'
+- '[[_Standards/WikiData/WD~Johannes,2117521]]'
+- '[[_Standards/WikiData/WD~Erwin,16747215]]'
+- '[[_Standards/WikiData/WD~Eugen,18012526]]'
 manner_of_death:
-  - '[[_Standards/WikiData/WD~forced_suicide,2746270]]'
-  - '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~forced_suicide,2746270]]'
+- '[[_Standards/WikiData/WD~suicide,10737]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~general_field_marshal,7820253]]'
 spouse: '[[_Standards/WikiData/WD~Lucia_Maria_Rommel,11986896]]'
 family_name: '[[_Standards/WikiData/WD~Q16882255,16882255]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Erwin_Rommel,47512202]]'
-  - '[[_Standards/WikiData/WD~Erwin_Rommel_(1891_1944),_in_Egypt,119796636]]'
+- '[[_Standards/WikiData/WD~Erwin_Rommel,47512202]]'
+- '[[_Standards/WikiData/WD~Erwin_Rommel_(1891_1944),_in_Egypt,119796636]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikiproject_Nuremberg_Trials,100137722]]'
 date_of_birth: 1891-11-15T00:00:00Z
 place_of_birth: '[[_Standards/WikiData/WD~Heidenheim_an_der_Brenz,6869]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
-  - '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
-  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~Nazi_Germany,7318]]'
+- '[[_Standards/WikiData/WD~Weimar_Republic,41304]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 child: '[[_Standards/WikiData/WD~Manfred_Rommel,57952]]'
 nickname:
-  - Desert Fox
-  - Αλεπού της Ερήμου
-  - Ørkenreven
-  - ökenräven
-  - Wüstenfuchs
-  - Liška pouště
-  - Renard du désert
+- Desert Fox
+- Αλεπού της Ερήμου
+- Ørkenreven
+- ökenräven
+- Wüstenfuchs
+- Liška pouště
+- Renard du désert
 Commons_category: Erwin Rommel
 Commons_gallery: Erwin Rommel
 date_of_death: 1944-10-14T00:00:00Z
@@ -96,8 +131,109 @@ U_S_National_Archives_Identifier: 10580774
 Libris_URI: mkz26705481v3vx
 name_in_native_language: Erwin Rommel
 birth_name: Johannes Erwin Eugen Rommel
+dv_has_:
+  name_:
+    af: Erwin Rommel
+    an: Erwin Rommel
+    ar: إرفين رومل
+    arz: رومل
+    ast: Erwin Rommel
+    az: Ervin Rommel
+    be: Эрвін Ромель
+    be-tarask: Эрвін Ромэль
+    bg: Ервин Ромел
+    bn: এর্ভিন রমেল
+    br: Erwin Rommel
+    bs: Erwin Rommel
+    ca: Erwin Rommel
+    ceb: Erwin Rommel
+    ckb: ئێرڤین ڕۆمل
+    cs: Erwin Rommel
+    cv: Эрвин Роммель
+    cy: Erwin Rommel
+    da: Erwin Rommel
+    de: Erwin Rommel
+    el: Έρβιν Ρόμμελ
+    en: Erwin Rommel
+    eo: Erwin Rommel
+    es: Erwin Rommel
+    et: Erwin Rommel
+    eu: Erwin Rommel
+    fa: اروین رومل
+    fi: Erwin Rommel
+    fr: Erwin Rommel
+    fy: Erwin Rommel
+    ga: Erwin Rommel
+    gl: Erwin Rommel
+    gsw: Erwin Rommel
+    he: ארווין רומל
+    hr: Erwin Rommel
+    hu: Erwin Rommel
+    hy: Էրվին Ռոմմել
+    id: Erwin Rommel
+    io: Erwin Rommel
+    is: Erwin Rommel
+    it: Erwin Rommel
+    ja: エルヴィン・ロンメル
+    ka: ერვინ რომელი
+    km: លោក អ៊ែរវីន រ៉ូមមែល
+    ko: 에르빈 롬멜
+    ku: Erwin Rommel
+    la: Ervinus Rommel
+    lb: Erwin Rommel
+    lmo: Erwin Rommel
+    lrc: اْرڤین رومل
+    lt: Erwin Rommel
+    lv: Ervins Rommels
+    lzh: 隆美爾
+    mg: Erwin Rommel
+    mk: Ервин Ромел
+    ml: എർവിൻ റോമെൽ
+    mn: Эрвин Роммель
+    mr: एर्विन रोमेल
+    ms: Erwin Rommel
+    mul: Erwin Rommel
+    my: ရွမ်းမဲ၊ အားဝင်း
+    nan: Erwin Rommel
+    nb: Erwin Rommel
+    nl: Erwin Rommel
+    nn: Erwin Rommel
+    oc: Erwin Rommel
+    pa: ਇਰਵਿਨ ਰੋਮਲ
+    pl: Erwin Rommel
+    pnb: جنرل رومیل
+    pt: Erwin Rommel
+    pt-br: Erwin Rommel
+    ro: Erwin Rommel
+    ru: Эрвин Роммель
+    sco: Erwin Rommel
+    sh: Erwin Rommel
+    sk: Erwin Rommel
+    sl: Erwin Rommel
+    sq: Erwin Rommel
+    sr: Ервин Ромел
+    sr-ec: Ервин Ромел
+    sr-el: Ervin Romel
+    sv: Erwin Rommel
+    ta: இர்வின் ரோமெல்
+    th: แอร์วีน ร็อมเมิล
+    tr: Erwin Rommel
+    ug: ئىرۋىن روممىل
+    uk: Ервін Роммель
+    ur: فیلڈ مارشل رومیل
+    uz: Ervin Rommel
+    vi: Erwin Rommel
+    war: Erwin Rommel
+    wuu: 埃尔温·隆美尔
+    yi: ערווין ראמעל
+    yue: 隆美爾
+    zh: 埃尔温·隆美尔
+    zh-cn: 埃尔温·隆美尔
+    zh-hans: 埃尔温·隆美尔
+    zh-hant: 埃爾溫·隆美爾
+    zh-hk: 埃爾溫·隆美爾
+    zh-tw: 埃爾溫·隆美爾
 ---
-
 # [[Rommel,Erwin]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Erwin_Rommel,14060|WD~Erwin_Rommel,14060]] 

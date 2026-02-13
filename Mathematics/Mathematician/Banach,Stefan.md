@@ -1,86 +1,108 @@
 ---
 aliases:
-  - Stefan Banach
-  - Banach
-  - Stefan_Banach
-  - Banach,Stefan
+- Banach
+- Banach,Stefan
+- Banax Stefan
+- Stefan Banach
+- Stefan Banah
+- Stefan Banax
+- Stefan Barnax
+- Stefans Banahs
+- Stefan_Banach
+- Stephanus Banach
+- Στέφαν Μπάναχ
+- Банах Стефан
+- Стефан Банах
+- Стэфан Банах
+- Ստեֆան Բանախ
+- סטפן בנך
+- ئێستێفان باناخ
+- استفان باناخ
+- ستيفان باناخ
+- ستيفن باناخ
+- স্টেফান বানাখ
+- ಸ್ಟೀಫನ್ ಬಾನಾಕ್
+- სტეფან ბანახი
+- ステファン・バナフ
+- 斯特凡·巴拿赫
+- 스테판 바나흐
 has_id_wikidata: Q180217
 field_of_work:
-  - '[[_Standards/WikiData/WD~integral,80091]]'
-  - '[[_Standards/WikiData/WD~functional_analysis,190549]]'
-  - '[[_Standards/WikiData/WD~Banach_space,194397]]'
-  - '[[_Standards/WikiData/WD~measure_theory,15614122]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~set_theory,12482]]'
-  - '[[_Standards/WikiData/WD~topology,42989]]'
+- '[[_Standards/WikiData/WD~integral,80091]]'
+- '[[_Standards/WikiData/WD~functional_analysis,190549]]'
+- '[[_Standards/WikiData/WD~Banach_space,194397]]'
+- '[[_Standards/WikiData/WD~measure_theory,15614122]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~set_theory,12482]]'
+- '[[_Standards/WikiData/WD~topology,42989]]'
 employer:
-  - '[[_Standards/WikiData/WD~Lviv_University,80207]]'
-  - '[[_Standards/WikiData/WD~Lviv_Polytechnic,1817355]]'
+- '[[_Standards/WikiData/WD~Lviv_University,80207]]'
+- '[[_Standards/WikiData/WD~Lviv_Polytechnic,1817355]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Lviv_University,80207]]'
-  - '[[_Standards/WikiData/WD~Jagiellonian_University,189441]]'
-  - '[[_Standards/WikiData/WD~Lviv_Polytechnic,1817355]]'
-  - '[[_Standards/WikiData/WD~Bartłomiej_Nowodworski_High_School,4865820]]'
-  - '[[_Standards/WikiData/WD~IV_Liceum_i_Gimnazjum_im._Henryka_Sienkiewicza_w_Krakowie,48862801]]'
+- '[[_Standards/WikiData/WD~Lviv_University,80207]]'
+- '[[_Standards/WikiData/WD~Jagiellonian_University,189441]]'
+- '[[_Standards/WikiData/WD~Lviv_Polytechnic,1817355]]'
+- '[[_Standards/WikiData/WD~Bartłomiej_Nowodworski_High_School,4865820]]'
+- '[[_Standards/WikiData/WD~IV_Liceum_i_Gimnazjum_im._Henryka_Sienkiewicza_w_Krakowie,48862801]]'
 award_received: '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
-  - '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
-  - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
-  - '[[_Standards/WikiData/WD~Reichskommissariat_Ukraine,46315]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Soviet_Socialist_Republic,133356]]'
+- '[[_Standards/WikiData/WD~Second_Polish_Republic,207272]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~Reichskommissariat_Ukraine,46315]]'
 occupation:
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 interested_in: '[[_Standards/WikiData/WD~functional_analysis,190549]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Banach_space,194397]]'
-  - '[[_Standards/WikiData/WD~Banach_fixed_point_theorem,220680]]'
-  - '[[_Standards/WikiData/WD~Banach_Alaoglu_theorem,537618]]'
-  - '[[_Standards/WikiData/WD~Banach_Tarski_paradox,737851]]'
-  - '[[_Standards/WikiData/WD~Banach_Mazur_compactum,806050]]'
-  - '[[_Standards/WikiData/WD~Banach_Saks_property,806048]]'
-  - '[[_Standards/WikiData/WD~Banach_limit,806060]]'
-  - '[[_Standards/WikiData/WD~Banach_algebra,806066]]'
-  - '[[_Standards/WikiData/WD~Hahn_Banach_theorem,866116]]'
-  - '[[_Standards/WikiData/WD~open_mapping_theorem,944297]]'
-  - '[[_Standards/WikiData/WD~uniform_boundedness_principle,1426292]]'
-  - '[[_Standards/WikiData/WD~Banach_Mackey_theorem,2226587]]'
-  - '[[_Standards/WikiData/WD~Banach_Mazur_theorem,2226610]]'
-  - '[[_Standards/WikiData/WD~Banach_Mazur_game,3459695]]'
-  - '[[_Standards/WikiData/WD~Banach_manifold,3554819]]'
-  - '[[_Standards/WikiData/WD~Banach_Stone_theorem,4853767]]'
-  - '[[_Standards/WikiData/WD~Banach_measure,4853764]]'
-  - '[[_Standards/WikiData/WD~Banach_lattice,30676598]]'
-  - '[[_Standards/WikiData/WD~Surjection_of_Fréchet_spaces,96407039]]'
+- '[[_Standards/WikiData/WD~Banach_space,194397]]'
+- '[[_Standards/WikiData/WD~Banach_fixed_point_theorem,220680]]'
+- '[[_Standards/WikiData/WD~Banach_Alaoglu_theorem,537618]]'
+- '[[_Standards/WikiData/WD~Banach_Tarski_paradox,737851]]'
+- '[[_Standards/WikiData/WD~Banach_Mazur_compactum,806050]]'
+- '[[_Standards/WikiData/WD~Banach_Saks_property,806048]]'
+- '[[_Standards/WikiData/WD~Banach_limit,806060]]'
+- '[[_Standards/WikiData/WD~Banach_algebra,806066]]'
+- '[[_Standards/WikiData/WD~Hahn_Banach_theorem,866116]]'
+- '[[_Standards/WikiData/WD~open_mapping_theorem,944297]]'
+- '[[_Standards/WikiData/WD~uniform_boundedness_principle,1426292]]'
+- '[[_Standards/WikiData/WD~Banach_Mackey_theorem,2226587]]'
+- '[[_Standards/WikiData/WD~Banach_Mazur_theorem,2226610]]'
+- '[[_Standards/WikiData/WD~Banach_Mazur_game,3459695]]'
+- '[[_Standards/WikiData/WD~Banach_manifold,3554819]]'
+- '[[_Standards/WikiData/WD~Banach_Stone_theorem,4853767]]'
+- '[[_Standards/WikiData/WD~Banach_measure,4853764]]'
+- '[[_Standards/WikiData/WD~Banach_lattice,30676598]]'
+- '[[_Standards/WikiData/WD~Surjection_of_Fréchet_spaces,96407039]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Hugo_Steinhaus,226072]]'
-  - '[[_Standards/WikiData/WD~Kazimierz_Twardowski,381994]]'
+- '[[_Standards/WikiData/WD~Hugo_Steinhaus,226072]]'
+- '[[_Standards/WikiData/WD~Kazimierz_Twardowski,381994]]'
 student:
-  - '[[_Standards/WikiData/WD~Stanisław_Ulam,234357]]'
-  - '[[_Standards/WikiData/WD~Josef_Schreier,10308559]]'
-  - '[[_Standards/WikiData/WD~Marceli_Stark,37737943]]'
+- '[[_Standards/WikiData/WD~Stanisław_Ulam,234357]]'
+- '[[_Standards/WikiData/WD~Josef_Schreier,10308559]]'
+- '[[_Standards/WikiData/WD~Marceli_Stark,37737943]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Antoni_Łomnicki,598173]]'
-  - '[[_Standards/WikiData/WD~Jules_Mien,16563889]]'
+- '[[_Standards/WikiData/WD~Antoni_Łomnicki,598173]]'
+- '[[_Standards/WikiData/WD~Jules_Mien,16563889]]'
 doctoral_student: '[[_Standards/WikiData/WD~Stanisław_Mazur,637176]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 member_of:
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences_of_Ukraine,958769]]'
-  - '[[_Standards/WikiData/WD~Warsaw_Scientific_Society,1786992]]'
-  - '[[_Standards/WikiData/WD~Polish_Mathematical_Society,2063277]]'
-  - '[[_Standards/WikiData/WD~Polish_Academy_of_Learning,2092629]]'
-  - '[[_Standards/WikiData/WD~Lwów_Scientific_Society,6706991]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences_of_Ukraine,958769]]'
+- '[[_Standards/WikiData/WD~Warsaw_Scientific_Society,1786992]]'
+- '[[_Standards/WikiData/WD~Polish_Mathematical_Society,2063277]]'
+- '[[_Standards/WikiData/WD~Polish_Academy_of_Learning,2092629]]'
+- '[[_Standards/WikiData/WD~Lwów_Scientific_Society,6706991]]'
 place_of_burial: '[[_Standards/WikiData/WD~Lychakiv_Cemetery,1316721]]'
 part_of:
-  - '[[_Standards/WikiData/WD~list_of_Polish_people,3279368]]'
-  - '[[_Standards/WikiData/WD~list_of_Polish_mathematicians,6594410]]'
+- '[[_Standards/WikiData/WD~list_of_Polish_people,3279368]]'
+- '[[_Standards/WikiData/WD~list_of_Polish_mathematicians,6594410]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 given_name: '[[_Standards/WikiData/WD~Stefan,4927128]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 has_list: '[[_Standards/WikiData/WD~list_of_things_named_after_Stefan_Banach,24962261]]'
 family_name: '[[_Standards/WikiData/WD~Banach,27870133]]'
 academic_thesis: '[[_Standards/WikiData/WD~Q61772961,61772961]]'
@@ -88,8 +110,8 @@ spouse: '[[_Standards/WikiData/WD~Łucja_Braus,109379777]]'
 date_of_birth: 1892-03-30T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~Polish,809]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Polish,809]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 native_language: '[[_Standards/WikiData/WD~Polish,809]]'
 place_of_birth: '[[_Standards/WikiData/WD~Kraków,31487]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -109,8 +131,93 @@ Libris_URI: r2gr7jl5p7547hvr
 Regensburg_Classification: SF 1180
 name_in_native_language: Stefan Banach
 date_of_death: 1945-08-31T00:00:00Z
+dv_has_:
+  name_:
+    an: Stefan Banach
+    ar: ستيفان باناخ
+    arz: ستيفن باناخ
+    ast: Stefan Banach
+    az: Stefan Banax
+    azb: استفان باناخ
+    be: Стэфан Банах
+    be-tarask: Стэфан Банах
+    bg: Стефан Банах
+    bn: স্টেফান বানাখ
+    ca: Stefan Banach
+    ckb: ئێستێفان باناخ
+    co: Stefan Banach
+    cs: Stefan Banach
+    cv: Банах Стефан
+    cy: Stefan Banach
+    de: Stefan Banach
+    dsb: Stefan Banach
+    el: Στέφαν Μπάναχ
+    en: Stefan Banach
+    en-ca: Stefan Banach
+    en-gb: Stefan Banach
+    eo: Stefan Banach
+    es: Stefan Banach
+    et: Stefan Banach
+    eu: Stefan Banach
+    fa: استفان باناخ
+    fi: Stefan Banach
+    fr: Stefan Banach
+    fur: Stefan Banach
+    fy: Stefan Banach
+    ga: Stefan Banach
+    gl: Stefan Banach
+    he: סטפן בנך
+    hr: Stefan Banach
+    hsb: Stefan Banach
+    hu: Stefan Banach
+    hy: Ստեֆան Բանախ
+    id: Stefan Banach
+    is: Stefan Banach
+    it: Stefan Banach
+    ja: ステファン・バナフ
+    ka: სტეფან ბანახი
+    kk: Стефан Банах
+    kn: ಸ್ಟೀಫನ್ ಬಾನಾಕ್
+    ko: 스테판 바나흐
+    la: Stephanus Banach
+    lfn: Stefan Barnax
+    lt: Stefan Banach
+    lv: Stefans Banahs
+    mg: Stefan Banach
+    mk: Стефан Банах
+    mn: Стефан Банах
+    mul: Stefan Banach
+    nap: Stefan Banach
+    nb: Stefan Banach
+    nl: Stefan Banach
+    nn: Stefan Banach
+    pms: Stefan Banach
+    pt: Stefan Banach
+    pt-br: Stefan Banach
+    ro: Stefan Banach
+    ru: Стефан Банах
+    scn: Stefan Banach
+    sco: Stefan Banach
+    sl: Stefan Banach
+    sq: Stefan Banach
+    sr: Stefan Banah
+    sv: Stefan Banach
+    tg: Стефан Банах
+    tr: Stefan Banach
+    uk: Стефан Банах
+    uz: Banax Stefan
+    vi: Stefan Banach
+    wuu: 斯特凡·巴拿赫
+    xmf: სტეფან ბანახი
+    yue: Stefan Banach
+    zh: 斯特凡·巴拿赫
+    zh-cn: 斯特凡·巴拿赫
+    zh-hans: 斯特凡·巴拿赫
+    zh-hant: 斯特凡·巴拿赫
+    zh-hk: 斯特凡·巴拿赫
+    zh-sg: 斯特凡·巴拿赫
+    zh-tw: 斯特凡·巴拿赫
 ---
-
 # [[Banach,Stefan]] 
 
 #is_/same_as ::  [[../../WikiData/WD~Stefan_Banach,180217|WD~Stefan_Banach,180217]]  

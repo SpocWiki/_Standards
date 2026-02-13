@@ -1,9 +1,84 @@
 ---
 aliases:
-  - Field of Dreams
-  - Field_of_Dreams
+- Baseball álmok
+- Camp de somnis
+- Drömmarnas fält
+- Düşler Tarlası
+- Feld der Träume
+- Field of Dreams
+- Field_of_Dreams
+- Fortidens helter
+- Hřiště snů
+- Jusqu'au bout du rêve
+- L'uomo dei sogni
+- Pole marzeń
+- Svajonių laukas
+- Terenul de baseball
+- Unelmien kenttä
+- Поље снова
+- Поле его мечты
+- Поле його мрії
+- Поле на мечтите
+- Поле на соништата
+- Նրա երազանքների դաշտը
+- שדה החלומות
+- حقل الأحلام
+- حقل الاحلام
+- سرزمین رویاها
+- پێوانی خەونەکان
+- ოცნებების ველი
+- フィールド・オブ・ドリームス
+- 与梦共舞
+- 夢幻成真
+- 幻夢成真
+- 꿈의 구장
+has_id_wikidata: Q517958
+dv_has_:
+  name_:
+    ar: حقل الأحلام
+    arz: حقل الاحلام
+    ast: Field of Dreams
+    bg: Поле на мечтите
+    ca: Camp de somnis
+    ckb: پێوانی خەونەکان
+    cs: Hřiště snů
+    cy: Field of Dreams
+    da: Field of dreams
+    de: Feld der Träume
+    en: Field of Dreams
+    es: Field of Dreams
+    eu: Field of Dreams
+    fa: سرزمین رویاها
+    fi: Unelmien kenttä
+    fr: Jusqu'au bout du rêve
+    he: שדה החלומות
+    hu: Baseball álmok
+    hy: Նրա երազանքների դաշտը
+    id: Field of Dreams
+    it: L'uomo dei sogni
+    ja: フィールド・オブ・ドリームス
+    ka: ოცნებების ველი
+    ko: 꿈의 구장
+    lt: Svajonių laukas
+    mk: Поле на соништата
+    nb: Fortidens helter
+    nl: Field of Dreams
+    nn: Fortidens helter
+    pl: Pole marzeń
+    pt: Field of Dreams
+    ro: Terenul de baseball
+    ru: Поле его мечты
+    sr: Поље снова
+    sv: Drömmarnas fält
+    tr: Düşler Tarlası
+    uk: Поле його мрії
+    vi: Field of Dreams
+    yue: 幻夢成真
+    zh: 夢幻成真
+    zh-hans: 与梦共舞
+    zh-hk: 幻夢成真
+    zh-sg: 与梦共舞
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Field of Dreams** is a 1989 American sports fantasy drama film 

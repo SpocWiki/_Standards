@@ -1,23 +1,98 @@
 ---
 aliases:
-  - Legende
-  - Legend
+- Alamat
+- An'ızlar
+- atisokan
+- chwedl
+- efsane
+- Elezahar
+- Faaroo
+- finscéal
+- Fåve do vî vî tins
+- Henhwedhlow
+- Jawari
+- Legend
+- Legenda
+- Legende
+- legendo
+- Legendum
+- Legendă
+- leggenda
+- Leginde
+- legjenda
+- Legände
+- Lejen
+- Lejendas
+- lenda
+- Leyenda
+- leġġenda
+- leģenda
+- Lijënda
+- Lleenda
+- llegenda
+- légende
+- Otàngblo
+- pověst
+- Powěsć
+- pripovedka
+- ranmi
+- Richennoù
+- sagn
+- Sögn
+- Thoân-soat
+- truyền thuyết
+- Uccn d tfullust
+- Uirsgeul
+- Əfsanə
+- θρύλος
+- Аңыз
+- легенда
+- Легендась
+- Легенде
+- Оалам
+- паданне
+- риваять
+- Шаблон:Легенда
+- Լեգենդ
+- לעגענדע
+- סיפור עם
+- أسطورة
+- ئونه
+- ئەفسانە
+- افسانه
+- افسانو
+- ليݢيندا
+- لیجنڈ
+- आख्यान
+- आख्यानम्
+- কিংবদন্তি
+- ਦੰਦ ਕਥਾ
+- పురాణము
+- ದಂತಕಥೆ
+- ഐതിഹ്യം
+- ตำนาน
+- ຕຳນານ
+- თქმულება
+- 伝説
+- 传说
+- 傳說
+- 전설
 has_id_wikidata: Q44342
 instance_of:
-  - '[[_Standards/WikiData/WD~literary_genre,223393]]'
-  - '[[_Standards/WikiData/WD~narrative_form,6630149]]'
-  - '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
-  - '[[_Standards/WikiData/WD~fiction_genre,108465955]]'
+- '[[_Standards/WikiData/WD~literary_genre,223393]]'
+- '[[_Standards/WikiData/WD~narrative_form,6630149]]'
+- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
+- '[[_Standards/WikiData/WD~fiction_genre,108465955]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~pourquoi_story,990560]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~traditional_story,7832362]]'
-  - '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
+- '[[_Standards/WikiData/WD~traditional_story,7832362]]'
+- '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
 studied_by: '[[_Standards/WikiData/WD~storiology,115166304]]'
 Dewey_Decimal_Classification: 753
@@ -25,17 +100,149 @@ OmegaWiki_Defined_Meaning: 4407
 Commons_category: Legends
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reynard-the-fox.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-llegenda.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-llegenda.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-llegenda.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-llegenda.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-llegenda.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-llegenda.wav
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wa%20Bijhe%20solea2.ogg
 Wikidata_usage_instructions:
-  - Mythologie (WikiData-Objekt Q9134) verwenden, wenn es um Götter, fantastische Wesen, etc. geht.
-  - Use 'Mythology' - Q9134 - for stories of Gods and fantastic creatures
-  - Utilisez 'Mythology' - Q9134 - pour des histoires de dieux et de créatures fantastiques
-  - 有关上帝和奇特生物的故事，请使用神话（Q9134）
+- Mythologie (WikiData-Objekt Q9134) verwenden, wenn es um Götter, fantastische Wesen, etc. geht.
+- Use 'Mythology' - Q9134 - for stories of Gods and fantastic creatures
+- Utilisez 'Mythology' - Q9134 - pour des histoires de dieux et de créatures fantastiques
+- 有关上帝和奇特生物的故事，请使用神话（Q9134）
+dv_has_:
+  name_:
+    af: legende
+    an: Leyenda
+    ar: أسطورة
+    as: কিংবদন্তি
+    ast: Lleenda
+    atj: atisokan
+    ay: Jawari
+    az: Əfsanə
+    azb: افسانه
+    ba: легенда
+    be: паданне
+    be-tarask: легенда
+    bg: Легенда
+    bn: কিংবদন্তি
+    br: Richennoù
+    bs: legenda
+    ca: llegenda
+    ce: Legenda
+    ceb: Leyenda
+    ckb: ئەفسانە
+    cs: pověst
+    cv: Легенда
+    cy: chwedl
+    da: sagn
+    de: Legende
+    dsb: Powěsć
+    el: θρύλος
+    en: legend
+    en-gb: legend
+    eo: legendo
+    es: leyenda
+    et: Legend
+    eu: Elezahar
+    fa: افسانه
+    fi: legenda
+    fr: légende
+    fy: Leginde
+    ga: finscéal
+    gd: Uirsgeul
+    gl: lenda
+    gsw: Legände
+    guw: Otàngblo
+    he: סיפור עם
+    hi: आख्यान
+    hr: legenda
+    hsb: legenda
+    hu: legenda
+    hy: Լեգենդ
+    ia: legenda
+    id: legenda
+    ig: legend
+    inh: Оалам
+    io: Legendo
+    is: Sögn
+    it: leggenda
+    ja: 伝説
+    jam: Lejen
+    jbo: ranmi
+    jv: legenda
+    ka: თქმულება
+    kaa: An'ızlar
+    kk: Аңыз
+    kn: ದಂತಕಥೆ
+    ko: 전설
+    krc: Шаблон:Легенда
+    kv: Легенда
+    kw: Henhwedhlow
+    ky: Легенда
+    la: Legendum
+    lfn: Lejendas
+    li: Legende
+    lld: Lijënda
+    lo: ຕຳນານ
+    lt: legenda
+    lv: leģenda
+    mdf: Легендась
+    mhr: Легенде
+    mk: легенда
+    ml: ഐതിഹ്യം
+    ms: legenda
+    ms-arab: ليݢيندا
+    mt: leġġenda
+    mzn: ئونه
+    nan: Thoân-soat
+    nb: legende
+    nl: legende
+    nn: legende
+    oc: legenda
+    om: Faaroo
+    pa: ਦੰਦ ਕਥਾ
+    pcm: Legend
+    pl: legenda
+    pnb: لیجنڈ
+    ps: افسانه
+    pt: lenda
+    rm: Legenda
+    ro: Legendă
+    ru: легенда
+    sa: आख्यानम्
+    sd: افسانو
+    sgs: Legenda
+    sh: legenda
+    shi: Uccn d tfullust
+    sk: Legenda
+    sl: pripovedka
+    sq: legjenda
+    sr: легенда
+    sr-ec: легенда
+    sr-el: legenda
+    sv: legend
+    te: పురాణము
+    th: ตำนาน
+    tl: Alamat
+    tr: efsane
+    tt: риваять
+    uk: легенда
+    ur: لیجنڈ
+    uz: Legenda
+    vi: truyền thuyết
+    vls: Legende
+    wa: Fåve do vî vî tins
+    war: Leyenda
+    wuu: 传说
+    yi: לעגענדע
+    yue: 傳說
+    zh: 傳說
+    zh-cn: 传说
+    zh-hans: 传说
+    zh-hant: 傳說
+    zh-hk: 傳說
+    zh-tw: 傳說
 ---
-
 # [[Legend]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Legend,44342|WD~Legend,44342]] 

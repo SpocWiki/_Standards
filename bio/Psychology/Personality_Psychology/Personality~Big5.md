@@ -1,13 +1,96 @@
 ---
 aliases:
-  - Big Five
-  - Big Five personality traits
-  - five-factor model
-  - five factor model
-  - Personality~Big5
-  - HEXACO 
+- 5가지 성격 특성 요소
+- Beş Büyük faktör kuramı
+- Big Five
+- Big Five eredua
+- Big Five model
+- Big Five personality traits
+- Big Five személyiségmodell
+- Cinc grans trets de la personalitat
+- Ciri personaliti Lima Utama
+- Didžiojo Penketo asmenybės bruožų teorija
+- Femfaktormodellen
+- Femfaktorteorin
+- five factor model
+- five-factor model
+- HEXACO
+- Kepribadian Big Five
+- Kvin Grandaj Faktoroj de Personeco
+- Modelo de los cinco grandes
+- Modèle des Big Five
+- OCEAN
+- Personality~Big5
+- pet velikih faktorjev osebnosti
+- Suur viisik
+- viiden suuren persoonallisuuspiirteen teoria
+- Wielka piątka
+- Μοντέλο των 5 παραγόντων
+- Большая пятёрка
+- Велика п'ятірка
+- Великих пет црта личности
+- חמש התכונות הגדולות
+- عناصر الشخصية الخمسة
+- बिग फ़ाइव व्यक्तित्व लक्षण
+- বিগ ফাইভ ব্যক্তিত্বৰ বৈশিষ্ট্য
+- பிக் ஃபைவ் ஆளுமைப் பண்புக்கூறுகள்
+- ಐದು ದೊಡ್ಡ ವ್ಯಕ್ತಿತ್ವದ ಸ್ವಭಾವಗಳು
+- ลักษณะบุคลิกภาพใหญ่ทั้งห้า
+- დიდი ხუთი პიროვნული მახასიათებელი
+- ビッグ・ファイブ
+- 五大性格特質
+- 五大性格特质
+- ﭘﻨﺞ ﻋﺎﻣﻞ ﺑﺰﺭگ ﺷﺨﺼﻴﺖ
+has_id_wikidata: Q378132
+dv_has_:
+  name_:
+    ar: عناصر الشخصية الخمسة
+    as: বিগ ফাইভ ব্যক্তিত্বৰ বৈশিষ্ট্য
+    ca: Cinc grans trets de la personalitat
+    cs: Big Five
+    da: Femfaktormodellen
+    de: Big Five
+    el: Μοντέλο των 5 παραγόντων
+    en: Big Five personality traits
+    en-ca: Big Five personality traits
+    en-gb: Big Five personality traits
+    eo: Kvin Grandaj Faktoroj de Personeco
+    es: Modelo de los cinco grandes
+    et: Suur viisik
+    eu: Big Five eredua
+    fa: ﭘﻨﺞ ﻋﺎﻣﻞ ﺑﺰﺭگ ﺷﺨﺼﻴﺖ
+    fi: viiden suuren persoonallisuuspiirteen teoria
+    fr: Modèle des Big Five
+    he: חמש התכונות הגדולות
+    hi: बिग फ़ाइव व्यक्तित्व लक्षण
+    hu: Big Five személyiségmodell
+    id: Kepribadian Big Five
+    it: Big Five
+    ja: ビッグ・ファイブ
+    ka: დიდი ხუთი პიროვნული მახასიათებელი
+    kn: ಐದು ದೊಡ್ಡ ವ್ಯಕ್ತಿತ್ವದ ಸ್ವಭಾವಗಳು
+    ko: 5가지 성격 특성 요소
+    lt: Didžiojo Penketo asmenybės bruožų teorija
+    ms: Ciri personaliti Lima Utama
+    nb: Femfaktormodellen
+    nl: Big Five
+    pl: Wielka piątka
+    pt: Big Five
+    pt-br: Big Five
+    ro: Big Five
+    ru: Большая пятёрка
+    sk: Big Five model
+    sl: pet velikih faktorjev osebnosti
+    sr: Великих пет црта личности
+    sv: Femfaktorteorin
+    ta: பிக் ஃபைவ் ஆளுமைப் பண்புக்கூறுகள்
+    th: ลักษณะบุคลิกภาพใหญ่ทั้งห้า
+    tr: Beş Büyük faktör kuramı
+    uk: Велика п'ятірка
+    vi: OCEAN
+    yue: 五大性格特質
+    zh: 五大性格特质
 ---
-
 # [[Personality~Big5]] 
 
 #is_/similar_to :: [[Personality~HEXACO]] 

@@ -1,29 +1,191 @@
 ---
 aliases:
-  - Meat
+- aksum
+- atsįʼ
+- aycha
+- bah-lūi
+- basultu babo ning damulag
+- bearkoe
+- bierggo
+- biergu
+- Carn
+- carna
+- carne
+- carni
+- caro
+- chai
+- charn
+- chèrna
+- cig
+- cjâr
+- Dagiang
+- daging
+- Dhâghing
+- et
+- feill
+- feoil
+- feòil
+- Fleesch
+- fleis
+- Fleisch
+- Flääsk
+- flæsc
+- gale
+- gaļa
+- gos
+- goşt
+- goʻsht
+- haragi
+- hena
+- hilib
+- hús
+- ilo
+- inyama
+- jánnà
+- kania
+- karne
+- karno
+- kig
+- Kiko
+- kjöt
+- kjøt
+- kjøtt
+- kött
+- kød
+- laħam
+- liha
+- maso
+- Meat
+- meso
+- meti
+- miit
+- mish
+- mit
+- miynso
+- mięso
+- mjaso
+- musuni
+- mäso
+- mēsa
+- mėsa
+- měso
+- nagole
+- nam
+- nama
+- neqi
+- Ni'im
+- nimdi
+- niqipiaq
+- nyama
+- Olàn
+- piärgu
+- pètha
+- rectu
+- siăh gì nṳ̆k
+- so'o
+- tchå
+- thịt
+- viande
+- viando
+- vlees
+- vleis
+- vleisj
+- vueʹǯǯ
+- vyann
+- wias
+- yapp
+- ət
+- ɛnam
+- κρέας
+- ажьы
+- Аш-какай
+- гьан
+- гӯшт
+- дулхъ
+- ет
+- жижиг
+- ит
+- мах
+- месо
+- мяса
+- мясо
+- мяхан
+- мѧсо
+- м’ясо
+- сывель
+- сӥль
+- фыд
+- шыл
+- эт
+- эът
+- միս
+- בשר
+- פלייש
+- ات
+- داݢيڠ
+- غوښه
+- لحم
+- لحمه
+- ماز
+- گوشت
+- گوژد
+- گۆش
+- گۆشت
+- ܒܣܪܐ
+- ߛߏ߬ߓߏ
+- मांस
+- मासु
+- মাংস
+- ਮੀਟ
+- ମାଂସ
+- இறைச்சி
+- మాంసము
+- ಮಾಂಸ
+- ഇറച്ചി
+- මස්
+- เนื้อสัตว์
+- ຊີ້ນ
+- ཤ
+- အသား
+- ၼိူဝ်ႉ
+- ხორცი
+- ስጋ
+- ᓂᕿ
+- សាច់
+- ᠶᠠᠯᡳ
+- ᱡᱤᱞ
+- ẹran
+- ⴰⴽⵙⵓⵎ
+- 肉
+- 肉品
+- 肉类食物
+- 肉食
+- 食肉
+- 고기
+- "\U0001033C\U00010339\U0001033C\U00010343"
 has_id_wikidata: Q10990
 Commons_category: Meats
 Danbooru_tag: meat
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
-  - 641.36
-  - 664.9
+- 641.36
+- 664.9
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002165
 has_part_s_:
-  - '[[_Standards/WikiData/WD~adipose_tissue,193583]]'
-  - '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-  - '[[_Standards/WikiData/WD~muscle,7365]]'
+- '[[_Standards/WikiData/WD~adipose_tissue,193583]]'
+- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
+- '[[_Standards/WikiData/WD~muscle,7365]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FoodMeat.jpg
 MeSH_tree_code:
-  - G07.203.300.600
-  - J02.500.600
+- G07.203.300.600
+- J02.500.600
 natural_product_of_taxon: '[[_Standards/WikiData/WD~bird,5113]]'
 OmegaWiki_Defined_Meaning: 2300
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Meat-banner-01.jpg
@@ -32,19 +194,259 @@ produced_by: '[[_Standards/WikiData/WD~animal_slaughter,4282505]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D9%84%D8%AD%D9%85.ogg
 replaced_by: '[[_Standards/WikiData/WD~meat_alternative,1343997]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~animal_product,629103]]'
-  - '[[_Standards/WikiData/WD~intermediate_good,3955017]]'
-  - '[[_Standards/WikiData/WD~flesh,13119823]]'
-  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~animal_product,629103]]'
+- '[[_Standards/WikiData/WD~intermediate_good,3955017]]'
+- '[[_Standards/WikiData/WD~flesh,13119823]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 subreddit: meat
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Meat,6462943]]'
-  - '[[_Standards/WikiData/WD~Q10624851,10624851]]'
+- '[[_Standards/WikiData/WD~Template_Meat,6462943]]'
+- '[[_Standards/WikiData/WD~Q10624851,10624851]]'
 UMLS_CUI: C0025017
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch%20Fleisch%3F.webm
+dv_has_:
+  name_:
+    ab: ажьы
+    af: vleis
+    ak: ɛnam
+    am: ስጋ
+    an: carne
+    ang: flæsc
+    ar: لحم
+    arc: ܒܣܪܐ
+    arn: ilo
+    arz: لحمه
+    as: মাংস
+    ast: carne
+    atj: wias
+    av: гьан
+    ay: aycha
+    az: ət
+    azb: ات
+    ba: ит
+    ban: daging
+    bar: Fleisch
+    bcl: carne
+    be: мяса
+    be-tarask: мяса
+    bg: месо
+    bn: মাংস
+    bo: ཤ
+    br: kig
+    bs: meso
+    bxr: мяхан
+    ca: carn
+    cdo: siăh gì nṳ̆k
+    ce: жижиг
+    ceb: karne
+    ckb: گۆشت
+    co: carne
+    crh: et
+    crh-latn: et
+    cs: maso
+    cu: мѧсо
+    cv: Аш-какай
+    cy: cig
+    da: kød
+    dag: nimdi
+    de: Fleisch
+    de-ch: Fleisch
+    diq: goşt
+    dsb: měso
+    el: κρέας
+    eml: chèrna
+    en: meat
+    en-ca: meat
+    en-gb: meat
+    eo: viando
+    es: carne
+    et: liha
+    eu: haragi
+    ext: carni
+    fa: گوشت
+    fi: liha
+    fj: kania
+    fo: kjøt
+    fr: viande
+    frr: Flääsk
+    fur: cjâr
+    fy: fleis
+    ga: feoil
+    gag: et
+    gan: 肉
+    gcr: vyann
+    gd: feòil
+    gl: carne
+    gn: so'o
+    got: "\U0001033C\U00010339\U0001033C\U00010343"
+    gsw: Fleisch
+    guw: Olàn
+    gv: feill
+    ha: nama
+    he: בשר
+    hi: मांस
+    hif: gos
+    hr: meso
+    hsb: mjaso
+    ht: vyann
+    hu: hús
+    hy: միս
+    hyw: Միս
+    ia: carne
+    id: daging
+    ik: niqipiaq
+    ilo: karne
+    inh: дулхъ
+    io: karno
+    is: kjöt
+    it: carne
+    iu: ᓂᕿ
+    ja: 食肉
+    jam: miit
+    jbo: rectu
+    jv: daging
+    ka: ხორცი
+    kab: aksum
+    kcg: nam
+    kge: daging
+    kk: ет
+    kl: neqi
+    km: សាច់
+    kn: ಮಾಂಸ
+    ko: 고기
+    krc: эт
+    ks: ماز
+    ku: goşt
+    ku-latn: goşt
+    kus: Ni'im
+    kw: kig
+    ky: Эт
+    la: caro
+    lb: Fleesch
+    li: vleisj
+    lmo: carna
+    ln: musuni
+    lo: ຊີ້ນ
+    lt: mėsa
+    ltg: gale
+    lv: gaļa
+    lzh: 肉
+    mad: Dhâghing
+    mcn: jánnà
+    mg: hena
+    mhr: шыл
+    mi: Kiko
+    min: Dagiang
+    mk: месо
+    ml: ഇറച്ചി
+    mn: мах
+    mnc: ᠶᠠᠯᡳ
+    ms: daging
+    ms-arab: داݢيڠ
+    mt: laħam
+    my: အသား
+    myv: сывель
+    nan: bah-lūi
+    nap: carn
+    nb: kjøtt
+    nds: Fleesch
+    ne: मासु
+    nia: nagole
+    nl: vlees
+    nn: kjøt
+    nqo: ߛߏ߬ߓߏ
+    nrm: chai
+    nv: atsįʼ
+    oc: carn
+    olo: liha
+    or: ମାଂସ
+    os: фыд
+    pa: ਮੀਟ
+    pam: basultu babo ning damulag
+    pl: mięso
+    pms: Carn
+    pnb: گوشت
+    ps: غوښه
+    pt: carne
+    pt-br: carne
+    qu: aycha
+    rm: charn
+    rn: inyama
+    ro: carne
+    roa-tara: carne
+    ru: мясо
+    rup: carni
+    rw: inyama
+    sa: मांस
+    sah: эт
+    sat: ᱡᱤᱞ
+    sc: pètha
+    scn: carni
+    sd: گوشت
+    se: biergu
+    sgs: mēsa
+    sh: meso
+    shn: ၼိူဝ်ႉ
+    si: මස්
+    sk: mäso
+    sl: meso
+    sma: bearkoe
+    smj: bierggo
+    smn: piärgu
+    sms: vueʹǯǯ
+    sn: nyama
+    so: hilib
+    sq: mish
+    sr: месо
+    sr-ec: месо
+    sr-el: meso
+    srn: meti
+    ss: inyama
+    st: nama
+    su: daging
+    sv: kött
+    sw: nyama
+    szl: miynso
+    ta: இறைச்சி
+    te: మాంసము
+    tg: гӯшт
+    th: เนื้อสัตว์
+    tk: et
+    tl: karne
+    tly: گوژد
+    tn: nama
+    tpi: mit
+    tr: et
+    tt: ит
+    tt-cyrl: ит
+    tum: nyama
+    tyv: эът
+    udm: сӥль
+    ug: گۆش
+    uk: м’ясо
+    ur: گوشت
+    uz: goʻsht
+    vec: carne
+    vep: liha
+    vi: thịt
+    vls: vlees
+    vo: mit
+    vro: liha
+    wa: tchå
+    war: karne
+    wo: yapp
+    wuu: 肉类食物
+    xh: inyama
+    yi: פלייש
+    yo: ẹran
+    yue: 肉食
+    zgh: ⴰⴽⵙⵓⵎ
+    zh: 肉类食物
+    zh-hans: 肉品
+    zh-hant: 肉品
+    zu: inyama
 ---
-
 # [[Meat]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Meat,10990|WD~Meat,10990]] 

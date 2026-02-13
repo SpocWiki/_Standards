@@ -1,56 +1,116 @@
 ---
 aliases:
-  - Nikolai_Gogol
-  - Nikolai Vasilyevich Gogol
-  - Nikolai Gogol
-  - Gogol
-  - Gogol,Nikolai
+- Gogol
+- Gogol Nikolay Vasilyevich
+- Gogol,Nikolai
+- Kolas Gogol
+- Nicolai Gogol
+- Nicolas Gogol
+- Nicolaus Gogol
+- Nikolai Gogol
+- Nikolai Gogolj
+- Nikolai Gógol
+- Nikolai Vasilievich Gogol
+- Nikolai Vasilyevich Gogol
+- Nikolai Wassiljewitsch Gogol
+- Nikolai_Gogol
+- Nikolaj Gogol
+- Nikolaj Vasil'evič Gogol'
+- Nikolaj Vasilievič Gogoľ
+- Nikolaj Vasiljevitj Gogol
+- Nikolaj Vasiljevič Gogol
+- Nikolaj Vasiljevič Gogolj
+- Nikolajs Gogolis
+- Nikolajus Gogolis
+- Nikolay Gogol
+- Nikolay Qoqol
+- Nikolay Vasilyevich Gogol
+- Nikolay Vasilyeviç Gogol
+- Nikolaï Gogol
+- Nikolái Gógol
+- Nikołaj Gogol
+- Nyikolaj Vasziljevics Gogol
+- Nîkolay Gogol
+- Νικολάι Γκόγκολ
+- Гоголь Микола Васильович
+- Гоголь Николай Васильевич
+- Гоголь, Николай Васильевич
+- Мікалай Васільевіч Гогаль
+- Мікалай Гогаль
+- Николај Гогољ
+- Николай Василевич Гогол
+- Николай Василийы фырт Гоголь
+- Николай Васильевич Гоголь
+- Николай Гогол
+- Николай Гоголь
+- Նիկոլայ Գոգոլ
+- ניקולאי גוגול
+- نيقولاى جوجول
+- نيقولاي غوغول
+- نکولائی گوگول
+- نیکلای قوقول
+- نیکلای گوگول
+- نیکۆڵای گۆگۆڵ
+- निकोलाई गोगोल
+- निकोलाय गोगोल
+- নিকোলাই গোগোল
+- ਨਿਕੋਲਾਈ ਗੋਗੋਲ
+- ಗಾಗಲ್ ನಿಕಲೈ ವಸೀಲ್ಯವಿಚ್
+- നിക്കോൾ വാസ്ലേവിച്ച് ഗോഗോൾ
+- ဂိုဂါး အင်၊ ဗွီ
+- ნიკოლაი გოგოლი
+- ნიკოლოზ გოგოლი
+- ニコライ・ゴーゴリ
+- 尼古拉·果戈理
+- 尼古拉·瓦西里耶维奇·果戈里
+- 果戈里
+- 니콜라이 고골
 has_id_wikidata: Q43718
 influenced_by:
-  - '[[_Standards/WikiData/WD~E._T._A._Hoffmann,150471]]'
-  - '[[_Standards/WikiData/WD~Thomas_De_Quincey,317160]]'
-  - '[[_Standards/WikiData/WD~Ekaterina_Mikhailovna_Khomyakova,18764074]]'
-  - '[[_Standards/WikiData/WD~Alexander_Pushkin,7200]]'
+- '[[_Standards/WikiData/WD~E._T._A._Hoffmann,150471]]'
+- '[[_Standards/WikiData/WD~Thomas_De_Quincey,317160]]'
+- '[[_Standards/WikiData/WD~Ekaterina_Mikhailovna_Khomyakova,18764074]]'
+- '[[_Standards/WikiData/WD~Alexander_Pushkin,7200]]'
 occupation:
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Novodevichy_Cemetery,208175]]'
-  - '[[_Standards/WikiData/WD~Danilov_Monastery,658262]]'
+- '[[_Standards/WikiData/WD~Novodevichy_Cemetery,208175]]'
+- '[[_Standards/WikiData/WD~Danilov_Monastery,658262]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~belletristic_literature,268416]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
-  - '[[_Standards/WikiData/WD~literary_criticism,58854]]'
+- '[[_Standards/WikiData/WD~belletristic_literature,268416]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~literary_criticism,58854]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Government_Inspector,471066]]'
-  - '[[_Standards/WikiData/WD~Dead_Souls,647379]]'
-  - '[[_Standards/WikiData/WD~Taras_Bulba,1250822]]'
-  - '[[_Standards/WikiData/WD~Marriage,4179360]]'
+- '[[_Standards/WikiData/WD~The_Government_Inspector,471066]]'
+- '[[_Standards/WikiData/WD~Dead_Souls,647379]]'
+- '[[_Standards/WikiData/WD~Taras_Bulba,1250822]]'
+- '[[_Standards/WikiData/WD~Marriage,4179360]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Russian_Writers_1800_1917_Tome_1,106707729]]'
-  - '[[_Standards/WikiData/WD~Russian_Writers_XIX_c._Tome_1,125555255]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Russian_Writers_1800_1917_Tome_1,106707729]]'
+- '[[_Standards/WikiData/WD~Russian_Writers_XIX_c._Tome_1,125555255]]'
 place_of_birth: '[[_Standards/WikiData/WD~Velyki_Sorochyntsi,1666449]]'
 coat_of_arms: '[[_Standards/WikiData/WD~Jastrzębiec,1684070]]'
 given_name: '[[_Standards/WikiData/WD~Mykola,1956588]]'
@@ -62,42 +122,42 @@ father: '[[_Standards/WikiData/WD~Vasyl_Panasovych_Gogol_Yanovsky,6538314]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 patronym_or_matronym: '[[_Standards/WikiData/WD~Vasilyevich,7916711]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_Ukraine,10780973]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Nikolai_Gogol,14337031]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Gogol,16171559]]'
-  - '[[_Standards/WikiData/WD~Hohol,111655679]]'
+- '[[_Standards/WikiData/WD~Gogol,16171559]]'
+- '[[_Standards/WikiData/WD~Hohol,111655679]]'
 student_of: '[[_Standards/WikiData/WD~Nikolay_Belousov,18156519]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
 employer: '[[_Standards/WikiData/WD~Imperial_St._Petersburg_University,28729082]]'
 educated_at: '[[_Standards/WikiData/WD~Imperial_St._Petersburg_University,28729082]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Portrait_of_Nikolai_Gogol,72291390]]'
-  - '[[_Standards/WikiData/WD~Nikolai_Gogol_memorial,126364395]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Nikolai_Gogol,72291390]]'
+- '[[_Standards/WikiData/WD~Nikolai_Gogol_memorial,126364395]]'
 date_of_death: 1852-03-04T00:00:00Z
 work_period_end_: 1852-01-01T00:00:00Z
 place_of_death: '[[_Standards/WikiData/WD~Moscow,649]]'
 writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Ukrainian,8798]]'
 native_language: '[[_Standards/WikiData/WD~Ukrainian,8798]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 BHCL_UUID: bc47c232-e9ff-4688-b330-d11559da9814
 pseudonym:
-  - '***'
-  - В. Алов
-  - Г. Янов
-  - ОООО
-  - П. Глечик
-  - N. N.
-  - Н. Г.
+- '***'
+- В. Алов
+- Г. Янов
+- ОООО
+- П. Глечик
+- N. N.
+- Н. Г.
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Jastrz%C4%99biec%20herb.svg
 work_period_start_: 1827-01-01T00:00:00Z
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GOGOL_NIKOLA_VASILEVICH.html
@@ -107,8 +167,8 @@ Facebook_username: NikolaiGogolAuthor
 Swedish_Royal_Theater_Archive: Person/580
 Libris_URI: xv8bc7lg3m0qxql
 birth_name:
-  - Николай Васильевич Яновский
-  - Микола Васильович Яновський
+- Николай Васильевич Яновский
+- Микола Васильович Яновський
 short_name: Николай Гоголь
 name_in_native_language: Микола Васильович Гоголь-Яновський гербу Яструбець
 date_of_birth: 1809-04-01T00:00:00Z
@@ -116,8 +176,8 @@ NLC_authorities: 000168207
 image: http://commons.wikimedia.org/wiki/Special:FilePath/N.Gogol%20by%20F.Moller%20%281840%2C%20Tretyakov%20gallery%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A8%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%BE%E0%A4%AF%20%E0%A4%97%E0%A5%8B%E0%A4%97%E0%A5%8B%E0%A4%B2.wav
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/N.%20V.%20Gogol%20CP%20in%20Nizhyn.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20Gogol%20%28Paris%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/N.%20V.%20Gogol%20CP%20in%20Nizhyn.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Plaque%20Gogol%20%28Paris%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Nikolai%20Gogol%20Signature.svg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Post-2009%20gravesite%20of%20Nikolai%20Gogol%20in%20Novodevichy%20Cemetery%2C%20Moscow%2C%20Russia.jpg
 ISNI: 0000000121014127
@@ -125,8 +185,122 @@ Google_Doodle: 200th-anniversary-of-gogol
 Plex_person_key: 5e163065cd0850003b75a333
 Europeana_entity: agent/base/61092
 Wolfram_Language_entity_code: Entity["Person", "NikolaiGogol::3qh39"]
+dv_has_:
+  name_:
+    af: Nikolai Gogol
+    alt: Гоголь, Николай Васильевич
+    an: Nikolai Gógol
+    ar: نيقولاي غوغول
+    arz: نيقولاى جوجول
+    ast: Nikolai Gógol
+    avk: Nikolay Gogol
+    az: Nikolay Qoqol
+    azb: نیکلای قوقول
+    ba: Гоголь Николай Васильевич
+    be: Мікалай Васільевіч Гогаль
+    be-tarask: Мікалай Гогаль
+    bew: Kolas Gogol
+    bg: Николай Гогол
+    bn: নিকোলাই গোগোল
+    br: Nikolai Gogol
+    bs: Nikolaj Vasiljevič Gogolj
+    bxr: Николай Гоголь
+    ca: Nikolai Gógol
+    cdo: Nikolai Vasilievich Gogol
+    ce: Николай Гоголь
+    ckb: نیکۆڵای گۆگۆڵ
+    crh: Nikolay Gogol
+    cs: Nikolaj Vasiljevič Gogol
+    cy: Nicolai Gogol
+    da: Nikolaj Gogol
+    de: Nikolai Wassiljewitsch Gogol
+    diq: Nikolaj Vasiljevitj Gogol
+    el: Νικολάι Γκόγκολ
+    en: Nikolai Gogol
+    en-ca: Nikolai Gogol
+    eo: Nikolaj Gogol
+    es: Nikolái Gógol
+    et: Nikolai Gogol
+    eu: Nikolai Gogol
+    fa: نیکلای گوگول
+    fi: Nikolai Gogol
+    fr: Nicolas Gogol
+    frr: Nikolai Gogolj
+    fy: Nikolaj Gogol
+    ga: Nikolai Gogol
+    gd: Nikolai Gogol
+    gl: Nikolai Gógol
+    gn: Nikolái Gógol
+    hak: Nikolai Vasilievich Gogol
+    he: ניקולאי גוגול
+    hi: निकोलाई गोगोल
+    hr: Nikolaj Vasiljevič Gogolj
+    hu: Nyikolaj Vasziljevics Gogol
+    hy: Նիկոլայ Գոգոլ
+    ia: Nicolai Gogol
+    id: Nikolai Gogol
+    io: Nikolai Gogol
+    it: Nikolaj Vasil'evič Gogol'
+    ja: ニコライ・ゴーゴリ
+    ka: ნიკოლოზ გოგოლი
+    kaa: Nikolay Vasilyevich Gogol
+    kab: Nikolaï Gogol
+    kk: Николай Васильевич Гоголь
+    kn: ಗಾಗಲ್ ನಿಕಲೈ ವಸೀಲ್ಯವಿಚ್
+    ko: 니콜라이 고골
+    ku: Nîkolay Gogol
+    kw: Nikolai Gogol
+    ky: Гоголь Николай Васильевич
+    la: Nicolaus Gogol
+    lt: Nikolajus Gogolis
+    lv: Nikolajs Gogolis
+    mg: Nikolai Gogol
+    mhr: Гоголь, Николай Васильевич
+    mk: Николај Гогољ
+    ml: നിക്കോൾ വാസ്ലേവിച്ച് ഗോഗോൾ
+    mn: Николай Гоголь
+    mr: निकोलाय गोगोल
+    mrj: Гоголь, Николай Васильевич
+    ms: Nikolai Gogol
+    mwl: Nikolai Gogol
+    my: ဂိုဂါး အင်၊ ဗွီ
+    mzn: نیکلای گوگول
+    nan: Nikolai Gogol
+    nb: Nikolaj Gogol
+    nl: Nikolai Gogol
+    nn: Nikolaj Gogol
+    oc: Nikolai Gogol
+    os: Николай Василийы фырт Гоголь
+    pa: ਨਿਕੋਲਾਈ ਗੋਗੋਲ
+    pl: Nikołaj Gogol
+    pt: Nikolai Gogol
+    pt-br: Nikolai Gogol
+    ro: Nikolai Gogol
+    ru: Николай Васильевич Гоголь
+    sah: Гоголь Николай Васильевич
+    sh: Nikolaj Vasiljevič Gogolj
+    sk: Nikolaj Vasilievič Gogoľ
+    sl: Nikolaj Vasiljevič Gogolj
+    sq: Nikolai Gogol
+    sr: Николај Гогољ
+    sr-ec: Николај Гогољ
+    sv: Nikolaj Gogol
+    tg: Николай Василевич Гогол
+    tr: Nikolay Vasilyeviç Gogol
+    tt: Николай Гоголь
+    uk: Гоголь Микола Васильович
+    ur: نکولائی گوگول
+    uz: Gogol Nikolay Vasilyevich
+    vi: Nikolai Vasilyevich Gogol
+    war: Nikolai Gogol
+    wuu: 尼古拉·瓦西里耶维奇·果戈里
+    xmf: ნიკოლაი გოგოლი
+    yue: 果戈里
+    zh: 尼古拉·果戈理
+    zh-cn: 尼古拉·果戈理
+    zh-hans: 尼古拉·果戈理
+    zh-hant: 尼古拉·果戈理
 ---
-
 # [[Gogol,Nikolai]] 
 
 #is_/same_as :: [[WD~Nikolai_Gogol,43718]] 

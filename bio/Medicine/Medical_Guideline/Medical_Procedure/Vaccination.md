@@ -1,29 +1,121 @@
 ---
 aliases:
-  - Impfung
-  - Vaccination
+- Achʼąąʼ adáʼatsʼiʼ
+- Alluran rigakafi
+- aşılama
+- boahkuheapmi
+- cepljenje
+- Cijepljenje
+- Eploctaedje
+- Impfung
+- Inenting
+- Kutankirin
+- Mesukit
+- Mángbɛlɛ́
+- oltás
+- Očkovanie
+- očkování
+- pagbabakuna
+- Pagbakuna
+- Pamaksinan
+- Pemvaksinan
+- Peyvənd
+- puáhuttem
+- rokotus
+- skiepijimas
+- szczepienie ochronne
+- Tiêm chủng
+- tuku rongoā āraimate
+- txertaketa
+- Vaccinacion
+- vaccinare
+- Vaccinatio
+- Vaccination
+- vaccinazione
+- Vaccinoasje
+- vacinación
+- vacinação
+- vacinizo
+- vacsaíniú
+- vacunació
+- vacunación
+- Vakcinacija
+- vakcinado
+- vakcinēšana
+- Vakcïna
+- Vaksinaasje
+- vaksinadur
+- Vaksinasi
+- vaksinasjon
+- Vaksinasyon
+- Vaksinatsiya
+- vaktsineerimine
+- Vaktsiniirmine
+- vasinasion
+- Yi-fòng Chiap-chúng
+- čuâggtõs
+- Ū-hông chiap-chèng
+- Ɖatʊ kɔyɛ yaa Sɔbɩtʊ
+- εμβολιασμός
+- Ваксинатсия
+- ваксинация
+- Вакцина
+- вакцинація
+- Вакцинаци
+- вакцинација
+- вакцинация
+- Вакцинжуулалт
+- прышчэпка
+- Эмдөө
+- Պատվաստումներ
+- מתן חיסון
+- تطعيم
+- جلبة
+- واکسیناسیون
+- ٹیکا (قوت مدافعت)
+- کوتان
+- ۆاكتسىينا
+- खोप
+- टीकाकरण
+- लसीकरण
+- টিকাদান
+- ਟੀਕਾਕਰਣ
+- રસીકરણ
+- ଟିକାକରଣ
+- தடுப்பு மருந்தேற்றம்
+- ವ್ಯಾಕ್ಸಿನೇಷನ್
+- വാക്സിനേഷൻ
+- การให้วัคซีน
+- ཤ་ཁབ་
+- ვაქცინაცია
+- ክትባት
+- 予防接種
+- 接種
+- 疫苗接种
+- 疫苗接種
+- 예방접종
 has_id_wikidata: Q192995
 uses:
-  - '[[_Standards/WikiData/WD~vaccine,134808]]'
-  - '[[_Standards/WikiData/WD~injection,245359]]'
+- '[[_Standards/WikiData/WD~vaccine,134808]]'
+- '[[_Standards/WikiData/WD~injection,245359]]'
 instance_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
-  - '[[_Standards/WikiData/WD~active_immunotherapy,4677560]]'
+- '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
+- '[[_Standards/WikiData/WD~active_immunotherapy,4677560]]'
 has_effect: '[[_Standards/WikiData/WD~active_immunity,70710352]]'
 opposite_of: '[[_Standards/WikiData/WD~antibody_injection,91623919]]'
 ICD_9_CM:
-  - 99.5
-  - 99.3
+- 99.5
+- 99.3
 OmegaWiki_Defined_Meaning: 453567
 IMDb_keyword: vaccination
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Infectious%20diseases%20Vaccine.jpg
@@ -36,15 +128,140 @@ Iconclass_notation: 49G371
 Dewey_Decimal_Classification: 614.47
 UMLS_CUI: C0042196
 MeSH_tree_code:
-  - E02.095.465.425.400.530.890
-  - E05.478.550.600.890
-  - N02.421.726.758.310.890
-  - N06.850.780.200.425.900
-  - N06.850.780.680.310.890
+- E02.095.465.425.400.530.890
+- E05.478.550.600.890
+- N02.421.726.758.310.890
+- N06.850.780.200.425.900
+- N06.850.780.680.310.890
 hashtag: vaccinated
 OpenStreetMap_tag: healthcare:speciality=vaccination
+dv_has_:
+  name_:
+    af: Inenting
+    am: ክትባት
+    ar: تطعيم
+    ary: جلبة
+    az: Peyvənd
+    azb: واکسیناسیون
+    ban: Mesukit
+    bcl: Pagbakuna
+    be: прышчэпка
+    be-tarask: прышчэпка
+    bg: ваксинация
+    bjn: Pamaksinan
+    bn: টিকাদান
+    bo: ཤ་ཁབ་
+    br: vaksinadur
+    bs: Vakcinacija
+    ca: vacunació
+    ckb: کوتان
+    cs: očkování
+    cv: Вакцинаци
+    da: vaccination
+    de: Impfung
+    de-ch: Impfung
+    dty: खोप
+    el: εμβολιασμός
+    en: vaccination
+    en-ca: vaccination
+    en-gb: vaccination
+    eo: vakcinado
+    es: vacunación
+    et: vaktsineerimine
+    eu: txertaketa
+    fa: واکسیناسیون
+    fi: rokotus
+    fr: vaccination
+    ga: vacsaíniú
+    gcr: Vaksinasyon
+    gl: vacinación
+    gu: રસીકરણ
+    ha: Alluran rigakafi
+    hak: Yi-fòng Chiap-chúng
+    he: מתן חיסון
+    hi: टीकाकरण
+    hr: Cijepljenje
+    ht: Vaksinasyon
+    hu: oltás
+    hy: Պատվաստումներ
+    ia: Vaccination
+    id: vaksinasi
+    io: vacinizo
+    it: vaccinazione
+    ja: 予防接種
+    ka: ვაქცინაცია
+    kbp: Ɖatʊ kɔyɛ yaa Sɔbɩtʊ
+    kk: Вакцина
+    kk-arab: ۆاكتسىينا
+    kk-cn: ۆاكتسىينا
+    kk-cyrl: Вакцина
+    kk-kz: Вакцина
+    kk-latn: Vakcïna
+    kk-tr: Vakcïna
+    kn: ವ್ಯಾಕ್ಸಿನೇಷನ್
+    ko: 예방접종
+    ku: Kutankirin
+    ky: Эмдөө
+    la: Vaccinatio
+    lb: Impfung
+    li: Vaksinaasje
+    ln: Mángbɛlɛ́
+    lt: skiepijimas
+    lv: vakcinēšana
+    mi: tuku rongoā āraimate
+    min: Vaksinasi
+    mk: Вакцинација
+    ml: വാക്സിനേഷൻ
+    mn: Вакцинжуулалт
+    mr: लसीकरण
+    ms: Pemvaksinan
+    nan: Ū-hông chiap-chèng
+    nb: vaksinasjon
+    nl: inenting
+    nn: vaksinasjon
+    nv: Achʼąąʼ adáʼatsʼiʼ
+    oc: Vaccinacion
+    or: ଟିକାକରଣ
+    pa: ਟੀਕਾਕਰਣ
+    pl: szczepienie ochronne
+    pt: vacinação
+    pt-br: vacinação
+    ro: vaccinare
+    ru: вакцинация
+    rue: Вакцинация
+    se: boahkuheapmi
+    sh: Vakcinacija
+    sk: Očkovanie
+    sl: cepljenje
+    smn: puáhuttem
+    sms: čuâggtõs
+    sr: вакцинација
+    su: Vaksinasi
+    sv: vaccination
+    ta: தடுப்பு மருந்தேற்றம்
+    tg: Ваксинатсия
+    th: การให้วัคซีน
+    tl: pagbabakuna
+    tr: aşılama
+    uk: вакцинація
+    ur: ٹیکا (قوت مدافعت)
+    uz: Vaksinatsiya
+    vec: vasinasion
+    vi: Tiêm chủng
+    vls: Vaccinoasje
+    vro: Vaktsiniirmine
+    wa: Eploctaedje
+    war: Pagbakuna
+    wuu: 疫苗接种
+    yue: 接種
+    zh: 疫苗接種
+    zh-cn: 疫苗接种
+    zh-hans: 疫苗接种
+    zh-hant: 疫苗接種
+    zh-hk: 疫苗接種
+    zh-sg: 疫苗接种
+    zh-tw: 疫苗接種
 ---
-
 # [[Vaccination]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Vaccination,192995|WD~Vaccination,192995]] 

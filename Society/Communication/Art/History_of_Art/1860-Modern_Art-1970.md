@@ -1,20 +1,157 @@
 ---
 aliases:
+- art modern
+- art moderne
+- art modèrne
+- arte moderna
+- Arte moderno
+- Arte modernoa
+- arti moderna
+- artă modernă
+- arz modern
+- celf fodern
+- dáládáidda
+- ealaín nua-aoiseach
+- modern art
+- Modern arto
+- modern Konscht
+- modern konst
+- modern művészet
+- modern sanat
+- moderna arto
+- moderna umetnost
+- Moderna umjetnost
+- Moderne keunst
+- Moderne kuns
+- moderne kunst
+- moderni taide
+- moderné umenie
+- moderní umění
+- modernā māksla
+- Modärni Kunst
+- moodne kunst
+- nghệ thuật hiện đại
+- seni moden
+- Seni rupa modern
+- sztuka nowoczesna
+- tááláštaaiđâ
+- Μοντέρνα τέχνη
+- искусство эпохи модерна
+- мадэрновае мастацтва
+- мастацтва эпохі мадэрну
+- модерна уметност
+- модерне мистецтво
+- Модерно изкуство
+- мордерна уметност
+- մոդերն
+- אמנות מודרנית
+- سني مودن
+- فن حديث
+- مدرن آرت
+- نوواله هنر
+- هنر نوگرا
+- आधुनिक कला
+- আধুনিক শিল্পকলা
+- ਆਧੁਨਿਕ ਕਲਾ
+- ଆଧୁନିକ କଳା
+- புத்தியல் ஓவியம்
+- ఆధునిక చిత్రకళ
+- ಆಧುನಿಕ ಕಲೆ
+- ศิลปะสมัยใหม่
+- モダン・アート
+- 现代艺术
+- 現代藝術
+- 현대 미술
 has_id_wikidata: Q38166
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~degenerate_art,156460]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~degenerate_art,156460]]'
 different_from:
-  - "[[_Standards/WikiData/WD~contemporary_art,186030]]"
-  - "[[_Standards/WikiData/WD~art_of_the_modern_age,1570459]]"
+- '[[_Standards/WikiData/WD~contemporary_art,186030]]'
+- '[[_Standards/WikiData/WD~art_of_the_modern_age,1570459]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-subclass_of: "[[_Standards/WikiData/WD~Western_art,31793078]]"
-IAB_code: "207"
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+subclass_of: '[[_Standards/WikiData/WD~Western_art,31793078]]'
+IAB_code: 207
 Commons_gallery: Arte contemporáneo
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Modern%20and%20contemporary%20art%20banner%20Vincent%20van%20Gogh%20-%20Irises.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Verbeke%20Foundation%20-%20Earthcar%20-%20Peter%20De%20Cupere%20-%202007.jpg
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20van%20Gogh%20-%20Road%20with%20Cypress%20and%20Star%20-%20c.%2012-15%20May%201890.jpg
 Commons_category: Modern art
+dv_has_:
+  name_:
+    af: Moderne kuns
+    ar: فن حديث
+    arz: فن حديث
+    ast: Arte moderno
+    be: мастацтва эпохі мадэрну
+    be-tarask: мадэрновае мастацтва
+    bg: Модерно изкуство
+    bn: আধুনিক শিল্পকলা
+    br: arz modern
+    ca: art modern
+    cs: moderní umění
+    cy: celf fodern
+    da: moderne kunst
+    de: moderne Kunst
+    el: Μοντέρνα τέχνη
+    en: modern art
+    eo: moderna arto
+    es: arte moderno
+    et: moodne kunst
+    eu: Arte modernoa
+    fa: هنر نوگرا
+    fi: moderni taide
+    fr: art moderne
+    fy: Moderne keunst
+    ga: ealaín nua-aoiseach
+    gl: arte moderna
+    gsw: Modärni Kunst
+    he: אמנות מודרנית
+    hi: आधुनिक कला
+    hu: modern művészet
+    hy: մոդերն
+    id: Seni rupa modern
+    io: Modern arto
+    it: arte moderna
+    ja: モダン・アート
+    kn: ಆಧುನಿಕ ಕಲೆ
+    ko: 현대 미술
+    lb: modern Konscht
+    lv: modernā māksla
+    mk: модерна уметност
+    ms: seni moden
+    ms-arab: سني مودن
+    mt: arti moderna
+    mzn: مدرن آرت
+    nb: moderne kunst
+    nl: moderne kunst
+    oc: art modèrne
+    or: ଆଧୁନିକ କଳା
+    pa: ਆਧੁਨਿਕ ਕਲਾ
+    pl: sztuka nowoczesna
+    ps: نوواله هنر
+    pt: arte moderna
+    ro: artă modernă
+    ru: искусство эпохи модерна
+    se: dáládáidda
+    sh: Moderna umjetnost
+    sk: moderné umenie
+    sl: moderna umetnost
+    smn: tááláštaaiđâ
+    sr: Модерна уметност
+    sr-ec: мордерна уметност
+    sv: modern konst
+    ta: புத்தியல் ஓவியம்
+    te: ఆధునిక చిత్రకళ
+    th: ศิลปะสมัยใหม่
+    tr: modern sanat
+    uk: модерне мистецтво
+    vi: nghệ thuật hiện đại
+    wuu: 现代艺术
+    yue: 現代藝術
+    zh: 现代艺术
+    zh-hant: 現代藝術
+    zh-hk: 現代藝術
 ---
 # [[1860-Modern_Art-1970]] 
 

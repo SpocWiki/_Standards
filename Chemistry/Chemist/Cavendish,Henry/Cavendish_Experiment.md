@@ -1,27 +1,93 @@
 ---
 aliases:
-  - Cavendish experiment
-  - Cavendish_Experiment
-  - Cavendish Experiment
+- Cavendish experiment
+- Cavendish-eksperimentet
+- Cavendishi eksperiment
+- Cavendishov pokus
+- Cavendishs experiment
+- Cavendish_Experiment
+- eksperimento de Cavendish
+- eksperyment Cavendisha
+- esperimento di Cavendish
+- experiment de Cavendish
+- experimento de Cavendish
+- experiência de Cavendish
+- expérience de Cavendish
+- Gravitationswaage
+- Kavendish tajribasi
+- Kavendišo eksperimentas
+- Percobaan Cavendish
+- Thí nghiệm Cavendish
+- Πείραμα του Κάβεντις
+- Експеримент Кавендіша
+- Експеримент на Кевендиш
+- Кавендиш тәжірибесі
+- Кевендишов оглед
+- Эксперимент Кавендиша
+- ניסוי קוונדיש
+- آزمایش کاوندیش
+- تجربة كافنديش
+- કેવેન્ડિશનો પ્રયોગ
+- การทดลองของคาเวนดิช
+- キャヴェンディッシュの実験
+- 卡文迪什實驗
+- 캐번디시 실험
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]]"
-    - "[[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]]"
-    - "[[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]]"
-    - "[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]"
-    - "[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]"
+  - '[[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]]'
+  - '[[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]]'
+  - '[[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]]'
+  - '[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]'
+  - '[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]]"
-  - "[[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]]"
-  - "[[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]]"
-  - "[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]"
-  - "[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]"
+- '[[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]]'
+- '[[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]]'
+- '[[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]]'
+- '[[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]]'
+- '[[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]]'
+- '[[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]]'
+- '[[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]]'
+has_id_wikidata: Q18370
+dv_has_:
+  name_:
+    ar: تجربة كافنديش
+    ca: experiment de Cavendish
+    de: Gravitationswaage
+    el: Πείραμα του Κάβεντις
+    en: Cavendish experiment
+    en-ca: Cavendish experiment
+    en-gb: Cavendish experiment
+    eo: eksperimento de Cavendish
+    es: experimento de Cavendish
+    et: Cavendishi eksperiment
+    fa: آزمایش کاوندیش
+    fr: expérience de Cavendish
+    gu: કેવેન્ડિશનો પ્રયોગ
+    he: ניסוי קוונדיש
+    hr: Cavendishov pokus
+    id: Percobaan Cavendish
+    it: esperimento di Cavendish
+    ja: キャヴェンディッシュの実験
+    kk: Кавендиш тәжірибесі
+    ko: 캐번디시 실험
+    lt: Kavendišo eksperimentas
+    mk: Експеримент на Кевендиш
+    nb: Cavendish-eksperimentet
+    pl: eksperyment Cavendisha
+    pt: experiência de Cavendish
+    pt-br: Experiência de Cavendish
+    ru: Эксперимент Кавендиша
+    sh: Cavendishov pokus
+    sr: Кевендишов оглед
+    sv: Cavendishs experiment
+    th: การทดลองของคาเวนดิช
+    uk: Експеримент Кавендіша
+    uz: Kavendish tajribasi
+    vi: Thí nghiệm Cavendish
+    zh: 卡文迪什實驗
 ---
-
 # [[Cavendish_Experiment]] 
 
 ## #has_/text_of_/abstract 

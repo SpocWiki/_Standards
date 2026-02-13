@@ -1,4 +1,64 @@
-
+---
+has_id_wikidata: Q548184
+dv_has_:
+  name_:
+    ar: غريغوريو ريتشي
+    arz: جريجوريو ريتشى
+    ast: Gregorio Ricci-Curbastro
+    azb: قرقریو ریتچی کورباسترو
+    ca: Gregorio Ricci-Curbastro
+    cs: Gregorio Ricci-Curbastro
+    da: Gregorio Ricci Curbastro
+    de: Gregorio Ricci-Curbastro
+    en: Gregorio Ricci-Curbastro
+    eo: Gregorio Ricci-Curbastro
+    es: Gregorio Ricci-Curbastro
+    eu: Gregorio Ricci-Curbastro
+    fa: گرگریو ریتچی کورباسترو
+    fi: Gregorio Ricci-Curbastro
+    fr: Gregorio Ricci-Curbastro
+    ga: Gregorio Ricci-Curbastro
+    gl: Gregorio Ricci-Curbastro
+    he: גרגורי ריצ'י-קורבסטרו
+    ht: Gregorio Ricci-Curbastro
+    hy: Գրեգորիո Ռիչչի-Կուրբաստրո
+    id: Gregorio Ricci-Curbastro
+    it: Gregorio Ricci Curbastro
+    ja: グレゴリオ・リッチ
+    ko: 그레고리오 리치쿠르바스트로
+    la: Gregorius Ricci Curbastro
+    mul: Gregorio Ricci-Curbastro
+    nb: Gregorio Ricci Curbastro
+    nl: Gregorio Ricci-Curbastro
+    nn: Gregorio Ricci-Curbastro
+    pl: Gregorio Ricci-Curbastro
+    pms: Gregorio Ricci-Curbastro
+    pt: Gregorio Ricci-Curbastro
+    pt-br: Gregorio Ricci-Curbastro
+    ro: Gregorio Ricci-Curbastro
+    ru: Грегорио Риччи-Курбастро
+    sl: Gregorio Ricci Curbastro
+    sq: Gregorio Ricci-Curbastro
+    sv: Gregorio Ricci Curbastro
+    uk: Грегоріо Річчі-Курбастро
+    vi: Gregorio Ricci-Curbastro
+    zh: 格雷戈里奥·里奇-库尔巴斯托罗
+aliases:
+- Gregorio Ricci Curbastro
+- Gregorio Ricci-Curbastro
+- Gregorius Ricci Curbastro
+- Грегоріо Річчі-Курбастро
+- Грегорио Риччи-Курбастро
+- Գրեգորիո Ռիչչի-Կուրբաստրո
+- גרגורי ריצ'י-קורבסטרו
+- جريجوريو ريتشى
+- غريغوريو ريتشي
+- قرقریو ریتچی کورباسترو
+- گرگریو ریتچی کورباسترو
+- グレゴリオ・リッチ
+- 格雷戈里奥·里奇-库尔巴斯托罗
+- 그레고리오 리치쿠르바스트로
+---
 #has_/time_/started :: 1853-01-12
 #has_/time_/stopped :: 1925-08-06
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

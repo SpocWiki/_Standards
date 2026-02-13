@@ -1,8 +1,68 @@
 ---
 aliases:
-  - Fourier transform
-  - Fourier_Transform
-  - Fourier Transform
+- biến đổi Fourier
+- Fourier dönüşümü
+- Fourier piàn-ōaⁿ
+- Fourier transform
+- Fourier' teisendus
+- Fourier'n muunnos
+- fourier-transformasjon
+- Fourier-Transformation
+- Fourier-Transformierte
+- Fourier-transzformáció
+- Fourierov preobražaj
+- Fourierova transformace
+- Fourierova transformacija
+- Fourierova transformácia
+- Fourierren transformatu
+- fouriertransform
+- fouriertransformasjon
+- Fouriertransformatie
+- Fouriertransformation
+- Fourier_Transform
+- Fourier–vörpun
+- furiera transformo
+- Furjė transformacija
+- Furye çevrilməsi
+- Ponimban Fourier
+- transformacja Fouriera
+- transformada de Fourier
+- transformasi Fourier
+- transformata Fourier
+- transformimi i Furierit
+- transformée de Fourier
+- trasformata di Fourier
+- trasformata ta' Fourier
+- trawsffurfiad Fourier
+- tresformada de Fourier
+- Μετασχηματισμός Φουριέ
+- пераўтварэнне Фур'е
+- пераўтварэньне Фур’е
+- перетворення Фур'є
+- преобразование Фурье
+- Преобразувание на Фурие
+- Фуријеова трансформација
+- Фуриеова преобразба
+- Фурье рәвешүзгәртүе
+- Фурье түрлендіру
+- Фурье хувиргалт
+- Ֆուրիեի փոխակերպում
+- התמרת פורייה
+- تبدیل فوریه
+- تحويل فورييه
+- فوریر ٹرانسفارم
+- फूर्ये रूपान्तर
+- ফুরিয়ে রূপান্তর
+- ਫੋਰੀਅਰ ਪਰਿਵਰਤਨ
+- வூரியே மாற்று
+- การแปลงฟูรีเย
+- ဖိုရီယာ ထရန်စဖောင်း
+- የፎሪየር ሽግግር
+- フーリエ変換
+- 傅立葉變換
+- 傅立葉轉換
+- 傅里叶变换
+- 푸리에 변환
 has_id_wikidata: Q6520159
 subclass_of: '[[_Standards/WikiData/WD~integral_transform,877802]]'
 facet_of: '[[_Standards/WikiData/WD~Fourier_analysis,1365258]]'
@@ -13,29 +73,103 @@ mathematical_inverse: '[[_Standards/WikiData/WD~inverse_Fourier_transform,989681
 described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 different_from: '[[_Standards/WikiData/WD~Fourier_transformation,111178250]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Fourier_cosine_transform,124684067]]'
-  - '[[_Standards/WikiData/WD~Fourier_sine_transform,124684079]]'
+- '[[_Standards/WikiData/WD~Fourier_cosine_transform,124684067]]'
+- '[[_Standards/WikiData/WD~Fourier_sine_transform,124684079]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℱ</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C9;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℱ</mi></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>t</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C9;</mi></mstyle></mrow></math>
 named_after: '[[_Standards/WikiData/WD~Joseph_Fourier,8772]]'
 short_name: FT
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi data-mjx-variant="-tex-calligraphic">ℱ</mi></mrow><mo stretchy="false">(</mo><mi>&#x03C9;</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><munderover><mo form="prefix" stretchy="false">&#x222B;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mi mathvariant="normal">&#x221E;</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x221E;</mi></mrow></munderover><mi>f</mi><mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">e</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi>&#x03C9;</mi><mi>t</mi></mrow></mrow></msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>t</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fourier%20transform%20time%20and%20frequency%20domains.gif
 Stack_Exchange_tag:
-  - https://ai.stackexchange.com/tags/fourier-transform
-  - https://dsp.stackexchange.com/tags/fourier-transform
-  - https://math.stackexchange.com/tags/fourier-transform
-  - https://mathoverflow.net/tags/fourier-transform
-  - https://physics.stackexchange.com/tags/fourier-transform
-  - https://quant.stackexchange.com/tags/fourier-transform
-  - https://stats.stackexchange.com/tags/fourier-transform
+- https://ai.stackexchange.com/tags/fourier-transform
+- https://dsp.stackexchange.com/tags/fourier-transform
+- https://math.stackexchange.com/tags/fourier-transform
+- https://mathoverflow.net/tags/fourier-transform
+- https://physics.stackexchange.com/tags/fourier-transform
+- https://quant.stackexchange.com/tags/fourier-transform
+- https://stats.stackexchange.com/tags/fourier-transform
 IEV_number: 103-04-01
 Commons_category: Fourier transformation
+dv_has_:
+  name_:
+    am: የፎሪየር ሽግግር
+    ar: تحويل فورييه
+    ast: tresformada de Fourier
+    az: Furye çevrilməsi
+    bar: Fouriertransformation
+    be: пераўтварэнне Фур'е
+    be-tarask: пераўтварэньне Фур’е
+    bg: Преобразувание на Фурие
+    bn: ফুরিয়ে রূপান্তর
+    ca: transformada de Fourier
+    cs: Fourierova transformace
+    cy: trawsffurfiad Fourier
+    da: fouriertransformation
+    de: Fourier-Transformierte
+    de-ch: Fourier-Transformation
+    dtp: Ponimban Fourier
+    el: Μετασχηματισμός Φουριέ
+    en: Fourier transform
+    en-ca: Fourier transform
+    en-gb: Fourier transform
+    eo: furiera transformo
+    es: transformada de Fourier
+    et: Fourier' teisendus
+    eu: Fourierren transformatu
+    fa: تبدیل فوریه
+    fi: Fourier'n muunnos
+    fr: transformée de Fourier
+    gl: transformada de Fourier
+    he: התמרת פורייה
+    hi: फूर्ये रूपान्तर
+    hr: Fourierov preobražaj
+    hu: Fourier-transzformáció
+    hy: Ֆուրիեի փոխակերպում
+    id: transformasi Fourier
+    is: Fourier–vörpun
+    it: trasformata di Fourier
+    ja: フーリエ変換
+    kk: Фурье түрлендіру
+    ko: 푸리에 변환
+    ks: فوریر ٹرانسفارم
+    lt: Furjė transformacija
+    mk: Фуриеова преобразба
+    mn: Фурье хувиргалт
+    mt: trasformata ta' Fourier
+    my: ဖိုရီယာ ထရန်စဖောင်း
+    nan: Fourier piàn-ōaⁿ
+    nb: fouriertransformasjon
+    nl: Fouriertransformatie
+    nn: fourier-transformasjon
+    pa: ਫੋਰੀਅਰ ਪਰਿਵਰਤਨ
+    pl: transformacja Fouriera
+    pt: transformada de Fourier
+    pt-br: transformada de Fourier
+    rki: ဖိုရီယာ ထရန်စဖောင်း
+    ro: transformata Fourier
+    ru: преобразование Фурье
+    sk: Fourierova transformácia
+    sl: Fourierova transformacija
+    sq: transformimi i Furierit
+    sr: Фуријеова трансформација
+    su: transformasi Fourier
+    sv: fouriertransform
+    ta: வூரியே மாற்று
+    th: การแปลงฟูรีเย
+    tr: Fourier dönüşümü
+    tt: Фурье рәвешүзгәртүе
+    uk: перетворення Фур'є
+    vi: biến đổi Fourier
+    wuu: 傅里叶变换
+    yue: 傅立葉變換
+    zh: 傅里叶变换
+    zh-cn: 傅里叶变换
+    zh-tw: 傅立葉轉換
 ---
-
 # [[Fourier_Transform]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fourier_transform,6520159|WD~Fourier_transform,6520159]] 

@@ -1,21 +1,157 @@
 ---
 aliases:
-  - Steigbügel
-  - Stirrup
+- balnakilpė
+- Bàn đạp
+- estrep
+- Estribo
+- estribu
+- jalustin
+- kengyel
+- piedingo
+- Sanggurdi
+- Scăriță
+- Stafa
+- staffa
+- Stapes
+- Steigbügel
+- Stiebeuel
+- stigbygel
+- Stigbøjle
+- stigbøyle
+- stijgbeugel
+- Stirrup
+- Stleug
+- streme
+- Stremen
+- Strzemię
+- Tamakan ha hayop
+- Třmen
+- Uzengija
+- étrier
+- Ístöð
+- üzengi
+- Üzeñgi
+- Üzəngi
+- Ĕсенкĕ
+- Αναβολέας
+- Лъэрыгъ
+- Стреме
+- стремен
+- стремено
+- стремя
+- стрэмя
+- Узенгија
+- Үзеңгі
+- Үзөңгү
+- Өҙәңге
+- ասպանդակ
+- ארכוף
+- رِكاب
+- رکاب
+- ۇزەڭگى
+- रकाब
+- அங்கவடி
+- అంకెము
+- ರಿಕಾಪು
+- უზანგი
+- እርካብ
+- 鐙
+- 镫
+- 등자
 has_id_wikidata: Q191657
 part_of: '[[_Standards/WikiData/WD~saddle,192249]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of: '[[_Standards/WikiData/WD~equestrian_equipment,3590880]]'
 has_use: '[[_Standards/WikiData/WD~mounting,15784401]]'
 OmegaWiki_Defined_Meaning: 6783
 Nomenclature_for_Museum_Cataloging: 11980
 Commons_category: Stirrups
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Estribos%20argentinos%20de%20plata.%20Museo%20de%20Am%C3%A9rica.jpg
+dv_has_:
+  name_:
+    ady: Лъэрыгъ
+    af: Stiebeuel
+    am: እርካብ
+    ar: رِكاب
+    ast: Estribu
+    az: Üzəngi
+    ba: Өҙәңге
+    be: стрэмя
+    be-tarask: стрэмя
+    bg: Стреме
+    br: Stleug
+    ca: estrep
+    cs: Třmen
+    cv: Ĕсенкĕ
+    da: Stigbøjle
+    de: Steigbügel
+    el: Αναβολέας
+    en: stirrup
+    en-ca: Stirrup
+    en-gb: Stirrup
+    eo: piedingo
+    es: Estribo
+    eu: estribu
+    fa: رکاب
+    fi: jalustin
+    fr: étrier
+    gl: Estribo
+    he: ארכוף
+    hi: रकाब
+    hr: Stremen
+    hu: kengyel
+    hy: ասպանդակ
+    id: Sanggurdi
+    io: Estribo
+    is: Ístöð
+    it: staffa
+    ja: 鐙
+    ka: უზანგი
+    kk: Үзеңгі
+    kk-arab: ۇزەڭگى
+    kk-cn: ۇزەڭگى
+    kk-cyrl: Үзеңгі
+    kk-kz: Үзеңгі
+    kk-latn: Üzeñgi
+    kk-tr: Üzeñgi
+    kn: ರಿಕಾಪು
+    ko: 등자
+    ky: Үзөңгү
+    la: Stapes
+    lt: balnakilpė
+    mk: стремен
+    nb: stigbøyle
+    nl: stijgbeugel
+    pl: Strzemię
+    pms: Stafa
+    pt: estribo
+    pt-br: Estribo
+    ro: Scăriță
+    ru: стремя
+    sh: Stremen
+    sl: streme
+    sr: Узенгија
+    sr-ec: Узенгија
+    sr-el: Uzengija
+    sv: stigbygel
+    ta: அங்கவடி
+    te: అంకెము
+    tr: üzengi
+    uk: стремено
+    vi: Bàn đạp
+    war: Tamakan ha hayop
+    yue: 鐙
+    zh: 镫
+    zh-cn: 镫
+    zh-hans: 镫
+    zh-hant: 鐙
+    zh-hk: 鐙
+    zh-sg: 镫
+    zh-tw: 鐙
 ---
-
 # [[Stirrup]] 
 
 #is_/same_as :: [[WD~Stirrup,191657]] 

@@ -1,9 +1,61 @@
 ---
 aliases:
-  - Detarieae
+- Detarieae
+- Detarioideae
+- デタリウム亜科
+- 甘豆亚科
+- 甘豆亞科
+- 데타리움아과
 title: Detarieae sensu lato
+has_id_wikidata: Q60412965
+dv_has_:
+  name_:
+    an: Detarioideae
+    ast: Detarioideae
+    bg: Detarioideae
+    ca: Detarioideae
+    ceb: Detarioideae
+    cs: Detarioideae
+    de: Detarioideae
+    en: Detarioideae
+    eo: Detarioideae
+    es: Detarioideae
+    eu: Detarioideae
+    ext: Detarioideae
+    fi: Detarioideae
+    fr: Detarioideae
+    ga: Detarioideae
+    gl: Detarioideae
+    hr: Detarioideae
+    ia: Detarioideae
+    ie: Detarioideae
+    ilo: Detarioideae
+    io: Detarioideae
+    it: Detarioideae
+    ja: デタリウム亜科
+    ko: 데타리움아과
+    la: Detarioideae
+    mul: Detarioideae
+    nl: Detarioideae
+    oc: Detarioideae
+    pl: Detarioideae
+    pt: Detarioideae
+    pt-br: Detarioideae
+    ro: Detarioideae
+    ru: Detarioideae
+    sk: Detarioideae
+    sl: Detarioideae
+    sq: Detarioideae
+    sv: Detarioideae
+    uk: Detarioideae
+    vi: Detarioideae
+    vo: Detarioideae
+    war: Detarioideae
+    zh: 甘豆亚科
+    zh-cn: 甘豆亚科
+    zh-hans: 甘豆亚科
+    zh-hant: 甘豆亞科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

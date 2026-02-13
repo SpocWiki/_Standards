@@ -1,10 +1,52 @@
 ---
 aliases:
-  - Peccaries
-  - javelinas
-  - skunk pigs
-  - Tayassuidae
-  - pekariji
+- Coyametl
+- javelinas
+- Lợn lòi Pecari
+- Naawelswin
+- Nabelschweine
+- Navelsvin
+- Navlesvin
+- Navlesvinfamilien
+- Peccaries
+- Peccary
+- Pekaarilased
+- Pekari
+- Pekari's
+- pekarifélék
+- pekariji
+- Pekariniai
+- Pekario
+- pekariovití
+- pekarit
+- Pekarsimonlar
+- pekaru dzimta
+- picire
+- Pècari
+- Shádiʼááhdę́ę́ʼ bisóodi diʼilígíí
+- skunk pigs
+- stukoleem
+- Taiasúidos
+- Tajykatĩ
+- Tayassuidae
+- Wankana
+- Пекари
+- пекариеви
+- Пекариевые
+- пекарии
+- Пекарыевыя
+- Пэкарыевыя
+- פקאריים
+- بيكارية
+- بيكاريه
+- گراز بدبو
+- पेक्करी
+- পেকারি
+- தாயாசுடீ
+- ペッカリー
+- 西猯科
+- 西貒科
+- 페커리
 has_id_wikidata: Q232866
 title: Tayassuidae
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
@@ -21,8 +63,91 @@ EPPO_Code: 1TAYAF
 Commons_category: Tayassuidae
 taxon_name: Tayassuidae
 taxon_common_name: pekariji
+dv_has_:
+  name_:
+    an: Tayassuidae
+    ar: بيكارية
+    arz: بيكاريه
+    ast: Tayassuidae
+    avk: stukoleem
+    ban: Peccary
+    be: Пекарыевыя
+    be-tarask: Пэкарыевыя
+    bg: пекариеви
+    bn: পেকারি
+    br: Pekari
+    ca: Pècari
+    ceb: Tayassuidae
+    cs: pekariovití
+    da: Navlesvin
+    de: Nabelschweine
+    en: Tayassuidae
+    en-ca: Peccary
+    en-gb: Peccary
+    eo: Tayassuidae
+    es: Tayassuidae
+    et: Pekaarilased
+    eu: Pekari
+    ext: Tayassuidae
+    fa: گراز بدبو
+    fi: pekarit
+    fr: Tayassuidae
+    frr: Naawelswin
+    ga: picire
+    gl: Taiasúidos
+    gn: Tajykatĩ
+    he: פקאריים
+    hi: पेक्करी
+    hr: Pekariji
+    hu: pekarifélék
+    ia: Tayassuidae
+    id: Tayassuidae
+    ie: Tayassuidae
+    io: Pekario
+    it: Tayassuidae
+    ja: ペッカリー
+    ko: 페커리
+    la: Tayassuidae
+    lbe: Пекари
+    lt: Pekariniai
+    lv: pekaru dzimta
+    mk: пекарии
+    mul: Tayassuidae
+    nah: Coyametl
+    nb: Navlesvinfamilien
+    nl: Pekari's
+    nn: Navlesvin
+    nv: Shádiʼááhdę́ę́ʼ bisóodi diʼilígíí
+    oc: Tayassuidae
+    pl: Pekari
+    pt: Tayassuidae
+    pt-br: Tayassuidae
+    qu: Wankana
+    ro: Tayassuidae
+    ru: Пекариевые
+    sh: Pekariji
+    sl: pekariji
+    sq: Tayassuidae
+    sr: Pekari
+    sv: Navelsvin
+    ta: தாயாசுடீ
+    tr: Pekari
+    udm: Пекари
+    uk: Tayassuidae
+    uz: Pekarsimonlar
+    vi: Lợn lòi Pecari
+    vls: Pekari's
+    vo: Tayassuidae
+    war: Tayassuidae
+    yue: 西貒科
+    zh: 西猯科
+    zh-cn: 西猯科
+    zh-hans: 西猯科
+    zh-hant: 西猯科
+    zh-hk: 西貒科
+    zh-sg: 西猯科
+    zh-tw: 西貒科
 ---
-
 # [[Tayassuidae]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Tayassuidae,232866|WD~Tayassuidae,232866]] 

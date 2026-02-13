@@ -1,58 +1,305 @@
 ---
 dv_has_:
   name_:
+    af: Saint-Pierre en Miquelon
+    am: ሰን-ፕዬርና ሚክሎን
+    an: Saint-Pierre y Miquelon
+    ang: Halga Petrus and Miquelon
+    anp: सेंट पियेर आरो मिकेलो
+    ar: سان بيير وميكلون
+    arz: سان بيير وميكلون
+    ast: Saint Pierre y Miquelon
+    az: Sent Pyer və Mikelon
+    azb: سن-پیئر و میکلون
+    be: Сен-П'ер і Мікелон
+    be-tarask: Сэн-П’ер і Мікелён
+    bg: Сен Пиер и Микелон
+    bn: সাঁ পিয়ের ও মিকলোঁ
+    bpy: সেন্ট পিয়েরে বারো মিকুয়েলোন
+    br: Sant-Pêr-ha-Mikelon
+    bs: Sveti Petar i Mikelon
+    ca: Saint-Pierre i Miquelon
+    cdo: Saint-Pierre gâe̤ng Miquelon
+    ceb: Saint Pierre and Miquelon
+    co: Saint-Pierre è Miquelon
+    cs: Saint Pierre a Miquelon
+    cy: Saint-Pierre-et-Miquelon
+    da: Saint-Pierre og Miquelon
+    de: Saint-Pierre und Miquelon
+    dsb: Saint Pierre a Miquelon
+    dv: ސަންތި ޕިއޭރޭ އާއި މިކުއެލޯން
+    el: Σαιν-Πιερ και Μικελόν
+    en: Saint Pierre and Miquelon
+    en-ca: Saint Pierre and Miquelon
+    eo: Sankta-Piero kaj Mikelono
+    es: San Pedro y Miquelón
+    et: Saint-Pierre ja Miquelon
+    eu: Saint-Pierre eta Mikelune
+    fa: سن پیر و میکلن
+    fi: Saint-Pierre ja Miquelon
+    fo: Saint-Pierre og Miquelon
+    fr: Saint-Pierre-et-Miquelon
+    frr: Saint-Pierre an Miquelon
+    fy: Sint-Pierre en Miquelon
+    ga: Saint-Pierre-et-Miquelon
+    gag: Sent Pierre hem Miquelon
+    gcr: Sen Pierre ké Miquelon
+    gl: San Pedro e Miquelón
+    gsw: Saint-Pierre und Miquelon
+    gu: સેન્ટ પીઅર એન્ડ મિકેલોન
+    hak: Saint-Pierre lâu Miquelon
+    he: סן-פייר ומיקלון
+    hi: सन्त पियर और मिकलान
+    hr: Sveti Petar i Mikelon
+    hu: Saint-Pierre és Miquelon
+    hy: Սեն Պիեռ և Միքելոն
+    id: Saint Pierre dan Miquelon
+    io: Santa Pierre e Mikelon
+    is: Sankti Pierre og Miquelon
+    it: Saint-Pierre e Miquelon
+    ja: サンピエール島・ミクロン島
+    jv: Saint-Pierre lan Miquelon
+    ka: სენ-პიერი და მიკელონი
+    kaa: Sen-Per ha'm Mikelon
+    kk: Сен-Пьер және Микелон
+    kk-cyrl: Сен-Пьер және Микелон
+    kn: ಸೇಂಟ್ ಪಿಯರೆ ಮತ್ತು ಮಿಕೆಲನ್
+    ko: 생피에르 미클롱
+    ku: Saint-Pierre û Miquelon
+    kw: Sen Peder ha Miquelon
+    ky: Сенпьер жана Микелон
+    la: Insulae Sancti Petri et Miquelonensis
+    lb: Saint-Pierre a Miquelon
+    li: Saint Pierre en Miquelon
+    lij: San Pè e Miquelon
+    lmo: Saint-Pierre-et-Miquelon
+    ln: Sántu Petelo mpé Miquelon
+    lt: Sen Pjeras ir Mikelonas
+    lv: Senpjēra un Mikelona
+    mdf: Сэн-Пьер ди Микэлон
+    mk: Свети Петар и Микелон
+    mn: Сен-Пьер ба Микелон
+    mr: सेंट पियेर व मिकेलो
+    ms: Saint Pierre dan Miquelon
+    mt: Saint Pierre u Miquelon
+    nan: Sèng Pierre kap Miquelon
+    nb: Saint-Pierre og Miquelon
+    nl: Saint-Pierre en Miquelon
+    nn: Saint-Pierre-et-Miquelon
+    nov: Sankte Pier e Mikelon
+    oc: Sant Pèire e Miquelon
+    os: Сен-Пьер æмæ Микелон
+    pa: ਸੇਂਟ ਪੀਏਰ ਅਤੇ ਮੀਕਲੋਂ
+    pcd: Saint-Pierre-pi-Miquelon
+    pl: Saint-Pierre i Miquelon
+    pms: Saint Pierre e Miquelon
+    pnb: سینٹ پیرے تے مائکلیون
+    pt: Saint-Pierre e Miquelon
+    pt-br: Saint-Pierre e Miquelon
+    ro: Saint Pierre și Miquelon
+    ru: Сен-Пьер и Микелон
+    rw: Mutagatifu Petero na Mikeloni
+    sc: Saint-Pierre e Miquelon
+    scn: Saint-Pierre e Miquelon
+    sco: Saunt Pierre an Miquelon
+    sh: Saint-Pierre i Miquelon
+    shn: သဵင်ႉပီးယႃး လႄႈ မိၵ်ႈၵွႆႇလွၼ်ႇ
+    si: ශාන්ත පියරේ සහ මිකෙලොන්
+    sk: Saint Pierre a Miquelon
+    sl: Sveta Peter in Mihael
+    sn: Musande Petro ne Mikeroni
+    sq: Shën Pierre dhe Miquelon
+    sr: Сен Пјер и Микелон
+    su: Saint-Piér jeung Mikélon
+    sv: Saint-Pierre och Miquelon
+    sw: Saint-Pierre na Miquelon
+    ta: செயிண்ட் ப்யேர் அண்ட் மீகேலோன்
+    te: సెయింట్ పియర్ అండ్ మికెలాన్
+    tg-cyrl: Сен-Пиер ва Микелон
+    th: แซงปีแยร์และมีเกอลง
+    tk: Sen-Pýer we Mikelon
+    tl: Saint-Pierre at Miquelon
+    to: Sā Piea mo Mikeloni
+    tr: Saint Pierre and Miquelon
+    tt: Сен-Пьер һәм Микелон
+    ug: سېن-پيېر ۋە مىكېلون
+    uk: Сен-П'єр і Мікелон
+    ur: سینٹ پیئر و میکیلون
+    uz: Sen-Pyer va Mikelon
+    vec: Saint-Pierre e Miquelon
+    vi: Saint-Pierre và Miquelon
+    war: Saint Pierre ngan Miquelon
+    wo: Saint Pierre ak Miquelon
+    wuu: 圣皮埃尔搭密克隆
+    xmf: სენ-პიერი დო მიკელონი
+    yo: Saint Pierre àti Mìkẹ́lọ̀n
+    yue: 聖皮埃爾及密克隆群島
+    zh: 圣皮埃尔和密克隆
+    zh-cn: 圣皮埃尔和密克隆
+    zh-hans: 圣皮埃尔和密克隆
+    zh-hant: 聖皮埃與密克隆群島
+    zh-hk: 聖皮埃爾和密克隆
+    zh-tw: 聖皮埃與密克隆群島
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
 dv_ISO2: PM
 dv_ISO3: SPM
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]"
-    - "[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]"
-    - "[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]"
-    - "[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]]"
-    - "[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]"
-    - "[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]"
+  - '[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]'
+  - '[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]'
+  - '[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]'
+  - '[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]]'
+  - '[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]'
+  - '[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]'
 dv_has_name_en: Saint-Pierre-et-Miquelon
 dv_has_name_de: St. Pierre und Miquelon
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[North-America]]"
+dv_has_place_continent: '[[North-America]]'
 dv_has_place_longitude: -56.1667
 dv_has_place_latitude: 46.7833
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]"
-  - "[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]"
-  - "[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]"
-  - "[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]]"
-  - "[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]"
-  - "[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]"
-
-has_time_started: 1700-01-01 
+- '[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]'
+- '[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]'
+- '[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]'
+- '[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]'
+- '[[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]]'
+- '[[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]]'
+- '[[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]]'
+- '[[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]]'
+has_time_started: 1700-01-01
 aliases:
-  - Saint Pierre and Miquelon
-  - Saint-Pierre-et-Miquelon
+- Halga Petrus and Miquelon
+- Insulae Sancti Petri et Miquelonensis
+- Musande Petro ne Mikeroni
+- Mutagatifu Petero na Mikeloni
+- Saint Pierre a Miquelon
+- Saint Pierre ak Miquelon
+- Saint Pierre and Miquelon
+- Saint Pierre dan Miquelon
+- Saint Pierre e Miquelon
+- Saint Pierre en Miquelon
+- Saint Pierre ngan Miquelon
+- Saint Pierre u Miquelon
+- Saint Pierre y Miquelon
+- Saint Pierre àti Mìkẹ́lọ̀n
+- Saint Pierre și Miquelon
+- Saint-Pierre a Miquelon
+- Saint-Pierre an Miquelon
+- Saint-Pierre at Miquelon
+- Saint-Pierre e Miquelon
+- Saint-Pierre en Miquelon
+- Saint-Pierre eta Mikelune
+- Saint-Pierre gâe̤ng Miquelon
+- Saint-Pierre i Miquelon
+- Saint-Pierre ja Miquelon
+- Saint-Pierre lan Miquelon
+- Saint-Pierre lâu Miquelon
+- Saint-Pierre na Miquelon
+- Saint-Pierre och Miquelon
+- Saint-Pierre og Miquelon
+- Saint-Pierre und Miquelon
+- Saint-Pierre và Miquelon
+- Saint-Pierre y Miquelon
+- Saint-Pierre è Miquelon
+- Saint-Pierre és Miquelon
+- Saint-Pierre û Miquelon
+- Saint-Pierre-et-Miquelon
+- Saint-Pierre-pi-Miquelon
+- Saint-Piér jeung Mikélon
+- San Pedro e Miquelón
+- San Pedro y Miquelón
+- San Pè e Miquelon
+- Sankta-Piero kaj Mikelono
+- Sankte Pier e Mikelon
+- Sankti Pierre og Miquelon
+- Sant Pèire e Miquelon
+- Sant-Pêr-ha-Mikelon
+- Santa Pierre e Mikelon
+- Saunt Pierre an Miquelon
+- Sen Peder ha Miquelon
+- Sen Pierre ké Miquelon
+- Sen Pjeras ir Mikelonas
+- Sen-Per ha'm Mikelon
+- Sen-Pyer va Mikelon
+- Sen-Pýer we Mikelon
+- Senpjēra un Mikelona
+- Sent Pierre hem Miquelon
+- Sent Pyer və Mikelon
+- Shën Pierre dhe Miquelon
+- Sint-Pierre en Miquelon
+- Sveta Peter in Mihael
+- Sveti Petar i Mikelon
+- Sántu Petelo mpé Miquelon
+- Sèng Pierre kap Miquelon
+- Sā Piea mo Mikeloni
+- Σαιν-Πιερ και Μικελόν
+- Свети Петар и Микелон
+- Сен Пјер и Микелон
+- Сен Пиер и Микелон
+- Сен-П'єр і Мікелон
+- Сен-П'ер і Мікелон
+- Сен-Пиер ва Микелон
+- Сен-Пьер æмæ Микелон
+- Сен-Пьер ба Микелон
+- Сен-Пьер және Микелон
+- Сен-Пьер и Микелон
+- Сен-Пьер һәм Микелон
+- Сенпьер жана Микелон
+- Сэн-Пьер ди Микэлон
+- Сэн-П’ер і Мікелён
+- Սեն Պիեռ և Միքելոն
+- סן-פייר ומיקלון
+- سان بيير وميكلون
+- سن پیر و میکلن
+- سن-پیئر و میکلون
+- سینٹ پیئر و میکیلون
+- سینٹ پیرے تے مائکلیون
+- سېن-پيېر ۋە مىكېلون
+- ސަންތި ޕިއޭރޭ އާއި މިކުއެލޯން
+- सन्त पियर और मिकलान
+- सेंट पियेर आरो मिकेलो
+- सेंट पियेर व मिकेलो
+- সাঁ পিয়ের ও মিকলোঁ
+- সেন্ট পিয়েরে বারো মিকুয়েলোন
+- ਸੇਂਟ ਪੀਏਰ ਅਤੇ ਮੀਕਲੋਂ
+- સેન્ટ પીઅર એન્ડ મિકેલોન
+- செயிண்ட் ப்யேர் அண்ட் மீகேலோன்
+- సెయింట్ పియర్ అండ్ మికెలాన్
+- ಸೇಂಟ್ ಪಿಯರೆ ಮತ್ತು ಮಿಕೆಲನ್
+- ශාන්ත පියරේ සහ මිකෙලොන්
+- แซงปีแยร์และมีเกอลง
+- သဵင်ႉပီးယႃး လႄႈ မိၵ်ႈၵွႆႇလွၼ်ႇ
+- სენ-პიერი და მიკელონი
+- სენ-პიერი დო მიკელონი
+- ሰን-ፕዬርና ሚክሎን
+- サンピエール島・ミクロン島
+- 圣皮埃尔和密克隆
+- 圣皮埃尔搭密克隆
+- 聖皮埃爾及密克隆群島
+- 聖皮埃爾和密克隆
+- 聖皮埃與密克隆群島
+- 생피에르 미클롱
 has_id_wikidata: Q34617
 confidential: public
 icon: flag-pm
 isDeleted: false
 location:
-  - 46.7833
-  - -56.1667
+- 46.7833
+- -56.1667
 SpocWebEntityId: 26997
 tags:
-  - geo/Country
+- geo/Country
 type: Country
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20and%20Miquelon%20in%20France.svg
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20and%20Miquelon%2C%20winter%20scene.jpg
 detail_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20et%20Miquelon%20Map%20fr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Saint%20Pierre%20et%20Miquelon.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20et%20Miquelon%20Map%20fr.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Map%20Saint%20Pierre%20et%20Miquelon.svg
 official_website: http://www.spm-ct975.fr/
 streaming_media_URL: https://balticlivecam.com/cameras/france/saint-pierre-and-miquelon/saint-pierre-and-miquelon/
 telephone_country_code: +508
@@ -62,23 +309,23 @@ Commons_category: Saint-Pierre and Miquelon
 Commons_gallery: Saint-Pierre-et-Miquelon
 motto_text: A mare labor
 demonym:
-  - Miquelonais
-  - Senpjerci
-  - Saint-Pierrais
+- Miquelonais
+- Senpjerci
+- Saint-Pierrais
 top_level_Internet_domain:
-  - '[[_Standards/WikiData/WD~.pm,133434]]'
-  - '[[_Standards/WikiData/WD~.fr,37271]]'
+- '[[_Standards/WikiData/WD~.pm,133434]]'
+- '[[_Standards/WikiData/WD~.fr,37271]]'
 contains_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
-  - "[[_Standards/WikiData/WD~L'Ile_aux_Marins,292246]]"
-  - '[[_Standards/WikiData/WD~Miquelon_Langlade,570289]]'
+- '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
+- "[[_Standards/WikiData/WD~L'Ile_aux_Marins,292246]]"
+- '[[_Standards/WikiData/WD~Miquelon_Langlade,570289]]'
 capital: '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
 flag: '[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956]]'
 basic_form_of_government: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]'
 instance_of: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490]]'
 list_of_monuments: '[[_Standards/WikiData/WD~Q2365400,2365400]]'
 legislative_body: '[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]'
 highest_point: '[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597]]'
@@ -119,8 +366,8 @@ ISO_3166_1_numeric_code: 666
 ISO_3166_1_alpha_2_code: PM
 postal_code: 97500
 flag_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint-Pierre%20and%20Miquelon.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint-Pierre%20and%20Miquelon.svg
 FIPS_10_4_countries_and_regions_: SB
 OmegaWiki_Defined_Meaning: 646021
 ISO_3166_1_alpha_3_code: SPM
@@ -139,7 +386,6 @@ bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pierr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-PierreEtMiquelonFromTheISS.jpg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20and%20Miquelon-CIA%20WFB%20Map.png
 ---
-
 # [[Saint-Pierre-et-Miquelon]] 
 
 For more Details, check out this Repository into this Subfolder: 

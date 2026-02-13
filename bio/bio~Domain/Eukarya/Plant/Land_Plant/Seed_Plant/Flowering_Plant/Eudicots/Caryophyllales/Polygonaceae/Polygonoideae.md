@@ -1,17 +1,63 @@
 ---
 aliases:
+- Polygonoideae
+- հնդկացորենայիններ
+- بطباطاوات
+- 마디풀아과
 has_id_wikidata: Q1238742
-parent_taxon: "[[_Standards/WikiData/WD~Polygonaceae,156117]]"
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+parent_taxon: '[[_Standards/WikiData/WD~Polygonaceae,156117]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bistorta%20amplexicaulis%20Polygonium%20amplexicaule%20HabitusInflorescences%20BotGardBln0906c.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2216
 UMLS_CUI: C3410264
 Commons_category: Polygonoideae
 taxon_name: Polygonoideae
 taxon_common_name: بطباطاوات
+dv_has_:
+  name_:
+    an: Polygonoideae
+    ar: بطباطاوات
+    arz: بطباطاوات
+    ast: Polygonoideae
+    bg: Polygonoideae
+    ca: Polygonoideae
+    ceb: Polygonoideae
+    de: Polygonoideae
+    en: Polygonoideae
+    eo: Polygonoideae
+    es: Polygonoideae
+    eu: Polygonoideae
+    ext: Polygonoideae
+    fi: Polygonoideae
+    fr: Polygonoideae
+    ga: Polygonoideae
+    gl: Polygonoideae
+    hr: Polygonoideae
+    hu: Polygonoideae
+    hy: հնդկացորենայիններ
+    ia: Polygonoideae
+    ie: Polygonoideae
+    io: Polygonoideae
+    it: Polygonoideae
+    ko: 마디풀아과
+    la: Polygonoideae
+    mul: Polygonoideae
+    nl: Polygonoideae
+    nn: Polygonoideae
+    oc: Polygonoideae
+    pl: Polygonoideae
+    pt: Polygonoideae
+    pt-br: Polygonoideae
+    ro: Polygonoideae
+    ru: Polygonoideae
+    sl: Polygonoideae
+    sq: Polygonoideae
+    uk: Polygonoideae
+    vi: Polygonoideae
+    vo: Polygonoideae
+    war: Polygonoideae
 ---
-
 # [[Polygonoideae]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Polygonoideae,1238742]] 

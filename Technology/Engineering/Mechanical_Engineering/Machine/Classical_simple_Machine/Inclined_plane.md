@@ -1,10 +1,76 @@
 ---
 aliases:
-  - Schiefe Ebene
-  - ramp
-  - Rampe
-  - Inclined_plane
-  - Inclined plane
+- Bidang miring
+- Chhu-bīn
+- cian Inclinou
+- dekliva ebenaĵo
+- Diriiroo habalakaa
+- eğik düzlem
+- hellend vlak
+- Inclined plane
+- Inclined_plane
+- Ingklain Plien
+- inklinita plano
+- kalteva taso
+- klančina
+- kosa ravan
+- kosina
+- lejtő
+- lutande plan
+- Mặt phẳng nghiêng
+- Nakahupay na lapya
+- Nakakiling nga patag
+- naklonená rovina
+- nakloněná rovina
+- nuožulnioji plokštuma
+- Pandus
+- Pian inclinà
+- piano inclinato
+- pla inclinat
+- plan clinat
+- plan enkline
+- plan inclinato
+- plan incliné
+- plan înclinat
+- plano inclinado
+- plano inklinatu
+- planu inclináu
+- plân ar oleddf
+- ramp
+- Rampe
+- równia pochyła
+- satah condong
+- Schiefe Ebene
+- skråplan
+- skábraut
+- slīpā plakne
+- t'iksu pampa
+- Òkwọọk
+- Κεκλιμένο επίπεδο
+- Иҥнэри хаптал
+- Наклонена равнина
+- наклонная плоскость
+- нахіленая роўніца
+- похила площина
+- Тайлăк лаптак
+- מישור משופע
+- سطح شیبدار
+- سطح منحدر
+- ڈھࣇاݨ
+- ڕووتەختی لێژ
+- आनत तल
+- आनत समतल
+- छ्ड्के सतह
+- पाःलूगु समथर
+- আনত তল
+- ਢਲ਼ਾਣ
+- சாய்தளம்
+- వాలుతలం
+- ചരിവുതലം
+- พื้นเอียง
+- ተዳፋት
+- 斜面
+- 빗면
 has_id_wikidata: Q161462
 subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Technology,9497549]]'
@@ -16,8 +82,93 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/IOI%20Mall%20Kulai%20-
 U_S_National_Archives_Identifier: 10664117
 UNSPSC_Code: 60104604
 Commons_category: Inclined planes
+dv_has_:
+  name_:
+    am: ተዳፋት
+    an: plan inclinato
+    ann: Òkwọọk
+    anp: आनत तल
+    ar: سطح منحدر
+    ast: planu inclináu
+    be-tarask: нахіленая роўніца
+    bg: Наклонена равнина
+    bn: আনত তল
+    bs: kosa ravan
+    ca: pla inclinat
+    ceb: inclined plane
+    ckb: ڕووتەختی لێژ
+    cs: nakloněná rovina
+    cv: Тайлăк лаптак
+    cy: plân ar oleddf
+    da: skråplan
+    de: schiefe Ebene
+    el: Κεκλιμένο επίπεδο
+    en: inclined plane
+    eo: dekliva ebenaĵo
+    es: plano inclinado
+    et: Pandus
+    eu: plano inklinatu
+    fa: سطح شیبدار
+    fi: kalteva taso
+    fr: plan incliné
+    gl: plano inclinado
+    he: מישור משופע
+    hi: आनत समतल
+    hr: kosina
+    ht: plan enkline
+    hu: lejtő
+    id: Bidang miring
+    io: inklinita plano
+    is: skábraut
+    it: piano inclinato
+    ja: 斜面
+    jam: Ingklain Plien
+    ko: 빗면
+    lij: cian Inclinou
+    lt: nuožulnioji plokštuma
+    lv: slīpā plakne
+    ml: ചരിവുതലം
+    ms: satah condong
+    nan: Chhu-bīn
+    nb: skråplan
+    ne: छ्ड्के सतह
+    new: पाःलूगु समथर
+    nl: hellend vlak
+    nn: skråplan
+    oc: plan clinat
+    om: Diriiroo habalakaa
+    pa: ਢਲ਼ਾਣ
+    pl: równia pochyła
+    pms: Pian inclinà
+    pnb: ڈھࣇاݨ
+    pt: plano inclinado
+    qu: t'iksu pampa
+    ro: plan înclinat
+    ru: наклонная плоскость
+    sah: Иҥнэри хаптал
+    sh: kosina
+    sk: naklonená rovina
+    sl: klančina
+    sr: Kosa ravan
+    sv: lutande plan
+    ta: சாய்தளம்
+    te: వాలుతలం
+    th: พื้นเอียง
+    tl: Nakahupay na lapya
+    tr: eğik düzlem
+    uk: похила площина
+    vi: Mặt phẳng nghiêng
+    war: Nakakiling nga patag
+    wuu: 斜面
+    yue: 斜面
+    zh: 斜面
+    zh-cn: 斜面
+    zh-hans: 斜面
+    zh-hant: 斜面
+    zh-hk: 斜面
+    zh-sg: 斜面
+    zh-tw: 斜面
 ---
-
 # [[Inclined_plane]] 
 
 #is_/same_as :: [[WD~Inclined_plane,161462]] 

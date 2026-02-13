@@ -1,61 +1,91 @@
 ---
 aliases:
-  - Jamie Lee Curtis
-  - Curtis,Jamie_Lee
-  - Curtis,Jamie Lee
+- Ceymi Li Körtis
+- Curtis,Jamie Lee
+- Curtis,Jamie_Lee
+- Džeimija Lī Kērtisa
+- Džejmi Li Kertis
+- Jamie Lee Curtis
+- Jamie Lee Curtisová
+- Τζέιμι Λι Κέρτις
+- Џејми Ли Кертис
+- Джеймі Лі Кертіс
+- Джейми Ли Кёртис
+- Джейми Лий Къртис
+- Джэймі Лі Кёрціс
+- Джэймі Лі Кэртыс
+- Ջեյմի Լի
+- ג'יימי לי קרטיס
+- جيمى لى كرتيس
+- جيمي لي كرتيس
+- جیمی لی کرتیس
+- جیمی لی کرٹس
+- جەیمی لی کێرتیس
+- জেমি লি কার্টিস
+- ஜேமி லீ குர்திஸ்
+- ജാമി ലീ കർട്ടിസ്
+- เจมี ลี เคอร์ติส
+- ჯეიმი ლი კერტისი
+- ジェイミー・リー・カーティス
+- 占美李寇蒂斯
+- 杰米·李·柯蒂斯
+- 洁美·李·寇蒂斯
+- 潔美·李·寇蒂斯
+- 珍美·李·寇蒂斯
+- 제이미 리 커티스
 has_id_wikidata: Q106997
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Supporting_Role,1320315]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Female_Performance,4220898]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actress_Motion_Picture_Musical_or_Comedy,5261137]]'
-  - '[[_Standards/WikiData/WD~Genie_Award_for_Best_Performance_by_a_Foreign_Actress,5533178]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Kiss,257235]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Leading_Role,687123]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actress_Motion_Picture,822907]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Miniseries_or_a_Movie,989447]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Female_Actor_in_a_Supporting_Role,1320315]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Female_Performance,4220898]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actress_Motion_Picture_Musical_or_Comedy,5261137]]'
+- '[[_Standards/WikiData/WD~Genie_Award_for_Best_Performance_by_a_Foreign_Actress,5533178]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
-  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
-  - '[[_Standards/WikiData/WD~Jupiter_Awards,1713744]]'
-  - '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actress_in_a_Supporting_Role,787123]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+- '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+- '[[_Standards/WikiData/WD~Jupiter_Awards,1713744]]'
+- '[[_Standards/WikiData/WD~Hasty_Pudding_Woman_of_the_Year,10294045]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 father: '[[_Standards/WikiData/WD~Tony_Curtis,162389]]'
 noble_title: '[[_Standards/WikiData/WD~baron,165503]]'
 mother: '[[_Standards/WikiData/WD~Janet_Leigh,205314]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Halloween,221103]]'
-  - '[[_Standards/WikiData/WD~A_Fish_Called_Wanda,466186]]'
+- '[[_Standards/WikiData/WD~Halloween,221103]]'
+- '[[_Standards/WikiData/WD~A_Fish_Called_Wanda,466186]]'
 sibling: '[[_Standards/WikiData/WD~Kelly_Curtis,273574]]'
 spouse: '[[_Standards/WikiData/WD~Christopher_Guest,336074]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_the_Pacific,630226]]'
-  - '[[_Standards/WikiData/WD~Beverly_Hills_High_School,1185037]]'
-  - '[[_Standards/WikiData/WD~Choate_Rosemary_Hall,5103452]]'
-  - '[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]'
-  - '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
-  - '[[_Standards/WikiData/WD~Westlake_High_School,7988976]]'
+- '[[_Standards/WikiData/WD~University_of_the_Pacific,630226]]'
+- '[[_Standards/WikiData/WD~Beverly_Hills_High_School,1185037]]'
+- '[[_Standards/WikiData/WD~Choate_Rosemary_Hall,5103452]]'
+- '[[_Standards/WikiData/WD~Harvard_Westlake_School,5676252]]'
+- '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
+- '[[_Standards/WikiData/WD~Westlake_High_School,7988976]]'
 occupation:
-  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~executive_producer,1053574]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 honorific_prefix: '[[_Standards/WikiData/WD~The_Right_Honourable,1480896]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Jamie,1674029]]'
-  - '[[_Standards/WikiData/WD~Lee,2061957]]'
+- '[[_Standards/WikiData/WD~Jamie,1674029]]'
+- '[[_Standards/WikiData/WD~Lee,2061957]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 family_name: '[[_Standards/WikiData/WD~Curtis,12787162]]'
 child:
-  - '[[_Standards/WikiData/WD~Ruby_Guest,43376115]]'
-  - '[[_Standards/WikiData/WD~Annie_Guest,56234831]]'
+- '[[_Standards/WikiData/WD~Ruby_Guest,43376115]]'
+- '[[_Standards/WikiData/WD~Annie_Guest,56234831]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Q75600472,75600472]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Q75600472,75600472]]'
 filmography: '[[_Standards/WikiData/WD~list_of_Jamie_Lee_Curtis_performances,110324199]]'
 participant_in: '[[_Standards/WikiData/WD~Global_Conference_2022,116813846]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -86,8 +116,103 @@ Instagram_username: curtisleejamie
 X_Twitter_username: jamieleecurtis
 TikTok_username: jamieleecurtis
 Facebook_username: JamieLeeCurtis
+dv_has_:
+  name_:
+    af: Jamie Lee Curtis
+    an: Jamie Lee Curtis
+    ar: جيمي لي كرتيس
+    arz: جيمى لى كرتيس
+    ast: Jamie Lee Curtis
+    az: Ceymi Li Körtis
+    azb: جیمی لی کرتیس
+    be: Джэймі Лі Кёрціс
+    be-tarask: Джэймі Лі Кэртыс
+    bg: Джейми Лий Къртис
+    bn: জেমি লি কার্টিস
+    ca: Jamie Lee Curtis
+    ckb: جەیمی لی کێرتیس
+    cs: Jamie Lee Curtis
+    cy: Jamie Lee Curtis
+    da: Jamie Lee Curtis
+    de: Jamie Lee Curtis
+    el: Τζέιμι Λι Κέρτις
+    eml: Jamie Lee Curtis
+    en: Jamie Lee Curtis
+    en-ca: Jamie Lee Curtis
+    en-gb: Jamie Lee Curtis
+    eo: Jamie Lee Curtis
+    es: Jamie Lee Curtis
+    eu: Jamie Lee Curtis
+    fa: جیمی لی کرتیس
+    fi: Jamie Lee Curtis
+    fr: Jamie Lee Curtis
+    fy: Jamie Lee Curtis
+    ga: Jamie Lee Curtis
+    gl: Jamie Lee Curtis
+    ha: Jamie Lee Curtis
+    he: ג'יימי לי קרטיס
+    hr: Jamie Lee Curtis
+    ht: Jamie Lee Curtis
+    hu: Jamie Lee Curtis
+    hy: Ջեյմի Լի
+    ia: Jamie Lee Curtis
+    id: Jamie Lee Curtis
+    ig: Jamie Lee Curtis
+    io: Jamie Lee Curtis
+    is: Jamie Lee Curtis
+    it: Jamie Lee Curtis
+    ja: ジェイミー・リー・カーティス
+    ka: ჯეიმი ლი კერტისი
+    ko: 제이미 리 커티스
+    lb: Jamie Lee Curtis
+    lt: Jamie Lee Curtis
+    lv: Džeimija Lī Kērtisa
+    ml: ജാമി ലീ കർട്ടിസ്
+    ms: Jamie Lee Curtis
+    mul: Jamie Lee Curtis
+    nah: Jamie Lee Curtis
+    nan: Jamie Lee Curtis
+    nb: Jamie Lee Curtis
+    nds: Jamie Lee Curtis
+    nl: Jamie Lee Curtis
+    nn: Jamie Lee Curtis
+    oc: Jamie Lee Curtis
+    pap: Jamie Lee Curtis
+    pl: Jamie Lee Curtis
+    pms: Jamie Lee Curtis
+    pt: Jamie Lee Curtis
+    pt-br: Jamie Lee Curtis
+    ro: Jamie Lee Curtis
+    ru: Джейми Ли Кёртис
+    sco: Jamie Lee Curtis
+    sh: Jamie Lee Curtis
+    sk: Jamie Lee Curtisová
+    skr: جیمی لی کرٹس
+    sl: Jamie Lee Curtis
+    sq: Jamie Lee Curtis
+    sr: Џејми Ли Кертис
+    sr-ec: Џејми Ли Кертис
+    sr-el: Džejmi Li Kertis
+    sv: Jamie Lee Curtis
+    ta: ஜேமி லீ குர்திஸ்
+    th: เจมี ลี เคอร์ติส
+    tr: Jamie Lee Curtis
+    uk: Джеймі Лі Кертіс
+    ur: جیمی لی کرٹس
+    uz: Jamie Lee Curtis
+    vi: Jamie Lee Curtis
+    wuu: 杰米·李·柯蒂斯
+    yo: Jamie Lee Curtis
+    yue: 占美李寇蒂斯
+    zh: 杰米·李·柯蒂斯
+    zh-cn: 杰米·李·柯蒂斯
+    zh-hans: 杰米·李·柯蒂斯
+    zh-hant: 潔美·李·寇蒂斯
+    zh-hk: 珍美·李·寇蒂斯
+    zh-my: 洁美·李·寇蒂斯
+    zh-sg: 杰米·李·柯蒂斯
+    zh-tw: 潔美·李·寇蒂斯
 ---
-
 # [[Curtis,Jamie_Lee]] 
 
 #has_/time_/started :: 1958-11-22 

@@ -1,18 +1,84 @@
 ---
 aliases:
-  - hardness
-  - Dim~Hardness
+- Bərklik
+- Cietība
+- creoidys
+- cruas
+- Dim~Hardness
+- Dite
+- dureco
+- duresa
+- Duretat
+- dureté
+- Durez
+- dureza
+- durezza
+- Duritate
+- garasvuohta
+- Gogortasun
+- Hardeso
+- hardheid
+- hardhet
+- hardleik
+- hardness
+- Hukukutu
+- Härte
+- hårdhed
+- hårdhet
+- Kekerasan
+- keménység
+- kietis
+- korâsvuotâ
+- kovuus
+- kõrrvuõtt
+- kõvadus
+- Materiálová tvrdosť
+- Ngē-tō͘
+- Qattiqlik
+- Qattılıq
+- Sertlik
+- trdota
+- Tvrdina
+- tvrdost
+- Tvrdoća
+- twardość
+- Vakadredre
+- Độ cứng
+- Σκληρότητα υλικών
+- твёрдость
+- твердість
+- тврдоћа
+- тврдост
+- Твърдост
+- Хатуулаг
+- хъæбæрдзинад
+- цьвёрдасьць
+- Қаттылық
+- ամրություն
+- הארטקייט
+- קשיות
+- سختی
+- صلادة
+- قاتتىلىق
+- ڕەقیەتی
+- कठोरता
+- ಕಾಠಿನ್ಯ
+- കാഠിന്യം
+- სიმტკიცე
+- 硬さ
+- 硬度
+- 굳기
 has_id_wikidata: Q3236003
 subclass_of:
-  - '[[_Standards/WikiData/WD~contents_of_individual_glycerides,1409260]]'
-  - '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~contents_of_individual_glycerides,1409260]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]'
-  - '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
+- '[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]'
+- '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
 opposite_of: '[[_Standards/WikiData/WD~softness,12894628]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 facet_of: '[[_Standards/WikiData/WD~Q124512574,124512574]]'
 Wikidata_property: hardness
 different_from: '[[_Standards/WikiData/WD~Mohs_scale_of_mineral_hardness,41472]]'
@@ -21,8 +87,91 @@ Iconclass_notation: 51G4
 UMLS_CUI: C0018599
 MeSH_tree_code: G01.374.647
 Commons_category: Hardness
+dv_has_:
+  name_:
+    ar: صلادة
+    ast: Durez
+    az: Bərklik
+    be-tarask: цьвёрдасьць
+    bg: Твърдост
+    bs: Tvrdoća
+    ca: duresa
+    ckb: ڕەقیەتی
+    cs: tvrdost
+    da: hårdhed
+    de: Härte
+    el: Σκληρότητα υλικών
+    en: hardness
+    en-ca: Hardness
+    en-gb: hardness
+    eo: dureco
+    es: dureza
+    et: kõvadus
+    eu: Gogortasun
+    fa: سختی
+    fi: kovuus
+    fj: Vakadredre
+    fr: dureté
+    ga: cruas
+    gl: dureza
+    gv: creoidys
+    he: קשיות
+    hi: कठोरता
+    hr: Tvrdoća
+    ht: Dite
+    hu: keménység
+    hy: ամրություն
+    id: Kekerasan
+    io: Hardeso
+    it: durezza
+    ja: 硬さ
+    ka: სიმტკიცე
+    kk: Қаттылық
+    kk-arab: قاتتىلىق
+    kk-cyrl: Қаттылық
+    kk-latn: Qattılıq
+    kn: ಕಾಠಿನ್ಯ
+    ko: 굳기
+    lt: kietis
+    lv: Cietība
+    mk: тврдост
+    ml: കാഠിന്യം
+    mn: Хатуулаг
+    nan: Ngē-tō͘
+    nb: hardhet
+    nl: hardheid
+    nn: hardleik
+    oc: Duretat
+    os: хъæбæрдзинад
+    pl: twardość
+    pt: dureza
+    pt-br: dureza
+    ro: Duritate
+    ru: твёрдость
+    se: garasvuohta
+    sh: Tvrdoća
+    sk: Materiálová tvrdosť
+    sl: trdota
+    smn: korâsvuotâ
+    sms: kõrrvuõtt
+    sn: Hukukutu
+    sr: тврдоћа
+    sr-ec: тврдоћа
+    sr-el: Tvrdina
+    sv: hårdhet
+    tr: Sertlik
+    uk: твердість
+    uz: Qattiqlik
+    vec: Duresa
+    vi: Độ cứng
+    wuu: 硬度
+    yi: הארטקייט
+    yue: 硬度
+    zh: 硬度
+    zh-hans: 硬度
+    zh-hant: 硬度
+    zh-hk: 硬度
 ---
-
 # [[Dim~Hardness]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~hardness,3236003]]

@@ -1,32 +1,109 @@
 ---
 aliases:
+- camp magnètic estel·lar
+- campo magnetico stellare
+- campo magnético estelar
+- campu magnéticu estelar
+- champ magnétique stellaire
+- câmp magnetic stelar
+- hvězdné magnetické pole
+- Izar eremu magnetiko
+- medan magnet bintang
+- medan magnet najam
+- stela magneta kampo
+- stellair magneetveld
+- stellar magnetic field
+- stellares Magnetfeld
+- stjernemagnetfelt
+- sunčevo magnetno polje
+- tähden magneettikenttä
+- từ trường sao
+- yıldızsal manyetik alan
+- zvezdno magnetno polje
+- Çăлтăрăн магнитла уйĕ
+- ѕвездено магнетно поле
+- Жұлдыздың магнит өрісі
+- зорнае магнітнае поле
+- магнітне поле зір
+- магнитное поле звёзд
+- مجال مغناطيسي نجمي
+- ميدن مݢنيت نجم
+- میدان مغناطیسی ستارهای
+- සූර්ය චුම්බක ක්ෂේත්රය
+- สนามแม่เหล็กของดาวฤกษ์
+- ვარსკვლავთა მაგნიტური ველი
+- 恆星磁場
+- 恒星磁場
+- 항성 자기장
 has_id_wikidata: Q6449
-instance_of: "[[_Standards/WikiData/WD~astrophysical_process,15401756]]"
-part_of: "[[_Standards/WikiData/WD~star,523]]"
-subclass_of: "[[_Standards/WikiData/WD~magnetic_field,11408]]"
-studied_by: "[[_Standards/WikiData/WD~astrophysics,37547]]"
+instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756]]'
+part_of: '[[_Standards/WikiData/WD~star,523]]'
+subclass_of: '[[_Standards/WikiData/WD~magnetic_field,11408]]'
+studied_by: '[[_Standards/WikiData/WD~astrophysics,37547]]'
 Commons_category: Stellar magnetic fields
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]"
-    - "[[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]]"
-    - "[[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]]"
-    - "[[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]]"
-    - "[[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]]"
-    - "[[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]]"
-    - "[[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]]"
-    - "[[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]]"
+  - '[[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]'
+  - '[[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]]'
+  - '[[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]]'
+  - '[[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]]'
+  - '[[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]]'
+  - '[[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]]'
+  - '[[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]]'
+  - '[[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]"
-  - "[[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]]"
-  - "[[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]]"
-  - "[[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]]"
-  - "[[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]]"
-  - "[[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]]"
-  - "[[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]]"
-  - "[[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]]"
+- '[[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]'
+- '[[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]]'
+- '[[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]]'
+- '[[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]]'
+- '[[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]]'
+- '[[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]]'
+- '[[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]]'
+- '[[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]]'
+dv_has_:
+  name_:
+    ar: مجال مغناطيسي نجمي
+    ast: campu magnéticu estelar
+    be-tarask: зорнае магнітнае поле
+    ca: camp magnètic estel·lar
+    cs: hvězdné magnetické pole
+    cv: Çăлтăрăн магнитла уйĕ
+    de: stellares Magnetfeld
+    en: stellar magnetic field
+    en-ca: stellar magnetic field
+    en-gb: stellar magnetic field
+    eo: stela magneta kampo
+    es: campo magnético estelar
+    eu: Izar eremu magnetiko
+    fa: میدان مغناطیسی ستارهای
+    fi: tähden magneettikenttä
+    fr: champ magnétique stellaire
+    id: medan magnet bintang
+    it: campo magnetico stellare
+    ja: 恒星磁場
+    ka: ვარსკვლავთა მაგნიტური ველი
+    kk: Жұлдыздың магнит өрісі
+    ko: 항성 자기장
+    mk: ѕвездено магнетно поле
+    ms: medan magnet najam
+    ms-arab: ميدن مݢنيت نجم
+    nb: stjernemagnetfelt
+    nl: stellair magneetveld
+    nn: stjernemagnetfelt
+    pt: campo magnético estelar
+    pt-br: campo magnético estelar
+    ro: câmp magnetic stelar
+    ru: магнитное поле звёзд
+    si: සූර්ය චුම්බක ක්ෂේත්රය
+    sl: zvezdno magnetno polje
+    sr: sunčevo magnetno polje
+    th: สนามแม่เหล็กของดาวฤกษ์
+    tr: yıldızsal manyetik alan
+    uk: магнітне поле зір
+    vi: từ trường sao
+    yue: 恆星磁場
+    zh: 恆星磁場
 ---
-
 # [[Stellar_magnetic_Field]] 
 
 #is_/same_as :: [[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]  

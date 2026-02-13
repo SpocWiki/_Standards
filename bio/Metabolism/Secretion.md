@@ -1,12 +1,65 @@
 ---
 aliases:
+- erite
+- rembesan
+- secreción
+- secretiad
+- secretie
+- secretion
+- secreção
+- sekreciaĵo
+- Sekret
+- Sekret (biologi)
+- sekrét
+- sécrétion
+- tál
+- váladék
+- лач
+- сакрэт
+- секрет
+- секреция
+- սեկրեցիա
+- הפרשות
+- إفرازات
+- নিঃসরণ
+- 分泌物
 has_id_wikidata: Q12334861
-has_cause: "[[_Standards/WikiData/WD~secretion,84230]]"
+has_cause: '[[_Standards/WikiData/WD~secretion,84230]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~biogenic_substance,289472]]"
-  - "[[_Standards/WikiData/WD~secretion_or_excretion,19388114]]"
+- '[[_Standards/WikiData/WD~biogenic_substance,289472]]'
+- '[[_Standards/WikiData/WD~secretion_or_excretion,19388114]]'
+dv_has_:
+  name_:
+    ar: إفرازات
+    be-tarask: сакрэт
+    bn: নিঃসরণ
+    cy: secretiad
+    da: Sekret
+    de: Sekret
+    en: secretion
+    eo: sekreciaĵo
+    es: secreción
+    fi: erite
+    fr: sécrétion
+    ga: tál
+    gl: secreción
+    he: הפרשות
+    hu: váladék
+    hy: սեկրեցիա
+    ja: 分泌物
+    mk: лач
+    ms: rembesan
+    nb: Sekret (biologi)
+    nl: secretie
+    nn: sekret
+    pt: secreção
+    pt-br: secreção
+    ru: секреция
+    sk: sekrét
+    sl: sekret
+    sv: sekret
+    uk: секрет
 ---
-
 # [[Secretion]] 
 
 #is_/different_from :: [[Excretion]] 

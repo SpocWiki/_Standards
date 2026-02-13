@@ -1,10 +1,226 @@
 ---
 aliases:
-  - Donald Sutherland
-  - Donald McNichol Sutherland
-  - Sutherland,Donald
+- Donald McNichol Sutherland
+- Donald Saderland
+- Donald Sazerlend
+- Donald Sutherland
+- Donalds Saterlends
+- Donaldus Sutherland
+- Sutherland,Donald
+- Ντόναλντ Σάδερλαντ
+- Доналд Садерланд
+- Доналд Сатерленд
+- Доналд Съдърланд
+- Дональд Сазерленд
+- Дональд Сазэрлэнд
+- Դոնալդ Սաթերլենդ
+- דונלד סאת'רלנד
+- دونالد ساترلند
+- دونالد ساذرلاند
+- دونالد سثرلاند
+- ڈونلڈ سدرلینڈ
+- डॉनल्ड सदरलँड
+- ডোনাল্ড সাদারল্যান্ড
+- డోనాల్డ్ సదర్లాండ్
+- โดนัลด์ ซูเธอร์แลนด์
+- დონალდ სადერლენდი
+- დონალდ საზერლენდი
+- ᱰᱳᱱᱟᱞᱰ ᱥᱟᱛᱷᱚᱨᱞᱮᱱᱰ
+- ドナルド・サザーランド
+- 唐納·蘇德蘭
+- 唐纳·苏德兰
+- 唐纳德·萨瑟兰
+- 当奴·修打兰
+- 當奴·修打蘭
+- 當奴修打蘭
+- 도널드 서덜랜드
+has_id_wikidata: Q103784
+dv_has_:
+  name_:
+    ace: Donald Sutherland
+    af: Donald Sutherland
+    aln: Donald Sutherland
+    an: Donald Sutherland
+    ar: دونالد ساذرلاند
+    arz: دونالد سثرلاند
+    ast: Donald Sutherland
+    atj: Donald Sutherland
+    az: Donald Sazerlend
+    azb: دونالد ساترلند
+    bar: Donald Sutherland
+    bcl: Donald Sutherland
+    be: Дональд Сазерленд
+    be-tarask: Дональд Сазэрлэнд
+    bg: Доналд Съдърланд
+    bn: ডোনাল্ড সাদারল্যান্ড
+    br: Donald Sutherland
+    bs: Donald Sutherland
+    ca: Donald Sutherland
+    co: Donald Sutherland
+    cr: Donald Sutherland
+    cs: Donald Sutherland
+    cy: Donald Sutherland
+    da: Donald Sutherland
+    de: Donald Sutherland
+    de-at: Donald Sutherland
+    de-ch: Donald Sutherland
+    dsb: Donald Sutherland
+    ee: Donald Sutherland
+    egl: Donald Sutherland
+    el: Ντόναλντ Σάδερλαντ
+    eml: Donald Sutherland
+    en: Donald Sutherland
+    en-ca: Donald Sutherland
+    en-gb: Donald Sutherland
+    eo: Donald Sutherland
+    es: Donald Sutherland
+    et: Donald Sutherland
+    eu: Donald Sutherland
+    ext: Donald Sutherland
+    fa: دونالد ساترلند
+    ff: Donald Sutherland
+    fi: Donald Sutherland
+    fit: Donald Sutherland
+    fj: Donald Sutherland
+    fo: Donald Sutherland
+    fr: Donald Sutherland
+    frc: Donald Sutherland
+    frp: Donald Sutherland
+    frr: Donald Sutherland
+    fur: Donald Sutherland
+    fy: Donald Sutherland
+    ga: Donald Sutherland
+    gag: Donald Sutherland
+    gd: Donald Sutherland
+    gl: Donald Sutherland
+    gn: Donald Sutherland
+    gsw: Donald Sutherland
+    ha: Donald Sutherland
+    haw: Donald Sutherland
+    he: דונלד סאת'רלנד
+    hr: Donald Sutherland
+    hrx: Donald Sutherland
+    hsb: Donald Sutherland
+    ht: Donald Sutherland
+    hu: Donald Sutherland
+    hy: Դոնալդ Սաթերլենդ
+    ia: Donald Sutherland
+    id: Donald Sutherland
+    ie: Donald Sutherland
+    ig: Donald Sutherland
+    io: Donald Sutherland
+    is: Donald Sutherland
+    it: Donald Sutherland
+    ja: ドナルド・サザーランド
+    jam: Donald Sutherland
+    jbo: Donald Sutherland
+    jut: Donald Sutherland
+    jv: Donald Sutherland
+    ka: დონალდ სადერლენდი
+    kaa: Donald Sutherland
+    ko: 도널드 서덜랜드
+    ksh: Donald Sutherland
+    kw: Donald Sutherland
+    la: Donaldus Sutherland
+    lb: Donald Sutherland
+    lfn: Donald Sutherland
+    li: Donald Sutherland
+    lt: Donald Sutherland
+    lv: Donalds Saterlends
+    map-bms: Donald Sutherland
+    mk: Доналд Сатерленд
+    mn: Дональд Сазерленд
+    mr: डॉनल्ड सदरलँड
+    ms: Donald Sutherland
+    mul: Donald Sutherland
+    mus: Donald Sutherland
+    nap: Donald Sutherland
+    nb: Donald Sutherland
+    nds: Donald Sutherland
+    nds-nl: Donald Sutherland
+    nl: Donald Sutherland
+    nn: Donald Sutherland
+    nov: Donald Sutherland
+    oc: Donald Sutherland
+    olo: Donald Sutherland
+    pag: Donald Sutherland
+    pam: Donald Sutherland
+    pap: Donald Sutherland
+    pcd: Donald Sutherland
+    pdc: Donald Sutherland
+    pdt: Donald Sutherland
+    pfl: Donald Sutherland
+    pih: Donald Sutherland
+    pl: Donald Sutherland
+    pms: Donald Sutherland
+    pt: Donald Sutherland
+    pt-br: Donald Sutherland
+    qu: Donald Sutherland
+    ro: Donald Sutherland
+    roa-tara: Donald Sutherland
+    ru: Дональд Сазерленд
+    rup: Donald Sutherland
+    sat: ᱰᱳᱱᱟᱞᱰ ᱥᱟᱛᱷᱚᱨᱞᱮᱱᱰ
+    sc: Donald Sutherland
+    scn: Donald Sutherland
+    sco: Donald Sutherland
+    sdc: Donald Sutherland
+    se: Donald Sutherland
+    sei: Donald Sutherland
+    sh: Donald Sutherland
+    sk: Donald Sutherland
+    sl: Donald Sutherland
+    sq: Donald Sutherland
+    sr: Доналд Садерланд
+    sr-ec: Доналд Садерланд
+    sr-el: Donald Saderland
+    srn: Donald Sutherland
+    srq: Donald Sutherland
+    ss: Donald Sutherland
+    st: Donald Sutherland
+    stq: Donald Sutherland
+    su: Donald Sutherland
+    sv: Donald Sutherland
+    sw: Donald Sutherland
+    szl: Donald Sutherland
+    te: డోనాల్డ్ సదర్లాండ్
+    th: โดนัลด์ ซูเธอร์แลนด์
+    tl: Donald Sutherland
+    to: Donald Sutherland
+    tpi: Donald Sutherland
+    tr: Donald Sutherland
+    tum: Donald Sutherland
+    tw: Donald Sutherland
+    ty: Donald Sutherland
+    uk: Дональд Сазерленд
+    ur: ڈونلڈ سدرلینڈ
+    uz: Donald Sutherland
+    ve: Donald Sutherland
+    vec: Donald Sutherland
+    vi: Donald Sutherland
+    vls: Donald Sutherland
+    vmf: Donald Sutherland
+    vo: Donald Sutherland
+    vro: Donald Sutherland
+    wa: Donald Sutherland
+    war: Donald Sutherland
+    wo: Donald Sutherland
+    wuu: 唐纳德·萨瑟兰
+    xh: Donald Sutherland
+    xmf: დონალდ საზერლენდი
+    yo: Donald Sutherland
+    yue: 當奴修打蘭
+    zea: Donald Sutherland
+    zh: 唐纳德·萨瑟兰
+    zh-cn: 唐纳德·萨瑟兰
+    zh-hans: 唐纳德·萨瑟兰
+    zh-hant: 唐納·蘇德蘭
+    zh-hk: 當奴·修打蘭
+    zh-my: 当奴·修打兰
+    zh-sg: 唐纳·苏德兰
+    zh-tw: 唐納·蘇德蘭
+    zu: Donald Sutherland
 ---
-
 #has_/time_/started :: 1935-07-17
 #has_/time_/stopped :: 2024-06-20
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

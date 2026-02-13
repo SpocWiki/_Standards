@@ -1,9 +1,111 @@
 ---
 aliases:
-  - Harvey Keitel
-  - Keitel,Harvey
+- Harvey Keitel
+- Harvi Kajtel
+- Harvi Keytel
+- Hārvijs Keitels
+- Keitel,Harvey
+- Χάρβεϊ Καϊτέλ
+- Гарві Кейтель
+- Гарві Кейтэл
+- Харви Кајтел
+- Харви Кайтел
+- Харви Кейтел
+- Харви Кейтель
+- Харви Кэйтель
+- Հարվի Քեյթել
+- הארווי קייטל
+- هارفى كيتل
+- هارفي كيتل
+- هاروی کایتل
+- ھارڤی کیتێل
+- হার্ভি কাইটেল
+- ჰარვი კეიტელი
+- ハーヴェイ・カイテル
+- 哈維·凱托
+- 哈维·凯托
+- 哈维·凯特尔
+- 夏菲基圖
+- 하비 카이텔
+has_id_wikidata: Q191132
+dv_has_:
+  name_:
+    af: Harvey Keitel
+    an: Harvey Keitel
+    ar: هارفي كيتل
+    arz: هارفى كيتل
+    ast: Harvey Keitel
+    az: Harvi Keytel
+    azb: هاروی کایتل
+    be-tarask: Гарві Кейтэл
+    bg: Харви Кайтел
+    bn: হার্ভি কাইটেল
+    ca: Harvey Keitel
+    ckb: ھارڤی کیتێل
+    cs: Harvey Keitel
+    cy: Harvey Keitel
+    da: Harvey Keitel
+    de: Harvey Keitel
+    el: Χάρβεϊ Καϊτέλ
+    eml: Harvey Keitel
+    en: Harvey Keitel
+    eo: Harvey Keitel
+    es: Harvey Keitel
+    eu: Harvey Keitel
+    fa: هاروی کایتل
+    fi: Harvey Keitel
+    fr: Harvey Keitel
+    ga: Harvey Keitel
+    gl: Harvey Keitel
+    he: הארווי קייטל
+    hr: Harvey Keitel
+    hu: Harvey Keitel
+    hy: Հարվի Քեյթել
+    id: Harvey Keitel
+    ig: Harvey Keitel
+    it: Harvey Keitel
+    ja: ハーヴェイ・カイテル
+    ka: ჰარვი კეიტელი
+    kk: Харви Кейтель
+    ko: 하비 카이텔
+    ky: Харви Кейтел
+    lb: Harvey Keitel
+    lv: Hārvijs Keitels
+    mn: Харви Кэйтель
+    mul: Harvey Keitel
+    nb: Harvey Keitel
+    nl: Harvey Keitel
+    nn: Harvey Keitel
+    pam: Harvey Keitel
+    pap: Harvey Keitel
+    pl: Harvey Keitel
+    pt: Harvey Keitel
+    pt-br: Harvey Keitel
+    ro: Harvey Keitel
+    ru: Харви Кейтель
+    sco: Harvey Keitel
+    sh: Harvey Keitel
+    sl: Harvey Keitel
+    sq: Harvey Keitel
+    sr: Харви Кајтел
+    sr-ec: Харви Кајтел
+    sr-el: Harvi Kajtel
+    sv: Harvey Keitel
+    sw: Harvey Keitel
+    tl: Harvey Keitel
+    tr: Harvey Keitel
+    uk: Гарві Кейтель
+    xmf: ჰარვი კეიტელი
+    yo: Harvey Keitel
+    yue: 夏菲基圖
+    zh: 哈维·凯特尔
+    zh-cn: 哈维·凯特尔
+    zh-hans: 哈维·凯特尔
+    zh-hant: 哈維·凱托
+    zh-hk: 夏菲基圖
+    zh-sg: 哈维·凯托
+    zh-tw: 哈維·凱托
 ---
-
 #has_/time_/started :: 1939-05-13 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

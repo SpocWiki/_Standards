@@ -1,22 +1,129 @@
 ---
 aliases:
-  - Kult
-  - Cult
+- Cult
+- cultas
+- culte
+- culto
+- cultus
+- cuồng giáo
+- cwlt
+- Kult
+- kulta
+- kultti
+- kultu
+- kultus
+- kultusz
+- kült
+- reliģisks kults
+- secta
+- secte
+- sectă
+- seita
+- sekt
+- sekta
+- sekta destrukcyjna
+- sekte
+- sektenn
+- sekto
+- setta
+- sècta
+- αίρεση
+- култ
+- культ
+- секта
+- харизматический культ
+- պաշտամունք
+- כת
+- קולט
+- فرقه
+- كلت
+- کلٹ (فرقہ)
+- कल्ट
+- வழிபாட்டு மரபு
+- ลัทธิบูชา
+- カルト
+- 邪教
+- 컬트
 has_id_wikidata: Q11038979
 uses: '[[_Standards/WikiData/WD~brainwashing,743263]]'
 different_from:
-  - '[[_Standards/WikiData/WD~cult,756820]]'
-  - '[[_Standards/WikiData/WD~sect,19097]]'
+- '[[_Standards/WikiData/WD~cult,756820]]'
+- '[[_Standards/WikiData/WD~sect,19097]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~social_group,874405]]'
-  - '[[_Standards/WikiData/WD~social_issue,1920219]]'
-  - '[[_Standards/WikiData/WD~religious_group,111252415]]'
+- '[[_Standards/WikiData/WD~social_group,874405]]'
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~religious_group,111252415]]'
 practiced_by: '[[_Standards/WikiData/WD~cult_leader,20956402]]'
 Commons_category: Sects
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Catalogue%20of%20Sects.GIF
 subreddit: cults
+dv_has_:
+  name_:
+    ar: كلت
+    ast: secta
+    az: kult
+    be-tarask: культ
+    br: sektenn
+    bs: kult
+    ca: culte
+    cs: kult
+    cy: cwlt
+    da: kult
+    de: Kult
+    el: αίρεση
+    en: cult
+    en-gb: cult
+    eo: sekto
+    es: secta
+    et: sekt
+    eu: kultu
+    fa: فرقه
+    fi: kultti
+    fr: secte
+    ga: cultas
+    gl: culto
+    he: כת
+    hi: कल्ट
+    hr: kult
+    hu: kultusz
+    hy: պաշտամունք
+    ia: culto
+    id: kultus
+    it: setta
+    ja: カルト
+    ko: 컬트
+    la: cultus
+    lb: Sekt
+    lv: reliģisks kults
+    mg: sekta
+    mk: култ
+    ms: kultus
+    nan: cult
+    nb: kult
+    nl: sekte
+    nn: kult
+    oc: sècta
+    pl: sekta destrukcyjna
+    pt: seita
+    ro: sectă
+    ru: харизматический культ
+    se: kulta
+    sk: kult
+    sl: kult
+    sr: секта
+    sv: kult
+    ta: வழிபாட்டு மரபு
+    th: ลัทธิบูชา
+    tr: kült
+    uk: культ
+    ur: کلٹ (فرقہ)
+    vi: cuồng giáo
+    yi: קולט
+    yue: 邪教
+    zh: 邪教
+    zh-hant: 邪教
+    zh-tw: 邪教
 ---
-
 # [[Cult]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cult,11038979|WD~Cult,11038979]] 

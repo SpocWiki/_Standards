@@ -1,57 +1,130 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]]"
-    - "[[/_Standards/Earth/Geography/Place/Kremlin,Moscow|Kremlin,Moscow]]"
-    - "[[/_public/Earth/Geography/Place/Kremlin,Moscow.public|Kremlin,Moscow.public]]"
-    - "[[/_internal/Earth/Geography/Place/Kremlin,Moscow.internal|Kremlin,Moscow.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Kremlin,Moscow.protect|Kremlin,Moscow.protect]]"
-    - "[[/_private/Earth/Geography/Place/Kremlin,Moscow.private|Kremlin,Moscow.private]]"
-    - "[[/_personal/Earth/Geography/Place/Kremlin,Moscow.personal|Kremlin,Moscow.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Kremlin,Moscow.secret|Kremlin,Moscow.secret]]"
+  - '[[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]]'
+  - '[[/_Standards/Earth/Geography/Place/Kremlin,Moscow|Kremlin,Moscow]]'
+  - '[[/_public/Earth/Geography/Place/Kremlin,Moscow.public|Kremlin,Moscow.public]]'
+  - '[[/_internal/Earth/Geography/Place/Kremlin,Moscow.internal|Kremlin,Moscow.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Kremlin,Moscow.protect|Kremlin,Moscow.protect]]'
+  - '[[/_private/Earth/Geography/Place/Kremlin,Moscow.private|Kremlin,Moscow.private]]'
+  - '[[/_personal/Earth/Geography/Place/Kremlin,Moscow.personal|Kremlin,Moscow.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Kremlin,Moscow.secret|Kremlin,Moscow.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]]"
-  - "[[/_Standards/Earth/Geography/Place/Kremlin,Moscow|Kremlin,Moscow]]"
-  - "[[/_public/Earth/Geography/Place/Kremlin,Moscow.public|Kremlin,Moscow.public]]"
-  - "[[/_internal/Earth/Geography/Place/Kremlin,Moscow.internal|Kremlin,Moscow.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Kremlin,Moscow.protect|Kremlin,Moscow.protect]]"
-  - "[[/_private/Earth/Geography/Place/Kremlin,Moscow.private|Kremlin,Moscow.private]]"
-  - "[[/_personal/Earth/Geography/Place/Kremlin,Moscow.personal|Kremlin,Moscow.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Kremlin,Moscow.secret|Kremlin,Moscow.secret]]"
-
-has_time_started: 1420-01-01 
-location: [ 55.751666666, 37.617777777 ] 
+- '[[../../../WikiData/WD~Moscow_Kremlin,133274|WD~Moscow_Kremlin,133274]]'
+- '[[/_Standards/Earth/Geography/Place/Kremlin,Moscow|Kremlin,Moscow]]'
+- '[[/_public/Earth/Geography/Place/Kremlin,Moscow.public|Kremlin,Moscow.public]]'
+- '[[/_internal/Earth/Geography/Place/Kremlin,Moscow.internal|Kremlin,Moscow.internal]]'
+- '[[/_protect/Earth/Geography/Place/Kremlin,Moscow.protect|Kremlin,Moscow.protect]]'
+- '[[/_private/Earth/Geography/Place/Kremlin,Moscow.private|Kremlin,Moscow.private]]'
+- '[[/_personal/Earth/Geography/Place/Kremlin,Moscow.personal|Kremlin,Moscow.personal]]'
+- '[[/_secret/Earth/Geography/Place/Kremlin,Moscow.secret|Kremlin,Moscow.secret]]'
+has_time_started: 1420-01-01
+location:
+- 55.751666666
+- 37.617777777
 aliases:
-  - Kreml
-  - Kremlin
-  - Kremlin,Moscow
+- an Chreimil
+- Cremlino
+- Cremlinus
+- Kreemlien van Moskau
+- Kreml
+- Kreml i Moskva
+- Kreml moskiewski
+- Kremli Moskva
+- Kremlin
+- Kremlin de Moscou
+- Kremlin de Moscova
+- Kremlin de Moscovo
+- Kremlin de Moscú
+- Kremlin ha Moscow
+- Kremlin Moscfa
+- Kremlin ta’ Moska
+- Kremlin,Moscow
+- Kremlini
+- Kremlinu
+- Kremlinul
+- Kremlis
+- Kremlið í Moskvu
+- Kremlo
+- Kremlyn fan Moskou
+- Kremlîn
+- Krjeml
+- Maskvos Kremlius
+- Moscow Kremlin
+- Moskau Kreeml
+- Moskauer Kreml
+- Moskevský Kreml
+- moskovski Kremelj
+- Moskovski kremlj
+- Moskovský kremeľ
+- Moskuko Kremlina
+- Moskva-kremlin
+- Κρεμλίνο
+- Канкарса Кремль
+- Кремли Москва
+- Кремль
+- Мæскуыйы Кремль
+- Маскоўскі Крэмль
+- Москва Кремли
+- Московски Кремљ
+- Московски кремъл
+- Московский Кремль
+- Московський кремль
+- Москохан Кремль
+- Мускав Кремлĕ
+- Мәскәү Кремле
+- Մոսկովյան Կրեմլ
+- הקרמלין
+- كرملين
+- كريملين
+- كرېمل سارىيى
+- ماسکو کریملن
+- موسکو کرملینی
+- کرملین
+- کرملین کاخ
+- کرەملین
+- क्रेमलिन
+- क्रेमलीन
+- ক্রেমলিন
+- ਮਾਸਕੋ ਕ੍ਰੈਮਲਿਨ
+- கிரெம்லின்
+- മോസ്കോ ക്രെംലിൻ
+- เครมลิน
+- ເຄມລິນ
+- მოსკოვის კრემლი
+- მოსკოვიშ კრემლი
+- ⴽⵔⵉⵎⵍⵉⵏ ⵏ ⵎⵓⵙⴽⵓ
+- クレムリン
+- 克里姆林宫
+- 克里姆林宮
+- 크렘린
 has_id_wikidata: Q133274
 instance_of:
-  - '[[_Standards/WikiData/WD~kremlin,263274]]'
-  - '[[_Standards/WikiData/WD~official_residence,481289]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
-  - '[[_Standards/WikiData/WD~historic_district,15243209]]'
-  - '[[_Standards/WikiData/WD~government_building,16831714]]'
+- '[[_Standards/WikiData/WD~kremlin,263274]]'
+- '[[_Standards/WikiData/WD~official_residence,481289]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~architectural_landmark,2319498]]'
+- '[[_Standards/WikiData/WD~historic_district,15243209]]'
+- '[[_Standards/WikiData/WD~government_building,16831714]]'
 architect:
-  - '[[_Standards/WikiData/WD~Aristotile_Fioravanti,548256]]'
-  - '[[_Standards/WikiData/WD~Pietro_Antonio_Solari,1394287]]'
-  - '[[_Standards/WikiData/WD~Palace_of_Facets,2307647]]'
-  - '[[_Standards/WikiData/WD~Aloisio_da_Milano,2498026]]'
+- '[[_Standards/WikiData/WD~Aristotile_Fioravanti,548256]]'
+- '[[_Standards/WikiData/WD~Pietro_Antonio_Solari,1394287]]'
+- '[[_Standards/WikiData/WD~Palace_of_Facets,2307647]]'
+- '[[_Standards/WikiData/WD~Aloisio_da_Milano,2498026]]'
 has_use: '[[_Standards/WikiData/WD~seat_of_government,1901835]]'
 has_part_s_: '[[_Standards/WikiData/WD~Tsarskaya_Tower,2035463]]'
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Tverskoy_District,2710104]]'
-  - '[[_Standards/WikiData/WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Tverskoy_District,2710104]]'
+- '[[_Standards/WikiData/WD~Moscow,649]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Moscow_Kremlin,10999511]]'
 part_of: '[[_Standards/WikiData/WD~Kremlin_and_Red_Square,16961872]]'
 heritage_designation:
-  - '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
-  - '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+- '[[_Standards/WikiData/WD~federal_cultural_heritage_site_in_Russia,23668083]]'
+- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
 appears_in_the_heritage_monument_list: '[[_Standards/WikiData/WD~list_of_cultural_heritage_sites_in_Moscow_Kremlin,27602815]]'
 category_for_the_interior_of_the_item: '[[_Standards/WikiData/WD~Q124920626,124920626]]'
 coordinate_location: Point(37.617777777 55.751666666)
@@ -71,8 +144,118 @@ official_website: http://kreml.ru
 Wolfram_Language_entity_code: Entity["Castle", "Kremlin"]
 Krugosvet_article_archived_: istoriya/kreml-moskovskiy
 native_label: Московский Кремль
+dv_has_:
+  name_:
+    af: Kremlin
+    ar: كرملين
+    arz: كريملين
+    ast: Kremlin de Moscú
+    az: Kreml
+    azb: موسکو کرملینی
+    ba: Мәскәү Кремле
+    bcl: Kremlin
+    be: Маскоўскі Крэмль
+    be-tarask: Маскоўскі Крэмль
+    bg: Московски кремъл
+    bn: ক্রেমলিন
+    bs: Moskovski kremlj
+    ca: Kremlin de Moscou
+    ce: Москохан Кремль
+    cs: Moskevský Kreml
+    cv: Мускав Кремлĕ
+    cy: Kremlin Moscfa
+    da: Kreml
+    de: Kreml
+    de-ch: Moskauer Kreml
+    el: Κρεμλίνο
+    en: Kremlin
+    en-ca: Moscow Kremlin
+    eo: Kremlo
+    es: Kremlin
+    et: Kreml
+    eu: Moskuko Kremlina
+    fa: کرملین
+    fi: Kreml
+    fr: Kremlin
+    frr: Moskau Kreeml
+    fy: Kremlyn fan Moskou
+    ga: an Chreimil
+    gl: Kremlin de Moscova
+    he: הקרמלין
+    hi: क्रेमलिन
+    hr: Moskovski kremlj
+    hsb: Krjeml
+    hu: Kreml
+    hy: Մոսկովյան Կրեմլ
+    id: Kremlin
+    io: Moskva-kremlin
+    is: Kremlið í Moskvu
+    it: Cremlino
+    ja: クレムリン
+    ka: მოსკოვის კრემლი
+    ko: 크렘린
+    ku: Kremlîn
+    ku-arab: کرەملین
+    ku-latn: Kremlîn
+    kv: Канкарса Кремль
+    ky: Москва Кремли
+    la: Cremlinus
+    li: Kreemlien van Moskau
+    lo: ເຄມລິນ
+    lt: Maskvos Kremlius
+    lv: Kremlis
+    mk: Московски Кремљ
+    ml: മോസ്കോ ക്രെംലിൻ
+    mn: Кремль
+    ms: Kremlin
+    mt: Kremlin ta’ Moska
+    mzn: کرملین کاخ
+    na: Kremlin
+    nb: Kreml
+    ne: क्रेमलीन
+    nl: Kremlin
+    nn: Kreml i Moskva
+    os: Мæскуыйы Кремль
+    pa: ਮਾਸਕੋ ਕ੍ਰੈਮਲਿਨ
+    pl: Kreml moskiewski
+    ps: کرملین
+    pt: Kremlin
+    pt-br: Kremlin de Moscovo
+    ro: Kremlinul
+    ru: Московский Кремль
+    sc: Kremlinu
+    sh: Moskovski Kremlj
+    sk: Moskovský kremeľ
+    sl: moskovski Kremelj
+    sq: Kremlini
+    sr: Московски Кремљ
+    sr-ec: Московски Кремљ
+    sr-el: Moskovski Kremlj
+    sv: Kreml
+    ta: கிரெம்லின்
+    tg: Кремли Москва
+    tg-latn: Kremli Moskva
+    th: เครมลิน
+    tr: Kremlini
+    tt: Мәскәү кремле
+    ug: كرېمل سارىيى
+    uk: Московський кремль
+    ur: ماسکو کریملن
+    uz: Kreml
+    vi: Kremlin
+    war: Kremlin ha Moscow
+    wuu: 克里姆林宫
+    xmf: მოსკოვიშ კრემლი
+    yue: 克里姆林宮
+    zgh: ⴽⵔⵉⵎⵍⵉⵏ ⵏ ⵎⵓⵙⴽⵓ
+    zh: 克里姆林宫
+    zh-cn: 克里姆林宫
+    zh-hans: 克里姆林宫
+    zh-hant: 克里姆林宮
+    zh-hk: 克里姆林宮
+    zh-sg: 克里姆林宫
+    zh-tw: 克里姆林宮
 ---
-
 # [[Kremlin,Moscow]] 
 
 ![[../../../assets/Kremlin,Moscow,Russia.png]] 

@@ -58,7 +58,7 @@ dv_is_same_as:
 Predicate to describe the Text of Airport.
 
 Use it like this: 
-- #has_/code_icao = `=this.dv_has_code_icao`  
+- #has_/code_/icao = `=this.dv_has_code_icao`  
 - has_code_icao = `=this.dv_has_code_icao`  
 
 ICAO identifier for an airport.

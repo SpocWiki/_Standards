@@ -1,4 +1,80 @@
-
+---
+has_id_wikidata: Q17068342
+dv_has_:
+  name_:
+    af: Manosfeer
+    ar: المانوسفير
+    bcl: Manospera
+    ca: masclosfera
+    ceb: androsfera
+    cs: Manosféra
+    cy: Dynosffer
+    da: manosfære
+    de: Manosphere
+    en: manosphere
+    eo: manosfero
+    es: manosfera
+    et: Manosfäär
+    eu: Manosfera
+    fa: منوسفیر
+    fi: Manosfääri
+    fr: manosphère
+    gl: Manosfera
+    he: מנוספרה
+    hu: manoszféra
+    hy: Մենոսֆերա
+    id: Manosfer
+    it: manosfera
+    iu: ᒪᓃᓕᓂᖅ
+    ja: マノスフィア
+    ko: 남성계
+    la: manosphaera
+    lt: manosfera
+    nb: Mannosfæren
+    nl: manosphere
+    pl: manosfera
+    pt: machosfera
+    pt-br: Manosfera
+    ru: маносфера
+    sl: androsfera
+    sr: Меносфера
+    tr: manosfer
+    uk: маносфера
+    zh: 男性圈
+    zh-cn: 男性圈
+    zh-hans: 男性圈
+    zh-hant: 馬諾圈
+aliases:
+- androsfera
+- Dynosffer
+- machosfera
+- Mannosfæren
+- Manosfeer
+- Manosfer
+- manosfera
+- manosfero
+- Manosfäär
+- Manosfääri
+- manosfære
+- Manosféra
+- Manospera
+- manosphaera
+- Manosphere
+- manosphère
+- manoszféra
+- masclosfera
+- маносфера
+- Меносфера
+- Մենոսֆերա
+- מנוספרה
+- المانوسفير
+- منوسفیر
+- ᒪᓃᓕᓂᖅ
+- マノスフィア
+- 男性圈
+- 馬諾圈
+- 남성계
+---
 # [[Manosphere]] 
 
 ## #has_/text_of_/abstract 

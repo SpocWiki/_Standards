@@ -1,13 +1,49 @@
 ---
 aliases:
-  - Ignaz Philipp Semmelweis
-  - Ignaz Semmelweis
-  - Semmelweis Ignác Fülöp
-  - Semmelweis,Ignaz
+- Ignace Philippe Semmelweis
+- Ignatius Semmelweis
+- Ignaz Philipp Semmelweis
+- Ignaz Phillipp Semmelweis
+- Ignaz Semmelweis
+- Ignàc Filip Semmelweis
+- Ignàc Fülöp Semmelweis
+- Ignàzziu Semmelweis
+- Ignác Filip Semmelweis
+- Ignác Semmelweis
+- Ignācs Šemmelveišs
+- Semmelweis Ignác
+- Semmelweis Ignác Fülöp
+- Semmelweis,Ignaz
+- İqnaç Zemmelveys
+- Ιγκνάτς Σέμελβαϊς
+- Ігнац Земельвейс
+- Ігнац Земмельвейс
+- Игнац Земелвајс
+- Игнац Земелвайс
+- Игнац Семмелвейс
+- Игнац Филипп Земмельвайс
+- Игнац Филипп Земмельвейс
+- Իգնաց Ֆիլիպ Զեմելվայս
+- איגנץ זמלווייס
+- أجناتس سيملفيس
+- اجناتس سيملفيس
+- ایقناز سملویس
+- ایگناز ساملویس
+- اېګناز زېملوایس
+- ইগনাৎস জেমেলভাইস
+- இக்னாஸ் செம்மல்விஸ்
+- ఇగ్నాజ్ సెమెల్వెయ్స్
+- ഇഗ്നാസ് ഫിലിപ്പ് സെമ്മൽവെയ്സ്
+- อิกนาทซ์ เซ็มเมิลไวส์
+- იგნაც სემელვეისი
+- イグナーツ・ゼンメルヴァイス
+- 伊格納茲·菲利普·塞麥爾維斯
+- 伊格纳兹·塞麦尔维斯
+- 이그나츠 제멜바이스
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -25,12 +61,93 @@ linkTitle: Semmelweis,Ignaz
 publish: false
 publishDate: ''
 tags:
-  - Semmelweis,Ignaz
-  - excalidraw
+- Semmelweis,Ignaz
+- excalidraw
 title: Semmelweis,Ignaz
 type: private_note
+has_id_wikidata: Q59736
+dv_has_:
+  name_:
+    af: Ignaz Semmelweis
+    ar: أجناتس سيملفيس
+    arz: اجناتس سيملفيس
+    az: İqnaç Zemmelveys
+    azb: ایقناز سملویس
+    ba: Игнац Филипп Земмельвайс
+    bcl: Ignaz Semmelweis
+    be: Ігнац Земельвейс
+    bg: Игнац Земелвайс
+    bn: ইগনাৎস জেমেলভাইস
+    br: Ignaz Semmelweis
+    bs: Ignaz Semmelweis
+    ca: Ignaz Semmelweis
+    cs: Ignác Filip Semmelweis
+    da: Ignaz Semmelweis
+    de: Ignaz Semmelweis
+    el: Ιγκνάτς Σέμελβαϊς
+    en: Ignaz Semmelweis
+    eo: Ignaz Semmelweis
+    es: Ignaz Semmelweis
+    et: Ignaz Semmelweis
+    eu: Ignaz Semmelweis
+    fa: ایگناز ساملویس
+    fi: Ignaz Semmelweis
+    fr: Ignaz Philipp Semmelweis
+    ga: Ignaz Phillipp Semmelweis
+    gl: Ignaz Semmelweis
+    he: איגנץ זמלווייס
+    hr: Ignaz Semmelweis
+    hu: Semmelweis Ignác
+    hy: Իգնաց Ֆիլիպ Զեմելվայս
+    id: Ignaz Semmelweis
+    io: Ignaz Semmelweis
+    it: Ignác Semmelweis
+    ja: イグナーツ・ゼンメルヴァイス
+    ka: იგნაც სემელვეისი
+    ko: 이그나츠 제멜바이스
+    kw: Ignaz Semmelweis
+    la: Ignatius Semmelweis
+    lb: Ignaz Semmelweis
+    lij: Ignàc Filip Semmelweis
+    lt: Ignaz Philipp Semmelweis
+    lv: Ignācs Šemmelveišs
+    mg: Ignace Philippe Semmelweis
+    ml: ഇഗ്നാസ് ഫിലിപ്പ് സെമ്മൽവെയ്സ്
+    ms: Ignaz Semmelweis
+    nb: Ignaz Semmelweis
+    nl: Ignaz Semmelweis
+    nn: Ignaz Semmelweis
+    pam: Ignaz Semmelweis
+    pl: Ignaz Semmelweis
+    ps: اېګناز زېملوایس
+    pt: Ignaz Semmelweis
+    pt-br: Ignaz Semmelweis
+    ro: Ignaz Semmelweis
+    ru: Игнац Филипп Земмельвейс
+    rue: Игнац Семмелвейс
+    sc: Ignàc Fülöp Semmelweis
+    scn: Ignàzziu Semmelweis
+    sh: Ignaz Semmelweis
+    sk: Ignác Filip Semmelweis
+    sl: Ignaz Semmelweis
+    sq: Ignaz Semmelweis
+    sr: Игнац Земелвајс
+    sv: Ignaz Semmelweis
+    ta: இக்னாஸ் செம்மல்விஸ்
+    te: ఇగ్నాజ్ సెమెల్వెయ్స్
+    th: อิกนาทซ์ เซ็มเมิลไวส์
+    tl: Ignaz Semmelweis
+    tr: Ignaz Semmelweis
+    uk: Ігнац Земмельвейс
+    uz: Ignaz Semmelweis
+    vi: Ignaz Semmelweis
+    war: Ignaz Semmelweis
+    wuu: 伊格纳兹·塞麦尔维斯
+    xmf: იგნაც სემელვეისი
+    zh: 伊格纳兹·塞麦尔维斯
+    zh-cn: 伊格纳兹·塞麦尔维斯
+    zh-hant: 伊格納茲·菲利普·塞麥爾維斯
 ---
-
 # [[Semmelweis,Ignaz]] 
 
 #has_/time_/started ::  1818-07-01

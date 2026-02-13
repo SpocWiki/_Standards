@@ -1,36 +1,69 @@
 ---
 aliases:
+- Augstākā beisbola līga
+- Beisbol Liga Handiak
+- Grandaj Ligoj de Basbalo
+- Grandes Ligas de Béisbol
+- Grandes Lligues de Béisbol
+- Iá-kiû Tāi Liân-bêng
+- Ligue majeure de baseball
+- Major League Baseball
+- Major League Baseball (MLB)
+- MLB
+- Æþele Lega Baasbeall
+- Галоўная бэйсбольная ліга
+- Галоўная ліга бейсбола
+- Главна бејзболска лига
+- Главная лига бейсбола
+- Головна бейсбольна ліга
+- Лигаи бартари бейсболи Амрико
+- Мейджър Лийг Бейзбол
+- МЛБ
+- Բեյսբոլի բարձրագույն լիգա
+- دوري كرة القاعدة الرئيسي
+- لیگ برتر بیسبال آمریکا
+- ميچور ليج بيسبول
+- मेजर लीग बेसबॉल
+- ਮੇਜਰ ਲੀਗ ਬੇਸਬਾਲ
+- பெரும் கூட்டிணைவு அடிப்பந்தாட்டம்
+- เมเจอร์ลีกเบสบอล
+- ბეისბოლის მთავარი ლიგა
+- メジャーリーグベースボール
+- 美国职业棒球大联盟
+- 美國職棒大聯盟
+- 美國職業棒球大聯盟
+- 메이저 리그 베이스볼
 has_id_wikidata: Q1163715
 has_part_s_:
-  - "[[_Standards/WikiData/WD~American_League,465469]]"
-  - "[[_Standards/WikiData/WD~National_League,858082]]"
+- '[[_Standards/WikiData/WD~American_League,465469]]'
+- '[[_Standards/WikiData/WD~National_League,858082]]'
 child_organization_or_unit:
-  - "[[_Standards/WikiData/WD~American_League,465469]]"
-  - "[[_Standards/WikiData/WD~National_League,858082]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Commissioner_of_Baseball,1051088]]"
-league_level_below: "[[_Standards/WikiData/WD~Class_AAA,5359555]]"
+- '[[_Standards/WikiData/WD~American_League,465469]]'
+- '[[_Standards/WikiData/WD~National_League,858082]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Commissioner_of_Baseball,1051088]]'
+league_level_below: '[[_Standards/WikiData/WD~Class_AAA,5359555]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~baseball_league,6631808]]"
-  - "[[_Standards/WikiData/WD~professional_sports_league,15991290]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_MLB,10596571]]"
+- '[[_Standards/WikiData/WD~baseball_league,6631808]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_MLB,10596571]]'
 inception:
-  - 1869-01-01T00:00:00Z
-  - 1903-01-01T00:00:00Z
-sport: "[[_Standards/WikiData/WD~baseball,5369]]"
+- 1869-01-01T00:00:00Z
+- 1903-01-01T00:00:00Z
+sport: '[[_Standards/WikiData/WD~baseball,5369]]'
 country:
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-headquarters_locations: "[[_Standards/WikiData/WD~New_York_City,60]]"
-season_starts: "[[_Standards/WikiData/WD~April,118]]"
-season_ends: "[[_Standards/WikiData/WD~October,124]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
+season_starts: '[[_Standards/WikiData/WD~April,118]]'
+season_ends: '[[_Standards/WikiData/WD~October,124]]'
 event_interval: 1
 number_of_participants: 30
 number_of_matches_played_races_starts: 162
 social_media_followers: 6640000
-edition_number: "144"
+edition_number: 144
 official_website:
-  - https://www.mlb.com/
-  - https://www.mlb.com/es
+- https://www.mlb.com/
+- https://www.mlb.com/es
 IMDb_keyword: mlb
 TikTok_username: mlb
 Giphy_username: mlb
@@ -40,30 +73,109 @@ Instagram_username: mlb
 domain_name: mlb.com
 Bluesky_handle: mlb.com
 short_name:
-  - MLB
-  - МЛБ
-  - امالبی
-  - LMB
-  - 大リーグ
-  - Bí-kok Chit-pāng
-  - МЛБ
-  - ЕмЕлБи
-  - เอ็มแอลบี
-  - МЛБ
-  - 美国职棒
-  - 美國職棒
+- MLB
+- МЛБ
+- امالبی
+- LMB
+- 大リーグ
+- Bí-kok Chit-pāng
+- МЛБ
+- ЕмЕлБи
+- เอ็มแอลบี
+- МЛБ
+- 美国职棒
+- 美國職棒
 X_Twitter_username:
-  - MLB
-  - MLB_PR
+- MLB
+- MLB_PR
 Commons_category: Major League Baseball
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fenway%20Park%20field%20banner.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Major%20League%20Baseball%20logo.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MLB%20game.JPG
 official_shop_URL: https://www.mlbshop.com/
-ISNI: "0000000086475728"
+ISNI: 0000000086475728
 Reddit_username: mlbofficial
+dv_has_:
+  name_:
+    af: Major League Baseball
+    ang: Æþele Lega Baasbeall
+    ar: دوري كرة القاعدة الرئيسي
+    arz: ميچور ليج بيسبول
+    ast: Grandes Lligues de Béisbol
+    ban: Major League Baseball
+    be: Галоўная ліга бейсбола
+    be-tarask: Галоўная бэйсбольная ліга
+    bg: Мейджър Лийг Бейзбол
+    ca: Major League Baseball
+    cs: Major League Baseball
+    da: Major League Baseball
+    de: Major League Baseball
+    el: MLB
+    en: Major League Baseball
+    en-ca: Major League Baseball
+    en-gb: Major League Baseball
+    en-us: Major League Baseball
+    eo: Grandaj Ligoj de Basbalo
+    es: Grandes Ligas de Béisbol
+    et: MLB
+    eu: Beisbol Liga Handiak
+    fa: لیگ برتر بیسبال آمریکا
+    fi: Major League Baseball
+    fr: Ligue majeure de baseball
+    fy: Major League Baseball
+    gl: Major League Baseball
+    he: MLB
+    hi: मेजर लीग बेसबॉल
+    hif: Major League Baseball (MLB)
+    hr: Major League Baseball
+    hu: Major League Baseball
+    hy: Բեյսբոլի բարձրագույն լիգա
+    id: Major League Baseball
+    io: Major League Baseball
+    is: Major League Baseball
+    it: Major League Baseball
+    ja: メジャーリーグベースボール
+    ka: ბეისბოლის მთავარი ლიგა
+    ko: 메이저 리그 베이스볼
+    lt: Major League Baseball
+    lv: Augstākā beisbola līga
+    min: Major League Baseball
+    mk: Главна бејзболска лига
+    mr: मेजर लीग बेसबॉल
+    ms: Major League Baseball
+    mul: Major League Baseball
+    nan: Iá-kiû Tāi Liân-bêng
+    nb: Major League Baseball
+    nl: Major League Baseball
+    pa: ਮੇਜਰ ਲੀਗ ਬੇਸਬਾਲ
+    pap: Major League Baseball
+    pl: Major League Baseball
+    pt: Major League Baseball
+    pt-br: Major League Baseball
+    ro: Major League Baseball
+    ru: Главная лига бейсбола
+    ryu: メジャーリーグベースボール
+    sh: Major League Baseball
+    sk: Major League Baseball
+    sl: Major League Baseball
+    sr: МЛБ
+    sv: Major League Baseball
+    ta: பெரும் கூட்டிணைவு அடிப்பந்தாட்டம்
+    tg: Лигаи бартари бейсболи Амрико
+    th: เมเจอร์ลีกเบสบอล
+    tl: Major League Baseball
+    tr: Major League Baseball
+    uk: Головна бейсбольна ліга
+    vi: Major League Baseball
+    wuu: 美国职业棒球大联盟
+    yi: MLB
+    yue: 美國職業棒球大聯盟
+    zh: 美國職棒大聯盟
+    zh-cn: 美国职业棒球大联盟
+    zh-hans: 美国职业棒球大联盟
+    zh-hant: 美國職業棒球大聯盟
+    zh-tw: 美國職業棒球大聯盟
 ---
-
 # [[Major_League_Baseball]] 
 
 #is_/same_as :: [[WD~Major_League_Baseball,1163715]] 

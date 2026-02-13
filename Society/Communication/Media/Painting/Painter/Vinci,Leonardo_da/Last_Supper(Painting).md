@@ -1,60 +1,138 @@
 ---
-has_time_started: 1490-01-01 
-location: [ 9.170833333 , 45.466666666 ] 
+has_time_started: 1490-01-01
+location: '[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]'
 aliases:
-  - The_Last_Supper
-  - Il Cenacolo [il tʃeˈnaːkolo] or L'Ultima Cena
-  - Last_Supper(Painting)
-  - Last Supper(Painting)
+- A Última Cea
+- A Última Ceia
+- An Suipéar Déanach
+- An Urhi nga Pangiklop
+- Az utolsó vacsora
+- Azken Afaria
+- Bữa ăn tối cuối cùng
+- Chòe-āu ê Àn-pn̄g
+- Cina cea de Taină
+- Darka e Fundit
+- Das Abendmahl
+- Den sidste nadver
+- Die Laaste Avondmaal
+- El Sant Sopar
+- Het Laatste Avondmaal
+- Il Cenacolo [il tʃeˈnaːkolo] or L'Ultima Cena
+- L'Ultima Cena
+- L-Aħħar Ċena
+- La Cène
+- La Lasta Supeo
+- La Lasta Vespermanĝo
+- La Zena Darera
+- La Última Cena
+- Last Supper(Painting)
+- Last_Supper(Painting)
+- Lètste aovendmaol
+- Nattvarden
+- Nattverden
+- Ostatnia Wieczerza
+- Paskutinė vakarienė
+- Perjamuan Terakhir
+- Posledná večera
+- Poslední večeře
+- Posljednja večera
+- Pyhä ehtoollinen
+- Püha õhtusöömaaeg
+- sazikuzay a nikalabi
+- Son Akşam Yemeği
+- Sonuncu şam yeməyi
+- Svētais vakarēdiens
+- Tajna večera
+- The Last Supper
+- The_Last_Supper
+- Ti Maudi a Pangrabii
+- Ultima Cena
+- Viimeinen ehtoollinen
+- Y Swper Olaf
+- Zadnja večerja
+- Ùltema Sena
+- Ùrtima cena
+- Ο Μυστικός Δείπνος
+- Жасырын кешкілік
+- Соңгы кичке аш мәҗлесе
+- Тајна вечера
+- Тајната вечера
+- Тайна вечеря
+- Тайната вечеря
+- Тайная вечеря
+- Тайная вячэра
+- Խորհրդավոր ընթրիք
+- Խորհրդաւոր ընթրիք
+- הסעודה האחרונה
+- آخرین شوم (داوینچی)
+- العشاء الأخير
+- العشاء الاخير (لوحه)
+- شام آخر
+- عشائے ربانی (لیونارڈو)
+- द लास्ट सपर
+- দ্যা লাস্ট সাপার
+- ਆਖ਼ਰੀ ਰਾਤ ਦਾ ਭੋਜ (ਲਿਓਨਾਰਦੋ)
+- ଦ ଲାଷ୍ଟ୍ ସପ୍ପର୍
+- இறுதி இராவுணவு
+- ಲಾಸ್ಟ್ ಸಪ್ಪರ್
+- അന്ത്യതിരുവത്താഴം
+- අවසන් භෝජන සංග්රහය
+- พระกระยาหารมื้อสุดท้าย
+- နောက်ဆုံးညစာ (ပန်းချီ)
+- საიდუმლო სერობა
+- 最后的晚餐
+- 最後の晩餐
+- 最後晚餐
+- 最後的晚餐
+- 최후의 만찬
 has_id_wikidata: Q128910
 depicts:
-  - '[[_Standards/WikiData/WD~Judas_Iscariot,81018]]'
-  - '[[_Standards/WikiData/WD~cup,81727]]'
-  - '[[_Standards/WikiData/WD~tunic,201714]]'
-  - '[[_Standards/WikiData/WD~tablecloth,536168]]'
-  - '[[_Standards/WikiData/WD~cup_with_stem,2100893]]'
-  - '[[_Standards/WikiData/WD~wine,282]]'
-  - '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
-  - '[[_Standards/WikiData/WD~bread,7802]]'
-  - '[[_Standards/WikiData/WD~Simon_the_Zealot,12871]]'
-  - '[[_Standards/WikiData/WD~table,14748]]'
-  - '[[_Standards/WikiData/WD~knife,32489]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
-  - '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
-  - '[[_Standards/WikiData/WD~window,35473]]'
-  - '[[_Standards/WikiData/WD~Andrew_the_Apostle,43399]]'
-  - '[[_Standards/WikiData/WD~Matthew_the_Apostle,43600]]'
-  - '[[_Standards/WikiData/WD~Thomas_the_Apostle,43669]]'
-  - '[[_Standards/WikiData/WD~Philip_the_Apostle,43675]]'
-  - '[[_Standards/WikiData/WD~Jude_the_Apostle,43945]]'
-  - '[[_Standards/WikiData/WD~Bartholomew_the_Apostle,43982]]'
-  - '[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]'
-  - '[[_Standards/WikiData/WD~John_the_Apostle,44015]]'
-  - '[[_Standards/WikiData/WD~James,_son_of_Alphaeus,44047]]'
-  - '[[_Standards/WikiData/WD~Last_Supper,51633]]'
-  - '[[_Standards/WikiData/WD~plate,57216]]'
+- '[[_Standards/WikiData/WD~Judas_Iscariot,81018]]'
+- '[[_Standards/WikiData/WD~cup,81727]]'
+- '[[_Standards/WikiData/WD~tunic,201714]]'
+- '[[_Standards/WikiData/WD~tablecloth,536168]]'
+- '[[_Standards/WikiData/WD~cup_with_stem,2100893]]'
+- '[[_Standards/WikiData/WD~wine,282]]'
+- '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+- '[[_Standards/WikiData/WD~bread,7802]]'
+- '[[_Standards/WikiData/WD~Simon_the_Zealot,12871]]'
+- '[[_Standards/WikiData/WD~table,14748]]'
+- '[[_Standards/WikiData/WD~knife,32489]]'
+- '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
+- '[[_Standards/WikiData/WD~window,35473]]'
+- '[[_Standards/WikiData/WD~Andrew_the_Apostle,43399]]'
+- '[[_Standards/WikiData/WD~Matthew_the_Apostle,43600]]'
+- '[[_Standards/WikiData/WD~Thomas_the_Apostle,43669]]'
+- '[[_Standards/WikiData/WD~Philip_the_Apostle,43675]]'
+- '[[_Standards/WikiData/WD~Jude_the_Apostle,43945]]'
+- '[[_Standards/WikiData/WD~Bartholomew_the_Apostle,43982]]'
+- '[[_Standards/WikiData/WD~St._James_the_Elder,_Apostle,43999]]'
+- '[[_Standards/WikiData/WD~John_the_Apostle,44015]]'
+- '[[_Standards/WikiData/WD~James,_son_of_Alphaeus,44047]]'
+- '[[_Standards/WikiData/WD~Last_Supper,51633]]'
+- '[[_Standards/WikiData/WD~plate,57216]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~fresco_painting,134194]]'
-  - '[[_Standards/WikiData/WD~work_of_art,838948]]'
-  - '[[_Standards/WikiData/WD~wall_painting,99516640]]'
+- '[[_Standards/WikiData/WD~fresco_painting,134194]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~wall_painting,99516640]]'
 country_of_origin: '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~tempera,175166]]'
-  - '[[_Standards/WikiData/WD~gesso,1514256]]'
+- '[[_Standards/WikiData/WD~tempera,175166]]'
+- '[[_Standards/WikiData/WD~gesso,1514256]]'
 commissioned_by: '[[_Standards/WikiData/WD~Ludovico_Sforza,236853]]'
-location: '[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]'
 collection: '[[_Standards/WikiData/WD~Santa_Maria_delle_Grazie,244952]]'
 different_from: '[[_Standards/WikiData/WD~The_Last_Supper,398723]]'
 fabrication_method: '[[_Standards/WikiData/WD~fresco_secco,2263612]]'
 genre: '[[_Standards/WikiData/WD~religious_art,2864737]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~The_Last_Supper,4003124]]'
-  - '[[_Standards/WikiData/WD~The_Last_Supper,29130277]]'
-  - "[[_Standards/WikiData/WD~works_after_Leonardo_da_Vinci's_Last_Supper,33080871]]"
+- '[[_Standards/WikiData/WD~The_Last_Supper,4003124]]'
+- '[[_Standards/WikiData/WD~The_Last_Supper,29130277]]'
+- "[[_Standards/WikiData/WD~works_after_Leonardo_da_Vinci's_Last_Supper,33080871]]"
 based_on: '[[_Standards/WikiData/WD~John_13,9165882]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]'
-  - '[[_Standards/WikiData/WD~Q133276903,133276903]]'
+- '[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]'
+- '[[_Standards/WikiData/WD~Q133276903,133276903]]'
 inception: 1490-01-01T00:00:00Z
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Milan,490]]'
 creator: '[[_Standards/WikiData/WD~Leonardo_da_Vinci,762]]'
@@ -65,25 +143,120 @@ height: 700
 width: 880
 main_subject: '[[_Standards/WikiData/WD~Last_Supper,51633]]'
 catalog_code:
-  - 6
-  - XVII
+- 6
+- XVII
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonardo%20da%20Vinci%20%281452-1519%29%20-%20The%20Last%20Supper%20%281495-1498%29.jpg
 name:
-  - Last Supper
-  - العشاء الأخير
-  - la Cène
-  - une Cène
-  - un Cenacolo
+- Last Supper
+- العشاء الأخير
+- la Cène
+- une Cène
+- un Cenacolo
 depicts_Iconclass_notation: 73D2
 Commons_category: Last Supper by Leonardo da Vinci
 described_at_URL:
-  - http://legraziemilano.it/ultima-cena/
-  - https://cenacolovinciano.org
-  - https://www.katholisch.de/artikel/9775-das-sind-die-boten-des-herrn
+- http://legraziemilano.it/ultima-cena/
+- https://cenacolovinciano.org
+- https://www.katholisch.de/artikel/9775-das-sind-die-boten-des-herrn
 official_website: https://cenacolovinciano.org
 coordinate_location: Point(9.170833333 45.466666666)
+dv_has_:
+  name_:
+    af: Die Laaste Avondmaal
+    ar: العشاء الأخير
+    arz: العشاء الاخير (لوحه)
+    az: Sonuncu şam yeməyi
+    be: Тайная вячэра
+    be-tarask: Тайная вячэра
+    bg: Тайната вечеря
+    bn: দ্যা লাস্ট সাপার
+    br: L'Ultima Cena
+    bs: Posljednja večera
+    ca: El Sant Sopar
+    cs: Poslední večeře
+    cy: Y Swper Olaf
+    da: Den sidste nadver
+    de: Das Abendmahl
+    el: Ο Μυστικός Δείπνος
+    en: The Last Supper
+    eo: La Lasta Vespermanĝo
+    es: La Última Cena
+    et: Püha õhtusöömaaeg
+    eu: Azken Afaria
+    fa: شام آخر
+    fi: Pyhä ehtoollinen
+    fr: La Cène
+    ga: An Suipéar Déanach
+    gl: A Última Cea
+    he: הסעודה האחרונה
+    hi: द लास्ट सपर
+    hr: Posljednja večera
+    hu: Az utolsó vacsora
+    hy: Խորհրդավոր ընթրիք
+    hyw: Խորհրդաւոր ընթրիք
+    id: Perjamuan Terakhir
+    ilo: Ti Maudi a Pangrabii
+    io: La Lasta Supeo
+    it: Ultima Cena
+    ja: 最後の晩餐
+    ka: საიდუმლო სერობა
+    kk: Жасырын кешкілік
+    kn: ಲಾಸ್ಟ್ ಸಪ್ಪರ್
+    ko: 최후의 만찬
+    la: Ultima Cena
+    li: Lètste aovendmaol
+    lmo: La Zena Darera
+    lt: Paskutinė vakarienė
+    lv: Svētais vakarēdiens
+    mk: Тајната вечера
+    ml: അന്ത്യതിരുവത്താഴം
+    mr: द लास्ट सपर
+    mt: L-Aħħar Ċena
+    my: နောက်ဆုံးညစာ (ပန်းချီ)
+    mzn: آخرین شوم (داوینچی)
+    nan: Chòe-āu ê Àn-pn̄g
+    nb: Nattverden
+    nl: Het Laatste Avondmaal
+    or: ଦ ଲାଷ୍ଟ୍ ସପ୍ପର୍
+    pa: ਆਖ਼ਰੀ ਰਾਤ ਦਾ ਭੋਜ (ਲਿਓਨਾਰਦੋ)
+    pl: Ostatnia Wieczerza
+    pnb: عشائے ربانی (لیونارڈو)
+    pt: A Última Ceia
+    ro: Cina cea de Taină
+    ru: Тайная вечеря
+    scn: Ùrtima cena
+    sco: The Last Supper
+    sh: Posljednja večera
+    si: අවසන් භෝජන සංග්රහය
+    sk: Posledná večera
+    sl: Zadnja večerja
+    sq: Darka e Fundit
+    sr: Тајна вечера
+    sr-ec: Тајна вечера
+    sr-el: Tajna večera
+    su: Viimeinen ehtoollinen
+    sv: Nattvarden
+    szy: sazikuzay a nikalabi
+    ta: இறுதி இராவுணவு
+    th: พระกระยาหารมื้อสุดท้าย
+    tr: Son Akşam Yemeği
+    tt: Соңгы кичке аш мәҗлесе
+    uk: Тайна вечеря
+    ur: عشائے ربانی (لیونارڈو)
+    vec: Ùltema Sena
+    vi: Bữa ăn tối cuối cùng
+    war: An Urhi nga Pangiklop
+    wuu: 最后的晚餐
+    yue: 最後晚餐
+    zh: 最後的晚餐
+    zh-cn: 最后的晚餐
+    zh-hans: 最后的晚餐
+    zh-hant: 最後的晚餐
+    zh-hk: 最後的晚餐
+    zh-sg: 最后的晚餐
+    zh-tw: 最後的晚餐
+    zu: The Last Supper
 ---
-
 # [[Last_Supper(Painting)]]
 
 #is_/same_as ::  [[../../../../../../WikiData/WD~The_Last_Supper,128910|WD~The_Last_Supper,128910]]  

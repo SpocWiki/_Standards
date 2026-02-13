@@ -1,70 +1,238 @@
 ---
 aliases:
-  - Hydrogen
+- Ahidrujin
+- Aijrojin
+- brint
+- Chúi-sò͘
+- cidro
+- eawai
+- gidrogen
+- H
+- Haayidroojiinii
+- haidridean
+- Haidrojeni
+- hauwai
+- Heidrogénio
+- hiddragien
+- Hidirôzenina
+- hido
+- hidrigin
+- Hidrin
+- Hidrocen
+- hidrochén
+- hidrogen
+- hidrogene
+- hidrogeno
+- Hidrogjeni
+- Hidrogén
+- hidrogénio
+- hidrogênio
+- hidroheno
+- hidrojen
+- Hidrojeni
+- hidrógeno
+- hidróxeno
+- hidróxenu
+- Hidṛujin
+- Hiidrojen
+- Hiḍrogèn
+- hydro
+- hydrogeeʹn
+- Hydrogen
+- hydrogena
+- hydrogenium
+- hydrogeno
+- hydroghenium
+- hydrogène
+- Háájiʼjin
+- Háídrójìn
+- Hîdrojen
+- Hɩdrɔzɛnɩ
+- idrodjinne
+- Idrogen
+- idrogeno
+- Idrogenu
+- Idrogjen
+- Idrogèn
+- Idrohino
+- idrojen
+- Idrojèn
+- idroġenu
+- idroʒɛ́ní
+- Idrògen
+- Idrògeno
+- idrògginu
+- Idrógenu
+- Idrôgen
+- idwojèn
+- IHwanzi
+- khîn
+- kon Itosen
+- Kĭng
+- Ondėnilis
+- tatavevýi
+- vandenilis
+- vesinik
+- vetni
+- vety
+- Vezinik
+- Vezisuadu
+- vodik
+- Vodorod
+- vodík
+- väte
+- Waasserstoff
+- waeterstof
+- Wassaschdoff
+- Wassastoff
+- Wasserstoff
+- waterstof
+- Waterstoff
+- Weederstoof
+- wetterstof
+- Woaterstof
+- wodór
+- Wodōr
+- wodźik
+- Wætertimber
+- Wóźik
+- Yakuchaq
+- Āyōcoxqui
+- ūdeņradis
+- υδρογόνο
+- Υδρογόνον
+- вадарод
+- Ваувтыр
+- Вачужысь
+- Ведь чачтый
+- Ведьшачфты
+- водень
+- Водонїк
+- водоник
+- Водород
+- Водородъ
+- вӱдеж
+- Гідроґен
+- донгуыр
+- сутегі
+- сутуар
+- Суутек
+- устөрөгч
+- уулук
+- уһантүрэгшэ
+- хилург
+- шыва кĕрекен
+- Үстөр
+- ҳидроген
+- ջրածին
+- הידראגען
+- מימן
+- آبساز
+- هايدروجين
+- هايډروجن
+- هيدروجين
+- هيدروݢن
+- هیدروژن
+- ھائڊروجن
+- ھایدرۆجین
+- ھىدروگېن
+- ہائیڈروجن
+- ہایڈروجَن
+- ހައިޑްރަޖަން
+- उदजन
+- उदजनः
+- हाइड्रोजन
+- हायड्रोजन
+- উদজান
+- হাইড্রোজেন
+- ਹਾਈਡਰੋਜਨ
+- હાઈડ્રોજન
+- ଉଦ୍ଜାନ
+- நீரியம்
+- హైడ్రోజన్
+- ಜಲಜನಕ
+- ഹൈഡ്രജൻ
+- හයිඩ්රජන්
+- ไฮโดรเจน
+- ໄຮໂດຣເຈນ
+- ཡང་རླུང་།
+- ဟိုက်ဒရိုဂျင်
+- ဟုဲက်ဒရိုစဲန်
+- წყალბადი
+- წყარბადი
+- ሃይድሮጅን
+- អ៊ីដ្រូសែន
+- ᱦᱟᱭᱰᱨᱳᱡᱟᱱ
+- ⴰⵀⵉⴷⵔⵓⵊⵉⵏ
+- 氢
+- 氫
+- 水素
+- ꯍꯥꯏꯗ꯭ꯔꯣꯖꯦꯟ
+- 수소
 has_id_wikidata: Q556
-antiparticle: "[[_Standards/WikiData/WD~antihydrogen,216121]]"
+antiparticle: '[[_Standards/WikiData/WD~antihydrogen,216121]]'
 atomic_number: 1
 boiling_point: -252.87
 CAS_Registry_Number: 12385-13-6
 Colon_Classification: E110
-color: "[[_Standards/WikiData/WD~colorless,1396399]]"
+color: '[[_Standards/WikiData/WD~colorless,1396399]]'
 Commons_category: Hydrogen
 Commons_gallery: Hydrogen
 density: 0.08987
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Hydrogen,108309723]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Hydrogen,108309723]]'
 Dewey_Decimal_Classification:
-  - 546.21
-  - 553.92
+- 546.21
+- 553.92
 different_from:
-  - "[[_Standards/WikiData/WD~dihydrogen,3027893]]"
-  - "[[_Standards/WikiData/WD~hydrogen_atom,6643508]]"
-  - "[[_Standards/WikiData/WD~hydrogen_molecule,19822725]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Henry_Cavendish,131733]]"
+- '[[_Standards/WikiData/WD~dihydrogen,3027893]]'
+- '[[_Standards/WikiData/WD~hydrogen_atom,6643508]]'
+- '[[_Standards/WikiData/WD~hydrogen_molecule,19822725]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henry_Cavendish,131733]]'
 electronegativity: 2.2
 electron_configuration: 1s¹
 element_symbol: H
 E_number: E949
-has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
+has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius: 54
 ionization_energy: 13.598
 Krugosvet_article: nauka_i_tehnika/himiya/VODOROD.html
-location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 mass: 1.008
 melting_point: -259.14
 MeSH_tree_code:
-  - D01.268.406
-  - D01.362.340
+- D01.268.406
+- D01.362.340
 molar_enthalpy_of_vaporization: 0.452
-named_after: "[[_Standards/WikiData/WD~water,283]]"
+named_after: '[[_Standards/WikiData/WD~water,283]]'
 OmegaWiki_Defined_Meaning: 1823
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 oxidation_state:
-  - -1
-  - 0
-  - 1
+- -1
+- 0
+- 1
 part_of:
-  - "[[_Standards/WikiData/WD~period_1,191936]]"
-  - "[[_Standards/WikiData/WD~group_1,10801007]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q57873859,57873859]]"
+- '[[_Standards/WikiData/WD~period_1,191936]]'
+- '[[_Standards/WikiData/WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57873859,57873859]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-ar.ogg
 refractive_index: 1.000132
 speed_of_sound: 1270
 SpocWebEntityId: 21904
 Stack_Exchange_tag:
-  - https://chemistry.stackexchange.com/tags/hydrogen
-  - https://physics.stackexchange.com/tags/hydrogen
-subclass_of: "[[_Standards/WikiData/WD~nonmetal,19600]]"
+- https://chemistry.stackexchange.com/tags/hydrogen
+- https://physics.stackexchange.com/tags/hydrogen
+subclass_of: '[[_Standards/WikiData/WD~nonmetal,19600]]'
 thermal_conductivity: 0.1805
 time_of_discovery_or_invention: 1766
 type: Element
@@ -73,12 +241,260 @@ Unicode_character: 氫
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20balloon%20explosion%202.webm
 Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 dv_has_:
+  created: '[[Hydrogen/Hydrogen_Embrittlement]]'
   name_:
-    group: Group-01-Alkali
     abbreviated: H
-    en: Hydrogenium
+    af: waterstof
+    am: ሃይድሮጅን
+    an: hidrochén
+    ang: Wætertimber
+    anp: हाइड्रोजन
+    ar: هيدروجين
+    ary: هيدروجين
+    arz: هايدروجين
+    as: উদজান
+    ast: hidróxenu
+    awa: हाइड्रोजन
+    az: hidrogen
+    azb: هیدروژن
+    ba: водород
+    ban: Hidrogén
+    bar: Wassastoff
+    bcl: Idrohino
+    be: вадарод
+    be-tarask: вадарод
+    bg: водород
+    bho: हाइड्रोजन
+    blk: ဟုဲက်ဒရိုစဲန်
+    bn: হাইড্রোজেন
+    bo: ཡང་རླུང་།
+    br: hidrogen
+    bs: vodik
+    bxr: уһантүрэгшэ
+    ca: hidrogen
+    cdo: Kĭng
+    ce: хилург
+    ceb: hidroheno
+    ckb: ھایدرۆجین
+    co: Idrogenu
+    crh: gidrogen
+    cs: vodík
+    cu: Водородъ
+    cv: шыва кĕрекен
+    cy: hydrogen
+    da: brint
     de: Wasserstoff
-  created: "[[Hydrogen/Hydrogen_Embrittlement]]"
+    de-at: Wasserstoff
+    de-ch: Wasserstoff
+    diq: Hidrocen
+    dsb: Wóźik
+    dv: ހައިޑްރަޖަން
+    el: υδρογόνο
+    eml: Idrôgen
+    en: hydrogen
+    en-ca: hydrogen
+    en-gb: hydrogen
+    en-us: hydrogen
+    eo: hidrogeno
+    es: hidrógeno
+    es-419: hidrógeno
+    et: vesinik
+    eu: hidrogeno
+    ext: Idrógenu
+    fa: هیدروژن
+    fi: vety
+    fj: haidrojeni
+    fo: hydrogen
+    fr: hydrogène
+    frr: Weederstoof
+    fur: Idrogjen
+    fy: wetterstof
+    ga: hidrigin
+    gan: 氫
+    gcr: Idrojèn
+    gd: haidridean
+    gl: hidróxeno
+    gn: tatavevýi
+    group: Group-01-Alkali
+    gsw: Wasserstoff
+    gu: હાઈડ્રોજન
+    gv: hiddragien
+    hak: khîn
+    haw: eawai
+    he: מימן
+    hi: उदजन
+    hif: hydrogen
+    hr: vodik
+    hsb: wodźik
+    ht: idwojèn
+    hu: hidrogén
+    hy: ջրածին
+    hyw: Ջրածին
+    ia: hydrogeno
+    id: hidrogen
+    ie: Hidrogen
+    ilo: hidroheno
+    io: hido
+    is: vetni
+    it: idrogeno
+    ja: 水素
+    jam: Aijrojin
+    jbo: cidro
+    jv: Hidrogen
+    ka: წყალბადი
+    kaa: Vodorod
+    kab: Hidṛujin
+    kbp: Hɩdrɔzɛnɩ
+    kge: Hidrogen
+    ki: Hydrogen
+    kk: сутегі
+    km: អ៊ីដ្រូសែន
+    kn: ಜಲಜನಕ
+    knc: Hydrogen
+    ko: 수소
+    koi: Ваувтыр
+    ks: ہایڈروجَن
+    ksh: Wasserstoff
+    ku: Hîdrojen
+    kv: Вачужысь
+    kw: hidrojen
+    ky: Суутек
+    la: hydrogenium
+    lb: Waasserstoff
+    lez: Водород
+    lfn: idrojen
+    li: Waterstof
+    lij: idrogeno
+    lld: Idrogen
+    lmo: idrògen
+    ln: idroʒɛ́ní
+    lo: ໄຮໂດຣເຈນ
+    lt: vandenilis
+    lv: ūdeņradis
+    lzh: 氫
+    mad: Hiḍrogèn
+    mdf: Ведьшачфты
+    mg: Hidirôzenina
+    mhr: вӱдеж
+    mi: hauwai
+    mk: водород
+    ml: ഹൈഡ്രജൻ
+    mn: устөрөгч
+    mni: ꯍꯥꯏꯗ꯭ꯔꯣꯖꯦꯟ
+    mr: हायड्रोजन
+    mrj: Водород
+    ms: hidrogen
+    ms-arab: هيدروݢن
+    mt: idroġenu
+    mul: H
+    mwl: Heidrogénio
+    my: ဟိုက်ဒရိုဂျင်
+    myv: Ведь чачтый
+    nah: Āyōcoxqui
+    nan: Chúi-sò͘
+    nb: hydrogen
+    nds: Waterstoff
+    nds-nl: waeterstof
+    ne: हाइड्रोजन
+    new: हाइड्रोजन
+    nl: waterstof
+    nn: hydrogen
+    nov: hidrogene
+    nv: Háájiʼjin
+    oc: Idrogèn
+    olo: Vezisuadu
+    om: Haayidroojiinii
+    or: ଉଦ୍ଜାନ
+    os: донгуыр
+    pa: ਹਾਈਡਰੋਜਨ
+    pap: hidrógeno
+    pcm: hydrogen
+    pfl: Wassaschdoff
+    pi: हाइड्रोजन
+    pih: Hiidrojen
+    pl: wodór
+    pms: Idrògen
+    pnb: ہائیڈروجن
+    pnt: Υδρογόνον
+    ps: هايډروجن
+    pt: hidrogénio
+    pt-br: hidrogênio
+    qu: Yakuchaq
+    ro: hidrogen
+    rsk: Водонїк
+    ru: водород
+    rue: Гідроґен
+    rup: hydroghenium
+    sa: उदजनः
+    sah: уулук
+    sat: ᱦᱟᱭᱰᱨᱳᱡᱟᱱ
+    sc: Idrogeno
+    scn: idrògginu
+    sco: hydrogen
+    sd: ھائڊروجن
+    se: hydrogena
+    sgs: Ondėnilis
+    sh: Vodik
+    shi: Ahidrujin
+    si: හයිඩ්රජන්
+    sk: vodík
+    skr: ہائیڈروجن
+    sl: vodik
+    smn: vety
+    sms: hydrogeeʹn
+    sn: Hydrogen
+    so: Hydrogen
+    sq: Hidrogjeni
+    sr: водоник
+    stq: Woaterstof
+    su: Hidrogén
+    sv: väte
+    sw: Hidrojeni
+    szl: Wodōr
+    ta: நீரியம்
+    te: హైడ్రోజన్
+    tg: ҳидроген
+    th: ไฮโดรเจน
+    tl: hidroheno
+    tok: kon Itosen
+    tr: hidrojen
+    tt: сутуар
+    tt-cyrl: сутуар
+    tum: Haidrojeni
+    tyv: Водород
+    udm: водород
+    ug: ھىدروگېن
+    uk: водень
+    ur: آبساز
+    uz: Vodorod
+    vec: Idrògeno
+    vep: Vezinik
+    vi: hydro
+    vls: woaterstof
+    vo: Hidrin
+    wa: idrodjinne
+    war: Hidroheno
+    wuu: 氢
+    xal: Үстөр
+    xmf: წყარბადი
+    yi: הידראגען
+    yo: Háídrójìn
+    yue: 氫
+    zgh: ⴰⵀⵉⴷⵔⵓⵊⵉⵏ
+    zh: 氢
+    zh-cn: 氢
+    zh-hans: 氢
+    zh-hant: 氫
+    zh-hk: 氫
+    zh-mo: 氫
+    zh-my: 氢
+    zh-sg: 氢
+    zh-tw: 氫
+    zu: IHwanzi
+  number_of_:
+    period: 1
+    group: 1
+    electrons: 1
   value_for_:
     radius: 0.79
     radius_:
@@ -106,24 +522,20 @@ dv_has_:
         c: -259.14
       boil_:
         c: -252.87
-  number_of_:
-    period: 1
-    group: 1
-    electrons: 1
 dv_is_:
-  part_of: "[[../Group-01-Alkali]]"
+  part_of: '[[../Group-01-Alkali]]'
   same_as:
-    - "[[../../../WikiData/WD~Hydrogen,556]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect|Hydrogen.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]"
+  - '[[../../../WikiData/WD~Hydrogen,556]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect|Hydrogen.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]'
 dv_has_name_group: Group-01-Alkali
-dv_is_part_of: "[[../Group-01-Alkali]]"
-dv_has_created: "[[Hydrogen/Hydrogen_Embrittlement]]"
+dv_is_part_of: '[[../Group-01-Alkali]]'
+dv_has_created: '[[Hydrogen/Hydrogen_Embrittlement]]'
 dv_has_name_en: Hydrogenium
 dv_has_name_de: Wasserstoff
 dv_has_name_abbreviated: H
@@ -144,16 +556,15 @@ dv_has_number_of_period: 1
 dv_has_number_of_group: 1
 dv_has_number_of_electrons: 1
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Hydrogen,556]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect|Hydrogen.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]"
+- '[[../../../WikiData/WD~Hydrogen,556]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.protect|Hydrogen.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]'
 ---
-
 # [[Hydrogen]] 
 
 

@@ -1,9 +1,138 @@
 ---
 aliases:
-  - Kate Bush
-  - Bush,Kate
+- Bush,Kate
+- Kate Bush
+- Kate Bushová
+- Keita Buša
+- Kejt Buš
+- Κέιτ Μπους
+- Кејт Буш
+- Кейт Буш
+- Քեյթ Բուշ
+- קייט בוש
+- كيت بوش
+- کیت بوش
+- کیٹ بش
+- کەیت بوش
+- केट बुस
+- কেট বুশ
+- கேட் புஷ்
+- เคต บุช
+- კეიტ ბუში
+- ケイト・ブッシュ
+- 凯特·布什
+- 凱特·布希
+- 姬·布絲
+- 케이트 부시
+has_id_wikidata: Q636
+dv_has_:
+  name_:
+    af: Kate Bush
+    an: Kate Bush
+    ar: كيت بوش
+    arz: كيت بوش
+    ast: Kate Bush
+    azb: کیت بوش
+    bar: Kate Bush
+    be: Кейт Буш
+    bg: Кейт Буш
+    bn: কেট বুশ
+    br: Kate Bush
+    bs: Kate Bush
+    ca: Kate Bush
+    ceb: Kate Bush
+    ckb: کەیت بوش
+    cs: Kate Bushová
+    cy: Kate Bush
+    da: Kate Bush
+    dag: Kate Bush
+    de: Kate Bush
+    de-ch: Kate Bush
+    el: Κέιτ Μπους
+    en: Kate Bush
+    en-us: Kate Bush
+    eo: Kate Bush
+    es: Kate Bush
+    et: Kate Bush
+    eu: Kate Bush
+    ext: Kate Bush
+    fa: کیت بوش
+    fi: Kate Bush
+    fit: Kate Bush
+    fr: Kate Bush
+    fy: Kate Bush
+    ga: Kate Bush
+    gl: Kate Bush
+    gsw: Kate Bush
+    he: קייט בוש
+    hr: Kate Bush
+    hu: Kate Bush
+    hy: Քեյթ Բուշ
+    id: Kate Bush
+    io: Kate Bush
+    is: Kate Bush
+    it: Kate Bush
+    ja: ケイト・ブッシュ
+    ka: კეიტ ბუში
+    kl: Kate Bush
+    ko: 케이트 부시
+    lb: Kate Bush
+    li: Kate Bush
+    lmo: Kate Bush
+    lt: Kate Bush
+    lv: Keita Buša
+    mhr: Кейт Буш
+    mk: Кејт Буш
+    ms: Kate Bush
+    mul: Kate Bush
+    nb: Kate Bush
+    nds: Kate Bush
+    nds-nl: Kate Bush
+    ne: केट बुस
+    nl: Kate Bush
+    nn: Kate Bush
+    oc: Kate Bush
+    pam: Kate Bush
+    pl: Kate Bush
+    pms: Kate Bush
+    pt: Kate Bush
+    pt-br: Kate Bush
+    rmf: Kate Bush
+    ro: Kate Bush
+    ru: Кейт Буш
+    scn: Kate Bush
+    se: Kate Bush
+    sjd: Кейт Буш
+    sje: Kate Bush
+    sju: Kate Bush
+    sk: Kate Bush
+    sl: Kate Bush
+    sma: Kate Bush
+    smj: Kate Bush
+    smn: Kate Bush
+    sms: Kate Bush
+    sq: Kate Bush
+    sr: Кејт Буш
+    sr-ec: Кејт Буш
+    sr-el: Kejt Buš
+    sv: Kate Bush
+    ta: கேட் புஷ்
+    th: เคต บุช
+    tr: Kate Bush
+    tw: Kate Bush
+    uk: Кейт Буш
+    ur: کیٹ بش
+    uz: Kate Bush
+    vec: Kate Bush
+    vi: Kate Bush
+    wa: Kate Bush
+    wuu: 凯特·布什
+    zh: 凱特·布希
+    zh-hans: 凯特·布什
+    zh-hant: 凱特·布希
+    zh-hk: 姬·布絲
+    zh-tw: 凱特·布希
 ---
-
 > Catherine Bush  (born 30 July 1958) is an English singer, songwriter, record producer and dancer. 
 > Bush began writing songs at age 11. 
 > She was signed to EMI Records after the Pink Floyd guitarist, David Gilmour, helped produce a demo tape. 

@@ -1,71 +1,199 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Aegean_Sea,34575]]"
-    - "[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]"
-    - "[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]"
-    - "[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]"
-    - "[[/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect|Aegean_Sea.protect]]"
-    - "[[/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private|Aegean_Sea.private]]"
-    - "[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]"
-    - "[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]"
+  - '[[../../../WikiData/WD~Aegean_Sea,34575]]'
+  - '[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]'
+  - '[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]'
+  - '[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]'
+  - '[[/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect|Aegean_Sea.protect]]'
+  - '[[/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private|Aegean_Sea.private]]'
+  - '[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]'
+  - '[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Aegean_Sea,34575]]"
-  - "[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]"
-  - "[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]"
-  - "[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]"
-  - "[[/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect|Aegean_Sea.protect]]"
-  - "[[/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private|Aegean_Sea.private]]"
-  - "[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]"
-  - "[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]"
-
-location: [ 38.5, 25.3 ] 
+- '[[../../../WikiData/WD~Aegean_Sea,34575]]'
+- '[[/_Standards/Earth/Ocean/Mediterranean_Sea/Aegean_Sea|Aegean_Sea]]'
+- '[[/_public/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.public|Aegean_Sea.public]]'
+- '[[/_internal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.internal|Aegean_Sea.internal]]'
+- '[[/_protect/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.protect|Aegean_Sea.protect]]'
+- '[[/_private/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.private|Aegean_Sea.private]]'
+- '[[/_personal/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.personal|Aegean_Sea.personal]]'
+- '[[/_secret/Earth/Ocean/Mediterranean_Sea/Aegean_Sea.secret|Aegean_Sea.secret]]'
+location:
+- 38.5
+- 25.3
 aliases:
-  - Aegean_Sea
-  - Aegean Sea
+- Aegaeum mare
+- Aegea Hāi
+- Aegean Samundar
+- Aegean Sea
+- Aegean_Sea
+- Am Muir Àigeanach
+- An Mhuir Aeigéach
+- Badda Iija
+- Bahari ya Aegean
+- Baybay Egeo
+- Baħar Eġew
+- Bhahari re Eegi
+- Biển Aegea
+- Dagat Egeo
+- Deryay Egey
+- Deryaya Egeyî
+- Deti Egje
+- Ege Denizi
+- Ege deñizi
+- Ege-hái
+- Egea Maro
+- Egeanmeri
+- Egearhavet
+- Egeerhavet
+- Egeinmeri
+- Egeiska havet
+- Egejas jūra
+- Egejske morjo
+- Egejske mórjo
+- Egejsko more
+- Egejsko morje
+- Egejské more
+- Egejské moře
+- Egeo
+- Egeuse meri
+- Egey dengizi
+- Egey dənizi
+- Egeyske See
+- Egeïese See
+- Egeïsche Zee
+- Egeïsche Zie
+- Egeïsche Zêe
+- Egeý deňzi
+- Egisca Sǣ
+- Egäescht Mier
+- Egėjo jūra
+- Eyjahaf
+- Ilel n Ijey
+- Lanmè Eje
+- Laut Aegea
+- Laut Aegia
+- Mar Echea
+- mar Egea
+- Mar Egee
+- mar Egeo
+- Mar Egeu
+- Mar Egèa
+- Mar Ejeo
+- Mar Exeo
+- Mar Exéu
+- Mar Ezeo
+- Marea Egee
+- Mari Egeu
+- Mari Eggeu
+- mer Égée
+- Mor Egea
+- Morze Egejskie
+- Môr Aegeaidd
+- Ranomasina Egea
+- Segara Aegea
+- Segara Aégéa
+- Ägäis
+- Ägäisches Meer
+- Ägäisk Sia
+- Ägääsche See
+- Ægæiske Hav
+- Égei-tenger
+- Αιγαίο Πέλαγος
+- Αἰγαῖος πόντος
+- Баҳри Эгей
+- Бяло море
+- Егејско море
+- Егейске море
+- Егейське море
+- Эгей байҕала
+- Эгей деңизи
+- Эгей диңгезе
+- Эгей диңгеҙе
+- Эгей зарезь
+- Эгей теңізі
+- Эгей теҥыз
+- Эгей тинĕсĕ
+- Эгейн тэнгис
+- Эгейн хӀорд
+- Эгейскае мора
+- Эгейское море
+- Эгейы денджыз
+- Եգեյան ծով
+- Էգէական Ծով
+- אגאישער ים
+- הים האגאי
+- ئېگىي دېڭىزى
+- ايجيئن سمنڊ
+- اژه
+- اژه دنیزی
+- اېجین سمندر
+- بحر إيجة
+- بحر ايجة
+- بحر ايجه
+- بحیرہ ایجیئن
+- دریای اژه
+- دەریای ئێژە
+- ईजियन सागर
+- एजियन समुद्र
+- एजियन सागर
+- এজিয়ান সাগর
+- ਈਜੀਅਨ ਸਾਗਰ
+- ஏஜியன் கடல்
+- ఏజియన్ సముద్రం
+- ഈജിയൻ കടൽ
+- ทะเลอีเจียน
+- အေဂျင်ပင်လယ်
+- ეგეოსის ზღვა
+- ეგეოსიშ ზუღა
+- ኤጊያን ባህር
+- エーゲ海
+- 愛琴海
+- 爱琴海
+- 에게해
 has_id_wikidata: Q34575
 area: 214000
 basin_country:
-  - '[[_Standards/WikiData/WD~Turkey,43]]'
-  - '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20map%20bathymetry.svg
 BHCL_UUID: c56c35bc-02d2-4088-90a4-98573c348642
 Commons_category: Aegean Sea
 Commons_gallery: Aegean Sea
 coordinate_location: Point(25.3 38.5)
 country:
-  - '[[_Standards/WikiData/WD~Turkey,43]]'
-  - '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
 drainage_basin: '[[_Standards/WikiData/WD~Aegean_Sea_basin,84480837]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Sea_of_Crete,193149]]'
-  - '[[_Standards/WikiData/WD~Thracian_Sea,379063]]'
-  - '[[_Standards/WikiData/WD~Myrtoan_Sea,840427]]'
-  - '[[_Standards/WikiData/WD~Gulf_of_İzmir,1536377]]'
-  - '[[_Standards/WikiData/WD~Icarian_Sea,1640853]]'
+- '[[_Standards/WikiData/WD~Sea_of_Crete,193149]]'
+- '[[_Standards/WikiData/WD~Thracian_Sea,379063]]'
+- '[[_Standards/WikiData/WD~Myrtoan_Sea,840427]]'
+- '[[_Standards/WikiData/WD~Gulf_of_İzmir,1536377]]'
+- '[[_Standards/WikiData/WD~Icarian_Sea,1640853]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aegeansea.jpg
 inflows:
-  - '[[_Standards/WikiData/WD~Maritsa,204347]]'
-  - '[[_Standards/WikiData/WD~Great_Menderes_River,211089]]'
-  - '[[_Standards/WikiData/WD~Küçük_Menderes_River,922382]]'
-  - '[[_Standards/WikiData/WD~Gediz_River,1351474]]'
-  - '[[_Standards/WikiData/WD~Yassıçay,3571966]]'
-  - '[[_Standards/WikiData/WD~Enipeas,5367265]]'
-  - '[[_Standards/WikiData/WD~Sedountas,15057081]]'
-  - '[[_Standards/WikiData/WD~Almyrós,25163977]]'
+- '[[_Standards/WikiData/WD~Maritsa,204347]]'
+- '[[_Standards/WikiData/WD~Great_Menderes_River,211089]]'
+- '[[_Standards/WikiData/WD~Küçük_Menderes_River,922382]]'
+- '[[_Standards/WikiData/WD~Gediz_River,1351474]]'
+- '[[_Standards/WikiData/WD~Yassıçay,3571966]]'
+- '[[_Standards/WikiData/WD~Enipeas,5367265]]'
+- '[[_Standards/WikiData/WD~Sedountas,15057081]]'
+- '[[_Standards/WikiData/WD~Almyrós,25163977]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~drainage_basin,166620]]'
-  - '[[_Standards/WikiData/WD~sea,165]]'
+- '[[_Standards/WikiData/WD~drainage_basin,166620]]'
+- '[[_Standards/WikiData/WD~sea,165]]'
 located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20in%20its%20region.svg
 named_after: '[[_Standards/WikiData/WD~Aegeus,191725]]'
@@ -75,8 +203,158 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aegean%20Sea%20W
 part_of: '[[_Standards/WikiData/WD~Eastern_Mediterranean,3301962]]'
 U_S_National_Archives_Identifier: 10044383
 vertical_depth: 2100
+dv_has_:
+  name_:
+    af: Egeïese See
+    am: ኤጊያን ባህር
+    an: Mar Echea
+    ang: Egisca Sǣ
+    ar: بحر إيجة
+    ary: بحر ايجة
+    arz: بحر ايجه
+    ast: Mar Exéu
+    az: Egey dənizi
+    azb: اژه دنیزی
+    ba: Эгей диңгеҙе
+    ban: Segara Aégéa
+    bcl: Dagat Egeo
+    be: Эгейскае мора
+    be-tarask: Эгейскае мора
+    bg: Бяло море
+    bho: एजियन सागर
+    bn: এজিয়ান সাগর
+    br: Mor Egea
+    bs: Egejsko more
+    ca: mar Egea
+    cdo: Aegea Hāi
+    ce: Эгейн хӀорд
+    ckb: دەریای ئێژە
+    co: Mari Egeu
+    crh: Ege deñizi
+    crh-latn: Ege deñizi
+    cs: Egejské moře
+    cv: Эгей тинĕсĕ
+    cy: Môr Aegeaidd
+    da: Ægæiske Hav
+    de: Ägäisches Meer
+    diq: Deryay Egey
+    dsb: Egejske mórjo
+    el: Αιγαίο Πέλαγος
+    en: Aegean Sea
+    eo: Egea Maro
+    es: mar Egeo
+    et: Egeuse meri
+    eu: Egeo
+    ext: Mari Egeu
+    fa: دریای اژه
+    fi: Egeanmeri
+    fr: mer Égée
+    frr: Ägäisk Sia
+    fy: Egeyske See
+    ga: An Mhuir Aeigéach
+    gd: Am Muir Àigeanach
+    gl: Mar Exeo
+    grc: Αἰγαῖος πόντος
+    gsw: Ägäis
+    he: הים האגאי
+    hi: ईजियन सागर
+    hif: Aegean Samundar
+    hr: Egejsko more
+    hsb: Egejske morjo
+    ht: Lanmè Eje
+    hu: Égei-tenger
+    hy: Եգեյան ծով
+    hyw: Էգէական Ծով
+    ia: Mar Egeo
+    id: Laut Aegea
+    ilo: Baybay Egeo
+    io: Egea maro
+    is: Eyjahaf
+    it: mar Egeo
+    ja: エーゲ海
+    jv: Segara Aegea
+    ka: ეგეოსის ზღვა
+    kab: Ilel n Ijey
+    kk: Эгей теңізі
+    ko: 에게해
+    ku: Deryaya Egeyî
+    ky: Эгей деңизи
+    la: Aegaeum mare
+    lb: Egäescht Mier
+    lfn: Mar Ejeo
+    li: Egeïsche Zie
+    lmo: Mar Egee
+    lt: Egėjo jūra
+    lv: Egejas jūra
+    lzh: 愛琴海
+    mg: Ranomasina Egea
+    mhr: Эгей теҥыз
+    mk: Егејско Море
+    ml: ഈജിയൻ കടൽ
+    mn: Эгейн тэнгис
+    mr: एजियन समुद्र
+    ms: Laut Aegia
+    mt: Baħar Eġew
+    my: အေဂျင်ပင်လယ်
+    mzn: اژه
+    nan: Ege-hái
+    nb: Egeerhavet
+    nds: Ägääsche See
+    new: एजियन सागर
+    nl: Egeïsche Zee
+    nn: Egearhavet
+    oc: Mar Egèa
+    olo: Egeinmeri
+    os: Эгейы денджыз
+    pa: ਈਜੀਅਨ ਸਾਗਰ
+    pl: Morze Egejskie
+    pnb: بحیرہ ایجیئن
+    ps: اېجین سمندر
+    pt: Mar Egeu
+    ro: Marea Egee
+    ru: Эгейское море
+    rue: Егейске море
+    sah: Эгей байҕала
+    scn: Mari Eggeu
+    sco: Aegean Sea
+    sd: ايجيئن سمنڊ
+    sh: Egejsko more
+    sk: Egejské more
+    sl: Egejsko morje
+    sn: Bhahari re Eegi
+    so: Badda Iija
+    sq: Deti Egje
+    sr: Егејско море
+    sr-ec: Егејско море
+    sv: Egeiska havet
+    sw: Bahari ya Aegean
+    ta: ஏஜியன் கடல்
+    te: ఏజియన్ సముద్రం
+    tg: Баҳри Эгей
+    th: ทะเลอีเจียน
+    tk: Egeý deňzi
+    tl: Dagat Egeo
+    tr: Ege Denizi
+    tt: Эгей диңгезе
+    tt-cyrl: Эгей диңгезе
+    udm: Эгей зарезь
+    ug: ئېگىي دېڭىزى
+    uk: Егейське море
+    ur: بحیرہ ایجیئن
+    uz: Egey dengizi
+    vec: Mar Ezeo
+    vi: Biển Aegea
+    vls: Egeïsche Zêe
+    war: Dagat Egeo
+    wuu: 爱琴海
+    xmf: ეგეოსიშ ზუღა
+    yi: אגאישער ים
+    yue: 愛琴海
+    zh: 爱琴海
+    zh-cn: 爱琴海
+    zh-hans: 爱琴海
+    zh-hant: 愛琴海
 ---
-
 # [[Aegean_Sea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Aegean_Sea,34575]]

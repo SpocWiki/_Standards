@@ -1,4 +1,148 @@
-
+---
+has_id_wikidata: Q93312
+dv_has_:
+  name_:
+    af: OSI-model
+    ar: نموذج الربط البيني للأنظمة المفتوحة
+    ast: Modelu OSI
+    az: OSI Modeli
+    be: эталонная мадэль OSI
+    be-tarask: мадэль OSI
+    bg: OSI модел
+    bn: ওএসআই মডেল
+    br: OSI
+    bs: OSI model
+    ca: OSI
+    cs: referenční model ISO/OSI
+    da: OSI-model
+    de: OSI-Modell
+    el: Μοντέλο αναφοράς OSI
+    en: OSI model
+    eo: OSI-modelo
+    es: modelo OSI
+    et: Avatud süsteemide sidumise arhitektuur
+    eu: OSI eredua
+    fa: مدل مرجع اتصال داخلی سیستمهای باز
+    fi: OSI-malli
+    fr: modèle OSI
+    ga: Samhail Tagartha OSI
+    gl: Modelo OSI
+    gu: ઓએસઆઈ મોડેલ
+    he: מודל ה-OSI
+    hi: ओएसआई प्रतिमान
+    hr: OSI model
+    hu: OSI-modell
+    hy: OSI մոդել
+    id: Model OSI
+    io: Modelo OSI
+    it: modello OSI
+    ja: OSI参照モデル
+    ka: OSI მოდელი
+    kk: OSI моделі
+    ko: OSI 모형
+    la: OSI-ISO exemplar
+    lmo: Modell OSI
+    lt: OSI modelis
+    lv: atvērto sistēmu sadarbības bāzes etalonmodelis
+    mk: OSI-модел
+    ml: ഒ.എസ്.ഐ. മാതൃക
+    mn: OSI загвар
+    ms: Model OSI
+    my: OSI မော်ဒယ်လ်
+    nan: OSI bô͘-hêng
+    nb: OSI-modellen
+    nl: OSI-model
+    nn: OSI-modellen
+    pl: Model OSI
+    pt: Modelo OSI
+    ro: modelul OSI
+    ru: сетевая модель OSI
+    sco: OSI model
+    sh: OSI model
+    si: OSI ආකෘතිය
+    sk: Model OSI
+    sl: referenčni model ISO/OSI
+    sq: OSI
+    sr: ОСИ модел
+    sr-ec: ОСИ модел
+    sr-el: OSI model
+    sv: OSI-modellen
+    ta: திறந்த முறைமை வலைப்பின்னல் மாதிரி
+    te: ఓ.ఎస్.ఐ నమూనా
+    th: แบบจำลองโอเอสไอ
+    tr: OSI modeli
+    tum: Kayezgero-OSI
+    uk: модель OSI
+    ur: او ایس آئی ماڈل
+    uz: OSI model
+    vi: Mô hình OSI
+    wuu: OSI模型
+    yo: OSI model
+    yue: OSI模型
+    zh: 开放式系统互联通信参考模型
+    zh-cn: OSI模型
+    zh-hans: OSI模型
+    zh-hant: OSI模型
+    zh-hk: OSI模型
+    zh-sg: OSI模型
+    zh-tw: OSI模型
+aliases:
+- atvērto sistēmu sadarbības bāzes etalonmodelis
+- Avatud süsteemide sidumise arhitektuur
+- Kayezgero-OSI
+- Model OSI
+- Modell OSI
+- modello OSI
+- modelo OSI
+- Modelu OSI
+- modelul OSI
+- modèle OSI
+- Mô hình OSI
+- OSI
+- OSI bô͘-hêng
+- OSI eredua
+- OSI model
+- OSI Modeli
+- OSI modelis
+- OSI загвар
+- OSI модел
+- OSI моделі
+- OSI մոդել
+- OSI ආකෘතිය
+- OSI မော်ဒယ်လ်
+- OSI მოდელი
+- OSI 모형
+- OSI-ISO exemplar
+- OSI-malli
+- OSI-model
+- OSI-Modell
+- OSI-modellen
+- OSI-modelo
+- OSI-модел
+- OSI参照モデル
+- OSI模型
+- referenčni model ISO/OSI
+- referenční model ISO/OSI
+- Samhail Tagartha OSI
+- Μοντέλο αναφοράς OSI
+- мадэль OSI
+- модель OSI
+- ОСИ модел
+- сетевая модель OSI
+- эталонная мадэль OSI
+- מודל ה-OSI
+- او ایس آئی ماڈل
+- مدل مرجع اتصال داخلی سیستمهای باز
+- نموذج الربط البيني للأنظمة المفتوحة
+- ओएसआई प्रतिमान
+- ওএসআই মডেল
+- ઓએસઆઈ મોડેલ
+- திறந்த முறைமை வலைப்பின்னல் மாதிரி
+- ఓ.ఎస్.ఐ నమూనా
+- ഒ.എസ്.ഐ. മാതൃക
+- แบบจำลองโอเอสไอ
+- 开放式系统互联通信参考模型
+---
 ## #has_/text_of_/abstract 
 
 > The Open Systems Interconnection (OSI) model is a reference model developed by the International Organization for Standardization (ISO) that "provides a common basis for the coordination of standards development for the purpose of systems interconnection."

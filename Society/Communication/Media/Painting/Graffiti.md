@@ -1,17 +1,62 @@
 ---
 aliases:
-  - Graffito
-  - Graffiti
+- dêsnuşte
+- Graff
+- Graffiti
+- graffitismo
+- graffitlar
+- Graffito
+- grafit
+- grafite
+- grafiti
+- grafitio
+- grafitis
+- grafito
+- graifítí
+- graphitum
+- qraffiti
+- tranh phun sơn
+- γκράφιτι
+- графіті
+- графіці
+- графити
+- граффити
+- деворнигорӣ
+- Գրաֆիտի
+- גרפיטי
+- جرافيتى
+- جرافيتي
+- دیوارنگاری
+- هونەرى سەرديوار
+- ګرافيټي
+- گرافیتی
+- گریفٹی
+- दीवारकला
+- গ্রাফিতি
+- দেৱাল লিখন
+- கிராஃபிட்டி
+- గ్రాఫిటీ
+- ಗೀಚುಬರಹ
+- ഗ്രഫിറ്റി
+- รอยขูดขีดเขียน
+- ဂရက်ဖတီ
+- ဂရဖတီအနုပညာ
+- გრაფიტი
+- 塗鴉
+- 涂鸦
+- 涂鸦艺术
+- 落書き
+- 낙서
 has_id_wikidata: Q17514
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - '[[_Standards/WikiData/WD~dipinti,1227165]]'
-  - '[[_Standards/WikiData/WD~graffiti,111472410]]'
-  - '[[_Standards/WikiData/WD~Graffiti,24956]]'
+- '[[_Standards/WikiData/WD~dipinti,1227165]]'
+- '[[_Standards/WikiData/WD~graffiti,111472410]]'
+- '[[_Standards/WikiData/WD~Graffiti,24956]]'
 instance_of: '[[_Standards/WikiData/WD~art_genre,1792379]]'
 part_of: '[[_Standards/WikiData/WD~hip_hop_subculture,12726073]]'
 practiced_by: '[[_Standards/WikiData/WD~graffiti_artist,15095148]]'
@@ -24,16 +69,112 @@ Commons_category: Graffiti
 hashtag_: graffiti
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Graffiti%20aus%20der%20Hall%20of%20Fame%20in%20Ingolstadt.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-grafit.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-grafit.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-grafit.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8798%20%28ukr%29-Fanat22012-%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%82%D1%96.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Carme%20Oriol-grafit.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Viqtor29-grafit.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q804899-Valriu-grafit.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8798%20%28ukr%29-Fanat22012-%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%82%D1%96.wav
 MIL_STD_2525_Symbol_Identification_Code: 10014000001101070000
 U_S_National_Archives_Identifier: 10637834
 Iconclass_notation: 49L81
 OpenStreetMap_tag_or_key: Tag:artwork_type=graffiti
+dv_has_:
+  name_:
+    ar: جرافيتي
+    arz: جرافيتى
+    as: দেৱাল লিখন
+    ast: grafiti
+    az: qraffiti
+    be: графіці
+    be-tarask: графіці
+    bg: графити
+    bn: গ্রাফিতি
+    ca: grafit
+    ckb: هونەرى سەرديوار
+    cs: graffiti
+    cy: graffiti
+    da: graffiti
+    de: Graffiti
+    diq: dêsnuşte
+    el: γκράφιτι
+    en: graffiti
+    en-ca: graffiti
+    en-gb: graffiti
+    eo: grafitio
+    es: grafiti
+    et: grafiti
+    eu: graffiti
+    fa: دیوارنگاری
+    fi: graffiti
+    fr: graffiti
+    ga: graifítí
+    gl: graffiti
+    gsw: Graffiti
+    he: גרפיטי
+    hi: दीवारकला
+    hr: grafiti
+    hu: graffiti
+    hy: Գրաֆիտի
+    id: grafiti
+    is: Graff
+    it: graffitismo
+    ja: 落書き
+    jv: grafiti
+    ka: გრაფიტი
+    kk: граффити
+    kn: ಗೀಚುಬರಹ
+    ko: 낙서
+    ky: граффити
+    la: graphitum
+    lb: Graffiti
+    lt: grafitis
+    lv: grafiti
+    mk: графити
+    ml: ഗ്രഫിറ്റി
+    ms: grafiti
+    my: ဂရက်ဖတီ
+    mzn: گرافیتی
+    nan: graffiti
+    nb: graffiti
+    nds: Graffiti
+    nl: graffiti
+    nn: graffiti
+    nrm: graffiti
+    oc: graffiti
+    pap: graffiti
+    pl: graffiti
+    pnb: گریفٹی
+    ps: ګرافيټي
+    pt: grafito
+    pt-br: grafite
+    rki: ဂရဖတီအနုပညာ
+    ro: graffiti
+    ru: граффити
+    sh: grafiti
+    shi: graffiti
+    sk: graffiti
+    sl: grafit
+    sq: graffiti
+    sr: графити
+    sv: graffiti
+    sw: graffiti
+    ta: கிராஃபிட்டி
+    te: గ్రాఫిటీ
+    tg: деворнигорӣ
+    th: รอยขูดขีดเขียน
+    tr: graffiti
+    uk: графіті
+    uz: graffitlar
+    vep: graffiti
+    vi: tranh phun sơn
+    wuu: 涂鸦
+    yue: 塗鴉
+    zh: 塗鴉
+    zh-cn: 涂鸦艺术
+    zh-hans: 塗鴉
+    zh-hant: 塗鴉
+    zh-hk: 塗鴉
+    zh-tw: 塗鴉
 ---
-
 # [[Graffiti]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Graffiti,17514|WD~Graffiti,17514]]

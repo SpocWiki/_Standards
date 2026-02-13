@@ -1,45 +1,64 @@
 ---
 aliases:
-  - Jeunet
-  - Jean-Pierre Jeunet
-  - Jean-Pierre_Jeunet
+- Ioannes Petrus Jeunet
+- Jan Pyer Jöne
+- Jean-Pierre Jeunet
+- Jean-Pierre_Jeunet
+- Jeunet
+- Žans Pjērs Ženē
+- Ζαν-Πιέρ Ζενέ
+- Жан-П'єр Жене
+- Жан-Пиер Жьоне
+- Жан-Пьер Жёне
+- Жан-П’ер Жэнэ
+- Ժան-Պիեռ Ժոնե
+- ז'אן-פייר ז'נה
+- جون بيير جونيه
+- ژان پیر ژونه
+- ჟან-პიერ ჟენე
+- ジャン＝ピエール・ジュネ
+- 尚-皮亚·祖纳
+- 尚-皮爾·桑里
+- 尚-皮耶·居內
+- 让-皮埃尔·热内
+- 장피에르 죄네
 has_id_wikidata: Q217324
 notable_work:
-  - "[[_Standards/WikiData/WD~Amélie,484048]]"
-  - "[[_Standards/WikiData/WD~A_Very_Long_Engagement,936425]]"
+- '[[_Standards/WikiData/WD~Amélie,484048]]'
+- '[[_Standards/WikiData/WD~A_Very_Long_Engagement,936425]]'
 award_received:
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Film,777921]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Director,1377755]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_Director,1377773]]"
-  - "[[_Standards/WikiData/WD~Lumière_Award_for_Best_Screenplay,3404984]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]"
-  - "[[_Standards/WikiData/WD~Sitges_Film_Festival_Best_Director_award,24051550]]"
-  - "[[_Standards/WikiData/WD~Special_Award_of_the_Grand_Prix_de_l'Imaginaire,132822013]]"
-  - "[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]"
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Film,777921]]'
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Director,1377755]]'
+- "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_Director,1377773]]"
+- '[[_Standards/WikiData/WD~Lumière_Award_for_Best_Screenplay,3404984]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~Sitges_Film_Festival_Best_Director_award,24051550]]'
+- "[[_Standards/WikiData/WD~Special_Award_of_the_Grand_Prix_de_l'Imaginaire,132822013]]"
+- '[[_Standards/WikiData/WD~César_Award_for_Best_Director,24137]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Film,777921]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_for_Best_Director,1377755]]"
-  - "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_Director,1377773]]"
-  - "[[_Standards/WikiData/WD~Young_European_Film_of_the_Year,3734888]]"
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]"
-place_of_birth: "[[_Standards/WikiData/WD~Le_Coteau,1164461]]"
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Film,777921]]'
+- '[[_Standards/WikiData/WD~European_Film_Award_for_Best_Director,1377755]]'
+- "[[_Standards/WikiData/WD~European_Film_Award_People's_Choice_Award_for_Best_Director,1377773]]"
+- '[[_Standards/WikiData/WD~Young_European_Film_of_the_Year,3734888]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+place_of_birth: '[[_Standards/WikiData/WD~Le_Coteau,1164461]]'
 occupation:
-  - "[[_Standards/WikiData/WD~film_director,2526255]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~director,3455803]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-educated_at: "[[_Standards/WikiData/WD~lycée_Henri_Poincaré,3268712]]"
-given_name: "[[_Standards/WikiData/WD~Jean_Pierre,6169840]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-member_of: "[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]"
-topic_has_template: "[[_Standards/WikiData/WD~Jean_Pierre_Jeunet,10936167]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Jeunet,105310479]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-work_location: "[[_Standards/WikiData/WD~France,142]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+educated_at: '[[_Standards/WikiData/WD~lycée_Henri_Poincaré,3268712]]'
+given_name: '[[_Standards/WikiData/WD~Jean_Pierre,6169840]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
+topic_has_template: '[[_Standards/WikiData/WD~Jean_Pierre_Jeunet,10936167]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Jeunet,105310479]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+work_location: '[[_Standards/WikiData/WD~France,142]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 height: 1.8
 Commons_category: Jean-Pierre Jeunet
 name_in_native_language: Jean-Pierre Jeunet
@@ -48,10 +67,79 @@ date_of_birth: 1953-09-03T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Jeunet%20M%C3%BCnchen%202014%20%28cropped%29.JPG
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Jean-Pierre%20Jeunet%20signature.jpg
 official_website: http://www.jpjeunet.com
-ISNI: "0000000374112833"
-P1015: "98063187"
+ISNI: 0000000374112833
+P1015: 98063187
+dv_has_:
+  name_:
+    an: Jean-Pierre Jeunet
+    ar: جون بيير جونيه
+    arz: جون بيير جونيه
+    ast: Jean-Pierre Jeunet
+    az: Jan Pyer Jöne
+    be: Жан-П’ер Жэнэ
+    be-tarask: Жан-П’ер Жэнэ
+    bg: Жан-Пиер Жьоне
+    br: Jean-Pierre Jeunet
+    ca: Jean-Pierre Jeunet
+    cs: Jean-Pierre Jeunet
+    cy: Jean-Pierre Jeunet
+    da: Jean-Pierre Jeunet
+    de: Jean-Pierre Jeunet
+    el: Ζαν-Πιέρ Ζενέ
+    en: Jean-Pierre Jeunet
+    en-ca: Jean-Pierre Jeunet
+    en-gb: Jean-Pierre Jeunet
+    eo: Jean-Pierre Jeunet
+    es: Jean-Pierre Jeunet
+    et: Jean-Pierre Jeunet
+    eu: Jean-Pierre Jeunet
+    fa: ژان پیر ژونه
+    fi: Jean-Pierre Jeunet
+    fr: Jean-Pierre Jeunet
+    frc: Jean-Pierre Jeunet
+    ga: Jean-Pierre Jeunet
+    gl: Jean-Pierre Jeunet
+    he: ז'אן-פייר ז'נה
+    ht: Jean-Pierre Jeunet
+    hu: Jean-Pierre Jeunet
+    hy: Ժան-Պիեռ Ժոնե
+    id: Jean-Pierre Jeunet
+    io: Jean-Pierre Jeunet
+    it: Jean-Pierre Jeunet
+    ja: ジャン＝ピエール・ジュネ
+    ka: ჟან-პიერ ჟენე
+    ko: 장피에르 죄네
+    la: Ioannes Petrus Jeunet
+    lb: Jean-Pierre Jeunet
+    lt: Jean-Pierre Jeunet
+    lv: Žans Pjērs Ženē
+    mg: Jean-Pierre Jeunet
+    ms: Jean-Pierre Jeunet
+    mul: Jean-Pierre Jeunet
+    nap: Jean-Pierre Jeunet
+    nb: Jean-Pierre Jeunet
+    nl: Jean-Pierre Jeunet
+    nn: Jean-Pierre Jeunet
+    pap: Jean-Pierre Jeunet
+    pl: Jean-Pierre Jeunet
+    pt: Jean-Pierre Jeunet
+    pt-br: Jean-Pierre Jeunet
+    ro: Jean-Pierre Jeunet
+    ru: Жан-Пьер Жёне
+    sh: Jean-Pierre Jeunet
+    sl: Jean-Pierre Jeunet
+    sq: Jean-Pierre Jeunet
+    sv: Jean-Pierre Jeunet
+    tr: Jean-Pierre Jeunet
+    uk: Жан-П'єр Жене
+    zh: 尚-皮爾·桑里
+    zh-cn: 让-皮埃尔·热内
+    zh-hans: 让-皮埃尔·热内
+    zh-hant: 尚-皮耶·居內
+    zh-hk: 尚-皮爾·桑里
+    zh-sg: 尚-皮亚·祖纳
+    zh-tw: 尚-皮耶·居內
 ---
-
 # [[Jeunet,Jean-Pierre]] 
 
 #is_/same_as :: [[WD~Jean-Pierre_Jeunet,217324]] 

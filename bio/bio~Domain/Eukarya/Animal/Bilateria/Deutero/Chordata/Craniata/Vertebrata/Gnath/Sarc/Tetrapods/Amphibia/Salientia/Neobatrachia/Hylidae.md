@@ -1,9 +1,128 @@
 ---
 aliases:
-  - Hylidae
+- Ağacqurbağaları
+- Ağaç kurbağası
+- Baqaqurilloqlar
+- boomkikkers
+- Calatl
+- Granota arborícola
+- Heckefräschen (Famill)
+- Hiledoj
+- Hilide
+- Hylidae
+- Hílidos
+- Họ Nhái bén
+- Kokvaržu dzimta
+- Laubfrösche
+- lauvfroskar
+- lehtisammakot
+- levelibéka-félék
+- Lövgrodor
+- Løvfrosker
+- Løvfrøer
+- Medvarlinės
+- prave rege
+- rosničkovití
+- rzekotkowate
+- Tsinlátah chʼał
+- Бақылдауық бақалар
+- гаталинки
+- дървесници
+- Йывăç шапи (ямахат)
+- квакши
+- квакшы
+- райкові
+- ծառագորտեր
+- אילניתיים
+- آغاجقورباغالاری
+- د ونو چونگښې
+- رکھ ڈڈو
+- شرغوفيات
+- قورباغههای درختی راستین
+- ვასაკასებრნი
+- アマガエル科
+- 樹蟾科
+- 雨蛙科
+- 청개구리과
 title: Hylidae
+has_id_wikidata: Q53696
+dv_has_:
+  name_:
+    an: Hylidae
+    ar: شرغوفيات
+    arz: شرغوفيات
+    ast: Hylidae
+    az: Ağacqurbağaları
+    azb: آغاجقورباغالاری
+    be: квакшы
+    be-tarask: квакшы
+    bg: дървесници
+    ca: Granota arborícola
+    ceb: Hylidae
+    cs: rosničkovití
+    cv: Йывăç шапи (ямахат)
+    da: Løvfrøer
+    de: Laubfrösche
+    de-ch: Laubfrösche
+    en: Hylidae
+    en-ca: Hylidae
+    en-gb: Hylidae
+    eo: Hiledoj
+    es: Hylidae
+    eu: Hylidae
+    ext: Hylidae
+    fa: قورباغههای درختی راستین
+    fi: lehtisammakot
+    fr: Hylidae
+    frr: Hylidae
+    ga: Hylidae
+    gl: Hílidos
+    he: אילניתיים
+    hu: levelibéka-félék
+    hy: ծառագորտեր
+    ia: Hylidae
+    id: Hylidae
+    ie: Hylidae
+    io: Hylidae
+    it: Hylidae
+    ja: アマガエル科
+    ka: ვასაკასებრნი
+    kk: Бақылдауық бақалар
+    ko: 청개구리과
+    la: Hylidae
+    lb: Heckefräschen (Famill)
+    lt: Medvarlinės
+    lv: Kokvaržu dzimta
+    mk: гаталинки
+    mul: Hylidae
+    nah: Calatl
+    nb: Løvfrosker
+    nl: boomkikkers
+    nn: lauvfroskar
+    nv: Tsinlátah chʼał
+    oc: Hylidae
+    pl: rzekotkowate
+    pnb: رکھ ڈڈو
+    ps: د ونو چونگښې
+    pt: Hylidae
+    pt-br: Hylidae
+    ro: Hilide
+    ru: квакши
+    sco: Hylidae
+    sl: prave rege
+    sq: Hylidae
+    sv: Lövgrodor
+    tr: Ağaç kurbağası
+    uk: райкові
+    uz: Baqaqurilloqlar
+    vi: Họ Nhái bén
+    vo: Hylidae
+    war: Hylidae
+    zh: 雨蛙科
+    zh-cn: 雨蛙科
+    zh-hans: 雨蛙科
+    zh-tw: 樹蟾科
 ---
-
 # [[Hylidae]]
 
 Treefrogs 

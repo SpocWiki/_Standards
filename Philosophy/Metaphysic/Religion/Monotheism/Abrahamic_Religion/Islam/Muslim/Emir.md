@@ -1,36 +1,187 @@
 ---
 aliases:
-  - amir
-  - emira
-  - Emir
+- Agldun
+- amir
+- Amiralis
+- Amire
+- Amiri
+- eemiir
+- emiir
+- emiiri
+- Emir
+- emira
+- Emiri
+- emiro
+- Emyras
+- emír
+- Emīrs
+- mîr
+- Ämir
+- éimír
+- émir
+- Əmir
+- εμίρης
+- Амир
+- емір
+- Емир
+- эмір
+- эмир
+- Әмір
+- Әмир (титул)
+- ամիրա
+- אמיר
+- أمير
+- ئەمیر
+- امير
+- امیر
+- ٴامىر
+- अमिर
+- अमीर
+- আমির
+- ਅਮੀਰ
+- അമീർ
+- ამირა
+- ἀμηρᾶς
+- ⴰⴳⵍⴷⵓⵏ
+- アミール
+- 埃米尔
+- 埃米爾
+- 아미르
 has_id_wikidata: Q166382
 instance_of:
-  - "[[_Standards/WikiData/WD~noble_title,355567]]"
-  - "[[_Standards/WikiData/WD~title_of_honor,3320743]]"
-  - "[[_Standards/WikiData/WD~position,4164871]]"
-  - "[[_Standards/WikiData/WD~military_rank,56019]]"
+- '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~title_of_honor,3320743]]'
+- '[[_Standards/WikiData/WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~military_rank,56019]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~prince,2747456]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Mir,1937846]]"
-different_from: "[[_Standards/WikiData/WD~Emyr,5374904]]"
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~prince,2747456]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mir,1937846]]'
+different_from: '[[_Standards/WikiData/WD~Emyr,5374904]]'
 applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/a1c05cdf14c1d0891e9ff798704cb330
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 native_label: أَمِير
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prokudin-Gorskii-19-v2.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q166382-ar.oga
 Commons_category: Emirs
+dv_has_:
+  name_:
+    ar: أمير
+    ast: Emir
+    az: Əmir
+    ba: Әмир (титул)
+    bcl: Emir
+    be: эмір
+    be-tarask: эмір
+    bg: Емир
+    bn: আমির
+    bs: Emir
+    ca: emir
+    ckb: ئەمیر
+    cs: emír
+    cv: Эмир
+    da: Emir
+    de: Emir
+    el: εμίρης
+    en: Amir
+    en-ca: Emir
+    en-gb: Emir
+    eo: emiro
+    es: emir
+    et: emiir
+    eu: Emir
+    fa: امیر
+    fi: emiiri
+    fr: émir
+    fy: Emir
+    ga: éimír
+    gl: Emir
+    grc: ἀμηρᾶς
+    he: אמיר
+    hi: अमीर
+    hr: Emir
+    hu: emír
+    hy: ամիրա
+    id: emir
+    io: Emiro
+    is: Emír
+    it: emiro
+    ja: アミール
+    ka: ამირა
+    kk: Әмір
+    kk-arab: ٴامىر
+    kk-cn: ٴامىر
+    kk-cyrl: Әмір
+    kk-kz: Әмір
+    kk-latn: Ämir
+    kk-tr: Ämir
+    ko: 아미르
+    ku: mîr
+    ky: Эмир
+    la: Amiralis
+    lt: Emyras
+    lv: Emīrs
+    mg: Emira
+    mk: емир
+    ml: അമീർ
+    ms: Amir
+    mt: emir
+    nan: Amir
+    nb: emir
+    ne: अमिर
+    nl: emir
+    nn: emir
+    oc: Emir
+    os: эмир
+    pa: ਅਮੀਰ
+    pl: emir
+    pnb: امیر
+    ps: امير
+    pt: emir
+    pt-br: Emir
+    ro: emir
+    ru: эмир
+    sd: امير
+    sh: Emir
+    shi: Agldun
+    sl: emir
+    smn: eemiir
+    sms: emiir
+    sn: Amire
+    sq: Emiri
+    sr: емир
+    sr-ec: емир
+    sr-el: emir
+    sv: emir
+    sw: Amiri
+    tg: Амир
+    tl: Emir
+    tr: emir
+    uk: емір
+    ur: امیر
+    uz: Amir
+    vec: emiro
+    vi: Emir
+    wuu: 埃米尔
+    yue: 埃米爾
+    zgh: ⴰⴳⵍⴷⵓⵏ
+    zh: 埃米爾
+    zh-cn: 埃米尔
+    zh-hans: 埃米尔
+    zh-hant: 埃米爾
+    zh-hk: 埃米爾
+    zh-sg: 埃米尔
+    zh-tw: 埃米爾
 ---
-
 # [[Emir]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Emir,166382|WD~Emir,166382]] 

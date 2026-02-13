@@ -1,38 +1,218 @@
 ---
 aliases:
+- Afrihká historjá
+- Afriikk historia
+- Afrik historjá
+- Afrika tarihi
+- Afrika tarixı
+- Afrika történelme
+- Afrikako historia
+- Afrikan historia
+- Afrikansk historie
+- Afrikas historia
+- Afrikas historie
+- Afrikos istorija
+- Afrɩka caanaʋ tɔm
+- dějiny Afriky
+- eachdraidh Afraga
+- geschichte Afrikas
+- geschiedenis van Afrika
+- geskiedenis van Afrika
+- gschicht vo Afrika
+- hanes Affrica
+- histoire de l'Afrique
+- Historia Africae
+- historia Afryki
+- historia d'África
+- Historia de Africa
+- historia de África
+- Historia ya Afrika
+- Historie de Afrika
+- Historija Afrike
+- historio de Afriko
+- history of Africa
+- història d'Àfrica
+- história da África
+- Ischri a Afrika
+- istoria Africii
+- istorija Afrike
+- Istwè di Afrik
+- Istòria de l'Africa
+- Kaagi han Aprika
+- Kasaysayan ng Aprika
+- Lịch sử Châu Phi
+- Matimu ya Afrika
+- Mbili ya Afilika
+- Povijest Afrike
+- Sejarah Afrika
+- stair na hAfraice
+- Storia de l'Africa
+- storia dell'Africa
+- Stória de la África
+- Tarihin Afirka
+- zgodovina Afrike
+- Ìtàn ilẹ̀ Áfríkà
+- Āfrikas vēsture
+- ιστορία της Αφρικής
+- історія Африки
+- Африка тарихы
+- гісторыя Афрыкі
+- историја Африке
+- Историја на Африка
+- история Африки
+- Աֆրիկայի պատմություն
+- היסטוריה של אפריקה
+- افریقا دی تریخ
+- تاريخ إفريقيا
+- تاریخ آفریقا
+- تاریخ افریقا
+- د افريقا تاريخ
+- अफ़्रीका का इतिहास
+- अफ्रिकाया इतिहास
+- अफ्रीका केरौ इतिहास
+- আফ্রিকার ইতিহাস
+- ஆபிரிக்க வரலாறு
+- ആഫ്രിക്കൻ ചരിത്രം
+- අප්රිකාවේ ඉතිහාසය
+- အာဖရိကတိုက် သမိုင်း
+- აფრიკის ისტორია
+- アフリカ史
+- 非洲历史
+- 非洲史
+- 非洲嗰历史
+- 非洲嗰歷史
+- 아프리카의 역사
 has_id_wikidata: Q149813
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q42351360,42351360]]"
-different_from: "[[_Standards/WikiData/WD~Q114771549,114771549]]"
-facet_of: "[[_Standards/WikiData/WD~Africa,15]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
-Dewey_Decimal_Classification: "960"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351360,42351360]]'
+different_from: '[[_Standards/WikiData/WD~Q114771549,114771549]]'
+facet_of: '[[_Standards/WikiData/WD~Africa,15]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
+Dewey_Decimal_Classification: 960
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Africa%20in%201880.jpg
 subreddit: AfricanHistory
 Commons_category: History of Africa
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~History_of_Africa,149813]]"
-    - "[[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]]"
-    - "[[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]]"
-    - "[[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/History_of_Africa.protect|History_of_Africa.protect]]"
-    - "[[/_private/Earth/Continent/Africa/History_of_Africa.private|History_of_Africa.private]]"
-    - "[[/_personal/Earth/Continent/Africa/History_of_Africa.personal|History_of_Africa.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/History_of_Africa.secret|History_of_Africa.secret]]"
+  - '[[../../../WikiData/WD~History_of_Africa,149813]]'
+  - '[[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]]'
+  - '[[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]]'
+  - '[[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/History_of_Africa.protect|History_of_Africa.protect]]'
+  - '[[/_private/Earth/Continent/Africa/History_of_Africa.private|History_of_Africa.private]]'
+  - '[[/_personal/Earth/Continent/Africa/History_of_Africa.personal|History_of_Africa.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/History_of_Africa.secret|History_of_Africa.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~History_of_Africa,149813]]"
-  - "[[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]]"
-  - "[[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]]"
-  - "[[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/History_of_Africa.protect|History_of_Africa.protect]]"
-  - "[[/_private/Earth/Continent/Africa/History_of_Africa.private|History_of_Africa.private]]"
-  - "[[/_personal/Earth/Continent/Africa/History_of_Africa.personal|History_of_Africa.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/History_of_Africa.secret|History_of_Africa.secret]]"
+- '[[../../../WikiData/WD~History_of_Africa,149813]]'
+- '[[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]]'
+- '[[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]]'
+- '[[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]]'
+- '[[/_protect/Earth/Continent/Africa/History_of_Africa.protect|History_of_Africa.protect]]'
+- '[[/_private/Earth/Continent/Africa/History_of_Africa.private|History_of_Africa.private]]'
+- '[[/_personal/Earth/Continent/Africa/History_of_Africa.personal|History_of_Africa.personal]]'
+- '[[/_secret/Earth/Continent/Africa/History_of_Africa.secret|History_of_Africa.secret]]'
+dv_has_:
+  name_:
+    af: geskiedenis van Afrika
+    anp: अफ्रीका केरौ इतिहास
+    ar: تاريخ إفريقيا
+    ast: historia d'África
+    bar: gschicht vo Afrika
+    be: гісторыя Афрыкі
+    be-tarask: гісторыя Афрыкі
+    bn: আফ্রিকার ইতিহাস
+    ca: història d'Àfrica
+    cs: dějiny Afriky
+    cy: hanes Affrica
+    da: Afrikas historie
+    de: geschichte Afrikas
+    el: ιστορία της Αφρικής
+    en: history of Africa
+    en-us: history of Africa
+    eo: historio de Afriko
+    es: historia de África
+    eu: Afrikako historia
+    fa: تاریخ آفریقا
+    fi: Afrikan historia
+    fr: histoire de l'Afrique
+    ga: stair na hAfraice
+    gan: 非洲嗰歷史
+    gan-hans: 非洲嗰历史
+    gan-hant: 非洲嗰歷史
+    gcr: Istwè di Afrik
+    gd: eachdraidh Afraga
+    gl: historia de África
+    ha: Tarihin Afirka
+    he: היסטוריה של אפריקה
+    hi: अफ़्रीका का इतिहास
+    hr: Povijest Afrike
+    hu: Afrika történelme
+    hy: Աֆրիկայի պատմություն
+    ia: Historia de Africa
+    id: Sejarah Afrika
+    it: storia dell'Africa
+    ja: アフリカ史
+    jam: Ischri a Afrika
+    ka: აფრიკის ისტორია
+    kbp: Afrɩka caanaʋ tɔm
+    ko: 아프리카의 역사
+    la: Historia Africae
+    lt: Afrikos istorija
+    lv: Āfrikas vēsture
+    mk: Историја на Африка
+    ml: ആഫ്രിക്കൻ ചരിത്രം
+    ms: sejarah Afrika
+    mwl: Stória de la África
+    my: အာဖရိကတိုက် သမိုင်း
+    nb: Afrikas historie
+    new: अफ्रिकाया इतिहास
+    nl: geschiedenis van Afrika
+    nn: Afrikansk historie
+    nov: Historie de Afrika
+    oc: Istòria de l'Africa
+    pl: historia Afryki
+    pnb: افریقا دی تریخ
+    ps: د افريقا تاريخ
+    pt: história da África
+    ro: istoria Africii
+    ru: история Африки
+    se: Afrihká historjá
+    sh: Historija Afrike
+    si: අප්රිකාවේ ඉතිහාසය
+    sl: zgodovina Afrike
+    smn: Afrik historjá
+    sms: Afriikk historia
+    sr: историја Африке
+    sr-ec: историја Африке
+    sr-el: istorija Afrike
+    sv: Afrikas historia
+    sw: Historia ya Afrika
+    ta: ஆபிரிக்க வரலாறு
+    tl: Kasaysayan ng Aprika
+    tr: Afrika tarihi
+    ts: Matimu ya Afrika
+    tt: Африка тарихы
+    tt-cyrl: Африка тарихы
+    tt-latn: Afrika tarixı
+    tum: Mbili ya Afilika
+    uk: історія Африки
+    ur: تاریخ افریقا
+    vec: Storia de l'Africa
+    vi: Lịch sử Châu Phi
+    war: Kaagi han Aprika
+    wuu: 非洲历史
+    yo: Ìtàn ilẹ̀ Áfríkà
+    yue: 非洲史
+    zh: 非洲历史
+    zh-cn: 非洲历史
+    zh-hans: 非洲史
+    zh-hant: 非洲史
+    zh-hk: 非洲史
+    zh-sg: 非洲史
+    zh-tw: 非洲史
 ---
-
 # [[History_of_Africa]] 
 
 #is_/same_as :: [[WD~History_of_Africa,149813]] 

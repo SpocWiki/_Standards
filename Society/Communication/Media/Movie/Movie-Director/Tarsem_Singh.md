@@ -1,9 +1,67 @@
 ---
 aliases:
-  - Tarsem Singh
-  - Tarsem_Singh
+- Tarsem Singh
+- Tarsem_Singh
+- Тарсем
+- Тарсем Сінгх
+- Թարսեմ Սինխ
+- טרסם סינג
+- تارسم سینگ
+- ترسيم سينج
+- ترسيم سينغ
+- تەرسیم سینگ
+- तरसेम सिंह
+- তারসেম সিং
+- ਤਰਸੇਮ ਸਿੰਘ
+- ターセム・シン
+- 塔森·辛
+- 泰森·辛
+- 타셈 싱
+has_id_wikidata: Q383768
+dv_has_:
+  name_:
+    ar: ترسيم سينغ
+    arz: ترسيم سينج
+    ast: Tarsem Singh
+    be: Тарсем Сінгх
+    bn: তারসেম সিং
+    ca: Tarsem Singh
+    ckb: تەرسیم سینگ
+    cs: Tarsem Singh
+    da: Tarsem Singh
+    de: Tarsem Singh
+    en: Tarsem Singh
+    es: Tarsem Singh
+    eu: Tarsem Singh
+    fa: تارسم سینگ
+    fi: Tarsem Singh
+    fr: Tarsem Singh
+    ga: Tarsem Singh
+    he: טרסם סינג
+    hi: तरसेम सिंह
+    hu: Tarsem Singh
+    hy: Թարսեմ Սինխ
+    id: Tarsem Singh
+    it: Tarsem Singh
+    ja: ターセム・シン
+    ko: 타셈 싱
+    mg: Tarsem Singh
+    nb: Tarsem Singh
+    nl: Tarsem Singh
+    nn: Tarsem Singh
+    pa: ਤਰਸੇਮ ਸਿੰਘ
+    pt: Tarsem Singh
+    pt-br: Tarsem Singh
+    ru: Тарсем
+    sk: Tarsem Singh
+    sl: Tarsem Singh
+    sq: Tarsem Singh
+    sv: Tarsem Singh
+    yue: 泰森·辛
+    zh: 塔森·辛
+    zh-hant: 塔森·辛
+    zh-hk: 泰森·辛
 ---
-
 #has_/time_/started :: 1961-05-26  
 
 > **Tarsem Singh** Dhandwar (born 26 May 1961), known professionally as Tarsem, 

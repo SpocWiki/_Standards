@@ -1,37 +1,142 @@
 ---
 aliases:
-  - Burg
-  - Kastell
-  - Castle
+- Abankese
+- borg
+- Buag
+- Buerg
+- burcht
+- Burg
+- Burg (Brandemborgh)
+- burgo
+- caisleán
+- casteddu
+- castel
+- castell
+- castello
+- Castellum mediaevale
+- castelo
+- casteło
+- Castiello
+- Castiellu
+- castillo
+- Castilyo
+- Castle
+- castèl
+- Chato
+- château fort
+- Châtél (arch·itèctura)
+- Ciastel
+- Câté
+- dvorac
+- Ganuwa
+- gaztelu
+- grad
+- hrad
+- hród
+- istana kota
+- kala
+- kale
+- kastali
+- kasteel
+- kastel
+- Kastell
+- Kastelo
+- Kastiel
+- Kastil
+- kastilyo
+- keleh
+- Kesjteël
+- kirmän
+- kuårnâc
+- lanne
+- linna
+- linnus
+- lâu đài
+- Ngome
+- pilis
+- Pėlės
+- Qalʼa
+- Qesr
+- qəsr
+- Siâⁿ-pó
+- Tchestea
+- timidelt
+- utvrda
+- viduslaiku pils
+- vár
+- zamak
+- zamek
+- zamk
+- zómk
+- Çурт-карман
+- Óga guasuete
+- šloahtta
+- Țitati
+- κάστρεν
+- κάστρο
+- гæнах
+- ГӀап-гӀалаш
+- замак
+- замок
+- Замок (ҡаралты)
+- замък
+- Хэрэм
+- Қалъа
+- դղեակ
+- դղյակ
+- טירה
+- ايستان کوتا
+- ديز
+- دِز
+- دژ
+- قالا
+- قلعة
+- قلعہ
+- قەڵا
+- کلا
+- ܒܝܪܬܐ
+- गढ़
+- गढी
+- দুর্গ
+- ਕਿਲ੍ਹਾ
+- கோட்டையகம்
+- ปราสาท
+- ရဲတိုက်
+- ციხესიმაგრე
+- ካስትል
+- 城
+- 城堡
+- ꯀꯦꯁꯇꯜ (ꯌꯨꯝ)
+- 성
 has_id_wikidata: Q23413
 has_part_s_:
-  - "[[_Standards/WikiData/WD~keep,91165]]"
-  - "[[_Standards/WikiData/WD~castle_courtyard,96597597]]"
-  - "[[_Standards/WikiData/WD~defensive_wall,57346]]"
+- '[[_Standards/WikiData/WD~keep,91165]]'
+- '[[_Standards/WikiData/WD~castle_courtyard,96597597]]'
+- '[[_Standards/WikiData/WD~defensive_wall,57346]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~alcázar,613611]]"
-  - "[[_Standards/WikiData/WD~château,751876]]"
+- '[[_Standards/WikiData/WD~alcázar,613611]]'
+- '[[_Standards/WikiData/WD~château,751876]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~dwelling,699405]]"
-  - "[[_Standards/WikiData/WD~status_symbol,1758228]]"
-  - "[[_Standards/WikiData/WD~defense,29688905]]"
+- '[[_Standards/WikiData/WD~dwelling,699405]]'
+- '[[_Standards/WikiData/WD~status_symbol,1758228]]'
+- '[[_Standards/WikiData/WD~defense,29688905]]'
 different_from:
-  - "[[_Standards/WikiData/WD~château,751876]]"
-  - "[[_Standards/WikiData/WD~palace,16560]]"
-instance_of: "[[_Standards/WikiData/WD~building_type,811102]]"
-studied_by: "[[_Standards/WikiData/WD~castellology,2941393]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_castle,10805532]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q19332893,19332893]]"
-subclass_of: "[[_Standards/WikiData/WD~fortification,57821]]"
+- '[[_Standards/WikiData/WD~château,751876]]'
+- '[[_Standards/WikiData/WD~palace,16560]]'
+instance_of: '[[_Standards/WikiData/WD~building_type,811102]]'
+studied_by: '[[_Standards/WikiData/WD~castellology,2941393]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_castle,10805532]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q19332893,19332893]]'
+subclass_of: '[[_Standards/WikiData/WD~fortification,57821]]'
 Wolfram_Language_entity_type: Castle
 Commons_gallery: Castle
 IMDb_keyword: castle
@@ -45,15 +150,164 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/B%C4%99dzin%20-%20zame
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Castell%20Beaumaris%20Castle%2C%20Ynys%20Mon%20%28Anglesey%29%2C%20Wales%2044.png
 equivalent_class: http://dbpedia.org/ontology/Castle
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/02980441-n
-  - http://wordnet-rdf.princeton.edu/wn31/102974554-n
-Unicode_character: 🏰
+- http://wordnet-rdf.princeton.edu/wn30/02980441-n
+- http://wordnet-rdf.princeton.edu/wn31/102974554-n
+Unicode_character: "\U0001F3F0"
 P8189: 987007284718005100
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/ZAMOK.html
 GeoNames_feature_code: S.CSTL
 OpenStreetMap_tag_or_key: Tag:historic=castle
+dv_has_:
+  name_:
+    af: kasteel
+    ak: Abankese
+    an: Castiello
+    ar: قلعة
+    arc: ܒܝܪܬܐ
+    ast: Castiellu
+    az: qəsr
+    azb: قالا
+    ba: Замок (ҡаралты)
+    bar: Buag
+    be: замак
+    be-tarask: замак
+    bg: замък
+    bn: দুর্গ
+    br: kastell
+    bs: dvorac
+    bxr: Хэрэм
+    ca: castell
+    ceb: kastilyo
+    ckb: قەڵا
+    cs: hrad
+    csb: zómk
+    cv: Çурт-карман
+    cy: castell
+    da: borg
+    de: Burg
+    de-ch: Burg
+    diq: Qesr
+    el: κάστρο
+    en: castle
+    en-ca: Castle
+    en-gb: castle
+    en-us: castle
+    eo: burgo
+    es: castillo
+    et: linnus
+    eu: gaztelu
+    fa: دژ
+    fi: linna
+    fr: château fort
+    frp: Châtél (arch·itèctura)
+    fy: Kastiel
+    ga: caisleán
+    gl: castelo
+    glk: ديز
+    gn: Óga guasuete
+    gsw: Burg
+    ha: Ganuwa
+    he: טירה
+    hi: गढ़
+    hr: utvrda
+    hsb: hród
+    ht: Chato
+    hu: vár
+    hy: դղյակ
+    hyw: դղեակ
+    ia: castello
+    id: kastel
+    inh: ГӀап-гӀалаш
+    io: Kastelo
+    is: kastali
+    it: castello
+    ja: 城
+    jv: Kastil
+    ka: ციხესიმაგრე
+    kab: timidelt
+    ko: 성
+    ku: keleh
+    ku-latn: keleh
+    kw: kastell
+    la: Castellum mediaevale
+    lb: Buerg
+    li: Kesjteël
+    lld: Ciastel
+    lmo: Castell
+    lt: pilis
+    lv: viduslaiku pils
+    mk: замок
+    mni: ꯀꯦꯁꯇꯜ (ꯌꯨꯝ)
+    mr: गढी
+    ms: istana kota
+    ms-arab: ايستان کوتا
+    mt: kastell
+    my: ရဲတိုက်
+    mzn: دِز
+    nan: Siâⁿ-pó
+    nb: borg
+    nds: Borg
+    nds-nl: burcht
+    ne: गढी
+    nl: burcht
+    nn: borg
+    nrm: Câté
+    oc: castèl
+    os: гæнах
+    pa: ਕਿਲ੍ਹਾ
+    pl: zamek
+    pms: Burg (Brandemborgh)
+    pnb: قلعہ
+    pnt: κάστρεν
+    ps: کلا
+    pt: castelo
+    pt-br: castelo
+    rki: ရဲတိုက်
+    ro: castel
+    rsk: Замок
+    ru: замок
+    rup: Țitati
+    scn: casteddu
+    sco: castle
+    se: šloahtta
+    sgs: Pėlės
+    sh: zamak
+    sk: hrad
+    sl: grad
+    smn: lanne
+    sms: kuårnâc
+    sq: kala
+    sr: замак
+    sr-ec: замак
+    sr-el: zamak
+    sv: borg
+    sw: Ngome
+    ta: கோட்டையகம்
+    tg: Қалъа
+    th: ปราสาท
+    ti: ካስትል
+    tr: kale
+    tt: kirmän
+    uk: замок
+    ur: قلعہ
+    uz: Qalʼa
+    vec: casteło
+    vep: zamk
+    vi: lâu đài
+    wa: Tchestea
+    war: Castilyo
+    wuu: 城堡
+    yue: 城堡
+    zh: 城堡
+    zh-cn: 城堡
+    zh-hans: 城堡
+    zh-hant: 城堡
+    zh-hk: 城堡
+    zh-mo: 城堡
+    zh-my: 城堡
+    zh-sg: 城堡
+    zh-tw: 城堡
 ---
-
 # [[Castle]] 🏰 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Castle,23413|WD~Castle,23413]] 

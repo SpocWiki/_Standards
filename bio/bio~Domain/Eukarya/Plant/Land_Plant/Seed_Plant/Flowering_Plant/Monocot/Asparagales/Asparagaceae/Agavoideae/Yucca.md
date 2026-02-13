@@ -1,48 +1,157 @@
 ---
 aliases:
+- gioca
+- iuca
+- juka
+- jukaj
+- jukao
+- jukat
+- jukka
+- jука
+- palmliljesläktet
+- pálmaliliom
+- pálmalilja
+- Yucca
+- Yukka
+- Yuko
+- Γιούκα
+- юка
+- Юкка
+- արմավաշուշան
+- יוקה
+- يكة
+- يكه
+- يڪا
+- یوکا
+- யூக்கா
+- యుక్కా
+- ಯಕ್ಕ
+- იუკა
+- ユッカ
+- 丝兰属
+- 絲蘭屬
+- 유카속
 has_id_wikidata: Q156317
 has_fruit_type:
-  - "[[_Standards/WikiData/WD~capsule,147768]]"
-  - "[[_Standards/WikiData/WD~berry,13184]]"
-parent_taxon: "[[_Standards/WikiData/WD~Agavoideae,162802]]"
+- '[[_Standards/WikiData/WD~capsule,147768]]'
+- '[[_Standards/WikiData/WD~berry,13184]]'
+parent_taxon: '[[_Standards/WikiData/WD~Agavoideae,162802]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Yucca_aloifolia,1520316]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~istle,5923654]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "43116"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Yucca_aloifolia,1520316]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~istle,5923654]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 43116
 Commons_gallery: Yucca
 Commons_category: Yucca
 taxon_name: Yucca
 taxon_common_name:
-  - Юкка
-  - Palmlilien
-  - Jukat
-  - ադամի ասեղ
-  - Արմավաշուշան
-  - juka
-  - Palmliljesläktet
-  - 丝兰属
-  - 丝兰属
+- Юкка
+- Palmlilien
+- Jukat
+- ադամի ասեղ
+- Արմավաշուշան
+- juka
+- Palmliljesläktet
+- 丝兰属
+- 丝兰属
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Yucca%20baccata%20whole.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Yucca%20filamentosa.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Yucca%20baccata%20whole.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Yucca%20filamentosa.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=13004
 EPPO_Code: 1UCCG
 UNII: 2YCS62N245
 MeSH_tree_code: B01.875.800.575.912.250.618.100.060.980
 UMLS_CUI: C0524887
 NBN_System_Key: NHMSYS0000465210
+dv_has_:
+  name_:
+    an: Yucca
+    ar: يكة
+    arz: يكه
+    ast: Yucca
+    az: Yukka
+    be-tarask: юка
+    bg: юка
+    bs: juka
+    ca: iuca
+    ceb: Yucca
+    cs: juka
+    da: Yucca
+    de: Yucca
+    el: Γιούκα
+    en: Yucca
+    eo: jukao
+    es: Yucca
+    eu: Yucca
+    ext: Yucca
+    fa: یوکا
+    fi: jukat
+    fr: Yucca
+    frr: Yucca
+    ga: gioca
+    gl: iuca
+    he: יוקה
+    hr: juka
+    hsb: juka
+    hu: pálmaliliom
+    hy: արմավաշուշան
+    ia: Yucca
+    id: Yucca
+    ie: Yucca
+    io: Yuko
+    is: pálmalilja
+    it: Yucca
+    ja: ユッカ
+    ka: იუკა
+    kk: Юкка
+    kn: ಯಕ್ಕ
+    ko: 유카속
+    la: Yucca
+    lt: juka
+    mul: Yucca
+    nb: Yucca
+    nl: Yucca
+    nn: Yucca
+    oc: Yucca
+    pl: jukka
+    pt: Yucca
+    pt-br: Yucca
+    ro: Yucca
+    ru: Юкка
+    sco: Yucca
+    sd: يڪا
+    sh: jukaj
+    sk: juka
+    sl: juka
+    sq: Yucca
+    sr: jука
+    sv: palmliljesläktet
+    ta: யூக்கா
+    te: యుక్కా
+    tr: Yucca
+    uk: Юка
+    uz: Yukka
+    vi: Yucca
+    vo: Yucca
+    war: Yucca
+    yue: 絲蘭屬
+    zh: 丝兰属
+    zh-cn: 丝兰属
+    zh-hans: 丝兰属
+    zh-hant: 絲蘭屬
+    zh-hk: 絲蘭屬
+    zh-sg: 丝兰属
+    zh-tw: 絲蘭屬
 ---
-
 # [[Yucca]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Yucca,156317|WD~Yucca,156317]] 

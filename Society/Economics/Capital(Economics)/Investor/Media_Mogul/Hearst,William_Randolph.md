@@ -1,18 +1,37 @@
 ---
 aliases:
-  - William Randolph Hearst
-  - William Randolph Hearst Sr.
-  - Hearst,William_Randolph
-  - Hearst,William Randolph
+- Hearst,William Randolph
+- Hearst,William_Randolph
+- Uilyam Rendolf Herst
+- Vilijam Randolf Herst
+- Viljams Rendolfs Hērsts
+- William Randolph Hearst
+- William Randolph Hearst Sr.
+- Ουίλιαμ Ράντολφ Χιρστ
+- Ўільям Рэндалф Гэрст
+- Вільям Рендольф Герст
+- Уильям Рандольф Херст
+- Уильям Рэндольф Херст
+- Уилям Рандолф Хърст
+- Ուիլյամ Ռենդոլֆ Հերսթ
+- ויליאם רנדולף הרסט
+- ويليام راندولف هارست
+- ویلیام راندولف هرست
+- ویلیام راندولف هیرست
+- ویلیام رانډولف هرسټ
+- ራንዶልፍ ሄርስት
+- ウィリアム・ランドルフ・ハースト
+- 威廉·赫斯特
+- 윌리엄 랜돌프 허스트
 has_id_wikidata: Q294931
 BHCL_UUID: 69edc9b2-575d-469b-a161-7462ce661151
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 child:
-  - '[[_Standards/WikiData/WD~George_Randolph_Hearst,5543710]]'
-  - '[[_Standards/WikiData/WD~John_Randolph_Hearst,6254217]]'
-  - '[[_Standards/WikiData/WD~Randolph_Apperson_Hearst,7291784]]'
-  - '[[_Standards/WikiData/WD~William_Randolph_Hearst_Jr.,8017363]]'
-  - '[[_Standards/WikiData/WD~David_Whitmore_Hearst,75907687]]'
+- '[[_Standards/WikiData/WD~George_Randolph_Hearst,5543710]]'
+- '[[_Standards/WikiData/WD~John_Randolph_Hearst,6254217]]'
+- '[[_Standards/WikiData/WD~Randolph_Apperson_Hearst,7291784]]'
+- '[[_Standards/WikiData/WD~William_Randolph_Hearst_Jr.,8017363]]'
+- '[[_Standards/WikiData/WD~David_Whitmore_Hearst,75907687]]'
 Commons_category: William Randolph Hearst
 Commons_gallery: William Randolph Hearst
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
@@ -20,18 +39,18 @@ country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 date_of_birth: 1863-04-29T00:00:00Z
 date_of_death: 1951-08-14T00:00:00Z
 described_by_source:
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~St._Paul's_School,906930]]"
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-  - '[[_Standards/WikiData/WD~Harvard_College,49123]]'
+- "[[_Standards/WikiData/WD~St._Paul's_School,906930]]"
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Harvard_College,49123]]'
 family_name: '[[_Standards/WikiData/WD~Hearst,20996400]]'
 father: '[[_Standards/WikiData/WD~George_Hearst,561826]]'
 given_name:
-  - '[[_Standards/WikiData/WD~William,12344159]]'
-  - '[[_Standards/WikiData/WD~Randolph,21485499]]'
+- '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Randolph,21485499]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Randolph%20Hearst%20cph%203a49373.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -43,19 +62,19 @@ member_of_political_party: '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 mother: '[[_Standards/WikiData/WD~Phoebe_Hearst,463046]]'
 name_in_native_language: William Randolph Hearst
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~socialite,512314]]'
-  - '[[_Standards/WikiData/WD~publisher,2516866]]'
-  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
-  - '[[_Standards/WikiData/WD~reporter,42909]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~socialite,512314]]'
+- '[[_Standards/WikiData/WD~publisher,2516866]]'
+- '[[_Standards/WikiData/WD~art_collector,10732476]]'
+- '[[_Standards/WikiData/WD~reporter,42909]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Hearst_Castle,378143]]'
-  - '[[_Standards/WikiData/WD~Beacon_Towers,4875993]]'
-  - '[[_Standards/WikiData/WD~Syracuse_Telegram,7663072]]'
-  - '[[_Standards/WikiData/WD~New_York_Daily_Mirror,13436639]]'
-  - '[[_Standards/WikiData/WD~New_York_Morning_Journal,46034403]]'
+- '[[_Standards/WikiData/WD~Hearst_Castle,378143]]'
+- '[[_Standards/WikiData/WD~Beacon_Towers,4875993]]'
+- '[[_Standards/WikiData/WD~Syracuse_Telegram,7663072]]'
+- '[[_Standards/WikiData/WD~New_York_Daily_Mirror,13436639]]'
+- '[[_Standards/WikiData/WD~New_York_Morning_Journal,46034403]]'
 P8189: 987007312900405171
 place_of_birth: '[[_Standards/WikiData/WD~San_Francisco,62]]'
 place_of_burial: '[[_Standards/WikiData/WD~Cypress_Lawn_Memorial_Park,3084115]]'
@@ -72,8 +91,81 @@ work_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 work_period_end_: 1949-01-01T00:00:00Z
 work_period_start_: 1880-01-01T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    af: William Randolph Hearst
+    am: ራንዶልፍ ሄርስት
+    ar: ويليام راندولف هارست
+    arz: ويليام راندولف هارست
+    ast: William Randolph Hearst
+    az: Uilyam Rendolf Herst
+    azb: ویلیام راندولف هرست
+    be-tarask: Ўільям Рэндалф Гэрст
+    bg: Уилям Рандолф Хърст
+    ca: William Randolph Hearst
+    cs: William Randolph Hearst
+    cy: William Randolph Hearst
+    da: William Randolph Hearst
+    de: William Randolph Hearst
+    de-ch: William Randolph Hearst
+    ee: William Randolph Hearst
+    el: Ουίλιαμ Ράντολφ Χιρστ
+    en: William Randolph Hearst
+    en-ca: William Randolph Hearst
+    en-gb: William Randolph Hearst
+    eo: William Randolph Hearst
+    es: William Randolph Hearst
+    eu: William Randolph Hearst
+    fa: ویلیام راندولف هیرست
+    fi: William Randolph Hearst
+    fr: William Randolph Hearst
+    ga: William Randolph Hearst
+    gl: William Randolph Hearst
+    he: ויליאם רנדולף הרסט
+    hr: William Randolph Hearst
+    hu: William Randolph Hearst
+    hy: Ուիլյամ Ռենդոլֆ Հերսթ
+    id: William Randolph Hearst
+    io: William Randolph Hearst
+    is: William Randolph Hearst
+    it: William Randolph Hearst
+    ja: ウィリアム・ランドルフ・ハースト
+    ko: 윌리엄 랜돌프 허스트
+    lb: William Randolph Hearst
+    lv: Viljams Rendolfs Hērsts
+    mg: William Randolph Hearst
+    mn: Уильям Рандольф Херст
+    ms: William Randolph Hearst
+    mul: William Randolph Hearst
+    nb: William Randolph Hearst
+    nds: William Randolph Hearst
+    nl: William Randolph Hearst
+    nn: William Randolph Hearst
+    pap: William Randolph Hearst
+    pl: William Randolph Hearst
+    ps: ویلیام رانډولف هرسټ
+    pt: William Randolph Hearst
+    pt-br: William Randolph Hearst
+    ro: William Randolph Hearst
+    ru: Уильям Рэндольф Херст
+    sl: William Randolph Hearst
+    sq: William Randolph Hearst
+    sr: Vilijam Randolf Herst
+    sv: William Randolph Hearst
+    tr: William Randolph Hearst
+    uk: Вільям Рендольф Герст
+    vi: William Randolph Hearst
+    war: William Randolph Hearst
+    yo: William Randolph Hearst
+    yue: 威廉·赫斯特
+    zh: 威廉·赫斯特
+    zh-cn: 威廉·赫斯特
+    zh-hans: 威廉·赫斯特
+    zh-hant: 威廉·赫斯特
+    zh-hk: 威廉·赫斯特
+    zh-sg: 威廉·赫斯特
+    zh-tw: 威廉·赫斯特
 ---
-
 # [[Hearst,William_Randolph]] 
 
 #has_/time_/started ::  1863-04-29 

@@ -1,4 +1,137 @@
-
+---
+has_id_wikidata: Q151055
+dv_has_:
+  name_:
+    af: Denisova-hominien
+    ar: إنسان دينيسوفا
+    ast: Homínidu de Denísova
+    azb: دنیسووا اینسانی
+    be: Дзянісаўскі чалавек
+    be-tarask: дзянісавец
+    bg: Денисов човек
+    bn: দেনিসোভা মানব
+    bs: Denisovski hominin
+    ca: denissovans
+    ckb: مرۆڤی دێنیسۆڤان
+    cs: Denisované
+    cv: Денисов этемĕ
+    cy: Denisovan
+    da: Denisova hominin
+    de: Denisova-Mensch
+    el: Ντενίσοβαν
+    en: denisovan
+    en-ca: Denisovan
+    en-gb: Denisovan
+    eo: Denisova hominido
+    es: Homínido de Denisova
+    et: Denissi inimene
+    eu: Denisovako gizaki
+    fa: انسانتبار دنیسووا
+    fi: denisovanihminen
+    fr: dénisovien
+    ga: Deiniseóbhach
+    gl: Homínido de Denisova
+    he: האדם הדניסובי
+    hr: Denisovski čovjek
+    hu: gyenyiszovai ember
+    ia: Denisovan
+    id: Hominin Denisova
+    it: Homo di Denisova
+    ja: デニソワ人
+    ko: 데니소바인
+    ksh: Denisova-Mensch
+    la: Homo Denisovensis
+    lfn: Denisovan
+    lo: Denisovan
+    lt: Denisovo žmogus
+    lv: Deņisova cilvēks
+    mk: Денисовци
+    mul: Homo denisova
+    nb: Homo denisova
+    new: देनिसोभन
+    nl: denisoviër
+    oc: Òme de Denisova
+    pl: Denisowianin
+    ps: ډینیسووان
+    pt: Hominídeo de Denisova
+    pt-br: Hominídeo de Denisova
+    ro: Omul de Denisovan
+    ru: денисовский человек
+    sh: Denisovski čovjek
+    sk: Denisovan
+    sl: denisovanski človek
+    so: Denisovan
+    sr: Денисовани
+    sv: Denisovamänniskan
+    tl: Denisova hominin
+    tr: Denisova insanı
+    uk: Денисівська людина
+    vec: Homo di Denisova
+    vi: Người Denisova
+    war: Denisovanon
+    yue: 丹尼索瓦人
+    zh: 丹尼索瓦人
+    zh-cn: 丹尼索瓦人
+    zh-hans: 丹尼索瓦人
+    zh-hant: 丹尼索瓦人
+    zh-hk: 丹尼索瓦人
+    zh-sg: 丹尼索瓦人
+    zh-tw: 丹尼索瓦人
+aliases:
+- Deiniseóbhach
+- Denisova hominido
+- Denisova hominin
+- Denisova insanı
+- Denisova-hominien
+- Denisova-Mensch
+- Denisovako gizaki
+- Denisovamänniskan
+- Denisovan
+- denisovanihminen
+- Denisovanon
+- denisovanski človek
+- Denisované
+- denisoviër
+- Denisovo žmogus
+- Denisovski hominin
+- Denisovski čovjek
+- Denisowianin
+- Denissi inimene
+- denissovans
+- Deņisova cilvēks
+- dénisovien
+- gyenyiszovai ember
+- Hominin Denisova
+- Hominídeo de Denisova
+- Homo denisova
+- Homo Denisovensis
+- Homo di Denisova
+- Homínido de Denisova
+- Homínidu de Denísova
+- Người Denisova
+- Omul de Denisovan
+- Òme de Denisova
+- Ντενίσοβαν
+- Денисівська людина
+- Денисов човек
+- Денисов этемĕ
+- Денисовани
+- денисовский человек
+- Денисовци
+- Дзянісаўскі чалавек
+- дзянісавец
+- האדם הדניסובי
+- إنسان دينيسوفا
+- انسانتبار دنیسووا
+- دنیسووا اینسانی
+- مرۆڤی دێنیسۆڤان
+- ډینیسووان
+- देनिसोभन
+- দেনিসোভা মানব
+- デニソワ人
+- 丹尼索瓦人
+- 데니소바인
+---
 # [[Denisovan]] 
 
 #has_/time_/started :: -285000-06

@@ -1,16 +1,85 @@
 ---
 aliases:
-  - Längsschnittstudie
-  - Verlaufsstudie
-  - Longitudinalstudie
-  - Längsschnittuntersuchung
-  - Längsschnitterhebung
-  - longitudinal survey
-  - panel study
-  - Longitudinal_Study
-  - Longitudinal Study
+- estudio longitudinal
+- estudo longitudinal
+- forløbsundersøgelse
+- indagine longitudinale
+- longitudinaal onderzoek
+- Longitudinal Study
+- longitudinal survey
+- Longitudinalstudie
+- Longitudinal_Study
+- longitudinell studie
+- longitudinális vizsgálat
+- longitudinální výzkum
+- longituuduuring
+- Luzetarako datuak
+- Längsschnitterhebung
+- Längsschnittstudie
+- Längsschnittuntersuchung
+- mesure longitudinale
+- panel study
+- Penelitian longitudinal
+- pitkittäistutkimus
+- Strategia porównań podłużnych
+- Verlaufsstudie
+- vzdolžna raziskava
+- Дългосрочно изучаване
+- Лонгітюдне дослідження
+- Лонгитюдное исследование
+- надолжна студија
+- Լոնգիտյուդային հետազոտություններ
+- מחקר אורך
+- دراسة طولية
+- مطالعه طولی
+- งานศึกษาตามยาว
+- 縦断研究
+- 縱向研究
+- 縱貫研究
+- 追踪研究
+- 追蹤研究
+- 종단적 연구
+has_id_wikidata: Q1758614
+dv_has_:
+  name_:
+    ar: دراسة طولية
+    bg: Дългосрочно изучаване
+    cs: longitudinální výzkum
+    da: forløbsundersøgelse
+    de: Längsschnittstudie
+    en: longitudinal study
+    es: estudio longitudinal
+    et: longituuduuring
+    eu: Luzetarako datuak
+    fa: مطالعه طولی
+    fi: pitkittäistutkimus
+    fr: mesure longitudinale
+    he: מחקר אורך
+    hu: longitudinális vizsgálat
+    hy: Լոնգիտյուդային հետազոտություններ
+    id: Penelitian longitudinal
+    it: indagine longitudinale
+    ja: 縦断研究
+    ko: 종단적 연구
+    mk: надолжна студија
+    nb: longitudinell studie
+    nl: longitudinaal onderzoek
+    nn: Longitudinell studie
+    pl: Strategia porównań podłużnych
+    pt: estudo longitudinal
+    pt-br: estudo longitudinal
+    ru: Лонгитюдное исследование
+    sl: vzdolžna raziskava
+    sv: longitudinell studie
+    th: งานศึกษาตามยาว
+    uk: Лонгітюдне дослідження
+    yue: 縱向研究
+    zh: 縱向研究
+    zh-cn: 追踪研究
+    zh-hans: 追踪研究
+    zh-hant: 追蹤研究
+    zh-tw: 縱貫研究
 ---
-
 #is_/better_than :: [[Cross-sectional_Study]] 
 #is_/different_from :: [[../Experiment]]
 

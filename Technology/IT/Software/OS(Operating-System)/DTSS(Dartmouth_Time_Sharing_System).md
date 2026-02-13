@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q4348530
+---
+
 
 # [[DTSS(Dartmouth_Time_Sharing_System)]] 
 

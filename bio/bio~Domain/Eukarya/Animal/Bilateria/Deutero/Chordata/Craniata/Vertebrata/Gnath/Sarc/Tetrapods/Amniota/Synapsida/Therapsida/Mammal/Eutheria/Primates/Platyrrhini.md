@@ -1,9 +1,133 @@
 ---
 aliases:
-  - Platyrrhini
+- Bagong Daigdig na unggoy
+- brednäsor
+- breedneusapen
+- Breednoasapen
+- Briadnöösaaben
+- Ceboidea
+- Khỉ Tân Thế giới
+- Majmuni Novog svijeta
+- małpy szerokonose
+- micos del Nou Món
+- moncaí domhain úir
+- Monyet Dunia Baru
+- Mwncïod y Byd Newydd
+- Neuweltaffen
+- Platirinieni
+- Platirinoj
+- Platyrrhini
+- Plačianosės beždžionės
+- Ploskonosovce
+- ploskonosí
+- Shádiʼááhdę́ę́ʼ magí
+- szélesorrú majmok
+- uuden maailman apinat
+- Vestaber
+- vestaper
+- Yeni Dünya maymunları
+- Πλατύρρινοι
+- Кеңтанаулы маймылдар
+- Татар Шәһәрчеге
+- широконосі
+- Широконоси маймуни
+- Широконосни мајмуни
+- широконосые обезьяны
+- шыраканосыя малпы
+- լայնքիթ կապիկներ
+- קופים רחבי-אף
+- سعدان العالم الجديد
+- نویں دنیا دے باندر
+- پخبینیان
+- नवजगत बंदर
+- ลิงโลกใหม่
+- ცხვირფართო მაიმუნები
+- 広鼻小目
+- 闊鼻小目
+- 阔鼻小目
+- ꯑꯅꯧꯕ ꯃꯥꯂꯦꯝꯒꯤ ꯌꯣꯡ
+- 광비원류
 title: Platyrrhini
+has_id_wikidata: Q237157
+dv_has_:
+  name_:
+    an: Platyrrhini
+    ar: سعدان العالم الجديد
+    arz: سعدان العالم الجديد
+    ast: Platyrrhini
+    be: шыраканосыя малпы
+    bg: Широконоси маймуни
+    bs: Majmuni Novog svijeta
+    ca: micos del Nou Món
+    ceb: Platyrrhini
+    cs: ploskonosí
+    cy: Mwncïod y Byd Newydd
+    da: Vestaber
+    de: Neuweltaffen
+    el: Πλατύρρινοι
+    en: Platyrrhini
+    eo: Platirinoj
+    es: Platyrrhini
+    eu: Platyrrhini
+    ext: Platyrrhini
+    fa: پخبینیان
+    fi: uuden maailman apinat
+    fr: Platyrrhini
+    frr: Briadnöösaaben
+    fy: Breednoasapen
+    ga: moncaí domhain úir
+    gl: Platyrrhini
+    gv: Ceboidea
+    he: קופים רחבי-אף
+    hi: नवजगत बंदर
+    hr: Majmuni Novog svijeta
+    hu: szélesorrú majmok
+    hy: լայնքիթ կապիկներ
+    ia: Platyrrhini
+    id: Monyet Dunia Baru
+    ie: Platyrrhini
+    io: Platyrrhini
+    it: Platyrrhini
+    ja: 広鼻小目
+    ka: ცხვირფართო მაიმუნები
+    kk: Кеңтанаулы маймылдар
+    ko: 광비원류
+    la: Platyrrhini
+    lt: Plačianosės beždžionės
+    mk: Широконосни мајмуни
+    mni: ꯑꯅꯧꯕ ꯃꯥꯂꯦꯝꯒꯤ ꯌꯣꯡ
+    mul: Platyrrhini
+    nb: vestaper
+    nl: breedneusapen
+    nv: Shádiʼááhdę́ę́ʼ magí
+    oc: Platyrrhini
+    pl: małpy szerokonose
+    pnb: نویں دنیا دے باندر
+    pt: Platyrrhini
+    pt-br: Platyrrhini
+    ro: Platirinieni
+    ru: широконосые обезьяны
+    sh: Majmuni Novog svijeta
+    sk: Ploskonosovce
+    sl: Platyrrhini
+    sq: Platyrrhini
+    sv: brednäsor
+    th: ลิงโลกใหม่
+    tl: Bagong Daigdig na unggoy
+    tr: Yeni Dünya maymunları
+    tt: Татар Шәһәрчеге
+    uk: широконосі
+    vi: Khỉ Tân Thế giới
+    vo: Platyrrhini
+    war: Platyrrhini
+    zh: 闊鼻小目
+    zh-cn: 阔鼻小目
+    zh-hans: 阔鼻小目
+    zh-hant: 闊鼻小目
+    zh-hk: 闊鼻小目
+    zh-sg: 阔鼻小目
+    zh-tw: 闊鼻小目
 ---
-
 # [[Platyrrhini]]
 
 ## New World Monkeys 

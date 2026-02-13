@@ -1,40 +1,168 @@
 ---
 aliases:
+- Dièu-siēng Buáng-dō̤ lĭk-sṳ̄
+- Dějiny Koreje
+- Geschichte Koreas
+- geschiedenis van Korea
+- histoire de la Corée
+- Histori long Koria
+- historia Coreana
+- Historia de Corea
+- Historia Korei
+- historio de Koreio
+- history of Korea
+- història de Corea
+- história da Coreia
+- Istorija Koreje
+- Kore tarihi
+- Korea ajalugu
+- Korea historia
+- Korea historjá
+- Korea történelme
+- Koreako historia
+- Korean historia
+- Koreas historia
+- Koreas historie
+- Korejas vēsture
+- Koreya tarixi
+- Koreya tariyxı
+- Korėjos istorija
+- Lịch sử Triều Tiên
+- Povijest Koreje
+- Saga Kóreu
+- Sejarah Korea
+- stair na Cóiré
+- storia della Corea
+- Tiâu-sián le̍k-sú
+- zgodovina Koreje
+- історія Кореї
+- гісторыя Карэі
+- Историја Кореје
+- история Кореи
+- история на Корея
+- Корея тарихы
+- Կորեայի պատմություն
+- היסטוריה של קוריאה
+- تاريخ كوريا
+- تاریخ کره
+- مێژووی کۆریا
+- कोरिया का इतिहास
+- কোরিয়ার ইতিহাস
+- ਕੋਰੀਆ ਦਾ ਇਤਿਹਾਸ
+- கொரியாவின் வரலாறு
+- കൊറിയയുടെ ചരിത്രം
+- කොරියාවේ ඉතිහාසය
+- ประวัติศาสตร์เกาหลี
+- ძვ.კორეა
+- 朝鮮の歴史
+- 朝鮮半島歷史
+- 朝鲜半岛历史
+- 한국의 역사
 has_id_wikidata: Q713414
 has_part_s_:
-  - "[[_Standards/WikiData/WD~history_of_South_Korea,494973]]"
-  - "[[_Standards/WikiData/WD~history_of_North_Korea,693277]]"
+- '[[_Standards/WikiData/WD~history_of_South_Korea,494973]]'
+- '[[_Standards/WikiData/WD~history_of_North_Korea,693277]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Goryeosa,707566]]"
-  - "[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_East_Asia,831198]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828763,22828763]]"
-facet_of: "[[_Standards/WikiData/WD~Korea,18097]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Korea,55507]]"
+- '[[_Standards/WikiData/WD~Goryeosa,707566]]'
+- '[[_Standards/WikiData/WD~Svensk_uppslagsbok,1766280]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_East_Asia,831198]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828763,22828763]]'
+facet_of: '[[_Standards/WikiData/WD~Korea,18097]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Korea,55507]]'
 Commons_category: History of Korea
-Dewey_Decimal_Classification: "951.9"
+Dewey_Decimal_Classification: 951.9
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea|History_of_Korea]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public|History_of_Korea.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal|History_of_Korea.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect|History_of_Korea.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private|History_of_Korea.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal|History_of_Korea.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret|History_of_Korea.secret]]"
+  - '[[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea|History_of_Korea]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public|History_of_Korea.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal|History_of_Korea.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect|History_of_Korea.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private|History_of_Korea.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal|History_of_Korea.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret|History_of_Korea.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea|History_of_Korea]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public|History_of_Korea.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal|History_of_Korea.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect|History_of_Korea.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private|History_of_Korea.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal|History_of_Korea.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret|History_of_Korea.secret]]"
+- '[[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea|History_of_Korea]]'
+- '[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.public|History_of_Korea.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.internal|History_of_Korea.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.protect|History_of_Korea.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.private|History_of_Korea.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.personal|History_of_Korea.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula/History_of_Korea.secret|History_of_Korea.secret]]'
+dv_has_:
+  name_:
+    ar: تاريخ كوريا
+    ast: Historia de Corea
+    az: Koreya tarixi
+    ba: Корея тарихы
+    be: гісторыя Карэі
+    be-tarask: гісторыя Карэі
+    bg: история на Корея
+    bn: কোরিয়ার ইতিহাস
+    ca: història de Corea
+    cdo: Dièu-siēng Buáng-dō̤ lĭk-sṳ̄
+    ckb: مێژووی کۆریا
+    cs: Dějiny Koreje
+    de: Geschichte Koreas
+    en: history of Korea
+    eo: historio de Koreio
+    es: historia de Corea
+    et: Korea ajalugu
+    eu: Koreako historia
+    fa: تاریخ کره
+    fi: Korean historia
+    fr: histoire de la Corée
+    ga: stair na Cóiré
+    gl: historia de Corea
+    he: היסטוריה של קוריאה
+    hi: कोरिया का इतिहास
+    hr: Povijest Koreje
+    hu: Korea történelme
+    hy: Կորեայի պատմություն
+    id: Sejarah Korea
+    is: Saga Kóreu
+    it: storia della Corea
+    ja: 朝鮮の歴史
+    ka: ძვ.კორეა
+    kaa: Koreya tariyxı
+    kk: Корея тарихы
+    ko: 한국의 역사
+    la: historia Coreana
+    lt: Korėjos istorija
+    lv: Korejas vēsture
+    ml: കൊറിയയുടെ ചരിത്രം
+    ms: Sejarah Korea
+    nan: Tiâu-sián le̍k-sú
+    nb: Koreas historie
+    nl: geschiedenis van Korea
+    pa: ਕੋਰੀਆ ਦਾ ਇਤਿਹਾਸ
+    pl: Historia Korei
+    pt: história da Coreia
+    ru: история Кореи
+    se: Korea historjá
+    si: කොරියාවේ ඉතිහාසය
+    sl: zgodovina Koreje
+    smn: Korea historjá
+    sms: Korea historia
+    sr: Историја Кореје
+    sr-ec: Историја Кореје
+    sr-el: Istorija Koreje
+    sv: Koreas historia
+    ta: கொரியாவின் வரலாறு
+    th: ประวัติศาสตร์เกาหลี
+    tpi: Histori long Koria
+    tr: Kore tarihi
+    uk: історія Кореї
+    uz: Koreya tarixi
+    vi: Lịch sử Triều Tiên
+    zh: 朝鲜半岛历史
+    zh-hans: 朝鲜半岛历史
+    zh-hant: 朝鮮半島歷史
+    zh-hk: 朝鮮半島歷史
+    zh-tw: 朝鮮半島歷史
 ---
-
 # [[History_of_Korea]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~History_of_Korea,713414|WD~History_of_Korea,713414]] 

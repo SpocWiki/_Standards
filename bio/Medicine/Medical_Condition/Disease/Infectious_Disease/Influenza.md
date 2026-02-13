@@ -1,100 +1,363 @@
 ---
 aliases:
-  - Influenza
+- an cnatan-mòr
+- Aremi
+- binghlah ganjmau
+- bukhaar
+- Chhulli
+- Chrípka
+- chřipka
+- cúm
+- Dümew
+- fliú
+- griep
+- grip
+- Gripa
+- gripas
+- gripe
+- Gripi
+- Gripo
+- Gripp
+- Grippa
+- grippe
+- Grips
+- gripă
+- Gryp
+- grypa
+- grîp
+- Haingles
+- Hargab
+- Homa ya mafua
+- Idis (aṭṭan)
+- influeansa
+- Influensa
+- influenssa
+- Influentia
+- Influenza
+- Influenzo
+- influeʹnss
+- Inflúensa
+- Infuluwanza
+- Jurma usu
+- Lagrip
+- Liù-hàng-sin kám-mo
+- Liù-hèng-séng gāng-mô̤
+- Liû-hêng-sèng kám-mō͘
+- Maláli na mɔpɛpɛ
+- Mba'asypararã
+- Mukhuhlwana
+- qrip
+- Shunui
+- Tahoniigááh
+- trangkaso
+- umkhuhlane
+- Virûsse del gripe
+- y ffliw
+- Àrùn òtútù
+- γρίπη
+- герип
+- грип
+- Грипп
+- грып
+- пуэд
+- Тұмау
+- Хрипка
+- Хэжэг
+- գրիպ
+- גריפע
+- שפעת
+- آنفلوانزا
+- آنفولانزا
+- إنفلونزا
+- ئەنفلۆنزا
+- انفلونزا
+- زڪام
+- نزلہ
+- نٔزلہٕ تَپ
+- އިންފުލުއެންޒާ
+- इंफ्लुएंझा
+- इनफ़्लुएंज़ा
+- इनफ्लुएंजा
+- इन्फ्लुएन्जा
+- ইনফ্লুয়েঞ্জা
+- ইনফ্লুৱেঞ্জা
+- ਇਨਫਲੂਐਨਜ਼ਾ
+- ଇନ୍ଫ୍ଲୁଏଞ୍ଜା
+- இன்ஃபுளுவென்சா
+- ఫ్లూ
+- ಇನ್ಫ್ಲುಯೆನ್ಜ
+- ഇൻഫ്ലുവെൻസ
+- ඉන්ෆ්ලුවෙන්සා
+- ไข้หวัดใหญ่
+- ཚད་རིམས།
+- တုတ်ကွေးရောႏဂါႏ
+- တုပ်ကွေးရောဂါ
+- တၢင်းပဵၼ်ၼၢဝ်ဝတ်း
+- გრიპი
+- インフルエンザ
+- 流行性感冒
+- 인플루엔자
 has_id_wikidata: Q2840
 anatomical_location: '[[_Standards/WikiData/WD~respiratory_system,7891]]'
 Commons_category: Influenza
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 Dewey_Decimal_Classification_works_and_editions_:
-  - 616.203
-  - 614.518
+- 616.203
+- 614.518
 different_from: '[[_Standards/WikiData/WD~Haemophilus_influenzae,1141979]]'
 DiseasesDB: 6791
 disease_transmission_process:
-  - '[[_Standards/WikiData/WD~droplet_infection,871752]]'
-  - '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
-  - '[[_Standards/WikiData/WD~direct_transmission,15304504]]'
-  - '[[_Standards/WikiData/WD~fomite_transmission,88103997]]'
+- '[[_Standards/WikiData/WD~droplet_infection,871752]]'
+- '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+- '[[_Standards/WikiData/WD~direct_transmission,15304504]]'
+- '[[_Standards/WikiData/WD~fomite_transmission,88103997]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~zanamivir,146075]]'
-  - '[[_Standards/WikiData/WD~oseltamivir,211509]]'
-  - '[[_Standards/WikiData/WD~peramivir,412734]]'
-  - '[[_Standards/WikiData/WD~baloxavir_marboxil,48333728]]'
+- '[[_Standards/WikiData/WD~zanamivir,146075]]'
+- '[[_Standards/WikiData/WD~oseltamivir,211509]]'
+- '[[_Standards/WikiData/WD~peramivir,412734]]'
+- '[[_Standards/WikiData/WD~baloxavir_marboxil,48333728]]'
 exact_match:
-  - http://identifiers.org/doid/DOID:8469
-  - http://purl.obolibrary.org/obo/DOID_8469
+- http://identifiers.org/doid/DOID:8469
+- http://purl.obolibrary.org/obo/DOID_8469
 has_cause: '[[_Standards/WikiData/WD~Orthomyxoviridae,287246]]'
 has_characteristic: '[[_Standards/WikiData/WD~contagiousness,1783077]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~influenza_pandemic,2723958]]'
-  - '[[_Standards/WikiData/WD~disease_outbreak,3241045]]'
-  - '[[_Standards/WikiData/WD~epidemic,44512]]'
+- '[[_Standards/WikiData/WD~influenza_pandemic,2723958]]'
+- '[[_Standards/WikiData/WD~disease_outbreak,3241045]]'
+- '[[_Standards/WikiData/WD~epidemic,44512]]'
 has_natural_reservoir:
-  - '[[_Standards/WikiData/WD~bird,5113]]'
-  - '[[_Standards/WikiData/WD~Sus,10798]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~bird,5113]]'
+- '[[_Standards/WikiData/WD~Sus,10798]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~pulmonology,203337]]'
-  - '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
-  - '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
-  - '[[_Standards/WikiData/WD~family_medicine,3505712]]'
+- '[[_Standards/WikiData/WD~pulmonology,203337]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
+- '[[_Standards/WikiData/WD~family_medicine,3505712]]'
 ICD_10_CM: J11.1
 ICD_9_CM:
-  - 487
-  - 487.8
+- 487
+- 487.8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/H1N1%20Influenza%20Virus%20Particles%20%288411599236%29.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 Krugosvet_article: medicina/GRIPP.html
 Library_of_Congress_Classification: RA644.I6
 maximal_incubation_period_in_humans: 72
 medical_examination:
-  - '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
-  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
-  - '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
-  - '[[_Standards/WikiData/WD~viral_culture,7933598]]'
+- '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
+- '[[_Standards/WikiData/WD~physical_examination,835153]]'
+- '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
+- '[[_Standards/WikiData/WD~viral_culture,7933598]]'
 MeSH_tree_code:
-  - C01.748.310
-  - C01.925.782.620.365
-  - C08.730.310
+- C01.748.310
+- C01.925.782.620.365
+- C08.730.310
 minimal_incubation_period_in_humans: 3
 OmegaWiki_Defined_Meaning: 481522
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-  - '[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_COVID-19,87748614]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-  - '[[_Standards/WikiData/WD~respiratory_disease,3286546]]'
-  - '[[_Standards/WikiData/WD~Orthomyxoviridae_infectious_disease,18975918]]'
-  - '[[_Standards/WikiData/WD~acute_viral_respiratory_tract_infection,55790495]]'
-  - '[[_Standards/WikiData/WD~Virus_diseases_of_plants,107295072]]'
-  - '[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~respiratory_disease,3286546]]'
+- '[[_Standards/WikiData/WD~Orthomyxoviridae_infectious_disease,18975918]]'
+- '[[_Standards/WikiData/WD~acute_viral_respiratory_tract_infection,55790495]]'
+- '[[_Standards/WikiData/WD~Virus_diseases_of_plants,107295072]]'
+- '[[_Standards/WikiData/WD~pandemic_and_epidemic-prone_diseases,131345497]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~rhinitis,114085]]'
-  - '[[_Standards/WikiData/WD~myalgia,474959]]'
-  - '[[_Standards/WikiData/WD~chest_pain,693058]]'
-  - '[[_Standards/WikiData/WD~chills,2260058]]'
-  - '[[_Standards/WikiData/WD~nasal_congestion,3245488]]'
-  - '[[_Standards/WikiData/WD~fatigue,9690]]'
-  - '[[_Standards/WikiData/WD~headache,86]]'
-  - '[[_Standards/WikiData/WD~cough,35805]]'
-  - '[[_Standards/WikiData/WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~rhinitis,114085]]'
+- '[[_Standards/WikiData/WD~myalgia,474959]]'
+- '[[_Standards/WikiData/WD~chest_pain,693058]]'
+- '[[_Standards/WikiData/WD~chills,2260058]]'
+- '[[_Standards/WikiData/WD~nasal_congestion,3245488]]'
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~cough,35805]]'
+- '[[_Standards/WikiData/WD~fever,38933]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Influenza_sidebar,6818763]]'
-  - '[[_Standards/WikiData/WD~Template_Influenza,10820092]]'
+- '[[_Standards/WikiData/WD~Template_Influenza_sidebar,6818763]]'
+- '[[_Standards/WikiData/WD~Template_Influenza,10820092]]'
 UMLS_CUI: C0021400
 U_S_National_Archives_Identifier: 10638694
+dv_has_:
+  name_:
+    af: griep
+    an: Gripe
+    ar: إنفلونزا
+    ary: إنفلونزا
+    arz: انفلونزا
+    as: ইনফ্লুৱেঞ্জা
+    ast: gripe
+    awa: इनफ़्लुएंज़ा
+    ay: Jurma usu
+    az: qrip
+    azb: آنفولانزا
+    ba: Грипп
+    be: грып
+    be-tarask: грып
+    bg: Грип
+    blk: တုတ်ကွေးရောႏဂါႏ
+    bn: ইনফ্লুয়েঞ্জা
+    bo: ཚད་རིམས།
+    br: Grip
+    bs: Gripa
+    bxr: Хэжэг
+    ca: grip
+    cdo: Liù-hèng-séng gāng-mô̤
+    ckb: ئەنفلۆنزا
+    crh: gripp
+    cs: chřipka
+    csb: Gripa
+    cy: y ffliw
+    da: influenza
+    de: Influenza
+    dv: އިންފުލުއެންޒާ
+    el: γρίπη
+    en: influenza
+    en-ca: Influenza
+    en-gb: influenza
+    eo: gripo
+    es: gripe
+    et: gripp
+    eu: Gripe
+    fa: آنفلوانزا
+    fi: influenssa
+    fj: Influenza
+    fr: grippe
+    frp: Gripa
+    frr: Influenza
+    fy: Gryp
+    ga: fliú
+    gcr: Lagrip
+    gd: an cnatan-mòr
+    gl: gripe
+    gn: Mba'asypararã
+    gpe: influenza
+    gsw: Grippe
+    guc: Shunui
+    ha: Influenza
+    hak: Liù-hàng-sin kám-mo
+    he: שפעת
+    hi: इनफ्लुएंजा
+    hif: bukhaar
+    hr: gripa
+    ht: Grip
+    hu: influenza
+    hy: գրիպ
+    ia: Influenza
+    id: influenza
+    ig: influenza
+    ilo: trangkaso
+    io: Influenzo
+    is: Inflúensa
+    it: influenza
+    ja: インフルエンザ
+    jam: Influenza
+    jv: Influenza
+    ka: გრიპი
+    kaa: Gripp
+    kab: Idis (aṭṭan)
+    kk: Тұмау
+    kn: ಇನ್ಫ್ಲುಯೆನ್ಜ
+    ko: 인플루엔자
+    ks: نٔزلہٕ تَپ
+    ku: grîp
+    ku-latn: grîp
+    ky: Грипп
+    la: Influentia
+    lb: Gripp
+    lmo: Grippa
+    ln: Maláli na mɔpɛpɛ
+    lt: gripas
+    lv: gripa
+    map-bms: Influenza
+    mg: Gripa
+    min: influenza
+    mk: грип
+    ml: ഇൻഫ്ലുവെൻസ
+    mr: इंफ्लुएंझा
+    ms: influenza
+    my: တုပ်ကွေးရောဂါ
+    nan: Liû-hêng-sèng kám-mō͘
+    nb: influensa
+    nds: Gripp
+    ne: इन्फ्लुएन्जा
+    nl: griep
+    nn: influensa
+    nv: Tahoniigááh
+    oc: Gripo
+    or: ଇନ୍ଫ୍ଲୁଏଞ୍ଜା
+    pa: ਇਨਫਲੂਐਨਜ਼ਾ
+    pap: Grip
+    pl: grypa
+    pms: Influensa
+    pnb: نزلہ
+    pt: gripe
+    qu: Chhulli
+    rn: Infuluwanza
+    ro: gripă
+    ru: грипп
+    rue: Хрипка
+    rup: Aremi
+    sah: Грипп
+    sco: Haingles
+    sd: زڪام
+    se: influeansa
+    sgs: Grips
+    sh: Gripa
+    shn: တၢင်းပဵၼ်ၼၢဝ်ဝတ်း
+    si: ඉන්ෆ්ලුවෙන්සා
+    sk: Chrípka
+    sl: gripa
+    smn: influensa
+    sms: influeʹnss
+    so: Hargab
+    sq: Gripi
+    sr: грип
+    sv: influensa
+    sw: Homa ya mafua
+    ta: இன்ஃபுளுவென்சா
+    te: ఫ్లూ
+    tg: Грипп
+    th: ไข้หวัดใหญ่
+    tk: Dümew
+    tl: trangkaso
+    tr: grip
+    ts: Mukhuhlwana
+    tt: герип
+    tyv: Грипп
+    udm: пуэд
+    uk: грип
+    ur: نزلہ
+    uz: Gripp
+    vec: influensa
+    vi: cúm
+    vls: Griep
+    vo: grip
+    wa: Virûsse del gripe
+    war: Trangkaso
+    wuu: 流行性感冒
+    xh: umkhuhlane
+    xmf: გრიპი
+    yi: גריפע
+    yo: Àrùn òtútù
+    yue: 流行性感冒
+    za: binghlah ganjmau
+    zh: 流行性感冒
+    zh-hant: 流行性感冒
+    zh-tw: 流行性感冒
+    zu: umkhuhlane
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Influenza**, commonly known as the flu, is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. These symptoms begin one to four (typically two) days after exposure to the virus and last for about two to eight days. Diarrhea and vomiting can occur, particularly in children. Influenza may progress to pneumonia from the virus or a subsequent bacterial infection. Other complications include acute respiratory distress syndrome, meningitis, encephalitis, and worsening of pre-existing health problems such as asthma and cardiovascular disease.

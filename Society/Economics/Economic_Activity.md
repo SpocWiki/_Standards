@@ -1,17 +1,153 @@
 ---
 aliases:
+- actividad económica
+- actividade económica
+- actividá económica
+- activitas oeconomicalis
+- activitat econòmica
+- activitate economică
+- activité économique
+- affärsverksamhet
+- aktivitet ekonomik
+- atività econòmega
+- attività economica
+- działalność gospodarcza
+- economic activity
+- economische activiteit
+- ekonomia aktiveco
+- ekonomia jarduera
+- ekonomial agado
+- ekonomická činnost
+- ekonomická činnosť
+- ekonomiese aktiwiteit
+- ekonomik faaliyet
+- ekonomska aktivnost
+- Empresa
+- forretningsaktivitet
+- gazdasági tevékenység
+- gníomhaíocht eacnamaíoch
+- gospodarska dejavnost
+- gweithgaredd economaidd
+- hoạt động kinh tế
+- iqtisadi fəaliyyət
+- kegiatan ekonomi
+- majanduslik tegevus
+- rann ekonomikel
+- saimnieciskā darbība
+- seng-lí
+- taloudellinen toiminta
+- Wirtschaftstätigkeit
+- økonomisk aktivitet
+- ūkinė veikla
+- οικονομική δραστηριότητα
+- господарська діяльність
+- икътисади эшмәкәрлек
+- иҡтисади эшмәкәрлек
+- куниши иқтисодӣ
+- привредна делатност
+- стопанска дејност
+- эканамічная дзейнасць
+- эканамічная дзейнасьць
+- экономическая деятельность
+- տնտեսական գործունեություն
+- פעילות כלכלית
+- نشاط اقتصادي
+- کنش اقتصادی
+- کݢياتن ايکونومي
+- आर्थिक क्रियाकलाप
+- অর্থনৈতিক কর্মকাণ্ড
+- অৰ্থনৈতিক কাৰ্যকলাপ
+- กิจกรรมทางเศรษฐกิจ
+- ეკონომიკური საქმიანობა
+- 経済活動
+- 經濟活動
+- 经济活动
+- 경제 활동
 has_id_wikidata: Q8187769
 different_from:
-  - "[[_Standards/WikiData/WD~economy,159810]]"
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~economics,8134]]"
+- '[[_Standards/WikiData/WD~economy,159810]]'
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
-  - "[[_Standards/WikiData/WD~transfer,125506646]]"
-instance_of: "[[_Standards/WikiData/WD~industry_classification,2976602]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~business_activity,19862406]]"
+- '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
+- '[[_Standards/WikiData/WD~transfer,125506646]]'
+instance_of: '[[_Standards/WikiData/WD~industry_classification,2976602]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~business_activity,19862406]]'
+dv_has_:
+  name_:
+    af: ekonomiese aktiwiteit
+    ar: نشاط اقتصادي
+    as: অৰ্থনৈতিক কাৰ্যকলাপ
+    ast: actividá económica
+    az: iqtisadi fəaliyyət
+    ba: иҡтисади эшмәкәрлек
+    be: эканамічная дзейнасць
+    be-tarask: эканамічная дзейнасьць
+    bn: অর্থনৈতিক কর্মকাণ্ড
+    br: rann ekonomikel
+    bs: ekonomska aktivnost
+    ca: activitat econòmica
+    cs: ekonomická činnost
+    cy: gweithgaredd economaidd
+    da: økonomisk aktivitet
+    de: Wirtschaftstätigkeit
+    el: οικονομική δραστηριότητα
+    en: economic activity
+    eo: ekonomia aktiveco
+    es: actividad económica
+    et: majanduslik tegevus
+    eu: ekonomia jarduera
+    fa: کنش اقتصادی
+    fi: taloudellinen toiminta
+    fr: activité économique
+    ga: gníomhaíocht eacnamaíoch
+    gl: actividade económica
+    he: פעילות כלכלית
+    hr: ekonomska aktivnost
+    hu: gazdasági tevékenység
+    hy: տնտեսական գործունեություն
+    id: kegiatan ekonomi
+    io: ekonomial agado
+    it: attività economica
+    ja: 経済活動
+    ka: ეკონომიკური საქმიანობა
+    ko: 경제 활동
+    la: activitas oeconomicalis
+    lt: ūkinė veikla
+    lv: saimnieciskā darbība
+    mk: стопанска дејност
+    ms: kegiatan ekonomi
+    ms-arab: کݢياتن ايکونومي
+    nan: seng-lí
+    nb: forretningsaktivitet
+    ne: आर्थिक क्रियाकलाप
+    nl: economische activiteit
+    nn: forretningsaktivitet
+    pl: działalność gospodarcza
+    pt: Empresa
+    ro: activitate economică
+    ru: экономическая деятельность
+    sh: ekonomska aktivnost
+    sk: ekonomická činnosť
+    sl: gospodarska dejavnost
+    sq: aktivitet ekonomik
+    sr: привредна делатност
+    sr-ec: привредна делатност
+    sv: affärsverksamhet
+    tg: куниши иқтисодӣ
+    th: กิจกรรมทางเศรษฐกิจ
+    tr: ekonomik faaliyet
+    tt: икътисади эшмәкәрлек
+    tt-cyrl: икътисади эшмәкәрлек
+    uk: господарська діяльність
+    vec: atività econòmega
+    vi: hoạt động kinh tế
+    yue: 經濟活動
+    zh: 經濟活動
+    zh-cn: 经济活动
+    zh-hans: 经济活动
+    zh-hant: 經濟活動
 ---
-
 # [[Economic_Activity]] 
 
 #is_/same_as :: [[../../WikiData/WD~economic_activity,8187769]] 

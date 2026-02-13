@@ -1,162 +1,450 @@
 ---
 aliases:
+- jan Mose
+- kelb
+- Maois
+- Moazes
+- Mohi
+- Moise
+- Moisen
+- Moises
+- Moisiu
+- Moisès
+- Moisés
+- Moizez
+- Mojsije
+- Mojzas
+- Mojzes
+- Mojżesz
+- Mojžiš
+- Mojžíš
+- Mooses
+- Moosõs
+- Mose
+- Moseo
+- Moses
+- Mosesy
+- Moshe
+- Moshe Rabenu
+- Mosi
+- Mosis
+- Mosè
+- Mosé
+- Moxe
+- Moyisse
+- Moyse
+- Moyses
+- Mozes
+- Mozis
+- Mozus
+- Mozė
+- Moïse
+- Moïses
+- Muozė
+- Musa
+- Musi
+- Muso (bibliyada)
+- Mò̤-să̤
+- Mójzes
+- Móses
+- Mósè
+- Mózes
+- Mô-sê
+- Mô͘-se
+- Mûsa
+- Nabi Muuse C.S.
+- Μωυσής
+- Майсей
+- Моісей
+- Мојсеј
+- Мојсије
+- Моисей
+- Мойсей
+- Мосе
+- Муса
+- Муса идавс
+- Муса пәйгамбәр
+- Мұса пайғамбар
+- Մովսես մարգարե
+- Մովսէս Մարգարէ
+- משה
+- משה רבינו
+- موسى
+- موسيٰ عليہ السلام
+- موسی
+- موسیٰ
+- مووسا
+- موٗسیٰ
+- مۇسا ئەلەيھىسسالام
+- ܡܘܫܐ
+- मूसा
+- मोझेस
+- মোচি (ইহুদী ধৰ্মগুৰু)
+- মোশি
+- ਮੂਸਾ
+- મુસા
+- மோசே
+- മോശ
+- මෝසෙස්
+- โมเสส
+- མོ་ཤི།
+- မိုးဇက်
+- မောရှေ
+- მოსე
+- ሙሴ
+- ម៉ូសេ
+- ⵎⵓⵙⴰ
+- モーセ
+- 摩西
+- 梅瑟
+- 모세
 has_id_wikidata: Q9077
 performer:
-  - "[[_Standards/WikiData/WD~Charlton_Heston,80739]]"
-  - "[[_Standards/WikiData/WD~Val_Kilmer,191084]]"
-  - "[[_Standards/WikiData/WD~Christian_Bale,45772]]"
+- '[[_Standards/WikiData/WD~Charlton_Heston,80739]]'
+- '[[_Standards/WikiData/WD~Val_Kilmer,191084]]'
+- '[[_Standards/WikiData/WD~Christian_Bale,45772]]'
 student:
-  - "[[_Standards/WikiData/WD~Phinehas,128063]]"
-  - "[[_Standards/WikiData/WD~Eleazar,159443]]"
-  - "[[_Standards/WikiData/WD~Joshua,7734]]"
-medical_condition: "[[_Standards/WikiData/WD~stuttering,186676]]"
+- '[[_Standards/WikiData/WD~Phinehas,128063]]'
+- '[[_Standards/WikiData/WD~Eleazar,159443]]'
+- '[[_Standards/WikiData/WD~Joshua,7734]]'
+medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Zipporah,205523]]"
-  - "[[_Standards/WikiData/WD~Tharbis,7710759]]"
+- '[[_Standards/WikiData/WD~Zipporah,205523]]'
+- '[[_Standards/WikiData/WD~Tharbis,7710759]]'
 manner_of_death:
-  - "[[_Standards/WikiData/WD~divine_retribution,226765]]"
-  - "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+- '[[_Standards/WikiData/WD~divine_retribution,226765]]'
+- '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Moses,227519]]"
-  - "[[_Standards/WikiData/WD~Mojżesz,19814662]]"
+- '[[_Standards/WikiData/WD~Moses,227519]]'
+- '[[_Standards/WikiData/WD~Mojżesz,19814662]]'
 present_in_work:
-  - "[[_Standards/WikiData/WD~The_Prince_of_Egypt,245227]]"
-  - "[[_Standards/WikiData/WD~Mosè_in_Egitto,583156]]"
-  - "[[_Standards/WikiData/WD~The_Ten_Commandments,746733]]"
-  - "[[_Standards/WikiData/WD~The_Moon_of_Israel,872930]]"
-  - "[[_Standards/WikiData/WD~Les_Dix_Commandements,1150275]]"
-  - "[[_Standards/WikiData/WD~Extract_from_Captain_Stormfield's_Visit_to_Heaven,1152137]]"
-  - "[[_Standards/WikiData/WD~Moïse_et_Pharaon,1152497]]"
-  - "[[_Standards/WikiData/WD~The_Ten_Commandments,1217715]]"
-  - "[[_Standards/WikiData/WD~Ol'_Man_Adam_an'_His_Chillun,1469294]]"
-  - "[[_Standards/WikiData/WD~History_of_the_World,_Part_I,1471230]]"
-  - "[[_Standards/WikiData/WD~Go_Down_Moses,1533406]]"
-  - "[[_Standards/WikiData/WD~Assumption_of_Moses,1619114]]"
-  - "[[_Standards/WikiData/WD~Moses_und_Aron,1661920]]"
-  - "[[_Standards/WikiData/WD~Israel_in_Egypt,1674646]]"
-  - "[[_Standards/WikiData/WD~De_Mantel_der_Liefde,1946005]]"
-  - "[[_Standards/WikiData/WD~Exodus,1994196]]"
-  - "[[_Standards/WikiData/WD~The_Green_Pastures,3236049]]"
-  - "[[_Standards/WikiData/WD~The_Life_of_Moses,3987999]]"
-  - "[[_Standards/WikiData/WD~Die_Israeliten_in_der_Wüste,5274379]]"
-  - "[[_Standards/WikiData/WD~La_Terre_Promise,6465391]]"
-  - "[[_Standards/WikiData/WD~Moses_und_Aron,6916024]]"
-  - "[[_Standards/WikiData/WD~Pillar_of_Fire,7194135]]"
-  - "[[_Standards/WikiData/WD~The_Green_Pastures,7738192]]"
-  - "[[_Standards/WikiData/WD~The_Tables_of_the_Law,7767876]]"
-  - "[[_Standards/WikiData/WD~The_Ten_Commandments_The_Musical,7768398]]"
-  - "[[_Standards/WikiData/WD~The_Ten_Commandments,7768400]]"
-  - "[[_Standards/WikiData/WD~Exodus_Gods_and_Kings,14942871]]"
-  - "[[_Standards/WikiData/WD~Moses,16707309]]"
-  - "[[_Standards/WikiData/WD~The_Manga_Bible_From_Genesis_to_Revelation,16954989]]"
-  - "[[_Standards/WikiData/WD~The_Finding_of_Moses,16963513]]"
-  - "[[_Standards/WikiData/WD~Moses,18193573]]"
-  - "[[_Standards/WikiData/WD~La_Terre_promise,19190031]]"
-  - "[[_Standards/WikiData/WD~Himmelfahrt_des_Moses,19211453]]"
-  - "[[_Standards/WikiData/WD~Mojžíšův_rozsudek,19528167]]"
-  - "[[_Standards/WikiData/WD~Moses,_Man_of_the_Mountain,24255912]]"
-  - "[[_Standards/WikiData/WD~Moses_the_Lawgiver,28429830]]"
-  - "[[_Standards/WikiData/WD~The_Promised_Land,30611742]]"
-  - "[[_Standards/WikiData/WD~Moses_und_Josua,33058504]]"
-  - "[[_Standards/WikiData/WD~Mojžíš,55120812]]"
-  - "[[_Standards/WikiData/WD~Moses,60790609]]"
-  - "[[_Standards/WikiData/WD~Qur_an,428]]"
-  - "[[_Standards/WikiData/WD~Exodus,9190]]"
-  - "[[_Standards/WikiData/WD~Leviticus,41490]]"
-  - "[[_Standards/WikiData/WD~Deuteronomy,42614]]"
-  - "[[_Standards/WikiData/WD~Book_of_Numbers,43099]]"
-father: "[[_Standards/WikiData/WD~Amram,477527]]"
-mother: "[[_Standards/WikiData/WD~Jochebed,594805]]"
+- '[[_Standards/WikiData/WD~The_Prince_of_Egypt,245227]]'
+- '[[_Standards/WikiData/WD~Mosè_in_Egitto,583156]]'
+- '[[_Standards/WikiData/WD~The_Ten_Commandments,746733]]'
+- '[[_Standards/WikiData/WD~The_Moon_of_Israel,872930]]'
+- '[[_Standards/WikiData/WD~Les_Dix_Commandements,1150275]]'
+- "[[_Standards/WikiData/WD~Extract_from_Captain_Stormfield's_Visit_to_Heaven,1152137]]"
+- '[[_Standards/WikiData/WD~Moïse_et_Pharaon,1152497]]'
+- '[[_Standards/WikiData/WD~The_Ten_Commandments,1217715]]'
+- "[[_Standards/WikiData/WD~Ol'_Man_Adam_an'_His_Chillun,1469294]]"
+- '[[_Standards/WikiData/WD~History_of_the_World,_Part_I,1471230]]'
+- '[[_Standards/WikiData/WD~Go_Down_Moses,1533406]]'
+- '[[_Standards/WikiData/WD~Assumption_of_Moses,1619114]]'
+- '[[_Standards/WikiData/WD~Moses_und_Aron,1661920]]'
+- '[[_Standards/WikiData/WD~Israel_in_Egypt,1674646]]'
+- '[[_Standards/WikiData/WD~De_Mantel_der_Liefde,1946005]]'
+- '[[_Standards/WikiData/WD~Exodus,1994196]]'
+- '[[_Standards/WikiData/WD~The_Green_Pastures,3236049]]'
+- '[[_Standards/WikiData/WD~The_Life_of_Moses,3987999]]'
+- '[[_Standards/WikiData/WD~Die_Israeliten_in_der_Wüste,5274379]]'
+- '[[_Standards/WikiData/WD~La_Terre_Promise,6465391]]'
+- '[[_Standards/WikiData/WD~Moses_und_Aron,6916024]]'
+- '[[_Standards/WikiData/WD~Pillar_of_Fire,7194135]]'
+- '[[_Standards/WikiData/WD~The_Green_Pastures,7738192]]'
+- '[[_Standards/WikiData/WD~The_Tables_of_the_Law,7767876]]'
+- '[[_Standards/WikiData/WD~The_Ten_Commandments_The_Musical,7768398]]'
+- '[[_Standards/WikiData/WD~The_Ten_Commandments,7768400]]'
+- '[[_Standards/WikiData/WD~Exodus_Gods_and_Kings,14942871]]'
+- '[[_Standards/WikiData/WD~Moses,16707309]]'
+- '[[_Standards/WikiData/WD~The_Manga_Bible_From_Genesis_to_Revelation,16954989]]'
+- '[[_Standards/WikiData/WD~The_Finding_of_Moses,16963513]]'
+- '[[_Standards/WikiData/WD~Moses,18193573]]'
+- '[[_Standards/WikiData/WD~La_Terre_promise,19190031]]'
+- '[[_Standards/WikiData/WD~Himmelfahrt_des_Moses,19211453]]'
+- '[[_Standards/WikiData/WD~Mojžíšův_rozsudek,19528167]]'
+- '[[_Standards/WikiData/WD~Moses,_Man_of_the_Mountain,24255912]]'
+- '[[_Standards/WikiData/WD~Moses_the_Lawgiver,28429830]]'
+- '[[_Standards/WikiData/WD~The_Promised_Land,30611742]]'
+- '[[_Standards/WikiData/WD~Moses_und_Josua,33058504]]'
+- '[[_Standards/WikiData/WD~Mojžíš,55120812]]'
+- '[[_Standards/WikiData/WD~Moses,60790609]]'
+- '[[_Standards/WikiData/WD~Qur_an,428]]'
+- '[[_Standards/WikiData/WD~Exodus,9190]]'
+- '[[_Standards/WikiData/WD~Leviticus,41490]]'
+- '[[_Standards/WikiData/WD~Deuteronomy,42614]]'
+- '[[_Standards/WikiData/WD~Book_of_Numbers,43099]]'
+father: '[[_Standards/WikiData/WD~Amram,477527]]'
+mother: '[[_Standards/WikiData/WD~Jochebed,594805]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Moses_and_Monotheism,1195449]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Moses,6915660]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Moses_and_Monotheism,1195449]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Moses,6915660]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 position_held:
-  - "[[_Standards/WikiData/WD~biblical_judge,621421]]"
-  - "[[_Standards/WikiData/WD~prophet,42857]]"
-place_of_death: "[[_Standards/WikiData/WD~Mount_Nebo,680161]]"
+- '[[_Standards/WikiData/WD~biblical_judge,621421]]'
+- '[[_Standards/WikiData/WD~prophet,42857]]'
+place_of_death: '[[_Standards/WikiData/WD~Mount_Nebo,680161]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Canaanite,747547]]"
-  - "[[_Standards/WikiData/WD~Biblical_Hebrew,1982248]]"
-  - "[[_Standards/WikiData/WD~Egyptian,50868]]"
-place_of_birth: "[[_Standards/WikiData/WD~Helwan,771345]]"
+- '[[_Standards/WikiData/WD~Canaanite,747547]]'
+- '[[_Standards/WikiData/WD~Biblical_Hebrew,1982248]]'
+- '[[_Standards/WikiData/WD~Egyptian,50868]]'
+place_of_birth: '[[_Standards/WikiData/WD~Helwan,771345]]'
 residence:
-  - "[[_Standards/WikiData/WD~Midian,851761]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Sinai_Peninsula,36755]]"
+- '[[_Standards/WikiData/WD~Midian,851761]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Sinai_Peninsula,36755]]'
 occupation:
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~thaumaturge,1349880]]"
-  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
-  - "[[_Standards/WikiData/WD~legislator,4175034]]"
-  - "[[_Standards/WikiData/WD~herder,12059906]]"
-  - "[[_Standards/WikiData/WD~religious_leader,15995642]]"
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~thaumaturge,1349880]]'
+- '[[_Standards/WikiData/WD~military_leader,1402561]]'
+- '[[_Standards/WikiData/WD~legislator,4175034]]'
+- '[[_Standards/WikiData/WD~herder,12059906]]'
+- '[[_Standards/WikiData/WD~religious_leader,15995642]]'
 child:
-  - "[[_Standards/WikiData/WD~Eliezer,1195680]]"
-  - "[[_Standards/WikiData/WD~Gershom,1514983]]"
+- '[[_Standards/WikiData/WD~Eliezer,1195680]]'
+- '[[_Standards/WikiData/WD~Gershom,1514983]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Dhul_Qarnayn,1207846]]"
-  - "[[_Standards/WikiData/WD~Moses_in_Islam,1990155]]"
-  - "[[_Standards/WikiData/WD~Moses_in_rabbinic_literature,6916012]]"
+- '[[_Standards/WikiData/WD~Dhul_Qarnayn,1207846]]'
+- '[[_Standards/WikiData/WD~Moses_in_Islam,1990155]]'
+- '[[_Standards/WikiData/WD~Moses_in_rabbinic_literature,6916012]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Exodus,1290338]]"
-  - "[[_Standards/WikiData/WD~Tablets_of_Stone,2915196]]"
+- '[[_Standards/WikiData/WD~The_Exodus,1290338]]'
+- '[[_Standards/WikiData/WD~Tablets_of_Stone,2915196]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~The_Exodus,1290338]]"
-  - "[[_Standards/WikiData/WD~vision,1682108]]"
+- '[[_Standards/WikiData/WD~The_Exodus,1290338]]'
+- '[[_Standards/WikiData/WD~vision,1682108]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Moses_Defending_the_Daughters_of_Jethro,1863885]]"
-  - "[[_Standards/WikiData/WD~Moses_trampling_on_the_Pharaoh_s_crown,104540645]]"
-  - "[[_Standards/WikiData/WD~Statue_of_Moses,126421292]]"
-  - "[[_Standards/WikiData/WD~Moses_and_the_Brass_serpent,132148123]]"
+- '[[_Standards/WikiData/WD~Moses_Defending_the_Daughters_of_Jethro,1863885]]'
+- '[[_Standards/WikiData/WD~Moses_trampling_on_the_Pharaoh_s_crown,104540645]]'
+- '[[_Standards/WikiData/WD~Statue_of_Moses,126421292]]'
+- '[[_Standards/WikiData/WD~Moses_and_the_Brass_serpent,132148123]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Miriam,1938388]]"
-  - "[[_Standards/WikiData/WD~Aaron,51676]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Mosaic_Judaism,3324698]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~Mosaic_Judaism,3324698]]"
+- '[[_Standards/WikiData/WD~Miriam,1938388]]'
+- '[[_Standards/WikiData/WD~Aaron,51676]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Mosaic_Judaism,3324698]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~Mosaic_Judaism,3324698]]'
 worshipped_by:
-  - "[[_Standards/WikiData/WD~Mosaic_Judaism,3324698]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-  - "[[_Standards/WikiData/WD~Christianity,5043]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
-  - "[[_Standards/WikiData/WD~Baháʼí_Faith,22679]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Mosaic_Judaism,3324698]]'
+- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Baháʼí_Faith,22679]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 feast_day:
-  - "[[_Standards/WikiData/WD~September_4,7452209]]"
-  - "[[_Standards/WikiData/WD~September_4,2855]]"
-field_of_work: "[[_Standards/WikiData/WD~moral_philosophy,16669800]]"
-canonization_status: "[[_Standards/WikiData/WD~Righteous,16745627]]"
-given_name: "[[_Standards/WikiData/WD~Q20220089,20220089]]"
-instance_of: "[[_Standards/WikiData/WD~human_biblical_figure,20643955]]"
+- '[[_Standards/WikiData/WD~September_4,7452209]]'
+- '[[_Standards/WikiData/WD~September_4,2855]]'
+field_of_work: '[[_Standards/WikiData/WD~moral_philosophy,16669800]]'
+canonization_status: '[[_Standards/WikiData/WD~Righteous,16745627]]'
+given_name: '[[_Standards/WikiData/WD~Q20220089,20220089]]'
+instance_of: '[[_Standards/WikiData/WD~human_biblical_figure,20643955]]'
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MOISE.html
 IMDb_keyword: reference-to-moses
 name_in_native_language: מֹשֶׁה
 date_of_death: -1500-01-01T00:00:00Z
 educated_at: http://www.wikidata.org/.well-known/genid/c01b8191009e7718907edbb4d7781826
-follows: "[[_Standards/WikiData/WD~Joshua,7734]]"
-replaced_by: "[[_Standards/WikiData/WD~Joshua,7734]]"
-ethnic_group: "[[_Standards/WikiData/WD~Israelites,51669]]"
+follows: '[[_Standards/WikiData/WD~Joshua,7734]]'
+replaced_by: '[[_Standards/WikiData/WD~Joshua,7734]]'
+ethnic_group: '[[_Standards/WikiData/WD~Israelites,51669]]'
 BHCL_UUID: 14bd7260-7b45-431c-ad57-fbc601ce4a47
 floruit: -1300-01-01T00:00:00Z
 date_of_birth: -2000-01-01T00:00:00Z
 Image_Archive_Herder_Institute: Q9077
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rembrandt%20-%20Moses%20with%20the%20Ten%20Commandments%20-%20Google%20Art%20Project.jpg
 Commons_category: Moses (Biblical figure)
-ISNI: "0000000107775288"
+ISNI: 0000000107775288
 Libris_URI: 53hklwpp31dtkfd
+dv_has_:
+  name_:
+    ace: Musa
+    af: Moses
+    ak: mose
+    am: ሙሴ
+    an: Moisen
+    ang: Moyse
+    ann: Mosis
+    ar: موسى
+    arc: ܡܘܫܐ
+    ary: موسى
+    arz: موسى
+    as: মোচি (ইহুদী ধৰ্মগুৰু)
+    ast: Moisés
+    az: Musa
+    azb: موسی
+    ba: Моисей
+    bar: Moses
+    be: Майсей
+    be-tarask: Майсей
+    bew: Musa
+    bg: Моисей
+    bn: মোশি
+    bo: མོ་ཤི།
+    br: Moizez
+    bs: Musa
+    btm: Musa
+    bxr: Моисей
+    ca: Moisès
+    cdo: Mò̤-să̤
+    ce: Муса
+    ceb: Moises
+    ch: Moises
+    ckb: مووسا
+    crh: Musa
+    cs: Mojžíš
+    cy: Moses
+    da: Moses
+    de: Mose
+    de-ch: Mose
+    diq: Musa
+    dsb: Mojzas
+    el: Μωυσής
+    en: Moses
+    en-ca: Moses
+    en-gb: Moses
+    en-us: Moses
+    eo: Moseo
+    es: Moisés
+    et: Mooses
+    eu: Moises
+    fa: موسی
+    fi: Mooses
+    fo: Móses
+    fr: Moïse
+    fur: Moisès
+    fy: Moazes
+    ga: Maois
+    gan: 摩西
+    gcr: Moïse
+    gd: Maois
+    gl: Moisés
+    gn: Moise
+    gsw: Moses
+    gu: મુસા
+    guw: Mose
+    ha: Musa
+    he: משה
+    hi: मूसा
+    hif: Moses
+    hr: Mojsije
+    hsb: Mójzes
+    hu: Mózes
+    hy: Մովսես մարգարե
+    hyw: Մովսէս Մարգարէ
+    ia: Moses
+    iba: Moses
+    id: Musa
+    ie: Moses
+    ig: Mozis
+    ilo: Moises
+    io: Moshe
+    is: Móses
+    it: Mosè
+    ja: モーセ
+    jam: Moses
+    jv: Musa
+    ka: მოსე
+    kab: Musa
+    kbp: Moïse
+    kcg: Musa
+    kk: Мұса пайғамбар
+    km: ម៉ូសេ
+    knc: Musa
+    ko: 모세
+    ks: موٗسیٰ
+    ku: Mûsa
+    kw: Moyses
+    la: Moyses
+    lad: Moshe Rabenu
+    lb: Moses
+    lbe: Муса идавс
+    lez: Муса
+    lfn: Moxe
+    li: Mozes
+    lld: Mosé
+    lmo: Mosè
+    ln: Mose
+    lt: Mozė
+    lv: Mozus
+    lzh: 摩西
+    mad: Musa
+    mg: Mosesy
+    mi: Mohi
+    min: Musa
+    mk: Мојсеј
+    ml: മോശ
+    mn: Мосе
+    mr: मोझेस
+    ms: Moses
+    mt: kelb
+    my: မိုးဇက်
+    nan: Mô͘-se
+    nb: Moses
+    nds: Mose
+    nl: Mozes
+    nn: Moses
+    oc: Moïses
+    os: Моисей
+    pa: ਮੂਸਾ
+    pcd: Moïse
+    pcm: Moses
+    pdc: Mosi
+    pl: Mojżesz
+    pms: Mosè
+    pnb: موسى
+    ps: موسی
+    pt: Moisés
+    pt-br: Moisés
+    qu: Moshe
+    rki: မောရှေ
+    rm: Moses
+    ro: Moise
+    ru: Моисей
+    rue: Моісей
+    scn: Mosè
+    sd: موسيٰ عليہ السلام
+    sgs: Muozė
+    sh: Mojsije
+    shi: Musa
+    si: මෝසෙස්
+    sk: Mojžiš
+    sl: Mojzes
+    sm: Mose
+    so: Nabi Muuse C.S.
+    sq: Moisiu
+    sr: Мојсије
+    sv: Mose
+    sw: Musa
+    szy: Musi
+    ta: மோசே
+    th: โมเสส
+    tk: Musa
+    tl: Moises
+    tok: jan Mose
+    tr: Musa
+    tt: Муса пәйгамбәр
+    ug: مۇسا ئەلەيھىسسالام
+    uk: Мойсей
+    ur: موسیٰ
+    uz: Muso (bibliyada)
+    vi: Mô-sê
+    vro: Moosõs
+    wa: Moyisse
+    war: Moises
+    wuu: 梅瑟
+    xmf: მოსე
+    yi: משה רבינו
+    yo: Mósè
+    yue: 摩西
+    zgh: ⵎⵓⵙⴰ
+    zh: 摩西
+    zh-cn: 摩西
+    zh-hans: 摩西
+    zh-hant: 摩西
+    zh-hk: 摩西
+    zh-mo: 摩西
+    zh-my: 摩西
+    zh-sg: 摩西
+    zh-tw: 摩西
 ---
-
 # [[Moses]] 
 
 #is_/same_as :: [[WD~Moses,9077]] 

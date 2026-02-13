@@ -1,9 +1,285 @@
 ---
 aliases:
-  - Jain Dharma
-  - Jainism
+- Agama Jain
+- an Jaineachas
+- Caynizm
+- Chainismo
+- Djainisme
+- Djainismen
+- Djainizm
+- Djainizmo
+- Dschainismus
+- dzsainizmus
+- Dźinizm
+- Džainism
+- džainisms
+- Džainizam
+- džainizem
+- Džainizmas
+- Džainėzmos
+- džinismus
+- Džinizmus
+- giainismo
+- Giainismu
+- Hainismo
+- Iainismus
+- Jain Dharma
+- Jaina giáo
+- Jaina-kàu
+- jainalaisuus
+- Jainanci
+- Jainegezh
+- Jainiaeth
+- Jainisim
+- Jainism
+- Jainisma
+- jainisme
+- jainismo
+- Jainismus
+- Jainizam
+- Jainizim
+- Jainizm
+- Jainîzm
+- Jajinipen
+- Jayinism
+- Jaynizm
+- Jaínismi
+- jaïnisme
+- Jeinisim
+- J·ayinismo
+- lijdrdjaina
+- Sayɩnɩsm
+- Ujain
+- Ujaini
+- xainismo
+- Xainismu
+- đainizam
+- ĝainismo
+- ġainiżmu
+- Τζαϊνισμός
+- ђаинизам
+- џаинизам
+- Джайнізм
+- Джайнай шажан
+- джайнизм
+- Джайнизмась
+- джайнизъм
+- Дьайнизм
+- Жайнизм
+- Жайнычылык
+- Җәйничелек
+- Ջայնիզմ
+- ג'ייניזם
+- דזשייניזם
+- جاينية
+- جاينيزم
+- جاينيه
+- جاینیزم
+- جين ڌرم
+- جین
+- جین دین
+- جین مت
+- جین مَت
+- ޖައިނިޒަމް
+- जैन
+- जैन धर्म
+- जैनदर्शनम्
+- जैनधरम
+- জৈন ধর্ম
+- জৈন ধৰ্ম
+- ਜੈਨ ਧਰਮ
+- જૈન ધર્મ
+- ଜୈନ ଧର୍ମ
+- ஜைனம்
+- జైన మతము
+- ಜೈನ ಧರ್ಮ
+- ജൈനമതം
+- ජෛනාගම
+- ศาสนาเชน
+- གཅེར་བུ་བའི་ཆོས་ལུགས།
+- ဂျိန်းဘာသာ
+- စေင်းဘာႏသာႏ
+- ဇိနဘာသာ
+- ၽႃႇသႃႇၵျဵၼ်း
+- ჯაინიზმი
+- ᱡᱳᱭᱱᱳ ᱫᱷᱚᱨᱚᱢ
+- ジャイナ教
+- 耆那教
+- 자이나교
+has_id_wikidata: Q9232
+dv_has_:
+  name_:
+    af: Djainisme
+    an: Chainismo
+    anp: जैन
+    ar: جاينية
+    arz: جاينيه
+    as: জৈন ধৰ্ম
+    ast: Xainismu
+    az: Caynizm
+    azb: جاینیزم
+    ba: Джайнизм
+    ban: Agama Jain
+    bcl: Hainismo
+    be: джайнізм
+    be-tarask: Джайнізм
+    bg: джайнизъм
+    bho: जैन धर्म
+    bi: Jeinisim
+    blk: စေင်းဘာႏသာႏ
+    bn: জৈন ধর্ম
+    bo: གཅེར་བུ་བའི་ཆོས་ལུགས།
+    br: Jainegezh
+    bs: Jainizam
+    btm: Jainisme
+    bxr: Джайнай шажан
+    ca: jainisme
+    ce: Джайнизм
+    ckb: جاینیزم
+    crh: Caynizm
+    cs: džinismus
+    cy: Jainiaeth
+    da: jainisme
+    de: Jainismus
+    dv: ޖައިނިޒަމް
+    el: Τζαϊνισμός
+    en: Jainism
+    en-ca: Jainism
+    en-gb: Jainism
+    eo: ĝainismo
+    es: jainismo
+    et: Džainism
+    eu: Jainismo
+    fa: جین
+    fi: jainalaisuus
+    fo: Jainisma
+    fr: jaïnisme
+    frp: J·ayinismo
+    fur: Jainisim
+    fy: Jaïnisme
+    ga: an Jaineachas
+    gcr: Jayinism
+    gl: xainismo
+    gn: Jain Dharma
+    gsw: Jainismus
+    gu: જૈન ધર્મ
+    ha: Jainanci
+    he: ג'ייניזם
+    hi: जैन धर्म
+    hif: Jainism
+    hr: Džainizam
+    hu: dzsainizmus
+    hy: Ջայնիզմ
+    id: Jainisme
+    ilo: Hainismo
+    is: Jaínismi
+    it: giainismo
+    ja: ジャイナ教
+    jam: Jainizim
+    jbo: lijdrdjaina
+    jv: Jainisme
+    ka: ჯაინიზმი
+    kaa: Djainizm
+    kbp: Sayɩnɩsm
+    kk: Джайнизм
+    kn: ಜೈನ ಧರ್ಮ
+    knc: Jainism
+    ko: 자이나교
+    ks: جین مَت
+    ku: Jainîzm
+    ky: Жайнычылык
+    la: Iainismus
+    lad: Djainizmo
+    lb: Jainismus
+    lfn: Jainisme
+    lmo: Jainism
+    lt: Džainizmas
+    lv: džainisms
+    mad: Jainisme
+    mag: जैनधरम
+    mai: जैन धर्म
+    mdf: Джайнизмась
+    mg: Jainisma
+    mk: џаинизам
+    ml: ജൈനമതം
+    mn: Жайнизм
+    mnw: ဇိနဘာသာ
+    mr: जैन धर्म
+    ms: Jainisme
+    mt: ġainiżmu
+    mwl: Jainismo
+    my: ဂျိန်းဘာသာ
+    mzn: جین دین
+    nan: Jaina-kàu
+    nb: jainisme
+    nds: Dschainismus
+    ne: जैन धर्म
+    new: जैन धर्म
+    nl: jaïnisme
+    nn: Djainismen
+    oc: Jaïnisme
+    or: ଜୈନ ଧର୍ମ
+    pa: ਜੈਨ ਧਰਮ
+    pih: Jainism
+    pl: Dźinizm
+    pms: Jainism
+    pnb: جین مت
+    ps: جاينيزم
+    pt: jainismo
+    pt-br: Jainismo
+    rki: ဂျိန်းဘာသာ
+    rmy: Jajinipen
+    ro: Jainism
+    ru: джайнизм
+    rue: Джайнізм
+    sa: जैनदर्शनम्
+    sah: Дьайнизм
+    sat: ᱡᱳᱭᱱᱳ ᱫᱷᱚᱨᱚᱢ
+    scn: Giainismu
+    sco: Jainism
+    sd: جين ڌرم
+    sgs: Džainėzmos
+    sh: Džainizam
+    shn: ၽႃႇသႃႇၵျဵၼ်း
+    si: ජෛනාගම
+    sk: Džinizmus
+    sl: džainizem
+    sn: Ujaini
+    so: Jainism
+    sq: Jainism
+    sr: ђаинизам
+    sr-ec: ђаинизам
+    sr-el: đainizam
+    sv: Jainism
+    sw: Ujain
+    ta: ஜைனம்
+    tcy: ಜೈನ ಧರ್ಮ
+    te: జైన మతము
+    th: ศาสนาเชน
+    tl: Hainismo
+    tr: Jainizm
+    tt: Җәйничелек
+    udm: джайнизм
+    uk: Джайнізм
+    ur: جین مت
+    uz: Jaynizm
+    vi: Jaina giáo
+    vro: Džainism
+    war: Jainismo
+    wuu: 耆那教
+    xmf: ჯაინიზმი
+    yi: דזשייניזם
+    yue: 耆那教
+    zh: 耆那教
+    zh-cn: 耆那教
+    zh-hans: 耆那教
+    zh-hant: 耆那教
+    zh-hk: 耆那教
+    zh-mo: 耆那教
+    zh-my: 耆那教
+    zh-sg: 耆那教
+    zh-tw: 耆那教
 ---
-
 # [[Jainism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Jainism,9232|WD~Jainism,9232]] 

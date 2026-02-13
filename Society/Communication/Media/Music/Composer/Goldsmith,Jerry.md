@@ -1,55 +1,78 @@
 ---
 aliases:
-  - Jerry_Goldsmith
-  - Jerrald King Goldsmith
-  - Jerry Goldsmith
-  - Goldsmith
-  - Goldsmith,Jerry
+- Cerri Qoldsmit
+- Džeri Goldsmit
+- Džerijs Goldsmits
+- Goldsmith
+- Goldsmith,Jerry
+- Jerrald Goldsmith
+- Jerrald King Goldsmith
+- Jerry Goldsmith
+- Jerry_Goldsmith
+- Τζέρρυ Γκόλντσμιθ
+- Джери Голдсмит
+- Джеррі Голдсміт
+- Джерри Голдсмит
+- Джэры Голдсьміт
+- Жерри Голдсмит
+- Ջերրի Գոլդսմիթ
+- ג'רי גולדסמית'
+- جری قلدسمیت
+- جری گلدسمیت
+- جيرى جولدسميث
+- جيري غولدسميث
+- ਜੈਰੀ ਗੋਲਡਸਮਿੱਥ
+- เจอร์รี โกลด์สมิธ
+- ჯერი გოლდსმითი
+- ジェリー・ゴールドスミス
+- 傑瑞·高史密斯
+- 杰里·戈德史密斯
+- 제리 골드스미스
 has_id_wikidata: Q235077
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_or_Comedy_Score,22235305]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_or_Comedy_Score,22235305]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,_no_Musical,22752734]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 cause_of_death: '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 field_of_work: '[[_Standards/WikiData/WD~film_score,492264]]'
 child:
-  - '[[_Standards/WikiData/WD~Joel_Goldsmith,519282]]'
-  - '[[_Standards/WikiData/WD~Aaron_Goldsmith,46975806]]'
-  - '[[_Standards/WikiData/WD~Carrie_Goldsmith,56615169]]'
-  - '[[_Standards/WikiData/WD~Jennifer_Goldsmith,98156846]]'
-  - '[[_Standards/WikiData/WD~Ellen_Goldsmith_Edson,98158691]]'
+- '[[_Standards/WikiData/WD~Joel_Goldsmith,519282]]'
+- '[[_Standards/WikiData/WD~Aaron_Goldsmith,46975806]]'
+- '[[_Standards/WikiData/WD~Carrie_Goldsmith,56615169]]'
+- '[[_Standards/WikiData/WD~Jennifer_Goldsmith,98156846]]'
+- '[[_Standards/WikiData/WD~Ellen_Goldsmith_Edson,98158691]]'
 genre:
-  - '[[_Standards/WikiData/WD~contemporary_classical_music,612024]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~contemporary_classical_music,612024]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 record_label: '[[_Standards/WikiData/WD~Monument_Records,1946521]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~USC_Thornton_School_of_Music,5386547]]'
-  - '[[_Standards/WikiData/WD~University_of_Southern_California,4614]]'
+- '[[_Standards/WikiData/WD~USC_Thornton_School_of_Music,5386547]]'
+- '[[_Standards/WikiData/WD~University_of_Southern_California,4614]]'
 place_of_burial: '[[_Standards/WikiData/WD~Hillside_Memorial_Park,5763964]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 hair_color: '[[_Standards/WikiData/WD~grey_hair,10509939]]'
 family_name: '[[_Standards/WikiData/WD~Goldsmith,13553587]]'
 given_name:
-  - '[[_Standards/WikiData/WD~King,18508917]]'
-  - '[[_Standards/WikiData/WD~Jerrald,110781292]]'
+- '[[_Standards/WikiData/WD~King,18508917]]'
+- '[[_Standards/WikiData/WD~Jerrald,110781292]]'
 blood_type: '[[_Standards/WikiData/WD~Q19831454,19831454]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Carol_Heather_Goldsmith,46975236]]'
-  - '[[_Standards/WikiData/WD~Sharon_Hennagin_Goldsmith,98155518]]'
+- '[[_Standards/WikiData/WD~Carol_Heather_Goldsmith,46975236]]'
+- '[[_Standards/WikiData/WD~Sharon_Hennagin_Goldsmith,98155518]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 discography: '[[_Standards/WikiData/WD~Jerry_Goldsmith_discography,110781271]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -67,14 +90,84 @@ ISNI: 0000000108964339
 Plex_person_key: 5d7768b1d11dd30020229b26
 Europeana_entity: agent/base/63936
 name_in_native_language:
-  - Jerrald Goldsmith
-  - Jerrald K. Goldsmith
-  - Jerry Goldsmith
+- Jerrald Goldsmith
+- Jerrald K. Goldsmith
+- Jerry Goldsmith
 birth_name: Jerrald King Goldsmith
 date_of_death: 2004-07-21T00:00:00Z
 date_of_birth: 1929-02-10T00:00:00Z
+dv_has_:
+  name_:
+    an: Jerry Goldsmith
+    ar: جيري غولدسميث
+    arz: جيرى جولدسميث
+    ast: Jerry Goldsmith
+    az: Cerri Qoldsmit
+    azb: جری قلدسمیت
+    be-tarask: Джэры Голдсьміт
+    bg: Джери Голдсмит
+    br: Jerry Goldsmith
+    ca: Jerry Goldsmith
+    cs: Jerry Goldsmith
+    cy: Jerry Goldsmith
+    da: Jerry Goldsmith
+    de: Jerry Goldsmith
+    el: Τζέρρυ Γκόλντσμιθ
+    en: Jerry Goldsmith
+    en-us: Jerry Goldsmith
+    es: Jerry Goldsmith
+    eu: Jerrald Goldsmith
+    fa: جری گلدسمیت
+    fi: Jerry Goldsmith
+    fr: Jerry Goldsmith
+    ga: Jerry Goldsmith
+    gl: Jerry Goldsmith
+    he: ג'רי גולדסמית'
+    hr: Jerry Goldsmith
+    hu: Jerry Goldsmith
+    hy: Ջերրի Գոլդսմիթ
+    id: Jerry Goldsmith
+    is: Jerry Goldsmith
+    it: Jerry Goldsmith
+    ja: ジェリー・ゴールドスミス
+    ka: ჯერი გოლდსმითი
+    ko: 제리 골드스미스
+    ky: Жерри Голдсмит
+    lb: Jerry Goldsmith
+    lt: Jerry Goldsmith
+    lv: Džerijs Goldsmits
+    mg: Jerry Goldsmith
+    nb: Jerry Goldsmith
+    nl: Jerry Goldsmith
+    nn: Jerry Goldsmith
+    pa: ਜੈਰੀ ਗੋਲਡਸਮਿੱਥ
+    pap: Jerry Goldsmith
+    pl: Jerry Goldsmith
+    pt: Jerry Goldsmith
+    pt-br: Jerry Goldsmith
+    ro: Jerry Goldsmith
+    ru: Джерри Голдсмит
+    sh: Jerry Goldsmith
+    sk: Jerry Goldsmith
+    sl: Jerry Goldsmith
+    sq: Jerry Goldsmith
+    sr: Džeri Goldsmit
+    sv: Jerry Goldsmith
+    th: เจอร์รี โกลด์สมิธ
+    tr: Jerry Goldsmith
+    uk: Джеррі Голдсміт
+    vi: Jerry Goldsmith
+    war: Jerry Goldsmith
+    xmf: ჯერი გოლდსმითი
+    yue: 傑瑞·高史密斯
+    zh: 杰里·戈德史密斯
+    zh-cn: 杰里·戈德史密斯
+    zh-hans: 杰里·戈德史密斯
+    zh-hant: 傑瑞·高史密斯
+    zh-hk: 傑瑞·高史密斯
+    zh-sg: 杰里·戈德史密斯
+    zh-tw: 傑瑞·高史密斯
 ---
-
 # [[Goldsmith,Jerry]] 
 
 #is_/same_as :: [[WD~Jerry_Goldsmith,235077]] 

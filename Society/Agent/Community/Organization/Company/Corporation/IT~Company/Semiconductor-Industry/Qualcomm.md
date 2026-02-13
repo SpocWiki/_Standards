@@ -1,4 +1,91 @@
-
+---
+has_id_wikidata: Q544847
+dv_has_:
+  name_:
+    ar: كوالكوم
+    az: Qualcomm
+    azb: کوالکام
+    bg: Qualcomm
+    bn: কোয়ালকম
+    ca: Qualcomm
+    ckb: کواڵکۆم
+    cs: Qualcomm
+    da: Qualcomm
+    de: Qualcomm
+    de-ch: Qualcomm
+    el: Qualcomm
+    en: Qualcomm
+    en-ca: Qualcomm
+    en-gb: Qualcomm
+    en-us: Qualcomm
+    eo: Qualcomm
+    es: Qualcomm
+    et: Qualcomm
+    fa: کوالکام
+    fi: Qualcomm
+    fr: Qualcomm
+    ga: Qualcomm Inc.
+    he: קוואלקום
+    hi: क्वालकॉम इंक.
+    hu: Qualcomm
+    hy: Քուալքոմ
+    id: Qualcomm
+    is: Qualcomm
+    it: Qualcomm
+    ja: クアルコム
+    ko: 퀄컴
+    lv: Qualcomm
+    ml: ക്വാൽകോം
+    ms: Qualcomm
+    mul: Qualcomm
+    nb: Qualcomm
+    nl: Qualcomm Inc.
+    pl: Qualcomm
+    pnb: کوالکوم
+    pt: Qualcomm
+    pt-br: Qualcomm
+    qu: Qualcomm
+    ro: Qualcomm
+    ru: Qualcomm
+    sah: Qualcomm
+    sk: Qualcomm
+    sl: Qualcomm
+    sr: Кволком
+    sv: Qualcomm
+    te: ఖ్వల్కమ్ ఇంక్.
+    th: ควอลคอมม์
+    tr: Qualcomm
+    uk: Qualcomm
+    ur: کوالکوم
+    uz: Qualcomm
+    vec: Qualcomm
+    vi: Qualcomm
+    yue: 高通
+    zh: 高通
+    zh-cn: 高通
+    zh-hans: 高通
+    zh-hant: 高通
+    zh-tw: 高通公司
+aliases:
+- Qualcomm
+- Qualcomm Inc.
+- Кволком
+- Քուալքոմ
+- קוואלקום
+- كوالكوم
+- کوالکام
+- کوالکوم
+- کواڵکۆم
+- क्वालकॉम इंक.
+- কোয়ালকম
+- ఖ్వల్కమ్ ఇంక్.
+- ക്വാൽകോം
+- ควอลคอมม์
+- クアルコム
+- 高通
+- 高通公司
+- 퀄컴
+---
 # [[Qualcomm]] 
 
 #is_/similar_to :: [[Nvidia]] 

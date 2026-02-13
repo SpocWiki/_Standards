@@ -1,4 +1,103 @@
-
+---
+has_id_wikidata: Q808561
+dv_has_:
+  name_:
+    ar: الباروك (رسم)
+    avk: Barocco lingereva
+    az: Barokko rəssamlığı
+    be: жывапіс барока
+    be-tarask: жывапіс барока
+    bg: Барокова живопис
+    ca: pintura barroca
+    cs: barokní malířství
+    cy: paentiadau Baróc
+    da: barokmaleri
+    de: barocke Malerei
+    el: Μπαρόκ ζωγραφική
+    en: Baroque painting
+    eo: Baroka pentrado
+    es: pintura del Barroco
+    eu: Barrokoko margolaritza
+    fa: نقاشی باروک
+    fi: barokkimaalaus
+    fr: peinture baroque
+    gd: peantadh barocach
+    gl: pintura do Barroco
+    he: ציור בארוק
+    hr: Barokno slikarstvo
+    hu: barokk festészet
+    hy: բարոկկո նկարչություն
+    it: pittura barocca
+    ja: バロック絵画
+    ko: 바로크 회화
+    lv: baroka glezniecība
+    mk: барокно сликарство
+    mt: pittura Barokka
+    nb: barokkmaleri
+    nl: barokke schilderkunst
+    pl: malarstwo baroku
+    pt: Pintura do Barroco
+    ro: pictură barocă
+    ru: барокко в живописи
+    sh: Barokno slikarstvo
+    sk: Barokové maliarstvo
+    sl: baročno slikarstvo
+    sr: Сликарство барока
+    sv: barockmåleri
+    th: จิตรกรรมบารอก
+    tr: barok resim
+    uk: живопис бароко
+    vi: tranh Baroque
+    zh: 巴洛克繪畫
+    zh-cn: 巴洛克油画
+    zh-hant: 巴洛克繪畫
+aliases:
+- Barocco lingereva
+- barocke Malerei
+- barockmåleri
+- barok resim
+- baroka glezniecība
+- Baroka pentrado
+- barokk festészet
+- barokke schilderkunst
+- barokkimaalaus
+- barokkmaleri
+- Barokko rəssamlığı
+- barokmaleri
+- Barokno slikarstvo
+- barokní malířství
+- Barokové maliarstvo
+- Baroque painting
+- baročno slikarstvo
+- Barrokoko margolaritza
+- malarstwo baroku
+- paentiadau Baróc
+- peantadh barocach
+- peinture baroque
+- pictură barocă
+- pintura barroca
+- pintura del Barroco
+- pintura do Barroco
+- pittura barocca
+- pittura Barokka
+- tranh Baroque
+- Μπαρόκ ζωγραφική
+- барокко в живописи
+- барокно сликарство
+- Барокова живопис
+- живопис бароко
+- жывапіс барока
+- Сликарство барока
+- բարոկկո նկարչություն
+- ציור בארוק
+- الباروك (رسم)
+- نقاشی باروک
+- จิตรกรรมบารอก
+- バロック絵画
+- 巴洛克油画
+- 巴洛克繪畫
+- 바로크 회화
+---
 # [[Baroque_Painting]] 
 
 #is_/same_as :: 

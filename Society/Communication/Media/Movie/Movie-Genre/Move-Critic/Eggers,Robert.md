@@ -1,10 +1,75 @@
 ---
 aliases:
-  - Robert Eggers
-  - Robert Houston Eggers
-  - Eggers,Robert
+- Eggers,Robert
+- Robert Eggers
+- Robert Eqqers
+- Robert Houston Eggers
+- Roberts Egerss
+- Роберт Еггерс
+- Роберт Егерс
+- Роберт Эггерс
+- Роберт Эгерс
+- Робърт Егърс
+- רוברט אגרס
+- رابرت اگرز
+- روبرت إغرز
+- روبرت اجرز
+- ロバート・エガース
+- 罗伯·爱格斯
+- 罗伯特·埃格斯
+- 羅拔·艾格斯
+- 羅柏·艾格斯
+- 로버트 에거스
+has_id_wikidata: Q20826736
+dv_has_:
+  name_:
+    ar: روبرت إغرز
+    arz: روبرت اجرز
+    ast: Robert Eggers
+    az: Robert Eqqers
+    be: Роберт Эгерс
+    bg: Робърт Егърс
+    ca: Robert Eggers
+    cs: Robert Eggers
+    da: Robert Eggers
+    de: Robert Eggers
+    en: Robert Eggers
+    es: Robert Eggers
+    eu: Robert Eggers
+    fa: رابرت اگرز
+    fi: Robert Eggers
+    fr: Robert Eggers
+    ga: Robert Eggers
+    he: רוברט אגרס
+    hu: Robert Eggers
+    it: Robert Eggers
+    ja: ロバート・エガース
+    ko: 로버트 에거스
+    lt: Robert Eggers
+    lv: Roberts Egerss
+    mk: Роберт Егерс
+    mul: Robert Eggers
+    nb: Robert Eggers
+    nl: Robert Eggers
+    pap: Robert Eggers
+    pl: Robert Eggers
+    pt: Robert Eggers
+    pt-br: Robert Eggers
+    ru: Роберт Эггерс
+    sk: Robert Eggers
+    sl: Robert Eggers
+    sq: Robert Eggers
+    sr: Роберт Егерс
+    sv: Robert Eggers
+    tr: Robert Eggers
+    uk: Роберт Еггерс
+    yue: 羅拔·艾格斯
+    zh: 羅柏·艾格斯
+    zh-cn: 罗伯特·埃格斯
+    zh-hant: 羅柏·艾格斯
+    zh-hk: 羅拔·艾格斯
+    zh-sg: 罗伯·爱格斯
 ---
-
 ## #has_/text_of_/abstract 
 
 > Robert Houston Eggers (born July 7, 1983) is an American filmmaker and production designer. 

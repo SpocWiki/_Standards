@@ -1,12 +1,81 @@
 ---
 aliases:
-  - Birutė Galdikas
-  - Birutė_Galdikas
-  - Biruté Marija Filomena Galdikas
-  - Biruté Mary Galdikas
-  - Galdikas,Birutė
+- Biruta Galdika
+- Birute Galdikas
+- Biruté Galdikas
+- Biruté Marija Filomena Galdikas
+- Biruté Mary Galdikas
+- Birutė Galdikas
+- Birutė Galdikasová
+- Birutė_Galdikas
+- Galdikas,Birutė
+- Μπιρούτε Γκάλντικας
+- Біруте Галдікас
+- Біруце Галдзікас
+- Бируте Галдикас
+- בירוטה גלדיקאס
+- بيروت جالديكاس
+- بیروته گلدیکاس
+- பிருட்டே கால்டிகாசு
+- ബിറുത്തെ ഗാൽഡികാസ്സ്
+- บิรูเต กาลดิกัส
+- ビルーテ・ガルディカス
+- 碧露蒂·高蒂卡絲
+has_id_wikidata: Q242680
+dv_has_:
+  name_:
+    ace: Birutė Galdikas
+    an: Birutė Galdikas
+    arz: بيروت جالديكاس
+    be: Біруце Галдзікас
+    bjn: Birutė Galdikas
+    ca: Biruté Galdikas
+    cs: Birutė Galdikasová
+    da: Birutė Galdikas
+    de: Birutė Galdikas
+    el: Μπιρούτε Γκάλντικας
+    en: Birutė Galdikas
+    eo: Birutė Galdikas
+    es: Birutė Galdikas
+    et: Birutė Galdikas
+    eu: Birutė Galdikas
+    fa: بیروته گلدیکاس
+    fi: Birutė Galdikas
+    fr: Birutė Galdikas
+    ga: Birutė Galdikas
+    gl: Biruté Galdikas
+    he: בירוטה גלדיקאס
+    hu: Birutė Galdikas
+    id: Birutė Galdikas
+    ig: Birutė Galdikas
+    it: Birutė Galdikas
+    ja: ビルーテ・ガルディカス
+    kw: Birutė Galdikas
+    lt: Birutė Galdikas
+    lv: Biruta Galdika
+    ml: ബിറുത്തെ ഗാൽഡികാസ്സ്
+    ms: Birutė Galdikas
+    mul: Birutė Galdikas
+    nb: Birutė Galdikas
+    nl: Biruté Galdikas
+    nn: Birutė Galdikas
+    pl: Birute Galdikas
+    pt: Birutė Galdikas
+    pt-br: Birutė Galdikas
+    ro: Birutė Galdikas
+    ru: Бируте Галдикас
+    sl: Birutė Galdikas
+    sq: Birutė Galdikas
+    su: Birute Galdikas
+    sv: Birutė Galdikas
+    ta: பிருட்டே கால்டிகாசு
+    th: บิรูเต กาลดิกัส
+    tr: Birutė Galdikas
+    uk: Біруте Галдікас
+    zh: 碧露蒂·高蒂卡絲
+    zh-hant: 碧露蒂·高蒂卡絲
+    zh-tw: 碧露蒂·高蒂卡絲
 ---
-
 # [[Galdikas,Birutė]] 
 
 

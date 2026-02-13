@@ -1,16 +1,111 @@
 ---
 aliases:
+- mặt Riemann
+- powierzchnia Riemanna
+- Riemann surface
+- Riemann yüzeyi
+- Riemann-felület
+- Riemann-flate
+- riemann-oppervlak
+- Riemannen gainazal
+- Riemanni pind
+- Riemannin pinta
+- Riemannova plocha
+- Riemannova ploskev
+- Riemannsche Fläche
+- rimana surfaco
+- Rimanova površina
+- Rymano paviršius
+- Rïman beti
+- superficie de Riemann
+- superficie di Riemann
+- superficies Riemanniana
+- Superfície de Riemann
+- suprafață Riemann
+- surface de Riemann
+- surfaco di Riemann
+- surfas de Riemann
+- süperfiis da Riemann
+- Επιφάνεια Riemann
+- ріманова поверхня
+- Риман беті
+- Риман йөҙө
+- риманова поверхность
+- Риманова површина
+- Риманова повърхнина
+- рыманава паверхня
+- Ռիմանյան մակերևույթ
+- משטח רימן
+- أسطح ريمان للدالة
+- رىيمان بەتى
+- سطوح ریمانی
+- リーマン面
+- 黎曼曲面
+- 리만 곡면
 has_id_wikidata: Q753035
 subclass_of:
-  - "[[_Standards/WikiData/WD~complex_manifold,578874]]"
-  - "[[_Standards/WikiData/WD~Klein_surface,6420197]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~mathematical_concept,24034552]]"
-named_after: "[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]"
+- '[[_Standards/WikiData/WD~complex_manifold,578874]]'
+- '[[_Standards/WikiData/WD~Klein_surface,6420197]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+named_after: '[[_Standards/WikiData/WD~Bernhard_Riemann,42299]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Riemann%20surface%20arcsin.svg
 Commons_category: Complex algebraic curves and Riemann surfaces
+dv_has_:
+  name_:
+    ar: أسطح ريمان للدالة
+    ast: superficie de Riemann
+    ba: Риман йөҙө
+    be-tarask: рыманава паверхня
+    bg: Риманова повърхнина
+    ca: Superfície de Riemann
+    cs: Riemannova plocha
+    de: Riemannsche Fläche
+    el: Επιφάνεια Riemann
+    en: Riemann surface
+    eo: rimana surfaco
+    es: superficie de Riemann
+    et: Riemanni pind
+    eu: Riemannen gainazal
+    fa: سطوح ریمانی
+    fi: Riemannin pinta
+    fr: surface de Riemann
+    gl: superficie de Riemann
+    he: משטח רימן
+    hu: Riemann-felület
+    hy: Ռիմանյան մակերևույթ
+    ia: superficie de Riemann
+    io: surfaco di Riemann
+    it: superficie di Riemann
+    ja: リーマン面
+    kk: Риман беті
+    kk-arab: رىيمان بەتى
+    kk-cyrl: Риман беті
+    kk-latn: Rïman beti
+    ko: 리만 곡면
+    la: superficies Riemanniana
+    lfn: surfas de Riemann
+    lmo: süperfiis da Riemann
+    lt: Rymano paviršius
+    mk: Риманова површина
+    nb: Riemann-flate
+    nl: riemann-oppervlak
+    pl: powierzchnia Riemanna
+    pt: superfície de Riemann
+    ro: suprafață Riemann
+    ru: риманова поверхность
+    sl: Riemannova ploskev
+    sr: Rimanova površina
+    tr: Riemann yüzeyi
+    uk: ріманова поверхня
+    vi: mặt Riemann
+    wuu: 黎曼曲面
+    yue: 黎曼曲面
+    zh: 黎曼曲面
+    zh-hans: 黎曼曲面
+    zh-hant: 黎曼曲面
+    zh-hk: 黎曼曲面
 ---
-
 # [[Riemann_Surface]] 
 
 #is_/same_as :: [[../../WikiData/WD~Riemann_surface,753035|WD~Riemann_surface,753035]]  

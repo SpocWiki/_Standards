@@ -1,18 +1,81 @@
 ---
 aliases:
+- D Hugenotte
+- Gugenotlar
+- Higanot
+- Hiwgenotiaid
+- Hogônoty
+- Hugenoaten
+- Hugenoci
+- Hugenoot
+- Hugenootn
+- hugenotai
+- hugenoten
+- Hugenoti
+- Hugenotid
+- Hugenotit
+- Hugenotlar
+- Hugenotoj
+- hugenottar
+- Hugenotten
+- hugenotter
+- hugenották
+- Hughenot
+- Hugonot
+- Hugonotes
+- Huguenot
+- Huguenote
+- Huguenoti
+- Huguenotlar
+- Huguenots
+- Hugunoded
+- Hygenotët
+- Húgenottar
+- kulupu jan Ukeno
+- Uganauds
+- ugonotti
+- Uguénots
+- Úgóineach
+- Ουγενότοι
+- Гугеноташ
+- Гугеноти
+- Гугенотсем
+- Гугеноттар
+- Гугеноттор
+- Гугеноты
+- Хугеноти
+- Ҳугенотҳо
+- Հուգենոտներ
+- הוגנוטים
+- هوغونوتيون
+- هیوگناتها
+- ھوگێنۆتەکان
+- ہیوجیناٹ
+- ह्यूगेनोट
+- ഹ്യൂഗെനോട്ടുകൾ
+- อูเกอโนต์
+- ဟျူးဂျနိုး
+- ჰუგენოტები
+- ユグノー
+- 休京諾派
+- 胡格諾派
+- 胡格诺派
+- 雨格诺派
+- 預格諾派
+- 위그노
 has_id_wikidata: Q101935
-country_of_origin: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Reformed_Christianity,101849]]"
+country_of_origin: '[[_Standards/WikiData/WD~Kingdom_of_France,70972]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Reformed_Christianity,101849]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-named_after: "[[_Standards/WikiData/WD~Besançon_Hugues,4896183]]"
-instance_of: "[[_Standards/WikiData/WD~ethnoreligious_group,11197007]]"
-subclass_of: "[[_Standards/WikiData/WD~French_people,120068720]]"
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+named_after: '[[_Standards/WikiData/WD~Besançon_Hugues,4896183]]'
+instance_of: '[[_Standards/WikiData/WD~ethnoreligious_group,11197007]]'
+subclass_of: '[[_Standards/WikiData/WD~French_people,120068720]]'
 BHCL_UUID: 6fdf5230-f1b7-447b-8738-6b0967188ac1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Croix%20Huguenote.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Huguenot%20battle%20flag%20%28Pouts%20de%20Breta%C3%B1a%29.svg
@@ -23,8 +86,102 @@ Library_of_Congress_Classification: BX9450-BX9459
 Provenio_UUID: d2249b8a-ac68-4565-833c-617d05838c1a
 Commons_category: Huguenots
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/GUGENOTI.html
+dv_has_:
+  name_:
+    af: Hugenoot
+    ar: هوغونوتيون
+    ast: Hugonotes
+    az: Hugenotlar
+    bar: Hugenotten
+    be: Гугеноты
+    be-tarask: Гугеноты
+    bg: Хугеноти
+    br: Hugunoded
+    ca: Hugonot
+    ce: Гугеноташ
+    ckb: ھوگێنۆتەکان
+    cs: Hugenoti
+    cv: Гугенотсем
+    cy: Hiwgenotiaid
+    da: Huguenot
+    de: Hugenotten
+    el: Ουγενότοι
+    en: Huguenots
+    eo: Hugenotoj
+    es: hugonotes
+    et: Hugenotid
+    eu: Higanot
+    fa: هیوگناتها
+    fi: Hugenotit
+    fr: huguenots
+    fy: Hugenoaten
+    ga: Úgóineach
+    gl: Hugonotes
+    gsw: D Hugenotte
+    he: הוגנוטים
+    hi: ह्यूगेनोट
+    hr: Hugenoti
+    hu: hugenották
+    hy: Հուգենոտներ
+    id: Huguenot
+    io: Hugenoti
+    is: Húgenottar
+    it: ugonotti
+    ja: ユグノー
+    ka: ჰუგენოტები
+    ko: 위그노
+    ky: Гугеноттор
+    la: Huguenoti
+    lb: Hugenotten
+    lt: hugenotai
+    lv: hugenoti
+    mg: Hogônoty
+    mk: хугеноти
+    ml: ഹ്യൂഗെനോട്ടുകൾ
+    ms: Huguenot
+    my: ဟျူးဂျနိုး
+    nb: hugenotter
+    nds: Hugenotten
+    nl: hugenoten
+    nn: hugenottar
+    oc: Uganauds
+    pcd: Uguénots
+    pl: Hugenoci
+    pnb: ہیوجیناٹ
+    pt: Huguenote
+    pt-br: Huguenote
+    ro: Hughenot
+    ru: Гугеноты
+    sah: Гугеноттар
+    sh: Hugenoti
+    sk: Hugenoti
+    sl: hugenoti
+    sq: Hygenotët
+    sr: Хугеноти
+    sr-ec: Хугеноти
+    sr-el: Hugenoti
+    stq: Hugenotten
+    sv: Hugenotter
+    tg: Ҳугенотҳо
+    th: อูเกอโนต์
+    tl: Huguenot
+    tok: kulupu jan Ukeno
+    tr: Huguenotlar
+    uk: Гугеноти
+    uz: Gugenotlar
+    vi: Huguenot
+    vls: Hugenootn
+    war: Huguenot
+    wuu: 胡格诺派
+    yue: 預格諾派
+    zh: 雨格诺派
+    zh-cn: 雨格诺派
+    zh-hans: 雨格诺派
+    zh-hant: 休京諾派
+    zh-hk: 胡格諾派
+    zh-sg: 雨格诺派
+    zh-tw: 休京諾派
 ---
-
 # [[Huguenots]] 
 
 #is_/same_as :: [[WD~Huguenots,101935]] 

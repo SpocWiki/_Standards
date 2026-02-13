@@ -1,19 +1,98 @@
 ---
 aliases:
-  - armoire
-  - almirah
-  - Wandschrank
-  - Garderobe
-  - Wardrobe
+- (Kleider-)Schrank
+- Actasoniwoc
+- Almairo
+- almari pakaian
+- almirah
+- aparador
+- armadio
+- armairu
+- armari
+- armario
+- Armariu
+- Armarium
+- armoire
+- Armoro
+- armouère
+- Armàri
+- armário
+- Churana
+- Garderobe
+- Gardëroba
+- giysi dolabı
+- Javon
+- Kabati
+- kamor
+- Kapp
+- kast
+- kaste
+- klerekas
+- Komero
+- Lemari
+- Lemarè
+- Lomari
+- omara
+- Orman
+- Ormar
+- Pres
+- Press
+- Schaaf
+- Schaf
+- Schapp
+- skab
+- skap
+- skapis
+- Skápur
+- skåp
+- skříň
+- Spinta
+- Spižka
+- szafa
+- szekrény
+- Tủ chè
+- vardrús
+- Wandschrank
+- Wardrobe
+- Ĭ-siòng-diù
+- ŝranko
+- Šieps
+- ντουλάπι
+- Гардероб
+- гардэроб
+- Орман
+- Ормар
+- платяной шкаф
+- шафа
+- Шүүгээ
+- ארון בגדים
+- שאנק
+- الماري ڤاکاين
+- الماڙي
+- دولاب
+- صوان ملابس
+- قفسه
+- आलमारी
+- আলমারি
+- അലമാരി
+- გარდერობი
+- መቐመጢ ልብሲ
+- 大橱
+- 橱
+- 橱柜
+- 櫥
+- 衣櫃
+- 衣装棚
+- 옷장
 has_id_wikidata: Q106106
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - '[[_Standards/WikiData/WD~sideboard,1762308]]'
-  - '[[_Standards/WikiData/WD~cupboard,5662058]]'
-  - '[[_Standards/WikiData/WD~clothes_closet,10883050]]'
+- '[[_Standards/WikiData/WD~sideboard,1762308]]'
+- '[[_Standards/WikiData/WD~cupboard,5662058]]'
+- '[[_Standards/WikiData/WD~clothes_closet,10883050]]'
 has_use: '[[_Standards/WikiData/WD~storage,9158768]]'
 subclass_of: '[[_Standards/WikiData/WD~furniture,14745]]'
 Nomenclature_for_Museum_Cataloging: 1308
@@ -24,11 +103,105 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/04550184-n
 Iconclass_notation: 41A254
 Commons_category: Wardrobes
 Dewey_Decimal_Classification:
-  - 749.3
-  - 645.4
-  - 684.16
+- 749.3
+- 645.4
+- 684.16
+dv_has_:
+  name_:
+    af: klerekas
+    an: Armario
+    ar: صوان ملابس
+    arz: دولاب
+    ast: Armariu
+    atj: Actasoniwoc
+    be: гардэроб
+    be-tarask: гардэроб
+    bg: Гардероб
+    bho: आलमारी
+    bn: আলমারি
+    br: Pres
+    ca: armari
+    cdo: Ĭ-siòng-diù
+    cs: skříň
+    da: skab
+    de: (Kleider-)Schrank
+    dsb: Spižka
+    el: ντουλάπι
+    eml: Armàri
+    en: wardrobe
+    en-us: wardrobe
+    eo: ŝranko
+    es: armario
+    et: Kapp
+    eu: armairu
+    fa: قفسه
+    fi: Komero
+    fr: armoire
+    ga: vardrús
+    gan: 櫥
+    gan-hans: 橱
+    gan-hant: 櫥
+    gl: armario
+    he: ארון בגדים
+    hr: Ormar
+    hsb: kamor
+    hu: szekrény
+    ia: Armario
+    id: Lemari
+    io: Armoro
+    is: Skápur
+    it: armadio
+    ja: 衣装棚
+    ka: გარდერობი
+    ko: 옷장
+    ksh: Schaaf
+    la: Armarium
+    lb: Schaf
+    lt: Spinta
+    lv: skapis
+    mad: Lemarè
+    ml: അലമാരി
+    mn: Шүүгээ
+    ms: almari pakaian
+    ms-arab: الماري ڤاکاين
+    mwl: Almairo
+    nb: skap
+    nds: Schapp
+    nds-nl: kaste
+    nl: kast
+    nn: skåp
+    nrm: armouère
+    oc: Armari
+    pl: szafa
+    pt: armário
+    pt-br: armário
+    qu: Churana
+    rsk: Орман
+    ru: платяной шкаф
+    scn: Armariu
+    sco: Press
+    sd: الماڙي
+    sgs: Šieps
+    sh: Orman
+    sl: omara
+    sq: Gardëroba
+    sr: Ормар
+    sr-ec: Ормар
+    sr-el: Ormar
+    su: Lomari
+    sv: skåp
+    sw: Kabati
+    ti: መቐመጢ ልብሲ
+    tl: aparador
+    tr: giysi dolabı
+    uk: шафа
+    uz: Javon
+    vi: Tủ chè
+    wuu: 大橱
+    yi: שאנק
+    yue: 衣櫃
+    zh: 橱柜
 ---
-
 # [[Wardrobe]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Wardrobe,106106|WD~Wardrobe,106106]] 

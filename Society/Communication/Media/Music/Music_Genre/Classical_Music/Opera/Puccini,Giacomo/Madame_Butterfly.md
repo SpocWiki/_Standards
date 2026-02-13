@@ -1,38 +1,59 @@
 ---
-has_time_started: 1903-12-27 
+has_time_started: 1903-12-27
 aliases:
-  - Madama Butterfly
-  - Madame Butterfly
-  - Madame_Butterfly
+- Madam Baterflai
+- Madam Batterflay
+- Madam Butterfly
+- Madama Butterfly
+- Madame Butterfly
+- Madame_Butterfly
+- Madamme Butterfly
+- Pillangókisasszony
+- Μαντάμα Μπατερφλάι
+- Баттерфляй ханым
+- Мадам Батерфлај
+- Мадам Баттерфляй
+- Мадам Батэрфляй
+- Мадам Бътерфлай
+- Մադամ Բատերֆլայ
+- מאדאם באטרפליי
+- مادام باترفلای
+- مدام بترفلاى
+- مدام بترفلاي
+- മഡമ ബട്ടർഫ്ലൈ
+- มาดามบัตเตอร์ฟลาย
+- 蝴蝶夫人
+- 蝶々夫人
+- 나비 부인
 has_id_wikidata: Q19005
 genre:
-  - '[[_Standards/WikiData/WD~tragedy,80930]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~tragedy,80930]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
 dedicated_to: '[[_Standards/WikiData/WD~Elena_of_Montenegro,181530]]'
 screenwriter: '[[_Standards/WikiData/WD~John_Luther_Long,339476]]'
 librettist:
-  - '[[_Standards/WikiData/WD~Giuseppe_Giacosa,372032]]'
-  - '[[_Standards/WikiData/WD~Luigi_Illica,441843]]'
+- '[[_Standards/WikiData/WD~Giuseppe_Giacosa,372032]]'
+- '[[_Standards/WikiData/WD~Luigi_Illica,441843]]'
 has_part_s_: '[[_Standards/WikiData/WD~Un_bel_dì,_vedremo,4003698]]'
 based_on: '[[_Standards/WikiData/WD~Madame_Butterfly,6726280]]'
 discography: '[[_Standards/WikiData/WD~Madama_Butterfly_discography,17101146]]'
 characters:
-  - '[[_Standards/WikiData/WD~Cio_Cio_san,50386864]]'
-  - '[[_Standards/WikiData/WD~B.F._Pinkerton,50734165]]'
-  - '[[_Standards/WikiData/WD~Kate_Pinkerton,50845436]]'
-  - '[[_Standards/WikiData/WD~Sharpless,50845450]]'
-  - '[[_Standards/WikiData/WD~The_Bonze,54998790]]'
-  - '[[_Standards/WikiData/WD~Yakuside,54998899]]'
-  - '[[_Standards/WikiData/WD~The_Imperial_Commissioner,54998903]]'
-  - '[[_Standards/WikiData/WD~The_Official_Registrar,54998907]]'
-  - "[[_Standards/WikiData/WD~Cio_Cio_san's_mother,54998911]]"
-  - '[[_Standards/WikiData/WD~The_aunt,54998914]]'
-  - '[[_Standards/WikiData/WD~The_cousin,54998920]]'
-  - '[[_Standards/WikiData/WD~Suzuki,55013587]]'
-  - '[[_Standards/WikiData/WD~Goro,55013614]]'
-  - '[[_Standards/WikiData/WD~Prince_Yamadori,55013620]]'
-  - '[[_Standards/WikiData/WD~Dolore_(_Sorrow_),63487309]]'
-  - '[[_Standards/WikiData/WD~Q63677476,63677476]]'
+- '[[_Standards/WikiData/WD~Cio_Cio_san,50386864]]'
+- '[[_Standards/WikiData/WD~B.F._Pinkerton,50734165]]'
+- '[[_Standards/WikiData/WD~Kate_Pinkerton,50845436]]'
+- '[[_Standards/WikiData/WD~Sharpless,50845450]]'
+- '[[_Standards/WikiData/WD~The_Bonze,54998790]]'
+- '[[_Standards/WikiData/WD~Yakuside,54998899]]'
+- '[[_Standards/WikiData/WD~The_Imperial_Commissioner,54998903]]'
+- '[[_Standards/WikiData/WD~The_Official_Registrar,54998907]]'
+- "[[_Standards/WikiData/WD~Cio_Cio_san's_mother,54998911]]"
+- '[[_Standards/WikiData/WD~The_aunt,54998914]]'
+- '[[_Standards/WikiData/WD~The_cousin,54998920]]'
+- '[[_Standards/WikiData/WD~Suzuki,55013587]]'
+- '[[_Standards/WikiData/WD~Goro,55013614]]'
+- '[[_Standards/WikiData/WD~Prince_Yamadori,55013620]]'
+- '[[_Standards/WikiData/WD~Dolore_(_Sorrow_),63487309]]'
+- '[[_Standards/WikiData/WD~Q63677476,63677476]]'
 instance_of: '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~Italian,652]]'
 form_of_creative_work: '[[_Standards/WikiData/WD~opera,1344]]'
@@ -41,21 +62,92 @@ composer: '[[_Standards/WikiData/WD~Giacomo_Puccini,7311]]'
 copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 country_of_origin: '[[_Standards/WikiData/WD~Italy,38]]'
 number_of_parts_of_this_work:
-  - 2
-  - 3
+- 2
+- 3
 narrative_locations: '[[_Standards/WikiData/WD~Nagasaki,38234]]'
 native_label: Madama Butterfly
 title: Madama Butterfly
 Commons_category: Madama Butterfly (Puccini)
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Collina%20presso%20Nagasaki%2C%20bozzetto%20di%20Alexandre%20Bailly%2C%20Marcel%20Jambon%20per%20Madama%20Butterfly%20%281906%29%20-%20Archivio%20Storico%20Ricordi%20ICON000079.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Leopoldo%20Metlicovitz%2C%201904%20-%20Madama%20Butterfly.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Collina%20presso%20Nagasaki%2C%20bozzetto%20di%20Alexandre%20Bailly%2C%20Marcel%20Jambon%20per%20Madama%20Butterfly%20%281906%29%20-%20Archivio%20Storico%20Ricordi%20ICON000079.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Leopoldo%20Metlicovitz%2C%201904%20-%20Madama%20Butterfly.jpg
 date_of_first_performance: 1904-02-17T00:00:00Z
 publication_date: 1904-02-15T00:00:00Z
 inception: 1903-12-27T00:00:00Z
 production_date: 1903-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Madama Butterfly
+    ar: مدام بترفلاي
+    arz: مدام بترفلاى
+    ast: Madama Butterfly
+    az: Madam Batterflay
+    be: Мадам Батэрфляй
+    be-tarask: Мадам Батэрфляй
+    bg: Мадам Бътерфлай
+    ca: Madama Butterfly
+    cs: Madam Butterfly
+    cy: Madama Butterfly
+    da: Madame Butterfly
+    de: Madama Butterfly
+    de-ch: Madama Butterfly
+    dsb: Madama Butterfly
+    el: Μαντάμα Μπατερφλάι
+    en: Madama Butterfly
+    en-ca: Madama Butterfly
+    en-gb: Madama Butterfly
+    eo: Madama Butterfly
+    es: Madama Butterfly
+    et: Madame Butterfly
+    eu: Madama Butterfly
+    fa: مادام باترفلای
+    fi: Madama Butterfly
+    fr: Madame Butterfly
+    ga: Madama Butterfly
+    gl: Madama Butterfly
+    he: מאדאם באטרפליי
+    hr: Madama Butterfly
+    hu: Pillangókisasszony
+    hy: Մադամ Բատերֆլայ
+    id: Madama Butterfly
+    it: Madama Butterfly
+    ja: 蝶々夫人
+    kk: Баттерфляй ханым
+    ko: 나비 부인
+    la: Madama Butterfly
+    lt: Madam Baterflai
+    lv: Madama Butterfly
+    mk: Мадам Батерфлај
+    ml: മഡമ ബട്ടർഫ്ലൈ
+    mn: Madama Butterfly
+    ms: Madama Butterfly
+    mul: Madama Butterfly
+    nb: Madama Butterfly
+    nl: Madama Butterfly
+    nn: Madame Butterfly
+    oc: Madama Butterfly
+    pl: Madame Butterfly
+    pt: Madama Butterfly
+    pt-br: Madama Butterfly
+    ro: Madama Butterfly
+    ru: Мадам Баттерфляй
+    sh: Madama Butterfly
+    sk: Madama Butterfly
+    sl: Madamme Butterfly
+    sq: Madama Butterfly
+    sr: Мадам Батерфлај
+    sv: Madama Butterfly
+    th: มาดามบัตเตอร์ฟลาย
+    tr: Madam Butterfly
+    uk: Мадам Баттерфляй
+    vi: Madama Butterfly
+    war: Madama Butterfly
+    wuu: 蝴蝶夫人
+    yue: 蝴蝶夫人
+    zh: 蝴蝶夫人
+    zh-hans: 蝴蝶夫人
+    zh-hant: 蝴蝶夫人
 ---
-
 # [[Madame_Butterfly]] 
 
 #is_/same_as :: [[WD~Madama_Butterfly,19005]] 

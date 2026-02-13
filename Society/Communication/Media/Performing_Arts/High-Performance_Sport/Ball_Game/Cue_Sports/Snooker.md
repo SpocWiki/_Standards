@@ -1,20 +1,64 @@
 ---
 aliases:
-  - English billiards
-  - Russian pyramid
-  - Snooker
+- Billiards snooker
+- English billiards
+- Russian pyramid
+- sinuca inglesa
+- snoeker
+- Snoker
+- Snokêr
+- Snooker
+- Snuker
+- snukeris
+- Snukero
+- Snuuker
+- Snwcer
+- snóker
+- Snùcair
+- snúcar
+- snūkers
+- sznúker
+- Σνούκερ
+- снукер
+- Снукер биллиард
+- Снукър
+- ыснукир
+- Սնուկեր
+- Սնուքըր
+- סנוקר
+- اسنوکر
+- اسنۊکر
+- ایسنوکئر
+- سنوكر
+- سنووکەر
+- سنوکر
+- स्नूकर
+- স্নুকার
+- ਸਨੂਕਰ
+- સ્નૂકર
+- மேடைக் கோற்பந்தாட்டம்
+- స్నూకర్
+- ಸ್ನೂಕರ್
+- สนุกเกอร์
+- စနူကာ
+- სნუკერი
+- スヌーカー
+- 司諾克
+- 士碌架
+- 斯诺克
+- 스누커
 has_id_wikidata: Q11015
 uses:
-  - '[[_Standards/WikiData/WD~cue_stick,593707]]'
-  - '[[_Standards/WikiData/WD~cue_ball,11982823]]'
-  - '[[_Standards/WikiData/WD~snooker_attachments,18434985]]'
-  - '[[_Standards/WikiData/WD~snooker_ball,55398354]]'
+- '[[_Standards/WikiData/WD~cue_stick,593707]]'
+- '[[_Standards/WikiData/WD~cue_ball,11982823]]'
+- '[[_Standards/WikiData/WD~snooker_attachments,18434985]]'
+- '[[_Standards/WikiData/WD~snooker_ball,55398354]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
-  - '[[_Standards/WikiData/WD~cue_sports,3341285]]'
+- '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
+- '[[_Standards/WikiData/WD~cue_sports,3341285]]'
 authority:
-  - '[[_Standards/WikiData/WD~International_Billiards_and_Snooker_Federation,1666379]]'
-  - '[[_Standards/WikiData/WD~World_Professional_Billiards_and_Snooker_Association,2030665]]'
+- '[[_Standards/WikiData/WD~International_Billiards_and_Snooker_Federation,1666379]]'
+- '[[_Standards/WikiData/WD~World_Professional_Billiards_and_Snooker_Association,2030665]]'
 instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Neville_Francis_Fitzgerald_Chamberlain,2565047]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Snooker,8208917]]'
@@ -30,8 +74,103 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Snooker%20table%20selb
 Library_of_Congress_Classification: GV900.S6
 IPTC_NewsCode: mediatopic/20001063
 Baidu_Tieba_name: 斯诺克
+dv_has_:
+  name_:
+    af: snoeker
+    ar: سنوكر
+    arz: سنوكر
+    ast: Snooker
+    az: Snuker
+    azb: ایسنوکئر
+    be: снукер
+    be-tarask: снукер
+    bg: Снукър
+    bn: স্নুকার
+    br: Snooker
+    bs: Snuker
+    ca: snooker
+    ckb: سنووکەر
+    cs: snooker
+    cy: Snwcer
+    da: snooker
+    de: Snooker
+    de-ch: Snooker
+    dsb: Snooker
+    el: Σνούκερ
+    en: snooker
+    en-ca: snooker
+    en-gb: snooker
+    eo: Snukero
+    es: snooker
+    et: Snuuker
+    eu: snooker
+    fa: اسنوکر
+    fi: snooker
+    fr: snooker
+    ga: snúcar
+    gd: Snùcair
+    gl: snooker
+    glk: اسنۊکر
+    gu: સ્નૂકર
+    he: סנוקר
+    hi: स्नूकर
+    hr: Snooker
+    hsb: Snooker
+    hu: sznúker
+    hy: Սնուկեր
+    hyw: Սնուքըր
+    id: Snoker
+    is: snóker
+    it: snooker
+    ja: スヌーカー
+    ka: სნუკერი
+    kk: Снукер
+    kn: ಸ್ನೂಕರ್
+    ko: 스누커
+    ku: Snokêr
+    lt: snukeris
+    lv: snūkers
+    mk: снукер
+    mn: Снукер биллиард
+    mr: स्नूकर
+    ms: snuker
+    my: စနူကာ
+    nb: snooker
+    nds-nl: Snooker
+    nl: snooker
+    oc: Snooker
+    pa: ਸਨੂਕਰ
+    pl: snooker
+    pnb: سنوکر
+    pt: sinuca inglesa
+    pt-br: Snooker
+    ro: snooker
+    ru: снукер
+    sco: snooker
+    sh: Snooker
+    sk: Snooker
+    sl: Snooker
+    sq: Snooker
+    sr: снукер
+    sv: snooker
+    ta: மேடைக் கோற்பந்தாட்டம்
+    te: స్నూకర్
+    th: สนุกเกอร์
+    tr: Snooker
+    tt: ыснукир
+    uk: снукер
+    ur: اسنوکر
+    vi: Billiards snooker
+    vls: snooker
+    wuu: 斯诺克
+    xmf: სნუკერი
+    yue: 士碌架
+    zh: 斯诺克
+    zh-cn: 斯诺克
+    zh-hans: 斯诺克
+    zh-hk: 士碌架
+    zh-tw: 司諾克
 ---
-
 # [[Snooker]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Snooker,11015|WD~Snooker,11015]] 

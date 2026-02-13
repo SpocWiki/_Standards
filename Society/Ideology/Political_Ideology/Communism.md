@@ -1,38 +1,152 @@
 ---
 aliases:
-  - Communism
+- Amoño'ỹtekuareko
+- Bokominisi
+- Bukhomanisi
+- chủ nghĩa cộng sản
+- Co-mhaoineas
+- comiwnyddiaeth
+- Commeunisme
+- Communism
+- communisme
+- communismo
+- communismus
+- Communissem
+- Comunism
+- comunisme
+- comunismo
+- comunismu
+- Comunisse
+- Conmunnime
+- cumannachas
+- cumunismu
+- gemōtscipe
+- Gê̤ṳng-sāng-ciō-ngiê
+- Kamiunizam
+- kaurpo'esi'o
+- Kemynegoreth
+- Khiung-sán chú-ngi
+- Kiōng-sán-chú-gī
+- Kobädim
+- Komiinism
+- Kominisimɛ
+- Kominism
+- kommunism
+- kommunisma
+- kommunisme
+- kommunismi
+- kommunismm
+- Kommunismus
+- kommunissma
+- Kommunizm
+- kommunizmus
+- kommúnismi
+- komunism
+- Komunisme
+- komunismo
+- komunisms
+- komunismus
+- komunizam
+- komunizem
+- Komunizm
+- komunizmas
+- komunizmus
+- komunizëm
+- komuniżmu
+- Komunouriezh
+- Komûnîzm
+- komünizm
+- Kumunismu
+- Kuomonėzmos
+- Kwaminisanci
+- kòmùnizm
+- Kômonisma
+- kōmunizm
+- Nəmkomuniya
+- Quemunismo
+- Samyawaad
+- Shuuciyad
+- Ukomunisti
+- Waltummaa
+- Ìṣekọ́múnístì
+- κομμουνισμός
+- каммунизем
+- камунізм
+- коммунизм
+- Коммунизмась
+- комунізм
+- комунизам
+- комунизъм
+- կոմունիզմ
+- קאמוניזם
+- קומוניזם
+- اشتمالیت
+- شيوعية
+- شيوعيه
+- كۇممۇنىزم
+- کؤمؤنيسم
+- کمونيزم
+- کمونیسم
+- کمیونزم
+- کومونيسمى
+- کومونیست
+- کومونیسم
+- کۆمۆنیزم
+- ڪميونزم
+- समानतावाद
+- साम्यवाद
+- साम्यवादः
+- সাম্যবাদ
+- ਕਮਿਊਨਿਜ਼ਮ
+- ସାମ୍ୟବାଦ
+- பொதுவுடைமை
+- కమ్యూనిజం
+- ಕಮ್ಯೂನಿಸಮ್
+- കമ്യൂണിസം
+- සමසමාජවාදය
+- ลัทธิคอมมิวนิสต์
+- ຄອມມິວນິດ
+- ကွန်မြူနစ်ဝါဒ
+- კომუნიზმი
+- ኰሙኒስም
+- លិទ្ធិកុម្មុយនិស្ត
+- ⵜⴰⵥⵕⵙⵓⵔⵜ
+- 共产主义
+- 共產主義
+- 共産主義
+- 공산주의
 has_id_wikidata: Q6186
 Basisklassifikation: 89.15
 Commons_category: Communism
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~The_ABC_of_Communism,10338664]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
-  - '[[_Standards/WikiData/WD~Q131703556,131703556]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_ABC_of_Communism,10338664]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Princeton_Encyclopedia_of_American_Political_History,20751032]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
+- '[[_Standards/WikiData/WD~Q131703556,131703556]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Dewey_Decimal_Classification:
-  - 335.43
-  - 335.4
-  - 320.532
+- 335.43
+- 335.4
+- 320.532
 different_from: '[[_Standards/WikiData/WD~libertarian_communalism,2705134]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Red%20flag.svg
 has_characteristic: '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_communism,2583742]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Comunismo.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Falce%20e%20martello.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Comunismo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Falce%20e%20martello.svg
 instance_of:
-  - '[[_Standards/WikiData/WD~economic_system,273005]]'
-  - '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~economic_system,273005]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 MeSH_tree_code: I01.696.232
 official_color: '[[_Standards/WikiData/WD~red,3142]]'
 OmegaWiki_Defined_Meaning: 351639
@@ -40,13 +154,224 @@ opposite_of: '[[_Standards/WikiData/WD~anti-communism,182121]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-comunismo.wav
 subclass_of: '[[_Standards/WikiData/WD~socialism,7272]]'
 subreddit:
-  - CommunismMemes
-  - communism
+- CommunismMemes
+- communism
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Communism,5880628]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Communism,8419000]]'
 U_S_National_Archives_Identifier: 10639138
+dv_has_:
+  name_:
+    af: kommunisme
+    am: ኰሙኒስም
+    an: comunismo
+    ang: gemōtscipe
+    anp: साम्यवाद
+    ar: شيوعية
+    ary: شيوعية
+    arz: شيوعيه
+    as: সাম্যবাদ
+    ast: comunismu
+    awa: साम्यवाद
+    az: kommunizm
+    azb: کومونیسم
+    ba: коммунизм
+    bar: Kommunismus
+    bcl: komunismo
+    be: камунізм
+    be-tarask: камунізм
+    bg: комунизъм
+    bho: साम्यवाद
+    bn: সাম্যবাদ
+    br: Komunouriezh
+    bs: komunizam
+    btm: Komunisme
+    bxr: коммунизм
+    ca: comunisme
+    cdo: Gê̤ṳng-sāng-ciō-ngiê
+    ce: Коммунизм
+    ceb: Komunismo
+    ckb: کۆمۆنیزم
+    co: cumunismu
+    crh: kommunizm
+    crh-ro: komunism
+    cs: komunismus
+    csb: kòmùnizm
+    cy: comiwnyddiaeth
+    da: kommunisme
+    de: Kommunismus
+    diq: Komunizm
+    el: κομμουνισμός
+    en: communism
+    en-ca: communism
+    en-gb: communism
+    eo: komunismo
+    es: comunismo
+    et: kommunism
+    eu: komunismo
+    ext: comunismu
+    fa: کمونیسم
+    fi: kommunismi
+    fo: kommunisma
+    fr: communisme
+    frr: Komunismus
+    fur: Comunism
+    fy: Kommunisme
+    ga: cumannachas
+    gan: 共產主義
+    gcr: Kominism
+    gd: Co-mhaoineas
+    gl: comunismo
+    glk: کؤمؤنيسم
+    gn: Amoño'ỹtekuareko
+    gsw: Kommunismus
+    ha: Kwaminisanci
+    hak: Khiung-sán chú-ngi
+    he: קומוניזם
+    hi: समानतावाद
+    hif: Samyawaad
+    hr: komunizam
+    hsb: komunizm
+    hu: kommunizmus
+    hy: կոմունիզմ
+    ia: communismo
+    iba: Komunisme
+    id: komunisme
+    ie: Comunisme
+    ilo: Komunismo
+    io: komunismo
+    is: kommúnismi
+    it: comunismo
+    ja: 共産主義
+    jam: Kamiunizam
+    jbo: kaurpo'esi'o
+    jv: Komunisme
+    ka: კომუნიზმი
+    kbp: Komiinism
+    kk: коммунизм
+    km: លិទ្ធិកុម្មុយនិស្ត
+    kn: ಕಮ್ಯೂನಿಸಮ್
+    knc: Nəmkomuniya
+    ko: 공산주의
+    krc: коммунизм
+    ku: Komûnîzm
+    kw: Kemynegoreth
+    ky: коммунизм
+    la: communismus
+    lb: Kommunismus
+    lez: коммунизм
+    lfn: Comunisme
+    li: Communisme
+    lmo: Comunism
+    ln: Kominisimɛ
+    lo: ຄອມມິວນິດ
+    lrc: کومونیست
+    lt: komunizmas
+    lv: komunisms
+    lzh: 共產主義
+    mad: Komunisme
+    mdf: Коммунизмась
+    mg: Kômonisma
+    min: Komunisme
+    mk: комунизам
+    ml: കമ്യൂണിസം
+    mn: коммунизм
+    mr: साम्यवाद
+    ms: komunisme
+    ms-arab: کومونيسمى
+    mt: komuniżmu
+    mwl: Quemunismo
+    my: ကွန်မြူနစ်ဝါဒ
+    mzn: کمونیسم
+    nan: Kiōng-sán-chú-gī
+    nb: kommunisme
+    nds: Kommunismus
+    nds-nl: kommunisme
+    ne: साम्यवाद
+    new: साम्यवाद
+    nl: communisme
+    nn: kommunisme
+    nrm: Commeunisme
+    oc: Comunisme
+    om: Waltummaa
+    or: ସାମ୍ୟବାଦ
+    os: коммунизм
+    pa: ਕਮਿਊਨਿਜ਼ਮ
+    pcd: Conmunnime
+    pl: komunizm
+    pms: Comunism
+    pnb: کمیونزم
+    ps: کمونيزم
+    pt: comunismo
+    pt-br: comunismo
+    qu: Kumunismu
+    rki: ကွန်မြူနစ်ဝါဒ
+    rm: Communissem
+    ro: comunism
+    ru: коммунизм
+    rue: комунізм
+    sa: साम्यवादः
+    sah: коммунизм
+    sc: comunismu
+    scn: Cumunismu
+    sco: communism
+    sd: ڪميونزم
+    se: kommunisma
+    sgs: Kuomonėzmos
+    sh: Komunizam
+    si: සමසමාජවාදය
+    sje: kommunissma
+    sk: komunizmus
+    sl: komunizem
+    sma: kommunisme
+    smj: kommunissma
+    smn: kommunism
+    sms: kommunismm
+    so: Shuuciyad
+    sq: komunizëm
+    sr: комунизам
+    ss: Bukhomanisi
+    st: Bokominisi
+    stq: Kommunismus
+    sv: kommunism
+    sw: Ukomunisti
+    szl: kōmunizm
+    ta: பொதுவுடைமை
+    te: కమ్యూనిజం
+    tg: коммунизм
+    th: ลัทธิคอมมิวนิสต์
+    tl: Komunismo
+    tr: komünizm
+    tt: коммунизм
+    tt-cyrl: каммунизем
+    tyv: Коммунизм
+    udm: коммунизм
+    ug: كۇممۇنىزم
+    uk: комунізм
+    ur: اشتمالیت
+    uz: Kommunizm
+    vec: comunismo
+    vep: Kommunizm
+    vi: chủ nghĩa cộng sản
+    vo: Kobädim
+    vro: Kommunism
+    wa: Comunisse
+    war: Komunismo
+    wuu: 共产主义
+    xmf: კომუნიზმი
+    yi: קאמוניזם
+    yo: Ìṣekọ́múnístì
+    yue: 共產主義
+    zgh: ⵜⴰⵥⵕⵙⵓⵔⵜ
+    zh: 共產主義
+    zh-cn: 共产主义
+    zh-hans: 共产主义
+    zh-hant: 共產主義
+    zh-hk: 共產主義
+    zh-mo: 共產主義
+    zh-my: 共产主义
+    zh-sg: 共产主义
+    zh-tw: 共產主義
 ---
-
 # [[Communism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Communism,6186|WD~Communism,6186]] 

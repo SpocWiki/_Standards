@@ -1,27 +1,154 @@
 ---
 aliases:
-  - Rotation-Vector
-  - angular vector
-  - Angle
+- ang
+- angelu
+- anggulo
+- Angle
+- anglo
+- angol
+- angolo
+- angular vector
+- angulo
+- angulus
+- açı
+- bucaq
+- burchak
+- ceàrn
+- chhuka
+- gonyo
+- góc
+- hanggl
+- hoek
+- hoke
+- Hook
+- horn
+- igun
+- ingoni
+- juru
+- k'uchu
+- kak-tō͘
+- kampas
+- komps
+- korn
+- kot
+- kulma
+- kut
+- këndi
+- köşe
+- kąt
+- leņķis
+- litúmu
+- nena palisa
+- nurk
+- ongl
+- pembe
+- Pepojok
+- Rotation-Vector
+- sudut
+- szög
+- takamby
+- tangoura
+- tutuni
+- ugao
+- uhol
+- uillinn
+- unghi
+- vinkel
+- Winkel
+- xagal
+- zoro
+- ànculu
+- àngol
+- ángulo
+- ángulu
+- ângulo
+- úhel
+- γωνία
+- агол
+- блыгу
+- бурч
+- бұрыш
+- вугал
+- кĕтес
+- кунҷ
+- кут
+- лук
+- муннук
+- мөйөш
+- почмак
+- сэрег
+- угао
+- угол
+- ужесь
+- ужо
+- ъгъл
+- ѫгълъ
+- үнсэг
+- өнцөг
+- անկիւն
+- անկյուն
+- ווינקל
+- זווית
+- بوجاق
+- تنقورة
+- زاوية
+- زاويه
+- زاويه (هندسه)
+- زاویه
+- زاویہ
+- سوک(هنّسه)
+- گۆشە
+- ܙܘܝܬܐ
+- ߞߋ߲ߛߐ߲
+- कुं
+- कोण
+- कोन
+- কোণ
+- ਕੋਣ
+- கோணம்
+- కోణం
+- ಕೋನ
+- കോൺ
+- කෝණය
+- มุม
+- ထောင့်
+- კუთხე
+- კუნთხუ
+- ᎤᏜᏅᏛ ᎤᏞᏴᏍᏛ
+- ᑎᕆᖅᖁᖅ
+- មុំ
+- 角
+- 角度
+- 각도
 has_id_wikidata: Q11352
 Commons_category: Angles (geometry)
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 516.152
 different_from:
-  - '[[_Standards/WikiData/WD~Winkel,348650]]'
-  - '[[_Standards/WikiData/WD~Angle,2849621]]'
+- '[[_Standards/WikiData/WD~Winkel,348650]]'
+- '[[_Standards/WikiData/WD~Angle,2849621]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+- '[[_Standards/WikiData/WD~angular_measure,1357788]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+- '[[_Standards/WikiData/WD~angular_measure,1357788]]'
 Iconclass_notation: 49D3212
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coord%20Angle.svg
-ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle 1}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mn>1</mn>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle 1}</annotation>\n  </semantics>\n</math>"
+ISQ_dimension: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle 1}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mn>1</mn>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+    </semantics>
+  </math>
 is_invariant_under: '[[_Standards/WikiData/WD~conformal_map,850275]]'
 Krugosvet_article: matematika/ugly-na-ploskosti-i-ikh-izmerenie
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -29,16 +156,173 @@ notation: '[[_Standards/WikiData/WD~_,87524476]]'
 OmegaWiki_Defined_Meaning: 383175
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8B%E0%A4%A8.wav
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/01-Winkel-1.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/01-Winkel-1.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/angle
 studied_in:
-  - '[[_Standards/WikiData/WD~theory_of_angles,114717628]]'
+- '[[_Standards/WikiData/WD~theory_of_angles,114717628]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~two-dimensional_object,118870638]]'
-  - '[[_Standards/WikiData/WD~geometric_object,123410745]]'
+- '[[_Standards/WikiData/WD~two-dimensional_object,118870638]]'
+- '[[_Standards/WikiData/WD~geometric_object,123410745]]'
 Unicode_character: ∠
+dv_has_:
+  name_:
+    aeb-arab: تنقورة
+    aeb-latn: tangoura
+    af: hoek
+    an: anglo
+    ar: زاوية
+    arc: ܙܘܝܬܐ
+    ary: زاوية
+    arz: زاويه (هندسه)
+    as: কোণ
+    ast: ángulu
+    ay: k'uchu
+    az: bucaq
+    azb: بوجاق
+    ba: мөйөш
+    bcl: angulo
+    be: вугал
+    be-tarask: кут
+    bg: ъгъл
+    bn: কোণ
+    br: korn
+    bs: ugao
+    bxr: үнсэг
+    ca: angle
+    chr: ᎤᏜᏅᏛ ᎤᏞᏴᏍᏛ
+    ckb: گۆشە
+    crh: köşe
+    cs: úhel
+    cu: ѫгълъ
+    cv: кĕтес
+    cy: ongl
+    da: vinkel
+    de: Winkel
+    de-at: Winkel
+    de-ch: Winkel
+    el: γωνία
+    en: angle
+    en-ca: angle
+    en-gb: angle
+    eo: angulo
+    es: ángulo
+    et: nurk
+    eu: angelu
+    fa: زاویه
+    fi: kulma
+    fj: tutuni
+    fr: angle
+    frr: Winkel
+    ga: uillinn
+    gan: 角
+    gcr: ang
+    gd: ceàrn
+    gl: ángulo
+    gn: takamby
+    gsw: Winkel
+    he: זווית
+    hi: कोण
+    hif: angle
+    hr: kut
+    ht: ang
+    hu: szög
+    hy: անկյուն
+    hyw: անկիւն
+    ia: angulo
+    id: sudut
+    ilo: anggulo
+    io: angulo
+    is: horn
+    it: angolo
+    iu: ᑎᕆᖅᖁᖅ
+    ja: 角度
+    jam: hanggl
+    jv: Pepojok
+    ka: კუთხე
+    kbd: блыгу
+    kk: бұрыш
+    km: មុំ
+    kn: ಕೋನ
+    ko: 각도
+    ku: hoke
+    ku-latn: hoke
+    kw: angle
+    ky: бурч
+    la: angulus
+    li: Hook
+    lmo: angol
+    ln: litúmu
+    lt: kampas
+    lv: leņķis
+    lzh: 角
+    mag: कोण
+    mdf: ужесь
+    mg: zoro
+    mhr: лук
+    mk: агол
+    ml: കോൺ
+    mn: өнцөг
+    mr: कोन
+    ms: sudut
+    my: ထောင့်
+    myv: ужо
+    mzn: سوک(هنّسه)
+    nan: kak-tō͘
+    nb: vinkel
+    nds: Winkel
+    ne: कोण
+    new: कुं
+    nl: hoek
+    nn: vinkel
+    nqo: ߞߋ߲ߛߐ߲
+    oc: angle
+    pa: ਕੋਣ
+    pl: kąt
+    pms: àngol
+    pnb: زاویہ
+    ps: زاويه
+    pt: ângulo
+    pt-br: ângulo
+    qu: chhuka
+    ro: unghi
+    ru: угол
+    sah: муннук
+    scn: ànculu
+    sco: angle
+    sgs: komps
+    sh: ugao
+    si: කෝණය
+    sk: uhol
+    sl: kot
+    sn: gonyo
+    so: xagal
+    sq: këndi
+    sr: угао
+    su: juru
+    sv: vinkel
+    sw: pembe
+    ta: கோணம்
+    te: కోణం
+    tg: кунҷ
+    th: มุม
+    tl: anggulo
+    tok: nena palisa
+    tr: açı
+    tt: почмак
+    udm: сэрег
+    uk: кут
+    ur: زاویہ
+    uz: burchak
+    vi: góc
+    war: anggulo
+    wuu: 角
+    xmf: კუნთხუ
+    yi: ווינקל
+    yo: igun
+    yue: 角
+    zh: 角
+    zu: ingoni
 ---
-
 # [[Angle]] 
 
 #is_a :: [[Pseudo-Vector]] 

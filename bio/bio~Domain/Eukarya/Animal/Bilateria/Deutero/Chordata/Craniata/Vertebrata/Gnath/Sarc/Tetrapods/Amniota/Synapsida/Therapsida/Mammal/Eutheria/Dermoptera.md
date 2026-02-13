@@ -1,15 +1,73 @@
 ---
 aliases:
+- bőrszárnyúak
+- Chồn bay Sunda
+- colugo
+- Colugo's
+- Colugos
+- colugwa
+- Colwgo
+- Cynocephalidae
+- Dermoptera
+- dermoptero
+- Dermópteros
+- flögrur
+- Huidvliegers
+- kaguaanit
+- Kaguanger
+- Kaguaniniai
+- Kagwang
+- karustiivalised
+- Kolougo
+- Kolugo
+- Kubung
+- Leteći lemuri
+- letuchy
+- Lèmur volador
+- mrenarji
+- Naalkʼįhiitsoh
+- Pälsfladdrare
+- Riesengleiter
+- skjermflygarar
+- Skjermflygere
+- Skóroskrzydłe
+- Talakoldunol (Dermoptera)
+- Uçar makigiller
+- vlieënde lemur
+- Yunqanadlar
+- ādlidoņi
+- Δερμόπτερα
+- Жүнқанаттылар
+- кагуанові
+- Кожнокрилни
+- кожокрили
+- Колуго
+- Кучикбордаэз
+- тиреғанаттар
+- шерстокрылы
+- Шэрстакрылавыя
+- Шэрстакрылы
+- גלשנאים
+- جلديات القوائم
+- پوستپر
+- یونقانادلار
+- பறக்கும் லெமூர்
+- อันดับบ่าง
+- မျောက်လောင်းပျံ
+- ფრთამატყლიანები
+- ヒヨケザル目
+- 皮翼目
+- 날원숭이
 title: Dermoptera
 has_id_wikidata: Q183383
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Latawce,11753158]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "179984"
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Latawce,11753158]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 179984
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Colugo%20%28Galeopterus%20variegatus%2C%20adult%20female%29%2C%20Central%20Catchment%20Area%2C%20Singapore%20-%2020060618.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/DistributionDermopteraCorrecting.png
 EPPO_Code: 1DRMPO
@@ -18,8 +76,104 @@ Commons_category: Dermoptera
 taxon_name: Dermoptera
 taxon_common_name: skjermflygere
 start_time: -37000000-06
+dv_has_:
+  name_:
+    af: vlieënde lemur
+    an: Dermoptera
+    ang: colugwa
+    ar: جلديات القوائم
+    arz: جلديات القوائم
+    ast: Dermoptera
+    avk: Talakoldunol (Dermoptera)
+    az: Yunqanadlar
+    azb: یونقانادلار
+    ba: тиреғанаттар
+    be: Шэрстакрылы
+    be-tarask: Шэрстакрылавыя
+    bg: кожокрили
+    br: Kolougo
+    ca: Lèmur volador
+    ceb: Kagwang
+    cs: letuchy
+    cy: Colwgo
+    da: Kaguanger
+    de: Riesengleiter
+    el: Δερμόπτερα
+    en: Dermoptera
+    en-ca: colugo
+    en-gb: colugo
+    eo: dermoptero
+    es: Dermoptera
+    et: karustiivalised
+    eu: Kolugo
+    ext: Dermoptera
+    fa: پوستپر
+    fi: kaguaanit
+    fr: Dermoptera
+    frr: Dermoptera
+    ga: Dermoptera
+    gl: Dermópteros
+    he: גלשנאים
+    hr: Leteći lemuri
+    hu: bőrszárnyúak
+    ia: Dermoptera
+    id: Kubung
+    ie: Dermoptera
+    io: Dermoptera
+    is: flögrur
+    it: Dermoptera
+    ja: ヒヨケザル目
+    ka: ფრთამატყლიანები
+    kk: Жүнқанаттылар
+    ko: 날원숭이
+    koi: Кучикбордаэз
+    la: Dermoptera
+    lfn: Dermoptero
+    li: Colugo's
+    lij: Dermoptera
+    lt: Kaguaniniai
+    lv: ādlidoņi
+    mk: Кожнокрилни
+    ms: Kubung
+    mt: Kolugo
+    mul: Dermoptera
+    my: မျောက်လောင်းပျံ
+    nb: Skjermflygere
+    nl: Huidvliegers
+    nn: skjermflygarar
+    nov: Dermoptera
+    nv: Naalkʼįhiitsoh
+    oc: Dermoptera
+    pl: Skóroskrzydłe
+    pt: Dermoptera
+    pt-br: Colugos
+    ro: Dermoptera
+    ru: шерстокрылы
+    sh: Dermoptera
+    sk: Letuchy
+    sl: mrenarji
+    sq: Dermoptera
+    sr: Колуго
+    su: Kubung
+    sv: Pälsfladdrare
+    ta: பறக்கும் லெமூர்
+    th: อันดับบ่าง
+    tl: Dermoptera
+    tr: Uçar makigiller
+    uk: кагуанові
+    vi: Chồn bay Sunda
+    vo: Dermoptera
+    war: Cynocephalidae
+    wuu: 皮翼目
+    yue: 皮翼目
+    zh: 皮翼目
+    zh-cn: 皮翼目
+    zh-hans: 皮翼目
+    zh-hant: 皮翼目
+    zh-hk: 皮翼目
+    zh-sg: 皮翼目
+    zh-tw: 皮翼目
 ---
-
 # Dermoptera
 
 ## Colugos or flying lemurs and their extinct relatives 

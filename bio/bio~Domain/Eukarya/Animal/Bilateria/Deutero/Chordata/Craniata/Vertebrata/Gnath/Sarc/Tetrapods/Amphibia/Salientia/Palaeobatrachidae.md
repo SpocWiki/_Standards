@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Palaeobatrachidae
+- Palaeobatrachidae
+- الضفادع العتيقة
+- 古蟾科
 title: Palaeobatrachidae
+has_id_wikidata: Q16735696
+dv_has_:
+  name_:
+    an: Palaeobatrachidae
+    ar: الضفادع العتيقة
+    ast: Palaeobatrachidae
+    bg: Palaeobatrachidae
+    ca: Palaeobatrachidae
+    ceb: Palaeobatrachidae
+    de: Palaeobatrachidae
+    en: Palaeobatrachidae
+    eo: Palaeobatrachidae
+    es: Palaeobatrachidae
+    eu: Palaeobatrachidae
+    ext: Palaeobatrachidae
+    fi: Palaeobatrachidae
+    fr: Palaeobatrachidae
+    ga: Palaeobatrachidae
+    gl: Palaeobatrachidae
+    ia: Palaeobatrachidae
+    ie: Palaeobatrachidae
+    io: Palaeobatrachidae
+    it: Palaeobatrachidae
+    la: Palaeobatrachidae
+    mul: Palaeobatrachidae
+    nl: Palaeobatrachidae
+    oc: Palaeobatrachidae
+    pl: Palaeobatrachidae
+    pt: Palaeobatrachidae
+    pt-br: Palaeobatrachidae
+    ro: Palaeobatrachidae
+    ru: Palaeobatrachidae
+    sq: Palaeobatrachidae
+    uk: Palaeobatrachidae
+    vi: Palaeobatrachidae
+    vo: Palaeobatrachidae
+    war: Palaeobatrachidae
+    zh: 古蟾科
+    zh-cn: 古蟾科
+    zh-hans: 古蟾科
+    zh-hant: 古蟾科
+    zh-tw: 古蟾科
 ---
-
 # [[Palaeobatrachidae]]  
 
 ![Palaeobatrachus cast](Palaeobatrachidae/paleobatrachus.jpg) 

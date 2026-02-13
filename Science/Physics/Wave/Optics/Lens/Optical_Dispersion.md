@@ -1,14 +1,72 @@
 ---
 aliases:
-  - chromatic dispersion
-  - Optical_Dispersion
-  - Optical Dispersion
+- chromatic dispersion
+- Dağılma
+- Dispersi
+- Dispersia luminii
+- dispersie
+- dispersie optică
+- Dispersio
+- dispersion
+- dispersione ottica
+- Dispersioon
+- Dispersió òptica
+- Dispersión refractiva
+- dispersjon
+- dispersão
+- Disperze
+- Disperzia
+- disperzija
+- Disperzija (optika)
+- Dispèsyon
+- diszperzió
+- Gaismas dispersija
+- Jarıq dïspersïyası
+- Optical Dispersion
+- Optical_Dispersion
+- optisk dispersion
+- rozszczepienie światła
+- sakabanaketa optiko
+- spré
+- Tán sắc
+- varianco
+- Yorugʻlik dispersiyasi
+- Çутă сарăмĕ
+- İşığın dispersiyası
+- Šviesos dispersija
+- Διασκεδασμός
+- дисперзија
+- дисперсія світла
+- Дисперсия
+- дисперсия света
+- Дысперсія святла
+- дыспэрсія сьвятла
+- Жарық дисперсиясы
+- Расејување
+- Լույսի դիսպերսիա
+- נפיצה
+- تشتيت الضوء
+- جارىق دىيسپەرسىيياسى
+- پاشش
+- پەڕەوازەکردن
+- परिक्षेपण
+- বিচ্ছুরণ (আলোকবিজ্ঞান)
+- ਖਿੰਡਾਅ
+- நிறப்பிரிகை
+- പ്രകാശപ്രകീർണ്ണനം
+- การกระจาย (ทัศนศาสตร์)
+- სინათლის დისპერსია
+- 光的色散
+- 分散
+- 色散
+- 色散 (光学)
+- 분산
 has_id_wikidata: Q182893
 different_from: '[[_Standards/WikiData/WD~Dispersion,219345]]'
 instance_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q131832208,131832208]]'
 Commons_gallery: Dispersion
@@ -16,8 +74,90 @@ Commons_category: Dispersion
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prism-rainbow.svg
 IEV_number: 845-24-112
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>c</mi></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></mfrac></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: Dispersie
+    ar: تشتيت الضوء
+    ast: Dispersión refractiva
+    az: İşığın dispersiyası
+    be: Дысперсія святла
+    be-tarask: дыспэрсія сьвятла
+    bg: Дисперсия
+    bn: বিচ্ছুরণ (আলোকবিজ্ঞান)
+    ca: Dispersió òptica
+    ckb: پەڕەوازەکردن
+    cs: Disperze
+    cv: Çутă сарăмĕ
+    da: optisk dispersion
+    de: Dispersion
+    el: Διασκεδασμός
+    en: optical dispersion
+    en-ca: Dispersion
+    en-gb: Dispersion
+    eo: varianco
+    es: dispersión refractiva
+    et: Dispersioon
+    eu: sakabanaketa optiko
+    fa: پاشش
+    fi: Dispersio
+    fr: dispersion
+    ga: spré
+    he: נפיצה
+    hi: परिक्षेपण
+    hr: Disperzija
+    ht: Dispèsyon
+    hu: diszperzió
+    hy: Լույսի դիսպերսիա
+    id: Dispersi
+    it: dispersione ottica
+    ja: 分散
+    ka: სინათლის დისპერსია
+    kk: Жарық дисперсиясы
+    kk-arab: جارىق دىيسپەرسىيياسى
+    kk-cn: جارىق دىيسپەرسىيياسى
+    kk-cyrl: Жарық дисперсиясы
+    kk-kz: Жарық дисперсиясы
+    kk-latn: Jarıq dïspersïyası
+    kk-tr: Jarıq dïspersïyası
+    ko: 분산
+    lt: Šviesos dispersija
+    lv: Gaismas dispersija
+    mk: Расејување
+    ml: പ്രകാശപ്രകീർണ്ണനം
+    mo: Dispersia luminii
+    nb: dispersjon
+    nl: dispersie
+    nn: dispersjon
+    pa: ਖਿੰਡਾਅ
+    pl: rozszczepienie światła
+    pt: dispersão
+    pt-br: Dispersão
+    ro: dispersie optică
+    ru: дисперсия света
+    sh: Disperzija (optika)
+    sk: Disperzia
+    sl: disperzija
+    sq: Dispersion
+    sr: дисперзија
+    sr-ec: Дисперзија
+    sr-el: Disperzija
+    sv: dispersion
+    ta: நிறப்பிரிகை
+    th: การกระจาย (ทัศนศาสตร์)
+    tr: Dağılma
+    uk: дисперсія світла
+    uz: Yorugʻlik dispersiyasi
+    vi: Tán sắc
+    wuu: 色散 (光学)
+    yue: 色散
+    zh: 光的色散
+    zh-cn: 光的色散
+    zh-hans: 光的色散
+    zh-hant: 光的色散
+    zh-hk: 光的色散
+    zh-sg: 光的色散
+    zh-tw: 光的色散
 ---
-
 # [[Optical_Dispersion]] 
 
 #is_/same_as :: [[WD~Optical_dispersion,182893]] 

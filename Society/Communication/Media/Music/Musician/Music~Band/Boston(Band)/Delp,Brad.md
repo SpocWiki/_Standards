@@ -1,12 +1,59 @@
 ---
 aliases:
-  - Brad Delp
-  - Delp,Brad
-  - Bradley Edward Delp
-  - Bradley Delp
-  - Delp
+- Brad Delp
+- Bradley Delp
+- Bradley Edward Delp
+- Delp
+- Delp,Brad
+- Брэд Делп
+- براد ديلپ
+- بریڈ ڈیلپ
+- ブラッド・デルプ
+- 브래드 델프
+has_id_wikidata: Q721474
+dv_has_:
+  name_:
+    an: Brad Delp
+    arz: براد ديلپ
+    ast: Brad Delp
+    ca: Brad Delp
+    cs: Brad Delp
+    cy: Brad Delp
+    da: Brad Delp
+    de: Brad Delp
+    en: Brad Delp
+    en-gb: Brad Delp
+    eo: Brad Delp
+    es: Brad Delp
+    et: Brad Delp
+    eu: Brad Delp
+    fi: Brad Delp
+    fr: Brad Delp
+    ga: Brad Delp
+    gl: Brad Delp
+    hu: Brad Delp
+    io: Brad Delp
+    it: Brad Delp
+    ja: ブラッド・デルプ
+    ko: 브래드 델프
+    lfn: Brad Delp
+    mul: Brad Delp
+    nb: Brad Delp
+    nl: Brad Delp
+    nn: Brad Delp
+    pap: Brad Delp
+    pl: Brad Delp
+    pt: Brad Delp
+    pt-br: Brad Delp
+    ro: Brad Delp
+    ru: Брэд Делп
+    sl: Brad Delp
+    sq: Brad Delp
+    sv: Brad Delp
+    tr: Brad Delp
+    ur: بریڈ ڈیلپ
+    vo: Brad Delp
 ---
-
 # [[Delp,Brad]] 
 
 #has_/time_/started :: 1951-06-12

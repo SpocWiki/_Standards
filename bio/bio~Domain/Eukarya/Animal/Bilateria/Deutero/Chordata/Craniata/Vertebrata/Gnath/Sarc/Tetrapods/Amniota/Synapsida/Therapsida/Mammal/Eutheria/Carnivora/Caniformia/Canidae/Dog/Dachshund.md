@@ -1,39 +1,154 @@
 ---
 aliases:
-  - Dackel
-  - Teckel
-  - wiener dog
-  - sausage dog
-  - badger dog
-  - doxen
-  - doxie
-  - Dachshund
+- badger dog
+- Bason todesc
+- bassotto tedesco
+- broc-chú
+- brocchund
+- Brochgi
+- Chó Dachshund
+- dachs
+- Dachshund
+- Dackel
+- Dakel
+- Dakhund
+- doxen
+- doxie
+- gravhund
+- Jamnik
+- Jazavičar
+- Jazavčar
+- Jazvečík
+- jezevčík
+- Jôpscownik
+- melhundo
+- mäyräkoira
+- sausage dog
+- tacskó
+- Taks
+- Taksas
+- taksis
+- tax
+- Teckel
+- Tekkel
+- wiener dog
+- јазавичар
+- Дакел
+- такса
+- Տակսա
+- תחש
+- داشهند
+- داشهوند
+- دَشهَند
+- ڈیشہنڈ
+- ಡ್ಯಾಕ್ಹಂಡ್
+- ഡാഷ്ഹണ്ട്
+- แด็กซันด์
+- ტაქსა
+- ダックスフント
+- 腊肠犬
+- 臘腸狗
+- 닥스훈트
 has_id_wikidata: Q29099
 different_from: '[[_Standards/WikiData/WD~Q11716842,11716842]]'
 subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
 country_of_origin: '[[_Standards/WikiData/WD~Germany,183]]'
 height:
-  - 5
-  - 9
+- 5
+- 9
 diameter:
-  - 25
-  - 27
-  - 45
-  - 47
+- 25
+- 27
+- 45
+- 47
 litter_size: 5.4
 has_characteristic: '[[_Standards/WikiData/WD~length,36253]]'
 instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
 catalog_code: 148
 subreddit:
-  - Dachshund
-  - dachshunds
+- Dachshund
+- dachshunds
 Commons_gallery: Dachshund
 Commons_category: Dachshund
 OmegaWiki_Defined_Meaning: 352491
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MiniDachshund1%20wb.jpg
 Dewey_Decimal_Classification: 636.7538
+dv_has_:
+  name_:
+    af: Dachshund
+    ang: brocchund
+    ar: دَشهَند
+    arz: داشهند
+    ast: Dachshund
+    be: Такса
+    be-tarask: такса
+    bg: Дакел
+    bs: Jazavčar
+    ca: teckel
+    cs: jezevčík
+    csb: Jôpscownik
+    cy: Brochgi
+    da: gravhund
+    de: Dackel
+    en: dachshund
+    en-ca: Dachshund
+    en-gb: dachshund
+    eo: melhundo
+    es: Dachshund
+    et: Taks
+    eu: Dachshund
+    fa: داشهوند
+    fi: mäyräkoira
+    fr: teckel
+    fur: Bason todesc
+    fy: Tekkel
+    ga: broc-chú
+    gl: Dachshund
+    he: תחש
+    hr: Jazavčar
+    hu: tacskó
+    hy: Տակսա
+    id: Dachshund
+    it: bassotto tedesco
+    ja: ダックスフント
+    ka: ტაქსა
+    kk: Такса
+    kn: ಡ್ಯಾಕ್ಹಂಡ್
+    ko: 닥스훈트
+    lt: Taksas
+    lv: taksis
+    ml: ഡാഷ്ഹണ്ട്
+    ms: dachshund
+    nb: dachshund
+    nl: teckel
+    nn: dachs
+    oc: Teckel
+    pl: Jamnik
+    pnb: ڈیشہنڈ
+    pt: dachshund
+    ro: teckel
+    ru: такса
+    sco: Dachshund
+    sh: Jazavičar
+    sk: Jazvečík
+    sr: јазавичар
+    sv: tax
+    sw: Dachshund
+    szl: Dakel
+    th: แด็กซันด์
+    tl: Dachshund
+    tr: Dakhund
+    tt: Такса
+    uk: такса
+    vi: Chó Dachshund
+    vro: Taks
+    wuu: 腊肠犬
+    yue: 臘腸狗
+    zh: 腊肠犬
+    zh-cn: 腊肠犬
+    zh-hans: 腊肠犬
+    zh-hant: 腊肠犬
 ---
-
 # [[Dachshund]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dachshund,29099|WD~Dachshund,29099]] 

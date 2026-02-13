@@ -1,7 +1,46 @@
 ---
 aliases:
-  - Asparagales
-  - 天门冬目
+- Asparagales
+- Asparagaloj
+- Asparagals
+- asparges-ordenen
+- aspargesordenen
+- Asparilaadsed
+- Bộ Măng tây
+- chřestotvaré
+- Koma çavmarkan
+- Laukabálkur
+- Moegdenhmwnzdungh
+- Qulançarkimilər
+- Smidriečiai
+- Spargelartige
+- Spargeloortagen
+- sparrisordningen
+- Sparģeļu rinda
+- spárgavirágúak
+- szparagowce
+- Tanom nga asparagos
+- Tizikemt
+- Šparogolike
+- Ασπαραγώδη
+- зайчесянкоцветни
+- Спаржа зизай
+- Спаржакветныя
+- Спаржецветные
+- Холодкоцвіті
+- шпаргловидни
+- ծնեբեկածաղկավորներ
+- אספרגאים
+- ستاوری
+- مارچوبهسانان
+- هليونيات
+- ہلیونطب
+- அசுபாரகேல்சு
+- อันดับหน่อไม้ฝรั่ง
+- クサスギカズラ目
+- 天門冬目
+- 天门冬目
+- 비짜루목
 has_id_wikidata: Q26229
 title: Asparagales
 parent_taxon: '[[_Standards/WikiData/WD~monocots,78961]]'
@@ -10,8 +49,8 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 897479
 OmegaWiki_Defined_Meaning: 358558
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Asperge%20in%20bloei%20Asparagus%20officinalis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Asparagus%20officinalis0b.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Asperge%20in%20bloei%20Asparagus%20officinalis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Asparagus%20officinalis0b.jpg
 PAEnflowered_taxon_URL: https://www.paenflowered.org/apgii/asparagales
 EPPO_Code: 1ASGO
 P8189: 987007530396505171
@@ -21,8 +60,93 @@ taxon_name: Asparagales
 NBN_System_Key: NHMSYS0020824581
 taxon_common_name: 天门冬目
 MeSH_tree_code: B01.875.800.575.912.250.618.100
+dv_has_:
+  name_:
+    af: Asparagales
+    an: Asparagales
+    ar: هليونيات
+    arz: هليونيات
+    ast: Asparagales
+    az: Qulançarkimilər
+    be: Спаржакветныя
+    be-tarask: Спаржакветныя
+    bg: зайчесянкоцветни
+    bs: Asparagales
+    ca: Asparagals
+    ceb: Tanom nga asparagos
+    co: Asparagales
+    cs: chřestotvaré
+    cy: Asparagales
+    da: asparges-ordenen
+    de: Spargelartige
+    el: Ασπαραγώδη
+    en: Asparagales
+    eo: Asparagaloj
+    es: Asparagales
+    et: Asparilaadsed
+    eu: Asparagales
+    ext: Asparagales
+    fa: مارچوبهسانان
+    fi: Asparagales
+    fr: Asparagales
+    frr: Spargeloortagen
+    ga: Asparagales
+    gl: Asparagales
+    he: אספרגאים
+    hr: Šparogolike
+    hu: spárgavirágúak
+    hy: ծնեբեկածաղկավորներ
+    ia: Asparagales
+    id: Asparagales
+    ie: Asparagales
+    inh: Спаржа зизай
+    io: Asparagales
+    is: Laukabálkur
+    it: Asparagales
+    ja: クサスギカズラ目
+    kab: Tizikemt
+    ko: 비짜루목
+    ku: Koma çavmarkan
+    la: Asparagales
+    lb: Asparagales
+    lt: Smidriečiai
+    lv: Sparģeļu rinda
+    mk: шпаргловидни
+    mt: Asparagales
+    mul: Asparagales
+    nb: aspargesordenen
+    nl: Asparagales
+    nn: aspargesordenen
+    oc: Asparagales
+    pl: szparagowce
+    pnb: ستاوری
+    pt: Asparagales
+    pt-br: Asparagales
+    ro: Asparagales
+    ru: Спаржецветные
+    scn: Asparagales
+    sco: Asparagales
+    sl: Asparagales
+    sq: Asparagales
+    sr: Asparagales
+    sv: sparrisordningen
+    ta: அசுபாரகேல்சு
+    th: อันดับหน่อไม้ฝรั่ง
+    tr: Asparagales
+    uk: Холодкоцвіті
+    ur: ہلیونطب
+    vi: Bộ Măng tây
+    vls: Asparagales
+    vo: Asparagales
+    war: Asparagales
+    wuu: 天门冬目
+    yue: 天門冬目
+    za: Moegdenhmwnzdungh
+    zh: 天门冬目
+    zh-cn: 天门冬目
+    zh-hans: 天门冬目
+    zh-tw: 天門冬目
 ---
-
 # [[Asparagales]] 
 
 ![Muscari neglectum](Asparagales/Muscari_neglectum00793.jpg)

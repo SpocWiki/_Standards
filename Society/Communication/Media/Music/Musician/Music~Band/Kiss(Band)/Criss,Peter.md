@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Peter Criss
-  - Criss,Peter
+- Criss,Peter
+- Peter Criss
+- Питер Крис
+- Питер Крисс
+- Питър Крис
+- פיטר קריס
+- بيتر كريس
+- پیتر کریس
+- ピーター・クリス
+- 彼得·克里斯
+- 피터 크리스
+has_id_wikidata: Q137881
+dv_has_:
+  name_:
+    ar: بيتر كريس
+    arz: بيتر كريس
+    ast: Peter Criss
+    azb: پیتر کریس
+    bg: Питър Крис
+    ca: Peter Criss
+    cs: Peter Criss
+    cy: Peter Criss
+    da: Peter Criss
+    de: Peter Criss
+    eml: Peter Criss
+    en: Peter Criss
+    es: Peter Criss
+    fa: پیتر کریس
+    fi: Peter Criss
+    fr: Peter Criss
+    ga: Peter Criss
+    he: פיטר קריס
+    hu: Peter Criss
+    it: Peter Criss
+    ja: ピーター・クリス
+    ko: 피터 크리스
+    mk: Питер Крис
+    nb: Peter Criss
+    nl: Peter Criss
+    nn: Peter Criss
+    oc: Peter Criss
+    pap: Peter Criss
+    pl: Peter Criss
+    pt: Peter Criss
+    pt-br: Peter Criss
+    ru: Питер Крисс
+    sk: Peter Criss
+    sl: Peter Criss
+    sq: Peter Criss
+    sv: Peter Criss
+    tr: Peter Criss
+    zh: 彼得·克里斯
 ---
-
 > George Peter John Criscuola (born 1945-12-20), 
 > better known by his stage name **Peter Criss**, 
 > is a retired American musician, best known as a co-founder, original drummer, 

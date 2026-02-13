@@ -1,8 +1,38 @@
 ---
 aliases:
-  - pancake theorem
+- ham sandwich theorem
+- pancake theorem
+- sonkásszendvicstétel
+- Teorema del panino al prosciutto
+- teorema del sándwich de jamón
+- teoremo de ŝinkosandviĉo
+- théorème du sandwich au jambon
+- Định lý bánh mì dăm bông
+- θεώρημα του σάντουιτς ζαμπόν
+- Теорема о бутерброде
+- теорема про бутерброд
+- משפט כריך החזיר
+- ハムサンドイッチの定理
+- 火腿三明治定理
+- 햄 샌드위치 정리
+has_id_wikidata: Q730222
+dv_has_:
+  name_:
+    el: θεώρημα του σάντουιτς ζαμπόν
+    en: ham sandwich theorem
+    eo: teoremo de ŝinkosandviĉo
+    es: teorema del sándwich de jamón
+    fr: théorème du sandwich au jambon
+    he: משפט כריך החזיר
+    hu: sonkásszendvicstétel
+    it: Teorema del panino al prosciutto
+    ja: ハムサンドイッチの定理
+    ko: 햄 샌드위치 정리
+    ru: Теорема о бутерброде
+    uk: теорема про бутерброд
+    vi: Định lý bánh mì dăm bông
+    zh: 火腿三明治定理
 ---
-
 # [[Ham_Sandwich_Theorem]] 
 
 ## #has_/text_of_/abstract 

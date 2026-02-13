@@ -1,9 +1,175 @@
 ---
 aliases:
-  - Ctenophora
+- bordásmedúzák
+- Bukya nga sudlay
+- Ctenoforo
+- Ctenophora
+- Ctenophoro
+- Ctenòfors
+- Ctenóforos
+- Daraqlılar
+- Faqqee dhonoqqoo (Ctenophora)
+- Jélii łóóʼ bítsʼą́ą́ʼí
+- Kambhveljur
+- kammaneter
+- Kammloomad
+- kampamaneetit
+- Konyeza-vichanio
+- Ktenofori
+- Ktenoforo
+- Rabglaagen
+- Rebbekwalln
+- rebrače
+- Rebraši
+- Rebronoše
+- Rebrovky
+- Ribbegopler
+- ribbemaneter
+- Ribkwal
+- Ribkwalle
+- ribkwallen
+- Rippenquallen
+- Rëppequallen
+- Sứa lược
+- Taraklılar
+- Taroqlilar
+- Şaneyıni
+- Šukuočiai
+- żebropławy
+- žebernatky
+- Κτενοφόρα
+- грабневікі
+- гребенести
+- гребневики
+- Ескектілер
+- Жоноктор
+- Реброносци
+- реброноше
+- реброплави
+- սանրակիրներ
+- מסרקנים
+- شانهداران
+- مشطيات
+- ٽينوفورا
+- टेनोफोरा
+- টিনোফোরা
+- ਟੀਨੋਫੋਰਾ
+- சீப்பு இழுது
+- ಟಿನೊಫೋರಾ
+- ടീനോഫോറ
+- ทีโนฟอรา
+- სავარცხლურები
+- 有櫛動物
+- 栉水母
+- 栉水母动物门
+- 櫛水母
+- 櫛水母動物門
+- 유즐동물
 title: Ctenophora
+has_id_wikidata: Q102778
+dv_has_:
+  name_:
+    af: Ribkwal
+    an: Ctenophora
+    ar: مشطيات
+    arz: مشطيات
+    ast: Ctenophora
+    az: Daraqlılar
+    be: грабневікі
+    bg: гребенести
+    bn: টিনোফোরা
+    bs: Ctenophora
+    ca: Ctenòfors
+    ceb: Bukya nga sudlay
+    cs: žebernatky
+    da: Ribbegopler
+    de: Rippenquallen
+    diq: Şaneyıni
+    el: Κτενοφόρα
+    en: Ctenophora
+    eo: Ktenoforo
+    es: Ctenophora
+    et: Kammloomad
+    eu: Ctenophora
+    ext: Ctenophora
+    fa: شانهداران
+    fi: kampamaneetit
+    fr: Ctenophora
+    frr: Rabglaagen
+    ga: Ctenophora
+    gl: Ctenóforos
+    gv: Ctenophora
+    he: מסרקנים
+    hi: टेनोफोरा
+    hr: Rebraši
+    hu: bordásmedúzák
+    hy: սանրակիրներ
+    ia: Ctenophoro
+    id: Ctenophora
+    ie: Ctenophora
+    io: Ctenophora
+    is: Kambhveljur
+    it: Ctenophora
+    ja: 有櫛動物
+    jv: Ctenophora
+    ka: სავარცხლურები
+    kk: Ескектілер
+    kn: ಟಿನೊಫೋರಾ
+    ko: 유즐동물
+    ky: Жоноктор
+    la: Ctenophora
+    lb: Rëppequallen
+    lfn: Ctenoforo
+    li: Ribkwalle
+    lt: Šukuočiai
+    lv: Ktenofori
+    mk: Реброносци
+    ml: ടീനോഫോറ
+    ms: Ctenophora
+    mul: Ctenophora
+    nb: kammaneter
+    nds: Rippenquallen
+    nl: ribkwallen
+    nn: ribbemaneter
+    nv: Jélii łóóʼ bítsʼą́ą́ʼí
+    oc: Ctenophora
+    om: Faqqee dhonoqqoo (Ctenophora)
+    pa: ਟੀਨੋਫੋਰਾ
+    pl: żebropławy
+    pt: Ctenophora
+    pt-br: Ctenophora
+    ro: Ctenophora
+    ru: гребневики
+    sco: Ctenophora
+    sd: ٽينوفورا
+    sk: Rebrovky
+    sl: rebrače
+    sq: Ctenophora
+    sr: реброноше
+    sr-ec: Реброноше
+    sr-el: Rebronoše
+    sv: kammaneter
+    sw: Konyeza-vichanio
+    ta: சீப்பு இழுது
+    th: ทีโนฟอรา
+    tl: Ctenophora
+    tr: Taraklılar
+    uk: реброплави
+    uz: Taroqlilar
+    vi: Sứa lược
+    vls: Rebbekwalln
+    vo: Ctenophora
+    war: Ctenophora
+    wuu: 栉水母
+    yue: 櫛水母
+    zh: 栉水母动物门
+    zh-cn: 栉水母动物门
+    zh-hans: 栉水母动物门
+    zh-hant: 櫛水母
+    zh-hk: 櫛水母
+    zh-sg: 栉水母
+    zh-tw: 櫛水母動物門
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

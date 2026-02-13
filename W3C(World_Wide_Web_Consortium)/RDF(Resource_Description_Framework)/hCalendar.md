@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q306432
+---
+
 
 > **hCalendar** (short for HTML iCalendar) is a microformat standard 
 > for displaying a semantic (X)HTML representation 

@@ -1,9 +1,139 @@
 ---
 aliases:
-  - Moschidae
+- cérvols mesquers
+- Duzseqyangh
+- Họ Hươu xạ
+- Kabar
+- Kabarginiai
+- Karv-musk
+- Misk geyiğigiller
+- Moschidae
+- Moschus
+- Moschusdiarten
+- Moschustiere
+- Moskulo
+- moskushjort
+- Moskushjorter
+- muscfhia
+- muskusherten
+- Muskushirvlased
+- Myskhjortar
+- myskikauriit
+- Mósquidos
+- nefasesatoleem
+- Piżmowcowate
+- pézsmaszarvasfélék
+- Rusa kesturi
+- Siā-hiuⁿ-lo̍k
+- Кабарга
+- Кабаргавыя
+- Кабаргови
+- Кабарговые
+- Мошусни јелени
+- мошусни елени
+- Сыякуштар, тооргулар
+- איילי מושק
+- آهوی ختن
+- أيائل مسكية
+- ايائل مسكيه
+- कस्तुरी मृग
+- कस्तुरीमृग
+- कस्तूरिमृगः
+- कस्तूरी मृग
+- நானமா
+- కస్తూరి జింక
+- ಕಸ್ತೂರಿಮೃಗ
+- കസ്തൂരിമാൻ
+- วงศ์กวางชะมด
+- གླ་བ།
+- ကတိုးကောင်
+- ジャコウジカ
+- 麝
+- 麝科
+- 사향노루속
 title: Moschidae
+has_id_wikidata: Q229084
+dv_has_:
+  name_:
+    an: Moschidae
+    ar: أيائل مسكية
+    arz: ايائل مسكيه
+    ast: Moschidae
+    avk: nefasesatoleem
+    be-tarask: Кабаргавыя
+    bg: Кабаргови
+    bo: གླ་བ།
+    br: Karv-musk
+    ca: cérvols mesquers
+    ceb: Moschus
+    cs: Kabar
+    da: moskushjort
+    de: Moschustiere
+    en: Moschidae
+    eo: Moskulo
+    es: Moschidae
+    et: Muskushirvlased
+    eu: Moschidae
+    ext: Moschidae
+    fa: آهوی ختن
+    fi: myskikauriit
+    fr: Moschidae
+    frr: Moschusdiarten
+    ga: muscfhia
+    gl: Mósquidos
+    he: איילי מושק
+    hi: कस्तूरी मृग
+    hu: pézsmaszarvasfélék
+    ia: Moschidae
+    ie: Moschidae
+    io: Moschidae
+    it: Moschidae
+    ja: ジャコウジカ
+    kn: ಕಸ್ತೂರಿಮೃಗ
+    ko: 사향노루속
+    ky: Сыякуштар, тооргулар
+    la: Moschidae
+    lt: Kabarginiai
+    lzh: 麝
+    mai: कस्तुरी मृग
+    mk: мошусни елени
+    ml: കസ്തൂരിമാൻ
+    mr: कस्तुरीमृग
+    ms: Rusa kesturi
+    mul: Moschidae
+    my: ကတိုးကောင်
+    nan: Siā-hiuⁿ-lo̍k
+    nb: Moskushjorter
+    ne: कस्तुरी मृग
+    nl: muskusherten
+    oc: Moschus
+    pl: Piżmowcowate
+    pt: Moschidae
+    pt-br: Moschidae
+    ro: Moschidae
+    ru: Кабарговые
+    sa: कस्तूरिमृगः
+    sq: Moschidae
+    sr: Мошусни јелени
+    sv: Myskhjortar
+    ta: நானமா
+    te: కస్తూరి జింక
+    th: วงศ์กวางชะมด
+    tr: Misk geyiğigiller
+    uk: Кабарга
+    vi: Họ Hươu xạ
+    vo: Moschidae
+    war: Moschus
+    yue: 麝科
+    za: Duzseqyangh
+    zh: 麝科
+    zh-cn: 麝科
+    zh-hans: 麝科
+    zh-hant: 麝科
+    zh-hk: 麝科
+    zh-sg: 麝科
+    zh-tw: 麝科
 ---
-
 # Moschidae
 
 ## Musk deer 

@@ -1,17 +1,55 @@
 ---
 aliases:
-  - Pluto I
-  - Charon(Moon)
+- C'haron
+- Caront
+- Caront (satelite)
+- Caronte
+- Caronti
+- Carón
+- Charon
+- Charon(Moon)
+- Charonas
+- Cháron
+- Dayaxa bluto
+- Haron
+- Harons
+- Karono
+- Karonte
+- Kharon
+- Pluto I
+- Xaron
+- Χάρων
+- Харон
+- Քարոն
+- כארון
+- شارون
+- شارۆن
+- شیرون
+- کارون
+- चारोन
+- शैरन
+- ক্যারন
+- ਸ਼ੈਰਨ
+- சரோன்
+- ഷാരോൺ
+- แครอน
+- ချာရွန်
+- ქარონი
+- カロン
+- 冥卫一
+- 冥衛一
+- 冥衞一
+- 카론
 has_id_wikidata: Q6604
-instance_of: "[[_Standards/WikiData/WD~moon_of_Pluto,184246]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~James_W._Christy,315845]]"
-type_of_orbit: "[[_Standards/WikiData/WD~hadeocentric_orbit,3884961]]"
+instance_of: '[[_Standards/WikiData/WD~moon_of_Pluto,184246]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_W._Christy,315845]]'
+type_of_orbit: '[[_Standards/WikiData/WD~hadeocentric_orbit,3884961]]'
 part_of:
-  - "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
-  - "[[_Standards/WikiData/WD~Pluto_System,108855214]]"
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~United_States_Naval_Observatory_Flagstaff_Station,4439554]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Pluto,339]]"
-named_after: "[[_Standards/WikiData/WD~Charon,6612]]"
+- '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
+- '[[_Standards/WikiData/WD~Pluto_System,108855214]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~United_States_Naval_Observatory_Flagstaff_Station,4439554]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Pluto,339]]'
+named_after: '[[_Standards/WikiData/WD~Charon,6612]]'
 absolute_magnitude: 1
 orbital_eccentricity: 0.00005
 mass: 1.52
@@ -32,25 +70,122 @@ IPA_transcription: ˈçaːʁɔn
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Charon.ogg
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Charon,6604|WD~Charon,6604]]"
-    - "[[/_Standards/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon)|Charon(Moon)]]"
-    - "[[/_public/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).public|Charon(Moon).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).internal|Charon(Moon).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).protect|Charon(Moon).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).private|Charon(Moon).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).personal|Charon(Moon).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).secret|Charon(Moon).secret]]"
+  - '[[../../../WikiData/WD~Charon,6604|WD~Charon,6604]]'
+  - '[[/_Standards/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon)|Charon(Moon)]]'
+  - '[[/_public/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).public|Charon(Moon).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).internal|Charon(Moon).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).protect|Charon(Moon).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).private|Charon(Moon).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).personal|Charon(Moon).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).secret|Charon(Moon).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Charon,6604|WD~Charon,6604]]"
-  - "[[/_Standards/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon)|Charon(Moon)]]"
-  - "[[/_public/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).public|Charon(Moon).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).internal|Charon(Moon).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).protect|Charon(Moon).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).private|Charon(Moon).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).personal|Charon(Moon).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).secret|Charon(Moon).secret]]"
+- '[[../../../WikiData/WD~Charon,6604|WD~Charon,6604]]'
+- '[[/_Standards/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon)|Charon(Moon)]]'
+- '[[/_public/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).public|Charon(Moon).public]]'
+- '[[/_internal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).internal|Charon(Moon).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).protect|Charon(Moon).protect]]'
+- '[[/_private/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).private|Charon(Moon).private]]'
+- '[[/_personal/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).personal|Charon(Moon).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Pluto(Planet)/Charon(Moon).secret|Charon(Moon).secret]]'
+dv_has_:
+  name_:
+    af: Charon
+    an: Caront (satelite)
+    ar: شارون
+    arz: شارون
+    az: Xaron
+    azb: شارون
+    be: Харон
+    be-tarask: Харон
+    bg: Харон
+    bn: ক্যারন
+    br: C'haron
+    bs: Haron
+    ca: Caront
+    ckb: شارۆن
+    co: Caronte
+    cs: Charon
+    cy: Charon
+    da: Charon
+    de: Charon
+    de-ch: Charon
+    el: Χάρων
+    en: Charon
+    en-ca: Charon
+    en-gb: Charon
+    eo: Karono
+    es: Caronte
+    et: Charon
+    eu: Karonte
+    fa: کارون
+    fi: Kharon
+    fr: Charon
+    ga: Carón
+    gl: Caronte
+    gv: Charon
+    he: כארון
+    hi: शैरन
+    hif: Charon
+    hr: Haron
+    hu: Charon
+    hy: Քարոն
+    id: Charon
+    it: Caronte
+    ja: カロン
+    jv: Charon
+    ka: ქარონი
+    ko: 카론
+    kv: Харон
+    kw: Charon
+    la: Charon
+    lmo: Caronte
+    lt: Charonas
+    lv: Harons
+    lzh: 冥衛一
+    mk: Харон
+    ml: ഷാരോൺ
+    mr: चारोन
+    ms: Charon
+    mul: Charon
+    mwl: Caronte
+    my: ချာရွန်
+    nan: Charon
+    nb: Charon
+    nds: Charon
+    nl: Charon
+    nn: Kharon
+    oc: Charon
+    os: Харон
+    pa: ਸ਼ੈਰਨ
+    pam: Charon
+    pl: Charon
+    pt: Caronte
+    pt-br: Caronte
+    ro: Charon
+    ru: Харон
+    scn: Caronti
+    sco: Charon
+    sh: Haron
+    sk: Cháron
+    sl: Haron
+    so: Dayaxa bluto
+    sr: Харон
+    sr-ec: Харон
+    sr-el: Haron
+    sv: Charon
+    ta: சரோன்
+    th: แครอน
+    tr: Charon
+    uk: Харон
+    ur: شیرون
+    uz: Xaron
+    vi: Charon
+    war: Charon
+    wuu: 冥卫一
+    yue: 冥衞一
+    zea: Charon
+    zh: 冥衛一
 ---
-
 # [[Charon(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Charon,6604|WD~Charon,6604]] 

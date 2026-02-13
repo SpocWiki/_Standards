@@ -1,7 +1,8 @@
 ---
 aliases:
-  - Cheek to Cheek
-  - Cheek_to_Cheek
+- Cheek to Cheek
+- Cheek_to_Cheek
+- チーク・トゥ・チーク
 has_id_wikidata: Q3351931
 performer: '[[_Standards/WikiData/WD~Fred_Astaire,100937]]'
 lyricist: '[[_Standards/WikiData/WD~Irving_Berlin,128746]]'
@@ -17,8 +18,35 @@ form_of_creative_work: '[[_Standards/WikiData/WD~song,7366]]'
 ISWC: T-900.755.439-4
 title: Cheek to Cheek
 publication_date: 1935-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ast: Cheek to Cheek
+    ca: Cheek to Cheek
+    da: Cheek to Cheek
+    de: Cheek to Cheek
+    en: Cheek to Cheek
+    es: Cheek to Cheek
+    eu: Cheek to Cheek
+    fi: Cheek to Cheek
+    fr: Cheek to Cheek
+    he: Cheek to Cheek
+    hu: Cheek to Cheek
+    it: Cheek to Cheek
+    ja: チーク・トゥ・チーク
+    mul: Cheek to Cheek
+    nb: Cheek to Cheek
+    nl: Cheek to Cheek
+    nn: Cheek to Cheek
+    pl: Cheek to Cheek
+    pt: Cheek to Cheek
+    ro: Cheek to Cheek
+    ru: Cheek to Cheek
+    se: Cheek to Cheek
+    sq: Cheek to Cheek
+    sv: Cheek to Cheek
+    tg: Cheek to Cheek
+    tr: Cheek to Cheek
 ---
-
 # [[Cheek_to_Cheek]] 
 
 #is_/same_as :: [[WD~Cheek_to_Cheek,3351931]] 

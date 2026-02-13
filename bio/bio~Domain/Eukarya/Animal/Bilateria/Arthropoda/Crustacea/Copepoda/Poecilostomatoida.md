@@ -1,9 +1,54 @@
 ---
 aliases:
-  - Poecilostomatoida
+- Poecilostomatoida
+- 杯口水蚤目
 title: Poecilostomatoida
+has_id_wikidata: Q2344407
+dv_has_:
+  name_:
+    an: Poecilostomatoida
+    ast: Poecilostomatoida
+    bg: Poecilostomatoida
+    ca: Poecilostomatoida
+    ceb: Poecilostomatoida
+    da: Poecilostomatoida
+    de: Poecilostomatoida
+    en: Poecilostomatoida
+    eo: Poecilostomatoida
+    es: Poecilostomatoida
+    eu: Poecilostomatoida
+    ext: Poecilostomatoida
+    fi: Poecilostomatoida
+    fr: Poecilostomatoida
+    ga: Poecilostomatoida
+    gl: Poecilostomatoida
+    ia: Poecilostomatoida
+    ie: Poecilostomatoida
+    io: Poecilostomatoida
+    it: Poecilostomatoida
+    la: Poecilostomatoida
+    mul: Poecilostomatoida
+    nb: Poecilostomatoida
+    nl: Poecilostomatoida
+    nn: Poecilostomatoida
+    oc: Poecilostomatoida
+    pl: Poecilostomatoida
+    pt: Poecilostomatoida
+    pt-br: Poecilostomatoida
+    ro: Poecilostomatoida
+    ru: Poecilostomatoida
+    sq: Poecilostomatoida
+    sv: Poecilostomatoida
+    tr: Poecilostomatoida
+    uk: Poecilostomatoida
+    vi: Poecilostomatoida
+    vo: Poecilostomatoida
+    war: Poecilostomatoida
+    zh: 杯口水蚤目
+    zh-cn: 杯口水蚤目
+    zh-hans: 杯口水蚤目
+    zh-tw: 杯口水蚤目
 ---
-
 # [[Poecilostomatoida]] 
 ![Sapphirina_darwinii](Poecilostomatoida/Sapphirina_darwinii.jpg))  ![Oncaea_venusta](Poecilostomatoida/Oncaea_venusta.jpg) 
 

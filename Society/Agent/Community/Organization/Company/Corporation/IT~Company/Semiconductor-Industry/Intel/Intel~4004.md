@@ -1,3 +1,80 @@
+---
+has_id_wikidata: Q205509
+dv_has_:
+  name_:
+    ar: إنتل 4004
+    az: Intel 4004
+    bg: Intel 4004
+    bn: ইন্টেল ৪০০৪
+    ca: Intel 4004
+    cs: Intel 4004
+    de: Intel 4004
+    el: Intel 4004
+    en: Intel 4004
+    en-ca: Intel 4004
+    en-gb: Intel 4004
+    eo: Intel 4004
+    es: Intel 4004
+    et: Intel 4004
+    fa: اینتل ۴۰۰۴
+    fi: Intel 4004
+    fr: Intel 4004
+    ga: Intel 4004
+    gl: Intel 4004
+    he: אינטל 4004
+    hr: Intel 4004
+    hu: Intel 4004
+    id: Intel 4004
+    is: Intel 4004
+    it: Intel 4004
+    ja: Intel 4004
+    ko: 인텔 4004
+    la: Intel 4004
+    lmo: Intel 4004
+    lt: Intel 4004
+    ml: ഇന്റൽ 4004
+    ms: Intel 4004
+    mul: Intel 4004
+    nb: Intel 4004
+    nl: Intel 4004
+    nn: Intel 4004
+    oc: Intel 4004
+    pa: ਇੰਟਲ 4004
+    pl: Intel 4004
+    pt: Intel 4004
+    ro: Intel 4004
+    ru: 4004
+    scn: Intel 4004
+    sk: Intel 4004
+    sr: Intel 4004
+    sr-ec: Интел 4004
+    sr-el: Intel 4004
+    sv: Intel 4004
+    sw: Intel 4004
+    tr: Intel 4004
+    uk: Intel 4004
+    vec: Intel 4004
+    vi: Intel 4004
+    wuu: Intel 4004
+    zh: Intel 4004
+    zh-cn: Intel 4004
+    zh-hans: Intel 4004
+    zh-hant: Intel 4004
+    zh-hk: Intel 4004
+    zh-sg: Intel 4004
+    zh-tw: Intel 4004
+aliases:
+- 4004
+- Intel 4004
+- Интел 4004
+- אינטל 4004
+- إنتل 4004
+- اینتل ۴۰۰۴
+- ইন্টেল ৪০০৪
+- ਇੰਟਲ 4004
+- ഇന്റൽ 4004
+- 인텔 4004
+---
 # [[Intel~4004]] 
 
 

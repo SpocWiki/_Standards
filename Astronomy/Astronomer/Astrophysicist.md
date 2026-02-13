@@ -1,68 +1,197 @@
 ---
 aliases:
-  - Astrophysiker
-  - Astrophysicist
+- ahli astrofisika
+- ahli astrofizik
+- astroffisegydd
+- astrofisiciste
+- astrofisico
+- astrofisikari
+- astrofizician
+- astrofizik
+- astrofizikas
+- astrofizikisto
+- astrofizikour
+- astrofizikçi
+- astrofizičar
+- astrofiziķis
+- astrofizyk
+- astrofiżiku
+- astrofysicus
+- astrofysihkar
+- astrofysikar
+- astrofysiker
+- astrofysikkár
+- astrofyysikko
+- astrofyzik
+- astrofìzego
+- astrofísic
+- astrofísico
+- astrofísicu
+- astrofüüsik
+- astropheesicist
+- astrophysicien ou astrophysicienne
+- Astrophysicist
+- astrophysico
+- astrophysicus
+- Astrophysiker
+- astropisiko
+- asztrofizikus
+- fishigagh rollageagh
+- reul-fhiosaigiche
+- réaltfhisiceoir
+- Stêrfizîknas
+- αστροφυσικός
+- астрафізік
+- астрафізык
+- астрофізик
+- астрофизик
+- астрофизичар
+- աստղաֆիզիկոս
+- אסטרופיזיקאי
+- فيزيائي فلكي
+- ماہر فلکی طبیعیات
+- வானியற்பியலாளர்
+- ასტროფიზიკოსი
+- 天体物理学家
+- 天体物理学者
+- 天體物理學家
+- 천체물리학자
 has_id_wikidata: Q752129
 subclass_of:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~astrophysics,37547]]"
-field_of_work: "[[_Standards/WikiData/WD~astrophysics,37547]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+field_of_work: '[[_Standards/WikiData/WD~astrophysics,37547]]'
 ISCO_08_occupation_class: 2111
 ISCO_88_occupation_class: 2111
 female_form_of_label:
-  - astrofisica
-  - אסטרופיזיקאית
-  - Astrophysikerin
-  - astrophysicienne
-  - astrofísica
-  - astrofyzička
-  - astrofísica
-  - astrofísica
-  - astrofísica
-  - astrofysica
-  - astrofísica
-  - astrofizikistino
-  - astrofizičarka
-  - عالمة فيزياء فلكية
-  - astrofizikourez
-  - Astrophysikerin
-  - astrofizikė
-  - astrofiziciană
-  - астрофизичарка
-  - астрофізикиня
+- astrofisica
+- אסטרופיזיקאית
+- Astrophysikerin
+- astrophysicienne
+- astrofísica
+- astrofyzička
+- astrofísica
+- astrofísica
+- astrofísica
+- astrofysica
+- astrofísica
+- astrofizikistino
+- astrofizičarka
+- عالمة فيزياء فلكية
+- astrofizikourez
+- Astrophysikerin
+- astrofizikė
+- astrofiziciană
+- астрофизичарка
+- астрофізикиня
 male_form_of_label:
-  - astrofisico
-  - Astrophysiker
-  - astrophysicien
-  - astrofizikour
-  - Astrophysiker
-  - astrofizikas
+- astrofisico
+- Astrophysiker
+- astrophysicien
+- astrofizikour
+- Astrophysiker
+- astrofizikas
 Commons_category: Astrophysicists
 image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27astrophysicienne%20C%C3%A9cile%20Renault.jpg
 P8189: 987007295071805200
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~astrophysicist,752129]]"
-    - "[[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]]"
-    - "[[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]]"
-    - "[[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]]"
-    - "[[/_protect/Astronomy/Astronomer/Astrophysicist.protect|Astrophysicist.protect]]"
-    - "[[/_private/Astronomy/Astronomer/Astrophysicist.private|Astrophysicist.private]]"
-    - "[[/_personal/Astronomy/Astronomer/Astrophysicist.personal|Astrophysicist.personal]]"
-    - "[[/_secret/Astronomy/Astronomer/Astrophysicist.secret|Astrophysicist.secret]]"
+  - '[[_Standards/WikiData/WD~astrophysicist,752129]]'
+  - '[[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]]'
+  - '[[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]]'
+  - '[[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]]'
+  - '[[/_protect/Astronomy/Astronomer/Astrophysicist.protect|Astrophysicist.protect]]'
+  - '[[/_private/Astronomy/Astronomer/Astrophysicist.private|Astrophysicist.private]]'
+  - '[[/_personal/Astronomy/Astronomer/Astrophysicist.personal|Astrophysicist.personal]]'
+  - '[[/_secret/Astronomy/Astronomer/Astrophysicist.secret|Astrophysicist.secret]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~astrophysicist,752129]]"
-  - "[[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]]"
-  - "[[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]]"
-  - "[[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]]"
-  - "[[/_protect/Astronomy/Astronomer/Astrophysicist.protect|Astrophysicist.protect]]"
-  - "[[/_private/Astronomy/Astronomer/Astrophysicist.private|Astrophysicist.private]]"
-  - "[[/_personal/Astronomy/Astronomer/Astrophysicist.personal|Astrophysicist.personal]]"
-  - "[[/_secret/Astronomy/Astronomer/Astrophysicist.secret|Astrophysicist.secret]]"
+- '[[_Standards/WikiData/WD~astrophysicist,752129]]'
+- '[[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]]'
+- '[[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]]'
+- '[[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]]'
+- '[[/_protect/Astronomy/Astronomer/Astrophysicist.protect|Astrophysicist.protect]]'
+- '[[/_private/Astronomy/Astronomer/Astrophysicist.private|Astrophysicist.private]]'
+- '[[/_personal/Astronomy/Astronomer/Astrophysicist.personal|Astrophysicist.personal]]'
+- '[[/_secret/Astronomy/Astronomer/Astrophysicist.secret|Astrophysicist.secret]]'
+dv_has_:
+  name_:
+    ar: فيزيائي فلكي
+    ast: astrofísicu
+    az: astrofizik
+    be: астрафізік
+    be-tarask: астрафізык
+    bg: астрофизик
+    br: astrofizikour
+    ca: astrofísic
+    cs: astrofyzik
+    cy: astroffisegydd
+    da: astrofysiker
+    de: Astrophysiker
+    de-at: Astrophysiker
+    de-ch: Astrophysiker
+    el: αστροφυσικός
+    en: astrophysicist
+    en-gb: astrophysicist
+    eo: astrofizikisto
+    es: astrofísico
+    et: astrofüüsik
+    eu: astrofisikari
+    fi: astrofyysikko
+    fr: astrophysicien ou astrophysicienne
+    ga: réaltfhisiceoir
+    gd: reul-fhiosaigiche
+    gl: astrofísico
+    gsw: Astrophysiker
+    gv: fishigagh rollageagh
+    he: אסטרופיזיקאי
+    hu: asztrofizikus
+    hy: աստղաֆիզիկոս
+    ia: astrophysico
+    id: ahli astrofisika
+    it: astrofisico
+    ja: 天体物理学者
+    ka: ასტროფიზიკოსი
+    ko: 천체물리학자
+    ku: Stêrfizîknas
+    la: astrophysicus
+    lb: Astrophysiker
+    lfn: astrofisiciste
+    lt: astrofizikas
+    lv: astrofiziķis
+    mk: астрофизичар
+    ms: ahli astrofizik
+    mt: astrofiżiku
+    nb: astrofysiker
+    nl: astrofysicus
+    nn: astrofysikar
+    os: астрофизик
+    pl: astrofizyk
+    pt: astrofísico
+    ro: astrofizician
+    ru: астрофизик
+    sco: astropheesicist
+    se: astrofysihkar
+    sk: astrofyzik
+    sl: astrofizik
+    smn: astrofysikkár
+    sr: астрофизичар
+    sr-ec: астрофизичар
+    sr-el: astrofizičar
+    sv: astrofysiker
+    ta: வானியற்பியலாளர்
+    tl: astropisiko
+    tr: astrofizikçi
+    tt: астрофизик
+    uk: астрофізик
+    ur: ماہر فلکی طبیعیات
+    vec: astrofìzego
+    yue: 天體物理學家
+    zh: 天体物理学家
+    zh-cn: 天体物理学家
+    zh-hant: 天體物理學家
 ---
-
 # [[Astrophysicist]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~astrophysicist,752129]] 

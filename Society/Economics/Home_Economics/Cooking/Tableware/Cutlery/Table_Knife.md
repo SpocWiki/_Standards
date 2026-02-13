@@ -1,4 +1,67 @@
-
+---
+has_id_wikidata: Q3130638
+dv_has_:
+  name_:
+    ar: سكين المائدة
+    be-tarask: сталовы нож
+    ca: ganivet de taula
+    cs: příborový nůž
+    csb: Prosti nóż
+    da: Bordkniv
+    de: Tafelmesser
+    en: table knife
+    eo: manĝa tranĉilo
+    es: cuchillo de mesa
+    et: lauanuga
+    fa: چاقوی رومیزی
+    fr: couteau de table
+    hy: դանակ
+    it: coltello da tavola
+    ja: テーブルナイフ
+    ka: მაგიდის დანა
+    ko: 테이블 나이프
+    nb: bordkniv
+    nl: tafelmes
+    pl: nóż kuchenny
+    ru: столовый нож
+    se: beavdeniibi
+    sje: bävvdenijjbe
+    sl: namizni nož
+    sma: jonnge
+    smj: jåŋŋgå
+    sv: bordskniv
+    yue: 餐刀
+    zh: 餐刀
+aliases:
+- beavdeniibi
+- bordkniv
+- bordskniv
+- bävvdenijjbe
+- coltello da tavola
+- couteau de table
+- cuchillo de mesa
+- ganivet de taula
+- jonnge
+- jåŋŋgå
+- lauanuga
+- manĝa tranĉilo
+- namizni nož
+- nóż kuchenny
+- Prosti nóż
+- příborový nůž
+- table knife
+- tafelmes
+- Tafelmesser
+- сталовы нож
+- столовый нож
+- դանակ
+- سكين المائدة
+- چاقوی رومیزی
+- მაგიდის დანა
+- テーブルナイフ
+- 餐刀
+- 테이블 나이프
+---
 # [[Table_Knife]] 
 
 #is_a :: [[../../../../../../Technology/Tool/Mechanical_Tool/Hand_Tool/Knife]] 

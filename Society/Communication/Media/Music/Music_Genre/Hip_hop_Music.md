@@ -1,19 +1,89 @@
 ---
-has_time_started: 1973-08-11 
+has_time_started: 1973-08-11
 aliases:
-  - Hip_hop_Music
-  - Hip hop Music
+- ceol hip hap
+- egwu hip hop
+- hip hop
+- hip hop -musihkka
+- hip hop -musikk
+- hip hop -muusik
+- Hip hop Music
+- hip hop musika
+- Hip-hop
+- Hip-hop glazba
+- hip-hop müziği
+- Hip-hop-musiek
+- hiphop
+- hiphopas
+- hiphopo
+- hiphops
+- hipp hopp
+- hipp-hopp
+- Hip_hop_Music
+- Hypphopp drēam
+- Hɩpɔpʊ
+- Ip-ap myuuzik
+- kalama musi Ipope
+- kiaull hip hop
+- Musica hiphop
+- Musikang hip hop
+- Muziki wa hip hop
+- muzîka hîp-hop
+- música hip hop
+- nhạc hip hop
+- Orin hip hop
+- Rap
+- Reps
+- χιπ χοπ
+- Гіп-гоп
+- гіпгоп
+- хіп-хоп
+- хип хоп
+- хип-хоп
+- Хип-хоп (мусăк жанрĕ)
+- хип-хоп музика
+- ҳип-ҳоп
+- һип-һоп
+- հիփ հոփ
+- Հիփ-հոփ
+- היפ האפ
+- מוזיקת היפ הופ
+- موسیقی هیپ هاپ
+- مۆسیقای ھیپ ھۆپ
+- هيب هوب
+- هيپ هوپ
+- هیپ هاپ
+- هیپ هاپ موزیک
+- ہپ ہاپ موسیقی
+- हिप हॉप संगीत
+- হিপ হপ সঙ্গীত
+- হিপ-হপ
+- ਹਿਪ ਹੌਪ ਸੰਗੀਤ
+- ஹிப் ஹாப்
+- హిప్ హాప్ సంగీతం
+- ಹಿಪ್ ಹಾಪ್ ಸಂಗೀತ
+- റാപ്പ്
+- හිප් හොප් සංගීතය
+- ฮิปฮอป
+- ဟစ်ဟော့ ဂီတ
+- ჰიპ ჰოპი
+- ჰიპ-ჰოპი
+- ሂፕ ሆፕ
+- ヒップホップ・ミュージック
+- 嘻哈音乐
+- 嘻哈音樂
+- 힙합 음악
 has_id_wikidata: Q11401
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Afrika_Bambaataa,316872]]'
-  - '[[_Standards/WikiData/WD~DJ_Kool_Herc,458787]]'
-  - '[[_Standards/WikiData/WD~Grandmaster_Flash,506900]]'
+- '[[_Standards/WikiData/WD~Afrika_Bambaataa,316872]]'
+- '[[_Standards/WikiData/WD~DJ_Kool_Herc,458787]]'
+- '[[_Standards/WikiData/WD~Grandmaster_Flash,506900]]'
 subclass_of: '[[_Standards/WikiData/WD~popular_music,373342]]'
 based_on: '[[_Standards/WikiData/WD~African_American_music,388207]]'
 different_from:
-  - '[[_Standards/WikiData/WD~hip_hop_culture,1132127]]'
-  - '[[_Standards/WikiData/WD~rapping,6010]]'
+- '[[_Standards/WikiData/WD~hip_hop_culture,1132127]]'
+- '[[_Standards/WikiData/WD~rapping,6010]]'
 part_of: '[[_Standards/WikiData/WD~hip_hop_culture,1132127]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Hip_hop,8289286]]'
 practiced_by: '[[_Standards/WikiData/WD~hip_hop_musician,100493654]]'
@@ -24,21 +94,162 @@ IAB_code: 355
 OmegaWiki_Defined_Meaning: 7538
 inception: 1973-08-11T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20Bambaataa%20and%20DJ%20Yutaka%20%282004%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dj%20Grandmaster%20Flash-01-mika.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dj%20Kool%20Herc.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/KRS-One%20by%20Wade%20Grayson.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Afrika%20Bambaataa%20and%20DJ%20Yutaka%20%282004%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dj%20Grandmaster%20Flash-01-mika.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dj%20Kool%20Herc.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/KRS-One%20by%20Wade%20Grayson.jpg
 subreddit: hiphopheads
 Commons_category: Hip hop music
 exact_match:
-  - http://cv.iptc.org/newscodes/subjectcode/01011007
-  - http://service.ddex.net/dd/DD-AVS-001/dd/ddex_HipHop
+- http://cv.iptc.org/newscodes/subjectcode/01011007
+- http://service.ddex.net/dd/DD-AVS-001/dd/ddex_HipHop
 equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_HipHop
 Google_Doodle: 44th-anniversary-of-the-birth-of-hip-hop
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/HIP-HOP_REP.html
 native_label: Hip-hop
+dv_has_:
+  name_:
+    af: Hip-hop-musiek
+    am: ሂፕ ሆፕ
+    an: hip hop
+    ang: Hypphopp drēam
+    ar: هيب هوب
+    ary: هيپ هوپ
+    arz: هيپ هوپ
+    as: হিপ-হপ
+    ast: Hip hop
+    az: hip-hop
+    azb: هیپ هاپ موزیک
+    ba: Хип-хоп
+    bar: Hip Hop
+    be: хіп-хоп
+    be-tarask: гіп-гоп
+    bg: хип-хоп
+    bn: হিপ হপ সঙ্গীত
+    br: Hip hop
+    bs: hip-hop
+    ca: rap
+    ckb: مۆسیقای ھیپ ھۆپ
+    cs: hip hop
+    cv: Хип-хоп (мусăк жанрĕ)
+    cy: hip hop
+    da: hiphop
+    de: Hip-Hop
+    el: χιπ χοπ
+    en: hip-hop
+    en-gb: hip hop
+    eo: hiphopo
+    es: hip-hop
+    et: hiphop
+    eu: hip hop musika
+    fa: موسیقی هیپ هاپ
+    fi: rap
+    fo: Hip hop
+    fr: hip-hop
+    fy: Hiphop
+    ga: ceol hip hap
+    gan: 嘻哈音樂
+    gcr: Hip-hop
+    gd: Hip-hop
+    gl: música hip hop
+    gn: hip hop
+    gsw: Hip-Hop
+    gv: kiaull hip hop
+    he: מוזיקת היפ הופ
+    hi: हिप हॉप संगीत
+    hif: hip hop
+    hr: Hip-hop glazba
+    hu: hiphop
+    hy: հիփ հոփ
+    hyw: Հիփ-հոփ
+    ia: Hip hop
+    id: hip hop
+    ig: egwu hip hop
+    io: Hip hop
+    is: hipp hopp
+    it: hip hop
+    ja: ヒップホップ・ミュージック
+    jam: Ip-ap myuuzik
+    ka: ჰიპ ჰოპი
+    kbp: Hɩpɔpʊ
+    ki: Hiphop
+    kk: Хип-хоп
+    kn: ಹಿಪ್ ಹಾಪ್ ಸಂಗೀತ
+    ko: 힙합 음악
+    ku: muzîka hîp-hop
+    ku-latn: muzîka hîp-hop
+    kw: hipp-hopp
+    la: Musica hiphop
+    lb: Hip-Hop
+    lt: hiphopas
+    lv: hiphops
+    mk: хип-хоп музика
+    ml: റാപ്പ്
+    ms: hip hop
+    mt: hip hop
+    mwl: Hip hop
+    my: ဟစ်ဟော့ ဂီတ
+    mzn: هیپ هاپ
+    nan: Hip hop
+    nb: hiphop
+    nds: Hip-Hop
+    nds-nl: hiphop
+    nl: hiphop
+    nn: hiphop
+    oc: Hip-hop
+    os: хип-хоп
+    pa: ਹਿਪ ਹੌਪ ਸੰਗੀਤ
+    pap: hip hop
+    pap-aw: hip hop
+    pl: hip-hop
+    pnb: ہپ ہاپ موسیقی
+    pt: hip hop
+    pt-br: Hip hop
+    rmy: Hip hop
+    ro: hip-hop
+    ru: хип-хоп
+    rue: Гіп-гоп
+    sco: hip hop
+    se: hip hop -musihkka
+    sgs: Reps
+    sh: Hip hop
+    si: හිප් හොප් සංගීතය
+    sk: hip-hop
+    sl: hiphop
+    smn: hip hop -muusik
+    sms: hip hop -musikk
+    sq: Hip hop
+    sr: хип хоп
+    sv: hiphop
+    sw: Muziki wa hip hop
+    ta: ஹிப் ஹாப்
+    te: హిప్ హాప్ సంగీతం
+    tg: ҳип-ҳоп
+    th: ฮิปฮอป
+    tk: Rap
+    tl: Musikang hip hop
+    tly: Hip-hop
+    tn: Hip-hop
+    tok: kalama musi Ipope
+    tr: hip-hop müziği
+    tt: һип-һоп
+    tt-cyrl: һип-һоп
+    udm: хип-хоп
+    uk: гіпгоп
+    ur: ہپ ہاپ موسیقی
+    uz: hip-hop
+    vec: hip hop
+    vi: nhạc hip hop
+    war: Hip hop
+    wo: Hip-hop
+    wuu: 嘻哈音乐
+    xmf: ჰიპ-ჰოპი
+    yi: היפ האפ
+    yo: Orin hip hop
+    yue: Hip hop
+    zh: 嘻哈音樂
+    zh-hant: 嘻哈音樂
 ---
-
 # [[Hip_hop_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Hip_hop_music,11401|WD~Hip_hop_music,11401]] 

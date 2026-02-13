@@ -1,21 +1,82 @@
 ---
 aliases:
-  - Papuan languages
-  - LangFamily~Papuan
+- bahasa-bahasa Papua
+- Basa-basa Papua
+- Harsunan Papuan
+- języki papuaskie
+- LangFamily~Papuan
+- langues papoues
+- Lengas papós
+- Lenghe papuan-e
+- lenguas papúes
+- Linguae Papuanae
+- Linguas papuan
+- Linguas papúas
+- lingue papuasiche
+- llengües papús
+- Llingües papúes
+- Lugha za Kipapua
+- Línguas papuas
+- ngữ hệ Papua
+- Paapua keeled
+- Papoeas
+- Papoeataelen
+- Papoeatalen
+- Papua dilleri
+- Papua dilləri
+- Papua lingvaro
+- Papua-Sprachen
+- Papua-Sproche
+- Papuaans spriiken
+- papuakielet
+- Papuan
+- Papuan languages
+- papuanska språk
+- papuanske språk
+- Papuanski jezici
+- papuanščina
+- Papuas tillari
+- papuaspråk
+- Papuasu valodas
+- Papuasų kalbos
+- papuánske jazyky
+- papuánské jazyky
+- pápua nyelvek
+- sasao a Papuano
+- Vondrom-piteny papoa
+- yezhoù papouek
+- łéngue papue
+- Παπούα γλώσσες
+- папуански јазици
+- Папуас тилдери
+- Папуаскія мовы
+- папуасские языки
+- Папуаські мови
+- Պապուասյան լեզուներ
+- שפות פפואניות
+- زبانهای پاپوآیی
+- لغات بابوا
+- پاپوائی زبانیں
+- กลุ่มภาษาปาปัว
+- პაპუასური ნინეფი
+- パプア諸語
+- 巴布亚诸语言
+- 巴布亞諸語言
+- 파푸아 제어
 has_id_wikidata: Q236425
 indigenous_to:
-  - '[[_Standards/WikiData/WD~Papuan_people,424129]]'
-  - '[[_Standards/WikiData/WD~North_Halmahera_peoples,4412611]]'
-  - '[[_Standards/WikiData/WD~Alor_Pantar_peoples,86733085]]'
+- '[[_Standards/WikiData/WD~Papuan_people,424129]]'
+- '[[_Standards/WikiData/WD~North_Halmahera_peoples,4412611]]'
+- '[[_Standards/WikiData/WD~Alor_Pantar_peoples,86733085]]'
 instance_of: '[[_Standards/WikiData/WD~language_group,941501]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 has_list: '[[_Standards/WikiData/WD~list_of_Papuan_languages,4435636]]'
 subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
 country:
-  - '[[_Standards/WikiData/WD~Timor_Leste,574]]'
-  - '[[_Standards/WikiData/WD~Solomon_Islands,685]]'
-  - '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
-  - '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Timor_Leste,574]]'
+- '[[_Standards/WikiData/WD~Solomon_Islands,685]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
 number_of_speakers_writers_or_signers: 4600000
 ISO_639_5_code: paa
 IETF_language_tag: paa
@@ -25,8 +86,79 @@ exact_match: http://publications.europa.eu/resource/authority/language/PAA
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PAPUASSKIE_YAZIKI.html
 Commons_category: Papuan languages
 GOST_7_75_97_code: паа 532
+dv_has_:
+  name_:
+    af: Papoeas
+    ar: لغات بابوا
+    ast: Llingües papúes
+    az: Papua dilləri
+    be: Папуаскія мовы
+    be-tarask: папуаскія мовы
+    br: yezhoù papouek
+    ca: llengües papús
+    cs: papuánské jazyky
+    de: Papua-Sprachen
+    el: Παπούα γλώσσες
+    en: Papuan
+    en-ca: Papuan
+    en-gb: Papuan
+    eo: Papua lingvaro
+    es: lenguas papúes
+    et: Paapua keeled
+    fa: زبانهای پاپوآیی
+    fi: papuakielet
+    fr: langues papoues
+    frr: Papuaans spriiken
+    gl: Linguas papúas
+    gsw: Papua-Sproche
+    ha: Harsunan Papuan
+    he: שפות פפואניות
+    hr: Papuanski jezici
+    hu: pápua nyelvek
+    hy: Պապուասյան լեզուներ
+    id: bahasa-bahasa Papua
+    ilo: sasao a Papuano
+    it: lingue papuasiche
+    ja: パプア諸語
+    jv: Basa-basa Papua
+    ko: 파푸아 제어
+    ky: Папуас тилдери
+    la: Linguae Papuanae
+    lfn: Linguas papuan
+    lt: Papuasų kalbos
+    lv: Papuasu valodas
+    mg: Vondrom-piteny papoa
+    mk: папуански јазици
+    ms: Bahasa-bahasa Papua
+    nb: papuanske språk
+    nl: Papoeatalen
+    nn: papuaspråk
+    oc: Lengas papós
+    pl: języki papuaskie
+    pms: Lenghe papuan-e
+    pt: Línguas papuas
+    ru: папуасские языки
+    sk: papuánske jazyky
+    sl: papuanščina
+    sv: papuanska språk
+    sw: Lugha za Kipapua
+    th: กลุ่มภาษาปาปัว
+    tr: Papua dilleri
+    uk: Папуаські мови
+    ur: پاپوائی زبانیں
+    uz: Papuas tillari
+    vec: łéngue papue
+    vi: ngữ hệ Papua
+    xmf: პაპუასური ნინეფი
+    zea: Papoeataelen
+    zh: 巴布亞諸語言
+    zh-cn: 巴布亚诸语言
+    zh-hans: 巴布亚诸语言
+    zh-hant: 巴布亞諸語言
+    zh-hk: 巴布亞諸語言
+    zh-sg: 巴布亚诸语言
+    zh-tw: 巴布亞諸語言
 ---
-
 # [[LangFamily~Papuan]] 
 
 #is_/same_as :: [[../../WikiData/WD~Papuan,236425|WD~Papuan,236425]]  

@@ -1,22 +1,66 @@
 ---
 aliases:
-  - Triton
-  - Triton(Moon)
+- Neptun I Triton
+- Triton
+- Triton (buwan)
+- Triton (oē-chheⁿ)
+- Triton(Moon)
+- Tritonas
+- Tritone
+- Tritoni
+- Tritono
+- Tritons
+- Trituni
+- Tritão
+- Tritòṅ (astrunumìa)
+- Tritó
+- Tritón
+- Tritón (satelite)
+- Tryton
+- Tríotón
+- Tríton (tungl)
+- Trîton
+- Τρίτωνας
+- Тритон
+- Тритон (месечина)
+- Трытон
+- Трытон, спадарожнік Нептуна
+- Տրիտոն
+- טריטון
+- ترايتون
+- ترايتون (قمر)
+- تریتون
+- تریتۆن
+- ٹرائٹن (چاند)
+- ټریټون (سپوږمۍ)
+- ट्राइटन
+- ट्रायटन
+- ট্রাইটন
+- டிரைட்டன்
+- ട്രിറ്റോൺ
+- ට්රයිටන්
+- ไทรทัน
+- ထရီတွန်
+- トリトン
+- 海卫一
+- 海衛一
+- 海衞一
+- 트리톤
 has_id_wikidata: Q3359
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Lassell,110869]]"
-named_after: "[[_Standards/WikiData/WD~Triton,148030]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Lassell,110869]]'
+named_after: '[[_Standards/WikiData/WD~Triton,148030]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Atmosphere_of_Triton,1018119]]"
-  - "[[_Standards/WikiData/WD~Climate_of_Triton,125768507]]"
+- '[[_Standards/WikiData/WD~Atmosphere_of_Triton,1018119]]'
+- '[[_Standards/WikiData/WD~Climate_of_Triton,125768507]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~irregular_moon,1632885]]"
-  - "[[_Standards/WikiData/WD~moon_of_Neptune,2139]]"
+- '[[_Standards/WikiData/WD~irregular_moon,1632885]]'
+- '[[_Standards/WikiData/WD~moon_of_Neptune,2139]]'
 time_of_discovery_or_invention: 1846-10-10T00:00:00Z
 orbital_period: -5.876854
-parent_astronomical_body: "[[_Standards/WikiData/WD~Neptune,332]]"
-different_from: "[[_Standards/WikiData/WD~Titan,2565]]"
+parent_astronomical_body: '[[_Standards/WikiData/WD~Neptune,332]]'
+different_from: '[[_Standards/WikiData/WD~Titan,2565]]'
 absolute_magnitude: -1.2
-site_of_astronomical_discovery: "[[_Standards/WikiData/WD~England,21]]"
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~England,21]]'
 orbital_eccentricity: 0.000016
 diameter: 2700
 temperature: 38
@@ -29,9 +73,9 @@ volume_as_quantity: 10384000000
 radius: 1353.4
 area: 23018000
 orbital_inclination:
-  - 129.608
-  - 129.812
-  - 156.885
+- 129.608
+- 129.812
+- 156.885
 semi_major_axis_of_an_orbit: 354759
 Commons_gallery: Triton (moon)
 Commons_category: Triton (moon)
@@ -40,25 +84,125 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Trit
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Triton"]
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Triton,3359|WD~Triton,3359]]"
-    - "[[/_Standards/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon)|Triton(Moon)]]"
-    - "[[/_public/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).public|Triton(Moon).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).internal|Triton(Moon).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).protect|Triton(Moon).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).private|Triton(Moon).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).personal|Triton(Moon).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).secret|Triton(Moon).secret]]"
+  - '[[../../../WikiData/WD~Triton,3359|WD~Triton,3359]]'
+  - '[[/_Standards/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon)|Triton(Moon)]]'
+  - '[[/_public/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).public|Triton(Moon).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).internal|Triton(Moon).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).protect|Triton(Moon).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).private|Triton(Moon).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).personal|Triton(Moon).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).secret|Triton(Moon).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Triton,3359|WD~Triton,3359]]"
-  - "[[/_Standards/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon)|Triton(Moon)]]"
-  - "[[/_public/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).public|Triton(Moon).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).internal|Triton(Moon).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).protect|Triton(Moon).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).private|Triton(Moon).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).personal|Triton(Moon).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).secret|Triton(Moon).secret]]"
+- '[[../../../WikiData/WD~Triton,3359|WD~Triton,3359]]'
+- '[[/_Standards/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon)|Triton(Moon)]]'
+- '[[/_public/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).public|Triton(Moon).public]]'
+- '[[/_internal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).internal|Triton(Moon).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).protect|Triton(Moon).protect]]'
+- '[[/_private/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).private|Triton(Moon).private]]'
+- '[[/_personal/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).personal|Triton(Moon).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Neptune(Planet)/Triton(Moon).secret|Triton(Moon).secret]]'
+dv_has_:
+  name_:
+    af: Triton
+    an: Tritón (satelite)
+    ar: ترايتون
+    arz: ترايتون (قمر)
+    ast: Tritón
+    az: Triton
+    azb: تریتون
+    ba: Тритон
+    be: Трытон, спадарожнік Нептуна
+    be-tarask: Трытон
+    bg: Тритон
+    bn: ট্রাইটন
+    br: Triton
+    bs: Triton
+    ca: Tritó
+    cdo: Triton
+    ckb: تریتۆن
+    co: Tritone
+    cs: Triton
+    cv: Тритон
+    cy: Triton
+    da: Triton
+    de: Neptun I Triton
+    el: Τρίτωνας
+    eml: Tritòṅ (astrunumìa)
+    en: Triton
+    eo: Tritono
+    es: Tritón
+    et: Triton
+    eu: Triton
+    fa: تریتون
+    fi: Triton
+    fr: Triton
+    frp: Triton
+    ga: Tríotón
+    gl: Tritón
+    he: טריטון
+    hi: ट्राइटन
+    hif: Triton
+    hr: Triton
+    ht: Triton
+    hu: Triton
+    hy: Տրիտոն
+    id: Triton
+    io: Triton
+    is: Tríton (tungl)
+    it: Tritone
+    ja: トリトン
+    ko: 트리톤
+    ku: Trîton
+    kv: Тритон
+    ky: Тритон
+    la: Triton
+    lb: Triton
+    lmo: Tritone
+    lt: Tritonas
+    lv: Tritons
+    lzh: 海衛一
+    mk: Тритон (месечина)
+    ml: ട്രിറ്റോൺ
+    mr: ट्रायटन
+    ms: Triton
+    mwl: Triton
+    my: ထရီတွန်
+    nan: Triton (oē-chheⁿ)
+    nb: Triton
+    nds: Triton
+    nl: Triton
+    nn: Triton
+    oc: Triton
+    os: Тритон
+    pl: Tryton
+    ps: ټریټون (سپوږمۍ)
+    pt: Tritão
+    pt-br: Tritão
+    ro: Triton
+    ru: Тритон
+    scn: Trituni
+    sh: Triton
+    si: ට්රයිටන්
+    sk: Triton
+    sl: Triton
+    sq: Tritoni
+    sr: Тритон
+    sr-ec: Тритон
+    sv: Triton
+    ta: டிரைட்டன்
+    th: ไทรทัน
+    tk: Triton
+    tl: Triton (buwan)
+    tr: Triton
+    uk: Тритон
+    ur: ٹرائٹن (چاند)
+    uz: Triton
+    vi: Triton
+    war: Triton
+    wuu: 海卫一
+    yue: 海衞一
+    zh: 海卫一
 ---
-
 # [[Triton(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Triton,3359|WD~Triton,3359]]  

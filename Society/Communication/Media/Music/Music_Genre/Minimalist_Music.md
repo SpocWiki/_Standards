@@ -1,20 +1,101 @@
 ---
-has_time_started: 1964-01-01 
+has_time_started: 1964-01-01
 aliases:
-  - Minimal music
-  - Minimalist_Music
-  - Minimalist Music
+- ceol íostach
+- Minimal music
+- minimalismus
+- Minimalist Music
+- Minimalist müzik
+- minimalista zene
+- minimalistinen musiikki
+- minimalistinė muzika
+- minimalistische muziek
+- minimalistisk musik
+- minimalistisk musikk
+- minimalistična glasba
+- minimalistlik muusika
+- Minimalist_Music
+- Minimalizam (muzika)
+- minimalizm
+- minimumisma muziko
+- Musica minima
+- musica minimalista
+- Musika minimalista
+- Musike minimalisse
+- musique minimaliste
+- muzica minimalistă
+- Música minimalista
+- μινιμαλιστική μουσική
+- мінімалізм
+- минимализм
+- Минималистичка музика
+- Մինիմալ երաժշտություն
+- מוזיקה מינימליסטית
+- موسيقى حد أدنى
+- موسیقی مینیمال
+- მინიმალიზმი
+- ミニマル・ミュージック
+- 簡約音樂
+- 최소 음악
 has_id_wikidata: Q572901
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
 different_from: '[[_Standards/WikiData/WD~Minimalism,416389]]'
 subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 inception: 1964-01-01T00:00:00Z
 Commons_category: Minimal music
+dv_has_:
+  name_:
+    ar: موسيقى حد أدنى
+    ast: Música minimalista
+    az: minimalizm
+    be: мінімалізм
+    be-tarask: мінімалізм
+    ca: música minimalista
+    cs: minimalismus
+    da: minimalistisk musik
+    de: Minimal Music
+    el: μινιμαλιστική μουσική
+    en: minimalist music
+    eo: minimumisma muziko
+    es: música minimalista
+    et: minimalistlik muusika
+    eu: Musika minimalista
+    fa: موسیقی مینیمال
+    fi: minimalistinen musiikki
+    fr: musique minimaliste
+    ga: ceol íostach
+    gl: Música minimalista
+    he: מוזיקה מינימליסטית
+    hu: minimalista zene
+    hy: Մինիմալ երաժշտություն
+    it: musica minimalista
+    ja: ミニマル・ミュージック
+    ka: მინიმალიზმი
+    ko: 최소 음악
+    la: Musica minima
+    lt: minimalistinė muzika
+    mk: Минималистичка музика
+    nb: minimalistisk musikk
+    nl: minimalistische muziek
+    nn: minimalistisk musikk
+    pcd: Musike minimalisse
+    pl: minimalizm
+    pt: música minimalista
+    ro: muzica minimalistă
+    ru: минимализм
+    sh: Minimalizam (muzika)
+    sl: minimalistična glasba
+    sr: Minimalizam (muzika)
+    sv: minimalistisk musik
+    tr: Minimalist müzik
+    uk: мінімалізм
+    yue: 簡約音樂
+    zh: 簡約音樂
+    zh-hant: 簡約音樂
 ---
-
 # [[Minimalist_Music]] 
 
 #is_/same_as :: [[WD~Minimalist_music,572901]] 

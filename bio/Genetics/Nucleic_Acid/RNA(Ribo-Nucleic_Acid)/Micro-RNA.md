@@ -1,4 +1,85 @@
-
+---
+has_id_wikidata: Q310899
+dv_has_:
+  name_:
+    ar: ميكرو حمض ريبي نووي
+    be-tarask: мікраРНК
+    bn: মাইক্রো-আরএনএ
+    bs: Mikro RNK
+    ca: MiRNA
+    cs: miRNA
+    da: MikroRNA
+    de: MicroRNA
+    en: microRNA
+    eo: mikroribonuklea acido
+    es: micro ARN
+    et: MikroRNA
+    eu: MicroRNA
+    fa: ریزآرانای
+    fi: MikroRNA
+    fr: miARN
+    gl: MicroARN
+    he: MicroRNA
+    hr: MikroRNK
+    hu: mikro-RNS
+    hy: ՄիկրոՌՆԹ
+    id: RNA-Mikro
+    is: MiRNA
+    it: MicroRNA
+    ja: MiRNA
+    ko: microRNA
+    lt: MiRNR
+    nb: mikro-RNA
+    nl: microRNA
+    nn: mikroRNA
+    pl: MiRNA
+    pt: Micro-RNA
+    ro: Micro-ARN
+    ru: МикроРНК
+    si: මයික්රෝ-ආර්.එන්.ඒ.
+    sk: MikroRNA
+    sl: mikroRNA
+    sv: MikroRNA
+    ta: குறு ஆர்.என்.ஏ
+    th: microRNA
+    tr: MikroRNA
+    uk: мікроРНК
+    zh: 微小RNA
+    zh-cn: 微核糖核酸
+    zh-hans: 微RNA
+    zh-hant: 微RNA
+    zh-hk: 微RNA
+    zh-sg: 微RNA
+    zh-tw: 微RNA
+aliases:
+- miARN
+- micro ARN
+- Micro-ARN
+- Micro-RNA
+- MicroARN
+- microRNA
+- Mikro RNK
+- mikro-RNA
+- mikro-RNS
+- mikroribonuklea acido
+- MikroRNA
+- MikroRNK
+- MiRNA
+- MiRNR
+- RNA-Mikro
+- мікраРНК
+- мікроРНК
+- МикроРНК
+- ՄիկրոՌՆԹ
+- ریزآرانای
+- ميكرو حمض ريبي نووي
+- মাইক্রো-আরএনএ
+- குறு ஆர்.என்.ஏ
+- මයික්රෝ-ආර්.එන්.ඒ.
+- 微RNA
+- 微小RNA
+- 微核糖核酸
+---
 #is_/different_from :: [[mRNA(messenger_RNA)]]  
 
 ## #has_/text_of_/abstract 

@@ -1,48 +1,93 @@
 ---
-has_time_started: 1873-01-01 
+has_time_started: 1873-01-01
 aliases:
-  - Anna Karenina
-  - Anna_Karenina
+- Ana Karenina
+- Ana Karenjina
+- Ana Karénina
+- Anna Karenina
+- Anna Kareninová
+- Anna Karenyina
+- Anna Kareņina
+- anna karinina
+- Anna Karènina
+- Anna Karénine
+- Anna_Karenina
+- ci An-na Ka-liey-ni-na
+- Ăng-ná Ká-liĕk-nà̤-ná
+- Άννα Καρένινα
+- Ана Карењина
+- Ана Каренина
+- Анна Кареніна
+- Анна Каренина
+- Ганна Карэніна
+- Աննա Կարենինա
+- Աննա Քարենինա
+- אנה קארנינה
+- אננא קארענינא
+- آنا کارنینا
+- أنّا كارينينا
+- ئاننا کارێنینا
+- انا كارينينا
+- انا کرینینا
+- अन्ना करेनिना
+- आना कारेनिना
+- आन्ना करेनिना
+- আন্না কারেনিনা
+- আন্না কাৰেনিনা
+- ਅੰਨਾ ਕਰੇਨਿਨਾ
+- આના કૅરેનિના
+- அன்னா கரேனினா
+- ಆನಾ ಕರ್ಯೆನ್ಯಿನಾ
+- അന്നാ കരേനിന
+- ඇනා කැරනිනා
+- อันนา คาเรนินา
+- ༄༅།། ཨན་ན་ཁ་ལི་ཉེ་ན།
+- ანა კარენინა
+- アンナ・カレーニナ
+- 安娜·卡列尼娜
+- 安娜卡妲尼娜
+- 櫻奈·介連尼娜
+- 안나 카레니나
 has_id_wikidata: Q147787
 author: '[[_Standards/WikiData/WD~Leo_Tolstoy,7243]]'
 characters:
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4066531]]'
-  - '[[_Standards/WikiData/WD~Alexei_Karenin,76607278]]'
-  - '[[_Standards/WikiData/WD~Alexei_Vronsky,76607749]]'
-  - '[[_Standards/WikiData/WD~Sergei_Alexeyich_Karenin,76608990]]'
-  - '[[_Standards/WikiData/WD~Stepan_Arkadyevich_Oblonsky,76636323]]'
-  - '[[_Standards/WikiData/WD~Darya_Oblonskaya,105194963]]'
-  - '[[_Standards/WikiData/WD~Konstantin_Dmitrievich_Levin,105195019]]'
-  - '[[_Standards/WikiData/WD~Ekaterina_Shcherbatskaya,105195023]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4066531]]'
+- '[[_Standards/WikiData/WD~Alexei_Karenin,76607278]]'
+- '[[_Standards/WikiData/WD~Alexei_Vronsky,76607749]]'
+- '[[_Standards/WikiData/WD~Sergei_Alexeyich_Karenin,76608990]]'
+- '[[_Standards/WikiData/WD~Stepan_Arkadyevich_Oblonsky,76636323]]'
+- '[[_Standards/WikiData/WD~Darya_Oblonskaya,105194963]]'
+- '[[_Standards/WikiData/WD~Konstantin_Dmitrievich_Levin,105195019]]'
+- '[[_Standards/WikiData/WD~Ekaterina_Shcherbatskaya,105195023]]'
 Commons_category: Anna Karenina
 copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 country_of_origin: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Anna_Karenina,80204]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,84147]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,508219]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,561208]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,561229]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,771011]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,771014]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,771020]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4066530]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4066535]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4066532]]'
-  - '[[_Standards/WikiData/WD~Amor_prohibido,4747628]]'
-  - '[[_Standards/WikiData/WD~Android_Karenina,4759455]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4767139]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4767137]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4767140]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,4767141]]'
-  - '[[_Standards/WikiData/WD~Q14565276,14565276]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,16529115]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,21868890]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,23586905]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,25394796]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,25396012]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,27862490]]'
-  - '[[_Standards/WikiData/WD~Volver_a_caer,116027466]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,80204]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,84147]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,508219]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,561208]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,561229]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,771011]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,771014]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,771020]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4066530]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4066535]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4066532]]'
+- '[[_Standards/WikiData/WD~Amor_prohibido,4747628]]'
+- '[[_Standards/WikiData/WD~Android_Karenina,4759455]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4767139]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4767137]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4767140]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,4767141]]'
+- '[[_Standards/WikiData/WD~Q14565276,14565276]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,16529115]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,21868890]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,23586905]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,25394796]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,25396012]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,27862490]]'
+- '[[_Standards/WikiData/WD~Volver_a_caer,116027466]]'
 described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
 different_from: '[[_Standards/WikiData/WD~Anna_Karina,232113]]'
 first_line: Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своемy
@@ -51,13 +96,13 @@ follows: '[[_Standards/WikiData/WD~War_and_Peace,161531]]'
 form_of_creative_work: '[[_Standards/WikiData/WD~novel,8261]]'
 genre: '[[_Standards/WikiData/WD~realist_novel,1248788]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Anna_Karénine,40905546]]'
-  - '[[_Standards/WikiData/WD~Anna_Karénine,40909223]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,41313900]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,67206337]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,92616397]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,109923052]]'
-  - '[[_Standards/WikiData/WD~Anna_Karenina,123734886]]'
+- '[[_Standards/WikiData/WD~Anna_Karénine,40905546]]'
+- '[[_Standards/WikiData/WD~Anna_Karénine,40909223]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,41313900]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,67206337]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,92616397]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,109923052]]'
+- '[[_Standards/WikiData/WD~Anna_Karenina,123734886]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AnnaKareninaTitle.jpg
 inception: 1873-01-01
 instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
@@ -67,14 +112,110 @@ Library_of_Congress_Classification: PG3365.A6-PG3365.A63
 list_of_characters: '[[_Standards/WikiData/WD~list_of_Anna_Karenina_characters,4435775]]'
 narrative_location: '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 number_of_parts_of_this_work:
-  - 8
-  - 239
+- 8
+- 239
 publication_date: 1877-01-01
 title: Анна Каренина
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Anna_Karenina,6680316]]'
 Wolfram_Language_entity_code: Entity["Book", "AnnaKarenina"]
+dv_has_:
+  name_:
+    af: Anna Karenina
+    ar: أنّا كارينينا
+    arz: انا كارينينا
+    as: আন্না কাৰেনিনা
+    ast: Ana Karenina
+    az: Anna Karenina
+    be: Ганна Карэніна
+    be-tarask: Ганна Карэніна
+    bg: Ана Каренина
+    bn: আন্না কারেনিনা
+    bo: ༄༅།། ཨན་ན་ཁ་ལི་ཉེ་ན།
+    bs: Ana Karenjina
+    ca: Anna Karènina
+    cdo: Ăng-ná Ká-liĕk-nà̤-ná
+    ckb: ئاننا کارێنینا
+    cs: Anna Kareninová
+    cy: Anna Karenina
+    da: Anna Karenina
+    de: Anna Karenina
+    el: Άννα Καρένινα
+    en: Anna Karenina
+    eo: Anna Karenina
+    es: Ana Karénina
+    et: Anna Karenina
+    eu: Anna Karenina
+    fa: آنا کارنینا
+    fi: Anna Karenina
+    fr: Anna Karénine
+    gd: Anna Karenina
+    gl: Anna Karenina
+    gu: આના કૅરેનિના
+    he: אנה קארנינה
+    hi: आन्ना करेनिना
+    hr: Ana Karenjina
+    hu: Anna Karenyina
+    hy: Աննա Կարենինա
+    hyw: Աննա Քարենինա
+    id: Anna Karenina
+    is: Anna Karenina
+    it: Anna Karenina
+    ja: アンナ・カレーニナ
+    ka: ანა კარენინა
+    kaa: Anna Karenina
+    kn: ಆನಾ ಕರ್ಯೆನ್ಯಿನಾ
+    ko: 안나 카레니나
+    ku: Anna Karenina
+    ky: Анна Каренина
+    la: Anna Karenina
+    lt: Ana Karenina
+    lv: Anna Kareņina
+    mk: Ана Каренина
+    ml: അന്നാ കരേനിന
+    mn: Анна Каренина
+    mr: आना कारेनिना
+    ms: Anna Karenina
+    nan: Anna Karenina
+    nb: Anna Karenina
+    ne: अन्ना करेनिना
+    nl: Anna Karenina
+    nn: Anna Karenina
+    pa: ਅੰਨਾ ਕਰੇਨਿਨਾ
+    pl: Anna Karenina
+    pnb: انا کرینینا
+    pt: Anna Karenina
+    pt-br: Anna Karenina
+    pwn: anna karinina
+    ro: Anna Karenina
+    ru: Анна Каренина
+    sco: Anna Karenina
+    sh: Ana Karenjina
+    si: ඇනා කැරනිනා
+    sl: Ana Karenina
+    sq: Anna Karenina
+    sr: Ана Карењина
+    sr-ec: Ана Карењина
+    sr-el: Ana Karenjina
+    sv: Anna Karenina
+    szy: ci An-na Ka-liey-ni-na
+    ta: அன்னா கரேனினா
+    th: อันนา คาเรนินา
+    tr: Anna Karenina
+    uk: Анна Кареніна
+    uz: Anna Karenina
+    vi: Anna Karenina
+    war: Anna Karenina
+    wuu: 櫻奈·介連尼娜
+    yi: אננא קארענינא
+    yue: 安娜卡妲尼娜
+    zh: 安娜·卡列尼娜
+    zh-cn: 安娜·卡列尼娜
+    zh-hans: 安娜·卡列尼娜
+    zh-hant: 安娜·卡列尼娜
+    zh-hk: 安娜·卡列尼娜
+    zh-sg: 安娜·卡列尼娜
+    zh-tw: 安娜·卡列尼娜
 ---
-
 # [[Anna_Karenina]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Anna_Karenina,147787]] 

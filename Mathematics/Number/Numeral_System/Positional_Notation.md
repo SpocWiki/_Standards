@@ -1,19 +1,115 @@
 ---
 aliases:
-  - Positional notation
-  - place-value notation
-  - positional numeral system
-  - place value
-  - Stellenwertsystem
-  - Positional_Notation
-  - Positional Notation
+- basamak sistemi
+- helyi érték
+- kokapen-notazio
+- nasin nanpa poki
+- notació posicional
+- notación posicional
+- notasi posisional
+- notatio positionalis
+- notation positionnelle
+- notazione posizionale
+- notação posicional
+- paikkamerkintä
+- place value
+- place-value notation
+- positiestelsel
+- Positional notation
+- positional numeral system
+- Positional_Notation
+- positionsnotation
+- positsiooniline arvusüsteem
+- pozicia nombrosistemo
+- pozicijski zapis
+- poziciona notacija
+- pozicionāls skaitļu pieraksts
+- poziční notace
+- sistem pozițional de notare
+- Stellenwertsystem
+- systemy pozycyjne
+- tsika yezvinzvimbo zvenhamba
+- Ūi-tì kì-siàu-hoat
+- σημειογραφία της θέσης
+- пазыцыйная натацыя
+- позиційна нотація
+- позиционная нотация
+- положбен запис
+- ציון מיקום
+- ارزش مکانی
+- دلالة موضعية
+- مقامیاتی ترقیم
+- स्थानीय मान पद्धति
+- অবস্থানভিত্তিক অঙ্কপাতন
+- இடஞ்சார் குறியீடு
+- അക്കത്തിന്റെ സ്ഥാന മൂല്യം
+- პოზიციური კოდი
+- 位取り記数法
+- 进位制
+- 進位制
+- 위치 기수법
 has_id_wikidata: Q1747853
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Babylonians,797930]]'
 subclass_of: '[[_Standards/WikiData/WD~notation,2001982]]'
 facet_of: '[[_Standards/WikiData/WD~positional_numeral_system,25457532]]'
 Commons_category: Positional numeral systems
+dv_has_:
+  name_:
+    ar: دلالة موضعية
+    ast: notación posicional
+    be-tarask: пазыцыйная натацыя
+    bn: অবস্থানভিত্তিক অঙ্কপাতন
+    ca: notació posicional
+    cs: poziční notace
+    de: Stellenwertsystem
+    el: σημειογραφία της θέσης
+    en: positional notation
+    en-ca: positional notation
+    en-gb: positional notation
+    eo: pozicia nombrosistemo
+    es: notación posicional
+    et: positsiooniline arvusüsteem
+    eu: kokapen-notazio
+    fa: ارزش مکانی
+    fi: paikkamerkintä
+    fr: notation positionnelle
+    gl: notación posicional
+    he: ציון מיקום
+    hi: स्थानीय मान पद्धति
+    hu: helyi érték
+    id: notasi posisional
+    it: notazione posizionale
+    ja: 位取り記数法
+    ka: პოზიციური კოდი
+    ko: 위치 기수법
+    la: notatio positionalis
+    lv: pozicionāls skaitļu pieraksts
+    mag: स्थानीय मान पद्धति
+    mk: положбен запис
+    ml: അക്കത്തിന്റെ സ്ഥാന മൂല്യം
+    nan: Ūi-tì kì-siàu-hoat
+    nl: positiestelsel
+    pl: systemy pozycyjne
+    pt: notação posicional
+    pt-br: notação posicional
+    ro: sistem pozițional de notare
+    ru: позиционная нотация
+    sl: pozicijski zapis
+    sn: tsika yezvinzvimbo zvenhamba
+    sr: poziciona notacija
+    sv: positionsnotation
+    ta: இடஞ்சார் குறியீடு
+    tok: nasin nanpa poki
+    tr: basamak sistemi
+    uk: позиційна нотація
+    ur: مقامیاتی ترقیم
+    yue: 進位制
+    zh: 进位制
+    zh-hans: 进位制
+    zh-hant: 進位制
+    zh-hk: 進位制
+    zh-tw: 進位制
 ---
-
 # [[Positional_Notation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Positional_notation,1747853|WD~Positional_notation,1747853]]  

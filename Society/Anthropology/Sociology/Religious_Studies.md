@@ -1,18 +1,81 @@
 ---
 aliases:
-  - Religious studies
-  - religiology
-  - study of religion
-  - Religious_Studies
-  - Religious Studies
+- araling pangrelihiyon
+- astudiaethau crefyddol
+- ciencias da relixión
+- ciencias de la religión
+- ciencies de la relixón
+- ciência da religião
+- devlesko Janglipen
+- din bilimleri
+- Dinshunoslik
+- dinşünaslıq
+- estudis religiosos
+- godsdienstwetenschap
+- Ikasketa erlijioso
+- ilmu agama
+- léann reiligiúnach
+- nghiên cứu tôn giáo
+- pengajian agama
+- religijotyra
+- religijske studije
+- religiologija
+- religiology
+- religionistika
+- religionsvetenskap
+- religionsvidenskab
+- religionsvitenskap
+- religionsvitskap
+- Religionswissenschaft
+- religiooniteadus
+- religioscienco
+- Religious studies
+- Religious_Studies
+- religioznawstwo
+- science des religions
+- scientia religionum
+- scienza delle religioni
+- siensa de ła rełijon
+- studime fetare
+- study of religion
+- Syans nan relijyon
+- te mātai whakapono
+- trúarbragðafræði
+- uskontotiede
+- vallástudomány
+- θρησκειολογία
+- дин белеме
+- динзонынад
+- диншиносӣ
+- релігієзнавство
+- религијске студије
+- религиоведение
+- религиологија
+- рэлігіязнаўства
+- Шашин судлал
+- կրոնագիտություն
+- מדע הדתות
+- دراسة العقائد الدينية
+- دینشناسی
+- دینناسی
+- مطالعہ مذہب
+- ڤڠاجين اݢام
+- धार्मिक अध्ययन
+- ধর্মবিদ্যা
+- ਧਾਰਮਿਕ ਅਧਿਐਨ
+- சமய ஆய்வுகள்
+- ศาสนศึกษา
+- რელიგიათმცოდნეობა
+- 宗教学
+- 종교학
 has_id_wikidata: Q34187
 different_from:
-  - '[[_Standards/WikiData/WD~religious_education,1412471]]'
-  - '[[_Standards/WikiData/WD~divinity,17002247]]'
-  - '[[_Standards/WikiData/WD~theology,34178]]'
+- '[[_Standards/WikiData/WD~religious_education,1412471]]'
+- '[[_Standards/WikiData/WD~divinity,17002247]]'
+- '[[_Standards/WikiData/WD~theology,34178]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 practiced_by: '[[_Standards/WikiData/WD~religious_studies_scholar,19829980]]'
 part_of: '[[_Standards/WikiData/WD~theology_and_religious_studies,64687996]]'
 is_the_study_of: '[[_Standards/WikiData/WD~religion,9174]]'
@@ -21,8 +84,79 @@ All_Science_Journal_Classification_Codes: 1212
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Religious%20syms.svg
 Commons_category: Religious studies
 PhilPapers_topic: religious-studies
+dv_has_:
+  name_:
+    ar: دراسة العقائد الدينية
+    ast: ciencies de la relixón
+    az: dinşünaslıq
+    be: рэлігіязнаўства
+    be-tarask: рэлігіязнаўства
+    bn: ধর্মবিদ্যা
+    ca: estudis religiosos
+    ckb: دینناسی
+    cs: religionistika
+    cy: astudiaethau crefyddol
+    da: religionsvidenskab
+    de: Religionswissenschaft
+    el: θρησκειολογία
+    en: religious studies
+    eo: religioscienco
+    es: ciencias de la religión
+    et: religiooniteadus
+    eu: Ikasketa erlijioso
+    fa: دینشناسی
+    fi: uskontotiede
+    fr: science des religions
+    ga: léann reiligiúnach
+    gl: ciencias da relixión
+    he: מדע הדתות
+    hi: धार्मिक अध्ययन
+    hr: religiologija
+    ht: Syans nan relijyon
+    hu: vallástudomány
+    hy: կրոնագիտություն
+    id: ilmu agama
+    is: trúarbragðafræði
+    it: scienza delle religioni
+    ja: 宗教学
+    ka: რელიგიათმცოდნეობა
+    ko: 종교학
+    la: scientia religionum
+    lt: religijotyra
+    mi: te mātai whakapono
+    mk: религиологија
+    mn: Шашин судлал
+    ms: pengajian agama
+    ms-arab: ڤڠاجين اݢام
+    nb: religionsvitenskap
+    nl: godsdienstwetenschap
+    nn: religionsvitskap
+    os: динзонынад
+    pa: ਧਾਰਮਿਕ ਅਧਿਐਨ
+    pl: religioznawstwo
+    pt: ciência da religião
+    rmy: devlesko Janglipen
+    ru: религиоведение
+    sh: religijske studije
+    sk: religionistika
+    sl: religiologija
+    sq: studime fetare
+    sr: религијске студије
+    sv: religionsvetenskap
+    ta: சமய ஆய்வுகள்
+    tg: диншиносӣ
+    th: ศาสนศึกษา
+    tl: araling pangrelihiyon
+    tr: din bilimleri
+    tt: дин белеме
+    uk: релігієзнавство
+    ur: مطالعہ مذہب
+    uz: Dinshunoslik
+    vec: siensa de ła rełijon
+    vi: nghiên cứu tôn giáo
+    zh: 宗教学
+    zh-cn: 宗教学
 ---
-
 # [[Religious_Studies]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Religious_studies,34187|WD~Religious_studies,34187]]  

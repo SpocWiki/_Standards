@@ -1,34 +1,174 @@
 ---
 aliases:
-  - reboot
-  - rebooting
-  - Booting
+- abiatze
+- Alglaadimine
+- amorce
+- arranque
+- Başlatmaq
+- boot
+- Booten
+- Booting
+- Bootning
+- bootolás
+- Bootovanie
+- bootování
+- bootowanie
+- But
+- carregador d'arrencada
+- Initiatio systematis
+- Khui-ki
+- Khởi động máy tính
+- Käynnistys
+- oppstart
+- opstarten
+- Pagbu-boot
+- Partensa
+- Pengebutan
+- Pokretanje (računarstvo)
+- Pokretanje računala
+- Pokretač operativnog sistema
+- reboot
+- rebooting
+- Ræsiforrit
+- Selflaaier
+- startigo
+- Sāknēšanas programma
+- xestor de arranque
+- zagon
+- Zinduo
+- Önyükleme
+- Бастапқы жүктеу
+- Бүүтинг
+- завантаження операційної системи
+- загрузка аперацыйнай сістэмы
+- загрузка операционной системы
+- загрузчык апэрацыйнай сыстэмы
+- подигање
+- Покретач оперативног система
+- Роҳандозӣ
+- Стартиране (компютри)
+- אתחול
+- إقلاع
+- راهاندازی
+- बूट लोडर
+- बूटिंग
+- বুটিং
+- தொடக்க ஏற்றி
+- బూటింగ్
+- ബൂട്ട് ലോഡർ
+- การปลุกเครื่อง
+- ဘုတင်း
+- ブート
+- 启动程序
+- 启动程式
+- 啟動程式
+- 引导程序
+- 起動程式
+- 부팅
 has_id_wikidata: Q180256
 has_part_s_:
-  - '[[_Standards/WikiData/WD~power_on_self_test,277541]]'
+- '[[_Standards/WikiData/WD~power_on_self_test,277541]]'
 uses:
-  - '[[_Standards/WikiData/WD~bootloader,836795]]'
-  - '[[_Standards/WikiData/WD~computer_firmware,102676349]]'
+- '[[_Standards/WikiData/WD~bootloader,836795]]'
+- '[[_Standards/WikiData/WD~computer_firmware,102676349]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~bootstrapping,1195936]]'
-  - '[[_Standards/WikiData/WD~preparation,19833559]]'
-  - '[[_Standards/WikiData/WD~planned_process,104637332]]'
-  - '[[_Standards/WikiData/WD~starting_up,125517441]]'
+- '[[_Standards/WikiData/WD~bootstrapping,1195936]]'
+- '[[_Standards/WikiData/WD~preparation,19833559]]'
+- '[[_Standards/WikiData/WD~planned_process,104637332]]'
+- '[[_Standards/WikiData/WD~starting_up,125517441]]'
 Stack_Exchange_tag:
-  - https://unix.stackexchange.com/tags/boot
-  - https://askubuntu.com/tags/boot
-  - https://superuser.com/tags/boot
-  - https://stackoverflow.com/tags/boot
+- https://unix.stackexchange.com/tags/boot
+- https://askubuntu.com/tags/boot
+- https://superuser.com/tags/boot
+- https://stackoverflow.com/tags/boot
 facet_of:
-  - '[[_Standards/WikiData/WD~operating_system,9135]]'
+- '[[_Standards/WikiData/WD~operating_system,9135]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flow-diagram-computer-booting-sequences-tr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Flow-diagram-computer-booting-sequences.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Linux-bootvorgang.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flow-diagram-computer-booting-sequences-tr.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flow-diagram-computer-booting-sequences.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Linux-bootvorgang.svg
 Commons_gallery: Booting
 Commons_category: Booting
+dv_has_:
+  name_:
+    af: Selflaaier
+    ar: إقلاع
+    az: Başlatmaq
+    be: загрузка аперацыйнай сістэмы
+    be-tarask: загрузчык апэрацыйнай сыстэмы
+    bg: Стартиране (компютри)
+    bn: বুটিং
+    bs: Pokretanje (računarstvo)
+    ca: carregador d'arrencada
+    cs: bootování
+    da: Boot
+    de: Booten
+    de-ch: Booten
+    en: booting
+    en-ca: booting
+    en-gb: booting
+    eo: startigo
+    es: arranque
+    et: Alglaadimine
+    eu: abiatze
+    fa: راهاندازی
+    fi: Käynnistys
+    fr: amorce
+    gl: xestor de arranque
+    he: אתחול
+    hi: बूटिंग
+    hr: Pokretanje računala
+    hu: bootolás
+    id: Pengebutan
+    is: Ræsiforrit
+    it: boot
+    ja: ブート
+    kk: Бастапқы жүктеу
+    ko: 부팅
+    la: Initiatio systematis
+    li: Boot
+    lv: Sāknēšanas programma
+    mk: подигање
+    ml: ബൂട്ട് ലോഡർ
+    mn: Бүүтинг
+    ms: But
+    my: ဘုတင်း
+    nan: Khui-ki
+    nb: oppstart
+    new: बूट लोडर
+    nl: opstarten
+    nn: Oppstart
+    pl: bootowanie
+    pms: Partensa
+    pt: boot
+    pt-br: Boot
+    ru: загрузка операционной системы
+    sk: Bootovanie
+    sl: zagon
+    sq: Booting
+    sr: Pokretač operativnog sistema
+    sr-ec: Покретач оперативног система
+    sr-el: Pokretač operativnog sistema
+    sv: Bootning
+    sw: Zinduo
+    ta: தொடக்க ஏற்றி
+    te: బూటింగ్
+    tg: Роҳандозӣ
+    th: การปลุกเครื่อง
+    tl: Pagbu-boot
+    tr: Önyükleme
+    uk: завантаження операційної системи
+    vi: Khởi động máy tính
+    wuu: 引导程序
+    yue: 起動程式
+    zh: 啟動程式
+    zh-cn: 启动程序
+    zh-hans: 启动程式
+    zh-hant: 啟動程式
+    zh-hk: 啟動程式
+    zh-sg: 启动程序
+    zh-tw: 啟動程式
 ---
-
 # [[Booting]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Booting,180256|WD~Booting,180256]] 

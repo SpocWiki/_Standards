@@ -1,9 +1,236 @@
 ---
 aliases:
-  - Gastropoda
+- Bekicot
+- brzuchonogi
+- Chʼosh chʼééh digháhii
+- csigák
+- Edenöit
+- Gasteropodo
+- gasteròpodes
+- Gasterópodos
+- gastrapód
+- Gastropod
+- Gastropoda
+- Gastropodoj
+- Gastropodos
+- Gastrópodes
+- gastrópodos
+- Gliemeži
+- Gondang
+- Hilahila
+- Ibeldisen
+- Karından bacaklılar
+- kotilot
+- Kërmilli
+- Lớp Chân bụng
+- Pilvakojai
+- plži
+- polži
+- Puževi
+- Qorinoyoqli mollyuskalar
+- Schnecken
+- Schneckn
+- siput
+- Slak
+- slakken
+- Slek
+- slekke
+- Slekkn
+- snegl
+- snegler
+- Sneken
+- sniglar
+- snäckor
+- Snægel
+- soldachi
+- sòldachi
+- Teod
+- Ulitníky
+- Wiksachaki
+- Zikpê
+- İlbizlər
+- Γαστερόποδα
+- Бажанаттукку
+- Бауыраяқты ұлулар
+- бруханогія малюскі
+- брюхоногие
+- Гæлдæркъахонтæ
+- коремоноги
+- корсагаяклылар
+- Курсак буттуулар
+- Лёльӧ
+- Полжави
+- пужеви
+- пыдокöтъёс
+- черевоногі
+- чэраваногія
+- Эмгэн хумс
+- փորոտանիներ
+- חלזונות
+- פוילע רוילע
+- ایلبیزلر
+- بطنيات القدم
+- شکمپایان
+- گاسترۆپۆد
+- उदरपाद
+- উদরপদী
+- குடற்காலி
+- ಗ್ಯಾಸ್ಟ್ರೋಪಡಾ
+- ชั้นแกสโทรโพดา
+- მუცელფეხიანები
+- ქვარაკუჩხამეფი
+- 腹足綱
+- 腹足纲
+- 蠃
+- 복족강
 title: Gastropoda
+has_id_wikidata: Q4867740
+dv_has_:
+  name_:
+    af: Slak
+    an: Gastropoda
+    ang: Snægel
+    ar: بطنيات القدم
+    ast: Gastropoda
+    az: İlbizlər
+    azb: ایلبیزلر
+    ban: Gastropoda
+    bar: Schneckn
+    be: бруханогія малюскі
+    be-tarask: чэраваногія
+    bg: коремоноги
+    bjn: Gondang
+    bn: উদরপদী
+    br: Gastropoda
+    bs: Puževi
+    ca: gasteròpodes
+    ceb: Hilahila
+    ckb: گاسترۆپۆد
+    co: Gastropoda
+    cs: plži
+    cy: Gastropod
+    da: snegl
+    de: Schnecken
+    de-at: Gastropoda
+    de-ch: Schnecken
+    el: Γαστερόποδα
+    en: Gastropoda
+    en-ca: Gastropoda
+    en-gb: Gastropoda
+    eo: Gastropodoj
+    es: gastrópodos
+    et: Teod
+    eu: Gastropoda
+    ext: Gastropoda
+    fa: شکمپایان
+    fi: kotilot
+    fo: Sniglar
+    fr: Gastropoda
+    frp: Gastropoda
+    frr: Sneken
+    fur: Gastropoda
+    ga: gastrapód
+    gd: Gastropoda
+    gl: Gasterópodos
+    gor: Gastropoda
+    gsw: Gastropoda
+    he: חלזונות
+    hi: उदरपाद
+    hr: puževi
+    hu: csigák
+    hy: փորոտանիներ
+    ia: Gastropodos
+    id: siput
+    ie: Gastropoda
+    io: Gasteropodo
+    is: Sniglar
+    it: Gastropoda
+    ja: 腹足綱
+    jv: Bekicot
+    ka: მუცელფეხიანები
+    kab: Ibeldisen
+    kg: Gastropoda
+    kk: Бауыраяқты ұлулар
+    kn: ಗ್ಯಾಸ್ಟ್ರೋಪಡಾ
+    ko: 복족강
+    ku: Zikpê
+    kv: Лёльӧ
+    ky: Курсак буттуулар
+    la: Gastropoda
+    lb: Gastropoda
+    lbe: Бажанаттукку
+    lfn: Gastropoda
+    li: Slek
+    lij: Gastropoda
+    lmo: Gastropoda
+    lt: Pilvakojai
+    lv: Gliemeži
+    lzh: 蠃
+    mg: Gastropoda
+    min: Gastropoda
+    mk: Полжави
+    mn: Эмгэн хумс
+    ms: Gastropoda
+    mul: Gastropoda
+    nap: Gastropoda
+    nb: snegler
+    nds: Gastropoda
+    nds-nl: slekke
+    nl: slakken
+    nn: sniglar
+    nrm: Gastropoda
+    nv: Chʼosh chʼééh digháhii
+    nys: Gastropoda
+    oc: Gastropoda
+    olo: Edenöit
+    os: Гæлдæркъахонтæ
+    pap: sòldachi
+    pap-aw: soldachi
+    pcd: Gastropoda
+    pl: brzuchonogi
+    pms: Gastropoda
+    pt: Gastrópodes
+    pt-br: Gastrópodes
+    qu: Wiksachaki
+    rm: Gastropoda
+    ro: Gastropoda
+    ru: брюхоногие
+    sc: Gastropoda
+    scn: Gastropoda
+    sco: Gastropoda
+    sh: Puževi
+    sk: Ulitníky
+    sl: polži
+    sq: Kërmilli
+    sr: пужеви
+    sr-ec: пужеви
+    sv: snäckor
+    sw: Gastropoda
+    ta: குடற்காலி
+    th: ชั้นแกสโทรโพดา
+    tl: Gastropoda
+    tr: Karından bacaklılar
+    tt: корсагаяклылар
+    udm: пыдокöтъёс
+    uk: черевоногі
+    uz: Qorinoyoqli mollyuskalar
+    vec: Gastropoda
+    vi: Lớp Chân bụng
+    vls: Slekkn
+    vo: Gastropoda
+    wa: Gastropoda
+    war: Gastropoda
+    wo: Gastropoda
+    wuu: 腹足纲
+    xmf: ქვარაკუჩხამეფი
+    yi: פוילע רוילע
+    yue: 腹足綱
+    zh: 腹足纲
+    zh-cn: 腹足纲
+    zh-hans: 腹足纲
+    zh-tw: 腹足綱
+    zu: Gastropoda
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

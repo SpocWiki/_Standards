@@ -1,45 +1,241 @@
 ---
 aliases:
+- abrazioni
+- allpa chinkari
+- chhim-si̍t
+- cnaí
+- crimmey
+- erodo
+- eroosio
+- erosi
+- erosie
+- erosion
+- erosione
+- erosioon
+- erosió
+- erosión
+- erosjon
+- erosyon
+- erosão
+- eroze
+- erozija
+- erozija pódy
+- erozio
+- eroziunea solului
+- eroziya
+- erozja
+- erozjô
+- erozyon
+- erošuvdna
+- erydiad
+- erózia
+- erózió
+- esknians
+- ewozyon
+- hakisan
+- higadura
+- inkukura
+- iruojan
+- ISURI
+- kaoka
+- krignerezh
+- lìjɛ hìsi
+- mbuze
+- mmomonyoko
+- ogbara
+- rof
+- rrosio
+- rrosioun
+- soil erosion
+- xói mòn
+- yvysyry
+- zaizayar kasa
+- érosion
+- érozyon
+- αποσάθρωση
+- ерозія
+- ерозија
+- ерозия
+- эрозія
+- эрозия
+- Էրոզիա
+- סחיפה
+- تعرية
+- توږل کېدنه (د توږنې عمليه)
+- فرسایش
+- وەرینی
+- کھار
+- अपरदन
+- क्षरण
+- ক্ষয়ীভবন
+- ਭੂ-ਖੋਰਣ
+- மண்ணரிப்பு
+- భూమికోత
+- ಕ್ಷರಣ/ಸವೆತ
+- മണ്ണൊലിപ്പ്
+- การกร่อน
+- ეროზია
+- ᎦᏓ ᎦᏓᎶᏍᎬ
+- ᓄᓇᐅᑉ ᓄᖑᑕᒃᐸᓪᓕᐊᓂᖓ
+- 侵蚀作用
+- 侵蝕
+- 侵食
+- 침식
 has_id_wikidata: Q80026
-has_cause: "[[_Standards/WikiData/WD~weathering,179177]]"
+has_cause: '[[_Standards/WikiData/WD~weathering,179177]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~natural_phenomenon,1322005]]"
-  - "[[_Standards/WikiData/WD~natural_process,13878858]]"
-  - "[[_Standards/WikiData/WD~removal,23009442]]"
-different_from: "[[_Standards/WikiData/WD~Erozja,9254795]]"
-class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~terrain,14524493]]"
+- '[[_Standards/WikiData/WD~natural_phenomenon,1322005]]'
+- '[[_Standards/WikiData/WD~natural_process,13878858]]'
+- '[[_Standards/WikiData/WD~removal,23009442]]'
+different_from: '[[_Standards/WikiData/WD~Erozja,9254795]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~terrain,14524493]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-OmegaWiki_Defined_Meaning: "1339"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+OmegaWiki_Defined_Meaning: 1339
 Commons_category: Erosion
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Sea%20dune%20Erosion%20at%20Talace%2C%20Wales.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eroding%20rill%20in%20field%20in%20eastern%20Germany.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001346
-U_S_National_Archives_Identifier: "10637801"
+U_S_National_Archives_Identifier: 10637801
 Krugosvet_article: Earth_sciences/geologiya/EROZIYA.html
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]]"
-    - "[[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]]"
-    - "[[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]]"
-    - "[[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]]"
-    - "[[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]]"
-    - "[[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]]"
-    - "[[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]]"
-    - "[[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]]"
+  - '[[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]]'
+  - '[[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]]'
+  - '[[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]]'
+  - '[[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]]'
+  - '[[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]]'
+  - '[[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]]'
+  - '[[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]]'
+  - '[[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]]"
-  - "[[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]]"
-  - "[[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]]"
-  - "[[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]]"
-  - "[[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]]"
-  - "[[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]]"
-  - "[[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]]"
-  - "[[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]]"
+- '[[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]]'
+- '[[/_Standards/Earth/Geology/Weathering/Erosion|Erosion]]'
+- '[[/_public/Earth/Geology/Weathering/Erosion.public|Erosion.public]]'
+- '[[/_internal/Earth/Geology/Weathering/Erosion.internal|Erosion.internal]]'
+- '[[/_protect/Earth/Geology/Weathering/Erosion.protect|Erosion.protect]]'
+- '[[/_private/Earth/Geology/Weathering/Erosion.private|Erosion.private]]'
+- '[[/_personal/Earth/Geology/Weathering/Erosion.personal|Erosion.personal]]'
+- '[[/_secret/Earth/Geology/Weathering/Erosion.secret|Erosion.secret]]'
+dv_has_:
+  name_:
+    af: erosie
+    an: erosión
+    ar: تعرية
+    ast: erosión
+    az: eroziya
+    bas: lìjɛ hìsi
+    be: эрозія
+    be-tarask: эрозія
+    bg: ерозия
+    bn: ক্ষয়ীভবন
+    br: krignerezh
+    bs: erozija
+    ca: erosió
+    chr: ᎦᏓ ᎦᏓᎶᏍᎬ
+    ckb: وەرینی
+    cs: eroze
+    csb: erozjô
+    cy: erydiad
+    da: erosion
+    de: Erosion
+    el: αποσάθρωση
+    en: erosion
+    en-gb: erosion
+    eo: erozio
+    es: erosión
+    et: erosioon
+    eu: higadura
+    fa: فرسایش
+    fi: eroosio
+    fr: érosion
+    ga: cnaí
+    gcr: érozyon
+    gl: erosión
+    gn: yvysyry
+    gv: crimmey
+    ha: zaizayar kasa
+    he: סחיפה
+    hi: अपरदन
+    hr: erozija
+    hsb: erozija pódy
+    ht: ewozyon
+    hu: erózió
+    hy: Էրոզիա
+    id: erosi
+    ig: mbuze
+    io: erodo
+    is: rof
+    it: erosione
+    iu: ᓄᓇᐅᑉ ᓄᖑᑕᒃᐸᓪᓕᐊᓂᖓ
+    ja: 侵食
+    jam: iruojan
+    ka: ეროზია
+    kaa: eroziya
+    kk: эрозия
+    kn: ಕ್ಷರಣ/ಸವೆತ
+    ko: 침식
+    kw: esknians
+    ky: эрозия
+    la: rrosio
+    lb: rrosioun
+    li: erosie
+    lt: erozija
+    lv: erozija
+    map-bms: erosi
+    mg: kaoka
+    mk: ерозија
+    ml: മണ്ണൊലിപ്പ്
+    mr: क्षरण
+    ms: hakisan
+    nan: chhim-si̍t
+    nb: erosjon
+    ne: अपरदन
+    nl: erosie
+    nn: erosjon
+    oc: erosion
+    pa: ਭੂ-ਖੋਰਣ
+    pl: erozja
+    pnb: کھار
+    ps: توږل کېدنه (د توږنې عمليه)
+    pt: erosão
+    qu: allpa chinkari
+    rn: inkukura
+    ro: eroziunea solului
+    ru: эрозия
+    rw: ISURI
+    sco: erosion
+    se: erošuvdna
+    sh: erozija
+    si: soil erosion
+    sk: erózia
+    sl: erozija
+    smn: eroosio
+    sms: eroosio
+    sq: abrazioni
+    sr: ерозија
+    sr-ec: ерозија
+    sr-el: erozija
+    sv: erosion
+    sw: mmomonyoko
+    ta: மண்ணரிப்பு
+    te: భూమికోత
+    th: การกร่อน
+    tl: erosyon
+    tr: erozyon
+    udm: эрозия
+    uk: ерозія
+    uz: eroziya
+    vi: xói mòn
+    war: erosyon
+    wuu: 侵蚀作用
+    yo: ogbara
+    yue: 侵蝕
+    zh: 侵蚀作用
+    zh-hant: 侵蝕
 ---
-
 # [[Erosion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Erosion,80026|WD~Erosion,80026]] 

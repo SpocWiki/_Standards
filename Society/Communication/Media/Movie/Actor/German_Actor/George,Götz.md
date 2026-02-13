@@ -1,10 +1,70 @@
 ---
 aliases:
-  - Götz George
-  - Götz Karl August George
-  - George,Götz
+- George,Götz
+- Gotz George
+- Götz George
+- Götz Karl August George
+- Γκετς Γκεόργκε
+- Гёц Георге
+- Ґец Ґеорґе
+- جوتس جورج
+- غوتس جورج
+- گوتز جرج
+- ゲッツ・ジョージ
+- 格茨·格奥尔格
+- 高茲·喬治
+has_id_wikidata: Q63062
+dv_has_:
+  name_:
+    ar: غوتس جورج
+    arz: جوتس جورج
+    ast: Götz George
+    bar: Götz George
+    ca: Götz George
+    cs: Götz George
+    da: Götz George
+    de: Götz George
+    de-ch: Götz George
+    dsb: Götz George
+    el: Γκετς Γκεόργκε
+    en: Götz George
+    en-ca: Götz George
+    en-gb: Götz George
+    eo: Götz George
+    es: Götz George
+    fa: گوتز جرج
+    fi: Götz George
+    fr: Götz George
+    frr: Götz George
+    gsw: Götz George
+    ht: Götz George
+    hu: Götz George
+    it: Götz George
+    ja: ゲッツ・ジョージ
+    lb: Götz George
+    mul: Götz George
+    nb: Götz George
+    nds: Götz George
+    nl: Götz George
+    nn: Götz George
+    oc: Götz George
+    pl: Götz George
+    pt: Götz George
+    pt-br: Götz George
+    ro: Götz George
+    ru: Гёц Георге
+    sk: Götz George
+    sl: Götz George
+    sq: Gotz George
+    sv: Götz George
+    tr: Götz George
+    uk: Ґец Ґеорґе
+    vo: Götz George
+    zh: 格茨·格奥尔格
+    zh-cn: 格茨·格奥尔格
+    zh-hans: 格茨·格奥尔格
+    zh-hant: 高茲·喬治
 ---
-
 # [[George,Götz]] 
 
 #has_/time_/started :: 1938-07-23 

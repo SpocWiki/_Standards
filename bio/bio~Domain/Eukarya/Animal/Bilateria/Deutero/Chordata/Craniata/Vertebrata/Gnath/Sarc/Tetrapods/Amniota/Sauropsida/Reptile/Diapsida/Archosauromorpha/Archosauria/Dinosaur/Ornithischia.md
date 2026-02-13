@@ -1,10 +1,124 @@
 ---
 aliases:
-  - Ornithischia
-  - Vogelbecken-Dinosaurier
+- Chiáu-pôaⁿ-lūi
+- dinozaury ptasiomiedniczne
+- Fleglar
+- Fågelhöftade dinosaurier
+- Kuş kalçalı dinozorlar
+- Linnunlantioiset
+- madármedencéjűek
+- Ornithischia
+- ornitishiji
+- Ornitiskioj
+- ornitisqui
+- Ornitísquios
+- Oujhoskeas
+- Paukščiadubeniai dinozaurai
+- ptakopánví
+- Putniegurņa dinozauri
+- Vogelbecken-Dinosaurier
+- Vogelbeckensaurier
+- Vtákopanvové dinosaury
+- Vullebeckesaurier
+- Ορνιθίσχια
+- Орнитишийлар
+- птахотазові
+- птицетазови
+- птицетазовые
+- Птицоколковни
+- Птушкатазавыя
+- בעלי אגן דמוי עוף
+- اورنیتیسکینها
+- طيريات الورك
+- ऑर्नीथिस्किया
+- অর্নিথিস্কিয়া
+- ਓਰਨੀਥਿਸਕੀਆ
+- ออร์นิทิสเกีย
+- ფრინველმენჯა დინოზავრები
+- 鳥盤類
+- 鳥臀目
+- 鸟臀目
+- 조반목
 title: Ornithischia
+has_id_wikidata: Q191488
+dv_has_:
+  name_:
+    af: Ornithischia
+    ar: طيريات الورك
+    ast: Ornithischia
+    az: Ornithischia
+    be: Птушкатазавыя
+    bg: птицетазови
+    bn: অর্নিথিস্কিয়া
+    br: Ornithischia
+    ca: ornitisqui
+    ceb: Ornithischia
+    cs: ptakopánví
+    da: Ornithischia
+    de: Vogelbeckensaurier
+    el: Ορνιθίσχια
+    en: Ornithischia
+    eo: Ornitiskioj
+    es: Ornithischia
+    eu: Ornithischia
+    fa: اورنیتیسکینها
+    fi: Linnunlantioiset
+    fr: Ornithischia
+    ga: Ornithischia
+    gl: Ornithischia
+    he: בעלי אגן דמוי עוף
+    hi: ऑर्नीथिस्किया
+    hr: Ornithischia
+    hu: madármedencéjűek
+    ia: Ornithischia
+    id: Ornithischia
+    is: Fleglar
+    it: Ornithischia
+    ja: 鳥盤類
+    ka: ფრინველმენჯა დინოზავრები
+    ko: 조반목
+    la: Ornithischia
+    lb: Vullebeckesaurier
+    lt: Paukščiadubeniai dinozaurai
+    lv: Putniegurņa dinozauri
+    mk: Птицоколковни
+    mul: Ornithischia
+    nan: Chiáu-pôaⁿ-lūi
+    nb: Ornithischia
+    nl: Ornithischia
+    nn: Ornithischia
+    oc: Ornithischia
+    pa: ਓਰਨੀਥਿਸਕੀਆ
+    pl: dinozaury ptasiomiedniczne
+    pt: Ornitísquios
+    ro: Ornithischia
+    ru: птицетазовые
+    sco: Ornithischia
+    sh: Ornithischia
+    sk: Vtákopanvové dinosaury
+    sl: ornitishiji
+    sq: Ornithischia
+    sr: Ornithischia
+    sv: Fågelhöftade dinosaurier
+    th: ออร์นิทิสเกีย
+    tl: Ornithischia
+    tr: Kuş kalçalı dinozorlar
+    tt: Орнитишийлар
+    uk: птахотазові
+    vec: Ornithischia
+    vi: Ornithischia
+    vo: Ornithischia
+    wa: Oujhoskeas
+    war: Ornithischia
+    yue: 鳥臀目
+    zh: 鳥臀目
+    zh-cn: 鸟臀目
+    zh-hans: 鸟臀目
+    zh-hant: 鳥臀目
+    zh-hk: 鳥臀目
+    zh-sg: 鸟臀目
+    zh-tw: 鳥臀目
 ---
-
 # [[Ornithischia]]
 
 Bird-hipped plant-eating dinosaurs 

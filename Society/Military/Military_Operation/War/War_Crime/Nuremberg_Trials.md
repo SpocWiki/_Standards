@@ -1,82 +1,243 @@
 ---
-has_time_started: 1945-11-20 
-has_time_stopped: 1946-10-01 
-location: [ 11.048333333 , 49.454444444 ] 
+has_time_started: 1945-11-20
+has_time_stopped: 1946-10-01
+location: '[[_Standards/WikiData/WD~Palace_of_Justice,128652]]'
 aliases:
+- Gjyqi i Nyrëmbergut
+- Iudicia Norimbergensia
+- Judicis de Nuremberg
+- Juicios de Nüremberg
+- Julgamentos de Nuremberg
+- Kesi za Nuremberg
+- Mga Paglilitis sa Nuremberg
+- Neurenberg-verhore
+- Nirnbergas process
+- Nirnberški proces
+- Niurnbergo karo nusikaltimų tribunolas
+- Norimberský proces
+- Nuremberg trials
+- Nurenbergaj procesoj
+- Nurenbergeko epaiketak
+- Nyurnberg sud jarayoni
+- Nürnberg judicio
+- Nürnberg Sím-phoàⁿ
+- Nürnberg Uluslararası Askerî Ceza Mahkemesi
+- Nürnberg xökeme
+- Nürnberg-réttarhöldin
+- Nürnberger Prozesse
+- Nürnberger Prozesser
+- nürnbergi per
+- Nürnbergi protsess
+- Nürnbergin oikeudenkäynnit
+- Nürnbergprocessen
+- Nürnbergprosessen
+- Nürnberq prosesi
+- Nürnberški proces
+- Nürnberški procesi
+- Perbicaraan Nuremberg
+- Procesele de la Nürnberg
+- Processen van Neurenberg
+- Processo di Norimberga
+- procesy norymberskie
+- procès de Nuremberg
+- Proses Nürnberg
+- Prosessen fan Neurenberch
+- Prosez Nürnberg
+- Treialon Nuremberg
+- tòa án Nürnberg
+- Xuicios de Núremberg
+- Xuízos de Nuremberg
+- Δίκη της Νυρεμβέργης
+- Нирнбершка суђења
+- Нирнбершки процес
+- Нуьрнберган процесс
+- Нюрнберг процесси
+- Нюрнберг процесы
+- Нюрнберг үрдісі
+- Нюрнбергийн шүүх хурал
+- Нюрнбергскі працэс
+- Нюрнбергски процеси
+- Нюрнбергский процесс
+- Нюрнберзький процес
+- Нюрнбэрскі працэс
+- Нүрнберг процеһа
+- Նյուրնբերգյան դատավարություն
+- משפטי נירנברג
+- נירנבערג פראצעס
+- دادگاه نورنبرگ
+- دادگاییەکانی نورنبێرگ
+- محاكمات نورنبيرغ
+- محكمة نورنبيرج
+- نورنبرق محکمهسی
+- نیورمبرگ وچ بین الاقوامی فوجی عدالت
+- নুরেমবার্গ বিচার
+- நியூரம்பெர்க் தீர்ப்பாயம்
+- ന്യൂറംബർഗ് വിചാരണകൾ
+- การพิจารณาคดีเนือร์นแบร์ก
+- ნიურნბერგის პროცესი
+- ニュルンベルク裁判
+- 紐倫堡審判
+- 纽伦堡审判
+- 뉘른베르크 재판
 has_id_wikidata: Q80130
 defendant:
-  - "[[_Standards/WikiData/WD~Alfred_Rosenberg,75849]]"
-  - "[[_Standards/WikiData/WD~Rudolf_Hess,75866]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Keitel,76361]]"
-  - "[[_Standards/WikiData/WD~Martin_Bormann,76367]]"
-  - "[[_Standards/WikiData/WD~Karl_Dönitz,76437]]"
-  - "[[_Standards/WikiData/WD~Baldur_von_Schirach,76876]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Frick,76887]]"
-  - "[[_Standards/WikiData/WD~Julius_Streicher,76984]]"
-  - "[[_Standards/WikiData/WD~Fritz_Sauckel,77093]]"
-  - "[[_Standards/WikiData/WD~Ernst_Kaltenbrunner,78473]]"
-  - "[[_Standards/WikiData/WD~Joachim_von_Ribbentrop,101886]]"
-  - "[[_Standards/WikiData/WD~Franz_von_Papen,150552]]"
-  - "[[_Standards/WikiData/WD~Hjalmar_Schacht,151691]]"
-  - "[[_Standards/WikiData/WD~Konstantin_von_Neurath,153421]]"
-  - "[[_Standards/WikiData/WD~Gustav_Krupp_von_Bohlen_und_Halbach,155871]]"
-  - "[[_Standards/WikiData/WD~Arthur_Seyss_Inquart,650219]]"
-  - "[[_Standards/WikiData/WD~Hermann_Göring,47906]]"
-  - "[[_Standards/WikiData/WD~Alfred_Jodl,57123]]"
-  - "[[_Standards/WikiData/WD~Erich_Raeder,57154]]"
-  - "[[_Standards/WikiData/WD~Walther_Funk,57237]]"
-  - "[[_Standards/WikiData/WD~Hans_Fritzsche,58620]]"
-  - "[[_Standards/WikiData/WD~Robert_Ley,58645]]"
-  - "[[_Standards/WikiData/WD~Albert_Speer,60045]]"
-  - "[[_Standards/WikiData/WD~Hans_Frank,60087]]"
-location: "[[_Standards/WikiData/WD~Palace_of_Justice,128652]]"
+- '[[_Standards/WikiData/WD~Alfred_Rosenberg,75849]]'
+- '[[_Standards/WikiData/WD~Rudolf_Hess,75866]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Keitel,76361]]'
+- '[[_Standards/WikiData/WD~Martin_Bormann,76367]]'
+- '[[_Standards/WikiData/WD~Karl_Dönitz,76437]]'
+- '[[_Standards/WikiData/WD~Baldur_von_Schirach,76876]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Frick,76887]]'
+- '[[_Standards/WikiData/WD~Julius_Streicher,76984]]'
+- '[[_Standards/WikiData/WD~Fritz_Sauckel,77093]]'
+- '[[_Standards/WikiData/WD~Ernst_Kaltenbrunner,78473]]'
+- '[[_Standards/WikiData/WD~Joachim_von_Ribbentrop,101886]]'
+- '[[_Standards/WikiData/WD~Franz_von_Papen,150552]]'
+- '[[_Standards/WikiData/WD~Hjalmar_Schacht,151691]]'
+- '[[_Standards/WikiData/WD~Konstantin_von_Neurath,153421]]'
+- '[[_Standards/WikiData/WD~Gustav_Krupp_von_Bohlen_und_Halbach,155871]]'
+- '[[_Standards/WikiData/WD~Arthur_Seyss_Inquart,650219]]'
+- '[[_Standards/WikiData/WD~Hermann_Göring,47906]]'
+- '[[_Standards/WikiData/WD~Alfred_Jodl,57123]]'
+- '[[_Standards/WikiData/WD~Erich_Raeder,57154]]'
+- '[[_Standards/WikiData/WD~Walther_Funk,57237]]'
+- '[[_Standards/WikiData/WD~Hans_Fritzsche,58620]]'
+- '[[_Standards/WikiData/WD~Robert_Ley,58645]]'
+- '[[_Standards/WikiData/WD~Albert_Speer,60045]]'
+- '[[_Standards/WikiData/WD~Hans_Frank,60087]]'
 charge:
-  - "[[_Standards/WikiData/WD~war_crime,135010]]"
-  - "[[_Standards/WikiData/WD~crime_against_humanity,173462]]"
-  - "[[_Standards/WikiData/WD~war_of_aggression,474138]]"
-  - "[[_Standards/WikiData/WD~conspiracy,930164]]"
+- '[[_Standards/WikiData/WD~war_crime,135010]]'
+- '[[_Standards/WikiData/WD~crime_against_humanity,173462]]'
+- '[[_Standards/WikiData/WD~war_of_aggression,474138]]'
+- '[[_Standards/WikiData/WD~conspiracy,930164]]'
 plaintiff:
-  - "[[_Standards/WikiData/WD~François_de_Menthon,315029]]"
-  - "[[_Standards/WikiData/WD~Hartley_Shawcross,334142]]"
-  - "[[_Standards/WikiData/WD~Auguste_Champetier_de_Ribes,478746]]"
-  - "[[_Standards/WikiData/WD~Robert_H._Jackson,505450]]"
-  - "[[_Standards/WikiData/WD~Roman_Rudenko,706118]]"
+- '[[_Standards/WikiData/WD~François_de_Menthon,315029]]'
+- '[[_Standards/WikiData/WD~Hartley_Shawcross,334142]]'
+- '[[_Standards/WikiData/WD~Auguste_Champetier_de_Ribes,478746]]'
+- '[[_Standards/WikiData/WD~Robert_H._Jackson,505450]]'
+- '[[_Standards/WikiData/WD~Roman_Rudenko,706118]]'
 judge:
-  - "[[_Standards/WikiData/WD~Robert_Falco,316461]]"
-  - "[[_Standards/WikiData/WD~Norman_Birkett,_1st_Baron_Birkett,333244]]"
-  - "[[_Standards/WikiData/WD~Geoffrey_Lawrence,_1st_Baron_Oaksey,336459]]"
-  - "[[_Standards/WikiData/WD~Henri_Donnedieu_de_Vabres,377099]]"
-  - "[[_Standards/WikiData/WD~John_J._Parker,532337]]"
-  - "[[_Standards/WikiData/WD~Iona_Nikitchenko,649719]]"
-  - "[[_Standards/WikiData/WD~Francis_Biddle,706147]]"
-  - "[[_Standards/WikiData/WD~Alexander_Volchkov,3658322]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Nuremberg_Charter,820183]]"
-instance_of: "[[_Standards/WikiData/WD~war_crimes_trial,1265353]]"
-different_from: "[[_Standards/WikiData/WD~Q4328551,4328551]]"
-bibliography: "[[_Standards/WikiData/WD~Nuremberg_Trials_bibliography,7070094]]"
-history_of_topic: "[[_Standards/WikiData/WD~Nuremberg_Trials_bibliography,7070094]]"
-subclass_of: "[[_Standards/WikiData/WD~trial,8016240]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Main_Nuremberg_defendants,11175724]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Robert_Falco,316461]]'
+- '[[_Standards/WikiData/WD~Norman_Birkett,_1st_Baron_Birkett,333244]]'
+- '[[_Standards/WikiData/WD~Geoffrey_Lawrence,_1st_Baron_Oaksey,336459]]'
+- '[[_Standards/WikiData/WD~Henri_Donnedieu_de_Vabres,377099]]'
+- '[[_Standards/WikiData/WD~John_J._Parker,532337]]'
+- '[[_Standards/WikiData/WD~Iona_Nikitchenko,649719]]'
+- '[[_Standards/WikiData/WD~Francis_Biddle,706147]]'
+- '[[_Standards/WikiData/WD~Alexander_Volchkov,3658322]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Nuremberg_Charter,820183]]'
+instance_of: '[[_Standards/WikiData/WD~war_crimes_trial,1265353]]'
+different_from: '[[_Standards/WikiData/WD~Q4328551,4328551]]'
+bibliography: '[[_Standards/WikiData/WD~Nuremberg_Trials_bibliography,7070094]]'
+history_of_topic: '[[_Standards/WikiData/WD~Nuremberg_Trials_bibliography,7070094]]'
+subclass_of: '[[_Standards/WikiData/WD~trial,8016240]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Main_Nuremberg_defendants,11175724]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 coordinate_location: Point(11.048333333 49.454444444)
-U_S_National_Archives_Identifier: "10643760"
+U_S_National_Archives_Identifier: 10643760
 Commons_gallery: Nuremberg Trials
 Commons_category: Nuremberg Trials
 end_time: 1946-10-01T00:00:00Z
 start_time: 1945-11-20T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Defendants%20in%20the%20dock%20at%20nuremberg%20trials.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg%20Trials.%20Looking%20down%20on%20defendants%20dock%2C%20circa%201945-1946.%20-%20NARA%20-%20540127.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Defendants%20in%20the%20dock%20at%20nuremberg%20trials.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nuremberg%20Trials.%20Looking%20down%20on%20defendants%20dock%2C%20circa%201945-1946.%20-%20NARA%20-%20540127.jpg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20N%C3%BCrnberger%20Kriegsverbrecherprozesse.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Proces%20van%20Neurenberg-article.ogg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Tribunal%20militaire%20international%20Nuremberg%20logo.gif
 official_website: http://museen.nuernberg.de/memorium-nuernberger-prozesse/
 work_available_at_URL: https://archive.org/details/TheNurnbergTrial
-RIA_Novosti_reference: "1478112882"
+RIA_Novosti_reference: 1478112882
 Krugosvet_article_archived_: ekonomika-i-pravo/nyurnbergskiy-process
+dv_has_:
+  name_:
+    af: Neurenberg-verhore
+    ar: محاكمات نورنبيرغ
+    arz: محكمة نورنبيرج
+    ast: Xuicios de Núremberg
+    az: Nürnberq prosesi
+    azb: نورنبرق محکمهسی
+    ba: Нюрнберг процесы
+    be: Нюрнбергскі працэс
+    be-tarask: Нюрнбэрскі працэс
+    bg: Нюрнбергски процеси
+    bn: নুরেমবার্গ বিচার
+    br: Prosez Nürnberg
+    bs: Nirnberški proces
+    ca: Judicis de Nuremberg
+    ce: Нуьрнберган процесс
+    ckb: دادگاییەکانی نورنبێرگ
+    cs: Norimberský proces
+    cy: Treialon Nuremberg
+    da: Nürnbergprocessen
+    de: Nürnberger Prozesse
+    el: Δίκη της Νυρεμβέργης
+    en: Nuremberg trials
+    eo: Nurenbergaj procesoj
+    es: Juicios de Nüremberg
+    et: Nürnbergi protsess
+    eu: Nurenbergeko epaiketak
+    fa: دادگاه نورنبرگ
+    fi: Nürnbergin oikeudenkäynnit
+    fr: procès de Nuremberg
+    fy: Prosessen fan Neurenberch
+    gl: Xuízos de Nuremberg
+    he: משפטי נירנברג
+    hr: Nürnberški proces
+    hu: nürnbergi per
+    hy: Նյուրնբերգյան դատավարություն
+    id: Proses Nürnberg
+    io: Nürnberg judicio
+    is: Nürnberg-réttarhöldin
+    it: Processo di Norimberga
+    ja: ニュルンベルク裁判
+    ka: ნიურნბერგის პროცესი
+    kk: Нюрнберг үрдісі
+    ko: 뉘른베르크 재판
+    ky: Нюрнберг процесси
+    la: Iudicia Norimbergensia
+    lb: Nürnberger Prozesser
+    lt: Niurnbergo karo nusikaltimų tribunolas
+    lv: Nirnbergas process
+    lzh: 紐倫堡審判
+    mk: Нирнбершки процес
+    ml: ന്യൂറംബർഗ് വിചാരണകൾ
+    mn: Нюрнбергийн шүүх хурал
+    ms: Perbicaraan Nuremberg
+    nan: Nürnberg Sím-phoàⁿ
+    nb: Nürnbergprosessen
+    nl: Processen van Neurenberg
+    nn: Nürnbergprosessen
+    oc: Procès de Nuremberg
+    pl: procesy norymberskie
+    pnb: نیورمبرگ وچ بین الاقوامی فوجی عدالت
+    pt: Julgamentos de Nuremberg
+    ro: Procesele de la Nürnberg
+    ru: Нюрнбергский процесс
+    sah: Нүрнберг процеһа
+    sco: Nuremberg Trials
+    sh: Nürnberški proces
+    sk: Norimberský proces
+    sl: Nürnberški procesi
+    sq: Gjyqi i Nyrëmbergut
+    sr: Нирнбершка суђења
+    sv: Nürnbergprocessen
+    sw: Kesi za Nuremberg
+    ta: நியூரம்பெர்க் தீர்ப்பாயம்
+    th: การพิจารณาคดีเนือร์นแบร์ก
+    tl: Mga Paglilitis sa Nuremberg
+    tr: Nürnberg Uluslararası Askerî Ceza Mahkemesi
+    tt: Nürnberg xökeme
+    uk: Нюрнберзький процес
+    uz: Nyurnberg sud jarayoni
+    vi: tòa án Nürnberg
+    wuu: 纽伦堡审判
+    yi: נירנבערג פראצעס
+    yue: 紐倫堡審判
+    zh: 纽伦堡审判
+    zh-hans: 纽伦堡审判
 ---
-
 # [[Nuremberg_Trials]] 
 
 #is_/same_as :: [[WD~Nuremberg_trials,80130]] 

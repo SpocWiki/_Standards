@@ -1,28 +1,96 @@
 ---
 aliases:
-  - Scepticism
-  - Skepticism
+- Amgredoni
+- ceticismo
+- chủ nghĩa hoài nghi
+- efahyggja
+- escepticisme
+- escepticismo
+- Escepticismu
+- eszeptizismo
+- Hoâi-gî-chú-gī
+- Keraguan
+- kuşkuculuk
+- metodologia dubo
+- Qoonsadnimo
+- Scepticism
+- scepticisme
+- scepticismo
+- scepticismus
+- sceptycyzm
+- scetticismo metodologico
+- Seticism
+- seticisme
+- setisismo
+- Skepticism
+- skepticisme
+- skepticisms
+- skepticismus
+- Skepticizam
+- skepticizem
+- skepticizm
+- skepticizmas
+- skepticizmi
+- skepticizmus
+- skeptisism
+- skeptisisma
+- Skeptisisma (filôzôfia)
+- skeptisisme
+- skeptisismm
+- skeptisissma
+- Skeptisizim
+- Skeptisizm
+- skeptismi
+- skeptitsism
+- Skeptitsizm
+- Skeptizismus
+- szkepticizmus
+- σκεπτικισμός
+- Скептіцізм
+- скептицизам
+- скептицизм
+- Скептицизъм
+- скептыцызм
+- Шаккокия
+- սկեպտիցիզմ
+- ספקנות
+- ارتیابیت
+- شكمن توب فلسفه
+- شكوكية
+- شکگرایی
+- گومانکاری
+- संशयवाद
+- সংশয়বাদ
+- ਸ਼ੰਕਾਵਾਦ
+- સંશયવાદ
+- ஐயுறவியல்
+- సంశయవాదం
+- วิมตินิยม
+- 怀疑论
+- 懐疑主義
+- 懷疑論
+- 회의주의
 has_id_wikidata: Q1395219
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~attitude,622645]]"
-  - "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
+- '[[_Standards/WikiData/WD~attitude,622645]]'
+- '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~scientific_skepticism,929771]]"
-  - "[[_Standards/WikiData/WD~philosophical_skepticism,1998646]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Skepticism,8005825]]"
-subclass_of: "[[_Standards/WikiData/WD~tendency,55919789]]"
-practiced_by: "[[_Standards/WikiData/WD~skeptic,106640477]]"
-contributing_factor_of: "[[_Standards/WikiData/WD~doubt,34302]]"
+- '[[_Standards/WikiData/WD~scientific_skepticism,929771]]'
+- '[[_Standards/WikiData/WD~philosophical_skepticism,1998646]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Skepticism,8005825]]'
+subclass_of: '[[_Standards/WikiData/WD~tendency,55919789]]'
+practiced_by: '[[_Standards/WikiData/WD~skeptic,106640477]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~doubt,34302]]'
 IMDb_keyword: skepticism
 native_label: σκεπτικός
 subreddit: skeptic
@@ -30,8 +98,100 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Head%20Karneades%20Gly
 Dewey_Decimal_Classification: 211.7
 Krugosvet_article: gumanitarnye_nauki/filosofiya/SKEPTITSIZM.html
 Commons_category: Skepticism
+dv_has_:
+  name_:
+    af: skeptisisme
+    an: scepticismo
+    ar: شكوكية
+    ast: Escepticismu
+    az: Skeptisizm
+    ba: Скептицизм
+    be: скептыцызм
+    be-tarask: скептыцызм
+    bg: Скептицизъм
+    bjn: Skeptisisme
+    bn: সংশয়বাদ
+    br: Amgredoni
+    bs: Skepticizam
+    btm: Skeptisisme
+    ca: escepticisme
+    ckb: گومانکاری
+    cs: skepticismus
+    da: skepticisme
+    de: Skeptizismus
+    el: σκεπτικισμός
+    en: skepticism
+    eo: metodologia dubo
+    es: escepticismo
+    et: skeptitsism
+    eu: eszeptizismo
+    fa: شکگرایی
+    fi: skeptismi
+    fr: scepticisme
+    gl: escepticismo
+    gu: સંશયવાદ
+    he: ספקנות
+    hi: संशयवाद
+    hr: skepticizam
+    hu: szkepticizmus
+    hy: սկեպտիցիզմ
+    ia: scepticismo
+    id: skeptisisme
+    is: efahyggja
+    it: scetticismo metodologico
+    ja: 懐疑主義
+    jam: Skeptisizim
+    kk: Скептицизм
+    ko: 회의주의
+    ky: Скептицизм
+    la: scepticismus
+    lfn: seticisme
+    lt: skepticizmas
+    lv: skepticisms
+    mg: Skeptisisma (filôzôfia)
+    min: Skeptisisme
+    ms: Keraguan
+    nan: Hoâi-gî-chú-gī
+    nb: skeptisisme
+    nl: scepticisme
+    oc: scepticisme
+    pa: ਸ਼ੰਕਾਵਾਦ
+    pl: sceptycyzm
+    pms: Seticism
+    ps: شكمن توب فلسفه
+    pt: ceticismo
+    ro: scepticism
+    ru: скептицизм
+    rue: Скептіцізм
+    se: skeptisisma
+    sh: Skepticizam
+    sje: skeptisissma
+    sk: skepticizmus
+    sl: skepticizem
+    sma: skeptisisme
+    smj: skeptisissma
+    smn: skeptisism
+    sms: skeptisismm
+    so: Qoonsadnimo
+    sq: skepticizmi
+    sr: скептицизам
+    sv: skepticism
+    ta: ஐயுறவியல்
+    te: సంశయవాదం
+    tg: Шаккокия
+    th: วิมตินิยม
+    tr: kuşkuculuk
+    tt: скептицизм
+    uk: скептицизм
+    ur: ارتیابیت
+    uz: Skeptitsizm
+    vec: setisismo
+    vep: skepticizm
+    vi: chủ nghĩa hoài nghi
+    wuu: 怀疑论
+    yue: 懷疑論
+    zh: 懷疑論
 ---
-
 # [[Skepticism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Skepticism,1395219|WD~Skepticism,1395219]] 

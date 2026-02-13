@@ -1,4 +1,42 @@
-
+---
+has_id_wikidata: Q342149
+dv_has_:
+  name_:
+    ar: شركة آكرون
+    be-tarask: Acorn Computers
+    ca: Acorn Computers
+    da: Acorn Computers
+    de: Acorn
+    de-ch: Acorn
+    el: Acorn Computers
+    en: Acorn Computers
+    en-ca: Acorn Computers
+    en-gb: Acorn Computers
+    es: Acorn Computers
+    fi: Acorn Computers
+    fr: Acorn Computers
+    hr: Acorn Computers
+    is: Acorn Computers
+    it: Acorn Computers
+    ja: エイコーン・コンピュータ
+    ko: 아콘 컴퓨터
+    mul: Acorn Computers
+    nb: Acorn Computers
+    nl: Acorn Computers
+    pl: Acorn Computers
+    pt: Acorn Computers
+    pt-br: Acorn Computers
+    sv: Acorn
+    tr: Acorn Computers
+    zh: 艾康電腦
+aliases:
+- Acorn
+- Acorn Computers
+- شركة آكرون
+- エイコーン・コンピュータ
+- 艾康電腦
+- 아콘 컴퓨터
+---
 # [[Acorn_Computers]]
 
 #has_/creator :: [ "[[Hauser,Hermann]]", "[[Curry,Chris]]" ]  

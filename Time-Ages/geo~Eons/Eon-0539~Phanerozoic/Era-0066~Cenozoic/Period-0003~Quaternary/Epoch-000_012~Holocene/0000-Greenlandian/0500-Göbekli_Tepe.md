@@ -33,7 +33,7 @@ Commons_category: Göbekli Tepe
 native_label: Göbeklitepe
 dv_is_:
   same_as:
-    - "[[WD~Göbekli Tepe,214944]]"
+    - "[[WD~Göbekli_Tepe,214944]]"
     - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe|0500-Göbekli_Tepe]]"
     - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.public|0500-Göbekli_Tepe.public]]"
     - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.internal|0500-Göbekli_Tepe.internal]]"
@@ -42,7 +42,7 @@ dv_is_:
     - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.personal|0500-Göbekli_Tepe.personal]]"
     - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.secret|0500-Göbekli_Tepe.secret]]"
 dv_is_same_as:
-  - "[[WD~Göbekli Tepe,214944]]"
+  - "[[WD~Göbekli_Tepe,214944]]"
   - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe|0500-Göbekli_Tepe]]"
   - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.public|0500-Göbekli_Tepe.public]]"
   - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.internal|0500-Göbekli_Tepe.internal]]"
@@ -54,7 +54,7 @@ dv_is_same_as:
 
 # [[0500-Göbekli_Tepe]] 
 
-#is_/same_as :: [[WD~Göbekli Tepe,214944]] 
+#is_/same_as :: [[WD~Göbekli_Tepe,214944]] 
 
 ## #has_/text_of_/abstract 
 

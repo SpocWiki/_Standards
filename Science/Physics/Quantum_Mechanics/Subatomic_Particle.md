@@ -1,21 +1,215 @@
 ---
 aliases:
+- Atomaltı parçacık
+- Ayrneen fo-vreneenagh
+- Chembe za nyuklia
+- cząstka subatomowa
+- cáithnín fo-adamhach
+- gronyn isatomig
+- hạt hạ nguyên tử
+- I-subatomic particle
+- INhlayiyana yeChwe
+- Keriyê atomê
+- Maddə və sahə zərrəcikləri
+- particedda suttatòmica
+- particella subatomica
+- Particula subatomic
+- Particula subatomica
+- particule subatomique
+- Particulă
+- Partikel subatom
+- Partikel subatomik
+- Partikil soubatomik
+- Partikula subatomiko
+- partícula subatòmica
+- partícula subatómica
+- partícula subatômica
+- Patikil sibatomik
+- podatomski delec
+- Sobatamik paatikl
+- subatoma partiklo
+- Subatoma partikulo
+- Subatomaarsed osakesed
+- subatomair deeltje
+- Subatomair deilkes
+- subatomar partikel
+- subatomares Teilchen
+- subatomi partikle
+- Subatomic particle
+- Subatomiese deeltjie
+- Subatomik zarracha
+- Subatominė dalelė
+- subatomiset hiukkaset
+- subatomska čestica
+- Subatomske čestice
+- subatomárna častica
+- subatomární částice
+- Subatomär partikel
+- subatomær partikkel
+- subatomāra daļiņa
+- Suudoowwan cita-atoomawaa
+- szubatomi részecske
+- Tsibiputin
+- zarah subatom
+- Ā nguòng-cṳ̄ lĭk-cṳ̄
+- υποατομικά σωματίδια
+- Атомаас жижиг бөөм
+- Субатамная часціца
+- субатамная часьцінка
+- Субатомна частинка
+- субатомная частица
+- Субатомни частици
+- субатомска честица
+- субатомска честичка
+- ներատոմային մասնիկ
+- חלקיק תת-אטומי
+- اتوم پارچاجیقلاری
+- تەنۆکەی ژێرگەردیلەیی
+- جسيم دون ذري
+- ذرات زیراتمی
+- ذره سوباتوم
+- زیرجوہری ذرہ
+- كسيد تحت دري
+- उप-परमाणविक कण
+- पारपाणविक कण
+- सबएटॉमिक पार्टिकल
+- অতিপারমাণবিক কণা
+- ਉੱਪ-ਪਰਮਾਣੂ ਕਣ
+- અવપરમાણ્વીય કણ
+- அணுவடித்துகள்
+- పరమాణువు
+- ಉಪಪರಮಾಣು ಕಣ
+- ഉപാണുകണങ്ങൾ
+- උප පරමාණුක අංශු
+- อนุภาคย่อยของอะตอม
+- အခြေခံအမှုန်များ
+- სუბატომური ნაწილაკები
+- 亚原子粒子
+- 亜原子粒子
+- 亞原子粒子
+- 次原子粒子
+- 아원자 입자
 has_id_wikidata: Q177013
-topic_has_template: "[[_Standards/WikiData/WD~Template_Subatomic_particle,5616536]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~quantum_particle,28693603]]"
-subclass_of: "[[_Standards/WikiData/WD~quantum_particle,28693603]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Subatomic_particle,5616536]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~quantum_particle,28693603]]'
+subclass_of: '[[_Standards/WikiData/WD~quantum_particle,28693603]]'
 properties_for_this_type:
-  - spin quantum number
-  - electric charge
-part_of: "[[_Standards/WikiData/WD~atom,9121]]"
-interaction: "[[_Standards/WikiData/WD~gravity,11412]]"
-studied_by: "[[_Standards/WikiData/WD~particle_physics,18334]]"
-OmegaWiki_Defined_Meaning: "2722"
+- spin quantum number
+- electric charge
+part_of: '[[_Standards/WikiData/WD~atom,9121]]'
+interaction: '[[_Standards/WikiData/WD~gravity,11412]]'
+studied_by: '[[_Standards/WikiData/WD~particle_physics,18334]]'
+OmegaWiki_Defined_Meaning: 2722
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atom.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Classement%20particules.jpg
 Commons_category: Subatomic particles
+dv_has_:
+  name_:
+    af: Subatomiese deeltjie
+    ar: جسيم دون ذري
+    ary: كسيد تحت دري
+    ast: Partícula subatómica
+    az: Maddə və sahə zərrəcikləri
+    azb: اتوم پارچاجیقلاری
+    be: Субатамная часціца
+    be-tarask: субатамная часьцінка
+    bg: Субатомни частици
+    bho: सबएटॉमिक पार्टिकल
+    blk: Subatomic particle
+    bn: অতিপারমাণবিক কণা
+    bs: Subatomske čestice
+    ca: partícula subatòmica
+    cdo: Ā nguòng-cṳ̄ lĭk-cṳ̄
+    ckb: تەنۆکەی ژێرگەردیلەیی
+    cs: subatomární částice
+    cy: gronyn isatomig
+    da: subatomar partikel
+    de: subatomares Teilchen
+    el: υποατομικά σωματίδια
+    en: subatomic particle
+    eo: subatoma partiklo
+    es: partícula subatómica
+    et: Subatomaarsed osakesed
+    eu: Partikula subatomiko
+    fa: ذرات زیراتمی
+    fi: subatomiset hiukkaset
+    fr: particule subatomique
+    ga: cáithnín fo-adamhach
+    gcr: Partikil soubatomik
+    gl: partícula subatómica
+    gu: અવપરમાણ્વીય કણ
+    gv: Ayrneen fo-vreneenagh
+    he: חלקיק תת-אטומי
+    hi: उप-परमाणविक कण
+    hr: subatomska čestica
+    ht: Patikil sibatomik
+    hu: szubatomi részecske
+    hy: ներատոմային մասնիկ
+    ia: Particula subatomic
+    id: Partikel subatom
+    io: Subatoma partikulo
+    it: particella subatomica
+    ja: 亜原子粒子
+    jam: Sobatamik paatikl
+    ka: სუბატომური ნაწილაკები
+    kn: ಉಪಪರಮಾಣು ಕಣ
+    ko: 아원자 입자
+    ku: Keriyê atomê
+    la: Particula subatomica
+    li: Subatomair deilkes
+    lt: Subatominė dalelė
+    lv: subatomāra daļiņa
+    mk: субатомска честичка
+    ml: ഉപാണുകണങ്ങൾ
+    mn: Атомаас жижиг бөөм
+    ms: zarah subatom
+    ms-arab: ذره سوباتوم
+    my: အခြေခံအမှုန်များ
+    nb: subatomær partikkel
+    ne: पारपाणविक कण
+    nl: subatomair deeltje
+    nn: subatomær partikkel
+    nov: subatomi partikle
+    oc: particula subatomica
+    om: Suudoowwan cita-atoomawaa
+    pa: ਉੱਪ-ਪਰਮਾਣੂ ਕਣ
+    pl: cząstka subatomowa
+    pt: partícula subatómica
+    pt-br: partícula subatômica
+    ro: Particulă
+    ru: субатомная частица
+    scn: particedda suttatòmica
+    sh: Subatomske čestice
+    si: උප පරමාණුක අංශු
+    sk: subatomárna častica
+    sl: podatomski delec
+    sr: субатомска честица
+    sr-ec: субатомска честица
+    sr-el: subatomska čestica
+    su: Partikel subatomik
+    sv: Subatomär partikel
+    sw: Chembe za nyuklia
+    ta: அணுவடித்துகள்
+    te: పరమాణువు
+    th: อนุภาคย่อยของอะตอม
+    tr: Atomaltı parçacık
+    uk: Субатомна частинка
+    ur: زیرجوہری ذرہ
+    uz: Subatomik zarracha
+    vi: hạt hạ nguyên tử
+    vro: Tsibiputin
+    wuu: 亚原子粒子
+    xh: I-subatomic particle
+    yue: 亞原子粒子
+    zh: 次原子粒子
+    zh-cn: 次原子粒子
+    zh-hans: 次原子粒子
+    zh-hant: 次原子粒子
+    zh-hk: 次原子粒子
+    zh-sg: 次原子粒子
+    zh-tw: 次原子粒子
+    zu: INhlayiyana yeChwe
 ---
-
 # [[Subatomic_Particle]] 
 
 #is_/same_as :: [[WD~Subatomic_particle,177013]] 

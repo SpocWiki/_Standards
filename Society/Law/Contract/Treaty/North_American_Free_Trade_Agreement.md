@@ -1,38 +1,90 @@
 ---
-has_time_started: 1994-01-01 
+has_time_started: 1994-01-01
 aliases:
-  - North American Free Trade Agreement
-  - Tratado de Libre Comercio de América del Norte
-  - TLCAN
-  - Accord de libre-échange nord-américain
-  - ALÉNA
-  - North_American_Free_Trade_Agreement
+- Accord de libre-échange nord-américain
+- Acoird di Libe Comiece di l' Amerike bijhrece
+- Acordul Nord American de Comerț Liber
+- Acòrd ëd lìber ëscambi nòrd-american
+- ALÉNA
+- Emglev frankeskemm Norzh Amerika
+- Fríverslunarsamningur Norður-Ameríku
+- Hiệp định Thương mại Tự do Bắc Mỹ
+- Ipar Ameriketako Merkataritza Librerako Hitzarmena
+- Kontrato pri Libera Komerco di Nord-Amerika
+- Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması
+- NAFTA
+- Noord-Amerikaanse Vrijhandelsovereenkomst
+- Nordamerika Liberkomerca Interkonsento
+- Nordamerikanisches Freihandelsabkommen
+- North American Free Trade Agreement
+- North_American_Free_Trade_Agreement
+- Perjanjian Perdagangan Bebas Amerika Utara
+- Pet-mî Chhṳ-yù Mo-yi Hia̍p-ngi
+- Północnoamerykański Układ Wolnego Handlu
+- Severnoamerički sporazum o slobodnoj trgovini
+- Severnoameriški sporazum o svobodni trgovini
+- Severoamerická dohoda o voľnom obchode
+- Sjevernoamerički sporazum o slobodnoj trgovini
+- TLCAN
+- Tratado de Libre Comercio de América del Norte
+- Tratado de libre comercio de América do Norte
+- Tratado Norte-Americano de Livre Comércio
+- Tratáu de Llibre Comerciu d'América del Norte
+- Ziemeļamerikas brīvās tirdzniecības nolīgums
+- Àrea de Lliure Comerç d'Amèrica del Nord
+- Àrea de Lìbaro Comèrcio d'Amèrica del Nord
+- Észak-amerikai Szabadkereskedelmi Egyezmény
+- Şimali Amerika Azad Ticarət Assosiasiyası
+- Šiaurės Amerikos laisvos prekybos sutartis
+- Συμφωνία Ελεύθερου Εμπορίου Βόρειας Αμερικής
+- Північноамериканська зона вільної торгівлі
+- Паўночнаамерыканская зона свабоднага гандлю
+- Паўночнаамэрыканская зона свабоднага гандлю
+- Северноамериканска зона на слободна трговија
+- Северноамериканско споразумение за свободна търговия
+- Северноамерички споразум о слободној трговини
+- Североамериканская зона свободной торговли
+- Ազատ առևտրի հյուսիսամերիկյան գոտի
+- הסכם הסחר החופשי של צפון אמריקה
+- اُتر آمريڪا آزاد واپار ٺاهه
+- د شمالي امریکا د ازادې سوداګرۍ تړون
+- قرارداد تجارت آزاد آمریکای شمالی
+- نافتا
+- نافطا
+- ڕێککەوتنی بازرگانی ئازادی ئەمریکای باکوور
+- उत्तर अमेरिकी मुक्त व्यापार समझौता
+- ข้อตกลงการค้าเสรีอเมริกาเหนือ
+- ჩრდილოამერიკული თავისუფალი ვაჭრობის ზონა
+- 北米自由貿易協定
+- 北美自由貿易協議
+- 北美自由贸易协议
+- 북미자유무역협정
 has_id_wikidata: Q181574
 instance_of:
-  - '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
-  - '[[_Standards/WikiData/WD~free_trade_agreement,3536928]]'
+- '[[_Standards/WikiData/WD~trade_bloc,1129645]]'
+- '[[_Standards/WikiData/WD~free_trade_agreement,3536928]]'
 replaces: '[[_Standards/WikiData/WD~Canada_United_States_Free_Trade_Agreement,2665587]]'
 follows: '[[_Standards/WikiData/WD~Canada_United_States_Free_Trade_Agreement,2665587]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_NAFTA,11210212]]'
 has_characteristic: '[[_Standards/WikiData/WD~trilateralism,75029290]]'
 official_language:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 headquarters_location: '[[_Standards/WikiData/WD~Ottawa,1930]]'
 applies_to_jurisdiction:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Canada,16]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
 short_name:
-  - TLC
-  - ALENA
-  - NAFTA
-  - НАФТА
+- TLC
+- ALENA
+- NAFTA
+- НАФТА
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20American%20Agreement%20%28orthographic%20projection%29.svg
 Commons_category: North American Free Trade Agreement
 inception: 1994-01-01T00:00:00Z
@@ -41,8 +93,88 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/NAFTA%20logo.svg
 official_website: http://www.nafta-sec-alena.org/
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/SEVEROAMERIKANSKOE_SOGLASHENIE_O_SVOBODNO_TORGOVLE_NAFTA.html
 EU_Corporate_body_code: NAFTA
+dv_has_:
+  name_:
+    af: NAFTA
+    ar: نافتا
+    ary: نافطا
+    ast: Tratáu de Llibre Comerciu d'América del Norte
+    az: Şimali Amerika Azad Ticarət Assosiasiyası
+    be: Паўночнаамерыканская зона свабоднага гандлю
+    be-tarask: Паўночнаамэрыканская зона свабоднага гандлю
+    bg: Северноамериканско споразумение за свободна търговия
+    br: Emglev frankeskemm Norzh Amerika
+    ca: Àrea de Lliure Comerç d'Amèrica del Nord
+    ckb: ڕێککەوتنی بازرگانی ئازادی ئەمریکای باکوور
+    cs: NAFTA
+    da: North American Free Trade Agreement
+    de: Nordamerikanisches Freihandelsabkommen
+    de-ch: Nordamerikanisches Freihandelsabkommen
+    el: Συμφωνία Ελεύθερου Εμπορίου Βόρειας Αμερικής
+    en: North American Free Trade Agreement
+    en-ca: North American Free Trade Agreement
+    en-gb: North American Free Trade Agreement
+    en-us: North American Free Trade Agreement
+    eo: Nordamerika Liberkomerca Interkonsento
+    es: Tratado de Libre Comercio de América del Norte
+    et: NAFTA
+    eu: Ipar Ameriketako Merkataritza Librerako Hitzarmena
+    fa: قرارداد تجارت آزاد آمریکای شمالی
+    fi: NAFTA
+    fo: NAFTA
+    fr: Accord de libre-échange nord-américain
+    gl: Tratado de libre comercio de América do Norte
+    hak: Pet-mî Chhṳ-yù Mo-yi Hia̍p-ngi
+    he: הסכם הסחר החופשי של צפון אמריקה
+    hi: उत्तर अमेरिकी मुक्त व्यापार समझौता
+    hr: Sjevernoamerički sporazum o slobodnoj trgovini
+    hu: Észak-amerikai Szabadkereskedelmi Egyezmény
+    hy: Ազատ առևտրի հյուսիսամերիկյան գոտի
+    id: Perjanjian Perdagangan Bebas Amerika Utara
+    io: Kontrato pri Libera Komerco di Nord-Amerika
+    is: Fríverslunarsamningur Norður-Ameríku
+    it: North American Free Trade Agreement
+    ja: 北米自由貿易協定
+    ka: ჩრდილოამერიკული თავისუფალი ვაჭრობის ზონა
+    ko: 북미자유무역협정
+    lt: Šiaurės Amerikos laisvos prekybos sutartis
+    lv: Ziemeļamerikas brīvās tirdzniecības nolīgums
+    mk: Северноамериканска зона на слободна трговија
+    ms: Perjanjian Perdagangan Bebas Amerika Utara
+    nb: NAFTA
+    nl: Noord-Amerikaanse Vrijhandelsovereenkomst
+    pl: Północnoamerykański Układ Wolnego Handlu
+    pms: Acòrd ëd lìber ëscambi nòrd-american
+    ps: د شمالي امریکا د ازادې سوداګرۍ تړون
+    pt: Tratado Norte-Americano de Livre Comércio
+    pt-br: Tratado Norte-Americano de Livre Comércio
+    ro: Acordul Nord American de Comerț Liber
+    ru: Североамериканская зона свободной торговли
+    sco: North American Free Trade Agreement
+    sd: اُتر آمريڪا آزاد واپار ٺاهه
+    sk: Severoamerická dohoda o voľnom obchode
+    sl: Severnoameriški sporazum o svobodni trgovini
+    sq: North American Free Trade Agreement
+    sr: Северноамерички споразум о слободној трговини
+    sr-ec: Северноамерички споразум о слободној трговини
+    sr-el: Severnoamerički sporazum o slobodnoj trgovini
+    sv: North American Free Trade Agreement
+    th: ข้อตกลงการค้าเสรีอเมริกาเหนือ
+    tr: Kuzey Amerika Ülkeleri Serbest Ticaret Anlaşması
+    uk: Північноамериканська зона вільної торгівлі
+    vec: Àrea de Lìbaro Comèrcio d'Amèrica del Nord
+    vi: Hiệp định Thương mại Tự do Bắc Mỹ
+    wa: Acoird di Libe Comiece di l' Amerike bijhrece
+    wuu: 北美自由贸易协议
+    yue: 北美自由貿易協議
+    zh: 北美自由贸易协议
+    zh-cn: 北美自由贸易协议
+    zh-hans: 北美自由贸易协议
+    zh-hant: 北美自由貿易協議
+    zh-hk: 北美自由貿易協議
+    zh-sg: 北美自由贸易协议
+    zh-tw: 北美自由貿易協議
 ---
-
 # [[North_American_Free_Trade_Agreement]] 
 
 #is_/same_as :: [[WD~North_American_Free_Trade_Agreement,181574]] 

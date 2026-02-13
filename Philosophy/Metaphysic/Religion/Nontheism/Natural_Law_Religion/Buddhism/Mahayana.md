@@ -1,16 +1,60 @@
 ---
 aliases:
-  - Mahayana
-  - Mahāyāna
+- Bodisma mahaiana
+- Boudism mahāyāna
+- Buddha Mahayana
+- buddismo mahaianico
+- Budismong Mahayana
+- escuela mahayánica
+- Maaiana
+- Mahajaana
+- Mahajana
+- mahajano
+- Mahayaana
+- Mahayana
+- Mahájána
+- Mahājāna
+- Mahāyāna
+- Tāi-sēng Hu̍t-kàu
+- Đại thừa
+- Μαχαγιάνα
+- Магаяна
+- Махајана
+- Махаяна
+- מהאיאנה
+- ماهايانا
+- ماھایانا
+- مهايانا
+- مهایانه
+- مہایان
+- مہایانہ
+- महायान
+- महायानम्
+- মহাযান
+- ਮਹਾਯਾਨ
+- மகாயான பௌத்தம்
+- మహాయానం
+- മഹായാനം
+- එක්ස්-ජාලය
+- มหายาน
+- ມະຫາຍານ
+- ཐེག་པ་ཆེན་པོ།
+- မဟာယာန
+- მაჰაიანა
+- មហាយាន
+- 大乗仏教
+- 大乘佛教
+- 대승불교
+- "\U0001102B\U00011033\U00011038\U0001102C\U00011038\U00011026"
 has_id_wikidata: Q48362
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Chinese_Buddhist_Terms,10886720]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Mahāyāna_Buddhism,10514589]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
-  - '[[_Standards/WikiData/WD~yana,15489667]]'
+- '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+- '[[_Standards/WikiData/WD~yana,15489667]]'
 part_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
 subclass_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
@@ -21,14 +65,122 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Buddhist%20Temple%20in
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BuddhistTriad.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%A8.wav
 distribution_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mahajana%20t%C3%A9rk%C3%A9p.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MahayanaMap.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mahajana%20t%C3%A9rk%C3%A9p.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/MahayanaMap.gif
 Stack_Exchange_tag: https://buddhism.stackexchange.com/tags/mahayana
 Library_of_Congress_Classification:
-  - BQ300
-  - BQ7300-BQ7529.2
+- BQ300
+- BQ7300-BQ7529.2
+dv_has_:
+  name_:
+    af: Mahayana
+    ar: ماهايانا
+    arz: ماهايانا
+    as: মহাযান
+    az: Mahayana
+    bar: Mahayana
+    bcl: Mahayana
+    be: Махаяна
+    be-tarask: Магаяна
+    bg: Махаяна
+    bho: महायान
+    bn: মহাযান
+    bo: ཐེག་པ་ཆེན་པོ།
+    br: Mahayana
+    ca: Mahayana
+    ceb: Mahayana
+    ckb: ماھایانا
+    cs: Mahájána
+    cy: Mahayana
+    da: Mahayana
+    de: Mahayana
+    el: Μαχαγιάνα
+    en: Mahāyāna
+    eo: mahajano
+    es: escuela mahayánica
+    et: Mahajaana
+    eu: Mahāyāna
+    fa: مهایانه
+    fi: Mahajana
+    fr: mahāyāna
+    fy: Mahayana
+    gcr: Boudism mahāyāna
+    gl: Mahayana
+    ha: Mahayana
+    he: מהאיאנה
+    hi: महायान
+    hr: Mahajana
+    hu: mahájána
+    ia: Mahayana
+    id: Mahāyāna
+    ilo: Mahayana
+    is: Mahāyāna
+    it: buddismo mahaianico
+    ja: 大乗仏教
+    jam: Mahayaana
+    jv: Buddha Mahayana
+    ka: მაჰაიანა
+    kk: Махаяна
+    km: មហាយាន
+    ko: 대승불교
+    krj: Mahayana
+    ky: Махаяна
+    la: mahājāna
+    lld: Mahāyāna
+    lo: ມະຫາຍານ
+    lt: Mahajana
+    lv: Mahājāna
+    mag: महायान
+    mg: Bodisma mahaiana
+    mk: Махајана
+    ml: മഹായാനം
+    mn: Махаяна
+    mr: महायान
+    ms: Mahayana
+    mul: Mahāyāna
+    mwl: Mahayana
+    my: မဟာယာန
+    mzn: مهایانه
+    nan: Tāi-sēng Hu̍t-kàu
+    nb: Mahayana
+    ne: महायान
+    new: महायान
+    nl: mahayana
+    nn: Mahayana
+    oc: Mahayana
+    pa: ਮਹਾਯਾਨ
+    pi: "\U0001102B\U00011033\U00011038\U0001102C\U00011038\U00011026"
+    pl: Mahajana
+    pnb: مہایانہ
+    ps: مهايانا
+    pt: Maaiana
+    ro: Mahayana
+    ru: Махаяна
+    sa: महायानम्
+    sco: Mahayana
+    sh: Mahajana
+    si: එක්ස්-ජාලය
+    sk: Mahájána
+    sl: mahajana
+    sq: Mahajana
+    sr: Махајана
+    sr-ec: Махајана
+    sv: Mahayana
+    ta: மகாயான பௌத்தம்
+    te: మహాయానం
+    th: มหายาน
+    tl: Budismong Mahayana
+    tr: Mahayana
+    uk: Махаяна
+    ur: مہایان
+    uz: Mahayana
+    vi: Đại thừa
+    war: Mahayana
+    wuu: 大乘佛教
+    yue: 大乘佛教
+    zh: 大乘佛教
+    zh-hant: 大乘佛教
 ---
-
 # [[Mahayana]] 
 
 #is_/same_as :: [[WD~Mahāyāna,48362]] 

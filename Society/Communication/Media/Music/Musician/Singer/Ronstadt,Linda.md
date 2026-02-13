@@ -1,43 +1,61 @@
 ---
 aliases:
-  - Linda_Ronstadt
-  - Ronstadt,Linda
+- Linda Ronstadt
+- Linda_Ronstadt
+- Ronstadt,Linda
+- Λίντα Ρόνσταντ
+- Лінда Ронстадт
+- Лінда Ронстат
+- Линда Ронстад
+- Линда Ронстадт
+- Линда Ронстат
+- Լինդա Ռոնշտադտ
+- לינדה רונסטאדט
+- لنڈا رونسٹڈ
+- ليندا رونستادت
+- لیندا رانستد
+- ਲਿੰਡਾ ਰੌਨਸਟੈਡ
+- ลินดา รอนสตัดต์
+- ლინდა როსტადტი
+- リンダ・ロンシュタット
+- 琳达·罗什塔
+- 린다 론스태트
 has_id_wikidata: Q229375
 genre:
-  - '[[_Standards/WikiData/WD~country_music,83440]]'
-  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
-  - '[[_Standards/WikiData/WD~folk_music,43343]]'
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~folk_music,43343]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Tropical_Latin_Album,5593901]]'
-  - '[[_Standards/WikiData/WD~Latin_Grammy_Lifetime_Achievement_Award,18345366]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Berklee_College_of_Music,112241213]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Tropical_Latin_Album,5593901]]'
+- '[[_Standards/WikiData/WD~Latin_Grammy_Lifetime_Achievement_Award,18345366]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Berklee_College_of_Music,112241213]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~Asylum_Records,1998195]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Asylum_Records,1998195]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Maria,325872]]'
-  - '[[_Standards/WikiData/WD~Linda,1136594]]'
+- '[[_Standards/WikiData/WD~Maria,325872]]'
+- '[[_Standards/WikiData/WD~Linda,1136594]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Nicolette_Larson,455344]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Arizona_State_University,670897]]'
-  - '[[_Standards/WikiData/WD~Catalina_Magnet_High_School,5051269]]'
+- '[[_Standards/WikiData/WD~Arizona_State_University,670897]]'
+- '[[_Standards/WikiData/WD~Catalina_Magnet_High_School,5051269]]'
 nominated_for: '[[_Standards/WikiData/WD~Tony_Award_for_Best_Actress_in_a_Musical,1537996]]'
 member_of:
-  - '[[_Standards/WikiData/WD~The_Stone_Poneys,3496169]]'
-  - '[[_Standards/WikiData/WD~The_Bullets,59536348]]'
+- '[[_Standards/WikiData/WD~The_Stone_Poneys,3496169]]'
+- '[[_Standards/WikiData/WD~The_Bullets,59536348]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Linda_Ronstadt,10606157]]'
 field_of_work: '[[_Standards/WikiData/WD~music_composing,11895763]]'
@@ -48,8 +66,8 @@ family_name: '[[_Standards/WikiData/WD~Ronstadt,37534389]]'
 father: '[[_Standards/WikiData/WD~Gilbert_Ronstadt,105443758]]'
 mother: '[[_Standards/WikiData/WD~Ruth_Mary_Ronstadt,105443838]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
@@ -71,8 +89,120 @@ birth_name: Linda Maria Ronstadt
 name_in_native_language: Linda Ronstadt
 work_period_end_: 2011-01-01T00:00:00Z
 official_website: https://lindaronstadt.com/
+dv_has_:
+  name_:
+    af: Linda Ronstadt
+    an: Linda Ronstadt
+    ar: ليندا رونستادت
+    arz: ليندا رونستادت
+    ast: Linda Ronstadt
+    azb: لیندا رانستد
+    bar: Linda Ronstadt
+    be-tarask: Лінда Ронстат
+    bg: Линда Ронстад
+    bm: Linda Ronstadt
+    br: Linda Ronstadt
+    ca: Linda Ronstadt
+    co: Linda Ronstadt
+    cs: Linda Ronstadt
+    cy: Linda Ronstadt
+    da: Linda Ronstadt
+    de: Linda Ronstadt
+    de-at: Linda Ronstadt
+    de-ch: Linda Ronstadt
+    el: Λίντα Ρόνσταντ
+    en: Linda Ronstadt
+    en-ca: Linda Ronstadt
+    en-gb: Linda Ronstadt
+    eo: Linda Ronstadt
+    es: Linda Ronstadt
+    et: Linda Ronstadt
+    eu: Linda Ronstadt
+    fa: لیندا رانستد
+    fi: Linda Ronstadt
+    fr: Linda Ronstadt
+    frc: Linda Ronstadt
+    frp: Linda Ronstadt
+    fur: Linda Ronstadt
+    ga: Linda Ronstadt
+    gd: Linda Ronstadt
+    gl: Linda Ronstadt
+    gsw: Linda Ronstadt
+    he: לינדה רונסטאדט
+    hr: Linda Ronstadt
+    hu: Linda Ronstadt
+    hy: Լինդա Ռոնշտադտ
+    ia: Linda Ronstadt
+    id: Linda Ronstadt
+    ie: Linda Ronstadt
+    io: Linda Ronstadt
+    is: Linda Ronstadt
+    it: Linda Ronstadt
+    ja: リンダ・ロンシュタット
+    jam: Linda Ronstadt
+    ka: ლინდა როსტადტი
+    kab: Linda Ronstadt
+    kg: Linda Ronstadt
+    ko: 린다 론스태트
+    lb: Linda Ronstadt
+    li: Linda Ronstadt
+    lij: Linda Ronstadt
+    lt: Linda Ronstadt
+    lv: Linda Ronstadt
+    mg: Linda Ronstadt
+    min: Linda Ronstadt
+    mk: Линда Ронстат
+    ms: Linda Ronstadt
+    mul: Linda Ronstadt
+    nap: Linda Ronstadt
+    nb: Linda Ronstadt
+    nds: Linda Ronstadt
+    nds-nl: Linda Ronstadt
+    nl: Linda Ronstadt
+    nn: Linda Ronstadt
+    nrm: Linda Ronstadt
+    oc: Linda Ronstadt
+    pa: ਲਿੰਡਾ ਰੌਨਸਟੈਡ
+    pap: Linda Ronstadt
+    pcd: Linda Ronstadt
+    pl: Linda Ronstadt
+    pms: Linda Ronstadt
+    prg: Linda Ronstadt
+    pt: Linda Ronstadt
+    pt-br: Linda Ronstadt
+    rgn: Linda Ronstadt
+    rm: Linda Ronstadt
+    ro: Linda Ronstadt
+    ru: Линда Ронстадт
+    sc: Linda Ronstadt
+    scn: Linda Ronstadt
+    sco: Linda Ronstadt
+    sk: Linda Ronstadt
+    skr: لنڈا رونسٹڈ
+    sl: Linda Ronstadt
+    sq: Linda Ronstadt
+    sr: Linda Ronstadt
+    sr-el: Linda Ronstadt
+    sv: Linda Ronstadt
+    sw: Linda Ronstadt
+    th: ลินดา รอนสตัดต์
+    tl: Linda Ronstadt
+    tr: Linda Ronstadt
+    uk: Лінда Ронстадт
+    ur: لنڈا رونسٹڈ
+    uz: Linda Ronstadt
+    vec: Linda Ronstadt
+    vi: Linda Ronstadt
+    vls: Linda Ronstadt
+    vmf: Linda Ronstadt
+    vo: Linda Ronstadt
+    wa: Linda Ronstadt
+    war: Linda Ronstadt
+    wo: Linda Ronstadt
+    yo: Linda Ronstadt
+    zh: 琳达·罗什塔
+    zu: Linda Ronstadt
 ---
-
 # [[Ronstadt,Linda]] 
 
 #is_/same_as :: [[WD~Linda_Ronstadt,229375]] 

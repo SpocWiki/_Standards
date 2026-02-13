@@ -1,39 +1,180 @@
 ---
 aliases:
-  - internal energy
-  - interne Energie
-  - Internal_Energy
-  - Internal Energy
+- Barne energia
+- belső energia
+- Energi dalam
+- energia interna
+- Energia intèrna
+- energia wewnętrzna
+- energie internă
+- Energjia e brendshme
+- energía interna
+- enerxía interna
+- enerxía interno
+- enerzia interna
+- Enèji tèmik
+- fuinneamh inmheánach
+- Ichki energiya
+- Iekšējā enerģija
+- Indre energi
+- innere Energie
+- inre energi
+- interna energio
+- internal energy
+- Internal_Energy
+- interne Energie
+- inwendige energie
+- Lōe-lêng
+- notranja energija
+- Nội năng
+- Siseenergia
+- Sisäenergia
+- Tenaga dalaman
+- Unutarnja energija
+- Unutrašnja energija
+- Vidinė energija
+- vnitřní energie
+- Vnútorná energia
+- énergie interne
+- İç enerji
+- İşki énergïya
+- Εσωτερική ενέργεια
+- Ішкі энергия
+- Внатрешна енергија
+- внутрішня енергія
+- внутренняя энергия
+- Вътрешна енергия
+- Дотоод энерги
+- ички энергия
+- нутраная энэргія
+- унутраная энергія
+- Шалти энерги
+- Ներքին էներգիա
+- אנרגיה פנימית
+- انرژی درونی
+- طاقة داخلية
+- وزەی ناوەکی
+- ىشكى ەنەرگىييا
+- आन्तरिक ऊर्जा
+- অভ্যন্তরীণ শক্তি
+- அக ஆற்றல்
+- ആന്തരിക ഊർജ്ജം
+- 內能
+- 内能
+- 内部エネルギー
+- 내부 에너지
 has_id_wikidata: Q180241
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~state_function,230937]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]"
-  - "[[_Standards/WikiData/WD~extensive_quantity,3386703]]"
-  - "[[_Standards/WikiData/WD~chemical_quantity,71550700]]"
-  - "[[_Standards/WikiData/WD~energy,11379]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_energy,3935690]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~state_function,230937]]'
+- '[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~chemical_quantity,71550700]]'
+- '[[_Standards/WikiData/WD~energy,11379]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]"
-  - "[[_Standards/WikiData/WD~joule,25269]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
+- '[[_Standards/WikiData/WD~joule,25269]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x0394;</mi><mi>U</mi><mo stretchy="false">=</mo><mi>Q</mi><mo stretchy="false">+</mo><mi>W</mi></mstyle></mrow></math>
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>Q</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>W</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>U</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>Q</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>W</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>U</mi></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>U</mi></mstyle></mrow></math>
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20law%20open%20system.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Translational%20motion.gif
 IEV_number: 113-04-20
+dv_has_:
+  name_:
+    ar: طاقة داخلية
+    ast: enerxía interno
+    be: унутраная энергія
+    be-tarask: нутраная энэргія
+    bg: Вътрешна енергия
+    bn: অভ্যন্তরীণ শক্তি
+    bs: Unutrašnja energija
+    ca: energia interna
+    ckb: وزەی ناوەکی
+    cs: vnitřní energie
+    cv: Шалти энерги
+    da: Indre energi
+    de: innere Energie
+    el: Εσωτερική ενέργεια
+    en: internal energy
+    eo: interna energio
+    es: energía interna
+    et: Siseenergia
+    eu: Barne energia
+    fa: انرژی درونی
+    fi: Sisäenergia
+    fr: énergie interne
+    ga: fuinneamh inmheánach
+    gl: enerxía interna
+    he: אנרגיה פנימית
+    hi: आन्तरिक ऊर्जा
+    hr: Unutarnja energija
+    ht: Enèji tèmik
+    hu: belső energia
+    hy: Ներքին էներգիա
+    id: Energi dalam
+    it: energia interna
+    ja: 内部エネルギー
+    kk: Ішкі энергия
+    kk-arab: ىشكى ەنەرگىييا
+    kk-cn: ىشكى ەنەرگىييا
+    kk-cyrl: Ішкі энергия
+    kk-kz: Ішкі энергия
+    kk-latn: İşki énergïya
+    kk-tr: İşki énergïya
+    ko: 내부 에너지
+    ky: ички энергия
+    lt: Vidinė energija
+    lv: Iekšējā enerģija
+    lzh: 內能
+    mag: आन्तरिक ऊर्जा
+    mk: Внатрешна енергија
+    ml: ആന്തരിക ഊർജ്ജം
+    mn: Дотоод энерги
+    ms: Tenaga dalaman
+    nan: Lōe-lêng
+    nb: indre energi
+    nl: inwendige energie
+    nn: indre energi
+    oc: Energia intèrna
+    pl: energia wewnętrzna
+    pt: energia interna
+    ro: energie internă
+    ru: внутренняя энергия
+    sco: internal energy
+    sh: Unutarnja energija
+    sk: Vnútorná energia
+    sl: notranja energija
+    sq: Energjia e brendshme
+    sr: Unutrašnja energija
+    sv: inre energi
+    ta: அக ஆற்றல்
+    tr: İç enerji
+    uk: внутрішня енергія
+    uz: Ichki energiya
+    vec: enerzia interna
+    vi: Nội năng
+    wuu: 内能
+    yue: 內能
+    zh: 内能
+    zh-cn: 内能
+    zh-hans: 内能
+    zh-hant: 內能
+    zh-hk: 內能
+    zh-sg: 内能
+    zh-tw: 內能
 ---
-
 # [[Internal_Energy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Internal_energy,180241|WD~Internal_energy,180241]] 

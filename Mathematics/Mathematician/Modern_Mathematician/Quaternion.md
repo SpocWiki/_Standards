@@ -1,49 +1,175 @@
 ---
-has_time_started: 1843-01-01 
+has_time_started: 1843-01-01
 aliases:
+- ceathairnín
+- cuaternion
+- cuaternión
+- dördey
+- fertölur
+- kiarneen
+- koaternioi
+- kuaternion
+- kvaternio
+- kvaternion
+- kvaternionas
+- kvaternioner
+- kvaterniono
+- kvaternions
+- kvaternioonid
+- kvaterniók
+- kvaternión
+- kwaterniony
+- kwaternioon
+- numerus quaternus
+- quaternion
+- quaternione
+- quaternioonn
+- quaternió
+- quaterniú
+- quatirnioni
+- quatérnio
+- voncimdyna'u
+- τετραδόνιο
+- кватерніон
+- кватернион
+- кватэрніён
+- քվատերնիոններ
+- אלגברת הקווטרניונים של המילטון
+- קוואטערניאן
+- مرباع
+- چهارگانها
+- کواٹرنیون
+- ਕੁਆਟ੍ਰਨੀਔਨ
+- ควอเทอร์เนียน
+- კვატერნიონი
+- 四元数
+- 四元數
+- 사원수
 has_id_wikidata: Q173853
-followed_by: "[[_Standards/WikiData/WD~octonion,743418]]"
-subclass_of: "[[_Standards/WikiData/WD~hypercomplex_number,837414]]"
+followed_by: '[[_Standards/WikiData/WD~octonion,743418]]'
+subclass_of: '[[_Standards/WikiData/WD~hypercomplex_number,837414]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-part_of: "[[_Standards/WikiData/WD~algebra_of_real_quaternions,47407672]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~algebra_of_real_quaternions,47407672]]'
 defining_formula:
-  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi><mi>i</mi><mo stretchy="false">+</mo><mi>c</mi><mi>j</mi><mo stretchy="false">+</mo><mi>d</mi><mi>k</mi></mstyle></mrow></math>
-  - <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>i</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>j</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mi>i</mi><mi>j</mi><mi>k</mi><mo stretchy="false">=</mo><mo stretchy="false">−</mo><mn>1</mn></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi><mi>i</mi><mo stretchy="false">+</mo><mi>c</mi><mi>j</mi><mo stretchy="false">+</mo><mi>d</mi><mi>k</mi><mo>,</mo><mspace width="1em"></mspace><msup><mi>i</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>j</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mi>i</mi><mi>j</mi><mi>k</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mn>1</mn></mstyle></mrow></math>
+- <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi><mi>i</mi><mo stretchy="false">+</mo><mi>c</mi><mi>j</mi><mo stretchy="false">+</mo><mi>d</mi><mi>k</mi></mstyle></mrow></math>
+- <math xmlns="http://www.w3.org/1998/Math/MathML" class="mwe-math-element mwe-math-element-inline"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>i</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>j</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mi>i</mi><mi>j</mi><mi>k</mi><mo stretchy="false">=</mo><mo stretchy="false">−</mo><mn>1</mn></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi><mo stretchy="false">+</mo><mi>b</mi><mi>i</mi><mo stretchy="false">+</mo><mi>c</mi><mi>j</mi><mo stretchy="false">+</mo><mi>d</mi><mi>k</mi><mo>,</mo><mspace width="1em"></mspace><msup><mi>i</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>j</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><msup><mi>k</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">=</mo><mi>i</mi><mi>j</mi><mi>k</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mn>1</mn></mstyle></mrow></math>
 time_of_discovery_or_invention: 1843-01-01T00:00:00Z
 inception: 1843-01-01T00:00:00Z
-follows: "[[_Standards/WikiData/WD~complex_number,11567]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Rowan_Hamilton,11887]]"
-has_part_s_: "[[_Standards/WikiData/WD~real_number,12916]]"
+follows: '[[_Standards/WikiData/WD~complex_number,11567]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Rowan_Hamilton,11887]]'
+has_part_s_: '[[_Standards/WikiData/WD~real_number,12916]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><msup> <mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><msup> <mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></math>
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cayley%20Q8%20multiplication%20graph.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quaternion-multiplication-table.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quaternions%20SO%283%29%20cube.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cayley%20Q8%20multiplication%20graph.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quaternion-multiplication-table.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quaternions%20SO%283%29%20cube.svg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Inscription%20on%20Broom%20Bridge%20%28Dublin%29%20regarding%20the%20discovery%20of%20Quaternions%20multiplication%20by%20Sir%20William%20Rowan%20Hamilton.jpg
 described_at_URL:
-  - http://www.treccani.it/enciclopedia/quaternione_%28Dizionario-delle-Scienze-Fisiche%29/
-  - https://getpocket.com/explore/item/the-strange-numbers-that-birthed-modern-algebra?utm_source=pocket-newtab-global-en-GB
+- http://www.treccani.it/enciclopedia/quaternione_%28Dizionario-delle-Scienze-Fisiche%29/
+- https://getpocket.com/explore/item/the-strange-numbers-that-birthed-modern-algebra?utm_source=pocket-newtab-global-en-GB
 Stack_Exchange_tag:
-  - https://blender.stackexchange.com/tags/quaternion
-  - https://computergraphics.stackexchange.com/tags/quaternions
-  - https://gamedev.stackexchange.com/tags/quaternion
-  - https://hsm.stackexchange.com/tags/quaternions
-  - https://math.stackexchange.com/tags/quaternions
-  - https://mathematica.stackexchange.com/tags/quaternions
-  - https://mathoverflow.net/tags/quaternions
-  - https://space.stackexchange.com/tags/quaternion
-  - https://stackoverflow.com/tags/quaternions
+- https://blender.stackexchange.com/tags/quaternion
+- https://computergraphics.stackexchange.com/tags/quaternions
+- https://gamedev.stackexchange.com/tags/quaternion
+- https://hsm.stackexchange.com/tags/quaternions
+- https://math.stackexchange.com/tags/quaternions
+- https://mathematica.stackexchange.com/tags/quaternions
+- https://mathoverflow.net/tags/quaternions
+- https://space.stackexchange.com/tags/quaternion
+- https://stackoverflow.com/tags/quaternions
 Commons_category: Quaternions
+dv_has_:
+  name_:
+    af: kwaternioon
+    ar: مرباع
+    be: кватэрніён
+    be-tarask: кватэрніён
+    bg: кватернион
+    ca: quaternió
+    cs: kvaternion
+    cv: кватернион
+    da: kvaternioner
+    de: Quaternion
+    el: τετραδόνιο
+    en: quaternion
+    eo: kvaterniono
+    es: cuaternión
+    et: kvaternioonid
+    eu: koaternioi
+    fa: چهارگانها
+    fi: kvaternio
+    fr: quaternion
+    ga: ceathairnín
+    gl: cuaternión
+    gsw: Quaternion
+    gv: kiarneen
+    he: אלגברת הקווטרניונים של המילטון
+    hr: kvaternion
+    hu: kvaterniók
+    hy: քվատերնիոններ
+    ia: quaternion
+    id: kuaternion
+    is: fertölur
+    it: quaternione
+    ja: 四元数
+    jbo: voncimdyna'u
+    ka: კვატერნიონი
+    kk: кватернион
+    ko: 사원수
+    la: numerus quaternus
+    lmo: quaterniú
+    lt: kvaternionas
+    lv: kvaternions
+    lzh: 四元數
+    mk: кватернион
+    mn: кватернион
+    ms: Kuaternion
+    nb: kvaternioner
+    nl: quaternion
+    nn: kvaternion
+    pa: ਕੁਆਟ੍ਰਨੀਔਨ
+    pl: kwaterniony
+    pms: quaternion
+    pt: quatérnio
+    pt-br: quatérnio
+    ro: cuaternion
+    ru: кватернион
+    scn: quatirnioni
+    sco: quaternion
+    sh: kvaternion
+    sk: kvaternión
+    sl: kvaternion
+    sq: kuaternion
+    sr: кватернион
+    sr-ec: кватернион
+    sr-el: kvaternion
+    sv: kvaternion
+    th: ควอเทอร์เนียน
+    tr: dördey
+    uk: кватерніон
+    ur: کواٹرنیون
+    uz: kvaternion
+    vi: quaternion
+    vls: quaternioonn
+    wuu: 四元数
+    yi: קוואטערניאן
+    yue: 四元數
+    zh: 四元數
+    zh-cn: 四元数
+    zh-hans: 四元数
+    zh-hant: 四元數
+    zh-hk: 四元數
+    zh-sg: 四元数
+    zh-tw: 四元數
 ---
-
 # [[Quaternion]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~quaternion,173853]] 

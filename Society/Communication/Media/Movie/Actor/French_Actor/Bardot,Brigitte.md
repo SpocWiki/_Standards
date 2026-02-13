@@ -1,58 +1,90 @@
 ---
 aliases:
-  - Brigitte Anne-Marie Bardot
-  - Brigitte Bardot
-  - Bardot,Brigitte
+- Bardot,Brigitte
+- Birgitta Bardot
+- Brigitte Anne-Marie Bardot
+- Brigitte Bardot
+- Brigitte Bardotová
+- Brijit Bardo
+- Brižit Bardo
+- Brižita Bardo
+- Μπριζίτ Μπαρντό
+- Бріжіт Бардо
+- Брижит Бардо
+- Брыжыт Бардо
+- Բրիժիտ Բարդո
+- Պրիժիթ Պարտօ
+- בריז'יט בארדו
+- בריזשיט בארדא
+- بريجيت باردو
+- برٛیٖجیٖت باردو
+- بریژیت باردو
+- بریژیت باغدو
+- ब्रिजिट बार्दो
+- ब्रिजित बर्दो
+- ব্রিজিট বার্ডো
+- பிரிஜிட் பார்டோட்
+- ബ്രിഴിത്ത് ബാർദോ
+- บรีฌิต บาร์โด
+- ბრიჟიტ ბარდო
+- ბრიჯიტ ბარდო
+- ብሪዢት ባርዶ
+- ブリジット・バルドー
+- 碧姬·芭杜
+- 碧姬·芭鐸
+- 碧姬·芭铎
+- 碧姬芭鐸
+- 브리지트 바르도
 has_id_wikidata: Q36268
 lifestyle: '[[_Standards/WikiData/WD~vegetarianism,83364]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Gilbert_Bécaud,160433]]'
-  - '[[_Standards/WikiData/WD~Serge_Gainsbourg,1698]]'
+- '[[_Standards/WikiData/WD~Gilbert_Bécaud,160433]]'
+- '[[_Standards/WikiData/WD~Serge_Gainsbourg,1698]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~public_figure,662729]]'
-  - '[[_Standards/WikiData/WD~fashion_model,3357567]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~animal_rights_advocate,11966252]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~public_figure,662729]]'
+- '[[_Standards/WikiData/WD~fashion_model,3357567]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~animal_rights_advocate,11966252]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~15th_arrondissement_of_Paris,191066]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Roger_Vadim,383420]]'
-  - '[[_Standards/WikiData/WD~Jacques_Charrier,1677936]]'
-  - "[[_Standards/WikiData/WD~Bernard_d'Ormale,75619267]]"
-  - '[[_Standards/WikiData/WD~Gunter_Sachs,62515]]'
+- '[[_Standards/WikiData/WD~Roger_Vadim,383420]]'
+- '[[_Standards/WikiData/WD~Jacques_Charrier,1677936]]'
+- "[[_Standards/WikiData/WD~Bernard_d'Ormale,75619267]]"
+- '[[_Standards/WikiData/WD~Gunter_Sachs,62515]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
-  - '[[_Standards/WikiData/WD~Cours_Hattemer,3128334]]'
+- '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
+- '[[_Standards/WikiData/WD~Cours_Hattemer,3128334]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Fontana_Records,729590]]'
-  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
-  - '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
-  - "[[_Standards/WikiData/WD~Disc'AZ,2412761]]"
-  - '[[_Standards/WikiData/WD~Barclay,2535085]]'
+- '[[_Standards/WikiData/WD~Fontana_Records,729590]]'
+- '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+- '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
+- "[[_Standards/WikiData/WD~Disc'AZ,2412761]]"
+- '[[_Standards/WikiData/WD~Barclay,2535085]]'
 wears: '[[_Standards/WikiData/WD~capri_pants,1034971]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_Golden_Ark,1417045]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Golden_Ark,1417045]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
 sibling: '[[_Standards/WikiData/WD~Mijanou_Bardot,1932905]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 filmography: '[[_Standards/WikiData/WD~Brigitte_Bardot_filmography,12166576]]'
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Anne_Marie,18091413]]'
-  - '[[_Standards/WikiData/WD~Brigitte,18175370]]'
+- '[[_Standards/WikiData/WD~Anne_Marie,18091413]]'
+- '[[_Standards/WikiData/WD~Brigitte,18175370]]'
 family_name: '[[_Standards/WikiData/WD~Bardot,37489404]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 father: '[[_Standards/WikiData/WD~Louis_Bardot,63462799]]'
 discography: '[[_Standards/WikiData/WD~Brigitte_Bardot_discography,64769082]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Babepedia,106111559]]'
-  - '[[_Standards/WikiData/WD~Q112918916,112918916]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Babepedia,106111559]]'
+- '[[_Standards/WikiData/WD~Q112918916,112918916]]'
 mother: '[[_Standards/WikiData/WD~Anne_Marie_Mucel,75470766]]'
 child: '[[_Standards/WikiData/WD~Nicolas_Jacques_Charrier,75619265]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Brigitte_Bardot,123843246]]'
@@ -65,8 +97,8 @@ native_language: '[[_Standards/WikiData/WD~French,150]]'
 number_of_children: 1
 height: 170
 social_media_followers:
-  - 12300
-  - 72647
+- 12300
+- 72647
 Commons_gallery: Brigitte Bardot
 Commons_category: Brigitte Bardot
 nickname: BB
@@ -88,8 +120,149 @@ Libris_URI: 1zcglvtk5472rtx
 P8189: 987007431203805171
 Europeana_entity: agent/base/146776
 X_Twitter_username: brigitte_bardot
+dv_has_:
+  name_:
+    ace: Brigitte Bardot
+    af: Brigitte Bardot
+    am: ብሪዢት ባርዶ
+    an: Brigitte Bardot
+    ar: بريجيت باردو
+    arz: بريجيت باردو
+    ast: Brigitte Bardot
+    ay: Brigitte Bardot
+    az: Brijit Bardo
+    ba: Брижит Бардо
+    be: Брыжыт Бардо
+    be-tarask: Брыжыт Бардо
+    bg: Брижит Бардо
+    bi: Brigitte Bardot
+    bn: ব্রিজিট বার্ডো
+    br: Brigitte Bardot
+    bs: Brigitte Bardot
+    ca: Brigitte Bardot
+    ceb: Brigitte Bardot
+    co: Brigitte Bardot
+    cs: Brigitte Bardotová
+    cv: Брижит Бардо
+    cy: Brigitte Bardot
+    da: Brigitte Bardot
+    de: Brigitte Bardot
+    de-ch: Brigitte Bardot
+    diq: Brigitte Bardot
+    el: Μπριζίτ Μπαρντό
+    en: Brigitte Bardot
+    en-ca: Brigitte Bardot
+    en-gb: Brigitte Bardot
+    en-us: Brigitte Bardot
+    eo: Brigitte Bardot
+    es: Brigitte Bardot
+    et: Brigitte Bardot
+    eu: Brigitte Bardot
+    ext: Brigitte Bardot
+    fa: بریژیت باردو
+    fi: Brigitte Bardot
+    fo: Brigitte Bardot
+    fr: Brigitte Bardot
+    fy: Brigitte Bardot
+    ga: Brigitte Bardot
+    gl: Brigitte Bardot
+    gn: Brigitte Bardot
+    gpe: Brigitte Bardot
+    gsw: Brigitte Bardot
+    gv: Brigitte Bardot
+    ha: Brigitte Bardot
+    haw: Brigitte Bardot
+    he: בריז'יט בארדו
+    hi: ब्रिजित बर्दो
+    hif: Brigitte Bardot
+    hr: Brigitte Bardot
+    ht: Brigitte Bardot
+    hu: Brigitte Bardot
+    hy: Բրիժիտ Բարդո
+    hyw: Պրիժիթ Պարտօ
+    ia: Brigitte Bardot
+    id: Brigitte Bardot
+    ig: Brigitte Bardot
+    ilo: Brigitte Bardot
+    io: Brigitte Bardot
+    is: Brigitte Bardot
+    it: Brigitte Bardot
+    ja: ブリジット・バルドー
+    jv: Brigitte Bardot
+    ka: ბრიჟიტ ბარდო
+    kbd: Брижит Бардо
+    kk: Брижит Бардо
+    kl: Brigitte Bardot
+    ko: 브리지트 바르도
+    ks: برٛیٖجیٖت باردو
+    la: Birgitta Bardot
+    lb: Brigitte Bardot
+    li: Brigitte Bardot
+    lt: Brigitte Bardot
+    lv: Brižita Bardo
+    mg: Brigitte Bardot
+    mk: Брижит Бардо
+    ml: ബ്രിഴിത്ത് ബാർദോ
+    mn: Брижит Бардо
+    mr: ब्रिजिट बार्दो
+    ms: Brigitte Bardot
+    mul: Brigitte Bardot
+    nan: Brigitte Bardot
+    nb: Brigitte Bardot
+    nl: Brigitte Bardot
+    nn: Brigitte Bardot
+    oc: Brigitte Bardot
+    pam: Brigitte Bardot
+    pap: Brigitte Bardot
+    pcd: Brigitte Bardot
+    pl: Brigitte Bardot
+    pms: Brigitte Bardot
+    pnb: بریژیت باغدو
+    pt: Brigitte Bardot
+    pt-br: Brigitte Bardot
+    qu: Brigitte Bardot
+    ro: Brigitte Bardot
+    ru: Брижит Бардо
+    sah: Брижит Бардо
+    scn: Brigitte Bardot
+    sco: Brigitte Bardot
+    sgs: Brigitte Bardot
+    sh: Brigitte Bardot
+    sk: Brigitte Bardotová
+    skr: بریژیت باغدو
+    sl: Brigitte Bardot
+    sq: Brigitte Bardot
+    sr: Брижит Бардо
+    sr-ec: Брижит Бардо
+    srn: Brigitte Bardot
+    sv: Brigitte Bardot
+    sw: Brigitte Bardot
+    szl: Brigitte Bardot
+    ta: பிரிஜிட் பார்டோட்
+    tg: Брижит Бардо
+    th: บรีฌิต บาร์โด
+    tl: Brigitte Bardot
+    tr: Brigitte Bardot
+    tt: Brijit Bardo
+    uk: Бріжіт Бардо
+    ur: بریژیت باغدو
+    uz: Brigitte Bardot
+    vec: Brigitte Bardot
+    vep: Brižit Bardo
+    vi: Brigitte Bardot
+    vo: Brigitte Bardot
+    war: Brigitte Bardot
+    wuu: 碧姬·芭铎
+    xmf: ბრიჯიტ ბარდო
+    yi: בריזשיט בארדא
+    yo: Brigitte Bardot
+    yue: 碧姬芭鐸
+    zh: 碧姬·芭铎
+    zh-hans: 碧姬·芭铎
+    zh-hant: 碧姬·芭杜
+    zh-hk: 碧姬·芭鐸
+    zh-tw: 碧姬·芭杜
 ---
-
 # [[Bardot,Brigitte]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Brigitte_Bardot,36268|WD~Brigitte_Bardot,36268]] 

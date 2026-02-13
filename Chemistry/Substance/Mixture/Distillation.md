@@ -1,21 +1,89 @@
 ---
-has_time_started: 0300-01-01 
+has_time_started: 0300-01-01
 aliases:
-  - Destillation
-  - Distillation
+- Cheng-liû
+- Chưng cất
+- damıtma
+- destilace
+- Destilacija
+- destilación
+- Destilasyon
+- destilação
+- destillasjon
+- destillatie
+- Destillatio
+- Destillation
+- Destillatioun
+- Destillatschoon
+- destilleerimine
+- destil·lació
+- Destilácia
+- destilācija
+- destylacja
+- desztilláció
+- distilado
+- distilare
+- Distilasi
+- Distilasyon
+- Distilazio
+- distiliacija
+- Distillash
+- Distillasie
+- Distillation
+- Distillazion
+- distillazione
+- Distyllu
+- driogadh
+- Dïstïllyator
+- penyulingan
+- tislaus
+- Ukenekaji
+- Απόσταξη
+- дестилација
+- Дестилация
+- Дистиллирлау
+- Дистиллятор
+- Дистилляци
+- дистилляция
+- дистиляція
+- дыстыляцыя
+- Нэрэх арга
+- перагонка
+- пӧлэстон
+- Թորում
+- זיקוק
+- تقطير
+- تقطیر
+- دىيستىيللياتور
+- عمل تقطیر
+- आसवन
+- उर्ध्वपतन
+- পাতন
+- ਕਸ਼ੀਦਣਾ
+- வடித்திறக்கல்
+- స్వేదనం
+- ಡಿಸ್ಟಲೇಶನ
+- സ്വേദനം
+- ආසවනය
+- การกลั่น
+- დისტილაცია
+- 蒸留
+- 蒸餾
+- 蒸馏
+- 증류
 has_id_wikidata: Q101017
 has_part_s_:
-  - '[[_Standards/WikiData/WD~condensation,166583]]'
-  - '[[_Standards/WikiData/WD~vaporization,6452502]]'
+- '[[_Standards/WikiData/WD~condensation,166583]]'
+- '[[_Standards/WikiData/WD~vaporization,6452502]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Zosimos_of_Panopolis,226868]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~separation_process,898987]]'
-  - '[[../../../WikiData/WD~chemical_process,2281940]]'
+- '[[_Standards/WikiData/WD~separation_process,898987]]'
+- '[[../../../WikiData/WD~chemical_process,2281940]]'
 locations: '[[_Standards/WikiData/WD~distillery,1251750]]'
 different_from: '[[_Standards/WikiData/WD~reduction,1971485]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Distillation,8087474]]'
@@ -29,26 +97,130 @@ MeSH_tree_code: E05.196.155.249
 start_time: 0300-01-01T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]"
-    - "[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]"
-    - "[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]"
-    - "[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]"
-    - "[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]"
-    - "[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]"
-    - "[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]"
-    - "[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]"
+  - '[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]'
+  - '[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]'
+  - '[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]'
+  - '[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]'
+  - '[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]'
+  - '[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]'
+  - '[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]'
+  - '[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]"
-  - "[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]"
-  - "[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]"
-  - "[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]"
-  - "[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]"
-  - "[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]"
-  - "[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]"
-  - "[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]"
-
+- '[[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]]'
+- '[[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]]'
+- '[[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]]'
+- '[[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]]'
+- '[[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]]'
+- '[[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]]'
+- '[[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]]'
+- '[[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]]'
+dv_has_:
+  name_:
+    af: Distillasie
+    ar: تقطير
+    ary: تقطير
+    arz: تقطير
+    ast: Destilación
+    be: перагонка
+    be-tarask: дыстыляцыя
+    bg: Дестилация
+    bn: পাতন
+    bs: Destilacija
+    ca: destil·lació
+    cs: destilace
+    cv: Дистилляци
+    cy: Distyllu
+    da: Destillation
+    de: Destillation
+    de-ch: Destillation
+    el: Απόσταξη
+    en: distillation
+    en-ca: distillation
+    en-gb: distillation
+    eo: distilado
+    es: destilación
+    et: destilleerimine
+    eu: Distilazio
+    fa: تقطیر
+    fi: tislaus
+    fr: distillation
+    ga: driogadh
+    gl: destilación
+    he: זיקוק
+    hi: आसवन
+    hr: Destilacija
+    ht: Distilasyon
+    hu: desztilláció
+    hy: Թորում
+    id: penyulingan
+    it: distillazione
+    ja: 蒸留
+    jv: Distilasi
+    ka: დისტილაცია
+    kk: Дистиллятор
+    kk-arab: دىيستىيللياتور
+    kk-cn: دىيستىيللياتور
+    kk-cyrl: Дистиллятор
+    kk-kz: Дистиллятор
+    kk-latn: Dïstïllyator
+    kk-tr: Dïstïllyator
+    kn: ಡಿಸ್ಟಲೇಶನ
+    ko: 증류
+    ky: Дистилляция
+    la: Destillatio
+    lb: Destillatioun
+    lmo: Distillazion
+    lt: distiliacija
+    lv: destilācija
+    lzh: 蒸餾
+    mk: дестилација
+    ml: സ്വേദനം
+    mn: Нэрэх арга
+    mr: उर्ध्वपतन
+    ms: Penyulingan
+    nan: Cheng-liû
+    nb: destillasjon
+    nds: Destillatschoon
+    nl: destillatie
+    nn: destillasjon
+    oc: Distillation
+    pa: ਕਸ਼ੀਦਣਾ
+    pl: destylacja
+    pt: destilação
+    pt-br: Destilação
+    ro: distilare
+    ru: дистилляция
+    sh: Destilacija
+    si: ආසවනය
+    sk: Destilácia
+    sl: destilacija
+    sr: дестилација
+    sr-ec: Дестилација
+    sr-el: Destilacija
+    su: Distilasi
+    sv: destillation
+    sw: Ukenekaji
+    ta: வடித்திறக்கல்
+    te: స్వేదనం
+    th: การกลั่น
+    tl: Destilasyon
+    tr: damıtma
+    tt: Дистиллирлау
+    udm: пӧлэстон
+    uk: дистиляція
+    ur: عمل تقطیر
+    uz: Distillash
+    vi: Chưng cất
+    wuu: 蒸馏
+    yue: 蒸餾
+    zh: 蒸馏
+    zh-cn: 蒸馏
+    zh-hans: 蒸馏
+    zh-hant: 蒸餾
+    zh-hk: 蒸餾
+    zh-sg: 蒸馏
+    zh-tw: 蒸餾
 ---
-
 # [[Distillation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Distillation,101017|WD~Distillation,101017]] 

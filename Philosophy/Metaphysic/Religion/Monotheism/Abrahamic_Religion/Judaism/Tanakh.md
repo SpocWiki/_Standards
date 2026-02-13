@@ -1,59 +1,97 @@
 ---
 aliases:
-  - Hebrew Bible
-  - תַּנַ״ךְ
-  - tanaḵ
-  - תָּנָ״ךְ
-  - tānāḵ
-  - תְּנַ״ךְ
-  - Tanakh
+- Bibiliya y'Igiheburayo
+- Hebrew Bible
+- Hi-pek-lâi Sèng-keng
+- lipu sewi Tanaka
+- Tanac'h
+- Tanach
+- Tanachas
+- Tanag
+- Tanah
+- Tanahs
+- Tanaj
+- Tanak
+- Tanakh
+- Tanax
+- Tanaĥo
+- tanaḵ
+- Tanákh
+- Tenach
+- Thanach
+- tānāḵ
+- Y Beibl Hebraeg
+- Τανάκ
+- Танах
+- Հին Կտակարան
+- תְּנַ״ךְ
+- תַּנַ״ךְ
+- תָּנָ״ךְ
+- תנ"ך
+- التناخ
+- تناخ
+- تنخ
+- تنک
+- تەناخ
+- तनख़
+- तानाख
+- হিব্রু বাইবেল
+- ரனாக்
+- ತನಾಕ್
+- തനക്ക്
+- คัมภีร์ฮีบรู
+- თანახი
+- タナハ
+- 塔納赫
+- 塔纳赫
+- 타나크
 has_id_wikidata: Q83367
 form_of_creative_work: '[[_Standards/WikiData/WD~anthology,105420]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~religious_text,179461]]'
-  - '[[_Standards/WikiData/WD~miscellany,1295240]]'
-  - '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
-  - '[[_Standards/WikiData/WD~biblical_canon,51623]]'
+- '[[_Standards/WikiData/WD~religious_text,179461]]'
+- '[[_Standards/WikiData/WD~miscellany,1295240]]'
+- '[[_Standards/WikiData/WD~series_of_creative_works,7725310]]'
+- '[[_Standards/WikiData/WD~biblical_canon,51623]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Mishnah,191825]]'
-  - '[[_Standards/WikiData/WD~Mishneh_Torah,201029]]'
-  - '[[_Standards/WikiData/WD~Shulchan_Aruch,822206]]'
-  - '[[_Standards/WikiData/WD~Midrash_HaGadol,847953]]'
-  - '[[_Standards/WikiData/WD~Yalkut_Shimoni,1995834]]'
-  - '[[_Standards/WikiData/WD~Sefer_Hamitzvot,2066533]]'
-  - '[[_Standards/WikiData/WD~Jewish_commentaries_on_the_Bible,2084705]]'
-  - "[[_Standards/WikiData/WD~Arba'ah_Turim,2533443]]"
-  - '[[_Standards/WikiData/WD~Chofetz_Chaim,5103831]]'
-  - '[[_Standards/WikiData/WD~Halachot_Gedolot,12406659]]'
-  - '[[_Standards/WikiData/WD~Hilchot_HaRif,12406664]]'
-  - '[[_Standards/WikiData/WD~Tanakh_Ram,12412127]]'
-  - '[[_Standards/WikiData/WD~Talmud,43290]]'
+- '[[_Standards/WikiData/WD~Mishnah,191825]]'
+- '[[_Standards/WikiData/WD~Mishneh_Torah,201029]]'
+- '[[_Standards/WikiData/WD~Shulchan_Aruch,822206]]'
+- '[[_Standards/WikiData/WD~Midrash_HaGadol,847953]]'
+- '[[_Standards/WikiData/WD~Yalkut_Shimoni,1995834]]'
+- '[[_Standards/WikiData/WD~Sefer_Hamitzvot,2066533]]'
+- '[[_Standards/WikiData/WD~Jewish_commentaries_on_the_Bible,2084705]]'
+- "[[_Standards/WikiData/WD~Arba'ah_Turim,2533443]]"
+- '[[_Standards/WikiData/WD~Chofetz_Chaim,5103831]]'
+- '[[_Standards/WikiData/WD~Halachot_Gedolot,12406659]]'
+- '[[_Standards/WikiData/WD~Hilchot_HaRif,12406664]]'
+- '[[_Standards/WikiData/WD~Tanakh_Ram,12412127]]'
+- '[[_Standards/WikiData/WD~Talmud,43290]]'
 has_cause: '[[_Standards/WikiData/WD~revelation,192906]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Ketuvim,208190]]'
-  - "[[_Standards/WikiData/WD~Nevi'im,216383]]"
-  - '[[_Standards/WikiData/WD~Torah,34990]]'
+- '[[_Standards/WikiData/WD~Ketuvim,208190]]'
+- "[[_Standards/WikiData/WD~Nevi'im,216383]]"
+- '[[_Standards/WikiData/WD~Torah,34990]]'
 based_on:
-  - '[[_Standards/WikiData/WD~Ketuvim,208190]]'
-  - "[[_Standards/WikiData/WD~Nevi'im,216383]]"
-  - '[[_Standards/WikiData/WD~Torah,34990]]'
+- '[[_Standards/WikiData/WD~Ketuvim,208190]]'
+- "[[_Standards/WikiData/WD~Nevi'im,216383]]"
+- '[[_Standards/WikiData/WD~Torah,34990]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Masoretic_Text,380669]]'
-  - '[[_Standards/WikiData/WD~Aleppo_Codex,637584]]'
-  - '[[_Standards/WikiData/WD~Mikraot_Gedolot,2148669]]'
-  - '[[_Standards/WikiData/WD~Mikraot_Gedolot_Haketer,6782012]]'
-  - '[[_Standards/WikiData/WD~Oxford_Hebrew_Bible,7115348]]'
-  - '[[_Standards/WikiData/WD~Tanakh_Ram,12412127]]'
-  - '[[_Standards/WikiData/WD~Old_Testament,19786]]'
-  - '[[_Standards/WikiData/WD~Septuagint,29334]]'
+- '[[_Standards/WikiData/WD~Masoretic_Text,380669]]'
+- '[[_Standards/WikiData/WD~Aleppo_Codex,637584]]'
+- '[[_Standards/WikiData/WD~Mikraot_Gedolot,2148669]]'
+- '[[_Standards/WikiData/WD~Mikraot_Gedolot_Haketer,6782012]]'
+- '[[_Standards/WikiData/WD~Oxford_Hebrew_Bible,7115348]]'
+- '[[_Standards/WikiData/WD~Tanakh_Ram,12412127]]'
+- '[[_Standards/WikiData/WD~Old_Testament,19786]]'
+- '[[_Standards/WikiData/WD~Septuagint,29334]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Hebrew_Bible,732870]]'
 language_of_work_or_name:
-  - '[[_Standards/WikiData/WD~Biblical_Aramaic,843235]]'
-  - '[[_Standards/WikiData/WD~Biblical_Hebrew,1982248]]'
+- '[[_Standards/WikiData/WD~Biblical_Aramaic,843235]]'
+- '[[_Standards/WikiData/WD~Biblical_Hebrew,1982248]]'
 genre: '[[_Standards/WikiData/WD~religious_literature,12617225]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_National_Library_of_Israel,105620684]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 edition_or_translation_of: '[[_Standards/WikiData/WD~Old_Testament,19786]]'
@@ -64,8 +102,115 @@ work_available_at_URL: https://www.mgketer.org/
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Entire%20Tanakh%20scroll%20set.png
 Colon_Classification: Q5:21
 Archive_of_Our_Own_tag: תנ"ך | Tanakh
+dv_has_:
+  name_:
+    af: Tanag
+    ar: تناخ
+    arz: التناخ
+    ast: Tanak
+    az: Tanax
+    azb: تنخ
+    bar: Tanach
+    be: Танах
+    be-tarask: Танах
+    bg: Танах
+    bho: तानाख
+    bn: হিব্রু বাইবেল
+    br: Tanac'h
+    bs: Tanah
+    ca: Tanakh
+    ce: Танах
+    ceb: Tanakh
+    ckb: تەناخ
+    cs: Tanach
+    cv: Танах
+    cy: Y Beibl Hebraeg
+    da: Tanakh
+    de: Tanach
+    el: Τανάκ
+    en: Tanakh
+    eo: Tanaĥo
+    es: Tanaj
+    et: Tanah
+    eu: Tanakh
+    fa: تنخ
+    fi: Tanak
+    fr: Tanakh
+    fy: Tenach
+    ga: Tanakh
+    gl: Tanakh
+    gsw: Tanach
+    gv: Tanakh
+    he: תנ"ך
+    hi: तनख़
+    hr: Tanakh
+    hu: Tanakh
+    hy: Հին Կտակարան
+    id: Tanakh
+    io: Tanakh
+    is: Tanakh
+    it: Tanakh
+    ja: タナハ
+    jam: Tanak
+    jv: Tanakh
+    ka: თანახი
+    kab: Tanax
+    kk: Танах
+    kn: ತನಾಕ್
+    ko: 타나크
+    la: Thanach
+    lad: Tanah
+    lb: Tanach
+    lld: Tanakh
+    lt: Tanachas
+    lv: Tanahs
+    lzh: 塔納赫
+    mg: Tanakh
+    mk: Танах
+    ml: തനക്ക്
+    ms: Tanakh
+    mul: Tanaḵ
+    nan: Hi-pek-lâi Sèng-keng
+    nb: Tanákh
+    nds: Tanach
+    nl: Tenach
+    nn: Tanákh
+    oc: Tanakh
+    pl: Tanach
+    pnb: تنک
+    pt: Tanakh
+    pt-br: Tanakh
+    ro: Tanak
+    ru: Танах
+    rue: Танах
+    rw: Bibiliya y'Igiheburayo
+    sah: Танах
+    scn: Tanakh
+    sco: Tanakh
+    sh: Tanah
+    sk: Tanach
+    sl: Tanak
+    sr: Танах
+    sv: Tanakh
+    sw: Tanakh
+    ta: ரனாக்
+    th: คัมภีร์ฮีบรู
+    tl: Tanakh
+    tok: lipu sewi Tanaka
+    tr: Tanah
+    uk: Танах
+    ur: تنک
+    vi: Tanakh
+    war: Tanakh
+    wuu: 塔纳赫
+    xmf: თანახი
+    yi: תנ"ך
+    yue: 塔納赫
+    zea: Tenach
+    zh: 塔納赫
+    zh-hans: 塔纳赫
+    zh-hant: 塔納赫
 ---
-
 # [[Tanakh]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tanakh,83367|WD~Tanakh,83367]]  

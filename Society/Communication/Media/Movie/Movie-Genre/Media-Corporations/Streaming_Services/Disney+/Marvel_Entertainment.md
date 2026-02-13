@@ -1,10 +1,91 @@
 ---
 aliases:
-  - Marvel Entertainment
-  - Marvel Enterprises
-  - Marvel_Entertainment
+- Marvel Enterprises
+- Marvel Entertainment
+- Marvel Entertainment LLC
+- Marvel_Entertainment
+- מארוול אנטרטיינמנט
+- مارفل إنترتينمنت
+- مارول ایلهنجه
+- مارول اینترتینمنت
+- مارڤيل اينترتينمينت
+- مارڤڵ ئینتەرتەیمێنت
+- मार्वल इंटरटेनमेंट
+- মার্ভেল এন্টারটেইনমেন্ট
+- மார்வல் மகிழ்கலைக் கொம்பனி
+- മാർവെൽ എന്റർടെയ്ൻമെന്റ്
+- มาร์เวลเอนเตอร์เทนเมนต์
+- マーベル・エンターテインメント
+- 漫威娛樂
+- 漫威娱乐
+- 마블 엔터테인먼트
+has_id_wikidata: Q1200552
+dv_has_:
+  name_:
+    ar: مارفل إنترتينمنت
+    arz: مارڤيل اينترتينمينت
+    ast: Marvel Entertainment
+    azb: مارول ایلهنجه
+    be-tarask: Marvel Entertainment
+    bn: মার্ভেল এন্টারটেইনমেন্ট
+    ca: Marvel Entertainment
+    ckb: مارڤڵ ئینتەرتەیمێنت
+    cs: Marvel Entertainment
+    da: Marvel Entertainment
+    de: Marvel Entertainment
+    el: Marvel Entertainment
+    en: Marvel Entertainment
+    es: Marvel Entertainment
+    eu: Marvel Entertainment
+    fa: مارول اینترتینمنت
+    fi: Marvel Entertainment
+    fit: Marvel Entertainment
+    fr: Marvel Entertainment
+    ga: Marvel Entertainment
+    gl: Marvel Entertainment
+    he: מארוול אנטרטיינמנט
+    hi: मार्वल इंटरटेनमेंट
+    hu: Marvel Entertainment
+    hy: Marvel Entertainment
+    id: Marvel Entertainment
+    it: Marvel Entertainment
+    ja: マーベル・エンターテインメント
+    ka: Marvel Entertainment
+    ko: 마블 엔터테인먼트
+    ky: Marvel Entertainment
+    lb: Marvel Entertainment
+    lld: Marvel Entertainment
+    lt: Marvel Entertainment
+    ml: മാർവെൽ എന്റർടെയ്ൻമെന്റ്
+    ms: Marvel Entertainment
+    nb: Marvel Entertainment
+    nl: Marvel Entertainment
+    pl: Marvel Entertainment
+    pt: Marvel Entertainment
+    ro: Marvel Entertainment
+    ru: Marvel Entertainment
+    sah: Marvel Entertainment
+    sco: Marvel Entertainment
+    sl: Marvel Entertainment
+    sr: Marvel Entertainment
+    sv: Marvel Entertainment
+    sw: Marvel Entertainment
+    ta: மார்வல் மகிழ்கலைக் கொம்பனி
+    tg: Marvel Entertainment LLC
+    th: มาร์เวลเอนเตอร์เทนเมนต์
+    tr: Marvel Entertainment
+    tt: Marvel Entertainment
+    tt-cyrl: Marvel Entertainment
+    uk: Marvel Entertainment
+    uz: Marvel Entertainment
+    vec: Marvel Entertainment
+    vi: Marvel Entertainment
+    wuu: 漫威娱乐
+    zh: 漫威娛樂
+    zh-hans: 漫威娱乐
+    zh-hant: 漫威娛樂
+    zh-hk: 漫威娛樂
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Marvel** Entertainment, LLC (formerly Marvel Entertainment, Inc. and Marvel Enterprises, Inc.) 

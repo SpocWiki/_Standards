@@ -1,23 +1,96 @@
 ---
 aliases:
+- Reloov trougao
+- Reuleaux trekant
+- Reuleaux triangle
+- Reuleaux üçgeni
+- Reuleaux 三角形
+- Reuleaux-Dreieck
+- Reuleaux-driehoek
+- Reuleaux-háromszög
+- Reuleauxen triangelua
+- Reuleauxov trikotnik
+- Reuleauxov trokut
+- Reuleauxův trojúhelník
+- Reuleaux’n kolmio
+- Tam giác Reuleaux
+- triangle de Reuleaux
+- triangolo di Reuleaux
+- triunghi Reuleaux
+- triángulo de Reuleaux
+- Triángulu de Reuleaux
+- triângulo de Reuleaux
+- trójkąt Reuleaux
+- Τρίγωνο Ρελώ
+- Рёло виçкĕтеслĕхĕ
+- Рёло үшбұрышы
+- треугольник Рёло
+- трикутник Рело
+- трыкутнік Рэлё
+- Ռյոլոյի եռանկյուն
+- משולש רולו
+- مثلث رولو
+- ルーローの三角形
+- 勒洛三角形
+- 뢸로 삼각형
 has_id_wikidata: Q959203
 has_characteristic:
-  - "[[_Standards/WikiData/WD~circumradius,3678113]]"
-  - "[[_Standards/WikiData/WD~inradius,3799068]]"
-  - "[[_Standards/WikiData/WD~isoperimetric_ratio,25304343]]"
-  - "[[_Standards/WikiData/WD~area,11500]]"
-  - "[[_Standards/WikiData/WD~perimeter,28474]]"
+- '[[_Standards/WikiData/WD~circumradius,3678113]]'
+- '[[_Standards/WikiData/WD~inradius,3799068]]'
+- '[[_Standards/WikiData/WD~isoperimetric_ratio,25304343]]'
+- '[[_Standards/WikiData/WD~area,11500]]'
+- '[[_Standards/WikiData/WD~perimeter,28474]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~regular_Reuleaux_polygon,4298917]]"
-  - "[[_Standards/WikiData/WD~circular_triangle,25100123]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~GLAM_of_Matemateca,57295604]]"
-named_after: "[[_Standards/WikiData/WD~Franz_Reuleaux,62409]]"
+- '[[_Standards/WikiData/WD~regular_Reuleaux_polygon,4298917]]'
+- '[[_Standards/WikiData/WD~circular_triangle,25100123]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~GLAM_of_Matemateca,57295604]]'
+named_after: '[[_Standards/WikiData/WD~Franz_Reuleaux,62409]]'
 Commons_category: Reuleaux triangles
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Construction%20triangle%20Reuleaux.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ReuleauxTriangle%20only.svg
+dv_has_:
+  name_:
+    af: Reuleaux-driehoek
+    ar: مثلث رولو
+    ast: Triángulu de Reuleaux
+    be-tarask: трыкутнік Рэлё
+    ca: triangle de Reuleaux
+    cs: Reuleauxův trojúhelník
+    cv: Рёло виçкĕтеслĕхĕ
+    de: Reuleaux-Dreieck
+    el: Τρίγωνο Ρελώ
+    en: Reuleaux triangle
+    es: triángulo de Reuleaux
+    eu: Reuleauxen triangelua
+    fa: مثلث رولو
+    fi: Reuleaux’n kolmio
+    fr: triangle de Reuleaux
+    gl: Triángulo de Reuleaux
+    he: משולש רולו
+    hr: Reuleauxov trokut
+    hu: Reuleaux-háromszög
+    hy: Ռյոլոյի եռանկյուն
+    it: triangolo di Reuleaux
+    ja: ルーローの三角形
+    kk: Рёло үшбұрышы
+    ko: 뢸로 삼각형
+    nb: Reuleaux trekant
+    nl: reuleaux-driehoek
+    pl: trójkąt Reuleaux
+    pt: triângulo de Reuleaux
+    pt-br: triângulo de Reuleaux
+    ro: triunghi Reuleaux
+    ru: треугольник Рёло
+    sh: Reuleauxov trokut
+    sl: Reuleauxov trikotnik
+    sr: Reloov trougao
+    tr: Reuleaux üçgeni
+    uk: трикутник Рело
+    vi: Tam giác Reuleaux
+    yue: Reuleaux 三角形
+    zh: 勒洛三角形
 ---
-
 # [[Reuleaux_Triangle]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Reuleaux_triangle,959203|WD~Reuleaux_triangle,959203]] 

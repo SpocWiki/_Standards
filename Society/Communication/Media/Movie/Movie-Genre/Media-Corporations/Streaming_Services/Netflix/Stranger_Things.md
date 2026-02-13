@@ -1,4 +1,104 @@
-
+---
+has_id_wikidata: Q19798734
+dv_has_:
+  name_:
+    ar: أشياء غريبة
+    az: Qəribə şeylər
+    azb: غریبه شئیلر
+    be: Дзіўныя рэчы
+    be-tarask: Дзіўныя рэчы
+    bg: Странни неща
+    bn: স্ট্রেঞ্জার থিংস
+    bs: Čudnije Stvari
+    ca: Stranger Things
+    ckb: شتە نامۆکان
+    cs: Stranger Things
+    da: Stranger Things
+    de: Stranger Things
+    el: Παράξενα Πράγματα
+    en: Stranger Things
+    en-us: Stranger Things
+    et: Veidrad asjad
+    fa: چیزهای عجیب
+    fr: Stranger Things
+    ha: Abubuwan Baƙi
+    he: דברים מוזרים
+    hi: अजनबी चीजें
+    hy: Տարօրինակ դեպքեր
+    hyw: Տարօրինակ Դէպքեր
+    it: Stranger Things
+    ja: ストレンジャー・シングス 未知の世界
+    ka: უცნაური ამბები
+    kk: Біртүрлі жағдайлар
+    km: សភាវៈចម្លែក
+    ko: 기묘한 이야기
+    ks: عجیٖب چیٖز
+    la: Stranger things
+    lt: Keisti dalykai
+    mk: Почудни нешта
+    ml: സ്ട്രേഞ്ചർ തിങ്സ്
+    mul: Stranger Things
+    ne: स्ट्रेन्जर थिङ्स
+    pa: ਸਟਰੇਂਜਰ ਥਿੰਗਜ਼
+    pt: Stranger Things
+    pt-br: Stranger Things
+    ru: Очень странные дела
+    sq: gjëra të huaja
+    sr: Чудније ствари
+    ta: ஸ்ட்ரேஞ்சர் திங்க்ஸ்
+    th: สเตรนเจอร์ทิงส์
+    tr: Garip Şeyler
+    uk: Дивні дива
+    ur: عجیب واقعات
+    uz: G'alati narsalar
+    vi: Cậu bé mất tích
+    wuu: 怪奇物语
+    zh: 怪奇物语
+    zh-hans: 怪奇物语
+    zh-hant: 怪奇物語
+    zh-tw: 怪奇物語
+aliases:
+- Abubuwan Baƙi
+- Cậu bé mất tích
+- G'alati narsalar
+- Garip Şeyler
+- gjëra të huaja
+- Keisti dalykai
+- Qəribə şeylər
+- Stranger Things
+- Veidrad asjad
+- Čudnije Stvari
+- Παράξενα Πράγματα
+- Біртүрлі жағдайлар
+- Дзіўныя рэчы
+- Дивні дива
+- Очень странные дела
+- Почудни нешта
+- Странни неща
+- Чудније ствари
+- Տարօրինակ դեպքեր
+- Տարօրինակ Դէպքեր
+- דברים מוזרים
+- أشياء غريبة
+- شتە نامۆکان
+- عجیب واقعات
+- عجیٖب چیٖز
+- غریبه شئیلر
+- چیزهای عجیب
+- अजनबी चीजें
+- स्ट्रेन्जर थिङ्स
+- স্ট্রেঞ্জার থিংস
+- ਸਟਰੇਂਜਰ ਥਿੰਗਜ਼
+- ஸ்ட்ரேஞ்சர் திங்க்ஸ்
+- സ്ട്രേഞ്ചർ തിങ്സ്
+- สเตรนเจอร์ทิงส์
+- უცნაური ამბები
+- សភាវៈចម្លែក
+- ストレンジャー・シングス 未知の世界
+- 怪奇物語
+- 怪奇物语
+- 기묘한 이야기
+---
 ## #has_/text_of_/abstract 
 
 > Stranger Things is an American science fiction horror drama television series 

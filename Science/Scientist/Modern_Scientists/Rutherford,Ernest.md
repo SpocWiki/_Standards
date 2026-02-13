@@ -1,43 +1,94 @@
 ---
 aliases:
-  - Ernest Rutherford
-  - Ernest_Rutherford
-  - Rutherford
-  - Ernest Rutherford, 1st Baron Rutherford of Nelson
-  - Rutherford,Ernest
+- Ernest Rezerford
+- Ernest Rutherford
+- Ernest Rutherford, 1st Baron Rutherford of Nelson
+- Ernesti Raazerfoordi
+- Ernestos Rezerfuords
+- Ernests Rezerfords
+- Ernestus Rutherford
+- Ernest_Rutherford
+- Lâ-set-fuk
+- Ow-ni-s-te.La-say-bu
+- Rezerford Ernest
+- Rutherford
+- Rutherford,Ernest
+- Έρνεστ Ράδερφορντ
+- Ернест Радерфорд
+- Ернест Резерфорд
+- Ернст Радерфорд
+- Резерфорд, Эрнест
+- Ърнест Ръдърфорд
+- Эрнест Резерфорд
+- Эрнэст Рэзерфорд
+- Эрнэст Рэзэрфорд
+- Էռնեստ Ռեզերֆորդ
+- ארנסט רתרפורד
+- ערנעסט ראדערפארד
+- إرنست رذرفورد
+- إرنست روذرفورد
+- ئێرنست ڕەدەرفۆرد
+- ارنست رادرفورد
+- ارنست رذرفورد
+- ارنسٹ ردرفورڈ
+- اَرنیسٹ رٲدَرفوڈ
+- لارڈ رودر فورڈ
+- अर्नेस्ट रदरफोर्ड
+- अर्नेस्ट रुथरफोर्ड
+- अर्नेस्ट रुदरफोर्ड
+- আর্নেস্ট রাদারফোর্ড
+- আৰ্নেষ্ট ৰাডাৰফ'ৰ্ড
+- ਅਰਨਸਟ ਰਦਰਫ਼ੋਰਡ
+- અર્નસ્ટ રધરફર્ડ
+- எர்ணஸ்ட் ரதர்ஃபோர்டு
+- ఎర్నెస్ట్ రూథర్ఫోర్డ్
+- ಅರ್ನೆಸ್ಟ್ ರುದರ್ಫೋರ್ಡ್
+- ഏണസ്റ്റ് റൂഥർഫോർഡ്
+- අර්නස්ට් රදර්ෆර්ඩ්
+- เออร์เนสต์ รูเทอร์ฟอร์ด
+- အားနပ်စ် ရူသာဖို့ဒ်
+- ერნესტ რეზერფორდი
+- እርነስት ራዘርፎርድ
+- ᱮᱨᱱᱮᱥᱴ ᱨᱚᱫᱚᱨᱯᱷᱚᱨᱰ
+- アーネスト・ラザフォード
+- 欧内斯特·卢瑟福
+- 歐尼斯特·拉塞福
+- 盧瑟福
+- 어니스트 라더퍼드
+- 어니스트 러더퍼드
 has_id_wikidata: Q9123
 academic_degree:
-  - '[[_Standards/WikiData/WD~Bachelor_of_Science,787674]]'
-  - '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
-  - '[[_Standards/WikiData/WD~Master_of_Arts,2091008]]'
-  - '[[_Standards/WikiData/WD~Doctor_of_Science,2248352]]'
+- '[[_Standards/WikiData/WD~Bachelor_of_Science,787674]]'
+- '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
+- '[[_Standards/WikiData/WD~Master_of_Arts,2091008]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Science,2248352]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Merit,94056]]'
-  - '[[_Standards/WikiData/WD~Rumford_Medal,285167]]'
-  - '[[_Standards/WikiData/WD~Faraday_Medal_and_Prize,596778]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
-  - '[[_Standards/WikiData/WD~Barnard_Medal_for_Meritorious_Service_to_Science,808424]]'
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Bakerian_Lecture,1107771]]'
-  - '[[_Standards/WikiData/WD~Elliott_Cresson_Medal,1332315]]'
-  - '[[_Standards/WikiData/WD~Faraday_Medal,1396110]]'
-  - '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
-  - '[[_Standards/WikiData/WD~Faraday_Lectureship_Prize,1994574]]'
-  - '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
-  - '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
-  - '[[_Standards/WikiData/WD~Hector_Medal,5696835]]'
-  - '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
-  - '[[_Standards/WikiData/WD~IET_Kelvin_Lecture,21661896]]'
-  - '[[_Standards/WikiData/WD~Dalton_Medal,28401709]]'
-  - '[[_Standards/WikiData/WD~Echegaray_Medal,43431094]]'
-  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493]]'
-  - '[[_Standards/WikiData/WD~Guthrie_Lecture,61577006]]'
-  - '[[_Standards/WikiData/WD~T._K._Sidey_Medal,63494277]]'
-  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_Te_Apārangi,125121451]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_New_Zealand,131837704]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,94056]]'
+- '[[_Standards/WikiData/WD~Rumford_Medal,285167]]'
+- '[[_Standards/WikiData/WD~Faraday_Medal_and_Prize,596778]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
+- '[[_Standards/WikiData/WD~Barnard_Medal_for_Meritorious_Service_to_Science,808424]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Bakerian_Lecture,1107771]]'
+- '[[_Standards/WikiData/WD~Elliott_Cresson_Medal,1332315]]'
+- '[[_Standards/WikiData/WD~Faraday_Medal,1396110]]'
+- '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
+- '[[_Standards/WikiData/WD~Faraday_Lectureship_Prize,1994574]]'
+- '[[_Standards/WikiData/WD~Franklin_Medal,3141777]]'
+- '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
+- '[[_Standards/WikiData/WD~Hector_Medal,5696835]]'
+- '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society,15631401]]'
+- '[[_Standards/WikiData/WD~IET_Kelvin_Lecture,21661896]]'
+- '[[_Standards/WikiData/WD~Dalton_Medal,28401709]]'
+- '[[_Standards/WikiData/WD~Echegaray_Medal,43431094]]'
+- '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_of_Edinburgh,59772493]]'
+- '[[_Standards/WikiData/WD~Guthrie_Lecture,61577006]]'
+- '[[_Standards/WikiData/WD~T._K._Sidey_Medal,63494277]]'
+- '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society_Te_Apārangi,125121451]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_New_Zealand,131837704]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 child: '[[_Standards/WikiData/WD~Eileen_Mary_Rutherford,75451555]]'
 Commons_category: Ernest Rutherford
 Commons_gallery: Ernest Rutherford
@@ -45,64 +96,64 @@ country_of_citizenship: '[[_Standards/WikiData/WD~New_Zealand,664]]'
 date_of_birth: 1871-08-30
 date_of_death: 1937-10-19
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=328800832
-  - http://www.digiporta.net/index.php?id=808093369
+- http://www.digiporta.net/index.php?id=328800832
+- http://www.digiporta.net/index.php?id=808093369
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Rutherford__Scientist_Supreme,122185364]]'
-  - '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Rutherford__Scientist_Supreme,122185364]]'
+- '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Alexander_William_Bickerton,4720367]]'
-  - '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
+- '[[_Standards/WikiData/WD~Alexander_William_Bickerton,4720367]]'
+- '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~James_Chadwick,80884]]'
-  - '[[_Standards/WikiData/WD~Edward_Victor_Appleton,153194]]'
-  - '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
-  - '[[_Standards/WikiData/WD~C._F._Powell,178103]]'
-  - '[[_Standards/WikiData/WD~Ernest_Walton,183631]]'
-  - '[[_Standards/WikiData/WD~Patrick_Blackett,184499]]'
-  - '[[_Standards/WikiData/WD~Henry_DeWolf_Smyth,451199]]'
-  - '[[_Standards/WikiData/WD~Douglas_Hartree,451770]]'
-  - '[[_Standards/WikiData/WD~Harriet_Brooks,469259]]'
-  - '[[_Standards/WikiData/WD~Ralph_H._Fowler,544338]]'
-  - '[[_Standards/WikiData/WD~Yulii_Khariton,561752]]'
-  - '[[_Standards/WikiData/WD~Ernest_Marsden,714452]]'
-  - '[[_Standards/WikiData/WD~Mark_Oliphant,727443]]'
-  - '[[_Standards/WikiData/WD~David_Shoenberg,1176634]]'
-  - '[[_Standards/WikiData/WD~Charles_Drummond_Ellis,3306233]]'
-  - '[[_Standards/WikiData/WD~Robert_William_Boyle,3436560]]'
-  - '[[_Standards/WikiData/WD~Alexander_McAulay,4719461]]'
-  - '[[_Standards/WikiData/WD~C._E._Wynn-Williams,5006423]]'
-  - '[[_Standards/WikiData/WD~George_Laurence,5541560]]'
-  - '[[_Standards/WikiData/WD~Rafi_Muhammad_Chaudhry,7282637]]'
-  - '[[_Standards/WikiData/WD~Norman_Alexander,11181006]]'
-  - '[[_Standards/WikiData/WD~Nazir_Ahmed,11181251]]'
-  - '[[_Standards/WikiData/WD~Leslie_Fleetwood_Bates,21166545]]'
-  - '[[_Standards/WikiData/WD~Alexander_Leicester_McAulay,21520204]]'
-  - '[[_Standards/WikiData/WD~Henry_De_Wolf_Smyth,102077024]]'
-  - '[[_Standards/WikiData/WD~John_Douglas_Cockcroft,102166480]]'
-  - '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
-  - '[[_Standards/WikiData/WD~John_Cockcroft,62897]]'
+- '[[_Standards/WikiData/WD~James_Chadwick,80884]]'
+- '[[_Standards/WikiData/WD~Edward_Victor_Appleton,153194]]'
+- '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
+- '[[_Standards/WikiData/WD~C._F._Powell,178103]]'
+- '[[_Standards/WikiData/WD~Ernest_Walton,183631]]'
+- '[[_Standards/WikiData/WD~Patrick_Blackett,184499]]'
+- '[[_Standards/WikiData/WD~Henry_DeWolf_Smyth,451199]]'
+- '[[_Standards/WikiData/WD~Douglas_Hartree,451770]]'
+- '[[_Standards/WikiData/WD~Harriet_Brooks,469259]]'
+- '[[_Standards/WikiData/WD~Ralph_H._Fowler,544338]]'
+- '[[_Standards/WikiData/WD~Yulii_Khariton,561752]]'
+- '[[_Standards/WikiData/WD~Ernest_Marsden,714452]]'
+- '[[_Standards/WikiData/WD~Mark_Oliphant,727443]]'
+- '[[_Standards/WikiData/WD~David_Shoenberg,1176634]]'
+- '[[_Standards/WikiData/WD~Charles_Drummond_Ellis,3306233]]'
+- '[[_Standards/WikiData/WD~Robert_William_Boyle,3436560]]'
+- '[[_Standards/WikiData/WD~Alexander_McAulay,4719461]]'
+- '[[_Standards/WikiData/WD~C._E._Wynn-Williams,5006423]]'
+- '[[_Standards/WikiData/WD~George_Laurence,5541560]]'
+- '[[_Standards/WikiData/WD~Rafi_Muhammad_Chaudhry,7282637]]'
+- '[[_Standards/WikiData/WD~Norman_Alexander,11181006]]'
+- '[[_Standards/WikiData/WD~Nazir_Ahmed,11181251]]'
+- '[[_Standards/WikiData/WD~Leslie_Fleetwood_Bates,21166545]]'
+- '[[_Standards/WikiData/WD~Alexander_Leicester_McAulay,21520204]]'
+- '[[_Standards/WikiData/WD~Henry_De_Wolf_Smyth,102077024]]'
+- '[[_Standards/WikiData/WD~John_Douglas_Cockcroft,102166480]]'
+- '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
+- '[[_Standards/WikiData/WD~John_Cockcroft,62897]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Trinity_College,332342]]'
-  - '[[_Standards/WikiData/WD~University_of_Canterbury,432475]]'
-  - '[[_Standards/WikiData/WD~Nelson_College,1976962]]'
-  - '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
+- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
+- '[[_Standards/WikiData/WD~University_of_Canterbury,432475]]'
+- '[[_Standards/WikiData/WD~Nelson_College,1976962]]'
+- '[[_Standards/WikiData/WD~University_of_Cambridge,35794]]'
 employer:
-  - '[[_Standards/WikiData/WD~Cavendish_Laboratory,181892]]'
-  - '[[_Standards/WikiData/WD~McGill_University,201492]]'
-  - '[[_Standards/WikiData/WD~University_of_Manchester,230899]]'
-  - '[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]'
+- '[[_Standards/WikiData/WD~Cavendish_Laboratory,181892]]'
+- '[[_Standards/WikiData/WD~McGill_University,201492]]'
+- '[[_Standards/WikiData/WD~University_of_Manchester,230899]]'
+- '[[_Standards/WikiData/WD~Victoria_University_of_Manchester,867530]]'
 Erdős_number: 6
 family_name: '[[_Standards/WikiData/WD~Rutherford,16882409]]'
 father: '[[_Standards/WikiData/WD~James_Rutherford,75451548]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~chemistry,2329]]'
-  - '[[_Standards/WikiData/WD~radioactivity,11448]]'
+- '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~radioactivity,11448]]'
 given_name: '[[_Standards/WikiData/WD~Ernest,595105]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Knight_Commander,1777144]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20Rutherford%20LOC.jpg
@@ -113,47 +164,47 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 Libris_URI: qn2591t858fdcnp
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit,94056]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
-  - '[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
-  - '[[_Standards/WikiData/WD~Manchester_Literary_and_Philosophical_Society,3285345]]'
-  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit,94056]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Pontifical_Academy_of_Sciences,938622]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Manchester_Literary_and_Philosophical_Society,3285345]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
 mother: '[[_Standards/WikiData/WD~Martha_Thompson,75451549]]'
 name_in_native_language: Ernest Rutherford
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 noble_title:
-  - '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
-  - '[[_Standards/WikiData/WD~Baron_Rutherford_of_Nelson,113527998]]'
+- '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
+- '[[_Standards/WikiData/WD~Baron_Rutherford_of_Nelson,113527998]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 place_of_birth: '[[_Standards/WikiData/WD~Spring_Grove,65430768]]'
 place_of_burial: '[[_Standards/WikiData/WD~Westminster_Abbey,5933]]'
 place_of_death: '[[_Standards/WikiData/WD~Cambridge,350]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Langworthy_Professor,6487001]]'
-  - '[[_Standards/WikiData/WD~member_of_the_House_of_Lords,18952564]]'
-  - '[[_Standards/WikiData/WD~President_of_the_Royal_Society,55713110]]'
+- '[[_Standards/WikiData/WD~Langworthy_Professor,6487001]]'
+- '[[_Standards/WikiData/WD~member_of_the_House_of_Lords,18952564]]'
+- '[[_Standards/WikiData/WD~President_of_the_Royal_Society,55713110]]'
 Regensburg_Classification: UB 2735
 relative: '[[_Standards/WikiData/WD~Ralph_H._Fowler,544338]]'
 residence: '[[_Standards/WikiData/WD~New_Zealand,664]]'
@@ -161,22 +212,174 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Ernest%20rutherford%20sig.jpg
 spouse: '[[_Standards/WikiData/WD~Mary_Georgina_Rutherford,22287025]]'
 student:
-  - '[[_Standards/WikiData/WD~James_Chadwick,80884]]'
-  - '[[_Standards/WikiData/WD~Frederick_Soddy,102830]]'
-  - '[[_Standards/WikiData/WD~Edward_Victor_Appleton,153194]]'
-  - '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
-  - '[[_Standards/WikiData/WD~Ernest_Walton,183631]]'
-  - '[[_Standards/WikiData/WD~Patrick_Blackett,184499]]'
-  - '[[_Standards/WikiData/WD~Mark_Oliphant,727443]]'
-  - '[[_Standards/WikiData/WD~Charles_Galton_Darwin,1064506]]'
-  - '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
-  - '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
-  - '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
-  - '[[_Standards/WikiData/WD~John_Cockcroft,62897]]'
+- '[[_Standards/WikiData/WD~James_Chadwick,80884]]'
+- '[[_Standards/WikiData/WD~Frederick_Soddy,102830]]'
+- '[[_Standards/WikiData/WD~Edward_Victor_Appleton,153194]]'
+- '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
+- '[[_Standards/WikiData/WD~Ernest_Walton,183631]]'
+- '[[_Standards/WikiData/WD~Patrick_Blackett,184499]]'
+- '[[_Standards/WikiData/WD~Mark_Oliphant,727443]]'
+- '[[_Standards/WikiData/WD~Charles_Galton_Darwin,1064506]]'
+- '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
+- '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
+- '[[_Standards/WikiData/WD~Hans_Geiger,57189]]'
+- '[[_Standards/WikiData/WD~John_Cockcroft,62897]]'
 student_of: '[[_Standards/WikiData/WD~J._J._Thomson,47285]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    af: Ernest Rutherford
+    am: እርነስት ራዘርፎርድ
+    an: Ernest Rutherford
+    ar: إرنست رذرفورد
+    ary: إرنست روذرفورد
+    arz: ارنست رذرفورد
+    as: আৰ্নেষ্ট ৰাডাৰফ'ৰ্ড
+    ast: Ernest Rutherford
+    awa: अर्नेस्ट रदरफोर्ड
+    az: Ernest Rezerford
+    azb: ارنست رادرفورد
+    ba: Эрнест Резерфорд
+    ban: Ernest Rutherford
+    bcl: Ernest Rutherford
+    be: Эрнэст Рэзерфорд
+    be-tarask: Эрнэст Рэзэрфорд
+    bg: Ърнест Ръдърфорд
+    bn: আর্নেস্ট রাদারফোর্ড
+    br: Ernest Rutherford
+    bs: Ernest Rutherford
+    btm: Ernest Rutherford
+    bxr: Эрнест Резерфорд
+    ca: Ernest Rutherford
+    ce: Резерфорд, Эрнест
+    ckb: ئێرنست ڕەدەرفۆرد
+    co: Ernest Rutherford
+    crh: Ernest Rezerford
+    cs: Ernest Rutherford
+    cy: Ernest Rutherford
+    da: Ernest Rutherford
+    de: Ernest Rutherford
+    de-ch: Ernest Rutherford
+    el: Έρνεστ Ράδερφορντ
+    en: Ernest Rutherford
+    en-ca: Ernest Rutherford
+    en-gb: Ernest Rutherford
+    en-us: Ernest Rutherford
+    eo: Ernest Rutherford
+    es: Ernest Rutherford
+    et: Ernest Rutherford
+    eu: Ernest Rutherford
+    fa: ارنست رادرفورد
+    fi: Ernest Rutherford
+    fr: Ernest Rutherford
+    fy: Ernest Rutherford
+    ga: Ernest Rutherford
+    gd: Ernest Rutherford
+    gl: Ernest Rutherford
+    gn: Ernest Rutherford
+    gsw: Ernest Rutherford
+    gu: અર્નસ્ટ રધરફર્ડ
+    hak: Lâ-set-fuk
+    he: ארנסט רתרפורד
+    hi: अर्नेस्ट रदरफोर्ड
+    hif: Ernest Rutherford
+    hr: Ernest Rutherford
+    ht: Ernest Rutherford
+    hu: Ernest Rutherford
+    hy: Էռնեստ Ռեզերֆորդ
+    ia: Ernest Rutherford
+    id: Ernest Rutherford
+    ilo: Ernest Rutherford
+    io: Ernest Rutherford
+    is: Ernest Rutherford
+    it: Ernest Rutherford
+    ja: アーネスト・ラザフォード
+    jv: Ernest Rutherford
+    ka: ერნესტ რეზერფორდი
+    kaa: Ernest Rutherford
+    kk: Эрнест Резерфорд
+    kn: ಅರ್ನೆಸ್ಟ್ ರುದರ್ಫೋರ್ಡ್
+    ko: 어니스트 러더퍼드
+    ko-kp: 어니스트 라더퍼드
+    ks: اَرنیسٹ رٲدَرفوڈ
+    kw: Ernest Rutherford
+    ky: Эрнест Резерфорд
+    la: Ernestus Rutherford
+    lb: Ernest Rutherford
+    li: Ernest Rutherford
+    lmo: Ernest Rutherford
+    lt: Ernest Rutherford
+    lv: Ernests Rezerfords
+    mg: Ernest Rutherford
+    mk: Ернст Радерфорд
+    ml: ഏണസ്റ്റ് റൂഥർഫോർഡ്
+    mn: Эрнест Резерфорд
+    mr: अर्नेस्ट रुदरफोर्ड
+    ms: Ernest Rutherford
+    mul: Ernest Rutherford
+    my: အားနပ်စ် ရူသာဖို့ဒ်
+    mzn: ارنست رادرفورد
+    nan: Ernest Rutherford
+    nb: Ernest Rutherford
+    nds: Ernest Rutherford
+    ne: अर्नेस्ट रदरफोर्ड
+    new: अर्नेस्ट रुथरफोर्ड
+    nl: Ernest Rutherford
+    nn: Ernest Rutherford
+    oc: Ernest Rutherford
+    om: Ernesti Raazerfoordi
+    os: Эрнест Резерфорд
+    pa: ਅਰਨਸਟ ਰਦਰਫ਼ੋਰਡ
+    pam: Ernest Rutherford
+    pap: Ernest Rutherford
+    pl: Ernest Rutherford
+    pms: Ernest Rutherford
+    pnb: ارنسٹ ردرفورڈ
+    ps: ارنست رادرفورد
+    pt: Ernest Rutherford
+    pt-br: Ernest Rutherford
+    qu: Ernest Rutherford
+    ro: Ernest Rutherford
+    ru: Эрнест Резерфорд
+    rue: Ернест Резерфорд
+    sa: अर्नेस्ट रदरफोर्ड
+    sah: Эрнест Резерфорд
+    sat: ᱮᱨᱱᱮᱥᱴ ᱨᱚᱫᱚᱨᱯᱷᱚᱨᱰ
+    sco: Ernest Rutherford
+    sgs: Ernestos Rezerfuords
+    sh: Ernest Rutherford
+    si: අර්නස්ට් රදර්ෆර්ඩ්
+    sk: Ernest Rutherford
+    sl: Ernest Rutherford
+    sq: Ernest Rutherford
+    sr: Ернест Радерфорд
+    sr-ec: Ернест Радерфорд
+    su: Ernest Rutherford
+    sv: Ernest Rutherford
+    sw: Ernest Rutherford
+    szy: Ow-ni-s-te.La-say-bu
+    ta: எர்ணஸ்ட் ரதர்ஃபோர்டு
+    te: ఎర్నెస్ట్ రూథర్ఫోర్డ్
+    tg: Эрнест Резерфорд
+    th: เออร์เนสต์ รูเทอร์ฟอร์ด
+    tl: Ernest Rutherford
+    tr: Ernest Rutherford
+    tt: Эрнест Резерфорд
+    uk: Ернест Резерфорд
+    ur: لارڈ رودر فورڈ
+    uz: Ernest Rutherford
+    vep: Rezerford Ernest
+    vi: Ernest Rutherford
+    vo: Ernest Rutherford
+    war: Ernest Rutherford
+    wuu: 欧内斯特·卢瑟福
+    xmf: ერნესტ რეზერფორდი
+    yi: ערנעסט ראדערפארד
+    yo: Ernest Rutherford
+    yue: 盧瑟福
+    zh: 欧内斯特·卢瑟福
+    zh-tw: 歐尼斯特·拉塞福
 ---
-
 # [[Rutherford,Ernest]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernest_Rutherford,9123|WD~Ernest_Rutherford,9123]] 

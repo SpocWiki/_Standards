@@ -1,9 +1,84 @@
 ---
 aliases:
-  - Megophryidae
+- Asiatische Krötenfrösche
+- csücskösásóbéka-félék
+- Họ Cóc bùn
+- Megofriedoj
+- Megophryidae
+- Megòfrid
+- Náátsʼózídę́ę́ʼ tsintah chʼał dóó bikʼéí
+- pablatnicovití
+- рогатови жаби
+- Рогатые чесночницы
+- מגופריים
+- ایشیائی کھورا ڈڈو
+- ضفادع مقرنة آسيوية
+- ضفادع مقرنه آسيويه
+- قورباغههای خاشاک
+- วงศ์อึ่งกราย
+- コノハガエル科
+- 角蟾科
+- 메고프리스과
 title: Megophryidae
+has_id_wikidata: Q56056
+dv_has_:
+  name_:
+    an: Megophryidae
+    ar: ضفادع مقرنة آسيوية
+    arz: ضفادع مقرنه آسيويه
+    ast: Megophryidae
+    bg: рогатови жаби
+    br: Megophryidae
+    ca: Megòfrid
+    ceb: Megophryidae
+    cs: pablatnicovití
+    de: Asiatische Krötenfrösche
+    de-ch: Asiatische Krötenfrösche
+    en: Megophryidae
+    en-ca: Megophryidae
+    en-gb: Megophryidae
+    eo: Megofriedoj
+    es: Megophryidae
+    eu: Megophryidae
+    ext: Megophryidae
+    fa: قورباغههای خاشاک
+    fi: Megophryidae
+    fr: Megophryidae
+    ga: Megophryidae
+    gl: Megophryidae
+    he: מגופריים
+    hu: csücskösásóbéka-félék
+    ia: Megophryidae
+    ie: Megophryidae
+    io: Megophryidae
+    it: Megophryidae
+    ja: コノハガエル科
+    ko: 메고프리스과
+    la: Megophryidae
+    mul: Megophryidae
+    nl: Megophryidae
+    nv: Náátsʼózídę́ę́ʼ tsintah chʼał dóó bikʼéí
+    oc: Megophryidae
+    pl: Megophryidae
+    pnb: ایشیائی کھورا ڈڈو
+    pt: Megophryidae
+    pt-br: Megophryidae
+    ro: Megophryidae
+    ru: Рогатые чесночницы
+    sl: Megophryidae
+    sq: Megophryidae
+    sv: Megophryidae
+    th: วงศ์อึ่งกราย
+    tr: Megophryidae
+    uk: Megophryidae
+    vi: Họ Cóc bùn
+    vo: Megophryidae
+    war: Megophryidae
+    zh: 角蟾科
+    zh-cn: 角蟾科
+    zh-hans: 角蟾科
+    zh-tw: 角蟾科
 ---
-
 # [[Megophryidae]]  
 
 ![ ](Megophryidae/megophrys.jpg)

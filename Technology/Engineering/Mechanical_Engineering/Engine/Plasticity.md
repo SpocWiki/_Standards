@@ -1,16 +1,134 @@
 ---
 aliases:
-  - Plastizität
-  - plastic deformation
-  - Plasticity
+- Biến dạng dẻo
+- díchumadh plaisteach
+- képlékenység
+- plasteco
+- plastic deformation
+- plasticidad
+- plasticidade
+- plasticitas
+- plasticitat
+- plasticitate
+- plasticiteit
+- plasticitet
+- Plasticity
+- plasticità
+- plasticité
+- Plastiklik
+- Plastiklik (fizika)
+- plastikotasun
+- Plastisitas (fisika)
+- plastisitet
+- plastisuus
+- Plastizität
+- Plastičnost
+- plastsus
+- plastyczność
+- Teorie plasticity
+- Teória plasticity
+- Ubucwazi
+- Ïlemdilik
+- πλαστικότητα
+- Илемділік
+- пластичність
+- Пластична деформация
+- пластичност
+- пластичность
+- пластычная дэфармацыя
+- плястычная дэфармацыя
+- Тÿсĕмлĕх (физика)
+- պլաստիկություն
+- פלסטיות
+- لدونة
+- لدونت
+- مومسانی
+- ىيلەمدىلىك
+- आलुपहः
+- सुघट्यता
+- অস্থিতিস্থাপকতা (নমনীয় পদার্থ)
+- ਢਿਲਕ
+- நெகிழ்வு தன்மை
+- პლასტიკურობა
+- 塑性
+- 塑性变形
+- 塑性變形
+- 소성
 has_id_wikidata: Q472074
 described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 studied_by: '[[_Standards/WikiData/WD~plasticity_theory,1558058]]'
 instance_of: '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quai%20de%20la%20Seine%20%28Paris%29%2C%20baudruche.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/PLASTICHNOST.html
+dv_has_:
+  name_:
+    ar: لدونة
+    az: Plastiklik (fizika)
+    be: пластычная дэфармацыя
+    be-tarask: плястычная дэфармацыя
+    bg: Пластична деформация
+    bn: অস্থিতিস্থাপকতা (নমনীয় পদার্থ)
+    bs: Plastičnost
+    ca: plasticitat
+    cs: Teorie plasticity
+    cv: Тÿсĕмлĕх (физика)
+    de: Plastizität
+    el: πλαστικότητα
+    en: plasticity
+    eo: plasteco
+    es: plasticidad
+    et: plastsus
+    eu: plastikotasun
+    fa: مومسانی
+    fi: plastisuus
+    fr: plasticité
+    ga: díchumadh plaisteach
+    he: פלסטיות
+    hi: सुघट्यता
+    hr: Plastičnost
+    hu: képlékenység
+    hy: պլաստիկություն
+    id: Plastisitas (fisika)
+    it: plasticità
+    ja: 塑性
+    ka: პლასტიკურობა
+    kk: Илемділік
+    kk-arab: ىيلەمدىلىك
+    kk-cn: ىيلەمدىلىك
+    kk-cyrl: Илемділік
+    kk-kz: Илемділік
+    kk-latn: Ïlemdilik
+    kk-tr: Ïlemdilik
+    ko: 소성
+    la: plasticitas
+    mk: пластичност
+    nb: plastisitet
+    new: आलुपहः
+    nl: plasticiteit
+    pa: ਢਿਲਕ
+    pl: plastyczność
+    pt: plasticidade
+    ro: plasticitate
+    ru: пластичность
+    sh: Plastičnost
+    sk: Teória plasticity
+    sl: plastičnost
+    sr: plastičnost
+    sv: plasticitet
+    ta: நெகிழ்வு தன்மை
+    uk: пластичність
+    ur: لدونت
+    uz: Plastiklik
+    vi: Biến dạng dẻo
+    zh: 塑性變形
+    zh-cn: 塑性变形
+    zh-hans: 塑性变形
+    zh-hant: 塑性變形
+    zh-hk: 塑性變形
+    zh-sg: 塑性变形
+    zh-tw: 塑性變形
+    zu: Ubucwazi
 ---
-
 # [[Plasticity]] 
 
 #is_/same_as :: [[WD~Plasticity,472074]] 

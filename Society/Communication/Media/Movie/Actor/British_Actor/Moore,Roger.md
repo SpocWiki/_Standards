@@ -1,11 +1,233 @@
 ---
 aliases:
-  - Roger Moore
-  - Roger George Moore
-  - Sir Roger George Moore
-  - Moore,Roger
+- Moore,Roger
+- Rodžer Mur
+- Rodžers Mūrs
+- Roger George Moore
+- Roger Moore
+- Rogerius Moore
+- Sir Roger George Moore
+- Sir Roger Moore
+- Ρότζερ Μουρ
+- Роџер Мур
+- Роджер Мур
+- Роджър Мур
+- Роджэр Мур
+- Рожер Мур
+- Ռոջեր Մուր
+- רוג'ר מור
+- راجر مور
+- روجر مور
+- रॉजर मूर
+- রজার ম্যুর
+- ரோஜர் மூர்
+- โรเจอร์ มัวร์
+- ໂຣເຈົອ ມັວ
+- ရော်ဂျာမိုး
+- როჯერ მური
+- ロジャー・ムーア
+- 罗杰·摩尔
+- 羅傑·摩爾
+- 羅渣·摩亞
+- 羅渣摩亞
+- 로저 무어
+has_id_wikidata: Q134333
+dv_has_:
+  name_:
+    aa: Roger Moore
+    ace: Roger Moore
+    af: Roger Moore
+    an: Roger Moore
+    ang: Roger Moore
+    ar: روجر مور
+    arz: روجر مور
+    ast: Roger Moore
+    ay: Roger Moore
+    az: Roger Moore
+    azb: راجر مور
+    bar: Roger Moore
+    bcl: Roger Moore
+    be: Роджэр Мур
+    bg: Роджър Мур
+    bi: Roger Moore
+    bjn: Roger Moore
+    bm: Roger Moore
+    bn: রজার ম্যুর
+    br: Roger Moore
+    bs: Roger Moore
+    ca: Roger Moore
+    cbk-zam: Roger Moore
+    cdo: Roger Moore
+    ceb: Roger Moore
+    ch: Roger Moore
+    cho: Roger Moore
+    chy: Roger Moore
+    co: Roger Moore
+    cr: Roger Moore
+    crh-latn: Roger Moore
+    cs: Roger Moore
+    csb: Roger Moore
+    cy: Roger Moore
+    da: Roger Moore
+    de: Roger Moore
+    de-at: Roger Moore
+    de-ch: Roger Moore
+    diq: Roger Moore
+    dsb: Roger Moore
+    dtp: Roger Moore
+    ee: Roger Moore
+    egl: Roger Moore
+    el: Ρότζερ Μουρ
+    eml: Roger Moore
+    en: Roger Moore
+    en-ca: Roger Moore
+    en-gb: Roger Moore
+    eo: Roger Moore
+    es: Roger Moore
+    et: Roger Moore
+    eu: Roger Moore
+    ext: Roger Moore
+    fa: راجر مور
+    ff: Roger Moore
+    fi: Roger Moore
+    fit: Roger Moore
+    fj: Roger Moore
+    fo: Roger Moore
+    fr: Roger Moore
+    frc: Roger Moore
+    frp: Roger Moore
+    frr: Roger Moore
+    fur: Roger Moore
+    fy: Roger Moore
+    ga: Roger Moore
+    gag: Roger Moore
+    gd: Roger Moore
+    gl: Roger Moore
+    gn: Roger Moore
+    gsw: Roger Moore
+    gv: Roger Moore
+    ha: Roger Moore
+    hak: Roger Moore
+    he: רוג'ר מור
+    hif-latn: Roger Moore
+    hil: Roger Moore
+    ho: Roger Moore
+    hr: Roger Moore
+    hsb: Roger Moore
+    ht: Roger Moore
+    hu: Roger Moore
+    hy: Ռոջեր Մուր
+    hz: Roger Moore
+    ia: Roger Moore
+    id: Roger Moore
+    ie: Roger Moore
+    ig: Roger Moore
+    ik: Roger Moore
+    ike-latn: Roger Moore
+    ilo: Roger Moore
+    io: Roger Moore
+    is: Roger Moore
+    it: Roger Moore
+    ja: ロジャー・ムーア
+    jam: Roger Moore
+    jbo: Roger Moore
+    jv: Roger Moore
+    ka: როჯერ მური
+    kaa: Roger Moore
+    kab: Roger Moore
+    kg: Roger Moore
+    ki: Roger Moore
+    kk: Роджер Мур
+    kk-latn: Roger Moore
+    kk-tr: Roger Moore
+    ko: 로저 무어
+    ksh: Roger Moore
+    ku-latn: Roger Moore
+    kw: Roger Moore
+    la: Rogerius Moore
+    lad: Roger Moore
+    lb: Roger Moore
+    li: Roger Moore
+    lij: Roger Moore
+    lmo: Roger Moore
+    lo: ໂຣເຈົອ ມັວ
+    lt: Roger Moore
+    lv: Rodžers Mūrs
+    mg: Roger Moore
+    min: Roger Moore
+    mn: Рожер Мур
+    mr: रॉजर मूर
+    ms: Roger Moore
+    mul: Roger Moore
+    my: ရော်ဂျာမိုး
+    nah: Roger Moore
+    nan: Roger Moore
+    nap: Roger Moore
+    nb: Roger Moore
+    nds: Roger Moore
+    nds-nl: Roger Moore
+    nl: Roger Moore
+    nn: Sir Roger Moore
+    nrm: Roger Moore
+    oc: Roger Moore
+    olo: Roger Moore
+    pap: Roger Moore
+    pcd: Roger Moore
+    pl: Roger Moore
+    pms: Roger Moore
+    prg: Roger Moore
+    pt: Roger Moore
+    pt-br: Roger Moore
+    qu: Roger Moore
+    rgn: Roger Moore
+    rm: Roger Moore
+    ro: Roger Moore
+    ru: Роджер Мур
+    rup: Roger Moore
+    sc: Roger Moore
+    scn: Roger Moore
+    sco: Roger Moore
+    sh: Roger Moore
+    sk: Roger Moore
+    sl: Roger Moore
+    sn: Roger Moore
+    sq: Roger Moore
+    sr: Роџер Мур
+    sr-ec: Роџер Мур
+    sr-el: Rodžer Mur
+    su: Roger Moore
+    sv: Roger Moore
+    sw: Roger Moore
+    ta: ரோஜர் மூர்
+    th: โรเจอร์ มัวร์
+    tl: Roger Moore
+    tpi: Roger Moore
+    tr: Roger Moore
+    uk: Роджер Мур
+    ur: راجر مور
+    uz: Roger Moore
+    vec: Roger Moore
+    vep: Roger Moore
+    vi: Roger Moore
+    vls: Roger Moore
+    vmf: Roger Moore
+    vo: Roger Moore
+    wa: Roger Moore
+    war: Roger Moore
+    wo: Roger Moore
+    wuu: 罗杰·摩尔
+    xmf: როჯერ მური
+    yue: 羅渣摩亞
+    zea: Roger Moore
+    zh: 罗杰·摩尔
+    zh-cn: 罗杰·摩尔
+    zh-hans: 罗杰·摩尔
+    zh-hant: 羅傑·摩爾
+    zh-hk: 羅渣·摩亞
+    zh-sg: 罗杰·摩尔
+    zh-tw: 羅傑·摩爾
+    zu: Roger Moore
 ---
-
 # [[Moore,Roger]] 
 
 #has_/time_/started :: 1927-10-14 

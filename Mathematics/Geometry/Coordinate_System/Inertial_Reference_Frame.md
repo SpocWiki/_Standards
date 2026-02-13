@@ -1,13 +1,125 @@
 ---
 aliases:
-  - Inertialsystem
-  - inertial reference frame
-  - inertial space
-  - Galilean reference frame
-  - Inertial_Reference_Frame
-  - Inertial Reference Frame
+- Erreferentzia-sistema inertzial
+- Eylemsiz referans çerçevesi
+- Galilean reference frame
+- Hệ quy chiếu quán tính
+- inercia kadro de referenco
+- inercialni opazovalni sistem
+- inerciarendszer
+- Inercijalni referentni okvir
+- Inercijski referentni okvir
+- Inerciálna vzťažná sústava
+- inerciální vztažná soustava
+- Inersial sanoq sistemasi
+- Inersiestelsel
+- inertiaalikoordinaatisto
+- inertiaalstelsel
+- inertial frame of reference
+- inertial reference frame
+- inertial space
+- Inertialsystem
+- Inertial_Reference_Frame
+- Inertsiaalsüsteem
+- Kerangka acuan inersial
+- referencial inercial
+- référentiel galiléen
+- sistem de referință inerțial
+- Sistema de referencia inercial
+- Sistema de referència inercial
+- sistema di riferimento inerziale
+- Sistema inercial
+- Treghetssystem
+- tregleikssystem
+- układ inercjalny
+- Ətalət hesablama sistemi
+- Αδρανειακό σύστημα αναφοράς
+- інерційна система відліку
+- інерцыяльная сістэма адліку
+- інэрцыйная сыстэма адліку
+- инерцијален појдовен систем
+- Инерцијални систем референције
+- Инерциал тооллын систем
+- Инерциаллă пуçлав тытăмĕ
+- инерциальная система отсчёта
+- Իներցիալ հաշվարկման համակարգ
+- إطار مرجعي عطالي
+- دستگاه مرجع لخت
+- जड़ परसंग परनालि
+- जड़त्वीय निर्देश तंत्र
+- जड़त्वीय प्रसङ्ग प्रणाली
+- জড় প্রসঙ্গ কাঠামো
+- กรอบอ้างอิงเฉื่อย
+- ინერციული ათვლის სისტემა
+- 惯性参考系
+- 慣性參考系
+- 慣性系
+- 관성 좌표계
+has_id_wikidata: Q192735
+dv_has_:
+  name_:
+    af: Inersiestelsel
+    ar: إطار مرجعي عطالي
+    az: Ətalət hesablama sistemi
+    be: інерцыяльная сістэма адліку
+    be-tarask: інэрцыйная сыстэма адліку
+    bho: जड़ परसंग परनालि
+    bn: জড় প্রসঙ্গ কাঠামো
+    bs: Inercijalni referentni okvir
+    ca: Sistema de referència inercial
+    cs: inerciální vztažná soustava
+    cv: Инерциаллă пуçлав тытăмĕ
+    da: Inertialsystem
+    de: Inertialsystem
+    el: Αδρανειακό σύστημα αναφοράς
+    en: inertial frame of reference
+    eo: inercia kadro de referenco
+    es: Sistema de referencia inercial
+    et: Inertsiaalsüsteem
+    eu: Erreferentzia-sistema inertzial
+    fa: دستگاه مرجع لخت
+    fi: inertiaalikoordinaatisto
+    fr: référentiel galiléen
+    gl: Sistema inercial
+    gsw: Inertialsystem
+    hi: जड़त्वीय निर्देश तंत्र
+    hr: Inercijski referentni okvir
+    hu: inerciarendszer
+    hy: Իներցիալ հաշվարկման համակարգ
+    id: Kerangka acuan inersial
+    it: sistema di riferimento inerziale
+    ja: 慣性系
+    ka: ინერციული ათვლის სისტემა
+    ko: 관성 좌표계
+    mag: जड़त्वीय प्रसङ्ग प्रणाली
+    mk: инерцијален појдовен систем
+    mn: Инерциал тооллын систем
+    nb: Treghetssystem
+    nl: inertiaalstelsel
+    nn: tregleikssystem
+    pl: układ inercjalny
+    pt: referencial inercial
+    ro: sistem de referință inerțial
+    ru: инерциальная система отсчёта
+    sh: Inercijski referentni okvir
+    sk: Inerciálna vzťažná sústava
+    sl: inercialni opazovalni sistem
+    sr: Инерцијални систем референције
+    sv: Inertialsystem
+    th: กรอบอ้างอิงเฉื่อย
+    tr: Eylemsiz referans çerçevesi
+    uk: інерційна система відліку
+    uz: Inersial sanoq sistemasi
+    vi: Hệ quy chiếu quán tính
+    yue: 慣性參考系
+    zh: 惯性参考系
+    zh-cn: 惯性参考系
+    zh-hans: 惯性参考系
+    zh-hant: 慣性參考系
+    zh-hk: 慣性參考系
+    zh-sg: 惯性参考系
+    zh-tw: 慣性參考系
 ---
-
 # [[Inertial_Reference_Frame]] 
 
 #is_/same_as :: [[wd inertial reference frame]]

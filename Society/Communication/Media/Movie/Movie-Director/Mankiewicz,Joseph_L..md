@@ -1,46 +1,69 @@
 ---
 aliases:
-  - Joseph_L._Mankiewicz
-  - Joseph Leo Mankiewicz
-  - Joseph L. Mankiewicz
-  - Joseph Mankiewicz
-  - Mankiewicz
-  - Mankiewicz,Joseph_L.
-  - Mankiewicz,Joseph L.
+- Džozefs Mankevičs
+- Iosephus Leo Mankiewicz
+- Joseph L. Mankiewicz
+- Joseph Leo Mankiewicz
+- Joseph Mankiewicz
+- Joseph_L._Mankiewicz
+- Mankiewicz
+- Mankiewicz,Joseph L.
+- Mankiewicz,Joseph_L.
+- Τζόζεφ Λ. Μάνκιεβιτς
+- Џозеф Л. Манкевиц
+- Джозеф Л. Манкевич
+- Джозеф Леа Манкевіч
+- Джозеф Манкевич
+- Джозэф Манкевіч
+- Джоузеф Манкевич
+- Манкевич Джозеф Лео
+- Ջոզեֆ Լ. Մանկևիչ
+- ג'וזף ל. מנקייביץ'
+- جوزف ال منکیه ویچ
+- جوزيف مانكيفيتس
+- جۆزێف ل.مانکیڤیچ
+- জোসেফ এল. ম্যাংকাভিৎস
+- ஜோசப் எல் மேங்கியூவிஸ்
+- ჯოზეფ ლეო მანკევიჩი
+- ジョーゼフ・L・マンキーウィッツ
+- 約瑟·曼基威士
+- 約瑟夫·孟威茲
+- 约瑟夫·曼凯维奇
+- 조지프 L. 맹키위츠
 has_id_wikidata: Q51583
 spouse:
-  - '[[_Standards/WikiData/WD~Rose_Stradner,89831]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Young,108882414]]'
+- '[[_Standards/WikiData/WD~Rose_Stradner,89831]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Young,108882414]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 occupation:
-  - '[[_Standards/WikiData/WD~translator,333634]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~translator,333634]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~trade_unionist,15627169]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 given_name: '[[_Standards/WikiData/WD~Joseph,471788]]'
 child: '[[_Standards/WikiData/WD~Tom_Mankiewicz,721417]]'
 place_of_birth: '[[_Standards/WikiData/WD~Wilkes_Barre,745594]]'
 sibling: '[[_Standards/WikiData/WD~Herman_J._Mankiewicz,956533]]'
 place_of_death: '[[_Standards/WikiData/WD~Bedford,2485680]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Stuyvesant_High_School,3098911]]'
-  - '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~Stuyvesant_High_School,3098911]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Mankiewicz,16880352]]'
@@ -49,8 +72,8 @@ place_of_burial: "[[_Standards/WikiData/WD~St._Matthew's_Episcopal_Churchyard,10
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -64,8 +87,84 @@ Libris_URI: 75kns0sr5sxb9d7
 name_in_native_language: Joseph Leo Mankiewicz
 work_period_start_: 1929-01-01T00:00:00Z
 date_of_birth: 1909-02-11T00:00:00Z
+dv_has_:
+  name_:
+    an: Joseph L. Mankiewicz
+    ar: جوزيف مانكيفيتس
+    arz: جوزيف مانكيفيتس
+    ast: Joseph L. Mankiewicz
+    be: Джозеф Леа Манкевіч
+    be-tarask: Джозэф Манкевіч
+    bg: Джоузеф Манкевич
+    bn: জোসেফ এল. ম্যাংকাভিৎস
+    br: Joseph L. Mankiewicz
+    ca: Joseph L. Mankiewicz
+    ckb: جۆزێف ل.مانکیڤیچ
+    cs: Joseph L. Mankiewicz
+    cy: Joseph L. Mankiewicz
+    da: Joseph L. Mankiewicz
+    de: Joseph L. Mankiewicz
+    el: Τζόζεφ Λ. Μάνκιεβιτς
+    en: Joseph L. Mankiewicz
+    en-ca: Joseph L. Mankiewicz
+    en-gb: Joseph L. Mankiewicz
+    eo: Joseph L. Mankiewicz
+    es: Joseph L. Mankiewicz
+    eu: Joseph L. Mankiewicz
+    fa: جوزف ال منکیه ویچ
+    fi: Joseph L. Mankiewicz
+    fr: Joseph L. Mankiewicz
+    ga: Joseph L. Mankiewicz
+    gl: Joseph L. Mankiewicz
+    he: ג'וזף ל. מנקייביץ'
+    hr: Joseph L. Mankiewicz
+    hu: Joseph L. Mankiewicz
+    hy: Ջոզեֆ Լ. Մանկևիչ
+    id: Joseph L. Mankiewicz
+    io: Joseph L. Mankiewicz
+    it: Joseph L. Mankiewicz
+    ja: ジョーゼフ・L・マンキーウィッツ
+    ka: ჯოზეფ ლეო მანკევიჩი
+    kk: Манкевич Джозеф Лео
+    ko: 조지프 L. 맹키위츠
+    la: Iosephus Leo Mankiewicz
+    lb: Joseph L. Mankiewicz
+    li: Joseph L. Mankiewicz
+    lt: Joseph Mankiewicz
+    lv: Džozefs Mankevičs
+    mg: Joseph L. Mankiewicz
+    mul: Joseph L. Mankiewicz
+    nb: Joseph L. Mankiewicz
+    nl: Joseph L. Mankiewicz
+    nn: Joseph L. Mankiewicz
+    oc: Joseph L. Mankiewicz
+    pap: Joseph L. Mankiewicz
+    pl: Joseph L. Mankiewicz
+    pt: Joseph L. Mankiewicz
+    pt-br: Joseph L. Mankiewicz
+    qu: Joseph L. Mankiewicz
+    ro: Joseph L. Mankiewicz
+    ru: Джозеф Л. Манкевич
+    sco: Joseph L. Mankiewicz
+    sh: Joseph L. Mankiewicz
+    sk: Joseph L. Mankiewicz
+    sl: Joseph L. Mankiewicz
+    sq: Joseph L. Mankiewicz
+    sr: Џозеф Л. Манкевиц
+    sv: Joseph L. Mankiewicz
+    ta: ஜோசப் எல் மேங்கியூவிஸ்
+    tr: Joseph L. Mankiewicz
+    uk: Джозеф Манкевич
+    vi: Joseph L. Mankiewicz
+    war: Joseph L. Mankiewicz
+    xmf: ჯოზეფ ლეო მანკევიჩი
+    yo: Joseph L. Mankiewicz
+    yue: 約瑟·曼基威士
+    zh: 约瑟夫·曼凯维奇
+    zh-hant: 約瑟夫·孟威茲
+    zh-hk: 約瑟·曼基威士
+    zh-tw: 約瑟夫·孟威茲
 ---
-
 # [[Mankiewicz,Joseph_L.]] 
 
 #is_/same_as :: [[WD~Joseph_L._Mankiewicz,51583]] 

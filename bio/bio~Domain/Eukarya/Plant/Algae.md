@@ -1,39 +1,270 @@
 ---
 aliases:
-  - Algae
+- Ale
+- Alg
+- alga
+- Algae
+- algar
+- algas
+- algaí
+- alge
+- algeae
+- Algen
+- alger
+- Algey
+- Alghe
+- algo
+- algues
+- Algâ
+- algâu
+- algôma
+- aļģes
+- Chó-lūi
+- Domblē
+- Dumbliai
+- glony
+- Laqu
+- levä
+- riasa
+- Saaphaphuu
+- su yosunları
+- Suvoʻtlar
+- süüsemnär
+- Taġiuġmiutaq nauriaq
+- Tepɔŋ pɔ́
+- tảo
+- Vetikad
+- Ygáu
+- Yosunlar
+- Àlica
+- Þörungar
+- řasy
+- Φύκη
+- φῦκος
+- Алге
+- Алги
+- Балдыр
+- Балырлар
+- Ведьбарсей
+- водарасці
+- водарасьці
+- водорасли
+- водоросли
+- водорості
+- Вубуртчин
+- донзайтæ
+- Замаг
+- Салахайдар
+- суүсемнәр
+- Шыв курăкĕсем
+- Ылымыҡтар
+- ջրիմուռներ
+- אצות
+- الجي
+- الجی
+- اوبړۍ
+- جلبک
+- خز
+- طحالب
+- قەوزە
+- ہِل
+- یوسون
+- न्हा
+- लेऊ
+- शैवाल
+- শেলাই
+- শৈবাল
+- ਜਿਲਬ
+- લીલ
+- பாசி
+- శైవలాలు
+- ಶೈವಲ
+- ആൽഗ
+- สาหร่าย
+- ཆུ་བལ།
+- ရေညှိပင်
+- წყალმცენარეები
+- ዋቅላሚ
+- ᠰᠣᡴᠵᡳ
+- ᱥᱮᱭᱟᱞᱚᱢ
+- 藻
+- 藻類
+- ꯑꯜꯒꯥ
+- 조류
 has_id_wikidata: Q37868
 Basisklassifikation: 42.5
 Commons_category: Algae
 Common_Procurement_Vocabulary_code: 03313310-2
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
 Dewey_Decimal_Classification: 579
 different_from:
-  - '[[_Standards/WikiData/WD~hydrophyte,3143798]]'
-  - '[[_Standards/WikiData/WD~Q112226581,112226581]]'
+- '[[_Standards/WikiData/WD~hydrophyte,3143798]]'
+- '[[_Standards/WikiData/WD~Q112226581,112226581]]'
 EPPO_Code: AAAAA
 has_effect:
-  - '[[_Standards/WikiData/WD~algal_bloom,326139]]'
-  - '[[_Standards/WikiData/WD~photosynthesis,11982]]'
+- '[[_Standards/WikiData/WD~algal_bloom,326139]]'
+- '[[_Standards/WikiData/WD~photosynthesis,11982]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ulva%20intestinalis%20saum%C3%A2tre%20wimmereux%20juillet%202016%20Lamiot%20A.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wlas.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ulva%20intestinalis%20saum%C3%A2tre%20wimmereux%20juillet%202016%20Lamiot%20A.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wlas.jpg
 instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/VODOROSLI.html
 OmegaWiki_Defined_Meaning: 128
 studied_in: '[[_Standards/WikiData/WD~phycology,188391]]'
 subclass_of: '[[_Standards/WikiData/WD~autotroph,131427]]'
 taxon_name: Algae
+dv_has_:
+  name_:
+    af: Alg
+    am: ዋቅላሚ
+    an: Algas
+    ar: طحالب
+    ary: خز
+    as: শেলাই
+    ast: Alga
+    az: Yosunlar
+    azb: یوسون
+    ba: Ылымыҡтар
+    be: водарасці
+    be-tarask: водарасьці
+    bg: водорасли
+    bn: শৈবাল
+    bo: ཆུ་བལ།
+    br: Algae
+    bs: Alge
+    ca: Alga
+    ceb: Algae
+    ckb: قەوزە
+    cs: řasy
+    cv: Шыв курăкĕсем
+    cy: algâu
+    da: alger
+    de: Algen
+    el: Φύκη
+    en: algae
+    eo: algo
+    es: algas
+    et: Vetikad
+    eu: alga
+    fa: جلبک
+    fi: levä
+    fj: Alga
+    fr: algues
+    frr: Algen
+    ga: algaí
+    gcr: Alg
+    gl: alga
+    gn: Ygáu
+    grc: φῦκος
+    gsw: Alge
+    gu: લીલ
+    gv: Algey
+    he: אצות
+    hi: शैवाल
+    hif: algae
+    hr: Alge
+    ht: Alg
+    hu: alga
+    hy: ջրիմուռներ
+    id: alga
+    ig: algae
+    ik: Taġiuġmiutaq nauriaq
+    io: Algo
+    is: Þörungar
+    it: alga
+    ja: 藻類
+    jv: Alga
+    ka: წყალმცენარეები
+    kk: Балдыр
+    kn: ಶೈವಲ
+    ko: 조류
+    ks: ہِل
+    kw: alga
+    ky: Балырлар
+    la: Alga
+    lfn: Alge
+    li: Alge
+    lt: Dumbliai
+    lv: aļģes
+    lzh: 藻
+    mg: algôma
+    min: Alga
+    mk: Алги
+    ml: ആൽഗ
+    mn: Замаг
+    mnc: ᠰᠣᡴᠵᡳ
+    mni: ꯑꯜꯒꯥ
+    mr: शैवाल
+    ms: Alga
+    my: ရေညှိပင်
+    myv: Ведьбарсей
+    nan: Chó-lūi
+    nb: alge
+    nds: Alge
+    ne: लेऊ
+    new: न्हा
+    nl: algen
+    nn: algar
+    oc: Alga
+    om: Saaphaphuu
+    os: донзайтæ
+    pa: ਜਿਲਬ
+    pl: glony
+    pms: Alghe
+    pnb: الجی
+    ps: اوبړۍ
+    pt: alga
+    qu: Laqu
+    ro: alge
+    ru: водоросли
+    rup: Algâ
+    sah: Салахайдар
+    sat: ᱥᱮᱭᱟᱞᱚᱢ
+    scn: Àlica
+    sco: algae
+    sd: الجي
+    sgs: Domblē
+    sh: Alge
+    si: algeae
+    sk: riasa
+    sl: alge
+    sq: Algae
+    sr: Алге
+    sr-ec: Алге
+    su: Alga
+    sv: alger
+    sw: Algae
+    ta: பாசி
+    te: శైవలాలు
+    th: สาหร่าย
+    tr: su yosunları
+    tt: суүсемнәр
+    tt-cyrl: суүсемнәр
+    tt-latn: süüsemnär
+    udm: Вубуртчин
+    uk: водорості
+    ur: طحالب
+    uz: Suvoʻtlar
+    vi: tảo
+    wa: Ale
+    war: Alga
+    wuu: 藻
+    ybb: Tepɔŋ pɔ́
+    yue: 藻
+    zh: 藻類
+    zh-hans: 藻類
+    zh-hant: 藻類
+    zh-tw: 藻類
 ---
-
 # [[Algae]] 
 
 #is_a/bio-Phylum  

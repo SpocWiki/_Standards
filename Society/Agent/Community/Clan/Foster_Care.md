@@ -1,17 +1,105 @@
 ---
 aliases:
+- acogimiento
+- acolhimento familiar
+- acolliment
+- affido familiare
+- Asistentă maternală
+- cúram altrama
+- Eestkostja
+- familiepleje
+- foster care
+- fósturbarn
+- gyermekvédelmi ellátás
+- harrera familia
+- omhändertagande av barn
+- Penjaga sah
+- Pflegeverhältnis
+- placement d'enfant
+- pleegzorg
+- Porodični smeštaj dece
+- pěstounská péče
+- rejništvo
+- Rodzina zastępcza
+- sijaishuolto
+- tutela
+- Udomiteljstvo
+- ārpusģimenes aprūpe
+- Šeimyna
+- породични смештај деце
+- приёмная семья
+- прийомна сім'я
+- прыймовая сям’я
+- семејно сместување
+- Խնամակալություն
+- אומנה
+- رعاية بديلة
+- سرپرستی موقت
+- পালক সেবা
+- ผู้ปกครอง
+- 寄養
+- 监护人
+- 監護人
+- 里親制度
+- 수양부모
 has_id_wikidata: Q1430789
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~social_services,11588306]]"
-has_part_s_: "[[_Standards/WikiData/WD~foster_family,20729778]]"
-U_S_National_Archives_Identifier: "10637264"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~social_services,11588306]]'
+has_part_s_: '[[_Standards/WikiData/WD~foster_family,20729778]]'
+U_S_National_Archives_Identifier: 10637264
 MeSH_tree_code:
-  - E02.760.352
-  - I01.880.787.416
-  - N02.421.143.452
-  - N02.421.585.352
+- E02.760.352
+- I01.880.787.416
+- N02.421.143.452
+- N02.421.585.352
+dv_has_:
+  name_:
+    ar: رعاية بديلة
+    be-tarask: прыймовая сям’я
+    bn: পালক সেবা
+    ca: acolliment
+    cs: pěstounská péče
+    da: familiepleje
+    de: Pflegeverhältnis
+    en: foster care
+    es: acogimiento
+    et: Eestkostja
+    eu: harrera familia
+    fa: سرپرستی موقت
+    fi: sijaishuolto
+    fr: placement d'enfant
+    ga: cúram altrama
+    he: אומנה
+    hr: Udomiteljstvo
+    hu: gyermekvédelmi ellátás
+    hy: Խնամակալություն
+    is: fósturbarn
+    it: affido familiare
+    ja: 里親制度
+    ko: 수양부모
+    la: tutela
+    lt: Šeimyna
+    lv: ārpusģimenes aprūpe
+    mk: семејно сместување
+    ms: Penjaga sah
+    nl: pleegzorg
+    pl: Rodzina zastępcza
+    pt: acolhimento familiar
+    ro: Asistentă maternală
+    ru: приёмная семья
+    sl: rejništvo
+    sr: породични смештај деце
+    sr-ec: Породични смештај деце
+    sr-el: Porodični smeštaj dece
+    sv: omhändertagande av barn
+    th: ผู้ปกครอง
+    uk: прийомна сім'я
+    yue: 寄養
+    zh: 監護人
+    zh-hans: 监护人
+    zh-hant: 監護人
+    zh-hk: 監護人
 ---
-
 # [[Foster_Care]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Foster_care,1430789|WD~Foster_care,1430789]] 

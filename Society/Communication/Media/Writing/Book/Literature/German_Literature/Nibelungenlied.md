@@ -1,4 +1,130 @@
-
+---
+has_id_wikidata: Q131554
+dv_has_:
+  name_:
+    af: Nibelungenlied
+    ar: نيبيلانجين ليد
+    ast: Cantar de los Nibelungos
+    ba: Нибелунгтар тураһында йыр
+    bar: Nibelungenliad
+    be: Песня пра Нібелунгаў
+    be-tarask: Песьня пра Нібэлюнгаў
+    bg: Песен за Нибелунгите
+    br: Kan an Nibelunged
+    ca: Cant dels Nibelungs
+    cs: Píseň o Nibelunzích
+    cv: Нибелункăн унки
+    cy: Nibelungenlied
+    da: Nibelungenlied
+    de: Nibelungenlied
+    el: Τραγούδι των Νιμπελούνγκεν
+    en: Nibelungenlied
+    en-ca: Nibelungenlied
+    en-gb: Nibelunglied
+    eo: La Kanto de la Nibelungoj
+    es: Cantar de los nibelungos
+    et: Nibelungide laul
+    eu: Nibelungoen eraztuna
+    fa: سرود نیبلونگها
+    fi: Nibelungein laulu
+    fo: Nibelungenlied
+    fr: Chanson des Nibelungen
+    fy: Nibelungenliet
+    gl: Canción dos Nibelungos
+    gsw: Nibelungelied
+    he: שירת הניבלונגים
+    hr: Pjesma o Nibelunzima
+    hu: Nibelung-ének
+    hy: Նիբելունգների երգը
+    id: Nibelungenlied
+    it: La canzone dei Nibelunghi
+    ja: ニーベルンゲンの歌
+    ka: სიმღერა ნიბელუნგებზე
+    ko: 니벨룽의 노래
+    la: Carmen Nibelungorum
+    li: Nibelungenlied
+    lt: Nybelungų giesmė
+    lv: Nībelungu dziesma
+    lzh: 尼伯龍根之歌
+    mk: Песна за Нибелунзите
+    mrj: Нибелунгын мырыжы
+    nb: Nibelungenlied
+    nl: Nibelungenlied
+    nn: Nibelungenlied
+    pl: Pieśń o Nibelungach
+    pt: Canção dos Nibelungos
+    pt-br: Canção dos Nibelungos
+    ro: Cântecul Nibelungilor
+    ru: Песнь о Нибелунгах
+    sh: Nibelungenlied
+    sk: Pieseň o Nibelungoch
+    sl: Pesem o Nibelungih
+    sr: Песма о Нибелунзима
+    sv: Nibelungenlied
+    th: นีเบอลุงเงินลีท
+    tr: Nibelungen Destanı
+    tt: Нибелунглар турында җыр
+    uk: Пісня про Нібелунгів
+    vi: Nibelungenlied
+    wuu: 尼伯龙根之歌
+    zh: 尼伯龍根之歌
+    zh-cn: 尼伯龙根之歌
+    zh-hans: 尼伯龙根之歌
+    zh-hant: 尼伯龍根之歌
+    zh-hk: 尼伯龍根之歌
+    zh-sg: 尼伯龙根之歌
+    zh-tw: 尼伯龍根之歌
+aliases:
+- Canción dos Nibelungos
+- Cant dels Nibelungs
+- Cantar de los Nibelungos
+- Canção dos Nibelungos
+- Carmen Nibelungorum
+- Chanson des Nibelungen
+- Cântecul Nibelungilor
+- Kan an Nibelunged
+- La canzone dei Nibelunghi
+- La Kanto de la Nibelungoj
+- Nibelung-ének
+- Nibelungein laulu
+- Nibelungelied
+- Nibelungen Destanı
+- Nibelungenliad
+- Nibelungenlied
+- Nibelungenliet
+- Nibelungide laul
+- Nibelunglied
+- Nibelungoen eraztuna
+- Nybelungų giesmė
+- Nībelungu dziesma
+- Pesem o Nibelungih
+- Pieseň o Nibelungoch
+- Pieśń o Nibelungach
+- Pjesma o Nibelunzima
+- Píseň o Nibelunzích
+- Τραγούδι των Νιμπελούνγκεν
+- Нибелунглар турында җыр
+- Нибелунгтар тураһында йыр
+- Нибелунгын мырыжы
+- Нибелункăн унки
+- Пісня про Нібелунгів
+- Песен за Нибелунгите
+- Песма о Нибелунзима
+- Песна за Нибелунзите
+- Песнь о Нибелунгах
+- Песня пра Нібелунгаў
+- Песьня пра Нібэлюнгаў
+- Նիբելունգների երգը
+- שירת הניבלונגים
+- سرود نیبلونگها
+- نيبيلانجين ليد
+- นีเบอลุงเงินลีท
+- სიმღერა ნიბელუნგებზე
+- ニーベルンゲンの歌
+- 尼伯龍根之歌
+- 尼伯龙根之歌
+- 니벨룽의 노래
+---
 ## #has_/text_of_/abstract 
 
 > The **Nibelungenlied** (German pronunciation: [ˈniːbəlʊŋən-], [ˈnɪbəlʊŋən-] 

@@ -1,4 +1,229 @@
-
+---
+has_id_wikidata: Q44727
+dv_has_:
+  name_:
+    af: waterpokkies
+    an: Picueta loca
+    ar: جدري الماء
+    ary: بوشويكة
+    arz: جدرى الماء
+    as: মাজুআই
+    ast: Varicela
+    az: Su çiçəyi
+    azb: سو چیچکی
+    bar: Schafblattern
+    be: Ветраная воспа
+    be-tarask: ветраная воспа
+    bg: Варицела
+    bn: জলবসন্ত
+    ca: varicel·la
+    ckb: مێکوتە
+    cs: plané neštovice
+    csb: Wietrzné gòscëje
+    cy: brech ieir
+    da: skoldkopper
+    dag: gingaɣifiisi
+    de: Windpocken
+    din: Burjuŋ
+    el: ανεμοβλογιά
+    en: chickenpox
+    eo: varicelo
+    es: varicela
+    et: tuulerõuged
+    eu: Barizela
+    fa: آبله کیری
+    fi: vesirokko
+    fr: varicelle
+    fy: Wetterpokken
+    ga: deilgneach
+    gd: Breac-òtraich
+    gl: Varicela
+    gom: फुगांव
+    gpe: chickenpox
+    ha: Ƙaranbau
+    he: אבעבועות רוח
+    hi: छोटी माता
+    hr: vodene kozice
+    hu: bárányhimlő
+    hy: Ջրծաղիկ
+    id: cacar air
+    io: Varicelo
+    is: Hlaupabóla
+    it: varicella
+    ja: 水痘
+    jv: Cangkrangen
+    ka: ჩუტყვავილა
+    kab: Azarza
+    kk: Желшешек
+    kn: ಗಣಜಿಲೆ
+    ko: 수두
+    ks: واوٕ پتؠ
+    ku-latn: xuriya mirîşkan
+    ky: Суу Чечек
+    la: Varicella
+    lb: Waasserpouken
+    lg: Namusuna
+    ln: Varicelle
+    lo: ໝາກສຸກ ໝາກໃສ
+    lt: Vėjaraupiai
+    lv: Vējbakas
+    mk: овчи сипаници
+    ml: ചിക്കൻപോക്സ്
+    mr: कांजिण्या
+    ms: cacar air
+    my: ကျောက်ရောဂါ
+    nb: vannkopper
+    ne: ठेउला
+    nl: waterpokken
+    nn: vasskoppar
+    or: ହାଡ଼ଫୁଟି
+    pa: ਛੋਟੀ ਮਾਤਾ
+    pl: ospa wietrzna
+    pt: varicela
+    qu: Hawaqlla muru unquy
+    ro: varicelă
+    ru: ветряная оспа
+    sah: Салгын уоспата
+    sc: Pigota burda
+    sd: لاکڙو
+    sh: Варичела
+    shn: မၢၵ်ႇမူ
+    si: පැපොල
+    sk: ovčie kiahne
+    sl: norice
+    so: Busbus
+    sq: Variqela
+    sr: варичела
+    sr-ec: варичела
+    su: Cacar
+    sv: vattkoppor
+    sw: Tetekuwanga
+    ta: சின்னம்மை
+    tdd: ᥟᥩᥐᥱ ᥛᥣᥐᥱ
+    te: ఆటలమ్మ
+    th: อีสุกอีใส
+    tk: Garamyk
+    tl: Bulutung-tubig
+    tr: suçiçeği
+    tt: җил чәчәге авыруы
+    uk: вітряна віспа
+    ur: لاکڑا کاکڑا
+    uz: Suvchechak
+    vec: varezeła
+    vi: Thủy đậu
+    wa: Ploketes d' aiwe
+    war: Hangga
+    wuu: 水痘
+    xh: irhwayibhane
+    yue: 水痘
+    za: Okmak
+    zh: 水痘
+    zu: inqubulunjwana
+aliases:
+- Azarza
+- Barizela
+- Breac-òtraich
+- brech ieir
+- Bulutung-tubig
+- Burjuŋ
+- Busbus
+- bárányhimlő
+- Cacar
+- cacar air
+- Cangkrangen
+- chickenpox
+- deilgneach
+- Garamyk
+- gingaɣifiisi
+- Hangga
+- Hawaqlla muru unquy
+- Hlaupabóla
+- inqubulunjwana
+- irhwayibhane
+- Namusuna
+- norice
+- Okmak
+- ospa wietrzna
+- ovčie kiahne
+- Picueta loca
+- Pigota burda
+- plané neštovice
+- Ploketes d' aiwe
+- Schafblattern
+- skoldkopper
+- Su çiçəyi
+- Suvchechak
+- suçiçeği
+- Tetekuwanga
+- Thủy đậu
+- tuulerõuged
+- vannkopper
+- varezeła
+- varicela
+- varicella
+- varicelle
+- varicelo
+- varicel·la
+- varicelă
+- Variqela
+- vasskoppar
+- vattkoppor
+- vesirokko
+- vodene kozice
+- Vējbakas
+- Vėjaraupiai
+- Waasserpouken
+- waterpokken
+- waterpokkies
+- Wetterpokken
+- Wietrzné gòscëje
+- Windpocken
+- xuriya mirîşkan
+- Ƙaranbau
+- ανεμοβλογιά
+- вітряна віспа
+- Варицела
+- Варичела
+- Ветраная воспа
+- ветряная оспа
+- Желшешек
+- овчи сипаници
+- Салгын уоспата
+- Суу Чечек
+- җил чәчәге авыруы
+- Ջրծաղիկ
+- אבעבועות רוח
+- آبله کیری
+- بوشويكة
+- جدرى الماء
+- جدري الماء
+- سو چیچکی
+- لاکڑا کاکڑا
+- لاکڙو
+- مێکوتە
+- واوٕ پتؠ
+- कांजिण्या
+- छोटी माता
+- ठेउला
+- फुगांव
+- জলবসন্ত
+- মাজুআই
+- ਛੋਟੀ ਮਾਤਾ
+- ହାଡ଼ଫୁଟି
+- சின்னம்மை
+- ఆటలమ్మ
+- ಗಣಜಿಲೆ
+- ചിക്കൻപോക്സ്
+- පැපොල
+- อีสุกอีใส
+- ໝາກສຸກ ໝາກໃສ
+- ကျောက်ရောဂါ
+- မၢၵ်ႇမူ
+- ჩუტყვავილა
+- ᥟᥩᥐᥱ ᥛᥣᥐᥱ
+- 水痘
+- 수두
+---
 # [[Chickenpox]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Chickenpox,44727|WD~Chickenpox,44727]] 

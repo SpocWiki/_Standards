@@ -1,16 +1,66 @@
 ---
 aliases:
+- Ericoideae
+- ēriku apakšdzimta
+- Вересові
+- эриковые
+- خلنجاوات
+- 杜鹃花亚科
+- 진달래아과
 has_id_wikidata: Q933098
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-parent_taxon: "[[../../../../../../../../../../../../../WikiData/WD~Ericaceae,975872]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Ericaceae,975872]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Heather%20-%20geograph.org.uk%20-%20493968.jpg
 Commons_category: Ericoideae
 taxon_name: Ericoideae
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=1729
 UMLS_CUI: C1229168
+dv_has_:
+  name_:
+    af: Ericoideae
+    an: Ericoideae
+    ar: خلنجاوات
+    arz: خلنجاوات
+    ast: Ericoideae
+    bg: Ericoideae
+    ca: Ericoideae
+    ceb: Ericoideae
+    de: Ericoideae
+    en: Ericoideae
+    eo: Ericoideae
+    es: Ericoideae
+    eu: Ericoideae
+    ext: Ericoideae
+    fi: Ericoideae
+    fr: Ericoideae
+    ga: Ericoideae
+    gl: Ericoideae
+    hr: Ericoideae
+    ia: Ericoideae
+    ie: Ericoideae
+    io: Ericoideae
+    it: Ericoideae
+    ko: 진달래아과
+    la: Ericoideae
+    lv: ēriku apakšdzimta
+    mul: Ericoideae
+    nl: Ericoideae
+    oc: Ericoideae
+    pl: Ericoideae
+    pt: Ericoideae
+    pt-br: Ericoideae
+    ro: Ericoideae
+    ru: эриковые
+    sl: Ericoideae
+    sq: Ericoideae
+    uk: Вересові
+    vi: Ericoideae
+    vo: Ericoideae
+    war: Ericoideae
+    zh: 杜鹃花亚科
+    zh-cn: 杜鹃花亚科
 ---
-
 # [[Ericoideae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Ericoideae,933098|WD~Ericoideae,933098]]  

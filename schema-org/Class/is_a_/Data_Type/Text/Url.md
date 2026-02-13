@@ -1,53 +1,209 @@
 ---
 aliases:
-  - url
-  - URL
-  - is_a_url
-  - Url
+- internetiaadress
+- is_a_url
+- Jednotný vyhľadávač zdrojov
+- Llocalizador Uniforme de Recursos
+- localizador de recursos uniforme
+- Localizator uniform de resurse
+- Netslóð
+- Nettfrumfindend
+- Uniform Resource Locator
+- uniform ressurslokator
+- Universale Rerum Locatrum
+- url
+- Veb adresa
+- vienotais resursu vietrādis
+- Web-adresa
+- wāhitau tukutuku
+- веб адреса
+- Уніфікований локатор ресурсів
+- Унифициран локатор на ресурси
+- شوێندۆزی سەرچاوەی جیھانی
+- محدد موقع الموارد الموحد
+- مکانیاب منبع جهانی
+- وب خال
+- يو آر إل
+- يو ار اېل
+- یو آر ال
+- یکساں وسیلی تعینگر
+- युआरएल
+- यूआरएल
+- सम स्रोत निर्धारक
+- ইউনিফর্ম রিসোর্স লোকেটর
+- ਯੂ ਅਾਰ ਅੈੱਲ
+- યુનિફોર્મ રિસોર્સ લોકેટર
+- ୟୁନିଫର୍ମ ରିସୋର୍ସ ଲୋକେଟର
+- உரலி
+- యూనిఫాం రిసోర్స్ లొకేటర్
+- ಯು.ಆರ್.ಎಲ್
+- യൂനിഫോം റിസോഴ്സ് ലൊക്കേറ്റർ
+- ยูอาร์แอล
+- 統一資源定位符
+- 網址
+- 统一资源定位符
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - url
-layout: ""
+- url
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_url Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
-  - class/data_type
+- class/Class
+- schema-org/Class
+- class/data_type
 title: is_a_url Class
 type: Type
 dv_has_:
+  name_:
+    af: Uniform Resource Locator
+    ang: Nettfrumfindend
+    ar: محدد موقع الموارد الموحد
+    arz: يو آر إل
+    ast: Llocalizador Uniforme de Recursos
+    av: URL
+    az: URL
+    be: URL
+    be-tarask: URL
+    bg: Унифициран локатор на ресурси
+    bho: यूआरएल
+    bn: ইউনিফর্ম রিসোর্স লোকেটর
+    br: Uniform Resource Locator
+    bs: Web-adresa
+    ca: URL
+    ce: URL
+    ckb: شوێندۆزی سەرچاوەی جیھانی
+    cs: Uniform Resource Locator
+    cv: URL
+    cy: URL
+    da: Uniform Resource Locator
+    de: Uniform Resource Locator
+    de-ch: Uniform Resource Locator
+    el: Uniform Resource Locator
+    en: URL
+    en-ca: URL
+    en-gb: URL
+    eo: URL
+    es: localizador de recursos uniforme
+    et: internetiaadress
+    eu: Uniform Resource Locator
+    fa: مکانیاب منبع جهانی
+    fi: Uniform Resource Locator
+    fr: Uniform Resource Locator
+    frp: URL
+    frr: URL
+    fy: Uniform Resource Locator
+    ga: URL
+    gl: URL
+    glk: وب خال
+    gsw: URL
+    gu: યુનિફોર્મ રિસોર્સ લોકેટર
+    he: URL
+    hi: सम स्रोत निर्धारक
+    hr: URL
+    ht: Uniform Resource Locator
+    hu: URL
+    ia: Uniform Resource Locator
+    id: URL
+    inh: URL
+    is: Netslóð
+    it: Uniform Resource Locator
+    ja: Uniform Resource Locator
+    jv: Uniform Resource Locator
+    kk: URL
+    km: URL
+    kn: ಯು.ಆರ್.ಎಲ್
+    ko: URL
+    ky: URL
+    la: Universale Rerum Locatrum
+    lb: Uniform Resource Locator
+    lv: vienotais resursu vietrādis
+    mdf: URL
+    mhr: URL
+    mi: wāhitau tukutuku
+    mk: URL
+    ml: യൂനിഫോം റിസോഴ്സ് ലൊക്കേറ്റർ
+    mn: URL
+    ms: URL
+    mzn: یو آر ال
+    nan: URL
+    nb: Uniform Resource Locator
+    ne: युआरएल
+    nl: Uniform Resource Locator
+    nn: uniform ressurslokator
+    oc: Uniform Resource Locator
+    or: ୟୁନିଫର୍ମ ରିସୋର୍ସ ଲୋକେଟର
+    pa: ਯੂ ਅਾਰ ਅੈੱਲ
+    pl: Uniform Resource Locator
+    ps: يو ار اېل
+    pt: URL
+    pt-br: URL
+    ro: Localizator uniform de resurse
+    ru: URL
+    se: URL
+    sh: Veb adresa
+    sk: Jednotný vyhľadávač zdrojov
+    sl: URL
+    smn: URL
+    sms: URL
+    sq: URL
+    sr: URL
+    sr-ec: веб адреса
+    sv: Uniform Resource Locator
+    sw: URL
+    ta: உரலி
+    te: యూనిఫాం రిసోర్స్ లొకేటర్
+    tet: URL
+    tg: URL
+    th: ยูอาร์แอล
+    tr: URL
+    tt: URL
+    tt-cyrl: URL
+    ug: URL
+    uk: Уніфікований локатор ресурсів
+    ur: یکساں وسیلی تعینگر
+    uz: URL
+    vec: URL
+    vi: URL
+    wuu: 統一資源定位符
+    yi: URL
+    yo: Uniform Resource Locator
+    yue: URL
+    zh: 统一资源定位符
+    zh-cn: 统一资源定位符
+    zh-hans: 统一资源定位符
+    zh-hant: 網址
   parent_class:
-    - "[[../Text]]"
+  - '[[../Text]]'
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]"
-    - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
-    - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
-    - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]"
-    - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
-    - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
-    - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
+  - '[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]'
+  - '[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]'
+  - '[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]'
+  - '[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]'
+  - '[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]'
+  - '[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]'
+  - '[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]'
 dv_has_parent_class:
-  - "[[../Text]]"
+- '[[../Text]]'
 dv_is_same_as:
-  - "[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]"
-  - "[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]"
-  - "[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]"
-  - "[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]"
-  - "[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]"
-  - "[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]"
-  - "[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]"
+- '[[/_Standards/schema-org/Class/is_a_/Property/has_url_for/has_url|has_url]]'
+- '[[/_public/schema-org/Class/is_a_/Data_Type/Text/Url.public|Url.public]]'
+- '[[/_internal/schema-org/Class/is_a_/Data_Type/Text/Url.internal|Url.internal]]'
+- '[[/_protect/schema-org/Class/is_a_/Data_Type/Text/Url.protect|Url.protect]]'
+- '[[/_private/schema-org/Class/is_a_/Data_Type/Text/Url.private|Url.private]]'
+- '[[/_personal/schema-org/Class/is_a_/Data_Type/Text/Url.personal|Url.personal]]'
+- '[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Url.secret|Url.secret]]'
+has_id_wikidata: Q42253
 ---
-
 # [[URL]] 
 Class of all URLs.
 URLs are structured variable-length Strings without Spaces 

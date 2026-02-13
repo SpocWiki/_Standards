@@ -1,19 +1,102 @@
 ---
 aliases:
-  - Blutdruck
-  - Blood_Pressure
-  - Blood Pressure
+- Asinsspiediens
+- blodtryck
+- blodtryk
+- blodtrykk
+- bloeddruk
+- Blood Pressure
+- Blooddruck
+- Blood_Pressure
+- Blutdruck
+- blóðþrýstingur
+- brú fola
+- ciśnienie tętnicze
+- Hiat-ap
+- huyết áp
+- kan basıncı
+- Kasaysayan sa pagsukod sa presyon sa dugo
+- kraujospūdis
+- krevní tlak
+- Krvni pritisak
+- krvni tlak
+- krvný tlak
+- Obara Mgbali elu
+- Odol-presio
+- pestoya xwînê
+- presión sanguinia
+- Presión sanguínea
+- pression sanguine
+- pressione del sangue
+- pressió sanguínia
+- Pressjoni tad-demm
+- pressão sangüínea
+- Presyon ng dugo
+- Prisyun ning daya
+- pwysedd gwaed
+- pēhanga toto
+- Qan təzyiqi
+- qon bosimi
+- sangopremo
+- Sanguinis pressio
+- tekanan darah
+- tensiune sanguină
+- varradeaddu
+- varradæddo
+- verenpaine
+- vererõhk
+- vorrâteedâ
+- vérnyomás
+- võrrteäddas
+- ʒiduli
+- Πίεση αίματος
+- Кан басымы
+- Крвен притисок
+- крвни притисак
+- кровяное давление
+- кров’яний тиск
+- Кръвно налягане
+- крывяны ціск
+- цусны даралт
+- қан қысымы
+- արյան ճնշում
+- בלוט דרוק
+- לחץ דם
+- خوٗنُک دَباو
+- ضغط الدم
+- طونسيو
+- فشار خون
+- پەستانی خوێن
+- ލޭގެ ޕްރެޝަރު
+- ब्लड प्रेशर
+- रक्तचाप
+- रक्तदाब
+- রক্তচাপ
+- ৰক্তচাপ
+- ਲਹੂ ਦਾ ਦਬਾਅ
+- குருதி அழுத்தம்
+- రక్తపోటు
+- ರಕ್ತದೊತ್ತಡ
+- രക്തസമ്മർദ്ദം
+- ความดันเลือด
+- ຄວາມດັນເລືອດ
+- သွေးဖိအား
+- ႁႅင်းလိူတ်ႈ
+- 血压
+- 血圧
+- 血壓
+- 혈압
 has_id_wikidata: Q82642
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Nikolai_Korotkov,918543]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nikolai_Korotkov,918543]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~vital_signs,1067560]]"
-  - "[[_Standards/WikiData/WD~pressure,39552]]"
-different_from: "[[_Standards/WikiData/WD~arterial_blood_pressure,9062560]]"
+- '[[_Standards/WikiData/WD~vital_signs,1067560]]'
+- '[[_Standards/WikiData/WD~pressure,39552]]'
+different_from: '[[_Standards/WikiData/WD~arterial_blood_pressure,9062560]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
-instance_of: "[[_Standards/WikiData/WD~biomedical_measurand_type,42014143]]"
-OmegaWiki_Defined_Meaning: "498480"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+instance_of: '[[_Standards/WikiData/WD~biomedical_measurand_type,42014143]]'
+OmegaWiki_Defined_Meaning: 498480
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Blutdruck.ogg
 GitHub_topic: blood-pressure
 Commons_gallery: Blood pressure
@@ -21,13 +104,113 @@ Commons_category: Blood pressure
 subreddit: bloodpressure
 UMLS_CUI: C0005823
 MeSH_tree_code:
-  - E01.370.600.875.249
-  - G09.330.380.076
+- E01.370.600.875.249
+- G09.330.380.076
 Dewey_Decimal_Classification:
-  - "573.1343"
-  - "612.14"
+- 573.1343
+- 612.14
+dv_has_:
+  name_:
+    af: bloeddruk
+    an: presión sanguinia
+    ar: ضغط الدم
+    ary: طونسيو
+    as: ৰক্তচাপ
+    ast: Presión sanguínea
+    az: Qan təzyiqi
+    be: крывяны ціск
+    be-tarask: крывяны ціск
+    bg: Кръвно налягане
+    bho: ब्लड प्रेशर
+    bn: রক্তচাপ
+    bs: Krvni pritisak
+    ca: pressió sanguínia
+    ceb: Kasaysayan sa pagsukod sa presyon sa dugo
+    ckb: پەستانی خوێن
+    cs: krevní tlak
+    cy: pwysedd gwaed
+    da: blodtryk
+    dag: ʒiduli
+    de: Blutdruck
+    dv: ލޭގެ ޕްރެޝަރު
+    el: Πίεση αίματος
+    en: blood pressure
+    en-ca: Blood pressure
+    en-gb: blood pressure
+    eo: sangopremo
+    es: presión sanguínea
+    et: vererõhk
+    eu: Odol-presio
+    fa: فشار خون
+    fi: verenpaine
+    fr: pression sanguine
+    ga: brú fola
+    gl: presión sanguínea
+    he: לחץ דם
+    hi: रक्तचाप
+    hr: krvni tlak
+    hu: vérnyomás
+    hy: արյան ճնշում
+    id: tekanan darah
+    ig: Obara Mgbali elu
+    is: blóðþrýstingur
+    it: pressione del sangue
+    ja: 血圧
+    kk: қан қысымы
+    kn: ರಕ್ತದೊತ್ತಡ
+    ko: 혈압
+    ks: خوٗنُک دَباو
+    ku: pestoya xwînê
+    ky: Кан басымы
+    la: Sanguinis pressio
+    lo: ຄວາມດັນເລືອດ
+    lt: kraujospūdis
+    lv: Asinsspiediens
+    mi: pēhanga toto
+    mk: Крвен притисок
+    ml: രക്തസമ്മർദ്ദം
+    mn: цусны даралт
+    mr: रक्तदाब
+    ms: Tekanan darah
+    mt: Pressjoni tad-demm
+    my: သွေးဖိအား
+    nan: Hiat-ap
+    nb: blodtrykk
+    nds: Blooddruck
+    ne: रक्तचाप
+    nl: bloeddruk
+    nn: blodtrykk
+    pa: ਲਹੂ ਦਾ ਦਬਾਅ
+    pam: Prisyun ning daya
+    pl: ciśnienie tętnicze
+    pt: pressão sangüínea
+    ro: tensiune sanguină
+    ru: кровяное давление
+    se: varradeaddu
+    sh: Krvni pritisak
+    shn: ႁႅင်းလိူတ်ႈ
+    sk: krvný tlak
+    sl: krvni tlak
+    smj: varradæddo
+    smn: vorrâteedâ
+    sms: võrrteäddas
+    sr: крвни притисак
+    sv: blodtryck
+    ta: குருதி அழுத்தம்
+    te: రక్తపోటు
+    th: ความดันเลือด
+    tl: Presyon ng dugo
+    tr: kan basıncı
+    uk: кров’яний тиск
+    ur: فشار خون
+    uz: qon bosimi
+    vi: huyết áp
+    wuu: 血压
+    yi: בלוט דרוק
+    yue: 血壓
+    zh: 血壓
+    zh-hans: 血压
 ---
-
 # [[Blood_Pressure]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Blood_pressure,82642|WD~Blood_pressure,82642]] 

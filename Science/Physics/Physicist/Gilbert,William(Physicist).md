@@ -1,36 +1,63 @@
 ---
 aliases:
-  - William Gilbert
-  - William Gilberd
-  - Gilbert,William(Physicist)
+- Gilbert Uilyam
+- Gilbert,William(Physicist)
+- Gulielmus Gilbert
+- Vilijam Gilbert
+- Vilyam Gilbert
+- William Gilberd
+- William Gilbert
+- William Gilbert (fizičar)
+- Γουίλιαμ Γκίλμπερτ
+- Ўільям Гілбэрт
+- Вільям Гілберт
+- Вилијам Гилберт
+- Уільям Гільберт
+- Уильям Гильберт
+- Уилям Гилберт
+- Уилям Гилбърт
+- Ուիլյամ Գիլբերտ
+- ויליאם גילברט
+- وليام جيلبرت
+- ویلیام قیلبرت
+- ویلیام گیلبرت
+- উইলিয়াম গিলবার্ট
+- ਵਿਲੀਅਮ ਗਿਲਬਰਟ
+- ಗಿಲ್ಬರ್ಟ್, ವಿಲಿಯಮ್
+- วิลเลียม กิลเบิร์ต
+- უილიამ გილბერტი
+- ウィリアム・ギルバート
+- 威廉·吉尔伯特
+- 威廉·吉爾伯特
+- 윌리엄 길버트
 has_id_wikidata: Q192706
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~naturalist,18805]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~magnetism,3294789]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~medicine,11190]]'
-  - '[[_Standards/WikiData/WD~electricity,12725]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~magnetism,3294789]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~electricity,12725]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 place_of_birth: '[[_Standards/WikiData/WD~Colchester,184163]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 educated_at: "[[_Standards/WikiData/WD~St_John's_College,691283]]"
 family_name: '[[_Standards/WikiData/WD~Gilbert,1158185]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -57,8 +84,137 @@ P1015: 90529769
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/GILBERT_UILYAM.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/William%20Gilbert.jpg
 Commons_category: William Gilbert (physicist)
+dv_has_:
+  name_:
+    af: William Gilbert
+    an: William Gilbert
+    ar: وليام جيلبرت
+    arz: وليام جيلبرت
+    ast: William Gilbert
+    az: Vilyam Gilbert
+    azb: ویلیام قیلبرت
+    ba: Уильям Гильберт
+    bar: William Gilbert
+    be: Уільям Гільберт
+    be-tarask: Ўільям Гілбэрт
+    bg: Уилям Гилбърт
+    bm: William Gilbert
+    bn: উইলিয়াম গিলবার্ট
+    br: William Gilbert
+    bs: William Gilbert (fizičar)
+    ca: William Gilbert
+    co: William Gilbert
+    cs: William Gilbert
+    cy: William Gilbert
+    da: William Gilbert
+    de: William Gilbert
+    de-at: William Gilbert
+    de-ch: William Gilbert
+    ee: William Gilbert
+    el: Γουίλιαμ Γκίλμπερτ
+    en: William Gilbert
+    en-ca: William Gilbert
+    en-gb: William Gilbert
+    eo: William Gilbert
+    es: William Gilbert
+    et: William Gilbert
+    eu: William Gilbert
+    fa: ویلیام گیلبرت
+    fi: William Gilbert
+    fr: William Gilbert
+    frc: William Gilbert
+    frp: William Gilbert
+    fur: William Gilbert
+    ga: William Gilbert
+    gd: William Gilbert
+    gl: William Gilbert
+    gsw: William Gilbert
+    he: ויליאם גילברט
+    hr: William Gilbert
+    ht: William Gilbert
+    hu: William Gilbert
+    hy: Ուիլյամ Գիլբերտ
+    ia: William Gilbert
+    id: William Gilbert
+    ie: William Gilbert
+    io: William Gilbert
+    it: William Gilbert
+    ja: ウィリアム・ギルバート
+    jam: William Gilbert
+    ka: უილიამ გილბერტი
+    kab: William Gilbert
+    kg: William Gilbert
+    kn: ಗಿಲ್ಬರ್ಟ್, ವಿಲಿಯಮ್
+    ko: 윌리엄 길버트
+    la: Gulielmus Gilbert
+    lb: William Gilbert
+    lfn: William Gilbert
+    li: William Gilbert
+    lij: William Gilbert
+    lt: William Gilbert
+    lv: William Gilbert
+    mg: William Gilbert
+    min: William Gilbert
+    mk: Вилијам Гилберт
+    ms: William Gilbert
+    mul: William Gilbert
+    nan: William Gilbert
+    nap: William Gilbert
+    nb: William Gilbert
+    nds: William Gilbert
+    nds-nl: William Gilbert
+    nl: William Gilbert
+    nn: William Gilbert
+    nrm: William Gilbert
+    oc: William Gilbert
+    pa: ਵਿਲੀਅਮ ਗਿਲਬਰਟ
+    pap: William Gilbert
+    pcd: William Gilbert
+    pl: William Gilbert
+    pms: William Gilbert
+    prg: William Gilbert
+    pt: William Gilbert
+    pt-br: William Gilbert
+    rgn: William Gilbert
+    rm: William Gilbert
+    ro: William Gilbert
+    ru: Уильям Гильберт
+    sc: William Gilbert
+    scn: William Gilbert
+    sco: William Gilbert
+    sh: William Gilbert
+    sk: William Gilbert
+    sl: William Gilbert
+    sq: William Gilbert
+    sr: Вилијам Гилберт
+    sr-ec: Вилијам Гилберт
+    sr-el: Vilijam Gilbert
+    sv: William Gilbert
+    sw: William Gilbert
+    tg: Уилям Гилберт
+    th: วิลเลียม กิลเบิร์ต
+    tr: William Gilbert
+    uk: Вільям Гілберт
+    uz: Gilbert Uilyam
+    vec: William Gilbert
+    vi: William Gilbert
+    vls: William Gilbert
+    vmf: William Gilbert
+    vo: William Gilbert
+    wa: William Gilbert
+    war: William Gilbert
+    wo: William Gilbert
+    wuu: 威廉·吉尔伯特
+    yue: 威廉·吉爾伯特
+    zh: 威廉·吉尔伯特
+    zh-cn: 威廉·吉尔伯特
+    zh-hans: 威廉·吉尔伯特
+    zh-hant: 威廉·吉爾伯特
+    zh-hk: 威廉·吉爾伯特
+    zh-sg: 威廉·吉尔伯特
+    zh-tw: 威廉·吉爾伯特
+    zu: William Gilbert
 ---
-
 # [[Gilbert,William(Physicist)]] 
 
 #is_/same_as :: [[WD~William_Gilbert,192706]] 

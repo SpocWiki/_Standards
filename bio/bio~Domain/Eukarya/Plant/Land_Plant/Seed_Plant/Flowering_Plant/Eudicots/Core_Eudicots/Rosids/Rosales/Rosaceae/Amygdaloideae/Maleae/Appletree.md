@@ -1,148 +1,170 @@
 ---
 aliases:
-  - apple tree
-  - appletree
-  - Apfelbaum
-  - Apfel
-  - Malus
-  - Malus domestica
-  - Appletree
-  - ГIеч
-  - Алмағас
-  - Яблыня
-  - Avalenn
-  - Pomera
-  - Æble-slægten
-  - Jabłušcyna
-  - Pomarbo
-  - Õunapuu
-  - Omenapuut
-  - Aapelbuumer
-  - Maceira
-  - Jabuke
-  - Jabłučina
-  - Խնձորենի
-  - 사과나무속
-  - Гьивч
-  - Obelis
-  - Ābeles
-  - Марлю
-  - Олмапу
-  - Олмаву
-  - Умарина
-  - Epleslekten
-  - Appel
-  - Pommyi
-  - Фæткъуыбæлас
-  - Punmié
-  - Macieira
-  - Mar
-  - Яблоня
-  - Eppelmuorat
-  - jabloň
-  - jablana
-  - Tufaax
-  - Aplar
-  - Mtofaa
-  - Alimangong mansanas
-  - Çiçek elması
-  - Алмагач
-  - Улмопу
-  - Яблуня
-  - Jablokpu
-  - Chi Hải đường
-  - უშქური
-  - 苹果属
-  - apple
-  - سیب
-  - リンゴ属
-  - Appels
-  - jabłoń
-  - Äpfel
-  - ვაშლი
-  - Pommier
-  - تفاح
-  - pumar
+- Aapelbuumer
+- Alimangong mansanas
+- Alma
+- apelsläktet
+- Apfel
+- Apfelbaum
+- Aplar
+- Appel
+- Appels
+- apple
+- apple tree
+- appletree
+- Apula
+- Avalenn
+- Chi Hải đường
+- crann fia-úll
+- Epleslekta
+- Epleslekten
+- Eppelmuorat
+- jablana
+- Jablokpu
+- jabloň
+- Jabuka
+- Jabuke
+- jabłoń
+- Jabłučina
+- Jabłušcyna
+- Maceira
+- Macieira
+- Malus
+- Malus domestica
+- Mansana
+- Mar
+- Mtofaa
+- Obelis
+- Omenapuut
+- Paoma (maniry)
+- Pomarbo
+- Pomera
+- Pomiér
+- Pommier
+- Pommyi
+- pumar
+- Punmié
+- Say vılıkan
+- Tufaax
+- Äpfel
+- Æble-slægten
+- Çiçek elması
+- Õunapuu
+- Ābeles
+- ābeļu ģints
+- Алимны мод
+- Алмагач
+- Алмағас
+- ГIеч
+- Гьивч
+- ГӀеч
+- дива јаболка
+- Марлю
+- Олмаву
+- Олмапу
+- Улмопу
+- Умарина
+- Фæткъуы бæлас
+- Фæткъуыбæлас
+- Яблоня
+- Яблуня
+- Яблыня
+- ябълка
+- Ӏаж
+- Խնձորենի
+- תפוח
+- اَنبِڙِي
+- تفاح
+- تفاح (جنس)
+- سیب
+- مالوس
+- മലുസ്
+- ვაშლი
+- უშქური
+- リンゴ属
+- 苹果属
+- 蘋果屬
+- 사과나무속
 has_id_wikidata: Q104819
 taxon_common_name:
-  - ГIеч
-  - Алмағас
-  - Яблыня
-  - Яблыня
-  - Avalenn
-  - Pomera
-  - Æble-slægten
-  - Jabłušcyna
-  - Pomarbo
-  - Õunapuu
-  - Omenapuut
-  - Aapelbuumer
-  - Maceira
-  - Jabuke
-  - Jabłučina
-  - Խնձորենի
-  - 사과나무속
-  - Гьивч
-  - Obelis
-  - Ābeles
-  - Марлю
-  - Олмапу
-  - Олмаву
-  - Умарина
-  - Epleslekten
-  - Appel
-  - Pommyi
-  - Фæткъуыбæлас
-  - Punmié
-  - Macieira
-  - Mar
-  - Яблоня
-  - Eppelmuorat
-  - jabloň
-  - jablana
-  - Tufaax
-  - Aplar
-  - Mtofaa
-  - Alimangong mansanas
-  - Çiçek elması
-  - Алмагач
-  - Яблоня
-  - Улмопу
-  - Яблуня
-  - Jablokpu
-  - Chi Hải đường
-  - უშქური
-  - 苹果属
-  - 苹果属
-  - Appel
-  - apple
-  - jabloň
-  - سیب
-  - リンゴ属
-  - Appels
-  - jabłoń
-  - Äpfel
-  - ვაშლი
-  - Pommier
-  - تفاح
-  - pumar
+- ГIеч
+- Алмағас
+- Яблыня
+- Яблыня
+- Avalenn
+- Pomera
+- Æble-slægten
+- Jabłušcyna
+- Pomarbo
+- Õunapuu
+- Omenapuut
+- Aapelbuumer
+- Maceira
+- Jabuke
+- Jabłučina
+- Խնձորենի
+- 사과나무속
+- Гьивч
+- Obelis
+- Ābeles
+- Марлю
+- Олмапу
+- Олмаву
+- Умарина
+- Epleslekten
+- Appel
+- Pommyi
+- Фæткъуыбæлас
+- Punmié
+- Macieira
+- Mar
+- Яблоня
+- Eppelmuorat
+- jabloň
+- jablana
+- Tufaax
+- Aplar
+- Mtofaa
+- Alimangong mansanas
+- Çiçek elması
+- Алмагач
+- Яблоня
+- Улмопу
+- Яблуня
+- Jablokpu
+- Chi Hải đường
+- უშქური
+- 苹果属
+- 苹果属
+- Appel
+- apple
+- jabloň
+- سیب
+- リンゴ属
+- Appels
+- jabłoń
+- Äpfel
+- ვაშლი
+- Pommier
+- تفاح
+- pumar
 parent_taxon: '[[_Standards/WikiData/WD~Maloideae,148737]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~perennial_plant,157957]]'
-  - '[[_Standards/WikiData/WD~tree,10884]]'
+- '[[_Standards/WikiData/WD~perennial_plant,157957]]'
+- '[[_Standards/WikiData/WD~tree,10884]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~apple_tree,60458657]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~apple_wood,62474609]]'
-  - '[[_Standards/WikiData/WD~apple_blossom,123914734]]'
-  - '[[_Standards/WikiData/WD~Q136647889,136647889]]'
-  - '[[_Standards/WikiData/WD~apple,89]]'
+- '[[_Standards/WikiData/WD~apple_wood,62474609]]'
+- '[[_Standards/WikiData/WD~apple_blossom,123914734]]'
+- '[[_Standards/WikiData/WD~Q136647889,136647889]]'
+- '[[_Standards/WikiData/WD~apple,89]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 has_fruit_type: '[[_Standards/WikiData/WD~pome,41274]]'
@@ -158,8 +180,120 @@ Commons_category: Malus
 taxon_name: Malus
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/YABLONYA.html
 NBN_System_Key: NHMSYS0000460566
+dv_has_:
+  name_:
+    an: Malus
+    ar: تفاح (جنس)
+    arz: تفاح
+    ast: Malus
+    av: ГӀеч
+    az: Alma
+    ba: Алмағас
+    be: яблыня
+    be-tarask: яблыня
+    bg: ябълка
+    br: avalenn
+    bs: Malus
+    ca: pomera
+    ceb: Malus
+    cs: jabloň
+    cv: яблоня
+    da: æble-slægten
+    de: Äpfel
+    diq: Say vılıkan
+    dsb: Jabłušcyna
+    en: Malus
+    eo: pomarbo
+    es: Malus
+    et: Õunapuu
+    eu: Malus
+    ext: Malus
+    fa: مالوس
+    fi: omenapuut
+    fr: Malus
+    frp: Pomiér
+    frr: Aapelbuumer
+    ga: crann fia-úll
+    gl: Malus
+    he: תפוח
+    hr: Jabuke
+    hsb: Jabłučina
+    hu: alma
+    hy: խնձորենի
+    ia: Malus
+    id: Malus
+    ie: Malus
+    inh: Ӏаж
+    io: Malus
+    it: Malus
+    ja: リンゴ属
+    ka: ვაშლი
+    ko: 사과나무속
+    kw: Malus
+    la: Malus
+    lbe: Гьивч
+    lt: obelis
+    lv: ābeļu ģints
+    mdf: Марлю
+    mg: Paoma (maniry)
+    mhr: Олмапу
+    mk: дива јаболка
+    ml: മലുസ്
+    mn: Алимны мод
+    mrj: Олмаву
+    ms: Malus
+    mul: Malus
+    myv: умарина
+    nah: Mansana
+    nb: Epleslekten
+    nds: Appels
+    nds-nl: Appel
+    nl: Malus
+    nn: Epleslekta
+    nrm: Pommyi
+    oc: Malus
+    os: Фæткъуы бæлас
+    pcd: Punmié
+    pl: jabłoń
+    pt: Malus
+    pt-br: Malus
+    ro: Malus
+    ru: яблоня
+    sco: Malus
+    sd: اَنبِڙِي
+    se: Eppelmuorat
+    sh: Jabuka
+    sk: jabloň
+    sl: jablana
+    so: Tufaax
+    sq: Malus
+    sr: Malus
+    sv: apelsläktet
+    sw: Mtofaa
+    th: Malus
+    tl: Alimangong mansanas
+    tr: Çiçek elması
+    tt: алмагач
+    tt-cyrl: алмагач
+    tyv: Яблоня
+    udm: Улмопу
+    uk: яблуня
+    ve: Apula
+    vep: Jablokpu
+    vi: chi Hải đường
+    vo: Malus
+    war: Malus
+    wuu: 苹果属
+    xmf: უშქური
+    yue: 蘋果屬
+    zh: 苹果属
+    zh-cn: 蘋果屬
+    zh-hans: 苹果属
+    zh-hant: 蘋果屬
+    zh-hk: 蘋果屬
+    zh-sg: 苹果属
+    zh-tw: 蘋果屬
 ---
-
 # [[Appletree]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Apple,89|WD~Apple,89]]

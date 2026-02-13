@@ -1,30 +1,70 @@
 ---
 aliases:
-  - corrie
-  - cwm
-  - Kar
-  - Kahr
-  - Kaar
-  - Cirque
+- botn
+- buz yalağı
+- circ glaciar
+- circ natural
+- circo
+- Circo (geologia)
+- circo natural
+- Circu natural
+- Cirk
+- cirko
+- cirkuszvölgy
+- Cirque
+- Coire
+- corrie
+- Cul
+- cwm
+- cyrk lodowcowy
+- Kaar
+- Kahr
+- Kancah gletser
+- Kar
+- Kara
+- kars
+- keteldal
+- Komm
+- krnica
+- onsilo
+- Tsirkusorg
+- Zirku
+- Λεκανοπέδιο
+- кар
+- цирк
+- Циркус
+- Կար
+- קרקס קרחוני
+- سيرك
+- سیرک یخچالی
+- كار
+- हिमगव्हर
+- हिमगह्वर
+- பனிபறிபள்ளம்
+- เซิร์ก
+- კარი
+- 冰斗
+- 圏谷
+- 카르
 has_id_wikidata: Q184368
 different_from:
-  - "[[_Standards/WikiData/WD~Kar,258056]]"
-  - "[[_Standards/WikiData/WD~Cirque,16769279]]"
-  - "[[_Standards/WikiData/WD~Cirk,18745865]]"
-model_item: "[[_Standards/WikiData/WD~glacial_cirque,388227]]"
+- '[[_Standards/WikiData/WD~Kar,258056]]'
+- '[[_Standards/WikiData/WD~Cirque,16769279]]'
+- '[[_Standards/WikiData/WD~Cirk,18745865]]'
+model_item: '[[_Standards/WikiData/WD~glacial_cirque,388227]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-has_cause: "[[_Standards/WikiData/WD~glacial_denudation,1383395]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_cause: '[[_Standards/WikiData/WD~glacial_denudation,1383395]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~tarn,1851937]]"
-  - "[[_Standards/WikiData/WD~Tarn_(Gewässer),131385877]]"
-subclass_of: "[[_Standards/WikiData/WD~valley,39816]]"
+- '[[_Standards/WikiData/WD~tarn,1851937]]'
+- '[[_Standards/WikiData/WD~Tarn_(Gewässer),131385877]]'
+subclass_of: '[[_Standards/WikiData/WD~valley,39816]]'
 Commons_category: Cirques
 name:
-  - Gund
-  - Gunt
-  - Gonten
+- Gund
+- Gunt
+- Gonten
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cirque-de-navacelles.JPG
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000155
 Dewey_Decimal_Classification: 551.315
@@ -33,25 +73,98 @@ Commons_gallery: Cirque
 GeoNames_feature_code: T.CRQS
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Cirque,184368|WD~Cirque,184368]]"
-    - "[[/_Standards/Earth/Geology/Landform/Cirque|Cirque]]"
-    - "[[/_public/Earth/Geology/Landform/Cirque.public|Cirque.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Cirque.internal|Cirque.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Cirque.protect|Cirque.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Cirque.private|Cirque.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Cirque.personal|Cirque.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Cirque.secret|Cirque.secret]]"
+  - '[[../../../WikiData/WD~Cirque,184368|WD~Cirque,184368]]'
+  - '[[/_Standards/Earth/Geology/Landform/Cirque|Cirque]]'
+  - '[[/_public/Earth/Geology/Landform/Cirque.public|Cirque.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Cirque.internal|Cirque.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Cirque.protect|Cirque.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Cirque.private|Cirque.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Cirque.personal|Cirque.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Cirque.secret|Cirque.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Cirque,184368|WD~Cirque,184368]]"
-  - "[[/_Standards/Earth/Geology/Landform/Cirque|Cirque]]"
-  - "[[/_public/Earth/Geology/Landform/Cirque.public|Cirque.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Cirque.internal|Cirque.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Cirque.protect|Cirque.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Cirque.private|Cirque.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Cirque.personal|Cirque.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Cirque.secret|Cirque.secret]]"
+- '[[../../../WikiData/WD~Cirque,184368|WD~Cirque,184368]]'
+- '[[/_Standards/Earth/Geology/Landform/Cirque|Cirque]]'
+- '[[/_public/Earth/Geology/Landform/Cirque.public|Cirque.public]]'
+- '[[/_internal/Earth/Geology/Landform/Cirque.internal|Cirque.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Cirque.protect|Cirque.protect]]'
+- '[[/_private/Earth/Geology/Landform/Cirque.private|Cirque.private]]'
+- '[[/_personal/Earth/Geology/Landform/Cirque.personal|Cirque.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Cirque.secret|Cirque.secret]]'
+dv_has_:
+  name_:
+    an: Cul
+    ar: سيرك
+    ast: Circu natural
+    az: Kar
+    be-tarask: кар
+    bg: Циркус
+    bs: Cirk
+    ca: circ natural
+    cs: kar
+    cy: cwm
+    de: Kar
+    el: Λεκανοπέδιο
+    en: cirque
+    eo: cirko
+    es: circo natural
+    et: Tsirkusorg
+    eu: Zirku
+    fa: سیرک یخچالی
+    fi: onsilo
+    fr: cirque
+    gd: Coire
+    gl: Circo
+    he: קרקס קרחוני
+    hi: हिमगह्वर
+    hr: Cirk
+    hu: cirkuszvölgy
+    hy: Կար
+    ia: Circo (geologia)
+    id: Kancah gletser
+    it: circo
+    ja: 圏谷
+    ka: კარი
+    kk: Кар
+    kk-arab: كار
+    kk-cn: كار
+    kk-cyrl: Кар
+    kk-kz: Кар
+    kk-latn: Kar
+    kk-tr: Kar
+    ko: 카르
+    kw: Komm
+    lt: Kara
+    lv: kars
+    mr: हिमगव्हर
+    nb: botn
+    nl: keteldal
+    nn: botn
+    oc: Circ natural
+    pl: cyrk lodowcowy
+    pt: circo
+    ro: circ glaciar
+    ru: кар
+    rue: Кар
+    sh: Cirk
+    sk: kar
+    sl: krnica
+    sr: цирк
+    sr-ec: Цирк
+    sr-el: Cirk
+    sv: cirque
+    ta: பனிபறிபள்ளம்
+    th: เซิร์ก
+    tr: buz yalağı
+    uk: Кар
+    yue: 冰斗
+    zh: 冰斗
+    zh-cn: 冰斗
+    zh-hans: 冰斗
+    zh-hant: 冰斗
+    zh-hk: 冰斗
+    zh-sg: 冰斗
+    zh-tw: 冰斗
 ---
-
 # [[Cirque]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cirque,184368|WD~Cirque,184368]] 

@@ -1,16 +1,75 @@
 ---
 aliases:
-  - Leptosporangiate
-  - leptosporangiate fern
-  - Polypodiidae
-  - Leptosporangiatae
-  - Filicidae
-  - Filicales
-  - Leptosporangiate_Ferns
-  - Leptosporangiate Ferns
+- Filicales
+- Filicidae
+- Leptosporangiatae
+- Leptosporangiate
+- leptosporangiate fern
+- Leptosporangiate Ferns
+- Leptosporangiate_Ferns
+- Paprotkowe
+- Polypodiidae
+- Tankostijene paprati
+- Əsl qıjılar (yarımsinif)
+- רב-רגלים
+- سراخس رقيقة المباغ
+- سرخس باریکهاگدان
+- シダ綱
+- 水龍骨亞綱
+- 水龙骨亚纲
 title: leptosporangiate ferns
+has_id_wikidata: Q3395756
+dv_has_:
+  name_:
+    an: Polypodiidae
+    ar: سراخس رقيقة المباغ
+    arz: سراخس رقيقة المباغ
+    ast: Polypodiidae
+    az: Əsl qıjılar (yarımsinif)
+    bg: Polypodiidae
+    ca: Polypodiidae
+    ceb: Polypodiidae
+    de: Polypodiidae
+    en: Polypodiidae
+    eo: Polypodiidae
+    es: Polypodiidae
+    eu: Polypodiidae
+    ext: Polypodiidae
+    fa: سرخس باریکهاگدان
+    fi: Polypodiidae
+    fr: Polypodiidae
+    ga: Polypodiidae
+    gl: Polypodiidae
+    he: רב-רגלים
+    hr: Tankostijene paprati
+    ia: Polypodiidae
+    ie: Polypodiidae
+    io: Polypodiidae
+    it: Polypodiidae
+    ja: シダ綱
+    la: Polypodiidae
+    mul: Polypodiidae
+    nl: Polypodiidae
+    oc: Polypodiidae
+    pl: Paprotkowe
+    pt: Polypodiidae
+    pt-br: Polypodiidae
+    ro: Polypodiidae
+    ru: Polypodiidae
+    sl: Polypodiidae
+    sq: Polypodiidae
+    sr: Polypodiidae
+    sv: Polypodiidae
+    uk: Polypodiidae
+    vi: Polypodiidae
+    vo: Polypodiidae
+    war: Polypodiidae
+    zh: 水龙骨亚纲
+    zh-cn: 水龙骨亚纲
+    zh-hans: 水龙骨亚纲
+    zh-hant: 水龍骨亞綱
+    zh-tw: 水龍骨亞綱
 ---
-
 # [[Leptosporangiate_Ferns]] 
 
 

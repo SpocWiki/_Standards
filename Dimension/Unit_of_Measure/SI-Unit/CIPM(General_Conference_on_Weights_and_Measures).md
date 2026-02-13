@@ -1,21 +1,85 @@
 ---
 aliases:
-  - General Conference on Weights and Measures
-  - CGPM
-  - Conférence générale des poids et mesures
-  - CIPM(General_Conference_on_Weights_and_Measures
-  - CIPM(General Conference on Weights and Measures
+- CGPM
+- CIPM(General Conference on Weights and Measures
+- CIPM(General_Conference_on_Weights_and_Measures
+- Comità Internasionałe de Pezi e Mezure
+- Comitè Internacional de Pesos i Mesures
+- Comité Internacional de Pesos y Medidas
+- Comité international des poids et mesures
+- Comitê Internacional de Pesos e Medidas
+- Conférence générale des poids et mesures
+- General Conference on Weights and Measures
+- Internaciona Komitato pri Pezi e Mezuri
+- Internasionale Komitee vir Mate en Gewigte
+- International Committee for Weights and Measures
+- Internationale Komitee für Maß und Gewicht
+- Jawatankuasa Timbangan dan Ukuran Antarabangsa
+- Komitato Internacia pri Pezoj kaj Mezuroj
+- Kuzuliadeg Etrebroadel ar Pouezioù hag ar Muzulioù
+- Mezinárodní výbor pro míry a váhy
+- Međunarodni komitet za težine i mere
+- Międzynarodowy Komitet Miar i Wag
+- Rahvusvaheline Vihtide ja Mõõtude Komitee
+- Διεθνής Επιτροπή Μέτρων και Σταθμών
+- Бөтендөнья үлчәмнәр һәм авырлыклар комитеты
+- Міжнародний комітет мір і ваг
+- Међународни комитет за тегове и мере
+- Международен комитет по мерки и теглилки
+- Международный комитет мер и весов
+- הוועדה הבינלאומית למידות ולמשקלות
+- اللجنة الدولية للأوزان والمقاييس
+- भार एवं मापन अन्तर्राष्ट्रीय समिति
+- คณะกรรมการชั่งตวงวัดระหว่างประเทศ
+- Ủy ban Quốc tế về Cân đo
+- 国际度量衡委员会
+- 国際度量衡委員会
+- 국제 도량형 위원회
 has_id_wikidata: Q616838
-part_of: "[[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478]]"
-instance_of: "[[_Standards/WikiData/WD~panel,938236]]"
+part_of: '[[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478]]'
+instance_of: '[[_Standards/WikiData/WD~panel,938236]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-chairperson: "[[_Standards/WikiData/WD~Wynand_Louw,72686450]]"
+chairperson: '[[_Standards/WikiData/WD~Wynand_Louw,72686450]]'
 short_name:
-  - CIPM
-  - CIPM
-ISNI: "0000000095553724"
+- CIPM
+- CIPM
+ISNI: 0000000095553724
+dv_has_:
+  name_:
+    af: Internasionale Komitee vir Mate en Gewigte
+    ar: اللجنة الدولية للأوزان والمقاييس
+    bg: Международен комитет по мерки и теглилки
+    br: Kuzuliadeg Etrebroadel ar Pouezioù hag ar Muzulioù
+    ca: Comitè Internacional de Pesos i Mesures
+    cs: Mezinárodní výbor pro míry a váhy
+    de: Internationale Komitee für Maß und Gewicht
+    el: Διεθνής Επιτροπή Μέτρων και Σταθμών
+    en: International Committee for Weights and Measures
+    eo: Komitato Internacia pri Pezoj kaj Mezuroj
+    es: Comité Internacional de Pesos y Medidas
+    et: Rahvusvaheline Vihtide ja Mõõtude Komitee
+    fr: Comité international des poids et mesures
+    he: הוועדה הבינלאומית למידות ולמשקלות
+    hi: भार एवं मापन अन्तर्राष्ट्रीय समिति
+    id: Comité International des Poids et Mesures
+    io: Internaciona Komitato pri Pezi e Mezuri
+    it: Comité international des poids et mesures
+    ja: 国際度量衡委員会
+    ko: 국제 도량형 위원회
+    ms: Jawatankuasa Timbangan dan Ukuran Antarabangsa
+    nl: International Committee for Weights and Measures
+    pl: Międzynarodowy Komitet Miar i Wag
+    pt: Comitê Internacional de Pesos e Medidas
+    ru: Международный комитет мер и весов
+    sh: Međunarodni komitet za težine i mere
+    sr: Међународни комитет за тегове и мере
+    th: คณะกรรมการชั่งตวงวัดระหว่างประเทศ
+    tt: Бөтендөнья үлчәмнәр һәм авырлыклар комитеты
+    uk: Міжнародний комітет мір і ваг
+    vec: Comità Internasionałe de Pezi e Mezure
+    vi: Ủy ban Quốc tế về Cân đo
+    zh: 国际度量衡委员会
 ---
-
 # [[CIPM(General_Conference_on_Weights_and_Measures)]] 
 
 #is_/same_as :: [[WD~International_Committee_for_Weights_and_Measures,616838]]

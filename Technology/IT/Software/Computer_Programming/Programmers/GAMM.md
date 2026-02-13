@@ -1,4 +1,32 @@
-
+---
+has_id_wikidata: Q318109
+dv_has_:
+  name_:
+    be: Таварыства прыкладной матэматыкі і механікі
+    ca: Societat de Matemàtiques i Mecànica Aplicada
+    de: Gesellschaft für Angewandte Mathematik und Mechanik
+    en: Gesellschaft für Angewandte Mathematik und Mechanik
+    fr: Société de mathématiques appliquées et de mécanique
+    hy: Կիրառական մաթեմատիկայի և մեխանիկայի ընկերություն
+    ja: 応用数理・機械学会
+    ko: 응용수학 및 역학 학회
+    nl: Gesellschaft für Angewandte Mathematik und Mechanik
+    pt: Gesellschaft für Angewandte Mathematik und Mechanik
+    ru: Общество прикладной математики и механики
+    uk: Товариство прикладної математики і механіки
+    zh: 应用数学和力学协会
+aliases:
+- Gesellschaft für Angewandte Mathematik und Mechanik
+- Societat de Matemàtiques i Mecànica Aplicada
+- Société de mathématiques appliquées et de mécanique
+- Общество прикладной математики и механики
+- Таварыства прыкладной матэматыкі і механікі
+- Товариство прикладної математики і механіки
+- Կիրառական մաթեմատիկայի և մեխանիկայի ընկերություն
+- 应用数学和力学协会
+- 応用数理・機械学会
+- 응용수학 및 역학 학회
+---
 #has_/time_/started :: 1922-07-01 
 
 #has_/creator :: [ [[Prandtl~Ludwig]], [[von_Mises~Richard]] ]  

@@ -1,18 +1,79 @@
 ---
 aliases:
-  - Bearing(mechanical)
+- bantalan
+- Bantalan (mekanik)
+- bearing
+- Bearing(mechanical)
+- beryn
+- be̋-á-lèng-guh
+- coixinet
+- cojinete
+- Coxinete
+- csapágy
+- cuscinetto
+- Cussinet (mecànica)
+- cuzinet
+- gultnis
+- guolis
+- imthacaí
+- kojinete
+- kuglični ležaj
+- laager
+- laakeri
+- laer
+- lager
+- lagro
+- ležaj
+- Loga
+- ložisko
+- maskinleje
+- palier
+- podshipnik
+- Podşipnik
+- rolamento
+- soporto
+- yastıq
+- yatak
+- łożysko
+- Ρουλεμάν
+- вальниця
+- лагер
+- лежај
+- мойынтірек
+- муен терәге
+- падшыпнік
+- подшипник
+- առանցկակալ
+- מסב
+- محمل
+- یاتاقان
+- धारवा
+- बेयरिंग
+- ਬੈਅਰਿੰਗ
+- బేరింగ్
+- ಬಾಲ್ ಬೇರಿಂಗ್
+- ตลับลูกปืน
+- ဘယ်ရင်
+- საკისარი
+- ኩችኔታ
+- ổ đỡ trục
+- 啤令
+- 軸受
+- 軸承
+- 轴承
+- 베어링
 has_id_wikidata: Q190100
 subclass_of:
-  - '[[_Standards/WikiData/WD~machine_element,839546]]'
-  - '[[_Standards/WikiData/WD~product,2424752]]'
-  - '[[_Standards/WikiData/WD~connector,18819626]]'
+- '[[_Standards/WikiData/WD~machine_element,839546]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~connector,18819626]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~rolling_element_bearing,1335987]]'
-  - '[[_Standards/WikiData/WD~plain_bearing,18830]]'
+- '[[_Standards/WikiData/WD~rolling_element_bearing,1335987]]'
+- '[[_Standards/WikiData/WD~plain_bearing,18830]]'
 different_from: '[[_Standards/WikiData/WD~Q9394452,9394452]]'
 has_use: '[[_Standards/WikiData/WD~physical_interface,64830866]]'
 Product_and_Service_Code: 31
@@ -23,8 +84,87 @@ P8189: 987007282411105171
 Commons_category: Bearings
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PODSHIPNIK.html
 Baidu_Tieba_name: 轴承
+dv_has_:
+  name_:
+    af: laer
+    am: ኩችኔታ
+    an: Coixinet
+    ar: محمل
+    ast: Coxinete
+    az: yastıq
+    bar: Loga
+    be: падшыпнік
+    be-tarask: падшыпнік
+    bg: лагер
+    bs: ležaj
+    ca: coixinet
+    cs: ložisko
+    cy: beryn
+    da: maskinleje
+    de: Lager
+    el: Ρουλεμάν
+    en: bearing
+    en-gb: bearing
+    en-us: bearing
+    eo: lagro
+    es: cojinete
+    et: laager
+    eu: kojinete
+    fa: یاتاقان
+    fi: laakeri
+    fr: palier
+    ga: imthacaí
+    he: מסב
+    hi: बेयरिंग
+    hr: kuglični ležaj
+    hu: csapágy
+    hy: առանցկակալ
+    id: bantalan
+    io: soporto
+    it: cuscinetto
+    ja: 軸受
+    ka: საკისარი
+    kk: мойынтірек
+    kn: ಬಾಲ್ ಬೇರಿಂಗ್
+    ko: 베어링
+    ky: подшипник
+    lt: guolis
+    lv: gultnis
+    min: Bantalan (mekanik)
+    mk: лагер
+    mr: धारवा
+    my: ဘယ်ရင်
+    nan: be̋-á-lèng-guh
+    nb: lager
+    nl: lager
+    nn: lager
+    pa: ਬੈਅਰਿੰਗ
+    pl: łożysko
+    pms: Cussinet (mecànica)
+    pt: rolamento
+    pt-br: rolamento
+    ro: cuzinet
+    ru: подшипник
+    sh: ležaj
+    sk: ložisko
+    sl: ležaj
+    sr: лежај
+    sr-ec: лежај
+    sv: lager
+    te: బేరింగ్
+    th: ตลับลูกปืน
+    tk: Podşipnik
+    tr: yatak
+    tt: муен терәге
+    uk: вальниця
+    uz: podshipnik
+    vi: ổ đỡ trục
+    wuu: 轴承
+    yue: 啤令
+    zh: 轴承
+    zh-hans: 轴承
+    zh-hant: 軸承
 ---
-
 # [[Bearing(mechanical)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bearing,190100|WD~Bearing,190100]] 

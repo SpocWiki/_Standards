@@ -1,18 +1,82 @@
 ---
 aliases:
-  - Elastizität
-  - Elasticity
+- Dhifamummaa
+- déformation élastique
+- elasteco
+- elasticidad
+- Elasticidade
+- elasticitat
+- elasticitate
+- elasticiteit
+- elasticitet
+- Elasticiteti (fizikë)
+- Elasticity
+- elasticità
+- Elastikeso
+- Elastiklik
+- Elastikotasun
+- Elastisidad
+- Elastisitas
+- elastisitet
+- elastisuus
+- Elastizität
+- elastičnost
+- Elastičnost (fizika)
+- Elastsus
+- elastība
+- Esneklik
+- keanjalan
+- leaisteachas
+- lực đàn hồi
+- pružnost
+- rugalmasság
+- sprężystość
+- Teória pružnosti
+- Tân-sèng
+- Ελαστικότητα
+- Еластична деформация
+- еластичност
+- пезьдон
+- Пиçĕлĕх
+- пругкасць
+- пругкасьць
+- пружність
+- растегливост
+- Серпімділік
+- упругость
+- Уян налархай шинж чанар
+- хъæддыхад
+- առաձգականություն
+- אלסטיות
+- لاستیکی
+- لچک
+- مرونة
+- کأنجلن
+- کشسانی
+- प्रत्यास्थता
+- স্থিতিস্থাপকতা
+- ਲਚਕ
+- மீட்சிப்பண்பு
+- ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ
+- ഇലാസ്തികത
+- ප්රත්යාස්ථතාව
+- ຄວາມຍືດຫຍຸ່ນ (ຟີຊິກ)
+- 弹性
+- 弹性 (物理学)
+- 弾性
+- 彈性
+- 탄성
 has_id_wikidata: Q62932
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 studied_by: '[[_Standards/WikiData/WD~elasticity_theory,1913277]]'
 subclass_of: '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
 opposite_of:
-  - '[[_Standards/WikiData/WD~anelasticity,3616586]]'
-  - '[[_Standards/WikiData/WD~softness,12894628]]'
+- '[[_Standards/WikiData/WD~anelasticity,3616586]]'
+- '[[_Standards/WikiData/WD~softness,12894628]]'
 instance_of: '[[_Standards/WikiData/WD~mechanical_properties_of_fiber,4292136]]'
 has_use: '[[_Standards/WikiData/WD~mechanical_function,45914364]]'
 OmegaWiki_Defined_Meaning: 1104
@@ -22,8 +86,82 @@ Colon_Classification: C2:5
 MeSH_tree_code: G01.374.590
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/UPRUGOST_MODUL_UPRUGOSTI_ZAKON_GUKA.html
 Dewey_Decimal_Classification: 531.382
+dv_has_:
+  name_:
+    ar: مرونة
+    az: Elastiklik
+    be: пругкасць
+    be-tarask: пругкасьць
+    bg: Еластична деформация
+    bn: স্থিতিস্থাপকতা
+    bs: Elastičnost (fizika)
+    ca: elasticitat
+    ckb: لاستیکی
+    cs: pružnost
+    cv: Пиçĕлĕх
+    da: elasticitet
+    de: Elastizität
+    el: Ελαστικότητα
+    en: elasticity
+    eo: elasteco
+    es: elasticidad
+    et: Elastsus
+    eu: Elastikotasun
+    fa: کشسانی
+    fi: elastisuus
+    fr: déformation élastique
+    ga: leaisteachas
+    gl: Elasticidade
+    he: אלסטיות
+    hi: प्रत्यास्थता
+    hr: Elastičnost
+    hu: rugalmasság
+    hy: առաձգականություն
+    id: Elastisitas
+    io: Elastikeso
+    it: elasticità
+    ja: 弾性
+    kk: Серпімділік
+    kn: ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ
+    ko: 탄성
+    lo: ຄວາມຍືດຫຍຸ່ນ (ຟີຊິກ)
+    lv: elastība
+    mk: растегливост
+    ml: ഇലാസ്തികത
+    mn: Уян налархай шинж чанар
+    ms: keanjalan
+    ms-arab: کأنجلن
+    nan: Tân-sèng
+    nb: elastisitet
+    nl: elasticiteit
+    nn: elastisitet
+    om: Dhifamummaa
+    os: хъæддыхад
+    pa: ਲਚਕ
+    pl: sprężystość
+    pms: Elasticità
+    pt: elasticidade
+    ro: elasticitate
+    ru: упругость
+    sh: Elastičnost
+    si: ප්රත්යාස්ථතාව
+    sk: Teória pružnosti
+    sl: elastičnost
+    sq: Elasticiteti (fizikë)
+    sr: еластичност
+    sv: elasticitet
+    ta: மீட்சிப்பண்பு
+    tl: Elastisidad
+    tr: Esneklik
+    udm: пезьдон
+    uk: пружність
+    ur: لچک
+    vi: lực đàn hồi
+    wuu: 弹性 (物理学)
+    yue: 彈性
+    zh: 弹性
+    zh-hant: 彈性
 ---
-
 # [[Elasticity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Elasticity,62932|WD~Elasticity,62932]] 

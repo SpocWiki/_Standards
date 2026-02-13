@@ -1,24 +1,152 @@
 ---
-has_time_started: 1989-03-09 
-has_time_stopped: 1992-04-27 
+has_time_started: 1989-03-09
+has_time_stopped: 1992-04-27
 aliases:
+- 1989 Devrimleri
+- 1989 йылғы революциялар
+- 1989 шеран революцеш
+- 1989 թվականի հեղափոխություններ
+- 1989 دے انقلابات
+- 1989 کے انقلابات
+- 1989 ਦੇ ਇਨਕਲਾਬ
+- 1989 წლის რევოლუციები
+- 1989-es forradalmak
+- 1989. aasta Nõukogude režiimi vastased revolutsioonid
+- 1989. gada revolūcijas
+- 1989ko iraultzak
+- Chout di sé réjim kominis an Éròp
+- chute des régimes communistes en Europe
+- Era kejatuhan Komunisme
+- Falo de komunismo
+- Itä-Euroopan vallankumoukset 1989
+- Jesień Ludów
+- Liphetoho tsa 1989
+- Mga Himagsikan ng 1989
+- Pad komunizma
+- Pád komunismu v Evropě
+- Res novae anni 1989
+- Revolucije 1989.
+- revolucije leta 1989
+- Revoluciones de 1989
+- Revolucions de 1988-1989
+- Revolucions de 1989
+- Revolucións de 1989
+- Revoluis de 1989
+- Revolusi 1989
+- Revolutionen im Jahr 1989
+- revolutionerna i Östeuropa 1989
+- Revolutionerne i Østeuropa 1989
+- Revolutions of 1989
+- Revoluções de 1989
+- Revoluțiile din 1989
+- Rivoluzioni del 1989
+- Réabhlóidí 1989
+- Sự sụp đổ của Liên Xô và Đông Âu
+- Val van het communisme in Oost-Europa
+- Επαναστάσεις του 1989
+- Восень народаў
+- Осінь народів
+- Револуције 1989.
+- Револуции од 1989 година
+- Революции 1989 года
+- Революции от 1989 г.
+- סתיו העמים
+- انقلابهای ۱۹۸۹
+- ثورات 1989
+- د ۱۹۸۹ ز کال انقلابونه
+- १९८९ की क्रांतियाँ
+- การปฏิวัติ ค.ศ. 1989
+- 东欧剧变
+- 東欧革命
+- 東歐劇變
+- 동유럽 혁명
 has_id_wikidata: Q382861
 country:
-  - "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
-  - "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
-  - "[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]"
-  - "[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348]]"
-  - "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
-  - "[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]"
-instance_of: "[[_Standards/WikiData/WD~revolutionary_wave,1886460]]"
-has_effect: "[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_Bulgaria,121932]]"
+- "[[_Standards/WikiData/WD~Polish_People's_Republic,211274]]"
+- '[[_Standards/WikiData/WD~Socialist_Republic_of_Romania,842794]]'
+- '[[_Standards/WikiData/WD~Czechoslovak_Socialist_Republic,853348]]'
+- "[[_Standards/WikiData/WD~Hungarian_People's_Republic,16410]]"
+- '[[_Standards/WikiData/WD~German_Democratic_Republic,16957]]'
+instance_of: '[[_Standards/WikiData/WD~revolutionary_wave,1886460]]'
+has_effect: '[[_Standards/WikiData/WD~dissolution_of_the_Soviet_Union,5167679]]'
 point_in_time: 1989-01-01T00:00:00Z
 start_time: 1989-03-09T00:00:00Z
 end_time: 1992-04-27T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EasternBlocAfter.svg
 Commons_category: Fall of Communism
+dv_has_:
+  name_:
+    ar: ثورات 1989
+    arz: ثورات 1989
+    ast: Revoluciones de 1989
+    ba: 1989 йылғы революциялар
+    be: Восень народаў
+    be-tarask: Восень народаў
+    bg: Революции от 1989 г.
+    bs: Pad komunizma
+    ca: Revolucions de 1989
+    ce: 1989 шеран революцеш
+    cs: Pád komunismu v Evropě
+    da: Revolutionerne i Østeuropa 1989
+    de: Revolutionen im Jahr 1989
+    el: Επαναστάσεις του 1989
+    en: Revolutions of 1989
+    eo: Falo de komunismo
+    es: Revoluciones de 1989
+    et: 1989. aasta Nõukogude režiimi vastased revolutsioonid
+    eu: 1989ko iraultzak
+    fa: انقلابهای ۱۹۸۹
+    fi: Itä-Euroopan vallankumoukset 1989
+    fr: chute des régimes communistes en Europe
+    ga: Réabhlóidí 1989
+    gcr: Chout di sé réjim kominis an Éròp
+    gl: Revolucións de 1989
+    he: סתיו העמים
+    hi: १९८९ की क्रांतियाँ
+    hr: Pad komunizma
+    hu: 1989-es forradalmak
+    hy: 1989 թվականի հեղափոխություններ
+    id: Revolusi 1989
+    it: Rivoluzioni del 1989
+    ja: 東欧革命
+    ka: 1989 წლის რევოლუციები
+    ko: 동유럽 혁명
+    la: Res novae anni 1989
+    lfn: Revoluis de 1989
+    lv: 1989. gada revolūcijas
+    mk: Револуции од 1989 година
+    ms: Era kejatuhan Komunisme
+    nl: Val van het communisme in Oost-Europa
+    oc: Revolucions de 1988-1989
+    pa: 1989 ਦੇ ਇਨਕਲਾਬ
+    pl: Jesień Ludów
+    pnb: 1989 دے انقلابات
+    ps: د ۱۹۸۹ ز کال انقلابونه
+    pt: Revoluções de 1989
+    ro: Revoluțiile din 1989
+    ru: Революции 1989 года
+    sh: Revolucije 1989.
+    sl: revolucije leta 1989
+    sr: Револуције 1989.
+    st: Liphetoho tsa 1989
+    sv: revolutionerna i Östeuropa 1989
+    th: การปฏิวัติ ค.ศ. 1989
+    tl: Mga Himagsikan ng 1989
+    tr: 1989 Devrimleri
+    uk: Осінь народів
+    ur: 1989 کے انقلابات
+    vi: Sự sụp đổ của Liên Xô và Đông Âu
+    wuu: 东欧剧变
+    yue: 東歐劇變
+    zh: 东欧剧变
+    zh-cn: 东欧剧变
+    zh-hans: 东欧剧变
+    zh-hant: 東歐劇變
+    zh-hk: 東歐劇變
+    zh-sg: 东欧剧变
+    zh-tw: 東歐劇變
 ---
-
 # [[1989_Revolutions]] 
 
 #is_/same_as :: [[WD~Revolutions_of_1989,382861]] 

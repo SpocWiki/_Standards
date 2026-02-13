@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Diplocentridae
+- Diplocentridae
+- διπλοκεντρίδες
+- נבואיים
+- 双棘蝎科
 title: Diplocentridae
+has_id_wikidata: Q9207682
+dv_has_:
+  name_:
+    af: Diplocentridae
+    an: Diplocentridae
+    ast: Diplocentridae
+    bar: Diplocentridae
+    bg: Diplocentridae
+    br: Diplocentridae
+    ca: Diplocentridae
+    ceb: Diplocentridae
+    co: Diplocentridae
+    cs: Diplocentridae
+    cy: Diplocentridae
+    da: Diplocentridae
+    de: Diplocentridae
+    de-at: Diplocentridae
+    de-ch: Diplocentridae
+    el: διπλοκεντρίδες
+    en: Diplocentridae
+    en-ca: Diplocentridae
+    en-gb: Diplocentridae
+    eo: Diplocentridae
+    es: Diplocentridae
+    et: Diplocentridae
+    eu: Diplocentridae
+    ext: Diplocentridae
+    fi: Diplocentridae
+    fr: Diplocentridae
+    frp: Diplocentridae
+    fur: Diplocentridae
+    ga: Diplocentridae
+    gd: Diplocentridae
+    gl: Diplocentridae
+    gsw: Diplocentridae
+    he: נבואיים
+    hr: Diplocentridae
+    hu: Diplocentridae
+    ia: Diplocentridae
+    id: Diplocentridae
+    ie: Diplocentridae
+    io: Diplocentridae
+    is: Diplocentridae
+    it: Diplocentridae
+    kg: Diplocentridae
+    la: Diplocentridae
+    lb: Diplocentridae
+    li: Diplocentridae
+    lij: Diplocentridae
+    mg: Diplocentridae
+    min: Diplocentridae
+    ms: Diplocentridae
+    mul: Diplocentridae
+    nap: Diplocentridae
+    nb: Diplocentridae
+    nds: Diplocentridae
+    nds-nl: Diplocentridae
+    nl: Diplocentridae
+    nn: Diplocentridae
+    nrm: Diplocentridae
+    nys: Diplocentridae
+    oc: Diplocentridae
+    pcd: Diplocentridae
+    pl: Diplocentridae
+    pms: Diplocentridae
+    pt: Diplocentridae
+    pt-br: Diplocentridae
+    rm: Diplocentridae
+    ro: Diplocentridae
+    ru: Diplocentridae
+    sc: Diplocentridae
+    scn: Diplocentridae
+    sco: Diplocentridae
+    sk: Diplocentridae
+    sl: Diplocentridae
+    sq: Diplocentridae
+    sv: Diplocentridae
+    sw: Diplocentridae
+    tr: Diplocentridae
+    uk: Diplocentridae
+    vec: Diplocentridae
+    vi: Diplocentridae
+    vls: Diplocentridae
+    vo: Diplocentridae
+    wa: Diplocentridae
+    war: Diplocentridae
+    wo: Diplocentridae
+    zh: 双棘蝎科
+    zh-cn: 双棘蝎科
+    zh-hans: 双棘蝎科
+    zu: Diplocentridae
 ---
-
 # [[Diplocentridae]] 
 
 ![Diplocentrus whitei](Diplocentridae/diplocentridae.jpg) 

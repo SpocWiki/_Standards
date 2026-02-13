@@ -1,9 +1,115 @@
 ---
 aliases:
-  - Trombidiformes
+- bársonyatka-alakúak
+- imilestalised
+- Trombidiformes
+- Тромбідіформні кліщі
+- тромбидиформные клещи
+- خطميات الشكل
+- مخملیشکلان
+- トロンビディフォルメス
+- 絨蟎目
+- 绒螨目
+- 털진드기목
 title: Trombidiformes
+has_id_wikidata: Q686325
+dv_has_:
+  name_:
+    af: Trombidiformes
+    an: Trombidiformes
+    ar: خطميات الشكل
+    arz: خطميات الشكل
+    ast: Trombidiformes
+    bar: Trombidiformes
+    be: Trombidiformes
+    bg: Trombidiformes
+    br: Trombidiformes
+    ca: trombidiformes
+    ceb: Trombidiformes
+    co: Trombidiformes
+    cs: Trombidiformes
+    cy: Trombidiformes
+    da: Trombidiformes
+    de: Trombidiformes
+    de-at: Trombidiformes
+    de-ch: Trombidiformes
+    en: Trombidiformes
+    en-ca: Trombidiformes
+    en-gb: Trombidiformes
+    eo: Trombidiformes
+    es: Trombidiformes
+    et: imilestalised
+    eu: Trombidiformes
+    ext: Trombidiformes
+    fa: مخملیشکلان
+    fi: Trombidiformes
+    fr: Trombidiformes
+    frp: Trombidiformes
+    frr: Trombidiformes
+    fur: Trombidiformes
+    ga: Trombidiformes
+    gd: Trombidiformes
+    gl: Trombidiformes
+    gsw: Trombidiformes
+    hr: Trombidiformes
+    hu: bársonyatka-alakúak
+    ia: Trombidiformes
+    id: Trombidiformes
+    ie: Trombidiformes
+    io: Trombidiformes
+    is: Trombidiformes
+    it: Trombidiformes
+    ja: トロンビディフォルメス
+    kg: Trombidiformes
+    ko: 털진드기목
+    la: Trombidiformes
+    lb: Trombidiformes
+    li: Trombidiformes
+    lij: Trombidiformes
+    mg: Trombidiformes
+    min: Trombidiformes
+    ms: Trombidiformes
+    mul: Trombidiformes
+    nap: Trombidiformes
+    nb: Trombidiformes
+    nds: Trombidiformes
+    nds-nl: Trombidiformes
+    nl: Trombidiformes
+    nn: Trombidiformes
+    nrm: Trombidiformes
+    nys: Trombidiformes
+    oc: Trombidiformes
+    pcd: Trombidiformes
+    pl: Trombidiformes
+    pms: Trombidiformes
+    pt: Trombidiformes
+    pt-br: Trombidiformes
+    rm: Trombidiformes
+    ro: Trombidiformes
+    ru: тромбидиформные клещи
+    sc: Trombidiformes
+    scn: Trombidiformes
+    sco: Trombidiformes
+    sk: Trombidiformes
+    sl: Trombidiformes
+    sq: Trombidiformes
+    sv: Trombidiformes
+    sw: Trombidiformes
+    tr: Trombidiformes
+    uk: Тромбідіформні кліщі
+    vec: Trombidiformes
+    vi: Trombidiformes
+    vls: Trombidiformes
+    vo: Trombidiformes
+    wa: Trombidiformes
+    war: Trombidiformes
+    wo: Trombidiformes
+    zh: 绒螨目
+    zh-cn: 绒螨目
+    zh-hans: 绒螨目
+    zh-tw: 絨蟎目
+    zu: Trombidiformes
 ---
-
 # [[Trombidiformes]] 
 
 Trombidiform mites 

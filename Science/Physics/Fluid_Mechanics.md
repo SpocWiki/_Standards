@@ -1,26 +1,91 @@
 ---
 aliases:
-  - fluid dynamics
-  - fluid mechanic
-  - hydromechanics
-  - Fluid_Mechanics
-  - Fluid Mechanics
+- akışkanlar mekaniği
+- cơ học chất lưu
+- fluid dynamics
+- fluid mechanic
+- Fluid Mechanics
+- fluidmekanik
+- fluidmekanikk
+- fluidoen mekanika
+- Fluid_Mechanics
+- hidroaeromehānika
+- hidroaeromexanika
+- hidromekaniko
+- hydromechanics
+- hüdromehaanika
+- Liù-thí li̍t-ho̍k
+- Liû-thé le̍k-ha̍k
+- mecaneg hylif
+- mecanica fluidelor
+- meccanica dei fluidi
+- mechanika płynów
+- mechanika tekutin
+- mechanika tekutín
+- mecànica dels fluids
+- mecánica de fluidos
+- mecánica de fluyíos
+- mecánica de fluídos
+- mecânica dos fluidos
+- mehanika fluida
+- mehanika tekočin
+- meicnic shreabhánach
+- mekanik bendalir
+- mekanika e fluideve
+- mekanika fluida
+- meĥaniko de fluidaĵoj
+- mécanique des fluides
+- pluwido nga mekanika
+- stromingsleer
+- strömningsmekanik
+- Strömungsmechanik
+- tamikanikt n iccig
+- virtausmekaniikka
+- áramlástan
+- μηχανική των ρευστών
+- гідрааэрамеханіка
+- гідрааэрамэханіка
+- гідроаеромеханіка
+- гидроаэромеханика
+- механика на флуидите
+- механика флуида
+- шингэний механик
+- Հիդրոմեխանիկա
+- מכניקת הזורמים
+- د مایعاتو میخانیک
+- سیالی آلاتیات
+- ميكانيكا الموائع
+- مکانیک شارهها
+- گىيدرومەحانىيكا
+- तरल बलविज्ञान
+- तरल यांत्रिकी
+- प्रवाह विज्ञान
+- প্রবাহী বলবিজ্ঞান
+- பாய்ம இயக்கவியல்
+- ദ്രവ ബലതന്ത്രം
+- තරල යාන්ත්ර විද්යාව
+- กลศาสตร์ของไหล
+- ჰიდროაერომექანიკა
+- 流体力学
+- 流體力學
+- 류체력학
+- 유체역학
 has_id_wikidata: Q172145
 part_of:
-  - '[[_Standards/WikiData/WD~continuum_mechanics,193463]]'
-  - '[[_Standards/WikiData/WD~fluid_mechanics_and_thermal_engineering,113210559]]'
+- '[[_Standards/WikiData/WD~continuum_mechanics,193463]]'
+- '[[_Standards/WikiData/WD~fluid_mechanics_and_thermal_engineering,113210559]]'
 subclass_of: '[[_Standards/WikiData/WD~continuum_mechanics,193463]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~aeromechanics,6593690]]'
-  - '[[_Standards/WikiData/WD~hydromechanics,31191973]]'
+- '[[_Standards/WikiData/WD~aeromechanics,6593690]]'
+- '[[_Standards/WikiData/WD~hydromechanics,31191973]]'
 has_characteristic: '[[_Standards/WikiData/WD~dimensionless_number_in_fluid_mechanics,20707835]]'
 different_from: '[[_Standards/WikiData/WD~hydromechanics,31191973]]'
 practiced_by: '[[_Standards/WikiData/WD~fluid_mechanist,109588238]]'
@@ -33,8 +98,97 @@ Stack_Exchange_tag: https://physics.stackexchange.com/tags/fluid-dynamics
 Iconclass_notation: 49E223
 Commons_category: Fluid mechanics
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/GIDROAEROMEHANIKA.html
+dv_has_:
+  name_:
+    af: stromingsleer
+    ar: ميكانيكا الموائع
+    ast: mecánica de fluyíos
+    az: hidroaeromexanika
+    be: гідрааэрамеханіка
+    be-tarask: гідрааэрамэханіка
+    bg: механика на флуидите
+    bn: প্রবাহী বলবিজ্ঞান
+    bs: mehanika fluida
+    ca: mecànica dels fluids
+    cs: mechanika tekutin
+    cy: mecaneg hylif
+    da: fluidmekanik
+    de: Strömungsmechanik
+    de-ch: Strömungsmechanik
+    el: μηχανική των ρευστών
+    en: fluid mechanics
+    en-ca: fluid mechanics
+    en-gb: fluid mechanics
+    eo: meĥaniko de fluidaĵoj
+    es: mecánica de fluidos
+    et: hüdromehaanika
+    eu: fluidoen mekanika
+    fa: مکانیک شارهها
+    fi: virtausmekaniikka
+    fr: mécanique des fluides
+    ga: meicnic shreabhánach
+    gl: mecánica de fluídos
+    hak: Liù-thí li̍t-ho̍k
+    he: מכניקת הזורמים
+    hi: तरल यांत्रिकी
+    hr: mehanika fluida
+    hu: áramlástan
+    hy: Հիդրոմեխանիկա
+    id: mekanika fluida
+    io: hidromekaniko
+    it: meccanica dei fluidi
+    ja: 流体力学
+    jv: mekanika fluida
+    ka: ჰიდროაერომექანიკა
+    kk: гидроаэромеханика
+    kk-arab: گىيدرومەحانىيكا
+    kk-cn: گىيدرومەحانىيكا
+    ko: 유체역학
+    ko-kp: 류체력학
+    ky: гидроаэромеханика
+    lv: hidroaeromehānika
+    mag: तरल बलविज्ञान
+    mk: механика на флуидите
+    ml: ദ്രവ ബലതന്ത്രം
+    mn: шингэний механик
+    mr: प्रवाह विज्ञान
+    ms: mekanik bendalir
+    nan: Liû-thé le̍k-ha̍k
+    nb: fluidmekanikk
+    nl: stromingsleer
+    nn: fluidmekanikk
+    om: fluid mechanics
+    pl: mechanika płynów
+    ps: د مایعاتو میخانیک
+    pt: mecânica dos fluidos
+    pt-br: mecânica dos fluidos
+    ro: mecanica fluidelor
+    ru: гидроаэромеханика
+    sh: mehanika fluida
+    shi: tamikanikt n iccig
+    si: තරල යාන්ත්ර විද්යාව
+    sk: mechanika tekutín
+    sl: mehanika tekočin
+    sq: mekanika e fluideve
+    sr: механика флуида
+    sv: strömningsmekanik
+    ta: பாய்ம இயக்கவியல்
+    th: กลศาสตร์ของไหล
+    tr: akışkanlar mekaniği
+    uk: гідроаеромеханіка
+    ur: سیالی آلاتیات
+    vi: cơ học chất lưu
+    war: pluwido nga mekanika
+    wuu: 流体力学
+    yue: 流體力學
+    zh: 流体力学
+    zh-cn: 流体力学
+    zh-hans: 流体力学
+    zh-hant: 流體力學
+    zh-hk: 流體力學
+    zh-sg: 流体力学
+    zh-tw: 流體力學
 ---
-
 # [[Fluid_Mechanics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fluid_mechanics,172145|WD~Fluid_mechanics,172145]] 

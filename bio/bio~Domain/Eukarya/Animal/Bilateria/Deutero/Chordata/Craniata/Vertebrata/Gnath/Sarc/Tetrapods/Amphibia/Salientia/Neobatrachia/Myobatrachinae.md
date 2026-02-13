@@ -1,9 +1,88 @@
 ---
 aliases:
-  - Myobatrachinae
+- australianhammaskonnat
+- Australinės rupūžės
+- Australische fluitkikkers
+- Australische Südfrösche
+- australtannfrosker
+- Limnodynastidae
+- Miobatràquid
+- Miobatráquidos
+- Mjobatraĥedoj
+- Myobatrachidae
+- Myobatrachinae
+- Nahatʼeʼiitsoh Bikéyahdę́ę́ʼ táyiʼ chʼał
+- Żółwinkowate
+- Австралійські жаби
+- австралийски жаби
+- Австралийские жабы
+- Ավստրալիական դոդոշներ
+- מיובטרכיים
+- ضفادع أرضية أسترالية
+- ضفادع ارضيه استراليه
+- قورباغههای زمینی استرالیا
+- カメガエル科
+- 龜蟾科
+- 龟蟾科
+- 거북개구리과
 title: Myobatrachinae
+has_id_wikidata: Q56058
+dv_has_:
+  name_:
+    an: Myobatrachidae
+    ar: ضفادع أرضية أسترالية
+    arz: ضفادع ارضيه استراليه
+    ast: Myobatrachidae
+    bg: австралийски жаби
+    ca: Miobatràquid
+    ceb: Limnodynastidae
+    de: Australische Südfrösche
+    de-ch: Australische Südfrösche
+    en: Myobatrachidae
+    en-ca: Myobatrachidae
+    en-gb: Myobatrachidae
+    eo: Mjobatraĥedoj
+    es: Myobatrachidae
+    eu: Myobatrachidae
+    ext: Myobatrachidae
+    fa: قورباغههای زمینی استرالیا
+    fi: australianhammaskonnat
+    fr: Myobatrachidae
+    ga: Myobatrachidae
+    gl: Miobatráquidos
+    he: מיובטרכיים
+    hu: Myobatrachidae
+    hy: Ավստրալիական դոդոշներ
+    ia: Myobatrachidae
+    ie: Myobatrachidae
+    io: Myobatrachidae
+    it: Myobatrachidae
+    ja: カメガエル科
+    ko: 거북개구리과
+    la: Myobatrachidae
+    lt: Australinės rupūžės
+    mul: Myobatrachidae
+    nb: australtannfrosker
+    nl: Australische fluitkikkers
+    nv: Nahatʼeʼiitsoh Bikéyahdę́ę́ʼ táyiʼ chʼał
+    oc: Myobatrachidae
+    pl: Żółwinkowate
+    pt: Myobatrachidae
+    pt-br: Myobatrachidae
+    ro: Myobatrachidae
+    ru: Австралийские жабы
+    sq: Myobatrachidae
+    sv: Limnodynastidae
+    tr: Myobatrachidae
+    uk: Австралійські жаби
+    vi: Myobatrachidae
+    vo: Myobatrachidae
+    war: Limnodynastidae
+    zh: 龟蟾科
+    zh-cn: 龟蟾科
+    zh-hans: 龟蟾科
+    zh-tw: 龜蟾科
 ---
-
 # [[Myobatrachinae]]
 
 Myobatrachine Frogs 

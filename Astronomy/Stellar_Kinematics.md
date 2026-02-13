@@ -1,29 +1,96 @@
 ---
 aliases:
+- Beweegungskoup
+- Bewegungshaufen
+- Cinematica stellare
+- Cinematică stelară
+- cinemàtica estel·lar
+- cinemática estelar
+- cinématique stellaire
+- Izar-zinematika
+- Kinematik bintang
+- Kinematika bintang
+- Liikkuva ryhmä
+- stela kinematiko
+- stellar kinematics
+- sterkinematika
+- Stjerne-assosiasjon
+- stjernekinematikk
+- Yıldız topluluğu
+- Zvezdana kinematika
+- zvezdna knematika
+- ѕвездена кинематика
+- Жылдыздардын кыймылы
+- звёздная кинематика
+- зорная кінэматыка
+- Зоряна кінематика
+- سینماتیک ستارهای
+- علم حركة النجوم
+- จลนศาสตร์ดาวฤกษ์
+- 恆星運動學
+- 運動星団
+- 항성 운동학
 has_id_wikidata: Q6440
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-subclass_of: "[[_Standards/WikiData/WD~kinematics,11476]]"
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~kinematics,11476]]'
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]"
-    - "[[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]]"
-    - "[[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]]"
-    - "[[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]]"
-    - "[[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]]"
-    - "[[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]]"
-    - "[[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]]"
-    - "[[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]]"
+  - '[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]'
+  - '[[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]]'
+  - '[[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]]'
+  - '[[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]]'
+  - '[[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]]'
+  - '[[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]]'
+  - '[[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]]'
+  - '[[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]"
-  - "[[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]]"
-  - "[[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]]"
-  - "[[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]]"
-  - "[[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]]"
-  - "[[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]]"
-  - "[[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]]"
-  - "[[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]]"
+- '[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]'
+- '[[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]]'
+- '[[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]]'
+- '[[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]]'
+- '[[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]]'
+- '[[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]]'
+- '[[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]]'
+- '[[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]]'
+dv_has_:
+  name_:
+    af: sterkinematika
+    ar: علم حركة النجوم
+    be-tarask: зорная кінэматыка
+    ca: cinemàtica estel·lar
+    de: Bewegungshaufen
+    de-ch: Bewegungshaufen
+    en: stellar kinematics
+    en-ca: Stellar kinematics
+    en-gb: stellar kinematics
+    eo: stela kinematiko
+    es: cinemática estelar
+    eu: Izar-zinematika
+    fa: سینماتیک ستارهای
+    fi: Liikkuva ryhmä
+    fr: cinématique stellaire
+    id: Kinematika bintang
+    it: Cinematica stellare
+    ja: 運動星団
+    ko: 항성 운동학
+    ky: Жылдыздардын кыймылы
+    lb: Beweegungskoup
+    mk: ѕвездена кинематика
+    ms: Kinematik bintang
+    nb: stjernekinematikk
+    nn: Stjerne-assosiasjon
+    pt: Cinemática estelar
+    pt-br: Cinemática estelar
+    ro: Cinematică stelară
+    ru: звёздная кинематика
+    sl: zvezdna knematika
+    sr: Zvezdana kinematika
+    th: จลนศาสตร์ดาวฤกษ์
+    tr: Yıldız topluluğu
+    uk: Зоряна кінематика
+    yue: 恆星運動學
+    zh: 恆星運動學
 ---
-
 # [[Stellar_Kinematics]] 
 
 #is_/same_as :: [[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]  

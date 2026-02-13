@@ -1,17 +1,105 @@
 ---
 aliases:
+- Emisie stimulată
+- Emisión estimulada
+- emisja wymuszona
+- emissione stimolata
+- emissió estimulada
+- emissão estimulada
+- Gestimuleerde emissie
+- igorpen kitzikatu
+- Mäjbür säwlelenw
+- Phát xạ kích thích
+- Priverstinis spinduliavimas
+- stimulata emisio
+- stimulated emission
+- Stimuleeritud kiirgus
+- Stimulerad emission
+- stimuleret emission
+- stimulierte Emission
+- stimulirana emisija
+- Stimulisana emisija
+- stimuloitu emissio
+- Stimulovaná emise
+- émission stimulée
+- Албадмал цацрал
+- вимушене випромінювання
+- вымушанае выпраменьваньне
+- Вымушанае выпрамяненне
+- вынужденное излучение
+- Мәжбүр сәулелену
+- поттикнато лачење
+- Стімулована емісія
+- Ստիպողական ճառագայթում
+- פליטה מאולצת
+- إصدار منبه
+- ٴماجبۇر ساۋلەلەنۋ
+- گسیل تحریکی
+- उद्दीप्त उत्सर्जन
+- 受激发射
+- 受激發射
+- 誘導放出
+- 자극 방출
 has_id_wikidata: Q853656
-instance_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-studied_by: "[[_Standards/WikiData/WD~laser_science,4252992]]"
-subclass_of: "[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]"
-has_use: "[[_Standards/WikiData/WD~laser,38867]]"
+instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+studied_by: '[[_Standards/WikiData/WD~laser_science,4252992]]'
+subclass_of: '[[_Standards/WikiData/WD~electromagnetic_radiation,12969754]]'
+has_use: '[[_Standards/WikiData/WD~laser,38867]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.ogv
 IEV_number: 845-24-045
 Commons_category: Stimulated emission
+dv_has_:
+  name_:
+    ar: إصدار منبه
+    be: Вымушанае выпрамяненне
+    be-tarask: вымушанае выпраменьваньне
+    ca: emissió estimulada
+    cs: Stimulovaná emise
+    da: stimuleret emission
+    de: stimulierte Emission
+    en: stimulated emission
+    en-ca: Stimulated emission
+    en-gb: Stimulated emission
+    eo: stimulata emisio
+    es: Emisión estimulada
+    et: Stimuleeritud kiirgus
+    eu: igorpen kitzikatu
+    fa: گسیل تحریکی
+    fi: stimuloitu emissio
+    fr: émission stimulée
+    he: פליטה מאולצת
+    hi: उद्दीप्त उत्सर्जन
+    hy: Ստիպողական ճառագայթում
+    it: emissione stimolata
+    ja: 誘導放出
+    kk: Мәжбүр сәулелену
+    kk-arab: ٴماجبۇر ساۋلەلەنۋ
+    kk-cyrl: Мәжбүр сәулелену
+    kk-latn: Mäjbür säwlelenw
+    ko: 자극 방출
+    lt: Priverstinis spinduliavimas
+    mk: поттикнато лачење
+    mn: Албадмал цацрал
+    nl: Gestimuleerde emissie
+    pl: emisja wymuszona
+    pt: emissão estimulada
+    pt-br: Emissão estimulada
+    ro: Emisie stimulată
+    ru: вынужденное излучение
+    rue: Стімулована емісія
+    sl: stimulirana emisija
+    sr: Stimulisana emisija
+    sv: Stimulerad emission
+    uk: вимушене випромінювання
+    vi: Phát xạ kích thích
+    wuu: 受激发射
+    zh: 受激发射
+    zh-hans: 受激发射
+    zh-hant: 受激發射
+    zh-hk: 受激發射
 ---
-
 # [[Stimulated_Emission]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stimulated_emission,853656|WD~Stimulated_emission,853656]]  

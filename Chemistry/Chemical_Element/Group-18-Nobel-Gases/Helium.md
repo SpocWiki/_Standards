@@ -1,32 +1,139 @@
 ---
 aliases:
-  - Helium
+- Ahilyum
+- Eli
+- Elie
+- elio
+- eliom
+- Eliu
+- eliyumu
+- elju
+- Elyo
+- Elyòm
+- Gelii
+- Geliy
+- hailium
+- haumāmā
+- He
+- Heelim
+- heelium
+- Heeliyeemii
+- hel
+- heli
+- helij
+- Helin
+- helio
+- Heliom
+- Helis
+- heliu
+- Helium
+- Heliumi
+- heliumo
+- heliwm
+- Heliôma
+- Helyo
+- Helyum
+- Helyûm
+- helín
+- Hiliuma
+- Hiliyaam
+- Hiliyamu
+- Hoi
+- Hâi
+- héiliam
+- hélio
+- hélium
+- Hílíọ̀m
+- hēlijs
+- IHwelanga
+- Iiliom
+- ijo lili nanpa 2
+- Iliumi
+- Ilyu
+- Keriyaamu
+- Níłchʼi Ászólí
+- solnavni
+- Tataveve
+- Tōnatiuyoh
+- Èli
+- Èliu
+- Êli
+- ήλιο
+- Ήλιον
+- гелій
+- Гели
+- гелий
+- Гелион
+- гель
+- Хєлїи
+- хелијум
+- хелий
+- хелиум
+- հելիում
+- הליום
+- העליום
+- شمصر
+- هلیوم
+- هيليئم
+- هيليوم
+- هېليوم
+- گېلىي
+- ھیلیۆم
+- ہیلیم
+- यानाति
+- हिलियम
+- हीलियम
+- हेलियम
+- হিলিয়াম
+- ਹੀਲਿਆਮ
+- હીલિયમ
+- ହିଲିୟମ
+- ஈலியம்
+- హీలియం
+- ಹೀಲಿಯಮ್
+- ഹീലിയം
+- හීලියම්
+- ฮีเลียม
+- ຮີລຽມ
+- ཧེ་རླུང་།
+- ဟီလီယမ်
+- ჰელიუმი
+- ሒሊየም
+- ᎦᏌᎧᎯᎨ ᎤᏃᎴ
+- អេលីយ៉ូម
+- ᱦᱤᱞᱤᱭᱟᱢ
+- ⴰⵀⵉⵍⵢⵓⵎ
+- ヘリウム
+- 氦
+- ꯍꯤꯂꯤꯌꯝ
+- 헬륨
+- 헬리움
 has_id_wikidata: Q560
-antiparticle: "[[_Standards/WikiData/WD~anti-helium,1991752]]"
+antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
 ASHRAE_refrigerant_number: 704
 ATC_code: V03AN03
 atomic_number: 2
 boiling_point: -268.9
-by_product_of: "[[_Standards/WikiData/WD~natural-gas_processing,2287558]]"
-canonical_SMILES: "[He]"
+by_product_of: '[[_Standards/WikiData/WD~natural-gas_processing,2287558]]'
+canonical_SMILES: '[He]'
 CAS_Registry_Number: 7440-59-7
 chemical_formula: He
 Commons_category: Helium
 Common_Procurement_Vocabulary_code: 24111300
-conjugate_acid: "[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]"
+conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]'
 density: 0.1785
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Hel,223931]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Hel,223931]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Norman_Lockyer,127959]]"
-  - "[[_Standards/WikiData/WD~Pierre_Janssen,298581]]"
-  - "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
+- '[[_Standards/WikiData/WD~Norman_Lockyer,127959]]'
+- '[[_Standards/WikiData/WD~Pierre_Janssen,298581]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID5016402
 EC_number: 231-168-5
 electronegativity: 4.5
@@ -34,44 +141,44 @@ electron_configuration: 1s²
 element_symbol: He
 E_number: E939
 has_characteristic:
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
+- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
 has_use:
-  - "[[_Standards/WikiData/WD~food_additive,189567]]"
-  - "[[_Standards/WikiData/WD~coolant,1056832]]"
-  - "[[_Standards/WikiData/WD~component,1310239]]"
-  - "[[_Standards/WikiData/WD~lifting_gas,1408137]]"
+- '[[_Standards/WikiData/WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~coolant,1056832]]'
+- '[[_Standards/WikiData/WD~component,1310239]]'
+- '[[_Standards/WikiData/WD~lifting_gas,1408137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg
 InChI: InChI=1S/He
 InChIKey: SWQJXJOGLNCZEY-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 Krugosvet_article: nauka_i_tehnika/himiya/GELI.html
 mass: 4.002602
 melting_point: -272.05
 MeSH_tree_code:
-  - D01.268.613.350
-  - D01.362.641.352
-named_after: "[[_Standards/WikiData/WD~Helios,134270]]"
+- D01.268.613.350
+- D01.362.641.352
+named_after: '[[_Standards/WikiData/WD~Helios,134270]]'
 OmegaWiki_Defined_Meaning: 7296
 part_of:
-  - "[[_Standards/WikiData/WD~period_1,191936]]"
-  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
+- '[[_Standards/WikiData/WD~period_1,191936]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609]]'
 PubChem_CID: 23987
 refractive_index: 1.000036
 speed_of_sound:
-  - 180
-  - 965
+- 180
+- 965
 SpocWebEntityId: 21905
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Helium.ogg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/helium
 standard_molar_entropy: 126
 subclass_of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
-  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
+- '[[_Standards/WikiData/WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609]]'
 time_of_discovery_or_invention: 1868-08-18
 type: Element
 UMLS_CUI: C0018880
@@ -80,21 +187,241 @@ U_S_National_Archives_Identifier: 10640583
 ZVG_number: 7020
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Helium,560_WD~Helium,560]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|Helium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public|Helium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal|Helium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.protect|Helium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.private|Helium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal|Helium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret|Helium.secret]]"
-  part_of: "[[../Group-18-Nobel-Gases]]"
+  - '[[../../../WikiData/WD~Helium,560_WD~Helium,560]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|Helium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public|Helium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal|Helium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.protect|Helium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.private|Helium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal|Helium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret|Helium.secret]]'
+  part_of: '[[../Group-18-Nobel-Gases]]'
 dv_has_:
   name_:
-    group: Group-18-Nobel-Gases
-    en: Helium
-    de: Helium
     abbreviated: He
+    af: Helium
+    am: ሒሊየም
+    an: Helio
+    anp: हीलियम
+    ar: هيليوم
+    ary: هيليوم
+    arz: هيليوم
+    as: হিলিয়াম
+    ast: heliu
+    awa: हेलियम
+    az: Helium
+    azb: هلیوم
+    ba: Гелий
+    ban: Hélium
+    bcl: Elyo
+    be: гелій
+    be-tarask: гель
+    bg: хелий
+    bho: हीलियम
+    blk: ဟီလီယမ်
+    bn: হিলিয়াম
+    bo: ཧེ་རླུང་།
+    br: Heliom
+    bs: helij
+    bxr: Гели
+    ca: heli
+    cdo: Hâi
+    ceb: Helyo
+    chr: ᎦᏌᎧᎯᎨ ᎤᏃᎴ
+    ckb: ھیلیۆم
+    co: Eliu
+    cs: helium
+    cu: Хєлїи
+    cv: Гели
+    cy: heliwm
+    da: helium
+    de: Helium
+    de-ch: Helium
+    diq: Helyum
+    el: ήλιο
+    eml: Êli
+    en: helium
+    en-ca: Helium
+    en-gb: helium
+    eo: heliumo
+    es: helio
+    et: heelium
+    eu: helio
+    fa: هلیوم
+    fi: helium
+    fj: Iliumi
+    fo: Helium
+    fr: hélium
+    frr: Helium
+    fur: Eli
+    fy: helium
+    ga: héiliam
+    gan: 氦
+    gd: Helium
+    gl: helio
+    gn: Tataveve
+    group: Group-18-Nobel-Gases
+    gu: હીલિયમ
+    gv: hailium
+    hak: Hoi
+    haw: Hiliuma
+    he: הליום
+    hi: यानाति
+    hif: Helium
+    hr: helij
+    hsb: helium
+    ht: Elyòm
+    hu: hélium
+    hy: հելիում
+    ia: helium
+    id: helium
+    ie: Helium
+    ilo: helio
+    io: helio
+    is: helín
+    it: elio
+    ja: ヘリウム
+    jam: Iiliom
+    jbo: solnavni
+    jv: Helium
+    ka: ჰელიუმი
+    kbp: Heelim
+    kge: Helium
+    ki: Helium
+    kk: Гелий
+    km: អេលីយ៉ូម
+    kn: ಹೀಲಿಯಮ್
+    knc: Helium
+    ko: 헬륨
+    ko-kp: 헬리움
+    koi: Гелий
+    ksh: Helium
+    ku: Helyûm
+    kv: Гелий
+    kw: Heliom
+    ky: Гелий
+    la: helium
+    lb: Helium
+    lfn: elio
+    lg: Keriyaamu
+    li: Helium
+    lij: Elio
+    lld: Elie
+    lmo: Eli
+    ln: eliyumu
+    lo: ຮີລຽມ
+    lt: Helis
+    lv: hēlijs
+    lzh: 氦
+    mg: Heliôma
+    mi: haumāmā
+    mk: хелиум
+    ml: ഹീലിയം
+    mn: гели
+    mni: ꯍꯤꯂꯤꯌꯝ
+    mr: हेलियम
+    mrj: Гелий
+    ms: helium
+    ms-arab: هيليوم
+    mt: elju
+    mul: He
+    my: ဟီလီယမ်
+    myv: Гелий
+    nah: Tōnatiuyoh
+    nan: He
+    nb: helium
+    nds: Helium
+    ne: हेलियम
+    new: हिलियम
+    nl: helium
+    nn: helium
+    nov: helium
+    nv: Níłchʼi Ászólí
+    oc: Èli
+    olo: Helium
+    om: Heeliyeemii
+    or: ହିଲିୟମ
+    os: гелий
+    pa: ਹੀਲਿਆਮ
+    pap: Helium
+    pi: हेलियम
+    pl: hel
+    pms: Elio
+    pnb: ہیلیم
+    pnt: Ήλιον
+    ps: هېليوم
+    pt: hélio
+    pt-br: hélio
+    qu: Ilyu
+    ro: heliu
+    ru: гелий
+    rue: Гелий
+    rup: Heliu
+    sa: यानाति
+    sah: Гелий
+    sat: ᱦᱤᱞᱤᱭᱟᱢ
+    sc: Èliu
+    scn: eliu
+    sco: Helium
+    sd: هيليئم
+    se: helium
+    sgs: Helis
+    sh: Helij
+    shi: Ahilyum
+    si: හීලියම්
+    sk: hélium
+    sl: helij
+    smn: helium
+    sn: Helium
+    so: Hiliyaam
+    sq: Heliumi
+    sr: хелијум
+    stq: Helium
+    su: Hélium
+    sv: helium
+    sw: Heli
+    ta: ஈலியம்
+    te: హీలియం
+    tg: гелий
+    th: ฮีเลียม
+    tl: Helyo
+    tok: ijo lili nanpa 2
+    tr: Helyum
+    tt: гелий
+    tt-cyrl: гелий
+    tum: Hiliyamu
+    tyv: Гелий
+    ug: گېلىي
+    uk: гелій
+    ur: شمصر
+    uz: Geliy
+    vep: Gelii
+    vi: heli
+    vls: helium
+    vo: Helin
+    wa: eliom
+    war: Helyo
+    wuu: 氦
+    xal: Гелион
+    xmf: ჰელიუმი
+    yi: העליום
+    yo: Hílíọ̀m
+    yue: 氦
+    zgh: ⴰⵀⵉⵍⵢⵓⵎ
+    zh: 氦
+    zh-cn: 氦
+    zh-hans: 氦
+    zh-hant: 氦
+    zh-hk: 氦
+    zh-mo: 氦
+    zh-my: 氦
+    zh-sg: 氦
+    zh-tw: 氦
+    zu: IHwelanga
+  number_of_:
+    period: 1
+    group: 18
+    electrons: 2
   value_for_:
     weight_:
       u: 4.0026
@@ -122,21 +449,17 @@ dv_has_:
       form_:
         kj_:
           mol: 0.0845
-  number_of_:
-    period: 1
-    group: 18
-    electrons: 2
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Helium,560_WD~Helium,560]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|Helium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public|Helium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal|Helium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.protect|Helium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.private|Helium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal|Helium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret|Helium.secret]]"
+- '[[../../../WikiData/WD~Helium,560_WD~Helium,560]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|Helium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public|Helium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal|Helium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.protect|Helium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.private|Helium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal|Helium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret|Helium.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: "[[../Group-18-Nobel-Gases]]"
+dv_is_part_of: '[[../Group-18-Nobel-Gases]]'
 dv_has_name_en: Helium
 dv_has_name_de: Helium
 dv_has_value_for_weight_u: 4.0026
@@ -157,7 +480,6 @@ dv_has_number_of_group: 18
 dv_has_name_abbreviated: He
 dv_has_number_of_electrons: 2
 ---
-
 #is_/same_as :: [[../../../WikiData/WD~Helium,560_WD~Helium,560]]
 
 #chemic/Element 

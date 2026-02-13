@@ -1,24 +1,175 @@
 ---
 aliases:
-  - Herbizid
-  - weed killer
-  - weed killers
-  - Herbicide
+- diserbante
+- Erbicid
+- erbicida
+- Gerbitsidlar
+- Gerbïcïdter
+- Herbicid
+- herbicida
+- Herbicidai
+- Herbicide
+- Herbicidet
+- Herbicidi
+- herbicido
+- herbicyd
+- herbicíd
+- herbicīdi
+- herbisida
+- Herbisidi
+- Herbisidlər
+- herbisit
+- Herbitsiid
+- Herbizid
+- Herbizida
+- Hérbisida
+- luibhicíd
+- Racun rumpai
+- Thuốc diệt cỏ
+- ukrudtsmiddel
+- weed killer
+- weed killers
+- Yerbicida
+- Yerbicide
+- Ζιζανιοκτόνο
+- Атразин
+- гербіциди
+- гербіцыд
+- Гербіцыды
+- гербицид
+- Гербицидтер
+- Гербициттне
+- Хербицид
+- Үсемлек үтергечләр
+- Հերբիցիդներ
+- קוטלי עשבים
+- علفکش
+- مبيد أعشاب
+- واښه وژونکي
+- گەربىيتسىيدتەر
+- तणनाशक
+- शाकनाशी
+- ਨਦੀਨ-ਨਾਸ਼ਕ ਦਵਾਈਆਂ
+- નિંદામણનાશક
+- களைக்கொல்லி
+- കളനാശിനി
+- สารกำจัดวัชพืช
+- ပေါင်းပင်သတ်ဆီး
+- ပေါင်းပင်သတ်ဆေး
+- ჰერბიციდები
+- 除草剂
+- 除草剤
+- 除草劑
+- 제초제
 has_id_wikidata: Q178266
 subclass_of:
-  - '[[_Standards/WikiData/WD~pesticide,131656]]'
-  - '[[_Standards/WikiData/WD~phytopharmaceuticals,902296]]'
+- '[[_Standards/WikiData/WD~pesticide,131656]]'
+- '[[_Standards/WikiData/WD~phytopharmaceuticals,902296]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Herbicides,10548781]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 GS1_GPC_code: 10003227
 U_S_National_Archives_Identifier: 10640860
 Common_Procurement_Vocabulary_code: 24453000
 MeSH_tree_code:
-  - D27.720.031.700.366
-  - D27.888.723.366
+- D27.720.031.700.366
+- D27.888.723.366
 Commons_category: Herbicides
+dv_has_:
+  name_:
+    ar: مبيد أعشاب
+    ast: Yerbicida
+    az: Herbisidlər
+    be: Гербіцыды
+    be-tarask: гербіцыд
+    bg: Хербицид
+    bs: Herbicid
+    ca: herbicida
+    cs: herbicid
+    da: ukrudtsmiddel
+    de: Herbizid
+    el: Ζιζανιοκτόνο
+    en: herbicide
+    en-ca: Herbicide
+    en-gb: Herbicide
+    eo: herbicido
+    es: herbicida
+    et: Herbitsiid
+    eu: Herbizida
+    fa: علفکش
+    fi: Herbisidi
+    fr: herbicide
+    ga: luibhicíd
+    gl: herbicida
+    gu: નિંદામણનાશક
+    he: קוטלי עשבים
+    hi: शाकनाशी
+    hr: Herbicidi
+    hu: herbicid
+    hy: Հերբիցիդներ
+    id: herbisida
+    it: diserbante
+    ja: 除草剤
+    ka: ჰერბიციდები
+    kk: Гербицидтер
+    kk-arab: گەربىيتسىيدتەر
+    kk-cn: گەربىيتسىيدتەر
+    kk-cyrl: Гербицидтер
+    kk-kz: Гербицидтер
+    kk-latn: Gerbïcïdter
+    kk-tr: Gerbïcïdter
+    ko: 제초제
+    ky: Гербицид
+    la: Herbicida
+    lt: Herbicidai
+    lv: herbicīdi
+    mdf: Гербициттне
+    ml: കളനാശിനി
+    mn: Гербицид
+    mr: तणनाशक
+    ms: Racun rumpai
+    my: ပေါင်းပင်သတ်ဆေး
+    nb: herbicid
+    ne: शाकनाशी
+    nl: herbicide
+    oc: erbicida
+    pa: ਨਦੀਨ-ਨਾਸ਼ਕ ਦਵਾਈਆਂ
+    pl: herbicyd
+    ps: واښه وژونکي
+    pt: herbicida
+    pt-br: herbicida
+    rki: ပေါင်းပင်သတ်ဆီး
+    ro: Erbicid
+    ru: гербицид
+    sco: Yerbicide
+    sh: Herbicidi
+    sk: herbicíd
+    sl: herbicid
+    sq: Herbicidet
+    sr: хербицид
+    sr-ec: хербицид
+    sr-el: herbicid
+    su: Hérbisida
+    sv: herbicid
+    ta: களைக்கொல்லி
+    tg: Атразин
+    th: สารกำจัดวัชพืช
+    tr: herbisit
+    tt: Үсемлек үтергечләр
+    tyv: Гербицид
+    udm: гербицид
+    uk: гербіциди
+    uz: Gerbitsidlar
+    vi: Thuốc diệt cỏ
+    wuu: 除草剂
+    yue: 除草劑
+    zh: 除草剂
+    zh-cn: 除草剂
+    zh-hans: 除草剂
+    zh-hant: 除草劑
+    zh-hk: 除草劑
+    zh-sg: 除草剂
+    zh-tw: 除草劑
 ---
-
 # [[Herbicide]] 
 
 #is_/same_as :: [[WD~Herbicide,178266]] 

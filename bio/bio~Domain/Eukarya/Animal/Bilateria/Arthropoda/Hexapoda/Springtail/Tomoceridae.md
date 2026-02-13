@@ -1,9 +1,60 @@
 ---
 aliases:
-  - Tomoceridae
+- Entomobryomorpha
+- Tomoceridae
+- Łeʼesoołii łibáhígíí
+- Ентомобрийоморфа
+- أشباه الأشينيات
+- اشباة الاشينيات
+- 長角目
+- 长角䖴目
+- 톡토기목
 title: Tomoceridae
+has_id_wikidata: Q1045208
+dv_has_:
+  name_:
+    an: Entomobryomorpha
+    ar: أشباه الأشينيات
+    arz: اشباة الاشينيات
+    ast: Entomobryomorpha
+    bg: Entomobryomorpha
+    ca: Entomobryomorpha
+    ceb: Entomobryomorpha
+    de: Entomobryomorpha
+    en: Entomobryomorpha
+    eo: Entomobryomorpha
+    es: Entomobryomorpha
+    eu: Entomobryomorpha
+    ext: Entomobryomorpha
+    fi: Entomobryomorpha
+    fr: Entomobryomorpha
+    ga: Entomobryomorpha
+    gl: Entomobryomorpha
+    ia: Entomobryomorpha
+    ie: Entomobryomorpha
+    io: Entomobryomorpha
+    it: Entomobryomorpha
+    ko: 톡토기목
+    la: Entomobryomorpha
+    mul: Entomobryomorpha
+    nl: Entomobryomorpha
+    nv: Łeʼesoołii łibáhígíí
+    oc: Entomobryomorpha
+    pl: Entomobryomorpha
+    pt: Entomobryomorpha
+    pt-br: Entomobryomorpha
+    ro: Entomobryomorpha
+    ru: Ентомобрийоморфа
+    sq: Entomobryomorpha
+    uk: Entomobryomorpha
+    vi: Entomobryomorpha
+    vo: Entomobryomorpha
+    war: Entomobryomorpha
+    zh: 长角䖴目
+    zh-cn: 长角䖴目
+    zh-hans: 长角䖴目
+    zh-tw: 長角目
 ---
-
 # [[Tomoceridae]] 
 
 ![Tomocerus_longicornis](Tomoceridae/Tomocerus_longicornis.jpg)  ![Tomocerus_minor](Tomoceridae/Tomocerus_minor.jpg) 

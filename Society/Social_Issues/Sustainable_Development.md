@@ -1,28 +1,252 @@
 ---
 aliases:
+- Barqaror rivojlanish
+- berekraftig utvikling
+- bæredygtig udvikling
+- bærekraftig utvikling
+- ceavzilis ovdáneapmi
+- darnusis vystymasis
+- Datblygu cynaliadwy
+- dayanıqlı inkişaf
+- daŭrigebla disvolviĝo
+- desarrollo sostenible
+- Desembolique sostenible
+- desenvolupament sostenible
+- desenvolvemento sustentábel
+- desenvolvimento sustentável
+- Desenvolvimientu sostenible
+- Desvolopament sostenable
+- Devlòpman dirab
+- devolutio durabilis
+- dezvoltare durabilă
+- Diorren padus
+- Duorsume ûntwikkeling
+- duurzame ontwikkeling
+- développement durable
+- fenntartható fejlődés
+- forbairt inbhuanaithe
+- garapen iraunkor
+- Hat'alliykuq kururay
+- hållbar utveckling
+- Ilgtspējīga attīstība
+- jätkusuutlik areng
+- kestävä kehitys
+- kilelis ovdánem
+- Lekwɛ́t alāʼ zi anāŋ naŋa
+- maendeleo endelevu
+- mmepe na adigide
+- nachhaltige Entwicklung
+- Nhluvukiso lowu nga heriki
+- Nkɔsoɔ a ɛtena hɔ daa(Sustainable development)
+- Nochhaltigi Entwicklig
+- Nohalteg Entwécklung
+- Održivi razvoj
+- Ornıqtı damw
+- Pembangunan berkelanjutan
+- Pembangunan mampan
+- phát triển bền vững
+- Sjálfbær þróun
+- sustainable development
+- Susteninda developo
+- Sustinable nga pagpauswag
+- sviluppo sostenibile
+- sürdürülebilir kalkınma
+- trajnostni razvoj
+- trvale udržitelný rozvoj
+- trvalo udržateľný rozvoj
+- Tvereiguo raisteiba
+- Volhoubare ontwikkeling
+- Zambolbimiento sustentable
+- Zhvillimi i qëndrueshëm
+- zrównoważony rozwój
+- ǩeâllʼjeei ouddnummuš
+- αειφόρος ανάπτυξη
+- виважений розвиток
+- одрживи развој
+- Одржлив развој
+- орнықты даму
+- Рушди устувор
+- Тĕреклĕ аталану
+- тотрыклы үсеш
+- устойлівае развіццё
+- устойлівае разьвіцьцё
+- Устойчиво развитие
+- устойчивое развитие
+- Կայուն զարգացում
+- פיתוח בר-קיימא
+- تلپاتې وده
+- تنمية مستدامة
+- توسعه پایا
+- ورنىقتى دامۋ
+- پائيدار ترقي
+- پائیدار ترقی
+- پەرەسەندنی بەردەوام
+- ߥߙߎߞߌ߫ ߓߟߏߕߍ߰ߓߊߟߌ
+- टिकाऊ विकास
+- दिगो विकास
+- शाश्वत विकास
+- सस्टेनेबल डेवलपमेंट
+- টেকসই উন্নয়ন
+- বহনক্ষম উন্নয়ন
+- ਪਾਏਦਾਰ ਵਿਕਾਸ
+- અક્ષય વિકાસ
+- நிலைத்த மேம்பாடு
+- സുസ്ഥിര വികസനം
+- තිරසාර සංවර්ධනය
+- การพัฒนาอย่างยั่งยืน
+- ການພັດທະນາແບບຍືນຍົງ
+- მდგრადი განვითარება
+- 可持續發展
+- 可持续发展
+- 持続可能な開発
+- 永續發展
+- 지속 가능한 발전
 has_id_wikidata: Q131201
-has_characteristic: "[[_Standards/WikiData/WD~sustainability,219416]]"
-facet_of: "[[_Standards/WikiData/WD~human_development,2917873]]"
+has_characteristic: '[[_Standards/WikiData/WD~sustainability,219416]]'
+facet_of: '[[_Standards/WikiData/WD~human_development,2917873]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~development,7562091]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-studied_by: "[[_Standards/WikiData/WD~urban_studies,23578769]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Sustainable_Development,56507949]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_policy,96251375]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~development,7562091]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+studied_by: '[[_Standards/WikiData/WD~urban_studies,23578769]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Sustainable_Development,56507949]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_policy,96251375]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
 Library_of_Congress_Classification: HC79.E5
 Commons_category: Sustainable development
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sustainable%20development.svg
 UMLS_CUI: C0282113
 MeSH_tree_code:
-  - I01.655.500.608.700
-  - N06.230.080.900
-Dewey_Decimal_Classification: "338.927"
+- I01.655.500.608.700
+- N06.230.080.900
+Dewey_Decimal_Classification: 338.927
+dv_has_:
+  name_:
+    af: Volhoubare ontwikkeling
+    an: Desembolique sostenible
+    ar: تنمية مستدامة
+    arz: تنمية مستدامة
+    as: বহনক্ষম উন্নয়ন
+    ast: Desenvolvimientu sostenible
+    az: dayanıqlı inkişaf
+    be: устойлівае развіццё
+    be-tarask: устойлівае разьвіцьцё
+    bg: Устойчиво развитие
+    bho: सस्टेनेबल डेवलपमेंट
+    bn: টেকসই উন্নয়ন
+    br: Diorren padus
+    bs: Održivi razvoj
+    ca: desenvolupament sostenible
+    ckb: پەرەسەندنی بەردەوام
+    cs: trvale udržitelný rozvoj
+    cv: Тĕреклĕ аталану
+    cy: Datblygu cynaliadwy
+    da: bæredygtig udvikling
+    de: nachhaltige Entwicklung
+    de-ch: Nachhaltige Entwicklung
+    el: αειφόρος ανάπτυξη
+    en: sustainable development
+    en-ca: sustainable development
+    en-gb: sustainable development
+    eo: daŭrigebla disvolviĝo
+    es: desarrollo sostenible
+    et: jätkusuutlik areng
+    eu: garapen iraunkor
+    fa: توسعه پایا
+    fi: kestävä kehitys
+    fr: développement durable
+    fy: Duorsume ûntwikkeling
+    ga: forbairt inbhuanaithe
+    gl: desenvolvemento sustentábel
+    gsw: Nochhaltigi Entwicklig
+    gu: અક્ષય વિકાસ
+    he: פיתוח בר-קיימא
+    hi: टिकाऊ विकास
+    hr: Održivi razvoj
+    ht: Devlòpman dirab
+    hu: fenntartható fejlődés
+    hy: Կայուն զարգացում
+    hyw: Կայուն Զարգացում
+    id: Pembangunan berkelanjutan
+    ig: mmepe na adigide
+    io: Susteninda developo
+    is: Sjálfbær þróun
+    it: sviluppo sostenibile
+    ja: 持続可能な開発
+    ka: მდგრადი განვითარება
+    kk: орнықты даму
+    kk-arab: ورنىقتى دامۋ
+    kk-cn: ورنىقتى دامۋ
+    kk-cyrl: Орнықты даму
+    kk-kz: Орнықты даму
+    kk-latn: Ornıqtı damw
+    kk-tr: Ornıqtı damw
+    ko: 지속 가능한 발전
+    la: devolutio durabilis
+    lb: Nohalteg Entwécklung
+    lo: ການພັດທະນາແບບຍືນຍົງ
+    lt: darnusis vystymasis
+    ltg: Tvereiguo raisteiba
+    lv: Ilgtspējīga attīstība
+    mk: Одржлив развој
+    ml: സുസ്ഥിര വികസനം
+    mr: शाश्वत विकास
+    ms: Pembangunan mampan
+    mwl: Zambolbimiento sustentable
+    nb: bærekraftig utvikling
+    ne: दिगो विकास
+    nl: duurzame ontwikkeling
+    nn: berekraftig utvikling
+    nqo: ߥߙߎߞߌ߫ ߓߟߏߕߍ߰ߓߊߟߌ
+    oc: Desvolopament sostenable
+    pa: ਪਾਏਦਾਰ ਵਿਕਾਸ
+    pl: zrównoważony rozwój
+    ps: تلپاتې وده
+    pt: desenvolvimento sustentável
+    pt-br: Desenvolvimento sustentável
+    qu: Hat'alliykuq kururay
+    ro: dezvoltare durabilă
+    ru: устойчивое развитие
+    sd: پائيدار ترقي
+    se: ceavzilis ovdáneapmi
+    sh: Održivi razvoj
+    si: තිරසාර සංවර්ධනය
+    sk: trvalo udržateľný rozvoj
+    sl: trajnostni razvoj
+    smn: kilelis ovdánem
+    sms: ǩeâllʼjeei ouddnummuš
+    sq: Zhvillimi i qëndrueshëm
+    sr: одрживи развој
+    sr-ec: Одрживи развој
+    sr-el: Održivi razvoj
+    sv: hållbar utveckling
+    sw: maendeleo endelevu
+    ta: நிலைத்த மேம்பாடு
+    tg: Рушди устувор
+    th: การพัฒนาอย่างยั่งยืน
+    tl: sustainable development
+    tr: sürdürülebilir kalkınma
+    ts: Nhluvukiso lowu nga heriki
+    tt: тотрыклы үсеш
+    tw: Nkɔsoɔ a ɛtena hɔ daa(Sustainable development)
+    uk: виважений розвиток
+    ur: پائیدار ترقی
+    uz: Barqaror rivojlanish
+    vi: phát triển bền vững
+    war: Sustinable nga pagpauswag
+    wuu: 可持续发展
+    ybb: Lekwɛ́t alāʼ zi anāŋ naŋa
+    yue: 永續發展
+    zh: 可持续发展
+    zh-cn: 可持续发展
+    zh-hans: 可持续发展
+    zh-hant: 可持續發展
+    zh-hk: 可持續發展
+    zh-sg: 可持续发展
+    zh-tw: 永續發展
 ---
-
 # [[Sustainable_Development]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sustainable_development,131201|WD~Sustainable_development,131201]] 

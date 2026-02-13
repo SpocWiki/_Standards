@@ -1,11 +1,71 @@
 ---
 aliases:
-  - Galilean invariance
-  - Galilean relativity
-  - Galilean_Relativity
-  - Galilean Relativity
+- Galile Değişmezliği
+- Galilean invariance
+- Galilean relativity
+- Galilean_Relativity
+- Galilei-invariancia
+- Galilei-invarianssi
+- Galileiho princip relativity
+- Galileijeva relativnost
+- Galileijevo načelo relativnosti
+- Galileja relativeco
+- Galileoren erlatibitate
+- Galiley nisbiylik prinsipi
+- Galileïsche invariantie
+- Invariancia galileana
+- Invariância de Galileu
+- Nguyên lý tương đối Galileo
+- Qalileyin nisbilik prinsipi
+- relativitas Galilaeana
+- Relativitat Galileana
+- relativitate galileiană
+- relatività galileiana
+- relativité galiléenne
+- Галилеева релативност
+- Прынцып адноснасці Галілея
+- إطار مرجعي غاليلي
+- ناوردایی گالیلهای
+- ਗੈਲੀਲੀਅਨ ਇਨਵੇਰੀਅੰਸ
+- ガリレイ不変性
+- 伽利略不变性
+- 伽利略不變性
+- 갈릴레이 불변성
+has_id_wikidata: Q2481895
+dv_has_:
+  name_:
+    ar: إطار مرجعي غاليلي
+    az: Qalileyin nisbilik prinsipi
+    be: Прынцып адноснасці Галілея
+    ca: Relativitat Galileana
+    cs: Galileiho princip relativity
+    en: Galilean invariance
+    eo: Galileja relativeco
+    es: Invariancia galileana
+    eu: Galileoren erlatibitate
+    fa: ناوردایی گالیلهای
+    fi: Galilei-invarianssi
+    fr: relativité galiléenne
+    hi: Galilean invariance
+    hr: Galileijevo načelo relativnosti
+    hu: Galilei-invariancia
+    it: relatività galileiana
+    ja: ガリレイ不変性
+    ko: 갈릴레이 불변성
+    la: relativitas Galilaeana
+    mk: Галилеева релативност
+    nl: Galileïsche invariantie
+    pa: ਗੈਲੀਲੀਅਨ ਇਨਵੇਰੀਅੰਸ
+    pt: Invariância de Galileu
+    ro: relativitate galileiană
+    sh: Galileijeva relativnost
+    tr: Galile Değişmezliği
+    uz: Galiley nisbiylik prinsipi
+    vi: Nguyên lý tương đối Galileo
+    zh: 伽利略不变性
+    zh-hans: 伽利略不变性
+    zh-hant: 伽利略不變性
 ---
-
 # [[Galilean_Relativity]] 
 
 #is_/same_as :: 

@@ -1,17 +1,159 @@
 ---
 aliases:
+- Bodun
+- church voodoo
+- Gereja Voodoo
+- Lääne-Aafrika vodun
+- vaudou
+- Vodou
+- Vodu
+- Voduln
+- Vodum
+- vodun
+- Vodun Whèyihọ-waji Aflika Tọn
+- Voduo
+- Vodó
+- vodú
+- Voedoeïsme
+- voodoo
+- Voodoo Church
+- Voodu
+- Vudu
+- vudù
+- Vudú
+- Vudū
+- Vôdo
+- Vúdú
+- Βουντού
+- вуду
+- Вуду діні
+- Վուդու
+- וודו
+- فودو
+- وودوو
+- وڈوو
+- ڤودو (سحر)
+- ߝ߭ߏ߬ߘߎ
+- वूडू
+- வூடூ
+- ลัทธิวูดู
+- ვუდუ
+- ブードゥー教
+- 伏都教
+- 巫毒教
+- 부두교
 has_id_wikidata: Q177764
-religion_or_worldview: "[[_Standards/WikiData/WD~Regla_Osha_Ifa_afrocubana,752660]]"
-different_from: "[[_Standards/WikiData/WD~Voodoo,1461059]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-subclass_of: "[[_Standards/WikiData/WD~religion,9174]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Regla_Osha_Ifa_afrocubana,752660]]'
+different_from: '[[_Standards/WikiData/WD~Voodoo,1461059]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+subclass_of: '[[_Standards/WikiData/WD~religion,9174]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Voodoo.jpg
 Libris_URI: 64jllqfq5n7tz4x
 Commons_category: West African Vodun
-Dewey_Decimal_Classification: "299.675"
+Dewey_Decimal_Classification: 299.675
+dv_has_:
+  name_:
+    af: Voedoeïsme
+    an: Vudú
+    ar: فودو
+    ary: ڤودو (سحر)
+    ast: Vudú
+    az: Vudu
+    be: вуду
+    be-tarask: вуду
+    bg: Вуду
+    bs: Vudu
+    ca: vodú
+    cs: vodun
+    da: Voodoo
+    de: Voduln
+    diq: Vudu
+    el: Βουντού
+    en: Voodoo Church
+    eo: Voduo
+    es: Vudú
+    et: Lääne-Aafrika vodun
+    eu: Vudu
+    fa: وودوو
+    fi: voodoo
+    fon: Vodun
+    fr: vaudou
+    fy: Voodoo
+    ga: Vúdú
+    gl: Vodú
+    guw: Vodun Whèyihọ-waji Aflika Tọn
+    ha: church voodoo
+    he: וודו
+    hi: वूडू
+    hif: Voodoo
+    hr: Vudu
+    ht: Vodou
+    hu: vodun
+    hy: Վուդու
+    ia: Vodun
+    id: Gereja Voodoo
+    ig: Voodoo Church
+    is: Vúdú
+    it: vudù
+    ja: ブードゥー教
+    ka: ვუდუ
+    kbp: Voodu
+    kg: Vodu
+    kk: Вуду діні
+    ko: 부두교
+    la: Vodun
+    lb: Voodoo
+    lfn: Vudu
+    lt: Vudu
+    lv: Vudū
+    mg: Vôdo
+    mk: Вуду
+    ms: Voodoo
+    mwl: Bodun
+    nan: Voodoo
+    nb: voodoo
+    nl: voodoo
+    nn: Voodoo
+    nqo: ߝ߭ߏ߬ߘߎ
+    oc: Vodó
+    pl: Voodoo
+    pt: Vodum
+    rmf: voodoo
+    ro: Vaudou
+    ru: вуду
+    scn: Vudu
+    se: voodoo
+    sh: Vudu
+    sje: voodoo
+    sju: voodoo
+    sk: Vudu
+    sl: vudu
+    smn: voodoo
+    sms: voodoo
+    sr: Вуду
+    sr-ec: Вуду
+    sr-el: Vudu
+    sv: voodoo
+    sw: Voodoo
+    ta: வூடூ
+    th: ลัทธิวูดู
+    tr: Vudu
+    uk: вуду
+    ur: وڈوو
+    uz: Vudu
+    vi: Vodun
+    war: Voodoo
+    wuu: 伏都教
+    yue: 巫毒教
+    zh: 伏都教
+    zh-cn: 伏都教
+    zh-hans: 伏都教
+    zh-hant: 巫毒教
+    zh-hk: 伏都教
+    zh-sg: 伏都教
+    zh-tw: 巫毒教
 ---
-
 # [[Voodoo(West_Africa)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Voodoo_Church,177764|WD~Voodoo_Church,177764]] 

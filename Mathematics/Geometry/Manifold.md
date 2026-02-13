@@ -1,25 +1,148 @@
 ---
 aliases:
-  - n-dimensional manifold, or n-manifold
-  - Manifold
+- Barietate (matematika)
+- daugdara
+- Durthi
+- ilfhillteán
+- mangfald
+- mangfoldighed
+- mangfoldighet
+- Manifold
+- Manipoldo
+- Mannifalt
+- Mannigfaltigkeit
+- mnogostrukost
+- mnogoterost
+- monisto
+- muutkond
+- mångfald
+- n-dimensional manifold, or n-manifold
+- rozmaitość
+- sokaság
+- sternaĵo
+- to-iūⁿ-thé
+- variedad
+- variedade
+- varieta
+- varietat
+- varietate
+- varietà
+- varietà topològica
+- variété
+- variëteit
+- Çokkatlı
+- Çoxobrazlı
+- đa tạp
+- πολλαπλότητα
+- многовид
+- многообразие
+- Многострукост
+- многуобразие
+- Нумайсăнарлăх
+- разнастайнасьць
+- Բազմաձևություն
+- יריעה
+- פלאכטע
+- خمینه
+- متنوعة
+- مینیفولڈ
+- বহুভাঁজ
+- ਮੈਨੀਫੋਲਡ
+- แมนิโฟลด์
+- 多様体
+- 流形
+- 다양체
 has_id_wikidata: Q203920
 subclass_of:
-  - '[[_Standards/WikiData/WD~topological_space,179899]]'
-  - '[[_Standards/WikiData/WD~Hausdorff_space,326908]]'
-  - '[[_Standards/WikiData/WD~second_countable_space,1363919]]'
-  - '[[_Standards/WikiData/WD~non_Hausdorff_manifold,7048762]]'
+- '[[_Standards/WikiData/WD~topological_space,179899]]'
+- '[[_Standards/WikiData/WD~Hausdorff_space,326908]]'
+- '[[_Standards/WikiData/WD~second_countable_space,1363919]]'
+- '[[_Standards/WikiData/WD~non_Hausdorff_manifold,7048762]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~Euler_characteristic,852973]]'
-  - '[[_Standards/WikiData/WD~dimension,4440864]]'
+- '[[_Standards/WikiData/WD~Euler_characteristic,852973]]'
+- '[[_Standards/WikiData/WD~dimension,4440864]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from: '[[_Standards/WikiData/WD~Q9323213,9323213]]'
 studied_by: '[[_Standards/WikiData/WD~manifold_theory,10380344]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Commons_category: Manifolds
+dv_has_:
+  name_:
+    ar: متنوعة
+    az: Çoxobrazlı
+    be-tarask: разнастайнасьць
+    bg: многообразие
+    bn: বহুভাঁজ
+    ca: varietat
+    cs: varieta
+    cv: Нумайсăнарлăх
+    da: mangfoldighed
+    de: Mannigfaltigkeit
+    el: πολλαπλότητα
+    en: manifold
+    en-ca: manifold
+    en-gb: manifold
+    eo: sternaĵo
+    es: variedad
+    et: muutkond
+    eu: Barietate (matematika)
+    fa: خمینه
+    fi: monisto
+    fr: variété
+    ga: ilfhillteán
+    gl: variedade
+    gsw: Mannigfaltigkeit
+    he: יריעה
+    hr: mnogostrukost
+    hu: sokaság
+    hy: Բազմաձևություն
+    id: manifold
+    it: varietà
+    ja: 多様体
+    ko: 다양체
+    lb: Mannifalt
+    lt: daugdara
+    mk: многуобразие
+    nan: to-iūⁿ-thé
+    nb: mangfoldighet
+    nl: variëteit
+    nn: mangfald
+    oc: varietat
+    pa: ਮੈਨੀਫੋਲਡ
+    pl: rozmaitość
+    pms: varietà topològica
+    pnb: مینیفولڈ
+    pt: variedade
+    pt-br: variedade
+    ro: varietate
+    ru: многообразие
+    sco: manifold
+    sh: Mnogostrukost
+    sk: Varieta
+    sl: mnogoterost
+    sq: Durthi
+    sr: Многострукост
+    sr-ec: Многострукост
+    sr-el: Mnogostrukost
+    sv: mångfald
+    th: แมนิโฟลด์
+    tl: Manipoldo
+    tr: Çokkatlı
+    uk: многовид
+    ur: مینیفولڈ
+    vi: đa tạp
+    yi: פלאכטע
+    yue: 流形
+    zh: 流形
+    zh-cn: 流形
+    zh-hans: 流形
+    zh-hant: 流形
+    zh-hk: 流形
+    zh-sg: 流形
+    zh-tw: 流形
 ---
-
 # [[Manifold]] 
 
 #is_/same_as :: [[WD~Manifold,203920]] 

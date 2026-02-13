@@ -1,9 +1,107 @@
 ---
 aliases:
-  - Hynobiidae
+- Aziaj salamandroj
+- Aziatische salamanders
+- Burchaktishlar
+- Burıştistiler
+- Hinobíidos
+- Hinòbid
+- Hynobiidae
+- kotnozobci
+- kątozębne
+- Náátsʼózídę́ę́ʼ tsxilghááh
+- pamlokovití
+- Salamander asia
+- Sibiriske salamandere
+- szögletesfogsorú-gőtefélék
+- vinkelsalamandrar
+- vinkeltandsalamander
+- Winkelzahnmolche
+- Азиатски тритони
+- Бұрыштістілер
+- Вуглазубыя
+- Кутозубі тритони
+- Углозубы
+- הינוביים
+- بۇرىشتىستىلەر
+- سمندرهای آسیایی
+- سمندل آسيوى
+- سمندل آسيوي
+- วงศ์ซาลาแมนเดอร์เอเชีย
+- დაკუთხულკბილასებრნი
+- サンショウウオ科
+- 小鯢
+- 小鯢科
+- 小鲵科
+- 도롱뇽과
 title: Hynobiidae
+has_id_wikidata: Q827251
+dv_has_:
+  name_:
+    an: Hynobiidae
+    ar: سمندل آسيوي
+    arz: سمندل آسيوى
+    ast: Hynobiidae
+    be: Вуглазубыя
+    bg: Азиатски тритони
+    br: Hynobiidae
+    ca: Hinòbid
+    ceb: Hynobiidae
+    cs: pamlokovití
+    da: vinkeltandsalamander
+    de: Winkelzahnmolche
+    en: Hynobiidae
+    eo: Aziaj salamandroj
+    es: Hynobiidae
+    eu: Hynobiidae
+    ext: Hynobiidae
+    fa: سمندرهای آسیایی
+    fi: Hynobiidae
+    fr: Hynobiidae
+    ga: Hynobiidae
+    gl: Hinobíidos
+    he: הינוביים
+    hu: szögletesfogsorú-gőtefélék
+    ia: Hynobiidae
+    id: Salamander asia
+    ie: Hynobiidae
+    io: Hynobiidae
+    it: Hynobiidae
+    ja: サンショウウオ科
+    ka: დაკუთხულკბილასებრნი
+    kk: Бұрыштістілер
+    kk-arab: بۇرىشتىستىلەر
+    kk-cyrl: Бұрыштістілер
+    kk-latn: Burıştistiler
+    ko: 도롱뇽과
+    la: Hynobiidae
+    mul: Hynobiidae
+    nb: Sibiriske salamandere
+    nl: Aziatische salamanders
+    nn: vinkelsalamandrar
+    nv: Náátsʼózídę́ę́ʼ tsxilghááh
+    oc: Hynobiidae
+    pl: kątozębne
+    pt: Hynobiidae
+    pt-br: Hynobiidae
+    ro: Hynobiidae
+    ru: Углозубы
+    sl: kotnozobci
+    sq: Hynobiidae
+    sv: Hynobiidae
+    th: วงศ์ซาลาแมนเดอร์เอเชีย
+    uk: Кутозубі тритони
+    uz: Burchaktishlar
+    vi: Hynobiidae
+    vo: Hynobiidae
+    war: Hynobiidae
+    zh: 小鲵科
+    zh-cn: 小鲵科
+    zh-hans: 小鲵科
+    zh-hant: 小鯢
+    zh-hk: 小鯢
+    zh-tw: 小鯢科
 ---
-
 # [[Hynobiidae]] 
 
 ![ ](Hynobiidae/batrachuperus.jpg)

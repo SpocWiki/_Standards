@@ -1,5 +1,29 @@
-
-
+---
+has_id_wikidata: Q2944947
+dv_has_:
+  name_:
+    cs: Poslední odpověď
+    en: The Last Answer
+    eo: La Lasta Respondo
+    fr: La Dernière Réponse
+    ga: The Last Answer
+    it: L'ultima risposta
+    ja: 最後の解答
+    nl: The Last Answer
+    ro: Ultimul răspuns
+    ru: Окончательный ответ
+    uk: Остання відповідь
+aliases:
+- L'ultima risposta
+- La Dernière Réponse
+- La Lasta Respondo
+- Poslední odpověď
+- The Last Answer
+- Ultimul răspuns
+- Окончательный ответ
+- Остання відповідь
+- 最後の解答
+---
 # [[Last_Answer(Asimov)]] 
 
 

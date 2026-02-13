@@ -1,64 +1,160 @@
 ---
 aliases:
-  - Ojibway
-  - Chippewa
-  - ᐅᒋᐺ
-  - ᐅᒋᐺᒃ
-  - Ojibwe
+- Anishinabe
+- Anišināpi
+- Chippewa
+- Odżibwejowie
+- Odžibve (rahvaz)
+- Odžibvejové
+- Odžibviai
+- Ojibvalar
+- Ojibve
+- Ojibwa
+- ojibwat
+- Ojibway
+- Ojibwe
+- Ojibweg
+- Ojibwés
+- Ojíbuas
+- Oĝibvoj
+- Pobo ojibwa
+- Populus Ojibwayensis
+- Sáhea'eo'o
+- Óisibigh
+- Аджыбвэ
+- аджыбвэі
+- Оџибва
+- Оджибва
+- Оджибве
+- Оджибуей
+- אוג'יבווה
+- أجيبوي
+- اجيبوى
+- اوجیبوه
+- اوجیبوے
+- ওজিবুয়ে
+- ഒജിബ്വാ
+- ოჯიბვე
+- ᐅᒋᐺ
+- ᐅᒋᐺᒃ
+- オジブワ
+- 奥吉布瓦人
+- 奧吉布瓦人
+- 오지브와족
 has_id_wikidata: Q255872
 different_from:
-  - '[[_Standards/WikiData/WD~Chipewyan_people,127515]]'
-  - '[[_Standards/WikiData/WD~Oji_Cree,1955201]]'
-  - '[[_Standards/WikiData/WD~Bois_Forte_Band_of_Chippewa,4938422]]'
+- '[[_Standards/WikiData/WD~Chipewyan_people,127515]]'
+- '[[_Standards/WikiData/WD~Oji_Cree,1955201]]'
+- '[[_Standards/WikiData/WD~Bois_Forte_Band_of_Chippewa,4938422]]'
 part_of: '[[_Standards/WikiData/WD~First_Nations,392316]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Mississaugas,950097]]'
-  - '[[_Standards/WikiData/WD~Plains_Ojibwa,4386941]]'
+- '[[_Standards/WikiData/WD~Mississaugas,950097]]'
+- '[[_Standards/WikiData/WD~Plains_Ojibwa,4386941]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Anishinaabe,1956640]]'
 subclass_of: '[[_Standards/WikiData/WD~Anishinaabe,1956640]]'
 statement_is_subject_of: '[[_Standards/WikiData/WD~classification_of_the_Indigenous_peoples_of_the_Americas,5340721]]'
 coordinate_location: Point(-92.18916667 46.6875)
 location:
-  - '[[_Standards/WikiData/WD~Michigan,1166]]'
-  - '[[_Standards/WikiData/WD~North_Dakota,1207]]'
-  - '[[_Standards/WikiData/WD~Montana,1212]]'
-  - '[[_Standards/WikiData/WD~Minnesota,1527]]'
-  - '[[_Standards/WikiData/WD~Wisconsin,1537]]'
-  - '[[_Standards/WikiData/WD~Kansas,1558]]'
-  - '[[_Standards/WikiData/WD~Ontario,1904]]'
-  - '[[_Standards/WikiData/WD~Alberta,1951]]'
-  - '[[_Standards/WikiData/WD~Manitoba,1948]]'
-  - '[[_Standards/WikiData/WD~British_Columbia,1973]]'
-  - '[[_Standards/WikiData/WD~Saskatchewan,1989]]'
-  - '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Michigan,1166]]'
+- '[[_Standards/WikiData/WD~North_Dakota,1207]]'
+- '[[_Standards/WikiData/WD~Montana,1212]]'
+- '[[_Standards/WikiData/WD~Minnesota,1527]]'
+- '[[_Standards/WikiData/WD~Wisconsin,1537]]'
+- '[[_Standards/WikiData/WD~Kansas,1558]]'
+- '[[_Standards/WikiData/WD~Ontario,1904]]'
+- '[[_Standards/WikiData/WD~Alberta,1951]]'
+- '[[_Standards/WikiData/WD~Manitoba,1948]]'
+- '[[_Standards/WikiData/WD~British_Columbia,1973]]'
+- '[[_Standards/WikiData/WD~Saskatchewan,1989]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
-  - '[[_Standards/WikiData/WD~Protestantism,23540]]'
-  - '[[_Standards/WikiData/WD~animism,43004]]'
+- '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Protestantism,23540]]'
+- '[[_Standards/WikiData/WD~animism,43004]]'
 native_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Ojibwe,33875]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Ojibwe,33875]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 population: 360000
 instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
 Commons_category: Ojibwa
 U_S_National_Archives_Identifier: 10643764
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ojibwa%20village.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/George%20Catlin%20003.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/JingleDress.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wildreisernte.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ojibwa%20village.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/George%20Catlin%20003.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/JingleDress.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wildreisernte.jpg
 Library_of_Congress_Classification: E99.C6
+dv_has_:
+  name_:
+    ar: أجيبوي
+    arz: اجيبوى
+    bar: Ojibwe
+    be: Аджыбвэ
+    be-tarask: аджыбвэі
+    bg: Оджибуей
+    bn: ওজিবুয়ে
+    ca: Chippewa
+    chy: Sáhea'eo'o
+    cs: Odžibvejové
+    da: Ojibwa
+    de: Anishinabe
+    de-ch: Anishinabe
+    en: Ojibwe
+    en-ca: Ojibwe
+    en-gb: Ojibwe
+    eo: Oĝibvoj
+    es: ojibwa
+    eu: Ojibwa
+    fa: اوجیبوه
+    fi: ojibwat
+    fr: Ojibwés
+    ga: Óisibigh
+    gl: Pobo ojibwa
+    he: אוג'יבווה
+    hr: Chippewa
+    hu: Ojibwe
+    it: Ojibway
+    ja: オジブワ
+    ka: ოჯიბვე
+    kk: Оджибве
+    ko: 오지브와족
+    la: Populus Ojibwayensis
+    lt: Odžibviai
+    lv: Anišināpi
+    mg: Ojibway
+    ml: ഒജിബ്വാ
+    nb: Ojibwa
+    nl: Ojibweg
+    pl: Odżibwejowie
+    pnb: اوجیبوے
+    pt: Ojíbuas
+    pt-br: Ojíbuas
+    ro: Ojibwe
+    ru: Оджибве
+    sl: Chippewa
+    sr: Оџибва
+    sv: ojibwa
+    tr: Ojibvalar
+    uk: Оджибва
+    uz: Ojibve
+    vec: Ojibway
+    vep: Odžibve (rahvaz)
+    vi: Ojibwe
+    yue: Ojibwe
+    zh: 奥吉布瓦人
+    zh-cn: 奥吉布瓦人
+    zh-hans: 奥吉布瓦人
+    zh-hant: 奧吉布瓦人
 ---
-
 # [[Ojibwe]] 
 
 #is_/same_as :: [[WD~Ojibwe,255872]]

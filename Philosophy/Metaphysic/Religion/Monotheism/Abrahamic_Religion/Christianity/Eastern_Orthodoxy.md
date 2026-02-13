@@ -1,50 +1,243 @@
 ---
 aliases:
-  - Eastern Orthodoxy
-  - Eastern Orthodox Christianity
-  - Byzantine Christianity
-  - Eastern_Orthodoxy
+- Byzantine Christianity
+- Cairchredjue yn Niar
+- Ceartchreidmheach an Oirthir
+- christianisme orthodoxe
+- Christianitas Orthodoxa
+- Chính thống giáo Đông phương
+- creștinism ortodox
+- cristianesim ortodoss
+- cristianesimo ortodosso
+- cristianisme ortodox
+- cristianismo ortodoxo
+- cristianismu ortodoxu
+- Crìostaidheachd Ortodogsach
+- Doğu Ortodoksluk
+- Eastern Orthodox Christianity
+- Eastern Orthodoxy
+- Eastern_Orthodoxy
+- Eglwysi Uniongred
+- keleti ortodox kereszténység
+- kristautasun ortodoxo
+- Kristianisma ortodoksa
+- orthodox christendom
+- Orthodox Christianity
+- orthodoxe Chrëschtentum
+- orthodoxes Christentum
+- ortodoks kristendom
+- ortodoksa kristanismo
+- Ortodoksi Timur
+- Ortodoksia Lindore
+- ortodoksinen kristinusko
+- Ortodoksiya
+- Ortodoksiye
+- Ortodokslıq
+- Ortodosia orientałe
+- ortodox kristendom
+- Ortodoxia
+- Ortodoxismo
+- pareizticība
+- Pravoslaviye
+- pravoslavje
+- Pravoslavlje
+- pravoslaví
+- pravoslávie
+- prawosławie
+- prawosławne křesćanstwo
+- Prawòsławié
+- Shıǵıs Pravoslavlıǵı
+- Siuu siuu tɛ Krɩstʊ samaɣ
+- Stačiatikybė
+- Stačiatėkībe
+- Waorthodoksi
+- Õigeusk
+- şərqi ortodoks xristianlıq
+- Ανατολικός Ορθόδοξος Χριστιανισμός
+- керста
+- масеҳияти православӣ
+- Ортодоксия
+- праваслаўе
+- праваслаулык
+- православ'я
+- Православіє
+- Православље
+- Православи
+- православие
+- православие дине
+- Православиѥ
+- растуырнæг дин
+- Танле тын
+- Үнэн алдарта шажан
+- Үнэн алдартны шашин
+- Ուղղափառութիւն
+- ուղղափառություն
+- ארטאדאקסע קריסטנטום
+- נצרות אורתודוקסית
+- ارتودوكسيه شرقيه
+- راسخ الاعتقاد مسیحیت
+- شرقی اؤرتؤدؤکس
+- مسيحية أرثوذكسية
+- مسیحیت ارتدکس شرقی
+- مەسیحییەتی ئۆرتۆدۆکس
+- پراۋوسلاۋىيە دىنى
+- ഓർത്തഡോൿസ് സഭകൾ
+- ඕර්තඩොක්ස් ක්රිස්තියානි ධර්මය
+- อีสเทิร์นออร์ทอดอกซ์
+- ອອກໂຕດົກ
+- მართლმადიდებლობა
+- მართმადიდებელობა
+- ὀρθοδοξία
+- 正教
+- 正教会
+- 동방 정교회
 has_id_wikidata: Q3333484
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Old_Believers,223710]]"
-  - "[[_Standards/WikiData/WD~Abkhazian_Orthodox_Church,307001]]"
-  - "[[_Standards/WikiData/WD~Ukrainian_Orthodox_Church_Kyiv_Patriarchate,389676]]"
-  - "[[_Standards/WikiData/WD~Montenegrin_Orthodox_Church,523137]]"
-  - "[[_Standards/WikiData/WD~Latvian_Orthodox_Church,1129463]]"
-  - "[[_Standards/WikiData/WD~Belarusian_Autocephalous_Orthodox_Church,2626385]]"
-  - "[[_Standards/WikiData/WD~Western_Rite_Orthodoxy,2638583]]"
-  - "[[_Standards/WikiData/WD~Evangelical_Orthodox_Church,3555768]]"
-  - "[[_Standards/WikiData/WD~American_Orthodox_Catholic_Church,4744612]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Catholic_Church_of_America,7104443]]"
-  - "[[_Standards/WikiData/WD~Turkish_Orthodox_Church_in_the_United_States,7855302]]"
-  - "[[_Standards/WikiData/WD~Lusitanian_Catholic_Orthodox_Church,16122898]]"
-  - "[[_Standards/WikiData/WD~True_Orthodox_church,17036536]]"
-  - "[[_Standards/WikiData/WD~Communion_of_the_Western_Orthodox_Churches,19894567]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
+- '[[_Standards/WikiData/WD~Old_Believers,223710]]'
+- '[[_Standards/WikiData/WD~Abkhazian_Orthodox_Church,307001]]'
+- '[[_Standards/WikiData/WD~Ukrainian_Orthodox_Church_Kyiv_Patriarchate,389676]]'
+- '[[_Standards/WikiData/WD~Montenegrin_Orthodox_Church,523137]]'
+- '[[_Standards/WikiData/WD~Latvian_Orthodox_Church,1129463]]'
+- '[[_Standards/WikiData/WD~Belarusian_Autocephalous_Orthodox_Church,2626385]]'
+- '[[_Standards/WikiData/WD~Western_Rite_Orthodoxy,2638583]]'
+- '[[_Standards/WikiData/WD~Evangelical_Orthodox_Church,3555768]]'
+- '[[_Standards/WikiData/WD~American_Orthodox_Catholic_Church,4744612]]'
+- '[[_Standards/WikiData/WD~Orthodox_Catholic_Church_of_America,7104443]]'
+- '[[_Standards/WikiData/WD~Turkish_Orthodox_Church_in_the_United_States,7855302]]'
+- '[[_Standards/WikiData/WD~Lusitanian_Catholic_Orthodox_Church,16122898]]'
+- '[[_Standards/WikiData/WD~True_Orthodox_church,17036536]]'
+- '[[_Standards/WikiData/WD~Communion_of_the_Western_Orthodox_Churches,19894567]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Eastern_Christianity,245177]]"
-  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~orthodoxy,383258]]"
+- '[[_Standards/WikiData/WD~Eastern_Christianity,245177]]'
+- '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~orthodoxy,383258]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+- '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
+- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Churches_of_the_two_councils,3562325]]"
-  - "[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
+- '[[_Standards/WikiData/WD~Churches_of_the_two_councils,3562325]]'
+- '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 Unicode_character: ☦
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecumenical%20Councils.jpg
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/eastern-orthodox
 Iconclass_notation: 11P22
 Commons_category: Eastern Orthodox Church
+dv_has_:
+  name_:
+    ar: مسيحية أرثوذكسية
+    arz: ارتودوكسيه شرقيه
+    ast: cristianismu ortodoxu
+    av: Ортодоксия
+    az: şərqi ortodoks xristianlıq
+    ba: православие дине
+    be: праваслаўе
+    be-tarask: праваслаўе
+    bg: православие
+    bs: pravoslavlje
+    bxr: Үнэн алдарта шажан
+    ca: cristianisme ortodox
+    ce: керста
+    ckb: مەسیحییەتی ئۆرتۆدۆکس
+    crh: Ortodokslıq
+    crh-latn: Ortodokslıq
+    cs: pravoslaví
+    csb: Prawòsławié
+    cu: Православиѥ
+    cv: Православи
+    cy: Eglwysi Uniongred
+    da: ortodoks kristendom
+    de: orthodoxes Christentum
+    diq: Ortodoksiye
+    el: Ανατολικός Ορθόδοξος Χριστιανισμός
+    en: Eastern Orthodoxy
+    eo: ortodoksa kristanismo
+    es: cristianismo ortodoxo
+    et: Õigeusk
+    eu: kristautasun ortodoxo
+    fa: مسیحیت ارتدکس شرقی
+    fi: ortodoksinen kristinusko
+    fr: christianisme orthodoxe
+    ga: Ceartchreidmheach an Oirthir
+    gd: Crìostaidheachd Ortodogsach
+    gl: cristianismo ortodoxo
+    grc: ὀρθοδοξία
+    gv: Cairchredjue yn Niar
+    he: נצרות אורתודוקסית
+    hr: pravoslavlje
+    hsb: prawosławne křesćanstwo
+    hu: keleti ortodox kereszténység
+    hy: ուղղափառություն
+    hyw: Ուղղափառութիւն
+    id: Ortodoksi Timur
+    io: Ortodoxismo
+    it: cristianesimo ortodosso
+    ja: 正教会
+    ka: მართლმადიდებლობა
+    kaa: Shıǵıs Pravoslavlıǵı
+    kbp: Siuu siuu tɛ Krɩstʊ samaɣ
+    kk: Православие
+    ko: 동방 정교회
+    ky: Православие
+    la: Christianitas Orthodoxa
+    lb: orthodoxe Chrëschtentum
+    lez: Православие
+    lmo: cristianesim ortodoss
+    lo: ອອກໂຕດົກ
+    lt: Stačiatikybė
+    lv: pareizticība
+    mg: Kristianisma ortodoksa
+    mhr: Танле тын
+    mk: православие
+    ml: ഓർത്തഡോൿസ് സഭകൾ
+    mn: Үнэн алдартны шашин
+    mzn: شرقی اؤرتؤدؤکس
+    nb: ortodoks kristendom
+    nl: orthodox christendom
+    oc: Ortodoxia
+    os: растуырнæг дин
+    pl: prawosławie
+    pt: cristianismo ortodoxo
+    ro: creștinism ortodox
+    ru: православие
+    rue: Православіє
+    sco: Orthodox Christianity
+    sgs: Stačiatėkībe
+    sh: pravoslavlje
+    si: ඕර්තඩොක්ස් ක්රිස්තියානි ධර්මය
+    sk: pravoslávie
+    sl: pravoslavje
+    sq: Ortodoksia Lindore
+    sr: православље
+    sr-ec: Православље
+    sr-el: Pravoslavlje
+    sv: ortodox kristendom
+    sw: Waorthodoksi
+    tg: масеҳияти православӣ
+    th: อีสเทิร์นออร์ทอดอกซ์
+    tl: Ortodoksiya
+    tr: Doğu Ortodoksluk
+    tt: православие дине
+    tt-cyrl: праваслаулык
+    udm: православие
+    ug: پراۋوسلاۋىيە دىنى
+    uk: православ'я
+    ur: راسخ الاعتقاد مسیحیت
+    uz: Pravoslaviye
+    vec: Ortodosia orientałe
+    vi: Chính thống giáo Đông phương
+    xmf: მართმადიდებელობა
+    yi: ארטאדאקסע קריסטנטום
+    zh: 正教
+    zh-hant: 正教
 ---
-
 # [[Eastern_Orthodoxy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Eastern_Orthodoxy,3333484|WD~Eastern_Orthodoxy,3333484]] 

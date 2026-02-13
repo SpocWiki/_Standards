@@ -1,8 +1,44 @@
 ---
 aliases:
-  - Glockenspiel
-  - Tubular_Bell
-  - Tubular Bell
+- buisklokken
+- campana tubular
+- campanas tubulares
+- campane tubolari
+- Campanes tubulares
+- carillon tubulaire
+- carrilhão de orquestra
+- Cevasta zvona
+- cevasti zvonovi
+- clogfheadáin
+- Clopote tubulare
+- Dzwony rurowe
+- Ezkila tubular
+- Glockenspiel
+- harangjáték
+- Lonceng tabung
+- Orkestr qoʻngʻiroqlari
+- Putkikellot
+- Röhrenglocken
+- rörklockor
+- Rørklokker
+- Torukellad
+- trubicové zvony
+- tuba sonorilaro
+- Tubular Bell
+- tubular bells
+- Tubular_Bell
+- аркестравыя звоны
+- Колокола
+- Оркестрові дзвони
+- Оркестрови камбани
+- צ'יימס
+- أجراس أنبوبية
+- ناقوس لوله ای
+- チューブラーベル
+- 管鐘
+- 管鐘琴
+- 管钟
+- 튜블러 벨
 has_id_wikidata: Q178812
 described_by_source: '[[_Standards/WikiData/WD~Grove_Dictionary_of_Music_and_Musicians,1422837]]'
 different_from: '[[_Standards/WikiData/WD~church_bell,3500690]]'
@@ -12,8 +48,47 @@ Hornbostel_Sachs_classification: 111.232
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20Tubular%20bells.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tubular-bells.JPG
 Commons_category: Tubular bells
+dv_has_:
+  name_:
+    ar: أجراس أنبوبية
+    ast: Campanes tubulares
+    be-tarask: аркестравыя звоны
+    bg: Оркестрови камбани
+    ca: campana tubular
+    cs: trubicové zvony
+    da: Rørklokker
+    de: Röhrenglocken
+    en: tubular bell
+    en-gb: tubular bells
+    eo: tuba sonorilaro
+    es: campanas tubulares
+    et: Torukellad
+    eu: Ezkila tubular
+    fa: ناقوس لوله ای
+    fi: Putkikellot
+    fr: carillon tubulaire
+    ga: clogfheadáin
+    he: צ'יימס
+    hu: harangjáték
+    id: Lonceng tabung
+    it: campane tubolari
+    ja: チューブラーベル
+    ko: 튜블러 벨
+    nb: rørklokker
+    nl: buisklokken
+    pl: Dzwony rurowe
+    pt: carrilhão de orquestra
+    ro: Clopote tubulare
+    ru: Колокола
+    sl: cevasti zvonovi
+    sr: Cevasta zvona
+    sv: rörklockor
+    uk: Оркестрові дзвони
+    uz: Orkestr qoʻngʻiroqlari
+    yue: 管鐘琴
+    zh: 管钟
+    zh-tw: 管鐘
 ---
-
 # [[Tubular_Bell]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tubular_bell,178812|WD~Tubular_bell,178812]]  

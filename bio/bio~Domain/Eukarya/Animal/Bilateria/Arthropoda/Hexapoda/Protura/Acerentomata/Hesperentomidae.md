@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Hesperentomidae
+- Hesperentomidae
+- 夕蚖科
 title: Hesperentomidae
+has_id_wikidata: Q3040549
+dv_has_:
+  name_:
+    an: Hesperentomidae
+    ast: Hesperentomidae
+    bg: Hesperentomidae
+    ca: Hesperentomidae
+    ceb: Hesperentomidae
+    de: Hesperentomidae
+    en: Hesperentomidae
+    eo: Hesperentomidae
+    es: Hesperentomidae
+    eu: Hesperentomidae
+    ext: Hesperentomidae
+    fi: Hesperentomidae
+    fr: Hesperentomidae
+    ga: Hesperentomidae
+    gl: Hesperentomidae
+    ia: Hesperentomidae
+    ie: Hesperentomidae
+    io: Hesperentomidae
+    it: Hesperentomidae
+    la: Hesperentomidae
+    mul: Hesperentomidae
+    nb: Hesperentomidae
+    nl: Hesperentomidae
+    oc: Hesperentomidae
+    pl: Hesperentomidae
+    pt: Hesperentomidae
+    pt-br: Hesperentomidae
+    ro: Hesperentomidae
+    ru: Hesperentomidae
+    sq: Hesperentomidae
+    sv: Hesperentomidae
+    tr: Hesperentomidae
+    uk: Hesperentomidae
+    uz: Hesperentomidae
+    vi: Hesperentomidae
+    vo: Hesperentomidae
+    war: Hesperentomidae
+    yo: Hesperentomidae
+    zh: 夕蚖科
+    zh-cn: 夕蚖科
+    zh-tw: 夕蚖科
 ---
-
 # [[Hesperentomidae]] 
 
 ## #has_/text_of_/abstract 

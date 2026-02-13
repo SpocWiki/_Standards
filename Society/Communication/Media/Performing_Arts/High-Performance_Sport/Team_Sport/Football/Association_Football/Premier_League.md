@@ -1,39 +1,109 @@
 ---
-has_time_started: 1992-02-20 
+has_time_started: 1992-02-20
 aliases:
+- Anglijas futbola Premjerlīga
+- Angliya Premyer Ligası
+- Angliya Premyer-ligasi
+- az angol labdarúgó-bajnokság első osztálya
+- championnat d'Angleterre de football
+- Englannin Valioliiga
+- Englisc Heafodlega
+- Enska úrvalsdeildin
+- F.A. Supra Ligo
+- FA Premier League
+- FA Premier liga
+- Giải bóng đá Ngoại hạng Anh
+- Liga Perdana Inggeris
+- Liga premiere
+- Liga Utama Inggris
+- Liga Utamo Inggirih
+- Ligi Kuu Uingereza
+- Premier League
+- Premier League ya Xinghezi
+- Premier Leagueka
+- Premier Lig
+- Premijer liga
+- Premijer liga Engleske
+- Prumièra Liga
+- Príomhroinn Shasana
+- Uwchgynghrair Lloegr
+- İngiltərə Premyer Liqası
+- Πρέμιερ Λιγκ
+- Англійская Прэм’ер-ліга
+- Англійська футбольна Прем'єр-ліга
+- Английн Премьер лиг
+- Английска висша лига
+- Английская Премьер-лига
+- Англисаг Премьер-лигæ
+- Англия футбол премьер-лигасы
+- Ағылшын Премьер-лигасы
+- Ингилис Премьер-лига
+- Лигаи бартари Ингилистон
+- Премијер лига
+- Премиер лига
+- Прэм’ер-Ліга
+- Պրեմիեր Լիգա
+- פרמייר ליג
+- الدوري الإنجليزي الممتاز
+- اینگیلیسین پرمیر لیگاسی
+- خولی نایابی ئینگلیزی
+- لیگ برتر انگلستان
+- پرایمر لیگ
+- پريميير ليج
+- پرِمِیَر لیٖگ
+- پریمئر لیگ
+- پریمیئر لیگ
+- प्रिमियर लिग
+- प्रीमियर लीग
+- প্রিমিয়ার লিগ
+- ਪ੍ਰੀਮੀਅਰ ਲੀਗ
+- இங்கிலீஷ் பிரீமியர் லீக்
+- ప్రీమియర్ లీగ్
+- ಪ್ರೀಮಿಯರ್ ಲೀಗ್
+- പ്രീമിയർ ലീഗ്
+- พรีเมียร์ลีก
+- ພຣີເມຍລີກ
+- ပရီးမီးယားလိဂ်
+- ပရီးမီးယႃးလိၵ်ႉ
+- პრემიერ ლიგა
+- プレミアリーグ
+- 英格兰足球超级联赛
+- 英格蘭超級足球聯賽
+- 英格蘭足球超級聯賽
+- 프리미어리그
 has_id_wikidata: Q9448
-follows: "[[_Standards/WikiData/WD~Football_League_First_Division,754839]]"
+follows: '[[_Standards/WikiData/WD~Football_League_First_Division,754839]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Premier_League_Snooker,1635643]]"
-  - "[[_Standards/WikiData/WD~Premiership_Rugby,5960]]"
-owner_of: "[[_Standards/WikiData/WD~Football_DataCo,5465815]]"
-significant_event: "[[_Standards/WikiData/WD~foundation_of_the_Premier_League,5474518]]"
+- '[[_Standards/WikiData/WD~Premier_League_Snooker,1635643]]'
+- '[[_Standards/WikiData/WD~Premiership_Rugby,5960]]'
+owner_of: '[[_Standards/WikiData/WD~Football_DataCo,5465815]]'
+significant_event: '[[_Standards/WikiData/WD~foundation_of_the_Premier_League,5474518]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Premier_League,5612595]]"
-  - "[[_Standards/WikiData/WD~Template_Premier_League_player,121878577]]"
+- '[[_Standards/WikiData/WD~Template_Premier_League,5612595]]'
+- '[[_Standards/WikiData/WD~Template_Premier_League_player,121878577]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]"
-  - "[[_Standards/WikiData/WD~professional_sports_league,15991290]]"
-  - "[[_Standards/WikiData/WD~association_football_league,15991303]]"
+- '[[_Standards/WikiData/WD~private_company_limited_by_shares,6832945]]'
+- '[[_Standards/WikiData/WD~professional_sports_league,15991290]]'
+- '[[_Standards/WikiData/WD~association_football_league,15991303]]'
 board_member:
-  - "[[_Standards/WikiData/WD~Alison_Brittain,19975651]]"
-  - "[[_Standards/WikiData/WD~Dharmash_Mistry,59660313]]"
-  - "[[_Standards/WikiData/WD~Richard_Masters,104848749]]"
+- '[[_Standards/WikiData/WD~Alison_Brittain,19975651]]'
+- '[[_Standards/WikiData/WD~Dharmash_Mistry,59660313]]'
+- '[[_Standards/WikiData/WD~Richard_Masters,104848749]]'
 competition_class: "[[_Standards/WikiData/WD~men's_association_football,31930761]]"
-item_operated: "[[_Standards/WikiData/WD~premierleague.com,124691465]]"
-sport: "[[_Standards/WikiData/WD~association_football,2736]]"
-organizer: "[[_Standards/WikiData/WD~Premier_League,9448]]"
-part_of: "[[_Standards/WikiData/WD~English_football_league_system,18559]]"
-league_level_below: "[[_Standards/WikiData/WD~EFL_Championship,19510]]"
-operating_area: "[[_Standards/WikiData/WD~England,21]]"
-season_ends: "[[_Standards/WikiData/WD~May,119]]"
-season_starts: "[[_Standards/WikiData/WD~August,122]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+item_operated: '[[_Standards/WikiData/WD~premierleague.com,124691465]]'
+sport: '[[_Standards/WikiData/WD~association_football,2736]]'
+organizer: '[[_Standards/WikiData/WD~Premier_League,9448]]'
+part_of: '[[_Standards/WikiData/WD~English_football_league_system,18559]]'
+league_level_below: '[[_Standards/WikiData/WD~EFL_Championship,19510]]'
+operating_area: '[[_Standards/WikiData/WD~England,21]]'
+season_ends: '[[_Standards/WikiData/WD~May,119]]'
+season_starts: '[[_Standards/WikiData/WD~August,122]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 event_interval: 1
 number_of_participants: 20
 social_media_followers:
-  - 8000000
-  - 39052098
+- 8000000
+- 39052098
 number_of_matches_played_races_starts: 380
 native_label: Premier League
 GitHub_topic: premier-league
@@ -41,11 +111,11 @@ Commons_category: FA Premier League
 official_website: https://www.premierleague.com/
 inception: 1992-02-20T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/GoldInvinciblesTrophy.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20League%20Trophy%20at%20Manchester%27s%20National%20Football%20Museum%20%28Ank%20Kumar%29%2002.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ruud.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Troph%C3%A9e%20Premier%20League%2013-14.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Kompany%20holds%20up%20the%20Premier%20League%20trophy%202012.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/GoldInvinciblesTrophy.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20League%20Trophy%20at%20Manchester%27s%20National%20Football%20Museum%20%28Ank%20Kumar%29%2002.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ruud.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Troph%C3%A9e%20Premier%20League%2013-14.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Kompany%20holds%20up%20the%20Premier%20League%20trophy%202012.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20League.ogg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Premier%20League.svg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/premier_league
@@ -55,8 +125,91 @@ Instagram_username: premierleague
 X_Twitter_username: premierleague
 subreddit: PremierLeague
 Baidu_Tieba_name: 英超
+dv_has_:
+  name_:
+    af: Premier League
+    ang: Englisc Heafodlega
+    ar: الدوري الإنجليزي الممتاز
+    arz: پريميير ليج
+    az: İngiltərə Premyer Liqası
+    azb: اینگیلیسین پرمیر لیگاسی
+    ban: Liga Utama Inggris
+    be: Англійская Прэм’ер-ліга
+    be-tarask: Прэм’ер-Ліга
+    bg: Английска висша лига
+    bn: প্রিমিয়ার লিগ
+    bs: Premijer liga Engleske
+    ca: Premier League
+    ckb: خولی نایابی ئینگلیزی
+    cy: Uwchgynghrair Lloegr
+    diq: Liga premiere
+    el: Πρέμιερ Λιγκ
+    en: Premier League
+    en-gb: Premier League
+    eo: F.A. Supra Ligo
+    fa: لیگ برتر انگلستان
+    fi: Englannin Valioliiga
+    fr: championnat d'Angleterre de football
+    ga: Príomhroinn Shasana
+    he: פרמייר ליג
+    hi: प्रीमियर लीग
+    hr: FA Premier liga
+    hu: az angol labdarúgó-bajnokság első osztálya
+    hy: Պրեմիեր Լիգա
+    id: Liga Utama Inggris
+    is: Enska úrvalsdeildin
+    ja: プレミアリーグ
+    jv: Liga Utama Inggris
+    ka: პრემიერ ლიგა
+    kaa: Angliya Premyer Ligası
+    kk: Ағылшын Премьер-лигасы
+    kn: ಪ್ರೀಮಿಯರ್ ಲೀಗ್
+    ko: 프리미어리그
+    ks: پرِمِیَر لیٖگ
+    lez: Ингилис Премьер-лига
+    lo: ພຣີເມຍລີກ
+    lv: Anglijas futbola Premjerlīga
+    mai: प्रिमियर लिग
+    min: Liga Utamo Inggirih
+    mk: Премиер лига
+    ml: പ്രീമിയർ ലീഗ്
+    mn: Английн Премьер лиг
+    mr: प्रीमियर लीग
+    ms: Liga Perdana Inggeris
+    mul: Premier League
+    my: ပရီးမီးယားလိဂ်
+    mzn: پرایمر لیگ
+    ne: प्रिमियर लिग
+    oc: Prumièra Liga
+    os: Англисаг Премьер-лигæ
+    pa: ਪ੍ਰੀਮੀਅਰ ਲੀਗ
+    pnb: پریمیئر لیگ
+    ro: Premier League
+    ru: Английская Премьер-лига
+    sh: Premijer liga
+    shn: ပရီးမီးယႃးလိၵ်ႉ
+    sk: FA Premier League
+    so: Premier Leagueka
+    sr: Премијер лига
+    sw: Ligi Kuu Uingereza
+    ta: இங்கிலீஷ் பிரீமியர் லீக்
+    te: ప్రీమియర్ లీగ్
+    tg: Лигаи бартари Ингилистон
+    th: พรีเมียร์ลีก
+    tr: Premier Lig
+    ts: Premier League ya Xinghezi
+    tt: Англия футбол премьер-лигасы
+    uk: Англійська футбольна Прем'єр-ліга
+    ur: پریمئر لیگ
+    uz: Angliya Premyer-ligasi
+    vi: Giải bóng đá Ngoại hạng Anh
+    wuu: 英格兰足球超级联赛
+    yue: 英格蘭超級足球聯賽
+    zh: 英格兰足球超级联赛
+    zh-hans: 英格兰足球超级联赛
+    zh-hant: 英格蘭超級足球聯賽
+    zh-tw: 英格蘭足球超級聯賽
 ---
-
 # [[Premier_League]] 
 
 #is_/same_as :: [[WD~Premier_League,9448]] 

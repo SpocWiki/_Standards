@@ -1,40 +1,185 @@
 ---
 aliases:
+- Deuod allyrru golau
+- Diod emissor de lus
+- Diod pemancar cahaya
+- dioda elektroluminescencyjna
+- Dioda pemancar cahaya
+- diode électroluminescente
+- diodo emisor de luz
+- diodo emissor de luz
+- Duhandas na nagsasaboy ng liwanag
+- dé-óid sholasastaíoch
+- Dìod a emission luminosa
+- díode emissor de llum
+- Jåchtdioode
+- Led
+- LED - Diodo luminoso
+- Leuchtdiode
+- licht-emittin diode
+- light-emitting diode
+- Ljoachtdiode
+- Ljóstvistur
+- lum-eliganta diodo
+- luminiscenčná dióda
+- lysdiod
+- Lysdiode
+- Mirdzdiode
+- Svetleća dioda
+- svetleča dioda
+- Svjetleća dioda
+- Valgusdiood
+- világító dióda
+- İşıq diodu
+- šviesos diodas
+- Δίοδος Εκπομπής Φωτός
+- Жарық шығаратын диод
+- світлодіод
+- светлећа диода
+- светлечка диода
+- светодиод
+- святлодыёд
+- сьвятлодыёд
+- яктылыктараткыч диод
+- דיודה פולטת אור
+- ליכט-ימיטינג דייאוד
+- ئێڵ ئی دی
+- ثنائي باعث للضوء
+- دیود نورگسیل
+- چانن والا ڈائیوڈ
+- एलईडी
+- प्रकाश उत्सर्जक डायोड
+- আলোক নিঃসারী ডায়োড
+- পোহৰ নিৰ্গত ডায়'ড
+- ஒளிகாலும் இருமுனையம்
+- ఎల్ ఈ డీ
+- ಎಲ್.ಇ.ಡಿ
+- ലൈറ്റ് എമിറ്റിങ്ങ് ഡയോഡ്
+- ආලෝක විමෝචක දියෝඩය
+- ไดโอดเปล่งแสง
+- მანათობელი დიოდები
+- 发光二极管
+- 発光ダイオード
+- 發光二極管
+- 발광 다이오드
 has_id_wikidata: Q25504
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Nick_Holonyak,360445]]"
-  - "[[_Standards/WikiData/WD~Oleg_Losev,641551]]"
-  - "[[_Standards/WikiData/WD~Shuji_Nakamura,730065]]"
-  - "[[_Standards/WikiData/WD~H._J._Round,1606934]]"
-  - "[[_Standards/WikiData/WD~James_R._Biard,15994932]]"
+- '[[_Standards/WikiData/WD~Nick_Holonyak,360445]]'
+- '[[_Standards/WikiData/WD~Oleg_Losev,641551]]'
+- '[[_Standards/WikiData/WD~Shuji_Nakamura,730065]]'
+- '[[_Standards/WikiData/WD~H._J._Round,1606934]]'
+- '[[_Standards/WikiData/WD~James_R._Biard,15994932]]'
 has_use:
-  - "[[_Standards/WikiData/WD~light_fixture,815738]]"
-  - "[[_Standards/WikiData/WD~lamp,1138737]]"
-  - "[[_Standards/WikiData/WD~light_source,1146001]]"
-  - "[[_Standards/WikiData/WD~signal,2150504]]"
-  - "[[_Standards/WikiData/WD~indicator_light,64539065]]"
-different_from: "[[_Standards/WikiData/WD~lead,947546]]"
+- '[[_Standards/WikiData/WD~light_fixture,815738]]'
+- '[[_Standards/WikiData/WD~lamp,1138737]]'
+- '[[_Standards/WikiData/WD~light_source,1146001]]'
+- '[[_Standards/WikiData/WD~signal,2150504]]'
+- '[[_Standards/WikiData/WD~indicator_light,64539065]]'
+different_from: '[[_Standards/WikiData/WD~lead,947546]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~semiconductor_diode,1929430]]"
-  - "[[_Standards/WikiData/WD~light_emitting_component,65037275]]"
-  - "[[_Standards/WikiData/WD~capacitor,5322]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]"
-Nomenclature_for_Museum_Cataloging: "1764"
+- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
+- '[[_Standards/WikiData/WD~light_emitting_component,65037275]]'
+- '[[_Standards/WikiData/WD~capacitor,5322]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+Nomenclature_for_Museum_Cataloging: 1764
 Commons_gallery: LED
 subreddit: led
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.4.2.svg
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LED%2C%205mm%2C%20green%20%28en%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Surface%20mount%20LED%20close%20up%20image.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/LED%2C%205mm%2C%20green%20%28en%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Surface%20mount%20LED%20close%20up%20image.png
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/LEDs%208%205%203mm.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Led-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Verschiedene%20LEDs.jpg
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/led
-UNSPSC_Code: "32111503"
+UNSPSC_Code: 32111503
 IEV_number: 845-27-050
 Commons_category: Light-emitting diodes
+dv_has_:
+  name_:
+    ar: ثنائي باعث للضوء
+    as: পোহৰ নিৰ্গত ডায়'ড
+    ast: Led
+    az: İşıq diodu
+    be: святлодыёд
+    be-tarask: сьвятлодыёд
+    bg: Светодиод
+    bn: আলোক নিঃসারী ডায়োড
+    bs: Svjetleća dioda
+    ca: díode emissor de llum
+    ckb: ئێڵ ئی دی
+    cy: Deuod allyrru golau
+    da: Lysdiode
+    de: Leuchtdiode
+    de-ch: Leuchtdiode
+    el: Δίοδος Εκπομπής Φωτός
+    en: light-emitting diode
+    en-ca: Light-emitting diode
+    en-gb: light-emitting diode
+    eo: lum-eliganta diodo
+    es: diodo emisor de luz
+    es-419: LED - Diodo luminoso
+    et: Valgusdiood
+    fa: دیود نورگسیل
+    fr: diode électroluminescente
+    frr: Jåchtdioode
+    ga: dé-óid sholasastaíoch
+    gl: diodo emisor de luz
+    he: דיודה פולטת אור
+    hi: प्रकाश उत्सर्जक डायोड
+    hr: Svjetleća dioda
+    hu: világító dióda
+    id: Dioda pemancar cahaya
+    is: Ljóstvistur
+    ja: 発光ダイオード
+    ka: მანათობელი დიოდები
+    kk: Жарық шығаратын диод
+    kn: ಎಲ್.ಇ.ಡಿ
+    ko: 발광 다이오드
+    lmo: Diod emissor de lus
+    lt: šviesos diodas
+    lv: Mirdzdiode
+    mk: светлечка диода
+    ml: ലൈറ്റ് എമിറ്റിങ്ങ് ഡയോഡ്
+    mr: एलईडी
+    ms: Diod pemancar cahaya
+    mul: LED
+    nb: lysdiode
+    nl: led
+    nn: Lysdiode
+    pl: dioda elektroluminescencyjna
+    pms: Dìod a emission luminosa
+    pnb: چانن والا ڈائیوڈ
+    pt: diodo emissor de luz
+    pt-br: diodo emissor de luz
+    ru: светодиод
+    sco: licht-emittin diode
+    sh: Svetleća dioda
+    si: ආලෝක විමෝචක දියෝඩය
+    sk: luminiscenčná dióda
+    sl: svetleča dioda
+    sq: led
+    sr: светлећа диода
+    sr-ec: светлећа диода
+    sr-el: svetleća dioda
+    stq: Ljoachtdiode
+    sv: lysdiod
+    ta: ஒளிகாலும் இருமுனையம்
+    te: ఎల్ ఈ డీ
+    tg: Светодиод
+    th: ไดโอดเปล่งแสง
+    tl: Duhandas na nagsasaboy ng liwanag
+    tt: яктылыктараткыч диод
+    uk: світлодіод
+    ur: led
+    war: Light-emitting diode
+    wuu: 发光二极管
+    yi: ליכט-ימיטינג דייאוד
+    yue: 發光二極管
+    zh: 發光二極管
+    zh-cn: 发光二极管
+    zh-hans: 发光二极管
 ---
-
 # [[LED(Light-emitting_Diode)]] 
 
 #is_/same_as :: [[WD~Light-emitting_diode,25504]] 

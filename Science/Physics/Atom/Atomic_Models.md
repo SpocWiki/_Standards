@@ -1,15 +1,147 @@
 ---
 aliases:
+- Aadomiteooria
+- Aatomimudel
+- Atom nazariyasi
+- atoma teorija
+- atomelmélet
+- Atomik Teori
+- Atomistika
+- atomiteoria
+- Atomová teorie
+- Atomska teorija
+- atomteori
+- atomteorio
+- atoomtheorie
+- Hinuhang atomiko
+- History of atomic theory
+- Liste der Atommodelle
+- Pʋyʋ kɔtɩɩɩ yɔɔ lɩmaɣzɩyɛ
+- Teoiric adamhach
+- Teori atom
+- Teoria atomal
+- teoria atomică
+- Teoria atomiko
+- teoria atòmica
+- teoria atômica
+- Teoría atómica
+- teyori atomik
+- Teyorya atomika
+- Thuyết nguyên tử
+- théorie atomique
+- Ατομική θεωρία
+- Атамная тэорыя
+- Атом теорийĕ
+- Атомистика
+- Атомна теорія
+- Атомна теория
+- Атомная теория
+- התורה האטומית
+- اتومي تیوري/نظریه
+- ایٹمی ماڈل دا ارتقا
+- تیۆریی ئەتۆمی
+- نظرية ذرية
+- نظریه اتمی
+- نظریۂ جوہر
+- परमाणु सिद्धांत
+- परमाणुवाद
+- পারমাণবিক তত্ত্ব
+- ਪ੍ਰਮਾਣੂ ਸਿਧਾਂਤ
+- அணுவியல் கொள்கை
+- పరమాణు సిద్ధాంతం
+- ಪರಮಾಣು ಸಿದ್ಧಾಂತ
+- അണുസിദ്ധാന്തം
+- පරමාණුක වාදය
+- ทฤษฎีอะตอม
+- ატომური თეორია
+- 原子模型
+- 原子理論
+- 原子理论
+- 原子論
+- 원자론
 has_id_wikidata: Q210553
-part_of: "[[_Standards/WikiData/WD~atomism,178668]]"
-has_part_s_: "[[_Standards/WikiData/WD~atom_model,780649]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-instance_of: "[[_Standards/WikiData/WD~scientific_theory,3239681]]"
+part_of: '[[_Standards/WikiData/WD~atomism,178668]]'
+has_part_s_: '[[_Standards/WikiData/WD~atom_model,780649]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+instance_of: '[[_Standards/WikiData/WD~scientific_theory,3239681]]'
 main_subject:
-  - "[[_Standards/WikiData/WD~atom,9121]]"
-  - "[[_Standards/WikiData/WD~matter,35758]]"
+- '[[_Standards/WikiData/WD~atom,9121]]'
+- '[[_Standards/WikiData/WD~matter,35758]]'
+dv_has_:
+  name_:
+    anp: परमाणु सिद्धांत
+    ar: نظرية ذرية
+    ast: Teoría atómica
+    be: Атамная тэорыя
+    be-tarask: атамная тэорыя
+    bg: Атомна теория
+    bn: পারমাণবিক তত্ত্ব
+    bs: Atomska teorija
+    ca: teoria atòmica
+    ckb: تیۆریی ئەتۆمی
+    cs: Atomová teorie
+    cv: Атом теорийĕ
+    da: atomteori
+    de: Liste der Atommodelle
+    el: Ατομική θεωρία
+    en: History of atomic theory
+    eo: atomteorio
+    es: teoría atómica
+    et: Aatomimudel
+    eu: Teoria atomiko
+    fa: نظریه اتمی
+    fi: atomiteoria
+    fr: théorie atomique
+    ga: Teoiric adamhach
+    he: התורה האטומית
+    hi: परमाणुवाद
+    ht: teyori atomik
+    hu: atomelmélet
+    id: Teori atom
+    ja: 原子模型
+    ka: ატომური თეორია
+    kbp: Pʋyʋ kɔtɩɩɩ yɔɔ lɩmaɣzɩyɛ
+    kn: ಪರಮಾಣು ಸಿದ್ಧಾಂತ
+    ko: 원자론
+    lfn: Teoria atomal
+    lv: atoma teorija
+    ml: അണുസിദ്ധാന്തം
+    nb: atomteori
+    nl: atoomtheorie
+    nn: Atomteori
+    pa: ਪ੍ਰਮਾਣੂ ਸਿਧਾਂਤ
+    pnb: ایٹمی ماڈل دا ارتقا
+    ps: اتومي تیوري/نظریه
+    pt: teoria atômica
+    ro: teoria atomică
+    ru: Атомная теория
+    sh: Atomistika
+    si: පරමාණුක වාදය
+    sr: Атомистика
+    sr-ec: Атомистика
+    sr-el: Atomistika
+    sv: atomteori
+    ta: அணுவியல் கொள்கை
+    te: పరమాణు సిద్ధాంతం
+    th: ทฤษฎีอะตอม
+    tl: Hinuhang atomiko
+    tr: Atomik Teori
+    uk: Атомна теорія
+    ur: نظریۂ جوہر
+    uz: Atom nazariyasi
+    vi: Thuyết nguyên tử
+    vro: Aadomiteooria
+    war: Teyorya atomika
+    wuu: 原子理论
+    yue: 原子論
+    zh: 原子理論
+    zh-cn: 原子理论
+    zh-hans: 原子理论
+    zh-hant: 原子理論
+    zh-hk: 原子理論
+    zh-sg: 原子理论
+    zh-tw: 原子理論
 ---
-
 # [[Atomic_Models]] 
 
 #is_/same_as :: [[../../../WikiData/WD~History_of_atomic_theory,210553|WD~History_of_atomic_theory,210553]] 

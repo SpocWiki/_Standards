@@ -1,23 +1,132 @@
 ---
 aliases:
-  - Säbel
-  - Saber
+- Kardas
+- Kitara (silaha)
+- Kysegi
+- saabel
+- Sabatra
+- sabel
+- Saber
+- sabie
+- sable
+- Sablja
+- sabre
+- Sabrenn
+- Sabro
+- sapeli
+- sciabola
+- Soabel
+- szabla
+- szablya
+- Sàber
+- Säbel
+- Süvari kılıcı
+- Şûrbel
+- Šabľa
+- šavle
+- Šuoblė
+- σπάθη
+- сабја
+- сабља
+- сабля
+- Сабя
+- шабля
+- Սուր
+- סיף פרשים
+- سابر
+- سيف ضالع
+- شووربەل
+- サーベル
+- 佩剑
+- 佩劍
+- 사브르
 has_id_wikidata: Q231204
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~piercing_cutting_weapon,9180322]]'
-  - '[[_Standards/WikiData/WD~sword,12791]]'
+- '[[_Standards/WikiData/WD~piercing_cutting_weapon,9180322]]'
+- '[[_Standards/WikiData/WD~sword,12791]]'
 different_from: '[[_Standards/WikiData/WD~saber,49068756]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 Commons_category: Sabres
 MCN_code: 9307.00.00
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dm.%20Iv.%20Godunov%27s%20sabre%20%281598-1606%2C%20Hermitage%29%2001%20by%20shakko.jpg
 IPTC_NewsCode: mediatopic/20000932
+dv_has_:
+  name_:
+    ar: سيف ضالع
+    ast: sable
+    be: Шабля
+    be-tarask: Шабля
+    bg: Сабя
+    br: Sabrenn
+    bs: Sablja
+    ca: sabre
+    cs: šavle
+    csb: Szabla
+    da: sabel
+    de: Säbel
+    el: σπάθη
+    en: saber
+    en-gb: sabre
+    eo: sabro
+    es: sable
+    et: saabel
+    eu: Sable
+    fa: سابر
+    fi: sapeli
+    fr: sabre
+    gl: Sabre
+    gn: Kysegi
+    he: סיף פרשים
+    hr: Sablja
+    hu: szablya
+    hy: Սուր
+    id: Sabel
+    io: Sabro
+    it: sciabola
+    ja: サーベル
+    ko: 사브르
+    ku: Şûrbel
+    ku-arab: شووربەل
+    ku-latn: Şûrbel
+    lt: Kardas
+    mg: Sabatra
+    mk: сабја
+    nb: sabel
+    nl: sabel
+    nn: sabel
+    oc: Sabre
+    pl: szabla
+    pms: Sàber
+    pt: sabre
+    pt-br: sabre
+    ro: sabie
+    ru: сабля
+    sgs: Šuoblė
+    sh: Sablja
+    sk: Šabľa
+    sl: sablja
+    sq: Sabre
+    sr: сабља
+    sr-ec: сабља
+    sr-el: sablja
+    stq: Soabel
+    sv: sabel
+    sw: Kitara (silaha)
+    tr: Süvari kılıcı
+    uk: шабля
+    yue: 佩劍
+    zh: 佩劍
+    zh-cn: 佩剑
+    zh-hans: 佩剑
+    zh-hant: 佩劍
+    zh-hk: 佩劍
+    zh-sg: 佩剑
+    zh-tw: 佩劍
 ---
-
 # [[Saber]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Saber,231204|WD~Saber,231204]]  

@@ -1,23 +1,99 @@
 ---
 aliases:
-  - parasites
+- arvil
+- asalaklık
+- atam
+- chisvetasimba
+- faoighiche
+- formagnance
+- katsentsitra
+- kimelea
+- ký sinh
+- loisinta
+- maxxantumma
+- mişexwerî
+- muftxūr
+- Parasiit
+- parasites
+- parasitiaeth
+- parasitism
+- parasitisma
+- Parasitisme
+- parasitismm
+- parasitismo
+- parasitismu
+- Parasitismus
+- parasittisme
+- parassitismo
+- paraziteso
+- parazitis
+- parazitism
+- parazitismo
+- parazitismus
+- parazitizam
+- parazitizm
+- parazitizmas
+- parazitizmi
+- parazitizmus
+- parazītisms
+- pasożytnictwo
+- seadánachas
+- sníkjulíf
+- tijjenṭedt
+- zajedavstvo
+- παρασιτισμός
+- мителер
+- муфтхӯр
+- паразітызм
+- паразити
+- паразитизам
+- паразитизм
+- паразитизъм
+- Паразитлык
+- паразиттар
+- паразытызм
+- Шимэгчлэл
+- մակաբույծություն
+- טפילות
+- פאראזיט
+- انگل
+- تبرزيط
+- تطفل
+- طفیلیت
+- مشەخۆری
+- مفت خور
+- پرازيتيزم
+- ڤاراسيتيسمى
+- परजीविता
+- परजीवीपणा
+- পরজীবিতা
+- ਪਰਜੀਵੀਪੁਣਾ
+- ପରଜୀବୀ
+- ஒட்டுண்ணி வாழ்வு
+- పరాన్నజీవనం
+- ಪರಜೀವಿಕೆ
+- പരാദജീവനം
+- ปรสิต
+- პარაზიტი
+- 寄生
+- 기생
 has_id_wikidata: Q186517
 subclass_of:
-  - "[[_Standards/WikiData/WD~symbiosis,121610]]"
-  - "[[_Standards/WikiData/WD~predator,29017578]]"
+- '[[_Standards/WikiData/WD~symbiosis,121610]]'
+- '[[_Standards/WikiData/WD~predator,29017578]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~host_organism,221673]]"
-  - "[[_Standards/WikiData/WD~parasite,10253316]]"
+- '[[_Standards/WikiData/WD~host_organism,221673]]'
+- '[[_Standards/WikiData/WD~parasite,10253316]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-named_after: "[[_Standards/WikiData/WD~parasite,10253316]]"
-OmegaWiki_Defined_Meaning: "2716"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+named_after: '[[_Standards/WikiData/WD~parasite,10253316]]'
+OmegaWiki_Defined_Meaning: 2716
 Commons_category: Parasites
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Live%20Tetragnatha%20montana%20%28RMNH.ARA.14127%29%20parasitized%20by%20Acrodactyla%20quadrisculpta%20larva%20%28RMNH.INS.593867%29%20-%20BDJ.1.e992.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%B0%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A6%BE.wav
@@ -25,8 +101,118 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Parasitic%20fungus.svg
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/parasitism
 Wolfram_Language_entity_code: Entity["Concept", "Parasitism::63dx7"]
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PARAZITIZM.html
+dv_has_:
+  name_:
+    ar: تطفل
+    ary: تبرزيط
+    ast: parasitismu
+    az: parazitizm
+    azb: انگل
+    be: паразітызм
+    be-tarask: паразытызм
+    bg: паразитизъм
+    bn: পরজীবিতা
+    bs: parazitizam
+    ca: parasitisme
+    ckb: مشەخۆری
+    cs: parazitismus
+    cy: parasitiaeth
+    da: parasitisme
+    de: Parasitismus
+    el: παρασιτισμός
+    en: parasitism
+    en-ca: parasitism
+    en-gb: parasitism
+    eo: parazitismo
+    es: parasitismo
+    et: parasitism
+    eu: parasitismo
+    fa: انگل
+    fi: loisinta
+    fr: parasitisme
+    frr: Parasiit
+    fy: Parasitisme
+    ga: seadánachas
+    gd: faoighiche
+    gl: parasitismo
+    he: טפילות
+    hi: परजीविता
+    hr: parazitizam
+    ht: parazitis
+    hu: parazitizmus
+    hy: մակաբույծություն
+    ia: parasitismo
+    id: parasitisme
+    ig: parasitism
+    io: paraziteso
+    is: sníkjulíf
+    it: parassitismo
+    ja: 寄生
+    ka: პარაზიტი
+    kab: tijjenṭedt
+    kk: паразитизм
+    kn: ಪರಜೀವಿಕೆ
+    ko: 기생
+    ku: mişexwerî
+    ku-latn: mişexwerî
+    kw: arvil
+    ky: мителер
+    la: parasitismus
+    lt: parazitizmas
+    lv: parazītisms
+    mg: katsentsitra
+    mk: паразити
+    ml: പരാദജീവനം
+    mn: Шимэгчлэл
+    mr: परजीवीपणा
+    ms: parasitisme
+    ms-arab: ڤاراسيتيسمى
+    nb: parasittisme
+    nl: parasitisme
+    nn: parasittisme
+    oc: parasitisme
+    om: maxxantumma
+    or: ପରଜୀବୀ
+    pa: ਪਰਜੀਵੀਪੁਣਾ
+    pl: pasożytnictwo
+    ps: پرازيتيزم
+    pt: parasitismo
+    qu: atam
+    ro: parazitism
+    ru: паразитизм
+    sah: паразиттар
+    sd: مفت خور
+    se: parasitisma
+    sk: parazitizmus
+    sl: zajedavstvo
+    smn: parasitism
+    sms: parasitismm
+    sn: chisvetasimba
+    sq: parazitizmi
+    sr: паразитизам
+    sr-ec: паразитизам
+    sr-el: parazitizam
+    sv: parasitism
+    sw: kimelea
+    ta: ஒட்டுண்ணி வாழ்வு
+    te: పరాన్నజీవనం
+    tg: муфтхӯр
+    tg-latn: muftxūr
+    th: ปรสิต
+    tl: parasitismo
+    tr: asalaklık
+    tt: Паразитлык
+    uk: паразитизм
+    ur: طفیلیت
+    uz: parazitizm
+    vi: ký sinh
+    wa: formagnance
+    wuu: 寄生
+    xmf: პარაზიტი
+    yi: פאראזיט
+    yue: 寄生
+    zh: 寄生
 ---
-
 # [[Parasitism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Parasitism,186517|WD~Parasitism,186517]] 

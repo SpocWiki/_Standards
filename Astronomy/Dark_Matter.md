@@ -1,58 +1,253 @@
 ---
 aliases:
-  - dark matter
-  - Dark_Matter
-  - Dark Matter
+- ciemna materia
+- damhna dorcha
+- dark matter
+- Dark_Matter
+- donkel Matière
+- donker materie
+- donkere materie
+- dunkle Materie
+- hulduefni
+- ihe gbara ọchịchịrị
+- jirim gelap
+- karanlık madde
+- madeyo tari
+- malluma materio
+- mata ya giza
+- mater tywyll
+- materi galok
+- materi gelap
+- materi peteng
+- materia escura
+- materia escuro
+- materia ilun
+- materia nigra
+- materia nìvira
+- materia obscur
+- materia oscur
+- materia oscura
+- materia întunecată
+- materja skura
+- materyang madilim
+- matière noire
+- matèria fosca
+- matèria oscura
+- matéria escura
+- matêia scûa
+- mörk materia
+- mørk materie
+- mørkt stof
+- natèria escura
+- pimeä aine
+- qaranlıq materiya
+- sombra materio
+- sötét anyag
+- tamna materija
+- tamna tvar
+- tamsioji medžiaga
+- tanga tamallast
+- temna snov
+- temná hmota
+- tmavá hmota
+- tsjustere matearje
+- tumeaine
+- tumšā matērija
+- vật chất tối
+- watana dukkanaa
+- àm-o͘ bu̍t-chit
+- σκοτεινή ύλη
+- кара матдә
+- къара жынгыл
+- күңгірт материя
+- тĕксĕм йăмлăх
+- тёмная материя
+- тамна материја
+- темна матерія
+- темна материја
+- тъмна материя
+- цёмная матэрыя
+- մութ նյութ
+- חומר אפל
+- טונקעלע מאטעריע
+- تاریک مادہ
+- تياره ماده
+- مادة مظلمة
+- ماددەی تاریک
+- ماده تاریک
+- ڪارو مادو
+- आन्ध्र पदार्थ
+- कृष्णद्रव्य
+- डार्क म्याटर
+- তমোপদার্থ
+- ਹਨੇਰ ਪਦਾੱਰਥ
+- கரும்பொருள்
+- కృష్ణ పదార్థం
+- ಡಾರ್ಕ್ ಮ್ಯಾಟರ್
+- തമോദ്രവ്യം
+- අඳුරු පදාර්ථ
+- สสารมืด
+- ဒြပ်မှောင်
+- ბნელი მატერია
+- რუმე მატერია
+- 暗物質
+- 暗物质
+- 暗黒物質
+- 암흑물질
 has_id_wikidata: Q79925
 different_from:
-  - "[[_Standards/WikiData/WD~antimatter,83197]]"
-  - "[[_Standards/WikiData/WD~dark_fluid,5223514]]"
-  - "[[_Standards/WikiData/WD~dark_energy,18343]]"
+- '[[_Standards/WikiData/WD~antimatter,83197]]'
+- '[[_Standards/WikiData/WD~dark_fluid,5223514]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343]]'
 part_of:
-  - "[[_Standards/WikiData/WD~observable_universe,221392]]"
-  - "[[_Standards/WikiData/WD~hidden_sector,16919810]]"
-has_characteristic: "[[_Standards/WikiData/WD~gravitational_mass,1076402]]"
+- '[[_Standards/WikiData/WD~observable_universe,221392]]'
+- '[[_Standards/WikiData/WD~hidden_sector,16919810]]'
+has_characteristic: '[[_Standards/WikiData/WD~gravitational_mass,1076402]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~weakly_interacting_massive_particle,1129252]]"
-  - "[[_Standards/WikiData/WD~cold_dark_matter,1153477]]"
-model_item: "[[_Standards/WikiData/WD~cold_dark_matter,1153477]]"
-instance_of: "[[_Standards/WikiData/WD~hypothetical_entity,18706315]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Dark_matter,21400304]]"
+- '[[_Standards/WikiData/WD~weakly_interacting_massive_particle,1129252]]'
+- '[[_Standards/WikiData/WD~cold_dark_matter,1153477]]'
+model_item: '[[_Standards/WikiData/WD~cold_dark_matter,1153477]]'
+instance_of: '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Dark_matter,21400304]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_substance,28732711]]"
-  - "[[_Standards/WikiData/WD~matter,35758]]"
-  - "[[_Standards/WikiData/WD~interstellar_medium,41872]]"
+- '[[_Standards/WikiData/WD~physical_substance,28732711]]'
+- '[[_Standards/WikiData/WD~matter,35758]]'
+- '[[_Standards/WikiData/WD~interstellar_medium,41872]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~cosmology,338]]"
-  - "[[_Standards/WikiData/WD~astrophysics,37547]]"
+- '[[_Standards/WikiData/WD~cosmology,338]]'
+- '[[_Standards/WikiData/WD~astrophysics,37547]]'
 OmegaWiki_Defined_Meaning: 7964
 Commons_category: Dark matter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CFHTLenSDMmap2012.jpg
 Stack_Exchange_tag:
-  - https://astronomy.stackexchange.com/tags/dark-matter
-  - https://physics.stackexchange.com/tags/dark-matter
+- https://astronomy.stackexchange.com/tags/dark-matter
+- https://physics.stackexchange.com/tags/dark-matter
 Dewey_Decimal_Classification: 523.1126
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]]"
-    - "[[/_Standards/Astronomy/Dark_Matter|Dark_Matter]]"
-    - "[[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]]"
-    - "[[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]]"
-    - "[[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]]"
-    - "[[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]]"
-    - "[[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]]"
-    - "[[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]]"
+  - '[[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]]'
+  - '[[/_Standards/Astronomy/Dark_Matter|Dark_Matter]]'
+  - '[[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]]'
+  - '[[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]]'
+  - '[[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]]'
+  - '[[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]]'
+  - '[[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]]'
+  - '[[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]]"
-  - "[[/_Standards/Astronomy/Dark_Matter|Dark_Matter]]"
-  - "[[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]]"
-  - "[[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]]"
-  - "[[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]]"
-  - "[[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]]"
-  - "[[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]]"
-  - "[[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]]"
+- '[[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]]'
+- '[[/_Standards/Astronomy/Dark_Matter|Dark_Matter]]'
+- '[[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]]'
+- '[[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]]'
+- '[[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]]'
+- '[[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]]'
+- '[[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]]'
+- '[[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]]'
+dv_has_:
+  name_:
+    af: donker materie
+    ar: مادة مظلمة
+    ast: materia escuro
+    az: qaranlıq materiya
+    be: цёмная матэрыя
+    be-tarask: цёмная матэрыя
+    bg: тъмна материя
+    bn: তমোপদার্থ
+    bs: tamna materija
+    ca: matèria fosca
+    ckb: ماددەی تاریک
+    cs: temná hmota
+    cv: тĕксĕм йăмлăх
+    cy: mater tywyll
+    da: mørkt stof
+    de: dunkle Materie
+    diq: madeyo tari
+    el: σκοτεινή ύλη
+    en: dark matter
+    eo: malluma materio
+    es: materia oscura
+    et: tumeaine
+    eu: materia ilun
+    fa: ماده تاریک
+    fi: pimeä aine
+    fr: matière noire
+    fy: tsjustere matearje
+    ga: damhna dorcha
+    gl: materia escura
+    he: חומר אפל
+    hi: आन्ध्र पदार्थ
+    hr: tamna tvar
+    hu: sötét anyag
+    hy: մութ նյութ
+    ia: materia obscur
+    id: materi gelap
+    ig: ihe gbara ọchịchịrị
+    io: sombra materio
+    is: hulduefni
+    it: materia oscura
+    ja: 暗黒物質
+    jv: materi peteng
+    ka: ბნელი მატერია
+    kab: tanga tamallast
+    kk: күңгірт материя
+    kn: ಡಾರ್ಕ್ ಮ್ಯಾಟರ್
+    ko: 암흑물질
+    krc: къара жынгыл
+    la: materia nigra
+    lb: donkel Matière
+    lfn: materia oscur
+    lij: matêia scûa
+    lt: tamsioji medžiaga
+    lv: tumšā matērija
+    min: materi galok
+    mk: темна материја
+    ml: തമോദ്രവ്യം
+    mr: कृष्णद्रव्य
+    ms: jirim gelap
+    mt: materja skura
+    my: ဒြပ်မှောင်
+    nan: àm-o͘ bu̍t-chit
+    nb: mørk materie
+    ne: डार्क म्याटर
+    nl: donkere materie
+    nn: mørk materie
+    oc: natèria escura
+    om: watana dukkanaa
+    pa: ਹਨੇਰ ਪਦਾੱਰਥ
+    pl: ciemna materia
+    pnb: تاریک مادہ
+    ps: تياره ماده
+    pt: matéria escura
+    rki: ဒြပ်မှောင်
+    ro: materia întunecată
+    ru: тёмная материя
+    scn: materia nìvira
+    sco: dark matter
+    sd: ڪارو مادو
+    sh: tamna materija
+    si: අඳුරු පදාර්ථ
+    sk: tmavá hmota
+    sl: temna snov
+    sr: тамна материја
+    sr-ec: тамна материја
+    sv: mörk materia
+    sw: mata ya giza
+    ta: கரும்பொருள்
+    te: కృష్ణ పదార్థం
+    th: สสารมืด
+    tl: materyang madilim
+    tr: karanlık madde
+    tt: кара матдә
+    uk: темна матерія
+    ur: تاریک مادہ
+    vec: matèria oscura
+    vi: vật chất tối
+    wuu: 暗物质
+    xmf: რუმე მატერია
+    yi: טונקעלע מאטעריע
+    yue: 暗物質
+    zh: 暗物质
+    zh-hant: 暗物質
 ---
-
 # [[Dark_Matter]] 
 
 #is_/same_as :: [[../WikiData/WD~Dark_matter,79925|WD~Dark_matter,79925]] 

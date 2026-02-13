@@ -1,25 +1,65 @@
 ---
 aliases:
+- I-plankton
+- keilusto
+- meanbh-bheò
+- Pilaankitoonii
+- plancto
+- plancton
+- planctón
+- plankton
+- planktonas
+- Planktong
+- Planktoni
+- planktono
+- planktons
+- planktón
+- Planktôna
+- plàncton
+- plâncton
+- sinh vật phù du
+- svif
+- Πλαγκτόν
+- планктон
+- плянктон
+- պլանկտոն
+- פלנקטון
+- عوالق
+- پلانکتون
+- پلانکٹن
+- پلانکټون
+- پلینکٹون
+- प्लवक
+- প্ল্যাঙ্কটন
+- மிதவைவாழி
+- ప్లవకాలు
+- പ്ലാങ്ക്ടൺ
+- แพลงก์ตอน
+- ရေမျော
+- პლანქტონი
+- プランクトン
+- 浮游生物
+- 플랑크톤
 has_id_wikidata: Q25367
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-opposite_of: "[[_Standards/WikiData/WD~nekton,751806]]"
-studied_by: "[[_Standards/WikiData/WD~planktology,1201861]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+opposite_of: '[[_Standards/WikiData/WD~nekton,751806]]'
+studied_by: '[[_Standards/WikiData/WD~planktology,1201861]]'
 habitat:
-  - "[[_Standards/WikiData/WD~air,7391292]]"
-  - "[[_Standards/WikiData/WD~body_of_water,15324]]"
+- '[[_Standards/WikiData/WD~air,7391292]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Plankton,20334125]]"
-  - "[[_Standards/WikiData/WD~Template_Plankton_sidebar,104714739]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_living_thing,55597235]]"
-subclass_of: "[[_Standards/WikiData/WD~organism,7239]]"
+- '[[_Standards/WikiData/WD~Template_Plankton,20334125]]'
+- '[[_Standards/WikiData/WD~Template_Plankton_sidebar,104714739]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
 Commons_gallery: Plankton
 Commons_category: Plankton
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diatoms%20through%20the%20microscope.jpg
@@ -29,8 +69,112 @@ MeSH_tree_code: B05.080.500
 Krugosvet_article_archived_: biologiya/plankton
 UMLS_CUI: C0032071
 name: plankton
+dv_has_:
+  name_:
+    af: plankton
+    ar: عوالق
+    ast: plancton
+    az: plankton
+    ban: Plankton
+    bcl: Plankton
+    be: планктон
+    be-tarask: плянктон
+    bg: планктон
+    bn: প্ল্যাঙ্কটন
+    br: plankton
+    bs: plankton
+    ca: plàncton
+    cs: plankton
+    cy: plancton
+    da: plankton
+    de: Plankton
+    de-ch: Plankton
+    el: Πλαγκτόν
+    en: plankton
+    en-ca: plankton
+    en-gb: plankton
+    eo: planktono
+    es: plancton
+    et: plankton
+    eu: plankton
+    fa: پلانکتون
+    fi: plankton
+    fr: plancton
+    frr: plankton
+    ga: planctón
+    gd: meanbh-bheò
+    gl: plancto
+    he: פלנקטון
+    hi: प्लवक
+    hr: plankton
+    ht: plankton
+    hu: plankton
+    hy: պլանկտոն
+    ia: plancton
+    id: plankton
+    io: planktono
+    is: svif
+    it: plancton
+    ja: プランクトン
+    jv: plankton
+    ka: პლანქტონი
+    kk: планктон
+    ko: 플랑크톤
+    ky: планктон
+    la: plancton
+    lb: Plankton
+    lfn: plancton
+    li: plankton
+    lt: planktonas
+    lv: planktons
+    mg: Planktôna
+    mk: планктон
+    ml: പ്ലാങ്ക്ടൺ
+    ms: plankton
+    my: ရေမျော
+    nb: plankton
+    nds: Plankton
+    nl: plankton
+    nn: plankton
+    oc: plancton
+    olo: keilusto
+    om: Pilaankitoonii
+    pl: plankton
+    pnb: پلانکٹن
+    ps: پلانکټون
+    pt: plâncton
+    pt-br: plâncton
+    ro: plancton
+    ru: планктон
+    sco: plankton
+    sh: plankton
+    sk: planktón
+    sl: plankton
+    sq: Planktoni
+    sr: планктон
+    su: Plankton
+    sv: plankton
+    sw: planktoni
+    ta: மிதவைவாழி
+    te: ప్లవకాలు
+    th: แพลงก์ตอน
+    tl: plankton
+    tr: plankton
+    tt: планктон
+    udm: планктон
+    uk: плянктон
+    ur: پلینکٹون
+    uz: plankton
+    vi: sinh vật phù du
+    vls: Planktong
+    war: plankton
+    wuu: 浮游生物
+    xh: I-plankton
+    yue: 浮游生物
+    zh: 浮游生物
+    zh-cn: 浮游生物
+    zh-tw: 浮游生物
 ---
-
 # [[Plankton]] 
 
 #is_/same_as :: [[WD~Plankton,25367]] 

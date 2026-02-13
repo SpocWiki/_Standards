@@ -1,25 +1,148 @@
 ---
 aliases:
-  - Copyright infringement
-  - piracy
-  - Copyright_Infringement
-  - Copyright Infringement
+- auteursrechtinbreuk
+- copyricht infreengement
+- Copyright infringement
+- Copyright_Infringement
+- egile eskubideen arau hauste
+- infracció de drets d'autor
+- infracción de derechos d'autor
+- infracción de derechos de autor
+- infraction du droit d'auteur
+- infração de direitos autorais
+- karapatang sipi
+- Keta Haƙƙin Mallaka
+- kršitev avtorskih pravic
+- malobservo de aŭtorrajtoj
+- müəllif hüquqlarının pozulması
+- pelanggaran hak cipta
+- piractwo medialne
+- piracy
+- pirataría intelectual
+- pirateria
+- piratkopi
+- piratkopiering
+- porušování autorského práva
+- szerzőijog-sértés
+- tekijänoikeuden loukkaus
+- telif hakkı ihlali
+- torri hawlfraint
+- Ukiukaji wa Hakimiliki
+- ukwaphulwa kwelungelo lokushicilela
+- Urheberrechtsverletzung
+- Vi phạm bản quyền
+- violazione del copyright
+- încălcare a dreptului de autor
+- Παραβίαση πνευματικών δικαιωμάτων
+- авторлық құқықты бұзу
+- авторлыҡ хоҡуғын боҙоу
+- Зохиогчийн эрх зөрчилт
+- нарушение авторского права
+- нарушување на авторски права
+- парушэньне аўтарскіх правоў
+- повреда ауторских права
+- порушення авторского права
+- Հեղինակային իրավունքի խախտում
+- הפרת זכויות יוצרים
+- اشاعتي چوري
+- انتهاك حقوق النسخ
+- نقض قوانین حق تکثیر
+- پێشێلکردنی مافی لەبەرگرتنەوە
+- इंटरनेट चाचेगिरी
+- মেধাস্বত্ব লঙ্ঘন
+- ਕਾਪੀਰਾਈਟ ਉਲੰਘਣਾ
+- பதிப்புரிமை மீறல்
+- പകർപ്പവകാശലംഘനം
+- การละเมิดลิขสิทธิ์
+- 版权侵害
+- 版權侵害
+- 盗版
+- 著作权侵权
+- 著作権侵害
+- 저작권 침해
 has_id_wikidata: Q647578
 different_from:
-  - '[[_Standards/WikiData/WD~plagiarism,164666]]'
-  - '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602]]'
-  - '[[_Standards/WikiData/WD~sea_piracy,45393]]'
+- '[[_Standards/WikiData/WD~plagiarism,164666]]'
+- '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602]]'
+- '[[_Standards/WikiData/WD~sea_piracy,45393]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~plagiarism,164666]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~contravention,2995853]]'
-  - '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602]]'
+- '[[_Standards/WikiData/WD~contravention,2995853]]'
+- '[[_Standards/WikiData/WD~intellectual_property_infringement,16963602]]'
 Library_of_Congress_Classification: K1485
 social_media_followers: 1154601
 subreddit: Piracy
 Commons_category: Product piracy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pirate%20street%20vendor.jpg
+dv_has_:
+  name_:
+    ar: انتهاك حقوق النسخ
+    ast: infracción de derechos d'autor
+    az: müəllif hüquqlarının pozulması
+    ba: авторлыҡ хоҡуғын боҙоу
+    be-tarask: парушэньне аўтарскіх правоў
+    bn: মেধাস্বত্ব লঙ্ঘন
+    ca: infracció de drets d'autor
+    ckb: پێشێلکردنی مافی لەبەرگرتنەوە
+    cs: porušování autorského práva
+    cy: torri hawlfraint
+    da: piratkopiering
+    de: Urheberrechtsverletzung
+    de-ch: Urheberrechtsverletzung
+    el: Παραβίαση πνευματικών δικαιωμάτων
+    en: copyright infringement
+    en-ca: copyright infringement
+    en-gb: copyright infringement
+    eo: malobservo de aŭtorrajtoj
+    es: infracción de derechos de autor
+    eu: egile eskubideen arau hauste
+    ext: pirateria
+    fa: نقض قوانین حق تکثیر
+    fi: tekijänoikeuden loukkaus
+    fr: infraction du droit d'auteur
+    gl: pirataría intelectual
+    ha: Keta Haƙƙin Mallaka
+    he: הפרת זכויות יוצרים
+    hu: szerzőijog-sértés
+    hy: Հեղինակային իրավունքի խախտում
+    id: pelanggaran hak cipta
+    ig: copyright infringement
+    it: violazione del copyright
+    ja: 著作権侵害
+    kk: авторлық құқықты бұзу
+    ko: 저작권 침해
+    mk: нарушување на авторски права
+    ml: പകർപ്പവകാശലംഘനം
+    mn: Зохиогчийн эрх зөрчилт
+    mr: इंटरनेट चाचेगिरी
+    ms: pelanggaran hak cipta
+    nb: piratkopiering
+    nl: auteursrechtinbreuk
+    nn: piratkopi
+    pa: ਕਾਪੀਰਾਈਟ ਉਲੰਘਣਾ
+    pl: piractwo medialne
+    pt: infração de direitos autorais
+    ro: încălcare a dreptului de autor
+    ru: нарушение авторского права
+    sco: copyricht infreengement
+    sd: اشاعتي چوري
+    sl: kršitev avtorskih pravic
+    sr: повреда ауторских права
+    sv: piratkopiering
+    sw: Ukiukaji wa Hakimiliki
+    ta: பதிப்புரிமை மீறல்
+    th: การละเมิดลิขสิทธิ์
+    tl: karapatang sipi
+    tr: telif hakkı ihlali
+    uk: порушення авторского права
+    vi: Vi phạm bản quyền
+    xh: ukwaphulwa kwelungelo lokushicilela
+    yue: 版權侵害
+    zh: 著作权侵权
+    zh-cn: 盗版
+    zh-hans: 版权侵害
+    zh-hant: 版權侵害
 ---
-
 # [[Copyright_Infringement]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Copyright_infringement,647578|WD~Copyright_infringement,647578]] 

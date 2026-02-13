@@ -1,47 +1,174 @@
 ---
 aliases:
-  - Kation
-  - Cation
+- caitian
+- cathion
+- Cation
+- catione
+- catião
+- catió
+- catión
+- cátion
+- kasyon
+- katijonas
+- katioi
+- Kation
+- katione
+- kationi
+- kationo
+- kationt
+- katioon
+- katiyon
+- katiyun
+- katión
+- katjon
+- katjoni
+- katjono
+- katjons
+- katyon
+- κατιόν
+- катіон
+- катјон
+- катион
+- катыён
+- קטיון
+- شاردة هابطة
+- کاتيون
+- کاتیون
+- کاتیۆن
+- धनात्मक
+- ক্যাটায়ন
+- ધનાયન
+- நேரயனி
+- කැටායන
+- კატიონი
+- 阳离子
+- 陽イオン
+- 陽離子
+- 양이온
 has_id_wikidata: Q326277
-opposite_of: "[[_Standards/WikiData/WD~anion,107968]]"
+opposite_of: '[[_Standards/WikiData/WD~anion,107968]]'
 part_of:
-  - "[[_Standards/WikiData/WD~cation_transport,14884611]]"
-  - "[[_Standards/WikiData/WD~cation_transmembrane_transporter_activity,14907992]]"
-  - "[[_Standards/WikiData/WD~cation_binding,14914252]]"
-  - "[[_Standards/WikiData/WD~cellular_cation_homeostasis,21135414]]"
-  - "[[_Standards/WikiData/WD~cation_transmembrane_transport,21750224]]"
-  - "[[_Standards/WikiData/WD~cation_homeostasis,22298096]]"
-  - "[[_Standards/WikiData/WD~solute_cation_antiporter_activity,22324933]]"
-  - "[[_Standards/WikiData/WD~calcium_cation_antiporter_activity,22324938]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-subclass_of: "[[_Standards/WikiData/WD~ion,36496]]"
-OmegaWiki_Defined_Meaning: "510"
+- '[[_Standards/WikiData/WD~cation_transport,14884611]]'
+- '[[_Standards/WikiData/WD~cation_transmembrane_transporter_activity,14907992]]'
+- '[[_Standards/WikiData/WD~cation_binding,14914252]]'
+- '[[_Standards/WikiData/WD~cellular_cation_homeostasis,21135414]]'
+- '[[_Standards/WikiData/WD~cation_transmembrane_transport,21750224]]'
+- '[[_Standards/WikiData/WD~cation_homeostasis,22298096]]'
+- '[[_Standards/WikiData/WD~solute_cation_antiporter_activity,22324933]]'
+- '[[_Standards/WikiData/WD~calcium_cation_antiporter_activity,22324938]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~ion,36496]]'
+OmegaWiki_Defined_Meaning: 510
 IEV_number: 114-01-13
 UMLS_CUI: C0007447
 Commons_category: Cations
 MeSH_tree_code: D01.248.497.300
-Dewey_Decimal_Classification: "541.372"
+Dewey_Decimal_Classification: 541.372
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~cation,326277]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect|Cation.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private|Cation.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal|Cation.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret|Cation.secret]]"
+  - '[[_Standards/WikiData/WD~cation,326277]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect|Cation.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private|Cation.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal|Cation.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret|Cation.secret]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~cation,326277]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect|Cation.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private|Cation.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal|Cation.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret|Cation.secret]]"
+- '[[_Standards/WikiData/WD~cation,326277]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.protect|Cation.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.private|Cation.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal|Cation.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret|Cation.secret]]'
+dv_has_:
+  name_:
+    ar: شاردة هابطة
+    az: kation
+    be: катыён
+    be-tarask: катыён
+    bg: катион
+    bn: ক্যাটায়ন
+    bs: kation
+    ca: catió
+    ckb: کاتیۆن
+    cs: kationt
+    cv: катион
+    da: kation
+    de: Kation
+    el: κατιόν
+    en: cation
+    eo: katjono
+    es: catión
+    et: katioon
+    eu: katioi
+    fa: کاتیون
+    fi: kationi
+    fr: cation
+    frr: kation
+    ga: caitian
+    gl: catión
+    gu: ધનાયન
+    he: קטיון
+    hi: धनात्मक
+    hr: kation
+    ht: kasyon
+    hu: kation
+    ia: cation
+    id: kation
+    io: kationo
+    it: catione
+    ja: 陽イオン
+    ka: კატიონი
+    kk: катион
+    ko: 양이온
+    ku: katiyon
+    la: cathion
+    lfn: cation
+    li: kation
+    lt: katijonas
+    lv: katjons
+    mk: катјон
+    ms: kation
+    ms-arab: کاتيون
+    nb: kation
+    nds: Kation
+    nl: kation
+    nn: kation
+    nov: katione
+    oc: cation
+    os: катион
+    pl: kation
+    pt: catião
+    pt-br: cátion
+    qu: katiyun
+    ro: cation
+    ru: катион
+    rue: катион
+    sah: катион
+    sh: katjon
+    si: කැටායන
+    sk: katión
+    sl: kation
+    sq: katjoni
+    sr: катјон
+    sv: katjon
+    sw: kationi
+    ta: நேரயனி
+    tr: katyon
+    tt: катион
+    tt-cyrl: катион
+    udm: катион
+    uk: катіон
+    uz: kation
+    vep: kation
+    vi: cation
+    zh: 阳离子
+    zh-hans: 阳离子
+    zh-hant: 陽離子
 ---
-
 # [[Cation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~cation,326277]] 

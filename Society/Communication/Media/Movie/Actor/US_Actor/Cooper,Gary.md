@@ -1,35 +1,68 @@
 ---
 aliases:
-  - Gary_Cooper
-  - Gary Cooper
-  - Frank James Cooper
-  - Cooper
-  - Cooper,Gary
+- Cooper
+- Cooper,Gary
+- Frank James Cooper
+- Gary Cooper
+- Gary_Cooper
+- Gērijs Kūpers
+- Qeri Kuper
+- Γκάρι Κούπερ
+- Гари Купер
+- Гари Купър
+- Гэри Купер
+- Гэры Купер
+- Гэры Купэр
+- Ґері Купер
+- Գերի Կուպեր
+- Կէրի Քուփըր
+- גרי קופר
+- جارى كوبر
+- غاري كوبر
+- قری کوپر
+- گری کوپر
+- گیری کوپر
+- گەری کووپەر
+- गॅरी कूपर
+- গ্যারি কুপার
+- ਗੈਰੀ ਕੂਪਰ
+- கேரி கூப்பர்
+- గ్యారీ కూపర్
+- ಗ್ಯಾರಿ ಕೂಪರ್
+- ഗാരി കൂപ്പർ
+- แกรี คูเปอร์
+- გერი კუპერი
+- ゲイリー・クーパー
+- 加利·古柏
+- 加利谷巴
+- 加里·库珀
+- 賈利·古柏
+- 게리 쿠퍼
 has_id_wikidata: Q93957
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
-  - '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+- '[[_Standards/WikiData/WD~Academy_Honorary_Award,727328]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 cause_of_death: '[[_Standards/WikiData/WD~prostate_cancer,181257]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stunt_performer,465501]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Holy_Cross_Cemetery,1625328]]'
-  - '[[_Standards/WikiData/WD~Sacred_Hearts_of_Jesus_and_Mary_Catholic_Cemetery,117446149]]'
+- '[[_Standards/WikiData/WD~Holy_Cross_Cemetery,1625328]]'
+- '[[_Standards/WikiData/WD~Sacred_Hearts_of_Jesus_and_Mary_Catholic_Cemetery,117446149]]'
 family_name: '[[_Standards/WikiData/WD~Cooper,1794217]]'
 given_name: '[[_Standards/WikiData/WD~Gary,1820274]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Grinnell_College,2982991]]'
-  - '[[_Standards/WikiData/WD~Gallatin_County_High_School,5518884]]'
-  - '[[_Standards/WikiData/WD~Helena_High_School,5703587]]'
+- '[[_Standards/WikiData/WD~Grinnell_College,2982991]]'
+- '[[_Standards/WikiData/WD~Gallatin_County_High_School,5518884]]'
+- '[[_Standards/WikiData/WD~Helena_High_School,5703587]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 different_from: '[[_Standards/WikiData/WD~Garry_Cooper,5524113]]'
 filmography: '[[_Standards/WikiData/WD~Gary_Cooper_filmography,5524894]]'
@@ -41,10 +74,10 @@ child: '[[_Standards/WikiData/WD~Maria_Cooper_Janis,15727506]]'
 date_of_birth: 1901-05-07T00:00:00Z
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Infogalactic,55075031]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Justapedia,124209338]]'
-  - '[[_Standards/WikiData/WD~Conservapedia,17963]]'
+- '[[_Standards/WikiData/WD~Infogalactic,55075031]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Justapedia,124209338]]'
+- '[[_Standards/WikiData/WD~Conservapedia,17963]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -67,12 +100,109 @@ work_period_start_: 1925-01-01T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Gary%20Cooper%20signature.svg
 official_website: https://www.garycooper.com
 ISNI:
-  - 0000000121367002
-  - 000000036864311X
+- 0000000121367002
+- 000000036864311X
 Plex_person_key: 5d776826151a60001f24a73e
 birth_name: Frank James Cooper
+dv_has_:
+  name_:
+    af: Gary Cooper
+    an: Gary Cooper
+    ar: غاري كوبر
+    arz: جارى كوبر
+    ast: Gary Cooper
+    ay: Gary Cooper
+    az: Qeri Kuper
+    azb: قری کوپر
+    ba: Гэри Купер
+    be: Гэры Купер
+    be-tarask: Гэры Купэр
+    bg: Гари Купър
+    bi: Gary Cooper
+    bn: গ্যারি কুপার
+    bs: Gary Cooper
+    ca: Gary Cooper
+    ckb: گەری کووپەر
+    cs: Gary Cooper
+    cy: Gary Cooper
+    da: Gary Cooper
+    de: Gary Cooper
+    el: Γκάρι Κούπερ
+    en: Gary Cooper
+    en-us: Gary Cooper
+    eo: Gary Cooper
+    es: Gary Cooper
+    et: Gary Cooper
+    eu: Gary Cooper
+    fa: گری کوپر
+    fi: Gary Cooper
+    fo: Gary Cooper
+    fr: Gary Cooper
+    ga: Gary Cooper
+    gl: Gary Cooper
+    he: גרי קופר
+    hif: Gary Cooper
+    hr: Gary Cooper
+    ht: Gary Cooper
+    hu: Gary Cooper
+    hy: Գերի Կուպեր
+    hyw: Կէրի Քուփըր
+    id: Gary Cooper
+    ig: Gary Cooper
+    ilo: Gary Cooper
+    io: Gary Cooper
+    it: Gary Cooper
+    ja: ゲイリー・クーパー
+    ka: გერი კუპერი
+    kk: Гэри Купер
+    kn: ಗ್ಯಾರಿ ಕೂಪರ್
+    ko: 게리 쿠퍼
+    la: Gary Cooper
+    lb: Gary Cooper
+    lv: Gērijs Kūpers
+    mg: Gary Cooper
+    mk: Гари Купер
+    ml: ഗാരി കൂപ്പർ
+    mr: गॅरी कूपर
+    mul: Gary Cooper
+    nb: Gary Cooper
+    nl: Gary Cooper
+    nn: Gary Cooper
+    oc: Gary Cooper
+    pa: ਗੈਰੀ ਕੂਪਰ
+    pap: Gary Cooper
+    pl: Gary Cooper
+    pt: Gary Cooper
+    pt-br: Gary Cooper
+    qu: Gary Cooper
+    ro: Gary Cooper
+    ru: Гэри Купер
+    sco: Gary Cooper
+    sh: Gary Cooper
+    sk: Gary Cooper
+    sl: Gary Cooper
+    sq: Gary Cooper
+    sr: Гари Купер
+    sv: Gary Cooper
+    sw: Gary Cooper
+    ta: கேரி கூப்பர்
+    te: గ్యారీ కూపర్
+    th: แกรี คูเปอร์
+    tl: Gary Cooper
+    tr: Gary Cooper
+    uk: Ґері Купер
+    ur: گیری کوپر
+    uz: Gary Cooper
+    vi: Gary Cooper
+    war: Gary Cooper
+    wuu: 加里·库珀
+    xmf: გერი კუპერი
+    yo: Gary Cooper
+    yue: 加利谷巴
+    zh: 賈利·古柏
+    zh-hk: 加利谷巴
+    zh-my: 加利·古柏
 ---
-
 # [[Cooper,Gary]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gary_Cooper,93957|WD~Gary_Cooper,93957]] 

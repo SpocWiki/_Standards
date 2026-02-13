@@ -1,24 +1,150 @@
 ---
 aliases:
-  - quantum tunnelling
-  - barrier penetration
-  - simply tunnelling
-  - Quantum_Tunneling
-  - Quantum Tunneling
+- alagúthatás
+- barrier penetration
+- efecte túnel
+- efecto túnel
+- efectul tunel
+- efeito túnel
+- efekti tunel
+- efeutu túnel
+- effet tunnel
+- effetto tunnel
+- efiech tunèu
+- kuantum tünelleme
+- kvantemekanisk tunnelering
+- kvantetunnelering
+- penerowongan kuantum
+- Quantum Tunneling
+- quantum tunnellin
+- quantum tunnelling
+- Quantum_Tunneling
+- simply tunnelling
+- skammtasmug
+- tollánú candamach
+- tunel efekat
+- Tunel effekti
+- tunel-efektu
+- tunela efiko
+- tunelamento quântico
+- tuneliranje
+- tunelový jav
+- tunelový jev
+- tunelski pojav
+- tuneļefekts
+- tunnel effekt
+- tunnelefekt
+- tunneleffect
+- tunneleffekt
+- tunneli-ilmiö
+- zjawisko tunelowe
+- đường hầm lượng tử
+- φαινόμενο σήραγγας
+- тунел ефекат
+- тунелен преход
+- тунелски ефект
+- тунелювання
+- туннельдік эффект
+- туннельный эффект
+- тунэльны эфект
+- тунэльны эфэкт
+- түнил ификте
+- թունելային երևույթ
+- מנהור קוונטי
+- تونلزنی کوانتومی
+- نفق ميكانيكا الكم
+- प्रमात्रा सुरंगन
+- কোয়ান্টাম সুড়ঙ্গ
+- ਕੁਆਂਟਮ ਟੱਨਲਿੰਗ
+- புரை ஊடுருவு மின்னோட்டம்
+- ടണലിങ്
+- トンネル効果
+- 量子穿隧效應
+- 量子隧穿效应
+- 量子隧穿效應
+- 터널 효과
 has_id_wikidata: Q175751
 instance_of: '[[_Standards/WikiData/WD~quantum_effect,1872885]]'
 DataTrek_identifier: Q12688
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20tunnel%20effect%20and%20its%20application%20to%20the%20scanning%20tunneling%20microscope.ogv
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20Tunnelling%20animation.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20tunnel%20effect%20and%20its%20application%20to%20the%20scanning%20tunneling%20microscope.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Quantum%20Tunnelling%20animation.gif
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/QuantumTunnel.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/TunnelEffektKling1.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/QuantumTunnel.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/TunnelEffektKling1.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/quantum-tunneling
 IEV_number: 121-13-21
 Commons_category: Quantum tunneling
+dv_has_:
+  name_:
+    ar: نفق ميكانيكا الكم
+    ast: efeutu túnel
+    az: Tunel effekti
+    be: тунэльны эфект
+    be-tarask: тунэльны эфэкт
+    bg: тунелен преход
+    bn: কোয়ান্টাম সুড়ঙ্গ
+    bs: tunel efekat
+    ca: efecte túnel
+    cs: tunelový jev
+    da: kvantemekanisk tunnelering
+    de: Tunneleffekt
+    el: φαινόμενο σήραγγας
+    en: quantum tunneling
+    en-ca: quantum tunnelling
+    en-gb: quantum tunnelling
+    eo: tunela efiko
+    es: efecto túnel
+    et: tunnelefekt
+    eu: tunel-efektu
+    fa: تونلزنی کوانتومی
+    fi: tunneli-ilmiö
+    fr: effet tunnel
+    ga: tollánú candamach
+    he: מנהור קוונטי
+    hi: प्रमात्रा सुरंगन
+    hr: tuneliranje
+    hu: alagúthatás
+    hy: թունելային երևույթ
+    id: penerowongan kuantum
+    is: skammtasmug
+    it: effetto tunnel
+    ja: トンネル効果
+    kk: туннельдік эффект
+    ko: 터널 효과
+    lv: tuneļefekts
+    mk: тунелски ефект
+    ml: ടണലിങ്
+    nb: kvantetunnelering
+    nl: tunneleffect
+    nn: kvantemekanisk tunnelering
+    oc: efiech tunèu
+    pa: ਕੁਆਂਟਮ ਟੱਨਲਿੰਗ
+    pl: zjawisko tunelowe
+    pt: efeito túnel
+    pt-br: tunelamento quântico
+    ro: efectul tunel
+    ru: туннельный эффект
+    sco: quantum tunnellin
+    sh: tuneliranje
+    sk: tunelový jav
+    sl: tunelski pojav
+    sq: efekti tunel
+    sr: тунел ефекат
+    sr-ec: тунел ефекат
+    sv: tunneleffekt
+    ta: புரை ஊடுருவு மின்னோட்டம்
+    tr: kuantum tünelleme
+    tt: түнил ификте
+    uk: тунелювання
+    uz: tunnel effekt
+    vi: đường hầm lượng tử
+    yue: 量子穿隧效應
+    zh: 量子穿隧效應
+    zh-cn: 量子隧穿效应
+    zh-hk: 量子隧穿效應
+    zh-tw: 量子穿隧效應
 ---
-
 # [[Quantum_Tunneling]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Quantum_tunneling,175751|WD~Quantum_tunneling,175751]]  

@@ -1,24 +1,94 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]]'
+has_id_wikidata: Q10966166
+dv_has_:
+  name_:
+    ar: صرف صحي
+    ca: Aigües residuals urbanes
+    ckb: ئاوەڕۆ
+    cs: splašková voda
+    de: Schmutzwasser
+    en: sewage
+    eo: kloaka akvo
+    es: aguas residuales
+    fi: jätevesi
+    fr: eaux usées
+    fy: Offalwetter
+    gl: Augas residuais
+    hi: वाहितमल
+    id: Comberan
+    is: Skólp
+    ja: 生活排水
+    mk: отпадна вода
+    mr: सांडपाणी
+    ms: Kumbahan
+    nb: septik
+    nl: afvalwater
+    nn: septik
+    ps: فاضلاب
+    ro: ape uzate
+    ru: хозяйственно-бытовые сточные воды
+    sc: Dejetziones lìcuidas
+    sl: odplake
+    so: Wasakh qaadis
+    sq: Ujërat e zeza
+    uk: господарсько-побутові стічні води
+    ur: آبنکاسی
+    zh: 污水
+    zh-cn: 市區污水
+    zh-hans: 市區污水
+    zh-hant: 污水
+    zh-tw: 污水
+aliases:
+- afvalwater
+- aguas residuales
+- Aigües residuals urbanes
+- ape uzate
+- Augas residuais
+- Comberan
+- Dejetziones lìcuidas
+- eaux usées
+- jätevesi
+- kloaka akvo
+- Kumbahan
+- odplake
+- Offalwetter
+- Schmutzwasser
+- septik
+- sewage
+- Skólp
+- splašková voda
+- Ujërat e zeza
+- Wasakh qaadis
+- господарсько-побутові стічні води
+- отпадна вода
+- хозяйственно-бытовые сточные воды
+- آبنکاسی
+- ئاوەڕۆ
+- صرف صحي
+- فاضلاب
+- वाहितमल
+- सांडपाणी
+- 市區污水
+- 污水
+- 生活排水
 ---
-
-
 ## #has_/text_of_/abstract 
 
 > **Sewage** (or domestic sewage, domestic wastewater, municipal wastewater) 

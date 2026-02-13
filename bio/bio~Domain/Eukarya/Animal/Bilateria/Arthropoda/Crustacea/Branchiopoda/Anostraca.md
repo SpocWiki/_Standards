@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Anostraca
+- Anostraca
+- Anostraci
+- Ayağıqəlsəməlilər
+- Bezljuskaši
+- bezpancerzowce
+- Bešarviai
+- csupasz levéllábúrákok
+- Gälbladfotingar
+- Kiemenfüsser
+- Kiemenfüßer
+- lehtijalkaiset
+- pekelkreeftjes
+- Tusenbeinkreps
+- Táłtłʼááh jááłánii yázhí
+- škrgonožci
+- Žiabronôžky
+- žábronožky
+- Бакалоорбуттар
+- Безпанцерни рачета
+- Жаброноги
+- זימרגלאים
+- آیاغیقلسمهلیلر
+- عديمات الدرقة
+- عديمات الدرقه
+- پریمیگو
+- ლაყუჩფეხიანები
+- ホウネンエビ目
+- 无甲目
+- 無甲目
+- 무갑목
 title: Anostraca
+has_id_wikidata: Q853383
+dv_has_:
+  name_:
+    an: Anostraca
+    ar: عديمات الدرقة
+    arz: عديمات الدرقه
+    ast: Anostraca
+    az: Ayağıqəlsəməlilər
+    azb: آیاغیقلسمهلیلر
+    bg: Безпанцерни рачета
+    ca: Anostraci
+    ceb: Anostraca
+    cs: žábronožky
+    de: Kiemenfüßer
+    de-ch: Kiemenfüsser
+    en: Anostraca
+    eo: Anostraca
+    es: Anostraca
+    eu: Anostraca
+    ext: Anostraca
+    fa: پریمیگو
+    fi: lehtijalkaiset
+    fr: Anostraca
+    ga: Anostraca
+    gl: Anostraca
+    he: זימרגלאים
+    hr: Bezljuskaši
+    hu: csupasz levéllábúrákok
+    ia: Anostraca
+    id: Anostraca
+    ie: Anostraca
+    io: Anostraca
+    it: Anostraca
+    ja: ホウネンエビ目
+    ka: ლაყუჩფეხიანები
+    ko: 무갑목
+    ky: Бакалоорбуттар
+    la: Anostraca
+    lt: Bešarviai
+    ms: Anostraca
+    mul: Anostraca
+    nb: Tusenbeinkreps
+    nl: pekelkreeftjes
+    nv: Táłtłʼááh jááłánii yázhí
+    oc: Anostraca
+    pl: bezpancerzowce
+    pt: Anostraca
+    pt-br: Anostraca
+    ro: Anostraca
+    ru: Жаброноги
+    sk: Žiabronôžky
+    sl: škrgonožci
+    sq: Anostraca
+    sv: Gälbladfotingar
+    tr: Anostraca
+    uk: Anostraca
+    vi: Anostraca
+    vo: Anostraca
+    war: Anostraca
+    zh: 無甲目
+    zh-cn: 无甲目
+    zh-hk: 無甲目
+    zh-tw: 無甲目
 ---
-
 # [[Anostraca]] 
 
 ## #has_/text_of_/abstract 

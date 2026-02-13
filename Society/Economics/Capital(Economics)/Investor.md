@@ -1,37 +1,183 @@
 ---
 aliases:
+- befektető
+- belegger
+- buddsoddwr
+- Cukong
+- inbertitzailea
+- infheisteoir
+- inversor
+- investeerder
+- investerare
+- investidor
+- investisseur
+- investisto
+- investitor
+- investitore
+- investitur
+- investor
+- investors
+- investuotojas
+- inwestor
+- Kapitalanleger
+- Kardevıster
+- kolokero
+- Mamumuhunan
+- neach-seilbheachd
+- nhà đầu tư
+- pelabur
+- sijoittaja
+- Tâu-chu-chiá
+- yatırımcı
+- íløgufólk
+- επενδυτής
+- інвестар
+- інвестор
+- інвэстар
+- вложувач
+- инвеститор
+- инвестор
+- сармоягузор
+- ներդրող
+- אינוועסטירער
+- משקיע
+- أنڤيستور
+- سرمایهگذار
+- سرمایہ کار
+- مستثمر
+- وەبەرھێنەر
+- ڤلابور
+- یاتیریمجی
+- निवेशक
+- लगानीकर्ता
+- বিনিয়োগকারী
+- ਨਿਵੇਸ਼ਕ
+- முதலீட்டாளர்
+- ಹೂಡಿಕೆದಾರ
+- നിക്ഷേപകൻ
+- ინვესტორი
+- 投資家
+- 投資者
+- 투자가
 has_id_wikidata: Q557880
 different_from:
-  - "[[_Standards/WikiData/WD~shareholder,381136]]"
-  - "[[_Standards/WikiData/WD~financier,1979607]]"
-instance_of: "[[_Standards/WikiData/WD~occupation,12737077]]"
+- '[[_Standards/WikiData/WD~shareholder,381136]]'
+- '[[_Standards/WikiData/WD~financier,1979607]]'
+instance_of: '[[_Standards/WikiData/WD~occupation,12737077]]'
 Wikidata_property: investor
-field_of_this_occupation: "[[_Standards/WikiData/WD~investment,4290]]"
-subclass_of: "[[_Standards/WikiData/WD~businessperson,43845]]"
+field_of_this_occupation: '[[_Standards/WikiData/WD~investment,4290]]'
+subclass_of: '[[_Standards/WikiData/WD~businessperson,43845]]'
 female_form_of_label:
-  - משקיעה
-  - investuotoja
-  - inversora
-  - مستثمرة
-  - أنڤيستورة
-  - inversora
-  - інвэстарка
-  - investorka
-  - Kapitalanlegerin
-  - investistino
-  - investisseuse
-  - kolokerino
-  - Investisseuse
-  - inwestorka
-  - investidora
+- משקיעה
+- investuotoja
+- inversora
+- مستثمرة
+- أنڤيستورة
+- inversora
+- інвэстарка
+- investorka
+- Kapitalanlegerin
+- investistino
+- investisseuse
+- kolokerino
+- Investisseuse
+- inwestorka
+- investidora
 male_form_of_label:
-  - مستثمر
-  - investuotojas
-  - أنڤيستور
-  - Investisseur
+- مستثمر
+- investuotojas
+- أنڤيستور
+- Investisseur
 Commons_category: Investors
+dv_has_:
+  name_:
+    af: belegger
+    ar: مستثمر
+    ary: أنڤيستور
+    ast: inversor
+    az: investor
+    azb: یاتیریمجی
+    ba: инвестор
+    be: інвестар
+    be-tarask: інвэстар
+    bew: Cukong
+    bn: বিনিয়োগকারী
+    bs: investitor
+    ca: inversor
+    ckb: وەبەرھێنەر
+    cs: investor
+    cy: buddsoddwr
+    da: investor
+    de: Kapitalanleger
+    diq: Kardevıster
+    el: επενδυτής
+    en: investor
+    eo: investisto
+    es: inversor
+    et: Investor
+    eu: inbertitzailea
+    fa: سرمایهگذار
+    fi: sijoittaja
+    fo: íløgufólk
+    fr: investisseur
+    ga: infheisteoir
+    gd: neach-seilbheachd
+    gl: investidor
+    he: משקיע
+    hi: निवेशक
+    hr: investitor
+    hu: befektető
+    hy: ներդրող
+    id: investor
+    io: kolokero
+    it: investitore
+    ja: 投資家
+    ka: ინვესტორი
+    kk: Инвестор
+    kn: ಹೂಡಿಕೆದಾರ
+    ko: 투자가
+    ks: سرمایہ کار
+    ky: Инвестор
+    lb: Investisseur
+    lt: investuotojas
+    lv: investors
+    mk: вложувач
+    ml: നിക്ഷേപകൻ
+    ms: pelabur
+    ms-arab: ڤلابور
+    mt: investitur
+    nan: Tâu-chu-chiá
+    nb: investor
+    ne: लगानीकर्ता
+    nl: investeerder
+    nn: investor
+    pa: ਨਿਵੇਸ਼ਕ
+    pl: inwestor
+    pt: investidor
+    pt-br: investidor
+    ro: investitor
+    ru: инвестор
+    sco: investor
+    sl: investitor
+    sr: инвеститор
+    sr-ec: инвеститор
+    sr-el: investitor
+    sv: investerare
+    ta: முதலீட்டாளர்
+    tg: сармоягузор
+    tl: Mamumuhunan
+    tr: yatırımcı
+    tt: инвестор
+    uk: інвестор
+    ur: سرمایہ کار
+    vec: investitor
+    vi: nhà đầu tư
+    yi: אינוועסטירער
+    yue: 投資者
+    zh: 投資者
+    zh-hant: 投資者
+    zh-tw: 投資者
 ---
-
 # [[Investor]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~investor,557880]] 

@@ -1,46 +1,68 @@
 ---
 aliases:
-  - Henry_George
-  - Henry George
-  - George,Henry
+- George,Henry
+- Henri Corc
+- Henrijs Džordžs
+- Henry George
+- Henry_George
+- Χένρι Τζορτζ
+- Генрі Джордж
+- Генри Джордж
+- Гэнры Джордж
+- Хенри Джордж
+- Հենրի Ջորջ
+- הנרי ג'ורג'
+- هنرى جورج (صحفى)
+- هنري جورج
+- هنری جرج
+- هنری جورج
+- हेनरी जॉर्ज
+- ஹென்றி ஜார்ஜ்
+- ಹೆನ್ರಿ ಜಾರ್ಜ್
+- เฮนรี จอร์จ
+- ჰენრი ჯორჯი
+- ヘンリー・ジョージ
+- 亨利·乔治
+- 亨利·喬治
+- 헨리 조지
 has_id_wikidata: Q355245
 P1015: 90198331
 Libris_URI: qn247qn82frcdqw
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~editor,1607826]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~editor,1607826]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_burial: '[[_Standards/WikiData/WD~Green_Wood_Cemetery,239043]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
 given_name: '[[_Standards/WikiData/WD~Henry,1158477]]'
 family_name: '[[_Standards/WikiData/WD~George,1260558]]'
 cause_of_death: '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 child:
-  - '[[_Standards/WikiData/WD~Henry_George,_Jr.,3790548]]'
-  - '[[_Standards/WikiData/WD~Anna_George_de_Mille,42944090]]'
-  - '[[_Standards/WikiData/WD~Richard_F._George,124254922]]'
+- '[[_Standards/WikiData/WD~Henry_George,_Jr.,3790548]]'
+- '[[_Standards/WikiData/WD~Anna_George_de_Mille,42944090]]'
+- '[[_Standards/WikiData/WD~Richard_F._George,124254922]]'
 field_of_work: '[[_Standards/WikiData/WD~Q4099561,4099561]]'
 residence: '[[_Standards/WikiData/WD~Henry_George_Birthplace,5721864]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 archives_at: '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Henry_George_Hunt_Grubbe,76189652]]'
-  - '[[_Standards/WikiData/WD~Henry_George,121360263]]'
+- '[[_Standards/WikiData/WD~Henry_George_Hunt_Grubbe,76189652]]'
+- '[[_Standards/WikiData/WD~Henry_George,121360263]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 spouse: '[[_Standards/WikiData/WD~Annie_Corsina_Fox_George,124254942]]'
 date_of_death: 1897-10-29T00:00:00Z
@@ -49,8 +71,8 @@ place_of_birth: '[[_Standards/WikiData/WD~Philadelphia,1345]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
-  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+- '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+- '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 place_of_death: '[[_Standards/WikiData/WD~New_York_City,60]]'
@@ -59,8 +81,92 @@ Commons_Creator_page: Henry George
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20George%20c1885%20retouched.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Henry%20George.png
 ISNI: 0000000108847933
+dv_has_:
+  name_:
+    af: Henry George
+    an: Henry George
+    ar: هنري جورج
+    arz: هنرى جورج (صحفى)
+    ast: Henry George
+    az: Henri Corc
+    azb: هنری جرج
+    be-tarask: Гэнры Джордж
+    bg: Хенри Джордж
+    br: Henry George
+    bs: Henry George
+    ca: Henry George
+    ceb: Henry George
+    cs: Henry George
+    cy: Henry George
+    da: Henry George
+    de: Henry George
+    de-ch: Henry George
+    el: Χένρι Τζορτζ
+    en: Henry George
+    en-ca: Henry George
+    en-gb: Henry George
+    eo: Henry George
+    es: Henry George
+    et: Henry George
+    eu: Henry George
+    fa: هنری جورج
+    fi: Henry George
+    fr: Henry George
+    ga: Henry George
+    gl: Henry George
+    gsw: Henry George
+    he: הנרי ג'ורג'
+    hi: हेनरी जॉर्ज
+    hr: Henry George
+    hu: Henry George
+    hy: Հենրի Ջորջ
+    ia: Henry George
+    id: Henry George
+    is: Henry George
+    it: Henry George
+    ja: ヘンリー・ジョージ
+    ka: ჰენრი ჯორჯი
+    kn: ಹೆನ್ರಿ ಜಾರ್ಜ್
+    ko: 헨리 조지
+    lb: Henry George
+    lmo: Henry George
+    lt: Henry George
+    lv: Henrijs Džordžs
+    ms: Henry George
+    mul: Henry George
+    nb: Henry George
+    nds: Henry George
+    nds-nl: Henry George
+    nl: Henry George
+    nn: Henry George
+    pap: Henry George
+    pl: Henry George
+    pms: Henry George
+    ps: هنري جورج
+    pt: Henry George
+    pt-br: Henry George
+    ro: Henry George
+    ru: Генри Джордж
+    sk: Henry George
+    sl: Henry George
+    sq: Henry George
+    sv: Henry George
+    ta: ஹென்றி ஜார்ஜ்
+    th: เฮนรี จอร์จ
+    tr: Henry George
+    uk: Генрі Джордж
+    vec: Henry George
+    vi: Henry George
+    wa: Henry George
+    yo: Henry George
+    zh: 亨利·乔治
+    zh-cn: 亨利·乔治
+    zh-hans: 亨利·乔治
+    zh-hant: 亨利·喬治
+    zh-hk: 亨利·喬治
+    zh-sg: 亨利·乔治
+    zh-tw: 亨利·喬治
 ---
-
 # [[George,Henry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Henry_George,355245]] 

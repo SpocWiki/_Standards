@@ -1,15 +1,83 @@
 ---
 aliases:
-  - printed circuit board
-  - printed wiring board
-  - Printed_Circuit_Board
-  - Printed Circuit Board
+- baskılı devre kartı
+- Bodi ya sakiti iliyochapishwa
+- bosma plata
+- ciorcad priontáilte
+- circuit imprimat
+- circuit imprimé
+- Circuit imprès
+- Circuit stampà
+- circuito impreso
+- circuito impresso
+- circuito stampato
+- Circuitu impresu
+- Circuíto impreso
+- cirkvitkarto
+- Doska plošných spojov
+- Gedrukte stroombaan
+- iespiedshēmas plate
+- Imprimita cirkuito
+- kretskort
+- Leiterplatte
+- mönsterkort
+- mạch in
+- nyomtatott huzalozású lemez
+- obwód drukowany
+- Papan litar tercetak
+- Papan sirkuit cetak
+- PCB
+- piirilevy
+- Plošný spoj
+- plošča tiskanega vezja
+- Prentplata
+- Printana ploča
+- printed circuit board
+- printed wiring board
+- Printed_Circuit_Board
+- printit circuit buird
+- printplaat
+- printplade
+- Spausdinta schema
+- sxem lövhəsi
+- Tiskana pločica
+- Trükkplaat
+- Zirkuitu inprimatu
+- Štampana ploča
+- Πλακέτα τυπωμένου κυκλώματος
+- басылма платасы
+- друкаваная плата
+- друкована плата
+- печатена плочка
+- Печатна платка
+- печатная плата
+- Погымплате
+- хэвлэмэл хэлхээний хавтан
+- штампана плоча
+- Տպատախտակ
+- געדרוקטער שטראמקרייז
+- מעגל מודפס
+- فیبر مدار چاپی
+- لوحة دارة مطبوعة
+- پرنٹ شدہ سرکٹ بورڈ
+- प्रिन्टेड सर्किट बोर्ड
+- विद्युत प्रबाह बोर्ड
+- প্রিন্টেড সার্কিট বোর্ড
+- மின்சுற்றுப் பலகை
+- แผ่นวงจรพิมพ์
+- ნაბეჭდი პლატა
+- プリント基板
+- 印制电路板
+- 印刷电路板
+- 印刷電路板
+- 電路板
+- 인쇄 회로 기판
 has_id_wikidata: Q173350
 subclass_of:
-  - '[[_Standards/WikiData/WD~electrical_circuit,132629]]'
-  - '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
-  - '[[_Standards/WikiData/WD~plate,23400204]]'
-  - '[[_Standards/WikiData/WD~board,123421533]]'
+- '[[_Standards/WikiData/WD~electrical_circuit,132629]]'
+- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~plate,23400204]]'
+- '[[_Standards/WikiData/WD~board,123421533]]'
 different_from: '[[_Standards/WikiData/WD~printed_electronics,1497629]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~printed_circuit_board_assembly,3951866]]'
 Nomenclature_for_Museum_Cataloging: 8773
@@ -20,14 +88,99 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aurora%202ch%20mixer%2
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Circuit-158374.svg
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/pcb
 MCN_code:
-  - 8517.70.10
-  - 8538.90.10
+- 8517.70.10
+- 8538.90.10
 booru_tag:
-  - circuit_board
-  - circuit_board_hair_ornament
-  - circuit_board_print
+- circuit_board
+- circuit_board_hair_ornament
+- circuit_board_print
+dv_has_:
+  name_:
+    af: Gedrukte stroombaan
+    ar: لوحة دارة مطبوعة
+    ast: Circuitu impresu
+    az: sxem lövhəsi
+    be-tarask: друкаваная плата
+    bg: Печатна платка
+    bn: প্রিন্টেড সার্কিট বোর্ড
+    bs: Printana ploča
+    ca: Circuit imprès
+    cs: Plošný spoj
+    da: printplade
+    de: Leiterplatte
+    de-ch: Leiterplatte
+    el: Πλακέτα τυπωμένου κυκλώματος
+    en: printed circuit board
+    en-ca: printed circuit board
+    en-gb: printed circuit board
+    eo: cirkvitkarto
+    es: circuito impreso
+    et: Trükkplaat
+    eu: Zirkuitu inprimatu
+    fa: فیبر مدار چاپی
+    fi: piirilevy
+    fr: circuit imprimé
+    ga: ciorcad priontáilte
+    gl: Circuíto impreso
+    he: מעגל מודפס
+    hi: प्रिन्टेड सर्किट बोर्ड
+    hr: Tiskana pločica
+    hu: nyomtatott huzalozású lemez
+    hy: Տպատախտակ
+    id: Papan sirkuit cetak
+    io: Imprimita cirkuito
+    is: Prentplata
+    it: circuito stampato
+    ja: プリント基板
+    ka: ნაბეჭდი პლატა
+    ko: 인쇄 회로 기판
+    ky: басылма платасы
+    la: PCB
+    lt: Spausdinta schema
+    lv: iespiedshēmas plate
+    mhr: Погымплате
+    min: Papan sirkuit cetak
+    mk: печатена плочка
+    mn: хэвлэмэл хэлхээний хавтан
+    ms: Papan litar tercetak
+    nb: kretskort
+    ne: विद्युत प्रबाह बोर्ड
+    nl: printplaat
+    nn: kretskort
+    pl: obwód drukowany
+    pms: Circuit stampà
+    pt: circuito impresso
+    pt-br: Circuito impresso
+    ro: circuit imprimat
+    ru: печатная плата
+    sco: printit circuit buird
+    sh: Štampana ploča
+    si: pcb
+    sk: Doska plošných spojov
+    sl: plošča tiskanega vezja
+    sr: штампана плоча
+    sr-ec: Штампана плоча
+    sr-el: Štampana ploča
+    sv: mönsterkort
+    sw: Bodi ya sakiti iliyochapishwa
+    ta: மின்சுற்றுப் பலகை
+    th: แผ่นวงจรพิมพ์
+    tr: baskılı devre kartı
+    uk: друкована плата
+    ur: پرنٹ شدہ سرکٹ بورڈ
+    uz: bosma plata
+    vi: mạch in
+    wuu: 印制电路板
+    yi: געדרוקטער שטראמקרייז
+    yue: 電路板
+    zh: 印刷电路板
+    zh-cn: 印制电路板
+    zh-hans: 印制电路板
+    zh-hant: 印刷電路板
+    zh-hk: 印刷電路板
+    zh-sg: 印制电路板
+    zh-tw: 印刷電路板
 ---
-
 # [[Printed_Circuit_Board]] 
 
 #is_/same_as :: [[WD~Printed_circuit_board,173350]] 

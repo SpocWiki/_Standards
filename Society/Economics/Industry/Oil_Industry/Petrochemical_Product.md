@@ -1,17 +1,109 @@
 ---
 aliases:
+- dầu hóa chất
+- peitriceimiceáin
+- petrochemical
+- petrochemical product
+- petrochemisch product
+- petrochemisches Produkt
+- petrokemiaĵo
+- petrokemijski proizvod
+- petrokemikaal
+- petrokemikaali
+- petrokemikála
+- petrokemisk
+- petrokemiska produkter
+- Petrokimia
+- petrokimical
+- petrokimyasallar
+- petrokjemiske produkter
+- prodotto petrolchimico
+- producte petroquímic
+- productos petroquímicos
+- produit pétrochimique
+- produktu petrokimiko
+- produs petrolier
+- pétrokimia
+- Πετροχημικά
+- нафтахімічны прадукт
+- нафтохімічний продукт
+- петрохемијски производ
+- петрохемикалија
+- продукт нефтехимии
+- بتروكيمياويات
+- فراوردههای پتروشیمی
+- پیٹروکیمیکل
+- पेट्रोकेमिकल
+- शैल-रसायन
+- পেট্রোরাসায়নিক
+- ਪੈਟ੍ਰੋਕੈਮੀਕਲ
+- பாறைவேதிப்பொருள்
+- ปิโตรเคมี
+- 石化产品
+- 石化產品
+- 石化產物
+- 石油化学製品
+- 석유화학제품
 has_id_wikidata: Q1364904
-fabrication_method: "[[_Standards/WikiData/WD~oil_refining,214261]]"
-part_of: "[[_Standards/WikiData/WD~petrochemistry,493630]]"
+fabrication_method: '[[_Standards/WikiData/WD~oil_refining,214261]]'
+part_of: '[[_Standards/WikiData/WD~petrochemistry,493630]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~petroleum_product,1059843]]"
-  - "[[_Standards/WikiData/WD~chemical_product,1069267]]"
-field_of_work: "[[_Standards/WikiData/WD~petrochemical_industry,16070574]]"
+- '[[_Standards/WikiData/WD~petroleum_product,1059843]]'
+- '[[_Standards/WikiData/WD~chemical_product,1069267]]'
+field_of_work: '[[_Standards/WikiData/WD~petrochemical_industry,16070574]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/TASNEE%20001.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NEFTEHIMICHESKIE_PRODUKTI.html
 Commons_category: Petrochemicals
+dv_has_:
+  name_:
+    ar: بتروكيمياويات
+    be-tarask: нафтахімічны прадукт
+    bn: পেট্রোরাসায়নিক
+    ca: producte petroquímic
+    da: petrokemisk
+    de: petrochemisches Produkt
+    el: Πετροχημικά
+    en: petrochemical product
+    en-ca: petrochemical
+    en-gb: petrochemical
+    eo: petrokemiaĵo
+    es: productos petroquímicos
+    eu: produktu petrokimiko
+    fa: فراوردههای پتروشیمی
+    fi: petrokemikaali
+    fr: produit pétrochimique
+    ga: peitriceimiceáin
+    hi: शैल-रसायन
+    id: petrokimical
+    it: prodotto petrolchimico
+    ja: 石油化学製品
+    ko: 석유화학제품
+    min: Petrokimia
+    mk: петрохемикалија
+    mr: पेट्रोकेमिकल
+    nb: petrokjemiske produkter
+    nl: petrochemisch product
+    pa: ਪੈਟ੍ਰੋਕੈਮੀਕਲ
+    ro: produs petrolier
+    ru: продукт нефтехимии
+    se: petrokemikála
+    sl: petrokemijski proizvod
+    smn: petrokemikaal
+    sms: petrokemikaal
+    sr: петрохемијски производ
+    su: pétrokimia
+    sv: petrokemiska produkter
+    ta: பாறைவேதிப்பொருள்
+    th: ปิโตรเคมี
+    tr: petrokimyasallar
+    uk: нафтохімічний продукт
+    ur: پیٹروکیمیکل
+    vi: dầu hóa chất
+    yue: 石化產品
+    zh: 石化產物
+    zh-cn: 石化产品
+    zh-hant: 石化產品
 ---
-
 # [[Petrochemical_Product]]  
 
 #is_/same_as :: [[WD~Petrochemical_product,1364904]] 

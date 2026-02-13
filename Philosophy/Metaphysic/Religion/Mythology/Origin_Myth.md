@@ -1,22 +1,114 @@
 ---
 aliases:
-  - Myth_of_origins
-  - origin myth
-  - Origin_Myth
-  - Origin Myth
+- alkuperämyytti
+- Gründungsmythos
+- huyền thoại cội nguồn
+- Jatorriaren mito
+- kezdetek mitológiája
+- miotas bunaidh
+- mit o izvoru
+- Mite fondator
+- mite fundacional
+- mito di fondazione
+- mito fundacional
+- mito fundador
+- Mito ng pinagmulan
+- mito pri originoj
+- mitos asal usul
+- Mitu fundacional
+- myth of origins
+- mythe de fondation
+- Mythus originum
+- Myth_of_origins
+- opphavssagn
+- origin myth
+- Origina mito
+- Origin_Myth
+- scheppingsmythe
+- Sünnisõnad
+- ursprungsmyt
+- zakladatelský mýtus
+- Μύθος καταγωγής
+- міт пра паходжаньне
+- міф про походження
+- мит за потекло
+- Мит за произход
+- мит о пореклу
+- миф о происхождении
+- Ծագման առասպել
+- סיפורי ראשית
+- أسطورة الأصل
+- ؤسطورة د لأصل
+- اسطورة البدء
+- اسطوره اصلی
+- আদিম পুরাণ
+- ਆਰੰਭ ਦੀ ਮਿੱਥ
+- 創建神話
+- 創設神話
+- 起源神話
+- 起源神话
+- 건국 신화
 has_id_wikidata: Q390248
 instance_of: '[[_Standards/WikiData/WD~literary_genre,223393]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~pourquoi_story,990560]]'
-  - '[[_Standards/WikiData/WD~myth,12827256]]'
-  - '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-  - '[[_Standards/WikiData/WD~legend,44342]]'
+- '[[_Standards/WikiData/WD~pourquoi_story,990560]]'
+- '[[_Standards/WikiData/WD~myth,12827256]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~legend,44342]]'
 main_subject: '[[_Standards/WikiData/WD~origin,3885844]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Narration,60007664]]'
 facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
 Library_of_Congress_Classification: BL325.C7
+dv_has_:
+  name_:
+    ar: أسطورة الأصل
+    ary: ؤسطورة د لأصل
+    arz: اسطورة البدء
+    ast: Mitu fundacional
+    be-tarask: міт пра паходжаньне
+    bg: Мит за произход
+    bn: আদিম পুরাণ
+    ca: mite fundacional
+    cs: zakladatelský mýtus
+    de: Gründungsmythos
+    el: Μύθος καταγωγής
+    en: myth of origins
+    eo: mito pri originoj
+    es: mito fundacional
+    et: Sünnisõnad
+    eu: Jatorriaren mito
+    fa: اسطوره اصلی
+    fi: alkuperämyytti
+    fr: mythe de fondation
+    ga: miotas bunaidh
+    gl: mito fundacional
+    he: סיפורי ראשית
+    hu: kezdetek mitológiája
+    hy: Ծագման առասպել
+    id: mitos asal usul
+    io: Origina mito
+    it: mito di fondazione
+    ja: 創設神話
+    ko: 건국 신화
+    la: Mythus originum
+    mk: мит за потекло
+    nb: opphavssagn
+    nl: scheppingsmythe
+    oc: Mite fondator
+    pa: ਆਰੰਭ ਦੀ ਮਿੱਥ
+    pt: mito fundador
+    ru: миф о происхождении
+    sl: mit o izvoru
+    sr: мит о пореклу
+    sv: ursprungsmyt
+    tl: Mito ng pinagmulan
+    uk: міф про походження
+    vi: huyền thoại cội nguồn
+    yue: 創建神話
+    zh: 起源神話
+    zh-cn: 起源神话
+    zh-hans: 起源神话
 ---
-
 # [[Origin_Myth]] 
 
 #is_/same_as :: [[WD~Myth_of_origins,390248]] 

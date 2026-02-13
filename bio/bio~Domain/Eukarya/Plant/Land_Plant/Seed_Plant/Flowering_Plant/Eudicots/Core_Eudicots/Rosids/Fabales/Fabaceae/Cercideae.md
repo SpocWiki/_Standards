@@ -1,9 +1,59 @@
 ---
 aliases:
-  - Cercideae
+- Cercideae
+- Cercidoideae
+- ハナズオウ亜科
+- 紫荆亚科
+- 紫荊亞科
+- 박태기나무아과
 title: Cercideae
+has_id_wikidata: Q42398994
+dv_has_:
+  name_:
+    an: Cercidoideae
+    ast: Cercidoideae
+    bg: Cercidoideae
+    ca: Cercidoideae
+    ceb: Cercidoideae
+    cs: Cercidoideae
+    de: Cercidoideae
+    en: Cercidoideae
+    eo: Cercidoideae
+    es: Cercidoideae
+    eu: Cercidoideae
+    ext: Cercidoideae
+    fi: Cercidoideae
+    fr: Cercidoideae
+    frr: Cercidoideae
+    ga: Cercidoideae
+    gl: Cercidoideae
+    hr: Cercidoideae
+    ia: Cercidoideae
+    ie: Cercidoideae
+    io: Cercidoideae
+    it: Cercidoideae
+    ja: ハナズオウ亜科
+    ko: 박태기나무아과
+    la: Cercidoideae
+    mul: Cercidoideae
+    nl: Cercidoideae
+    oc: Cercidoideae
+    pl: Cercidoideae
+    pt: Cercidoideae
+    pt-br: Cercidoideae
+    ro: Cercidoideae
+    ru: Cercidoideae
+    sk: Cercidoideae
+    sl: Cercidoideae
+    sq: Cercidoideae
+    uk: Cercidoideae
+    vi: Cercidoideae
+    vo: Cercidoideae
+    war: Cercidoideae
+    zh: 紫荊亞科
+    zh-hans: 紫荆亚科
+    zh-hant: 紫荊亞科
 ---
-
 # [[Cercideae]] 
 
 ![Cercis chinensis](Cercideae/Cercis_chinensis.jpg)  ![Bauhinia variegata](Cercideae/Bauhinia_variegata.jpg)  ![Tylosema fassoglensis](Cercideae/Tylosema_fassoglensis.jpg) 

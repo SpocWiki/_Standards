@@ -1,10 +1,53 @@
 ---
 aliases:
+- Fianakaviam-piteny pama-niongàna
+- Hệ ngôn ngữ Pama–Nyungar
+- Języki pama-njungaskie
+- langues pama-nyungan
+- Lengas pama-nyungan
+- lenguas pama-ñunganas
+- linguae Pama-Nyunganae
+- linguas pama-nyunganas
+- Linguas pama–nyungan
+- lingue pama-nyunga
+- llengües pama-nyunga
+- Llingües pama-ñunganas
+- Lugha za Kipama-Nyungan
+- pama-njuganski jeziki
+- pama-njunga keeled
+- Pama-nungaa lingvaro
+- Pama-Nyunga jezici
+- Pama-Nyungaans Spriiken
+- Pama-Nyungaanse spraoke
+- Pama-Nyungaanse talen
+- pama-nyungalaiset kielet
+- pama-nyungaliih kielah
+- Pama-Nyungan
+- Pama-Nyungan bhasa
+- Pama-Nyungan dilleri
+- Pama-Nyunganisch
+- pama-nyunganska språk
+- pama-nyunganske språk
+- Pama-nyunganské jazyky
+- pamanyunganske språk
+- Pama–Nyungan
+- Pamų-njungų kalbos
+- łéngue pama-nyungane
+- Пама-њунгански језици
+- пама-ньюнгаўскія мовы
+- пама-ньюнгские языки
+- باما نيونغان
+- زبانهای پاما-نیونگایی
+- ಪಾಮ-ನ್ಯುನ್ಗನ್ ಭಾಷೆಗಳು
+- パマ・ニュンガン語族
+- 帕馬-尼永甘語系
+- 帕马-尼永甘语系
+- 파마늉아어족
 has_id_wikidata: Q33942
-subclass_of: "[[_Standards/WikiData/WD~Australian_Aboriginal_languages,205143]]"
-opposite_of: "[[_Standards/WikiData/WD~Non_Pama_Nyungan,5972918]]"
-country: "[[_Standards/WikiData/WD~Australia,408]]"
-instance_of: "[[_Standards/WikiData/WD~language_family,25295]]"
+subclass_of: '[[_Standards/WikiData/WD~Australian_Aboriginal_languages,205143]]'
+opposite_of: '[[_Standards/WikiData/WD~Non_Pama_Nyungan,5972918]]'
+country: '[[_Standards/WikiData/WD~Australia,408]]'
+instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 number_of_speakers_writers_or_signers: 25000
 WALS_family_code: pamanyungan
 WALS_genus_code: pamanyungan
@@ -12,8 +55,55 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Pama-nyunga
 exact_match: https://grambank.clld.org/familys/pama1250
 Commons_category: Pama-Nyungan languages
 Glottolog_code: pama1250
+dv_has_:
+  name_:
+    ar: باما نيونغان
+    ast: Llingües pama-ñunganas
+    be-tarask: пама-ньюнгаўскія мовы
+    ca: llengües pama-nyunga
+    cs: Pama-nyunganské jazyky
+    de: Pama-Nyunganisch
+    en: Pama–Nyungan
+    eo: Pama-nungaa lingvaro
+    es: lenguas pama-ñunganas
+    et: pama-njunga keeled
+    eu: Pama-Nyungan
+    fa: زبانهای پاما-نیونگایی
+    fi: pama-nyungalaiset kielet
+    fr: langues pama-nyungan
+    frr: Pama-Nyungaans Spriiken
+    gl: linguas pama-nyunganas
+    hif: Pama-Nyungan bhasa
+    hr: Pama-Nyunga jezici
+    it: lingue pama-nyunga
+    ja: パマ・ニュンガン語族
+    kn: ಪಾಮ-ನ್ಯುನ್ಗನ್ ಭಾಷೆಗಳು
+    ko: 파마늉아어족
+    la: linguae Pama-Nyunganae
+    lfn: Linguas pama–nyungan
+    li: Pama-Nyungaanse spraoke
+    lt: Pamų-njungų kalbos
+    mg: Fianakaviam-piteny pama-niongàna
+    nb: pamanyunganske språk
+    nl: Pama-Nyungaanse talen
+    nn: pama-nyunganske språk
+    oc: Lengas pama-nyungan
+    pl: Języki pama-njungaskie
+    pt: Pama-Nyungan
+    ru: пама-ньюнгские языки
+    sl: pama-njuganski jeziki
+    smn: pama-nyungaliih kielah
+    sr: Пама-њунгански језици
+    sv: pama-nyunganska språk
+    sw: Lugha za Kipama-Nyungan
+    tr: Pama-Nyungan dilleri
+    vec: łéngue pama-nyungane
+    vi: Hệ ngôn ngữ Pama–Nyungar
+    zh: 帕马-尼永甘语系
+    zh-cn: 帕马-尼永甘语系
+    zh-hans: 帕马-尼永甘语系
+    zh-hant: 帕馬-尼永甘語系
 ---
-
 # [[LangFamily-Pama–Nyungan]] 
 
 #is_/same_as :: [[WD~Pama–Nyungan,33942]] 

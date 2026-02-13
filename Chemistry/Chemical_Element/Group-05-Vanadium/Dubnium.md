@@ -1,54 +1,272 @@
 ---
 aliases:
-  - Dubnium
+- dubn
+- dubni
+- Dubnii
+- dubnij
+- dubnijs
+- Dubnijum
+- dubnin
+- dubnio
+- Dubniom
+- dubnis
+- dubniu
+- Dubnium
+- dubniumi
+- dubniumo
+- Dubniwm
+- Dubniy
+- Dubniyaam
+- Dubniyo
+- Dubniyu
+- dubniyum
+- Dubniyûm
+- dubnju
+- Dubnyo
+- Dubnyum
+- dubnín
+- Dùbniu
+- dúbnio
+- dúibniam
+- Dʊbɩnɩyɔm
+- jinmrdubni
+- UmDubumbi
+- ντούμπνιο
+- Дубн
+- дубній
+- Дубни
+- дубнијум
+- Дубний
+- Дубниум
+- դուբնիում
+- דובניום
+- دابنيوم
+- دوبنيوم
+- دوبنیم
+- دوبنیۆم
+- دۇبنىي
+- ڈبنئیم
+- ډوبنيوم
+- डब्नियम
+- दुब्नियम
+- ডুবনিয়াম
+- ડૂબનીયમ
+- ଡବ୍ନିଅମ
+- தூப்னியம்
+- డుబ్నియం
+- ಡುಬ್ನಿಯಮ್
+- ഡൂബ്നിയം
+- ดุบเนียม
+- ཌབ་ནིམ།
+- ဒပ်ဘ်နီယမ်
+- დუბნიუმი
+- ዱብኒየም
+- ドブニウム
+- 더브늄
+- "\U000289C0"
+- "\U0002CB4A"
 has_id_wikidata: Q1232
 atomic_number: 105
 CAS_Registry_Number: 53850-35-4
 Commons_category: Dubnium
 Commons_gallery: Dubnium
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]"
-  - "[[_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630]]"
+- '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
+- '[[_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630]]'
 DSSTOX_compound_identifier: DTXCID801323011
 EC_number: 611-058-7
-electron_configuration: "[Rn] 5f¹⁴ 6d³ 7s²"
+electron_configuration: '[Rn] 5f¹⁴ 6d³ 7s²'
 element_symbol: Db
-has_characteristic: "[[_Standards/WikiData/WD~radioactivity,11448]]"
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9.jpg
-named_after: "[[_Standards/WikiData/WD~Dubna,135466]]"
+named_after: '[[_Standards/WikiData/WD~Dubna,135466]]'
 OmegaWiki_Defined_Meaning: 157650
 part_of:
-  - "[[_Standards/WikiData/WD~group_5,193276]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
+- '[[_Standards/WikiData/WD~group_5,193276]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20105%20Dubnium.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20105%20Dubnium.svg
 SpocWebEntityId: 22000
 subclass_of:
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1970-02-18
 type: Element
-Unicode_character: 𨧀
+Unicode_character: "\U000289C0"
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Dubnium,1232]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private|Dubnium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]]"
-  part_of: "[[../Group-05-Vanadium]]"
+  - '[[../../../WikiData/WD~Dubnium,1232]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private|Dubnium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]]'
+  part_of: '[[../Group-05-Vanadium]]'
 dv_has_:
   name_:
-    group: Group-05-Vanadium
-    en: Dubnium
-    de: Hahnium
     abbreviated: Db
+    af: Dubnium
+    am: ዱብኒየም
+    an: Dubnio
+    anp: डब्नियम
+    ar: دوبنيوم
+    ary: دابنيوم
+    arz: دوبنيوم
+    ast: dubniu
+    az: Dubnium
+    ba: Дубний
+    ban: Dubnium
+    bcl: Dubnyo
+    be: дубній
+    be-tarask: Дубн
+    bg: дубний
+    bho: डब्नियम
+    bn: ডুবনিয়াম
+    bo: ཌབ་ནིམ།
+    br: Dubniom
+    bs: dubnij
+    ca: dubni
+    cdo: Dubnium
+    ceb: Dubnyum
+    ckb: دوبنیۆم
+    co: Dubniu
+    cs: dubnium
+    cv: Дубни
+    cy: Dubniwm
+    da: dubnium
+    de: Dubnium
+    de-ch: Dubnium
+    el: ντούμπνιο
+    en: dubnium
+    en-ca: Dubnium
+    en-gb: dubnium
+    eo: dubniumo
+    es: dubnio
+    et: dubnium
+    eu: dubnio
+    fa: دوبنیم
+    fi: dubnium
+    fr: dubnium
+    frr: Dubnium
+    fur: Dubni
+    ga: dúibniam
+    gd: Dubnium
+    gl: Dubnio
+    group: Group-05-Vanadium
+    gu: ડૂબનીયમ
+    gv: dubnium
+    hak: dubnium
+    he: דובניום
+    hi: डब्नियम
+    hif: Dubnium
+    hr: dubnij
+    hu: dubnium
+    hy: դուբնիում
+    ia: dubnium
+    id: dubnium
+    io: dubnio
+    is: dubnín
+    it: dubnio
+    ja: ドブニウム
+    jbo: jinmrdubni
+    jv: Dubnium
+    ka: დუბნიუმი
+    kbp: Dʊbɩnɩyɔm
+    kk: Дубний
+    kn: ಡುಬ್ನಿಯಮ್
+    ko: 더브늄
+    ku: Dubniyûm
+    kv: Дубний
+    kw: Dubniom
+    ky: Дубний
+    la: dubnium
+    lb: Dubnium
+    lfn: dubnio
+    li: Dubnium
+    lij: Dubnio
+    lt: dubnis
+    lv: dubnijs
+    lzh: "\U000289C0"
+    mdf: Дубни
+    mk: дубниум
+    ml: ഡൂബ്നിയം
+    mn: дубни
+    mr: डब्नियम
+    mrj: Дубний
+    ms: Dubnium
+    mt: dubnju
+    my: ဒပ်ဘ်နီယမ်
+    nan: Dubnium
+    nb: dubnium
+    nds: Dubnium
+    ne: दुब्नियम
+    new: डब्नियम
+    nl: dubnium
+    nn: dubnium
+    nov: Dubnium
+    oc: dubni
+    or: ଡବ୍ନିଅମ
+    os: дубний
+    pi: डब्नियम
+    pl: dubn
+    pnb: ڈبنئیم
+    ps: ډوبنيوم
+    pt: dúbnio
+    pt-br: dúbnio
+    qu: Dubniyu
+    ro: dubniu
+    ru: дубний
+    rup: Dubniu
+    sa: डब्नियम
+    sc: Dùbniu
+    scn: dubniu
+    sh: Dubnijum
+    sk: dubnium
+    sl: dubnij
+    so: Dubniyaam
+    sq: dubniumi
+    sr: дубнијум
+    stq: Dubnium
+    sv: dubnium
+    sw: Dubni
+    ta: தூப்னியம்
+    te: డుబ్నియం
+    tg: Дубний
+    th: ดุบเนียม
+    tl: Dubniyo
+    tr: dubniyum
+    tt: дубний
+    ug: دۇبنىي
+    uk: дубній
+    ur: ڈبنئیم
+    uz: Dubniy
+    vep: Dubnii
+    vi: dubni
+    vo: dubnin
+    war: Dubnyo
+    wuu: "\U0002CB4A"
+    xal: Дубниум
+    yo: Dubnium
+    yue: "\U000289C0"
+    zh: "\U000289C0"
+    zh-cn: "\U0002CB4A"
+    zh-hans: "\U0002CB4A"
+    zh-hant: "\U000289C0"
+    zh-hk: "\U000289C0"
+    zh-mo: "\U000289C0"
+    zh-my: "\U0002CB4A"
+    zh-sg: "\U0002CB4A"
+    zh-tw: "\U000289C0"
+    zu: UmDubumbi
+  number_of_:
+    period: 7
+    group: 5
+    electrons: 105
   value_for_:
     weight_:
       u: 0
@@ -76,21 +294,17 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 7
-    group: 5
-    electrons: 105
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Dubnium,1232]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private|Dubnium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]]"
+- '[[../../../WikiData/WD~Dubnium,1232]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.protect|Dubnium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private|Dubnium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]]'
 dv_has_name_group: Group-05-Vanadium
-dv_is_part_of: "[[../Group-05-Vanadium]]"
+dv_is_part_of: '[[../Group-05-Vanadium]]'
 dv_has_name_en: Dubnium
 dv_has_name_de: Hahnium
 dv_has_value_for_weight_u: 0
@@ -111,7 +325,6 @@ dv_has_number_of_group: 5
 dv_has_name_abbreviated: Db
 dv_has_number_of_electrons: 105
 ---
-
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
 

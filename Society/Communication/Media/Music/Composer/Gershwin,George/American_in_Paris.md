@@ -1,10 +1,62 @@
 ---
 aliases:
-  - An American in Paris
-  - American_in_Paris
-  - American in Paris
+- American in Paris
+- American_in_Paris
+- Amerikanac u Parizu
+- Amerikkalainen Pariisissa
+- Amerykanin w Paryżu
+- An American in Paris
+- Egy amerikai Párizsban
+- Ein Amerikaner in Paris
+- En amerikaner i Paris
+- Un american la Paris
+- Un americano a Parigi
+- Un americano en París
+- Un americà a París
+- Un Américain à Paris
+- Ένας Αμερικανός στο Παρίσι
+- Американец в Париже
+- Американец во Париз (Гершвин)
+- Американець у Парижі (п'єса)
+- Ամերիկացին Փարիզում
+- אמריקאי בפריז
+- แอนอเมริกันอินปารีส
+- パリのアメリカ人
+- 一个美国人在巴黎
+- 一個美國人在巴黎
+- 파리의 미국인
+has_id_wikidata: Q853997
+dv_has_:
+  name_:
+    ca: Un americà a París
+    da: En amerikaner i Paris
+    de: Ein Amerikaner in Paris
+    el: Ένας Αμερικανός στο Παρίσι
+    en: An American in Paris
+    es: Un americano en París
+    fi: Amerikkalainen Pariisissa
+    fr: Un Américain à Paris
+    ga: An American in Paris
+    he: אמריקאי בפריז
+    hu: Egy amerikai Párizsban
+    hy: Ամերիկացին Փարիզում
+    it: Un americano a Parigi
+    ja: パリのアメリカ人
+    ko: 파리의 미국인
+    mk: Американец во Париз (Гершвин)
+    nl: An American in Paris
+    pl: Amerykanin w Paryżu
+    ro: Un american la Paris
+    ru: Американец в Париже
+    sh: Amerikanac u Parizu
+    sv: An American in Paris
+    th: แอนอเมริกันอินปารีส
+    uk: Американець у Парижі (п'єса)
+    zh: 一個美國人在巴黎
+    zh-hans: 一个美国人在巴黎
+    zh-hant: 一個美國人在巴黎
+    zh-hk: 一個美國人在巴黎
 ---
-
 # [[American_in_Paris]] 
 
 

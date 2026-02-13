@@ -1,31 +1,187 @@
 ---
 aliases:
-  - Hegemonie
-  - Hegemony
+- Bá quyền
+- cinseal
+- egemonia
+- ehemonia
+- ehemoniya
+- ehemonía
+- Forræði
+- Gegemonlik
+- Gegemonïzm
+- hegemoni
+- hegemonia
+- Hegemonie
+- hegemoniija
+- Hegemonija
+- hegemonije
+- hegemonio
+- Hegemoniya
+- Hegemony
+- Hegemonya
+- hegemonía
+- hegemoonia
+- Hegjemonia
+- Hexemonía
+- hégémonie
+- ηγεμονία
+- гегемонія
+- Гегемонизм
+- гегемония
+- Ноёрхол
+- хегемонија
+- Хегемония
+- Հեգեմոնիա
+- הגמוניה
+- تسلط
+- سيطرة
+- فرا دستی
+- هژمونی
+- هڪ هٽي
+- گەگەمونىيزم
+- आधिपत्य
+- আধিপত্যবাদ
+- ਚੌਧਰ
+- ஆதிக்க அரசியல்
+- ആധിപത്യം
+- හෙජමනිය
+- การใช้อำนาจครอบงำ
+- ჰეგემონია
+- 覇権
+- 霸权
+- 霸權
+- 패권
 has_id_wikidata: Q182034
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_oF_dreaming_Theories,20743760]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~relation,930933]]'
-  - '[[_Standards/WikiData/WD~hegemony,60662171]]'
+- '[[_Standards/WikiData/WD~relation,930933]]'
+- '[[_Standards/WikiData/WD~hegemony,60662171]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~regional_hegemony,1039835]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]'
-  - '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Socialism,15885083]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
+- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sociology,10858392]]'
+- '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
+- '[[_Standards/WikiData/WD~WikiProject_Socialism,15885083]]'
+- '[[_Standards/WikiData/WD~WikiProject_Classical_Greece_and_Rome,26208713]]'
 different_from: '[[_Standards/WikiData/WD~hegemony,60662171]]'
 opposite_of: '[[_Standards/WikiData/WD~Q125391201,125391201]]'
 facet_of: '[[_Standards/WikiData/WD~state,7275]]'
 Commons_category: Hegemony
 Libris_URI: 75kmp4br0wqq0j7
+dv_has_:
+  name_:
+    af: hegemonie
+    ar: سيطرة
+    ast: Hexemonía
+    az: Hegemoniya
+    be: гегемонія
+    be-tarask: гегемонія
+    bg: Хегемония
+    bn: আধিপত্যবাদ
+    bs: Hegemonija
+    bxr: Ноёрхол
+    ca: hegemonia
+    ceb: ehemoniya
+    cps: ehemoniya
+    cs: hegemonie
+    cy: Hegemoni
+    da: Hegemoni
+    de: Hegemonie
+    diq: Hegemonya
+    el: ηγεμονία
+    en: hegemony
+    en-ca: hegemony
+    en-gb: hegemony
+    eo: hegemonio
+    es: hegemonía
+    et: hegemoonia
+    eu: Hegemonia
+    fa: فرا دستی
+    fi: hegemonia
+    fr: hégémonie
+    ga: cinseal
+    gl: Hexemonía
+    gsw: Hegemonie
+    he: הגמוניה
+    hi: आधिपत्य
+    hil: ehemoniya
+    hr: hegemonija
+    hy: Հեգեմոնիա
+    id: Hegemoni
+    ilo: ehemonia
+    io: Hegemonio
+    is: Forræði
+    it: egemonia
+    ja: 覇権
+    ka: ჰეგემონია
+    kk: Гегемонизм
+    kk-arab: گەگەمونىيزم
+    kk-cn: گەگەمونىيزم
+    kk-cyrl: Гегемонизм
+    kk-kz: Гегемонизм
+    kk-latn: Gegemonïzm
+    kk-tr: Gegemonïzm
+    ko: 패권
+    krj: ehemoniya
+    ky: Гегемония
+    lt: hegemonija
+    lv: hegemonija
+    mk: хегемонија
+    ml: ആധിപത്യം
+    ms: Hegemoni
+    mzn: هژمونی
+    nb: hegemoni
+    ne: आधिपत्य
+    nl: hegemonie
+    nn: hegemoni
+    pa: ਚੌਧਰ
+    pag: ehemoniya
+    pam: ehemonía
+    pl: Hegemonia
+    ps: تسلط
+    pt: hegemonia
+    ro: hegemonie
+    ru: гегемония
+    sd: هڪ هٽي
+    se: hegemoniija
+    sh: Hegemonija
+    si: හෙජමනිය
+    sl: hegemonija
+    sma: hegemonije
+    smj: hegemonija
+    smn: hegemonia
+    sms: hegemonia
+    sq: Hegjemonia
+    sr: хегемонија
+    sr-ec: Хегемонија
+    sr-el: Hegemonija
+    sv: hegemoni
+    ta: ஆதிக்க அரசியல்
+    th: การใช้อำนาจครอบงำ
+    tl: ehemoniya
+    tr: Hegemonya
+    tt: гегемония
+    tyv: Гегемония
+    uk: гегемонія
+    uz: Gegemonlik
+    vi: Bá quyền
+    war: ehemoniya
+    wuu: 霸权
+    xmf: ჰეგემონია
+    yue: 霸權
+    zh: 霸权
+    zh-cn: 霸权
+    zh-hans: 霸权
+    zh-hant: 霸權
+    zh-hk: 霸權
+    zh-sg: 霸权
+    zh-tw: 霸權
 ---
-
 # [[Hegemony]] 
 
 #is_/same_as :: [[WD~Hegemony,182034]] 

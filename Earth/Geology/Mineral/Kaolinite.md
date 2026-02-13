@@ -1,18 +1,58 @@
 ---
 aliases:
-  - Kaolinit
-  - Kaolinite
+- caolinit
+- caolinita
+- caolinite
+- caolín
+- caołinita
+- caulinite
+- cré Shíneach
+- kaolin
+- Kaoliniet
+- kaoliniit
+- Kaoliniitti
+- Kaolinit
+- Kaolinita
+- kaolinitas
+- Kaolinite
+- kaolinito
+- kaolinitt
+- Kaolinīts
+- Kaolïnït
+- Pri gwynn
+- tswuo
+- Καολίνης
+- каалініт
+- каолініт
+- каолинит
+- Կաոլինիտ
+- קאוליניט
+- كاولىينىيت
+- كاولين
+- کائولینیت
+- चिनी माती
+- चीनी मिट्टी
+- সাদামাটি
+- ચીનાઈ માટી
+- வெண்களிமண்
+- ಚೀನೀ ಮಣ್ಣು
+- කෙයලිනයිට්
+- ကာအိုလင်
+- カオリナイト
+- 高岭石
+- 高嶺石
+- 고령석
 has_id_wikidata: Q223197
-crystal_system: "[[_Standards/WikiData/WD~triclinic_crystal_system,376927]]"
+crystal_system: '[[_Standards/WikiData/WD~triclinic_crystal_system,376927]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_species,12089225]]"
-different_from: "[[_Standards/WikiData/WD~kaolin,12824373]]"
-subclass_of: "[[_Standards/WikiData/WD~kaolinite_mineral_subgroup,13218173]]"
-IMA_status_and_or_rank: "[[_Standards/WikiData/WD~approved_mineral_and_or_valid_name_(A),13406835]]"
-type_locality_geology_: "[[_Standards/WikiData/WD~Q110514312,110514312]]"
-streak_color: "[[_Standards/WikiData/WD~white,23444]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_species,12089225]]'
+different_from: '[[_Standards/WikiData/WD~kaolin,12824373]]'
+subclass_of: '[[_Standards/WikiData/WD~kaolinite_mineral_subgroup,13218173]]'
+IMA_status_and_or_rank: '[[_Standards/WikiData/WD~approved_mineral_and_or_valid_name_(A),13406835]]'
+type_locality_geology_: '[[_Standards/WikiData/WD~Q110514312,110514312]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444]]'
 Mohs_hardness: 1
 IMA_Number_broad_sense: IMA1980 s.p.
 chemical_formula: Al₂Si₂O₅(OH)₄
@@ -26,28 +66,107 @@ Commons_category: Kaolinite
 IMA_Mineral_Symbol: Kln
 dv_has_:
   formula_: Al2Si2O5(OH)4
+  name_:
+    af: Kaoliniet
+    ar: كاولين
+    ast: caolín
+    az: kaolinit
+    be-tarask: каалініт
+    bn: সাদামাটি
+    ca: caolinita
+    cs: kaolinit
+    cy: kaolin
+    da: kaolinit
+    de: Kaolinit
+    el: Καολίνης
+    en: kaolinite
+    eo: kaolinito
+    es: caolinita
+    et: kaoliniit
+    eu: Kaolinita
+    fa: کائولینیت
+    fi: Kaoliniitti
+    fr: kaolinite
+    frr: Kaoliniit
+    ga: cré Shíneach
+    gl: Caolinita
+    gu: ચીનાઈ માટી
+    he: קאוליניט
+    hi: चीनी मिट्टी
+    hu: kaolinit
+    hy: Կաոլինիտ
+    it: caolinite
+    ja: カオリナイト
+    kcg: tswuo
+    kk: Каолинит
+    kk-arab: كاولىينىيت
+    kk-cn: كاولىينىيت
+    kk-cyrl: Каолинит
+    kk-kz: Каолинит
+    kk-latn: Kaolïnït
+    kk-tr: Kaolïnït
+    kn: ಚೀನೀ ಮಣ್ಣು
+    ko: 고령석
+    kw: Pri gwynn
+    ky: каолинит
+    lt: kaolinitas
+    lv: Kaolinīts
+    mk: каолинит
+    mr: चिनी माती
+    ms: Kaolinit
+    my: ကာအိုလင်
+    nb: kaolinitt
+    nl: kaoliniet
+    pl: Kaolinit
+    pt: caulinite
+    rki: ကာအိုလင်
+    ro: caolinit
+    ru: каолинит
+    sco: kaolinite
+    sh: Kaolinit
+    si: කෙයලිනයිට්
+    sk: Kaolinit
+    sl: kaolinit
+    sr: каолинит
+    sr-ec: Каолинит
+    sr-el: Kaolinit
+    sv: kaolinit
+    ta: வெண்களிமண்
+    tr: Kaolinit
+    uk: каолініт
+    uz: Kaolinit
+    vec: caołinita
+    vi: kaolinit
+    wuu: 高岭石
+    yue: 高嶺石
+    zh: 高嶺石
+    zh-cn: 高岭石
+    zh-hans: 高岭石
+    zh-hant: 高嶺石
+    zh-hk: 高嶺石
+    zh-sg: 高岭石
+    zh-tw: 高嶺石
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Kaolinite,223197]]"
-    - "[[/_Standards/Earth/Geology/Mineral/Kaolinite|Kaolinite]]"
-    - "[[/_public/Earth/Geology/Mineral/Kaolinite.public|Kaolinite.public]]"
-    - "[[/_internal/Earth/Geology/Mineral/Kaolinite.internal|Kaolinite.internal]]"
-    - "[[/_protect/Earth/Geology/Mineral/Kaolinite.protect|Kaolinite.protect]]"
-    - "[[/_private/Earth/Geology/Mineral/Kaolinite.private|Kaolinite.private]]"
-    - "[[/_personal/Earth/Geology/Mineral/Kaolinite.personal|Kaolinite.personal]]"
-    - "[[/_secret/Earth/Geology/Mineral/Kaolinite.secret|Kaolinite.secret]]"
+  - '[[../../../WikiData/WD~Kaolinite,223197]]'
+  - '[[/_Standards/Earth/Geology/Mineral/Kaolinite|Kaolinite]]'
+  - '[[/_public/Earth/Geology/Mineral/Kaolinite.public|Kaolinite.public]]'
+  - '[[/_internal/Earth/Geology/Mineral/Kaolinite.internal|Kaolinite.internal]]'
+  - '[[/_protect/Earth/Geology/Mineral/Kaolinite.protect|Kaolinite.protect]]'
+  - '[[/_private/Earth/Geology/Mineral/Kaolinite.private|Kaolinite.private]]'
+  - '[[/_personal/Earth/Geology/Mineral/Kaolinite.personal|Kaolinite.personal]]'
+  - '[[/_secret/Earth/Geology/Mineral/Kaolinite.secret|Kaolinite.secret]]'
 dv_has_formula_: Al2Si2O5(OH)4
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Kaolinite,223197]]"
-  - "[[/_Standards/Earth/Geology/Mineral/Kaolinite|Kaolinite]]"
-  - "[[/_public/Earth/Geology/Mineral/Kaolinite.public|Kaolinite.public]]"
-  - "[[/_internal/Earth/Geology/Mineral/Kaolinite.internal|Kaolinite.internal]]"
-  - "[[/_protect/Earth/Geology/Mineral/Kaolinite.protect|Kaolinite.protect]]"
-  - "[[/_private/Earth/Geology/Mineral/Kaolinite.private|Kaolinite.private]]"
-  - "[[/_personal/Earth/Geology/Mineral/Kaolinite.personal|Kaolinite.personal]]"
-  - "[[/_secret/Earth/Geology/Mineral/Kaolinite.secret|Kaolinite.secret]]"
+- '[[../../../WikiData/WD~Kaolinite,223197]]'
+- '[[/_Standards/Earth/Geology/Mineral/Kaolinite|Kaolinite]]'
+- '[[/_public/Earth/Geology/Mineral/Kaolinite.public|Kaolinite.public]]'
+- '[[/_internal/Earth/Geology/Mineral/Kaolinite.internal|Kaolinite.internal]]'
+- '[[/_protect/Earth/Geology/Mineral/Kaolinite.protect|Kaolinite.protect]]'
+- '[[/_private/Earth/Geology/Mineral/Kaolinite.private|Kaolinite.private]]'
+- '[[/_personal/Earth/Geology/Mineral/Kaolinite.personal|Kaolinite.personal]]'
+- '[[/_secret/Earth/Geology/Mineral/Kaolinite.secret|Kaolinite.secret]]'
 ---
-
 # [[Kaolinite]] 
 
 has_formula_ = `=this.dv_has_formula_`

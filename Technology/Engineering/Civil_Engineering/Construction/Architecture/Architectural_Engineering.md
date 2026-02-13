@@ -1,20 +1,72 @@
 ---
 aliases:
-  - Architectural_Engineering
-  - Architectural Engineering
+- Architectural Engineering
+- Architectural_Engineering
+- arkitektonisk ingeniørfag
+- Arkitektura ingeniaritza
+- arkitektura inĝenerio
+- Baukunde
+- Bauwesen
+- Boewkónde
+- Bouw
+- bouwkunde
+- budownictwo
+- byggnadsplanering
+- engenharia arquitetônica
+- enginyeria de la construcció
+- enxeñaría da construción
+- gradbena industrija
+- génie architectural
+- huksenteknihkka
+- ingegneria edile
+- ingeniería de la edificación
+- Inhenyerya nga arkitektural
+- Inhinyeriyang pang-arkitektura
+- inxeniería de la edificación
+- kejuruteraan bangunan
+- mimari mühendislik
+- rakennussuunnittelu
+- Servicii tehnice din construcții
+- Strukturo
+- Teknik arsitektur
+- visokogradnja
+- építésügy
+- архітектурна інженерія
+- архітэктурная інжынерыя
+- архітэктурная інжынэрыя
+- архитектонско инжењерство
+- архитектонско инженерство
+- архитектур инженерия
+- архитектурная инженерия
+- Архитектурын инженерчлэл
+- високоградња
+- מערכות בניין
+- سازه
+- معماری ہندسیات
+- هندسة معمارية
+- वास्तुशिल्पीय इंजीनियरी
+- স্থাপত্য প্রকৌশল
+- கட்டகக்கவின் பொறியியல்
+- 建筑工程
+- 建築工学
+- 建築工程
+- 建築工程學
+- 建設業
+- 建设业
+- 건축공학
 has_id_wikidata: Q150737
 instance_of:
-  - '[[_Standards/WikiData/WD~industry,268592]]'
-  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~steel_building,1924856]]'
-  - '[[_Standards/WikiData/WD~building_services_engineering,4986607]]'
+- '[[_Standards/WikiData/WD~steel_building,1924856]]'
+- '[[_Standards/WikiData/WD~building_services_engineering,4986607]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~architectural_engineer,3151019]]'
-  - '[[_Standards/WikiData/WD~building_engineer,21778977]]'
+- '[[_Standards/WikiData/WD~architectural_engineer,3151019]]'
+- '[[_Standards/WikiData/WD~building_engineer,21778977]]'
 part_of:
-  - '[[_Standards/WikiData/WD~engineering,11023]]'
-  - '[[_Standards/WikiData/WD~architecture,12271]]'
+- '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~architecture,12271]]'
 different_from: '[[_Standards/WikiData/WD~architecture,12271]]'
 used_by: '[[_Standards/WikiData/WD~architecture,12271]]'
 subclass_of: '[[_Standards/WikiData/WD~architecture,12271]]'
@@ -25,8 +77,65 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Bauwe
 Commons_category: Building engineering
 Wolfram_Language_entity_code: Entity["Concept", "ArchitecturalEngineering::gnv9j"]
 male_form_of_label: Enginyeria d'Obres Públiques
+dv_has_:
+  name_:
+    ar: هندسة معمارية
+    ast: inxeniería de la edificación
+    be: архітэктурная інжынерыя
+    be-tarask: архітэктурная інжынэрыя
+    bn: স্থাপত্য প্রকৌশল
+    ca: enginyeria de la construcció
+    de: Bauwesen
+    en: architectural engineering
+    en-ca: architectural engineering
+    en-gb: architectural engineering
+    eo: arkitektura inĝenerio
+    es: ingeniería de la edificación
+    eu: Arkitektura ingeniaritza
+    fa: سازه
+    fi: rakennussuunnittelu
+    fr: génie architectural
+    gl: enxeñaría da construción
+    he: מערכות בניין
+    hi: वास्तुशिल्पीय इंजीनियरी
+    hu: építésügy
+    id: Teknik arsitektur
+    io: Strukturo
+    it: ingegneria edile
+    ja: 建築工学
+    ko: 건축공학
+    li: Boewkónde
+    mk: архитектонско инженерство
+    mn: Архитектурын инженерчлэл
+    ms: kejuruteraan bangunan
+    nb: arkitektonisk ingeniørfag
+    nl: bouwkunde
+    pl: budownictwo
+    pt: engenharia arquitetônica
+    ro: Servicii tehnice din construcții
+    ru: архитектурная инженерия
+    se: huksenteknihkka
+    sl: gradbena industrija
+    sr: архитектонско инжењерство
+    sr-ec: високоградња
+    sr-el: visokogradnja
+    stq: Baukunde
+    sv: byggnadsplanering
+    ta: கட்டகக்கவின் பொறியியல்
+    tl: Inhinyeriyang pang-arkitektura
+    tr: mimari mühendislik
+    tt: архитектур инженерия
+    uk: архітектурна інженерія
+    ur: معماری ہندسیات
+    vls: Bouw
+    war: Inhenyerya nga arkitektural
+    yue: 建築工程學
+    zh: 建筑工程
+    zh-cn: 建设业
+    zh-hans: 建筑工程
+    zh-hant: 建設業
+    zh-hk: 建築工程
 ---
-
 # [[Architectural_Engineering]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Architectural_engineering,150737|WD~Architectural_engineering,150737]] 

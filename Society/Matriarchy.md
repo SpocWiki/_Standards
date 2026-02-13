@@ -1,28 +1,178 @@
 ---
 aliases:
+- Anaerkillik
+- Chế độ mẫu quyền
+- Dayiksalarî
+- Habartooyo
+- Madərşahlıq
+- matriarcado
+- matriarcat
+- matriarcato
+- Matriarcatu
+- matriarchaat
+- Matriarchat
+- matriarchatas
+- matriarchy
+- matriarchát
+- matriarchátus
+- Matriarcáu
+- Matriargie
+- Matriarhaat
+- Matriarhat
+- matriarhāts
+- matriarkaatti
+- matriarkat
+- Matriarkati
+- Matriarkatu
+- matriarkeco
+- Matriarki
+- Matriarxat
+- Matrijarhat
+- Matrïarxat
+- Mæðraveldi
+- Ndị isi nwanyị
+- μητριαρχία
+- Амтриархат
+- матріархат
+- Матријархат
+- матриархат
+- Матриархатсь
+- матрыярхат
+- Модаршоҳӣ
+- Մայրիշխանություն
+- מטריארכיה
+- اَماڻو سماج
+- زنسالاری
+- ماترىيارحات
+- متريركيه
+- مورواکي
+- نظام أمومي
+- मातृतंत्र
+- मातृसत्ताक कुटुंबपद्धती
+- মাতৃতন্ত্র
+- মাতৃতন্ত্ৰ
+- మాతృస్వామ్యం
+- മാതൃദായക്രമം
+- มาตาธิปไตย
+- მატრიარქატი
+- 家母長制
+- 母权
+- 母權
+- 모권제
 has_id_wikidata: Q185681
 different_from:
-  - "[[_Standards/WikiData/WD~patriarchy,181339]]"
-  - "[[_Standards/WikiData/WD~matrilineality,1136773]]"
-  - "[[_Standards/WikiData/WD~gynocracy,1558448]]"
-  - "[[_Standards/WikiData/WD~Matriarch,6787782]]"
+- '[[_Standards/WikiData/WD~patriarchy,181339]]'
+- '[[_Standards/WikiData/WD~matrilineality,1136773]]'
+- '[[_Standards/WikiData/WD~gynocracy,1558448]]'
+- '[[_Standards/WikiData/WD~Matriarch,6787782]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~patriarchy,181339]]"
-  - "[[_Standards/WikiData/WD~anarcha_feminism,211380]]"
+- '[[_Standards/WikiData/WD~patriarchy,181339]]'
+- '[[_Standards/WikiData/WD~anarcha_feminism,211380]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_structure,211606]]"
-  - "[[_Standards/WikiData/WD~social_system,1639378]]"
+- '[[_Standards/WikiData/WD~social_structure,211606]]'
+- '[[_Standards/WikiData/WD~social_system,1639378]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Library_of_Congress_Classification: GN479.5
-OmegaWiki_Defined_Meaning: "353234"
+OmegaWiki_Defined_Meaning: 353234
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nampeyo%20and%20Family%2C%201901%2C%20Adam%20Clark%20Vroman.jpg
 Iconclass_notation: 46A91
 Commons_category: Matriarchy
+dv_has_:
+  name_:
+    ab: Амтриархат
+    af: Matriargie
+    ar: نظام أمومي
+    arz: متريركيه
+    as: মাতৃতন্ত্ৰ
+    ast: Matriarcáu
+    az: Madərşahlıq
+    be: матрыярхат
+    be-tarask: матрыярхат
+    bg: матриархат
+    bn: মাতৃতন্ত্র
+    bs: Matrijarhat
+    ca: matriarcat
+    cs: matriarchát
+    da: matriarkat
+    de: Matriarchat
+    el: μητριαρχία
+    en: matriarchy
+    eo: matriarkeco
+    es: matriarcado
+    et: Matriarhaat
+    eu: Matriarkatu
+    fa: زنسالاری
+    fi: matriarkaatti
+    fr: matriarcat
+    gl: matriarcado
+    he: מטריארכיה
+    hi: मातृतंत्र
+    hr: matrijarhat
+    hu: matriarchátus
+    hy: Մայրիշխանություն
+    id: Matriarki
+    ig: Ndị isi nwanyị
+    is: Mæðraveldi
+    it: matriarcato
+    ja: 家母長制
+    ka: მატრიარქატი
+    kk: Матриархат
+    kk-arab: ماترىيارحات
+    kk-cn: ماترىيارحات
+    kk-cyrl: Матриархат
+    kk-kz: Матриархат
+    kk-latn: Matrïarxat
+    kk-tr: Matrïarxat
+    ko: 모권제
+    ku: Dayiksalarî
+    ky: Матриархат
+    lt: matriarchatas
+    lv: matriarhāts
+    mdf: Матриархатсь
+    mk: Матријархат
+    ml: മാതൃദായക്രമം
+    mr: मातृसत्ताक कुटुंबपद्धती
+    nb: matriarkat
+    nl: matriarchaat
+    nn: matriarkat
+    oc: Matriarcat
+    pl: matriarchat
+    ps: مورواکي
+    pt: matriarcado
+    ro: Matriarhat
+    ru: матриархат
+    scn: Matriarcatu
+    sd: اَماڻو سماج
+    sh: Matrijarhat
+    sk: matriarchát
+    sl: matriarhat
+    so: Habartooyo
+    sq: Matriarkati
+    sr: Матријархат
+    sr-ec: Матријархат
+    sr-el: Matrijarhat
+    sv: matriarkat
+    te: మాతృస్వామ్యం
+    tg: Модаршоҳӣ
+    th: มาตาธิปไตย
+    tr: Anaerkillik
+    uk: матріархат
+    uz: Matriarxat
+    vi: Chế độ mẫu quyền
+    wuu: 母权
+    xmf: მატრიარქატი
+    yue: 母權
+    zh: 母權
+    zh-cn: 母权
+    zh-hans: 母权
+    zh-hant: 母權
+    zh-hk: 母權
+    zh-sg: 母权
+    zh-tw: 母權
 ---
-
 # [[Matriarchy]] 
 
 #is_/same_as :: [[WD~Matriarchy,185681]] 

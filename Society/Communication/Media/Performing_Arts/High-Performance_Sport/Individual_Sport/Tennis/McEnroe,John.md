@@ -1,53 +1,85 @@
 ---
 aliases:
-  - John McEnroe
-  - John_McEnroe
-  - McEnroe,John
+- Džons Makinrojs
+- John MacEnroe
+- John McEnroe
+- John Patrick MacEnroe
+- John Patrick McEnroe
+- John_McEnroe
+- McEnroe,John
+- Τζον Μακ Ένρο
+- Џон Макенро
+- Джон Мак-Інрой
+- Джон Макінра
+- Джон Макенроу
+- Джон Макинрой
+- Джон Мекенроу
+- Джон Патрік Макінрой
+- Ջոն Մաքինրոյ
+- ג'ון מקנרו
+- جان مکانرو
+- جون ماكنرو
+- چون ماكينرو
+- जॉन मॅकएन्रो
+- जॉन मेकनरो
+- জন ম্যাকেনরো
+- ਜੌਨ ਮੈਕਨਰੋ
+- இச்சான் மெக்கன்ரோ
+- జాన్ మెకెన్రో
+- ಜಾನ್ ಮೆಕೆನ್ರೊ
+- ജോൺ മക്കൻറോ
+- จอห์น แม็กเอนโร
+- ჯონ მაკინროი
+- ジョン・マッケンロー
+- 約翰·麥肯羅
+- 约翰·麦肯罗
+- 麥根萊
+- 존 매켄로
 has_id_wikidata: Q16474
 singles_record: 881–198
 name_in_native_language: John McEnroe
 work_period_end_: 1994-01-01T00:00:00Z
-spouse: "[[_Standards/WikiData/WD~Patty_Smyth,444096]]"
-sibling: "[[_Standards/WikiData/WD~Patrick_McEnroe,614675]]"
+spouse: '[[_Standards/WikiData/WD~Patty_Smyth,444096]]'
+sibling: '[[_Standards/WikiData/WD~Patrick_McEnroe,614675]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]"
-  - "[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]"
-  - "[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]"
-playing_hand: "[[_Standards/WikiData/WD~left_handedness,789447]]"
-handedness: "[[_Standards/WikiData/WD~left_handedness,789447]]"
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~Philippe_Chatrier_Award,10349157]]'
+- '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
+playing_hand: '[[_Standards/WikiData/WD~left_handedness,789447]]'
+handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~United_States_Davis_Cup_team,1389353]]"
-  - "[[_Standards/WikiData/WD~Stanford_Cardinal_men's_tennis,107881483]]"
+- '[[_Standards/WikiData/WD~United_States_Davis_Cup_team,1389353]]'
+- "[[_Standards/WikiData/WD~Stanford_Cardinal_men's_tennis,107881483]]"
 occupation:
-  - "[[_Standards/WikiData/WD~journalist,1930187]]"
-  - "[[_Standards/WikiData/WD~tennis_player,10833314]]"
-  - "[[_Standards/WikiData/WD~tennis_coach,13219424]]"
-given_name: "[[_Standards/WikiData/WD~John,4925477]]"
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+- '[[_Standards/WikiData/WD~tennis_coach,13219424]]'
+given_name: '[[_Standards/WikiData/WD~John,4925477]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Buckley_Country_Day_School,4983350]]"
-  - "[[_Standards/WikiData/WD~Ivy_Preparatory_School_League,6099917]]"
-  - "[[_Standards/WikiData/WD~Trinity_School,7842961]]"
-  - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Buckley_Country_Day_School,4983350]]'
+- '[[_Standards/WikiData/WD~Ivy_Preparatory_School_League,6099917]]'
+- '[[_Standards/WikiData/WD~Trinity_School,7842961]]'
+- '[[_Standards/WikiData/WD~Stanford_University,41506]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sports_discipline_competed_in:
-  - "[[_Standards/WikiData/WD~mixed_doubles,16629853]]"
-  - "[[_Standards/WikiData/WD~tennis_singles,18123880]]"
-  - "[[_Standards/WikiData/WD~tennis_doubles,18123885]]"
-family_name: "[[_Standards/WikiData/WD~McEnroe,21492066]]"
+- '[[_Standards/WikiData/WD~mixed_doubles,16629853]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+family_name: '[[_Standards/WikiData/WD~McEnroe,21492066]]'
 child:
-  - "[[_Standards/WikiData/WD~Sean_McEnroe,75761311]]"
-  - "[[_Standards/WikiData/WD~Kevin_John_McEnroe,75761309]]"
-  - "[[_Standards/WikiData/WD~Emily_McEnroe,75761313]]"
-field_of_work: "[[_Standards/WikiData/WD~tennis,847]]"
-sport: "[[_Standards/WikiData/WD~tennis,847]]"
-place_of_birth: "[[_Standards/WikiData/WD~Wiesbaden,1721]]"
-native_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-employer: "[[_Standards/WikiData/WD~British_Broadcasting_Corporation,9531]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-residence: "[[_Standards/WikiData/WD~New_York_City,60]]"
+- '[[_Standards/WikiData/WD~Sean_McEnroe,75761311]]'
+- '[[_Standards/WikiData/WD~Kevin_John_McEnroe,75761309]]'
+- '[[_Standards/WikiData/WD~Emily_McEnroe,75761313]]'
+field_of_work: '[[_Standards/WikiData/WD~tennis,847]]'
+sport: '[[_Standards/WikiData/WD~tennis,847]]'
+place_of_birth: '[[_Standards/WikiData/WD~Wiesbaden,1721]]'
+native_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+employer: '[[_Standards/WikiData/WD~British_Broadcasting_Corporation,9531]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+residence: '[[_Standards/WikiData/WD~New_York_City,60]]'
 ranking: 1
 height: 180
 mass: 75
@@ -56,15 +88,101 @@ work_period_start_: 1978-01-01T00:00:00Z
 date_of_birth: 1959-02-16T00:00:00Z
 prize_money: 12552132
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20at%20the%202009%20US%20Open%2001a%20%28cropped%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20by%20David%20Shankbone.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20WTT.jpg
-ISNI: "0000000080982796"
-Munzinger_Sport_number: "01000000831"
+- http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20at%20the%202009%20US%20Open%2001a%20%28cropped%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20by%20David%20Shankbone.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/John%20McEnroe%20WTT.jpg
+ISNI: 0000000080982796
+Munzinger_Sport_number: 01000000831
 doubles_record: 543–103
 Plex_person_key: 5d77682b151a60001f24ba94
+dv_has_:
+  name_:
+    an: John McEnroe
+    ar: جون ماكنرو
+    arz: چون ماكينرو
+    ast: John McEnroe
+    be: Джон Мак-Інрой
+    be-tarask: Джон Макінра
+    bg: Джон Макенроу
+    bn: জন ম্যাকেনরো
+    ca: John McEnroe
+    cs: John McEnroe
+    cv: Джон Макинрой
+    cy: John McEnroe
+    da: John McEnroe
+    de: John McEnroe
+    de-at: John McEnroe
+    de-ch: John McEnroe
+    el: Τζον Μακ Ένρο
+    en: John McEnroe
+    en-ca: John McEnroe
+    en-gb: John McEnroe
+    eo: John McEnroe
+    es: John McEnroe
+    et: John McEnroe
+    eu: John Patrick MacEnroe
+    ext: John McEnroe
+    fa: جان مکانرو
+    fi: John McEnroe
+    fr: John McEnroe
+    ga: John McEnroe
+    gl: John McEnroe
+    he: ג'ון מקנרו
+    hi: जॉन मेकनरो
+    hr: John McEnroe
+    hu: John McEnroe
+    hy: Ջոն Մաքինրոյ
+    io: John MacEnroe
+    is: John McEnroe
+    it: John McEnroe
+    ja: ジョン・マッケンロー
+    jut: John McEnroe
+    ka: ჯონ მაკინროი
+    kn: ಜಾನ್ ಮೆಕೆನ್ರೊ
+    ko: 존 매켄로
+    lfn: John McEnroe
+    lt: John McEnroe
+    lv: Džons Makinrojs
+    mg: John McEnroe
+    ml: ജോൺ മക്കൻറോ
+    mr: जॉन मॅकएन्रो
+    mul: John McEnroe
+    nan: John McEnroe
+    nb: John McEnroe
+    nl: John McEnroe
+    nn: John McEnroe
+    oc: John McEnroe
+    pa: ਜੌਨ ਮੈਕਨਰੋ
+    pl: John McEnroe
+    pms: John McEnroe
+    pt: John McEnroe
+    pt-br: John McEnroe
+    rm: John McEnroe
+    ro: John McEnroe
+    ru: Джон Макинрой
+    rue: Джон Мекенроу
+    sc: John McEnroe
+    sco: John McEnroe
+    sh: John McEnroe
+    sje: John McEnroe
+    sk: John McEnroe
+    sl: John McEnroe
+    sq: John McEnroe
+    sr: Џон Макенро
+    sv: John McEnroe
+    ta: இச்சான் மெக்கன்ரோ
+    te: జాన్ మెకెన్రో
+    th: จอห์น แม็กเอนโร
+    tr: John McEnroe
+    uk: Джон Патрік Макінрой
+    uz: John Patrick McEnroe
+    vi: John McEnroe
+    war: John McEnroe
+    wuu: 约翰·麦肯罗
+    yo: John McEnroe
+    yue: 麥根萊
+    zh: 約翰·麥肯羅
 ---
-
 # [[McEnroe,John]] 
 
 #has_/time_/started :: 1959-02-16

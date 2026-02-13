@@ -1,10 +1,94 @@
 ---
 aliases:
-  - Dibranchiata
-  - Coleoidea
+- Blakfasker
+- Blæksprutte
+- Coleoidea
+- Coleoideos
+- Dibranchiata
+- Dibranqui
+- Dintenfische
+- Divžauņi
+- Dvojžiabrovce
+- dvoužábří
+- Kahelõpusesed
+- Koleoidealar
+- Koleoidoj
+- mustekalat
+- płaszczoobrosłe
+- Tintenfische
+- Tvågälade bläckfiskar
+- двужаберные
+- غمديات
+- نیامداران
+- หมึก
+- 蛸亚纲
+- 蛸亞綱
+- 鞘形類
+- 초형아강
 title: Coleoidea
+has_id_wikidata: Q749814
+dv_has_:
+  name_:
+    an: Coleoidea
+    ar: غمديات
+    arz: غمديات
+    ast: Coleoidea
+    az: Koleoidealar
+    be-tarask: Coleoidea
+    bg: Coleoidea
+    ca: Dibranqui
+    ceb: Coleoidea
+    cs: dvoužábří
+    da: Blæksprutte
+    de: Tintenfische
+    el: Coleoidea
+    en: Coleoidea
+    eo: Koleoidoj
+    es: Coleoidea
+    et: Kahelõpusesed
+    eu: Coleoidea
+    ext: Coleoidea
+    fa: نیامداران
+    fi: mustekalat
+    fr: Coleoidea
+    frr: Blakfasker
+    ga: Coleoidea
+    gl: Coleoideos
+    ia: Coleoidea
+    id: Coleoidea
+    ie: Coleoidea
+    io: Coleoidea
+    it: Coleoidea
+    ja: 鞘形類
+    ko: 초형아강
+    la: Coleoidea
+    lv: Divžauņi
+    mul: Coleoidea
+    nb: Coleoidea
+    nds: Dintenfische
+    nl: Coleoidea
+    nn: Coleoidea
+    oc: Coleoidea
+    pl: płaszczoobrosłe
+    pt: Coleoidea
+    pt-br: Coleoidea
+    ro: Coleoidea
+    ru: двужаберные
+    sk: Dvojžiabrovce
+    sl: Coleoidea
+    sq: Coleoidea
+    sr: Coleoidea
+    sv: Tvågälade bläckfiskar
+    th: หมึก
+    tr: Coleoidea
+    uk: Coleoidea
+    vi: Coleoidea
+    vo: Coleoidea
+    war: Coleoidea
+    zh: 蛸亞綱
+    zh-cn: 蛸亞綱
+    zh-hans: 蛸亚纲
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

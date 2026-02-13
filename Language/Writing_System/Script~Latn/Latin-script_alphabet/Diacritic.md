@@ -1,28 +1,193 @@
 ---
 aliases:
+- accenttegn
+- diacreetic
+- diacritic
+- diacritique
+- diacrìtego
+- diacrític
+- diacrítico
+- diacríticu
+- diakriitilised märgid
+- diakrita signo
+- Diakritescht Zeechen
+- diakritické znamienko
+- diakritické znaménko
+- diakritik
+- diakritik belgilar
+- diakritiko
+- diakritikus jel
+- diakritiniai ženklai
+- diakritisch teken
+- diakritisches Zeichen
+- diakritisches Zoachn
+- diakritischi Zäiche
+- diakritisk tegn
+- diakritisk teikn
+- diakritiske znamješko
+- diakritiskt tecken
+- diakritiskā zīme
+- diakritično znamenje
+- Diakritsch Teken
+- diakritysk teken
+- dijakritik
+- dijakritički znak
+- dijakritički znakovi
+- diyacritike
+- diyakritik işaret
+- dyakritik
+- dấu phụ
+- kugit
+- marc diacritig
+- phiat-im hû-hō
+- segno diacritico
+- semn diacritic
+- signo diacritic
+- signo diacrítico
+- signum diacriticum
+- sinnu diacrìticu
+- sinoù diakritek
+- stafmerki
+- tarke
+- tlatlīltzicuīniliztli
+- tuldik
+- znaki diakrytyczne
+- διακριτικό σημείο
+- προσῳδία
+- діакритичний знак
+- дијакритик
+- дијакритика
+- диакритикалык белги
+- диакритикалық белгі
+- диакритичен знак
+- диакритический знак
+- дыякрытык
+- դիակրիտիկ նշաններ
+- סימן דיאקריטי
+- اعرابگذاری
+- زبر
+- شكلة
+- विशेषक चिह्न
+- เครื่องหมายเสริมสัทอักษร
+- დიაკრიტიკული ნიშნები
+- វណ្ណយុត្តិ
+- ダイアクリティカル・マーク
+- 變音符號
+- 附加符号
+- 附加符號
+- 발음 구별 기호
 has_id_wikidata: Q162940
 different_from:
-  - "[[_Standards/WikiData/WD~stress,181767]]"
-  - "[[_Standards/WikiData/WD~accent,16001535]]"
+- '[[_Standards/WikiData/WD~stress,181767]]'
+- '[[_Standards/WikiData/WD~accent,16001535]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~character,3241972]]"
-  - "[[_Standards/WikiData/WD~additional_sign,124003506]]"
-used_by: "[[_Standards/WikiData/WD~diacritical_orthography,59154647]]"
-OmegaWiki_Defined_Meaning: "521420"
+- '[[_Standards/WikiData/WD~character,3241972]]'
+- '[[_Standards/WikiData/WD~additional_sign,124003506]]'
+used_by: '[[_Standards/WikiData/WD~diacritical_orthography,59154647]]'
+OmegaWiki_Defined_Meaning: 521420
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Germanic%20umlaut%20on%20keyboard.jpg
 Stack_Exchange_tag:
-  - https://stackoverflow.com/tags/diacritics
-  - https://tex.stackexchange.com/tags/accents
+- https://stackoverflow.com/tags/diacritics
+- https://tex.stackexchange.com/tags/accents
 Commons_category: Diacritics
 Krugosvet_article: gumanitarnye_nauki/lingvistika/DIAKRITICHESKIE_ZNAKI.html
+dv_has_:
+  name_:
+    ar: شكلة
+    ast: diacríticu
+    bar: diakritisches Zoachn
+    be-tarask: дыякрытык
+    bg: диакритичен знак
+    br: sinoù diakritek
+    ca: diacrític
+    cs: diakritické znaménko
+    cy: marc diacritig
+    da: accenttegn
+    de: diakritisches Zeichen
+    el: διακριτικό σημείο
+    en: diacritic
+    en-us: diacritic
+    eo: diakrita signo
+    es: signo diacrítico
+    et: diakriitilised märgid
+    eu: diakritiko
+    fa: اعرابگذاری
+    fi: tarke
+    fr: diacritique
+    fy: diakritysk teken
+    gl: diacrítico
+    grc: προσῳδία
+    gsw: diakritischi Zäiche
+    he: סימן דיאקריטי
+    hi: विशेषक चिह्न
+    hr: dijakritički znakovi
+    hsb: diakritiske znamješko
+    ht: dyakritik
+    hu: diakritikus jel
+    hy: դիակրիտիկ նշաններ
+    ia: signo diacritic
+    id: diakritik
+    is: stafmerki
+    it: segno diacritico
+    ja: ダイアクリティカル・マーク
+    jv: diakritik
+    ka: დიაკრიტიკული ნიშნები
+    kk: диакритикалық белгі
+    km: វណ្ណយុត្តិ
+    ko: 발음 구별 기호
+    ky: диакритикалык белги
+    la: signum diacriticum
+    lb: Diakritescht Zeechen
+    lt: diakritiniai ženklai
+    lv: diakritiskā zīme
+    mk: дијакритика
+    ms: diakritik
+    nah: tlatlīltzicuīniliztli
+    nan: phiat-im hû-hō
+    nb: diakritisk tegn
+    nds: Diakritsch Teken
+    nl: diakritisch teken
+    nn: diakritisk teikn
+    oc: diacritic
+    pl: znaki diakrytyczne
+    pt: diacrítico
+    ro: semn diacritic
+    ru: диакритический знак
+    sc: sinnu diacrìticu
+    sco: diacreetic
+    sd: زبر
+    sh: dijakritički znak
+    sk: diakritické znamienko
+    sl: diakritično znamenje
+    sr: дијакритик
+    sr-ec: дијакритик
+    sr-el: dijakritik
+    sv: diakritiskt tecken
+    th: เครื่องหมายเสริมสัทอักษร
+    tl: tuldik
+    tr: diyakritik işaret
+    uk: діакритичний знак
+    uz: diakritik belgilar
+    vec: diacrìtego
+    vi: dấu phụ
+    wa: diyacritike
+    war: kugit
+    wuu: 附加符号
+    yue: 變音符號
+    zh: 附加符号
+    zh-cn: 附加符号
+    zh-hans: 附加符号
+    zh-hant: 附加符號
+    zh-hk: 附加符號
+    zh-sg: 附加符号
+    zh-tw: 附加符號
 ---
-
 # [[Diacritic]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Diacritic,162940|WD~Diacritic,162940]] 

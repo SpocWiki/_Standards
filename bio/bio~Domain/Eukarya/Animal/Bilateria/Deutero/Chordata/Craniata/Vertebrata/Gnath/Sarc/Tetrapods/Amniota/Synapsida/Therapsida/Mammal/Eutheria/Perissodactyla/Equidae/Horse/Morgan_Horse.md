@@ -1,14 +1,67 @@
 ---
 aliases:
+- cavall Morgan
+- Kuda Morgan
+- Morgan
+- Morgan (ot zoti)
+- Morgan (pasmina konja)
+- Morgan atı
+- Morgan horse
+- Morgan zaldi
+- Morgana zirgs
+- Morganhäst
+- Morganinhevonen
+- Ngựa Morgan
+- конь Моргана
+- Морган
+- סוס מורגן
+- خيول مورجان
+- モーガン (馬)
+- 摩根馬
+- 摩根马
 has_id_wikidata: Q1179217
-instance_of: "[[_Standards/WikiData/WD~horse_breed,1160573]]"
-subclass_of: "[[_Standards/WikiData/WD~horse,726]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
+instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
+subclass_of: '[[_Standards/WikiData/WD~horse,726]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%20parked%20out.jpg
 Commons_gallery: Morgan horse
 Commons_category: Morgan horse
+dv_has_:
+  name_:
+    ar: خيول مورجان
+    be-tarask: конь Моргана
+    ca: cavall Morgan
+    da: Morgan
+    de: Morgan
+    en: Morgan horse
+    es: Morgan
+    eu: Morgan zaldi
+    fi: Morganinhevonen
+    fr: Morgan
+    gl: Morgan
+    he: סוס מורגן
+    hu: Morgan
+    it: Morgan
+    ja: モーガン (馬)
+    lv: Morgana zirgs
+    ms: Kuda Morgan
+    nb: Morgan
+    nl: Morgan
+    pl: Morgan
+    ru: Морган
+    sco: Morgan horse
+    sr: Morgan (pasmina konja)
+    sv: Morganhäst
+    tr: Morgan atı
+    uk: Морган
+    uz: Morgan (ot zoti)
+    vi: Ngựa Morgan
+    wuu: 摩根马
+    yue: 摩根馬
+    zh: 摩根马
+    zh-hans: 摩根马
+    zh-hant: 摩根馬
 ---
-
 # [[Morgan_Horse]] 
 
 #is_/same_as :: [[WD~Morgan_horse,1179217]] 

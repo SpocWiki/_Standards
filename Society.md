@@ -1,31 +1,194 @@
 ---
 aliases:
-  - Gesellschaft
-  - Society
+- Aguman
+- Al'umma
+- Amun
+- Avano'õ
+- cemiyet
+- Chita
+- civak
+- cymdeithas
+- cəmiyyət
+- društvo
+- družba
+- Fiaraha-monina
+- gemeenskap
+- Gesellschaft
+- Gesellschop
+- gizarte
+- Gsööschoft
+- Hulikanaka
+- Intlalo
+- jamii
+- Jamiyat
+- jámiyet
+- Kagimongan
+- Katilingban
+- katiringban
+- kevredigezh
+- Kowethas
+- Kund
+- Kəndaramma
+- Lipunan
+- Lẹdo
+- maatschappij
+- Maatskippij
+- Maotsjappie
+- Masarakat
+- Masyarakat
+- Nhlangano wa vanhu
+- ohtsâškodde
+- remce'u
+- Sa-fi
+- sabiedrība
+- Samaj
+- samfund
+- samfunn
+- samhälle
+- Sasayati
+- seabradahke
+- sebrudahka
+- Selskap
+- servodat
+- Sevei
+- shoqeri
+- Siâ-huôi
+- Siā-hoē
+- sochaí
+- Sociadade
+- sociedad
+- sociedade
+- sociedat
+- sociedá
+- societas
+- societat
+- societate
+- Society
+- Società
+- Socieá
+- socio
+- Sociètât
+- société
+- Sosia
+- sosiedat
+- sosietà
+- Sosyedad
+- Sosyete
+- Sosyété
+- sotziedade
+- Sozietà
+- společnost
+- spoločnosť
+- społeczeństwo
+- społeczyństwo
+- spòłeczeństwò
+- sucietà
+- sucitati
+- toplum
+- towaršnosć
+- társadalom
+- Veivukei
+- visuomenė
+- Vėsuomenė
+- Waki
+- xã hội
+- yhteiskunta
+- Yhteskundu
+- àwùjọ
+- æхсæнад
+- õhttsažkåʹdd
+- ühiskond
+- Ütiskund
+- þjóðfélag
+- Čəmjət
+- Ȯgbà
+- κοινωνία
+- грамадзтва
+- грамадства
+- громада
+- Джамагъат
+- друштво
+- Дьон-сэргэ
+- Йукъаралла
+- Йәмғиәт
+- КIватIал
+- Коом
+- Ломаютко
+- мер
+- Ниигэм
+- Ниитилел
+- Нийгэм
+- общество
+- општество
+- Социум
+- суспільство
+- шяхярь
+- Этем пĕрлĕхĕ
+- Юкъарле
+- җәмгыять
+- ҷомеъа
+- հասարակություն
+- געזעלשאפט
+- חברה
+- جامعه
+- جامیعه
+- سماج
+- سَماج
+- مجتمع
+- مشارکت
+- ټولنه
+- کۆمەڵگا
+- ܟܢܫܐ
+- समाज
+- সমাজ
+- ਸਮਾਜ
+- સમાજ
+- ସମାଜ
+- சமூகம்
+- సమాజం
+- ಸಮಾಜ
+- സമൂഹം
+- සමාජය
+- สังคม
+- ສັງຄົມ
+- ဂကောံမၞိဟ်
+- საზოგადოება
+- ჯარალუა
+- ኅብረተሰብ
+- ᎤᎾᏙᏢᎯ
+- សង្គម
+- ᥖᥨᥒᥱ ᥝᥨᥒᥰ ᥐᥨᥢᥰ
+- ᱥᱟᱶᱛᱟ
+- ⴰⵎⵓⵏ
+- 民群
+- 社会
+- 社會
+- ꯈꯨꯅꯥꯏ
+- 사회
 has_id_wikidata: Q8425
 Commons_category: Society
 described_by_source:
-  - '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from: '[[_Standards/WikiData/WD~society_(ethnology),15093984]]'
 equivalent_class: http://pcp-on-web.de/ontology#Societies
 has_characteristic:
-  - '[[_Standards/WikiData/WD~hierarchy,188619]]'
-  - '[[_Standards/WikiData/WD~social_norm,205665]]'
-  - '[[_Standards/WikiData/WD~social_structure,211606]]'
-  - '[[_Standards/WikiData/WD~social,345367]]'
-  - '[[_Standards/WikiData/WD~social_action,769620]]'
-  - '[[_Standards/WikiData/WD~social_change,1510761]]'
-  - '[[_Standards/WikiData/WD~social_order,1518716]]'
-  - '[[_Standards/WikiData/WD~sociality,3307505]]'
+- '[[_Standards/WikiData/WD~hierarchy,188619]]'
+- '[[_Standards/WikiData/WD~social_norm,205665]]'
+- '[[_Standards/WikiData/WD~social_structure,211606]]'
+- '[[_Standards/WikiData/WD~social,345367]]'
+- '[[_Standards/WikiData/WD~social_action,769620]]'
+- '[[_Standards/WikiData/WD~social_change,1510761]]'
+- '[[_Standards/WikiData/WD~social_order,1518716]]'
+- '[[_Standards/WikiData/WD~sociality,3307505]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~human_social_group,874405]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human_social_group,874405]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B2%D0%B5%D0%BA%20%281%29.jpg
 instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
 IPTC_NewsCode: mediatopic/14000000
@@ -35,17 +198,222 @@ part_of: '[[_Standards/WikiData/WD~humanity,1156970]]'
 Provenio_UUID: b4165ac8-d915-43a5-b717-520162f77b0b
 significant_person: '[[_Standards/WikiData/WD~Niklas_Luhmann,57238]]'
 studied_in:
-  - '[[_Standards/WikiData/WD~sociology,21201]]'
-  - '[[_Standards/WikiData/WD~anthropology,23404]]'
-  - '[[_Standards/WikiData/WD~social_science,34749]]'
+- '[[_Standards/WikiData/WD~sociology,21201]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~social_science,34749]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~society,10372568]]'
-  - '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~society,10372568]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Society,3708001]]'
 U_S_National_Archives_Identifier: 10641788
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_society,7112731]]'
+dv_has_:
+  name_:
+    af: gemeenskap
+    am: ኅብረተሰብ
+    an: sociedat
+    ar: مجتمع
+    arc: ܟܢܫܐ
+    as: সমাজ
+    ast: sociedá
+    az: cəmiyyət
+    azb: جامیعه
+    ba: Йәмғиәт
+    bar: Gsööschoft
+    bcl: Sosyedad
+    be: грамадства
+    be-tarask: грамадзтва
+    bew: Masarakat
+    bg: Общество
+    bho: समाज
+    bjn: Masarakat
+    bn: সমাজ
+    bpy: সমাজ
+    br: kevredigezh
+    bs: društvo
+    btm: Masyarakat
+    bxr: Ниигэм
+    ca: societat
+    cdo: Siâ-huôi
+    ce: Йукъаралла
+    ceb: Katilingban
+    chr: ᎤᎾᏙᏢᎯ
+    ckb: کۆمەڵگا
+    co: sucietà
+    crh: cemiyet
+    cs: společnost
+    csb: spòłeczeństwò
+    cv: Этем пĕрлĕхĕ
+    cy: cymdeithas
+    da: samfund
+    de: Gesellschaft
+    el: κοινωνία
+    en: society
+    eo: socio
+    es: sociedad
+    et: ühiskond
+    eu: gizarte
+    ext: Socieá
+    fa: جامعه
+    fi: yhteiskunta
+    fj: Veivukei
+    fr: société
+    frp: Sociètât
+    frr: Selskap
+    fy: Maatskippij
+    ga: sochaí
+    gcr: Sosyété
+    gl: sociedade
+    gn: Avano'õ
+    gsw: Gesellschaft
+    gu: સમાજ
+    guw: Lẹdo
+    ha: Al'umma
+    hak: Sa-fi
+    haw: Hulikanaka
+    he: חברה
+    hi: समाज
+    hif: Samaj
+    hr: društvo
+    hsb: towaršnosć
+    ht: Sosyete
+    hu: társadalom
+    hy: հասարակություն
+    ia: societate
+    id: masyarakat
+    ig: Ȯgbà
+    ilo: Kagimongan
+    inh: Юкъарле
+    io: socio
+    is: þjóðfélag
+    it: società
+    ja: 社会
+    jam: Sasayati
+    jbo: remce'u
+    jv: Masyarakat
+    ka: საზოგადოება
+    kaa: jámiyet
+    kk: Социум
+    km: សង្គម
+    kn: ಸಮಾಜ
+    knc: Kəndaramma
+    ko: 사회
+    krc: Джамагъат
+    krj: katiringban
+    ks: سَماج
+    ku: civak
+    kw: Kowethas
+    ky: Коом
+    la: societas
+    lb: Gesellschaft
+    lez: КIватIал
+    lfn: Sosia
+    li: Maotsjappie
+    lld: Sozietà
+    lmo: Società
+    lo: ສັງຄົມ
+    lt: visuomenė
+    lv: sabiedrība
+    lzh: 民群
+    mad: Masyarakat
+    mdf: шяхярь
+    mg: Fiaraha-monina
+    mhr: мер
+    mk: општество
+    ml: സമൂഹം
+    mn: Нийгэм
+    mni: ꯈꯨꯅꯥꯏ
+    mnw: ဂကောံမၞိဟ်
+    ms: masyarakat
+    ms-arab: مشارکت
+    mwl: Sociadade
+    myv: Ломаютко
+    nan: Siā-hoē
+    nb: samfunn
+    nds: Gesellschop
+    ne: समाज
+    new: समाज
+    nl: maatschappij
+    nn: samfunn
+    oc: societat
+    olo: Yhteskundu
+    or: ସମାଜ
+    os: æхсæнад
+    pa: ਸਮਾਜ
+    pam: Aguman
+    pap: sosiedat
+    pl: społeczeństwo
+    pms: Società
+    pnb: سماج
+    ps: ټولنه
+    pt: sociedade
+    pt-br: sociedade
+    qu: Waki
+    ro: societate
+    ru: общество
+    rue: громада
+    sah: Дьон-сэргэ
+    sat: ᱥᱟᱶᱛᱟ
+    sc: sotziedade
+    scn: sucitati
+    sco: society
+    sd: سماج
+    se: servodat
+    sgs: Vėsuomenė
+    sh: društvo
+    shi: Amun
+    si: සමාජය
+    sk: spoločnosť
+    sl: družba
+    sma: seabradahke
+    smj: sebrudahka
+    smn: ohtsâškodde
+    sms: õhttsažkåʹdd
+    sn: Chita
+    sq: shoqeri
+    sr: друштво
+    sv: samhälle
+    sw: jamii
+    szl: społeczyństwo
+    ta: சமூகம்
+    tdd: ᥖᥨᥒᥱ ᥝᥨᥒᥰ ᥐᥨᥢᥰ
+    te: సమాజం
+    tg: ҷомеъа
+    th: สังคม
+    tl: Lipunan
+    tly: Čəmjət
+    tr: toplum
+    ts: Nhlangano wa vanhu
+    tt: җәмгыять
+    tt-cyrl: җәмгыять
+    tyv: Ниитилел
+    udm: мер
+    uk: суспільство
+    ur: سماج
+    uz: Jamiyat
+    vec: sosietà
+    vep: Kund
+    vi: xã hội
+    vro: Ütiskund
+    war: Katiringban
+    wuu: 社會
+    xh: Intlalo
+    xmf: ჯარალუა
+    yi: געזעלשאפט
+    yo: àwùjọ
+    yue: 社會
+    za: Sevei
+    zgh: ⴰⵎⵓⵏ
+    zh: 社会
+    zh-cn: 社会
+    zh-hans: 社会
+    zh-hant: 社会
+    zh-hk: 社會
+    zh-mo: 社会
+    zh-my: 社会
+    zh-sg: 社会
+    zh-tw: 社會
 ---
-
 # [[Society]] 
 
 #is_/same_as :: [[WikiData/WD~Society,8425|WD~Society,8425]] 

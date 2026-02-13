@@ -1,16 +1,130 @@
 ---
 aliases:
+- Dalit
+- daliti
+- Dalito
+- dalitok
+- Dalitovia
+- Dalitët
+- dàlit
+- Entouchab (End)
+- Intouchable
+- Nedotknutelní
+- Neliečiamieji
+- paria
+- Pariak
+- Даліты
+- Далит
+- неприкасаемые
+- парія
+- דלית
+- دالیت
+- دلت
+- منبوذون
+- दलित
+- दलितजनः
+- দলিত
+- ਦਲਿਤ
+- દલિત
+- ଦଳିତ
+- தலித்
+- దళితులు
+- ದಲಿತ
+- ദളിതർ
+- ทลิต
+- 不可触民
+- 印度賤民
+- 賤民
+- 贱民
+- 贱民 (印度)
+- 불가촉천민
 has_id_wikidata: Q219517
-subclass_of: "[[_Standards/WikiData/WD~caste_system_in_India,130695]]"
+subclass_of: '[[_Standards/WikiData/WD~caste_system_in_India,130695]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~caste,484416]]"
-  - "[[_Standards/WikiData/WD~ethnic_group,41710]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-has_characteristic: "[[_Standards/WikiData/WD~untouchability,3216180]]"
+- '[[_Standards/WikiData/WD~caste,484416]]'
+- '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+has_characteristic: '[[_Standards/WikiData/WD~untouchability,3216180]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%A6%E0%A4%B2%E0%A4%BF%E0%A4%A4.wav
 Commons_category: Dalit
+dv_has_:
+  name_:
+    ar: منبوذون
+    as: দলিত
+    az: Dalit
+    be: Даліты
+    be-tarask: даліты
+    bg: Далит
+    bho: दलित
+    bn: দলিত
+    ca: dàlit
+    cs: Nedotknutelní
+    da: Dalit
+    de: Dalit
+    en: Dalit
+    eo: Dalito
+    es: paria
+    eu: Pariak
+    fa: دالیت
+    fi: dalit
+    fr: Intouchable
+    gl: Dalit
+    gu: દલિત
+    he: דלית
+    hi: दलित
+    hif: Dalit
+    hr: Dalit
+    ht: Entouchab (End)
+    hu: dalitok
+    id: Dalit
+    it: Paria
+    ja: 不可触民
+    kn: ದಲಿತ
+    ko: 불가촉천민
+    la: Dalit
+    lt: Neliečiamieji
+    lv: daliti
+    ml: ദളിതർ
+    mr: दलित
+    ms: Dalit
+    nb: Dalit
+    ne: दलित
+    new: दलित
+    nl: Dalit
+    nn: Dalit
+    oc: Dalit
+    or: ଦଳିତ
+    pa: ਦਲਿਤ
+    pi: दलित
+    pl: Dalit
+    pnb: دلت
+    pt: Dalit
+    ru: неприкасаемые
+    sa: दलितजनः
+    sh: Dalit
+    sk: Dalitovia
+    sl: dalit
+    sq: Dalitët
+    sr: Dalit
+    sv: Dalit
+    ta: தலித்
+    te: దళితులు
+    th: ทลิต
+    tr: Dalit
+    uk: парія
+    ur: دلت
+    vec: paria
+    vi: Dalit
+    wuu: 贱民 (印度)
+    yue: 印度賤民
+    zh: 贱民
+    zh-cn: 贱民
+    zh-hans: 贱民
+    zh-hant: 賤民
+    zh-hk: 賤民
+    zh-sg: 贱民
+    zh-tw: 賤民
 ---
-
 # [[Dalit]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dalit,219517|WD~Dalit,219517]] 

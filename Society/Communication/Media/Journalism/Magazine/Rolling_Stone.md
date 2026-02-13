@@ -1,77 +1,121 @@
 ---
-has_time_started: 1967-01-01 
+has_time_started: 1967-01-01
 aliases:
+- Rolling Stone
+- Ролинг Стоун
+- Роллинг Стоун
+- Роллинг Стоунз (сэтгүүл)
+- רולינג סטון
+- رولينج ستون (مجله)
+- رولينغ ستون
+- رولینگ استون
+- رولېنګ سټون
+- ڕۆلینگ ستۆن
+- রোলিং স্টোন
+- റോളിംഗ് സ്റ്റോൺ
+- โรลลิงสโตน
+- როლინგ სტოუნი
+- ローリング・ストーン
+- 滚石 (杂志)
+- 滾石
+- 滾石雜誌
+- 롤링 스톤
 has_id_wikidata: Q33511
 main_subject:
-  - "[[_Standards/WikiData/WD~popular_culture,131265]]"
-  - "[[_Standards/WikiData/WD~popular_music,373342]]"
-named_after: "[[_Standards/WikiData/WD~Like_a_Rolling_Stone,214430]]"
+- '[[_Standards/WikiData/WD~popular_culture,131265]]'
+- '[[_Standards/WikiData/WD~popular_music,373342]]'
+named_after: '[[_Standards/WikiData/WD~Like_a_Rolling_Stone,214430]]'
 has_list:
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Albums_of_All_Time,240550]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time,286102]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Singers_of_All_Time,3833780]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Artists_of_All_Time,3833781]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Guitar_Songs_of_All_Time,21890418]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time_2004,23704224]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Songwriters_of_All_Time,34704955]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone's_50_Rock_Albums_Every_Country_Fan_Should_Own,106727799]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Albums_of_All_Time,240550]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time,286102]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Singers_of_All_Time,3833780]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Artists_of_All_Time,3833781]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Guitar_Songs_of_All_Time,21890418]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_500_Greatest_Songs_of_All_Time_2004,23704224]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_100_Greatest_Songwriters_of_All_Time,34704955]]"
+- "[[_Standards/WikiData/WD~Rolling_Stone's_50_Rock_Albums_Every_Country_Fan_Should_Own,106727799]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Rolling_Stone,346519]]"
-  - "[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]"
+- '[[_Standards/WikiData/WD~Rolling_Stone,346519]]'
+- '[[_Standards/WikiData/WD~The_Rolling_Stones,11036]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~popular_music,373342]]"
-  - "[[_Standards/WikiData/WD~interview,4202018]]"
-founded_by: "[[_Standards/WikiData/WD~Jann_Wenner,519143]]"
-editor: "[[_Standards/WikiData/WD~Jann_Wenner,519143]]"
-newspaper_format: "[[_Standards/WikiData/WD~tabloid,1449648]]"
+- '[[_Standards/WikiData/WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~interview,4202018]]'
+founded_by: '[[_Standards/WikiData/WD~Jann_Wenner,519143]]'
+editor: '[[_Standards/WikiData/WD~Jann_Wenner,519143]]'
+newspaper_format: '[[_Standards/WikiData/WD~tabloid,1449648]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~Rolling_Stone,4048407]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone,6111311]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone,6111309]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone,6111313]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone,6111318]]"
-  - "[[_Standards/WikiData/WD~Rolling_Stone,39081978]]"
-publisher: "[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727]]"
-language_of_work_or_name: "[[_Standards/WikiData/WD~English,1860]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_publication: "[[_Standards/WikiData/WD~New_York_City,60]]"
-headquarters_location: "[[_Standards/WikiData/WD~New_York_City,60]]"
+- '[[_Standards/WikiData/WD~Rolling_Stone,4048407]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111311]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111309]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111313]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,6111318]]'
+- '[[_Standards/WikiData/WD~Rolling_Stone,39081978]]'
+publisher: '[[_Standards/WikiData/WD~Penske_Media_Corporation,7119727]]'
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
+headquarters_location: '[[_Standards/WikiData/WD~New_York_City,60]]'
 social_media_followers:
-  - 1000000
-  - 6380687
+- 1000000
+- 6380687
 instance_of:
-  - "[[_Standards/WikiData/WD~website,35127]]"
-  - "[[_Standards/WikiData/WD~magazine,41298]]"
+- '[[_Standards/WikiData/WD~website,35127]]'
+- '[[_Standards/WikiData/WD~magazine,41298]]'
 number_of_parts_of_this_work: 1326
 official_website: https://www.rollingstone.com/
 title: Rolling Stone
 ISSN_L: 0035-791X
 ISSN:
-  - 0035-791X
-  - 3066-0580
+- 0035-791X
+- 3066-0580
 start_time: 1967-11-09T00:00:00Z
 domain_name: rollingstone.com
 Bluesky_handle: rollingstone.com
 inception: 1967-01-01T00:00:00Z
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rolling%20Stone%202019.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rolling%20Stone%202022.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rolling%20Stone%20logo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rolling%20Stone%202019.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rolling%20Stone%202022.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rolling%20Stone%20logo.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RS%20500%20Front%20Cover.jpg
 Commons_category: Rolling Stone
 Twitch_username: rollingstone
 Reddit_username: rollingstone
 Instagram_username:
-  - rollingstone
-  - rollingstonemx
+- rollingstone
+- rollingstonemx
 Facebook_username:
-  - RollingStone
-  - RollingStoneMX
+- RollingStone
+- RollingStoneMX
 X_Twitter_username: RollingStone
 Mastodon_address: RollingStone@mstdn.social
+dv_has_:
+  name_:
+    ar: رولينغ ستون
+    arz: رولينج ستون (مجله)
+    bg: Ролинг Стоун
+    bn: রোলিং স্টোন
+    ckb: ڕۆلینگ ستۆن
+    da: Rolling Stone
+    en: Rolling Stone
+    fa: رولینگ استون
+    he: רולינג סטון
+    ja: ローリング・ストーン
+    ka: როლინგ სტოუნი
+    ko: 롤링 스톤
+    mk: Ролинг стоун
+    ml: റോളിംഗ് സ്റ്റോൺ
+    mn: Роллинг Стоунз (сэтгүүл)
+    mul: Rolling Stone
+    pl: Rolling Stone
+    ps: رولېنګ سټون
+    ru: Роллинг Стоун
+    sr: Ролинг стоун
+    th: โรลลิงสโตน
+    wuu: 滚石 (杂志)
+    yue: 滾石雜誌
+    zh: 滾石
 ---
-
 # [[Rolling_Stone]] 
 
 #is_/same_as :: [[WD~Rolling_Stone,33511]] 

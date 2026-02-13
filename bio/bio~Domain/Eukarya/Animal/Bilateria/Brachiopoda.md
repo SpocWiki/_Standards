@@ -1,9 +1,162 @@
 ---
 aliases:
-  - Brachiopoda
+- armfotingar
+- armfotinger
+- armfætlur
+- armfødder
+- armføtingar
+- Armfüsser
+- Armfüßer
+- Armpotigen
+- Brachiopod
+- Brachiopoda
+- Braciopod
+- Braciopodo
+- Brakiopoda
+- Brakiopodo
+- Brakiopodoj
+- Braquiòpode
+- Braquiópodos
+- Braxïopodtar
+- Chʼosh bitsʼaʼígíí bigaan dahólónígíí
+- Dallı bacaklılar
+- Iarempuater
+- Kombe-kikonyo
+- Käsijalgsed
+- lonkerojalkaiset
+- Mananap nga adunay tiil ang kamot
+- Ngành Tay cuộn
+- Oarmpôtign
+- pleckāji
+- pörgekarúak
+- Ramenonošci
+- Ramenonožce
+- ramenonožci
+- ramienionogi
+- Yelka oyoqlilar
+- Çiyinayaqlılar
+- Školjke svetiljke
+- Βραχιόποδα
+- Брахиоподтар
+- Омуроо буттуулар
+- плечаногія
+- плеченогие
+- плечоногі
+- раменоноги
+- Шкољке светиљке
+- ուսոտանիներ
+- ברכיופודים
+- بازوپایان
+- براحىيوپودتار
+- عضديات الأرجل
+- عضديات الارجل
+- ब्रैकियोपोडा
+- แบรคิโอพอด
+- მხარფეხიანები
+- 腕足动物门
+- 腕足動物
+- 腕足動物門
+- 완족동물
 title: Brachiopoda
+has_id_wikidata: Q178272
+dv_has_:
+  name_:
+    af: Brachiopoda
+    an: Brachiopoda
+    ar: عضديات الأرجل
+    arz: عضديات الارجل
+    ast: Brachiopoda
+    az: Çiyinayaqlılar
+    be: плечаногія
+    be-tarask: плечаногія
+    bg: раменоноги
+    bs: Brachiopoda
+    ca: Braquiòpode
+    ceb: Mananap nga adunay tiil ang kamot
+    cs: ramenonožci
+    cy: Braciopod
+    da: armfødder
+    de: Armfüßer
+    de-ch: Armfüsser
+    el: Βραχιόποδα
+    en: Brachiopoda
+    en-ca: Brachiopod
+    en-gb: Brachiopod
+    eo: Brakiopodoj
+    es: Brachiopoda
+    et: Käsijalgsed
+    eu: Brachiopoda
+    ext: Brachiopoda
+    fa: بازوپایان
+    fi: lonkerojalkaiset
+    fr: Brachiopoda
+    frr: Iarempuater
+    ga: Brachiopoda
+    gl: Braquiópodos
+    he: ברכיופודים
+    hi: ब्रैकियोपोडा
+    hr: Ramenonošci
+    hu: pörgekarúak
+    hy: ուսոտանիներ
+    ia: Brachiopoda
+    id: Brakiopoda
+    ie: Brachiopoda
+    io: Brakiopodo
+    is: armfætlur
+    it: Brachiopoda
+    ja: 腕足動物
+    ka: მხარფეხიანები
+    kk: Брахиоподтар
+    kk-arab: براحىيوپودتار
+    kk-cn: براحىيوپودتار
+    kk-cyrl: Брахиоподтар
+    kk-kz: Брахиоподтар
+    kk-latn: Braxïopodtar
+    kk-tr: Braxïopodtar
+    ko: 완족동물
+    ky: Омуроо буттуулар
+    la: Brachiopoda
+    lfn: Braciopodo
+    lv: pleckāji
+    mul: Brachiopoda
+    nb: armfotinger
+    nl: Armpotigen
+    nn: armføtingar
+    nv: Chʼosh bitsʼaʼígíí bigaan dahólónígíí
+    oc: Brachiopoda
+    pl: ramienionogi
+    pt: Brachiopoda
+    pt-br: Brachiopoda
+    ro: Brachiopoda
+    ru: плеченогие
+    sco: Brachiopod
+    sh: Ramenonošci
+    sk: Ramenonožce
+    sl: ramenonožci
+    sq: Brachiopoda
+    sr: Шкољке светиљке
+    sr-ec: Шкољке светиљке
+    sr-el: Školjke svetiljke
+    sv: armfotingar
+    sw: Kombe-kikonyo
+    th: แบรคิโอพอด
+    tl: Brachiopoda
+    tr: Dallı bacaklılar
+    uk: плечоногі
+    uz: Yelka oyoqlilar
+    vi: Ngành Tay cuộn
+    vls: Oarmpôtign
+    vo: Brachiopoda
+    war: Brachiopoda
+    wuu: 腕足动物门
+    zh: 腕足动物门
+    zh-cn: 腕足动物门
+    zh-hans: 腕足动物门
+    zh-hant: 腕足動物門
+    zh-hk: 腕足動物門
+    zh-sg: 腕足动物门
+    zh-tw: 腕足動物門
 ---
-
 # [[Brachiopoda]]
 
 ## Lamp shells 

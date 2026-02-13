@@ -1,15 +1,90 @@
 ---
 aliases:
+- Espadron
+- kard
+- sabel
+- Sabel (anggar)
+- sabie
+- sable
+- Sable (eskrima)
+- Sablja (mačevanje)
+- sabljanje
+- sabre
+- Sabre (escrima)
+- sabre fencing
+- sabroskermado
+- sciabola
+- szabla
+- Säbelfechten
+- säilämiekkailu
+- Сабља (мачевање)
+- Сабя
+- Селм
+- спартовая шабля
+- фехтование на саблях
+- фехтування на шаблях
+- ҡылыс
+- סיף בחרב
+- سابر
+- مبارزة سلاح السيف
+- サーブル
+- 佩剑
+- 佩劍
+- 军刀
+- 軍刀
+- 사브르
 has_id_wikidata: Q1156606
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~sports_discipline,2312410]]"
-practiced_by: "[[_Standards/WikiData/WD~fencer,13381863]]"
-uses: "[[_Standards/WikiData/WD~saber,49068756]]"
-subclass_of: "[[_Standards/WikiData/WD~fencing,12100]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
+practiced_by: '[[_Standards/WikiData/WD~fencer,13381863]]'
+uses: '[[_Standards/WikiData/WD~saber,49068756]]'
+subclass_of: '[[_Standards/WikiData/WD~fencing,12100]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EVD-sable-057.jpg
 Commons_category: Fencing (sabre)
+dv_has_:
+  name_:
+    ar: مبارزة سلاح السيف
+    ba: ҡылыс
+    be-tarask: спартовая шабля
+    bg: Сабя
+    ca: sabre
+    de: Säbelfechten
+    en: sabre fencing
+    eo: sabroskermado
+    es: sable
+    et: Espadron
+    eu: Sable (eskrima)
+    fa: سابر
+    fi: säilämiekkailu
+    fr: sabre
+    gl: Sabre
+    he: סיף בחרב
+    hr: Sablja (mačevanje)
+    hu: kard
+    id: Sabel (anggar)
+    it: sciabola
+    ja: サーブル
+    ko: 사브르
+    nb: sabel
+    nl: sabre
+    oc: Sabre (escrima)
+    pl: szabla
+    ro: sabie
+    ru: фехтование на саблях
+    sl: sabljanje
+    sr: Сабља (мачевање)
+    sv: sabel
+    tl: Sabre
+    uk: фехтування на шаблях
+    xal: Селм
+    yue: 佩劍
+    zh: 軍刀
+    zh-cn: 佩剑
+    zh-hans: 军刀
+    zh-hant: 軍刀
+    zh-hk: 佩劍
+    zh-sg: 佩剑
 ---
-
 # [[Saber_Fencing]] 
 
 #is_/same_as :: [[WD~Sabre_fencing,1156606]] 

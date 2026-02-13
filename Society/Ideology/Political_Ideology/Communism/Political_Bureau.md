@@ -1,16 +1,101 @@
 ---
 aliases:
-  - politburo
-  - political bureau
-  - Politbüro
-  - Political_Bureau
-  - Political Bureau
+- birou politic
+- Biuro Polityczne
+- bureau politique
+- Byro politike
+- Bộ Chính trị
+- Politbiro
+- Politbureau
+- politburo
+- Politburoo
+- politburó
+- politbyro
+- Politbyroo
+- Politbyrå
+- Politbüro
+- political bureau
+- Political_Bureau
+- Politikai Bizottság
+- Politinis biuras
+- politični biro
+- палітбюро
+- політбюро
+- политбиро
+- Политбюро
+- политическое бюро
+- פוליטביורו
+- المكتب السياسي
+- پولٹ بیورو
+- پولیتبورو
+- पोलितब्यूरो
+- పోలిట్బ్యూరో
+- โปลิตบูโร
+- 政治局
+- 정치국
 has_id_wikidata: Q309118
 subclass_of: '[[_Standards/WikiData/WD~panel,938236]]'
 has_part_s_: '[[_Standards/WikiData/WD~Politburo_member,115136557]]'
 Commons_category: Politburos
+dv_has_:
+  name_:
+    ar: المكتب السياسي
+    ast: Politburó
+    az: Politbüro
+    be: палітбюро
+    be-tarask: палітбюро
+    bg: Политбюро
+    ca: politburó
+    cs: politbyro
+    da: Politbureau
+    de: Politbüro
+    en: politburo
+    eo: Politburoo
+    es: politburó
+    eu: Politburo
+    fa: پولیتبورو
+    fi: Politbyroo
+    fr: bureau politique
+    gl: Politburo
+    he: פוליטביורו
+    hi: पोलितब्यूरो
+    hr: Politbiro
+    hu: Politikai Bizottság
+    id: politbiro
+    it: Politburo
+    ja: 政治局
+    ko: 정치국
+    lt: Politinis biuras
+    mk: политбиро
+    ms: Politburo
+    nb: Politbyrå
+    nl: politbureau
+    pl: Biuro Polityczne
+    pt: politburo
+    ro: birou politic
+    ru: политическое бюро
+    sh: Politbiro
+    sl: politični biro
+    sq: Byro politike
+    sr: Политбиро
+    sr-ec: Политбиро
+    sr-el: Politbiro
+    sv: Politbyrå
+    te: పోలిట్బ్యూరో
+    th: โปลิตบูโร
+    tr: Politbüro
+    uk: політбюро
+    ur: پولٹ بیورو
+    vi: Bộ Chính trị
+    yue: 政治局
+    zh: 政治局
+    zh-cn: 政治局
+    zh-hans: 政治局
+    zh-hant: 政治局
+    zh-hk: 政治局
+    zh-sg: 政治局
+    zh-tw: 政治局
 ---
-
 # [[Political_Bureau]] 
 
 #is_/same_as :: [[WD~Political_bureau,309118]] 

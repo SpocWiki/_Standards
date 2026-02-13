@@ -1,14 +1,390 @@
 ---
 aliases:
-  - Bat
-  - Bats
-  - Chiroptera
-  - Fledermaus
-  - Fledermäuse
+- Afluflwì
+- Agahungarema
+- Alïïk
+- Apan
+- Apokwaratcic
+- Askel groghen
+- Askell-groc'hen
+- Azeɣnennay
+- a̱ncann
+- Bat
+- Bats
+- Baukie
+- Beka
+- Bhâbbhuru
+- bidadiki
+- Bi̍t-pô
+- bàybàynà
+- Bì-bà-dâu-giék
+- Bögi
+- bộ Dơi
+- Caûque-souothis
+- Chiroptera
+- Chiroptere
+- Chiñi
+- Chòvsourit
+- Cirotero
+- denevérek
+- entawai
+- Fania
+- Fiidmeer
+- Fladdermuus
+- fladdermöss
+- Fladerdiarten
+- flagermus
+- flaggermus
+- Flearmûzen
+- Fledermaus
+- Fledermäuse
+- Fledertiere
+- Flogmýs
+- Flutra
+- Flädderdierte
+- Frṭiṭṭu
+- Gacopjyrze
+- Hreaðemūs
+- Ialtag
+- ialtóg
+- ilulwane
+- Jaaʼabaní Danilínígíí
+- Jemage
+- Kabog
+- Kalong
+- Karemwaremwa
+- kelawar
+- Kelelawar
+- Kiropteroj
+- Kulaknit
+- Käsitiivalised
+- Lakuriqi i natës
+- Lawa
+- Lelawah
+- lepakot
+- letouni
+- Leðurblaka
+- Masu
+- Mbopi
+- Mbupu
+- morcego
+- Morcegos
+- Méšenonetsénóne
+- Nahkusiivet
+- Netopiere
+- netopirji
+- Ngɛmbo
+- nietoperze
+- Paniki
+- Papastrèl
+- Perçemk
+- Phi̍t-phò-è
+- pinüyke
+- Plykspuorņi
+- Popo
+- Pungit
+- Puľiu di noaptea
+- Ratavolòira
+- ratpenats
+- saguzar
+- Scherpíngeche
+- sikspārņi
+- Soerie-volante
+- soweli waso Kilotela
+- Szãtopiérze
+- Sɛmʊʊ
+- taddarita
+- Talibatab
+- Tchawe-sori
+- Topu pinnutu
+- Turtuvagghie
+- Tzinācantli
+- Vesnoldunol (Chiroptera)
+- Vespertilio
+- vleadermuse
+- Vleermuis
+- vleermuizen
+- Vleermuzen
+- Vlermuis
+- Vliendrmuus
+- Vumzvauz
+- yarasa
+- Yarasalar
+- Zanzaŋaa
+- Zɔŋ
+- Àdán
+- Çара çерçи евĕрлисем
+- Şewşewıki
+- Šikšnosparniai
+- Šišmiš
+- šišmiši
+- Šėkšniesparnis
+- Νυχτερίδα
+- Бавуха
+- болдастҳо
+- Веньдряв
+- Жарганаттар
+- Илии кынаттаахтар аймахтара
+- Кедьнимиляв
+- Кушборддэз
+- Къухбазыронтæ
+- Лилјаци
+- лиликоподібні
+- Мышперхач
+- прилепи
+- рукакрылыя
+- рукокрылые
+- Цӓрӓгеквлӓ
+- Қолқанаттылар
+- Һарьһан эрбээхэй
+- ձեռնաթևավորներ
+- עטלפים
+- פלעדערמויז
+- خفاش
+- خفاشيات
+- راتہٕ کرٛیٖل
+- شوپرپری
+- شەمشەمەکوێرە
+- شەپەرەڭ
+- چمڙو
+- چمگادڑ
+- چمگاڈر
+- یاراسا
+- चमगादड़
+- चमगुदड़ी
+- चमेरो
+- चिकंलापा
+- वटवाघूळ
+- বাদুড়
+- বাদুলি
+- ਚਮਗਿੱਦੜ
+- ચામાચિડીયું
+- ବାଦୁଡ଼ି
+- வௌவால்
+- గబ్బిలం
+- ಬಾವಲಿ
+- വവ്വാൽ
+- වවුලා
+- ค้างคาว
+- မိင်ႇ
+- လင်းနို့
+- ხელფრთიანები
+- የሌት ወፍ
+- ᐊᓇᐅᓪᓚᐅᑦ
+- ᡶᡝᡵᡝᡥᡝ ᠰᡳᠩᡤᡝᡵᡳ
+- ᱵᱟᱨᱫᱩᱬᱩᱡ
+- 簷老鼠
+- 翼手目
+- 蝙蝠
+- 박쥐
 has_id_wikidata: Q28425
 title: Chiroptera
+dv_has_:
+  name_:
+    af: Vlermuis
+    am: የሌት ወፍ
+    an: Chiroptera
+    ang: Hreaðemūs
+    ar: خفاشيات
+    arn: pinüyke
+    arz: خفاشيات
+    as: বাদুলি
+    ast: Chiroptera
+    atj: Apokwaratcic
+    avk: Vesnoldunol (Chiroptera)
+    ay: Chiñi
+    az: Yarasalar
+    azb: یاراسا
+    ban: Lelawah
+    be: рукакрылыя
+    be-tarask: рукакрылыя
+    bg: прилепи
+    bn: বাদুড়
+    br: Askell-groc'hen
+    bs: Šišmiš
+    bxr: Һарьһан эрбээхэй
+    ca: ratpenats
+    cdo: Bì-bà-dâu-giék
+    ceb: Kulaknit
+    chy: Méšenonetsénóne
+    ckb: شەمشەمەکوێرە
+    co: Topu pinnutu
+    cs: letouni
+    csb: Szãtopiérze
+    cv: Çара çерçи евĕрлисем
+    cy: Chiroptera
+    da: flagermus
+    dag: Zɔŋ
+    de: Fledertiere
+    dga: Zanzaŋaa
+    din: Alïïk
+    diq: Şewşewıki
+    dtp: Pungit
+    el: Νυχτερίδα
+    eml: Papastrèl
+    en: Chiroptera
+    en-gb: bat
+    eo: Kiropteroj
+    es: Chiroptera
+    et: Käsitiivalised
+    eu: saguzar
+    ext: Chiroptera
+    fa: خفاش
+    fi: lepakot
+    fj: Beka
+    fo: Flogmýs
+    fon: Afluflwì
+    fr: Chiroptera
+    frr: Fladerdiarten
+    fy: Flearmûzen
+    ga: ialtóg
+    gan: 簷老鼠
+    gd: Ialtag
+    gl: Morcegos
+    gn: Mbopi
+    gu: ચામાચિડીયું
+    ha: Jemage
+    hak: Phi̍t-phò-è
+    he: עטלפים
+    hi: चमगादड़
+    hr: šišmiši
+    ht: Chòvsourit
+    hu: denevérek
+    hy: ձեռնաթևավորներ
+    ia: Chiroptera
+    iba: entawai
+    id: Kelelawar
+    ie: Chiroptera
+    io: Vespertilio
+    is: Leðurblaka
+    it: Chiroptera
+    iu: ᐊᓇᐅᓪᓚᐅᑦ
+    ja: 翼手目
+    jv: Lawa
+    ka: ხელფრთიანები
+    kab: Azeɣnennay
+    kbp: Sɛmʊʊ
+    kcg: a̱ncann
+    kk: Қолқанаттылар
+    kn: ಬಾವಲಿ
+    ko: 박쥐
+    koi: Кушборддэз
+    ks: راتہٕ کرٛیٖل
+    ks-arab: راتہٕ کرٛیٖل
+    ku: Perçemk
+    kw: Askel groghen
+    ky: Жарганаттар
+    la: Chiroptera
+    lfn: Cirotero
+    li: Vleermuis
+    lij: Chiroptera
+    lld: Flutra
+    ln: Ngɛmbo
+    lt: Šikšnosparniai
+    ltg: Plykspuorņi
+    lv: sikspārņi
+    mad: Bhâbbhuru
+    mai: चमगुदड़ी
+    mcn: bàybàynà
+    mdf: Веньдряв
+    mg: Fania
+    mk: Лилјаци
+    ml: വവ്വാൽ
+    mnc: ᡶᡝᡵᡝᡥᡝ ᠰᡳᠩᡤᡝᡵᡳ
+    mr: वटवाघूळ
+    mrj: Цӓрӓгеквлӓ
+    ms: kelawar
+    mul: Chiroptera
+    my: လင်းနို့
+    myv: Кедьнимиляв
+    mzn: شوپرپری
+    nah: Tzinācantli
+    nan: Bi̍t-pô
+    nap: Scherpíngeche
+    nb: flaggermus
+    nds: Fladdermuus
+    nds-nl: vleadermuse
+    ne: चमेरो
+    new: चिकंलापा
+    nia: Bögi
+    nl: vleermuizen
+    nn: flaggermus
+    nov: Chiroptera
+    nrm: Caûque-souothis
+    nv: Jaaʼabaní Danilínígíí
+    oc: Chiroptera
+    olo: Nahkusiivet
+    or: ବାଦୁଡ଼ି
+    os: Къухбазыронтæ
+    pa: ਚਮਗਿੱਦੜ
+    pam: Talibatab
+    pcd: Soerie-volante
+    pl: nietoperze
+    pms: Ratavolòira
+    pnb: چمگادڑ
+    pt: morcego
+    pt-br: Chiroptera
+    qu: Masu
+    rn: Agahungarema
+    ro: Chiroptere
+    roa-tara: Turtuvagghie
+    ru: рукокрылые
+    rue: Мышперхач
+    rup: Puľiu di noaptea
+    sah: Илии кынаттаахтар аймахтара
+    sat: ᱵᱟᱨᱫᱩᱬᱩᱡ
+    sc: Chiroptera
+    scn: taddarita
+    sco: Baukie
+    sd: چمڙو
+    sg: Mbupu
+    sgs: Šėkšniesparnis
+    sh: Šišmiš
+    shi: Frṭiṭṭu
+    shn: မိင်ႇ
+    si: වවුලා
+    sk: Netopiere
+    sl: netopirji
+    sn: Karemwaremwa
+    so: Fiidmeer
+    sq: Lakuriqi i natës
+    sr: Chiroptera
+    stq: Flädderdierte
+    su: Kalong
+    sv: fladdermöss
+    sw: Popo
+    szl: Gacopjyrze
+    szy: bidadiki
+    ta: வௌவால்
+    te: గబ్బిలం
+    tg: болдастҳо
+    th: ค้างคาว
+    tl: Paniki
+    tok: soweli waso Kilotela
+    tr: yarasa
+    tw: Apan
+    ug: شەپەرەڭ
+    uk: лиликоподібні
+    ur: چمگاڈر
+    vi: bộ Dơi
+    vls: Vliendrmuus
+    vo: Chiroptera
+    wa: Tchawe-sori
+    war: Kabog
+    wuu: 蝙蝠
+    xal: Бавуха
+    yi: פלעדערמויז
+    yo: Àdán
+    yue: 蝙蝠
+    za: Vumzvauz
+    zea: Vleermuzen
+    zh: 翼手目
+    zh-cn: 翼手目
+    zh-hans: 翼手目
+    zh-hant: 翼手目
+    zh-tw: 翼手目
+    zu: ilulwane
 ---
-
 # [[Bat]]
 
 ## Bats 

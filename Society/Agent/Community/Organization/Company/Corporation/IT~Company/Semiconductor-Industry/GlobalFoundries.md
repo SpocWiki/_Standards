@@ -1,34 +1,75 @@
 ---
 aliases:
-  - GlobalFoundries
+- GlobalFoundries
+- جلوبال فاوندريز
+- گلوبالفوندریز
+- গ্লোবালফাউন্ড্রিস
+- 格罗方德
+- 格羅方德
+- 글로벌파운드리
 dv_is_/similar_to:
   path: Knowledge/TSMC(Taiwan_Semiconductor).md
   display: TSMC(Taiwan_Semiconductor)
   embed: false
   type: file
 dv_is_/same_as:
-  - '[GlobalFoundries](GlobalFoundries)'
-  - '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public)'
-  - '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal)'
-  - '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect)'
-  - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
-  - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
-  - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
+- '[GlobalFoundries](GlobalFoundries)'
+- '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public)'
+- '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal)'
+- '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect)'
+- '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
+- '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
+- '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
 dv_is_similar_to:
   path: Knowledge/TSMC(Taiwan_Semiconductor).md
   display: TSMC(Taiwan_Semiconductor)
   embed: false
   type: file
 dv_is_same_as:
-  - '[GlobalFoundries](GlobalFoundries)'
-  - '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public)'
-  - '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal)'
-  - '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect)'
-  - '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
-  - '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
-  - '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
+- '[GlobalFoundries](GlobalFoundries)'
+- '[GlobalFoundries.public](/_public/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.public)'
+- '[GlobalFoundries.internal](/_internal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.internal)'
+- '[GlobalFoundries.protect](/_protect/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.protect)'
+- '[GlobalFoundries.private](/_private/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.private)'
+- '[GlobalFoundries.personal](/_personal/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.personal)'
+- '[GlobalFoundries.secret](/_secret/Society/Economics/Business/Business-Entity/IT~Company/Semiconductor-Industry/GlobalFoundries.secret)'
+has_id_wikidata: Q691592
+dv_has_:
+  name_:
+    ar: جلوبال فاوندريز
+    bn: গ্লোবালফাউন্ড্রিস
+    ca: GlobalFoundries
+    cs: GlobalFoundries
+    da: GlobalFoundries
+    de: Globalfoundries
+    de-ch: Globalfoundries
+    en: GlobalFoundries
+    en-ca: GlobalFoundries
+    en-gb: GlobalFoundries
+    es: GlobalFoundries
+    fa: گلوبالفوندریز
+    fi: GlobalFoundries
+    fr: GlobalFoundries
+    he: GlobalFoundries
+    id: GlobalFoundries
+    it: GlobalFoundries
+    ja: GLOBALFOUNDRIES
+    ko: 글로벌파운드리
+    mg: GlobalFoundries
+    nl: GlobalFoundries
+    pl: GlobalFoundries
+    pt: GlobalFoundries
+    ru: GlobalFoundries
+    sk: GlobalFoundries
+    tt: GlobalFoundries
+    tt-cyrl: GlobalFoundries
+    vec: GlobalFoundries
+    wuu: 格罗方德
+    zh: 格羅方德
+    zh-hans: 格罗方德
+    zh-hant: 格羅方德
+    zh-hk: 格羅方德
 ---
-
 # [[GlobalFoundries]] 
 
 #is_/similar_to :: [[TSMC(Taiwan_Semiconductor)|TSMC(Taiwan_Semiconductor)]] 

@@ -1,9 +1,44 @@
 ---
 aliases:
-  - Cynarospermum
+- Cynarospermum
 title: Cynarospermum asperrimum
+has_id_wikidata: Q8352867
+dv_has_:
+  name_:
+    an: Cynarospermum
+    ast: Cynarospermum
+    bg: Cynarospermum
+    ca: Cynarospermum
+    ceb: Cynarospermum
+    de: Cynarospermum
+    en: Cynarospermum
+    eo: Cynarospermum
+    es: Cynarospermum
+    eu: Cynarospermum
+    ext: Cynarospermum
+    fi: Cynarospermum
+    fr: Cynarospermum
+    ga: Cynarospermum
+    gl: Cynarospermum
+    ia: Cynarospermum
+    ie: Cynarospermum
+    io: Cynarospermum
+    it: Cynarospermum
+    la: Cynarospermum
+    mul: Cynarospermum
+    nl: Cynarospermum
+    oc: Cynarospermum
+    pl: Cynarospermum
+    pt: Cynarospermum
+    pt-br: Cynarospermum
+    ro: Cynarospermum
+    ru: Cynarospermum
+    sq: Cynarospermum
+    uk: Cynarospermum
+    vi: Cynarospermum
+    vo: Cynarospermum
+    war: Cynarospermum
 ---
-
 ## [[Cynarospermum]] 
 
 ![Cynarospermum](Cynarospermum/Cynaro.jpg)

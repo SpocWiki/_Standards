@@ -1,4 +1,118 @@
-
+---
+has_id_wikidata: Q320607
+dv_has_:
+  name_:
+    af: Oligosakkaried
+    ar: سكريات قليلة التعدد
+    be: алігацукрыд
+    bg: Олигозахарид
+    bn: অলিগোস্যাকারাইড
+    bs: Oligosaharidi
+    ca: oligosacàrid
+    cs: oligosacharidy
+    de: Oligosaccharide
+    el: ολιγοσακχαρίτες
+    en: oligosaccharide
+    eo: oligosakarido
+    es: oligosacárido
+    et: oligosahhariidid
+    eu: oligosakarido
+    fa: الیگوساکارید
+    fi: oligosakkaridi
+    fr: oligosaccharide
+    gl: oligosacárido
+    he: אוליגוסכרידים
+    hu: oligoszacharid
+    id: Oligosakarida
+    it: Oligosaccaride
+    ja: オリゴ糖
+    kk: Олигосахаридтер
+    kk-arab: ولىيگوساحارىيدتەر
+    kk-cn: ولىيگوساحارىيدتەر
+    kk-cyrl: Олигосахаридтер
+    kk-kz: Олигосахаридтер
+    kk-latn: Olïgosaxarïdter
+    kk-tr: Olïgosaxarïdter
+    ko: 소당류
+    ky: Олигосахариддер
+    mk: олигосахарид
+    nan: Chió-thn̂g
+    nb: oligosakkarid
+    nl: oligosacharide
+    nn: oligosakkarid
+    pl: oligosacharyd
+    pt: oligossacarídeo
+    ro: Oligozaharide
+    ru: олигосахариды
+    se: oligosakkariida
+    sh: Oligosaharid
+    sk: Oligosacharid
+    sl: oligosaharid
+    smn: oligosakkarid
+    sms: oligosakkariid
+    sr: Oligosaharid
+    sr-ec: Олигосахарид
+    sr-el: Oligosaharid
+    sv: oligosackarider
+    th: โอลิโกแซ็กคาไรด์
+    tr: Oligosakkarit
+    uk: олігосахариди
+    vi: oligosaccarit
+    yue: 低聚醣
+    zh: 寡醣
+    zh-cn: 寡糖
+    zh-hans: 寡糖
+    zh-hant: 寡醣
+    zh-hk: 寡醣
+    zh-sg: 寡糖
+    zh-tw: 寡醣
+aliases:
+- Chió-thn̂g
+- Oligosaccaride
+- oligosaccarit
+- oligosaccharide
+- Oligosacharid
+- oligosacharide
+- oligosacharidy
+- oligosacharyd
+- oligosackarider
+- oligosacàrid
+- oligosacárido
+- Oligosaharid
+- Oligosaharidi
+- oligosahhariidid
+- Oligosakarida
+- oligosakarido
+- oligosakkarid
+- oligosakkaridi
+- Oligosakkaried
+- oligosakkariid
+- oligosakkariida
+- Oligosakkarit
+- oligossacarídeo
+- oligoszacharid
+- Oligozaharide
+- Olïgosaxarïdter
+- ολιγοσακχαρίτες
+- алігацукрыд
+- олігосахариди
+- Олигозахарид
+- олигосахарид
+- Олигосахариддер
+- Олигосахаридтер
+- олигосахариды
+- אוליגוסכרידים
+- الیگوساکارید
+- سكريات قليلة التعدد
+- ولىيگوساحارىيدتەر
+- অলিগোস্যাকারাইড
+- โอลิโกแซ็กคาไรด์
+- オリゴ糖
+- 低聚醣
+- 寡糖
+- 寡醣
+- 소당류
+---
 #has_/child_/class :: [[Disaccharide]] 
 #has_/parent_class :: [[Polysaccharide]] 
 #has_/instances :: [[Oligosaccharide/Raffinose]] 

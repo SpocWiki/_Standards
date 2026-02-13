@@ -1,21 +1,80 @@
 ---
 aliases:
-  - Cheque
-  - Check
-  - Scheck
+- assegno
+- Cec
+- Cek
+- Chack
+- Check
+- Cheeke
+- Chekenn
+- Cheko
+- Cheque
+- Chèc
+- chèque
+- csekk
+- Czek
+- Qəbz
+- RR
+- Scheck
+- seic
+- sekki
+- sjekk
+- Syngrapha nummaria
+- Séc
+- Tcheke
+- Tjek
+- Txeke
+- Tšekk
+- xec
+- Ávísun
+- Çek
+- Çeku (financë)
+- ĉeko
+- Ček
+- čekis
+- Čeks
+- šek
+- Επιταγή
+- Есеп айырысу чегі
+- чек
+- чэк
+- Չեկ
+- המחאה
+- טשעק
+- صك
+- چيڪ
+- چک
+- چیک
+- चॅक
+- चेक
+- धनादेश
+- চে'ক
+- চেক
+- ਚੈੱਕ
+- காசோலை
+- చెక్కు
+- ಚೆಕ್
+- ചെക്ക്
+- เช็ค
+- ချက်လက်မှတ်
+- ၶျႅၵ်ႉ
+- ቼክ
+- 小切手
+- 支票
+- 수표
 has_id_wikidata: Q80042
 subclass_of:
-  - '[[_Standards/WikiData/WD~promissory_note,190122]]'
-  - '[[_Standards/WikiData/WD~foreign_currencies,831772]]'
-  - '[[_Standards/WikiData/WD~paper_product,1668556]]'
-  - '[[_Standards/WikiData/WD~negotiable_instrument,3359388]]'
+- '[[_Standards/WikiData/WD~promissory_note,190122]]'
+- '[[_Standards/WikiData/WD~foreign_currencies,831772]]'
+- '[[_Standards/WikiData/WD~paper_product,1668556]]'
+- '[[_Standards/WikiData/WD~negotiable_instrument,3359388]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~payment_method,1912682]]'
-  - '[[_Standards/WikiData/WD~product_category,63981612]]'
+- '[[_Standards/WikiData/WD~payment_method,1912682]]'
+- '[[_Standards/WikiData/WD~product_category,63981612]]'
 part_of: '[[_Standards/WikiData/WD~checkbook,87002152]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~check_stub,107392820]]'
 Nomenclature_for_Museum_Cataloging: 13896
@@ -24,8 +83,101 @@ Commons_category: Cheques
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FORD%2C%20Gerald%20%28signed%20check%29.jpg
 Iconclass_notation: 46B314
 P8189: 987007285078305171
+dv_has_:
+  name_:
+    af: Tjek
+    am: ቼክ
+    ar: صك
+    as: চে'ক
+    ast: Cheque
+    az: Qəbz
+    be: чэк
+    be-tarask: чэк
+    bg: Чек
+    bho: चेक
+    bn: চেক
+    br: Chekenn
+    ca: xec
+    cs: šek
+    csb: Czek
+    da: check
+    de: Scheck
+    el: Επιταγή
+    en: cheque
+    en-ca: cheque
+    en-gb: cheque
+    en-us: cheque
+    eo: ĉeko
+    es: Cheque
+    et: Tšekk
+    eu: Txeke
+    fa: چک
+    fi: sekki
+    fr: chèque
+    ga: seic
+    gd: Seic
+    gl: Cheque
+    guc: Cheeke
+    he: המחאה
+    hi: चॅक
+    hr: Ček
+    hu: csekk
+    hy: Չեկ
+    id: Cek
+    io: Cheko
+    is: Ávísun
+    it: assegno
+    ja: 小切手
+    kk: Есеп айырысу чегі
+    kn: ಚೆಕ್
+    ko: 수표
+    ky: чек
+    la: Syngrapha nummaria
+    lt: čekis
+    lv: Čeks
+    min: Cek
+    mk: Чек
+    ml: ചെക്ക്
+    mni: RR
+    mr: धनादेश
+    ms: Cek
+    my: ချက်လက်မှတ်
+    nb: sjekk
+    ne: चेक
+    nl: cheque
+    nn: sjekk
+    oc: Chèc
+    pa: ਚੈੱਕ
+    pl: czek
+    pt: cheque
+    ro: Cec
+    ru: чек
+    sco: Chack
+    sd: چيڪ
+    sh: Ček
+    shn: ၶျႅၵ်ႉ
+    sk: šek
+    sl: ček
+    sq: Çeku (financë)
+    sr: Чек
+    sr-ec: чек
+    sr-el: ček
+    sv: Check
+    ta: காசோலை
+    te: చెక్కు
+    tg: Чек
+    th: เช็ค
+    tr: Çek
+    tt: Чек
+    uk: чек
+    ur: چیک
+    vi: Séc
+    wa: Tcheke
+    wuu: 支票
+    yi: טשעק
+    yue: 支票
+    zh: 支票
 ---
-
 # [[Cheque]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cheque,80042|WD~Cheque,80042]] 

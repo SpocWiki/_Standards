@@ -1,37 +1,219 @@
 ---
 aliases:
+- draama
+- dram
+- Dram (téat)
+- drama
+- Drama yaratması
+- dramaatika
+- dramat
+- dramatická forma
+- dramatik
+- dramatika
+- Dramato
+- dramma
+- dramo
+- dramë
+- dramă
+- dràma
+- dráma
+- drámaíocht
+- drāma
+- forma dramàtica
+- forme dramatique
+- Hì-chhut
+- Khell
+- kịch
+- Leikrit
+- Maigizo
+- Toaniel
+- δράμα
+- драмæ
+- драма
+- դրամա
+- Թատերգական սեռ
+- דראמא
+- דרמה
+- د پښتو ډرامه او تیاتر تاریخ بهیر
+- دراما
+- ڈراما
+- ڊرامو
+- खेळ
+- नाटक
+- नाट्यकला
+- নাটক
+- ਡਰਾਮਾ
+- நாடகம்
+- డ్రామా
+- നാടകം
+- නාට්ය
+- นาฏกรรม
+- ပြဇာတ်
+- დრამა
+- ドラマ
+- 戏剧
+- 戲
+- 戲劇
+- 드라마
 has_id_wikidata: Q25372
 different_from:
-  - "[[_Standards/WikiData/WD~drama_film,130232]]"
-  - "[[_Standards/WikiData/WD~dramaturgy,492537]]"
-  - "[[_Standards/WikiData/WD~narrative,1318295]]"
-  - "[[_Standards/WikiData/WD~lyricism,3326349]]"
-  - "[[_Standards/WikiData/WD~drama_fiction,21010853]]"
-  - "[[_Standards/WikiData/WD~play,25379]]"
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~dramaturgy,492537]]'
+- '[[_Standards/WikiData/WD~narrative,1318295]]'
+- '[[_Standards/WikiData/WD~lyricism,3326349]]'
+- '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
+- '[[_Standards/WikiData/WD~play,25379]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~literary_mode,621993]]"
-  - "[[_Standards/WikiData/WD~literary_form,4263830]]"
+- '[[_Standards/WikiData/WD~literary_mode,621993]]'
+- '[[_Standards/WikiData/WD~literary_form,4263830]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~narrative,1318295]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~ख_ळ,27131234]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Drama,42353171]]"
-facet_of: "[[_Standards/WikiData/WD~dramatic_work,116476516]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~narrative,1318295]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~ख_ळ,27131234]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Drama,42353171]]'
+facet_of: '[[_Standards/WikiData/WD~dramatic_work,116476516]]'
 Archive_of_Our_Own_tag: Drama
 Commons_category: Drama
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bildhuggarkonst%2C%20Sofokles%2C%20Nordisk%20familjebok.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Yakshagana%20bhima.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bildhuggarkonst%2C%20Sofokles%2C%20Nordisk%20familjebok.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Yakshagana%20bhima.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Drama.wav
 equivalent_class: http://dbpedia.org/ontology/Drama
 UMLS_CUI: C0013109
 MeSH_tree_code: K01.517.333
 IPTC_NewsCode: mediatopic/20000014
+dv_has_:
+  name_:
+    aeb-arab: دراما
+    aeb-latn: dràma
+    af: Drama
+    ar: دراما
+    arz: دراما
+    as: নাটক
+    ast: drama
+    az: dram
+    ba: драма
+    bar: Drama
+    bcl: Drama
+    be: драма
+    be-tarask: драма
+    bg: драма
+    bn: নাটক
+    bpy: নাটক
+    br: drama
+    bs: drama
+    ca: forma dramàtica
+    ce: Драма
+    ckb: دراما
+    cs: drama
+    cy: drama
+    da: drama
+    de: Drama
+    dsb: Drama
+    el: δράμα
+    en: drama
+    en-gb: drama
+    eo: dramo
+    es: drama
+    et: dramaatika
+    eu: drama
+    fa: دراما
+    fi: draama
+    fr: forme dramatique
+    fy: Toaniel
+    ga: drámaíocht
+    gag: Drama yaratması
+    gan: 戲
+    gcr: Dram (téat)
+    gd: Dràma
+    gl: drama
+    gom: Khell
+    gom-deva: खेळ
+    gom-latn: Khell
+    gsw: Drama
+    gv: Drama
+    he: דרמה
+    hi: नाटक
+    hr: drama
+    hsb: Drama
+    hu: dráma
+    hy: դրամա
+    hyw: Թատերգական սեռ
+    id: drama
+    io: Dramato
+    is: Leikrit
+    it: dramma
+    ja: ドラマ
+    jv: drama
+    ka: დრამა
+    ko: 드라마
+    ku: drama
+    ku-latn: drama
+    la: Drama
+    li: Drama
+    lt: drama
+    lv: drāma
+    mad: Drama
+    mag: नाटक
+    mk: драма
+    ml: നാടകം
+    mr: नाटक
+    ms: drama
+    mt: dramma
+    my: ပြဇာတ်
+    nan: Hì-chhut
+    nb: drama
+    ne: नाटक
+    new: नाटक
+    nl: drama
+    nn: drama
+    oc: drama
+    os: драмæ
+    pa: ਡਰਾਮਾ
+    pl: dramat
+    pnb: ڈراما
+    ps: د پښتو ډرامه او تیاتر تاریخ بهیر
+    pt: drama
+    rki: ပြဇာတ်
+    ro: dramă
+    ru: драма
+    rue: драма
+    sa: नाट्यकला
+    sd: ڊرامو
+    sh: Drama
+    si: නාට්ය
+    sk: dramatická forma
+    sl: dramatika
+    sq: dramë
+    sr: драма
+    sr-ec: драма
+    su: drama
+    sv: dramatik
+    sw: Maigizo
+    ta: நாடகம்
+    te: డ్రామా
+    tg: драма
+    th: นาฏกรรม
+    tl: Drama
+    tr: drama
+    tt: драма
+    uk: драма
+    ur: ڈراما
+    uz: drama
+    vi: kịch
+    war: Drama
+    wuu: 戏剧
+    xmf: დრამა
+    yi: דראמא
+    yue: 戲劇
+    zh: 戲劇
+    zh-cn: 戏剧
+    zh-hans: 戏剧
+    zh-hant: 戲劇
 ---
-
 # [[Drama]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Drama,25372|WD~Drama,25372]] 

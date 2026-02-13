@@ -1,12 +1,18 @@
 ---
 aliases:
-  - Pravetz 82
-  - Правец 82
-  - ИМКО-2
-  - IMKO-2
-  - Pravetz_82
+- Pravetz 82
+- Правец 82
+- ИМКО-2
+- IMKO-2
+- Pravetz_82
+has_id_wikidata: Q12291176
+dv_has_:
+  name_:
+    bg: Правец 82
+    en: Pravetz 82
+    ru: Правец 82
+    vec: Pravetz 82
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Pravetz 82** Bulgarian: (Правец 82), previously IMKO-2 (Bulgarian: ИМКО-2) 

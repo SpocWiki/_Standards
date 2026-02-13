@@ -1,39 +1,196 @@
 ---
-aliases: 
+aliases:
+- acoso
+- acoso psicológico
+- Acosu psicolóxicu
+- assetjament
+- brimade
+- bulaíocht
+- buli
+- bulings
+- Bullebak
+- Bulling
+- bullismo
+- Bullizmi
+- bullying
+- bwlio
+- bắt nạt
+- givssideapmi
+- Heskinerezh
+- Imegbu
+- Jazarpen
+- Kabadayılık
+- kiusaaminen
+- kiusamine
+- Maltretiranje
+- megfélemlítés
+- mobbing
+- mobbning
+- mobning
+- Nasilničko ponašanje
+- paghahari-harian
+- patyčios
+- Pelécéan
+- penindasan
+- pesten
+- piävuttem
+- Pà-lêng
+- Schikane
+- ustrahovanje
+- znęcanie się
+- Zorbalıq
+- ĉikanado
+- šikana
+- šikanovanie
+- Ũcogothi
+- ǩeeuʹsummuš
+- εκφοβισμός
+- Буллинг
+- Дарамтлахуй
+- Кодулоо
+- малтретирање
+- Тормоз
+- травля
+- цкаванне
+- цкаваньне
+- цькування
+- Բուլինգ
+- Բռնացում
+- בריונות
+- التنمر
+- تنمر
+- قلدری
+- مووبەکردن
+- धौंस दिखाना
+- बिभीषण
+- পরপীড়ন
+- ਧੌਂਸਬਾਜ਼ੀ
+- ಬೆದರಿಸುವ
+- വഴക്കുണ്ടാക്കൽ
+- การข่มเหงรังแก
+- აცირგება
+- いじめ
+- 欺凌
+- 欺待
+- 霸凌
+- 집단 따돌림
 has_id_wikidata: Q240126
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Hanyu_Da_Cidian,1138917]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Revised_Mandarin_Chinese_Dictionary,77442279]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Hanyu_Da_Cidian,1138917]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Revised_Mandarin_Chinese_Dictionary,77442279]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~verbal_abuse,3138174]]"
-  - "[[_Standards/WikiData/WD~harassment,3240539]]"
+- '[[_Standards/WikiData/WD~verbal_abuse,3138174]]'
+- '[[_Standards/WikiData/WD~harassment,3240539]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~superiority_bias,3246951]]"
-  - "[[_Standards/WikiData/WD~jealousy,6545811]]"
-practiced_by: "[[_Standards/WikiData/WD~bully,3824194]]"
-facet_of: "[[_Standards/WikiData/WD~bullying_culture,5018479]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]"
-opposite_of: "[[_Standards/WikiData/WD~anti_bullying,131035514]]"
-OmegaWiki_Defined_Meaning: "460084"
+- '[[_Standards/WikiData/WD~superiority_bias,3246951]]'
+- '[[_Standards/WikiData/WD~jealousy,6545811]]'
+practiced_by: '[[_Standards/WikiData/WD~bully,3824194]]'
+facet_of: '[[_Standards/WikiData/WD~bullying_culture,5018479]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
+opposite_of: '[[_Standards/WikiData/WD~anti_bullying,131035514]]'
+OmegaWiki_Defined_Meaning: 460084
 IMDb_keyword: bully
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bullying%20F%C3%ADsico.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bully%20-%20The%20Noun%20Project.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bullying%20F%C3%ADsico.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bully%20-%20The%20Noun%20Project.svg
 subreddit: bullying
 hashtag: bullying
 Commons_category: Bullying
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/bullying
-P8189: "987007536950805171"
+P8189: 987007536950805171
 MeSH_tree_code:
-  - F01.145.126.125.550
-  - F01.145.813.213.500
-  - I01.880.735.070
-topic_has_template: "[[_Standards/WikiData/WD~Template_Bullying,6732929]]"
+- F01.145.126.125.550
+- F01.145.813.213.500
+- I01.880.735.070
+topic_has_template: '[[_Standards/WikiData/WD~Template_Bullying,6732929]]'
 hashtag_: bullying
+dv_has_:
+  name_:
+    af: Bullebak
+    ar: تنمر
+    arz: التنمر
+    ast: Acosu psicolóxicu
+    az: Zorbalıq
+    ba: Буллинг
+    be: цкаванне
+    be-tarask: цкаваньне
+    bew: Pelécéan
+    bg: Тормоз
+    bn: পরপীড়ন
+    br: Heskinerezh
+    bs: Maltretiranje
+    ca: assetjament
+    ckb: مووبەکردن
+    cs: šikana
+    cy: bwlio
+    da: mobning
+    de: Schikane
+    el: εκφοβισμός
+    en: bullying
+    en-gb: bullying
+    eo: ĉikanado
+    es: acoso psicológico
+    et: kiusamine
+    eu: Jazarpen
+    fa: قلدری
+    fi: kiusaaminen
+    fr: brimade
+    ga: bulaíocht
+    gl: acoso
+    he: בריונות
+    hi: धौंस दिखाना
+    hu: megfélemlítés
+    hy: Բուլինգ
+    hyw: Բռնացում
+    ia: Bullismo
+    id: penindasan
+    ig: Imegbu
+    it: bullismo
+    ja: いじめ
+    ki: Ũcogothi
+    kn: ಬೆದರಿಸುವ
+    ko: 집단 따돌림
+    ky: Кодулоо
+    lt: patyčios
+    lv: bulings
+    mk: малтретирање
+    ml: വഴക്കുണ്ടാക്കൽ
+    mn: Дарамтлахуй
+    ms: buli
+    nan: Pà-lêng
+    nb: mobbing
+    nl: pesten
+    nn: mobbing
+    pa: ਧੌਂਸਬਾਜ਼ੀ
+    pfl: Schikane
+    pl: znęcanie się
+    pt: bullying
+    ro: bullying
+    ru: травля
+    sa: बिभीषण
+    se: givssideapmi
+    sk: šikanovanie
+    sl: ustrahovanje
+    smn: piävuttem
+    sms: ǩeeuʹsummuš
+    sq: Bullizmi
+    sr: Nasilničko ponašanje
+    sv: mobbning
+    th: การข่มเหงรังแก
+    tl: paghahari-harian
+    tr: Kabadayılık
+    uk: цькування
+    uz: Bulling
+    vi: bắt nạt
+    wuu: 欺待
+    xmf: აცირგება
+    yue: 欺凌
+    zh: 霸凌
+    zh-hans: 欺凌
+    zh-hant: 欺凌
 ---
-
 # [[Bullying]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bullying,240126|WD~Bullying,240126]] 

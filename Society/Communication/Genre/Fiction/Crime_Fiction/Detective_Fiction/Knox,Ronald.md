@@ -1,9 +1,64 @@
 ---
 aliases:
-  - Ronald Knox
-  - Knox,Ronald
+- Knox,Ronald
+- Ronald Knox
+- Роналд Нокс
+- Рональд Нокс
+- רונלד נוקס
+- رونالد نوكس
+- রোনাল্ড নক্স
+- რონალდ კნოქსი
+- ロナルド・ノックス
+- 罗纳德·诺克斯
+- 羅納德·諾克斯
+- 隆納德‧諾克斯
+- 로널드 녹스
+has_id_wikidata: Q707945
+dv_has_:
+  name_:
+    ar: رونالد نوكس
+    arz: رونالد نوكس
+    ast: Ronald Knox
+    be: Роналд Нокс
+    bn: রোনাল্ড নক্স
+    ca: Ronald Knox
+    cs: Ronald Knox
+    cy: Ronald Knox
+    da: Ronald Knox
+    de: Ronald Knox
+    en: Ronald Knox
+    es: Ronald Knox
+    eu: Ronald Knox
+    fi: Ronald Knox
+    fr: Ronald Knox
+    ga: Ronald Knox
+    he: רונלד נוקס
+    hr: Ronald Knox
+    hu: Ronald Knox
+    id: Ronald Knox
+    it: Ronald Knox
+    ja: ロナルド・ノックス
+    ka: რონალდ კნოქსი
+    ko: 로널드 녹스
+    ms: Ronald Knox
+    mul: Ronald Knox
+    nb: Ronald Knox
+    nl: Ronald Knox
+    nn: Ronald Knox
+    pl: Ronald Knox
+    pt: Ronald Knox
+    pt-br: Ronald Knox
+    ru: Рональд Нокс
+    sk: Ronald Knox
+    sl: Ronald Knox
+    sq: Ronald Knox
+    sv: Ronald Knox
+    tr: Ronald Knox
+    zh: 隆納德‧諾克斯
+    zh-cn: 罗纳德·诺克斯
+    zh-hans: 罗纳德·诺克斯
+    zh-hant: 羅納德·諾克斯
 ---
-
 # [[Knox,Ronald]] 
 
 ## #has_/text_of_/abstract 

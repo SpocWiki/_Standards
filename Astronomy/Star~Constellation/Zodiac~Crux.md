@@ -1,51 +1,231 @@
 ---
 aliases:
-  - Crux
-  - Kreuz des Südens
-  - Kreuz des Suedens
+- an Chros
+- Chakana warani
+- Creu del Sud
+- Croce del Sud
+- Croix du Sud
+- Crotz del Sud
+- Croze del Sud
+- Crucea Sudului
+- Crux
+- Crux (ranneves)
+- Cruz del Sur
+- Cruzeiro do Sul
+- Cənub Xaçı
+- Dienvidu Krusts
+- Dél Keresztje csillagkép
+- Etelän risti
+- Gwiazdozbiór Krzyża Południa
+- Haçê Veroci
+- Hegoaldeko Gurutzea
+- Janubiy but
+- Južni križ
+- Južni krst
+- Južný kríž
+- Kreuz des Suedens
+- Kreuz des Südens
+- Kroaz ar Su
+- Lâm-si̍p-jī-chō
+- Lõunarist
+- Māhutonga
+- Nam Thập Tự
+- Nàm-sṳ̍p-sṳ-chho
+- Nàng-sĕk-cê-cô̤
+- Pari
+- Pietų Kryžius
+- Salibu
+- Souhvězdí Jižního kříže
+- Southern Cross
+- Suda Kruco
+- Suderkrús
+- Suiderkruis
+- Sunay
+- Suðurkrossinn
+- Sydkorset
+- Södra korset
+- Sørkorset
+- Sørkrossen
+- Toloa
+- Xaç
+- y Chrosh
+- Zuiderkruis
+- Ñandu Pysã
+- Σταυρός του Νότου
+- Јужен Крст
+- Јужни крст
+- Крыж
+- Көньяк Хач
+- Көньяҡ Тәре
+- Лымшорпал Кирос
+- Південний Хрест
+- Паўднёвы Крыж
+- Соҕуруу Кириэс
+- Хуссары Дзуар
+- Южен кръст
+- Южный Крест
+- Հարավային Խաչ
+- Հարաւային Խաչ
+- הצלב הדרומי
+- صلیب جنوبی
+- كراكس
+- نُعَيم
+- چلیپا
+- त्रिशंकु तारामंडल
+- ত্রিশঙ্কু মণ্ডল
+- ਕ੍ਰਕਸ (ਤਾਰਾ-ਸਮੂਹ)
+- தென்சிலுவை
+- ಕ್ರಕ್ಸ್
+- തൃശങ്കു
+- กลุ่มดาวกางเขนใต้
+- ကြက်ခြေခတ် (ကြယ်စုတန်း)
+- ჯვრის თანავარსკვლავედი
+- みなみじゅうじ座
+- ハイムルブシ
+- 南十字座
+- 남십자자리
 dv_SpocWebEntityId: 28112
 dv_has_:
   name_:
+    af: Suiderkruis
+    ar: نُعَيم
+    arz: كراكس
+    ast: Crux
+    ay: Cruz del Sur
+    az: Cənub Xaçı
+    ba: Көньяҡ Тәре
+    be: Паўднёвы Крыж
+    be-tarask: Крыж
+    bg: Южен кръст
+    bn: ত্রিশঙ্কু মণ্ডল
+    br: Kroaz ar Su
+    bs: Južni krst
+    ca: Creu del Sud
+    cdo: Nàng-sĕk-cê-cô̤
+    co: Crux
+    cs: Souhvězdí Jižního kříže
+    cy: Crux
+    da: Sydkorset
+    de: Kreuz des Südens
+    diq: Haçê Veroci
+    el: Σταυρός του Νότου
+    en: Crux
+    en-us: Crux
+    eo: Suda Kruco
+    es: Crux
+    et: Lõunarist
+    eu: Hegoaldeko Gurutzea
+    fa: چلیپا
+    fi: Etelän risti
+    fr: Croix du Sud
+    fy: Suderkrús
+    ga: an Chros
+    gl: Crux
+    gn: Ñandu Pysã
+    gv: y Chrosh
+    hak: Nàm-sṳ̍p-sṳ-chho
+    he: הצלב הדרומי
+    hi: त्रिशंकु तारामंडल
+    hr: Južni križ
+    hu: Dél Keresztje csillagkép
+    hy: Հարավային Խաչ
+    hyw: Հարաւային Խաչ
+    id: Crux
+    ilo: Sunay
+    is: Suðurkrossinn
+    it: Croce del Sud
+    ja: みなみじゅうじ座
+    jv: Crux
+    ka: ჯვრის თანავარსკვლავედი
+    kn: ಕ್ರಕ್ಸ್
+    ko: 남십자자리
+    ku: Xaç
+    kw: Crux (ranneves)
     la: Crux
     la_:
       genitive: Crucis
-    de: Kreuz des Südens
+    lb: Crux
+    lt: Pietų Kryžius
+    lv: Dienvidu Krusts
+    mi: Māhutonga
+    mk: Јужен Крст
+    ml: തൃശങ്കു
+    ms: Pari
+    mul: Southern Cross
+    my: ကြက်ခြေခတ် (ကြယ်စုတန်း)
+    nan: Lâm-si̍p-jī-chō
+    nb: Sørkorset
+    nl: Zuiderkruis
+    nn: Sørkrossen
+    oc: Crotz del Sud
+    os: Хуссары Дзуар
+    pa: ਕ੍ਰਕਸ (ਤਾਰਾ-ਸਮੂਹ)
+    pl: Gwiazdozbiór Krzyża Południa
+    pt: Crux
+    pt-br: Cruzeiro do Sul
+    qu: Chakana warani
+    ro: Crucea Sudului
+    ru: Южный Крест
+    ryu: ハイムルブシ
+    sah: Соҕуруу Кириэс
+    sh: Južni križ
+    sk: Južný kríž
+    sl: Južni križ
+    sr: Јужни крст
+    sr-ec: Јужни крст
+    sv: Södra korset
+    sw: Salibu
+    ta: தென்சிலுவை
+    th: กลุ่มดาวกางเขนใต้
+    to: Toloa
+    tr: Crux
+    tt: Көньяк Хач
+    udm: Лымшорпал Кирос
+    uk: Південний Хрест
+    ur: صلیب جنوبی
+    uz: Janubiy but
+    vec: Croze del Sud
+    vi: Nam Thập Tự
+    war: Crux
+    wuu: 南十字座
+    yue: 南十字座
+    zh: 南十字座
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
 has_id_wikidata: Q10542
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-  - "[[_Standards/WikiData/WD~Emery_Molyneux,2300479]]"
+- '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
+- '[[_Standards/WikiData/WD~Emery_Molyneux,2300479]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Stars_of_Crux,14336015]]"
-different_from: "[[_Standards/WikiData/WD~Croix_du_Sud,21476911]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Crux,14336015]]'
+different_from: '[[_Standards/WikiData/WD~Croix_du_Sud,21476911]]'
 inception: 1590-01-01T00:00:00Z
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Centaurus,8844]]"
-  - "[[_Standards/WikiData/WD~Musca,10435]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~Centaurus,8844]]'
+- '[[_Standards/WikiData/WD~Musca,10435]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 100
-named_after: "[[_Standards/WikiData/WD~cross,40843]]"
+named_after: '[[_Standards/WikiData/WD~cross,40843]]'
 Commons_gallery: Crux
 native_label:
-  - Southern Cross
-  - Kreuz des Südens
-  - Zuiderkruis
-  - Krzyż Południa
-  - Южный Крест
+- Southern Cross
+- Kreuz des Südens
+- Zuiderkruis
+- Krzyż Południa
+- Южный Крест
 official_name: Crux
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Crux.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Crux%20constellation%20map.svg
@@ -54,29 +234,28 @@ Commons_category: Crux (constellation)
 short_name: Cru
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
+  - '[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]'
 dv_has_name_la: Crux
 dv_has_name_la_genitive: Crucis
 dv_has_name_de: Kreuz des Suedens
 dv_is_same_as:
-  - "[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]"
+- '[[../../WikiData/WD~Crux,10542|WD~Crux,10542]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Crux|Zodiac~Crux]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Crux.public|Zodiac~Crux.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Crux.internal|Zodiac~Crux.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Crux.protect|Zodiac~Crux.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Crux.private|Zodiac~Crux.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Crux.personal|Zodiac~Crux.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Crux.secret|Zodiac~Crux.secret]]'
 has_time_started: 1590-01-01
 ---
-
 # [[Zodiac~Crux]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId` 

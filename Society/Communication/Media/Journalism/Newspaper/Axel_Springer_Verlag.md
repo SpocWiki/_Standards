@@ -1,9 +1,62 @@
 ---
 aliases:
-  - Axel Springer Verlag
-  - Axel_Springer_Verlag
+- Axel Springer SE
+- Axel Springer Verlag
+- Axel_Springer_Verlag
+- אקסל שפרינגר
+- اکسل اشپرینگر اس.ای
+- شركة أكسل شبرينقر
+- アクセル・シュプリンガー・AG
+- 阿克塞尔·斯普林格集团
+- 阿克塞尔施普林格集团
+- 阿克塞爾·斯普林格集團
+- 악셀 스프링거 AG
+has_id_wikidata: Q163560
+dv_has_:
+  name_:
+    ar: شركة أكسل شبرينقر
+    az: Axel Springer SE
+    bar: Axel Springer SE
+    be: Axel Springer SE
+    bg: Axel Springer SE
+    ca: Axel Springer SE
+    cs: Axel Springer SE
+    da: Axel Springer SE
+    de: Axel Springer SE
+    el: Axel Springer SE
+    en: Axel Springer SE
+    en-gb: Axel Springer SE
+    eo: Axel Springer SE
+    es: Axel Springer SE
+    et: Axel Springer SE
+    eu: Axel Springer SE
+    fa: اکسل اشپرینگر اس.ای
+    fi: Axel Springer SE
+    fr: Axel Springer Verlag
+    ga: Axel Springer SE
+    he: אקסל שפרינגר
+    hu: Axel Springer SE
+    id: Axel Springer SE
+    it: Axel Springer SE
+    ja: アクセル・シュプリンガー・AG
+    kk: Axel Springer Verlag
+    ko: 악셀 스프링거 AG
+    ms: Axel Springer SE
+    nb: Axel Springer SE
+    nl: Axel Springer SE
+    pl: Axel Springer SE
+    pt: Axel Springer SE
+    ro: Axel Springer SE
+    ru: Axel Springer SE
+    sl: Axel Springer SE
+    sv: Axel Springer SE
+    tr: Axel Springer SE
+    uk: Axel Springer SE
+    zh: 阿克塞爾·斯普林格集團
+    zh-cn: 阿克塞尔·斯普林格集团
+    zh-hans: 阿克塞尔施普林格集团
+    zh-hant: 阿克塞爾·斯普林格集團
 ---
-
 Axel_Springer_Verlag
 
 ## #has_/text_of_/abstract 

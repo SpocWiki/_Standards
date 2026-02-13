@@ -1,4 +1,91 @@
-
+---
+has_id_wikidata: Q149128
+dv_has_:
+  name_:
+    an: Bacilli
+    ar: عصيات
+    arz: عصيات
+    ast: Bacilli
+    bg: бацили
+    ca: Bacil
+    ceb: Bacilli
+    cs: Bacilli
+    de: Bacilli
+    el: Βάκιλλοι
+    en: Bacilli
+    eo: Bacilli
+    es: Bacilli
+    et: batsillid
+    eu: Bacilli
+    ext: Bacilli
+    fa: باسیل
+    fi: Bacilli
+    fr: Bacilli
+    ga: Bacilli
+    gl: Bacilli
+    he: Bacilli
+    hi: बैसिलाए
+    hr: Bacilli
+    hu: Bacilli
+    ia: Bacilli
+    ie: Bacilli
+    io: Bacilli
+    is: Bacilli
+    it: Bacilli
+    ja: バシラス綱
+    kk: Бацилдер
+    ko: 바킬루스강
+    la: Bacilli
+    lt: Bacilos
+    mk: Бацили
+    mul: Bacilli
+    nl: Bacillen
+    nn: Bacilli
+    oc: Bacilli
+    pl: Bacilli
+    pt: Bacilli
+    pt-br: Bacilli
+    ro: Bacilli
+    ru: бациллы
+    sco: Bacilli
+    sd: بيسيلي
+    sl: Bacilli
+    sms: basill
+    sq: Bacilli
+    sv: Bacilli
+    tl: Bacilli
+    uk: Bacilli
+    vi: Lớp trực khuẩn
+    vo: Bacilli
+    war: Bacilli
+    zh: 芽孢桿菌綱
+    zh-cn: 芽孢杆菌纲
+    zh-hans: 芽孢杆菌纲
+    zh-hant: 芽孢桿菌綱
+    zh-hk: 芽孢桿菌綱
+    zh-sg: 芽孢杆菌纲
+    zh-tw: 芽孢桿菌綱
+aliases:
+- Bacil
+- Bacillen
+- Bacilli
+- Bacilos
+- basill
+- batsillid
+- Lớp trực khuẩn
+- Βάκιλλοι
+- Бацилдер
+- бацили
+- бациллы
+- باسیل
+- بيسيلي
+- عصيات
+- बैसिलाए
+- バシラス綱
+- 芽孢杆菌纲
+- 芽孢桿菌綱
+- 바킬루스강
+---
 ## #has_/text_of_/abstract 
 
 > **Bacilli** is a taxonomic class of bacteria that includes two orders, Bacillales and Lactobacillales, 

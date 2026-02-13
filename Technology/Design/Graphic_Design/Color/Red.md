@@ -1,26 +1,235 @@
 ---
 aliases:
-  - Red
+- abang
+- agaga'
+- aragang
+- aroșu
+- aħmar
+- a̱shong
+- Bang
+- bermeyu
+- beureum
+- burmedju
+- burmeilho
+- cerwjeń
+- chupika
+- chécen
+- chīchīltic
+- coch
+- crvena
+- crveno
+- czerwiyń
+- czerwony
+- czerwòny
+- Damudamu
+- darag
+- dearg
+- fùng-set
+- gaduud
+- gorri
+- habang
+- homma
+- hwibidu
+- ishosü
+- jiarg
+- kolorado
+- korá
+- kırmızı
+- laal
+- loje
+- malutu
+- merah
+- Mirah
+- motané
+- mɔlega
+- ngjyra e kuqe
+- nyekundu
+- Okubomvu
+- puka
+- pula
+- punainen
+- punane
+- punanõ
+- pupa
+- pytã
+- qaviqsaaq
+- qizil
+- qudjidjilj
+- Qırmızı
+- qızıl
+- Rara
+- raudona
+- raudt
+- rauduona
+- rauður
+- rdeča
+- read
+- Red
+- reda
+- reid
+- ret
+- reyð
+- Rodje
+- roge
+- roig
+- roja
+- rojo
+- rood
+- rooi
+- root
+- ros
+- roso
+- ross
+- rosso
+- Rot
+- rouche
+- Roud
+- rouge
+- rouj
+- rouoge
+- Rout
+- roxu
+- royo
+- roșu
+- ruad
+- ruappsat
+- ruapssade
+- ruber
+- rudh
+- ruoksat
+- ruoppsat
+- ruopsâd
+- rusked muju
+- ruskei
+- russu
+- ruz
+- ruõpssâd
+- ruĝo
+- röd
+- rööpses
+- rød
+- rødt
+- rēad
+- saekhoengz
+- sarkanā krāsa
+- Siyaw
+- sor
+- sorkans
+- sumanahay
+- sure
+- sy
+- sɛmɩŋ
+- tshwuka
+- tsvuku
+- vermelho
+- vermello
+- vörös
+- whero
+- xonq
+- xunre
+- âng-sek
+- è̤ng-sáik
+- červená
+- čerwjena
+- đỏ
+- łichííʼ
+- ūfie
+- ʻulaʻula
+- κόκκινο
+- горд
+- красный
+- красьнъ
+- кызыл
+- кыһыл
+- сурх
+- сырх
+- улаан
+- хĕрлĕ тĕс
+- црвена
+- ЦӀе бос
+- цӏен
+- червено
+- червоний
+- чырвоны
+- чырвоны колер
+- якстере
+- якстерь
+- ятӏулсса
+- қызыл түс
+- Ҡыҙыл төҫ
+- կարմիր
+- אדום
+- רויט
+- أحمر
+- احمر
+- حمر
+- سرخ
+- سور
+- سوور
+- قىزىل رەڭ
+- قیٛرمیزی
+- لال
+- ميره
+- وۄزُل
+- ڳاڙهو
+- ܣܘܡܩܐ
+- ߥߎ߬ߟߋ߲߬ߡߊ߲
+- रक्तः
+- रातो
+- लाल
+- ह्यांगु
+- লাল
+- ਲਾਲ
+- ନାଲି
+- சிவப்பு
+- ఎరుపు
+- ಕೆಂಪು
+- ചുവപ്പ്
+- රතු පාට
+- สีแดง
+- ສີແດງ
+- དམར་པོ།
+- သီလႅင်
+- အနီရောင်
+- წითელი
+- ჭითა
+- ቀየሕ
+- ቀይ
+- ᎩᎦᎨᎢ
+- ᐊᐅᐸᓗᒃᑐᖅ
+- ᒥᐦᒀᐤ
+- ក្រហម
+- ᨌᨛᨒ
+- ᩈᩦᨯᩯ᩠ᨦ
+- ἐρυθρός
+- ’ute’ute
+- 紅
+- 紅色
+- 红色
+- 赤
+- ꯑꯉꯥꯡꯕ
+- 빨강
+- "\U00010342\U00010330\U0001033F\U00010338\U00010343"
 has_id_wikidata: Q3142
 instance_of: '[[_Standards/WikiData/WD~primary_color,166902]]'
 follows: '[[_Standards/WikiData/WD~violet,428124]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Rouge,437052]]'
-  - '[[_Standards/WikiData/WD~Rot,9167553]]'
-  - '[[_Standards/WikiData/WD~Red,124022720]]'
+- '[[_Standards/WikiData/WD~Rouge,437052]]'
+- '[[_Standards/WikiData/WD~Rot,9167553]]'
+- '[[_Standards/WikiData/WD~Red,124022720]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 part_of: '[[_Standards/WikiData/WD~seven_prismatic_colors,43213808]]'
 symbolizes:
-  - '[[_Standards/WikiData/WD~martyrdom,46999986]]'
-  - '[[_Standards/WikiData/WD~love,316]]'
-  - '[[_Standards/WikiData/WD~revolution,10931]]'
-  - '[[_Standards/WikiData/WD~happiness,8]]'
+- '[[_Standards/WikiData/WD~martyrdom,46999986]]'
+- '[[_Standards/WikiData/WD~love,316]]'
+- '[[_Standards/WikiData/WD~revolution,10931]]'
+- '[[_Standards/WikiData/WD~happiness,8]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~color,1075]]'
-  - '[[_Standards/WikiData/WD~light,9128]]'
+- '[[_Standards/WikiData/WD~color,1075]]'
+- '[[_Standards/WikiData/WD~light,9128]]'
 followed_by: '[[_Standards/WikiData/WD~orange,39338]]'
 frequency: 429000000000000
 wavelength: 685.5
@@ -34,18 +243,268 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Color%20icon%20red.svg
 sRGB_color_hex_triplet: FF0000
 Iconclass_notation: 22C4(RED)
 Dewey_Decimal_Classification:
-  - 535.6
-  - 701.85
+- 535.6
+- 701.85
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-vermell-spreadthesign.ogv
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-MARKELLOS-%CE%BA%CF%8C%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q3142-ar.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-MARKELLOS-%CE%BA%CF%8C%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q3142-ar.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Rood%20%28kleur%29-article.ogg
 P8189: 987007565762405171
 Wolfram_Language_entity_code: Entity["Color", {"Crayola", "Red"}]
 OpenStreetMap_tag_or_key: Tag:colour=red
+dv_has_:
+  name_:
+    aeb-arab: أحمر
+    af: rooi
+    am: ቀይ
+    an: royo
+    ang: rēad
+    anp: लाल
+    ar: أحمر
+    arc: ܣܘܡܩܐ
+    arq: حمر
+    ary: حمر
+    arz: احمر
+    ast: bermeyu
+    awa: लाल
+    ay: chupika
+    az: qırmızı
+    azb: قیٛرمیزی
+    ba: Ҡыҙыл төҫ
+    ban: Bang
+    bar: Roud
+    bcl: pula
+    bdr: darag
+    be: чырвоны
+    be-tarask: чырвоны колер
+    bg: червено
+    bho: लाल
+    bjn: habang
+    bn: লাল
+    bo: དམར་པོ།
+    br: ruz
+    bs: crvena
+    btm: Rara
+    bug: ᨌᨛᨒ
+    ca: roig
+    cdo: è̤ng-sáik
+    ce: цӏен
+    ceb: pula
+    ch: agaga'
+    cho: homma
+    chr: ᎩᎦᎨᎢ
+    ckb: سوور
+    cr: ᒥᐦᒀᐤ
+    crh: Qırmızı
+    cs: červená
+    csb: czerwòny
+    cu: красьнъ
+    cv: хĕрлĕ тĕс
+    cy: coch
+    da: rød
+    de: Rot
+    diq: sure
+    dsb: cerwjeń
+    dtp: aragang
+    dty: रातो
+    el: κόκκινο
+    en: red
+    en-ca: red
+    en-gb: red
+    en-us: red
+    eo: ruĝo
+    es: rojo
+    et: punane
+    eu: gorri
+    ext: roxu
+    fa: سرخ
+    fi: punainen
+    fj: Damudamu
+    fo: reyð
+    fr: rouge
+    frr: ruad
+    fur: ros
+    fy: read
+    ga: dearg
+    gan: 紅色
+    gl: vermello
+    gn: pytã
+    got: "\U00010342\U00010330\U0001033F\U00010338\U00010343"
+    grc: ἐρυθρός
+    guc: ishosü
+    gur: mɔlega
+    gv: jiarg
+    hak: fùng-set
+    haw: ʻulaʻula
+    he: אדום
+    hi: लाल
+    hif: laal
+    hr: crvena
+    hsb: čerwjena
+    ht: rouj
+    hu: vörös
+    hy: կարմիր
+    hyw: կարմիր
+    iba: Mirah
+    id: merah
+    ig: ūfie
+    ik: qaviqsaaq
+    inh: ЦӀе бос
+    io: reda
+    is: rauður
+    it: rosso
+    iu: ᐊᐅᐸᓗᒃᑐᖅ
+    ja: 赤
+    jbo: xunre
+    jv: abang
+    ka: წითელი
+    kbp: sɛmɩŋ
+    kcg: a̱shong
+    kea: burmedju
+    kge: Siyaw
+    kk: қызыл түс
+    km: ក្រហម
+    kn: ಕೆಂಪು
+    ko: 빨강
+    ks: وۄزُل
+    ku: sor
+    kw: rudh
+    la: ruber
+    lad: kolorado
+    lb: Rout
+    lbe: ятӏулсса
+    lfn: roja
+    lld: chécen
+    lmo: ross
+    ln: motané
+    lo: ສີແດງ
+    lt: raudona
+    ltg: sorkans
+    lv: sarkanā krāsa
+    lzh: 赤
+    map-bms: abang
+    mdf: якстерь
+    mi: whero
+    mk: црвена
+    ml: ചുവപ്പ്
+    mn: улаан
+    mni: ꯑꯉꯥꯡꯕ
+    mr: लाल
+    ms: merah
+    ms-arab: ميره
+    mt: aħmar
+    mwl: burmeilho
+    my: အနီရောင်
+    myv: якстере
+    mzn: سرخ
+    nah: chīchīltic
+    nan: âng-sek
+    nb: rødt
+    nds: root
+    ne: रातो
+    new: ह्यांगु
+    nl: rood
+    nn: raudt
+    nod: ᩈᩦᨯᩯ᩠ᨦ
+    nqo: ߥߎ߬ߟߋ߲߬ߡߊ߲
+    nrm: rouoge
+    nso: hwibidu
+    nv: łichííʼ
+    oc: roge
+    olo: ruskei
+    or: ନାଲି
+    os: сырх
+    pa: ਲਾਲ
+    pam: malutu
+    pap: korá
+    pcd: rouche
+    pdc: Rot
+    pl: czerwony
+    pnb: لال
+    ps: سور
+    pt: vermelho
+    pt-br: vermelho
+    pwn: qudjidjilj
+    qu: puka
+    ro: roșu
+    ru: красный
+    rup: aroșu
+    sa: रक्तः
+    sah: кыһыл
+    scn: russu
+    sco: reid
+    sd: ڳاڙهو
+    se: ruoksat
+    sgs: rauduona
+    sh: crveno
+    shn: သီလႅင်
+    si: රතු පාට
+    sje: ruappsat
+    sju: ruapssade
+    sk: červená
+    sl: rdeča
+    sma: rööpses
+    smj: ruoppsat
+    smn: ruopsâd
+    sms: ruõpssâd
+    sn: tsvuku
+    so: gaduud
+    sq: ngjyra e kuqe
+    sr: црвена
+    sr-ec: црвена
+    sr-el: crvena
+    stq: Rood
+    su: beureum
+    sv: röd
+    sw: nyekundu
+    szl: czerwiyń
+    szy: sumanahay
+    ta: சிவப்பு
+    tcy: ಕೆಂಪು
+    te: ఎరుపు
+    tg: сурх
+    th: สีแดง
+    tig: ቀየሕ
+    tl: pula
+    tly: sy
+    tok: loje
+    tpi: ret
+    tr: kırmızı
+    ts: tshwuka
+    tt: кызыл
+    tt-cyrl: кызыл
+    tt-latn: qızıl
+    ty: ’ute’ute
+    udm: горд
+    ug: قىزىل رەڭ
+    uk: червоний
+    ur: سرخ
+    uz: qizil
+    vec: roso
+    vep: rusked muju
+    vi: đỏ
+    vro: punanõ
+    wa: Rodje
+    war: pula
+    wo: xonq
+    wuu: 紅
+    xmf: ჭითა
+    yi: רויט
+    yo: pupa
+    yue: 紅
+    za: saekhoengz
+    zh: 紅色
+    zh-cn: 红色
+    zh-hans: 红色
+    zh-hant: 紅色
+    zh-hk: 紅色
+    zh-mo: 紅色
+    zh-my: 红色
+    zh-sg: 红色
+    zh-tw: 紅色
+    zu: Okubomvu
 ---
-
 # [[Red]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Red,3142|WD~Red,3142]] 

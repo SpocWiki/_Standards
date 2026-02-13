@@ -1,19 +1,83 @@
 ---
 aliases:
-  - Upanishaden
-  - उपनिषद्,
-  - Upanishads
+- Upanisad
+- Upanisadok
+- Upanischaden
+- Upanishad
+- Upanishadau
+- Upanishaden
+- Upanishadene
+- Upanishaderna
+- Upanishaderne
+- Upanishadet
+- Upanishadlar
+- Upanishads
+- Upanisjad
+- Upaniszady
+- Upanixad
+- Upanixade
+- Upaniŝadoj
+- Upanişadlar
+- Upanišadas
+- Upanišade
+- Upanišadid
+- Upanišadiq
+- Upanišados
+- Upanišady
+- Upanișade
+- Upaniṣad
+- Upinšade
+- Áo nghĩa thư
+- Ουπανισάδες
+- Упанішади
+- Упанішады
+- Упанишаддар
+- Упанишаде
+- Упанишади
+- Упанишадтар
+- Упанишады
+- Ուպանիշադներ
+- אופנישדות
+- ئوپانیشادەکان
+- الأبانيشاد
+- اوپانیشاد
+- اوپانیشتاد
+- اپنشد
+- اپنیشد
+- उपनिषद
+- उपनिषद धलः
+- उपनिषदः
+- उपनिषदे
+- उपनिषद्
+- उपनिषद्,
+- উপনিষদ
+- উপনিষদ্
+- ਉਪਨਿਸ਼ਦ
+- ઉપનિષદ
+- ଉପନିଷଦ
+- உபநிடதம்
+- ఉపనిషత్తు
+- ಉಪನಿಷತ್
+- ഉപനിഷത്ത്
+- อุปนิษัท
+- უპანიშადები
+- უპანიშადეფი
+- ウパニシャッド
+- 奥义书
+- 奧義書
+- ꯎꯄꯅꯤꯁꯗ
+- 우파니샤드
 has_id_wikidata: Q6113985
 subclass_of:
-  - '[[_Standards/WikiData/WD~religious_text,179461]]'
-  - '[[_Standards/WikiData/WD~Hindu_text,1194040]]'
-  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~religious_text,179461]]'
+- '[[_Standards/WikiData/WD~Hindu_text,1194040]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_part_s_: '[[_Standards/WikiData/WD~Mukhya_Upanishads,773498]]'
 has_list: '[[_Standards/WikiData/WD~list_of_Upanishads,3242813]]'
 genre: '[[_Standards/WikiData/WD~religious_literature,12617225]]'
@@ -24,8 +88,112 @@ Libris_URI: b8nrzwpv4m6tcrv
 Colon_Classification: Q1:24
 Commons_category: Upanishads
 native_label: उपनिषद्
+dv_has_:
+  name_:
+    af: Upanishad
+    anp: उपनिषद
+    ar: الأبانيشاد
+    as: উপনিষদ
+    ast: Upanishad
+    az: Upanişadlar
+    bcl: Upanishad
+    be: Упанішады
+    be-tarask: Упанішады
+    bg: Упанишади
+    bho: उपनिषद
+    bjn: Upanisad
+    bn: উপনিষদ্
+    ca: Upanixad
+    ckb: ئوپانیشادەکان
+    cs: Upanišady
+    cy: Upanishadau
+    da: Upanishaderne
+    de: Upanishaden
+    el: Ουπανισάδες
+    en: Upanishads
+    eo: Upaniŝadoj
+    es: Upanishad
+    et: Upanišadid
+    eu: Upanishad
+    fa: اوپانیشاد
+    fi: Upanishad
+    fr: Upanishad
+    fy: Upanishad
+    gcr: Upanishad
+    gl: Upanishads
+    gom: उपनिषद्
+    gom-deva: उपनिषद्
+    gom-latn: Upanishads
+    gu: ઉપનિષદ
+    he: אופנישדות
+    hi: उपनिषद्
+    hif: Upanishad
+    hu: Upanisadok
+    hy: Ուպանիշադներ
+    id: Upanisad
+    is: Upanishad
+    it: Upaniṣad
+    ja: ウパニシャッド
+    jam: Upanishad
+    jv: Upanisad
+    ka: უპანიშადები
+    kk: Упанишадтар
+    kn: ಉಪನಿಷತ್
+    ko: 우파니샤드
+    ky: Упанишаддар
+    la: Upanishad
+    lt: Upanišados
+    lv: Upanišadas
+    mag: उपनिषद्
+    mk: Упанишади
+    ml: ഉപനിഷത്ത്
+    mni: ꯎꯄꯅꯤꯁꯗ
+    mr: उपनिषदे
+    ms: Upanishad
+    mzn: اوپانیشتاد
+    nan: Upanishad
+    nb: Upanishadene
+    nds: Upanischaden
+    ne: उपनिषद्
+    new: उपनिषद धलः
+    nl: Upanishad
+    nn: Upanisjad
+    or: ଉପନିଷଦ
+    pa: ਉਪਨਿਸ਼ਦ
+    pi: उपनिषद
+    pl: Upaniszady
+    pnb: اپنشد
+    pt: Upanixade
+    ro: Upanișade
+    ru: Упанишады
+    sa: उपनिषदः
+    sd: اپنشد
+    sh: Upanišade
+    sk: Upanišady
+    sl: Upinšade
+    sq: Upanishadet
+    sr: Упанишаде
+    sr-ec: Упанишаде
+    sr-el: Upanišade
+    sv: Upanishaderna
+    ta: உபநிடதம்
+    te: ఉపనిషత్తు
+    th: อุปนิษัท
+    tl: Upanishad
+    tr: Upanişadlar
+    uk: Упанішади
+    ur: اپنیشد
+    uz: Upanishadlar
+    vi: Áo nghĩa thư
+    vro: Upanišadiq
+    wuu: 奥义书
+    xmf: უპანიშადეფი
+    yue: 奧義書
+    zh: 奥义书
+    zh-hans: 奥义书
+    zh-hant: 奧義書
+    zh-hk: 奧義書
 ---
-
 # [[Upanishads]] 
 
 #is_/same_as :: [[WD~Upanishads,6113985]] 

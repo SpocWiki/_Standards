@@ -1,4 +1,84 @@
-
+---
+has_id_wikidata: Q13360072
+dv_has_:
+  name_:
+    ar: بكتيريا حمض اللبن
+    be: Малочнакіслыя бактэрыі
+    be-tarask: малочнаквасныя бактэрыі
+    bn: ল্যাকটিক এসিড ব্যাকটেরিয়া
+    ca: bacteris làctics
+    cs: bakterie mléčného kvašení
+    da: mælkesyrebakterie
+    de: Milchsäurebakterien
+    el: βακτήρια γαλακτικού οξέος
+    en: lactic acid bacteria
+    es: Cultivos lácticos
+    et: Piimhappebakterid
+    eu: bakterio laktiko
+    fa: باکتری اسید لاکتیک
+    fi: Maitohappobakteeri
+    fr: bactérie lactique
+    he: חיידקי החומצה הלקטית
+    hr: Bakterije mliječne kiseline
+    hu: tejsavbaktériumok
+    hy: Կաթնաթթվային բակտերիաներ
+    id: Bakteri asam laktat
+    is: Mjólkursýrugerlar
+    ja: 乳酸菌
+    ka: რძემჟავის ბაქტერიები
+    ko: 유산균
+    mk: млечнокиселински бактерии
+    nb: melkesyrebakterier
+    nl: melkzuurbacteriën
+    nn: mjølkesyrebakteriar
+    pl: bakterie mlekowe
+    pt: Bactérias ácido-láticas
+    ru: молочнокислые бактерии
+    sl: mlečnokislinske bakterije
+    sr: бактерије млечне киселине
+    sr-ec: бактерије млечне киселине
+    sr-el: bakterije mlečne kiseline
+    uk: молочнокислі бактерії
+    zh: 乳杆菌目
+aliases:
+- bacteris làctics
+- Bactérias ácido-láticas
+- bactérie lactique
+- Bakteri asam laktat
+- bakterie mlekowe
+- bakterie mléčného kvašení
+- bakterije mlečne kiseline
+- Bakterije mliječne kiseline
+- bakterio laktiko
+- Cultivos lácticos
+- lactic acid bacteria
+- Maitohappobakteeri
+- melkesyrebakterier
+- melkzuurbacteriën
+- Milchsäurebakterien
+- Mjólkursýrugerlar
+- mjølkesyrebakteriar
+- mlečnokislinske bakterije
+- mælkesyrebakterie
+- Piimhappebakterid
+- tejsavbaktériumok
+- βακτήρια γαλακτικού οξέος
+- бактерије млечне киселине
+- Малочнакіслыя бактэрыі
+- малочнаквасныя бактэрыі
+- млечнокиселински бактерии
+- молочнокислі бактерії
+- молочнокислые бактерии
+- Կաթնաթթվային բակտերիաներ
+- חיידקי החומצה הלקטית
+- باکتری اسید لاکتیک
+- بكتيريا حمض اللبن
+- ল্যাকটিক এসিড ব্যাকটেরিয়া
+- რძემჟავის ბაქტერიები
+- 乳杆菌目
+- 乳酸菌
+- 유산균
+---
 ## #has_/text_of_/abstract 
 
 > **Lactobacillales** are an order of gram-positive, low-GC, acid-tolerant, generally nonsporulating, nonrespiring, 

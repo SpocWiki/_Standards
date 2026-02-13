@@ -1,54 +1,76 @@
 ---
 dv_is_:
   same_as:
-    - "[[WD~The_Gherkin]]"
-    - "[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]"
-    - "[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]"
-    - "[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]]"
-    - "[[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]]"
-    - "[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]"
+  - '[[WD~The_Gherkin]]'
+  - '[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]'
+  - '[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]'
+  - '[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]]'
+  - '[[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]]'
+  - '[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]'
 dv_is_same_as:
-  - "[[WD~The_Gherkin]]"
-  - "[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]"
-  - "[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]"
-  - "[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]]"
-  - "[[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]]"
-  - "[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]"
-
-has_time_started: 2004-01-01 
+- '[[WD~The_Gherkin]]'
+- '[[/_Standards/Earth/Geography/Place/Gherkin,London|Gherkin,London]]'
+- '[[/_public/Earth/Geography/Place/Gherkin,London.public|Gherkin,London.public]]'
+- '[[/_internal/Earth/Geography/Place/Gherkin,London.internal|Gherkin,London.internal]]'
+- '[[/_protect/Earth/Geography/Place/Gherkin,London.protect|Gherkin,London.protect]]'
+- '[[/_private/Earth/Geography/Place/Gherkin,London.private|Gherkin,London.private]]'
+- '[[/_personal/Earth/Geography/Place/Gherkin,London.personal|Gherkin,London.personal]]'
+- '[[/_secret/Earth/Geography/Place/Gherkin,London.secret|Gherkin,London.secret]]'
+has_time_started: 2004-01-01
 aliases:
-  - Swiss Re Building
-  - 30 Saint Mary Axe
-  - The Gherkin
-  - Gherkin,London
+- 30 Saint Mary Axe
+- 30 Sancta Maria Apud Ax
+- 30 St Mary Axe
+- 30 سینٹ میری ایکس
+- 30 சென் மேரி அக்ஸ்
+- 30 സെയിന്റ് മേരി ആക്സ്
+- 30 เซ็นต์แมรีแอกซ์
+- 30 세인트 메리 액스
+- 30セント・メリー・アクス
+- Gherkin,London
+- Meri-eks göydələni
+- St. Mary Axe 30
+- Swiss Re Building
+- The Gherkin
+- Небоскрёб Мэри-Экс
+- Сент Мери Ејкс 30
+- Сент Мери Екс
+- Сент-Мері Екс 30
+- Сент-Мэры Экс 30
+- Մերի Էքս երկնաքեր
+- מגדל סוויס רה
+- برج سويس رى
+- برج سويس ري
+- تبر سنت ماری ۳۰
+- გერკინი
+- 圣玛莉艾克斯30号大楼
+- 聖瑪莉艾克斯30號大樓
 has_id_wikidata: Q191161
 architect:
-  - '[[_Standards/WikiData/WD~Norman_Foster,104898]]'
-  - '[[_Standards/WikiData/WD~Foster_and_Partners,1208016]]'
-  - '[[_Standards/WikiData/WD~Ken_Shuttleworth,6388488]]'
+- '[[_Standards/WikiData/WD~Norman_Foster,104898]]'
+- '[[_Standards/WikiData/WD~Foster_and_Partners,1208016]]'
+- '[[_Standards/WikiData/WD~Ken_Shuttleworth,6388488]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~construction,385378]]'
-  - '[[_Standards/WikiData/WD~occupancy,7075743]]'
+- '[[_Standards/WikiData/WD~construction,385378]]'
+- '[[_Standards/WikiData/WD~occupancy,7075743]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~skyscraper,11303]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~skyscraper,11303]]'
 occupant: '[[_Standards/WikiData/WD~Swiss_Re,605565]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Swiss_Re,605565]]'
-  - '[[_Standards/WikiData/WD~pickled_cucumber,1365891]]'
+- '[[_Standards/WikiData/WD~Swiss_Re,605565]]'
+- '[[_Standards/WikiData/WD~pickled_cucumber,1365891]]'
 structural_engineer: '[[_Standards/WikiData/WD~Arup,716737]]'
 main_building_contractor: '[[_Standards/WikiData/WD~Skanska_AB,1537811]]'
 owned_by: '[[_Standards/WikiData/WD~Safra_Group,7398834]]'
 located_on_street: '[[_Standards/WikiData/WD~St._Mary_Axe,7590464]]'
 structure_replaces: '[[_Standards/WikiData/WD~Baltic_Exchange,22087317]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~steel,11427]]'
-  - '[[_Standards/WikiData/WD~glass,11469]]'
-  - '[[_Standards/WikiData/WD~concrete,22657]]'
+- '[[_Standards/WikiData/WD~steel,11427]]'
+- '[[_Standards/WikiData/WD~glass,11469]]'
+- '[[_Standards/WikiData/WD~concrete,22657]]'
 historic_county: '[[_Standards/WikiData/WD~Middlesex,19186]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~City_of_London,23311]]'
 country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
@@ -56,8 +78,8 @@ height: 250
 number_of_elevators: 26
 floors_above_ground: 41
 capital_cost:
-  - 138000000
-  - 90600000
+- 138000000
+- 90600000
 Commons_gallery: 30 St Mary Axe
 Commons_category: 30 St Mary Axe
 image: http://commons.wikimedia.org/wiki/Special:FilePath/30%20St%20Mary%20Axe%20from%20Leadenhall%20Street.jpg
@@ -70,8 +92,65 @@ native_label: 30 St Mary Axe
 date_of_official_opening: 2004-01-01T00:00:00Z
 inception: 2004-01-01T00:00:00Z
 coordinate_location: Point(-0.080277777 51.514444444)
+dv_has_:
+  name_:
+    af: 30 St Mary Axe
+    ar: برج سويس ري
+    arz: برج سويس رى
+    az: Meri-eks göydələni
+    be: Сент-Мэры Экс 30
+    ca: 30 St Mary Axe
+    cs: 30 St Mary Axe
+    cy: 30 St Mary Axe
+    da: St. Mary Axe 30
+    de: 30 St Mary Axe
+    en: 30 St Mary Axe
+    es: 30 St Mary Axe
+    et: 30 St Mary Axe
+    eu: 30 St Mary Axe
+    fa: تبر سنت ماری ۳۰
+    fi: 30 St Mary Axe
+    fr: 30 St Mary Axe
+    he: מגדל סוויס רה
+    hu: 30 St Mary Axe
+    hy: Մերի Էքս երկնաքեր
+    id: 30 St Mary Axe
+    it: 30 St Mary Axe
+    ja: 30セント・メリー・アクス
+    jv: 30 St Mary Axe
+    ka: გერკინი
+    ko: 30 세인트 메리 액스
+    la: 30 Sancta Maria Apud Ax
+    lt: 30 St Mary Axe
+    mg: 30 St Mary Axe
+    mk: Сент Мери Екс
+    ml: 30 സെയിന്റ് മേരി ആക്സ്
+    ms: 30 St Mary Axe
+    nb: 30 St Mary Axe
+    nl: 30 St Mary Axe
+    nn: 30 St Mary Axe
+    pl: 30 St Mary Axe
+    pt: 30 St Mary Axe
+    ru: Небоскрёб Мэри-Экс
+    sco: 30 St Mary Axe
+    sk: 30 St Mary Axe
+    sl: 30 St Mary Axe
+    sr: Сент Мери Ејкс 30
+    sv: 30 St Mary Axe
+    ta: 30 சென் மேரி அக்ஸ்
+    th: 30 เซ็นต์แมรีแอกซ์
+    tr: 30 St Mary Axe
+    uk: Сент-Мері Екс 30
+    ur: 30 سینٹ میری ایکس
+    vi: 30 St Mary Axe
+    zh: 聖瑪莉艾克斯30號大樓
+    zh-cn: 圣玛莉艾克斯30号大楼
+    zh-hans: 圣玛莉艾克斯30号大楼
+    zh-hant: 聖瑪莉艾克斯30號大樓
+    zh-hk: 聖瑪莉艾克斯30號大樓
+    zh-sg: 圣玛莉艾克斯30号大楼
+    zh-tw: 聖瑪莉艾克斯30號大樓
 ---
-
 # [[Gherkin,London]] 
 
 ![[../../../assets/Gherkin,London.png]] 

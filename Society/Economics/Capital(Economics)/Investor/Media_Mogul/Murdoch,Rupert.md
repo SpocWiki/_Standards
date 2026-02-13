@@ -1,10 +1,45 @@
 ---
 aliases:
-  - Rupert_Murdoch
-  - Keith Rupert Murdoch
-  - Rupert Murdoch
-  - Murdoch
-  - Murdoch,Rupert
+- Keith Rupert Murdoch
+- Murdoch
+- Murdoch,Rupert
+- Rupert Murdoch
+- Ruperts Mērdoks
+- Rupertus Murdoch
+- Rupert_Murdoch
+- Ρούπερτ Μέρντοχ
+- Мөрдок, Руперт
+- Руперт Мёрдак
+- Руперт Мёрдок
+- Руперт Мердок
+- Руперт Мөрдок
+- Рупърт Мърдок
+- Рупэрт Мэрдак
+- Ռուպերտ Մերդոք
+- רופערט מורדאק
+- רופרט מרדוק
+- رابئرت مورداک
+- روبرت مردوخ
+- روپرت مرداک
+- روپرٹ مردوخ
+- ڕوپرت مرداک
+- रुपर्ट मरडॉक
+- रुपर्ट मर्डोक
+- রুপার্ট মার্ডক
+- ਰੂਪਰਟ ਮਰਡੌਕ
+- ரூப்பர்ட் மர்டாக்
+- రూపర్ట్ ముర్డోక్
+- ರುಪರ್ಟ್ ಮುರ್ಡೋಕ್
+- റുപേർട്ട് മർഡോക്ക്
+- รูเพิร์ต เมอร์ด็อค
+- რუპერტ მერდოკი
+- ルパート・マードック
+- 魯珀特·梅鐸
+- 魯珀特·默多克
+- 魯珀特梅鐸
+- 鲁伯特·默多克
+- 鲁珀特·默多克
+- 루퍼트 머독
 has_id_wikidata: Q53944
 RIA_Novosti_reference: 1387314961
 Plex_person_key: 5d776916ad5437001f757944
@@ -14,83 +49,215 @@ X_Twitter_username: rupertmurdoch
 birth_name: Keith Rupert Murdoch
 work_period_end_: 2023-01-01T00:00:00Z
 occupation:
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~media_proprietor,1420621]]"
-  - "[[_Standards/WikiData/WD~financier,1979607]]"
-  - "[[_Standards/WikiData/WD~publisher,2516866]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
-position_held: "[[_Standards/WikiData/WD~chairperson,140686]]"
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~media_proprietor,1420621]]'
+- '[[_Standards/WikiData/WD~financier,1979607]]'
+- '[[_Standards/WikiData/WD~publisher,2516866]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
+position_held: '[[_Standards/WikiData/WD~chairperson,140686]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jerry_Hall,239476]]"
-  - "[[_Standards/WikiData/WD~Wendi_Murdoch,2213516]]"
-  - "[[_Standards/WikiData/WD~Anna_Murdoch_Mann,15522089]]"
-  - "[[_Standards/WikiData/WD~Patricia_Booker,23002984]]"
-  - "[[_Standards/WikiData/WD~Elena_Zhukova,126360949]]"
+- '[[_Standards/WikiData/WD~Jerry_Hall,239476]]'
+- '[[_Standards/WikiData/WD~Wendi_Murdoch,2213516]]'
+- '[[_Standards/WikiData/WD~Anna_Murdoch_Mann,15522089]]'
+- '[[_Standards/WikiData/WD~Patricia_Booker,23002984]]'
+- '[[_Standards/WikiData/WD~Elena_Zhukova,126360949]]'
 child:
-  - "[[_Standards/WikiData/WD~James_Murdoch,471851]]"
-  - "[[_Standards/WikiData/WD~Elisabeth_Murdoch,3051101]]"
-  - "[[_Standards/WikiData/WD~Lachlan_Murdoch,3215817]]"
-  - "[[_Standards/WikiData/WD~Grace_Helen_Murdoch,23005272]]"
-  - "[[_Standards/WikiData/WD~Chloe_Murdoch,23005288]]"
-  - "[[_Standards/WikiData/WD~Prudence_Murdoch,26924403]]"
+- '[[_Standards/WikiData/WD~James_Murdoch,471851]]'
+- '[[_Standards/WikiData/WD~Elisabeth_Murdoch,3051101]]'
+- '[[_Standards/WikiData/WD~Lachlan_Murdoch,3215817]]'
+- '[[_Standards/WikiData/WD~Grace_Helen_Murdoch,23005272]]'
+- '[[_Standards/WikiData/WD~Chloe_Murdoch,23005288]]'
+- '[[_Standards/WikiData/WD~Prudence_Murdoch,26924403]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Geelong_Grammar_School,633448]]"
-  - "[[_Standards/WikiData/WD~Worcester_College,780745]]"
-  - "[[_Standards/WikiData/WD~University_of_Oxford,34433]]"
-mother: "[[_Standards/WikiData/WD~Elisabeth_Murdoch,713195]]"
+- '[[_Standards/WikiData/WD~Geelong_Grammar_School,633448]]'
+- '[[_Standards/WikiData/WD~Worcester_College,780745]]'
+- '[[_Standards/WikiData/WD~University_of_Oxford,34433]]'
+mother: '[[_Standards/WikiData/WD~Elisabeth_Murdoch,713195]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Keith,1159033]]"
-  - "[[_Standards/WikiData/WD~Rupert,19688756]]"
+- '[[_Standards/WikiData/WD~Keith,1159033]]'
+- '[[_Standards/WikiData/WD~Rupert,19688756]]'
 residence:
-  - "[[_Standards/WikiData/WD~Yass,1380121]]"
-  - "[[_Standards/WikiData/WD~Melbourne,3141]]"
-  - "[[_Standards/WikiData/WD~Adelaide,5112]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
+- '[[_Standards/WikiData/WD~Yass,1380121]]'
+- '[[_Standards/WikiData/WD~Melbourne,3141]]'
+- '[[_Standards/WikiData/WD~Adelaide,5112]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Centenary_Medal,2393205]]"
-  - "[[_Standards/WikiData/WD~Bodley_Medal,4936657]]"
-  - "[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]"
-  - "[[_Standards/WikiData/WD~Companion_of_the_Order_of_Australia,9680541]]"
-  - "[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Gregory_the_Great,13501112]]"
-  - "[[_Standards/WikiData/WD~Commander_First_Class_of_the_Order_of_the_White_Rose_of_Finland,23774377]]"
-  - "[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]"
-father: "[[_Standards/WikiData/WD~Keith_Murdoch,3132687]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family: "[[_Standards/WikiData/WD~Murdoch_family,16658878]]"
+- '[[_Standards/WikiData/WD~Centenary_Medal,2393205]]'
+- '[[_Standards/WikiData/WD~Bodley_Medal,4936657]]'
+- '[[_Standards/WikiData/WD~Financial_Times_Person_of_the_Year,5449677]]'
+- '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Australia,9680541]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_St._Gregory_the_Great,13501112]]'
+- '[[_Standards/WikiData/WD~Commander_First_Class_of_the_Order_of_the_White_Rose_of_Finland,23774377]]'
+- '[[_Standards/WikiData/WD~Great_Immigrants_Award,121359767]]'
+father: '[[_Standards/WikiData/WD~Keith_Murdoch,3132687]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family: '[[_Standards/WikiData/WD~Murdoch_family,16658878]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]"
-  - "[[_Standards/WikiData/WD~Billy_Ireland_Cartoon_Library_&_Museum_biographical_files,58488719]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-family_name: "[[_Standards/WikiData/WD~Murdoch,21071761]]"
-depicted_by: "[[_Standards/WikiData/WD~(Keith)_Rupert_Murdoch,28052418]]"
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+- '[[_Standards/WikiData/WD~Billy_Ireland_Cartoon_Library_&_Museum_biographical_files,58488719]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+family_name: '[[_Standards/WikiData/WD~Murdoch,21071761]]'
+depicted_by: '[[_Standards/WikiData/WD~(Keith)_Rupert_Murdoch,28052418]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Janet_Calvert_Jones,76040516]]"
-  - "[[_Standards/WikiData/WD~Anne_Kantor,76040517]]"
-  - "[[_Standards/WikiData/WD~Helen_Handbury,76061867]]"
+- '[[_Standards/WikiData/WD~Janet_Calvert_Jones,76040516]]'
+- '[[_Standards/WikiData/WD~Anne_Kantor,76040517]]'
+- '[[_Standards/WikiData/WD~Helen_Handbury,76061867]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-place_of_birth: "[[_Standards/WikiData/WD~Melbourne,3141]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+place_of_birth: '[[_Standards/WikiData/WD~Melbourne,3141]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 number_of_children: 6
 net_worth:
-  - 19400000000
-  - 7170000000
+- 19400000000
+- 7170000000
 social_media_followers: 664437
 described_at_URL:
-  - https://www.bloomberg.com/billionaires/profiles/keith-r-murdoch/
-  - https://www.sourcewatch.org/index.php/K._Rupert_Murdoch
+- https://www.bloomberg.com/billionaires/profiles/keith-r-murdoch/
+- https://www.sourcewatch.org/index.php/K._Rupert_Murdoch
 work_period_start_: 1952-01-01T00:00:00Z
 Commons_category: Rupert Murdoch
 date_of_birth: 1931-03-11T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rupert%20Murdoch%20-%20Flickr%20-%20Eva%20Rinaldi%20Celebrity%20and%20Live%20Music%20Photographer.jpg
 ISNI: 114764923
+dv_has_:
+  name_:
+    af: Rupert Murdoch
+    an: Rupert Murdoch
+    ang: Rupert Murdoch
+    ar: روبرت مردوخ
+    arz: روبرت مردوخ
+    ast: Rupert Murdoch
+    azb: روپرت مرداک
+    bar: Rupert Murdoch
+    bcl: Rupert Murdoch
+    be: Руперт Мёрдак
+    be-tarask: Рупэрт Мэрдак
+    bg: Рупърт Мърдок
+    bn: রুপার্ট মার্ডক
+    br: Rupert Murdoch
+    ca: Rupert Murdoch
+    ckb: ڕوپرت مرداک
+    co: Rupert Murdoch
+    cs: Rupert Murdoch
+    cy: Rupert Murdoch
+    da: Rupert Murdoch
+    de: Rupert Murdoch
+    de-at: Rupert Murdoch
+    de-ch: Rupert Murdoch
+    el: Ρούπερτ Μέρντοχ
+    en: Rupert Murdoch
+    en-ca: Rupert Murdoch
+    en-gb: Rupert Murdoch
+    eo: Rupert Murdoch
+    es: Rupert Murdoch
+    et: Rupert Murdoch
+    eu: Rupert Murdoch
+    fa: روپرت مرداک
+    fi: Rupert Murdoch
+    fr: Rupert Murdoch
+    frp: Rupert Murdoch
+    fur: Rupert Murdoch
+    fy: Rupert Murdoch
+    ga: Rupert Murdoch
+    gd: Rupert Murdoch
+    gl: Rupert Murdoch
+    gsw: Rupert Murdoch
+    he: רופרט מרדוק
+    hi: रुपर्ट मर्डोक
+    hr: Rupert Murdoch
+    hu: Rupert Murdoch
+    hy: Ռուպերտ Մերդոք
+    ia: Rupert Murdoch
+    id: Rupert Murdoch
+    ie: Rupert Murdoch
+    io: Rupert Murdoch
+    is: Rupert Murdoch
+    it: Rupert Murdoch
+    ja: ルパート・マードック
+    ka: რუპერტ მერდოკი
+    kg: Rupert Murdoch
+    kk: Руперт Мердок
+    kn: ರುಪರ್ಟ್ ಮುರ್ಡೋಕ್
+    ko: 루퍼트 머독
+    ky: Мөрдок, Руперт
+    la: Rupertus Murdoch
+    lb: Rupert Murdoch
+    lfn: Rupert Murdoch
+    li: Rupert Murdoch
+    lij: Rupert Murdoch
+    lrc: رابئرت مورداک
+    lt: Rupert Murdoch
+    lv: Ruperts Mērdoks
+    mai: रुपर्ट मर्डोक
+    mg: Rupert Murdoch
+    min: Rupert Murdoch
+    ml: റുപേർട്ട് മർഡോക്ക്
+    mn: Руперт Мёрдок
+    mr: रुपर्ट मरडॉक
+    ms: Rupert Murdoch
+    mul: Rupert Murdoch
+    nan: Rupert Murdoch
+    nap: Rupert Murdoch
+    nb: Rupert Murdoch
+    nds: Rupert Murdoch
+    nds-nl: Rupert Murdoch
+    ne: रुपर्ट मर्डोक
+    nl: Rupert Murdoch
+    nn: Rupert Murdoch
+    nrm: Rupert Murdoch
+    nys: Rupert Murdoch
+    oc: Rupert Murdoch
+    pa: ਰੂਪਰਟ ਮਰਡੌਕ
+    pcd: Rupert Murdoch
+    pl: Rupert Murdoch
+    pms: Rupert Murdoch
+    pt: Rupert Murdoch
+    pt-br: Rupert Murdoch
+    rm: Rupert Murdoch
+    ro: Rupert Murdoch
+    ru: Руперт Мёрдок
+    sc: Rupert Murdoch
+    scn: Rupert Murdoch
+    sco: Rupert Murdoch
+    sh: Rupert Murdoch
+    sk: Rupert Murdoch
+    sl: Rupert Murdoch
+    sq: Rupert Murdoch
+    sr: Руперт Мердок
+    sr-el: Rupert Murdoch
+    sv: Rupert Murdoch
+    sw: Rupert Murdoch
+    ta: ரூப்பர்ட் மர்டாக்
+    te: రూపర్ట్ ముర్డోక్
+    tg: Руперт Мёрдок
+    th: รูเพิร์ต เมอร์ด็อค
+    tk: Rupert Murdoch
+    tr: Rupert Murdoch
+    tt: Руперт Мөрдок
+    tt-cyrl: Руперт Мөрдок
+    uk: Руперт Мердок
+    ur: روپرٹ مردوخ
+    vec: Rupert Murdoch
+    vi: Rupert Murdoch
+    vls: Rupert Murdoch
+    vo: Rupert Murdoch
+    wa: Rupert Murdoch
+    wo: Rupert Murdoch
+    wuu: 鲁伯特·默多克
+    yi: רופערט מורדאק
+    yue: 魯珀特梅鐸
+    zh: 鲁珀特·默多克
+    zh-cn: 鲁珀特·默多克
+    zh-hans: 鲁珀特·默多克
+    zh-hant: 魯珀特·默多克
+    zh-hk: 魯珀特·梅鐸
+    zu: Rupert Murdoch
 ---
-
 # [[Murdoch,Rupert]] 
 
 #is_/same_as :: [[WD~Rupert_Murdoch,53944]] 

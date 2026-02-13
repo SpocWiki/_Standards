@@ -1,25 +1,71 @@
 ---
 aliases:
-  - Sarcopterygii
-  - Sarc
-  - Actinopterígio
-  - nozdratí
-  - Fleischflosser
-  - Lobe-finned fishes
-  - Lihasuimsed
-  - Sagaruimsed
-  - Varsieväiset kalat
-  - Sarcoptérygiens
-  - Mesoperke
-  - Bojtosúszójú halak
-  - 肉鰭綱
-  - kjøttfinnefisker
-  - mięśniopłetwe
-  - mesnatoplavutarice
-  - Et yüzgeçliler
-  - Kas yüzgeçliler
-  - Лопастепері
-  - 肉鳍鱼
+- Actinopterígio
+- Aycha wayt'ana
+- Bojtosúszójú halak
+- Daivspurzivis
+- Et yüzgeçliler
+- Fleischflosser
+- Flääskflikerten
+- Holduggar
+- Ika kaponga uoua
+- Isda nga adunay langodngod ang kapay
+- izmosúszójú halak
+- Kas yüzgeçliler
+- kjøtfinnefiskar
+- kjøttfinnefisker
+- kwastvinnigen
+- lihaseväiset
+- Lihasuimsed
+- Lobe-finned fishes
+- lobfeniga fiskar
+- Lớp Cá vây thùy
+- mesnatoplavutarice
+- Mesoperke
+- mięśniopłetwe
+- mėsingapelekės žuvys
+- nozdratí
+- Násadcoplutvovce
+- Qalaqqanattılar
+- Sagaruimsed
+- Sarc
+- Sarcopterigieni
+- sarcopterigis
+- Sarcopterixios
+- Sarcopterygii
+- Sarcoptérygiens
+- Sarkopterigije
+- Sarkopterigoj
+- svaloploutví
+- Varsieväiset kalat
+- Xoanlar
+- Σαρκοπτερύγιοι
+- Бараканаттар
+- лопастепёрые рыбы
+- Лопастепері
+- лопасцевапёрыя рыбы
+- лопасьцепёрыя
+- лопатепері
+- Резноперки
+- ръкоперки
+- Саркоптеригије
+- Қалаққанаттылар
+- בעלי סנפירים בשרניים
+- ائت یوزگئچلی لر
+- قالاققاناتتىلار
+- لحميات الزعانف
+- گوشتیبالگان
+- सार्कोप्टरिजियाए
+- সার্কোপটেরিজি
+- ปลาที่มีครีบเป็นพู่
+- მტევანფარფლიანები
+- 肉鰭綱
+- 肉鰭類
+- 肉鰭魚
+- 肉鰭魚總綱
+- 肉鳍鱼
+- 肉鳍鱼总纲
+- 육기어류
 has_id_wikidata: Q160830
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Osteichthyes
@@ -27,40 +73,134 @@ Commons_gallery: Sarcopterygii
 EPPO_Code: 1SARCC
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Latimeria%20chalumnae01.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~clade,713623]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~clade,713623]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 161048
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcopterygii.png
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Euteleostomi,1378800]]'
-  - '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
+- '[[_Standards/WikiData/WD~Euteleostomi,1378800]]'
+- '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
 start_time: -423000000-01-01
 taxon_common_name:
-  - Actinopterígio
-  - nozdratí
-  - Fleischflosser
-  - Lobe-finned fishes
-  - Lihasuimsed
-  - Sagaruimsed
-  - Varsieväiset kalat
-  - Sarcoptérygiens
-  - Mesoperke
-  - Bojtosúszójú halak
-  - 肉鰭綱
-  - kjøttfinnefisker
-  - mięśniopłetwe
-  - mesnatoplavutarice
-  - Et yüzgeçliler
-  - Kas yüzgeçliler
-  - Лопастепері
-  - 肉鳍鱼
+- Actinopterígio
+- nozdratí
+- Fleischflosser
+- Lobe-finned fishes
+- Lihasuimsed
+- Sagaruimsed
+- Varsieväiset kalat
+- Sarcoptérygiens
+- Mesoperke
+- Bojtosúszójú halak
+- 肉鰭綱
+- kjøttfinnefisker
+- mięśniopłetwe
+- mesnatoplavutarice
+- Et yüzgeçliler
+- Kas yüzgeçliler
+- Лопастепері
+- 肉鳍鱼
 taxon_name: Sarcopterygii
 taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
 title: Sarcopterygii
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126]]'
 UMLS_CUI: C1081145
+dv_has_:
+  name_:
+    af: Sarcopterygii
+    an: Sarcopterygii
+    ar: لحميات الزعانف
+    arz: لحميات الزعانف
+    ast: Sarcopterygii
+    az: Xoanlar
+    azb: ائت یوزگئچلی لر
+    be: лопасцевапёрыя рыбы
+    be-tarask: лопасьцепёрыя
+    bg: ръкоперки
+    bn: সার্কোপটেরিজি
+    ca: sarcopterigis
+    ceb: Isda nga adunay langodngod ang kapay
+    cs: svaloploutví
+    de: Fleischflosser
+    el: Σαρκοπτερύγιοι
+    en: Sarcopterygii
+    eo: Sarkopterigoj
+    es: Sarcopterygii
+    et: Sagaruimsed
+    eu: Sarcopterygii
+    ext: Sarcopterygii
+    fa: گوشتیبالگان
+    fi: lihaseväiset
+    fr: Sarcopterygii
+    frr: Flääskflikerten
+    ga: Sarcopterygii
+    gl: Sarcopterixios
+    gv: Sarcopterygii
+    he: בעלי סנפירים בשרניים
+    hi: सार्कोप्टरिजियाए
+    hr: Mesoperke
+    hu: izmosúszójú halak
+    ia: Sarcopterygii
+    id: Sarcopterygii
+    ie: Sarcopterygii
+    io: Sarcopterygii
+    is: Holduggar
+    it: Sarcopterygii
+    ja: 肉鰭類
+    ka: მტევანფარფლიანები
+    kk: Қалаққанаттылар
+    kk-arab: قالاققاناتتىلار
+    kk-cn: قالاققاناتتىلار
+    kk-cyrl: Қалаққанаттылар
+    kk-kz: Қалаққанаттылар
+    kk-latn: Qalaqqanattılar
+    kk-tr: Qalaqqanattılar
+    ko: 육기어류
+    ky: Бараканаттар
+    la: Sarcopterygii
+    lij: Sarcopterygii
+    lt: mėsingapelekės žuvys
+    lv: Daivspurzivis
+    mk: Резноперки
+    mul: Sarcopterygii
+    nb: Kjøttfinnefisker
+    nl: kwastvinnigen
+    nn: kjøtfinnefiskar
+    oc: Sarcopterygii
+    pl: mięśniopłetwe
+    pt: Sarcopterygii
+    pt-br: Sarcopterygii
+    qu: Aycha wayt'ana
+    ro: Sarcopterigieni
+    ru: лопастепёрые рыбы
+    sco: Sarcopterygii
+    sh: Mesoperke
+    sk: Násadcoplutvovce
+    sl: mesnatoplavutarice
+    sq: Sarcopterygii
+    sr: Саркоптеригије
+    sr-ec: Саркоптеригије
+    sr-el: Sarkopterigije
+    sv: lobfeniga fiskar
+    th: ปลาที่มีครีบเป็นพู่
+    tl: Sarcopterygii
+    to: Ika kaponga uoua
+    tr: Et yüzgeçliler
+    uk: лопатепері
+    vi: Lớp Cá vây thùy
+    vo: Sarcopterygii
+    war: Sarcopterygii
+    wuu: 肉鳍鱼
+    yue: 肉鰭魚
+    zea: Kwastvinnigen
+    zh: 肉鳍鱼总纲
+    zh-cn: 肉鳍鱼总纲
+    zh-hans: 肉鳍鱼总纲
+    zh-hant: 肉鰭魚
+    zh-hk: 肉鰭魚
+    zh-sg: 肉鳍鱼
+    zh-tw: 肉鰭魚總綱
 ---
-
 # [[Sarc]] 
 
 #is_/instance_of :: [[Clade]]  

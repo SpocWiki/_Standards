@@ -1,10 +1,73 @@
 ---
 aliases:
-  - Zygnematales
-  - Conjugatales
+- Bộ Song tinh tảo
+- Conjugatales
+- Jochalgen
+- Zignematal
+- Zrostnicowce
+- Zygnematales
+- Зигнемовые
+- مترابطيات
+- یوغیجلبکسانان
+- ホシミドロ目
+- 双星藻目
+- 雙星藻目
+- 별해캄목
 title: Zygnematales
+has_id_wikidata: Q497859
+dv_has_:
+  name_:
+    an: Zygnematales
+    ar: مترابطيات
+    arz: مترابطيات
+    ast: Zygnematales
+    az: Zygnematales
+    bg: Zygnematales
+    ca: Zignematal
+    ceb: Zygnematales
+    de: Jochalgen
+    en: Zygnematales
+    eo: Zygnematales
+    es: Zygnematales
+    eu: Zygnematales
+    ext: Zygnematales
+    fa: یوغیجلبکسانان
+    fi: Zygnematales
+    fr: Zygnematales
+    ga: Zygnematales
+    gl: Zygnematales
+    hr: Zygnematales
+    hu: Zygnematales
+    ia: Zygnematales
+    id: Zygnematales
+    ie: Zygnematales
+    io: Zygnematales
+    it: Zygnematales
+    ja: ホシミドロ目
+    ko: 별해캄목
+    la: Zygnematales
+    mul: Zygnematales
+    nl: Zygnematales
+    oc: Zygnematales
+    pl: Zrostnicowce
+    pt: Zygnematales
+    pt-br: Zygnematales
+    ro: Zygnematales
+    ru: Зигнемовые
+    sq: Zygnematales
+    sv: Zygnematales
+    uk: Zygnematales
+    vi: Bộ Song tinh tảo
+    vo: Zygnematales
+    war: Zygnematales
+    yue: 雙星藻目
+    zh: 双星藻目
+    zh-cn: 双星藻目
+    zh-hans: 双星藻目
+    zh-hant: 雙星藻目
+    zh-hk: 雙星藻目
+    zh-tw: 雙星藻目
 ---
-
 -   Spirogyra (Zygnemataceae)
 -   Penium (Peniaceae)
 -   Micrasterias (Desmidiaceae)

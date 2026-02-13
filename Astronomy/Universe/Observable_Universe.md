@@ -1,54 +1,203 @@
 ---
 aliases:
+- Alam dhunnya
+- Alam semesta boleh cerap
+- Alam semesta teramati
+- beobachtbares Universum
+- Beooboachtboar Al
+- bydysawd gweladwy
+- Det observerbare universet
+- Gözlemlenebilir evren
+- havaittava maailmankaikkeus
+- megfigyelhető világegyetem
+- Metagalaktika
+- Metaqalaktika
+- novērojamais Visums
+- Obsavabul univas
+- observable universe
+- observebla universo
+- observerbara universum
+- Observerbart univers
+- ollvys aspiadow
+- opazljivo vesolje
+- pozorovatelný vesmír
+- Pozorovateľný vesmír
+- stebimoji visata
+- unibertso behagarria
+- Univers observabil
+- univers observable
+- Universi i vëzhgueshëm
+- universo observable
+- universo observável
+- universo oservàbiłe
+- universo osservabile
+- Universu observable
+- Univèrs Observable
+- Vidljivi svemir
+- vidljivi univerzum
+- vũ trụ quan sát được
+- waarneembaar heelal
+- waarneembare heelal
+- widzialny Wszechświat
+- Παρατηρήσιμο σύμπαν
+- бачны сусьвет
+- видљиви универзум
+- видимий всесвіт
+- видлива вселена
+- Метагалактика
+- Наблюдаема вселена
+- наблюдаемая Вселенная
+- Մետագալակտիկա
+- היקום הנצפה
+- الكون المرصود
+- جهان قابل مشاهده
+- د مشاهدې وړ نړۍ
+- قابل مشاہدہ کائنات
+- گەردوونی چاودێریکراو
+- प्रेक्षणीय ब्रह्माण्ड
+- পর্যবেক্ষণযোগ্য মহাবিশ্ব
+- காட்சிக்குட்பட்ட பேரண்டம்
+- നിരീക്ഷണയോഗ്യ പ്രപഞ്ചം
+- เอกภพที่สังเกตได้
+- ကလွူꩻထွာႏနွောင်ꩻဒါႏ စဲက္ကျာႏဝဠာႏ
+- လေ့လာနိုင်သော စကြဝဠာ
+- მეტაგალაქტიკა
+- 可觀測宇宙
+- 可观测宇宙
+- 観測可能な宇宙
+- 관측 가능한 우주
 has_id_wikidata: Q221392
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~dark_matter,79925]]"
-  - "[[_Standards/WikiData/WD~dark_energy,18343]]"
-  - "[[_Standards/WikiData/WD~matter,35758]]"
+- '[[_Standards/WikiData/WD~dark_matter,79925]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343]]'
+- '[[_Standards/WikiData/WD~matter,35758]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Sloan_Great_Wall,497745]]"
-  - "[[_Standards/WikiData/WD~CfA2_Great_Wall,1139177]]"
-  - "[[_Standards/WikiData/WD~large_quasar_group,2945326]]"
-  - "[[_Standards/WikiData/WD~Huge_LQG,3094136]]"
-  - "[[_Standards/WikiData/WD~Hercules_Corona_Borealis_Great_Wall,15241043]]"
-  - "[[_Standards/WikiData/WD~BOSS_Great_Wall,23054687]]"
-  - "[[_Standards/WikiData/WD~Pisces_Cetus_Supercluster_Complex,24571]]"
-significant_event: "[[_Standards/WikiData/WD~accelerating_expansion_of_the_universe,1049613]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~observable_universe,28530079]]"
-studied_by: "[[_Standards/WikiData/WD~cosmology,338]]"
-depicted_by: "[[_Standards/WikiData/WD~celestial_sphere,12134]]"
-has_boundary: "[[_Standards/WikiData/WD~cosmic_microwave_background,15605]]"
+- '[[_Standards/WikiData/WD~Sloan_Great_Wall,497745]]'
+- '[[_Standards/WikiData/WD~CfA2_Great_Wall,1139177]]'
+- '[[_Standards/WikiData/WD~large_quasar_group,2945326]]'
+- '[[_Standards/WikiData/WD~Huge_LQG,3094136]]'
+- '[[_Standards/WikiData/WD~Hercules_Corona_Borealis_Great_Wall,15241043]]'
+- '[[_Standards/WikiData/WD~BOSS_Great_Wall,23054687]]'
+- '[[_Standards/WikiData/WD~Pisces_Cetus_Supercluster_Complex,24571]]'
+significant_event: '[[_Standards/WikiData/WD~accelerating_expansion_of_the_universe,1049613]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~observable_universe,28530079]]'
+studied_by: '[[_Standards/WikiData/WD~cosmology,338]]'
+depicted_by: '[[_Standards/WikiData/WD~celestial_sphere,12134]]'
+has_boundary: '[[_Standards/WikiData/WD~cosmic_microwave_background,15605]]'
 mass: 1e+53
 density: 1e-27
 volume_as_quantity: 3.5e+80
 diameter: 93000000000
-not_found_in: "[[_Standards/WikiData/WD~Integrated_Authority_File,36578]]"
+not_found_in: '[[_Standards/WikiData/WD~Integrated_Authority_File,36578]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Constrained%20Local%20Universe%20Evolution%20Simulation%20%28spherical%29.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Observable%20universe%20logarithmic%20illustration.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Observable%20Universe%20with%20Measurements%2001.png
 Commons_category: Observable universe
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Observable_universe,221392]]"
-    - "[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]"
-    - "[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]"
-    - "[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]"
-    - "[[/_protect/Astronomy/Universe/Observable_Universe.protect|Observable_Universe.protect]]"
-    - "[[/_private/Astronomy/Universe/Observable_Universe.private|Observable_Universe.private]]"
-    - "[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]"
-    - "[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]"
+  - '[[../../WikiData/WD~Observable_universe,221392]]'
+  - '[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]'
+  - '[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]'
+  - '[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]'
+  - '[[/_protect/Astronomy/Universe/Observable_Universe.protect|Observable_Universe.protect]]'
+  - '[[/_private/Astronomy/Universe/Observable_Universe.private|Observable_Universe.private]]'
+  - '[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]'
+  - '[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Observable_universe,221392]]"
-  - "[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]"
-  - "[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]"
-  - "[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]"
-  - "[[/_protect/Astronomy/Universe/Observable_Universe.protect|Observable_Universe.protect]]"
-  - "[[/_private/Astronomy/Universe/Observable_Universe.private|Observable_Universe.private]]"
-  - "[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]"
-  - "[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]"
+- '[[../../WikiData/WD~Observable_universe,221392]]'
+- '[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]'
+- '[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]'
+- '[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]'
+- '[[/_protect/Astronomy/Universe/Observable_Universe.protect|Observable_Universe.protect]]'
+- '[[/_private/Astronomy/Universe/Observable_Universe.private|Observable_Universe.private]]'
+- '[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]'
+- '[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]'
+dv_has_:
+  name_:
+    af: waarneembare heelal
+    ar: الكون المرصود
+    ast: Universu observable
+    az: Metaqalaktika
+    be-tarask: бачны сусьвет
+    bg: Наблюдаема вселена
+    blk: ကလွူꩻထွာႏနွောင်ꩻဒါႏ စဲက္ကျာႏဝဠာႏ
+    bn: পর্যবেক্ষণযোগ্য মহাবিশ্ব
+    bs: vidljivi univerzum
+    ca: univers observable
+    ckb: گەردوونی چاودێریکراو
+    cs: pozorovatelný vesmír
+    cv: Метагалактика
+    cy: bydysawd gweladwy
+    da: Observerbart univers
+    de: beobachtbares Universum
+    el: Παρατηρήσιμο σύμπαν
+    en: observable universe
+    en-ca: observable universe
+    en-gb: observable universe
+    eo: observebla universo
+    es: universo observable
+    et: Metagalaktika
+    eu: unibertso behagarria
+    fa: جهان قابل مشاهده
+    fi: havaittava maailmankaikkeus
+    fr: univers observable
+    gl: universo observable
+    he: היקום הנצפה
+    hi: प्रेक्षणीय ब्रह्माण्ड
+    hu: megfigyelhető világegyetem
+    hy: Մետագալակտիկա
+    id: Alam semesta teramati
+    it: universo osservabile
+    ja: 観測可能な宇宙
+    ka: მეტაგალაქტიკა
+    kk: Метагалактика
+    ko: 관측 가능한 우주
+    kw: ollvys aspiadow
+    ky: Метагалактика
+    lt: stebimoji visata
+    lv: novērojamais Visums
+    mad: Alam dhunnya
+    mk: видлива вселена
+    ml: നിരീക്ഷണയോഗ്യ പ്രപഞ്ചം
+    ms: Alam semesta boleh cerap
+    my: လေ့လာနိုင်သော စကြဝဠာ
+    nb: Det observerbare universet
+    nl: waarneembaar heelal
+    nn: det observerbare universet
+    oc: Univèrs Observable
+    pcm: Obsavabul univas
+    pl: widzialny Wszechświat
+    ps: د مشاهدې وړ نړۍ
+    pt: universo observável
+    ro: Univers observabil
+    ru: наблюдаемая Вселенная
+    sh: Vidljivi svemir
+    sk: Pozorovateľný vesmír
+    sl: opazljivo vesolje
+    sq: Universi i vëzhgueshëm
+    sr: видљиви универзум
+    sr-ec: видљиви универзум
+    sr-el: vidljivi univerzum
+    stq: Beooboachtboar Al
+    sv: observerbara universum
+    ta: காட்சிக்குட்பட்ட பேரண்டம்
+    th: เอกภพที่สังเกตได้
+    tr: Gözlemlenebilir evren
+    udm: Метагалактика
+    uk: видимий всесвіт
+    ur: قابل مشاہدہ کائنات
+    vec: universo oservàbiłe
+    vi: vũ trụ quan sát được
+    yue: 可觀測宇宙
+    zh: 可觀測宇宙
+    zh-cn: 可观测宇宙
+    zh-hans: 可观测宇宙
+    zh-hant: 可觀測宇宙
+    zh-hk: 可觀測宇宙
+    zh-sg: 可观测宇宙
+    zh-tw: 可觀測宇宙
 ---
-
 # [[Observable_Universe]] 
 
 #is_/same_as :: [[WD~Observable_universe,221392]] 

@@ -1,27 +1,151 @@
 ---
 aliases:
-  - Vertebrata
-  - Vertebrate
-  - virveldyr
-  - 脊椎动物亚门
+- Aléegunẹ̀yìn
+- Bertebrado
+- Bertebrata
+- Biby manana hazondamosina
+- Biesse ås cronzoxhs
+- birrbirredar
+- Bíígháán Dahólónígíí
+- Chek-chui tōng-bu̍t
+- Chit-chhûi Thung-vu̍t Â-mùn
+- Cék-tùi dông-ŭk
+- Doenghduz Ndoksaen
+- Dugugguruu qabeeyyii
+- Dzemuzongoza
+- Fertebrat
+- gerincesek
+- Gewervelde diere
+- gewervelden
+- Gewerveldn
+- Gewurvelde beêsten
+- Hrycgdēor
+- hryggdýr
+- Hvirveldyr
+- kičmenjaci
+- Kralješnjaci
+- kralježnjaci
+- Kryngowce
+- kręgowce
+- mugurkaulnieki
+- Nyama ya mikúwa
+- obratlovci
+- Onurğalılar
+- Ornodun
+- Pujase'orekova
+- ryggradsdjur
+- Selgroogsed
+- selkärankaiset
+- stavovce
+- Stoumenėnē gīvē
+- stuburiniai
+- Timtegzitin
+- Tulluyuq
+- Umurtqalilar
+- umırtqalılar
+- veirteabrach
+- vertebrado
+- vertebrados
+- Vertebrat
+- Vertebrata
+- Vertebrate
+- vertebrato
+- Vertebrats
+- Vertebrau
+- vertebruloj
+- Vertebràcc
+- Vertebræ
+- Vertibbrati
+- vertébrés
+- virveldyr
+- vretenčarji
+- Vèrtèbrâs
+- warvelden
+- Wierbeldéieren
+- Wirbeldier
+- Wirbeltiere
+- Wirbldier
+- Wringedier
+- Wäärlisdiarten
+- Çурăм тунилли
+- čielgitávtáliih
+- động vật có xương sống
+- σπονδυλωτός
+- БукъантӀехкъяраш
+- гръбначни
+- кичмењаци
+- Муҳрадорон
+- Омурткалуулар
+- Омыртқалылар
+- пазваночныя
+- позвоночные
+- Тоноҕостоохтор
+- Тупӹрдӓнвлӓ
+- умырткалылар
+- Умыртҡалылар
+- хребетні
+- хрыбетныя
+- Ողնաշարավորներ
+- בעלי חוליות
+- ווערטייברעיטס
+- اوْنورغالیلار
+- بڕبڕەداران
+- سنسوليات
+- شمزۍ لرونکي ژوي
+- فقاريات
+- فقاریہ
+- مهرهداران
+- میرکادارون
+- کلہٕ کھاپٕھر تہٕ کمبرِچ أڈجہِ در جانوَر
+- کنگریڑے
+- ڪرنگهي وارا جانور
+- ߞߐߣߍ߯ߙߋ߲ߡߊ
+- कशेरुकाः
+- कशेरुकी जन्तु
+- धुसः जीव
+- पृष्ठवंशी प्राणी
+- মেরুদণ্ডী প্রাণী
+- মেৰুদণ্ডী প্ৰাণী
+- ਰੀੜ੍ਹਧਾਰੀ
+- પૃષ્ઠવંશી
+- முதுகெலும்பி
+- సకశేరుకాలు
+- ಕಶೇರುಕ
+- നട്ടെല്ലുള്ള ജീവികൾ
+- පෘෂ්ඨවංශීන්
+- สัตว์มีกระดูกสันหลัง
+- སྒལ་ཚིགས་སྲོག་ཆགས་
+- ကျောရိုးရှိသတ္တဝါ
+- გაგაჩამეფი
+- ხერხემლიანები
+- የጀርባ አጥንት ያላቸው እንስሳት
+- សត្វឆ្អឹងកង
+- ’рбетници
+- ⵜⵉⵎⵙⵖⵍⴰⵍⵉⵏ
+- 脊椎动物
+- 脊椎动物亚门
+- 脊椎動物
+- 脊椎動物亞門
+- 척추동물
+- "\U00010337\U00010342\U0001033F\U00010332\U0001033E\U00010330\U00010331\U00010330\U00010339\U0001033D\U00010330"
 has_id_wikidata: Q25241
 Biology_Online_Biology_Dictionary_entry: vertebrata
 Colon_Classification: K9
 Commons_category: Vertebrata
 Commons_gallery: Vertebrata
 described_by_source:
-  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 EPPO_Code: 1VERTQ
 equivalent_class: http://kbpedia.org/kko/rc/Vertebrate
 GS1_GPC_code: 89020200
 homonymous_taxon: '[[_Standards/WikiData/WD~Vertebrata,3556237]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lizard%20on%20leaf%20cutted.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tiliqua%20scincoides%20scincoides.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lizard%20on%20leaf%20cutted.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tiliqua%20scincoides%20scincoides.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 331030
 MeSH_tree_code: B01.050.150.900
@@ -33,18 +157,189 @@ permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681521,25681521]]'
 start_time: -525000000-01-01
 studied_by: '[[_Standards/WikiData/WD~vertebrate_zoology,18358830]]'
 taxon_common_name:
-  - virveldyr
-  - 脊椎动物亚门
+- virveldyr
+- 脊椎动物亚门
 taxon_name: Vertebrata
 taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~offal,157484]]'
 title: Vertebrata
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Vertebrata,10966653]]'
-  - '[[_Standards/WikiData/WD~Template_Vertebrates,26138979]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Vertebrata,10966653]]'
+- '[[_Standards/WikiData/WD~Template_Vertebrates,26138979]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    af: Vertebrata
+    am: የጀርባ አጥንት ያላቸው እንስሳት
+    an: Vertebrata
+    ang: Hrycgdēor
+    ar: فقاريات
+    ary: سنسوليات
+    arz: فقاريات
+    as: মেৰুদণ্ডী প্ৰাণী
+    ast: Vertebrata
+    az: Onurğalılar
+    azb: اوْنورغالیلار
+    ba: Умыртҡалылар
+    be: пазваночныя
+    be-tarask: хрыбетныя
+    bg: гръбначни
+    bn: মেরুদণ্ডী প্রাণী
+    bo: སྒལ་ཚིགས་སྲོག་ཆགས་
+    br: Vertebrata
+    bs: kičmenjaci
+    ca: vertebrat
+    cdo: Cék-tùi dông-ŭk
+    ceb: Vertebrata
+    ckb: بڕبڕەداران
+    cs: obratlovci
+    cv: Çурăм тунилли
+    cy: Fertebrat
+    da: Hvirveldyr
+    de: Wirbeltiere
+    de-ch: Wirbeltiere
+    el: σπονδυλωτός
+    en: Vertebrata
+    en-ca: Vertebrate
+    en-gb: vertebrate
+    en-us: Vertebrata
+    eo: vertebruloj
+    es: vertebrados
+    et: Selgroogsed
+    eu: Ornodun
+    ext: Vertebrau
+    fa: مهرهداران
+    fi: selkärankaiset
+    fr: vertébrés
+    frp: Vèrtèbrâs
+    frr: Wäärlisdiarten
+    fy: Wringedier
+    ga: veirteabrach
+    gl: vertebrado
+    gn: Pujase'orekova
+    gor: Vertebrata
+    got: "\U00010337\U00010342\U0001033F\U00010332\U0001033E\U00010330\U00010331\U00010330\U00010339\U0001033D\U00010330"
+    gsw: Wirbeldier
+    gu: પૃષ્ઠવંશી
+    gv: Vertebrata
+    hak: Chit-chhûi Thung-vu̍t Â-mùn
+    he: בעלי חוליות
+    hi: कशेरुकी जन्तु
+    hr: kralježnjaci
+    hu: gerincesek
+    hy: Ողնաշարավորներ
+    ia: vertebrato
+    id: Vertebrata
+    ie: Vertebrata
+    ilo: Bertebrata
+    inh: БукъантӀехкъяраш
+    io: Vertebrata
+    is: hryggdýr
+    it: Vertebrata
+    ja: 脊椎動物
+    jv: Vertebrata
+    ka: ხერხემლიანები
+    kab: Timtegzitin
+    kk: Омыртқалылар
+    km: សត្វឆ្អឹងកង
+    kn: ಕಶೇರುಕ
+    ko: 척추동물
+    ks: کلہٕ کھاپٕھر تہٕ کمبرِچ أڈجہِ در جانوَر
+    ku: birrbirredar
+    ky: Омурткалуулар
+    la: Vertebrata
+    lb: Wierbeldéieren
+    lfn: Vertebrato
+    li: Gewervelde diere
+    lij: Vertebræ
+    lmo: Vertebràcc
+    ln: Nyama ya mikúwa
+    lt: stuburiniai
+    lv: mugurkaulnieki
+    mg: Biby manana hazondamosina
+    min: Vertebrata
+    mk: ’рбетници
+    ml: നട്ടെല്ലുള്ള ജീവികൾ
+    mr: पृष्ठवंशी प्राणी
+    mrj: Тупӹрдӓнвлӓ
+    ms: Vertebrat
+    mul: Vertebrata
+    my: ကျောရိုးရှိသတ္တဝါ
+    mzn: میرکادارون
+    nan: Chek-chui tōng-bu̍t
+    nb: virveldyr
+    nds: Vertebrata
+    nds-nl: warvelden
+    new: धुसः जीव
+    nl: gewervelden
+    nn: virveldyr
+    nqo: ߞߐߣߍ߯ߙߋ߲ߡߊ
+    nv: Bíígháán Dahólónígíí
+    oc: Vertebrats
+    om: Dugugguruu qabeeyyii
+    pa: ਰੀੜ੍ਹਧਾਰੀ
+    pcd: Vertebrata
+    pcm: Vertebrata
+    pfl: Wirbldier
+    pl: kręgowce
+    pms: Vertebrata
+    pnb: کنگریڑے
+    ps: شمزۍ لرونکي ژوي
+    pt: vertebrados
+    pt-br: Vertebrados
+    qu: Tulluyuq
+    ro: vertebrata
+    ru: позвоночные
+    sa: कशेरुकाः
+    sah: Тоноҕостоохтор
+    scn: Vertibbrati
+    sco: vertebrate
+    sd: ڪرنگهي وارا جانور
+    sgs: Stoumenėnē gīvē
+    sh: Kralješnjaci
+    si: පෘෂ්ඨවංශීන්
+    sk: stavovce
+    sl: vretenčarji
+    smn: čielgitávtáliih
+    sn: Dzemuzongoza
+    sq: Vertebrata
+    sr: кичмењаци
+    su: Vertebrata
+    sv: ryggradsdjur
+    sw: Vertebrata
+    szl: Kryngowce
+    ta: முதுகெலும்பி
+    te: సకశేరుకాలు
+    tg: Муҳрадорон
+    th: สัตว์มีกระดูกสันหลัง
+    tl: Bertebrado
+    tr: Vertebrata
+    tt: умырткалылар
+    tt-cyrl: умырткалылар
+    tt-latn: umırtqalılar
+    uk: хребетні
+    ur: فقاریہ
+    uz: Umurtqalilar
+    vec: Vertebrata
+    vi: động vật có xương sống
+    vls: Gewerveldn
+    vo: Vertebrata
+    wa: Biesse ås cronzoxhs
+    war: Vertebrata
+    wuu: 脊椎动物
+    xmf: გაგაჩამეფი
+    yi: ווערטייברעיטס
+    yo: Aléegunẹ̀yìn
+    yue: 脊椎動物
+    za: Doenghduz Ndoksaen
+    zea: Gewurvelde beêsten
+    zgh: ⵜⵉⵎⵙⵖⵍⴰⵍⵉⵏ
+    zh: 脊椎动物亚门
+    zh-cn: 脊椎动物亚门
+    zh-hans: 脊椎动物亚门
+    zh-hk: 脊椎動物
+    zh-tw: 脊椎動物亞門
 ---
-
 # [[Vertebrata]] 
 
 #is_/instance_of :: [[SubPhylum]]  

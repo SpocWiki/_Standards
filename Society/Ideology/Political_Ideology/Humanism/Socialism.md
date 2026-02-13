@@ -1,52 +1,346 @@
 ---
 aliases:
-  - Sozialismus
-  - Socialism
+- an sóisialachas
+- Bosošalisiti
+- cemtrusi'o
+- chủ nghĩa xã hội
+- gemǣnscipes rǣd
+- hantiwadaag
+- jafnaðarstefna
+- nasin pi pali kulupu
+- sa-fi chú-ngi
+- samajwaad
+- samaɣ ñɩm lɩmaɣzɩyɛ
+- seveicujyi
+- siâ-huôi-ciō-ngiê
+- Siā-hōe-chú-gī
+- socialisim
+- Socialism
+- socialisme
+- socialismo
+- socialismu
+- socialismus
+- socialisse
+- socialissem
+- socializem
+- socializm
+- socializmas
+- socializmi
+- socializmus
+- sociałismo
+- socijalizam
+- sociālisms
+- socjalizm
+- socjalëzna
+- socyalieth
+- sokialouriezh
+- sosialaeth
+- sosialisimɛ
+- sosialism
+- sosialisma
+- sosialisme
+- sosialismi
+- sosialismm
+- sosialismo
+- sosializm
+- sosjalisme
+- sosyalism
+- Sosyalismo
+- sosyalizm
+- sosyalîzm
+- sotsialism
+- sotsializm
+- sozialismo
+- Sozialismus
+- sozialîsum
+- soċjaliżmu
+- sucialismu
+- sucialìsimu
+- Suggialismo
+- suocēlėzmos
+- suoshalizim
+- susyalismu
+- szocializmus
+- sòisealachd
+- sôsialisma
+- toplîmğîlîk
+- UCosulelwano
+- usoshalisti
+- ìṣesósíálístì
+- Ñemoirũrape
+- σοσιαλισμός
+- сацыялізм
+- соціалізм
+- социјализам
+- социализм
+- социализъм
+- սոցիալիզմ
+- סאציאליזם
+- סוציאליזם
+- إشتراكية
+- اشتراكية
+- اشتراكيه
+- اشتراکیت
+- اشتراڪيت
+- سوسياليسمى
+- سوسیالیزم
+- سوسیالیسم
+- سوشلزم
+- سۆسیالیزم
+- समाजवाद
+- সমাজতন্ত্র
+- সমাজবাদ
+- ਸਮਾਜਵਾਦ
+- સમાજવાદ
+- சமவுடமை
+- సోషలిజం
+- ಸಮಾಜವಾದ
+- സോഷ്യലിസം
+- සමාජවාදය
+- สังคมนิยม
+- ສັງຄົມນິຍົມ
+- ဆိုရှယ်လစ်ဝါဒ
+- სოციალიზმი
+- សង្គមនិយម
+- 社会主义
+- 社会主義
+- 社會主義
+- 사회주의
 has_id_wikidata: Q7272
 Basisklassifikation: 89.14
 Colon_Classification: XN
 Commons_category: Socialism
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 Dewey_Decimal_Classification:
-  - 335
-  - 320.531
-  - 306.345
-different_from: "[[_Standards/WikiData/WD~Socjalizm,19167949]]"
+- 335
+- 320.531
+- 306.345
+different_from: '[[_Standards/WikiData/WD~Socjalizm,19167949]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Socialist%20red%20flag.svg
-has_characteristic: "[[_Standards/WikiData/WD~type_of_socialism,17166135]]"
+has_characteristic: '[[_Standards/WikiData/WD~type_of_socialism,17166135]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~economic_system,273005]]"
-  - "[[_Standards/WikiData/WD~social_formation,1641112]]"
-  - "[[_Standards/WikiData/WD~political_ideology,12909644]]"
-  - "[[_Standards/WikiData/WD~social_movement,49773]]"
+- '[[_Standards/WikiData/WD~economic_system,273005]]'
+- '[[_Standards/WikiData/WD~social_formation,1641112]]'
+- '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
 Library_of_Congress_Classification: HX1 HX550
 MeSH_tree_code: I01.696.798
-practiced_by: "[[_Standards/WikiData/WD~socialist,12718544]]"
+practiced_by: '[[_Standards/WikiData/WD~socialist,12718544]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5146%20%28por%29-NMaia-socialismo.wav
-subclass_of: "[[_Standards/WikiData/WD~anti-capitalism,389647]]"
+subclass_of: '[[_Standards/WikiData/WD~anti-capitalism,389647]]'
 subreddit: socialism
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Socialism,6173104]]"
-  - "[[_Standards/WikiData/WD~Template_Socialism_by_state,8006697]]"
-  - "[[_Standards/WikiData/WD~Template_Socialism_sidebar,13107357]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Socialism,8438481]]"
+- '[[_Standards/WikiData/WD~Template_Socialism,6173104]]'
+- '[[_Standards/WikiData/WD~Template_Socialism_by_state,8006697]]'
+- '[[_Standards/WikiData/WD~Template_Socialism_sidebar,13107357]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Socialism,8438481]]'
 UMLS_CUI: C0037446
 U_S_National_Archives_Identifier: 10641527
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_socialism,39087403]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_socialism,39087403]]'
+dv_has_:
+  name_:
+    af: sosialisme
+    an: socialismo
+    ang: gemǣnscipes rǣd
+    ar: اشتراكية
+    ary: إشتراكية
+    arz: اشتراكيه
+    as: সমাজবাদ
+    ast: socialismu
+    az: sosializm
+    azb: سوسیالیسم
+    ba: социализм
+    bcl: Sosyalismo
+    be: сацыялізм
+    be-tarask: сацыялізм
+    bg: социализъм
+    bho: समाजवाद
+    bn: সমাজতন্ত্র
+    bpy: সমাজতন্ত্র
+    br: sokialouriezh
+    bs: socijalizam
+    btm: Sosialisme
+    bxr: социализм
+    ca: socialisme
+    cdo: siâ-huôi-ciō-ngiê
+    ce: Социализм
+    ckb: سۆسیالیزم
+    co: sucialismu
+    crh: sotsializm
+    crh-ro: toplîmğîlîk
+    cs: socialismus
+    csb: socjalëzna
+    cv: социализм
+    cy: sosialaeth
+    da: socialisme
+    de: Sozialismus
+    diq: sosyalizm
+    dsb: socializm
+    el: σοσιαλισμός
+    eml: sozialîsum
+    en: socialism
+    en-ca: socialism
+    en-gb: socialism
+    eo: socialismo
+    es: socialismo
+    et: sotsialism
+    eu: sozialismo
+    fa: سوسیالیسم
+    fi: sosialismi
+    fo: sosialisma
+    fr: socialisme
+    fur: socialisim
+    fy: sosjalisme
+    ga: an sóisialachas
+    gcr: sosyalism
+    gd: sòisealachd
+    gl: socialismo
+    gn: Ñemoirũrape
+    gsw: sozialismus
+    gu: સમાજવાદ
+    hak: sa-fi chú-ngi
+    he: סוציאליזם
+    hi: समाजवाद
+    hif: samajwaad
+    hr: socijalizam
+    hsb: socializm
+    hu: szocializmus
+    hy: սոցիալիզմ
+    ia: socialismo
+    id: sosialisme
+    ilo: sosialismo
+    io: socialismo
+    is: jafnaðarstefna
+    it: socialismo
+    ja: 社会主義
+    jam: suoshalizim
+    jbo: cemtrusi'o
+    jv: sosialisme
+    ka: სოციალიზმი
+    kbp: samaɣ ñɩm lɩmaɣzɩyɛ
+    kk: социализм
+    km: សង្គមនិយម
+    kn: ಸಮಾಜವಾದ
+    knc: Socialism
+    ko: 사회주의
+    ko-kp: 사회주의
+    krc: социализм
+    ku: sosyalîzm
+    kw: socyalieth
+    ky: социализм
+    la: socialismus
+    lb: Sozialismus
+    lfn: sosialisme
+    li: socialisme
+    lmo: socialism
+    ln: sosialisimɛ
+    lo: ສັງຄົມນິຍົມ
+    lt: socializmas
+    lv: sociālisms
+    lzh: 社會主義
+    mad: Sosialisme
+    mai: समाजवाद
+    mg: sôsialisma
+    mk: социјализам
+    ml: സോഷ്യലിസം
+    mn: социализм
+    mr: समाजवाद
+    ms: sosialisme
+    ms-arab: سوسياليسمى
+    mt: soċjaliżmu
+    mwl: socialismo
+    my: ဆိုရှယ်လစ်ဝါဒ
+    mzn: سوسیالیسم
+    nan: Siā-hōe-chú-gī
+    nap: Suggialismo
+    nb: sosialisme
+    nds: Sozialismus
+    ne: समाजवाद
+    new: समाजवाद
+    nl: socialisme
+    nn: sosialisme
+    nso: Bosošalisiti
+    oc: socialisme
+    os: социализм
+    pa: ਸਮਾਜਵਾਦ
+    pap: sosialismo
+    pl: socjalizm
+    pms: socialism
+    pnb: سوشلزم
+    ps: سوسیالیزم
+    pt: socialismo
+    pt-br: socialismo
+    qu: susyalismu
+    rm: socialissem
+    ro: socialism
+    ru: социализм
+    rue: соціалізм
+    sah: социализм
+    scn: sucialìsimu
+    sco: socialism
+    sd: اشتراڪيت
+    se: sosialisma
+    sgs: suocēlėzmos
+    sh: socijalizam
+    si: සමාජවාදය
+    sk: socializmus
+    sl: socializem
+    smn: sosialism
+    sms: sosialismm
+    so: hantiwadaag
+    sq: socializmi
+    sr: социјализам
+    sr-ec: социјализам
+    sr-el: socijalizam
+    sv: socialism
+    sw: usoshalisti
+    szl: socjalizm
+    ta: சமவுடமை
+    te: సోషలిజం
+    th: สังคมนิยม
+    tl: sosyalismo
+    tok: nasin pi pali kulupu
+    tr: sosyalizm
+    tt: социализм
+    udm: социализм
+    uk: соціалізм
+    ur: اشتراکیت
+    uz: sotsializm
+    vec: sociałismo
+    vep: socializm
+    vi: chủ nghĩa xã hội
+    vro: sotsialism
+    wa: socialisse
+    war: sosyalismo
+    wuu: 社會主義
+    xmf: სოციალიზმი
+    yi: סאציאליזם
+    yo: ìṣesósíálístì
+    yue: 社會主義
+    za: seveicujyi
+    zh: 社会主义
+    zh-cn: 社会主义
+    zh-hans: 社会主义
+    zh-hant: 社會主義
+    zh-hk: 社會主義
+    zh-mo: 社會主義
+    zh-my: 社会主义
+    zh-sg: 社会主义
+    zh-tw: 社會主義
+    zu: UCosulelwano
 ---
-
 # [[Socialism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Socialism,7272|WD~Socialism,7272]] 

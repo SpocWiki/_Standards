@@ -1,26 +1,117 @@
 ---
 aliases:
-  - Sumpf
-  - Swamp
+- banzáu
+- baruh
+- bataklık
+- bataqlıq
+- bažinatý les
+- broek
+- Bruch
+- bìtùŋgì bìtùŋgì
+- dumbrājs
+- Fadama
+- geun
+- gwern
+- honahona
+- juqhu
+- katunggan
+- këneta
+- lodu
+- log
+- lug
+- làm-tē
+- marécage
+- marĉo
+- mlaștină
+- moerasse en vleie
+- moor
+- Moos
+- močiar
+- močvara
+- myr
+- mýri
+- ntshi ekɔ́ʼ esōʼ
+- padóll
+- palude alberata
+- palun
+- palus silvestris
+- pantano
+- pantà
+- paya
+- pântano
+- pūrs
+- raistas
+- rawa
+- seascann
+- so
+- sump
+- Sumpf
+- suometsä
+- Supp
+- Swamp
+- träsk
+- turbera
+- yno'õvu
+- zadrzewione bagno
+- zingira
+- zwamp
+- Zómp
+- ártéri erdő
+- đầm lầy
+- έλος
+- бадараан
+- балота
+- батпақ
+- болото
+- ботлоқ
+- заболоченный лес
+- куп
+- лясное балота
+- мочвара
+- мочурище
+- сазлык
+- шумско мочуриште
+- шурлăх
+- шяйсь
+- Ճահիճ
+- ביצה מיוערת
+- باتلاق
+- توققه
+- مستنقع
+- ܐܡܝܫܐ
+- झ्वास्या
+- दलदल
+- জলা
+- পিটনি
+- විල්ලු
+- ที่ลุ่มน้ำขัง
+- ပြားတော
+- ჭაობი
+- ჭყონჭყო
+- ᎠᎹᏳᏟᏗ ᏌᎷᏱ
+- 树沼
+- 沼地
+- 沼澤
+- 늪
 has_id_wikidata: Q166735
 subclass_of:
-  - "[[_Standards/WikiData/WD~landscape,107425]]"
-  - "[[_Standards/WikiData/WD~wetland,170321]]"
+- '[[_Standards/WikiData/WD~landscape,107425]]'
+- '[[_Standards/WikiData/WD~wetland,170321]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
 different_from:
-  - "[[_Standards/WikiData/WD~bog,1681353]]"
-  - "[[_Standards/WikiData/WD~Q17249182,17249182]]"
-  - "[[_Standards/WikiData/WD~Swamp,22699831]]"
-  - "[[_Standards/WikiData/WD~Q30312340,30312340]]"
-  - "[[_Standards/WikiData/WD~marsh,30198]]"
+- '[[_Standards/WikiData/WD~bog,1681353]]'
+- '[[_Standards/WikiData/WD~Q17249182,17249182]]'
+- '[[_Standards/WikiData/WD~Swamp,22699831]]'
+- '[[_Standards/WikiData/WD~Q30312340,30312340]]'
+- '[[_Standards/WikiData/WD~marsh,30198]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ecological_classification,2032647]]"
-  - "[[_Standards/WikiData/WD~mire_type,11895317]]"
+- '[[_Standards/WikiData/WD~ecological_classification,2032647]]'
+- '[[_Standards/WikiData/WD~mire_type,11895317]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~paludified_forest,113989337]]"
-  - "[[_Standards/WikiData/WD~marsh,30198]]"
+- '[[_Standards/WikiData/WD~paludified_forest,113989337]]'
+- '[[_Standards/WikiData/WD~marsh,30198]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Briesetal%20bei%20Briese.JPG
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%85%D8%B3%D8%AA%D9%86%D9%82%D8%B9.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000233
@@ -31,25 +122,130 @@ Commons_category: Swamps
 OpenStreetMap_tag: wetland=swamp
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]"
-    - "[[/_Standards/Earth/Geology/Landform/Swamp|Swamp]]"
-    - "[[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]]"
+  - '[[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]'
+  - '[[/_Standards/Earth/Geology/Landform/Swamp|Swamp]]'
+  - '[[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]"
-  - "[[/_Standards/Earth/Geology/Landform/Swamp|Swamp]]"
-  - "[[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]]"
+- '[[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]'
+- '[[/_Standards/Earth/Geology/Landform/Swamp|Swamp]]'
+- '[[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]]'
+- '[[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]]'
+- '[[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]]'
+- '[[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]]'
+dv_has_:
+  name_:
+    af: moerasse en vleie
+    an: turbera
+    ar: مستنقع
+    arc: ܐܡܝܫܐ
+    as: পিটনি
+    ast: banzáu
+    ay: juqhu
+    az: bataqlıq
+    bar: Moos
+    bas: bìtùŋgì bìtùŋgì
+    be: лясное балота
+    be-tarask: балота
+    bg: мочурище
+    bjn: baruh
+    bn: জলা
+    br: geun
+    bs: močvara
+    ca: pantà
+    ce: болото
+    chr: ᎠᎹᏳᏟᏗ ᏌᎷᏱ
+    cs: bažinatý les
+    cv: шурлăх
+    cy: broek
+    da: sump
+    de: Bruch
+    de-ch: Sumpf
+    el: έλος
+    eml: padóll
+    en: swamp
+    en-ca: swamp
+    en-gb: swamp
+    eo: marĉo
+    es: pantano
+    et: lodu
+    eu: zingira
+    fa: باتلاق
+    fi: suometsä
+    fr: marécage
+    fy: broek
+    ga: seascann
+    gl: pantano
+    gn: yno'õvu
+    ha: Fadama
+    he: ביצה מיוערת
+    hi: दलदल
+    hr: močvara
+    hu: ártéri erdő
+    hy: ճահիճ
+    hyw: Ճահիճ
+    id: rawa
+    is: mýri
+    it: palude alberata
+    ja: 沼地
+    ka: ჭაობი
+    kk: батпақ
+    ko: 늪
+    kw: gwern
+    la: palus silvestris
+    lb: Supp
+    li: Zómp
+    lt: raistas
+    ltg: pūrs
+    lv: dumbrājs
+    mdf: шяйсь
+    mg: honahona
+    mhr: куп
+    mk: шумско мочуриште
+    ms: paya
+    my: ပြားတော
+    mzn: توققه
+    nan: làm-tē
+    nb: sump
+    nds-nl: moor
+    ne: दलदल
+    new: झ्वास्या
+    nl: zwamp
+    nn: myr
+    oc: palun
+    pl: zadrzewione bagno
+    pt: pântano
+    pt-br: pântano
+    ro: mlaștină
+    ru: заболоченный лес
+    sah: бадараан
+    sh: lug
+    si: විල්ලු
+    sk: močiar
+    sl: log
+    sq: këneta
+    sr: мочвара
+    su: rawa
+    sv: träsk
+    tg: ботлоқ
+    th: ที่ลุ่มน้ำขัง
+    tr: bataklık
+    tt: сазлык
+    uk: болото
+    vep: so
+    vi: đầm lầy
+    war: katunggan
+    xmf: ჭყონჭყო
+    ybb: ntshi ekɔ́ʼ esōʼ
+    yue: 沼澤
+    zh: 树沼
 ---
-
 # [[Swamp]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Swamp,166735|WD~Swamp,166735]]  

@@ -1,28 +1,130 @@
 ---
 aliases:
+- Dinamiese ewetoeganklike geheue
+- dinamika ĉefmemoro
+- Dinaminė atmintis
+- Dinamička memorija sa slučajnim pristupom
+- dinamični pomnilnik z naključnim dostopom
+- DRAM
+- Dynamic Random Access Memory
+- dynamic random-access memory
+- Dynamiskt minne
+- Dïnamïkalıq operatïvti este saqtaw qurılğısı
+- Dünaamiline muutmälu
+- ingatan capaian rawak dinamik
+- Kujtesë hyrëse e fuqishme rastësore
+- Memori akses acak dinamis
+- Memoria volatilis dynamica
+- mémoire vive dynamique
+- pamięć dynamiczna
+- RAM động
+- Δυναμική μνήμη τυχαίας προσπέλασης
+- Динамикалық оперативті есте сақтау құрылғысы
+- Динамичка меморија са случајним приступом
+- Динамичка меморија со случаен пристап (ДРАМ)
+- Динамична памет с произволен достъп
+- حافظه دسترسی تصادفی پویا
+- دىينامىيكالىق وپەراتىيۆتى ەستە ساقتاۋ قۇرىلعىسى
+- ذاكرة وصول عشوائي حركية
+- ഡൈനാമിക് റാൻഡം-ആക്സസ് മെമ്മറി
+- หน่วยความจำเข้าถึงโดยสุ่มแบบพลวัต
+- ダイナミックランダムアクセスメモリ
+- 动态随机存取存储器
+- 動態隨機存取記憶體
+- 동적 램
 has_id_wikidata: Q189396
 different_from:
-  - "[[_Standards/WikiData/WD~read_only_memory,160710]]"
-  - "[[_Standards/WikiData/WD~static_random_access_memory,267416]]"
-  - "[[_Standards/WikiData/WD~volatile_memory,496533]]"
-  - "[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024]]"
-  - "[[_Standards/WikiData/WD~write_only_memory,1535598]]"
-  - "[[_Standards/WikiData/WD~storage_capacity,2308599]]"
-  - "[[_Standards/WikiData/WD~computer_memory,5830907]]"
-  - "[[_Standards/WikiData/WD~non_volatile_memory,10997658]]"
-  - "[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]"
-  - "[[_Standards/WikiData/WD~random_access_memory,5295]]"
+- '[[_Standards/WikiData/WD~read_only_memory,160710]]'
+- '[[_Standards/WikiData/WD~static_random_access_memory,267416]]'
+- '[[_Standards/WikiData/WD~volatile_memory,496533]]'
+- '[[_Standards/WikiData/WD~non_volatile_random_access_memory,499024]]'
+- '[[_Standards/WikiData/WD~write_only_memory,1535598]]'
+- '[[_Standards/WikiData/WD~storage_capacity,2308599]]'
+- '[[_Standards/WikiData/WD~computer_memory,5830907]]'
+- '[[_Standards/WikiData/WD~non_volatile_memory,10997658]]'
+- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]'
+- '[[_Standards/WikiData/WD~random_access_memory,5295]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~semiconductor_memory,1143031]]"
-  - "[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]"
-uses: "[[_Standards/WikiData/WD~memory_refresh,6815755]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_DRAM,7748780]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]"
+- '[[_Standards/WikiData/WD~semiconductor_memory,1143031]]'
+- '[[_Standards/WikiData/WD~volatile_random_access_memory,67420692]]'
+uses: '[[_Standards/WikiData/WD~memory_refresh,6815755]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_DRAM,7748780]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_computer_memory_or_storage,125005976]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DRAM%20DDR2%20512.jpg
-UNSPSC_Code: "32101602"
+UNSPSC_Code: 32101602
 Commons_category: DRAM
+dv_has_:
+  name_:
+    af: Dinamiese ewetoeganklike geheue
+    ar: ذاكرة وصول عشوائي حركية
+    ast: DRAM
+    be-tarask: DRAM
+    bg: Динамична памет с произволен достъп
+    ca: DRAM
+    cs: DRAM
+    de: Dynamic Random Access Memory
+    de-ch: Dynamic Random Access Memory
+    el: Δυναμική μνήμη τυχαίας προσπέλασης
+    en: dynamic random-access memory
+    en-ca: dynamic random-access memory
+    en-gb: dynamic random-access memory
+    eo: dinamika ĉefmemoro
+    es: DRAM
+    et: Dünaamiline muutmälu
+    eu: DRAM
+    fa: حافظه دسترسی تصادفی پویا
+    fi: DRAM
+    fr: mémoire vive dynamique
+    he: DRAM
+    hr: DRAM
+    hu: DRAM
+    id: Memori akses acak dinamis
+    it: DRAM
+    ja: ダイナミックランダムアクセスメモリ
+    kk: Динамикалық оперативті есте сақтау құрылғысы
+    kk-arab: دىينامىيكالىق وپەراتىيۆتى ەستە ساقتاۋ قۇرىلعىسى
+    kk-cn: دىينامىيكالىق وپەراتىيۆتى ەستە ساقتاۋ قۇرىلعىسى
+    kk-cyrl: Динамикалық оперативті есте сақтау құрылғысы
+    kk-kz: Динамикалық оперативті есте сақтау құрылғысы
+    kk-latn: Dïnamïkalıq operatïvti este saqtaw qurılğısı
+    kk-tr: Dïnamïkalıq operatïvti este saqtaw qurılğısı
+    ko: 동적 램
+    la: Memoria volatilis dynamica
+    lt: Dinaminė atmintis
+    mk: Динамичка меморија со случаен пристап (ДРАМ)
+    ml: ഡൈനാമിക് റാൻഡം-ആക്സസ് മെമ്മറി
+    ms: ingatan capaian rawak dinamik
+    mul: DRAM
+    nb: DRAM
+    nl: Dynamic random-access memory
+    pl: pamięć dynamiczna
+    pms: Dynamic random-access memory
+    pt: dynamic random access memory
+    pt-br: Dynamic random access memory
+    ro: Dynamic Random Access Memory
+    ru: DRAM
+    sh: Dinamička memorija sa slučajnim pristupom
+    sk: DRAM
+    sl: dinamični pomnilnik z naključnim dostopom
+    sq: Kujtesë hyrëse e fuqishme rastësore
+    sr: Динамичка меморија са случајним приступом
+    sv: Dynamiskt minne
+    th: หน่วยความจำเข้าถึงโดยสุ่มแบบพลวัต
+    tr: DRAM
+    tt: DRAM
+    tt-cyrl: DRAM
+    uk: DRAM
+    vi: RAM động
+    wuu: 动态随机存取存储器
+    yue: DRAM
+    zh: 动态随机存取存储器
+    zh-cn: 动态随机存取存储器
+    zh-hans: 动态随机存取存储器
+    zh-hant: 動態隨機存取記憶體
+    zh-hk: 動態隨機存取記憶體
+    zh-sg: 动态随机存取存储器
+    zh-tw: 動態隨機存取記憶體
 ---
-
 # [[DRAM(Dynamic_random-Access_Memory)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dynamic_random-access_memory,189396|WD~Dynamic_random-access_memory,189396]] 

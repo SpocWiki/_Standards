@@ -1,10 +1,115 @@
 ---
 aliases:
-  - Monty Python
-  - the Pythons
-  - Monty_Python
+- Monty Python
+- Monty_Python
+- Pytho Montium
+- the Pythons
+- Μόντυ Πάιθον
+- Монті Пайтон
+- Монти Пајтон
+- Монти Пайтон
+- Монти Пайтън
+- Монці Пайтан
+- Մոնթի Փայթն
+- מונטי פייתון
+- مونتى پايثون
+- مونتي بايثون
+- مونتی پایتون
+- মন্টি পাইথন
+- มอนตี้ ไพธอน
+- მონტი პაითონი
+- モンティ・パイソン
+- 巨蟒剧团
+- 蒙提·派森
+- 踎低噴飯
+- 몬티 파이톤
+has_id_wikidata: Q16402
+dv_has_:
+  name_:
+    an: Monty Python
+    ar: مونتي بايثون
+    arz: مونتى پايثون
+    be: Монці Пайтан
+    bg: Монти Пайтън
+    bn: মন্টি পাইথন
+    br: Monty Python
+    ca: Monty Python
+    cs: Monty Python
+    cy: Monty Python
+    da: Monty Python
+    de: Monty Python
+    de-ch: Monty Python
+    el: Μόντυ Πάιθον
+    en: Monty Python
+    en-ca: Monty Python
+    en-gb: Monty Python
+    eo: Monty Python
+    es: Monty Python
+    et: Monty Python
+    eu: Monty Python
+    fa: مونتی پایتون
+    fi: Monty Python
+    fo: Monty Python
+    fr: Monty Python
+    ga: Monty Python
+    gl: Monty Python
+    he: מונטי פייתון
+    hr: Monty Python
+    hu: Monty Python
+    hy: Մոնթի Փայթն
+    ia: Monty Python
+    id: Monty Python
+    ie: Monty Python
+    io: Monty Python
+    is: Monty Python
+    it: Monty Python
+    ja: モンティ・パイソン
+    ka: მონტი პაითონი
+    kk: Монти Пайтон
+    kl: Monty Python
+    ko: 몬티 파이톤
+    la: Pytho Montium
+    lb: Monty Python
+    lld: Monty Python
+    lmo: Monty Python
+    lt: Monty Python
+    lv: Monty Python
+    mk: Монти Пајтон
+    ms: Monty Python
+    mul: Monty Python
+    nan: Monty Python
+    nb: Monty Python
+    nds: Monty Python
+    nl: Monty Python
+    nn: Monty Python
+    oc: Monty Python
+    pl: Monty Python
+    pt: Monty Python
+    pt-br: Monty Python
+    ro: Monty Python
+    ru: Монти Пайтон
+    sco: Monty Python
+    sh: Monty Python
+    sk: Monty Python
+    skr: مونتي بايثون
+    sl: Monty Python
+    sq: Monty Python
+    sr: Монти Пајтон
+    sv: Monty Python
+    th: มอนตี้ ไพธอน
+    tr: Monty Python
+    uk: Монті Пайтон
+    uz: Monty Python
+    vi: Monty Python
+    war: Monty Python
+    wuu: 巨蟒剧团
+    yue: 踎低噴飯
+    zh: 蒙提·派森
+    zh-cn: 蒙提·派森
+    zh-hans: 蒙提·派森
+    zh-hk: 踎低噴飯
+    zh-tw: 蒙提·派森
 ---
-
 # [[Monty_Python]]
 
 #has_/time_/started :: 1969-06 

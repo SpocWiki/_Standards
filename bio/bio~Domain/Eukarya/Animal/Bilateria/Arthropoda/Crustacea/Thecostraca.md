@@ -1,12 +1,73 @@
 ---
 aliases:
-  - Thecostraca
-  - Barnacle
-  - Rankenfußkrebse
-  - Seepocken
+- Barnacle
+- Rankenfußkrebse
+- Seepocken
+- Tecostraci
+- Tecostráceos
+- Tekostraki
+- Thecostraca
+- θηκόστρακα
+- ثيكوستراكا
+- 鞘甲亜綱
+- 鞘甲亞綱
+- 鞘甲綱
+- 鞘甲纲
+- 초갑류
 title: Thecostraca
+has_id_wikidata: Q150628
+dv_has_:
+  name_:
+    an: Thecostraca
+    arz: ثيكوستراكا
+    ast: Thecostraca
+    bg: Thecostraca
+    ca: Tecostraci
+    ceb: Thecostraca
+    de: Thecostraca
+    el: θηκόστρακα
+    en: Thecostraca
+    eo: Thecostraca
+    es: Thecostraca
+    eu: Thecostraca
+    ext: Thecostraca
+    fi: Thecostraca
+    fr: Thecostraca
+    ga: Thecostraca
+    gl: Tecostráceos
+    ia: Thecostraca
+    id: Thecostraca
+    ie: Thecostraca
+    io: Thecostraca
+    it: Thecostraca
+    ja: 鞘甲亜綱
+    ko: 초갑류
+    la: Thecostraca
+    lv: Tekostraki
+    mul: Thecostraca
+    nb: Thecostraca
+    nl: Thecostraca
+    nn: Thecostraca
+    oc: Thecostraca
+    pl: Thecostraca
+    pt: Thecostraca
+    pt-br: Thecostraca
+    ro: Thecostraca
+    ru: Thecostraca
+    sl: Thecostraca
+    sq: Thecostraca
+    sv: Thecostraca
+    th: Thecostraca
+    tr: Thecostraca
+    uk: Thecostraca
+    vi: Thecostraca
+    vo: Thecostraca
+    war: Thecostraca
+    zh: 鞘甲纲
+    zh-cn: 鞘甲綱
+    zh-hans: 鞘甲纲
+    zh-tw: 鞘甲亞綱
 ---
-
 # [[Thecostraca]] 
 
 Barnacles and their relatives 

@@ -1,9 +1,80 @@
 ---
 aliases:
-  - Pauline Kael
-  - Kael,Pauline
+- Kael,Pauline
+- Pauline Kael
+- Πωλίν Κάελ
+- Полін Кел
+- Полин Кејл
+- Полин Кейл
+- Պոլին Կեյլ
+- פולין קייל
+- بولين كايل
+- پالین کیل
+- پولين كايل
+- পলিন কেল
+- პოლინ კეილი
+- ポーリン・ケイル
+- 保利娜·基尔
+- 保琳·凱爾
+- 폴린 케일
+has_id_wikidata: Q436910
+dv_has_:
+  name_:
+    ar: بولين كايل
+    arz: پولين كايل
+    ast: Pauline Kael
+    azb: پالین کیل
+    bn: পলিন কেল
+    bs: Pauline Kael
+    ca: Pauline Kael
+    cs: Pauline Kael
+    cv: Полин Кейл
+    cy: Pauline Kael
+    da: Pauline Kael
+    de: Pauline Kael
+    de-ch: Pauline Kael
+    el: Πωλίν Κάελ
+    en: Pauline Kael
+    en-ca: Pauline Kael
+    en-gb: Pauline Kael
+    es: Pauline Kael
+    fa: پالین کیل
+    fi: Pauline Kael
+    fr: Pauline Kael
+    fy: Pauline Kael
+    ga: Pauline Kael
+    gl: Pauline Kael
+    he: פולין קייל
+    hu: Pauline Kael
+    hy: Պոլին Կեյլ
+    id: Pauline Kael
+    ig: Pauline Kael
+    it: Pauline Kael
+    ja: ポーリン・ケイル
+    ka: პოლინ კეილი
+    ko: 폴린 케일
+    lb: Pauline Kael
+    lt: Pauline Kael
+    nb: Pauline Kael
+    nl: Pauline Kael
+    nn: Pauline Kael
+    pap: Pauline Kael
+    pl: Pauline Kael
+    pt: Pauline Kael
+    pt-br: Pauline Kael
+    ro: Pauline Kael
+    ru: Полин Кейл
+    sh: Pauline Kael
+    sk: Pauline Kael
+    sl: Pauline Kael
+    sr: Полин Кејл
+    sv: Pauline Kael
+    uk: Полін Кел
+    zh: 保利娜·基尔
+    zh-cn: 保利娜·基尔
+    zh-hans: 保利娜·基尔
+    zh-hant: 保琳·凱爾
 ---
-
 #has_/time_/started :: 1919-06-19 
 #has_/time_/stopped :: 2001-09-03 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

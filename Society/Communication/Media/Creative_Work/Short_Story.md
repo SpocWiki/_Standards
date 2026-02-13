@@ -1,46 +1,168 @@
 ---
 aliases:
-  - short-story
-  - short_story
-  - ShortStory
-  - is_a_short_story
-  - Short_Story
-  - Short Story
+- ababa a sarita
+- apsakymas
+- apsakīms
+- cerita pendek
+- cerpen
+- cerpén
+- conte
+- conto
+- crita cekak
+- cuento
+- cuentu
+- danevell
+- demi pasukan
+- diegema
+- gajeren labari
+- gearrscéal
+- giare-skeeal
+- haglipot nga susumaton
+- hekaya
+- hekayə
+- hikaye
+- hikojə
+- hwedhel berr
+- istanık
+- is_a_short_story
+- kisah handap
+- Koart ferhaal
+- konseja
+- kontakizun laburra
+- kort verhaal
+- Kortgeschicht
+- kortverhaal
+- kratka priča
+- kratka zgodba
+- Kuazgschicht
+- Kuerzgeschicht
+- kurteçîrok
+- Kurzgeschichte
+- lühijutt
+- maikling kuwento
+- mombe'urã
+- nooveel
+- nouvelle
+- nouvèl
+- novealla
+- novela
+- novelette
+- novell
+- novella
+- novelle
+- novelli
+- novelo
+- noveʹll
+- nutizzia
+- opowiadanie
+- povestire
+- poviedka
+- povídka
+- pripovijetka
+- priča
+- racconto
+- sanutez
+- sgeul goirid
+- shaat tuori
+- Short Story
+- short-story
+- ShortStory
+- short_story
+- smásaga
+- stori fer
+- stāsts
+- tregimi
+- truyện ngắn
+- willarina
+- òpòwiôdanié
+- διήγημα
+- ёвтнема
+- азкссь
+- апавяданне
+- апавяданьне
+- дийцар
+- калав
+- кэпсээн
+- новелла
+- оповідання
+- повіданя
+- приповетка
+- радзырд
+- разказ
+- расказ
+- рассказ
+- хикәйә
+- хикәя
+- қисса
+- әңгіме
+- պատմուածք
+- պատմվածք
+- סיפור קצר
+- קורצע דערציילונג
+- آکاڻي
+- حیکایه
+- داستان کوتاه
+- قصة قصيرة
+- قصه قصيره
+- لنډه کيسه
+- مختصر افسانہ
+- نِکی کہاݨی
+- چرڤين
+- کورتەچیرۆک
+- चिबाखं
+- लघुकथा
+- চুটিগল্প
+- ছোট গল্প
+- ਨਿੱਕੀ ਕਹਾਣੀ
+- ટૂંકી વાર્તા
+- କ୍ଷୁଦ୍ର ଗଳ୍ପ
+- சிறுகதை
+- తెలుగు కథ
+- ചെറുകഥ
+- කෙටි කතා
+- เรื่องสั้น
+- ဝတ္ထုဇမၠေအ်
+- ဝတ္ထုတို
+- მოთხრობა
+- 短篇小說
+- 短篇小说
+- 短編小説
+- 단편 소설
 has_id_wikidata: Q49084
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - short_story
+- short_story
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_short_story Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_short_story Class
 type: Type
 different_from:
-  - '[[_Standards/WikiData/WD~novella,149537]]'
-  - '[[_Standards/WikiData/WD~narration,3328821]]'
-  - '[[_Standards/WikiData/WD~short_short_story,6678252]]'
-  - '[[_Standards/WikiData/WD~Erzählung,27036528]]'
-  - '[[_Standards/WikiData/WD~novella,43334491]]'
+- '[[_Standards/WikiData/WD~novella,149537]]'
+- '[[_Standards/WikiData/WD~narration,3328821]]'
+- '[[_Standards/WikiData/WD~short_short_story,6678252]]'
+- '[[_Standards/WikiData/WD~Erzählung,27036528]]'
+- '[[_Standards/WikiData/WD~novella,43334491]]'
 studied_by: '[[_Standards/WikiData/WD~literary_studies,208217]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~narration,3328821]]'
-  - '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~narration,3328821]]'
+- '[[_Standards/WikiData/WD~work_of_fiction,87482979]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
 instance_of: '[[_Standards/WikiData/WD~literary_form,4263830]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_short_story,6209339]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9479889,9479889]]'
@@ -53,8 +175,154 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3307
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/RASSKAZ.html
 Library_of_Congress_Classification: PN3373
 Commons_category: Short stories
+dv_has_:
+  name_:
+    af: kortverhaal
+    an: cuento
+    ar: قصة قصيرة
+    ary: قصة قصيرة
+    arz: قصه قصيره
+    as: চুটিগল্প
+    ast: cuentu
+    az: hekayə
+    azb: حیکایه
+    ba: хикәйә
+    ban: cerpén
+    bar: Kuazgschicht
+    be: апавяданне
+    be-tarask: апавяданьне
+    bew: cerpen
+    bg: разказ
+    bjn: kisah handap
+    bn: ছোট গল্প
+    br: danevell
+    bs: pripovijetka
+    ca: conte
+    ce: дийцар
+    ckb: کورتەچیرۆک
+    cs: povídka
+    csb: òpòwiôdanié
+    cv: калав
+    cy: stori fer
+    da: novelle
+    de: Kurzgeschichte
+    diq: istanık
+    el: διήγημα
+    en: short story
+    en-ca: short story
+    en-gb: novelette
+    en-us: short story
+    eo: novelo
+    es: cuento
+    et: lühijutt
+    eu: kontakizun laburra
+    fa: داستان کوتاه
+    fi: novelli
+    fr: nouvelle
+    fy: Koart ferhaal
+    ga: gearrscéal
+    gan: 短篇小說
+    gd: sgeul goirid
+    gl: conto
+    gn: mombe'urã
+    gu: ટૂંકી વાર્તા
+    gv: giare-skeeal
+    ha: gajeren labari
+    he: סיפור קצר
+    hi: लघुकथा
+    hr: kratka priča
+    ht: nouvèl
+    hu: novella
+    hy: պատմվածք
+    hyw: պատմուածք
+    id: cerita pendek
+    ilo: ababa a sarita
+    io: novelo
+    is: smásaga
+    it: racconto
+    ja: 短編小説
+    jam: shaat tuori
+    jv: crita cekak
+    ka: მოთხრობა
+    kk: әңгіме
+    ko: 단편 소설
+    ku: kurteçîrok
+    kw: hwedhel berr
+    ky: новелла
+    la: diegema
+    lad: konseja
+    lb: Kuerzgeschicht
+    lt: apsakymas
+    lv: stāsts
+    map-bms: cerita pendek
+    mdf: азкссь
+    mk: расказ
+    ml: ചെറുകഥ
+    mnw: ဝတ္ထုဇမၠေအ်
+    mr: लघुकथा
+    ms: cerpen
+    ms-arab: چرڤين
+    mt: novella
+    my: ဝတ္ထုတို
+    myv: ёвтнема
+    nb: novelle
+    nds: Kortgeschicht
+    ne: लघुकथा
+    new: चिबाखं
+    nl: kort verhaal
+    nn: novelle
+    oc: conte
+    or: କ୍ଷୁଦ୍ର ଗଳ୍ପ
+    os: радзырд
+    pa: ਨਿੱਕੀ ਕਹਾਣੀ
+    pl: opowiadanie
+    pnb: نِکی کہاݨی
+    ps: لنډه کيسه
+    pt: conto
+    pt-br: conto
+    qu: willarina
+    ro: povestire
+    ru: рассказ
+    rue: повіданя
+    sah: кэпсээн
+    scn: nutizzia
+    sd: آکاڻي
+    se: novealla
+    sgs: apsakīms
+    sh: novela
+    si: කෙටි කතා
+    sk: poviedka
+    sl: kratka zgodba
+    smn: nooveel
+    sms: noveʹll
+    sq: tregimi
+    sr: приповетка
+    sr-ec: приповетка
+    sr-el: priča
+    su: demi pasukan
+    sv: novell
+    sw: hekaya
+    ta: சிறுகதை
+    te: తెలుగు కథ
+    tg: қисса
+    th: เรื่องสั้น
+    tl: maikling kuwento
+    tly: hikojə
+    tr: hikaye
+    tt: хикәя
+    uk: оповідання
+    ur: مختصر افسانہ
+    vec: conto
+    vep: sanutez
+    vi: truyện ngắn
+    war: haglipot nga susumaton
+    wuu: 短篇小说
+    yi: קורצע דערציילונג
+    yue: 短篇小說
+    zh: 短篇小说
+    zh-hans: 短篇小说
+    zh-hant: 短篇小說
 ---
-
 # [[Short_Story]] 
 
 Class of all short_storys.

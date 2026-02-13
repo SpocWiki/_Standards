@@ -1,26 +1,210 @@
 ---
 aliases:
-  - associative
-  - assoziativ
-  - Associativity
-  - Associativität
+- asociatividad
+- asociatividade
+- asociatividá
+- asociativita
+- Asociativitate
+- asociativitāte
+- asociativnost
+- asociatyvumas
+- Asociatívna operácia
+- asocieco
+- Asocijativnost
+- asosiatifitas
+- Asotsiatiifgesets
+- associative
+- associatividade
+- Associativitas
+- Associativitat
+- Associativitate
+- associativiteit
+- Associativitet
+- Associativity
+- associatività
+- Associativität
+- associativité
+- Assocïatïvtik operacïya
+- assosiativ lov
+- assosiativitet
+- assotsiatiivsus
+- Assotsiativlik
+- assoziativ
+- Assoziativgesetz
+- asszociativitás
+- aсоцијативност
+- Birleşme özelliği
+- comhthiomsaitheacht
+- elkartze-lege
+- Kalis sekutuan
+- kết hợp
+- liitännäisyys
+- propietat associativa
+- Propietà asociativa
+- Tengiregla
+- Vetia e shoqërimit
+- āhuatanga herekore
+- łączność
+- Προσεταιριστική ιδιότητα
+- асацыятыўнасьць
+- асацыятыўная аперацыя
+- асоціативність
+- Асоцијативност
+- Асоциативност
+- Ассациативлăх (математика)
+- ассоциатив операция
+- Ассоциативлык
+- ассоциативность
+- Ассоциативтік операция
+- զուգորդականություն
+- אסאציאטיוויטעט
+- פעולה אסוציאטיבית
+- اسسوتسىياتىيۆتىك وپەراتسىييا
+- شرکتپذیری
+- عملية تجميعية
+- یەکتربەستن
+- সহযোজী ধর্ম
+- சேர்ப்புப் பண்பு
+- സാഹചര്യനിയമം
+- สมบัติการเปลี่ยนหมู่
+- 結合律
+- 結合法則
+- 结合律
+- 결합법칙
 has_id_wikidata: Q177251
 used_by:
-  - '[[_Standards/WikiData/WD~union,185359]]'
-  - '[[_Standards/WikiData/WD~addition,32043]]'
-  - '[[_Standards/WikiData/WD~multiplication,40276]]'
+- '[[_Standards/WikiData/WD~union,185359]]'
+- '[[_Standards/WikiData/WD~addition,32043]]'
+- '[[_Standards/WikiData/WD~multiplication,40276]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~rule_of_replacement,1361787]]'
-  - '[[_Standards/WikiData/WD~mathematical_property,3924032]]'
+- '[[_Standards/WikiData/WD~rule_of_replacement,1361787]]'
+- '[[_Standards/WikiData/WD~mathematical_property,3924032]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Associativity%20of%20binary%20operations%20%28without%20question%20marks%29.svg
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\forall x,y\\colon (x\\star y)\\star z=x\\star (y\\star z)}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi mathvariant=\"normal\">&#x2200;<!-- ∀ --></mi>\n        <mi>x</mi>\n        <mo>,</mo>\n        <mi>y</mi>\n        <mo>&#x003A;<!-- : --></mo>\n        <mo stretchy=\"false\">(</mo>\n        <mi>x</mi>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mi>y</mi>\n        <mo stretchy=\"false\">)</mo>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mi>z</mi>\n        <mo>=</mo>\n        <mi>x</mi>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mo stretchy=\"false\">(</mo>\n        <mi>y</mi>\n        <mo>&#x22C6;<!-- ⋆ --></mo>\n        <mi>z</mi>\n        <mo stretchy=\"false\">)</mo>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\forall x,y\\colon (x\\star y)\\star z=x\\star (y\\star z)}</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \forall x,y\colon (x\star y)\star z=x\star (y\star z)}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+          <mi>x</mi>
+          <mo>,</mo>
+          <mi>y</mi>
+          <mo>&#x003A;<!-- : --></mo>
+          <mo stretchy="false">(</mo>
+          <mi>x</mi>
+          <mo>&#x22C6;<!-- ⋆ --></mo>
+          <mi>y</mi>
+          <mo stretchy="false">)</mo>
+          <mo>&#x22C6;<!-- ⋆ --></mo>
+          <mi>z</mi>
+          <mo>=</mo>
+          <mi>x</mi>
+          <mo>&#x22C6;<!-- ⋆ --></mo>
+          <mo stretchy="false">(</mo>
+          <mi>y</mi>
+          <mo>&#x22C6;<!-- ⋆ --></mo>
+          <mi>z</mi>
+          <mo stretchy="false">)</mo>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \forall x,y\colon (x\star y)\star z=x\star (y\star z)}</annotation>
+    </semantics>
+  </math>
+dv_has_:
+  name_:
+    ar: عملية تجميعية
+    ast: asociatividá
+    ba: ассоциатив операция
+    be: асацыятыўная аперацыя
+    be-tarask: асацыятыўнасьць
+    bg: Асоциативност
+    bn: সহযোজী ধর্ম
+    bs: Asocijativnost
+    ca: propietat associativa
+    ckb: یەکتربەستن
+    cs: asociativita
+    cv: Ассациативлăх (математика)
+    da: Associativitet
+    de: Assoziativgesetz
+    el: Προσεταιριστική ιδιότητα
+    en: associativity
+    eo: asocieco
+    es: asociatividad
+    et: assotsiatiivsus
+    eu: elkartze-lege
+    fa: شرکتپذیری
+    fi: liitännäisyys
+    fr: associativité
+    frr: Asotsiatiifgesets
+    ga: comhthiomsaitheacht
+    gl: asociatividade
+    he: פעולה אסוציאטיבית
+    hr: Asocijativnost
+    hu: asszociativitás
+    hy: զուգորդականություն
+    ia: Associativitate
+    id: asosiatifitas
+    is: Tengiregla
+    it: associatività
+    ja: 結合法則
+    kk: Ассоциативтік операция
+    kk-arab: اسسوتسىياتىيۆتىك وپەراتسىييا
+    kk-cn: اسسوتسىياتىيۆتىك وپەراتسىييا
+    kk-cyrl: Ассоциативтік операция
+    kk-kz: Ассоциативтік операция
+    kk-latn: Assocïatïvtik operacïya
+    kk-tr: Assocïatïvtik operacïya
+    ko: 결합법칙
+    la: Associativitas
+    lb: Assoziativgesetz
+    lt: asociatyvumas
+    lv: asociativitāte
+    mi: āhuatanga herekore
+    mk: Асоцијативност
+    ml: സാഹചര്യനിയമം
+    ms: Kalis sekutuan
+    nb: assosiativ lov
+    nl: associativiteit
+    nn: assosiativitet
+    oc: Associativitat
+    pl: łączność
+    pt: associatividade
+    pt-br: associatividade
+    ro: Asociativitate
+    ru: ассоциативность
+    sh: Asocijativnost
+    sk: Asociatívna operácia
+    sl: asociativnost
+    sq: Vetia e shoqërimit
+    sr: aсоцијативност
+    sr-ec: асоцијативност
+    sr-el: asocijativnost
+    sv: associativitet
+    ta: சேர்ப்புப் பண்பு
+    th: สมบัติการเปลี่ยนหมู่
+    tr: Birleşme özelliği
+    tt: Ассоциативлык
+    uk: асоціативність
+    ur: Associativity
+    uz: Assotsiativlik
+    vec: Propietà asociativa
+    vi: kết hợp
+    wuu: 结合律
+    yi: אסאציאטיוויטעט
+    yue: 結合律
+    zh: 结合律
+    zh-cn: 结合律
+    zh-hans: 结合律
+    zh-hant: 結合律
+    zh-hk: 結合律
+    zh-sg: 结合律
+    zh-tw: 結合律
 ---
-
 # [[associative]] 
 
 ## Associativity => linear Structure 

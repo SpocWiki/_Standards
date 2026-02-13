@@ -1,22 +1,155 @@
 ---
 aliases:
-  - Cretaceous–Paleogene extinction event
-  - Cretaceous-Tertiary extinction event
-  - Cretaceous–Paleogene_Extinction_Event
-  - Cretaceous–Paleogene Extinction Event
+- Abubuwan da suka faru na Cretaceous-Paleogene
+- Cretaceous-Paleogene mass extinction
+- Cretaceous-Tertiary extinction event
+- Cretaceous–Paleogene extinction event
+- Cretaceous–Paleogene_Extinction_Event
+- Digwyddiad difodiant Cretasaidd-Paleogen
+- dispariția dinozaurilor
+- Díobhaí K-T
+- Estinción masiva del Cretácicu-Paleóxenu
+- Estingui de la cretasica-paleojen
+- Estinzione di massa del Cretaceo-Paleocene
+- Exstinctio Cretacea-Palaeogena
+- Extincion del Cretacèu-Terciari
+- Extinció del Cretaci-Terciari
+- Extinción dos dinosauros
+- extinción masiva del Cretácico-Paleógeno
+- extinction Crétacé-Paléogène
+- Extinção Cretáceo-Paleogeno
+- Grand mortiment du Crétachi
+- K-T izumiranje
+- K/Pg-grænse
+- Kredno-paleogensko izumiranje
+- kredno-terciarno izumrtje
+- Kredno–paleogeni događaj izumiranja
+- Kreide-Paläogen-Massenaussterben
+- Kreidos-terciaro masinis rūšių išnykimas
+- kretacea-paleogena formortiga evento
+- Kretase-Tersiyer yok oluşu
+- Kretazeo-Tertziarioko iraungipen masiboa
+- Krijt-Paleogeen-massa-extinctie
+- Krita/Tertiär-gränsen
+- Kritt-Paleogen-utryddelsen
+- Kritt-tertiær-utryddinga
+- Kryt-Paleogeen-uitwissing
+- kréta–tercier kihalási esemény
+- Krīta-terciāra masveida izmiršana
+- liitukauden joukkosukupuutto
+- Pagkalipol noong panahong Kretasiko–Paleoheno
+- Peristiwa Kapunahan Kapur-Térsiér
+- Peristiwa kepunahan Kapur-Tersier
+- Peristiwa kepupusan Kapur–Paleogen
+- Sự kiện tuyệt chủng kỷ Creta-Paleogen
+- Vymieranie na konci kriedy
+- vymírání na konci křídy
+- wymieranie kredowe
+- Útdauði risaeðla
+- Συμβάν μαζικής εξαφάνισης της Κρητιδικής-Παλαιογενούς περιόδου
+- Динозаврларның юкка чыгуы
+- Кредно-палеогенско изумирање
+- Крейдове вимирання
+- крэйдавае вымiраньне
+- Масово измиране Креда - Терциер
+- мел-палеогеновое вымирание
+- הכחדת קרטיקון-פלאוגן
+- انقراض العصر الطباشيري الباليوجيني
+- انقراض دوران سوم کرتاسه
+- د کرېټیسوس – پالئوجېن ورکېدو پېښه
+- کریٹیشیاس–پلاگوین معدومیت کا واقعہ
+- क्रीटेशस-पैलियोजीन विलुप्ति घटना
+- ক্রিটেশিয়াস–প্যালিওজিন বিলুপ্তি ঘটনা
+- క్రెటేషస్-పాలియోజీన్ విలుప్తి ఘటన
+- ക്രിറ്റേഷ്യസ് - ടെർഷ്യറി വംശനാശം
+- เหตุการณ์การสูญพันธุ์ในยุคครีเทเชียส-พาลิโอจีน
+- ცარცულ-პალეოგენური გადაშენება
+- 白亜紀と古第三紀の間の大量絶滅
+- 白堊紀-古近紀滅絕事件
+- 白堊紀－第三紀滅絕事件
+- 백악기-팔레오기 대량절멸
 has_id_wikidata: Q55811
 different_from: '[[_Standards/WikiData/WD~Cretaceous_Paleogene_boundary,682871]]'
 immediate_cause_of:
-  - '[[_Standards/WikiData/WD~starvation,853930]]'
-  - '[[_Standards/WikiData/WD~impact_winter,3032301]]'
+- '[[_Standards/WikiData/WD~starvation,853930]]'
+- '[[_Standards/WikiData/WD~impact_winter,3032301]]'
 has_cause: '[[_Standards/WikiData/WD~Chicxulub_impactor,5096573]]'
 described_by_source: '[[_Standards/WikiData/WD~Q38103952,38103952]]'
 point_in_time: -66000000-06
 instance_of: '[[_Standards/WikiData/WD~extinction_event,55814]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Impact%20event.jpg
 Commons_category: K/T Event
+dv_has_:
+  name_:
+    af: Kryt-Paleogeen-uitwissing
+    ar: انقراض العصر الطباشيري الباليوجيني
+    ast: Estinción masiva del Cretácicu-Paleóxenu
+    be-tarask: крэйдавае вымiраньне
+    bg: Масово измиране Креда - Терциер
+    bn: ক্রিটেশিয়াস–প্যালিওজিন বিলুপ্তি ঘটনা
+    bs: Kredno-paleogensko izumiranje
+    ca: Extinció del Cretaci-Terciari
+    cs: vymírání na konci křídy
+    cy: Digwyddiad difodiant Cretasaidd-Paleogen
+    da: K/Pg-grænse
+    de: Kreide-Paläogen-Massenaussterben
+    el: Συμβάν μαζικής εξαφάνισης της Κρητιδικής-Παλαιογενούς περιόδου
+    en: Cretaceous-Paleogene mass extinction
+    en-ca: Cretaceous–Paleogene extinction event
+    en-gb: Cretaceous–Paleogene extinction event
+    eo: kretacea-paleogena formortiga evento
+    es: extinción masiva del Cretácico-Paleógeno
+    eu: Kretazeo-Tertziarioko iraungipen masiboa
+    fa: انقراض دوران سوم کرتاسه
+    fi: liitukauden joukkosukupuutto
+    fr: extinction Crétacé-Paléogène
+    ga: Díobhaí K-T
+    gl: Extinción dos dinosauros
+    ha: Abubuwan da suka faru na Cretaceous-Paleogene
+    he: הכחדת קרטיקון-פלאוגן
+    hi: क्रीटेशस-पैलियोजीन विलुप्ति घटना
+    hu: kréta–tercier kihalási esemény
+    id: Peristiwa kepunahan Kapur-Tersier
+    is: Útdauði risaeðla
+    it: Estinzione di massa del Cretaceo-Paleocene
+    ja: 白亜紀と古第三紀の間の大量絶滅
+    ka: ცარცულ-პალეოგენური გადაშენება
+    ko: 백악기-팔레오기 대량절멸
+    la: Exstinctio Cretacea-Palaeogena
+    lfn: Estingui de la cretasica-paleojen
+    lt: Kreidos-terciaro masinis rūšių išnykimas
+    lv: Krīta-terciāra masveida izmiršana
+    mk: Кредно-палеогенско изумирање
+    ml: ക്രിറ്റേഷ്യസ് - ടെർഷ്യറി വംശനാശം
+    ms: Peristiwa kepupusan Kapur–Paleogen
+    nb: Kritt-Paleogen-utryddelsen
+    nl: Krijt-Paleogeen-massa-extinctie
+    nn: Kritt-tertiær-utryddinga
+    nrm: Grand mortiment du Crétachi
+    oc: Extincion del Cretacèu-Terciari
+    pl: wymieranie kredowe
+    ps: د کرېټیسوس – پالئوجېن ورکېدو پېښه
+    pt: Extinção Cretáceo-Paleogeno
+    pt-br: Extinção Cretáceo-Paleogeno
+    ro: dispariția dinozaurilor
+    ru: мел-палеогеновое вымирание
+    sh: K-T izumiranje
+    sk: Vymieranie na konci kriedy
+    sl: kredno-terciarno izumrtje
+    sr: Kredno–paleogeni događaj izumiranja
+    su: Peristiwa Kapunahan Kapur-Térsiér
+    sv: Krita/Tertiär-gränsen
+    te: క్రెటేషస్-పాలియోజీన్ విలుప్తి ఘటన
+    th: เหตุการณ์การสูญพันธุ์ในยุคครีเทเชียส-พาลิโอจีน
+    tl: Pagkalipol noong panahong Kretasiko–Paleoheno
+    tr: Kretase-Tersiyer yok oluşu
+    tt: Динозаврларның юкка чыгуы
+    uk: Крейдове вимирання
+    ur: کریٹیشیاس–پلاگوین معدومیت کا واقعہ
+    vi: Sự kiện tuyệt chủng kỷ Creta-Paleogen
+    yue: 白堊紀-古近紀滅絕事件
+    zh: 白堊紀－第三紀滅絕事件
 ---
-
 # [[Cretaceous–Paleogene_Extinction_Event]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cretaceous–Paleogene_extinction_event,55811|WD~Cretaceous–Paleogene_extinction_event,55811]]

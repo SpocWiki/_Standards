@@ -1,4 +1,160 @@
-
+---
+has_id_wikidata: Q6498684
+dv_has_:
+  name_:
+    ar: مِلكية
+    ast: propiedá
+    az: sahibkarlıq
+    ba: Милек
+    ban: Kaduenang
+    bcl: Pagsadiri
+    be: уласнасць
+    be-tarask: уласнасьць
+    bg: Собственост
+    ca: propietat
+    ckb: خاوەندارێتی
+    cs: vlastnictví
+    cv: Харпăрлăх
+    cy: perchenogaeth
+    da: ejerskab
+    de: Inhaber
+    el: ιδιοκτησία
+    en: ownership
+    en-gb: ownership
+    eo: posedanteco
+    es: propiedad
+    fa: مالکیت
+    fi: omistusoikeus
+    fr: possession
+    ga: úinéireacht
+    gl: propiedade
+    he: בעלות
+    hi: स्वामित्व
+    hr: posjedovanje
+    hu: tulajdonlás
+    hy: Սեփականություն
+    id: Kepemilikan
+    it: possesso
+    ja: 所有権
+    ka: საკუთრება
+    kk: Меншік
+    kn: ಒಡೆತನ
+    ko: 소유권
+    la: possessoritas
+    lt: savininkas
+    lv: īpašumtiesības
+    mcn: fra᷅ytà
+    mk: сопственост
+    mn: Өмчлөгч
+    ms: pemilikan
+    ms-arab: ڤميليقن
+    myv: Эрьме
+    nan: Só͘-iú-khoân
+    nb: eierskap
+    nl: eigenaar
+    nn: eigarskap
+    pa: ਮਲਕੀਅਤ
+    pl: własność
+    pt: direito de propriedade
+    ro: posesie
+    ru: собственность
+    sh: Pravo vlasništva
+    sk: vlastníctvo
+    sl: lastništvo
+    sq: zotërim
+    sr: својина
+    sr-ec: својина
+    sr-el: svojina
+    sv: ägande
+    ta: சொத்துரிமை
+    tok: jo
+    tr: mülkiyet
+    tt: милек
+    tt-cyrl: милек
+    uk: власність
+    uz: Mulk
+    vec: propietà
+    vi: sở hữu
+    yi: באזיץ
+    yue: 擁有權
+    zh: 所有权
+    zh-hans: 所有权
+    zh-hant: 所有權
+aliases:
+- direito de propriedade
+- eierskap
+- eigarskap
+- eigenaar
+- ejerskab
+- fra᷅ytà
+- Inhaber
+- jo
+- Kaduenang
+- Kepemilikan
+- lastništvo
+- Mulk
+- mülkiyet
+- omistusoikeus
+- ownership
+- Pagsadiri
+- pemilikan
+- perchenogaeth
+- posedanteco
+- posesie
+- posjedovanje
+- possession
+- possesso
+- possessoritas
+- Pravo vlasništva
+- propiedad
+- propiedade
+- propiedá
+- propietat
+- propietà
+- sahibkarlıq
+- savininkas
+- svojina
+- Só͘-iú-khoân
+- sở hữu
+- tulajdonlás
+- vlastnictví
+- vlastníctvo
+- własność
+- zotërim
+- ägande
+- úinéireacht
+- īpašumtiesības
+- ιδιοκτησία
+- власність
+- Меншік
+- милек
+- својина
+- собственность
+- Собственост
+- сопственост
+- уласнасць
+- уласнасьць
+- Харпăрлăх
+- Эрьме
+- Өмчлөгч
+- Սեփականություն
+- באזיץ
+- בעלות
+- خاوەندارێتی
+- مالکیت
+- مِلكية
+- ڤميليقن
+- स्वामित्व
+- ਮਲਕੀਅਤ
+- சொத்துரிமை
+- ಒಡೆತನ
+- საკუთრება
+- 所有权
+- 所有権
+- 所有權
+- 擁有權
+- 소유권
+---
 # [[Ownership]] 
 
 ## #has_/text_of_/abstract  

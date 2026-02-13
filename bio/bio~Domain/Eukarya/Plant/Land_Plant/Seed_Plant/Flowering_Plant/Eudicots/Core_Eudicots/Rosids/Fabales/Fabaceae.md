@@ -1,37 +1,106 @@
 ---
 aliases:
-  - Fabaceae
-  - Leguminosae
-  - legume family
-  - pea family
-  - bean family
-  - metuljnice
-  - Vlinderbloemenfamilie
-  - วงศ์ถั่ว
-  - 콩과
-  - 豆科
-  - 蝶形花科
+- Baklagiller
+- bean family
+- Bobanvuiččed
+- bobovité
+- bobowate
+- Bongfrüchten
+- Burchoqdoshlar
+- bôbovité
+- Chaqallu yura rikch'aq ayllu
+- Eartašattut
+- Elaf
+- erteblomfamilien
+- erteblomstfamilien
+- Ertublómaætt
+- Fabaceae
+- Fabaceæ
+- Fabacoj
+- Famîleya baqilan
+- hernekasvit
+- Hülsenfrüchtler
+- Họ Đậu
+- legume family
+- Legumineuses
+- Leguminosa
+- Leguminosae
+- leguminosas
+- Lekadun
+- Liblikõielised
+- Lleguminosa
+- Mahunarke
+- metuljnice
+- Paxlakimilər
+- pea family
+- pillangósvirágúak
+- pupiniai
+- Scheekefriichten
+- tauriņziežu dzimta
+- Tāu-kho
+- Vlinderbloemenfamilie
+- Vlinderblommign
+- Ärtväxter
+- Ærteblomstfamilien
+- Łušćinowcy
+- κυαμοειδή
+- Φαβάκεαι
+- бабовыя
+- Бобансетнень раськесь
+- бобові
+- бобови
+- бобовые
+- Буурцагтан
+- Бұршақтар тұқымдасы
+- күбәләкчәчәклеләр
+- Лептирњаче
+- Пăрçа йышшисем
+- Пырса йишвлӓ
+- Хъæдурхуызтæ
+- Хъюрув
+- Чанактуулар
+- Ҡуҙаҡлылар ғаиләһе
+- բակլազգիներ
+- קטניות
+- باقلائیان
+- بقولية
+- بقوليه
+- پھلیاں
+- फबासिए
+- फैबेसी
+- ஃபபேசியே
+- ఫాబేసి
+- ಚಪ್ಪರದವರೆ
+- ഫാബേസീ
+- วงศ์ถั่ว
+- ဖယ်ဘေးစီး
+- პარკოსნები
+- პოპოქიშობურეფი
+- マメ科
+- 蝶形花科
+- 豆科
+- 콩과
 has_id_wikidata: Q44448
 title: Fabaceae
 taxon_common_name:
-  - metuljnice
-  - Vlinderbloemenfamilie
-  - วงศ์ถั่ว
-  - 콩과
-  - 豆科
-  - 蝶形花科
+- metuljnice
+- Vlinderbloemenfamilie
+- วงศ์ถั่ว
+- 콩과
+- 豆科
+- 蝶形花科
 different_from: '[[_Standards/WikiData/WD~Caesalpinioideae,157156]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~bean,379813]]'
-  - '[[_Standards/WikiData/WD~mung_bean_sprout,7635866]]'
+- '[[_Standards/WikiData/WD~bean,379813]]'
+- '[[_Standards/WikiData/WD~mung_bean_sprout,7635866]]'
 described_by_source:
-  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Leguminosae,14856098]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Faba,64752871]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -49,8 +118,129 @@ Commons_category: Fabaceae
 taxon_name: Fabaceae
 Krugosvet_article: nauka_i_tehnika/biologiya/BOBOVIE.html
 NBN_System_Key: NBNSYS0000003201
+dv_has_:
+  name_:
+    af: Fabaceae
+    an: Fabaceae
+    ar: بقولية
+    arz: بقوليه
+    ast: Fabaceae
+    az: Paxlakimilər
+    ba: Ҡуҙаҡлылар ғаиләһе
+    be: бабовыя
+    be-tarask: бабовыя
+    bg: бобови
+    bs: Fabaceae
+    ca: Lleguminosa
+    ceb: Fabaceae
+    co: Fabaceae
+    cs: bobovité
+    cv: Пăрçа йышшисем
+    da: Ærteblomstfamilien
+    de: Hülsenfrüchtler
+    diq: Elaf
+    el: κυαμοειδή
+    en: Fabaceae
+    en-us: Fabaceae
+    eo: Fabacoj
+    es: Fabaceae
+    et: Liblikõielised
+    eu: Lekadun
+    ext: Fabaceae
+    fa: باقلائیان
+    fi: hernekasvit
+    fr: Fabaceae
+    frr: Bongfrüchten
+    ga: Fabaceae
+    gl: Leguminosa
+    grc: Φαβάκεαι
+    he: קטניות
+    hi: फैबेसी
+    hr: Mahunarke
+    hsb: Łušćinowcy
+    ht: Fabaceæ
+    hu: pillangósvirágúak
+    hy: բակլազգիներ
+    ia: leguminosas
+    id: Fabaceae
+    ie: Fabaceae
+    ilo: Fabaceae
+    io: Fabaceae
+    is: Ertublómaætt
+    it: Fabaceae
+    ja: マメ科
+    jv: Fabaceae
+    ka: პარკოსნები
+    kk: Бұршақтар тұқымдасы
+    kn: ಚಪ್ಪರದವರೆ
+    ko: 콩과
+    ku: Famîleya baqilan
+    ky: Чанактуулар
+    la: Fabaceae
+    lb: Scheekefriichten
+    lbe: Хъюрув
+    lmo: Fabaceae
+    lt: pupiniai
+    lv: tauriņziežu dzimta
+    mad: Fabaceae
+    mg: Fabaceae
+    mi: Fabaceae
+    mk: бобови
+    ml: ഫാബേസീ
+    mn: Буурцагтан
+    mr: फबासिए
+    mrj: Пырса йишвлӓ
+    ms: Fabaceae
+    mul: Fabaceae
+    my: ဖယ်ဘေးစီး
+    myv: Бобансетнень раськесь
+    nan: Tāu-kho
+    nb: erteblomstfamilien
+    nl: vlinderbloemenfamilie
+    nn: erteblomfamilien
+    oc: Fabaceae
+    os: Хъæдурхуызтæ
+    pl: bobowate
+    pnb: پھلیاں
+    pt: Fabaceae
+    pt-br: Fabaceae
+    qu: Chaqallu yura rikch'aq ayllu
+    ro: Fabaceae
+    ru: бобовые
+    sco: Fabaceae
+    se: Eartašattut
+    sh: Mahunarke
+    sk: bôbovité
+    sl: metuljnice
+    sq: Fabaceae
+    sr: Fabaceae
+    sr-ec: Лептирњаче
+    su: Fabaceae
+    sv: Ärtväxter
+    sw: Fabaceae
+    ta: ஃபபேசியே
+    te: ఫాబేసి
+    th: วงศ์ถั่ว
+    tl: Fabaceae
+    tr: Baklagiller
+    tt: күбәләкчәчәклеләр
+    uk: бобові
+    uz: Burchoqdoshlar
+    vep: Bobanvuiččed
+    vi: Họ Đậu
+    vls: Vlinderblommign
+    vo: Fabaceae
+    wa: Legumineuses
+    war: Fabaceae
+    wuu: 豆科
+    xmf: პოპოქიშობურეფი
+    yi: קטניות
+    yue: 豆科
+    zh: 豆科
+    zh-cn: 豆科
+    zh-hans: 豆科
+    zh-tw: 豆科
 ---
-
 # [[Fabaceae]]
 
 Legumes 

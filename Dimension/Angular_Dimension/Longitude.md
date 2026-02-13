@@ -1,19 +1,258 @@
 ---
 aliases:
+- boylam
+- dhigaha
+- domhanfhad
+- dugość geograficzno
+- długość geograficzna
+- garis bujur
+- Garis Nangtung
+- garisan bujur
+- Geograafisk lengde
+- Geografik uzunlik
+- geografische Länge
+- geografiska dlinina
+- geografiska dołhosć
+- geografska dužina
+- geographesch Längt
+- geographische Länge
+- gjatësia gjeografike
+- guhkkodatgráda
+- Gĭng-dô
+- hedred
+- hosszúsági kör
+- hydred
+- hêlîlar
+- ilguma
+- keng-tō͘
+- kinh độ
+- kinowaskimakak
+- kookkadvuõttcieʹǩǩes
+- kukkodâhpirrâdâh
+- Laharan-jara hasina
+- lengdargráða
+- lengdegrad
+- Lengtegraad
+- lengtegraod
+- lengtegroad
+- lingtegraad
+- llonxitú
+- lonchitut (cheografía)
+- loncitùdini
+- longhitud
+- longitud
+- longitude
+- longitudine
+- longitudo
+- longitudo geographica
+- longitüda
+- lonjitid
+- lonxitude
+- længdegrad
+- Meridyen
+- monkɔlɔ́tɔ molaí
+- muyeranhambo
+- pikkus
+- pituusaste
+- Sararran Gadee
+- tus-wu-taxaw
+- uzunluq dairəsi
+- zemepisná dĺžka
+- zemljepisna dolžina
+- zemljopisna dužina
+- zeměpisná délka
+- ģeogrāfiskais garums
+- γεωγραφικό μήκος
+- бойлық
+- географска должина
+- географска дужина
+- географска дължина
+- дæргъад
+- даўгата
+- довгота
+- долгота
+- кузьдала
+- кутык
+- оҙонлоҡ
+- Тăрăх (координат)
+- Узундук
+- усталааһын
+- Աշխարհագրական երկայնություն
+- קו אורך
+- طول البلد
+- طول بلد
+- طول جغرافي
+- طول جغرافیایی
+- ڊگهائي ڦاڪ
+- ھێڵی درێژی
+- देशान्तर
+- रेखांश
+- দ্রাঘিমাংশ
+- ଦ୍ରାଘିମା
+- நிலநிரைக்கோடு
+- రేఖాంశం
+- രേഖാംശം
+- ลองจิจูด
+- ເສັ້ນແວງ
+- གཞུང་ཐིག
+- ထႅဝ်တင်ႈ
+- လောင်ဂျီကျူ
+- လောင်စီစျု
+- გრძედი
+- ዝንግሪር
+- 経度
+- 經
+- 經度
+- 经度
+- 경도
 has_id_wikidata: Q36477
-subclass_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-part_of: "[[_Standards/WikiData/WD~geographic_coordinate,104224919]]"
-opposite_of: "[[_Standards/WikiData/WD~latitude,34027]]"
-OmegaWiki_Defined_Meaning: "5183"
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~geographic_coordinate,104224919]]'
+opposite_of: '[[_Standards/WikiData/WD~latitude,34027]]'
+OmegaWiki_Defined_Meaning: 5183
 OpenStreetMap_key: longitude
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi></mstyle></mrow></math>
 quantity_symbol_string_: λ
 Iconclass_notation: 25A152
 Commons_category: Longitudes
+dv_has_:
+  name_:
+    af: Lengtegraad
+    an: lonchitut (cheografía)
+    ar: طول جغرافي
+    ast: llonxitú
+    atj: kinowaskimakak
+    awa: देशान्तर
+    az: uzunluq dairəsi
+    ba: оҙонлоҡ
+    be: даўгата
+    be-tarask: даўгата
+    bg: географска дължина
+    bho: देशान्तर
+    blk: လောင်စီစျု
+    bn: দ্রাঘিমাংশ
+    bo: གཞུང་ཐིག
+    br: hedred
+    bs: geografska dužina
+    ca: longitud
+    cdo: Gĭng-dô
+    ceb: Longhitud
+    ckb: ھێڵی درێژی
+    cs: zeměpisná délka
+    cv: Тăрăх (координат)
+    cy: hydred
+    da: længdegrad
+    de: geographische Länge
+    diq: Meridyen
+    dsb: geografiska dlinina
+    el: γεωγραφικό μήκος
+    en: longitude
+    eo: longitudo
+    es: longitud
+    et: pikkus
+    eu: Longitude
+    fa: طول جغرافیایی
+    fi: pituusaste
+    fr: longitude
+    frr: Geograafisk lengde
+    fy: lingtegraad
+    ga: domhanfhad
+    gl: lonxitude
+    gsw: geografische Länge
+    he: קו אורך
+    hi: रेखांश
+    hr: zemljopisna dužina
+    hsb: geografiska dołhosć
+    ht: lonjitid
+    hu: hosszúsági kör
+    hy: Աշխարհագրական երկայնություն
+    id: garis bujur
+    ig: longitude
+    ilo: longitud
+    io: longitudo
+    is: lengdargráða
+    it: longitudine
+    ja: 経度
+    jv: garis bujur
+    ka: გრძედი
+    kk: бойлық
+    ko: 경도
+    ku: hêlîlar
+    ky: Узундук
+    la: longitudo geographica
+    lb: geographesch Längt
+    lmo: longitüda
+    ln: monkɔlɔ́tɔ molaí
+    lo: ເສັ້ນແວງ
+    lt: ilguma
+    lv: ģeogrāfiskais garums
+    mai: देशान्तर
+    mg: Laharan-jara hasina
+    mhr: кутык
+    mk: географска должина
+    ml: രേഖാംശം
+    mr: रेखांश
+    ms: garisan bujur
+    my: လောင်ဂျီကျူ
+    nan: keng-tō͘
+    nb: lengdegrad
+    nds-nl: lengtegraod
+    ne: देशान्तर
+    nl: lengtegraad
+    nn: lengdegrad
+    oc: longitud
+    om: Sararran Gadee
+    or: ଦ୍ରାଘିମା
+    os: дæргъад
+    pl: długość geograficzna
+    pnb: طول بلد
+    pt: longitude
+    ro: longitudine
+    ru: долгота
+    sah: усталааһын
+    scn: loncitùdini
+    sd: ڊگهائي ڦاڪ
+    se: guhkkodatgráda
+    sh: geografska dužina
+    shn: ထႅဝ်တင်ႈ
+    sk: zemepisná dĺžka
+    skr: طول بلد
+    sl: zemljepisna dolžina
+    smn: kukkodâhpirrâdâh
+    sms: kookkadvuõttcieʹǩǩes
+    sn: muyeranhambo
+    so: dhigaha
+    sq: gjatësia gjeografike
+    sr: географска дужина
+    sr-ec: географска дужина
+    su: Garis Nangtung
+    sv: longitud
+    sw: longitudo
+    szl: dugość geograficzno
+    ta: நிலநிரைக்கோடு
+    te: రేఖాంశం
+    th: ลองจิจูด
+    ti: ዝንግሪር
+    tl: longhitud
+    tr: boylam
+    udm: кузьдала
+    uk: довгота
+    ur: طول البلد
+    uz: Geografik uzunlik
+    vec: longitudine
+    vi: kinh độ
+    vls: lengtegroad
+    war: longitud
+    wo: tus-wu-taxaw
+    wuu: 经度
+    yue: 經
+    zh: 经度
+    zh-hant: 經度
+    zh-hk: 經度
+    zh-tw: 經度
 ---
-
 # [[Longitude]] 
 
 #is_/same_as :: [[../../WikiData/WD~Longitude,36477|WD~Longitude,36477]] 

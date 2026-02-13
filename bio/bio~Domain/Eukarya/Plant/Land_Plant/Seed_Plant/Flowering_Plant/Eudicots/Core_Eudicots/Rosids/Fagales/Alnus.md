@@ -1,42 +1,115 @@
 ---
 aliases:
-  - Alder
-  - Alnus
-  - Erle
-  - olsza
-  - 桤木属
-  - ontano
-  - jelša
-  - ольха
-  - alder
-  - olcha
-  - Els
-  - евла
+- Aels
+- Alder
+- Alksnis
+- Alkšņi
+- Alno
+- Alnus
+- alsläktet
+- Arin
+- aulne
+- Elan
+- Elern
+- Elleren
+- Ellernbööm
+- elleslægten
+- Elri
+- Els
+- elze
+- Elzen
+- Erle
+- Erlen
+- fearn
+- Gwern
+- Haltz
+- jelša
+- Joha
+- Jova
+- Kızılağaç
+- Leaibbit
+- Lep
+- Lepp
+- lepät
+- Molol
+- Nunaŋiak
+- olcha
+- olsza
+- olše
+- Onaro
+- ontano
+- or
+- oreslekten
+- Qızılağac
+- Ramran
+- Trynnebotte
+- Vèrnhe
+- Wólša
+- Âl
+- Çирĕк
+- éger
+- òlsza
+- Ônea
+- Īlītl
+- Άλνος
+- κλήθρα
+- јова
+- Вільха
+- Вольха
+- евла
+- елша
+- Ерек
+- зирек
+- Лепе
+- Ловпу
+- Лулпу
+- Лӱлпӹ
+- Нӧлпӧ
+- ольха
+- Сиһик уус
+- Фæрв
+- Қандыағаш (ағаш)
+- լաստենի
+- אלנוס
+- النوس
+- الڈر
+- تسکا
+- توسکا
+- قیزیل آغاج
+- نغت
+- ఆల్డర్ వృక్షాలు
+- อัลเดอร์
+- მურყანი
+- ハンノキ属
+- 桤木属
+- 桤木屬
+- 赤楊屬
+- 오리나무속
 has_id_wikidata: Q25239
 taxon_common_name:
-  - olsza
-  - 桤木属
-  - 桤木属
-  - ontano
-  - jelša
-  - ольха
-  - alder
-  - olcha
-  - Els
-  - евла
+- olsza
+- 桤木属
+- 桤木属
+- ontano
+- jelša
+- ольха
+- alder
+- olcha
+- Els
+- евла
 described_by_source:
-  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Q19133013,19133013]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~England_in_Particular,23907485]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_21,112869397]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Q19133013,19133013]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~England_in_Particular,23907485]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_21,112869397]]'
 different_from: '[[_Standards/WikiData/WD~Olsza,1220747]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~alder,1355553]]'
 parent_taxon: '[[_Standards/WikiData/WD~Betuloideae,4085525]]'
@@ -58,8 +131,122 @@ MeSH_tree_code: B01.875.800.575.912.250.859.750.200.500
 UMLS_CUI: C0330318
 Krugosvet_article: nauka_i_tehnika/biologiya/OLHA.html
 NBN_System_Key: NHMSYS0000455769
+dv_has_:
+  name_:
+    af: Els
+    an: Alnus
+    ar: نغت
+    arz: النوس
+    ast: Alnus
+    az: Qızılağac
+    azb: قیزیل آغاج
+    ba: Ерек
+    bar: Elan
+    be: Вольха
+    be-tarask: вольха
+    bg: елша
+    br: Gwern
+    bs: Alnus
+    ca: Alnus
+    ceb: Alnus
+    cs: olše
+    csb: òlsza
+    cv: Çирĕк
+    da: elleslægten
+    de: Erlen
+    dsb: Wólša
+    el: Άλνος
+    en: Alnus
+    eo: Alno
+    es: Alnus
+    et: Lepp
+    eu: Haltz
+    ext: Alnus
+    fa: توسکا
+    fi: lepät
+    fr: aulne
+    frr: Elern
+    fur: Âl
+    fy: Elzen
+    ga: fearn
+    gl: Alnus
+    grc: κλήθρα
+    he: אלנוס
+    hr: Joha
+    hsb: Wólša
+    hu: éger
+    hy: լաստենի
+    ia: Alnus
+    id: Alnus
+    ie: Alnus
+    ik: Nunaŋiak
+    io: Alno
+    is: Elri
+    it: Alnus
+    ja: ハンノキ属
+    ka: მურყანი
+    kk: Қандыағаш (ағаш)
+    ko: 오리나무속
+    koi: Ловпу
+    kv: Ловпу
+    kw: Alnus
+    ky: Ольха
+    la: Alnus
+    lb: Elleren
+    li: Aels
+    lt: Alksnis
+    lv: Alkšņi
+    mhr: Нӧлпӧ
+    mk: евла
+    mrj: Лӱлпӹ
+    mul: Alnus
+    myv: Лепе
+    mzn: تسکا
+    nah: Īlītl
+    nb: oreslekten
+    nds: Ellernbööm
+    nds-nl: elze
+    nl: els
+    nn: or
+    oc: Vèrnhe
+    os: Фæрв
+    pl: olsza
+    pnb: الڈر
+    pt: Alnus
+    pt-br: Alnus
+    qu: Ramran
+    ro: Arin
+    ru: Ольха
+    sah: Сиһик уус
+    se: Leaibbit
+    sgs: Alksnis
+    sh: Jova
+    sk: jelša
+    sl: jelša
+    sq: Alnus
+    sr: јова
+    sv: alsläktet
+    te: ఆల్డర్ వృక్షాలు
+    th: อัลเดอร์
+    tly: Molol
+    tr: Kızılağaç
+    tt: зирек
+    udm: Лулпу
+    uk: Вільха
+    vec: Onaro
+    vep: Lep
+    vi: Alnus
+    vls: Trynnebotte
+    vo: Alnus
+    wa: Ônea
+    war: Alnus
+    wuu: 桤木属
+    yue: 赤楊屬
+    zh: 桤木属
+    zh-cn: 桤木属
+    zh-hans: 桤木属
+    zh-tw: 桤木屬
 ---
-
 # [[Alnus]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Alnus,25239|WD~Alnus,25239]] 

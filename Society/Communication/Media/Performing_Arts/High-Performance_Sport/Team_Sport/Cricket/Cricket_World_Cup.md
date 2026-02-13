@@ -1,13 +1,69 @@
 ---
-has_time_started: 1975-01-01 
+has_time_started: 1975-01-01
 aliases:
-  - ICC Men's Cricket World Cup
-  - Cricket_World_Cup
-  - Cricket World Cup
+- Campionat del Món de criquet masculí
+- Copa do Mundo de Crícket
+- Copa do Mundo de Críquete
+- Copa Mundial de Críquet
+- Coppa del Mondo di cricket
+- coupe du monde de cricket
+- Cricket World Cup
+- Cricket_World_Cup
+- Cwpan Criced y Byd
+- Giải vô địch cricket thế giới
+- ICC Cricket World Cup
+- ICC Men's Cricket World Cup
+- Krieket Wêreldbeker
+- Kriket bo'yicha Jahon Kubogi
+- Kriket Dünya Kupası
+- Kriketa Mondpokalo
+- Kriketin maailmanmestaruuskilpailut
+- krikett-világbajnokság
+- Majstrovstvá sveta v krikete
+- Mistrovství světa v kriketu
+- Mistrzostwa świata w krykiecie
+- Munduko Cricket Txapelketa
+- Pasaules kauss kriketā
+- Piala Dunia Kriket
+- Svetski kup u kriketu
+- Svjetski kup u kriketu
+- Verdensmesterskapet i cricket
+- Världsmästerskapet i cricket för herrar
+- wereldkampioenschap cricket
+- Παγκόσμιο κύπελλο κρίκετ
+- Крикет буйынса донъя чемпионаты
+- Светски куп у крикету
+- Чемпіонат світу з крикету
+- Чемпионат мира по крикету
+- чэмпіянат сьвету па крыкеце
+- אליפות העולם בקריקט
+- جام جهانی کریکت
+- كأس العالم للكريكت
+- کرکٹ عالمی کپ
+- کرکٹ ورلڈ کپ
+- ڪرڪيٽ ورلڊ ڪپ
+- आईसीसी क्रिकेट विश्व कप
+- क्रिकेट विश्वचषक
+- विश्वकप क्रिकेट
+- ক্রিকেট বিশ্বকাপ
+- ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ
+- ବିଶ୍ଵକପ କ୍ରିକେଟ
+- துடுப்பாட்ட உலகக்கிண்ணம்
+- ఐసిసి క్రికెట్ ప్రపంచ కప్
+- ಐಸಿಸಿ ಕ್ರಿಕೆಟ್ ವಿಶ್ವ ಕಪ್
+- ക്രിക്കറ്റ് ലോകകപ്പ്
+- ක්රිකට් ලෝක කුසලාන
+- คริกเกตชิงแชมป์โลก
+- ᱠᱨᱤᱠᱮᱴ ᱡᱮᱜᱮᱫ ᱠᱟᱯ
+- クリケット・ワールドカップ
+- 木球世界盃
+- 板球世界杯
+- 板球世界盃
+- 크리켓 월드컵
 has_id_wikidata: Q192202
 instance_of:
-  - '[[_Standards/WikiData/WD~tournament,500834]]'
-  - '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
+- '[[_Standards/WikiData/WD~tournament,500834]]'
+- '[[_Standards/WikiData/WD~recurring_sporting_event,18608583]]'
 organizer: '[[_Standards/WikiData/WD~International_Cricket_Council,722694]]'
 country: '[[_Standards/WikiData/WD~internationality,1072012]]'
 sport: '[[_Standards/WikiData/WD~cricket,5375]]'
@@ -19,8 +75,8 @@ social_media_followers: 1418515
 inception: 1975-01-01T00:00:00Z
 native_label: Cricket World Cup
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20v.%20Ireland%20%285522416435%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/South%20African%20supporters%20at%20Cricket%20World%20cup%20%2816513380428%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bangladesh%20v.%20Ireland%20%285522416435%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/South%20African%20supporters%20at%20Cricket%20World%20cup%20%2816513380428%29.jpg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Cricket%20World%20Cup%20best%20results.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Cricket%20World%20Cup%20opening%20ceremony%20fireworks%2C%20Christchurch.webm
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%87%E0%A4%9F%20%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%9A%E0%A4%B7%E0%A4%95.wav
@@ -28,8 +84,79 @@ Commons_category: Cricket World Cup
 Facebook_username: cricketworldcup
 Instagram_username: cricketworldcup
 X_Twitter_username: cricketworldcup
+dv_has_:
+  name_:
+    af: Krieket Wêreldbeker
+    ar: كأس العالم للكريكت
+    ast: Copa Mundial de Críquet
+    ba: Крикет буйынса донъя чемпионаты
+    be-tarask: чэмпіянат сьвету па крыкеце
+    bn: ক্রিকেট বিশ্বকাপ
+    ca: Campionat del Món de criquet masculí
+    cs: Mistrovství světa v kriketu
+    cy: Cwpan Criced y Byd
+    de: Cricket World Cup
+    dty: विश्वकप क्रिकेट
+    el: Παγκόσμιο κύπελλο κρίκετ
+    en: Cricket World Cup
+    eo: Kriketa Mondpokalo
+    es: Copa Mundial de Críquet
+    eu: Munduko Cricket Txapelketa
+    fa: جام جهانی کریکت
+    fi: Kriketin maailmanmestaruuskilpailut
+    fr: coupe du monde de cricket
+    gl: Copa do Mundo de Crícket
+    he: אליפות העולם בקריקט
+    hi: आईसीसी क्रिकेट विश्व कप
+    hif: ICC Cricket World Cup
+    hr: Svjetski kup u kriketu
+    hu: krikett-világbajnokság
+    id: Piala Dunia Kriket
+    it: Coppa del Mondo di cricket
+    ja: クリケット・ワールドカップ
+    kn: ಐಸಿಸಿ ಕ್ರಿಕೆಟ್ ವಿಶ್ವ ಕಪ್
+    ko: 크리켓 월드컵
+    lv: Pasaules kauss kriketā
+    mai: विश्वकप क्रिकेट
+    ml: ക്രിക്കറ്റ് ലോകകപ്പ്
+    mr: क्रिकेट विश्वचषक
+    ms: Piala Dunia Kriket
+    nb: Verdensmesterskapet i cricket
+    ne: विश्वकप क्रिकेट
+    nl: wereldkampioenschap cricket
+    or: ବିଶ୍ଵକପ କ୍ରିକେଟ
+    pa: ਕ੍ਰਿਕਟ ਵਿਸ਼ਵ ਕੱਪ
+    pl: Mistrzostwa świata w krykiecie
+    pnb: کرکٹ ورلڈ کپ
+    pt: Copa do Mundo de Críquete
+    ru: Чемпионат мира по крикету
+    sat: ᱠᱨᱤᱠᱮᱴ ᱡᱮᱜᱮᱫ ᱠᱟᱯ
+    sd: ڪرڪيٽ ورلڊ ڪپ
+    sh: Svjetski kup u kriketu
+    si: ක්රිකට් ලෝක කුසලාන
+    sk: Majstrovstvá sveta v krikete
+    sr: Светски куп у крикету
+    sr-ec: Светски куп у крикету
+    sr-el: Svetski kup u kriketu
+    sv: Världsmästerskapet i cricket för herrar
+    ta: துடுப்பாட்ட உலகக்கிண்ணம்
+    te: ఐసిసి క్రికెట్ ప్రపంచ కప్
+    th: คริกเกตชิงแชมป์โลก
+    tr: Kriket Dünya Kupası
+    uk: Чемпіонат світу з крикету
+    ur: کرکٹ عالمی کپ
+    uz: Kriket bo'yicha Jahon Kubogi
+    vi: Giải vô địch cricket thế giới
+    wuu: 板球世界杯
+    yue: 木球世界盃
+    zh: 板球世界杯
+    zh-cn: 板球世界杯
+    zh-hans: 板球世界杯
+    zh-hant: 板球世界盃
+    zh-hk: 木球世界盃
+    zh-sg: 板球世界杯
+    zh-tw: 板球世界盃
 ---
-
 # [[Cricket_World_Cup]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Cricket_World_Cup,192202|WD~Cricket_World_Cup,192202]] 

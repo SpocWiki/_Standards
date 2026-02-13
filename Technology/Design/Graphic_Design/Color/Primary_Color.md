@@ -1,25 +1,195 @@
 ---
 aliases:
-  - Primärfarbe
-  - Primary_Color
-  - Primary Color
+- alapszín
+- ana renk
+- asosiy rang
+- barwa podstawowa
+- baza koloro
+- color primari
+- color primario
+- Color primariu
+- colore primario
+- Colores primarii
+- cor primaria
+- cor primária
+- couleur primaire
+- culoare primară
+- culuri primàriu
+- dath príomhúil
+- frumlitur
+- Goân-sek
+- Grondfaarf
+- Grundfarbe
+- Kolor na primaryo
+- Koulè primè
+- Kulay na primarya
+- lliw primaidd
+- Midabada Asaasiga
+- màu cơ bản
+- oinarrizko kolore
+- osnovna boja
+- pamatkrāsa
+- Prima kolori
+- primaire kleur
+- primarna barva
+- Primary Color
+- primary colort
+- primary colour
+- Primary_Color
+- Primärfarbe
+- primärfärg
+- primærfarge
+- primærfarve
+- Primêre kleur
+- pääväri
+- põhivärvus
+- Quelor primária
+- Renga esas
+- vuođđoivdni
+- vuáđuivne
+- Warna primer
+- Warna primér
+- Werna primer
+- zakładna barba
+- základná farba
+- základní barva
+- əsas rəng
+- βασικά χρώματα
+- асноўны колер
+- асноўныя колеры
+- бындурон хуыз
+- Негізгі түстер
+- Негизги түстөр
+- основні кольори
+- основна боја
+- основные цвета
+- төп төсләр
+- төп төҫтәр
+- Հիմնական գույներ
+- צבע יסוד
+- بنیادی رنگ
+- رنگهای بنیادین
+- لون أولي
+- لون اولى
+- ورنا ڤريمير
+- प्राथमिक रंग
+- মূল রং
+- ପ୍ରାଥମିକ ରଙ୍ଗ
+- முதன்மை வண்ணம்
+- പ്രാഥമികവർണ്ണങ്ങൾ
+- แม่สี
+- སྣོན་བྱེད་གཞི་མདོག
+- 三原色
+- 原色
+- 원색
 has_id_wikidata: Q166902
 followed_by: '[[_Standards/WikiData/WD~secondary_color,373934]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q14358921,14358921]]'
 instance_of: '[[_Standards/WikiData/WD~triad,29430681]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Q60971377,60971377]]'
-  - '[[_Standards/WikiData/WD~primary_brand_color,98242249]]'
+- '[[_Standards/WikiData/WD~Q60971377,60971377]]'
+- '[[_Standards/WikiData/WD~primary_brand_color,98242249]]'
 subclass_of: '[[_Standards/WikiData/WD~color,1075]]'
 color:
-  - '[[_Standards/WikiData/WD~blue,1088]]'
-  - '[[_Standards/WikiData/WD~green,3133]]'
-  - '[[_Standards/WikiData/WD~red,3142]]'
+- '[[_Standards/WikiData/WD~blue,1088]]'
+- '[[_Standards/WikiData/WD~green,3133]]'
+- '[[_Standards/WikiData/WD~red,3142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paavarit-RGB-CMY.jpg
 Wolfram_Language_entity_code: Entity["Concept", "PrimaryColor::5yjnm"]
 Commons_category: Primary colors
+dv_has_:
+  name_:
+    ar: لون أولي
+    arz: لون اولى
+    ast: Color primariu
+    az: əsas rəng
+    ba: төп төҫтәр
+    bcl: Kolor na primaryo
+    be: асноўныя колеры
+    be-tarask: асноўны колер
+    bn: মূল রং
+    bo: སྣོན་བྱེད་གཞི་མདོག
+    ca: color primari
+    cs: základní barva
+    cy: lliw primaidd
+    da: primærfarve
+    de: Grundfarbe
+    diq: Renga esas
+    el: βασικά χρώματα
+    en: primary colort
+    en-gb: primary colour
+    eo: baza koloro
+    es: color primario
+    et: põhivärvus
+    eu: oinarrizko kolore
+    fa: رنگهای بنیادین
+    fi: pääväri
+    fr: couleur primaire
+    fy: Primêre kleur
+    ga: dath príomhúil
+    gl: cor primaria
+    he: צבע יסוד
+    hi: प्राथमिक रंग
+    hsb: zakładna barba
+    ht: Koulè primè
+    hu: alapszín
+    hy: Հիմնական գույներ
+    id: Warna primer
+    io: Prima kolori
+    is: frumlitur
+    it: colore primario
+    ja: 原色
+    jv: Werna primer
+    kk: Негізгі түстер
+    ko: 원색
+    ky: Негизги түстөр
+    la: Colores primarii
+    lb: Grondfaarf
+    lv: pamatkrāsa
+    mk: основна боја
+    ml: പ്രാഥമികവർണ്ണങ്ങൾ
+    ms: warna primer
+    ms-arab: ورنا ڤريمير
+    mwl: Quelor primária
+    nan: Goân-sek
+    nb: primærfarge
+    nl: primaire kleur
+    nn: primærfarge
+    oc: Color primari
+    or: ପ୍ରାଥମିକ ରଙ୍ଗ
+    os: бындурон хуыз
+    pl: barwa podstawowa
+    pt: cor primária
+    pt-br: cor primária
+    ro: culoare primară
+    ru: основные цвета
+    scn: culuri primàriu
+    sco: primary colour
+    se: vuođđoivdni
+    sk: základná farba
+    sl: primarna barva
+    smn: vuáđuivne
+    so: Midabada Asaasiga
+    sr: основна боја
+    sr-ec: основна боја
+    sr-el: osnovna boja
+    su: Warna primér
+    sv: primärfärg
+    ta: முதன்மை வண்ணம்
+    th: แม่สี
+    tl: Kulay na primarya
+    tr: ana renk
+    tt: төп төсләр
+    tt-cyrl: төп төсләр
+    uk: основні кольори
+    ur: بنیادی رنگ
+    uz: asosiy rang
+    vi: màu cơ bản
+    wuu: 原色
+    yue: 三原色
+    zh: 原色
+    zh-hans: 原色
 ---
-
 # [[Primary_Color]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Primary_color,166902|WD~Primary_color,166902]]  

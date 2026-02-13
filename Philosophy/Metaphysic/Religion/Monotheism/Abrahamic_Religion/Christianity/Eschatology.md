@@ -1,31 +1,186 @@
 ---
 aliases:
+- diwethafiaeth
+- escatologia
+- Escatologie
+- escatología
+- Escatoloxía
+- escatołozia
+- Eschatologia
+- Eschatologie
+- Eschatologii
+- Eschatologija
+- eschatology
+- Eschatológia
+- Eshatologija
+- eshatoloogia
+- eshatoloģija
+- eskatologi
+- Eskatologia
+- Eskatologie
+- eskatologiija
+- eskatologija
+- eskatologije
+- eskatologio
+- Eskatologjia
+- Eskatolohiya
+- eskatoloji
+- Eskatolojia
+- Esxatologiya
+- eszkatológia
+- Finvezhoniezh
+- Heimslitafræði
+- silaurnginga
+- thuyết mạt thế
+- Umchazasiphelo
+- Écatologie
+- εσχατολογία
+- ахырзаманбелем
+- Есхатологія
+- есхатологија
+- Есхатология
+- эсхаталёгія
+- эсхаталогія
+- эсхатология
+- Վախճանաբանություն
+- אסכטולוגיה
+- علم الأخرويات
+- علم الاخره
+- فرجامشناسی
+- معادیات
+- एश्चटोलॉजी
+- পরকালবিদ্যা
+- അന്ത്യാവസ്ഥാസിദ്ധാന്തം
+- อวสานวิทยา
+- ესქატოლოგია
+- ᓯᓚᐅᕐᖏᖓ
+- 末世論
+- 末世论
+- 終末論
+- 종말론
 has_id_wikidata: Q170337
-opposite_of: "[[_Standards/WikiData/WD~Protology,440651]]"
+opposite_of: '[[_Standards/WikiData/WD~Protology,440651]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~afterlife,623282]]"
-  - "[[_Standards/WikiData/WD~doomsday,1036775]]"
-subclass_of: "[[_Standards/WikiData/WD~doomsday,1036775]]"
-different_from: "[[_Standards/WikiData/WD~scatology,1337766]]"
+- '[[_Standards/WikiData/WD~afterlife,623282]]'
+- '[[_Standards/WikiData/WD~doomsday,1036775]]'
+subclass_of: '[[_Standards/WikiData/WD~doomsday,1036775]]'
+different_from: '[[_Standards/WikiData/WD~scatology,1337766]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biblical_concept,30149195]]"
-  - "[[_Standards/WikiData/WD~branch_of_theology,60310061]]"
+- '[[_Standards/WikiData/WD~biblical_concept,30149195]]'
+- '[[_Standards/WikiData/WD~branch_of_theology,60310061]]'
 hashtag_: eschatology
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Durer%20Revelation%20Four%20Riders.jpg
 described_at_URL: http://божественныйпринцип.рф/Jeshatologija.html
 Commons_category: Eschatology
 Krugosvet_article: kultura_i_obrazovanie/religiya/ESHATOLOGIYA.html
 Colon_Classification: Q:36
+dv_has_:
+  name_:
+    af: Eskatologie
+    ar: علم الأخرويات
+    arz: علم الاخره
+    ast: Escatoloxía
+    az: Esxatologiya
+    be: эсхаталогія
+    be-tarask: эсхаталёгія
+    bg: Есхатология
+    bn: পরকালবিদ্যা
+    br: Finvezhoniezh
+    bs: Eshatologija
+    ca: escatologia
+    cs: eschatologie
+    cy: diwethafiaeth
+    da: eskatologi
+    de: Eschatologie
+    el: εσχατολογία
+    en: eschatology
+    eo: eskatologio
+    es: escatología
+    et: eshatoloogia
+    eu: Eskatologia
+    fa: فرجامشناسی
+    fi: eskatologia
+    fr: eschatologie
+    gl: escatoloxía
+    gsw: Eschatologii
+    he: אסכטולוגיה
+    hi: एश्चटोलॉजी
+    hr: Eshatologija
+    hu: eszkatológia
+    hy: Վախճանաբանություն
+    ia: Eschatologia
+    id: eskatologi
+    ike-cans: ᓯᓚᐅᕐᖏᖓ
+    ike-latn: silaurnginga
+    is: Heimslitafræði
+    it: escatologia
+    iu: ᓯᓚᐅᕐᖏᖓ
+    ja: 終末論
+    ka: ესქატოლოგია
+    kk: Эсхатология
+    ko: 종말론
+    ky: Эсхатология
+    la: Eschatologia
+    lb: Eschatologie
+    lt: Eschatologija
+    lv: eshatoloģija
+    mg: Eskatolojia
+    mk: есхатологија
+    ml: അന്ത്യാവസ്ഥാസിദ്ധാന്തം
+    ms: Eskatologi
+    nb: eskatologi
+    nl: eschatologie
+    nn: Eskatologi
+    nrm: Écatologie
+    oc: Escatologia
+    pcd: Escatologie
+    pl: eschatologia
+    pt: escatologia
+    rm: Escatologia
+    ro: escatologie
+    ru: эсхатология
+    se: eskatologiija
+    sh: Eshatologija
+    sje: eskatologija
+    sk: Eschatológia
+    sl: eshatologija
+    sma: eskatologije
+    smj: eskatologija
+    smn: eskatologia
+    sms: eskatologia
+    sq: Eskatologjia
+    sr: есхатологија
+    sr-ec: Есхатологија
+    sr-el: Eshatologija
+    sv: eskatologi
+    th: อวสานวิทยา
+    tr: eskatoloji
+    tt: ахырзаманбелем
+    uk: Есхатологія
+    ur: معادیات
+    uz: Esxatologiya
+    vec: escatołozia
+    vi: thuyết mạt thế
+    war: Eskatolohiya
+    wuu: 末世论
+    yue: 末世論
+    zh: 末世论
+    zh-cn: 末世论
+    zh-hans: 末世论
+    zh-hant: 末世論
+    zh-hk: 末世論
+    zh-sg: 末世论
+    zh-tw: 末世論
+    zu: Umchazasiphelo
 ---
-
 # [[Eschatology]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Eschatology,170337|WD~Eschatology,170337]] 

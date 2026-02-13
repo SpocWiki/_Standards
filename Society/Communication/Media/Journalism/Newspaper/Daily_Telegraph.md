@@ -1,9 +1,60 @@
 ---
 aliases:
-  - Daily Telegraph
-  - Daily_Telegraph
+- Daily Telegraph
+- Daily_Telegraph
+- Deyli telegraf
+- The Daily Telegraph
+- Дејли телеграф
+- Дейли Телеграф
+- Дэйли телеграф
+- דיילי טלגרף
+- ديلي تلغراف
+- دیلی تلگراف
+- روزنامہ ٹیلی گراف
+- ډېلي ټيليګراف
+- डेली टेलीग्राफ
+- दि डेली टेलीग्राफ
+- देली टेलीग्राफ
+- দ্য ডেইলি টেলিগ্রাফ
+- த டெயிலி டெலிகிராப்
+- เดอะเดลีเทลิกราฟ
+- ဒေးလီး တယ်လီဂရပ်ဖ်
+- デイリー・テレグラフ
+- 每日电讯报
+- 每日電訊報
+- 데일리 텔레그래프
+has_id_wikidata: Q192621
+dv_has_:
+  name_:
+    ar: ديلي تلغراف
+    bg: Дейли Телеграф
+    bho: दि डेली टेलीग्राफ
+    bn: দ্য ডেইলি টেলিগ্রাফ
+    en: The Daily Telegraph
+    fa: دیلی تلگراف
+    he: דיילי טלגרף
+    hi: डेली टेलीग्राफ
+    ja: デイリー・テレグラフ
+    ko: 데일리 텔레그래프
+    mn: Дэйли телеграф
+    mul: The Daily Telegraph
+    my: ဒေးလီး တယ်လီဂရပ်ဖ်
+    new: देली टेलीग्राफ
+    ps: ډېلي ټيليګراف
+    sr: Дејли телеграф
+    ta: த டெயிலி டெலிகிராப்
+    th: เดอะเดลีเทลิกราฟ
+    ur: روزنامہ ٹیلی گراف
+    uz: Deyli telegraf
+    wuu: 每日电讯报
+    zh: 每日电讯报
+    zh-cn: 每日电讯报
+    zh-hans: 每日电讯报
+    zh-hant: 每日電訊報
+    zh-hk: 每日電訊報
+    zh-sg: 每日电讯报
+    zh-tw: 每日電訊報
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Daily Telegraph**, known online and elsewhere as The Telegraph, 

@@ -1,15 +1,137 @@
 ---
 aliases:
-  - Geheimgesellschaft
-  - Secret_Society
-  - Secret Society
+- cumann rúnda
+- cymdeithas gyfrinachol
+- geheim genootschap
+- Geheimbund
+- Geheimgesellschaft
+- Gerakan rahsia
+- Gizli cemiyet
+- gizli cəmiyyət
+- gupt sangathan
+- hemligt sällskap
+- Isilpeko elkarte
+- Kungiyar Asiri
+- Perkumpulan rahasia
+- salaseura
+- Salaühing
+- Secret Society
+- Secret_Society
+- sekreta societo
+- Shoqëritë e fshehta
+- socetà segreta
+- sociedad secreta
+- sociedade secreta
+- Societas secreta
+- societat secreta
+- Societat secrèta
+- societate secretă
+- società segreta
+- société secrète
+- tajna društva
+- Tajno društvo
+- tajno združenje
+- tajny związek
+- tajná společnost
+- Tajná spoločnosť
+- titkos társaság
+- tổ chức bí mật
+- μυστική εταιρεία
+- Нууц нийгэмлэг
+- таємне товариство
+- тајно друштво
+- таемнае таварыства
+- тайнае таварыства
+- Тайно общество
+- тайное общество
+- գաղտնի ընկերություններ
+- אגודת סתרים
+- انجمن مخفی
+- تنظيم سري
+- গোপন সমাজ
+- இரகசிய சமூகம்
+- ಗುಪ್ತ ಸಂಘ
+- രഹസ്യ സമൂഹങ്ങൾ
+- สมาคมลับ
+- 秘密結社
+- 秘密结社
+- 비밀결사
 has_id_wikidata: Q276548
 described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 has_characteristic: '[[_Standards/WikiData/WD~secrecy,1503443]]'
 subclass_of: '[[_Standards/WikiData/WD~organization,43229]]'
 Commons_category: Secret societies
+dv_has_:
+  name_:
+    ar: تنظيم سري
+    az: gizli cəmiyyət
+    be: тайнае таварыства
+    be-tarask: таемнае таварыства
+    bg: Тайно общество
+    bn: গোপন সমাজ
+    ca: societat secreta
+    cs: tajná společnost
+    cy: cymdeithas gyfrinachol
+    de: Geheimbund
+    de-ch: Geheimbund
+    el: μυστική εταιρεία
+    en: secret society
+    en-ca: Secret society
+    en-gb: secret society
+    eo: sekreta societo
+    es: sociedad secreta
+    et: Salaühing
+    eu: Isilpeko elkarte
+    fa: انجمن مخفی
+    fi: salaseura
+    fr: société secrète
+    ga: cumann rúnda
+    gl: sociedade secreta
+    ha: Kungiyar Asiri
+    he: אגודת סתרים
+    hi: gupt sangathan
+    hr: tajna društva
+    hu: titkos társaság
+    hy: գաղտնի ընկերություններ
+    id: Perkumpulan rahasia
+    it: società segreta
+    ja: 秘密結社
+    kn: ಗುಪ್ತ ಸಂಘ
+    ko: 비밀결사
+    la: Societas secreta
+    mk: тајно друштво
+    ml: രഹസ്യ സമൂഹങ്ങൾ
+    mn: Нууц нийгэмлэг
+    ms: Gerakan rahsia
+    nl: geheim genootschap
+    oc: Societat secrèta
+    pl: tajny związek
+    pt: sociedade secreta
+    pt-br: Sociedade secreta
+    ro: societate secretă
+    ru: тайное общество
+    sh: Tajno društvo
+    sk: Tajná spoločnosť
+    sl: tajno združenje
+    sq: Shoqëritë e fshehta
+    sr: тајно друштво
+    sr-ec: Тајно друштво
+    sr-el: Tajno društvo
+    sv: hemligt sällskap
+    ta: இரகசிய சமூகம்
+    th: สมาคมลับ
+    tr: Gizli cemiyet
+    uk: таємне товариство
+    vec: socetà segreta
+    vi: tổ chức bí mật
+    zh: 秘密結社
+    zh-cn: 秘密结社
+    zh-hans: 秘密结社
+    zh-hant: 秘密結社
+    zh-hk: 秘密結社
+    zh-sg: 秘密结社
+    zh-tw: 秘密結社
 ---
-
 # [[Secret_Society]] 
 
 #is_/same_as :: [[WD~Secret_society,276548]] 

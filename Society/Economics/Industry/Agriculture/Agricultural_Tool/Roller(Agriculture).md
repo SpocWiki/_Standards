@@ -1,22 +1,93 @@
 ---
 aliases:
-  - Walze
-  - Roller(Agriculture)
+- Corró
+- jyrä
+- Põllurull
+- rodillo
+- rol
+- Roll
+- roller
+- Roller (ngwá ọrụ ugbo)
+- Roller(Agriculture)
+- rolo compressor
+- rouleau agricole
+- Ruello d'era
+- rullo compattatore
+- Rôlea (cinse)
+- trunko
+- Valjak (poljoprivredno oruđe)
+- valjar
+- Volas
+- vältning
+- Walc na rolã
+- Walze
+- Wał
+- Åkerrull
+- Åkertrommel
+- Αγροστρωτήρας
+- валец
+- Коток польовий
+- сельскохозяйственной каток
+- מעגילה
+- غلتک کشاورزی
+- مدحلة
+- உருளி
+- ローラー
+- 磙
+- 롤러
+- "\U00025566"
 has_id_wikidata: Q1334343
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_use: '[[_Standards/WikiData/WD~rolling,12274551]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
-  - '[[_Standards/WikiData/WD~roller,95963308]]'
+- '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+- '[[_Standards/WikiData/WD~roller,95963308]]'
 Nomenclature_for_Museum_Cataloging: 8664
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ackerger%C3%A4t.jpg
 Commons_gallery: Agricultural roller
 Commons_category: Agricultural rollers
+dv_has_:
+  name_:
+    an: Ruello d'era
+    ar: مدحلة
+    be-tarask: валец
+    br: Roll
+    ca: Corró
+    csb: Walc na rolã
+    de: Walze
+    el: Αγροστρωτήρας
+    en: roller
+    es: rodillo
+    et: Põllurull
+    eu: trunko
+    fa: غلتک کشاورزی
+    fi: jyrä
+    fr: rouleau agricole
+    he: מעגילה
+    ig: Roller (ngwá ọrụ ugbo)
+    it: rullo compattatore
+    ja: ローラー
+    ko: 롤러
+    lt: Volas
+    mk: валец
+    nb: Åkertrommel
+    nl: rol
+    nn: Åkerrull
+    pl: Wał
+    pt: rolo compressor
+    ru: сельскохозяйственной каток
+    sl: valjar
+    sr: Valjak (poljoprivredno oruđe)
+    sv: vältning
+    ta: உருளி
+    uk: Коток польовий
+    wa: Rôlea (cinse)
+    yue: "\U00025566"
+    zh: 磙
 ---
-
 # [[Roller(Agriculture)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Roller,1334343|WD~Roller,1334343]]  

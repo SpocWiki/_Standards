@@ -1,25 +1,117 @@
 ---
 aliases:
-  - Helligkeit
-  - Brightness
+- Brightness
+- brilhância
+- brillantez
+- brillantor
+- Bêng-tō͘
+- distira
+- Gũkenga
+- Haske
+- helderheid
+- Helligkeit
+- helo
+- jasność
+- Kecerahan
+- kirkkaus
+- luminosidad
+- luminosità
+- luminosité
+- Lumozeso (koloro)
+- parlaklık
+- sijavost
+- világosság
+- ìmọ́lẹ̀
+- độ trắng
+- φωτεινότητα
+- осветљеност
+- Светлост
+- яркасьць
+- Яркост
+- яркость
+- яскравість
+- בהירות
+- درخشش
+- روښنايي
+- سطوع
+- चमक
+- ஒளிர்மை
+- ความสว่าง
+- ბარჩხალი
+- 光度
+- 明るさ
+- 明度
+- 명도
 has_id_wikidata: Q221656
-part_of: "[[_Standards/WikiData/WD~visual_perception,162668]]"
-opposite_of: "[[_Standards/WikiData/WD~darkness,204170]]"
+part_of: '[[_Standards/WikiData/WD~visual_perception,162668]]'
+opposite_of: '[[_Standards/WikiData/WD~darkness,204170]]'
 different_from:
-  - "[[_Standards/WikiData/WD~specular_reflection,1079524]]"
-  - "[[_Standards/WikiData/WD~lightness,19426]]"
-has_characteristic: "[[_Standards/WikiData/WD~subjectivity,1139554]]"
-instance_of: "[[_Standards/WikiData/WD~measurand,1924249]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~specular_reflection,1079524]]'
+- '[[_Standards/WikiData/WD~lightness,19426]]'
+has_characteristic: '[[_Standards/WikiData/WD~subjectivity,1139554]]'
+instance_of: '[[_Standards/WikiData/WD~measurand,1924249]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BC;</mi><mo stretchy="false">=</mo><mfrac><mrow><mi>R</mi><mo stretchy="false">+</mo><mi>G</mi><mo stretchy="false">+</mo><mi>B</mi></mrow><mrow><mn>3</mn></mrow></mfrac></mstyle></mrow></math>
 Stack_Exchange_tag: https://stackoverflow.com/tags/brightness
 IEV_number: 845-22-059
 Commons_category: Brightness
 Dewey_Decimal_Classification:
-  - "523.822"
-  - "152.143"
+- 523.822
+- 152.143
+dv_has_:
+  name_:
+    af: helderheid
+    ar: سطوع
+    be-tarask: яркасьць
+    bg: Яркост
+    ca: brillantor
+    de: Helligkeit
+    el: φωτεινότητα
+    en: brightness
+    eo: helo
+    es: luminosidad
+    eu: distira
+    fa: درخشش
+    fi: kirkkaus
+    fr: luminosité
+    gl: brillantez
+    ha: Haske
+    he: בהירות
+    hi: चमक
+    hu: világosság
+    id: Kecerahan
+    io: Lumozeso (koloro)
+    it: luminosità
+    ja: 明るさ
+    ki: Gũkenga
+    ko: 명도
+    mk: Светлост
+    ms: kecerahan
+    nan: Bêng-tō͘
+    nl: helderheid
+    pl: jasność
+    ps: روښنايي
+    pt: brilhância
+    ru: яркость
+    sl: sijavost
+    sr: осветљеност
+    ta: ஒளிர்மை
+    th: ความสว่าง
+    tr: parlaklık
+    uk: яскравість
+    vi: độ trắng
+    wuu: 明度
+    xmf: ბარჩხალი
+    yo: ìmọ́lẹ̀
+    yue: 光度
+    zh: 明度
+    zh-cn: 明度
+    zh-hans: 明度
+    zh-hant: 明度
+    zh-hk: 明度
+    zh-sg: 明度
+    zh-tw: 明度
 ---
-
 # [[Brightness]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Brightness,221656|WD~Brightness,221656]] 

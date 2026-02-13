@@ -1,9 +1,37 @@
 ---
 aliases:
-  - Aquificae
+- Aquificae
+- Aquificota
+- 產水菌門
 title: Aquificae
+has_id_wikidata: Q21439067
+dv_has_:
+  name_:
+    ast: Aquificota
+    bg: Aquificota
+    ceb: Aquificota
+    cs: Aquificota
+    de: Aquificota
+    en: Aquificota
+    es: Aquificota
+    fi: Aquificota
+    fr: Aquificota
+    ga: Aquificota
+    it: Aquificota
+    la: Aquificota
+    mul: Aquificota
+    nl: Aquificota
+    pl: Aquificota
+    pt: Aquificota
+    ro: Aquificota
+    ru: Aquificota
+    sk: Aquificota
+    sq: Aquificota
+    uk: Aquificota
+    vi: Aquificota
+    war: Aquificota
+    zh: 產水菌門
 ---
-
 # [[Aquificae]] 
 
 #is_a/bio-Phylum  

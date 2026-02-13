@@ -1,14 +1,193 @@
 ---
 aliases:
-  - Tardigrada
-  - Tardigrades
-  - Bärtierchen
-  - water bear
-  - moss piglet
-  - Tardigrade
+- Akłaġruk
+- Beerbieskes
+- Beerdiarten
+- beerdiertjes
+- Bjørnedyr
+- Bärtierchen
+- Dugoživci
+- Gauskāji
+- Gấu nước
+- Jimyurar
+- karhukaiset
+- Kidudu-dubu
+- Lat'uthatki
+- Loimurid
+- Lėtūnai
+- medveállatkák
+- moss piglet
+- niesporczaki
+- Pomalky
+- počasniki
+- Qaranbullee bisaani
+- Su ayıları
+- Tardigrada
+- Tardigrade
+- Tardigrades
+- Tardigrado
+- Tardigradoj
+- Tardígrad
+- Tardígrado
+- trögkrypare
+- Tsįdláádkááʼ naatʼiʼí
+- water bear
+- želvušky
+- Ərincəklilər
+- Βραδύπορα
+- Аҡрын йөрөүсөләр
+- бавноходки
+- долгоживци
+- Жайбасар
+- Мызыргышывлӓ
+- тихоходи
+- тихоходки
+- ціхаходкі
+- Әкрен йөрүчеләр
+- Ջրային արջ
+- דובוני מים
+- بطيء الخطو
+- خرس آبی
+- د اوبو یږه
+- سۇ آییلاری
+- لءبي
+- ٹارڈیگریڈ
+- ٽارڊيگريڊ
+- پانی رچھ
+- टार्डीग्रेड
+- টারডিগ্রেড
+- টাৰডিগ্রেড
+- நீர்க் கரடி
+- టార్డిగ్రాడ
+- ಟಾರ್ಡಿಗ್ರೇಡ್
+- ടാർഡിഗ്രാഡ
+- ทาร์ดิกราดา
+- ຕາກດີກະລາດາ
+- ნელამავალნი
+- የውሃ ድብ
+- ᐊᒃᔭᑯᓗᒃ
+- 水熊蟲
+- 緩歩動物
+- 缓步动物门
+- 완보동물
 title: Tardigrada
+has_id_wikidata: Q5194
+dv_has_:
+  name_:
+    af: Tardigrada
+    am: የውሃ ድብ
+    an: Tardigrada
+    ar: بطيء الخطو
+    arz: لءبي
+    as: টাৰডিগ্রেড
+    ast: Tardigrada
+    az: Ərincəklilər
+    azb: سۇ آییلاری
+    ba: Аҡрын йөрөүсөләр
+    bcl: Tardigrada
+    be: ціхаходкі
+    be-tarask: Ціхаходкі
+    bg: бавноходки
+    bn: টারডিগ্রেড
+    br: Tardigrada
+    bs: Tardigrada
+    ca: Tardígrad
+    ceb: Tardigrada
+    cs: želvušky
+    cy: Tardigrada
+    da: Bjørnedyr
+    de: Bärtierchen
+    el: Βραδύπορα
+    en: tardigrade
+    eo: Tardigradoj
+    es: Tardigrada
+    et: Loimurid
+    eu: Tardigrada
+    ext: Tardigrada
+    fa: خرس آبی
+    fi: karhukaiset
+    fr: Tardigrada
+    frr: Beerdiarten
+    ga: Tardigrada
+    gl: Tardígrado
+    gsw: Tardigrada
+    he: דובוני מים
+    hi: टार्डीग्रेड
+    hr: Dugoživci
+    hu: medveállatkák
+    hy: Ջրային արջ
+    ia: Tardigrada
+    id: Tardigrada
+    ie: Tardigrada
+    ik: Akłaġruk
+    io: Tardigrada
+    is: Tardigrada
+    it: Tardigrada
+    iu: ᐊᒃᔭᑯᓗᒃ
+    ja: 緩歩動物
+    ka: ნელამავალნი
+    kk: Жайбасар
+    kn: ಟಾರ್ಡಿಗ್ರೇಡ್
+    ko: 완보동물
+    la: Tardigrada
+    lb: Tardigrada
+    lfn: Tardigrado
+    li: Beerbieskes
+    lmo: Tardigrada
+    lo: ຕາກດີກະລາດາ
+    lt: Lėtūnai
+    lv: Gauskāji
+    mk: долгоживци
+    ml: ടാർഡിഗ്രാഡ
+    mrj: Мызыргышывлӓ
+    ms: Tardigrada
+    mul: Tardigrada
+    nb: Bjørnedyr
+    nds: Tardigrada
+    nds-nl: Tardigrada
+    nl: beerdiertjes
+    nn: Bjørnedyr
+    nv: Tsįdláádkááʼ naatʼiʼí
+    oc: Tardigrada
+    om: Qaranbullee bisaani
+    pl: niesporczaki
+    pms: Tardigrada
+    pnb: پانی رچھ
+    ps: د اوبو یږه
+    pt: Tardigrada
+    pt-br: Tardigrada
+    qu: Lat'uthatki
+    ro: Tardigrada
+    ru: тихоходки
+    sco: Tardigrade
+    sd: ٽارڊيگريڊ
+    sh: Dugoživci
+    sk: Pomalky
+    sl: počasniki
+    sq: Tardigrada
+    sr: Tardigrada
+    sv: trögkrypare
+    sw: Kidudu-dubu
+    ta: நீர்க் கரடி
+    te: టార్డిగ్రాడ
+    th: ทาร์ดิกราดา
+    tl: Tardigrada
+    tr: Su ayıları
+    tt: Әкрен йөрүчеләр
+    uk: тихоходи
+    ur: ٹارڈیگریڈ
+    uz: Jimyurar
+    vec: Tardigrada
+    vi: Gấu nước
+    vo: Tardigrada
+    wa: Tardigrada
+    war: Tardigrada
+    wuu: 缓步动物门
+    yue: 水熊蟲
+    zh: 缓步动物门
+    zh-cn: 缓步动物门
+    zh-hans: 缓步动物门
 ---
-
 # [[Tardigrade]] 
 
 Water Bears 

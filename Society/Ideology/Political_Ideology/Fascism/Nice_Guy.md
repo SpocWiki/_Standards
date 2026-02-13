@@ -1,4 +1,13 @@
-
+---
+has_id_wikidata: Q99439740
+dv_has_:
+  name_:
+    en: Nice Guy
+    ko: 나이스 가이
+aliases:
+- Nice Guy
+- 나이스 가이
+---
 # [[Nice_Guy]] 
 
 

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q34280
+---
+
 # [[Plankalkül]] 
 
 #is_a_/ComputerLanguage 

@@ -1,32 +1,204 @@
 ---
 aliases:
+- arc
+- atspere
+- Cedhedha
+- Elater
+- Fedder
+- Feder
+- fjeder
+- fjäder
+- fjær
+- fjør
+- jousi
+- Keng-á
+- lò xo
+- Malguki
+- mola
+- molla
+- Opruga
+- Pegas
+- pjero
+- Prujina
+- pružina
+- pūniko
+- resorte
+- Resorto
+- ressort
+- ressòrt
+- Resò
+- risorto
+- rugó
+- sbring
+- Serippe
+- spring
+- Sprãżëna
+- sprężyna
+- Spyruoklė
+- Vedru
+- Veer
+- Vy miaina
+- vzmet
+- Yay
+- Yaylar
+- Ελατήριο
+- Буржунак
+- опруга
+- пружина
+- Серіппе
+- сиктеркĕч
+- Симпечи чандир
+- сиртмә
+- спружына
+- цъæт
+- Һиртмә
+- զսպանակ
+- ספרונזשינע
+- קפיץ
+- سپرنگ
+- سپرینگ
+- سەرىپپە
+- فنر
+- نابض
+- कमानी
+- স্প্রিং (যন্ত্র)
+- சுருள்வில்
+- สปริง
+- ሞላ
+- ばね
+- 弹簧
+- 彈弓
+- 彈簧
+- 용수철
 has_id_wikidata: Q102836
-has_use: "[[_Standards/WikiData/WD~shock_absorber,211251]]"
+has_use: '[[_Standards/WikiData/WD~shock_absorber,211251]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 used_by:
-  - "[[_Standards/WikiData/WD~spring_scale,772032]]"
-  - "[[_Standards/WikiData/WD~battery_holder,4869892]]"
-subclass_of: "[[_Standards/WikiData/WD~machine_element,839546]]"
+- '[[_Standards/WikiData/WD~spring_scale,772032]]'
+- '[[_Standards/WikiData/WD~battery_holder,4869892]]'
+subclass_of: '[[_Standards/WikiData/WD~machine_element,839546]]'
 different_from:
-  - "[[_Standards/WikiData/WD~coil_spring,3175877]]"
-  - "[[_Standards/WikiData/WD~Spring,9340730]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-has_characteristic: "[[_Standards/WikiData/WD~elasticity,62932]]"
-GS1_GPC_code: "10003168"
+- '[[_Standards/WikiData/WD~coil_spring,3175877]]'
+- '[[_Standards/WikiData/WD~Spring,9340730]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+has_characteristic: '[[_Standards/WikiData/WD~elasticity,62932]]'
+GS1_GPC_code: 10003168
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Springs%20009.jpg
-UNSPSC_Code: "31161900"
-Common_Procurement_Vocabulary_code: "44550000"
+UNSPSC_Code: 31161900
+Common_Procurement_Vocabulary_code: 44550000
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PRUZHINA.html
 Commons_gallery: Spring (device)
 Commons_category: Springs (mechanical)
-Dewey_Decimal_Classification: "621.824"
+Dewey_Decimal_Classification: 621.824
+dv_has_:
+  name_:
+    af: Veer
+    am: ሞላ
+    ar: نابض
+    ast: resorte
+    az: Yaylar
+    ba: Һиртмә
+    be: спружына
+    be-tarask: спружына
+    bg: Пружина
+    bn: স্প্রিং (যন্ত্র)
+    ca: molla
+    ckb: سپرینگ
+    cs: pružina
+    csb: Sprãżëna
+    cv: сиктеркĕч
+    cy: sbring
+    da: fjeder
+    de: Feder
+    de-ch: Feder
+    el: Ελατήριο
+    en: spring
+    en-ca: Spring
+    en-gb: spring
+    en-us: spring
+    eo: risorto
+    es: resorte
+    et: Vedru
+    eu: Malguki
+    fa: فنر
+    fi: jousi
+    fr: ressort
+    gl: Resorte
+    gsw: Feder
+    he: קפיץ
+    hi: कमानी
+    hr: Opruga
+    hsb: pjero
+    ht: Resò
+    hu: rugó
+    hy: զսպանակ
+    id: Pegas
+    io: Resorto
+    it: molla
+    ja: ばね
+    kk: Серіппе
+    kk-arab: سەرىپپە
+    kk-cn: سەرىپپە
+    kk-cyrl: Серіппе
+    kk-kz: Серіппе
+    kk-latn: Serippe
+    kk-tr: Serippe
+    ko: 용수철
+    ky: Пружина
+    la: Elater
+    lb: Ressort
+    lt: Spyruoklė
+    lv: atspere
+    mg: Vy miaina
+    mi: pūniko
+    mk: пружина
+    ms: pegas
+    nan: Keng-á
+    nb: fjær
+    nds: Fedder
+    nl: veer
+    nn: fjør
+    oc: ressòrt
+    om: Cedhedha
+    os: цъæт
+    pl: sprężyna
+    pt: mola
+    pt-br: Mola
+    ro: arc
+    ru: пружина
+    sh: Opruga
+    sk: pružina
+    sl: vzmet
+    sr: опруга
+    sr-ec: опруга
+    sr-el: opruga
+    sv: fjäder
+    ta: சுருள்வில்
+    tg: Симпечи чандир
+    th: สปริง
+    tr: Yay
+    tt: сиртмә
+    tyv: Буржунак
+    uk: пружина
+    ur: سپرنگ
+    uz: Prujina
+    vi: lò xo
+    wuu: 弹簧
+    yi: ספרונזשינע
+    yue: 彈弓
+    zh: 弹簧
+    zh-cn: 弹簧
+    zh-hans: 弹簧
+    zh-hant: 彈簧
+    zh-hk: 彈簧
+    zh-sg: 弹簧
+    zh-tw: 彈簧
 ---
-
 # [[Spring(Device)]] 
 
 #is_/same_as :: [[WD~Spring,102836]] 

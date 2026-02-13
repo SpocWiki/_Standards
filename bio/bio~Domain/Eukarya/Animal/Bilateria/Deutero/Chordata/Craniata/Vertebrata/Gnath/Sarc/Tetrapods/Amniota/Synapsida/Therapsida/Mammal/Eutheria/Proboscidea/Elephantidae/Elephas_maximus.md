@@ -1,10 +1,210 @@
 ---
 aliases:
-  - Elephas_maximus
-  - Elephas maximus
+- aasiannorsu
+- Adi Asiya fili
+- Arewhana Āhia
+- Asiaatisk Elefant
+- Asian elephant
+- Asiatischer Elefant
+- asiatisk elefant
+- Asiatiskur fílur
+- Asya fili
+- Azia elefanto
+- Aziatische olifant
+- Azijinis dramblys
+- Azijski slon
+- Aziski słon
+- Aziýa pili
+- dakore wɔɔ
+- eilifint Áiseach
+- elefant asiàtic
+- Elefanta aziatika
+- Elefante asiático
+- Elefante-asiático
+- Elepante sa Asya
+- Elephas maximus
+- Elephas_maximus
+- Eliffant Asiaidd
+- Filê Asya
+- Fuzol (Elephas maximus)
+- Gajah Asia
+- india elevant
+- Kunjara Asia
+- Naakaii Dootłʼizhii Bikéyahdę́ę́ʼ chį́į́h yee adilohii
+- Nzɔku ya Azía
+- Olifant Azia
+- Osiyo fili
+- slon indický
+- slon ázijský
+- słoń indyjski
+- voi châu Á
+- ázsiai elefánt
+- éléphant d'Asie
+- Āzijas zilonis
+- ʃlɔ̌ggà azita
+- Ασιατικός ελέφαντας
+- Азіяцкі слон
+- Ази пилĕ
+- азијски слон
+- азиаг пыл
+- азиатски слон
+- азиатский слон
+- Азиски слон
+- Азия сэлиитэ
+- Азия филе
+- Азиялъул пил
+- Азиянал пил
+- Слон індійський
+- ասիական փիղ
+- פיל אסייתי
+- آسیايي بیل
+- ایشیائی ہاتھی
+- فيل آسيوى
+- فيل آسيوي
+- فیل آسیایی
+- आशियाई हत्ती
+- एशियन हात्ती
+- एशियाई हाथी
+- এশীয় হাতি
+- হাতী
+- ஆசிய யானை
+- ಏಷ್ಯಾದ ಆನೆ
+- ഏഷ്യൻ ആന
+- ආසියානු අලි
+- ช้างเอเชีย
+- အာရှဆင်
+- アジアゾウ
+- 亚洲象
+- 亞洲象
+- 아시아코끼리
 title: Elephas maximus
+has_id_wikidata: Q133006
+dv_has_:
+  name_:
+    af: Elephas maximus
+    an: Elephas maximus
+    ar: فيل آسيوي
+    arz: فيل آسيوى
+    as: হাতী
+    ast: Elephas maximus
+    av: Азиялъул пил
+    avk: Fuzol (Elephas maximus)
+    az: Adi Asiya fili
+    ban: Kunjara Asia
+    bcl: Elepante sa Asya
+    be: Азіяцкі слон
+    be-tarask: Азіяцкі слон
+    bg: азиатски слон
+    bn: এশীয় হাতি
+    br: Olifant Azia
+    bs: Elephas maximus
+    ca: elefant asiàtic
+    ceb: Elephas maximus
+    cs: slon indický
+    cv: Ази пилĕ
+    cy: Eliffant Asiaidd
+    da: asiatisk elefant
+    de: Asiatischer Elefant
+    dga: dakore wɔɔ
+    diq: Filê Asya
+    el: Ασιατικός ελέφαντας
+    en: Asian elephant
+    en-ca: Asian elephant
+    en-gb: Asian elephant
+    eo: Azia elefanto
+    es: Elephas maximus
+    et: india elevant
+    eu: Elephas maximus
+    fa: فیل آسیایی
+    fi: aasiannorsu
+    fo: Asiatiskur fílur
+    fr: éléphant d'Asie
+    frr: Asiaatisk Elefant
+    ga: eilifint Áiseach
+    gl: Elefante asiático
+    gsw: Elephas maximus
+    he: פיל אסייתי
+    hi: एशियाई हाथी
+    hr: Azijski slon
+    hsb: Aziski słon
+    hu: ázsiai elefánt
+    hy: ասիական փիղ
+    ia: Elephas maximus
+    id: Gajah Asia
+    is: Elephas maximus
+    it: Elephas maximus
+    ja: アジアゾウ
+    jv: Gajah Asia
+    ko: 아시아코끼리
+    la: Elephas maximus
+    lb: Elephas maximus
+    lbe: Азиянал пил
+    lmo: Elephas maximus
+    ln: Nzɔku ya Azía
+    lt: Azijinis dramblys
+    lv: Āzijas zilonis
+    mcn: ʃlɔ̌ggà azita
+    mg: Elefanta aziatika
+    mi: Arewhana Āhia
+    min: Gajah asia
+    mk: Азиски слон
+    ml: ഏഷ്യൻ ആന
+    mr: आशियाई हत्ती
+    ms: Gajah Asia
+    mul: Elephas maximus
+    my: အာရှဆင်
+    nb: Asiatisk elefant
+    nds: Elephas maximus
+    nds-nl: Elephas maximus
+    ne: एशियन हात्ती
+    nl: Aziatische olifant
+    nn: Elephas maximus
+    nv: Naakaii Dootłʼizhii Bikéyahdę́ę́ʼ chį́į́h yee adilohii
+    oc: Elephas maximus
+    os: азиаг пыл
+    pl: słoń indyjski
+    pms: Elephas maximus
+    pnb: ایشیائی ہاتھی
+    ps: آسیايي بیل
+    pt: Elefante-asiático
+    pt-br: Elefante-asiático
+    ro: Elephas maximus
+    ru: азиатский слон
+    sah: Азия сэлиитэ
+    sh: Azijski slon
+    si: ආසියානු අලි
+    sk: slon ázijský
+    sl: azijski slon
+    sq: Elephas maximus
+    sr: азијски слон
+    sr-ec: Азијски слон
+    sr-el: Azijski slon
+    sv: asiatisk elefant
+    szl: Elephas maximus
+    ta: ஆசிய யானை
+    tcy: ಏಷ್ಯಾದ ಆನೆ
+    th: ช้างเอเชีย
+    tk: Aziýa pili
+    tl: Elephas maximus
+    tr: Asya fili
+    tt: Азия филе
+    uk: Слон індійський
+    ur: ایشیائی ہاتھی
+    uz: Osiyo fili
+    vec: Elephas maximus
+    vi: voi châu Á
+    wa: Elephas maximus
+    war: Elephas maximus
+    wuu: 亚洲象
+    yue: 亞洲象
+    zh: 亚洲象
+    zh-cn: 亚洲象
+    zh-hans: 亚洲象
+    zh-hant: 亞洲象
+    zh-hk: 亞洲象
+    zh-sg: 亚洲象
+    zh-tw: 亞洲象
 ---
-
 # Elephas maximus
 
 ## Asian Elephant, Indian Elephant 

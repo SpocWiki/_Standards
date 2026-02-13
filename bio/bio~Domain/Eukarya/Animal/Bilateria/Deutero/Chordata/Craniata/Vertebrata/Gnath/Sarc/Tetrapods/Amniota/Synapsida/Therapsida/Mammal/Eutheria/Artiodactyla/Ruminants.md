@@ -1,13 +1,193 @@
 ---
 aliases:
-  - Wiederkäuer
-  - Ruminants
-  - Ruminant
-  - Ruminantia
+- Atgremotāji
+- Atrajotojai
+- Biby mandinika
+- Daier
+- drøvtyggere
+- Déieren, déi idderzen
+- Firemavedrøvtygger
+- Gevişgetirenler
+- Gövşəyənlər
+- Hausnarkari
+- herkauwers
+- hewan pemamah biak
+- idisslare
+- jortedyr
+- Jórturdýr
+- Kavsh qaytaruvchilar
+- Kwetjkauern
+- kérődzők
+- Kéwan nggayemi
+- Küýis qaýıratındar
+- mäletsejalised
+- märehtijät
+- Oñamindu'uva
+- Phân bộ Nhai lại
+- Preživari
+- Preživači
+- Prežúvavce
+- przeżuwacze
+- přežvýkaví
+- Remaĉuloj
+- Remugant
+- roemiant
+- Rumegătoare
+- Ruminan
+- Ruminansia
+- Ruminant
+- Ruminante
+- Ruminantes
+- Ruminantia
+- Ruminants
+- smieretteijeeh
+- smirezastit
+- Timesluffaẓ
+- Wiederkäuer
+- Wjerkôgers
+- Ƶovandaho
+- Μηρυκαστικά
+- жвачные
+- жвачныя
+- Жовандаҳо
+- Жуйкавыя
+- жуйні
+- Кепшөөчүлөр
+- Күйіс қайыратындар
+- күшәүчеләр
+- Көйшәүселәр
+- нохдохурш
+- нух хьекхаду
+- преживари
+- преживни
+- Որոճողներ
+- מעלי גירה
+- بهايم لي كايجرو
+- كۇيىس قايىراتىندار
+- مجترات
+- نشخوارکنندگان
+- อันดับย่อยสัตว์เคี้ยวเอื้อง
+- စားမြုံပြန်ကောင်
+- მცოხნელები
+- ウシ亜目
+- 反刍亚目
+- 反芻亞目
+- 反芻動物
+- 반추류
 has_id_wikidata: Q192164
 title: Ruminantia
+dv_has_:
+  name_:
+    an: Ruminantia
+    ar: مجترات
+    ary: بهايم لي كايجرو
+    arz: مجترات
+    ast: Ruminantia
+    az: Gövşəyənlər
+    ba: Көйшәүселәр
+    ban: Ruminantia
+    be: жвачныя
+    be-tarask: Жуйкавыя
+    bg: преживни
+    bjn: Ruminansia
+    ca: Remugant
+    ce: нохдохурш
+    ceb: Ruminantia
+    cs: přežvýkaví
+    da: Firemavedrøvtygger
+    de: Wiederkäuer
+    el: Μηρυκαστικά
+    en: ruminants
+    en-ca: Ruminantia
+    en-gb: Ruminantia
+    eo: Remaĉuloj
+    es: Ruminantia
+    et: mäletsejalised
+    eu: Hausnarkari
+    ext: Ruminantia
+    fa: نشخوارکنندگان
+    fi: märehtijät
+    fr: Ruminantia
+    frr: Kwetjkauern
+    fy: Wjerkôgers
+    ga: Ruminantia
+    gl: Ruminante
+    gn: Oñamindu'uva
+    gsw: Daier
+    he: מעלי גירה
+    hr: Preživači
+    hu: kérődzők
+    hy: Որոճողներ
+    ia: Ruminantia
+    id: hewan pemamah biak
+    ie: Ruminantia
+    inh: нух хьекхаду
+    io: Ruminantia
+    is: Jórturdýr
+    it: Ruminantia
+    ja: ウシ亜目
+    jv: Kéwan nggayemi
+    ka: მცოხნელები
+    kab: Timesluffaẓ
+    kk: Күйіс қайыратындар
+    kk-arab: كۇيىس قايىراتىندار
+    kk-cn: كۇيىس قايىراتىندار
+    kk-cyrl: Күйіс қайыратындар
+    kk-kz: Күйіс қайыратындар
+    kk-latn: Küýis qaýıratındar
+    kk-tr: Küýis qaýıratındar
+    ko: 반추류
+    ky: Кепшөөчүлөр
+    la: Ruminantia
+    lb: Déieren, déi idderzen
+    lt: Atrajotojai
+    lv: Atgremotāji
+    mg: Biby mandinika
+    mk: преживари
+    ms: Ruminan
+    mul: Ruminantia
+    my: စားမြုံပြန်ကောင်
+    nb: drøvtyggere
+    nl: herkauwers
+    nn: jortedyr
+    oc: Ruminantia
+    pl: przeżuwacze
+    pt: Ruminantes
+    pt-br: Ruminantia
+    ro: Rumegătoare
+    ru: жвачные
+    sco: Ruminantia
+    se: smirezastit
+    sh: Preživači
+    sk: Prežúvavce
+    sl: Ruminantia
+    smn: smieretteijeeh
+    sq: Ruminantia
+    sr: Preživari
+    sv: idisslare
+    tg: Жовандаҳо
+    tg-latn: Ƶovandaho
+    th: อันดับย่อยสัตว์เคี้ยวเอื้อง
+    tl: Ruminantia
+    tr: Gevişgetirenler
+    tt: күшәүчеләр
+    uk: жуйні
+    uz: Kavsh qaytaruvchilar
+    vi: Phân bộ Nhai lại
+    vls: Herkauwers
+    vo: Ruminantia
+    wa: roemiant
+    war: Ruminantia
+    wuu: 反刍亚目
+    yue: 反芻動物
+    zh: 反刍亚目
+    zh-cn: 反刍亚目
+    zh-hans: 反刍亚目
+    zh-hant: 反芻亞目
+    zh-hk: 反芻亞目
+    zh-sg: 反刍亚目
+    zh-tw: 反芻亞目
 ---
-
 # [[Ruminants]] 
 
  ![Giraffa_camelopardalis](Ruminants/Giraffa_camelopardalis.jpg)  ![Kobus_ellipsiprymnus](Ruminants/Kobus_ellipsiprymnus4321001.jpg)  ![Elk](Ruminants/Deer/Cervus/Wapiti/Wapiti.jpg) 

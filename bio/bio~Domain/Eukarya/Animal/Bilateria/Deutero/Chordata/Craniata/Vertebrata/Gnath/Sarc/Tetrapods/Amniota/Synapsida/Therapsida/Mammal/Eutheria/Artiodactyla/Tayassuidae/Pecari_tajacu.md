@@ -1,10 +1,38 @@
 ---
 aliases:
-  - Pecari_tajacu
-  - Pecari tajacu
+- Dicotyles tajacu
+- Pecari tajacu
+- Pecari_tajacu
 title: Pecari tajacu
+has_id_wikidata: Q125498219
+dv_has_:
+  name_:
+    an: Dicotyles tajacu
+    ast: Dicotyles tajacu
+    ca: Dicotyles tajacu
+    de: Dicotyles tajacu
+    en: Dicotyles tajacu
+    eo: Dicotyles tajacu
+    es: Dicotyles tajacu
+    eu: Dicotyles tajacu
+    ext: Dicotyles tajacu
+    fr: Dicotyles tajacu
+    ga: Dicotyles tajacu
+    gl: Dicotyles tajacu
+    ia: Dicotyles tajacu
+    ie: Dicotyles tajacu
+    io: Dicotyles tajacu
+    it: Dicotyles tajacu
+    la: Dicotyles tajacu
+    mul: Dicotyles tajacu
+    nl: Dicotyles tajacu
+    oc: Dicotyles tajacu
+    pl: Dicotyles tajacu
+    pt: Dicotyles tajacu
+    pt-br: Dicotyles tajacu
+    uk: Dicotyles tajacu
+    vo: Dicotyles tajacu
 ---
-
 # Pecari tajacu
 
 ## collared peccary, javelina 

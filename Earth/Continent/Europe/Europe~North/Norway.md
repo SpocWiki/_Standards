@@ -1,16 +1,366 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]"
+  - '[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]'
 dv_has_:
   name_:
+    ab: Норвегиа
+    ace: Norwègia
+    ady: Норвегие
+    aeb-arab: النرويج
+    af: Noorweë
+    am: ኖርዌይ
+    ami: Norway
+    an: Noruega
+    ang: Norþƿeȝ
+    ann: Nọwè
+    anp: नॉर्वे
+    ar: النرويج
+    arc: ܢܘܪܒܝܓ
+    ary: نورڤيج
+    arz: النرويج
+    as: নৰৱে’
+    ast: Noruega
+    av: Норвегия
+    avk: Norga
+    awa: नार्वे
+    ay: Nurweka
+    az: Norveç
+    azb: نوروژ
+    ba: Норвегия
+    ban: Norwegia
+    bar: Norwegn
+    bbc: Norwegia
+    bcl: Norwey
+    be: Нарвегія
+    be-tarask: Нарвэгія
+    bew: Norwèhen
+    bg: Норвегия
+    bho: नार्वे
+    bi: Norway
+    bjn: Norwegia
+    bm: Norwij
+    bn: নরওয়ে
+    bo: ནོར་ཝེ།
+    bpy: নরৱে
+    br: Norvegia
+    bs: Norveška
+    bug: ᨊᨚᨑᨘᨓᨙᨁᨗᨐ
+    bxr: Норвеги
+    ca: Noruega
+    cbk-zam: Noruega
+    cdo: Nò̤-ŭi
+    ce: Норвеги
+    ceb: Norway
+    ch: Norge
+    chr: ᏃᏪ
+    chy: Norway
+    ckb: نەرویژ
+    co: Nurvegia
+    cr: Norway
+    crh: Norvegiya
+    crh-latn: Norvegiya
+    cs: Norsko
+    csb: Norweskô
+    cu: Норєгъ
+    cv: Норвеги
+    cy: Norwy
+    da: Norge
+    dag: Norway
+    de: Norwegen
+    de-at: Norwegen
+    de-ch: Norwegen
+    din: Nɔrwei
+    diq: Norwec
+    dsb: Norwegska
+    dty: नर्वे
+    dv: ނޯވޭ
+    dz: ནོ་ཝེ་
+    ee: Norway
+    el: Νορβηγία
+    eml: Nurvégia
+    en: Norway
+    en-ca: Norway
+    en-gb: Norway
+    en-us: Norway
+    eo: Norvegio
+    es: Noruega
+    et: Norra
+    eu: Norvegia
+    ext: Noruega
+    fa: نروژ
+    ff: Norwees
+    fi: Norja
+    fj: Norge
+    fo: Noreg
+    fr: Norvège
+    frc: Norvège
+    frp: Norvèg·e
+    frr: Noorweegen
+    fur: Norvegje
+    fy: Noarwegen
+    ga: an Iorua
+    gag: Norvegiya
+    gan: 挪威
+    gcr: Norvèj
+    gd: Nirribhidh
+    gl: Noruega
+    glk: نؤروژ
+    gn: Noruega
+    gom: नॉर्वे
+    gom-deva: नॉर्वे
+    gom-latn: Norway
+    gor: Norwegia
+    got: "\U0001033D\U00010330\U0001033F\U00010342\U00010345\U00010339\U00010332\U00010343"
+    gpe: Norway
+    gsw: Norweege
+    gu: નોર્વે
+    gv: Norlynn
+    ha: Norway
+    hak: Nò-vî
+    haw: Nolewai
+    he: נורווגיה
+    hi: नॉर्वे
+    hif: Norway
+    hil: Norwega
+    hr: Norveška
+    hsb: Norwegska
+    ht: Nòvèj
+    hu: Norvégia
+    hy: Նորվեգիա
+    hyw: Նորվեկիա
+    ia: Norvega
+    iba: Norway
+    id: Norwegia
+    ie: Norvegia
+    ig: Norway
+    ik: Norge
+    ilo: Norwega
+    inh: Норгиче
+    io: Norvegia
+    is: Noregur
+    it: Norvegia
+    iu: ᓄᕐᒋ/nurgi
+    ja: ノルウェー
+    jam: Naawie
+    jbo: noreg.
+    jv: Nurwègen
+    ka: ნორვეგია
+    kaa: Norvegiya
+    kab: Nuṛvij
+    kbd: Норвегэ
+    kbp: Nɔɔrɩvɛɛzɩ
+    kea: Noruega
+    kg: Norge
+    kge: Norwegia
+    ki: Nowĩ
+    kk: Норвегия
+    kl: Norge
+    km: ប្រទេសន័រវេ
+    kn: ಕಾಮೌ
+    ko: 노르웨이
+    koi: Норвег
+    krc: Норвегия
+    ks: ناروے
+    ksh: Norweje
+    ku: Norwêc
+    kv: Норвегия
+    kw: Norgagh
+    ky: Норвегия
+    la: Norvegia
+    lad: Norvejia
+    lb: Norwegen
+    lbe: Норвай
+    lez: Норвегия
+    lfn: Noria
+    lg: Norway
+    li: Noorwege
+    lij: Norvéggia
+    liv: Norvēgmō
+    lld: Norvegia
+    lmo: Nurvegia
+    ln: Norvej
+    lo: ປະເທດນອກແວດ
+    lrc: ولات نروج
+    lt: Norvegija
+    ltg: Norvegeja
+    lv: Norvēģija
+    lzh: 挪威
+    mad: Norwegia
+    mai: नार्वे
+    map-bms: Norwegia
+    mdf: Норвэгия
+    mg: Norvezy
+    mhr: Норвегий
+    mi: Nōwei
+    min: Norwegia
+    mk: Норвешка
+    ml: നോർവെ
+    mn: Норвеги
+    mni: ꯅꯣꯔꯋꯦ
+    mos: Norway
+    mr: नॉर्वे
+    mrj: Норвеги
+    ms: Norway
+    ms-arab: نوروي
+    mt: Norveġja
+    mwl: Noruega
+    my: နော်ဝေနိုင်ငံ
+    myv: Норвегия Мастор
+    mzn: نروژ
+    na: Norwei
+    nah: Norwegah
+    nan: Lo̍k-ui
+    nap: Norvegia
+    nb: Norge
+    nds: Norwegen
+    nds-nl: Noorwegen
+    ne: नर्वे
+    new: नर्वे
+    nl: Noorwegen
+    nn: Noreg
+    nov: Norvegia
+    nrm: Norouague
+    nso: Norge
+    nv: Kinghą́ą́ʼ Haltsooí Dineʼé Bikéyah
+    ny: Norge
+    oc: Norvègia
+    olo: Norviegii
+    om: Norway
+    or: ନରୱେ
+    os: Норвеги
+    pa: ਨੌਰਵੇ
+    pag: Noruéga
+    pam: Norwega
+    pap: Noruega
+    pcd: Norvège
+    pcm: Norway
+    pdc: Norwegen
+    pfl: Norwege
+    pi: नार्वे
+    pih: Norwaii
+    pl: Norwegia
+    pms: Norvegia
+    pnb: ناروے
+    pnt: Νορβηγία
+    ps: ناروې
+    pt: Noruega
+    pt-br: Noruega
+    qu: Nurwiga
+    rm: Norvegia
+    rmy: Norvejiya
+    rn: Noruega
+    ro: Norvegia
+    roa-tara: Norveggie
+    ru: Норвегия
+    rue: Норьско
+    rup: Norveghia
+    rw: Noruveje
+    sa: नार्वे
+    sah: Норвегия
+    sat: ᱱᱚᱨᱣᱮ
+    sc: Norvegia
+    scn: Nurbeggia
+    sco: Norawa
+    sd: ناروي
+    se: Norga
+    sg: Nörvêzi
+    sgs: Nuorvegėjė
+    sh: Norveška
+    shn: မိူင်းၼေႃႇဝူၺ်း
+    si: නෝර්වේ
+    sjd: Та̄ре̄ммьне
+    sje: Vuodna
+    sju: Nürjje
+    sk: Nórsko
+    skr: ناروے
+    sl: Norveška
+    sm: Norge
+    sma: Nöörje
+    smj: Vuodna
+    smn: Taažâ
+    sms: Taarr
+    sn: Norway
+    so: Norway
+    sq: Norvegjia
+    sr: Норвешка
+    sr-ec: Норвешка
+    sr-el: Norveška
+    srn: Norvegikondre
+    ss: INoweyi
+    st: Norge
+    stq: Norwegen
+    su: Norwégia
+    sv: Norge
+    sw: Norwei
+    syl: ꠘꠞꠅꠦ
+    szl: Norwygijo
+    szy: Norway
+    ta: நோர்வே
+    tay: Norway
+    tcy: ನಾರ್ವೆ
+    te: నార్వే
+    tet: Noruega
+    tg: Норвегия
+    th: ประเทศนอร์เวย์
+    ti: ኖርወይ
+    tk: Norwegiýa
+    tl: Noruwega
+    tly: Norveç
+    tn: Norway
+    to: Noaue
+    tok: ma Nosiki
+    tpi: Nowe
+    tr: Norveç
+    trv: Norway
+    ts: Norge
+    tt: Норвегия
+    tum: Norway
+    tw: Norway
+    ty: Norvège
+    tyv: Норвегия
+    udm: Норвегия
+    ug: نورۋېگىيە
+    uk: Норвегія
+    ur: ناروے
+    uz: Norvegiya
+    ve: Norge
+    vec: Norveja
+    vep: Norvegii
+    vi: Na Uy
+    vls: Nôorweegn
+    vo: Norgän
+    vro: Norra
+    wa: Norvedje
+    war: Noruega
+    wo: Noorwees
+    wuu: 挪威
+    xal: Ноорскгин Нутг
+    xh: Norowe
+    xmf: ნორვეგია
+    yi: נארוועגיע
+    yo: Nọ́rwèy
+    yue: 挪威
+    za: Nozveih
+    zea: Noorwegen
+    zgh: ⵏⵓⵔⵡⵉⵊ
+    zh: 挪威
+    zh-cn: 挪威
+    zh-hans: 挪威
+    zh-hant: 挪威
+    zh-hk: 挪威
+    zh-mo: 挪威
+    zh-my: 挪威
+    zh-sg: 挪威
+    zh-tw: 挪威
+    zu: INoki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Norway
 dv_ISO4217-currency_alphabetic: NOK
@@ -41,9 +391,9 @@ dv_UNTERM_Chinese_Formal: 挪威王国
 dv_UNTERM_French_Formal: le Royaume de Norvège
 dv_UNTERM_Russian: Норвегия
 dv_UNTERM_Russian_Formal: Королевство Норвегия
-dv_Region_Name: "[[../../Europe]]"
-dv_Intermediate_Region_Name: "[[Norway]]"
-dv_Sub-region_Name: "[[Northern Europe]]"
+dv_Region_Name: '[[../../Europe]]'
+dv_Intermediate_Region_Name: '[[Norway]]'
+dv_Sub-region_Name: '[[Northern Europe]]'
 dv_Region: 150
 dv_Sub-region: 154
 dv_Geoname-ID: 3144096
@@ -67,58 +417,243 @@ dv_ISO3: NOR
 dv_has_name_de: Norwegen
 dv_Area-Total: 323877
 dv_Area-Land: 306830
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: N
-dv_Capital: "[[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]"
+dv_Capital: '[[geo/Continent/Europe/Europe~North/Norway/Counties/Oslo]]'
 dv_Alcohol-l: 7.8
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 11.4588
 dv_has_place_latitude: 61.8685
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]"
+- '[[../../../../WikiData/WD~Norway,20|WD~Norway,20]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/Norway|Norway]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/Norway.public|Norway.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/Norway.internal|Norway.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/Norway.protect|Norway.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/Norway.private|Norway.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/Norway.personal|Norway.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/Norway.secret|Norway.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Norway
 dv_developed_developing_countries: Developed
-
 aliases:
-  - Norway
-  - Noruega
-  - Norvège
-  - النرويج
-  - 挪威
-  - Норвегия
-  - the Kingdom of Norway
-  - el Reino de Noruega
+- an Iorua
+- el Reino de Noruega
+- INoki
+- INoweyi
+- Kinghą́ą́ʼ Haltsooí Dineʼé Bikéyah
+- Lo̍k-ui
+- ma Nosiki
+- Na Uy
+- Naawie
+- Nirribhidh
+- Noarwegen
+- Noaue
+- Nolewai
+- Noorweegen
+- Noorwees
+- Noorwege
+- Noorwegen
+- Noorweë
+- Norawa
+- Noreg
+- noreg.
+- Noregur
+- Norga
+- Norgagh
+- Norge
+- Norgän
+- Noria
+- Norja
+- Norlynn
+- Norouague
+- Norowe
+- Norra
+- Norsko
+- Noruega
+- Noruveje
+- Noruwega
+- Noruéga
+- Norvedje
+- Norvega
+- Norvegeja
+- Norveggie
+- Norveghia
+- Norvegia
+- Norvegii
+- Norvegija
+- Norvegikondre
+- Norvegio
+- Norvegiya
+- Norvegje
+- Norvegjia
+- Norvej
+- Norveja
+- Norvejia
+- Norvejiya
+- Norvezy
+- Norveç
+- Norveġja
+- Norveška
+- Norviegii
+- Norvège
+- Norvègia
+- Norvèg·e
+- Norvèj
+- Norvéggia
+- Norvégia
+- Norvēgmō
+- Norvēģija
+- Norwaii
+- Norway
+- Norwec
+- Norweege
+- Norwees
+- Norwega
+- Norwegah
+- Norwege
+- Norwegen
+- Norwegia
+- Norwegiýa
+- Norwegn
+- Norwegska
+- Norwei
+- Norweje
+- Norweskô
+- Norwey
+- Norwij
+- Norwy
+- Norwygijo
+- Norwègia
+- Norwèhen
+- Norwégia
+- Norwêc
+- Norþƿeȝ
+- Nowe
+- Nowĩ
+- Nozveih
+- Nuorvegėjė
+- Nurbeggia
+- Nurvegia
+- Nurvégia
+- Nurweka
+- Nurwiga
+- Nurwègen
+- Nuṛvij
+- Nò-vî
+- Nòvèj
+- Nò̤-ŭi
+- Nórsko
+- Nôorweegn
+- Nörvêzi
+- Nöörje
+- Nürjje
+- Nōwei
+- Nɔrwei
+- Nɔɔrɩvɛɛzɩ
+- Nọwè
+- Nọ́rwèy
+- Taarr
+- Taažâ
+- the Kingdom of Norway
+- Vuodna
+- Νορβηγία
+- Нарвегія
+- Нарвэгія
+- Ноорскгин Нутг
+- Норєгъ
+- Норвай
+- Норвег
+- Норвегія
+- Норвеги
+- Норвегиа
+- Норвегие
+- Норвегий
+- Норвегия
+- Норвегия Мастор
+- Норвегэ
+- Норвешка
+- Норвэгия
+- Норгиче
+- Норьско
+- Та̄ре̄ммьне
+- Նորվեգիա
+- Նորվեկիա
+- נארוועגיע
+- נורווגיה
+- النرويج
+- نؤروژ
+- ناروي
+- ناروې
+- ناروے
+- نروژ
+- نوروي
+- نوروژ
+- نورڤيج
+- نورۋېگىيە
+- نەرویژ
+- ولات نروج
+- ܢܘܪܒܝܓ
+- ނޯވޭ
+- नर्वे
+- नार्वे
+- नॉर्वे
+- নরওয়ে
+- নরৱে
+- নৰৱে’
+- ਨੌਰਵੇ
+- નોર્વે
+- ନରୱେ
+- நோர்வே
+- నార్వే
+- ಕಾಮೌ
+- ನಾರ್ವೆ
+- നോർവെ
+- නෝර්වේ
+- ประเทศนอร์เวย์
+- ປະເທດນອກແວດ
+- ནོ་ཝེ་
+- ནོར་ཝེ།
+- နော်ဝေနိုင်ငံ
+- မိူင်းၼေႃႇဝူၺ်း
+- ნორვეგია
+- ኖርወይ
+- ኖርዌይ
+- ᏃᏪ
+- ᓄᕐᒋ/nurgi
+- ប្រទេសន័រវេ
+- ᨊᨚᨑᨘᨓᨙᨁᨗᨐ
+- ᱱᱚᱨᱣᱮ
+- ⵏⵓⵔⵡⵉⵊ
+- ノルウェー
+- 挪威
+- ꠘꠞꠅꠦ
+- ꯅꯣꯔꯋꯦ
+- 노르웨이
+- "\U0001033D\U00010330\U0001033F\U00010342\U00010345\U00010339\U00010332\U00010343"
 has_id_wikidata: Q20
 age_of_consent: 16
 age_of_majority: 18
 aircraft_registration_prefix: LN
 annual_number_of_weddings:
-  - 22111
-  - 22537
-anthem: "[[_Standards/WikiData/WD~Ja,_vi_elsker_dette_landet,133198]]"
+- 22111
+- 22537
+anthem: '[[_Standards/WikiData/WD~Ja,_vi_elsker_dette_landet,133198]]'
 area: 385207
 Baidu_Tieba_name: 挪威
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~representative_democracy,188759]]"
-  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+- '[[_Standards/WikiData/WD~representative_democracy,188759]]'
+- '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
 BHCL_UUID: 6f20110c-273c-48d6-befd-de28ff36ae7c
 birth_rate:
-  - 9.4
-  - 9.8
-  - 10.2
-  - 10.4
-capital: "[[_Standards/WikiData/WD~Oslo,585]]"
-category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q16793213,16793213]]"
-central_bank: "[[_Standards/WikiData/WD~Norges_Bank,970769]]"
+- 9.4
+- 9.8
+- 10.2
+- 10.4
+capital: '[[_Standards/WikiData/WD~Oslo,585]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q16793213,16793213]]'
+central_bank: '[[_Standards/WikiData/WD~Norges_Bank,970769]]'
 CIVICUS_Monitor_country_entry: norway
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Norway,86881]]"
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Norway,86881]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Norway.svg
 Colon_Classification: SG--573
 Commons_category: Norway
@@ -127,214 +662,214 @@ compulsory_education_maximum_age_: 15
 compulsory_education_minimum_age_: 6
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Trøndelag,127676]]"
-  - "[[_Standards/WikiData/WD~Agder,2729021]]"
-  - "[[_Standards/WikiData/WD~Innlandet,56404886]]"
-  - "[[_Standards/WikiData/WD~Vestland,56407177]]"
-  - "[[_Standards/WikiData/WD~Oslo,585]]"
-  - "[[_Standards/WikiData/WD~Telemark,2254]]"
-  - "[[_Standards/WikiData/WD~Jan_Mayen,14056]]"
-  - "[[_Standards/WikiData/WD~Bouvet_Island,23408]]"
-  - "[[_Standards/WikiData/WD~Svalbard,25231]]"
-  - "[[_Standards/WikiData/WD~Østfold,50614]]"
-  - "[[_Standards/WikiData/WD~Akershus,50615]]"
-  - "[[_Standards/WikiData/WD~Buskerud,50618]]"
-  - "[[_Standards/WikiData/WD~Vestfold,50619]]"
-  - "[[_Standards/WikiData/WD~Møre_og_Romsdal,50627]]"
-  - "[[_Standards/WikiData/WD~Rogaland,50624]]"
-  - "[[_Standards/WikiData/WD~Nordland,50630]]"
-  - "[[_Standards/WikiData/WD~Troms,50631]]"
-  - "[[_Standards/WikiData/WD~Finnmark,50632]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Trøndelag,127676]]'
+- '[[_Standards/WikiData/WD~Agder,2729021]]'
+- '[[_Standards/WikiData/WD~Innlandet,56404886]]'
+- '[[_Standards/WikiData/WD~Vestland,56407177]]'
+- '[[_Standards/WikiData/WD~Oslo,585]]'
+- '[[_Standards/WikiData/WD~Telemark,2254]]'
+- '[[_Standards/WikiData/WD~Jan_Mayen,14056]]'
+- '[[_Standards/WikiData/WD~Bouvet_Island,23408]]'
+- '[[_Standards/WikiData/WD~Svalbard,25231]]'
+- '[[_Standards/WikiData/WD~Østfold,50614]]'
+- '[[_Standards/WikiData/WD~Akershus,50615]]'
+- '[[_Standards/WikiData/WD~Buskerud,50618]]'
+- '[[_Standards/WikiData/WD~Vestfold,50619]]'
+- '[[_Standards/WikiData/WD~Møre_og_Romsdal,50627]]'
+- '[[_Standards/WikiData/WD~Rogaland,50624]]'
+- '[[_Standards/WikiData/WD~Nordland,50630]]'
+- '[[_Standards/WikiData/WD~Troms,50631]]'
+- '[[_Standards/WikiData/WD~Finnmark,50632]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 coordinates_of_easternmost_point: Point(31.168194444 70.387527777)
 coordinates_of_northernmost_point: Point(27.6510362 71.1338906)
 coordinates_of_southernmost_point: Point(7.569638888 57.959666666)
 coordinates_of_westernmost_point: Point(4.638277777 61.042972222)
 coordinate_location: Point(11.0 65.0)
-country: "[[_Standards/WikiData/WD~Norway,20]]"
+country: '[[_Standards/WikiData/WD~Norway,20]]'
 country_calling_code: 47
 cssclasses:
-  - Country
-culture: "[[_Standards/WikiData/WD~culture_of_Norway,2663442]]"
+- Country
+culture: '[[_Standards/WikiData/WD~culture_of_Norway,2663442]]'
 Danbooru_tag: norway
 death_rate:
-  - 7.5
-  - 7.6
-  - 7.8
-  - 8.4
+- 7.5
+- 7.6
+- 7.8
+- 8.4
 Democracy_Index: 9.75
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Norway,1996448]]"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Norway,1996448]]'
 demonym:
-  - نورڤيجيين
-  - نورڤيجي
-  - نورڤيجية
-  - نورڤيجيات
-  - Ioruach
-  - নরওয়েজীয়
-  - نروژی
-  - Noor
-  - noruega
-  - Norwegian
-  - Nor
-  - norvég
-  - norsk
-  - norsk
-  - نرويجي
-  - نرويجيون
-  - норвежец
-  - норвежка
-  - норвежци
-  - nordmand
-  - Norwegerin
-  - noruega
-  - norralased
-  - norjalainen
-  - norjalaiset
-  - Norvégienne
-  - Norvégiennes
-  - Norvégiens
-  - נורווגי
-  - Norvegiano
-  - norvegesi
-  - nordmann
-  - nordmenn
-  - norvegian
-  - norvegiancă
-  - norvegieni
-  - норвежец
-  - норвежка
-  - норвежцы
-  - norrman
-  - norsk
-  - норвежець
-  - норвежка
-  - норвежці
-  - norvejeza
-  - norvejeze
-  - norvejezi
-  - norvejezo
-  - Norgänan
-  - Norweger
-  - نرويجية
-  - noruegu
-  - noruego
-  - Norvégien
-  - נורווגית
-  - norvegese
-  - norsce
+- نورڤيجيين
+- نورڤيجي
+- نورڤيجية
+- نورڤيجيات
+- Ioruach
+- নরওয়েজীয়
+- نروژی
+- Noor
+- noruega
+- Norwegian
+- Nor
+- norvég
+- norsk
+- norsk
+- نرويجي
+- نرويجيون
+- норвежец
+- норвежка
+- норвежци
+- nordmand
+- Norwegerin
+- noruega
+- norralased
+- norjalainen
+- norjalaiset
+- Norvégienne
+- Norvégiennes
+- Norvégiens
+- נורווגי
+- Norvegiano
+- norvegesi
+- nordmann
+- nordmenn
+- norvegian
+- norvegiancă
+- norvegieni
+- норвежец
+- норвежка
+- норвежцы
+- norrman
+- norsk
+- норвежець
+- норвежка
+- норвежці
+- norvejeza
+- norvejeze
+- norvejezi
+- norvejezo
+- Norgänan
+- Norweger
+- نرويجية
+- noruegu
+- noruego
+- Norvégien
+- נורווגית
+- norvegese
+- norsce
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Draft_History_of_Qing,1374339]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Pavlenkov_Encyclopedic_Dictionary,106323898]]'
 Dewey_Decimal_Classification: 2--481
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Nepal,837]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Finland,33]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Iceland,189]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Croatia,224]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-  - "[[_Standards/WikiData/WD~Czechoslovakia,33946]]"
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Nepal,837]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Soviet_Union,15180]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Iceland,189]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Croatia,224]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Czechoslovakia,33946]]'
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Norway,1379783]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Norway,1379783]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~113,25648804]]"
-  - "[[_Standards/WikiData/WD~110,25648823]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Norway,1770849]]"
-expiryDate: ""
+- '[[_Standards/WikiData/WD~113,25648804]]'
+- '[[_Standards/WikiData/WD~110,25648823]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Norway,1770849]]'
+expiryDate: ''
 female_population:
-  - 2666540
-  - 2652054
-  - 2680087
-  - 2703524
+- 2666540
+- 2652054
+- 2680087
+- 2703524
 FIPS_10_4_countries_and_regions_: NO
-flag: "[[_Standards/WikiData/WD~flag_of_Norway,83149]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Norway,83149]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg
-foundational_text: "[[_Standards/WikiData/WD~Constitution_of_Norway,642673]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Norway,725371]]"
+foundational_text: '[[_Standards/WikiData/WD~Constitution_of_Norway,642673]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Norway,725371]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Norway.map
 Gini_coefficient: 27.7
 GitHub_topic: norway
 GS1_country_code: 700-709
 Happy_Planet_Index_score: 50.9
 hashtag: Norway
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-has_part_s_: "[[_Standards/WikiData/WD~Hardangervidda,1585051]]"
-head_of_government: "[[_Standards/WikiData/WD~Jonas_Gahr_Støre,467948]]"
-head_of_state: "[[_Standards/WikiData/WD~Harald_V_of_Norway,57287]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Norway,1574420]]"
-highest_point: "[[_Standards/WikiData/WD~Galdhøpiggen,203942]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Norway,210725]]"
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_part_s_: '[[_Standards/WikiData/WD~Hardangervidda,1585051]]'
+head_of_government: '[[_Standards/WikiData/WD~Jonas_Gahr_Støre,467948]]'
+head_of_state: '[[_Standards/WikiData/WD~Harald_V_of_Norway,57287]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Norway,1574420]]'
+highest_point: '[[_Standards/WikiData/WD~Galdhøpiggen,203942]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Norway,210725]]'
 Human_Development_Index: 0.966
 IAB_code: 1372
 icon: flag-no
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grimsdalen%20Rondane%20Dovre%20Innlandet%20Norway%20%282004.06.28%29.jpg
 inception:
-  - 900
-  - 1905-10-26
-  - 1905-06-07
-  - 1814-05-17
+- 900
+- 1905-10-26
+- 1905-06-07
+- 1814-05-17
 Inequality_adjusted_Human_Development_Index: 0.91
 INSEE_countries_and_foreign_territories_code: 99103
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 IOC_country_code: NOR
 IPA_transcription:
-  - ˈnoːɾeːg
-  - ˈnɔɾgə
-  - nɐrˈvʲeɡʲɪjə
+- ˈnoːɾeːg
+- ˈnɔɾgə
+- nɐrˈvʲeɡʲɪjə
 isDeleted: false
 ISNI: 122989524
 ISO_3166_1_alpha_2_code: NO
@@ -342,220 +877,219 @@ ISO_3166_1_alpha_3_code: NOR
 ISO_3166_1_numeric_code: 578
 isReadOnly: false
 ITU_letter_code: NOR
-keywords: ""
+keywords: ''
 Krugosvet_article: strany_mira/NORVEGIYA.html
 Languages:
-  - no
-  - nb
-  - nn
-  - se
-  - fi
+- no
+- nb
+- nn
+- se
+- fi
 language_used:
-  - "[[_Standards/WikiData/WD~Kven,165795]]"
-  - "[[_Standards/WikiData/WD~Norwegian_Sign_Language,1781613]]"
-  - "[[_Standards/WikiData/WD~Rodi,3177352]]"
-  - "[[_Standards/WikiData/WD~Norwegian,9043]]"
-  - "[[_Standards/WikiData/WD~Southern_Sami,13293]]"
-  - "[[_Standards/WikiData/WD~Northern_Sami,33947]]"
-  - "[[_Standards/WikiData/WD~Ume_Sami,56415]]"
-layout: ""
-legislative_body: "[[_Standards/WikiData/WD~Stortinget,109016]]"
+- '[[_Standards/WikiData/WD~Kven,165795]]'
+- '[[_Standards/WikiData/WD~Norwegian_Sign_Language,1781613]]'
+- '[[_Standards/WikiData/WD~Rodi,3177352]]'
+- '[[_Standards/WikiData/WD~Norwegian,9043]]'
+- '[[_Standards/WikiData/WD~Southern_Sami,13293]]'
+- '[[_Standards/WikiData/WD~Northern_Sami,33947]]'
+- '[[_Standards/WikiData/WD~Ume_Sami,56415]]'
+layout: ''
+legislative_body: '[[_Standards/WikiData/WD~Stortinget,109016]]'
 Library_of_Congress_Classification: JN7401-7695
 licence_plate_code: N
 license: CC BY-SA 4.0
 life_expectancy: 82.50976
-linkTitle: ""
+linkTitle: ''
 literacy_rate: 100
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Scandinavia,21195]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Scandinavia,21195]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Skagerrak,1695]]"
-  - "[[_Standards/WikiData/WD~North_Sea,1693]]"
-  - "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-  - "[[_Standards/WikiData/WD~Barents_Sea,45823]]"
-  - "[[_Standards/WikiData/WD~Norwegian_Sea,47545]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+- '[[_Standards/WikiData/WD~Skagerrak,1695]]'
+- '[[_Standards/WikiData/WD~North_Sea,1693]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Barents_Sea,45823]]'
+- '[[_Standards/WikiData/WD~Norwegian_Sea,47545]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 location:
-  - 61.8685
-  - 11.4588
+- 61.8685
+- 11.4588
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe-Norway.svg
-lowest_point: "[[_Standards/WikiData/WD~Norwegian_Sea,47545]]"
+lowest_point: '[[_Standards/WikiData/WD~Norwegian_Sea,47545]]'
 M49_code: 578
 mains_voltage: 230
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Norway,11034018]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Norway,11034018]]'
 male_population:
-  - 2695841
-  - 2712935
-  - 2728232
-  - 2753603
+- 2695841
+- 2712935
+- 2728232
+- 2753603
 maritime_identification_digits:
-  - 259
-  - 257
-  - 258
+- 259
+- 257
+- 258
 marriageable_age: 18
 median_income: 51489
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~Nordic_Council,146165]]"
-  - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~Bank_for_International_Settlements,309195]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~EFTA_Court,610886]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Arctic_Council,674182]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
-  - "[[_Standards/WikiData/WD~CGIAR,1128401]]"
-  - "[[_Standards/WikiData/WD~European_Payments_Union,1377612]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Global_Biodiversity_Information_Facility,1531570]]"
-  - "[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~Nordic_Battle_Group,1998131]]"
-  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~NATO,7184]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-  - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~Nordic_Council,146165]]'
+- '[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~Bank_for_International_Settlements,309195]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~EFTA_Court,610886]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Arctic_Council,674182]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~Council_of_the_Baltic_Sea_States,789769]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[_Standards/WikiData/WD~CGIAR,1128401]]'
+- '[[_Standards/WikiData/WD~European_Payments_Union,1377612]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Global_Biodiversity_Information_Facility,1531570]]'
+- '[[_Standards/WikiData/WD~Strategic_Airlift_Capability,1579424]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~Nordic_Battle_Group,1998131]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~Barents_Euro-Arctic_Council,4426190]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
 MeSH_tree_code: Z01.542.816.374
 mobile_country_code: 242
 motto_text:
-  - Ei grym yw natur
-  - Powered by nature
+- Ei grym yw natur
+- Powered by nature
 name: ꠘꠞꠅꠦ
 named_after:
-  - "[[_Standards/WikiData/WD~north,659]]"
-  - "[[_Standards/WikiData/WD~road,34442]]"
+- '[[_Standards/WikiData/WD~north,659]]'
+- '[[_Standards/WikiData/WD~road,34442]]'
 native_label:
-  - Kongeriket Noreg
-  - Kongeriket Norge
+- Kongeriket Noreg
+- Kongeriket Norge
 nominal_GDP:
-  - 490293364377
-  - 579267365866
+- 490293364377
+- 579267365866
 number_of_out_of_school_children: 18627
 NUTS_code:
-  - NO
-  - NO0
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Norway,2334076]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Monarch_of_Norway,1294765]]"
+- NO
+- NO0
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Norway,2334076]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Monarch_of_Norway,1294765]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Norwegian,9043]]"
-  - "[[_Standards/WikiData/WD~Bokmål,25167]]"
-  - "[[_Standards/WikiData/WD~Nynorsk,25164]]"
-  - "[[_Standards/WikiData/WD~Sámi,56463]]"
+- '[[_Standards/WikiData/WD~Norwegian,9043]]'
+- '[[_Standards/WikiData/WD~Bokmål,25167]]'
+- '[[_Standards/WikiData/WD~Nynorsk,25164]]'
+- '[[_Standards/WikiData/WD~Sámi,56463]]'
 official_name: Kongeriket Norge
 official_website: http://www.norway.no/
 OmegaWiki_Defined_Meaning: 6763
 open_data_portal:
-  - "[[_Standards/WikiData/WD~Open_Data_Portal_Norway,97013549]]"
-  - "[[_Standards/WikiData/WD~Open_and_free_geospatial_data_from_Norway,97025893]]"
+- '[[_Standards/WikiData/WD~Open_Data_Portal_Norway,97013549]]'
+- '[[_Standards/WikiData/WD~Open_and_free_geospatial_data_from_Norway,97025893]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Raftsundet%20%28Lofoten%29%20banner%20Panorama.jpg
 part_of:
-  - "[[_Standards/WikiData/WD~Scandinavian_Peninsula,73169]]"
-  - "[[_Standards/WikiData/WD~Fennoscandia,604496]]"
-  - "[[_Standards/WikiData/WD~European_Economic_Area,8932]]"
-  - "[[_Standards/WikiData/WD~Scandinavia,21195]]"
-  - "[[_Standards/WikiData/WD~Northern_Europe,27479]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Nordic_countries,52062]]"
-patron_saint: "[[_Standards/WikiData/WD~Olaf_II_of_Norway,208331]]"
+- '[[_Standards/WikiData/WD~Scandinavian_Peninsula,73169]]'
+- '[[_Standards/WikiData/WD~Fennoscandia,604496]]'
+- '[[_Standards/WikiData/WD~European_Economic_Area,8932]]'
+- '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+- '[[_Standards/WikiData/WD~Northern_Europe,27479]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Nordic_countries,52062]]'
+patron_saint: '[[_Standards/WikiData/WD~Olaf_II_of_Norway,208331]]'
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q27103362,27103362]]"
-  - "[[_Standards/WikiData/WD~Q30277414,30277414]]"
-  - "[[_Standards/WikiData/WD~Q42294404,42294404]]"
-  - "[[_Standards/WikiData/WD~Q55442118,55442118]]"
-  - "[[_Standards/WikiData/WD~Q110834227,110834227]]"
+- '[[_Standards/WikiData/WD~Q27103362,27103362]]'
+- '[[_Standards/WikiData/WD~Q30277414,30277414]]'
+- '[[_Standards/WikiData/WD~Q42294404,42294404]]'
+- '[[_Standards/WikiData/WD~Q55442118,55442118]]'
+- '[[_Standards/WikiData/WD~Q110834227,110834227]]'
 PM20_geo_code: A18
 population: 5550203
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Norwegen.ogg
 public_holiday:
-  - "[[_Standards/WikiData/WD~Maundy_Thursday,106333]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Constitution_Day,974845]]"
-  - "[[_Standards/WikiData/WD~Easter_Sunday,1512337]]"
-  - "[[_Standards/WikiData/WD~Whit_Monday,2512993]]"
-  - "[[_Standards/WikiData/WD~Christmas_Day,2703710]]"
-  - "[[_Standards/WikiData/WD~Whitsun,3446130]]"
-  - "[[_Standards/WikiData/WD~Second_Day_of_Christmas,15113728]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
-  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
-  - "[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]"
+- '[[_Standards/WikiData/WD~Maundy_Thursday,106333]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
+- '[[_Standards/WikiData/WD~Constitution_Day,974845]]'
+- '[[_Standards/WikiData/WD~Easter_Sunday,1512337]]'
+- '[[_Standards/WikiData/WD~Whit_Monday,2512993]]'
+- '[[_Standards/WikiData/WD~Christmas_Day,2703710]]'
+- '[[_Standards/WikiData/WD~Whitsun,3446130]]'
+- '[[_Standards/WikiData/WD~Second_Day_of_Christmas,15113728]]'
+- '[[_Standards/WikiData/WD~Good_Friday,40317]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638]]'
 publish: true
-publishDate: ""
-railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
+publishDate: ''
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
 retirement_age: 67
 rural_population:
-  - 891476
-  - 901946
-  - 915909
-  - 929678
+- 891476
+- 901946
+- 915909
+- 929678
 shares_border_with:
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Finland,33]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-short_name: 🇳🇴
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+short_name: "\U0001F1F3\U0001F1F4"
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26984
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%86%D5%B8%D6%80%D5%BE%D5%A5%D5%A3%D5%AB%D5%A1%20%28Norway%29.ogg
-studied_in: "[[_Standards/WikiData/WD~Scandinavian_studies,922219]]"
+studied_in: '[[_Standards/WikiData/WD~Scandinavian_studies,922219]]'
 subreddit:
-  - noreg
-  - norge
-  - norway
+- noreg
+- norge
+- norway
 suicide_rate: 11.8
 tags:
-  - geo/Country
+- geo/Country
 title: Norway
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Counties_of_Norway,20202037]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Norway,8253880]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.no,41060]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Counties_of_Norway,20202037]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Norway,8253880]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.no,41060]]'
 total_fertility_rate: 1.78
 type: Country
 UIC_alphabetical_country_code: N
 UIC_numerical_country_code: 76
 UMLS_CUI: C0028423
 unemployment_rate: 3
-Unicode_character: 🇳🇴
+Unicode_character: "\U0001F1F3\U0001F1F4"
 urban_population:
-  - 4418218
-  - 4463566
-  - 4506374
-  - 4565651
+- 4418218
+- 4463566
+- 4506374
+- 4565651
 U_S_National_Archives_Identifier: 10035813
 VAT_rate: 25
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Norway,7112395]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Norway,7112395]]'
 WIPO_ST_3: NO
 Wolfram_Language_entity_code:
-  - Entity["Country", "Norway"]
-  - Entity["HistoricalCountry", "MedievalKingdomOfNorway"]
+- Entity["Country", "Norway"]
+- Entity["HistoricalCountry", "MedievalKingdomOfNorway"]
 ---
-
 # [[Norway]] 
 
 is_a = `=this.dv_is_a_`

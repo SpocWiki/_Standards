@@ -1,41 +1,88 @@
 ---
 aliases:
-  - Novak_Djokovic
-  - Novak Djokovic
-  - Djokovic
-  - Djokovic,Novak
+- Djokovic
+- Djokovic,Novak
+- Novak Cokoviç
+- Novak Djokovic
+- Novak Djokovich
+- Novak Djoković
+- Novak Gjokoviq
+- Novak Đoković
+- Novakas Džokovičius
+- Novaks Džokovičs
+- Novak_Djokovic
+- Nowak Jokowiç
+- Νόβακ Τζόκοβιτς
+- Новак Ђоковић
+- Новак Ѓоковиќ
+- Новак Джокавіч
+- Новак Джокович
+- Новак Жокович
+- Նովակ Ջոկովիչ
+- נובאק ג'וקוביץ'
+- نواک جوکوویچ
+- نوفاك دجوكوفيتش
+- نوواک جوکووِچ
+- نوواک جوکووچ
+- نوڤاك ديوكوفيتش
+- نۆڤاک دۆکۆڤیچ
+- नोभाक जोकोभिच
+- नोवाक जोकोविच
+- नोवाक् जोकोविक्
+- नोव्हाक जोकोविच
+- নোভাক জʼকোভিচ
+- নোভাক জোকোভিচ
+- ਨੋਵਾਕ ਜੋਕੋਵਿਕ
+- નોવાક ડીજોકોવિક
+- ନୋଭାକ୍ ଜାକୋଭିକ
+- நோவாக் ஜோக்கொவிச்
+- నోవక్ డొకోవిక్
+- ನೊವಾಕ್ ಜೊಕೊವಿಕ್
+- നോവാക് ജോക്കോവിച്ച്
+- นอวาก จอกอวิช
+- ໂນວັກ ໂຢໂຄວິກ
+- နိုဗက်ဂျိုကိုဗစ်
+- ნოვაკ ჯოკოვიჩი
+- ኖቫክ ጆኮቪች
+- ノヴァク・ジョコヴィッチ
+- 祖高域
+- 諾瓦克·喬科維奇
+- 諾華克·祖高域
+- 诺瓦克·乔科维奇
+- 诺瓦克·德约科维奇
+- 노바크 조코비치
 has_id_wikidata: Q5812
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
-  - '[[_Standards/WikiData/WD~Federal_Republic_of_Yugoslavia,838261]]'
-  - '[[_Standards/WikiData/WD~Serbia,403]]'
-  - '[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]'
+- '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
+- '[[_Standards/WikiData/WD~Federal_Republic_of_Yugoslavia,838261]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Serbia_and_Montenegro,37024]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Serbian_Orthodox_Church,188814]]'
 head_coach:
-  - '[[_Standards/WikiData/WD~Goran_Ivanišević,204279]]'
-  - '[[_Standards/WikiData/WD~Marián_Vajda,1291378]]'
-  - '[[_Standards/WikiData/WD~Riccardo_Piatti,23039404]]'
+- '[[_Standards/WikiData/WD~Goran_Ivanišević,204279]]'
+- '[[_Standards/WikiData/WD~Marián_Vajda,1291378]]'
+- '[[_Standards/WikiData/WD~Riccardo_Piatti,23039404]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Masaru_Emoto,205058]]'
-  - '[[_Standards/WikiData/WD~Pepe_Imaz,7166221]]'
+- '[[_Standards/WikiData/WD~Masaru_Emoto,205058]]'
+- '[[_Standards/WikiData/WD~Pepe_Imaz,7166221]]'
 employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_St._Sava,1517792]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Star_of_Karađorđe,2545753]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Republika_Srpska,33684]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Sava,1517792]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Star_of_Karađorđe,2545753]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Republika_Srpska,33684]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~right_handedness,3039938]]'
-  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
-  - '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
+- '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+- '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+- '[[_Standards/WikiData/WD~two_handed_backhand,14420068]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Marko_Djokovic,3597288]]'
-  - '[[_Standards/WikiData/WD~Djordje_Djokovic,17291218]]'
+- '[[_Standards/WikiData/WD~Marko_Djokovic,3597288]]'
+- '[[_Standards/WikiData/WD~Djordje_Djokovic,17291218]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Mahsanei_Hashmal,6670653]]'
-  - '[[_Standards/WikiData/WD~QuantBioRes,110651943]]'
+- '[[_Standards/WikiData/WD~Mahsanei_Hashmal,6670653]]'
+- '[[_Standards/WikiData/WD~QuantBioRes,110651943]]'
 occupation: '[[_Standards/WikiData/WD~tennis_player,10833314]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Novak_Djokovic,11128493]]'
 given_name: '[[_Standards/WikiData/WD~Novak,12797610]]'
@@ -43,32 +90,32 @@ father: '[[_Standards/WikiData/WD~Srdjan_Djokovic,17291202]]'
 mother: '[[_Standards/WikiData/WD~Dijana_Djokovic,17291209]]'
 spouse: '[[_Standards/WikiData/WD~Jelena_Djokovic,17291251]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 family_name: '[[_Standards/WikiData/WD~Djokovic,21146583]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~COVID_19,84263196]]'
-  - '[[_Standards/WikiData/WD~celiac_disease,11088]]'
+- '[[_Standards/WikiData/WD~COVID_19,84263196]]'
+- '[[_Standards/WikiData/WD~celiac_disease,11088]]'
 competition_won: "[[_Standards/WikiData/WD~2023_Adelaide_International_1_Men's_singles,115940271]]"
 country_for_sport: '[[_Standards/WikiData/WD~Serbia,403]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Serbian,9299]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Serbian,9299]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Roger_Federer,1426]]'
-  - '[[_Standards/WikiData/WD~Rafael_Nadal,10132]]'
+- '[[_Standards/WikiData/WD~Roger_Federer,1426]]'
+- '[[_Standards/WikiData/WD~Rafael_Nadal,10132]]'
 place_of_birth: '[[_Standards/WikiData/WD~Belgrade,3711]]'
 native_language: '[[_Standards/WikiData/WD~Serbian,9299]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ranking:
-  - 1
-  - 155
+- 1
+- 155
 mass: 77
 height: 188
 residence: '[[_Standards/WikiData/WD~Monte_Carlo,45240]]'
@@ -90,15 +137,174 @@ X_Twitter_username: DjokerNole
 Facebook_username: djokovic.official
 Libris_URI: j3pjm6w3gxq7wqn0
 name_in_native_language:
-  - Новак Ђоковић
-  - Novak Đoković
+- Новак Ђоковић
+- Novak Đoković
 nickname:
-  - Džoker
-  - Nole
+- Džoker
+- Nole
 prize_money: 190526213
 singles_record: 1159–233
+dv_has_:
+  name_:
+    ace: Novak Đoković
+    af: Novak Đoković
+    am: ኖቫክ ጆኮቪች
+    an: Novak Djokovic
+    ang: Novak Đoković
+    ar: نوفاك دجوكوفيتش
+    arz: نوڤاك ديوكوفيتش
+    as: নোভাক জʼকোভিচ
+    ast: Novak Đoković
+    ay: Novak Đoković
+    az: Novak Cokoviç
+    bar: Novak Đoković
+    bcl: Novak Đoković
+    be: Новак Джокавіч
+    be-tarask: Новак Джокавіч
+    bg: Новак Джокович
+    bn: নোভাক জোকোভিচ
+    br: Novak Đoković
+    bs: Novak Đoković
+    bxr: Новак Джокович
+    ca: Novak Đoković
+    ceb: Novak Djokovic
+    ckb: نۆڤاک دۆکۆڤیچ
+    cs: Novak Djoković
+    cv: Новак Джокович
+    cy: Novak Djokovic
+    da: Novak Djokovic
+    de: Novak Đoković
+    de-ch: Novak Đoković
+    diq: Novak Djokovic
+    dsb: Novak Djoković
+    el: Νόβακ Τζόκοβιτς
+    eml: Novak Đoković
+    en: Novak Djokovic
+    en-ca: Novak Djokovic
+    en-gb: Novak Djokovic
+    eo: Novak Đoković
+    es: Novak Djokovic
+    et: Novak Đoković
+    eu: Novak Djoković
+    ext: Novak Đoković
+    fa: نواک جوکوویچ
+    fi: Novak Đoković
+    fit: Novak Đoković
+    fo: Novak Djokovic
+    fr: Novak Djoković
+    fy: Novak Đoković
+    ga: Novak Đoković
+    gl: Novak Đoković
+    gsw: Novak Đoković
+    gu: નોવાક ડીજોકોવિક
+    gv: Novak Đoković
+    ha: Novak Djokovic
+    he: נובאק ג'וקוביץ'
+    hi: नोवाक जोकोविच
+    hif: Novak Đoković
+    hr: Novak Đoković
+    hsb: Novak Djoković
+    ht: Novak Djokovic
+    hu: Novak Đoković
+    hy: Նովակ Ջոկովիչ
+    id: Novak Đoković
+    ie: Novak Đoković
+    io: Novak Đoković
+    is: Novak Djokovic
+    it: Novak Đoković
+    ja: ノヴァク・ジョコヴィッチ
+    jv: Novak Đoković
+    ka: ნოვაკ ჯოკოვიჩი
+    kaa: Novak Đoković
+    kab: Novak Đoković
+    kk: Новак Джокович
+    kn: ನೊವಾಕ್ ಜೊಕೊವಿಕ್
+    ko: 노바크 조코비치
+    ks: نوواک جوکووِچ
+    ksh: Novak Đoković
+    ku: Novak Đoković
+    ky: Новак Джокович
+    la: Novak Đoković
+    lb: Novak Djokovic
+    lez: Новак Джокович
+    lo: ໂນວັກ ໂຢໂຄວິກ
+    lt: Novakas Džokovičius
+    lv: Novaks Džokovičs
+    mg: Novak Djokovic
+    min: Novak Đoković
+    mk: Новак Ѓоковиќ
+    ml: നോവാക് ജോക്കോവിച്ച്
+    mn: Новак Жокович
+    mr: नोव्हाक जोकोविच
+    ms: Novak Djokovic
+    my: နိုဗက်ဂျိုကိုဗစ်
+    nan: Novak Đoković
+    nb: Novak Đoković
+    nds: Novak Đoković
+    ne: नोभाक जोकोभिच
+    nl: Novak Djokovic
+    nn: Novak Đoković
+    oc: Novak Đoković
+    or: ନୋଭାକ୍ ଜାକୋଭିକ
+    os: Новак Джокович
+    pa: ਨੋਵਾਕ ਜੋਕੋਵਿਕ
+    pam: Novak Djokovic
+    pl: Novak Đoković
+    pms: Novak Djokovic
+    pnb: نوواک جوکووچ
+    pt: Novak Đoković
+    pt-br: Novak Đoković
+    qu: Novak Djokovic
+    rm: Novak Djokovic
+    rmf: Novak Đoković
+    ro: Novak Đoković
+    ru: Новак Джокович
+    sa: नोवाक् जोकोविक्
+    scn: Novak Djokovic
+    sco: Novak Đoković
+    se: Novak Đoković
+    sh: Novak Đoković
+    si: Novak Djokovic
+    sje: Novak Đoković
+    sju: Novak Đoković
+    sk: Novak Djoković
+    sl: Novak Đoković
+    sma: Novak Đoković
+    smj: Novak Đoković
+    smn: Novak Đoković
+    sms: Novak Đoković
+    sq: Novak Gjokoviq
+    sr: Новак Ђоковић
+    sr-ec: Новак Ђоковић
+    sr-el: Novak Đoković
+    sv: Novak Đoković
+    sw: Novak Djokovich
+    ta: நோவாக் ஜோக்கொவிச்
+    te: నోవక్ డొకోవిక్
+    th: นอวาก จอกอวิช
+    tk: Nowak Jokowiç
+    tl: Novak Djokovic
+    tr: Novak Djokovic
+    tt: Novak Cokoviç
+    tw: Novak Đoković
+    uk: Новак Джокович
+    ur: نوواک جوکووچ
+    uz: Novak Đoković
+    vi: Novak Djokovic
+    wa: Novak Đoković
+    wuu: 诺瓦克·德约科维奇
+    yo: Novak Djokovic
+    yue: 祖高域
+    zh: 諾瓦克·喬科維奇
+    zh-cn: 诺瓦克·德约科维奇
+    zh-hans: 诺瓦克·德约科维奇
+    zh-hant: 諾瓦克·喬科維奇
+    zh-hk: 諾華克·祖高域
+    zh-mo: 諾華克·祖高域
+    zh-my: 诺瓦克·乔科维奇
+    zh-sg: 诺瓦克·乔科维奇
+    zh-tw: 諾瓦克·喬科維奇
 ---
-
 # [[Djokovic,Novak]] 
 
 #is_/same_as :: [[WD~Novak_Djokovic,5812]] 

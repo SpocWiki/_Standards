@@ -1,65 +1,156 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]]"
-    - "[[/_Standards/Earth/Geography/Place/Forbidden_City|Forbidden_City]]"
-    - "[[/_public/Earth/Geography/Place/Forbidden_City.public|Forbidden_City.public]]"
-    - "[[/_internal/Earth/Geography/Place/Forbidden_City.internal|Forbidden_City.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Forbidden_City.protect|Forbidden_City.protect]]"
-    - "[[/_private/Earth/Geography/Place/Forbidden_City.private|Forbidden_City.private]]"
-    - "[[/_personal/Earth/Geography/Place/Forbidden_City.personal|Forbidden_City.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Forbidden_City.secret|Forbidden_City.secret]]"
+  - '[[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]]'
+  - '[[/_Standards/Earth/Geography/Place/Forbidden_City|Forbidden_City]]'
+  - '[[/_public/Earth/Geography/Place/Forbidden_City.public|Forbidden_City.public]]'
+  - '[[/_internal/Earth/Geography/Place/Forbidden_City.internal|Forbidden_City.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Forbidden_City.protect|Forbidden_City.protect]]'
+  - '[[/_private/Earth/Geography/Place/Forbidden_City.private|Forbidden_City.private]]'
+  - '[[/_personal/Earth/Geography/Place/Forbidden_City.personal|Forbidden_City.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Forbidden_City.secret|Forbidden_City.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]]"
-  - "[[/_Standards/Earth/Geography/Place/Forbidden_City|Forbidden_City]]"
-  - "[[/_public/Earth/Geography/Place/Forbidden_City.public|Forbidden_City.public]]"
-  - "[[/_internal/Earth/Geography/Place/Forbidden_City.internal|Forbidden_City.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Forbidden_City.protect|Forbidden_City.protect]]"
-  - "[[/_private/Earth/Geography/Place/Forbidden_City.private|Forbidden_City.private]]"
-  - "[[/_personal/Earth/Geography/Place/Forbidden_City.personal|Forbidden_City.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Forbidden_City.secret|Forbidden_City.secret]]"
-
-has_time_started: 1420-01-01 
-location: [ 39.915833333, 116.390833333 ] 
+- '[[../../../WikiData/WD~Forbidden_City,80290|WD~Forbidden_City,80290]]'
+- '[[/_Standards/Earth/Geography/Place/Forbidden_City|Forbidden_City]]'
+- '[[/_public/Earth/Geography/Place/Forbidden_City.public|Forbidden_City.public]]'
+- '[[/_internal/Earth/Geography/Place/Forbidden_City.internal|Forbidden_City.internal]]'
+- '[[/_protect/Earth/Geography/Place/Forbidden_City.protect|Forbidden_City.protect]]'
+- '[[/_private/Earth/Geography/Place/Forbidden_City.private|Forbidden_City.private]]'
+- '[[/_personal/Earth/Geography/Place/Forbidden_City.personal|Forbidden_City.personal]]'
+- '[[/_secret/Earth/Geography/Place/Forbidden_City.secret|Forbidden_City.secret]]'
+has_time_started: 1420-01-01
+location:
+- 39.915833333
+- 116.390833333
 aliases:
-  - Forbidden City
-  - Forbidden_City
+- Aizliegtā pilsēta
+- An Chathair Thoirmiscthe
+- Bajarê Qedexe
+- Belt Projbita
+- Chí-kìm-siâⁿ
+- Cidade Prohibida
+- Cidade Proibida
+- Città Proibita
+- Cité interdite
+- Ciudad Prohibida
+- Ciudá Prohibida
+- Ciutat Prohibida
+- Ciutat Vedada
+- Den Forbudte By
+- Forbidden Ceety
+- Forbidden City
+- Forbidden_City
+- Forboðna borgin
+- Förbjudna staden
+- Gugungh
+- Haramtaccen Birni
+- Hiri Debekatua
+- Iglirikay nga dakonbungto
+- Imperator saroyi
+- Keelatud linn
+- Keoded difennet
+- Kielletty kaupunki
+- Kota Kalarang
+- Kota Larangan
+- Kota Terlarang
+- Malpermesita Urbo
+- Mji Haramu
+- Orașul Interzis
+- Prepovedano mesto
+- Qyteti i Ndaluar
+- Tiltott Város
+- Tɛtʋ Kikizitu
+- Tử Cấm Thành
+- Urbs Vetita
+- Uždraustasis miestas
+- Vabodane Stod
+- Verbode Stad
+- Verboden Stad
+- Verbotene Stadt
+- Ville enterdite
+- Y Ddinas Waharddedig
+- Yasak Şehir
+- Yasaq şəhər
+- Zabranjeni grad
+- Zakazane Miasto
+- Zakázané mesto
+- Zakázané město
+- Zità Pruibida
+- Απαγορευμένη Πόλη
+- Забаронены горад
+- Заборонене місто
+- Забрањени град
+- Забранен град
+- Забранетиот град
+- Запретный город
+- Тыйым салынған қала
+- Хориотой хот
+- Արգելված քաղաք
+- Արգիլուած Քաղաք
+- העיר האסורה
+- المدينة المحرمة
+- المدينه المحرمه
+- شهر ممنوعه
+- شہر ممنوع
+- شہر ممنوعہ
+- ممنوعه شهر
+- ممنوعه ښار
+- چەكلەنگەن شەھەر
+- یاساق شهر
+- निषिद्ध नगर
+- प्रतिबंधित शहर
+- फरबिडन नगर
+- फरबिडन सिटी
+- নিষিদ্ধ নগরী
+- ਫੋਰਬਿਡਨ ਸਿਟੀ
+- பேரரண் நகரம்
+- ఫర్బిడెన్ సిటీ
+- വിലക്കപ്പെട്ട നഗരം
+- พระราชวังต้องห้าม
+- တားမြစ်ထားသော မြို့တော်
+- აკრძალული ქალაქი
+- ვარებული ნოღა
+- ᡩᠠᠪᡴᡡᡵᡳ ᡩᠣᡵᡤᡳ ᡥᠣᡨᠣᠨ
+- 故宫
+- 故宮
+- 紫禁城
+- 자금성
 has_id_wikidata: Q80290
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Dongcheng_District,394681]]'
-  - '[[_Standards/WikiData/WD~Donghuamen_Subdistrict,855431]]'
+- '[[_Standards/WikiData/WD~Dongcheng_District,394681]]'
+- '[[_Standards/WikiData/WD~Donghuamen_Subdistrict,855431]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~building_complex,1497364]]'
-  - '[[_Standards/WikiData/WD~Chinese_AAAAA_rated_tourist_attraction,6838244]]'
-  - '[[_Standards/WikiData/WD~palace,16560]]'
-  - '[[_Standards/WikiData/WD~museum,33506]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~building_complex,1497364]]'
+- '[[_Standards/WikiData/WD~Chinese_AAAAA_rated_tourist_attraction,6838244]]'
+- '[[_Standards/WikiData/WD~palace,16560]]'
+- '[[_Standards/WikiData/WD~museum,33506]]'
 heritage_designation:
-  - '[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]'
-  - '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
+- '[[_Standards/WikiData/WD~Major_Historical_and_Cultural_Site_Protected_at_the_National_Level,1188574]]'
+- '[[_Standards/WikiData/WD~part_of_UNESCO_World_Heritage_Site,43113623]]'
 different_from: '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
 replaces: '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
-  - '[[_Standards/WikiData/WD~Imperial_Palaces_of_the_Ming_and_Qing_Dynasties_in_Beijing_and_Shenyang,4920250]]'
+- '[[_Standards/WikiData/WD~Imperial_City,2558828]]'
+- '[[_Standards/WikiData/WD~Imperial_Palaces_of_the_Ming_and_Qing_Dynasties_in_Beijing_and_Shenyang,4920250]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Dong_liu_gong,10343653]]'
-  - '[[_Standards/WikiData/WD~Xi_liu_gong,10517571]]'
+- '[[_Standards/WikiData/WD~Dong_liu_gong,10343653]]'
+- '[[_Standards/WikiData/WD~Xi_liu_gong,10517571]]'
 architect: '[[_Standards/WikiData/WD~Kuai_Xiang,10513613]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hall%20of%20Supreme%20Harmony%20%2820241127120000%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD%20%2820315852831%29-%20cropped.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hall%20of%20Supreme%20Harmony%20%2820241127120000%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD%20%2820315852831%29-%20cropped.jpg
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q120402977,120402977]]'
 category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q131380148,131380148]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
 country: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 area: 72
 visitors_per_year:
-  - 16700000
-  - 19300000
-  - 15080000
-  - 16020000
-  - 17540000
+- 16700000
+- 19300000
+- 15080000
+- 16020000
+- 17540000
 catalog_code: 100
 OmegaWiki_Defined_Meaning: 810650
 inception: 1420-01-01T00:00:00Z
@@ -78,14 +169,121 @@ Commons_category: Forbidden City
 Baidu_Tieba_name: 故宫
 Commons_gallery: 紫禁城
 official_website:
-  - https://www.dpm.org.cn
-  - https://intl.dpm.org.cn
-  - https://intl.dpm.org.cn/?l=es
-  - https://intl.dpm.org.cn/?l=ru
-  - https://intl.dpm.org.cn/?l=jp
-  - https://intl.dpm.org.cn/?l=fr
+- https://www.dpm.org.cn
+- https://intl.dpm.org.cn
+- https://intl.dpm.org.cn/?l=es
+- https://intl.dpm.org.cn/?l=ru
+- https://intl.dpm.org.cn/?l=jp
+- https://intl.dpm.org.cn/?l=fr
+dv_has_:
+  name_:
+    af: Verbode Stad
+    ar: المدينة المحرمة
+    arz: المدينه المحرمه
+    ast: Ciudá Prohibida
+    az: Yasaq şəhər
+    azb: یاساق شهر
+    ban: Kota Kalarang
+    bar: Vabodane Stod
+    be: Забаронены горад
+    be-tarask: Забаронены горад
+    bg: Забранен град
+    bn: নিষিদ্ধ নগরী
+    br: Keoded difennet
+    bs: Zabranjeni grad
+    ca: Ciutat Prohibida
+    cs: Zakázané město
+    cy: Y Ddinas Waharddedig
+    da: Den Forbudte By
+    de: Verbotene Stadt
+    el: Απαγορευμένη Πόλη
+    en: Forbidden City
+    eo: Malpermesita Urbo
+    es: Ciudad Prohibida
+    et: Keelatud linn
+    eu: Hiri Debekatua
+    fa: شهر ممنوعه
+    fi: Kielletty kaupunki
+    fr: Cité interdite
+    ga: An Chathair Thoirmiscthe
+    gan: 紫禁城
+    gl: Cidade Prohibida
+    ha: Haramtaccen Birni
+    he: העיר האסורה
+    hi: निषिद्ध नगर
+    hr: Zabranjeni grad
+    hu: Tiltott Város
+    hy: Արգելված քաղաք
+    hyw: Արգիլուած Քաղաք
+    id: Kota Terlarang
+    is: Forboðna borgin
+    it: Città Proibita
+    ja: 紫禁城
+    ka: აკრძალული ქალაქი
+    kbp: Tɛtʋ Kikizitu
+    kk: Тыйым салынған қала
+    ko: 자금성
+    ku: Bajarê Qedexe
+    la: Urbs Vetita
+    lld: Zità Pruibida
+    lt: Uždraustasis miestas
+    lv: Aizliegtā pilsēta
+    mai: फरबिडन सिटी
+    mk: Забранетиот град
+    ml: വിലക്കപ്പെട്ട നഗരം
+    mn: Хориотой хот
+    mnc: ᡩᠠᠪᡴᡡᡵᡳ ᡩᠣᡵᡤᡳ ᡥᠣᡨᠣᠨ
+    mr: प्रतिबंधित शहर
+    ms: Kota Larangan
+    mt: Belt Projbita
+    my: တားမြစ်ထားသော မြို့တော်
+    mzn: ممنوعه شهر
+    nan: Chí-kìm-siâⁿ
+    nb: Den forbudte by
+    new: फरबिडन नगर
+    nl: Verboden Stad
+    nrm: Ville enterdite
+    oc: Ciutat Vedada
+    pa: ਫੋਰਬਿਡਨ ਸਿਟੀ
+    pl: Zakazane Miasto
+    pnb: شہر ممنوعہ
+    ps: ممنوعه ښار
+    pt: Cidade Proibida
+    ro: Orașul Interzis
+    ru: Запретный город
+    sco: Forbidden Ceety
+    sh: Zabranjeni grad
+    sk: Zakázané mesto
+    sl: Prepovedano mesto
+    sq: Qyteti i Ndaluar
+    sr: Забрањени град
+    sv: Förbjudna staden
+    sw: Mji Haramu
+    ta: பேரரண் நகரம்
+    te: ఫర్బిడెన్ సిటీ
+    th: พระราชวังต้องห้าม
+    tl: Forbidden City
+    tr: Yasak Şehir
+    ug: چەكلەنگەن شەھەر
+    uk: Заборонене місто
+    ur: شہر ممنوع
+    uz: Imperator saroyi
+    vi: Tử Cấm Thành
+    war: Iglirikay nga dakonbungto
+    wuu: 故宫
+    xmf: ვარებული ნოღა
+    yue: 紫禁城
+    za: Gugungh
+    zh: 故宫
+    zh-cn: 故宫
+    zh-hans: 故宫
+    zh-hant: 故宮
+    zh-hk: 故宮
+    zh-mo: 故宮
+    zh-my: 故宫
+    zh-sg: 故宫
+    zh-tw: 故宮
 ---
-
 # [[Forbidden_City]] 
 
 ![[../../../assets/Forbidden_City.png]] 

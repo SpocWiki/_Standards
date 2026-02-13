@@ -1,18 +1,84 @@
 ---
 aliases:
-  - Latin dance
-  - Latin_Dance
-  - Latin Dance
+- baile latino
+- ball llatí
+- danse latine
+- Dansuri latino
+- danza latino-americana
+- dança latina
+- Ladina-Ameerika tantsud
+- Lateinamerikanische Tänze
+- Latijns-Amerikaanse dans
+- Latin dance
+- Latin dansları
+- latinalaistanssi
+- latinamerikaj dancoj
+- latinamerikansk dans
+- Latino-američki plesovi
+- latinskoamerické tance
+- Latinskoamerický tanec
+- Latinskoamerički plesovi
+- latinskoameriški plesi
+- Latin_Dance
+- Tari Latin
+- Tańce latynoamerykańskie
+- Điệu nhảy Latinh
+- Λάτιν
+- латиноамериканские танцы
+- латиноамериканські танці
+- Լատինաամերիկյան պարեր
+- ריקודים לטיניים
+- ලතින් ඇමරිකානු නර්තනයන්
+- ラテンダンス
+- 拉丁舞
 has_id_wikidata: Q1457972
-topic_has_template: "[[_Standards/WikiData/WD~Q10603228,10603228]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-subclass_of: "[[_Standards/WikiData/WD~dance,11639]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q10603228,10603228]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+subclass_of: '[[_Standards/WikiData/WD~dance,11639]]'
 Commons_category: Latin dance
 Dewey_Decimal_Classification:
-  - "793.33"
-  - "784.1888"
+- 793.33
+- 784.1888
+dv_has_:
+  name_:
+    ca: ball llatí
+    cs: latinskoamerické tance
+    de: Lateinamerikanische Tänze
+    el: Λάτιν
+    en: Latin dance
+    eo: latinamerikaj dancoj
+    es: baile latino
+    et: Ladina-Ameerika tantsud
+    fi: latinalaistanssi
+    fr: danse latine
+    he: ריקודים לטיניים
+    hr: Latinskoamerički plesovi
+    hy: Լատինաամերիկյան պարեր
+    id: Tari Latin
+    it: danza latino-americana
+    ja: ラテンダンス
+    mad: Tari Latin
+    nl: Latijns-Amerikaanse dans
+    pl: Tańce latynoamerykańskie
+    pt: dança latina
+    ro: Dansuri latino
+    ru: латиноамериканские танцы
+    sh: Latinskoamerički plesovi
+    si: ලතින් ඇමරිකානු නර්තනයන්
+    sk: Latinskoamerický tanec
+    sl: latinskoameriški plesi
+    sr: Latino-američki plesovi
+    sv: latinamerikansk dans
+    tr: Latin dansları
+    uk: латиноамериканські танці
+    vi: Điệu nhảy Latinh
+    wuu: 拉丁舞
+    yue: 拉丁舞
+    zh: 拉丁舞
+    zh-hans: 拉丁舞
+    zh-hant: 拉丁舞
+    zh-hk: 拉丁舞
 ---
-
 # [[Latin_Dance]] 
 
 #is_/same_as :: [[WD~Latin_dance,1457972]]

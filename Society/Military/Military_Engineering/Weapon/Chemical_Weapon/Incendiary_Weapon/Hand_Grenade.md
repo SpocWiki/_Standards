@@ -1,42 +1,205 @@
 ---
 aliases:
-  - Handgranate
-  - ''
-  - Hand_Grenade
-  - Hand Grenade
+- Bom tangan
+- bomba a mano
+- Dadilhóni aheltłʼidígíí
+- El bombası
+- esku-granada
+- granada de man
+- Granada de mano
+- granada de mà
+- granada de mão
+- Granada nga kinamot
+- Granat
+- granat ręczny
+- Granat tangan
+- Granata
+- Granata a man
+- grenade à main
+- Grenado
+- grenadă
+- Grenat
+- Greunadenn (arm)
+- gránáid
+- Hand Grenade
+- Handgranaat
+- handgranat
+- Handgranate
+- Hand_Grenade
+- håndgranat
+- Käsigranaat
+- käsikranaatti
+- kézigránát
+- lựu đạn
+- mangrenado
+- Narîncok
+- rokas granāta
+- ročna bomba
+- Ručna bomba
+- Ručne bombe
+- ruční granát
+- Ručný granát
+- Æppelcyrnel
+- Əl bombası
+- χειροβομβίδα
+- Гранаата
+- Гранат
+- Граната
+- Норинҷакҳо
+- ручна бомба
+- ручна граната
+- ручная граната
+- Նռնակ
+- האנט גראנאט
+- רימון יד
+- قنبلة يدوية
+- نارنجک
+- گرانات
+- ہتھ گولا
+- हथगोला
+- গ্রেনেড
+- ਹੱਥਗੋਲਾ
+- చేతి బాంబు
+- ഗ്രനേഡ്
+- කුඩා අත්බෝම්බ
+- ระเบิดมือ
+- မၢၵ်ႇပွမ်း
+- လက်ပစ်ဗုံး
+- 手榴弹
+- 手榴弾
+- 手榴彈
+- 수류탄
 has_id_wikidata: Q173517
 model_item:
-  - '[[_Standards/WikiData/WD~Molotov_cocktail,167096]]'
-  - '[[_Standards/WikiData/WD~Mills_bomb,1636085]]'
+- '[[_Standards/WikiData/WD~Molotov_cocktail,167096]]'
+- '[[_Standards/WikiData/WD~Mills_bomb,1636085]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~shell,318028]]'
-  - '[[_Standards/WikiData/WD~throwing_weapon,1566976]]'
-  - '[[_Standards/WikiData/WD~grenade,12314199]]'
-  - '[[_Standards/WikiData/WD~Q126647655,126647655]]'
+- '[[_Standards/WikiData/WD~shell,318028]]'
+- '[[_Standards/WikiData/WD~throwing_weapon,1566976]]'
+- '[[_Standards/WikiData/WD~grenade,12314199]]'
+- '[[_Standards/WikiData/WD~Q126647655,126647655]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 used_by: '[[_Standards/WikiData/WD~soldier,4991371]]'
 different_from: '[[_Standards/WikiData/WD~Grenado,12348350]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_hand_grenade,25791729]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 Product_and_Service_Code: 1330
 Nomenclature_for_Museum_Cataloging:
-  - 7763
-  - 7766
+- 7763
+- 7766
 OmegaWiki_Defined_Meaning: 386568
 U_S_National_Archives_Identifier: 10665552
 Dewey_Decimal_Classification: 623.45114
 Commons_category: Hand grenades
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Victory%20Show%20Cosby%20UK%2006-09-2015%20WW2%20re-enactment%20Trade%20stalls%20Militaria%20personal%20gear%20replicas%20reprod.originals%20zaphad1%20Flickr%20CCBY2.0%20Hand%20grenades%20etc%20IMG%203865.jpg
+dv_has_:
+  name_:
+    af: Handgranaat
+    ang: Æppelcyrnel
+    ar: قنبلة يدوية
+    ast: Granada de mano
+    az: Əl bombası
+    ba: Граната
+    be: ручная граната
+    be-tarask: ручная граната
+    bg: Граната
+    bn: গ্রেনেড
+    br: Greunadenn (arm)
+    bxr: Граната
+    ca: granada de mà
+    cs: ruční granát
+    da: håndgranat
+    de: Handgranate
+    el: χειροβομβίδα
+    en: hand grenade
+    en-us: hand grenade
+    eo: mangrenado
+    es: granada de mano
+    et: Käsigranaat
+    eu: esku-granada
+    fa: نارنجک
+    fi: käsikranaatti
+    fr: grenade à main
+    ga: gránáid
+    gl: granada de man
+    he: רימון יד
+    hi: हथगोला
+    hr: Ručne bombe
+    hu: kézigránát
+    hy: Նռնակ
+    id: Granat tangan
+    io: Grenado
+    it: bomba a mano
+    ja: 手榴弾
+    jv: Granat tangan
+    kk: Гранат
+    kk-arab: گرانات
+    kk-cn: گرانات
+    kk-cyrl: Гранат
+    kk-kz: Гранат
+    kk-latn: Granat
+    kk-tr: Granat
+    ko: 수류탄
+    ku: Narîncok
+    ky: Граната
+    la: Granata
+    lt: Granata
+    lv: rokas granāta
+    mk: Граната
+    ml: ഗ്രനേഡ്
+    ms: Bom tangan
+    my: လက်ပစ်ဗုံး
+    nb: håndgranat
+    nl: handgranaat
+    nv: Dadilhóni aheltłʼidígíí
+    pa: ਹੱਥਗੋਲਾ
+    pl: granat ręczny
+    pms: Granata a man
+    pnb: ہتھ گولا
+    pt: granada de mão
+    pt-br: granada de mão
+    ro: grenadă
+    ru: ручная граната
+    sah: Гранаата
+    sh: Ručna bomba
+    shn: မၢၵ်ႇပွမ်း
+    si: කුඩා අත්බෝම්බ
+    sk: Ručný granát
+    sl: ročna bomba
+    sq: Granata
+    sr: граната
+    sr-ec: ручна бомба
+    sr-el: granata
+    sv: handgranat
+    te: చేతి బాంబు
+    tg: Норинҷакҳо
+    th: ระเบิดมือ
+    tk: Grenat
+    tr: El bombası
+    tt: Граната
+    uk: ручна граната
+    uz: Granata
+    vi: lựu đạn
+    war: Granada nga kinamot
+    wuu: 手榴弹
+    yi: האנט גראנאט
+    yue: 手榴彈
+    zh: 手榴弹
+    zh-cn: 手榴弹
+    zh-hans: 手榴弹
+    zh-hant: 手榴彈
+    zh-hk: 手榴彈
+    zh-sg: 手榴弹
+    zh-tw: 手榴彈
 ---
-
 # [[Hand_Grenade]] 
 
 #is_/same_as :: [[WD~Hand_grenade,173517]] 

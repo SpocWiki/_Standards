@@ -1,23 +1,143 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin|Vasopressin]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.public|Vasopressin.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.internal|Vasopressin.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.protect|Vasopressin.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private|Vasopressin.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal|Vasopressin.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret|Vasopressin.secret]]"
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin|Vasopressin]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.public|Vasopressin.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.internal|Vasopressin.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.protect|Vasopressin.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private|Vasopressin.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal|Vasopressin.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret|Vasopressin.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin|Vasopressin]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.public|Vasopressin.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.internal|Vasopressin.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.protect|Vasopressin.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private|Vasopressin.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal|Vasopressin.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret|Vasopressin.secret]]"
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin|Vasopressin]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.public|Vasopressin.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.internal|Vasopressin.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.protect|Vasopressin.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private|Vasopressin.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal|Vasopressin.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret|Vasopressin.secret]]'
+has_id_wikidata: Q21124841
+dv_has_:
+  name_:
+    ar: فازوبرسين
+    az: Vazopressin
+    azb: وازوپرسین
+    be: Вазапрэсін
+    bg: Антидиуретичен хормон
+    bn: ভ্যাসোপ্রেসিন
+    bs: Vazopresin
+    ca: hormona antidiürètica
+    ckb: دژە میزتن
+    cs: Antidiuretický hormon
+    cy: AVP
+    da: ADH
+    de: Antidiuretisches Hormon
+    dv: ވޭޒޯޕްރެސިން
+    el: Αντιδιουρητική ορμόνη
+    en: arginine vasopressin
+    eo: Vazopresino
+    es: hormona antidiurética
+    eu: Hormona antidiuretiko
+    fa: وازوپرسین
+    fi: Antidiureettinen hormoni
+    fr: vasopressine
+    ga: hormón frithfhualach
+    gl: Vasopresina
+    he: וזופרסין
+    hr: antidiuretski hormon
+    hu: antidiuretikus hormon
+    hy: Հակամիզամուղային հորմոն
+    id: Vasopresin
+    it: vasopressina
+    ja: バソプレッシン
+    ka: ვაზოპრესინი
+    kk: Антидиурездік гормон
+    ko: 바소프레신
+    ku: Hormona dijemîztin
+    ku-latn: hormona dijemîztin
+    la: Vasopressinum
+    lt: Vazopresinas
+    lv: Vazopresīns
+    mk: Вазопресин
+    ms: Vasopresin
+    nb: Antidiuretisk hormon
+    nl: antidiuretisch hormoon
+    nn: argininvasopressin
+    or: ଭାସୋପ୍ରେସିନ
+    pl: Hormon antydiuretyczny
+    pt: Vasopressina
+    ro: Vasopresină
+    ru: аргинин-вазопрессин
+    sh: Antidiuretski hormon
+    si: වේසොප්රෙසින්
+    sk: Adiuretín
+    sl: vazopresin
+    sq: Vazopresina
+    sr: Antidiuretski hormon
+    sv: Antidiuretiskt hormon
+    ta: வாசோபிரெசின்
+    tg: Вазопрессин
+    tr: Vazopressin
+    uk: аргінін-вазопресин
+    uz: Vazopressin
+    vi: Vasopressin
+    zh: 抗利尿激素
+aliases:
+- ADH
+- Adiuretín
+- Antidiureettinen hormoni
+- Antidiuretický hormon
+- antidiuretikus hormon
+- antidiuretisch hormoon
+- Antidiuretisches Hormon
+- Antidiuretisk hormon
+- Antidiuretiskt hormon
+- antidiuretski hormon
+- arginine vasopressin
+- argininvasopressin
+- AVP
+- Hormon antydiuretyczny
+- Hormona antidiuretiko
+- hormona antidiurética
+- hormona antidiürètica
+- Hormona dijemîztin
+- hormón frithfhualach
+- Vasopresin
+- Vasopresina
+- Vasopresină
+- Vasopressin
+- vasopressina
+- vasopressine
+- Vasopressinum
+- Vazopresin
+- Vazopresina
+- Vazopresinas
+- Vazopresino
+- Vazopressin
+- Vazopresīns
+- Αντιδιουρητική ορμόνη
+- Антидиурездік гормон
+- Антидиуретичен хормон
+- аргінін-вазопресин
+- аргинин-вазопрессин
+- Вазапрэсін
+- Вазопресин
+- Вазопрессин
+- Հակամիզամուղային հորմոն
+- וזופרסין
+- دژە میزتن
+- فازوبرسين
+- وازوپرسین
+- ވޭޒޯޕްރެސިން
+- ভ্যাসোপ্রেসিন
+- ଭାସୋପ୍ରେସିନ
+- வாசோபிரெசின்
+- වේසොප්රෙසින්
+- ვაზოპრესინი
+- バソプレッシン
+- 抗利尿激素
+- 바소프레신
 ---
-
 > Human **Vasopressin**, also called antidiuretic hormone (ADH),   arginine vasopressin (AVP) or argipressin, 
 > is a hormone synthesized from the AVP gene as a peptide prohormone in neurons in the hypothalamus, 
 > and is converted to AVP. 

@@ -1,12 +1,35 @@
 ---
 aliases:
-  - telemetacarpal deer
-  - Capreolinae
-  - Καπρεολώδη
-  - Kapreolenoj
-  - Peurat
-  - varsinaiset hirvet
-  - Capreolíneos
+- Andre hjortedyr
+- Capreolinae
+- capreolins
+- Capreolíneos
+- Cüyürlər
+- Kapreolenoj
+- kauriit
+- Odocoileinae
+- Peurat
+- Sarny
+- schijnherten
+- Stirnu apakšdzimta
+- telemetacarpal deer
+- Trughirsche
+- varsinaiset hirvet
+- őzformák
+- Καπρεολώδη
+- Елени от Новия свят
+- срни
+- Эликтер
+- איילי העולם החדש
+- أيائل العالم الجديد
+- ايائل العالم الجديد
+- گوزنیان جهان جدید
+- कैप्रिओलिनाए
+- புதிய உலக மான்
+- ノロ亜科
+- 空齒鹿亞科
+- 空齿鹿亚科
+- 노루아과
 has_id_wikidata: Q118722
 taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -16,13 +39,71 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mule%20deer%20in%20Bry
 Commons_category: Capreolinae
 taxon_name: Capreolinae
 taxon_common_name:
-  - Καπρεολώδη
-  - Kapreolenoj
-  - Peurat
-  - varsinaiset hirvet
-  - Capreolíneos
+- Καπρεολώδη
+- Kapreolenoj
+- Peurat
+- varsinaiset hirvet
+- Capreolíneos
+dv_has_:
+  name_:
+    af: Capreolinae
+    an: Capreolinae
+    ar: أيائل العالم الجديد
+    arz: ايائل العالم الجديد
+    ast: Capreolinae
+    az: Cüyürlər
+    bg: Елени от Новия свят
+    ca: capreolins
+    ceb: Capreolinae
+    cs: Capreolinae
+    de: Trughirsche
+    el: Capreolinae
+    en: Capreolinae
+    eo: Capreolinae
+    es: Capreolinae
+    eu: Capreolinae
+    ext: Capreolinae
+    fa: گوزنیان جهان جدید
+    fi: kauriit
+    fr: Capreolinae
+    ga: Capreolinae
+    gl: Capreolinae
+    he: איילי העולם החדש
+    hi: कैप्रिओलिनाए
+    hu: őzformák
+    ia: Capreolinae
+    id: Capreolinae
+    ie: Capreolinae
+    io: Capreolinae
+    it: Capreolinae
+    ja: ノロ亜科
+    ko: 노루아과
+    ky: Эликтер
+    la: Capreolinae
+    lv: Stirnu apakšdzimta
+    mk: срни
+    ms: Capreolinae
+    mul: Capreolinae
+    nb: Andre hjortedyr
+    nl: schijnherten
+    oc: Odocoileinae
+    pl: Sarny
+    pt: Capreolinae
+    pt-br: capreolinae
+    ro: Capreolinae
+    ru: Capreolinae
+    sl: Capreolinae
+    sq: Capreolinae
+    ta: புதிய உலக மான்
+    uk: Capreolinae
+    vi: Capreolinae
+    vo: Capreolinae
+    war: Capreolinae
+    zh: 空齿鹿亚科
+    zh-cn: 空齿鹿亚科
+    zh-hans: 空齿鹿亚科
+    zh-tw: 空齒鹿亞科
 ---
-
 # [[Capreolinae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Capreolinae,118722]] 

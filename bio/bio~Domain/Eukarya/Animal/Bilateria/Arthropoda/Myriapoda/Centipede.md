@@ -1,29 +1,105 @@
 ---
 aliases:
-  - Chilopoda
-  - Centipede
-  - Губаногія
-  - বিছে
-  - Quilòpodes
-  - stonožky
-  - Skolopender
-  - Hundertfüßer
-  - Σαρανταποδαρούσα
-  - Centipedes
-  - Centpieduloj
-  - Sadajalgsed
-  - لبپایان
-  - Juoksujalkaiset
-  - ムカデ
-  - Klabang
-  - ტუჩფეხიანები
-  - 순각류
-  - skolopendere
+- alisalap
+- Aluhipan
+- Alupihan
+- Ambu'a
+- Annipye
+- Babakaur
+- Centipede
+- Centipedes
+- Centpieduloj
+- Chilopoda
+- céadchosach
+- Dodaqayaqlılar
+- duizendpoten
+- Enkelfotingar
+- Farabadne
+- Giâ-kang
+- Halilipan
+- Hundertfüsser
+- Hundertfüßer
+- Hunertbianer
+- Háestôheóhtáhe
+- Juoksujalkaiset
+- Jááłánii
+- Kasipa
+- Klabang
+- Laipan
+- Lelipan
+- lemayar
+- lipan
+- Lūpakojai
+- Makonon kafa
+- Margfætlur
+- Molokau
+- Njëqindkëmbëshi
+- Pachakchaki
+- Pareczniki
+- Petlazolcoatl
+- Quilòpode
+- Quilòpodes
+- Quilópode
+- Quilópodos
+- rết
+- Sadajalgsed
+- Simtkāji
+- Sipndangj
+- Skolopender
+- skolopenderar
+- skolopendere
+- stonožky
+- Stonôžky
+- Strige
+- százlábúak
+- Tandu
+- Tangkalamai
+- tiɣirdemt yizgaren
+- Trambo
+- Çıyanlar
+- È̤ng-ĕ̤ng
+- Ńg-kûng-chhùng
+- Σαρανταποδαρούσα
+- аьнхъа
+- Губаногія
+- губоногі
+- губоногие
+- лабпойҳо
+- стоногалка
+- стоножки
+- Эринбуттар
+- נדלים
+- دوداقایاقلیلار
+- صدپایان
+- لبپایان
+- مئويات الأقدام
+- مئويات الاقدام
+- کن ہپِنؠ
+- ھەزارپێ
+- खजुरो
+- गोजर
+- न्ह्य्बि
+- বিছে
+- ਕੰਨਖਜੂਰਾ
+- பூரான்
+- శతపది
+- ಜರಿ
+- പഴുതാര
+- ตะขาบ
+- རྟ་བླ།
+- ကင်းခြေများ
+- မႅင်းၸလၢင်း
+- ტუჩფეხიანები
+- ᡤᠠᠰᡥᠠᠨ ᡠᠮᡳᠶᠠᡥᠠ
+- ムカデ
+- 百足
+- 蜈蚣
+- 순각류
 has_id_wikidata: Q43447
 title: Chilopoda
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q8919754,8919754]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Myriapoda,25823]]'
@@ -39,28 +115,143 @@ P8189: 987007284971805171
 MeSH_tree_code: B01.050.500.131.266
 Wolfram_Language_entity_code: Entity["Concept", "Chilopoda::gvyd6"]
 taxon_common_name:
-  - Губаногія
-  - বিছে
-  - Quilòpodes
-  - stonožky
-  - Skolopender
-  - Hundertfüßer
-  - Σαρανταποδαρούσα
-  - Centipedes
-  - Centpieduloj
-  - Sadajalgsed
-  - Chilopoda
-  - لبپایان
-  - Juoksujalkaiset
-  - ムカデ
-  - Klabang
-  - ტუჩფეხიანები
-  - 순각류
-  - skolopendere
+- Губаногія
+- বিছে
+- Quilòpodes
+- stonožky
+- Skolopender
+- Hundertfüßer
+- Σαρανταποδαρούσα
+- Centipedes
+- Centpieduloj
+- Sadajalgsed
+- Chilopoda
+- لبپایان
+- Juoksujalkaiset
+- ムカデ
+- Klabang
+- ტუჩფეხიანები
+- 순각류
+- skolopendere
 start_time: -418000000-06
 NBN_System_Key: NBNSYS0000159664
+dv_has_:
+  name_:
+    ar: مئويات الأقدام
+    arz: مئويات الاقدام
+    ast: Chilopoda
+    az: Dodaqayaqlılar
+    azb: دوداقایاقلیلار
+    ban: Lelipan
+    be: губаногія
+    be-tarask: губаногія
+    bg: стоножки
+    bjn: Halilipan
+    bn: বিছে
+    bo: རྟ་བླ།
+    ca: Quilòpode
+    cdo: È̤ng-ĕ̤ng
+    ceb: Aluhipan
+    chy: Háestôheóhtáhe
+    ckb: ھەزارپێ
+    cs: stonožky
+    da: Skolopender
+    de: Hundertfüßer
+    de-ch: Hundertfüsser
+    dtp: Tangkalamai
+    el: Σαρανταποδαρούσα
+    en: centipede
+    eo: Centpieduloj
+    es: Chilopoda
+    et: Sadajalgsed
+    eu: Chilopoda
+    fa: صدپایان
+    fi: juoksujalkaiset
+    fr: Chilopoda
+    frr: Hunertbianer
+    ga: céadchosach
+    gl: Quilópodos
+    gn: Ambu'a
+    guc: Kasipa
+    ha: Makonon kafa
+    hak: Ńg-kûng-chhùng
+    he: נדלים
+    hi: गोजर
+    hr: Strige
+    ht: Annipye
+    hu: százlábúak
+    ia: Chilopoda
+    iba: lemayar
+    id: Lipan
+    io: Chilopoda
+    is: Margfætlur
+    it: Chilopoda
+    ja: ムカデ
+    jv: Klabang
+    ka: ტუჩფეხიანები
+    kab: tiɣirdemt yizgaren
+    kn: ಜರಿ
+    ko: 순각류
+    ks: کن ہپِنؠ
+    kw: Chilopoda
+    ky: Эринбуттар
+    la: Chilopoda
+    lbe: аьнхъа
+    lt: Lūpakojai
+    lv: Simtkāji
+    lzh: 蜈蚣
+    mg: Trambo
+    mk: стоногалка
+    ml: പഴുതാര
+    mnc: ᡤᠠᠰᡥᠠᠨ ᡠᠮᡳᠶᠠᡥᠠ
+    ms: lipan
+    mul: Chilopoda
+    my: ကင်းခြေများ
+    nah: Petlazolcoatl
+    nan: Giâ-kang
+    nb: skolopendere
+    ne: खजुरो
+    new: न्ह्य्बि
+    nl: duizendpoten
+    nn: skolopenderar
+    nv: Jááłánii
+    oc: Chilopoda
+    pa: ਕੰਨਖਜੂਰਾ
+    pam: Laipan
+    pl: Pareczniki
+    pt: Quilópode
+    qu: Pachakchaki
+    ro: Chilopoda
+    ru: губоногие
+    sco: centipede
+    sh: Strige
+    shn: မႅင်းၸလၢင်း
+    sk: Stonôžky
+    sl: Strige
+    so: Farabadne
+    sq: Njëqindkëmbëshi
+    sr: Chilopoda
+    su: Babakaur
+    sv: Enkelfotingar
+    sw: Tandu
+    szy: alisalap
+    ta: பூரான்
+    te: శతపది
+    tg: лабпойҳо
+    th: ตะขาบ
+    tl: Alupihan
+    to: Molokau
+    tr: Çıyanlar
+    uk: губоногі
+    vi: rết
+    war: Chilopoda
+    wuu: 蜈蚣
+    yue: 百足
+    za: Sipndangj
+    zh: 蜈蚣
+    zh-hans: 蜈蚣
+    zh-hant: 蜈蚣
 ---
-
 # [[Centipede]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Centipede,43447|WD~Centipede,43447]] 

@@ -1,63 +1,100 @@
 ---
 aliases:
-  - Richard Stallman
-  - Richard_Stallman
-  - Richard Matthew Stallman
-  - Stallman
-  - Stallman,Richard
+- Ricardus Stallman
+- Richard M. Stallman
+- Richard Matthew Stallman
+- Richard Stallman
+- Richard_Stallman
+- ritcard. stalman
+- Riçard Stolman
+- Ričards Stalmans
+- Stallman
+- Stallman,Richard
+- Ρίτσαρντ Στόλλμαν
+- Річард Столмен
+- Ричард Сталман
+- Ричард Столлман
+- Ричард Столман
+- Рычард Мэцью Столман
+- Рычард Столман
+- Столлман, Ричард Мэттью
+- Ռիչարդ Սթոլման
+- ריצ'רד סטולמן
+- ريتشارد ستولمن
+- رچرڈ سٹالمان
+- ریچارد استالمن
+- ڕیچارد ستۆڵمەن
+- रिचर्ड स्टलम्यान
+- रिचर्ड स्टॉलमन
+- रिचार्ड स्टालमन
+- रिचार्ड स्टालम्यान
+- রিচার্ড স্টলম্যান
+- ਰਿਚਰਡ ਸਟਾਲਮਨ
+- ரிச்சர்ட் ஸ்டால்மன்
+- రిచర్డ్ స్టాల్మన్
+- ರಿಚರ್ಡ್ ಸ್ಟಾಲ್ಮನ್
+- റിച്ചാർഡ് മാത്യൂ സ്റ്റാൾമാൻ
+- ริชาร์ด สตอลล์แมน
+- რიჩარდ სტოლმანი
+- ᬭᬶᬙᬃᬤ᭄ᬲ᭄ᬢᬮ᭄ᬫᬦ᭄
+- リチャード・ストールマン
+- 理查·史托曼
+- 理查德·斯托曼
+- 理查斯托曼
+- 리처드 스톨먼
 has_id_wikidata: Q7439
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~programmer,5482740]]'
-  - '[[_Standards/WikiData/WD~blogger,8246794]]'
-  - '[[_Standards/WikiData/WD~activist,15253558]]'
-  - '[[_Standards/WikiData/WD~documentary_participant,106638245]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~programmer,5482740]]'
+- '[[_Standards/WikiData/WD~blogger,8246794]]'
+- '[[_Standards/WikiData/WD~activist,15253558]]'
+- '[[_Standards/WikiData/WD~documentary_participant,106638245]]'
 medical_condition: '[[_Standards/WikiData/WD~follicular_lymphoma,123251]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~GNU_Compiler_Collection,178940]]'
-  - '[[_Standards/WikiData/WD~Free_Software_Song,266295]]'
-  - '[[_Standards/WikiData/WD~GNU_Debugger,464113]]'
-  - '[[_Standards/WikiData/WD~GNU_Emacs,1252773]]'
-  - '[[_Standards/WikiData/WD~The_Right_to_Read,3179234]]'
-  - '[[_Standards/WikiData/WD~Jinnetic_Engineering,21030749]]'
-  - '[[_Standards/WikiData/WD~Made_for_You,21030752]]'
-  - '[[_Standards/WikiData/WD~GNU_General_Public_License,7603]]'
-  - '[[_Standards/WikiData/WD~GNU_Manifesto,11275]]'
-  - '[[_Standards/WikiData/WD~GNU,44571]]'
+- '[[_Standards/WikiData/WD~GNU_Compiler_Collection,178940]]'
+- '[[_Standards/WikiData/WD~Free_Software_Song,266295]]'
+- '[[_Standards/WikiData/WD~GNU_Debugger,464113]]'
+- '[[_Standards/WikiData/WD~GNU_Emacs,1252773]]'
+- '[[_Standards/WikiData/WD~The_Right_to_Read,3179234]]'
+- '[[_Standards/WikiData/WD~Jinnetic_Engineering,21030749]]'
+- '[[_Standards/WikiData/WD~Made_for_You,21030752]]'
+- '[[_Standards/WikiData/WD~GNU_General_Public_License,7603]]'
+- '[[_Standards/WikiData/WD~GNU_Manifesto,11275]]'
+- '[[_Standards/WikiData/WD~GNU,44571]]'
 does_not_use: '[[_Standards/WikiData/WD~proprietary_software,218616]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
-  - '[[_Standards/WikiData/WD~GNU_Project,7598]]'
-  - '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
+- '[[_Standards/WikiData/WD~GNU_Project,7598]]'
+- '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
 award_received:
-  - '[[_Standards/WikiData/WD~ACM_Software_System_Award,986509]]'
-  - '[[_Standards/WikiData/WD~MacArthur_Fellows_Program,1543268]]'
-  - '[[_Standards/WikiData/WD~Takeda_Awards,7677960]]'
-  - '[[_Standards/WikiData/WD~Yuri_Rubinsky_Memorial_Award,8061592]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_Vrije_Universiteit_Brussel,55139818]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Glasgow,55149541]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_National_University_of_Córdoba,85191170]]'
-  - '[[_Standards/WikiData/WD~EFF_Award,31323]]'
+- '[[_Standards/WikiData/WD~ACM_Software_System_Award,986509]]'
+- '[[_Standards/WikiData/WD~MacArthur_Fellows_Program,1543268]]'
+- '[[_Standards/WikiData/WD~Takeda_Awards,7677960]]'
+- '[[_Standards/WikiData/WD~Yuri_Rubinsky_Memorial_Award,8061592]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_Vrije_Universiteit_Brussel,55139818]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Glasgow,55149541]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_National_University_of_Córdoba,85191170]]'
+- '[[_Standards/WikiData/WD~EFF_Award,31323]]'
 website_account_on: '[[_Standards/WikiData/WD~GNU_Savannah,1007059]]'
 movement:
-  - '[[_Standards/WikiData/WD~free_software_movement,1076638]]'
-  - '[[_Standards/WikiData/WD~alter_globalization,2385364]]'
+- '[[_Standards/WikiData/WD~free_software_movement,1076638]]'
+- '[[_Standards/WikiData/WD~alter_globalization,2385364]]'
 given_name: '[[_Standards/WikiData/WD~Richard,1249148]]'
 position_held:
-  - '[[_Standards/WikiData/WD~president,1255921]]'
-  - '[[_Standards/WikiData/WD~Emacs_maintainer,72980512]]'
-  - '[[_Standards/WikiData/WD~Chief_GNUisance,82563188]]'
+- '[[_Standards/WikiData/WD~president,1255921]]'
+- '[[_Standards/WikiData/WD~Emacs_maintainer,72980512]]'
+- '[[_Standards/WikiData/WD~Chief_GNUisance,82563188]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Sciences,2628227]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Richard_Stallman_and_the_Free_Software_Revolution,3431232]]'
-  - "[[_Standards/WikiData/WD~Free_as_in_Freedom_Richard_Stallman's_Crusade_for_Free_Software,4890607]]"
-  - '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[_Standards/WikiData/WD~Richard_Stallman_and_the_Free_Software_Revolution,3431232]]'
+- "[[_Standards/WikiData/WD~Free_as_in_Freedom_Richard_Stallman's_Crusade_for_Free_Software,4890607]]"
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Harvard_School_of_Engineering_and_Applied_Sciences,5676553]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Harvard_School_of_Engineering_and_Applied_Sciences,5676553]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 eye_color: '[[_Standards/WikiData/WD~brown,17122705]]'
@@ -66,13 +103,13 @@ participant_in: '[[_Standards/WikiData/WD~Free_software,_free_society,114024639]
 interested_in: '[[_Standards/WikiData/WD~free_software,341]]'
 field_of_work: '[[_Standards/WikiData/WD~free_software,341]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Indonesian,9240]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Indonesian,9240]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
@@ -81,21 +118,21 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 residence: '[[_Standards/WikiData/WD~Boston,100]]'
 employer:
-  - '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Free_Software_Foundation,48413]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 social_media_followers:
-  - 2841
-  - 3138
-  - 3419
-  - 3952
+- 2841
+- 3138
+- 3419
+- 3952
 Commons_gallery: Richard Stallman
 Commons_category: Richard Stallman
 Commons_Creator_page: Richard Stallman
 short_name: RMS
 date_of_birth: 1953-03-16T00:00:00Z
 pseudonym:
-  - rms
-  - Saint IGNUcius
+- rms
+- Saint IGNUcius
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Stallman%20Bologna%202024%20abc1.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Richard%20Stallman%20Signature.png
 official_website: https://stallman.org/
@@ -107,8 +144,127 @@ Mastodon_address: rms@mastodon.xyz
 X_Twitter_username: rmspostcomments
 name_in_native_language: Richard Matthew Stallman
 birth_name: Richard Matthew Stallman
+dv_has_:
+  name_:
+    af: Richard Stallman
+    an: Richard Stallman
+    ang: Richard Stallman
+    ar: ريتشارد ستولمن
+    arz: ريتشارد ستولمن
+    ast: Richard Stallman
+    az: Riçard Stolman
+    ban: Richard Stallman
+    ban-bali: ᬭᬶᬙᬃᬤ᭄ᬲ᭄ᬢᬮ᭄ᬫᬦ᭄
+    bar: Richard Stallman
+    be: Рычард Мэцью Столман
+    be-tarask: Рычард Столман
+    bg: Ричард Столман
+    bn: রিচার্ড স্টলম্যান
+    br: Richard Stallman
+    bs: Richard Stallman
+    ca: Richard Matthew Stallman
+    ckb: ڕیچارد ستۆڵمەن
+    cs: Richard Stallman
+    cy: Richard Stallman
+    da: Richard M. Stallman
+    de: Richard Stallman
+    de-at: Richard Stallman
+    de-ch: Richard Stallman
+    el: Ρίτσαρντ Στόλλμαν
+    en: Richard Stallman
+    en-us: Richard Stallman
+    eo: Richard Stallman
+    es: Richard Stallman
+    et: Richard Stallman
+    eu: Richard Stallman
+    fa: ریچارد استالمن
+    fi: Richard Stallman
+    fr: Richard Stallman
+    fy: Richard Stallman
+    ga: Richard Stallman
+    gd: Richard Stallman
+    gl: Richard Stallman
+    he: ריצ'רד סטולמן
+    hi: रिचार्ड स्टालमन
+    hr: Richard Stallman
+    hu: Richard Matthew Stallman
+    hy: Ռիչարդ Սթոլման
+    ia: Richard Matthew Stallman
+    id: Richard Stallman
+    ilo: Richard Stallman
+    io: Richard Stallman
+    is: Richard Stallman
+    it: Richard Stallman
+    ja: リチャード・ストールマン
+    jbo: ritcard. stalman
+    jv: Richard Stallman
+    ka: რიჩარდ სტოლმანი
+    kn: ರಿಚರ್ಡ್ ಸ್ಟಾಲ್ಮನ್
+    ko: 리처드 스톨먼
+    ky: Ричард Столлман
+    la: Ricardus Stallman
+    lad: Richard Stallman
+    lb: Richard M. Stallman
+    li: Richard Stallman
+    lmo: Richard Stallman
+    lt: Richard Stallman
+    lv: Ričards Stalmans
+    mg: Richard Stallman
+    mhr: Столлман, Ричард Мэттью
+    mk: Ричард Сталман
+    ml: റിച്ചാർഡ് മാത്യൂ സ്റ്റാൾമാൻ
+    mn: Ричард Столлман
+    mr: रिचर्ड स्टॉलमन
+    ms: Richard Stallman
+    mul: Richard Stallman
+    nan: Richard Stallman
+    nb: Richard M. Stallman
+    ne: रिचर्ड स्टलम्यान
+    new: रिचार्ड स्टालम्यान
+    nl: Richard Stallman
+    nn: Richard M. Stallman
+    oc: Richard Stallman
+    pa: ਰਿਚਰਡ ਸਟਾਲਮਨ
+    pfl: Richard Stallman
+    pl: Richard Stallman
+    pnb: رچرڈ سٹالمان
+    pt: Richard Stallman
+    pt-br: Richard Matthew Stallman
+    ro: Richard Stallman
+    ru: Ричард Столлман
+    sa: रिचार्ड स्टालमन
+    sc: Richard Stallman
+    sco: Richard Stallman
+    sgs: Richard Stallman
+    sh: Richard Stallman
+    simple: Richard Stallman
+    sk: Richard Matthew Stallman
+    sl: Richard Stallman
+    sq: Richard Matthew Stallman
+    sr: Ричард Столман
+    sv: Richard Stallman
+    sw: Richard Stallman
+    ta: ரிச்சர்ட் ஸ்டால்மன்
+    te: రిచర్డ్ స్టాల్మన్
+    tet: Richard Stallman
+    tg: Ричард Столлман
+    th: ริชาร์ด สตอลล์แมน
+    tl: Richard Stallman
+    tr: Richard Stallman
+    uk: Річард Столмен
+    ur: رچرڈ سٹالمان
+    uz: Richard Stallman
+    vec: Richard Stallman
+    vi: Richard Stallman
+    vo: Richard Stallman
+    war: Richard Stallman
+    wuu: 理查德·斯托曼
+    yue: 理查斯托曼
+    zh: 理查德·斯托曼
+    zh-hans: 理查德·斯托曼
+    zh-hant: 理查·史托曼
+    zh-tw: 理查·史托曼
 ---
-
 # [[Stallman,Richard]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Richard_Stallman,7439|WD~Richard_Stallman,7439]] 

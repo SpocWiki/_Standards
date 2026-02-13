@@ -1,17 +1,123 @@
 ---
 aliases:
+- Ampiirstiil
+- Ampir
+- Ampyras
+- Ampïr
+- ampīrs
+- empir
+- Empire
+- Empire style
+- empirestijl
+- Empirestil
+- Empirestyl
+- empiretyyli
+- Empiro
+- empír
+- estil Imperi
+- Estilo Imperio
+- Estilo império
+- Estilo inperial
+- Estilu Imperiu
+- Gaya Empayar
+- Gaya empire
+- na yili
+- Stil Empire
+- stile Impero
+- style Empire
+- Stíl na hImpireachta
+- Αυτοκρατορικός ρυθμός
+- ампір
+- ампир
+- Ампирсь
+- ամպիր
+- סגנון אמפיר
+- امپىير
+- سبک امپراتوری
+- طراز إمبراطوري
+- ამპირის სტილი
+- 帝政様式
+- 帝政风格
+- 앙피르 양식
 has_id_wikidata: Q191105
-different_from: "[[_Standards/WikiData/WD~Empire,226698]]"
-follows: "[[_Standards/WikiData/WD~Directoire_style,1227514]]"
+different_from: '[[_Standards/WikiData/WD~Empire,226698]]'
+follows: '[[_Standards/WikiData/WD~Directoire_style,1227514]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Art+Feminism,24909800]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Empire style
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%20on%20his%20Imperial%20throne.jpg
+dv_has_:
+  name_:
+    ar: طراز إمبراطوري
+    ast: Estilu Imperiu
+    az: Ampir
+    ba: Ампир
+    be: ампір
+    be-tarask: ампір
+    bg: Ампир
+    ca: estil Imperi
+    cs: empír
+    da: Empire
+    dag: na yili
+    de: Empire
+    el: Αυτοκρατορικός ρυθμός
+    en: Empire style
+    eo: Empiro
+    es: Estilo Imperio
+    et: Ampiirstiil
+    eu: Estilo inperial
+    fa: سبک امپراتوری
+    fi: empiretyyli
+    fr: style Empire
+    fy: Empirestyl
+    ga: Stíl na hImpireachta
+    gl: estilo Imperio
+    he: סגנון אמפיר
+    hr: Ampir
+    hu: empire
+    hy: ամպիր
+    id: Gaya empire
+    it: stile Impero
+    ja: 帝政様式
+    ka: ამპირის სტილი
+    kk: Ампир
+    kk-arab: امپىير
+    kk-cn: امپىير
+    kk-cyrl: Ампир
+    kk-kz: Ампир
+    kk-latn: Ampïr
+    kk-tr: Ampïr
+    ko: 앙피르 양식
+    ky: Ампир
+    li: Empire
+    lt: Ampyras
+    lv: ampīrs
+    mdf: Ампирсь
+    mk: ампир
+    ms: Gaya Empayar
+    nb: empire
+    nl: empirestijl
+    nn: Empirestil
+    pl: Empire
+    pt: Estilo império
+    ro: Stil Empire
+    ru: ампир
+    sh: ampir
+    sk: Empír
+    sl: empir
+    sr: ампир
+    sr-ec: Ампир
+    sr-el: Ampir
+    sv: Empir
+    tr: ampir
+    tt: ампир
+    uk: ампір
+    uz: Ampir
+    zh: 帝政风格
 ---
-
 # [[Empire_Style]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Empire_style,191105|WD~Empire_style,191105]] 

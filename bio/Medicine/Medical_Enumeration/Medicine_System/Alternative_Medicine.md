@@ -1,30 +1,87 @@
 ---
 aliases:
-  - Alternative_Medicine
-  - Alternative Medicine
+- alternatibong gamot
+- alternatieve geneeswijze
+- alternatiewe medikasie
+- alternatif tıp
+- alternatiivmeditsiin
+- alternativ behandling
+- alternativ medisin
+- alternativa medicino
+- Alternative Medicine
+- Alternative_Medicine
+- alternativmedicin
+- Alternativmedizin
+- alternativna medicina
+- alternativní medicína
+- alternatyvioji medicina
+- alternatív gyógyászat
+- alternatívna medicína
+- altoernitiv medisn
+- Categoreye:Medcenes ôturreces
+- komplementārā un alternatīvā medicīna
+- Meddygaeth amgen
+- medezina alternativa
+- medicina alternativa
+- medicină alternativă
+- medikuntza alternatibo
+- medisinerezh dazeilat
+- medycyna niekonwencjonalna
+- médecine non conventionnelle
+- míochaine mhalartach
+- Pengobatan holistik
+- Perubatan alternatif
+- Tabiblik
+- Tıbo alternatif
+- uskomuslääkintä
+- y học thay thế
+- zdravilstvo
+- εναλλακτική ιατρική
+- Алтернативна медицина
+- альтернатив медицина
+- альтернативна медицина
+- альтернативная медицина
+- альтэрнатыўная мэдыцына
+- Кхыдола лорал
+- нетрадыцыйная медыцына
+- רפואה אלטרנטיבית
+- طب بديل
+- پزشکی جایگزین
+- वैकल्पिक चिकित्सा
+- বিকল্প চিকিৎসাবিজ্ঞান
+- ବୈକଳ୍ପିକ ଚିକିତ୍ସା ପଦ୍ଧତି
+- ಪರ್ಯಾಯ ಔಷಧ
+- ബദൽചികിത്സ
+- การแพทย์ทางเลือก
+- ალტერნატიული მედიცინა
+- 代替医療
+- 另類醫學
+- 替代医学
+- 替代醫學
+- 대체의학
 has_id_wikidata: Q188504
 subclass_of:
-  - '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-  - '[[_Standards/WikiData/WD~pseudomedicine,25312655]]'
-  - '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~pseudomedicine,25312655]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
 uses:
-  - '[[_Standards/WikiData/WD~placebo,269829]]'
-  - '[[_Standards/WikiData/WD~traditional_medicine,771035]]'
-  - '[[_Standards/WikiData/WD~complementary_therapy,64831118]]'
+- '[[_Standards/WikiData/WD~placebo,269829]]'
+- '[[_Standards/WikiData/WD~traditional_medicine,771035]]'
+- '[[_Standards/WikiData/WD~complementary_therapy,64831118]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~Heilpraktiker,351234]]'
-  - '[[_Standards/WikiData/WD~healer,2518689]]'
-  - '[[_Standards/WikiData/WD~homeopath,12020057]]'
-  - '[[_Standards/WikiData/WD~naturopath,42673468]]'
+- '[[_Standards/WikiData/WD~Heilpraktiker,351234]]'
+- '[[_Standards/WikiData/WD~healer,2518689]]'
+- '[[_Standards/WikiData/WD~homeopath,12020057]]'
+- '[[_Standards/WikiData/WD~naturopath,42673468]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Alternative_medicine,6676907]]'
-  - '[[_Standards/WikiData/WD~Template_Alternative_medicine_sidebar,6676905]]'
+- '[[_Standards/WikiData/WD~Template_Alternative_medicine,6676907]]'
+- '[[_Standards/WikiData/WD~Template_Alternative_medicine_sidebar,6676905]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~pseudomedicine,25312655]]'
-  - '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+- '[[_Standards/WikiData/WD~pseudomedicine,25312655]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
 described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
 opposite_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 IAB_code: 233
@@ -36,8 +93,84 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Homeopathic332.JPG
 U_S_National_Archives_Identifier: 10675024
 P8189: 987007534157205171
 OpenStreetMap_tag_or_key: Tag:healthcare=alternative
+dv_has_:
+  name_:
+    af: alternatiewe medikasie
+    ar: طب بديل
+    ast: Medicina alternativa
+    be: нетрадыцыйная медыцына
+    be-tarask: альтэрнатыўная мэдыцына
+    bg: Алтернативна медицина
+    bn: বিকল্প চিকিৎসাবিজ্ঞান
+    br: medisinerezh dazeilat
+    ca: medicina alternativa
+    cs: alternativní medicína
+    cy: Meddygaeth amgen
+    da: alternativ behandling
+    de: Alternativmedizin
+    diq: Tıbo alternatif
+    el: εναλλακτική ιατρική
+    en: alternative medicine
+    eo: alternativa medicino
+    es: medicina alternativa
+    et: alternatiivmeditsiin
+    eu: medikuntza alternatibo
+    fa: پزشکی جایگزین
+    fi: uskomuslääkintä
+    fr: médecine non conventionnelle
+    ga: míochaine mhalartach
+    gl: medicina alternativa
+    he: רפואה אלטרנטיבית
+    hi: वैकल्पिक चिकित्सा
+    hr: alternativna medicina
+    hu: alternatív gyógyászat
+    id: Pengobatan holistik
+    inh: Кхыдола лорал
+    it: medicina alternativa
+    ja: 代替医療
+    jam: altoernitiv medisn
+    ka: ალტერნატიული მედიცინა
+    kn: ಪರ್ಯಾಯ ಔಷಧ
+    ko: 대체의학
+    lt: alternatyvioji medicina
+    lv: komplementārā un alternatīvā medicīna
+    mk: алтернативна медицина
+    ml: ബദൽചികിത്സ
+    ms: Perubatan alternatif
+    nb: alternativ medisin
+    nl: alternatieve geneeswijze
+    nn: alternativ behandling
+    or: ବୈକଳ୍ପିକ ଚିକିତ୍ସା ପଦ୍ଧତି
+    pl: medycyna niekonwencjonalna
+    pt: medicina alternativa
+    ro: medicină alternativă
+    ru: альтернативная медицина
+    sh: alternativna medicina
+    sk: alternatívna medicína
+    sl: zdravilstvo
+    sr: алтернативна медицина
+    sr-ec: Алтернативна медицина
+    sr-el: Alternativna medicina
+    sv: alternativmedicin
+    th: การแพทย์ทางเลือก
+    tl: alternatibong gamot
+    tr: alternatif tıp
+    tt: альтернатив медицина
+    uk: альтернативна медицина
+    uz: Tabiblik
+    vec: medezina alternativa
+    vi: y học thay thế
+    wa: Categoreye:Medcenes ôturreces
+    wuu: 替代医学
+    yue: 另類醫學
+    zh: 替代医学
+    zh-cn: 替代医学
+    zh-hans: 替代医学
+    zh-hant: 替代醫學
+    zh-hk: 替代醫學
+    zh-sg: 替代医学
+    zh-tw: 替代醫學
 ---
-
 # [[Alternative_Medicine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Alternative_medicine,188504]] 

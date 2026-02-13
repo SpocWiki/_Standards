@@ -1,4 +1,112 @@
-
+---
+has_id_wikidata: Q10962
+dv_has_:
+  name_:
+    af: Rugby League
+    ar: دوري الرغبي
+    arz: دورى الرجبى
+    ast: rugby league
+    az: reqbi liqası
+    be-tarask: рэгбіліга
+    bn: রাগবি লিগ
+    ca: rugbi a 13
+    ceb: Liga sa rugby
+    cs: rugby league
+    cy: Rygbi'r gynghrair
+    da: rugby league
+    de: Rugby League
+    el: ράγκμπυ Λιγκ
+    en: rugby league
+    en-gb: rugby league
+    eo: rugbeo 13
+    es: rugby a 13
+    eu: hamahiruko errugbi
+    fa: راگبی ۱۳ نفره
+    fi: rugby league
+    fr: rugby à XIII
+    gd: Rugbaidh lìog
+    gl: Rugby league
+    he: ליגת הרוגבי
+    hi: रग्बी लीग
+    hu: ligarögbi
+    id: liga rugbi
+    it: rugby a 13
+    ja: ラグビーリーグ
+    ko: 럭비리그
+    ku: Lîga Ragbî
+    kw: Kesunyans Rugbi
+    lb: Rugby League
+    mi: rīki
+    mr: रग्बी लीग
+    nb: rugby league
+    nl: rugby league
+    oc: Rugbi de XIII
+    pl: Rugby league
+    pt: râguebi de treze
+    ro: rugby în 13
+    ru: регбилиг
+    sco: rugby league
+    sh: Рагби лига
+    si: රග්බි ලීගය
+    sk: rugby league
+    sl: ragbi 13
+    sr: рагби лига
+    sr-ec: рагби лига
+    sr-el: ragbi liga
+    sv: rugby league
+    tr: Ragbi ligi
+    uk: регбіліг
+    ur: رگبی لیگ
+    vec: Rugby a 13
+    vi: bóng bầu dục liên minh
+    wuu: 联盟式橄榄球
+    yue: 聯盟式欖球
+    zh: 聯盟式橄欖球
+    zh-hans: 联盟式橄榄球
+    zh-hant: 聯盟式橄欖球
+    zh-hk: 聯盟式欖球
+aliases:
+- bóng bầu dục liên minh
+- hamahiruko errugbi
+- Kesunyans Rugbi
+- liga rugbi
+- Liga sa rugby
+- ligarögbi
+- Lîga Ragbî
+- ragbi 13
+- ragbi liga
+- Ragbi ligi
+- reqbi liqası
+- Rugbaidh lìog
+- rugbeo 13
+- rugbi a 13
+- Rugbi de XIII
+- rugby a 13
+- Rugby League
+- rugby à XIII
+- rugby în 13
+- Rygbi'r gynghrair
+- râguebi de treze
+- rīki
+- ράγκμπυ Λιγκ
+- Рагби лига
+- регбіліг
+- регбилиг
+- рэгбіліга
+- ליגת הרוגבי
+- دورى الرجبى
+- دوري الرغبي
+- راگبی ۱۳ نفره
+- رگبی لیگ
+- रग्बी लीग
+- রাগবি লিগ
+- රග්බි ලීගය
+- ラグビーリーグ
+- 联盟式橄榄球
+- 聯盟式橄欖球
+- 聯盟式欖球
+- 럭비리그
+---
 # [[Rugby_League]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Rugby_league,10962|WD~Rugby_league,10962]] 

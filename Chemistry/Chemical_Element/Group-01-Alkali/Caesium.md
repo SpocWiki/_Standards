@@ -1,74 +1,170 @@
 ---
 aliases:
-  - Caesium
+- blasodna
+- caeisiam
+- Caesi
+- Caesium
+- cesi
+- cesio
+- Cesiom
+- cesiu
+- cesium
+- cesiwm
+- Cesyo
+- cez
+- Cezii
+- cezij
+- Cezijum
+- cezio
+- Ceziom
+- Cezis
+- Ceziumi
+- Cäsium
+- cæsium
+- Cèsi
+- césio
+- césium
+- cézium
+- cēzijs
+- Kaasiyaam
+- Kaishum
+- Kesium
+- Keziom
+- Seeziyeemii
+- sesio
+- sesium
+- Sesyo
+- Sesyu
+- sesín
+- Sezium
+- Seziy
+- Seziyaamu
+- Sezyum
+- Sezyòm
+- Sezyûm
+- Sésium
+- Sɛzɩyɔm
+- Tseesium
+- Tzèsiu
+- UmCanga
+- xêsi
+- zesio
+- Zäsium
+- Çesio
+- ċesju
+- καίσιο
+- Сезиум
+- цезій
+- Цези
+- цезијум
+- цезий
+- цезиум
+- Цесиүм
+- цэз
+- Цэзій
+- ցեզիում
+- צסיום
+- צעז
+- سزیم
+- سيزيئم
+- سيزيوم
+- سیزیئم
+- سیزیم
+- سیزیۆم
+- سېزىي
+- سېزيوم
+- सिजियम
+- सिझियम
+- सीज़ियम
+- सीजियम
+- सेसियम
+- চিজিয়াম
+- সিজিয়াম
+- ਸੀਜ਼ੀਅਮ
+- સીસીયમ
+- ସିଜିଅମ
+- சீசியம்
+- సీసియం
+- ಸೀಸಿಯಮ್
+- സീസിയം
+- ซีเซียม
+- སྰེ་སིམ།
+- ဆယ်ဆီယမ်
+- ცეზიუმი
+- ሴሲየም
+- セシウム
+- 銫
+- 铯
+- 세슘
+- 세시움
 has_id_wikidata: Q1108
 atomic_number: 55
-canonical_SMILES: "[Cs]"
+canonical_SMILES: '[Cs]'
 CAS_Registry_Number: 7440-46-2
 chemical_formula: Cs
 Commons_category: Caesium
 Commons_gallery: Caesium
 Common_Procurement_Vocabulary_code:
-  - 14771000-6
-  - 14771000
+- 14771000-6
+- 14771000
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification: 546.385
-different_from: "[[_Standards/WikiData/WD~cerium,1385]]"
+different_from: '[[_Standards/WikiData/WD~cerium,1385]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Robert_Bunsen,71031]]"
-  - "[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]"
+- '[[_Standards/WikiData/WD~Robert_Bunsen,71031]]'
+- '[[_Standards/WikiData/WD~Gustav_Kirchhoff,60052]]'
 DSSTOX_compound_identifier: DTXCID40820345
 EC_number: 231-155-4
 electronegativity: 0.79
 electron_configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s¹
-  - "[Xe] 6s¹"
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁶ 6s¹
+- '[Xe] 6s¹'
 element_symbol: Cs
-has_characteristic: "[[_Standards/WikiData/WD~paramagnetism,188479]]"
+has_characteristic: '[[_Standards/WikiData/WD~paramagnetism,188479]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
 InChI: InChI=1S/Cs
 InChIKey: TVFDJXOCXUVLDH-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 1.67
-  - 1.74
-  - 1.81
-  - 1.88
+- 1.67
+- 1.74
+- 1.81
+- 1.88
 ionization_energy:
-  - 3400
-  - 375.7
-  - 2234.3
+- 3400
+- 375.7
+- 2234.3
 Krugosvet_article: himiya/ceziy
-location_of_discovery: "[[_Standards/WikiData/WD~Heidelberg,2966]]"
+location_of_discovery: '[[_Standards/WikiData/WD~Heidelberg,2966]]'
 mass: 132.90545196
 MeSH_tree_code:
-  - D01.268.549.125
-  - D01.268.556.165
-  - D01.552.528.160
-  - D01.552.544.165
+- D01.268.549.125
+- D01.268.556.165
+- D01.552.528.160
+- D01.552.544.165
 Mohs_hardness: 0.2
-named_after: "[[_Standards/WikiData/WD~sky_blue,373160]]"
+named_after: '[[_Standards/WikiData/WD~sky_blue,373160]]'
 OmegaWiki_Defined_Meaning: 470
 oxidation_state: 1
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~group_1,10801007]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 PubChem_CID: 5354618
 SpocWebEntityId: 21951
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Caesium.ogg
 standard_molar_entropy: 85.2
 subclass_of:
-  - "[[_Standards/WikiData/WD~s-block,208106]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~alkali_metal,19557]]"
+- '[[_Standards/WikiData/WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1860
 type: Element
 UMLS_CUI: C0007886
@@ -77,21 +173,186 @@ UNII: 1KSV9V4Y4I
 ZVG_number: 7550
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Caesium,1108]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]]"
-  part_of: "[[../Group-01-Alkali]]"
+  - '[[../../../WikiData/WD~Caesium,1108]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]]'
+  part_of: '[[../Group-01-Alkali]]'
 dv_has_:
   name_:
-    group: Group-01-Alkali
-    en: Caesium
-    de: Caesium
     abbreviated: Cs
+    af: sesium
+    am: ሴሲየም
+    an: Cesio
+    anp: सीजियम
+    ar: سيزيوم
+    ary: سيزيوم
+    arz: سيزيوم
+    as: চিজিয়াম
+    ast: cesiu
+    az: Sezium
+    ba: Цезий
+    ban: Sésium
+    bar: Zäsium
+    bcl: Sesyo
+    be: Цэзій
+    be-tarask: цэз
+    bg: цезий
+    bho: सीजियम
+    bn: সিজিয়াম
+    bo: སྰེ་སིམ།
+    br: Keziom
+    bs: cezij
+    ca: cesi
+    cdo: Caesium
+    ceb: Cesyo
+    ckb: سیزیۆم
+    co: Cesiu
+    cs: cesium
+    cv: Цези
+    cy: cesiwm
+    da: cæsium
+    de: Caesium
+    el: καίσιο
+    en: caesium
+    en-gb: caesium
+    en-us: cesium
+    eo: cezio
+    es: cesio
+    et: Tseesium
+    eu: zesio
+    fa: سزیم
+    fi: cesium
+    fo: Sesium
+    fr: césium
+    frr: Tseesium
+    fur: Cesi
+    ga: caeisiam
+    gan: 銫
+    gd: Caesium
+    gl: cesio
+    group: Group-01-Alkali
+    gu: સીસીયમ
+    gv: Kaishum
+    hak: caesium
+    he: צסיום
+    hi: सीज़ियम
+    hif: Caesium
+    hr: cezij
+    ht: Sezyòm
+    hu: cézium
+    hy: ցեզիում
+    ia: cesium
+    id: sesium
+    io: cesio
+    is: sesín
+    it: cesio
+    ja: セシウム
+    jbo: blasodna
+    jv: Sesium
+    ka: ცეზიუმი
+    kbp: Sɛzɩyɔm
+    kk: Цезий
+    kn: ಸೀಸಿಯಮ್
+    ko: 세슘
+    ko-kp: 세시움
+    ku: Sezyûm
+    kv: Цезий
+    kw: Cesiom
+    ky: Цезий
+    la: caesium
+    lb: Cäsium
+    lfn: sesio
+    lg: Seziyaamu
+    li: Cesium
+    lij: Çesio
+    lmo: Cesio
+    lt: Cezis
+    lv: cēzijs
+    lzh: 銫
+    mdf: Цези
+    mk: цезиум
+    ml: സീസിയം
+    mn: цези
+    mr: सिझियम
+    mrj: Цезий
+    ms: Sesium
+    mt: ċesju
+    my: ဆယ်ဆီယမ်
+    nan: Caesium
+    nb: cesium
+    nds: Cäsium
+    ne: सिजियम
+    new: सेसियम
+    nl: cesium
+    nn: cesium
+    nov: Sesium
+    oc: Cèsi
+    olo: Cezii
+    om: Seeziyeemii
+    or: ସିଜିଅମ
+    os: цезий
+    pa: ਸੀਜ਼ੀਅਮ
+    pi: सेसियम
+    pl: cez
+    pms: Cesio
+    pnb: سیزیم
+    ps: سېزيوم
+    pt: césio
+    pt-br: césio
+    qu: Sesyu
+    ro: cesiu
+    ru: цезий
+    rup: Cesiu
+    sa: सेसियम
+    sah: Сезиум
+    sc: Tzèsiu
+    scn: cesiu
+    sco: caesium
+    sd: سيزيئم
+    sh: Cezijum
+    sk: cézium
+    sl: cezij
+    so: Kaasiyaam
+    sq: Ceziumi
+    sr: цезијум
+    stq: Cesium
+    sv: cesium
+    sw: Caesi
+    ta: சீசியம்
+    te: సీసియం
+    tg: цезий
+    th: ซีเซียม
+    tl: Sesyo
+    tr: Sezyum
+    tt: цезий
+    tt-cyrl: цезий
+    ug: سېزىي
+    uk: цезій
+    ur: سیزیئم
+    uz: Seziy
+    vep: Cezii
+    vi: xêsi
+    wa: Ceziom
+    war: Cesyo
+    wuu: 铯
+    xal: Цесиүм
+    yi: צעז
+    yo: Kesium
+    yue: 銫
+    zh: 铯
+    zh-hans: 铯
+    zh-hant: 銫
+    zh-tw: 銫
+    zu: UmCanga
+  number_of_:
+    period: 6
+    group: 1
+    electrons: 55
   value_for_:
     weight_:
       u: 132.905
@@ -119,21 +380,17 @@ dv_has_:
         kj_:
           mol: 67.74
     electronegativity: 0.79
-  number_of_:
-    period: 6
-    group: 1
-    electrons: 55
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Caesium,1108]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]]"
+- '[[../../../WikiData/WD~Caesium,1108]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Caesium|Caesium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.public|Caesium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.internal|Caesium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.protect|Caesium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.private|Caesium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.personal|Caesium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Caesium.secret|Caesium.secret]]'
 dv_has_name_group: Group-01-Alkali
-dv_is_part_of: "[[../Group-01-Alkali]]"
+dv_is_part_of: '[[../Group-01-Alkali]]'
 dv_has_name_en: Caesium
 dv_has_name_de: Caesium
 dv_has_value_for_weight_u: 132.905
@@ -154,7 +411,6 @@ dv_has_number_of_electrons: 55
 dv_has_value_for_temperature_melt_c: 28.4
 dv_has_value_for_electronegativity: 0.79
 ---
-
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 
 
 #chemic/Element 

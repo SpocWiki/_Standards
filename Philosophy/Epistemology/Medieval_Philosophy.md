@@ -1,19 +1,166 @@
 ---
 aliases:
+- Erdi Aroko filosofia
+- Falsafar zamani
+- Filosofi i middelalderen
+- Filosofia de la eda medieval
+- filosofia medieval
+- filosofia medievale
+- Filosofie medievală
+- Filosofìa medieval
+- Filosofía medieval
+- Filozofi médyéval
+- Filozofia mesjetare
+- filozofia średniowieczna
+- filozofio de Mezepoko
+- Filsafat abad pertengahan
+- gaskaáigásaš filosofiija
+- Keskaja filosoofia
+- keskiajan filosofia
+- koskâáigásâš filosofia
+- középkori filozófia
+- medeltidens filosofi
+- medieval philosophy
+- middelalderens filosofi
+- middeleeuwse filosofie
+- Midiival filasafi
+- Miðaldaheimspeki
+- Orta Çağ felsefesi
+- Orta Əsrlər fəlsəfəsi
+- Philosophia mediaevalis
+- Philosophia medieval
+- Philosophie des Mittelalters
+- philosophie médiévale
+- srednjeveška filozofija
+- Srednjovekovna filozofija
+- Srednjovjekovna filozofija
+- Stredoveká filozofia
+- středověká filozofie
+- Triết học thời Trung cổ
+- Viduramžių filosofija
+- Viduslaiku filozofija
+- μεσαιωνική φιλοσοφία
+- Орта ғасыр философиясы
+- Орто кылымдар философия
+- средњовековна филозофија
+- средневековая философия
+- Средновековна филозофија
+- Средновековна философия
+- сярэдневяковая філасофія
+- сярэднявечная філязофія
+- Урта быуат фәлсәфәһе
+- Філософія Середньовіччя
+- միջնադարյան փիլիսոփայություն
+- פילוסופיית ימי הביניים
+- د منځنیو پېړیو فلسفه
+- فلسفة القرون الوسطى
+- فلسفه قرون وسطی
+- فەلسەفەی سەدەکانی ناوەڕاست
+- قرون وسطی کا فلسفہ
+- मध्यकालीन दर्शन
+- মধ্যযুগীয় দর্শন
+- ਮੱਧਕਾਲੀ ਫ਼ਲਸਫ਼ਾ
+- மத்திய கால மெய்யியல்
+- ᱛᱟᱞᱢᱟ ᱡᱩᱜᱽ ᱨᱮᱱᱟᱜ ᱧᱮᱱᱮᱞ
+- ⵜⴰⴼⵍⵙⴰⴼⵜ ⵏ ⵜⵊⵕⵎⵉⵡⵉⵏ ⵜⵉⵏⴰⵎⵎⴰⵙⵉⵏ
+- 中世哲学
+- 中世紀哲學
+- 中世纪哲学
+- 중세철학
 has_id_wikidata: Q192292
-different_from: "[[_Standards/WikiData/WD~medieval_Jewish_philosophy,9395791]]"
+different_from: '[[_Standards/WikiData/WD~medieval_Jewish_philosophy,9395791]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Medieval_Philosophy,13363601]]"
-subclass_of: "[[_Standards/WikiData/WD~philosophy,5891]]"
-Dewey_Decimal_Classification: "180"
-Basisklassifikation: "08.22"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Medieval_Philosophy,13363601]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+Dewey_Decimal_Classification: 180
+Basisklassifikation: 08.22
 Provenio_UUID: b78e2f46-4001-4fac-a5ab-ca053d1bdbb1
 Commons_category: Medieval philosophy
 PhilPapers_topic: medieval-philosophy-topics
+dv_has_:
+  name_:
+    ar: فلسفة القرون الوسطى
+    ast: Filosofía medieval
+    az: Orta Əsrlər fəlsəfəsi
+    ba: Урта быуат фәлсәфәһе
+    be: сярэдневяковая філасофія
+    be-tarask: сярэднявечная філязофія
+    bg: Средновековна философия
+    bn: মধ্যযুগীয় দর্শন
+    bs: Srednjovjekovna filozofija
+    ca: filosofia medieval
+    ckb: فەلسەفەی سەدەکانی ناوەڕاست
+    cs: středověká filozofie
+    da: Filosofi i middelalderen
+    de: Philosophie des Mittelalters
+    el: μεσαιωνική φιλοσοφία
+    en: medieval philosophy
+    eo: filozofio de Mezepoko
+    es: filosofía medieval
+    et: Keskaja filosoofia
+    eu: Erdi Aroko filosofia
+    fa: فلسفه قرون وسطی
+    fi: keskiajan filosofia
+    fr: philosophie médiévale
+    gcr: Filozofi médyéval
+    gl: Filosofía medieval
+    ha: Falsafar zamani
+    he: פילוסופיית ימי הביניים
+    hi: मध्यकालीन दर्शन
+    hr: Srednjovjekovna filozofija
+    hu: középkori filozófia
+    hy: միջնադարյան փիլիսոփայություն
+    ia: Philosophia medieval
+    id: Filsafat abad pertengahan
+    is: Miðaldaheimspeki
+    it: filosofia medievale
+    ja: 中世哲学
+    jam: Midiival filasafi
+    kk: Орта ғасыр философиясы
+    ko: 중세철학
+    ky: Орто кылымдар философия
+    la: Philosophia mediaevalis
+    lfn: Filosofia de la eda medieval
+    lt: Viduramžių filosofija
+    lv: Viduslaiku filozofija
+    mk: Средновековна филозофија
+    nb: middelalderens filosofi
+    nl: middeleeuwse filosofie
+    pa: ਮੱਧਕਾਲੀ ਫ਼ਲਸਫ਼ਾ
+    pl: filozofia średniowieczna
+    pms: Filosofìa medieval
+    ps: د منځنیو پېړیو فلسفه
+    pt: filosofia medieval
+    ro: Filosofie medievală
+    ru: средневековая философия
+    sat: ᱛᱟᱞᱢᱟ ᱡᱩᱜᱽ ᱨᱮᱱᱟᱜ ᱧᱮᱱᱮᱞ
+    se: gaskaáigásaš filosofiija
+    sh: Srednjovekovna filozofija
+    sk: Stredoveká filozofia
+    sl: srednjeveška filozofija
+    smn: koskâáigásâš filosofia
+    sq: Filozofia mesjetare
+    sr: средњовековна филозофија
+    sr-ec: Средњовековна филозофија
+    sr-el: Srednjovekovna filozofija
+    sv: medeltidens filosofi
+    ta: மத்திய கால மெய்யியல்
+    tr: Orta Çağ felsefesi
+    uk: Філософія Середньовіччя
+    ur: قرون وسطی کا فلسفہ
+    vi: Triết học thời Trung cổ
+    yue: 中世紀哲學
+    zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵏ ⵜⵊⵕⵎⵉⵡⵉⵏ ⵜⵉⵏⴰⵎⵎⴰⵙⵉⵏ
+    zh: 中世紀哲學
+    zh-cn: 中世纪哲学
+    zh-hans: 中世纪哲学
+    zh-hant: 中世紀哲學
+    zh-hk: 中世紀哲學
+    zh-sg: 中世纪哲学
+    zh-tw: 中世紀哲學
 ---
-
 # [[Medieval_Philosophy]] 
 
 #is_/same_as :: [[WD~Medieval_philosophy,192292]] 

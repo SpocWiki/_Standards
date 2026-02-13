@@ -1,44 +1,70 @@
 ---
 aliases:
-  - Ray_Charles
-  - Ray Charles Robinson
-  - Ray Charles
-  - Charles
-  - Brother Ray
+- Brother Ray
+- Charles
+- Ray Carles
+- Ray Charles
+- Ray Charles Robinson
+- Ray_Charles
+- Rejs Čārlzs
+- Rey Çarlz
+- Ρέι Τσαρλς
+- Реј Чарлс
+- Рей Чарлз
+- Рей Чарлс
+- Рэй Чарлз
+- Рэй Чарльз
+- Ռեյ Չարլզ
+- ריי צ'ארלס
+- رى تشارلز
+- ري تشارلز
+- ری چارلز
+- رے چارلس
+- ڕای چارلز
+- रे चार्ल्स
+- ਰੇਅ ਚਾਰਲਸ
+- ரே சார்ல்ஸ்
+- റേ ചാൾസ്
+- เรย์ ชาลส์
+- რეი ჩარლზი
+- レイ・チャールズ
+- 雷·查尔斯
+- 雷·查理士
+- 레이 찰스
 has_id_wikidata: Q544387
 genre:
-  - '[[_Standards/WikiData/WD~country_music,83440]]'
-  - '[[_Standards/WikiData/WD~soul,131272]]'
-  - '[[_Standards/WikiData/WD~gospel_music,180268]]'
-  - '[[_Standards/WikiData/WD~jazz,8341]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
-  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~soul,131272]]'
+- '[[_Standards/WikiData/WD~gospel_music,180268]]'
+- '[[_Standards/WikiData/WD~jazz,8341]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
-  - '[[_Standards/WikiData/WD~vocalist,2643890]]'
-  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~soul_musician,105652947]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+- '[[_Standards/WikiData/WD~vocalist,2643890]]'
+- '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~soul_musician,105652947]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Blues_Hall_of_Fame,258100]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]'
-  - '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
-  - '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~lifetime_achievement_award,105727509]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Blues_Hall_of_Fame,258100]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Florida_Artists_Hall_of_Fame,5461189]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+- '[[_Standards/WikiData/WD~Commandeur_des_Arts_et_des_Lettres,13452531]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~lifetime_achievement_award,105727509]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
-  - '[[_Standards/WikiData/WD~ABC_Records,287177]]'
-  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
-  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
-  - '[[_Standards/WikiData/WD~Swing_Time,3506611]]'
+- '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+- '[[_Standards/WikiData/WD~ABC_Records,287177]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+- '[[_Standards/WikiData/WD~Swing_Time,3506611]]'
 place_of_birth: '[[_Standards/WikiData/WD~Albany,285599]]'
 copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 cause_of_death: '[[_Standards/WikiData/WD~liver_failure,970208]]'
@@ -46,12 +72,12 @@ discography: '[[_Standards/WikiData/WD~Ray_Charles_discography,1411635]]'
 place_of_burial: '[[_Standards/WikiData/WD~Inglewood_Park_Cemetery,1645215]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Margie_Hendrix,1895258]]'
 residence:
-  - '[[_Standards/WikiData/WD~Greenville,2092701]]'
-  - '[[_Standards/WikiData/WD~Seattle,5083]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~Greenville,2092701]]'
+- '[[_Standards/WikiData/WD~Seattle,5083]]'
+- '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Raymond,2127728]]'
-  - '[[_Standards/WikiData/WD~Charles,2958359]]'
+- '[[_Standards/WikiData/WD~Raymond,2127728]]'
+- '[[_Standards/WikiData/WD~Charles,2958359]]'
 family_name: '[[_Standards/WikiData/WD~Robinson,2798428]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 educated_at: '[[_Standards/WikiData/WD~Florida_School_for_the_Deaf_and_Blind,5461583]]'
@@ -60,17 +86,17 @@ different_from: '[[_Standards/WikiData/WD~Ray_Charles,12333007]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Ray_Charles,13412160]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 notable_work: '[[_Standards/WikiData/WD~Georgia_on_My_Mind_Carry_Me_Back_to_Old_Virginny,93731097]]'
 artist_files_at: '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Eileen_Williams,108664654]]'
-  - '[[_Standards/WikiData/WD~Della_Beatrice_Howard_Robinson,108664657]]'
+- '[[_Standards/WikiData/WD~Eileen_Williams,108664654]]'
+- '[[_Standards/WikiData/WD~Della_Beatrice_Howard_Robinson,108664657]]'
 member_of: '[[_Standards/WikiData/WD~Ray_Charles_and_His_Orchestra,109303185]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -103,11 +129,104 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ray%20Charles%2
 official_website: https://raycharles.com/
 ISNI: 0000000114318819
 IPI_name_number:
-  - 00005905501
-  - 00026286484
+- 00005905501
+- 00026286484
 Plex_person_key: 5d776826961905001eb91144
+dv_has_:
+  name_:
+    af: Ray Charles
+    ami: Ray Carles
+    an: Ray Charles
+    ar: ري تشارلز
+    arz: رى تشارلز
+    ast: Ray Charles
+    az: Rey Çarlz
+    azb: ری چارلز
+    be: Рэй Чарльз
+    be-tarask: Рэй Чарлз
+    bg: Рей Чарлс
+    br: Ray Charles
+    ca: Ray Charles
+    ckb: ڕای چارلز
+    cs: Ray Charles
+    cv: Рэй Чарльз
+    cy: Ray Charles
+    da: Ray Charles
+    de: Ray Charles
+    el: Ρέι Τσαρλς
+    en: Ray Charles
+    en-us: Ray Charles
+    eo: Ray Charles
+    es: Ray Charles
+    et: Ray Charles
+    eu: Ray Charles
+    fa: ری چارلز
+    fi: Ray Charles
+    fr: Ray Charles
+    fy: Ray Charles
+    ga: Ray Charles
+    gl: Ray Charles
+    ha: Ray Charles
+    he: ריי צ'ארלס
+    hr: Ray Charles
+    ht: Ray Charles
+    hu: Ray Charles
+    hy: Ռեյ Չարլզ
+    id: Ray Charles
+    ig: Ray Charles
+    io: Ray Charles
+    is: Ray Charles
+    it: Ray Charles
+    ja: レイ・チャールズ
+    ka: რეი ჩარლზი
+    ko: 레이 찰스
+    la: Ray Charles
+    lb: Ray Charles
+    lt: Ray Charles
+    lv: Rejs Čārlzs
+    mg: Ray Charles
+    mk: Реј Чарлс
+    ml: റേ ചാൾസ്
+    mr: रे चार्ल्स
+    mul: Ray Charles
+    nan: Ray Charles
+    nb: Ray Charles
+    nl: Ray Charles
+    nn: Ray Charles
+    oc: Ray Charles
+    pa: ਰੇਅ ਚਾਰਲਸ
+    pap: Ray Charles
+    pl: Ray Charles
+    pt: Ray Charles
+    pt-br: Ray Charles
+    ro: Ray Charles
+    ru: Рэй Чарлз
+    scn: Ray Charles
+    sco: Ray Charles
+    sh: Ray Charles
+    sk: Ray Charles
+    sl: Ray Charles
+    sq: Ray Charles
+    sr: Реј Чарлс
+    sr-ec: Реј Чарлс
+    sv: Ray Charles
+    ta: ரே சார்ல்ஸ்
+    th: เรย์ ชาลส์
+    tl: Ray Charles
+    tr: Ray Charles
+    uk: Рей Чарлз
+    ur: رے چارلس
+    uz: Ray Charles
+    vec: Ray Charles
+    vi: Ray Charles
+    war: Ray Charles
+    wuu: 雷·查尔斯
+    xmf: რეი ჩარლზი
+    yo: Ray Charles
+    yue: 雷·查理士
+    zh: 雷·查尔斯
+    zh-hk: 雷·查理士
 ---
-
 # [[Ray_Charles]] 
 
 #is_/same_as :: [[WD~Ray_Charles,544387]] 

@@ -1,113 +1,147 @@
 ---
 aliases:
-  - Lise_Meitner
-  - Elise Meitner
-  - Lise Meitner
-  - Meitner
-  - Meitner,Lise
+- Elise Meitner
+- Lisa Meitner
+- Lise Meitner
+- Lise Meitnerová
+- Lise_Meitner
+- Liza Maytner
+- Līze Meitnere
+- Meitner
+- Meitner,Lise
+- Λίζε Μάιτνερ
+- Ліза Майтнер
+- Лізэ Майтнер
+- Лізэ Майтнэр
+- Лиза Мајтнер
+- Лиза Майтнер
+- Лиза Мейтнер
+- Лизе Майтнер
+- Лиса Мајтнер
+- Мейтнер Лиза
+- Լիզա Մեյտներ
+- ליזה מייטנר
+- لزے میٹنر
+- ليز مايتنر
+- ليز مايټنر
+- لیز مایتنەر
+- لیزه مایتنر
+- लिज़ मेट्नर
+- লিজে মাইটনার
+- ਲੀਜ਼ ਮੀਟਨਰ
+- லீஸ் மெயிட்னர்
+- లిసే మైట్నర్
+- ಲೀಸ್ ಮೇಟ್ನರ್
+- ലിസെ മെയ്റ്റ്നർ
+- ลีเซอ ไมท์เนอร์
+- ლიზა მაიტნერი
+- リーゼ・マイトナー
+- 莉泽·迈特纳
+- 邁特納
+- 리제 마이트너
 has_id_wikidata: Q56189
-student: "[[_Standards/WikiData/WD~Nikolaus_Riehl,72983]]"
+student: '[[_Standards/WikiData/WD~Nikolaus_Riehl,72983]]'
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Ludwig_Boltzmann,84296]]"
-  - "[[_Standards/WikiData/WD~Franz_S._Exner,84783]]"
+- '[[_Standards/WikiData/WD~Ludwig_Boltzmann,84296]]'
+- '[[_Standards/WikiData/WD~Franz_S._Exner,84783]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Arnold_Flammersfeld,89048]]"
-  - "[[_Standards/WikiData/WD~Rudolf_Jaeckel,16509061]]"
-relative: "[[_Standards/WikiData/WD~Otto_Robert_Frisch,93479]]"
-position_held: "[[_Standards/WikiData/WD~professor,121594]]"
+- '[[_Standards/WikiData/WD~Arnold_Flammersfeld,89048]]'
+- '[[_Standards/WikiData/WD~Rudolf_Jaeckel,16509061]]'
+relative: '[[_Standards/WikiData/WD~Otto_Robert_Frisch,93479]]'
+position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]"
-  - "[[_Standards/WikiData/WD~Austrian_Academy_of_Sciences,299015]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_at_Berlin,49738]]"
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Austrian_Academy_of_Sciences,299015]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_at_Berlin,49738]]'
 employer:
-  - "[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]"
-  - "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
-  - "[[_Standards/WikiData/WD~The_Catholic_University_of_America,179036]]"
-  - "[[_Standards/WikiData/WD~Royal_Institute_of_Technology,854280]]"
-  - "[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]"
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~The_Catholic_University_of_America,179036]]'
+- '[[_Standards/WikiData/WD~Royal_Institute_of_Technology,854280]]'
+- '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
-  - "[[_Standards/WikiData/WD~Akademisches_Gymnasium,414936]]"
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~Akademisches_Gymnasium,414936]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~nuclear_physicist,16742096]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~nuclear_physicist,16742096]]'
 significant_person:
-  - "[[_Standards/WikiData/WD~Manne_Siegbahn,170741]]"
-  - "[[_Standards/WikiData/WD~Emma_Jacobsson,4956130]]"
-  - "[[_Standards/WikiData/WD~Eva_von_Bahr,10492595]]"
-  - "[[_Standards/WikiData/WD~Niels_Bohr,7085]]"
-  - "[[_Standards/WikiData/WD~Max_Planck,9021]]"
-  - "[[_Standards/WikiData/WD~Otto_Hahn,57065]]"
-  - "[[_Standards/WikiData/WD~Fritz_Strassmann,60859]]"
-father: "[[_Standards/WikiData/WD~Philipp_Meitner,264630]]"
+- '[[_Standards/WikiData/WD~Manne_Siegbahn,170741]]'
+- '[[_Standards/WikiData/WD~Emma_Jacobsson,4956130]]'
+- '[[_Standards/WikiData/WD~Eva_von_Bahr,10492595]]'
+- '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
+- '[[_Standards/WikiData/WD~Max_Planck,9021]]'
+- '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
+- '[[_Standards/WikiData/WD~Fritz_Strassmann,60859]]'
+father: '[[_Standards/WikiData/WD~Philipp_Meitner,264630]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]"
-  - "[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]"
-  - "[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]"
-  - "[[_Standards/WikiData/WD~Prize_of_the_City_of_Vienna_for_Natural_Sciences,1804550]]"
-  - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
-  - "[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~Silver_Leibniz_medal,56117454]]"
+- '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
+- '[[_Standards/WikiData/WD~Max_Planck_Medal,317038]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
+- '[[_Standards/WikiData/WD~Prize_of_the_City_of_Vienna_for_Natural_Sciences,1804550]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Silver_Leibniz_medal,56117454]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]"
-  - "[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]"
-  - "[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~biografiA_Lexikon_österreichischer_Frauen,98281053]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Wissenschafterinnen_in_und_aus_Österreich,101064178]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_Women_Worldwide,105802405]]"
-  - "[[_Standards/WikiData/WD~KALLIOPE_Austria,110290935]]"
-  - "[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]"
-  - "[[_Standards/WikiData/WD~Women_In_Science,113116304]]"
-  - "[[_Standards/WikiData/WD~Q125459804,125459804]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
+- '[[_Standards/WikiData/WD~Dictionary_of_Swedish_National_Biography,379406]]'
+- '[[_Standards/WikiData/WD~Svenskt_kvinnobiografiskt_lexikon,50395049]]'
+- '[[_Standards/WikiData/WD~Forgotten_Women_The_Scientists,66758970]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~biografiA_Lexikon_österreichischer_Frauen,98281053]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Wissenschafterinnen_in_und_aus_Österreich,101064178]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Women_Worldwide,105802405]]'
+- '[[_Standards/WikiData/WD~KALLIOPE_Austria,110290935]]'
+- '[[_Standards/WikiData/WD~Pioneers_of_Science_and_Technology,112892854]]'
+- '[[_Standards/WikiData/WD~Women_In_Science,113116304]]'
+- '[[_Standards/WikiData/WD~Q125459804,125459804]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Cisleithania,533534]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]"
-given_name: "[[_Standards/WikiData/WD~Elise,1330670]]"
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+given_name: '[[_Standards/WikiData/WD~Elise,1330670]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~discovery_of_nuclear_fission,1344449]]"
-  - "[[_Standards/WikiData/WD~discovery,12772819]]"
+- '[[_Standards/WikiData/WD~discovery_of_nuclear_fission,1344449]]'
+- '[[_Standards/WikiData/WD~discovery,12772819]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Protestant_Church_of_the_Augsburg_Confession_in_Austria,1380438]]"
-  - "[[_Standards/WikiData/WD~Judaism,9268]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[_Standards/WikiData/WD~Protestant_Church_of_the_Augsburg_Confession_in_Austria,1380438]]'
+- '[[_Standards/WikiData/WD~Judaism,9268]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-  - "[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]"
+- '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Project_Svenskt_kvinnobiografiskt_lexikon,100741461]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Auguste_Frisch,15635377]]"
-  - "[[_Standards/WikiData/WD~Frida_Frischauer_Meitner,102311964]]"
-  - "[[_Standards/WikiData/WD~Fritz_Meitner,109662280]]"
-family_name: "[[_Standards/WikiData/WD~pollender,18729891]]"
+- '[[_Standards/WikiData/WD~Auguste_Frisch,15635377]]'
+- '[[_Standards/WikiData/WD~Frida_Frischauer_Meitner,102311964]]'
+- '[[_Standards/WikiData/WD~Fritz_Meitner,109662280]]'
+family_name: '[[_Standards/WikiData/WD~pollender,18729891]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]"
-place_of_burial: "[[_Standards/WikiData/WD~St_James_Churchyard,98272559]]"
-mother: "[[_Standards/WikiData/WD~Hedwig_Meitner,115118426]]"
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
+place_of_burial: '[[_Standards/WikiData/WD~St_James_Churchyard,98272559]]'
+mother: '[[_Standards/WikiData/WD~Hedwig_Meitner,115118426]]'
 date_of_birth: 1878-11-01T00:00:00Z
-place_of_death: "[[_Standards/WikiData/WD~Cambridge,350]]"
+place_of_death: '[[_Standards/WikiData/WD~Cambridge,350]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Cambridge,350]]"
-  - "[[_Standards/WikiData/WD~Stockholm,1754]]"
-field_of_work: "[[_Standards/WikiData/WD~physics,413]]"
-place_of_birth: "[[_Standards/WikiData/WD~Vienna,1741]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+- '[[_Standards/WikiData/WD~Cambridge,350]]'
+- '[[_Standards/WikiData/WD~Stockholm,1754]]'
+field_of_work: '[[_Standards/WikiData/WD~physics,413]]'
+place_of_birth: '[[_Standards/WikiData/WD~Vienna,1741]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physics,38104]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/MATNER_LIZE.html
 Regensburg_Classification: UB 2693
 name_in_native_language: Elise Meitner
@@ -117,8 +151,8 @@ Commons_gallery: Lise Meitner
 Commons_category: Lise Meitner
 date_of_death: 1968-10-27T00:00:00Z
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wien-Akademisches%20Gymnasium-10-Lise%20Meitner-2005-gje.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Berliner%20Gedenktafel%20Hessische%20Str%201%20%28Mitte%29%20Lise%20Meitner.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wien-Akademisches%20Gymnasium-10-Lise%20Meitner-2005-gje.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Berliner%20Gedenktafel%20Hessische%20Str%201%20%28Mitte%29%20Lise%20Meitner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lise%20Meitner%20%281878-1968%29%2C%20lecturing%20at%20Catholic%20University%2C%20Washington%2C%20D.C.%2C%201946.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Lise%20Meitner%20Grave.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Lise%20Meitner%20signature.svg
@@ -126,33 +160,129 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027
 described_at_URL: http://www.digiporta.net/index.php?id=477511648
 ISNI: 109093889
 BHCL_UUID: 8b88ff48-d17e-40c1-802c-9fb70d1ab9f3
-Wolfram_Language_entity_code: Entity"Concept", "LiseMeitner = `=this.dv_"Concept", "LiseMeitner` 
+Wolfram_Language_entity_code: Entity"Concept", "LiseMeitner = `=this.dv_"Concept", "LiseMeitner`
 dv_"Concept", "LiseMeitner: 484r5"
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Lise_Meitner,56189]]"
-    - "[[/_Standards/Chemistry/Chemist/Meitner,Lise|Meitner,Lise]]"
-    - "[[/_public/Chemistry/Chemist/Meitner,Lise.public|Meitner,Lise.public]]"
-    - "[[/_internal/Chemistry/Chemist/Meitner,Lise.internal|Meitner,Lise.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Meitner,Lise.protect|Meitner,Lise.protect]]"
-    - "[[/_private/Chemistry/Chemist/Meitner,Lise.private|Meitner,Lise.private]]"
-    - "[[/_personal/Chemistry/Chemist/Meitner,Lise.personal|Meitner,Lise.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Meitner,Lise.secret|Meitner,Lise.secret]]"
+  - '[[../../WikiData/WD~Lise_Meitner,56189]]'
+  - '[[/_Standards/Chemistry/Chemist/Meitner,Lise|Meitner,Lise]]'
+  - '[[/_public/Chemistry/Chemist/Meitner,Lise.public|Meitner,Lise.public]]'
+  - '[[/_internal/Chemistry/Chemist/Meitner,Lise.internal|Meitner,Lise.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Meitner,Lise.protect|Meitner,Lise.protect]]'
+  - '[[/_private/Chemistry/Chemist/Meitner,Lise.private|Meitner,Lise.private]]'
+  - '[[/_personal/Chemistry/Chemist/Meitner,Lise.personal|Meitner,Lise.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Meitner,Lise.secret|Meitner,Lise.secret]]'
 dv_has_:
-  created: "[[../Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]"
+  created: '[[../Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]'
+  name_:
+    af: Lise Meitner
+    ar: ليز مايتنر
+    arz: ليز مايتنر
+    ast: Lise Meitner
+    az: Liza Maytner
+    azb: لیزه مایتنر
+    ba: Мейтнер Лиза
+    be: Лізэ Майтнер
+    be-tarask: Лізэ Майтнэр
+    bg: Лиза Майтнер
+    bn: লিজে মাইটনার
+    bs: Lise Meitner
+    ca: Lise Meitner
+    ckb: لیز مایتنەر
+    cs: Lise Meitnerová
+    cy: Lise Meitner
+    da: Lise Meitner
+    de: Lise Meitner
+    de-ch: Lise Meitner
+    ee: Lise Meitner
+    el: Λίζε Μάιτνερ
+    en: Lise Meitner
+    en-ca: Lise Meitner
+    en-gb: Lise Meitner
+    en-us: Lise Meitner
+    eo: Lise Meitner
+    es: Lise Meitner
+    et: Lise Meitner
+    eu: Lise Meitner
+    ext: Lise Meitner
+    fa: لیزه مایتنر
+    fi: Lise Meitner
+    fo: Lise Meitner
+    fr: Lise Meitner
+    ga: Lise Meitner
+    gd: Lise Meitner
+    gl: Lise Meitner
+    he: ליזה מייטנר
+    hi: लिज़ मेट्नर
+    hr: Lise Meitner
+    ht: Lise Meitner
+    hu: Lise Meitner
+    hy: Լիզա Մեյտներ
+    ia: Lise Meitner
+    id: Lise Meitner
+    ie: Lise Meitner
+    ig: Lise Meitner
+    io: Lise Meitner
+    is: Lise Meitner
+    it: Lise Meitner
+    ja: リーゼ・マイトナー
+    ka: ლიზა მაიტნერი
+    kk: Лиза Мейтнер
+    kl: Lise Meitner
+    kn: ಲೀಸ್ ಮೇಟ್ನರ್
+    ko: 리제 마이트너
+    la: Lisa Meitner
+    lb: Lise Meitner
+    lt: Lise Meitner
+    lv: Līze Meitnere
+    mg: Lise Meitner
+    mk: Лиза Мајтнер
+    ml: ലിസെ മെയ്റ്റ്നർ
+    nb: Lise Meitner
+    nds: Lise Meitner
+    nl: Lise Meitner
+    nn: Lise Meitner
+    oc: Lise Meitner
+    pa: ਲੀਜ਼ ਮੀਟਨਰ
+    pap: Lise Meitner
+    pl: Lise Meitner
+    pms: Lise Meitner
+    pnb: لزے میٹنر
+    ps: ليز مايټنر
+    pt: Lise Meitner
+    pt-br: Lise Meitner
+    qu: Lise Meitner
+    ro: Lise Meitner
+    ru: Лизе Майтнер
+    sco: Lise Meitner
+    sh: Lise Meitner
+    sk: Lise Meitnerová
+    sl: Lise Meitner
+    sq: Lise Meitner
+    sr: Лиса Мајтнер
+    sv: Lise Meitner
+    ta: லீஸ் மெயிட்னர்
+    te: లిసే మైట్నర్
+    th: ลีเซอ ไมท์เนอร์
+    tr: Lise Meitner
+    uk: Ліза Майтнер
+    vi: Lise Meitner
+    wuu: 莉泽·迈特纳
+    xmf: ლიზა მაიტნერი
+    yue: 邁特納
+    zh: 莉泽·迈特纳
 dv_concept-lisemeitner: 484r5"
 dv_is_same_as:
-  - "[[../../WikiData/WD~Lise_Meitner,56189]]"
-  - "[[/_Standards/Chemistry/Chemist/Meitner,Lise|Meitner,Lise]]"
-  - "[[/_public/Chemistry/Chemist/Meitner,Lise.public|Meitner,Lise.public]]"
-  - "[[/_internal/Chemistry/Chemist/Meitner,Lise.internal|Meitner,Lise.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Meitner,Lise.protect|Meitner,Lise.protect]]"
-  - "[[/_private/Chemistry/Chemist/Meitner,Lise.private|Meitner,Lise.private]]"
-  - "[[/_personal/Chemistry/Chemist/Meitner,Lise.personal|Meitner,Lise.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Meitner,Lise.secret|Meitner,Lise.secret]]"
-dv_has_created: "[[../Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]"
+- '[[../../WikiData/WD~Lise_Meitner,56189]]'
+- '[[/_Standards/Chemistry/Chemist/Meitner,Lise|Meitner,Lise]]'
+- '[[/_public/Chemistry/Chemist/Meitner,Lise.public|Meitner,Lise.public]]'
+- '[[/_internal/Chemistry/Chemist/Meitner,Lise.internal|Meitner,Lise.internal]]'
+- '[[/_protect/Chemistry/Chemist/Meitner,Lise.protect|Meitner,Lise.protect]]'
+- '[[/_private/Chemistry/Chemist/Meitner,Lise.private|Meitner,Lise.private]]'
+- '[[/_personal/Chemistry/Chemist/Meitner,Lise.personal|Meitner,Lise.personal]]'
+- '[[/_secret/Chemistry/Chemist/Meitner,Lise.secret|Meitner,Lise.secret]]'
+dv_has_created: '[[../Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]'
 ---
-
 # [[Meitner,Lise]] 
 
 #is_/same_as :: [[WD~Lise_Meitner,56189]] 

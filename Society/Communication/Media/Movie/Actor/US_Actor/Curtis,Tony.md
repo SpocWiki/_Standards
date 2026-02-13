@@ -1,9 +1,130 @@
 ---
 aliases:
-  - Tony Curtis
-  - Curtis,Tony
+- Antonius Curtis
+- Curtis,Tony
+- Toni Kertis
+- Toni Körtis
+- Tonijs Kērtiss
+- Tony Curtis
+- Τόνι Κέρτις
+- Тоні Кёртыс
+- Тоні Кертіс
+- Тоні Кэртыс
+- Тони Кёртис
+- Тони Кертис
+- Тони Къртис
+- Թոնի Քերթիս
+- טוני קרטיס
+- تونى كرتيس
+- توني كرتيس
+- تونی کرتیس
+- تۆنی کێرتس
+- ٹونی کرٹس
+- টনি কার্টিস
+- โทนี เคอร์ติส
+- ტონი კერტისი
+- トニー・カーティス
+- 东尼·寇蒂斯
+- 托尼·柯蒂斯
+- 東尼·柯蒂斯
+- 湯尼·寇蒂斯
+- 토니 커티스
+has_id_wikidata: Q162389
+dv_has_:
+  name_:
+    af: Tony Curtis
+    an: Tony Curtis
+    ar: توني كرتيس
+    arz: تونى كرتيس
+    ast: Tony Curtis
+    az: Toni Körtis
+    azb: تونی کرتیس
+    bcl: Tony Curtis
+    be: Тоні Кёртыс
+    be-tarask: Тоні Кэртыс
+    bg: Тони Къртис
+    bn: টনি কার্টিস
+    br: Tony Curtis
+    ca: Tony Curtis
+    ckb: تۆنی کێرتس
+    cs: Tony Curtis
+    cy: Tony Curtis
+    da: Tony Curtis
+    de: Tony Curtis
+    de-ch: Tony Curtis
+    el: Τόνι Κέρτις
+    en: Tony Curtis
+    en-ca: Tony Curtis
+    en-gb: Tony Curtis
+    en-us: Tony Curtis
+    eo: Tony Curtis
+    es: Tony Curtis
+    et: Tony Curtis
+    eu: Tony Curtis
+    fa: تونی کرتیس
+    fi: Tony Curtis
+    fr: Tony Curtis
+    ga: Tony Curtis
+    gd: Tony Curtis
+    gl: Tony Curtis
+    he: טוני קרטיס
+    hr: Tony Curtis
+    hu: Tony Curtis
+    hy: Թոնի Քերթիս
+    id: Tony Curtis
+    io: Tony Curtis
+    is: Tony Curtis
+    it: Tony Curtis
+    ja: トニー・カーティス
+    ka: ტონი კერტისი
+    ko: 토니 커티스
+    la: Antonius Curtis
+    lb: Tony Curtis
+    lt: Tony Curtis
+    lv: Tonijs Kērtiss
+    mk: Тони Кертис
+    mul: Tony Curtis
+    nb: Tony Curtis
+    nl: Tony Curtis
+    nn: Tony Curtis
+    oc: Tony Curtis
+    pap: Tony Curtis
+    pl: Tony Curtis
+    pms: Tony Curtis
+    pt: Tony Curtis
+    pt-br: Tony Curtis
+    qu: Tony Curtis
+    ro: Tony Curtis
+    ru: Тони Кёртис
+    sco: Tony Curtis
+    sh: Tony Curtis
+    sk: Tony Curtis
+    sl: Tony Curtis
+    sq: Tony Curtis
+    sr: Тони Кертис
+    sr-ec: Тони Кертис
+    sr-el: Toni Kertis
+    sv: Tony Curtis
+    sw: Tony Curtis
+    th: โทนี เคอร์ติส
+    tl: Tony Curtis
+    tr: Tony Curtis
+    uk: Тоні Кертіс
+    ur: ٹونی کرٹس
+    uz: Tony Curtis
+    vi: Tony Curtis
+    vo: Tony Curtis
+    wuu: 托尼·柯蒂斯
+    yo: Tony Curtis
+    zh: 托尼·柯蒂斯
+    zh-cn: 托尼·柯蒂斯
+    zh-hans: 托尼·柯蒂斯
+    zh-hant: 湯尼·寇蒂斯
+    zh-hk: 東尼·柯蒂斯
+    zh-my: 东尼·寇蒂斯
+    zh-sg: 东尼·寇蒂斯
+    zh-tw: 湯尼·寇蒂斯
 ---
-
 #has_/time_/started :: 1925-06-03 
 #has_/time_/stopped :: 2010-09-29 
 #is_/parent_of :: [[Curtis,Jamie_Lee]]

@@ -1,9 +1,59 @@
 ---
 aliases:
-  - Hylinae
+- Hilinos
+- Hylinae
+- Kokvaržu apakšdzimta
+- Laubfrösche
+- אילניות
+- 树蟾亚科
+- 청개구리아과
 title: Hylinae
+has_id_wikidata: Q2496781
+dv_has_:
+  name_:
+    an: Hylinae
+    ast: Hylinae
+    bg: Hylinae
+    ca: Hylinae
+    ceb: Hylinae
+    de: Laubfrösche
+    en: Hylinae
+    eo: Hylinae
+    es: Hylinae
+    eu: Hylinae
+    ext: Hylinae
+    fi: Hylinae
+    fr: Hylinae
+    ga: Hylinae
+    gl: Hilinos
+    he: אילניות
+    hu: Hylinae
+    ia: Hylinae
+    ie: Hylinae
+    io: Hylinae
+    it: Hylinae
+    ko: 청개구리아과
+    la: Hylinae
+    lv: Kokvaržu apakšdzimta
+    mul: Hylinae
+    nl: Hylinae
+    oc: Hylinae
+    pl: Hylinae
+    pt: Hylinae
+    pt-br: Hylinae
+    ro: Hylinae
+    ru: Hylinae
+    sl: Hylinae
+    sq: Hylinae
+    tr: Hylinae
+    uk: Hylinae
+    vi: Hylinae
+    vo: Hylinae
+    war: Hylinae
+    zh: 树蟾亚科
+    zh-cn: 树蟾亚科
+    zh-hans: 树蟾亚科
 ---
-
 # [[Hylinae]] 
 
 ## #has_/text_of_/abstract 

@@ -66,7 +66,8 @@ Use it like this:
 - #has_/code_/of_unit : : Text, URL  
 - has_code_of_unit : : Text, URL  
 
-The unit of measurement given using the UN/CEFACT Common Code (3 characters) or a URL. Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.
+The unit of measurement given using the UN/[[../../../UN(United_Nations)/CEFACT|CEFACT]] Common Code (3 characters) or a URL. 
+Other codes than the UN/CEFACT Common Code may be used with a prefix followed by a colon.
 
 Predicated describes that: 
 

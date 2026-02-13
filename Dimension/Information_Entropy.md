@@ -1,46 +1,155 @@
 ---
 aliases:
-  - Information Entropy
-  - Information
-  - Entropy
-  - Information_Entropy
+- eantrópacht Shannon
+- Entropi
+- Entropi gwybodaeth
+- entropi informasi
+- entropia
+- Entropia (informaatioteoria)
+- Entropia (informazio-teoria)
+- entropia da informação
+- entropia de Shannon
+- Entropia e informacionit
+- Entropie
+- Entropie (Inligtingsteorie)
+- entropie de Shannon
+- entropie informací
+- entropie informațională
+- Entropija
+- Entropy
+- Entropy thông tin
+- entropía
+- entropía da información
+- informa entropio
+- informacijska entropija
+- informasjonsentropi
+- Information
+- Information Entropy
+- Information_Entropy
+- Shannon-entrópiafüggvény
+- Éntropi informasi
+- Εντροπία πληροφοριών
+- інфармацыйная энтрапія
+- інформаційна ентропія
+- ентропија
+- Ентропия на Шанън
+- информационная энтропия
+- информациска ентропија
+- Шеннонын формулжо
+- אנטרופיה
+- آنتروپی اطلاعات
+- ئانترۆپیی زانیاری
+- اعتلاج المعلومات
+- درمائلت
+- ਐਨਟ੍ਰੌਪੀ
+- సమాచార సంకరత
+- เอนโทรปีของข้อมูล
+- 信息熵
+- 情報量
+- 熵
+- 訊息熵
+- 資訊熵
+- 정보 엔트로피
 has_id_wikidata: Q204570
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Claude_Shannon,92760]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-  - '[[_Standards/WikiData/WD~information_content,735075]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~information_content,735075]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~information_theory,131222]]'
-  - '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~information_theory,131222]]'
+- '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 different_from:
-  - '[[_Standards/WikiData/WD~negentropy,252552]]'
-  - '[[_Standards/WikiData/WD~data_size,105666562]]'
+- '[[_Standards/WikiData/WD~negentropy,252552]]'
+- '[[_Standards/WikiData/WD~data_size,105666562]]'
 opposite_of: '[[_Standards/WikiData/WD~negentropy,252552]]'
 recommended_unit_of_measurement:
-  - '[[_Standards/WikiData/WD~hartley,324923]]'
-  - '[[_Standards/WikiData/WD~nat,376660]]'
-  - '[[_Standards/WikiData/WD~shannon,15551713]]'
+- '[[_Standards/WikiData/WD~hartley,324923]]'
+- '[[_Standards/WikiData/WD~nat,376660]]'
+- '[[_Standards/WikiData/WD~shannon,15551713]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~mathematical_expression,6498784]]'
-  - '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~mathematical_expression,6498784]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source: '[[_Standards/WikiData/WD~IEC_80000_13_2008_Quantities_and_units_Part_13_Information_science_and_technology,26711945]]'
 quantity_symbol_LaTeX_:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
 Wikidata_property: information entropy
 facet_of: '[[_Standards/WikiData/WD~information,11028]]'
 IEV_number: 171-07-15
 Library_of_Congress_Classification: Q370
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>I</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>I</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
 Commons_category: Entropy and information
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi><mo stretchy="false">(</mo><mi>X</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x2211;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>i</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><mi>p</mi><mo stretchy="false">(</mo><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub><mo stretchy="false">)</mo><mi>I</mi><mo stretchy="false">(</mo><msub><mi>x</mi><mrow data-mjx-texclass="ORD"><mi>i</mi></mrow></msub><mo stretchy="false">)</mo></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: Entropie (Inligtingsteorie)
+    ar: اعتلاج المعلومات
+    bar: Entropie
+    be-tarask: інфармацыйная энтрапія
+    bg: Ентропия на Шанън
+    bs: Entropija
+    ca: entropia de Shannon
+    ckb: ئانترۆپیی زانیاری
+    cs: entropie informací
+    cy: Entropi gwybodaeth
+    da: Entropi
+    de: Entropie
+    el: Εντροπία πληροφοριών
+    en: information entropy
+    eo: informa entropio
+    es: entropía
+    eu: Entropia (informazio-teoria)
+    fa: آنتروپی اطلاعات
+    fi: Entropia (informaatioteoria)
+    fr: entropie de Shannon
+    ga: eantrópacht Shannon
+    gl: entropía da información
+    he: אנטרופיה
+    hu: Shannon-entrópiafüggvény
+    id: entropi informasi
+    it: entropia
+    ja: 情報量
+    ko: 정보 엔트로피
+    lt: entropija
+    mhr: Шеннонын формулжо
+    mk: информациска ентропија
+    nb: informasjonsentropi
+    nl: entropie
+    nn: informasjonsentropi
+    pa: ਐਨਟ੍ਰੌਪੀ
+    pl: entropia
+    pt: entropia da informação
+    pt-br: entropia da informação
+    ro: entropie informațională
+    ru: информационная энтропия
+    sk: Entropia
+    sl: informacijska entropija
+    sq: Entropia e informacionit
+    sr: ентропија
+    sr-ec: ентропија
+    sr-el: entropija
+    su: Éntropi informasi
+    sv: entropi
+    te: సమాచార సంకరత
+    th: เอนโทรปีของข้อมูล
+    tr: Entropi
+    uk: інформаційна ентропія
+    ur: درمائلت
+    vi: Entropy thông tin
+    yue: 訊息熵
+    zh: 信息熵
+    zh-cn: 熵
+    zh-hans: 信息熵
+    zh-hant: 資訊熵
+    zh-hk: 熵
+    zh-sg: 熵
+    zh-tw: 資訊熵
 ---
-
 # [[Information_Entropy]] 
 
 #is_/same_as :: [[WikiData/WD~Information_entropy,204570|WD~Information_entropy,204570]] 

@@ -1,62 +1,269 @@
 ---
 aliases:
-  - शिव
-  - Śiva
-  - ɕɪʋɐ
-  - Mahadeva
-  - महादेव
-  - Mahādevaḥ
-  - Hara
-  - Shiva
+- Dewa Siva
+- Déwa Siwa
+- Hara
+- jan sewi Siwa
+- Mahadeva
+- Mahādevaḥ
+- Schiwa
+- Shiv
+- Shiva
+- Shivá
+- Siva
+- Sivus
+- Siwa
+- Siwah
+- Sjiva
+- Sjiwa
+- Sék-bò̤
+- Síva
+- Síve
+- Xiva
+- Śiva
+- Śiwa
+- Ŝivo
+- Şiva
+- Šiva
+- ɕɪʋɐ
+- Σίβα
+- Шіва
+- Шивæ
+- Шива
+- Шыва
+- Շիվա
+- שיווה
+- شيفا
+- شيڤا
+- شِو
+- شیو
+- شیوا
+- شیڤا
+- महादेव
+- महाद्यः
+- शिव
+- 'शिव: Shiva'
+- शिवः
+- শিব
+- শিৱ
+- ਸ਼ਿਵ
+- શિવ
+- ଶିବ
+- சிவன்
+- శివుడు
+- ಈಶ್ವರ
+- ಶಿವ
+- ശിവൻ
+- ශිව
+- พระศิวะ
+- ພະສິວະ
+- དབང་ཕྱུག
+- သိဝ
+- შივა
+- ព្រះសីវៈ
+- ᱥᱤᱵᱚ
+- シヴァ
+- 希瓦
+- 湿婆
+- 濕婆
+- ꯁꯤꯚ
+- 시바
 has_id_wikidata: Q11378
 spouse:
-  - "[[_Standards/WikiData/WD~Parvati,170485]]"
-  - "[[_Standards/WikiData/WD~Sati,1796078]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Shaivism,234953]]"
+- '[[_Standards/WikiData/WD~Parvati,170485]]'
+- '[[_Standards/WikiData/WD~Sati,1796078]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Shaivism,234953]]'
 child:
-  - "[[_Standards/WikiData/WD~Kartikeya,380817]]"
-  - "[[_Standards/WikiData/WD~Ayyappan,2477202]]"
-  - "[[_Standards/WikiData/WD~Ashokasundari,16039150]]"
-  - "[[_Standards/WikiData/WD~Ganesha,1579]]"
+- '[[_Standards/WikiData/WD~Kartikeya,380817]]'
+- '[[_Standards/WikiData/WD~Ayyappan,2477202]]'
+- '[[_Standards/WikiData/WD~Ashokasundari,16039150]]'
+- '[[_Standards/WikiData/WD~Ganesha,1579]]'
 iconographic_symbol:
-  - "[[_Standards/WikiData/WD~linga,468895]]"
-  - "[[_Standards/WikiData/WD~damaru,1158229]]"
-  - "[[_Standards/WikiData/WD~Vasuki,1635469]]"
-  - "[[_Standards/WikiData/WD~trishula,3539698]]"
+- '[[_Standards/WikiData/WD~linga,468895]]'
+- '[[_Standards/WikiData/WD~damaru,1158229]]'
+- '[[_Standards/WikiData/WD~Vasuki,1635469]]'
+- '[[_Standards/WikiData/WD~trishula,3539698]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-mount: "[[_Standards/WikiData/WD~Nandi,841255]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+mount: '[[_Standards/WikiData/WD~Nandi,841255]]'
 armament:
-  - "[[_Standards/WikiData/WD~Pashupatastra,880573]]"
-  - "[[_Standards/WikiData/WD~trishula,3539698]]"
+- '[[_Standards/WikiData/WD~Pashupatastra,880573]]'
+- '[[_Standards/WikiData/WD~trishula,3539698]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Hindu_deity,979507]]"
-  - "[[_Standards/WikiData/WD~god,6058157]]"
-  - "[[_Standards/WikiData/WD~legendary_figure,13002315]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Maheśvara,10937402]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27102922,27102922]]"
-residence: "[[_Standards/WikiData/WD~Kailasha,125758286]]"
+- '[[_Standards/WikiData/WD~Hindu_deity,979507]]'
+- '[[_Standards/WikiData/WD~god,6058157]]'
+- '[[_Standards/WikiData/WD~legendary_figure,13002315]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Maheśvara,10937402]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27102922,27102922]]'
+residence: '[[_Standards/WikiData/WD~Kailasha,125758286]]'
 date_of_birth: http://www.wikidata.org/.well-known/genid/499108de3884ba945f0d48bfb6ae5d9a
 worshipped_by:
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
-  - "[[_Standards/WikiData/WD~Jainism,9232]]"
-part_of: "[[_Standards/WikiData/WD~Trimurti,9595]]"
+- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Jainism,9232]]'
+part_of: '[[_Standards/WikiData/WD~Trimurti,9595]]'
 Commons_category: Shiva
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B6%E0%A4%BF%E0%A4%B5.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shiva%20meditating%20Rishikesh.jpg
 Stack_Exchange_tag: https://hinduism.stackexchange.com/tags/shiva
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SHIVA.html
 IPA_transcription: Śiva
-native_label: 𑖫𑖰𑖪
+native_label: "\U000115AB\U000115B0\U000115AA"
+dv_has_:
+  name_:
+    af: Sjiwa
+    an: Śiva
+    anp: शिव
+    ar: شيفا
+    arz: شيڤا
+    as: শিৱ
+    ast: Shivá
+    awa: शिव
+    az: Şiva
+    azb: شیوا
+    ba: Шива
+    ban: Déwa Siwa
+    bcl: Shiva
+    be: Шыва
+    be-tarask: Шыва
+    bg: Шива
+    bho: शिव
+    bn: শিব
+    bo: དབང་ཕྱུག
+    br: Śiva
+    bs: Šiva
+    ca: Xiva
+    cdo: Sék-bò̤
+    ceb: Shiva
+    ckb: شیڤا
+    crh: Şiva
+    cs: Šiva
+    cv: Шива
+    cy: Shiva
+    da: Shiva
+    de: Shiva
+    dty: शिव
+    el: Σίβα
+    en: Shiva
+    en-ca: Shiva
+    en-gb: Shiva
+    eo: Ŝivo
+    es: Shiva
+    et: Šiva
+    eu: Shiva
+    fa: شیوا
+    fi: Shiva
+    fr: Shiva
+    ga: Síve
+    gl: Shiva
+    gn: Shiva
+    gom: शिव
+    gom-deva: शिव
+    gom-latn: Shiva
+    gsw: Shiva
+    gu: શિવ
+    he: שיווה
+    hi: शिव
+    hif: Shiv
+    hr: Šiva
+    ht: Shiva
+    hu: Siva
+    hy: Շիվա
+    ia: Shiva
+    id: Siwa
+    io: Shiva
+    is: Síva
+    it: Śiva
+    ja: シヴァ
+    jbo: Shiva
+    jv: Siwah
+    ka: შივა
+    kaa: Shiva
+    kk: Шива
+    km: ព្រះសីវៈ
+    kn: ಶಿವ
+    ko: 시바
+    ks: شِو
+    ky: Шива
+    la: Sivus
+    lfn: Xiva
+    lo: ພະສິວະ
+    lt: Šiva
+    lv: Šiva
+    mag: शिव
+    mai: शिव
+    mg: Shiva
+    mhr: Шива
+    mk: Шива
+    ml: ശിവൻ
+    mni: ꯁꯤꯚ
+    mr: शिव
+    ms: Dewa Siva
+    my: သိဝ
+    mzn: شیوا
+    nan: Shiva
+    nb: Shiva
+    nds: Schiwa
+    ne: शिव
+    new: महाद्यः
+    nl: Shiva
+    nn: Sjiva
+    oc: Shiva
+    or: ଶିବ
+    os: Шивæ
+    pa: ਸ਼ਿਵ
+    pi: 'शिव: Shiva'
+    pl: Śiwa
+    pms: Shiva
+    pnb: شیوا
+    pt: Xiva
+    pt-br: Shiva
+    ro: Shiva
+    ru: Шива
+    rue: Шіва
+    sa: शिवः
+    sah: Шива
+    sat: ᱥᱤᱵᱚ
+    sco: Shiva
+    sd: شِو
+    sh: Šiva
+    si: ශිව
+    sk: Šiva
+    sl: Šiva
+    sq: Shiva
+    sr: Шива
+    sr-ec: Шива
+    su: Shiva
+    sv: Shiva
+    sw: Shiva
+    ta: சிவன்
+    tcy: ಈಶ್ವರ
+    te: శివుడు
+    th: พระศิวะ
+    tl: Siva
+    tok: jan sewi Siwa
+    tr: Şiva
+    tt: Шива
+    uk: Шива
+    ur: شیو
+    uz: Shiva
+    vi: Shiva
+    vo: Siva
+    vro: Šiva
+    war: Shiva
+    wuu: 希瓦
+    xmf: შივა
+    yue: 濕婆
+    zh: 湿婆
+    zh-hant: 濕婆
+    zh-tw: 濕婆
 ---
-
 # [[Shiva]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Shiva,11378|WD~Shiva,11378]] 

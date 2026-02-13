@@ -1,47 +1,209 @@
 ---
 aliases:
-  - Winged insects
-  - Winged insect
-  - Pterygota
-  - مکھّی
-  - Fluginsekten
-  - Geflügelte Insekten
-  - pterygotan
-  - Pterigotos
-  - Ptérygotes
-  - Gevleugelde insecten
-  - krilate žuželke
-  - крилаті комахи
+- bevingade insekter
+- Chʼosh bitʼaʼ dahólónígíí
+- côn trùng có cánh
+- Fleeginsekten
+- Fluchinsekte
+- Flugilaj insektoj
+- Fluginsekte
+- Fluginsekten
+- Flygande insekt
+- Geflügelte Insekten
+- Gevleugelde insecten
+- Kanatlı böcekler
+- kirdee tivreh
+- krilate žuželke
+- Krilati insekti
+- krilaši
+- křídlatí
+- owady uskrzydlone
+- Pterigot
+- Pterigoti
+- Pterigotos
+- Pterygota
+- pterygotan
+- Ptérygotes
+- Qanadlılar
+- siipikantaiset
+- Sparnuotieji
+- spārneņi
+- szárnyas rovarok
+- vingede insekter
+- Vængberar
+- Winged insect
+- Winged insects
+- Πτερυγωτά
+- крилаті комахи
+- крилати инсекти
+- крилати насекоми
+- крилести инсекти
+- крылатые насекомые
+- крылатыя
+- Крылатыя насякомыя
+- Қанатты жәндіктер
+- Ҫунатлӑ кăпшанкăсем
+- בעלי־כנף
+- بالداران
+- جناحيات
+- مکھّی
+- وزر لرونکی خوځندکې
+- پردار حشرات
+- റ്റെറിഗോട്ട
+- 有翅亚纲
+- 有翅亜綱
+- 有翅亞綱
+- 유시아강
 has_id_wikidata: Q22708
 title: Pterygota
 homonymous_taxon: '[[_Standards/WikiData/WD~Pterygota,2743384]]'
 taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051]]'
 has_part_s_: '[[_Standards/WikiData/WD~animal_wing,12032322]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Paranotalia,123422282]]'
 studied_by: '[[_Standards/WikiData/WD~entomology,39286]]'
 ITIS_TSN: 100500
 taxon_common_name:
-  - مکھّی
-  - Fluginsekten
-  - Geflügelte Insekten
-  - pterygotan
-  - Pterigotos
-  - Ptérygotes
-  - Gevleugelde insecten
-  - Pterigotos
-  - krilate žuželke
-  - крилаті комахи
+- مکھّی
+- Fluginsekten
+- Geflügelte Insekten
+- pterygotan
+- Pterigotos
+- Ptérygotes
+- Gevleugelde insecten
+- Pterigotos
+- krilate žuželke
+- крилаті комахи
 Dewey_Decimal_Classification: 595.7
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pterygota.jpg
 MeSH_tree_code: B01.050.500.131.617.720
 UMLS_CUI: C0998616
 Commons_category: Pterygota
 taxon_name: Pterygota
+dv_has_:
+  name_:
+    af: Pterygota
+    an: Pterygota
+    ar: جناحيات
+    arz: جناحيات
+    ast: Pterygota
+    az: Qanadlılar
+    bar: Pterygota
+    be: Крылатыя насякомыя
+    be-tarask: крылатыя
+    bg: крилати насекоми
+    br: Pterygota
+    bs: Krilati insekti
+    ca: Pterigot
+    ceb: Pterygota
+    co: Pterygota
+    cs: křídlatí
+    cv: Ҫунатлӑ кăпшанкăсем
+    cy: Pterygota
+    da: Pterygota
+    de: Fluginsekten
+    de-at: Pterygota
+    de-ch: Pterygota
+    el: Πτερυγωτά
+    en: Pterygota
+    en-ca: Pterygota
+    en-gb: Pterygota
+    eo: Flugilaj insektoj
+    es: Pterygota
+    et: Pterygota
+    eu: Pterygota
+    ext: Pterygota
+    fa: بالداران
+    fi: siipikantaiset
+    fr: Pterygota
+    frp: Pterygota
+    fur: Pterygota
+    ga: Pterygota
+    gd: Pterygota
+    gl: Pterigotos
+    gsw: Fluginsekte
+    he: בעלי־כנף
+    hr: krilaši
+    hu: szárnyas rovarok
+    ia: Pterygota
+    id: Pterygota
+    ie: Pterygota
+    io: Pterygota
+    is: Vængberar
+    it: Pterygota
+    ja: 有翅亜綱
+    kg: Pterygota
+    kk: Қанатты жәндіктер
+    ko: 유시아강
+    la: Pterygota
+    lad: Pterygota
+    lb: Pterygota
+    li: Pterygota
+    lij: Pterygota
+    lmo: Pterygota
+    lt: Sparnuotieji
+    lv: spārneņi
+    mg: Pterygota
+    min: Pterygota
+    mk: крилести инсекти
+    ml: റ്റെറിഗോട്ട
+    ms: Pterygota
+    mul: Pterygota
+    nap: Pterygota
+    nb: vingede insekter
+    nds: Fleeginsekten
+    nds-nl: Pterygota
+    nl: Pterygota
+    nn: Flygande insekt
+    nov: Pterygota
+    nrm: Pterygota
+    nv: Chʼosh bitʼaʼ dahólónígíí
+    nys: Pterygota
+    oc: Pterygota
+    pcd: Pterygota
+    pfl: Fluchinsekte
+    pl: owady uskrzydlone
+    pms: Pterygota
+    ps: وزر لرونکی خوځندکې
+    pt: Pterygota
+    pt-br: Pterygota
+    rm: Pterygota
+    ro: Pterygota
+    ru: крылатые насекомые
+    rup: Pterygota
+    sc: Pterygota
+    scn: Pterigoti
+    sco: Pterygota
+    sh: Krilaši
+    sk: Pterygota
+    sl: krilate žuželke
+    smn: kirdee tivreh
+    sq: Pterygota
+    sr: крилати инсекти
+    stq: Pterygota
+    sv: bevingade insekter
+    sw: Pterygota
+    tr: Kanatlı böcekler
+    uk: крилаті комахи
+    ur: پردار حشرات
+    vec: Pterygota
+    vi: côn trùng có cánh
+    vls: Pterygota
+    vo: Pterygota
+    wa: Pterygota
+    war: Pterygota
+    wo: Pterygota
+    wuu: 有翅亚纲
+    yue: 有翅亞綱
+    zh: 有翅亞綱
+    zh-cn: 有翅亚纲
+    zh-hans: 有翅亚纲
+    zh-hant: 有翅亞綱
+    zh-tw: 有翅亞綱
+    zu: Pterygota
 ---
-
 # [[Pterygota]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pterygota,22708]] 

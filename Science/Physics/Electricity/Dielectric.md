@@ -1,17 +1,139 @@
 ---
 aliases:
+- dielectric
+- Dielekitiriki
+- Dielektrik
+- Dielektrika
+- Dielektrikas
+- Dielektriklar
+- Dielektriklər
+- dielektriko
+- Dielektrikum
+- dielektrinen aine
+- dielektrisk materiale
+- dielektriķis
+- dielektryk
+- dielettrico
+- dielèctric
+- dieléctrico
+- Dieléctricu
+- dielétrico
+- diélectrique
+- diëlektricum
+- Dyelektrik
+- Dïélektrïk
+- tréleictreach
+- Yalıtkan
+- Điện môi
+- διηλεκτρικό
+- діелектрики
+- Диелектрик
+- диэлектрик
+- Дыэлектрык
+- Դիէլեկտրիկներ
+- חומר דיאלקטרי
+- دىيەلەكترىيك
+- دیالکتریک
+- عازل كهربائي
+- परावैद्युत
+- অস্তরক
+- ഡൈഇലക്ട്രിക്
+- ไดอิเล็กทริก
+- დიელექტრიკი
+- 介电质
+- 介電質
+- 誘電体
+- 유전체 (물리학)
 has_id_wikidata: Q184996
-subclass_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-different_from: "[[_Standards/WikiData/WD~relative_permittivity,4027242]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+different_from: '[[_Standards/WikiData/WD~relative_permittivity,4027242]]'
 IEV_number: 121-12-10
-OmegaWiki_Defined_Meaning: "15978675"
+OmegaWiki_Defined_Meaning: 15978675
 Commons_category: Dielectric material
+dv_has_:
+  name_:
+    ar: عازل كهربائي
+    ast: Dieléctricu
+    az: Dielektriklər
+    be: Дыэлектрык
+    be-tarask: дыэлектрык
+    bg: Диелектрик
+    bn: অস্তরক
+    ca: dielèctric
+    cs: dielektrikum
+    cv: Диэлектрик
+    da: Dielektrikum
+    de: Dielektrikum
+    el: διηλεκτρικό
+    en: dielectric
+    en-ca: Dielectric
+    en-gb: Dielectric
+    eo: dielektriko
+    es: dieléctrico
+    et: Dielektrik
+    eu: dielektriko
+    fa: دیالکتریک
+    fi: dielektrinen aine
+    fj: Dielekitiriki
+    fr: diélectrique
+    ga: tréleictreach
+    gl: Dieléctrico
+    he: חומר דיאלקטרי
+    hi: परावैद्युत
+    hr: dielektrik
+    ht: Dyelektrik
+    hu: dielektrikum
+    hy: Դիէլեկտրիկներ
+    id: Dielektrik
+    io: Dielektriko
+    it: dielettrico
+    ja: 誘電体
+    ka: დიელექტრიკი
+    kk: Диэлектрик
+    kk-arab: دىيەلەكترىيك
+    kk-cn: دىيەلەكترىيك
+    kk-cyrl: Диэлектрик
+    kk-kz: Диэлектрик
+    kk-latn: Dïélektrïk
+    kk-tr: Dïélektrïk
+    ko: 유전체 (물리학)
+    lt: Dielektrikas
+    lv: dielektriķis
+    mk: Диелектрик
+    ml: ഡൈഇലക്ട്രിക്
+    nb: dielektrisk materiale
+    nl: diëlektricum
+    nn: dielektrikum
+    pl: dielektryk
+    pt: dielétrico
+    pt-br: Dielétrico
+    ro: dielectric
+    ru: диэлектрик
+    sh: Dielektrik
+    sk: Dielektrikum
+    sl: dielektrik
+    sr: Dielektrik
+    sv: Dielektrika
+    tg: Диэлектрик
+    th: ไดอิเล็กทริก
+    tr: Yalıtkan
+    uk: діелектрики
+    uz: Dielektriklar
+    vi: Điện môi
+    wuu: 介电质
+    yue: 介電質
+    zh: 介電質
+    zh-cn: 介电质
+    zh-hans: 介电质
+    zh-hant: 介電質
+    zh-hk: 介電質
+    zh-sg: 介电质
+    zh-tw: 介電質
 ---
-
 # [[Dielectric]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dielectric,184996|WD~Dielectric,184996]] 

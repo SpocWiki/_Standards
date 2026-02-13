@@ -1,38 +1,58 @@
 ---
 aliases:
-  - Thomas_Pynchon
-  - Thomas Ruggles Pynchon Jr.
-  - Thomas Ruggles Pynchon
-  - Thomas Pynchon
-  - Pynchon
-  - Pynchon,Thomas
+- Pynchon
+- Pynchon,Thomas
+- Thomas Pynchon
+- Thomas Ruggles Pynchon
+- Thomas Ruggles Pynchon Jr.
+- Thomas_Pynchon
+- Tomass Pinčons
+- Τόμας Πίντσον
+- Томас Пінчан
+- Томас Пінчон
+- Томас Пинчон
+- Томас Пинчън
+- Թոմաս Ռագգլզ Պինչոն-կրտսեր
+- תומאס פינצ'ון
+- توماس بينشون
+- توماس پینچن
+- تھامس پنچن
+- थॉमस पिन्चन
+- थोमस पिन्चोन
+- থমাস পিনচন
+- ทอมัส พินชอน
+- თომას პინჩონი
+- トマス・ピンチョン
+- 托马斯·品钦
+- 湯瑪斯·平瓊
+- 토머스 핀천
 has_id_wikidata: Q35155
 nominated_for:
-  - '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
-  - '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Fiction,833633]]'
-  - '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
-  - '[[_Standards/WikiData/WD~National_Book_Award_for_Fiction,3873144]]'
+- '[[_Standards/WikiData/WD~Nebula_Award_for_Best_Novel,266012]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Novel,595998]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Fiction,833633]]'
+- '[[_Standards/WikiData/WD~Locus_Award_for_Best_Science_Fiction_Novel,2576795]]'
+- '[[_Standards/WikiData/WD~National_Book_Award_for_Fiction,3873144]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Book_Award,572316]]'
-  - '[[_Standards/WikiData/WD~MacArthur_Fellows_Program,1543268]]'
-  - '[[_Standards/WikiData/WD~William_Dean_Howells_Medal_of_the_American_Academy_of_Arts_and_Letters,3332241]]'
-  - '[[_Standards/WikiData/WD~William_Faulkner_Foundation_Award,96781836]]'
+- '[[_Standards/WikiData/WD~National_Book_Award,572316]]'
+- '[[_Standards/WikiData/WD~MacArthur_Fellows_Program,1543268]]'
+- '[[_Standards/WikiData/WD~William_Dean_Howells_Medal_of_the_American_Academy_of_Arts_and_Letters,3332241]]'
+- '[[_Standards/WikiData/WD~William_Faulkner_Foundation_Award,96781836]]'
 place_of_birth: '[[_Standards/WikiData/WD~Glen_Cove,1006668]]'
 academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
 archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation:
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Oyster_Bay_High_School,7116316]]'
-  - '[[_Standards/WikiData/WD~Cornell_University,49115]]'
+- '[[_Standards/WikiData/WD~Oyster_Bay_High_School,7116316]]'
+- '[[_Standards/WikiData/WD~Cornell_University,49115]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Thomas,16428906]]'
-  - '[[_Standards/WikiData/WD~Ruggles,28800558]]'
+- '[[_Standards/WikiData/WD~Thomas,16428906]]'
+- '[[_Standards/WikiData/WD~Ruggles,28800558]]'
 family_name: '[[_Standards/WikiData/WD~Pynchon,21449815]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 father: '[[_Standards/WikiData/WD~Thomas_Ruggles_Pynchon_Sr.,96215905]]'
@@ -62,8 +82,83 @@ Libris_URI: 86lnn24s32hbk86
 Europeana_entity: agent/base/60285
 Wolfram_Language_entity_code: Entity["Concept", "Pynchon::c2858"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PINCHON_TOMAS.html
+dv_has_:
+  name_:
+    af: Thomas Pynchon
+    an: Thomas Pynchon
+    ar: توماس بينشون
+    arz: توماس بينشون
+    ast: Thomas Pynchon
+    be: Томас Пінчан
+    be-tarask: Томас Пінчан
+    bg: Томас Пинчън
+    bn: থমাস পিনচন
+    br: Thomas Pynchon
+    bs: Thomas Pynchon
+    ca: Thomas Pynchon
+    cs: Thomas Pynchon
+    cy: Thomas Pynchon
+    da: Thomas Pynchon
+    de: Thomas Pynchon
+    el: Τόμας Πίντσον
+    en: Thomas Pynchon
+    en-ca: Thomas Pynchon
+    en-gb: Thomas Pynchon
+    eo: Thomas Pynchon
+    es: Thomas Pynchon
+    et: Thomas Pynchon
+    eu: Thomas Pynchon
+    ext: Thomas Pynchon
+    fa: توماس پینچن
+    fi: Thomas Pynchon
+    fr: Thomas Pynchon
+    ga: Thomas Pynchon
+    gl: Thomas Pynchon
+    he: תומאס פינצ'ון
+    hi: थॉमस पिन्चन
+    hr: Thomas Pynchon
+    hu: Thomas Pynchon
+    hy: Թոմաս Ռագգլզ Պինչոն-կրտսեր
+    id: Thomas Pynchon
+    it: Thomas Pynchon
+    ja: トマス・ピンチョン
+    ka: თომას პინჩონი
+    ko: 토머스 핀천
+    kw: Thomas Pynchon
+    la: Thomas Pynchon
+    li: Thomas Pynchon
+    lt: Thomas Pynchon
+    lv: Tomass Pinčons
+    mg: Thomas Pynchon
+    mk: Томас Пинчон
+    mn: Томас Пинчон
+    mul: Thomas Pynchon
+    nb: Thomas Pynchon
+    ne: थोमस पिन्चोन
+    nl: Thomas Pynchon
+    nn: Thomas Pynchon
+    oc: Thomas Pynchon
+    pap: Thomas Pynchon
+    pl: Thomas Pynchon
+    pt: Thomas Pynchon
+    pt-br: Thomas Pynchon
+    ro: Thomas Pynchon
+    ru: Томас Пинчон
+    sco: Thomas Pynchon
+    sh: Thomas Pynchon
+    sl: Thomas Pynchon
+    sq: Thomas Pynchon
+    sr: Томас Пинчон
+    sv: Thomas Pynchon
+    th: ทอมัส พินชอน
+    tr: Thomas Pynchon
+    uk: Томас Пінчон
+    ur: تھامس پنچن
+    vi: Thomas Pynchon
+    war: Thomas Pynchon
+    yue: 湯瑪斯·平瓊
+    zh: 托马斯·品钦
 ---
-
 # [[Pynchon,Thomas]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Thomas_Pynchon,35155|WD~Thomas_Pynchon,35155]] 

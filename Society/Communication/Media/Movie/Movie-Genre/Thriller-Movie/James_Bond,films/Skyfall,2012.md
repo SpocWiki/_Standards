@@ -1,5 +1,125 @@
-
-
+---
+has_id_wikidata: Q4941
+dv_has_:
+  name_:
+    ar: سكايفول
+    arz: سكايفول
+    ast: Skyfall
+    azb: اسکایفال
+    be: '007: Каардынаты «Скайфол»'
+    bg: '007 Координати: Скайфол'
+    bn: স্কাইফল
+    ca: Skyfall
+    ckb: سکایفۆڵ
+    cs: Skyfall
+    cy: Skyfall
+    da: Skyfall
+    de: 'James Bond 007: Skyfall'
+    de-ch: 'James Bond 007: Skyfall'
+    el: Skyfall
+    en: Skyfall
+    en-ca: Skyfall
+    en-gb: Skyfall
+    eo: Skyfall
+    es: Skyfall
+    et: Skyfall
+    eu: Skyfall
+    fa: اسکایفال
+    fi: 007 Skyfall
+    fr: Skyfall
+    fy: Skyfall
+    ga: Skyfall
+    gl: Skyfall
+    he: סקייפול
+    hi: स्कायफॉल
+    hr: Skyfall
+    hu: Skyfall
+    hy: Սքայֆոլ
+    id: Skyfall
+    is: Skyfall
+    it: Skyfall
+    ja: 007 スカイフォール
+    ka: Skyfall
+    kk: '007: «Скайфолл» Координаты'
+    ko: 007 스카이폴
+    ky: Скайфолл
+    la: Skyfall
+    lb: Skyfall
+    lt: 007 Operacija Skyfall
+    lv: Operācija "Skyfall"
+    mk: Скајфол
+    ml: സ്കൈഫാൾ
+    mr: स्कायफॉल
+    ms: Skyfall
+    mul: Skyfall
+    my: Skyfall
+    nb: Skyfall
+    nl: Skyfall
+    oc: Skyfall
+    pl: Skyfall
+    pt: Skyfall
+    pt-br: Skyfall
+    ro: Skyfall
+    ru: '007: Координаты «Скайфолл»'
+    sco: Skyfall
+    sh: Skyfall
+    sk: 'James Bond: Skyfall'
+    sl: Skyfall
+    sq: Skyfall
+    sr: Skyfall
+    sv: Skyfall
+    ta: ஸ்கைஃபால்
+    te: లోకంచుట్టినవీరుడు
+    th: พลิกรหัสพิฆาตพยัคฆ์ร้าย 007
+    tr: Skyfall
+    uk: '007: Координати «Скайфолл»'
+    ur: اسکائی فال
+    uz: Skyfall
+    vi: Tử địa Skyfall
+    wuu: 007：大破天幕杀机
+    xmf: სკაიფოლი
+    yue: 新鐵金剛之智破天凶城
+    zh: 007大破天幕杀机
+    zh-cn: 007大破天幕杀机
+    zh-hans: 007大破天幕杀机
+    zh-hk: 新鐵金剛：智破天凶城
+    zh-sg: 空降危机
+aliases:
+- 007 Operacija Skyfall
+- 007 Skyfall
+- '007 Координати: Скайфол'
+- 007 スカイフォール
+- 007 스카이폴
+- '007: «Скайфолл» Координаты'
+- '007: Каардынаты «Скайфол»'
+- '007: Координати «Скайфолл»'
+- '007: Координаты «Скайфолл»'
+- 007大破天幕杀机
+- 007：大破天幕杀机
+- 'James Bond 007: Skyfall'
+- 'James Bond: Skyfall'
+- Operācija "Skyfall"
+- Skyfall
+- Tử địa Skyfall
+- Скајфол
+- Скайфолл
+- Սքայֆոլ
+- סקייפול
+- اسکائی فال
+- اسکایفال
+- سكايفول
+- سکایفۆڵ
+- स्कायफॉल
+- স্কাইফল
+- ஸ்கைஃபால்
+- లోకంచుట్టినవీరుడు
+- സ്കൈഫാൾ
+- พลิกรหัสพิฆาตพยัคฆ์ร้าย 007
+- სკაიფოლი
+- 新鐵金剛之智破天凶城
+- 新鐵金剛：智破天凶城
+- 空降危机
+---
 ## #has_/text_of_/abstract 
 
 > **Skyfall** is a 2012 spy film and the twenty-third in the James Bond series produced by Eon Productions. 

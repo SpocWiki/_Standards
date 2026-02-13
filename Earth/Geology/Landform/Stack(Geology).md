@@ -1,37 +1,131 @@
 ---
 aliases:
+- Brandungspfeiler
+- Brâningspylder
+- Faragghiuni
+- Faraglione
+- faralhon
+- faralló
+- farallón
+- Havstabel
+- igla
+- Kaya balyaları
+- kekur
+- Kekuras
+- Khối đá tàn dư
+- klifinsuletoj
+- Klippe
+- kolumna
+- Obalni toranj
+- pilar laut
+- Raukki
+- roca
+- stac-mara
+- staca
+- stack
+- Stack (geologia)
+- Stakk
+- Stakus
+- staur
+- Staur i geologi
+- Stog (geologija)
+- Êta
+- στοίβα
+- кекур
+- стог
+- סטאק
+- صخره دریایی
+- مسلة بحرية
+- கடல் தூண்
+- เกาะหินโด่ง
+- 海蚀柱
+- 海蝕柱
+- 海食柱
+- 시스택
 has_id_wikidata: Q747957
 subclass_of:
-  - "[[_Standards/WikiData/WD~rock_formation,631305]]"
-  - "[[_Standards/WikiData/WD~coastal_landform,19817101]]"
-different_from: "[[_Standards/WikiData/WD~Kolona,4228414]]"
-has_list: "[[_Standards/WikiData/WD~list_of_sea_stacks,28686448]]"
+- '[[_Standards/WikiData/WD~rock_formation,631305]]'
+- '[[_Standards/WikiData/WD~coastal_landform,19817101]]'
+different_from: '[[_Standards/WikiData/WD~Kolona,4228414]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sea_stacks,28686448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pizzomunno%20with%20bathers%20for%20scale.jpg
 Wolfram_Language_entity_code: Entity"Ship", "FarallonSteamshipDisaster = `=this.dv_"Ship", "FarallonSteamshipDisaster`
 Commons_category: Geological stacks
 dv_"Ship", "FarallonSteamshipDisaster: 9q638"
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Stack,747957|WD~Stack,747957]]"
-    - "[[/_Standards/Earth/Geology/Landform/Stack(Geology)|Stack(Geology)]]"
-    - "[[/_public/Earth/Geology/Landform/Stack(Geology).public|Stack(Geology).public]]"
-    - "[[/_internal/Earth/Geology/Landform/Stack(Geology).internal|Stack(Geology).internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Stack(Geology).protect|Stack(Geology).protect]]"
-    - "[[/_private/Earth/Geology/Landform/Stack(Geology).private|Stack(Geology).private]]"
-    - "[[/_personal/Earth/Geology/Landform/Stack(Geology).personal|Stack(Geology).personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Stack(Geology).secret|Stack(Geology).secret]]"
+  - '[[../../../WikiData/WD~Stack,747957|WD~Stack,747957]]'
+  - '[[/_Standards/Earth/Geology/Landform/Stack(Geology)|Stack(Geology)]]'
+  - '[[/_public/Earth/Geology/Landform/Stack(Geology).public|Stack(Geology).public]]'
+  - '[[/_internal/Earth/Geology/Landform/Stack(Geology).internal|Stack(Geology).internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Stack(Geology).protect|Stack(Geology).protect]]'
+  - '[[/_private/Earth/Geology/Landform/Stack(Geology).private|Stack(Geology).private]]'
+  - '[[/_personal/Earth/Geology/Landform/Stack(Geology).personal|Stack(Geology).personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Stack(Geology).secret|Stack(Geology).secret]]'
 dv_ship-farallonsteamshipdisaster: 9q638"
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Stack,747957|WD~Stack,747957]]"
-  - "[[/_Standards/Earth/Geology/Landform/Stack(Geology)|Stack(Geology)]]"
-  - "[[/_public/Earth/Geology/Landform/Stack(Geology).public|Stack(Geology).public]]"
-  - "[[/_internal/Earth/Geology/Landform/Stack(Geology).internal|Stack(Geology).internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Stack(Geology).protect|Stack(Geology).protect]]"
-  - "[[/_private/Earth/Geology/Landform/Stack(Geology).private|Stack(Geology).private]]"
-  - "[[/_personal/Earth/Geology/Landform/Stack(Geology).personal|Stack(Geology).personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Stack(Geology).secret|Stack(Geology).secret]]"
+- '[[../../../WikiData/WD~Stack,747957|WD~Stack,747957]]'
+- '[[/_Standards/Earth/Geology/Landform/Stack(Geology)|Stack(Geology)]]'
+- '[[/_public/Earth/Geology/Landform/Stack(Geology).public|Stack(Geology).public]]'
+- '[[/_internal/Earth/Geology/Landform/Stack(Geology).internal|Stack(Geology).internal]]'
+- '[[/_protect/Earth/Geology/Landform/Stack(Geology).protect|Stack(Geology).protect]]'
+- '[[/_private/Earth/Geology/Landform/Stack(Geology).private|Stack(Geology).private]]'
+- '[[/_personal/Earth/Geology/Landform/Stack(Geology).personal|Stack(Geology).personal]]'
+- '[[/_secret/Earth/Geology/Landform/Stack(Geology).secret|Stack(Geology).secret]]'
+dv_has_:
+  name_:
+    ar: مسلة بحرية
+    az: kekur
+    be-tarask: кекур
+    bg: Кекур
+    ca: faralló
+    da: Havstabel
+    de: Brandungspfeiler
+    de-ch: Klippe
+    el: στοίβα
+    en: stack
+    en-ca: Stack
+    en-gb: stack
+    eo: klifinsuletoj
+    es: farallón
+    eu: Stack (geologia)
+    fa: صخره دریایی
+    fi: Raukki
+    fr: stack
+    fy: Brâningspylder
+    ga: staca
+    gd: stac-mara
+    gl: Farallón
+    he: סטאק
+    hr: Obalni toranj
+    id: pilar laut
+    it: Faraglione
+    ja: 海食柱
+    kk: Кекур
+    ko: 시스택
+    kw: Stakk
+    la: Stakus
+    lt: Kekuras
+    mk: стог
+    nb: staur
+    nl: stack
+    nn: Staur i geologi
+    nrm: Êta
+    oc: faralhon
+    pl: kolumna
+    pt: roca
+    ru: кекур
+    scn: Faragghiuni
+    sl: igla
+    sr: Stog (geologija)
+    ta: கடல் தூண்
+    th: เกาะหินโด่ง
+    tr: Kaya balyaları
+    uk: кекур
+    vi: Khối đá tàn dư
+    yue: 海蝕柱
+    zh: 海蚀柱
 ---
-
 # [[Stack(Geology)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stack,747957|WD~Stack,747957]]  

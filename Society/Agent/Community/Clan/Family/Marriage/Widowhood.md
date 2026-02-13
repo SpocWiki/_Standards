@@ -1,30 +1,139 @@
 ---
 aliases:
+- alarguntza
+- atraitnība
+- bevalik
+- dul
+- dulluk
+- enkestand
+- enkjestand
+- gdówstwò
+- intañvelezh
+- leaskavuohta
+- leskeys
+- leskâvuotâ
+- liâskkvuõtt
+- menjanda/menduda
+- našlystė
+- pakolim
+- pouarutanga
+- udovstvo
+- vdovectví
+- vdovstvo
+- vedovanza
+- Verwitwung
+- veuvage
+- viduitas
+- viduïtat
+- vidveco aŭ vidvineco
+- vidveso
+- viudez
+- viuvez
+- vèdev
+- văduvie
+- wdowieństwo
+- weduwschap
+- widowhood
+- änkestånd och änklingsstånd
+- özvegység
+- χηρεία
+- вдівство
+- вдовство
+- жесир
+- тăлăх арăм
+- удоўства
+- удовство
+- այրիություն
+- אלמנוּת
+- ترمل
+- वैधव्य
+- 丧偶
+- 喪偶
+- 寡居
 has_id_wikidata: Q16675060
 instance_of:
-  - "[[_Standards/WikiData/WD~role,214339]]"
-  - "[[_Standards/WikiData/WD~marital_status,11920938]]"
+- '[[_Standards/WikiData/WD~role,214339]]'
+- '[[_Standards/WikiData/WD~marital_status,11920938]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 has_cause: "[[_Standards/WikiData/WD~death_of_subject's_spouse,24037741]]"
-follows: "[[_Standards/WikiData/WD~married,37713312]]"
+follows: '[[_Standards/WikiData/WD~married,37713312]]'
 Commons_category: Widows
 UMLS_CUI: C0043174
 MeSH_tree_code:
-  - F01.829.263.315.500.862
-  - I01.240.361.500.862
-  - I01.880.853.150.423.500.862
-  - N01.224.361.500.862
-  - N01.824.308.500.862
+- F01.829.263.315.500.862
+- I01.240.361.500.862
+- I01.880.853.150.423.500.862
+- N01.224.361.500.862
+- N01.824.308.500.862
 Dewey_Decimal_Classification:
-  - "306.88"
-  - "155.644"
-  - "362.8293"
+- 306.88
+- 155.644
+- 362.8293
+dv_has_:
+  name_:
+    ar: ترمل
+    az: dul
+    be: удоўства
+    be-tarask: удоўства
+    br: intañvelezh
+    ca: viduïtat
+    cs: vdovectví
+    csb: gdówstwò
+    cv: тăлăх арăм
+    da: enkestand
+    dag: pakolim
+    de: Verwitwung
+    el: χηρεία
+    eml: vèdev
+    en: widowhood
+    en-ca: widowhood
+    en-gb: widowhood
+    eo: vidveco aŭ vidvineco
+    es: viudez
+    eu: alarguntza
+    fi: leskeys
+    fr: veuvage
+    gl: viuvez
+    he: אלמנוּת
+    hu: özvegység
+    hy: այրիություն
+    id: menjanda/menduda
+    io: vidveso
+    it: vedovanza
+    ja: 寡居
+    ky: жесир
+    la: viduitas
+    lt: našlystė
+    lv: atraitnība
+    mi: pouarutanga
+    mr: वैधव्य
+    nb: enkestand
+    nl: weduwschap
+    nn: enkjestand
+    pl: wdowieństwo
+    pt: viuvez
+    pt-br: viuvez
+    ro: văduvie
+    ru: вдовство
+    se: leaskavuohta
+    sl: vdovstvo
+    smn: leskâvuotâ
+    sms: liâskkvuõtt
+    sr: удовство
+    sr-el: udovstvo
+    sv: änkestånd och änklingsstånd
+    tr: dulluk
+    uk: вдівство
+    uz: bevalik
+    yue: 喪偶
+    zh: 丧偶
+    zh-hans: 丧偶
+    zh-hant: 喪偶
 ---
-
 # [[Widowhood]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Widowhood,16675060|WD~Widowhood,16675060]]  

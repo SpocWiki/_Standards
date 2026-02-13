@@ -1,55 +1,502 @@
 ---
 aliases:
-  - Berg
-  - mountain
-  - Mountain
-  - is_a_mountain
+- adrar
+- a̱fan
+- bantay
+- barg
+- Beag
+- beinn
+- bel
+- belud
+- beorg
+- bepɔ
+- berag
+- berch
+- Berg
+- Bierg
+- bjerg
+- bukid
+- bundok
+- bunduk
+- buur
+- buyu'
+- bya
+- Bärg
+- cmana
+- dag
+- dağ
+- dongor
+- dutse
+- dził
+- fjall
+- fjell
+- gaara
+- gadu
+- ghunong
+- gomo
+- gora
+- gunong
+- gunuang
+- gunung
+- góra
+- górë
+- gōra
+- hegy
+- hora
+- hu'idu
+- intaba
+- intsaba
+- is_a_mountain
+- iġġi
+- kalnas
+- kalns
+- ko
+- mal
+- mauna
+- maunga
+- mendia
+- menez
+- menydh
+- mlima
+- mons
+- montagna
+- montagne
+- montangn
+- montangne
+- montanha
+- montanya
+- montaña
+- monte
+- montinne
+- monto
+- mountain
+- mountn
+- mundagne
+- munt
+- muntagna
+- muntain
+- muntanja
+- muntanya
+- munte
+- munti
+- muntogna
+- muntâgna
+- mynydd
+- mägi
+- mòn
+- nena
+- ngómbá
+- nulu
+- núi
+- ogoon̄
+- pahaarr
+- palandey
+- paxro
+- phiri
+- planina
+- sero
+- seru
+- sliabh
+- slieau
+- soaⁿ
+- sân
+- săng
+- tangor
+- taw
+- taŋa
+- tendrombohitra
+- tepētl
+- thaba
+- to
+- togʻ
+- ulunivanua
+- umusozi
+- urqu
+- vrch
+- vuori
+- várri
+- yvyty
+- zoli
+- zuor
+- àpáta
+- çiya
+- βουνό
+- ραχίν
+- гара
+- гора
+- гурезь
+- зунтту
+- кӯҳ
+- лам
+- лоам
+- пандо
+- планина
+- сув
+- тау
+- тоо
+- ту
+- уул
+- хайа
+- хох
+- լեռ
+- באַרג
+- הר
+- جبل
+- داغ
+- غر
+- پَہاڑ
+- پہاڑ
+- کو
+- کوه
+- کێو
+- گَر
+- ܛܘܪܐ
+- ݢونوڠ
+- ߕߌ߲ߘߌ
+- च्वापुगुं
+- पब्बतो
+- पर्वत
+- पर्वताः
+- पहाड
+- पहाड़
+- পর্বত
+- পৰ্বত
+- মোন্টানহা
+- ਪਹਾੜ
+- પર્વત
+- ପର୍ବତ
+- மலை
+- పర్వతం
+- ಪರ್ವತ
+- പർവ്വതം
+- ภูเขา
+- ကောင်
+- တောင်
+- လွႆ
+- გვალა
+- მთა
+- ተራራ
+- ᎣᏓᎸᎢ
+- ᐧᐊᔒ
+- ភ្នំ
+- ᠠᠯᡳᠨ
+- ὄρος
+- ⴰⴷⵔⴰⵔ
+- 山
+- ꁧ
+- ꯆꯤꯡꯖꯥꯎ
+- 산
 has_id_wikidata: Q8502
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - mountain
-layout: ""
+- mountain
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_mountain Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_mountain Class
 type: Type
 dv_has_:
-  parent_class: "[[../Landform]]"
-  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  name_:
+    ace: gunong
+    aeb-arab: جبل
+    af: berg
+    am: ተራራ
+    an: montanya
+    ang: beorg
+    ann: ogoon̄
+    ar: جبل
+    arc: ܛܘܪܐ
+    arz: جبل
+    as: পৰ্বত
+    ast: monte
+    awa: पहाड़
+    az: dağ
+    azb: داغ
+    ba: тау
+    ban: gunung
+    bar: Beag
+    bcl: bukid
+    bdr: belud
+    be: гара
+    be-tarask: гара
+    bew: gunung
+    bg: планина
+    bho: पहाड़
+    bjn: gunung
+    blk: ကောင်
+    bn: পর্বত
+    bpy: মোন্টানহা
+    br: menez
+    bs: planina
+    ca: muntanya
+    cdo: săng
+    ce: лам
+    ceb: bukid
+    chr: ᎣᏓᎸᎢ
+    ckb: کێو
+    co: muntagna
+    cr: ᐧᐊᔒ
+    crh: dağ
+    crh-latn: dağ
+    cs: hora
+    csb: górë
+    cu: гора
+    cv: ту
+    cy: mynydd
+    da: bjerg
+    dag: zoli
+    de: Berg
+    de-at: Berg
+    de-ch: Berg
+    dga: taŋa
+    diq: ko
+    dsb: góra
+    dtp: nulu
+    dty: पहाड़
+    ee: to
+    el: βουνό
+    eml: muntâgna
+    en: mountain
+    en-ca: mountain
+    en-gb: mountain
+    eo: monto
+    es: montaña
+    et: mägi
+    eu: mendia
+    ext: montaña
+    fa: کوه
+    fi: vuori
+    fj: ulunivanua
+    fo: fjall
+    fr: montagne
+    frp: montagne
+    frr: berag
+    fy: berch
+    ga: sliabh
+    gan: 山
+    gcr: montangn
+    gd: beinn
+    gl: montaña
+    glk: کو
+    gn: yvyty
+    gom: dongor
+    gor: hu'idu
+    grc: ὄρος
+    gsw: Bärg
+    gu: પર્વત
+    gv: slieau
+    ha: dutse
+    hak: sân
+    haw: mauna
+    he: הר
+    hi: पर्वत
+    hif: pahaarr
+    hr: planina
+    hsb: hora
+    ht: mòn
+    hu: hegy
+    hy: լեռ
+    hyw: լեռ
+    ia: monte
+    id: gunung
+    ii: ꁧ
+    ik: iġġi
+    ilo: bantay
+    inh: лоам
+    io: monto
+    is: fjall
+    it: montagna
+    ja: 山
+    jam: mountn
+    jbo: cmana
+    jv: gunung
+    ka: მთა
+    kaa: taw
+    kab: adrar
+    kcg: a̱fan
+    kk: тау
+    km: ភ្នំ
+    kn: ಪರ್ವತ
+    ko: 산
+    ks: پَہاڑ
+    ku: çiya
+    ku-latn: çiya
+    kus: zuor
+    kw: menydh
+    ky: тоо
+    la: mons
+    lb: Bierg
+    lbe: зунтту
+    lez: сув
+    lfn: monte
+    li: berg
+    lld: munt
+    lmo: muntagna
+    ln: ngómbá
+    lt: kalnas
+    lv: kalns
+    lzh: 山
+    mad: ghunong
+    mag: पहाड़
+    mg: tendrombohitra
+    mi: maunga
+    min: gunuang
+    mk: планина
+    ml: പർവ്വതം
+    mn: уул
+    mnc: ᠠᠯᡳᠨ
+    mni: ꯆꯤꯡꯖꯥꯎ
+    mr: पर्वत
+    ms: gunung
+    ms-arab: ݢونوڠ
+    mt: muntanja
+    my: တောင်
+    myv: пандо
+    mzn: گَر
+    nah: tepētl
+    nan: soaⁿ
+    nb: fjell
+    nds: Barg
+    nds-nl: barg
+    ne: पहाड
+    new: च्वापुगुं
+    nl: berg
+    nn: fjell
+    nqo: ߕߌ߲ߘߌ
+    nr: intaba
+    nrm: montangne
+    nso: thaba
+    nv: dził
+    oc: montanha
+    om: gaara
+    or: ପର୍ବତ
+    os: хох
+    pa: ਪਹਾੜ
+    pag: palandey
+    pam: bunduk
+    pap: seru
+    pap-aw: sero
+    pi: पब्बतो
+    pl: góra
+    pnb: پہاڑ
+    pnt: ραχίν
+    ps: غر
+    pt: montanha
+    pt-br: montanha
+    pwn: gadu
+    qu: urqu
+    rm: muntogna
+    rmy: paxro
+    ro: munte
+    roa-tara: mundagne
+    ru: гора
+    rue: гора
+    rup: munti
+    rw: umusozi
+    sa: पर्वताः
+    sah: хайа
+    scn: muntagna
+    sco: muntain
+    sd: جبل
+    se: várri
+    sgs: kalns
+    sh: planina
+    shi: adrar
+    shn: လွႆ
+    sk: vrch
+    sl: gora
+    sli: Barg
+    sn: gomo
+    so: buur
+    sq: mal
+    sr: планина
+    sr-ec: планина
+    ss: intsaba
+    st: thaba
+    su: gunung
+    sv: berg
+    sw: mlima
+    szl: gōra
+    szy: buyu'
+    ta: மலை
+    te: పర్వతం
+    tg: кӯҳ
+    tg-cyrl: кӯҳ
+    th: ภูเขา
+    tk: dag
+    tl: bundok
+    tok: nena
+    tr: dağ
+    tt: тау
+    tt-cyrl: тау
+    tum: phiri
+    tw: bepɔ
+    udm: гурезь
+    uk: гора
+    ur: پہاڑ
+    uz: togʻ
+    vec: montagna
+    vep: mägi
+    vi: núi
+    vls: berg
+    vo: bel
+    vro: mägi
+    wa: montinne
+    war: bukid
+    wo: tangor
+    wuu: 山
+    xh: intaba
+    xmf: გვალა
+    yi: באַרג
+    yo: àpáta
+    yue: 山
+    za: bya
+    zgh: ⴰⴷⵔⴰⵔ
+    zh: 山
+    zh-cn: 山
+    zh-hans: 山
+    zh-hant: 山
+    zh-hk: 山
+    zh-mo: 山
+    zh-my: 山
+    zh-sg: 山
+    zh-tw: 山
+    zu: intaba
+  parent_class: '[[../Landform]]'
+  properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]]"
-    - "[[/_Standards/Earth/Geology/Landform/Mountain|Mountain]]"
-    - "[[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]"
-dv_has_parent_class: "[[../Landform]]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  - '[[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]]'
+  - '[[/_Standards/Earth/Geology/Landform/Mountain|Mountain]]'
+  - '[[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]'
+dv_has_parent_class: '[[../Landform]]'
+dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]]"
-  - "[[/_Standards/Earth/Geology/Landform/Mountain|Mountain]]"
-  - "[[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]"
+- '[[../../../WikiData/WD~Mountain,8502|WD~Mountain,8502]]'
+- '[[/_Standards/Earth/Geology/Landform/Mountain|Mountain]]'
+- '[[/_public/Earth/Geology/Landform/Mountain.public|Mountain.public]]'
+- '[[/_internal/Earth/Geology/Landform/Mountain.internal|Mountain.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Mountain.protect|Mountain.protect]]'
+- '[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]'
+- '[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]'
 ---
-
 # [[Mountain]]  
 
 Class of all mountains.

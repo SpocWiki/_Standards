@@ -1,28 +1,166 @@
 ---
 aliases:
+- Espainiako literatura
+- Espanaf suteroteem
+- espanjan kirjallisuus
+- hispana literaturo
+- Hispaniana literaturo
+- Ispan adabiyoti
+- Ispanijos literatūra
+- Katitikan sa Kinatsila
+- Leteratur espaniol
+- letteratura spagnola
+- lipu pi toki Epanja
+- literatura castellana
+- Literatura da Espanha
+- literatura española
+- literatura hiszpańska
+- literatura spaniolă
+- Literatura spaño
+- Litríocht na Spáinne
+- Litterae Hispaniae
+- Litteratura espaniol
+- litteratura hispan
+- littérature espagnole
+- lliteratura española
+- Panitikang Kastila
+- Sastra Spanyol
+- Spaanse letterkunde
+- Spaanse literatuur
+- Spani literature
+- Spanias litteratur
+- spanische Literatur
+- Spanish literature
+- spansk litteratur
+- spanyol irodalom
+- Văn học Tây Ban Nha
+- Wêjeya spanî
+- İspan ədəbiyyatı
+- İspanyol edebiyatı
+- Španielska literatúra
+- Španjolska književnost
+- Španska književnost
+- španska literatura
+- španělská literatura
+- Ισπανική λογοτεχνία
+- Іспанська література
+- гішпанская літаратура
+- Испан әдебиеті
+- испан әдәбияты
+- Испанска литература
+- испанская литература
+- літаратура Іспаніі
+- Шпанска книжевност
+- Իսպանական գրականություն
+- ספרות ספרדית
+- أدب إسباني
+- ادب اسپانى
+- ادبیات اسپانیایی
+- स्पेनिश साहित्य
+- স্পেনীয় সাহিত্য
+- စပိန်စာပေ
+- ესპანური ლიტერატურა
+- スペイン文学
+- 西班牙文学
+- 西班牙文學
+- 스페인 문학
 has_id_wikidata: Q238499
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]"
-part_of: "[[_Standards/WikiData/WD~Romance_literature,11891165]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q29386518,29386518]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~sub_set_of_literature,109551565]]'
+part_of: '[[_Standards/WikiData/WD~Romance_literature,11891165]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q29386518,29386518]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Spanish_language_literature,99571024]]"
-  - "[[_Standards/WikiData/WD~Spanish_literature,109606544]]"
-studied_by: "[[_Standards/WikiData/WD~Spanish_literature,109606544]]"
-subclass_of: "[[_Standards/WikiData/WD~literature,8242]]"
-facet_of: "[[_Standards/WikiData/WD~Spain,29]]"
-Dewey_Decimal_Classification: "860"
+- '[[_Standards/WikiData/WD~Spanish_language_literature,99571024]]'
+- '[[_Standards/WikiData/WD~Spanish_literature,109606544]]'
+studied_by: '[[_Standards/WikiData/WD~Spanish_literature,109606544]]'
+subclass_of: '[[_Standards/WikiData/WD~literature,8242]]'
+facet_of: '[[_Standards/WikiData/WD~Spain,29]]'
+Dewey_Decimal_Classification: 860
 Provenio_UUID: 66441cab-6387-43ea-869f-557e1d7a5054
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/ISPANSKAYA_LITERATURA.html
 Commons_category: Literature of Spain
+dv_has_:
+  name_:
+    af: Spaanse letterkunde
+    ar: أدب إسباني
+    arz: ادب اسپانى
+    ast: lliteratura española
+    avk: Espanaf suteroteem
+    az: İspan ədəbiyyatı
+    be: літаратура Іспаніі
+    be-tarask: гішпанская літаратура
+    bg: Испанска литература
+    bn: স্পেনীয় সাহিত্য
+    bs: Španska književnost
+    ca: literatura castellana
+    ceb: Katitikan sa Kinatsila
+    cs: španělská literatura
+    da: spansk litteratur
+    de: spanische Literatur
+    el: Ισπανική λογοτεχνία
+    en: Spanish literature
+    eo: hispana literaturo
+    es: literatura española
+    eu: Espainiako literatura
+    fa: ادبیات اسپانیایی
+    fi: espanjan kirjallisuus
+    fr: littérature espagnole
+    ga: Litríocht na Spáinne
+    gl: literatura española
+    he: ספרות ספרדית
+    hi: स्पेनिश साहित्य
+    hr: Španjolska književnost
+    hu: spanyol irodalom
+    hy: Իսպանական գրականություն
+    ia: Litteratura espaniol
+    id: Sastra Spanyol
+    ie: litteratura hispan
+    io: Hispaniana literaturo
+    it: letteratura spagnola
+    ja: スペイン文学
+    ka: ესპანური ლიტერატურა
+    kk: Испан әдебиеті
+    ko: 스페인 문학
+    ku: Wêjeya spanî
+    la: Litterae Hispaniae
+    lfn: Leteratur espaniol
+    lt: Ispanijos literatūra
+    mk: Шпанска книжевност
+    my: စပိန်စာပေ
+    nb: Spanias litteratur
+    nl: Spaanse literatuur
+    nov: Spani literature
+    pap: Literatura spaño
+    pl: literatura hiszpańska
+    pt: Literatura da Espanha
+    ro: literatura spaniolă
+    ru: испанская литература
+    sk: Španielska literatúra
+    sl: španska literatura
+    sr: Španska književnost
+    sv: spansk litteratur
+    tl: Panitikang Kastila
+    tok: lipu pi toki Epanja
+    tr: İspanyol edebiyatı
+    tt: испан әдәбияты
+    uk: Іспанська література
+    uz: Ispan adabiyoti
+    vi: Văn học Tây Ban Nha
+    yue: 西班牙文學
+    zh: 西班牙文学
+    zh-cn: 西班牙文学
+    zh-hans: 西班牙文学
+    zh-hant: 西班牙文學
+    zh-hk: 西班牙文學
+    zh-sg: 西班牙文学
+    zh-tw: 西班牙文學
 ---
-
 # [[Spanish_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Spanish_literature,238499|WD~Spanish_literature,238499]]  

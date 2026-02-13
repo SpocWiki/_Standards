@@ -1,6 +1,341 @@
 ---
 dv_has_:
   name_:
+    ab: Алжир
+    ace: Aljazair
+    acm: الجزائر
+    ady: Алжир
+    aeb-arab: الدزاير
+    aeb-latn: ed-dzèyer
+    af: Algerië
+    am: አልጄሪያ
+    ami: Algeria
+    an: Alcheria
+    ang: Algeria
+    ann: Aljeria
+    anp: अल्जीरिया
+    ar: الجزائر
+    arc: ܓܙܐܐܪ
+    arq: الدزاير
+    ary: جزاير
+    arz: الجزاير
+    as: আলজেৰিয়া
+    ast: Arxelia
+    avk: Jazaira
+    ay: Alhirya
+    az: Əlcəzair
+    azb: الجزاییر
+    ba: Алжир
+    ban: Aljazair
+    bar: Algerien
+    bbc: Aljazair
+    bcl: Algerya
+    be: Алжыр
+    be-tarask: Альжыр
+    bew: Aljajaèr
+    bg: Алжир
+    bgn: الجزایر
+    bho: अल्जीरिया
+    bi: Aljiria
+    bjn: Aljajair
+    bm: Aljeri
+    bn: আলজেরিয়া
+    bo: ཨཱལ་ཇི་རི་ཡ།
+    bpy: আলজেরিয়া
+    br: Aljeria
+    bs: Alžir
+    btm: Aljasair
+    bug: Aljazair
+    bxr: Алжир
+    ca: Algèria
+    cbk-zam: Argelia
+    cdo: Algeria
+    ce: Алжазаира
+    ceb: Arhelya
+    ch: Aljiria
+    chr: ᎠᎵᏥᎵᏯ
+    ckb: جەزائیر
+    co: Algeria
+    crh: Cezair
+    crh-latn: Cezair
+    cs: Alžírsko
+    csb: Algieriô
+    cu: Алджаꙁаиръ
+    cv: Алжир
+    cy: Algeria
+    da: Algeriet
+    dag: Algeria
+    de: Algerien
+    de-at: Algerien
+    de-ch: Algerien
+    din: Algeria
+    diq: Cezayir
+    dsb: Algeriska
+    dtp: Algeria
+    dty: अल्जेरिया
+    dv: ޖަޒާއިރު
+    dz: ཨལ་ཇི་རི་ཡ།
+    ee: Algeria
+    el: Αλγερία
+    en: Algeria
+    en-ca: Algeria
+    en-gb: Algeria
+    en-us: Algeria
+    eo: Alĝerio
+    es: Argelia
+    et: Alžeeria
+    eu: Aljeria
+    ext: Argélia
+    fa: الجزایر
+    ff: Aljeri
+    fi: Algeria
+    fit: Algeria
+    fo: Algeria
+    fr: Algérie
+    frp: Alg·èrie
+    frr: Algeerien
+    fur: Alzerie
+    fy: Algerije
+    ga: an Ailgéir
+    gag: Aljir
+    gan: 阿尔及利亚
+    gcr: Laljéri
+    gd: Aildiria
+    gl: Alxeria
+    glk: ألجزایر
+    gn: Ayhelia
+    gom: आल्जेरिया
+    gom-deva: आल्जेरिया
+    gom-latn: Algeria
+    gor: Aljazair
+    got: "\U00010330\U0001033B\U00010336\U00010339\U00010334\U00010342\U00010330\U0001033F"
+    gpe: Algeria
+    gsw: Algerie
+    gu: અલજીરિયા
+    guc: Alhirya
+    gur: Algeria
+    guw: Algeria
+    gv: yn Algear
+    ha: Aljeriya
+    hak: Algeria
+    haw: ‘Alekelia
+    he: אלג'יריה
+    hi: अल्जीरिया
+    hif: Algeria
+    hr: Alžir
+    hsb: Algeriska
+    ht: Aljeri
+    hu: Algéria
+    hy: Ալժիր
+    hyw: Ալճերիա
+    ia: Algeria
+    iba: Algeria
+    id: Aljazair
+    ie: Algeria
+    ig: Algeria
+    ik: Aljiriya
+    ilo: Arhelia
+    inh: Алжир
+    io: Aljeria
+    is: Alsír
+    it: Algeria
+    ja: アルジェリア
+    jam: Aljiiria
+    jbo: jexygu'e
+    jv: Aljazair
+    ka: ალჟირი
+    kaa: Aljir
+    kab: Lezzayer
+    kbd: Алджазаир
+    kbp: Alizeerii
+    kcg: A̱li̱jeriya
+    kg: Algeria
+    kge: Aljazair
+    ki: Algeria
+    kk: Алжир
+    km: ប្រទេសអាល់ហ្សេរី
+    kn: ಅಲ್ಜೀರಿಯ
+    knc: Algeria
+    ko: 알제리
+    krc: Алжир
+    ks: اَلجیٖریا
+    ku: Cezayir
+    kv: Алжир
+    kw: Aljeri
+    ky: Алжир
+    la: Algerium
+    lad: Arjelia
+    lb: Algerien
+    lez: Алжир
+    lfn: Jazair
+    lg: Algeria
+    li: Algerieë
+    lij: Algerîa
+    lld: Algeria
+    lmo: Algeria
+    ln: Aljeria
+    lo: ປະເທດອານເຊຣີ
+    lt: Alžyras
+    ltg: Alžireja
+    lv: Alžīrija
+    lzh: 阿爾及利亞
+    mad: Aljazair
+    mag: अल्जीरिया
+    mai: अल्जेरिया
+    map-bms: Aljazair
+    mdf: Алжирия
+    mg: Aljeria
+    mhr: Алжир
+    mi: Aratiria
+    min: Aljazair
+    mk: Алжир
+    ml: അൾജീറിയ
+    mn: Алжир
+    mni: ꯑꯜꯖꯦꯔꯤꯌꯥ
+    mos: Algeria
+    mr: अल्जीरिया
+    mrj: Алжир
+    ms: Algeria
+    mt: Alġerija
+    mwl: Argélia
+    my: အယ်လ်ဂျီးရီးယားနိုင်ငံ
+    myv: Алжир
+    mzn: الجزایر
+    na: Ardjiriya
+    nah: Argelia
+    nan: Algeria
+    nap: Algeria
+    nb: Algerie
+    nds: Algerien
+    nds-nl: Algerye
+    ne: अल्जेरिया
+    new: अल्जेरिया
+    nl: Algerije
+    nn: Algerie
+    nov: Algeria
+    nso: Algeria
+    nv: Ghą́ą́ʼaskʼidii Biłikahii Bikéyah Ntsaaígíí
+    ny: Algeria
+    oc: Argeria
+    olo: Alžir
+    om: Aljeeriyaa
+    or: ଆଲଜେରିଆ
+    os: Алжир
+    pa: ਅਲਜੀਰੀਆ
+    pam: Algeria
+    pap: Argelia
+    pcd: Algérie
+    pcm: Aljiria
+    pdc: Altschieri
+    pi: अल्जीरिया
+    pih: Algeria
+    pl: Algieria
+    pms: Algerìa
+    pnb: الجزائر
+    ps: الجېريا
+    pt: Argélia
+    pt-br: Argélia
+    qu: Alhirya
+    rm: Algeria
+    rmy: Algeria
+    ro: Algeria
+    roa-tara: Algerie
+    ru: Алжир
+    rue: Алжір
+    rup: Algheria
+    rw: Aligeriya
+    sa: अल्जीरिया
+    sah: Алжир
+    sat: ᱟᱞᱡᱮ.ᱨᱤᱭᱟ
+    sc: Algerìa
+    scn: Algirìa
+    sco: Algerie
+    sd: الجزائر
+    se: Algeria
+    sg: Alazëri
+    sgs: Alžīrs
+    sh: Alžir
+    shi: Dzayr
+    shn: မိူင်းဢႄးၵျီးရီးယႃး
+    shy-latn: Dzair
+    si: ඇල්ජීරියාව
+    sk: Alžírsko
+    sl: Alžirija
+    sm: Algeria
+    smj: Algeria
+    smn: Algeria
+    sms: Algeria
+    sn: Algeria
+    so: Aljeeriya
+    sq: Algjeria
+    sr: Алжир
+    sr-ec: Алжир
+    sr-el: Alžir
+    srn: Algeriakondre
+    ss: I-Alijeriya
+    st: Algeria
+    stq: Algerien
+    su: Aljazair
+    sv: Algeriet
+    sw: Algeria
+    syl: ꠀꠟꠎꠦꠞꠤꠀ
+    szl: Algeryjo
+    szy: Algeria
+    ta: அல்சீரியா
+    tay: Algeria
+    te: అల్జీరియా
+    tet: Arjélia
+    tg: Алҷазоир
+    th: ประเทศแอลจีเรีย
+    ti: አልጀሪያ
+    tk: Alžir
+    tl: Algeria
+    tly: Əlčəzajir
+    to: ʻAlisilia
+    tok: ma Sasali
+    tpi: Aljiria
+    tr: Cezayir
+    trv: Algeria
+    ts: Algeriya
+    tt: Әлҗәзаир
+    tum: Algeria
+    tw: Algeria
+    ty: Areteria
+    tzm: ⴷⵣⴰⵢⵔ
+    udm: Алжир
+    ug: ئالجىرىيە
+    uk: Алжир
+    ur: الجزائر
+    uz: Jazoir
+    vec: Alzeria
+    vep: Alžir
+    vi: Algérie
+    vls: Algereye
+    vo: Laljerän
+    vro: Alžeeriä
+    wa: Aldjereye
+    war: Alherya
+    wo: Alseeri
+    wuu: 阿尔及利亚
+    xal: Алҗрмудин Улс Орн
+    xh: E-Algeria
+    xmf: ალჟირი
+    yi: אלזשיר
+    yo: Àlgéríà
+    yue: 阿爾及利亞
+    za: Algeria
+    zea: Alherije
+    zgh: ⴷⵣⴰⵢⵔ
+    zh: 阿爾及利亞
+    zh-cn: 阿尔及利亚
+    zh-hans: 阿尔及利亚
+    zh-hant: 阿爾及利亞
+    zh-hk: 阿爾及利亞
+    zh-mo: 阿爾及利亞
+    zh-my: 阿尔及利亚
+    zh-sg: 阿尔及利亚
+    zh-tw: 阿爾及利亞
+    zu: IAljiriya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Algeria
 dv_ISO4217-currency_alphabetic: DZD
@@ -31,9 +366,9 @@ dv_UNTERM_Chinese_Formal: 阿尔及利亚民主人民共和国
 dv_UNTERM_French_Formal: la République algérienne démocratique et populaire
 dv_UNTERM_Russian: Алжир
 dv_UNTERM_Russian_Formal: Алжирская Народная Демократическая Республика
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Algeria]]"
-dv_Sub-region_Name: "[[Northern Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Algeria]]'
+dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
 dv_Sub-region: 15
 dv_Geoname-ID: 2589581
@@ -57,52 +392,210 @@ dv_ISO3: DZA
 dv_has_name_de: Algerien
 dv_Area-Total: 2381741
 dv_Area-Land: 2381740
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: DZ
-dv_Capital: "[[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]"
+dv_Capital: '[[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]'
 dv_Alcohol-l: 1
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 3.05
 dv_has_place_latitude: 36.78
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Algeria,262]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~North/Algeria.private|Algeria.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]]"
+  - '[[../../../../WikiData/WD~Algeria,262]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~North/Algeria.private|Algeria.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Algeria
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Algeria,262]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~North/Algeria.private|Algeria.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]]"
-
+- '[[../../../../WikiData/WD~Algeria,262]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]]'
+- '[[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~North/Algeria.private|Algeria.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]]'
 aliases:
-  - Algeria
-  - Argelia
-  - Algérie
-  - الجزائر
-  - 阿尔及利亚
-  - Алжир
-  - the People's Democratic Republic of Algeria
-  - la República Argelina Democrática y Popular
+- Aildiria
+- Alazëri
+- Alcheria
+- Aldjereye
+- Algeerien
+- Algereye
+- Algeria
+- Algeriakondre
+- Algerie
+- Algerien
+- Algeriet
+- Algerieë
+- Algerije
+- Algeriska
+- Algerium
+- Algeriya
+- Algerië
+- Algerya
+- Algerye
+- Algeryjo
+- Algerìa
+- Algerîa
+- Algheria
+- Algieria
+- Algieriô
+- Algirìa
+- Algjeria
+- Alg·èrie
+- Algèria
+- Algéria
+- Algérie
+- Alherije
+- Alherya
+- Alhirya
+- Aligeriya
+- Alizeerii
+- Aljajair
+- Aljajaèr
+- Aljasair
+- Aljazair
+- Aljeeriya
+- Aljeeriyaa
+- Aljeri
+- Aljeria
+- Aljeriya
+- Aljiiria
+- Aljir
+- Aljiria
+- Aljiriya
+- Alseeri
+- Alsír
+- Altschieri
+- Alxeria
+- Alzeria
+- Alzerie
+- Alĝerio
+- Alġerija
+- Alžeeria
+- Alžeeriä
+- Alžir
+- Alžireja
+- Alžirija
+- Alžyras
+- Alžírsko
+- Alžīrija
+- Alžīrs
+- an Ailgéir
+- Aratiria
+- Ardjiriya
+- Areteria
+- Argelia
+- Argeria
+- Argélia
+- Arhelia
+- Arhelya
+- Arjelia
+- Arjélia
+- Arxelia
+- Ayhelia
+- A̱li̱jeriya
+- Cezair
+- Cezayir
+- Dzair
+- Dzayr
+- E-Algeria
+- ed-dzèyer
+- Ghą́ą́ʼaskʼidii Biłikahii Bikéyah Ntsaaígíí
+- I-Alijeriya
+- IAljiriya
+- Jazair
+- Jazaira
+- Jazoir
+- jexygu'e
+- la República Argelina Democrática y Popular
+- Laljerän
+- Laljéri
+- Lezzayer
+- ma Sasali
+- the People's Democratic Republic of Algeria
+- yn Algear
+- Àlgéríà
+- Əlcəzair
+- Əlčəzajir
+- ʻAlisilia
+- Αλγερία
+- Алджазаир
+- Алджаꙁаиръ
+- Алжір
+- Алжазаира
+- Алжир
+- Алжирия
+- Алжыр
+- Альжыр
+- Алҗрмудин Улс Орн
+- Алҷазоир
+- Әлҗәзаир
+- Ալժիր
+- Ալճերիա
+- אלג'יריה
+- אלזשיר
+- ألجزایر
+- ئالجىرىيە
+- الجزائر
+- الجزاير
+- الجزایر
+- الجزاییر
+- الجېريا
+- الدزاير
+- اَلجیٖریا
+- جزاير
+- جەزائیر
+- ܓܙܐܐܪ
+- ޖަޒާއިރު
+- अल्जीरिया
+- अल्जेरिया
+- आल्जेरिया
+- আলজেরিয়া
+- আলজেৰিয়া
+- ਅਲਜੀਰੀਆ
+- અલજીરિયા
+- ଆଲଜେରିଆ
+- அல்சீரியா
+- అల్జీరియా
+- ಅಲ್ಜೀರಿಯ
+- അൾജീറിയ
+- ඇල්ජීරියාව
+- ประเทศแอลจีเรีย
+- ປະເທດອານເຊຣີ
+- ཨལ་ཇི་རི་ཡ།
+- ཨཱལ་ཇི་རི་ཡ།
+- မိူင်းဢႄးၵျီးရီးယႃး
+- အယ်လ်ဂျီးရီးယားနိုင်ငံ
+- ალჟირი
+- አልጀሪያ
+- አልጄሪያ
+- ᎠᎵᏥᎵᏯ
+- ប្រទេសអាល់ហ្សេរី
+- ᱟᱞᱡᱮ.ᱨᱤᱭᱟ
+- ‘Alekelia
+- ⴷⵣⴰⵢⵔ
+- アルジェリア
+- 阿尔及利亚
+- 阿爾及利亞
+- ꠀꠟꠎꠦꠞꠤꠀ
+- ꯑꯜꯖꯦꯔꯤꯌꯥ
+- 알제리
+- "\U00010330\U0001033B\U00010336\U00010339\U00010334\U00010342\U00010330\U0001033F"
 has_id_wikidata: Q262
 location:
-  - 36.78
-  - 3.05
+- 36.78
+- 3.05
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26883
 isDeleted: false
 confidential: public
@@ -110,261 +603,261 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Algeria
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - ar-DZ
-flag: "[[_Standards/WikiData/WD~flag_of_Algeria,83392]]"
+- ar-DZ
+flag: '[[_Standards/WikiData/WD~flag_of_Algeria,83392]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Algiers_Province,141026]]"
-  - "[[_Standards/WikiData/WD~Aïn_Defla_Province,168953]]"
-  - "[[_Standards/WikiData/WD~Adrar_Province,188166]]"
-  - "[[_Standards/WikiData/WD~Annaba_Province,213944]]"
-  - "[[_Standards/WikiData/WD~Khenchela_Province,213950]]"
-  - "[[_Standards/WikiData/WD~Batna_Province,215452]]"
-  - "[[_Standards/WikiData/WD~Béchar_Province,215467]]"
-  - "[[_Standards/WikiData/WD~Mostaganem_Province,221445]]"
-  - "[[_Standards/WikiData/WD~Tamanrasset_Province,229467]]"
-  - "[[_Standards/WikiData/WD~Tindouf_Province,231151]]"
-  - "[[_Standards/WikiData/WD~Oran_Province,231331]]"
-  - "[[_Standards/WikiData/WD~Laghouat_Province,231748]]"
-  - "[[_Standards/WikiData/WD~Chlef_Province,231752]]"
-  - "[[_Standards/WikiData/WD~Constantine_Province,232043]]"
-  - "[[_Standards/WikiData/WD~Djelfa_Province,233233]]"
-  - "[[_Standards/WikiData/WD~Tiaret_Province,233258]]"
-  - "[[_Standards/WikiData/WD~Tlemcen_Province,233632]]"
-  - "[[_Standards/WikiData/WD~Blida_Province,233637]]"
-  - "[[_Standards/WikiData/WD~Saïda_Province,233640]]"
-  - "[[_Standards/WikiData/WD~Tizi_Ouzou_Province,233645]]"
-  - "[[_Standards/WikiData/WD~El_Oued_Province,233651]]"
-  - "[[_Standards/WikiData/WD~Bouira_Province,233655]]"
-  - "[[_Standards/WikiData/WD~Illizi_Province,233659]]"
-  - "[[_Standards/WikiData/WD~Béjaïa_Province,233665]]"
-  - "[[_Standards/WikiData/WD~Aïn_Témouchent_Provincee,233670]]"
-  - "[[_Standards/WikiData/WD~Naama_Province,233675]]"
-  - "[[_Standards/WikiData/WD~Skikda_Province,234227]]"
-  - "[[_Standards/WikiData/WD~El_Bayadh_Province,235703]]"
-  - "[[_Standards/WikiData/WD~Oum_El_Bouaghi_Province,235705]]"
-  - "[[_Standards/WikiData/WD~Ouargla_Province,235709]]"
-  - "[[_Standards/WikiData/WD~Sidi_Bel_Abbès_Province,235714]]"
-  - "[[_Standards/WikiData/WD~Jijel_Province,235718]]"
-  - "[[_Standards/WikiData/WD~Mila_Province,235723]]"
-  - "[[_Standards/WikiData/WD~Guelma_Province,235727]]"
-  - "[[_Standards/WikiData/WD~Tissemsilt_Province,235805]]"
-  - "[[_Standards/WikiData/WD~Médéa_Province,235810]]"
-  - "[[_Standards/WikiData/WD~Tipasa_Province,235814]]"
-  - "[[_Standards/WikiData/WD~Boumerdès_Province,236752]]"
-  - "[[_Standards/WikiData/WD~Relizane_Province,236758]]"
-  - "[[_Standards/WikiData/WD~Souk_Ahras_Province,236772]]"
-  - "[[_Standards/WikiData/WD~Mascara_Province,236776]]"
-  - "[[_Standards/WikiData/WD~El_Tarf_Province,236788]]"
-  - "[[_Standards/WikiData/WD~Sétif_Province,237164]]"
-  - "[[_Standards/WikiData/WD~M'Sila_Province,240870]]"
-  - "[[_Standards/WikiData/WD~Bordj_Bou_Arréridj_Province,266411]]"
-  - "[[_Standards/WikiData/WD~Tébessa_Province,267224]]"
-  - "[[_Standards/WikiData/WD~Biskra_Province,458402]]"
-  - "[[_Standards/WikiData/WD~Beni_Abbes_Province,21606902]]"
-  - "[[_Standards/WikiData/WD~Timimoun_Province,21606903]]"
-  - "[[_Standards/WikiData/WD~El_Meniaa_Province,76520264]]"
-  - "[[_Standards/WikiData/WD~Bordj_Baji_Mokhtar_Province,76592938]]"
-  - "[[_Standards/WikiData/WD~In_Salah_Province,76593022]]"
-  - "[[_Standards/WikiData/WD~In_Guezzam_Province,77102475]]"
-  - "[[_Standards/WikiData/WD~El_M'Ghair_Province,77103173]]"
-  - "[[_Standards/WikiData/WD~Touggourt_Province,77103880]]"
-  - "[[_Standards/WikiData/WD~Ouled_Djellal_Province,77105251]]"
-  - "[[_Standards/WikiData/WD~Ghardaïa_Province,17601]]"
+- '[[_Standards/WikiData/WD~Algiers_Province,141026]]'
+- '[[_Standards/WikiData/WD~Aïn_Defla_Province,168953]]'
+- '[[_Standards/WikiData/WD~Adrar_Province,188166]]'
+- '[[_Standards/WikiData/WD~Annaba_Province,213944]]'
+- '[[_Standards/WikiData/WD~Khenchela_Province,213950]]'
+- '[[_Standards/WikiData/WD~Batna_Province,215452]]'
+- '[[_Standards/WikiData/WD~Béchar_Province,215467]]'
+- '[[_Standards/WikiData/WD~Mostaganem_Province,221445]]'
+- '[[_Standards/WikiData/WD~Tamanrasset_Province,229467]]'
+- '[[_Standards/WikiData/WD~Tindouf_Province,231151]]'
+- '[[_Standards/WikiData/WD~Oran_Province,231331]]'
+- '[[_Standards/WikiData/WD~Laghouat_Province,231748]]'
+- '[[_Standards/WikiData/WD~Chlef_Province,231752]]'
+- '[[_Standards/WikiData/WD~Constantine_Province,232043]]'
+- '[[_Standards/WikiData/WD~Djelfa_Province,233233]]'
+- '[[_Standards/WikiData/WD~Tiaret_Province,233258]]'
+- '[[_Standards/WikiData/WD~Tlemcen_Province,233632]]'
+- '[[_Standards/WikiData/WD~Blida_Province,233637]]'
+- '[[_Standards/WikiData/WD~Saïda_Province,233640]]'
+- '[[_Standards/WikiData/WD~Tizi_Ouzou_Province,233645]]'
+- '[[_Standards/WikiData/WD~El_Oued_Province,233651]]'
+- '[[_Standards/WikiData/WD~Bouira_Province,233655]]'
+- '[[_Standards/WikiData/WD~Illizi_Province,233659]]'
+- '[[_Standards/WikiData/WD~Béjaïa_Province,233665]]'
+- '[[_Standards/WikiData/WD~Aïn_Témouchent_Provincee,233670]]'
+- '[[_Standards/WikiData/WD~Naama_Province,233675]]'
+- '[[_Standards/WikiData/WD~Skikda_Province,234227]]'
+- '[[_Standards/WikiData/WD~El_Bayadh_Province,235703]]'
+- '[[_Standards/WikiData/WD~Oum_El_Bouaghi_Province,235705]]'
+- '[[_Standards/WikiData/WD~Ouargla_Province,235709]]'
+- '[[_Standards/WikiData/WD~Sidi_Bel_Abbès_Province,235714]]'
+- '[[_Standards/WikiData/WD~Jijel_Province,235718]]'
+- '[[_Standards/WikiData/WD~Mila_Province,235723]]'
+- '[[_Standards/WikiData/WD~Guelma_Province,235727]]'
+- '[[_Standards/WikiData/WD~Tissemsilt_Province,235805]]'
+- '[[_Standards/WikiData/WD~Médéa_Province,235810]]'
+- '[[_Standards/WikiData/WD~Tipasa_Province,235814]]'
+- '[[_Standards/WikiData/WD~Boumerdès_Province,236752]]'
+- '[[_Standards/WikiData/WD~Relizane_Province,236758]]'
+- '[[_Standards/WikiData/WD~Souk_Ahras_Province,236772]]'
+- '[[_Standards/WikiData/WD~Mascara_Province,236776]]'
+- '[[_Standards/WikiData/WD~El_Tarf_Province,236788]]'
+- '[[_Standards/WikiData/WD~Sétif_Province,237164]]'
+- "[[_Standards/WikiData/WD~M'Sila_Province,240870]]"
+- '[[_Standards/WikiData/WD~Bordj_Bou_Arréridj_Province,266411]]'
+- '[[_Standards/WikiData/WD~Tébessa_Province,267224]]'
+- '[[_Standards/WikiData/WD~Biskra_Province,458402]]'
+- '[[_Standards/WikiData/WD~Beni_Abbes_Province,21606902]]'
+- '[[_Standards/WikiData/WD~Timimoun_Province,21606903]]'
+- '[[_Standards/WikiData/WD~El_Meniaa_Province,76520264]]'
+- '[[_Standards/WikiData/WD~Bordj_Baji_Mokhtar_Province,76592938]]'
+- '[[_Standards/WikiData/WD~In_Salah_Province,76593022]]'
+- '[[_Standards/WikiData/WD~In_Guezzam_Province,77102475]]'
+- "[[_Standards/WikiData/WD~El_M'Ghair_Province,77103173]]"
+- '[[_Standards/WikiData/WD~Touggourt_Province,77103880]]'
+- '[[_Standards/WikiData/WD~Ouled_Djellal_Province,77105251]]'
+- '[[_Standards/WikiData/WD~Ghardaïa_Province,17601]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Arab_world,143487]]"
-  - "[[_Standards/WikiData/WD~Muslim_world,779924]]"
-  - "[[_Standards/WikiData/WD~North_Africa,27381]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Algeria,182762]]"
+- '[[_Standards/WikiData/WD~Arab_world,143487]]'
+- '[[_Standards/WikiData/WD~Muslim_world,779924]]'
+- '[[_Standards/WikiData/WD~North_Africa,27381]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Algeria,182762]]'
 public_holiday:
-  - "[[_Standards/WikiData/WD~Ashura,183283]]"
-  - "[[_Standards/WikiData/WD~Mawlid,193027]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
-  - "[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]"
-  - "[[_Standards/WikiData/WD~Eid_al-Adha,514400]]"
-  - "[[_Standards/WikiData/WD~Islamic_New_Year,922388]]"
-  - "[[_Standards/WikiData/WD~Yennayer,3572171]]"
-  - "[[_Standards/WikiData/WD~Independence_Day,6819824]]"
-  - "[[_Standards/WikiData/WD~Revolution_Day,109381883]]"
-  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Emblem_of_Algeria,201133]]"
+- '[[_Standards/WikiData/WD~Ashura,183283]]'
+- '[[_Standards/WikiData/WD~Mawlid,193027]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
+- '[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]'
+- '[[_Standards/WikiData/WD~Eid_al-Adha,514400]]'
+- '[[_Standards/WikiData/WD~Islamic_New_Year,922388]]'
+- '[[_Standards/WikiData/WD~Yennayer,3572171]]'
+- '[[_Standards/WikiData/WD~Independence_Day,6819824]]'
+- '[[_Standards/WikiData/WD~Revolution_Day,109381883]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Algeria,201133]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-  - "[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]"
-anthem: "[[_Standards/WikiData/WD~Kassaman,230228]]"
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
+anthem: '[[_Standards/WikiData/WD~Kassaman,230228]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~people's_republic,465613]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Algeria,473761]]"
-lowest_point: "[[_Standards/WikiData/WD~Chott_Melrhir,584255]]"
+- "[[_Standards/WikiData/WD~people's_republic,465613]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Algeria,473761]]'
+lowest_point: '[[_Standards/WikiData/WD~Chott_Melrhir,584255]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-  - "[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Tahat,822326]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
+- '[[_Standards/WikiData/WD~Great_dictionary_of_geographical_names,113510146]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Tahat,822326]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_E,2335536]]"
-central_bank: "[[_Standards/WikiData/WD~Bank_of_Algeria,1774622]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Algeria,1978221]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Algeria,2087341]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Algeria,2504636]]"
-head_of_state: "[[_Standards/WikiData/WD~Abdelmadjid_Tebboune,2821166]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Algeria,2914452]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Algeria,2992061]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Algeria,1774622]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Algeria,1978221]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Algeria,2087341]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Constitution_of_Algeria,2504636]]'
+head_of_state: '[[_Standards/WikiData/WD~Abdelmadjid_Tebboune,2821166]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Algeria,2914452]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Algeria,2992061]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Algerian_Sign_Language,3135421]]"
-  - "[[_Standards/WikiData/WD~Gurara,27926110]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Shawiya,33274]]"
-  - "[[_Standards/WikiData/WD~Shenwa,33276]]"
-  - "[[_Standards/WikiData/WD~Korandje,33427]]"
-  - "[[_Standards/WikiData/WD~Kabyle,35853]]"
-  - "[[_Standards/WikiData/WD~Mozabite,36149]]"
-  - "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
-  - "[[_Standards/WikiData/WD~Tidikelt,56392]]"
-  - "[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]"
-  - "[[_Standards/WikiData/WD~Algerian_Arabic,56499]]"
-  - "[[_Standards/WikiData/WD~Wargli,56586]]"
-  - "[[_Standards/WikiData/WD~Tamahaq,56703]]"
-  - "[[_Standards/WikiData/WD~Algerian_Saharan_Arabic,56725]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Algeria,3142337]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Algeria_topics,6675968]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Algeria,7112176]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Algeria,11268465]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Algeria,12208528]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-owner_of: "[[_Standards/WikiData/WD~El_Mouradia_Palace,16510045]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22665567,22665567]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Algeria,25462150]]"
+- '[[_Standards/WikiData/WD~Algerian_Sign_Language,3135421]]'
+- '[[_Standards/WikiData/WD~Gurara,27926110]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Shawiya,33274]]'
+- '[[_Standards/WikiData/WD~Shenwa,33276]]'
+- '[[_Standards/WikiData/WD~Korandje,33427]]'
+- '[[_Standards/WikiData/WD~Kabyle,35853]]'
+- '[[_Standards/WikiData/WD~Mozabite,36149]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
+- '[[_Standards/WikiData/WD~Tidikelt,56392]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Algerian_Arabic,56499]]'
+- '[[_Standards/WikiData/WD~Wargli,56586]]'
+- '[[_Standards/WikiData/WD~Tamahaq,56703]]'
+- '[[_Standards/WikiData/WD~Algerian_Saharan_Arabic,56725]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Algeria,3142337]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Algeria_topics,6675968]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Algeria,7112176]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Algeria,11268465]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Algeria,12208528]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+owner_of: '[[_Standards/WikiData/WD~El_Mouradia_Palace,16510045]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22665567,22665567]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Algeria,25462150]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~14,25648803]]"
-  - "[[_Standards/WikiData/WD~17,25648842]]"
-  - "[[_Standards/WikiData/WD~1548,28790066]]"
-  - "[[_Standards/WikiData/WD~1055,79972766]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+- '[[_Standards/WikiData/WD~14,25648803]]'
+- '[[_Standards/WikiData/WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~1548,28790066]]'
+- '[[_Standards/WikiData/WD~1055,79972766]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Standard_Algerian_Berber,61053330]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-motto: "[[_Standards/WikiData/WD~By_the_people_and_for_the_people,102185522]]"
-head_of_government: "[[_Standards/WikiData/WD~Nadir_Larbaoui,109784588]]"
-studied_in: "[[_Standards/WikiData/WD~Algerian_studies,115669282]]"
+- '[[_Standards/WikiData/WD~Standard_Algerian_Berber,61053330]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+motto: '[[_Standards/WikiData/WD~By_the_people_and_for_the_people,102185522]]'
+head_of_government: '[[_Standards/WikiData/WD~Nadir_Larbaoui,109784588]]'
+studied_in: '[[_Standards/WikiData/WD~Algerian_studies,115669282]]'
 relief_location_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20relief%20location%20map.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20-%20Location%20Map%20%282013%29%20-%20DZA%20-%20UNOCHA.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20%28centered%20orthographic%20projection%29.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20location%20map.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20relief%20location%20map.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20-%20Location%20Map%20%282013%29%20-%20DZA%20-%20UNOCHA.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20%28centered%20orthographic%20projection%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20location%20map.svg
 demonym:
-  - جزائريات
-  - Alžirec
-  - جزايريين
-  - جزايري
-  - جزايريات
-  - جزايرية
-  - Alžirka
-  - Ailgéarach
-  - جزائريون
-  - arxelín
-  - arxelina
-  - আলজেরীয়
-  - algerià
-  - Alžířan
-  - Alžířanka
-  - algerier
-  - Algerier
-  - Algerierin
-  - Algerian
-  - الجزایری
-  - Algérien
-  - Algérienne
-  - אלג'יראי
-  - אלג'יראית
-  - algériai
-  - Aljeriano
-  - algerina
-  - algerine
-  - algerini
-  - algerino
-  - Azzayri
-  - Izzayriyen
-  - Tazzayrit
-  - Tizzayriyin
-  - jazairi
-  - algierczyk
-  - algierka
-  - algerian
-  - algeriancă
-  - algerieni
-  - алжирцы
-  - alzerin
-  - alzerina
-  - alzerine
-  - alzerini
-  - Laljeränan
-  - جزائري
-  - جزائرية
+- جزائريات
+- Alžirec
+- جزايريين
+- جزايري
+- جزايريات
+- جزايرية
+- Alžirka
+- Ailgéarach
+- جزائريون
+- arxelín
+- arxelina
+- আলজেরীয়
+- algerià
+- Alžířan
+- Alžířanka
+- algerier
+- Algerier
+- Algerierin
+- Algerian
+- الجزایری
+- Algérien
+- Algérienne
+- אלג'יראי
+- אלג'יראית
+- algériai
+- Aljeriano
+- algerina
+- algerine
+- algerini
+- algerino
+- Azzayri
+- Izzayriyen
+- Tazzayrit
+- Tizzayriyin
+- jazairi
+- algierczyk
+- algierka
+- algerian
+- algeriancă
+- algerieni
+- алжирцы
+- alzerin
+- alzerina
+- alzerine
+- alzerini
+- Laljeränan
+- جزائري
+- جزائرية
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Alg%C3%A9ria.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Algerien.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Algerien.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Algeria.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Alg%C3%A9ria.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Algerien.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Algerien.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Algeria.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%B2%E0%A6%9C%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20-%20Location%20Map%20%282013%29%20-%20DZA%20-%20UNOCHA.svg
 Commons_gallery: الجزائر / ⴷⵣⴰⵢⵔ
 official_name: اَلْجُمهُورِيَّة اَلْجَزَائِرِيَّة اَلدِّيمُقرَاطِيَّة اَلشَّعبِيَّة
@@ -375,43 +868,43 @@ Wolfram_Language_entity_code: Entity["Country", "Algeria"]
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20Emblem%20of%20Algeria%20%28bronze%20effect%29.svg
 coordinates_of_southernmost_point: Point(3.35767508 18.96823069)
 nominal_GDP:
-  - 163472233246
-  - 191912889421
+- 163472233246
+- 191912889421
 coordinates_of_westernmost_point: Point(-8.66685028 27.31524186)
-country: "[[_Standards/WikiData/WD~Algeria,262]]"
-official_religion: "[[_Standards/WikiData/WD~Islam,432]]"
+country: '[[_Standards/WikiData/WD~Algeria,262]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Western_Sahara,6250]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Western_Sahara,6250]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 name:
-  - Algeria
-  - الجزائر
-  - Algeria
-short_name: 🇩🇿
+- Algeria
+- الجزائر
+- Algeria
+short_name: "\U0001F1E9\U0001F1FF"
 coordinates_of_easternmost_point: Point(11.99999811 23.49999976)
 female_population:
-  - 20948465
-  - 21318767
-  - 21680725
-  - 22040987
+- 20948465
+- 21318767
+- 21680725
+- 22040987
 male_population:
-  - 21756903
-  - 22132899
-  - 22497244
-  - 22862237
+- 21756903
+- 22132899
+- 22497244
+- 22862237
 coordinates_of_northernmost_point: Point(7.20382 37.09457)
 urban_population:
-  - 31255632
-  - 32038217
-  - 32807002
-  - 33575039
+- 31255632
+- 32038217
+- 32807002
+- 33575039
 population: 46164219
 M49_code: 12
 ISO_3166_1_numeric_code: 12
@@ -422,10 +915,10 @@ UIC_alphabetical_country_code: DZ
 licence_plate_code: DZ
 ISO_3166_1_alpha_2_code: DZ
 birth_rate:
-  - 20.572
-  - 21.524
-  - 22.431
-  - 23.298
+- 20.572
+- 21.524
+- 22.431
+- 23.298
 OmegaWiki_Defined_Meaning: 5755
 FIPS_10_4_countries_and_regions_: AG
 life_expectancy: 76.078
@@ -434,8 +927,8 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alger
 ITU_letter_code: ALG
 IOC_country_code: ALG
 native_label:
-  - الجزائر
-  - الجمهورية الجزائرية الديمقراطية الشعبية
+- الجزائر
+- الجمهورية الجزائرية الديمقراطية الشعبية
 ISO_3166_1_alpha_3_code: DZA
 INSEE_countries_and_foreign_territories_code: 99352
 area: 2381741
@@ -445,82 +938,81 @@ hashtag: Algeria
 Commons_category: Algeria
 Unicode_character: Ǳ
 rural_population:
-  - 11328186
-  - 11370967
-  - 11413449
-  - 11449736
+- 11328186
+- 11370967
+- 11413449
+- 11449736
 geoshape: http://commons.wikimedia.org/data/main/Data:Algeria.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Algeria%20%28centered%20orthographic%20projection%29.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/M%27zab%20valley%20%28Algeria%29%20banner.jpg
 Stack_Exchange_tag: https://travel.stackexchange.com/tags/algeria
 official_website: https://www.el-mouradia.dz/ar/home
 country_calling_code: 213
-member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-capital: "[[_Standards/WikiData/WD~Algiers,3561]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+member_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+capital: '[[_Standards/WikiData/WD~Algiers,3561]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 minimum_temperature_record: -20
 unemployment_rate: 10
 retirement_age:
-  - 60
-  - 65
+- 60
+- 65
 age_of_majority: 18
 marriageable_age: 19
 VAT_rate: 19
 mains_voltage: 230
 suicide_rate: 2.6
 BTI_Governance_Index:
-  - 4.5
-  - 3.64
-  - 3.88
-  - 3.94
-  - 4.01
-  - 4.42
-  - 4.55
-  - 4.58
-  - 4.67
+- 4.5
+- 3.64
+- 3.88
+- 3.94
+- 4.01
+- 4.42
+- 4.55
+- 4.58
+- 4.67
 literacy_rate: 75
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.dz,41039]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.dz,41039]]'
 Gini_coefficient: 27.6
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Algeria,44321]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Algeria,44321]]'
 Democracy_Index: 3.77
 BTI_Status_Index:
-  - 4.42
-  - 4.72
-  - 4.78
-  - 4.86
-  - 4.98
-  - 5.03
-  - 5.04
-  - 5.11
+- 4.42
+- 4.72
+- 4.78
+- 4.86
+- 4.98
+- 5.03
+- 5.04
+- 5.11
 Happy_Planet_Index_score: 46.5
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 UIC_numerical_country_code: 92
-basic_form_of_government: "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~semi-presidential_system,49890]]'
 Inequality_adjusted_Human_Development_Index: 0.598
 Human_Development_Index: 0.745
 mobile_country_code: 603
 total_fertility_rate: 2.857
 IAB_code: 1232
 death_rate:
-  - 4.329
-  - 4.392
-  - 4.546
-  - 5.398
+- 4.329
+- 4.392
+- 4.546
+- 5.398
 U_S_National_Archives_Identifier: 10046212
 Dewey_Decimal_Classification: 2--65
 Provenio_UUID: 89ca3838-762e-4dbf-8856-2e922b3bd54b
 CIVICUS_Monitor_country_entry: algeria
 subreddit:
-  - algeria
-  - algerie
+- algeria
+- algerie
 GitHub_topic: algeria
 Colon_Classification: SG--671
 Krugosvet_article: strany_mira/ALZHIR.html
 motto_text: بالشّعب وللشّعب
 ---
-
 # [[Algeria]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

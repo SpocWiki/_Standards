@@ -1,4 +1,40 @@
-
+---
+has_id_wikidata: Q2096030
+dv_has_:
+  name_:
+    ar: ماجد لعبة خشبية
+    ast: Piccolino no Bōken
+    ca: Pinotxo
+    de: Pinocchio
+    en: Piccolino no Bōken
+    es: Las aventuras de Pinocho (anime)
+    fa: ماجراهای پینوکیو
+    fi: Pinokkio
+    fr: Pinocchio
+    he: פינוקיו (אנימה)
+    it: Bambino Pinocchio
+    ja: ピコリーノの冒険
+    nl: Piccolino no Bōken
+    pl: Pinokio
+    pt: Pinóquio (anime de 1976)
+    ru: Piccolino no Bouken
+    zh: 木偶奇遇記
+aliases:
+- Bambino Pinocchio
+- Las aventuras de Pinocho (anime)
+- Piccolino no Bouken
+- Piccolino no Bōken
+- Pinocchio
+- Pinokio
+- Pinokkio
+- Pinotxo
+- Pinóquio (anime de 1976)
+- פינוקיו (אנימה)
+- ماجد لعبة خشبية
+- ماجراهای پینوکیو
+- ピコリーノの冒険
+- 木偶奇遇記
+---
 > Piccolino no Bōken (ピコリーノの冒険, Pikorīno no Bōken, lit. "Adventures of Pinocchio") 
 > is a 52-episode anime series by Nippon Animation first aired in 1976 
 > which was created in coproduction with the [[ZDF]] and [[ORF]]. 

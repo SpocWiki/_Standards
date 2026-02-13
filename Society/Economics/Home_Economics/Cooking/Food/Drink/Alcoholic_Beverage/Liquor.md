@@ -1,19 +1,90 @@
 ---
 aliases:
-  - hard liquor
-  - spirits
-  - distilled spirits
-  - spiritous liquor
-  - Branntwein
-  - Liquor
+- Aqua ardens
+- bebida destilada
+- beguda destil·lada
+- Beure destillat
+- biotáille
+- boisson spiritueuse
+- brando
+- Branntwein
+- brennevin
+- Brennivín
+- Brennt vín
+- bébora destilao
+- Băutură alcoolică obținută prin distilare
+- Cheng-liû-chiú
+- Damıtılmış içki
+- destillat
+- destilát
+- destylat
+- distillato
+- Distilled beverage
+- distilled spirits
+- Drëpp
+- edari destilatu
+- gedistilleerde drank
+- gwirod
+- hard liquor
+- Hayaq yaku
+- Kortndrank
+- Laeuj get
+- Lambicadu
+- Liquor
+- Minuman keras
+- Nsa
+- Palenc
+- pálenka
+- Rượu chưng cất
+- Schnops
+- spiritas
+- spiritous liquor
+- spirits
+- Spirt
+- spritdryck
+- Sterke drank
+- stiprais spirtotais dzēriens
+- viina
+- égetett szesz
+- žestoka pića
+- žgana pijača
+- жесток пијалак
+- жестоко пиће
+- Испиирдэр
+- крепкие спиртные напитки
+- міцні спиртні напої
+- Моцныя спіртныя напоі
+- моцныя сьпіртныя напоі
+- спиртна напитка
+- ալկոհոլային թունդ խմիչքներ
+- אלכוהול מזוקק
+- בראנפן
+- الليكير (مشروب مقطر)
+- ليكير
+- نوشیدنیهای تقطیری
+- अय्ला
+- चुआने के क्रिया से बनाया हुआ पेय पदार्त
+- दिक्तुल्य भरग
+- रक्सी
+- शराब
+- ডিস্টিল্ড পানীয়
+- ಶುದ್ಧೀಕರಿಸಿರುವ ಪಾನಿಯಗಳು
+- മദ്യം
+- สุรา
+- ဒေါဝ်
+- အရက်
+- 蒸留酒
+- 蒸餾酒
+- 蒸馏酒
+- 증류주
 has_id_wikidata: Q56139
 different_from:
-  - '[[_Standards/WikiData/WD~liqueur,178780]]'
-  - '[[_Standards/WikiData/WD~distillate,11693995]]'
+- '[[_Standards/WikiData/WD~liqueur,178780]]'
+- '[[_Standards/WikiData/WD~distillate,11693995]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of: '[[_Standards/WikiData/WD~spirit_drink,12673554]]'
 OmegaWiki_Defined_Meaning: 1043319
 IMDb_keyword: liquor
@@ -23,8 +94,95 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 exact_match: http://rdfs.co/bevon/DistilledBeverage
 Dewey_Decimal_Classification: 641.25
 Commons_category: Distilled beverages
+dv_has_:
+  name_:
+    ak: Nsa
+    ar: ليكير
+    arz: الليكير (مشروب مقطر)
+    ast: bébora destilao
+    bar: Schnops
+    be: Моцныя спіртныя напоі
+    be-tarask: моцныя сьпіртныя напоі
+    bg: спиртна напитка
+    bho: शराब
+    blk: ဒေါဝ်
+    bn: ডিস্টিল্ড পানীয়
+    ca: beguda destil·lada
+    cs: pálenka
+    cy: gwirod
+    da: destillat
+    de: Destillat
+    en: liquor
+    en-ca: Distilled beverage
+    en-gb: distilled beverage
+    eo: brando
+    es: bebida destilada
+    eu: edari destilatu
+    fa: نوشیدنیهای تقطیری
+    fi: viina
+    fo: Brennivín
+    fr: boisson spiritueuse
+    fy: Sterke drank
+    ga: biotáille
+    gl: bebida destilada
+    he: אלכוהול מזוקק
+    hi: चुआने के क्रिया से बनाया हुआ पेय पदार्त
+    hr: žestoka pića
+    hsb: Palenc
+    hu: égetett szesz
+    hy: ալկոհոլային թունդ խմիչքներ
+    id: Minuman keras
+    is: Brennt vín
+    it: distillato
+    ja: 蒸留酒
+    jv: Liquor
+    kn: ಶುದ್ಧೀಕರಿಸಿರುವ ಪಾನಿಯಗಳು
+    ko: 증류주
+    la: Aqua ardens
+    lb: Drëpp
+    lt: spiritas
+    lv: stiprais spirtotais dzēriens
+    mk: жесток пијалак
+    ml: മദ്യം
+    my: အရက်
+    nan: Cheng-liû-chiú
+    nb: brennevin
+    ne: रक्सी
+    new: अय्ला
+    nl: gedistilleerde drank
+    nn: brennevin
+    oc: Beure destillat
+    pl: destylat
+    pt: bebida destilada
+    pt-br: Bebida destilada
+    qu: Hayaq yaku
+    ro: Băutură alcoolică obținută prin distilare
+    ru: крепкие спиртные напитки
+    sa: दिक्तुल्य भरग
+    sah: Испиирдэр
+    sc: Lambicadu
+    sco: distilled beverage
+    sh: Žestoka pića
+    sk: destilát
+    sl: žgana pijača
+    sq: Liquor
+    sr: жестоко пиће
+    sv: spritdryck
+    th: สุรา
+    tk: Spirt
+    tr: Damıtılmış içki
+    uk: міцні спиртні напої
+    vi: Rượu chưng cất
+    vls: Kortndrank
+    wuu: 蒸馏酒
+    yi: בראנפן
+    yue: 蒸餾酒
+    za: Laeuj get
+    zh: 蒸餾酒
+    zh-hans: 蒸馏酒
+    zh-hant: 蒸餾酒
+    zh-tw: 蒸餾酒
 ---
-
 # [[Liquor]]  
 
 #is_/similar_to :: [[Liquor/Liqueur|Liqueur]] 

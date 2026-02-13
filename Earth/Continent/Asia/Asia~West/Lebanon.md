@@ -27,9 +27,9 @@ dv_UNTERM_Chinese_Formal: 黎巴嫩共和国
 dv_UNTERM_French_Formal: la République libanaise
 dv_UNTERM_Russian: Ливан
 dv_UNTERM_Russian_Formal: Ливанская Республика
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Lebanon]]"
-dv_Sub-region_Name: "[[Western Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Lebanon]]'
+dv_Sub-region_Name: '[[Western Asia]]'
 dv_Region: 142
 dv_Sub-region: 145
 dv_Geoname-ID: 272103
@@ -52,218 +52,626 @@ dv_ISO2: LB
 dv_ISO3: LBN
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Lebanon,822|WD~Lebanon,822]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon|Lebanon]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/Lebanon.public|Lebanon.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal|Lebanon.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect|Lebanon.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/Lebanon.private|Lebanon.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]]"
+  - '[[../../../../WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon|Lebanon]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/Lebanon.public|Lebanon.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal|Lebanon.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect|Lebanon.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/Lebanon.private|Lebanon.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]]'
 dv_has_:
   name_:
+    ab: Ливан
+    ace: Lebanon
+    ady: Ливан
+    aeb-arab: لبنان
+    af: Libanon
+    am: ሊባኖስ
+    ami: Lebanon
+    an: Liban
+    ang: Libanus
+    anp: लेबनान
+    ar: لبنان
+    arc: ܠܒܢܢ
+    ary: لوبنان
+    arz: لبنان
+    as: লেবানন
+    ast: El Líbanu
+    av: Ливан
+    awa: लेवनान
+    az: Livan
+    azb: لوبنان
+    ba: Ливан
+    ban: Lébanon
+    bar: Libanon
+    bbc: Libanon
+    bcl: Lebanon
+    be: Ліван
+    be-tarask: Лібан
+    bew: Lèbanon
+    bg: Ливан
+    bgn: لبنان
+    bho: लेबनान
+    bi: Lebanon
+    bm: Lubenan
+    bn: লেবানন
+    bo: ལེ་པ་ནོན།
+    bpy: লেবানন
+    br: Liban
+    brh: Labnán
+    bs: Liban
+    bug: ᨒᨙᨅᨊᨚ
+    bxr: Ливан
+    ca: Líban
+    cbk-zam: Líbano
+    cdo: Lé-bă-nâung
+    ce: Ливан
+    ceb: Lebanon
+    chr: ᎴᏆᎾᏂ
+    ckb: لوبنان
+    co: Libanu
+    crh: Lübnan
+    crh-latn: Lübnan
+    cs: Libanon
+    csb: Liban
+    cv: Ливан
+    cy: Libanus
+    da: Libanon
+    dag: Lebanon
+    de: Libanon
+    de-at: Libanon
+    de-ch: Libanon
+    diq: Lubnan
+    dsb: Libanon
+    dtp: Lubnan
+    dty: लेवनान
+    dv: ލުބުނާން
+    dz: ལེ་བཱ་ནཱོན་
+    el: Λίβανος
+    en: Lebanon
+    en-ca: Lebanon
+    en-gb: Lebanon
+    en-us: Lebanon
+    eo: Libano
+    es: Líbano
+    et: Liibanon
+    eu: Libano
+    ext: Líbanu
+    fa: لبنان
+    ff: Liban
+    fi: Libanon
+    fo: Libanon
+    fr: Liban
+    frp: Liban
+    frr: Liibanon
+    fy: Libanon
+    ga: an Liobáin
+    gag: Livan
+    gcr: Liban
+    gd: Leabanon
+    gl: Líbano
+    glk: لۊبنان
+    gn: Lívano
+    gom: लेबनॉन
+    gom-deva: लेबनॉन
+    gom-latn: Lebanon
+    gor: Lebanon
+    gpe: Lebanon
+    grc: Λίβανος
+    gsw: Libanon
+    gu: લેબેનાન
+    gv: y Livaan
+    ha: Lebanon
+    hak: Lì-pâ-nun
+    haw: Lepanona
+    he: לבנון
+    hi: लेबनॉन
+    hif: Lebanon
+    hr: Libanon
+    hsb: Libanon
+    ht: Liban
+    hu: Libanon
+    hy: Լիբանան
+    hyw: Լիբանան
+    ia: Libano
+    id: Lebanon
+    ie: Libano
+    ig: Lebanon
+    ilo: Lebanon
+    io: Libano
+    is: Líbanon
+    it: Libano
+    ja: レバノン
+    jam: Lebanan
+    jbo: lu'orgu'e
+    jv: Libanon
+    ka: ლიბანი
+    kaa: Livan
+    kab: Lubnan
+    kbd: Ливан
+    kbp: Liibaŋ
+    kcg: Lebanon
+    kg: Lebanon
+    kge: Libanon
+    ki: Lebanon
+    kk: Ливан
+    kl: Lebanon
+    km: លីបង់
+    kn: ಲೆಬನಾನ್
+    ko: 레바논
+    krc: Любнан
+    ks: لؠبنان
+    ksh: Lebannon
+    ku: Libnan
+    ku-latn: Libnan
+    kv: Ливан
+    kw: Lebnon
+    ky: Ливан
+    la: Libanus
+    lad: Levanon
+    lb: Libanon
+    lez: Ливан
+    lfn: Lubnan
+    li: Libanon
+    lij: Libano
+    lld: Liban
+    lmo: Liban
+    ln: Liban
+    lo: ປະເທດເລບານອນ
+    lrc: لبنان
+    lt: Libanas
+    lv: Libāna
+    lzh: 黎巴嫩
+    mad: Lebanon
+    mai: लेबनान
+    mdf: Либан
+    mg: Libana
+    mhr: Ливан
+    mi: Repanona
+    min: Lebanon
+    mk: Либан
+    ml: ലെബനാൻ
+    mn: Ливан
+    mni: ꯂꯦꯕꯥꯅꯣꯟ
+    mr: लेबेनॉन
+    ms: Lubnan
+    ms-arab: لبنان
+    mt: Libanu
+    mwl: Líbano
+    my: လက်ဘနွန်နိုင်ငံ
+    mzn: لبنان
+    na: Ribanon
+    nah: Libano
+    nan: Lī-pa-lùn
+    nap: Libbano
+    nb: Libanon
+    nds: Libanon
+    ne: लेवनान
+    new: लेबानन
+    nl: Libanon
+    nn: Libanon
+    nov: Liban
+    nqo: ߟߌߓߊ߲߫
+    nv: Gadtsoh Dineʼé Bikéyah
+    oc: Liban
+    olo: Livanu
+    om: Libaanon
+    or: ଲେବନାନ
+    os: Ливан
+    pa: ਲਿਬਨਾਨ
+    pam: Líbanu
+    pap: Líbano
+    pcd: Liban
+    pi: लेबनान
+    pih: Lebanon
+    pl: Liban
+    pms: Lìban
+    pnb: لبنان
+    pnt: Λίβανος
+    ps: لېبنان
+    pt: Líbano
+    pt-br: Líbano
+    qu: Libanu
+    rmy: Lebnaniya
+    ro: Liban
+    ru: Ливан
+    rue: Лібанон
+    rw: Libani
+    sa: लेबनान
+    sah: Либан
+    sat: ᱞᱮᱵᱟᱱᱚᱱ
+    sc: Lìbanu
+    scn: Lìbbanu
+    sco: Lebanon
+    sd: لبنان
+    se: Libanon
+    sgs: Lėbans
+    sh: Libanon
+    shn: မိူင်းလႄႇပႃႇၼွၼ်ႇ
+    si: ලෙබනන් සමුහාණ්ඩුව
+    sk: Libanon
+    sl: Libanon
+    sm: Lepanona
+    smn: Libanon
+    sms: Libanoon
+    sn: Lebanon
+    so: Lubnaan
+    sq: Libani
+    sr: Либан
+    sr-ec: Либан
+    sr-el: Liban
+    srn: Libanon
+    ss: ILibhanoni
+    stq: Libanon
+    su: Libanon
+    sv: Libanon
+    sw: Lebanoni
+    syl: ꠟꠦꠛꠣꠘꠘ
+    szl: Liban
+    szy: Lebanon
+    ta: லெபனான்
+    tay: Lebanon
+    te: లెబనాన్
+    tet: Líbanu
+    tg: Лубнон
+    tg-cyrl: Лубнон
+    tg-latn: Lubnon
+    th: ประเทศเลบานอน
+    tk: Liwan
+    tl: Lebanon
+    tly: Livan
+    to: Lepanoni
+    tok: ma Lunpan
+    tpi: Lebanon
+    tr: Lübnan
+    trv: Lebanon
+    ts: Lebanon
+    tt: Ливан
+    tt-cyrl: Лөбнан
+    tum: Lebanon
+    tw: Lebanon
+    udm: Ливан
+    ug: لىۋان
+    uk: Ліван
+    ur: لبنان
+    uz: Livan
+    vec: Lìbano
+    vep: Livan
+    vi: Liban
+    vls: Libanon
+    vo: Libanän
+    vro: Liibanon
+    wa: Liban
+    war: Libano
+    wo: Libaa
+    wuu: 黎巴嫩
+    xal: Лебанмудин Орн
+    xmf: ლიბანი
+    yi: לבנון
+    yo: Lẹ́bánọ́nì
+    yue: 黎巴嫩
+    za: Lebanon
+    zea: Libanon
+    zgh: ⵍⵓⴱⵏⴰⵏ
+    zh: 黎巴嫩
+    zh-cn: 黎巴嫩
+    zh-hans: 黎巴嫩
+    zh-hant: 黎巴嫩
+    zh-hk: 黎巴嫩
+    zh-my: 黎巴嫩
+    zh-tw: 黎巴嫩
+    zu: i-Lebanon
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Lebanon
 dv_has_name_de: Libanon
 dv_Area-Total: 10452
 dv_Area-Land: 10230
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: RL
-dv_Capital: "[[Lebanon/Counties/Beirut/City/Beirut]]"
+dv_Capital: '[[Lebanon/Counties/Beirut/City/Beirut]]'
 dv_Alcohol-l: 2.2
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 35.5
 dv_has_place_latitude: 33.87
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Lebanon,822|WD~Lebanon,822]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon|Lebanon]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/Lebanon.public|Lebanon.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal|Lebanon.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect|Lebanon.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/Lebanon.private|Lebanon.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]]"
+- '[[../../../../WikiData/WD~Lebanon,822|WD~Lebanon,822]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon|Lebanon]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/Lebanon.public|Lebanon.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/Lebanon.internal|Lebanon.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/Lebanon.protect|Lebanon.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/Lebanon.private|Lebanon.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Lebanon
-
 aliases:
-  - Lebanon
-  - Líbano
-  - Liban
-  - لبنان
-  - 黎巴嫩
-  - Ливан
-  - the Lebanese Republic
-  - la República Libanesa
-  - Líbano (el)
+- an Liobáin
+- El Líbanu
+- Gadtsoh Dineʼé Bikéyah
+- i-Lebanon
+- ILibhanoni
+- la República Libanesa
+- Labnán
+- Leabanon
+- Lebanan
+- Lebannon
+- Lebanon
+- Lebanoni
+- Lebnaniya
+- Lebnon
+- Lepanona
+- Lepanoni
+- Levanon
+- Libaa
+- Libaanon
+- Liban
+- Libana
+- Libanas
+- Libani
+- Libano
+- Libanon
+- Libanoon
+- Libanu
+- Libanus
+- Libanän
+- Libbano
+- Libnan
+- Libāna
+- Liibanon
+- Liibaŋ
+- Livan
+- Livanu
+- Liwan
+- lu'orgu'e
+- Lubenan
+- Lubnaan
+- Lubnan
+- Lubnon
+- Lèbanon
+- Lé-bă-nâung
+- Lébanon
+- Lì-pâ-nun
+- Lìban
+- Lìbano
+- Lìbanu
+- Lìbbanu
+- Líban
+- Líbano
+- Líbano (el)
+- Líbanon
+- Líbanu
+- Lívano
+- Lübnan
+- Lėbans
+- Lī-pa-lùn
+- Lẹ́bánọ́nì
+- ma Lunpan
+- Repanona
+- Ribanon
+- the Lebanese Republic
+- y Livaan
+- Λίβανος
+- Лібан
+- Лібанон
+- Ліван
+- Лебанмудин Орн
+- Либан
+- Ливан
+- Лубнон
+- Любнан
+- Лөбнан
+- Լիբանան
+- לבנון
+- لؠبنان
+- لبنان
+- لوبنان
+- لىۋان
+- لۊبنان
+- لېبنان
+- ܠܒܢܢ
+- ލުބުނާން
+- ߟߌߓߊ߲߫
+- लेबनान
+- लेबनॉन
+- लेबानन
+- लेबेनॉन
+- लेवनान
+- লেবানন
+- ਲਿਬਨਾਨ
+- લેબેનાન
+- ଲେବନାନ
+- லெபனான்
+- లెబనాన్
+- ಲೆಬನಾನ್
+- ലെബനാൻ
+- ලෙබනන් සමුහාණ්ඩුව
+- ประเทศเลบานอน
+- ປະເທດເລບານອນ
+- ལེ་པ་ནོན།
+- ལེ་བཱ་ནཱོན་
+- မိူင်းလႄႇပႃႇၼွၼ်ႇ
+- လက်ဘနွန်နိုင်ငံ
+- ლიბანი
+- ሊባኖስ
+- ᎴᏆᎾᏂ
+- លីបង់
+- ᨒᨙᨅᨊᨚ
+- ᱞᱮᱵᱟᱱᱚᱱ
+- ⵍⵓⴱⵏⴰⵏ
+- レバノン
+- 黎巴嫩
+- ꠟꠦꠛꠣꠘꠘ
+- ꯂꯦꯕꯥꯅꯣꯟ
+- 레바논
 has_id_wikidata: Q822
 age_of_majority: 18
 aircraft_registration_prefix: LB
-anthem: "[[_Standards/WikiData/WD~Lebanese_national_anthem,329961]]"
+anthem: '[[_Standards/WikiData/WD~Lebanese_national_anthem,329961]]'
 area: 10452
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
 birth_rate:
-  - 14.576
-  - 14.948
-  - 15.332
-  - 15.822
+- 14.576
+- 14.948
+- 15.332
+- 15.822
 BTI_Governance_Index:
-  - 3.6
-  - 3.05
-  - 3.95
-  - 3.96
-  - 3.97
-  - 4.16
-  - 4.19
-  - 4.48
-  - 4.53
+- 3.6
+- 3.05
+- 3.95
+- 3.96
+- 3.97
+- 4.16
+- 4.19
+- 4.48
+- 4.53
 BTI_Status_Index:
-  - 6
-  - 4.68
-  - 5.15
-  - 5.36
-  - 5.71
-  - 5.74
-  - 6.16
-  - 6.21
-  - 6.24
-capital: "[[_Standards/WikiData/WD~Beirut,3820]]"
-central_bank: "[[_Standards/WikiData/WD~Banque_du_Liban,1776564]]"
+- 6
+- 4.68
+- 5.15
+- 5.36
+- 5.71
+- 5.74
+- 6.16
+- 6.21
+- 6.24
+capital: '[[_Standards/WikiData/WD~Beirut,3820]]'
+central_bank: '[[_Standards/WikiData/WD~Banque_du_Liban,1776564]]'
 CIVICUS_Monitor_country_entry: lebanon
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Lebanon,202782]]"
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Lebanon,202782]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lebanon.svg
 Commons_category: Lebanon
 Commons_gallery: لبنان / Liban
 confidential: private
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Mount_Lebanon_Governorate,216945]]"
-  - "[[_Standards/WikiData/WD~South_Governorate,223643]]"
-  - "[[_Standards/WikiData/WD~Beqaa_Governorate,319632]]"
-  - "[[_Standards/WikiData/WD~North_Governorate,390267]]"
-  - "[[_Standards/WikiData/WD~Nabatieh_Governorate,458417]]"
-  - "[[_Standards/WikiData/WD~Beirut_Governorate,651688]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Mount_Lebanon_Governorate,216945]]'
+- '[[_Standards/WikiData/WD~South_Governorate,223643]]'
+- '[[_Standards/WikiData/WD~Beqaa_Governorate,319632]]'
+- '[[_Standards/WikiData/WD~North_Governorate,390267]]'
+- '[[_Standards/WikiData/WD~Nabatieh_Governorate,458417]]'
+- '[[_Standards/WikiData/WD~Beirut_Governorate,651688]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 coordinates_of_easternmost_point: Point(36.62368 34.20084)
 coordinates_of_northernmost_point: Point(36.3352 34.6922)
 coordinates_of_southernmost_point: Point(35.37797 33.05508)
 coordinates_of_westernmost_point: Point(35.10377 33.09409)
 coordinate_location: Point(35.766667 33.833333)
-country: "[[_Standards/WikiData/WD~Lebanon,822]]"
+country: '[[_Standards/WikiData/WD~Lebanon,822]]'
 country_calling_code: 961
 cssclasses:
-  - private
-  - note
-culture: "[[_Standards/WikiData/WD~culture_of_Lebanon,3007350]]"
-currency: "[[_Standards/WikiData/WD~Lebanese_pound,201880]]"
+- private
+- note
+culture: '[[_Standards/WikiData/WD~culture_of_Lebanon,3007350]]'
+currency: '[[_Standards/WikiData/WD~Lebanese_pound,201880]]'
 death_rate:
-  - 5.178
-  - 6.253
-  - 8.271
-  - 8.857
+- 5.178
+- 6.253
+- 8.271
+- 8.857
 Democracy_Index: 4.16
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Lebanon,260943]]"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Lebanon,260943]]'
 demonym:
-  - لوبناني
-  - لوبنانية
-  - لوبنانيين
-  - لوبنانيات
-  - Liobánach
-  - Lebanese
-  - Libanais
-  - Libanänan
-  - لبناني
-  - لبنانية
-  - لبنانيون
-  - libanés
-  - libanesa
-  - লেবানীয়
-  - Libanese
-  - Libanesin
-  - Libanaise
-  - לבנוני
-  - לבנונית
-  - libanoni
-  - Libanano
-  - libanese
-  - libanesi
-  - lubnani
-  - libaneser
-  - libanesar
-  - libanez
-  - libaneză
-  - libanezi
-  - ливанец
-  - ливанка
-  - libanesisk
-  - libaneza
-  - libaneze
-  - libanezi
-  - libanezo
+- لوبناني
+- لوبنانية
+- لوبنانيين
+- لوبنانيات
+- Liobánach
+- Lebanese
+- Libanais
+- Libanänan
+- لبناني
+- لبنانية
+- لبنانيون
+- libanés
+- libanesa
+- লেবানীয়
+- Libanese
+- Libanesin
+- Libanaise
+- לבנוני
+- לבנונית
+- libanoni
+- Libanano
+- libanese
+- libanesi
+- lubnani
+- libaneser
+- libanesar
+- libanez
+- libaneză
+- libanezi
+- ливанец
+- ливанка
+- libanesisk
+- libaneza
+- libaneze
+- libanezi
+- libanezo
 described_at_URL: http://68k.news/index.php?section=nation&loc=LB&lang=AR
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20divisions.svg
 Dewey_Decimal_Classification: 2--5692
-different_from: "[[_Standards/WikiData/WD~Q54894830,54894830]]"
+different_from: '[[_Standards/WikiData/WD~Q54894830,54894830]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Palestine,219060]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Palestine,219060]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
 DPLA_subject_term: Lebanon
 draft: true
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Lebanon,3317491]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Lebanon,3317491]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-  - "[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~160,25648824]]"
-  - "[[_Standards/WikiData/WD~140,25648888]]"
-  - "[[_Standards/WikiData/WD~175,25648889]]"
+- '[[_Standards/WikiData/WD~160,25648824]]'
+- '[[_Standards/WikiData/WD~140,25648888]]'
+- '[[_Standards/WikiData/WD~175,25648889]]'
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ""
+expiryDate: ''
 female_population:
-  - 2879140
-  - 2827383
-  - 2914639
-  - 2967783
+- 2879140
+- 2827383
+- 2914639
+- 2967783
 FIPS_10_4_countries_and_regions_: LE
-flag: "[[_Standards/WikiData/WD~flag_of_Lebanon,36005]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Lebanon,36005]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lebanon.svg
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Lebanon,2018891]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Lebanon,2018891]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Lebanon.map
 Gini_coefficient: 31.8
 GitHub_topic: lebanon
@@ -271,13 +679,13 @@ GOST_7_67_cyrillic: ЛИВ
 GS1_country_code: 528
 Happy_Planet_Index_score: 39
 hashtag: Lebanon
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-has_Template: "[[Extract~Note~Template]]"
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-20
-head_of_government: "[[_Standards/WikiData/WD~Nawaf_Salam,638463]]"
-head_of_state: "[[_Standards/WikiData/WD~Joseph_Aoun,29033962]]"
+head_of_government: '[[_Standards/WikiData/WD~Nawaf_Salam,638463]]'
+head_of_state: '[[_Standards/WikiData/WD~Joseph_Aoun,29033962]]'
 highest_point: "[[_Standards/WikiData/WD~Qurnat_as_Sawda',311330]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Lebanon,234541]]"
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Lebanon,234541]]'
 Human_Development_Index: 0.706
 IAB_code: 1337
 icon: flag-lb
@@ -285,9 +693,9 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Beirut%20skyline%2C%20
 inception: 1943-11-22
 INSEE_countries_and_foreign_territories_code: 99205
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 IOC_country_code: LBN
 isDeleted: false
 ISNI: 123420559
@@ -300,128 +708,128 @@ keywords: Lebanon
 Krugosvet_article: strany-mira/livan
 lang: en
 Languages:
-  - ar-LB
-  - fr-LB
-  - en
-  - hy
-language_used: "[[_Standards/WikiData/WD~Mia_kalifa_mi_mujer,1516642]]"
-layout: ""
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Lebanon,1422275]]"
+- ar-LB
+- fr-LB
+- en
+- hy
+language_used: '[[_Standards/WikiData/WD~Mia_kalifa_mi_mujer,1516642]]'
+layout: ''
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Lebanon,1422275]]'
 Library_of_Congress_Classification: HA4559
 licence_plate_code: RL
 license: (c)copyrighted
 life_expectancy: 79.584
 linkTitle: Lebanon
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Levant,81483]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Levant,81483]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Eastern_European_Time,190252]]"
-  - "[[_Standards/WikiData/WD~Eastern_European_Summer_Time,1109976]]"
-  - "[[_Standards/WikiData/WD~Asia_Beirut,63285946]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-  - "[[_Standards/WikiData/WD~UTC+03_00,6760]]"
+- '[[_Standards/WikiData/WD~Eastern_European_Time,190252]]'
+- '[[_Standards/WikiData/WD~Eastern_European_Summer_Time,1109976]]'
+- '[[_Standards/WikiData/WD~Asia_Beirut,63285946]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
 location:
-  - 33.87
-  - 35.5
+- 33.87
+- 35.5
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20adm%20location%20map.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lebanon%20%28orthographic%20projection%29.svg
-lowest_point: "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
+lowest_point: '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
 M49_code: 422
 mains_voltage: 220
 male_population:
-  - 2713490
-  - 2662356
-  - 2748285
-  - 2814124
+- 2713490
+- 2662356
+- 2748285
+- 2814124
 maritime_identification_digits: 450
 marriageable_age:
-  - 17
-  - 18
+- 17
+- 18
 member_of:
-  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]"
-  - "[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Arab_League,7172]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
 MeSH_tree_code: Z01.252.245.500.450
 mobile_country_code: 415
 motto_text:
-  - "Libanus: Y Wefr o Fyw"
-  - Lebanon Passion for Living
+- 'Libanus: Y Wefr o Fyw'
+- Lebanon Passion for Living
 name_in_native_language: الجمهوريّة اللبنانيّة
 native_label:
-  - Republik Lubnan
-  - لبنان
-  - Lebanon
-  - الجمهورية اللبنانية
-  - Republic of Lebanon
-  - Lubnan
+- Republik Lubnan
+- لبنان
+- Lebanon
+- الجمهورية اللبنانية
+- Republic of Lebanon
+- Lubnan
 nominal_GDP: 23131941557
 number_of_out_of_school_children: 201675
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Lebanon,14915225]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Lebanon,22001564]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Lebanon,14915225]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Lebanon,22001564]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 official_name:
-  - Republik Lubnan
-  - Republik Lebanon
-  - لبنان
-  - Lebanon
-  - République libanaise
-  - الجمهورية اللبنانية
-  - Lebanese Republic
-  - Lubnan
+- Republik Lubnan
+- Republik Lebanon
+- لبنان
+- Lebanon
+- République libanaise
+- الجمهورية اللبنانية
+- Lebanese Republic
+- Lubnan
 OmegaWiki_Defined_Meaning: 7483
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zahle%20%28Lebanon%29%20banner.jpg
 part_of:
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-  - "[[_Standards/WikiData/WD~Middle_East,7204]]"
-  - "[[_Standards/WikiData/WD~West_Asia,27293]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q20517561,20517561]]"
+- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~Middle_East,7204]]'
+- '[[_Standards/WikiData/WD~West_Asia,27293]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q20517561,20517561]]'
 PM20_geo_code: B24c
 population: 6100075
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Libanon.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Liban.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Libanon.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Liban.wav
 publish: false
-publishDate: ""
+publishDate: ''
 rural_population:
-  - 589488
-  - 609988
-  - 627169
-  - 650002
+- 589488
+- 609988
+- 627169
+- 650002
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-short_name: 🇱🇧
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+short_name: "\U0001F1F1\U0001F1E7"
 social_media_followers: 91494
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26946
 subreddit:
-  - lebanon
-  - Lebanese
+- lebanon
+- Lebanese
 tags:
-  - geo/Country
-  - Lebanon
-  - excalidraw
+- geo/Country
+- Lebanon
+- excalidraw
 title: Lebanon
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Lebanon,14614974]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.lb,41835]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lebanon,14614974]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lb,41835]]'
 total_fertility_rate: 1.714
 trunk_prefix: 0
 type: private_note
@@ -430,19 +838,18 @@ UIC_numerical_country_code: 98
 UMLS_CUI: C0023190
 UNDP_country_code: LEB
 unemployment_rate: 6
-Unicode_character: 🇱🇧
+Unicode_character: "\U0001F1F1\U0001F1E7"
 urban_population:
-  - 4900251
-  - 4982643
-  - 5035754
-  - 5131905
+- 4900251
+- 4982643
+- 5035754
+- 5131905
 U_S_National_Archives_Identifier: 10035724
 VAT_rate: 11
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Lebanon,7112332]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Lebanon,7112332]]'
 WIPO_ST_3: LB
 Wolfram_Language_entity_code: Entity["Country", "Lebanon"]
 ---
-
 # [[Lebanon]] 
 
 ## [[Lebanon]] has Properties...

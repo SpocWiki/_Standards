@@ -1,19 +1,34 @@
 ---
 aliases:
-  - Hermann_Heinrich_Gossen
-  - Hermann Heinrich Gossen
-  - Gossen
-  - Gossen,Hermann_Heinrich
-  - Gossen,Hermann Heinrich
+- German Henrix Qossen
+- Gossen
+- Gossen,Hermann Heinrich
+- Gossen,Hermann_Heinrich
+- Heinrich Gossen
+- Herman Hajnrih Gosen
+- Herman Heinrich Gossen
+- Hermann Heinrich Gossen
+- Hermann_Heinrich_Gossen
+- Герман Гайнріх Ґоссен
+- Герман Генрих Госсен
+- Госсен, Герман Генрих
+- Гэрман Гайнрых Госэн
+- Херман Хайнрих Госен
+- Հերման Հայնրիխ Գոսսեն
+- הרמן היינריך גוסן
+- هيرمان هاينريش جوسين
+- ヘルマン・ハインリヒ・ゴッセン
+- 赫爾曼·海因里希·戈森
+- 헤르만 하인리히 고센
 has_id_wikidata: Q62835
 educated_at: '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
 occupation: '[[_Standards/WikiData/WD~economist,188094]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Hermann,1158570]]'
-  - '[[_Standards/WikiData/WD~Heinrich,2018484]]'
+- '[[_Standards/WikiData/WD~Hermann,1158570]]'
+- '[[_Standards/WikiData/WD~Heinrich,2018484]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Gossen,37563824]]'
 date_of_death: 1858-02-13T00:00:00Z
@@ -29,8 +44,51 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Gossen.png
 ISNI: 0000000107969592
 Libris_URI: 97mpps7t09w387c
 name_in_native_language: Hermann Heinrich Gossen
+dv_has_:
+  name_:
+    ar: هيرمان هاينريش جوسين
+    arz: هيرمان هاينريش جوسين
+    ast: Hermann Heinrich Gossen
+    az: German Henrix Qossen
+    be-tarask: Гэрман Гайнрых Госэн
+    bg: Херман Хайнрих Госен
+    ca: Heinrich Gossen
+    ce: Госсен, Герман Генрих
+    cs: Hermann Heinrich Gossen
+    da: Hermann Heinrich Gossen
+    de: Hermann Heinrich Gossen
+    en: Hermann Heinrich Gossen
+    es: Hermann Heinrich Gossen
+    eu: Hermann Heinrich Gossen
+    fi: Hermann Heinrich Gossen
+    fr: Heinrich Gossen
+    gl: Hermann Heinrich Gossen
+    he: הרמן היינריך גוסן
+    hu: Hermann Heinrich Gossen
+    hy: Հերման Հայնրիխ Գոսսեն
+    id: Herman Heinrich Gossen
+    is: Hermann Heinrich Gossen
+    it: Hermann Heinrich Gossen
+    ja: ヘルマン・ハインリヒ・ゴッセン
+    ko: 헤르만 하인리히 고센
+    mg: Heinrich Gossen
+    mul: Hermann Heinrich Gossen
+    nb: Hermann Heinrich Gossen
+    nl: Hermann Heinrich Gossen
+    nn: Hermann Heinrich Gossen
+    pl: Hermann Heinrich Gossen
+    pt: Hermann Heinrich Gossen
+    pt-br: Hermann Heinrich Gossen
+    ru: Герман Генрих Госсен
+    sl: Hermann Heinrich Gossen
+    sq: Hermann Heinrich Gossen
+    sr: Herman Hajnrih Gosen
+    sv: Hermann Heinrich Gossen
+    tr: Hermann Heinrich Gossen
+    uk: Герман Гайнріх Ґоссен
+    war: Hermann Heinrich Gossen
+    zh: 赫爾曼·海因里希·戈森
 ---
-
 # [[Gossen,Hermann_Heinrich]] 
 
 #is_/same_as :: [[WD~Hermann_Heinrich_Gossen,62835]]

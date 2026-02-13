@@ -1,10 +1,51 @@
 ---
 aliases:
-  - Triadobatrachus_massinoti
-  - Triadobatrachus massinoti
+- Triadobatrach
+- Triadobatrachus
+- Triadobatrachus massinoti
+- Triadobatrachus_massinoti
+- טריאדובטרצ'וס
+- تريادوباتريشز
+- غوکهای سهگانه
+- トリアドバトラクス
+- 三叠尾蛙属
 title: Triadobatrachus massinoti
+has_id_wikidata: Q134290
+dv_has_:
+  name_:
+    ar: تريادوباتريشز
+    ast: Triadobatrachus
+    bg: Triadobatrachus
+    ca: Triadobatrachus massinoti
+    ceb: Triadobatrachus
+    cs: Triadobatrachus
+    de: Triadobatrachus
+    en: Triadobatrachus
+    eo: Triadobatrachus
+    es: Triadobatrachus
+    fa: غوکهای سهگانه
+    fi: Triadobatrachus
+    fr: Triadobatrachus
+    ga: Triadobatrachus
+    he: טריאדובטרצ'וס
+    id: Triadobatrachus
+    it: Triadobatrachus massinoti
+    ja: トリアドバトラクス
+    la: Triadobatrachus
+    mul: Triadobatrachus
+    nl: Triadobatrachus
+    pl: Triadobatrach
+    pt: Triadobatrachus
+    ro: Triadobatrachus
+    ru: Triadobatrachus
+    sq: Triadobatrachus
+    sv: Triadobatrachus
+    uk: Triadobatrachus massinoti
+    vec: Triadobatrachus massinoti
+    vi: Triadobatrachus
+    war: Triadobatrachus
+    zh: 三叠尾蛙属
 ---
-
 # [[Triadobatrachus_massinoti]] 
 
 ## #has_/text_of_/abstract 

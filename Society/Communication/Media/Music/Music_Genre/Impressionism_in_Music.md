@@ -1,14 +1,105 @@
 ---
 aliases:
-  - Impressionism in music
-  - Impressionism_in_Music
-  - Impressionism in Music
+- cerddoriaeth fynegiadol
+- Expresionismo en la música
+- glasbeni impresionizem
+- hudební impresionismus
+- impresionism
+- impresionisma muziko
+- impresionismu musical
+- impresionizmi në muzikë
+- impresjonisme
+- impresjonizm w muzyce
+- impressionism
+- Impressionism in music
+- impressionisme
+- impressionisme musical
+- impressionismo in musica
+- impressionismo na música
+- Impressionismus
+- impressionismus musicus
+- Impressionism_in_Music
+- impressjoniżmu fil-mużika
+- impresszionista zene
+- impriseanachas sa cheol
+- inpresionismoa musikan
+- musique impressionniste
+- música impresionista
+- müzikte empresyonizm
+- âm nhạc ấn tượng
+- Імпресіонізм у музиці
+- імпрэсіянізм у музыцы
+- Импресионистичка музика
+- импрессионизм
+- Музика импресионизма
+- Իմպրեսիոնիզմը երաժշտության մեջ
+- מוזיקה אימפרסיוניסטית
+- الانطباعية في الموسيقى
+- امپرسیونیستی موسیقی
+- امپرسیونیسم در موسیقی
+- ดนตรียุคอิมเพรสชันนิสม์
+- იმპრესიონიზმი (მუსიკა)
+- 印象主义音乐
+- 印象主義音楽
+- 印象主義音樂
+- 印象派音樂
+- 인상주의 음악
 has_id_wikidata: Q837182
 instance_of: '[[_Standards/WikiData/WD~musical_movement,12020884]]'
 different_from: '[[_Standards/WikiData/WD~impressionist_music,105697765]]'
 part_of: '[[_Standards/WikiData/WD~classical_music,9730]]'
+dv_has_:
+  name_:
+    ar: الانطباعية في الموسيقى
+    ast: impresionismu musical
+    be-tarask: імпрэсіянізм у музыцы
+    ca: impressionisme musical
+    cs: hudební impresionismus
+    cy: cerddoriaeth fynegiadol
+    da: impressionisme
+    de: Impressionismus
+    en: impressionism in music
+    eo: impresionisma muziko
+    es: Expresionismo en la música
+    et: impressionism
+    eu: inpresionismoa musikan
+    fa: امپرسیونیسم در موسیقی
+    fr: musique impressionniste
+    ga: impriseanachas sa cheol
+    gl: música impresionista
+    gsw: Impressionismus
+    he: מוזיקה אימפרסיוניסטית
+    hu: impresszionista zene
+    hy: Իմպրեսիոնիզմը երաժշտության մեջ
+    it: impressionismo in musica
+    ja: 印象主義音楽
+    ka: იმპრესიონიზმი (მუსიკა)
+    ko: 인상주의 음악
+    la: impressionismus musicus
+    mk: Импресионистичка музика
+    mt: impressjoniżmu fil-mużika
+    mzn: امپرسیونیستی موسیقی
+    nb: impresjonisme
+    nl: impressionisme
+    nn: impresjonisme
+    pl: impresjonizm w muzyce
+    pt: impressionismo na música
+    ro: impresionism
+    ru: импрессионизм
+    sl: glasbeni impresionizem
+    sq: impresionizmi në muzikë
+    sr: Музика импресионизма
+    sv: impressionism
+    th: ดนตรียุคอิมเพรสชันนิสม์
+    tr: müzikte empresyonizm
+    uk: Імпресіонізм у музиці
+    vi: âm nhạc ấn tượng
+    yue: 印象派音樂
+    zh: 印象主义音乐
+    zh-hans: 印象主义音乐
+    zh-hant: 印象主義音樂
+    zh-hk: 印象主義音樂
 ---
-
 # [[Impressionism_in_Music]] 
 
 #is_/same_as :: [[WD~Impressionism_in_music,837182]] 

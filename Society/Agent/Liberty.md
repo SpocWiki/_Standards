@@ -1,41 +1,284 @@
 ---
 aliases:
+- ablode
+- askatasun
+- atiniña
+- azadlıq
+- azadî
+- azatlıq
+- brīvība
+- chū-iû
+- cê̤ṳ-iù
+- erkinlik
+- faahodie
+- fahalalahana
+- frankiz
+- Freiheit
+- Freihäit
+- friddjavuohta
+- fridom
+- frihed
+- frihet
+- frijjavuohta
+- frijjvuõtt
+- frïjjevoete
+- frēodōm
+- hɔrɔnya
+- Inkululeko
+- kalayaan
+- katalingkasan
+- kebebasan
+- laisvė
+- lhibardade
+- libartà
+- libati
+- libbirtati
+- liberdade
+- libereco
+- libertad
+- libertade
+- libertas
+- libertat
+- libertate
+- liberty
+- Libertà
+- liberté
+- liberté (politik)
+- libète
+- liousoms
+- liria
+- llibertat
+- llibertá
+- qispi kay
+- rhyddid
+- rijjâvuotâ
+- saoirse
+- seyrsnys
+- sloboda
+- svoboda
+- szabadság
+- Tɩ-yɔɔ wɛʊ
+- tự do
+- vabadus
+- vabahus
+- vapaus
+- Vrieheid
+- vrijheid
+- Vryheid
+- wolność
+- xoriyad
+- xoseriye
+- özgürlük
+- Ƴanci
+- ελευθερία
+- аоре
+- бостандық
+- воляшись
+- ирек
+- иреклек
+- Мездлун
+- озодӣ
+- сæрибардзинад
+- свабода
+- свобода
+- слобода
+- ազատություն
+- חירות
+- פריי
+- آزادي
+- آزادی
+- اؤزگورلوک
+- حرية
+- حریت
+- سەربەستی
+- لیبرداد
+- کبيبسن
+- ܚܐܪܘܬܐ
+- स्वतन्त्रता
+- स्वाधीनता
+- আজাদী
+- ਆਜ਼ਾਦੀ
+- விடுதலை
+- ಸ್ವಾತಂತ್ರ್ಯ
+- സ്വാതന്ത്ര്യം
+- เสรีภาพ
+- རང་དབང་།
+- თავისუფლება
+- አርነት
+- ᱯᱷᱩᱨᱜᱟ.ᱞ
+- ⵜⵉⵍⴻⵍⵍⵉ
+- 自由
+- 자유
 has_id_wikidata: Q2979
 instance_of:
-  - "[[_Standards/WikiData/WD~ideal,840396]]"
-  - "[[_Standards/WikiData/WD~quality,1207505]]"
-  - "[[_Standards/WikiData/WD~type_of_value,129510955]]"
+- '[[_Standards/WikiData/WD~ideal,840396]]'
+- '[[_Standards/WikiData/WD~quality,1207505]]'
+- '[[_Standards/WikiData/WD~type_of_value,129510955]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sloboda,1130491]]"
-  - "[[_Standards/WikiData/WD~Q19453141,19453141]]"
-subclass_of: "[[_Standards/WikiData/WD~aptitude,1347367]]"
-has_characteristic: "[[_Standards/WikiData/WD~agency,4691992]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Liberty,10542594]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~自由,22828867]]"
-depicted_by: "[[_Standards/WikiData/WD~Statue_of_Liberty,_Kalamata,114139096]]"
-facet_of: "[[_Standards/WikiData/WD~human_rights,8458]]"
-OmegaWiki_Defined_Meaning: "4891"
+- '[[_Standards/WikiData/WD~sloboda,1130491]]'
+- '[[_Standards/WikiData/WD~Q19453141,19453141]]'
+subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
+has_characteristic: '[[_Standards/WikiData/WD~agency,4691992]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Liberty,10542594]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~自由,22828867]]'
+depicted_by: '[[_Standards/WikiData/WD~Statue_of_Liberty,_Kalamata,114139096]]'
+facet_of: '[[_Standards/WikiData/WD~human_rights,8458]]'
+OmegaWiki_Defined_Meaning: 4891
 Commons_category: Liberty
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20Bell%202017a.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%207.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/La%20Libert%C3%A9%20guidant%20le%20peuple%20-%20Eug%C3%A8ne%20Delacroix%20-%20Mus%C3%A9e%20du%20Louvre%20Peintures%20RF%20129%20-%20apr%C3%A8s%20restauration%202024.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Liberty%20Bell%202017a.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Liberty%207.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-R%20Ashwani%20Banjan%20Murmu-%E1%B1%AF%E1%B1%B7%E1%B1%A9%E1%B1%A8%E1%B1%9C%E1%B1%9F.%E1%B1%9E.wav
 UMLS_CUI:
-  - C0016694
-  - C0376316
+- C0016694
+- C0376316
 MeSH_tree_code:
-  - I01.880.604.473.380
-  - N03.706.437.380
+- I01.880.604.473.380
+- N03.706.437.380
+dv_has_:
+  name_:
+    af: Vryheid
+    ak: faahodie
+    am: አርነት
+    ang: frēodōm
+    ar: حرية
+    arc: ܚܐܪܘܬܐ
+    ast: llibertá
+    ay: atiniña
+    az: azadlıq
+    azb: اؤزگورلوک
+    ba: ирек
+    bcl: katalingkasan
+    be: свабода
+    be-tarask: свабода
+    bg: Свобода
+    bm: hɔrɔnya
+    bn: আজাদী
+    bo: རང་དབང་།
+    br: frankiz
+    bs: sloboda
+    ca: llibertat
+    cdo: cê̤ṳ-iù
+    ckb: سەربەستی
+    cs: svoboda
+    cy: rhyddid
+    da: frihed
+    de: Freiheit
+    de-ch: Freiheit
+    diq: xoseriye
+    ee: ablode
+    el: ελευθερία
+    en: liberty
+    eo: libereco
+    es: libertad
+    et: vabadus
+    eu: askatasun
+    fa: آزادی
+    fi: vapaus
+    fr: liberté
+    ga: saoirse
+    gcr: liberté (politik)
+    gl: liberdade
+    gsw: Freihäit
+    gv: seyrsnys
+    ha: Ƴanci
+    he: חירות
+    hi: स्वाधीनता
+    hr: sloboda
+    ht: libète
+    hu: szabadság
+    hy: ազատություն
+    id: libertas
+    it: libertà
+    ja: 自由
+    jam: libati
+    ka: თავისუფლება
+    kaa: azatlıq
+    kbp: Tɩ-yɔɔ wɛʊ
+    kk: бостандық
+    kn: ಸ್ವಾತಂತ್ರ್ಯ
+    ko: 자유
+    ku: azadî
+    kv: Мездлун
+    la: libertas
+    li: Vrieheid
+    lt: laisvė
+    lv: brīvība
+    mdf: воляшись
+    mg: fahalalahana
+    mk: слобода
+    ml: സ്വാതന്ത്ര്യം
+    ms: kebebasan
+    ms-arab: کبيبسن
+    mt: libertà
+    mwl: lhibardade
+    myv: аоре
+    mzn: لیبرداد
+    nan: chū-iû
+    nb: frihet
+    new: स्वतन्त्रता
+    nl: vrijheid
+    nn: fridom
+    oc: libertat
+    os: сæрибардзинад
+    pa: ਆਜ਼ਾਦੀ
+    pap: libertad
+    pl: wolność
+    pms: Libertà
+    ps: آزادي
+    pt: liberdade
+    pt-br: liberdade
+    qu: qispi kay
+    ro: libertate
+    ru: свобода
+    sat: ᱯᱷᱩᱨᱜᱟ.ᱞ
+    sc: libertade
+    scn: libbirtati
+    se: friddjavuohta
+    sgs: liousoms
+    sh: sloboda
+    sje: frijjavuohta
+    sk: sloboda
+    sl: svoboda
+    sma: frïjjevoete
+    smj: friddjavuohta
+    smn: rijjâvuotâ
+    sms: frijjvuõtt
+    so: xoriyad
+    sq: liria
+    sr: слобода
+    sr-ec: слобода
+    sv: frihet
+    ta: விடுதலை
+    tg: озодӣ
+    th: เสรีภาพ
+    tl: kalayaan
+    tr: özgürlük
+    tt: иреклек
+    uk: свобода
+    ur: حریت
+    uz: erkinlik
+    vec: libartà
+    vi: tự do
+    vro: vabahus
+    wuu: 自由
+    xh: Inkululeko
+    yi: פריי
+    yue: 自由
+    zgh: ⵜⵉⵍⴻⵍⵍⵉ
+    zh: 自由
+    zh-cn: 自由
+    zh-hans: 自由
+    zh-hant: 自由
 ---
-
 # [[Liberty]] 
 
 #is_/similar_to :: [[Freedom]] 

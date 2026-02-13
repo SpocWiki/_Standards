@@ -1,9 +1,116 @@
 ---
 aliases:
-  - Limuloidea
+- dolkhaler
+- Hrotnáčovité
+- Kaangao
+- Kardauodegiai
+- Limuloidea
+- Lớp Đuôi kiếm
+- molukkiravut
+- ostrogony
+- ostrorepi
+- ostvarji
+- Schwertschwänze
+- tőrfarkúak
+- Xifosuros
+- xifosurs
+- Xiphosura
+- Zobenastes
+- Ξιφόσουρα
+- Копитести краби
+- Мечахвосты
+- мечехвосты
+- мечоопашати раци
+- мечохвости
+- Найзадумҳо
+- Селебекуйруктар
+- Семсерқұйрықтылар
+- Хĕçле хÿрелли
+- Թրապոչեր
+- זנבות חרב
+- تیغدمان
+- سيفيات الذيل
+- څوکه ور لکۍ لرونکې ژوې
+- ज़िफ़ोसुरा
+- ไซโฟซูรา
+- ხმალკუდები
+- カブトガニ類
+- 剑尾目
+- 劍尾目
+- 검미목
 title: Limuloidea
+has_id_wikidata: Q19430
+dv_has_:
+  name_:
+    an: Xiphosura
+    ar: سيفيات الذيل
+    arz: سيفيات الذيل
+    ast: Xiphosura
+    be: Мечахвосты
+    bg: мечоопашати раци
+    ca: xifosurs
+    ceb: Xiphosura
+    cs: ostrorepi
+    cv: Хĕçле хÿрелли
+    de: Schwertschwänze
+    el: Ξιφόσουρα
+    en: Xiphosura
+    en-ca: Xiphosura
+    en-gb: Xiphosura
+    eo: Xiphosura
+    es: Xiphosura
+    eu: Xiphosura
+    ext: Xiphosura
+    fa: تیغدمان
+    fi: molukkiravut
+    fr: Xiphosura
+    ga: Xiphosura
+    gl: Xifosuros
+    he: זנבות חרב
+    hi: ज़िफ़ोसुरा
+    hu: tőrfarkúak
+    hy: Թրապոչեր
+    ia: Xiphosura
+    ie: Xiphosura
+    io: Xiphosura
+    it: Xiphosura
+    ja: カブトガニ類
+    ka: ხმალკუდები
+    kk: Семсерқұйрықтылар
+    ko: 검미목
+    ky: Селебекуйруктар
+    la: Xiphosura
+    lt: Kardauodegiai
+    lv: Zobenastes
+    mk: Копитести краби
+    mul: Xiphosura
+    nb: dolkhaler
+    nl: Xiphosura
+    oc: Xiphosura
+    pl: ostrogony
+    ps: څوکه ور لکۍ لرونکې ژوې
+    pt: Xiphosura
+    pt-br: Xiphosura
+    ro: Xiphosura
+    ru: мечехвосты
+    sco: Xiphosura
+    sk: Hrotnáčovité
+    sl: ostvarji
+    sq: Xiphosura
+    sw: Kaangao
+    tg: Найзадумҳо
+    th: ไซโฟซูรา
+    tr: Xiphosura
+    uk: мечохвости
+    vi: Lớp Đuôi kiếm
+    vo: Xiphosura
+    war: Xiphosura
+    zh: 剑尾目
+    zh-cn: 剑尾目
+    zh-hans: 剑尾目
+    zh-hant: 劍尾目
+    zh-tw: 劍尾目
 ---
-
 # [[Limuloidea]]
 
 Limuloid horseshoe crabs 

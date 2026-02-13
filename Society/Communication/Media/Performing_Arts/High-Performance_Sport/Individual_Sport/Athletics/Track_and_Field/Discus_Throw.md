@@ -1,17 +1,82 @@
 ---
 aliases:
-  - discus throw
-  - disc throw
-  - Discus_Throw
-  - Discus Throw
+- Aruncarea discului
+- asldhay n tqqaridt
+- Bacanje diska
+- caitheamh na teisce
+- disc throw
+- discus throw
+- discuswerpen
+- Discus_Throw
+- disk atma
+- diska mešana
+- Disko jaurtiketa
+- disko metimas
+- diskos
+- diskoskast
+- diskoĵetado
+- diskus
+- Diskuswerfen
+- Diskuswurf
+- diszkoszvetés
+- Dïsk laqtırw
+- Hedhja e diskut
+- hod diskem
+- Hod diskom
+- Iactus disci
+- kettaheide
+- kiekonheitto
+- Kringlukast
+- Lanceamento del disco
+- lancer du disque
+- lancio del disco
+- lanzamento de disco
+- lanzamiento de disco
+- Lançament de disc
+- lançamento de disco
+- lempar cakera
+- Lempar cakram
+- Llanzamientu de discu
+- llançament de disc
+- met diska
+- ném đĩa
+- rzut dyskiem
+- skierrobálkesteapmi
+- skiärrušlivgim
+- skyfwerp
+- δισκοβολία
+- бацање диска
+- Диск лақтыру
+- Диск ырғытыу
+- кіданне дыска
+- кіданьне дыску
+- метание диска
+- метання диска
+- фрлање диск
+- Хвърляне на диск
+- זריקת דיסקוס
+- دىيسك لاقتىرۋ
+- رمي القرص
+- پرتاب دیسک
+- ڈسکس
+- डिस्कस थ्रो
+- लोहचक्रकप्रक्षेपणक्रीडा
+- ਡਿਸਕਸ ਥਰੋਅ
+- வட்டு எறிதல்
+- කවපෙත්ත විසිකිරීම
+- ბადროს ტყორცნა
+- 円盤投
+- 鐵餅
+- 铁饼
+- 원반던지기
 has_id_wikidata: Q182570
 record_or_record_progression:
-  - "[[_Standards/WikiData/WD~Men's_discus_throw_world_record_progression,70466]]"
-  - "[[_Standards/WikiData/WD~Women's_discus_throw_world_record_progression,3922788]]"
+- "[[_Standards/WikiData/WD~Men's_discus_throw_world_record_progression,70466]]"
+- "[[_Standards/WikiData/WD~Women's_discus_throw_world_record_progression,3922788]]"
 subclass_of: '[[_Standards/WikiData/WD~weight_throwing,259509]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 uses: '[[_Standards/WikiData/WD~discus,1228822]]'
 instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
 practiced_by: '[[_Standards/WikiData/WD~discus_thrower,13381689]]'
@@ -24,8 +89,91 @@ Commons_category: Discus throw
 IPTC_NewsCode: mediatopic/20000830
 Krugosvet_article: sport/metanie-diska
 OpenStreetMap_tag_or_key: Tag:athletics=discus_throw
+dv_has_:
+  name_:
+    af: skyfwerp
+    ar: رمي القرص
+    ast: Llanzamientu de discu
+    ba: Диск ырғытыу
+    be: кіданне дыска
+    be-tarask: кіданьне дыску
+    bg: Хвърляне на диск
+    bs: Bacanje diska
+    ca: llançament de disc
+    cs: hod diskem
+    da: diskoskast
+    de: Diskuswurf
+    el: δισκοβολία
+    en: discus throw
+    eo: diskoĵetado
+    es: lanzamiento de disco
+    et: kettaheide
+    eu: Disko jaurtiketa
+    fa: پرتاب دیسک
+    fi: kiekonheitto
+    fr: lancer du disque
+    ga: caitheamh na teisce
+    gl: lanzamento de disco
+    he: זריקת דיסקוס
+    hi: डिस्कस थ्रो
+    hr: Bacanje diska
+    hu: diszkoszvetés
+    ia: Lanceamento del disco
+    id: Lempar cakram
+    is: Kringlukast
+    it: lancio del disco
+    ja: 円盤投
+    ka: ბადროს ტყორცნა
+    kk: Диск лақтыру
+    kk-arab: دىيسك لاقتىرۋ
+    kk-cn: دىيسك لاقتىرۋ
+    kk-cyrl: Диск лақтыру
+    kk-kz: Диск лақтыру
+    kk-latn: Dïsk laqtırw
+    kk-tr: Dïsk laqtırw
+    ko: 원반던지기
+    la: Iactus disci
+    lb: Diskuswerfen
+    lt: disko metimas
+    lv: diska mešana
+    mk: фрлање диск
+    ms: lempar cakera
+    nb: diskos
+    nl: discuswerpen
+    nn: Diskos
+    oc: Lançament de disc
+    pa: ਡਿਸਕਸ ਥਰੋਅ
+    pl: rzut dyskiem
+    pt: lançamento de disco
+    ro: Aruncarea discului
+    ru: метание диска
+    sa: लोहचक्रकप्रक्षेपणक्रीडा
+    se: skierrobálkesteapmi
+    shi: asldhay n tqqaridt
+    si: කවපෙත්ත විසිකිරීම
+    sk: Hod diskom
+    sl: met diska
+    smn: skiärrušlivgim
+    sq: Hedhja e diskut
+    sr: бацање диска
+    sr-ec: бацање диска
+    sr-el: bacanje diska
+    sv: diskus
+    ta: வட்டு எறிதல்
+    tr: disk atma
+    uk: метання диска
+    ur: ڈسکس
+    vi: ném đĩa
+    wuu: 铁饼
+    yue: 鐵餅
+    zh: 铁饼
+    zh-cn: 铁饼
+    zh-hans: 铁饼
+    zh-hant: 鐵餅
+    zh-hk: 鐵餅
+    zh-sg: 铁饼
+    zh-tw: 鐵餅
 ---
-
 # [[Discus_Throw]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Discus_throw,182570|WD~Discus_throw,182570]] 

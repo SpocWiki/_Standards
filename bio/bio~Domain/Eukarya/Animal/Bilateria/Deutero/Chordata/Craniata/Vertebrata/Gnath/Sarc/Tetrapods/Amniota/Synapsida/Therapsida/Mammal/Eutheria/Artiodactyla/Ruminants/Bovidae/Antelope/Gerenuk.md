@@ -1,11 +1,120 @@
 ---
 aliases:
-  - Litocranius walleri
-  - gerenuk
-  - Gerenuk
+- antilopa žirafí
+- antílop girafa
+- antílope xirafa
+- Garanuug
+- Garanuuga
+- Gazela-girafa
+- Gazelenn-jirafenn
+- Gazelle de Waller
+- Gerenoek
+- Gerenoka
+- gerenuk
+- gerenuk długoszyi
+- gerenukki
+- Gerenuks
+- Giraffengazelle
+- Giraffgasell
+- Girafgazelle
+- Litocranius walleri
+- Rayol (Litocranius walleri)
+- Yadiizį́įgo ayání
+- zsiráfnyakú gazella
+- Ĝirafa gazelo
+- Žirafinė gazelė
+- Геренук
+- Герэнук
+- צבי ג'ירפי
+- جرنوق
+- زرافهگردن
+- گرنوک
+- சிவிங்கி மான்
+- ജെറനക്
+- เกรินุก
+- ჟირაფისებრი ანტილოპა
+- ジェレヌク
+- 長頸羚
+- 长颈羚
+- 게레눅
 title: Litocranius walleri
+has_id_wikidata: Q208112
+dv_has_:
+  name_:
+    ar: جرنوق
+    arz: جرنوق
+    ast: Litocranius walleri
+    av: Геренук
+    avk: Rayol (Litocranius walleri)
+    az: Gerenuk
+    ban: Gerenuk
+    be: Герэнук
+    be-tarask: Герэнук
+    bg: геренук
+    br: Gazelenn-jirafenn
+    ca: antílop girafa
+    ceb: Litocranius walleri
+    cs: antilopa žirafí
+    da: Girafgazelle
+    de: Giraffengazelle
+    en: gerenuk
+    eo: Ĝirafa gazelo
+    es: Litocranius walleri
+    eu: Gerenuk
+    fa: زرافهگردن
+    fi: gerenukki
+    fr: Gazelle de Waller
+    frr: Gerenuks
+    ga: Litocranius walleri
+    gl: antílope xirafa
+    he: צבי ג'ירפי
+    hr: Gerenuk
+    hu: zsiráfnyakú gazella
+    ia: Litocranius walleri
+    id: Gerenuk
+    it: Litocranius walleri
+    ja: ジェレヌク
+    ka: ჟირაფისებრი ანტილოპა
+    kk: Геренук
+    ko: 게레눅
+    la: Litocranius walleri
+    lez: Геренук
+    lt: Žirafinė gazelė
+    mg: Gerenoka
+    mhr: Геренук
+    ml: ജെറനക്
+    mul: Litocranius walleri
+    nb: gerenuk
+    nl: Gerenoek
+    nv: Yadiizį́įgo ayání
+    pl: gerenuk długoszyi
+    pnb: گرنوک
+    pt: Gazela-girafa
+    ro: Garanuuga
+    ru: Геренук
+    sco: gerenuk
+    so: Garanuug
+    sq: Litocranius walleri
+    sr: Litocranius walleri
+    sr-ec: Litocranius walleri
+    sr-el: Litocranius walleri
+    sv: Giraffgasell
+    ta: சிவிங்கி மான்
+    th: เกรินุก
+    tr: Gerenuk
+    udm: Геренук
+    uk: Геренук
+    uz: Gerenuk
+    vi: Litocranius walleri
+    war: Litocranius walleri
+    zh: 长颈羚
+    zh-cn: 长颈羚
+    zh-hans: 长颈羚
+    zh-hant: 長頸羚
+    zh-hk: 長頸羚
+    zh-sg: 长颈羚
+    zh-tw: 長頸羚
 ---
-
 # [[Gerenuk]] 
 ![[Gerenuk/gerenuk.jpg]] 
 

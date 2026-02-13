@@ -1,9 +1,82 @@
 ---
 aliases:
-  - Ariana DeBose
-  - DeBose,Ariana
+- Ariana DeBose
+- DeBose,Ariana
+- Αριάνα ΝτεΜπόουζ
+- Аріана ДеБоз
+- Аријана Дебос
+- Ариана Дебос
+- Арыяна Дэбос
+- Արիանա ԴեԲոս
+- אריאנה דבוז
+- آریانا دبوس
+- آریانا ڈی بوس
+- أريانا ديبوز
+- اريانا ديبوز
+- আরিয়ানা ডাবোজ
+- ਅਰਿਆਨਾ ਡੀਬੋਸ
+- อารีอานา เดโบซ
+- არიანა დებოზი
+- アリアナ・デボーズ
+- 阿里安娜·德博斯
+- 아리아나 더보즈
+has_id_wikidata: Q27733932
+dv_has_:
+  name_:
+    af: Ariana DeBose
+    ar: أريانا ديبوز
+    arz: اريانا ديبوز
+    ast: Ariana DeBose
+    be: Арыяна Дэбос
+    bg: Ариана Дебос
+    bn: আরিয়ানা ডাবোজ
+    ca: Ariana DeBose
+    cs: Ariana DeBose
+    da: Ariana DeBose
+    de: Ariana DeBose
+    el: Αριάνα ΝτεΜπόουζ
+    en: Ariana DeBose
+    es: Ariana DeBose
+    eu: Ariana DeBose
+    fa: آریانا دبوس
+    fi: Ariana DeBose
+    fr: Ariana DeBose
+    ga: Ariana DeBose
+    gl: Ariana DeBose
+    he: אריאנה דבוז
+    hu: Ariana DeBose
+    hy: Արիանա ԴեԲոս
+    id: Ariana DeBose
+    ig: Ariana DeBose
+    it: Ariana DeBose
+    ja: アリアナ・デボーズ
+    ka: არიანა დებოზი
+    ko: 아리아나 더보즈
+    mk: Аријана Дебос
+    ms: Ariana DeBose
+    nb: Ariana DeBose
+    nl: Ariana DeBose
+    pa: ਅਰਿਆਨਾ ਡੀਬੋਸ
+    pap: Ariana DeBose
+    pl: Ariana DeBose
+    pt: Ariana DeBose
+    pt-br: Ariana DeBose
+    ru: Ариана Дебос
+    skr: آریانا ڈی بوس
+    sl: Ariana DeBose
+    sq: Ariana DeBose
+    sv: Ariana DeBose
+    th: อารีอานา เดโบซ
+    tl: Ariana DeBose
+    tr: Ariana DeBose
+    uk: Аріана ДеБоз
+    ur: آریانا ڈی بوس
+    uz: Ariana DeBose
+    yo: Ariana DeBose
+    zh: 阿里安娜·德博斯
+    zh-cn: 阿里安娜·德博斯
+    zh-hans: 阿里安娜·德博斯
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Ariana DeBose** (; born January 25, 1991) is an American actress, singer, and dancer. 

@@ -1,28 +1,237 @@
 ---
 aliases:
-  - Absolute monarchy
-  - Absolute_Monarchy
-  - Absolute Monarchy
+- Absoliutinė monarchija
+- absoluhtalaš monarkiija
+- absolut Monarchie
+- absolut monarki
+- absoluta monarkio
+- absolute Monarchie
+- Absolute monarchy
+- absolute monargie
+- Absolute_Monarchy
+- absolutistická monarchia
+- absolutna monarhija
+- absolutní monarchie
+- absoluutlâš monarkia
+- absoluutne monarhia
+- absoluuttinen monarkia
+- absoluuttlaž monarkia
+- absolūtā monarhija
+- abszolút monarchia
+- apsolutna monarhija
+- assulutìsimu munàrchicu
+- brenhiniaeth absoliwt
+- choa̍t-tùi kun-chú-chè
+- chế độ quân chủ chuyên chế
+- einevelde
+- einveldi
+- enevelde
+- ganap na monarkiya
+- keyîtiya serberdayî
+- monarcacht absalóideach
+- monarchia absolutna
+- monarchia assoluta
+- monarchie absolue
+- monarchìa asołuta
+- monarcia asoluta
+- monarhie absolută
+- monarki absolut
+- monarkia absolute
+- monarkia absolutu
+- monarkiezh hollveliek
+- Monarquia absoluda
+- monarquia absoluta
+- monarquía absoluta
+- mutlak monarşi
+- mutlaq monarhiya
+- mutlaq monarxiya
+- myghternses ollgallosek
+- mütləq monarxiya
+- porokuái peteĩme pavẽ
+- raja mutlak
+- tageldawt tamagdezt
+- απόλυτη μοναρχία
+- абсалютная манархія
+- абсолиутисттә монархиа
+- абсолутна монархія
+- абсолют монархия
+- абсолютизм
+- абсолютна монархія
+- Абсолютна монархия
+- абсолютная монархия
+- абсолютни монархи
+- абсолютной монархиясь
+- абсолютон монархи
+- Абсолюттік монархия
+- апсолутна монархија
+- зэмос эксэяськон
+- подшоҳии мутлақ
+- хэмжээгүй эрхт хаант засаг
+- Բացարձակ միապետություն
+- אַבסאָלוטע מאָנאַרכיע
+- מונרכיה אבסולטית
+- ابسوليۋتىيزم
+- خودمختيار بادشاهت
+- مطلق العنان بادشاہت
+- مطلقه سلطنت
+- ملكية مطلقة
+- موطلق شاهلیق
+- پادشاهی مطلقه
+- پاشایەتی ڕەھا
+- पूर्ण बादशाही
+- पूर्ण राजतन्त्र
+- संपूर्ण राजेशाही
+- নিরঙ্কুশ রাজতন্ত্র
+- ਨਿਰੋਲ ਬਾਦਸ਼ਾਹੀ
+- สมบูรณาญาสิทธิราชย์
+- ສົມບູລະນາຍາສິດທິລາດ
+- အကြွင်းမဲ့ဘုရင်စနစ်
+- აბსოლუტური მონარქია
+- 君主专制
+- 君主專制
+- 帝制
+- 絕對君主制
+- 絶対君主制
+- 绝对君主制
+- 절대군주제
 has_id_wikidata: Q184558
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 has_characteristic: '[[_Standards/WikiData/WD~absolutism,7184037]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~absolutism,7184037]]'
-  - '[[_Standards/WikiData/WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~absolutism,7184037]]'
+- '[[_Standards/WikiData/WD~monarchy,7269]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q8722222,8722222]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Louis%20XIV%20of%20France.jpg
 Colon_Classification: W41
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Absolute%20Monarchie-article.ogg
 Library_of_Congress_Classification: JC381
+dv_has_:
+  name_:
+    ab: абсолиутисттә монархиа
+    af: absolute monargie
+    ar: ملكية مطلقة
+    arz: ملكية مطلقة
+    ast: monarquía absoluta
+    az: mütləq monarxiya
+    azb: موطلق شاهلیق
+    ba: абсолют монархия
+    be: абсалютная манархія
+    be-tarask: абсалютная манархія
+    bg: Абсолютна монархия
+    bn: নিরঙ্কুশ রাজতন্ত্র
+    br: monarkiezh hollveliek
+    bs: apsolutna monarhija
+    bxr: абсолютизм
+    ca: monarquia absoluta
+    ce: абсолютни монархи
+    ckb: پاشایەتی ڕەھا
+    crh: mutlaq monarhiya
+    cs: absolutní monarchie
+    cy: brenhiniaeth absoliwt
+    da: absolut monarki
+    de: absolute Monarchie
+    el: απόλυτη μοναρχία
+    en: absolute monarchy
+    eo: absoluta monarkio
+    es: monarquía absoluta
+    et: absoluutne monarhia
+    eu: monarkia absolutu
+    fa: پادشاهی مطلقه
+    fi: absoluuttinen monarkia
+    fr: monarchie absolue
+    ga: monarcacht absalóideach
+    gl: monarquía absoluta
+    gn: porokuái peteĩme pavẽ
+    he: מונרכיה אבסולטית
+    hi: पूर्ण बादशाही
+    hr: apsolutna monarhija
+    hu: abszolút monarchia
+    hy: Բացարձակ միապետություն
+    id: monarki absolut
+    is: einveldi
+    it: monarchia assoluta
+    ja: 絶対君主制
+    ka: აბსოლუტური მონარქია
+    kab: tageldawt tamagdezt
+    kk: Абсолюттік монархия
+    kk-arab: ابسوليۋتىيزم
+    kk-cn: ابسوليۋتىيزم
+    ko: 절대군주제
+    ku: keyîtiya serberdayî
+    kw: myghternses ollgallosek
+    lb: absolut Monarchie
+    lfn: monarcia asoluta
+    lmo: Monarchia assoluta
+    lo: ສົມບູລະນາຍາສິດທິລາດ
+    lt: Absoliutinė monarchija
+    lv: absolūtā monarhija
+    lzh: 帝制
+    mk: апсолутна монархија
+    mn: хэмжээгүй эрхт хаант засаг
+    mr: संपूर्ण राजेशाही
+    ms: raja mutlak
+    my: အကြွင်းမဲ့ဘုရင်စနစ်
+    myv: абсолютной монархиясь
+    mzn: مطلقه سلطنت
+    nan: choa̍t-tùi kun-chú-chè
+    nb: enevelde
+    ne: पूर्ण राजतन्त्र
+    nl: absolute monarchie
+    nn: einevelde
+    oc: Monarquia absoluda
+    os: абсолютон монархи
+    pa: ਨਿਰੋਲ ਬਾਦਸ਼ਾਹੀ
+    pl: monarchia absolutna
+    pnb: مطلق العنان بادشاہت
+    pt: monarquia absoluta
+    ro: monarhie absolută
+    ru: абсолютная монархия
+    rue: абсолутна монархія
+    scn: assulutìsimu munàrchicu
+    sco: absolute monarchy
+    sd: خودمختيار بادشاهت
+    se: absoluhtalaš monarkiija
+    sh: apsolutna monarhija
+    sk: absolutistická monarchia
+    sl: absolutna monarhija
+    smn: absoluutlâš monarkia
+    sms: absoluuttlaž monarkia
+    sq: monarkia absolute
+    sr: апсолутна монархија
+    sr-ec: апсолутна монархија
+    sr-el: apsolutna monarhija
+    su: monarki absolut
+    sv: absolut monarki
+    tg: подшоҳии мутлақ
+    th: สมบูรณาญาสิทธิราชย์
+    tl: ganap na monarkiya
+    tr: mutlak monarşi
+    tt: абсолют монархия
+    udm: зэмос эксэяськон
+    uk: абсолютна монархія
+    ur: مطلق العنان بادشاہت
+    uz: mutlaq monarxiya
+    vec: monarchìa asołuta
+    vi: chế độ quân chủ chuyên chế
+    wuu: 君主专制
+    xmf: აბსოლუტური მონარქია
+    yi: אַבסאָלוטע מאָנאַרכיע
+    yue: 帝制
+    zh: 君主專制
+    zh-cn: 绝对君主制
+    zh-hans: 绝对君主制
+    zh-hant: 絕對君主制
+    zh-hk: 絕對君主制
+    zh-sg: 绝对君主制
+    zh-tw: 絕對君主制
 ---
-
 # [[Absolute_Monarchy]] 
 
 #is_/same_as ::[[../../../../WikiData/WD~Absolute_monarchy,184558]]] 

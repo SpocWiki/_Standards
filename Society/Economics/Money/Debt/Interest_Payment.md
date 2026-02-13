@@ -1,18 +1,87 @@
 ---
 aliases:
-  - Zins
-  - Interest_Payment
-  - Interest Payment
+- dobândă
+- faedah
+- faiz
+- göterim
+- interes
+- interesi
+- interesse
+- interest
+- Interest Payment
+- interesto
+- Interest_Payment
+- interezo
+- interès
+- interés
+- intress
+- intérêt
+- inzala
+- inzalo
+- juro
+- kamat
+- kamata
+- korgg
+- korko
+- lãi suất
+- Maraq
+- ngaenzleih
+- obresti
+- odsetki
+- palūkanos
+- patubo
+- procenti
+- reantu
+- rente
+- riänttu
+- ränta
+- Rènte
+- suku bunga
+- usura
+- vextir
+- xuro
+- Zins
+- úrok
+- τόκος
+- відсотки
+- камата
+- лихва
+- пазыковы адсотак
+- Процентла пайта
+- процентный доход
+- Տոկոսագումար
+- ריבית
+- بهره
+- سود
+- فائدة
+- وياج
+- ܗܢܝܢܐ
+- ब्याज
+- व्याज
+- साधारण व्याज
+- সুদ
+- ਵਿਆਜ
+- வட்டி
+- వడ్డీ
+- ಬಡ್ಡಿ
+- ดอกเบี้ย
+- ດອກເບ້ຍ
+- ዎለድ
+- ᠮᠠᡩᠠᡤᠠᠨ
+- 利子
+- 利息
+- 리자
+- 이자
 has_id_wikidata: Q170924
 instance_of: '[[_Standards/WikiData/WD~rate,736288]]'
 part_of: '[[_Standards/WikiData/WD~banking_system,806737]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 subclass_of: '[[_Standards/WikiData/WD~money_amount,30242023]]'
 OmegaWiki_Defined_Meaning: 1980
@@ -20,8 +89,102 @@ Library_of_Congress_Classification: HB535-HB551
 U_S_National_Archives_Identifier: 10637866
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Malawi%20interest%20rates.JPG
 Iconclass_notation: 46B4711
+dv_has_:
+  name_:
+    af: rente
+    am: ዎለድ
+    ar: فائدة
+    arc: ܗܢܝܢܐ
+    ast: interés
+    az: Maraq
+    bar: Zins
+    be-tarask: пазыковы адсотак
+    bew: Rènte
+    bg: лихва
+    bn: সুদ
+    bs: kamata
+    ca: interès
+    cs: úrok
+    cv: Процентла пайта
+    da: rente
+    de: Zins
+    el: τόκος
+    en: interest
+    eo: interezo
+    es: interés
+    et: intress
+    eu: interes
+    fa: بهره
+    fi: korko
+    fr: intérêt
+    gl: xuro
+    gsw: Zins
+    he: ריבית
+    hi: ब्याज
+    hr: kamata
+    hu: kamat
+    hy: Տոկոսագումար
+    id: suku bunga
+    io: interesto
+    is: vextir
+    it: interesse
+    ja: 利子
+    kn: ಬಡ್ಡಿ
+    ko: 이자
+    ko-kp: 리자
+    la: usura
+    lo: ດອກເບ້ຍ
+    lt: palūkanos
+    lv: procenti
+    mk: камата
+    mnc: ᠮᠠᡩᠠᡤᠠᠨ
+    mr: व्याज
+    ms: faedah
+    nb: rente
+    ne: साधारण व्याज
+    nl: rente
+    nn: rente
+    pa: ਵਿਆਜ
+    pl: odsetki
+    pt: juro
+    ro: dobândă
+    ru: процентный доход
+    sd: وياج
+    se: reantu
+    sh: kamata
+    sk: úrok
+    sl: obresti
+    smn: riänttu
+    sms: korgg
+    sq: interesi
+    sr: камата
+    sr-ec: камата
+    sr-el: kamata
+    sv: ränta
+    ta: வட்டி
+    te: వడ్డీ
+    th: ดอกเบี้ย
+    tk: göterim
+    tl: patubo
+    tr: faiz
+    uk: відсотки
+    ur: سود
+    vi: lãi suất
+    war: interes
+    wuu: 利息
+    xh: inzala
+    yi: ריבית
+    yue: 利息
+    za: ngaenzleih
+    zh: 利息
+    zh-cn: 利息
+    zh-hans: 利息
+    zh-hant: 利息
+    zh-hk: 利息
+    zh-sg: 利息
+    zh-tw: 利息
+    zu: inzalo
 ---
-
 # [[Interest_Payment]] 
 
 #is_/same_as :: [[WD~Interest,170924]] 

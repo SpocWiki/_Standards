@@ -1,21 +1,136 @@
 ---
 aliases:
-  - Wirbelstrom
-  - Foucault's current
-  - eddy current
-  - Eddy_Current
-  - Eddy Current
+- Corrente de Foucault
+- corrente parassita
+- Corrents de Foucault
+- Corriente de Foucault
+- courants de Foucault
+- Curenți Foucault
+- Dòng điện Foucault
+- Eddy akımı
+- eddy current
+- Eddy_Current
+- Foucault's current
+- Foucaulten korronte
+- Foucaultove struje
+- hvirvelstrøm
+- kirlokurento
+- Kouran-toubiyon
+- Prąd wirowy
+- Pyörrevirta
+- Pöörisvool
+- sruthanna guairneáin
+- virpuļstrāva
+- Virvelstraum
+- virvelström
+- Virvelstrøm
+- Vortica flui
+- vrtinčni tok
+- Vrtložne struje
+- Vírivý prúd
+- Vířivý proud
+- wervelstroom
+- Wirbelstrom
+- örvényáram
+- Δινορεύμα
+- віхравыя токі
+- вителни струи
+- Вихревые токи
+- Вихрові струми
+- Вртложне струје
+- Токове на Фуко
+- Хуйларсан гүйдэл
+- Մրրկային հոսանքներ
+- זרם פוקו
+- تيار دوامي
+- جریان گردابی
+- وێڵە تەزوو
+- भँवर धारा
+- ঘূর্ণি বিদ্যুৎপ্রবাহ
+- ਐਡੀ ਕਰੰਟ
+- சுழல் மின்னோட்டம்
+- กระแสเอ็ดดี้
+- 涡电流
+- 渦電流
+- 맴돌이 전류
 has_id_wikidata: Q208598
-named_after: "[[_Standards/WikiData/WD~Léon_Foucault,187966]]"
+named_after: '[[_Standards/WikiData/WD~Léon_Foucault,187966]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-subclass_of: "[[_Standards/WikiData/WD~electric_current,11651]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~electric_current,11651]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/20.%20%D0%92%D0%B0%D0%BB%D1%82%D0%B5%D0%BD%D1%85%D0%BE%D1%84%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%BE.ogv
 IEV_number: 121-12-32
 Commons_category: Eddy currents
+dv_has_:
+  name_:
+    ar: تيار دوامي
+    ast: Corriente de Foucault
+    be-tarask: віхравыя токі
+    bg: Токове на Фуко
+    bn: ঘূর্ণি বিদ্যুৎপ্রবাহ
+    ca: Corrents de Foucault
+    ckb: وێڵە تەزوو
+    cs: Vířivý proud
+    da: hvirvelstrøm
+    de: Wirbelstrom
+    el: Δινορεύμα
+    en: eddy current
+    en-ca: Eddy current
+    en-gb: Eddy current
+    eo: kirlokurento
+    es: corriente de Foucault
+    et: Pöörisvool
+    eu: Foucaulten korronte
+    fa: جریان گردابی
+    fi: Pyörrevirta
+    fr: courants de Foucault
+    ga: sruthanna guairneáin
+    gl: Corrente de Foucault
+    he: זרם פוקו
+    hi: भँवर धारा
+    hr: Foucaultove struje
+    ht: Kouran-toubiyon
+    hu: örvényáram
+    hy: Մրրկային հոսանքներ
+    io: Vortica flui
+    it: corrente parassita
+    ja: 渦電流
+    ko: 맴돌이 전류
+    lv: virpuļstrāva
+    mk: вителни струи
+    mn: Хуйларсан гүйдэл
+    nb: Virvelstrøm
+    nl: wervelstroom
+    nn: Virvelstraum
+    pa: ਐਡੀ ਕਰੰਟ
+    pl: Prąd wirowy
+    pt: corrente de Foucault
+    pt-br: Corrente de Foucault
+    ro: Curenți Foucault
+    ru: Вихревые токи
+    sh: Vrtložne struje
+    sk: Vírivý prúd
+    sl: vrtinčni tok
+    sr: Вртложне струје
+    sr-ec: Вртложне струје
+    sr-el: Vrtložne struje
+    sv: virvelström
+    ta: சுழல் மின்னோட்டம்
+    th: กระแสเอ็ดดี้
+    tr: Eddy akımı
+    uk: Вихрові струми
+    vi: Dòng điện Foucault
+    wuu: 涡电流
+    yue: 渦電流
+    zh: 渦電流
+    zh-cn: 涡电流
+    zh-hans: 涡电流
+    zh-hant: 渦電流
+    zh-hk: 渦電流
+    zh-sg: 涡电流
+    zh-tw: 渦電流
 ---
-
 # [[Eddy_Current]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Eddy_current,208598|WD~Eddy_current,208598]] 

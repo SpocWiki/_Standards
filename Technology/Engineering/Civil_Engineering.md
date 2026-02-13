@@ -1,29 +1,116 @@
 ---
 aliases:
-  - Civil engineering
-  - Civil_Engineering
-  - Civil Engineering
+- Ars ingeniaria civilis
+- Bauingenieurwesen
+- Bauääscheniöörwääse
+- byggeteknikk
+- Byggingaverkfræði
+- bygningsvidenskab
+- civiele techniek
+- Civil engineering
+- Civilinė inžinerija
+- Civil_Engineering
+- Endezyariya avahiyê
+- engenharia civil
+- enginyeria civil
+- enxeñaría civil
+- gradbeno inženirstvo
+- Građevinarstvo
+- Gurluşyk inženerligi
+- génie civil
+- Herri-lan ingeniaritza
+- Ingegneri civiłi
+- ingegneria civile
+- Ingenieria civil
+- ingeniería civil
+- Inginerie civilă
+- Inhenyeriya sibil
+- Inhinyeriyang sibil
+- innealtóireacht shibhialta
+- Inxeniería civil
+- Inxhinieria e ndërtimit
+- inġinerija ċivili
+- inşaat mühendisliği
+- inżynieria lądowa
+- inženierceltniecība
+- kejuruteraan awam
+- konstrua inĝenierarto
+- kỹ thuật xây dựng dân dụng
+- nорлаҡ‐гражданлыҡ төҙөлөшө
+- Peiriannydd sifil
+- rekayasa sipil
+- Rékayasa sipil
+- Siviele ingenieurswese
+- Sivile technyk
+- stavebnictví
+- stavebníctvo
+- Thó͘-bo̍k kang-têng
+- tsiviilehitus
+- Tèknik sipil
+- uhandisi wa kiraia
+- visokogradnja
+- väg- och vattenbyggnadsteknik
+- yhdyskuntatekniikka
+- építőmérnöki szakma
+- επιστήμη πολιτικού μηχανικού
+- Барилгын инженерийн салбар
+- будаўнічая інжынерыя
+- грађевинарство
+- градежништво
+- гражданское строительство
+- строителен инженер
+- төзелеш инженериясе
+- цивільне будівництво
+- цывільнае будаўніцтва
+- քաղաքաշինություն
+- הנדסה אזרחית
+- ئەندازیاریی شارستانی
+- سول انجنيئرنگ
+- مدنی ہندسیات
+- مهندسی عمران
+- هندسة مدنية
+- ښاري انجنيري
+- کجوروتراءن عوام
+- जनपथ अभियान्त्रिकी
+- सिविल अभियान्त्रिकी
+- सिविल ईन्जिनियरिङ
+- स्थापत्य अभियांत्रिकी
+- পুরকৌশল
+- સિવિલ ઇજનેરી
+- குடிசார் பொறியியல்
+- సివిల్ ఇంజనీరింగ్
+- ಲೋಕೋಪಯೋಗಿ ಶಿಲ್ಪ ವಿಜ್ಞಾನ
+- സിവിൽ എഞ്ചിനീയറിങ്ങ്
+- සිවිල් ඉංජිනේරු විද් යාව
+- วิศวกรรมโยธา
+- ວິສະວະກຳໂຍທາ
+- မြို့ပြ အင်ဂျင်နီယာ ဘာသာရပ်
+- სამოქალაქო მშენებლობა
+- ሲቪል ኢንጂነሪንግ
+- 土木工学
+- 土木工程
+- 토목공학
 has_id_wikidata: Q77590
 different_from:
-  - '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
-  - '[[_Standards/WikiData/WD~structural_engineering,633538]]'
-  - '[[_Standards/WikiData/WD~design_engineering,5638464]]'
-  - '[[_Standards/WikiData/WD~civil_engineering,73303844]]'
+- '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
+- '[[_Standards/WikiData/WD~structural_engineering,633538]]'
+- '[[_Standards/WikiData/WD~design_engineering,5638464]]'
+- '[[_Standards/WikiData/WD~civil_engineering,73303844]]'
 part_of: '[[_Standards/WikiData/WD~academic_degree,189533]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~structural_engineering,633538]]'
-  - '[[_Standards/WikiData/WD~transportation_engineering,775325]]'
-  - '[[_Standards/WikiData/WD~construction_management,811115]]'
-  - '[[_Standards/WikiData/WD~geotechnical_engineering,1349130]]'
-  - '[[_Standards/WikiData/WD~construction_engineering,2674423]]'
-  - '[[_Standards/WikiData/WD~foundation_engineering,11888449]]'
+- '[[_Standards/WikiData/WD~structural_engineering,633538]]'
+- '[[_Standards/WikiData/WD~transportation_engineering,775325]]'
+- '[[_Standards/WikiData/WD~construction_management,811115]]'
+- '[[_Standards/WikiData/WD~geotechnical_engineering,1349130]]'
+- '[[_Standards/WikiData/WD~construction_engineering,2674423]]'
+- '[[_Standards/WikiData/WD~foundation_engineering,11888449]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012]]'
-  - '[[_Standards/WikiData/WD~State_Public_Works_Engineering_Corps_(France),3151036]]'
-  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+- '[[_Standards/WikiData/WD~engineer_of_the_French_Corps_of_Bridges_and_Roads,650012]]'
+- '[[_Standards/WikiData/WD~State_Public_Works_Engineering_Corps_(France),3151036]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
 relevant_qualification: '[[_Standards/WikiData/WD~Ordre_des_ingénieurs_du_Québec,782655]]'
 studied_by: '[[_Standards/WikiData/WD~civil_engineering_studies,106372013]]'
 subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
@@ -42,8 +129,114 @@ GitHub_topic: civil-engineering
 subreddit: civilengineering
 IPTC_NewsCode: mediatopic/20000760
 Krugosvet_article: nauka_i_tehnika/energetika_i_stroitelstvo/STROITELSTVO_GRAZHDANSKOE.html
+dv_has_:
+  name_:
+    af: Siviele ingenieurswese
+    am: ሲቪል ኢንጂነሪንግ
+    anp: सिविल अभियान्त्रिकी
+    ar: هندسة مدنية
+    ast: Inxeniería civil
+    ba: nорлаҡ‐гражданлыҡ төҙөлөшө
+    bcl: Inhinyeriyang sibil
+    be: будаўнічая інжынерыя
+    be-tarask: цывільнае будаўніцтва
+    bg: строителен инженер
+    bn: পুরকৌশল
+    bs: Građevinarstvo
+    ca: enginyeria civil
+    ckb: ئەندازیاریی شارستانی
+    cs: stavebnictví
+    cy: Peiriannydd sifil
+    da: bygningsvidenskab
+    de: Bauingenieurwesen
+    de-ch: Bauingenieurwesen
+    el: επιστήμη πολιτικού μηχανικού
+    en: civil engineering
+    en-ca: Civil engineering
+    en-gb: civil engineering
+    eo: konstrua inĝenierarto
+    es: ingeniería civil
+    et: tsiviilehitus
+    eu: Herri-lan ingeniaritza
+    fa: مهندسی عمران
+    fi: yhdyskuntatekniikka
+    fr: génie civil
+    fy: Sivile technyk
+    ga: innealtóireacht shibhialta
+    gl: enxeñaría civil
+    gsw: Bauääscheniöörwääse
+    gu: સિવિલ ઇજનેરી
+    he: הנדסה אזרחית
+    hi: जनपथ अभियान्त्रिकी
+    hr: građevinarstvo
+    hu: építőmérnöki szakma
+    hy: քաղաքաշինություն
+    ia: Ingenieria civil
+    id: rekayasa sipil
+    is: Byggingaverkfræði
+    it: ingegneria civile
+    ja: 土木工学
+    jv: Tèknik sipil
+    ka: სამოქალაქო მშენებლობა
+    kn: ಲೋಕೋಪಯೋಗಿ ಶಿಲ್ಪ ವಿಜ್ಞಾನ
+    ko: 토목공학
+    ku: Endezyariya avahiyê
+    la: Ars ingeniaria civilis
+    lo: ວິສະວະກຳໂຍທາ
+    lt: Civilinė inžinerija
+    lv: inženierceltniecība
+    mk: градежништво
+    ml: സിവിൽ എഞ്ചിനീയറിങ്ങ്
+    mn: Барилгын инженерийн салбар
+    mo: Inginerie civilă
+    mr: स्थापत्य अभियांत्रिकी
+    ms: kejuruteraan awam
+    ms-arab: کجوروتراءن عوام
+    mt: inġinerija ċivili
+    my: မြို့ပြ အင်ဂျင်နီယာ ဘာသာရပ်
+    nan: Thó͘-bo̍k kang-têng
+    nb: byggeteknikk
+    ne: सिविल ईन्जिनियरिङ
+    nl: civiele techniek
+    pl: inżynieria lądowa
+    ps: ښاري انجنيري
+    pt: engenharia civil
+    pt-br: engenharia civil
+    ro: inginerie civilă
+    ru: гражданское строительство
+    sd: سول انجنيئرنگ
+    sh: visokogradnja
+    si: සිවිල් ඉංජිනේරු විද් යාව
+    sk: stavebníctvo
+    sl: gradbeno inženirstvo
+    sq: Inxhinieria e ndërtimit
+    sr: грађевинарство
+    sr-ec: грађевинарство
+    sr-el: građevinarstvo
+    su: Rékayasa sipil
+    sv: väg- och vattenbyggnadsteknik
+    sw: uhandisi wa kiraia
+    ta: குடிசார் பொறியியல்
+    te: సివిల్ ఇంజనీరింగ్
+    th: วิศวกรรมโยธา
+    tk: Gurluşyk inženerligi
+    tl: Inhinyeriyang sibil
+    tr: inşaat mühendisliği
+    tt: төзелеш инженериясе
+    uk: цивільне будівництво
+    ur: مدنی ہندسیات
+    vec: Ingegneri civiłi
+    vi: kỹ thuật xây dựng dân dụng
+    war: Inhenyeriya sibil
+    wuu: 土木工程
+    yue: 土木工程
+    zh: 土木工程
+    zh-cn: 土木工程
+    zh-hans: 土木工程
+    zh-hant: 土木工程
+    zh-hk: 土木工程
+    zh-tw: 土木工程
 ---
-
 # [[Civil_Engineering]] 
 
 #is_/same_as :: [[../../WikiData/WD~Civil_engineering,77590|WD~Civil_engineering,77590]] 

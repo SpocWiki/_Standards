@@ -1,27 +1,187 @@
 ---
 aliases:
-  - Homeostasis
+- cân bằng nội môi
+- Gomeostaz
+- hevsengiya navekî
+- hoiméastáis
+- homeostaasi
+- homeostas
+- Homeostase
+- homeostasi
+- Homeostasis
+- homeostato
+- Homeostaz
+- Homeostaza
+- Homeostazie
+- homeostazë
+- homeostáza
+- homeostāze
+- homeosztázis
+- homeòstasi
+- homoeostasis
+- homéostasie
+- Homöostaas
+- Homöostase
+- homøostase
+- Madaalqa
+- Omeostase
+- omeostasi
+- Omeyostazi
+- omeòstaze
+- Regulademo
+- Samvægi
+- savireguliacija
+- ομοιόσταση
+- гамеастаз
+- гамэастаз
+- гомеостаз
+- Хомеостаза
+- Հոմեոստազ
+- הומאוסטאזיס
+- استتباب
+- استتباط
+- تاهوميوستازيت
+- همایستایی
+- هوموسټاسس (توازن)
+- هوميوستاسيس
+- گومەوستاز
+- ھاوسەنگیی ناوەکی
+- समस्थापन
+- হোমিওস্ট্যাটিস
+- ஒருசீர்த்திடநிலை
+- සමස්ථිතිය
+- ภาวะธำรงดุล
+- ჰომეოსტაზი
+- 恒常性
+- 稳态
+- 穩態
+- 體内平衡
+- 항상성
 has_id_wikidata: Q103191
 Commons_category: Homeostasis
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Autopoiesis_and_Cognition__The_Realization_of_the_Living,89579038]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Autopoiesis_and_Cognition__The_Realization_of_the_Living,89579038]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 different_from:
-  - '[[_Standards/WikiData/WD~hemostasis,487937]]'
-  - '[[_Standards/WikiData/WD~allostasis,3612637]]'
+- '[[_Standards/WikiData/WD~hemostasis,487937]]'
+- '[[_Standards/WikiData/WD~allostasis,3612637]]'
 has_cause:
-  - '[[_Standards/WikiData/WD~homeostatic_process,14882119]]'
-  - '[[_Standards/WikiData/WD~homeostatic_regulation,105946076]]'
+- '[[_Standards/WikiData/WD~homeostatic_process,14882119]]'
+- '[[_Standards/WikiData/WD~homeostatic_regulation,105946076]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_equilibrium,111796904]]'
 MeSH_tree_code: G07.410
 subclass_of:
-  - '[[_Standards/WikiData/WD~equilibrium,11061286]]'
-  - '[[_Standards/WikiData/WD~control,29017603]]'
+- '[[_Standards/WikiData/WD~equilibrium,11061286]]'
+- '[[_Standards/WikiData/WD~control,29017603]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Human_homeostasis,22755763]]'
 UMLS_CUI: C0019868
+dv_has_:
+  name_:
+    af: Homeostase
+    ar: استتباب
+    ary: تاهوميوستازيت
+    ast: Homeostasis
+    az: Homeostaz
+    be: гамеастаз
+    be-tarask: гамэастаз
+    bg: Хомеостаза
+    bn: হোমিওস্ট্যাটিস
+    bs: Homeostaza
+    ca: homeòstasi
+    ckb: ھاوسەنگیی ناوەکی
+    cs: homeostáza
+    cv: Гомеостаз
+    cy: homeostasis
+    da: homøostase
+    de: Homöostase
+    el: ομοιόσταση
+    en: homeostasis
+    en-ca: homeostasis
+    en-gb: homeostasis
+    en-us: homeostasis
+    eo: homeostato
+    es: homeostasis
+    et: Homöostaas
+    eu: homeostasi
+    fa: همایستایی
+    fi: homeostaasi
+    fr: homéostasie
+    ga: hoiméastáis
+    gl: Homeostase
+    he: הומאוסטאזיס
+    hi: समस्थापन
+    hr: homeostaza
+    ht: Omeyostazi
+    hu: homeosztázis
+    hy: Հոմեոստազ
+    ia: Homeostasis
+    id: Homeostasis
+    io: Regulademo
+    is: Samvægi
+    it: omeostasi
+    ja: 恒常性
+    jv: Homeostasis
+    ka: ჰომეოსტაზი
+    kk: Гомеостаз
+    kk-arab: گومەوستاز
+    kk-cn: گومەوستاز
+    kk-cyrl: Гомеостаз
+    kk-kz: Гомеостаз
+    kk-latn: Gomeostaz
+    kk-tr: Gomeostaz
+    ko: 항상성
+    ku: hevsengiya navekî
+    ku-latn: hevsengiya navekî
+    ky: Гомеостаз
+    la: homoeostasis
+    lfn: Omeostase
+    lt: savireguliacija
+    lv: homeostāze
+    mk: Хомеостаза
+    ms: homeostasis
+    ms-arab: هوميوستاسيس
+    nb: homeostase
+    nds: Homöostase
+    nl: homeostase
+    nn: homeostase
+    om: Madaalqa
+    pl: homeostaza
+    ps: هوموسټاسس (توازن)
+    pt: homeostase
+    pt-br: Homeostase
+    ro: Homeostazie
+    ru: гомеостаз
+    sco: homeostasis
+    sh: Homeostaza
+    si: සමස්ථිතිය
+    sk: Homeostáza
+    sl: homeostaza
+    sq: homeostazë
+    sr: Хомеостаза
+    sr-ec: хомеостаза
+    sr-el: homeostaza
+    sv: homeostas
+    ta: ஒருசீர்த்திடநிலை
+    th: ภาวะธำรงดุล
+    tl: Homeostasis
+    tr: Homeostaz
+    uk: гомеостаз
+    ur: استتباط
+    uz: Gomeostaz
+    vec: omeòstaze
+    vi: cân bằng nội môi
+    war: Homeostasis
+    wuu: 稳态
+    yue: 體内平衡
+    zh: 稳态
+    zh-cn: 稳态
+    zh-hans: 稳态
+    zh-hant: 穩態
+    zh-hk: 穩態
+    zh-sg: 稳态
+    zh-tw: 穩態
 ---
-
 # [[Homeostasis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Homeostasis,103191|WD~Homeostasis,103191]] 

@@ -1,31 +1,140 @@
 ---
 aliases:
-  - Up Quark
-  - Up Quarks
-  - Up-Quark
-  - Up_quark
-  - Up_Quark
+- aukštyn kvarkas
+- cuark arriba
+- goi quark
+- gornji kvark
+- igbaw nga quark
+- kuark naik
+- kuark up
+- kvark u
+- kwark górny
+- op-kwark
+- oppkvark
+- quarcum sursum
+- quark arriba
+- quark enriba
+- quark haut
+- quark lên
+- quark u
+- quark up
+- taas na quark
+- u kvarks
+- u-kvark
+- u-kvarkki
+- u-kvarko
+- U-quarko
+- u-кварк
+- u-քվարկ
+- U-კვარკი
+- uaschuarc
+- up kvark
+- Up Quark
+- Up Quarks
+- up-kvark
+- Up-Quark
+- Up_quark
+- yukarı kuark
+- горен кварк
+- קווארק למעלה
+- اپ کوارک
+- كوارك علوي
+- کوارک بالا
+- अप क्वार्क
+- আপ কোয়ার্ক
+- আপ কোৱাৰ্ক
+- மேல் குவார்க்
+- アップクォーク
+- 上夸克
+- 우로쿼크
+- 위 쿼크
 has_id_wikidata: Q6732
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 antiparticle: '[[_Standards/WikiData/WD~up_antiquark,18481607]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~quark,6718]]'
-  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
 mass: 2.16
 Monte_Carlo_Particle_Number: 2
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Proton%20quark%20structure.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Up%20quark.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Proton%20quark%20structure.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Up%20quark.svg
 electric_charge: 0.6666666666666666
+dv_has_:
+  name_:
+    af: op-kwark
+    ar: كوارك علوي
+    as: আপ কোৱাৰ্ক
+    ast: quark enriba
+    be: u-кварк
+    be-tarask: u-кварк
+    bg: горен кварк
+    bn: আপ কোয়ার্ক
+    ca: quark u
+    cs: kvark u
+    da: up-kvark
+    dag: up quark
+    de: Up-Quark
+    en: up quark
+    en-gb: up quark
+    eo: u-kvarko
+    es: cuark arriba
+    et: u-kvark
+    eu: goi quark
+    fa: کوارک بالا
+    fi: u-kvarkki
+    fr: quark haut
+    ga: uaschuarc
+    gl: quark arriba
+    he: קווארק למעלה
+    hi: अप क्वार्क
+    hr: gornji kvark
+    hu: up kvark
+    hy: u-քվարկ
+    id: kuark up
+    io: U-quarko
+    it: quark up
+    ja: アップクォーク
+    ka: U-კვარკი
+    ko: 위 쿼크
+    ko-kp: 우로쿼크
+    la: quarcum sursum
+    lt: aukštyn kvarkas
+    lv: u kvarks
+    mk: горен кварк
+    ms: kuark naik
+    nb: oppkvark
+    ne: अप क्वार्क
+    nl: up quark
+    nn: u-kvark
+    oc: quark up
+    pl: kwark górny
+    pnb: اپ کوارک
+    pt: quark up
+    pt-br: quark up
+    ro: quark up
+    ru: u-кварк
+    sh: gornji kvark
+    sk: kvark u
+    sl: kvark u
+    sr: gornji kvark
+    ta: மேல் குவார்க்
+    tl: taas na quark
+    tr: yukarı kuark
+    tt: u-kvark
+    uk: u-кварк
+    vi: quark lên
+    war: igbaw nga quark
+    yue: 上夸克
+    zh: 上夸克
 ---
-
 # [[Up_Quark]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Up_quark,6732|WD~Up_quark,6732]] 

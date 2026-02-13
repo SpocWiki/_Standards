@@ -1,9 +1,35 @@
 ---
 aliases:
-  - Heinrich Kleisli
-  - Kleisli,Heinrich
+- Heinrich Kleisli
+- Kleisli,Heinrich
+- Генрих Клейсли
+- ハインリッヒ・クライスリ
+- 海因里希·克萊斯利
+has_id_wikidata: Q14492165
+dv_has_:
+  name_:
+    ast: Heinrich Kleisli
+    ca: Heinrich Kleisli
+    da: Heinrich Kleisli
+    de: Heinrich Kleisli
+    en: Heinrich Kleisli
+    es: Heinrich Kleisli
+    fi: Heinrich Kleisli
+    fr: Heinrich Kleisli
+    ga: Heinrich Kleisli
+    it: Heinrich Kleisli
+    ja: ハインリッヒ・クライスリ
+    nb: Heinrich Kleisli
+    nl: Heinrich Kleisli
+    pt: Heinrich Kleisli
+    pt-br: Heinrich Kleisli
+    rm: Heinrich Kleisli
+    ru: Генрих Клейсли
+    sl: Heinrich Kleisli
+    sq: Heinrich Kleisli
+    sv: Heinrich Kleisli
+    zh: 海因里希·克萊斯利
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Heinrich Kleisli** (; October 19, 1930 – April 5, 2011) was a Swiss mathematician.  

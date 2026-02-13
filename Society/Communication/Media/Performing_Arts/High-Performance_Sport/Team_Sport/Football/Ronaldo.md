@@ -1,67 +1,104 @@
 ---
 aliases:
-  - Ronaldo Luís Nazário de Lima
-  - Ronaldo
+- Luis Nazário de Lima
+- Luis Ronaldo
+- Ronaldo
+- Ronaldo Luis Nazário de Lima
+- Ronaldo Luiz Nazario da Lima
+- Ronaldo Luís Nazário de Lima
+- Ronaldo Nazário
+- Ronaldu
+- Ronaldus
+- Ρονάλντο
+- Раналду
+- Роналдо
+- Роналду
+- Рональдо
+- Ռոնալդո
+- רונאלדו
+- رونالدو
+- رونالڈو
+- ڕۆناڵدۆ
+- रोनाल्डो
+- রোনালদো
+- ৰ'নাল্ড'
+- ਰੋਨਾਲਡੋ
+- રોનાલ્ડો
+- ரொனால்டோ
+- రొనాల్డో
+- ರೊನಾಲ್ಡೊ
+- റൊണാൾഡോ
+- โรนัลโด
+- ရော်နယ်လ်ဒို
+- ရေႃႇၼႄႇတူဝ်ႇ (ၵူၼ်းပိတ်ႇမၢၵ်ႇၼင် ပရႃႇၸီး)
+- რონალდო
+- ロナウド
+- 朗拿度
+- 罗纳尔多
+- 羅納度
+- 羅納爾多
+- ꠞꠥꠘꠣꠟꠖꠅ ꠘꠣꠏꠣꠞꠤꠅ
+- 호나우두
 has_id_wikidata: Q529207
 Commons_category: Ronaldo Nazário
 Commons_gallery: Ronaldo Nazário
 Facebook_username: ronaldonlr9
 Baidu_Tieba_name: 罗纳尔多
 nickname:
-  - O fenômeno
-  - R9
+- O fenômeno
+- R9
 birth_name: Ronaldo Luís Nazário de Lima
 work_period_end_: 2011-02-14T00:00:00Z
 member_of_sports_team:
-  - "[[_Standards/WikiData/WD~Brazil_men's_national_football_team,83459]]"
-  - '[[_Standards/WikiData/WD~Cruzeiro_E.C.,188277]]'
-  - '[[_Standards/WikiData/WD~Brazil_national_under_23_football_team,899189]]'
-  - '[[_Standards/WikiData/WD~Brazil_national_under_17_football_team,2402747]]'
-  - '[[_Standards/WikiData/WD~Inter_Milan,631]]'
-  - '[[_Standards/WikiData/WD~AC_Milan,1543]]'
-  - '[[_Standards/WikiData/WD~FC_Barcelona,7156]]'
-  - '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
-  - '[[_Standards/WikiData/WD~PSV_Eindhoven,11938]]'
-  - '[[_Standards/WikiData/WD~S.C._Corinthians_Paulista,35933]]'
+- "[[_Standards/WikiData/WD~Brazil_men's_national_football_team,83459]]"
+- '[[_Standards/WikiData/WD~Cruzeiro_E.C.,188277]]'
+- '[[_Standards/WikiData/WD~Brazil_national_under_23_football_team,899189]]'
+- '[[_Standards/WikiData/WD~Brazil_national_under_17_football_team,2402747]]'
+- '[[_Standards/WikiData/WD~Inter_Milan,631]]'
+- '[[_Standards/WikiData/WD~AC_Milan,1543]]'
+- '[[_Standards/WikiData/WD~FC_Barcelona,7156]]'
+- '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
+- '[[_Standards/WikiData/WD~PSV_Eindhoven,11938]]'
+- '[[_Standards/WikiData/WD~S.C._Corinthians_Paulista,35933]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Foot,83710]]'
-  - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - '[[_Standards/WikiData/WD~Bravo_Award,554495]]'
-  - '[[_Standards/WikiData/WD~UEFA_Club_Footballer_of_the_Year,1187699]]'
-  - '[[_Standards/WikiData/WD~Italian_Football_Hall_of_Fame,1847685]]'
-  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
-  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
-  - "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082]]"
+- '[[_Standards/WikiData/WD~Golden_Foot,83710]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
+- '[[_Standards/WikiData/WD~Bravo_Award,554495]]'
+- '[[_Standards/WikiData/WD~UEFA_Club_Footballer_of_the_Year,1187699]]'
+- '[[_Standards/WikiData/WD~Italian_Football_Hall_of_Fame,1847685]]'
+- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+- '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082]]"
 position_played_on_team_speciality: '[[_Standards/WikiData/WD~forward,280658]]'
 place_of_birth:
-  - '[[_Standards/WikiData/WD~Itaguaí,730437]]'
-  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+- '[[_Standards/WikiData/WD~Itaguaí,730437]]'
+- '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
 occupation: '[[_Standards/WikiData/WD~association_football_player,937857]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Ronaldo,2165978]]'
-  - '[[_Standards/WikiData/WD~Cristiano_Ronaldo,11571]]'
-  - '[[_Standards/WikiData/WD~Ronaldinho,39444]]'
+- '[[_Standards/WikiData/WD~Ronaldo,2165978]]'
+- '[[_Standards/WikiData/WD~Cristiano_Ronaldo,11571]]'
+- '[[_Standards/WikiData/WD~Ronaldinho,39444]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Luis,2598693]]'
-  - '[[_Standards/WikiData/WD~Ronaldo,19819804]]'
+- '[[_Standards/WikiData/WD~Luis,2598693]]'
+- '[[_Standards/WikiData/WD~Ronaldo,19819804]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 owner_of: '[[_Standards/WikiData/WD~9ine,9555170]]'
 family_name:
-  - '[[_Standards/WikiData/WD~de_Lima,21475251]]'
-  - '[[_Standards/WikiData/WD~Nazario,56244128]]'
+- '[[_Standards/WikiData/WD~de_Lima,21475251]]'
+- '[[_Standards/WikiData/WD~Nazario,56244128]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
 sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career:
-  - 0
-  - 1
+- 0
+- 1
 country_for_sport: '[[_Standards/WikiData/WD~Brazil,155]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Brazil,155]]'
 number_of_matches_played_races_starts:
-  - 1
-  - 2
+- 1
+- 2
 mass: 90
 height: 183
 X_Twitter_username: Ronaldo
@@ -73,8 +110,129 @@ official_website: http://www.ronaldo.com/
 pseudonym: "''O fenômeno''"
 ISNI: 0000000115969189
 Munzinger_Sport_number: 01000004405
+dv_has_:
+  name_:
+    af: Ronaldo Luiz Nazario da Lima
+    an: Ronaldo
+    ar: رونالدو
+    ary: رونالدو
+    arz: رونالدو
+    as: ৰ'নাল্ড'
+    ast: Ronaldo
+    az: Ronaldo
+    azb: رونالدو
+    ba: Роналдо
+    be: Раналду
+    be-tarask: Раналду
+    bg: Роналдо
+    bho: रोनाल्डो
+    bn: রোনালদো
+    br: Ronaldo Luís Nazário de Lima
+    bs: Ronaldo
+    ca: Ronaldo Nazário
+    ce: Роналдо
+    ckb: ڕۆناڵدۆ
+    co: Ronaldo
+    cs: Ronaldo
+    da: Ronaldo
+    dag: Ronaldo
+    de: Ronaldo
+    diq: Ronaldo
+    el: Ρονάλντο
+    en: Ronaldo
+    en-ca: Ronaldo
+    en-gb: Ronaldo
+    eo: Ronaldo
+    es: Ronaldo
+    et: Ronaldo
+    eu: Ronaldo
+    fa: رونالدو
+    fi: Ronaldo
+    fo: Ronaldo
+    fr: Ronaldo
+    ga: Ronaldo
+    gl: Ronaldo
+    gu: રોનાલ્ડો
+    ha: Ronaldo
+    he: רונאלדו
+    hi: रोनाल्डो
+    hif: Ronaldo
+    hr: Ronaldo Luís Nazário de Lima
+    hu: Ronaldo
+    hy: Ռոնալդո
+    id: Ronaldo Nazário
+    io: Ronaldo Luís Nazário de Lima
+    is: Ronaldo
+    it: Ronaldo
+    ja: ロナウド
+    jv: Ronaldo
+    ka: რონალდო
+    kk: Роналдо
+    kl: Ronaldo
+    kn: ರೊನಾಲ್ಡೊ
+    ko: 호나우두
+    la: Ronaldus
+    lt: Ronaldo Luís Nazário de Lima
+    lv: Ronaldu
+    mai: रोनाल्डो
+    mg: Ronaldo Luis Nazário de Lima
+    mk: Роналдо
+    ml: റൊണാൾഡോ
+    mn: Рональдо
+    mr: रोनाल्डो
+    ms: Ronaldo
+    mt: Ronaldo
+    my: ရော်နယ်လ်ဒို
+    mzn: رونالدو
+    nan: Ronaldo
+    nap: Ronaldo
+    nb: Ronaldo
+    ne: रोनाल्डो
+    nl: Ronaldo Luis Nazário de Lima
+    nn: Ronaldo
+    os: Роналдо
+    pa: ਰੋਨਾਲਡੋ
+    pap: Ronaldo
+    pl: Ronaldo
+    pt: Ronaldo
+    pt-br: Ronaldo
+    qu: Ronaldo
+    ro: Ronaldo
+    ru: Роналдо
+    rue: Роналдо
+    sc: Ronaldo
+    sco: Ronaldo
+    se: Ronaldo
+    sgs: Ronaldo
+    sh: Ronaldo
+    shn: ရေႃႇၼႄႇတူဝ်ႇ (ၵူၼ်းပိတ်ႇမၢၵ်ႇၼင် ပရႃႇၸီး)
+    sk: Ronaldo
+    sl: Ronaldo
+    sq: Luis Nazário de Lima
+    sr: Роналдо
+    sv: Ronaldo
+    sw: Ronaldo
+    syl: ꠞꠥꠘꠣꠟꠖꠅ ꠘꠣꠏꠣꠞꠤꠅ
+    ta: ரொனால்டோ
+    te: రొనాల్డో
+    tg: Роналдо
+    th: โรนัลโด
+    tk: Luis Ronaldo
+    tr: Ronaldo
+    uk: Роналду
+    ur: رونالڈو
+    uz: Ronaldo
+    vi: Ronaldo
+    war: Ronaldo
+    wuu: 罗纳尔多
+    yue: 朗拿度
+    zh: 罗纳尔多
+    zh-hans: 罗纳尔多
+    zh-hant: 羅納爾多
+    zh-hk: 朗拿度
+    zh-sg: 罗纳尔多
+    zh-tw: 羅納度
 ---
-
 # [[Ronaldo]] 
 
 #is_/same_as :: [[WD~Ronaldo,529207]] 

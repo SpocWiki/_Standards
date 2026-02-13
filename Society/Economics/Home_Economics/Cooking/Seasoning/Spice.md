@@ -1,26 +1,138 @@
 ---
 aliases:
-  - Gewürz
-  - Spice
+- Aroma
+- Baharat
+- Biharat
+- Bukubuku
+- condiment
+- Erëzat
+- especia
+- especiaria
+- especie
+- espesya
+- Espezia
+- espècia
+- Espècia (Cosina)
+- fűszer
+- garšviela
+- Gewierz
+- Gewürz
+- gia vị
+- Gwiaz
+- hամեմունքներ
+- Isinongo
+- Jamii:Viungo
+- korenina
+- koření
+- Kruut
+- Krydd
+- krydda
+- krydder
+- krydderi
+- Langkok-langkok
+- Manq'a sumachiri
+- masaala
+- mauste
+- Máistagat
+- Mėrkals
+- panakot
+- phang-hiam-liāu
+- prieskonis
+- przyprawa
+- Q'apachana
+- Rekado
+- rempah
+- rempah-rempah
+- sbeis
+- Sipaisi
+- Sjpecerie
+- Sous
+- specerij
+- Specie (aroma)
+- spesery
+- Spessie
+- spezie
+- spezziu
+- Spice
+- spico
+- spios
+- spis
+- spèsia
+- Spìosradh
+- spíosra
+- Vürtsid
+- Xawaash
+- zava-manitra
+- začimba
+- Začin
+- Zepis
+- Ziravorlar
+- Zépis
+- épice
+- Êpice
+- ħwawar
+- Μπαχαρικό
+- Дәмдеуіштер
+- затаўка
+- зачин
+- КӀоанолг
+- Подправка
+- прыправы
+- пряности
+- спеції
+- Татымал
+- Тума
+- тәмләткечләр
+- Хъацæнтæ (хæринаг)
+- Համեմունքներ
+- געווירץ
+- תבלין
+- ادویات
+- ادویه
+- بهار
+- بەھارات
+- رمڤه
+- عطرية
+- ليستة التوابل
+- مسالا
+- مساله
+- مصالحو
+- مصالحہ
+- ܐܨܪܐ
+- गन्धद्रव्याणि
+- मसला
+- मसाला
+- মসলা
+- மசாலாப் பொருள்
+- సుగంధ ద్రవ్యం
+- ಸಂಬಾರ ಪದಾರ್ಥ
+- സുഗന്ധവ്യഞ്ജനം
+- කුළුබඩු
+- เครื่องเทศ
+- ပပ်ႉတူမ်ႈႁုင်:တူၼ်ႈႁွမ် လႄႈ ၽွင်မိူတ်ႇ
+- ဟင်းခတ်အမွှေးအကြိုင်
+- 香料
+- 香辛料
+- 향신료
 has_id_wikidata: Q42527
 has_use:
-  - '[[_Standards/WikiData/WD~food_preservation,173514]]'
-  - '[[_Standards/WikiData/WD~food_coloring,753009]]'
-  - '[[_Standards/WikiData/WD~seasoning,773108]]'
-  - '[[_Standards/WikiData/WD~flavoring,4173974]]'
+- '[[_Standards/WikiData/WD~food_preservation,173514]]'
+- '[[_Standards/WikiData/WD~food_coloring,753009]]'
+- '[[_Standards/WikiData/WD~seasoning,773108]]'
+- '[[_Standards/WikiData/WD~flavoring,4173974]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from: '[[_Standards/WikiData/WD~spice,928070]]'
 made_from_material: '[[_Standards/WikiData/WD~aromatic_plant,2247340]]'
 subclass_of: '[[_Standards/WikiData/WD~condiment,2596997]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Herbs_&_spices,10960956]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~food_powder,56274178]]'
 water_footprint:
-  - 2.35
-  - 7048
+- 2.35
+- 7048
 OmegaWiki_Defined_Meaning: 332437
 social_media_followers: 239749
 subreddit: spicy
@@ -30,11 +142,147 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 P8189: 987007565809505171
 Provenio_UUID: c02667df-1feb-4c93-a692-551ed71b447e
 MeSH_tree_code:
-  - G07.203.300.250.725
-  - J02.500.250.725
+- G07.203.300.250.725
+- J02.500.250.725
 Commons_category: Spices
+dv_has_:
+  name_:
+    af: spesery
+    an: especia
+    ar: بهار
+    arc: ܐܨܪܐ
+    ary: عطرية
+    arz: ليستة التوابل
+    ast: especie
+    ay: Manq'a sumachiri
+    az: Sous
+    azb: ادویات
+    bar: Gwiaz
+    bcl: Rekado
+    be: прыправы
+    be-tarask: затаўка
+    bg: Подправка
+    bn: মসলা
+    br: spis
+    bs: Začin
+    ca: espècia
+    ckb: بەھارات
+    cs: koření
+    cy: sbeis
+    da: krydderi
+    de: Gewürz
+    de-ch: Gewürz
+    el: Μπαχαρικό
+    en: spice
+    en-ca: Spice
+    en-gb: spice
+    eo: spico
+    es: especia
+    et: Vürtsid
+    eu: Espezia
+    fa: ادویه
+    fi: mauste
+    fj: Sipaisi
+    fr: épice
+    ga: spíosra
+    gcr: Zépis
+    gd: Spìosradh
+    gl: especia
+    gv: spios
+    he: תבלין
+    hi: मसाला
+    hif: masaala
+    hr: začin
+    ht: Zepis
+    hu: fűszer
+    hy: hամեմունքներ
+    hyw: Համեմունքներ
+    ia: Specie (aroma)
+    id: rempah-rempah
+    inh: КӀоанолг
+    io: Spico
+    is: Krydd
+    it: spezie
+    ja: 香辛料
+    jv: Rempah-rempah
+    ki: Bukubuku
+    kk: Дәмдеуіштер
+    kn: ಸಂಬಾರ ಪದಾರ್ಥ
+    ko: 향신료
+    ku: Biharat
+    ky: Татымал
+    la: Aroma
+    lb: Gewierz
+    li: Sjpecerie
+    lt: prieskonis
+    lv: garšviela
+    lzh: 香料
+    mg: zava-manitra
+    min: Langkok-langkok
+    mk: зачин
+    ml: സുഗന്ധവ്യഞ്ജനം
+    mr: मसाला
+    ms: rempah
+    ms-arab: رمڤه
+    mt: ħwawar
+    my: ဟင်းခတ်အမွှေးအကြိုင်
+    nan: phang-hiam-liāu
+    nb: krydder
+    nds: Kruut
+    ne: मसला
+    new: मसला
+    nl: specerij
+    nn: krydder
+    nrm: Êpice
+    oc: Espècia (Cosina)
+    os: Хъацæнтæ (хæринаг)
+    pl: przyprawa
+    pms: Spessie
+    pnb: مسالا
+    ps: مساله
+    pt: especiaria
+    pt-br: especiaria
+    qu: Q'apachana
+    ro: condiment
+    ru: пряности
+    sa: गन्धद्रव्याणि
+    sah: Тума
+    scn: spezziu
+    sd: مصالحو
+    se: Máistagat
+    sgs: Mėrkals
+    sh: Začin
+    shn: ပပ်ႉတူမ်ႈႁုင်:တူၼ်ႈႁွမ် လႄႈ ၽွင်မိူတ်ႇ
+    si: කුළුබඩු
+    sk: korenina
+    sl: začimba
+    so: Xawaash
+    sq: Erëzat
+    sr: зачин
+    sr-ec: зачин
+    sv: krydda
+    sw: Jamii:Viungo
+    ta: மசாலாப் பொருள்
+    te: సుగంధ ద్రవ్యం
+    th: เครื่องเทศ
+    tl: espesya
+    tr: Baharat
+    tt: тәмләткечләр
+    uk: спеції
+    ur: مصالحہ
+    uz: Ziravorlar
+    vec: spèsia
+    vi: gia vị
+    war: panakot
+    wuu: 香辛料
+    yi: געווירץ
+    yue: 香料
+    zh: 香辛料
+    zh-hans: 香辛料
+    zh-hant: 香辛料
+    zh-tw: 香辛料
+    zu: Isinongo
 ---
-
 # [[Spice]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Spice,42527|WD~Spice,42527]] 

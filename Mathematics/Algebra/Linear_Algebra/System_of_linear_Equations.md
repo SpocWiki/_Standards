@@ -1,23 +1,165 @@
 ---
 aliases:
-  - Lineares Gleichungssystem
-  - System_of_linear_Equations
-  - System of linear Equations
+- Doğrusal denklem dizgesi
+- Ekuazio linealetako sistema
+- Hệ phương trình tuyến tính
+- lineaarinen yhtälöryhmä
+- Lineaarvõrrandisüsteem
+- Lineares Gleichungssystem
+- lineáris egyenletrendszer
+- Lineært ligningssystem
+- Lineært likningssystem
+- lineāru vienādojumu sistēma
+- Linjärt ekvationssystem
+- Línulegt jöfnuhneppi
+- Sistem de ecuații liniare
+- sistem linearnih enačb
+- Sistem linearnih jednačina
+- Sistem persamaan linear
+- Sistema d'ecuaciones lliniales
+- Sistema d'equacions lineals
+- sistema de ecuaciones lineales
+- sistema de ecuacións lineais
+- Sistema de equazion linear
+- sistema de equações lineares
+- sistema di equazioni lineari
+- Sistema han ekawsyones linyales
+- sistemi i ekuacionit linear
+- sistemo de linearaj ekvacioj
+- Sistèma d'equacions linearas
+- soustava lineárních rovnic
+- stelsel van lineaire vergelijkingen
+- Sustav linearnih jednadžbi
+- System of linear Equations
+- Systema aequationum linearium
+- Systema de equationes linear
+- System_of_linear_Equations
+- système d'équations linéaires
+- Sústava lineárnych rovníc
+- tiesinių lygčių sistema
+- układ równań liniowych
+- Xətti tənliklər sistemi
+- Σύστημα γραμμικών εξισώσεων
+- Линилле алгебрăлла танлăхсен тытăмĕ
+- сістэма лінейных алгебраічных ураўненняў
+- Систем линеарни равенки
+- систем линеарних једначина
+- система лінійних алгебраїчних рівнянь
+- Система линейни уравнения
+- система линейных алгебраических уравнений
+- Сызыкча алгебраик тигезләмәләр системасы
+- сыстэма лінейных альгебраічных раўнаньняў
+- Шугаман тэгшитгэлийн систем
+- Һыҙыҡлы алгебраик тигеҙләмәләр системаһы
+- Գծային հանրահաշվական հավասարումների համակարգ
+- מערכת משוואות לינאריות
+- دستگاه معادلات خطی
+- سِڌِر مساواتُن جو سرشتو
+- سیستمی ھاوکێشەی ھێڵی
+- لینیر ایکوایشنز دا پربندھ
+- نظام معادلات خطية
+- یکلخت لکیری مساوات کا نظام
+- रैखिक समीकरण निकाय
+- ਰੇਖੀ ਸਮੀਕਰਨਾਂ ਦਾ ਤੰਤਰ
+- நேரியல் சமன்பாடுகளின் தொகுப்பு
+- ඒකජ සමීකරණ පද්ධතිය
+- ระบบสมการเชิงเส้น
+- 線型方程式系
+- 線性方程組
+- 线性方程组
+- 연립 일차 방정식
 has_id_wikidata: Q11203
-has_part_s_: "[[_Standards/WikiData/WD~linear_equation,484637]]"
-different_from: "[[_Standards/WikiData/WD~linear_system,1072174]]"
+has_part_s_: '[[_Standards/WikiData/WD~linear_equation,484637]]'
+different_from: '[[_Standards/WikiData/WD~linear_system,1072174]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~linear_system,1072174]]"
-  - "[[_Standards/WikiData/WD~system_of_polynomial_equations,7663735]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~linear_system,1072174]]'
+- '[[_Standards/WikiData/WD~system_of_polynomial_equations,7663735]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Secretsharing%203-point.svg
 Commons_category: System of linear equations
 short_name:
-  - LGS
-  - СЛАУ
-  - СЛУ
+- LGS
+- СЛАУ
+- СЛУ
+dv_has_:
+  name_:
+    an: Sistema d'equacions lineals
+    ar: نظام معادلات خطية
+    ast: Sistema d'ecuaciones lliniales
+    az: Xətti tənliklər sistemi
+    ba: Һыҙыҡлы алгебраик тигеҙләмәләр системаһы
+    be: сістэма лінейных алгебраічных ураўненняў
+    be-tarask: сыстэма лінейных альгебраічных раўнаньняў
+    bg: Система линейни уравнения
+    bs: Sistem linearnih jednačina
+    ca: sistema d'equacions lineals
+    ckb: سیستمی ھاوکێشەی ھێڵی
+    cs: soustava lineárních rovnic
+    cv: Линилле алгебрăлла танлăхсен тытăмĕ
+    de: lineares Gleichungssystem
+    el: Σύστημα γραμμικών εξισώσεων
+    en: system of linear equations
+    eo: sistemo de linearaj ekvacioj
+    es: sistema de ecuaciones lineales
+    et: Lineaarvõrrandisüsteem
+    eu: Ekuazio linealetako sistema
+    fa: دستگاه معادلات خطی
+    fi: lineaarinen yhtälöryhmä
+    fr: système d'équations linéaires
+    gl: sistema de ecuacións lineais
+    gsw: Lineares Gleichungssystem
+    he: מערכת משוואות לינאריות
+    hi: रैखिक समीकरण निकाय
+    hif: System of linear equations
+    hr: Sustav linearnih jednadžbi
+    hu: lineáris egyenletrendszer
+    hy: Գծային հանրահաշվական հավասարումների համակարգ
+    ia: Systema de equationes linear
+    id: Sistem persamaan linear
+    is: Línulegt jöfnuhneppi
+    it: sistema di equazioni lineari
+    ja: 線型方程式系
+    ko: 연립 일차 방정식
+    la: Systema aequationum linearium
+    lmo: Sistema de equazion linear
+    lt: tiesinių lygčių sistema
+    lv: lineāru vienādojumu sistēma
+    mag: रैखिक समीकरण निकाय
+    mk: Систем линеарни равенки
+    mn: Шугаман тэгшитгэлийн систем
+    ms: Sistem persamaan linear
+    nb: Lineært ligningssystem
+    nl: stelsel van lineaire vergelijkingen
+    nn: Lineært likningssystem
+    oc: Sistèma d'equacions linearas
+    pa: ਰੇਖੀ ਸਮੀਕਰਨਾਂ ਦਾ ਤੰਤਰ
+    pl: układ równań liniowych
+    pnb: لینیر ایکوایشنز دا پربندھ
+    pt: sistema de equações lineares
+    pt-br: sistema de equações lineares
+    ro: Sistem de ecuații liniare
+    ru: система линейных алгебраических уравнений
+    sd: سِڌِر مساواتُن جو سرشتو
+    sh: Sistem linearnih jednačina
+    si: ඒකජ සමීකරණ පද්ධතිය
+    sk: Sústava lineárnych rovníc
+    sl: sistem linearnih enačb
+    sq: sistemi i ekuacionit linear
+    sr: систем линеарних једначина
+    sr-ec: систем линеарних једначина
+    sv: Linjärt ekvationssystem
+    ta: நேரியல் சமன்பாடுகளின் தொகுப்பு
+    th: ระบบสมการเชิงเส้น
+    tr: Doğrusal denklem dizgesi
+    tt: Сызыкча алгебраик тигезләмәләр системасы
+    uk: система лінійних алгебраїчних рівнянь
+    ur: یکلخت لکیری مساوات کا نظام
+    vi: Hệ phương trình tuyến tính
+    war: Sistema han ekawsyones linyales
+    wuu: 线性方程组
+    yue: 線性方程組
+    zh: 线性方程组
 ---
-
 # [[System_of_linear_Equations]] 
 
 #is_/same_as :: [[WD~System_of_linear_equations,11203]] 

@@ -1,4 +1,171 @@
-
+---
+has_id_wikidata: Q134773
+dv_has_:
+  name_:
+    af: Forrest Gump
+    an: Forrest Gump
+    ar: فورست غامب
+    ary: فوريسط ڭامپ
+    ast: Forrest Gump
+    az: Forrest Qamp
+    azb: فورست قامپ (فیلم، ۱۹۹۴)
+    be: Форэст Гамп, фільм
+    be-tarask: Форэст Гамп
+    bg: Форест Гъмп
+    bn: ফরেস্ট গাম্প
+    br: Forrest Gump
+    bs: Forrest Gump
+    ca: Forrest Gump
+    ceb: Ang forrest gump.
+    ckb: فۆرێست گەمپ
+    co: Forrest Gump
+    crh: Forrest Gamp
+    cs: Forrest Gump
+    cv: Форрест Гамп
+    cy: Forrest Gump
+    da: Forrest Gump
+    de: Forrest Gump
+    de-ch: Forrest Gump
+    el: Φόρεστ Γκαμπ
+    en: Forrest Gump
+    en-ca: Forrest Gump
+    en-gb: Forrest Gump
+    eo: Forrest Gump
+    es: Forrest Gump
+    et: Forrest Gump
+    eu: Forrest Gump
+    fa: فارست گامپ
+    fi: Forrest Gump
+    fo: Forrest Gump
+    fr: Forrest Gump
+    ga: Forrest Gump
+    gl: Forrest Gump
+    haw: Forrest Gump
+    he: פורסט גאמפ
+    hi: फॉरेस्ट गंप
+    hr: Forrest Gump
+    ht: Forrest Gump
+    hu: Forrest Gump
+    hy: Ֆորեսթ Գամփ
+    id: Forrest Gump
+    ig: Forrest Gump
+    is: Forrest Gump
+    it: Forrest Gump
+    ja: フォレスト・ガンプ/一期一会
+    ka: ფორესტ გამპი
+    kk: Форрест Гамп
+    kn: ಫಾರೆಸ್ಟ್ ಗಂಪ್
+    ko: 포레스트 검프
+    ky: Форрест Гамп
+    la: Forrest Gump
+    lad: Forrest Gump
+    lb: Forrest Gump
+    li: Forrest Gump
+    lt: Forestas Gampas
+    lv: Forests Gamps
+    mhr: Форрест Гамп
+    mk: Форест Гамп
+    ml: ഫോറസ്റ്റ് ഗമ്പ്
+    mn: Форрест Гамп
+    mr: फॉरेस्ट गम्प
+    ms: Filem Forrest Gump
+    mul: Forrest Gump
+    my: ဖောရတ်စ်ဂမ့်ဘ်
+    mzn: فارست گامپ
+    nb: Forrest Gump
+    ne: फरेस्ट गम्प
+    new: फरेस्ट गम्प
+    nl: Forrest Gump
+    nn: Forrest Gump
+    oc: Forrest Gump
+    pa: ਇੱਕ ਅਭਿਨੇਤਾ
+    pl: Forrest Gump
+    ps: فورسټ گمپ
+    pt: Forrest Gump
+    pt-br: Forrest Gump
+    ro: Forrest Gump
+    ru: Форрест Гамп
+    rup: Forrest Gump
+    sco: Forrest Gump
+    sd: فاريسٽ گَمپِ
+    sh: Forrest Gump
+    sk: Forrest Gump
+    sl: Forrest Gump
+    sq: Forrest Gump
+    sr: Форест Гамп
+    sr-ec: Форест Гамп
+    sr-el: Forest Gamp
+    su: Forrest Gump
+    sv: Forrest Gump
+    sw: Forrest Gump
+    ta: ஃபாரஸ்ட் கம்ப்
+    te: ఫారెస్ట్ గంప్
+    tg: Форрест Гамп
+    th: ฟอร์เรสท์ กัมพ์ อัจฉริยะปัญญานิ่ม
+    tr: Forrest Gump
+    uk: Форрест Гамп
+    ur: فارسٹ گمپ
+    uz: Forrest Gump
+    vep: Forrest Gamp
+    vi: Forrest Gump
+    vo: Forrest Gump
+    war: Forrest Gump
+    wuu: 阿甘正传
+    xmf: ფორესტ გამპი
+    yue: 阿甘正傳
+    za: Ahganh Cingqcienh
+    zh: 阿甘正传
+    zh-cn: 阿甘正传
+    zh-hans: 阿甘正传
+    zh-hant: 阿甘正傳
+    zh-hk: 阿甘正傳
+    zh-mo: 阿甘正傳
+    zh-my: 阿甘正传
+    zh-sg: 阿甘正传
+    zh-tw: 阿甘正傳
+aliases:
+- Ahganh Cingqcienh
+- Ang forrest gump.
+- Filem Forrest Gump
+- Forest Gamp
+- Forestas Gampas
+- Forests Gamps
+- Forrest Gamp
+- Forrest Gump
+- Forrest Qamp
+- Φόρεστ Γκαμπ
+- Форест Гамп
+- Форест Гъмп
+- Форрест Гамп
+- Форэст Гамп
+- Форэст Гамп, фільм
+- Ֆորեսթ Գամփ
+- פורסט גאמפ
+- فارست گامپ
+- فارسٹ گمپ
+- فاريسٽ گَمپِ
+- فورست غامب
+- فورست قامپ (فیلم، ۱۹۹۴)
+- فورسټ گمپ
+- فوريسط ڭامپ
+- فۆرێست گەمپ
+- फरेस्ट गम्प
+- फॉरेस्ट गंप
+- फॉरेस्ट गम्प
+- ফরেস্ট গাম্প
+- ਇੱਕ ਅਭਿਨੇਤਾ
+- ஃபாரஸ்ட் கம்ப்
+- ఫారెస్ట్ గంప్
+- ಫಾರೆಸ್ಟ್ ಗಂಪ್
+- ഫോറസ്റ്റ് ഗമ്പ്
+- ฟอร์เรสท์ กัมพ์ อัจฉริยะปัญญานิ่ม
+- ဖောရတ်စ်ဂမ့်ဘ်
+- ფორესტ გამპი
+- フォレスト・ガンプ/一期一会
+- 阿甘正传
+- 阿甘正傳
+- 포레스트 검프
+---
 ## #has_/text_of_/abstract 
 
 > Forrest Gump is a 1994 American comedy-drama film 

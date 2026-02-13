@@ -1,35 +1,185 @@
 ---
 aliases:
+- Abeg
+- Cymhelliant
+- Daalib
+- dorongan
+- drivkraft
+- Incitamentum
+- késztetés
+- motibazio
+- motisha
+- Motiv
+- motivaatio
+- Motivace
+- Motivacija
+- motivacion
+- Motivacioni
+- motivació
+- motivación
+- Motivasi
+- motivasion
+- Motivasiya
+- motivasjon
+- motivasyon
+- motivatie
+- motivation
+- Motivatsioon
+- motivazione
+- motivação
+- motivație
+- motivering
+- motivo
+- Motivácia
+- Motivācija
+- motyvacija
+- motywacja
+- pagganyak
+- động cơ
+- ενθάρρυνση
+- матывацыя
+- мотиватсия
+- мотивація
+- Мотиваци
+- Мотивација
+- мотивация
+- Мотивдер
+- Уәждеме
+- Մոտիվացիա
+- הנעה
+- انگیزش
+- دافع
+- پاڵنەر
+- अभिप्रेरण
+- उत्प्रेरणा
+- প্রেরণা
+- ஊக்கம்
+- ప్రేరణ
+- ಪ್ರೇರಣೆ
+- අභිප් රේරණය
+- แรงจูงใจ
+- ຄວາມໝາຍຂອງແຮງຈູງໃຈ
+- მოტივაცია
+- 动机
+- 動機
+- 動機づけ
+- 동기 부여
 has_id_wikidata: Q644302
-studied_by: "[[_Standards/WikiData/WD~sociolinguistics,160845]]"
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
 has_contributing_factor:
-  - "[[_Standards/WikiData/WD~reason,178354]]"
-  - "[[_Standards/WikiData/WD~instinct,18237]]"
+- '[[_Standards/WikiData/WD~reason,178354]]'
+- '[[_Standards/WikiData/WD~instinct,18237]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~need,190258]]"
-  - "[[_Standards/WikiData/WD~arousal,379784]]"
-  - "[[_Standards/WikiData/WD~instinct,18237]]"
+- '[[_Standards/WikiData/WD~need,190258]]'
+- '[[_Standards/WikiData/WD~arousal,379784]]'
+- '[[_Standards/WikiData/WD~instinct,18237]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cause,2574811]]"
-  - "[[_Standards/WikiData/WD~emotions,9415]]"
-part_of: "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-described_by_source: "[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]"
-OmegaWiki_Defined_Meaning: "954763"
+- '[[_Standards/WikiData/WD~cause,2574811]]'
+- '[[_Standards/WikiData/WD~emotions,9415]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
+OmegaWiki_Defined_Meaning: 954763
 Commons_category: Motivation
 Library_of_Congress_Classification: BF501-BF504.3
 IMDb_keyword: motivation
 subreddit:
-  - motivation
-  - GetMotivated
+- motivation
+- GetMotivated
 hashtag: motivation
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Employee%20Aspiration%20Management%20Cycle.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/MaslowsHierarchyOfNeeds.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Employee%20Aspiration%20Management%20Cycle.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/MaslowsHierarchyOfNeeds.svg
 MeSH_tree_code:
-  - F01.658
-  - F01.752.543.500.750
+- F01.658
+- F01.752.543.500.750
+dv_has_:
+  name_:
+    af: motivering
+    ar: دافع
+    ast: Motivación
+    az: Motivasiya
+    be: матывацыя
+    be-tarask: матывацыя
+    bg: мотивация
+    bn: প্রেরণা
+    br: Abeg
+    bs: Motivacija
+    ca: motivació
+    ckb: پاڵنەر
+    cs: Motivace
+    cy: Cymhelliant
+    da: motivation
+    de: Motivation
+    el: ενθάρρυνση
+    en: motivation
+    eo: motivo
+    es: motivación
+    et: Motivatsioon
+    eu: motibazio
+    fa: انگیزش
+    fi: motivaatio
+    fr: motivation
+    gl: Motivación
+    ha: Motivation
+    he: הנעה
+    hi: अभिप्रेरण
+    hr: motivacija
+    ht: motivasyon
+    hu: késztetés
+    hy: Մոտիվացիա
+    id: Motivasi
+    io: Motivo
+    it: motivazione
+    ja: 動機づけ
+    ka: მოტივაცია
+    kk: Уәждеме
+    kn: ಪ್ರೇರಣೆ
+    ko: 동기 부여
+    ky: Мотивдер
+    la: Incitamentum
+    lo: ຄວາມໝາຍຂອງແຮງຈູງໃຈ
+    lt: motyvacija
+    lv: Motivācija
+    mk: Мотивација
+    mn: Мотиваци
+    ms: dorongan
+    nb: motivasjon
+    ne: उत्प्रेरणा
+    nl: motivatie
+    nn: motivasjon
+    oc: motivacion
+    pl: motywacja
+    pt: motivação
+    ro: motivație
+    ru: мотивация
+    sh: Motiv
+    si: අභිප් රේරණය
+    sk: Motivácia
+    sl: motivacija
+    so: Daalib
+    sq: Motivacioni
+    sr: мотивација
+    sv: drivkraft
+    sw: motisha
+    ta: ஊக்கம்
+    te: ప్రేరణ
+    tg: мотиватсия
+    th: แรงจูงใจ
+    tl: pagganyak
+    tr: motivasyon
+    uk: мотивація
+    ur: motivation
+    uz: Motiv
+    vec: motivasion
+    vi: động cơ
+    wuu: 动机
+    yue: 動機
+    zh: 动机
+    zh-cn: 动机
+    zh-hant: 動機
+    zh-hk: 動機
+    zh-tw: 動機
 ---
-
 # [[Motivation]] 
 
 #is_/same_as :: [[WD~Motivation,644302]] 

@@ -1,16 +1,135 @@
 ---
 aliases:
+- dinler tarihi
+- Dinlər tarixi
+- dějiny náboženství
+- Erlijioen historia
+- Geschichte der Religion
+- godsdienstgeschiedenis
+- hanes crefydd
+- histoire des religions
+- historia das relixións
+- historia de la religión
+- Historia de les relixones
+- Historia del religiones
+- Historia e fesë
+- historia religii
+- historija religije
+- historio de religioj
+- history of religions
+- història de les religions
+- história das religiões
+- Istoria de relijio
+- istoria religiilor
+- istorija religija
+- lịch sử tôn giáo
+- Povijest religije
+- religijos istorija
+- religionshistoria
+- religionshistorie
+- reliģiju vēsture
+- Sejarah agama
+- storia delle religioni
+- Trúarbragðasaga
+- uskontohistoria
+- vallástörténet
+- zgodovina religij
+- θρησκευτική ιστορία
+- історія релігії
+- гісторыя рэлігіі
+- диннәр тарихы
+- дины истори
+- историја на религиите
+- историја религија
+- история религии
+- таърихи дин
+- կրոնի պատմություն
+- היסטוריה של הדתות
+- تاريخ الأديان
+- تاريخ الاديان
+- تاریخ ادیان و مذاهب
+- تاریخ مذاہب
+- مێژووی دینەکان
+- ধর্মের ইতিহাস
+- ආගම්වල ඉතිහාසය
+- რელიგიის ისტორია
+- 宗教の歴史
+- 宗教史
+- 종교사
 has_id_wikidata: Q846742
-subclass_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
+subclass_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_religion,17488357]]"
-is_the_study_of: "[[_Standards/WikiData/WD~religion,9174]]"
-facet_of: "[[_Standards/WikiData/WD~religion,9174]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_religion,17488357]]'
+is_the_study_of: '[[_Standards/WikiData/WD~religion,9174]]'
+facet_of: '[[_Standards/WikiData/WD~religion,9174]]'
 Commons_category: History of religion
+dv_has_:
+  name_:
+    ar: تاريخ الأديان
+    arz: تاريخ الاديان
+    ast: Historia de les relixones
+    az: Dinlər tarixi
+    be: гісторыя рэлігіі
+    be-tarask: гісторыя рэлігіі
+    bn: ধর্মের ইতিহাস
+    ca: història de les religions
+    ckb: مێژووی دینەکان
+    cs: dějiny náboženství
+    cy: hanes crefydd
+    da: religionshistorie
+    de: Geschichte der Religion
+    el: θρησκευτική ιστορία
+    en: history of religions
+    eo: historio de religioj
+    es: historia de la religión
+    eu: Erlijioen historia
+    fa: تاریخ ادیان و مذاهب
+    fi: uskontohistoria
+    fr: histoire des religions
+    gl: historia das relixións
+    he: היסטוריה של הדתות
+    hr: Povijest religije
+    hu: vallástörténet
+    hy: կրոնի պատմություն
+    ia: Historia del religiones
+    id: Sejarah agama
+    is: Trúarbragðasaga
+    it: storia delle religioni
+    ja: 宗教の歴史
+    ka: რელიგიის ისტორია
+    ko: 종교사
+    lfn: Istoria de relijio
+    lt: religijos istorija
+    lv: reliģiju vēsture
+    mk: историја на религиите
+    nb: religionshistorie
+    nl: godsdienstgeschiedenis
+    nn: religionshistorie
+    os: дины истори
+    pl: historia religii
+    pt: história das religiões
+    ro: istoria religiilor
+    ru: история религии
+    sh: historija religije
+    si: ආගම්වල ඉතිහාසය
+    sl: zgodovina religij
+    sq: Historia e fesë
+    sr: историја религија
+    sr-ec: историја религија
+    sr-el: istorija religija
+    sv: religionshistoria
+    tg: таърихи дин
+    tr: dinler tarihi
+    tt: диннәр тарихы
+    uk: історія релігії
+    ur: تاریخ مذاہب
+    vi: lịch sử tôn giáo
+    zh: 宗教史
+    zh-hant: 宗教史
+    zh-tw: 宗教史
 ---
-
 # [[History_of_Religions]] 
 
 #is_/same_as :: [[../../../WikiData/WD~History_of_religions,846742|WD~History_of_religions,846742]] 

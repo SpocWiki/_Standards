@@ -1,67 +1,235 @@
 ---
 aliases:
-  - Superheld
-  - superheroine
-  - Superhero
+- Adiwira
+- archarwr
+- Chhiau-kip eng-hiông
+- Gaisgeach-mòr
+- Gamhanang bayani
+- gourharoz
+- IMbudle
+- Jagoan hébat
+- Jarumi
+- miċelhæleþ
+- pahlawan super
+- siêu anh hùng
+- super-herói
+- super-héros
+- superbatır
+- superbohater
+- supereroe
+- supereroj
+- supererou
+- Supereròi
+- Superheld
+- superhelt
+- Superhero
+- superheroe
+- Superheroi
+- superheroine
+- Superheroj
+- superherojus
+- superheroo
+- Superheros
+- superhjälte
+- Superhrdina
+- superhéroe
+- Superjunak
+- superkangelane
+- superleheng
+- superqahramon
+- supersankari
+- supersáŋgár
+- supervaronis
+- szuperhős
+- sárlaoch
+- Süper kahraman
+- υπερήρωας
+- абарқаҳрамон
+- супербатыр
+- супергерой
+- суперхерој
+- Суперқаһармандар
+- супэргерой
+- սուպերհերոս
+- גיבור-על
+- סופערהעלד
+- ابر قهرمان
+- بطل خارق
+- سووپەرھیرۆ
+- سُپَر ہیٖرو
+- سپر ہیرو
+- सुपर हीरो
+- সুপারহিরো
+- ସୁପର ହୀରୋ
+- சூப்பர்ஹீரோ
+- ซูเปอร์ฮีโร
+- スーパーヒーロー
+- 超級英雄
+- 超级英雄
+- 슈퍼히어로
 has_id_wikidata: Q188784
 uses:
-  - "[[_Standards/WikiData/WD~situation_awareness,478123]]"
-  - "[[_Standards/WikiData/WD~superpower,1047698]]"
-  - "[[_Standards/WikiData/WD~hero_name,67094518]]"
+- '[[_Standards/WikiData/WD~situation_awareness,478123]]'
+- '[[_Standards/WikiData/WD~superpower,1047698]]'
+- '[[_Standards/WikiData/WD~hero_name,67094518]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~stock_character,636497]]"
-  - "[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]"
-  - "[[_Standards/WikiData/WD~fictional_profession,17305127]]"
-fictional_or_mythical_analog_of: "[[_Standards/WikiData/WD~real_life_superhero,1143338]]"
-opposite_of: "[[_Standards/WikiData/WD~supervillain,6498903]]"
-facet_of: "[[_Standards/WikiData/WD~superhero_fiction,7643432]]"
+- '[[_Standards/WikiData/WD~stock_character,636497]]'
+- '[[_Standards/WikiData/WD~pattern_of_behavior,2515887]]'
+- '[[_Standards/WikiData/WD~fictional_profession,17305127]]'
+fictional_or_mythical_analog_of: '[[_Standards/WikiData/WD~real_life_superhero,1143338]]'
+opposite_of: '[[_Standards/WikiData/WD~supervillain,6498903]]'
+facet_of: '[[_Standards/WikiData/WD~superhero_fiction,7643432]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~superhuman,7643449]]"
-  - "[[_Standards/WikiData/WD~hero,25535646]]"
-has_list: "[[_Standards/WikiData/WD~Q11879642,11879642]]"
+- '[[_Standards/WikiData/WD~superhuman,7643449]]'
+- '[[_Standards/WikiData/WD~hero,25535646]]'
+has_list: '[[_Standards/WikiData/WD~Q11879642,11879642]]'
 properties_for_this_type:
-  - member of
-  - from narrative universe
-  - present in work
-  - superhuman feature or ability
-  - narrative role
-  - Comic Vine ID
-  - sex or gender
-  - occupation
-  - creator
-  - performer
+- member of
+- from narrative universe
+- present in work
+- superhuman feature or ability
+- narrative role
+- Comic Vine ID
+- sex or gender
+- occupation
+- creator
+- performer
 Archive_of_Our_Own_tag: Superheroes
 Commons_category: Superheroes
 female_form_of_label:
-  - Superheldin
-  - بطلة خارقة
-  - بطله خارقه
-  - супэргераіня
-  - superheroïna
-  - superhrdinka
-  - superheroino
-  - super-héroïne
-  - Superheldin
-  - superherojė
-  - superheldin
-  - superbohaterka
-  - superjunakinja
+- Superheldin
+- بطلة خارقة
+- بطله خارقه
+- супэргераіня
+- superheroïna
+- superhrdinka
+- superheroino
+- super-héroïne
+- Superheldin
+- superherojė
+- superheldin
+- superbohaterka
+- superjunakinja
 IMDb_keyword:
-  - superhero
-  - super-hero
+- superhero
+- super-hero
 hashtag: superhero
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/AmericasBestComics0701.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CaptAmerica.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gotham%20City%20Saviour%20%282430422247%29.jpg
-Unicode_character: 🦸
+- http://commons.wikimedia.org/wiki/Special:FilePath/AmericasBestComics0701.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CaptAmerica.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gotham%20City%20Saviour%20%282430422247%29.jpg
+Unicode_character: "\U0001F9B8"
 male_form_of_label:
-  - بطل خارق
-  - Superheld
-  - superherojus
-  - superjunak
+- بطل خارق
+- Superheld
+- superherojus
+- superjunak
+dv_has_:
+  name_:
+    an: Superheroi
+    ang: miċelhæleþ
+    ar: بطل خارق
+    arz: بطل خارق
+    ast: superhéroe
+    bcl: Superhero
+    be: супергерой
+    be-tarask: супэргерой
+    bew: Jagoan hébat
+    bg: Супергерой
+    bn: সুপারহিরো
+    br: gourharoz
+    bs: Superjunak
+    ca: superheroi
+    ceb: Gamhanang bayani
+    ckb: سووپەرھیرۆ
+    cs: superhrdina
+    cy: archarwr
+    da: superhelt
+    de: Superheld
+    el: υπερήρωας
+    en: superhero
+    en-ca: Superhero
+    en-gb: superhero
+    eo: superheroo
+    es: superhéroe
+    et: superkangelane
+    eu: superheroi
+    fa: ابر قهرمان
+    fi: supersankari
+    fr: super-héros
+    fy: superheld
+    ga: sárlaoch
+    gd: Gaisgeach-mòr
+    gl: superheroe
+    ha: Jarumi
+    he: גיבור-על
+    hi: सुपर हीरो
+    hr: Superheroj
+    hu: szuperhős
+    hy: սուպերհերոս
+    ia: superheroe
+    id: pahlawan super
+    it: supereroe
+    ja: スーパーヒーロー
+    jv: Adiwira
+    kk: Суперқаһармандар
+    ko: 슈퍼히어로
+    ks: سُپَر ہیٖرو
+    ku: superleheng
+    la: Superheros
+    lb: Superheld
+    lt: superherojus
+    lv: supervaronis
+    mg: Super-héros
+    mk: суперхерој
+    ms: adiwira
+    mt: supereroj
+    nan: Chhiau-kip eng-hiông
+    nb: superhelt
+    nl: superheld
+    nn: Superhelt
+    oc: Supereròi
+    or: ସୁପର ହୀରୋ
+    pl: superbohater
+    pt: super-herói
+    pt-br: super-herói
+    ro: supererou
+    ru: супергерой
+    sco: superhero
+    se: supersáŋgár
+    sh: Superheroj
+    sk: Superhrdina
+    sl: superjunak
+    smn: supersáŋgár
+    sq: Superhero
+    sr: суперхерој
+    sr-ec: Суперхерој
+    sr-el: Superheroj
+    sv: superhjälte
+    ta: சூப்பர்ஹீரோ
+    tg: абарқаҳрамон
+    tg-latn: superqahramon
+    th: ซูเปอร์ฮีโร
+    tr: Süper kahraman
+    tt: супербатыр
+    tt-cyrl: супербатыр
+    tt-latn: superbatır
+    uk: супергерой
+    ur: سپر ہیرو
+    uz: Superqahramon
+    vi: siêu anh hùng
+    wuu: 超级英雄
+    yi: סופערהעלד
+    yue: 超級英雄
+    zh: 超级英雄
+    zh-cn: 超级英雄
+    zh-hans: 超级英雄
+    zh-hant: 超級英雄
+    zh-hk: 超級英雄
+    zh-sg: 超级英雄
+    zh-tw: 超級英雄
+    zu: IMbudle
 ---
-
 # [[Superhero]] 🦸 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Superhero,188784|WD~Superhero,188784]]  

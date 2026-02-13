@@ -1,7 +1,69 @@
 ---
 aliases:
-  - Zellulose
-  - Cellulose
+- ceallalós
+- celiuliozė
+- cellulosa
+- Cellulose
+- Cellulòsa
+- cellulóz
+- celulosa
+- celulose
+- Celuloso
+- Celuloza
+- celuloze
+- celulozo
+- Celuloză
+- Celulóza
+- cel·lulosa
+- Keluloz
+- Seliloz
+- seliwlos
+- selluloosa
+- Sellulose
+- Sellulósi
+- Sellyuloza
+- Sellüloza
+- Selolôzy
+- Selulosa
+- Selulosi
+- Seluloz
+- Selulusa
+- Selüloz
+- Silulusa
+- Tselluloos
+- Tsellüloza
+- Zellulose
+- zelulosa
+- ċelluloża
+- Κυτταρίνη
+- Жасұнық
+- Целлойз
+- целлюлоза
+- Целулоза
+- целюлоза
+- цэлюлёза
+- цэлюлоза
+- Բջջանյութ
+- תאית
+- سلولز
+- سليولوز
+- سیلولوز
+- सेल्युलोज
+- सेल्यूलोज़
+- সেলুলোজ
+- ਸੈਲੂਲੋਜ਼
+- மாவியம்
+- సెల్యులోజ్
+- ಸೆಲ್ಯುಲೋಸ್
+- സെല്ലുലോസ്
+- เซลลูโลส
+- ເຊລູໂລສ
+- ဆဲလျူလို့
+- ცელულოზა
+- セルロース
+- 纖維素
+- 纤维素
+- 셀룰로스
 has_id_wikidata: Q80294
 associated_hazard: '[[_Standards/WikiData/WD~cellulose_exposure,21173544]]'
 CAS_Registry_Number: 9004-34-6
@@ -9,75 +71,165 @@ chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Cellulose
 Commons_category: Cellulose
 CosIng_number: 32480
 decomposition_point:
-  - 500
-  - 518
+- 500
+- 518
 density: 1.5
 described_at_URL: https://www.fpl.fs.fed.us/documnts/pdf2013/fpl_2013_rowell002.pdf
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Celuloza,28030048]]'
+- '[[_Standards/WikiData/WD~Celuloza,28030048]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Anselme_Payen,560917]]'
 EC_number: 232-674-9
 E_number: E460
 has_characteristic:
-  - '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+- '[[_Standards/WikiData/WD~hygroscopy,216678]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~cellulose_exposure,21173544]]'
+- '[[_Standards/WikiData/WD~cellulose_exposure,21173544]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 has_use:
-  - '[[_Standards/WikiData/WD~cellulose_fiber,189109]]'
-  - '[[_Standards/WikiData/WD~food_additive,189567]]'
-  - '[[_Standards/WikiData/WD~raw_material,192355]]'
-  - '[[_Standards/WikiData/WD~excipient,902638]]'
-  - '[[_Standards/WikiData/WD~thickener,911138]]'
-  - '[[_Standards/WikiData/WD~powder_explosive,21290872]]'
-  - '[[_Standards/WikiData/WD~fuel,42501]]'
+- '[[_Standards/WikiData/WD~cellulose_fiber,189109]]'
+- '[[_Standards/WikiData/WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~raw_material,192355]]'
+- '[[_Standards/WikiData/WD~excipient,902638]]'
+- '[[_Standards/WikiData/WD~thickener,911138]]'
+- '[[_Standards/WikiData/WD~powder_explosive,21290872]]'
+- '[[_Standards/WikiData/WD~fuel,42501]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plant%20cell%20wall%20diagram-en.svg
 instance_of:
-  - '[[_Standards/WikiData/WD~glucan,416796]]'
-  - '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
+- '[[_Standards/WikiData/WD~glucan,416796]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/TSELLYULOZA.html
 mass: 370.147512
 MeSH_tree_code:
-  - D05.750.078.562.180
-  - D09.698.365.180
-  - D25.720.099.500
-  - J01.637.051.720.099.500
+- D05.750.078.562.180
+- D09.698.365.180
+- D25.720.099.500
+- J01.637.051.720.099.500
 named_after: '[[_Standards/WikiData/WD~plant-type_cell_wall,22328096]]'
 NSC_number: 225105
 part_of:
-  - '[[_Standards/WikiData/WD~cellulose_metabolic_process,22281695]]'
-  - '[[_Standards/WikiData/WD~cellulose_catabolic_process,22281696]]'
-  - '[[_Standards/WikiData/WD~cellulose_biosynthetic_process,22282983]]'
-  - '[[_Standards/WikiData/WD~cellulose_binding,22313190]]'
+- '[[_Standards/WikiData/WD~cellulose_metabolic_process,22281695]]'
+- '[[_Standards/WikiData/WD~cellulose_catabolic_process,22281696]]'
+- '[[_Standards/WikiData/WD~cellulose_biosynthetic_process,22282983]]'
+- '[[_Standards/WikiData/WD~cellulose_binding,22313190]]'
 RTECS_number: FJ5691460
 safety_classification_and_labelling:
-  - '[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+- '[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~polysaccharide,134219]]'
-  - '[[_Standards/WikiData/WD~raw_material,192355]]'
-  - '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-  - '[[_Standards/WikiData/WD~holocellulose,12020010]]'
+- '[[_Standards/WikiData/WD~polysaccharide,134219]]'
+- '[[_Standards/WikiData/WD~raw_material,192355]]'
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+- '[[_Standards/WikiData/WD~holocellulose,12020010]]'
 time_weighted_average_exposure_limit:
-  - 10
-  - 5
-  - 15
+- 10
+- 5
+- 15
 UNII:
-  - I355QGZ19A
-  - OP1R32D61U
-  - SMD1X3XO9M
+- I355QGZ19A
+- OP1R32D61U
+- SMD1X3XO9M
 vapor_pressure: 0
 ZVG_number: 12570
+dv_has_:
+  name_:
+    af: Sellulose
+    ar: سليولوز
+    ast: Celulosa
+    az: Sellüloza
+    azb: سلولز
+    ba: Целлюлоза
+    be: цэлюлоза
+    be-tarask: цэлюлёза
+    bg: Целулоза
+    bn: সেলুলোজ
+    br: Keluloz
+    bs: Celuloza
+    ca: cel·lulosa
+    cs: celulóza
+    cy: seliwlos
+    da: cellulose
+    de: Cellulose
+    el: Κυτταρίνη
+    en: cellulose
+    eo: celulozo
+    es: celulosa
+    et: Tselluloos
+    eu: zelulosa
+    fa: سلولز
+    fi: selluloosa
+    fr: cellulose
+    ga: ceallalós
+    gl: Celulosa
+    he: תאית
+    hi: सेल्यूलोज़
+    hr: Celuloza
+    ht: Seliloz
+    hu: cellulóz
+    hy: Բջջանյութ
+    id: Selulosa
+    ie: Cellulose
+    io: Celuloso
+    is: Sellulósi
+    it: cellulosa
+    ja: セルロース
+    ka: ცელულოზა
+    kk: Жасұнық
+    kn: ಸೆಲ್ಯುಲೋಸ್
+    ko: 셀룰로스
+    ku: Seluloz
+    ky: Целлюлоза
+    lo: ເຊລູໂລສ
+    lt: celiuliozė
+    lv: celuloze
+    mg: Selolôzy
+    mk: целулоза
+    ml: സെല്ലുലോസ്
+    mn: Целлойз
+    mr: सेल्युलोज
+    ms: Selulosa
+    mt: ċelluloża
+    my: ဆဲလျူလို့
+    nb: cellulose
+    nl: cellulose
+    nn: cellulose
+    oc: Cellulòsa
+    pa: ਸੈਲੂਲੋਜ਼
+    pl: celuloza
+    pt: celulose
+    qu: Silulusa
+    ro: Celuloză
+    ru: целлюлоза
+    sh: Celuloza
+    sk: Celulóza
+    sl: celuloza
+    sq: Celuloza
+    sr: целулоза
+    su: Selulosa
+    sv: cellulosa
+    sw: Selulosi
+    ta: மாவியம்
+    te: సెల్యులోజ్
+    th: เซลลูโลส
+    tr: Selüloz
+    tt: Tsellüloza
+    uk: целюлоза
+    ur: سیلولوز
+    uz: Sellyuloza
+    vi: Cellulose
+    war: Selulusa
+    wuu: 纤维素
+    xmf: ცელულოზა
+    yue: 纖維素
+    zh: 纤维素
 ---
-
 # [[Cellulose]] 
 
 #is_/instance_of :: [[../Polysaccharide]] 

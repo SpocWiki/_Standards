@@ -1,31 +1,110 @@
 ---
 aliases:
+- bodemvorming
+- Dirvodara
+- jordmånsbildning
+- maannostuminen
+- Mullateke
+- Pedogenese
+- pedogenesi
+- pedogenesis
+- pedogeneza
+- pedogeneze
+- Pedogenezo
+- pedogènesi
+- pedogénese
+- pedogénesis
+- pedogênese
+- pedoxénese
+- Pedoxénesis
+- peidigineas
+- Pembentukan tanah
+- Postanak tla
+- proces glebotwórczy
+- pédogenèse
+- πεδογένεση
+- глебавытварэньне
+- почвообразование
+- Почвообразуване
+- ґрунтоутворення
+- تكون التربة
+- خاکزایی
+- د خاورې جوړښت
+- मृदा निर्माण
+- மண் உருவாதல்
+- 土壌生成
+- 成土作用
+- 토양생성작용
 has_id_wikidata: Q282070
-subclass_of: "[[_Standards/WikiData/WD~pedologic_process,63382959]]"
-has_effect: "[[_Standards/WikiData/WD~soil,36133]]"
+subclass_of: '[[_Standards/WikiData/WD~pedologic_process,63382959]]'
+has_effect: '[[_Standards/WikiData/WD~soil,36133]]'
 Commons_category: Soil forming factors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MollisolNebraska.JPG
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]]"
-    - "[[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]]"
-    - "[[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]]"
-    - "[[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]]"
-    - "[[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]]"
-    - "[[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]]"
-    - "[[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]]"
-    - "[[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]]"
+  - '[[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]]'
+  - '[[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]]'
+  - '[[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]]'
+  - '[[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]]'
+  - '[[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]]'
+  - '[[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]]'
+  - '[[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]]'
+  - '[[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]]"
-  - "[[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]]"
-  - "[[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]]"
-  - "[[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]]"
-  - "[[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]]"
-  - "[[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]]"
-  - "[[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]]"
-  - "[[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]]"
+- '[[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]]'
+- '[[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]]'
+- '[[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]]'
+- '[[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]]'
+- '[[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]]'
+- '[[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]]'
+- '[[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]]'
+- '[[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]]'
+dv_has_:
+  name_:
+    ar: تكون التربة
+    ast: Pedoxénesis
+    be-tarask: глебавытварэньне
+    bg: Почвообразуване
+    ca: pedogènesi
+    cs: pedogeneze
+    da: Pedogenese
+    de: Pedogenese
+    el: πεδογένεση
+    en: pedogenesis
+    en-ca: Pedogenesis
+    en-gb: Pedogenesis
+    eo: Pedogenezo
+    es: pedogénesis
+    et: Mullateke
+    eu: Pedogenesi
+    fa: خاکزایی
+    fi: maannostuminen
+    fr: pédogenèse
+    ga: peidigineas
+    gl: pedoxénese
+    hi: मृदा निर्माण
+    hr: Postanak tla
+    id: Pembentukan tanah
+    it: pedogenesi
+    ja: 土壌生成
+    ko: 토양생성작용
+    lt: Dirvodara
+    nl: bodemvorming
+    pl: proces glebotwórczy
+    ps: د خاورې جوړښت
+    pt: pedogénese
+    pt-br: pedogênese
+    ru: почвообразование
+    sl: pedogeneza
+    sr: Pedogeneza
+    sv: jordmånsbildning
+    ta: மண் உருவாதல்
+    tr: Pedogenesis
+    uk: ґрунтоутворення
+    war: Pedogenesis
+    yue: 成土作用
+    zh: 成土作用
 ---
-
 # [[Pedogenesis]]
 
 #is_/same_as :: [[../../WikiData/WD~Pedogenesis,282070|WD~Pedogenesis,282070]] 

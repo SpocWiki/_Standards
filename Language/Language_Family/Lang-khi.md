@@ -1,12 +1,83 @@
 ---
 aliases:
-  - Khoisan language
-  - Lang-khi
+- Harsunan Khoisan
+- hojsanu valodas
+- Hệ ngôn ngữ Khoisan
+- Ieithoedd Khoisan
+- języki khoisan
+- Khoisan
+- Khoisan bhasa
+- Khoisan dilleri
+- Khoisan hizkuntzak
+- Khoisan language
+- Khoisan leids
+- Khoisan spriaken
+- Khoisan-málaættin
+- Khoisan-tale
+- Khoisani keeled
+- khoisankielet
+- khoisanské jazyky
+- Khoisansprachen
+- khoisanspråk
+- Khoisantalen
+- Khoisantaole
+- Khojsanske rěče
+- Koisan-talen
+- Koisanų kalbos
+- koiszan nyelvek
+- kojsanaj lingvaroj
+- Kojsanski jezici
+- kojsanski jeziki
+- kojsanské jazyky
+- Lang-khi
+- langues khoïsan
+- Lengas khoisan
+- Lenghe khoisan
+- Lenguas joisanas
+- Lengue khoisan
+- Linguae Khoisanae
+- Linguas coisan
+- linguas khoisas
+- lingue khoisan
+- llengües khoisànides
+- Llingües de la familia khoisan
+- Lugha za Khoisan
+- Línguas khoisan
+- teangacha Cadhsanacha
+- Vondrom-piteny koisàna
+- yezhoù koiek-sanek
+- łéngue joisane
+- Бушмен тилдери
+- кайсанскія мовы
+- којсански јазици
+- којсански језици
+- койсан телләре
+- Койсански езици
+- койсанские языки
+- Койсанські мови
+- שפות קויסאן
+- خواسان زبانیں
+- خویسان دیللری
+- خوېساني ژبې
+- زبانهای خویسان
+- لغات خويسان
+- खोइसन भाषाएं
+- खोईसान भाषाएँ
+- খোইসীয় ভাষাসমূহ
+- கோய்சான் மொழிகள்
+- ಖೋಯ್ಸಾನ್ ಭಾಷೆಗಳು
+- ตระกูลภาษาคอยซัน
+- კოისანური ენები
+- ᱠᱷᱳᱭᱥᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ
+- コイサン語族
+- 科伊桑語系
+- 科伊桑语系
+- 코이산어족
 has_id_wikidata: Q33614
 topic_has_template: '[[_Standards/WikiData/WD~Q10596037,10596037]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of: '[[_Standards/WikiData/WD~human_language,20162172]]'
 instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 number_of_speakers_writers_or_signers: 370000
@@ -19,8 +90,88 @@ exact_match: http://publications.europa.eu/resource/authority/language/KHI
 Commons_category: Khoisan languages
 GOST_7_75_97_code: кой 317
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Khoi-San.png
+dv_has_:
+  name_:
+    af: Khoisan-tale
+    anp: खोइसन भाषाएं
+    ar: لغات خويسان
+    ast: Llingües de la familia khoisan
+    azb: خویسان دیللری
+    be-tarask: кайсанскія мовы
+    bg: Койсански езици
+    bn: খোইসীয় ভাষাসমূহ
+    br: yezhoù koiek-sanek
+    ca: llengües khoisànides
+    cs: kojsanské jazyky
+    cy: Ieithoedd Khoisan
+    de: Khoisansprachen
+    en: Khoisan
+    eo: kojsanaj lingvaroj
+    es: Lenguas joisanas
+    et: Khoisani keeled
+    eu: Khoisan hizkuntzak
+    fa: زبانهای خویسان
+    fi: khoisankielet
+    fr: langues khoïsan
+    frr: Khoisan spriaken
+    fy: Koisan-talen
+    ga: teangacha Cadhsanacha
+    gl: linguas khoisas
+    ha: Harsunan Khoisan
+    he: שפות קויסאן
+    hi: खोईसान भाषाएँ
+    hif: Khoisan bhasa
+    hr: Kojsanski jezici
+    hsb: Khojsanske rěče
+    hu: koiszan nyelvek
+    ig: Khoisan
+    is: Khoisan-málaættin
+    it: lingue khoisan
+    ja: コイサン語族
+    ka: კოისანური ენები
+    kn: ಖೋಯ್ಸಾನ್ ಭಾಷೆಗಳು
+    ko: 코이산어족
+    ky: Бушмен тилдери
+    la: Linguae Khoisanae
+    lfn: Linguas coisan
+    li: Khoisantaole
+    lij: Lengue khoisan
+    lt: Koisanų kalbos
+    lv: hojsanu valodas
+    mg: Vondrom-piteny koisàna
+    mk: којсански јазици
+    nb: khoisanspråk
+    nl: Khoisantalen
+    nn: khoisanspråk
+    oc: Lengas khoisan
+    pl: języki khoisan
+    pms: Lenghe khoisan
+    ps: خوېساني ژبې
+    pt: Línguas khoisan
+    ru: койсанские языки
+    sat: ᱠᱷᱳᱭᱥᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ
+    sco: Khoisan leids
+    sk: khoisanské jazyky
+    sl: kojsanski jeziki
+    sr: којсански језици
+    sr-ec: којсански језици
+    sr-el: kojsanski jezici
+    sv: Khoisanspråk
+    sw: Lugha za Khoisan
+    ta: கோய்சான் மொழிகள்
+    th: ตระกูลภาษาคอยซัน
+    tr: Khoisan dilleri
+    tt: койсан телләре
+    uk: Койсанські мови
+    ur: خواسان زبانیں
+    vec: łéngue joisane
+    vi: Hệ ngôn ngữ Khoisan
+    wuu: 科伊桑语系
+    yue: 科伊桑語系
+    zh: 科伊桑语系
+    zh-cn: 科伊桑语系
+    zh-hans: 科伊桑语系
 ---
-
 # [[Lang-khi]] 
 
 #is_/same_as :: [[WD~Khoisan,33614]] 

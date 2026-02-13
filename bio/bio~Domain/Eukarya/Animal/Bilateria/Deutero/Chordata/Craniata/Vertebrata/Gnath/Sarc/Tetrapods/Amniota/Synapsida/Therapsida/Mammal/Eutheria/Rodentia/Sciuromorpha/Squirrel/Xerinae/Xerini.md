@@ -1,9 +1,71 @@
 ---
 aliases:
-  - Xerini
+- afrowiórki
+- Asspalvainās zemes vāveres
+- Borstenhörnchen
+- Esquirol terrestre
+- Hazéítʼą́ʼí
+- Kuchakulo
+- Stikeliikhoarntsjes
+- Xerini
+- סנאי קרקע אפריקנים
+- خشکیسنجابها
+- زيرينى
+- アラゲジリス族
+- 非洲地松鼠族
+- 땅다람쥐족
 title: Xerini
+has_id_wikidata: Q894233
+dv_has_:
+  name_:
+    an: Xerini
+    arz: زيرينى
+    ast: Xerini
+    bg: Xerini
+    ca: Esquirol terrestre
+    ceb: Xerini
+    de: Borstenhörnchen
+    en: Xerini
+    eo: Xerini
+    es: Xerini
+    eu: Xerini
+    ext: Xerini
+    fa: خشکیسنجابها
+    fi: Xerini
+    fr: Xerini
+    fy: Stikeliikhoarntsjes
+    ga: Xerini
+    gl: Xerini
+    he: סנאי קרקע אפריקנים
+    hu: Xerini
+    ia: Xerini
+    ie: Xerini
+    io: Xerini
+    it: Xerini
+    ja: アラゲジリス族
+    ko: 땅다람쥐족
+    la: Xerini
+    lv: Asspalvainās zemes vāveres
+    mul: Xerini
+    nl: Xerini
+    nv: Hazéítʼą́ʼí
+    oc: Xerini
+    pl: afrowiórki
+    pt: Xerini
+    pt-br: Xerini
+    ro: Xerini
+    ru: Xerini
+    sq: Xerini
+    sw: Kuchakulo
+    uk: Xerini
+    vi: Xerini
+    vo: Xerini
+    war: Xerini
+    zh: 非洲地松鼠族
+    zh-cn: 非洲地松鼠族
+    zh-hans: 非洲地松鼠族
+    zh-tw: 非洲地松鼠族
 ---
-
 # [[Xerini]]
 
 ## African ground squirrels 

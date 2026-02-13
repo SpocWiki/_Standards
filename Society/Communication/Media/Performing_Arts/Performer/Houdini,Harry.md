@@ -1,34 +1,64 @@
 ---
 aliases:
-  - Harry_Houdini
-  - Erik Weisz
-  - Harry Houdini
-  - Houdini
-  - Houdini,Harry
+- Erik Weisz
+- Hari Hudini
+- Harijs Hudini
+- Harri Hudini
+- Harry Houdini
+- Harry_Houdini
+- Henricus Houdini
+- Houdini
+- Houdini,Harry
+- Χάρρυ Χουντίνι
+- Гаррі Гудіні
+- Гарри Гудини
+- Гары Гудзіні
+- Гары Гудыні
+- Гудини Гарри
+- Хари Худини
+- Харри Худини
+- Հարրի Հուդինի
+- הארי הודיני
+- هارى هودينى
+- هاري هوديني
+- هری هودینی
+- ھاری ھودینی
+- हॅरी हुडीनी
+- হেৰী হোডিনি
+- হ্যারি হুডিনি
+- ஆரி உடீனி
+- ಹ್ಯಾರಿ ಹೌದಿನಿ
+- ഹാരി ഹൗഡിനി
+- แฮร์รี ฮูดินี
+- ჰარი ჰუდინი
+- ハリー・フーディーニ
+- 哈利·胡迪尼
+- 哈利胡迪尼
+- 해리 후디니
 has_id_wikidata: Q131545
 cause_of_death:
-  - '[[_Standards/WikiData/WD~appendicitis,121041]]'
-  - '[[_Standards/WikiData/WD~peritonitis,223102]]'
+- '[[_Standards/WikiData/WD~appendicitis,121041]]'
+- '[[_Standards/WikiData/WD~peritonitis,223102]]'
 family_name: '[[_Standards/WikiData/WD~Weiss,145210]]'
 occupation:
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~stunt_performer,465501]]'
-  - '[[_Standards/WikiData/WD~performing_artist,713200]]'
-  - '[[_Standards/WikiData/WD~illusionist,1658894]]'
-  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~magician,15855449]]'
-  - '[[_Standards/WikiData/WD~escape_artist,107986049]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~stunt_performer,465501]]'
+- '[[_Standards/WikiData/WD~performing_artist,713200]]'
+- '[[_Standards/WikiData/WD~illusionist,1658894]]'
+- '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~magician,15855449]]'
+- '[[_Standards/WikiData/WD~escape_artist,107986049]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Harry,668885]]'
-  - '[[_Standards/WikiData/WD~Erik,750186]]'
+- '[[_Standards/WikiData/WD~Harry,668885]]'
+- '[[_Standards/WikiData/WD~Erik,750186]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~escapology,2293082]]'
-  - '[[_Standards/WikiData/WD~magician,15855449]]'
+- '[[_Standards/WikiData/WD~escapology,2293082]]'
+- '[[_Standards/WikiData/WD~magician,15855449]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 spouse: '[[_Standards/WikiData/WD~Bess_Houdini,4896361]]'
 archives_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
@@ -52,8 +82,8 @@ ethnic_group: '[[_Standards/WikiData/WD~Jewish_people,7325]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 place_of_death: '[[_Standards/WikiData/WD~Detroit,12439]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Austria_Hungary,28513]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_gallery: Harry Houdini
 Commons_category: Harry Houdini
@@ -71,8 +101,107 @@ name_in_native_language: Harry Houdini
 birth_name: Erik Weisz
 date_of_death: 1926-10-31T00:00:00Z
 work_period_end_: 1926-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Harry Houdini
+    an: Harry Houdini
+    ar: هاري هوديني
+    arz: هارى هودينى
+    as: হেৰী হোডিনি
+    ast: Harry Houdini
+    az: Harri Hudini
+    ba: Гарри Гудини
+    be: Гары Гудзіні
+    be-tarask: Гары Гудыні
+    bg: Хари Худини
+    bn: হ্যারি হুডিনি
+    bs: Harry Houdini
+    ca: Harry Houdini
+    ckb: ھاری ھودینی
+    cs: Harry Houdini
+    cy: Harry Houdini
+    da: Harry Houdini
+    de: Harry Houdini
+    ee: Harry Houdini
+    el: Χάρρυ Χουντίνι
+    en: Harry Houdini
+    eo: Harry Houdini
+    es: Harry Houdini
+    et: Harry Houdini
+    eu: Harry Houdini
+    fa: هری هودینی
+    fi: Harry Houdini
+    fr: Harry Houdini
+    fy: Harry Houdini
+    ga: Harry Houdini
+    gl: Harry Houdini
+    he: הארי הודיני
+    hi: हॅरी हुडीनी
+    hif: Harry Houdini
+    hr: Harry Houdini
+    hu: Harry Houdini
+    hy: Հարրի Հուդինի
+    id: Harry Houdini
+    is: Harry Houdini
+    it: Harry Houdini
+    ja: ハリー・フーディーニ
+    ka: ჰარი ჰუდინი
+    kk: Гарри Гудини
+    kn: ಹ್ಯಾರಿ ಹೌದಿನಿ
+    ko: 해리 후디니
+    la: Henricus Houdini
+    lb: Harry Houdini
+    li: Harry Houdini
+    lt: Harry Houdini
+    lv: Harijs Hudini
+    mg: Harry Houdini
+    mk: Хари Худини
+    ml: ഹാരി ഹൗഡിനി
+    mn: Харри Худини
+    ms: Harry Houdini
+    mul: Harry Houdini
+    nb: Harry Houdini
+    nl: Harry Houdini
+    nn: Harry Houdini
+    oc: Harry Houdini
+    pam: Harry Houdini
+    pap: Harry Houdini
+    pl: Harry Houdini
+    pt: Harry Houdini
+    pt-br: Harry Houdini
+    ro: Harry Houdini
+    ru: Гарри Гудини
+    sah: Гудини Гарри
+    sco: Harry Houdini
+    se: Harry Houdini
+    sh: Harry Houdini
+    sk: Harry Houdini
+    sl: Harry Houdini
+    sq: Harry Houdini
+    sr: Хари Худини
+    sr-ec: Хари Худини
+    sr-el: Hari Hudini
+    sv: Harry Houdini
+    sw: Harry Houdini
+    szl: Harry Houdini
+    ta: ஆரி உடீனி
+    th: แฮร์รี ฮูดินี
+    tr: Harry Houdini
+    uk: Гаррі Гудіні
+    uz: Harry Houdini
+    vi: Harry Houdini
+    war: Harry Houdini
+    wuu: 哈利·胡迪尼
+    yo: Harry Houdini
+    yue: 哈利胡迪尼
+    zh: 哈利·胡迪尼
+    zh-cn: 哈利·胡迪尼
+    zh-hans: 哈利·胡迪尼
+    zh-hant: 哈利·胡迪尼
+    zh-hk: 哈利·胡迪尼
+    zh-sg: 哈利·胡迪尼
+    zh-tw: 哈利·胡迪尼
 ---
-
 # [[Houdini,Harry]] 
 
 #is_/same_as :: [[WikiData/WD~Harry_Houdini,131545|WD~Harry_Houdini,131545]] 

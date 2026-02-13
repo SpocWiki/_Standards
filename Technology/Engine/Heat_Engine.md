@@ -1,25 +1,181 @@
 ---
 aliases:
-  - Heat Engine
-  - Heat_Engine
+- Enjin haba
+- Heat Engine
+- heat ingine
+- Heat_Engine
+- Hitte-enjin
+- hőerőgép
+- inneall teasa
+- Issiqlik dvigateli
+- Jılwlıq qozğaltqış
+- Kaloro mashino
+- lämpövoimakone
+- macchina termica
+- Machinatio Calor
+- machine thermique
+- Mesin kalor
+- motor gwres
+- Motor termic
+- motor termiko
+- motor térmico
+- Motor térmicu
+- màquina tèrmica
+- máquina térmica
+- silnik cieplny
+- siltumdzinējs
+- soojusmasin
+- Soğutma çevrimi
+- tepelný stroj
+- Termika motoro
+- toplinski stroj
+- toplotni motor
+- Toplotni stroj
+- varmekraftmaskin
+- varmekraftmaskine
+- värmemaskin
+- warmtemachine
+- Wärmekraftmaschine
+- Động cơ nhiệt
+- İstilik mühərriki
+- šiluminis variklis
+- θερμική μηχανή
+- Дулааны хөдөлгүүр
+- Жылулық қозғалтқыш
+- Жылуулук кыймылдаткычы
+- тепловий двигун
+- тепловой двигатель
+- Топлинен двигател
+- топлински мотор
+- топлотни мотор
+- цеплавы рухавік
+- Ջերմային շարժիչներ
+- מנוע חום
+- بزوێنەری گەرمی
+- جىلۋلىق قوزعالتقىش
+- حرارتي انجن
+- حرارتی انجن
+- ماشین گرمایی
+- محرك حراري
+- ऊष्मा इंजन
+- ताप इन्जिन
+- তাপ ইঞ্জিন
+- வெப்ப எந்திரம்
+- ఉష్ణ యంత్రం
+- ಉಷ್ಣ ಇಂಜಿನ್
+- තාප එන්ජින්
+- เครื่องจักรความร้อน
+- အပူ အင်ဂျင်စက်
+- 热机
+- 熱引擎
+- 熱機
+- 熱機関
+- 열기관
 has_id_wikidata: Q178185
 product_or_material_produced: '[[_Standards/WikiData/WD~mechanical_energy,184550]]'
 made_from_material: '[[_Standards/WikiData/WD~thermal_energy,209233]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~thermodynamic_system,503327]]'
-  - '[[_Standards/WikiData/WD~power_engine,18762500]]'
-  - '[[_Standards/WikiData/WD~engine,44167]]'
+- '[[_Standards/WikiData/WD~thermodynamic_system,503327]]'
+- '[[_Standards/WikiData/WD~power_engine,18762500]]'
+- '[[_Standards/WikiData/WD~engine,44167]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Heat_engines,8084301]]'
 has_goal: '[[_Standards/WikiData/WD~energy_transformation,11271324]]'
 studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Energiebilanz%20Motor.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Heat%20engine.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Energiebilanz%20Motor.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Heat%20engine.png
 Wolfram_Language_entity_code: Entity["Concept", "HeatEngine::d5c8k"]
 Commons_category: Heat engines
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/DVIGATEL_TEPLOVO.html
+dv_has_:
+  name_:
+    af: Hitte-enjin
+    ar: محرك حراري
+    ast: Motor térmicu
+    az: İstilik mühərriki
+    be: цеплавы рухавік
+    be-tarask: цеплавы рухавік
+    bg: Топлинен двигател
+    bn: তাপ ইঞ্জিন
+    ca: màquina tèrmica
+    ckb: بزوێنەری گەرمی
+    cs: tepelný stroj
+    cy: motor gwres
+    da: varmekraftmaskine
+    de: Wärmekraftmaschine
+    el: θερμική μηχανή
+    en: heat engine
+    eo: Termika motoro
+    es: motor térmico
+    et: soojusmasin
+    eu: motor termiko
+    fa: ماشین گرمایی
+    fi: lämpövoimakone
+    fr: machine thermique
+    ga: inneall teasa
+    gl: máquina térmica
+    he: מנוע חום
+    hi: ऊष्मा इंजन
+    hr: toplinski stroj
+    hu: hőerőgép
+    hy: Ջերմային շարժիչներ
+    id: Mesin kalor
+    io: Kaloro mashino
+    it: macchina termica
+    ja: 熱機関
+    kk: Жылулық қозғалтқыш
+    kk-arab: جىلۋلىق قوزعالتقىش
+    kk-cn: جىلۋلىق قوزعالتقىش
+    kk-cyrl: Жылулық қозғалтқыш
+    kk-kz: Жылулық қозғалтқыш
+    kk-latn: Jılwlıq qozğaltqış
+    kk-tr: Jılwlıq qozğaltqış
+    kn: ಉಷ್ಣ ಇಂಜಿನ್
+    ko: 열기관
+    ky: Жылуулук кыймылдаткычы
+    la: Machinatio Calor
+    lt: šiluminis variklis
+    lv: siltumdzinējs
+    mk: топлински мотор
+    mn: Дулааны хөдөлгүүр
+    ms: Enjin haba
+    my: အပူ အင်ဂျင်စက်
+    nb: varmekraftmaskin
+    ne: ताप इन्जिन
+    nl: warmtemachine
+    nn: varmekraftmaskin
+    pl: silnik cieplny
+    pt: máquina térmica
+    ro: Motor termic
+    ru: тепловой двигатель
+    sco: heat ingine
+    sd: حرارتي انجن
+    sh: Toplotni stroj
+    si: තාප එන්ජින්
+    sk: Tepelný stroj
+    sl: toplotni stroj
+    sr: топлотни мотор
+    sr-ec: топлотни мотор
+    sr-el: toplotni motor
+    sv: värmemaskin
+    ta: வெப்ப எந்திரம்
+    te: ఉష్ణ యంత్రం
+    th: เครื่องจักรความร้อน
+    tr: Soğutma çevrimi
+    uk: тепловий двигун
+    ur: حرارتی انجن
+    uz: Issiqlik dvigateli
+    vi: Động cơ nhiệt
+    wuu: 热机
+    yue: 熱引擎
+    zh: 热机
+    zh-cn: 热机
+    zh-hans: 热机
+    zh-hant: 熱機
+    zh-hk: 熱機
+    zh-sg: 热机
+    zh-tw: 熱機
 ---
-
 # [[Heat_Engine]] 
 
 #is_/same_as :: [[../../WikiData/WD~Heat_engine,178185|WD~Heat_engine,178185]] 

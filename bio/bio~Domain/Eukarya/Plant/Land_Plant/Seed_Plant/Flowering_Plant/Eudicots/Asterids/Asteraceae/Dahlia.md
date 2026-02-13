@@ -1,41 +1,92 @@
 ---
 aliases:
-  - Dahlie
-  - Dahlia
-  - dahlia
-  - דליה
-  - Dahlien
-  - Георгина
-  - Ντάλια
-  - Далия
-  - dalia
-  - Daaliat
-  - डहेलिया
-  - ဒေလီယာ
-  - dalija
-  - georgina
-  - Dahliasläktet
-  - Yıldız çiçeği
-  - 大丽花属
-  - 大丽菊
+- Acocohxōchitl
+- Chi Cúc Thược dược
+- Daalia
+- Daaliat
+- Dahlia
+- Dahliasläktet
+- Dahlie
+- Dahlien
+- Dalhiå
+- dalia
+- dalija
+- Dalio
+- Dalya
+- Dàlia
+- dáilia
+- dália
+- dālijas
+- georgina
+- Georgine
+- Georgineslekta
+- georgína
+- Giurgìna
+- jiřina
+- Jorgėns
+- Jurginas
+- Kembang dahlia
+- Rejina
+- Soğangülü
+- Syvyshehku
+- Tusak Dahlia
+- Yıldız çiçeği
+- Ντάλια
+- вяргіня
+- Георгина
+- Далија
+- Далия
+- Дәлия
+- жоржина
+- Картофгæрдæг
+- Нарғызгүл
+- юргіня
+- Գեորգենի
+- Տալիա (Ծաղիկ)
+- דליה
+- أضالية
+- اضاليه
+- ڈہلیا
+- ڊھليا
+- گل کوکب
+- डहेलिया
+- डेलिया
+- लाहुरे फुल
+- लाहुरे फूल
+- ডালিয়া
+- ਡੇਲੀਆ
+- ଡାହାଲିଆ
+- దాలియా
+- ಡೇಲಿಯ
+- ഡാലിയ
+- รักเร่
+- ဒေလီယာ
+- မွၵ်ႇသွၼ်ႉ
+- გეორგინა
+- ダリア
+- 大丽花属
+- 大丽菊
+- 大麗花
+- 大麗花屬
+- 다알리아속
 has_id_wikidata: Q130918
 named_after: '[[_Standards/WikiData/WD~Anders_Dahl,496775]]'
 described_by_source:
-  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 subclass_of: '[[_Standards/WikiData/WD~flowering_plant,886167]]'
 parent_taxon: '[[_Standards/WikiData/WD~Coreopsidinae,3693495]]'
 homonymous_taxon: '[[_Standards/WikiData/WD~Dahlia,5208900]]'
 has_list:
-  - '[[_Standards/WikiData/WD~list_of_dahlia_diseases,6615447]]'
-  - '[[_Standards/WikiData/WD~list_of_dahlia_species,6615451]]'
-  - '[[_Standards/WikiData/WD~list_of_Award_of_Garden_Merit_dahlias,17097372]]'
-  - '[[_Standards/WikiData/WD~list_of_Dahlia_cultivars,18388808]]'
+- '[[_Standards/WikiData/WD~list_of_dahlia_diseases,6615447]]'
+- '[[_Standards/WikiData/WD~list_of_dahlia_species,6615451]]'
+- '[[_Standards/WikiData/WD~list_of_Award_of_Garden_Merit_dahlias,17097372]]'
+- '[[_Standards/WikiData/WD~list_of_Dahlia_cultivars,18388808]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~dahlia,84267512]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
@@ -45,31 +96,148 @@ Commons_category: Dahlia
 taxon_name: Dahlia
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DahliaDahlstarSunsetPink.jpg
 taxon_common_name:
-  - dahlia
-  - דליה
-  - Dahlien
-  - Георгина
-  - Ντάλια
-  - Далия
-  - dalia
-  - Daaliat
-  - डहेलिया
-  - ဒေလီယာ
-  - dalija
-  - georgina
-  - Dahliasläktet
-  - Yıldız çiçeği
-  - 大丽花属
-  - 大丽菊
-  - 大丽花属
+- dahlia
+- דליה
+- Dahlien
+- Георгина
+- Ντάλια
+- Далия
+- dalia
+- Daaliat
+- डहेलिया
+- ဒေလီယာ
+- dalija
+- georgina
+- Dahliasläktet
+- Yıldız çiçeği
+- 大丽花属
+- 大丽菊
+- 大丽花属
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=3362
 EPPO_Code: 1DAHG
 MeSH_tree_code: B01.875.800.575.912.250.100.289
 UMLS_CUI: C0446263
 subreddit: dahlias
 NBN_System_Key: NHMSYS0000457985
+dv_has_:
+  name_:
+    af: Dahlia
+    an: Dahlia
+    ar: أضالية
+    arz: اضاليه
+    ast: Dahlia
+    az: Soğangülü
+    be: вяргіня
+    be-tarask: юргіня
+    bg: далия
+    bn: ডালিয়া
+    bs: Dalija
+    ca: Dàlia
+    ceb: Dahlia
+    cs: jiřina
+    csb: Rejina
+    cy: Dahlia
+    da: dahlia
+    de: Dahlien
+    dtp: Tusak Dahlia
+    el: Ντάλια
+    eml: Giurgìna
+    en: Dahlia
+    en-ca: Dahlia
+    en-gb: Dahlia
+    eo: Dalio
+    es: Dahlia
+    et: Daalia
+    eu: Dalia
+    ext: Dahlia
+    fa: گل کوکب
+    fi: daaliat
+    fr: Dahlia
+    frr: Dahlien
+    ga: dáilia
+    gl: Dalia
+    he: דליה
+    hi: डहेलिया
+    hr: Dalija
+    hu: dália
+    hy: Գեորգենի
+    hyw: Տալիա (Ծաղիկ)
+    ia: Dahlia
+    id: Dahlia
+    ie: Dahlia
+    io: Dalio
+    it: Dahlia
+    ja: ダリア
+    jv: Kembang dahlia
+    ka: გეორგინა
+    kk: Нарғызгүл
+    kn: ಡೇಲಿಯ
+    ko: 다알리아속
+    koi: Георгина
+    kv: Георгина
+    ky: Георгина
+    la: Dahlia
+    lb: Dahlia
+    lt: Jurginas
+    lv: dālijas
+    mai: लाहुरे फुल
+    mhr: Георгина
+    mk: Далија
+    ml: ഡാലിയ
+    mr: डेलिया
+    mrj: Георгина
+    ms: Dahlia
+    mul: Dahlia
+    my: ဒေလီယာ
+    nah: Acocohxōchitl
+    nb: Georgineslekta
+    ne: लाहुरे फूल
+    nl: dahlia
+    nn: Georgine
+    oc: Dahlia
+    olo: Syvyshehku
+    or: ଡାହାଲିଆ
+    os: Картофгæрдæг
+    pa: ਡੇਲੀਆ
+    pcd: Dalhiå
+    pl: Dalia
+    pnb: ڈہلیا
+    pt: Dahlia
+    pt-br: Dahlia
+    ro: Dahlia
+    ru: Георгина
+    sco: Dahlia
+    sd: ڊھليا
+    sgs: Jorgėns
+    sh: Dalija
+    shn: မွၵ်ႇသွၼ်ႉ
+    sk: georgína
+    sl: georgina
+    sq: Dahlia
+    sr: Далија
+    su: Dahlia
+    sv: Dahliasläktet
+    te: దాలియా
+    th: รักเร่
+    tl: Dalya
+    tr: Yıldız çiçeği
+    tt: Дәлия
+    udm: Георгина
+    uk: жоржина
+    ur: ڈہلیا
+    vi: Chi Cúc Thược dược
+    vo: Dahlia
+    war: Dahlia
+    wuu: 大丽菊
+    yue: 大麗花
+    zh: 大丽花属
+    zh-cn: 大丽花属
+    zh-hans: 大丽花属
+    zh-hant: 大麗花屬
+    zh-hk: 大麗花屬
+    zh-sg: 大丽花属
+    zh-tw: 大麗花屬
 ---
-
 # [[Dahlia]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Dahlia,130918|WD~Dahlia,130918]] 

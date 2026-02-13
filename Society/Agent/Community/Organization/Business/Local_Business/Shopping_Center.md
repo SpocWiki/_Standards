@@ -1,52 +1,225 @@
 ---
 aliases:
-  - shopping-center
-  - shopping_center
-  - ShoppingCenter
-  - is_a_shopping_center
-  - Shopping_Center
-  - Shopping Center
+- alışveriş merkezi
+- butikscenter
+- canolfan siopa
+- centre comercial
+- centre commercial
+- centro comercial
+- centro commerciale
+- centru comercial
+- centru cummirciali
+- centrum handlowe
+- commercial center
+- disenjo di shoping moll
+- Einkaufszentrum
+- Emporium
+- gávpeguovddáš
+- iepirkšanās centrs
+- is_a_shopping_center
+- kaubanduskeskus
+- kjøpesenter
+- kävppikuávdáš
+- köpcentrum
+- merkataritza-gune
+- nakupovalno središče
+- nakupowanski centrum
+- nákupné stredisko
+- obchodní centrum
+- ostoskeskus
+- pláza
+- prekybos centras
+- prodajni centar
+- pusat beli-belah
+- pusat perbelanjaan
+- Qendra tregtare
+- Qhatuy suntur
+- rāihe whare hokohoko
+- sawda orayı
+- sentro comerciałe
+- Shopping Center
+- shopping centre
+- shopping-center
+- ShoppingCenter
+- shopping_center
+- siopalann
+- Sølumiðstøð
+- ticarət mərkəzi
+- trung tâm thương mại
+- tržni centar
+- vendejaro
+- Verslunarmiðstöð
+- vuäʹsttemkõõskõs
+- Wajen siyayya
+- winkelcentrum
+- winkelsentrum
+- Winkelsintrum
+- εμπορικό κέντρο
+- гандлёвы цэнтар
+- гандлёвы цэнтр
+- сауда орталығы
+- Суту-илӳ комплексĕ
+- торговий центр
+- торговый центр
+- трговски центар
+- тржни центар
+- търговски център
+- առևտրի կենտրոն
+- מרכז קניות
+- שאפינג מאלל
+- آلیش وئریش مرکزی
+- شاپنگ مال
+- مركز تسوق
+- مرکز خرید
+- शॉपिंग मॉल
+- বিপণি কেন্দ্র
+- பேரங்காடி
+- షాపింగ్ మాల్
+- ศูนย์การค้า
+- ᏧᏔᎾ ᏚᎾᏓᎾᏅ
+- ショッピングセンター
+- 商场
+- 商場
+- 쇼핑센터
 has_id_wikidata: Q11315
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - shopping_center
+- shopping_center
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_shopping_center Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_shopping_center Class
 type: Type
 subclass_of:
-  - '[[_Standards/WikiData/WD~retail_building,18760388]]'
-  - '[[_Standards/WikiData/WD~retail_environment,39659371]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~retail_building,18760388]]'
+- '[[_Standards/WikiData/WD~retail_environment,39659371]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 different_from: '[[_Standards/WikiData/WD~shopping_mall,31374404]]'
 instance_of: '[[_Standards/WikiData/WD~ethnological_term,129133491]]'
 Nomenclature_for_Museum_Cataloging:
-  - 619
-  - 620
+- 619
+- 620
 IAB_code: 154
 OmegaWiki_Defined_Meaning: 3410
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tiran%C3%AB%2C%20Albania%20January%202023%20-%20Toptani%20Qendra%20tregtare%20shopping%20center%20Christmas%20tree.jpg
 described_at_URL: https://github.com/whosonfirst/whosonfirst-placetypes#arcade
 equivalent_class: https://schema.org/ShoppingCenter
 UNSPSC_Code:
-  - 30221001
-  - 30221005
+- 30221001
+- 30221005
 Commons_category: Shopping malls
 OpenStreetMap_tag: shop=mall
+dv_has_:
+  name_:
+    af: winkelsentrum
+    an: Centro comercial
+    ar: مركز تسوق
+    ast: centru comercial
+    az: ticarət mərkəzi
+    azb: آلیش وئریش مرکزی
+    be: гандлёвы цэнтр
+    be-tarask: гандлёвы цэнтар
+    bg: търговски център
+    bn: বিপণি কেন্দ্র
+    ca: centre comercial
+    chr: ᏧᏔᎾ ᏚᎾᏓᎾᏅ
+    cs: obchodní centrum
+    cv: Суту-илӳ комплексĕ
+    cy: canolfan siopa
+    da: butikscenter
+    de: Einkaufszentrum
+    de-ch: Einkaufszentrum
+    el: εμπορικό κέντρο
+    en: shopping center
+    en-ca: shopping centre
+    en-gb: shopping centre
+    en-us: shopping center
+    eo: vendejaro
+    es: centro comercial
+    et: kaubanduskeskus
+    eu: merkataritza-gune
+    fa: مرکز خرید
+    fi: ostoskeskus
+    fo: Sølumiðstøð
+    fr: centre commercial
+    fy: Winkelsintrum
+    ga: siopalann
+    gl: centro comercial
+    ha: Wajen siyayya
+    he: מרכז קניות
+    hi: शॉपिंग मॉल
+    hr: prodajni centar
+    hsb: nakupowanski centrum
+    hu: pláza
+    hy: առևտրի կենտրոն
+    id: pusat perbelanjaan
+    is: Verslunarmiðstöð
+    it: centro commerciale
+    ja: ショッピングセンター
+    kaa: sawda orayı
+    kk: сауда орталығы
+    ko: 쇼핑센터
+    la: Emporium
+    lt: prekybos centras
+    lv: iepirkšanās centrs
+    mi: rāihe whare hokohoko
+    mk: трговски центар
+    ms: pusat beli-belah
+    nb: kjøpesenter
+    nl: winkelcentrum
+    nn: kjøpesenter
+    pap: disenjo di shoping moll
+    pl: centrum handlowe
+    pt: centro comercial
+    pt-br: centro comercial
+    qu: Qhatuy suntur
+    ro: centru comercial
+    ru: торговый центр
+    scn: centru cummirciali
+    sco: commercial center
+    se: gávpeguovddáš
+    sh: prodajni centar
+    sk: nákupné stredisko
+    sl: nakupovalno središče
+    smn: kävppikuávdáš
+    sms: vuäʹsttemkõõskõs
+    sq: Qendra tregtare
+    sr: тржни центар
+    sr-ec: тржни центар
+    sr-el: tržni centar
+    sv: köpcentrum
+    ta: பேரங்காடி
+    te: షాపింగ్ మాల్
+    th: ศูนย์การค้า
+    tr: alışveriş merkezi
+    uk: торговий центр
+    ur: شاپنگ مال
+    vec: sentro comerciałe
+    vi: trung tâm thương mại
+    wuu: 商场
+    yi: שאפינג מאלל
+    yue: 商場
+    zh: 商場
+    zh-cn: 商场
+    zh-hans: 商场
+    zh-hant: 商場
+    zh-hk: 商場
+    zh-mo: 商場
+    zh-my: 商场
+    zh-sg: 商场
+    zh-tw: 商場
 ---
-
 # [[Shopping_Center]] 
 
 Class of all shopping_centers.

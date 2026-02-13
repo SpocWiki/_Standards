@@ -1,12 +1,204 @@
 ---
 aliases:
-  - Ixodida
-  - Tick
-  - Zecke
-  - Ticks
+- Acak
+- Akain
+- Amaku
+- Aselluf
+- Blóðmaurar
+- Boschet
+- bosluis
+- caparra
+- Caplak
+- Carracha
+- Chikwekwe
+- Erkė
+- erkės
+- flått
+- fästingar
+- Ganību ērces
+- Garapata
+- Gartan
+- Gənə
+- Iksodo
+- Ixode
+- Ixodida
+- Jamak'u
+- Jatevu
+- Kene
+- Kerzık
+- Kleszcze
+- Kliešťovité
+- klopi
+- Klészcz
+- klíšťatovci
+- Kongona
+- Krpelj
+- Krpelji
+- kullancsok
+- Paparra
+- Puugid
+- puutiaiset
+- Qijnîk
+- Rriqrat
+- sceartán
+- Sengkenit
+- Shillin
+- Tarlask
+- Tegen
+- Teken
+- Tick
+- Ticks
+- Tik
+- tique
+- torogen
+- Trogen
+- Uruguha
+- Ve
+- Zecke
+- Zecken
+- Zeko
+- Zicca
+- Śéca
+- Τσιμπούρι
+- Крпељ
+- кърлежи
+- СуцӀ
+- Տզեր
+- קרציות
+- خمندک
+- لبوديات الشكل
+- ماکُن
+- چچڙ
+- کنه
+- گنه
+- ܩܪܕܐ
+- किर्ना
+- किलनी
+- गोचीड
+- এঁটুলি
+- உண்ணி
+- ಉಣ್ಣಿ
+- പട്ടുണ്ണി
+- කිණිතුල්ලෝ
+- იქოდიდა
+- マダニ
+- 真蜱科
+- 蜱
+- 蜱目
+- 진드기
 title: Ixodida
+has_id_wikidata: Q10304508
+dv_has_:
+  name_:
+    af: bosluis
+    an: caparra
+    ar: لبوديات الشكل
+    arc: ܩܪܕܐ
+    ast: Ixodida
+    ay: Jamak'u
+    az: Gənə
+    azb: گنه
+    bg: кърлежи
+    bn: এঁটুলি
+    br: Tarlask
+    bs: Krpelj
+    ca: Paparra
+    ceb: Garapata
+    co: Zicca
+    cs: klíšťatovci
+    csb: Klészcz
+    cy: Trogen
+    da: Ixodida
+    de: Zecken
+    din: Acak
+    diq: Kerzık
+    el: Τσιμπούρι
+    eml: Śéca
+    en: Ixodida
+    eo: Iksodo
+    es: Ixodida
+    et: Puugid
+    eu: Akain
+    ext: Ixodida
+    fa: کنه
+    fi: puutiaiset
+    fr: tique
+    frr: Tegen
+    ga: sceartán
+    gd: Gartan
+    gl: Carracha
+    gn: Jatevu
+    he: קרציות
+    hi: किलनी
+    hr: Krpelji
+    ht: Tik
+    hu: kullancsok
+    hy: Տզեր
+    ia: Ixode
+    id: Caplak
+    ie: Ixodida
+    io: Zeko
+    is: Blóðmaurar
+    it: Ixodida
+    ja: マダニ
+    ka: იქოდიდა
+    kab: Aselluf
+    kn: ಉಣ್ಣಿ
+    ko: 진드기
+    ks: ماکُن
+    ku: Qijnîk
+    kw: torogen
+    la: Ixodida
+    lb: Zecken
+    lbe: СуцӀ
+    lt: erkės
+    lv: Ganību ērces
+    mg: Kongona
+    ml: പട്ടുണ്ണി
+    mr: गोचीड
+    ms: Sengkenit
+    mul: Ixodida
+    nb: flått
+    nds: Teken
+    ne: किर्ना
+    nl: Teken
+    nn: flått
+    oc: Ixodida
+    pl: Kleszcze
+    ps: خمندک
+    pt: Ixodida
+    pt-br: Ixodida
+    qu: Amaku
+    rn: Uruguha
+    ro: Ixodida
+    ru: Ixodida
+    sc: Ixodida
+    scn: Zicca
+    sd: چچڙ
+    sgs: Erkė
+    sh: Krpelj
+    si: කිණිතුල්ලෝ
+    sk: Kliešťovité
+    sl: klopi
+    sn: Chikwekwe
+    so: Shillin
+    sq: Rriqrat
+    sr: Крпељ
+    sv: fästingar
+    ta: உண்ணி
+    tl: Garapata
+    tr: Kene
+    uk: Ixodida
+    vi: Ve
+    vo: Ixodida
+    wa: Boschet
+    war: Ixodida
+    wuu: 真蜱科
+    yue: 蜱
+    zh: 蜱目
+    zh-cn: 蜱目
+    zh-hans: 蜱目
 ---
-
 # [[Tick]] 
 
 Ticks probably exist unchanged since 350e6y. 

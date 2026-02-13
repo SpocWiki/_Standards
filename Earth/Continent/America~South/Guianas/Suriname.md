@@ -1,18 +1,88 @@
 ---
 aliases:
-  - Suriname
-  - سورينام
-  - 苏里南
-  - Суринам
-  - the Republic of Suriname
-  - la República de Suriname
+- flavio
+- Haʼaʼaahjí Tółáníinii Bikéyah
+- Hurināme
+- i-Suriname
+- la República de Suriname
+- ma Suliname
+- Sirinam
+- Sorinama
+- Sorėnams
+- Sourinanm
+- Sranankondre
+- Suliname
+- Suranam
+- Suriinaam
+- Surinaam
+- Surinaem
+- Surinam
+- Surinama
+- Surinamas
+- Suriname
+- Surinami
+- Surinamia
+- Surinamo
+- Surinams
+- Surinamska
+- Surinamu
+- Surinaome
+- Surinenland
+- Surinän
+- Suurinam
+- Swrinam
+- Sùrìnámù
+- Súrínam
+- Sûrînam
+- the Republic of Suriname
+- y Toorinam
+- Σουρινάμ
+- Суринам
+- Суринамудин Орн
+- Сурынам
+- Սուրինամ
+- סורינאם
+- سرینام
+- سورينام
+- سورینام
+- سۇرىنام
+- سۊرينام
+- ސުރިނާމް
+- सुरिनाम
+- सूरिनाम
+- सूरीनाम
+- সুরিনাম
+- ਸੂਰੀਨਾਮ
+- સુરીનામ
+- ସୁରିନାମ
+- சுரிநாம்
+- సురినామ్
+- ಸುರಿನಾಮ್
+- സുരിനാം
+- සුරිනාම්
+- ประเทศซูรินาม
+- ປະເທດຊູຣີນາມ
+- སུ་རི་ནེམ།
+- ဆူရာနမ်နိုင်ငံ
+- ဆူရာနမ်သမ္မတနိုင်ငံ
+- မိူင်းသျူးရီးၼႃႇမႄႇ
+- სურინამი
+- ሱሪናም
+- ᱥᱩᱨᱤᱱᱮᱢ
+- スリナム
+- 苏里南
+- 蘇利南
+- 蘇里南
+- ꯁꯨꯔꯤꯅꯥꯃꯦ
+- 수리남
+- "\U00010343\U0001033F\U00010342\U00010339\U0001033D\U00010330\U0001033C\U00010330"
 has_id_wikidata: Q730
 location:
-  - 5.86
-  - -55.17
+- 5.86
+- -55.17
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27023
 isDeleted: false
 confidential: public
@@ -20,102 +90,102 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Suriname
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - nl-SR
-  - en
-  - srn
-  - hns
-  - jv
+- nl-SR
+- en
+- srn
+- hns
+- jv
 icon: flag-sr
 MeSH_tree_code: Z01.107.757.833
 coordinate_location: Point(-56.0 4.0)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Guyana,734]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Barbados,244]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Suriname,730]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Guyana,734]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Barbados,244]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+country: '[[_Standards/WikiData/WD~Suriname,730]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Guyana,734]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+- '[[_Standards/WikiData/WD~Guyana,734]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
 member_of:
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
-  - "[[_Standards/WikiData/WD~Dutch_Language_Union,152299]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~Organization_of_American_States,123759]]'
+- '[[_Standards/WikiData/WD~Dutch_Language_Union,152299]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Caribbean_Community,205995]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
+- '[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]'
+- '[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]'
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Dutch,7411]]"
-  - "[[_Standards/WikiData/WD~Saramaccan,33779]]"
-  - "[[_Standards/WikiData/WD~Sranan_Tongo,33989]]"
-  - "[[_Standards/WikiData/WD~Akurio,56650]]"
-  - "[[_Standards/WikiData/WD~Tiriyó,56885]]"
-  - "[[_Standards/WikiData/WD~Kwinti,721182]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Hindustani,1843468]]"
-  - "[[_Standards/WikiData/WD~Sarnámi_Hindustáni,2519308]]"
-  - "[[_Standards/WikiData/WD~Arawak,2655664]]"
-  - "[[_Standards/WikiData/WD~Businenge_Tongo,2659044]]"
-  - "[[_Standards/WikiData/WD~Sikiana,3443734]]"
-  - "[[_Standards/WikiData/WD~Wayana,5908753]]"
-  - "[[_Standards/WikiData/WD~Surinamese_Javanese,11732256]]"
-  - "[[_Standards/WikiData/WD~Ndyuka-Trio_Pidgin,13591205]]"
-capital: "[[_Standards/WikiData/WD~Paramaribo,3001]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Dutch,7411]]'
+- '[[_Standards/WikiData/WD~Saramaccan,33779]]'
+- '[[_Standards/WikiData/WD~Sranan_Tongo,33989]]'
+- '[[_Standards/WikiData/WD~Akurio,56650]]'
+- '[[_Standards/WikiData/WD~Tiriyó,56885]]'
+- '[[_Standards/WikiData/WD~Kwinti,721182]]'
+- '[[_Standards/WikiData/WD~Caribbean_Hindustani,1843468]]'
+- '[[_Standards/WikiData/WD~Sarnámi_Hindustáni,2519308]]'
+- '[[_Standards/WikiData/WD~Arawak,2655664]]'
+- '[[_Standards/WikiData/WD~Businenge_Tongo,2659044]]'
+- '[[_Standards/WikiData/WD~Sikiana,3443734]]'
+- '[[_Standards/WikiData/WD~Wayana,5908753]]'
+- '[[_Standards/WikiData/WD~Surinamese_Javanese,11732256]]'
+- '[[_Standards/WikiData/WD~Ndyuka-Trio_Pidgin,13591205]]'
+capital: '[[_Standards/WikiData/WD~Paramaribo,3001]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC_03_00,6513]]"
-  - "[[_Standards/WikiData/WD~America_Paramaribo,63286102]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
-official_language: "[[_Standards/WikiData/WD~Dutch,7411]]"
+- '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+- '[[_Standards/WikiData/WD~America_Paramaribo,63286102]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
+official_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
 part_of:
-  - "[[_Standards/WikiData/WD~South_America,18]]"
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
+- '[[_Standards/WikiData/WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~Caribbean,664609]]'
 continent:
-  - "[[_Standards/WikiData/WD~South_America,18]]"
-  - "[[_Standards/WikiData/WD~North_America,49]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+- '[[_Standards/WikiData/WD~South_America,18]]'
+- '[[_Standards/WikiData/WD~North_America,49]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 unemployment_rate: 6
 life_expectancy: 70
 marriageable_age: 21
 Human_Development_Index: 0.73
 mains_voltage: 127
 total_fertility_rate: 2.36
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.sr,43102]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sr,43102]]'
 trunk_prefix: 0
 Inequality_adjusted_Human_Development_Index: 0.532
 Gini_coefficient: 57.9
@@ -136,141 +206,141 @@ FIPS_10_4_countries_and_regions_: NS
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Suriname.svg
 OmegaWiki_Defined_Meaning: 8001
 rural_population:
-  - 203532
-  - 205498
-  - 207072
-  - 208236
+- 203532
+- 205498
+- 207072
+- 208236
 male_population:
-  - 299437
-  - 302656
-  - 305387
-  - 307625
+- 299437
+- 302656
+- 305387
+- 307625
 female_population:
-  - 300864
-  - 304409
-  - 307598
-  - 310416
+- 300864
+- 304409
+- 307598
+- 310416
 official_name:
-  - Suriname
-  - la République du Suriname
+- Suriname
+- la République du Suriname
 urban_population:
-  - 396769
-  - 401567
-  - 405913
-  - 409804
+- 396769
+- 401567
+- 405913
+- 409804
 population: 563402
-flag: "[[_Standards/WikiData/WD~flag_of_Suriname,180725]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Suriname,321746]]"
-anthem: "[[_Standards/WikiData/WD~God_zij_met_ons_Suriname,327108]]"
-head_of_state: "[[_Standards/WikiData/WD~Chan_Santokhi,333135]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Suriname,690866]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Suriname,180725]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Suriname,321746]]'
+anthem: '[[_Standards/WikiData/WD~God_zij_met_ons_Suriname,327108]]'
+head_of_state: '[[_Standards/WikiData/WD~Chan_Santokhi,333135]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Suriname,690866]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Brokopondo_District,847680]]"
-  - "[[_Standards/WikiData/WD~Commewijne_District,952510]]"
-  - "[[_Standards/WikiData/WD~Paramaribo_District,1130134]]"
-  - "[[_Standards/WikiData/WD~Sipaliwini_District,1130138]]"
-  - "[[_Standards/WikiData/WD~Coronie_District,1130141]]"
-  - "[[_Standards/WikiData/WD~Para_District,1140891]]"
-  - "[[_Standards/WikiData/WD~Marowijne_District,1140897]]"
-  - "[[_Standards/WikiData/WD~Nickerie_District,1147515]]"
-  - "[[_Standards/WikiData/WD~Wanica_District,1147524]]"
-  - "[[_Standards/WikiData/WD~Saramacca_District,1351157]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Suriname,878254]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Suriname,878254]]"
+- '[[_Standards/WikiData/WD~Brokopondo_District,847680]]'
+- '[[_Standards/WikiData/WD~Commewijne_District,952510]]'
+- '[[_Standards/WikiData/WD~Paramaribo_District,1130134]]'
+- '[[_Standards/WikiData/WD~Sipaliwini_District,1130138]]'
+- '[[_Standards/WikiData/WD~Coronie_District,1130141]]'
+- '[[_Standards/WikiData/WD~Para_District,1140891]]'
+- '[[_Standards/WikiData/WD~Marowijne_District,1140897]]'
+- '[[_Standards/WikiData/WD~Nickerie_District,1147515]]'
+- '[[_Standards/WikiData/WD~Wanica_District,1147524]]'
+- '[[_Standards/WikiData/WD~Saramacca_District,1351157]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Suriname,878254]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Suriname,878254]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-different_from: "[[_Standards/WikiData/WD~Suriname,1177328]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Suriname,1516634]]"
-highest_point: "[[_Standards/WikiData/WD~Julianatop,1549215]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1760847]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Suriname,2384917]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Suriname,2622179]]"
-central_bank: "[[_Standards/WikiData/WD~Centrale_Bank_van_Suriname,2981941]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Suriname,3007381]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+different_from: '[[_Standards/WikiData/WD~Suriname,1177328]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Suriname,1516634]]'
+highest_point: '[[_Standards/WikiData/WD~Julianatop,1549215]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1760847]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Suriname,2384917]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Suriname,2622179]]'
+central_bank: '[[_Standards/WikiData/WD~Centrale_Bank_van_Suriname,2981941]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Suriname,3007381]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
 exact_match:
-  - http://sws.geonames.org/3382998
-  - http://aims.fao.org/aos/agrovoc/c_7534
-  - http://cat.aii.caas.cn/concept/43385
-  - http://dewey.info/class/988.3/
-  - http://lod.gesis.org/thesoz/concept/10042350
-  - http://lod.nal.usda.gov/nalt/34948
-  - http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Suriname
-  - http://zbw.eu/stw/descriptor/17932-1
-instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- http://sws.geonames.org/3382998
+- http://aims.fao.org/aos/agrovoc/c_7534
+- http://cat.aii.caas.cn/concept/43385
+- http://dewey.info/class/988.3/
+- http://lod.gesis.org/thesoz/concept/10042350
+- http://lod.nal.usda.gov/nalt/34948
+- http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/Suriname
+- http://zbw.eu/stw/descriptor/17932-1
+instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~111,4547309]]"
-  - "[[_Standards/WikiData/WD~113,25648804]]"
-  - "[[_Standards/WikiData/WD~115,25648805]]"
-  - "[[_Standards/WikiData/WD~110,25648823]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Suriname,7112465]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Suriname,11209138]]"
-driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
-replaces: "[[_Standards/WikiData/WD~Suriname,19901436]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103716,27103716]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+- '[[_Standards/WikiData/WD~111,4547309]]'
+- '[[_Standards/WikiData/WD~113,25648804]]'
+- '[[_Standards/WikiData/WD~115,25648805]]'
+- '[[_Standards/WikiData/WD~110,25648823]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Suriname,7112465]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Suriname,11209138]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+replaces: '[[_Standards/WikiData/WD~Suriname,19901436]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103716,27103716]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 nominal_GDP:
-  - 2984706244
-  - 3620655116
+- 2984706244
+- 3620655116
 geoshape: http://commons.wikimedia.org/data/main/Data:Suriname.map
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Surinam.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Surinam.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Surinam.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Surinam.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Suriname%20banner.png
 country_calling_code: 597
 Dewey_Decimal_Classification: 2--883
-Unicode_character: 🇸🇷
+Unicode_character: "\U0001F1F8\U0001F1F7"
 Krugosvet_article: strany_mira/SURINAM.html
 GitHub_topic: suriname
 CIVICUS_Monitor_country_entry: suriname
 demonym:
-  - سورينامي
-  - سورينامية
-  - surinamés
-  - surinamesa
-  - Surinamano
-  - surinamés
-  - surinamesa
-  - Surinamien
-  - Surinamienne
-  - סורינאמי
-  - סורינאמית
-  - suriname-i
-  - Surinamano
-  - surinamese
-  - surinamesi
-  - sranan
-  - surinamez
-  - surinameză
-  - surinamezi
-  - surinameza
-  - surinameze
-  - surinamezi
-  - surinamezo
-  - Surinänan
-  - سورينامي
-  - سورينامية
-  - سوريناميين
-  - سوريناميات
-  - Suranamach
-  - سوريناميون
-  - Surinamese
-  - Surinamer
-  - সুরিনামি
+- سورينامي
+- سورينامية
+- surinamés
+- surinamesa
+- Surinamano
+- surinamés
+- surinamesa
+- Surinamien
+- Surinamienne
+- סורינאמי
+- סורינאמית
+- suriname-i
+- Surinamano
+- surinamese
+- surinamesi
+- sranan
+- surinamez
+- surinameză
+- surinamezi
+- surinameza
+- surinameze
+- surinamezi
+- surinamezo
+- Surinänan
+- سورينامي
+- سورينامية
+- سوريناميين
+- سوريناميات
+- Suranamach
+- سوريناميون
+- Surinamese
+- Surinamer
+- সুরিনামি
 motto_text:
-  - Справедливост - праведност - вяра
-  - Justice – Piety – Trust
-  - Justitia – Pietas – Fides
-  - Cyfiawnder – Ffyddlondeb – Ymddiriedolaeth
+- Справедливост - праведност - вяра
+- Justice – Piety – Trust
+- Justitia – Pietas – Fides
+- Cyfiawnder – Ffyddlondeb – Ymddiriedolaeth
 native_label:
-  - Republiek Suriname
-  - Ripoliku Sranan
-short_name: 🇸🇷
+- Republiek Suriname
+- Ripoliku Sranan
+short_name: "\U0001F1F8\U0001F1F7"
 UMLS_CUI: C0038944
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SURINAME%20orthographic.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Suriname1991%20Karte%20umstrittene%20Gebiete.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/SURINAME%20orthographic.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Suriname1991%20Karte%20umstrittene%20Gebiete.jpg
 official_website: https://gov.sr/
 ISNI: 404016456
 Commons_category: Suriname
@@ -314,9 +384,9 @@ dv_UNTERM_Chinese_Formal: 苏里南共和国
 dv_UNTERM_French_Formal: la République du Suriname
 dv_UNTERM_Russian: Суринам
 dv_UNTERM_Russian_Formal: Республика Суринам
-dv_Region_Name: "[[Americas]]"
-dv_Intermediate_Region_Name: "[[South America]]"
-dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region_Name: '[[Americas]]'
+dv_Intermediate_Region_Name: '[[South America]]'
+dv_Sub-region_Name: '[[Latin America and the Caribbean]]'
 dv_Region: 19
 dv_Intermediate_Region: 5
 dv_Sub-region: 419
@@ -341,39 +411,307 @@ dv_ISO2: SR
 dv_ISO3: SUR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]"
-    - "[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]"
-    - "[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]"
-    - "[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]"
-    - "[[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]]"
-    - "[[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]]"
-    - "[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]"
-    - "[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]"
+  - '[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]'
+  - '[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]'
+  - '[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]'
+  - '[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]'
+  - '[[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]]'
+  - '[[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]]'
+  - '[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]'
+  - '[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]'
 dv_has_:
   name_:
+    ace: Suriname
+    aeb-arab: سورينام
+    af: Suriname
+    am: ሱሪናም
+    ami: Suriname
+    an: Surinam
+    ang: Surinenland
+    anp: सूरीनाम
+    ar: سورينام
+    ary: سورينام
+    arz: سورينام
+    ast: Surinam
+    awa: सूरिनाम
+    ay: Suriname
+    az: Surinam
+    azb: سورینام
+    ba: Суринам
+    ban: Suriname
+    bar: Suriname
+    bcl: Surinam
+    be: Сурынам
+    be-tarask: Сурынам
+    bew: Suriname
+    bg: Суринам
+    bho: सूरीनाम
+    bi: Surinam
+    bn: সুরিনাম
+    bo: སུ་རི་ནེམ།
+    bpy: সুরিনাম
+    br: Surinam
+    bs: Surinam
+    bxr: Суринам
+    ca: Surinam
+    cbk-zam: Surinam
+    cdo: Suriname
+    ce: Суринам
+    ceb: Surinam
+    chy: Suriname
+    ckb: سورینام
+    co: Suriname
+    crh: Surinam
+    crh-latn: Surinam
+    cs: Surinam
+    cv: Суринам
+    cy: Swrinam
+    da: Surinam
+    dag: Suriname
+    de: Suriname
+    de-at: Suriname
+    de-ch: Suriname
+    diq: Surinam
+    dsb: Surinam
+    dty: सुरिनाम
+    dv: ސުރިނާމް
+    ee: Suriname
+    el: Σουρινάμ
+    en: Suriname
+    en-ca: Suriname
+    en-gb: Suriname
+    en-us: Suriname
+    eo: Surinamo
+    es: Surinam
+    et: Suriname
+    eu: Surinam
+    ext: Surinam
+    fa: سورینام
+    fi: Suriname
+    fo: Surinam
+    fr: Suriname
+    frp: Suriname
+    frr: Suurinam
+    fy: Suriname
+    ga: Suranam
+    gag: Surinam
+    gcr: Sourinanm
+    gd: Suranam
+    gl: Suriname
+    glk: سۊرينام
+    gn: Surinam
+    gom: सूरीनाम
+    gom-deva: सूरीनाम
+    gom-latn: Suriname
+    got: "\U00010343\U0001033F\U00010342\U00010339\U0001033D\U00010330\U0001033C\U00010330"
+    gpe: Suriname
+    gsw: Suriname
+    gu: સુરીનામ
+    guc: Surinam
+    gv: y Toorinam
+    ha: Suriname
+    hak: Suriname
+    haw: Suliname
+    he: סורינאם
+    hi: सूरीनाम
+    hif: Suriname
+    hr: Surinam
+    hsb: Surinamska
+    ht: Sirinam
+    hu: Suriname
+    hy: Սուրինամ
+    ia: Suriname
+    iba: Suriname
+    id: Suriname
+    ie: Surinam
+    ig: Suriname
+    ilo: Surinam
+    io: Surinam
+    is: Súrínam
+    it: Suriname
+    ja: スリナム
+    jam: Surinam
+    jbo: surinam
+    jv: Suriname
+    ka: სურინამი
+    kaa: Surinam
+    kab: Surinam
+    kk: Суринам
+    kl: Suriname
+    kn: ಸುರಿನಾಮ್
+    ko: 수리남
+    krc: Суринам
+    ku: Sûrînam
+    kw: Surinam
+    ky: Суринам
+    la: Surinamia
+    lad: Surinam
+    lb: Surinam
+    lfn: Suriname
+    li: Suriname
+    lij: Suriname
+    lld: Suriname
+    lmo: Suriname
+    ln: Suriname
+    lo: ປະເທດຊູຣີນາມ
+    lt: Surinamas
+    ltg: Surinams
+    lv: Surinama
+    lzh: 蘇利南
+    mad: Suriname
+    mai: सूरीनाम
+    map-bms: Suriname
+    mdf: Суринам
+    mg: Sorinama
+    mhr: Суринам
+    mi: Hurināme
+    min: Suriname
+    mk: Суринам
+    ml: സുരിനാം
+    mn: Суринам
+    mni: ꯁꯨꯔꯤꯅꯥꯃꯦ
+    mr: सुरिनाम
+    mrj: Суринам
+    ms: Suriname
+    mt: Suriname
+    my: ဆူရာနမ်နိုင်ငံ
+    mzn: سورینام
+    nah: Surinam
+    nan: Suriname
+    nb: Surinam
+    nds: Surinam
+    nds-nl: Suriname
+    ne: सुरिनाम
+    new: सुरिनाम
+    nl: Suriname
+    nn: Surinam
+    nov: Suriname
+    nv: Haʼaʼaahjí Tółáníinii Bikéyah
+    oc: Surinam
+    olo: Surinam
+    om: Suriinaam
+    or: ସୁରିନାମ
+    os: Суринам
+    pa: ਸੂਰੀਨਾਮ
+    pam: Surinam
+    pap: Suriname
+    pdc: Surinaem
+    pi: सुरिनाम
+    pih: Suriname
+    pl: Surinam
+    pms: Suriname
+    pnb: سورینام
+    ps: سورينام
+    pt: Suriname
+    pt-br: Suriname
+    qu: Surinam
+    qug: flavio
+    rki: ဆူရာနမ်သမ္မတနိုင်ငံ
+    rm: Suriname
+    rmy: Suriname
+    ro: Surinam
+    ru: Суринам
+    rw: Surinamu
+    sah: Суринам
+    sat: ᱥᱩᱨᱤᱱᱮᱢ
+    sc: Suriname
+    scn: Surinami
+    sco: Suriname
+    sd: سورينام
+    se: Suriname
+    sgs: Sorėnams
+    sh: Surinam
+    shn: မိူင်းသျူးရီးၼႃႇမႄႇ
+    si: සුරිනාම්
+    sk: Surinam
+    sl: Surinam
+    sm: Suriname
+    smn: Suriname
+    sms: Surinaam
+    sn: Suriname
+    so: Surinam
+    sq: Surinami
+    sr: Суринам
+    sr-ec: Суринам
+    sr-el: Surinam
+    srn: Sranankondre
+    stq: Suriname
+    su: Suriname
+    sv: Surinam
+    sw: Surinam
+    szl: Surinam
+    szy: Suriname
+    ta: சுரிநாம்
+    tay: Suriname
+    te: సురినామ్
+    tet: Suriname
+    tg: Суринам
+    th: ประเทศซูรินาม
+    ti: ሱሪናም
+    tk: Surinam
+    tl: Suriname
+    tly: Surinam
+    to: Suliname
+    tok: ma Suliname
+    tpi: Surinam
+    tr: Surinam
+    trv: Suriname
+    tt: Суринам
+    tum: Suriname
+    udm: Суринам
+    ug: سۇرىنام
+    uk: Суринам
+    ur: سرینام
+    uz: Surinam
+    vec: Suriname
+    vep: Surinam
+    vi: Suriname
+    vls: Suriname
+    vo: Surinän
+    vro: Suriname
+    wa: Surinam
+    war: Suriname
+    wo: Surinaam
+    wuu: 苏里南
+    xal: Суринамудин Орн
+    xmf: სურინამი
+    yi: סורינאם
+    yo: Sùrìnámù
+    yue: 蘇里南
+    za: Suriname
+    zea: Surinaome
+    zh: 蘇利南
+    zh-cn: 苏里南
+    zh-hans: 苏里南
+    zh-hant: 蘇利南
+    zh-hk: 蘇里南
+    zh-mo: 蘇里南
+    zh-my: 苏里南
+    zh-sg: 苏里南
+    zh-tw: 蘇利南
+    zu: i-Suriname
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Suriname
 dv_has_name_de: Surinam
 dv_Area-Total: 163265
 dv_Area-Land: 156000
-dv_has_place_continent: "[[South-America]]"
+dv_has_place_continent: '[[South-America]]'
 dv_VehicleCode: SME
 dv_Alcohol-l: 6.1
 dv_has_place_longitude: -55.17
 dv_has_place_latitude: 5.86
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]"
-  - "[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]"
-  - "[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]"
-  - "[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]"
-  - "[[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]]"
-  - "[[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]]"
-  - "[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]"
-  - "[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]"
+- '[[../../../../WikiData/WD~Suriname,730|WD~Suriname,730]]'
+- '[[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]]'
+- '[[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]]'
+- '[[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]]'
+- '[[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]]'
+- '[[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]]'
+- '[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]'
+- '[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Suriname
 ---
-
 # [[Suriname]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

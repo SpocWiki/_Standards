@@ -1,9 +1,41 @@
 ---
 aliases:
-  - Platycopioida
+- Platycopiidae
+- Platycopioida
+- プラティコピア目
+- 平角科
 title: Platycopioida
+has_id_wikidata: Q13656302
+dv_has_:
+  name_:
+    ast: Platycopiidae
+    bg: Platycopiidae
+    ceb: Platycopiidae
+    de: Platycopiidae
+    en: Platycopiidae
+    es: Platycopiidae
+    ext: Platycopiidae
+    fi: Platycopiidae
+    fr: Platycopiidae
+    ga: Platycopiidae
+    it: Platycopiidae
+    ja: プラティコピア目
+    la: Platycopiidae
+    mul: Platycopiidae
+    nl: Platycopiidae
+    pl: Platycopiidae
+    pt: Platycopiidae
+    ro: Platycopiidae
+    ru: Platycopiidae
+    sq: Platycopiidae
+    tr: Platycopiidae
+    uk: Platycopiidae
+    vi: Platycopiidae
+    war: Platycopiidae
+    zh: 平角科
+    zh-cn: 平角科
+    zh-tw: 平角科
 ---
-
 # [[Platycopioida]]
 
 Platycopiidae 

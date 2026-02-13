@@ -1,79 +1,282 @@
 ---
 aliases:
+- ffoton
+- Foodon
+- footon
+- footoon
+- fotoi
+- foton
+- fotona
+- fotonas
+- fotone
+- Fotoni
+- fotono
+- fotons
+- fotoon
+- fotuvdna
+- fotão
+- fotó
+- fotón
+- Fuotan
+- futoni
+- Futún
+- fóton
+- fótón
+- Ibane
+- Kng-chú
+- ljóseind
+- Photon
+- Phutun
+- Suudifa
+- Voankazavana
+- wan suno
+- φωτόνιο
+- Фатон
+- фотон
+- ֆոտոն
+- פאטאן
+- פוטון
+- فوتون
+- فوطون
+- فوٹون
+- فوټون
+- فوٽان
+- فۆتۆن
+- نوریہ
+- پھوٹان
+- प्रकाशाणु
+- फ़ोटोन
+- फोटॉन
+- फोटोन
+- फोतोन
+- ফোটন
+- ফ’টন
+- ਫੋਟੌਨ
+- ફોટોન
+- ଫୋଟନ
+- ஒளியணு
+- ఫోటాన్
+- ಫೋಟಾನ್
+- ഫോട്ടോൺ
+- โฟตอน
+- ဖိုတွန်
+- ფოტონი
+- 光子
+- 광자
+- 빛립자
 has_id_wikidata: Q3198
 time_of_discovery_or_invention: 1923-01-01T00:00:00Z
 subclass_of:
-  - "[[_Standards/WikiData/WD~gauge_boson,105580]]"
-  - "[[_Standards/WikiData/WD~massless_quantum_particle,2024141]]"
-  - "[[_Standards/WikiData/WD~real_neutral_particle,4204340]]"
-  - "[[_Standards/WikiData/WD~Q15809444,15809444]]"
-  - "[[_Standards/WikiData/WD~stable_elementary_particle,21660975]]"
-  - "[[_Standards/WikiData/WD~force_carrier,24364]]"
-  - "[[_Standards/WikiData/WD~elementary_particle,43116]]"
-  - "[[_Standards/WikiData/WD~quantum,46344]]"
+- '[[_Standards/WikiData/WD~gauge_boson,105580]]'
+- '[[_Standards/WikiData/WD~massless_quantum_particle,2024141]]'
+- '[[_Standards/WikiData/WD~real_neutral_particle,4204340]]'
+- '[[_Standards/WikiData/WD~Q15809444,15809444]]'
+- '[[_Standards/WikiData/WD~stable_elementary_particle,21660975]]'
+- '[[_Standards/WikiData/WD~force_carrier,24364]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quantum,46344]]'
 has_effect:
-  - "[[_Standards/WikiData/WD~Compton_effect,171516]]"
-  - "[[_Standards/WikiData/WD~Q56312436,56312436]]"
+- '[[_Standards/WikiData/WD~Compton_effect,171516]]'
+- '[[_Standards/WikiData/WD~Q56312436,56312436]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_field,177625]]"
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-has_characteristic: "[[_Standards/WikiData/WD~wave_particle_duality,193068]]"
-named_by: "[[_Standards/WikiData/WD~Gilbert_N._Lewis,208858]]"
+- '[[_Standards/WikiData/WD~electromagnetic_field,177625]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+has_characteristic: '[[_Standards/WikiData/WD~wave_particle_duality,193068]]'
+named_by: '[[_Standards/WikiData/WD~Gilbert_N._Lewis,208858]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Photon,440021]]"
-  - "[[_Standards/WikiData/WD~Foton,3079748]]"
-  - "[[_Standards/WikiData/WD~Fotão,124032567]]"
-has_superpartner: "[[_Standards/WikiData/WD~photino,1031134]]"
+- '[[_Standards/WikiData/WD~Photon,440021]]'
+- '[[_Standards/WikiData/WD~Foton,3079748]]'
+- '[[_Standards/WikiData/WD~Fotão,124032567]]'
+has_superpartner: '[[_Standards/WikiData/WD~photino,1031134]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Photinus_luciferin_4_monooxygenase_(ATP_hydrolyzing)_activity,3901694]]"
-  - "[[_Standards/WikiData/WD~response_to_light_stimulus,14859558]]"
-  - "[[_Standards/WikiData/WD~oxygen_evolving_activity,22316027]]"
-  - "[[_Standards/WikiData/WD~Renilla_luciferin_2_monooxygenase_activity,22316927]]"
-  - "[[_Standards/WikiData/WD~Watasenia_luciferin_2_monooxygenase_activity,22316934]]"
-  - "[[_Standards/WikiData/WD~Cypridina_luciferin_2_monooxygenase_activity,22316949]]"
-  - "[[_Standards/WikiData/WD~Oplophorus_luciferin_2_monooxygenase_activity,22316953]]"
-  - "[[_Standards/WikiData/WD~Latia_luciferin_monooxygenase_(demethylating)_activity,22317043]]"
-  - "[[_Standards/WikiData/WD~alkanal_monooxygenase_(FMN_linked)_activity,22317834]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+- '[[_Standards/WikiData/WD~Photinus_luciferin_4_monooxygenase_(ATP_hydrolyzing)_activity,3901694]]'
+- '[[_Standards/WikiData/WD~response_to_light_stimulus,14859558]]'
+- '[[_Standards/WikiData/WD~oxygen_evolving_activity,22316027]]'
+- '[[_Standards/WikiData/WD~Renilla_luciferin_2_monooxygenase_activity,22316927]]'
+- '[[_Standards/WikiData/WD~Watasenia_luciferin_2_monooxygenase_activity,22316934]]'
+- '[[_Standards/WikiData/WD~Cypridina_luciferin_2_monooxygenase_activity,22316949]]'
+- '[[_Standards/WikiData/WD~Oplophorus_luciferin_2_monooxygenase_activity,22316953]]'
+- '[[_Standards/WikiData/WD~Latia_luciferin_monooxygenase_(demethylating)_activity,22317043]]'
+- '[[_Standards/WikiData/WD~alkanal_monooxygenase_(FMN_linked)_activity,22317834]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 notation:
-  - "[[_Standards/WikiData/WD~hν,122443655]]"
-  - "[[_Standards/WikiData/WD~Γ,14387]]"
-antiparticle: "[[_Standards/WikiData/WD~photon,3198]]"
+- '[[_Standards/WikiData/WD~hν,122443655]]'
+- '[[_Standards/WikiData/WD~Γ,14387]]'
+antiparticle: '[[_Standards/WikiData/WD~photon,3198]]'
 charge_conjugation_quantum_number: -1
 parity_quantum_number: -1
 electric_charge: 0
 mass:
-  - 0
-  - 1e-21
+- 0
+- 1e-21
 mean_lifetime: 1
 half_life: 1
 spin_quantum_number: 1
-Monte_Carlo_Particle_Number: "22"
-OmegaWiki_Defined_Meaning: "8299"
+Monte_Carlo_Particle_Number: 22
+OmegaWiki_Defined_Meaning: 8299
 Commons_category: Photon
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Electromagneticwave3D.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Light%20Amplification%20by%20Stimulated%20Emission%20of%20Radiation.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/photons
 Wolfram_Language_unit_code: '"Photons"'
 IEV_number:
-  - 113-05-14
-  - 845-21-107
-  - 881-02-04
+- 113-05-14
+- 845-21-107
+- 881-02-04
 Dewey_Decimal_Classification:
-  - "535.12"
-  - "539.7217"
+- 535.12
+- 539.7217
 UMLS_CUI: C0086805
 Wolfram_Language_entity_code: Entity["Particle", "Photon"]
 MeSH_tree_code:
-  - G01.249.705
-  - G01.358.500.505.650.782
-  - G01.590.540.782
-  - G01.750.250.650.782
-  - G01.750.770.578.782
+- G01.249.705
+- G01.358.500.505.650.782
+- G01.590.540.782
+- G01.750.250.650.782
+- G01.750.770.578.782
+dv_has_:
+  name_:
+    af: foton
+    an: Fotón
+    ar: فوتون
+    ary: فوطون
+    as: ফ’টন
+    ast: Fotón
+    az: Foton
+    bar: Photon
+    be: Фатон
+    be-tarask: фатон
+    bg: Фотон
+    bn: ফোটন
+    bs: Foton
+    ca: fotó
+    ckb: فۆتۆن
+    cs: foton
+    cv: Фотон
+    cy: ffoton
+    da: foton
+    de: Photon
+    el: φωτόνιο
+    en: photon
+    eo: fotono
+    es: fotón
+    et: footon
+    eu: fotoi
+    fa: فوتون
+    fi: fotoni
+    fr: photon
+    ga: fótón
+    gcr: Foton
+    gl: fotón
+    gu: ફોટોન
+    he: פוטון
+    hi: फ़ोटोन
+    hr: foton
+    ht: Foton
+    hu: foton
+    hy: ֆոտոն
+    ia: Photon
+    id: Foton
+    io: fotono
+    is: ljóseind
+    it: fotone
+    ja: 光子
+    jam: Fuotan
+    jv: Foton
+    ka: ფოტონი
+    kk: Фотон
+    kn: ಫೋಟಾನ್
+    ko: 광자
+    ko-kp: 빛립자
+    ks: پھوٹان
+    ku: Foton
+    ky: Фотон
+    la: photon
+    li: Foton
+    lmo: Futún
+    lt: fotonas
+    lv: fotons
+    lzh: 光子
+    mag: प्रकाशाणु
+    mg: Voankazavana
+    mk: Фотон
+    ml: ഫോട്ടോൺ
+    mn: Фотон
+    mr: फोटॉन
+    ms: foton
+    ms-arab: فوتون
+    my: ဖိုတွန်
+    nan: Kng-chú
+    nb: foton
+    nds: Photon
+    ne: फोटोन
+    new: फोतोन
+    nl: foton
+    nn: foton
+    oc: foton
+    om: Suudifa
+    or: ଫୋଟନ
+    os: фотон
+    pa: ਫੋਟੌਨ
+    pl: foton
+    pnb: فوٹون
+    ps: فوټون
+    pt: fotão
+    pt-br: fóton
+    qu: Phutun
+    ro: foton
+    ru: фотон
+    rue: Фотон
+    sa: प्रकाशाणु
+    scn: futoni
+    sco: photon
+    sd: فوٽان
+    se: fotona
+    sh: Foton
+    sje: fotuvdna
+    sk: fotón
+    sl: foton
+    smn: footoon
+    sms: fotoon
+    sq: fotoni
+    sr: фотон
+    sr-ec: фотон
+    sr-el: foton
+    stq: Photon
+    su: Foton
+    sv: foton
+    sw: Fotoni
+    ta: ஒளியணு
+    te: ఫోటాన్
+    tg: Фотон
+    th: โฟตอน
+    tl: Photon
+    tok: wan suno
+    tr: foton
+    tt: фотон
+    tt-cyrl: фотон
+    uk: фотон
+    ur: نوریہ
+    uz: Foton
+    vi: photon
+    vro: Foodon
+    war: Photon
+    wuu: 光子
+    yi: פאטאן
+    yue: 光子
+    zh: 光子
+    zh-cn: 光子
+    zh-hans: 光子
+    zh-hant: 光子
+    zh-hk: 光子
+    zh-mo: 光子
+    zh-my: 光子
+    zh-sg: 光子
+    zh-tw: 光子
+    zu: Ibane
 ---
-
 # [[Photon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Photon,3198|WD~Photon,3198]] 

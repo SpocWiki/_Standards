@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Chlorobi
+- Chlorobi
+- Chlorobiota
+- Green sulfur bacteria
+- 녹색황세균
 title: Chlorobi
+has_id_wikidata: Q12962791
+dv_has_:
+  name_:
+    an: Chlorobiota
+    ast: Chlorobiota
+    bg: Chlorobiota
+    ca: Chlorobiota
+    ceb: Chlorobiota
+    cs: Chlorobiota
+    de: Chlorobiota
+    en: Green sulfur bacteria
+    en-ca: Green sulfur bacteria
+    en-gb: Green sulfur bacteria
+    eo: Chlorobiota
+    es: Chlorobiota
+    eu: Chlorobiota
+    ext: Chlorobiota
+    fi: Chlorobiota
+    fr: Chlorobiota
+    ga: Chlorobiota
+    gl: Chlorobiota
+    ia: Chlorobiota
+    ie: Chlorobiota
+    io: Chlorobiota
+    it: Chlorobiota
+    ko: 녹색황세균
+    la: Chlorobiota
+    mul: Chlorobiota
+    nl: Chlorobiota
+    oc: Chlorobiota
+    pl: Chlorobiota
+    pt: Chlorobiota
+    pt-br: Chlorobiota
+    ro: Chlorobiota
+    ru: Chlorobiota
+    scn: Chlorobiota
+    sq: Chlorobiota
+    uk: Chlorobiota
+    vi: Chlorobiota
+    vo: Chlorobiota
+    war: Chlorobiota
 ---
-
 # [[Chlorobi]] 
 
 #is_a/bio-Phylum  

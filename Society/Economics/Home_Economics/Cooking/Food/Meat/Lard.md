@@ -1,22 +1,73 @@
 ---
 aliases:
-  - Schmalz
-  - Lard
+- banha
+- blonag
+- coyamechiyāhuacāyōtl
+- cūku tauki
+- disznózsír
+- domuz yağı
+- Ihe omuma di nma
+- ister
+- Lard
+- lemak babi
+- manteca de cerdo
+- mantega de gochu
+- manteiga de porco
+- mỡ lợn
+- nzunza
+- redetiu
+- reuzel
+- saeyén
+- saimo
+- saindoux
+- sallo
+- saïm
+- Schmals
+- Schmalz
+- Schmoiz
+- silava
+- smalec
+- smult
+- strutto
+- Strótt
+- svinefedt
+- svinjska mast
+- sádlo
+- taukā
+- tuste
+- txerri-gantz
+- untosinsal
+- untură
+- ŝmalco
+- λαρδί
+- свинска мас
+- свинска маст
+- смалец
+- смалець
+- шмалец
+- שומן חזיר
+- دهن الخنزير
+- چربی خوک
+- มันหมู
+- မၼ်းမူ
+- ラード
+- 豬油
+- 라드
 has_id_wikidata: Q72827
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~animal_fats_and_oils,1423543]]'
-  - '[[_Standards/WikiData/WD~fat_spread,1727434]]'
-  - '[[_Standards/WikiData/WD~dripping,17105036]]'
-  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~animal_fats_and_oils,1423543]]'
+- '[[_Standards/WikiData/WD~fat_spread,1727434]]'
+- '[[_Standards/WikiData/WD~dripping,17105036]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Schmalz,2245809]]'
-  - '[[_Standards/WikiData/WD~Lard,6488820]]'
-  - '[[_Standards/WikiData/WD~Sádlo,12058017]]'
+- '[[_Standards/WikiData/WD~Schmalz,2245809]]'
+- '[[_Standards/WikiData/WD~Lard,6488820]]'
+- '[[_Standards/WikiData/WD~Sádlo,12058017]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~fatback,5437342]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~fatback,5437342]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 CosIng_number: 31372
 USDA_NDB_number: 04002
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Homelard.jpg
@@ -26,8 +77,73 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lard%204%2
 CAS_Registry_Number: 61789-99-9
 Amazon_com_browse_node: 6492283011
 UNII: SI6O3IW77Z
+dv_has_:
+  name_:
+    an: redetiu
+    ar: دهن الخنزير
+    ast: mantega de gochu
+    bar: Schmoiz
+    be: шмалец
+    be-tarask: шмалец
+    bg: свинска мас
+    ca: saïm
+    cs: sádlo
+    cv: смалец
+    da: svinefedt
+    de: Schmalz
+    el: λαρδί
+    eml: Strótt
+    en: lard
+    eo: ŝmalco
+    es: manteca de cerdo
+    eu: txerri-gantz
+    fa: چربی خوک
+    fi: silava
+    fr: saindoux
+    ga: blonag
+    gd: blonag
+    gl: manteiga de porco
+    he: שומן חזיר
+    hr: svinjska mast
+    hu: disznózsír
+    id: lemak babi
+    ig: Ihe omuma di nma
+    io: saimo
+    it: strutto
+    ja: ラード
+    jv: lemak babi
+    ko: 라드
+    lb: Schmalz
+    lv: cūku tauki
+    lzh: 豬油
+    mk: свинска маст
+    nah: coyamechiyāhuacāyōtl
+    nb: smult
+    nl: reuzel
+    nn: smult
+    pdc: Schmals
+    pl: smalec
+    pt: banha
+    ro: untură
+    ru: смалец
+    scn: nzunza
+    sgs: taukā
+    sh: svinjska mast
+    shn: မၼ်းမူ
+    sl: svinjska mast
+    sq: sallo
+    sr: svinjska mast
+    sv: ister
+    szl: tuste
+    th: มันหมู
+    tl: untosinsal
+    tr: domuz yağı
+    uk: смалець
+    vi: mỡ lợn
+    wa: saeyén
+    yue: 豬油
+    zh: 豬油
 ---
-
 # [[Lard]] 
 
 #is_/same_as :: [[WD~Lard,72827]] 

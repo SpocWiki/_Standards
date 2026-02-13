@@ -1,4 +1,90 @@
-
+---
+has_id_wikidata: Q614156
+dv_has_:
+  name_:
+    an: Bacillus anthracis
+    ar: عصوية جمرية
+    arz: عصويه جمريه
+    ast: Bacillus anthracis
+    az: Qarayara çöpü
+    be-tarask: Bacillus anthracis
+    bg: Bacillus anthracis
+    bn: ব্যাসিলাস অ্যানথ্রাসিস
+    ca: Bacillus anthracis
+    ceb: Bacillus anthracis
+    cs: Bacillus anthracis
+    da: Bacillus anthracis
+    de: Bacillus anthracis
+    el: Βάκιλλος του άνθρακα
+    en: Bacillus anthracis
+    eo: Bacillus anthracis
+    es: Bacillus anthracis
+    et: Põrnatõvebatsill
+    eu: Bacillus anthracis
+    ext: Bacillus anthracis
+    fa: باسیلوس آنتراسیس
+    fi: Bacillus anthracis
+    fr: Bacillus anthracis
+    ga: Bacillus anthracis
+    gl: Bacillus anthracis
+    ha: Bacillus anthracis
+    he: Bacillus anthracis
+    hu: Bacillus anthracis
+    ia: Bacillus anthracis
+    id: Bacillus anthracis
+    ie: Bacillus anthracis
+    io: Bacillus anthracis
+    is: Bacillus anthracis
+    it: Bacillus anthracis
+    ja: 炭疽菌
+    ko: 탄저균
+    la: Bacillus anthracis
+    lv: Bacillus anthracis
+    ms: Bacillus anthracis
+    mul: Bacillus anthracis
+    nan: Thoàⁿ-chu koáiⁿ-khún
+    nb: Bacillus anthracis
+    nl: Bacillus anthracis
+    nn: Bacillus anthracis
+    nqo: ߛߏ߯ߙߏ ߗߍ߬ߡߊ߲
+    oc: Bacillus anthracis
+    pl: Laseczka wąglika
+    pnb: بیکلس اینتھراکس
+    pt: Bacillus anthracis
+    pt-br: Bacillus anthracis
+    ro: Bacillus anthracis
+    ru: Bacillus anthracis
+    sco: Bacillus anthracis
+    sk: Bacillus anthracis
+    sl: Bacillus anthracis
+    sq: Bacillus anthracis
+    sv: Bacillus anthracis
+    tr: Bacillus anthracis
+    uk: Bacillus anthracis
+    vi: Vi khuẩn than
+    vo: Bacillus anthracis
+    war: Bacillus anthracis
+    yue: 炭疽桿菌
+    zh: 炭疽芽孢杆菌
+aliases:
+- Bacillus anthracis
+- Laseczka wąglika
+- Põrnatõvebatsill
+- Qarayara çöpü
+- Thoàⁿ-chu koáiⁿ-khún
+- Vi khuẩn than
+- Βάκιλλος του άνθρακα
+- باسیلوس آنتراسیس
+- بیکلس اینتھراکس
+- عصوية جمرية
+- عصويه جمريه
+- ߛߏ߯ߙߏ ߗߍ߬ߡߊ߲
+- ব্যাসিলাস অ্যানথ্রাসিস
+- 炭疽桿菌
+- 炭疽芽孢杆菌
+- 炭疽菌
+- 탄저균
+---
 ## #has_/text_of_/abstract 
 
 > Bacillus anthracis is a gram-positive and rod-shaped bacterium that causes anthrax, 

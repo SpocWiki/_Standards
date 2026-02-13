@@ -1,9 +1,63 @@
 ---
 aliases:
-  - News Corp
-  - News_Corp
+- News Corp
+- News Corp.
+- News_Corp
+- ניוז קורפ
+- نوز کورپ
+- نيوز كورب
+- ന്യൂസ് കോർപ്പ്
+- ニューズ・コーポレーション
+- 新聞集團
+- 新闻集团
+- 뉴스 코프
+has_id_wikidata: Q14289857
+dv_has_:
+  name_:
+    ar: نيوز كورب
+    az: News Corp
+    azb: نوز کورپ
+    ca: News Corp
+    cs: News Corp
+    cy: News Corp
+    da: News Corp
+    de: News Corp.
+    el: News Corp
+    en: News Corp
+    en-ca: News Corp
+    en-gb: News Corp
+    eo: News Corp
+    es: News Corp
+    eu: News Corp
+    fa: نوز کورپ
+    fi: News Corp
+    fr: News Corp
+    fy: News Corp
+    ga: News Corp
+    he: ניוז קורפ
+    is: News Corp
+    it: News Corp
+    ja: ニューズ・コーポレーション
+    ko: 뉴스 코프
+    lb: News Corp.
+    lv: News Corp
+    ml: ന്യൂസ് കോർപ്പ്
+    nb: News Corp
+    nl: News Corp
+    nn: News Corp
+    pl: News Corp
+    pt: News Corp
+    pt-br: News Corp
+    ro: News Corp
+    ru: News Corp
+    sl: News Corp.
+    sv: News Corp
+    vi: News Corp
+    zh: 新闻集团
+    zh-cn: 新闻集团
+    zh-hk: 新聞集團
+    zh-tw: 新聞集團
 ---
-
 # [[News_Corp]] 
 
 #is_/same_as :: 

@@ -1,161 +1,186 @@
 ---
 aliases:
-  - Hermann_von_Helmholtz
-  - Hermann Ludwig Ferdinand von Helmholtz
-  - Hermann von Helmholtz
-  - Helmholtz
+- Gelmgols German Lyudvig Ferdinand
+- Helmholtz
+- Hermanis fon Helmholcs
+- Hermann Ludwig Ferdinand von Helmholtz
+- Hermann Ludwig von Helmholtz
+- Hermann von Helmholtz
+- Hermann_von_Helmholtz
+- Χέρμαν φον Χέλμχολτς
+- Гельмгольц
+- Гельмгольц Герман Людвиг Фердинанд
+- Герман Гельмгольц
+- Герман Людвіг Фердынанд Гельмгольц
+- Герман фон Гельмгольц
+- Гэрман фон Гэльмгальц
+- Херман фон Хелмолц
+- Херман фон Хелмхолц
+- Հերման Հելմհոլց
+- הרמן פון הלמהולץ
+- هرمان فون هلمهولتز
+- ہرمن فان ہیلمہولٹز
+- हेल्महोल्ज़
+- ഹെർമൻ വോൺ ഹെൽംഹോൾട്സ്
+- แฮร์มัน ฟ็อน เฮ็ล์มฮ็อลทซ์
+- ჰერმან ფონ ჰელმჰოლცი
+- ჰერმან ჰელმჰოლცი
+- ヘルマン・フォン・ヘルムホルツ
+- 亥姆霍茲
+- 赫尔曼·冯·亥姆霍兹
+- 헤르만 폰 헬름홀츠
 has_id_wikidata: Q60024
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Otto_Lummer,66885]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Goltz,67626]]'
-  - '[[_Standards/WikiData/WD~Ernst_Pringsheim,71047]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Schottky,77303]]'
-  - '[[_Standards/WikiData/WD~Theodor_des_Coudres,102054]]'
-  - '[[_Standards/WikiData/WD~William_James,125249]]'
-  - '[[_Standards/WikiData/WD~Albert_A._Michelson,127234]]'
-  - '[[_Standards/WikiData/WD~Gabriel_Lippmann,133232]]'
-  - '[[_Standards/WikiData/WD~Mihajlo_Pupin,196287]]'
-  - '[[_Standards/WikiData/WD~Henry_Augustus_Rowland,505197]]'
-  - '[[_Standards/WikiData/WD~Arthur_Gordon_Webster,709537]]'
-  - '[[_Standards/WikiData/WD~Arthur_Schuster,711452]]'
-  - '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Wien,57068]]'
-  - '[[_Standards/WikiData/WD~Max_Wien,64839]]'
+- '[[_Standards/WikiData/WD~Otto_Lummer,66885]]'
+- '[[_Standards/WikiData/WD~Friedrich_Goltz,67626]]'
+- '[[_Standards/WikiData/WD~Ernst_Pringsheim,71047]]'
+- '[[_Standards/WikiData/WD~Friedrich_Schottky,77303]]'
+- '[[_Standards/WikiData/WD~Theodor_des_Coudres,102054]]'
+- '[[_Standards/WikiData/WD~William_James,125249]]'
+- '[[_Standards/WikiData/WD~Albert_A._Michelson,127234]]'
+- '[[_Standards/WikiData/WD~Gabriel_Lippmann,133232]]'
+- '[[_Standards/WikiData/WD~Mihajlo_Pupin,196287]]'
+- '[[_Standards/WikiData/WD~Henry_Augustus_Rowland,505197]]'
+- '[[_Standards/WikiData/WD~Arthur_Gordon_Webster,709537]]'
+- '[[_Standards/WikiData/WD~Arthur_Schuster,711452]]'
+- '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Wien,57068]]'
+- '[[_Standards/WikiData/WD~Max_Wien,64839]]'
 student:
-  - '[[_Standards/WikiData/WD~Theodor_Leber,69692]]'
-  - '[[_Standards/WikiData/WD~Ágost_Heller,1035148]]'
-  - '[[_Standards/WikiData/WD~Aleksey_Sokolov,4427082]]'
+- '[[_Standards/WikiData/WD~Theodor_Leber,69692]]'
+- '[[_Standards/WikiData/WD~Ágost_Heller,1035148]]'
+- '[[_Standards/WikiData/WD~Aleksey_Sokolov,4427082]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
-  - '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
-  - '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
-  - '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~Royal_Society_of_Sciences_in_Uppsala,537736]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
-  - '[[_Standards/WikiData/WD~Royal_Physiographic_Society_in_Lund,920266]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Music,1541450]]'
-  - '[[_Standards/WikiData/WD~Poznań_Society_of_Friends_of_Learning,2107174]]'
-  - '[[_Standards/WikiData/WD~Royal_Academy_of_Medicine_of_Belgium,2124852]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
-  - '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~Hungarian_Academy_of_Sciences,265058]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
+- '[[_Standards/WikiData/WD~Lincean_Academy,338432]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Sciences_in_Uppsala,537736]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~Royal_Physiographic_Society_in_Lund,920266]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Music,1541450]]'
+- '[[_Standards/WikiData/WD~Poznań_Society_of_Friends_of_Learning,2107174]]'
+- '[[_Standards/WikiData/WD~Royal_Academy_of_Medicine_of_Belgium,2124852]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 child:
-  - '[[_Standards/WikiData/WD~Richard_von_Helmholtz,109501]]'
-  - '[[_Standards/WikiData/WD~Robert_von_Helmholtz,55844156]]'
-  - '[[_Standards/WikiData/WD~Ellen_von_Siemens_Helmholtz,94758839]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Julius_von_Helmholtz,94882351]]'
+- '[[_Standards/WikiData/WD~Richard_von_Helmholtz,109501]]'
+- '[[_Standards/WikiData/WD~Robert_von_Helmholtz,55844156]]'
+- '[[_Standards/WikiData/WD~Ellen_von_Siemens_Helmholtz,94758839]]'
+- '[[_Standards/WikiData/WD~Friedrich_Julius_von_Helmholtz,94882351]]'
 position_held:
-  - '[[_Standards/WikiData/WD~chairperson,140686]]'
-  - '[[_Standards/WikiData/WD~rector,212071]]'
+- '[[_Standards/WikiData/WD~chairperson,140686]]'
+- '[[_Standards/WikiData/WD~rector,212071]]'
 employer:
-  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
-  - '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
-  - '[[_Standards/WikiData/WD~Charité,162684]]'
-  - '[[_Standards/WikiData/WD~Physikalisch_Technische_Bundesanstalt,470438]]'
-  - '[[_Standards/WikiData/WD~University_of_Königsberg,672420]]'
-  - '[[_Standards/WikiData/WD~Prussian_Army,706042]]'
-  - '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+- '[[_Standards/WikiData/WD~University_of_Bonn,152171]]'
+- '[[_Standards/WikiData/WD~Charité,162684]]'
+- '[[_Standards/WikiData/WD~Physikalisch_Technische_Bundesanstalt,470438]]'
+- '[[_Standards/WikiData/WD~University_of_Königsberg,672420]]'
+- '[[_Standards/WikiData/WD~Prussian_Army,706042]]'
+- '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
 place_of_death: '[[_Standards/WikiData/WD~Charlottenburg,162049]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~psychologist,212980]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~physiologist,2055046]]'
-  - '[[_Standards/WikiData/WD~pathologist,3368718]]'
-  - '[[_Standards/WikiData/WD~military_physician,4002666]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~anatomist,10872101]]'
-  - '[[_Standards/WikiData/WD~ophthalmologist,12013238]]'
-  - '[[_Standards/WikiData/WD~biophysicist,14906342]]'
-  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~psychologist,212980]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~physiologist,2055046]]'
+- '[[_Standards/WikiData/WD~pathologist,3368718]]'
+- '[[_Standards/WikiData/WD~military_physician,4002666]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~anatomist,10872101]]'
+- '[[_Standards/WikiData/WD~ophthalmologist,12013238]]'
+- '[[_Standards/WikiData/WD~biophysicist,14906342]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Kelvin_Helmholtz_mechanism,477816]]'
-  - '[[_Standards/WikiData/WD~Helmholtz_equation,860615]]'
-  - '[[_Standards/WikiData/WD~Helmholtz_free_energy,865821]]'
-  - '[[_Standards/WikiData/WD~Gibbs_Helmholtz_equation,900590]]'
-  - "[[_Standards/WikiData/WD~Helmholtz's_theorems,985009]]"
-  - '[[_Standards/WikiData/WD~Helmholtz_decomposition,1153588]]'
-  - '[[_Standards/WikiData/WD~Young_Helmholtz_theory,1257777]]'
-  - '[[_Standards/WikiData/WD~Helmholtz_pitch_notation,1346377]]'
-  - '[[_Standards/WikiData/WD~Helmholtz_resonance,1569889]]'
-  - '[[_Standards/WikiData/WD~Kelvin_Helmholtz_instability,1571116]]'
-  - '[[_Standards/WikiData/WD~Helmholtz_coil,1603273]]'
-  - '[[_Standards/WikiData/WD~Helmholtz_Kohlrausch_effect,5709374]]'
-  - '[[_Standards/WikiData/WD~specific_Helmholtz_energy,76359554]]'
-  - '[[_Standards/WikiData/WD~molar_Helmholtz_energy,88862986]]'
-  - '[[_Standards/WikiData/WD~conservation_of_energy,11382]]'
+- '[[_Standards/WikiData/WD~Kelvin_Helmholtz_mechanism,477816]]'
+- '[[_Standards/WikiData/WD~Helmholtz_equation,860615]]'
+- '[[_Standards/WikiData/WD~Helmholtz_free_energy,865821]]'
+- '[[_Standards/WikiData/WD~Gibbs_Helmholtz_equation,900590]]'
+- "[[_Standards/WikiData/WD~Helmholtz's_theorems,985009]]"
+- '[[_Standards/WikiData/WD~Helmholtz_decomposition,1153588]]'
+- '[[_Standards/WikiData/WD~Young_Helmholtz_theory,1257777]]'
+- '[[_Standards/WikiData/WD~Helmholtz_pitch_notation,1346377]]'
+- '[[_Standards/WikiData/WD~Helmholtz_resonance,1569889]]'
+- '[[_Standards/WikiData/WD~Kelvin_Helmholtz_instability,1571116]]'
+- '[[_Standards/WikiData/WD~Helmholtz_coil,1603273]]'
+- '[[_Standards/WikiData/WD~Helmholtz_Kohlrausch_effect,5709374]]'
+- '[[_Standards/WikiData/WD~specific_Helmholtz_energy,76359554]]'
+- '[[_Standards/WikiData/WD~molar_Helmholtz_energy,88862986]]'
+- '[[_Standards/WikiData/WD~conservation_of_energy,11382]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Anna_von_Helmholtz,563817]]'
-  - '[[_Standards/WikiData/WD~Olga_von_Helmholtz,60844980]]'
+- '[[_Standards/WikiData/WD~Anna_von_Helmholtz,563817]]'
+- '[[_Standards/WikiData/WD~Olga_von_Helmholtz,60844980]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
-  - '[[_Standards/WikiData/WD~Croonian_Medal_and_Lecture,1192912]]'
-  - '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
-  - '[[_Standards/WikiData/WD~Faraday_Lectureship_Prize,1994574]]'
-  - '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
+- '[[_Standards/WikiData/WD~Croonian_Medal_and_Lecture,1192912]]'
+- '[[_Standards/WikiData/WD~Matteucci_Medal,1419938]]'
+- '[[_Standards/WikiData/WD~Faraday_Lectureship_Prize,1994574]]'
+- '[[_Standards/WikiData/WD~Albert_Medal,4710826]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803_1932,48711337]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Heidelberg_Scholar_Lexicon_1803_1932,48711337]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Hermann,1158570]]'
-  - '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
-  - '[[_Standards/WikiData/WD~Ludwig,14159020]]'
+- '[[_Standards/WikiData/WD~Hermann,1158570]]'
+- '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
+- '[[_Standards/WikiData/WD~Ludwig,14159020]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~German_Reich,1206012]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~German_Reich,1206012]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
 place_of_burial: '[[_Standards/WikiData/WD~Friedhof_Wannsee,_Lindenstraße,1457440]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Hermann_von_Helmholtz_Gymnasium,1603232]]'
-  - '[[_Standards/WikiData/WD~Pépinière,1802956]]'
-  - '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
+- '[[_Standards/WikiData/WD~Hermann_von_Helmholtz_Gymnasium,1603232]]'
+- '[[_Standards/WikiData/WD~Pépinière,1802956]]'
+- '[[_Standards/WikiData/WD~Frederick_William_University_Berlin,20266330]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Königsberg,4120832]]'
-  - '[[_Standards/WikiData/WD~Bonn,586]]'
-  - '[[_Standards/WikiData/WD~Heidelberg,2966]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Königsberg,4120832]]'
+- '[[_Standards/WikiData/WD~Bonn,586]]'
+- '[[_Standards/WikiData/WD~Heidelberg,2966]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Helmholtz,63116950]]'
-  - '[[_Standards/WikiData/WD~von_Helmholtz,121467386]]'
+- '[[_Standards/WikiData/WD~Helmholtz,63116950]]'
+- '[[_Standards/WikiData/WD~von_Helmholtz,121467386]]'
 father: '[[_Standards/WikiData/WD~Ferdinand_Helmholtz,94882252]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 academic_thesis: '[[_Standards/WikiData/WD~Q136202536,136202536]]'
 date_of_death: 1894-09-08T00:00:00Z
 field_of_work:
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~physiology,521]]'
-  - '[[_Standards/WikiData/WD~psychology,9418]]'
-  - '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~physiology,521]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
 interested_in: '[[_Standards/WikiData/WD~physiology,521]]'
 place_of_birth: '[[_Standards/WikiData/WD~Potsdam,1711]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -177,34 +202,201 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/2011-06-22%20Bo
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Hermann%20von%20Helmholtz.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hermann%20von%20Helmholtz.jpg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=135265693
-  - http://www.digiporta.net/index.php?id=139645595
-  - http://www.digiporta.net/index.php?id=190780044
-  - http://www.digiporta.net/index.php?id=255272615
-  - http://www.digiporta.net/index.php?id=255379038
-  - http://www.digiporta.net/index.php?id=267663184
-  - http://www.digiporta.net/index.php?id=392374229
-  - http://www.digiporta.net/index.php?id=409510588
-  - http://www.digiporta.net/index.php?id=422930148
-  - http://www.digiporta.net/index.php?id=583581334
-  - http://www.digiporta.net/index.php?id=592902994
-  - http://www.digiporta.net/index.php?id=601362494
-  - http://www.digiporta.net/index.php?id=605577395
-  - http://www.digiporta.net/index.php?id=630337178
-  - http://www.digiporta.net/index.php?id=667174483
-  - http://www.digiporta.net/index.php?id=709973990
-  - http://www.digiporta.net/index.php?id=716622908
-  - http://www.digiporta.net/index.php?id=765119948
-  - http://www.digiporta.net/index.php?id=816567799
-  - http://www.digiporta.net/index.php?id=834923413
-  - http://www.digiporta.net/index.php?id=876351685
-  - http://www.digiporta.net/index.php?id=887319926
-  - http://www.digiporta.net/index.php?id=950018530
-  - http://www.digiporta.net/index.php?id=968682318
+- http://www.digiporta.net/index.php?id=135265693
+- http://www.digiporta.net/index.php?id=139645595
+- http://www.digiporta.net/index.php?id=190780044
+- http://www.digiporta.net/index.php?id=255272615
+- http://www.digiporta.net/index.php?id=255379038
+- http://www.digiporta.net/index.php?id=267663184
+- http://www.digiporta.net/index.php?id=392374229
+- http://www.digiporta.net/index.php?id=409510588
+- http://www.digiporta.net/index.php?id=422930148
+- http://www.digiporta.net/index.php?id=583581334
+- http://www.digiporta.net/index.php?id=592902994
+- http://www.digiporta.net/index.php?id=601362494
+- http://www.digiporta.net/index.php?id=605577395
+- http://www.digiporta.net/index.php?id=630337178
+- http://www.digiporta.net/index.php?id=667174483
+- http://www.digiporta.net/index.php?id=709973990
+- http://www.digiporta.net/index.php?id=716622908
+- http://www.digiporta.net/index.php?id=765119948
+- http://www.digiporta.net/index.php?id=816567799
+- http://www.digiporta.net/index.php?id=834923413
+- http://www.digiporta.net/index.php?id=876351685
+- http://www.digiporta.net/index.php?id=887319926
+- http://www.digiporta.net/index.php?id=950018530
+- http://www.digiporta.net/index.php?id=968682318
 ISNI: 0000000121326382
 Libris_URI: 86lnr28s2htm865
+dv_has_:
+  name_:
+    aa: Hermann von Helmholtz
+    ace: Hermann von Helmholtz
+    af: Hermann von Helmholtz
+    an: Hermann von Helmholtz
+    ar: هرمان فون هلمهولتز
+    arz: هرمان فون هلمهولتز
+    ast: Hermann von Helmholtz
+    atj: Hermann von Helmholtz
+    azb: هرمان فون هلمهولتز
+    bar: Hermann von Helmholtz
+    be: Герман Людвіг Фердынанд Гельмгольц
+    be-tarask: Гэрман фон Гэльмгальц
+    bg: Херман фон Хелмхолц
+    bi: Hermann von Helmholtz
+    br: Hermann von Helmholtz
+    bs: Hermann von Helmholtz
+    ca: Hermann von Helmholtz
+    ceb: Hermann von Helmholtz
+    co: Hermann von Helmholtz
+    cs: Hermann von Helmholtz
+    cv: Гельмгольц Герман Людвиг Фердинанд
+    cy: Hermann von Helmholtz
+    da: Hermann von Helmholtz
+    de: Hermann von Helmholtz
+    de-at: Hermann von Helmholtz
+    de-ch: Hermann von Helmholtz
+    dsb: Hermann von Helmholtz
+    ee: Hermann von Helmholtz
+    egl: Hermann von Helmholtz
+    el: Χέρμαν φον Χέλμχολτς
+    eml: Hermann von Helmholtz
+    en: Hermann von Helmholtz
+    en-ca: Hermann von Helmholtz
+    en-gb: Hermann von Helmholtz
+    en-us: Hermann von Helmholtz
+    eo: Hermann von Helmholtz
+    es: Hermann von Helmholtz
+    et: Hermann von Helmholtz
+    eu: Hermann von Helmholtz
+    ext: Hermann von Helmholtz
+    fa: هرمان فون هلمهولتز
+    ff: Hermann von Helmholtz
+    fi: Hermann von Helmholtz
+    fit: Hermann von Helmholtz
+    fj: Hermann von Helmholtz
+    fo: Hermann von Helmholtz
+    fr: Hermann Ludwig von Helmholtz
+    frc: Hermann von Helmholtz
+    frp: Hermann von Helmholtz
+    frr: Hermann von Helmholtz
+    fur: Hermann von Helmholtz
+    fy: Hermann von Helmholtz
+    ga: Hermann Ludwig Ferdinand von Helmholtz
+    gd: Hermann von Helmholtz
+    gl: Hermann von Helmholtz
+    gsw: Hermann von Helmholtz
+    gv: Hermann von Helmholtz
+    he: הרמן פון הלמהולץ
+    hi: हेल्महोल्ज़
+    hr: Hermann von Helmholtz
+    hsb: Hermann von Helmholtz
+    ht: Hermann von Helmholtz
+    hu: Hermann Ludwig von Helmholtz
+    hy: Հերման Հելմհոլց
+    ia: Hermann von Helmholtz
+    id: Hermann von Helmholtz
+    ie: Hermann von Helmholtz
+    ilo: Hermann von Helmholtz
+    io: Hermann von Helmholtz
+    is: Hermann von Helmholtz
+    it: Hermann von Helmholtz
+    ja: ヘルマン・フォン・ヘルムホルツ
+    jv: Hermann von Helmholtz
+    ka: ჰერმან ჰელმჰოლცი
+    kg: Hermann von Helmholtz
+    kk: Герман Гельмгольц
+    ko: 헤르만 폰 헬름홀츠
+    ksh: Hermann von Helmholtz
+    kw: Hermann von Helmholtz
+    ky: Гельмгольц
+    lb: Hermann von Helmholtz
+    lfn: Hermann von Helmholtz
+    li: Hermann von Helmholtz
+    lij: Hermann von Helmholtz
+    lt: Hermann von Helmholtz
+    lv: Hermanis fon Helmholcs
+    map-bms: Hermann von Helmholtz
+    mg: Hermann Ludwig von Helmholtz
+    min: Hermann von Helmholtz
+    mk: Херман фон Хелмолц
+    ml: ഹെർമൻ വോൺ ഹെൽംഹോൾട്സ്
+    ms: Hermann von Helmholtz
+    mul: Hermann von Helmholtz
+    mus: Hermann von Helmholtz
+    mwl: Hermann von Helmholtz
+    nan: Hermann von Helmholtz
+    nap: Hermann von Helmholtz
+    nb: Hermann von Helmholtz
+    nds: Hermann von Helmholtz
+    nds-nl: Hermann von Helmholtz
+    nl: Hermann von Helmholtz
+    nn: Hermann von Helmholtz
+    nrm: Hermann von Helmholtz
+    oc: Hermann von Helmholtz
+    olo: Hermann von Helmholtz
+    pam: Hermann von Helmholtz
+    pap: Hermann von Helmholtz
+    pcd: Hermann von Helmholtz
+    pdc: Hermann von Helmholtz
+    pdt: Hermann von Helmholtz
+    pfl: Hermann von Helmholtz
+    pl: Hermann von Helmholtz
+    pms: Hermann von Helmholtz
+    pnb: ہرمن فان ہیلمہولٹز
+    pt: Hermann von Helmholtz
+    pt-br: Hermann von Helmholtz
+    rm: Hermann von Helmholtz
+    rmy: Hermann von Helmholtz
+    ro: Hermann von Helmholtz
+    roa-tara: Hermann von Helmholtz
+    ru: Герман Гельмгольц
+    rup: Hermann von Helmholtz
+    sc: Hermann von Helmholtz
+    scn: Hermann von Helmholtz
+    sco: Hermann von Helmholtz
+    sdc: Hermann von Helmholtz
+    se: Hermann von Helmholtz
+    sei: Hermann von Helmholtz
+    sgs: Hermann von Helmholtz
+    sh: Hermann von Helmholtz
+    sk: Hermann von Helmholtz
+    sl: Hermann von Helmholtz
+    sli: Hermann von Helmholtz
+    sq: Hermann von Helmholtz
+    sr: Херман фон Хелмхолц
+    sr-ec: Херман фон Хелмхолц
+    sr-el: Hermann von Helmholtz
+    stq: Hermann von Helmholtz
+    su: Hermann von Helmholtz
+    sv: Hermann von Helmholtz
+    sw: Hermann von Helmholtz
+    szl: Hermann von Helmholtz
+    th: แฮร์มัน ฟ็อน เฮ็ล์มฮ็อลทซ์
+    tl: Hermann von Helmholtz
+    tpi: Hermann von Helmholtz
+    tr: Hermann von Helmholtz
+    ty: Hermann von Helmholtz
+    uk: Герман фон Гельмгольц
+    uz: Gelmgols German Lyudvig Ferdinand
+    vec: Hermann von Helmholtz
+    vi: Hermann von Helmholtz
+    vls: Hermann von Helmholtz
+    vmf: Hermann von Helmholtz
+    vo: Hermann von Helmholtz
+    vro: Hermann von Helmholtz
+    wa: Hermann von Helmholtz
+    war: Hermann von Helmholtz
+    wo: Hermann von Helmholtz
+    wuu: 赫尔曼·冯·亥姆霍兹
+    xh: Hermann von Helmholtz
+    xmf: ჰერმან ფონ ჰელმჰოლცი
+    yo: Hermann von Helmholtz
+    yue: 亥姆霍茲
+    zea: Hermann von Helmholtz
+    zh: 赫尔曼·冯·亥姆霍兹
+    zu: Hermann von Helmholtz
 ---
-
 # [[Hermann_von_Helmholtz]] 
 
 #is_/same_as :: [[WD~Hermann_von_Helmholtz,60024]] 

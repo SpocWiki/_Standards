@@ -1,24 +1,35 @@
 ---
-has_time_started: 1841-01-01 
-has_time_stopped: 2002-01-01 
+has_time_started: 1841-01-01
+has_time_stopped: 2002-01-01
 aliases:
-  - London Charivari
-  - Punch(Magazine)
+- London Charivari
+- Panč (magazin)
+- Punch
+- Punch (majalah)
+- Punch (časopis)
+- Punch(Magazine)
+- Панч
+- פאנץ'
+- مجلة اللكمة
+- مجله پانچ
+- パンチ
+- 笨拙雜誌
+- 펀치
 has_id_wikidata: Q849759
 editor: '[[_Standards/WikiData/WD~Mark_Lemon,680327]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 founded_by: '[[_Standards/WikiData/WD~Henry_Mayhew,1227273]]'
 named_after: '[[_Standards/WikiData/WD~Punch,61314378]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Punch,_Volume_I,109378623]]'
-  - '[[_Standards/WikiData/WD~Punch,_Volume_CXXIII,109378919]]'
-  - '[[_Standards/WikiData/WD~Punch,_Volume_129,109380213]]'
-  - '[[_Standards/WikiData/WD~Punch,_Volume_130,109383669]]'
-  - '[[_Standards/WikiData/WD~Punch,_Volume_Cxliv,109385031]]'
-  - '[[_Standards/WikiData/WD~Punch,_Volume_cxxxii,109483773]]'
+- '[[_Standards/WikiData/WD~Punch,_Volume_I,109378623]]'
+- '[[_Standards/WikiData/WD~Punch,_Volume_CXXIII,109378919]]'
+- '[[_Standards/WikiData/WD~Punch,_Volume_129,109380213]]'
+- '[[_Standards/WikiData/WD~Punch,_Volume_130,109383669]]'
+- '[[_Standards/WikiData/WD~Punch,_Volume_Cxliv,109385031]]'
+- '[[_Standards/WikiData/WD~Punch,_Volume_cxxxii,109483773]]'
 instance_of: '[[_Standards/WikiData/WD~satirical_magazine,111914189]]'
 publication_date: 1841-07-17T00:00:00Z
 start_time: 1841-01-01T00:00:00Z
@@ -29,19 +40,57 @@ country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 ISSN_L: 2365-6824
 ISSN:
-  - 2365-6824
-  - 2059-9293
+- 2365-6824
+- 2059-9293
 British_Library_system_number: 008549761
 official_website:
-  - http://punch.uni-hd.de
-  - http://www.ub.uni-heidelberg.de/helios/fachinfo/www/kunst/digilit/punch.html
-  - http://digi.ub.uni-heidelberg.de/diglit/punch_london_charivari
+- http://punch.uni-hd.de
+- http://www.ub.uni-heidelberg.de/helios/fachinfo/www/kunst/digilit/punch.html
+- http://digi.ub.uni-heidelberg.de/diglit/punch_london_charivari
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Punch%20volume%201%20cover%20%281841%29.png
 title: Punch or The London charivari
 Commons_category: Punch, or the London Charivari
 dissolved_abolished_or_demolished_date: 2002-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: مجلة اللكمة
+    be-tarask: Punch
+    bs: Punch
+    ca: Punch
+    cs: Punch
+    cy: Punch
+    da: Punch
+    de: Punch
+    en: Punch
+    eo: Punch
+    es: Punch
+    eu: Punch
+    fa: مجله پانچ
+    fi: Punch
+    fr: Punch
+    frr: Punch
+    he: פאנץ'
+    id: Punch (majalah)
+    it: Punch
+    ja: パンチ
+    kk: Панч
+    ko: 펀치
+    la: Punch
+    nb: Punch
+    nl: Punch
+    nn: Punch
+    pl: Punch
+    pt: Punch
+    ru: Панч
+    sh: Punch
+    sk: Punch (časopis)
+    sl: Punch
+    sr: Panč (magazin)
+    sv: Punch
+    tr: Punch
+    uk: Punch
+    zh: 笨拙雜誌
 ---
-
 # [[Punch(Magazine)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Punch,849759|WD~Punch,849759]]  

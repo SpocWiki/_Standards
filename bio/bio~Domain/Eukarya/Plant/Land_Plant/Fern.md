@@ -1,23 +1,123 @@
 ---
 aliases:
-  - Filicopsida
-  - Fern
-  - Ferns
-  - Polypodiopsida
-  - Polypodiophyta
+- adderblad
+- ampanga
+- Aya
+- bregne
+- bregner
+- Burknar
+- Chachĩ
+- Eğrelti
+- falguera
+- Falguièra
+- Faren
+- Farne
+- Fearplanten
+- felce
+- Fento
+- ferigă
+- Fern
+- Ferns
+- Fetchire
+- Fiere
+- Filetta
+- Filicophyta
+- Filicopsida
+- filiko
+- Filis
+- Filix
+- fougère
+- Foujè
+- Févece
+- Gáiskešattut
+- haraszt
+- huruwhenua
+- Iratze
+- Jimbi (ngeli ya mimea)
+- Kapraďorosty
+- Karroolee
+- Koeh-lūi
+- Misili
+- Ngành Dương xỉ
+- Ormbunksväxter
+- Pako
+- Paku
+- paku pakis
+- Papartis
+- Papartūnai
+- Paparžaugi
+- Paprat
+- Paprati
+- paprocie
+- Polypodiophyta
+- Polypodiopsida
+- praprotnice
+- Pteridophyta
+- Raden
+- Raki-raki
+- reden
+- renniagh
+- Rhedynen
+- samambaia
+- Saniaiset
+- Serxes
+- Sõnajalgtaimed
+- tumbuhan paku
+- Tutuwuhan Paku
+- Vaarn
+- varens
+- Výtrusné cievnaté rastliny
+- ʻakau tengaefuefu
+- Φτέρη
+- абагасыманнар
+- Верьгизэнь пазава
+- Кӹртнилӱлӹшвлӓ
+- Ошсьӧктан
+- папаратнікі
+- папороті
+- папоротники
+- Папоротниктер
+- папрат
+- папрати
+- Сарахсҳо
+- Упа курăк йышĕ
+- Ферн
+- цил
+- Қырыққұлақ
+- שרכנים
+- أفرسيڭ
+- برسيان
+- سراخس
+- سرخس
+- چماز
+- उन्यू
+- टेरिडोफाइटा
+- ফার্ন
+- ফাৰ্ণ
+- பன்னம்
+- ಜರೀಗಿಡ
+- പന്നൽച്ചെടി
+- เฟิร์น
+- ၵုတ်ႇ
+- გვიმრანაირნი
+- ፈርን
+- シダ類
+- 真蕨类
+- 真蕨類
+- 양치류
 has_id_wikidata: Q80005
 title: Filicopsida
 different_from:
-  - '[[_Standards/WikiData/WD~Pteridophyta,178249]]'
-  - '[[_Standards/WikiData/WD~Paprocie,_West_Pomeranian_Voivodeship,7133133]]'
+- '[[_Standards/WikiData/WD~Pteridophyta,178249]]'
+- '[[_Standards/WikiData/WD~Paprocie,_West_Pomeranian_Voivodeship,7133133]]'
 part_of: '[[_Standards/WikiData/WD~Pteridophyta,178249]]'
 taxon_known_by_this_common_name:
-  - '[[_Standards/WikiData/WD~Polypodiopsida,373615]]'
-  - '[[_Standards/WikiData/WD~Polypodiophyta,98522578]]'
+- '[[_Standards/WikiData/WD~Polypodiopsida,373615]]'
+- '[[_Standards/WikiData/WD~Polypodiophyta,98522578]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Fiernat,13038932]]'
 instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Fern_classification,122463201]]'
@@ -31,8 +131,131 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 Iconclass_notation: 25G51
 MeSH_tree_code: B01.875.800.575.912.063
 UMLS_CUI: C1081576
+dv_has_:
+  name_:
+    am: ፈርን
+    an: Pteridophyta
+    ar: سراخس
+    ary: أفرسيڭ
+    as: ফাৰ্ণ
+    ast: Filicopsida
+    bcl: Pako
+    be: папаратнікі
+    be-tarask: папаратнікі
+    bg: папрат
+    bjn: Paku
+    bn: ফার্ন
+    br: Raden
+    bs: Paprat
+    ca: falguera
+    ceb: Pako
+    co: Filetta
+    cs: Kapraďorosty
+    cv: Упа курăк йышĕ
+    cy: Rhedynen
+    da: bregne
+    de: Farne
+    el: Φτέρη
+    en: fern
+    eo: filiko
+    es: Filicopsida
+    et: Sõnajalgtaimed
+    eu: Iratze
+    fa: سرخس
+    fi: Saniaiset
+    fr: fougère
+    fy: Fearplanten
+    ga: Pteridophyta
+    gl: Fento
+    gn: Chachĩ
+    gv: renniagh
+    he: שרכנים
+    hi: टेरिडोफाइटा
+    hr: Paprati
+    ht: Foujè
+    hu: haraszt
+    ia: Filicophyta
+    id: tumbuhan paku
+    ilo: pako
+    io: Filiko
+    is: Burknar
+    it: felce
+    ja: シダ類
+    jv: paku pakis
+    ka: გვიმრანაირნი
+    kk: Қырыққұлақ
+    kn: ಜರೀಗಿಡ
+    ko: 양치류
+    koi: Ошсьӧктан
+    ku: Serxes
+    ku-latn: serxes
+    kw: reden
+    ky: Папоротниктер
+    la: Filix
+    lb: Faren
+    lfn: Filis
+    li: Vaarn
+    ln: Misili
+    lt: Papartūnai
+    lv: Paparžaugi
+    mg: ampanga
+    mi: huruwhenua
+    mk: папрат
+    ml: പന്നൽച്ചെടി
+    mrj: Кӹртнилӱлӹшвлӓ
+    ms: Paku pakis
+    myv: Верьгизэнь пазава
+    mzn: چماز
+    nan: Koeh-lūi
+    nap: Févece
+    nb: bregner
+    nds-nl: adderblad
+    ne: उन्यू
+    nl: varens
+    nn: bregne
+    oc: Falguièra
+    om: Karroolee
+    os: цил
+    pl: paprocie
+    pt: samambaia
+    qu: Raki-raki
+    ro: ferigă
+    ru: папоротники
+    sah: Ферн
+    sco: Fern
+    sd: برسيان
+    se: Gáiskešattut
+    sgs: Papartis
+    sh: Paprati
+    shn: ၵုတ်ႇ
+    sk: Výtrusné cievnaté rastliny
+    sl: praprotnice
+    sq: Fiere
+    sr: папрати
+    sr-ec: папрати
+    su: Tutuwuhan Paku
+    sv: Ormbunksväxter
+    sw: Jimbi (ngeli ya mimea)
+    ta: பன்னம்
+    tg: Сарахсҳо
+    th: เฟิร์น
+    tl: Pako
+    to: ʻakau tengaefuefu
+    tr: Eğrelti
+    tt: абагасыманнар
+    tt-cyrl: абагасыманнар
+    tw: Aya
+    uk: папороті
+    vi: Ngành Dương xỉ
+    wa: Fetchire
+    war: Pako
+    wuu: 真蕨类
+    yue: 真蕨類
+    zh: 真蕨類
+    zh-cn: 真蕨类
+    zh-hans: 真蕨类
+    zh-hant: 真蕨類
 ---
-
 # [[Fern]]
 
 Ferns 

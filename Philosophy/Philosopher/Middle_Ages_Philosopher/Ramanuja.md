@@ -1,21 +1,51 @@
 ---
 aliases:
-  - Ramanuja
-  - Rāmāṉujam
-  - Rāmānuja
-  - Ramanujacharya
+- Ramanudźa
+- Ramanudža
+- Ramanuja
+- Ramanujacharya
+- Ramanuya
+- Ramanuĝa
+- Rámánudzsa
+- Rámánudža
+- Rāmānuja
+- Rāmāṉujam
+- Рамануджа
+- רמנוג'ה
+- رامانج
+- رامانوجا
+- رامنوغا
+- रामानुज
+- रामानुजाचार्य
+- रामानुजाचार्यः
+- श्रीनिवास रामानुजन्
+- রামানুজ
+- ৰামানুজাচাৰ্য
+- ਰਾਮਾਨੁਜ
+- રામાનુજાચાર્ય
+- ରାମାନୁଜ
+- இராமானுசர்
+- రామానుజాచార్యుడు
+- ರಾಮಾನುಜ
+- ರಾಮಾನುಜಾಚಾರ್ಯ
+- രാമാനുജൻ
+- รามานุชะ
+- ラーマーヌジャ
+- 罗摩奴阇
+- 羅摩奴闍
+- 라마누자
 has_id_wikidata: Q1741798
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 subject_has_role:
-  - '[[_Standards/WikiData/WD~supercentenarian,1200828]]'
-  - '[[_Standards/WikiData/WD~centenarian,2944360]]'
+- '[[_Standards/WikiData/WD~supercentenarian,1200828]]'
+- '[[_Standards/WikiData/WD~centenarian,2944360]]'
 occupation:
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_death: '[[_Standards/WikiData/WD~Srirangam,2304639]]'
 place_of_birth: '[[_Standards/WikiData/WD~Sriperumbudur,2547993]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -31,8 +61,75 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20Of%20Equality
 ISNI: 0000000101922144
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RAMANUDZHA.html
 Commons_category: Ramanujacharya
+dv_has_:
+  name_:
+    ar: رامنوغا
+    as: ৰামানুজাচাৰ্য
+    be-tarask: Рамануджа
+    bg: Рамануджа
+    bn: রামানুজ
+    ca: Ramanuja
+    cs: Rámánudža
+    da: Ramanuja
+    de: Ramanuja
+    en: Ramanuja
+    eo: Ramanuĝa
+    es: Ramanuya
+    eu: Ramanuja
+    fa: رامانوجا
+    fi: Ramanuja
+    fr: Ramanuja
+    gl: Ramanuja
+    gom: रामानुजाचार्य
+    gu: રામાનુજાચાર્ય
+    he: רמנוג'ה
+    hi: रामानुजाचार्य
+    hif: Ramanuja
+    hu: Rámánudzsa
+    id: Ramanuja
+    it: Rāmānuja
+    ja: ラーマーヌジャ
+    kn: ರಾಮಾನುಜ
+    ko: 라마누자
+    lt: Ramanudža
+    mag: रामानुजाचार्य
+    mai: श्रीनिवास रामानुजन्
+    mg: Ramanuja
+    ml: രാമാനുജൻ
+    mr: रामानुज
+    ms: Ramanujacharya
+    nb: Ramanuja
+    ne: रामानुजाचार्य
+    new: रामानुज
+    nl: Ramanuja
+    nn: Ramanuja
+    or: ରାମାନୁଜ
+    pa: ਰਾਮਾਨੁਜ
+    pi: रामानुज
+    pl: Ramanudźa
+    pt: Ramanuja
+    pt-br: Ramanuja
+    ro: Ramanuja
+    ru: Рамануджа
+    sa: रामानुजाचार्यः
+    sh: Ramanuja
+    sk: Rámánudža
+    sl: Ramanudža
+    sq: Ramanuja
+    sr: Ramanudža
+    sv: Ramanuya
+    ta: இராமானுசர்
+    tcy: ರಾಮಾನುಜಾಚಾರ್ಯ
+    te: రామానుజాచార్యుడు
+    th: รามานุชะ
+    tr: Ramanuja
+    uk: Рамануджа
+    ur: رامانج
+    vi: Ramanuja
+    yue: 羅摩奴闍
+    zh: 羅摩奴闍
+    zh-hans: 罗摩奴阇
 ---
-
 # [[Ramanuja]] 
 
 #is_/same_as :: [[WD~Ramanuja,1741798]] 

@@ -1,4 +1,93 @@
-
+---
+has_id_wikidata: Q130995
+dv_has_:
+  name_:
+    af: Dromaeosauridae
+    ar: درومايوصوريات
+    ast: Dromaeosauridae
+    az: Dromeozavridlər
+    bg: дромеозаврови
+    ca: dromeosàurids
+    ceb: Dromaeosauridae
+    cs: Dromaeosauridae
+    da: Dromaeosauridae
+    de: Dromaeosauridae
+    el: Δρομαιοσαυρίδες
+    en: Dromaeosauridae
+    en-ca: Dromaeosauridae
+    en-gb: Dromaeosauridae
+    eo: Dromeosaŭredoj
+    es: Dromaeosauridae
+    eu: Dromaeosauridae
+    fa: درومیوسوریدها
+    fi: Dromaeosaurit
+    fr: Dromaeosauridae
+    ga: Dromaeosauridae
+    gl: Dromaeosauridae
+    he: דרומאוזאוריים
+    hr: Dromeosauridi
+    hu: Dromaeosauridae
+    hy: դրոմեոզավրիդներ
+    ia: Dromaeosauridae
+    id: Dromaeosauridae
+    it: Dromaeosauridae
+    ja: ドロマエオサウルス科
+    ko: 드로마에오사우루스과
+    la: Dromaeosauridae
+    lt: Dromaeosauridae
+    ms: Dromaeosauridae
+    mul: Dromaeosauridae
+    nl: Dromaeosauridae
+    or: Dromaeosaur
+    pl: Dromeozaury
+    pt: Dromaeosauridae
+    pt-br: Dromaeosauridae
+    ro: Dromaeosauridae
+    ru: Дромеозавриды
+    sco: Dromaeosauridae
+    sh: Dromeosauridi
+    sk: Dromeosaury
+    sl: Dromaeosauridae
+    sq: Dromaeosauridae
+    sv: Dromaeosaurider
+    tl: Dromaeosauridae
+    tr: Dromaeosauridae
+    uk: Дромеозавриди
+    vec: Dromaeosauridae
+    vi: Dromaeosauridae
+    vo: Dromaeosauridae
+    war: Dromaeosauridae
+    zh: 驰龙科
+    zh-cn: 驰龙科
+    zh-hans: 驰龙科
+    zh-hant: 馳龍科
+    zh-hk: 馳龍科
+    zh-sg: 驰龙科
+    zh-tw: 馳龍科
+aliases:
+- Dromaeosaur
+- Dromaeosauridae
+- Dromaeosaurider
+- Dromaeosaurit
+- Dromeosauridi
+- Dromeosaury
+- Dromeosaŭredoj
+- dromeosàurids
+- Dromeozaury
+- Dromeozavridlər
+- Δρομαιοσαυρίδες
+- Дромеозавриди
+- Дромеозавриды
+- дромеозаврови
+- դրոմեոզավրիդներ
+- דרומאוזאוריים
+- درومايوصوريات
+- درومیوسوریدها
+- ドロマエオサウルス科
+- 馳龍科
+- 驰龙科
+- 드로마에오사우루스과
+---
 # [[Dromaeosauridae]] 
 
 #is_/same_as :: [[Dromaeosauridae,]]

@@ -1,16 +1,127 @@
 ---
 aliases:
+- amber's route
+- Biashara ya misafara
+- handelsroute
+- handelsrute
+- Handelsstrasse
+- Handelsstraße
+- handelsväg
+- Jalur perdagangan
+- kaubatee
+- kauppareitti
+- komerca vojo
+- obchodná cesta
+- obchodní cesta
+- prekybinis kelias
+- rota de comércio
+- route commerciale
+- ruta comercial
+- Ruta ng kalakalan
+- rută comercială
+- szlak handlowy
+- ticari yol
+- Ticarət yolu
+- tirdzniecības ceļš
+- trade route
+- Trgovačka ruta
+- trgovska pot
+- trádbhealach
+- verslunarleið
+- via commerciale
+- Via commercii
+- εμπορική οδός
+- гандлёвы шлях
+- Йохк-эцаран некъаш
+- торговий шлях
+- торговый путь
+- трговски пат
+- առևտրային ճանապարհ
+- נתיב סחר
+- سوداګريزه لاره
+- طريق تجارية
+- مسیر تجاری
+- واپاري رستا
+- ވިޔަފާރި މަގު
+- व्यापार मार्ग
+- বাণিজ্য পথ
+- வணிகப் பாதை
+- เส้นทางการค้า
+- 交易路
+- 貿易航線
+- 貿易路線
+- 贸易航线
+- 贸易路线
+- 무역로
 has_id_wikidata: Q405155
 subclass_of:
-  - "[[_Standards/WikiData/WD~thoroughfare,83620]]"
-  - "[[_Standards/WikiData/WD~trade_route,1574938]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Trade_route,7276661]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~thoroughfare,83620]]'
+- '[[_Standards/WikiData/WD~trade_route,1574938]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Trade_route,7276661]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 Colon_Classification: U641
 GeoNames_feature_code: R.RTE
 Commons_category: Trade routes
+dv_has_:
+  name_:
+    ar: طريق تجارية
+    az: Ticarət yolu
+    be: гандлёвы шлях
+    be-tarask: гандлёвы шлях
+    bn: বাণিজ্য পথ
+    ca: ruta comercial
+    ce: Йохк-эцаран некъаш
+    cs: obchodní cesta
+    de: Handelsstraße
+    de-ch: Handelsstrasse
+    dv: ވިޔަފާރި މަގު
+    el: εμπορική οδός
+    en: trade route
+    eo: komerca vojo
+    es: ruta comercial
+    et: kaubatee
+    fa: مسیر تجاری
+    fi: kauppareitti
+    fr: route commerciale
+    ga: trádbhealach
+    he: נתיב סחר
+    hi: व्यापार मार्ग
+    hy: առևտրային ճանապարհ
+    id: Jalur perdagangan
+    is: verslunarleið
+    it: via commerciale
+    ja: 交易路
+    ka: amber's route
+    ko: 무역로
+    la: Via commercii
+    lt: prekybinis kelias
+    lv: tirdzniecības ceļš
+    mk: трговски пат
+    nb: handelsrute
+    nl: handelsroute
+    pl: szlak handlowy
+    ps: سوداګريزه لاره
+    pt: rota de comércio
+    ro: rută comercială
+    ru: торговый путь
+    sd: واپاري رستا
+    sh: Trgovačka ruta
+    sk: obchodná cesta
+    sl: trgovska pot
+    sr: Trgovačka ruta
+    sv: handelsväg
+    sw: Biashara ya misafara
+    ta: வணிகப் பாதை
+    th: เส้นทางการค้า
+    tl: Ruta ng kalakalan
+    tr: ticari yol
+    uk: торговий шлях
+    yue: 貿易路線
+    zh: 貿易路線
+    zh-cn: 贸易路线
+    zh-hans: 贸易航线
+    zh-hant: 貿易航線
 ---
-
 # [[Trade_Route]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~trade_route,405155]] 

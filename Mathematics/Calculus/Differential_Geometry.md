@@ -1,30 +1,166 @@
 ---
 aliases:
-  - Differential geometry
-  - Differentialgeometrie
-  - Differential_Geometry
-  - Differential Geometry
+- diferansiyel geometri
+- diferenciala geometrio
+- diferencialinė geometrija
+- diferencialna geometrija
+- Diferencijalna geometrija
+- diferenciálna geometria
+- diferenciální geometrie
+- diferentsiaalgeomeetria
+- differenciálgeometria
+- Differensial geometriya
+- differensial həndəsə
+- differensialgeometri
+- differentiaalgeometria
+- differentiaaligeometria
+- differentiaalmeetkunde
+- Differential geometry
+- differentialgeometri
+- Differentialgeometrie
+- Differential_Geometry
+- differentiálageometriija
+- Diperensiyal na heometriya
+- geoiméadracht dhifreálach
+- geometreg gwahaniaethol
+- Geometri diferensial
+- Geometri pembezaan
+- geometria diferencial
+- Geometria diferentzial
+- geometria differentialis
+- geometria differenziale
+- geometria różniczkowa
+- geometrie diferențială
+- geometría diferencial
+- Gjometria diferenciale
+- géométrie différentielle
+- hình học vi phân
+- jeometria diferensial
+- Xeometría diferencial
+- Διαφορική γεωμετρία
+- диференціальна геометрія
+- диференцијална геометрија
+- Диференциална геометрия
+- Дифференциаллă геометри
+- дифференциаль геометрия һәм топология
+- дифференциальная геометрия и топология
+- дыферэнцыяльная геаметрыя
+- дыфэрэнцыяльная геамэтрыя
+- ҳандасаи дифференсиал
+- դիֆերենցիալ երկրաչափություն
+- גאומטריה דיפרנציאלית
+- דיפערענציאל-געאמעטריע
+- هندسة تفاضلية
+- هندسه دیفرانسیل
+- अवकल ज्यामिति
+- ব্যবকলনীয় জ্যামিতি
+- เรขาคณิตเชิงอนุพันธ์
+- ဒစ်ဖရန်ရှယ်ဂျီဩမေတြီ
+- დიფერენციალური გეომეტრია და ტოპოლოგია
+- 微分几何
+- 微分幾何
+- 微分幾何学
+- 미분기하학
 has_id_wikidata: Q188444
 instance_of:
-  - '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
-  - '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 part_of:
-  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
-  - '[[_Standards/WikiData/WD~geometry,8087]]'
+- '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~geometry,8087]]'
 subclass_of: '[[_Standards/WikiData/WD~geometry,8087]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Line%20elements.svg
 Stack_Exchange_tag:
-  - https://hsm.stackexchange.com/tags/differential-geometry
-  - https://math.stackexchange.com/tags/differential-geometry
-  - https://matheducators.stackexchange.com/tags/differential-geometry
-  - https://mathematica.stackexchange.com/tags/differential-geometry
-  - https://mathoverflow.net/tags/dg.differential-geometry
-  - https://physics.stackexchange.com/tags/differential-geometry
+- https://hsm.stackexchange.com/tags/differential-geometry
+- https://math.stackexchange.com/tags/differential-geometry
+- https://matheducators.stackexchange.com/tags/differential-geometry
+- https://mathematica.stackexchange.com/tags/differential-geometry
+- https://mathoverflow.net/tags/dg.differential-geometry
+- https://physics.stackexchange.com/tags/differential-geometry
 Commons_category: Differential geometry
 Krugosvet_article: nauka_i_tehnika/matematika/DIFFERENTSIALNAYA_GEOMETRIYA.html
+dv_has_:
+  name_:
+    ar: هندسة تفاضلية
+    ast: Xeometría diferencial
+    az: differensial həndəsə
+    ba: дифференциаль геометрия һәм топология
+    be: дыферэнцыяльная геаметрыя
+    be-tarask: дыфэрэнцыяльная геамэтрыя
+    bg: Диференциална геометрия
+    bn: ব্যবকলনীয় জ্যামিতি
+    ca: geometria diferencial
+    cs: diferenciální geometrie
+    cv: Дифференциаллă геометри
+    cy: geometreg gwahaniaethol
+    da: differentialgeometri
+    de: Differentialgeometrie
+    el: Διαφορική γεωμετρία
+    en: differential geometry
+    eo: diferenciala geometrio
+    es: geometría diferencial
+    et: diferentsiaalgeomeetria
+    eu: Geometria diferentzial
+    fa: هندسه دیفرانسیل
+    fi: differentiaaligeometria
+    fr: géométrie différentielle
+    ga: geoiméadracht dhifreálach
+    gl: Xeometría diferencial
+    he: גאומטריה דיפרנציאלית
+    hi: अवकल ज्यामिति
+    hr: Diferencijalna geometrija
+    hu: differenciálgeometria
+    hy: դիֆերենցիալ երկրաչափություն
+    id: Geometri diferensial
+    io: Diferenciala geometrio
+    it: geometria differenziale
+    ja: 微分幾何学
+    ka: დიფერენციალური გეომეტრია და ტოპოლოგია
+    ko: 미분기하학
+    la: geometria differentialis
+    lfn: jeometria diferensial
+    lrc: هندسه دیفرانسیل
+    lt: diferencialinė geometrija
+    mk: диференцијална геометрија
+    ms: Geometri pembezaan
+    my: ဒစ်ဖရန်ရှယ်ဂျီဩမေတြီ
+    nb: differensialgeometri
+    nl: differentiaalmeetkunde
+    nn: differensialgeometri
+    pl: geometria różniczkowa
+    pt: geometria diferencial
+    pt-br: geometria diferencial
+    ro: geometrie diferențială
+    ru: дифференциальная геометрия и топология
+    se: differentiálageometriija
+    sh: Diferencijalna geometrija
+    sk: diferenciálna geometria
+    sl: diferencialna geometrija
+    smn: differentiaalgeometria
+    sms: differentiaalgeometria
+    sq: Gjometria diferenciale
+    sr: диференцијална геометрија
+    sv: differentialgeometri
+    tg: ҳандасаи дифференсиал
+    th: เรขาคณิตเชิงอนุพันธ์
+    tl: Diperensiyal na heometriya
+    tr: diferansiyel geometri
+    tt: дифференциаль геометрия һәм топология
+    uk: диференціальна геометрія
+    uz: Differensial geometriya
+    vi: hình học vi phân
+    wuu: 微分几何
+    yi: דיפערענציאל-געאמעטריע
+    yue: 微分幾何
+    zh: 微分几何
+    zh-cn: 微分几何
+    zh-hans: 微分几何
+    zh-hant: 微分幾何
+    zh-hk: 微分幾何
+    zh-sg: 微分几何
+    zh-tw: 微分幾何
 ---
-
 # [[Differential_Geometry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Differential_geometry,188444|WD~Differential_geometry,188444]] 

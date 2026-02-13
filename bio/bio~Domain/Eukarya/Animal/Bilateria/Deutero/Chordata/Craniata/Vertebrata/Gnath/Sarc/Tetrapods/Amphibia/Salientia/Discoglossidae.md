@@ -1,9 +1,71 @@
 ---
 aliases:
-  - Discoglossidae
+- Alytidae
+- Alítid
+- Apaļmēles krupju dzimta
+- Chʼał biyęęzhii neiyéhé dóó bikʼéí
+- Discoglossidae
+- Họ Cóc bà mụ
+- levykielisammakot
+- painted frogs
+- ropuszkowate
+- Круглоязикові
+- круглоязычные
+- кръглоезични жаби
+- עגולשוניים
+- ضفاجيات
+- قورباغههای نگارین
+- วงศ์คางคกหมอตำแย
+- ენამრგვალასებრნი
+- 盘舌蟾科
+- 盤舌蟾科
+- 산파개구리과
 title: Discoglossidae
+has_id_wikidata: Q4747664
+dv_has_:
+  name_:
+    ar: ضفاجيات
+    ast: Alytidae
+    bg: кръглоезични жаби
+    ca: Alítid
+    ceb: Alytidae
+    cs: Alytidae
+    de: Alytidae
+    en: painted frogs
+    es: Alytidae
+    fa: قورباغههای نگارین
+    fi: levykielisammakot
+    fr: Alytidae
+    ga: Alytidae
+    he: עגולשוניים
+    hu: Alytidae
+    ia: Alytidae
+    it: Alytidae
+    ka: ენამრგვალასებრნი
+    ko: 산파개구리과
+    la: Alytidae
+    lv: Apaļmēles krupju dzimta
+    mt: Alytidae
+    mul: Alytidae
+    nl: Alytidae
+    nv: Chʼał biyęęzhii neiyéhé dóó bikʼéí
+    pl: ropuszkowate
+    pt: Alytidae
+    ro: Alytidae
+    ru: круглоязычные
+    sl: Alytidae
+    sq: Alytidae
+    sr: Alytidae
+    sv: Alytidae
+    th: วงศ์คางคกหมอตำแย
+    tr: Alytidae
+    uk: Круглоязикові
+    vi: Họ Cóc bà mụ
+    war: Alytidae
+    zh: 盘舌蟾科
+    zh-cn: 盤舌蟾科
+    zh-hans: 盘舌蟾科
 ---
-
 # [[Discoglossidae]]
 
 Discoglossid frogs 

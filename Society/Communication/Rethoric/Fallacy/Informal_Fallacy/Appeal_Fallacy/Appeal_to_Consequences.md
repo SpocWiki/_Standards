@@ -1,13 +1,65 @@
 ---
 aliases:
-  - Appeal to consequences
+- Apeliavimas į pasekmes
+- apel·lació a les conseqüències
+- Appeal to consequences
+- Appell til konsekvens
+- Argumento ad consequentiam
+- Argumentum ad consequentiam
+- sklicevanje na posledice
+- Vin vào hệ quả
+- Προσφυγή στις επιπτώσεις
+- аргумент к последствиям
+- зварот да наступстваў
+- звернення до наслідків
+- позоваване на последствия
+- אד קונסקוונטיאם
+- توسل بالنتيجة
+- توسل به نتیجهها
+- การอุทธรณ์โดยผล
+- 結果に訴える論証
+- 訴諸後果
+- 诉诸后果
+- 결과에 호소
 has_id_wikidata: Q777000
-instance_of: "[[_Standards/WikiData/WD~fallacy,186150]]"
-subclass_of: "[[_Standards/WikiData/WD~argument,186619]]"
-different_from: "[[_Standards/WikiData/WD~argumentum_ad_baculum,752275]]"
-part_of: "[[_Standards/WikiData/WD~wishful_thinking,8154361]]"
+instance_of: '[[_Standards/WikiData/WD~fallacy,186150]]'
+subclass_of: '[[_Standards/WikiData/WD~argument,186619]]'
+different_from: '[[_Standards/WikiData/WD~argumentum_ad_baculum,752275]]'
+part_of: '[[_Standards/WikiData/WD~wishful_thinking,8154361]]'
+dv_has_:
+  name_:
+    ar: توسل بالنتيجة
+    be-tarask: зварот да наступстваў
+    bg: позоваване на последствия
+    br: Argumentum ad consequentiam
+    ca: apel·lació a les conseqüències
+    el: Προσφυγή στις επιπτώσεις
+    en: appeal to consequences
+    es: Argumento ad consequentiam
+    eu: Argumento ad consequentiam
+    fa: توسل به نتیجهها
+    fi: Argumentum ad consequentiam
+    fr: argumentum ad consequentiam
+    he: אד קונסקוונטיאם
+    hu: Argumentum ad consequentiam
+    it: Argumentum ad consequentiam
+    ja: 結果に訴える論証
+    ko: 결과에 호소
+    lt: Apeliavimas į pasekmes
+    nb: Appell til konsekvens
+    pfl: Argumentum ad consequentiam
+    pl: Argumentum ad consequentiam
+    pt: argumentum ad consequentiam
+    ru: аргумент к последствиям
+    sl: sklicevanje na posledice
+    th: การอุทธรณ์โดยผล
+    uk: звернення до наслідків
+    vi: Vin vào hệ quả
+    zh: 訴諸後果
+    zh-hans: 诉诸后果
+    zh-hant: 訴諸後果
+    zh-hk: 訴諸後果
 ---
-
 # [[Appeal_to_Consequences]] 
 
 #is_/same_as :: [[WD~Appeal_to_Consequences,777000]] 

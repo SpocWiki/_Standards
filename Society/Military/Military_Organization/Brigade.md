@@ -1,4 +1,147 @@
-
+---
+has_id_wikidata: Q102356
+dv_has_:
+  name_:
+    ar: لواء
+    arz: لواء (وحده عسكريه)
+    ast: Brigada
+    az: Briqada
+    be: брыгада
+    be-tarask: брыгада
+    bg: бригада
+    bn: ব্রিগেড
+    bs: Brigada
+    bxr: Бригада
+    ca: brigada
+    cs: brigáda
+    cv: Бригада
+    cy: brigâd
+    da: brigade
+    de: Brigade
+    el: ταξιαρχία
+    en: brigade
+    en-ca: brigade
+    en-gb: brigade
+    eo: brigado
+    es: brigada
+    et: Brigaad
+    eu: brigada
+    fa: تیپ
+    fi: prikaati
+    fr: brigade
+    fy: Brigade
+    he: חֲטִיבָה
+    hr: Brigada
+    hsb: brigada
+    hu: dandár
+    hy: բրիգադ
+    id: Brigade
+    ie: Brigade
+    ig: brigeedi
+    io: Brigado
+    it: brigata
+    ja: 旅団
+    jv: Brigade
+    kk: Бригада
+    kk-arab: برىيگادا
+    kk-cn: برىيگادا
+    kk-cyrl: Бригада
+    kk-kz: Бригада
+    kk-latn: Brïgada
+    kk-tr: Brïgada
+    ko: 여단
+    ko-kp: 려단
+    ku: Lîwa
+    ku-arab: لیوا
+    ku-latn: Lîwa
+    ky: Бригада
+    lt: brigada
+    lv: Brigāde
+    mk: Бригада
+    mr: ब्रिगेड
+    ms: Briged
+    nan: Lú-thoân
+    nb: brigade
+    nds: Brigaad
+    ne: ब्रिगेड
+    nl: brigade
+    nn: brigade
+    oc: brigade
+    pl: brygada
+    pt: brigada
+    ro: brigadă
+    ru: бригада
+    sh: brigada
+    sk: Brigáda (vojenská jednotka)
+    sl: brigada
+    sq: Brigada (njësi ushtarake)
+    sr: бригада
+    sr-ec: бригада
+    sr-el: brigada
+    sv: brigad
+    ta: பிரிகேட்
+    tg: Бригада
+    tg-latn: Brigada
+    th: กองพลน้อย
+    tr: tugay
+    tt: Бригада
+    uk: бригада
+    vi: lữ đoàn
+    wuu: 旅
+    yi: בריגאַדע
+    yue: 旅 (軍隊編制)
+    zh: 旅
+    zh-cn: 旅
+    zh-hans: 旅
+    zh-hant: 旅
+    zh-hk: 旅
+    zh-sg: 旅
+    zh-tw: 旅
+aliases:
+- Brigaad
+- brigad
+- brigada
+- Brigada (njësi ushtarake)
+- brigade
+- brigado
+- brigadă
+- brigata
+- Briged
+- brigeedi
+- brigáda
+- Brigáda (vojenská jednotka)
+- brigâd
+- Brigāde
+- Briqada
+- brygada
+- Brïgada
+- dandár
+- Lîwa
+- Lú-thoân
+- lữ đoàn
+- prikaati
+- tugay
+- ταξιαρχία
+- бригада
+- брыгада
+- բրիգադ
+- בריגאַדע
+- חֲטִיבָה
+- برىيگادا
+- تیپ
+- لواء
+- لواء (وحده عسكريه)
+- لیوا
+- ब्रिगेड
+- ব্রিগেড
+- பிரிகேட்
+- กองพลน้อย
+- 旅
+- 旅 (軍隊編制)
+- 旅団
+- 려단
+- 여단
+---
 # [[Brigade]] 
 
 

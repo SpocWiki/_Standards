@@ -1,12 +1,45 @@
 ---
 aliases:
+- 2-διάνυσμα
+- 2-ベクトル
+- Bivecteur
+- bivector
+- Bivektor
+- bivetor
+- bivettore
+- duvektoro
+- бивектор
+- دوبردار
+- متجه ازدواجي
+- দ্বিভেক্টর
+- 二重向量
+- 이중벡터
 has_id_wikidata: Q663908
-subclass_of: "[[_Standards/WikiData/WD~multivector,2377336]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+subclass_of: '[[_Standards/WikiData/WD~multivector,2377336]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wedge%20product.JPG
 Commons_category: Bivectors
+dv_has_:
+  name_:
+    ar: متجه ازدواجي
+    bn: দ্বিভেক্টর
+    ca: bivector
+    de: Bivektor
+    el: 2-διάνυσμα
+    en: bivector
+    eo: duvektoro
+    es: Bivector
+    fa: دوبردار
+    fr: Bivecteur
+    it: bivettore
+    ja: 2-ベクトル
+    ko: 이중벡터
+    pt: bivetor
+    ru: бивектор
+    sl: Bivektor
+    sv: Bivektor
+    zh: 二重向量
 ---
-
 # [[BiVector]] 
 
 #is_/same_as :: [[WD~Bivector,663908]] 

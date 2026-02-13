@@ -1,33 +1,117 @@
 ---
 aliases:
+- csillagvihar-galaxis
+- Galaksi Starburst
+- Galaktyka burzy gwiazdowej
+- galassia starburst
+- Galaxa con biltu estelar
+- Galaxia con brote estelar
+- Galaxia starbust
+- galaxie à sursaut de formation d'étoiles
+- galàxia amb brot estel·lar
+- galáxia starburst
+- hvězdotvorná galaxie
+- izar-sorkuntza handiko galaxia
+- starburst galaksija
+- Starburst galaktika
+- starburst galaxy
+- starburstgalakse
+- starburstgalax
+- Starburstgalaxie
+- starburststelsel
+- starpleniĝa galaksio
+- steruitbarsting-sterrestelsel
+- Thiên hà bùng nổ sao
+- Tähepurske galaktika
+- Tähtiryöppygalaksi
+- Yıldız patlama galaksisi
+- Zvezdorodna galaksija
+- Αστρογόνος γαλαξίας
+- ѕвездородна галаксија
+- галактика зі спалахом зореутворення
+- галактика со вспышкой звездообразования
+- галяктыка з зоркаўтварэньнем
+- مجرة انفجار نجمي
+- کهکشان ستارهفشان
+- ดาราจักรชนิดดาวกระจาย
+- スターバースト銀河
+- 星暴星系
+- 폭발적 항성 생성 은하
 has_id_wikidata: Q726611
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-subclass_of: "[[_Standards/WikiData/WD~galaxy,318]]"
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Antennae%20galaxies%20xl.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/NGC%201569.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Antennae%20galaxies%20xl.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/NGC%201569.jpg
 Commons_category: Starburst galaxies
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Starburst_galaxy,726611|WD~Starburst_galaxy,726611]]"
-    - "[[/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy|Starburst_Galaxy]]"
-    - "[[/_public/Astronomy/Star_System/Galaxy/Starburst_Galaxy.public|Starburst_Galaxy.public]]"
-    - "[[/_internal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.internal|Starburst_Galaxy.internal]]"
-    - "[[/_protect/Astronomy/Star_System/Galaxy/Starburst_Galaxy.protect|Starburst_Galaxy.protect]]"
-    - "[[/_private/Astronomy/Star_System/Galaxy/Starburst_Galaxy.private|Starburst_Galaxy.private]]"
-    - "[[/_personal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.personal|Starburst_Galaxy.personal]]"
-    - "[[/_secret/Astronomy/Star_System/Galaxy/Starburst_Galaxy.secret|Starburst_Galaxy.secret]]"
+  - '[[../../../WikiData/WD~Starburst_galaxy,726611|WD~Starburst_galaxy,726611]]'
+  - '[[/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy|Starburst_Galaxy]]'
+  - '[[/_public/Astronomy/Star_System/Galaxy/Starburst_Galaxy.public|Starburst_Galaxy.public]]'
+  - '[[/_internal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.internal|Starburst_Galaxy.internal]]'
+  - '[[/_protect/Astronomy/Star_System/Galaxy/Starburst_Galaxy.protect|Starburst_Galaxy.protect]]'
+  - '[[/_private/Astronomy/Star_System/Galaxy/Starburst_Galaxy.private|Starburst_Galaxy.private]]'
+  - '[[/_personal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.personal|Starburst_Galaxy.personal]]'
+  - '[[/_secret/Astronomy/Star_System/Galaxy/Starburst_Galaxy.secret|Starburst_Galaxy.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Starburst_galaxy,726611|WD~Starburst_galaxy,726611]]"
-  - "[[/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy|Starburst_Galaxy]]"
-  - "[[/_public/Astronomy/Star_System/Galaxy/Starburst_Galaxy.public|Starburst_Galaxy.public]]"
-  - "[[/_internal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.internal|Starburst_Galaxy.internal]]"
-  - "[[/_protect/Astronomy/Star_System/Galaxy/Starburst_Galaxy.protect|Starburst_Galaxy.protect]]"
-  - "[[/_private/Astronomy/Star_System/Galaxy/Starburst_Galaxy.private|Starburst_Galaxy.private]]"
-  - "[[/_personal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.personal|Starburst_Galaxy.personal]]"
-  - "[[/_secret/Astronomy/Star_System/Galaxy/Starburst_Galaxy.secret|Starburst_Galaxy.secret]]"
+- '[[../../../WikiData/WD~Starburst_galaxy,726611|WD~Starburst_galaxy,726611]]'
+- '[[/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy|Starburst_Galaxy]]'
+- '[[/_public/Astronomy/Star_System/Galaxy/Starburst_Galaxy.public|Starburst_Galaxy.public]]'
+- '[[/_internal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.internal|Starburst_Galaxy.internal]]'
+- '[[/_protect/Astronomy/Star_System/Galaxy/Starburst_Galaxy.protect|Starburst_Galaxy.protect]]'
+- '[[/_private/Astronomy/Star_System/Galaxy/Starburst_Galaxy.private|Starburst_Galaxy.private]]'
+- '[[/_personal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.personal|Starburst_Galaxy.personal]]'
+- '[[/_secret/Astronomy/Star_System/Galaxy/Starburst_Galaxy.secret|Starburst_Galaxy.secret]]'
+dv_has_:
+  name_:
+    af: steruitbarsting-sterrestelsel
+    ar: مجرة انفجار نجمي
+    ast: Galaxa con biltu estelar
+    be-tarask: галяктыка з зоркаўтварэньнем
+    ca: galàxia amb brot estel·lar
+    cs: hvězdotvorná galaxie
+    de: Starburstgalaxie
+    el: Αστρογόνος γαλαξίας
+    en: starburst galaxy
+    en-ca: Starburst galaxy
+    en-gb: starburst galaxy
+    eo: starpleniĝa galaksio
+    es: Galaxia con brote estelar
+    et: Tähepurske galaktika
+    eu: izar-sorkuntza handiko galaxia
+    fa: کهکشان ستارهفشان
+    fi: Tähtiryöppygalaksi
+    fr: galaxie à sursaut de formation d'étoiles
+    gl: Galaxia starbust
+    hr: Starburst galaktika
+    hu: csillagvihar-galaxis
+    id: Galaksi Starburst
+    it: galassia starburst
+    ja: スターバースト銀河
+    ko: 폭발적 항성 생성 은하
+    lb: Starburstgalaxie
+    mk: ѕвездородна галаксија
+    nb: starburstgalakse
+    nl: starburststelsel
+    pl: Galaktyka burzy gwiazdowej
+    pt: galáxia starburst
+    pt-br: Galáxia starburst
+    ru: галактика со вспышкой звездообразования
+    sl: starburst galaksija
+    sr: Zvezdorodna galaksija
+    sv: starburstgalax
+    th: ดาราจักรชนิดดาวกระจาย
+    tr: Yıldız patlama galaksisi
+    uk: галактика зі спалахом зореутворення
+    vi: Thiên hà bùng nổ sao
+    wuu: 星暴星系
+    yue: 星暴星系
+    zh: 星暴星系
+    zh-hans: 星暴星系
+    zh-hant: 星暴星系
+    zh-hk: 星暴星系
 ---
-
 # [[Starburst_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Starburst_galaxy,726611|WD~Starburst_galaxy,726611]]  

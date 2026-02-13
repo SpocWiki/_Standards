@@ -1,18 +1,83 @@
 ---
 aliases:
+- Klesmer
+- klezmer
+- klezmermusikk
+- klezmero
+- klezmers
+- muzyka klezmerska
+- Клезмер
+- Клезьмер
+- כליזמר
+- קלעזמער
+- كليزمر
+- کلزمر
+- کلیضمر
+- クレズマー
+- 克莱兹默
+- 클레즈머
 has_id_wikidata: Q212944
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-  - "[[_Standards/WikiData/WD~music_tradition_of_Jewish_ethnic_groups,108823158]]"
-subclass_of: "[[_Standards/WikiData/WD~Jewish_music,1716019]]"
-practiced_by: "[[_Standards/WikiData/WD~klezmer_musician,3197853]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_of_Ukraine,116447753]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+- '[[_Standards/WikiData/WD~music_tradition_of_Jewish_ethnic_groups,108823158]]'
+subclass_of: '[[_Standards/WikiData/WD~Jewish_music,1716019]]'
+practiced_by: '[[_Standards/WikiData/WD~klezmer_musician,3197853]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~National_Inventory_of_Intangible_Cultural_Heritage_of_Ukraine,116447753]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KLEZPO.png
-Dewey_Decimal_Classification: "781.62924"
+Dewey_Decimal_Classification: 781.62924
 Commons_category: Klezmer
+dv_has_:
+  name_:
+    ar: كليزمر
+    arz: كليزمر
+    ast: Klezmer
+    bar: Klesmer
+    be-tarask: Клезьмер
+    bg: Клезмер
+    ca: klezmer
+    cs: klezmer
+    cy: Klezmer
+    da: klezmer
+    de: Klezmer
+    en: klezmer
+    en-us: klezmer
+    eo: klezmero
+    es: Klezmer
+    et: Klezmer
+    eu: Klezmer
+    fa: کلزمر
+    fi: Klezmer
+    fr: klezmer
+    fy: Klezmer
+    he: כליזמר
+    hr: Klezmer
+    hu: klezmer
+    id: klezmer
+    it: klezmer
+    ja: クレズマー
+    ko: 클레즈머
+    lv: klezmers
+    mk: клезмер
+    nb: klezmer
+    nl: klezmer
+    nn: klezmermusikk
+    oc: Klezmer
+    pl: muzyka klezmerska
+    pt: klezmer
+    ro: klezmer
+    ru: клезмер
+    sh: Klezmer
+    sk: klezmer
+    sr: Klezmer
+    sv: klezmer
+    tr: klezmer
+    uk: клезмер
+    ur: کلیضمر
+    vro: Klezmer
+    yi: קלעזמער
+    zh: 克莱兹默
 ---
-
 # [[Klezmer]] 
 
 #is_/same_as :: [[WD~Klezmer,212944]] 

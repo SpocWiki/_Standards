@@ -1,20 +1,156 @@
 ---
 aliases:
+- dearadh gréasáin
+- Deseño web
+- Dhismaha websiteka
+- diseño web
+- Diseñu web
+- disseny web
+- dylunio gwefannau
+- Izdelava spletnih strani
+- Malpersazî
+- Nhazi webụsaịtị
+- Perancangan web
+- retejodezajno
+- Thiết kế web
+- veb dizajn
+- Veb-dizayn
+- Veebidisain
+- vevdesign
+- web design
+- web diseinu
+- Web dizajn
+- Web dizayn
+- Web tasarımı
+- Web-dizajn
+- Web-бет дизайн
+- webbdesign
+- Webdesign
+- webdizájn
+- Webový dizajn
+- website-design
+- σχεδιασμός ιστοσελίδων
+- веб дизајн
+- Веб-дизајн
+- веб-дизайн
+- Вэб дизайн
+- вэб-дызайн
+- Уеб дизайн
+- уредување на мрежни места
+- Ցանցակայքի նախագծում
+- עיצוב אתר אינטרנט
+- تصميم الويب
+- تصميم مواقع انترنت
+- طراحی وب
+- طرز ویب
+- مالپەرسازی
+- वेब डिजाइन
+- ওয়েব ডিজাইন
+- વેબ ડિઝાઈન
+- வலை வடிவமைப்பு
+- వెబ్ డిజైన్
+- വെബ് ഡിസൈൻ
+- ვებ-დიზაინი
+- ვებდიზაინი
+- ウェブデザイン
+- 網頁設計
+- 网页设计
+- 웹 디자인
 has_id_wikidata: Q190637
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-subclass_of: "[[_Standards/WikiData/WD~web_development,386275]]"
-practiced_by: "[[_Standards/WikiData/WD~website_designer,11288554]]"
-IAB_code: "629"
-OmegaWiki_Defined_Meaning: "485679"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+subclass_of: '[[_Standards/WikiData/WD~web_development,386275]]'
+practiced_by: '[[_Standards/WikiData/WD~website_designer,11288554]]'
+IAB_code: 629
+OmegaWiki_Defined_Meaning: 485679
 Commons_category: Web design
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/WebDesignBooks.JPG
 Mastodon_instance_URL: https://toot.cafe
 subreddit: web_design
 GitHub_topic: webdesign
+dv_has_:
+  name_:
+    ar: تصميم الويب
+    arz: تصميم مواقع انترنت
+    ast: Diseñu web
+    az: Veb-dizayn
+    be: вэб-дызайн
+    be-tarask: вэб-дызайн
+    bg: Уеб дизайн
+    bn: ওয়েব ডিজাইন
+    bs: Web dizajn
+    ca: disseny web
+    cs: webdesign
+    cy: dylunio gwefannau
+    da: website-design
+    de: Webdesign
+    el: σχεδιασμός ιστοσελίδων
+    en: web design
+    en-us: web design
+    eo: retejodezajno
+    es: diseño web
+    et: Veebidisain
+    eu: web diseinu
+    fa: طراحی وب
+    fi: web design
+    fr: web design
+    ga: dearadh gréasáin
+    gl: Deseño web
+    gu: વેબ ડિઝાઈન
+    he: עיצוב אתר אינטרנט
+    hi: वेब डिजाइन
+    hr: Web dizajn
+    hu: webdizájn
+    hy: Ցանցակայքի նախագծում
+    id: Perancangan web
+    ig: Nhazi webụsaịtị
+    it: web design
+    ja: ウェブデザイン
+    ka: ვებ-დიზაინი
+    kk: Web-бет дизайн
+    ko: 웹 디자인
+    ku: Malpersazî
+    ku-arab: مالپەرسازی
+    ku-latn: Malpersazî
+    lb: Webdesign
+    mk: уредување на мрежни места
+    ml: വെബ് ഡിസൈൻ
+    mn: Вэб дизайн
+    nb: webdesign
+    nl: webdesign
+    nn: vevdesign
+    pl: web design
+    pt: web design
+    pt-br: web design
+    ro: web design
+    ru: веб-дизайн
+    sh: Web-dizajn
+    sk: Webový dizajn
+    sl: Izdelava spletnih strani
+    so: Dhismaha websiteka
+    sr: Веб-дизајн
+    sr-ec: веб дизајн
+    sr-el: veb dizajn
+    sv: webbdesign
+    ta: வலை வடிவமைப்பு
+    te: వెబ్ డిజైన్
+    tr: Web tasarımı
+    uk: веб-дизайн
+    ur: طرز ویب
+    uz: Web dizayn
+    vi: Thiết kế web
+    wuu: 网页设计
+    xmf: ვებდიზაინი
+    yue: 網頁設計
+    zh: 网页设计
+    zh-cn: 网页设计
+    zh-hans: 网页设计
+    zh-hant: 網頁設計
+    zh-hk: 網頁設計
+    zh-sg: 网页设计
+    zh-tw: 網頁設計
 ---
-
 # [[Web_Design]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Web_design,190637|WD~Web_design,190637]]   

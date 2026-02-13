@@ -1,120 +1,156 @@
 ---
 aliases:
-  - Robin_Williams
-  - Robin Williams
-  - Robin McLaurin Williams
-  - Williams,Robin
+- Robertinus Williams
+- Robin McLaurin Williams
+- Robin Vilyams
+- Robin Williams
+- Robins Viljamss
+- Robin_Williams
+- Williams,Robin
+- Ρόμπιν Ουίλιαμς
+- Робін Ўільямз
+- Робін Вільямс
+- Робін Уільямс
+- Робин Вилијамс
+- Робин Уилиамс
+- Робин Уильямс
+- Робин Уилямз
+- Робин Уилямс
+- Ռոբին Ուիլյամս
+- רובין ויליאמס
+- رابن ولیمز
+- رابین ویلیامز
+- روبن ويليامز
+- روبِن وِلیمٕز
+- ڕۆبن ویلیامز
+- रॉबिन विलियम्स
+- रॉबिन विल्यम्स
+- রবিন উইলিয়ামস
+- ৰবীন ৱিলিয়ামছ
+- ਰੋਬਿਨ ਵਿਲੀਅਮਸ
+- ராபின் வில்லியம்ஸ்
+- റോബിൻ വില്യംസ്
+- โรบิน วิลเลียมส์
+- ရော်ဘင်ဝီလျံစ်
+- რობინ უილიამსი
+- ሮቢን ዊልያምስ
+- ロビン・ウィリアムズ
+- 罗宾·威廉姆斯
+- 罗宾·威廉斯
+- 羅賓·威廉斯
+- 羅賓威廉斯
+- 로빈 윌리엄스
 has_id_wikidata: Q83338
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Motion_Picture,723830]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
-  - "[[_Standards/WikiData/WD~Critics'_Choice_Movie_Award_for_Best_Actor,922322]]"
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Variety_Series,1265782]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_Motion_Picture,1627408]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Drama_Series,2604800]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_On_Screen_Duo,4220900]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Variety,_Music,_or_Comedy_Special,7243516]]'
-  - '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_in_a_Musical_or_Comedy,11789125]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Actor,602299]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Supporting_Actor_Razzie_Award,641316]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Motion_Picture,723830]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
+- "[[_Standards/WikiData/WD~Critics'_Choice_Movie_Award_for_Best_Actor,922322]]"
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Lead_Actor_in_a_Comedy_Series,989442]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Writing_for_a_Variety_Series,1265782]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_Motion_Picture,1627408]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Guest_Actor_in_a_Drama_Series,2604800]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_On_Screen_Duo,4220900]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Male_Performance,4220901]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Variety,_Music,_or_Comedy_Special,7243516]]'
+- '[[_Standards/WikiData/WD~Satellite_Award_for_Best_Actor_in_a_Musical_or_Comedy,11789125]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Mel_Brooks,104266]]'
-  - '[[_Standards/WikiData/WD~George_Carlin,150651]]'
-  - '[[_Standards/WikiData/WD~Peter_Sellers,177984]]'
-  - '[[_Standards/WikiData/WD~Richard_Pryor,294912]]'
-  - '[[_Standards/WikiData/WD~Chuck_Jones,312657]]'
-  - '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
-  - '[[_Standards/WikiData/WD~Jack_Paar,1587581]]'
-  - '[[_Standards/WikiData/WD~Stanley_Kubrick,2001]]'
-  - '[[_Standards/WikiData/WD~Jonathan_Winters,4538]]'
+- '[[_Standards/WikiData/WD~Mel_Brooks,104266]]'
+- '[[_Standards/WikiData/WD~George_Carlin,150651]]'
+- '[[_Standards/WikiData/WD~Peter_Sellers,177984]]'
+- '[[_Standards/WikiData/WD~Richard_Pryor,294912]]'
+- '[[_Standards/WikiData/WD~Chuck_Jones,312657]]'
+- '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
+- '[[_Standards/WikiData/WD~Jack_Paar,1587581]]'
+- '[[_Standards/WikiData/WD~Stanley_Kubrick,2001]]'
+- '[[_Standards/WikiData/WD~Jonathan_Winters,4538]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
-  - '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
-  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actor,1258647]]'
-  - '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Actor,1259362]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actor,1790292]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture,518675]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Motion_Picture_Musical_or_Comedy,670282]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Comedic_Performance,905247]]'
+- '[[_Standards/WikiData/WD~Disney_Legends,1150306]]'
+- '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Supporting_Actor,1258647]]'
+- '[[_Standards/WikiData/WD~Saturn_Award_for_Best_Actor,1259362]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Male_Actor_in_a_Supporting_Role,1260789]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Comedy_Album,1326340]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Actor,1790292]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Album_for_Children,5593741]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Jane_Fonda_Humanitarian_Award,133176391]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~dyslexia,132971]]'
-  - '[[_Standards/WikiData/WD~Lewy_body_dementia,1331905]]'
-  - '[[_Standards/WikiData/WD~depression,4340209]]'
-  - '[[_Standards/WikiData/WD~alcoholism,15326]]'
+- '[[_Standards/WikiData/WD~dyslexia,132971]]'
+- '[[_Standards/WikiData/WD~Lewy_body_dementia,1331905]]'
+- '[[_Standards/WikiData/WD~depression,4340209]]'
+- '[[_Standards/WikiData/WD~alcoholism,15326]]'
 cause_of_death: '[[_Standards/WikiData/WD~hanging_to_death,175111]]'
 record_label: '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
 child:
-  - '[[_Standards/WikiData/WD~Zelda_Williams,187337]]'
-  - '[[_Standards/WikiData/WD~Cody_Williams,41705859]]'
-  - '[[_Standards/WikiData/WD~Zachary_Williams,61473291]]'
+- '[[_Standards/WikiData/WD~Zelda_Williams,187337]]'
+- '[[_Standards/WikiData/WD~Cody_Williams,41705859]]'
+- '[[_Standards/WikiData/WD~Zachary_Williams,61473291]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~dubbing,187657]]'
-  - '[[_Standards/WikiData/WD~acting,222749]]'
+- '[[_Standards/WikiData/WD~dubbing,187657]]'
+- '[[_Standards/WikiData/WD~acting,222749]]'
 place_of_burial: '[[_Standards/WikiData/WD~San_Francisco_Bay,232264]]'
 occupation:
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~mime_artist,674067]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~stand_up_comedian,18545066]]'
-  - '[[_Standards/WikiData/WD~audiobook_narrator,20856740]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~mime_artist,674067]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~stand_up_comedian,18545066]]'
+- '[[_Standards/WikiData/WD~audiobook_narrator,20856740]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 residence:
-  - '[[_Standards/WikiData/WD~Sea_Cliff,427116]]'
-  - '[[_Standards/WikiData/WD~Bloomfield_Hills,885355]]'
-  - '[[_Standards/WikiData/WD~Paradise_Cay,7134252]]'
-  - '[[_Standards/WikiData/WD~Chicago,1297]]'
-  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
+- '[[_Standards/WikiData/WD~Sea_Cliff,427116]]'
+- '[[_Standards/WikiData/WD~Bloomfield_Hills,885355]]'
+- '[[_Standards/WikiData/WD~Paradise_Cay,7134252]]'
+- '[[_Standards/WikiData/WD~Chicago,1297]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
-  - '[[_Standards/WikiData/WD~Claremont_McKenna_College,5126318]]'
-  - '[[_Standards/WikiData/WD~College_of_Marin,5146760]]'
-  - '[[_Standards/WikiData/WD~Detroit_Country_Day_School,5265893]]'
-  - '[[_Standards/WikiData/WD~Durham_College,5316482]]'
-  - '[[_Standards/WikiData/WD~Redwood_High_School,7306508]]'
+- '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
+- '[[_Standards/WikiData/WD~Claremont_McKenna_College,5126318]]'
+- '[[_Standards/WikiData/WD~College_of_Marin,5146760]]'
+- '[[_Standards/WikiData/WD~Detroit_Country_Day_School,5265893]]'
+- '[[_Standards/WikiData/WD~Durham_College,5316482]]'
+- '[[_Standards/WikiData/WD~Redwood_High_School,7306508]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
 notable_work: '[[_Standards/WikiData/WD~What_Dreams_May_Come,839434]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~intervention,959298]]'
-  - '[[_Standards/WikiData/WD~heart_surgery,113585438]]'
+- '[[_Standards/WikiData/WD~intervention,959298]]'
+- '[[_Standards/WikiData/WD~heart_surgery,113585438]]'
 place_of_death:
-  - '[[_Standards/WikiData/WD~Tiburon,984603]]'
-  - '[[_Standards/WikiData/WD~Paradise_Cay,7134252]]'
+- '[[_Standards/WikiData/WD~Tiburon,984603]]'
+- '[[_Standards/WikiData/WD~Paradise_Cay,7134252]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]'
-  - '[[_Standards/WikiData/WD~SAG_AFTRA,16781948]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild,1141037]]'
+- '[[_Standards/WikiData/WD~SAG_AFTRA,16781948]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Robin,1158139]]'
-  - '[[_Standards/WikiData/WD~McLaurin,113009891]]'
+- '[[_Standards/WikiData/WD~Robin,1158139]]'
+- '[[_Standards/WikiData/WD~McLaurin,113009891]]'
 family_name: '[[_Standards/WikiData/WD~Williams,1688722]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Marsha_Garces,1902714]]'
-  - '[[_Standards/WikiData/WD~Susan_Schneider,17505003]]'
-  - '[[_Standards/WikiData/WD~Valerie_Velardi,47739341]]'
+- '[[_Standards/WikiData/WD~Marsha_Garces,1902714]]'
+- '[[_Standards/WikiData/WD~Susan_Schneider,17505003]]'
+- '[[_Standards/WikiData/WD~Valerie_Velardi,47739341]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Robert_Williams,9311159]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
@@ -131,8 +167,8 @@ languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Robin_Williams,27252]]'
-  - '[[_Standards/WikiData/WD~Robbie_Williams,47875]]'
+- '[[_Standards/WikiData/WD~Robin_Williams,27252]]'
+- '[[_Standards/WikiData/WD~Robbie_Williams,47875]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 work_location: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -155,8 +191,187 @@ ISNI: 0000000118795962
 Libris_URI: 42gkrmvn0t3c69z
 Plex_person_key: 5d7768253c3c2a001fbcad1e
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/UILYAMS_ROBIN.html
+dv_has_:
+  name_:
+    ace: Robin Williams
+    af: Robin Williams
+    am: ሮቢን ዊልያምስ
+    an: Robin Williams
+    ar: روبن ويليامز
+    arz: روبن ويليامز
+    as: ৰবীন ৱিলিয়ামছ
+    ast: Robin Williams
+    ay: Robin Williams
+    az: Robin Vilyams
+    ba: Робин Уильямс
+    bar: Robin Williams
+    bcl: Robin Williams
+    be: Робін Уільямс
+    be-tarask: Робін Ўільямз
+    bg: Робин Уилямс
+    bi: Robin Williams
+    bn: রবিন উইলিয়ামস
+    br: Robin Williams
+    bs: Robin Williams
+    ca: Robin Williams
+    cbk-zam: Robin Williams
+    ceb: Robin Williams
+    ckb: ڕۆبن ویلیامز
+    co: Robin Williams
+    cs: Robin Williams
+    cy: Robin Williams
+    da: Robin Williams
+    de: Robin Williams
+    de-at: Robin Williams
+    de-ch: Robin Williams
+    diq: Robin Williams
+    dsb: Robin Williams
+    el: Ρόμπιν Ουίλιαμς
+    eml: Robin Williams
+    en: Robin Williams
+    en-ca: Robin Williams
+    en-gb: Robin Williams
+    eo: Robin Williams
+    es: Robin Williams
+    et: Robin Williams
+    eu: Robin Williams
+    ext: Robin Williams
+    fa: رابین ویلیامز
+    fi: Robin Williams
+    fo: Robin Williams
+    fr: Robin Williams
+    frp: Robin Williams
+    fur: Robin Williams
+    fy: Robin Williams
+    ga: Robin Williams
+    gd: Robin Williams
+    gl: Robin Williams
+    gsw: Robin Williams
+    guw: Robin Williams
+    gv: Robin Williams
+    ha: Robin williams
+    hak: Robin Williams
+    he: רובין ויליאמס
+    hi: रॉबिन विलियम्स
+    hif: Robin Williams
+    hr: Robin Williams
+    hu: Robin Williams
+    hy: Ռոբին Ուիլյամս
+    ia: Robin Williams
+    id: Robin Williams
+    ie: Robin Williams
+    ig: Robin Williams
+    ilo: Robin Williams
+    io: Robin Williams
+    is: Robin Williams
+    it: Robin Williams
+    ja: ロビン・ウィリアムズ
+    jv: Robin Williams
+    ka: რობინ უილიამსი
+    kaa: Robin Williams
+    kab: Robin Williams
+    kg: Robin Williams
+    kk: Робин Уильямс
+    ko: 로빈 윌리엄스
+    ks: روبِن وِلیمٕز
+    ku: Robin Williams
+    kw: Robin Williams
+    ky: Робин Уильямс
+    la: Robertinus Williams
+    lb: Robin Williams
+    lez: Робин Уильямс
+    lfn: Robin Williams
+    li: Robin Williams
+    lij: Robin Williams
+    lmo: Robin Williams
+    lt: Robin Williams
+    lv: Robins Viljamss
+    map-bms: Robin Williams
+    mg: Robin Williams
+    min: Robin Williams
+    mk: Робин Вилијамс
+    ml: റോബിൻ വില്യംസ്
+    mn: Робин Уильямс
+    mr: रॉबिन विल्यम्स
+    ms: Robin Williams
+    mt: Robin Williams
+    mul: Robin Williams
+    my: ရော်ဘင်ဝီလျံစ်
+    mzn: رابین ویلیامز
+    nah: Robin Williams
+    nan: Robin Williams
+    nap: Robin Williams
+    nb: Robin Williams
+    nds: Robin Williams
+    nds-nl: Robin Williams
+    nl: Robin Williams
+    nn: Robin Williams
+    nrm: Robin Williams
+    oc: Robin Williams
+    pa: ਰੋਬਿਨ ਵਿਲੀਅਮਸ
+    pap: Robin Williams
+    pcd: Robin Williams
+    pdc: Robin Williams
+    pl: Robin Williams
+    pms: Robin Williams
+    pnb: رابن ولیمز
+    pt: Robin Williams
+    pt-br: Robin Williams
+    qu: Robin Williams
+    rm: Robin Williams
+    rmy: Robin Williams
+    rn: Robin Williams
+    ro: Robin Williams
+    ru: Робин Уильямс
+    rup: Robin Williams
+    sc: Robin Williams
+    scn: Robin Williams
+    sco: Robin Williams
+    sgs: Robin Williams
+    sh: Robin Williams
+    sk: Robin Williams
+    sl: Robin Williams
+    sq: Robin Williams
+    sr: Робин Вилијамс
+    sr-el: Robin Williams
+    su: Robin Williams
+    sv: Robin Williams
+    sw: Robin Williams
+    szl: Robin Williams
+    ta: ராபின் வில்லியம்ஸ்
+    tg: Робин Уилямз
+    th: โรบิน วิลเลียมส์
+    tk: Robin Williams
+    tl: Robin Williams
+    tpi: Robin Williams
+    tr: Robin Williams
+    tt: Робин Уилиамс
+    tt-cyrl: Робин Уилиамс
+    uk: Робін Вільямс
+    ur: رابن ولیمز
+    uz: Robin Williams
+    vec: Robin Williams
+    vi: Robin Williams
+    vls: Robin Williams
+    vmf: Robin Williams
+    vo: Robin Williams
+    wa: Robin Williams
+    war: Robin Williams
+    wo: Robin Williams
+    wuu: 罗宾·威廉姆斯
+    xmf: რობინ უილიამსი
+    yo: Robin Williams
+    yue: 羅賓威廉斯
+    zh: 羅賓·威廉斯
+    zh-cn: 罗宾·威廉姆斯
+    zh-hans: 罗宾·威廉姆斯
+    zh-hant: 羅賓·威廉斯
+    zh-hk: 羅賓威廉斯
+    zh-my: 罗宾·威廉斯
+    zh-sg: 罗宾·威廉斯
+    zh-tw: 羅賓·威廉斯
+    zu: Robin Williams
 ---
-
 # [[[Williams,Robin]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Robin_Williams,83338|WD~Robin_Williams,83338]]  

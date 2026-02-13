@@ -1,124 +1,193 @@
 ---
 aliases:
-  - Western Dvina or the Väina
-  - Daugava
+- Abhainn Daugava
+- Afon Daugava
+- Daugava
+- Daugava (renirano)
+- Daugava Naddi
+- Daugava Nehri
+- Daugava River
+- Daugova
+- Dauguva
+- Dauqava
+- Daŭgavo
+- Duina
+- Duina Occidentalis
+- Duína Ocidental
+- Dvinà Occidental
+- Dvína
+- Düna
+- Düüna
+- Dźwina
+- Fiume Daugava
+- Fluvio Daugava
+- Gʻarbiy Dvina
+- Mendebaldeko Dvina
+- Mto Daugava
+- Rio Duína Ocidental
+- Río Dviná Occidental
+- Ríu Daugava
+- Salog Daugava
+- Sungai Daugava
+- Sông Tây Dvina
+- Vestlige Dvina
+- Väinäjoki
+- Westelijke Dvina
+- Western Dvina or the Väina
+- Westlike Dvina
+- Zahodna Dvina
+- Zapadna Dvina
+- Zapadna Dwina
+- Západná Dvina
+- Ğarbiy Dvina
+- Νταουγκάβα
+- Батыс Двина
+- Даугава
+- Двинаи Ғарбӣ
+- Дзвіна
+- Дзвина
+- Дзьвіна
+- Западна Двіна
+- Западна Двина
+- Западная Двина
+- Західна Двіна
+- Касвел Двина
+- Көнбайыш Двина
+- Көнбатыш Двина
+- Ныгуылæн Двина
+- Արևմտյան Դվինա
+- דווינה
+- دائوقاوا چایی
+- دائوگاوا
+- نهر دفينا
+- डुगावा नदी
+- दौगाव्हा नदी
+- แม่น้ำเดากาวา
+- ბჟადალ დვინა
+- დასავლეთის დვინა
+- ዳውጋቫ ወንዝ
+- ダウガヴァ川
+- 西德維納河
+- 道加瓦河
+- Ꙁападьна Дьвина
+- 다우가바강
 has_id_wikidata: Q8197
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Daugavpils,80021]]"
-  - "[[_Standards/WikiData/WD~Vitebsk_Region,185700]]"
-  - "[[_Standards/WikiData/WD~Salaspils_Municipality,2140753]]"
-  - "[[_Standards/WikiData/WD~Līvāni_Municipality,2277489]]"
-  - "[[_Standards/WikiData/WD~Aizkraukle_Municipality,97229842]]"
-  - "[[_Standards/WikiData/WD~Augšdaugava_Municipality,97230083]]"
-  - "[[_Standards/WikiData/WD~Jēkabpils_Municipality,97231194]]"
-  - "[[_Standards/WikiData/WD~Krāslava_Municipality,97231555]]"
-  - "[[_Standards/WikiData/WD~Ogre_Municipality,97232220]]"
-  - "[[_Standards/WikiData/WD~Ķekava_Municipality,97233440]]"
-  - "[[_Standards/WikiData/WD~Riga,1773]]"
-  - "[[_Standards/WikiData/WD~Tver_Oblast,2292]]"
-  - "[[_Standards/WikiData/WD~Smolensk_Oblast,2347]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Gulf_of_Riga,174731]]"
+- '[[_Standards/WikiData/WD~Daugavpils,80021]]'
+- '[[_Standards/WikiData/WD~Vitebsk_Region,185700]]'
+- '[[_Standards/WikiData/WD~Salaspils_Municipality,2140753]]'
+- '[[_Standards/WikiData/WD~Līvāni_Municipality,2277489]]'
+- '[[_Standards/WikiData/WD~Aizkraukle_Municipality,97229842]]'
+- '[[_Standards/WikiData/WD~Augšdaugava_Municipality,97230083]]'
+- '[[_Standards/WikiData/WD~Jēkabpils_Municipality,97231194]]'
+- '[[_Standards/WikiData/WD~Krāslava_Municipality,97231555]]'
+- '[[_Standards/WikiData/WD~Ogre_Municipality,97232220]]'
+- '[[_Standards/WikiData/WD~Ķekava_Municipality,97233440]]'
+- '[[_Standards/WikiData/WD~Riga,1773]]'
+- '[[_Standards/WikiData/WD~Tver_Oblast,2292]]'
+- '[[_Standards/WikiData/WD~Smolensk_Oblast,2347]]'
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Gulf_of_Riga,174731]]'
 tributary:
-  - "[[_Standards/WikiData/WD~Aiviekste_River,176087]]"
-  - "[[_Standards/WikiData/WD~Rosica,227777]]"
-  - "[[_Standards/WikiData/WD~Dzisna,432399]]"
-  - "[[_Standards/WikiData/WD~Ogre_River,629663]]"
-  - "[[_Standards/WikiData/WD~Obaĺ,967067]]"
-  - "[[_Standards/WikiData/WD~Mezha,1197635]]"
-  - "[[_Standards/WikiData/WD~Dubna_River,1263131]]"
-  - "[[_Standards/WikiData/WD~Kasplya,1798377]]"
-  - "[[_Standards/WikiData/WD~Velesa,1968246]]"
-  - "[[_Standards/WikiData/WD~Usvyacha,2093880]]"
-  - "[[_Standards/WikiData/WD~Lučosa,2365839]]"
-  - "[[_Standards/WikiData/WD~Vitsba_River,2368276]]"
-  - "[[_Standards/WikiData/WD~Drujka,2500841]]"
-  - "[[_Standards/WikiData/WD~Ušača,2583002]]"
-  - "[[_Standards/WikiData/WD~Palata_River,2596996]]"
-  - "[[_Standards/WikiData/WD~Drysa,2622731]]"
-  - "[[_Standards/WikiData/WD~Toropa,2624099]]"
-  - "[[_Standards/WikiData/WD~Ula,2984979]]"
-  - "[[_Standards/WikiData/WD~Sarjanka,3237797]]"
-  - "[[_Standards/WikiData/WD~Buļļupe,3738376]]"
-  - "[[_Standards/WikiData/WD~Pērse,3738689]]"
-  - "[[_Standards/WikiData/WD~Viata,3917432]]"
-  - "[[_Standards/WikiData/WD~Vužyca,3919435]]"
-  - "[[_Standards/WikiData/WD~Bieĺčyca,3919463]]"
-  - "[[_Standards/WikiData/WD~Dvinka,4155755]]"
-  - "[[_Standards/WikiData/WD~Zhizhitsa,4180133]]"
-  - "[[_Standards/WikiData/WD~Laucesa,4255256]]"
-  - "[[_Standards/WikiData/WD~Mārupīte,4282969]]"
-  - "[[_Standards/WikiData/WD~Meļņička,4289986]]"
-  - "[[_Standards/WikiData/WD~Olekte,4333537]]"
-  - "[[_Standards/WikiData/WD~Riga,4394405]]"
-  - "[[_Standards/WikiData/WD~Chernoguzka,4513945]]"
-  - "[[_Standards/WikiData/WD~Šuņica,4527878]]"
-  - "[[_Standards/WikiData/WD~Kryvinka,6503341]]"
-  - "[[_Standards/WikiData/WD~Meritsa,6516455]]"
-  - "[[_Standards/WikiData/WD~Strunka,6537489]]"
-  - "[[_Standards/WikiData/WD~Bikloža,13032209]]"
-  - "[[_Standards/WikiData/WD~Zmiejka,13032300]]"
-  - "[[_Standards/WikiData/WD~Sosnіca,13032382]]"
-  - "[[_Standards/WikiData/WD~Shevinka,13032416]]"
-  - "[[_Standards/WikiData/WD~Valynka,13132992]]"
-  - "[[_Standards/WikiData/WD~Lužasnianka,13133607]]"
-  - "[[_Standards/WikiData/WD~Kamenka,14917087]]"
-  - "[[_Standards/WikiData/WD~Nača,14917091]]"
-  - "[[_Standards/WikiData/WD~Mīlgrāvis,15720531]]"
-  - "[[_Standards/WikiData/WD~Poguļanka,15975671]]"
-  - "[[_Standards/WikiData/WD~Indrica,16358083]]"
-  - "[[_Standards/WikiData/WD~Biazuńja,17047162]]"
-  - "[[_Standards/WikiData/WD~Sechna,17094573]]"
-  - "[[_Standards/WikiData/WD~Somnica,17094601]]"
-  - "[[_Standards/WikiData/WD~Turaŭlianka,18380361]]"
-  - "[[_Standards/WikiData/WD~Hapaka_grāvis,18543577]]"
-  - "[[_Standards/WikiData/WD~Biarozavy_Mastok,18622313]]"
-  - "[[_Standards/WikiData/WD~Prudok,21392226]]"
-  - "[[_Standards/WikiData/WD~Jazvinka,21392519]]"
-  - "[[_Standards/WikiData/WD~Volta,21860134]]"
-  - "[[_Standards/WikiData/WD~Radžu,29787979]]"
-  - "[[_Standards/WikiData/WD~Korotyshka,109517824]]"
+- '[[_Standards/WikiData/WD~Aiviekste_River,176087]]'
+- '[[_Standards/WikiData/WD~Rosica,227777]]'
+- '[[_Standards/WikiData/WD~Dzisna,432399]]'
+- '[[_Standards/WikiData/WD~Ogre_River,629663]]'
+- '[[_Standards/WikiData/WD~Obaĺ,967067]]'
+- '[[_Standards/WikiData/WD~Mezha,1197635]]'
+- '[[_Standards/WikiData/WD~Dubna_River,1263131]]'
+- '[[_Standards/WikiData/WD~Kasplya,1798377]]'
+- '[[_Standards/WikiData/WD~Velesa,1968246]]'
+- '[[_Standards/WikiData/WD~Usvyacha,2093880]]'
+- '[[_Standards/WikiData/WD~Lučosa,2365839]]'
+- '[[_Standards/WikiData/WD~Vitsba_River,2368276]]'
+- '[[_Standards/WikiData/WD~Drujka,2500841]]'
+- '[[_Standards/WikiData/WD~Ušača,2583002]]'
+- '[[_Standards/WikiData/WD~Palata_River,2596996]]'
+- '[[_Standards/WikiData/WD~Drysa,2622731]]'
+- '[[_Standards/WikiData/WD~Toropa,2624099]]'
+- '[[_Standards/WikiData/WD~Ula,2984979]]'
+- '[[_Standards/WikiData/WD~Sarjanka,3237797]]'
+- '[[_Standards/WikiData/WD~Buļļupe,3738376]]'
+- '[[_Standards/WikiData/WD~Pērse,3738689]]'
+- '[[_Standards/WikiData/WD~Viata,3917432]]'
+- '[[_Standards/WikiData/WD~Vužyca,3919435]]'
+- '[[_Standards/WikiData/WD~Bieĺčyca,3919463]]'
+- '[[_Standards/WikiData/WD~Dvinka,4155755]]'
+- '[[_Standards/WikiData/WD~Zhizhitsa,4180133]]'
+- '[[_Standards/WikiData/WD~Laucesa,4255256]]'
+- '[[_Standards/WikiData/WD~Mārupīte,4282969]]'
+- '[[_Standards/WikiData/WD~Meļņička,4289986]]'
+- '[[_Standards/WikiData/WD~Olekte,4333537]]'
+- '[[_Standards/WikiData/WD~Riga,4394405]]'
+- '[[_Standards/WikiData/WD~Chernoguzka,4513945]]'
+- '[[_Standards/WikiData/WD~Šuņica,4527878]]'
+- '[[_Standards/WikiData/WD~Kryvinka,6503341]]'
+- '[[_Standards/WikiData/WD~Meritsa,6516455]]'
+- '[[_Standards/WikiData/WD~Strunka,6537489]]'
+- '[[_Standards/WikiData/WD~Bikloža,13032209]]'
+- '[[_Standards/WikiData/WD~Zmiejka,13032300]]'
+- '[[_Standards/WikiData/WD~Sosnіca,13032382]]'
+- '[[_Standards/WikiData/WD~Shevinka,13032416]]'
+- '[[_Standards/WikiData/WD~Valynka,13132992]]'
+- '[[_Standards/WikiData/WD~Lužasnianka,13133607]]'
+- '[[_Standards/WikiData/WD~Kamenka,14917087]]'
+- '[[_Standards/WikiData/WD~Nača,14917091]]'
+- '[[_Standards/WikiData/WD~Mīlgrāvis,15720531]]'
+- '[[_Standards/WikiData/WD~Poguļanka,15975671]]'
+- '[[_Standards/WikiData/WD~Indrica,16358083]]'
+- '[[_Standards/WikiData/WD~Biazuńja,17047162]]'
+- '[[_Standards/WikiData/WD~Sechna,17094573]]'
+- '[[_Standards/WikiData/WD~Somnica,17094601]]'
+- '[[_Standards/WikiData/WD~Turaŭlianka,18380361]]'
+- '[[_Standards/WikiData/WD~Hapaka_grāvis,18543577]]'
+- '[[_Standards/WikiData/WD~Biarozavy_Mastok,18622313]]'
+- '[[_Standards/WikiData/WD~Prudok,21392226]]'
+- '[[_Standards/WikiData/WD~Jazvinka,21392519]]'
+- '[[_Standards/WikiData/WD~Volta,21860134]]'
+- '[[_Standards/WikiData/WD~Radžu,29787979]]'
+- '[[_Standards/WikiData/WD~Korotyshka,109517824]]'
 origin_of_the_watercourse:
-  - "[[_Standards/WikiData/WD~Valdai_Hills,194196]]"
-  - "[[_Standards/WikiData/WD~Andreapolsky_District,2711843]]"
-  - "[[_Standards/WikiData/WD~Koryakino,37930791]]"
+- '[[_Standards/WikiData/WD~Valdai_Hills,194196]]'
+- '[[_Standards/WikiData/WD~Andreapolsky_District,2711843]]'
+- '[[_Standards/WikiData/WD~Koryakino,37930791]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~transboundary_river,4366834]]"
-  - "[[_Standards/WikiData/WD~border_river,108822533]]"
-  - "[[_Standards/WikiData/WD~river,4022]]"
-drainage_basin: "[[_Standards/WikiData/WD~Daugava_basin,54819545]]"
+- '[[_Standards/WikiData/WD~transboundary_river,4366834]]'
+- '[[_Standards/WikiData/WD~border_river,108822533]]'
+- '[[_Standards/WikiData/WD~river,4022]]'
+drainage_basin: '[[_Standards/WikiData/WD~Daugava_basin,54819545]]'
 coordinate_location:
-  - Point(32.541687694 56.855540805)
-  - Point(24.0258 57.0619)
+- Point(32.541687694 56.855540805)
+- Point(24.0258 57.0619)
 basin_country:
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Estonia,191]]"
-  - "[[_Standards/WikiData/WD~Latvia,211]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
 elevation_above_sea_level:
-  - 0
-  - 221
+- 0
+- 221
 country:
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Latvia,211]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
 length: 1020
 discharge: 678
 watershed_area: 87900
 native_label:
-  - Дзвіна
-  - Daugava
-  - Западная Двина
-  - Daugova
+- Дзвіна
+- Daugava
+- Западная Двина
+- Daugova
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Belarus-Dzvina%20River-6.jpg
 Image_Archive_Herder_Institute: Q8197
 Commons_gallery: Daugava
@@ -126,33 +195,132 @@ Commons_category: Daugava
 geoshape: http://commons.wikimedia.org/data/main/Data:Daugava.map
 State_Water_Register_Code_Russia_: 1.020000112199e+21
 Wolfram_Language_entity_code:
-  - Entity"River", "Daugava = `=this.dv_"River", "Daugava`
-  - Entity"River", "WesternDvina = `=this.dv_"River", "WesternDvina`
+- Entity"River", "Daugava = `=this.dv_"River", "Daugava`
+- Entity"River", "WesternDvina = `=this.dv_"River", "WesternDvina`
 dv_"River", "Daugava: 953h7"
 dv_"River", "WesternDvina: trvp4"
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Daugava,8197|WD~Daugava,8197]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~East/Daugava|Daugava]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~East/Daugava.public|Daugava.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal|Daugava.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect|Daugava.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~East/Daugava.private|Daugava.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal|Daugava.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret|Daugava.secret]]"
+  - '[[../../../../WikiData/WD~Daugava,8197|WD~Daugava,8197]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~East/Daugava|Daugava]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~East/Daugava.public|Daugava.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal|Daugava.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect|Daugava.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~East/Daugava.private|Daugava.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal|Daugava.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret|Daugava.secret]]'
 dv_river-daugava: 953h7"
 dv_river-westerndvina: trvp4"
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Daugava,8197|WD~Daugava,8197]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~East/Daugava|Daugava]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~East/Daugava.public|Daugava.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal|Daugava.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect|Daugava.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~East/Daugava.private|Daugava.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal|Daugava.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret|Daugava.secret]]"
+- '[[../../../../WikiData/WD~Daugava,8197|WD~Daugava,8197]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~East/Daugava|Daugava]]'
+- '[[/_public/Earth/Continent/Europe/Europe~East/Daugava.public|Daugava.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal|Daugava.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect|Daugava.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~East/Daugava.private|Daugava.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal|Daugava.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret|Daugava.secret]]'
+dv_has_:
+  name_:
+    af: Daugava
+    am: ዳውጋቫ ወንዝ
+    ar: نهر دفينا
+    arz: نهر دفينا
+    ast: Ríu Daugava
+    az: Dauqava
+    azb: دائوقاوا چایی
+    ba: Көнбайыш Двина
+    be: Дзвіна
+    be-tarask: Дзьвіна
+    bg: Западна Двина
+    br: Daugava
+    bs: Zapadna Dvina
+    ca: Dvinà Occidental
+    ceb: Daugava
+    crh: Ğarbiy Dvina
+    cs: Daugava
+    cu: Ꙁападьна Дьвина
+    cy: Afon Daugava
+    da: Vestlige Dvina
+    de: Düna
+    de-ch: Düna
+    el: Νταουγκάβα
+    en: Daugava
+    en-ca: Daugava River
+    en-gb: Daugava River
+    eo: Daŭgavo
+    es: Duina
+    et: Daugava
+    eu: Mendebaldeko Dvina
+    fa: دائوگاوا
+    fi: Väinäjoki
+    fr: Daugava
+    frr: Düüna
+    fy: Westlike Dvina
+    ga: Abhainn Daugava
+    gl: Río Dviná Occidental
+    he: דווינה
+    hi: डुगावा नदी
+    hif: Daugava Naddi
+    hr: Zapadna Dvina
+    hsb: Zapadna Dwina
+    hu: Daugava
+    hy: Արևմտյան Դվինա
+    id: Sungai Daugava
+    ie: Daugava
+    io: Fluvio Daugava
+    is: Dvína
+    it: Daugava
+    ja: ダウガヴァ川
+    ka: დასავლეთის დვინა
+    kk: Батыс Двина
+    ko: 다우가바강
+    kv: Дзвина
+    ky: Даугава
+    la: Duina Occidentalis
+    lb: Daugava
+    lld: Daugava
+    lt: Dauguva
+    ltg: Daugova
+    lv: Daugava
+    mg: Daugava (renirano)
+    mhr: Касвел Двина
+    mk: Западна Двина
+    mr: दौगाव्हा नदी
+    ms: Sungai Daugava
+    nb: Daugava
+    nds: Düna
+    nl: Westelijke Dvina
+    nn: Daugava
+    os: Ныгуылæн Двина
+    pl: Dźwina
+    pt: Duína Ocidental
+    pt-br: Rio Duína Ocidental
+    ro: Daugava
+    ru: Западная Двина
+    rue: Западна Двіна
+    sgs: Daugova
+    sh: Zapadna Dvina
+    sk: Západná Dvina
+    sl: Zahodna Dvina
+    sr: Даугава
+    sv: Daugava
+    sw: Mto Daugava
+    tg: Двинаи Ғарбӣ
+    th: แม่น้ำเดากาวา
+    tr: Daugava Nehri
+    tt: Көнбатыш Двина
+    uk: Західна Двіна
+    uz: Gʻarbiy Dvina
+    vec: Fiume Daugava
+    vi: Sông Tây Dvina
+    vro: Daugava
+    war: Salog Daugava
+    wuu: 道加瓦河
+    xmf: ბჟადალ დვინა
+    yue: 西德維納河
+    zh: 道加瓦河
 ---
-
 # [[Daugava]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Daugava,8197|WD~Daugava,8197]] 

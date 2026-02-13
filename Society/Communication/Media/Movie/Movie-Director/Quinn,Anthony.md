@@ -1,10 +1,130 @@
 ---
 aliases:
-  - Anthony Quinn
-  - Manuel Antonio Rodolfo Quinn Oaxaca
-  - Quinn,Anthony
+- Anthony Quinn
+- Antonius Quinn
+- Entoni Kuinn
+- Entonijs Kvinns
+- Manuel Antonio Rodolfo Quinn Oaxaca
+- Quinn,Anthony
+- Άντονι Κουίν
+- Антъни Куин
+- Ентоні Квінн
+- Ентони Квин
+- Энтані Кўін
+- Энтані Куін
+- Энтони Куинн
+- Էնթոնի Քուին
+- אנתוני קווין
+- آنتونی کوئین
+- أنتوني كوين
+- ئەنتۆنی کوین
+- انتونى كوين
+- انتھونی کوئن
+- অ্যান্থনি কুইন
+- ആന്റണി ക്വിൻ
+- แอนโทนี ควินน์
+- ენტონი ქვინი
+- アンソニー・クイン
+- 安东尼·奎恩
+- 安东尼·昆
+- 安東尼·昆
+- 安東尼昆
+- 앤서니 퀸
+has_id_wikidata: Q83484
+dv_has_:
+  name_:
+    af: Anthony Quinn
+    an: Anthony Quinn
+    ar: أنتوني كوين
+    arz: انتونى كوين
+    ast: Anthony Quinn
+    ay: Anthony Quinn
+    az: Entoni Kuinn
+    azb: آنتونی کوئین
+    be: Энтані Куін
+    be-tarask: Энтані Кўін
+    bg: Антъни Куин
+    bn: অ্যান্থনি কুইন
+    bs: Anthony Quinn
+    ca: Anthony Quinn
+    ce: Энтони Куинн
+    ckb: ئەنتۆنی کوین
+    cs: Anthony Quinn
+    cy: Anthony Quinn
+    da: Anthony Quinn
+    de: Anthony Quinn
+    de-ch: Anthony Quinn
+    el: Άντονι Κουίν
+    en: Anthony Quinn
+    en-ca: Anthony Quinn
+    en-gb: Anthony Quinn
+    eo: Anthony Quinn
+    es: Anthony Quinn
+    et: Anthony Quinn
+    eu: Anthony Quinn
+    fa: آنتونی کوئین
+    fi: Anthony Quinn
+    fo: Anthony Quinn
+    fr: Anthony Quinn
+    ga: Anthony Quinn
+    gl: Anthony Quinn
+    he: אנתוני קווין
+    hr: Anthony Quinn
+    hu: Anthony Quinn
+    hy: Էնթոնի Քուին
+    id: Anthony Quinn
+    ig: Anthony Quinn
+    io: Anthony Quinn
+    it: Anthony Quinn
+    ja: アンソニー・クイン
+    ka: ენტონი ქვინი
+    kl: Anthony Quinn
+    ko: 앤서니 퀸
+    ku: Anthony Quinn
+    la: Antonius Quinn
+    lb: Anthony Quinn
+    lv: Entonijs Kvinns
+    mg: Anthony Quinn
+    mk: Ентони Квин
+    ml: ആന്റണി ക്വിൻ
+    mn: Энтони Куинн
+    ms: Anthony Quinn
+    mul: Anthony Quinn
+    nah: Anthony Quinn
+    nb: Anthony Quinn
+    nl: Anthony Quinn
+    nn: Anthony Quinn
+    oc: Anthony Quinn
+    pap: Anthony Quinn
+    pl: Anthony Quinn
+    pt: Anthony Quinn
+    pt-br: Anthony Quinn
+    qu: Anthony Quinn
+    ro: Anthony Quinn
+    ru: Энтони Куинн
+    sco: Anthony Quinn
+    sh: Anthony Quinn
+    sk: Anthony Quinn
+    sl: Anthony Quinn
+    sq: Anthony Quinn
+    sr: Ентони Квин
+    sv: Anthony Quinn
+    th: แอนโทนี ควินน์
+    tl: Anthony Quinn
+    tr: Anthony Quinn
+    uk: Ентоні Квінн
+    ur: انتھونی کوئن
+    vi: Anthony Quinn
+    war: Anthony Quinn
+    wuu: 安东尼·奎恩
+    yo: Anthony Quinn
+    yue: 安東尼昆
+    zh: 安东尼·奎恩
+    zh-cn: 安东尼·奎恩
+    zh-hant: 安東尼·昆
+    zh-my: 安东尼·昆
+    zh-sg: 安东尼·昆
 ---
-
 #has_/time_/started :: 1915-04-21 
 #has_/time_/stopped ::  2001-06-03 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

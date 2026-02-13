@@ -1,159 +1,194 @@
 ---
 aliases:
-  - Linus_Pauling
-  - Linus Carl Pauling
-  - Linus Pauling
-  - Pauling
+- Lainuss Polings
+- Laynus Polinq
+- Linus Carl Pauling
+- Linus Pauling
+- Linus_Pauling
+- Pauling
+- Poling Laynus Karl
+- Λάινους Πόλινγκ
+- Лајнус Полинг
+- Лайнус Карл Полінг
+- Лайнус Карл Полинг
+- Лайнус Полінг
+- Лайнус Полинг
+- Лайнус Полиң
+- Лайнъс Полинг
+- Լայնուս Փոլինգ
+- ליינוס פאלינג
+- לינוס פאולינג
+- لاینس پۆلینگ
+- لينوس باولنج
+- لينوس باولنغ
+- لینس پالنگ
+- لینوس پاولینق
+- لینوس پاولینګ
+- لینوس پاولینگ
+- लिनस पाउलिङ्
+- लिनस् पॉलिङ्ग
+- লিনাস পাউলিং
+- லின்னஸ் பாலிங்
+- లైన్అస్ పౌలింగ్
+- ಲೈನಸ್ ಪಾಲಿಂಗ್
+- ലിനസ് പോളിംഗ്
+- ไลนัส พอลิง
+- ლაინუს პოლინგი
+- ライナス・ポーリング
+- 莱纳斯·鲍林
+- 萊納斯·鮑林
+- 鮑林
+- 라이너스 폴링
 has_id_wikidata: Q48983
-student_of: "[[_Standards/WikiData/WD~Arnold_Sommerfeld,77078]]"
+student_of: '[[_Standards/WikiData/WD~Arnold_Sommerfeld,77078]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~William_Lipscomb,110935]]"
-  - "[[_Standards/WikiData/WD~Matthew_Meselson,261276]]"
-  - "[[_Standards/WikiData/WD~Edgar_Bright_Wilson,511581]]"
-  - "[[_Standards/WikiData/WD~Leonard_Lerman,559397]]"
-  - "[[_Standards/WikiData/WD~Arthur_Pardee,708523]]"
-  - "[[_Standards/WikiData/WD~Martin_Karplus,903471]]"
-  - "[[_Standards/WikiData/WD~Gary_Felsenfeld,1494839]]"
-  - "[[_Standards/WikiData/WD~Harvey_Itano,3128036]]"
-  - "[[_Standards/WikiData/WD~Barclay_Kamb,4859942]]"
-  - "[[_Standards/WikiData/WD~David_Harker,5234726]]"
-  - "[[_Standards/WikiData/WD~James_Lynn_Hoard,6137589]]"
-  - "[[_Standards/WikiData/WD~Tang_Youqi,9122782]]"
-  - "[[_Standards/WikiData/WD~Kurt_Mislow,15479950]]"
-  - "[[_Standards/WikiData/WD~Lawrence_O._Brockway,28935564]]"
-  - "[[_Standards/WikiData/WD~Robert_E._Rundle,63856389]]"
-  - "[[_Standards/WikiData/WD~James_Holmes_Sturdivant,93915986]]"
-  - "[[_Standards/WikiData/WD~Max_Tofield_Rogers,103311764]]"
-  - "[[_Standards/WikiData/WD~David_Powell_Shoemaker,103311806]]"
-  - "[[_Standards/WikiData/WD~George_Alexander_Feigen,103312168]]"
-  - "[[_Standards/WikiData/WD~Joseph_Kraut,103312182]]"
-  - "[[_Standards/WikiData/WD~Phillip_Alfred_Vaughan,103312255]]"
-  - "[[_Standards/WikiData/WD~Edwin_Nichols_Lassettre,103312286]]"
-  - "[[_Standards/WikiData/WD~John_Y._Beach,103312295]]"
-  - "[[_Standards/WikiData/WD~James_D._McCullough,103312311]]"
+- '[[_Standards/WikiData/WD~William_Lipscomb,110935]]'
+- '[[_Standards/WikiData/WD~Matthew_Meselson,261276]]'
+- '[[_Standards/WikiData/WD~Edgar_Bright_Wilson,511581]]'
+- '[[_Standards/WikiData/WD~Leonard_Lerman,559397]]'
+- '[[_Standards/WikiData/WD~Arthur_Pardee,708523]]'
+- '[[_Standards/WikiData/WD~Martin_Karplus,903471]]'
+- '[[_Standards/WikiData/WD~Gary_Felsenfeld,1494839]]'
+- '[[_Standards/WikiData/WD~Harvey_Itano,3128036]]'
+- '[[_Standards/WikiData/WD~Barclay_Kamb,4859942]]'
+- '[[_Standards/WikiData/WD~David_Harker,5234726]]'
+- '[[_Standards/WikiData/WD~James_Lynn_Hoard,6137589]]'
+- '[[_Standards/WikiData/WD~Tang_Youqi,9122782]]'
+- '[[_Standards/WikiData/WD~Kurt_Mislow,15479950]]'
+- '[[_Standards/WikiData/WD~Lawrence_O._Brockway,28935564]]'
+- '[[_Standards/WikiData/WD~Robert_E._Rundle,63856389]]'
+- '[[_Standards/WikiData/WD~James_Holmes_Sturdivant,93915986]]'
+- '[[_Standards/WikiData/WD~Max_Tofield_Rogers,103311764]]'
+- '[[_Standards/WikiData/WD~David_Powell_Shoemaker,103311806]]'
+- '[[_Standards/WikiData/WD~George_Alexander_Feigen,103312168]]'
+- '[[_Standards/WikiData/WD~Joseph_Kraut,103312182]]'
+- '[[_Standards/WikiData/WD~Phillip_Alfred_Vaughan,103312255]]'
+- '[[_Standards/WikiData/WD~Edwin_Nichols_Lassettre,103312286]]'
+- '[[_Standards/WikiData/WD~John_Y._Beach,103312295]]'
+- '[[_Standards/WikiData/WD~James_D._McCullough,103312311]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]"
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]"
-  - "[[_Standards/WikiData/WD~Polish_Academy_of_Sciences,651690]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]"
-  - "[[_Standards/WikiData/WD~International_Academy_of_Quantum_Molecular_Science,2268652]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]"
-position_held: "[[_Standards/WikiData/WD~professor,121594]]"
+- '[[_Standards/WikiData/WD~Royal_Society_of_Edinburgh,117467]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Polish_Academy_of_Sciences,651690]]'
+- '[[_Standards/WikiData/WD~Bavarian_Academy_of_Sciences_and_Humanities,684415]]'
+- '[[_Standards/WikiData/WD~International_Academy_of_Quantum_Molecular_Science,2268652]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_the_USSR,2370801]]'
+position_held: '[[_Standards/WikiData/WD~professor,121594]]'
 employer:
-  - "[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]"
-  - "[[_Standards/WikiData/WD~Oregon_State_University,861888]]"
-  - "[[_Standards/WikiData/WD~Linus_Pauling_Institute,3151762]]"
-  - "[[_Standards/WikiData/WD~Stanford_University,41506]]"
+- '[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]'
+- '[[_Standards/WikiData/WD~Oregon_State_University,861888]]'
+- '[[_Standards/WikiData/WD~Linus_Pauling_Institute,3151762]]'
+- '[[_Standards/WikiData/WD~Stanford_University,41506]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]"
-  - "[[_Standards/WikiData/WD~Oregon_State_University,861888]]"
+- '[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]'
+- '[[_Standards/WikiData/WD~Oregon_State_University,861888]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~chemist,593644]]"
-  - "[[_Standards/WikiData/WD~Esperantist,860918]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
-  - "[[_Standards/WikiData/WD~activist_shareholder,2823717]]"
-  - "[[_Standards/WikiData/WD~biochemist,2919046]]"
-  - "[[_Standards/WikiData/WD~biophysicist,14906342]]"
-  - "[[_Standards/WikiData/WD~crystallographer,15142825]]"
-  - "[[_Standards/WikiData/WD~peace_activist,16323111]]"
-cause_of_death: "[[_Standards/WikiData/WD~prostate_cancer,181257]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~Esperantist,860918]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~activist_shareholder,2823717]]'
+- '[[_Standards/WikiData/WD~biochemist,2919046]]'
+- '[[_Standards/WikiData/WD~biophysicist,14906342]]'
+- '[[_Standards/WikiData/WD~crystallographer,15142825]]'
+- '[[_Standards/WikiData/WD~peace_activist,16323111]]'
+cause_of_death: '[[_Standards/WikiData/WD~prostate_cancer,181257]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~quantum_chemistry,188403]]"
-  - "[[_Standards/WikiData/WD~biochemistry,7094]]"
-  - "[[_Standards/WikiData/WD~physical_chemistry,11372]]"
+- '[[_Standards/WikiData/WD~quantum_chemistry,188403]]'
+- '[[_Standards/WikiData/WD~biochemistry,7094]]'
+- '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Davy_Medal,220842]]"
-  - "[[_Standards/WikiData/WD~Priestley_Medal,826100]]"
-  - "[[_Standards/WikiData/WD~Irving_Langmuir_Award_in_Chemical_Physics,901579]]"
-  - "[[_Standards/WikiData/WD~Willard_Gibbs_Award,902788]]"
-  - "[[_Standards/WikiData/WD~NAS_Award_in_Chemical_Sciences,905656]]"
-  - "[[_Standards/WikiData/WD~Chemical_Pioneer_Award,1069189]]"
-  - "[[_Standards/WikiData/WD~Medal_for_Merit,1307005]]"
-  - "[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]"
-  - "[[_Standards/WikiData/WD~ACS_Award_in_Pure_Chemistry,1777741]]"
-  - "[[_Standards/WikiData/WD~Roebling_Medal,2607382]]"
-  - "[[_Standards/WikiData/WD~Gandhi_Peace_Award,3404636]]"
-  - "[[_Standards/WikiData/WD~Linus_Pauling_Award,3910565]]"
-  - "[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598]]"
-  - "[[_Standards/WikiData/WD~Lavoisier_Medal,6502783]]"
-  - "[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]"
-  - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
-  - "[[_Standards/WikiData/WD~Tolman_Award,15851109]]"
-  - "[[_Standards/WikiData/WD~Liversidge_Award,18560175]]"
-  - "[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]"
-  - "[[_Standards/WikiData/WD~William_H._Nichols_Medal,25324505]]"
-  - "[[_Standards/WikiData/WD~George_C._Pimentel_Award_in_Chemical_Education,27966910]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]"
-  - "[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Montpellier,42156802]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Toulouse,126415081]]"
-  - "[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]"
-  - "[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]"
+- '[[_Standards/WikiData/WD~Davy_Medal,220842]]'
+- '[[_Standards/WikiData/WD~Priestley_Medal,826100]]'
+- '[[_Standards/WikiData/WD~Irving_Langmuir_Award_in_Chemical_Physics,901579]]'
+- '[[_Standards/WikiData/WD~Willard_Gibbs_Award,902788]]'
+- '[[_Standards/WikiData/WD~NAS_Award_in_Chemical_Sciences,905656]]'
+- '[[_Standards/WikiData/WD~Chemical_Pioneer_Award,1069189]]'
+- '[[_Standards/WikiData/WD~Medal_for_Merit,1307005]]'
+- '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
+- '[[_Standards/WikiData/WD~ACS_Award_in_Pure_Chemistry,1777741]]'
+- '[[_Standards/WikiData/WD~Roebling_Medal,2607382]]'
+- '[[_Standards/WikiData/WD~Gandhi_Peace_Award,3404636]]'
+- '[[_Standards/WikiData/WD~Linus_Pauling_Award,3910565]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Edinburgh,5438598]]'
+- '[[_Standards/WikiData/WD~Lavoisier_Medal,6502783]]'
+- '[[_Standards/WikiData/WD~Silliman_Memorial_Lectures,7515378]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Tolman_Award,15851109]]'
+- '[[_Standards/WikiData/WD~Liversidge_Award,18560175]]'
+- '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
+- '[[_Standards/WikiData/WD~William_H._Nichols_Medal,25324505]]'
+- '[[_Standards/WikiData/WD~George_C._Pimentel_Award_in_Chemical_Education,27966910]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Physical_Society,41955909]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Montpellier,42156802]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Toulouse,126415081]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_from_the_University_of_Paris,126418747]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Roscoe_G._Dickinson,554828]]"
-  - "[[_Standards/WikiData/WD~Richard_Chace_Tolman,714440]]"
+- '[[_Standards/WikiData/WD~Roscoe_G._Dickinson,554828]]'
+- '[[_Standards/WikiData/WD~Richard_Chace_Tolman,714440]]'
 residence:
-  - "[[_Standards/WikiData/WD~Corvallis,748474]]"
-  - "[[_Standards/WikiData/WD~Big_Sur,859413]]"
-  - "[[_Standards/WikiData/WD~Lake_Oswego,983805]]"
-place_of_death: "[[_Standards/WikiData/WD~Big_Sur,859413]]"
+- '[[_Standards/WikiData/WD~Corvallis,748474]]'
+- '[[_Standards/WikiData/WD~Big_Sur,859413]]'
+- '[[_Standards/WikiData/WD~Lake_Oswego,983805]]'
+place_of_death: '[[_Standards/WikiData/WD~Big_Sur,859413]]'
 student:
-  - "[[_Standards/WikiData/WD~Martin_Karplus,903471]]"
-  - "[[_Standards/WikiData/WD~Jerry_Donohue,6148474]]"
+- '[[_Standards/WikiData/WD~Martin_Karplus,903471]]'
+- '[[_Standards/WikiData/WD~Jerry_Donohue,6148474]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Carl,2529610]]"
-  - "[[_Standards/WikiData/WD~Linus,15196019]]"
+- '[[_Standards/WikiData/WD~Carl,2529610]]'
+- '[[_Standards/WikiData/WD~Linus,15196019]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Irwin_Stone,3154628]]"
-  - "[[_Standards/WikiData/WD~Walter_Heitler,60287]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-spouse: "[[_Standards/WikiData/WD~Ava_Helen_Pauling,4827386]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Pauling,7155110]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~Irwin_Stone,3154628]]'
+- '[[_Standards/WikiData/WD~Walter_Heitler,60287]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+spouse: '[[_Standards/WikiData/WD~Ava_Helen_Pauling,4827386]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Pauling,7155110]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 date_of_birth: 1901-02-28T00:00:00Z
-academic_thesis: "[[_Standards/WikiData/WD~Q51755190,51755190]]"
-child: "[[_Standards/WikiData/WD~Peter_Pauling,61761658]]"
+academic_thesis: '[[_Standards/WikiData/WD~Q51755190,51755190]]'
+child: '[[_Standards/WikiData/WD~Peter_Pauling,61761658]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-  - "[[_Standards/WikiData/WD~FBI_file_100_HQ_353404,131138343]]"
-archives_at: "[[_Standards/WikiData/WD~Oregon_State_University_Libraries_Special_Collections_&_Archives_Research_Center,75341040]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-has_characteristic: "[[_Standards/WikiData/WD~Nobel_disease,104844637]]"
-academic_degree: "[[_Standards/WikiData/WD~Bachelor_of_Science_in_Chemical_Engineering,111024554]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Linus_Pauling,135981703]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~FBI_file_100_HQ_353404,131138343]]'
+archives_at: '[[_Standards/WikiData/WD~Oregon_State_University_Libraries_Special_Collections_&_Archives_Research_Center,75341040]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+has_characteristic: '[[_Standards/WikiData/WD~Nobel_disease,104844637]]'
+academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Science_in_Chemical_Engineering,111024554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Linus_Pauling,135981703]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Esperanto,143]]"
-place_of_birth: "[[_Standards/WikiData/WD~Portland,6106]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-movement: "[[_Standards/WikiData/WD~atheism,7066]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Esperanto,143]]'
+place_of_birth: '[[_Standards/WikiData/WD~Portland,6106]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+movement: '[[_Standards/WikiData/WD~atheism,7066]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 Erdős_number: 4
-work_locations: "[[_Standards/WikiData/WD~Palo_Alto,47265]]"
+work_locations: '[[_Standards/WikiData/WD~Palo_Alto,47265]]'
 Libris_URI: 86lpvzss31tl0hl
 U_S_National_Archives_Identifier: 10581545
 Commons_gallery: Linus Pauling
 Commons_category: Linus Pauling
 date_of_death: 1994-08-18T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Linus%20Pauling%201962.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pauling.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Linus%20Pauling%201962.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pauling.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Linus%20Pauling%20signature.svg
 archive_URL: http://scarc.library.oregonstate.edu/coll/pauling/index.html
 official_website: https://scarc.library.oregonstate.edu/digitalresources/pauling/
@@ -163,25 +198,145 @@ PAN_member: PAULING, Linus Carl
 name_in_native_language: Linus Carl Pauling
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Linus_Pauling,48983]]"
-    - "[[/_Standards/Chemistry/Chemist/Linus_Pauling|Linus_Pauling]]"
-    - "[[/_public/Chemistry/Chemist/Linus_Pauling.public|Linus_Pauling.public]]"
-    - "[[/_internal/Chemistry/Chemist/Linus_Pauling.internal|Linus_Pauling.internal]]"
-    - "[[/_protect/Chemistry/Chemist/Linus_Pauling.protect|Linus_Pauling.protect]]"
-    - "[[/_private/Chemistry/Chemist/Linus_Pauling.private|Linus_Pauling.private]]"
-    - "[[/_personal/Chemistry/Chemist/Linus_Pauling.personal|Linus_Pauling.personal]]"
-    - "[[/_secret/Chemistry/Chemist/Linus_Pauling.secret|Linus_Pauling.secret]]"
+  - '[[../../WikiData/WD~Linus_Pauling,48983]]'
+  - '[[/_Standards/Chemistry/Chemist/Linus_Pauling|Linus_Pauling]]'
+  - '[[/_public/Chemistry/Chemist/Linus_Pauling.public|Linus_Pauling.public]]'
+  - '[[/_internal/Chemistry/Chemist/Linus_Pauling.internal|Linus_Pauling.internal]]'
+  - '[[/_protect/Chemistry/Chemist/Linus_Pauling.protect|Linus_Pauling.protect]]'
+  - '[[/_private/Chemistry/Chemist/Linus_Pauling.private|Linus_Pauling.private]]'
+  - '[[/_personal/Chemistry/Chemist/Linus_Pauling.personal|Linus_Pauling.personal]]'
+  - '[[/_secret/Chemistry/Chemist/Linus_Pauling.secret|Linus_Pauling.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Linus_Pauling,48983]]"
-  - "[[/_Standards/Chemistry/Chemist/Linus_Pauling|Linus_Pauling]]"
-  - "[[/_public/Chemistry/Chemist/Linus_Pauling.public|Linus_Pauling.public]]"
-  - "[[/_internal/Chemistry/Chemist/Linus_Pauling.internal|Linus_Pauling.internal]]"
-  - "[[/_protect/Chemistry/Chemist/Linus_Pauling.protect|Linus_Pauling.protect]]"
-  - "[[/_private/Chemistry/Chemist/Linus_Pauling.private|Linus_Pauling.private]]"
-  - "[[/_personal/Chemistry/Chemist/Linus_Pauling.personal|Linus_Pauling.personal]]"
-  - "[[/_secret/Chemistry/Chemist/Linus_Pauling.secret|Linus_Pauling.secret]]"
+- '[[../../WikiData/WD~Linus_Pauling,48983]]'
+- '[[/_Standards/Chemistry/Chemist/Linus_Pauling|Linus_Pauling]]'
+- '[[/_public/Chemistry/Chemist/Linus_Pauling.public|Linus_Pauling.public]]'
+- '[[/_internal/Chemistry/Chemist/Linus_Pauling.internal|Linus_Pauling.internal]]'
+- '[[/_protect/Chemistry/Chemist/Linus_Pauling.protect|Linus_Pauling.protect]]'
+- '[[/_private/Chemistry/Chemist/Linus_Pauling.private|Linus_Pauling.private]]'
+- '[[/_personal/Chemistry/Chemist/Linus_Pauling.personal|Linus_Pauling.personal]]'
+- '[[/_secret/Chemistry/Chemist/Linus_Pauling.secret|Linus_Pauling.secret]]'
+dv_has_:
+  name_:
+    af: Linus Pauling
+    an: Linus Pauling
+    ar: لينوس باولنغ
+    arz: لينوس باولنج
+    ast: Linus Pauling
+    ay: Linus Pauling
+    az: Laynus Polinq
+    azb: لینوس پاولینق
+    ban: Linus Pauling
+    be: Лайнус Карл Полінг
+    be-tarask: Лайнус Карл Полінг
+    bg: Лайнъс Полинг
+    bn: লিনাস পাউলিং
+    bs: Linus Pauling
+    ca: Linus Carl Pauling
+    ckb: لاینس پۆلینگ
+    cs: Linus Pauling
+    cy: Linus Pauling
+    da: Linus Pauling
+    dag: Linus Pauling
+    de: Linus Pauling
+    de-at: Linus Pauling
+    de-ch: Linus Pauling
+    ee: Linus Pauling
+    el: Λάινους Πόλινγκ
+    en: Linus Pauling
+    en-ca: Linus Pauling
+    en-gb: Linus Pauling
+    eo: Linus Pauling
+    es: Linus Pauling
+    et: Linus Pauling
+    eu: Linus Pauling
+    fa: لینوس پاولینگ
+    fi: Linus Pauling
+    fo: Linus Pauling
+    fr: Linus Pauling
+    ga: Linus Pauling
+    gd: Linus Carl Pauling
+    gl: Linus Pauling
+    hak: Linus Pauling
+    he: לינוס פאולינג
+    hi: लिनस पाउलिङ्
+    hr: Linus Pauling
+    hu: Linus Pauling
+    hy: Լայնուս Փոլինգ
+    ia: Linus Pauling
+    id: Linus Carl Pauling
+    io: Linus Pauling
+    is: Linus Pauling
+    it: Linus Pauling
+    ja: ライナス・ポーリング
+    jut: Linus Pauling
+    ka: ლაინუს პოლინგი
+    kk: Лайнус Карл Полинг
+    kl: Linus Pauling
+    kn: ಲೈನಸ್ ಪಾಲಿಂಗ್
+    ko: 라이너스 폴링
+    ku: Linus Pauling
+    la: Linus Pauling
+    lb: Linus Pauling
+    lfn: Linus Pauling
+    li: Linus Pauling
+    lt: Linus Pauling
+    lv: Lainuss Polings
+    mg: Linus Pauling
+    mk: Лајнус Полинг
+    ml: ലിനസ് പോളിംഗ്
+    mn: Лайнус Полинг
+    ms: Linus Pauling
+    mzn: لینوس پاولینگ
+    nan: Linus Pauling
+    nb: Linus Pauling
+    nds: Linus Carl Pauling
+    nl: Linus Pauling
+    nn: Linus Pauling
+    nov: Linus Carl Pauling
+    oc: Linus Pauling
+    pap: Linus Pauling
+    pl: Linus Pauling
+    pms: Linus Pauling
+    pnb: لینس پالنگ
+    ps: لینوس پاولینګ
+    pt: Linus Pauling
+    pt-br: Linus Pauling
+    qu: Linus Pauling
+    ro: Linus Pauling
+    ru: Лайнус Карл Полинг
+    sa: लिनस् पॉलिङ्ग
+    sc: Linus Pauling
+    sco: Linus Pauling
+    sh: Linus Pauling
+    sje: Linus Pauling
+    sk: Linus Carl Pauling
+    sl: Linus Carl Pauling
+    sq: Linus Pauling
+    sr: Лајнус Полинг
+    sv: Linus Pauling
+    sw: Linus Pauling
+    ta: லின்னஸ் பாலிங்
+    te: లైన్అస్ పౌలింగ్
+    th: ไลนัส พอลิง
+    tl: Linus Pauling
+    tr: Linus Pauling
+    tt: Лайнус Полиң
+    uk: Лайнус Полінг
+    ur: لینس پالنگ
+    uz: Poling Laynus Karl
+    vi: Linus Pauling
+    vo: Linus Pauling
+    war: Linus Pauling
+    wuu: 莱纳斯·鲍林
+    xmf: ლაინუს პოლინგი
+    yi: ליינוס פאלינג
+    yo: Linus Pauling
+    yue: 鮑林
+    zh: 萊納斯·鮑林
+    zh-cn: 萊納斯·鮑林
+    zh-hans: 萊納斯·鮑林
+    zh-hant: 萊納斯·鮑林
 ---
-
 # [[Linus_Pauling]] 
 
 #is_/same_as :: [[WD~Linus_Pauling,48983]] 

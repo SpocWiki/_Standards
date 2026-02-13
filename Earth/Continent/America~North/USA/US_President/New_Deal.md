@@ -1,53 +1,156 @@
 ---
 dv_has_:
-  creator: "[[Roosevelt,Franklin_Delano]]"
+  creator: '[[Roosevelt,Franklin_Delano]]'
+  name_:
+    ar: الصفقة الجديدة
+    ast: New Deal
+    az: Ruzveltin yeni kursu
+    be: Новы курс Рузвельта
+    be-tarask: Новы курс
+    bg: Нов курс на Рузвелт
+    bs: New Deal
+    ca: New Deal
+    cs: New Deal
+    cy: Y Fargen Newydd
+    da: New Deal
+    de: New Deal
+    el: New Deal
+    en: New Deal
+    eo: Nova Interkonsento
+    es: New Deal
+    et: Uus kurss
+    eu: New Deal
+    fa: نیو دیل
+    fi: New Deal
+    fr: New Deal
+    ga: an Beartas Nua
+    gl: New Deal
+    he: ניו דיל
+    hi: न्यू डील
+    hr: New Deal
+    hu: New Deal
+    hy: Նոր կուրս
+    id: New Deal
+    io: Nova Kontrato
+    is: Ný gjöf
+    it: New Deal
+    ja: ニューディール政策
+    ko: 뉴딜 정책
+    la: Negotium Novum
+    li: New Deal
+    lt: Naujasis kursas
+    lv: Jaunais kurss
+    mk: Њу дил
+    nb: New Deal
+    nl: New Deal
+    nn: New Deal
+    pl: New Deal
+    pnb: نیو ڈیل
+    pt: New Deal
+    ro: New Deal
+    ru: Новый курс Рузвельта
+    sco: New Deal
+    sh: New Deal
+    sk: Nový údel
+    sl: New Deal
+    sq: New Deal
+    sr: Њу дил
+    sr-ec: Њу дил
+    sr-el: Nju dil
+    sv: New Deal
+    sw: New Deal
+    th: สัญญาใหม่
+    tr: New Deal
+    uk: Новий курс
+    ur: نیو ڈیل
+    vec: New Deal
+    vi: Chính sách kinh tế mới
+    wuu: 罗斯福新政
+    yi: ניו דיל
+    yue: 羅斯福新政
+    zh: 罗斯福新政
+    zh-cn: 罗斯福新政
+    zh-hans: 罗斯福新政
+    zh-hant: 羅斯福新政
+    zh-hk: 羅斯福新政
+    zh-sg: 罗斯福新政
+    zh-tw: 羅斯福新政
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]]"
-dv_has_creator: "[[Roosevelt,Franklin_Delano]]"
+  - '[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]]'
+dv_has_creator: '[[Roosevelt,Franklin_Delano]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]]"
-
-has_time_started: 1933-01-01 
-has_time_stopped: 1939-01-01 
+- '[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]]'
+has_time_started: 1933-01-01
+has_time_stopped: 1939-01-01
 aliases:
-  - New Deal
-  - New_Deal
+- an Beartas Nua
+- Chính sách kinh tế mới
+- Jaunais kurss
+- Naujasis kursas
+- Negotium Novum
+- New Deal
+- New_Deal
+- Nju dil
+- Nova Interkonsento
+- Nova Kontrato
+- Nový údel
+- Ný gjöf
+- Ruzveltin yeni kursu
+- Uus kurss
+- Y Fargen Newydd
+- Њу дил
+- Нов курс на Рузвелт
+- Новий курс
+- Новы курс
+- Новы курс Рузвельта
+- Новый курс Рузвельта
+- Նոր կուրս
+- ניו דיל
+- الصفقة الجديدة
+- نیو دیل
+- نیو ڈیل
+- न्यू डील
+- สัญญาใหม่
+- ニューディール政策
+- 罗斯福新政
+- 羅斯福新政
+- 뉴딜 정책
 has_id_wikidata: Q186356
 has_characteristic:
-  - '[[_Standards/WikiData/WD~cartel,179216]]'
-  - '[[_Standards/WikiData/WD~fixed_price,1077369]]'
+- '[[_Standards/WikiData/WD~cartel,179216]]'
+- '[[_Standards/WikiData/WD~fixed_price,1077369]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Farm_Security_Administration,204493]]'
-  - '[[_Standards/WikiData/WD~Greenbelt,755877]]'
-  - '[[_Standards/WikiData/WD~Civilian_Conservation_Corps,1094508]]'
-  - '[[_Standards/WikiData/WD~Works_Progress_Administration,1200079]]'
-  - '[[_Standards/WikiData/WD~Greendale,2193397]]'
-  - '[[_Standards/WikiData/WD~Greenhills,2361579]]'
-  - '[[_Standards/WikiData/WD~Civil_Works_Administration,2974881]]'
-  - '[[_Standards/WikiData/WD~Federal_Emergency_Relief_Act,3067858]]'
-  - '[[_Standards/WikiData/WD~Federal_Emergency_Relief_Administration,3067870]]'
-  - '[[_Standards/WikiData/WD~United_States_Housing_Authority,3550737]]'
-  - '[[_Standards/WikiData/WD~Emergency_Relief_Appropriation_Act_of_1935,5370642]]'
-  - '[[_Standards/WikiData/WD~Federal_Works_Agency,5440506]]'
-  - '[[_Standards/WikiData/WD~Resettlement_Administration,7315356]]'
-  - '[[_Standards/WikiData/WD~Works_Progress_Administration_works_at_Arrow_Rock_State_Historic_Site,8035082]]'
-  - '[[_Standards/WikiData/WD~Greenbelt_town,56152103]]'
-  - '[[_Standards/WikiData/WD~Emergency_Conservation_Work,73524478]]'
+- '[[_Standards/WikiData/WD~Farm_Security_Administration,204493]]'
+- '[[_Standards/WikiData/WD~Greenbelt,755877]]'
+- '[[_Standards/WikiData/WD~Civilian_Conservation_Corps,1094508]]'
+- '[[_Standards/WikiData/WD~Works_Progress_Administration,1200079]]'
+- '[[_Standards/WikiData/WD~Greendale,2193397]]'
+- '[[_Standards/WikiData/WD~Greenhills,2361579]]'
+- '[[_Standards/WikiData/WD~Civil_Works_Administration,2974881]]'
+- '[[_Standards/WikiData/WD~Federal_Emergency_Relief_Act,3067858]]'
+- '[[_Standards/WikiData/WD~Federal_Emergency_Relief_Administration,3067870]]'
+- '[[_Standards/WikiData/WD~United_States_Housing_Authority,3550737]]'
+- '[[_Standards/WikiData/WD~Emergency_Relief_Appropriation_Act_of_1935,5370642]]'
+- '[[_Standards/WikiData/WD~Federal_Works_Agency,5440506]]'
+- '[[_Standards/WikiData/WD~Resettlement_Administration,7315356]]'
+- '[[_Standards/WikiData/WD~Works_Progress_Administration_works_at_Arrow_Rock_State_Historic_Site,8035082]]'
+- '[[_Standards/WikiData/WD~Greenbelt_town,56152103]]'
+- '[[_Standards/WikiData/WD~Emergency_Conservation_Work,73524478]]'
 instance_of: '[[_Standards/WikiData/WD~public_policy,546113]]'
 subclass_of: '[[_Standards/WikiData/WD~economic_policy,582577]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_New_Deal,15107162]]'
@@ -65,7 +168,6 @@ DPLA_subject_term: New Deal, 1933-1939
 end_time: 1939-01-01T00:00:00Z
 start_time: 1933-01-01T00:00:00Z
 ---
-
 # [[New_Deal]] 
 
 has_creator = `=this.dv_has_creator`

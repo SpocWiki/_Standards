@@ -1,11 +1,41 @@
 ---
 aliases:
-  - Steffi_Graf
-  - Stefanie Maria Graf
-  - Stefanie Graf
-  - Steffi Graf
-  - Graf
-  - Graf,Steffi
+- Graf
+- Graf,Steffi
+- Stefanie Graf
+- Stefanie Maria Graf
+- Steffi Graf
+- Steffi Grafová
+- Steffi_Graf
+- Štefija Grāfa
+- Στέφι Γκραφ
+- Штефи Граф
+- Штеффі Граф
+- Штеффи Граф
+- Штэфі Граф
+- Щефи Граф
+- Շտեֆֆի Գրաֆ
+- שטפי גראף
+- اسٹیفی گراف
+- اشتفی گراف
+- ستيفى جراف
+- شتيفي غراف
+- स्टेफी ग्राफ
+- স্টেফি গ্রাফ
+- ਸ਼ਟੈੱਫ਼ੀ ਗ੍ਰਾਫ਼
+- સ્ટેફી ગ્રાફ
+- ஸ்ரெஃபி கிராஃப்
+- స్టెఫీ గ్రాఫ్
+- ಸ್ಟೆಫಿ ಗ್ರಾಫ್
+- സ്റ്റെഫി ഗ്രാഫ്
+- შტეფი გრაფი
+- ᱥᱴᱮᱯᱷᱤ ᱜᱨᱟᱯᱷ
+- シュテフィ・グラフ
+- 史蒂菲·葛拉芙
+- 施特菲·格拉夫
+- 施特菲·格拉芙
+- 施特菲嘉芙
+- 슈테피 그라프
 has_id_wikidata: Q11662
 Facebook_username: officialsteffigraf
 Commons_category: Steffi Graf
@@ -14,59 +44,59 @@ birth_name: Stephanie Maria Graf
 prize_money: 21895277
 work_period_end_: 1999-01-01T00:00:00Z
 award_received:
-  - '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_Baden_Württemberg,445673]]'
-  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-  - '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
-  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
-  - '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
-  - '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
-  - '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
-  - '[[_Standards/WikiData/WD~Q47015564,47015564]]'
-  - '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
+- '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_Baden_Württemberg,445673]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+- '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
+- '[[_Standards/WikiData/WD~Silver_Olympic_Order,15279723]]'
+- '[[_Standards/WikiData/WD~Best_Female_Tennis_Player_ESPY_Award,16275104]]'
+- '[[_Standards/WikiData/WD~Q47015564,47015564]]'
+- '[[_Standards/WikiData/WD~International_Tennis_Hall_of_Fame,52454]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Maria,325872]]'
-  - '[[_Standards/WikiData/WD~Stephanie,1291472]]'
-  - '[[_Standards/WikiData/WD~Steffi,19689541]]'
+- '[[_Standards/WikiData/WD~Maria,325872]]'
+- '[[_Standards/WikiData/WD~Stephanie,1291472]]'
+- '[[_Standards/WikiData/WD~Steffi,19689541]]'
 different_from: '[[_Standards/WikiData/WD~Stephanie_Graf,466618]]'
 member_of_sports_team: '[[_Standards/WikiData/WD~Germany_Billie_Jean_King_Cup_team,551743]]'
 advertises: '[[_Standards/WikiData/WD~Barilla_Group,762787]]'
 family_name: '[[_Standards/WikiData/WD~Graf,1158367]]'
 occupation:
-  - '[[_Standards/WikiData/WD~athlete,2066131]]'
-  - '[[_Standards/WikiData/WD~tennis_player,10833314]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~athlete,2066131]]'
+- '[[_Standards/WikiData/WD~tennis_player,10833314]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 father: '[[_Standards/WikiData/WD~Peter_Graf,2075239]]'
 residence:
-  - '[[_Standards/WikiData/WD~Las_Vegas_Valley,2624848]]'
-  - '[[_Standards/WikiData/WD~Mannheim,2119]]'
+- '[[_Standards/WikiData/WD~Las_Vegas_Valley,2624848]]'
+- '[[_Standards/WikiData/WD~Mannheim,2119]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~right_handedness,3039938]]'
-  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
-  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+- '[[_Standards/WikiData/WD~right_handedness,3039938]]'
+- '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+- '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 child:
-  - '[[_Standards/WikiData/WD~Jaden_Gil_Agassi,22566830]]'
-  - '[[_Standards/WikiData/WD~Jaz_Elle_Agassi,22566831]]'
+- '[[_Standards/WikiData/WD~Jaden_Gil_Agassi,22566830]]'
+- '[[_Standards/WikiData/WD~Jaz_Elle_Agassi,22566831]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Women_Athletes_of_the_20th_Century,119982761]]'
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 place_of_birth: '[[_Standards/WikiData/WD~Mannheim,2119]]'
 spouse: '[[_Standards/WikiData/WD~Andre_Agassi,7407]]'
 work_location: '[[_Standards/WikiData/WD~Las_Vegas,23768]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ranking:
-  - 1
-  - 5
+- 1
+- 5
 country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
 country_for_sport: '[[_Standards/WikiData/WD~Germany,183]]'
 number_of_children: 2
@@ -81,8 +111,111 @@ official_website: http://www.steffi-graf.net
 ISNI: 0000000078585804
 Munzinger_Sport_number: 01000000363
 doubles_record: 173–72
+dv_has_:
+  name_:
+    af: Steffi Graf
+    an: Steffi Graf
+    ar: شتيفي غراف
+    arz: ستيفى جراف
+    ast: Steffi Graf
+    ba: Штеффи Граф
+    be: Штэфі Граф
+    be-tarask: Штэфі Граф
+    bg: Щефи Граф
+    bho: स्टेफी ग्राफ
+    bn: স্টেফি গ্রাফ
+    br: Steffi Graf
+    bs: Steffi Graf
+    ca: Steffi Graf
+    cs: Steffi Grafová
+    da: Steffi Graf
+    de: Steffi Graf
+    el: Στέφι Γκραφ
+    en: Steffi Graf
+    en-ca: Steffi Graf
+    en-gb: Steffi Graf
+    en-us: Steffi Graf
+    eo: Steffi Graf
+    es: Steffi Graf
+    et: Steffi Graf
+    eu: Steffi Graf
+    ext: Steffi Graf
+    fa: اشتفی گراف
+    fi: Steffi Graf
+    fr: Steffi Graf
+    fy: Steffi Graf
+    ga: Steffi Graf
+    gaa: Steffi Graf
+    gl: Steffi Graf
+    gpe: Steffi Graf
+    gsw: Steffi Graf
+    gu: સ્ટેફી ગ્રાફ
+    ha: Steffi Graf
+    he: שטפי גראף
+    hi: स्टेफी ग्राफ
+    hr: Steffi Graf
+    hu: Steffi Graf
+    hy: Շտեֆֆի Գրաֆ
+    id: Steffi Graf
+    io: Steffi Graf
+    is: Steffi Graf
+    it: Steffi Graf
+    ja: シュテフィ・グラフ
+    ka: შტეფი გრაფი
+    kk: Штеффи Граф
+    kn: ಸ್ಟೆಫಿ ಗ್ರಾಫ್
+    ko: 슈테피 그라프
+    lb: Steffi Graf
+    lmo: Steffi Graf
+    lt: Steffi Graf
+    lv: Štefija Grāfa
+    mg: Steffi Graf
+    mk: Штефи Граф
+    ml: സ്റ്റെഫി ഗ്രാഫ്
+    mr: स्टेफी ग्राफ
+    mul: Steffi Graf
+    nan: Steffi Graf
+    nb: Steffi Graf
+    nds: Steffi Graf
+    nds-nl: Steffi Graf
+    nl: Steffi Graf
+    nn: Steffi Graf
+    oc: Steffi Graf
+    pa: ਸ਼ਟੈੱਫ਼ੀ ਗ੍ਰਾਫ਼
+    pl: Steffi Graf
+    pms: Steffi Graf
+    pt: Steffi Graf
+    pt-br: Steffi Graf
+    qu: Steffi Graf
+    ro: Steffi Graf
+    ru: Штеффи Граф
+    sat: ᱥᱴᱮᱯᱷᱤ ᱜᱨᱟᱯᱷ
+    sco: Steffi Graf
+    sh: Steffi Graf
+    sk: Steffi Grafová
+    sl: Steffi Graf
+    sq: Steffi Graf
+    sr: Штефи Граф
+    sv: Steffi Graf
+    sw: Steffi Graf
+    ta: ஸ்ரெஃபி கிராஃப்
+    te: స్టెఫీ గ్రాఫ్
+    tg: Штеффи Граф
+    tr: Steffi Graf
+    tw: Steffi Graf
+    uk: Штеффі Граф
+    ur: اسٹیفی گراف
+    uz: Steffi Graf
+    vi: Steffi Graf
+    wa: Steffi Graf
+    war: Steffi Graf
+    wuu: 施特菲·格拉芙
+    yo: Steffi Graf
+    yue: 施特菲嘉芙
+    zh: 施特菲·格拉夫
+    zh-cn: 施特菲·格拉夫
+    zh-tw: 史蒂菲·葛拉芙
 ---
-
 # [[Graf,Steffi]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Steffi_Graf,11662|WD~Steffi_Graf,11662]]  

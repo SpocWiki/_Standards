@@ -1,30 +1,155 @@
 ---
 aliases:
+- efelychiad
+- imitacija
+- ionsamhlú
+- Kananhinachay
+- mô phỏng
+- penyelakuan
+- simulace
+- simulacija
+- simulació
+- simulación
+- simulado
+- simulare
+- simulasi
+- Simulasyon
+- simulatie
+- simulation
+- simulation de phénomènes
+- Simulatioun
+- Simulatsioon
+- Simulazio
+- simulazione
+- Simulazzioni
+- simulação
+- simulering
+- Simulo
+- simulointi
+- Simulācija
+- simułasion
+- simülasyon
+- symulacja
+- szimuláció
+- UmFefenyeko
+- Προσομοίωση
+- симулација
+- Симулация
+- Симулятор
+- симуляція
+- симуляция
+- сымуляцыя
+- סימולציה
+- تخروپن
+- شبیهسازی
+- محاكاة
+- ڤڽلاکوان
+- ھاوشێوەسازی
+- सिमुलेशन
+- உருவகப்படுத்துதல்
+- అనుకరణ
+- ಸಿಮ್ಯುಲೇಶನ್
+- การจำลอง
+- シミュレーション
+- 模拟
+- 模擬
+- 시뮬레이션
 has_id_wikidata: Q45045
 subclass_of:
-  - "[[_Standards/WikiData/WD~experiment,101965]]"
-  - "[[_Standards/WikiData/WD~mathematical_model,486902]]"
-  - "[[_Standards/WikiData/WD~simulacrum,1412596]]"
+- '[[_Standards/WikiData/WD~experiment,101965]]'
+- '[[_Standards/WikiData/WD~mathematical_model,486902]]'
+- '[[_Standards/WikiData/WD~simulacrum,1412596]]'
 has_use:
-  - "[[_Standards/WikiData/WD~computational_science,117801]]"
-  - "[[_Standards/WikiData/WD~computational_fluid_dynamics,815820]]"
-  - "[[_Standards/WikiData/WD~stress_analysis,1408487]]"
-  - "[[_Standards/WikiData/WD~simulation_game,2310303]]"
+- '[[_Standards/WikiData/WD~computational_science,117801]]'
+- '[[_Standards/WikiData/WD~computational_fluid_dynamics,815820]]'
+- '[[_Standards/WikiData/WD~stress_analysis,1408487]]'
+- '[[_Standards/WikiData/WD~simulation_game,2310303]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-different_from: "[[_Standards/WikiData/WD~stimulation,4114622]]"
-facet_of: "[[_Standards/WikiData/WD~modeling_and_simulation,6888384]]"
+different_from: '[[_Standards/WikiData/WD~stimulation,4114622]]'
+facet_of: '[[_Standards/WikiData/WD~modeling_and_simulation,6888384]]'
 part_of:
-  - "[[_Standards/WikiData/WD~physics,413]]"
-  - "[[_Standards/WikiData/WD~engineering,11023]]"
-  - "[[_Standards/WikiData/WD~computer_science,21198]]"
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~computer_science,21198]]'
 main_Wikidata_property: simulates
 ComputerLanguage_com_definition: simulation
 GitHub_topic:
-  - simulation
-  - simulations
+- simulation
+- simulations
 Commons_category: Simulation
+dv_has_:
+  name_:
+    ar: محاكاة
+    be-tarask: сымуляцыя
+    bg: Симулация
+    bs: simulacija
+    ca: simulació
+    ckb: ھاوشێوەسازی
+    cs: simulace
+    cy: efelychiad
+    da: simulering
+    de: Simulation
+    el: Προσομοίωση
+    en: simulation
+    eo: simulado
+    es: simulación
+    et: Simulatsioon
+    eu: Simulazio
+    fa: شبیهسازی
+    fi: simulointi
+    fr: simulation de phénomènes
+    ga: ionsamhlú
+    gl: simulación
+    gsw: Simulation
+    he: סימולציה
+    hi: सिमुलेशन
+    hu: szimuláció
+    id: simulasi
+    io: Simulo
+    it: simulazione
+    ja: シミュレーション
+    kk: Симулятор
+    kn: ಸಿಮ್ಯುಲೇಶನ್
+    ko: 시뮬레이션
+    lb: Simulatioun
+    lt: imitacija
+    lv: Simulācija
+    min: Simulasi
+    ms: penyelakuan
+    ms-arab: ڤڽلاکوان
+    nb: simulering
+    nl: simulatie
+    nn: simulering
+    pl: symulacja
+    pt: simulação
+    pt-br: simulação
+    qu: Kananhinachay
+    ro: simulare
+    ru: симуляция
+    scn: Simulazzioni
+    sl: simulacija
+    sr: симулација
+    sr-ec: симулација
+    su: Simulasi
+    sv: simulering
+    ta: உருவகப்படுத்துதல்
+    te: అనుకరణ
+    th: การจำลอง
+    tl: Simulasyon
+    tr: simülasyon
+    uk: симуляція
+    ur: تخروپن
+    vec: simułasion
+    vi: mô phỏng
+    war: Simulasyon
+    yue: 模擬
+    zh: 模擬
+    zh-cn: 模拟
+    zh-hans: 模拟
+    zh-hant: 模擬
+    zh-tw: 模擬
+    zu: UmFefenyeko
 ---
-
 # [[Simulation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~simulation,45045|WD~simulation,45045]]  

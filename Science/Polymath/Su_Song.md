@@ -1,30 +1,40 @@
 ---
 aliases:
-  - Su Song
-  - 蘇頌
-  - So͘ Siōng
-  - Zirong
-  - Su_Song
+- So͘ Siōng
+- Su Song
+- Su Sung
+- Su_Song
+- Tô Tụng
+- Zirong
+- Су Сун
+- Су Сунг
+- سو سونج
+- سو سونغ
+- سو سونگ
+- সু সং
+- 苏颂
+- 蘇頌
+- 소송
 has_id_wikidata: Q1265657
 place_of_birth: '[[_Standards/WikiData/WD~Quanzhou,68695]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~pharmacist,105186]]'
-  - '[[_Standards/WikiData/WD~astrologer,155647]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~diplomat,193391]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~zoologist,350979]]'
-  - '[[_Standards/WikiData/WD~cartographer,1734662]]'
-  - '[[_Standards/WikiData/WD~botanist,2374149]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
-  - '[[_Standards/WikiData/WD~metallurgist,18576582]]'
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~naturalist,18805]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
-  - '[[_Standards/WikiData/WD~architect,42973]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~pharmacist,105186]]'
+- '[[_Standards/WikiData/WD~astrologer,155647]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~zoologist,350979]]'
+- '[[_Standards/WikiData/WD~cartographer,1734662]]'
+- '[[_Standards/WikiData/WD~botanist,2374149]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+- '[[_Standards/WikiData/WD~metallurgist,18576582]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~architect,42973]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Northern_Song_dynasty,319460]]'
 family_name: '[[_Standards/WikiData/WD~Su,450129]]'
 described_by_source: '[[_Standards/WikiData/WD~History_of_Song,1147260]]'
@@ -32,11 +42,11 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 notable_work: '[[_Standards/WikiData/WD~Q11093455,11093455]]'
 position_held: "[[_Standards/WikiData/WD~ambassador_of_the_People's_Republic_of_China,29898672]]"
 child:
-  - '[[_Standards/WikiData/WD~Su_Jing,45362399]]'
-  - '[[_Standards/WikiData/WD~Su_Xi,45362407]]'
-  - '[[_Standards/WikiData/WD~Su_Xi,45362412]]'
-  - '[[_Standards/WikiData/WD~Su_Jiong,45372038]]'
-  - '[[_Standards/WikiData/WD~Su_Jia,45372102]]'
+- '[[_Standards/WikiData/WD~Su_Jing,45362399]]'
+- '[[_Standards/WikiData/WD~Su_Xi,45362407]]'
+- '[[_Standards/WikiData/WD~Su_Xi,45362412]]'
+- '[[_Standards/WikiData/WD~Su_Jiong,45372038]]'
+- '[[_Standards/WikiData/WD~Su_Jia,45372102]]'
 father: '[[_Standards/WikiData/WD~Su_Shen,45365965]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_birth: 1020-01-01T00:00:00Z
@@ -48,11 +58,63 @@ CYT_CCS: AC000249129
 Commons_category: Su Song
 courtesy_name: 子容
 posthumous_name:
-  - 正简
-  - 正簡
+- 正简
+- 正簡
 date_of_death: 1101-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: سو سونغ
+    arz: سو سونج
+    ast: Su Song
+    ba: Су Сун
+    be-tarask: Су Сун
+    bn: সু সং
+    ca: Su Song
+    cs: Su Sung
+    cy: Su Song
+    da: Su Song
+    de: Su Song
+    en: Su Song
+    eo: Su Song
+    es: Su Song
+    eu: Su Song
+    fa: سو سونگ
+    fi: Su Song
+    fr: Su Song
+    ga: Su Song
+    gl: Su Song
+    hu: Su Song
+    id: Su Song
+    it: Su Song
+    ja: 蘇頌
+    ko: 소송
+    lzh: 蘇頌
+    mg: Su Song
+    mk: Су Сунг
+    ms: Su Song
+    nb: Su Song
+    nl: Su Song
+    oc: Su Song
+    pl: Su Song
+    pt: Su Song
+    pt-br: Su Song
+    ro: Su Song
+    ru: Су Сун
+    sc: Su Song
+    sh: Su Song
+    sl: Su Song
+    sq: Su Song
+    sr: Su Sung
+    sv: Su Song
+    uk: Су Сун
+    uz: Su Song
+    vi: Tô Tụng
+    yue: 蘇頌
+    zh: 苏颂
+    zh-hans: 苏颂
+    zh-hant: 蘇頌
+    zh-hk: 蘇頌
 ---
-
 # [[Su_Song]] 
 
 #is_/same_as :: [[WD~Su_Song,1265657]] 

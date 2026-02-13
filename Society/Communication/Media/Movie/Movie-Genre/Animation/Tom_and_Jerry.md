@@ -1,4 +1,233 @@
-
+---
+has_id_wikidata: Q131144
+dv_has_:
+  name_:
+    am: ቶም እና ጄሪ
+    ar: توم وجيري
+    ary: توم و جيري
+    arz: توم وجيرى (مسلسل)
+    ast: Tom y Jerry
+    awa: टम एण्ड जेरी
+    az: Tom və Cerri
+    azb: تام و جری
+    ban: Tom and Jerry
+    bar: Tom und Jerry
+    bcl: Tom at Jerry
+    be: Том і Джэры
+    be-tarask: Том і Джэры
+    bg: Том и Джери
+    bho: टॉम एंड जेरी
+    bm: Tom and Jerry
+    bn: টম অ্যান্ড জেরি
+    bo: ངང་པ་རྔོན་པའི་ནམ་དུས།
+    ca: Tom i Jerry
+    ce: ЦӀуцӀи МуцӀи
+    ckb: تۆم و جێری
+    cs: Tom a Jerry
+    cv: Том тата Джерри
+    da: Tom & Jerry
+    de: Tom und Jerry
+    diq: Tom sisi Jerry
+    dv: ޓޮމް އެންޑް ޖެރީ
+    ee: Tom in Jerry
+    el: Τομ και Τζέρι
+    en: Tom and Jerry
+    en-gb: Tom and Jerry
+    en-us: Tom and Jerry
+    eo: Tom kaj Jerry
+    es: Tom y Jerry
+    et: Tom ja Jerry
+    eu: Tom eta Jerry
+    fa: تام و جری
+    fi: Tom & Jerry
+    fo: Tom & Jerry
+    fr: Tom et Jerry
+    ga: Tom and Jerry
+    gl: Tom e Jerry
+    ha: Tom da Jerry
+    he: טום וג'רי
+    hi: टॉम एंड जेरी
+    hr: Tom i Jerry
+    hu: Tom és Jerry
+    hy: Թոմն ու Ջերին
+    hyw: Թոմն ու Ճերին
+    ia: Tom and Jerry
+    id: Tom and Jerry
+    is: Tom og Jerry
+    it: Tom & Jerry
+    iu: Tom and Jerry
+    ja: トムとジェリー
+    jv: Tom & jerry
+    ka: ტომი და ჯერი
+    kcg: Tom ma̱ng Jeri
+    kk: Том және Джерри
+    kk-arab: توم جانە دجەررىي
+    kk-cn: توم جانە دجەررىي
+    kk-cyrl: Том және Джерри
+    kk-kz: Том және Джерри
+    kk-latn: Tom jäne Djerrï
+    kk-tr: Tom jäne Djerrï
+    km: តុមនិងជេរី
+    kn: ಟಾಮ್ ಅಂಡ್ ಜೆರ್ರಿ
+    ko: 톰과 제리
+    ks: ٹام تہٕ جیری
+    ku: Tom û Jerry (rêzefîlm)
+    ky: Том жана Жерри
+    lo: ທອມແລະເຈີລີ່
+    lt: Tomas ir Džeris
+    lv: Toms un Džerijs
+    lzh: 貓與鼠
+    min: Tom jo Jerry
+    mk: Том и Џери
+    ml: ടോം ആൻഡ് ജെറി
+    mn: Том Жерри
+    mni: ꯇꯣꯝ ꯑꯃꯗꯤ ꯖꯦꯔꯔꯤ
+    mr: टॉम अॅन्ड जेरी
+    ms: Tom and Jerry
+    my: တွမ်နှင့်ဂျယ်ရီ
+    nan: Tom and Jerry
+    nb: Tom og Jerry
+    ne: टम एन्ड जेरी
+    nl: Tom en Jerry
+    ny: Tom cici Jerry
+    pa: ਟਾਮ ਅਤੇ ਜੈਰੀ
+    pl: Tom i Jerry
+    ps: ټوم اينډ جېري
+    pt: Tom and Jerry
+    pt-br: Tom and Jerry
+    ro: Tom și Jerry
+    ru: Том и Джерри
+    rup: Tom and Jerry
+    sat: ᱴᱚᱢ ᱮᱱᱰ ᱡᱮᱨᱤ
+    scn: Tom e Jerry
+    sco: Tom an Jerry
+    sh: Tom and Jerry
+    sk: Tom a Jerry
+    sl: Tom in Jerry
+    sq: Tom & Jerry
+    sr: Том и Џери
+    sr-ec: Том и Џери
+    sr-el: Tom i Džeri
+    su: Tom and Jerry
+    sv: Tom och Jerry
+    sw: Tom na Jerry
+    ta: டாம் அண்ட் ஜெர்ரி
+    te: టామ్ మరియు జెర్రీ
+    tg: Том ва Ҷеррӣ
+    th: ทอมกับเจอร์รี่
+    tk: Tom we Jerri
+    tl: Tom and Jerry
+    tr: Tom ve Jerry
+    ty: Tom and Jerry
+    ug: مۈشۈك بىلەن چاشقان
+    uk: Том і Джеррі
+    ur: ٹوم اینڈ جیری
+    uz: Tom va Jerry
+    vi: Tom và Jerry
+    war: Tom and Jerry
+    wuu: 讨骂搭吉利
+    yi: טאם און דזשערי
+    yue: 湯姆與謝利
+    zgh: ⵟⵓⵎ ⴷ ⵊⵉⵔⵉ
+    zh: 猫和老鼠
+    zh-cn: 猫和老鼠
+    zh-hans: 猫和老鼠
+    zh-hant: 湯姆貓與傑利鼠
+    zh-hk: 湯姆與傑利
+    zh-sg: 猫和老鼠
+    zh-tw: 湯姆與傑利
+aliases:
+- Tom & Jerry
+- Tom a Jerry
+- Tom an Jerry
+- Tom and Jerry
+- Tom at Jerry
+- Tom cici Jerry
+- Tom da Jerry
+- Tom e Jerry
+- Tom en Jerry
+- Tom et Jerry
+- Tom eta Jerry
+- Tom i Džeri
+- Tom i Jerry
+- Tom in Jerry
+- Tom ja Jerry
+- Tom jo Jerry
+- Tom jäne Djerrï
+- Tom kaj Jerry
+- Tom ma̱ng Jeri
+- Tom na Jerry
+- Tom och Jerry
+- Tom og Jerry
+- Tom sisi Jerry
+- Tom und Jerry
+- Tom va Jerry
+- Tom ve Jerry
+- Tom và Jerry
+- Tom və Cerri
+- Tom we Jerri
+- Tom y Jerry
+- Tom és Jerry
+- Tom û Jerry (rêzefîlm)
+- Tom și Jerry
+- Tomas ir Džeris
+- Toms un Džerijs
+- Τομ και Τζέρι
+- Том і Джеррі
+- Том і Джэры
+- Том ва Ҷеррӣ
+- Том жана Жерри
+- Том Жерри
+- Том және Джерри
+- Том и Џери
+- Том и Джери
+- Том и Джерри
+- Том тата Джерри
+- ЦӀуцӀи МуцӀи
+- Թոմն ու Ճերին
+- Թոմն ու Ջերին
+- טאם און דזשערי
+- טום וג'רי
+- تام و جری
+- توم جانە دجەررىي
+- توم و جيري
+- توم وجيرى (مسلسل)
+- توم وجيري
+- تۆم و جێری
+- مۈشۈك بىلەن چاشقان
+- ٹام تہٕ جیری
+- ٹوم اینڈ جیری
+- ټوم اينډ جېري
+- ޓޮމް އެންޑް ޖެރީ
+- टम एण्ड जेरी
+- टम एन्ड जेरी
+- टॉम अॅन्ड जेरी
+- टॉम एंड जेरी
+- টম অ্যান্ড জেরি
+- ਟਾਮ ਅਤੇ ਜੈਰੀ
+- டாம் அண்ட் ஜெர்ரி
+- టామ్ మరియు జెర్రీ
+- ಟಾಮ್ ಅಂಡ್ ಜೆರ್ರಿ
+- ടോം ആൻഡ് ജെറി
+- ทอมกับเจอร์รี่
+- ທອມແລະເຈີລີ່
+- ངང་པ་རྔོན་པའི་ནམ་དུས།
+- တွမ်နှင့်ဂျယ်ရီ
+- ტომი და ჯერი
+- ቶም እና ጄሪ
+- តុមនិងជេរី
+- ᱴᱚᱢ ᱮᱱᱰ ᱡᱮᱨᱤ
+- ⵟⵓⵎ ⴷ ⵊⵉⵔⵉ
+- トムとジェリー
+- 湯姆與傑利
+- 湯姆與謝利
+- 湯姆貓與傑利鼠
+- 猫和老鼠
+- 讨骂搭吉利
+- 貓與鼠
+- ꯇꯣꯝ ꯑꯃꯗꯤ ꯖꯦꯔꯔꯤ
+- 톰과 제리
+---
 # [[Tom_and_Jerry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tom_and_Jerry,131144|WD~Tom_and_Jerry,131144]]   

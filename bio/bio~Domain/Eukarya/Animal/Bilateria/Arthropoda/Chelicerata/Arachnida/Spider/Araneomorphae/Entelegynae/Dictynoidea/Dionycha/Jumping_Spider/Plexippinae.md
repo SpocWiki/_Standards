@@ -1,10 +1,51 @@
 ---
 aliases:
-  - Plexippinae
-  - Plexippini
+- Plexippinae
+- Plexippini
+- بليكسيبينى
+- 蝇虎族
 title: Plexippinae
+has_id_wikidata: Q116846
+dv_has_:
+  name_:
+    an: Plexippini
+    arz: بليكسيبينى
+    ast: Plexippini
+    bg: Plexippini
+    ca: Plexippini
+    ceb: Plexippini
+    de: Plexippini
+    en: Plexippini
+    eo: Plexippini
+    es: Plexippini
+    eu: Plexippini
+    ext: Plexippini
+    fi: Plexippini
+    fr: Plexippini
+    ga: Plexippini
+    gl: Plexippini
+    ia: Plexippini
+    ie: Plexippini
+    io: Plexippini
+    it: Plexippini
+    la: Plexippini
+    mul: Plexippini
+    nl: Plexippini
+    oc: Plexippini
+    pl: Plexippini
+    pt: Plexippini
+    pt-br: Plexippini
+    ro: Plexippini
+    ru: Plexippini
+    sq: Plexippini
+    uk: Plexippini
+    vi: Plexippini
+    vo: Plexippini
+    war: Plexippini
+    zh: 蝇虎族
+    zh-cn: 蝇虎族
+    zh-hans: 蝇虎族
 ---
-
 # [[Plexippinae]] 
 
 ![ ](Plexippinae/plexippinae.gif)

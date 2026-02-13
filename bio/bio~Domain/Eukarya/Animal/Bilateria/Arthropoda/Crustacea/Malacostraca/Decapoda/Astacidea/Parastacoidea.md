@@ -1,10 +1,77 @@
 ---
 aliases:
-  - Parastacoidea
-  - Parastacidae
+- etelänravut
+- Parastacidae
+- Parastacoidea
+- Parastacoideos
+- Parastàcid
+- Shádiʼááhdę́ę́ʼ chʼoshtsoh biláshgaantsohí
+- Παραστακίδες
+- باراستاسيداى
+- نظيرات جراد الماء العذب
+- วงศ์เครย์ฟิชออสเตรเลีย
+- ミナミザリガニ科
+- 副蝲蛄科
+- 拟螯虾科
+- 남방가재과
 title: Parastacidae
+has_id_wikidata: Q1190541
+dv_has_:
+  name_:
+    an: Parastacidae
+    ar: نظيرات جراد الماء العذب
+    arz: باراستاسيداى
+    ast: Parastacidae
+    az: Parastacidae
+    bg: Parastacidae
+    ca: Parastàcid
+    ceb: Parastacoidea
+    cs: Parastacidae
+    cv: Parastacidae
+    da: Parastacidae
+    de: Parastacidae
+    el: Παραστακίδες
+    en: Parastacidae
+    eo: Parastacidae
+    es: Parastacidae
+    eu: Parastacidae
+    ext: Parastacidae
+    fi: etelänravut
+    fr: Parastacidae
+    ga: Parastacidae
+    gl: Parastacoideos
+    ia: Parastacidae
+    ie: Parastacidae
+    io: Parastacidae
+    it: Parastacidae
+    ja: ミナミザリガニ科
+    ko: 남방가재과
+    la: Parastacidae
+    mul: Parastacidae
+    nb: Parastacidae
+    nl: Parastacidae
+    nn: Parastacidae
+    nv: Shádiʼááhdę́ę́ʼ chʼoshtsoh biláshgaantsohí
+    oc: Parastacidae
+    pl: Parastacidae
+    pt: Parastacidae
+    pt-br: Parastacidae
+    ro: Parastacidae
+    ru: Parastacidae
+    sl: Parastacidae
+    sq: Parastacidae
+    sv: Parastacidae
+    th: วงศ์เครย์ฟิชออสเตรเลีย
+    tr: Parastacidae
+    uk: Parastacidae
+    vi: Parastacidae
+    vo: Parastacidae
+    war: Parastacidae
+    zh: 副蝲蛄科
+    zh-cn: 副蝲蛄科
+    zh-hans: 拟螯虾科
+    zh-tw: 副蝲蛄科
 ---
-
 ## [[Parastacoidea]] 
 
 Parastacidae 

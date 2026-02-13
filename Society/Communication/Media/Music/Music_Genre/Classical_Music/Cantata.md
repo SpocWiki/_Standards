@@ -1,30 +1,139 @@
 ---
-has_time_started: 1600-01-01 
+has_time_started: 1600-01-01
 aliases:
-  - Kantate
-  - Cantata
+- Cantata
+- cantate
+- Cantată
+- cantáid
+- Kantaat
+- kantaatti
+- kantat
+- kantata
+- Kantate
+- kantato
+- kantáta
+- kantāte
+- καντάτα
+- кантатæ
+- кантата
+- Կանտատ
+- קנטטה
+- كانتاتا
+- كنتاتا
+- کانتاتا
+- คันตาตา
+- კანტატა
+- カンタータ
+- 康塔塔
+- 清唱劇
+- 칸타타
 has_id_wikidata: Q174873
 different_from: '[[_Standards/WikiData/WD~oratorio,85477]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~music_genre,188451]]'
-  - '[[_Standards/WikiData/WD~musical_form,862597]]'
-  - '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~musical_form,862597]]'
+- '[[_Standards/WikiData/WD~type_of_musical_work_composition,107487333]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 inception: 1600-01-01T00:00:00Z
 language_of_work_or_name: '[[_Standards/WikiData/WD~Italian,652]]'
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bach%20Cantata%2029%20Sinfonia%2001.wav
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Soloquartet%20and%20strings.jpg
 P8189: 987007283199705171
 Commons_category: Cantatas
+dv_has_:
+  name_:
+    af: kantate
+    ar: كنتاتا
+    arz: كنتاتا
+    ast: Cantata
+    az: kantata
+    be: кантата
+    be-tarask: кантата
+    bg: кантата
+    bs: Kantata
+    ca: cantata
+    cs: kantáta
+    cy: cantata
+    da: kantate
+    de: Kantate
+    el: καντάτα
+    en: cantata
+    eo: kantato
+    es: Cantata
+    et: Kantaat
+    eu: kantata
+    fa: کانتاتا
+    fi: kantaatti
+    fr: cantate
+    ga: cantáid
+    gl: cantata
+    he: קנטטה
+    hr: Kantata
+    hu: kantáta
+    hy: Կանտատ
+    id: Kantata
+    io: Kantato
+    it: cantata
+    ja: カンタータ
+    ka: კანტატა
+    kk: Кантата
+    kk-arab: كانتاتا
+    kk-cn: كانتاتا
+    kk-cyrl: Кантата
+    kk-kz: Кантата
+    kk-latn: Kantata
+    kk-tr: Kantata
+    ko: 칸타타
+    ky: Кантата
+    la: cantata
+    lt: kantata
+    lv: kantāte
+    mhr: Кантата
+    mk: Кантата
+    ms: Kantata
+    mt: kantata
+    nb: kantate
+    nl: cantate
+    nn: kantate
+    os: кантатæ
+    pl: kantata
+    pt: cantata
+    pt-br: cantata
+    ro: Cantată
+    ru: кантата
+    scn: Cantata
+    sh: Kantata
+    sk: Kantáta
+    sl: kantata
+    sq: Kantata
+    sr: Кантата
+    sr-ec: Кантата
+    sr-el: Kantata
+    sv: kantat
+    tg: Кантата
+    th: คันตาตา
+    tr: Kantat
+    uk: кантата
+    uz: Kantata
+    vi: cantata
+    wuu: 康塔塔
+    yue: Cantata
+    zh: 康塔塔
+    zh-cn: 康塔塔
+    zh-hans: 康塔塔
+    zh-hant: 清唱劇
+    zh-hk: 清唱劇
+    zh-sg: 康塔塔
+    zh-tw: 清唱劇
 ---
 # [[Cantata]] 
 

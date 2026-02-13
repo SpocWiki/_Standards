@@ -1,17 +1,90 @@
 ---
 aliases:
-  - Informal fallacy
+- eroare informală
+- Falacia informal
+- fallacia informale
+- fal·làcia informal
+- falácia informal
+- fałasa informałe
+- fállas neamhfhoirmiúil
+- gayriresmî safsata
+- Informal fallacy
+- Informaler Fehlschluss
+- informele drogreden
+- informeller Trugschluss
+- informális érvelési hiba
+- kesesatan logika Informal
+- neformala logika trompo
+- neformalna logička greška
+- neformalna zmota
+- Neformalne greške
+- uformel fejlslutning
+- uformell tankefeil
+- wacana sané nénten patut ring niskala
+- нефармальная памылка
+- неформална логичка грешка
+- неформальна помилка
+- неформальная ошибка
+- כשל לא־צורני
+- غیر رسمي تېروتنې
+- مغالطة غير رسمية
+- مغالطه غیرصوری
+- अनाकारिक तर्कदोष
+- เหตุผลวิบัติอรูปนัย
+- 非形式的誤謬
+- 非形式謬誤
+- 非形式谬误
+- 비형식적 오류
 has_id_wikidata: Q3312438
 subclass_of:
-  - "[[_Standards/WikiData/WD~fallacy,186150]]"
-  - "[[_Standards/WikiData/WD~cognitive_bias,1127759]]"
-opposite_of: "[[_Standards/WikiData/WD~non_sequitur,825737]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Informal_fallacies,6180719]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Informal_fallacies,14403785]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+- '[[_Standards/WikiData/WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~cognitive_bias,1127759]]'
+opposite_of: '[[_Standards/WikiData/WD~non_sequitur,825737]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Informal_fallacies,6180719]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Informal_fallacies,14403785]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
 Commons_category: Informal fallacies
+dv_has_:
+  name_:
+    ar: مغالطة غير رسمية
+    ban: wacana sané nénten patut ring niskala
+    be-tarask: нефармальная памылка
+    bs: neformalna logička greška
+    ca: fal·làcia informal
+    da: uformel fejlslutning
+    de: informeller Trugschluss
+    en: informal fallacy
+    en-gb: informal fallacy
+    eo: neformala logika trompo
+    es: Falacia informal
+    fa: مغالطه غیرصوری
+    ga: fállas neamhfhoirmiúil
+    he: כשל לא־צורני
+    hi: अनाकारिक तर्कदोष
+    hu: informális érvelési hiba
+    id: kesesatan logika Informal
+    it: fallacia informale
+    ja: 非形式的誤謬
+    ko: 비형식적 오류
+    mk: неформална логичка грешка
+    nb: uformell tankefeil
+    nl: informele drogreden
+    pfl: Informaler Fehlschluss
+    ps: غیر رسمي تېروتنې
+    pt: falácia informal
+    ro: eroare informală
+    ru: неформальная ошибка
+    sl: neformalna zmota
+    sr: Neformalne greške
+    th: เหตุผลวิบัติอรูปนัย
+    tr: gayriresmî safsata
+    uk: неформальна помилка
+    vec: fałasa informałe
+    zh: 非形式謬誤
+    zh-hans: 非形式谬误
+    zh-hant: 非形式謬誤
+    zh-hk: 非形式謬誤
 ---
-
 # [[Informal_Fallacy]] 
 
 #is_/same_as :: [[WD~Informal_Fallacy,3312438]] 

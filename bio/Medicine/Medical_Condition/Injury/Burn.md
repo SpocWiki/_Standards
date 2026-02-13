@@ -1,22 +1,102 @@
 ---
 aliases:
-  - Verbrennung
-  - Burn
+- alebamsō
+- apdegums
+- arsură
+- bon
+- brandsår
+- brandwond
+- brannskade
+- brulvundo
+- brännskada
+- brûlure
+- Burn
+- bỏng
+- Coemhdangqsieng
+- cremada
+- cremadura
+- djegia
+- dó
+- erredura
+- jeraha la moto
+- kuyish
+- kái
+- küýik
+- lecur
+- llosgiad
+- luka bakar
+- nudegimas
+- oparzenie
+- opeklina
+- opekotina
+- palovamma
+- paso
+- popálenina
+- põletus
+- queimadura
+- quemadura
+- ustione
+- Verbrennung
+- yanık
+- yanıq
+- yúppà
+- égési sérülés
+- Ƙonewa
+- Έγκαυμα
+- апёк
+- бешеү
+- изгаряне
+- изгореница
+- Күйік
+- күйүк
+- ожог
+- опік
+- опекотина
+- пешү
+- Уокка сиэтии
+- Այրվածքներ
+- Մորթի այրուածքներ
+- כווייה
+- آتش زدگی
+- حرق
+- سوختگی
+- كۇيىك
+- ފިހުން
+- जलना
+- पोलेको घाउ
+- পোড়া
+- ਸਾੜ-ਸੋਜ਼
+- દાઝવું
+- ଦଗ୍ଧ
+- தீக்காயம்
+- പൊള്ളൽ
+- පිළිස්සීම
+- แผลไหม้
+- မႆႈလူၵ်ႈ
+- အပူလောင်
+- დამწვრობა
+- ᱟᱛᱟᱨ
+- 灼伤
+- 烧伤
+- 熱傷
+- 燒傷
+- 辣親
+- 화상
 has_id_wikidata: Q170518
 subclass_of:
-  - '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
-  - '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
+- '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
+- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~silver_nitrate,207442]]'
-  - '[[_Standards/WikiData/WD~lidocaine,216935]]'
-  - '[[_Standards/WikiData/WD~silver_sulfadiazine,420984]]'
-  - '[[_Standards/WikiData/WD~benzocaine,422745]]'
-  - '[[_Standards/WikiData/WD~ferric_subsulfate,5445335]]'
+- '[[_Standards/WikiData/WD~silver_nitrate,207442]]'
+- '[[_Standards/WikiData/WD~lidocaine,216935]]'
+- '[[_Standards/WikiData/WD~silver_sulfadiazine,420984]]'
+- '[[_Standards/WikiData/WD~benzocaine,422745]]'
+- '[[_Standards/WikiData/WD~ferric_subsulfate,5445335]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12825550,12825550]]'
 instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
@@ -29,8 +109,112 @@ UMLS_CUI: C0006434
 MeSH_tree_code: C26.200
 Krugosvet_article: medicina/OZHOGI.html
 Baidu_Tieba_name: 烧伤
+dv_has_:
+  name_:
+    agq: alebamsō
+    ar: حرق
+    ast: quemadura
+    az: yanıq
+    ba: бешеү
+    be: апёк
+    be-tarask: апёк
+    bg: изгаряне
+    bn: পোড়া
+    ca: cremada
+    cs: popálenina
+    cy: llosgiad
+    da: brandsår
+    de: Verbrennung
+    de-ch: Verbrennung
+    dv: ފިހުން
+    el: Έγκαυμα
+    en: burn
+    en-ca: burn
+    en-gb: burn
+    eo: brulvundo
+    es: quemadura
+    et: põletus
+    eu: erredura
+    fa: سوختگی
+    fi: palovamma
+    fr: brûlure
+    ga: dó
+    gl: queimadura
+    gn: kái
+    gu: દાઝવું
+    ha: Ƙonewa
+    he: כווייה
+    hi: जलना
+    hr: opeklina
+    hu: égési sérülés
+    hy: Այրվածքներ
+    hyw: Մորթի այրուածքներ
+    id: luka bakar
+    it: ustione
+    ja: 熱傷
+    jam: bon
+    ka: დამწვრობა
+    kk: күйік
+    kk-arab: كۇيىك
+    kk-cn: كۇيىك
+    kk-cyrl: Күйік
+    kk-kz: Күйік
+    kk-latn: küýik
+    kk-tr: küýik
+    ko: 화상
+    ky: күйүк
+    lt: nudegimas
+    lv: apdegums
+    mcn: yúppà
+    mk: изгореница
+    ml: പൊള്ളൽ
+    ms: lecur
+    my: အပူလောင်
+    nb: brannskade
+    ne: पोलेको घाउ
+    nl: brandwond
+    nn: brannskade
+    oc: cremadura
+    or: ଦଗ୍ଧ
+    pa: ਸਾੜ-ਸੋਜ਼
+    pl: oparzenie
+    pt: queimadura
+    pt-br: queimadura
+    ro: arsură
+    ru: ожог
+    sah: Уокка сиэтии
+    sat: ᱟᱛᱟᱨ
+    sh: opekotina
+    shn: မႆႈလူၵ်ႈ
+    si: පිළිස්සීම
+    sk: popálenina
+    sl: opeklina
+    sq: djegia
+    sr: опекотина
+    sr-ec: опекотина
+    sr-el: opekotina
+    sv: brännskada
+    sw: jeraha la moto
+    ta: தீக்காயம்
+    th: แผลไหม้
+    tl: paso
+    tr: yanık
+    tt: пешү
+    uk: опік
+    ur: آتش زدگی
+    uz: kuyish
+    vi: bỏng
+    wuu: 灼伤
+    yue: 辣親
+    za: Coemhdangqsieng
+    zh: 烧伤
+    zh-cn: 烧伤
+    zh-hans: 烧伤
+    zh-hant: 燒傷
+    zh-hk: 燒傷
+    zh-sg: 烧伤
+    zh-tw: 燒傷
 ---
-
 # [[Burn]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Burn,170518|WD~Burn,170518]] 

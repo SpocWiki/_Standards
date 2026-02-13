@@ -1,13 +1,115 @@
 ---
 aliases:
+- De Entstehung vo da Schrift
+- Dejiny písma
+- dějiny písma
+- Evolui de alfabetas
+- Geschichte der Schrift
+- geschiedenis van het schrift
+- histoire de l'écriture
+- historia da escritura
+- Historia de la escritura
+- Historia scribendi
+- historio de skribo
+- history of writing
+- història de l'escriptura
+- história da escrita
+- Idazketaren historia
+- istoria scrisului
+- Istorija pismenosti
+- Kasaysayan sa pagsulat
+- kirjoituksen historia
+- lịch sử chữ viết
+- rakstības vēsture
+- Sejarah penulisan
+- sejarah tulisan
+- Skriftens historie
+- skrifthistorie
+- storia della scrittura
+- writing material
+- Yazı tarihi
+- zgodovina pisanja
+- історія писемності
+- Бичгийн түүх
+- гісторыя пісьменства
+- Жазудың шығуы
+- история письменности
+- хъвавул история
+- היסטוריה של הכתב
+- تاريخ الكتابة
+- تاریخ نگارش
+- تحریر دی تریخ
+- لیکلوتاريخ
+- लिपि का इतिहास
+- লেখার ইতিহাস
+- ਲਿਖਣ ਦਾ ਇਤਿਹਾਸ
+- எழுத்தின் வரலாறு
+- ලිවීමේ ඉතිහාසය
+- 文字の歴史
+- 文字史
+- 문자의 역사
 has_id_wikidata: Q1340267
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~writing_system,8192]]"
-  - "[[_Standards/WikiData/WD~writing,37260]]"
+- '[[_Standards/WikiData/WD~writing_system,8192]]'
+- '[[_Standards/WikiData/WD~writing,37260]]'
 Library_of_Congress_Classification: P211-P211.7
+dv_has_:
+  name_:
+    ar: تاريخ الكتابة
+    ast: Historia de la escritura
+    av: хъвавул история
+    bar: De Entstehung vo da Schrift
+    be: Гісторыя пісьменства
+    be-tarask: гісторыя пісьменства
+    bn: লেখার ইতিহাস
+    ca: història de l'escriptura
+    ceb: Kasaysayan sa pagsulat
+    cs: dějiny písma
+    da: Skriftens historie
+    de: Geschichte der Schrift
+    en: history of writing
+    eo: historio de skribo
+    es: historia de la escritura
+    eu: Idazketaren historia
+    fa: تاریخ نگارش
+    fi: kirjoituksen historia
+    fr: histoire de l'écriture
+    gl: historia da escritura
+    gu: writing material
+    he: היסטוריה של הכתב
+    hi: लिपि का इतिहास
+    id: sejarah tulisan
+    it: storia della scrittura
+    ja: 文字の歴史
+    kk: Жазудың шығуы
+    ko: 문자의 역사
+    la: Historia scribendi
+    lfn: Evolui de alfabetas
+    lv: rakstības vēsture
+    mn: Бичгийн түүх
+    ms: Sejarah penulisan
+    nl: geschiedenis van het schrift
+    nn: skrifthistorie
+    pa: ਲਿਖਣ ਦਾ ਇਤਿਹਾਸ
+    pnb: تحریر دی تریخ
+    ps: لیکلوتاريخ
+    pt: história da escrita
+    ro: istoria scrisului
+    ru: история письменности
+    si: ලිවීමේ ඉතිහාසය
+    sk: Dejiny písma
+    sl: zgodovina pisanja
+    sr: Istorija pismenosti
+    ta: எழுத்தின் வரலாறு
+    tr: Yazı tarihi
+    uk: історія писемності
+    vi: lịch sử chữ viết
+    zh: 文字史
+    zh-hans: 文字史
+    zh-hant: 文字史
+    zh-hk: 文字史
 ---
-
 # [[History_of_Writing]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_writing,1340267|WD~History_of_writing,1340267]] 

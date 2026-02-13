@@ -52,18 +52,18 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Girls.secret|Wearable_Size_Group_Girls.secret]]"
 ---
 
-Class of all wearable_size_group_girlss.
-
-Tag Instances like this: 
-#is_a_/wearable_size_group_girls
+# [[Wearable_Size_Group_Girls]] 
 
 is_part_of = `=this.dv_is_part_of` 
-
-Size group "Girls" for wearables.
 
 has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
+
+Size group "Girls" for wearables.
+
+Tag Instances like this: 
+#is_a_/wearable_size_/group_/girls
 
 ## Confidential Links & Embeds: 
 

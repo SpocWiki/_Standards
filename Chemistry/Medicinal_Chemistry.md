@@ -1,42 +1,154 @@
 ---
 aliases:
-  - pharmaceutical chemistry
-  - Medicinal chemistry
-  - Medicinal_Chemistry
-  - Medicinal Chemistry
+- chemia leków
+- chimica medicinale
+- chimie medicală
+- chimie médicinale
+- Chìmica farmacèutica
+- farmacinė chemija
+- Farmasötik kimya
+- gyógyszerkémia
+- hóa dược
+- Kimia farmaceutike
+- Kimia medis
+- Kimia medisinal
+- Kimia perubatan
+- Kimika sendagarri
+- Kimikang pang-medisina
+- legemiddelkjemi
+- läkemedelskemi
+- lääkeainekemia
+- lékařská chemie
+- medicina ĥemio
+- Medicinal chemistry
+- medicinale chemie
+- Medicinal_Chemistry
+- medicinsk kemi
+- Medicinska hemija
+- Medicinska kemija
+- Medicínska chémia
+- medizinische Chemie
+- pharmaceutical chemistry
+- química medicinal
+- Química melecinal
+- Química mèdica
+- медицина химиясе
+- Медицинска хемија
+- Медицинска химия
+- мэдычная хімія
+- фармацевтическая химия
+- фармацевтична хімія
+- Фармацевтска хемија
+- Դեղորայքային (դեղագործական) քիմիա
+- כימיה רפואית
+- شیمی دارویی
+- كيمياء دوائية
+- کیمیای دەرمانی
+- औषधीय रसायन
+- ঔষধীয় রসায়ন
+- மருந்தியல் வேதியியல்
+- ಔಷಧೀಯ ರಸಾಯನಶಾಸ್ತ್ರ
+- เภสัชเคมี
+- 医薬品化学
+- 药物化学
+- 藥物化學
+- 의약화학
 has_id_wikidata: Q243455
 subclass_of:
-  - "[[_Standards/WikiData/WD~medicinal_and_biomolecular_chemistry,9189409]]"
-  - "[[_Standards/WikiData/WD~organic_chemistry,11351]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Medicinal_chemistry,13621143]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~pharmaceutical_chemistry,15840367]]"
-practiced_by: "[[_Standards/WikiData/WD~medicinal_chemist,110624640]]"
+- '[[_Standards/WikiData/WD~medicinal_and_biomolecular_chemistry,9189409]]'
+- '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Medicinal_chemistry,13621143]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~pharmaceutical_chemistry,15840367]]'
+practiced_by: '[[_Standards/WikiData/WD~medicinal_chemist,110624640]]'
 Dewey_Decimal_Classification: 615.19
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A-Comprehensive-Panel-of-Three-Dimensional-Models-for-Studies-of-Prostate-Cancer-Growth-Invasion-pone.0010431.s013.ogv
 Commons_category: Medicinal chemistry
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMIYA_LEKARSTV.html
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Medicinal_chemistry,243455]]"
-    - "[[/_Standards/Chemistry/Medicinal_Chemistry|Medicinal_Chemistry]]"
-    - "[[/_public/Chemistry/Medicinal_Chemistry.public|Medicinal_Chemistry.public]]"
-    - "[[/_internal/Chemistry/Medicinal_Chemistry.internal|Medicinal_Chemistry.internal]]"
-    - "[[/_protect/Chemistry/Medicinal_Chemistry.protect|Medicinal_Chemistry.protect]]"
-    - "[[/_private/Chemistry/Medicinal_Chemistry.private|Medicinal_Chemistry.private]]"
-    - "[[/_personal/Chemistry/Medicinal_Chemistry.personal|Medicinal_Chemistry.personal]]"
-    - "[[/_secret/Chemistry/Medicinal_Chemistry.secret|Medicinal_Chemistry.secret]]"
+  - '[[../WikiData/WD~Medicinal_chemistry,243455]]'
+  - '[[/_Standards/Chemistry/Medicinal_Chemistry|Medicinal_Chemistry]]'
+  - '[[/_public/Chemistry/Medicinal_Chemistry.public|Medicinal_Chemistry.public]]'
+  - '[[/_internal/Chemistry/Medicinal_Chemistry.internal|Medicinal_Chemistry.internal]]'
+  - '[[/_protect/Chemistry/Medicinal_Chemistry.protect|Medicinal_Chemistry.protect]]'
+  - '[[/_private/Chemistry/Medicinal_Chemistry.private|Medicinal_Chemistry.private]]'
+  - '[[/_personal/Chemistry/Medicinal_Chemistry.personal|Medicinal_Chemistry.personal]]'
+  - '[[/_secret/Chemistry/Medicinal_Chemistry.secret|Medicinal_Chemistry.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Medicinal_chemistry,243455]]"
-  - "[[/_Standards/Chemistry/Medicinal_Chemistry|Medicinal_Chemistry]]"
-  - "[[/_public/Chemistry/Medicinal_Chemistry.public|Medicinal_Chemistry.public]]"
-  - "[[/_internal/Chemistry/Medicinal_Chemistry.internal|Medicinal_Chemistry.internal]]"
-  - "[[/_protect/Chemistry/Medicinal_Chemistry.protect|Medicinal_Chemistry.protect]]"
-  - "[[/_private/Chemistry/Medicinal_Chemistry.private|Medicinal_Chemistry.private]]"
-  - "[[/_personal/Chemistry/Medicinal_Chemistry.personal|Medicinal_Chemistry.personal]]"
-  - "[[/_secret/Chemistry/Medicinal_Chemistry.secret|Medicinal_Chemistry.secret]]"
+- '[[../WikiData/WD~Medicinal_chemistry,243455]]'
+- '[[/_Standards/Chemistry/Medicinal_Chemistry|Medicinal_Chemistry]]'
+- '[[/_public/Chemistry/Medicinal_Chemistry.public|Medicinal_Chemistry.public]]'
+- '[[/_internal/Chemistry/Medicinal_Chemistry.internal|Medicinal_Chemistry.internal]]'
+- '[[/_protect/Chemistry/Medicinal_Chemistry.protect|Medicinal_Chemistry.protect]]'
+- '[[/_private/Chemistry/Medicinal_Chemistry.private|Medicinal_Chemistry.private]]'
+- '[[/_personal/Chemistry/Medicinal_Chemistry.personal|Medicinal_Chemistry.personal]]'
+- '[[/_secret/Chemistry/Medicinal_Chemistry.secret|Medicinal_Chemistry.secret]]'
+dv_has_:
+  name_:
+    ar: كيمياء دوائية
+    ast: Química melecinal
+    be-tarask: мэдычная хімія
+    bg: Медицинска химия
+    bn: ঔষধীয় রসায়ন
+    bs: Medicinska hemija
+    ca: Química mèdica
+    ckb: کیمیای دەرمانی
+    cs: lékařská chemie
+    da: medicinsk kemi
+    de: medizinische Chemie
+    en: medicinal chemistry
+    eo: medicina ĥemio
+    es: química medicinal
+    eu: Kimika sendagarri
+    fa: شیمی دارویی
+    fi: lääkeainekemia
+    fr: chimie médicinale
+    he: כימיה רפואית
+    hi: औषधीय रसायन
+    hr: Medicinska kemija
+    hu: gyógyszerkémia
+    hy: Դեղորայքային (դեղագործական) քիմիա
+    id: Kimia medisinal
+    it: chimica medicinale
+    ja: 医薬品化学
+    jv: Kimia medis
+    kn: ಔಷಧೀಯ ರಸಾಯನಶಾಸ್ತ್ರ
+    ko: 의약화학
+    lt: farmacinė chemija
+    mk: Фармацевтска хемија
+    ms: Kimia perubatan
+    nb: legemiddelkjemi
+    nl: medicinale chemie
+    pl: chemia leków
+    pt: química medicinal
+    ro: chimie medicală
+    ru: фармацевтическая химия
+    scn: Chìmica farmacèutica
+    sh: Medicinska hemija
+    sk: Medicínska chémia
+    sl: medicinska kemija
+    sq: Kimia farmaceutike
+    sr: Medicinska hemija
+    sr-ec: Медицинска хемија
+    sr-el: Medicinska hemija
+    sv: läkemedelskemi
+    ta: மருந்தியல் வேதியியல்
+    th: เภสัชเคมี
+    tl: Kimikang pang-medisina
+    tr: Farmasötik kimya
+    tt: медицина химиясе
+    uk: фармацевтична хімія
+    vi: hóa dược
+    yue: 藥物化學
+    zh: 药物化学
+    zh-cn: 药物化学
+    zh-hans: 药物化学
+    zh-hant: 藥物化學
+    zh-hk: 藥物化學
+    zh-sg: 药物化学
+    zh-tw: 藥物化學
 ---
-
 # [[Medicinal_Chemistry]] 
 
 #is_/same_as :: [[WD~Medicinal_chemistry,243455]] 

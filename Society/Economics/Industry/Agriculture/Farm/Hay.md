@@ -1,10 +1,186 @@
 ---
 aliases:
-  - Heu
-  - Hay
+- belar ondu
+- dayami
+- fen
+- fenc
+- feno
+- fenum
+- feo
+- fieno
+- fjen
+- foin
+- fojno
+- four
+- frenu
+- fân
+- féar tirim
+- Hau
+- Hay
+- hea
+- Hee
+- hein
+- heinä
+- heno
+- Heu
+- heui
+- heuj
+- hey
+- hooi
+- hoxomôho'haméstotôtse
+- hö
+- hø
+- høy
+- Jerami hijau
+- kıdiş
+- pečän
+- pichan
+- pişen
+- rumput kering
+- rơm
+- saman
+- segáu
+- seno
+- siano
+- siens
+- sijeno
+- széna
+- Vilo-maina
+- šienas
+- šėins
+- άχυρο
+- беда
+- бесән
+- пішен
+- печән
+- сіно
+- сена
+- сено
+- утă
+- Хос (кæрдæг)
+- чөп
+- խոտհարք
+- חציר
+- دريس
+- پووش
+- یونجه خشک
+- सूखी घास
+- শুষ্ক ঘাস
+- ఎండు పశుగ్రాసం
+- ಒಣಗಿಸಿರುವ ಮೇವು
+- ഹേ
+- หญ้าแห้ง
+- თივა
+- 乾草
+- 干し草
+- 干草
+- 건초
 has_id_wikidata: Q336989
+dv_has_:
+  name_:
+    an: feno
+    ar: دريس
+    ast: segáu
+    ba: бесән
+    be: сена
+    be-tarask: сена
+    bg: сено
+    bn: শুষ্ক ঘাস
+    bs: sijeno
+    ca: fenc
+    chy: hoxomôho'haméstotôtse
+    ckb: پووش
+    cs: seno
+    cv: утă
+    da: hø
+    de: Heu
+    de-ch: Heu
+    diq: kıdiş
+    el: άχυρο
+    en: hay
+    en-ca: hay
+    en-gb: hay
+    eo: fojno
+    es: heno
+    et: hein
+    eu: belar ondu
+    fa: یونجه خشک
+    fi: heinä
+    fr: foin
+    fy: hea
+    ga: féar tirim
+    gl: feo
+    he: חציר
+    hi: सूखी घास
+    hr: sijeno
+    hu: széna
+    hy: խոտհարք
+    ia: feno
+    id: Jerami hijau
+    io: feno
+    is: hey
+    it: fieno
+    ja: 干し草
+    ka: თივა
+    kk: пішен
+    kk-latn: pişen
+    kn: ಒಣಗಿಸಿರುವ ಮೇವು
+    ko: 건초
+    ky: чөп
+    la: fenum
+    lb: Hee
+    li: heuj
+    lmo: fen
+    lt: šienas
+    lv: siens
+    mg: Vilo-maina
+    mk: сено
+    ml: ഹേ
+    ms: rumput kering
+    nb: høy
+    nds: Hau
+    nds-nl: heui
+    nl: hooi
+    nn: høy
+    oc: fen
+    os: Хос (кæрдæг)
+    pl: siano
+    pt: feno
+    pt-br: feno
+    ro: fân
+    ru: сено
+    scn: frenu
+    sco: hey
+    sgs: šėins
+    sh: seno
+    sk: seno
+    sl: seno
+    sr: сено
+    sr-ec: Сено
+    sr-el: seno
+    sv: hö
+    te: ఎండు పశుగ్రాసం
+    tg: беда
+    th: หญ้าแห้ง
+    tl: dayami
+    tr: saman
+    tt: печән
+    tt-latn: pečän
+    uk: сіно
+    uz: pichan
+    vec: fjen
+    vi: rơm
+    wa: four
+    wuu: 干草
+    yue: 乾草
+    zh: 乾草
+    zh-cn: 干草
+    zh-hans: 干草
+    zh-hant: 乾草
+    zh-hk: 乾草
+    zh-sg: 干草
+    zh-tw: 乾草
 ---
-
 # [[Hay]] 
 
 #is_/same_as :: [[WD~Hay,336989]] 

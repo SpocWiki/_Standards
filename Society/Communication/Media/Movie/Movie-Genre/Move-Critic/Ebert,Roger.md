@@ -1,9 +1,150 @@
 ---
 aliases:
-  - Roger Ebert
-  - Ebert,Roger
+- Ebert,Roger
+- Rocer Ebert
+- Rodžer Ebert
+- Rodžers Īberts
+- Roger Ebert
+- Ρότζερ Ίμπερτ
+- Роџер Еберт
+- Роджер Іберт
+- Роджер Эберт
+- Роджър Еберт
+- Роджэр Эберт
+- Ռոջեր Էբերթ
+- רוג'ר איברט
+- راجر ایبرت
+- روجر إيبرت
+- روجر ايبرت
+- রজার ইবার্ট
+- రోజెర్ ఎబెర్ట్
+- โรเจอร์ อีเบิร์ต
+- როჯერ ებერტი
+- ロジャー・イーバート
+- 罗杰·伊伯特
+- 罗杰·埃伯特
+- 羅傑·艾伯特
+- 羅渣伊拔
+- 로저 이버트
+- "\U00010342\U00010349\U00010332\U00010334\U00010342 \U00010334\U00010331\U00010334\U00010342\U00010344"
+has_id_wikidata: Q212173
+dv_has_:
+  name_:
+    ace: Roger Ebert
+    af: Roger Ebert
+    ar: روجر إيبرت
+    arz: روجر ايبرت
+    ast: Roger Ebert
+    az: Rocer Ebert
+    azb: راجر ایبرت
+    bcl: Roger Ebert
+    be: Роджэр Эберт
+    bg: Роджър Еберт
+    bn: রজার ইবার্ট
+    br: Roger Ebert
+    bs: Roger Ebert
+    ca: Roger Ebert
+    cbk-zam: Roger Ebert
+    co: Roger Ebert
+    cs: Roger Ebert
+    cy: Roger Ebert
+    da: Roger Ebert
+    de: Roger Ebert
+    de-ch: Roger Ebert
+    dsb: Roger Ebert
+    el: Ρότζερ Ίμπερτ
+    en: Roger Ebert
+    en-ca: Roger Ebert
+    en-gb: Roger Ebert
+    eo: Roger Ebert
+    es: Roger Ebert
+    et: Roger Ebert
+    ext: Roger Ebert
+    fa: راجر ایبرت
+    fi: Roger Ebert
+    fr: Roger Ebert
+    frp: Roger Ebert
+    fy: Roger Ebert
+    ga: Roger Ebert
+    gd: Roger Ebert
+    gl: Roger Ebert
+    got: "\U00010342\U00010349\U00010332\U00010334\U00010342 \U00010334\U00010331\U00010334\U00010342\U00010344"
+    gv: Roger Ebert
+    haw: Roger Ebert
+    he: רוג'ר איברט
+    hr: Roger Ebert
+    hsb: Roger Ebert
+    hu: Roger Ebert
+    hy: Ռոջեր Էբերթ
+    id: Roger Ebert
+    ig: Roger Ebert
+    io: Roger Ebert
+    it: Roger Ebert
+    ja: ロジャー・イーバート
+    jv: Roger Ebert
+    ko: 로저 이버트
+    kw: Roger Ebert
+    lb: Roger Ebert
+    li: Roger Ebert
+    lt: Roger Ebert
+    lv: Rodžers Īberts
+    ms: Roger Ebert
+    mul: Roger Ebert
+    na: Roger Ebert
+    nah: Roger Ebert
+    nan: Roger Ebert
+    nb: Roger Ebert
+    nl: Roger Ebert
+    nn: Roger Ebert
+    nov: Roger Ebert
+    oc: Roger Ebert
+    pag: Roger Ebert
+    pap: Roger Ebert
+    pdc: Roger Ebert
+    pl: Roger Ebert
+    pms: Roger Ebert
+    pt: Roger Ebert
+    pt-br: Roger Ebert
+    qu: Roger Ebert
+    ro: Roger Ebert
+    ru: Роджер Эберт
+    sc: Roger Ebert
+    sco: Roger Ebert
+    sh: Roger Ebert
+    sk: Roger Ebert
+    sl: Roger Ebert
+    sq: Roger Ebert
+    sr: Роџер Еберт
+    sr-ec: Роџер Еберт
+    sr-el: Rodžer Ebert
+    su: Roger Ebert
+    sv: Roger Ebert
+    sw: Roger Ebert
+    te: రోజెర్ ఎబెర్ట్
+    th: โรเจอร์ อีเบิร์ต
+    tl: Roger Ebert
+    tpi: Roger Ebert
+    tr: Roger Ebert
+    uk: Роджер Іберт
+    uz: Roger Ebert
+    vec: Roger Ebert
+    vi: Roger Ebert
+    vo: Roger Ebert
+    wa: Roger Ebert
+    war: Roger Ebert
+    wo: Roger Ebert
+    wuu: 罗杰·伊伯特
+    xmf: როჯერ ებერტი
+    yo: Roger Ebert
+    yue: 羅渣伊拔
+    zh: 罗杰·埃伯特
+    zh-cn: 罗杰·埃伯特
+    zh-hans: 罗杰·埃伯特
+    zh-hant: 羅傑·艾伯特
+    zh-hk: 羅傑·艾伯特
+    zh-sg: 罗杰·埃伯特
+    zh-tw: 羅傑·艾伯特
 ---
-
 #has_/time_/started :: 1942-06-18 
 #has_/time_/stopped :: 2013-04-04
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

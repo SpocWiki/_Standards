@@ -1,18 +1,74 @@
 ---
 aliases:
-  - lawn mower
-  - grass cutter
-  - mower
-  - lawnmower
-  - Lawn_Mower
-  - Lawn Mower
+- Belarra mozteko makina
+- corta-relva
+- Cortacésped
+- Cortacéspede
+- cortador de grama
+- Fåtcheuse
+- fűnyíró
+- gazontondilo
+- gieddetjuohppe
+- grasmaaier
+- grass cutter
+- Grassnyer
+- gressklipper
+- gräsklippare
+- Gwilcherez
+- Herbisectrum
+- kosačka
+- kosiarka
+- kosilica za travu
+- Kòsnica
+- lawn mower
+- lawnmower
+- Lawn_Mower
+- lomaire faiche
+- mașină de tuns iarba
+- Mesin pemotong rumput
+- mower
+- muruniiduk
+- Máy cắt cỏ
+- Oo'kó'êxovahtôtse
+- Peiriant torri gwair
+- plæneklipper
+- Rasenmäher
+- ruohonleikkuri
+- sekačka
+- sinočyeppee
+- suoidnečuohpan
+- Taja-erba
+- tallagespa
+- tondeuse à gazon
+- Tosaerba
+- Çim biçme makinesi
+- Žoliapjovė
+- Газонçулăш
+- Газонакасілка
+- Газонокосарка
+- газонокосилка
+- Косачка
+- косилица за траву
+- косилка за трева
+- גראזשניידער
+- מכסחת דשא
+- جزازة العشب
+- ماشین چمنزن
+- ঘাসকাটা যন্ত্র
+- புல் அறுப்பி
+- မြက်ရိတ်စက်
+- ၸၢၵ်ႈတတ်းယိူဝ်ႈ
+- 剷草機
+- 芝刈り機
+- 除草機
+- 예취기
 has_id_wikidata: Q260521
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~blade,330946]]'
-  - '[[_Standards/WikiData/WD~engine,44167]]'
+- '[[_Standards/WikiData/WD~blade,330946]]'
+- '[[_Standards/WikiData/WD~engine,44167]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~bar_mower,10858147]]'
-  - '[[_Standards/WikiData/WD~machine,11019]]'
+- '[[_Standards/WikiData/WD~bar_mower,10858147]]'
+- '[[_Standards/WikiData/WD~machine,11019]]'
 has_use: '[[_Standards/WikiData/WD~Lawn_mowing,134509389]]'
 Nomenclature_for_Museum_Cataloging: 8986
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/WWS%20Lawnmower.ogg
@@ -22,8 +78,71 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tondeuse.png
 Commons_gallery: Lawn mower
 Commons_category: Lawn mowers
 IMDb_keyword: lawnmower
+dv_has_:
+  name_:
+    af: Grassnyer
+    ar: جزازة العشب
+    ast: Cortacésped
+    be: Газонакасілка
+    be-tarask: Газонакасілка
+    bg: Косачка
+    bn: ঘাসকাটা যন্ত্র
+    br: Gwilcherez
+    ca: tallagespa
+    chy: Oo'kó'êxovahtôtse
+    cs: sekačka
+    csb: Kòsnica
+    cv: Газонçулăш
+    cy: Peiriant torri gwair
+    da: plæneklipper
+    de: Rasenmäher
+    en: lawn mower
+    eo: gazontondilo
+    es: cortacésped
+    et: muruniiduk
+    eu: Belarra mozteko makina
+    fa: ماشین چمنزن
+    fi: ruohonleikkuri
+    fr: tondeuse à gazon
+    ga: lomaire faiche
+    gl: Cortacéspede
+    he: מכסחת דשא
+    hu: fűnyíró
+    id: Mesin pemotong rumput
+    it: Tosaerba
+    ja: 芝刈り機
+    ko: 예취기
+    la: Herbisectrum
+    lt: Žoliapjovė
+    mk: косилка за трева
+    my: မြက်ရိတ်စက်
+    nb: gressklipper
+    nl: grasmaaier
+    pl: kosiarka
+    pms: Taja-erba
+    pt: corta-relva
+    pt-br: cortador de grama
+    ro: mașină de tuns iarba
+    ru: газонокосилка
+    se: suoidnečuohpan
+    shn: ၸၢၵ်ႈတတ်းယိူဝ်ႈ
+    sk: kosačka
+    smj: gieddetjuohppe
+    smn: sinočyeppee
+    sr: косилица за траву
+    sr-ec: косилица за траву
+    sr-el: kosilica za travu
+    sv: gräsklippare
+    ta: புல் அறுப்பி
+    tr: Çim biçme makinesi
+    uk: Газонокосарка
+    vi: Máy cắt cỏ
+    wa: Fåtcheuse
+    war: Lawn mower
+    yi: גראזשניידער
+    yue: 剷草機
+    zh: 除草機
 ---
-
 #is_/same_as :: [[WD~Lawn_mower,260521]]  
 
 ## #has_/text_of_/abstract 

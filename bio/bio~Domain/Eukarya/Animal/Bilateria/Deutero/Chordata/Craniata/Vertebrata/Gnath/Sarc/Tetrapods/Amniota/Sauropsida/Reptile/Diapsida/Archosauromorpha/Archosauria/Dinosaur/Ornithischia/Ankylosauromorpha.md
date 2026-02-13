@@ -1,9 +1,113 @@
 ---
 aliases:
-  - Ankylosauromorpha
+- ancilosaures
+- Ankilosauri
+- Ankilosaŭruloj
+- Ankilozavrlar
+- Ankylosauria
+- Ankylosaurier
+- Ankylosauromorpha
+- Ankylosaury
+- ankylozaury
+- Ankïlozavrlar
+- Khủng long bọc giáp
+- Αγκυλόσαυροι
+- анкілазаўры
+- Анкілозаври
+- Анкилозаври
+- Анкилозаврлар
+- анкилозавры
+- Анкилозаврҳо
+- אנקילוזאוריה
+- آنکیلوزاورلار
+- آنکیلوسورها
+- أنكيلوصوريات
+- انكىيلوزاۆرلار
+- แองคิโลซอร์
+- ანკილოზავრები
+- 甲龍下目
+- 甲龙下目
+- 鎧竜類
+- 곡룡류
 title: Ankylosauromorpha
+has_id_wikidata: Q273617
+dv_has_:
+  name_:
+    af: Ankylosauria
+    an: Ankylosauria
+    ar: أنكيلوصوريات
+    ast: Ankylosauria
+    az: Ankilozavrlar
+    azb: آنکیلوزاورلار
+    be: анкілазаўры
+    bg: Анкилозаври
+    br: Ankylosauria
+    ca: ancilosaures
+    ceb: Ankylosauria
+    cs: Ankylosauria
+    de: Ankylosauria
+    el: Αγκυλόσαυροι
+    en: Ankylosauria
+    eo: Ankilosaŭruloj
+    es: Ankylosauria
+    eu: Ankylosauria
+    ext: Ankylosauria
+    fa: آنکیلوسورها
+    fi: Ankylosauria
+    fr: Ankylosauria
+    ga: Ankylosauria
+    gl: Ankylosauria
+    he: אנקילוזאוריה
+    hr: Ankilosauri
+    hu: Ankylosauria
+    ia: Ankylosauria
+    id: Ankylosauria
+    ie: Ankylosauria
+    io: Ankylosauria
+    it: Ankylosauria
+    ja: 鎧竜類
+    ka: ანკილოზავრები
+    kk: Анкилозаврлар
+    kk-arab: انكىيلوزاۆرلار
+    kk-cn: انكىيلوزاۆرلار
+    kk-cyrl: Анкилозаврлар
+    kk-kz: Анкилозаврлар
+    kk-latn: Ankïlozavrlar
+    kk-tr: Ankïlozavrlar
+    ko: 곡룡류
+    la: Ankylosauria
+    lt: Ankylosauria
+    mul: Ankylosauria
+    nl: Ankylosauria
+    oc: Ankylosauria
+    or: Ankylosauria
+    pl: ankylozaury
+    pt: Ankylosauria
+    pt-br: Ankylosauria
+    ro: Ankylosauria
+    ru: анкилозавры
+    sh: Ankilosauri
+    sk: Ankylosaury
+    sq: Ankylosauria
+    sv: Ankylosaurier
+    tg: Анкилозаврҳо
+    th: แองคิโลซอร์
+    tl: Ankylosauria
+    tr: Ankylosauria
+    tt: Анкилозаврлар
+    uk: Анкілозаври
+    vec: Ankylosauria
+    vi: Khủng long bọc giáp
+    vo: Ankylosauria
+    war: Ankylosauria
+    zh: 甲龍下目
+    zh-cn: 甲龙下目
+    zh-hans: 甲龙下目
+    zh-hant: 甲龍下目
+    zh-hk: 甲龍下目
+    zh-sg: 甲龙下目
+    zh-tw: 甲龍下目
 ---
-
 # [[Ankylosauromorpha]] 
 
 Armored-plated dinosaurs 

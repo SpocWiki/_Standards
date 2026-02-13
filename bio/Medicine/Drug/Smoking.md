@@ -1,50 +1,201 @@
 ---
 aliases:
+- borgguheapmi
+- butuniñ
+- caitheamh tobac
+- Chekish
+- dohányzás
+- Erretze
+- fajčenie
+- fimen
+- fumado
+- fumar
+- fumare
+- fumat
+- Fumatio
+- fumer
+- hút thuốc
+- kajenje
+- kouření
+- merokok
+- Ngudud
+- opitáva
+- Pagsigarilyo
+- palenie
+- paninigarilyo
+- Pirja e duhanit
+- porgottâllâm
+- Pušenje
+- Pıfkerdış
+- Rauchen
+- roken
+- rook
+- rygning
+- rökning
+- røyking
+- smoking
+- smēķēšana
+- suitsetamine
+- tupakointi
+- tüttürmek
+- Ukubhema
+- ysmygu
+- κάπνισμα
+- курение
+- курэнне
+- курэньне
+- паління
+- пушење
+- Пушене
+- Тамеки чегүү
+- тарту
+- ծխում
+- עישון
+- تدخين
+- تَموکھ نوشی
+- دود کردن
+- كماية
+- धूम्रपान
+- ধূমপান
+- ਸਿਗਰਟਨੋਸ਼ੀ
+- புகைத்தல்
+- ధూమపానం
+- การสูบบุหรี่
+- 吸烟
+- 吸煙
+- 吸食煙
+- 喫煙
+- 흡연
 has_id_wikidata: Q662860
 has_effect:
-  - "[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]"
-  - "[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]"
-  - "[[_Standards/WikiData/WD~Crohn's_disease,1472]]"
-  - "[[_Standards/WikiData/WD~myocardial_infarction,12152]]"
-  - "[[_Standards/WikiData/WD~pneumonia,12192]]"
-  - "[[_Standards/WikiData/WD~tuberculosis,12204]]"
-  - "[[_Standards/WikiData/WD~lung_cancer,47912]]"
+- '[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]'
+- '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
+- "[[_Standards/WikiData/WD~Crohn's_disease,1472]]"
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~pneumonia,12192]]'
+- '[[_Standards/WikiData/WD~tuberculosis,12204]]'
+- '[[_Standards/WikiData/WD~lung_cancer,47912]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~custom,251777]]"
-  - "[[_Standards/WikiData/WD~psychoactive_drug_use,110207349]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_smoking,464989]]"
+- '[[_Standards/WikiData/WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~psychoactive_drug_use,110207349]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_smoking,464989]]'
 risk_factor:
-  - "[[_Standards/WikiData/WD~anhedonia,545365]]"
-  - "[[_Standards/WikiData/WD~specific_phobia,2015728]]"
-  - "[[_Standards/WikiData/WD~substance_abuse,3184856]]"
-  - "[[_Standards/WikiData/WD~mental_disorder,12135]]"
+- '[[_Standards/WikiData/WD~anhedonia,545365]]'
+- '[[_Standards/WikiData/WD~specific_phobia,2015728]]'
+- '[[_Standards/WikiData/WD~substance_abuse,3184856]]'
+- '[[_Standards/WikiData/WD~mental_disorder,12135]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_smoking,7112730]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_smoking,7112730]]'
 different_from:
-  - "[[_Standards/WikiData/WD~tobacco_smoking,7212330]]"
-  - "[[_Standards/WikiData/WD~Q21056498,21056498]]"
-  - "[[_Standards/WikiData/WD~vaping,27186512]]"
-has_part_s_: "[[_Standards/WikiData/WD~tobacco_smoking,7212330]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Smoking_nav,14397453]]"
-has_characteristic: "[[_Standards/WikiData/WD~activity_policy_on_smoking,111008232]]"
-OmegaWiki_Defined_Meaning: "6968"
+- '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
+- '[[_Standards/WikiData/WD~Q21056498,21056498]]'
+- '[[_Standards/WikiData/WD~vaping,27186512]]'
+has_part_s_: '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Smoking_nav,14397453]]'
+has_characteristic: '[[_Standards/WikiData/WD~activity_policy_on_smoking,111008232]]'
+OmegaWiki_Defined_Meaning: 6968
 OpenStreetMap_key: smoking
 IMDb_keyword: smoking
 Archive_of_Our_Own_tag: Smoking
 Commons_category: Smoking
-U_S_National_Archives_Identifier: "10643820"
-Unicode_character: 🚬
+U_S_National_Archives_Identifier: 10643820
+Unicode_character: "\U0001F6AC"
 subreddit: stopsmoking
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cigarette%20smoke%20banner.jpg
 UMLS_CUI:
-  - C0037369
-  - C4505437
+- C0037369
+- C4505437
 MeSH_tree_code: F01.145.805
+dv_has_:
+  name_:
+    af: rook
+    ar: تدخين
+    ary: كماية
+    arz: تدخين
+    ast: Fumar
+    bcl: Pagsigarilyo
+    be: курэнне
+    be-tarask: курэньне
+    bg: Пушене
+    bn: ধূমপান
+    br: butuniñ
+    bs: Pušenje
+    ca: fumar
+    cs: kouření
+    cy: ysmygu
+    da: rygning
+    de: Rauchen
+    diq: Pıfkerdış
+    el: κάπνισμα
+    en: smoking
+    eo: fumado
+    es: fumar
+    et: suitsetamine
+    eu: Erretze
+    fa: دود کردن
+    fi: tupakointi
+    fr: fumer
+    ga: caitheamh tobac
+    gl: fumar
+    gn: opitáva
+    he: עישון
+    hi: धूम्रपान
+    ht: fimen
+    hu: dohányzás
+    hy: ծխում
+    id: merokok
+    it: fumare
+    ja: 喫煙
+    jv: Ngudud
+    ko: 흡연
+    ks: تَموکھ نوشی
+    ky: Тамеки чегүү
+    la: Fumatio
+    lv: smēķēšana
+    mag: धूम्रपान
+    mk: пушење
+    mr: धूम्रपान
+    ms: merokok
+    nb: røyking
+    ne: धूम्रपान
+    nl: roken
+    nn: røyking
+    pa: ਸਿਗਰਟਨੋਸ਼ੀ
+    pl: palenie
+    pt: fumar
+    pt-br: fumar
+    ro: fumat
+    ru: курение
+    se: borgguheapmi
+    sk: fajčenie
+    sl: kajenje
+    smn: porgottâllâm
+    sq: Pirja e duhanit
+    sr: пушење
+    sr-ec: пушење
+    sr-el: pušenje
+    sv: rökning
+    ta: புகைத்தல்
+    te: ధూమపానం
+    th: การสูบบุหรี่
+    tl: paninigarilyo
+    tr: tüttürmek
+    tt: тарту
+    tt-cyrl: тарту
+    uk: паління
+    uz: Chekish
+    vec: fumar
+    vi: hút thuốc
+    war: Paninigarilyo
+    yue: 吸食煙
+    zh: 吸煙
+    zh-hans: 吸烟
+    zh-hant: 吸煙
+    zu: Ukubhema
 ---
-
 # [[Smoking]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Smoking,662860|WD~Smoking,662860]]  

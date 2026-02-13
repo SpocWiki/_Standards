@@ -1,64 +1,103 @@
 ---
 aliases:
-  - Michael_Schumacher
-  - Michael Schumacher
-  - Schumacher
-  - Schumacher,Michael
+- Michael Schumacher
+- Michael_Schumacher
+- Mihael Şumaxer
+- Mihaels Šūmahers
+- Schumacher
+- Schumacher,Michael
+- Μίχαελ Σουμάχερ
+- Міхаель Шумахер
+- Міхаэль Шумахер
+- Міхаэль Шумахэр
+- Михаел Шумахер
+- Михаэл Шумахер
+- Михаэль Шумахер
+- Шумахер Михаэль
+- Шумахер, Михаэль
+- Մայքըլ Շումախըր
+- Միխայել Շումախեր
+- מיכאל שומאכער
+- מיכאל שומאכר
+- مائیکل شوماکر
+- مايكل شوماخر
+- مایکل شوماخر
+- مایکل شوماخەر
+- میشائل شوماخر
+- މައިކަލް ޝޫމާކަރ
+- माइकल शूमाकर
+- मायकल शुमाकर
+- মিশাএল শুমাখার
+- ਮਾਈਕਲ ਸ਼ੂਮਾਕਰ
+- மைக்கேல் சூமாக்கர்
+- ಮೈಕೆಲ್ ಶೂಮಾಕರ್
+- മൈക്കൾ ഷൂമാക്കർ
+- මයිකල් ෂූමාකර්
+- มิชชาเอล ชูมัคเคอร์
+- မိုက်ကယ် ရှူးမက်ကာ
+- მიხაელ შუმახერი
+- ⵎⴰⵢⴽⵍ ⵛⵓⵎⴰⵅⵔ
+- ミハエル・シューマッハ
+- 米高·舒麥加
+- 米高舒麥加
+- 迈克尔·舒马赫
+- 麥可·舒馬克
+- 미하엘 슈마허
 has_id_wikidata: Q9671
 sibling: '[[_Standards/WikiData/WD~Ralf_Schumacher,75825]]'
 spouse: '[[_Standards/WikiData/WD~Corinna_Schumacher,95171]]'
 supported_sports_team:
-  - '[[_Standards/WikiData/WD~1._FC_Köln,104770]]'
-  - '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
+- '[[_Standards/WikiData/WD~1._FC_Köln,104770]]'
+- '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898]]'
-  - '[[_Standards/WikiData/WD~Benetton_Formula,171329]]'
-  - '[[_Standards/WikiData/WD~Jordan_Grand_Prix,171367]]'
-  - '[[_Standards/WikiData/WD~Mercedes_F1_Team,172721]]'
+- '[[_Standards/WikiData/WD~Scuderia_Ferrari,169898]]'
+- '[[_Standards/WikiData/WD~Benetton_Formula,171329]]'
+- '[[_Standards/WikiData/WD~Jordan_Grand_Prix,171367]]'
+- '[[_Standards/WikiData/WD~Mercedes_F1_Team,172721]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~24_Hours_of_Le_Mans,187579]]'
-  - '[[_Standards/WikiData/WD~Formula_Nippon,283085]]'
-  - '[[_Standards/WikiData/WD~Formula_One,1968]]'
+- '[[_Standards/WikiData/WD~24_Hours_of_Le_Mans,187579]]'
+- '[[_Standards/WikiData/WD~Formula_Nippon,283085]]'
+- '[[_Standards/WikiData/WD~Formula_One,1968]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
-  - '[[_Standards/WikiData/WD~German_Sportspersonality_of_the_Year,876882]]'
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Sarajevo,58382530]]'
+- '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
+- '[[_Standards/WikiData/WD~German_Sportspersonality_of_the_Year,876882]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Sports,3320370]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Merit_of_the_Italian_Republic,14539729]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Sarajevo,58382530]]'
 employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
 family_name: '[[_Standards/WikiData/WD~Schumacher,1773921]]'
 occupation:
-  - '[[_Standards/WikiData/WD~motorcycle_racer,3014296]]'
-  - '[[_Standards/WikiData/WD~Formula_One_driver,10841764]]'
+- '[[_Standards/WikiData/WD~motorcycle_racer,3014296]]'
+- '[[_Standards/WikiData/WD~Formula_One_driver,10841764]]'
 given_name: '[[_Standards/WikiData/WD~Michael,4927524]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child:
-  - '[[_Standards/WikiData/WD~Mick_Schumacher,18119599]]'
-  - '[[_Standards/WikiData/WD~Gina_Maria_Bethke,65210288]]'
+- '[[_Standards/WikiData/WD~Mick_Schumacher,18119599]]'
+- '[[_Standards/WikiData/WD~Gina_Maria_Bethke,65210288]]'
 position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 competition_won:
-  - "[[_Standards/WikiData/WD~1995_Formula_One_World_Drivers'_Championship,108861614]]"
-  - "[[_Standards/WikiData/WD~1994_Formula_One_World_Drivers'_Championship,108861613]]"
-  - "[[_Standards/WikiData/WD~2000_Formula_One_World_Drivers'_Championship,108861619]]"
-  - "[[_Standards/WikiData/WD~2003_Formula_One_World_Drivers'_Championship,108861622]]"
-  - "[[_Standards/WikiData/WD~2004_Formula_One_World_Drivers'_Championship,108861623]]"
-  - "[[_Standards/WikiData/WD~2001_Formula_One_World_Drivers'_Championship,108861620]]"
-  - "[[_Standards/WikiData/WD~2002_Formula_One_World_Drivers'_Championship,108861621]]"
+- "[[_Standards/WikiData/WD~1995_Formula_One_World_Drivers'_Championship,108861614]]"
+- "[[_Standards/WikiData/WD~1994_Formula_One_World_Drivers'_Championship,108861613]]"
+- "[[_Standards/WikiData/WD~2000_Formula_One_World_Drivers'_Championship,108861619]]"
+- "[[_Standards/WikiData/WD~2003_Formula_One_World_Drivers'_Championship,108861622]]"
+- "[[_Standards/WikiData/WD~2004_Formula_One_World_Drivers'_Championship,108861623]]"
+- "[[_Standards/WikiData/WD~2001_Formula_One_World_Drivers'_Championship,108861620]]"
+- "[[_Standards/WikiData/WD~2002_Formula_One_World_Drivers'_Championship,108861621]]"
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 place_of_birth: '[[_Standards/WikiData/WD~Hürth,4060]]'
 sport: '[[_Standards/WikiData/WD~auto_racing,5386]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_for_sport:
-  - '[[_Standards/WikiData/WD~Luxembourg,32]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Luxembourg,32]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 pole_positions: 68
@@ -67,8 +106,8 @@ number_of_wins: 91
 podium_finishes: 155
 height: 174
 number_of_matches_played_races_starts:
-  - 307
-  - 308
+- 307
+- 308
 total_points_in_career: 1566
 points_for: 1566
 Commons_gallery: Michael Schumacher
@@ -90,8 +129,166 @@ Instagram_username: michaelschumacher
 Facebook_username: michaelschumacherofficial
 YouTube_handle: MichaelSchumacherofficial
 Baidu_Tieba_name: 舒马赫
+dv_has_:
+  name_:
+    ace: Michael Schumacher
+    af: Michael Schumacher
+    an: Michael Schumacher
+    ar: مايكل شوماخر
+    arz: مايكل شوماخر
+    ast: Michael Schumacher
+    az: Mihael Şumaxer
+    ba: Шумахер Михаэль
+    ban: Michael Schumacher
+    bar: Michael Schumacher
+    bcl: Michael Schumacher
+    be: Міхаэль Шумахер
+    be-tarask: Міхаэль Шумахэр
+    bew: Michael Schumacher
+    bg: Михаел Шумахер
+    bi: Michael Schumacher
+    bjn: Michael Schumacher
+    bn: মিশাএল শুমাখার
+    br: Michael Schumacher
+    bs: Michael Schumacher
+    bug: Michael Schumacher
+    ca: Michael Schumacher
+    ceb: Michael Schumacher
+    ch: Michael Schumacher
+    ckb: مایکل شوماخەر
+    co: Michael Schumacher
+    cs: Michael Schumacher
+    cy: Michael Schumacher
+    da: Michael Schumacher
+    de: Michael Schumacher
+    de-ch: Michael Schumacher
+    diq: Michael Schumacher
+    dv: މައިކަލް ޝޫމާކަރ
+    el: Μίχαελ Σουμάχερ
+    eml: Michael Schumacher
+    en: Michael Schumacher
+    en-ca: Michael Schumacher
+    en-gb: Michael Schumacher
+    en-us: Michael Schumacher
+    eo: Michael Schumacher
+    es: Michael Schumacher
+    et: Michael Schumacher
+    eu: Michael Schumacher
+    ext: Michael Schumacher
+    fa: میشائل شوماخر
+    ff: Michael Schumacher
+    fi: Michael Schumacher
+    fj: Michael Schumacher
+    fr: Michael Schumacher
+    fy: Michael Schumacher
+    ga: Michael Schumacher
+    gl: Michael Schumacher
+    gor: Michael Schumacher
+    gpe: Michael Schumacher
+    ha: Michael Schumacher
+    he: מיכאל שומאכר
+    hi: माइकल शूमाकर
+    hr: Michael Schumacher
+    ht: Michael Schumacher
+    hu: Michael Schumacher
+    hy: Միխայել Շումախեր
+    hyw: Մայքըլ Շումախըր
+    id: Michael Schumacher
+    ie: Michael Schumacher
+    io: Michael Schumacher
+    is: Michael Schumacher
+    it: Michael Schumacher
+    ja: ミハエル・シューマッハ
+    jv: Michael Schumacher
+    ka: მიხაელ შუმახერი
+    kab: Michael Schumacher
+    kk: Михаэль Шумахер
+    kn: ಮೈಕೆಲ್ ಶೂಮಾಕರ್
+    ko: 미하엘 슈마허
+    ky: Шумахер, Михаэль
+    la: Michael Schumacher
+    lb: Michael Schumacher
+    lfn: Michael Schumacher
+    li: Michael Schumacher
+    lmo: Michael Schumacher
+    lt: Michael Schumacher
+    lv: Mihaels Šūmahers
+    mad: Michael Schumacher
+    map-bms: Michael Schumacher
+    mg: Michael Schumacher
+    min: Michael Schumacher
+    mk: Михаел Шумахер
+    ml: മൈക്കൾ ഷൂമാക്കർ
+    mn: Михаэль Шумахер
+    mr: मायकल शुमाकर
+    ms: Michael Schumacher
+    mul: Michael Schumacher
+    my: မိုက်ကယ် ရှူးမက်ကာ
+    mzn: مایکل شوماخر
+    nah: Michael Schumacher
+    nap: Michael Schumacher
+    nb: Michael Schumacher
+    nds: Michael Schumacher
+    nia: Michael Schumacher
+    nl: Michael Schumacher
+    nn: Michael Schumacher
+    nov: Michael Schumacher
+    oc: Michael Schumacher
+    pa: ਮਾਈਕਲ ਸ਼ੂਮਾਕਰ
+    pag: Michael Schumacher
+    pam: Michael Schumacher
+    pl: Michael Schumacher
+    pms: Michael Schumacher
+    pnb: مائیکل شوماکر
+    pt: Michael Schumacher
+    pt-br: Michael Schumacher
+    qu: Michael Schumacher
+    ro: Michael Schumacher
+    ru: Михаэль Шумахер
+    scn: Michael Schumacher
+    sco: Michael Schumacher
+    sh: Michael Schumacher
+    shi: Michael Schumacher
+    si: මයිකල් ෂූමාකර්
+    sk: Michael Schumacher
+    sl: Michael Schumacher
+    sm: Michael Schumacher
+    so: Michael Schumacher
+    sq: Michael Schumacher
+    sr: Михаел Шумахер
+    su: Michael Schumacher
+    sv: Michael Schumacher
+    sw: Michael Schumacher
+    szl: Michael Schumacher
+    ta: மைக்கேல் சூமாக்கர்
+    tet: Michael Schumacher
+    tg: Михаэл Шумахер
+    th: มิชชาเอล ชูมัคเคอร์
+    tl: Michael Schumacher
+    tpi: Michael Schumacher
+    tr: Michael Schumacher
+    uk: Міхаель Шумахер
+    ur: مائیکل شوماکر
+    uz: Michael Schumacher
+    ve: Michael Schumacher
+    vec: Michael Schumacher
+    vi: Michael Schumacher
+    vls: Michael Schumacher
+    vo: Michael Schumacher
+    wa: Michael Schumacher
+    war: Michael Schumacher
+    wuu: 迈克尔·舒马赫
+    xh: Michael Schumacher
+    yi: מיכאל שומאכער
+    yue: 米高舒麥加
+    zea: Michael Schumacher
+    zgh: ⵎⴰⵢⴽⵍ ⵛⵓⵎⴰⵅⵔ
+    zh: 迈克尔·舒马赫
+    zh-hant: 米高·舒麥加
+    zh-hk: 米高·舒麥加
+    zh-tw: 麥可·舒馬克
+    zu: Michael Schumacher
 ---
-
 # [[Schumacher,Michael]] 
 
 #is_/same_as :: [[WD~Michael_Schumacher,9671]] 

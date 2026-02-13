@@ -1,31 +1,187 @@
 ---
 aliases:
-  - Idealismus
-  - Idealism
+- Aidiilizim
+- Chủ nghĩa duy tâm
+- Hughyggja
+- idealaeth
+- Idealism
+- idealisma
+- idealisme
+- idealismi
+- idealismm
+- idealismo
+- Idealismu
+- Idealismus
+- idealissma
+- Idealizam
+- idealizem
+- Idealizm
+- Idealizmas
+- idealizmus
+- Idealizëm
+- ideismo
+- Ideālisms
+- Idialisme
+- idéalachas
+- Idéalisme
+- Idélalismeu
+- Koan-liām-lūn
+- Mengîwerî
+- temimo'ã reko
+- Yaaddoyyummaa
+- İdealizm
+- Ιδεαλισμός
+- ідеалізм
+- Ідэалізм
+- Идеализам
+- идеализм
+- Идеализъм
+- Իդեալիզմ
+- אידאליזם
+- ئیدیالیزم
+- ایدئالیسم
+- ایډیالیزم
+- مثالية
+- आदर्शवाद
+- प्रत्ययवाद
+- ভাববাদ
+- ਆਦਰਸ਼ਵਾਦ
+- இலட்சியவாதம்
+- ಐಡಿಯಲಿಸಂ
+- ആശയവാദം
+- ຈິຕະນິຍົມ
+- იდეალიზმი
+- ሐሳባዊነት
+- ⵜⴰⴼⵉⵍⴰⵡⵜ
+- 唯心主义
+- 唯心主義
+- 唯心論
+- 観念論
+- 관념론
 has_id_wikidata: Q33442
 part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of: '[[_Standards/WikiData/WD~philosophical_theory,5389993]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~idealism,98936799]]'
 opposite_of: '[[_Standards/WikiData/WD~materialism,7081]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
-  - '[[_Standards/WikiData/WD~philosophy_of_mind,23407]]'
-  - '[[_Standards/WikiData/WD~metaphysics,35277]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~philosophy_of_mind,23407]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
 different_from: '[[_Standards/WikiData/WD~Idealism,32922]]'
 Dewey_Decimal_Classification: 141
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Deutscher%20Idealismus.jpg
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/IDEALIZM.html
 PhilPapers_topic: idealism
 Commons_category: Idealism
+dv_has_:
+  name_:
+    af: Idealisme
+    am: ሐሳባዊነት
+    ar: مثالية
+    ast: Idealismu
+    az: idealizm
+    azb: ایدئالیسم
+    be: Ідэалізм
+    be-tarask: ідэалізм
+    bg: Идеализъм
+    bn: ভাববাদ
+    bs: Idealizam
+    ca: idealisme
+    ckb: ئیدیالیزم
+    cs: Idealismus
+    cy: idealaeth
+    da: Idealisme
+    de: Idealismus
+    dtp: Idialisme
+    el: Ιδεαλισμός
+    en: idealism
+    eo: ideismo
+    es: idealismo
+    et: idealism
+    eu: idealismo
+    fa: ایدئالیسم
+    fi: idealismi
+    fr: Idéalisme
+    ga: idéalachas
+    gan: 唯心主義
+    gl: Idealismo
+    gn: temimo'ã reko
+    gsw: Idealismus
+    ha: Idealism
+    he: אידאליזם
+    hi: प्रत्ययवाद
+    hr: Idealizam
+    hu: idealizmus
+    hy: Իդեալիզմ
+    id: Idealisme
+    ie: Idealisme
+    is: Hughyggja
+    it: idealismo
+    ja: 観念論
+    jam: Aidiilizim
+    jv: Idealisme
+    ka: იდეალიზმი
+    kk: Идеализм
+    kn: ಐಡಿಯಲಿಸಂ
+    ko: 관념론
+    ku: Mengîwerî
+    ky: Идеализм
+    la: Idealismus
+    lfn: idealisme
+    lo: ຈິຕະນິຍົມ
+    lt: Idealizmas
+    lv: Ideālisms
+    mk: Идеализам
+    ml: ആശയവാദം
+    mn: Идеализм
+    mr: आदर्शवाद
+    ms: Idealisme
+    nan: Koan-liām-lūn
+    nb: idealisme
+    ne: आदर्शवाद
+    nl: idealisme
+    nn: idealisme
+    oc: Idealisme
+    om: Yaaddoyyummaa
+    pa: ਆਦਰਸ਼ਵਾਦ
+    pl: Idealizm
+    pms: Idealism
+    ps: ایډیالیزم
+    pt: idealismo
+    ro: idealism
+    ru: идеализм
+    se: idealisma
+    sh: Idealizam
+    sk: Idealizmus
+    sl: idealizem
+    sma: idealisme
+    smj: idealissma
+    smn: idealism
+    sms: idealismm
+    sq: Idealizëm
+    sr: Идеализам
+    su: Idélalismeu
+    sv: idealism
+    ta: இலட்சியவாதம்
+    tg: Идеализм
+    tr: İdealizm
+    uk: ідеалізм
+    ur: Idealism
+    uz: Idealizm
+    vi: Chủ nghĩa duy tâm
+    war: Idealismo
+    wuu: 唯心主义
+    yue: 唯心論
+    zgh: ⵜⴰⴼⵉⵍⴰⵡⵜ
+    zh: 唯心主義
 ---
-
 # [[Idealism]] 
 
 #has_/complement :: [[Materialism]] 

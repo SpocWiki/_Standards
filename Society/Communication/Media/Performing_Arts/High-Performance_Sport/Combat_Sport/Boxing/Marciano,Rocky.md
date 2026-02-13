@@ -1,19 +1,45 @@
 ---
 aliases:
-  - Rocky_Marciano
-  - Rocco Francis Marchegiano
-  - Rocco Marchegiano
-  - Marciano
-  - Rocky Marciano
-  - Marciano,Rocky
+- Marciano
+- Marciano,Rocky
+- Rocco Francis Marchegiano
+- Rocco Marchegiano
+- Rocky Marciano
+- Rocky_Marciano
+- Roki Marčano
+- Rokijs Marčiāno
+- Rokki Marsiano
+- Rokkï Marçïano
+- Ρόκι Μαρτσιάνο
+- Рокі Марчыяна
+- Роки Марчано
+- Роки Марчиано
+- Роккі Марчіано
+- Рокки Марчиано
+- Ռոկկի Մարչիանո
+- רוקי מרציאנו
+- راکی مارسیانو
+- روككىي مارتشىيانو
+- روكى مارسيانو
+- روكي مارسيانو
+- रॉकी मारकीयानो
+- રોકી માર્કિયાનો
+- รอคกี มาร์ซีอาโน
+- როკი მარჩიანო
+- ロッキー・マルシアノ
+- 洛基·馬西安諾
+- 洛基·马西安诺
+- 洛奇·馬西安諾
+- 洛奇·马西安诺
+- 로키 마르시아노
 has_id_wikidata: Q188362
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~heavyweight,281678]]'
-  - '[[_Standards/WikiData/WD~boxing,32112]]'
+- '[[_Standards/WikiData/WD~heavyweight,281678]]'
+- '[[_Standards/WikiData/WD~boxing,32112]]'
 cause_of_death: '[[_Standards/WikiData/WD~aviation_accident,744913]]'
 award_received:
-  - '[[_Standards/WikiData/WD~The_Ring_magazine_Fight_of_the_Year,864793]]'
-  - '[[_Standards/WikiData/WD~The_Ring_magazine_Fighter_of_the_Year,929175]]'
+- '[[_Standards/WikiData/WD~The_Ring_magazine_Fight_of_the_Year,864793]]'
+- '[[_Standards/WikiData/WD~The_Ring_magazine_Fighter_of_the_Year,929175]]'
 place_of_death: '[[_Standards/WikiData/WD~Newton,1657507]]'
 given_name: '[[_Standards/WikiData/WD~Rocky,3939822]]'
 educated_at: '[[_Standards/WikiData/WD~Brockton_High_School,4972871]]'
@@ -40,8 +66,84 @@ Munzinger_Sport_number: 01000050119
 name_in_native_language: Rocco Francis Marchegiano
 date_of_birth: 1923-09-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Marciano%201953%20%282%29.jpg
+dv_has_:
+  name_:
+    ar: روكي مارسيانو
+    arz: روكى مارسيانو
+    ast: Rocky Marciano
+    az: Rokki Marsiano
+    be: Рокі Марчыяна
+    be-tarask: Рокі Марчыяна
+    bg: Роки Марчиано
+    ca: Rocky Marciano
+    ce: Рокки Марчиано
+    cs: Rocky Marciano
+    cy: Rocky Marciano
+    da: Rocky Marciano
+    de: Rocky Marciano
+    el: Ρόκι Μαρτσιάνο
+    en: Rocky Marciano
+    es: Rocky Marciano
+    et: Rocky Marciano
+    eu: Rocky Marciano
+    fa: راکی مارسیانو
+    fi: Rocky Marciano
+    fr: Rocky Marciano
+    ga: Rocky Marciano
+    gl: Rocky Marciano
+    gu: રોકી માર્કિયાનો
+    he: רוקי מרציאנו
+    hi: रॉकी मारकीयानो
+    hr: Rocky Marciano
+    hu: Rocky Marciano
+    hy: Ռոկկի Մարչիանո
+    id: Rocky Marciano
+    is: Rocky Marciano
+    it: Rocky Marciano
+    ja: ロッキー・マルシアノ
+    ka: როკი მარჩიანო
+    kk: Рокки Марчиано
+    kk-arab: روككىي مارتشىيانو
+    kk-cn: روككىي مارتشىيانو
+    kk-cyrl: Рокки Марчиано
+    kk-kz: Рокки Марчиано
+    kk-latn: Rokkï Marçïano
+    kk-tr: Rokkï Marçïano
+    ko: 로키 마르시아노
+    lt: Rocky Marciano
+    lv: Rokijs Marčiāno
+    mg: Rocky Marciano
+    nb: Rocky Marciano
+    nl: Rocky Marciano
+    nn: Rocky Marciano
+    pl: Rocky Marciano
+    pt: Rocky Marciano
+    pt-br: Rocky Marciano
+    qu: Rocky Marciano
+    ro: Rocky Marciano
+    ru: Рокки Марчиано
+    sk: Rocky Marciano
+    sq: Rocky Marciano
+    sr: Roki Marčano
+    sr-ec: Роки Марчано
+    sr-el: Roki Marčano
+    sv: Rocky Marciano
+    th: รอคกี มาร์ซีอาโน
+    tr: Rocky Marciano
+    uk: Роккі Марчіано
+    uz: Rocky Marciano
+    vi: Rocky Marciano
+    war: Rocky Marciano
+    xmf: როკი მარჩიანო
+    yue: 洛奇·馬西安諾
+    zh: 洛基·馬西安諾
+    zh-cn: 洛奇·马西安诺
+    zh-hans: 洛基·马西安诺
+    zh-hant: 洛基·馬西安諾
+    zh-hk: 洛奇·馬西安諾
+    zh-sg: 洛奇·马西安诺
+    zh-tw: 洛基·馬西安諾
 ---
-
 # [[Marciano,Rocky]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Rocky_Marciano,188362|WD~Rocky_Marciano,188362]]  

@@ -1,4 +1,150 @@
-
+---
+has_id_wikidata: Q165363
+dv_has_:
+  name_:
+    af: Torpedo
+    ar: طربيد
+    ast: Torpedu
+    az: Torpedo
+    be: тарпеда
+    be-tarask: Тарпэда
+    bg: Торпедо
+    bn: টর্পেডো
+    br: torpilhenn
+    bs: Torpedo
+    ca: torpede
+    cs: torpédo
+    cy: Torpido
+    da: Torpedo
+    de: Torpedo
+    el: Τορπίλη
+    en: torpedo
+    eo: torpedo
+    es: torpedo
+    et: Torpeedo
+    eu: Torpedo
+    fa: اژدر
+    fi: torpedo
+    fr: torpille
+    fy: Torpedo
+    ga: toirpéad
+    gl: torpedo
+    he: טורפדו
+    hi: तॉरपीडो
+    hr: Torpedo
+    hu: torpedó
+    hy: Տորպեդ
+    ia: Torpedo
+    id: Torpedo
+    io: Torpedo
+    is: Tundurskeyti
+    it: siluro
+    ja: 魚雷
+    ka: ტორპედო
+    kk: Торпеда
+    kk-arab: تورپەدا
+    kk-cn: تورپەدا
+    kk-cyrl: Торпеда
+    kk-kz: Торпеда
+    kk-latn: Torpeda
+    kk-tr: Torpeda
+    km: មីសុីលក្រោមទឹក(ត័រពី)
+    kn: ಟಾರ್ಪೀಡೊ
+    ko: 어뢰
+    ky: Торпеда
+    lt: Torpeda
+    lv: torpēda
+    min: Torpedo
+    ml: ടോർപിഡോ
+    ms: torpedo
+    ms-arab: تورڤيدو
+    nan: Hî-lûi
+    nb: torpedo
+    nl: torpedo
+    nn: torpedo
+    oc: Torpilha
+    pa: ਟਾਰਪੀਡੋ
+    pl: Torpeda
+    pms: Silur
+    pnb: تارپیڈو
+    pt: torpedo
+    ro: torpilă
+    ru: торпеда
+    sco: torpedo
+    sh: Torpedo
+    sk: Torpédo
+    sl: torpedo
+    sq: Siluri
+    sr: торпедо
+    sr-ec: торпедо
+    sr-el: torpedo
+    sv: torped
+    sw: Topido
+    ta: நீர்மூழ்கிக் குண்டு
+    th: ตอร์ปิโด
+    tr: torpil
+    uk: торпеда
+    ur: آبیگولہ
+    vi: Ngư lôi
+    wuu: 鱼雷
+    yue: 魚雷
+    zh: 魚雷
+    zh-cn: 鱼雷
+    zh-hans: 鱼雷
+    zh-hant: 魚雷
+    zh-hk: 魚雷
+    zh-sg: 鱼雷
+    zh-tw: 魚雷
+aliases:
+- Hî-lûi
+- Ngư lôi
+- Silur
+- Siluri
+- siluro
+- toirpéad
+- Topido
+- torped
+- Torpeda
+- torpede
+- torpedo
+- Torpedu
+- torpedó
+- Torpeedo
+- Torpido
+- torpil
+- Torpilha
+- torpilhenn
+- torpille
+- torpilă
+- torpédo
+- torpēda
+- Tundurskeyti
+- Τορπίλη
+- тарпеда
+- Тарпэда
+- торпеда
+- Торпедо
+- Տորպեդ
+- טורפדו
+- آبیگولہ
+- اژدر
+- تارپیڈو
+- تورپەدا
+- تورڤيدو
+- طربيد
+- तॉरपीडो
+- টর্পেডো
+- ਟਾਰਪੀਡੋ
+- நீர்மூழ்கிக் குண்டு
+- ಟಾರ್ಪೀಡೊ
+- ടോർപിഡോ
+- ตอร์ปิโด
+- ტორპედო
+- មីសុីលក្រោមទឹក(ត័រពី)
+- 魚雷
+- 鱼雷
+- 어뢰
+---
 # [[Torpedo]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Torpedo,165363|WD~Torpedo,165363]]  

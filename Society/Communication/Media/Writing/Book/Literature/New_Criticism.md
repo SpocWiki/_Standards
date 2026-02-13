@@ -1,9 +1,87 @@
 ---
 aliases:
+- Iudicium Novum
+- Jaunā kritika
+- Kritik sastra baru
+- naujoji kritika
+- Neocrítica
+- New criticism
+- Nua-Chritic
+- Nykritik
+- Nykritikk
+- Nýrýni
+- Uuskriitika
+- Uuskritiikki
+- Új kriticizmus
+- Νέα κριτική
+- Нова критика
+- Новая критика
+- Новая крытыка
+- Яңы тәнҡит
+- Նոր քննադատություն
+- ביקורת חדשה
+- نئين تنقيد
+- نقد جديد
+- نقد نو
+- काव्यविमर्शः
+- নতুন সমালোচনা
+- ਨਵੀਨ ਆਲੋਚਨਾ
+- புதுத் திறனாய்வு
+- നവവിമർശനം
+- ニュー・クリティシズム
+- 新批評
+- 新批评
 has_id_wikidata: Q742302
-instance_of: "[[_Standards/WikiData/WD~literary_theory,459381]]"
+instance_of: '[[_Standards/WikiData/WD~literary_theory,459381]]'
+dv_has_:
+  name_:
+    ar: نقد جديد
+    as: নতুন সমালোচনা
+    ast: New criticism
+    ba: Яңы тәнҡит
+    be-tarask: Новая крытыка
+    bg: Нова критика
+    ca: New Criticism
+    cs: New Criticism
+    da: Nykritik
+    de: New Criticism
+    el: Νέα κριτική
+    en: New Criticism
+    es: New criticism
+    et: Uuskriitika
+    eu: new criticism
+    fa: نقد نو
+    fi: Uuskritiikki
+    fr: New criticism
+    ga: Nua-Chritic
+    he: ביקורת חדשה
+    hu: Új kriticizmus
+    hy: Նոր քննադատություն
+    id: Kritik sastra baru
+    is: Nýrýni
+    it: New Criticism
+    ja: ニュー・クリティシズム
+    la: Iudicium Novum
+    lt: naujoji kritika
+    lv: Jaunā kritika
+    ml: നവവിമർശനം
+    nb: Nykritikk
+    nl: New Criticism
+    pa: ਨਵੀਨ ਆਲੋਚਨਾ
+    pl: New Criticism
+    pt: Neocrítica
+    ru: Новая критика
+    sa: काव्यविमर्शः
+    sd: نئين تنقيد
+    sr: Нова критика
+    sv: Nykritik
+    ta: புதுத் திறனாய்வு
+    uk: Нова критика
+    zh: 新批評
+    zh-hans: 新批评
+    zh-hant: 新批評
+    zh-hk: 新批評
 ---
-
 # [[New_Criticism]] 
 
 #is_/same_as :: [[WD~New_Criticism,742302]] 

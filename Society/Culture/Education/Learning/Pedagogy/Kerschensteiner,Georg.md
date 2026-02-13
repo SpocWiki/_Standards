@@ -1,8 +1,60 @@
 ---
 aliases:
-- "Georg Kerschensteiner"
+- Georg Kerschensteiner
+- Georg Keršenštajner
+- Georg Michael Anton Kerschensteiner
+- Georg Michael Kerschensteiner
+- Γκέοργκ Κέρσενσταϊνερ
+- Георг Кершенштейнер
+- Георг Кершенщайнер
+- גאורג קרשנשטיינר
+- جورج كرشنشتاينر
+- گئورگ کرشنشتاینر
+- ゲオルグ・ケルシェンシュタイナー
+- 格奥尔格·凯兴斯泰纳
+has_id_wikidata: Q61195
+dv_has_:
+  name_:
+    ar: جورج كرشنشتاينر
+    arz: جورج كرشنشتاينر
+    bg: Георг Кершенщайнер
+    ca: Georg Kerschensteiner
+    co: Georg Kerschensteiner
+    cs: Georg Kerschensteiner
+    da: Georg Michael Kerschensteiner
+    de: Georg Kerschensteiner
+    el: Γκέοργκ Κέρσενσταϊνερ
+    en: Georg Michael Anton Kerschensteiner
+    eo: Georg Kerschensteiner
+    es: Georg Kerschensteiner
+    et: Georg Kerschensteiner
+    eu: Georg Kerschensteiner
+    fa: گئورگ کرشنشتاینر
+    fi: Georg Kerschensteiner
+    fr: Georg Kerschensteiner
+    ga: Georg Michael Anton Kerschensteiner
+    gl: Georg Kerschensteiner
+    he: גאורג קרשנשטיינר
+    hu: Georg Kerschensteiner
+    it: Georg Kerschensteiner
+    ja: ゲオルグ・ケルシェンシュタイナー
+    mt: Georg Kerschensteiner
+    nb: Georg Kerschensteiner
+    nds: Georg Kerschensteiner
+    nl: Georg Kerschensteiner
+    nn: Georg Kerschensteiner
+    oc: Georg Kerschensteiner
+    pl: Georg Kerschensteiner
+    pt: Georg Kerschensteiner
+    pt-br: Georg Kerschensteiner
+    ru: Георг Кершенштейнер
+    sl: Georg Michael Anton Kerschensteiner
+    sq: Georg Kerschensteiner
+    sr: Georg Keršenštajner
+    sv: Georg Michael Kerschensteiner
+    uk: Георг Кершенштейнер
+    zh: 格奥尔格·凯兴斯泰纳
 ---
-
 > Georg Michael Anton Kerschensteiner (July 29, 1854 in München – January 15, 1932 in München) 
 > was a German professor and educational theorist. 
 > 

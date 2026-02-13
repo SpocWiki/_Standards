@@ -1,37 +1,291 @@
 ---
 aliases:
+- Achaku
+- Apikocic
+- Aɣeṛda
+- Beurit
+- Bubuwit
+- Chhí
+- Chuột nhắt
+- Ditutu
+- Echt müsen
+- Echte mûzen
+- ev faresi
+- Ev siçanı
+- Hiir
+- hišna miš
+- Hóhkeehe
+- Ilaga
+- Jinax
+- Kipanya
+- Kookooche'rü
+- kotihiiret
+- kólóm
+- Legotlo
+- Llygoden
+- Luch
+- Lugh
+- Ló-chhú
+- Maus
+- Mbeva
+- Mencit
+- Miu
+- Mişk
+- Miš
+- Miševil
+- Moose
+- Mpóko
+- muis
+- Mur
+- mus
+- Mus ()
+- Muso
+- Muus
+- mysz
+- myš
+- Myše
+- möss
+- Mús
+- Müüs
+- Mūs
+- Naminės pelės
+- Naʼastsʼǫǫsí
+- peles
+- Pelie
+- Quimichin
+- Rato
+- Ratolí
+- Raton
+- Sagu
+- Sichqonlar
+- slakoleem ke Mus oxi
+- snjeara
+- sourit
+- Surci
+- Surice
+- Ukucha
+- Șoarece
+- Șoaricu
+- Ποντικός
+- глушец
+- ГӀункӀкӀ
+- Домашни мишки
+- домовые мыши
+- йорт тычканнары
+- Кил-çурт шăшийĕ (чĕрчунсен речĕ)
+- Кутуйах
+- миш
+- миші
+- Муш
+- мыш дамавая
+- Мышь
+- Тышқандар
+- Чеерь
+- מויז
+- עכבר
+- ائو سیچانی
+- اشنیک
+- فأر
+- فار
+- مشک
+- موش
+- چوہا
+- ܥܘܩܒܪܐ
+- उंदीर
+- मूषक
+- নিগনি
+- নেংটি ইঁদুর
+- ਚੂਹਾ
+- ઉંદર
+- சுண்டெலி
+- చిట్టెలుక
+- ಇಲಿ
+- ചുണ്ടെലി
+- หนูหริ่ง
+- ཙི་ཙི།
+- ትንሽ አይጥ
+- ᐊᕕᙵᖅ
+- ハツカネズミ属
+- 小鼠
+- 小鼠属
+- 小鼠屬
+- 鼠屬
+- 생쥐속
 has_id_wikidata: Q39275
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 homonymous_taxon:
-  - "[[_Standards/WikiData/WD~Mus,2360683]]"
-  - "[[_Standards/WikiData/WD~Mus_(hayvan),119166978]]"
-parent_taxon: "[[_Standards/WikiData/WD~Murini,50379819]]"
+- '[[_Standards/WikiData/WD~Mus,2360683]]'
+- '[[_Standards/WikiData/WD~Mus_(hayvan),119166978]]'
+parent_taxon: '[[_Standards/WikiData/WD~Murini,50379819]]'
 main_food_source:
-  - "[[_Standards/WikiData/WD~food,2095]]"
-  - "[[_Standards/WikiData/WD~leaf,33971]]"
-  - "[[_Standards/WikiData/WD~seed,40763]]"
-  - "[[_Standards/WikiData/WD~root,41500]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-OmegaWiki_Defined_Meaning: "6237"
-ITIS_TSN: "180365"
+- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~leaf,33971]]'
+- '[[_Standards/WikiData/WD~seed,40763]]'
+- '[[_Standards/WikiData/WD~root,41500]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+OmegaWiki_Defined_Meaning: 6237
+ITIS_TSN: 180365
 Commons_gallery: Mus
 Commons_category: Mus
 taxon_name: Mus
 taxon_author_citation: Linnaeus, 1758
 Unicode_character:
-  - 🐁
-  - 🐭
-UNSPSC_Code: "10101510"
+- "\U0001F401"
+- "\U0001F42D"
+UNSPSC_Code: 10101510
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Maus%20au%C3%9Fer%20Haus.JPG
-U_S_National_Archives_Identifier: "10647619"
+U_S_National_Archives_Identifier: 10647619
 EPPO_Code: 1MUSXG
 MeSH_tree_code: B01.050.150.900.649.313.992.635.505.500
 NBN_System_Key: NBNSYS0000135345
+dv_has_:
+  name_:
+    af: muis
+    am: ትንሽ አይጥ
+    an: Mus
+    ang: Mūs
+    ar: فأر
+    arc: ܥܘܩܒܪܐ
+    arz: فار
+    as: নিগনি
+    ast: Mur
+    atj: Apikocic
+    av: ГӀункӀкӀ
+    avk: slakoleem ke Mus oxi
+    ay: Achaku
+    az: Ev siçanı
+    azb: ائو سیچانی
+    be-tarask: мыш дамавая
+    bg: Домашни мишки
+    bn: নেংটি ইঁদুর
+    bo: ཙི་ཙི།
+    bs: Miš
+    ca: Ratolí
+    ceb: Ilaga
+    chy: Hóhkeehe
+    ckb: مشک
+    cs: myš
+    cv: Кил-çурт шăшийĕ (чĕрчунсен речĕ)
+    cy: Llygoden
+    da: mus
+    de: Maus
+    el: Ποντικός
+    en: Mus
+    eo: Muso
+    es: Mus
+    et: Hiir
+    eu: Sagu
+    ext: Mus
+    fa: موش
+    fi: kotihiiret
+    fo: Mús
+    fr: Mus
+    frr: Echt müsen
+    fy: Echte mûzen
+    ga: luch
+    gd: Luch
+    gl: Rato
+    gsw: Müüs
+    gu: ઉંદર
+    guc: Kookooche'rü
+    gv: Lugh
+    hak: Ló-chhú
+    he: עכבר
+    hi: मूषक
+    hr: Miševil
+    hsb: Myše
+    ht: sourit
+    hu: Mus
+    ia: Mus
+    id: Mus
+    ie: Mus
+    io: Muso
+    is: Mús
+    it: Mus
+    iu: ᐊᕕᙵᖅ
+    ja: ハツカネズミ属
+    kab: Aɣeṛda
+    kg: Ditutu
+    kk: Тышқандар
+    kn: ಇಲಿ
+    ko: 생쥐속
+    ku: Mişk
+    la: Mus
+    lad: Raton
+    lfn: Mus
+    ln: Mpóko
+    lt: Naminės pelės
+    lv: peles
+    mcn: kólóm
+    mk: глушец
+    ml: ചുണ്ടെലി
+    mr: उंदीर
+    ms: Mencit
+    mul: Mus
+    myv: Чеерь
+    mzn: اشنیک
+    nah: Quimichin
+    nan: Chhí
+    nap: Surice
+    nb: mus
+    nl: muis
+    nn: Mus
+    nso: Legotlo
+    nv: Naʼastsʼǫǫsí
+    oc: Mus
+    pa: ਚੂਹਾ
+    pl: mysz
+    pnb: چوہا
+    pt: Mus
+    pt-br: Mus
+    qu: Ukucha
+    ro: Șoarece
+    ru: домовые мыши
+    rue: Мышь
+    rup: Șoaricu
+    sa: मूषक
+    sah: Кутуйах
+    scn: Surci
+    sco: Moose
+    sgs: Pelie
+    sh: Miš
+    sk: Mus
+    sl: hišna miš
+    sma: snjeara
+    sn: Mbeva
+    sq: Miu
+    sr: миш
+    su: Beurit
+    sv: möss
+    sw: Kipanya
+    ta: சுண்டெலி
+    te: చిట్టెలుక
+    tg: Муш
+    th: หนูหริ่ง
+    tl: Bubuwit
+    tr: ev faresi
+    tt: йорт тычканнары
+    tt-cyrl: йорт тычканнары
+    uk: миші
+    ur: چوہا
+    uz: Sichqonlar
+    vi: Chuột nhắt
+    vls: Muus
+    vo: Mus
+    vro: Hiir
+    war: Mus ()
+    wo: Jinax
+    wuu: 小鼠
+    yi: מויז
+    yue: 鼠屬
+    zh: 小鼠属
+    zh-cn: 小鼠属
+    zh-hans: 小鼠属
+    zh-tw: 小鼠屬
 ---
-
 # [[Mouse]] 
 
 #is_/same_as :: [[WD~Mus,39275]] 

@@ -4,8 +4,8 @@ aliases:
   - Postel's_Law
   - Robustness Principle
   - Robustness-Principle
+has_id_wikidata: Q633480
 ---
-
 #is_/conflicting_/with :: [[Fail-fast-Principle]]  
 
 > In computing, the **Robustness Principle** is a design guideline for software that states: 

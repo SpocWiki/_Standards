@@ -1,57 +1,85 @@
 ---
 aliases:
-  - Rosa Louise McCauley Parks
-  - Rosa Parks
-  - Parks
-  - Rosa_Parks
-  - Parks,Rosa
+- Parks
+- Parks,Rosa
+- Rosa Louise McCauley Parks
+- Rosa Parks
+- Rosa Parksová
+- Rosa_Parks
+- Roza Parks
+- Roza Pārksa
+- Ρόζα Παρκς
+- Роза Паркс
+- Ռոզա Փարքս
+- רוזה פארקס
+- رزا پارکس
+- روزا باركس
+- روزا پاركس
+- روزا پارکس
+- ڕۆزا پارکس
+- रोज़ा पार्क्स
+- रोजा पार्क्स
+- रोझा पार्क्स
+- রোজা পার্কস
+- ਰੋਜ਼ਾ ਪਾਰਕਸ
+- றோசா பாக்ஸ்
+- రోసా పార్క్స్
+- റോസ പാർക്സ്
+- ရိုဆာပတ်
+- როზა პარკსი
+- ሮዛ ፓርክስ
+- ローザ・パークス
+- 柏樂莎
+- 罗莎·帕克斯
+- 羅莎·帕克斯
+- 로자 파크스
 has_id_wikidata: Q41921
 place_of_birth: '[[_Standards/WikiData/WD~Tuskegee,79718]]'
 medical_condition: '[[_Standards/WikiData/WD~dementia,83030]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
-  - '[[_Standards/WikiData/WD~activism,203764]]'
-  - '[[_Standards/WikiData/WD~civil_rights_movement,13406660]]'
-  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-  - '[[_Standards/WikiData/WD~racial_segregation,59816]]'
+- '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+- '[[_Standards/WikiData/WD~activism,203764]]'
+- '[[_Standards/WikiData/WD~civil_rights_movement,13406660]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~racial_segregation,59816]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~United_Methodist_Church,329646]]'
 occupation:
-  - '[[_Standards/WikiData/WD~public_figure,662729]]'
-  - '[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]'
-  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
-  - '[[_Standards/WikiData/WD~political_activist,11499147]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~public_figure,662729]]'
+- '[[_Standards/WikiData/WD~civil_rights_advocate,1021386]]'
+- '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+- '[[_Standards/WikiData/WD~political_activist,11499147]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
-  - '[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]'
-  - "[[_Standards/WikiData/WD~Alabama_Women's_Hall_of_Fame,4705361]]"
-  - '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
-  - "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
-  - '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series,6952071]]'
-  - "[[_Standards/WikiData/WD~Women's_Caucus_for_Art_Lifetime_Achievement_Award,17019319]]"
-  - '[[_Standards/WikiData/WD~Candace_Award,27851929]]'
-  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
-  - '[[_Standards/WikiData/WD~International_Freedom_Conductor_Award,28663129]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
+- '[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]'
+- "[[_Standards/WikiData/WD~Alabama_Women's_Hall_of_Fame,4705361]]"
+- '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
+- "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
+- '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Supporting_Actress_in_a_Drama_Series,6952071]]'
+- "[[_Standards/WikiData/WD~Women's_Caucus_for_Art_Lifetime_Achievement_Award,17019319]]"
+- '[[_Standards/WikiData/WD~Candace_Award,27851929]]'
+- '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+- '[[_Standards/WikiData/WD~International_Freedom_Conductor_Award,28663129]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 educated_at: '[[_Standards/WikiData/WD~Alabama_State_College,941524]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Rosa,1640276]]'
-  - '[[_Standards/WikiData/WD~Louise,3215140]]'
+- '[[_Standards/WikiData/WD~Rosa,1640276]]'
+- '[[_Standards/WikiData/WD~Louise,3215140]]'
 member_of: '[[_Standards/WikiData/WD~Alpha_Kappa_Alpha,3308284]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 family_name:
-  - '[[_Standards/WikiData/WD~McCauley,6800243]]'
-  - '[[_Standards/WikiData/WD~Parks,27237735]]'
+- '[[_Standards/WikiData/WD~McCauley,6800243]]'
+- '[[_Standards/WikiData/WD~Parks,27237735]]'
 place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,8033008]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
-  - '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
-  - '[[_Standards/WikiData/WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584]]'
+- '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+- '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
+- '[[_Standards/WikiData/WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584]]'
 spouse: '[[_Standards/WikiData/WD~Raymond_Parks,108664219]]'
 owner_of: '[[_Standards/WikiData/WD~Q128483103,128483103]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -65,13 +93,13 @@ Commons_gallery: Rosa Parks
 Commons_category: Rosa Parks
 date_of_death: 2005-10-24T00:00:00Z
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-Rosa%20Parks.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Es-Rosa-Parks-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-Rosa%20Parks.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Es-Rosa-Parks-article.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Parks%201997.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20Parks%20Signature.svg
 ISNI:
-  - 0000000121227464
-  - 0000000368638433
+- 0000000121227464
+- 0000000368638433
 U_S_National_Archives_Identifier: 10571886
 Google_Doodle: 55th-anniversary-rosa-parks-refuses-to-move
 Libris_URI: tr58gpcc5bmrpw6
@@ -79,8 +107,128 @@ name_in_kana: ローザ・パークス
 birth_name: Rosa Louise McCauley
 name_in_native_language: Rosa Louise McCauley Parks
 date_of_birth: 1913-02-04T00:00:00Z
+dv_has_:
+  name_:
+    af: Rosa Parks
+    am: ሮዛ ፓርክስ
+    an: Rosa Parks
+    ar: روزا باركس
+    ary: روزا پاركس
+    arz: روزا باركس
+    ast: Rosa Parks
+    az: Roza Parks
+    ban: Rosa Parks
+    bcl: Rosa Parks
+    be: Роза Паркс
+    be-tarask: Роза Паркс
+    bg: Роза Паркс
+    bn: রোজা পার্কস
+    br: Rosa Parks
+    bs: Rosa Parks
+    ca: Rosa Parks
+    ckb: ڕۆزا پارکس
+    cs: Rosa Parksová
+    cy: Rosa Parks
+    da: Rosa Parks
+    dag: Rosa Parks
+    de: Rosa Parks
+    el: Ρόζα Παρκς
+    en: Rosa Parks
+    en-gb: Rosa Parks
+    eo: Rosa Parks
+    es: Rosa Parks
+    et: Rosa Parks
+    eu: Rosa Parks
+    fa: رزا پارکس
+    fi: Rosa Parks
+    fo: Rosa Parks
+    fr: Rosa Parks
+    fy: Rosa Parks
+    ga: Rosa Parks
+    gaa: Rosa Parks
+    gd: Rosa Parks
+    gl: Rosa Parks
+    gpe: Rosa Parks
+    gv: Rosa Parks
+    ha: Rosa Parks
+    he: רוזה פארקס
+    hi: रोज़ा पार्क्स
+    hif: Rosa Parks
+    hr: Rosa Parks
+    hu: Rosa Parks
+    hy: Ռոզա Փարքս
+    hyw: Ռոզա Փարքս
+    id: Rosa Parks
+    ig: Rosa Parks
+    io: Rosa Parks
+    is: Rosa Parks
+    it: Rosa Parks
+    ja: ローザ・パークス
+    jv: Rosa Parks
+    ka: როზა პარკსი
+    ko: 로자 파크스
+    ku: Rosa Parks
+    kw: Rosa Parks
+    la: Rosa Parks
+    lad: Rosa Parks
+    lb: Rosa Parks
+    li: Rosa Parks
+    lmo: Rosa Parks
+    ln: Rosa Parks
+    lt: Rosa Parks
+    lv: Roza Pārksa
+    mad: Rosa Parks
+    mai: रोजा पार्क्स
+    mg: Rosa Parks
+    mk: Роза Паркс
+    ml: റോസ പാർക്സ്
+    mn: Роза Паркс
+    mr: रोझा पार्क्स
+    ms: Rosa Parks
+    my: ရိုဆာပတ်
+    nan: Rosa Parks
+    nb: Rosa Parks
+    nds: Rosa Parks
+    ne: रोजा पार्क्स
+    new: रोजा पार्क्स
+    nl: Rosa Parks
+    nn: Rosa Parks
+    oc: Rosa Parks
+    pa: ਰੋਜ਼ਾ ਪਾਰਕਸ
+    pl: Rosa Parks
+    pnb: روزا پارکس
+    ps: روزا پارکس
+    pt: Rosa Parks
+    pt-br: Rosa Parks
+    ro: Rosa Parks
+    ru: Роза Паркс
+    sa: रोजा पार्क्स
+    sco: Rosa Parks
+    sh: Rosa Parks
+    sk: Rosa Parksová
+    skr: روزا پارکس
+    sl: Rosa Parks
+    sq: Rosa Parks
+    sr: Роза Паркс
+    sv: Rosa Parks
+    sw: Rosa Parks
+    ta: றோசா பாக்ஸ்
+    te: రోసా పార్క్స్
+    tl: Rosa Parks
+    tr: Rosa Parks
+    tw: Rosa Parks
+    uk: Роза Паркс
+    ur: روزا پارکس
+    uz: Rosa Parks
+    vec: Rosa Parks
+    vi: Rosa Parks
+    war: Rosa Parks
+    wuu: 罗莎·帕克斯
+    yo: Rosa Parks
+    yue: 柏樂莎
+    zh: 羅莎·帕克斯
+    zh-cn: 罗莎·帕克斯
 ---
-
 # [[Parks,Rosa]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Rosa_Parks,41921|WD~Rosa_Parks,41921]]  

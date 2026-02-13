@@ -1,13 +1,68 @@
 ---
 aliases:
-  - Salami slicing tactics
-  - Salamitaktik
-  - salami slicing
-  - salami tactics
-  - salami-slice strategy
-  - salami attacks
+- Chiến thuật cắt lát salami
+- Salam dilimleme taktikleri
+- salami attacks
+- salami slicing
+- Salami slicing tactics
+- salami tactics
+- salami-slice strategy
+- salamitactiek
+- Salamitaktik
+- salamtaktiko
+- Salámová metoda
+- szalámitaktika
+- tactique du salami
+- Taktik salami
+- taktika rezin
+- taktyka salami
+- tàctica del salami
+- Táctica del salami
+- Σαλαμοποίηση
+- Тактика салямі
+- Тактика салями
+- Սալյամի մարտավարություն
+- שיטת הסלאמי
+- تاکتیک سالامی
+- تكتيكات تقطيع السلامي
+- सलामी स्लाइसिंग
+- சலாமி வெட்டும் உத்திகள்
+- サラミ戦術
+- 薩拉米香腸戰術
+- 살라미 기술
+has_id_wikidata: Q1070911
+dv_has_:
+  name_:
+    ar: تكتيكات تقطيع السلامي
+    ca: tàctica del salami
+    cs: Salámová metoda
+    da: Salamitaktik
+    de: Salamitaktik
+    el: Σαλαμοποίηση
+    en: salami tactics
+    eo: salamtaktiko
+    es: Táctica del salami
+    fa: تاکتیک سالامی
+    fr: tactique du salami
+    he: שיטת הסלאמי
+    hi: सलामी स्लाइसिंग
+    hu: szalámitaktika
+    hy: Սալյամի մարտավարություն
+    id: Taktik salami
+    ja: サラミ戦術
+    ko: 살라미 기술
+    nl: salamitactiek
+    pfl: Salamitaktik
+    pl: taktyka salami
+    ru: Тактика салями
+    sl: taktika rezin
+    sv: Salamitaktik
+    ta: சலாமி வெட்டும் உத்திகள்
+    tr: Salam dilimleme taktikleri
+    uk: Тактика салямі
+    vi: Chiến thuật cắt lát salami
+    zh: 薩拉米香腸戰術
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Salami slicing tactics**, also known as salami slicing, salami tactics, the salami-slice strategy, 

@@ -1,9 +1,96 @@
 ---
 aliases:
-  - Ebracteolate
+- bracht
+- bract
+- Bractea
+- bractée
+- Brahte
+- Braktea
+- Brakteja
+- brakteo
+- brattea
+- bràctea
+- Bràtea
+- bráctea
+- Daun pelindung
+- Ebracteolate
+- høgblad
+- kandeleht
+- listen
+- Listeň
+- murvalevél
+- ovršni list
+- podsadka
+- schutblad
+- Skutblaar
+- stödblad
+- støtteblad
+- Tragblatt
+- приквітка
+- Приперак
+- прицветник
+- Прыкветак
+- чәчәк төбе
+- חפה
+- برگک
+- قنابة
+- सहपत्र
+- സഹപത്രം
+- ใบประดับ
+- 苞
+- 苞片
+- 포엽
 title: Ebracteolate clade
+has_id_wikidata: Q729496
+dv_has_:
+  name_:
+    af: Skutblaar
+    ar: قنابة
+    ast: Bráctea
+    be: Прыкветак
+    be-tarask: прыкветак
+    bs: Brakteja
+    ca: bràctea
+    cs: listen
+    de: Tragblatt
+    en: bract
+    eo: brakteo
+    es: bráctea
+    et: kandeleht
+    eu: Braktea
+    fa: برگک
+    fr: bractée
+    ga: bracht
+    gl: Bráctea
+    he: חפה
+    hi: सहपत्र
+    hu: murvalevél
+    id: Daun pelindung
+    io: Brakteo
+    it: brattea
+    ja: 苞
+    ko: 포엽
+    la: Bractea
+    lmo: Bràtea
+    mk: прицветник
+    ml: സഹപത്രം
+    nb: støtteblad
+    nl: schutblad
+    nn: høgblad
+    pl: podsadka
+    pt: Bráctea
+    ru: прицветник
+    sh: Brakteja
+    sk: Listeň
+    sl: ovršni list
+    sr: Приперак
+    sv: stödblad
+    th: ใบประดับ
+    tr: Brahte
+    tt: чәчәк төбе
+    uk: приквітка
+    zh: 苞片
 ---
-
 # [[Ebracteolate]]  
 
 ![ ](Ebracteolate/dscn0140.jpg)

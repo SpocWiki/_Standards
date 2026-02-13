@@ -1,17 +1,72 @@
 ---
 aliases:
-  - Ölschiefer
-  - Oil_Shale
-  - Oil Shale
+- Degslāneklis
+- Eskisto bituminoso
+- Ile shale
+- Lutita bituminosa
+- Minyak serpih
+- Minyak syal
+- Naftingasis skalūnas
+- Naftni skrilavec
+- naftoardezo
+- Oil Shale
+- Oil_Shale
+- olajpala
+- olieschalie
+- Olieskifer
+- oljeskifer
+- oljeskiffer
+- Olíuleirsteinn
+- petrollü şeyl
+- pissarra bituminosa
+- põlevkivi
+- ropné břidlice
+- schiste bitumineux
+- Schistus bituminosus
+- scisto bituminoso
+- Uelegschifer
+- Uljni škriljac
+- xisto betuminoso
+- Xisto bituminoso
+- Yanar şist
+- Öljyliuske
+- Ölschiefer
+- Öölschiefer
+- Đá phiến dầu
+- łupki bitumiczne
+- Битуминозни шисти
+- Варақсангҳои сӯзанда
+- гаручы лупняк
+- гаручыя сланцы
+- горючі сланці
+- горючий сланец
+- жанғыш тақтатас
+- Күйүүчү сланецтер
+- нафтен шкрилец
+- уљни шкриљац
+- Шатадаг занар
+- Шатдаг занар
+- янучан катламташ
+- Նավթաբեր ապարներ
+- פצלי שמן
+- سجيل زيتي
+- سنگ نفت
+- तैल शेल
+- තෙල් ශල්ක
+- หินน้ำมัน
+- オイルシェール
+- 油頁岩
+- 油页岩
+- 오일 셰일
 has_id_wikidata: Q221378
 subclass_of:
-  - '[[_Standards/WikiData/WD~marl,184053]]'
-  - '[[_Standards/WikiData/WD~sapropelite,1705967]]'
-  - '[[_Standards/WikiData/WD~carbon_schist,9394829]]'
-  - '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
+- '[[_Standards/WikiData/WD~marl,184053]]'
+- '[[_Standards/WikiData/WD~sapropelite,1705967]]'
+- '[[_Standards/WikiData/WD~carbon_schist,9394829]]'
+- '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
 different_from: '[[_Standards/WikiData/WD~shale,751300]]'
 OmegaWiki_Defined_Meaning: 2643
 Commons_category: Oil shale
@@ -19,10 +74,77 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20shal
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oilshale.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000119
 Dewey_Decimal_Classification:
-  - 553.283
-  - 622.3383
+- 553.283
+- 622.3383
+dv_has_:
+  name_:
+    ar: سجيل زيتي
+    ast: Lutita bituminosa
+    az: Yanar şist
+    be: гаручыя сланцы
+    be-tarask: гаручы лупняк
+    bg: Битуминозни шисти
+    bxr: Шатадаг занар
+    ca: pissarra bituminosa
+    cs: ropné břidlice
+    da: Olieskifer
+    de: Ölschiefer
+    en: oil shale
+    en-gb: oil shale
+    eo: naftoardezo
+    es: lutita bituminosa
+    et: põlevkivi
+    eu: Eskisto bituminoso
+    fa: سنگ نفت
+    fi: Öljyliuske
+    fr: schiste bitumineux
+    gl: Xisto bituminoso
+    he: פצלי שמן
+    hi: तैल शेल
+    hu: olajpala
+    hy: Նավթաբեր ապարներ
+    id: Minyak serpih
+    is: Olíuleirsteinn
+    it: scisto bituminoso
+    ja: オイルシェール
+    kk: жанғыш тақтатас
+    ko: 오일 셰일
+    ky: Күйүүчү сланецтер
+    la: Schistus bituminosus
+    lb: Uelegschifer
+    lt: Naftingasis skalūnas
+    lv: Degslāneklis
+    mk: нафтен шкрилец
+    mn: Шатдаг занар
+    ms: Minyak syal
+    nb: oljeskifer
+    nds: Öölschiefer
+    nl: olieschalie
+    nn: Oljeskifer
+    pl: łupki bitumiczne
+    pt: xisto betuminoso
+    ru: горючий сланец
+    sco: Ile shale
+    sh: Uljni škriljac
+    si: තෙල් ශල්ක
+    sl: Naftni skrilavec
+    sr: уљни шкриљац
+    sv: oljeskiffer
+    tg: Варақсангҳои сӯзанда
+    th: หินน้ำมัน
+    tr: petrollü şeyl
+    tt: янучан катламташ
+    uk: горючі сланці
+    vi: Đá phiến dầu
+    yue: 油頁岩
+    zh: 油頁岩
+    zh-cn: 油页岩
+    zh-hans: 油页岩
+    zh-hant: 油頁岩
+    zh-hk: 油頁岩
+    zh-sg: 油页岩
+    zh-tw: 油頁岩
 ---
-
 # [[Oil_Shale]] 
 
 #is_/same_as :: [[WD~Oil_shale,221378]] 

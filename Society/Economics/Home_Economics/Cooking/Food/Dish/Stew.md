@@ -1,23 +1,169 @@
 ---
 aliases:
+- dinstanje
+- Eintopf
+- enolončnica
+- ensopado
+- erregosi
+- estofado
+- estofat
+- estofáu
+- estopado
+- estufado
+- fricòt
+- godhogan
+- godogan
+- hautis
+- kitoweo
+- muhennos
+- món hầm
+- potrawka
+- ragoût
+- ragu
+- raguto
+- ragú
+- rebusan
+- rendidih
+- sautējums
+- snuorrepot
+- stew
+- stiubh
+- stobhach
+- stoofpot
+- stufato
+- stufaĵo
+- stuing
+- stuvning
+- sulu yemək
+- thufu
+- tocană
+- troškinys
+- yahni
+- zierje
+- γιαχνί
+- γιαχνίν
+- динстано јело
+- манџа
+- патраўка
+- стью
+- сьорбка
+- ստյու
+- צלי קדירה
+- آشماش
+- خورش
+- شله
+- طبيخ
+- يخنة
+- ݣاميلة
+- मुरब्बा
+- স্ট্যু
+- ਸਟਿਊ
+- ସ୍ଟୁ
+- സ്റ്റൂ
+- สตู
+- სტიუ
+- ᐊᒡᒍᐊᓚᕿᓵᖅ
+- シチュー
+- 燉湯
+- 燉煮
+- 燴
+- 스튜
 has_id_wikidata: Q2920963
 subclass_of:
-  - "[[_Standards/WikiData/WD~dish,746549]]"
-  - "[[_Standards/WikiData/WD~meat_dish,1427844]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
-has_part_s_: "[[_Standards/WikiData/WD~vegetable,11004]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
+- '[[_Standards/WikiData/WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~meat_dish,1427844]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
+has_part_s_: '[[_Standards/WikiData/WD~vegetable,11004]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20131117Estouffade8.jpg
 Commons_category:
-  - Estouffade de boeuf à la provençale
-  - Stews
+- Estouffade de boeuf à la provençale
+- Stews
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-rago%C3%BBt.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-stoofpot.ogg
-Amazon_com_browse_node: "16319741"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fr-rago%C3%BBt.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-stoofpot.ogg
+Amazon_com_browse_node: 16319741
+dv_has_:
+  name_:
+    ar: يخنة
+    ary: ݣاميلة
+    arz: طبيخ
+    ast: estofáu
+    az: sulu yemək
+    be-tarask: патраўка
+    bew: godogan
+    bn: স্ট্যু
+    bs: dinstanje
+    ca: estofat
+    cs: ragú
+    da: stuvning
+    de: Eintopf
+    el: γιαχνί
+    en: stew
+    eo: stufaĵo
+    es: estofado
+    et: hautis
+    eu: erregosi
+    fa: خورش
+    fi: muhennos
+    fr: ragoût
+    fy: snuorrepot
+    ga: stobhach
+    gd: stiubh
+    gl: estufado
+    he: צלי קדירה
+    hi: मुरब्बा
+    hu: ragu
+    hy: ստյու
+    id: rebusan
+    io: raguto
+    it: stufato
+    iu: ᐊᒡᒍᐊᓚᕿᓵᖅ
+    ja: シチュー
+    jv: godhogan
+    ka: სტიუ
+    ki: thufu
+    ko: 스튜
+    ku: شله
+    lt: troškinys
+    lv: sautējums
+    mk: манџа
+    ml: സ്റ്റൂ
+    ms: rendidih
+    nb: stuing
+    nl: stoofpot
+    nn: stuing
+    oc: fricòt
+    or: ସ୍ଟୁ
+    pa: ਸਟਿਊ
+    pl: potrawka
+    pnt: γιαχνίν
+    pt: estufado
+    pt-br: ensopado
+    ro: tocană
+    ru: стью
+    sh: dinstanje
+    sl: enolončnica
+    sq: zierje
+    sr: динстано јело
+    sv: stuvning
+    sw: kitoweo
+    th: สตู
+    tl: estopado
+    tly: آشماش
+    tr: yahni
+    uk: сьорбка
+    vi: món hầm
+    wuu: 燉湯
+    xmf: სტიუ
+    yue: 燴
+    zh: 燉煮
+    zh-hans: 燉煮
+    zh-hant: 燉煮
+    zh-hk: 燉煮
+    zh-tw: 燉煮
 ---
-
 # [[Stew]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Stew,2920963|WD~Stew,2920963]] 

@@ -1,12 +1,161 @@
 ---
 aliases:
-  - Branchiura
-  - Argulidae
-  - fish lice
-  - carp lice
+- Argulidae
+- Branchiura
+- carp lice
+- fish lice
+- visluizen
+- шаранови въшки
+- أرغولية
+- شپش ماهی
+- 鯴科
+- 鰓尾亜綱
+- 鲺科
 title: Branchiura
+has_id_wikidata: Q18196331
+dv_has_:
+  name_:
+    ace: Argulidae
+    af: Argulidae
+    an: Argulidae
+    ar: أرغولية
+    ast: Argulidae
+    az: Argulidae
+    bar: Argulidae
+    bcl: Argulidae
+    bg: шаранови въшки
+    br: Argulidae
+    bs: Argulidae
+    ca: Argulidae
+    cbk-zam: Argulidae
+    ceb: Argulidae
+    co: Argulidae
+    cs: Argulidae
+    csb: Argulidae
+    cy: Argulidae
+    da: Argulidae
+    de: Argulidae
+    de-at: Argulidae
+    de-ch: Argulidae
+    diq: Argulidae
+    dsb: Argulidae
+    eml: Argulidae
+    en: Argulidae
+    en-ca: Argulidae
+    en-gb: Argulidae
+    eo: Argulidae
+    es: Argulidae
+    et: Argulidae
+    eu: Argulidae
+    ext: Argulidae
+    fa: شپش ماهی
+    fi: Argulidae
+    fo: Argulidae
+    fr: Argulidae
+    frc: Argulidae
+    frp: Argulidae
+    frr: Argulidae
+    fur: Argulidae
+    fy: Argulidae
+    ga: Argulidae
+    gag: Argulidae
+    gd: Argulidae
+    gl: Argulidae
+    gsw: Argulidae
+    gv: Argulidae
+    ha: Argulidae
+    haw: Argulidae
+    hif: Argulidae
+    hr: Argulidae
+    hsb: Argulidae
+    ht: Argulidae
+    hu: Argulidae
+    ia: Argulidae
+    id: Argulidae
+    ie: Argulidae
+    ig: Argulidae
+    ilo: Argulidae
+    io: Argulidae
+    is: Argulidae
+    it: Argulidae
+    ja: 鰓尾亜綱
+    jv: Argulidae
+    kaa: Argulidae
+    kab: Argulidae
+    kg: Argulidae
+    kl: Argulidae
+    ksh: Argulidae
+    ku: Argulidae
+    kw: Argulidae
+    la: Argulidae
+    lad: Argulidae
+    lb: Argulidae
+    li: Argulidae
+    lij: Argulidae
+    lmo: Argulidae
+    mg: Argulidae
+    min: Argulidae
+    ms: Argulidae
+    mt: Argulidae
+    mul: Argulidae
+    mwl: Argulidae
+    na: Argulidae
+    nah: Argulidae
+    nap: Argulidae
+    nb: Argulidae
+    nds: Argulidae
+    nds-nl: Argulidae
+    nl: visluizen
+    nn: Argulidae
+    nov: Argulidae
+    nrm: Argulidae
+    oc: Argulidae
+    pam: Argulidae
+    pap: Argulidae
+    pcd: Argulidae
+    pdc: Argulidae
+    pdt: Argulidae
+    pfl: Argulidae
+    pl: Argulidae
+    pms: Argulidae
+    pt: Argulidae
+    pt-br: Argulidae
+    qu: Argulidae
+    rm: Argulidae
+    ro: Argulidae
+    ru: Argulidae
+    sc: Argulidae
+    scn: Argulidae
+    sco: Argulidae
+    sk: Argulidae
+    sl: Argulidae
+    so: Argulidae
+    sq: Argulidae
+    sr-el: Argulidae
+    stq: Argulidae
+    su: Argulidae
+    sv: Argulidae
+    sw: Argulidae
+    tet: Argulidae
+    tl: Argulidae
+    tr: Argulidae
+    uk: Argulidae
+    vec: Argulidae
+    vi: Argulidae
+    vls: Argulidae
+    vmf: Argulidae
+    vo: Argulidae
+    wa: Argulidae
+    war: Argulidae
+    wo: Argulidae
+    yo: Argulidae
+    zea: Argulidae
+    zh: 鲺科
+    zh-cn: 鯴科
+    zh-hans: 鲺科
+    zh-tw: 鯴科
+    zu: Argulidae
 ---
-
 # [[Branchiura]] 
 
 Sea lice, fish lice, tongue worms 

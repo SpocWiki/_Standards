@@ -1,10 +1,129 @@
 ---
 aliases:
-  - Ron Howard
-  - Ronald William Howard
-  - Howard,Ron
+- Howard,Ron
+- Ron Howard
+- Ronald William Howard
+- Ronaldus Howard
+- Rons Hauards
+- Ρον Χάουαρντ
+- Рон Гаўард
+- Рон Говард
+- Рон Хауард
+- Рон Хауърд
+- Рон Ховард
+- Ռոն Հովարդ
+- רון הווארד
+- ران هاوارد
+- رون هاوارد
+- رون ہاورڈ
+- ڕۆن ھاوارد
+- रॉन हॉवर्ड
+- রন হাওয়ার্ড
+- ਰੌਨ ਹਾਵਰਡ
+- ரான் ஹவர்டு
+- రాన్ హోవార్డ్
+- รอน ฮาวเวิร์ด
+- რონ ჰოვარდი
+- ⵔⵓⵏ ⵀⴰⵡⴰⵔⴷ
+- ロン・ハワード
+- 朗·侯活
+- 朗·霍华
+- 朗·霍华德
+- 朗·霍華
+- 朗候活
+- 론 하워드
+has_id_wikidata: Q103646
+dv_has_:
+  name_:
+    af: Ron Howard
+    an: Ron Howard
+    ar: رون هاوارد
+    arz: رون هاوارد
+    ast: Ron Howard
+    azb: ران هاوارد
+    be: Рон Ховард
+    be-tarask: Рон Гаўард
+    bg: Рон Хауърд
+    bn: রন হাওয়ার্ড
+    br: Ron Howard
+    ca: Ron Howard
+    ckb: ڕۆن ھاوارد
+    cs: Ron Howard
+    cy: Ron Howard
+    da: Ron Howard
+    de: Ron Howard
+    de-ch: Ron Howard
+    el: Ρον Χάουαρντ
+    en: Ron Howard
+    en-ca: Ron Howard
+    en-gb: Ron Howard
+    eo: Ron Howard
+    es: Ron Howard
+    eu: Ron Howard
+    fa: ران هاوارد
+    fi: Ron Howard
+    fr: Ron Howard
+    ga: Ron Howard
+    gl: Ron Howard
+    he: רון הווארד
+    hr: Ron Howard
+    ht: Ron Howard
+    hu: Ron Howard
+    hy: Ռոն Հովարդ
+    id: Ron Howard
+    it: Ron Howard
+    ja: ロン・ハワード
+    ka: რონ ჰოვარდი
+    kk: Рон Ховард
+    ko: 론 하워드
+    la: Ronaldus Howard
+    li: Ron Howard
+    lt: Ron Howard
+    lv: Rons Hauards
+    mg: Ron Howard
+    mr: रॉन हॉवर्ड
+    mul: Ron Howard
+    nb: Ron Howard
+    nds: Ron Howard
+    nl: Ron Howard
+    nn: Ron Howard
+    oc: Ron Howard
+    pa: ਰੌਨ ਹਾਵਰਡ
+    pap: Ron Howard
+    pl: Ron Howard
+    pt: Ron Howard
+    pt-br: Ron Howard
+    ro: Ron Howard
+    ru: Рон Ховард
+    sco: Ron Howard
+    sh: Ron Howard
+    sl: Ron Howard
+    sq: Ron Howard
+    sr: Рон Хауард
+    sv: Ron Howard
+    ta: ரான் ஹவர்டு
+    te: రాన్ హోవార్డ్
+    th: รอน ฮาวเวิร์ด
+    tr: Ron Howard
+    uk: Рон Говард
+    ur: رون ہاورڈ
+    uz: Ron Howard
+    vi: Ron Howard
+    war: Ron Howard
+    wuu: 朗·霍华德
+    xmf: რონ ჰოვარდი
+    yo: Ron Howard
+    yue: 朗候活
+    zgh: ⵔⵓⵏ ⵀⴰⵡⴰⵔⴷ
+    zh: 朗·侯活
+    zh-cn: 朗·霍华德
+    zh-hans: 朗·霍华德
+    zh-hant: 朗·霍華
+    zh-hk: 朗·侯活
+    zh-my: 朗·霍华
+    zh-sg: 朗·霍华德
+    zh-tw: 朗·霍華
 ---
-
 #has_/time_/started :: 1954-03-01 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

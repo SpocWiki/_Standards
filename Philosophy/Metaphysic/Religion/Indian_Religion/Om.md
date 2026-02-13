@@ -1,36 +1,170 @@
 ---
 aliases:
-  - ॐ
-  - ओम्
-  - Oṃ
-  - Auṃ
-  - Onkara
-  - Omkara
-  - Pranava
-  - Om
+- Aum
+- Auṃ
+- Aúm
+- Mantra Om
+- Om
+- Om (mantra)
+- Om (silp)
+- Om-tavu
+- Omkara
+- om̐
+- Onkara
+- Oṃ
+- Pranava
+- sitelen Omu
+- Óm
+- Ωμ
+- Аум
+- Ом
+- Ом (мантрасы)
+- Օմ (մանտրա)
+- אום
+- أُم
+- ام
+- اوم
+- ओंकार
+- ओउ्म्
+- ओम
+- ओम्
+- ॐ
+- ওঁ
+- ਓਮ
+- ૐ
+- ଓଁ
+- ஓம்
+- ఓం
+- ಓಂ
+- ഓം
+- โอม
+- ༀ
+- აუმი
+- ᱚᱢ
+- オーム
+- 唵
+- 옴
 has_id_wikidata: Q184128
 part_of: '[[_Standards/WikiData/WD~om_mani_padme_hum,241652]]'
 described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~A_un,4647014]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-  - '[[_Standards/WikiData/WD~religious_symbol,60469796]]'
-  - '[[_Standards/WikiData/WD~syllable,8188]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
+- '[[_Standards/WikiData/WD~religious_symbol,60469796]]'
+- '[[_Standards/WikiData/WD~syllable,8188]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~Buddhism,748]]'
-  - '[[_Standards/WikiData/WD~Hinduism,9089]]'
-  - '[[_Standards/WikiData/WD~Jainism,9232]]'
-  - '[[_Standards/WikiData/WD~Sikhism,9316]]'
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~Hinduism,9089]]'
+- '[[_Standards/WikiData/WD~Jainism,9232]]'
+- '[[_Standards/WikiData/WD~Sikhism,9316]]'
 native_label:
-  - ॐ
-  - 옴
-  - 唵
-  - ༀ
-  - ௐ
+- ॐ
+- 옴
+- 唵
+- ༀ
+- ௐ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Emojione%20BW%201F549.svg
 Commons_category: Om (symbol)
+dv_has_:
+  name_:
+    af: Aum
+    ar: أُم
+    as: ওঁ
+    ast: Om
+    az: Om
+    ban: Om
+    bcl: Om
+    be: Ом
+    be-tarask: ом
+    bg: Ом
+    bho: ॐ
+    bn: ওঁ
+    bo: ༀ
+    ca: Om
+    cs: Óm
+    da: Aum
+    de: Om
+    de-ch: Om
+    el: Ωμ
+    en: om
+    en-ca: Om
+    en-gb: Om
+    eo: Om
+    es: Om
+    et: Om (silp)
+    eu: Om (mantra)
+    fa: ام
+    fi: Om-tavu
+    fr: om̐
+    gl: Om
+    gsw: Om
+    gu: ૐ
+    he: אום
+    hi: ॐ
+    hif: Om
+    hu: om
+    hy: Օմ (մանտրա)
+    id: Aum
+    is: Aúm
+    it: Oṃ
+    ja: オーム
+    ka: აუმი
+    kn: ಓಂ
+    ko: 옴
+    ks: اوم
+    la: Om
+    lt: Om
+    lv: Om
+    mag: ॐ
+    mai: ओउ्म्
+    mk: ом
+    ml: ഓം
+    mr: ओम
+    ms: Om
+    nb: Om
+    ne: ओंकार
+    new: ॐ
+    nl: Om
+    nn: Aum
+    or: ଓଁ
+    pa: ਓਮ
+    pl: Mantra Om
+    pt: Om
+    pt-br: Om
+    ro: Aum
+    ru: Ом
+    sa: ॐ
+    sat: ᱚᱢ
+    sd: اوم
+    sh: Aum
+    sk: Óm
+    sl: Aum
+    sq: Om
+    sr: Aum
+    sr-ec: Аум
+    sr-el: Aum
+    sv: Aum
+    ta: ஓம்
+    te: ఓం
+    th: โอม
+    tl: Om
+    tok: sitelen Omu
+    tr: Om
+    tt: Ом (мантрасы)
+    uk: Ом
+    ur: اوم
+    vi: Om
+    wuu: 唵
+    xmf: აუმი
+    yue: 唵
+    zh: 唵
+    zh-cn: 唵
+    zh-hans: 唵
+    zh-hant: 唵
+    zh-hk: 唵
+    zh-sg: 唵
+    zh-tw: 唵
 ---
-
 # [[Om]] 
 
 #is_/same_as :: [[WD~Om,184128]] 

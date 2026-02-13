@@ -1,39 +1,65 @@
 ---
 aliases:
-  - Raymond_Chandler
-  - Raymond Thornton Chandler
-  - Raymond Chandler
-  - Chandler
-  - Chandler,Raymond
+- Chandler
+- Chandler,Raymond
+- Raimondas Čandleris
+- Raimonds Čandleris
+- Raimundus Thornton Chandler
+- Raymond Chandler
+- Raymond Thornton Chandler
+- Raymond_Chandler
+- Rejmond Čandler
+- Reymond Çandler
+- Ρέημοντ Τσάντλερ
+- Рејмонд Чандлер
+- Рејмонд Чендлер
+- Реймонд Чендлер
+- Реймънд Чандлър
+- Рэйманд Чэндлер
+- Рэймонд Чандлер
+- Ռեյմոնդ Չանդլեր
+- ריימונד צ'נדלר
+- رايموند تشاندلر
+- ریموند چندلر
+- रेमन्ड च्यान्डलर
+- রেমন্ড চ্যান্ডলার
+- ਰੇਮੰਡ ਚੈੰਨਡਲਰ
+- ರೇಮಂಡ್ ಥಾರ್ನ್ಟನ್ ಚ್ಯಾಂಡ್ಲರ್
+- რაიმონდ ჩანდლერი
+- レイモンド・チャンドラー
+- 雷蒙·錢德勒
+- 雷蒙·钱德勒
+- 雷蒙德·钱德勒
+- 레이먼드 챈들러
 has_id_wikidata: Q180377
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 military_branch:
-  - '[[_Standards/WikiData/WD~Royal_Air_Force,165862]]'
-  - '[[_Standards/WikiData/WD~British_Army,222595]]'
+- '[[_Standards/WikiData/WD~Royal_Air_Force,165862]]'
+- '[[_Standards/WikiData/WD~British_Army,222595]]'
 influenced_by: '[[_Standards/WikiData/WD~Dashiell_Hammett,186335]]'
 genre: '[[_Standards/WikiData/WD~detective_fiction,186424]]'
 field_of_work: '[[_Standards/WikiData/WD~crime_novel,208505]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Lady_in_the_Lake,677978]]'
-  - '[[_Standards/WikiData/WD~The_High_Window,1141218]]'
-  - '[[_Standards/WikiData/WD~The_Big_Sleep,1649862]]'
-  - '[[_Standards/WikiData/WD~The_Long_Goodbye,2464542]]'
-  - '[[_Standards/WikiData/WD~Playback,3311564]]'
-  - '[[_Standards/WikiData/WD~Poodle_Springs,3655996]]'
-  - '[[_Standards/WikiData/WD~The_Little_Sister,4175473]]'
-  - '[[_Standards/WikiData/WD~Farewell,_My_Lovely,4459778]]'
+- '[[_Standards/WikiData/WD~The_Lady_in_the_Lake,677978]]'
+- '[[_Standards/WikiData/WD~The_High_Window,1141218]]'
+- '[[_Standards/WikiData/WD~The_Big_Sleep,1649862]]'
+- '[[_Standards/WikiData/WD~The_Long_Goodbye,2464542]]'
+- '[[_Standards/WikiData/WD~Playback,3311564]]'
+- '[[_Standards/WikiData/WD~Poodle_Springs,3655996]]'
+- '[[_Standards/WikiData/WD~The_Little_Sister,4175473]]'
+- '[[_Standards/WikiData/WD~Farewell,_My_Lovely,4459778]]'
 place_of_death: '[[_Standards/WikiData/WD~La_Jolla,840668]]'
 educated_at: '[[_Standards/WikiData/WD~Dulwich_College,1264867]]'
 given_name: '[[_Standards/WikiData/WD~Raymond,2127728]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation:
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 place_of_burial: '[[_Standards/WikiData/WD~Mount_Hope_Cemetery,6921298]]'
 family_name: '[[_Standards/WikiData/WD~Chandler,11259438]]'
 archives_at: '[[_Standards/WikiData/WD~UCLA_Library_Special_Collections,104783443]]'
@@ -58,8 +84,89 @@ Europeana_entity: agent/base/60223
 Wolfram_Language_entity_code: Entity["Concept", "Chandler::4v234"]
 Regensburg_Classification: HU 3338
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/CHANDLER_REMOND.html
+dv_has_:
+  name_:
+    an: Raymond Chandler
+    ar: رايموند تشاندلر
+    arz: رايموند تشاندلر
+    ast: Raymond Chandler
+    az: Reymond Çandler
+    azb: ریموند چندلر
+    be-tarask: Рэйманд Чэндлер
+    bg: Реймънд Чандлър
+    bn: রেমন্ড চ্যান্ডলার
+    br: Raymond Chandler
+    ca: Raymond Chandler
+    cs: Raymond Chandler
+    cy: Raymond Chandler
+    da: Raymond Chandler
+    de: Raymond Chandler
+    el: Ρέημοντ Τσάντλερ
+    en: Raymond Chandler
+    eo: Raymond Chandler
+    es: Raymond Chandler
+    et: Raymond Chandler
+    eu: Raymond Chandler
+    fa: ریموند چندلر
+    fi: Raymond Chandler
+    fr: Raymond Chandler
+    ga: Raymond Chandler
+    gl: Raymond Chandler
+    he: ריימונד צ'נדלר
+    hr: Raymond Chandler
+    hu: Raymond Chandler
+    hy: Ռեյմոնդ Չանդլեր
+    id: Raymond Chandler
+    io: Raymond Chandler
+    is: Raymond Chandler
+    it: Raymond Chandler
+    ja: レイモンド・チャンドラー
+    ka: რაიმონდ ჩანდლერი
+    kn: ರೇಮಂಡ್ ಥಾರ್ನ್ಟನ್ ಚ್ಯಾಂಡ್ಲರ್
+    ko: 레이먼드 챈들러
+    la: Raimundus Thornton Chandler
+    lb: Raymond Chandler
+    li: Raymond Chandler
+    lt: Raimondas Čandleris
+    mg: Raymond Chandler
+    mk: Рејмонд Чендлер
+    mul: Raymond Chandler
+    nb: Raymond Chandler
+    new: रेमन्ड च्यान्डलर
+    nl: Raymond Chandler
+    nn: Raymond Chandler
+    pa: ਰੇਮੰਡ ਚੈੰਨਡਲਰ
+    pap: Raymond Chandler
+    pl: Raymond Chandler
+    pt: Raymond Chandler
+    pt-br: Raymond Chandler
+    ro: Raymond Chandler
+    ru: Рэймонд Чандлер
+    sgs: Raimonds Čandleris
+    sh: Raymond Chandler
+    sk: Raymond Chandler
+    sl: Raymond Chandler
+    sq: Raymond Chandler
+    sr: Рејмонд Чандлер
+    sr-ec: Рејмонд Чандлер
+    sr-el: Rejmond Čandler
+    sv: Raymond Chandler
+    tg: Рэймонд Чандлер
+    tr: Raymond Chandler
+    uk: Реймонд Чендлер
+    vi: Raymond Chandler
+    war: Raymond Chandler
+    wuu: 雷蒙德·钱德勒
+    xmf: რაიმონდ ჩანდლერი
+    yue: 雷蒙·錢德勒
+    zh: 雷蒙·錢德勒
+    zh-cn: 雷蒙德·钱德勒
+    zh-hans: 雷蒙·钱德勒
+    zh-hant: 雷蒙·錢德勒
+    zh-hk: 雷蒙·錢德勒
+    zh-sg: 雷蒙德·钱德勒
+    zh-tw: 雷蒙·錢德勒
 ---
-
 # [[Chandler,Raymond]] 
 
 #is_/same_as :: [[WD~Raymond_Chandler,180377]]

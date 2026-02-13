@@ -1,25 +1,204 @@
 ---
 aliases:
-  - Confederation
-  - Konföderation
+- bang liên
+- cochiangle
+- confederacion
+- confederació
+- confederación
+- confederasion
+- confederatie
+- Confederation
+- Confederazion
+- confederazione di Stati
+- confederação
+- confederație
+- conffederasiwn
+- confoederatio
+- confédération
+- cónaidhm
+- Gumbarubiyana
+- Kengevread
+- konfederace
+- konfederacija
+- konfederacio
+- Konfederaciya
+- konfederacja państw
+- Konfederasi
+- konfederasie
+- konfederasiya
+- Konfederasiýa
+- Konfederasyon
+- Konfederata
+- konfederation
+- Konfederatsiya
+- konfederazio
+- Konfederácia
+- konfederācija
+- Konföderation
+- konföderatsioon
+- konföderáció
+- konføderasjon
+- konføderation
+- Kunfederuro
+- Staatebund
+- Staatenbund
+- valdialett
+- valtioliitto
+- vuârnnlett
+- vállelihttu
+- zwjazk statow
+- συνομοσπονδία
+- канфедэрацыя
+- канфэдэрацыя
+- конфедерація
+- конфедераци
+- конфедерација
+- конфедерация
+- конфедеросиюн
+- համադաշնություն
+- קונפדרציה
+- اتحاد
+- كنفدرالية
+- کانفدراسيون
+- کنفدراسیون
+- کونفدارسیون
+- کونفيدراسي
+- کۆنفیدراڵی
+- परिसंघ
+- মিত্রসংঘ
+- ਮਹਾਂਸੰਘ
+- สมาพันธรัฐ
+- ကွန်ဖက်ဒရေးရှင်း
+- კონფედერაცია
+- ᱠᱚᱱᱯᱷᱮᱰᱟᱨᱮᱥᱚᱱ
+- 国家連合
+- 邦联制
+- 邦聯
+- 邦聯制
+- 국가 연합
 has_id_wikidata: Q170156
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]'
-  - '[[_Standards/WikiData/WD~European_Union,458]]'
-  - '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Confederate_States_of_America,81931]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~international_organization,484652]]'
-  - '[[_Standards/WikiData/WD~federal_system,22676603]]'
+- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~federal_system,22676603]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 part_of: '[[_Standards/WikiData/WD~international_law,4394526]]'
 different_from: '[[_Standards/WikiData/WD~federation,43702]]'
 Commons_category: Confederations
+dv_has_:
+  name_:
+    af: konfederasie
+    ar: كنفدرالية
+    ast: Confederación
+    az: konfederasiya
+    azb: کونفدارسیون
+    ba: конфедерация
+    be: канфедэрацыя
+    be-tarask: канфэдэрацыя
+    bg: Конфедерация
+    bn: মিত্রসংঘ
+    br: Kengevread
+    bs: konfederacija
+    ca: confederació
+    ckb: کۆنفیدراڵی
+    cs: konfederace
+    cy: conffederasiwn
+    da: konføderation
+    de: Staatenbund
+    diq: Konfederasyon
+    el: συνομοσπονδία
+    en: confederation
+    en-gb: confederation
+    eo: konfederacio
+    es: confederación
+    et: konföderatsioon
+    eu: konfederazio
+    fa: کنفدراسیون
+    fi: valtioliitto
+    fr: confédération
+    ga: cónaidhm
+    gl: confederación
+    gsw: Staatebund
+    gv: cochiangle
+    he: קונפדרציה
+    hi: परिसंघ
+    hr: konfederacija
+    hsb: zwjazk statow
+    hu: konföderáció
+    hy: համադաշնություն
+    ia: confederation
+    id: Konfederasi
+    io: Kunfederuro
+    it: confederazione di Stati
+    ja: 国家連合
+    ka: კონფედერაცია
+    kaa: Konfederaciya
+    kk: Конфедерация
+    ko: 국가 연합
+    ku: konfederasyon
+    ku-latn: konfederasyon
+    ky: Конфедерация
+    la: confoederatio
+    lmo: Confederazion
+    lt: konfederacija
+    lv: konfederācija
+    min: Konfederasi
+    mk: конфедерација
+    ms: konfederasi
+    ms-arab: کونفيدراسي
+    my: ကွန်ဖက်ဒရေးရှင်း
+    nb: konføderasjon
+    nl: confederatie
+    nn: konføderasjon
+    oc: confederacion
+    os: конфедераци
+    pa: ਮਹਾਂਸੰਘ
+    pl: konfederacja państw
+    ps: کانفدراسيون
+    pt: confederação
+    ro: confederație
+    ru: конфедерация
+    rue: конфедерация
+    sat: ᱠᱚᱱᱯᱷᱮᱰᱟᱨᱮᱥᱚᱱ
+    sco: confederation
+    se: vállelihttu
+    sh: Konfederacija
+    sk: Konfederácia
+    sl: konfederacija
+    smn: vuârnnlett
+    sms: valdialett
+    sn: Gumbarubiyana
+    sq: Konfederata
+    sr: конфедерација
+    sr-ec: конфедерација
+    sr-el: konfederacija
+    sv: konfederation
+    tg: конфедеросиюн
+    th: สมาพันธรัฐ
+    tk: Konfederasiýa
+    tr: Konfederasyon
+    uk: конфедерація
+    ur: اتحاد
+    uz: Konfederatsiya
+    vec: confederasion
+    vi: bang liên
+    wuu: 邦联制
+    yue: 邦聯
+    zh: 邦联制
+    zh-cn: 邦联制
+    zh-hans: 邦联制
+    zh-hant: 邦聯制
+    zh-hk: 邦聯制
+    zh-sg: 邦联制
+    zh-tw: 邦聯制
 ---
-
 # [[Confederation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Confederation,170156|WD~Confederation,170156]] 

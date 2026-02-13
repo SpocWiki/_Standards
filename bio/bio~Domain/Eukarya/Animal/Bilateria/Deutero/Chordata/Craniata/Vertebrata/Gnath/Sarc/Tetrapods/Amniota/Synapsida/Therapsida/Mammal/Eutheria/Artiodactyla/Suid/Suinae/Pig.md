@@ -1,96 +1,159 @@
 ---
 aliases:
-  - Sus
-  - pigs
-  - pig
-  - Pig
-  - Schwein
-  - prase
-  - Babi
-  - Porc
-  - Svin
-  - Pr3ko
-  - গাহৰি
-  - Gochu
-  - Свиня
-  - ཕག་པ།
-  - Pomoc'h
-  - porc
-  - Mochyn
-  - Γουρούνι
-  - Υς
-  - Χοίρος
-  - Porko
-  - Cerdo
-  - Siat
-  - Swin
-  - Muc
-  - 멧돼지속
-  - Gris
-  - Swien
-  - Varken
-  - Bisóodi
-  - Pòrc
-  - Porco
-  - свиња
-  - Yaban domuzu
-  - Mas-cio
-  - Heo
-  - 猪
+- Babi
+- babi (genus)
+- baktín
+- bawi
+- Bisóodi
+- boyak
+- Cerdo
+- chi lợn
+- chû-su̍k
+- céléng
+- cūkas
+- domuz
+- donuz
+- Doňuz
+- echte swinen
+- echte zwijnen
+- Fafoy
+- Gochu
+- Gris
+- Heo
+- ihagu
+- ikomo
+- ilef
+- kiwma
+- Koachichi
+- kolobe
+- kuruchu
+- Mas-cio
+- Mochyn
+- Muc
+- nguruwe
+- orig
+- pig
+- pigs
+- Pomoc'h
+- Porc
+- Porco
+- Porko
+- Pr3ko
+- prase
+- puerkos
+- Pòrc
+- Schwein
+- Siat
+- siga
+- sos
+- suo
+- Sus
+- Svin
+- svinja
+- svín
+- Swien
+- Swin
+- swinjo
+- ti-sio̍k
+- Varken
+- wafibol (sus)
+- Yaban domuzu
+- éškôseeséhotame
+- świnia
+- Šernai (gentis)
+- šernā
+- Γουρούνι
+- Υς
+- Χοίρος
+- дзікі
+- кабаны
+- каман
+- свиња
+- свине
+- Свиня
+- Сысна
+- хуытæ
+- חזיר
+- خنزير
+- خوک
+- دونوز
+- سوئر
+- چوشقا
+- दुकर
+- वराह
+- सुँगर
+- सूअर
+- গাহৰি
+- শূকর
+- பன்றி
+- ಹಂದಿ
+- പന്നി
+- ཕག་པ།
+- ღორი
+- ᏏᏆ
+- ᱥᱩᱠᱨᱤ
+- イノシシ属
+- 猪
+- 猪属
+- 豕
+- 豬
+- 豬屬
+- ꯑꯣꯛ
+- 멧돼지속
 has_id_wikidata: Q10798
 title: Sus
 different_from:
-  - '[[_Standards/WikiData/WD~Sus,858848]]'
-  - '[[_Standards/WikiData/WD~Sus,4792031]]'
-  - '[[_Standards/WikiData/WD~Sus,7647444]]'
-  - '[[_Standards/WikiData/WD~Sus,12004076]]'
-  - '[[_Standards/WikiData/WD~Sus,37003135]]'
-  - '[[_Standards/WikiData/WD~sus,111512764]]'
+- '[[_Standards/WikiData/WD~Sus,858848]]'
+- '[[_Standards/WikiData/WD~Sus,4792031]]'
+- '[[_Standards/WikiData/WD~Sus,7647444]]'
+- '[[_Standards/WikiData/WD~Sus,12004076]]'
+- '[[_Standards/WikiData/WD~Sus,37003135]]'
+- '[[_Standards/WikiData/WD~sus,111512764]]'
 parent_taxon: '[[_Standards/WikiData/WD~Suini,15618436]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 has_part_s_: '[[_Standards/WikiData/WD~penis,58]]'
 taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 ITIS_TSN: 180721
 taxon_common_name:
-  - Schwein
-  - prase
-  - pig
-  - Babi
-  - Porc
-  - Svin
-  - Svin
-  - Pr3ko
-  - গাহৰি
-  - Gochu
-  - Свиня
-  - ཕག་པ།
-  - Pomoc'h
-  - porc
-  - Mochyn
-  - Γουρούνι
-  - Υς
-  - Χοίρος
-  - Porko
-  - Cerdo
-  - Siat
-  - Swin
-  - Muc
-  - Babi
-  - Porko
-  - 멧돼지속
-  - Gris
-  - Swien
-  - Varken
-  - Bisóodi
-  - Pòrc
-  - Porco
-  - Gris
-  - свиња
-  - Yaban domuzu
-  - Mas-cio
-  - Porco
-  - Heo
-  - 猪
+- Schwein
+- prase
+- pig
+- Babi
+- Porc
+- Svin
+- Svin
+- Pr3ko
+- গাহৰি
+- Gochu
+- Свиня
+- ཕག་པ།
+- Pomoc'h
+- porc
+- Mochyn
+- Γουρούνι
+- Υς
+- Χοίρος
+- Porko
+- Cerdo
+- Siat
+- Swin
+- Muc
+- Babi
+- Porko
+- 멧돼지속
+- Gris
+- Swien
+- Varken
+- Bisóodi
+- Pòrc
+- Porco
+- Gris
+- свиња
+- Yaban domuzu
+- Mas-cio
+- Porco
+- Heo
+- 猪
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zwijntje.JPG
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20pig%202.ogg
 taxon_author_citation: Linnaeus, 1758
@@ -99,8 +162,132 @@ NBN_System_Key: NHMSYS0000377289
 Commons_category: Sus
 taxon_name: Sus
 IPA_transcription: sʌs
+dv_has_:
+  name_:
+    ami: Fafoy
+    an: Sus
+    ar: خنزير
+    arz: خنزير
+    ast: sos
+    avk: wafibol (sus)
+    az: donuz
+    azb: دونوز
+    ban: céléng
+    bcl: orig
+    be: дзікі
+    be-tarask: дзікі
+    bg: свине
+    bi: Sus
+    bn: শূকর
+    br: Sus
+    ca: Sus
+    ceb: Sus
+    chr: ᏏᏆ
+    chy: éškôseeséhotame
+    cs: prase
+    cv: Сысна
+    cy: mochyn
+    da: svin
+    dag: kuruchu
+    de: Schwein
+    el: Sus
+    en: Sus
+    en-ca: Sus
+    en-gb: Sus
+    eo: suo
+    es: Sus
+    et: siga
+    eu: Sus
+    ext: Sus
+    fa: خوک
+    fi: siat
+    fr: Sus
+    frr: swin
+    fy: echte swinen
+    ga: Sus
+    gan: 豬
+    gl: Sus
+    glk: خوک
+    gom: दुकर
+    hak: chû-su̍k
+    he: חזיר
+    hi: सूअर
+    hr: svinja
+    hsb: swinjo
+    hu: Sus
+    ia: Sus
+    id: babi
+    ie: Sus
+    io: Sus
+    is: svín
+    it: Sus
+    ja: イノシシ属
+    ka: ღორი
+    kab: ilef
+    kn: ಹಂದಿ
+    ko: 멧돼지속
+    ksh: Schwein
+    ky: каман
+    la: Sus
+    lad: puerkos
+    lfn: porco
+    lt: Šernai (gentis)
+    lv: cūkas
+    lzh: 豕
+    mk: свиња
+    ml: പന്നി
+    mni: ꯑꯣꯛ
+    mr: वराह
+    ms: babi (genus)
+    mul: Sus
+    na: ikomo
+    nah: Koachichi
+    nan: ti-sio̍k
+    nb: svin
+    ne: सुँगर
+    nia: bawi
+    nl: echte zwijnen
+    nso: kolobe
+    oc: Sus
+    os: хуытæ
+    pl: świnia
+    pt: Sus
+    pt-br: Sus
+    ro: Sus
+    ru: кабаны
+    sat: ᱥᱩᱠᱨᱤ
+    scn: Sus
+    sco: Sus
+    sd: سوئر
+    sgs: šernā
+    sh: svinja
+    sk: Sus
+    sl: Sus
+    sq: Sus
+    sr: свиња
+    sr-ec: свиња
+    sv: svin
+    sw: nguruwe
+    szy: kiwma
+    ta: பன்றி
+    tk: Doňuz
+    tr: domuz
+    trv: boyak
+    ug: چوشقا
+    uk: свиня
+    vi: chi lợn
+    vls: Sus
+    vo: Sus
+    war: baktín
+    wuu: 猪属
+    xh: ihagu
+    yue: 豬屬
+    zh: 猪属
+    zh-cn: 猪属
+    zh-hans: 猪属
+    zh-hant: 豬屬
+    zh-tw: 豬屬
 ---
-
 # [[Pig]] 
 
 ## Eurasian pigs 

@@ -1,10 +1,30 @@
 ---
 aliases:
-  - Freak on a Leash
-  - Korn~Freak_on_a_Leash
-  - Korn~Freak on a Leash
+- Freak on a Leash
+- Korn~Freak_on_a_Leash
+- Korn~Freak on a Leash
+has_id_wikidata: Q1083323
+dv_has_:
+  name_:
+    ast: Freak on a Leash
+    de: Freak on a Leash
+    en: Freak on a Leash
+    es: Freak on a Leash
+    fi: Freak on a Leash
+    fr: Freak on a Leash
+    ga: Freak on a Leash
+    hr: Freak on a Leash
+    hu: Freak on a Leash
+    it: Freak on a Leash
+    nl: Freak on a Leash
+    pl: Freak on a Leash
+    pt: Freak on a Leash
+    ru: Freak on a Leash
+    sh: Freak on a Leash
+    sl: Freak on a Leash
+    tr: Freak on a Leash
+    uk: Freak on a Leash
 ---
-
 #has_/time_/started :: 1999-02-25 
 
 ## #has_/text_of_/abstract 

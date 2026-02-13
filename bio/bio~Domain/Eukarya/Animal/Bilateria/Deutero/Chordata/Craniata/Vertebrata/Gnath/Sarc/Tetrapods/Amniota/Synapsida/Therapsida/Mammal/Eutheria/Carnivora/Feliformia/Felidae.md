@@ -1,27 +1,129 @@
 ---
 aliases:
-  - cat family
-  - Felidae
-  - kattefamilien
-  - kotowate
-  - mačke
+- Bahda Bisada
+- Bashurreyyii
+- bussáeallit
+- cat family
+- Catt
+- Famîleya pisîkan
+- Felidae
+- Felide
+- felides
+- felidi
+- Felido
+- Felinae
+- Felisedoj
+- felídeos
+- fèlids
+- félidos
+- félins
+- họ Mèo
+- Kaater
+- kaslased
+- katachtigen
+- Katachtign
+- Kateftigen
+- Katiniai
+- kattardýr
+- kattdjur
+- Katte
+- kattefamilien
+- Katten
+- Katzen
+- Kazen
+- Kazheged
+- Kaču saime
+- kaķu dzimta
+- Kažinvuiččed
+- Kedi
+- Kedigiller
+- kissaeläimet
+- kissáelleeh
+- kotowate
+- kočkovití
+- krapoleem
+- kytyjnə
+- Kócki
+- Kóčki
+- macskafélék
+- mačke
+- Mačkovité
+- Mbarakajarundi
+- Meu-khô
+- Mushuksimonlar
+- Mīmiztin
+- Niau-kho
+- Náshdóí Ndahalinígíí
+- Pişiklər
+- Poeso
+- Pıshıq tárizliler
+- Tchetidîs
+- Tiserɣuda
+- Αιλουρίδες
+- Гæдыхуызтæ
+- Гурбашаклҳо
+- Джэдухэр
+- Кань котыр
+- каціныя
+- Коти йишвлӓ
+- коткови
+- котові
+- кошачьи
+- Куоскатыҥылар кэргэннэрэ
+- Кушак йышшисем
+- Мачки
+- Мийнхэн
+- Мысықтәрізділер
+- Мышык сымалдар
+- мәчелеләр
+- пырыс-влак
+- Циска
+- Чэтыу
+- կատվազգիներ
+- חתוליים
+- פעלידאע
+- السنوريات
+- بلی ٹبر
+- خاندان گربہ
+- د پیشوګانو کورنۍ
+- سنوريات
+- فيليڊائي
+- مۈشۈك ئائىلىسى
+- پشیلەکان
+- پیشیکلر
+- گربهایان
+- फ़ेलिडाए
+- मार्जार कुळ
+- মার্জার
+- பூனைக் குடும்பம்
+- ఫెలిడే
+- മാർജ്ജാര വംശം
+- วงศ์เสือและแมว
+- ကြောင်မျိုးရင်း
+- კატისებრნი
+- კატუშობურეფი
+- የድመት አስተኔ
+- ネコ科
+- 猫科
+- 貓科
+- 고양이과
 has_id_wikidata: Q25265
 taxon_common_name:
-  - kattefamilien
-  - kotowate
-  - mačke
+- kattefamilien
+- kotowate
+- mačke
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 produced_sound: '[[_Standards/WikiData/WD~purr,662750]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cats,8207375]]'
 parent_taxon: '[[_Standards/WikiData/WD~Feloidea,10281053]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Q10598109,10598109]]'
-  - '[[_Standards/WikiData/WD~Template_Felidae_nav,14444734]]'
+- '[[_Standards/WikiData/WD~Q10598109,10598109]]'
+- '[[_Standards/WikiData/WD~Template_Felidae_nav,14444734]]'
 different_from: '[[_Standards/WikiData/WD~mythological_feline,54485824]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -29,8 +131,8 @@ taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 4304
 ITIS_TSN: 180580
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20tigris%20tigris%20edited2.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tiger-zoologie.de0001%2022.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20tigris%20tigris%20edited2.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tiger-zoologie.de0001%2022.JPG
 start_time: -25000000-06
 Commons_category: Felidae
 taxon_name: Felidae
@@ -42,11 +144,163 @@ EPPO_Code: 1FELIF
 MeSH_tree_code: B01.050.150.900.649.313.750.377.750
 Krugosvet_article: biologiya/koshachi
 UMLS_CUI:
-  - C0325089
-  - C0325114
+- C0325089
+- C0325114
 NBN_System_Key: NHMSYS0000376167
+dv_has_:
+  name_:
+    ady: Чэтыу
+    af: Felidae
+    am: የድመት አስተኔ
+    an: Felidae
+    ang: Catt
+    ar: سنوريات
+    ary: سنوريات
+    arz: السنوريات
+    ast: Felidae
+    avk: krapoleem
+    az: Pişiklər
+    azb: پیشیکلر
+    ban: Felidae
+    be: каціныя
+    be-tarask: каціныя
+    bg: коткови
+    bn: মার্জার
+    br: Kazheged
+    bs: Mačke
+    ca: fèlids
+    ceb: Felidae
+    chr: Felidae
+    chy: Poeso
+    ckb: پشیلەکان
+    co: Felidae
+    cs: kočkovití
+    cv: Кушак йышшисем
+    da: Kattefamilien
+    de: Katzen
+    dsb: Kócki
+    el: Αιλουρίδες
+    en: Felidae
+    eo: Felisedoj
+    es: Felidae
+    et: kaslased
+    eu: Felidae
+    ext: Felidae
+    fa: گربهایان
+    fi: kissaeläimet
+    fr: félins
+    frr: Kaater
+    fy: Kateftigen
+    ga: Felidae
+    gag: Kedi
+    gd: Felidae
+    gl: félidos
+    gn: Mbarakajarundi
+    hak: Meu-khô
+    haw: Felidae
+    he: חתוליים
+    hi: फ़ेलिडाए
+    hr: mačke
+    hsb: Kóčki
+    hu: macskafélék
+    hy: կատվազգիներ
+    ia: felides
+    id: Felidae
+    ie: Felidae
+    inh: Циска
+    io: Felidae
+    is: kattardýr
+    it: felidi
+    ja: ネコ科
+    jv: Felidae
+    ka: კატისებრნი
+    kaa: Pıshıq tárizliler
+    kab: Tiserɣuda
+    kbd: Джэдухэр
+    kk: Мысықтәрізділер
+    ko: 고양이과
+    koi: Кань котыр
+    ku: Famîleya pisîkan
+    ky: Мышык сымалдар
+    la: Felidae
+    lb: Kazen
+    lfn: Felido
+    li: Katte
+    lij: Felidae
+    lmo: Felidae
+    lt: Katiniai
+    ltg: Kaču saime
+    lv: kaķu dzimta
+    mhr: пырыс-влак
+    mk: Мачки
+    ml: മാർജ്ജാര വംശം
+    mn: Мийнхэн
+    mr: मार्जार कुळ
+    mrj: Коти йишвлӓ
+    ms: Felidae
+    mul: Felidae
+    my: ကြောင်မျိုးရင်း
+    nah: Mīmiztin
+    nan: Niau-kho
+    nb: kattefamilien
+    nds: Katten
+    nl: katachtigen
+    nn: kattefamilien
+    nv: Náshdóí Ndahalinígíí
+    oc: Felidae
+    om: Bashurreyyii
+    os: Гæдыхуызтæ
+    pl: kotowate
+    pnb: بلی ٹبر
+    ps: د پیشوګانو کورنۍ
+    pt: felídeos
+    pt-br: felídeos
+    ro: Felide
+    ru: кошачьи
+    sah: Куоскатыҥылар кэргэннэрэ
+    scn: Felidae
+    sco: Felidae
+    sd: فيليڊائي
+    se: bussáeallit
+    sh: Mačke
+    sk: Mačkovité
+    sl: mačke
+    smn: kissáelleeh
+    so: Bahda Bisada
+    sq: Felinae
+    sr: Felidae
+    su: Felidae
+    sv: kattdjur
+    ta: பூனைக் குடும்பம்
+    te: ఫెలిడే
+    tg: Гурбашаклҳо
+    th: วงศ์เสือและแมว
+    tl: Felidae
+    tly: kytyjnə
+    tr: Kedigiller
+    tt: мәчелеләр
+    tt-cyrl: мәчелеләр
+    ug: مۈشۈك ئائىلىسى
+    uk: котові
+    ur: خاندان گربہ
+    uz: Mushuksimonlar
+    vep: Kažinvuiččed
+    vi: họ Mèo
+    vls: Katachtign
+    vo: Felidae
+    wa: Tchetidîs
+    war: Felidae
+    wuu: 猫科
+    xmf: კატუშობურეფი
+    yi: פעלידאע
+    yue: 貓科
+    zh: 猫科
+    zh-cn: 猫科
+    zh-hans: 猫科
+    zh-hant: 貓科
+    zh-tw: 貓科
+    zu: Felidae
 ---
-
 # [[Felidae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Felidae,25265|WD~Felidae,25265]] 

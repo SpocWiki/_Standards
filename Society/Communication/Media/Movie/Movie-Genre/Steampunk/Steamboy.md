@@ -1,4 +1,48 @@
-
+---
+has_id_wikidata: Q1315185
+dv_has_:
+  name_:
+    ca: Steamboy
+    cs: Steamboy
+    cy: Steamboy
+    da: Steamboy
+    de: Steamboy
+    en: Steamboy
+    es: Steamboy
+    fa: پسر بخار
+    fi: Steamboy
+    fr: Steamboy
+    gl: Steamboy
+    he: סטימבוי
+    hu: Gőzfiú
+    it: Steamboy
+    ja: スチームボーイ
+    ko: 스팀보이
+    ms: Filem Steamboy
+    nl: Steamboy
+    pl: Steamboy
+    pt: Steamboy
+    ru: Стимбой
+    sv: Steamboy
+    tr: SteamBoy
+    uk: Стімбой
+    vi: Steamboy
+    zh: 蒸汽男孩
+    zh-hans: 蒸汽男孩
+    zh-hant: 蒸汽男孩
+    zh-hk: 蒸汽男孩
+aliases:
+- Filem Steamboy
+- Gőzfiú
+- Steamboy
+- Стімбой
+- Стимбой
+- סטימבוי
+- پسر بخار
+- スチームボーイ
+- 蒸汽男孩
+- 스팀보이
+---
 ## #has_/text_of_/abstract 
 
 > **Steamboy** (Japanese: スチームボーイ, Hepburn: Suchīmubōi) 

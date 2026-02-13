@@ -1,23 +1,167 @@
 ---
 aliases:
-  - Supraflüssigkeit
-  - Superfluidity
+- asqın aqqıştıq
+- forshreabhacht
+- ifrat axıcılıq
+- kebendaliran lampau
+- nadciekłość
+- siêu lỏng
+- superfluid
+- superfluida
+- superfluide
+- superfluideco
+- superfluidez
+- superfluidi
+- superfluiditate
+- superfluiditet
+- Superfluidity
+- superfluidità
+- superfluido
+- superfluidum
+- superfluïditeit
+- Superrrjedhshmëria
+- supertekočnost
+- supirfluidu
+- suprafluia
+- suprafluiditet
+- Suprafluidität
+- Supraflüssigkeit
+- supraneste
+- supratekutost
+- supratekutá látka
+- supratekućina
+- szuperfolyékonyság
+- süperakışkanlık
+- süperflüit
+- ülivoolavus
+- асқын аққыштық
+- звышплыннасьць
+- звышцякучасць
+- надплинність
+- сверхтекучесть
+- свръхфлуидност
+- Супер шингэн
+- супертечност
+- суперфлуиди
+- суперьюхăм
+- Գերհոսունություն
+- נוזל-על
+- ابرشارگی
+- اسقىن اققىشتىق
+- شلگازی باڵا
+- ميوعة فائقة
+- अति तरलता
+- अती तरलता
+- অতিতারল্য
+- மீப்பாய்மத்தன்மை
+- ಸೂಪರ್ ಫ್ಲೂಯಿಡಿಟಿ
+- അതിദ്രാവകം
+- ของไหลยวดยิ่ง
+- 超流体
+- 超流動
+- 超流體
+- 초유체
 has_id_wikidata: Q106667
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
-  - '[[_Standards/WikiData/WD~John_F._Allen,4062575]]'
+- '[[_Standards/WikiData/WD~Pyotr_Kapitsa,172844]]'
+- '[[_Standards/WikiData/WD~John_F._Allen,4062575]]'
 different_from: '[[_Standards/WikiData/WD~supercritical_fluid,682585]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
-  - '[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]'
+- '[[_Standards/WikiData/WD~macroscopic_quantum_phenomena,3457198]]'
+- '[[_Standards/WikiData/WD~non_classical_state_of_matter,15831577]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Helium-II-creep.svg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20Helium%20II%20-%20The%20Superfluid.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liquid%20helium%20Rollin%20film.jpg
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/SVERHTEKUCHEST.html
 Commons_category: Superfluidity
+dv_has_:
+  name_:
+    ar: ميوعة فائقة
+    ast: superfluidez
+    az: ifrat axıcılıq
+    be: звышцякучасць
+    be-tarask: звышплыннасьць
+    bg: свръхфлуидност
+    bho: अती तरलता
+    bn: অতিতারল্য
+    bs: superfluid
+    ca: superfluid
+    ckb: شلگازی باڵا
+    cs: supratekutost
+    cv: суперьюхăм
+    da: superfluiditet
+    de: Suprafluidität
+    en: superfluidity
+    en-ca: superfluidity
+    en-gb: superfluidity
+    eo: superfluideco
+    es: superfluidez
+    et: ülivoolavus
+    eu: superfluido
+    fa: ابرشارگی
+    fi: supraneste
+    fr: superfluide
+    ga: forshreabhacht
+    gl: superfluidez
+    he: נוזל-על
+    hi: अति तरलता
+    hr: supratekućina
+    hu: szuperfolyékonyság
+    hy: Գերհոսունություն
+    ia: superfluiditate
+    id: superfluida
+    it: superfluidità
+    ja: 超流動
+    kk: асқын аққыштық
+    kk-arab: اسقىن اققىشتىق
+    kk-cn: اسقىن اققىشتىق
+    kk-cyrl: асқын аққыштық
+    kk-kz: асқын аққыштық
+    kk-latn: asqın aqqıştıq
+    kk-tr: asqın aqqıştıq
+    kn: ಸೂಪರ್ ಫ್ಲೂಯಿಡಿಟಿ
+    ko: 초유체
+    la: superfluidum
+    lfn: suprafluia
+    lmo: süperflüit
+    mk: супертечност
+    ml: അതിദ്രാവകം
+    mn: Супер шингэн
+    ms: kebendaliran lampau
+    nb: superfluiditet
+    nds: Suprafluidität
+    nl: superfluïditeit
+    nn: superfluiditet
+    pl: nadciekłość
+    pt: superfluidez
+    pt-br: superfluidez
+    ro: superfluid
+    ru: сверхтекучесть
+    scn: supirfluidu
+    sh: superfluid
+    sk: supratekutá látka
+    sl: supertekočnost
+    sq: Superrrjedhshmëria
+    sr: суперфлуиди
+    sr-ec: суперфлуиди
+    sr-el: superfluidi
+    sv: suprafluiditet
+    ta: மீப்பாய்மத்தன்மை
+    th: ของไหลยวดยิ่ง
+    tr: süperakışkanlık
+    uk: надплинність
+    vi: siêu lỏng
+    wuu: 超流体
+    yue: 超流體
+    zh: 超流体
+    zh-cn: 超流体
+    zh-hans: 超流体
+    zh-hant: 超流體
+    zh-hk: 超流體
+    zh-sg: 超流体
+    zh-tw: 超流體
 ---
-
 # [[Superfluidity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Superfluidity,106667|WD~Superfluidity,106667]]  

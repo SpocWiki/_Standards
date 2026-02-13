@@ -1,62 +1,89 @@
 ---
 aliases:
-  - Gotthold_Ephraim_Lessing
-  - Lessing,Gotthold_Ephraim
-  - Lessing,Gotthold Ephraim
+- Gotholds Efraims Lesings
+- Gotthold Ephraim Lessing
+- Gotthold_Ephraim_Lessing
+- Lessing Gotxold Efraim
+- Lessing,Gotthold Ephraim
+- Lessing,Gotthold_Ephraim
+- Qothold Efraim Lessinq
+- Γκότχολντ Εφραίμ Λέσσινγκ
+- Готгальд Эфраім Лесінг
+- Готгольд Ефраїм Лессінг
+- Готхальд Эфраім Лесінг
+- Готхолд Ефрајм Лесинг
+- Готхолд Ефраим Лесинг
+- Готхольд Эфраим Лессинг
+- Лессинг, Готтһольд Ефраим
+- Գոտհոլդ Լեսսինգ
+- גוטהולד אפרים לסינג
+- إفرايم ليسينغ
+- افرايم ليسينج
+- قوتهولد افرایم لسینق
+- گوتهولد افرایم لسینگ
+- গথোল্ড এফ্রাইম লেসিং
+- ਗੌਟਹੋਲਡ ਲੈਸਿੰਗ
+- கோட்டல்ட் எஃப்ராய்மி லெஸ்சிங்
+- გოტჰოლდ ეფრაიმ ლესინგი
+- ゴットホルト・エフライム・レッシング
+- 戈特霍尔德·埃夫莱姆·莱辛
+- 戈特霍尔德·埃弗拉伊姆·莱辛
+- 萊辛
+- 고트홀트 에프라임 레싱
 has_id_wikidata: Q34628
 place_of_birth: '[[_Standards/WikiData/WD~Kamenz,81722]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
-  - '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
+- '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+- '[[_Standards/WikiData/WD~Martin_Luther_University_Halle_Wittenberg,32120]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Electorate_of_Saxony,156199]]'
 convicted_of: '[[_Standards/WikiData/WD~heresy,160598]]'
 occupation:
-  - '[[_Standards/WikiData/WD~librarian,182436]]'
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~dramaturge,487596]]'
-  - '[[_Standards/WikiData/WD~lyricist,822146]]'
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~art_historian,1792450]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~critic,6430706]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~librarian,182436]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~dramaturge,487596]]'
+- '[[_Standards/WikiData/WD~lyricist,822146]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~art_historian,1792450]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~critic,6430706]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 field_of_work: '[[_Standards/WikiData/WD~performing_arts,184485]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Nathan_the_Wise,286611]]'
-  - '[[_Standards/WikiData/WD~Emilia_Galotti,782653]]'
-  - '[[_Standards/WikiData/WD~Miss_Sara_Sampson,1713147]]'
-  - '[[_Standards/WikiData/WD~Laocoön,_an_essay_on_the_limits_of_painting_and_poetry,1805712]]'
+- '[[_Standards/WikiData/WD~Nathan_the_Wise,286611]]'
+- '[[_Standards/WikiData/WD~Emilia_Galotti,782653]]'
+- '[[_Standards/WikiData/WD~Miss_Sara_Sampson,1713147]]'
+- '[[_Standards/WikiData/WD~Laocoön,_an_essay_on_the_limits_of_painting_and_poetry,1805712]]'
 member_of: '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 spouse: '[[_Standards/WikiData/WD~Eva_König,1379287]]'
 father: '[[_Standards/WikiData/WD~Johann_Gottfried_Lessing,1694126]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Karl_Gotthelf_Lessing,1731277]]'
-  - '[[_Standards/WikiData/WD~Johann_Gottlieb_Lessing,55123140]]'
-  - '[[_Standards/WikiData/WD~Gottlob_Samuel_Lessing,55854807]]'
+- '[[_Standards/WikiData/WD~Karl_Gotthelf_Lessing,1731277]]'
+- '[[_Standards/WikiData/WD~Johann_Gottlieb_Lessing,55123140]]'
+- '[[_Standards/WikiData/WD~Gottlob_Samuel_Lessing,55854807]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Ephraim,16275698]]'
-  - '[[_Standards/WikiData/WD~Gotthold,20088009]]'
+- '[[_Standards/WikiData/WD~Ephraim,16275698]]'
+- '[[_Standards/WikiData/WD~Gotthold,20088009]]'
 genre: '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
 family_name: '[[_Standards/WikiData/WD~Lessing,21504681]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
@@ -64,10 +91,10 @@ copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_hav
 work_period_start_: 1749-01-01T00:00:00Z
 date_of_birth: 1729-01-22T00:00:00Z
 work_location:
-  - '[[_Standards/WikiData/WD~Hamburg,1055]]'
-  - '[[_Standards/WikiData/WD~Leipzig,2079]]'
-  - '[[_Standards/WikiData/WD~Wolfenbüttel,4122]]'
-  - '[[_Standards/WikiData/WD~Lutherstadt_Wittenberg,6837]]'
+- '[[_Standards/WikiData/WD~Hamburg,1055]]'
+- '[[_Standards/WikiData/WD~Leipzig,2079]]'
+- '[[_Standards/WikiData/WD~Wolfenbüttel,4122]]'
+- '[[_Standards/WikiData/WD~Lutherstadt_Wittenberg,6837]]'
 place_of_death: '[[_Standards/WikiData/WD~Brunswick,2773]]'
 place_of_burial: '[[_Standards/WikiData/WD~Brunswick,2773]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
@@ -92,8 +119,92 @@ name_in_native_language: Gotthold Ephraim Lessing
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gedenktafel%20Lessing%20Kamenz.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Lessing%20Unterschrift.svg
 ISNI: 0000000122762514
+dv_has_:
+  name_:
+    an: Gotthold Ephraim Lessing
+    ar: إفرايم ليسينغ
+    arz: افرايم ليسينج
+    ast: Gotthold Ephraim Lessing
+    az: Qothold Efraim Lessinq
+    azb: قوتهولد افرایم لسینق
+    be: Готхальд Эфраім Лесінг
+    be-tarask: Готгальд Эфраім Лесінг
+    bg: Готхолд Ефраим Лесинг
+    bn: গথোল্ড এফ্রাইম লেসিং
+    bs: Gotthold Ephraim Lessing
+    ca: Gotthold Ephraim Lessing
+    cs: Gotthold Ephraim Lessing
+    cy: Gotthold Ephraim Lessing
+    da: Gotthold Ephraim Lessing
+    de: Gotthold Ephraim Lessing
+    de-ch: Gotthold Ephraim Lessing
+    el: Γκότχολντ Εφραίμ Λέσσινγκ
+    en: Gotthold Ephraim Lessing
+    en-ca: Gotthold Ephraim Lessing
+    en-gb: Gotthold Ephraim Lessing
+    eo: Gotthold Ephraim Lessing
+    es: Gotthold Ephraim Lessing
+    et: Gotthold Ephraim Lessing
+    eu: Gotthold Ephraim Lessing
+    ext: Gotthold Ephraim Lessing
+    fa: گوتهولد افرایم لسینگ
+    fi: Gotthold Ephraim Lessing
+    fr: Gotthold Ephraim Lessing
+    fy: Gotthold Ephraim Lessing
+    ga: Gotthold Ephraim Lessing
+    gl: Gotthold Ephraim Lessing
+    gsw: Gotthold Ephraim Lessing
+    he: גוטהולד אפרים לסינג
+    hr: Gotthold Ephraim Lessing
+    hu: Gotthold Ephraim Lessing
+    hy: Գոտհոլդ Լեսսինգ
+    id: Gotthold Ephraim Lessing
+    ie: Gotthold Ephraim Lessing
+    io: Gotthold Ephraim Lessing
+    it: Gotthold Ephraim Lessing
+    ja: ゴットホルト・エフライム・レッシング
+    ka: გოტჰოლდ ეფრაიმ ლესინგი
+    kk: Лессинг, Готтһольд Ефраим
+    ko: 고트홀트 에프라임 레싱
+    la: Gotthold Ephraim Lessing
+    lb: Gotthold Ephraim Lessing
+    lt: Gotthold Ephraim Lessing
+    lv: Gotholds Efraims Lesings
+    mg: Gotthold Ephraim Lessing
+    mk: Готхолд Ефраим Лесинг
+    mul: Gotthold Ephraim Lessing
+    nb: Gotthold Ephraim Lessing
+    nds: Gotthold Ephraim Lessing
+    nl: Gotthold Ephraim Lessing
+    nn: Gotthold Ephraim Lessing
+    oc: Gotthold Ephraim Lessing
+    pa: ਗੌਟਹੋਲਡ ਲੈਸਿੰਗ
+    pl: Gotthold Ephraim Lessing
+    pt: Gotthold Ephraim Lessing
+    pt-br: Gotthold Ephraim Lessing
+    qu: Gotthold Ephraim Lessing
+    ro: Gotthold Ephraim Lessing
+    ru: Готхольд Эфраим Лессинг
+    sc: Gotthold Ephraim Lessing
+    sco: Gotthold Ephraim Lessing
+    sh: Gotthold Ephraim Lessing
+    sk: Gotthold Ephraim Lessing
+    sl: Gotthold Ephraim Lessing
+    sq: Gotthold Ephraim Lessing
+    sr: Готхолд Ефрајм Лесинг
+    sr-ec: Готхолд Ефрајм Лесинг
+    stq: Gotthold Ephraim Lessing
+    sv: Gotthold Ephraim Lessing
+    ta: கோட்டல்ட் எஃப்ராய்மி லெஸ்சிங்
+    tr: Gotthold Ephraim Lessing
+    uk: Готгольд Ефраїм Лессінг
+    uz: Lessing Gotxold Efraim
+    vi: Gotthold Ephraim Lessing
+    war: Gotthold Ephraim Lessing
+    wuu: 戈特霍尔德·埃弗拉伊姆·莱辛
+    yue: 萊辛
+    zh: 戈特霍尔德·埃夫莱姆·莱辛
 ---
-
 # [[Lessing,Gotthold_Ephraim]] 
 
 #is_/same_as :: [[WD~Gotthold_Ephraim_Lessing,34628]] 

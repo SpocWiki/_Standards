@@ -1,76 +1,222 @@
 ---
 aliases:
+- czerniak złośliwy
+- hidj krääft
+- malign melanom
+- Malignes Melanom
+- malignt melanom
+- meileanóma
+- melanom
+- melanom cutanat
+- melanoma
+- melanoma maligno
+- melanoma malignum
+- melanomo
+- melanoom
+- melanooma
+- melanóma
+- modermærkekræft
+- mélanoma
+- mélanome
+- o͘-sek-sò͘-liû
+- ung thư hắc tố
+- μελάνωμα
+- меланом
+- меланома
+- миланумы
+- мэлянома
+- մելանոմա
+- սեւայտուց
+- מלנומה
+- اسودینومہ
+- مئلانوما
+- ملانوما
+- ميلانوما
+- میلانۆما
+- مەلانوما
+- ورم ميلانيني
+- މެލިގްނަންޓް މެލަނޯމާ
+- मेलानोमा
+- मेलेनोमा
+- মেলান’মা
+- ਮੇੇੇੈਲਾਨੋਮਾ
+- ମେଲାନୋମା
+- கரும்புற்றுநோய்
+- మెలనోమా
+- เมลาโนมา
+- მელანომა
+- ᱢᱮᱞᱮᱱᱚᱢᱟ
+- 悪性黒色腫
+- 黑色素瘤
+- 흑색종
 has_id_wikidata: Q180614
 Commons_category: Melanoma
 Baidu_Tieba_name: 黑色素瘤
-health_specialty: "[[_Standards/WikiData/WD~oncology,162555]]"
+health_specialty: '[[_Standards/WikiData/WD~oncology,162555]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~dactinomycin,186127]]"
-  - "[[_Standards/WikiData/WD~hydroxycarbamide,212272]]"
-  - "[[_Standards/WikiData/WD~bevacizumab,413299]]"
-  - "[[_Standards/WikiData/WD~lomustine,415378]]"
-  - "[[_Standards/WikiData/WD~bleomycin,415571]]"
-  - "[[_Standards/WikiData/WD~dacarbazine,416975]]"
-  - "[[_Standards/WikiData/WD~procarbazine,418656]]"
-  - "[[_Standards/WikiData/WD~docetaxel,420436]]"
-  - "[[_Standards/WikiData/WD~vemurafenib,423111]]"
-  - "[[_Standards/WikiData/WD~paclitaxel,423762]]"
-  - "[[_Standards/WikiData/WD~temozolomide,425088]]"
-  - "[[_Standards/WikiData/WD~ipilimumab,2459042]]"
-  - "[[_Standards/WikiData/WD~dabrafenib,3011604]]"
-  - "[[_Standards/WikiData/WD~sargramostim,3950557]]"
-  - "[[_Standards/WikiData/WD~nivolumab,7041828]]"
-  - "[[_Standards/WikiData/WD~peginterferon_alfa_2b,7160789]]"
-  - "[[_Standards/WikiData/WD~trametinib,7833138]]"
-  - "[[_Standards/WikiData/WD~pembrolizumab,13896859]]"
-  - "[[_Standards/WikiData/WD~cobimetinib,15708292]]"
-  - "[[_Standards/WikiData/WD~aldesleukin,20801763]]"
+- '[[_Standards/WikiData/WD~dactinomycin,186127]]'
+- '[[_Standards/WikiData/WD~hydroxycarbamide,212272]]'
+- '[[_Standards/WikiData/WD~bevacizumab,413299]]'
+- '[[_Standards/WikiData/WD~lomustine,415378]]'
+- '[[_Standards/WikiData/WD~bleomycin,415571]]'
+- '[[_Standards/WikiData/WD~dacarbazine,416975]]'
+- '[[_Standards/WikiData/WD~procarbazine,418656]]'
+- '[[_Standards/WikiData/WD~docetaxel,420436]]'
+- '[[_Standards/WikiData/WD~vemurafenib,423111]]'
+- '[[_Standards/WikiData/WD~paclitaxel,423762]]'
+- '[[_Standards/WikiData/WD~temozolomide,425088]]'
+- '[[_Standards/WikiData/WD~ipilimumab,2459042]]'
+- '[[_Standards/WikiData/WD~dabrafenib,3011604]]'
+- '[[_Standards/WikiData/WD~sargramostim,3950557]]'
+- '[[_Standards/WikiData/WD~nivolumab,7041828]]'
+- '[[_Standards/WikiData/WD~peginterferon_alfa_2b,7160789]]'
+- '[[_Standards/WikiData/WD~trametinib,7833138]]'
+- '[[_Standards/WikiData/WD~pembrolizumab,13896859]]'
+- '[[_Standards/WikiData/WD~cobimetinib,15708292]]'
+- '[[_Standards/WikiData/WD~aldesleukin,20801763]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~skin_cancer,192102]]"
-  - "[[_Standards/WikiData/WD~cell_type_cancer,18553402]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+- '[[_Standards/WikiData/WD~skin_cancer,192102]]'
+- '[[_Standards/WikiData/WD~cell_type_cancer,18553402]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~rare_disease,929833]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- '[[_Standards/WikiData/WD~rare_disease,929833]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~CDKN2A,5009957]]"
-  - "[[_Standards/WikiData/WD~ATM,14872807]]"
-  - "[[_Standards/WikiData/WD~PTEN,14878377]]"
-  - "[[_Standards/WikiData/WD~FTO,14912501]]"
-  - "[[_Standards/WikiData/WD~PARP1,17710375]]"
-  - "[[_Standards/WikiData/WD~BRAF,17853226]]"
-  - "[[_Standards/WikiData/WD~DOCK3,17914050]]"
-  - "[[_Standards/WikiData/WD~MX2,18029688]]"
-  - "[[_Standards/WikiData/WD~NRAS,18030215]]"
-  - "[[_Standards/WikiData/WD~MAP2K1,18030793]]"
-  - "[[_Standards/WikiData/WD~PLA2G6,18032890]]"
-  - "[[_Standards/WikiData/WD~ANXA9,18032913]]"
-  - "[[_Standards/WikiData/WD~SLC45A2,18040047]]"
-  - "[[_Standards/WikiData/WD~TET2,18041257]]"
-  - "[[_Standards/WikiData/WD~EYS,18055650]]"
-  - "[[_Standards/WikiData/WD~monophenol_monooxygenase,85942926]]"
+- '[[_Standards/WikiData/WD~CDKN2A,5009957]]'
+- '[[_Standards/WikiData/WD~ATM,14872807]]'
+- '[[_Standards/WikiData/WD~PTEN,14878377]]'
+- '[[_Standards/WikiData/WD~FTO,14912501]]'
+- '[[_Standards/WikiData/WD~PARP1,17710375]]'
+- '[[_Standards/WikiData/WD~BRAF,17853226]]'
+- '[[_Standards/WikiData/WD~DOCK3,17914050]]'
+- '[[_Standards/WikiData/WD~MX2,18029688]]'
+- '[[_Standards/WikiData/WD~NRAS,18030215]]'
+- '[[_Standards/WikiData/WD~MAP2K1,18030793]]'
+- '[[_Standards/WikiData/WD~PLA2G6,18032890]]'
+- '[[_Standards/WikiData/WD~ANXA9,18032913]]'
+- '[[_Standards/WikiData/WD~SLC45A2,18040047]]'
+- '[[_Standards/WikiData/WD~TET2,18041257]]'
+- '[[_Standards/WikiData/WD~EYS,18055650]]'
+- '[[_Standards/WikiData/WD~monophenol_monooxygenase,85942926]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-DiseasesDB: "7947"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+DiseasesDB: 7947
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Melanoma.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Histopathology%20of%20Malignant%20melanoma.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Melanoma.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Histopathology%20of%20Malignant%20melanoma.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:1909
-  - http://purl.obolibrary.org/obo/DOID_1909
-  - http://purl.obolibrary.org/obo/HP_0002861
+- http://identifiers.org/doid/DOID:1909
+- http://purl.obolibrary.org/obo/DOID_1909
+- http://purl.obolibrary.org/obo/HP_0002861
 ICD_O: 8720/3
 UMLS_CUI: C0025202
 MeSH_tree_code:
-  - C04.557.465.625.650.510
-  - C04.557.580.625.650.510
-  - C04.557.665.510
-  - C04.588.805.377
-  - C17.800.882.445
+- C04.557.465.625.650.510
+- C04.557.580.625.650.510
+- C04.557.665.510
+- C04.588.805.377
+- C17.800.882.445
+dv_has_:
+  name_:
+    ar: ورم ميلانيني
+    as: মেলান’মা
+    ast: melanoma
+    az: melanoma
+    azb: مئلانوما
+    be: меланома
+    be-tarask: мэлянома
+    bg: меланома
+    br: melanom
+    bs: melanom
+    ca: melanoma
+    ckb: میلانۆما
+    cs: melanom
+    cy: melanoma
+    da: modermærkekræft
+    de: Malignes Melanom
+    dv: މެލިގްނަންޓް މެލަނޯމާ
+    el: μελάνωμα
+    en: melanoma
+    eo: melanomo
+    es: melanoma
+    et: melanoom
+    eu: melanoma
+    fa: ملانوما
+    fi: melanooma
+    fr: mélanome
+    frr: hidj krääft
+    ga: meileanóma
+    gl: melanoma maligno
+    gpe: melanoma
+    he: מלנומה
+    hi: मेलेनोमा
+    hr: melanom
+    hu: melanóma
+    hy: մելանոմա
+    hyw: սեւայտուց
+    id: melanoma
+    it: melanoma
+    ja: 悪性黒色腫
+    ka: მელანომა
+    kk: меланома
+    kk-arab: مەلانوما
+    kk-cn: مەلانوما
+    kk-cyrl: меланома
+    kk-kz: меланома
+    kk-latn: melanoma
+    kk-tr: melanoma
+    ko: 흑색종
+    ky: меланома
+    la: melanoma malignum
+    lb: Melanom
+    lt: melanoma
+    lv: melanoma
+    mai: मेलानोमा
+    mk: меланом
+    ms: melanoma
+    ms-arab: ميلانوما
+    nan: o͘-sek-sò͘-liû
+    nb: malignt melanom
+    new: मेलानोमा
+    nl: melanoom
+    nn: malignt melanom
+    or: ମେଲାନୋମା
+    pa: ਮੇੇੇੈਲਾਨੋਮਾ
+    pl: czerniak złośliwy
+    pt: melanoma
+    ro: melanom cutanat
+    ru: меланома
+    sat: ᱢᱮᱞᱮᱱᱚᱢᱟ
+    sd: ميلانوما
+    sh: melanom
+    sl: melanom
+    sr: меланом
+    sr-ec: меланом
+    sr-el: melanom
+    su: mélanoma
+    sv: malignt melanom
+    ta: கரும்புற்றுநோய்
+    te: మెలనోమా
+    th: เมลาโนมา
+    tr: malign melanom
+    tt: миланумы
+    tt-cyrl: меланома
+    uk: меланома
+    ur: اسودینومہ
+    uz: melanoma
+    vi: ung thư hắc tố
+    wuu: 黑色素瘤
+    yue: 黑色素瘤
+    zh: 黑色素瘤
+    zh-cn: 黑色素瘤
+    zh-hans: 黑色素瘤
+    zh-hant: 黑色素瘤
+    zh-hk: 黑色素瘤
+    zh-sg: 黑色素瘤
+    zh-tw: 黑色素瘤
 ---
-
 # [[Melanoma]] 
 
 #is_/same_as :: [[WD~Melanoma,180614]] 

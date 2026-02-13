@@ -1,25 +1,137 @@
 ---
 aliases:
-  - Eigenvectors
-  - Eigenvektoren
-  - Eigenvektor
-  - characteristic vector
-  - Eigenvector
+- Autobalioak eta autobektoreak
+- autovalores e autovetores
+- autovettore e autovalore
+- Autovlerat dhe autovektorët
+- characteristic vector
+- egenverdiligning
+- egenvärde, egenvektor och egenrum
+- egenværdi, egenvektor og egenrum
+- Eigen gildi
+- Eigenvalores e eigenvectores
+- Eigenvector
+- Eigenvectors
+- eigenvectors and eigenvalues
+- eigenvectors en eigenwaarde
+- Eigenvektor
+- Eigenvektor und Eigenwert
+- Eigenvektoren
+- eigenverdi, eigenvektor og eigerom
+- ejgeno kaj ejgenvektoro
+- giá trị riêng và vectơ riêng
+- lastni vektorji in lastne vrednosti
+- nilai dan vektor eigen
+- Omaväärtus ja omavektor
+- Ominaisarvo, ominaisvektori ja ominaisavaruus
+- sajátvektor és sajátérték
+- Svojstvene vrijednosti i svojstveni vektori
+- Tikrinių verčių lygtis
+- valeur propre et vecteur propre
+- valor propi, vector propi i espai propi
+- Valor propio, vector propio e espazo propio
+- valores próprios e vectores próprios
+- vector propio y valor propio
+- Vector propiu y valor propiu
+- Vectori și valori proprii
+- Vlastné vektory a vlastné hodnoty
+- vlastní vektory a vlastní čísla
+- wektory i wartości własne
+- Özdeğer, özvektör, özuzay
+- Īpašvērtības un īpašvektori
+- Ιδιοτιμές και Ιδιοδιανύσματα
+- власні вектори та власні числа
+- својствене вредности и својствени вектори
+- Собствени стойности и собствени вектори
+- собственные вектора и собственные числа
+- сопствен вектор и сопствена вредност
+- уласнае значэннем і ўласны вектар
+- уласныя лікі, вэктары і прасторы
+- ערכים עצמיים ווקטורים עצמיים
+- القيم الذاتية والمتجهات الذاتية
+- مقدار ویژه و بردار ویژه
+- ویژہ قدر
+- अभिलक्षणिक मान तथा अभिलक्षणिक सदिश
+- ਆਈਗਨ-ਮੁੱਲ ਅਤੇ ਆਈਗਨ-ਵੈਕਟਰ
+- ஐகென் மதிப்பு
+- เวกเตอร์ลักษณะเฉพาะ
+- 固有値と固有ベクトル
+- 特征值和特征向量
+- 特徵值同特徵向量
+- 고윳값과 고유 벡터
 has_id_wikidata: Q190524
-subclass_of: "[[_Standards/WikiData/WD~invariant,188211]]"
-approximation_algorithm: "[[_Standards/WikiData/WD~Rayleigh_Ritz_method,852247]]"
+subclass_of: '[[_Standards/WikiData/WD~invariant,188211]]'
+approximation_algorithm: '[[_Standards/WikiData/WD~Rayleigh_Ritz_method,852247]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi>𝒗</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
+- "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow></mstyle></mrow></math>"
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
 Stack_Exchange_tag: https://math.stackexchange.com/tags/eigenvalues-eigenvectors
-defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi><mrow data-mjx-texclass="ORD"><mi>𝒗</mi></mrow><mo stretchy="false">=</mo><mi>&#x03BB;</mi><mrow data-mjx-texclass="ORD"><mi>𝒗</mi></mrow></mstyle></mrow></math>
+defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi>A</mi><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow><mo stretchy=\"false\">=</mo><mi>&#x03BB;</mi><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow></mstyle></mrow></math>"
+dv_has_:
+  name_:
+    ar: القيم الذاتية والمتجهات الذاتية
+    ast: Vector propiu y valor propiu
+    be: уласнае значэннем і ўласны вектар
+    be-tarask: уласныя лікі, вэктары і прасторы
+    bg: Собствени стойности и собствени вектори
+    ca: valor propi, vector propi i espai propi
+    cs: vlastní vektory a vlastní čísla
+    da: egenværdi, egenvektor og egenrum
+    de: Eigenvektor und Eigenwert
+    el: Ιδιοτιμές και Ιδιοδιανύσματα
+    en: eigenvectors and eigenvalues
+    en-gb: eigenvectors and eigenvalues
+    eo: ejgeno kaj ejgenvektoro
+    es: vector propio y valor propio
+    et: Omaväärtus ja omavektor
+    eu: Autobalioak eta autobektoreak
+    fa: مقدار ویژه و بردار ویژه
+    fi: Ominaisarvo, ominaisvektori ja ominaisavaruus
+    fr: valeur propre et vecteur propre
+    gl: Valor propio, vector propio e espazo propio
+    he: ערכים עצמיים ווקטורים עצמיים
+    hi: अभिलक्षणिक मान तथा अभिलक्षणिक सदिश
+    hr: Svojstvene vrijednosti i svojstveni vektori
+    hu: sajátvektor és sajátérték
+    ia: Eigenvalores e eigenvectores
+    id: nilai dan vektor eigen
+    is: Eigen gildi
+    it: autovettore e autovalore
+    ja: 固有値と固有ベクトル
+    ko: 고윳값과 고유 벡터
+    lt: Tikrinių verčių lygtis
+    lv: Īpašvērtības un īpašvektori
+    mk: сопствен вектор и сопствена вредност
+    nb: egenverdiligning
+    nl: eigenvectors en eigenwaarde
+    nn: eigenverdi, eigenvektor og eigerom
+    pa: ਆਈਗਨ-ਮੁੱਲ ਅਤੇ ਆਈਗਨ-ਵੈਕਟਰ
+    pl: wektory i wartości własne
+    pnb: ویژہ قدر
+    pt: valores próprios e vectores próprios
+    pt-br: autovalores e autovetores
+    ro: Vectori și valori proprii
+    ru: собственные вектора и собственные числа
+    sh: Svojstvene vrijednosti i svojstveni vektori
+    sk: Vlastné vektory a vlastné hodnoty
+    sl: lastni vektorji in lastne vrednosti
+    sq: Autovlerat dhe autovektorët
+    sr: својствене вредности и својствени вектори
+    sv: egenvärde, egenvektor och egenrum
+    ta: ஐகென் மதிப்பு
+    th: เวกเตอร์ลักษณะเฉพาะ
+    tr: Özdeğer, özvektör, özuzay
+    uk: власні вектори та власні числа
+    ur: ویژہ قدر
+    vi: giá trị riêng và vectơ riêng
+    yue: 特徵值同特徵向量
+    zh: 特征值和特征向量
 ---
-
 # [[Eigenvector]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eigenvectors_and_eigenvalues,190524|WD~Eigenvectors_and_eigenvalues,190524]] 

@@ -1,24 +1,68 @@
 ---
 aliases:
-  - Bedding
+- A̱toot a̱gbaat
+- beddengoed
+- Bedding
+- Bettware
+- biancheria da letto
+- Dilhad-gwele
+- Dillad gwely
+- gultas veļa
+- Héstoomaestôtse
+- linge de lit
+- litaĵo
+- Ohe-jantzi
+- patalynė
+- Patalā
+- Posteljina
+- posteljnina
+- posłanie
+- povlečení
+- roba de llit
+- ropa de cama
+- Roupa de cama
+- sengetøj
+- sengetøy
+- Seprai
+- Sepré
+- sängkläder
+- vuodevaatteet
+- Yatak takımı
+- ágynemű
+- Κλινοσκεπάσματα
+- Вырăн çитти тавраш
+- Орон таҥаһа
+- пасьцельная бялізна
+- постільна білизна
+- постељина
+- постельное бельё
+- түшәк кейеме
+- מצעים
+- رختخواب
+- كسوة السرير
+- 寝具
+- 床上用品
+- 床冚
+- 牀上用品
+- 침구
 has_id_wikidata: Q1762457
 has_part_s_:
-  - '[[_Standards/WikiData/WD~pillow,99895]]'
-  - '[[_Standards/WikiData/WD~mattress,171495]]'
-  - '[[_Standards/WikiData/WD~bed_sheet,391788]]'
-  - '[[_Standards/WikiData/WD~bed_base,1807059]]'
-  - '[[_Standards/WikiData/WD~duvet,2021327]]'
-  - '[[_Standards/WikiData/WD~duvet_cover,2397457]]'
-  - '[[_Standards/WikiData/WD~bolster,3057620]]'
-  - '[[_Standards/WikiData/WD~duvet_cover,3513966]]'
-  - '[[_Standards/WikiData/WD~mattress_protector,17068547]]'
-  - '[[_Standards/WikiData/WD~bedding_set,18415005]]'
-  - '[[_Standards/WikiData/WD~comforter,5847]]'
-  - '[[_Standards/WikiData/WD~blanket,5852]]'
+- '[[_Standards/WikiData/WD~pillow,99895]]'
+- '[[_Standards/WikiData/WD~mattress,171495]]'
+- '[[_Standards/WikiData/WD~bed_sheet,391788]]'
+- '[[_Standards/WikiData/WD~bed_base,1807059]]'
+- '[[_Standards/WikiData/WD~duvet,2021327]]'
+- '[[_Standards/WikiData/WD~duvet_cover,2397457]]'
+- '[[_Standards/WikiData/WD~bolster,3057620]]'
+- '[[_Standards/WikiData/WD~duvet_cover,3513966]]'
+- '[[_Standards/WikiData/WD~mattress_protector,17068547]]'
+- '[[_Standards/WikiData/WD~bedding_set,18415005]]'
+- '[[_Standards/WikiData/WD~comforter,5847]]'
+- '[[_Standards/WikiData/WD~blanket,5852]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~linens,796635]]'
-  - '[[_Standards/WikiData/WD~furnishings,12375131]]'
-  - '[[_Standards/WikiData/WD~add_on,117670709]]'
+- '[[_Standards/WikiData/WD~linens,796635]]'
+- '[[_Standards/WikiData/WD~furnishings,12375131]]'
+- '[[_Standards/WikiData/WD~add_on,117670709]]'
 different_from: '[[_Standards/WikiData/WD~bed,806617]]'
 part_of: '[[_Standards/WikiData/WD~consumer_economics,3578714]]'
 instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
@@ -33,8 +77,62 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bettwaesche.jpg
 U_S_National_Archives_Identifier: 10647518
 Iconclass_notation: 41A763
 P8189: 987007282402205171
+dv_has_:
+  name_:
+    ar: كسوة السرير
+    ba: түшәк кейеме
+    be-tarask: пасьцельная бялізна
+    br: Dilhad-gwele
+    ca: roba de llit
+    chy: Héstoomaestôtse
+    cs: povlečení
+    cv: Вырăн çитти тавраш
+    cy: Dillad gwely
+    da: sengetøj
+    de: Bettware
+    el: Κλινοσκεπάσματα
+    en: bedding
+    eo: litaĵo
+    es: ropa de cama
+    eu: Ohe-jantzi
+    fa: رختخواب
+    fi: vuodevaatteet
+    fr: linge de lit
+    gl: Roupa de cama
+    he: מצעים
+    hr: Posteljina
+    hu: ágynemű
+    id: Seprai
+    it: biancheria da letto
+    ja: 寝具
+    kcg: A̱toot a̱gbaat
+    ko: 침구
+    lt: patalynė
+    lv: gultas veļa
+    nb: sengetøy
+    nl: beddengoed
+    nn: sengetøy
+    pl: posłanie
+    pt: roupa de cama
+    pt-br: roupa de cama
+    ru: постельное бельё
+    sah: Орон таҥаһа
+    sgs: Patalā
+    sh: Posteljina
+    sl: posteljnina
+    sr: постељина
+    sr-ec: постељина
+    sr-el: posteljina
+    su: Sepré
+    sv: sängkläder
+    tr: Yatak takımı
+    uk: постільна білизна
+    yue: 床冚
+    zh: 床上用品
+    zh-hans: 床上用品
+    zh-hant: 床上用品
+    zh-hk: 牀上用品
 ---
-
 # [[Bedding]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Bedding,1762457|WD~Bedding,1762457]] 

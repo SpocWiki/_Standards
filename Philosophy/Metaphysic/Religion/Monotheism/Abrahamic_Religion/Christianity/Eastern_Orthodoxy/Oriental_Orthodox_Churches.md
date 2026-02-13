@@ -1,28 +1,183 @@
 ---
 aliases:
-  - Miaphysite Christology
-  - Nicene Christian
+- Altorientalische Kirchen
+- Altorientalischi Chille
+- antikhalkédóni egyházak
+- Antixalkidon kilsələr
+- Austrænar rétttrúnaðarkirkjur
+- Bisericile vechi orientale
+- Chiesa Ortudossa Urientali
+- Chiese ortodosse orientali
+- Chính thống giáo Cổ Đông phương
+- Doğu Ortodoks Kiliseleri
+- Ecclesiae Veteres Orientales
+- Eglwysi'r tri cyngor
+- Ekialdeko Eliza ortodoxoak
+- Esglésies ortodoxes orientals
+- Fiangonana ortodoksa tatsinanana
+- Gereja Ortodoks Oriental
+- Gese ortodosse oriental
+- Glèisa dei tres concilis
+- Iglesias ortodoxas orientales
+- Igrejas não calcedonianas
+- Igrexas ortodoxas orientais
+- Ilesies ortodoxes orientales
+- Istočne pravoslavne Crkve
+- Kościoły orientalne
+- Miaphysite Christology
+- Nicene Christian
+- Orientaaliortodoksiset kirkot
+- Orientaj ortodoksaj eklezioj
+- Oriental Orthodox Churches
+- oriental orthodoxy
+- Orientalisch-orthodoxe Kirchen
+- orientaliskt ortodoxa
+- Orientalsk-ortodokse kirker
+- Orientalske ortodokse kyrkjer
+- Orientálna ortodoxná cirkev
+- Orientālās pareizticīgās baznīcas
+- Oriëntaals-orthodoxe Kerken
+- Oriëntale Ortodoksie
+- Oriïntaalsk-otterdoksy
+- Ortadocsacht an Oirthir
+- Orthodoxia oriental
+- Ortodoksiya Rocvetışi
+- Ortodoksiyang Oriental
+- predkalcedonske cerkve
+- Prethalkedonske crkve
+- Tang-hong Chèng-tō
+- Vanad oriendikirikud
+- Východní pravoslavné společenství
+- Waorthodoksi wa Mashariki
+- Églises des trois conciles
+- Églléses des três concilos
+- Προχαλκηδόνιες Εκκλησίες
+- давньосхідні церкви
+- древневосточные православные церкви
+- древноисточне цркве
+- древноисточни цркви
+- нехалкедонски църкви
+- старажытныя ўсходнія цэрквы
+- Արեւելեան Ուղղափառ Եկեղեցիներ
+- Արևելյան ուղղափառ եկեղեցիներ
+- נצרות מזרחית קדומה
+- ارتدوکسی مشرقی
+- الكنائس الأرثوذكسية المشرقية
+- الكنيسه الارثوذكسيه المشرقيه
+- اورینٹل راسخ الاعتقادی
+- ഓറിയന്റൽ ഓർത്തഡോക്സ് സഭകൾ
+- ออเรียนทัลออร์ทอดอกซ์
+- ორიენტალური მართლმადიდებლობა
+- 东方正统教会
+- 東方正統教會
+- 東方諸教会
+- 오리엔트 정교회
 has_id_wikidata: Q49377
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Ethiopian_Orthodox_Tewahedo_Church,179829]]"
-  - "[[_Standards/WikiData/WD~Coptic_Orthodox_Church,198998]]"
-  - "[[_Standards/WikiData/WD~Syriac_Orthodox_Church,210540]]"
-  - "[[_Standards/WikiData/WD~Armenian_Apostolic_Church,683724]]"
-  - "[[_Standards/WikiData/WD~Eritrean_Orthodox_Tewahedo_Church,844083]]"
-has_characteristic: "[[_Standards/WikiData/WD~full_communion,649499]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Oriental_Orthodoxy,21830564]]"
+- '[[_Standards/WikiData/WD~Ethiopian_Orthodox_Tewahedo_Church,179829]]'
+- '[[_Standards/WikiData/WD~Coptic_Orthodox_Church,198998]]'
+- '[[_Standards/WikiData/WD~Syriac_Orthodox_Church,210540]]'
+- '[[_Standards/WikiData/WD~Armenian_Apostolic_Church,683724]]'
+- '[[_Standards/WikiData/WD~Eritrean_Orthodox_Tewahedo_Church,844083]]'
+has_characteristic: '[[_Standards/WikiData/WD~full_communion,649499]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Oriental_Orthodoxy,21830564]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]"
-  - "[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]"
-  - "[[_Standards/WikiData/WD~Eastern_Catholic_Churches,49376]]"
-subclass_of: "[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]"
-practiced_by: "[[_Standards/WikiData/WD~Oriental_Orthodox_Christian,118139738]]"
-instance_of: "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
+- '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]'
+- '[[_Standards/WikiData/WD~Eastern_Orthodox_Church,35032]]'
+- '[[_Standards/WikiData/WD~Eastern_Catholic_Churches,49376]]'
+subclass_of: '[[_Standards/WikiData/WD~Oriental_Orthodoxy,111464733]]'
+practiced_by: '[[_Standards/WikiData/WD~Oriental_Orthodox_Christian,118139738]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Christ%20feeding%20the%20multitude.jpg
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Oriental%20Orthodoxy%20by%20country.png
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/oriental-orthodox
+dv_has_:
+  name_:
+    af: Oriëntale Ortodoksie
+    ar: الكنائس الأرثوذكسية المشرقية
+    arz: الكنيسه الارثوذكسيه المشرقيه
+    ast: Ilesies ortodoxes orientales
+    az: Antixalkidon kilsələr
+    be: старажытныя ўсходнія цэрквы
+    be-tarask: старажытныя ўсходнія цэрквы
+    bg: нехалкедонски църкви
+    ca: Esglésies ortodoxes orientals
+    cs: Východní pravoslavné společenství
+    cy: Eglwysi'r tri cyngor
+    de: Orientalisch-orthodoxe Kirchen
+    de-ch: Altorientalische Kirchen
+    diq: Ortodoksiya Rocvetışi
+    el: Προχαλκηδόνιες Εκκλησίες
+    en: Oriental Orthodox Churches
+    en-ca: oriental orthodoxy
+    en-gb: oriental orthodoxy
+    eo: Orientaj ortodoksaj eklezioj
+    es: Iglesias ortodoxas orientales
+    et: Vanad oriendikirikud
+    eu: Ekialdeko Eliza ortodoxoak
+    fa: ارتدوکسی مشرقی
+    fi: Orientaaliortodoksiset kirkot
+    fr: Églises des trois conciles
+    frp: Églléses des três concilos
+    fy: Oriïntaalsk-otterdoksy
+    ga: Ortadocsacht an Oirthir
+    gl: Igrexas ortodoxas orientais
+    gsw: Altorientalischi Chille
+    he: נצרות מזרחית קדומה
+    hr: Istočne pravoslavne Crkve
+    hu: antikhalkédóni egyházak
+    hy: Արևելյան ուղղափառ եկեղեցիներ
+    hyw: Արեւելեան Ուղղափառ Եկեղեցիներ
+    ia: Orthodoxia oriental
+    id: Gereja Ortodoks Oriental
+    is: Austrænar rétttrúnaðarkirkjur
+    it: Chiese ortodosse orientali
+    ja: 東方諸教会
+    ka: ორიენტალური მართლმადიდებლობა
+    ko: 오리엔트 정교회
+    la: Ecclesiae Veteres Orientales
+    lmo: Gese ortodosse oriental
+    lv: Orientālās pareizticīgās baznīcas
+    mg: Fiangonana ortodoksa tatsinanana
+    mk: древноисточни цркви
+    ml: ഓറിയന്റൽ ഓർത്തഡോക്സ് സഭകൾ
+    ms: Gereja Ortodoks Oriental
+    nan: Tang-hong Chèng-tō
+    nb: Orientalsk-ortodokse kirker
+    nl: Oriëntaals-orthodoxe Kerken
+    nn: Orientalske ortodokse kyrkjer
+    oc: Glèisa dei tres concilis
+    pl: Kościoły orientalne
+    pnb: اورینٹل راسخ الاعتقادی
+    pt: Igrejas não calcedonianas
+    pt-br: Igrejas não calcedonianas
+    ro: Bisericile vechi orientale
+    ru: древневосточные православные церкви
+    scn: Chiesa Ortudossa Urientali
+    sh: Prethalkedonske crkve
+    sk: Orientálna ortodoxná cirkev
+    sl: predkalcedonske cerkve
+    sr: древноисточне цркве
+    sv: orientaliskt ortodoxa
+    sw: Waorthodoksi wa Mashariki
+    th: ออเรียนทัลออร์ทอดอกซ์
+    tl: Ortodoksiyang Oriental
+    tr: Doğu Ortodoks Kiliseleri
+    uk: давньосхідні церкви
+    ur: اورینٹل راسخ الاعتقادی
+    vi: Chính thống giáo Cổ Đông phương
+    wuu: 东方正统教会
+    yue: 東方正統教會
+    zh: 東方正統教會
+    zh-cn: 東方正統教會
+    zh-hans: 東方正統教會
+    zh-hant: 東方正統教會
+    zh-hk: 東方正統教會
+    zh-mo: 東方正統教會
+    zh-my: 東方正統教會
+    zh-sg: 東方正統教會
+    zh-tw: 東方正統教會
 ---
-
 # [[Oriental_Orthodox_Churches]]
 
 #is_/same_as :: [[WD~Oriental_Orthodox_Churches,49377]] 

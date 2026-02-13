@@ -1,69 +1,263 @@
 ---
-has_time_started: 0909-01-01 
-has_time_stopped: 1171-01-01 
+has_time_started: 0909-01-01
+has_time_stopped: 1171-01-01
 aliases:
+- an Chailifeacht Fhataimíteach
+- Califado Fatímida
+- Califat Fatimida
+- Califat fatimide
+- Califat Fatimita
+- Califato fatimí
+- Califatu fatimín
+- Califatul Fatimid
+- Dawladii faadumiyiinta
+- Fatima kaliflando
+- Fatimah Khalifah-kok
+- Fatimid
+- Fatimid Caliphate
+- Fatimide-kalifatet
+- Fatimiden
+- Fatimidenreich
+- Fatimider
+- Fatimidi
+- Fatimidiese Kalifaat
+- Fatimidit
+- Fatimidski halifat
+- Fatimidski Kalifat
+- Fatimidët
+- Fatimidų kalifatas
+- Fatimiidide kalifaat
+- Fatimilər xilafəti
+- Fatimitar Kaliferria
+- Fatimí
+- Fatimî
+- Fatïma äwleti
+- Fatımiler
+- Fotimiylar xalifaligi
+- Fátimidák
+- Fátimovci
+- Fátimovský chalífát
+- Fātimiju kalifāts
+- Halifancin Fatimid
+- i-Fatimid Caliphate
+- Kakalifahan Fatimiyah
+- kalifaat van de Fatimiden
+- Kalifat Fatymidów
+- Kalifata Fatimida
+- Kekhalifahan Fatimiyah
+- Khilafah Fatimiyyah
+- Nhà Fatima
+- Ukhalifa wa Fatimid
+- Χαλιφάτο των Φατιμιδών
+- Фатіміди
+- Фатима әулеті
+- Фатимиди
+- Фатимидски Калифат
+- Фатимидский халифат
+- Фатимилер
+- Фатимиҙар хәлифәлеге
+- Фатымідзкі халіфат
+- Фацімідскі халіфат
+- хилофати Фотимиён
+- Ֆաթիմյանների խալիֆայություն
+- השושלת הפאטמית
+- الدولة الفاطمية
+- الفاطميين
+- خلافت فاطميہ
+- خلفای فاطمی
+- دولت فاطمیہ
+- دەوڵەتی فاتیمی
+- سلطنت فاطمیہ
+- سلطنت فاطمیہ، مصر
+- فاتمی
+- فاتىيما اۋلەتى
+- فاطمي واکمني
+- فاطمی خلافتی
+- फ़तिमीड कलीफते
+- फुटीमद खलीफा
+- ফাতিমীয় খিলাফত
+- ਫ਼ਾਤਿਮਾ ਸਲਤਨਤ
+- பாத்திம கலீபகம்
+- ಫ್ಯಾಥಿಮಿಡ್ ಕ್ಯಾಲಿಫೇಟ್
+- ഫാത്തിമിയ ഖിലാഫത്ത്
+- ราชวงศ์ฟาติมียะห์
+- ფატიმიდების სახალიფო
+- ファーティマ朝
+- 法提瑪王朝
+- 法蒂玛王朝
+- 法蒂瑪王朝
+- 파티마 왕조
 has_id_wikidata: Q160307
 instance_of:
-  - "[[_Standards/WikiData/WD~caliphate,131401]]"
-  - "[[_Standards/WikiData/WD~transcontinental_country,1323642]]"
-  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
-  - "[[_Standards/WikiData/WD~Islamic_state,4204060]]"
-named_after: "[[_Standards/WikiData/WD~Fatima,180123]]"
+- '[[_Standards/WikiData/WD~caliphate,131401]]'
+- '[[_Standards/WikiData/WD~transcontinental_country,1323642]]'
+- '[[_Standards/WikiData/WD~historical_country,3024240]]'
+- '[[_Standards/WikiData/WD~Islamic_state,4204060]]'
+named_after: '[[_Standards/WikiData/WD~Fatima,180123]]'
 replaced_by:
-  - "[[_Standards/WikiData/WD~Zengid_dynasty,189545]]"
-  - "[[_Standards/WikiData/WD~Zirid_Dynasty,205718]]"
-  - "[[_Standards/WikiData/WD~County_of_Edessa,232806]]"
-  - "[[_Standards/WikiData/WD~Principality_of_Antioch,235030]]"
-  - "[[_Standards/WikiData/WD~County_of_Tripoli,272033]]"
-  - "[[_Standards/WikiData/WD~Hammadid_dynasty,588672]]"
-  - "[[_Standards/WikiData/WD~Muslim_Sicily,1250763]]"
-  - "[[_Standards/WikiData/WD~Ayyubid_Sultanate,63135869]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]"
+- '[[_Standards/WikiData/WD~Zengid_dynasty,189545]]'
+- '[[_Standards/WikiData/WD~Zirid_Dynasty,205718]]'
+- '[[_Standards/WikiData/WD~County_of_Edessa,232806]]'
+- '[[_Standards/WikiData/WD~Principality_of_Antioch,235030]]'
+- '[[_Standards/WikiData/WD~County_of_Tripoli,272033]]'
+- '[[_Standards/WikiData/WD~Hammadid_dynasty,588672]]'
+- '[[_Standards/WikiData/WD~Muslim_Sicily,1250763]]'
+- '[[_Standards/WikiData/WD~Ayyubid_Sultanate,63135869]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Jerusalem,55502]]'
 currency:
-  - "[[_Standards/WikiData/WD~dinar,191830]]"
-  - "[[_Standards/WikiData/WD~Dirham,572664]]"
+- '[[_Standards/WikiData/WD~dinar,191830]]'
+- '[[_Standards/WikiData/WD~Dirham,572664]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Aghlabids,207600]]"
-  - "[[_Standards/WikiData/WD~Idrisid_dynasty,431575]]"
-  - "[[_Standards/WikiData/WD~Ikhshidid_dynasty,828665]]"
-  - "[[_Standards/WikiData/WD~Rustamid_dynasty,940123]]"
-  - "[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]"
+- '[[_Standards/WikiData/WD~Aghlabids,207600]]'
+- '[[_Standards/WikiData/WD~Idrisid_dynasty,431575]]'
+- '[[_Standards/WikiData/WD~Ikhshidid_dynasty,828665]]'
+- '[[_Standards/WikiData/WD~Rustamid_dynasty,940123]]'
+- '[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]'
 follows:
-  - "[[_Standards/WikiData/WD~Aghlabids,207600]]"
-  - "[[_Standards/WikiData/WD~Ikhshidid_dynasty,828665]]"
-  - "[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]"
+- '[[_Standards/WikiData/WD~Aghlabids,207600]]'
+- '[[_Standards/WikiData/WD~Ikhshidid_dynasty,828665]]'
+- '[[_Standards/WikiData/WD~Abbasid_Caliphate,12536]]'
 capital:
-  - "[[_Standards/WikiData/WD~Al_Mansuriya,289618]]"
-  - "[[_Standards/WikiData/WD~Mahdia,466054]]"
-  - "[[_Standards/WikiData/WD~Cairo,85]]"
-founded_by: "[[_Standards/WikiData/WD~Abdullah_al_Mahdi_Billah,307629]]"
+- '[[_Standards/WikiData/WD~Al_Mansuriya,289618]]'
+- '[[_Standards/WikiData/WD~Mahdia,466054]]'
+- '[[_Standards/WikiData/WD~Cairo,85]]'
+founded_by: '[[_Standards/WikiData/WD~Abdullah_al_Mahdi_Billah,307629]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~Fatimid_Caliph,14979753]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~Fatimid_Caliph,14979753]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Fatimid_Caliphate_topics,87787658]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Fatimid_Caliphate,108171243]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Fatimid_Caliph,14979753]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~Fatimid_Caliph,14979753]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fatimid_Caliphate_topics,87787658]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fatimid_Caliphate,108171243]]'
 inception: 0909-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1171-01-01T00:00:00Z
-religion_or_worldview: "[[_Standards/WikiData/WD~Islam,432]]"
-official_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
+official_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Berber,25448]]"
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~Berber,25448]]'
 continent:
-  - "[[_Standards/WikiData/WD~Africa,15]]"
-  - "[[_Standards/WikiData/WD~Europe,46]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
 area: 9100000
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/FatimidCaliphate969%20%28orthographic%20projection%29.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A%D8%A9.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A%D8%A9.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A%D8%A9.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%B7%D9%85%D9%8A%D8%A9.wav
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "FatimidCaliphate"]
 Commons_category: Fatimid Caliphate
+dv_has_:
+  name_:
+    af: Fatimidiese Kalifaat
+    an: Fatimí
+    ar: الدولة الفاطمية
+    arz: الفاطميين
+    ast: Califatu fatimín
+    az: Fatimilər xilafəti
+    azb: فاطمی خلافتی
+    ba: Фатимиҙар хәлифәлеге
+    be: Фацімідскі халіфат
+    be-tarask: Фатымідзкі халіфат
+    bg: Фатимиди
+    bn: ফাতিমীয় খিলাফত
+    bs: Fatimidski halifat
+    ca: Califat Fatimita
+    ckb: دەوڵەتی فاتیمی
+    cs: Fátimovský chalífát
+    da: Fatimide-kalifatet
+    de: Fatimidenreich
+    el: Χαλιφάτο των Φατιμιδών
+    en: Fatimid Caliphate
+    eo: Fatima kaliflando
+    es: Califato fatimí
+    et: Fatimiidide kalifaat
+    eu: Fatimitar Kaliferria
+    fa: خلفای فاطمی
+    fi: Fatimidit
+    fr: Califat fatimide
+    fy: Fatimiden
+    ga: an Chailifeacht Fhataimíteach
+    gl: Califato fatimí
+    gsw: Fatimiden
+    ha: Halifancin Fatimid
+    he: השושלת הפאטמית
+    hi: फुटीमद खलीफा
+    hr: Fatimidski Kalifat
+    hu: Fátimidák
+    hy: Ֆաթիմյանների խալիֆայություն
+    id: Kekhalifahan Fatimiyah
+    it: Fatimidi
+    ja: ファーティマ朝
+    jv: Kakalifahan Fatimiyah
+    ka: ფატიმიდების სახალიფო
+    kk: Фатима әулеті
+    kk-arab: فاتىيما اۋلەتى
+    kk-cn: فاتىيما اۋلەتى
+    kk-cyrl: Фатима әулеті
+    kk-kz: Фатима әулеті
+    kk-latn: Fatïma äwleti
+    kk-tr: Fatïma äwleti
+    kn: ಫ್ಯಾಥಿಮಿಡ್ ಕ್ಯಾಲಿಫೇಟ್
+    ko: 파티마 왕조
+    ku: Fatimî
+    ku-arab: فاتمی
+    ku-latn: Fatimî
+    ky: Фатимилер
+    lt: Fatimidų kalifatas
+    lv: Fātimiju kalifāts
+    mg: Kalifata Fatimida
+    mk: Фатимидски Калифат
+    ml: ഫാത്തിമിയ ഖിലാഫത്ത്
+    ms: Khilafah Fatimiyyah
+    nan: Fatimah Khalifah-kok
+    nb: Fatimid
+    nl: kalifaat van de Fatimiden
+    nn: Fatimide-kalifatet
+    oc: Califat Fatimida
+    pa: ਫ਼ਾਤਿਮਾ ਸਲਤਨਤ
+    pl: Kalifat Fatymidów
+    pnb: سلطنت فاطمیہ
+    ps: فاطمي واکمني
+    pt: Califado Fatímida
+    pt-br: Califado Fatímida
+    ro: Califatul Fatimid
+    ru: Фатимидский халифат
+    sa: फ़तिमीड कलीफते
+    scn: Fatimidi
+    sco: Fatimid Caliphate
+    sd: خلافت فاطميہ
+    sh: Fatimidi
+    sk: Fátimovci
+    skr: سلطنت فاطمیہ، مصر
+    sl: Fatimidi
+    so: Dawladii faadumiyiinta
+    sq: Fatimidët
+    sr: Фатимиди
+    sr-ec: Фатимидски калифат
+    sr-el: Fatimidi
+    sv: Fatimider
+    sw: Ukhalifa wa Fatimid
+    ta: பாத்திம கலீபகம்
+    tg: хилофати Фотимиён
+    th: ราชวงศ์ฟาติมียะห์
+    tr: Fatımiler
+    uk: Фатіміди
+    ur: دولت فاطمیہ
+    uz: Fotimiylar xalifaligi
+    vec: Fatimidi
+    vi: Nhà Fatima
+    wuu: 法蒂玛王朝
+    yue: 法蒂瑪王朝
+    zh: 法蒂玛王朝
+    zh-cn: 法蒂玛王朝
+    zh-hans: 法蒂玛王朝
+    zh-hant: 法蒂瑪王朝
+    zh-hk: 法蒂瑪王朝
+    zh-sg: 法蒂玛王朝
+    zh-tw: 法提瑪王朝
+    zu: i-Fatimid Caliphate
 ---
-
 # [[Fatimid_Caliphate]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Fatimid_Caliphate,160307|WD~Fatimid_Caliphate,160307]] 

@@ -1,9 +1,383 @@
 ---
 aliases:
-  - Actor
-  - Actress
+- actair
+- acteu o acteuse
+- acteur
+- acteur ou actrice
+- Actor
+- Actress
+- aghteyr
+- aihundatọ
+- aisteoir
+- akt'or
+- akteur
+- aktieris
+- aktjor
+- aktoji
+- aktor
+- aktore
+- aktorius
+- aktoro
+- aktour
+- aktuorios
+- aktyor
+- aktäör
+- aktè
+- aktör
+- aranway pukllaq
+- artista
+- asegbar
+- atol
+- ator
+- atore
+- attore
+- attur
+- atturi
+- atur
+- atô
+- canghheiq
+- dauvakaraitaki
+- diễn viên
+- dorjehtæjja
+- dramatan
+- dźiwadźelnik
+- glumac
+- glíƿiend
+- gwarier
+- herec
+- igralec
+- ián-goân
+- jarumi
+- jilaa
+- ka metowetc masinactetcitcikanik
+- kayker
+- kiriwhakaari
+- kpɛrikpɛrita
+- leikari
+- lîstikvan
+- mba'eapohára
+- mpilalao
+- mwigizaji
+- neavttár
+- näitleja
+- näyttelijä
+- oavdástalle
+- omee
+- oyuncu
+- ozuttelii
+- palakon
+- pelakon
+- pemeran
+- Schauspeler
+- Schauspeller
+- Schauspieler
+- Schauspiller
+- Schauspuia
+- Sinii ita
+- sjónleikari
+- skodespelar
+- skuespiller
+- skådespelare
+- spelster
+- Szauszpiler
+- színész
+- tukang lakon
+- umlingisi
+- xeldraci
+- yên-yèn
+- òṣèré
+- čaittâleijee
+- čuäjtõõlli
+- ɔyɛfoɔ
+- ηθοποιός
+- актёр
+- Актёрий исбахьале
+- актер
+- актор
+- актьор
+- акцёр
+- артыыс
+- глумац
+- глумец
+- жүжигчин
+- зүжэгшэ
+- налксиця
+- налхкись
+- ҳунарманд
+- ҳунарпеша
+- դերասան
+- אקטיאר
+- שחקן
+- ئەکتەر
+- اداکار
+- اداڪار
+- اویونچو
+- اَداکار
+- بازیگر
+- لوبگر
+- ممثل
+- مومتيل
+- هنرپیشه
+- ڤلاکون
+- अभिनयशिल्पी
+- अभिनेता
+- एक्टर
+- অভিনয়শিল্পী
+- অভিনেতা
+- ਅਦਾਕਾਰ
+- અભિનેતા
+- ଅଭିନେତା
+- நடிகர்
+- నటులు
+- ನಟ
+- ನಲಿಕೆದಾಯೆ
+- അഭിനേതാവ്
+- නළුවා
+- นักแสดง
+- သရုပ်ဆောင်
+- ၽဢဵၵ်ႇ
+- არტისტი
+- მსახიობი
+- ተዋናይ
+- ᎠᏛᏁᎵᏍᎩ
+- តួប្រុស
+- ᱯᱟᱯᱟᱴᱤᱭᱟᱹ
+- ⴰⵙⵎⴷⴰⵢ
+- 俳優
+- 優伶
+- 演员
+- 演員
+- ꯃꯃꯤꯔꯣꯏ
+- 배우
+has_id_wikidata: Q33999
+dv_has_:
+  name_:
+    acm: ممثل
+    ady: актёр
+    af: akteur
+    am: ተዋናይ
+    an: actor
+    ang: glíƿiend
+    ar: ممثل
+    ary: مومتيل
+    arz: ممثل
+    as: অভিনেতা
+    ast: actor
+    atj: ka metowetc masinactetcitcikanik
+    az: aktyor
+    azb: اویونچو
+    ba: актёр
+    bar: Schauspuia
+    bcl: aktor
+    be: акцёр
+    be-tarask: актор
+    bew: tukang lakon
+    bg: актьор
+    bho: एक्टर
+    bn: অভিনয়শিল্পী
+    br: aktour
+    bs: glumac
+    bxr: зүжэгшэ
+    ca: actor
+    ce: актёр
+    ceb: aktor
+    chr: ᎠᏛᏁᎵᏍᎩ
+    ckb: ئەکتەر
+    crh: aktör
+    crh-latn: aktör
+    cs: herec
+    cv: актёр
+    cy: actor
+    da: skuespiller
+    dag: kpɛrikpɛrita
+    de: Schauspieler
+    de-at: Schauspieler
+    de-ch: Schauspieler
+    diq: kayker
+    dty: अभिनेता
+    el: ηθοποιός
+    en: actor
+    en-ca: actor
+    en-gb: actor
+    en-us: actor
+    eo: aktoro
+    es: actor
+    et: näitleja
+    eu: aktore
+    ext: atol
+    fa: هنرپیشه
+    ff: aktoji
+    fi: näyttelijä
+    fj: dauvakaraitaki
+    fo: sjónleikari
+    fr: acteur ou actrice
+    frr: spelster
+    fy: akteur
+    ga: aisteoir
+    gan: 演員
+    gd: actair
+    gl: actor
+    gn: mba'eapohára
+    gpe: actor
+    gsw: Schauspiller
+    gu: અભિનેતા
+    gur: Sinii ita
+    guw: aihundatọ
+    gv: aghteyr
+    ha: jarumi
+    hak: yên-yèn
+    he: שחקן
+    hi: अभिनयशिल्पी
+    hr: glumac
+    hsb: dźiwadźelnik
+    ht: aktè
+    hu: színész
+    hy: դերասան
+    hyw: դերասան
+    ia: actor
+    id: pemeran
+    ig: omee
+    ilo: aktor
+    inh: Актёрий исбахьале
+    io: aktoro
+    is: leikari
+    it: attore
+    ja: 俳優
+    jbo: xeldraci
+    jv: aktor
+    ka: მსახიობი
+    kaa: aktyor
+    kab: asegbar
+    kk: актёр
+    km: តួប្រុស
+    kn: ನಟ
+    ko: 배우
+    ks: اَداکار
+    ksh: Schauspeller
+    ku: lîstikvan
+    ku-latn: lîstikvan
+    kw: gwarier
+    ky: актер
+    la: actor
+    lb: Schauspiller
+    lfn: ator
+    li: aktäör
+    lij: atô
+    lmo: atur
+    lt: aktorius
+    lv: aktieris
+    lzh: 優伶
+    mai: अभिनेता
+    map-bms: aktor
+    mdf: налхкись
+    mg: mpilalao
+    mhr: актёр
+    mi: kiriwhakaari
+    min: palakon
+    mk: глумец
+    ml: അഭിനേതാവ്
+    mn: жүжигчин
+    mni: ꯃꯃꯤꯔꯣꯏ
+    mr: अभिनेता
+    ms: pelakon
+    ms-arab: ڤلاکون
+    mt: attur
+    mwl: ator
+    my: သရုပ်ဆောင်
+    myv: налксиця
+    mzn: بازیگر
+    nan: ián-goân
+    nan-hant: 演員
+    nb: skuespiller
+    nds: Schauspeler
+    nds-nl: akteur
+    ne: अभिनेता
+    nl: acteur
+    nn: skodespelar
+    nov: aktore
+    oc: actor
+    olo: ozuttelii
+    or: ଅଭିନେତା
+    os: актёр
+    pa: ਅਦਾਕਾਰ
+    pap: aktor
+    pcd: acteu o acteuse
+    pl: aktor
+    pnb: اداکار
+    ps: لوبگر
+    pt: ator
+    pt-br: ator
+    qu: aranway pukllaq
+    ro: actor
+    ru: актёр
+    rue: актор
+    sa: अभिनेता
+    sah: артыыс
+    sat: ᱯᱟᱯᱟᱴᱤᱭᱟᱹ
+    sc: atore
+    scn: atturi
+    sco: actor
+    sd: اداڪار
+    se: neavttár
+    sgs: aktuorios
+    sh: glumac
+    shn: ၽဢဵၵ်ႇ
+    si: නළුවා
+    sk: herec
+    skr: اداکار
+    sl: igralec
+    sma: dorjehtæjja
+    smj: oavdástalle
+    smn: čaittâleijee
+    sms: čuäjtõõlli
+    so: jilaa
+    sq: aktor
+    sr: глумац
+    sr-ec: глумац
+    sr-el: glumac
+    su: aktor
+    sv: skådespelare
+    sw: mwigizaji
+    szl: Szauszpiler
+    ta: நடிகர்
+    tcy: ನಲಿಕೆದಾಯೆ
+    te: నటులు
+    tg: ҳунарпеша
+    tg-cyrl: ҳунарманд
+    th: นักแสดง
+    tl: artista
+    tly: aktjor
+    tr: oyuncu
+    tt: актёр
+    tt-cyrl: актёр
+    tw: ɔyɛfoɔ
+    uk: актор
+    ur: اداکار
+    uz: aktyor
+    vec: ator
+    vep: akt'or
+    vi: diễn viên
+    vo: dramatan
+    wa: acteur
+    war: aktor
+    wuu: 演员
+    xmf: არტისტი
+    yi: אקטיאר
+    yo: òṣèré
+    yue: 演員
+    za: canghheiq
+    zgh: ⴰⵙⵎⴷⴰⵢ
+    zh: 演員
+    zh-cn: 演员
+    zh-hans: 演员
+    zh-hant: 演員
+    zh-hk: 演員
+    zh-mo: 演員
+    zh-my: 演员
+    zh-sg: 演员
+    zh-tw: 演員
+    zu: umlingisi
 ---
-
 # [[Actor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~actor,33999]] 

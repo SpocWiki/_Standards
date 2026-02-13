@@ -1,160 +1,223 @@
 ---
 aliases:
-  - Iliad
+- Iliad
+- Iliada
+- Iliada (suterot)
+- Iliade
+- Iliaden
+- Iliadi
+- Iliado
+- Ilias
+- Iliasz
+- Ilijada
+- Ilijade
+- iliyad
+- Iliāda
+- Illiada dástanı
+- Ilìad
+- Ilíada
+- Ilíonskviða
+- Ilîade
+- lipu Ilija
+- «Илиада» поэмасы
+- Îliyad
+- İliada
+- İliyad
+- İlyada
+- Ιλιάδα
+- Іліада
+- Іліяда
+- Илијада
+- Илиада
+- Իլիական
+- איליאדה
+- איליאדע
+- إليادة
+- ئیلیادە
+- الإلياذة
+- الالياذه
+- الیاد
+- ايليڊ
+- اِلیڈ
+- ایلیاد
+- ایلیڈ
+- इलियड
+- इलियाड
+- ইলিয়াড
+- ਇਲੀਆਡ
+- ઇલિયડ
+- ଇଲିଆଡ଼
+- இலியட்
+- ఇలియడ్
+- ಇಲಿಯಡ್
+- ഇലിയഡ്
+- ඉලියඩ්
+- อีเลียด
+- ཨེ་ལི་ཡེ་ཏེ།
+- အိလိယဒ်
+- ილიადა
+- ኢሊያዳ
+- Ἰλιάς
+- イーリアス
+- 伊利亚特
+- 伊利亞德
+- ꯏꯂꯤꯌꯥꯗ
+- 일리아스
+- "\U00010339\U0001033B\U00010339\U00010330\U00010343"
 has_id_wikidata: Q8275
 characters:
-  - '[[_Standards/WikiData/WD~Aeneas,82732]]'
-  - '[[_Standards/WikiData/WD~Leto,103107]]'
-  - '[[_Standards/WikiData/WD~Agamemnon,128176]]'
-  - '[[_Standards/WikiData/WD~Hebe,131125]]'
-  - '[[_Standards/WikiData/WD~Eris,140001]]'
-  - '[[_Standards/WikiData/WD~Hector,159666]]'
-  - '[[_Standards/WikiData/WD~Helen_of_Troy,164061]]'
-  - '[[_Standards/WikiData/WD~Paris,167646]]'
-  - '[[_Standards/WikiData/WD~Priam,170473]]'
-  - '[[_Standards/WikiData/WD~Cassandra,170779]]'
-  - '[[_Standards/WikiData/WD~Menelaus,171839]]'
-  - '[[_Standards/WikiData/WD~Ajax_the_Great,172725]]'
-  - '[[_Standards/WikiData/WD~Moirae,180287]]'
-  - '[[_Standards/WikiData/WD~Thetis,184437]]'
-  - '[[_Standards/WikiData/WD~Iris,184570]]'
-  - '[[_Standards/WikiData/WD~Patroclus,186271]]'
-  - '[[_Standards/WikiData/WD~Hypnos,189347]]'
-  - '[[_Standards/WikiData/WD~Nestor,193267]]'
-  - '[[_Standards/WikiData/WD~Hecuba,193433]]'
-  - '[[_Standards/WikiData/WD~Dione,199923]]'
-  - '[[_Standards/WikiData/WD~Diomedes,208256]]'
-  - '[[_Standards/WikiData/WD~Ajax_the_Lesser,242319]]'
-  - '[[_Standards/WikiData/WD~Acamas,348668]]'
-  - '[[_Standards/WikiData/WD~Myrmidons,466830]]'
-  - '[[_Standards/WikiData/WD~Machaon,674319]]'
-  - '[[_Standards/WikiData/WD~Calchas,725527]]'
-  - '[[_Standards/WikiData/WD~Deiphobus,736813]]'
-  - '[[_Standards/WikiData/WD~Asteropaios,748909]]'
-  - '[[_Standards/WikiData/WD~Sarpedon,762520]]'
-  - '[[_Standards/WikiData/WD~Dolon,854056]]'
-  - '[[_Standards/WikiData/WD~Pandarus,1057384]]'
-  - '[[_Standards/WikiData/WD~Rhesus_of_Thrace,1061782]]'
-  - '[[_Standards/WikiData/WD~Glaucus,1081453]]'
-  - '[[_Standards/WikiData/WD~Scamander,1134694]]'
-  - '[[_Standards/WikiData/WD~Eudoros,1331224]]'
-  - '[[_Standards/WikiData/WD~Paean_(god),1862189]]'
-  - '[[_Standards/WikiData/WD~Polypoetes,2103073]]'
-  - '[[_Standards/WikiData/WD~Peisander_and_Hippolochus,3135996]]'
-  - '[[_Standards/WikiData/WD~Alcimedon,3608994]]'
-  - '[[_Standards/WikiData/WD~Menesthius,3854652]]'
-  - '[[_Standards/WikiData/WD~Aphrodite,65770432]]'
-  - '[[_Standards/WikiData/WD~Artemis,65770440]]'
-  - '[[_Standards/WikiData/WD~Apollo,65770448]]'
-  - '[[_Standards/WikiData/WD~Andromache,19376]]'
-  - '[[_Standards/WikiData/WD~Zeus,34201]]'
-  - '[[_Standards/WikiData/WD~Athena,37122]]'
-  - '[[_Standards/WikiData/WD~Hera,38012]]'
-  - '[[_Standards/WikiData/WD~Ares,40901]]'
-  - '[[_Standards/WikiData/WD~Poseidon,41127]]'
-  - '[[_Standards/WikiData/WD~Hermes,41484]]'
-  - '[[_Standards/WikiData/WD~Achilles,41746]]'
-  - '[[_Standards/WikiData/WD~Hephaestus,44384]]'
-  - '[[_Standards/WikiData/WD~Odysseus,47231]]'
+- '[[_Standards/WikiData/WD~Aeneas,82732]]'
+- '[[_Standards/WikiData/WD~Leto,103107]]'
+- '[[_Standards/WikiData/WD~Agamemnon,128176]]'
+- '[[_Standards/WikiData/WD~Hebe,131125]]'
+- '[[_Standards/WikiData/WD~Eris,140001]]'
+- '[[_Standards/WikiData/WD~Hector,159666]]'
+- '[[_Standards/WikiData/WD~Helen_of_Troy,164061]]'
+- '[[_Standards/WikiData/WD~Paris,167646]]'
+- '[[_Standards/WikiData/WD~Priam,170473]]'
+- '[[_Standards/WikiData/WD~Cassandra,170779]]'
+- '[[_Standards/WikiData/WD~Menelaus,171839]]'
+- '[[_Standards/WikiData/WD~Ajax_the_Great,172725]]'
+- '[[_Standards/WikiData/WD~Moirae,180287]]'
+- '[[_Standards/WikiData/WD~Thetis,184437]]'
+- '[[_Standards/WikiData/WD~Iris,184570]]'
+- '[[_Standards/WikiData/WD~Patroclus,186271]]'
+- '[[_Standards/WikiData/WD~Hypnos,189347]]'
+- '[[_Standards/WikiData/WD~Nestor,193267]]'
+- '[[_Standards/WikiData/WD~Hecuba,193433]]'
+- '[[_Standards/WikiData/WD~Dione,199923]]'
+- '[[_Standards/WikiData/WD~Diomedes,208256]]'
+- '[[_Standards/WikiData/WD~Ajax_the_Lesser,242319]]'
+- '[[_Standards/WikiData/WD~Acamas,348668]]'
+- '[[_Standards/WikiData/WD~Myrmidons,466830]]'
+- '[[_Standards/WikiData/WD~Machaon,674319]]'
+- '[[_Standards/WikiData/WD~Calchas,725527]]'
+- '[[_Standards/WikiData/WD~Deiphobus,736813]]'
+- '[[_Standards/WikiData/WD~Asteropaios,748909]]'
+- '[[_Standards/WikiData/WD~Sarpedon,762520]]'
+- '[[_Standards/WikiData/WD~Dolon,854056]]'
+- '[[_Standards/WikiData/WD~Pandarus,1057384]]'
+- '[[_Standards/WikiData/WD~Rhesus_of_Thrace,1061782]]'
+- '[[_Standards/WikiData/WD~Glaucus,1081453]]'
+- '[[_Standards/WikiData/WD~Scamander,1134694]]'
+- '[[_Standards/WikiData/WD~Eudoros,1331224]]'
+- '[[_Standards/WikiData/WD~Paean_(god),1862189]]'
+- '[[_Standards/WikiData/WD~Polypoetes,2103073]]'
+- '[[_Standards/WikiData/WD~Peisander_and_Hippolochus,3135996]]'
+- '[[_Standards/WikiData/WD~Alcimedon,3608994]]'
+- '[[_Standards/WikiData/WD~Menesthius,3854652]]'
+- '[[_Standards/WikiData/WD~Aphrodite,65770432]]'
+- '[[_Standards/WikiData/WD~Artemis,65770440]]'
+- '[[_Standards/WikiData/WD~Apollo,65770448]]'
+- '[[_Standards/WikiData/WD~Andromache,19376]]'
+- '[[_Standards/WikiData/WD~Zeus,34201]]'
+- '[[_Standards/WikiData/WD~Athena,37122]]'
+- '[[_Standards/WikiData/WD~Hera,38012]]'
+- '[[_Standards/WikiData/WD~Ares,40901]]'
+- '[[_Standards/WikiData/WD~Poseidon,41127]]'
+- '[[_Standards/WikiData/WD~Hermes,41484]]'
+- '[[_Standards/WikiData/WD~Achilles,41746]]'
+- '[[_Standards/WikiData/WD~Hephaestus,44384]]'
+- '[[_Standards/WikiData/WD~Odysseus,47231]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Troy,186587]]'
-  - '[[_Standards/WikiData/WD~The_Fury_of_Achilles,340281]]'
-  - '[[_Standards/WikiData/WD~Helen_of_Troy,938924]]'
-  - '[[_Standards/WikiData/WD~Helena,3144892]]'
+- '[[_Standards/WikiData/WD~Troy,186587]]'
+- '[[_Standards/WikiData/WD~The_Fury_of_Achilles,340281]]'
+- '[[_Standards/WikiData/WD~Helen_of_Troy,938924]]'
+- '[[_Standards/WikiData/WD~Helena,3144892]]'
 followed_by:
-  - '[[_Standards/WikiData/WD~Aethiopis,410483]]'
-  - '[[_Standards/WikiData/WD~Posthomerica,1998710]]'
+- '[[_Standards/WikiData/WD~Aethiopis,410483]]'
+- '[[_Standards/WikiData/WD~Posthomerica,1998710]]'
 part_of_the_series: '[[_Standards/WikiData/WD~Epic_Cycle,578605]]'
 language_of_work_or_name:
-  - '[[_Standards/WikiData/WD~Homeric_Greek,990062]]'
-  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+- '[[_Standards/WikiData/WD~Homeric_Greek,990062]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 follows: '[[_Standards/WikiData/WD~Cypria,1075630]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Iliade_(Monti),3796407]]'
-  - '[[_Standards/WikiData/WD~The_Iliad_of_Homer,16547641]]'
-  - '[[_Standards/WikiData/WD~Iliad,17559055]]'
-  - '[[_Standards/WikiData/WD~Homérova_Ilias,17566229]]'
-  - '[[_Standards/WikiData/WD~The_Iliad,19090438]]'
-  - '[[_Standards/WikiData/WD~The_Iliad,19090444]]'
-  - '[[_Standards/WikiData/WD~The_Iliad_and_Odyssey_of_Homer,19090449]]'
-  - '[[_Standards/WikiData/WD~Iliad,19141031]]'
-  - '[[_Standards/WikiData/WD~Iliada,19141036]]'
-  - '[[_Standards/WikiData/WD~Les_Dix_Premiers_Livres_de_l_Iliade_d_Homère,19210515]]'
-  - '[[_Standards/WikiData/WD~The_Iliad_of_Homer,19828573]]'
-  - '[[_Standards/WikiData/WD~Iliade,21666067]]'
-  - "[[_Standards/WikiData/WD~Les_Unzième,_et_Douzième_Livres_de_l_Iliade_d'Homère,21714772]]"
-  - "[[_Standards/WikiData/WD~L'Iliade,21716706]]"
-  - "[[_Standards/WikiData/WD~L'Iliade,21716786]]"
-  - '[[_Standards/WikiData/WD~Iliade,21716827]]'
-  - "[[_Standards/WikiData/WD~L'Iliade,21716838]]"
-  - '[[_Standards/WikiData/WD~Iliade,21716844]]'
-  - "[[_Standards/WikiData/WD~L'Iliade,21716866]]"
-  - '[[_Standards/WikiData/WD~Ιλιάδα,23758941]]'
-  - '[[_Standards/WikiData/WD~The_Iliads_of_Homer_Prince_of_Poetts,30918410]]'
-  - '[[_Standards/WikiData/WD~La_Ilíada,32845498]]'
-  - '[[_Standards/WikiData/WD~Homérova_Ílias,48227927]]'
-  - '[[_Standards/WikiData/WD~La_Ilíada_de_Homero,49160069]]'
-  - '[[_Standards/WikiData/WD~The_story_of_the_Iliad,55816319]]'
-  - '[[_Standards/WikiData/WD~Homerowa_Iliada,59872993]]'
-  - '[[_Standards/WikiData/WD~Илиада,60552922]]'
-  - '[[_Standards/WikiData/WD~Iliada,60552957]]'
-  - '[[_Standards/WikiData/WD~La_Ilíada,64692417]]'
-  - '[[_Standards/WikiData/WD~Ílias,100388853]]'
-  - '[[_Standards/WikiData/WD~Ilias,105970742]]'
-  - '[[_Standards/WikiData/WD~Ilias,106691407]]'
-  - '[[_Standards/WikiData/WD~Іліяда,108764261]]'
-  - '[[_Standards/WikiData/WD~Q108847478,108847478]]'
-  - '[[_Standards/WikiData/WD~Q108859774,108859774]]'
-  - '[[_Standards/WikiData/WD~Iliad,112035656]]'
-  - '[[_Standards/WikiData/WD~Iliado,117086864]]'
-  - '[[_Standards/WikiData/WD~De_Ilias_van_Homeros,123158568]]'
-  - '[[_Standards/WikiData/WD~The_Iliad_of_Homer,124752215]]'
-  - '[[_Standards/WikiData/WD~Ιλιάδα,125179019]]'
-  - '[[_Standards/WikiData/WD~Homeri_Ilias,125518202]]'
-  - '[[_Standards/WikiData/WD~Homeri_Ilias,126617362]]'
-  - '[[_Standards/WikiData/WD~Iliaden,130378436]]'
+- '[[_Standards/WikiData/WD~Iliade_(Monti),3796407]]'
+- '[[_Standards/WikiData/WD~The_Iliad_of_Homer,16547641]]'
+- '[[_Standards/WikiData/WD~Iliad,17559055]]'
+- '[[_Standards/WikiData/WD~Homérova_Ilias,17566229]]'
+- '[[_Standards/WikiData/WD~The_Iliad,19090438]]'
+- '[[_Standards/WikiData/WD~The_Iliad,19090444]]'
+- '[[_Standards/WikiData/WD~The_Iliad_and_Odyssey_of_Homer,19090449]]'
+- '[[_Standards/WikiData/WD~Iliad,19141031]]'
+- '[[_Standards/WikiData/WD~Iliada,19141036]]'
+- '[[_Standards/WikiData/WD~Les_Dix_Premiers_Livres_de_l_Iliade_d_Homère,19210515]]'
+- '[[_Standards/WikiData/WD~The_Iliad_of_Homer,19828573]]'
+- '[[_Standards/WikiData/WD~Iliade,21666067]]'
+- "[[_Standards/WikiData/WD~Les_Unzième,_et_Douzième_Livres_de_l_Iliade_d'Homère,21714772]]"
+- "[[_Standards/WikiData/WD~L'Iliade,21716706]]"
+- "[[_Standards/WikiData/WD~L'Iliade,21716786]]"
+- '[[_Standards/WikiData/WD~Iliade,21716827]]'
+- "[[_Standards/WikiData/WD~L'Iliade,21716838]]"
+- '[[_Standards/WikiData/WD~Iliade,21716844]]'
+- "[[_Standards/WikiData/WD~L'Iliade,21716866]]"
+- '[[_Standards/WikiData/WD~Ιλιάδα,23758941]]'
+- '[[_Standards/WikiData/WD~The_Iliads_of_Homer_Prince_of_Poetts,30918410]]'
+- '[[_Standards/WikiData/WD~La_Ilíada,32845498]]'
+- '[[_Standards/WikiData/WD~Homérova_Ílias,48227927]]'
+- '[[_Standards/WikiData/WD~La_Ilíada_de_Homero,49160069]]'
+- '[[_Standards/WikiData/WD~The_story_of_the_Iliad,55816319]]'
+- '[[_Standards/WikiData/WD~Homerowa_Iliada,59872993]]'
+- '[[_Standards/WikiData/WD~Илиада,60552922]]'
+- '[[_Standards/WikiData/WD~Iliada,60552957]]'
+- '[[_Standards/WikiData/WD~La_Ilíada,64692417]]'
+- '[[_Standards/WikiData/WD~Ílias,100388853]]'
+- '[[_Standards/WikiData/WD~Ilias,105970742]]'
+- '[[_Standards/WikiData/WD~Ilias,106691407]]'
+- '[[_Standards/WikiData/WD~Іліяда,108764261]]'
+- '[[_Standards/WikiData/WD~Q108847478,108847478]]'
+- '[[_Standards/WikiData/WD~Q108859774,108859774]]'
+- '[[_Standards/WikiData/WD~Iliad,112035656]]'
+- '[[_Standards/WikiData/WD~Iliado,117086864]]'
+- '[[_Standards/WikiData/WD~De_Ilias_van_Homeros,123158568]]'
+- '[[_Standards/WikiData/WD~The_Iliad_of_Homer,124752215]]'
+- '[[_Standards/WikiData/WD~Ιλιάδα,125179019]]'
+- '[[_Standards/WikiData/WD~Homeri_Ilias,125518202]]'
+- '[[_Standards/WikiData/WD~Homeri_Ilias,126617362]]'
+- '[[_Standards/WikiData/WD~Iliaden,130378436]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~proem_of_the_Iliad,3922535]]'
-  - '[[_Standards/WikiData/WD~Book_I,123013542]]'
-  - '[[_Standards/WikiData/WD~Book_II,123013543]]'
-  - '[[_Standards/WikiData/WD~Book_V,123013546]]'
-  - '[[_Standards/WikiData/WD~Book_VI,123013547]]'
-  - '[[_Standards/WikiData/WD~Book_III,123013544]]'
-  - '[[_Standards/WikiData/WD~Book_IV,123013545]]'
-  - '[[_Standards/WikiData/WD~Book_IX,123013550]]'
-  - '[[_Standards/WikiData/WD~Book_X,123013551]]'
-  - '[[_Standards/WikiData/WD~Book_VII,123013548]]'
-  - '[[_Standards/WikiData/WD~Book_VIII,123013549]]'
-  - '[[_Standards/WikiData/WD~Book_XIII,123013554]]'
-  - '[[_Standards/WikiData/WD~Book_XIV,123013555]]'
-  - '[[_Standards/WikiData/WD~Book_XI,123013552]]'
-  - '[[_Standards/WikiData/WD~Book_XII,123013553]]'
-  - '[[_Standards/WikiData/WD~Book_XVII,123013558]]'
-  - '[[_Standards/WikiData/WD~Book_XVIII,123013559]]'
-  - '[[_Standards/WikiData/WD~Book_XV,123013556]]'
-  - '[[_Standards/WikiData/WD~Book_XVI,123013557]]'
-  - '[[_Standards/WikiData/WD~Book_XXI,123013562]]'
-  - '[[_Standards/WikiData/WD~Book_XXII,123013563]]'
-  - '[[_Standards/WikiData/WD~Book_XIX,123013560]]'
-  - '[[_Standards/WikiData/WD~Book_XX,123013561]]'
-  - '[[_Standards/WikiData/WD~Book_XXIII,123013564]]'
-  - '[[_Standards/WikiData/WD~Book_XXIV,123013565]]'
+- '[[_Standards/WikiData/WD~proem_of_the_Iliad,3922535]]'
+- '[[_Standards/WikiData/WD~Book_I,123013542]]'
+- '[[_Standards/WikiData/WD~Book_II,123013543]]'
+- '[[_Standards/WikiData/WD~Book_V,123013546]]'
+- '[[_Standards/WikiData/WD~Book_VI,123013547]]'
+- '[[_Standards/WikiData/WD~Book_III,123013544]]'
+- '[[_Standards/WikiData/WD~Book_IV,123013545]]'
+- '[[_Standards/WikiData/WD~Book_IX,123013550]]'
+- '[[_Standards/WikiData/WD~Book_X,123013551]]'
+- '[[_Standards/WikiData/WD~Book_VII,123013548]]'
+- '[[_Standards/WikiData/WD~Book_VIII,123013549]]'
+- '[[_Standards/WikiData/WD~Book_XIII,123013554]]'
+- '[[_Standards/WikiData/WD~Book_XIV,123013555]]'
+- '[[_Standards/WikiData/WD~Book_XI,123013552]]'
+- '[[_Standards/WikiData/WD~Book_XII,123013553]]'
+- '[[_Standards/WikiData/WD~Book_XVII,123013558]]'
+- '[[_Standards/WikiData/WD~Book_XVIII,123013559]]'
+- '[[_Standards/WikiData/WD~Book_XV,123013556]]'
+- '[[_Standards/WikiData/WD~Book_XVI,123013557]]'
+- '[[_Standards/WikiData/WD~Book_XXI,123013562]]'
+- '[[_Standards/WikiData/WD~Book_XXII,123013563]]'
+- '[[_Standards/WikiData/WD~Book_XIX,123013560]]'
+- '[[_Standards/WikiData/WD~Book_XX,123013561]]'
+- '[[_Standards/WikiData/WD~Book_XXIII,123013564]]'
+- '[[_Standards/WikiData/WD~Book_XXIV,123013565]]'
 form_of_creative_work: '[[_Standards/WikiData/WD~poem,5185279]]'
 used_metre: '[[_Standards/WikiData/WD~dactylic_hexameter,5254470]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~oral_poetry,7099402]]'
-  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
-  - '[[_Standards/WikiData/WD~epic_poem,37484]]'
+- '[[_Standards/WikiData/WD~oral_poetry,7099402]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~epic_poem,37484]]'
 part_of: '[[_Standards/WikiData/WD~Homeric_epics,65406137]]'
 narrative_motif:
-  - '[[_Standards/WikiData/WD~deities_intervene_in_battle,111806999]]'
-  - '[[_Standards/WikiData/WD~deity_flies_in_bird_plumage,111806997]]'
-  - '[[_Standards/WikiData/WD~deity_in_guise_of_mortal,115826995]]'
-  - '[[_Standards/WikiData/WD~deity_takes_form_of_particular_person_to_visit_mortals,122367121]]'
-  - '[[_Standards/WikiData/WD~deity_as_helper,123402506]]'
+- '[[_Standards/WikiData/WD~deities_intervene_in_battle,111806999]]'
+- '[[_Standards/WikiData/WD~deity_flies_in_bird_plumage,111806997]]'
+- '[[_Standards/WikiData/WD~deity_in_guise_of_mortal,115826995]]'
+- '[[_Standards/WikiData/WD~deity_takes_form_of_particular_person_to_visit_mortals,122367121]]'
+- '[[_Standards/WikiData/WD~deity_as_helper,123402506]]'
 Wolfram_Language_entity_code: Entity["Book", "Iliad"]
 entry_in_abbreviations_table: Hom. Il.
 Commons_category: Iliad
@@ -167,11 +230,177 @@ inception: -0800
 has_time_started: -0800
 author: '[[_Standards/WikiData/WD~Homer,6691]]'
 plot_expanded_in:
-  - '[[_Standards/WikiData/WD~Odyssey,35160]]'
-  - '[[_Standards/WikiData/WD~Aeneid,60220]]'
+- '[[_Standards/WikiData/WD~Odyssey,35160]]'
+- '[[_Standards/WikiData/WD~Aeneid,60220]]'
 genre: '[[_Standards/WikiData/WD~epic_poem,37484]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AmbrosianIliadPict47Achilles.jpg
 Libris_URI: 86lpxg5s21zpr23
+dv_has_:
+  name_:
+    af: Ilias
+    am: ኢሊያዳ
+    an: Iliada
+    anp: इलियाड
+    ar: الإلياذة
+    ary: إليادة
+    arz: الالياذه
+    as: ইলিয়াড
+    ast: Ilíada
+    avk: Iliada (suterot)
+    awa: इलियाड
+    az: İliada
+    azb: ایلیاد
+    ba: Илиада
+    bar: Ilias
+    bcl: Iliada
+    be: Іліяда
+    be-tarask: Іліяда
+    bg: Илиада
+    bn: ইলিয়াড
+    bo: ཨེ་ལི་ཡེ་ཏེ།
+    br: Ilias
+    bs: Ilijada
+    btm: Iliad
+    bxr: Илиада
+    ca: Ilíada
+    ce: Илиада
+    ckb: ئیلیادە
+    crh: İliada
+    cs: Ilias
+    cv: Илиада
+    cy: Iliad
+    da: Iliaden
+    de: Ilias
+    de-ch: Ilias
+    diq: İliyad
+    el: Ιλιάδα
+    en: Iliad
+    en-ca: Iliad
+    en-gb: Iliad
+    eo: Iliado
+    es: Ilíada
+    et: Ilias
+    eu: Iliada
+    fa: ایلیاد
+    fi: Ilias
+    fr: Iliade
+    frp: Iliada
+    fur: Iliade
+    fy: Ilias
+    ga: Iliad
+    gcr: Iliade
+    gl: Ilíada
+    gn: Ilíada
+    got: "\U00010339\U0001033B\U00010339\U00010330\U00010343"
+    grc: Ἰλιάς
+    gsw: Ilias
+    gu: ઇલિયડ
+    he: איליאדה
+    hi: इलियाड
+    hif: Iliad
+    hr: Ilijada
+    hu: Iliasz
+    hy: Իլիական
+    hyw: Իլիական
+    ia: Iliade
+    id: Iliad
+    ie: Ilias
+    ilo: Iliada
+    io: Iliado
+    is: Ilíonskviða
+    it: Iliade
+    ja: イーリアス
+    jam: Iliad
+    ka: ილიადა
+    kaa: Illiada dástanı
+    kk: Илиада
+    kn: ಇಲಿಯಡ್
+    knc: Iliad
+    ko: 일리아스
+    ks: اِلیڈ
+    ku: Îliyad
+    kw: Iliad
+    ky: «Илиада» поэмасы
+    la: Ilias
+    lb: Ilias
+    lfn: Iliada
+    li: Ilias
+    lij: Ilîade
+    lmo: Iliad
+    lt: Iliada
+    lv: Iliāda
+    map-bms: Iliad
+    mk: Илијада
+    ml: ഇലിയഡ്
+    mn: Илиада
+    mni: ꯏꯂꯤꯌꯥꯗ
+    mr: इलियड
+    ms: Iliad
+    mt: Ilijade
+    my: အိလိယဒ်
+    mzn: ایلیاد
+    nan: Ilias
+    nb: Iliaden
+    nds: Ilias
+    new: इलियाड
+    nl: Ilias
+    nn: Iliaden
+    nrm: Iliade
+    oc: Iliada
+    or: ଇଲିଆଡ଼
+    pa: ਇਲੀਆਡ
+    pcd: Iliade
+    pl: Iliada
+    pms: Ilìad
+    pnb: الیاد
+    ps: ایلیاد
+    pt: Ilíada
+    pt-br: Ilíada
+    pwn: iliyad
+    qu: Iliada
+    ro: Iliada
+    ru: Илиада
+    rue: Илиада
+    scn: Iliadi
+    sco: Iliad
+    sd: ايليڊ
+    sgs: Iliada
+    sh: Ilijada
+    si: ඉලියඩ්
+    sk: Iliada
+    sl: Iliada
+    sq: Iliada
+    sr: Илијада
+    sv: Iliaden
+    sw: Ilias
+    ta: இலியட்
+    te: ఇలియడ్
+    tg: Илиада
+    th: อีเลียด
+    tl: Iliada
+    tok: lipu Ilija
+    tr: İlyada
+    tt: Илиада
+    udm: Илиада
+    uk: Іліада
+    ur: ایلیڈ
+    uz: Iliada
+    vi: Iliad
+    vro: Ilias
+    war: Iliada
+    wuu: 伊利亚特
+    xmf: ილიადა
+    yi: איליאדע
+    yue: 伊利亞德
+    zh: 伊利亚特
+    zh-cn: 伊利亚特
+    zh-hans: 伊利亚特
+    zh-hant: 伊利亞德
+    zh-hk: 伊利亞德
+    zh-mo: 伊利亚特
+    zh-my: 伊利亚特
+    zh-sg: 伊利亚特
+    zh-tw: 伊利亞德
 ---
 # [[Iliad]]
 

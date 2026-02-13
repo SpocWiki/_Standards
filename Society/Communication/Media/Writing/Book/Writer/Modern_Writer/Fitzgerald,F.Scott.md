@@ -1,54 +1,90 @@
 ---
 aliases:
-  - Francis Scott Key Fitzgerald
-  - Scott Fitzgerald
-  - Fitzgerald
-  - Fitzgerald,F.Scott
+- F. Scott Fitzgerald
+- F. Skot Fitzçerald
+- F. 스콧 피츠제럴드
+- Fitsjerald Frensis Skott
+- Fitzgerald
+- Fitzgerald,F.Scott
+- Francis Scott Fitzgerald
+- Francis Scott Key Fitzgerald
+- Franciscus Scott Fitzgerald
+- Frensis Skot Ficdžerald
+- Frensis Skott Fitscerald
+- Frānsiss Skots Ficdžeralds
+- F・スコット・フィッツジェラルド
+- Scott Fitzgerald
+- Φράνσις Σκοτ Φιτζέραλντ
+- Ф. Скот Фитзҷералд
+- Ф. Скотт Фитцжералд
+- Франсис Скот Фицджералд
+- Френсіс Скотт Фіцджеральд
+- Френсис Скот Фицџералд
+- Фрэнсіс Скот Фіцджэральд
+- Фрэнсис Скотт Фицджеральд
+- Ֆրանսիս Սքոթ Ֆիթսժերալտ
+- Ֆրենսիս Սքոթ Ֆիցջերալդ
+- פרנסיס סקוט פיצג'רלד
+- اف. اسکات فیتزجرالد
+- ایف اسکاٹ فٹز جیرالڈ
+- فرانجس سجۆتت فتزگەرالد
+- فرنسيس سكوت فيتسجيرالد
+- एफ स्कट फिट्ज्गेराल्ड
+- এফ. স্কট ফিট্জেরাল্ড
+- ਸਕੌਟ ਫ਼ਿਟਜ਼ਜੇਰਾਲਡ
+- எப். ஸ்காட் பிட்ஸ்ஜெரால்ட்
+- ఎఫ్. స్కాట్ ఫిట్జ్గెరాల్డ్
+- സ്കോട്ട് ഫിറ്റ്സ്ജെറാൾഡ്
+- เอฟ. สกอตต์ ฟิตซ์เจอรัลด์
+- ფრენსის სკოტ ფიცჯერალდი
+- 弗朗西斯·斯科特·菲茨杰拉德
+- 法蘭西斯·史考特·費茲傑羅
+- 費茨傑羅
 has_id_wikidata: Q93354
 residence:
-  - '[[_Standards/WikiData/WD~Antibes,126898]]'
-  - '[[_Standards/WikiData/WD~Princeton,138518]]'
-  - '[[_Standards/WikiData/WD~Chesapeake_Bay,216868]]'
-  - '[[_Standards/WikiData/WD~Saint_Paul,28848]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
-  - '[[_Standards/WikiData/WD~Hollywood,34006]]'
-  - '[[_Standards/WikiData/WD~Buffalo,40435]]'
+- '[[_Standards/WikiData/WD~Antibes,126898]]'
+- '[[_Standards/WikiData/WD~Princeton,138518]]'
+- '[[_Standards/WikiData/WD~Chesapeake_Bay,216868]]'
+- '[[_Standards/WikiData/WD~Saint_Paul,28848]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Hollywood,34006]]'
+- '[[_Standards/WikiData/WD~Buffalo,40435]]'
 medical_condition: '[[_Standards/WikiData/WD~bipolar_disorder,131755]]'
 spouse: '[[_Standards/WikiData/WD~Zelda_Fitzgerald,187324]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Great_Gatsby,214371]]'
-  - '[[_Standards/WikiData/WD~Tender_Is_the_Night,247372]]'
+- '[[_Standards/WikiData/WD~The_Great_Gatsby,214371]]'
+- '[[_Standards/WikiData/WD~Tender_Is_the_Night,247372]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 relative: '[[_Standards/WikiData/WD~Francis_Scott_Key,320633]]'
 named_after: '[[_Standards/WikiData/WD~Francis_Scott_Key,320633]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Francis,1441346]]'
-  - '[[_Standards/WikiData/WD~Scott,2260734]]'
-  - '[[_Standards/WikiData/WD~Key,97107363]]'
+- '[[_Standards/WikiData/WD~Francis,1441346]]'
+- '[[_Standards/WikiData/WD~Scott,2260734]]'
+- '[[_Standards/WikiData/WD~Key,97107363]]'
 archives_at: '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 bibliography: '[[_Standards/WikiData/WD~F._Scott_Fitzgerald_bibliography,3884073]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 child: '[[_Standards/WikiData/WD~Frances_Scott_Fitzgerald,5478929]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Nardin_Academy,6965725]]'
-  - '[[_Standards/WikiData/WD~St._Paul_Academy_and_Summit_School,7591219]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Nardin_Academy,6965725]]'
+- '[[_Standards/WikiData/WD~St._Paul_Academy_and_Summit_School,7591219]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
 place_of_burial: "[[_Standards/WikiData/WD~St._Mary's_Catholic_Cemetery,10853396]]"
 award_received: '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
 family_name: '[[_Standards/WikiData/WD~Q55550590,55550590]]'
 copyright_status_as_a_creator:
-  - '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-  - '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
+- '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
 father: '[[_Standards/WikiData/WD~Edward_Fitzgerald,89823435]]'
 mother: '[[_Standards/WikiData/WD~Mary_McQuillan,96288180]]'
 date_of_birth: 1896-09-24T00:00:00Z
@@ -77,8 +113,114 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/F.%20Scott%20Fitzgeral
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/F%20Scott%20Fitzgerald%20Signature.svg
 ISNI: 0000000121033942
 Plex_person_key: 5d77684a2ec6b5001f6bf04a
+dv_has_:
+  name_:
+    af: F. Scott Fitzgerald
+    ar: فرنسيس سكوت فيتسجيرالد
+    arz: فرنسيس سكوت فيتسجيرالد
+    ast: F. Scott Fitzgerald
+    ay: F. Scott Fitzgerald
+    az: Frensis Skott Fitscerald
+    azb: اف. اسکات فیتزجرالد
+    be: Фрэнсіс Скот Фіцджэральд
+    be-tarask: Фрэнсіс Скот Фіцджэральд
+    bg: Франсис Скот Фицджералд
+    bn: এফ. স্কট ফিট্জেরাল্ড
+    bs: F. Scott Fitzgerald
+    ca: Francis Scott Fitzgerald
+    cs: Francis Scott Fitzgerald
+    cy: F. Scott Fitzgerald
+    da: Francis Scott Fitzgerald
+    de: F. Scott Fitzgerald
+    de-ch: F. Scott Fitzgerald
+    diq: F. Scott Fitzgerald
+    el: Φράνσις Σκοτ Φιτζέραλντ
+    en: F. Scott Fitzgerald
+    en-ca: F. Scott Fitzgerald
+    en-gb: F. Scott Fitzgerald
+    eo: F. Scott Fitzgerald
+    es: F. Scott Fitzgerald
+    et: Francis Scott Key Fitzgerald
+    eu: Francis Scott Fitzgerald
+    fa: اف. اسکات فیتزجرالد
+    fi: F. Scott Fitzgerald
+    fr: F. Scott Fitzgerald
+    ga: F. Scott Fitzgerald
+    gl: F. Scott Fitzgerald
+    he: פרנסיס סקוט פיצג'רלד
+    hr: Francis Scott Fitzgerald
+    ht: F. Scott Fitzgerald
+    hu: F. Scott Fitzgerald
+    hy: Ֆրենսիս Սքոթ Ֆիցջերալդ
+    hyw: Ֆրանսիս Սքոթ Ֆիթսժերալտ
+    id: F. Scott Fitzgerald
+    io: Francis Scott Fitzgerald
+    is: F. Scott Fitzgerald
+    it: Francis Scott Fitzgerald
+    ja: F・スコット・フィッツジェラルド
+    ka: ფრენსის სკოტ ფიცჯერალდი
+    kk: Фрэнсис Скотт Фицджеральд
+    ko: F. 스콧 피츠제럴드
+    ku: Francis Scott Fitzgerald
+    ku-arab: فرانجس سجۆتت فتزگەرالد
+    ku-latn: Francis Scott Fitzgerald
+    kw: F. Scott Fitzgerald
+    ky: Ф. Скотт Фитцжералд
+    la: Franciscus Scott Fitzgerald
+    lb: F. Scott Fitzgerald
+    li: F. Scott Fitzgerald
+    lt: Francis Scott Fitzgerald
+    lv: Frānsiss Skots Ficdžeralds
+    mg: F. Scott Fitzgerald
+    mk: Френсис Скот Фицџералд
+    ml: സ്കോട്ട് ഫിറ്റ്സ്ജെറാൾഡ്
+    ms: F. Scott Fitzgerald
+    mul: F. Scott Fitzgerald
+    nan: F. Scott Fitzgerald
+    nb: F. Scott Fitzgerald
+    new: एफ स्कट फिट्ज्गेराल्ड
+    nl: F. Scott Fitzgerald
+    nn: F. Scott Fitzgerald
+    oc: F. Scott Fitzgerald
+    pa: ਸਕੌਟ ਫ਼ਿਟਜ਼ਜੇਰਾਲਡ
+    pap: F. Scott Fitzgerald
+    pl: Francis Scott Fitzgerald
+    pt: F. Scott Fitzgerald
+    pt-br: F. Scott Fitzgerald
+    qu: F. Scott Fitzgerald
+    ro: F. Scott Fitzgerald
+    ru: Фрэнсис Скотт Фицджеральд
+    sco: F. Scott Fitzgerald
+    sh: F. Scott Fitzgerald
+    sk: Francis Scott Fitzgerald
+    sl: F. Scott Fitzgerald
+    sq: F. Scott Fitzgerald
+    sr: Frensis Skot Ficdžerald
+    sr-ec: Френсис Скот Фицџералд
+    sr-el: Frensis Skot Ficdžerald
+    sv: F. Scott Fitzgerald
+    ta: எப். ஸ்காட் பிட்ஸ்ஜெரால்ட்
+    te: ఎఫ్. స్కాట్ ఫిట్జ్గెరాల్డ్
+    tg: Ф. Скот Фитзҷералд
+    tg-latn: F. Skot Fitzçerald
+    th: เอฟ. สกอตต์ ฟิตซ์เจอรัลด์
+    tr: F. Scott Fitzgerald
+    uk: Френсіс Скотт Фіцджеральд
+    ur: ایف اسکاٹ فٹز جیرالڈ
+    uz: Fitsjerald Frensis Skott
+    vi: F. Scott Fitzgerald
+    war: F. Scott Fitzgerald
+    wuu: 弗朗西斯·斯科特·菲茨杰拉德
+    xmf: ფრენსის სკოტ ფიცჯერალდი
+    yue: 費茨傑羅
+    zh: 弗朗西斯·斯科特·菲茨杰拉德
+    zh-cn: 弗朗西斯·斯科特·菲茨杰拉德
+    zh-hans: 弗朗西斯·斯科特·菲茨杰拉德
+    zh-hant: 法蘭西斯·史考特·費茲傑羅
+    zh-hk: 弗朗西斯·斯科特·菲茨杰拉德
+    zh-sg: 弗朗西斯·斯科特·菲茨杰拉德
+    zh-tw: 法蘭西斯·史考特·費茲傑羅
 ---
-
 # [[Fitzgerald,F.Scott]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~F._Scott_Fitzgerald,93354|WD~F._Scott_Fitzgerald,93354]] 

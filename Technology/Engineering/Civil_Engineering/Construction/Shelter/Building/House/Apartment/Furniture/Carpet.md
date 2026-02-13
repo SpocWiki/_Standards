@@ -1,42 +1,255 @@
 ---
 aliases:
-  - Teppich
-  - Teppichboden
-  - Carpet
+- alfombra
+- alfonbra
+- Ambal
+- Brat-ùrlair
+- cairpéad
+- Carpet
+- catifa
+- covor
+- dywan
+- esteira
+- Gilam
+- Gilem
+- gulvtæppe
+- halı
+- Karipetra
+- Karpét
+- Ketipah
+- Kilem
+- kilimas
+- koberec
+- Kĩandarũa
+- Lapiak
+- Mato
+- matta
+- matto
+- máhtta
+- paklājs
+- Palpetlatl
+- Permadani
+- Permaidani
+- přestrjenc
+- Qilimi
+- rátnu
+- ráánu
+- szőnyeg
+- talna preproga
+- tapete
+- tapijt
+- tapis
+- tapiŝo
+- tappeto
+- Tappitu
+- Taṛakna
+- Teges pavimenti
+- Tepich
+- Tepih
+- teppe
+- Teppech
+- Teppich
+- Teppichboden
+- Thảm
+- vaip
+- xalça
+- xalîçe
+- Zulia
+- χαλί
+- Гилем
+- дыван
+- Кілем
+- Кавир
+- Келәм
+- Килем
+- килим
+- ковёр
+- Кумбо
+- Мокет
+- тепих
+- Хивс
+- գորգ
+- טעפעך
+- שטיח
+- خالچا
+- خالیچە
+- زولية
+- سجاد
+- غالۍ
+- قألیٖن
+- قالين
+- قالی
+- قالین
+- كىلەم
+- क़ालीन
+- गलैँचा
+- गालिचा
+- গালিচা
+- ਕਾਲੀਨ
+- கம்பளம்
+- ರತ್ನಗಂಬಳಿ
+- കാർപെറ്റ്
+- ကော်ဇော
+- တၢၼ်းသိူဝ်း
+- ᐊᓗᕐᓘᔭᐅᑦ
+- ᱫᱳᱨᱤ
+- 地毡
+- 地毯
+- 地氈
+- 氍毹
+- 絨毯
+- 융단
 has_id_wikidata: Q163446
 present_in_work: '[[_Standards/WikiData/WD~The_Big_Lebowski,337078]]'
 described_by_source:
-  - '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Q17776589,17776589]]'
-  - '[[_Standards/WikiData/WD~rug,104602244]]'
+- '[[_Standards/WikiData/WD~Q17776589,17776589]]'
+- '[[_Standards/WikiData/WD~rug,104602244]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~floor_covering,47011175]]'
-  - '[[_Standards/WikiData/WD~rug,104602244]]'
+- '[[_Standards/WikiData/WD~floor_covering,47011175]]'
+- '[[_Standards/WikiData/WD~rug,104602244]]'
 different_from:
-  - '[[_Standards/WikiData/WD~rug,104602244]]'
+- '[[_Standards/WikiData/WD~rug,104602244]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~synthetic_fiber,5856]]'
-  - '[[_Standards/WikiData/WD~wool,42329]]'
+- '[[_Standards/WikiData/WD~synthetic_fiber,5856]]'
+- '[[_Standards/WikiData/WD~wool,42329]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~textile,28823]]'
+- '[[_Standards/WikiData/WD~textile,28823]]'
 Nomenclature_for_Museum_Cataloging: 1043
 OmegaWiki_Defined_Meaning: 354528
 Commons_category: Rugs and carpets
 IMDb_keyword: carpet
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Tbilisi%2C%20Dywany%20na%20ulicy%20%28cropped%29.jpg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Antique%20Heriz%20Serapi%20Persian%20Carpet.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20carpet.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Antique%20Heriz%20Serapi%20Persian%20Carpet.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Black%20carpet.jpg
 Iconclass_notation: 41A431
 P8189: 987007284881905171
+dv_has_:
+  name_:
+    acm: زولية
+    ar: سجاد
+    ast: alfombra
+    az: xalça
+    azb: خالچا
+    be: дыван
+    be-tarask: дыван
+    bew: Ketipah
+    bg: Мокет
+    bjn: Ambal
+    bn: গালিচা
+    bs: Tepih
+    ca: catifa
+    cs: koberec
+    cv: Кавир
+    da: gulvtæppe
+    de: Teppich
+    el: χαλί
+    en: carpet
+    eo: tapiŝo
+    es: alfombra
+    et: vaip
+    eu: alfonbra
+    fa: قالی
+    fi: matto
+    fr: tapis
+    ga: cairpéad
+    gd: Brat-ùrlair
+    gl: esteira
+    he: שטיח
+    hi: क़ालीन
+    hr: Tepih
+    hsb: přestrjenc
+    hu: szőnyeg
+    hy: գորգ
+    id: Permadani
+    io: Mato
+    it: tappeto
+    iu: ᐊᓗᕐᓘᔭᐅᑦ
+    ja: 絨毯
+    kab: Taṛakna
+    ki: Kĩandarũa
+    kk: Кілем
+    kk-arab: كىلەم
+    kk-cn: كىلەم
+    kk-cyrl: Кілем
+    kk-kz: Кілем
+    kk-latn: Kilem
+    kk-tr: Kilem
+    kn: ರತ್ನಗಂಬಳಿ
+    ko: 융단
+    ks: قألیٖن
+    ku: xalîçe
+    ku-arab: خالیچە
+    ku-latn: xalîçe
+    ky: Килем
+    la: Teges pavimenti
+    lb: Teppech
+    lt: kilimas
+    lv: paklājs
+    lzh: 氍毹
+    mg: Karipetra
+    min: Lapiak
+    ml: കാർപെറ്റ്
+    mn: Хивс
+    mr: गालिचा
+    ms: Permaidani
+    my: ကော်ဇော
+    myv: Кумбо
+    nah: Palpetlatl
+    nb: teppe
+    ne: गलैँचा
+    nl: tapijt
+    nn: teppe
+    pa: ਕਾਲੀਨ
+    pl: dywan
+    ps: غالۍ
+    pt: tapete
+    ro: covor
+    ru: ковёр
+    sat: ᱫᱳᱨᱤ
+    scn: Tappitu
+    sd: قالين
+    se: rátnu
+    sh: tepih
+    shn: တၢၼ်းသိူဝ်း
+    sl: talna preproga
+    smj: máhtta
+    smn: ráánu
+    sq: Qilimi
+    sr: тепих
+    sr-ec: тепих
+    sr-el: tepih
+    su: Karpét
+    sv: matta
+    sw: Zulia
+    szl: Tepich
+    ta: கம்பளம்
+    tg: Гилем
+    tg-latn: Gilem
+    tr: halı
+    tt: Келәм
+    uk: килим
+    ur: قالین
+    uz: Gilam
+    vi: Thảm
+    wuu: 地毯
+    yi: טעפעך
+    yue: 地毡
+    zh: 地毯
+    zh-cn: 地毯
+    zh-hans: 地毯
+    zh-hant: 地毯
+    zh-hk: 地氈
+    zh-sg: 地毯
+    zh-tw: 地毯
 ---
-
 # [[Carpet]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Carpet,163446|WD~Carpet,163446]]

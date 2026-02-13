@@ -1,5 +1,16 @@
-
-
+---
+has_id_wikidata: Q1390074
+dv_has_:
+  name_:
+    de: Fabasoft
+    de-at: Fabasoft
+    en: Fabasoft
+    fr: Fabasoft
+    nl: Fabasoft
+    ru: Fabasoft
+aliases:
+- Fabasoft
+---
 ## #has_/text_of_/abstract 
 
 > **Fabasoft** AG is a software manufacturer headquartered in Linz, Upper Austria. 

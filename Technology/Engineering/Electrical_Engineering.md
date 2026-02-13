@@ -1,28 +1,117 @@
 ---
 aliases:
-  - Electrical engineering
-  - Elektroingenieur
-  - Electrical_Engineering
-  - Electrical Engineering
+- Ars electrica
+- dikca mi'irlarcu
+- Electrical engineering
+- electrical ingineerin
+- Electrical_Engineering
+- electrotehnică
+- electrotècnia
+- Elektirikaal injinariingii
+- elektrik mühendisliği
+- elektrik mühəndisliyi
+- Elektrik İnženerligi
+- Elektroingenieur
+- elektroniese ingenieurswese
+- elektrotechniek
+- Elektrotechnik
+- elektrotechnika
+- Elektrotechnyk
+- elektrotehnika
+- elektroteknik
+- elektroteknika
+- elektroteknikk
+- elektrotexnika
+- elektroteĥniko
+- Eletrotecnega
+- elettrotecnica
+- Endezyariya elektrîkê
+- engenharia elétrica
+- enxeñaría eléctrica
+- ełetrotècnega
+- ingeniaritza elektriko
+- ingenieria electric
+- ingeniería eléctrica
+- Inhenyeriya elektrika
+- Inhenyeriyang elektriko
+- Inhinyeriyang elektrikal
+- innealtóireacht leictreach
+- inxeniería llétrica
+- inġinerija elettrika
+- Iṣẹ́ẹ̀rọ onítanná
+- kejuruteraan elektrik
+- kỹ thuật điện
+- Peirianneg drydanol
+- rafmagnsverkfræði
+- Sähkötehniekku
+- sähkötekniikka
+- teknik elektro
+- Teknik listrik
+- Tiān-ki kang-têng
+- uhandisi wa umeme
+- UmNgcikisho wamazuba
+- Xaralaymbëj
+- électrotechnique
+- šleađgateknihkka
+- šleđgâtekniik
+- ηλεκτρολογία μηχανική
+- електротехніка
+- Електротехника
+- Цахилгаан техник
+- электратэхніка
+- электротехника
+- электртехника
+- էլեկտրատեխնիկա
+- הנדסת חשמל
+- עלעקטרא-טעכניק
+- ئەندازیاریی کارەبا
+- بجلي جي انجنيئرنگ
+- برقی ہندسیات
+- برېښنايي انجنيري
+- مهندسی برق
+- هندسة الكهرباء
+- هندسة كهربا
+- विद्युत अभियांत्रिकी
+- विद्युतीय अभियान्त्रिकी
+- वैद्युत अभियान्त्रिकी
+- তড়িৎ ও বৈদ্যুতিন প্রকৌশল
+- বৈদ্যুতিক অভিযান্ত্ৰিকী
+- ਬਿਜਲਈ ਅਭਿਆਂਤਰਿਕੀ
+- વિદ્યુત ઇજનેરી
+- ବିଦ୍ୟୁତ୍ ଓ ଅଭିବିଦ୍ୟୁତ୍ ସଙ୍କ୍ରାନ୍ତୀୟ ବୈଷୟିକ ବିଜ୍ଞାନ
+- மின்பொறியியல்
+- ఎలక్ట్రికల్ ఇంజనీరింగ్
+- ഇലക്ട്രിക്കൽ എൻജിനീയറിംഗ്
+- විද්යුත් ඉංජිනේරු විද්යාව
+- วิศวกรรมไฟฟ้า
+- လျှပ်စစ်အင်ဂျင်နီယာ ဘာသာရပ်
+- ელექტროტექნიკა
+- ኤሌክትሪክ ምህንድስና
+- ⵜⴰⵏⵣⴳⴳⵉⵜ ⵜⴰⵎⵥⵥⴰⵕⵓⵕⵜ
+- 电气工程学
+- 電機工程
+- 電機工程學
+- 電気工学
+- 전기공학
 has_id_wikidata: Q43035
 different_from:
-  - '[[_Standards/WikiData/WD~electronic_engineering,126095]]'
-  - '[[_Standards/WikiData/WD~electrotechnology,4531103]]'
+- '[[_Standards/WikiData/WD~electronic_engineering,126095]]'
+- '[[_Standards/WikiData/WD~electrotechnology,4531103]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Kyrgyz_Soviet_Encyclopedia,1188287]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Kyrgyz_Soviet_Encyclopedia,1188287]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
-  - '[[_Standards/WikiData/WD~electrotechnician,1327627]]'
+- '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
+- '[[_Standards/WikiData/WD~electrotechnician,1327627]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_electrical_engineering,2986470]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
 studied_by: '[[_Standards/WikiData/WD~computer_science_and_engineering,11492827]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Electrical_engineering,63138207]]'
 subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
@@ -40,8 +129,137 @@ Commons_category: Electrical engineering
 GitHub_topic: electrical-engineering
 subreddit: ElectricalEngineering
 vocalized_name: הַנְדָּסַת חַשְׁמַל
+dv_has_:
+  name_:
+    af: elektroniese ingenieurswese
+    am: ኤሌክትሪክ ምህንድስና
+    ar: هندسة الكهرباء
+    arz: هندسة كهربا
+    as: বৈদ্যুতিক অভিযান্ত্ৰিকী
+    ast: inxeniería llétrica
+    az: elektrik mühəndisliyi
+    ba: Электротехника
+    bar: Elektrotechnik
+    bcl: Inhinyeriyang elektrikal
+    be: электратэхніка
+    be-tarask: электратэхніка
+    bg: Електротехника
+    bn: তড়িৎ ও বৈদ্যুতিন প্রকৌশল
+    bs: elektrotehnika
+    ca: electrotècnia
+    ckb: ئەندازیاریی کارەبا
+    cs: elektrotechnika
+    cy: Peirianneg drydanol
+    da: elektroteknik
+    de: Elektrotechnik
+    de-ch: Elektrotechnik
+    el: ηλεκτρολογία μηχανική
+    en: electrical engineering
+    en-ca: Electrical engineering
+    en-gb: electrical engineering
+    eo: elektroteĥniko
+    es: ingeniería eléctrica
+    et: elektrotehnika
+    eu: ingeniaritza elektriko
+    fa: مهندسی برق
+    fi: sähkötekniikka
+    fr: électrotechnique
+    fy: Elektrotechnyk
+    ga: innealtóireacht leictreach
+    gl: enxeñaría eléctrica
+    gsw: Elektrotechnik
+    gu: વિદ્યુત ઇજનેરી
+    he: הנדסת חשמל
+    hi: वैद्युत अभियान्त्रिकी
+    hr: elektrotehnika
+    hu: elektrotechnika
+    hy: էլեկտրատեխնիկա
+    ia: ingenieria electric
+    id: teknik elektro
+    is: rafmagnsverkfræði
+    it: elettrotecnica
+    ja: 電気工学
+    jbo: dikca mi'irlarcu
+    ka: ელექტროტექნიკა
+    kk: электртехника
+    kk-cyrl: электртехника
+    ko: 전기공학
+    ku: Endezyariya elektrîkê
+    ky: электротехника
+    la: Ars electrica
+    lb: Elektrotechnik
+    lmo: Eletrotecnega
+    lt: elektrotechnika
+    lv: elektrotehnika
+    mag: वैद्युत अभियान्त्रिकी
+    min: Teknik listrik
+    mk: електротехника
+    ml: ഇലക്ട്രിക്കൽ എൻജിനീയറിംഗ്
+    mn: Цахилгаан техник
+    mr: विद्युत अभियांत्रिकी
+    ms: kejuruteraan elektrik
+    mt: inġinerija elettrika
+    my: လျှပ်စစ်အင်ဂျင်နီယာ ဘာသာရပ်
+    nan: Tiān-ki kang-têng
+    nb: elektroteknikk
+    nds: Elektrotechnik
+    ne: विद्युतीय अभियान्त्रिकी
+    nl: elektrotechniek
+    nn: elektroteknikk
+    olo: Sähkötehniekku
+    om: Elektirikaal injinariingii
+    or: ବିଦ୍ୟୁତ୍ ଓ ଅଭିବିଦ୍ୟୁତ୍ ସଙ୍କ୍ରାନ୍ତୀୟ ବୈଷୟିକ ବିଜ୍ଞାନ
+    pa: ਬਿਜਲਈ ਅਭਿਆਂਤਰਿਕੀ
+    pl: elektrotechnika
+    ps: برېښنايي انجنيري
+    pt: engenharia elétrica
+    ro: electrotehnică
+    ru: электротехника
+    rue: електротехніка
+    sco: electrical ingineerin
+    sd: بجلي جي انجنيئرنگ
+    se: šleađgateknihkka
+    sh: elektrotehnika
+    si: විද්යුත් ඉංජිනේරු විද්යාව
+    sk: elektrotechnika
+    sl: elektrotehnika
+    smn: šleđgâtekniik
+    sq: elektroteknika
+    sr: електротехника
+    stq: Elektrotechnik
+    sv: elektroteknik
+    sw: uhandisi wa umeme
+    ta: மின்பொறியியல்
+    te: ఎలక్ట్రికల్ ఇంజనీరింగ్
+    tg: Электротехника
+    th: วิศวกรรมไฟฟ้า
+    tk: Elektrik İnženerligi
+    tl: Inhenyeriyang elektriko
+    tr: elektrik mühendisliği
+    tt: электротехника
+    uk: електротехніка
+    ur: برقی ہندسیات
+    uz: elektrotexnika
+    vec: ełetrotècnega
+    vi: kỹ thuật điện
+    war: Inhenyeriya elektrika
+    wo: Xaralaymbëj
+    wuu: 电气工程学
+    xmf: ელექტროტექნიკა
+    yi: עלעקטרא-טעכניק
+    yo: Iṣẹ́ẹ̀rọ onítanná
+    yue: 電機工程
+    zgh: ⵜⴰⵏⵣⴳⴳⵉⵜ ⵜⴰⵎⵥⵥⴰⵕⵓⵕⵜ
+    zh: 電機工程學
+    zh-cn: 电气工程学
+    zh-hans: 电气工程学
+    zh-hant: 電機工程學
+    zh-hk: 電機工程學
+    zh-mo: 電機工程學
+    zh-sg: 电气工程学
+    zh-tw: 電機工程學
+    zu: UmNgcikisho wamazuba
 ---
-
 # [[Electrical_Engineering]] 
 
 #is_/same_as :: [[../../WikiData/WD~Electrical_engineering,43035|WD~Electrical_engineering,43035]] 

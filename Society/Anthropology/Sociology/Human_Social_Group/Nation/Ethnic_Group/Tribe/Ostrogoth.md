@@ -1,22 +1,168 @@
 ---
 aliases:
+- Austgotarar
+- Idagoodid
+- Istočni Goti
+- Ostgotai
+- Ostgoten
+- Ostgoti
+- Ostgotlar
+- Ostrogoaten
+- Ostrogoci
+- Ostrogodo
+- Ostrogodos
+- ostrogootit
+- Ostrogoted
+- Ostrogoten
+- ostrogoter
+- Ostrogoterne
+- Ostrogoth
+- Ostrogothi
+- Ostrogothiaid
+- Ostrogoths
+- Ostrogoti
+- Ostrogotlar
+- Ostrogotoj
+- Ostrogotos
+- ostrogots
+- Ostrogotët
+- Ostrogoți
+- Ostrogóti
+- Ostroqotlar
+- osztrogótok
+- pueblo ostrogodo
+- Waostrogoti
+- Østgotere
+- Οστρογότθοι
+- Остготи
+- Остготлар
+- Остготсем
+- остготтæ
+- Остготтар
+- Остготы
+- Остроготи
+- Օստգոթեր
+- אוסטרוגותים
+- اوستروجوث
+- اوستروگوتها
+- اوسٹروگاتھ
+- خارتوئیج گوتئون
+- قوط شرقيون
+- ഓസ്ട്രോഗോത്ത്
+- ชาวออสโตรกอท
+- ოსტგუთები
+- 东哥德人
+- 东哥特人
+- 東ゴート族
+- 東哥德人
+- 동고트족
+- "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U00010332\U0001033F\U00010344\U00010330"
 has_id_wikidata: Q103122
-subclass_of: "[[_Standards/WikiData/WD~tribe,133311]]"
+subclass_of: '[[_Standards/WikiData/WD~tribe,133311]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-has_part_s_: "[[_Standards/WikiData/WD~Greuthungi,1400317]]"
-instance_of: "[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+has_part_s_: '[[_Standards/WikiData/WD~Greuthungi,1400317]]'
+instance_of: '[[_Standards/WikiData/WD~historical_ethnic_group,4204501]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mausoleum%20of%20Theodoric%20%28Ravenna%29%20-%20Exterior.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Ostrogothic%20Kingdom.svg
 Krugosvet_article_archived_: istoriya/OSTGOTI.html
 Commons_gallery: Ostrogoths
 Commons_category: Ostrogoths
+dv_has_:
+  name_:
+    an: Ostrogodos
+    ar: قوط شرقيون
+    arz: اوستروجوث
+    ast: Ostrogodos
+    az: Ostroqotlar
+    ba: Остготтар
+    be: Остготы
+    be-tarask: остготы
+    bg: Остготи
+    br: Ostrogoted
+    ca: ostrogots
+    cs: Ostrogóti
+    cv: Остготсем
+    cy: Ostrogothiaid
+    da: Ostrogoterne
+    de: Ostgoten
+    el: Οστρογότθοι
+    en: Ostrogoths
+    eo: Ostrogotoj
+    es: pueblo ostrogodo
+    et: Idagoodid
+    eu: Ostrogodo
+    fa: اوستروگوتها
+    fi: ostrogootit
+    fr: Ostrogoths
+    fy: Ostrogoaten
+    gl: Ostrogodos
+    got: "\U00010330\U0001033F\U00010343\U00010344\U00010342\U00010330\U00010332\U0001033F\U00010344\U00010330"
+    gsw: Ostgoten
+    he: אוסטרוגותים
+    hr: Istočni Goti
+    hu: osztrogótok
+    hy: Օստգոթեր
+    id: Ostrogoth
+    io: Ostrogoti
+    it: Ostrogoti
+    ja: 東ゴート族
+    ka: ოსტგუთები
+    ko: 동고트족
+    la: Ostrogothi
+    lfn: Ostrogotos
+    lmo: Ostrogoti
+    lt: Ostgotai
+    lv: Ostgoti
+    mk: Остроготи
+    ml: ഓസ്ട്രോഗോത്ത്
+    ms: Ostrogoth
+    mwl: Ostrogodos
+    mzn: خارتوئیج گوتئون
+    nb: Østgotere
+    nds: Ostgoten
+    nl: Ostrogoten
+    nn: Austgotarar
+    oc: Ostrogoths
+    os: остготтæ
+    pl: Ostrogoci
+    pt: Ostrogodos
+    ro: Ostrogoți
+    ru: Остготы
+    sc: Ostrogotos
+    scn: Ostrogoti
+    sco: Ostrogoths
+    sh: Ostrogoti
+    sk: Ostrogóti
+    sl: Ostrogoti
+    sq: Ostrogotët
+    sr: Остроготи
+    sr-ec: Остроготи
+    sr-el: Ostrogoti
+    sv: ostrogoter
+    sw: Waostrogoti
+    th: ชาวออสโตรกอท
+    tl: Ostrogodo
+    tr: Ostrogotlar
+    tt: Остготлар
+    uk: Остготи
+    ur: اوسٹروگاتھ
+    uz: Ostgotlar
+    vi: Ostrogoth
+    wuu: 东哥特人
+    yue: 東哥德人
+    zh: 東哥德人
+    zh-cn: 东哥特人
+    zh-hans: 东哥特人
+    zh-hant: 東哥德人
+    zh-hk: 東哥德人
+    zh-sg: 东哥德人
+    zh-tw: 東哥德人
 ---
-
 # [[Ostrogoth]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ostrogoths,103122|WD~Ostrogoths,103122]]  

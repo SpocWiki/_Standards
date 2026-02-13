@@ -1,17 +1,120 @@
 ---
 aliases:
+- Algarvoteorem
+- Alkulukulause
+- asal sayı teoremi
+- pirminio skaičiaus teorema
+- praštevilski izrek
+- priemgetalstelling
+- Primanumaleset
+- prime number theorem
+- primtalssatsen
+- Primzahlsatz
+- Prvočíselná věta
+- prímszámtétel
+- Teorem nombor perdana
+- teorema bilangan prima
+- Teorema de los númberos primos
+- Teorema de los números primos
+- Teorema dei numeri primi
+- Teorema dels nombre primers
+- Teorema dij nùmer prim
+- Teorema do número primo
+- teorema dos números primos
+- Teorema numerelor prime
+- Teorema prostih brojeva
+- teoremo pri distribuo de primoj
+- théorème des nombres premiers
+- Tiurema dî nùmmura primi
+- twierdzenie o liczbach pierwszych
+- zenbaki lehenen teorema
+- Định lý số nguyên tố
+- Θεώρημα πρώτων αριθμών
+- Теорема за прости броеви
+- Теорема за разпределението на простите числа
+- теорема о распределении простых чисел
+- теорема про розподіл простих чисел
+- тэарэма аб простым ліку
+- ябай һандарҙың таралыуы тураһында теорема
+- Պարզ թվերի թեորեմ
+- משפט המספרים הראשוניים
+- مبرهنة الأعداد الأولية
+- نظریه اعداد اول
+- মৌলিক সংখ্যা উপপাদ্য
+- 素数定理
+- 素數定理
+- 質數分佈定理
+- 質數定理
+- 质数定理
+- 소수 정리
 has_id_wikidata: Q386292
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
 proved_by:
-  - "[[_Standards/WikiData/WD~Jacques_Hadamard,164425]]"
-  - "[[_Standards/WikiData/WD~Charles_Jean_de_la_Vallée_Poussin,982518]]"
-part_of: "[[_Standards/WikiData/WD~list_of_theorems,944443]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-studied_by: "[[_Standards/WikiData/WD~analytic_number_theory,10843274]]"
+- '[[_Standards/WikiData/WD~Jacques_Hadamard,164425]]'
+- '[[_Standards/WikiData/WD~Charles_Jean_de_la_Vallée_Poussin,982518]]'
+part_of: '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+studied_by: '[[_Standards/WikiData/WD~analytic_number_theory,10843274]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><munder><mi form="prefix">lim</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>x</mi><mo stretchy="false" accent="false">&#x2192;</mo><mi mathvariant="normal">&#x221E;</mi></mrow></mrow></munder><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03C0;</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>x</mi><mo lspace="0" rspace="0">/</mo><mi>log</mi><mo>&#x2061;</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mrow></mfrac></mrow><mo stretchy="false">=</mo><mn>1</mn></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PrimeNumberTheorem.png
+dv_has_:
+  name_:
+    ar: مبرهنة الأعداد الأولية
+    ast: Teorema de los númberos primos
+    ba: ябай һандарҙың таралыуы тураһында теорема
+    be-tarask: тэарэма аб простым ліку
+    bg: Теорема за разпределението на простите числа
+    bn: মৌলিক সংখ্যা উপপাদ্য
+    ca: Teorema dels nombre primers
+    cs: Prvočíselná věta
+    de: Primzahlsatz
+    el: Θεώρημα πρώτων αριθμών
+    en: prime number theorem
+    eo: teoremo pri distribuo de primoj
+    es: Teorema de los números primos
+    eu: zenbaki lehenen teorema
+    fa: نظریه اعداد اول
+    fi: Alkulukulause
+    fr: théorème des nombres premiers
+    gl: Teorema do número primo
+    he: משפט המספרים הראשוניים
+    hu: prímszámtétel
+    hy: Պարզ թվերի թեորեմ
+    id: teorema bilangan prima
+    it: Teorema dei numeri primi
+    ja: 素数定理
+    ko: 소수 정리
+    lt: pirminio skaičiaus teorema
+    lzh: 質數分佈定理
+    mk: Теорема за прости броеви
+    ms: Teorem nombor perdana
+    nl: priemgetalstelling
+    pl: twierdzenie o liczbach pierwszych
+    pms: Teorema dij nùmer prim
+    pt: teorema dos números primos
+    pt-br: teorema dos números primos
+    ro: Teorema numerelor prime
+    ru: теорема о распределении простых чисел
+    scn: Tiurema dî nùmmura primi
+    sl: praštevilski izrek
+    sr: Teorema prostih brojeva
+    sv: primtalssatsen
+    tr: asal sayı teoremi
+    uk: теорема про розподіл простих чисел
+    ur: Prime number theorem
+    vi: Định lý số nguyên tố
+    vo: Primanumaleset
+    vro: Algarvoteorem
+    wuu: 质数定理
+    yue: 質數定理
+    zh: 素數定理
+    zh-cn: 素数定理
+    zh-hans: 素数定理
+    zh-hant: 質數定理
+    zh-hk: 質數定理
+    zh-sg: 素数定理
+    zh-tw: 質數定理
 ---
-
 # [[Prime_Number_Theorem]] 
 
 #is_/same_as :: [[WD~Prime_number_theorem,386292]] 

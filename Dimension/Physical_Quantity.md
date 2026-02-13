@@ -1,40 +1,247 @@
 ---
 aliases:
-  - physical quantity
-  - Physical_Quantity
-  - Physical Quantity
+- besaran
+- cainníocht fhisiceach
+- cantidá física
+- chhikan kay
+- fizik kattalik
+- fizika grando
+- fizikai mennyiség
+- fizikala quanteso
+- fizikalna veličina
+- fizikalıq shama
+- fiziki kəmiyyət
+- fizikinis dydis
+- fiziksel nicelik
+- fizikāls lielums
+- fizička veličina
+- fysikalisk storhet
+- fysisk storleik
+- fysisk størrelse
+- fyzikaliska wulkosć
+- fyzikálna veličina
+- fyzikální veličina
+- fïzïkalıq şama
+- füüsikaline suurus
+- grandesa fìzega
+- grandeur physique
+- grandeza física
+- grandezza fisica
+- grandor physic
+- grandëssa fìsica
+- grannizza fìsica
+- kuantiti fizikal
+- magnitud física
+- magnitude fisiko
+- magnitude física
+- maint corfforol
+- mjerna veličina
+- myns fysegel
+- mărime fizică
+- natuurkundige grootheid
+- pheesical quantity
+- physical quantity
+- Physical_Quantity
+- Physikaalsch Grött
+- Physikalesch Gréisst
+- physikalische Grösse
+- physikalische Größe
+- pwopriyete fizik
+- quantitas physica
+- quantitat fisica
+- sasi fizike
+- sturrodat
+- sturrudak
+- stuárus
+- suure
+- vakayago iwiliwili
+- wielkość fizyczna
+- đại lượng vật lý
+- šorrõk
+- φυσικό μέγεθος
+- воҳиди физикӣ
+- кап
+- фізічныя велічыні
+- фізична величина
+- фізычная велічыня
+- физик дәүмәл
+- физик зурлык
+- физикална величина
+- физикалық шама
+- физическая величина
+- физичка величина
+- физична величина
+- ֆիզիկական մեծություն
+- גודל פיזיקלי
+- פיזישער גרייס
+- طبيعي مقدار
+- فىيزىيكالىق شاما
+- كمية فيزيائية
+- مادی مقدار
+- مادی میقدار
+- کمیت فیزیکی
+- کوانتيتي فيزيکل
+- भौतिक राशि
+- भौतिक राशी
+- ভৌত রাশি
+- ভৌতিক ৰাশি
+- ਭੌਤਿਕ ਮਾਤਰਾ
+- ભૌતિક રાશિ
+- இயற்பியல் பண்பளவுகள்
+- భౌతిక విలువ
+- ഭൗതിക അളവ്
+- භෞතික ගුණ
+- ปริมาณทางกายภาพ
+- ფიზიკური სიდიდე
+- 物理量
+- 물리량
 has_id_wikidata: Q107715
 has_list: '[[_Standards/WikiData/WD~list_of_physical_quantities,916091]]'
 different_from:
-  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
-  - '[[_Standards/WikiData/WD~state_of_matter,11430]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~state_of_matter,11430]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
-  - '[[_Standards/WikiData/WD~individual_quantity,71550118]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~individual_quantity,71550118]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_physical_quantity,8761512]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~physical_sciences,14632398]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~physical_sciences,14632398]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of: '[[_Standards/WikiData/WD~general_quantity,71758646]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~quantity_value,110597311]]'
-  - '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
+- '[[_Standards/WikiData/WD~quantity_value,110597311]]'
+- '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
 properties_for_this_type:
-  - quantity symbol (string)
-  - ISQ dimension
+- quantity symbol (string)
+- ISQ dimension
 Wikidata_property:
-  - measures
-  - Wolfram Language quantity ID
-  - measured physical quantity
+- measures
+- Wolfram Language quantity ID
+- measured physical quantity
 OmegaWiki_Defined_Meaning: 396549
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Amp%C3%A8remetre.jpg
 Commons_category: Physical quantities
 described_at_URL:
-  - https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/01%3A_The_Nature_of_Science_and_Physics/1.02%3A_Physical_Quantities_and_Units
-  - https://texasgateway.org/resource/13-language-physics-physical-quantities-and-units
+- https://phys.libretexts.org/Bookshelves/College_Physics/College_Physics_1e_(OpenStax)/01%3A_The_Nature_of_Science_and_Physics/1.02%3A_Physical_Quantities_and_Units
+- https://texasgateway.org/resource/13-language-physics-physical-quantities-and-units
+dv_has_:
+  name_:
+    ar: كمية فيزيائية
+    as: ভৌতিক ৰাশি
+    ast: cantidá física
+    az: fiziki kəmiyyət
+    ba: физик дәүмәл
+    be: фізічныя велічыні
+    be-tarask: фізычная велічыня
+    bg: физична величина
+    bn: ভৌত রাশি
+    bs: mjerna veličina
+    ca: magnitud física
+    cs: fyzikální veličina
+    cv: кап
+    cy: maint corfforol
+    da: fysisk størrelse
+    de: physikalische Größe
+    de-ch: physikalische Grösse
+    el: φυσικό μέγεθος
+    en: physical quantity
+    en-ca: physical quantity
+    en-gb: physical quantity
+    eo: fizika grando
+    es: magnitud física
+    et: füüsikaline suurus
+    eu: magnitude fisiko
+    fa: کمیت فیزیکی
+    fi: suure
+    fj: vakayago iwiliwili
+    fr: grandeur physique
+    ga: cainníocht fhisiceach
+    gl: magnitude física
+    gu: ભૌતિક રાશિ
+    he: גודל פיזיקלי
+    hi: भौतिक राशि
+    hr: mjerna veličina
+    hsb: fyzikaliska wulkosć
+    ht: pwopriyete fizik
+    hu: fizikai mennyiség
+    hy: ֆիզիկական մեծություն
+    ia: grandor physic
+    id: besaran
+    io: fizikala quanteso
+    it: grandezza fisica
+    ja: 物理量
+    ka: ფიზიკური სიდიდე
+    kaa: fizikalıq shama
+    kk: физикалық шама
+    kk-arab: فىيزىيكالىق شاما
+    kk-latn: fïzïkalıq şama
+    ko: 물리량
+    ks: مادی میقدار
+    kw: myns fysegel
+    la: quantitas physica
+    lb: Physikalesch Gréisst
+    lt: fizikinis dydis
+    lv: fizikāls lielums
+    mag: भौतिक राशि
+    mk: физичка величина
+    ml: ഭൗതിക അളവ്
+    mr: भौतिक राशी
+    ms: kuantiti fizikal
+    ms-arab: کوانتيتي فيزيکل
+    nb: fysisk størrelse
+    nds: Physikaalsch Grött
+    nl: natuurkundige grootheid
+    nn: fysisk storleik
+    oc: quantitat fisica
+    pa: ਭੌਤਿਕ ਮਾਤਰਾ
+    pl: wielkość fizyczna
+    pms: grandëssa fìsica
+    pt: grandeza física
+    pt-br: grandeza física
+    qu: chhikan kay
+    ro: mărime fizică
+    ru: физическая величина
+    rue: физикална величина
+    scn: grannizza fìsica
+    sco: pheesical quantity
+    sd: طبيعي مقدار
+    se: sturrodat
+    sh: fizička veličina
+    si: භෞතික ගුණ
+    sje: sturrudak
+    sk: fyzikálna veličina
+    sl: fizikalna veličina
+    smn: stuárus
+    sms: šorrõk
+    sq: sasi fizike
+    sr: физичка величина
+    sr-el: fizička veličina
+    sv: fysikalisk storhet
+    ta: இயற்பியல் பண்பளவுகள்
+    te: భౌతిక విలువ
+    tg: воҳиди физикӣ
+    th: ปริมาณทางกายภาพ
+    tr: fiziksel nicelik
+    tt: физик зурлык
+    uk: фізична величина
+    ur: مادی مقدار
+    uz: fizik kattalik
+    vec: grandesa fìzega
+    vi: đại lượng vật lý
+    wuu: 物理量
+    yi: פיזישער גרייס
+    yue: 物理量
+    zh: 物理量
+    zh-cn: 物理量
+    zh-hans: 物理量
+    zh-hant: 物理量
+    zh-hk: 物理量
+    zh-mo: 物理量
+    zh-my: 物理量
+    zh-sg: 物理量
+    zh-tw: 物理量
 ---
-
 # [[Physical_Quantity]] 
 
 #is_/same_as :: [[WD~Physical_quantity,107715]] 

@@ -1,6 +1,52 @@
-
-
-
+---
+has_id_wikidata: Q23138
+dv_has_:
+  name_:
+    ar: نادي كايوس للحاسوب
+    bar: Chaos Computer Club
+    ca: Club de Computación Caos
+    ckb: یانەی کۆمپیوتەرییی کایۆس
+    da: Chaos Computer Club
+    de: Chaos Computer Club
+    en: Chaos Computer Club
+    en-ca: Chaos Computer Club
+    en-gb: Chaos Computer Club
+    eo: Ĥaosa Komputila Klubo
+    es: Club de Computación Caos
+    fa: باشگاه کامپیوتر آشوب
+    fr: Chaos Computer Club
+    hy: Chaos Computer Club
+    it: Chaos Computer Club
+    ja: カオス・コンピュータ・クラブ
+    ko: 카오스 컴퓨터 클럽
+    lb: Chaos Computer Club
+    mul: Chaos Computer Club
+    nb: Chaos Computer Club
+    nl: Chaos Computer Club
+    oc: Chaos Computer Club
+    pl: Chaos Computer Club
+    pt: Chaos Computer Club
+    pt-br: Chaos Computer Club
+    ru: Chaos Computer Club
+    sl: Chaos Computer Club
+    sq: Chaos Computer Club
+    sv: Chaos Computer Club
+    vi: Chaos Computer Club
+    zh: 混沌计算机俱乐部
+    zh-cn: 混沌计算机俱乐部
+    zh-tw: 混沌計算機俱樂部
+aliases:
+- Chaos Computer Club
+- Club de Computación Caos
+- Ĥaosa Komputila Klubo
+- باشگاه کامپیوتر آشوب
+- نادي كايوس للحاسوب
+- یانەی کۆمپیوتەرییی کایۆس
+- カオス・コンピュータ・クラブ
+- 混沌計算機俱樂部
+- 混沌计算机俱乐部
+- 카오스 컴퓨터 클럽
+---
 ## #has_/text_of_/abstract 
 
 > The Chaos Computer Club (CCC) is Europe's largest association of hackers 

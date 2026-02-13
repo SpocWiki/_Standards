@@ -1,28 +1,145 @@
 ---
 aliases:
-  - Rodeln
-  - Schlitten
-  - Luge
+- aking
+- Chana sporti
+- kamaniņu braukšana
+- Kelgutamine
+- kælk
+- Kızak
+- Lièja
+- Luge
+- luge de course
+- lúis
+- ohjaskelkkailu
+- Rennrodeln
+- rodel
+- rodelen
+- Rodeln
+- rogučių sportas
+- saneczkarstwo
+- sanie
+- Sanjkanje
+- sankanje
+- saně
+- Schlitten
+- Schlittfueren
+- sledado
+- slittino
+- szánkó
+- Trượt băng nằm ngửa
+- športno sankanje
+- Λουτζ
+- Варзиши чанасаворӣ
+- Сана спорты
+- санкање
+- санний спорт
+- санны спорт
+- санный спорт
+- Спортни шейни
+- чана спорты
+- Шана спорты
+- Սահնակային սպորտ
+- לוז'
+- سباق المزلجات
+- لژسواری
+- லூஜ்
+- リュージュ
+- 无舵雪橇
+- 無舵雪橇
+- 短雪橇
+- 루지
 has_id_wikidata: Q273285
 subclass_of:
-  - '[[_Standards/WikiData/WD~winter_sport,204686]]'
-  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-  - '[[_Standards/WikiData/WD~sledding,3266340]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~sledding,3266340]]'
 authority: '[[_Standards/WikiData/WD~International_Luge_Federation,1150390]]'
 different_from: '[[_Standards/WikiData/WD~sledding,3266340]]'
 derivative_work: '[[_Standards/WikiData/WD~alpine_slide,3266345]]'
 practiced_by: '[[_Standards/WikiData/WD~luger,13382981]]'
 uses:
-  - '[[_Standards/WikiData/WD~luge_sled,49069244]]'
-  - '[[_Standards/WikiData/WD~luge_track,50079928]]'
+- '[[_Standards/WikiData/WD~luge_sled,49069244]]'
+- '[[_Standards/WikiData/WD~luge_track,50079928]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Nomenclature_for_Museum_Cataloging: 14645
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Luge%20pictogram.svg
 Commons_category: Luge
 image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9part%20d%27un%20lugeur.jpg
 OpenStreetMap_tag: sport=toboggan
+dv_has_:
+  name_:
+    an: Luge
+    ar: سباق المزلجات
+    ast: luge
+    ba: Сана спорты
+    be: санны спорт
+    be-tarask: санны спорт
+    bg: Спортни шейни
+    ca: luge
+    cs: saně
+    cy: luge
+    da: kælk
+    de: Rennrodeln
+    el: Λουτζ
+    en: luge
+    en-ca: Luge
+    en-gb: luge
+    eo: sledado
+    es: luge
+    et: Kelgutamine
+    eu: Luge
+    fa: لژسواری
+    fi: ohjaskelkkailu
+    fr: luge de course
+    ga: lúis
+    gl: Luge
+    ha: luge
+    he: לוז'
+    hr: Sanjkanje
+    hu: szánkó
+    hy: Սահնակային սպորտ
+    ia: Luge
+    id: Luge
+    it: slittino
+    ja: リュージュ
+    kk: Шана спорты
+    ko: 루지
+    lb: Schlittfueren
+    lt: rogučių sportas
+    lv: kamaniņu braukšana
+    mk: санкање
+    nb: aking
+    nl: rodelen
+    oc: Lièja
+    pl: saneczkarstwo
+    pt: luge
+    pt-br: Luge
+    ro: sanie
+    ru: санный спорт
+    sl: športno sankanje
+    sr: санкање
+    sr-ec: санкање
+    sr-el: sankanje
+    sv: rodel
+    ta: லூஜ்
+    tg: Варзиши чанасаворӣ
+    tl: Luge
+    tr: Kızak
+    tt: чана спорты
+    tt-cyrl: чана спорты
+    uk: санний спорт
+    uz: Chana sporti
+    vi: Trượt băng nằm ngửa
+    wuu: 无舵雪橇
+    yue: 短雪橇
+    zh: 無舵雪橇
+    zh-cn: 无舵雪橇
+    zh-hans: 无舵雪橇
+    zh-hant: 無舵雪橇
+    zh-hk: 無舵雪橇
+    zh-sg: 无舵雪橇
+    zh-tw: 無舵雪橇
 ---
-
 # [[Luge]] 
 
 #is_/same_as :: [[WD~Luge,273285]] 

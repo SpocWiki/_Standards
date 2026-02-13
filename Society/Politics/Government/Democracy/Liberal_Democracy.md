@@ -1,41 +1,182 @@
 ---
 aliases:
-  - Liberal democracy
-  - Western-style democracy
-  - substantive democracy
-  - Liberal_Democracy
-  - Liberal Democracy
+- Chū-iû bîn-chú
+- daonlathas liobrálach
+- democracia libera
+- democracia liberal
+- Democracia lliberal
+- democrasia libarałe
+- Democrazia liberala
+- democrazia liberale
+- democrație liberală
+- democràcia liberal
+- demokracja liberalna
+- Demokrasi liberal
+- demokrasia a liberal
+- demokrasiang liberal
+- demokrasya liberal
+- demokrasyang liberal
+- demokrazia liberal
+- dân chủ tự do
+- démocratie libérale
+- Libbiraldimucrazzìa
+- liberaali demokratia
+- liberaalne demokraatia
+- Liberal democracy
+- liberal demokrasi
+- liberal demokrati
+- Liberal demokratiya
+- liberala demokratio
+- liberale democratie
+- liberale Demokratie
+- liberalioji demokratija
+- liberalna demokracija
+- liberalna demokratija
+- liberalt demokrati
+- Liberal_Democracy
+- liberális demokrácia
+- liberálna demokracia
+- liberální demokracie
+- liberālā demokrātija
+- substantive democracy
+- Western-style democracy
+- φιλελεύθερη δημοκρατία
+- ліберальна демократія
+- ліберальная дэмакратыя
+- лібэральная дэмакратыя
+- либерал демократия
+- либерална демократија
+- либерална демокрация
+- либеральная демократия
+- լիբերալ ժողովրդավարությունը
+- דמוקרטיה ליברלית
+- ديمقراطية ليبرالية
+- ديموقراطيه ليبراليه
+- دیموکراسیی لیبڕاڵ
+- لیبرال دموکراسی
+- لېبراله ډیموکراسي
+- ލިބަރަލް ޑިމޮކްރަސީ
+- उदार लोकतंत्र
+- தாராண்மை மக்களாட்சி
+- เสรีประชาธิปไตย
+- လစ်ဘရယ်ဒီမိုကရေစီ
+- ლიბერალური დემოკრატია
+- 自由民主主義
+- 自由民主制
+- 자유민주주의
 has_id_wikidata: Q192125
 has_characteristic:
-  - '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
-  - '[[_Standards/WikiData/WD~market_economy,179522]]'
-  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
-  - '[[_Standards/WikiData/WD~universal_suffrage,319891]]'
-  - '[[_Standards/WikiData/WD~pluralism,333024]]'
-  - '[[_Standards/WikiData/WD~open_society,505605]]'
-  - '[[_Standards/WikiData/WD~private_property,555911]]'
-  - '[[_Standards/WikiData/WD~political_freedom,831058]]'
-  - '[[_Standards/WikiData/WD~political_party,7278]]'
-  - '[[_Standards/WikiData/WD~human_rights,8458]]'
-  - '[[_Standards/WikiData/WD~civil_liberties,29556]]'
-  - '[[_Standards/WikiData/WD~public_election,40231]]'
-  - '[[../../../../WikiData/WD~Rule_of_law,44918]]'
+- '[[_Standards/WikiData/WD~separation_of_powers,79896]]'
+- '[[_Standards/WikiData/WD~market_economy,179522]]'
+- '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+- '[[_Standards/WikiData/WD~universal_suffrage,319891]]'
+- '[[_Standards/WikiData/WD~pluralism,333024]]'
+- '[[_Standards/WikiData/WD~open_society,505605]]'
+- '[[_Standards/WikiData/WD~private_property,555911]]'
+- '[[_Standards/WikiData/WD~political_freedom,831058]]'
+- '[[_Standards/WikiData/WD~political_party,7278]]'
+- '[[_Standards/WikiData/WD~human_rights,8458]]'
+- '[[_Standards/WikiData/WD~civil_liberties,29556]]'
+- '[[_Standards/WikiData/WD~public_election,40231]]'
+- '[[../../../../WikiData/WD~Rule_of_law,44918]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~political_philosophy,179805]]'
-  - '[[_Standards/WikiData/WD~form_of_government,1307214]]'
+- '[[_Standards/WikiData/WD~political_philosophy,179805]]'
+- '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 subclass_of: '[[_Standards/WikiData/WD~representative_democracy,188759]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~Habeas_Corpus_Act_1679,492004]]'
-  - '[[_Standards/WikiData/WD~Petition_of_Right,584063]]'
-  - '[[_Standards/WikiData/WD~Magna_Carta,12519]]'
+- '[[_Standards/WikiData/WD~Habeas_Corpus_Act_1679,492004]]'
+- '[[_Standards/WikiData/WD~Petition_of_Right,584063]]'
+- '[[_Standards/WikiData/WD~Magna_Carta,12519]]'
 opposite_of: '[[_Standards/WikiData/WD~illiberal_democracy,605479]]'
 different_from: '[[_Standards/WikiData/WD~national_democracy,6972194]]'
 based_on: '[[_Standards/WikiData/WD~liberalism,6216]]'
 uses: '[[_Standards/WikiData/WD~constitution,7755]]'
 significant_person: '[[_Standards/WikiData/WD~John_Locke,9353]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feminist%20Suffrage%20Parade%20in%20New%20York%20City%2C%201912.jpeg
+dv_has_:
+  name_:
+    ar: ديمقراطية ليبرالية
+    arz: ديموقراطيه ليبراليه
+    ast: Democracia lliberal
+    az: Liberal demokratiya
+    azb: لیبرال دموکراسی
+    be: ліберальная дэмакратыя
+    be-tarask: лібэральная дэмакратыя
+    bg: либерална демокрация
+    ca: democràcia liberal
+    ceb: demokrasyang liberal
+    ckb: دیموکراسیی لیبڕاڵ
+    cps: demokrasya liberal
+    cs: liberální demokracie
+    da: liberalt demokrati
+    de: liberale Demokratie
+    dv: ލިބަރަލް ޑިމޮކްރަސީ
+    el: φιλελεύθερη δημοκρατία
+    en: liberal democracy
+    eo: liberala demokratio
+    es: democracia liberal
+    et: liberaalne demokraatia
+    eu: demokrazia liberal
+    fa: لیبرال دموکراسی
+    fi: liberaali demokratia
+    fr: démocratie libérale
+    ga: daonlathas liobrálach
+    gl: democracia liberal
+    he: דמוקרטיה ליברלית
+    hi: उदार लोकतंत्र
+    hr: liberalna demokracija
+    hu: liberális demokrácia
+    hy: լիբերալ ժողովրդավարությունը
+    id: Demokrasi liberal
+    ilo: demokrasia a liberal
+    it: democrazia liberale
+    ja: 自由民主主義
+    ka: ლიბერალური დემოკრატია
+    kk: либерал демократия
+    ko: 자유민주주의
+    krj: demokrasya liberal
+    lmo: Democrazia liberala
+    lt: liberalioji demokratija
+    lv: liberālā demokrātija
+    mk: либерална демократија
+    ms: Demokrasi liberal
+    my: လစ်ဘရယ်ဒီမိုကရေစီ
+    nan: Chū-iû bîn-chú
+    nb: liberalt demokrati
+    nl: liberale democratie
+    oc: democracia libera
+    pam: demokrasiang liberal
+    pl: demokracja liberalna
+    ps: لېبراله ډیموکراسي
+    pt: democracia liberal
+    pt-br: democracia liberal
+    ro: democrație liberală
+    ru: либеральная демократия
+    scn: Libbiraldimucrazzìa
+    sh: Liberalna demokracija
+    sk: liberálna demokracia
+    sl: liberalna demokracija
+    sr: Либерална демократија
+    sr-ec: либерална демократија
+    sr-el: liberalna demokratija
+    sv: liberal demokrati
+    ta: தாராண்மை மக்களாட்சி
+    th: เสรีประชาธิปไตย
+    tl: demokrasyang liberal
+    tr: liberal demokrasi
+    uk: ліберальна демократія
+    vec: democrasia libarałe
+    vi: dân chủ tự do
+    xmf: ლიბერალური დემოკრატია
+    yue: 自由民主制
+    zh: 自由民主制
+    zh-cn: 自由民主制
+    zh-hans: 自由民主制
+    zh-hant: 自由民主制
+    zh-hk: 自由民主制
+    zh-sg: 自由民主制
+    zh-tw: 自由民主制
 ---
-
 # [[Liberal_Democracy]] 
 
 #is_/same_as :: [[WD~Liberal_democracy,192125]] 

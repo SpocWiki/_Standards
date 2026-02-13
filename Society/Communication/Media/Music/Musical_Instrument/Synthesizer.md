@@ -1,7 +1,65 @@
 ---
 aliases:
-  - synthesiser or synth
-  - Synthesizer
+- cuīcatlāhuīlcaxitl
+- helisüntees
+- hljóðgervill
+- Likembé lya mpótó lya lotilíki
+- pensintesis
+- penyintesis
+- sintesajzer
+- sintetiese klavier
+- sintetisador
+- sintetitzador
+- sintetizador
+- sintetizadore
+- sintetizator
+- sintetizatore
+- sintetizzatore
+- sintezator
+- sintezatorius
+- sintezators
+- sintezilo
+- sinthezizer
+- sintisajzer
+- sintisajzeri
+- sintéiseoir
+- syntetisaattor
+- syntetisaattori
+- syntetisáhtor
+- syntetizátor
+- syntezator
+- syntezátor
+- syntheseisydd
+- synthesiser
+- synthesiser or synth
+- Synthesizer
+- synthesizers
+- synthetisator
+- synthétiseur
+- Synþþsīsere
+- szintetizátor
+- sîntesîzer
+- συνθεσάιζερ
+- сінтэзатар
+- синтезатор
+- синтездеуіш
+- синтесајзер
+- синтисајзер
+- сынтэзатар
+- սինթեզատոր
+- סינתיסייזר
+- تێکەڵگەر
+- سنثسيزر
+- سینث
+- سینثسایزر
+- مُركِّب
+- ڤنسينتسيس
+- సింథసైజర్
+- เครื่องสังเคราะห์เสียง
+- სინთეზატორი
+- シンセサイザー
+- 合成器
+- 신시사이저
 has_id_wikidata: Q163829
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Robert_Moog,200883]]'
 different_from: '[[_Standards/WikiData/WD~electric_piano,1136507]]'
@@ -20,8 +78,105 @@ MCN_code: 9207.10.10
 subreddit: synthesizers
 Commons_category: Synthesizers
 Dewey_Decimal_Classification: 786.74
+dv_has_:
+  name_:
+    af: sintetiese klavier
+    ang: Synþþsīsere
+    ar: مُركِّب
+    arz: سنثسيزر
+    ast: sintetizador
+    az: sintezator
+    be: сінтэзатар
+    be-tarask: сынтэзатар
+    bg: синтезатор
+    bs: sintisajzer
+    ca: sintetitzador
+    ckb: تێکەڵگەر
+    co: sintetizatore
+    cs: syntezátor
+    cy: syntheseisydd
+    da: synthesizer
+    de: Synthesizer
+    el: συνθεσάιζερ
+    en: synthesizer
+    en-ca: synthesizer
+    en-gb: synthesiser
+    en-us: synthesizer
+    eo: sintezilo
+    es: sintetizador
+    et: helisüntees
+    eu: sintetizadore
+    fa: سینثسایزر
+    fi: syntetisaattori
+    fr: synthétiseur
+    frr: synthesizer
+    fy: Synthesizer
+    ga: sintéiseoir
+    gl: sintetizador
+    gsw: Synthesizer
+    he: סינתיסייזר
+    hr: sintesajzer
+    hu: szintetizátor
+    hy: սինթեզատոր
+    id: penyintesis
+    is: hljóðgervill
+    it: sintetizzatore
+    ja: シンセサイザー
+    ka: სინთეზატორი
+    kk: синтездеуіш
+    ko: 신시사이저
+    ku: sîntesîzer
+    ku-latn: sîntesîzer
+    la: synthetisator
+    lb: Synthesizer
+    li: Synthesizer
+    ln: Likembé lya mpótó lya lotilíki
+    lt: sintezatorius
+    lv: sintezators
+    mk: синтисајзер
+    mr: sinthezizer
+    ms: pensintesis
+    ms-arab: ڤنسينتسيس
+    mzn: سینث
+    nah: cuīcatlāhuīlcaxitl
+    nb: synthesizer
+    nds: Synthesizer
+    nds-nl: synthesizer
+    nl: synthesizer
+    nn: synthesizer
+    oc: sintetizador
+    os: синтезатор
+    pl: syntezator
+    pt: sintetizador
+    pt-br: sintetizador
+    ro: sintetizator
+    ru: синтезатор
+    sc: sintetizadore
+    sco: synthesiser
+    se: syntetisáhtor
+    sh: sintesajzer
+    sk: syntetizátor
+    sl: sintetizator
+    smn: syntetisaattor
+    sms: syntetisaattor
+    sq: sintisajzeri
+    sr: синтесајзер
+    sv: synthesizer
+    te: సింథసైజర్
+    th: เครื่องสังเคราะห์เสียง
+    tr: synthesizer
+    uk: синтезатор
+    uz: sintezator
+    uz-cyrl: синтезатор
+    vec: sintetizador
+    vi: synthesizer
+    war: sintetisador
+    wuu: 合成器
+    yue: 合成器
+    zh: 合成器
+    zh-hant: 合成器
+    zu: synthesizers
 ---
-
 # [[Synthesizer]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Synthesizer,163829|WD~Synthesizer,163829]]  

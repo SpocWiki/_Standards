@@ -1,32 +1,99 @@
 ---
 aliases:
-  - great ape
-  - hominid
-  - Hominoidea
-  - Hominidae
-  - ape
-  - Akaatia
-  - hominoidi
-  - homoideo
-  - Hominoideos
-  - Hominoïdes
-  - Minskoortagen
-  - Ominoidi
-  - ヒト上科
-  - 사람상과
-  - Małpy człekokształtne
-  - Человекообразные обезьяны
-  - človečnjaki
-  - Gibboner och hominider (Hominoider)
-  - İnsanımsılar
-  - 人型超科
+- Akaatia
+- Antropomorfidlər
+- Apa
+- Apar
+- ape
+- Apys
+- augstākie šaurdeguna pērtiķi
+- Bakulaw
+- Bandar
+- Daanyeer
+- emberszerűek
+- Epa
+- Gibboner och hominider (Hominoider)
+- great ape
+- hominid
+- Hominidae
+- Hominide
+- Hominoidae
+- Hominoide
+- Hominoidea
+- Hominoideos
+- hominoidi
+- Hominoidovce
+- Hominoïdes
+- hominoïdeus
+- homoideo
+- Homoideoj
+- ihmisapinat
+- Małpy człekokształtne
+- Menneskeaber
+- Menneskeaper
+- Mensaap
+- Menschenartige
+- Merdımekêni
+- Minschenordige
+- Minskoortagen
+- människoartade apor
+- Nyani (mhuka)
+- Odamsimon maymunlar
+- Ominoidi
+- siêu họ Người
+- Sokwe
+- Àwọn Irúọmọnìyàn
+- ápa
+- človečnjaki
+- Čovjekoliki majmuni
+- İnsansılar
+- İnsanımsılar
+- Žmogbeždžionės
+- Πίθηκος
+- Адæймагæнгæс маймулитæ
+- Бэшэн
+- Киши сымал маймылдар
+- людиноподібні
+- Маймылдар тұқымдасы
+- Мич
+- Чалавекападобныя малпы
+- Человекообразные обезьяны
+- Човеколики мајмуни
+- Човекоподобни маймуни
+- մարդակերպ պրիմատներ
+- הומינואידים
+- ئورانگوتان
+- ايپ (يو ډول بیزو)
+- بشرانيات وأشباهها
+- قرد
+- کپی
+- अपुच्छ
+- कपि
+- নরবানর
+- ਬਣਮਾਣਸ
+- மனிதக் குரங்கு
+- వాలిడి
+- ವಾನರ
+- ആൾക്കുരങ്ങ്
+- เอป
+- မျောက်ဝံ
+- ჰომინიდები
+- ጦጣ
+- ヒト上科
+- 人型超科
+- 人猿总科
+- 人猿超科
+- 猿
+- ꯌꯣꯡ ꯃꯃꯩ ꯄꯥꯟꯗꯕꯤ
+- 사람상과
+- 유인원
 has_id_wikidata: Q102470
 title: Hominidae
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
 start_time: -20400000-06
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -35,24 +102,24 @@ U_S_National_Archives_Identifier: 10648081
 IMDb_keyword: ape
 subreddit: ape
 taxon_common_name:
-  - ape
-  - Akaatia
-  - hominoidi
-  - homoideo
-  - Hominoideos
-  - Hominoïdes
-  - Minskoortagen
-  - Hominoideos
-  - Ominoidi
-  - ヒト上科
-  - 사람상과
-  - Małpy człekokształtne
-  - Hominoideos
-  - Человекообразные обезьяны
-  - človečnjaki
-  - Gibboner och hominider (Hominoider)
-  - İnsanımsılar
-  - 人型超科
+- ape
+- Akaatia
+- hominoidi
+- homoideo
+- Hominoideos
+- Hominoïdes
+- Minskoortagen
+- Hominoideos
+- Ominoidi
+- ヒト上科
+- 사람상과
+- Małpy człekokształtne
+- Hominoideos
+- Человекообразные обезьяны
+- človečnjaki
+- Gibboner och hominider (Hominoider)
+- İnsanımsılar
+- 人型超科
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Weisshandgibbon%20tierpark%20berlin.jpg
 equivalent_class: http://kbpedia.org/kko/rc/Ape
 exact_match: http://purl.obolibrary.org/obo/IDOMAL_0001220
@@ -62,8 +129,122 @@ UMLS_CUI: C1675848
 Commons_category: Hominoidea
 taxon_name: Hominoidea
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHELOVEKOOBRAZNIE_OBEZYANI.html
+dv_has_:
+  name_:
+    aeb-arab: قرد
+    af: Mensaap
+    am: ጦጣ
+    an: Hominoidea
+    ar: بشرانيات وأشباهها
+    arz: قرد
+    ast: Hominoidea
+    az: Antropomorfidlər
+    be: Чалавекападобныя малпы
+    be-tarask: чалавекападобныя малпы
+    bg: Човекоподобни маймуни
+    bn: নরবানর
+    br: Hominoidae
+    bs: Čovjekoliki majmuni
+    bxr: Бэшэн
+    ca: hominoïdeus
+    ceb: Hominoidea
+    cs: hominoidi
+    cy: Epa
+    da: Menneskeaber
+    de: Menschenartige
+    diq: Merdımekêni
+    el: Πίθηκος
+    en: Hominoidea
+    eo: Homoideoj
+    es: Hominoidea
+    et: Hominoidea
+    eu: Hominoidea
+    ext: Hominoidea
+    fa: کپی
+    fi: ihmisapinat
+    fr: Hominoidea
+    frr: Minskoortagen
+    ga: ápa
+    gd: Apa
+    gl: Hominoidea
+    he: הומינואידים
+    hi: कपि
+    hif: Bandar
+    hr: čovjekoliki majmuni
+    hu: emberszerűek
+    hy: մարդակերպ պրիմատներ
+    ia: Hominoide
+    id: Hominoidea
+    ie: Hominoidea
+    io: Hominoidea
+    is: Apar
+    it: Hominoidea
+    ja: ヒト上科
+    ka: ჰომინიდები
+    kk: Маймылдар тұқымдасы
+    kn: ವಾನರ
+    ko: 유인원
+    kw: Apys
+    ky: Киши сымал маймылдар
+    la: Hominoidea
+    lt: Žmogbeždžionės
+    lv: augstākie šaurdeguna pērtiķi
+    lzh: 猿
+    mg: Hominide
+    mk: Човеколики мајмуни
+    ml: ആൾക്കുരങ്ങ്
+    mn: Мич
+    mni: ꯌꯣꯡ ꯃꯃꯩ ꯄꯥꯟꯗꯕꯤ
+    ms: Hominoidea
+    mul: Hominoidea
+    my: မျောက်ဝံ
+    nb: Menneskeaper
+    nds: Minschenordige
+    ne: अपुच्छ
+    nl: hominoidea
+    nn: Hominoidea
+    oc: Hominoidea
+    os: Адæймагæнгæс маймулитæ
+    pa: ਬਣਮਾਣਸ
+    pl: małpy człekokształtne
+    ps: ايپ (يو ډول بیزو)
+    pt: Hominoidea
+    pt-br: Hominoidea
+    ro: Hominoidea
+    ru: человекообразные обезьяны
+    scn: Ominoidi
+    sco: Hominoidea
+    sh: Čovjekoliki majmuni
+    sk: Hominoidovce
+    sl: človečnjaki
+    sn: Nyani (mhuka)
+    so: Daanyeer
+    sq: Hominoidea
+    sr: Човеколики мајмуни
+    sv: människoartade apor
+    sw: Sokwe
+    ta: மனிதக் குரங்கு
+    te: వాలిడి
+    th: เอป
+    tl: Bakulaw
+    tr: İnsansılar
+    ug: ئورانگوتان
+    uk: людиноподібні
+    uz: Odamsimon maymunlar
+    vi: siêu họ Người
+    vo: Hominoidea
+    war: Hominoidea
+    wuu: 猿
+    yo: Àwọn Irúọmọnìyàn
+    yue: 猿
+    zh: 人猿总科
+    zh-cn: 人猿总科
+    zh-hans: 人猿总科
+    zh-hant: 猿
+    zh-hk: 猿
+    zh-sg: 猿
+    zh-tw: 人猿超科
 ---
-
 # [[Hominidae]]
 
 #is_/instance_of :: [[../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family|bio~Family]] 

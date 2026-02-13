@@ -1,9 +1,103 @@
 ---
 aliases:
-  - Elizabeth Debicki
-  - Debicki,Elizabeth
+- Debicki,Elizabeth
+- Elizabete Debiki
+- Elizabeth Debicki
+- Ελίζαμπεθ Ντεμπίκι
+- Елізабет Дебікі
+- Елизабет Дебики
+- Элізабет Дэбікі
+- Элізабэт Дэбік
+- Элизабет Дебики
+- Էլիզաբեթ Դեբիկի
+- אליזבת דביקי
+- إليزابيث ديبيكي
+- ئەلیزابێس دێبیکی
+- الزبتھ ڈیبیکی
+- اليزابيث ديبيكى
+- الیزابت دبیکی
+- এলিজাবেথ ডেবিকি
+- எலிசபெத் டெபிக்கி
+- เอลิซาเบธ เดบิคกี
+- エリザベス・デビッキ
+- 伊莉莎白·戴比基
+- 伊麗莎白·迪碧琪
+- 엘리자베스 데비키
+has_id_wikidata: Q5362676
+dv_has_:
+  name_:
+    ace: Elizabeth Debicki
+    af: Elizabeth Debicki
+    ar: إليزابيث ديبيكي
+    arz: اليزابيث ديبيكى
+    ast: Elizabeth Debicki
+    be: Элізабет Дэбікі
+    be-tarask: Элізабэт Дэбік
+    bg: Елизабет Дебики
+    bjn: Elizabeth Debicki
+    bn: এলিজাবেথ ডেবিকি
+    bug: Elizabeth Debicki
+    ca: Elizabeth Debicki
+    ckb: ئەلیزابێس دێبیکی
+    cs: Elizabeth Debicki
+    cy: Elizabeth Debicki
+    da: Elizabeth Debicki
+    de: Elizabeth Debicki
+    el: Ελίζαμπεθ Ντεμπίκι
+    en: Elizabeth Debicki
+    eo: Elizabeth Debicki
+    es: Elizabeth Debicki
+    eu: Elizabeth Debicki
+    fa: الیزابت دبیکی
+    fi: Elizabeth Debicki
+    fr: Elizabeth Debicki
+    ga: Elizabeth Debicki
+    gl: Elizabeth Debicki
+    gor: Elizabeth Debicki
+    he: אליזבת דביקי
+    ht: Elizabeth Debicki
+    hu: Elizabeth Debicki
+    hy: Էլիզաբեթ Դեբիկի
+    id: Elizabeth Debicki
+    it: Elizabeth Debicki
+    ja: エリザベス・デビッキ
+    jv: Elizabeth Debicki
+    ko: 엘리자베스 데비키
+    lt: Elizabeth Debicki
+    lv: Elizabete Debiki
+    map-bms: Elizabeth Debicki
+    min: Elizabeth Debicki
+    ms: Elizabeth Debicki
+    nan: Elizabeth Debicki
+    nb: Elizabeth Debicki
+    nl: Elizabeth Debicki
+    nn: Elizabeth Debicki
+    pap: Elizabeth Debicki
+    pl: Elizabeth Debicki
+    pt: Elizabeth Debicki
+    pt-br: Elizabeth Debicki
+    ro: Elizabeth Debicki
+    ru: Элизабет Дебики
+    sco: Elizabeth Debicki
+    sk: Elizabeth Debicki
+    sl: Elizabeth Debicki
+    sq: Elizabeth Debicki
+    su: Elizabeth Debicki
+    sv: Elizabeth Debicki
+    ta: எலிசபெத் டெபிக்கி
+    tet: Elizabeth Debicki
+    th: เอลิซาเบธ เดบิคกี
+    tr: Elizabeth Debicki
+    tt: Элизабет Дебики
+    tt-cyrl: Элизабет Дебики
+    uk: Елізабет Дебікі
+    ur: الزبتھ ڈیبیکی
+    uz: Elizabeth Debicki
+    vi: Elizabeth Debicki
+    yue: 伊麗莎白·迪碧琪
+    zh: 伊莉莎白·戴比基
+    zh-hk: 伊麗莎白·迪碧琪
 ---
-
 #has_/time_/started :: 1936-08-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

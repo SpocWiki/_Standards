@@ -2,11 +2,11 @@
 dv_Telephone: 886
 dv_has_name: Taiwan
 dv_has_name_en:
-  - 
-  - Taiwan
+- 
+- Taiwan
 dv_CLDR_display_name: Taiwan
-dv_Region_Name: "[[]]"
-dv_Intermediate_Region_Name: "[[Taiwan]]"
+dv_Region_Name: '[[]]'
+dv_Intermediate_Region_Name: '[[Taiwan]]'
 dv_Sub-region_Name: '"[[]]" ]'
 dv_Geoname-ID: 1668284
 dv_FIPS: TW
@@ -23,361 +23,800 @@ dv_ISO2: TW
 dv_ISO3: TWN
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]"
+  - '[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]'
 dv_has_:
   name_:
+    ace: Taywan
+    aeb-arab: تايوان
+    af: Republiek van China
+    alt: Тайвань
+    am: የቻይና ሪፐብሊክ
+    ami: Taywan
+    an: Republica de China
+    anp: ताईवान
+    ar: تايوان
+    ary: طايوان
+    arz: تايوان
+    as: টাইৱান
+    ast: Taiwán
+    awa: ताइवान
+    az: Tayvan
+    azb: تایوان
+    ba: Ҡытай Республикаһы
+    ban: Taiwan
+    bar: Republik China
+    bcl: Taiwan
+    be: Тайвань
+    be-tarask: Рэспубліка Кітай
+    bew: Taiwan
+    bg: Република Китай
+    bgn: تایوان
+    bho: ताइवान
+    bi: Taewan
+    bn: তাইওয়ান
+    bo: ཐའེ་ཝན།
+    bpy: তাইৱান
+    br: Taiwan
+    brh: Táíván
+    bs: Tajvan
+    bug: ᨈᨕᨗᨓᨕᨊ
+    bxr: Бүгэдэ Найрамдаха Хитад Улас
+    ca: Taiwan
+    cbk-zam: Taiwán
+    cdo: Dṳ̆ng-huà Mìng-guók
+    ce: Тайвань
+    ceb: Republika sa Tsina
+    chr: ᏔᎢᏩᏂ
+    chy: Republic of China
+    ckb: تایوان
+    co: Taiwan
+    crh: Çin Cumhuriyeti
+    crh-latn: Çin Cumhuriyeti
+    cs: Tchaj-wan
+    csb: Tajwan
+    cv: Тайвань
+    cy: Taiwan
+    da: Taiwan
+    dag: Taiwan
+    de: Republik China
+    de-at: Republik China
+    de-ch: Republik China
+    din: Taïwan
+    diq: Cumhuriyetê Çini
+    dsb: Republika Chinskeje
+    dtp: Taiwan
+    dty: ताइवान
+    dv: ޖުމްހޫރީ ޗައިނާ
+    dz: ཏའི་ཝཱན་
+    ee: Taiwan
+    el: Ταϊβάν
+    en: Taiwan
+    en-ca: Taiwan
+    en-gb: Taiwan
+    en-us: Taiwan
+    eo: Tajvano
+    es: República de China
+    es-419: Taiwán
+    et: Taiwan
+    eu: Taiwan
+    ext: Repúbrica de China
+    fa: تایوان
+    fi: Taiwan
+    fo: Teivan
+    fr: Taïwan
+    frp: Rèpublica de Ch·ina
+    frr: Taiwan
+    fy: Taiwan
+    ga: an Téaváin
+    gag: Kitay Respublikası
+    gan: 中華民國
+    gcr: Taywan
+    gd: Taidh-Bhàn
+    gl: Taiwán
+    glk: تایوان
+    gn: Taiuã
+    gom: तैवान
+    gom-deva: तैवान
+    gom-latn: Taiwan
+    got: "\U00010344\U00010330\U00010339̈\U00010345\U00010330"
+    gpe: Taiwan
+    gsw: Republik China
+    gu: ચીની ગણતંત્ર
+    gv: y Taiwaan
+    ha: Taiwan
+    hak: Chûng-fà Mìn-koet
+    haw: Taiuana
+    he: טאיוואן
+    hi: चीनी गणराज्य
+    hif: Republic of China
+    hr: Republika Kina
+    hsb: Chinska republika
+    ht: Taywann
+    hu: Kínai Köztársaság
+    hy: Թայվան
+    hyw: Թայուան
+    ia: Republica de China
+    iba: Taiwan
+    id: Taiwan
+    ie: Taiwan
+    ilo: Taiwan
+    io: Republiko di Chinia
+    is: Taívan
+    it: Taiwan
+    iu: ᑕᐃᐅᐋᓐ
+    ja: 中華民国
+    jam: Taiwan
+    jv: Républik Cina
+    ka: ტაივანი
+    kaa: Tayvan
+    kab: Taywan
+    kbd: Хъутей Республикэ
+    kbp: Tayɩwanɩ
+    kcg: Taiwan
+    kge: Taiwan
+    kk: Тайуан
+    kk-cyrl: Тайуан
+    kk-latn: Taiuan
+    kl: Taiwan
+    km: តៃវ៉ាន់
+    kn: ಚೀನಿ ಗಣರಾಜ್ಯ
+    ko: 중화민국
+    krc: Къытай Республика (Тайвань)
+    ks: تائیوان
+    ku: Taywan
+    kw: Taywan
+    ky: Тайвань
+    la: Res publica Sinarum
+    lad: Repuvlika de Kina
+    lb: Taiwan
+    lfn: Taiuan
+    li: Republiek China
+    lij: Taiwan
+    lld: Taiwan
+    lmo: Taiwan
+    ln: Taiwan
+    lo: Tâi-oân
+    lrc: تایوان
+    lt: Taivanas
+    lv: Ķīnas Republika
+    lzh: 中華民國
+    mad: Taiwan
+    mag: ताइवान
+    mai: ताइवान
+    map-bms: Taiwan
+    mg: Taiwan
+    mhr: Тайван
+    mi: Taiwana
+    min: Taiwan
+    mk: Република Кина
+    ml: തായ്വാൻ
+    mn: Бүгд Найрамдах Хятад Улс
+    mni: ꯇꯥꯏꯋꯥꯟ
+    mr: चीनचे प्रजासत्ताक
+    ms: Taiwan
+    ms-arab: تايوان
+    mt: Tajwan
+    my: တရုတ်သမ္မတနိုင်ငံ
+    myv: Китайень Республикась
+    mzn: تایوان
+    na: Republik Tsiene
+    nah: Taiwan
+    nan: Tiong-hoâ Bîn-kok
+    nan-hani: 中華民國
+    nan-hant: 中華民國
+    nan-latn-pehoeji: Tiong-hoâ Bîn-kok
+    nan-latn-tailo: Tiong-hua Bîn-kok
+    nb: Taiwan
+    nds: Republiek China
+    ne: ताइवान
+    ng: Taiwan
+    nl: Taiwan
+    nn: Republikken Kina
+    nov: Republike de China
+    nv: Tsiiʼyishbizhí Dineʼé Bikéyah Yázhí
+    oc: Taiwan
+    olo: Taivan'
+    or: ତାଇୱାନ
+    os: Тайван
+    pa: ਤਾਈਵਾਨ
+    pam: Republika ning Tsina
+    pap: Taiwan
+    pcd: Taïwan
+    pfl: Taiwon
+    pi: तैवान
+    pih: Tawaiin
+    pl: Republika Chińska
+    pms: Taiwan
+    pnb: تائیوان
+    ps: تايوان
+    pt: Taiwan
+    pt-br: Taiwan
+    pwn: Taiwan
+    qu: Chunwa Republika
+    rmy: Taiwan
+    ro: Taiwan
+    ru: Китайская Республика (Тайвань)
+    rue: Тайван
+    rup: Taiwan
+    rw: Tayiwani
+    ryu: 中華民国
+    sa: तैवान
+    sah: Кытай Республиката
+    sat: ᱛᱟᱭᱣᱟᱱ
+    sc: Taiwan
+    scn: Taiwan
+    sco: Taiwan
+    sd: تائيوان
+    se: Taiwan
+    sgs: Taivans
+    sh: Republika Kina
+    shn: ထၢႆႇဝၢၼ်း
+    si: තායිවානය
+    sk: Taiwan
+    sl: Tajvan
+    sm: Saina Taipei
+    smn: Taiwan
+    sms: Taiwaan
+    sn: Taiwan
+    so: Taywan
+    sq: Republika e Kinës
+    sr: Република Кина
+    sr-ec: Република Кина
+    ss: IThayiwani
+    stq: Republik China
+    su: Républik Tiongkok
+    sv: Taiwan
+    sw: Jamhuri ya China
+    szl: Republika Chińsko
+    szy: Taywan
+    ta: சீனக் குடியரசு
+    tay: Taywan
+    tdd: ᥗᥣᥭᥱ ᥝᥣᥢᥱ
+    te: తైవాన్
+    tet: Taiwán
+    tg: Тайван
+    th: ประเทศไต้หวัน
+    ti: ታይዋን
+    tk: Taýwan
+    tl: Taiwan
+    tly: Tajvan
+    to: Taiuani
+    tok: ma Tawan
+    tpi: Ripablik bilong Saina
+    tr: Tayvan
+    trv: Taiwan
+    tt: Кытай Җөмһүрияте
+    tt-cyrl: Кытай Җөмһүрияте
+    udm: Тайвань
+    ug: تەيۋەن
+    uk: Республіка Китай
+    ur: تائیوان
+    uz: Xitoy Respublikasi
+    vec: Repùblega de Cina
+    vep: Taivan'
+    vi: Đài Loan
+    vls: Taiwan
+    vo: Tayvän
+    vro: Hiina Vabariik
+    wa: Taywane
+    war: Republika han Tsina
+    wo: Taaywaan
+    wuu: 中华民国
+    xal: Китдин Орн
+    xh: Taiwan
+    xmf: ტაივანი
+    yi: טייוואן
+    yo: Orílẹ̀-èdè Olómìnira ilẹ̀ Ṣáínà
+    yue: 中華民國
+    za: Cunghvaz Minzgoz
+    zea: Taiwan
+    zh: 中華民國
+    zh-cn: 中华民国
+    zh-hans: 中华民国
+    zh-hant: 中華民國
+    zh-hk: 中華民國
+    zh-mo: 中華民國
+    zh-my: 中华民国
+    zh-sg: 中华民国
+    zh-tw: 中華民國
+    zu: i-Taiwan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Taiwan
 dv_has_name_de: Taiwan, Province Of China
 dv_Area-Total: 36000
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: RC
-dv_Capital: "[[Taiwan/Counties/Taipei_City/City/Taipei]]"
+dv_Capital: '[[Taiwan/Counties/Taipei_City/City/Taipei]]'
 dv_Language-Id: 485
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 121.55
 dv_has_place_latitude: 25.08
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]"
+- '[[../../../../WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~East/Taiwan|Taiwan]]'
+- '[[/_public/Earth/Continent/Asia/Asia~East/Taiwan.public|Taiwan.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~East/Taiwan.internal|Taiwan.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~East/Taiwan.protect|Taiwan.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~East/Taiwan.private|Taiwan.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~East/Taiwan.personal|Taiwan.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~East/Taiwan.secret|Taiwan.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Taiwan
-
 aliases:
-  - Taiwan
-  - ""
+- an Téaváin
+- Chinska republika
+- Chunwa Republika
+- Chûng-fà Mìn-koet
+- Cumhuriyetê Çini
+- Cunghvaz Minzgoz
+- Dṳ̆ng-huà Mìng-guók
+- Hiina Vabariik
+- i-Taiwan
+- IThayiwani
+- Jamhuri ya China
+- Kitay Respublikası
+- Kínai Köztársaság
+- ma Tawan
+- Orílẹ̀-èdè Olómìnira ilẹ̀ Ṣáínà
+- Republic of China
+- Republica de China
+- Republiek China
+- Republiek van China
+- Republik China
+- Republik Tsiene
+- Republika Chinskeje
+- Republika Chińska
+- Republika Chińsko
+- Republika e Kinës
+- Republika han Tsina
+- Republika Kina
+- Republika ning Tsina
+- Republika sa Tsina
+- Republike de China
+- Republikken Kina
+- Republiko di Chinia
+- Repuvlika de Kina
+- Repùblega de Cina
+- República de China
+- Repúbrica de China
+- Res publica Sinarum
+- Ripablik bilong Saina
+- Rèpublica de Ch·ina
+- Républik Cina
+- Républik Tiongkok
+- Saina Taipei
+- Taaywaan
+- Taewan
+- Taidh-Bhàn
+- Taiuan
+- Taiuana
+- Taiuani
+- Taiuã
+- Taivan'
+- Taivanas
+- Taivans
+- Taiwaan
+- Taiwan
+- Taiwana
+- Taiwon
+- Taiwán
+- Tajvan
+- Tajvano
+- Tajwan
+- Tawaiin
+- Tayiwani
+- Tayvan
+- Tayvän
+- Taywan
+- Taywane
+- Taywann
+- Tayɩwanɩ
+- Taívan
+- Taïwan
+- Taýwan
+- Tchaj-wan
+- Teivan
+- Tiong-hoâ Bîn-kok
+- Tiong-hua Bîn-kok
+- Tsiiʼyishbizhí Dineʼé Bikéyah Yázhí
+- Táíván
+- Tâi-oân
+- Xitoy Respublikasi
+- y Taiwaan
+- Çin Cumhuriyeti
+- Đài Loan
+- Ķīnas Republika
+- Ταϊβάν
+- Бүгд Найрамдах Хятад Улс
+- Бүгэдэ Найрамдаха Хитад Улас
+- Китайень Республикась
+- Китайская Республика (Тайвань)
+- Китдин Орн
+- Къытай Республика (Тайвань)
+- Кытай Республиката
+- Кытай Җөмһүрияте
+- Република Кина
+- Република Китай
+- Республіка Китай
+- Рэспубліка Кітай
+- Тайван
+- Тайвань
+- Тайуан
+- Хъутей Республикэ
+- Ҡытай Республикаһы
+- Թայուան
+- Թայվան
+- טאיוואן
+- טייוואן
+- تائيوان
+- تائیوان
+- تايوان
+- تایوان
+- تەيۋەن
+- طايوان
+- ޖުމްހޫރީ ޗައިނާ
+- चीनचे प्रजासत्ताक
+- चीनी गणराज्य
+- ताइवान
+- ताईवान
+- तैवान
+- টাইৱান
+- তাইওয়ান
+- তাইৱান
+- ਤਾਈਵਾਨ
+- ચીની ગણતંત્ર
+- ତାଇୱାନ
+- சீனக் குடியரசு
+- తైవాన్
+- ಚೀನಿ ಗಣರಾಜ್ಯ
+- തായ്വാൻ
+- තායිවානය
+- ประเทศไต้หวัน
+- ཏའི་ཝཱན་
+- ཐའེ་ཝན།
+- တရုတ်သမ္မတနိုင်ငံ
+- ထၢႆႇဝၢၼ်း
+- ტაივანი
+- ታይዋን
+- የቻይና ሪፐብሊክ
+- ᏔᎢᏩᏂ
+- ᑕᐃᐅᐋᓐ
+- តៃវ៉ាន់
+- ᥗᥣᥭᥱ ᥝᥣᥢᥱ
+- ᨈᨕᨗᨓᨕᨊ
+- ᱛᱟᱭᱣᱟᱱ
+- 中华民国
+- 中華民国
+- 中華民國
+- ꯇꯥꯏꯋꯥꯟ
+- 중화민국
+- "\U00010344\U00010330\U00010339̈\U00010345\U00010330"
 has_id_wikidata: Q865
 CIVICUS_Monitor_country_entry: taiwan
 subreddit: taiwan
 GitHub_topic: taiwan
-Unicode_character: 🇹🇼
+Unicode_character: "\U0001F1F9\U0001F1FC"
 hashtag:
-  - 台灣
-  - Taiwan
+- 台灣
+- Taiwan
 demonym:
-  - taiwanés
-  - taiwanesa
-  - taiwanesa
-  - taiwanese
-  - Tajvanano
-  - taiwanilainen
-  - Taïwanaise
-  - tajvani
-  - taiuan
-  - setaiwan
-  - taiwaneza
-  - taiwanezo
-  - Tayvänan
-  - 臺灣人
-  - طايواني
-  - طايوانية
-  - طايوانيين
-  - طايوانيات
-  - Tâi-oân-lâng
-  - Téavánach
-  - 台灣人
-  - tâi-uân-lâng
-  - Taiwan
-  - Taiwanese
-  - Taïwanais
-  - taiwanesi
-  - 台湾人
-  - taiwanezi
-  - 臺灣人
-  - taiwanès
-  - taiwanese
-  - taiwaneze
+- taiwanés
+- taiwanesa
+- taiwanesa
+- taiwanese
+- Tajvanano
+- taiwanilainen
+- Taïwanaise
+- tajvani
+- taiuan
+- setaiwan
+- taiwaneza
+- taiwanezo
+- Tayvänan
+- 臺灣人
+- طايواني
+- طايوانية
+- طايوانيين
+- طايوانيات
+- Tâi-oân-lâng
+- Téavánach
+- 台灣人
+- tâi-uân-lâng
+- Taiwan
+- Taiwanese
+- Taïwanais
+- taiwanesi
+- 台湾人
+- taiwanezi
+- 臺灣人
+- taiwanès
+- taiwanese
+- taiwaneze
 native_label:
-  - taiwan
-  - Tiong-huâ-bîn-kok
-  - 中華民國
-  - Tiong-hoâ Bîn-kok
-  - 台灣
-  - Tâi-oân
-  - Chûng-fà Mìn-koet
-  - 中華民國
-  - 臺灣
+- taiwan
+- Tiong-huâ-bîn-kok
+- 中華民國
+- Tiong-hoâ Bîn-kok
+- 台灣
+- Tâi-oân
+- Chûng-fà Mìn-koet
+- 中華民國
+- 臺灣
 instance_of:
-  - "[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]"
-  - "[[_Standards/WikiData/WD~island_country,112099]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~democratic_republic,5255892]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~state_with_limited_recognition,10711424]]'
+- '[[_Standards/WikiData/WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~democratic_republic,5255892]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Truku,11071864]]"
-  - "[[_Standards/WikiData/WD~Matsu_dialect,19599280]]"
-  - "[[_Standards/WikiData/WD~Kinmen_dialect,56278342]]"
-  - "[[_Standards/WikiData/WD~O-ku-uā,61055662]]"
-  - "[[_Standards/WikiData/WD~Kanakanavu,172244]]"
-  - "[[_Standards/WikiData/WD~Standard_Taiwanese_Mandarin,262828]]"
-  - "[[_Standards/WikiData/WD~Paiwan,715755]]"
-  - "[[_Standards/WikiData/WD~Yami,715760]]"
-  - "[[_Standards/WikiData/WD~Atayal,715766]]"
-  - "[[_Standards/WikiData/WD~Saaroa,716599]]"
-  - "[[_Standards/WikiData/WD~Kavalan,716627]]"
-  - "[[_Standards/WikiData/WD~Tsou,716681]]"
-  - "[[_Standards/WikiData/WD~Seediq,716686]]"
-  - "[[_Standards/WikiData/WD~Puyuma,716690]]"
-  - "[[_Standards/WikiData/WD~Saisiyat,716695]]"
-  - "[[_Standards/WikiData/WD~Sakizaya,718269]]"
-  - "[[_Standards/WikiData/WD~Taiwanese_Hakka,2391532]]"
-  - "[[_Standards/WikiData/WD~Taiwanese_Sign_Language,34019]]"
-  - "[[_Standards/WikiData/WD~Amis,35132]]"
-  - "[[_Standards/WikiData/WD~Taiwanese_Hokkien,36778]]"
-  - "[[_Standards/WikiData/WD~Rukai,49232]]"
-  - "[[_Standards/WikiData/WD~Bunun,56505]]"
+- '[[_Standards/WikiData/WD~Truku,11071864]]'
+- '[[_Standards/WikiData/WD~Matsu_dialect,19599280]]'
+- '[[_Standards/WikiData/WD~Kinmen_dialect,56278342]]'
+- '[[_Standards/WikiData/WD~O-ku-uā,61055662]]'
+- '[[_Standards/WikiData/WD~Kanakanavu,172244]]'
+- '[[_Standards/WikiData/WD~Standard_Taiwanese_Mandarin,262828]]'
+- '[[_Standards/WikiData/WD~Paiwan,715755]]'
+- '[[_Standards/WikiData/WD~Yami,715760]]'
+- '[[_Standards/WikiData/WD~Atayal,715766]]'
+- '[[_Standards/WikiData/WD~Saaroa,716599]]'
+- '[[_Standards/WikiData/WD~Kavalan,716627]]'
+- '[[_Standards/WikiData/WD~Tsou,716681]]'
+- '[[_Standards/WikiData/WD~Seediq,716686]]'
+- '[[_Standards/WikiData/WD~Puyuma,716690]]'
+- '[[_Standards/WikiData/WD~Saisiyat,716695]]'
+- '[[_Standards/WikiData/WD~Sakizaya,718269]]'
+- '[[_Standards/WikiData/WD~Taiwanese_Hakka,2391532]]'
+- '[[_Standards/WikiData/WD~Taiwanese_Sign_Language,34019]]'
+- '[[_Standards/WikiData/WD~Amis,35132]]'
+- '[[_Standards/WikiData/WD~Taiwanese_Hokkien,36778]]'
+- '[[_Standards/WikiData/WD~Rukai,49232]]'
+- '[[_Standards/WikiData/WD~Bunun,56505]]'
 highest_judicial_authority:
-  - "[[_Standards/WikiData/WD~Supreme_Administrative_Court,11091801]]"
-  - "[[_Standards/WikiData/WD~Justice_of_the_Judicial_Yuan,15899357]]"
-  - "[[_Standards/WikiData/WD~Supreme_Court_of_the_Republic_of_China,722785]]"
-  - "[[_Standards/WikiData/WD~Judicial_Yuan,31041]]"
+- '[[_Standards/WikiData/WD~Supreme_Administrative_Court,11091801]]'
+- '[[_Standards/WikiData/WD~Justice_of_the_Judicial_Yuan,15899357]]'
+- '[[_Standards/WikiData/WD~Supreme_Court_of_the_Republic_of_China,722785]]'
+- '[[_Standards/WikiData/WD~Judicial_Yuan,31041]]'
 aircraft_registration_prefix: Bt
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
-  - "[[_Standards/WikiData/WD~Chinese_Taipei,216923]]"
-  - "[[_Standards/WikiData/WD~Taiwan_Area,245107]]"
-  - "[[_Standards/WikiData/WD~Republic_of_China,1174654]]"
-  - "[[_Standards/WikiData/WD~Taiwan_Island,22502]]"
-  - "[[_Standards/WikiData/WD~China,29520]]"
-  - "[[_Standards/WikiData/WD~Taiwan_Province,32081]]"
+- '[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]'
+- '[[_Standards/WikiData/WD~Chinese_Taipei,216923]]'
+- '[[_Standards/WikiData/WD~Taiwan_Area,245107]]'
+- '[[_Standards/WikiData/WD~Republic_of_China,1174654]]'
+- '[[_Standards/WikiData/WD~Taiwan_Island,22502]]'
+- '[[_Standards/WikiData/WD~China,29520]]'
+- '[[_Standards/WikiData/WD~Taiwan_Province,32081]]'
 replaces:
-  - "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
-  - "[[_Standards/WikiData/WD~Taiwan_under_Japanese_rule,137816]]"
+- '[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]'
+- '[[_Standards/WikiData/WD~Taiwan_under_Japanese_rule,137816]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]"
-  - "[[_Standards/WikiData/WD~Chinese_Taipei,216923]]"
-  - "[[_Standards/WikiData/WD~Taiwan_Area,245107]]"
-  - "[[_Standards/WikiData/WD~Republic_of_Taiwan,716489]]"
-  - "[[_Standards/WikiData/WD~Taiwan,_China,7676514]]"
-  - "[[_Standards/WikiData/WD~Taiwan,57251]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-open_data_portal: "[[_Standards/WikiData/WD~data.gov.tw,15914982]]"
-studied_in: "[[_Standards/WikiData/WD~Taiwan_studies,17149027]]"
-topographic_map: "[[_Standards/WikiData/WD~Atlas_of_Taiwan,21094557]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Republic_of_China,22337467]]"
+- '[[_Standards/WikiData/WD~Republic_of_China_(1912_1949),13426199]]'
+- '[[_Standards/WikiData/WD~Chinese_Taipei,216923]]'
+- '[[_Standards/WikiData/WD~Taiwan_Area,245107]]'
+- '[[_Standards/WikiData/WD~Republic_of_Taiwan,716489]]'
+- '[[_Standards/WikiData/WD~Taiwan,_China,7676514]]'
+- '[[_Standards/WikiData/WD~Taiwan,57251]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+open_data_portal: '[[_Standards/WikiData/WD~data.gov.tw,15914982]]'
+studied_in: '[[_Standards/WikiData/WD~Taiwan_studies,17149027]]'
+topographic_map: '[[_Standards/WikiData/WD~Atlas_of_Taiwan,21094557]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Republic_of_China,22337467]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~110,25648823]]"
-  - "[[_Standards/WikiData/WD~119,2807090]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Republic_of_China,56604710]]"
-archives_at: "[[_Standards/WikiData/WD~Hong_Kong_Baptist_University_Library_Special_Collections_&_Archives,117812074]]"
+- '[[_Standards/WikiData/WD~110,25648823]]'
+- '[[_Standards/WikiData/WD~119,2807090]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Republic_of_China,56604710]]'
+archives_at: '[[_Standards/WikiData/WD~Hong_Kong_Baptist_University_Library_Special_Collections_&_Archives,117812074]]'
 UMLS_CUI: C0039260
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Taoyuan,115256]]"
-  - "[[_Standards/WikiData/WD~Tainan,140631]]"
-  - "[[_Standards/WikiData/WD~Kaohsiung,181557]]"
-  - "[[_Standards/WikiData/WD~New_Taipei,244898]]"
-  - "[[_Standards/WikiData/WD~Taichung,245023]]"
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Taiwan_Province,32081]]"
-  - "[[_Standards/WikiData/WD~Fuchien,63698]]"
+- '[[_Standards/WikiData/WD~Taoyuan,115256]]'
+- '[[_Standards/WikiData/WD~Tainan,140631]]'
+- '[[_Standards/WikiData/WD~Kaohsiung,181557]]'
+- '[[_Standards/WikiData/WD~New_Taipei,244898]]'
+- '[[_Standards/WikiData/WD~Taichung,245023]]'
+- '[[_Standards/WikiData/WD~Taipei,1867]]'
+- '[[_Standards/WikiData/WD~Taiwan_Province,32081]]'
+- '[[_Standards/WikiData/WD~Fuchien,63698]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Taiwan_Strait,127031]]"
-  - "[[_Standards/WikiData/WD~Philippine_Sea,159183]]"
-  - "[[_Standards/WikiData/WD~Bashi_Channel,715534]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~South_China_Sea,37660]]"
-  - "[[_Standards/WikiData/WD~East_China_Sea,45341]]"
+- '[[_Standards/WikiData/WD~Taiwan_Strait,127031]]'
+- '[[_Standards/WikiData/WD~Philippine_Sea,159183]]'
+- '[[_Standards/WikiData/WD~Bashi_Channel,715534]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~South_China_Sea,37660]]'
+- '[[_Standards/WikiData/WD~East_China_Sea,45341]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~Tunisia,948]]"
-  - "[[_Standards/WikiData/WD~Zimbabwe,954]]"
-  - "[[_Standards/WikiData/WD~Zambia,953]]"
-  - "[[_Standards/WikiData/WD~Benin,962]]"
-  - "[[_Standards/WikiData/WD~Botswana,963]]"
-  - "[[_Standards/WikiData/WD~Burundi,967]]"
-  - "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
-  - "[[_Standards/WikiData/WD~Comoros,970]]"
-  - "[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]"
-  - "[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]"
-  - "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
-  - "[[_Standards/WikiData/WD~Eritrea,986]]"
-  - "[[_Standards/WikiData/WD~Guinea,1006]]"
-  - "[[_Standards/WikiData/WD~The_Gambia,1005]]"
-  - "[[_Standards/WikiData/WD~Cape_Verde,1011]]"
-  - "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-  - "[[_Standards/WikiData/WD~Liberia,1014]]"
-  - "[[_Standards/WikiData/WD~Lesotho,1013]]"
-  - "[[_Standards/WikiData/WD~Madagascar,1019]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Malawi,1020]]"
-  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Mozambique,1029]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Nigeria,1033]]"
-  - "[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]"
-  - "[[_Standards/WikiData/WD~Rwanda,1037]]"
-  - "[[_Standards/WikiData/WD~Senegal,1041]]"
-  - "[[_Standards/WikiData/WD~Sierra_Leone,1044]]"
-  - "[[_Standards/WikiData/WD~Somalia,1045]]"
-  - "[[_Standards/WikiData/WD~Eswatini,1050]]"
-  - "[[_Standards/WikiData/WD~Cook_Islands,26988]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Sweden,34]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Luxembourg,32]]"
-  - "[[_Standards/WikiData/WD~Finland,33]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~Ghana,117]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Estonia,191]]"
-  - "[[_Standards/WikiData/WD~Latvia,211]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Moldova,217]]"
-  - "[[_Standards/WikiData/WD~Albania,222]]"
-  - "[[_Standards/WikiData/WD~North_Macedonia,221]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
-  - "[[_Standards/WikiData/WD~Andorra,228]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-  - "[[_Standards/WikiData/WD~Monaco,235]]"
-  - "[[_Standards/WikiData/WD~Malta,233]]"
-  - "[[_Standards/WikiData/WD~San_Marino,238]]"
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Singapore,334]]"
-  - "[[_Standards/WikiData/WD~Liechtenstein,347]]"
-  - "[[_Standards/WikiData/WD~Bahrain,398]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Cambodia,424]]"
-  - "[[_Standards/WikiData/WD~Timor-Leste,574]]"
-  - "[[_Standards/WikiData/WD~Chad,657]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Tuvalu,672]]"
-  - "[[_Standards/WikiData/WD~Tonga,678]]"
-  - "[[_Standards/WikiData/WD~Samoa,683]]"
-  - "[[_Standards/WikiData/WD~Vanuatu,686]]"
-  - "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
-  - "[[_Standards/WikiData/WD~Palau,695]]"
-  - "[[_Standards/WikiData/WD~Nauru,697]]"
-  - "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
-  - "[[_Standards/WikiData/WD~Fiji,712]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Suriname,730]]"
-  - "[[_Standards/WikiData/WD~Guyana,734]]"
-  - "[[_Standards/WikiData/WD~Paraguay,733]]"
-  - "[[_Standards/WikiData/WD~Colombia,739]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
-  - "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
-  - "[[_Standards/WikiData/WD~Saint_Lucia,760]]"
-  - "[[_Standards/WikiData/WD~Jamaica,766]]"
-  - "[[_Standards/WikiData/WD~Grenada,769]]"
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~The_Bahamas,778]]"
-  - "[[_Standards/WikiData/WD~Honduras,783]]"
-  - "[[_Standards/WikiData/WD~Dominica,784]]"
-  - "[[_Standards/WikiData/WD~Haiti,790]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Costa_Rica,800]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Jordan,810]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Laos,819]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Lebanon,822]]"
-  - "[[_Standards/WikiData/WD~Maldives,826]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Myanmar,836]]"
-  - "[[_Standards/WikiData/WD~Nepal,837]]"
-  - "[[_Standards/WikiData/WD~Oman,842]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Qatar,846]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Thailand,869]]"
-  - "[[_Standards/WikiData/WD~Turkmenistan,874]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~Mali,912]]"
-  - "[[_Standards/WikiData/WD~Brunei,921]]"
-  - "[[_Standards/WikiData/WD~Tanzania,924]]"
-  - "[[_Standards/WikiData/WD~Central_African_Republic,929]]"
-  - "[[_Standards/WikiData/WD~Togo,945]]"
-  - "[[_Standards/WikiData/WD~Montenegro,236]]"
-  - "[[_Standards/WikiData/WD~Belize,242]]"
-  - "[[_Standards/WikiData/WD~Barbados,244]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-  - "[[_Standards/WikiData/WD~Niue,34020]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_Republic_of_China,173535]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_the_Republic_of_China,198642]]"
-language_used: "[[_Standards/WikiData/WD~Standard_Taiwanese_Mandarin,262828]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~Demographics_of_Taiwan,458408]]"
-highest_point: "[[_Standards/WikiData/WD~Yushan_Main_Peak,500275]]"
-culture: "[[_Standards/WikiData/WD~Chinese_culture,645917]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier_of_the_Republic_of_China,702650]]"
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Zimbabwe,954]]'
+- '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Benin,962]]'
+- '[[_Standards/WikiData/WD~Botswana,963]]'
+- '[[_Standards/WikiData/WD~Burundi,967]]'
+- '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
+- '[[_Standards/WikiData/WD~Comoros,970]]'
+- '[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
+- '[[_Standards/WikiData/WD~Eritrea,986]]'
+- '[[_Standards/WikiData/WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~The_Gambia,1005]]'
+- '[[_Standards/WikiData/WD~Cape_Verde,1011]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
+- '[[_Standards/WikiData/WD~Cameroon,1009]]'
+- '[[_Standards/WikiData/WD~Liberia,1014]]'
+- '[[_Standards/WikiData/WD~Lesotho,1013]]'
+- '[[_Standards/WikiData/WD~Madagascar,1019]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Malawi,1020]]'
+- '[[_Standards/WikiData/WD~Mauritius,1027]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Namibia,1030]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Senegal,1041]]'
+- '[[_Standards/WikiData/WD~Sierra_Leone,1044]]'
+- '[[_Standards/WikiData/WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Eswatini,1050]]'
+- '[[_Standards/WikiData/WD~Cook_Islands,26988]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Luxembourg,32]]'
+- '[[_Standards/WikiData/WD~Finland,33]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Ghana,117]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Estonia,191]]'
+- '[[_Standards/WikiData/WD~Latvia,211]]'
+- '[[_Standards/WikiData/WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Moldova,217]]'
+- '[[_Standards/WikiData/WD~Albania,222]]'
+- '[[_Standards/WikiData/WD~North_Macedonia,221]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
+- '[[_Standards/WikiData/WD~Andorra,228]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Monaco,235]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~San_Marino,238]]'
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Liechtenstein,347]]'
+- '[[_Standards/WikiData/WD~Bahrain,398]]'
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~Timor-Leste,574]]'
+- '[[_Standards/WikiData/WD~Chad,657]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Tuvalu,672]]'
+- '[[_Standards/WikiData/WD~Tonga,678]]'
+- '[[_Standards/WikiData/WD~Samoa,683]]'
+- '[[_Standards/WikiData/WD~Vanuatu,686]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
+- '[[_Standards/WikiData/WD~Palau,695]]'
+- '[[_Standards/WikiData/WD~Nauru,697]]'
+- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
+- '[[_Standards/WikiData/WD~Fiji,712]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Suriname,730]]'
+- '[[_Standards/WikiData/WD~Guyana,734]]'
+- '[[_Standards/WikiData/WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- '[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]'
+- '[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]'
+- '[[_Standards/WikiData/WD~Saint_Lucia,760]]'
+- '[[_Standards/WikiData/WD~Jamaica,766]]'
+- '[[_Standards/WikiData/WD~Grenada,769]]'
+- '[[_Standards/WikiData/WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~The_Bahamas,778]]'
+- '[[_Standards/WikiData/WD~Honduras,783]]'
+- '[[_Standards/WikiData/WD~Dominica,784]]'
+- '[[_Standards/WikiData/WD~Haiti,790]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Costa_Rica,800]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Laos,819]]'
+- '[[_Standards/WikiData/WD~Kuwait,817]]'
+- '[[_Standards/WikiData/WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Maldives,826]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Nepal,837]]'
+- '[[_Standards/WikiData/WD~Oman,842]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Qatar,846]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Thailand,869]]'
+- '[[_Standards/WikiData/WD~Turkmenistan,874]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Afghanistan,889]]'
+- '[[_Standards/WikiData/WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Brunei,921]]'
+- '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Central_African_Republic,929]]'
+- '[[_Standards/WikiData/WD~Togo,945]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+- '[[_Standards/WikiData/WD~Belize,242]]'
+- '[[_Standards/WikiData/WD~Barbados,244]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Niue,34020]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Republic_of_China,173535]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_the_Republic_of_China,198642]]'
+language_used: '[[_Standards/WikiData/WD~Standard_Taiwanese_Mandarin,262828]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~Demographics_of_Taiwan,458408]]'
+highest_point: '[[_Standards/WikiData/WD~Yushan_Main_Peak,500275]]'
+culture: '[[_Standards/WikiData/WD~Chinese_culture,645917]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Premier_of_the_Republic_of_China,702650]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Taiwan_time,712168]]"
-  - "[[_Standards/WikiData/WD~Asia_Taipei,4806305]]"
-  - "[[_Standards/WikiData/WD~UTC+08_00,6985]]"
-executive_body: "[[_Standards/WikiData/WD~Executive_Yuan,715055]]"
-economy_of_topic: "[[_Standards/WikiData/WD~Economy_of_Taiwan,715557]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislative_Yuan,715869]]"
+- '[[_Standards/WikiData/WD~Taiwan_time,712168]]'
+- '[[_Standards/WikiData/WD~Asia_Taipei,4806305]]'
+- '[[_Standards/WikiData/WD~UTC+08_00,6985]]'
+executive_body: '[[_Standards/WikiData/WD~Executive_Yuan,715055]]'
+economy_of_topic: '[[_Standards/WikiData/WD~Economy_of_Taiwan,715557]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislative_Yuan,715869]]'
 geography_of_topic:
-  - "[[_Standards/WikiData/WD~geography_of_China,839778]]"
-  - "[[_Standards/WikiData/WD~geography_of_Taiwan,22528]]"
-anthem: "[[_Standards/WikiData/WD~National_Anthem_of_the_Republic_of_China,864979]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Republic_of_China,887003]]"
+- '[[_Standards/WikiData/WD~geography_of_China,839778]]'
+- '[[_Standards/WikiData/WD~geography_of_Taiwan,22528]]'
+anthem: '[[_Standards/WikiData/WD~National_Anthem_of_the_Republic_of_China,864979]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Republic_of_China,887003]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]"
-  - "[[_Standards/WikiData/WD~Taoism,9598]]"
-  - "[[_Standards/WikiData/WD~Buddhism,748]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Republic_of_China,1151968]]"
+- '[[_Standards/WikiData/WD~Chinese_folk_religion,1074275]]'
+- '[[_Standards/WikiData/WD~Taoism,9598]]'
+- '[[_Standards/WikiData/WD~Buddhism,748]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Republic_of_China,1151968]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~constitutional_republic,1520223]]"
-  - "[[_Standards/WikiData/WD~democracy,7174]]"
-  - "[[_Standards/WikiData/WD~semi-presidential_system,49890]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-head_of_state: "[[_Standards/WikiData/WD~Lai_Ching-te,3847080]]"
-head_of_government: "[[_Standards/WikiData/WD~Cho_Jung-tai,5116472]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Taiwan,7112477]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Administrative_divisions_of_Taiwan,9012857]]"
+- '[[_Standards/WikiData/WD~constitutional_republic,1520223]]'
+- '[[_Standards/WikiData/WD~democracy,7174]]'
+- '[[_Standards/WikiData/WD~semi-presidential_system,49890]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+head_of_state: '[[_Standards/WikiData/WD~Lai_Ching-te,3847080]]'
+head_of_government: '[[_Standards/WikiData/WD~Cho_Jung-tai,5116472]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Taiwan,7112477]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Administrative_divisions_of_Taiwan,9012857]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Taiwan.map
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/%E8%87%BA%E7%81%A3%28%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%29%E5%9C%B0%E5%9C%96.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/DaZhongZhiZheng%20banner.jpg
@@ -387,46 +826,46 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Republi
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Subdivision%20types%20of%20the%20Republic%20of%20China%20%282014%29.svg
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Taiwan%20Main%20Island%20Mosaic%20NASA%202020.jpg
 official_website:
-  - https://www.gov.tw
-  - https://www.taiwan.gov.tw/
+- https://www.gov.tw
+- https://www.taiwan.gov.tw/
 country_calling_code: 886
 Libris_URI: 31fhghxm5smt9wc
-member_of: "[[_Standards/WikiData/WD~United_Nations,1065]]"
-capital: "[[_Standards/WikiData/WD~Taipei,1867]]"
+member_of: '[[_Standards/WikiData/WD~United_Nations,1065]]'
+capital: '[[_Standards/WikiData/WD~Taipei,1867]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Taiwan_Island,22502]]"
-  - "[[_Standards/WikiData/WD~Asia,48]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Blue_Sky_with_a_White_Sun,26562]]"
-part_of: "[[_Standards/WikiData/WD~East_Asia,27231]]"
+- '[[_Standards/WikiData/WD~Taiwan_Island,22502]]'
+- '[[_Standards/WikiData/WD~Asia,48]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Blue_Sky_with_a_White_Sun,26562]]'
+part_of: '[[_Standards/WikiData/WD~East_Asia,27231]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+continent: '[[_Standards/WikiData/WD~Asia,48]]'
 territory_claimed_by: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 marriageable_age: 20
 age_of_majority:
-  - 20
-  - 18
+- 20
+- 18
 ISNI: 000000012285649X
 short_name:
-  - 🇹🇼
-  - Тайвань
-  - Тайвань
-  - ROC
-  - Taïwan
-  - TWN
-  - 台湾
-  - 臺灣
+- "\U0001F1F9\U0001F1FC"
+- Тайвань
+- Тайвань
+- ROC
+- Taïwan
+- TWN
+- 台湾
+- 臺灣
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28zh%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28nan%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28zh%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Q865%20%28nan%29%20lilauid-%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B.ogg
 described_at_URL: https://www.ey.gov.tw/state/
 MeSH_tree_code:
-  - Z01.252.474.872
-  - Z01.639.850
+- Z01.252.474.872
+- Z01.639.850
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Taipei%20Night%20Skyline%20from%20Hongludi%2020240113.jpg
-country: "[[_Standards/WikiData/WD~Taiwan,865]]"
+country: '[[_Standards/WikiData/WD~Taiwan,865]]'
 VAT_rate: 5
 compulsory_education_minimum_age_: 7
 mains_voltage: 110
@@ -436,31 +875,31 @@ total_fertility_rate: 1.07
 inflation_rate: 2.07
 Gini_coefficient: 0.338
 unemployment_rate: 3.39
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.tw,43824]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tw,43824]]'
 Happy_Planet_Index_score: 43.2
 trunk_prefix: 0
 ISO_3166_1_numeric_code: 158
 BTI_Governance_Index:
-  - 7.04
-  - 7.12
-  - 7.33
-  - 7.37
-  - 7.48
-  - 7.64
-  - 7.68
-  - 7.72
+- 7.04
+- 7.12
+- 7.33
+- 7.37
+- 7.48
+- 7.64
+- 7.68
+- 7.72
 Democracy_Index: 8.99
 Human_Development_Index: 0.911
 BTI_Status_Index:
-  - 9.18
-  - 9.33
-  - 9.39
-  - 9.42
-  - 9.48
-  - 9.49
-  - 9.53
-  - 9.54
-  - 9.58
+- 9.18
+- 9.33
+- 9.39
+- 9.42
+- 9.48
+- 9.49
+- 9.53
+- 9.54
+- 9.58
 mobile_country_code: 466
 GS1_country_code: 471
 base_salary: 27470
@@ -491,11 +930,11 @@ inception: 1912
 has_time_started: 1912-06
 coordinates_of_easternmost_point: Point(122.10638889 25.485)
 location:
-  - 25.08
-  - 121.55
+- 25.08
+- 121.55
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27042
 isDeleted: false
 confidential: public
@@ -503,23 +942,22 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Taiwan
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - zh-TW
-  - zh
-  - nan
-  - hak
+- zh-TW
+- zh
+- nan
+- hak
 icon: flag-tw
 ---
-
 # [[Taiwan]] 
 
 ## [[Taiwan]] has Properties...

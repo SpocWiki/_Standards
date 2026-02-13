@@ -1,4 +1,100 @@
-
+---
+has_id_wikidata: Q248
+dv_has_:
+  name_:
+    ar: إنتل
+    ast: Intel Corporation
+    azb: اینتل
+    be: Intel
+    be-tarask: Інтэл
+    bg: Интел
+    bn: ইন্টেল কর্পোরেশন
+    ca: Intel Corporation
+    ckb: ئینتێل
+    de: Intel
+    el: Intel Corporation
+    en: Intel
+    eo: Intel
+    es: Intel
+    fa: اینتل
+    fr: Intel
+    gl: Intel Corporation
+    gu: ઇન્ટેલ કોર્પોરેશન
+    hak: Yîn-thi̍t-ngì
+    he: אינטל
+    hi: इंटेल
+    hy: Ինտել
+    id: Intel Corporation
+    is: Intel Corporation
+    it: Intel
+    ja: インテル
+    kn: ಇಂಟೆಲ್ ಕಾರ್ಪೊರೇಶನ್
+    ko: 인텔
+    lt: Intel Corporation
+    lv: Intel Corporation
+    mk: Интел
+    ml: ഇന്റൽ കോർപ്പറേഷൻ
+    mr: इंटेल कॉर्पोरेशन
+    ms: Intel Corporation
+    mul: Intel
+    my: intel
+    ne: इन्टेल
+    or: ଇଣ୍ଟେଲ
+    pa: ਇਨਟੈੱਲ
+    pnb: انٹل
+    pt: Intel
+    ro: Intel
+    si: ඉන්ටෙල්
+    sq: Intel Corporation
+    sr: Интел
+    sr-ec: Интел
+    su: Intel Corporation
+    ta: இன்டெல்
+    te: ఇంటెల్ సంస్థ
+    th: อินเทล
+    ur: اینٹل کارپوریشن
+    wuu: 英特尔
+    yue: 英特爾
+    zh: 英特尔
+    zh-cn: 英特尔
+    zh-hans: 英特尔
+    zh-hant: 英特爾
+    zh-hk: 英特爾
+    zh-mo: 英特爾
+    zh-my: 英特尔
+    zh-sg: 英特尔
+    zh-tw: 英特爾
+aliases:
+- Intel
+- Intel Corporation
+- Yîn-thi̍t-ngì
+- Інтэл
+- Интел
+- Ինտել
+- אינטל
+- إنتل
+- ئینتێل
+- انٹل
+- اینتل
+- اینٹل کارپوریشن
+- इंटेल
+- इंटेल कॉर्पोरेशन
+- इन्टेल
+- ইন্টেল কর্পোরেশন
+- ਇਨਟੈੱਲ
+- ઇન્ટેલ કોર્પોરેશન
+- ଇଣ୍ଟେଲ
+- இன்டெல்
+- ఇంటెల్ సంస్థ
+- ಇಂಟೆಲ್ ಕಾರ್ಪೊರೇಶನ್
+- ഇന്റൽ കോർപ്പറേഷൻ
+- ඉන්ටෙල්
+- อินเทล
+- インテル
+- 英特尔
+- 英特爾
+- 인텔
+---
 # [[Intel]] 
 
 #has_/time_/started :: 1968-07-18 

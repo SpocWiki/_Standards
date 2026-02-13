@@ -1,18 +1,107 @@
 ---
 aliases:
+- electromagneteg
+- electromagnetism
+- electromagnetisme
+- electromagnetismo
+- electromagnetizm
+- elektiroomaagneetiizimii
+- elektromagnetism
+- elektromagnetisma
+- elektromagnetisme
+- elektromagnetismm
+- elektromagnetismo
+- Elektromagnetismus
+- elektromagnetizam
+- elektromagnetizm
+- elektromagnetizmi
+- elektromagnetizmus
+- elektromagnetna interakcija
+- elektromagnetyzm
+- elektromagnētisms
+- elektromanyetizma
+- elektromaqnetizm
+- elektromágnesség
+- Elektwomayetis
+- eletromagnetismo
+- elettromagnetismo
+- elettromanjetiżmu
+- elettrumagnatìsimu
+- ełetromagnetismo
+- Ilekchomagnetizim
+- Illari-llut'ariy
+- keelektromagnetan
+- leictreamaighnéadas
+- Lektromagnetisme
+- lletromagnetismu
+- Lèstrik besi berani
+- mbëjbijjaakon
+- physica electromagnetica
+- rafsegulfræði
+- sähkömagnetismi
+- taliktṛamaɣniṭit
+- tiān-chû-la̍t
+- ubunzubawonga
+- électromagnétisme
+- Élektomagnétism
+- éléktromagnétisme
+- điện từ học
+- šleđgâmagnetism
+- ηλεκτρομαγνητισμός
+- електромагнетизам
+- електромагнетизм
+- електромагнетизъм
+- електромаґнетізм
+- сахилгаан суранзан
+- цахилгаан соронзон
+- электрамагнетызм
+- электрамагнэтызм
+- электромагнетизм
+- электромагнитизм
+- электромагниттік өзара әсерлесу
+- էլեկտրամագնիսականություն
+- אלקטרומגנטיות
+- עלעקטראמאגנעטיזם
+- الکترومغناطیس
+- الیکٹرومیگنیٹزم
+- برقناطيسيت
+- برقناطیسی قوت
+- كهرطيسية
+- کأيليکترومݢنيتن
+- کارۆموگناتیسی
+- विद्युतचुंबकत्व
+- विद्युतचुम्बकत्व
+- विद्युत्चुम्बकत्व
+- তড়িৎচুম্বকত্ব
+- বিদ্যুত চুম্বকত্ব
+- ਬਿਜਲਈ ਚੁੰਬਕਤਾ
+- ବିଦ୍ୟୁତ୍-ଚୁମ୍ବକତ୍ଵ
+- மின்காந்தவியல்
+- ವಿದ್ಯುತ್ಕಾಂತತೆ
+- വൈദ്യുതകാന്തികത
+- විද් යූත් චුම්භක බලය
+- ทฤษฎีแม่เหล็กไฟฟ้า
+- གློག་སྡུད་རིག་པ་
+- လျှပ်စစ်သံလိုက်
+- ელექტრომაგნეტიზმი
+- អេឡិចត្រូម៉ាញ៉េទិច
+- 电磁学
+- 電磁學
+- 電磁気学
+- 전자기학
 has_id_wikidata: Q11406
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~electricity,12725]]"
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~electricity,12725]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_electromagnetism_and_classical_optics,2913714]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Electromagnetism,6329058]]"
-part_of: "[[_Standards/WikiData/WD~physics,413]]"
-OmegaWiki_Defined_Meaning: "340954"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_electromagnetism_and_classical_optics,2913714]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Electromagnetism,6329058]]'
+part_of: '[[_Standards/WikiData/WD~physics,413]]'
+OmegaWiki_Defined_Meaning: 340954
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ferrofluid%20poles.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/VFPt%20Solenoid%20correct2.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/electromagnetism
@@ -20,8 +109,145 @@ IEV_number: 121-11-74
 GitHub_topic: electromagnetism
 Commons_category: Electromagnetism
 IPTC_NewsCode: mediatopic/20000732
+dv_has_:
+  name_:
+    af: elektromagnetisme
+    an: electromagnetismo
+    anp: विद्युत्चुम्बकत्व
+    ar: كهرطيسية
+    as: বিদ্যুত চুম্বকত্ব
+    ast: lletromagnetismu
+    az: elektromaqnetizm
+    azb: الکترومغناطیس
+    be: электрамагнетызм
+    be-tarask: электрамагнэтызм
+    bew: Lèstrik besi berani
+    bg: електромагнетизъм
+    bho: विद्युत्चुम्बकत्व
+    bn: তড়িৎচুম্বকত্ব
+    bo: གློག་སྡུད་རིག་པ་
+    bs: elektromagnetizam
+    bxr: сахилгаан суранзан
+    ca: electromagnetisme
+    ckb: کارۆموگناتیسی
+    crh: electromagnetizm
+    cs: elektromagnetismus
+    cy: electromagneteg
+    da: elektromagnetisme
+    de: Elektromagnetismus
+    el: ηλεκτρομαγνητισμός
+    en: electromagnetism
+    en-ca: electromagnetism
+    en-gb: electromagnetism
+    eo: elektromagnetismo
+    es: electromagnetismo
+    et: elektromagnetism
+    eu: elektromagnetismo
+    fa: الکترومغناطیس
+    fi: sähkömagnetismi
+    fr: électromagnétisme
+    fy: Elektromagnetisme
+    ga: leictreamaighnéadas
+    gcr: Élektomagnétism
+    gl: electromagnetismo
+    gor: Elektromagnetisme
+    he: אלקטרומגנטיות
+    hi: विद्युतचुम्बकत्व
+    hif: electromagnetism
+    hr: elektromagnetizam
+    hsb: elektromagnetizm
+    ht: Elektwomayetis
+    hu: elektromágnesség
+    hy: էլեկտրամագնիսականություն
+    ia: electromagnetismo
+    id: elektromagnetisme
+    ig: electromagnetism
+    io: elektromagnetismo
+    is: rafsegulfræði
+    it: elettromagnetismo
+    ja: 電磁気学
+    jam: Ilekchomagnetizim
+    ka: ელექტრომაგნეტიზმი
+    kaa: elektromagnetizm
+    kk: электромагниттік өзара әсерлесу
+    km: អេឡិចត្រូម៉ាញ៉េទិច
+    kn: ವಿದ್ಯುತ್ಕಾಂತತೆ
+    ko: 전자기학
+    ky: электромагнитизм
+    la: physica electromagnetica
+    lb: elektromagnetismus
+    li: Lektromagnetisme
+    lv: elektromagnētisms
+    mk: електромагнетизам
+    ml: വൈദ്യുതകാന്തികത
+    mn: цахилгаан соронзон
+    mr: विद्युतचुंबकत्व
+    ms: keelektromagnetan
+    ms-arab: کأيليکترومݢنيتن
+    mt: elettromanjetiżmu
+    my: လျှပ်စစ်သံလိုက်
+    nan: tiān-chû-la̍t
+    nb: elektromagnetisme
+    new: विद्युतचुम्बकत्व
+    nl: elektromagnetisme
+    nn: elektromagnetisme
+    oc: electromagnetisme
+    om: elektiroomaagneetiizimii
+    or: ବିଦ୍ୟୁତ୍-ଚୁମ୍ବକତ୍ଵ
+    os: электромагнетизм
+    pa: ਬਿਜਲਈ ਚੁੰਬਕਤਾ
+    pl: elektromagnetyzm
+    pnb: الیکٹرومیگنیٹزم
+    pt: eletromagnetismo
+    pt-br: eletromagnetismo
+    qu: Illari-llut'ariy
+    ro: electromagnetism
+    ru: электромагнетизм
+    rue: електромаґнетізм
+    scn: elettrumagnatìsimu
+    sd: برقناطيسيت
+    se: elektromagnetisma
+    sh: elektromagnetizam
+    shi: taliktṛamaɣniṭit
+    si: විද් යූත් චුම්භක බලය
+    sk: elektromagnetizmus
+    sl: elektromagnetna interakcija
+    smn: šleđgâmagnetism
+    sms: elektromagnetismm
+    sq: elektromagnetizmi
+    sr: електромагнетизам
+    sr-ec: електромагнетизам
+    sr-el: elektromagnetizam
+    su: éléktromagnétisme
+    sv: elektromagnetism
+    ta: மின்காந்தவியல்
+    tg: электромагнетизм
+    th: ทฤษฎีแม่เหล็กไฟฟ้า
+    tl: elektromagnetismo
+    tr: elektromanyetizma
+    tt: elektromagnetizm
+    uk: електромагнетизм
+    ur: برقناطیسی قوت
+    uz: elektromagnetizm
+    vec: ełetromagnetismo
+    vi: điện từ học
+    war: electromagnetismo
+    wo: mbëjbijjaakon
+    wuu: 电磁学
+    xmf: ელექტრომაგნეტიზმი
+    yi: עלעקטראמאגנעטיזם
+    yue: 電磁學
+    zh: 电磁学
+    zh-cn: 电磁学
+    zh-hans: 电磁学
+    zh-hant: 電磁學
+    zh-hk: 電磁學
+    zh-mo: 電磁學
+    zh-my: 电磁学
+    zh-sg: 电磁学
+    zh-tw: 電磁學
+    zu: ubunzubawonga
 ---
-
 # [[Electromagnetism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~electromagnetism,11406]] 

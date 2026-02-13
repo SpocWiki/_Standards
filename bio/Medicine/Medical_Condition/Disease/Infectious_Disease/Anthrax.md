@@ -1,96 +1,293 @@
 ---
 aliases:
+- anthracs
+- Anthraks
+- anthrax
+- Antiraaksii
+- antrace
+- Antraks
+- Antraksi
+- antrakso
+- antrasc
+- Antrax
+- Antraxo
+- antraz
+- aнтракс
+- Banzo
+- binghdancih
+- bệnh than
+- carboncle
+- carbunco
+- carbuncu
+- carbóncio
+- Carbúnculo
+- Cravunchiu
+- dáđvesonahat
+- jaki Antasi
+- Jamandat
+- Juodligė
+- karbunko
+- Kimeta
+- Kuydirgi
+- lépfene
+- maladie du charbon
+- miltbrand
+- miltbrann
+- Miltisbrandur
+- miltsiekte
+- miltvuur
+- mjältbrand
+- Mëlzbrand
+- pernarutto
+- qarayara
+- Serk
+- Siberi katk
+- Sibīrijas mēris
+- Slezinová sneť
+- täbđirotto
+- wąglik
+- şarbon
+- άνθρακας
+- Антракс
+- Жамандат
+- Күйдүргү
+- сібірская язва
+- сибірка
+- сибирская язва
+- Сотуун өлүү
+- Сӯхтанӣ
+- Түләмә
+- Սիբիրախտ
+- גחלת
+- الجمره الخبيثه
+- انتراکس
+- جاماندات
+- جمرة خبيثة
+- جمرہ (مرض)
+- دوومەڵ
+- سیاهزخم
+- قارایارا
+- अँथ्रॅक्स
+- एंथ्राक्स
+- एन्थ्र्याक्स
+- অ্যানথ্রাক্স
+- এনথ্ৰাক্স
+- ଆନ୍ଥ୍ରାକ୍ସ
+- ஆந்த்ராக்ஸ்
+- ನೆರಡಿ
+- ആന്ത്രാക്സ്
+- แอนแทรกซ์
+- ဒေါင့်သန်း
+- ჯილეხი
+- 炭疽
+- 炭疽病
+- 炭疽症
+- 탄저
 has_id_wikidata: Q129104
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~swelling,109186]]"
-  - "[[_Standards/WikiData/WD~nausea,186889]]"
-  - "[[_Standards/WikiData/WD~hematochezia,1642049]]"
-  - "[[_Standards/WikiData/WD~lymphadenitis,3269466]]"
-  - "[[_Standards/WikiData/WD~rectorrhagia,3422583]]"
-  - "[[_Standards/WikiData/WD~ulcer,6452285]]"
-  - "[[_Standards/WikiData/WD~meningism_signs,12122651]]"
-  - "[[_Standards/WikiData/WD~diarrhea,40878]]"
+- '[[_Standards/WikiData/WD~swelling,109186]]'
+- '[[_Standards/WikiData/WD~nausea,186889]]'
+- '[[_Standards/WikiData/WD~hematochezia,1642049]]'
+- '[[_Standards/WikiData/WD~lymphadenitis,3269466]]'
+- '[[_Standards/WikiData/WD~rectorrhagia,3422583]]'
+- '[[_Standards/WikiData/WD~ulcer,6452285]]'
+- '[[_Standards/WikiData/WD~meningism_signs,12122651]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~veterinary_medicine,170201]]"
-  - "[[_Standards/WikiData/WD~infectious_diseases,788926]]"
+- '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 anatomical_location:
-  - "[[_Standards/WikiData/WD~lymph_node,170758]]"
-  - "[[_Standards/WikiData/WD~meninges,268930]]"
-  - "[[_Standards/WikiData/WD~lymphatic_system,712604]]"
-  - "[[_Standards/WikiData/WD~skin,1074]]"
-  - "[[_Standards/WikiData/WD~lung,7886]]"
-  - "[[_Standards/WikiData/WD~intestine,9639]]"
+- '[[_Standards/WikiData/WD~lymph_node,170758]]'
+- '[[_Standards/WikiData/WD~meninges,268930]]'
+- '[[_Standards/WikiData/WD~lymphatic_system,712604]]'
+- '[[_Standards/WikiData/WD~skin,1074]]'
+- '[[_Standards/WikiData/WD~lung,7886]]'
+- '[[_Standards/WikiData/WD~intestine,9639]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~zoonosis,182672]]"
-  - "[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]"
-  - "[[_Standards/WikiData/WD~primary_Bacillaceae_infectious_disease,18968192]]"
-  - "[[_Standards/WikiData/WD~disease,12136]]"
+- '[[_Standards/WikiData/WD~zoonosis,182672]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~primary_Bacillaceae_infectious_disease,18968192]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~streptomycin,192717]]"
-  - "[[_Standards/WikiData/WD~erythromycin,213511]]"
-  - "[[_Standards/WikiData/WD~ciprofloxacin,256602]]"
-  - "[[_Standards/WikiData/WD~minocycline,415336]]"
-  - "[[_Standards/WikiData/WD~doxycycline,422442]]"
-  - "[[_Standards/WikiData/WD~penicillin_G_procaine_hydrate,13026783]]"
+- '[[_Standards/WikiData/WD~streptomycin,192717]]'
+- '[[_Standards/WikiData/WD~erythromycin,213511]]'
+- '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
+- '[[_Standards/WikiData/WD~minocycline,415336]]'
+- '[[_Standards/WikiData/WD~doxycycline,422442]]'
+- '[[_Standards/WikiData/WD~penicillin_G_procaine_hydrate,13026783]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~notifiable_disease,314676]]"
-  - "[[_Standards/WikiData/WD~infectious_disease,18123741]]"
-  - "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
+- '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_cause:
-  - "[[_Standards/WikiData/WD~Bacillus_anthracis,614156]]"
-  - "[[_Standards/WikiData/WD~anthrax_toxin,1935986]]"
+- '[[_Standards/WikiData/WD~Bacillus_anthracis,614156]]'
+- '[[_Standards/WikiData/WD~anthrax_toxin,1935986]]'
 medical_examination:
-  - "[[_Standards/WikiData/WD~physical_examination,835153]]"
-  - "[[_Standards/WikiData/WD~complete_blood_count,886518]]"
-  - "[[_Standards/WikiData/WD~optical_microscope,912313]]"
-  - "[[_Standards/WikiData/WD~microbiological_culture,1125312]]"
-  - "[[_Standards/WikiData/WD~Ascoli's_test,11283449]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
+- '[[_Standards/WikiData/WD~physical_examination,835153]]'
+- '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
+- '[[_Standards/WikiData/WD~optical_microscope,912313]]'
+- '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
+- "[[_Standards/WikiData/WD~Ascoli's_test,11283449]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 has_natural_reservoir:
-  - "[[_Standards/WikiData/WD~Q4289565,4289565]]"
-  - "[[_Standards/WikiData/WD~cattle,4767951]]"
-  - "[[_Standards/WikiData/WD~horse,726]]"
-  - "[[_Standards/WikiData/WD~Equus_africanus_asinus,19707]]"
-  - "[[_Standards/WikiData/WD~Cervidae,23390]]"
-  - "[[_Standards/WikiData/WD~soil,36133]]"
-different_from: "[[_Standards/WikiData/WD~Wąglik,8041051]]"
+- '[[_Standards/WikiData/WD~Q4289565,4289565]]'
+- '[[_Standards/WikiData/WD~cattle,4767951]]'
+- '[[_Standards/WikiData/WD~horse,726]]'
+- '[[_Standards/WikiData/WD~Equus_africanus_asinus,19707]]'
+- '[[_Standards/WikiData/WD~Cervidae,23390]]'
+- '[[_Standards/WikiData/WD~soil,36133]]'
+different_from: '[[_Standards/WikiData/WD~Wąglik,8041051]]'
 disease_transmission_process:
-  - "[[_Standards/WikiData/WD~airborne_transmission,11986959]]"
-  - "[[_Standards/WikiData/WD~contact_transmission,15304512]]"
-  - "[[_Standards/WikiData/WD~vector_borne_transmission,15304520]]"
+- '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
+- '[[_Standards/WikiData/WD~contact_transmission,15304512]]'
+- '[[_Standards/WikiData/WD~vector_borne_transmission,15304520]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~ASTN2,18037030]]"
-  - "[[_Standards/WikiData/WD~SPSB1,18046623]]"
-DiseasesDB: "1203"
+- '[[_Standards/WikiData/WD~ASTN2,18037030]]'
+- '[[_Standards/WikiData/WD~SPSB1,18046623]]'
+DiseasesDB: 1203
 ICD_10_CM:
-  - A22
-  - A22.9
+- A22
+- A22.9
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anthrax%20PHIL%202033.png
 ICD_9_CM:
-  - "022"
-  - "022.8"
-  - "022.9"
+- 022
+- 022.8
+- 022.9
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Miltvuur-article.ogg
 exact_match:
-  - http://identifiers.org/doid/DOID:7427
-  - http://purl.obolibrary.org/obo/DOID_7427
+- http://identifiers.org/doid/DOID:7427
+- http://purl.obolibrary.org/obo/DOID_7427
 described_at_URL: https://www.cdc.gov/anthrax/
 Commons_category: Anthrax (disease)
 UMLS_CUI: C0003175
 MeSH_tree_code: C01.150.252.410.090.072
 Krugosvet_article_archived_: meditsina/sibirskaya-yazva
 Dewey_Decimal_Classification:
-  - "616.956"
-  - "636.0896956"
-  - "614.561"
+- 616.956
+- 636.0896956
+- 614.561
+dv_has_:
+  name_:
+    af: miltsiekte
+    an: Banzo
+    ar: جمرة خبيثة
+    arz: الجمره الخبيثه
+    as: এনথ্ৰাক্স
+    ast: carbuncu
+    az: qarayara
+    azb: قارایارا
+    be: сібірская язва
+    be-tarask: сібірская язва
+    bg: Антракс
+    bn: অ্যানথ্রাক্স
+    br: Serk
+    ca: carboncle
+    ckb: دوومەڵ
+    cs: anthrax
+    cy: anthracs
+    da: miltbrand
+    de: Anthrax
+    el: άνθρακας
+    en: anthrax
+    en-ca: Anthrax
+    en-gb: Anthrax
+    eo: antrakso
+    es: carbunco
+    et: Siberi katk
+    eu: karbunko
+    fa: سیاهزخم
+    fi: pernarutto
+    fr: maladie du charbon
+    ga: antrasc
+    gl: Carbúnculo
+    gpe: anthrax
+    he: גחלת
+    hi: एंथ्राक्स
+    hr: Antraks
+    hu: lépfene
+    hy: Սիբիրախտ
+    id: Antraks
+    io: Antraxo
+    is: Miltisbrandur
+    it: antrace
+    ja: 炭疽症
+    jv: Antraks
+    ka: ჯილეხი
+    kk: Жамандат
+    kk-arab: جاماندات
+    kk-cn: جاماندات
+    kk-cyrl: Жамандат
+    kk-kz: Жамандат
+    kk-latn: Jamandat
+    kk-tr: Jamandat
+    kn: ನೆರಡಿ
+    ko: 탄저
+    kw: Anthraks
+    ky: Күйдүргү
+    lb: Mëlzbrand
+    lt: Juodligė
+    lv: Sibīrijas mēris
+    mk: Антракс
+    ml: ആന്ത്രാക്സ്
+    mr: अँथ्रॅक्स
+    ms: Antraks
+    my: ဒေါင့်သန်း
+    nb: miltbrann
+    ne: एन्थ्र्याक्स
+    nl: miltvuur
+    nn: miltbrann
+    om: Antiraaksii
+    or: ଆନ୍ଥ୍ରାକ୍ସ
+    pl: wąglik
+    ps: انتراکس
+    pt: carbúnculo
+    pt-br: antraz
+    ro: Antrax
+    ru: сибирская язва
+    sah: Сотуун өлүү
+    scn: Cravunchiu
+    se: dáđvesonahat
+    sh: Antraks
+    sk: Slezinová sneť
+    sl: antraks
+    smn: täbđirotto
+    sq: Antraksi
+    sr: aнтракс
+    sr-ec: Антракс
+    sr-el: Antraks
+    su: Antraks
+    sv: mjältbrand
+    sw: Kimeta
+    ta: ஆந்த்ராக்ஸ்
+    tg: Сӯхтанӣ
+    th: แอนแทรกซ์
+    tl: Anthrax
+    tok: jaki Antasi
+    tr: şarbon
+    tt: Түләмә
+    uk: сибірка
+    ur: جمرہ (مرض)
+    uz: Kuydirgi
+    vec: carbóncio
+    vi: bệnh than
+    war: Anthrax
+    wuu: 炭疽病
+    yue: 炭疽
+    za: binghdancih
+    zh: 炭疽病
+    zh-cn: 炭疽病
+    zh-hans: 炭疽病
+    zh-hant: 炭疽病
+    zh-hk: 炭疽病
+    zh-sg: 炭疽病
+    zh-tw: 炭疽病
 ---
-
 # [[Anthrax]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Anthrax,129104|WD~Anthrax,129104]] 

@@ -1,20 +1,74 @@
 ---
 aliases:
-  - 'The Four Seasons (Italian: Le quattro stagioni'
-  - Four_Seasons(Concert)
-  - Four Seasons(Concert)
+- A négy évszak
+- Anotimpurile (Vivaldi)
+- Apat a Kapanawunan
+- Apat na Kapanahunan
+- As catro estacións
+- As Quatro Estações
+- Bốn mùa
+- Cztery pory roku
+- De fire årstidene
+- De fire årstider
+- De fyra årstiderna
+- De vier jaargetijden
+- Dei fire årstidene
+- Die vier Jahreszeiten
+- Dörd fəsil
+- Dört Mevsim
+- Empat Musim
+- Four Seasons(Concert)
+- Four_Seasons(Concert)
+- L-Erba' Staġuni
+- La kvar sezonoj (Vivaldi)
+- Las cuatro estaciones
+- Las Quate Sasons
+- Lau urtaroak
+- Le quattro stagioni
+- Les cuatro estaciones
+- Les quatre estacions
+- Les Quatre Saisons
+- Neli aastaaega
+- Neljä vuodenaikaa
+- Nelli vuvvenaigua
+- The Four Seasons
+- 'The Four Seasons (Italian: Le quattro stagioni'
+- Y Pedwar Tymor
+- Yelasäsuns Fol
+- Četiri godišnja doba
+- Četiri godišnja doba (Vivaldi)
+- Četri gadalaiki
+- Čtvero ročních dob
+- Łe cuatro stajon
+- Οι τέσσερις εποχές
+- Времена года
+- Годишните времена
+- Пори року
+- Чатыры паравіны
+- Четири годишни времиња
+- Տարվա եղանակներ
+- ארבע העונות
+- الفصول الأربعة
+- چار رتاں
+- چهارفصل (ویوالدی)
+- چوار وەرزەکان
+- บทเพลงสี่ฤดู
+- წელიწადის დრონი
+- 四季
+- 四季 (曲)
+- 사계
 has_id_wikidata: Q12016
 instrumentation:
-  - '[[_Standards/WikiData/WD~viola,80284]]'
-  - '[[_Standards/WikiData/WD~continuo_group,114237252]]'
-  - '[[_Standards/WikiData/WD~violin,8355]]'
-  - '[[_Standards/WikiData/WD~cello,8371]]'
+- '[[_Standards/WikiData/WD~viola,80284]]'
+- '[[_Standards/WikiData/WD~continuo_group,114237252]]'
+- '[[_Standards/WikiData/WD~violin,8355]]'
+- '[[_Standards/WikiData/WD~cello,8371]]'
 part_of: "[[_Standards/WikiData/WD~Il_cimento_dell'armonia_e_dell'inventione,_Op._8,2620450]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Concerto_No._1_in_E_major,_Op._8,_RV_269,47008342]]'
-  - '[[_Standards/WikiData/WD~Concerto_No._2_in_G_minor,_Op._8,_RV_315,47008540]]'
-  - '[[_Standards/WikiData/WD~Concerto_No._3_in_F_major,_Op._8,_RV_293,47008556]]'
-  - '[[_Standards/WikiData/WD~Concerto_No._4_in_F_minor,_Op._8,_RV_297,47008571]]'
+- '[[_Standards/WikiData/WD~Concerto_No._1_in_E_major,_Op._8,_RV_269,47008342]]'
+- '[[_Standards/WikiData/WD~Concerto_No._2_in_G_minor,_Op._8,_RV_315,47008540]]'
+- '[[_Standards/WikiData/WD~Concerto_No._3_in_F_major,_Op._8,_RV_293,47008556]]'
+- '[[_Standards/WikiData/WD~Concerto_No._4_in_F_minor,_Op._8,_RV_297,47008571]]'
 instance_of: '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
 form_of_creative_work: '[[_Standards/WikiData/WD~cycle_of_violin_concerti,120206560]]'
 publication_date: 1725-01-01T00:00:00Z
@@ -30,8 +84,70 @@ opus_number: 8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Antonio%20Vivaldi%2C%20Cimento%20dell%27%20Armonia%20e%20dell%27%20Inventione%2C%20Op.%208%2C%20ribro%20primo.png
 Commons_category: The Four Seasons (Vivaldi)
 title: Cimento dell'armonia e dell'inventione. N. 1.-4.
+dv_has_:
+  name_:
+    ar: الفصول الأربعة
+    ast: Les cuatro estaciones
+    az: Dörd fəsil
+    be-tarask: Чатыры паравіны
+    bg: Годишните времена
+    bs: Četiri godišnja doba
+    ca: Les quatre estacions
+    ckb: چوار وەرزەکان
+    cs: Čtvero ročních dob
+    cy: Y Pedwar Tymor
+    da: De fire årstider
+    de: Die vier Jahreszeiten
+    el: Οι τέσσερις εποχές
+    en: The Four Seasons
+    en-ca: The Four Seasons
+    en-gb: The Four Seasons
+    en-us: The Four Seasons
+    eo: La kvar sezonoj (Vivaldi)
+    es: Las cuatro estaciones
+    et: Neli aastaaega
+    eu: Lau urtaroak
+    fa: چهارفصل (ویوالدی)
+    fi: Neljä vuodenaikaa
+    fr: Les Quatre Saisons
+    gl: As catro estacións
+    he: ארבע העונות
+    hr: Četiri godišnja doba
+    hu: A négy évszak
+    hy: Տարվա եղանակներ
+    id: Empat Musim
+    it: Le quattro stagioni
+    ja: 四季
+    ka: წელიწადის დრონი
+    ko: 사계
+    lv: Četri gadalaiki
+    mk: Четири годишни времиња
+    mt: L-Erba' Staġuni
+    nb: De fire årstidene
+    nl: De vier jaargetijden
+    nn: Dei fire årstidene
+    oc: Las Quate Sasons
+    olo: Nelli vuvvenaigua
+    pam: Apat a Kapanawunan
+    pl: Cztery pory roku
+    pnb: چار رتاں
+    pt: As Quatro Estações
+    pt-br: As Quatro Estações
+    ro: Anotimpurile (Vivaldi)
+    ru: Времена года
+    sr: Četiri godišnja doba (Vivaldi)
+    sv: De fyra årstiderna
+    th: บทเพลงสี่ฤดู
+    tl: Apat na Kapanahunan
+    tr: Dört Mevsim
+    uk: Пори року
+    vec: Łe cuatro stajon
+    vi: Bốn mùa
+    vo: Yelasäsuns Fol
+    war: The Four Seasons
+    yue: 四季 (曲)
+    zh: 四季
 ---
-
 # [[Four_Seasons(Concert)]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~The_Four_Seasons,12016|WD~The_Four_Seasons,12016]]  

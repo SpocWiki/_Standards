@@ -1,27 +1,240 @@
 ---
 aliases:
+- amamre
+- Anʼana
+- Chhòn-thúng
+- Cosaan
+- daŋkali
+- Dualchas
+- Dujhance sociåle
+- gelenek
+- hagyomány
+- Hefð
+- hengoun
+- Kaugalian
+- Kevneşopî
+- Lovantsofina
+- Mapokeo
+- omenala
+- perinne
+- phong tục
+- Thoân-thóng
+- traddodiad
+- Tradhisi
+- tradice
+- tradicija
+- tradicio
+- Tradicion
+- tradició
+- tradición
+- Tradisi
+- tradisie
+- tradision
+- tradisjon
+- Tradisyon
+- traditie
+- Traditio
+- tradition
+- Traditioun
+- traditsioon
+- tradizio
+- tradizione
+- tradizzjoni
+- tradição
+- tradiție
+- tradycja
+- Tradysjes
+- tradícia
+- tradīcija
+- traidisiún
+- Usanza
+- Zakoni
+- árbevierru
+- ärbivyehi
+- äʹrbbvuõtt
+- ìṣe
+- Ənənə
+- Παράδοση
+- гореф
+- Йăла-йĕрке
+- Йӱла
+- Каада-салт
+- Ламаст
+- салт-дәстүр
+- суннат
+- Традіції
+- традиція
+- традици
+- традиција
+- традиция
+- традыцыя
+- Үгэстэр
+- ավանդույթ
+- מסורת
+- تراديسي
+- تقاليد
+- رواج
+- روايت
+- سنت
+- चलन
+- परम्परा
+- প্রথা
+- পৰম্পৰা
+- ਪਰੰਪਰਾ
+- సంప్రదాయం
+- പാരമ്പര്യം
+- ประเพณี
+- ဓလေ့ထုံးစံ
+- ტრადიცია
+- ᨕᨉᨛ
+- 伝統
+- 传统
+- 傳統
+- 전통
 has_id_wikidata: Q82821
 has_part_s_:
-  - "[[_Standards/WikiData/WD~oral_tradition,209815]]"
-  - "[[_Standards/WikiData/WD~folklore,36192]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~custom,251777]]"
+- '[[_Standards/WikiData/WD~oral_tradition,209815]]'
+- '[[_Standards/WikiData/WD~folklore,36192]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~custom,251777]]'
 part_of:
-  - "[[_Standards/WikiData/WD~custom,251777]]"
-  - "[[_Standards/WikiData/WD~culture,11042]]"
+- '[[_Standards/WikiData/WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~custom,251777]]"
-  - "[[_Standards/WikiData/WD~heritage,2434238]]"
+- '[[_Standards/WikiData/WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~heritage,2434238]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-  - "[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Traditions
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dreschen%20mit%20Flegel.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34057%20%28tgl%29-Kunokuno-Kaugalian.wav
 Colon_Classification: Y:356
+dv_has_:
+  name_:
+    af: tradisie
+    ak: amamre
+    ar: تقاليد
+    arz: تقاليد
+    as: পৰম্পৰা
+    ast: Tradición
+    az: Ənənə
+    ba: традиция
+    bcl: Tradisyon
+    be: традыцыя
+    be-tarask: традыцыя
+    bg: традиция
+    bn: প্রথা
+    br: hengoun
+    bs: tradicija
+    bug: ᨕᨉᨛ
+    ca: tradició
+    ce: Ламаст
+    cs: tradice
+    cv: Йăла-йĕрке
+    cy: traddodiad
+    da: tradition
+    dag: daŋkali
+    de: Tradition
+    el: Παράδοση
+    en: tradition
+    en-gb: tradition
+    eo: tradicio
+    es: tradición
+    et: traditsioon
+    eu: tradizio
+    fa: سنت
+    fi: perinne
+    fr: tradition
+    frp: Tradicion
+    fy: Tradysjes
+    ga: traidisiún
+    gd: Dualchas
+    gl: tradición
+    hak: Chhòn-thúng
+    he: מסורת
+    hi: परम्परा
+    hr: tradicija
+    hsb: tradicija
+    ht: Tradisyon
+    hu: hagyomány
+    hy: ավանդույթ
+    ia: Tradition
+    id: tradisi
+    ig: omenala
+    is: Hefð
+    it: tradizione
+    ja: 伝統
+    jv: Tradhisi
+    ka: ტრადიცია
+    kk: салт-дәстүр
+    ko: 전통
+    ku: Kevneşopî
+    ky: Каада-салт
+    la: Traditio
+    lad: Tradision
+    lb: Traditioun
+    li: Traditie
+    lt: tradicija
+    lv: tradīcija
+    mg: Lovantsofina
+    mhr: Йӱла
+    mk: традиција
+    ml: പാരമ്പര്യം
+    ms: tradisi
+    ms-arab: تراديسي
+    mt: tradizzjoni
+    my: ဓလေ့ထုံးစံ
+    nan: Thoân-thóng
+    nb: tradisjon
+    ne: चलन
+    nl: traditie
+    nn: tradisjon
+    oc: tradition
+    os: традици
+    pa: ਪਰੰਪਰਾ
+    pl: tradycja
+    pt: tradição
+    ro: tradiție
+    ru: традиция
+    rue: Традіції
+    sah: Үгэстэр
+    scn: Usanza
+    sd: روايت
+    se: árbevierru
+    sh: tradicija
+    sk: tradícia
+    sl: tradicija
+    smn: ärbivyehi
+    sms: äʹrbbvuõtt
+    sq: Zakoni
+    sr: традиција
+    sr-ec: традиција
+    sr-el: tradicija
+    su: Tradisi
+    sv: tradition
+    sw: Mapokeo
+    te: సంప్రదాయం
+    tg: суннат
+    th: ประเพณี
+    tl: Kaugalian
+    tr: gelenek
+    tt: гореф
+    uk: традиція
+    ur: رواج
+    uz: Anʼana
+    vec: tradision
+    vi: phong tục
+    wa: Dujhance sociåle
+    war: Tradisyon
+    wo: Cosaan
+    wuu: 傳統
+    yo: ìṣe
+    yue: 傳統
+    zh: 传统
+    zh-hant: 傳統
 ---
-
 # [[Tradition]] 
 
 #is_/same_as :: [[../../WikiData/WD~Tradition,82821|WD~Tradition,82821]]  

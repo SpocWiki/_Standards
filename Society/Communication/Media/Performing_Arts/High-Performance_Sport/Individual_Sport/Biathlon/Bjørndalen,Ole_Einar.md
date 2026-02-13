@@ -1,44 +1,71 @@
 ---
 aliases:
-  - Ole_Einar_Bjørndalen
-  - Ole Einar Bjørndalen
-  - Bjørndalen
-  - Bjørndalen,Ole_Einar
-  - Bjørndalen,Ole Einar
+- Bjørndalen
+- Bjørndalen,Ole Einar
+- Bjørndalen,Ole_Einar
+- Ole Einar Bjorndalen
+- Ole Einar Bjørndalen
+- Ole Ejnar Bjerndalen
+- Ole_Einar_Bjørndalen
+- Wle-Éýnar Bʹorndalen
+- Ūle Einars Bjērndalens
+- Бьёрндален Оле Эйнар
+- Оле Ејнар Бјерндален
+- Оле Ејнар Бјорндален
+- Оле Ейнар Бьорндален
+- Уле Эйнар Бьорндален
+- Уле Эйнар Б’ёрндален
+- Уле-Ейнар Бйорндален
+- Уле-Эйнар Б'ёрндален
+- Уле-Эйнар Бёрндален
+- Уле-Эйнар Бьёрндален
+- Уле-Эйнар Бьерндален
+- Уле-Эйнар Бьорндален
+- Ուլե Էյնար Բյորնդալեն
+- אולה איינר ביורנדלן
+- أوله أينار بيورندالن
+- اوله اينار بيورندالن
+- اوله اینار بیورندالن
+- ۋلە-ەينار بورندالەن
+- ఓలే ఎయినార్ బ్జోర్ండాలెన్
+- ულე-ეინარ ბიორნდალენი
+- オーレ・アイナル・ビョルンダーレン
+- 奥勒·埃纳尔·比约恩达伦
+- 올레 에이나르 비에른달렌
 has_id_wikidata: Q189408
 sport:
-  - '[[_Standards/WikiData/WD~biathlon,166788]]'
-  - '[[_Standards/WikiData/WD~cross_country_skiing,179687]]'
+- '[[_Standards/WikiData/WD~biathlon,166788]]'
+- '[[_Standards/WikiData/WD~cross_country_skiing,179687]]'
 spouse: '[[_Standards/WikiData/WD~Darya_Domracheva,209193]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Aftenposten_Gold_Medal,388826]]'
-  - '[[_Standards/WikiData/WD~Holmenkollen_Medal,541985]]'
-  - '[[_Standards/WikiData/WD~Fearnley_award,1163691]]'
-  - '[[_Standards/WikiData/WD~Egebergs_Ærespris,1297008]]'
-  - '[[_Standards/WikiData/WD~Norwegian_Sportsperson_of_the_Year,1859368]]'
-  - '[[_Standards/WikiData/WD~Solprisen,12001861]]'
-  - '[[_Standards/WikiData/WD~People_sport_prize,18982660]]'
-  - '[[_Standards/WikiData/WD~Idrettsgallaens_hederspris,28147490]]'
+- '[[_Standards/WikiData/WD~Aftenposten_Gold_Medal,388826]]'
+- '[[_Standards/WikiData/WD~Holmenkollen_Medal,541985]]'
+- '[[_Standards/WikiData/WD~Fearnley_award,1163691]]'
+- '[[_Standards/WikiData/WD~Egebergs_Ærespris,1297008]]'
+- '[[_Standards/WikiData/WD~Norwegian_Sportsperson_of_the_Year,1859368]]'
+- '[[_Standards/WikiData/WD~Solprisen,12001861]]'
+- '[[_Standards/WikiData/WD~People_sport_prize,18982660]]'
+- '[[_Standards/WikiData/WD~Idrettsgallaens_hederspris,28147490]]'
 relative:
-  - '[[_Standards/WikiData/WD~Saskia_Santer,537253]]'
-  - '[[_Standards/WikiData/WD~Stephanie_Santer,2344257]]'
+- '[[_Standards/WikiData/WD~Saskia_Santer,537253]]'
+- '[[_Standards/WikiData/WD~Stephanie_Santer,2344257]]'
 residence: '[[_Standards/WikiData/WD~Obertilliach,690843]]'
 sibling: '[[_Standards/WikiData/WD~Dag_Bjørndalen,1157160]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Einar,1305819]]'
-  - '[[_Standards/WikiData/WD~Ole,2097883]]'
+- '[[_Standards/WikiData/WD~Einar,1305819]]'
+- '[[_Standards/WikiData/WD~Ole,2097883]]'
 nominated_for: '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 member_of_sports_team: '[[_Standards/WikiData/WD~Simostranda_IL,12000553]]'
 occupation:
-  - '[[_Standards/WikiData/WD~cross_country_skier,13382608]]'
-  - '[[_Standards/WikiData/WD~biathlete,16029547]]'
-  - '[[_Standards/WikiData/WD~biathlon_coach,19960661]]'
+- '[[_Standards/WikiData/WD~cross_country_skier,13382608]]'
+- '[[_Standards/WikiData/WD~biathlete,16029547]]'
+- '[[_Standards/WikiData/WD~biathlon_coach,19960661]]'
 family_name: '[[_Standards/WikiData/WD~Bjørndalen,30102822]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Norwegian,9043]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Norwegian,9043]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 place_of_birth: '[[_Standards/WikiData/WD~Drammen_Municipality,26525]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Norway,20]]'
@@ -55,8 +82,119 @@ Facebook_username: OleEinarBjoerndalen
 Instagram_username: oleeinarbjorndalen
 nickname: OEB
 name_in_native_language: Ole Einar Bjørndalen
+dv_has_:
+  name_:
+    af: Ole Einar Bjørndalen
+    an: Ole Einar Bjørndalen
+    ang: Ole Einar Bjørndalen
+    ar: أوله أينار بيورندالن
+    arz: اوله اينار بيورندالن
+    ast: Ole Einar Bjørndalen
+    ba: Уле-Эйнар Бьёрндален
+    bar: Ole Einar Bjørndalen
+    be: Уле-Эйнар Б'ёрндален
+    be-tarask: Уле Эйнар Б’ёрндален
+    bg: Оле Ейнар Бьорндален
+    bs: Ole Einar Bjørndalen
+    ca: Ole Einar Bjørndalen
+    co: Ole Einar Bjørndalen
+    cs: Ole Einar Bjørndalen
+    cy: Ole Einar Bjørndalen
+    da: Ole Einar Bjørndalen
+    de: Ole Einar Bjørndalen
+    de-ch: Ole Einar Bjørndalen
+    dsb: Ole Einar Bjørndalen
+    en: Ole Einar Bjørndalen
+    en-ca: Ole Einar Bjørndalen
+    en-gb: Ole Einar Bjørndalen
+    eo: Ole Einar Bjørndalen
+    es: Ole Einar Bjørndalen
+    et: Ole Einar Bjørndalen
+    eu: Ole Einar Bjørndalen
+    fa: اوله اینار بیورندالن
+    fi: Ole Einar Bjørndalen
+    fo: Ole Einar Bjørndalen
+    fr: Ole Einar Bjørndalen
+    frr: Ole Einar Bjørndalen
+    fy: Ole Einar Bjørndalen
+    ga: Ole Einar Bjørndalen
+    gl: Ole Einar Bjørndalen
+    he: אולה איינר ביורנדלן
+    hr: Ole Einar Bjørndalen
+    hsb: Ole Einar Bjørndalen
+    ht: Ole Einar Bjørndalen
+    hu: Ole Einar Bjørndalen
+    hy: Ուլե Էյնար Բյորնդալեն
+    is: Ole Einar Bjørndalen
+    it: Ole Einar Bjørndalen
+    ja: オーレ・アイナル・ビョルンダーレン
+    ka: ულე-ეინარ ბიორნდალენი
+    kk: Уле-Эйнар Бьорндален
+    kk-arab: ۋلە-ەينار بورندالەن
+    kk-cn: ۋلە-ەينار بورندالەن
+    kk-cyrl: Уле-Эйнар Бьорндален
+    kk-kz: Уле-Эйнар Бьорндален
+    kk-latn: Wle-Éýnar Bʹorndalen
+    kk-tr: Wle-Éýnar Bʹorndalen
+    ko: 올레 에이나르 비에른달렌
+    ksh: Ole Einar Bjørndalen
+    ky: Бьёрндален Оле Эйнар
+    la: Ole Einar Bjørndalen
+    lb: Ole Einar Bjørndalen
+    li: Ole Einar Bjørndalen
+    lij: Ole Einar Bjørndalen
+    lmo: Ole Einar Bjørndalen
+    lt: Ole Einar Bjørndalen
+    lv: Ūle Einars Bjērndalens
+    mk: Оле Ејнар Бјорндален
+    mn: Уле Эйнар Бьорндален
+    ms: Ole Einar Bjørndalen
+    mt: Ole Einar Bjørndalen
+    mul: Ole Einar Bjørndalen
+    mwl: Ole Einar Bjørndalen
+    nb: Ole Einar Bjørndalen
+    nds: Ole Einar Bjørndalen
+    nds-nl: Ole Einar Bjørndalen
+    nl: Ole Einar Bjørndalen
+    nn: Ole Einar Bjørndalen
+    nrm: Ole Einar Bjørndalen
+    oc: Ole Einar Bjørndalen
+    olo: Ole Einar Bjorndalen
+    pcd: Ole Einar Bjørndalen
+    pdc: Ole Einar Bjørndalen
+    pfl: Ole Einar Bjørndalen
+    pi: Ole Einar Bjørndalen
+    pl: Ole Einar Bjørndalen
+    pms: Ole Einar Bjørndalen
+    pt: Ole Einar Bjørndalen
+    pt-br: Ole Einar Bjørndalen
+    rm: Ole Einar Bjørndalen
+    ro: Ole Einar Bjørndalen
+    ru: Уле-Эйнар Бьерндален
+    sah: Уле Эйнар Бьорндален
+    sc: Ole Einar Bjørndalen
+    scn: Ole Einar Bjørndalen
+    sk: Ole Einar Bjørndalen
+    sl: Ole Einar Bjørndalen
+    sq: Ole Einar Bjørndalen
+    sr: Оле Ејнар Бјерндален
+    sr-ec: Оле Ејнар Бјерндален
+    sr-el: Ole Ejnar Bjerndalen
+    stq: Ole Einar Bjørndalen
+    sv: Ole Einar Bjørndalen
+    szl: Ole Einar Bjørndalen
+    te: ఓలే ఎయినార్ బ్జోర్ండాలెన్
+    tg: Уле-Эйнар Бёрндален
+    tr: Ole Einar Bjørndalen
+    uk: Уле-Ейнар Бйорндален
+    uz: Ole Einar Bjørndalen
+    vec: Ole Einar Bjørndalen
+    vi: Ole Einar Bjørndalen
+    vls: Ole Einar Bjørndalen
+    wa: Ole Einar Bjørndalen
+    zea: Ole Einar Bjørndalen
+    zh: 奥勒·埃纳尔·比约恩达伦
 ---
-
 # [[Bjørndalen,Ole_Einar]] 
 
 #is_/same_as :: [[WD~Ole_Einar_Bjørndalen,189408]] 

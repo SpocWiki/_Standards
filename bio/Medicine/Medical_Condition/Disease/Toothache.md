@@ -1,21 +1,77 @@
 ---
 aliases:
-  - Zahnschmerzen
-  - Toothache
+- Amannyo
+- Bóle zębów
+- Bệnh đau răng
+- Dannodd
+- dentodoloro
+- Diş agyry
+- Diş ağrısı
+- dolor de muela
+- Dor de dente
+- durerea dentară
+- fogfájás
+- Hambavalu
+- hammassärky
+- kiespijn
+- Kiru nanay
+- mal de dent
+- Nyeri huntu
+- odontalgia
+- Odontalxia
+- odontàlgia
+- Sakit gigi
+- Sakit ng ngipin
+- tandpine
+- tandvärk
+- tannverk
+- Toothache
+- tóðwærc
+- Zahnschmerzen
+- zobobol
+- zobu sāpes
+- Zubobolja
+- zubybolenje
+- Éze mgbu
+- Οδονταλγία
+- Дандондард
+- забоболка
+- зубная боль
+- Зубний біль
+- зубны боль
+- Зубобоља
+- теш авыртуы
+- Ատամնացավ
+- כאב שיניים
+- ألم الأسنان
+- دانت کادرد
+- دنداندرد
+- ދަތުގައި ރިހުން
+- दाँत दर्द
+- দাঁতের ব্যথা
+- ਦੰਦ ਪੀੜ
+- ଦାନ୍ତବିନ୍ଧା
+- பல்வலி
+- പല്ലുവേദന
+- သွားကိုက်ခြင်း
+- ၶဵဝ်ႈၸဵပ်း
+- 歯痛
+- 牙痛
+- 치통
 has_id_wikidata: Q143925
 subclass_of:
-  - '[[_Standards/WikiData/WD~pain,81938]]'
-  - '[[_Standards/WikiData/WD~dental_disease,5259414]]'
-  - '[[_Standards/WikiData/WD~orofacial_pain,17149257]]'
+- '[[_Standards/WikiData/WD~pain,81938]]'
+- '[[_Standards/WikiData/WD~dental_disease,5259414]]'
+- '[[_Standards/WikiData/WD~orofacial_pain,17149257]]'
 health_specialty: '[[_Standards/WikiData/WD~gastroenterology,120569]]'
 risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Dentistry,10997336]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Dentistry,10997336]]'
 different_from: '[[_Standards/WikiData/WD~Toothache,8261177]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 DiseasesDB: 27698
 Commons_category: Toothache
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20man%20suffering%20from%20Toothache.png
@@ -24,10 +80,75 @@ exact_match: http://purl.obolibrary.org/obo/SYMP_0000438
 Iconclass_notation: 31A46333
 UMLS_CUI: C0040460
 MeSH_tree_code:
-  - C07.793.929
-  - C23.888.592.612.330.500
+- C07.793.929
+- C23.888.592.612.330.500
+dv_has_:
+  name_:
+    ang: tóðwærc
+    ar: ألم الأسنان
+    az: Diş ağrısı
+    be-tarask: зубны боль
+    bn: দাঁতের ব্যথা
+    bs: Zubobolja
+    ca: odontàlgia
+    cy: Dannodd
+    da: tandpine
+    de: Zahnschmerzen
+    dv: ދަތުގައި ރިހުން
+    el: Οδονταλγία
+    en: toothache
+    eo: dentodoloro
+    es: dolor de muela
+    et: Hambavalu
+    eu: odontalgia
+    fa: دنداندرد
+    fi: hammassärky
+    fr: mal de dent
+    gl: Odontalxia
+    he: כאב שיניים
+    hi: दाँत दर्द
+    hr: Zubobolja
+    hsb: zubybolenje
+    hu: fogfájás
+    hy: Ատամնացավ
+    id: Sakit gigi
+    ig: Éze mgbu
+    it: odontalgia
+    ja: 歯痛
+    ko: 치통
+    lg: Amannyo
+    lv: zobu sāpes
+    mk: забоболка
+    ml: പല്ലുവേദന
+    my: သွားကိုက်ခြင်း
+    nl: kiespijn
+    nn: tannverk
+    or: ଦାନ୍ତବିନ୍ଧା
+    pa: ਦੰਦ ਪੀੜ
+    pl: Bóle zębów
+    pt: Dor de dente
+    qu: Kiru nanay
+    ro: durerea dentară
+    ru: зубная боль
+    shn: ၶဵဝ်ႈၸဵပ်း
+    sl: zobobol
+    sr: Зубобоља
+    su: Nyeri huntu
+    sv: tandvärk
+    ta: பல்வலி
+    tg: Дандондард
+    tk: Diş agyry
+    tl: Sakit ng ngipin
+    tr: Diş ağrısı
+    tt: теш авыртуы
+    uk: Зубний біль
+    ur: دانت کادرد
+    vi: Bệnh đau răng
+    wuu: 牙痛
+    yue: 牙痛
+    zh: 牙痛
+    zh-hans: 牙痛
 ---
-
 # [[Toothache]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Toothache,143925|WD~Toothache,143925]]  

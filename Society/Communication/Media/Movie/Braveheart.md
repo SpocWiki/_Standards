@@ -1,4 +1,150 @@
-
+---
+has_id_wikidata: Q162729
+dv_has_:
+  name_:
+    af: Braveheart
+    an: Braveheart
+    ar: قلب شجاع
+    arz: قلب شجاع
+    ast: Braveheart
+    az: Cəsur ürək
+    azb: جسور اورک
+    be: Храбрае сэрца
+    be-tarask: Адважнае сэрца
+    bg: Смело сърце
+    bn: ব্রেভহার্ট
+    br: Braveheart
+    bs: Hrabro srce
+    ca: Braveheart
+    ckb: دلێر
+    cs: Statečné srdce
+    cy: Braveheart
+    da: Braveheart
+    de: Braveheart
+    el: Braveheart
+    en: Braveheart
+    eo: Braveheart
+    es: Braveheart
+    et: Kartmatu
+    eu: Braveheart
+    fa: شجاعدل
+    fi: Braveheart – taipumaton
+    fr: Braveheart
+    ga: Braveheart
+    gl: Braveheart
+    he: לב אמיץ
+    hi: ब्रेवहार्ट
+    hr: Hrabro srce
+    ht: Braveheart
+    hu: A rettenthetetlen
+    hy: Քաջասիրտը
+    id: Braveheart
+    it: Braveheart - Cuore impavido
+    ja: ブレイブハート
+    ka: მამაცი გული
+    kk: Ер жүрек
+    kk-arab: ەر جۇرەك
+    kk-cn: ەر جۇرەك
+    kk-cyrl: Ер жүрек
+    kk-kz: Ер жүрек
+    kk-latn: Er jürek
+    kk-tr: Er jürek
+    km: បេះដូងវីរជន
+    ko: 브레이브하트
+    ku: Mêrxas
+    la: Braveheart
+    li: Braveheart
+    lt: Narsioji širdis
+    lv: Drošsirdis
+    mk: Храбро срце
+    ms: Braveheart
+    nb: Braveheart
+    nl: Braveheart
+    nn: Braveheart
+    pa: ਬਹਾਦੁਰ ਦਿਲ
+    pl: Braveheart. Waleczne serce
+    pt: Braveheart
+    ro: Inimă neînfricată
+    ru: Храброе сердце
+    sco: Braveheart
+    sh: Braveheart
+    sk: Statočné srdce
+    sl: Pogumno srce
+    sq: Braveheart
+    sr: Храбро срце
+    sr-ec: Храбро срце
+    sr-el: Hrabro srce
+    sv: Braveheart
+    ta: பிரேவ் ஹார்ட்
+    th: เบรฟฮาร์ท วีรบุรุษหัวใจมหากาฬ
+    tr: Cesur Yürek
+    uk: Хоробре серце
+    ur: بریو ہارٹ
+    uz: Sheryurak
+    vi: Trái tim dũng cảm
+    wuu: 勇敢个心
+    xmf: უშქურანჯი გური
+    yue: 驚世未了緣
+    zh: 勇敢的心
+    zh-cn: 勇敢的心
+    zh-hans: 勇敢的心
+    zh-hant: 梅爾吉勃遜之英雄本色
+    zh-hk: 驚世未了緣
+    zh-my: 惊世未了缘
+    zh-sg: 铁血英雄
+    zh-tw: 梅爾吉勃遜之英雄本色
+aliases:
+- A rettenthetetlen
+- Braveheart
+- Braveheart - Cuore impavido
+- Braveheart – taipumaton
+- Braveheart. Waleczne serce
+- Cesur Yürek
+- Cəsur ürək
+- Drošsirdis
+- Er jürek
+- Hrabro srce
+- Inimă neînfricată
+- Kartmatu
+- Mêrxas
+- Narsioji širdis
+- Pogumno srce
+- Sheryurak
+- Statečné srdce
+- Statočné srdce
+- Trái tim dũng cảm
+- Адважнае сэрца
+- Ер жүрек
+- Смело сърце
+- Хоробре серце
+- Храбрае сэрца
+- Храбро срце
+- Храброе сердце
+- Քաջասիրտը
+- לב אמיץ
+- بریو ہارٹ
+- جسور اورک
+- دلێر
+- شجاعدل
+- قلب شجاع
+- ەر جۇرەك
+- ब्रेवहार्ट
+- ব্রেভহার্ট
+- ਬਹਾਦੁਰ ਦਿਲ
+- பிரேவ் ஹார்ட்
+- เบรฟฮาร์ท วีรบุรุษหัวใจมหากาฬ
+- მამაცი გული
+- უშქურანჯი გური
+- បេះដូងវីរជន
+- ブレイブハート
+- 勇敢个心
+- 勇敢的心
+- 惊世未了缘
+- 梅爾吉勃遜之英雄本色
+- 铁血英雄
+- 驚世未了緣
+- 브레이브하트
+---
 # [[Braveheart]] 
 
 #is_/same_as :: 

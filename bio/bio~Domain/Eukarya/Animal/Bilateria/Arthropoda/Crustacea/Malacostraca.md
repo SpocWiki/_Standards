@@ -1,33 +1,205 @@
 ---
 aliases:
-  - Malacostraca
-  - storkrepser
-  - Echte kreeftachtigen
-  - višji raki
+- Ali xərçənglər
+- augstākie vēži
+- Aukštesnieji vėžiagyviai
+- Echte kreeftachtigen
+- felsőbbrendű rákok
+- Högere Kreefte
+- Höhere Krebse
+- Joğarğı satıdağı şayantärizdiler
+- korrârapuelleeh
+- kuoriäyriäiset
+- kõrgemad vähid
+- Lớp Giáp mềm
+- Malacostraca
+- Malacostraci
+- Malacostráceos
+- Malakostraka
+- Malakostrakoj
+- pancerzowce
+- Pura-pura qara
+- Qalikdarên nerm
+- rakovci
+- Storkrebs
+- Storkreps
+- storkrepser
+- storkräftor
+- Viši rakovi
+- višji raki
+- ʻUo moʻoni
+- Μαλακόστρακα
+- Висши ракообразни
+- виши ракови
+- Вищі ракоподібні
+- высшие раки
+- вышэйшыя ракі
+- вышэйшыя ракападобныя
+- Жоғарғы сатыдағы шаянтәрізділер
+- բարձրակարգ խեցգետնակերպեր
+- סרטנים עילאיים
+- جوعارعى ساتىداعى شايانتارىزدىلەر
+- عالی سرطانلر
+- لينات الدرقة
+- لينات الدرقه
+- نرمزرهیان
+- چنگاښ ډوله ژوي
+- 軟甲綱
+- 软甲纲
+- 연갑강
 has_id_wikidata: Q182978
 Commons_category: Malacostraca
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 EPPO_Code: 1MALAC
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eoph%20MagelaT%20site2.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eoph%20MagelaT%20site2.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Crustacea.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 89787
 parent_taxon: '[[_Standards/WikiData/WD~Multicrustacea,11937877]]'
 taxon_common_name:
-  - storkrepser
-  - Echte kreeftachtigen
-  - višji raki
+- storkrepser
+- Echte kreeftachtigen
+- višji raki
 taxon_name: Malacostraca
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 title: Malacostraca
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9011687,9011687]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Malacostraca,14334371]]'
+dv_has_:
+  name_:
+    af: Malacostraca
+    an: Malacostraca
+    ar: لينات الدرقة
+    arz: لينات الدرقه
+    ast: Malacostraca
+    az: Ali xərçənglər
+    azb: عالی سرطانلر
+    bar: Malacostraca
+    be: вышэйшыя ракі
+    be-tarask: вышэйшыя ракападобныя
+    bg: Висши ракообразни
+    br: Malacostraca
+    ca: Malacostraci
+    ceb: Malacostraca
+    co: Malacostraca
+    cs: rakovci
+    cy: Malacostraca
+    da: Storkrebs
+    de: Höhere Krebse
+    de-at: Malacostraca
+    de-ch: Malacostraca
+    el: Μαλακόστρακα
+    en: Malacostraca
+    en-ca: Malacostraca
+    en-gb: Malacostraca
+    eo: Malakostrakoj
+    es: Malacostraca
+    et: kõrgemad vähid
+    eu: Malacostraca
+    ext: Malacostraca
+    fa: نرمزرهیان
+    fi: kuoriäyriäiset
+    fr: Malacostraca
+    frp: Malacostraca
+    fur: Malacostraca
+    ga: Malacostraca
+    gd: Malacostraca
+    gl: Malacostráceos
+    gsw: Malacostraca
+    he: סרטנים עילאיים
+    hr: Malacostraca
+    hu: felsőbbrendű rákok
+    hy: բարձրակարգ խեցգետնակերպեր
+    ia: Malacostraca
+    id: Malacostraca
+    ie: Malacostraca
+    io: Malacostraca
+    is: Malacostraca
+    it: Malacostraca
+    ja: 軟甲綱
+    jv: Malacostraca
+    kg: Malacostraca
+    kk: Жоғарғы сатыдағы шаянтәрізділер
+    kk-arab: جوعارعى ساتىداعى شايانتارىزدىلەر
+    kk-cn: جوعارعى ساتىداعى شايانتارىزدىلەر
+    kk-cyrl: Жоғарғы сатыдағы шаянтәрізділер
+    kk-kz: Жоғарғы сатыдағы шаянтәрізділер
+    kk-latn: Joğarğı satıdağı şayantärizdiler
+    kk-tr: Joğarğı satıdağı şayantärizdiler
+    ko: 연갑강
+    ku: Qalikdarên nerm
+    la: Malacostraca
+    lad: Malacostraca
+    lb: Malacostraca
+    li: Malacostraca
+    lij: Malacostraca
+    lmo: Malacostraca
+    lt: Aukštesnieji vėžiagyviai
+    lv: augstākie vēži
+    mg: Malacostraca
+    min: Malacostraca
+    mk: виши ракови
+    ms: Malacostraca
+    mt: Malacostraca
+    mul: Malacostraca
+    nap: Malacostraca
+    nb: storkrepser
+    nds: Högere Kreefte
+    nds-nl: Malacostraca
+    nl: Malacostraca
+    nn: Storkreps
+    nov: Malacostraca
+    nrm: Malacostraca
+    nys: Malacostraca
+    oc: Malacostraca
+    pcd: Malacostraca
+    pl: pancerzowce
+    pms: Malacostraca
+    ps: چنگاښ ډوله ژوي
+    pt: Malacostraca
+    pt-br: Malacostraca
+    qu: Pura-pura qara
+    rm: Malacostraca
+    ro: Malacostraca
+    ru: высшие раки
+    rup: Malacostraca
+    sc: Malacostraca
+    scn: Malacostraca
+    sco: Malacostraca
+    sh: Viši rakovi
+    sk: Malacostraca
+    sl: višji raki
+    smn: korrârapuelleeh
+    sq: Malacostraca
+    sr: Malacostraca
+    sv: storkräftor
+    sw: Malacostraca
+    tl: Malacostraca
+    to: ʻUo moʻoni
+    tr: Malakostraka
+    uk: Вищі ракоподібні
+    vec: Malacostraca
+    vi: Lớp Giáp mềm
+    vls: Malacostraca
+    vo: Malacostraca
+    wa: Malacostraca
+    war: Malacostraca
+    wo: Malacostraca
+    wuu: 软甲纲
+    yue: 軟甲綱
+    zh: 软甲纲
+    zh-cn: 软甲纲
+    zh-hans: 软甲纲
+    zh-hant: 軟甲綱
+    zh-hk: 軟甲綱
+    zh-sg: 软甲纲
+    zh-tw: 軟甲綱
+    zu: Malacostraca
 ---
-
 # [[Malacostraca]] 
 
 ![Hyalella_aztecak](Malacostraca/Hyalella_aztecak.jpg)  ![Elassochirus_gilli](Malacostraca/Elassochirus_gilli.jpg) ![Alima_gracilis](Malacostraca/Alima_gracilis.jpg)) 

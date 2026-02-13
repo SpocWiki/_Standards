@@ -1,9 +1,57 @@
 ---
 aliases:
-  - Heleophryne
+- Heleophryne
+- Лягушки-привидения
+- същински призрачни жаби
+- הלאופריניים
+- ضفدع الشبح
+- 沼蟾属
+- 沼蟾屬
 title: Heleophryne
+has_id_wikidata: Q3009460
+dv_has_:
+  name_:
+    an: Heleophryne
+    ar: ضفدع الشبح
+    arz: ضفدع الشبح
+    ast: Heleophryne
+    bg: същински призрачни жаби
+    ca: Heleophryne
+    ceb: Heleophryne
+    de: Heleophryne
+    en: Heleophryne
+    eo: Heleophryne
+    es: Heleophryne
+    eu: Heleophryne
+    ext: Heleophryne
+    fi: Heleophryne
+    fr: Heleophryne
+    ga: Heleophryne
+    gl: Heleophryne
+    he: הלאופריניים
+    ia: Heleophryne
+    ie: Heleophryne
+    io: Heleophryne
+    it: Heleophryne
+    la: Heleophryne
+    mul: Heleophryne
+    nl: Heleophryne
+    oc: Heleophryne
+    pl: Heleophryne
+    pt: Heleophryne
+    pt-br: Heleophryne
+    ro: Heleophryne
+    ru: Лягушки-привидения
+    sq: Heleophryne
+    sv: Heleophryne
+    uk: Heleophryne
+    vi: Heleophryne
+    vo: Heleophryne
+    war: Heleophryne
+    zh: 沼蟾属
+    zh-cn: 沼蟾属
+    zh-tw: 沼蟾屬
 ---
-
 # [[Heleophryne]]
 
 Ghost Frogs 

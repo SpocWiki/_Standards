@@ -1,24 +1,178 @@
 ---
 aliases:
-  - neoplasm
-  - tumour
-  - Tumor
+- audzējs
+- auglys
+- bùppà
+- bướu
+- Chéng-liû
+- clyre
+- daganat
+- guz
+- kasvain
+- ketumbuhan
+- malebawa
+- neoplasm
+- novotvorina
+- nádor
+- Oʻsmalar
+- Q'umpuyasqa
+- siad
+- svulst
+- swolm
+- tiwmor
+- tumeur
+- tumoare
+- Tumor
+- tumore
+- tumoro
+- tumour
+- tumuri
+- tumör
+- Tûmor
+- tümör
+- İsik
+- όγκος
+- Ісік
+- Без (медицина)
+- Будолма
+- опухоль
+- пухліна
+- пухлина
+- Тумор
+- Шишиктер
+- Шыçă
+- Ուռուցքներ
+- גידול
+- تومور
+- تومۆر
+- توومۆر
+- ورم
+- ورم متكتل
+- ىسىك
+- अर्बुद
+- त्युमर
+- கட்டி
+- ട്യൂമർ
+- เนื้องอก
+- 肿瘤
+- 腫瘍
+- 腫瘤
+- 종양
 has_id_wikidata: Q133212
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-subclass_of: "[[_Standards/WikiData/WD~neoplasm,1216998]]"
-different_from: "[[_Standards/WikiData/WD~Tomor,3269601]]"
-U_S_National_Archives_Identifier: "10641558"
-Dewey_Decimal_Classification: "571.978"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+subclass_of: '[[_Standards/WikiData/WD~neoplasm,1216998]]'
+different_from: '[[_Standards/WikiData/WD~Tomor,3269601]]'
+U_S_National_Archives_Identifier: 10641558
+Dewey_Decimal_Classification: 571.978
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pati%C3%ABnt%20met%20een%20rugontsteking%20in%20het%20ziekenhuis%20van%20Penang%2C%20Bestanddeelnr%20255-6745.jpg
 Iconclass_notation: 31A4634
 IMDb_keyword: tumor
 Commons_category: Tumors
+dv_has_:
+  name_:
+    ar: ورم متكتل
+    ast: tumor
+    be: пухліна
+    be-tarask: пухліна
+    bg: Тумор
+    bs: tumor
+    ca: tumor
+    ce: Без (медицина)
+    ceb: tumor
+    ckb: تومۆر
+    cs: tumor
+    cv: Шыçă
+    cy: tiwmor
+    da: tumor
+    de: Tumor
+    el: όγκος
+    en: tumor
+    en-gb: tumour
+    eo: tumoro
+    es: tumor
+    eu: tumore
+    fa: تومور
+    fi: kasvain
+    fr: tumeur
+    fy: swolm
+    ga: siad
+    gl: tumor
+    gsw: Tumor
+    he: גידול
+    hi: अर्बुद
+    hr: novotvorina
+    hu: daganat
+    hy: Ուռուցքներ
+    ia: tumor
+    id: tumor
+    io: tumoro
+    it: tumore
+    ja: 腫瘍
+    jv: tumor
+    kk: Ісік
+    kk-arab: ىسىك
+    kk-cn: ىسىك
+    kk-cyrl: Ісік
+    kk-kz: Ісік
+    kk-latn: İsik
+    kk-tr: İsik
+    ko: 종양
+    ku: Tûmor
+    ku-arab: توومۆر
+    ku-latn: Tûmor
+    ky: Шишиктер
+    la: tumor
+    lt: auglys
+    lv: audzējs
+    mcn: bùppà
+    mk: Тумор
+    ml: ട്യൂമർ
+    ms: ketumbuhan
+    myv: Будолма
+    nan: Chéng-liû
+    nb: svulst
+    new: त्युमर
+    nl: tumor
+    nn: svulst
+    oc: tumor
+    pl: guz
+    ps: تومور
+    pt: tumor
+    pt-br: tumor
+    qu: Q'umpuyasqa
+    ro: tumoare
+    ru: опухоль
+    scn: tumuri
+    sco: clyre
+    sh: tumor
+    sk: nádor
+    sl: tumor
+    sr: тумор
+    su: tumor
+    sv: tumör
+    szy: malebawa
+    ta: கட்டி
+    th: เนื้องอก
+    tr: tümör
+    uk: пухлина
+    ur: ورم
+    uz: Oʻsmalar
+    vi: bướu
+    war: tumor
+    wuu: 肿瘤
+    yue: 腫瘤
+    zh: 肿瘤
+    zh-cn: 肿瘤
+    zh-hans: 肿瘤
+    zh-hant: 腫瘤
+    zh-hk: 腫瘤
+    zh-sg: 肿瘤
+    zh-tw: 腫瘤
 ---
-
 # [[Tumor]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tumor,133212|WD~Tumor,133212]]  

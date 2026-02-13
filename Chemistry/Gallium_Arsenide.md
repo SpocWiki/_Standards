@@ -1,35 +1,125 @@
 ---
 aliases:
-  - GaAs
-  - Galliumarsenid
-  - Gallium_Arsenide
-  - Gallium Arsenide
+- arsainíd ghailliam
+- arsenek galu
+- Arsenid gallitý
+- arsenieto de gálio
+- arseniuro de galio
+- arseniuro di gallio
+- Arsenua gali
+- arsenur de gal·li
+- arséniure de gallium
+- arzenid gália
+- GaAs
+- galijev arzenid
+- Galijum arsenid
+- Galium arsenida
+- galiuma(III) arsenido
+- Gallium Arsenide
+- gallium-arzenid
+- Galliumarsenid
+- galliumarsenide
+- galliumarsenidi
+- Galliumarsenied
+- Galliumarseniid
+- Gallium_Arsenide
+- Galyum arsenit
+- Qallium arsenid
+- Арсенід галію
+- арсенид галлия
+- галијум арсенид
+- Галиев арсенид
+- Галиум арсенид
+- גליום ארסניד
+- زرنيخيد الغاليوم
+- گالیم آرسنید
+- गैलियम आर्सेनाइड
+- காலியம் ஆர்சினைடு
+- แกลเลียมอาร์ซีไนด์
+- ヒ化ガリウム
+- 砷化鎵
+- 砷化镓
+- 비소화 갈륨
 dv_has_:
+  name_:
+    af: Galliumarsenied
+    ar: زرنيخيد الغاليوم
+    az: Qallium arsenid
+    be: Арсенід галію
+    bg: Галиев арсенид
+    ca: arsenur de gal·li
+    cs: Arsenid gallitý
+    da: Galliumarsenid
+    de: Galliumarsenid
+    en: gallium arsenide
+    eo: galiuma(III) arsenido
+    es: arseniuro de galio
+    et: Galliumarseniid
+    fa: گالیم آرسنید
+    fi: galliumarsenidi
+    fr: arséniure de gallium
+    ga: arsainíd ghailliam
+    he: גליום ארסניד
+    hi: गैलियम आर्सेनाइड
+    hu: gallium-arzenid
+    id: Galium arsenida
+    it: arseniuro di gallio
+    ja: ヒ化ガリウム
+    ko: 비소화 갈륨
+    mk: Галиум арсенид
+    nb: galliumarsenid
+    nds: Galliumarsenid
+    nl: galliumarsenide
+    nn: galliumarsenid
+    pl: arsenek galu
+    pt: arsenieto de gálio
+    ru: арсенид галлия
+    sh: Galijum arsenid
+    sk: arzenid gália
+    sl: galijev arzenid
+    sr: галијум арсенид
+    sr-ec: Галијум арсенид
+    sr-el: Galijum arsenid
+    sv: Galliumarsenid
+    ta: காலியம் ஆர்சினைடு
+    th: แกลเลียมอาร์ซีไนด์
+    tr: Galyum arsenit
+    uk: арсенід галію
+    vi: Arsenua gali
+    wuu: 砷化镓
+    yue: 砷化鎵
+    zh: 砷化鎵
+    zh-cn: 砷化镓
+    zh-hans: 砷化镓
+    zh-hant: 砷化鎵
+    zh-hk: 砷化鎵
+    zh-sg: 砷化镓
+    zh-tw: 砷化鎵
   parts:
-    - "[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]"
-    - "[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]"
+  - '[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]'
+  - '[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]'
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Gallium_Arsenide|Gallium_Arsenide]]"
-    - "[[/_public/Chemistry/Gallium_Arsenide.public|Gallium_Arsenide.public]]"
-    - "[[/_internal/Chemistry/Gallium_Arsenide.internal|Gallium_Arsenide.internal]]"
-    - "[[/_protect/Chemistry/Gallium_Arsenide.protect|Gallium_Arsenide.protect]]"
-    - "[[/_private/Chemistry/Gallium_Arsenide.private|Gallium_Arsenide.private]]"
-    - "[[/_personal/Chemistry/Gallium_Arsenide.personal|Gallium_Arsenide.personal]]"
-    - "[[/_secret/Chemistry/Gallium_Arsenide.secret|Gallium_Arsenide.secret]]"
+  - '[[/_Standards/Chemistry/Gallium_Arsenide|Gallium_Arsenide]]'
+  - '[[/_public/Chemistry/Gallium_Arsenide.public|Gallium_Arsenide.public]]'
+  - '[[/_internal/Chemistry/Gallium_Arsenide.internal|Gallium_Arsenide.internal]]'
+  - '[[/_protect/Chemistry/Gallium_Arsenide.protect|Gallium_Arsenide.protect]]'
+  - '[[/_private/Chemistry/Gallium_Arsenide.private|Gallium_Arsenide.private]]'
+  - '[[/_personal/Chemistry/Gallium_Arsenide.personal|Gallium_Arsenide.personal]]'
+  - '[[/_secret/Chemistry/Gallium_Arsenide.secret|Gallium_Arsenide.secret]]'
 dv_has_parts:
-  - "[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]"
-  - "[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]"
+- '[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]]'
+- '[[Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Gallium_Arsenide|Gallium_Arsenide]]"
-  - "[[/_public/Chemistry/Gallium_Arsenide.public|Gallium_Arsenide.public]]"
-  - "[[/_internal/Chemistry/Gallium_Arsenide.internal|Gallium_Arsenide.internal]]"
-  - "[[/_protect/Chemistry/Gallium_Arsenide.protect|Gallium_Arsenide.protect]]"
-  - "[[/_private/Chemistry/Gallium_Arsenide.private|Gallium_Arsenide.private]]"
-  - "[[/_personal/Chemistry/Gallium_Arsenide.personal|Gallium_Arsenide.personal]]"
-  - "[[/_secret/Chemistry/Gallium_Arsenide.secret|Gallium_Arsenide.secret]]"
+- '[[/_Standards/Chemistry/Gallium_Arsenide|Gallium_Arsenide]]'
+- '[[/_public/Chemistry/Gallium_Arsenide.public|Gallium_Arsenide.public]]'
+- '[[/_internal/Chemistry/Gallium_Arsenide.internal|Gallium_Arsenide.internal]]'
+- '[[/_protect/Chemistry/Gallium_Arsenide.protect|Gallium_Arsenide.protect]]'
+- '[[/_private/Chemistry/Gallium_Arsenide.private|Gallium_Arsenide.private]]'
+- '[[/_personal/Chemistry/Gallium_Arsenide.personal|Gallium_Arsenide.personal]]'
+- '[[/_secret/Chemistry/Gallium_Arsenide.secret|Gallium_Arsenide.secret]]'
+has_id_wikidata: Q422819
 ---
-
 # [[Gallium_Arsenide]] 
 
 #has_/parts ::[[Chemical_Element/Group-13-Boron/Gallium|Gallium]]] 

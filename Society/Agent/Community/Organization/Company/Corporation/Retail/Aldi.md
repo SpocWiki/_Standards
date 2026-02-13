@@ -1,43 +1,51 @@
 ---
-has_time_started: 1946-01-01 
+has_time_started: 1946-01-01
 aliases:
-  - Aldi
+- Aldi
+- אלדי
+- آلدی
+- ألدي
+- الدى
+- ਅਲਦੀ
+- 奥乐齐
+- ꠀꠟꠖꠤ ꠝꠣꠞ꠆ꠇꠦꠐ
+- 알디
 has_id_wikidata: Q125054
 industry:
-  - '[[_Standards/WikiData/WD~retail,126793]]'
-  - '[[_Standards/WikiData/WD~discount_store,261428]]'
+- '[[_Standards/WikiData/WD~retail,126793]]'
+- '[[_Standards/WikiData/WD~discount_store,261428]]'
 headquarters_location:
-  - '[[_Standards/WikiData/WD~Batavia,576876]]'
-  - '[[_Standards/WikiData/WD~Essen,2066]]'
-  - '[[_Standards/WikiData/WD~Mülheim_an_der_Ruhr,2899]]'
+- '[[_Standards/WikiData/WD~Batavia,576876]]'
+- '[[_Standards/WikiData/WD~Essen,2066]]'
+- '[[_Standards/WikiData/WD~Mülheim_an_der_Ruhr,2899]]'
 award_received: "[[_Standards/WikiData/WD~'Verschlossene_Auster'_award,2517928]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~brand_name,2519914]]'
-  - '[[_Standards/WikiData/WD~supermarket_chain,18043413]]'
+- '[[_Standards/WikiData/WD~brand_name,2519914]]'
+- '[[_Standards/WikiData/WD~supermarket_chain,18043413]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~Hofer_KG,15815751]]'
-  - '[[_Standards/WikiData/WD~Leader_Price_Exploitation,104439664]]'
+- '[[_Standards/WikiData/WD~Hofer_KG,15815751]]'
+- '[[_Standards/WikiData/WD~Leader_Price_Exploitation,104439664]]'
 owned_by: '[[_Standards/WikiData/WD~Karl_Albrecht_Jr.,28317051]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Aldi_Nord,41171373]]'
-  - '[[_Standards/WikiData/WD~Aldi_Süd,41171672]]'
-  - '[[_Standards/WikiData/WD~ALDL,113016473]]'
+- '[[_Standards/WikiData/WD~Aldi_Nord,41171373]]'
+- '[[_Standards/WikiData/WD~Aldi_Süd,41171672]]'
+- '[[_Standards/WikiData/WD~ALDL,113016473]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Aldi_Nord,41171373]]'
-  - '[[_Standards/WikiData/WD~Aldi_Süd,41171672]]'
+- '[[_Standards/WikiData/WD~Aldi_Nord,41171373]]'
+- '[[_Standards/WikiData/WD~Aldi_Süd,41171672]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Karl_Hans_Albrecht,30863]]'
-  - '[[_Standards/WikiData/WD~Theo_Albrecht,57771]]'
+- '[[_Standards/WikiData/WD~Karl_Hans_Albrecht,30863]]'
+- '[[_Standards/WikiData/WD~Theo_Albrecht,57771]]'
 country:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Belgium,31]]'
-  - '[[_Standards/WikiData/WD~Netherlands,55]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 number_of_branches: 8200
 contact_page_URL: https://www.aldi.us/en/about-aldi/contact-us/
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/AldiNord-WorldwideLogo.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Aldi%20S%C3%BCd%202017%20logo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/AldiNord-WorldwideLogo.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Aldi%20S%C3%BCd%202017%20logo.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Aldi.ogg
 described_at_URL: http://www.fundinguniverse.com/company-histories/aldi-group-history/
 Legal_Entity_Identifier: 5299005KDININGAXCV64
@@ -46,10 +54,10 @@ hashtag: Aldi
 Commons_gallery: ALDI
 Commons_category: ALDI
 X_Twitter_username:
-  - Aldi_Ireland
-  - AldiAustralia
-  - AldiUK
-  - AldiUSA
+- Aldi_Ireland
+- AldiAustralia
+- AldiUK
+- AldiUSA
 inception: 1946-01-01T00:00:00Z
 official_website: https://www.aldi.com
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ALDI%20Woerden%2002.JPG
@@ -58,33 +66,92 @@ dv_has_/competitor:
   embed: false
   type: file
 dv_is_/same_as:
-  - path: _Standards/WikiData/WD~Aldi,125054.md
-    embed: false
-    type: file
-  - '[Aldi](Aldi)'
-  - '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public)'
-  - '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal)'
-  - '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect)'
-  - '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private)'
-  - '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal)'
-  - '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret)'
+- path: _Standards/WikiData/WD~Aldi,125054.md
+  embed: false
+  type: file
+- '[Aldi](Aldi)'
+- '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public)'
+- '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal)'
+- '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect)'
+- '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private)'
+- '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal)'
+- '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret)'
 dv_has_competitor:
   path: _Standards/Society/Agent/Organization/Corporation/Retail/Lidl.md
   embed: false
   type: file
 dv_is_same_as:
-  - path: _Standards/WikiData/WD~Aldi,125054.md
-    embed: false
-    type: file
-  - '[Aldi](Aldi)'
-  - '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public)'
-  - '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal)'
-  - '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect)'
-  - '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private)'
-  - '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal)'
-  - '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret)'
+- path: _Standards/WikiData/WD~Aldi,125054.md
+  embed: false
+  type: file
+- '[Aldi](Aldi)'
+- '[Aldi.public](/_public/Society/Economics/Business/Business-Entity/Retail/Aldi.public)'
+- '[Aldi.internal](/_internal/Society/Economics/Business/Business-Entity/Retail/Aldi.internal)'
+- '[Aldi.protect](/_protect/Society/Economics/Business/Business-Entity/Retail/Aldi.protect)'
+- '[Aldi.private](/_private/Society/Economics/Business/Business-Entity/Retail/Aldi.private)'
+- '[Aldi.personal](/_personal/Society/Economics/Business/Business-Entity/Retail/Aldi.personal)'
+- '[Aldi.secret](/_secret/Society/Economics/Business/Business-Entity/Retail/Aldi.secret)'
+dv_has_:
+  name_:
+    af: Aldi
+    ar: ألدي
+    arz: الدى
+    ast: Aldi
+    az: Aldi
+    bar: ALDI
+    bcl: Aldi
+    be-tarask: Aldi
+    ca: Aldi
+    cs: Aldi
+    cv: Aldi
+    cy: Aldi
+    da: ALDI
+    de: Aldi
+    el: Aldi
+    en: Aldi
+    en-ca: Aldi
+    en-gb: Aldi
+    eo: Aldi
+    es: Aldi
+    eu: Aldi
+    fa: آلدی
+    fi: Aldi
+    fr: Aldi
+    ga: Aldi
+    he: אלדי
+    hr: Aldi
+    hu: ALDI
+    id: Aldi
+    it: Aldi
+    ja: Aldi
+    ko: 알디
+    ksh: Aldi
+    la: ALDI
+    lt: Aldi
+    mul: Aldi
+    nb: ALDI
+    nl: Aldi
+    nrm: Aldi
+    pa: ਅਲਦੀ
+    pl: Aldi
+    pms: ALDI
+    pt: Aldi
+    pt-br: Aldi
+    ro: Aldi
+    ru: Aldi
+    sah: Aldi
+    sr: Aldi
+    sv: Aldi
+    syl: ꠀꠟꠖꠤ ꠝꠣꠞ꠆ꠇꠦꠐ
+    tk: Aldi
+    tr: ALDI
+    uk: Aldi
+    uz: ALDI
+    vi: Aldi
+    wuu: 奥乐齐
+    yue: Aldi
+    zh: Aldi
 ---
-
 # [[Aldi]] 
 
 #has_/competitor :: [[Lidl]] 

@@ -1,20 +1,161 @@
 ---
 aliases:
-  - Logical positivism
-  - logical empiricism
-  - neo-positivism
-  - Logical_Positivism
-  - Logical Positivism
+- Chủ nghĩa thực chứng logic
+- empirisme logique
+- empirismo lógico
+- Empirismu lóxicu
+- logalaš empirisma
+- logical empiricism
+- Logical positivism
+- Logical_Positivism
+- Logiese positivisme
+- logika empiriismo
+- logikai pozitivizmus
+- logisch positivisme
+- logischer Empirismus
+- logisk positivism
+- Logisk positivisme
+- Logički pozitivizam
+- logični pozitivizem
+- Logïkalıq atomïzm
+- loogiline empirism
+- looginen empirismi
+- loogisâš empirism
+- looglaž empirismm
+- loģiskais pozitīvisms
+- Lô-chek-tek si̍t-chèng-chú-gī
+- Mantıksal pozitivizm
+- neo-positivism
+- neopositivisme
+- neopositivismo
+- Neopozitivism
+- Neopozitivizm
+- Neopozitivizmus
+- novopozitivismus
+- Positibismo logiko
+- Positibismong lohikal
+- Positifiaeth resymegol
+- Positivisme logik
+- positivismo logico
+- positivismo lógico
+- Positivismus logicus
+- Pozytywizm logiczny
+- Rökfræðileg raunhyggja
+- Uhalisia wa Kimantiki
+- λογικός θετικισμός
+- Логічний позитивізм
+- логик позитивизм
+- Логикалық атомизм
+- логически позитивизъм
+- Логический позитивизм
+- логички позитивизам
+- лягічны пазытывізм
+- Неапазітывізм
+- Неопозитивизм
+- Տրամաբանական պոզիտիվիզմ
+- פוזיטיביזם לוגי
+- اثباتگرایی منطقی
+- الوضعية المنطقية
+- لوگىيكالىق اتومىيزم
+- منطقي اثبات
+- منطقي مثبت اندي
+- तार्किक वस्तुनिष्ठावाद
+- যৌক্তিক ইতিবাদ
+- ლოგიკური პოზიტივიზმი
+- 論理実証主義
+- 逻辑实证主义
+- 邏輯實證主義
+- 논리실증주의
 has_id_wikidata: Q193627
 instance_of:
-  - '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 subclass_of: '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 BHCL_UUID: 195931a1-b8a0-4755-a874-c56db89abf94
 Commons_category: Logical positivism
+dv_has_:
+  name_:
+    af: Logiese positivisme
+    ar: الوضعية المنطقية
+    ast: Empirismu lóxicu
+    be: Неапазітывізм
+    be-tarask: лягічны пазытывізм
+    bg: логически позитивизъм
+    bn: যৌক্তিক ইতিবাদ
+    ca: neopositivisme
+    cs: novopozitivismus
+    cy: Positifiaeth resymegol
+    da: Logisk positivisme
+    de: logischer Empirismus
+    el: λογικός θετικισμός
+    en: logical positivism
+    en-ca: logical positivism
+    en-gb: logical positivism
+    eo: logika empiriismo
+    es: empirismo lógico
+    et: loogiline empirism
+    eu: Positibismo logiko
+    fa: اثباتگرایی منطقی
+    fi: looginen empirismi
+    fr: empirisme logique
+    gl: neopositivismo
+    he: פוזיטיביזם לוגי
+    hi: तार्किक वस्तुनिष्ठावाद
+    hr: Logički pozitivizam
+    hu: logikai pozitivizmus
+    hy: Տրամաբանական պոզիտիվիզմ
+    id: neopositivisme
+    is: Rökfræðileg raunhyggja
+    it: positivismo logico
+    ja: 論理実証主義
+    ka: ლოგიკური პოზიტივიზმი
+    kk: Логикалық атомизм
+    kk-arab: لوگىيكالىق اتومىيزم
+    kk-cn: لوگىيكالىق اتومىيزم
+    kk-cyrl: Логикалық атомизм
+    kk-kz: Логикалық атомизм
+    kk-latn: Logïkalıq atomïzm
+    kk-tr: Logïkalıq atomïzm
+    ko: 논리실증주의
+    ky: Неопозитивизм
+    la: Positivismus logicus
+    lv: loģiskais pozitīvisms
+    ms: Positivisme logik
+    nan: Lô-chek-tek si̍t-chèng-chú-gī
+    nb: logisk positivisme
+    nl: logisch positivisme
+    pl: Pozytywizm logiczny
+    ps: منطقي مثبت اندي
+    pt: positivismo lógico
+    pt-br: Positivismo lógico
+    ro: Neopozitivism
+    ru: Логический позитивизм
+    sco: logical positivism
+    sd: منطقي اثبات
+    se: logalaš empirisma
+    sh: Logički pozitivizam
+    sk: Neopozitivizmus
+    sl: logični pozitivizem
+    smn: loogisâš empirism
+    sms: looglaž empirismm
+    sr: логички позитивизам
+    sv: logisk positivism
+    sw: Uhalisia wa Kimantiki
+    tl: Positibismong lohikal
+    tr: Mantıksal pozitivizm
+    tt: логик позитивизм
+    uk: Логічний позитивізм
+    uz: Neopozitivizm
+    vi: Chủ nghĩa thực chứng logic
+    zh: 逻辑实证主义
+    zh-cn: 逻辑实证主义
+    zh-hans: 逻辑实证主义
+    zh-hant: 邏輯實證主義
+    zh-hk: 邏輯實證主義
+    zh-sg: 逻辑实证主义
+    zh-tw: 邏輯實證主義
 ---
-
 # [[Logical_Positivism]] 
 
 #is_/same_as :: [[WD~Logical_positivism,193627]] 

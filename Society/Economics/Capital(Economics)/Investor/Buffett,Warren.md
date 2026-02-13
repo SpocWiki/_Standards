@@ -1,47 +1,89 @@
 ---
 aliases:
-  - Warren_Buffett
-  - Warren Edward Buffett
-  - Warren Buffett
-  - Buffett
-  - Buffett,Warren
+- Buffett
+- Buffett,Warren
+- Uorren Baffett
+- Vorens Bafets
+- Warren Buffet
+- Warren Buffett
+- Warren Edward Buffett
+- Warren_Buffett
+- Γουόρεν Μπάφετ
+- Ўорэн Бафэт
+- Ворен Бафет
+- Воррен Баффет
+- Воррен Баффетт
+- Уоррен Баффет
+- Уоррен Баффетт
+- Уорън Бъфет
+- Уорэн Бафет
+- Ուորեն Բաֆեթ
+- ווארען באפעט
+- וורן באפט
+- وارن بافت
+- وارن بافیٹ
+- وارن بافێت
+- وارن بفيٽ
+- وارن بفیٹ
+- وارن بفېټ
+- ۋارېن بۇففېت
+- वारेन बफे
+- वारेन बफेट
+- वॉरन बफे
+- वॉरेन बफे
+- ওয়ারেন বাফেট
+- ਵਾਰੇਨ ਬਫ਼ੇ
+- વોરન બફેટ
+- வாரன் பபெட்
+- వారెన్ బఫ్ఫెట్
+- ವಾರೆನ್ ಬಫೆಟ್
+- വാറൻ ബുഫെ
+- วอร์เรน บัฟเฟตต์
+- ဝါရင် ဘတ်ဖတ်
+- უორენ ბაფეტი
+- ウォーレン・バフェット
+- 巴菲特
+- 沃伦·巴菲特
+- 華倫·巴菲特
+- ꯋꯥꯔꯦꯟ ꯕꯐꯦꯠ
+- 워런 버핏
 has_id_wikidata: Q47213
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~shareholder,381136]]'
-  - '[[_Standards/WikiData/WD~investor,557880]]'
-  - '[[_Standards/WikiData/WD~financier,1979607]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~shareholder,381136]]'
+- '[[_Standards/WikiData/WD~investor,557880]]'
+- '[[_Standards/WikiData/WD~financier,1979607]]'
 owner_of: '[[_Standards/WikiData/WD~Berkshire_Hathaway,217583]]'
 student_of: '[[_Standards/WikiData/WD~Benjamin_Graham,290560]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 position_held: '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
 father: '[[_Standards/WikiData/WD~Howard_Homan_Buffett,723488]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Columbia_Business_School,907481]]'
-  - '[[_Standards/WikiData/WD~The_Wharton_School,1329269]]'
-  - '[[_Standards/WikiData/WD~University_of_Nebraska_Lincoln,1353679]]'
-  - '[[_Standards/WikiData/WD~Jackson_Reed_High_School,8033204]]'
-  - '[[_Standards/WikiData/WD~New_York_Institute_of_Finance,16254414]]'
-  - '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
+- '[[_Standards/WikiData/WD~Columbia_Business_School,907481]]'
+- '[[_Standards/WikiData/WD~The_Wharton_School,1329269]]'
+- '[[_Standards/WikiData/WD~University_of_Nebraska_Lincoln,1353679]]'
+- '[[_Standards/WikiData/WD~Jackson_Reed_High_School,8033204]]'
+- '[[_Standards/WikiData/WD~New_York_Institute_of_Finance,16254414]]'
+- '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
 given_name: '[[_Standards/WikiData/WD~Warren,2256715]]'
 child:
-  - '[[_Standards/WikiData/WD~Howard_Graham_Buffett,4079744]]'
-  - '[[_Standards/WikiData/WD~Peter_Buffett,7173047]]'
-  - '[[_Standards/WikiData/WD~Susan_Alice_Buffett,7647504]]'
+- '[[_Standards/WikiData/WD~Howard_Graham_Buffett,4079744]]'
+- '[[_Standards/WikiData/WD~Peter_Buffett,7173047]]'
+- '[[_Standards/WikiData/WD~Susan_Alice_Buffett,7647504]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Susan_Buffett,7647630]]'
-  - '[[_Standards/WikiData/WD~Astrid_Menks,96756817]]'
+- '[[_Standards/WikiData/WD~Susan_Buffett,7647630]]'
+- '[[_Standards/WikiData/WD~Astrid_Menks,96756817]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 family_name: '[[_Standards/WikiData/WD~Buffett,21492748]]'
 mother: '[[_Standards/WikiData/WD~Leila_Stahl_Buffett,55979202]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Doris_Buffett,56222319]]'
-  - '[[_Standards/WikiData/WD~Roberta_Buffett_Elliott,102197117]]'
+- '[[_Standards/WikiData/WD~Doris_Buffett,56222319]]'
+- '[[_Standards/WikiData/WD~Roberta_Buffett_Elliott,102197117]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 award_received: '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -61,8 +103,125 @@ X_Twitter_username: WarrenBuffett
 nickname: The Oracle of Omaha
 name_in_native_language: Warren Buffett
 date_of_birth: 1930-08-30T00:00:00Z
+dv_has_:
+  name_:
+    af: Warren Buffett
+    an: Warren Buffett
+    ar: وارن بافت
+    arz: وارن بافت
+    ast: Warren Buffett
+    az: Uorren Baffett
+    azb: وارن بافت
+    ba: Уоррен Баффетт
+    bar: Warren Buffett
+    bcl: Warren Buffet
+    be: Уорэн Бафет
+    be-tarask: Ўорэн Бафэт
+    bg: Уорън Бъфет
+    bi: Warren Buffett
+    bn: ওয়ারেন বাফেট
+    br: Warren Buffett
+    bs: Warren Buffett
+    ca: Warren Buffett
+    ckb: وارن بافێت
+    cs: Warren Buffett
+    cy: Warren Buffett
+    da: Warren Buffett
+    de: Warren Buffett
+    de-at: Warren Buffett
+    de-ch: Warren Buffett
+    el: Γουόρεν Μπάφετ
+    en: Warren Buffett
+    en-ca: Warren Buffett
+    en-gb: Warren Buffett
+    eo: Warren Buffett
+    es: Warren Buffett
+    et: Warren Buffett
+    eu: Warren Buffett
+    fa: وارن بافت
+    fi: Warren Buffett
+    fo: Warren Buffett
+    fr: Warren Buffett
+    fy: Warren Buffett
+    ga: Warren Buffett
+    gl: Warren Buffett
+    gu: વોરન બફેટ
+    ha: Warren Buffett
+    he: וורן באפט
+    hi: वॉरेन बफे
+    hr: Warren Buffett
+    hu: Warren Buffett
+    hy: Ուորեն Բաֆեթ
+    id: Warren Buffett
+    io: Warren Buffett
+    is: Warren Buffett
+    it: Warren Buffett
+    ja: ウォーレン・バフェット
+    jv: Warren Buffett
+    ka: უორენ ბაფეტი
+    kk: Уоррен Баффет
+    kn: ವಾರೆನ್ ಬಫೆಟ್
+    ko: 워런 버핏
+    ku: Warren Buffett
+    ky: Уоррен Баффетт
+    la: Warren Buffett
+    lb: Warren Buffett
+    lt: Warren Buffett
+    lv: Vorens Bafets
+    mai: वारेन बफे
+    mg: Warren Buffett
+    ml: വാറൻ ബുഫെ
+    mn: Уоррен Баффет
+    mni: ꯋꯥꯔꯦꯟ ꯕꯐꯦꯠ
+    mr: वॉरन बफे
+    ms: Warren Buffett
+    mul: Warren Buffett
+    my: ဝါရင် ဘတ်ဖတ်
+    mzn: وارن بافت
+    nan: Warren Buffett
+    nb: Warren Buffett
+    ne: वारेन बफेट
+    nl: Warren Buffett
+    nn: Warren Buffett
+    oc: Warren Buffett
+    pa: ਵਾਰੇਨ ਬਫ਼ੇ
+    pl: Warren Buffett
+    pnb: وارن بفیٹ
+    ps: وارن بفېټ
+    pt: Warren Buffett
+    pt-br: Warren Buffett
+    ro: Warren Buffett
+    ru: Уоррен Баффетт
+    sah: Уоррен Баффетт
+    sco: Warren Buffett
+    sd: وارن بفيٽ
+    sh: Warren Buffett
+    sk: Warren Buffett
+    sl: Warren Buffett
+    sq: Warren Buffett
+    sr: Ворен Бафет
+    sv: Warren Buffett
+    sw: Warren Buffett
+    ta: வாரன் பபெட்
+    te: వారెన్ బఫ్ఫెట్
+    tg: Воррен Баффет
+    th: วอร์เรน บัฟเฟตต์
+    tl: Warren Buffett
+    tr: Warren Buffett
+    ug: ۋارېن بۇففېت
+    uk: Воррен Баффетт
+    ur: وارن بافیٹ
+    uz: Warren Buffett
+    vi: Warren Buffett
+    war: Warren Buffett
+    wuu: Warren Buffett
+    yi: ווארען באפעט
+    yue: 巴菲特
+    zh: 沃伦·巴菲特
+    zh-cn: 沃伦·巴菲特
+    zh-hans: 沃伦·巴菲特
+    zh-tw: 華倫·巴菲特
 ---
-
 # [[Buffett,Warren]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Warren_Buffett,47213|WD~Warren_Buffett,47213]]  

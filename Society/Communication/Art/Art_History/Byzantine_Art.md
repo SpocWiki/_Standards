@@ -1,27 +1,144 @@
 ---
 aliases:
-  - Byzantine Art
-  - Byzantine_Art
+- Ars Byzantina
+- art byzantin
+- art romà d'Orient
+- arte bizantina
+- arte bizantino
+- arte bizantín
+- artă bizantină
+- Bizancia arto
+- Bizans incəsənəti
+- Bizans sanatı
+- Bizantijos menas
+- bizantinska umetnost
+- bizantska umjetnost
+- bizantziar arte
+- bizánci művészet
+- bysaantlaž čeäppõs
+- Bysantin taide
+- bysantinsk konst
+- bysantinsk kunst
+- bysantlâš taaiđâ
+- bysántalaš dáidda
+- Byzantijnse kunst
+- Byzantine Art
+- Byzantine_Art
+- Byzantinische Kunst
+- byzantské umění
+- Byzantské výtvarné umenie
+- celf Fysantaidd
+- Ealaín na Biosáinte
+- nghệ thuật Byzantine
+- Seni rupa Bizantium
+- sztuka bizantyńska
+- Vizantijska umetnost
+- Βυζαντινή τέχνη
+- бізантыйскае мастацтва
+- візантійське мистецтво
+- византијска уметност
+- Византийско изкуство
+- византиска уметност
+- Византия сәнгате
+- искусство Византии
+- Мастацтва Візантыі
+- Բյուզանդական արվեստ
+- אמנות ביזנטית
+- بازنتيني هنر
+- فن بيزنطي
+- هنر بیزانسی
+- बाइजेंटाइन आर्ट
+- பைசன்டியக் கலை
+- ศิลปะไบแซนไทน์
+- ბიზანტიური ხელოვნება
+- ბიზანტიური ხელუანობა
+- ビザンティン美術
+- 拜占庭艺术
+- 비잔틴 미술
 has_id_wikidata: Q211884
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 part_of: '[[_Standards/WikiData/WD~Byzantine_culture,928904]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~art_of_an_area,25679497]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~art_of_an_area,25679497]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Byzantine_art_during_the_Latin_rule,2864593]]'
-  - '[[_Standards/WikiData/WD~Macedonian_art,2864623]]'
+- '[[_Standards/WikiData/WD~Byzantine_art_during_the_Latin_rule,2864593]]'
+- '[[_Standards/WikiData/WD~Macedonian_art,2864623]]'
 subclass_of: '[[_Standards/WikiData/WD~art_of_the_Earth,13150034]]'
 facet_of: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 country: '[[_Standards/WikiData/WD~Byzantine_Empire,12544]]'
 Commons_category: Byzantine art
 hashtag_: Byzantineart
+dv_has_:
+  name_:
+    ar: فن بيزنطي
+    ast: arte bizantín
+    az: Bizans incəsənəti
+    be: Мастацтва Візантыі
+    be-tarask: бізантыйскае мастацтва
+    bg: Византийско изкуство
+    bho: बाइजेंटाइन आर्ट
+    bs: bizantska umjetnost
+    ca: art romà d'Orient
+    cs: byzantské umění
+    cy: celf Fysantaidd
+    da: bysantinsk kunst
+    de: Byzantinische Kunst
+    el: Βυζαντινή τέχνη
+    en: Byzantine art
+    en-gb: Byzantine art
+    eo: Bizancia arto
+    es: arte bizantino
+    eu: bizantziar arte
+    fa: هنر بیزانسی
+    fi: Bysantin taide
+    fr: art byzantin
+    ga: Ealaín na Biosáinte
+    gl: arte bizantina
+    he: אמנות ביזנטית
+    hr: bizantska umjetnost
+    hu: bizánci művészet
+    hy: Բյուզանդական արվեստ
+    id: Seni rupa Bizantium
+    it: arte bizantina
+    ja: ビザンティン美術
+    ka: ბიზანტიური ხელოვნება
+    ko: 비잔틴 미술
+    la: Ars Byzantina
+    lt: Bizantijos menas
+    mk: византиска уметност
+    nb: bysantinsk kunst
+    nl: Byzantijnse kunst
+    nn: Bysantinsk kunst
+    pl: sztuka bizantyńska
+    ps: بازنتيني هنر
+    pt: arte bizantina
+    ro: artă bizantină
+    ru: искусство Византии
+    se: bysántalaš dáidda
+    sh: Bizantska umjetnost
+    sk: Byzantské výtvarné umenie
+    sl: bizantinska umetnost
+    smn: bysantlâš taaiđâ
+    sms: bysaantlaž čeäppõs
+    sr: византијска уметност
+    sr-ec: Византијска уметност
+    sr-el: Vizantijska umetnost
+    sv: bysantinsk konst
+    ta: பைசன்டியக் கலை
+    th: ศิลปะไบแซนไทน์
+    tr: Bizans sanatı
+    tt: Византия сәнгате
+    tt-cyrl: Византия сәнгате
+    uk: візантійське мистецтво
+    vi: nghệ thuật Byzantine
+    xmf: ბიზანტიური ხელუანობა
+    zh: 拜占庭艺术
 ---
-
 # [[Byzantine_Art]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Byzantine_art,211884|WD~Byzantine_art,211884]] 

@@ -1,4 +1,51 @@
-
+---
+has_id_wikidata: Q5387722
+dv_has_:
+  name_:
+    ar: إريك وينشتاين
+    arz: اريك وينشتاين
+    ast: Eric Weinstein
+    bar: Eric Weinstein
+    ca: Eric Weinstein
+    da: Eric Weinstein
+    de: Eric Weinstein
+    de-ch: Eric Weinstein
+    en: Eric Weinstein
+    en-ca: Eric Weinstein
+    en-gb: Eric Weinstein
+    es: Eric Weinstein
+    fa: اریک واینستین
+    fi: Eric Weinstein
+    fr: Eric Weinstein
+    ga: Eric Weinstein
+    gl: Eric Weinstein
+    he: אריק וינשטיין
+    it: Eric Weinstein
+    ko: 에릭 와인스타인
+    nb: Eric Weinstein
+    nl: Eric Weinstein
+    nn: Eric Weinstein
+    pt: Eric Weinstein
+    pt-br: Eric Weinstein
+    ro: Eric Weinstein
+    ru: Эрик Вайнштейн
+    sl: Eric Weinstein
+    sq: Eric Weinstein
+    sv: Eric Weinstein
+    tr: Eric Weinstein
+    zh: 埃里克·温斯坦
+    zh-cn: 埃里克·温斯坦
+    zh-hans: 埃里克·温斯坦
+aliases:
+- Eric Weinstein
+- Эрик Вайнштейн
+- אריק וינשטיין
+- إريك وينشتاين
+- اريك وينشتاين
+- اریک واینستین
+- 埃里克·温斯坦
+- 에릭 와인스타인
+---
 # [[Weinstein,Eric_Ross]] 
 
 #has_/time_/started :: 1965-10-26 

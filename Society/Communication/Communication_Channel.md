@@ -1,25 +1,151 @@
 ---
 aliases:
-  - Communication channel
-  - Communication_Channel
-  - Communication Channel
+- Aloqa kanali
+- cainéal
+- canal
+- canal de communication
+- canal de comunicació
+- canal de comunicación
+- canale
+- canaƚe
+- Canhal
+- canle de comunicación
+- channel
+- cog
+- communicatiekanaal
+- Communication channel
+- Communication_Channel
+- csatorna
+- kanal
+- kanava
+- kanał komunikacyjny
+- kanál
+- kanála
+- kanāls
+- kommunikasjonskanal
+- kommunikationskanal
+- komunika kanalo
+- Komunikala kanalo
+- Kênh giao tiếp
+- ryšių kanalas
+- saluran
+- sianel
+- sidekanal
+- Umgudu wokuxhumana
+- Übertragungskanal
+- Κανάλι μετάδοσης
+- Байланыс арналары
+- канал
+- канал зв'язку
+- канал связи
+- канал сувязі
+- Комуникационен канал
+- элемтә каналы
+- կապի հաղորդման ուղի
+- ערוץ תקשורת
+- سالورن
+- قناة
+- چینل
+- کانال مخابراتی
+- প্রণালি
+- සන්නිවේදන නාලිකාව
+- 伝送路
+- 信道
+- 通道
+- 頻道
+- 채널
 has_id_wikidata: Q733553
 has_characteristic:
-  - '[[_Standards/WikiData/WD~signal_bandwidth,249998]]'
-  - '[[_Standards/WikiData/WD~channel_capacity,870845]]'
+- '[[_Standards/WikiData/WD~signal_bandwidth,249998]]'
+- '[[_Standards/WikiData/WD~channel_capacity,870845]]'
 subclass_of: '[[_Standards/WikiData/WD~communications_media,340169]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~channel,23014216]]'
 instance_of: '[[_Standards/WikiData/WD~communication_science_term,76429716]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 exact_match:
-  - https://schema.org/BroadcastChannel
-  - http://purl.org/ontology/po/Channel
+- https://schema.org/BroadcastChannel
+- http://purl.org/ontology/po/Channel
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Comm%20Channel.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Communications%20men.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Comm%20Channel.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Communications%20men.jpg
 IEV_number: 701-02-01
+dv_has_:
+  name_:
+    ar: قناة
+    be: канал сувязі
+    be-tarask: канал сувязі
+    bg: Комуникационен канал
+    bn: প্রণালি
+    bs: kanal
+    ca: canal de comunicació
+    cs: kanál
+    cy: sianel
+    da: kommunikationskanal
+    de: Übertragungskanal
+    de-ch: Kanal
+    el: Κανάλι μετάδοσης
+    en: channel
+    en-ca: channel
+    en-gb: channel
+    eo: komunika kanalo
+    es: canal de comunicación
+    et: sidekanal
+    eu: kanal
+    fa: کانال مخابراتی
+    fi: kanava
+    fr: canal de communication
+    ga: cainéal
+    gl: canle de comunicación
+    he: ערוץ תקשורת
+    hr: kanal
+    hu: csatorna
+    hy: կապի հաղորդման ուղի
+    id: kanal
+    io: Komunikala kanalo
+    it: canale
+    ja: 伝送路
+    kk: Байланыс арналары
+    ko: 채널
+    ku: cog
+    ky: Канал
+    lt: ryšių kanalas
+    lv: kanāls
+    mk: канал
+    ms: saluran
+    ms-arab: سالورن
+    mwl: Canhal
+    nb: kanal
+    nl: communicatiekanaal
+    nn: kommunikasjonskanal
+    pl: kanał komunikacyjny
+    pt: canal
+    pt-br: Canal
+    ru: канал связи
+    se: kanála
+    si: සන්නිවේදන නාලිකාව
+    sk: kanál
+    sl: kanal
+    smn: kanava
+    sr: канал
+    sr-ec: канал
+    sr-el: kanal
+    sv: kanal
+    tr: kanal
+    tt: элемтә каналы
+    tt-cyrl: элемтә каналы
+    uk: канал зв'язку
+    ur: چینل
+    uz: Aloqa kanali
+    vec: canaƚe
+    vi: Kênh giao tiếp
+    wuu: 信道
+    yue: 頻道
+    zh: 信道
+    zh-hans: 信道
+    zh-hant: 通道
+    zh-hk: 頻道
+    zu: Umgudu wokuxhumana
 ---
-
 # [[Communication_Channel]] 
 
 #is_/similar_to :: [[Media|Media]] 

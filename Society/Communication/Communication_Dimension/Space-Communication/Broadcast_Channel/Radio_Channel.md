@@ -1,34 +1,86 @@
 ---
 aliases:
-  - radio-channel
-  - radio_channel
-  - RadioChannel
-  - is_a_radio_channel
-  - Radio station
-  - Radio_Channel
-  - Radio Channel
+- canal de ràdio
+- Hörfunksender
+- irrati-kanal
+- is_a_radio_channel
+- kanał radiowy
+- raadiokanal
+- radijski kanal
+- Radio Channel
+- Radio station
+- radio-channel
+- RadioChannel
+- radiokanaal
+- radiokanal
+- radiokanalo
+- radiokanava
+- radiokanála
+- radio_channel
+- rádiócsatorna
+- station de radio
+- ραδιοφωνικό κανάλι
+- канал радио
+- Радиоканал
+- радыёканал
+- Радыёстанцыя
+- ریڈیو چینل
+- বেতার চ্যানেল
+- 广播频道
+- 廣播頻道
+- 無線伝送路
 has_id_wikidata: Q1474440
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - radio_channel
+- radio_channel
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_radio_channel Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_radio_channel Class
 type: Type
+dv_has_:
+  name_:
+    be: Радыёстанцыя
+    be-tarask: радыёканал
+    bn: বেতার চ্যানেল
+    ca: canal de ràdio
+    da: radiokanal
+    de: Hörfunksender
+    el: ραδιοφωνικό κανάλι
+    en: radio channel
+    eo: radiokanalo
+    et: raadiokanal
+    eu: irrati-kanal
+    fi: radiokanava
+    fr: station de radio
+    hu: rádiócsatorna
+    ja: 無線伝送路
+    ky: Радиоканал
+    nb: radiokanal
+    nl: radiokanaal
+    pl: kanał radiowy
+    ru: канал радио
+    se: radiokanála
+    sl: radijski kanal
+    smn: radiokanava
+    sv: radiokanal
+    ur: ریڈیو چینل
+    zh: 广播频道
+    zh-hans: 广播频道
+    zh-hant: 廣播頻道
+    zh-hk: 廣播頻道
 ---
-
 # [[Radio_Channel]]
 
 Class of all radio_channels/Radio stations.

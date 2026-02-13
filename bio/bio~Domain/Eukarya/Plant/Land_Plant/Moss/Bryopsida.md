@@ -1,9 +1,98 @@
 ---
 aliases:
-  - Bryopsida
+- aitosammalet
+- bladmossen
+- Bladmosser
+- Briopsidoj
+- Briòpsida
+- Bryopsida
+- Egentliga bladmossor
+- Hnokkmosaflokkur
+- Lapsamanės
+- lapu sūnu klase
+- Lehtsamblad
+- pravé mechy
+- prątniki
+- valódi lombosmohák
+- Yarpaqlı mamırlar
+- Yoʻsinsimonlar
+- лістасцябловыя імхі
+- листостебельные мхи
+- листостеблові мохи
+- حزازيات حقيقية
+- حزازيات حقيقيه
+- یارپاقلی مامیرلار
+- マゴケ綱
+- 真藓纲
+- 真蘚綱
+- 蘚綱
+- 선태식물강
 title: Bryopsida
+has_id_wikidata: Q831482
+dv_has_:
+  name_:
+    af: Bryopsida
+    an: Bryopsida
+    ar: حزازيات حقيقية
+    arz: حزازيات حقيقيه
+    ast: Bryopsida
+    az: Yarpaqlı mamırlar
+    azb: یارپاقلی مامیرلار
+    be: лістасцябловыя імхі
+    bg: Bryopsida
+    ca: Briòpsida
+    ceb: Bryopsida
+    cs: pravé mechy
+    cy: Bryopsida
+    da: Bladmosser
+    de: Bryopsida
+    en: Bryopsida
+    eo: Briopsidoj
+    es: Bryopsida
+    et: Lehtsamblad
+    eu: Bryopsida
+    ext: Bryopsida
+    fi: aitosammalet
+    fr: Bryopsida
+    ga: Bryopsida
+    gl: Bryopsida
+    hr: Bryopsida
+    hu: valódi lombosmohák
+    ia: Bryopsida
+    id: Bryopsida
+    ie: Bryopsida
+    io: Bryopsida
+    is: Hnokkmosaflokkur
+    it: Bryopsida
+    ja: マゴケ綱
+    ko: 선태식물강
+    la: Bryopsida
+    lt: Lapsamanės
+    lv: lapu sūnu klase
+    mul: Bryopsida
+    nl: bladmossen
+    oc: Bryopsida
+    pl: prątniki
+    pt: Bryopsida
+    pt-br: Bryopsida
+    ro: Bryopsida
+    ru: листостебельные мхи
+    sl: Bryopsida
+    sq: Bryopsida
+    sr: Bryopsida
+    sv: Egentliga bladmossor
+    tl: Bryopsida
+    uk: листостеблові мохи
+    uz: Yoʻsinsimonlar
+    vi: Bryopsida
+    vo: Bryopsida
+    war: Bryopsida
+    yue: 蘚綱
+    zh: 真藓纲
+    zh-cn: 真藓纲
+    zh-hans: 真藓纲
+    zh-tw: 真蘚綱
 ---
-
 # [[Bryopsida]]
 
 Mosses with arthrodontous peristome. 

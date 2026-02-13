@@ -1,31 +1,156 @@
 ---
 aliases:
-  - invasion
-  - attack
-  - offensive
-  - Military_offensive
-  - Military_Offensive
-  - Military Offensive
+- angreb
+- argadenn vilourel
+- Atako (milit.)
+- attack
+- erasoaldi
+- Hucumê eskeriye
+- hyökkäys
+- hərbi hücum
+- invasion
+- ionsaí míleata
+- katonai támadás
+- Kong-kek
+- militair offensief
+- Military Offensive
+- Military_offensive
+- militær offensiv
+- militêre offensief
+- Napad
+- natarcie
+- Ofanziva
+- Ofensiva
+- ofensiva militar
+- ofensiva miłitare
+- ofensivo
+- Ofensivë (ushtarake)
+- ofensivă
+- ofensiwa
+- offensiv
+- offensiva
+- offensive
+- offensive militaire
+- Pealetung
+- Puolimas
+- saldırı
+- serangan ketenteraan
+- serangan militer
+- tấn công quân sự
+- vojaška ofenziva
+- vojna ofanziva
+- Yiikʼiʼdaʼ hiiznáʼ
+- ymosodiad milwrol
+- útok
+- επίθεση
+- војна офанзива
+- воена офанзива
+- Наступ
+- наступление
+- Настъпление
+- Талпăну
+- Հարձակում
+- התקפה
+- تهاجم
+- هجوم عسكري
+- پوځي برید
+- ھێرش
+- সামরিক আক্রমণ
+- வலிந்து தாக்குதல்
+- 军事攻势
+- 攻撃
+- 軍事攻勢
+- 軍事攻擊
+- 군사 공격
 has_id_wikidata: Q2001676
 subclass_of:
-  - "[[_Standards/WikiData/WD~armed_conflict,350604]]"
-  - "[[_Standards/WikiData/WD~military_operation,645883]]"
-  - "[[_Standards/WikiData/WD~attack,1174599]]"
+- '[[_Standards/WikiData/WD~armed_conflict,350604]]'
+- '[[_Standards/WikiData/WD~military_operation,645883]]'
+- '[[_Standards/WikiData/WD~attack,1174599]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~attacker,31924059]]"
-  - "[[_Standards/WikiData/WD~defender,111729140]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_conflict,125092269]]"
-U_S_National_Archives_Identifier: "10665873"
+- '[[_Standards/WikiData/WD~attacker,31924059]]'
+- '[[_Standards/WikiData/WD~defender,111729140]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+U_S_National_Archives_Identifier: 10665873
 Provenio_UUID: cb9aa200-5b3d-490e-a497-114223a4ed6c
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Warley%20camp%20the%20mock%20attack%201779.jpg
-Dewey_Decimal_Classification: "355.4"
+Dewey_Decimal_Classification: 355.4
+dv_has_:
+  name_:
+    af: militêre offensief
+    ar: هجوم عسكري
+    ast: ofensiva militar
+    az: hərbi hücum
+    be: Наступ
+    be-tarask: наступ
+    bg: Настъпление
+    bn: সামরিক আক্রমণ
+    br: argadenn vilourel
+    bs: vojna ofanziva
+    ca: ofensiva militar
+    ckb: ھێرش
+    cs: útok
+    cv: Талпăну
+    cy: ymosodiad milwrol
+    da: angreb
+    de: Offensive
+    diq: Hucumê eskeriye
+    el: επίθεση
+    en: offensive
+    eo: ofensivo
+    es: ofensiva militar
+    et: Pealetung
+    eu: erasoaldi
+    fa: تهاجم
+    fi: hyökkäys
+    fr: offensive militaire
+    ga: ionsaí míleata
+    gl: ofensiva militar
+    he: התקפה
+    hr: Napad
+    hsb: ofensiwa
+    hu: katonai támadás
+    hy: Հարձակում
+    id: serangan militer
+    io: Atako (milit.)
+    it: offensiva
+    ja: 攻撃
+    ko: 군사 공격
+    lb: Offensiv
+    lt: Puolimas
+    mk: воена офанзива
+    ms: serangan ketenteraan
+    nan: Kong-kek
+    nb: militær offensiv
+    nl: militair offensief
+    nv: Yiikʼiʼdaʼ hiiznáʼ
+    oc: Ofensiva
+    pl: natarcie
+    ps: پوځي برید
+    pt: ofensiva militar
+    ro: ofensivă
+    ru: наступление
+    sco: offensive
+    sh: Ofanziva
+    sl: vojaška ofenziva
+    sq: Ofensivë (ushtarake)
+    sr: војна офанзива
+    sv: offensiv
+    ta: வலிந்து தாக்குதல்
+    tr: saldırı
+    uk: наступ
+    vec: ofensiva miłitare
+    vi: tấn công quân sự
+    yue: 軍事攻擊
+    zh: 军事攻势
+    zh-hans: 军事攻势
+    zh-hant: 軍事攻勢
 ---
-
 # [[Military_Offensive]] 
 
 #is_/same_as :: [[WD~Military_offensive,2001676]] 

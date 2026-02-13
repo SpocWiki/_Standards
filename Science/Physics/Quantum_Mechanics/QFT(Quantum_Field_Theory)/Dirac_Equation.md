@@ -1,21 +1,133 @@
 ---
 aliases:
-  - Dirac equation
-  - Dirac_Equation
-  - Dirac Equation
+- aequatio Diraciana
+- cothromóid Dirac
+- Dirac denklemi
+- Dirac equation
+- Dirac 方程
+- Dirac-egyenlet
+- Dirac-Gleichung
+- Dirac-ligning
+- Dirac-ligningen
+- Dirac-vergelijking
+- Dirac-vergelyking
+- Diracekvationen
+- Diracen ekuazioa
+- Diraci võrrand
+- Diracin yhtälö
+- Diracova enačba
+- Diracova rovnice
+- Dirac_Equation
+- Dirak tenglamasi
+- Diraka ekvacio
+- ecuación de Dirac
+- ecuația lui Dirac
+- egali de Dirac
+- ekwasyong Dirac
+- equacion de Dirac
+- equaciono di Dirac
+- equation de Dirac
+- equazione di Dirac
+- equação de Dirac
+- persamaan Dirac
+- phương trình Dirac
+- równanie Diraca
+- équation de Dirac
+- εξίσωση Ντιράκ
+- Дирак тигезләмәсе
+- еquació de Dirac
+- рівняння Дірака
+- ураўненне Дзірака
+- уравнение Дирака
+- уравнение на Дирак
+- Դիրակի հավասարում
+- משוואת דיראק
+- معادلة ديراك
+- معادله دیراک
+- डिरॅक समीकरण
+- ডিরাক সমীকরণ
+- ਡੀਰਾਕ ਇਕੁਏਸ਼ਨ
+- დირაკის განტოლება
+- ディラック方程式
+- 狄拉克方程
+- 狄拉克方程式
+- 디랙 방정식
 has_id_wikidata: Q272621
-different_from: "[[_Standards/WikiData/WD~Dirac_delta_function,209675]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-instance_of: "[[_Standards/WikiData/WD~relativistic_wave_equation,7310838]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-derivative_work: "[[_Standards/WikiData/WD~Dirac_equation_in_curved_spacetime,16853908]]"
-named_after: "[[_Standards/WikiData/WD~Paul_Dirac,47480]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul_Dirac,47480]]"
+different_from: '[[_Standards/WikiData/WD~Dirac_delta_function,209675]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~relativistic_wave_equation,7310838]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+derivative_work: '[[_Standards/WikiData/WD~Dirac_equation_in_curved_spacetime,16853908]]'
+named_after: '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/dirac-equation
-defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi><mi alternate="1">&#x210F;</mi><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi mathvariant="normal">&#x03A8;</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">=</mo><mo stretchy="false">(</mo><mi>c</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mrow data-mjx-texclass="ORD"><mi mathvariant="bold-italic">&#x03B1;</mi></mrow><mo>^</mo></mover></mrow></mrow><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mrow data-mjx-texclass="ORD"><mi>𝒑</mi></mrow><mo>^</mo></mover></mrow></mrow><mo stretchy="false">+</mo><mi>m</mi><msup><mi>c</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>&#x03B2;</mi><mo>^</mo></mover></mrow></mrow><mo stretchy="false">)</mo><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
+defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi>i</mi><mi alternate=\"1\">&#x210F;</mi><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mi mathvariant=\"normal\">&#x03A8;</mi></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy=\"false\">=</mo><mo stretchy=\"false\">(</mo><mi>c</mi><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mover><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"bold-italic\">&#x03B1;</mi></mrow><mo>^</mo></mover></mrow></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mover><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D491</mi></mrow><mo>^</mo></mover></mrow></mrow><mo stretchy=\"false\">+</mo><mi>m</mi><msup><mi>c</mi><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mover><mi>&#x03B2;</mi><mo>^</mo></mover></mrow></mrow><mo stretchy=\"false\">)</mo><mi mathvariant=\"normal\">&#x03A8;</mi></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dirac%20equation%20%284089777873%29.jpg
+dv_has_:
+  name_:
+    af: Dirac-vergelyking
+    ar: معادلة ديراك
+    be: ураўненне Дзірака
+    bg: уравнение на Дирак
+    bn: ডিরাক সমীকরণ
+    ca: еquació de Dirac
+    cs: Diracova rovnice
+    da: Dirac-ligningen
+    de: Dirac-Gleichung
+    de-ch: Dirac-Gleichung
+    el: εξίσωση Ντιράκ
+    en: Dirac equation
+    en-ca: Dirac equation
+    en-gb: Dirac equation
+    eo: Diraka ekvacio
+    es: ecuación de Dirac
+    et: Diraci võrrand
+    eu: Diracen ekuazioa
+    fa: معادله دیراک
+    fi: Diracin yhtälö
+    fr: équation de Dirac
+    ga: cothromóid Dirac
+    gl: ecuación de Dirac
+    gsw: Dirac-Gleichung
+    he: משוואת דיראק
+    hu: Dirac-egyenlet
+    hy: Դիրակի հավասարում
+    ia: equation de Dirac
+    id: persamaan Dirac
+    io: equaciono di Dirac
+    it: equazione di Dirac
+    ja: ディラック方程式
+    ka: დირაკის განტოლება
+    ko: 디랙 방정식
+    la: aequatio Diraciana
+    lfn: egali de Dirac
+    mr: डिरॅक समीकरण
+    nb: Dirac-ligning
+    nl: Dirac-vergelijking
+    oc: equacion de Dirac
+    pa: ਡੀਰਾਕ ਇਕੁਏਸ਼ਨ
+    pl: równanie Diraca
+    pt: equação de Dirac
+    pt-br: equação de Dirac
+    ro: ecuația lui Dirac
+    ru: уравнение Дирака
+    sl: Diracova enačba
+    sv: Diracekvationen
+    tl: ekwasyong Dirac
+    tr: Dirac denklemi
+    tt: Дирак тигезләмәсе
+    uk: рівняння Дірака
+    uz: Dirak tenglamasi
+    vi: phương trình Dirac
+    yue: Dirac 方程
+    zh: 狄拉克方程式
+    zh-cn: 狄拉克方程
+    zh-hans: 狄拉克方程式
+    zh-hant: 狄拉克方程式
+    zh-hk: 狄拉克方程式
+    zh-sg: 狄拉克方程
+    zh-tw: 狄拉克方程式
 ---
-
 # [[Dirac_Equation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Dirac_equation,272621]] 

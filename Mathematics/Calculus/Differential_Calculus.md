@@ -1,22 +1,189 @@
 ---
 aliases:
+- Bî-hun
+- calcalas difreálach
+- calcolo differenziale
+- calcul diferențial
+- calcul différentiel
+- calculus differentialis
+- calcwlws differol
+- càlcol diferensial
+- càlcul diferencial
+- càrculu diffirinziali
+- cálculo diferencial
+- Cálculu diferencial
+- deildun
+- diferansiyel kalkülüs
+- diferenciala kalkulo
+- diferencialni račun
+- diferencijalni račun
+- diferenciální počet
+- Diferenciālrēķini
+- Diferensial hesabı
+- diferentiaalreegnang
+- diferentsiaalarvutus
+- differenciálszámítás
+- differensiaalrekening
+- differensial hisob
+- differensialregning
+- differensialrekning
+- differentiaalilaskenta
+- Differentiaalraekening
+- differentiaalrekening
+- differential calculus
+- differentialkalkyl
+- Differentialrechnung
+- differentialregning
+- Differenziäurechnung
+- Išvestinė
+- kalkulu diferentzial
+- kalkulus diferensial
+- kalkulus na diperensiyal
+- kalkulus pembezaan
+- Lao
+- Mì-fûn
+- różniczka funkcji
+- vi phân
+- Διαφορικός λογισμός
+- диференціальне числення
+- диференцијални рачун
+- диференцијално сметање
+- диференциално смятане
+- Дифференциалдық Есептеу
+- Дифференциаллă шутлав
+- дифференциалон хынцынад
+- дифференциаль исәпләү
+- Дифференциаль иҫәпләмә
+- дифференциальное исчисление
+- дыферэнцыяльнае злічэнне
+- дыфэрэнцыйнае зьлічэньне
+- ҳисоби дифференсиалӣ
+- դիֆերենցիալ հաշիվ
+- חשבון דיפרנציאלי
+- اشتقاق
+- تفریقی حسابان
+- حساب التفاضل
+- حساب دیفرانسیل
+- کلکولوس ڤمبيذاءن
+- अवकलन
+- भैदिक कलन
+- অন্তরকলন
+- অৱকলন
+- வகை நுண்கணிதம்
+- ವಿಕಲನಶಾಸ್ತ್ರ
+- අවකලනය
+- დიფერენციალური აღრიცხვა
+- 微分
+- 微分学
+- 微分法
+- 미분학
 has_id_wikidata: Q149999
-subclass_of: "[[_Standards/WikiData/WD~calculus,149972]]"
-opposite_of: "[[_Standards/WikiData/WD~integral_calculus,150008]]"
-different_from: "[[_Standards/WikiData/WD~differential_of_a_function,750432]]"
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
+subclass_of: '[[_Standards/WikiData/WD~calculus,149972]]'
+opposite_of: '[[_Standards/WikiData/WD~integral_calculus,150008]]'
+different_from: '[[_Standards/WikiData/WD~differential_of_a_function,750432]]'
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-is_the_study_of: "[[_Standards/WikiData/WD~derivative,29175]]"
-OmegaWiki_Defined_Meaning: "722301"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+is_the_study_of: '[[_Standards/WikiData/WD~derivative,29175]]'
+OmegaWiki_Defined_Meaning: 722301
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tangent%20dynamic.gif
-ACM_Classification_Code_2012_: "10003734"
+ACM_Classification_Code_2012_: 10003734
 Commons_category: Differential calculus
 Wolfram_Language_entity_code: Entity["Concept", "DifferentialCalculus::767tz"]
+dv_has_:
+  name_:
+    af: differensiaalrekening
+    ar: حساب التفاضل
+    arz: اشتقاق
+    as: অৱকলন
+    ast: Cálculu diferencial
+    az: Diferensial hesabı
+    ba: Дифференциаль иҫәпләмә
+    bar: Differenziäurechnung
+    be: дыферэнцыяльнае злічэнне
+    be-tarask: дыфэрэнцыйнае зьлічэньне
+    bg: диференциално смятане
+    bn: অন্তরকলন
+    ca: càlcul diferencial
+    cs: diferenciální počet
+    cv: Дифференциаллă шутлав
+    cy: calcwlws differol
+    da: differentialregning
+    de: Differentialrechnung
+    de-ch: Differentialrechnung
+    el: Διαφορικός λογισμός
+    en: differential calculus
+    en-ca: differential calculus
+    en-gb: differential calculus
+    eo: diferenciala kalkulo
+    es: cálculo diferencial
+    et: diferentsiaalarvutus
+    eu: kalkulu diferentzial
+    fa: حساب دیفرانسیل
+    fi: differentiaalilaskenta
+    fr: calcul différentiel
+    frr: diferentiaalreegnang
+    ga: calcalas difreálach
+    gl: cálculo diferencial
+    gsw: Differentialrechnung
+    hak: Mì-fûn
+    he: חשבון דיפרנציאלי
+    hi: अवकलन
+    hr: diferencijalni račun
+    hu: differenciálszámítás
+    hy: դիֆերենցիալ հաշիվ
+    id: kalkulus diferensial
+    is: deildun
+    it: calcolo differenziale
+    ja: 微分法
+    ka: დიფერენციალური აღრიცხვა
+    kk: Дифференциалдық Есептеу
+    kn: ವಿಕಲನಶಾಸ್ತ್ರ
+    ko: 미분학
+    la: calculus differentialis
+    li: Differentiaalraekening
+    lo: Lao
+    lt: Išvestinė
+    lv: Diferenciālrēķini
+    mk: диференцијално сметање
+    mr: भैदिक कलन
+    ms: kalkulus pembezaan
+    ms-arab: کلکولوس ڤمبيذاءن
+    nan: Bî-hun
+    nb: differensialregning
+    nl: differentiaalrekening
+    nn: differensialrekning
+    os: дифференциалон хынцынад
+    pl: różniczka funkcji
+    pms: càlcol diferensial
+    pt: cálculo diferencial
+    pt-br: cálculo diferencial
+    ro: calcul diferențial
+    ru: дифференциальное исчисление
+    scn: càrculu diffirinziali
+    sco: differential calculus
+    si: අවකලනය
+    sl: diferencialni račun
+    sr: диференцијални рачун
+    sr-ec: диференцијални рачун
+    sr-el: диференцијални рачун
+    ss: Differential calculus
+    sv: differentialkalkyl
+    ta: வகை நுண்கணிதம்
+    tg: ҳисоби дифференсиалӣ
+    tl: kalkulus na diperensiyal
+    tr: diferansiyel kalkülüs
+    tt: дифференциаль исәпләү
+    uk: диференціальне числення
+    ur: تفریقی حسابان
+    uz: differensial hisob
+    vi: vi phân
+    wuu: 微分学
+    yue: 微分
+    zh: 微分学
 ---
-
 # [[Differential_Calculus]] 
 
 

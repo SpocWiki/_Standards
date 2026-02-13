@@ -1,23 +1,151 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]"
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]"
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin|Serotonin]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.public|Serotonin.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.internal|Serotonin.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.protect|Serotonin.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.private|Serotonin.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.personal|Serotonin.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Serotonin.secret|Serotonin.secret]]'
+has_id_wikidata: Q167934
+dv_has_:
+  name_:
+    ar: سيروتونين
+    arz: سيروتونين
+    ast: Serotonina
+    az: Seratonin
+    azb: سروتونین
+    ban: Serotonin
+    be: Сератанін
+    be-tarask: Сэратанін
+    bg: Серотонин
+    bn: সেরোটোনিন
+    bs: Serotonin
+    ca: serotonina
+    cs: serotonin
+    da: serotonin
+    de: Serotonin
+    el: σεροτονίνη
+    en: serotonin
+    en-gb: serotonin
+    eo: serotonino
+    es: serotonina
+    et: Serotoniin
+    eu: serotonina
+    ext: Serotonina
+    fa: سروتونین
+    fi: serotoniini
+    fo: serotonin
+    fr: sérotonine
+    ga: séireatoinin
+    gl: Serotonina
+    he: סרוטונין
+    hi: 5-हाइड्रॉक्सिट्रिप्टामिन
+    hr: Serotonin
+    hu: szerotonin
+    hy: Սերոտոնին
+    id: Serotonin
+    is: Serótónín
+    it: serotonina
+    ja: セロトニン
+    kk: Серотонин
+    kk-arab: سەروتونىين
+    kk-cn: سەروتونىين
+    kk-cyrl: Серотонин
+    kk-kz: Серотонин
+    kk-latn: Serotonïn
+    kk-tr: Serotonïn
+    ko: 세로토닌
+    ky: Серотонин
+    la: Serotoninum
+    lt: Serotoninas
+    lv: serotonīns
+    mk: Серотонин
+    ml: സെറോടോണിൻ
+    mr: सेरोटोनिन
+    ms: Serotonin
+    nb: serotonin
+    nl: serotonine
+    nn: serotonin
+    oc: Serotonina
+    pl: serotonina
+    pt: serotonina
+    ro: serotonină
+    ru: серотонин
+    sco: serotonin
+    sh: Serotonin
+    sk: Serotonín
+    sl: serotonin
+    sr: серотонин
+    sr-ec: Серотонин
+    sr-el: Serotonin
+    sv: serotonin
+    ta: செரோடோனின்
+    te: సెరటోనిన్
+    th: เซโรโทนิน
+    tl: Serotonin
+    tr: Serotonin
+    uk: Серотонін
+    ur: Serotonin
+    uz: Serotonin
+    vi: Serotonin
+    war: Serotonin
+    wuu: 血清素
+    zh: 血清素
+    zh-cn: 血清素
+    zh-hans: 血清素
+    zh-hant: 血清素
+    zh-hk: 血清素
+    zh-sg: 血清素
+    zh-tw: 血清素
+aliases:
+- 5-हाइड्रॉक्सिट्रिप्टामिन
+- Seratonin
+- Serotoniin
+- serotoniini
+- serotonin
+- serotonina
+- Serotoninas
+- serotonine
+- serotonino
+- Serotoninum
+- serotonină
+- Serotonín
+- Serotonïn
+- serotonīns
+- Serótónín
+- szerotonin
+- séireatoinin
+- sérotonine
+- σεροτονίνη
+- Сератанін
+- Серотонін
+- серотонин
+- Сэратанін
+- Սերոտոնին
+- סרוטונין
+- سروتونین
+- سيروتونين
+- سەروتونىين
+- सेरोटोनिन
+- সেরোটোনিন
+- செரோடோனின்
+- సెరటోనిన్
+- സെറോടോണിൻ
+- เซโรโทนิน
+- セロトニン
+- 血清素
+- 세로토닌
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Serotonin** () or 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter. 

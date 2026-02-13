@@ -1,26 +1,85 @@
 ---
 aliases:
-  - Narzisse
-  - Narzissen
-  - daffodil
-  - narcissus
-  - narcissi
-  - jonquil
-  - Narcissus(Plant)
-  - Narcis
-  - narcis
-  - narcisa
-  - 水仙属
+- Amarelle
+- Aprilbluumen
+- Chi Thủy tiên
+- daffodil
+- Healswyrt
+- jonquil
+- lili Korawys
+- Lilipa
+- Lily
+- lus an chromchinn
+- Narcis
+- narcisa
+- Narcise
+- narcises
+- Narciso
+- narcisse
+- narcissi
+- Narcissläktet
+- narcissus
+- Narcissus(Plant)
+- Narcisă
+- Narcizas
+- Narcyz
+- Narcís
+- Nargis
+- Narsis
+- Narsiso
+- Narsiss
+- narsissit
+- Nartsiss
+- Nartsissu
+- Narzisse
+- Narzissen
+- Natsiss
+- Nergis
+- nárcisz
+- Nərgizgülü
+- Poaskebloume
+- Pokok Narcissus
+- påskeliljeslekta
+- Sunovrat
+- tieloze
+- Titelroas
+- Νάρκισσος
+- Наргис
+- Нарцис
+- нарцисс
+- Нарцыс
+- нәркес
+- նարգես
+- נרקיס
+- نرجس
+- نرګس
+- نرگس
+- نـرجس
+- نێرگز
+- یٔمبٕر زَل
+- गुणकेशरी
+- गुनकेरा
+- नरगिस
+- নার্গিস
+- ਨਰਗਸ
+- നാർസിസസ്
+- ཆུ་ལྷ།
+- კორთხონჯი
+- ნარგიზი
+- スイセン属
+- 水仙属
+- 水仙屬
+- 수선화
 has_id_wikidata: Q29465
 different_from: '[[_Standards/WikiData/WD~Narcissus,223967]]'
 described_by_source:
-  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
 parent_taxon: '[[_Standards/WikiData/WD~Narcisseae,10594556]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 depicted_by: '[[_Standards/WikiData/WD~Narcissus_medioluteus;_Narcissus_pseudonarcissus;_Narcissus;_Narcissus_poeticus;_Narcissus_tenuior,114628404]]'
@@ -34,11 +93,11 @@ Commons_gallery: Narcissus
 Commons_category: Narcissus
 taxon_name: Narcissus
 taxon_common_name:
-  - Narcis
-  - narcis
-  - narcisa
-  - 水仙属
-  - 水仙属
+- Narcis
+- narcis
+- narcisa
+- 水仙属
+- 水仙属
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yellow%20daffodils%20-%20floriade%20canberra.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?id=7979
 PAEnflowered_taxon_URL: https://www.paenflowered.org/apgii/asparagales/alliaceae/narcissus
@@ -47,8 +106,124 @@ MeSH_tree_code: B01.875.800.575.912.250.618.100.050.600
 UMLS_CUI: C0331672
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NARTSISS.html
 NBN_System_Key: NHMSYS0000460847
+dv_has_:
+  name_:
+    af: Narcissus
+    an: Narcissus
+    ang: Healswyrt
+    ar: نرجس
+    arz: نـرجس
+    ast: Narcissus
+    az: Nərgizgülü
+    be: Нарцыс
+    be-tarask: нарцыс
+    bg: нарцис
+    bn: নার্গিস
+    bo: ཆུ་ལྷ།
+    br: Narcissus
+    bs: Narcis
+    ca: Narcís
+    ceb: Narcissus
+    ckb: نێرگز
+    cs: narcis
+    cv: Нарцисс
+    cy: Narcissus
+    da: Narcis
+    de: Narzissen
+    el: Νάρκισσος
+    en: Narcissus
+    en-us: Narcissus
+    eo: Narciso
+    es: Narcissus
+    et: Nartsiss
+    eu: Lilipa
+    ext: Narcissus
+    fa: نرگس
+    fi: narsissit
+    fr: narcisse
+    frr: Aprilbluumen
+    fy: Titelroas
+    ga: lus an chromchinn
+    gl: Amarelle
+    gsw: Narcissus
+    he: נרקיס
+    hi: नरगिस
+    hr: Sunovrat
+    hsb: Narcisa
+    hu: nárcisz
+    hy: նարգես
+    ia: Narcissus
+    id: Narsis
+    ie: Narcissus
+    inh: Нарцисс
+    io: Narciso
+    is: Narcissus
+    it: Narcissus
+    ja: スイセン属
+    ka: ნარგიზი
+    kk: нәркес
+    ko: 수선화
+    ks: یٔمبٕر زَل
+    kw: lili Korawys
+    ky: Нарцисс
+    la: Narcissus
+    lb: Narzissen
+    lmo: Narcissus
+    lt: Narcizas
+    ltg: Narcise
+    lv: narcises
+    mk: Нарцис
+    ml: നാർസിസസ്
+    ms: Pokok Narcissus
+    mul: Narcissus
+    nb: Narsiss
+    nds: Narcissus
+    nds-nl: tieloze
+    ne: गुणकेशरी
+    new: गुनकेरा
+    nl: Narcissus
+    nn: påskeliljeslekta
+    oc: Narcís
+    olo: Nartsissu
+    pa: ਨਰਗਸ
+    pl: Narcyz
+    pms: Narcissus
+    pnb: نرگس
+    ps: نرګس
+    pt: Narcissus
+    pt-br: Narcissus
+    ro: Narcisă
+    ru: Нарцисс
+    sco: Lily
+    sd: نرگس
+    sh: sunovrat
+    sk: narcis
+    sl: narcis
+    sq: Narcissus
+    sr: Sunovrat
+    stq: Poaskebloume
+    sv: Narcissläktet
+    tg: Наргис
+    tl: Narsiso
+    tr: Nergis
+    tt: нарцисс
+    uk: Нарцис
+    ur: نرگس
+    uz: Nargis
+    vec: Narcissus
+    vi: Chi Thủy tiên
+    vo: Narcissus
+    vro: Natsiss
+    wa: Narcissus
+    war: Narcissus
+    wuu: 水仙属
+    xmf: კორთხონჯი
+    yue: 水仙屬
+    zh: 水仙属
+    zh-cn: 水仙属
+    zh-hans: 水仙属
+    zh-tw: 水仙屬
 ---
-
 # [[Narcissus(Plant)]] 
 
 

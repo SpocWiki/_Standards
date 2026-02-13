@@ -1,18 +1,150 @@
 ---
 aliases:
-  - Polarisierung
-  - Polarization(Waves)
+- cemsergerî
+- elektromagnetisk polarisering
+- phân cực
+- polarisaatio
+- polarisasi
+- polarisassion
+- polarisatie
+- polarisation
+- polarisatsioon
+- polarisašuvdna
+- polarisering
+- Polarisierung
+- polarització electromagnètica
+- polarizace
+- polarizacija svjetlosti
+- polarizacija valovanja
+- polarización electromagnética
+- polarizado
+- polarizare
+- polarizasyon
+- polarization
+- Polarization(Waves)
+- polarizazio
+- polarização
+- polarizirana svjetlost
+- polarizovana svetlost
+- polarizzazione della radiazione elettromagnetica
+- polarizáció
+- polaryzacja fali
+- polarú
+- poliarizacija
+- Ukuluthuzeka
+- yorugʻlikning qutblanishi
+- πόλωση
+- дулкыннар полярлашу
+- палярызацыя святла
+- палярызацыя хваляў
+- поларізація
+- поларизација
+- поляризація хвиль
+- поляризация
+- поляризация волн
+- Хумсен поляризацийĕ
+- ալիքների բևեռացում
+- קיטוב
+- استقطاب
+- قطبش
+- ध्रुवण
+- ध्रुविकरण (तरङ)
+- সমবর্তন
+- ધ્રુવીભવન
+- துருவமுனைப்பு
+- ధ్రువణత (తరంగాలు)
+- โพลาไรเซชัน
+- የብርሃን ዋለታ
+- 偏光
+- 偏振
+- 极化
+- 極化
+- 편광
 has_id_wikidata: Q193760
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from: '[[_Standards/WikiData/WD~polarization_density,1050425]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~optical_property,2643571]]'
-  - '[[_Standards/WikiData/WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~optical_property,2643571]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292]]'
 Commons_category: Polarization (waves)
+dv_has_:
+  name_:
+    am: የብርሃን ዋለታ
+    ar: استقطاب
+    ast: polarización electromagnética
+    be: палярызацыя святла
+    be-tarask: палярызацыя хваляў
+    bg: поляризация
+    bn: সমবর্তন
+    ca: polarització electromagnètica
+    cs: polarizace
+    cv: Хумсен поляризацийĕ
+    da: polarisering
+    de: Polarisation
+    el: πόλωση
+    en: polarization
+    en-ca: polarization
+    en-gb: polarisation
+    en-us: polarization
+    eo: polarizado
+    es: polarización electromagnética
+    et: polarisatsioon
+    eu: polarizazio
+    fa: قطبش
+    fi: polarisaatio
+    fr: polarisation
+    ga: polarú
+    gl: polarización electromagnética
+    gu: ધ્રુવીભવન
+    he: קיטוב
+    hi: ध्रुवण
+    hr: polarizirana svjetlost
+    hu: polarizáció
+    hy: ալիքների բևեռացում
+    id: polarisasi
+    it: polarizzazione della radiazione elettromagnetica
+    ja: 偏光
+    ko: 편광
+    ku: cemsergerî
+    lt: poliarizacija
+    mk: поларизација
+    nb: polarisering
+    ne: ध्रुविकरण (तरङ)
+    nl: polarisatie
+    nn: elektromagnetisk polarisering
+    pl: polaryzacja fali
+    pms: polarisassion
+    pt: polarização
+    ro: polarizare
+    ru: поляризация волн
+    rue: поларізація
+    se: polarisašuvdna
+    sh: polarizacija svjetlosti
+    sl: polarizacija valovanja
+    smn: polarisaatio
+    sms: polarisaatio
+    sr: polarizovana svetlost
+    sv: polarisering
+    ta: துருவமுனைப்பு
+    te: ధ్రువణత (తరంగాలు)
+    th: โพลาไรเซชัน
+    tr: polarizasyon
+    tt: дулкыннар полярлашу
+    uk: поляризація хвиль
+    uz: yorugʻlikning qutblanishi
+    vi: phân cực
+    yue: 偏振
+    zh: 极化
+    zh-cn: 极化
+    zh-hans: 极化
+    zh-hant: 偏振
+    zh-hk: 極化
+    zh-sg: 极化
+    zh-tw: 偏振
+    zu: Ukuluthuzeka
 ---
-
 # [[Polarization(Waves)]] 
 
 #is_/same_as :: [[WD~Polarization,193760]] 

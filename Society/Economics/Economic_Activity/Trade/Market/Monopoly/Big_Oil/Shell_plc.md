@@ -1,95 +1,116 @@
 ---
-has_time_started: 1890-01-01 
+has_time_started: 1890-01-01
 aliases:
-  - Shell
-  - Shell_plc
-  - Shell plc
+- Hò-làn Fòng-kâ Sa̍k-yù Kûng-sṳ̂
+- Royal Dutch Shell
+- Shell
+- Shell plc
+- Shell_plc
+- Роял Дъч Шел
+- Шэлл (Shell)
+- של
+- رائل دٹچ شیل
+- رویال داچ شل
+- شل
+- रॉयल डच शेल
+- রয়্যাল ডাচ শেল
+- ਰਾਯਲ ਡਚ ਸ਼ੈਲ
+- ராயல் டச்சு ஷெல்
+- รอยัลดัตช์เชลล์
+- シェル
+- 壳牌公司
+- 殼牌公司
+- 荷兰皇家壳牌
+- 蚬壳公司
+- 蜆殼
+- 蜆殼公司
+- 로열 더치 쉘
 has_id_wikidata: Q154950
 stock_exchange: '[[_Standards/WikiData/WD~London_Stock_Exchange,171240]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~concern,206361]]'
-  - '[[_Standards/WikiData/WD~public_company,891723]]'
-  - '[[_Standards/WikiData/WD~business,4830453]]'
-  - '[[_Standards/WikiData/WD~enterprise,6881511]]'
-  - '[[_Standards/WikiData/WD~gas_station_chain,64027599]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~concern,206361]]'
+- '[[_Standards/WikiData/WD~public_company,891723]]'
+- '[[_Standards/WikiData/WD~business,4830453]]'
+- '[[_Standards/WikiData/WD~enterprise,6881511]]'
+- '[[_Standards/WikiData/WD~gas_station_chain,64027599]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 owned_by:
-  - '[[_Standards/WikiData/WD~BlackRock,219635]]'
-  - '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
-  - '[[_Standards/WikiData/WD~Norges_Bank_Investment_Management,11992019]]'
+- '[[_Standards/WikiData/WD~BlackRock,219635]]'
+- '[[_Standards/WikiData/WD~The_Vanguard_Group,849363]]'
+- '[[_Standards/WikiData/WD~Norges_Bank_Investment_Management,11992019]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Showa_Shell_Sekiyu,277115]]'
-  - '[[_Standards/WikiData/WD~Oman_LNG,3503110]]'
-  - '[[_Standards/WikiData/WD~Sakhalin_Energy,4409407]]'
-  - '[[_Standards/WikiData/WD~Brunei_LNG,4978918]]'
-  - '[[_Standards/WikiData/WD~Clyde_Refinery,5137000]]'
-  - '[[_Standards/WikiData/WD~Arrow_Energy,9630766]]'
-  - '[[_Standards/WikiData/WD~Motiva_Enterprises,11201012]]'
-  - '[[_Standards/WikiData/WD~Shell,110716465]]'
+- '[[_Standards/WikiData/WD~Showa_Shell_Sekiyu,277115]]'
+- '[[_Standards/WikiData/WD~Oman_LNG,3503110]]'
+- '[[_Standards/WikiData/WD~Sakhalin_Energy,4409407]]'
+- '[[_Standards/WikiData/WD~Brunei_LNG,4978918]]'
+- '[[_Standards/WikiData/WD~Clyde_Refinery,5137000]]'
+- '[[_Standards/WikiData/WD~Arrow_Energy,9630766]]'
+- '[[_Standards/WikiData/WD~Motiva_Enterprises,11201012]]'
+- '[[_Standards/WikiData/WD~Shell,110716465]]'
 different_from:
-  - '[[_Standards/WikiData/WD~shell_corporation,290000]]'
-  - '[[_Standards/WikiData/WD~Shell,110716465]]'
+- '[[_Standards/WikiData/WD~shell_corporation,290000]]'
+- '[[_Standards/WikiData/WD~Shell,110716465]]'
 part_of:
-  - '[[_Standards/WikiData/WD~AEX_index,291539]]'
-  - '[[_Standards/WikiData/WD~FTSE_100_Index,466496]]'
-  - '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]'
-  - '[[_Standards/WikiData/WD~Seven_Sisters,1165860]]'
+- '[[_Standards/WikiData/WD~AEX_index,291539]]'
+- '[[_Standards/WikiData/WD~FTSE_100_Index,466496]]'
+- '[[_Standards/WikiData/WD~Dow_Jones_Global_Titans_50,773026]]'
+- '[[_Standards/WikiData/WD~Seven_Sisters,1165860]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Marcus_Samuel,_1st_Viscount_Bearsted,336224]]'
-  - '[[_Standards/WikiData/WD~Henri_Deterding,648454]]'
+- '[[_Standards/WikiData/WD~Marcus_Samuel,_1st_Viscount_Bearsted,336224]]'
+- '[[_Standards/WikiData/WD~Henri_Deterding,648454]]'
 board_member:
-  - '[[_Standards/WikiData/WD~Gerrit_Zalm,717674]]'
-  - '[[_Standards/WikiData/WD~Nigel_Sheinwald,4522462]]'
-  - '[[_Standards/WikiData/WD~Neil_Carson,6988360]]'
-  - '[[_Standards/WikiData/WD~Andrew_Mackenzie,15042554]]'
-  - '[[_Standards/WikiData/WD~Euleen_Goh,97817045]]'
+- '[[_Standards/WikiData/WD~Gerrit_Zalm,717674]]'
+- '[[_Standards/WikiData/WD~Nigel_Sheinwald,4522462]]'
+- '[[_Standards/WikiData/WD~Neil_Carson,6988360]]'
+- '[[_Standards/WikiData/WD~Andrew_Mackenzie,15042554]]'
+- '[[_Standards/WikiData/WD~Euleen_Goh,97817045]]'
 industry:
-  - '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
-  - '[[_Standards/WikiData/WD~extraction_of_crude_petroleum_and_natural_gas,12089268]]'
+- '[[_Standards/WikiData/WD~petroleum_industry,862571]]'
+- '[[_Standards/WikiData/WD~extraction_of_crude_petroleum_and_natural_gas,12089268]]'
 child_organization_or_unit:
-  - '[[_Standards/WikiData/WD~Shell_Canada,1360622]]'
-  - '[[_Standards/WikiData/WD~Rhenania_Ossag,2148024]]'
-  - '[[_Standards/WikiData/WD~Bataafse_Petroleum_Maatschappij,2980329]]'
-  - '[[_Standards/WikiData/WD~Shell_USA,3240764]]'
-  - '[[_Standards/WikiData/WD~Salym_Petroleum_Development,4406106]]'
-  - '[[_Standards/WikiData/WD~Aera_Energy,4687942]]'
-  - '[[_Standards/WikiData/WD~Raízen,7299713]]'
-  - '[[_Standards/WikiData/WD~Shell_Aircraft,7493634]]'
-  - '[[_Standards/WikiData/WD~Shell_Nigeria,7493681]]'
-  - '[[_Standards/WikiData/WD~Shell_Pakistan,7493684]]'
-  - '[[_Standards/WikiData/WD~Mobil_Park,8842916]]'
-  - '[[_Standards/WikiData/WD~Bataafsche_Import_Maatschappij,20267733]]'
-  - '[[_Standards/WikiData/WD~Anglo_Saxon_Petroleum,21592167]]'
-  - '[[_Standards/WikiData/WD~Shell_Overseas_Holdings_Limited,22987833]]'
-  - '[[_Standards/WikiData/WD~Dansk_Shell,28835744]]'
-  - '[[_Standards/WikiData/WD~Shell_U.K.,28974622]]'
-  - '[[_Standards/WikiData/WD~Shell_Deutschland,42294704]]'
-  - '[[_Standards/WikiData/WD~Shell_Czech_Republic,50321532]]'
-  - '[[_Standards/WikiData/WD~Shell_Overseas_Investments,50321610]]'
-  - '[[_Standards/WikiData/WD~Limejump,87437363]]'
-  - '[[_Standards/WikiData/WD~Shell_International_Petroleum_Company,91320976]]'
-  - '[[_Standards/WikiData/WD~NNGPM,96677754]]'
-  - '[[_Standards/WikiData/WD~Shell_Recharge,105883058]]'
-  - '[[_Standards/WikiData/WD~Shell_Transport_and_Trading_Company,106750793]]'
-  - '[[_Standards/WikiData/WD~Koninklijke_Nederlandsche_Maatschappij_tot_Exploitatie_van_Petroleumbronnen_in_Nederlandsch_Indië,106751761]]'
-  - '[[_Standards/WikiData/WD~Royal_Dutch_Shell_Group_of_Companies,107361256]]'
+- '[[_Standards/WikiData/WD~Shell_Canada,1360622]]'
+- '[[_Standards/WikiData/WD~Rhenania_Ossag,2148024]]'
+- '[[_Standards/WikiData/WD~Bataafse_Petroleum_Maatschappij,2980329]]'
+- '[[_Standards/WikiData/WD~Shell_USA,3240764]]'
+- '[[_Standards/WikiData/WD~Salym_Petroleum_Development,4406106]]'
+- '[[_Standards/WikiData/WD~Aera_Energy,4687942]]'
+- '[[_Standards/WikiData/WD~Raízen,7299713]]'
+- '[[_Standards/WikiData/WD~Shell_Aircraft,7493634]]'
+- '[[_Standards/WikiData/WD~Shell_Nigeria,7493681]]'
+- '[[_Standards/WikiData/WD~Shell_Pakistan,7493684]]'
+- '[[_Standards/WikiData/WD~Mobil_Park,8842916]]'
+- '[[_Standards/WikiData/WD~Bataafsche_Import_Maatschappij,20267733]]'
+- '[[_Standards/WikiData/WD~Anglo_Saxon_Petroleum,21592167]]'
+- '[[_Standards/WikiData/WD~Shell_Overseas_Holdings_Limited,22987833]]'
+- '[[_Standards/WikiData/WD~Dansk_Shell,28835744]]'
+- '[[_Standards/WikiData/WD~Shell_U.K.,28974622]]'
+- '[[_Standards/WikiData/WD~Shell_Deutschland,42294704]]'
+- '[[_Standards/WikiData/WD~Shell_Czech_Republic,50321532]]'
+- '[[_Standards/WikiData/WD~Shell_Overseas_Investments,50321610]]'
+- '[[_Standards/WikiData/WD~Limejump,87437363]]'
+- '[[_Standards/WikiData/WD~Shell_International_Petroleum_Company,91320976]]'
+- '[[_Standards/WikiData/WD~NNGPM,96677754]]'
+- '[[_Standards/WikiData/WD~Shell_Recharge,105883058]]'
+- '[[_Standards/WikiData/WD~Shell_Transport_and_Trading_Company,106750793]]'
+- '[[_Standards/WikiData/WD~Koninklijke_Nederlandsche_Maatschappij_tot_Exploitatie_van_Petroleumbronnen_in_Nederlandsch_Indië,106751761]]'
+- '[[_Standards/WikiData/WD~Royal_Dutch_Shell_Group_of_Companies,107361256]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
-  - '[[_Standards/WikiData/WD~Flipje_&_Streekmuseum,13636575]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
+- '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
+- '[[_Standards/WikiData/WD~Flipje_&_Streekmuseum,13636575]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_World_Cultures,17153751]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Koninklijk,2102344]]'
-  - "[[_Standards/WikiData/WD~Public_Eye_People's_Award,54862876]]"
+- '[[_Standards/WikiData/WD~Koninklijk,2102344]]'
+- "[[_Standards/WikiData/WD~Public_Eye_People's_Award,54862876]]"
 follows:
-  - '[[_Standards/WikiData/WD~Bnito,4931022]]'
-  - '[[_Standards/WikiData/WD~Enterprise_Oil,5380341]]'
-  - '[[_Standards/WikiData/WD~Petroleum_Maatschappij_Moeara_Enim_,106647375]]'
-  - '[[_Standards/WikiData/WD~Shell_Transport_and_Trading_Company,106750793]]'
-  - '[[_Standards/WikiData/WD~Koninklijke_Nederlandsche_Maatschappij_tot_Exploitatie_van_Petroleumbronnen_in_Nederlandsch_Indië,106751761]]'
+- '[[_Standards/WikiData/WD~Bnito,4931022]]'
+- '[[_Standards/WikiData/WD~Enterprise_Oil,5380341]]'
+- '[[_Standards/WikiData/WD~Petroleum_Maatschappij_Moeara_Enim_,106647375]]'
+- '[[_Standards/WikiData/WD~Shell_Transport_and_Trading_Company,106750793]]'
+- '[[_Standards/WikiData/WD~Koninklijke_Nederlandsche_Maatschappij_tot_Exploitatie_van_Petroleumbronnen_in_Nederlandsch_Indië,106751761]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-  - '[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]'
-  - '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]'
+- '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
 chairperson: '[[_Standards/WikiData/WD~Andrew_Mackenzie,15042554]]'
 member_of: '[[_Standards/WikiData/WD~Die_Gas_und_Wasserstoffwirtschaft,51064146]]'
 position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Shell_chief_executive,100824067]]'
@@ -99,8 +120,8 @@ chief_executive_officer: '[[_Standards/WikiData/WD~Wael_Sawan,113988833]]'
 legal_form: '[[_Standards/WikiData/WD~public_limited_company,116994449]]'
 inception: 1890-01-01T00:00:00Z
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~petroleum,22656]]'
-  - '[[_Standards/WikiData/WD~natural_gas,40858]]'
+- '[[_Standards/WikiData/WD~petroleum,22656]]'
+- '[[_Standards/WikiData/WD~natural_gas,40858]]'
 headquarters_location: '[[_Standards/WikiData/WD~London,84]]'
 country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 employees: 90000
@@ -117,8 +138,8 @@ Facebook_username: Shell
 X_Twitter_username: Shell
 described_at_URL: https://shie.nl/bedrijven/shell-1890-heden/
 logo_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Shell%20wordmark%202019.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Shell%20oil%20cropped%202.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Shell%20wordmark%202019.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Shell%20oil%20cropped%202.png
 official_website: https://www.shell.com/
 Commons_category: Shell plc
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Shell%20Centre%20%288709496019%29.jpg
@@ -127,12 +148,93 @@ Legal_Entity_Identifier: 21380068P1DRHMJ8KU70
 PermID: 4295885039
 RIA_Novosti_reference: 54438699
 ISIN:
-  - GB00B03MLX29
-  - GB00B03MM408
+- GB00B03MLX29
+- GB00B03MM408
 Commons_gallery: Shell (corporation)
 official_name: Shell plc
+dv_has_:
+  name_:
+    af: Shell plc
+    ar: شل
+    ast: Shell plc
+    azb: رویال داچ شل
+    be-tarask: Shell plc
+    bg: Роял Дъч Шел
+    bn: রয়্যাল ডাচ শেল
+    ca: Shell
+    cs: Shell
+    da: Shell
+    de: Shell plc
+    el: Shell plc
+    en: Shell
+    eo: Shell plc
+    es: Shell
+    et: Shell plc
+    eu: Shell plc
+    fa: رویال داچ شل
+    fi: Shell plc
+    fr: Shell
+    ga: Shell
+    gsw: Shell plc
+    ha: Shell
+    hak: Hò-làn Fòng-kâ Sa̍k-yù Kûng-sṳ̂
+    he: של
+    hi: रॉयल डच शेल
+    hr: Shell plc
+    hu: Royal Dutch Shell
+    hy: Shell plc
+    iba: Shell plc
+    id: Shell
+    is: Shell plc
+    it: Royal Dutch Shell
+    ja: シェル
+    kk: Shell plc
+    ko: 로열 더치 쉘
+    la: Shell plc
+    lb: Shell
+    lt: Shell plc
+    lv: Shell plc
+    mn: Шэлл (Shell)
+    mr: रॉयल डच शेल
+    ms: Shell plc
+    mul: Shell
+    nan: Shell plc
+    nb: Shell plc
+    nl: Shell
+    nn: Shell plc
+    pa: ਰਾਯਲ ਡਚ ਸ਼ੈਲ
+    pap: Shell plc
+    pl: Shell plc
+    pt: Shell plc
+    pt-br: Shell
+    ro: Shell
+    ru: Shell
+    sah: Shell plc
+    sco: Shell plc
+    sk: Shell
+    sl: Shell plc
+    sr: Shell plc
+    sv: Shell
+    ta: ராயல் டச்சு ஷெல்
+    tg: Shell plc
+    th: รอยัลดัตช์เชลล์
+    tr: Shell plc
+    uk: Shell
+    ur: رائل دٹچ شیل
+    uz: Shell plc
+    vec: Shell plc
+    vi: Shell
+    war: Shell plc
+    wuu: 壳牌公司
+    yue: 蜆殼
+    zh: 荷兰皇家壳牌
+    zh-cn: 壳牌公司
+    zh-hans: 壳牌公司
+    zh-hant: 殼牌公司
+    zh-hk: 蜆殼公司
+    zh-sg: 蚬壳公司
+    zh-tw: 殼牌公司
 ---
-
 # [[Shell_plc]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Shell,154950|WD~Shell,154950]]  

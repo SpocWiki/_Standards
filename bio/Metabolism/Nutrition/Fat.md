@@ -1,38 +1,258 @@
 ---
 aliases:
-  - triglyceride
-  - triglycerides
-  - Fat
-  - Fett
+- blonek
+- braster
+- chất béo
+- druzoni
+- Dux
+- Fat
+- Fedtstof
+- feitt
+- Fett
+- Fette
+- Fäät
+- Gajih
+- gordura
+- graisse
+- Graixa
+- grasa
+- graso
+- grasso
+- graxa
+- greix
+- Grâsimi
+- grăsime
+- Jī-nn̂g
+- koipe
+- Kò gra
+- Lamak
+- lemak
+- Lik'i
+- Mafuta
+- Masnoća
+- Mast
+- masti
+- Matavy
+- Matyire grasse
+- maščoba
+- Muluk
+- pimite
+- Pingue
+- rasva
+- Rasvad
+- sahll
+- saill
+- sebu
+- sradeɛ
+- Taba
+- tadunt
+- Tambok
+- Tassemt
+- taukai
+- tauki
+- Taukā
+- triglyceride
+- triglycerides
+- tuk
+- tuky
+- tłuszcz
+- Uro
+- vet
+- Vèt
+- Wira
+- xaħam
+- Yağ
+- Yndyra
+- zsír
+- çewrî
+- ñandy
+- λίπος
+- жири
+- жиры
+- кӧйёс
+- Мазнина
+- Май
+- майлар
+- масти
+- тлушч
+- Тукы
+- Чарбҳо
+- Ճարպ
+- שומן
+- دهن
+- شحم
+- چربی
+- چرٻي
+- چەوری
+- चरबी
+- दाः
+- वसा
+- চৰ্বী
+- স্নেহ পদার্থ
+- ચરબી
+- கொழுப்பு
+- కొలెస్టరాల్
+- ಕೊಬ್ಬು
+- കൊഴുപ്പ്
+- මේදය
+- ไขมัน
+- ციმუ
+- ცხიმი
+- 肥膏
+- 脂肪
+- 지방
 has_id_wikidata: Q127980
 Commons_category: Fat
 Common_Procurement_Vocabulary_code: 15412000-9
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification: 665
 different_from:
-  - "[[_Standards/WikiData/WD~triglyceride,186319]]"
-  - "[[_Standards/WikiData/WD~adipose_tissue,193583]]"
-  - "[[_Standards/WikiData/WD~glyceride,407758]]"
-  - "[[_Standards/WikiData/WD~grease,629823]]"
-  - "[[_Standards/WikiData/WD~lipid,11367]]"
-  - "[[_Standards/WikiData/WD~oil,42962]]"
-has_part_s_: "[[_Standards/WikiData/WD~glyceride,407758]]"
+- '[[_Standards/WikiData/WD~triglyceride,186319]]'
+- '[[_Standards/WikiData/WD~adipose_tissue,193583]]'
+- '[[_Standards/WikiData/WD~glyceride,407758]]'
+- '[[_Standards/WikiData/WD~grease,629823]]'
+- '[[_Standards/WikiData/WD~lipid,11367]]'
+- '[[_Standards/WikiData/WD~oil,42962]]'
+has_part_s_: '[[_Standards/WikiData/WD~glyceride,407758]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20embolism%20%286467719609%29.jpg
 MeSH_tree_code: D10.212
 subclass_of:
-  - "[[_Standards/WikiData/WD~mixture,169336]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
+- '[[_Standards/WikiData/WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467]]"
-  - "[[_Standards/WikiData/WD~Template_Fats,13625308]]"
+- '[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467]]'
+- '[[_Standards/WikiData/WD~Template_Fats,13625308]]'
 UMLS_CUI:
-  - C0012171
-  - C0015677
+- C0012171
+- C0015677
+dv_has_:
+  name_:
+    af: Vet
+    ak: sradeɛ
+    an: Graixa
+    ar: دهن
+    as: চৰ্বী
+    ast: Grasa
+    atj: pimite
+    ay: Lik'i
+    ban: Muluk
+    be-tarask: тлушч
+    bg: Мазнина
+    bjn: Lamak
+    bn: স্নেহ পদার্থ
+    br: druzoni
+    bs: Masnoća
+    ca: greix
+    ckb: چەوری
+    cs: tuky
+    cy: braster
+    da: Fedtstof
+    de: Fette
+    el: λίπος
+    en: fat
+    eo: graso
+    es: grasa
+    et: Rasvad
+    eu: koipe
+    ext: sebu
+    fa: چربی
+    fi: rasva
+    fj: Uro
+    fr: graisse
+    frr: Fäät
+    ga: saill
+    gl: graxa
+    gn: ñandy
+    gu: ચરબી
+    gv: sahll
+    he: שומן
+    hi: वसा
+    hr: masti
+    ht: Kò gra
+    hu: zsír
+    hy: Ճարպ
+    id: lemak
+    it: grasso
+    ja: 脂肪
+    jv: Gajih
+    ka: ცხიმი
+    kab: Tassemt
+    kk: Май
+    kn: ಕೊಬ್ಬು
+    ko: 지방
+    ku: çewrî
+    ku-latn: çewrî
+    kw: blonek
+    la: Pingue
+    li: Vèt
+    lt: taukai
+    lv: tauki
+    mg: Matavy
+    mk: масти
+    ml: കൊഴുപ്പ്
+    mr: चरबी
+    ms: Lemak
+    mt: xaħam
+    nan: Jī-nn̂g
+    nb: fett
+    nds-nl: vet
+    new: दाः
+    nl: vet
+    nn: feitt
+    nrm: Matyire grasse
+    pam: Taba
+    pl: tłuszcz
+    pnb: چربی
+    pt: gordura
+    pt-br: gordura
+    qu: Wira
+    ro: grăsime
+    ru: жиры
+    rue: Тукы
+    rup: Grâsimi
+    sco: fat
+    sd: چرٻي
+    sgs: Taukā
+    sh: Mast
+    shi: tadunt
+    si: මේදය
+    sk: tuk
+    sl: maščoba
+    sn: Mafuta
+    so: Dux
+    sq: Yndyra
+    sr: Масти
+    su: Lemak
+    sv: fett
+    sw: Mafuta
+    ta: கொழுப்பு
+    te: కొలెస్టరాల్
+    tg: Чарбҳо
+    th: ไขมัน
+    tl: Taba
+    tr: Yağ
+    tt: майлар
+    tt-cyrl: майлар
+    udm: кӧйёс
+    uk: жири
+    ur: شحم
+    vec: graso
+    vi: chất béo
+    war: Tambok
+    wuu: 脂肪
+    xmf: ციმუ
+    yue: 肥膏
+    zh: 脂肪
+    zh-cn: 脂肪
+    zh-hans: 脂肪
+    zh-hant: 脂肪
+    zh-hk: 脂肪
+    zh-sg: 脂肪
+    zh-tw: 脂肪
 ---
-
 # [[Fat]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fat,127980|WD~Fat,127980]] 

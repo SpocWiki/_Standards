@@ -1,9 +1,46 @@
 ---
 aliases:
-  - Millotauropodidae
+- Millotauropodidae
+- Millotauropus
 title: Millotauropodidae
+has_id_wikidata: Q10585466
+dv_has_:
+  name_:
+    an: Millotauropus
+    ast: Millotauropus
+    bg: Millotauropus
+    ca: Millotauropus
+    ceb: Millotauropus
+    de: Millotauropus
+    en: Millotauropus
+    eo: Millotauropus
+    es: Millotauropus
+    eu: Millotauropus
+    ext: Millotauropus
+    fi: Millotauropus
+    fr: Millotauropus
+    ga: Millotauropus
+    gl: Millotauropus
+    ia: Millotauropus
+    ie: Millotauropus
+    io: Millotauropus
+    it: Millotauropus
+    la: Millotauropus
+    mul: Millotauropus
+    nl: Millotauropus
+    oc: Millotauropus
+    pl: Millotauropus
+    pt: Millotauropus
+    pt-br: Millotauropus
+    ro: Millotauropus
+    ru: Millotauropus
+    sq: Millotauropus
+    sv: Millotauropus
+    uk: Millotauropus
+    vi: Millotauropus
+    vo: Millotauropus
+    war: Millotauropus
 ---
-
 # [[Millotauropodidae]] 
 
 ## #has_/text_of_/abstract 

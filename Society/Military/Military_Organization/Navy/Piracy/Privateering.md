@@ -1,46 +1,165 @@
 ---
 aliases:
-  - Freibeuter
-  - Korsar
-  - Corsair
-  - Privateering
+- Brezel kourserezh
+- Corsair
+- corsaire
+- corsar
+- Corsari
+- corsario
+- corsariu
+- corsaro
+- corsário
+- Cursarius
+- Freibeuter
+- gusar
+- Gusari
+- Guæra de corsa
+- kaappari
+- kalóz
+- kapare
+- Kapari
+- kaper
+- kaperis
+- korsan gemisi
+- Korsar
+- korsari
+- korsaro
+- korsarz
+- kortsario
+- korzár
+- Preifatîr
+- privateer
+- Privateering
+- privatier
+- privatir
+- príobháideoir
+- Su-lia̍h
+- tàu lùng
+- κουρσάρος
+- гусар
+- капёр
+- капер
+- капир
+- корсар
+- корсари
+- Корсарлар
+- Կապերություն
+- פריבטיר
+- قرصان رسمي
+- منوار
+- پرایواتر
+- สลัดหลวง
+- 私掠
+- 私掠船
+- 사략선
 has_id_wikidata: Q201559
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 field_of_this_occupation:
-  - '[[_Standards/WikiData/WD~commerce_raiding,986676]]'
-  - '[[_Standards/WikiData/WD~privateering,30906782]]'
+- '[[_Standards/WikiData/WD~commerce_raiding,986676]]'
+- '[[_Standards/WikiData/WD~privateering,30906782]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~warrior,1250916]]'
-  - '[[_Standards/WikiData/WD~irregular_military,1673189]]'
-  - '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~warrior,1250916]]'
+- '[[_Standards/WikiData/WD~irregular_military,1673189]]'
+- '[[_Standards/WikiData/WD~sailor,45199]]'
 different_from: '[[_Standards/WikiData/WD~Corsario,21476956]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~maritime_occupation,99547053]]'
-  - '[[_Standards/WikiData/WD~ambiguous_Wikidata_item,122754124]]'
-  - '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~maritime_occupation,99547053]]'
+- '[[_Standards/WikiData/WD~ambiguous_Wikidata_item,122754124]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
 depicted_by: '[[_Standards/WikiData/WD~Old_Corsair_called_Alì_Meliocco,126456542]]'
 Nomenclature_for_Museum_Cataloging: 12798
 female_form_of_label:
-  - corsaire
-  - قرصانة رسمية
-  - منوارة
-  - corsaria
-  - corsària
-  - Korsarin
-  - פריבטירית
-  - corsara
-  - gusarka
+- corsaire
+- قرصانة رسمية
+- منوارة
+- corsaria
+- corsària
+- Korsarin
+- פריבטירית
+- corsara
+- gusarka
 Commons_category: Privateers
 Krugosvet_article: gosudarstvo-i-politika/kaperstvo
 male_form_of_label: قرصان رسمي
+dv_has_:
+  name_:
+    ar: قرصان رسمي
+    ary: منوار
+    ast: corsariu
+    az: kaper
+    be: капёр
+    bg: Капер
+    br: Brezel kourserezh
+    ca: corsari
+    cs: korzár
+    cy: Preifatîr
+    da: kaper
+    de: Korsar
+    el: κουρσάρος
+    en: privateer
+    eo: korsaro
+    es: corsario
+    eu: kortsario
+    fa: پرایواتر
+    fi: kaappari
+    fr: corsaire
+    ga: príobháideoir
+    gl: corsario
+    he: פריבטיר
+    hr: Gusari
+    hu: kalóz
+    hy: Կապերություն
+    id: Privateer
+    io: Korsaro
+    is: Kapari
+    it: corsaro
+    ja: 私掠船
+    ko: 사략선
+    la: Cursarius
+    lij: Guæra de corsa
+    lt: kaperis
+    mk: гусар
+    ms: privatir
+    mt: privatier
+    nan: Su-lia̍h
+    nb: kaper
+    nl: kaper
+    nn: kaper
+    oc: Corsari
+    pl: korsarz
+    pt: corsário
+    pt-br: corsário
+    ro: corsar
+    ru: капер
+    sh: Gusari
+    sk: kaper
+    sl: gusar
+    sq: Privateer
+    sr: корсари
+    sr-ec: корсари
+    sr-el: korsari
+    sv: kapare
+    th: สลัดหลวง
+    tr: korsan gemisi
+    tt: капир
+    tyv: Корсарлар
+    uk: корсар
+    vec: corsaro
+    vi: tàu lùng
+    zh: 私掠
+    zh-cn: 私掠
+    zh-hans: 私掠
+    zh-hant: 私掠
+    zh-hk: 私掠
+    zh-sg: 私掠
+    zh-tw: 私掠
 ---
-
 # [[Privateering]] 
 
 #is_/similar_to :: [[../Piracy|Piracy]]  

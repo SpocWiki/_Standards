@@ -1,17 +1,76 @@
 ---
 aliases:
-  - Erfrierung
-  - Erfrierungen
-  - Frostbite
+- apsaldējums
+- bevriezing
+- Bỏng lạnh
+- congelació
+- congelamento
+- congelamiento
+- Conxelación
+- Conxelamientu
+- Degerături
+- Donma
+- Erfrierung
+- Erfrierungen
+- ewinrhew
+- fagyási sérülés
+- forfrysning
+- Fraasbait
+- Frostbite
+- frostiĝo
+- frostskade
+- geladura
+- gelure
+- Goañvenn
+- Izozte (medikuntza)
+- Iḷguġniq
+- Kal
+- köldskada
+- Ngrirja (lëndim)
+- Nušalimas
+- odmrożenie
+- Omrzlina
+- omrzliny
+- Ozeblina
+- paleltuma
+- Radang dingin
+- Reput fros
+- Ròsula
+- Soğuk ısırması
+- Vriesbrand
+- Κρυοπάγημα
+- Абмаражэнне
+- Абмаражэньне
+- Беттің үсуі
+- измрзнатина
+- измръзване
+- Обмороження
+- Отморожение
+- промрзлина
+- Тән туңыу
+- Хөлдөлтийн үед үзүүлэх анхны тусламж
+- Үлүтүү
+- Үшүккө алдыруу
+- Өшү
+- Ցրտահարություն
+- כוויית קור
+- פרירונג ברי
+- قضمة الصقيع
+- یخزدگی
+- হিমদংশন
+- ତୁଷାରକ୍ଷତ
+- தோலுறைவு
+- 凍傷
+- 동상
 has_id_wikidata: Q1350326
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
-  - '[[_Standards/WikiData/WD~cold_injury,4499376]]'
+- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
+- '[[_Standards/WikiData/WD~cold_injury,4499376]]'
 health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12566230,12566230]]'
 instance_of: '[[_Standards/WikiData/WD~disease,12136]]'
@@ -22,10 +81,79 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Frost%20bite.jpg
 Dewey_Decimal_Classification: 616.58
 UMLS_CUI: C0016736
 MeSH_tree_code:
-  - C26.212.500
-  - C26.417
+- C26.212.500
+- C26.417
+dv_has_:
+  name_:
+    af: Vriesbrand
+    ar: قضمة الصقيع
+    ast: Conxelamientu
+    az: Donma
+    ba: Тән туңыу
+    be: Абмаражэнне
+    be-tarask: Абмаражэньне
+    bg: измръзване
+    bn: হিমদংশন
+    br: Goañvenn
+    ca: congelació
+    cs: omrzliny
+    cy: ewinrhew
+    da: forfrysning
+    de: Erfrierung
+    el: Κρυοπάγημα
+    en: frostbite
+    en-ca: Frostbite
+    en-gb: Frostbite
+    eo: frostiĝo
+    es: congelamiento
+    eu: Izozte (medikuntza)
+    fa: یخزدگی
+    fi: paleltuma
+    fr: gelure
+    gl: Conxelación
+    he: כוויית קור
+    hr: Ozeblina
+    hu: fagyási sérülés
+    hy: Ցրտահարություն
+    id: Radang dingin
+    ik: Iḷguġniq
+    is: Kal
+    it: congelamento
+    ja: 凍傷
+    jam: Fraasbait
+    kk: Беттің үсуі
+    ko: 동상
+    ky: Үшүккө алдыруу
+    lt: Nušalimas
+    lv: apsaldējums
+    mk: измрзнатина
+    mn: Хөлдөлтийн үед үзүүлэх анхны тусламж
+    ms: Reput fros
+    nb: frostskade
+    nl: bevriezing
+    nn: frostskade
+    or: ତୁଷାରକ୍ଷତ
+    pl: odmrożenie
+    pt: geladura
+    pt-br: Geladura
+    ro: Degerături
+    ru: Отморожение
+    sah: Үлүтүү
+    scn: Ròsula
+    sk: Omrzlina
+    sl: ozeblina
+    sq: Ngrirja (lëndim)
+    sr: промрзлина
+    sv: köldskada
+    ta: தோலுறைவு
+    tr: Soğuk ısırması
+    tt: Өшү
+    uk: Обмороження
+    vi: Bỏng lạnh
+    yi: פרירונג ברי
+    yue: 凍傷
+    zh: 凍傷
 ---
-
 # [[Frostbite]] 
 
 #is_/same_as :: [[WD~Frostbite,1350326]] 

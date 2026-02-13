@@ -1,74 +1,217 @@
 ---
 aliases:
+- Chuno
+- Giunon
+- Giunone
+- Giununi
+- Iuno
+- Iuno Regina
+- Iúnó
+- jan sewi Juno
+- Jonô (andriamanibavy)
+- Juno
+- Junon
+- Junona
+- Junone
+- Junono
+- Júnó
+- Sgiunona
+- Xuno
+- Yuno
+- Yunona
+- Ġunone
+- Γιούνο
+- Јунона
+- Юнонæ
+- Юнона
+- Յունոնա
+- יונו
+- جونو
+- جوونۆ
+- یونو
+- जूनो
+- ज्युनो
+- ইউনো
+- ஜூனோ
+- จูโน
+- ཀྲུའུ་ནུའོ།
+- იუნონა
+- ᏧᏃ
+- ユーノー
+- 尤諾
+- 朱諾
+- 朱诺
+- ꯖꯨꯅꯣ
+- 유노
 has_id_wikidata: Q125046
-father: "[[_Standards/WikiData/WD~Saturn,134388]]"
+father: '[[_Standards/WikiData/WD~Saturn,134388]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Pluto,152262]]"
-  - "[[_Standards/WikiData/WD~Vesta,178710]]"
-  - "[[_Standards/WikiData/WD~Neptune,3954]]"
-  - "[[_Standards/WikiData/WD~Jupiter,4649]]"
-  - "[[_Standards/WikiData/WD~Ceres,32102]]"
+- '[[_Standards/WikiData/WD~Pluto,152262]]'
+- '[[_Standards/WikiData/WD~Vesta,178710]]'
+- '[[_Standards/WikiData/WD~Neptune,3954]]'
+- '[[_Standards/WikiData/WD~Jupiter,4649]]'
+- '[[_Standards/WikiData/WD~Ceres,32102]]'
 iconographic_symbol:
-  - "[[_Standards/WikiData/WD~Aegis,190662]]"
-  - "[[_Standards/WikiData/WD~peafowl,201251]]"
+- '[[_Standards/WikiData/WD~Aegis,190662]]'
+- '[[_Standards/WikiData/WD~peafowl,201251]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~goddess,205985]]"
-  - "[[_Standards/WikiData/WD~Roman_deity,11688446]]"
+- '[[_Standards/WikiData/WD~goddess,205985]]'
+- '[[_Standards/WikiData/WD~Roman_deity,11688446]]'
 child:
-  - "[[_Standards/WikiData/WD~Bellona,207234]]"
-  - "[[_Standards/WikiData/WD~Iuventas,1367680]]"
-  - "[[_Standards/WikiData/WD~Vulcan,4640]]"
-  - "[[_Standards/WikiData/WD~Mars,112]]"
-worshipped_by: "[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]"
+- '[[_Standards/WikiData/WD~Bellona,207234]]'
+- '[[_Standards/WikiData/WD~Iuventas,1367680]]'
+- '[[_Standards/WikiData/WD~Vulcan,4640]]'
+- '[[_Standards/WikiData/WD~Mars,112]]'
+worshipped_by: '[[_Standards/WikiData/WD~ancient_Roman_religion,337547]]'
 described_by_source:
-  - "[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Myths_of_the_peoples_of_the_world,4297106]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Myths_of_the_peoples_of_the_world,4297106]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Lucina,604898]]"
-  - "[[_Standards/WikiData/WD~Uni,650410]]"
-  - "[[_Standards/WikiData/WD~Juno_Sospita,3769839]]"
-  - "[[_Standards/WikiData/WD~Hera,38012]]"
+- '[[_Standards/WikiData/WD~Lucina,604898]]'
+- '[[_Standards/WikiData/WD~Uni,650410]]'
+- '[[_Standards/WikiData/WD~Juno_Sospita,3769839]]'
+- '[[_Standards/WikiData/WD~Hera,38012]]'
 domain_of_saint_or_deity:
-  - "[[_Standards/WikiData/WD~femininity,866081]]"
-  - "[[_Standards/WikiData/WD~birth,14819852]]"
-  - "[[_Standards/WikiData/WD~marriage,8445]]"
-  - "[[_Standards/WikiData/WD~sovereignty,42008]]"
+- '[[_Standards/WikiData/WD~femininity,866081]]'
+- '[[_Standards/WikiData/WD~birth,14819852]]'
+- '[[_Standards/WikiData/WD~marriage,8445]]'
+- '[[_Standards/WikiData/WD~sovereignty,42008]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Dii_Consentes,1183096]]"
-  - "[[_Standards/WikiData/WD~Capitoline_Triad,1246962]]"
-epithet: "[[_Standards/WikiData/WD~Juno_Sospita,3769839]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
+- '[[_Standards/WikiData/WD~Dii_Consentes,1183096]]'
+- '[[_Standards/WikiData/WD~Capitoline_Triad,1246962]]'
+epithet: '[[_Standards/WikiData/WD~Juno_Sospita,3769839]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 depicted_by:
-  - "[[_Standards/WikiData/WD~Monumental_head_of_Juno_or_Cybele,126329847]]"
-  - "[[_Standards/WikiData/WD~Jupiter,_Juno_and_Io,131766148]]"
-  - "[[_Standards/WikiData/WD~Juno_and_Saturn,131851028]]"
-  - "[[_Standards/WikiData/WD~Juno,131937038]]"
-spouse: "[[_Standards/WikiData/WD~Jupiter,4649]]"
+- '[[_Standards/WikiData/WD~Monumental_head_of_Juno_or_Cybele,126329847]]'
+- '[[_Standards/WikiData/WD~Jupiter,_Juno_and_Io,131766148]]'
+- '[[_Standards/WikiData/WD~Juno_and_Saturn,131851028]]'
+- '[[_Standards/WikiData/WD~Juno,131937038]]'
+spouse: '[[_Standards/WikiData/WD~Jupiter,4649]]'
 Commons_gallery: Juno
 nickname:
-  - Saturnia
-  - Capitolina
-  - Regina
-  - Moneta
-  - Sospita
+- Saturnia
+- Capitolina
+- Regina
+- Moneta
+- Sospita
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Statue%20de%20Junon%2C%20Louvre%2C%20Ma%20485%2C%20trois%20quarts.JPG
 Commons_category: Iuno
 Hederich_encyclopedia_article: Ivno
 name_in_native_language: IVNO
+dv_has_:
+  name_:
+    af: Juno
+    an: Chuno
+    ar: جونو
+    arz: جونو
+    az: Yunona
+    ba: Юнона
+    be: Юнона
+    be-tarask: Юнона
+    bg: Юнона
+    bn: ইউনো
+    bo: ཀྲུའུ་ནུའོ།
+    br: Juno
+    bs: Junona
+    ca: Juno
+    chr: ᏧᏃ
+    ckb: جوونۆ
+    cs: Juno
+    cy: Juno
+    da: Juno
+    de: Juno
+    el: Γιούνο
+    en: Juno
+    eo: Junono
+    es: Juno
+    et: Juno
+    eu: Junon
+    fa: یونو
+    fi: Juno
+    fr: Junon
+    fur: Junon
+    ga: Iúnó
+    gl: Xuno
+    gsw: Iuno
+    he: יונו
+    hi: जूनो
+    hr: Junona
+    hu: Iuno Regina
+    hy: Յունոնա
+    ia: Junon
+    id: Yuno
+    is: Júnó
+    it: Giunone
+    ja: ユーノー
+    ka: იუნონა
+    ko: 유노
+    ku: Juno
+    ku-latn: Juno
+    la: Iuno
+    lb: Juno
+    lij: Giunon
+    lmo: Sgiunona
+    lt: Junona
+    lv: Junona
+    mg: Jonô (andriamanibavy)
+    mk: Јунона
+    mni: ꯖꯨꯅꯣ
+    mr: ज्युनो
+    mt: Ġunone
+    mul: Juno
+    nap: Junone
+    nb: Juno
+    nl: Juno
+    nn: Juno
+    oc: Junon
+    os: Юнонæ
+    pl: Junona
+    pt: Juno
+    ro: Iuno
+    ru: Юнона
+    sah: Юнона
+    scn: Giununi
+    sco: Juno
+    sh: Junona
+    sk: Juno
+    sl: Junona
+    sr: Јунона
+    sr-ec: Јунона
+    sr-el: Junona
+    sv: Juno
+    ta: ஜூனோ
+    th: จูโน
+    tok: jan sewi Juno
+    tr: Juno
+    tt: Юнона
+    tt-cyrl: Юнона
+    uk: Юнона
+    ur: جونو
+    uz: Yunona
+    vi: Juno
+    war: Juno
+    wuu: 朱诺
+    yue: 尤諾
+    zh: 朱諾
+    zh-cn: 朱诺
+    zh-hans: 朱诺
+    zh-hant: 朱諾
+    zh-hk: 朱諾
+    zh-sg: 朱诺
+    zh-tw: 朱諾
 ---
-
 # [[Juno]] 
 
 #is_/similar_to :: [[../Greek_Mythology/Hera|Hera]] 

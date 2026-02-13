@@ -1,4 +1,200 @@
-
+---
+has_id_wikidata: Q133823
+dv_has_:
+  name_:
+    af: Skeelhoofpyn
+    ang: healfes hēafdes ece
+    ar: صداع نصفي
+    ary: الشقیقة
+    as: মাইগ্ৰেণ
+    ast: migraña
+    az: Miqren
+    azb: میگرن
+    be: мігрэнь
+    bg: Мигрена
+    bn: মাইগ্রেন
+    bs: Migrena
+    ca: migranya
+    cs: migréna
+    cy: Cur pen eithafol
+    da: migræne
+    de: Migräne
+    dv: ބޮލުގެ އެއްފަޅީގައި ރިހުން
+    el: ημικρανία
+    en: migraine
+    eo: migreno
+    es: migraña
+    et: migreen
+    eu: Migraina
+    fa: میگرن
+    fi: migreeni
+    fr: migraine
+    fy: Migrêne
+    ga: mígréin
+    gl: xaqueca
+    gu: આધાશીશી
+    ha: Migraine
+    he: מיגרנה
+    hi: माइग्रेन
+    hr: migrena
+    hu: migrén
+    hy: միգրեն
+    hyw: անգար
+    id: Migrain
+    io: Migreno
+    is: Mígreni
+    it: emicrania
+    ja: 片頭痛
+    kk: Бас сақинасы
+    kk-arab: باس ساقىيناسى
+    kk-cn: باس ساقىيناسى
+    kk-cyrl: Бас сақинасы
+    kk-kz: Бас сақинасы
+    kk-latn: Bas saqïnası
+    kk-tr: Bas saqïnası
+    kn: ಮೈಗ್ರೇನ್
+    ko: 편두통
+    ku: Mîgren
+    ku-arab: میگرەن
+    ku-latn: Mîgren
+    ky: Шакый
+    la: Hemicrania
+    lg: Omutwe ogulumira oludda olumu
+    lt: migrena
+    lv: migrēna
+    mad: Migrain
+    ml: ചെന്നിക്കുത്ത്
+    mr: अर्धशिशी
+    ms: Migrain
+    nb: migrene
+    nl: migraine
+    nn: migrene
+    or: ଅଧକପାଳି
+    pa: ਮਾਈਗ੍ਰੇਨ
+    pl: migrena
+    pnb: شقیقہ
+    ps: میګرین
+    pt: enxaqueca
+    ro: migrenă
+    ru: мигрень
+    se: migrena
+    sgs: Mėgrena
+    sh: Migrena
+    shi: amaẓla
+    si: migraine
+    sk: migréna
+    sl: migrena
+    smn: miigreen
+    sms: migreeʹn
+    so: Dawakh
+    sq: Migrena
+    sr: мигрена
+    sr-ec: Мигрена
+    sr-el: Migrena
+    sv: migrän
+    sw: Kipandauso
+    ta: ஒற்றைத் தலைவலி
+    te: పార్శ్వపు తలనొప్పి
+    th: ไมเกรน
+    tr: migren bozukluğu
+    tt: баш өянәге
+    tw: Asoroben
+    uk: мігрень
+    ur: شقیقہ
+    uz: Migren
+    vec: emicrània
+    vi: đau nửa đầu
+    wuu: 偏头痛
+    xmf: შანგიტახა
+    yue: 偏頭刺
+    zh: 偏頭痛
+    zh-cn: 偏头痛
+    zh-hans: 偏头痛
+    zh-hant: 偏頭痛
+    zh-hk: 偏頭痛
+    zh-sg: 偏头痛
+    zh-tw: 偏頭痛
+aliases:
+- amaẓla
+- Asoroben
+- Bas saqïnası
+- Cur pen eithafol
+- Dawakh
+- emicrania
+- emicrània
+- enxaqueca
+- healfes hēafdes ece
+- Hemicrania
+- Kipandauso
+- Migrain
+- Migraina
+- migraine
+- migranya
+- migraña
+- migreen
+- migreeni
+- migreeʹn
+- Migren
+- migren bozukluğu
+- migrena
+- migrene
+- migreno
+- migrenă
+- migrän
+- Migräne
+- migræne
+- migrén
+- migréna
+- Migrêne
+- migrēna
+- miigreen
+- Miqren
+- Mígreni
+- mígréin
+- Mîgren
+- Mėgrena
+- Omutwe ogulumira oludda olumu
+- Skeelhoofpyn
+- xaqueca
+- đau nửa đầu
+- ημικρανία
+- Бас сақинасы
+- баш өянәге
+- мігрень
+- мігрэнь
+- Мигрена
+- мигрень
+- Шакый
+- անգար
+- միգրեն
+- מיגרנה
+- الشقیقة
+- باس ساقىيناسى
+- شقیقہ
+- صداع نصفي
+- میګرین
+- میگرن
+- میگرەن
+- ބޮލުގެ އެއްފަޅީގައި ރިހުން
+- अर्धशिशी
+- माइग्रेन
+- মাইগ্রেন
+- মাইগ্ৰেণ
+- ਮਾਈਗ੍ਰੇਨ
+- આધાશીશી
+- ଅଧକପାଳି
+- ஒற்றைத் தலைவலி
+- పార్శ్వపు తలనొప్పి
+- ಮೈಗ್ರೇನ್
+- ചെന്നിക്കുത്ത്
+- ไมเกรน
+- შანგიტახა
+- 偏头痛
+- 偏頭刺
+- 偏頭痛
+- 片頭痛
+- 편두통
+---
 ## #has_/text_of_/abstract 
 
 > **Migraine** (UK: , US: ) is a genetically-influenced complex neurological disorder 

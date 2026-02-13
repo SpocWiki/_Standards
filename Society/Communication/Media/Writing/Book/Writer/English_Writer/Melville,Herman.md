@@ -1,48 +1,77 @@
 ---
 aliases:
-  - Herman_Melville
-  - Herman Melville
-  - Herman Melvill
-  - Melville
-  - Melville,Herman
+- Arminius Melville
+- German Melvill
+- Herman Melvill
+- Herman Melville
+- Hermann Melville
+- Hermans Melvils
+- Herman_Melville
+- Melville
+- Melville,Herman
+- Χέρμαν Μέλβιλ
+- Герман Мелвіл
+- Герман Мелвілл
+- Герман Мелвилл
+- Гэрман Мэлвіл
+- Херман Мелвил
+- Ҳерман Мелвил
+- Հերման Մելվիլ
+- הרמן מלוויל
+- هرمان ملفيل
+- هرمان ملویل
+- ھێرمێن مێلڤێل
+- हरमन मेलविल
+- हर्मन मेलभिल
+- হারমান মেলভিল
+- ਹਰਮਨ ਮੈਲਵਿਲ
+- ஏர்மன் மெல்வில்
+- ഹെർമൻ മെൽവിൽ
+- เฮอร์แมน เมลวิลล์
+- ჰერმან მელვილი
+- ኸርማን መልቪል
+- ハーマン・メルヴィル
+- 赫尔曼·梅尔维尔
+- 靴曼梅爾維爾
+- 허먼 멜빌
 has_id_wikidata: Q4985
 notable_work: '[[_Standards/WikiData/WD~Moby_Dick,174596]]'
 cause_of_death: '[[_Standards/WikiData/WD~heart_failure,181754]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 genre: '[[_Standards/WikiData/WD~travel_literature,1072723]]'
 relative:
-  - '[[_Standards/WikiData/WD~Peter_Gansevoort,1566276]]'
-  - '[[_Standards/WikiData/WD~Thomas_Melvill,7792379]]'
+- '[[_Standards/WikiData/WD~Peter_Gansevoort,1566276]]'
+- '[[_Standards/WikiData/WD~Thomas_Melvill,7792379]]'
 occupation:
-  - '[[_Standards/WikiData/WD~lecturer,1569495]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
-  - '[[_Standards/WikiData/WD~sailor,45199]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~lecturer,1569495]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~art_collector,10732476]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~sailor,45199]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
 place_of_burial: '[[_Standards/WikiData/WD~Woodlawn_Cemetery,2000666]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 award_received: '[[_Standards/WikiData/WD~National_Book_Award_for_Nonfiction,3873147]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Columbia_Grammar_&_Preparatory_School,5149700]]'
-  - '[[_Standards/WikiData/WD~The_Academy_of_Management_Annals,15816572]]'
+- '[[_Standards/WikiData/WD~Columbia_Grammar_&_Preparatory_School,5149700]]'
+- '[[_Standards/WikiData/WD~The_Academy_of_Management_Annals,15816572]]'
 residence:
-  - '[[_Standards/WikiData/WD~Herman_Melville_House,5740045]]'
-  - '[[_Standards/WikiData/WD~Nuku_Hiva,21064]]'
-  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Herman_Melville_House,5740045]]'
+- '[[_Standards/WikiData/WD~Nuku_Hiva,21064]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Herman_Melville,15402023]]'
 given_name: '[[_Standards/WikiData/WD~Herman,16276646]]'
@@ -51,16 +80,16 @@ spouse: '[[_Standards/WikiData/WD~Elizabeth_Knapp_Melville,22097538]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Allan_Melville,87617579]]'
-  - '[[_Standards/WikiData/WD~Augusta_Melville,125658846]]'
+- '[[_Standards/WikiData/WD~Allan_Melville,87617579]]'
+- '[[_Standards/WikiData/WD~Augusta_Melville,125658846]]'
 father: '[[_Standards/WikiData/WD~Allan_Melville,87618137]]'
 mother: '[[_Standards/WikiData/WD~Maria_Gansevoort_Melvill,87620416]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~creative_and_professional_writing,113209507]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
 date_of_death: 1891-09-28T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -89,8 +118,125 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Melville%20by
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Herman%20Melville%20signature.svg
 described_at_URL: http://www.melville.org/
 ISNI: 000000012125135X
+dv_has_:
+  name_:
+    af: Herman Melville
+    am: ኸርማን መልቪል
+    an: Herman Melville
+    ar: هرمان ملفيل
+    arz: هرمان ملفيل
+    ast: Herman Melville
+    avk: Herman Melville
+    ay: Herman Melville
+    az: German Melvill
+    azb: هرمان ملویل
+    be: Герман Мелвіл
+    be-tarask: Гэрман Мэлвіл
+    bg: Херман Мелвил
+    bn: হারমান মেলভিল
+    br: Herman Melville
+    bs: Herman Melville
+    ca: Herman Melville
+    ceb: Herman Melville
+    ckb: ھێرمێن مێلڤێل
+    cs: Herman Melville
+    cy: Herman Melville
+    da: Herman Melville
+    dag: Herman Melville
+    de: Herman Melville
+    de-at: Herman Melville
+    de-ch: Herman Melville
+    diq: Herman Melville
+    el: Χέρμαν Μέλβιλ
+    en: Herman Melville
+    en-ca: Herman Melville
+    en-gb: Herman Melville
+    en-us: Herman Melville
+    eo: Herman Melville
+    es: Herman Melville
+    et: Herman Melville
+    eu: Herman Melville
+    ext: Herman Melville
+    fa: هرمان ملویل
+    fi: Herman Melville
+    fr: Herman Melville
+    fy: Herman Melville
+    ga: Herman Melville
+    gl: Herman Melville
+    gsw: Herman Melville
+    he: הרמן מלוויל
+    hi: हरमन मेलविल
+    hr: Herman Melville
+    hu: Herman Melville
+    hy: Հերման Մելվիլ
+    id: Herman Melville
+    io: Herman Melville
+    is: Herman Melville
+    it: Herman Melville
+    ja: ハーマン・メルヴィル
+    jut: Herman Melville
+    jv: Herman Melville
+    ka: ჰერმან მელვილი
+    kk: Герман Мелвилл
+    ko: 허먼 멜빌
+    kw: Herman Melville
+    ky: Герман Мелвилл
+    la: Arminius Melville
+    lb: Herman Melville
+    li: Herman Melville
+    lmo: Herman Melville
+    lrc: هرمان ملویل
+    lt: Herman Melville
+    lv: Hermans Melvils
+    mg: Herman Melville
+    mk: Херман Мелвил
+    ml: ഹെർമൻ മെൽവിൽ
+    ms: Herman Melville
+    mul: Herman Melville
+    mzn: هرمان ملویل
+    nb: Herman Melville
+    nds: Herman Melville
+    nds-nl: Herman Melville
+    new: हर्मन मेलभिल
+    nl: Herman Melville
+    nn: Herman Melville
+    oc: Herman Melville
+    pa: ਹਰਮਨ ਮੈਲਵਿਲ
+    pap: Herman Melville
+    pl: Herman Melville
+    pms: Herman Melville
+    pt: Herman Melville
+    pt-br: Herman Melville
+    ro: Herman Melville
+    ru: Герман Мелвилл
+    rup: Herman Melville
+    sah: Герман Мелвилл
+    sc: Herman Melville
+    sco: Herman Melville
+    sh: Herman Melville
+    sje: Herman Melville
+    sk: Herman Melville
+    sl: Herman Melville
+    sq: Herman Melville
+    sr: Херман Мелвил
+    sv: Herman Melville
+    ta: ஏர்மன் மெல்வில்
+    tg: Ҳерман Мелвил
+    th: เฮอร์แมน เมลวิลล์
+    tl: Herman Melville
+    tr: Herman Melville
+    uk: Герман Мелвілл
+    uz: Herman Melville
+    vec: Herman Melville
+    vi: Herman Melville
+    wa: Herman Melville
+    war: Herman Melville
+    wuu: 赫尔曼·梅尔维尔
+    xmf: ჰერმან მელვილი
+    yo: Hermann Melville
+    yue: 靴曼梅爾維爾
+    zh: 赫尔曼·梅尔维尔
 ---
-
 # [[Melville,Herman]] 
 
 #is_/same_as :: [[WD~Herman_Melville,4985]] 

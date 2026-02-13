@@ -1,29 +1,171 @@
 ---
 aliases:
+- akışkanlar dinamiği
+- dinamica fluidelor
+- dinamik bendalir
+- dinamika fluida
+- dinamika tekočin
+- dinàmica de fluids
+- dinámica de fluyíos
+- dinámica de fluídos
+- dinâmica de fluidos
+- dynameg hylif
+- dynamika płynów
+- dynamika tekutin
+- dynamique des fluides
+- fluid dynamics
+- Fluiddynamik
+- fluiddynamikk
+- fluidmekanik
+- fluido dinamiko
+- fluidodinamica
+- fluidodinamika
+- fluidodinamiko
+- fluidodinámica
+- fluidoen dinamika
+- folyadékdinamika
+- hidroaerodinamika
+- hidrodinamika
+- hidrogāzdinamika
+- Liù-thí thûng-li̍t-ho̍k
+- pluwidodinamika
+- qulqul
+- thủy động lực học
+- virtausdynamiikka
+- vloeistofdinamika
+- vloeistofmechanica
+- vooliste dünaamika
+- væskedynamik
+- væskedynamikk
+- ρευστοδυναμική
+- гідрааэрадынаміка
+- гідроаеродинаміка
+- гидроаэродинамика
+- динамика флуида
+- основни својства на флуидите
+- шингэний динамик
+- Հիդրոդինամիկա
+- דינמיקה של נוזלים
+- جريان الموائع
+- د مایعاتو ډینامیک
+- دینامیک شارهها
+- دینامیکی شلگاز
+- سيالی حرکيات
+- گىيدرواەرودىينامىيكا
+- तरल गतिकी
+- तरल गतिविज्ञान
+- প্রবাহী গতিবিজ্ঞান
+- பாய்ம இயக்கவியல்
+- තරල ගති විද්යාව
+- พลศาสตร์ของไหล
+- ჰიდროდინამიკა
+- 流体动力学
+- 流体動力学
+- 流體動力學
+- 유체동역학
 has_id_wikidata: Q216320
 subclass_of:
-  - "[[_Standards/WikiData/WD~dynamics,128030]]"
-  - "[[_Standards/WikiData/WD~fluid_mechanics,172145]]"
+- '[[_Standards/WikiData/WD~dynamics,128030]]'
+- '[[_Standards/WikiData/WD~fluid_mechanics,172145]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~branch_of_physics,4162444]]"
-different_from: "[[_Standards/WikiData/WD~hydrodynamics,12016129]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
+different_from: '[[_Standards/WikiData/WD~hydrodynamics,12016129]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~hydrodynamics,12016129]]"
-  - "[[_Standards/WikiData/WD~aerodynamics,8424]]"
-is_the_study_of: "[[_Standards/WikiData/WD~fluid_flow,12142910]]"
-practiced_by: "[[_Standards/WikiData/WD~fluid_dynamicist,104626036]]"
-P10203: "1507"
-OmegaWiki_Defined_Meaning: "795886"
+- '[[_Standards/WikiData/WD~hydrodynamics,12016129]]'
+- '[[_Standards/WikiData/WD~aerodynamics,8424]]'
+is_the_study_of: '[[_Standards/WikiData/WD~fluid_flow,12142910]]'
+practiced_by: '[[_Standards/WikiData/WD~fluid_dynamicist,104626036]]'
+P10203: 1507
+OmegaWiki_Defined_Meaning: 795886
 Colon_Classification: B75
 Commons_category: Fluid dynamics
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/fluid-dynamics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Laminar-turbulent%20transition.jpg
 GitHub_topic: fluid-dynamics
-Dewey_Decimal_Classification: "532.05"
+Dewey_Decimal_Classification: 532.05
+dv_has_:
+  name_:
+    af: vloeistofdinamika
+    ar: جريان الموائع
+    ast: dinámica de fluyíos
+    az: hidroaerodinamika
+    be-tarask: гідрааэрадынаміка
+    bn: প্রবাহী গতিবিজ্ঞান
+    bs: dinamika fluida
+    ca: dinàmica de fluids
+    ckb: دینامیکی شلگاز
+    cs: dynamika tekutin
+    cy: dynameg hylif
+    da: væskedynamik
+    de: Fluiddynamik
+    el: ρευστοδυναμική
+    en: fluid dynamics
+    eo: fluidodinamiko
+    es: fluidodinámica
+    et: vooliste dünaamika
+    eu: fluidoen dinamika
+    fa: دینامیک شارهها
+    fi: virtausdynamiikka
+    fr: dynamique des fluides
+    gl: dinámica de fluídos
+    hak: Liù-thí thûng-li̍t-ho̍k
+    he: דינמיקה של נוזלים
+    hi: तरल गतिकी
+    hu: folyadékdinamika
+    hy: Հիդրոդինամիկա
+    id: dinamika fluida
+    io: fluido dinamiko
+    it: fluidodinamica
+    ja: 流体動力学
+    ka: ჰიდროდინამიკა
+    kk: гидроаэродинамика
+    kk-arab: گىيدرواەرودىينامىيكا
+    kk-cn: گىيدرواەرودىينامىيكا
+    ko: 유체동역학
+    lt: hidrodinamika
+    lv: hidrogāzdinamika
+    mag: तरल गतिविज्ञान
+    mk: основни својства на флуидите
+    mn: шингэний динамик
+    ms: dinamik bendalir
+    nb: fluiddynamikk
+    nl: vloeistofmechanica
+    nn: væskedynamikk
+    om: fluid dynamics
+    pl: dynamika płynów
+    ps: د مایعاتو ډینامیک
+    pt: dinâmica de fluidos
+    ro: dinamica fluidelor
+    ru: гидроаэродинамика
+    sh: dinamika fluida
+    si: තරල ගති විද්යාව
+    sl: dinamika tekočin
+    so: qulqul
+    sq: fluidodinamika
+    sr: динамика флуида
+    sr-ec: динамика флуида
+    sv: fluidmekanik
+    ta: பாய்ம இயக்கவியல்
+    th: พลศาสตร์ของไหล
+    tl: pluwidodinamika
+    tr: akışkanlar dinamiği
+    tt: гидроаэродинамика
+    uk: гідроаеродинаміка
+    ur: سيالی حرکيات
+    vi: thủy động lực học
+    war: pluwidodinamika
+    wuu: 流体动力学
+    yue: 流體動力學
+    zh: 流體動力學
+    zh-cn: 流体动力学
+    zh-hans: 流体动力学
+    zh-hant: 流體動力學
+    zh-hk: 流體動力學
+    zh-sg: 流体动力学
+    zh-tw: 流體動力學
 ---
-
 # [[Fluid_Dynamics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fluid_dynamics,216320|WD~Fluid_dynamics,216320]] 

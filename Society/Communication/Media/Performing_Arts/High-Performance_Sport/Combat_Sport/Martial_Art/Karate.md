@@ -1,30 +1,74 @@
 ---
 aliases:
-  - 空手
-  - 空手道, Karate-dō
-  - Karate
+- Carate
+- carati
+- caraté
+- caratê
+- cearáité
+- I-Karate
+- Karate
+- karateo
+- Karaté
+- karatē
+- karatė
+- Khang-chhiú-tō
+- kárate
+- nasin Kalate
+- καράτε
+- Карате
+- каратэ
+- Կարատե
+- קאראטע
+- קראטה
+- كاراتيه
+- كاراطي
+- کاراته
+- کاراتێ
+- کراٹے
+- कराटे
+- कराते
+- কারাতে
+- কাৰাটে
+- ਕਰਾਟੇ
+- કરાટે
+- கராத்தே
+- కరాటే
+- ಕರಾಟೆ
+- കരാട്ടെ
+- කරාටේ
+- คาราเต้
+- ཁ་ར་ཏེ།
+- ကာရာတေးဒို
+- ကိုယ်ခံပညာ
+- ၵရႃႇတေး
+- კარატე
+- ᱠᱟᱨᱟᱴᱮ
+- 空手
+- 空手道
+- 空手道, Karate-dō
+- 공수도
 has_id_wikidata: Q11419
 different_from:
-  - "[[_Standards/WikiData/WD~Muay_Thai,120931]]"
-  - "[[_Standards/WikiData/WD~kickboxing,178678]]"
-  - "[[_Standards/WikiData/WD~kung_fu,208607]]"
-  - "[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]"
-  - "[[_Standards/WikiData/WD~Karate,23945804]]"
-  - "[[_Standards/WikiData/WD~taekwondo,36389]]"
+- '[[_Standards/WikiData/WD~Muay_Thai,120931]]'
+- '[[_Standards/WikiData/WD~kickboxing,178678]]'
+- '[[_Standards/WikiData/WD~kung_fu,208607]]'
+- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]'
+- '[[_Standards/WikiData/WD~Karate,23945804]]'
+- '[[_Standards/WikiData/WD~taekwondo,36389]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~martial_art,11417]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~martial_art,11417]]'
 creator:
-  - "[[_Standards/WikiData/WD~Ankō_Itosu,527422]]"
-  - "[[_Standards/WikiData/WD~Arakaki_Seishō,584466]]"
-  - "[[_Standards/WikiData/WD~Higaonna_Kanryō,699236]]"
-  - "[[_Standards/WikiData/WD~Matsumura_Sōkon,715769]]"
-  - "[[_Standards/WikiData/WD~Kanga_Sakukawa,921673]]"
-practiced_by: "[[_Standards/WikiData/WD~karateka,9017214]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Karate,14615816]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27136440,27136440]]"
-country_of_origin: "[[_Standards/WikiData/WD~Ryukyu_Kingdom,28025]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+- '[[_Standards/WikiData/WD~Ankō_Itosu,527422]]'
+- '[[_Standards/WikiData/WD~Arakaki_Seishō,584466]]'
+- '[[_Standards/WikiData/WD~Higaonna_Kanryō,699236]]'
+- '[[_Standards/WikiData/WD~Matsumura_Sōkon,715769]]'
+- '[[_Standards/WikiData/WD~Kanga_Sakukawa,921673]]'
+practiced_by: '[[_Standards/WikiData/WD~karateka,9017214]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Karate,14615816]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27136440,27136440]]'
+country_of_origin: '[[_Standards/WikiData/WD~Ryukyu_Kingdom,28025]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Commons_gallery: Karate
 Commons_category: Karate
 native_label: 空手
@@ -36,10 +80,149 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/WKF-Karate-World-Champ
 IPTC_NewsCode: mediatopic/20000983
 Krugosvet_article_archived_: sport/KARATE.html
 Baidu_Tieba_name: 空手道
-Unicode_character: 🥋
+Unicode_character: "\U0001F94B"
 OpenStreetMap_tag: sport=karate
+dv_has_:
+  name_:
+    af: Karate
+    an: Karate
+    ar: كاراتيه
+    ary: كاراطي
+    arz: كاراتيه
+    as: কাৰাটে
+    ast: kárate
+    az: karate
+    azb: کاراته
+    ba: Карате
+    ban: Karaté
+    be: каратэ
+    be-tarask: каратэ
+    bg: Карате
+    bi: Karate
+    bn: কারাতে
+    bo: ཁ་ར་ཏེ།
+    br: Karate
+    bs: Karate
+    ca: karate
+    ce: Карате
+    ckb: کاراتێ
+    crh: Karate
+    cs: karate
+    cy: carati
+    da: karate
+    de: Karate
+    el: καράτε
+    en: karate
+    eo: karateo
+    es: karate
+    et: karate
+    eu: Karate
+    fa: کاراته
+    fi: karate
+    fr: karaté
+    fur: Karate
+    ga: cearáité
+    gl: Karate
+    gom: Karate
+    gom-deva: कराटे
+    gom-latn: Karate
+    gsw: Karate
+    gu: કરાટે
+    he: קראטה
+    hi: कराटे
+    hif: Karate
+    hr: Karate
+    ht: Karate
+    hu: karate
+    hy: Կարատե
+    ia: Karate
+    id: karate
+    io: Karateo
+    is: Karate
+    it: karate
+    ja: 空手
+    jv: Karaté
+    ka: კარატე
+    kk: Каратэ
+    kn: ಕರಾಟೆ
+    ko: 공수도
+    ku: Karate
+    kw: Karate
+    ky: Каратэ
+    la: Karate
+    lb: Karate
+    lfn: Carate
+    ln: Karaté
+    lt: karatė
+    lv: karatē
+    mai: कराटे
+    mg: Karate
+    min: Karate
+    mk: Карате
+    ml: കരാട്ടെ
+    mn: Каратэ
+    mr: कराटे
+    ms: Karate
+    mwl: Karate
+    my: ကာရာတေးဒို
+    nan: Khang-chhiú-tō
+    nb: karate
+    nds: Karate
+    new: कराते
+    nl: karate
+    nn: karate
+    oc: Karate
+    pa: ਕਰਾਟੇ
+    pap: karate
+    pcm: karate
+    pl: karate
+    pms: Karate
+    pnb: کراٹے
+    pt: caraté
+    pt-br: caratê
+    rki: ကိုယ်ခံပညာ
+    rm: Karate
+    ro: karate
+    ru: карате
+    rue: Карате
+    sat: ᱠᱟᱨᱟᱴᱮ
+    sc: Karate
+    scn: Karate
+    sco: karate
+    sgs: Karate
+    sh: Karate
+    shn: ၵရႃႇတေး
+    si: කරාටේ
+    sk: Karate
+    sl: karate
+    sq: Karate
+    sr: карате
+    su: Karaté
+    sv: karate
+    sw: Karate
+    ta: கராத்தே
+    te: కరాటే
+    th: คาราเต้
+    tl: Karate
+    tok: nasin Kalate
+    tr: karate
+    tt: карате
+    tt-cyrl: карате
+    uk: карате
+    ur: کراٹے
+    uz: Karate
+    vec: Karate
+    vi: karate
+    war: Karate
+    wuu: 空手道
+    xh: I-Karate
+    yi: קאראטע
+    yue: 空手道
+    zh: 空手道
+    zh-cn: 空手道
+    zh-hant: 空手道
+    zh-tw: 空手道
 ---
-
 # [[Karate]]  🥋
 
 #is_/same_as :: [[WD~Karate,11419]] 

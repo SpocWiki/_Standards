@@ -1,15 +1,141 @@
 ---
 aliases:
-  - Satellite_television
-  - Satellite_TV
-  - Satellite TV
+- dijital uydu
+- Gervihnattasjónvarp
+- műholdas televízió
+- satelita televido
+- satelite bidezko telebista
+- satelitní televize
+- satelitska televizija
+- satelliettelevisie
+- satellihttatelevišuvdna
+- satelliittelevisio
+- satelliittelevisioon
+- satelliittitelevisio
+- satellit-tv
+- satellite television
+- Satellite TV
+- Satellitenrundfunk
+- Satellite_television
+- Satellite_TV
+- satellitt-televisio
+- satellitt-TV
+- telebisyong satelayt
+- televisi satelit
+- Televisione satellitare
+- televisió per satèl·lit
+- Televisión per satélite
+- televisión por satélite
+- televisyen satelit
+- televisão por satélite
+- Televizioni satelitor
+- televiziune prin satelit
+- telewizja satelitarna
+- tełevizion satełitare
+- truyền hình vệ tinh
+- télévision par satellite
+- Δορυφορική τηλεόραση
+- Сансрын телевиз
+- Сателитна телевизия
+- сателитска телевизија
+- спадарожнікавае тэлебачаньне
+- спутниковое телевидение
+- супутникове телебачення
+- Телевизиони моҳвораӣ
+- טלוויזיה בלוויין
+- تلفاز فضائي
+- تلفزيون ستالايت
+- تلویزیون ماهوارهای
+- دیشی مانگی دەستکرد
+- सैटेलाइट टेलीविजन
+- স্যাটেলাইট টেলিভিশন
+- செய்மதித் தொலைக்காட்சி
+- ഉപഗ്രഹ ടെലിവിഷൻ
+- โทรทัศน์ผ่านดาวเทียม
+- 卫星电视
+- 衛星放送
+- 衛星電視
+- 衞星電視
+- 위성방송
 has_id_wikidata: Q209588
 uses: '[[_Standards/WikiData/WD~communications_satellite,149918]]'
 subclass_of: '[[_Standards/WikiData/WD~broadcasting,15078788]]'
 instance_of: '[[_Standards/WikiData/WD~broadcasting,15078788]]'
 Commons_category: Satellite television
+dv_has_:
+  name_:
+    ar: تلفاز فضائي
+    arz: تلفزيون ستالايت
+    ast: Televisión per satélite
+    be-tarask: спадарожнікавае тэлебачаньне
+    bg: Сателитна телевизия
+    bn: স্যাটেলাইট টেলিভিশন
+    bs: satelitska televizija
+    ca: televisió per satèl·lit
+    ckb: دیشی مانگی دەستکرد
+    cs: satelitní televize
+    da: satellit-tv
+    de: Satellitenrundfunk
+    el: Δορυφορική τηλεόραση
+    en: satellite television
+    en-ca: satellite television
+    en-gb: satellite television
+    en-us: satellite television
+    eo: satelita televido
+    es: televisión por satélite
+    et: satelliittelevisioon
+    eu: satelite bidezko telebista
+    fa: تلویزیون ماهوارهای
+    fi: satelliittitelevisio
+    fr: télévision par satellite
+    gl: televisión por satélite
+    he: טלוויזיה בלוויין
+    hi: सैटेलाइट टेलीविजन
+    hr: Satelitska televizija
+    hu: műholdas televízió
+    id: televisi satelit
+    is: Gervihnattasjónvarp
+    it: Televisione satellitare
+    ja: 衛星放送
+    ko: 위성방송
+    mk: сателитска телевизија
+    ml: ഉപഗ്രഹ ടെലിവിഷൻ
+    mn: Сансрын телевиз
+    ms: televisyen satelit
+    nb: satellitt-TV
+    nl: satelliettelevisie
+    pl: telewizja satelitarna
+    pt: televisão por satélite
+    ro: televiziune prin satelit
+    ru: спутниковое телевидение
+    se: satellihttatelevišuvdna
+    sh: Satelitska televizija
+    sl: satelitska televizija
+    smn: satelliittelevisio
+    sms: satellitt-televisio
+    sq: Televizioni satelitor
+    sr: Satelitska televizija
+    sr-ec: Сателитска телевизија
+    sr-el: Satelitska televizija
+    sv: satellit-TV
+    ta: செய்மதித் தொலைக்காட்சி
+    tg: Телевизиони моҳвораӣ
+    th: โทรทัศน์ผ่านดาวเทียม
+    tl: telebisyong satelayt
+    tr: dijital uydu
+    uk: супутникове телебачення
+    vec: tełevizion satełitare
+    vi: truyền hình vệ tinh
+    wuu: 卫星电视
+    yue: 衞星電視
+    zh: 卫星电视
+    zh-cn: 卫星电视
+    zh-hans: 卫星电视
+    zh-hant: 衛星電視
+    zh-hk: 衛星電視
+    zh-sg: 卫星电视
+    zh-tw: 衛星電視
 ---
-
 # [[Satellite_TV]] 
 
 #is_/same_as :: [[WD~Satellite_television,209588]]

@@ -1,29 +1,191 @@
 ---
 aliases:
+- meroslovje
+- mesureg
+- metrologi
+- metrologia
+- Metrologie
+- metrologiezh
+- metrologiija
+- Metrologija
+- metrologije
+- metrologio
+- metrologiya
+- Metrologiýa
+- Metrologjia
+- metrology
+- metrología
+- Metrolohiya
+- metroloji
+- metroloogia
+- metroloxía
+- Metroloġija
+- metroloģija
+- Metrológia
+- metrołozia
+- metöfav
+- mezurscienco
+- Mitalojia
+- mjeriteljstvo
+- mätteknik
+- méadreolaíocht
+- méréstudomány
+- métrologie
+- đo lường học
+- μετρολογία
+- метралогія
+- метрологія
+- метрологи
+- Метрологија
+- метрология
+- Метрологиясь
+- мэтралёгія
+- үлчәүбелем
+- չափագիտություն
+- מטרולוגיה
+- علم القياس
+- مترولوژی
+- ميترولوݢي
+- ميټرولوژي
+- مێترۆلۆژی
+- پیمائشیات
+- माप विद्या
+- मेट्रोलोजी
+- পরিমাপবিজ্ঞান
+- அளவியல்
+- മെട്രോളജി
+- มาตรวิทยา
+- მეტროლოგია
+- 計量学
+- 計量學
+- 计量学
+- 도량형학
 has_id_wikidata: Q394
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-practiced_by: "[[_Standards/WikiData/WD~meteorologist,6824851]]"
-subclass_of: "[[_Standards/WikiData/WD~physical_sciences,14632398]]"
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~meteorologist,6824851]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_sciences,14632398]]'
 different_from:
-  - "[[_Standards/WikiData/WD~measure_theory,15614122]]"
-  - "[[_Standards/WikiData/WD~meteorology,25261]]"
+- '[[_Standards/WikiData/WD~measure_theory,15614122]]'
+- '[[_Standards/WikiData/WD~meteorology,25261]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~scientific_metrology,55029126]]"
-  - "[[_Standards/WikiData/WD~applied_metrology,55033061]]"
-  - "[[_Standards/WikiData/WD~legal_metrology,55070421]]"
+- '[[_Standards/WikiData/WD~scientific_metrology,55029126]]'
+- '[[_Standards/WikiData/WD~applied_metrology,55033061]]'
+- '[[_Standards/WikiData/WD~legal_metrology,55070421]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-Dewey_Decimal_Classification: "389"
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+Dewey_Decimal_Classification: 389
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MicrometerInside5-30%2025-50.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2.wav
 IEV_number: 112-04-02
 Commons_category: Metrology
+dv_has_:
+  name_:
+    af: metrologie
+    ar: علم القياس
+    ast: Metroloxía
+    az: metrologiya
+    ba: Метрология
+    be: метралогія
+    be-tarask: мэтралёгія
+    bg: Метрология
+    bn: পরিমাপবিজ্ঞান
+    br: metrologiezh
+    bs: Metrologija
+    ca: metrologia
+    ckb: مێترۆلۆژی
+    cs: metrologie
+    cy: mesureg
+    da: metrologi
+    de: Metrologie
+    de-ch: Metrologie
+    el: μετρολογία
+    en: metrology
+    en-ca: Metrology
+    en-gb: metrology
+    eo: mezurscienco
+    es: metrología
+    et: metroloogia
+    eu: Metrologia
+    fa: مترولوژی
+    fi: metrologia
+    fr: métrologie
+    ga: méadreolaíocht
+    gl: metroloxía
+    he: מטרולוגיה
+    hi: माप विद्या
+    hr: mjeriteljstvo
+    hu: méréstudomány
+    hy: չափագիտություն
+    id: metrologi
+    io: metrologio
+    it: metrologia
+    ja: 計量学
+    ka: მეტროლოგია
+    kaa: metrologiya
+    kk: Метрология
+    ko: 도량형학
+    ky: Метрология
+    lb: Metrologie
+    lt: metrologija
+    lv: metroloģija
+    mdf: Метрологиясь
+    mk: Метрологија
+    ml: മെട്രോളജി
+    ms: metrologi
+    ms-arab: ميترولوݢي
+    mt: Metroloġija
+    nb: metrologi
+    ne: मेट्रोलोजी
+    nl: metrologie
+    nn: metrologi
+    oc: Metrologia
+    os: метрологи
+    pl: metrologia
+    pnb: پیمائشیات
+    ps: ميټرولوژي
+    pt: metrologia
+    pt-br: Metrologia
+    ro: metrologie
+    ru: метрология
+    sah: Метрология
+    se: metrologiija
+    sh: Metrologija
+    sk: Metrológia
+    sl: meroslovje
+    sma: metrologije
+    smj: metrologija
+    smn: metrologia
+    sms: metrologia
+    sq: Metrologjia
+    sr: метрологија
+    sv: mätteknik
+    sw: Mitalojia
+    ta: அளவியல்
+    tg: метрология
+    th: มาตรวิทยา
+    tk: Metrologiýa
+    tl: Metrolohiya
+    tr: metroloji
+    tt: метрология
+    tt-cyrl: үлчәүбелем
+    uk: метрологія
+    ur: پیمائشیات
+    uz: Metrologiya
+    vec: metrołozia
+    vi: đo lường học
+    vo: metöfav
+    war: Metrolohiya
+    wuu: 计量学
+    yue: 計量學
+    zh: 計量學
+    zh-cn: 计量学
+    zh-hans: 计量学
+    zh-hant: 計量學
 ---
-
 # [[Metrology]] 
 
 #is_/same_as :: [[WD~Metrology,394]] 

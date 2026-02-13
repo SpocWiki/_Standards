@@ -1,385 +1,655 @@
 ---
 aliases:
-  - Great Britain
-  - United Kingdom
-  - Britain
-  - UK
+- Ama-ubọọn̄ Mgbambọp
+- Amatnhom Mäcŋaknhom
+- an Ríocht Aontaithe
+- Apvienotā Karaliste
+- Ari na Unido
+- Aupuni Mōʻī Hui Pū ʻia
+- Baritania Rayo
+- Biritaani-Mawndi
+- Birlashgan Qirollik
+- Birleşen Patyşalyk
+- Birleşik Krallık
+- Birləşmiş Krallıq
+- Birtaniya
+- Bonba Britania
+- Bretland
+- Britain
+- Britania Agung
+- Britania e Madhe
+- Britania Godang
+- Britania Mari
+- Britania Raya
+- Britanniarum Regnum
+- Briṭanya
+- Böyekbritaniä
+- Büyük Britaniya
+- Büük Britaniya
+- Dyždə Britanijə
+- Egyesült Királyság
+- Erresuma Batua
+- Fanjakana Mitambatra
+- Fereeniged Köönichriek
+- Ferianigt Köningrik
+- Feriene Keninkryk
+- Geāned Cynerīce
+- Ginharian Tingob
+- Ginharian Tingëb
+- Gran Vretagna
+- Grande Burtaegne
+- Great Britain
+- Grossbritannien und Nordirland
+- Hiniusang Gingharian
+- Hukllachasqa Qhapaq Suyu
+- Ilẹ̀ọba Aṣọ̀kan
+- Ingerand
+- Ingriskondre
+- Ingɛlɛ́tɛlɛ
+- Iunited kingdom
+- Jongtėnė Karalīstė
+- Jrußbritannie
+- Jungtinė Karalystė
+- Karajan Manunggal
+- Kerajaan Rempug
+- Keurajeuën Inggréh
+- Kewiyaɣ Kɩkpɛndaɣ
+- Keyaniya Yekbûyî
+- Kīngitanga Kotahi
+- Liân-ha̍p Ông-kok
+- ma Juke
+- Matanitu Cokovata
+- Midowga boqortooyada Britan
+- Muna̱pyia̱ A̱byintyok
+- Nagkaykaysa a Pagarian
+- Nguur-Yu-Bennoo
+- Obodoézè Nà Ofú
+- Ovttastuvvan gonagasriika
+- Ovtâstum kunâgâskodde
+- Paratāne
+- Peretania
+- Phandlo Thagaripen
+- Pilitānia
+- Pisanmetung a Ka-arian
+- Qraliya Yewbiyayiye
+- Ream Unît
+- Reeriaght Unnaneysit
+- Regatul Unit
+- Reginavel Unì
+- Regn Unid
+- Regn Unì
+- Regne Aunìte
+- Regne Unit
+- Regno Unio
+- Regno Unite
+- Regno Unito
+- Regnu Unitu
+- Regän Pebalöl
+- Reialme Unit
+- Reino Ounido
+- Reino Uni
+- Reino Unido
+- Reino Unito
+- Reinos Unidos
+- Reinu Naklibur
+- Reinu Unidu
+- Reinu Xuníu
+- Rena Unida
+- Renju Unit
+- Rennu Auniadu
+- Reyatu Unit
+- Reyno Unido
+- Riam Unì
+- ritygu'e
+- Rouantelezh-Unanet
+- Rouoyaume Unni
+- Royaume-Uni
+- Royômo-Uni
+- Roéyôme-Uni
+- Ruvaneth Unys
+- Rwéyonm-Ini
+- Régn Unî
+- Régno Unîo
+- Réinu Uniu
+- Rìoghachd Aonaichte
+- Saškiersta kieneste
+- Sentik Weyitlahtohkayotl
+- Spojené království
+- Spojené kráľovstvo
+- Stoerebritannia
+- Storbritannia
+- Storbritannien
+- Stóra Bretland
+- Sur' Britanii
+- Suurbritannia
+- Sūr Britanij
+- Tagelda Yedduklen
+- Tanaragazaxo
+- Tannapta Umialgutia
+- Tetã Joaju
+- Tuluit Nunaat
+- Tótaʼ Dineʼé Bikéyah
+- Ubwongereza
+- Ufalme wa Muungano
+- Ufumu Ubanyi
+- Ujedinjeno Kraljevstvo
+- UK
+- Ullı Britaniya
+- Umbuso Ohlangeneyo
+- Unionati Regia
+- Unionita Rejio
+- United Kingdom
+- United Kingdom (UK)
+- Unitit Kinrick
+- Unuiĝinta Reĝlando
+- Vaeinigts Kinireich
+- Vereenegt Kinnekräich
+- Vereenichde Keenichreich
+- Vereenigt Königriek
+- Vereineg Keuninkriek
+- Vereinigtes Königreich
+- Verenigd Koninkrijk
+- Verenigde Koninkryk
+- Vereênigd Konienkriek
+- Verienigd Keuninkriek
+- Verênigd Keunienkryk
+- Vương quốc Liên hiệp Anh và Bắc Ireland
+- Wayòm Ini
+- Wielgŏ Brytanijŏ
+- Wielka Brytania
+- Wiôlgô Britanijô
+- y Deyrnas Unedig
+- Yhdistynyt kuningaskunta
+- Yhtistynnyh kuningaskundu
+- Yinghgoz
+- Yunaayitid Kingidem
+- Yunaeted Kingdom
+- Yunaitet Kingdom
+- Yunaitid Kindom
+- Yunitid Kingdum
+- Yîn-koet
+- Združeno kraljestvo
+- Zjadnośone kralojstwo
+- Zjednoćene kralestwo
+- Õhttõõvvâm koonǥõskåʹdd
+- Ütiskuningriik
+- Ĭng-guók
+- Ηνωμένο Βασίλειο
+- Аслă Британи
+- Британиаду
+- Британиешхо Пачъыхьыгъо
+- Британиэшхуэ
+- Британияи Кабир
+- Бритониёи Кабир
+- Бөекбритания
+- Бөйөк Британия
+- Вєлика Британїꙗ
+- Велика Брітанія
+- Великобритани
+- Великобритания
+- Вялікабрытанія
+- Ик Бритишин болн Ар Гәәлгүдин Ниицәтә Нутг
+- Инебритания Мастор
+- Йоккха Британи
+- КІудабритІания
+- Кого Британи
+- Нэгдсэн Вант Улс
+- Нэгэдэһэн хаанта улас
+- Обединено кралство Великобритания и Северна Ирландия
+- Обединето Кралство
+- Оцю Британия
+- Сполучене Королівство
+- Стыр Британи
+- Уједињено Краљевство
+- Уллу Британия
+- Улуу Британия
+- Ушымо Королевстве
+- Холбоhуктаах Хоруоллук
+- ЧӀехибритания
+- Ыджыд Британия
+- Ыджыт Бритму
+- Ұлыбритания
+- Միացեալ Թագաւորութիւն
+- Միացյալ Թագավորություն
+- הממלכה המאוחדת
+- פאראייניגטע קעניגרייך
+- المملكة المتحدة
+- المملكة الموحّدة
+- المملكه المتحده
+- بؤیوک بریتانیا
+- برطانیا
+- برطانیہ
+- بريتانيا
+- بریتانیا
+- بریتانیا گپ
+- برېتانيا
+- بۈيۈك بېرىتانىيە
+- شانشینی یەکگرتوو
+- لمملكة لمتاحدة
+- مملکت متحدہ
+- يونايتيد کيڠدم
+- کەیانیا یەکبوویی
+- گڏيل بادشاھت
+- یونایٹِڑ کِنگڈَم
+- ܡܠܟܘܬܐ ܡܚܝܕܬܐ
+- ޔުނައިޓެޑް ކިންގްޑަމް
+- ߡߊ߲߬ߛߊ߬ߟߊ߫ ߘߍ߬ߣߍ߲
+- युनायटेड किंगडम
+- युनायटेड किंग्डम
+- यूनाइटेड किंगडम
+- संयुक्त अधिराज्य
+- सञ्जुक्त राजतन्त्र
+- তিলপারাজ্য
+- যুক্তরাজ্য
+- যুক্তৰাজ্য
+- ਯੂਨਾਈਟਡ ਕਿੰਗਡਮ
+- યુનાઇટેડ કિંગડમ
+- ଯୁକ୍ତରାଜ୍ୟ
+- ஐக்கிய இராச்சியம்
+- యునైటెడ్ కింగ్డమ్
+- ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂ
+- ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್
+- യുണൈറ്റഡ് കിങ്ഡം
+- එක්සත් රාජධානිය
+- สหราชอาณาจักร
+- ສະຫະລາຊະອານາຈັກ
+- དབྱིན་ཇི་མཉམ་འབྲེལ།
+- ཡུ་ནའི་ཊེཊ་ཀིང་ཌམ
+- မိူင်းဢင်းၵိတ်ႉ
+- ယူနိုက်တက် ကင်းဒမ်း
+- ယူနုဲက်တဲတ်ကိင်းဒန်းခမ်းထီ
+- သဟရာဇအာဏာစကြ
+- გაერთიანებული სამეფო
+- გოართოიანაფილი ომაფე
+- ዩናይትድ ኪንግደም
+- ᎡᎵᏏᎯ
+- ᑐᓗᐃᑦ ᓄᓈᑦ
+- សហរាជាណាចក្រ
+- ᱥᱮᱞᱮᱫ ᱫᱤᱥᱚᱢ
+- Ἡνωμένον Βασίλειον
+- ⵜⴰⴳⵍⴷⵉⵜ ⵉⵎⵓⵏⵏ
+- イギリス
+- 英国
+- 英國
+- ꠎꠥꠇ꠆ꠔꠅ ꠞꠣꠁꠎ꠆ꠎ
+- ꯌꯨꯅꯥꯢꯇꯦꯗ ꯀꯤꯡꯗꯝ
+- 영국
 has_id_wikidata: Q145
 title: UK
 type: Country
 location:
-  - 52.8829
-  - -2.14482
+- 52.8829
+- -2.14482
 SpocWebEntityId: 26899
 tags:
-  - geo/Country
+- geo/Country
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 icon: flag-gb
 member_of:
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"
-  - "[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Energy_Agency,826700]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~G7,1764511]]"
-  - "[[_Standards/WikiData/WD~ANZUK,2625543]]"
-  - "[[_Standards/WikiData/WD~ABCANZ_Armies,2863003]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]"
-  - "[[_Standards/WikiData/WD~Air_Force_Interoperability_Council,4426267]]"
-  - "[[_Standards/WikiData/WD~Combined_Communications-Electronics_Board,5150848]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~The_Technical_Cooperation_Program,7768229]]"
-  - "[[_Standards/WikiData/WD~Five_Eyes,15978258]]"
-  - "[[_Standards/WikiData/WD~AUKUS,108556886]]"
-  - "[[_Standards/WikiData/WD~Q131720477,131720477]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~G20,19771]]"
-  - "[[_Standards/WikiData/WD~G8,37143]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-  - "[[_Standards/WikiData/WD~European_Space_Agency,42262]]"
-  - "[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]"
-flag: "[[_Standards/WikiData/WD~flag_of_the_United_Kingdom,83278]]"
-highest_point: "[[_Standards/WikiData/WD~Ben_Nevis,104674]]"
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]'
+- '[[_Standards/WikiData/WD~European_Free_Trade_Association,166546]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~states_with_nuclear_weapons,189062]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~Southeast_Asia_Treaty_Organization,277252]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Organisation_for_Joint_Armament_Cooperation,521227]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Energy_Agency,826700]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Missile_Technology_Control_Regime,1072120]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~G7,1764511]]'
+- '[[_Standards/WikiData/WD~ANZUK,2625543]]'
+- '[[_Standards/WikiData/WD~ABCANZ_Armies,2863003]]'
+- '[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~AUSCANNZUKUS,4033111]]'
+- '[[_Standards/WikiData/WD~Air_Force_Interoperability_Council,4426267]]'
+- '[[_Standards/WikiData/WD~Combined_Communications-Electronics_Board,5150848]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~The_Technical_Cooperation_Program,7768229]]'
+- '[[_Standards/WikiData/WD~Five_Eyes,15978258]]'
+- '[[_Standards/WikiData/WD~AUKUS,108556886]]'
+- '[[_Standards/WikiData/WD~Q131720477,131720477]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~G20,19771]]'
+- '[[_Standards/WikiData/WD~G8,37143]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
+- '[[_Standards/WikiData/WD~Visa_Waiver_Program,45177]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_United_Kingdom,83278]]'
+highest_point: '[[_Standards/WikiData/WD~Ben_Nevis,104674]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~island_country,112099]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~colonial_power,20181813]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_United_Kingdom,129373]]"
+- '[[_Standards/WikiData/WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~colonial_power,20181813]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_United_Kingdom,113162]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_United_Kingdom,129373]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
-  - "[[_Standards/WikiData/WD~South_Africa,258]]"
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Singapore,334]]"
-  - "[[_Standards/WikiData/WD~Bahrain,398]]"
-  - "[[_Standards/WikiData/WD~Armenia,399]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~New_Zealand,664]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Papua_New_Guinea,691]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
-  - "[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]"
-  - "[[_Standards/WikiData/WD~Grenada,769]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Yemen,805]]"
-  - "[[_Standards/WikiData/WD~Kyrgyzstan,813]]"
-  - "[[_Standards/WikiData/WD~Kuwait,817]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~United_Arab_Emirates,878]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Brunei,921]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Mauritius,1027]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Somalia,1045]]"
-  - "[[_Standards/WikiData/WD~Sudan,1049]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Hong_Kong,8646]]"
-  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Belgium,31]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Switzerland,39]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Lithuania,37]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Portugal,45]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~Kenya,114]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Iceland,189]]"
-  - "[[_Standards/WikiData/WD~Slovakia,214]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Romania,218]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Albania,222]]"
-  - "[[_Standards/WikiData/WD~Azerbaijan,227]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Cyprus,229]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan,232]]"
-  - "[[_Standards/WikiData/WD~Malta,233]]"
-  - "[[_Standards/WikiData/WD~San_Marino,238]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Barbados,244]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-coat_of_arms: "[[_Standards/WikiData/WD~royal_coat_of_arms_of_the_United_Kingdom,165762]]"
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
+- '[[_Standards/WikiData/WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Singapore,334]]'
+- '[[_Standards/WikiData/WD~Bahrain,398]]'
+- '[[_Standards/WikiData/WD~Armenia,399]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~New_Zealand,664]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Papua_New_Guinea,691]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
+- '[[_Standards/WikiData/WD~Saint_Kitts_and_Nevis,763]]'
+- '[[_Standards/WikiData/WD~Grenada,769]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Yemen,805]]'
+- '[[_Standards/WikiData/WD~Kyrgyzstan,813]]'
+- '[[_Standards/WikiData/WD~Kuwait,817]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Brunei,921]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Mauritius,1027]]'
+- '[[_Standards/WikiData/WD~Namibia,1030]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Hong_Kong,8646]]'
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Lithuania,37]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Iceland,189]]'
+- '[[_Standards/WikiData/WD~Slovakia,214]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Romania,218]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Albania,222]]'
+- '[[_Standards/WikiData/WD~Azerbaijan,227]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cyprus,229]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
+- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~San_Marino,238]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Barbados,244]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+coat_of_arms: '[[_Standards/WikiData/WD~royal_coat_of_arms_of_the_United_Kingdom,165762]]'
 different_from:
-  - "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-  - "[[_Standards/WikiData/WD~Great_Britain,107482134]]"
-  - "[[_Standards/WikiData/WD~realm_of_the_United_Kingdom,124653007]]"
-  - "[[_Standards/WikiData/WD~Britain,23666]]"
-replaces: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
-follows: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Great_Britain,107482134]]'
+- '[[_Standards/WikiData/WD~realm_of_the_United_Kingdom,124653007]]'
+- '[[_Standards/WikiData/WD~Britain,23666]]'
+replaces: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+follows: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 public_holiday:
-  - "[[_Standards/WikiData/WD~Saint_Patrick's_Day,181817]]"
-  - "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-  - "[[_Standards/WikiData/WD~Easter_Monday,209663]]"
-  - "[[_Standards/WikiData/WD~Boxing_Day,956699]]"
-  - "[[_Standards/WikiData/WD~Christmas,19809]]"
-  - "[[_Standards/WikiData/WD~Good_Friday,40317]]"
-  - "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
-central_bank: "[[_Standards/WikiData/WD~Bank_of_England,183231]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_United_Kingdom,323138]]"
+- "[[_Standards/WikiData/WD~Saint_Patrick's_Day,181817]]"
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
+- '[[_Standards/WikiData/WD~Easter_Monday,209663]]'
+- '[[_Standards/WikiData/WD~Boxing_Day,956699]]'
+- '[[_Standards/WikiData/WD~Christmas,19809]]'
+- '[[_Standards/WikiData/WD~Good_Friday,40317]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
+central_bank: '[[_Standards/WikiData/WD~Bank_of_England,183231]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_United_Kingdom,323138]]'
 top_level_Internet_domain:
-  - "[[_Standards/WikiData/WD~.gb,433862]]"
-  - "[[_Standards/WikiData/WD~.uk,37913]]"
+- '[[_Standards/WikiData/WD~.gb,433862]]'
+- '[[_Standards/WikiData/WD~.uk,37913]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Angloromani,541279]]"
-  - "[[_Standards/WikiData/WD~Polari,1359130]]"
-  - "[[_Standards/WikiData/WD~Welsh-Romani,2097387]]"
-  - "[[_Standards/WikiData/WD~Scottish_Cant,3915671]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Irish,9142]]"
-  - "[[_Standards/WikiData/WD~Welsh,9309]]"
-  - "[[_Standards/WikiData/WD~Scottish_Gaelic,9314]]"
-  - "[[_Standards/WikiData/WD~Scots,14549]]"
-  - "[[_Standards/WikiData/WD~Cornish,25289]]"
-  - "[[_Standards/WikiData/WD~British_Sign_Language,33000]]"
-  - "[[_Standards/WikiData/WD~Shelta,36705]]"
+- '[[_Standards/WikiData/WD~Angloromani,541279]]'
+- '[[_Standards/WikiData/WD~Polari,1359130]]'
+- '[[_Standards/WikiData/WD~Welsh-Romani,2097387]]'
+- '[[_Standards/WikiData/WD~Scottish_Cant,3915671]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Irish,9142]]'
+- '[[_Standards/WikiData/WD~Welsh,9309]]'
+- '[[_Standards/WikiData/WD~Scottish_Gaelic,9314]]'
+- '[[_Standards/WikiData/WD~Scots,14549]]'
+- '[[_Standards/WikiData/WD~Cornish,25289]]'
+- '[[_Standards/WikiData/WD~British_Sign_Language,33000]]'
+- '[[_Standards/WikiData/WD~Shelta,36705]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-has_cabinet: "[[_Standards/WikiData/WD~Privy_Council_of_the_United_Kingdom,683120]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_the_United_Kingdom,1122261]]"
-lowest_point: "[[_Standards/WikiData/WD~The_Fens,1404827]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_United_Kingdom,1983621]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
+has_cabinet: '[[_Standards/WikiData/WD~Privy_Council_of_the_United_Kingdom,683120]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Australian_National_Maritime_Museum,844329]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_the_United_Kingdom,1122261]]'
+lowest_point: '[[_Standards/WikiData/WD~The_Fens,1404827]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_United_Kingdom,1983621]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~مسح,2580491]]"
-  - "[[_Standards/WikiData/WD~Black_Britons,3244280]]"
-  - "[[_Standards/WikiData/WD~British_Indians,4115170]]"
-  - "[[_Standards/WikiData/WD~White_British,7994501]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~999,3086706]]"
-has_seal_badge_or_sigil: "[[_Standards/WikiData/WD~Great_Seal_of_the_Realm,3114830]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-part_of: "[[_Standards/WikiData/WD~Common_Travel_Area,3324796]]"
-open_data_portal: "[[_Standards/WikiData/WD~data.gov.uk,5227103]]"
-head_of_government: "[[_Standards/WikiData/WD~Keir_Starmer,6383803]]"
+- '[[_Standards/WikiData/WD~مسح,2580491]]'
+- '[[_Standards/WikiData/WD~Black_Britons,3244280]]'
+- '[[_Standards/WikiData/WD~British_Indians,4115170]]'
+- '[[_Standards/WikiData/WD~White_British,7994501]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
+has_seal_badge_or_sigil: '[[_Standards/WikiData/WD~Great_Seal_of_the_Realm,3114830]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+part_of: '[[_Standards/WikiData/WD~Common_Travel_Area,3324796]]'
+open_data_portal: '[[_Standards/WikiData/WD~data.gov.uk,5227103]]'
+head_of_government: '[[_Standards/WikiData/WD~Keir_Starmer,6383803]]'
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Country_data_United_Kingdom,6435191]]"
-  - "[[_Standards/WikiData/WD~Template_Country_data_Great_Britain,7665937]]"
-  - "[[_Standards/WikiData/WD~Template_United_Kingdom_topics,8457352]]"
-  - "[[_Standards/WikiData/WD~Template_United_Kingdom_infobox,10730823]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_United_Kingdom,7112788]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_United_Kingdom,8253451]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_the_United_Kingdom,9134365]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~left,13196750]]"
-driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
-named_after: "[[_Standards/WikiData/WD~union,17853087]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828650,22828650]]"
-category_of_associated_people: "[[_Standards/WikiData/WD~Q32670711,32670711]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]"
+- '[[_Standards/WikiData/WD~Template_Country_data_United_Kingdom,6435191]]'
+- '[[_Standards/WikiData/WD~Template_Country_data_Great_Britain,7665937]]'
+- '[[_Standards/WikiData/WD~Template_United_Kingdom_topics,8457352]]'
+- '[[_Standards/WikiData/WD~Template_United_Kingdom_infobox,10730823]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_United_Kingdom,7112788]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_United_Kingdom,8253451]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~monarch_of_the_United_Kingdom,9134365]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+named_after: '[[_Standards/WikiData/WD~union,17853087]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828650,22828650]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32670711,32670711]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]'
 Gregorian_calendar_start_date: 1752-09-14
 coordinates_of_northernmost_point: Point(-0.87 60.87)
 Baidu_Tieba_name: 英国
 short_name:
-  - ꠁꠃꠇꠦ
-  - ব্রিটেন
-  - Vereinigtes Königreich
-  - ΗΒ
-  - Britain
-  - Ir-Renju Unit
-  - Regatul Unit
-  - Соединённое Королевство
-  - Storbritannien
-  - Велика Британія
-  - 🇬🇧
-  - Britain
-  - United Kingdom
-  - Великобритания
+- ꠁꠃꠇꠦ
+- ব্রিটেন
+- Vereinigtes Königreich
+- ΗΒ
+- Britain
+- Ir-Renju Unit
+- Regatul Unit
+- Соединённое Королевство
+- Storbritannien
+- Велика Британія
+- "\U0001F1EC\U0001F1E7"
+- Britain
+- United Kingdom
+- Великобритания
 IPA_transcription:
-  - zukt̪ɔ raizzɔ
-  - fɛɐ̯ˌʔaɪ̯nɪçtəs ˈkøːnɪçˌʁaɪ̯ç
-  - fɛɐ̯ˌʔaɪ̯nɪktəs ˈkøːnɪkˌʁaɪ̯ç
-  - jʊ̈nai̯tɘd kɪŋɡdə̯m
-  - vʲɛlka brɨtaɲa
-  - vʲɪlʲɪkəbrʲɪˈtanʲɪj
-  - ˈstuɾbɾɪtɑːnɪɑ
+- zukt̪ɔ raizzɔ
+- fɛɐ̯ˌʔaɪ̯nɪçtəs ˈkøːnɪçˌʁaɪ̯ç
+- fɛɐ̯ˌʔaɪ̯nɪktəs ˈkøːnɪkˌʁaɪ̯ç
+- jʊ̈nai̯tɘd kɪŋɡdə̯m
+- vʲɛlka brɨtaɲa
+- vʲɪlʲɪkəbrʲɪˈtanʲɪj
+- ˈstuɾbɾɪtɑːnɪɑ
 Provenio_UUID:
-  - fb0e9c21-05a7-4685-a430-1bdd5d64aab2
-  - 1e1ca283-d520-4f92-a279-43d71f92235b
+- fb0e9c21-05a7-4685-a430-1bdd5d64aab2
+- 1e1ca283-d520-4f92-a279-43d71f92235b
 demonym:
-  - بريطاني
-  - بريطانية
-  - بريطانيين
-  - بريطانيات
-  - Briotanach
-  - británica
-  - británicu
-  - brite
-  - Brite
-  - Βρετανή
-  - Βρετανός
-  - Briton
-  - brittiläinen
-  - isobritannialainen
-  - breti
-  - Britannique
-  - brit
-  - Orang Inggris
-  - britannica
-  - britanniche
-  - Wong Inggeris
-  - Anglaise
-  - بريطاني
-  - بريطانية
-  - بريطانيون
-  - Britové
-  - Britin
-  - británicos
-  - britit
-  - Breatannaich
-  - בריטית
-  - britannici
-  - イギリス人
-  - 英国人
-  - Британци
-  - Brytyjczycy
-  - britânicos
-  - британцы
-  - британці
-  - britàneghi
-  - britannico
-  - ब्रिटिश
-  - Brittaniku
-  - brite
-  - britse
-  - brite
-  - britanic
-  - britanică
-  - britanici
-  - британец
-  - британка
-  - britt
-  - brittisk
-  - британець
-  - британка
-  - britànega
-  - britàneghe
-  - britànego
-  - 英国人
-  - Anglais
-  - brittiska
-  - Brit
-  - בריטי
-  - Briton
-  - British
+- بريطاني
+- بريطانية
+- بريطانيين
+- بريطانيات
+- Briotanach
+- británica
+- británicu
+- brite
+- Brite
+- Βρετανή
+- Βρετανός
+- Briton
+- brittiläinen
+- isobritannialainen
+- breti
+- Britannique
+- brit
+- Orang Inggris
+- britannica
+- britanniche
+- Wong Inggeris
+- Anglaise
+- بريطاني
+- بريطانية
+- بريطانيون
+- Britové
+- Britin
+- británicos
+- britit
+- Breatannaich
+- בריטית
+- britannici
+- イギリス人
+- 英国人
+- Британци
+- Brytyjczycy
+- britânicos
+- британцы
+- британці
+- britàneghi
+- britannico
+- ब्रिटिश
+- Brittaniku
+- brite
+- britse
+- brite
+- britanic
+- britanică
+- britanici
+- британец
+- британка
+- britt
+- brittisk
+- британець
+- британка
+- britànega
+- britàneghe
+- britànego
+- 英国人
+- Anglais
+- brittiska
+- Brit
+- בריטי
+- Briton
+- British
 ISNI: 122483427
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20the%20United%20Kingdom%20%282022%2C%20variant%202%29.svg
 coordinates_of_westernmost_point: Point(-8.17751 54.46477)
 coordinates_of_southernmost_point: Point(-5.20697638 49.95673883)
 coordinates_of_easternmost_point: Point(1.76297307 52.48106832)
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_the_United_Kingdom,6063]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_the_United_Kingdom,11010]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Kingdom,14211]]"
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_the_United_Kingdom,6063]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_the_United_Kingdom,11010]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_the_United_Kingdom,14211]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Ireland,22890]]"
-  - "[[_Standards/WikiData/WD~Britain,23666]]"
-  - "[[_Standards/WikiData/WD~British_Isles,38272]]"
-culture: "[[_Standards/WikiData/WD~culture_of_the_United_Kingdom,32501]]"
+- '[[_Standards/WikiData/WD~Ireland,22890]]'
+- '[[_Standards/WikiData/WD~Britain,23666]]'
+- '[[_Standards/WikiData/WD~British_Isles,38272]]'
+culture: '[[_Standards/WikiData/WD~culture_of_the_United_Kingdom,32501]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Scotland,22]]"
-  - "[[_Standards/WikiData/WD~England,21]]"
-  - "[[_Standards/WikiData/WD~Northern_Ireland,26]]"
-shares_border_with: "[[_Standards/WikiData/WD~Ireland,27]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-capital: "[[_Standards/WikiData/WD~London,84]]"
+- '[[_Standards/WikiData/WD~Scotland,22]]'
+- '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~Northern_Ireland,26]]'
+shares_border_with: '[[_Standards/WikiData/WD~Ireland,27]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+capital: '[[_Standards/WikiData/WD~London,84]]'
 VAT_rate:
-  - 0
-  - 20
-  - 5
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- 0
+- 20
+- 5
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 birth_rate:
-  - 10
-  - 10.1
-  - 10.7
+- 10
+- 10.1
+- 10.7
 compulsory_education_minimum_age_: 5
 unemployment_rate: 6
 death_rate:
-  - 9
-  - 9.1
-  - 9.7
-  - 10.1
+- 9
+- 9.1
+- 9.7
+- 10.1
 age_of_consent: 16
 compulsory_education_maximum_age_: 18
 age_of_majority: 18
@@ -388,32 +658,32 @@ Happy_Planet_Index_score: 56
 suicide_rate: 6.9
 Inequality_adjusted_Human_Development_Index: 0.85
 total_fertility_rate: 1.83
-anthem: "[[_Standards/WikiData/WD~God_Save_the_King,40807]]"
+anthem: '[[_Standards/WikiData/WD~God_Save_the_King,40807]]'
 Krugosvet_article: Earth_sciences/geografiya/SOEDINENNOE_KOROLEVSTVO_VELIKOBRITANII_I_SEVERNO_IRLANDII.html
 Wolfram_Language_entity_code: Entity["Country", "UnitedKingdom"]
 Wikitribune_category: europe/united-kingdom
-Unicode_character: 🇬🇧
+Unicode_character: "\U0001F1EC\U0001F1E7"
 ISO_3166_2_code: GB-UKM
 Libris_URI: jgvxx4n24nx12bv
 GSS_code_2011_: K02000001
 Pinterest_username: number10gov
 CIVICUS_Monitor_country_entry: united-kingdom
 GitHub_topic:
-  - united-kingdom
-  - uk
+- united-kingdom
+- uk
 subreddit:
-  - unitedkingdom
-  - casualuk
+- unitedkingdom
+- casualuk
 hashtag:
-  - UnitedKingdom
-  - uk
+- UnitedKingdom
+- uk
 MeSH_tree_code: Z01.542.363
 native_label: United Kingdom of Great Britain and Northern Ireland
 rural_population:
-  - 10576752
-  - 10622327
-  - 10798066
-  - 10926403
+- 10576752
+- 10622327
+- 10798066
+- 10926403
 country_calling_code: 44
 official_name: United Kingdom of Great Britain and Northern Ireland
 geoshape: http://commons.wikimedia.org/data/main/Data:United+Kingdom.map
@@ -431,47 +701,47 @@ relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Uk%20top
 Stack_Exchange_tag: https://travel.stackexchange.com/tags/uk
 official_website: https://www.gov.uk/
 BHCL_UUID:
-  - 07d2d2b9-6788-4e6f-b7ae-d287bd74eb33
-  - 152d7ec0-7a24-4ae0-9822-2ff4d82145a8
+- 07d2d2b9-6788-4e6f-b7ae-d287bd74eb33
+- 152d7ec0-7a24-4ae0-9822-2ff4d82145a8
 Dewey_Decimal_Classification: 2--41
 WOEID: 23424975
 motto_text: Dieu et mon droit
 male_population:
-  - 33000535
-  - 33112733
-  - 33133126
-  - 33499858
+- 33000535
+- 33112733
+- 33133126
+- 33499858
 female_population:
-  - 33835792
-  - 33913559
-  - 33948108
-  - 34291141
+- 33835792
+- 33913559
+- 33948108
+- 34291141
 coordinate_location: Point(-2.0 54.6)
 nominal_GDP:
-  - 3122480345925
-  - 3070667732359
+- 3122480345925
+- 3070667732359
 inception: 1927-04-12
 has_time_started: 1927-04-12
 urban_population:
-  - 55909924
-  - 56283168
-  - 56403965
-  - 57214248
+- 55909924
+- 56283168
+- 56403965
+- 57214248
 population: 67326569
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
 Gini_coefficient: 32.8
-head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
+head_of_state: '[[_Standards/WikiData/WD~Charles_III,43274]]'
 trunk_prefix: 0
 Democracy_Index: 8.54
 Human_Development_Index: 0.929
 maritime_identification_digits:
-  - 234
-  - 235
-  - 232
-  - 233
+- 234
+- 235
+- 232
+- 233
 mobile_country_code:
-  - 234
-  - 235
+- 234
+- 235
 ITU_letter_code: G
 aircraft_registration_prefix: G
 UIC_numerical_country_code: 70
@@ -504,46 +774,397 @@ dv_ISO2: GB
 dv_ISO3: GBR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]"
+  - '[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]'
 dv_has_:
+  image_for_:
+    flag: '[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
+    coat_of_arms: '[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
   name_:
+    ab: Британиаду
+    ace: Keurajeuën Inggréh
+    acm: المملكة المتحدة
+    ady: Британиешхо Пачъыхьыгъо
+    aeb-arab: المملكة الموحّدة
+    af: Verenigde Koninkryk
+    am: ዩናይትድ ኪንግደም
+    ami: United kingdom
+    an: Reino Unito
+    ang: Geāned Cynerīce
+    ann: Ama-ubọọn̄ Mgbambọp
+    anp: यूनाइटेड किंगडम
+    ar: المملكة المتحدة
+    arc: ܡܠܟܘܬܐ ܡܚܝܕܬܐ
+    ary: لمملكة لمتاحدة
+    arz: المملكه المتحده
+    as: যুক্তৰাজ্য
+    ast: Reinu Xuníu
+    av: КІудабритІания
+    avk: Tanaragazaxo
+    awa: यूनाइटेड किंगडम
+    az: Birləşmiş Krallıq
+    azb: بؤیوک بریتانیا
+    ba: Бөйөк Британия
+    ban: Britania Agung
+    bar: Vaeinigts Kinireich
+    bbc: Britania Godang
+    bcl: Reyno Unido
+    be: Вялікабрытанія
+    be-tarask: Вялікабрытанія
+    bew: Kerajaan Rempug
+    bg: Обединено кралство Великобритания и Северна Ирландия
+    bho: यूनाइटेड किंगडम
+    bi: Yunaeted Kingdom
+    bjn: Britania Raya
+    blk: ယူနုဲက်တဲတ်ကိင်းဒန်းခမ်းထီ
+    bm: Bonba Britania
+    bn: যুক্তরাজ্য
+    bo: དབྱིན་ཇི་མཉམ་འབྲེལ།
+    bpy: তিলপারাজ্য
+    br: Rouantelezh-Unanet
+    bs: Ujedinjeno Kraljevstvo
+    btm: Britania Raya
+    bug: United Kingdom
+    bxr: Нэгэдэһэн хаанта улас
+    ca: Regne Unit
+    cbk-zam: Reinos Unidos
+    cdo: Ĭng-guók
+    ce: Йоккха Британи
+    ceb: Hiniusang Gingharian
+    ch: Reinu Unidu
+    chr: ᎡᎵᏏᎯ
+    chy: United Kingdom
+    ckb: شانشینی یەکگرتوو
+    co: Regnu Unitu
+    crh: Büyük Britaniya
+    crh-latn: Büyük Britaniya
+    cs: Spojené království
+    csb: Wiôlgô Britanijô
+    cu: Вєлика Британїꙗ
+    cv: Аслă Британи
+    cy: y Deyrnas Unedig
+    da: Storbritannien
+    dag: United Kingdom
+    de: Vereinigtes Königreich
+    de-at: Vereinigtes Königreich
+    de-ch: Vereinigtes Königreich
+    din: Amatnhom Mäcŋaknhom
+    diq: Qraliya Yewbiyayiye
+    dsb: Zjadnośone kralojstwo
+    dtp: United Kingdom
+    dty: संयुक्त अधिराज्य
+    dv: ޔުނައިޓެޑް ކިންގްޑަމް
+    dz: ཡུ་ནའི་ཊེཊ་ཀིང་ཌམ
+    ee: United Kingdom
+    el: Ηνωμένο Βασίλειο
+    eml: Régn Unî
+    en: United Kingdom
+    en-ca: United Kingdom
+    en-gb: United Kingdom
+    en-us: United Kingdom
+    eo: Unuiĝinta Reĝlando
+    es: Reino Unido
+    et: Suurbritannia
+    eu: Erresuma Batua
+    ext: Réinu Uniu
+    fa: بریتانیا
+    ff: Biritaani-Mawndi
+    fi: Yhdistynyt kuningaskunta
+    fj: Matanitu Cokovata
+    fo: Stóra Bretland
+    fr: Royaume-Uni
+    frp: Royômo-Uni
+    frr: Ferianigt Köningrik
+    fur: Ream Unît
+    fy: Feriene Keninkryk
+    ga: an Ríocht Aontaithe
+    gag: Büük Britaniya
+    gan: 英國
+    gcr: Rwéyonm-Ini
+    gd: Rìoghachd Aonaichte
+    gl: Reino Unido
+    glk: بريتانيا
+    gn: Tetã Joaju
+    gom: युनायटेड किंगडम
+    gom-deva: युनायटेड किंगडम
+    gom-latn: United Kingdom
+    gpe: United Kingdom
+    grc: Ἡνωμένον Βασίλειον
+    gsw: Grossbritannien und Nordirland
+    gu: યુનાઇટેડ કિંગડમ
+    gv: Reeriaght Unnaneysit
+    ha: Birtaniya
+    hak: Yîn-koet
+    haw: Aupuni Mōʻī Hui Pū ʻia
+    he: הממלכה המאוחדת
+    hi: यूनाइटेड किंगडम
+    hif: United Kingdom
+    hil: Ginharian Tingob
+    hr: Ujedinjeno Kraljevstvo
+    hsb: Zjednoćene kralestwo
+    ht: Wayòm Ini
+    hu: Egyesült Királyság
+    hy: Միացյալ Թագավորություն
+    hyw: Միացեալ Թագաւորութիւն
+    ia: Regno Unite
+    iba: United Kingdom
+    id: Britania Raya
+    ie: Reyatu Unit
+    ig: Obodoézè Nà Ofú
+    ik: Tannapta Umialgutia
+    ilo: Nagkaykaysa a Pagarian
+    inh: Великобритани
+    io: Unionita Rejio
+    is: Bretland
+    it: Regno Unito
+    iu: ᑐᓗᐃᑦ ᓄᓈᑦ
+    ja: イギリス
+    jam: Yunaitid Kindom
+    jbo: ritygu'e
+    jv: Karajan Manunggal
+    ka: გაერთიანებული სამეფო
+    kaa: Ullı Britaniya
+    kab: Tagelda Yedduklen
+    kbd: Британиэшхуэ
+    kbp: Kewiyaɣ Kɩkpɛndaɣ
+    kcg: Muna̱pyia̱ A̱byintyok
+    kea: Reinu Unidu
+    kg: Royaume-Uni
+    kge: Britania Raya
+    ki: United Kingdom (UK)
+    kk: Ұлыбритания
+    kl: Tuluit Nunaat
+    km: សហរាជាណាចក្រ
+    kn: ಯುನೈಟೆಡ್ ಕಿಂಗ್ ಡಂ
+    knc: United Kingdom
+    ko: 영국
+    koi: Ыджыт Бритму
+    krc: Уллу Британия
+    krj: Ginharian Tingëb
+    ks: یونایٹِڑ کِنگڈَم
+    ksh: Jrußbritannie
+    ku: Keyaniya Yekbûyî
+    ku-arab: کەیانیا یەکبوویی
+    kv: Ыджыд Британия
+    kw: Ruvaneth Unys
+    ky: Улуу Британия
+    la: Britanniarum Regnum
+    lad: Reyno Unido
+    lb: Vereenegt Kinnekräich
+    lez: ЧӀехибритания
+    lfn: Rena Unida
+    lg: Great Britain
+    li: Vereineg Keuninkriek
+    lij: Régno Unîo
+    liv: Sūr Britanij
+    lld: Riam Unì
+    lmo: Regn Unid
+    ln: Ingɛlɛ́tɛlɛ
+    lo: ສະຫະລາຊະອານາຈັກ
+    lrc: بریتانیا گپ
+    lt: Jungtinė Karalystė
+    ltg: Saškiersta kieneste
+    lv: Apvienotā Karaliste
+    lzh: 英國
+    mad: Britania Raya
+    mag: सञ्जुक्त राजतन्त्र
+    mai: संयुक्त अधिराज्य
+    map-bms: Britania Raya
+    mdf: Оцю Британия
+    mg: Fanjakana Mitambatra
+    mhr: Ушымо Королевстве
+    mi: Kīngitanga Kotahi
+    min: Baritania Rayo
+    mk: Обединето Кралство
+    ml: യുണൈറ്റഡ് കിങ്ഡം
+    mn: Нэгдсэн Вант Улс
+    mni: ꯌꯨꯅꯥꯢꯇꯦꯗ ꯀꯤꯡꯗꯝ
+    mnw: သဟရာဇအာဏာစကြ
+    mos: United Kingdom
+    mr: युनायटेड किंग्डम
+    mrj: Кого Британи
+    ms: United Kingdom
+    ms-arab: يونايتيد کيڠدم
+    mt: Renju Unit
+    mwl: Reino Ounido
+    my: ယူနိုက်တက် ကင်းဒမ်း
+    myv: Инебритания Мастор
+    mzn: بریتانیا
+    na: Ingerand
+    nah: Sentik Weyitlahtohkayotl
+    nan: Liân-ha̍p Ông-kok
+    nap: Gran Vretagna
+    nb: Storbritannia
+    nds: Vereenigt Königriek
+    nds-nl: Verienigd Keuninkriek
+    ne: संयुक्त अधिराज्य
+    new: संयुक्त अधिराज्य
+    nl: Verenigd Koninkrijk
+    nn: Storbritannia
+    nov: Unionati Regia
+    nqo: ߡߊ߲߬ߛߊ߬ߟߊ߫ ߘߍ߬ߣߍ߲
+    nrm: Rouoyaume Unni
+    nso: United Kingdom
+    nv: Tótaʼ Dineʼé Bikéyah
+    ny: United Kingdom
+    oc: Reialme Unit
+    olo: Yhtistynnyh kuningaskundu
+    om: Yunaayitid Kingidem
+    or: ଯୁକ୍ତରାଜ୍ୟ
+    os: Стыр Британи
+    pa: ਯੂਨਾਈਟਡ ਕਿੰਗਡਮ
+    pag: Ari na Unido
+    pam: Pisanmetung a Ka-arian
+    pap: Reino Uni
+    pcd: Roéyôme-Uni
+    pcm: UK
+    pdc: Vereenichde Keenichreich
+    pfl: Vereinigtes Königreich
+    pih: Yunitid Kingdum
+    pl: Wielka Brytania
+    pms: Regn Unì
+    pnb: برطانیا
+    pnt: Ηνωμένο Βασίλειο
+    ps: برېتانيا
+    pt: Reino Unido
+    pt-br: Reino Unido
+    qu: Hukllachasqa Qhapaq Suyu
+    rm: Reginavel Unì
+    rmy: Phandlo Thagaripen
+    rn: Ubwongereza
+    ro: Regatul Unit
+    roa-tara: Regne Aunìte
+    ru: Великобритания
+    rue: Велика Брітанія
+    rup: Britania Mari
+    rw: Ubwongereza
+    sa: संयुक्त अधिराज्य
+    sah: Холбоhуктаах Хоруоллук
+    sat: ᱥᱮᱞᱮᱫ ᱫᱤᱥᱚᱢ
+    sc: Rennu Auniadu
+    scn: Regnu Unitu
+    sco: Unitit Kinrick
+    sd: گڏيل بادشاھت
+    se: Ovttastuvvan gonagasriika
+    sgs: Jongtėnė Karalīstė
+    sh: Ujedinjeno Kraljevstvo
+    sh-cyrl: Уједињено Краљевство
+    shi: Briṭanya
+    shn: မိူင်းဢင်းၵိတ်ႉ
+    si: එක්සත් රාජධානිය
+    sk: Spojené kráľovstvo
+    skr: برطانیہ
+    sl: Združeno kraljestvo
+    sm: Peretania
+    sma: Stoerebritannia
+    smn: Ovtâstum kunâgâskodde
+    sms: Õhttõõvvâm koonǥõskåʹdd
+    sn: United Kingdom
+    so: Midowga boqortooyada Britan
+    sq: Britania e Madhe
+    sr: Уједињено Краљевство
+    sr-ec: Уједињено Краљевство
+    sr-el: Ujedinjeno Kraljevstvo
+    srn: Ingriskondre
+    ss: United Kingdom
+    st: United Kingdom
+    stq: Fereeniged Köönichriek
+    su: Britania Raya
+    sv: Storbritannien
+    sw: Ufalme wa Muungano
+    syl: ꠎꠥꠇ꠆ꠔꠅ ꠞꠣꠁꠎ꠆ꠎ
+    szl: Wielgŏ Brytanijŏ
+    szy: United kingdom
+    ta: ஐக்கிய இராச்சியம்
+    tay: United kingdom
+    tcy: ಯುನೈಟೆಡ್ ಕಿಂಗ್ಡಮ್
+    te: యునైటెడ్ కింగ్డమ్
+    tet: Reinu Naklibur
+    tg: Бритониёи Кабир
+    tg-cyrl: Британияи Кабир
+    th: สหราชอาณาจักร
+    tk: Birleşen Patyşalyk
+    tl: United Kingdom
+    tly: Dyždə Britanijə
+    tn: United Kingdom
+    to: Pilitānia
+    tok: ma Juke
+    tpi: Yunaitet Kingdom
+    tr: Birleşik Krallık
+    trv: United Kingdom
+    ts: United Kingdom
+    tt: Бөекбритания
+    tt-cyrl: Бөекбритания
+    tt-latn: Böyekbritaniä
+    tum: Ufumu Ubanyi
+    tw: United Kingdom
+    ty: Paratāne
+    udm: Великобритания
+    ug: بۈيۈك بېرىتانىيە
+    uk: Сполучене Королівство
+    ur: مملکت متحدہ
+    uz: Birlashgan Qirollik
+    vec: Regno Unio
+    vep: Sur' Britanii
+    vi: Vương quốc Liên hiệp Anh và Bắc Ireland
+    vls: Verênigd Keunienkryk
+    vo: Regän Pebalöl
+    vro: Ütiskuningriik
+    wa: Grande Burtaegne
+    war: Reino Unido
+    wo: Nguur-Yu-Bennoo
+    wuu: 英国
+    xal: Ик Бритишин болн Ар Гәәлгүдин Ниицәтә Нутг
+    xh: Iunited kingdom
+    xmf: გოართოიანაფილი ომაფე
+    yi: פאראייניגטע קעניגרייך
+    yo: Ilẹ̀ọba Aṣọ̀kan
+    yue: 英國
+    za: Yinghgoz
+    zea: Vereênigd Konienkriek
+    zgh: ⵜⴰⴳⵍⴷⵉⵜ ⵉⵎⵓⵏⵏ
+    zh: 英国
+    zh-cn: 英国
+    zh-hans: 英国
+    zh-hant: 英國
+    zh-hk: 英國
+    zh-mo: 英國
+    zh-my: 英国
+    zh-sg: 英国
+    zh-tw: 英國
+    zu: Umbuso Ohlangeneyo
+  sound_of_:
+    anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
-  image_for_:
-    flag: "![[./UK/Flag_of_the_United_Kingdom.svg|200]] ![](./UK/Flag_of_the_United_Kingdom.svg)"
-    coat_of_arms: "![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./UK/Coat_of_Arms_of_the_United_Kingdom.svg)"
-  sound_of_:
-    anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]"
 dv_Area-Total: 241752
 dv_Area-Land: 241600
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: GB
 dv_Alcohol-l: 13.4
 dv_Language-Id: 499
 dv_has_place_longitude: -2.14482
 dv_has_place_latitude: 52.8829
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]"
+- '[[../../../../WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~North/UK|UK]]'
+- '[[/_public/Earth/Continent/Europe/Europe~North/UK.public|UK.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~North/UK.internal|UK.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~North/UK.protect|UK.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~North/UK.private|UK.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~North/UK.personal|UK.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~North/UK.secret|UK.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-United_Kingdom
-dv_has_image_for_flag: "![[./UK/Flag_of_the_United_Kingdom.svg|200]] ![](./UK/Flag_of_the_United_Kingdom.svg)"
-dv_has_image_for_coat_of_arms: "![[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|250]] ![](./UK/Coat_of_Arms_of_the_United_Kingdom.svg)"
-dv_has_sound_of_anthem: "![[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3]]"
+dv_has_image_for_flag: '[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
+dv_has_image_for_coat_of_arms: '[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
+dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
 ---
-
 # [[UK]] 
 
 
@@ -629,7 +1250,7 @@ Major Cities with Population in 1000s as of @2020
 
 ### #has_/image_for_/flag 
 
-has_image_for_flag = `=this.dv_has_image_for_flag`
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
 ## #has_/text_of_/abstract  
 
@@ -709,11 +1330,11 @@ has_image_for_flag = `=this.dv_has_image_for_flag`
 
 ### #has_/image_for_/coat_of_arms 
 
-has_image_for_coat_of_arms = `=this.dv_has_image_for_coat_of_arms`
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
 
-has_sound_of_anthem = `=this.dv_has_sound_of_anthem`
-🔐β 💡asd💡IBqnYJ2+defFQmt6rrJXhfKTu9UhnRlevc8eoYuwpvFdiGmDVfq1O1MKYejtMT6AT/zJ5xjdZw== 🔐
+has_sound_of_anthem = `=embed(this.dv_has_sound_of_anthem)`
+
 ```audio-player
 [[Anthem-United-kingdom.mp3]]```
 00:00:11 --- God save our gracious King

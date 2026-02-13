@@ -1,25 +1,51 @@
 ---
-has_time_started: 1971-02-04 
+has_time_started: 1971-02-04
 aliases:
-  - National Association of Securities Dealers Automated Quotations
-  - Nasdaq
+- Nasdaq
+- NASDAQ биржасы
+- National Association of Securities Dealers Automated Quotations
+- Биржаи фондии NASDAQ
+- Насдак
+- ՆԱՍԴԱՔ
+- נאסד"ק
+- بورصة نازداك
+- نازداک
+- ناسداك
+- نزدک
+- نزډاک
+- نیزڈیک
+- ߣߊߛߑߘߊߞ
+- नॅसडॅक
+- नैस्डैक
+- न्याजड्याक
+- ন্যাসড্যাক
+- ਨੈਸਡੈਕ
+- நாஸ்டாக்
+- నాస్డాక్
+- ನಾಸ್ಡಾಕ್ ಸ್ಟಾಕ್ ಮಾರ್ಕೆಟ್
+- നാസ്ഡാക്
+- แนสแด็ก
+- 納斯達克
+- 纳斯达克
+- 那斯達克
+- 나스닥
 has_id_wikidata: Q82059
 regulated_by: '[[_Standards/WikiData/WD~Financial_Industry_Regulatory_Authority,387071]]'
 industry: '[[_Standards/WikiData/WD~financial_services,837171]]'
 headquarters_location:
-  - '[[_Standards/WikiData/WD~One_Liberty_Plaza,1144187]]'
-  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~One_Liberty_Plaza,1144187]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
 parent_organization_or_unit: '[[_Standards/WikiData/WD~Nasdaq,_Inc.,1472929]]'
 operator: '[[_Standards/WikiData/WD~Nasdaq,_Inc.,1472929]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_NASDAQ,5922253]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Adena_Friedman,17003309]]'
 legal_form: '[[_Standards/WikiData/WD~stock_exchange,11691]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~stock_exchange,11691]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~stock_exchange,11691]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
 country:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_York_City,60]]'
 market_capitalization: 17250000000000
 social_media_followers: 756432
@@ -31,15 +57,124 @@ ISNI: 0000000123004002
 Instagram_username: nasdaq
 catalog_code: nasdaq
 X_Twitter_username:
-  - Nasdaq
-  - NASDAQ
+- Nasdaq
+- NASDAQ
 Facebook_username: NASDAQ
 Commons_category: NASDAQ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CreditRich%20Nasdaq%20Tower%20NYC.jpg
 domain_name: nasdaq.com
 MIC_market_code: XNAS
+dv_has_:
+  name_:
+    af: NASDAQ
+    ar: ناسداك
+    arz: بورصة نازداك
+    ast: NASDAQ
+    az: NASDAQ
+    ba: Nasdaq
+    bar: NASDAQ
+    be: NASDAQ
+    be-tarask: NASDAQ
+    bg: NASDAQ
+    bn: ন্যাসড্যাক
+    bs: NASDAQ
+    ca: NASDAQ
+    ceb: Nasdaq
+    ckb: نازداک
+    cs: NASDAQ
+    cy: NASDAQ
+    da: NASDAQ
+    de: NASDAQ
+    de-ch: NASDAQ
+    diq: NASDAQ
+    el: NASDAQ
+    en: Nasdaq
+    en-ca: NASDAQ
+    en-gb: NASDAQ
+    eo: NASDAQ
+    es: NASDAQ
+    et: NASDAQ
+    eu: NASDAQ
+    fa: نزدک
+    fi: NASDAQ
+    fr: NASDAQ
+    ga: NASDAQ
+    gl: NASDAQ
+    he: נאסד"ק
+    hi: नैस्डैक
+    hr: NASDAQ
+    hu: NASDAQ
+    hy: ՆԱՍԴԱՔ
+    id: NASDAQ
+    is: NASDAQ
+    it: NASDAQ
+    ja: NASDAQ
+    jv: NASDAQ
+    ka: NASDAQ
+    kk: NASDAQ
+    kn: ನಾಸ್ಡಾಕ್ ಸ್ಟಾಕ್ ಮಾರ್ಕೆಟ್
+    ko: 나스닥
+    ky: NASDAQ биржасы
+    la: NASDAQ
+    lt: NASDAQ
+    lv: NASDAQ
+    min: NASDAQ
+    mk: NASDAQ
+    ml: നാസ്ഡാക്
+    mr: नॅसडॅक
+    ms: NASDAQ
+    mul: Nasdaq
+    my: NASDAQ
+    nan: NASDAQ
+    nb: NASDAQ
+    ne: न्याजड्याक
+    nl: NASDAQ
+    nn: NASDAQ
+    nqo: ߣߊߛߑߘߊߞ
+    oc: Nasdaq
+    pa: ਨੈਸਡੈਕ
+    pap: NASDAQ
+    pl: NASDAQ
+    ps: نزډاک
+    pt: NASDAQ
+    pt-br: NASDAQ
+    ro: Nasdaq
+    ru: Nasdaq
+    sah: NASDAQ
+    scn: NASDAQ
+    sco: NASDAQ
+    sh: NASDAQ
+    sk: NASDAQ
+    sl: NASDAQ
+    sr: Насдак
+    sr-ec: Nasdaq
+    su: NASDAQ
+    sv: NASDAQ
+    ta: நாஸ்டாக்
+    te: నాస్డాక్
+    tg: Биржаи фондии NASDAQ
+    th: แนสแด็ก
+    tk: NASDAQ
+    tl: NASDAQ
+    tr: NASDAQ
+    tt: NASDAQ
+    tt-cyrl: NASDAQ
+    ug: ناسداك
+    uk: Nasdaq
+    ur: نیزڈیک
+    uz: Nasdaq
+    vi: NASDAQ
+    war: NASDAQ
+    wuu: 纳斯达克
+    xmf: NASDAQ
+    yue: 納斯達克
+    zh: 纳斯达克
+    zh-cn: 纳斯达克
+    zh-hans: 纳斯达克
+    zh-hant: 納斯達克
+    zh-hk: 納斯達克
+    zh-tw: 那斯達克
 ---
-
 # [[Nasdaq]] 
 
 #is_/same_as :: [[WD~Nasdaq,82059]] 

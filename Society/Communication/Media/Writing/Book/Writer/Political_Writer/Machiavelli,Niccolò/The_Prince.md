@@ -1,14 +1,76 @@
 ---
-has_time_started: 1513-01-01 
+has_time_started: 1513-01-01
 aliases:
-  - The_Prince
-  - The Prince
-  - Il Principe
-  - De Principatibus
+- A fejedelem
+- An Prionsa
+- Ang Prinsipe
+- De Principatibus
+- De principe
+- De vorst
+- Der Fürst
+- El Príncep
+- El Príncipe
+- Fursten
+- Furstinn
+- Fyrsten
+- Il Principe
+- Książę
+- La Princo
+- Le Prince
+- Lo Prince
+- Lu Prìncipi
+- Mîr
+- O Príncipe
+- Prens
+- Prens la
+- Principele
+- Printzea
+- Quân Vương
+- Ruhtinas
+- Sang Pangeran
+- Sang Penguasa
+- The Prince
+- The_Prince
+- Valdnieks
+- Valdovas
+- Valitseja
+- Vladalac
+- Vladar
+- Vladař
+- Vladár
+- Şahzadə
+- Ο Ηγεμόνας
+- Владалац
+- Владетелот
+- Владетелят
+- Государь
+- Державець
+- Патша
+- Уладар
+- Տիրակալը
+- הנסיך
+- الأمير
+- دی پرنس
+- شهریار
+- لمير
+- میر
+- द प्रिंस
+- द प्रिन्स
+- मैकियावेली
+- দ্য প্রিন্স
+- ਦ ਪ੍ਰਿੰਸ
+- த பிரின்ஸ்
+- ദ പ്രിൻസ്
+- เจ้าผู้ปกครอง
+- მთავარი (მაკიაველი)
+- 君主論
+- 君主论
+- 君王論
+- 군주론
 has_id_wikidata: Q131719
 country_of_origin:
-  - '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 depicts: '[[_Standards/WikiData/WD~just_war_theory,847198]]'
 followed_by: '[[_Standards/WikiData/WD~Discourses_on_Livy,924424]]'
 described_by_source: '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
@@ -16,23 +78,23 @@ has_part_s_: '[[_Standards/WikiData/WD~Description_of_the_Manner_in_which_Duke_V
 instance_of: '[[_Standards/WikiData/WD~literary_work,7725634]]'
 different_from: '[[_Standards/WikiData/WD~Książę,11750409]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Il_Principe,_Italia,_1814,18647256]]'
-  - '[[_Standards/WikiData/WD~El_Príncipe_de_Maquiavelo,65009365]]'
-  - '[[_Standards/WikiData/WD~The_Prince,96357525]]'
-  - '[[_Standards/WikiData/WD~The_Prince,96357533]]'
-  - '[[_Standards/WikiData/WD~Le_Prince,106613257]]'
-  - '[[_Standards/WikiData/WD~Q110086688,110086688]]'
-  - '[[_Standards/WikiData/WD~Q110086751,110086751]]'
-  - '[[_Standards/WikiData/WD~Q111382822,111382822]]'
-  - '[[_Standards/WikiData/WD~Q119789533,119789533]]'
-  - '[[_Standards/WikiData/WD~The_Prince,123486106]]'
-  - '[[_Standards/WikiData/WD~Q131427628,131427628]]'
-  - '[[_Standards/WikiData/WD~The_prince,135405125]]'
+- '[[_Standards/WikiData/WD~Il_Principe,_Italia,_1814,18647256]]'
+- '[[_Standards/WikiData/WD~El_Príncipe_de_Maquiavelo,65009365]]'
+- '[[_Standards/WikiData/WD~The_Prince,96357525]]'
+- '[[_Standards/WikiData/WD~The_Prince,96357533]]'
+- '[[_Standards/WikiData/WD~Le_Prince,106613257]]'
+- '[[_Standards/WikiData/WD~Q110086688,110086688]]'
+- '[[_Standards/WikiData/WD~Q110086751,110086751]]'
+- '[[_Standards/WikiData/WD~Q111382822,111382822]]'
+- '[[_Standards/WikiData/WD~Q119789533,119789533]]'
+- '[[_Standards/WikiData/WD~The_Prince,123486106]]'
+- '[[_Standards/WikiData/WD~Q131427628,131427628]]'
+- '[[_Standards/WikiData/WD~The_prince,135405125]]'
 language_of_work_or_name: '[[_Standards/WikiData/WD~Italian,652]]'
 author: '[[_Standards/WikiData/WD~Niccolò_Machiavelli,1399]]'
 main_subject:
-  - '[[_Standards/WikiData/WD~politics,7163]]'
-  - '[[_Standards/WikiData/WD~political_science,36442]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~political_science,36442]]'
 copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 genre: '[[_Standards/WikiData/WD~essay,35760]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Machiavelli%20Principe%20Cover%20Page.jpg
@@ -41,8 +103,102 @@ Commons_category: Il Principe
 title: Il principe
 publication_date: 1532-01-01T00:00:00Z
 inception: 1513-01-01T00:00:00Z
+dv_has_:
+  name_:
+    anp: मैकियावेली
+    ar: الأمير
+    ary: لمير
+    ast: El Príncipe
+    awa: द प्रिन्स
+    az: Şahzadə
+    be: Уладар
+    be-tarask: Уладар
+    bg: Владетелят
+    bn: দ্য প্রিন্স
+    bs: Vladar
+    ca: El Príncep
+    ckb: میر
+    cs: Vladař
+    cv: Патша
+    cy: Il Principe
+    da: Fyrsten
+    de: Der Fürst
+    de-ch: Der Fürst
+    el: Ο Ηγεμόνας
+    en: The Prince
+    en-ca: The Prince
+    en-gb: The Prince
+    en-us: The Prince
+    eo: La Princo
+    es: El Príncipe
+    et: Valitseja
+    eu: Printzea
+    fa: شهریار
+    fi: Ruhtinas
+    fr: Le Prince
+    frp: Lo Prince
+    ga: An Prionsa
+    gl: O príncipe
+    gsw: Der Fürst
+    he: הנסיך
+    hi: द प्रिंस
+    hr: Vladar
+    ht: Prens la
+    hu: A fejedelem
+    hy: Տիրակալը
+    id: Sang Penguasa
+    is: Furstinn
+    it: Il principe
+    ja: 君主論
+    jv: Il Principe
+    ka: მთავარი (მაკიაველი)
+    ko: 군주론
+    ku: Mîr
+    ku-arab: میر
+    ku-latn: Mîr
+    la: De principe
+    lt: Valdovas
+    lv: Valdnieks
+    min: Sang Pangeran
+    mk: Владетелот
+    ml: ദ പ്രിൻസ്
+    ms: Sang Penguasa
+    nb: Fyrsten
+    nl: De vorst
+    nn: Fyrsten
+    oc: Lo Prince
+    pa: ਦ ਪ੍ਰਿੰਸ
+    pl: Książę
+    pt: O Príncipe
+    pt-br: O Príncipe
+    ro: Principele
+    ru: Государь
+    scn: Lu Prìncipi
+    sco: The Prince
+    sh: Il Principe
+    sk: Vladár
+    sl: Vladar
+    sr: Владалац
+    sr-ec: Владалац
+    sr-el: Vladalac
+    sv: Fursten
+    ta: த பிரின்ஸ்
+    th: เจ้าผู้ปกครอง
+    tl: Ang Prinsipe
+    tr: Prens
+    uk: Державець
+    ur: دی پرنس
+    vi: Quân Vương
+    wuu: 君主论
+    yue: 君王論
+    zh: 君主论
+    zh-cn: 君主论
+    zh-hans: 君主论
+    zh-hant: 君主論
+    zh-hk: 君主論
+    zh-sg: 君主论
+    zh-tw: 君主論
 ---
-
 # [[The_Prince]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~The_Prince,131719|WD~The_Prince,131719]]  

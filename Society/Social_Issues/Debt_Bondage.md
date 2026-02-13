@@ -1,22 +1,96 @@
 ---
 aliases:
-  - Debt bondage
-  - debt slavery
-  - bonded labour
-  - peonage
-  - Debt_Bondage
-  - Debt Bondage
+- adósrabszolgaság
+- bonded labour
+- borç esareti
+- Debt bondage
+- debt slavery
+- Debt_Bondage
+- dlužní otroctví
+- dolžniško suženjstvo
+- dužničko ropstvo
+- esclavitud per deutes
+- escravidão por dívida
+- escravitude por débedas
+- Kvazaŭsklavigo pro ŝuldoj
+- Pekerjaan utang
+- peonage
+- Perhambaan hutang
+- Schuldchnächtschaft
+- Schuldknechtschaft
+- schuldslavernij
+- servidumbre por deudas
+- servitude pour dettes
+- skuldslaveri
+- Velkaorjuus
+- Võlaorjus
+- Ìsìnrú gbèsè
+- должничко ропство
+- Кабала (зависимость)
+- עבדות חוב
+- العمل لرد الدين
+- بردگی بدهی
+- بندھوا مزدوری
+- कमलरी
+- बँधुआ मज़दूर
+- ਬੰਧੂਆ ਮਜ਼ਦੂਰੀ
+- கொத்தடிமை முறை
+- వెట్టి చాకిరి
+- 债役
+- 債務奴
+- 役身折酬
+- 부채 속박
 has_id_wikidata: Q2165988
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 significant_event: '[[_Standards/WikiData/WD~colonial_history_of_the_United_States,1055643]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~contemporary_slavery,3369955]]'
-  - '[[_Standards/WikiData/WD~slavery,8463]]'
+- '[[_Standards/WikiData/WD~contemporary_slavery,3369955]]'
+- '[[_Standards/WikiData/WD~slavery,8463]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+dv_has_:
+  name_:
+    ar: العمل لرد الدين
+    ca: esclavitud per deutes
+    cs: dlužní otroctví
+    de: Schuldknechtschaft
+    en: debt bondage
+    eo: Kvazaŭsklavigo pro ŝuldoj
+    es: servidumbre por deudas
+    et: Võlaorjus
+    fa: بردگی بدهی
+    fi: Velkaorjuus
+    fr: servitude pour dettes
+    gl: escravitude por débedas
+    gsw: Schuldchnächtschaft
+    he: עבדות חוב
+    hi: बँधुआ मज़दूर
+    hr: dužničko ropstvo
+    hu: adósrabszolgaság
+    id: Pekerjaan utang
+    ja: 役身折酬
+    ko: 부채 속박
+    mk: должничко ропство
+    ms: Perhambaan hutang
+    ne: कमलरी
+    nl: schuldslavernij
+    pa: ਬੰਧੂਆ ਮਜ਼ਦੂਰੀ
+    pt: escravidão por dívida
+    pt-br: escravidão por dívida
+    ru: Кабала (зависимость)
+    sl: dolžniško suženjstvo
+    sv: skuldslaveri
+    ta: கொத்தடிமை முறை
+    te: వెట్టి చాకిరి
+    tr: borç esareti
+    ur: بندھوا مزدوری
+    yo: Ìsìnrú gbèsè
+    zh: 债役
+    zh-cn: 债役
+    zh-hans: 债役
+    zh-hant: 債務奴
 ---
-
 # [[Debt_Bondage]] 
 
 #is_/similar_to :: [[Serfdom]] 

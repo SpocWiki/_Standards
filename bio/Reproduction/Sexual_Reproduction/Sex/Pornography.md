@@ -1,28 +1,100 @@
 ---
 aliases:
-  - Pornographie
-  - porn or porno
-  - Pornography
+- aguamansɛm
+- Bididiba bidi bileja butaka bua bantu
+- Ihe na-akpali agụụ mmekọahụ
+- Izithombe ezincolile Zobulili
+- khiêu dâm
+- klám
+- Panno
+- Ponografia
+- porn
+- porn or porno
+- pornagrafaíocht
+- pornograafia
+- pornograffi
+- pornografi
+- pornografia
+- Pornografie
+- pornografieth
+- Pornografiezh
+- pornografii
+- pornografiija
+- pornografija
+- pornografije
+- pornografio
+- Pornografiya
+- Pornografiye
+- Pornografy
+- pornografía
+- Pornografî
+- Pornographia
+- Pornographie
+- Pornography
+- Pornograpiya
+- Pornograpėjė
+- pornográfia
+- pornogrāfija
+- Pornoqrafiya
+- pornugrafia
+- Pornugrafìa
+- Terbitan lucah
+- πορνογραφία
+- Блѫдопись
+- парнаграфія
+- порнографія
+- Порнографи
+- порнографија
+- порнография
+- Порноґрафія
+- պոռնոգրաֆիա
+- פארנאגראפיע
+- פורנוגרפיה
+- إباحية
+- بورنوجرافيا
+- فحش نگاری
+- پورنوګرافي
+- پورنوگرافی
+- پۆڕن
+- पोर्नोग्राफी
+- रतिचित्रण
+- পর্নোগ্রাফি
+- পৰ্ণ’গ্ৰাফি
+- ਅਸ਼ਲੀਲਤਾ
+- பாலுணர்வுக் கிளர்ச்சியம்
+- ಕಾಮಲೇಖನ
+- അശ്ലീലസാഹിത്യം
+- කාම ප් රකාශන
+- งานลามก
+- ໜັງໂປ້
+- ཆགས་སློང་རྩོམ་རིག
+- ညစ်ညမ်းရုပ်ပုံ
+- პორნოგრაფია
+- ᱯᱚᱨᱱᱚᱜᱽᱨᱟᱯᱷᱤ
+- ポルノグラフィ
+- 色情
+- 鹹濕
+- 포르노그래피
 has_id_wikidata: Q291
 different_from: '[[_Standards/WikiData/WD~erotica,181001]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pornopedia,1393730]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pornopedia,1393730]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 has_effect: '[[_Standards/WikiData/WD~pornography_addiction,1319971]]'
 opposite_of: '[[_Standards/WikiData/WD~opposition_to_pornography,2745509]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pornography,11052852]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Porn_stub,13379779]]'
-  - '[[_Standards/WikiData/WD~Template_Pornography,19822711]]'
+- '[[_Standards/WikiData/WD~Template_Porn_stub,13379779]]'
+- '[[_Standards/WikiData/WD~Template_Pornography,19822711]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~creative_work,17537576]]'
-  - '[[_Standards/WikiData/WD~erotic_product,115921406]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~erotic_product,115921406]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
 studied_by: '[[_Standards/WikiData/WD~porn_studies,97360329]]'
 practiced_by: '[[_Standards/WikiData/WD~pornographer,135004949]]'
@@ -30,21 +102,154 @@ Commons_category: Pornography
 PhilPapers_topic: pornography
 ACM_Classification_Code_2012_: 10003481
 Dewey_Decimal_Classification:
-  - 306.77
-  - 363.47
+- 306.77
+- 363.47
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Debbie%20Does%20Dallas%2C%201978%2C%20trailer.webm
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Pornproject%20logo.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Pornography.mp3
 WordLift_URL: http://data.thenextweb.com/tnw/entity/pornography
 U_S_National_Archives_Identifier: 10643026
 subreddit:
-  - 60fpsporn
-  - porn_gifs
+- 60fpsporn
+- porn_gifs
 Libris_URI: 64jlkjzq282jg9p
 IPTC_NewsCode: mediatopic/20000815
 Archive_of_Our_Own_tag: Porn
+dv_has_:
+  name_:
+    af: pornografie
+    an: pornografía
+    ar: إباحية
+    arz: بورنوجرافيا
+    as: পৰ্ণ’গ্ৰাফি
+    ast: Pornografía
+    az: Pornoqrafiya
+    bcl: Pornograpiya
+    be: парнаграфія
+    be-tarask: парнаграфія
+    bg: порнография
+    bho: पोर्नोग्राफी
+    bn: পর্নোগ্রাফি
+    bo: ཆགས་སློང་རྩོམ་རིག
+    br: Pornografiezh
+    bs: pornografija
+    ca: pornografia
+    ceb: Pornograpiya
+    ckb: پۆڕن
+    co: pornugrafia
+    cs: pornografie
+    cu: Блѫдопись
+    cy: pornograffi
+    da: pornografi
+    de: Pornografie
+    diq: Pornografiye
+    el: πορνογραφία
+    en: pornography
+    eo: pornografio
+    es: pornografía
+    et: pornograafia
+    eu: pornografia
+    ext: Pornografia
+    fa: پورنوگرافی
+    fi: pornografia
+    fr: pornographie
+    fy: Pornografy
+    ga: pornagrafaíocht
+    gan: 色情
+    gl: pornografía
+    he: פורנוגרפיה
+    hi: रतिचित्रण
+    hr: Pornografija
+    hsb: Pornografija
+    ht: Panno
+    hu: pornográfia
+    hy: պոռնոգրաֆիա
+    id: Pornografi
+    ie: Pornografie
+    ig: Ihe na-akpali agụụ mmekọahụ
+    io: Pornografio
+    is: klám
+    it: pornografia
+    ja: ポルノグラフィ
+    ka: პორნოგრაფია
+    kk: Порнография
+    kn: ಕಾಮಲೇಖನ
+    ko: 포르노그래피
+    ku: Pornografî
+    kw: pornografieth
+    ky: Порнография
+    la: Pornographia
+    lb: Pornographie
+    li: Pornografie
+    lmo: Pornografia
+    lo: ໜັງໂປ້
+    lt: pornografija
+    lua: Bididiba bidi bileja butaka bua bantu
+    lv: pornogrāfija
+    lzh: 色情
+    mk: порнографија
+    ml: അശ്ലീലസാഹിത്യം
+    mr: रतिचित्रण
+    ms: Terbitan lucah
+    mt: pornografija
+    my: ညစ်ညမ်းရုပ်ပုံ
+    nb: pornografi
+    ne: पोर्नोग्राफी
+    nl: pornografie
+    nn: pornografi
+    oc: pornografia
+    os: Порнографи
+    pa: ਅਸ਼ਲੀਲਤਾ
+    pl: pornografia
+    ps: پورنوګرافي
+    pt: pornografia
+    pt-br: pornografia
+    rmy: Pornografie
+    ro: pornografie
+    ru: порнография
+    rue: Порноґрафія
+    sat: ᱯᱚᱨᱱᱚᱜᱽᱨᱟᱯᱷᱤ
+    scn: Pornugrafìa
+    sco: pornografie
+    se: pornografiija
+    sgs: Pornograpėjė
+    sh: Pornografija
+    si: කාම ප් රකාශන
+    sk: Pornografia
+    sl: pornografija
+    sma: pornografije
+    smj: pornografija
+    smn: pornografia
+    sms: pornografia
+    sq: Pornografia
+    sr: порнографија
+    sr-ec: порнографија
+    sv: pornografi
+    sw: Ponografia
+    ta: பாலுணர்வுக் கிளர்ச்சியம்
+    tg: порнография
+    th: งานลามก
+    tl: Pornograpiya
+    tr: pornografi
+    tt: порнография
+    tw: aguamansɛm
+    uk: порнографія
+    ur: فحش نگاری
+    uz: Pornografiya
+    vep: pornografii
+    vi: khiêu dâm
+    vo: porn
+    war: Pornograpiya
+    wuu: 色情
+    xmf: პორნოგრაფია
+    yi: פארנאגראפיע
+    yue: 鹹濕
+    zh: 色情
+    zh-cn: 色情
+    zh-hant: 色情
+    zh-tw: 色情
+    zu: Izithombe ezincolile Zobulili
 ---
-
 # [[Pornography]] 
 
 #is_/same_as :: [[WD~Pornography,291]] 

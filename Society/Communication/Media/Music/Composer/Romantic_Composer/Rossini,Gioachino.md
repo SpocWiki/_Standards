@@ -1,61 +1,92 @@
 ---
 aliases:
-  - Gioachino_Rossini
-  - Gioachino Antonio Rossini
-  - Gioachino Rossini
-  - Rossini
-  - Rossini,Gioachino
+- Coakkino Rossini
+- Džoakinas Rosinis
+- Džoakīno Rosīni
+- Giaucchinu Rossini
+- Gioacchino Rossini
+- Gioachino Antonio Rossini
+- Gioachino Rossini
+- Gioachino_Rossini
+- Ioachimus Rossini
+- Rossini
+- Rossini Joakkino Antonio
+- Rossini,Gioachino
+- Τζοακίνο Ροσσίνι
+- Ђоакино Росини
+- Џоакино Росини
+- Джаакіна Расіні
+- Джоакино Росини
+- Джоаккіно Россіні
+- Джоаккино Россини
+- Жоаккино Россини
+- Россини Жоаккино Антонио
+- Россини Ҷоаккино
+- Ջոակինո Ռոսսինի
+- ג'ואקינו רוסיני
+- דזשיאאקינא ראסיני
+- جواكينو روسيني
+- جواکینو روسینی
+- जियोचिनो एन्टोनियो रोसिनी
+- ਜੀਓਚੀਨੋ ਰੋਸਿਨੀ
+- ჯოაკინო როსინი
+- ジョアキーノ・ロッシーニ
+- 喬亞奇諾·羅西尼
+- 焦阿基諾·羅西尼
+- 焦阿基诺·罗西尼
+- 羅西尼
+- 조아키노 로시니
 has_id_wikidata: Q9726
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,112457]]'
-  - '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Stanislaus,112457]]'
+- '[[_Standards/WikiData/WD~Grand_Officer_of_the_Legion_of_Honour,10855216]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Papal_States,170174]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~Papal_States,170174]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
 genre:
-  - '[[_Standards/WikiData/WD~cantata,174873]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~cantata,174873]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~La_Cenerentola,176700]]'
-  - '[[_Standards/WikiData/WD~The_Barber_of_Seville,208659]]'
-  - '[[_Standards/WikiData/WD~Il_viaggio_a_Reims,470983]]'
-  - '[[_Standards/WikiData/WD~Il_turco_in_Italia,477643]]'
-  - "[[_Standards/WikiData/WD~L'italiana_in_Algeri,589932]]"
+- '[[_Standards/WikiData/WD~La_Cenerentola,176700]]'
+- '[[_Standards/WikiData/WD~The_Barber_of_Seville,208659]]'
+- '[[_Standards/WikiData/WD~Il_viaggio_a_Reims,470983]]'
+- '[[_Standards/WikiData/WD~Il_turco_in_Italia,477643]]'
+- "[[_Standards/WikiData/WD~L'italiana_in_Algeri,589932]]"
 cause_of_death: '[[_Standards/WikiData/WD~colorectal_cancer,188874]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~funeral,201676]]'
-  - '[[_Standards/WikiData/WD~wedding,49836]]'
+- '[[_Standards/WikiData/WD~funeral,201676]]'
+- '[[_Standards/WikiData/WD~wedding,49836]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Isabella_Colbran,268979]]'
-  - '[[_Standards/WikiData/WD~Olympe_Pélissier,1986469]]'
+- '[[_Standards/WikiData/WD~Isabella_Colbran,268979]]'
+- '[[_Standards/WikiData/WD~Olympe_Pélissier,1986469]]'
 student:
-  - '[[_Standards/WikiData/WD~Marietta_Alboni,269130]]'
-  - '[[_Standards/WikiData/WD~Adolphe_Nourrit,634623]]'
-  - '[[_Standards/WikiData/WD~Anna_de_La_Grange,4767645]]'
+- '[[_Standards/WikiData/WD~Marietta_Alboni,269130]]'
+- '[[_Standards/WikiData/WD~Adolphe_Nourrit,634623]]'
+- '[[_Standards/WikiData/WD~Anna_de_La_Grange,4767645]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]'
-  - '[[_Standards/WikiData/WD~Accademia_Tiberina,3603955]]'
+- '[[_Standards/WikiData/WD~Académie_des_beaux_arts,337531]]'
+- '[[_Standards/WikiData/WD~Accademia_Tiberina,3603955]]'
 student_of: '[[_Standards/WikiData/WD~Stanislao_Mattei,434726]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- "[[_Standards/WikiData/WD~Albert_Edelfelt's_letters,116452747]]"
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 place_of_death: '[[_Standards/WikiData/WD~Passy,1241308]]'
 list_of_works:
-  - '[[_Standards/WikiData/WD~list_of_compositions_by_Gioachino_Rossini,3047934]]'
-  - '[[_Standards/WikiData/WD~list_of_operas_by_Gioachino_Rossini,4819051]]'
+- '[[_Standards/WikiData/WD~list_of_compositions_by_Gioachino_Rossini,3047934]]'
+- '[[_Standards/WikiData/WD~list_of_operas_by_Gioachino_Rossini,4819051]]'
 educated_at: '[[_Standards/WikiData/WD~Conservatorio_Giovanni_Battista_Martini,3687222]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -67,13 +98,13 @@ has_works_in_the_collection: '[[_Standards/WikiData/WD~Procuratoria_di_San_Marco
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Christian_Hymns,100975219]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Portrait_of_Gioachino_Rossini,107496570]]'
-  - '[[_Standards/WikiData/WD~Tomb_of_Gioachino_Rossini,_Florence,126210696]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Gioachino_Rossini,107496570]]'
+- '[[_Standards/WikiData/WD~Tomb_of_Gioachino_Rossini,_Florence,126210696]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Grave_of_Rossini,112339543]]'
-  - '[[_Standards/WikiData/WD~Tomb_of_Gioachino_Rossini,_Florence,126210696]]'
-  - '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
-  - '[[_Standards/WikiData/WD~Basilica_of_Santa_Croce,51177]]'
+- '[[_Standards/WikiData/WD~Grave_of_Rossini,112339543]]'
+- '[[_Standards/WikiData/WD~Tomb_of_Gioachino_Rossini,_Florence,126210696]]'
+- '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
+- '[[_Standards/WikiData/WD~Basilica_of_Santa_Croce,51177]]'
 mother: '[[_Standards/WikiData/WD~Anna_Guidarini,124034372]]'
 father: '[[_Standards/WikiData/WD~Giuseppe_Rossini,129086066]]'
 date_of_death: 1868-11-13T00:00:00Z
@@ -100,8 +131,106 @@ Europeana_entity: agent/base/146821
 Google_Doodle: gioachino-rossinis-220th-birthday-leap-year-2012
 Krugosvet_article: kultura_i_obrazovanie/muzyka/ROSSINI_DZHOAKKINO.html
 Libris_URI: ljx01rd432x86fs
+dv_has_:
+  name_:
+    af: Gioachino Rossini
+    an: Gioachino Rossini
+    ar: جواكينو روسيني
+    arz: جواكينو روسيني
+    ast: Gioachino Rossini
+    ay: Gioachino Rossini
+    az: Coakkino Rossini
+    ba: Джоаккино Россини
+    ban: Gioachino Rossini
+    be: Джаакіна Расіні
+    be-tarask: Джаакіна Расіні
+    bg: Джоакино Росини
+    bs: Gioacchino Rossini
+    ca: Gioacchino Rossini
+    cs: Gioachino Rossini
+    cy: Gioachino Rossini
+    da: Gioacchino Rossini
+    de: Gioachino Rossini
+    de-ch: Gioachino Rossini
+    el: Τζοακίνο Ροσσίνι
+    en: Gioachino Rossini
+    en-ca: Gioacchino Rossini
+    en-gb: Gioacchino Rossini
+    eo: Gioachino Rossini
+    es: Gioachino Rossini
+    et: Gioachino Rossini
+    eu: Gioacchino Rossini
+    ext: Gioachino Rossini
+    fa: جواکینو روسینی
+    fi: Gioachino Rossini
+    fr: Gioachino Rossini
+    frp: Gioachino Rossini
+    fur: Gioacchino Rossini
+    ga: Gioachino Rossini
+    gl: Gioachino Rossini
+    gsw: Gioacchino Rossini
+    he: ג'ואקינו רוסיני
+    hr: Gioachino Rossini
+    hu: Gioacchino Rossini
+    hy: Ջոակինո Ռոսսինի
+    ia: Gioachino Rossini
+    id: Gioachino Rossini
+    io: Gioachino Rossini
+    it: Gioachino Rossini
+    ja: ジョアキーノ・ロッシーニ
+    ka: ჯოაკინო როსინი
+    kk: Джоаккино Россини
+    ko: 조아키노 로시니
+    ky: Россини Жоаккино Антонио
+    la: Ioachimus Rossini
+    lb: Gioacchino Rossini
+    lmo: Gioacchino Rossini
+    lt: Džoakinas Rosinis
+    lv: Džoakīno Rosīni
+    mg: Gioachino Rossini
+    mk: Џоакино Росини
+    mn: Жоаккино Россини
+    ms: Gioachino Rossini
+    mt: Gioachino Rossini
+    nah: Gioachino Rossini
+    nan: Gioachino Rossini
+    nb: Gioacchino Rossini
+    nds: Gioachino Rossini
+    new: जियोचिनो एन्टोनियो रोसिनी
+    nl: Gioachino Rossini
+    nn: Gioacchino Rossini
+    oc: Gioacchino Rossini
+    os: Джоаккино Россини
+    pa: ਜੀਓਚੀਨੋ ਰੋਸਿਨੀ
+    pam: Gioachino Rossini
+    pap: Gioachino Rossini
+    pl: Gioachino Rossini
+    pms: Gioachino Rossini
+    pt: Gioachino Rossini
+    pt-br: Gioachino Rossini
+    qu: Gioacchino Rossini
+    ro: Gioachino Rossini
+    ru: Джоаккино Россини
+    scn: Giaucchinu Rossini
+    sh: Gioachino Rossini
+    sk: Gioachino Rossini
+    sl: Gioacchino Rossini
+    sq: Gioachino Rossini
+    sr: Ђоакино Росини
+    sv: Gioacchino Rossini
+    tg: Россини Ҷоаккино
+    tr: Gioacchino Rossini
+    uk: Джоаккіно Россіні
+    uz: Rossini Joakkino Antonio
+    vi: Gioachino Rossini
+    war: Gioachino Rossini
+    wuu: 焦阿基诺·罗西尼
+    yi: דזשיאאקינא ראסיני
+    yue: 羅西尼
+    zh: 焦阿基诺·罗西尼
+    zh-hant: 焦阿基諾·羅西尼
+    zh-tw: 喬亞奇諾·羅西尼
 ---
-
 # [[Rossini,Gioachino]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gioachino_Rossini,9726|WD~Gioachino_Rossini,9726]]

@@ -1,28 +1,139 @@
 ---
 aliases:
-  - Grand duke
-  - grand duchess
-  - Grand_Duke
-  - Grand Duke
+- Adipati agung
+- Ard-diúc
+- didysis kunigaikštis
+- Duka i madh
+- Duke Handi
+- gran duc
+- gran duque
+- Grand Duc
+- grand duchess
+- Grand duke
+- grand-duc
+- grandduko
+- granduca
+- Grand_Duke
+- grandük
+- Groothertog
+- Grossherzog
+- Groussherzog
+- Großherzog
+- Gruthartoch
+- Grão Duque
+- Magnus Dux
+- mare duce
+- nadvojvoda
+- nagyherceg
+- storhertig
+- Storhertug
+- stuorrâherttua
+- Stórhertogi
+- suurhertsog
+- suurherttua
+- Veliki vojvoda
+- velkovévoda
+- veľkovojvoda
+- đại công tước
+- Μέγας δούκας
+- Велик херцог
+- велики војвода
+- великий герцог
+- вялікі герцаг
+- вялікі князь
+- Их херцог
+- דוכס גדול
+- داچی مەزن
+- دوق أكبر
+- دوق اكبر
+- دوک بزرگ
+- แกรนด์ดยุก
+- 大公
+- 대공
 has_id_wikidata: Q205706
 subclass_of:
-  - '[[_Standards/WikiData/WD~duke,166886]]'
-  - '[[_Standards/WikiData/WD~monarch,116]]'
+- '[[_Standards/WikiData/WD~duke,166886]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
 instance_of: '[[_Standards/WikiData/WD~noble_title,355567]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from: '[[_Standards/WikiData/WD~Grand_Prince,1549319]]'
 opposite_of: '[[_Standards/WikiData/WD~Q12652917,12652917]]'
 female_form_of_label:
-  - nadvojvodinja
-  - великая герцогиня
-  - Grand Duchess
-  - Gran Duquesa
+- nadvojvodinja
+- великая герцогиня
+- Grand Duchess
+- Gran Duquesa
 Commons_category: Grand Dukes
 male_form_of_label: Gran Duque
+dv_has_:
+  name_:
+    af: Groothertog
+    ar: دوق أكبر
+    arz: دوق اكبر
+    be: вялікі герцаг
+    be-tarask: вялікі князь
+    bg: Велик херцог
+    ca: gran duc
+    ckb: داچی مەزن
+    cs: velkovévoda
+    da: Storhertug
+    de: Großherzog
+    de-ch: Grossherzog
+    el: Μέγας δούκας
+    en: grand duke
+    eo: grandduko
+    es: gran duque
+    et: suurhertsog
+    eu: Duke Handi
+    fa: دوک بزرگ
+    fi: suurherttua
+    fr: grand-duc
+    fy: Gruthartoch
+    ga: Ard-diúc
+    gl: Gran Duque
+    he: דוכס גדול
+    hr: Veliki vojvoda
+    hu: nagyherceg
+    id: Adipati agung
+    is: Stórhertogi
+    it: granduca
+    ja: 大公
+    ko: 대공
+    la: Magnus Dux
+    lb: Groussherzog
+    lt: didysis kunigaikštis
+    mn: Их херцог
+    nb: storhertug
+    nl: Groothertog
+    nn: Storhertug
+    oc: Grand Duc
+    pt: Grão Duque
+    ro: mare duce
+    ru: великий герцог
+    sh: Veliki vojvoda
+    sk: veľkovojvoda
+    sl: nadvojvoda
+    smn: stuorrâherttua
+    sq: Duka i madh
+    sr: велики војвода
+    sr-ec: Велики војвода
+    sr-el: Veliki vojvoda
+    sv: storhertig
+    th: แกรนด์ดยุก
+    tr: grandük
+    uk: Великий герцог
+    ur: دوک بزرگ
+    vi: đại công tước
+    zh: 大公
+    zh-cn: 大公
+    zh-hans: 大公
+    zh-hant: 大公
+    zh-hk: 大公
+    zh-sg: 大公
+    zh-tw: 大公
 ---
-
 # [[Grand_Duke]] 
 
 #is_/same_as :: [[WD~Grand_duke,205706]] 

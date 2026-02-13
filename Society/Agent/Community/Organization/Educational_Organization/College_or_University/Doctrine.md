@@ -1,25 +1,166 @@
 ---
 aliases:
-  - Doktrin
-  - Doctrine
+- Ajahan tatwa
+- athrawiaeth
+- doctrina
+- Doctrine
+- doctrină
+- doktriidna
+- doktriin
+- doktriini
+- Doktrin
+- Doktrina
+- doktrine
+- doktrino
+- doktryna
+- doktrína
+- doktrīna
+- dotrina
+- dottrina
+- doutrina
+- Foto-pampianarana
+- học thuyết
+- Imfundiso
+- teagasc
+- teisės doktrina
+- Äskerï tujırımdama
+- δόγμα
+- дактрына
+- доктрина
+- тәгълимат
+- Әскери тұжырымдама
+- Դոկտրին
+- דוקטרינה
+- اسكەرىي تۇجىرىمداما
+- دوکترين
+- دکترین
+- عقیدہ
+- مذهب
+- ڕێباز
+- सिद्धान्तः
+- सिध्दांत
+- মতবাদ
+- ਮੱਤ
+- கோட்பாடு
+- ಸಿಧ್ಧಾಂತ
+- ลัทธิ
+- ລັດທິ
+- დოქტრინა
+- ドクトリン
+- 教義
+- 독트린
 has_id_wikidata: Q117850
 part_of:
-  - '[[_Standards/WikiData/WD~tradition,82821]]'
-  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-  - '[[_Standards/WikiData/WD~ideology,7257]]'
+- '[[_Standards/WikiData/WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~ideology,7257]]'
 facet_of: '[[_Standards/WikiData/WD~codification,214214]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
-  - '[[_Standards/WikiData/WD~opinion,3962655]]'
-  - '[[_Standards/WikiData/WD~topic,26256810]]'
-  - '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~school_of_thought,1387659]]'
+- '[[_Standards/WikiData/WD~opinion,3962655]]'
+- '[[_Standards/WikiData/WD~topic,26256810]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
 different_from: '[[_Standards/WikiData/WD~religious_doctrine,11499334]]'
 studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
 Dewey_Decimal_Classification: 202
 Iconclass_notation: 52C51
 Commons_category: Doctrines
+dv_has_:
+  name_:
+    ar: مذهب
+    ast: Doctrina
+    az: Doktrina
+    ban: Ajahan tatwa
+    be-tarask: дактрына
+    bg: Доктрина
+    bn: মতবাদ
+    bs: Doktrina
+    ca: doctrina
+    ckb: ڕێباز
+    cs: doktrína
+    cv: Доктрина
+    cy: athrawiaeth
+    da: Doktrin
+    de: Doktrin
+    el: δόγμα
+    en: doctrine
+    eo: doktrino
+    es: doctrina
+    et: doktriin
+    eu: Doktrina
+    fa: دکترین
+    fi: doktriini
+    fr: doctrine
+    frp: Doctrina
+    ga: teagasc
+    gl: doutrina
+    he: דוקטרינה
+    hi: सिध्दांत
+    hr: doktrina
+    hu: doktrína
+    hy: Դոկտրին
+    ia: Doctrina
+    id: Doktrin
+    io: Doktrino
+    it: dottrina
+    ja: ドクトリン
+    ka: დოქტრინა
+    kk: Әскери тұжырымдама
+    kk-arab: اسكەرىي تۇجىرىمداما
+    kk-cn: اسكەرىي تۇجىرىمداما
+    kk-cyrl: Әскери тұжырымдама
+    kk-kz: Әскери тұжырымдама
+    kk-latn: Äskerï tujırımdama
+    kk-tr: Äskerï tujırımdama
+    kn: ಸಿಧ್ಧಾಂತ
+    ko: 독트린
+    ky: Доктрина
+    lfn: dotrina
+    lo: ລັດທິ
+    lt: teisės doktrina
+    lv: doktrīna
+    mg: Foto-pampianarana
+    mk: доктрина
+    ms: doktrin
+    ms-arab: دوکترين
+    nb: doktrine
+    nl: doctrine
+    nn: doktrine
+    oc: Doctrine
+    pa: ਮੱਤ
+    pl: doktryna
+    pt: doutrina
+    ro: doctrină
+    ru: доктрина
+    rue: Доктрина
+    sa: सिद्धान्तः
+    se: doktriidna
+    sk: doktrína
+    sl: doktrina
+    sms: doktriin
+    sq: Doktrina
+    sr: доктрина
+    sr-ec: доктрина
+    sr-el: doktrina
+    sv: doktrin
+    ta: கோட்பாடு
+    tg: доктрина
+    th: ลัทธิ
+    tl: Doktrina
+    tr: Doktrin
+    tt: тәгълимат
+    uk: доктрина
+    ur: عقیدہ
+    uz: Doktrina
+    vec: dotrina
+    vi: học thuyết
+    war: Doktrina
+    wuu: Doctrina
+    yue: 教義
+    zh: Doctrina
+    zh-hant: Doctrina
+    zu: Imfundiso
 ---
-
 # [[Doctrine]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Doctrine,117850|WD~Doctrine,117850]] 

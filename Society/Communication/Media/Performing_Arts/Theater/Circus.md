@@ -1,40 +1,202 @@
 ---
 aliases:
-  - Zirkus
-  - Circus
+- Chirke
+- circ
+- circo
+- Circu
+- Circus
+- cirko
+- cirko trupė
+- cirks
+- cirkus
+- cirkusz
+- cirque
+- cyrk
+- gánh xiếc
+- Pukahao
+- Sa-khà-suh
+- Sakini
+- sarkas
+- Sirk
+- Sirko
+- sirkus
+- sorcas
+- syrcas
+- tsirk
+- tsirkus
+- zirku konpainia
+- Zirkus
+- τσίρκο
+- Сирк
+- сыйрк
+- Ціркус
+- цирк
+- циркова трупа
+- цирковая труппа
+- циркус
+- цырк
+- Կրկես
+- Կրկէս
+- צירקוס
+- קרקס
+- سركس
+- سرکس
+- سيرك
+- سیرک
+- सर्कस
+- চাৰ্কাছ
+- সার্কাস
+- வட்டரங்கு
+- సర్కస్
+- സർക്കസ്
+- ละครสัตว์
+- ဆပ်ကပ်ပွဲ
+- ცირკი
+- ᱥᱟᱨᱠᱟᱥ
+- サーカス
+- 馬戲團
+- 马戏
+- 马戏团
+- 서커스
 has_id_wikidata: Q47928
-field_of_work: "[[_Standards/WikiData/WD~circus_arts,713197]]"
+field_of_work: '[[_Standards/WikiData/WD~circus_arts,713197]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~conferencier,736415]]"
-  - "[[_Standards/WikiData/WD~equilibrist,19828933]]"
-  - "[[_Standards/WikiData/WD~clown,7358]]"
+- '[[_Standards/WikiData/WD~conferencier,736415]]'
+- '[[_Standards/WikiData/WD~equilibrist,19828933]]'
+- '[[_Standards/WikiData/WD~clown,7358]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Cerc,7931061]]"
-  - "[[_Standards/WikiData/WD~Cirkus,31631041]]"
-subclass_of: "[[_Standards/WikiData/WD~performing_arts_group,105815710]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~Living_traditions_An_inventory_of_intangible_cultural_heritage_in_Sweden,115596878]]"
-history_of_topic: "[[_Standards/WikiData/WD~History_of_the_Circus,122415732]]"
-uses: "[[_Standards/WikiData/WD~circus,123655171]]"
+- '[[_Standards/WikiData/WD~Cerc,7931061]]'
+- '[[_Standards/WikiData/WD~Cirkus,31631041]]'
+subclass_of: '[[_Standards/WikiData/WD~performing_arts_group,105815710]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~Living_traditions_An_inventory_of_intangible_cultural_heritage_in_Sweden,115596878]]'
+history_of_topic: '[[_Standards/WikiData/WD~History_of_the_Circus,122415732]]'
+uses: '[[_Standards/WikiData/WD~circus,123655171]]'
 Commons_gallery: Circus
 Commons_category: Circus
 OmegaWiki_Defined_Meaning: 1195931
 described_at_URL:
-  - https://levandekulturarv.se/forteckningen/element/turnerande-klassisk-cirkus
-  - https://levandekulturarv.se/in-english/the-inventory/submissions/touring-classic-circus
-Unicode_character: 🎪
+- https://levandekulturarv.se/forteckningen/element/turnerande-klassisk-cirkus
+- https://levandekulturarv.se/in-english/the-inventory/submissions/touring-classic-circus
+Unicode_character: "\U0001F3AA"
 U_S_National_Archives_Identifier: 10641946
 Dewey_Decimal_Classification: 791.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Circus%20Ronaldo%20door%20Dirk%20Annemans.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Tamahashi-cirque.wav
 Iconclass_notation: 43A36
 P8189: 987007286299905200
+dv_has_:
+  name_:
+    af: Sirkus
+    ar: سيرك
+    arz: سيرك
+    as: চাৰ্কাছ
+    ast: Circu
+    az: Sirk
+    ba: цирк
+    be: цырк
+    be-tarask: цырк
+    bg: Цирк
+    bn: সার্কাস
+    br: Sirk
+    bs: cirkus
+    ca: circ
+    cs: cirkus
+    cy: syrcas
+    da: cirkus
+    de: Zirkus
+    de-ch: Zirkus
+    el: τσίρκο
+    en: circus
+    en-ca: Circus
+    en-gb: circus
+    en-us: circus
+    eo: cirko
+    es: circo
+    et: tsirkus
+    eu: zirku konpainia
+    fa: سیرک
+    fi: sirkus
+    fj: Sakini
+    fr: cirque
+    ga: sorcas
+    gl: circo
+    gn: Pukahao
+    gsw: Zirkus
+    he: קרקס
+    hi: सर्कस
+    hr: Cirkus
+    hsb: cirkus
+    hu: cirkusz
+    hy: Կրկես
+    hyw: Կրկէս
+    id: sirkus
+    io: Cirko
+    it: circo
+    ja: サーカス
+    ka: ცირკი
+    kk: Цирк
+    ko: 서커스
+    ky: Цирк
+    la: circus
+    lad: tsirk
+    lt: cirko trupė
+    lv: cirks
+    mk: циркус
+    ml: സർക്കസ്
+    mn: Цирк
+    ms: sarkas
+    ms-arab: سركس
+    my: ဆပ်ကပ်ပွဲ
+    nan: Sa-khà-suh
+    nb: sirkus
+    nl: circus
+    nn: sirkus
+    oc: Circ
+    pcd: Chirke
+    pl: cyrk
+    pnb: سرکس
+    pt: circo
+    pt-br: Circo
+    ro: circ
+    ru: цирковая труппа
+    rue: Ціркус
+    sat: ᱥᱟᱨᱠᱟᱥ
+    scn: Circu
+    se: sirkus
+    sh: Cirkus
+    sl: cirkus
+    smn: sirkus
+    sms: sirkus
+    sr: циркус
+    sr-ec: циркус
+    sr-el: cirkus
+    sv: cirkus
+    ta: வட்டரங்கு
+    te: సర్కస్
+    tg: Сирк
+    th: ละครสัตว์
+    tl: Sirko
+    tr: sirk
+    tt: сыйрк
+    uk: циркова трупа
+    ur: سرکس
+    uz: Sirk
+    vec: Circo
+    vi: gánh xiếc
+    war: Sirko
+    wuu: 马戏
+    yi: צירקוס
+    yue: 馬戲團
+    zh: 马戏团
+    zh-cn: 马戏团
+    zh-hk: 馬戲團
+    zh-tw: 馬戲團
 ---
-
 # [[Circus]] 🎪 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Circus,47928|WD~Circus,47928]] 

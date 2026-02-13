@@ -1,30 +1,233 @@
 ---
 aliases:
-  - Addiction
+- Abhängigkeit
+- addicció
+- Addiction
+- Addiksiya
+- addiktio
+- addiktsiya
+- addikšuvdna
+- adiccion
+- adicción
+- Adikshan
+- adiksiyon
+- Adiksyon
+- adikzio
+- afhængighed
+- avhengighet
+- avhengnad
+- bağımlılık
+- beroende
+- dependeco
+- dependentia
+- Dependenza
+- dependență
+- dependência
+- dibyniaeth
+- Dipendensa
+- dipendenza
+- fíkn
+- függőség
+- Giàn-phiah
+- kaitīgs ieradums
+- kecanduan
+- Kenyadikan
+- Ketagihan
+- nghiện
+- ovisnost
+- Pagkagumón
+- pannakairuam
+- Prigolmībė
+- priklausomybė
+- riippuvuus
+- sorjoovuotâ
+- Sucht
+- Sujedigezh
+- sõltuvus
+- Uraibu
+- uzależnienie
+- varësia
+- Verslaving
+- verslawing
+- vício
+- zasvojenost
+- závislost
+- závislosť
+- εθισμός
+- Аддиктсия
+- Аддикци
+- аддикция
+- аддыкцыя
+- зависност
+- залежність
+- залежнасьць
+- Пристрастяване
+- ӵыдонтэмлык
+- հակում
+- אדיקציע
+- התמכרות
+- إدمان
+- ئاڵوودەبوون
+- اعتیاد
+- الادمان
+- باغیملیلیق
+- بلية
+- خوگری
+- نشے دی لت
+- ड्रग एडिक्सन
+- व्यसन
+- আসক্তি
+- ਝੱਸ
+- பழக்க அடிமைத்தனம்
+- వ్యసనములు
+- ಚಟ
+- അഡിക്ഷൻ
+- การติด
+- စွဲလမ်းခြင်း
+- ადიქცია
+- 嗜癖
+- 成瘾
+- 成癮
+- 癮
+- 중독
 has_id_wikidata: Q12029
 described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109]]'
 different_from:
-  - '[[_Standards/WikiData/WD~substance_dependence,3378593]]'
-  - '[[_Standards/WikiData/WD~addictiveness,111189110]]'
+- '[[_Standards/WikiData/WD~substance_dependence,3378593]]'
+- '[[_Standards/WikiData/WD~addictiveness,111189110]]'
 Iconclass_notation: 31B53
 IPTC_NewsCode: mediatopic/20000804
 OmegaWiki_Defined_Meaning: 1047372
 permanent_duplicated_item: '[[_Standards/WikiData/WD~dependence,30921375]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Brain%20metabolism%20and%20drug%20addiction.jpg
 studied_by:
-  - '[[_Standards/WikiData/WD~addictology,2362817]]'
-  - '[[_Standards/WikiData/WD~addiction_psychology,4681112]]'
+- '[[_Standards/WikiData/WD~addictology,2362817]]'
+- '[[_Standards/WikiData/WD~addiction_psychology,4681112]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~habit,1299714]]'
-  - '[[_Standards/WikiData/WD~health_problem,2057971]]'
-  - '[[_Standards/WikiData/WD~behavior,9332]]'
+- '[[_Standards/WikiData/WD~habit,1299714]]'
+- '[[_Standards/WikiData/WD~health_problem,2057971]]'
+- '[[_Standards/WikiData/WD~behavior,9332]]'
 subreddit:
-  - addiction
-  - addictions
-  - AddictionsFR
+- addiction
+- addictions
+- AddictionsFR
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Addiction,8094302]]'
+dv_has_:
+  name_:
+    af: verslawing
+    an: adicción
+    ar: إدمان
+    ary: بلية
+    arz: الادمان
+    as: আসক্তি
+    ast: Adicción
+    az: Addiksiya
+    azb: باغیملیلیق
+    ba: Аддикция
+    bcl: Adiksyon
+    be: аддыкцыя
+    be-tarask: залежнасьць
+    bew: Kenyadikan
+    bg: Пристрастяване
+    bn: আসক্তি
+    br: Sujedigezh
+    bs: ovisnost
+    ca: addicció
+    ce: Аддикци
+    ckb: ئاڵوودەبوون
+    crh: addiktsiya
+    cs: závislost
+    cy: dibyniaeth
+    da: afhængighed
+    de: Abhängigkeit
+    el: εθισμός
+    en: addiction
+    eo: dependeco
+    es: adicción
+    et: sõltuvus
+    eu: adikzio
+    fa: اعتیاد
+    fi: riippuvuus
+    fr: addiction
+    gcr: Adiksyon
+    gl: adicción
+    gsw: Abhängigkeit
+    ha: Addiction
+    he: התמכרות
+    hi: व्यसन
+    hif: addiction
+    hr: ovisnost
+    hu: függőség
+    hy: հակում
+    id: kecanduan
+    ilo: pannakairuam
+    is: fíkn
+    it: dipendenza
+    ja: 嗜癖
+    jam: Adikshan
+    kk: аддикция
+    kn: ಚಟ
+    knc: Addiction
+    ko: 중독
+    la: dependentia
+    li: Verslaving
+    lmo: Dependenza
+    lt: priklausomybė
+    lv: kaitīgs ieradums
+    mk: зависност
+    ml: അഡിക്ഷൻ
+    ms: Ketagihan
+    my: စွဲလမ်းခြင်း
+    mzn: اعتیاد
+    nan: Giàn-phiah
+    nb: avhengighet
+    nds: Sucht
+    new: ड्रग एडिक्सन
+    nl: verslaving
+    nn: avhengnad
+    oc: adiccion
+    pa: ਝੱਸ
+    pl: uzależnienie
+    pms: Dipendensa
+    pnb: نشے دی لت
+    pt: dependência
+    pt-br: vício
+    ro: dependență
+    ru: аддикция
+    sah: Аддикция
+    sco: addiction
+    se: addikšuvdna
+    sgs: Prigolmībė
+    sh: ovisnost
+    sk: závislosť
+    sl: zasvojenost
+    smn: sorjoovuotâ
+    sms: addiktio
+    sq: varësia
+    sr: зависност
+    sr-ec: зависност
+    sv: beroende
+    sw: Uraibu
+    ta: பழக்க அடிமைத்தனம்
+    te: వ్యసనములు
+    tg: Аддиктсия
+    th: การติด
+    tl: adiksiyon
+    tr: bağımlılık
+    tt: аддикция
+    udm: ӵыдонтэмлык
+    uk: залежність
+    ur: خوگری
+    vi: nghiện
+    war: Pagkagumón
+    wuu: 成瘾
+    xmf: ადიქცია
+    yi: אדיקציע
+    yue: 癮
+    zh: 成瘾
+    zh-hant: 成癮
+    zh-tw: 成癮
 ---
-
 # [[Addiction]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Addiction,12029]] 

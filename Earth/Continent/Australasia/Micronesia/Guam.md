@@ -15,9 +15,9 @@ dv_has_name_cn: 关岛
 dv_has_name_ar: غوام
 dv_has_name_ru: Гуам
 dv_CLDR_display_name: Guam
-dv_Region_Name: "[[../../Oceania]]"
-dv_Intermediate_Region_Name: "[[Guam]]"
-dv_Sub-region_Name: "[[../Micronesia]]"
+dv_Region_Name: '[[../../Oceania]]'
+dv_Intermediate_Region_Name: '[[Guam]]'
+dv_Sub-region_Name: '[[../Micronesia]]'
 dv_Region: 9
 dv_Sub-region: 57
 dv_Geoname-ID: 4043988
@@ -41,45 +41,94 @@ dv_ISO2: GU
 dv_ISO3: GUM
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]]"
-    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam|Guam]]"
-    - "[[/_public/Earth/Continent/Australasia/Micronesia/Guam.public|Guam.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal|Guam.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect|Guam.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]"
+  - '[[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]]'
+  - '[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam|Guam]]'
+  - '[[/_public/Earth/Continent/Australasia/Micronesia/Guam.public|Guam.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal|Guam.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect|Guam.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]'
 dv_has_name_de: Guam
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Oceania]]"
-dv_Capital: "[[Guam/Villages~Guam/Hagåtña]]"
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_has_place_continent: '[[../../Oceania]]'
+dv_Capital: '[[Guam/Villages~Guam/Hagåtña]]'
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 144.75
 dv_has_place_latitude: 13.4792
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]]"
-  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam|Guam]]"
-  - "[[/_public/Earth/Continent/Australasia/Micronesia/Guam.public|Guam.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal|Guam.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect|Guam.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]"
-
+- '[[../../../../WikiData/WD~Guam,16635|WD~Guam,16635]]'
+- '[[/_Standards/Earth/Continent/Australasia/Micronesia/Guam|Guam]]'
+- '[[/_public/Earth/Continent/Australasia/Micronesia/Guam.public|Guam.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Micronesia/Guam.internal|Guam.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Micronesia/Guam.protect|Guam.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Micronesia/Guam.private|Guam.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Micronesia/Guam.personal|Guam.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Micronesia/Guam.secret|Guam.secret]]'
 aliases:
-  - Guam
-  - غوام
-  - 关岛
-  - Гуам
+- Goam
+- Guahan
+- Guaján
+- Guam
+- Guam Aril
+- Guama
+- Guamas
+- Guwahan
+- Guåhan
+- Gvam
+- Gvamo
+- Gwami
+- Gwanm
+- Gûam
+- Kuamu
+- lo gugdegu'u
+- Quam
+- Γκουάμ
+- Гвам
+- Гуам
+- Գուամ
+- גואם
+- جوام
+- غوام
+- گوآم
+- گوام
+- گۊام
+- ގުއާމު
+- ߜ߭ߎ߬ߥߊߡ
+- गुआम
+- ग्वाम
+- ग्वॉम
+- গুয়াম
+- গুৱাম
+- ਗੁਆਮ
+- ગુઆમ
+- குவாம்
+- గువామ్
+- ಗುವಾಮ್
+- ഗുവാം
+- ගුආම්
+- กวม
+- ກວມ
+- ဂူအမ်ကျွန်း
+- ၵႂၢမ်ႇ
+- გუამი
+- ጓም
+- ᏆᎻ
+- កោះហ្គាំ
+- ᱜᱩᱣᱟᱢ
+- グアム
+- 关岛
+- 關島
+- 괌
 has_id_wikidata: Q16635
 location:
-  - 13.4792
-  - 144.75
+- 13.4792
+- 144.75
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26913
 isDeleted: false
 confidential: public
@@ -87,73 +136,73 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Guam
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - en-GU
-  - ch-GU
+- en-GU
+- ch-GU
 icon: flag-gu
-flag: "[[_Standards/WikiData/WD~flag_of_Guam,235829]]"
-different_from: "[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Guam,235829]]'
+different_from: '[[_Standards/WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~insular_area_of_the_United_States,462778]]"
-  - "[[_Standards/WikiData/WD~unincorporated_territory_of_the_United_States,783733]]"
-  - "[[_Standards/WikiData/WD~territory_of_the_United_States,1352230]]"
-  - "[[_Standards/WikiData/WD~country_for_sports,47488809]]"
-  - "[[_Standards/WikiData/WD~island,23442]]"
+- '[[_Standards/WikiData/WD~insular_area_of_the_United_States,462778]]'
+- '[[_Standards/WikiData/WD~unincorporated_territory_of_the_United_States,783733]]'
+- '[[_Standards/WikiData/WD~territory_of_the_United_States,1352230]]'
+- '[[_Standards/WikiData/WD~country_for_sports,47488809]]'
+- '[[_Standards/WikiData/WD~island,23442]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Umatac,531529]]"
-  - "[[_Standards/WikiData/WD~Hågat,665845]]"
-  - "[[_Standards/WikiData/WD~Asan-Maina,926116]]"
-  - "[[_Standards/WikiData/WD~Tamuning,933714]]"
-  - "[[_Standards/WikiData/WD~Dededo,1182147]]"
-  - "[[_Standards/WikiData/WD~Sånta_Rita-Sumai,1780381]]"
-  - "[[_Standards/WikiData/WD~Mongmong-Toto-Maite,1780393]]"
-  - "[[_Standards/WikiData/WD~Inalåhan,2482456]]"
-  - "[[_Standards/WikiData/WD~Piti,2482463]]"
-  - "[[_Standards/WikiData/WD~Talofofo,2482468]]"
-  - "[[_Standards/WikiData/WD~Yigo,2482473]]"
-  - "[[_Standards/WikiData/WD~Chalan_Pago-Ordot,2482483]]"
-  - "[[_Standards/WikiData/WD~Sinajana,2482489]]"
-  - "[[_Standards/WikiData/WD~Merizo,2482497]]"
-  - "[[_Standards/WikiData/WD~Mangilao,2637935]]"
-  - "[[_Standards/WikiData/WD~Yona,2638381]]"
-  - "[[_Standards/WikiData/WD~Barrigada,2714489]]"
-  - "[[_Standards/WikiData/WD~Agana_Heights,2714496]]"
-  - "[[_Standards/WikiData/WD~Hagåtña,30988]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~911,533806]]"
+- '[[_Standards/WikiData/WD~Umatac,531529]]'
+- '[[_Standards/WikiData/WD~Hågat,665845]]'
+- '[[_Standards/WikiData/WD~Asan-Maina,926116]]'
+- '[[_Standards/WikiData/WD~Tamuning,933714]]'
+- '[[_Standards/WikiData/WD~Dededo,1182147]]'
+- '[[_Standards/WikiData/WD~Sånta_Rita-Sumai,1780381]]'
+- '[[_Standards/WikiData/WD~Mongmong-Toto-Maite,1780393]]'
+- '[[_Standards/WikiData/WD~Inalåhan,2482456]]'
+- '[[_Standards/WikiData/WD~Piti,2482463]]'
+- '[[_Standards/WikiData/WD~Talofofo,2482468]]'
+- '[[_Standards/WikiData/WD~Yigo,2482473]]'
+- '[[_Standards/WikiData/WD~Chalan_Pago-Ordot,2482483]]'
+- '[[_Standards/WikiData/WD~Sinajana,2482489]]'
+- '[[_Standards/WikiData/WD~Merizo,2482497]]'
+- '[[_Standards/WikiData/WD~Mangilao,2637935]]'
+- '[[_Standards/WikiData/WD~Yona,2638381]]'
+- '[[_Standards/WikiData/WD~Barrigada,2714489]]'
+- '[[_Standards/WikiData/WD~Agana_Heights,2714496]]'
+- '[[_Standards/WikiData/WD~Hagåtña,30988]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-anthem: "[[_Standards/WikiData/WD~Stand_Ye_Guamanians,646622]]"
-official_symbol: "[[_Standards/WikiData/WD~Guam_Rail,924911]]"
-legislative_body: "[[_Standards/WikiData/WD~Legislature_of_Guam,1563896]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Guam,2676017]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Guam,3323113]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+anthem: '[[_Standards/WikiData/WD~Stand_Ye_Guamanians,646622]]'
+official_symbol: '[[_Standards/WikiData/WD~Guam_Rail,924911]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislature_of_Guam,1563896]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Guam,2676017]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Guam,3323113]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Micronesia,3359409]]"
-  - "[[_Standards/WikiData/WD~Q3432631,3432631]]"
-  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Lamlam,4380977]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Guam,5256014]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Guam,5535153]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Guam,5589214]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Guam,6398652]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Guam,7112278]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Guam,7644911]]"
+- '[[_Standards/WikiData/WD~Micronesia,3359409]]'
+- '[[_Standards/WikiData/WD~Q3432631,3432631]]'
+- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Lamlam,4380977]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Guam,5256014]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Guam,5535153]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Guam,5589214]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Guam,6398652]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Guam,7112278]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Guam,7644911]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Guam.map
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Guam.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Guam-banner.jpg
@@ -166,52 +215,52 @@ GitHub_topic: guam
 ISO_3166_2_code: US-GU
 MeSH_tree_code: Z01.639.760.680.435
 official_name:
-  - Guåhån
-  - Guam
+- Guåhån
+- Guam
 native_label: Guåhån
 motto_text: Tånó I' Man CHamoru
 nickname: Tånó y CHamoru
 demonym:
-  - Guamanian
-  - guamana
-  - guamane
-  - guamani
-  - guamano
-  - Tåotåo Guåhån
-  - Guamanians
-  - guamanian
-  - guamês
-  - guamesa
-  - guamesas
-  - guameses
-  - Guamach
+- Guamanian
+- guamana
+- guamane
+- guamani
+- guamano
+- Tåotåo Guåhån
+- Guamanians
+- guamanian
+- guamês
+- guamesa
+- guamesas
+- guameses
+- Guamach
 FIPS_10_4_countries_and_regions_: GQ
 OmegaWiki_Defined_Meaning: 628569
 INSEE_countries_and_foreign_territories_code: 99505
 PM20_geo_code: D6
 short_name:
-  - GU
-  - 🇬🇺
+- GU
+- "\U0001F1EC\U0001F1FA"
 coordinates_of_westernmost_point: Point(144.618194444 13.447555555)
 U_S_National_Archives_Identifier: 10044448
 coordinates_of_southernmost_point:
-  - Point(144.648888888 13.236111111)
-  - Point(144.724 13.247)
+- Point(144.648888888 13.236111111)
+- Point(144.724 13.247)
 coordinates_of_geographic_center: Point(144.7671 13.444)
 named_after: http://www.wikidata.org/.well-known/genid/e6b81220ae3aaf2065acdc3e624e4d36
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Guam.svg
 Commons_gallery: Guam
 Commons_category: Guam
 coordinates_of_northernmost_point: Point(144.860277777 13.650555555)
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Guam,15145552]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Governor_of_Guam,20804488]]"
-head_of_government: "[[_Standards/WikiData/WD~Lou_Leon_Guerrero,21066675]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guam,15145552]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Governor_of_Guam,20804488]]'
+head_of_government: '[[_Standards/WikiData/WD~Lou_Leon_Guerrero,21066675]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~village_of_Guam,96857311]]"
-archives_at: "[[_Standards/WikiData/WD~Office_of_Vital_Statistics,106712467]]"
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~village_of_Guam,96857311]]'
+archives_at: '[[_Standards/WikiData/WD~Office_of_Vital_Statistics,106712467]]'
 inception: 1898
 has_time_started: 1898-06
 Instagram_username: visitguam_jp
@@ -220,33 +269,33 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Woods%20at%20Guam%20No
 UN_LOCODE: GUGUM
 coordinate_location: Point(144.8 13.5)
 coordinates_of_easternmost_point: Point(144.955 13.598)
-continent: "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
+continent: '[[_Standards/WikiData/WD~Insular_Oceania,538]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
-  - "[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644]]"
+- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]'
+- '[[_Standards/WikiData/WD~Northern_Mariana_Islands,16644]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Manila,1461]]"
-  - "[[_Standards/WikiData/WD~Riga,1773]]"
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[_Standards/WikiData/WD~Olongapo,56759]]"
+- '[[_Standards/WikiData/WD~Manila,1461]]'
+- '[[_Standards/WikiData/WD~Riga,1773]]'
+- '[[_Standards/WikiData/WD~Taipei,1867]]'
+- '[[_Standards/WikiData/WD~Seoul,8684]]'
+- '[[_Standards/WikiData/WD~Olongapo,56759]]'
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Chamorro,33262]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chamorro,33262]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Chamorro,33262]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+10_00,7056]]"
-capital: "[[_Standards/WikiData/WD~Hagåtña,30988]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chamorro,33262]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+10_00,7056]]'
+capital: '[[_Standards/WikiData/WD~Hagåtña,30988]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+lowest_point: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 mains_voltage: 110
 marriageable_age: 18
 minimum_temperature_record: 56
 maximum_temperature_record: 96
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.gu,43141]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gu,43141]]'
 OpenStreetMap_zoom_level: 10
 FIPS_5_2_numeric_code_US_states_: 66
 area: 544
@@ -261,12 +310,200 @@ FIPS_6_4: 66010
 life_expectancy: 79.575
 ISO_3166_1_alpha_2_code: GU
 FIPS_5_2_alpha_code_US_states_: GU
-Unicode_character: 🇬🇺
+Unicode_character: "\U0001F1EC\U0001F1FA"
 population: 153836
 IOC_country_code: GUM
 ISO_3166_1_alpha_3_code: GUM
+dv_has_:
+  name_:
+    ace: Guam
+    af: Guam
+    am: ጓም
+    ami: Guam
+    an: Guam
+    ang: Guam
+    anp: गुआम
+    ar: غوام
+    arz: جوام
+    ast: Guam
+    az: Quam
+    azb: گوام
+    ba: Гуам
+    ban: Guam
+    bar: Guam
+    bcl: Guwahan
+    be: Гуам
+    be-tarask: Гуам
+    bg: Гуам
+    bn: গুয়াম
+    bpy: গুৱাম
+    br: Guam
+    bs: Guam
+    bto: Guwahan
+    ca: Guam
+    cbk-zam: Guaján
+    cdo: Guam
+    ce: Гуам
+    ceb: Guwahan
+    ch: Guåhan
+    chr: ᏆᎻ
+    chy: Guam
+    ckb: گوام
+    cps: Guwahan
+    cs: Guam
+    cy: Guam
+    da: Guam
+    de: Guam
+    diq: Guam
+    dv: ގުއާމު
+    el: Γκουάμ
+    en: Guam
+    eo: Gvamo
+    es: Guam
+    et: Guam
+    eu: Guam
+    ext: Guam
+    fa: گوآم
+    fi: Guam
+    fo: Guam
+    fr: Guam
+    frp: Goam
+    frr: Guam
+    fy: Gûam
+    ga: Guam
+    gag: Guam
+    gcr: Guam
+    gl: Guam
+    glk: گۊام
+    gsw: Guam
+    gu: ગુઆમ
+    gv: Guam
+    ha: Guam
+    hak: Guam
+    he: גואם
+    hi: गुआम
+    hif: Guam
+    hil: Guwahan
+    hr: Guam
+    ht: Gwanm
+    hu: Guam
+    hy: Գուամ
+    ia: Guam
+    id: Guam
+    ilo: Guam
+    io: Guam
+    is: Gvam
+    it: Guam
+    ja: グアム
+    jbo: lo gugdegu'u
+    jv: Guam
+    ka: გუამი
+    kaa: Guam
+    kge: Guam
+    kk: Гуам
+    kk-cyrl: Гуам
+    km: កោះហ្គាំ
+    kn: ಗುವಾಮ್
+    ko: 괌
+    krj: Guwahan
+    kw: Guam
+    ky: Гуам
+    la: Guama
+    lad: Guam
+    lb: Guam
+    lfn: Guam
+    li: Guam
+    lij: Guam
+    lld: Guam
+    lo: ກວມ
+    lrc: گوآم
+    lt: Guamas
+    lv: Guama
+    mg: Guam
+    mi: Kuamu
+    mk: Гуам
+    ml: ഗുവാം
+    mn: Гуам
+    mr: ग्वॉम
+    ms: Guam
+    mt: Guam
+    mul: Guam
+    my: ဂူအမ်ကျွန်း
+    mzn: گوام
+    nan: Guam
+    nb: Guam
+    ne: ग्वाम
+    new: ग्वाम
+    nl: Guam
+    nn: Guam
+    nqo: ߜ߭ߎ߬ߥߊߡ
+    oc: Guam
+    os: Гуам
+    pa: ਗੁਆਮ
+    pag: Guwahan
+    pam: Guahan
+    pap: Guam
+    pap-aw: Guam
+    pcd: Guam
+    pl: Guam
+    pms: Guam
+    pnb: گوام
+    pt: Guam
+    qu: Guam
+    ro: Guam
+    ru: Гуам
+    rw: Gwami
+    sah: Гуам
+    sat: ᱜᱩᱣᱟᱢ
+    sc: Guam
+    scn: Guam
+    sco: Guam
+    se: Guam
+    sh: Guam
+    shn: ၵႂၢမ်ႇ
+    si: ගුආම්
+    sk: Guam
+    sl: Gvam
+    sm: Guam
+    sma: Guam
+    sn: Guam
+    so: Guam
+    sq: Guam
+    sr: Гвам
+    sr-ec: Гвам
+    su: Guam
+    sv: Guam
+    sw: Guam
+    szl: Guam
+    ta: குவாம்
+    te: గువామ్
+    tg: Гуам
+    tg-cyrl: Гуам
+    th: กวม
+    tk: Guam
+    tl: Guwahan
+    to: Kuamu
+    tr: Guam
+    tt: Гуам
+    ug: Guam Aril
+    uk: Гуам
+    ur: گوام
+    uz: Guam
+    vec: Guam
+    vi: Guam
+    vro: Guam
+    war: Guam
+    wo: Guam
+    wuu: 关岛
+    xmf: გუამი
+    yo: Guam
+    yue: 關島
+    zh: 關島
+    zh-hans: 关岛
+    zh-hant: 關島
+    zh-hk: 關島
+    zh-tw: 關島
 ---
-
 # [[Guam]] 
 
 ## [[Guam]] has Properties... 

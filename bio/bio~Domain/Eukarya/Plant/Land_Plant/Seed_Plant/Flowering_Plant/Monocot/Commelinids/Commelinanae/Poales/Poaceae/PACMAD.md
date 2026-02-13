@@ -1,16 +1,51 @@
 ---
 aliases:
-  - PACCMAD
-  - PACCAD
-  - PACC
-  - PACMAD
+- clade PACMAD
+- Klad PACMAD
+- Klado PACCMAD
+- klado ti PACMAD
+- PACC
+- PACCAD
+- PACCMAD
+- PACMAD
+- PACMAD clade
+- PACMAD klada
+- PACMAD 분지군
+- Клада PACMAD
 has_id_wikidata: Q17117466
 instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panicum%20virgatum.jpg
 Commons_gallery: PACMAD clade
 taxon_name: PACMAD clade
+dv_has_:
+  name_:
+    ast: PACMAD clade
+    bg: PACMAD clade
+    ceb: PACMAD clade
+    de: PACMAD clade
+    en: PACMAD clade
+    eo: Klado PACCMAD
+    es: PACMAD clade
+    fi: PACMAD clade
+    fr: clade PACMAD
+    ga: PACMAD clade
+    id: Klad PACMAD
+    ilo: klado ti PACMAD
+    it: PACMAD clade
+    ko: PACMAD 분지군
+    la: PACMAD clade
+    ms: Klad PACMAD
+    nl: PACMAD clade
+    pl: PACMAD clade
+    pt: PACMAD clade
+    ro: PACMAD clade
+    ru: Клада PACMAD
+    sq: PACMAD clade
+    sr: PACMAD klada
+    uk: PACMAD clade
+    vi: PACMAD clade
+    war: PACMAD clade
 ---
-
 # [[PACMAD]] 
 
 #is_/same_as :: [[WD~PACMAD,17117466]]

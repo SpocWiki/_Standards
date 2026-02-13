@@ -1,28 +1,136 @@
 ---
 aliases:
-  - Strange Quark
-  - Strange-Quark
-  - Strange_Quark
-  - s quark
+- acayip kuark
+- cuark extraño
+- kakaibang quark
+- keistasis kvarkas
+- kuark aneh
+- kvark s
+- kwark dziwny
+- podivný kvark
+- quarcum mirum
+- quark bitxi
+- quark estrani
+- quark estraño
+- quark estrañu
+- quark lạ
+- quark s
+- quark strange
+- quark étrange
+- s kvarks
+- s quark
+- s-kvark
+- s-kvarkki
+- s-kvarko
+- S-quarko
+- s-кварк
+- s-քվարկ
+- s-კვარკი
+- strange kvark
+- Strange Quark
+- strange-kvark
+- Strange-Quark
+- Strange_Quark
+- strani kvark
+- særkvark
+- urusahon nga quark
+- vreemd-kwark
+- странен кварк
+- чуден кварк
+- קווארק מוזר
+- عجیب کوارک
+- كوارك غريب
+- وکھرا کوارک
+- کوارک شگفت
+- विचित्र क्वार्क
+- ষ্ট্ৰেইঞ্জ কোৱাৰ্ক
+- স্ট্রেঞ্জ কোয়ার্ক
+- ストレンジクォーク
+- 奇夸克
+- 기묘 쿼크
+- 이상한쿼크
 has_id_wikidata: Q6763
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~strong_interaction,11415]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 antiparticle: '[[_Standards/WikiData/WD~strange_antiquark,11905755]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 electric_charge: -0.3333333333333333
 subclass_of:
-  - '[[_Standards/WikiData/WD~quark,6718]]'
-  - '[[_Standards/WikiData/WD~elementary_particle,43116]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~elementary_particle,43116]]'
 parity_quantum_number: 1
 spin_quantum_number: 0.5
 Monte_Carlo_Particle_Number: 3
 mass: 93.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strange%20quark.svg
+dv_has_:
+  name_:
+    af: vreemd-kwark
+    ar: كوارك غريب
+    as: ষ্ট্ৰেইঞ্জ কোৱাৰ্ক
+    ast: quark estrañu
+    be: s-кварк
+    be-tarask: s-кварк
+    bg: странен кварк
+    bn: স্ট্রেঞ্জ কোয়ার্ক
+    ca: quark s
+    cs: kvark s
+    da: strange-kvark
+    de: Strange-Quark
+    en: strange quark
+    en-ca: strange quark
+    en-gb: strange quark
+    eo: s-kvarko
+    es: cuark extraño
+    et: s-kvark
+    eu: quark bitxi
+    fa: کوارک شگفت
+    fi: s-kvarkki
+    fr: quark étrange
+    gl: quark estraño
+    he: קווארק מוזר
+    hi: विचित्र क्वार्क
+    hr: strani kvark
+    hu: strange kvark
+    hy: s-քվարկ
+    io: S-quarko
+    it: quark strange
+    ja: ストレンジクォーク
+    ka: s-კვარკი
+    ko: 기묘 쿼크
+    ko-kp: 이상한쿼크
+    la: quarcum mirum
+    lt: keistasis kvarkas
+    lv: s kvarks
+    mk: чуден кварк
+    ms: kuark aneh
+    nb: særkvark
+    nl: strange quark
+    nn: s-kvark
+    oc: quark estrani
+    pl: kwark dziwny
+    pnb: وکھرا کوارک
+    pt: quark strange
+    pt-br: quark strange
+    ru: s-кварк
+    sh: strani kvark
+    sk: podivný kvark
+    sl: kvark s
+    sr: strani kvark
+    tl: kakaibang quark
+    tr: acayip kuark
+    tt: s-kvark
+    uk: s-кварк
+    ur: عجیب کوارک
+    vi: quark lạ
+    war: urusahon nga quark
+    wuu: 奇夸克
+    yue: 奇夸克
+    zh: 奇夸克
 ---
-
 # [[Strange Quark]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Strange_quark,6763|WD~Strange_quark,6763]] 

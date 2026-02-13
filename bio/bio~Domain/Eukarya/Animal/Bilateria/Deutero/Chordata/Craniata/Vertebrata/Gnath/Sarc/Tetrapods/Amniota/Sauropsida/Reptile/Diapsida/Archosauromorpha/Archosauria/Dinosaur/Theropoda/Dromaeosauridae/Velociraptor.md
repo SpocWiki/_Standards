@@ -1,37 +1,152 @@
 ---
 aliases:
+- akesi Welosilato
+- Ovoraptor
+- Snareðla
+- Veileasaraptar
+- Velociraptor
+- Velociraptorius
+- Velosiraptor
+- Velosireptors
+- Veluoceraptuorius
+- welociraptor
+- Welokirapetoa
+- Welosiraptor
+- Βελοσιράπτορας
+- велоцираптор
+- велоцираптори
+- вэляцыраптар
+- ולוצירפטור
+- فيلوسيرابتور
+- ولوسیراپتور
+- वेलोसिरैप्टर
+- வெலாசிராப்டர்
+- വെലോസിറാപ്റ്റർ
+- วิลอซิแรปเตอร์
+- ველოცირაპტორი
+- ᎠᎦᎳᏑᎬ
+- ヴェロキラプトル
+- 伶盗龙属
+- 伶盜龍屬
+- 벨로키랍토르
 has_id_wikidata: Q14403
-main_food_source: "[[_Standards/WikiData/WD~carnivore,81875]]"
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Barun_Goyot_Formation,576013]]"
-  - "[[_Standards/WikiData/WD~Djadochta_Formation,2879714]]"
-  - "[[_Standards/WikiData/WD~Bayan_Mandahu_Formation,4874284]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-different_from: "[[_Standards/WikiData/WD~Vasilopita,1072235]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+- '[[_Standards/WikiData/WD~Barun_Goyot_Formation,576013]]'
+- '[[_Standards/WikiData/WD~Djadochta_Formation,2879714]]'
+- '[[_Standards/WikiData/WD~Bayan_Mandahu_Formation,4874284]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+different_from: '[[_Standards/WikiData/WD~Vasilopita,1072235]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 end_time: -71000000-01-01T00:00:00Z
 height: 0.5
 mass: 15
 length:
-  - 1.8 
-  - 2.07
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+- 1.8
+- 2.07
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
 Commons_gallery: Velociraptor
 Commons_category: Velociraptor
 taxon_name: Velociraptor
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Vraptor%20Scale.svg
 taxon_common_name:
-  - ヴェロキラプトル
-  - 伶盜龍
-  - Velosiraptor
-  - 벨로키랍토르
-  - velociraptor
-  - เวโลซีแรปเตอร์
+- ヴェロキラプトル
+- 伶盜龍
+- Velosiraptor
+- 벨로키랍토르
+- velociraptor
+- เวโลซีแรปเตอร์
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Velociraptor%20skeleton%20white%20background.jpg
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Velociraptor"]
 start_time: -75000000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Velociraptor
+    an: Velociraptor
+    ar: فيلوسيرابتور
+    ast: Velociraptor
+    az: Velosiraptor
+    be-tarask: вэляцыраптар
+    bg: велоцираптори
+    br: Velosiraptor
+    ca: velociraptor
+    ceb: Velociraptor
+    chr: ᎠᎦᎳᏑᎬ
+    cs: Velociraptor
+    da: Velociraptor
+    de: Velociraptor
+    el: Βελοσιράπτορας
+    en: Velociraptor
+    en-ca: Velociraptor
+    en-gb: Velociraptor
+    en-us: Velociraptor
+    eo: Velociraptor
+    es: Velociraptor
+    eu: Velociraptor
+    fa: ولوسیراپتور
+    fi: Velociraptor
+    fr: Velociraptor
+    ga: Veileasaraptar
+    gl: Velociraptor
+    haw: Welokirapetoa
+    he: ולוצירפטור
+    hi: वेलोसिरैप्टर
+    hr: Velociraptor
+    hu: Velociraptor
+    ia: Velociraptor
+    id: Velociraptor
+    is: Snareðla
+    it: Velociraptor
+    ja: ヴェロキラプトル
+    jv: Velociraptor
+    ka: ველოცირაპტორი
+    kk: Велоцираптор
+    ko: 벨로키랍토르
+    la: Velociraptor
+    li: Velociraptor
+    lt: Velociraptorius
+    lv: Velosireptors
+    ml: വെലോസിറാപ്റ്റർ
+    ms: Velociraptor
+    mul: Velociraptor
+    nah: Velociraptor
+    nb: Velociraptor
+    nl: Velociraptor
+    nn: Velociraptor
+    oc: Velociraptor
+    or: Ovoraptor
+    pl: welociraptor
+    pt: Velociraptor
+    pt-br: Velociraptor
+    ro: Velociraptor
+    ru: велоцираптор
+    scn: Velociraptor
+    sco: Velociraptor
+    sgs: Veluoceraptuorius
+    sh: Velociraptor
+    sk: Velociraptor
+    sl: velociraptor
+    sq: Velociraptor
+    sr: Velociraptor
+    sv: Velociraptor
+    ta: வெலாசிராப்டர்
+    th: วิลอซิแรปเตอร์
+    tk: Welosiraptor
+    tl: Velociraptor
+    tok: akesi Welosilato
+    tr: Velociraptor
+    uk: Велоцираптор
+    uz: Velociraptor
+    uz-cyrl: Велоцираптор
+    vi: Velociraptor
+    war: Velociraptor
+    wuu: 伶盗龙属
+    yue: 伶盜龍屬
+    zh: 伶盜龍屬
+    zh-cn: 伶盗龙属
+    zh-hans: 伶盗龙属
+    zh-hk: 伶盜龍屬
 ---
-
 # [[Velociraptor]] 
 
 #is_/same_as :: [[WD~Velociraptor,14403]] 

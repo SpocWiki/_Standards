@@ -1,21 +1,58 @@
 ---
 aliases:
-  - Jamsetji Nusserwanji Tata
-  - Jamsetji Tata
-  - Jamsetji_Tata
-  - Tata,Jamsetji
+- Camsetci Tata
+- Cəmşidci Tata
+- Dzsamszedzsi Tata
+- Džamšedži Tata
+- Džamšéddží Táta
+- Jamsetji Nusserwanji Tata
+- Jamsetji Tata
+- Jamsetji_Tata
+- Jamshedji Tata
+- Tata,Jamsetji
+- Čəmšedči Tata
+- Джамшеджі Тата
+- Джамшеджи Тата
+- Джамшетджи Тата
+- Джамшэджы Тата
+- Ջամշեդի Թաթա
+- ג'מסטג'י טאטא
+- جامستجى تاتا
+- جامستجي تاتا
+- جامسیتجی ٹاٹا
+- جمسیٹ جی ٹاٹا
+- جمشید جی ٹاٹا
+- جمشیدجی تاتا
+- जमशेतजी टाटा
+- जमशेदजी टाटा
+- জামছেদজী টাটা
+- জামসেদজি টাটা
+- ਜਮਸ਼ੇਦਜੀ ਟਾਟਾ
+- જમશેદજી તાતા
+- ଜାମସେଦଜୀ ଟାଟା
+- ஜம்சேத்ஜீ டாட்டா
+- జమ్సేట్జి టాటా
+- ಜಮ್ಸೆಟ್ಜಿ ನುಝರ್ವಾನ್ಜಿ ಟಾಟ
+- ജംഷഡ്ജി ടാറ്റ
+- ชัมเศทจี ตาตา
+- ჯამსეტი ტატა
+- ᱡᱟᱢᱥᱮᱫᱽᱡᱤ ᱴᱟᱴᱟ
+- ジャムシェトジー・タタ
+- 賈姆希德吉·塔塔
+- 贾姆希德吉·塔塔
+- 잠셋지 타타
 has_id_wikidata: Q320109
 occupation: '[[_Standards/WikiData/WD~entrepreneur,131524]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Mumbai,406402]]'
-  - '[[_Standards/WikiData/WD~Elphinstone_College,1333283]]'
+- '[[_Standards/WikiData/WD~University_of_Mumbai,406402]]'
+- '[[_Standards/WikiData/WD~Elphinstone_College,1333283]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_second_supplement,16014697]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_second_supplement,16014697]]'
 place_of_burial: '[[_Standards/WikiData/WD~Brookwood_Cemetery,990618]]'
 child:
-  - '[[_Standards/WikiData/WD~Dorabji_Tata,1243687]]'
-  - '[[_Standards/WikiData/WD~Ratanji_Tata,4664507]]'
+- '[[_Standards/WikiData/WD~Dorabji_Tata,1243687]]'
+- '[[_Standards/WikiData/WD~Ratanji_Tata,4664507]]'
 place_of_birth: '[[_Standards/WikiData/WD~Navsari,1922248]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Tata,37046371]]'
@@ -24,8 +61,8 @@ mother: '[[_Standards/WikiData/WD~Jeevanbai_Tata,106272276]]'
 spouse: '[[_Standards/WikiData/WD~Hirabai_Daboo,106272720]]'
 date_of_birth: 1839-03-03T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Gujarati,5137]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Gujarati,5137]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~British_Empire,8680]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
@@ -36,8 +73,80 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/JNTata.jpg
 ISNI: 0000000110459243
 name_in_native_language: જમશેદજી તાતા
 date_of_death: 1904-05-19T00:00:00Z
+dv_has_:
+  name_:
+    ar: جامستجي تاتا
+    arz: جامستجى تاتا
+    as: জামছেদজী টাটা
+    ast: Jamsetji Tata
+    az: Cəmşidci Tata
+    ba: Джамшеджи Тата
+    be-tarask: Джамшэджы Тата
+    bg: Джамшетджи Тата
+    bn: জামসেদজি টাটা
+    ca: Jamsetji Tata
+    cs: Džamšéddží Táta
+    da: Jamsetji Tata
+    de: Jamshedji Tata
+    en: Jamsetji Tata
+    es: Jamsetji Tata
+    eu: Jamsetji Tata
+    fa: جمشیدجی تاتا
+    fi: Jamsetji Tata
+    fr: Jamsetji Tata
+    gl: Jamsetji Tata
+    gu: જમશેદજી તાતા
+    he: ג'מסטג'י טאטא
+    hi: जमशेदजी टाटा
+    hif: Jamsetji Tata
+    hr: Jamsetji Tata
+    hu: Dzsamszedzsi Tata
+    hy: Ջամշեդի Թաթա
+    id: Jamsetji Tata
+    it: Jamshedji Tata
+    ja: ジャムシェトジー・タタ
+    ka: ჯამსეტი ტატა
+    kn: ಜಮ್ಸೆಟ್ಜಿ ನುಝರ್ವಾನ್ಜಿ ಟಾಟ
+    ko: 잠셋지 타타
+    ks: جامسیتجی ٹاٹا
+    mg: Jamsetji Tata
+    ml: ജംഷഡ്ജി ടാറ്റ
+    mr: जमशेदजी टाटा
+    ms: Jamsetji Tata
+    nb: Jamsetji Tata
+    nl: Jamsetji Tata
+    nn: Jamsetji Tata
+    or: ଜାମସେଦଜୀ ଟାଟା
+    pa: ਜਮਸ਼ੇਦਜੀ ਟਾਟਾ
+    pl: Jamsetji Nusserwanji Tata
+    pnb: جمسیٹ جی ٹاٹا
+    pt: Jamsetji Tata
+    pt-br: Jamsetji Tata
+    ro: Jamsetji Tata
+    ru: Джамшеджи Тата
+    sa: जमशेतजी टाटा
+    sat: ᱡᱟᱢᱥᱮᱫᱽᱡᱤ ᱴᱟᱴᱟ
+    sq: Jamsetji Tata
+    sr: Džamšedži Tata
+    sv: Jamsetji Tata
+    ta: ஜம்சேத்ஜீ டாட்டா
+    te: జమ్సేట్జి టాటా
+    th: ชัมเศทจี ตาตา
+    tly: Čəmšedči Tata
+    tr: Camsetci Tata
+    uk: Джамшеджі Тата
+    ur: جمشید جی ٹاٹا
+    vi: Jamsetji Tata
+    war: Jamsetji Tata
+    yue: 賈姆希德吉·塔塔
+    zh: 贾姆希德吉·塔塔
+    zh-cn: 贾姆希德吉·塔塔
+    zh-hans: 贾姆希德吉·塔塔
+    zh-hant: 賈姆希德吉·塔塔
+    zh-hk: 賈姆希德吉·塔塔
+    zh-sg: 贾姆希德吉·塔塔
+    zh-tw: 賈姆希德吉·塔塔
 ---
-
 # [[Tata,Jamsetji]] 
 
 #is_/same_as :: [[WD~Jamsetji_Tata,320109]] 

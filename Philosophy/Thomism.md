@@ -1,7 +1,45 @@
 ---
 aliases:
-  - Thomismus
-  - Thomism
+- Thomism
+- Thomisme
+- Thomismo
+- Thomismus
+- Thoumême
+- Tomism
+- tomisme
+- Tomismi
+- tomismo
+- tomisms
+- Tomismu
+- Tomismus
+- Tomistiaeth
+- Tomizam
+- tomizem
+- tomizm
+- Tomizmas
+- Tomizmi
+- tomizmus
+- Tomïzm
+- Tômisma
+- Θωμισμός
+- тамізм
+- томізм
+- Томизам
+- томизм
+- Թոմիզմ
+- Թովմայականութիւն
+- תומיזם
+- توماوية
+- تومىيزم
+- تومیسم
+- ټاميزم
+- ਥੌਮਵਾਦ
+- തോമിസം
+- თომიზმი
+- トマス主義
+- 托馬斯主義
+- 托马斯主义
+- 토미즘
 has_id_wikidata: Q328945
 described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
@@ -9,8 +47,78 @@ named_after: '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
 founded_by: '[[_Standards/WikiData/WD~Thomas_Aquinas,9438]]'
 Dewey_Decimal_Classification: 189.4
 PhilPapers_topic: thomism
+dv_has_:
+  name_:
+    ar: توماوية
+    ast: Tomismu
+    azb: تومیسم
+    be-tarask: тамізм
+    ca: tomisme
+    cs: Tomismus
+    cy: Tomistiaeth
+    da: Thomisme
+    de: Thomismus
+    el: Θωμισμός
+    en: Thomism
+    eo: Tomismo
+    es: Tomismo
+    et: Tomism
+    eu: Tomismo
+    fa: تومیسم
+    fi: Tomismi
+    fr: thomisme
+    gl: Tomismo
+    he: תומיזם
+    hr: Tomizam
+    hu: tomizmus
+    hy: Թոմիզմ
+    hyw: Թովմայականութիւն
+    ia: Thomismo
+    id: Thomisme
+    it: tomismo
+    ja: トマス主義
+    ka: თომიზმი
+    kk: Томизм
+    kk-arab: تومىيزم
+    kk-cn: تومىيزم
+    kk-cyrl: Томизм
+    kk-kz: Томизм
+    kk-latn: Tomïzm
+    kk-tr: Tomïzm
+    ko: 토미즘
+    ky: Томизм
+    la: Thomismus
+    lfn: Tomisme
+    lt: Tomizmas
+    lv: tomisms
+    mg: Tômisma
+    ml: തോമിസം
+    nb: thomisme
+    nl: Thomisme
+    nrm: Thoumême
+    pa: ਥੌਮਵਾਦ
+    pl: tomizm
+    pms: Tomism
+    ps: ټاميزم
+    pt: Tomismo
+    ro: Tomism
+    ru: томизм
+    sh: Tomizam
+    sk: Tomizmus
+    sl: tomizem
+    sq: Tomizmi
+    sr: Томизам
+    sr-ec: Томизам
+    sr-el: Tomizam
+    sv: Thomism
+    tt: томизм
+    uk: томізм
+    uz: Tomizm
+    vi: Thomism
+    zh: 托马斯主义
+    zh-cn: 托马斯主义
+    zh-hant: 托馬斯主義
 ---
-
 # [[Thomism]] 
 
 #is_/same_as :: [[../WikiData/WD~Thomism,328945|WD~Thomism,328945]]  

@@ -1,44 +1,170 @@
 ---
 aliases:
+- Akụkọ banyere mbara igwe
+- Astronomiaren historia
+- astronomiens historie
+- astronomiija historjá
+- astronomijas vēsture
+- astronomins historia
+- Astronomiya tarixi
+- astronoomia ajalugu
+- dejiny astronómie
+- dějiny astronomie
+- Geschicht vun der Astronomie
+- Geschichte der Astronomie
+- geschiedenis van de astronomie
+- gök bilimi tarihi
+- histoire de l'astronomie
+- Historia astronomiae
+- historia astronomii
+- historia da astronomía
+- Historia de l'astronomía
+- historia de la astronomía
+- historia del astronomia
+- Historia di astronomia
+- Historia e Astronomisë
+- historija astronomije
+- historio de la astronomio
+- history of astronomy
+- història de l'astronomia
+- história da astronomia
+- Istorgia da l'astronomia
+- istoria astronomiei
+- istòria de l'astronomia
+- lịch sử thiên văn học
+- povijest astronomije
+- Sejarah astronomi
+- storia dell'astronomia
+- tähtitieteen historia
+- täsnitiettuu historjá
+- täʹsnntiõtti historia
+- zgodovina astronomije
+- ιστορία της αστρονομίας
+- історія астрономії
+- астрономия тарихы
+- гісторыя астраноміі
+- историја астрономије
+- историја на астрономијата
+- история астрономии
+- история на астрономията
+- աստղագիտության պատմություն
+- היסטוריה של האסטרונומיה
+- تاريخ علم الفلك
+- تاریخ اخترشناسی
+- د ستورپوهنې تاريخ (2)
+- खगोलशास्त्रस्य इतिहासः
+- खगोलिकी का इतिहास
+- জ্যোতির্বিজ্ঞানের ইতিহাস
+- 天文史
+- 天文学史
+- 天文學史
+- 천문학사
 has_id_wikidata: Q50056
 described_by_source:
-  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-  - "[[_Standards/WikiData/WD~history_of_natural_science,56296765]]"
-has_part_s_: "[[_Standards/WikiData/WD~discovery_and_exploration_of_the_Solar_System,3770855]]"
+- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
+has_part_s_: '[[_Standards/WikiData/WD~discovery_and_exploration_of_the_Solar_System,3770855]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-part_of: "[[_Standards/WikiData/WD~history_of_astrophysics,61257298]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_astronomy,108575657]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+part_of: '[[_Standards/WikiData/WD~history_of_astrophysics,61257298]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_astronomy,108575657]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nebra%20Scheibe.jpg
-Basisklassifikation: "39.01"
+Basisklassifikation: 39.01
 Commons_category: History of astronomy
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]]"
-    - "[[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]]"
-    - "[[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]]"
-    - "[[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]]"
-    - "[[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]]"
-    - "[[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]]"
-    - "[[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]]"
-    - "[[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]]"
+  - '[[../WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]]'
+  - '[[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]]'
+  - '[[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]]'
+  - '[[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]]'
+  - '[[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]]'
+  - '[[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]]'
+  - '[[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]]'
+  - '[[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]]"
-  - "[[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]]"
-  - "[[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]]"
-  - "[[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]]"
-  - "[[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]]"
-  - "[[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]]"
-  - "[[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]]"
-  - "[[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]]"
+- '[[../WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]]'
+- '[[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]]'
+- '[[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]]'
+- '[[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]]'
+- '[[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]]'
+- '[[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]]'
+- '[[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]]'
+- '[[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]]'
+dv_has_:
+  name_:
+    ar: تاريخ علم الفلك
+    ast: Historia de l'astronomía
+    az: Astronomiya tarixi
+    be: гісторыя астраноміі
+    be-tarask: гісторыя астраноміі
+    bg: история на астрономията
+    bn: জ্যোতির্বিজ্ঞানের ইতিহাস
+    ca: història de l'astronomia
+    cs: dějiny astronomie
+    da: astronomiens historie
+    de: Geschichte der Astronomie
+    el: ιστορία της αστρονομίας
+    en: history of astronomy
+    eo: historio de la astronomio
+    es: historia de la astronomía
+    et: astronoomia ajalugu
+    eu: Astronomiaren historia
+    fa: تاریخ اخترشناسی
+    fi: tähtitieteen historia
+    fr: histoire de l'astronomie
+    gl: historia da astronomía
+    he: היסטוריה של האסטרונומיה
+    hi: खगोलिकी का इतिहास
+    hr: povijest astronomije
+    hy: աստղագիտության պատմություն
+    ia: historia del astronomia
+    id: Sejarah astronomi
+    ig: Akụkọ banyere mbara igwe
+    it: storia dell'astronomia
+    ja: 天文学史
+    ko: 천문학사
+    la: Historia astronomiae
+    lb: Geschicht vun der Astronomie
+    lv: astronomijas vēsture
+    mk: историја на астрономијата
+    ms: Sejarah astronomi
+    nb: astronomiens historie
+    nl: geschiedenis van de astronomie
+    pap: Historia di astronomia
+    pl: historia astronomii
+    ps: د ستورپوهنې تاريخ (2)
+    pt: história da astronomia
+    rm: Istorgia da l'astronomia
+    ro: istoria astronomiei
+    ru: история астрономии
+    sa: खगोलशास्त्रस्य इतिहासः
+    se: astronomiija historjá
+    sh: historija astronomije
+    sk: dejiny astronómie
+    sl: zgodovina astronomije
+    smn: täsnitiettuu historjá
+    sms: täʹsnntiõtti historia
+    sq: Historia e Astronomisë
+    sr: историја астрономије
+    sr-ec: историја астрономије
+    sv: astronomins historia
+    tr: gök bilimi tarihi
+    tt: астрономия тарихы
+    uk: історія астрономії
+    vec: istòria de l'astronomia
+    vi: lịch sử thiên văn học
+    yue: 天文史
+    zh: 天文学史
+    zh-cn: 天文学史
+    zh-hans: 天文学史
+    zh-hant: 天文學史
 ---
-
 # [[History_of_Astronomy]] 
 
 #is_/same_as :: [[WikiData/WD~History_of_astronomy,50056|WD~History_of_astronomy,50056]] 

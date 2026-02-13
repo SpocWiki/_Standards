@@ -1,102 +1,141 @@
 ---
 aliases:
-  - Paul_Samuelson
-  - Samuelson,Paul
+- alfred marshall
+- Paul A. Samuelson
+- Paul Anthony Samuelson
+- Paul Samuelson
+- Paulus Samuelson
+- Paul_Samuelson
+- Pol Samjuelson
+- Pols Samuelsons
+- Samuelson Pol Entoni
+- Samuelson,Paul
+- Πολ Σάμιουελσον
+- Пол Самјуелсон
+- Пол Самюелсън
+- Пол Семјуелсон
+- Пол Семюельсон
+- Пол Энтані Самуэлсан
+- Пол Энтані Самуэльсан
+- Пол Энтони Самуэльсон
+- Պոլ Սամուելսոն
+- פול סמואלסון
+- بول سامويلسون
+- پاؤل سیمیولسن
+- پال سیموئل سن
+- پل ساموئلسون
+- पल एन्थोनी स्यामुएल्सन
+- पाल ए स्याम्युएल्सन
+- पाल एन्थनी सेमुएल्सन
+- पॉल सॅम्युअलसन
+- পল স্যামুয়েলসন
+- ਪੌਲ ਸੈਮੂਅਲਸਨ
+- பவுல் சாமுவேல்சன்
+- ಪೌಲ್ ಸ್ಯಾಮುಯೆಲ್ಸನ್
+- პოლ სამუელსონი
+- ポール・サミュエルソン
+- 保罗·萨缪尔森
+- 保羅·安東尼·薩繆爾森
+- 保羅·森穆遜
+- 保羅·薩繆森
+- 保羅·薩繆爾森
+- 森穆遜
+- 폴 새뮤얼슨
 has_id_wikidata: Q102454
 influenced_by:
-  - '[[_Standards/WikiData/WD~Joseph_Schumpeter,78477]]'
-  - '[[_Standards/WikiData/WD~Gottfried_Haberler,89408]]'
-  - '[[_Standards/WikiData/WD~James_Tobin,211776]]'
-  - '[[_Standards/WikiData/WD~George_Bernard_Dantzig,337040]]'
-  - '[[_Standards/WikiData/WD~Frank_Knight,355223]]'
-  - '[[_Standards/WikiData/WD~Knut_Wicksell,365858]]'
-  - '[[_Standards/WikiData/WD~Alvin_Hansen,449105]]'
-  - '[[_Standards/WikiData/WD~Erik_Lindahl,742722]]'
-  - '[[_Standards/WikiData/WD~Edwin_Bidwell_Wilson,912906]]'
-  - '[[_Standards/WikiData/WD~Henry_Calvert_Simons,1606589]]'
-  - '[[_Standards/WikiData/WD~John_Maynard_Keynes,9317]]'
-  - '[[_Standards/WikiData/WD~Wassily_Leontief,44061]]'
+- '[[_Standards/WikiData/WD~Joseph_Schumpeter,78477]]'
+- '[[_Standards/WikiData/WD~Gottfried_Haberler,89408]]'
+- '[[_Standards/WikiData/WD~James_Tobin,211776]]'
+- '[[_Standards/WikiData/WD~George_Bernard_Dantzig,337040]]'
+- '[[_Standards/WikiData/WD~Frank_Knight,355223]]'
+- '[[_Standards/WikiData/WD~Knut_Wicksell,365858]]'
+- '[[_Standards/WikiData/WD~Alvin_Hansen,449105]]'
+- '[[_Standards/WikiData/WD~Erik_Lindahl,742722]]'
+- '[[_Standards/WikiData/WD~Edwin_Bidwell_Wilson,912906]]'
+- '[[_Standards/WikiData/WD~Henry_Calvert_Simons,1606589]]'
+- '[[_Standards/WikiData/WD~John_Maynard_Keynes,9317]]'
+- '[[_Standards/WikiData/WD~Wassily_Leontief,44061]]'
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Joseph_Schumpeter,78477]]'
-  - '[[_Standards/WikiData/WD~Wassily_Leontief,44061]]'
+- '[[_Standards/WikiData/WD~Joseph_Schumpeter,78477]]'
+- '[[_Standards/WikiData/WD~Wassily_Leontief,44061]]'
 occupation:
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Economic_Association,464096]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
-  - '[[_Standards/WikiData/WD~International_Economic_Association,1666512]]'
-  - '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
-  - '[[_Standards/WikiData/WD~Royal_Economic_Society,2171015]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Economic_Association,464096]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
+- '[[_Standards/WikiData/WD~International_Economic_Association,1666512]]'
+- '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
+- '[[_Standards/WikiData/WD~Royal_Economic_Society,2171015]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
-  - '[[_Standards/WikiData/WD~MIT_Sloan_School_of_Management,142740]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~MIT_Sloan_School_of_Management,142740]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
-  - '[[_Standards/WikiData/WD~Hyde_Park_Academy_High_School,5953653]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~Hyde_Park_Academy_High_School,5953653]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
 residence:
-  - '[[_Standards/WikiData/WD~Gary,184116]]'
-  - '[[_Standards/WikiData/WD~Belmont,816096]]'
-  - '[[_Standards/WikiData/WD~Chicago,1297]]'
+- '[[_Standards/WikiData/WD~Gary,184116]]'
+- '[[_Standards/WikiData/WD~Belmont,816096]]'
+- '[[_Standards/WikiData/WD~Chicago,1297]]'
 place_of_birth: '[[_Standards/WikiData/WD~Gary,184116]]'
 student: '[[_Standards/WikiData/WD~Robert_C._Merton,287542]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Robert_C._Merton,287542]]'
-  - '[[_Standards/WikiData/WD~Lawrence_Klein,295761]]'
-  - '[[_Standards/WikiData/WD~Thomas_Vietorisz,24893866]]'
-  - '[[_Standards/WikiData/WD~Margaret_Garritsen_de_Vries,28606010]]'
-  - '[[_Standards/WikiData/WD~Henry_Y._Wan,30079375]]'
-  - '[[_Standards/WikiData/WD~Fred_M._Westfield,58570257]]'
-  - '[[_Standards/WikiData/WD~Richard_S._Eckaus,59635691]]'
-  - '[[_Standards/WikiData/WD~David_Levhari,99485127]]'
-  - '[[_Standards/WikiData/WD~David_T._Scheffman,102116416]]'
-  - '[[_Standards/WikiData/WD~Hiroaki_Nagatani,102444300]]'
-  - '[[_Standards/WikiData/WD~John_R._Dominguez,102444317]]'
-  - '[[_Standards/WikiData/WD~William_D._Finkle,102444331]]'
-  - '[[_Standards/WikiData/WD~Ralph_E._Beals,102444347]]'
-  - '[[_Standards/WikiData/WD~Badal_Mukherji,102444369]]'
-  - '[[_Standards/WikiData/WD~Edwin_Burmeister,102444417]]'
-  - '[[_Standards/WikiData/WD~Lattee_Adees_Fahm,102444435]]'
-  - '[[_Standards/WikiData/WD~Raoul_James_Freeman,102444475]]'
-  - '[[_Standards/WikiData/WD~John_H._Kareken,102444508]]'
-  - '[[_Standards/WikiData/WD~Richard_Kruizenga,102444522]]'
-  - '[[_Standards/WikiData/WD~Harold_Alfred_John_Green,102444540]]'
-  - '[[_Standards/WikiData/WD~Romney_Robinson,102444557]]'
-  - '[[_Standards/WikiData/WD~Sherwin_Kalt,102444575]]'
-  - '[[_Standards/WikiData/WD~Arthur_G._Ashbrook_Jr.,102444590]]'
-  - '[[_Standards/WikiData/WD~Louise_Freier,102444612]]'
+- '[[_Standards/WikiData/WD~Robert_C._Merton,287542]]'
+- '[[_Standards/WikiData/WD~Lawrence_Klein,295761]]'
+- '[[_Standards/WikiData/WD~Thomas_Vietorisz,24893866]]'
+- '[[_Standards/WikiData/WD~Margaret_Garritsen_de_Vries,28606010]]'
+- '[[_Standards/WikiData/WD~Henry_Y._Wan,30079375]]'
+- '[[_Standards/WikiData/WD~Fred_M._Westfield,58570257]]'
+- '[[_Standards/WikiData/WD~Richard_S._Eckaus,59635691]]'
+- '[[_Standards/WikiData/WD~David_Levhari,99485127]]'
+- '[[_Standards/WikiData/WD~David_T._Scheffman,102116416]]'
+- '[[_Standards/WikiData/WD~Hiroaki_Nagatani,102444300]]'
+- '[[_Standards/WikiData/WD~John_R._Dominguez,102444317]]'
+- '[[_Standards/WikiData/WD~William_D._Finkle,102444331]]'
+- '[[_Standards/WikiData/WD~Ralph_E._Beals,102444347]]'
+- '[[_Standards/WikiData/WD~Badal_Mukherji,102444369]]'
+- '[[_Standards/WikiData/WD~Edwin_Burmeister,102444417]]'
+- '[[_Standards/WikiData/WD~Lattee_Adees_Fahm,102444435]]'
+- '[[_Standards/WikiData/WD~Raoul_James_Freeman,102444475]]'
+- '[[_Standards/WikiData/WD~John_H._Kareken,102444508]]'
+- '[[_Standards/WikiData/WD~Richard_Kruizenga,102444522]]'
+- '[[_Standards/WikiData/WD~Harold_Alfred_John_Green,102444540]]'
+- '[[_Standards/WikiData/WD~Romney_Robinson,102444557]]'
+- '[[_Standards/WikiData/WD~Sherwin_Kalt,102444575]]'
+- '[[_Standards/WikiData/WD~Arthur_G._Ashbrook_Jr.,102444590]]'
+- '[[_Standards/WikiData/WD~Louise_Freier,102444612]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 place_of_death: '[[_Standards/WikiData/WD~Belmont,816096]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
-  - '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
-  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society,5896956]]'
-  - '[[_Standards/WikiData/WD~honorary_member,10519151]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_Polytechnic_University_of_Valencia,50618392]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_of_Keiō_University,60658956]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_from_the_NOVA_University_Lisbon,69626819]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_from_the_Pontifical_Catholic_University_of_Peru,97446358]]'
+- '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
+- '[[_Standards/WikiData/WD~Josiah_Willard_Gibbs_Lectureship,1522873]]'
+- '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_Royal_Society,5896956]]'
+- '[[_Standards/WikiData/WD~honorary_member,10519151]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_Polytechnic_University_of_Valencia,50618392]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_of_Keiō_University,60658956]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_from_the_NOVA_University_Lisbon,69626819]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_the_Pontifical_Catholic_University_of_Peru,97446358]]'
 family_name: '[[_Standards/WikiData/WD~Samuelson,2219079]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Paul,4925623]]'
-  - '[[_Standards/WikiData/WD~Anthony,12241622]]'
+- '[[_Standards/WikiData/WD~Paul,4925623]]'
+- '[[_Standards/WikiData/WD~Anthony,12241622]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Robert_Summers,7350148]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Indiana_Authors_and_Their_Books,_1917_1966,117272481]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Indiana_Authors_and_Their_Books,_1917_1966,117272481]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -115,8 +154,108 @@ ISNI: 0000000121448929
 NLC_authorities: 037894757
 U_S_National_Archives_Identifier: 10582207
 Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/SAMUELSON_POL.html
+dv_has_:
+  name_:
+    ar: بول سامويلسون
+    arz: بول سامويلسون
+    ast: Paul Samuelson
+    az: Paul Samuelson
+    be: Пол Энтані Самуэльсан
+    be-tarask: Пол Энтані Самуэлсан
+    bg: Пол Самюелсън
+    bn: পল স্যামুয়েলসন
+    bs: Paul A. Samuelson
+    ca: Paul Samuelson
+    cs: Paul A. Samuelson
+    cy: Paul Samuelson
+    da: Paul Samuelson
+    dag: Paul Samuelson
+    de: Paul A. Samuelson
+    de-ch: Paul A. Samuelson
+    el: Πολ Σάμιουελσον
+    en: Paul Samuelson
+    en-ca: Paul Samuelson
+    en-gb: Paul Samuelson
+    en-us: Paul Samuelson
+    eo: Paul Samuelson
+    es: Paul Samuelson
+    et: Paul Samuelson
+    eu: Paul Samuelson
+    fa: پل ساموئلسون
+    fi: Paul Samuelson
+    fr: Paul Samuelson
+    ga: Paul Samuelson
+    gd: Paul Samuelson
+    gl: Paul Samuelson
+    he: פול סמואלסון
+    hi: पाल एन्थनी सेमुएल्सन
+    hr: Paul Samuelson
+    hu: Paul Samuelson
+    hy: Պոլ Սամուելսոն
+    ia: Paul Samuelson
+    id: Paul A. Samuelson
+    io: Paul Samuelson
+    is: Paul Samuelson
+    it: Paul Samuelson
+    ja: ポール・サミュエルソン
+    ka: პოლ სამუელსონი
+    kk: Пол Энтони Самуэльсон
+    kn: ಪೌಲ್ ಸ್ಯಾಮುಯೆಲ್ಸನ್
+    ko: 폴 새뮤얼슨
+    la: Paulus Samuelson
+    lb: Paul Anthony Samuelson
+    lt: Paul Samuelson
+    lv: Pols Samuelsons
+    mg: Paul Samuelson
+    mk: Пол Семјуелсон
+    mr: पॉल सॅम्युअलसन
+    ms: Paul Samuelson
+    mul: Paul Samuelson
+    nan: Paul Samuelson
+    nb: Paul Samuelson
+    nds: Paul Anthony Samuelson
+    ne: पाल ए स्याम्युएल्सन
+    new: पल एन्थोनी स्यामुएल्सन
+    nl: Paul Samuelson
+    nn: Paul Samuelson
+    oc: Paul Samuelson
+    pa: ਪੌਲ ਸੈਮੂਅਲਸਨ
+    pl: Paul Samuelson
+    pnb: پال سیموئل سن
+    pt: Paul Samuelson
+    pt-br: Paul Samuelson
+    qu: Paul Samuelson
+    ro: Paul Samuelson
+    ru: Пол Энтони Самуэльсон
+    sh: Paul Samuelson
+    si: alfred marshall
+    sk: Paul Samuelson
+    sl: Paul Samuelson
+    sq: Paul A. Samuelson
+    sr: Пол Самјуелсон
+    sr-ec: Пол Самјуелсон
+    sr-el: Pol Samjuelson
+    sv: Paul Samuelson
+    ta: பவுல் சாமுவேல்சன்
+    th: Paul Samuelson
+    tl: Paul Samuelson
+    tr: Paul Samuelson
+    uk: Пол Семюельсон
+    ur: پاؤل سیمیولسن
+    uz: Samuelson Pol Entoni
+    vi: Paul Samuelson
+    wuu: 保罗·萨缪尔森
+    xmf: პოლ სამუელსონი
+    yo: Paul Samuelson
+    yue: 森穆遜
+    zh: 保羅·安東尼·薩繆爾森
+    zh-cn: 保罗·萨缪尔森
+    zh-hans: 保罗·萨缪尔森
+    zh-hant: 保羅·薩繆爾森
+    zh-hk: 保羅·森穆遜
+    zh-sg: 保罗·萨缪尔森
+    zh-tw: 保羅·薩繆森
 ---
-
 # [[Samuelson,Paul]] 
 
 #is_/same_as :: [[WD~Paul_Samuelson,102454]] 

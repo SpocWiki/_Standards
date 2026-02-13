@@ -1,42 +1,240 @@
 ---
 aliases:
+- ausserirdisches Leben
+- außerirdisches Leben
+- bea neuhallooinagh
+- beatha eachtardhomhanda
+- bewnans bysestrennek
+- bizi estralurtar
+- Buhay sa luwas kan Kinaban
+- buhez arallved
+- buiteaardse lewe
+- buitenaards leven
+- Buutenäidsk Lieuwend
+- bûtenierdsk libben
+- dünya dışı yaşam
+- ekstertera vivo
+- extraterrestre
+- Extraterrestresch
+- extraterrestrial
+- extraterrestrial laif
+- extraterrestrial life
+- fiainana ivelan-tany
+- földön kívüli élet
+- goā-kài sèⁿ-miā
+- izvanzemaljci
+- jashtëtokësorët
+- kehidupan ekstraterestrial
+- Maan ulkopuolinen elämä
+- maaväline elu
+- Maisha Nje ya Dunia
+- makhluk luar angkasa
+- mimozemský život
+- ndụ ndị ọzọ
+- nezemeljsko življenje
+- nežemiška gyvybė
+- oʻzga sayyoraliklar
+- sự sống ngoài Trái Đất
+- udenjordisk liv
+- utanomjordisk liv
+- utenomjordisk liv
+- utomjordiskt liv
+- vanzemaljac
+- vanzemaljci
+- viață extraterestră
+- vida estraterrestre
+- vida extraterrestre
+- vida extraterrèstra
+- vie extraterrestre
+- vita extranea
+- vita extraterrestre
+- viventes estrateran
+- yerdən kənar həyat
+- ārpuszemes dzīvība
+- życie pozaziemskie
+- εξωγήινη ζωή
+- бөгдеғаламдық тіршілік
+- ванземаљац
+- внеземная жизнь
+- вонземски живот
+- ерҙән ситтәге тереклек
+- извънземен живот
+- пазаземнае жыццё
+- пазазямное жыцьцё
+- позаземне життя
+- Харь гарагийн соёл иргэншил
+- җирдән читтәге тереклек
+- այլմոլորակային կյանք
+- חיים מחוץ לכדור הארץ
+- الحياة خارج الأرض
+- خلائی مخلوق
+- زیست فرازمینی
+- له نړۍ څخه د باندې ژوند
+- نیٚبٕر آسمأنؠ بلأے
+- ژیان لە دەرەوەی زەوی
+- एलियंस
+- परग्राही जीव
+- বহির্জাগতিক প্রাণ
+- પરગ્રહવાસી
+- ପରଗ୍ରହୀ ଜୀବ
+- வேற்றுலக உயிரி
+- గ్రహాంతర వాసులు
+- അന്യഗ്രഹജീവൻ
+- පිටසක්වල ජීවීන්
+- มนุษย์ต่างดาว
+- གོ་ལ་ཕྱིའི་ཚེ་སྲོག
+- ဂြိုလ်သား
+- არამიწიერი სიცოცხლე
+- មនុស្សភពផ្កាយ
+- 地球外生命
+- 外星生命
+- 外星生物
+- ꠄꠟꠤꠄꠘ
+- 외계 생물
 has_id_wikidata: Q181508
 studied_by:
-  - "[[_Standards/WikiData/WD~search_for_extra_terrestrial_intelligence,484587]]"
-  - "[[_Standards/WikiData/WD~astrobiology,411]]"
-has_contributing_factor: "[[_Standards/WikiData/WD~planetary_habitability,846030]]"
-opposite_of: "[[_Standards/WikiData/WD~Earthling,1349305]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Extraterrestrial_life,10967326]]"
+- '[[_Standards/WikiData/WD~search_for_extra_terrestrial_intelligence,484587]]'
+- '[[_Standards/WikiData/WD~astrobiology,411]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~planetary_habitability,846030]]'
+opposite_of: '[[_Standards/WikiData/WD~Earthling,1349305]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Extraterrestrial_life,10967326]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~hypothetical_entity,18706315]]"
-  - "[[_Standards/WikiData/WD~life,3]]"
+- '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
+- '[[_Standards/WikiData/WD~life,3]]'
 subreddit: aliens
-U_S_National_Archives_Identifier: "10646855"
+U_S_National_Archives_Identifier: 10646855
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ALH84001%20structures.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bestaan%20er%20buitenaardse%20wezens.webm
 Iconclass_notation: 46C491
 Commons_category: Extraterrestrial life
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]]"
-    - "[[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]]"
-    - "[[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]]"
-    - "[[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]]"
-    - "[[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]]"
-    - "[[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]]"
-    - "[[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]]"
-    - "[[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]]"
+  - '[[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]]'
+  - '[[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]]'
+  - '[[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]]'
+  - '[[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]]'
+  - '[[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]]'
+  - '[[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]]'
+  - '[[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]]'
+  - '[[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]]"
-  - "[[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]]"
-  - "[[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]]"
-  - "[[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]]"
-  - "[[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]]"
-  - "[[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]]"
-  - "[[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]]"
-  - "[[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]]"
+- '[[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]]'
+- '[[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]]'
+- '[[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]]'
+- '[[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]]'
+- '[[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]]'
+- '[[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]]'
+- '[[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]]'
+- '[[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]]'
+dv_has_:
+  name_:
+    af: buiteaardse lewe
+    ar: الحياة خارج الأرض
+    ast: vida estraterrestre
+    az: yerdən kənar həyat
+    ba: ерҙән ситтәге тереклек
+    bcl: Buhay sa luwas kan Kinaban
+    be: пазаземнае жыццё
+    be-tarask: пазазямное жыцьцё
+    bg: извънземен живот
+    bn: বহির্জাগতিক প্রাণ
+    bo: གོ་ལ་ཕྱིའི་ཚེ་སྲོག
+    br: buhez arallved
+    bs: vanzemaljci
+    ca: vida extraterrestre
+    ckb: ژیان لە دەرەوەی زەوی
+    cs: mimozemský život
+    da: udenjordisk liv
+    de: außerirdisches Leben
+    de-ch: ausserirdisches Leben
+    dz: གོ་ལ་ཕྱིའི་ཚེ་སྲོག
+    el: εξωγήινη ζωή
+    en: extraterrestrial life
+    eo: ekstertera vivo
+    es: vida extraterrestre
+    et: maaväline elu
+    eu: bizi estralurtar
+    fa: زیست فرازمینی
+    fi: Maan ulkopuolinen elämä
+    fr: vie extraterrestre
+    fy: bûtenierdsk libben
+    ga: beatha eachtardhomhanda
+    gl: vida extraterrestre
+    gu: પરગ્રહવાસી
+    gv: bea neuhallooinagh
+    he: חיים מחוץ לכדור הארץ
+    hi: एलियंस
+    hr: izvanzemaljci
+    hu: földön kívüli élet
+    hy: այլմոլորակային կյանք
+    ia: extraterrestrial
+    id: kehidupan ekstraterestrial
+    ig: ndụ ndị ọzọ
+    it: vita extraterrestre
+    ja: 地球外生命
+    ka: არამიწიერი სიცოცხლე
+    kk: бөгдеғаламдық тіршілік
+    km: មនុស្សភពផ្កាយ
+    ko: 외계 생물
+    ks: نیٚبٕر آسمأنؠ بلأے
+    kw: bewnans bysestrennek
+    la: vita extranea
+    lb: Extraterrestresch
+    lfn: viventes estrateran
+    lt: nežemiška gyvybė
+    lv: ārpuszemes dzīvība
+    mg: fiainana ivelan-tany
+    mk: вонземски живот
+    ml: അന്യഗ്രഹജീവൻ
+    mn: Харь гарагийн соёл иргэншил
+    ms: makhluk luar angkasa
+    my: ဂြိုလ်သား
+    nan: goā-kài sèⁿ-miā
+    nb: utenomjordisk liv
+    ne: परग्राही जीव
+    nl: buitenaards leven
+    nn: utanomjordisk liv
+    oc: vida extraterrèstra
+    or: ପରଗ୍ରହୀ ଜୀବ
+    pcm: extraterrestrial laif
+    pl: życie pozaziemskie
+    pnb: خلائی مخلوق
+    ps: له نړۍ څخه د باندې ژوند
+    pt: extraterrestre
+    ro: viață extraterestră
+    ru: внеземная жизнь
+    sco: extraterrestrial life
+    sh: izvanzemaljci
+    si: පිටසක්වල ජීවීන්
+    sk: mimozemský život
+    sl: nezemeljsko življenje
+    sq: jashtëtokësorët
+    sr: ванземаљац
+    sr-ec: ванземаљац
+    sr-el: vanzemaljac
+    stq: Buutenäidsk Lieuwend
+    sv: utomjordiskt liv
+    sw: Maisha Nje ya Dunia
+    syl: ꠄꠟꠤꠄꠘ
+    ta: வேற்றுலக உயிரி
+    te: గ్రహాంతర వాసులు
+    th: มนุษย์ต่างดาว
+    tr: dünya dışı yaşam
+    tt: җирдән читтәге тереклек
+    uk: позаземне життя
+    ur: خلائی مخلوق
+    uz: oʻzga sayyoraliklar
+    vi: sự sống ngoài Trái Đất
+    wuu: 外星生命
+    yue: 外星生物
+    zh: 外星生命
+    zh-cn: 外星生命
+    zh-hans: 外星生命
+    zh-hant: 外星生命
+    zh-hk: 外星生命
+    zh-sg: 外星生命
+    zh-tw: 外星生命
 ---
-
 # [[Extraterrestrial_Life]] 
 
 #is_/same_as :: [[../../WikiData/WD~Extraterrestrial_life,181508|WD~Extraterrestrial_life,181508]] 

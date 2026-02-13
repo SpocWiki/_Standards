@@ -1,64 +1,134 @@
 ---
-has_time_started: 1971-12-21 
+has_time_started: 1971-12-21
 aliases:
-  - Médecins Sans Frontières
-  - Doctors Without Borders
-  - Ärzte ohne Grenzen
-  - Médecins_Sans_Frontières
+- Abavuzi Batagira Umupaka
+- Akut Akim Cinakëth
+- Artsen zonder Grenzen
+- Bijîşkên Sînornenas
+- Bác sĩ không biên giới
+- Bô-kok-kài I-seng
+- Dhakhaatiirta Bilaaxuduudaa
+- Doctors Without Borders
+- Doctors Without Borders International
+- Dokter Lintas Batas
+- Dokters ahn Grenzen
+- Doktor Tanpa Sempadan
+- Gydytojai be sienų
+- Kuracistoj sen landlimoj
+- Leger Uten Grenser
+- Lekari bez granica
+- Lekarze bez Granic
+- Lekári bez hraníc
+- Liječnici bez granica
+- Läkare utan gränser
+- Lääkärit ilman rajoja
+- Læger uden Grænser
+- Lækjarar Utan Grenser
+- Læknar án landamæra
+- Lékaři bez hranic
+- Madaktari wasio na Mipaka-MSF
+- Medici Senza Frontiere
+- Medici sine Limitibus
+- Medicii fără frontiere
+- Metges Sense Fronteres
+- Mugarik Gabeko Medikuak
+- Médecins Sans Frontières
+- Médecins Sans Frontières International
+- Médecins sans Frontiéres
+- Médecins_Sans_Frontières
+- Médicos Ensin Fronteres
+- Médicos sem Fronteiras
+- Médicos Sen Fronteiras
+- Médicos Sin Fronteras
+- Orvosok Határok Nélkül
+- Piirideta Arstid
+- Sərhədsiz Həkimlər
+- Tuáhtáreh rajijttáá
+- Zdravniki brez meja
+- Ärzt ohni Grenze
+- Ärzte ohne Grenzen
+- Ärzte ohne Grenzen International
+- Ārsti bez robežām
+- Γιατροί Χωρίς Σύνορα
+- Врачи без границ
+- Иҳәаадоу аҳақьымцәа
+- Лікарі без кордонів
+- Лекари без граница
+- Лекари без граници
+- Лекары бязь межаў
+- Урачы без межаў
+- Хил хязгааргүй эмч нар
+- Բժիշկներ առանց սահմանների
+- רופאים ללא גבולות
+- أطباء بلا حدود
+- بی پولی ډاکتران
+- میڈیسن سانس فرنٹیرس
+- پزشکان بدون مرز
+- ܐܣܘܬܐ ܕܠܐ ܬܚܘܡܐ
+- मेड्सें सां फ्रंटियेर
+- মেদসাঁ সঁ ফ্রোঁতিয়ের
+- எல்லைகளற்ற மருத்துவர்கள்
+- องค์การแพทย์ไร้พรมแดน
+- နယ်စည်းမထားဆရာဝန်များအဖွဲ့
+- ექიმები საზღვრებს გარეშე
+- 国境なき医師団
+- 无国界医生
+- 無國界醫生
+- 국경없는의사회
 has_id_wikidata: Q49330
 Commons_category: Médecins sans frontières
 Krugosvet_article_archived_: medicina/VRACHI_BEZ_GRANITS.html
 domain_name: msf.org
 Facebook_username: msfinternational
 MeSH_tree_code:
-  - N03.540.514.401
-  - N03.540.630.780.403
+- N03.540.514.401
+- N03.540.630.780.403
 Libris_URI: tr575xwc399j3vd
 short_name:
-  - MSF
-  - MSF
-  - MSF
+- MSF
+- MSF
+- MSF
 instance_of:
-  - '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
-  - '[[_Standards/WikiData/WD~charitable_organization,708676]]'
-  - '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
-  - '[[_Standards/WikiData/WD~voluntary_health_agencies,70441508]]'
-  - '[[_Standards/WikiData/WD~organization,43229]]'
-  - '[[_Standards/WikiData/WD~federation,43702]]'
+- '[[_Standards/WikiData/WD~non_governmental_organization,79913]]'
+- '[[_Standards/WikiData/WD~charitable_organization,708676]]'
+- '[[_Standards/WikiData/WD~international_non_governmental_organization,1194093]]'
+- '[[_Standards/WikiData/WD~voluntary_health_agencies,70441508]]'
+- '[[_Standards/WikiData/WD~organization,43229]]'
+- '[[_Standards/WikiData/WD~federation,43702]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Lasker_Bloomberg_Public_Service_Award,136699]]'
-  - '[[_Standards/WikiData/WD~European_Human_Rights_Prize,936956]]'
-  - '[[_Standards/WikiData/WD~The_Glass_of_Reason,1168476]]'
-  - '[[_Standards/WikiData/WD~Erich_Kästner_award,1351845]]'
-  - '[[_Standards/WikiData/WD~Indira_Gandhi_Peace_Prize,3241794]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]'
-  - '[[_Standards/WikiData/WD~J._William_Fulbright_Prize,6565314]]'
-  - '[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]'
-  - '[[_Standards/WikiData/WD~LennonOno_Grant_for_Peace,13582570]]'
-  - '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Want,20204998]]'
-  - '[[_Standards/WikiData/WD~Chatham_House_Prize,20266950]]'
-  - '[[_Standards/WikiData/WD~Pardes_Humanitarian_Prize_in_Mental_Health,50227997]]'
-  - '[[_Standards/WikiData/WD~Josep_Trueta_Plaque,76703551]]'
+- '[[_Standards/WikiData/WD~Lasker_Bloomberg_Public_Service_Award,136699]]'
+- '[[_Standards/WikiData/WD~European_Human_Rights_Prize,936956]]'
+- '[[_Standards/WikiData/WD~The_Glass_of_Reason,1168476]]'
+- '[[_Standards/WikiData/WD~Erich_Kästner_award,1351845]]'
+- '[[_Standards/WikiData/WD~Indira_Gandhi_Peace_Prize,3241794]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Concord,3323440]]'
+- '[[_Standards/WikiData/WD~J._William_Fulbright_Prize,6565314]]'
+- '[[_Standards/WikiData/WD~Livingstone_Medal,10568200]]'
+- '[[_Standards/WikiData/WD~LennonOno_Grant_for_Peace,13582570]]'
+- '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_from_Want,20204998]]'
+- '[[_Standards/WikiData/WD~Chatham_House_Prize,20266950]]'
+- '[[_Standards/WikiData/WD~Pardes_Humanitarian_Prize_in_Mental_Health,50227997]]'
+- '[[_Standards/WikiData/WD~Josep_Trueta_Plaque,76703551]]'
 official_observer_status_in_organization: '[[_Standards/WikiData/WD~World_Intellectual_Property_Organization,177773]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 founded_by:
-  - '[[_Standards/WikiData/WD~Q206327,206327]]'
-  - '[[_Standards/WikiData/WD~Philippe_Bernier,2087524]]'
-  - '[[_Standards/WikiData/WD~Marcel_Delcourt,3288868]]'
-  - '[[_Standards/WikiData/WD~Vladan_Radoman,3561740]]'
-  - '[[_Standards/WikiData/WD~Xavier_Emmanuelli,3570666]]'
-  - '[[_Standards/WikiData/WD~Raymond_Borel,7298607]]'
-  - '[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]'
-  - '[[_Standards/WikiData/WD~Max_Récamier,123270507]]'
+- '[[_Standards/WikiData/WD~Q206327,206327]]'
+- '[[_Standards/WikiData/WD~Philippe_Bernier,2087524]]'
+- '[[_Standards/WikiData/WD~Marcel_Delcourt,3288868]]'
+- '[[_Standards/WikiData/WD~Vladan_Radoman,3561740]]'
+- '[[_Standards/WikiData/WD~Xavier_Emmanuelli,3570666]]'
+- '[[_Standards/WikiData/WD~Raymond_Borel,7298607]]'
+- '[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]'
+- '[[_Standards/WikiData/WD~Max_Récamier,123270507]]'
 different_from: '[[_Standards/WikiData/WD~Médecins_du_Monde,256538]]'
 legal_form: '[[_Standards/WikiData/WD~association,15177651]]'
 director_manager: '[[_Standards/WikiData/WD~Jacques_Bérès,20851338]]'
 child_organization_or_unit:
-  - '[[_Standards/WikiData/WD~Médecins_Sans_Frontières,55454572]]'
-  - '[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]'
+- '[[_Standards/WikiData/WD~Médecins_Sans_Frontières,55454572]]'
+- '[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Ärzte_ohne_Grenzen,68487687]]'
-  - '[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]'
+- '[[_Standards/WikiData/WD~Ärzte_ohne_Grenzen,68487687]]'
+- '[[_Standards/WikiData/WD~Leger_Uten_Grenser,99941632]]'
 described_by_source: '[[_Standards/WikiData/WD~Medvik,99413897]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Christos_Christou,100185256]]'
 has_characteristic: '[[_Standards/WikiData/WD~United_Nations_General_Consultative_Status,131925847]]'
@@ -73,12 +143,103 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/MSF%20HQ.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/This%20is%20Doctors%20Without%20Borders-M%C3%A9decins%20Sans%20Fronti%C3%A8res%20%28MSF%29.webm
 official_website: https://www.msf.org
 ISNI:
-  - 0000000110129674
-  - 0000000121902765
+- 0000000110129674
+- 0000000121902765
 TikTok_username: doctorswithoutborders
 Instagram_username: doctorswithoutborders
+dv_has_:
+  name_:
+    ab: Иҳәаадоу аҳақьымцәа
+    ar: أطباء بلا حدود
+    arc: ܐܣܘܬܐ ܕܠܐ ܬܚܘܡܐ
+    ast: Médicos Ensin Fronteres
+    az: Sərhədsiz Həkimlər
+    be: Урачы без межаў
+    be-tarask: Лекары бязь межаў
+    bg: Лекари без граници
+    bn: মেদসাঁ সঁ ফ্রোঁতিয়ের
+    br: Médecins Sans Frontières
+    bs: Médecins Sans Frontières
+    ca: Metges Sense Fronteres
+    cs: Lékaři bez hranic
+    cy: Médecins Sans Frontières
+    da: Læger uden Grænser
+    de: Ärzte ohne Grenzen International
+    de-ch: Ärzte ohne Grenzen
+    din: Akut Akim Cinakëth
+    el: Γιατροί Χωρίς Σύνορα
+    en: Doctors Without Borders International
+    en-ca: Médecins Sans Frontières
+    en-gb: Médecins Sans Frontières
+    eo: Kuracistoj sen landlimoj
+    es: Médicos Sin Fronteras
+    et: Piirideta Arstid
+    eu: Mugarik Gabeko Medikuak
+    fa: پزشکان بدون مرز
+    fi: Lääkärit ilman rajoja
+    fr: Médecins sans frontières
+    ga: Médecins sans Frontiéres
+    gl: Médicos Sen Fronteiras
+    gsw: Ärzt ohni Grenze
+    he: רופאים ללא גבולות
+    hi: मेड्सें सां फ्रंटियेर
+    hr: Liječnici bez granica
+    hu: Orvosok Határok Nélkül
+    hy: Բժիշկներ առանց սահմանների
+    id: Dokter Lintas Batas
+    io: Médecins Sans Frontières
+    is: Læknar án landamæra
+    it: Medici Senza Frontiere
+    ja: 国境なき医師団
+    jv: Médecins Sans Frontières
+    ka: ექიმები საზღვრებს გარეშე
+    ko: 국경없는의사회
+    ku: Bijîşkên Sînornenas
+    la: Medici sine Limitibus
+    lb: Médecins sans frontières
+    lt: Gydytojai be sienų
+    lv: Ārsti bez robežām
+    mk: Лекари без граници
+    mn: Хил хязгааргүй эмч нар
+    mr: मेड्सें सां फ्रंटियेर
+    ms: Doktor Tanpa Sempadan
+    mul: Médecins Sans Frontières International
+    my: နယ်စည်းမထားဆရာဝန်များအဖွဲ့
+    nan: Bô-kok-kài I-seng
+    nb: Leger Uten Grenser
+    nds: Dokters ahn Grenzen
+    nl: Artsen zonder Grenzen
+    nn: Lækjarar Utan Grenser
+    pl: Lekarze bez Granic
+    pnb: میڈیسن سانس فرنٹیرس
+    ps: بی پولی ډاکتران
+    pt: Médicos sem Fronteiras
+    pt-br: Médicos sem Fronteiras
+    ro: Medicii fără frontiere
+    ru: Врачи без границ
+    rw: Abavuzi Batagira Umupaka
+    sco: Médecins Sans Frontières
+    sh: Lekari bez granica
+    sk: Lekári bez hraníc
+    sl: Zdravniki brez meja
+    smn: Tuáhtáreh rajijttáá
+    so: Dhakhaatiirta Bilaaxuduudaa
+    sq: Doctors Without Borders
+    sr: Лекари без граница
+    sv: Läkare utan gränser
+    sw: Madaktari wasio na Mipaka-MSF
+    ta: எல்லைகளற்ற மருத்துவர்கள்
+    th: องค์การแพทย์ไร้พรมแดน
+    tr: Médecins Sans Frontières
+    uk: Лікарі без кордонів
+    ur: میڈیسن سانس فرنٹیرس
+    vi: Bác sĩ không biên giới
+    wuu: 无国界医生
+    yue: 無國界醫生
+    zh: 無國界醫生
+    zh-hans: 无国界医生
+    zh-hant: 無國界醫生
 ---
-
 # [[Médecins_Sans_Frontières]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Médecins_Sans_Frontières,49330|WD~Médecins_Sans_Frontières,49330]] 

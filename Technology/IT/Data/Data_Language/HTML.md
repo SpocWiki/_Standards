@@ -1,46 +1,77 @@
 ---
-has_time_started: 1989-01-01 
+has_time_started: 1989-01-01
 aliases:
+- Bahasa Penanda Hiperteks
+- HTML
+- HyperText Markup Language
+- hypertextový značkový jazyk
+- Oferwrit mearc gereord
+- toki ilo HTML
+- ԷյչԹիԷմԷլ
+- ئچ.تي.ئم.ئل
+- ئێچ تی ئێم ئێڵ
+- اتش تى ام ال
+- اچ تی ام ال
+- ایچ ٹی ایم ایل
+- بهاس ڤنندا هايڤرتيکس
+- لغة تأشير النص الترابطي
+- هائپر ٽيڪسٽ مارڪ اپ لينگويج
+- وراۓمتن زبان تدوین
+- एच टी एम् एल्
+- एच.टी.एम.एल.
+- एचटिएमएल
+- एचटीएमएल
+- এইচ টি এম এল
+- এইচটিএমএল
+- ਐਚ.ਟੀ.ਐਮ.ਐਲ
+- மீப்பாடக் குறிமொழி
+- హెచ్ టిఎమ్ఎల్
+- എച്ച്.ടി.എം.എൽ.
+- เอชทีเอ็มแอล
+- ເຮັດດີເອັມແອວ
+- ჰიპერტექსტური მარკირების ენა
+- 超文本标记语言
+- 超文本標記語言
 has_id_wikidata: Q8811
 Wolfram_Language_entity_code: Entity["FileFormat", "HTML-1"]
 Mozilla_Developer_Network_article: Web/HTML
 JIS_standard: X4156
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/HTML%20file%20type%20mimetype%20icon.png
-based_on: "[[_Standards/WikiData/WD~Standard_Generalized_Markup_Language,207819]]"
+based_on: '[[_Standards/WikiData/WD~Standard_Generalized_Markup_Language,207819]]'
 developer:
-  - "[[_Standards/WikiData/WD~Internet_Engineering_Task_Force,217082]]"
-  - "[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940]]"
-  - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]"
+- '[[_Standards/WikiData/WD~Internet_Engineering_Task_Force,217082]]'
+- '[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
 standards_body:
-  - "[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940]]"
-  - "[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]"
+- '[[_Standards/WikiData/WD~Web_Hypertext_Application_Technology_Working_Group,615940]]'
+- '[[_Standards/WikiData/WD~World_Wide_Web_Consortium,37033]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~W3C_Recommendation,2661442]]"
-  - "[[_Standards/WikiData/WD~ISO_standard,15087423]]"
-  - "[[_Standards/WikiData/WD~creative_work,17537576]]"
-  - "[[_Standards/WikiData/WD~web_API,20202982]]"
-  - "[[_Standards/WikiData/WD~file_format_family,26085352]]"
-  - "[[_Standards/WikiData/WD~markup_language,37045]]"
+- '[[_Standards/WikiData/WD~W3C_Recommendation,2661442]]'
+- '[[_Standards/WikiData/WD~ISO_standard,15087423]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~web_API,20202982]]'
+- '[[_Standards/WikiData/WD~file_format_family,26085352]]'
+- '[[_Standards/WikiData/WD~markup_language,37045]]'
 has_edition_or_translation:
-  - "[[_Standards/WikiData/WD~HyperText_Markup_Language,_version_2.0,2892563]]"
-  - "[[_Standards/WikiData/WD~HTML_4.0,3782232]]"
-  - "[[_Standards/WikiData/WD~HTML_3.2,41676372]]"
-  - "[[_Standards/WikiData/WD~HTML_3.0,41676552]]"
-  - "[[_Standards/WikiData/WD~HTML5,2053]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_HTML,8084765]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_HTML,12906809]]"
-copyright_license: "[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257]]"
+- '[[_Standards/WikiData/WD~HyperText_Markup_Language,_version_2.0,2892563]]'
+- '[[_Standards/WikiData/WD~HTML_4.0,3782232]]'
+- '[[_Standards/WikiData/WD~HTML_3.2,41676372]]'
+- '[[_Standards/WikiData/WD~HTML_3.0,41676552]]'
+- '[[_Standards/WikiData/WD~HTML5,2053]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_HTML,8084765]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_HTML,12906809]]'
+copyright_license: '[[_Standards/WikiData/WD~Creative_Commons_Attribution_4.0_International,20007257]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~RFC_2854_The_'html_html'_Media_Type,47396049]]"
-  - "[[_Standards/WikiData/WD~RFC_2659_Security_Extensions_For_HTML,47477241]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-different_from: "[[_Standards/WikiData/WD~HyperText_Markup_Language,62626012]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Tim_Berners_Lee,80]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-subclass_of: "[[_Standards/WikiData/WD~markup_language,37045]]"
+- "[[_Standards/WikiData/WD~RFC_2854_The_'html_html'_Media_Type,47396049]]"
+- '[[_Standards/WikiData/WD~RFC_2659_Security_Extensions_For_HTML,47477241]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+different_from: '[[_Standards/WikiData/WD~HyperText_Markup_Language,62626012]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Tim_Berners_Lee,80]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+subclass_of: '[[_Standards/WikiData/WD~markup_language,37045]]'
 social_media_followers: 44064
-OmegaWiki_Defined_Meaning: "986547"
-ISO_standard: "15445"
+OmegaWiki_Defined_Meaning: 986547
+ISO_standard: 15445
 official_website: https://html.spec.whatwg.org/multipage/
 Baidu_Tieba_name: html
 GitHub_topic: html
@@ -56,30 +87,79 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/HTML5%20logo%20an
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HTML.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur%20Journ%C3%A9e%202%20-%2014%20%28Madehub%29-HTML.wav
 Stack_Exchange_tag:
-  - https://android.stackexchange.com/tags/html
-  - https://apple.stackexchange.com/tags/html
-  - https://askubuntu.com/tags/html
-  - https://codereview.stackexchange.com/tags/html
-  - https://ebooks.stackexchange.com/tags/html
-  - https://gamedev.stackexchange.com/tags/html
-  - https://graphicdesign.stackexchange.com/tags/html
-  - https://security.stackexchange.com/tags/html
-  - https://sharepoint.stackexchange.com/tags/html
-  - https://softwareengineering.stackexchange.com/tags/html
-  - https://softwarerecs.stackexchange.com/tags/html
-  - https://stackoverflow.com/tags/html
-  - https://tex.stackexchange.com/tags/html
-  - https://unix.stackexchange.com/tags/html
-  - https://ux.stackexchange.com/tags/html
-  - https://webapps.stackexchange.com/tags/html
-  - https://webmasters.stackexchange.com/tags/html
-  - https://wordpress.stackexchange.com/tags/html
+- https://android.stackexchange.com/tags/html
+- https://apple.stackexchange.com/tags/html
+- https://askubuntu.com/tags/html
+- https://codereview.stackexchange.com/tags/html
+- https://ebooks.stackexchange.com/tags/html
+- https://gamedev.stackexchange.com/tags/html
+- https://graphicdesign.stackexchange.com/tags/html
+- https://security.stackexchange.com/tags/html
+- https://sharepoint.stackexchange.com/tags/html
+- https://softwareengineering.stackexchange.com/tags/html
+- https://softwarerecs.stackexchange.com/tags/html
+- https://stackoverflow.com/tags/html
+- https://tex.stackexchange.com/tags/html
+- https://unix.stackexchange.com/tags/html
+- https://ux.stackexchange.com/tags/html
+- https://webapps.stackexchange.com/tags/html
+- https://webmasters.stackexchange.com/tags/html
+- https://wordpress.stackexchange.com/tags/html
 source_code_repository_URL:
-  - https://github.com/w3c/html
-  - https://github.com/whatwg/html
+- https://github.com/w3c/html
+- https://github.com/whatwg/html
 issue_tracker_URL: https://github.com/whatwg/html/issues
+dv_has_:
+  name_:
+    ang: Oferwrit mearc gereord
+    ar: لغة تأشير النص الترابطي
+    arz: اتش تى ام ال
+    as: এইচ টি এম এল
+    azb: اچ تی ام ال
+    bn: এইচটিএমএল
+    ckb: ئێچ تی ئێم ئێڵ
+    cs: HyperText Markup Language
+    de: Hypertext Markup Language
+    en: HTML
+    fa: اچ تی ام ال
+    fr: HTML
+    glk: ئچ.تي.ئم.ئل
+    hi: एचटीएमएल
+    hy: ԷյչԹիԷմԷլ
+    jv: Hypertext markup language
+    ka: ჰიპერტექსტური მარკირების ენა
+    ko: HTML
+    ks: ایچ ٹی ایم ایل
+    lb: Hypertext Markup Language
+    lo: ເຮັດດີເອັມແອວ
+    mai: एचटिएमएल
+    mg: Hypertext Markup Language
+    ml: എച്ച്.ടി.എം.എൽ.
+    mr: एच.टी.एम.एल.
+    ms: Bahasa Penanda Hiperteks
+    ms-arab: بهاس ڤنندا هايڤرتيکس
+    mul: HTML
+    ne: एचटिएमएल
+    new: एच टी एम् एल्
+    nl: HyperText Markup Language
+    pa: ਐਚ.ਟੀ.ਐਮ.ਐਲ
+    pap: HTML
+    pap-aw: HTML
+    pnb: ایچ ٹی ایم ایل
+    ro: HyperText Markup Language
+    sd: هائپر ٽيڪسٽ مارڪ اپ لينگويج
+    sk: hypertextový značkový jazyk
+    ta: மீப்பாடக் குறிமொழி
+    te: హెచ్ టిఎమ్ఎల్
+    th: เอชทีเอ็มแอล
+    tok: toki ilo HTML
+    ur: وراۓمتن زبان تدوین
+    zh: 超文本标记语言
+    zh-cn: 超文本标记语言
+    zh-hans: 超文本标记语言
+    zh-hant: 超文本標記語言
+    zh-tw: 超文本標記語言
 ---
-
 # [[HTML]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~HTML,8811|WD~HTML,8811]] 

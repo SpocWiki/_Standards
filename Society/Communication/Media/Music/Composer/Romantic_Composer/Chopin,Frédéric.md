@@ -1,137 +1,187 @@
 ---
 aliases:
-  - Frédéric Chopin
-  - Frédéric_Chopin
-  - Frédéric François Chopin
-  - Chopin
-  - Chopin,Frédéric
+- Chopin
+- Chopin,Frédéric
+- Frederic Chopin
+- Frederic Francois Chopin
+- Frederik Şopen
+- Frederikas Šopenas
+- Freoþeric Chopin
+- Fridericus Chopin
+- Frideriks Šopēns
+- Fryderyk Chopin
+- Frédéric Chopin
+- Frédéric François Chopin
+- Frédéric_Chopin
+- jan Peteki Sopan
+- Siau-pâng
+- Šopen Friderik
+- Φρεντερίκ Σοπέν
+- Фредерік Шопен
+- Фредерик Шопен
+- Фридерик Шопен
+- Фрыдэрык Шапен
+- Фрыдэрык Шапэн
+- Шопен, Фредерик
+- Шопен, Фридерик
+- Ֆրեդերիկ Շոպեն
+- Ֆրետերիք Շոփէն
+- פרדריק שופן
+- פרעדעריק שאפען
+- فردریک شؤپأن
+- فردریک شوپن
+- فريدريك شوبان
+- فريدريك شوپان
+- فریڈرک شوپن
+- فرێدریک شۆپان
+- فرېډریک چوپېن
+- फ़्रेडरिक चॉपिन
+- फ्रेडरिक शोपें
+- फ्रेडेरिक चोपिन
+- फ्रेदरिक शोपें
+- ফ্রেদেরিক শোপাঁ
+- ফ্ৰেডেৰিক চোপাঁ
+- ਫਰਾਦਾਰੀਕ ਸ਼ੋਪੁਹ
+- பிரடெரிக் சொப்பின்
+- ఫ్రెడరిక్ చోపిన్
+- ഫ്രെഡെറിക് ഷൊപിൻ
+- เฟรเดริก ชอแป็ง
+- ရှိုပန်၊ ဖရက်ဒရစ်
+- ფრედერიკ შოპენი
+- ფრიდერიკ შოპენი
+- ፍሬዴሪክ ሾፐን
+- フレデリック・ショパン
+- 弗雷德里克·肖邦
+- 蕭邦
+- 費德烈·蕭邦
+- 프레데리크 쇼팽
 has_id_wikidata: Q1268
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Warsaw,144488]]'
-  - '[[_Standards/WikiData/WD~Chopin_University_of_Music,1340262]]'
+- '[[_Standards/WikiData/WD~University_of_Warsaw,144488]]'
+- '[[_Standards/WikiData/WD~Chopin_University_of_Music,1340262]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Études,146917]]'
-  - '[[_Standards/WikiData/WD~Nocturnes,769763]]'
-  - '[[_Standards/WikiData/WD~Polonaise_in_A_flat_major_Heroic_,_Op._53,3178652]]'
-  - '[[_Standards/WikiData/WD~Ballades,6541319]]'
+- '[[_Standards/WikiData/WD~Études,146917]]'
+- '[[_Standards/WikiData/WD~Nocturnes,769763]]'
+- '[[_Standards/WikiData/WD~Polonaise_in_A_flat_major_Heroic_,_Op._53,3178652]]'
+- '[[_Standards/WikiData/WD~Ballades,6541319]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~mazurka,151942]]'
-  - '[[_Standards/WikiData/WD~ballad,182659]]'
-  - '[[_Standards/WikiData/WD~waltz,193434]]'
-  - '[[_Standards/WikiData/WD~nocturne,194172]]'
-  - '[[_Standards/WikiData/WD~polonaise,203478]]'
-  - '[[_Standards/WikiData/WD~étude,207841]]'
-  - '[[_Standards/WikiData/WD~prelude,212148]]'
-  - '[[_Standards/WikiData/WD~impromptu,852027]]'
-  - '[[_Standards/WikiData/WD~art_music,1583807]]'
-  - '[[_Standards/WikiData/WD~waltz,8701407]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~mazurka,151942]]'
+- '[[_Standards/WikiData/WD~ballad,182659]]'
+- '[[_Standards/WikiData/WD~waltz,193434]]'
+- '[[_Standards/WikiData/WD~nocturne,194172]]'
+- '[[_Standards/WikiData/WD~polonaise,203478]]'
+- '[[_Standards/WikiData/WD~étude,207841]]'
+- '[[_Standards/WikiData/WD~prelude,212148]]'
+- '[[_Standards/WikiData/WD~impromptu,852027]]'
+- '[[_Standards/WikiData/WD~art_music,1583807]]'
+- '[[_Standards/WikiData/WD~waltz,8701407]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Duchy_of_Warsaw,152115]]'
-  - '[[_Standards/WikiData/WD~Congress_Poland,221457]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
-  - '[[_Standards/WikiData/WD~French_Second_Republic,58326]]'
+- '[[_Standards/WikiData/WD~Duchy_of_Warsaw,152115]]'
+- '[[_Standards/WikiData/WD~Congress_Poland,221457]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~French_Second_Republic,58326]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~concert,182832]]'
-  - '[[_Standards/WikiData/WD~funeral,201676]]'
+- '[[_Standards/WikiData/WD~concert,182832]]'
+- '[[_Standards/WikiData/WD~funeral,201676]]'
 occupation:
-  - '[[_Standards/WikiData/WD~virtuoso,214970]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~pedagogue,1231865]]'
-  - '[[_Standards/WikiData/WD~music_educator,16145150]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~virtuoso,214970]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~pedagogue,1231865]]'
+- '[[_Standards/WikiData/WD~music_educator,16145150]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Maria_Wodzińska,273923]]'
-  - '[[_Standards/WikiData/WD~George_Sand,3816]]'
+- '[[_Standards/WikiData/WD~Maria_Wodzińska,273923]]'
+- '[[_Standards/WikiData/WD~George_Sand,3816]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Chopin,294479]]'
-  - '[[_Standards/WikiData/WD~Frederic_Chapin,5496997]]'
+- '[[_Standards/WikiData/WD~Chopin,294479]]'
+- '[[_Standards/WikiData/WD~Frederic_Chapin,5496997]]'
 place_of_burial:
-  - "[[_Standards/WikiData/WD~Frédéric_Chopin's_tomb,392352]]"
-  - '[[_Standards/WikiData/WD~Holy_Cross_Church,1440735]]'
-  - '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
+- "[[_Standards/WikiData/WD~Frédéric_Chopin's_tomb,392352]]"
+- '[[_Standards/WikiData/WD~Holy_Cross_Church,1440735]]'
+- '[[_Standards/WikiData/WD~Père_Lachaise_Cemetery,311]]'
 place_of_birth: '[[_Standards/WikiData/WD~Żelazowa_Wola,393087]]'
 residence:
-  - '[[_Standards/WikiData/WD~Żelazowa_Wola,393087]]'
-  - '[[_Standards/WikiData/WD~Nohant_Vic,656447]]'
-  - '[[_Standards/WikiData/WD~Duszniki_Zdrój,1001225]]'
-  - '[[_Standards/WikiData/WD~Valldemossa_Charterhouse,1494326]]'
-  - '[[_Standards/WikiData/WD~Poturzyn,7235439]]'
-  - '[[_Standards/WikiData/WD~Szafarnia,_Masovian_Voivodeship,7664080]]'
-  - '[[_Standards/WikiData/WD~Valldemossa,24019232]]'
-  - '[[_Standards/WikiData/WD~Warsaw,270]]'
-  - '[[_Standards/WikiData/WD~Poznań,268]]'
-  - '[[_Standards/WikiData/WD~Dresden,1731]]'
-  - '[[_Standards/WikiData/WD~Vienna,1741]]'
-  - '[[_Standards/WikiData/WD~Gdańsk,1792]]'
-  - '[[_Standards/WikiData/WD~Wrocław,1799]]'
-  - '[[_Standards/WikiData/WD~Glasgow,4093]]'
-  - '[[_Standards/WikiData/WD~Manchester,18125]]'
-  - '[[_Standards/WikiData/WD~Edinburgh,23436]]'
-  - '[[_Standards/WikiData/WD~Kraków,31487]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
-  - '[[_Standards/WikiData/WD~Toruń,47554]]'
-  - '[[_Standards/WikiData/WD~Kalisz,52842]]'
+- '[[_Standards/WikiData/WD~Żelazowa_Wola,393087]]'
+- '[[_Standards/WikiData/WD~Nohant_Vic,656447]]'
+- '[[_Standards/WikiData/WD~Duszniki_Zdrój,1001225]]'
+- '[[_Standards/WikiData/WD~Valldemossa_Charterhouse,1494326]]'
+- '[[_Standards/WikiData/WD~Poturzyn,7235439]]'
+- '[[_Standards/WikiData/WD~Szafarnia,_Masovian_Voivodeship,7664080]]'
+- '[[_Standards/WikiData/WD~Valldemossa,24019232]]'
+- '[[_Standards/WikiData/WD~Warsaw,270]]'
+- '[[_Standards/WikiData/WD~Poznań,268]]'
+- '[[_Standards/WikiData/WD~Dresden,1731]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~Gdańsk,1792]]'
+- '[[_Standards/WikiData/WD~Wrocław,1799]]'
+- '[[_Standards/WikiData/WD~Glasgow,4093]]'
+- '[[_Standards/WikiData/WD~Manchester,18125]]'
+- '[[_Standards/WikiData/WD~Edinburgh,23436]]'
+- '[[_Standards/WikiData/WD~Kraków,31487]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Toruń,47554]]'
+- '[[_Standards/WikiData/WD~Kalisz,52842]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Wojciech_Żywny,443519]]'
-  - '[[_Standards/WikiData/WD~Józef_Elsner,471647]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Würfel,1364373]]'
+- '[[_Standards/WikiData/WD~Wojciech_Żywny,443519]]'
+- '[[_Standards/WikiData/WD~Józef_Elsner,471647]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Würfel,1364373]]'
 student:
-  - '[[_Standards/WikiData/WD~Carl_Filtsch,577658]]'
-  - '[[_Standards/WikiData/WD~Charlotte_de_Rothschild,5086211]]'
-  - '[[_Standards/WikiData/WD~Emilie_Timm,19660950]]'
-  - "[[_Standards/WikiData/WD~Josephine_Camille_O'Meara,45825712]]"
+- '[[_Standards/WikiData/WD~Carl_Filtsch,577658]]'
+- '[[_Standards/WikiData/WD~Charlotte_de_Rothschild,5086211]]'
+- '[[_Standards/WikiData/WD~Emilie_Timm,19660950]]'
+- "[[_Standards/WikiData/WD~Josephine_Camille_O'Meara,45825712]]"
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Berühmte_Klavierspieler_der_Vergangenheit_und_Gegenwart,118809333]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Polish_Biographical_Dictionary,1485141]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Berühmte_Klavierspieler_der_Vergangenheit_und_Gegenwart,118809333]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 father: '[[_Standards/WikiData/WD~Nicolas_Chopin,651253]]'
 list_of_works:
-  - '[[_Standards/WikiData/WD~list_of_compositions_by_Frédéric_Chopin_by_genre,1785783]]'
-  - '[[_Standards/WikiData/WD~list_of_compositions_by_Frédéric_Chopin_by_opus_number,13407956]]'
-  - '[[_Standards/WikiData/WD~Kobylańska_Katalog,16747642]]'
-  - '[[_Standards/WikiData/WD~Brown_catalog,16749676]]'
-  - '[[_Standards/WikiData/WD~Chomiński_catalog,16749680]]'
+- '[[_Standards/WikiData/WD~list_of_compositions_by_Frédéric_Chopin_by_genre,1785783]]'
+- '[[_Standards/WikiData/WD~list_of_compositions_by_Frédéric_Chopin_by_opus_number,13407956]]'
+- '[[_Standards/WikiData/WD~Kobylańska_Katalog,16747642]]'
+- '[[_Standards/WikiData/WD~Brown_catalog,16749676]]'
+- '[[_Standards/WikiData/WD~Chomiński_catalog,16749680]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Ludwika_Jędrzejewicz_Chopin,6699463]]'
-  - '[[_Standards/WikiData/WD~Emilia_Chopin,8860780]]'
-  - '[[_Standards/WikiData/WD~Izabela_Barcińska,98112689]]'
+- '[[_Standards/WikiData/WD~Ludwika_Jędrzejewicz_Chopin,6699463]]'
+- '[[_Standards/WikiData/WD~Emilia_Chopin,8860780]]'
+- '[[_Standards/WikiData/WD~Izabela_Barcińska,98112689]]'
 mother: '[[_Standards/WikiData/WD~Tekla_Justyna_Chopin,9356382]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Chopin,15099667]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Franciszek,15207702]]'
-  - '[[_Standards/WikiData/WD~Fryderyk,17539976]]'
+- '[[_Standards/WikiData/WD~Franciszek,15207702]]'
+- '[[_Standards/WikiData/WD~Fryderyk,17539976]]'
 family_name: '[[_Standards/WikiData/WD~Chopin,15917350]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Portrait_of_Fryderyk_Chopin,104623154]]'
-  - '[[_Standards/WikiData/WD~Portrait_of_Fryderyk_Chopin_(1810_1849),104758892]]'
-  - '[[_Standards/WikiData/WD~Portrait_of_Fryderyk_Chopin.,123125419]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Fryderyk_Chopin,104623154]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Fryderyk_Chopin_(1810_1849),104758892]]'
+- '[[_Standards/WikiData/WD~Portrait_of_Fryderyk_Chopin.,123125419]]'
 has_part_s_: "[[_Standards/WikiData/WD~Chopin's_heart,123499583]]"
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Genadendal_Music_Archive,128903909]]'
 date_of_death: 1849-10-17T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Polish,809]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 native_language: '[[_Standards/WikiData/WD~Polish,809]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Johann_Sebastian_Bach,1339]]'
-  - '[[_Standards/WikiData/WD~Wolfgang_Amadeus_Mozart,254]]'
+- '[[_Standards/WikiData/WD~Johann_Sebastian_Bach,1339]]'
+- '[[_Standards/WikiData/WD~Wolfgang_Amadeus_Mozart,254]]'
 instrument: '[[_Standards/WikiData/WD~piano,5994]]'
 medical_condition: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
@@ -163,8 +213,184 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Pere-Lachaise
 ISNI: 0000000121385649
 NLC_authorities: 013931709
 U_S_National_Archives_Identifier: 25341204
+dv_has_:
+  name_:
+    af: Frédéric Chopin
+    am: ፍሬዴሪክ ሾፐን
+    an: Frédéric Chopin
+    ang: Freoþeric Chopin
+    ar: فريدريك شوبان
+    ary: فريدريك شوپان
+    arz: فريدريك شوبان
+    as: ফ্ৰেডেৰিক চোপাঁ
+    ast: Frédéric Chopin
+    ay: Fryderyk Chopin
+    az: Frederik Şopen
+    azb: فردریک شوپن
+    ba: Фредерик Шопен
+    bar: Frédéric Chopin
+    be: Фрыдэрык Шапен
+    be-tarask: Фрыдэрык Шапэн
+    bg: Фредерик Шопен
+    bho: फ्रेडरिक शोपें
+    bn: ফ্রেদেরিক শোপাঁ
+    br: Frédéric Chopin
+    bs: Frédéric Chopin
+    btm: Frédéric Chopin
+    bxr: Фредерик Шопен
+    ca: Frédéric Chopin
+    ce: Шопен, Фредерик
+    ceb: Frédéric Chopin
+    ch: Frédéric Chopin
+    ckb: فرێدریک شۆپان
+    crh: Frederik Şopen
+    cs: Fryderyk Chopin
+    cy: Frédéric Chopin
+    da: Frédéric Chopin
+    de: Frédéric Chopin
+    de-ch: Frédéric Chopin
+    diq: Frédéric Chopin
+    dsb: Fryderyk Chopin
+    ee: Frédéric Chopin
+    el: Φρεντερίκ Σοπέν
+    en: Frédéric Chopin
+    en-ca: Frédéric Chopin
+    en-gb: Frédéric Chopin
+    en-us: Frédéric Chopin
+    eo: Frédéric Chopin
+    es: Frédéric Chopin
+    et: Frédéric Chopin
+    eu: Frédéric Chopin
+    ext: Frédéric Chopin
+    fa: فردریک شوپن
+    fi: Frédéric Chopin
+    fo: Frédéric Chopin
+    fr: Frédéric Chopin
+    frr: Frederic Chopin
+    fy: Frédéric Chopin
+    ga: Frédéric Chopin
+    gan: 蕭邦
+    gcr: Frédéric Chopin
+    gd: Frédéric Chopin
+    gl: Frédéric Chopin
+    glk: فردریک شؤپأن
+    gn: Frédéric Chopin
+    gsw: Frédéric Chopin
+    gv: Frédéric Chopin
+    ha: Frédéric Chopin
+    hak: Siau-pâng
+    he: פרדריק שופן
+    hi: फ़्रेडरिक चॉपिन
+    hif: Frédéric Chopin
+    hr: Frédéric Chopin
+    ht: Frédéric Chopin
+    hu: Frédéric Chopin
+    hy: Ֆրեդերիկ Շոպեն
+    hyw: Ֆրետերիք Շոփէն
+    ia: Frédéric Chopin
+    id: Frédéric Chopin
+    ie: Frédéric Chopin
+    ilo: Frédéric Chopin
+    io: Frédéric Chopin
+    is: Frédéric Chopin
+    it: Fryderyk Chopin
+    ja: フレデリック・ショパン
+    jam: Frédéric Chopin
+    jv: Frédéric Chopin
+    ka: ფრიდერიკ შოპენი
+    kaa: Frédéric Chopin
+    kab: Frédéric Chopin
+    kbd: Фредерик Шопен
+    kbp: Frédéric Chopin
+    kk: Шопен, Фредерик
+    ko: 프레데리크 쇼팽
+    krc: Шопен, Фредерик
+    ku: Frédéric Chopin
+    kw: Frédéric Chopin
+    ky: Шопен, Фредерик
+    la: Fridericus Chopin
+    lb: Frédéric Chopin
+    li: Frédéric Chopin
+    lij: Frédéric Chopin
+    lmo: Frédéric Chopin
+    lt: Frederikas Šopenas
+    lv: Frideriks Šopēns
+    lzh: 蕭邦
+    mg: Frédéric Chopin
+    mhr: Фредерик Шопен
+    mk: Фредерик Шопен
+    ml: ഫ്രെഡെറിക് ഷൊപിൻ
+    mn: Фредерик Шопен
+    mr: फ्रेदरिक शोपें
+    mrj: Шопен, Фредерик
+    ms: Frédéric Chopin
+    mt: Frédéric Chopin
+    mul: Frédéric Chopin
+    mwl: Frédéric Chopin
+    my: ရှိုပန်၊ ဖရက်ဒရစ်
+    nah: Frédéric Chopin
+    nan: Frédéric Chopin
+    nb: Frédéric Chopin
+    nds: Frédéric Chopin
+    nds-nl: Frédéric Chopin
+    new: फ्रेडेरिक चोपिन
+    nl: Frédéric Chopin
+    nn: Frédéric Chopin
+    oc: Frédéric Chopin
+    olo: Frédéric Chopin
+    pa: ਫਰਾਦਾਰੀਕ ਸ਼ੋਪੁਹ
+    pam: Frédéric Chopin
+    pap: Frédéric Chopin
+    pcd: Frédéric Chopin
+    pl: Fryderyk Chopin
+    pms: Frédéric Chopin
+    pnb: فریڈرک شوپن
+    ps: فرېډریک چوپېن
+    pt: Frédéric Chopin
+    pt-br: Frédéric Chopin
+    qu: Frédéric Chopin
+    ro: Frédéric Chopin
+    ru: Фредерик Шопен
+    rue: Фредерік Шопен
+    rup: Frédéric Chopin
+    sc: Frédéric Chopin
+    scn: Frédéric Chopin
+    sco: Frédéric Chopin
+    sgs: Frédéric Chopin
+    sh: Frédéric Chopin
+    sk: Fryderyk Chopin
+    sl: Frédéric Chopin
+    sq: Frédéric Chopin
+    sr: Фредерик Шопен
+    stq: Frédéric François Chopin
+    sv: Frédéric Chopin
+    sw: Frédéric Chopin
+    szl: Fryderyk Chopin
+    ta: பிரடெரிக் சொப்பின்
+    te: ఫ్రెడరిక్ చోపిన్
+    tg: Фридерик Шопен
+    th: เฟรเดริก ชอแป็ง
+    tl: Frederic Francois Chopin
+    tok: jan Peteki Sopan
+    tr: Frédéric Chopin
+    tt: Фредерик Шопен
+    tyv: Шопен, Фридерик
+    uk: Фридерик Шопен
+    ur: فریڈرک شوپن
+    uz: Frederic Chopin
+    vep: Šopen Friderik
+    vi: Frédéric Chopin
+    vls: Frédéric Chopin
+    vo: Frédéric Chopin
+    war: Frédéric Chopin
+    wuu: 蕭邦
+    xmf: ფრედერიკ შოპენი
+    yi: פרעדעריק שאפען
+    yo: Frédéric Chopin
+    yue: 蕭邦
+    zh: 弗雷德里克·肖邦
+    zh-hk: 費德烈·蕭邦
 ---
-
 # [[Chopin,Frédéric]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Frédéric_Chopin,1268|WD~Frédéric_Chopin,1268]] 

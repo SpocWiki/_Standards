@@ -1,9 +1,57 @@
 ---
 aliases:
-  - Hemigraphis
+- Hemigrafis
+- Hemigraphis
+- Pronssilehdet
+- 半插花属
+- 半柱花属
+- 半柱花屬
 title: Hemigraphis + Strobilanthes + relatives
+has_id_wikidata: Q2705948
+dv_has_:
+  name_:
+    an: Hemigraphis
+    ast: Hemigraphis
+    bg: Hemigraphis
+    ca: Hemigraphis
+    ceb: Hemigraphis
+    de: Hemigraphis
+    en: Hemigraphis
+    eo: Hemigraphis
+    es: Hemigraphis
+    eu: Hemigraphis
+    ext: Hemigraphis
+    fi: Pronssilehdet
+    fr: Hemigraphis
+    ga: Hemigraphis
+    gl: Hemigraphis
+    hr: Hemigrafis
+    ia: Hemigraphis
+    id: Hemigraphis
+    ie: Hemigraphis
+    io: Hemigraphis
+    it: Hemigraphis
+    la: Hemigraphis
+    mul: Hemigraphis
+    nl: Hemigraphis
+    oc: Hemigraphis
+    pl: Hemigraphis
+    pt: Hemigraphis
+    pt-br: Hemigraphis
+    ro: Hemigraphis
+    ru: Hemigraphis
+    sq: Hemigraphis
+    sv: Hemigraphis
+    tr: Hemigraphis
+    uk: Hemigraphis
+    vi: Hemigraphis
+    vo: Hemigraphis
+    war: Hemigraphis
+    zh: 半插花属
+    zh-hans: 半柱花属
+    zh-hant: 半柱花屬
+    zh-hk: 半柱花屬
 ---
-
 # *Hemigraphis + Strobilanthes + relatives* 
 
 ![ ](Hemigraphis/Hemigraphisalternata.jpg)  ![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 

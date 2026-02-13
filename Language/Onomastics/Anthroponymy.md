@@ -1,23 +1,117 @@
 ---
 aliases:
-  - anthroponymics
-  - anthroponomastics
-  - Anthroponymie
-  - Anthroponomastik
-  - dottir
-  - vich
-  - ovna
-  - evna
-  - Anthroponymy
+- anthroponomastics
+- Anthroponomastik
+- anthroponymics
+- Anthroponymie
+- Anthroponymy
+- Antropomastika
+- antroponimastik
+- antroponimeye
+- antroponimi
+- antroponimia
+- antroponimie
+- antroponimija
+- antroponimika
+- Antroponimya
+- antroponomastika
+- antroponymi
+- antroponymia
+- antroponymie
+- antroponímia
+- antroponüümika
+- antroponīmija
+- dottir
+- evna
+- homnomscienco
+- ovna
+- személynévtan
+- vich
+- ανθρωπονοματικά
+- антрапаніміка
+- антропоніміка
+- антропонимика
+- антропонимия
+- חקר שמות האנשים
+- انتروڤونيمي
+- دراسات اسمية
+- نامشناسی انسان
+- மக்கட்பெயரியல்
+- ანთროპონიმიკა
+- 人名学
+- 人名學
+- 인명학
 has_id_wikidata: Q1973833
 subclass_of: '[[_Standards/WikiData/WD~onomastics,175156]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~anthroponymy,4067625]]'
-  - '[[_Standards/WikiData/WD~anthroponym,10856962]]'
+- '[[_Standards/WikiData/WD~anthroponymy,4067625]]'
+- '[[_Standards/WikiData/WD~anthroponym,10856962]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
+dv_has_:
+  name_:
+    an: antroponimia
+    ar: دراسات اسمية
+    az: antroponimika
+    bcl: Antroponimya
+    be: антрапаніміка
+    be-tarask: антрапаніміка
+    bg: антропонимия
+    ca: antroponímia
+    cs: antroponomastika
+    de: Anthroponymie
+    el: ανθρωπονοματικά
+    en: anthroponymy
+    en-ca: anthroponymy
+    en-gb: anthroponymy
+    eo: homnomscienco
+    es: antroponimia
+    et: antroponüümika
+    eu: antroponimia
+    fa: نامشناسی انسان
+    fi: antroponymia
+    fr: anthroponymie
+    gl: antroponimia
+    he: חקר שמות האנשים
+    hr: antroponimija
+    hu: személynévtan
+    id: antroponimastik
+    ig: anthroponymy
+    it: antroponimia
+    ja: 人名学
+    ka: ანთროპონიმიკა
+    kk: антропонимика
+    ko: 인명학
+    ky: антропонимика
+    lt: antroponimika
+    lv: antroponīmija
+    ms: antroponimi
+    ms-arab: انتروڤونيمي
+    nl: antroponymie
+    nn: antroponymi
+    pl: antroponimia
+    pt: antroponímia
+    pt-br: antroponímia
+    ro: antroponimie
+    ru: антропонимика
+    sk: Antropomastika
+    sl: antroponimija
+    sq: antroponimia
+    sr: антропонимика
+    sv: antroponymi
+    ta: மக்கட்பெயரியல்
+    tg: антропонимика
+    tk: antroponimika
+    tt: антропонимика
+    uk: антропоніміка
+    uz: antroponimika
+    vec: antroponimia
+    wa: antroponimeye
+    zh: 人名學
+    zh-cn: 人名学
+    zh-hans: 人名学
+    zh-hant: 人名學
 ---
-
 # [[Anthroponymy]] 
 
 #is_/same_as :: [[WD~Anthroponymy,1973833]]

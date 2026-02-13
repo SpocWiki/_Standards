@@ -1,6 +1,23 @@
 ---
 aliases:
-  - Xerinae
+- afrowiórki
+- Erdhörnchen
+- földimókusformák
+- Grûniikhoarntsjes en Afrikaanske beamiikhoarntsjes
+- Phân họ Sóc đất
+- Xerinae
+- Xerí
+- Zemes vāveres
+- Äerdkaweechelcher
+- Ξερινές
+- סנאיי קרקע
+- خشکیسنجابیان
+- سناجب أرضية
+- سناجب ارضيه
+- アラゲジリス亜科
+- 非洲地松鼠亚科
+- 非洲地松鼠亞科
+- 땅다람쥐아과
 has_id_wikidata: Q53112
 title: Xerinae
 taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
@@ -12,8 +29,65 @@ Commons_category: Xerinae
 taxon_name: Xerinae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Borstenh%C3%B6rnchen%20060319%202.jpg
 UMLS_CUI: C1648590
+dv_has_:
+  name_:
+    an: Xerinae
+    ar: سناجب أرضية
+    arz: سناجب ارضيه
+    ast: Xerinae
+    bg: Xerinae
+    br: Xerinae
+    ca: Xerí
+    ceb: Xerinae
+    cs: Xerinae
+    de: Erdhörnchen
+    de-ch: Erdhörnchen
+    el: Ξερινές
+    en: Xerinae
+    en-ca: Xerinae
+    en-gb: Xerinae
+    eo: Xerinae
+    es: Xerinae
+    eu: Xerinae
+    ext: Xerinae
+    fa: خشکیسنجابیان
+    fi: Xerinae
+    fr: Xerinae
+    fy: Grûniikhoarntsjes en Afrikaanske beamiikhoarntsjes
+    ga: Xerinae
+    gl: Xerinae
+    he: סנאיי קרקע
+    hu: földimókusformák
+    ia: Xerinae
+    ie: Xerinae
+    io: Xerinae
+    it: Xerinae
+    ja: アラゲジリス亜科
+    ko: 땅다람쥐아과
+    la: Xerinae
+    lb: Äerdkaweechelcher
+    lv: Zemes vāveres
+    ms: Xerinae
+    mul: Xerinae
+    nl: Xerinae
+    oc: Xerinae
+    pl: afrowiórki
+    pt: Xerinae
+    pt-br: Xerinae
+    ro: Xerinae
+    ru: Xerinae
+    sl: Xerinae
+    sq: Xerinae
+    uk: Xerinae
+    vec: Xerinae
+    vi: Phân họ Sóc đất
+    vo: Xerinae
+    war: Xerinae
+    zh: 非洲地松鼠亞科
+    zh-cn: 非洲地松鼠亚科
+    zh-hant: 非洲地松鼠亞科
+    zh-tw: 非洲地松鼠亞科
 ---
-
 # [[Xerinae]] 
 
 ![ ](Xerinae/xerusinauris4.jpg)

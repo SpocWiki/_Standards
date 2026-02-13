@@ -1,25 +1,166 @@
 ---
 aliases:
-  - Luminosity
-  - Dim~Luminosity
+- Argitasun
+- Asfijjej (tasnallunt)
+- Aydınlatma gücü
+- Dim~Luminosity
+- izsev
+- jasność
+- Kaliwanagan
+- kekilauan
+- kng-tō͘
+- Leuchtkraft
+- lichtkracht
+- liggewendheid
+- Liichtkraaft
+- Liminozite
+- ljósafl
+- lluminosidá
+- lluminositat
+- lonrachas
+- lumeco
+- luminosidad
+- luminosidade
+- Luminosidat
+- luminositas
+- luminositeetti
+- luminositet
+- Luminosity
+- luminosità
+- luminosité
+- luminozitate
+- luminozitet
+- luminozitás
+- Lumozeso
+- Lüüchtkraft
+- Mng'aro wa Jua
+- starjauda
+- svietivosť
+- Yulduz yorqinligi
+- zářivý výkon
+- Çутатаслăх
+- độ sáng
+- šviesis
+- φωτεινότητα
+- Жұлдыздың жарқырауы
+- луминозност
+- сјајност
+- світність
+- светимост
+- светимость
+- свяцільнасць
+- сьвяцільнасьць
+- Яктыртучанлык
+- Լուսատվություն
+- עוצמת הארה
+- إضاءة
+- فروزندگی
+- चमक
+- तेजस्विता
+- 'प्रकाश:'
+- ಪ್ರಕಾಶಮಾನತೆ
+- กำลังส่องสว่าง
+- 光度
+- 天體光度
+- 광도
 has_id_wikidata: Q105902
 different_from:
-  - "[[_Standards/WikiData/WD~luminous_intensity,104831]]"
-  - "[[_Standards/WikiData/WD~luminosity,3267326]]"
-  - "[[_Standards/WikiData/WD~Q60973595,60973595]]"
+- '[[_Standards/WikiData/WD~luminous_intensity,104831]]'
+- '[[_Standards/WikiData/WD~luminosity,3267326]]'
+- '[[_Standards/WikiData/WD~Q60973595,60973595]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~radiant_flux,1253356]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>3</mn></mrow></mrow></msup></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~radiant_flux,1253356]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>3</mn></mrow></mrow></msup></mstyle></mrow></math>"
 Wikidata_property: luminosity
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~lightness,19426]]"
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~watt,25236]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~lightness,19426]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~watt,25236]]'
 OmegaWiki_Defined_Meaning: 2218
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inverse%20square%20law.svg
+dv_has_:
+  name_:
+    af: liggewendheid
+    an: Luminosidat
+    ar: إضاءة
+    ast: lluminosidá
+    be: свяцільнасць
+    be-tarask: сьвяцільнасьць
+    bg: светимост
+    bs: luminozitet
+    ca: lluminositat
+    cs: zářivý výkon
+    cv: Çутатаслăх
+    da: luminositet
+    de: Leuchtkraft
+    el: φωτεινότητα
+    en: luminosity
+    eo: lumeco
+    es: luminosidad
+    eu: Argitasun
+    fa: فروزندگی
+    fi: luminositeetti
+    fr: luminosité
+    ga: lonrachas
+    gl: luminosidade
+    he: עוצמת הארה
+    hi: चमक
+    hr: luminozitet
+    ht: Liminozite
+    hu: luminozitás
+    hy: Լուսատվություն
+    id: luminositas
+    io: Lumozeso
+    is: ljósafl
+    it: luminosità
+    ja: 光度
+    kab: Asfijjej (tasnallunt)
+    kk: Жұлдыздың жарқырауы
+    kn: ಪ್ರಕಾಶಮಾನತೆ
+    ko: 광도
+    lb: Liichtkraaft
+    lt: šviesis
+    lv: starjauda
+    mk: сјајност
+    mr: तेजस्विता
+    ms: kekilauan
+    mt: luminosità
+    nan: kng-tō͘
+    nb: luminositet
+    nds: Lüüchtkraft
+    nl: lichtkracht
+    nn: Luminositet
+    pl: jasność
+    pt: luminosidade
+    ro: luminozitate
+    ru: светимость
+    sa: 'प्रकाश:'
+    sco: luminosity
+    sh: luminozitet
+    sk: svietivosť
+    sl: izsev
+    sr: луминозност
+    su: Luminositas
+    sv: luminositet
+    sw: Mng'aro wa Jua
+    th: กำลังส่องสว่าง
+    tl: Kaliwanagan
+    tr: Aydınlatma gücü
+    tt: Яктыртучанлык
+    uk: світність
+    uz: Yulduz yorqinligi
+    vi: độ sáng
+    wuu: 光度
+    yue: 天體光度
+    zh: 光度
+    zh-cn: 光度
+    zh-hans: 光度
+    zh-hant: 光度
+    zh-hk: 光度
+    zh-sg: 光度
+    zh-tw: 光度
 ---
-
 # [[Dim~Luminosity]] 
 
 #is_/same_as :: [[WD~Luminosity,105902]] 

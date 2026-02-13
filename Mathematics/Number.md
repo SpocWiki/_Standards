@@ -1,21 +1,181 @@
 ---
 aliases:
-  - Number
+- akitasowin
+- amḍan
+- arv
+- bilang
+- bilangan
+- broj
+- chipendero
+- dzinomboro
+- ennamba
+- getal
+- ginti
+- hejmar
+- hohltina
+- Hoéstonestȯtse
+- ifuk
+- ihap
+- inani
+- inombolo
+- isa
+- kalinli
+- lambar
+- liczba
+- limle
+- lissafi
+- lohku
+- loho
+- lugu
+- luku
+- lumur
+- lååkk
+- lëczba
+- naba
+- namba
+- namcu
+- nanpa
+- neunmétho
+- nhamba
+- niver
+- nomba
+- nombor
+- nomboro
+- nombre
+- nombro
+- nomm
+- nomoro
+- nonm
+- nulinlɛ́n dodó
+- Number
+- numer
+- numere
+- numero
+- numeru
+- numerus
+- numiru
+- nummer
+- numër
+- număr
+- nuumerokana
+- nómmer
+- nóomba
+- nömörö
+- nùmaro
+- nùmer
+- nùmmuru
+- númaro
+- númberu
+- número
+- nā helu
+- nůmera
+- nọ́mbà
+- papaha
+- rakë̂
+- rhif
+- rīm
+- san
+- sayı
+- skaitlios
+- skaitlis
+- skaičius
+- son
+- szám
+- sò͘-ba̍k
+- số
+- Taal
+- Tahl
+- tal
+- tala
+- tall
+- tlapōhualli
+- uimhir
+- wilangan
+- yupay
+- Zaal
+- Zahl
+- zenbaki
+- Zoi
+- Zuel
+- àireamh
+- ñʊʊ
+- číslo
+- število
+- ədəd
+- αριθμός
+- адад
+- арифметикалык сан
+- ахсаан
+- ахыҧхьаӡара
+- аьдад
+- број
+- лік
+- лыд
+- нымæц
+- сан
+- тойг
+- тоо
+- хисеп
+- чісло
+- число
+- чисмѧ
+- шотпал
+- һан
+- թիվ
+- թիւ
+- מספר
+- צאל
+- اشمارک
+- انگ
+- تعداد
+- عدد
+- نمبر
+- نومبور
+- ژمارە
+- ܡܢܝܢܐ
+- अंक
+- अंका
+- नंबर
+- ल्याः
+- संख्या
+- सङ्ख्या
+- सङ्ख्याः
+- সংখ্যা
+- ਅੰਕ
+- எண்
+- సంఖ్య
+- ಸಂಖ್ಯೆ
+- സംഖ്യ
+- จำนวน
+- ຈຳນວນ
+- གྲངས་ཀ།
+- ကိန်း
+- რიცხვი
+- რიცხუ
+- ቁጥር
+- ቁጽሪ
+- ᐊᑭᐦᑖᓱᐣ
+- ᡨᠣᠨ
+- ἀριθμός
+- ⴰⵎⴹⴰⵏ
+- 数
+- 數
+- 수
 has_id_wikidata: Q11563
 Commons_category: Numbers
 Commons_gallery: Numbers
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Zahl,140598]]'
-  - '[[_Standards/WikiData/WD~Number,4516286]]'
-  - '[[_Standards/WikiData/WD~Tal,5576117]]'
-  - '[[_Standards/WikiData/WD~Liczba,11755814]]'
+- '[[_Standards/WikiData/WD~Zahl,140598]]'
+- '[[_Standards/WikiData/WD~Number,4516286]]'
+- '[[_Standards/WikiData/WD~Tal,5576117]]'
+- '[[_Standards/WikiData/WD~Liczba,11755814]]'
 equivalent_class: https://schema.org/Number
 has_characteristic: '[[_Standards/WikiData/WD~type_of_number,47460393]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Numbers%20grid%20in%20NY.jpg
@@ -34,8 +194,234 @@ subclass_of: '[[_Standards/WikiData/WD~mathematical_object,246672]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Number_systems,6443303]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20zenbaki%20arrazionalak.webm
 Wikidata_property: numeric value
+dv_has_:
+  name_:
+    ab: ахыҧхьаӡара
+    af: getal
+    am: ቁጥር
+    an: numero
+    ang: rīm
+    ann: ifuk
+    anp: संख्या
+    ar: عدد
+    arc: ܡܢܝܢܐ
+    ary: عدد
+    as: সংখ্যা
+    ast: númberu
+    atj: akitasowin
+    az: ədəd
+    azb: عدد
+    ba: һан
+    bar: Zoi
+    bcl: bilang
+    be: лік
+    be-tarask: лік
+    bg: число
+    bho: नंबर
+    bjn: wilangan
+    bn: সংখ্যা
+    bo: གྲངས་ཀ།
+    br: niver
+    bs: broj
+    bxr: тоо
+    ca: nombre
+    cbk-zam: numero
+    cho: hohltina
+    chy: Hoéstonestȯtse
+    ckb: ژمارە
+    co: numeru
+    cr: ᐊᑭᐦᑖᓱᐣ
+    crh: sayı
+    cs: číslo
+    csb: lëczba
+    cu: чисмѧ
+    cv: хисеп
+    cy: rhif
+    da: tal
+    dag: kalinli
+    de: Zahl
+    dty: अंका
+    el: αριθμός
+    eml: nómmer
+    en: number
+    en-ca: number
+    en-gb: number
+    eo: nombro
+    es: número
+    et: arv
+    eu: zenbaki
+    ext: númberu
+    fa: عدد
+    ff: limle
+    fi: luku
+    fj: naba
+    fo: tal
+    fon: nulinlɛ́n dodó
+    fr: nombre
+    frp: nombro
+    frr: Taal
+    fy: getal
+    ga: uimhir
+    gan: 數
+    gcr: nomm
+    gd: àireamh
+    gl: número
+    gn: papaha
+    grc: ἀριθμός
+    gsw: Zaal
+    guc: nuumerokana
+    ha: lissafi
+    haw: nā helu
+    he: מספר
+    hi: संख्या
+    hif: ginti
+    hr: broj
+    ht: nonm
+    hu: szám
+    hy: թիվ
+    hyw: թիւ
+    ia: numero
+    iba: lumur
+    id: bilangan
+    ilo: numero
+    io: nombro
+    is: tala
+    it: numero
+    ja: 数
+    jam: nomba
+    jbo: namcu
+    jv: wilangan
+    ka: რიცხვი
+    kaa: san
+    kab: amḍan
+    kbp: ñʊʊ
+    kk: сан
+    kn: ಸಂಖ್ಯೆ
+    ko: 수
+    krj: rakë̂
+    ks: تعداد
+    ku: hejmar
+    kw: niver
+    ky: арифметикалык сан
+    la: numerus
+    lb: Zuel
+    lbe: аьдад
+    lfn: numero
+    lg: ennamba
+    li: getal
+    lmo: numer
+    lo: ຈຳນວນ
+    lt: skaičius
+    lv: skaitlis
+    lzh: 數
+    mag: सङ्ख्या
+    mai: अंक
+    mg: isa
+    mhr: шотпал
+    mk: број
+    ml: സംഖ്യ
+    mn: тоо
+    mnc: ᡨᠣᠨ
+    mr: संख्या
+    ms: nombor
+    ms-arab: نومبور
+    mwl: númaro
+    my: ကိန်း
+    mzn: اشمارک
+    nah: tlapōhualli
+    nan: sò͘-ba̍k
+    nb: tall
+    nds: Tahl
+    ne: अंक
+    new: ल्याः
+    nl: getal
+    nn: tal
+    nov: nombre
+    nrm: neunmétho
+    nso: nomoro
+    nv: nóomba
+    oc: nombre
+    os: нымæц
+    pa: ਅੰਕ
+    pag: numero
+    pl: liczba
+    pms: nùmer
+    pnb: نمبر
+    ps: عدد
+    pt: número
+    pt-br: número
+    qu: yupay
+    rki: ကိန်း
+    ro: număr
+    roa-tara: numere
+    ru: число
+    rue: чісло
+    rup: numiru
+    sa: सङ्ख्याः
+    sah: ахсаан
+    scn: nùmmuru
+    sco: nummer
+    sd: انگ
+    se: lohku
+    sg: nömörö
+    sgs: skaitlios
+    sh: broj
+    shi: amḍan
+    sk: číslo
+    sl: število
+    smn: loho
+    sms: lååkk
+    sn: nhamba
+    so: lambar
+    sq: numër
+    sr: број
+    sr-ec: број
+    su: wilangan
+    sv: tal
+    sw: namba
+    szl: nůmera
+    ta: எண்
+    tcy: ಸಂಖ್ಯೆ
+    te: సంఖ్య
+    tg: адад
+    th: จำนวน
+    ti: ቁጽሪ
+    tk: san
+    tl: bilang
+    tok: nanpa
+    tr: sayı
+    ts: nomboro
+    tt: сан
+    tt-cyrl: сан
+    tum: chipendero
+    udm: лыд
+    uk: число
+    ur: عدد
+    uz: son
+    ve: dzinomboro
+    vec: nùmaro
+    vep: lugu
+    vi: số
+    vro: arv
+    war: ihap
+    wuu: 数
+    xal: тойг
+    xh: inani
+    xmf: რიცხუ
+    yi: צאל
+    yo: nọ́mbà
+    yue: 數
+    zgh: ⴰⵎⴹⴰⵏ
+    zh: 數
+    zh-cn: 数
+    zh-hans: 数
+    zh-hant: 數
+    zh-hk: 數
+    zh-mo: 數
+    zh-sg: 数
+    zh-tw: 數
+    zu: inombolo
 ---
-
 ## #has_/text_of_/abstract 
 
 > A **Number** is a mathematical object used to count, measure, and label. 

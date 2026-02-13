@@ -1,37 +1,133 @@
 ---
 aliases:
-  - Schicht
-  - Stratum
+- Bank
+- estrat
+- estrato
+- estrato geológico
+- Estratu
+- gelaagdheid
+- geološki sloj
+- gweli
+- Katman
+- kerrostuma
+- lag
+- Lakab dhul
+- Lay
+- plast
+- Schicht
+- Sloj
+- Sluoksnis
+- sraith
+- strat
+- strate
+- strato
+- Stratum
+- tavolo
+- vrstva
+- warstwa
+- Địa tầng
+- γεωλογικό υπόστρωμα
+- геолошки слој
+- Кабат
+- катлам
+- пласт
+- Сий (геологи)
+- слој
+- шар
+- Շերտ
+- שכבת קרקע
+- طبقة أرضية
+- چین
+- چینه
+- 地层
+- 地層
+- 지층
 has_id_wikidata: Q12758989
-studied_by: "[[_Standards/WikiData/WD~stratigraphy,134783]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9994646,9994646]]"
+studied_by: '[[_Standards/WikiData/WD~stratigraphy,134783]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9994646,9994646]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
-subclass_of: "[[_Standards/WikiData/WD~layer,23497981]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+subclass_of: '[[_Standards/WikiData/WD~layer,23497981]]'
 part_of: "[[_Standards/WikiData/WD~Earth's_crust,15316]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Falaises%20d%27Yves.jpg
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Stratum,12758989|WD~Stratum,12758989]]"
-    - "[[/_Standards/Earth/Geology/Stratigraphy/Stratum|Stratum]]"
-    - "[[/_public/Earth/Geology/Stratigraphy/Stratum.public|Stratum.public]]"
-    - "[[/_internal/Earth/Geology/Stratigraphy/Stratum.internal|Stratum.internal]]"
-    - "[[/_protect/Earth/Geology/Stratigraphy/Stratum.protect|Stratum.protect]]"
-    - "[[/_private/Earth/Geology/Stratigraphy/Stratum.private|Stratum.private]]"
-    - "[[/_personal/Earth/Geology/Stratigraphy/Stratum.personal|Stratum.personal]]"
-    - "[[/_secret/Earth/Geology/Stratigraphy/Stratum.secret|Stratum.secret]]"
+  - '[[../../../WikiData/WD~Stratum,12758989|WD~Stratum,12758989]]'
+  - '[[/_Standards/Earth/Geology/Stratigraphy/Stratum|Stratum]]'
+  - '[[/_public/Earth/Geology/Stratigraphy/Stratum.public|Stratum.public]]'
+  - '[[/_internal/Earth/Geology/Stratigraphy/Stratum.internal|Stratum.internal]]'
+  - '[[/_protect/Earth/Geology/Stratigraphy/Stratum.protect|Stratum.protect]]'
+  - '[[/_private/Earth/Geology/Stratigraphy/Stratum.private|Stratum.private]]'
+  - '[[/_personal/Earth/Geology/Stratigraphy/Stratum.personal|Stratum.personal]]'
+  - '[[/_secret/Earth/Geology/Stratigraphy/Stratum.secret|Stratum.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Stratum,12758989|WD~Stratum,12758989]]"
-  - "[[/_Standards/Earth/Geology/Stratigraphy/Stratum|Stratum]]"
-  - "[[/_public/Earth/Geology/Stratigraphy/Stratum.public|Stratum.public]]"
-  - "[[/_internal/Earth/Geology/Stratigraphy/Stratum.internal|Stratum.internal]]"
-  - "[[/_protect/Earth/Geology/Stratigraphy/Stratum.protect|Stratum.protect]]"
-  - "[[/_private/Earth/Geology/Stratigraphy/Stratum.private|Stratum.private]]"
-  - "[[/_personal/Earth/Geology/Stratigraphy/Stratum.personal|Stratum.personal]]"
-  - "[[/_secret/Earth/Geology/Stratigraphy/Stratum.secret|Stratum.secret]]"
+- '[[../../../WikiData/WD~Stratum,12758989|WD~Stratum,12758989]]'
+- '[[/_Standards/Earth/Geology/Stratigraphy/Stratum|Stratum]]'
+- '[[/_public/Earth/Geology/Stratigraphy/Stratum.public|Stratum.public]]'
+- '[[/_internal/Earth/Geology/Stratigraphy/Stratum.internal|Stratum.internal]]'
+- '[[/_protect/Earth/Geology/Stratigraphy/Stratum.protect|Stratum.protect]]'
+- '[[/_private/Earth/Geology/Stratigraphy/Stratum.private|Stratum.private]]'
+- '[[/_personal/Earth/Geology/Stratigraphy/Stratum.personal|Stratum.personal]]'
+- '[[/_secret/Earth/Geology/Stratigraphy/Stratum.secret|Stratum.secret]]'
+dv_has_:
+  name_:
+    ar: طبقة أرضية
+    ast: Estratu
+    az: Lay
+    be: Пласт
+    be-tarask: пласт
+    bg: Пласт
+    ca: estrat
+    ckb: چین
+    cs: vrstva
+    cv: Сий (геологи)
+    de: Bank
+    el: γεωλογικό υπόστρωμα
+    en: stratum
+    eo: tavolo
+    es: estrato
+    eu: Estratu
+    fa: چینه
+    fi: kerrostuma
+    fr: strate
+    ga: sraith
+    gl: Estrato
+    he: שכבת קרקע
+    hr: Sloj
+    hy: Շերտ
+    id: Stratum
+    it: strato
+    ja: 地層
+    ko: 지층
+    kw: gweli
+    ky: Кабат
+    la: Stratum
+    lt: Sluoksnis
+    mk: слој
+    nb: stratum
+    nl: gelaagdheid
+    nn: lag
+    oc: Estrat
+    pl: warstwa
+    pt: estrato geológico
+    ro: strat
+    ru: пласт
+    sk: Vrstva
+    sl: plast
+    so: Lakab dhul
+    sr: геолошки слој
+    sr-ec: геолошки слој
+    sr-el: geološki sloj
+    sv: Stratum
+    tl: Stratum
+    tr: Katman
+    tt: катлам
+    uk: шар
+    vi: Địa tầng
+    yue: 地層
+    zh: 地层
 ---
-
 # [[Stratum]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stratum,12758989|WD~Stratum,12758989]]  

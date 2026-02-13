@@ -1,30 +1,90 @@
 ---
-has_time_started: 1590-01-01 
-has_time_stopped: 1750-01-01 
+has_time_started: 1590-01-01
+has_time_stopped: 1750-01-01
 aliases:
-  - Barock
-  - Baroque
+- baarook
+- Balókí
+- baroahkka
+- baroc
+- barocco
+- Baroccu
+- Barock
+- barocken
+- baroco
+- Barocus
+- barohkka
+- barok
+- Barokas
+- barokk
+- barokken
+- barokki
+- Barokko
+- Barokkur
+- Baroko
+- baroks
+- Baroku
+- Baroque
+- barroc
+- barroco
+- Barrocu
+- barroko
+- Barròc
+- Baruok
+- Baròch
+- Baróc
+- Barócach
+- Bawòk
+- Istilong Baroque
+- Varróko
+- μπαρόκ
+- барок
+- барока
+- Барокко
+- бароко
+- Барроко
+- բարոկկո
+- בארוק
+- باروك
+- باروكية
+- باروک
+- باروکے ادب
+- بیرک
+- बरॉक
+- बारोक
+- বারোক
+- ਬਾਰੋਕ
+- બરૉક કલાશૈલી
+- பரோக்
+- ಬರೊಕ್
+- บารอก
+- ბაროკო
+- バロック
+- 巴洛克
+- 巴洛克式
+- 巴洛克艺术
+- 巴洛克藝術
+- 바로크
 has_id_wikidata: Q37853
 location:
-  - '[[_Standards/WikiData/WD~New_World,127834]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
-  - '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~New_World,127834]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~style,1292119]]'
-  - '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
-  - '[[_Standards/WikiData/WD~historical_period,11514315]]'
-  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~style,1292119]]'
+- '[[_Standards/WikiData/WD~cultural_movement,2198855]]'
+- '[[_Standards/WikiData/WD~historical_period,11514315]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Baroque_literature,1431376]]'
-  - '[[_Standards/WikiData/WD~Baroque_art,3624106]]'
+- '[[_Standards/WikiData/WD~Baroque_literature,1431376]]'
+- '[[_Standards/WikiData/WD~Baroque_art,3624106]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Baroque,20203497]]'
 end_time: 1750-01-01T00:00:00Z
 start_time: 1590-01-01T00:00:00Z
@@ -35,8 +95,138 @@ Commons_category: Baroque art
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Baroko%20-%20namluven%C3%BD%20%C4%8Dl%C3%A1nek.ogg
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/BAROKKO_LITERATURA.html
 Gujarati_Vishwakosh_entry: બરૉક-કલાશૈલી
+dv_has_:
+  name_:
+    af: Barok
+    an: Barroco
+    ar: باروكية
+    arz: باروك
+    ast: barrocu
+    az: barokko
+    ba: Барокко
+    bar: Barock
+    be: барока
+    be-tarask: барока
+    bg: Барок
+    bn: বারোক
+    bs: Barok
+    ca: barroc
+    cs: baroko
+    cv: Барокко
+    cy: Baróc
+    da: barokken
+    de: Barock
+    dsb: Barok
+    el: μπαρόκ
+    en: Baroque
+    eo: Baroko
+    es: barroco
+    et: barokk
+    eu: barroko
+    ext: Barrocu
+    fa: باروک
+    fi: barokki
+    fo: Barokkur
+    fr: baroque
+    frr: Barok
+    fy: Barok
+    ga: Barócach
+    gan: 巴洛克式
+    gcr: Barok
+    gl: Barroco
+    gn: Varróko
+    gsw: Barock
+    gu: બરૉક કલાશૈલી
+    ha: Baroque
+    he: בארוק
+    hi: बरॉक
+    hr: barok
+    hsb: Barok
+    ht: Bawòk
+    hu: barokk
+    hy: բարոկկո
+    ia: Baroco
+    id: Barok
+    io: Baroko
+    is: barokk
+    it: barocco
+    ja: バロック
+    jam: Baruok
+    jv: Barok
+    ka: ბაროკო
+    kk: Барокко
+    kn: ಬರೊಕ್
+    ko: 바로크
+    ku: Barok
+    ky: Барокко
+    la: Barocus
+    lb: Barock
+    li: Barok
+    ln: Balókí
+    lt: Barokas
+    lv: baroks
+    lzh: 巴洛克
+    mk: барок
+    mn: Барроко
+    ms: Baroque
+    mt: Barokk
+    nan: Baroque
+    nap: Barocco
+    nb: barokken
+    nds: Barock
+    nds-nl: barok
+    new: बारोक
+    nl: barok
+    nn: barokken
+    oc: Barròc
+    os: барокко
+    pa: ਬਾਰੋਕ
+    pl: barok
+    pms: Baròch
+    pnb: بیرک
+    ps: باروک
+    pt: barroco
+    pt-br: barroco
+    ro: baroc
+    ru: барокко
+    rue: Бароко
+    sah: Барокко
+    scn: Baroccu
+    se: barohkka
+    sh: barok
+    sk: barok
+    sl: barok
+    smj: baroahkka
+    smn: baarook
+    sms: barokk
+    sq: Baroku
+    sr: барок
+    sr-ec: барок
+    sr-el: barok
+    stq: Barock
+    sv: barocken
+    sw: Baroko
+    ta: பரோக்
+    tg: Барокко
+    th: บารอก
+    tl: Istilong Baroque
+    tr: barok
+    tt: барокко
+    uk: бароко
+    ur: باروکے ادب
+    uz: Barokko
+    vec: baroco
+    vi: Baroque
+    vls: Barok
+    war: Baroko
+    wuu: 巴洛克艺术
+    xmf: ბაროკო
+    yue: 巴洛克
+    zh: 巴洛克艺术
+    zh-hant: 巴洛克藝術
+    zh-hk: 巴洛克藝術
+    zh-tw: 巴洛克藝術
 ---
-
 # [[Baroque]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Baroque,37853|WD~Baroque,37853]] 

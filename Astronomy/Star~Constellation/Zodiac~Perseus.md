@@ -1,35 +1,90 @@
 ---
 aliases:
-  - Perseus
-  - Zodiac~Perseus
+- Anh Tiên
+- Cıwan
+- Farisi
+- gwiazdozbiór Perseusza
+- Juara
+- Konstelasyong Perseus
+- Peirséas
+- Perseifur (stjörnumerki)
+- Persejs
+- Perseo
+- Perseu
+- Perseus
+- Perseus (konstelazioa)
+- Perseus (ranneves)
+- Perseus (stäärbil)
+- Perseus Chō
+- Perseus csillagkép
+- Persevs
+- Persey
+- Perseüs
+- Persée
+- Persėjas
+- Perzej
+- Perzeus
+- Stjernebiletet Persevs
+- y Whing
+- Yîn-siên-chho
+- Zodiac~Perseus
+- Ĭng-siĕng-cô̤
+- Περσεύς
+- Персеј
+- Персей
+- Персей (стъалыгуппар)
+- Персей йолдызлыгы
+- Персей шоқжұлдызы
+- Пэрсэй
+- Պերսեւս (համաստեղութիւն)
+- Պերսևս
+- פרסאוס
+- برساووش
+- حامل رأس الغول
+- حامل راس الغول
+- پورس تارہ چرمٹ
+- پيرسيوس (كوكبه)
+- ययाति तारामंडल
+- পরশু মণ্ডল
+- ଯଯାତି ତାରାମଣ୍ଡଳ
+- பெர்சியஸ் (விண்மீன் குழாம்)
+- ಪರ್ಸಿಯಸ್
+- വരാസവസ്
+- กลุ่มดาวเพอร์ซิอัส
+- དྲང་སྲོང་དཔའ་བོའི་སྐར་ཚོམ་
+- ပါဆီးယပ်
+- პერსევსი
+- ペルセウス座
+- 英仙座
+- 페르세우스자리
 has_id_wikidata: Q10511
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
-named_after: "[[_Standards/WikiData/WD~Perseus,130832]]"
+named_after: '[[_Standards/WikiData/WD~Perseus,130832]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Perseus,105199906]]"
-part_of: "[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Perseus,105199906]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729095,10729095]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Perseus,11117327]]"
+- '[[_Standards/WikiData/WD~Q10729095,10729095]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Perseus,11117327]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Camelopardalis,8832]]"
-  - "[[_Standards/WikiData/WD~Andromeda,9256]]"
-  - "[[_Standards/WikiData/WD~Cassiopeia,10464]]"
-  - "[[_Standards/WikiData/WD~Auriga,10476]]"
-  - "[[_Standards/WikiData/WD~Triangulum,10565]]"
-  - "[[_Standards/WikiData/WD~Taurus,10570]]"
-  - "[[_Standards/WikiData/WD~Aries,10584]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
+- '[[_Standards/WikiData/WD~Andromeda,9256]]'
+- '[[_Standards/WikiData/WD~Cassiopeia,10464]]'
+- '[[_Standards/WikiData/WD~Auriga,10476]]'
+- '[[_Standards/WikiData/WD~Triangulum,10565]]'
+- '[[_Standards/WikiData/WD~Taurus,10570]]'
+- '[[_Standards/WikiData/WD~Aries,10584]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 area: 615
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Perseus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Perseus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -40,34 +95,125 @@ official_name: Perseus
 dv_SpocWebEntityId: 28145
 dv_has_:
   name_:
+    af: Perseus
+    ar: حامل رأس الغول
+    arz: پيرسيوس (كوكبه)
+    az: Persey
+    ba: Персей
+    be: Персей
+    be-tarask: Пэрсэй
+    bg: Персей
+    bn: পরশু মণ্ডল
+    bo: དྲང་སྲོང་དཔའ་བོའི་སྐར་ཚོམ་
+    br: Perseüs
+    bs: Perzej
+    ca: Perseu
+    cdo: Ĭng-siĕng-cô̤
+    co: Perseus
+    cs: Perseus
+    cy: Perseus
+    da: Perseus
+    de: Perseus
+    diq: Cıwan
+    el: Περσεύς
+    en: Perseus
+    en-us: Perseus
+    eo: Perseo
+    es: Perseus
+    et: Perseus
+    eu: Perseus (konstelazioa)
+    fa: برساووش
+    fi: Perseus
+    fr: Persée
+    frr: Perseus (stäärbil)
+    ga: Peirséas
+    gl: Perseus
+    gv: y Whing
+    hak: Yîn-siên-chho
+    he: פרסאוס
+    hi: ययाति तारामंडल
+    hr: Perzej
+    hu: Perseus csillagkép
+    hy: Պերսևս
+    hyw: Պերսեւս (համաստեղութիւն)
+    id: Perseus
+    is: Perseifur (stjörnumerki)
+    it: Perseo
+    ja: ペルセウス座
+    jv: Perseus
+    ka: პერსევსი
+    kk: Персей шоқжұлдызы
+    kn: ಪರ್ಸಿಯಸ್
+    ko: 페르세우스자리
+    kw: Perseus (ranneves)
+    ky: Персей
     la: Perseus
     la_:
       genitive: Persei
-    de: Perseus
+    lb: Perseus
+    lt: Persėjas
+    lv: Persejs
+    mk: Персеј
+    ml: വരാസവസ്
+    ms: Juara
+    my: ပါဆီးယပ်
+    nan: Perseus Chō
+    nb: Persevs
+    nl: Perseus
+    nn: Stjernebiletet Persevs
+    or: ଯଯାତି ତାରାମଣ୍ଡଳ
+    os: Персей (стъалыгуппар)
+    pl: gwiazdozbiór Perseusza
+    pnb: پورس تارہ چرمٹ
+    pt: Perseus
+    ro: Perseu
+    ru: Персей
+    sah: Персей
+    sh: Perzej
+    sk: Perzeus
+    sl: Perzej
+    sr: Персеј
+    sr-ec: Персеј
+    sv: Perseus
+    sw: Farisi
+    ta: பெர்சியஸ் (விண்மீன் குழாம்)
+    th: กลุ่มดาวเพอร์ซิอัส
+    tl: Konstelasyong Perseus
+    tr: Perseus
+    tt: Персей йолдызлыгы
+    udm: Персей
+    uk: Персей
+    ur: حامل راس الغول
+    uz: Persey
+    vec: Perseo
+    vi: Anh Tiên
+    war: Perseus
+    wuu: 英仙座
+    yue: 英仙座
+    zh: 英仙座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Perseus,10511|WD~Perseus,10511]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus|Zodiac~Perseus]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public|Zodiac~Perseus.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal|Zodiac~Perseus.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect|Zodiac~Perseus.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private|Zodiac~Perseus.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal|Zodiac~Perseus.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret|Zodiac~Perseus.secret]]"
+  - '[[../../WikiData/WD~Perseus,10511|WD~Perseus,10511]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus|Zodiac~Perseus]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public|Zodiac~Perseus.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal|Zodiac~Perseus.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect|Zodiac~Perseus.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private|Zodiac~Perseus.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal|Zodiac~Perseus.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret|Zodiac~Perseus.secret]]'
 dv_has_name_la: Perseus
 dv_has_name_la_genitive: Persei
 dv_has_name_de: Perseus
 dv_is_same_as:
-  - "[[../../WikiData/WD~Perseus,10511|WD~Perseus,10511]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus|Zodiac~Perseus]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public|Zodiac~Perseus.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal|Zodiac~Perseus.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect|Zodiac~Perseus.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private|Zodiac~Perseus.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal|Zodiac~Perseus.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret|Zodiac~Perseus.secret]]"
+- '[[../../WikiData/WD~Perseus,10511|WD~Perseus,10511]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Perseus|Zodiac~Perseus]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Perseus.public|Zodiac~Perseus.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Perseus.internal|Zodiac~Perseus.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Perseus.protect|Zodiac~Perseus.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Perseus.private|Zodiac~Perseus.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Perseus.personal|Zodiac~Perseus.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Perseus.secret|Zodiac~Perseus.secret]]'
 ---
-
 # [[Zodiac~Perseus]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId` 

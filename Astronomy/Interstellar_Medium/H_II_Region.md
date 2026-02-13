@@ -1,34 +1,144 @@
 ---
 aliases:
+- H II bölgesi
+- H II eskualde
+- H II područje
+- H II region
+- H II régió
+- H II sritis
+- H II бүлеге
+- H II өңірі
+- H II অঞ্চল
+- H II რეგიონი
+- H II-gebied
+- H II-region
+- H II-подрачје
+- H-II-gebied
+- H-II-Gebiet
+- H-II-Gebitt
+- H-II-piirkond
+- HII regioni
+- HII領域
+- Jonizētais ūdeņraža mākonis
+- oblast HII
+- Oblasť H II
+- Obszar H II
+- Področje H II
+- Region HII
+- regione H II
+- regiono HII
+- Regiune H II
+- região H II
+- regió HII
+- región H II
+- Rexón H II
+- riggioni H II
+- région HII
+- réigiún H II
+- Vùng H II
+- Wilayah H II
+- Περιοχή H II
+- абшар H II
+- вобласць H II
+- зона Н II
+- область H II
+- אזור H II
+- مناطق هیدورژن II
+- منطقة هيدروجين II
+- एच टू इलाका
+- ಎಚ್-II ಪ್ರದೇಶ
+- บริเวณเอช 2
+- 电离氢区
+- 電離氫區
+- 전리수소영역
 has_id_wikidata: Q11282
-subclass_of: "[[_Standards/WikiData/WD~emission_nebula,202265]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
-made_from_material: "[[_Standards/WikiData/WD~hydrogen,556]]"
-has_effect: "[[_Standards/WikiData/WD~star_formation,16744]]"
+subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+made_from_material: '[[_Standards/WikiData/WD~hydrogen,556]]'
+has_effect: '[[_Standards/WikiData/WD~star_formation,16744]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nursery%20of%20New%20Stars%20-%20GPN-2000-000972.jpg
 Commons_category: H II regions
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~H_II_region,11282]]"
-    - "[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]"
-    - "[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]"
-    - "[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]"
-    - "[[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]]"
-    - "[[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]]"
-    - "[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]"
-    - "[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]"
+  - '[[../../WikiData/WD~H_II_region,11282]]'
+  - '[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]'
+  - '[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]'
+  - '[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]'
+  - '[[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]]'
+  - '[[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]]'
+  - '[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]'
+  - '[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~H_II_region,11282]]"
-  - "[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]"
-  - "[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]"
-  - "[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]"
-  - "[[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]]"
-  - "[[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]]"
-  - "[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]"
-  - "[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]"
+- '[[../../WikiData/WD~H_II_region,11282]]'
+- '[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]'
+- '[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]'
+- '[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]'
+- '[[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]]'
+- '[[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]]'
+- '[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]'
+- '[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]'
+dv_has_:
+  name_:
+    af: H II-gebied
+    ar: منطقة هيدروجين II
+    ast: Rexón H II
+    be: вобласць H II
+    be-tarask: абшар H II
+    bho: एच टू इलाका
+    bn: H II অঞ্চল
+    bs: H II područje
+    ca: regió HII
+    cs: oblast HII
+    de: H-II-Gebiet
+    el: Περιοχή H II
+    en: H II region
+    en-ca: H II region
+    en-gb: H II region
+    eo: regiono HII
+    es: región H II
+    et: H-II-piirkond
+    eu: H II eskualde
+    fa: مناطق هیدورژن II
+    fr: région HII
+    ga: réigiún H II
+    he: אזור H II
+    hr: H II područje
+    hu: H II régió
+    id: Wilayah H II
+    it: regione H II
+    ja: HII領域
+    kk: H II өңірі
+    kn: ಎಚ್-II ಪ್ರದೇಶ
+    ko: 전리수소영역
+    lb: H-II-Gebitt
+    lt: H II sritis
+    lv: Jonizētais ūdeņraža mākonis
+    mk: H II-подрачје
+    nb: H II-region
+    nl: H-II-gebied
+    nn: H II-region
+    oc: Region HII
+    pl: Obszar H II
+    pt: região H II
+    pt-br: região H II
+    ro: Regiune H II
+    ru: область H II
+    scn: riggioni H II
+    sk: Oblasť H II
+    sl: Področje H II
+    sr: HII regioni
+    sv: H II-region
+    th: บริเวณเอช 2
+    tr: H II bölgesi
+    tt: H II бүлеге
+    uk: зона Н II
+    vi: Vùng H II
+    wuu: 电离氢区
+    xmf: H II რეგიონი
+    yue: 電離氫區
+    zh: 电离氢区
 ---
-
 # [[H_II_Region]] 
 
 #is_/same_as :: [[WD~H_II_region,11282]] 

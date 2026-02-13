@@ -1,17 +1,62 @@
 ---
 aliases:
-  - storm drain
-  - storm sewer
-  - highway drain
-  - surface water drain
-  - sewer
-  - stormwater drain
-  - Drainage
+- Cundie
+- dheecaan
+- Drainage
+- Drainase
+- drainatze
+- Dreineringstelsels
+- Drenaaž
+- Drenado
+- drenagem
+- drenaggio sottosuperficiale
+- Drenaj
+- drenaje
+- drenatge
+- Drenaxe
+- drenaż
+- drenaža
+- drenažas
+- drenering
+- Dreno
+- dränering
+- dræning
+- Entwässerung
+- grunts drenāža
+- highway drain
+- igbapu mmiri
+- lecsapolás
+- lìɓàk màlép
+- odvodňování
+- ojitus
+- Saiwaedje
+- Scurgere
+- sewer
+- storm drain
+- storm sewer
+- stormwater drain
+- surface water drain
+- αποχέτευση
+- вукыскем
+- дренаж
+- Дренажа
+- дрэнаж
+- сусызландыру
+- Ցամաքուրդ
+- ניקוז
+- تصريف المياه
+- زهکشی
+- صرف
+- نکاس
+- जल निकासी
+- ഓട
+- 排水
+- 배수
 has_id_wikidata: Q7481320
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from: '[[_Standards/WikiData/WD~drainage,5305547]]'
 subclass_of: '[[_Standards/WikiData/WD~Q13428694,13428694]]'
 OmegaWiki_Defined_Meaning: 881914
@@ -19,8 +64,66 @@ Commons_category: Drainage
 U_S_National_Archives_Identifier: 10639696
 CPV_Supplementary_code: KA02
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Drainbankstown.jpg
+dv_has_:
+  name_:
+    af: Dreineringstelsels
+    ar: تصريف المياه
+    arz: صرف
+    az: Drenaj
+    bas: lìɓàk màlép
+    be: дрэнаж
+    be-tarask: дрэнаж
+    bg: Дренаж
+    ca: drenatge
+    cs: odvodňování
+    cv: Дренаж
+    da: dræning
+    de: Entwässerung
+    el: αποχέτευση
+    en: drainage
+    eo: Drenado
+    es: drenaje
+    et: Drenaaž
+    eu: drainatze
+    fa: زهکشی
+    fi: ojitus
+    fr: drainage
+    gl: Drenaxe
+    he: ניקוז
+    hi: जल निकासी
+    hu: lecsapolás
+    hy: Ցամաքուրդ
+    id: Drainase
+    ig: igbapu mmiri
+    io: Dreno
+    it: drenaggio sottosuperficiale
+    ja: 排水
+    kk: дренаж
+    ko: 배수
+    lt: drenažas
+    lv: grunts drenāža
+    ml: ഓട
+    nb: drenering
+    nl: drainage
+    pl: drenaż
+    pt: drenagem
+    pt-br: drenagem
+    ro: Scurgere
+    ru: дренаж
+    sco: Cundie
+    sl: drenaža
+    so: dheecaan
+    sr: Дренажа
+    sv: dränering
+    tr: Drenaj
+    tt: сусызландыру
+    udm: вукыскем
+    uk: дренаж
+    ur: نکاس
+    uz: Drenaj
+    wa: Saiwaedje
+    zh: 排水
 ---
-
 # [[Drainage]] 
 
 #has_/complement :: [[Irrigation]] 

@@ -1,26 +1,156 @@
 ---
 aliases:
+- Avalik õigus
+- derecho público
+- Derechu públicu
+- dereito público
+- direito público
+- Dirito publico
+- diritto pubblico
+- dlí poiblí
+- Drech public
+- Dreito público
+- drept public
+- dret públic
+- droit public
+- hukum publik
+- Ius publicum
+- Iwu ọha na eze
+- javno pravo
+- julkisoikeus
+- kamu hukuku
+- közjog
+- luật công
+- offentlig ret
+- offentlig rett
+- offentlig rätt
+- Ofin ti gbogbo eniyan
+- prawo publiczne
+- public law
+- publiekrecht
+- publika juro
+- Publika yurocienco
+- publiskās tiesības
+- Publykrjocht
+- undang-undang awam
+- verejné právo
+- veřejné právo
+- viešoji teisė
+- Zuzenbide Publikoa
+- Öffentliches Recht
+- İctimai hüquq
+- δημόσιο δίκαιο
+- јавни закон
+- јавно право
+- гавами хокук
+- публічнае права
+- публічне право
+- Публикăлла тивĕç-ирĕк
+- Публично право
+- публичное право
+- Հանրային իրավունք
+- משפט ציבורי
+- اوندڠ٢ عوام
+- حقوق عمومی
+- قانون عام
+- सार्वजनिक विधि
+- பொதுவுடைமைச் சட்டம்
+- กฎหมายมหาชน
+- 公法
+- 공법
 has_id_wikidata: Q207892
 has_part_s_:
-  - "[[_Standards/WikiData/WD~administrative_law,171251]]"
-  - "[[_Standards/WikiData/WD~political_law,2270062]]"
-  - "[[_Standards/WikiData/WD~constitutional_law,11206]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~social_law,1567259]]"
+- '[[_Standards/WikiData/WD~administrative_law,171251]]'
+- '[[_Standards/WikiData/WD~political_law,2270062]]'
+- '[[_Standards/WikiData/WD~constitutional_law,11206]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~social_law,1567259]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_law,1756157]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~type_of_law,63718619]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~ius_publicum,3156043]]"
-opposite_of: "[[_Standards/WikiData/WD~private_law,4122235]]"
+- '[[_Standards/WikiData/WD~area_of_law,1756157]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_law,63718619]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~ius_publicum,3156043]]'
+opposite_of: '[[_Standards/WikiData/WD~private_law,4122235]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~political_studies,15831440]]"
-  - "[[_Standards/WikiData/WD~law,7748]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- '[[_Standards/WikiData/WD~political_studies,15831440]]'
+- '[[_Standards/WikiData/WD~law,7748]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%B6nfelder%20-%20Deutsche%20Gesetze.%20Textsammlung%20%28C%20H%20Beck%29.jpg
-U_S_National_Archives_Identifier: "10644293"
+U_S_National_Archives_Identifier: 10644293
 Commons_category: Public law
+dv_has_:
+  name_:
+    ar: قانون عام
+    ast: Derechu públicu
+    az: İctimai hüquq
+    be: публічнае права
+    be-tarask: публічнае права
+    bg: Публично право
+    ca: dret públic
+    cs: veřejné právo
+    cv: Публикăлла тивĕç-ирĕк
+    da: offentlig ret
+    de: öffentliches Recht
+    el: δημόσιο δίκαιο
+    en: public law
+    eo: publika juro
+    es: derecho público
+    et: Avalik õigus
+    eu: Zuzenbide Publikoa
+    fa: حقوق عمومی
+    fi: julkisoikeus
+    fr: droit public
+    fy: Publykrjocht
+    ga: dlí poiblí
+    gl: dereito público
+    he: משפט ציבורי
+    hi: सार्वजनिक विधि
+    hu: közjog
+    hy: Հանրային իրավունք
+    id: hukum publik
+    ig: Iwu ọha na eze
+    io: Publika yurocienco
+    it: diritto pubblico
+    ja: 公法
+    ko: 공법
+    la: Ius publicum
+    lt: viešoji teisė
+    lv: publiskās tiesības
+    mk: јавно право
+    ms: undang-undang awam
+    ms-arab: اوندڠ٢ عوام
+    mwl: Dreito público
+    nb: offentlig rett
+    nl: publiekrecht
+    nn: Öffentliches Recht
+    oc: Drech public
+    pl: prawo publiczne
+    pt: direito público
+    ro: drept public
+    ru: публичное право
+    sco: public law
+    sk: verejné právo
+    sl: javno pravo
+    sr: јавни закон
+    sv: offentlig rätt
+    ta: பொதுவுடைமைச் சட்டம்
+    th: กฎหมายมหาชน
+    tr: kamu hukuku
+    tt: гавами хокук
+    uk: публічне право
+    vec: Dirito publico
+    vi: luật công
+    yo: Ofin ti gbogbo eniyan
+    yue: 公法
+    zh: 公法
+    zh-cn: 公法
+    zh-hans: 公法
+    zh-hant: 公法
+    zh-hk: 公法
+    zh-mo: 公法
+    zh-my: 公法
+    zh-sg: 公法
+    zh-tw: 公法
 ---
-
 # [[Public_Law]] 
 
 #is_/same_as :: [[WD~Public_law,207892]] 

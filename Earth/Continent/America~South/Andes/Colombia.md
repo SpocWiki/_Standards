@@ -1,389 +1,506 @@
 ---
 aliases:
-  - Colombia
-  - Colombie
-  - كولومبيا
-  - 哥伦比亚
-  - Колумбия
-  - the Republic of Colombia
-  - la República de Colombia
+- an Cholóim
+- Coloimbia
+- Colombeye
+- Colombia
+- Colombie
+- Coloumbie
+- Columbia
+- Colåmmbå
+- Colòmbia
+- Colómbia
+- Colômbia
+- Cołónbia
+- Culumbia
+- Gohlunzbijya
+- IKholombiya
+- IKolombiya
+- IsiColombia
+- Kolambia
+- Kolombi
+- Kolombia
+- kolombias
+- Kolombikondre
+- Kolombio
+- Kolombiya
+- Kolombja
+- Kolombya
+- Kolomipia
+- Kolompia
+- Kolomupia
+- Kolonbi
+- Kolonbia
+- Koloombi
+- Kolumbeja
+- Kolumbia
+- Kolumbie
+- Kolumbien
+- Kolumbii
+- Kolumbija
+- Kolumbiska
+- Kolumbiya
+- Kolumbiô
+- Kolumbiýa
+- Kolumbän
+- Kolómbia
+- Kolůmbijo
+- Korombiya
+- Koromōpia
+- Kulumbya
+- Kulunsuyu
+- Kuluwya
+- Kuolombėjė
+- Kòlómbìà
+- Kólumbía
+- la República de Colombia
+- Lakolonbi
+- ma Kolonpija
+- the Republic of Colombia
+- y Cholombey
+- Κολομβία
+- Калумбія
+- Калюмбія
+- Коламбудин Орн
+- Коломбие
+- Колумб
+- Колумбія
+- Колумби
+- Колумбија
+- Колумбиа
+- Колумбий
+- Колумбия
+- Колумбия Республикасы
+- Кулумбия
+- Կոլումբիա
+- Քոլումպիա
+- קאלאמביע
+- קולומביה
+- كولومبىيە
+- كولومبيا
+- کؤلؤمبيا
+- کلمبیا
+- کولمبيا
+- کولمبیا
+- کولومبيا
+- کولومبیا
+- کولومبیٛا
+- کۆڵۆمبیا
+- ڪولمبيا
+- ܩܘܠܘܡܒܝܐ
+- ކޮލަންބިއާ
+- कोलंबिया
+- कोलम्बिया
+- कोलोंबिया
+- कोलोम्बिया
+- কলম্বিয়া
+- ਕੋਲੰਬੀਆ
+- કોલમ્બીયા
+- କଲୋମ୍ବିଆ
+- கொலம்பியா
+- కొలంబియా
+- ಕೊಲೊಂಬಿಯ
+- കൊളംബിയ
+- කොලොම්බියාව
+- ประเทศโคลอมเบีย
+- ປະເທດໂກໂລມບີ
+- ཀོ་ལོམ་བི་ཡ
+- ཁོ་ལོམ་བི་ཡ།
+- ကိုလံဗီယာခမ်းထီ
+- ကိုလံဘီယာနိုင်ငံ
+- မိူင်းၵူဝ်ႇလမ်ႇပီႇယႃႇ
+- კოლუმბია
+- ኮሎምቢያ
+- ኮሎምብያ
+- ᎪᎸᎻᏈᎢᎠ
+- ᔭᐸᔭᐊᔭᐊᐣ
+- កូឡុំប៊ី
+- ᱠᱚᱞᱚᱢᱵᱤᱭᱟ
+- ⴽⵓⵍⵓⵎⴱⵢⴰ
+- コロンビア
+- 哥伦比亚
+- 哥倫比亞
+- ꯀꯂꯝꯕꯤꯌꯥ
+- 꼴롬비아
+- 콜롬비아
+- "\U0001033A\U00010349\U0001033B\U00010330\U0001033F\U0001033C\U00010331\U0001033E\U00010330"
 has_id_wikidata: Q739
 different_from:
-  - "[[_Standards/WikiData/WD~Cerete,100358]]"
-  - "[[_Standards/WikiData/WD~Columbia,766625]]"
-  - "[[_Standards/WikiData/WD~Columbia,116694291]]"
+- '[[_Standards/WikiData/WD~Cerete,100358]]'
+- '[[_Standards/WikiData/WD~Columbia,766625]]'
+- '[[_Standards/WikiData/WD~Columbia,116694291]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Boyacá_Department,121233]]"
-  - "[[_Standards/WikiData/WD~Antioquia,123304]]"
-  - "[[_Standards/WikiData/WD~Magdalena_Department,199910]]"
-  - "[[_Standards/WikiData/WD~Nariño_Department,230217]]"
-  - "[[_Standards/WikiData/WD~Arauca_Department,230223]]"
-  - "[[_Standards/WikiData/WD~Chocó_Department,230584]]"
-  - "[[_Standards/WikiData/WD~Bolívar_Department,230597]]"
-  - "[[_Standards/WikiData/WD~Cauca_Department,230602]]"
-  - "[[_Standards/WikiData/WD~Caldas_Department,230607]]"
-  - "[[_Standards/WikiData/WD~Atlántico_Department,230882]]"
-  - "[[_Standards/WikiData/WD~Cundinamarca_Department,232564]]"
-  - "[[_Standards/WikiData/WD~Putumayo_Department,232953]]"
-  - "[[_Standards/WikiData/WD~Norte_de_Santander_Department,233058]]"
-  - "[[_Standards/WikiData/WD~Tolima_Department,234501]]"
-  - "[[_Standards/WikiData/WD~Vaupés_Department,234505]]"
-  - "[[_Standards/WikiData/WD~Córdoba_Department,234912]]"
-  - "[[_Standards/WikiData/WD~Cesar_Department,234916]]"
-  - "[[_Standards/WikiData/WD~Huila_Department,234920]]"
-  - "[[_Standards/WikiData/WD~Santander_Department,235166]]"
-  - "[[_Standards/WikiData/WD~Sucre_Department,235188]]"
-  - "[[_Standards/WikiData/WD~Meta_Department,238629]]"
-  - "[[_Standards/WikiData/WD~Guainía_Department,238645]]"
-  - "[[_Standards/WikiData/WD~Vichada_Department,268729]]"
-  - "[[_Standards/WikiData/WD~La_Guajira_Department,272747]]"
-  - "[[_Standards/WikiData/WD~Guaviare_Department,272885]]"
-  - "[[_Standards/WikiData/WD~Bogotá,2841]]"
-  - "[[_Standards/WikiData/WD~Casanare_Department,13984]]"
-  - "[[_Standards/WikiData/WD~Caquetá_Department,13985]]"
-  - "[[_Standards/WikiData/WD~Valle_del_Cauca_Department,13990]]"
-  - "[[_Standards/WikiData/WD~Quindío_Department,13995]]"
-  - "[[_Standards/WikiData/WD~Risaralda_Department,13993]]"
-  - "[[_Standards/WikiData/WD~Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina,26855]]"
-  - "[[_Standards/WikiData/WD~Amazonas_Department,44724]]"
+- '[[_Standards/WikiData/WD~Boyacá_Department,121233]]'
+- '[[_Standards/WikiData/WD~Antioquia,123304]]'
+- '[[_Standards/WikiData/WD~Magdalena_Department,199910]]'
+- '[[_Standards/WikiData/WD~Nariño_Department,230217]]'
+- '[[_Standards/WikiData/WD~Arauca_Department,230223]]'
+- '[[_Standards/WikiData/WD~Chocó_Department,230584]]'
+- '[[_Standards/WikiData/WD~Bolívar_Department,230597]]'
+- '[[_Standards/WikiData/WD~Cauca_Department,230602]]'
+- '[[_Standards/WikiData/WD~Caldas_Department,230607]]'
+- '[[_Standards/WikiData/WD~Atlántico_Department,230882]]'
+- '[[_Standards/WikiData/WD~Cundinamarca_Department,232564]]'
+- '[[_Standards/WikiData/WD~Putumayo_Department,232953]]'
+- '[[_Standards/WikiData/WD~Norte_de_Santander_Department,233058]]'
+- '[[_Standards/WikiData/WD~Tolima_Department,234501]]'
+- '[[_Standards/WikiData/WD~Vaupés_Department,234505]]'
+- '[[_Standards/WikiData/WD~Córdoba_Department,234912]]'
+- '[[_Standards/WikiData/WD~Cesar_Department,234916]]'
+- '[[_Standards/WikiData/WD~Huila_Department,234920]]'
+- '[[_Standards/WikiData/WD~Santander_Department,235166]]'
+- '[[_Standards/WikiData/WD~Sucre_Department,235188]]'
+- '[[_Standards/WikiData/WD~Meta_Department,238629]]'
+- '[[_Standards/WikiData/WD~Guainía_Department,238645]]'
+- '[[_Standards/WikiData/WD~Vichada_Department,268729]]'
+- '[[_Standards/WikiData/WD~La_Guajira_Department,272747]]'
+- '[[_Standards/WikiData/WD~Guaviare_Department,272885]]'
+- '[[_Standards/WikiData/WD~Bogotá,2841]]'
+- '[[_Standards/WikiData/WD~Casanare_Department,13984]]'
+- '[[_Standards/WikiData/WD~Caquetá_Department,13985]]'
+- '[[_Standards/WikiData/WD~Valle_del_Cauca_Department,13990]]'
+- '[[_Standards/WikiData/WD~Quindío_Department,13995]]'
+- '[[_Standards/WikiData/WD~Risaralda_Department,13993]]'
+- '[[_Standards/WikiData/WD~Archipelago_of_San_Andrés,_Providencia_and_Santa_Catalina,26855]]'
+- '[[_Standards/WikiData/WD~Amazonas_Department,44724]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~Andean_Community,471690]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Community_of_Latin_American_and_Caribbean_States,1045401]]"
-  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Colombia,160425]]"
+- '[[_Standards/WikiData/WD~Organization_of_American_States,123759]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Andean_Community,471690]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Community_of_Latin_American_and_Caribbean_States,1045401]]'
+- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
+- '[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Colombia,160425]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Free_City_of_Danzig,216173]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Panama,804]]"
-  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~Ireland,27]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~France,142]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Czech_Republic,213]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Colombia,233391]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Colombia,235826]]"
+- '[[_Standards/WikiData/WD~Free_City_of_Danzig,216173]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Panama,804]]'
+- '[[_Standards/WikiData/WD~Nicaragua,811]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Czech_Republic,213]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+anthem: '[[_Standards/WikiData/WD~National_Anthem_of_Colombia,233391]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Colombia,235826]]'
 highest_point:
-  - "[[_Standards/WikiData/WD~Pico_Cristóbal_Colón,338790]]"
-  - "[[_Standards/WikiData/WD~Pico_Cristóbal_Colón,578862]]"
+- '[[_Standards/WikiData/WD~Pico_Cristóbal_Colón,338790]]'
+- '[[_Standards/WikiData/WD~Pico_Cristóbal_Colón,578862]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Ibero-America,377916]]"
-  - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
-  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
-  - "[[_Standards/WikiData/WD~South_America,18]]"
+- '[[_Standards/WikiData/WD~Ibero-America,377916]]'
+- '[[_Standards/WikiData/WD~Hispanic_America,653884]]'
+- '[[_Standards/WikiData/WD~Latin_America,12585]]'
+- '[[_Standards/WikiData/WD~South_America,18]]'
 ethnic_group:
-  - "[[_Standards/WikiData/WD~Afro-Colombians,388449]]"
-  - "[[_Standards/WikiData/WD~indigenous_peoples_in_Colombia,2258527]]"
-  - "[[_Standards/WikiData/WD~White_Colombians,7994595]]"
-  - "[[_Standards/WikiData/WD~Mestizo_Colombian,17078871]]"
-  - http://www.wikidata.org/.well-known/genid/8eb43186f75b6a03525fb435ed3c925d
+- '[[_Standards/WikiData/WD~Afro-Colombians,388449]]'
+- '[[_Standards/WikiData/WD~indigenous_peoples_in_Colombia,2258527]]'
+- '[[_Standards/WikiData/WD~White_Colombians,7994595]]'
+- '[[_Standards/WikiData/WD~Mestizo_Colombian,17078871]]'
+- http://www.wikidata.org/.well-known/genid/8eb43186f75b6a03525fb435ed3c925d
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-central_bank: "[[_Standards/WikiData/WD~Banco_de_la_República,686329]]"
-head_of_state: "[[_Standards/WikiData/WD~Gustavo_Petro,704022]]"
-head_of_government: "[[_Standards/WikiData/WD~Gustavo_Petro,704022]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Colombia,853475]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_Colombia,853475]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+central_bank: '[[_Standards/WikiData/WD~Banco_de_la_República,686329]]'
+head_of_state: '[[_Standards/WikiData/WD~Gustavo_Petro,704022]]'
+head_of_government: '[[_Standards/WikiData/WD~Gustavo_Petro,704022]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Colombia,853475]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Colombia,853475]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~secular_state,859563]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
+- '[[_Standards/WikiData/WD~secular_state,859563]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Wayuu,891085]]"
-  - "[[_Standards/WikiData/WD~Carapana,924405]]"
-  - "[[_Standards/WikiData/WD~Minica_Huitoto,948514]]"
-  - "[[_Standards/WikiData/WD~Desano,962392]]"
-  - "[[_Standards/WikiData/WD~Ticuna,1815205]]"
-  - "[[_Standards/WikiData/WD~San_Andrés_Providencia_Creole,2044587]]"
-  - "[[_Standards/WikiData/WD~Bora,2375468]]"
-  - "[[_Standards/WikiData/WD~Northern_Embera,2391297]]"
-  - "[[_Standards/WikiData/WD~Tuyuca,2520538]]"
-  - "[[_Standards/WikiData/WD~Tatuyo,2524007]]"
-  - "[[_Standards/WikiData/WD~Awa_Pit,2603103]]"
-  - "[[_Standards/WikiData/WD~Arhuaco,2640621]]"
-  - "[[_Standards/WikiData/WD~Murui_Huitoto,2640935]]"
-  - "[[_Standards/WikiData/WD~Guahibo,2669193]]"
-  - "[[_Standards/WikiData/WD~Pasto,2669202]]"
-  - "[[_Standards/WikiData/WD~Andoque,2669225]]"
-  - "[[_Standards/WikiData/WD~Cofán,2669254]]"
-  - "[[_Standards/WikiData/WD~Guambiano,2744745]]"
-  - "[[_Standards/WikiData/WD~Colombian_Sign_Language,2748229]]"
-  - "[[_Standards/WikiData/WD~Achawa,2822982]]"
-  - "[[_Standards/WikiData/WD~Camsá,2842667]]"
-  - "[[_Standards/WikiData/WD~Andaqui,2846078]]"
-  - "[[_Standards/WikiData/WD~Curripaco,2882543]]"
-  - "[[_Standards/WikiData/WD~Waimahã,2883738]]"
-  - "[[_Standards/WikiData/WD~Barasana-Eduria,2883843]]"
-  - "[[_Standards/WikiData/WD~Barí,2886281]]"
-  - "[[_Standards/WikiData/WD~Chimila,2963680]]"
-  - "[[_Standards/WikiData/WD~Guayabero,2980375]]"
-  - "[[_Standards/WikiData/WD~Cuiba,2980421]]"
-  - "[[_Standards/WikiData/WD~Cubeo,3006705]]"
-  - "[[_Standards/WikiData/WD~Wiwa,3012604]]"
-  - "[[_Standards/WikiData/WD~Muinane,3027894]]"
-  - "[[_Standards/WikiData/WD~Puinave,3027918]]"
-  - "[[_Standards/WikiData/WD~Playero,3027923]]"
-  - "[[_Standards/WikiData/WD~Tinigua,3029805]]"
-  - "[[_Standards/WikiData/WD~Catio,3052039]]"
-  - "[[_Standards/WikiData/WD~Chami,3052042]]"
-  - "[[_Standards/WikiData/WD~Emberá-Tadó,3052041]]"
-  - "[[_Standards/WikiData/WD~Eperara,3055682]]"
-  - "[[_Standards/WikiData/WD~Wounaan,3111873]]"
-  - "[[_Standards/WikiData/WD~Hup,3143384]]"
-  - "[[_Standards/WikiData/WD~Ocaina,3182577]]"
-  - "[[_Standards/WikiData/WD~Kakwa,3192052]]"
-  - "[[_Standards/WikiData/WD~Kogui,3198286]]"
-  - "[[_Standards/WikiData/WD~Koreguaje,3198924]]"
-  - "[[_Standards/WikiData/WD~Macaguán,3273980]]"
-  - "[[_Standards/WikiData/WD~Macuna,3275059]]"
-  - "[[_Standards/WikiData/WD~Providence_Island_Sign_Language,3322084]]"
-  - "[[_Standards/WikiData/WD~Nukak,3346228]]"
-  - "[[_Standards/WikiData/WD~Piaroa,3382207]]"
-  - "[[_Standards/WikiData/WD~Piapoco,3382208]]"
-  - "[[_Standards/WikiData/WD~Piratapuyo,3389119]]"
-  - "[[_Standards/WikiData/WD~Yucuna,3438356]]"
-  - "[[_Standards/WikiData/WD~Saliba,3441097]]"
-  - "[[_Standards/WikiData/WD~Yukpa,3441447]]"
-  - "[[_Standards/WikiData/WD~Carabayo,3441762]]"
-  - "[[_Standards/WikiData/WD~Anserma,3446613]]"
-  - "[[_Standards/WikiData/WD~Carijona,3446655]]"
-  - "[[_Standards/WikiData/WD~Cabiyari,3450660]]"
-  - "[[_Standards/WikiData/WD~Siona,3485116]]"
-  - "[[_Standards/WikiData/WD~Siriano,3485264]]"
-  - "[[_Standards/WikiData/WD~Caramanta,3504195]]"
-  - "[[_Standards/WikiData/WD~Arma,3507971]]"
-  - "[[_Standards/WikiData/WD~Totoro,3532756]]"
-  - "[[_Standards/WikiData/WD~Tucano,3541834]]"
-  - "[[_Standards/WikiData/WD~Wanano,3566001]]"
-  - "[[_Standards/WikiData/WD~Wajiara,3573266]]"
-  - "[[_Standards/WikiData/WD~Tama,3832969]]"
-  - "[[_Standards/WikiData/WD~Cauca,5054242]]"
-  - "[[_Standards/WikiData/WD~Nonuya,5372139]]"
-  - "[[_Standards/WikiData/WD~Macaguaje,6722435]]"
-  - "[[_Standards/WikiData/WD~Pijao,7193519]]"
-  - "[[_Standards/WikiData/WD~Yauna,8050347]]"
-  - "[[_Standards/WikiData/WD~Baudo,11173166]]"
-  - "[[_Standards/WikiData/WD~Central_Tunebo,12953942]]"
-  - "[[_Standards/WikiData/WD~Barro_Negro_Tunebo,12953943]]"
-  - "[[_Standards/WikiData/WD~Jungle_Inga,16115012]]"
-  - "[[_Standards/WikiData/WD~Angosturas_Tunebo,25559604]]"
-  - "[[_Standards/WikiData/WD~Border_Kuna,31777873]]"
-  - "[[_Standards/WikiData/WD~Western_Tunebo,57660014]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Páez,33677]]"
-  - "[[_Standards/WikiData/WD~Nheengatu,34333]]"
-  - "[[_Standards/WikiData/WD~Inga,35491]]"
-  - "[[_Standards/WikiData/WD~Tanimuca-Retuarã,36535]]"
-  - "[[_Standards/WikiData/WD~Palenquero,36665]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Colombia,1044401]]"
+- '[[_Standards/WikiData/WD~Wayuu,891085]]'
+- '[[_Standards/WikiData/WD~Carapana,924405]]'
+- '[[_Standards/WikiData/WD~Minica_Huitoto,948514]]'
+- '[[_Standards/WikiData/WD~Desano,962392]]'
+- '[[_Standards/WikiData/WD~Ticuna,1815205]]'
+- '[[_Standards/WikiData/WD~San_Andrés_Providencia_Creole,2044587]]'
+- '[[_Standards/WikiData/WD~Bora,2375468]]'
+- '[[_Standards/WikiData/WD~Northern_Embera,2391297]]'
+- '[[_Standards/WikiData/WD~Tuyuca,2520538]]'
+- '[[_Standards/WikiData/WD~Tatuyo,2524007]]'
+- '[[_Standards/WikiData/WD~Awa_Pit,2603103]]'
+- '[[_Standards/WikiData/WD~Arhuaco,2640621]]'
+- '[[_Standards/WikiData/WD~Murui_Huitoto,2640935]]'
+- '[[_Standards/WikiData/WD~Guahibo,2669193]]'
+- '[[_Standards/WikiData/WD~Pasto,2669202]]'
+- '[[_Standards/WikiData/WD~Andoque,2669225]]'
+- '[[_Standards/WikiData/WD~Cofán,2669254]]'
+- '[[_Standards/WikiData/WD~Guambiano,2744745]]'
+- '[[_Standards/WikiData/WD~Colombian_Sign_Language,2748229]]'
+- '[[_Standards/WikiData/WD~Achawa,2822982]]'
+- '[[_Standards/WikiData/WD~Camsá,2842667]]'
+- '[[_Standards/WikiData/WD~Andaqui,2846078]]'
+- '[[_Standards/WikiData/WD~Curripaco,2882543]]'
+- '[[_Standards/WikiData/WD~Waimahã,2883738]]'
+- '[[_Standards/WikiData/WD~Barasana-Eduria,2883843]]'
+- '[[_Standards/WikiData/WD~Barí,2886281]]'
+- '[[_Standards/WikiData/WD~Chimila,2963680]]'
+- '[[_Standards/WikiData/WD~Guayabero,2980375]]'
+- '[[_Standards/WikiData/WD~Cuiba,2980421]]'
+- '[[_Standards/WikiData/WD~Cubeo,3006705]]'
+- '[[_Standards/WikiData/WD~Wiwa,3012604]]'
+- '[[_Standards/WikiData/WD~Muinane,3027894]]'
+- '[[_Standards/WikiData/WD~Puinave,3027918]]'
+- '[[_Standards/WikiData/WD~Playero,3027923]]'
+- '[[_Standards/WikiData/WD~Tinigua,3029805]]'
+- '[[_Standards/WikiData/WD~Catio,3052039]]'
+- '[[_Standards/WikiData/WD~Chami,3052042]]'
+- '[[_Standards/WikiData/WD~Emberá-Tadó,3052041]]'
+- '[[_Standards/WikiData/WD~Eperara,3055682]]'
+- '[[_Standards/WikiData/WD~Wounaan,3111873]]'
+- '[[_Standards/WikiData/WD~Hup,3143384]]'
+- '[[_Standards/WikiData/WD~Ocaina,3182577]]'
+- '[[_Standards/WikiData/WD~Kakwa,3192052]]'
+- '[[_Standards/WikiData/WD~Kogui,3198286]]'
+- '[[_Standards/WikiData/WD~Koreguaje,3198924]]'
+- '[[_Standards/WikiData/WD~Macaguán,3273980]]'
+- '[[_Standards/WikiData/WD~Macuna,3275059]]'
+- '[[_Standards/WikiData/WD~Providence_Island_Sign_Language,3322084]]'
+- '[[_Standards/WikiData/WD~Nukak,3346228]]'
+- '[[_Standards/WikiData/WD~Piaroa,3382207]]'
+- '[[_Standards/WikiData/WD~Piapoco,3382208]]'
+- '[[_Standards/WikiData/WD~Piratapuyo,3389119]]'
+- '[[_Standards/WikiData/WD~Yucuna,3438356]]'
+- '[[_Standards/WikiData/WD~Saliba,3441097]]'
+- '[[_Standards/WikiData/WD~Yukpa,3441447]]'
+- '[[_Standards/WikiData/WD~Carabayo,3441762]]'
+- '[[_Standards/WikiData/WD~Anserma,3446613]]'
+- '[[_Standards/WikiData/WD~Carijona,3446655]]'
+- '[[_Standards/WikiData/WD~Cabiyari,3450660]]'
+- '[[_Standards/WikiData/WD~Siona,3485116]]'
+- '[[_Standards/WikiData/WD~Siriano,3485264]]'
+- '[[_Standards/WikiData/WD~Caramanta,3504195]]'
+- '[[_Standards/WikiData/WD~Arma,3507971]]'
+- '[[_Standards/WikiData/WD~Totoro,3532756]]'
+- '[[_Standards/WikiData/WD~Tucano,3541834]]'
+- '[[_Standards/WikiData/WD~Wanano,3566001]]'
+- '[[_Standards/WikiData/WD~Wajiara,3573266]]'
+- '[[_Standards/WikiData/WD~Tama,3832969]]'
+- '[[_Standards/WikiData/WD~Cauca,5054242]]'
+- '[[_Standards/WikiData/WD~Nonuya,5372139]]'
+- '[[_Standards/WikiData/WD~Macaguaje,6722435]]'
+- '[[_Standards/WikiData/WD~Pijao,7193519]]'
+- '[[_Standards/WikiData/WD~Yauna,8050347]]'
+- '[[_Standards/WikiData/WD~Baudo,11173166]]'
+- '[[_Standards/WikiData/WD~Central_Tunebo,12953942]]'
+- '[[_Standards/WikiData/WD~Barro_Negro_Tunebo,12953943]]'
+- '[[_Standards/WikiData/WD~Jungle_Inga,16115012]]'
+- '[[_Standards/WikiData/WD~Angosturas_Tunebo,25559604]]'
+- '[[_Standards/WikiData/WD~Border_Kuna,31777873]]'
+- '[[_Standards/WikiData/WD~Western_Tunebo,57660014]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Páez,33677]]'
+- '[[_Standards/WikiData/WD~Nheengatu,34333]]'
+- '[[_Standards/WikiData/WD~Inga,35491]]'
+- '[[_Standards/WikiData/WD~Tanimuca-Retuarã,36535]]'
+- '[[_Standards/WikiData/WD~Palenquero,36665]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Colombia,1044401]]'
 replaces:
-  - "[[_Standards/WikiData/WD~United_States_of_Colombia,1061488]]"
-  - "[[_Standards/WikiData/WD~Mosquitia,6037274]]"
-legislative_body: "[[_Standards/WikiData/WD~Congress_of_Colombia,1284236]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Colombia,1806271]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Colombia,2039150]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Colombia,2466467]]"
-culture: "[[_Standards/WikiData/WD~Colombian_culture,2749661]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Colombia,5589197]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Colombia,6043594]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Departments_of_Colombia,6062887]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Colombia,7112231]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Colombia,11162793]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+- '[[_Standards/WikiData/WD~United_States_of_Colombia,1061488]]'
+- '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
+legislative_body: '[[_Standards/WikiData/WD~Congress_of_Colombia,1284236]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Colombia,1806271]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Colombia,2039150]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Colombia,2466467]]'
+culture: '[[_Standards/WikiData/WD~Colombian_culture,2749661]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Colombia,5589197]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Colombia,6043594]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Departments_of_Colombia,6062887]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Colombia,7112231]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Colombia,11162793]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~123,25648825]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103828,27103828]]"
+- '[[_Standards/WikiData/WD~123,25648825]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103828,27103828]]'
 award_received:
-  - "[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+- '[[_Standards/WikiData/WD~The_Economist_country_of_the_year,47004555]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~America_Bogota,63286092]]"
-  - "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]"
+- '[[_Standards/WikiData/WD~America_Bogota,63286092]]'
+- '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Colombia,97073891]]'
 coordinates_of_easternmost_point: Point(-66.8512 1.229)
 demonym:
-  - كولومبي
-  - كولومبية
-  - كولومبيين
-  - كولومبيات
-  - Kolumbijec
-  - Kolumbijka
-  - Colómach
-  - كولومبي
-  - كولومبية
-  - كولومبيون
-  - colombiana
-  - colombianu
-  - কলম্বীয়
-  - colombianer
-  - Kolumbianer
-  - Kolumbianerin
-  - Kolombiano
-  - colombiana
-  - colombianas
-  - colombiano
-  - colombianos
-  - colombien
-  - colombienne
-  - colombiennes
-  - colombiens
-  - קולומביאני
-  - קולומביאנית
-  - kolumbiai
-  - Kolumbiano
-  - colombiana
-  - colombiane
-  - colombiani
-  - colombiano
-  - colombian
-  - Kolumbijczyk
-  - Kolumbijka
-  - columbian
-  - columbiană
-  - columbieni
-  - колумбийцы
-  - colombian
-  - ኮሎምብያዊ
-  - колумбієць
-  - колумбійка
-  - колумбійці
-  - cołonbian
-  - cołonbiana
-  - cołonbiane
-  - cołonbiani
-  - Kolumbänan
-  - Colombian
+- كولومبي
+- كولومبية
+- كولومبيين
+- كولومبيات
+- Kolumbijec
+- Kolumbijka
+- Colómach
+- كولومبي
+- كولومبية
+- كولومبيون
+- colombiana
+- colombianu
+- কলম্বীয়
+- colombianer
+- Kolumbianer
+- Kolumbianerin
+- Kolombiano
+- colombiana
+- colombianas
+- colombiano
+- colombianos
+- colombien
+- colombienne
+- colombiennes
+- colombiens
+- קולומביאני
+- קולומביאנית
+- kolumbiai
+- Kolumbiano
+- colombiana
+- colombiane
+- colombiani
+- colombiano
+- colombian
+- Kolumbijczyk
+- Kolumbijka
+- columbian
+- columbiană
+- columbieni
+- колумбийцы
+- colombian
+- ኮሎምብያዊ
+- колумбієць
+- колумбійка
+- колумбійці
+- cołonbian
+- cołonbiana
+- cołonbiane
+- cołonbiani
+- Kolumbänan
+- Colombian
 motto_text:
-  - Liberdade e orde
-  - Rhyddid a Threfn
-  - Свобода и ред
-  - Colombia is magical realism
-  - Freedom and Order
-  - Libertad y Orden
-  - Wolność i porządek
+- Liberdade e orde
+- Rhyddid a Threfn
+- Свобода и ред
+- Colombia is magical realism
+- Freedom and Order
+- Libertad y Orden
+- Wolność i porządek
 ISNI: 123146617
 UMLS_CUI: C3245499
 MeSH_tree_code:
-  - Z01.107.757.284
+- Z01.107.757.284
 coordinate_location: Point(-73.25 4.0)
 nominal_GDP:
-  - 318511813577
-  - 343939445259
+- 318511813577
+- 343939445259
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Ecuador,736]]"
-  - "[[_Standards/WikiData/WD~Panama,804]]"
-  - "[[_Standards/WikiData/WD~Nicaragua,811]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-country: "[[_Standards/WikiData/WD~Colombia,739]]"
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Panama,804]]'
+- '[[_Standards/WikiData/WD~Nicaragua,811]]'
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+country: '[[_Standards/WikiData/WD~Colombia,739]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-capital: "[[_Standards/WikiData/WD~Bogotá,2841]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
-named_after: "[[_Standards/WikiData/WD~Christopher_Columbus,7322]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+capital: '[[_Standards/WikiData/WD~Bogotá,2841]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
+named_after: '[[_Standards/WikiData/WD~Christopher_Columbus,7322]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
+lowest_point: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 mains_voltage: 110
 marriageable_age: 18
 Colon_Classification: SG--79164
 Krugosvet_article: strany-mira/kolumbiya
 official_name:
-  - Republic of Colombia
-  - la République de Colombie
-  - Republika Kolumbii
-  - República de Colombia
-short_name: 🇨🇴
+- Republic of Colombia
+- la République de Colombie
+- Republika Kolumbii
+- República de Colombia
+short_name: "\U0001F1E8\U0001F1F4"
 inception: 1810
 has_time_started: 1810-06
 male_population:
-  - 24779301
-  - 25139588
-  - 25415242
-  - 25575607
+- 24779301
+- 25139588
+- 25415242
+- 25575607
 female_population:
-  - 25408106
-  - 25791075
-  - 26101321
-  - 26298417
+- 25408106
+- 25791075
+- 26101321
+- 26298417
 urban_population:
-  - 40703994
-  - 41470292
-  - 42109638
-  - 42562637
+- 40703994
+- 41470292
+- 42109638
+- 42562637
 population: 52321152
 coordinates_of_southernmost_point: Point(-69.94792 -4.23167)
 GS1_country_code: 770-771
 rural_population:
-  - 9311387
-  - 9406924
-  - 9483412
-  - 9460370
+- 9311387
+- 9406924
+- 9483412
+- 9460370
 PM20_geo_code: E76
 coordinates_of_northernmost_point: Point(-81.37 13.38)
 coordinates_of_westernmost_point: Point(-81.7 12.58333333)
 aircraft_registration_prefix:
-  - HJ
-  - HK
+- HJ
+- HK
 ITU_letter_code: CLM
 geoshape: http://commons.wikimedia.org/data/main/Data:Colombia.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Colombia.svg
@@ -394,39 +511,39 @@ official_website: https://www.gov.co/
 country_calling_code: 57
 U_S_National_Archives_Identifier: 10035714
 Dewey_Decimal_Classification: 2--861
-Unicode_character: 🇨🇴
+Unicode_character: "\U0001F1E8\U0001F1F4"
 CIVICUS_Monitor_country_entry: colombia
 GitHub_topic:
-  - colombia
+- colombia
 age_of_majority: 18
 VAT_rate: 19
 suicide_rate: 3.7
 BTI_Governance_Index:
-  - 5.4
-  - 5.14
-  - 5.24
-  - 5.36
-  - 5.71
-  - 5.88
-  - 6.13
-  - 6.14
+- 5.4
+- 5.14
+- 5.24
+- 5.36
+- 5.71
+- 5.88
+- 6.13
+- 6.14
 retirement_age:
-  - 57
-  - 62
+- 57
+- 62
 BTI_Status_Index:
-  - 6.1
-  - 6.21
-  - 6.28
-  - 6.33
-  - 6.45
-  - 6.56
-  - 6.59
-  - 6.65
-  - 6.67
+- 6.1
+- 6.21
+- 6.28
+- 6.33
+- 6.45
+- 6.56
+- 6.59
+- 6.65
+- 6.67
 life_expectancy: 74
 unemployment_rate: 9.4
 total_fertility_rate: 1.94
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.co,39657]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.co,39657]]'
 elevation_above_sea_level: 223
 M49_code: 170
 ISO_3166_1_numeric_code: 170
@@ -452,18 +569,18 @@ number_of_out_of_school_children: 704803
 INSEE_countries_and_foreign_territories_code: 99419
 area: 1141748
 native_label:
-  - Colombia
+- Colombia
 hashtag: Colombia
 Commons_category: Colombia
 Commons_gallery: Colombia
 subreddit:
-  - Colombia
+- Colombia
 location:
-  - 3.525
-  - -75.225
+- 3.525
+- -75.225
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26871
 isDeleted: false
 confidential: public
@@ -471,20 +588,348 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Colombia
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - es-CO
+- es-CO
 icon: flag-co
 dv_has_:
   name_:
+    ab: Колумбиа
+    ace: Kolombia
+    ady: Коломбие
+    aeb-arab: كولومبيا
+    af: Colombia
+    am: ኮሎምቢያ
+    an: Colombia
+    ang: Colombia
+    anp: कोलोंबिया
+    ar: كولومبيا
+    arc: ܩܘܠܘܡܒܝܐ
+    ary: كولومبيا
+    arz: كولومبيا
+    ast: Colombia
+    atj: Colombie
+    av: Колумбия
+    avk: Kolombia
+    awa: कोलम्बिया
+    ay: Kuluwya
+    az: Kolumbiya
+    azb: کولومبیا
+    ba: Колумбия
+    ban: Kolombia
+    bar: Kolumbien
+    bbc: Kolombia
+    bcl: Kolombya
+    be: Калумбія
+    be-tarask: Калюмбія
+    bew: Kolombia
+    bg: Колумбия
+    bgn: کولومبیا
+    bho: कोलंबिया
+    bi: Colombia
+    bjn: Colombia
+    blk: ကိုလံဗီယာခမ်းထီ
+    bn: কলম্বিয়া
+    bo: ཁོ་ལོམ་བི་ཡ།
+    bpy: কলম্বিয়া
+    br: Kolombia
+    bs: Kolumbija
+    bxr: Колумби
+    ca: Colòmbia
+    cbk-zam: Colombia
+    cdo: Colombia
+    ce: Колумби
+    ceb: Kolombya
+    ch: Colombia
+    chr: ᎪᎸᎻᏈᎢᎠ
+    chy: Colombia
+    ckb: کۆڵۆمبیا
+    co: Culumbia
+    cr: ᔭᐸᔭᐊᔭᐊᐣ
+    crh: Kolombiya
+    crh-latn: Kolombiya
+    cs: Kolumbie
+    csb: Kolumbiô
+    cv: Колумби
+    cy: Colombia
+    da: Colombia
+    dag: Colombia
+    de: Kolumbien
+    de-ch: Kolumbien
+    din: Colombia
+    diq: Kolombiya
+    dsb: Kolumbiska
+    dtp: Colombia
+    dty: कोलम्बिया
+    dv: ކޮލަންބިއާ
+    dz: ཀོ་ལོམ་བི་ཡ
+    ee: Colombia
+    el: Κολομβία
+    eml: Colombia
+    en: Colombia
+    en-ca: Colombia
+    en-gb: Colombia
+    eo: Kolombio
+    es: Colombia
+    et: Colombia
+    eu: Kolonbia
+    ext: Colómbia
+    fa: کلمبیا
+    ff: Colombia
+    fi: Kolumbia
+    fj: Colombia
+    fo: Kolumbia
+    fr: Colombie
+    frp: Colombie
+    frr: Kolumbien
+    fur: Colombie
+    fy: Kolombia
+    ga: an Cholóim
+    gag: Kolumbiya
+    gan: 哥倫比亞
+    gcr: Lakolonbi
+    gd: Coloimbia
+    gl: Colombia
+    glk: کؤلؤمبيا
+    gn: Kolómbia
+    gom: कोलंबिया
+    gom-deva: कोलंबिया
+    gom-latn: Colombia
+    gor: Kolombia
+    got: "\U0001033A\U00010349\U0001033B\U00010330\U0001033F\U0001033C\U00010331\U0001033E\U00010330"
+    gpe: Colombia
+    gsw: Kolumbie
+    gu: કોલમ્બીયા
+    guc: Kolompia
+    gv: y Cholombey
+    ha: Kolombiya
+    hak: Colombia
+    haw: Kolomupia
+    he: קולומביה
+    hi: कोलम्बिया
+    hif: Colombia
+    hr: Kolumbija
+    hsb: Kolumbiska
+    ht: Kolonbi
+    hu: Kolumbia
+    hy: Կոլումբիա
+    hyw: Քոլումպիա
+    ia: Colombia
+    iba: Kolombia
+    id: Kolombia
+    ie: Columbia
+    ig: Colombia
+    ilo: Colombia
+    io: Kolumbia
+    is: Kólumbía
+    it: Colombia
+    ja: コロンビア
+    jam: Kolombia
+    jbo: kolombias
+    jv: Kolombia
+    ka: კოლუმბია
+    kaa: Kolumbiya
+    kab: Kulumbya
+    kbp: Kolombi
+    kea: Kolómbia
+    kg: Kolombia
+    ki: Colombia
+    kk: Колумбия Республикасы
+    kl: Colombia
+    km: កូឡុំប៊ី
+    kn: ಕೊಲೊಂಬಿಯ
+    ko: 콜롬비아
+    koi: Колумбия
+    ko-kp: 꼴롬비아
+    krc: Колумбия
+    krj: Kolombiya
+    ks: کولومبیٛا
+    ku: Kolombiya
+    kv: Колумбия
+    kw: Kolombi
+    ky: Колумбия
+    la: Columbia
+    lad: Kolombia
+    lb: Kolumbien
+    lbe: Колумбия
+    lez: Колумбия
+    lfn: Colombia
+    li: Colombia
+    lij: Colombia
+    lld: Colombia
+    lmo: Culumbia
+    ln: Kolombi
+    lo: ປະເທດໂກໂລມບີ
+    lrc: کلمبیا
+    lt: Kolumbija
+    ltg: Kolumbeja
+    lv: Kolumbija
+    lzh: 哥倫比亞
+    mad: Kolombia
+    map-bms: Kolombia
+    mdf: Колумбия
+    mg: Kolombia
+    mhr: Колумбий
+    mi: Koromōpia
+    min: Kolombia
+    mk: Колумбија
+    ml: കൊളംബിയ
+    mn: Колумб
+    mni: ꯀꯂꯝꯕꯤꯌꯥ
+    mos: Colombia
+    mr: कोलंबिया
+    mrj: Колумби
+    ms: Colombia
+    ms-arab: کولومبيا
+    mt: Kolombja
+    mwl: Colómbia
+    my: ကိုလံဘီယာနိုင်ငံ
+    myv: Колумбия
+    mzn: کلمبیا
+    na: Korombiya
+    nah: Colombia
+    nan: Colombia
+    nap: Colombia
+    nb: Colombia
+    nds: Kolumbien
+    nds-nl: Colombia
+    ne: कोलम्बिया
+    new: कोलम्बिया
+    nl: Colombia
+    nn: Colombia
+    nov: Kolombia
+    nrm: Coloumbie
+    nso: Kolombia
+    oc: Colómbia
+    olo: Kolumbii
+    om: Colombia
+    or: କଲୋମ୍ବିଆ
+    os: Колумби
+    pa: ਕੋਲੰਬੀਆ
+    pag: Columbia
+    pam: Colombia
+    pap: Colombia
+    pcd: Colombie
+    pdc: Kolumbien
+    pfl: Kolumbien
+    pi: कोलोम्बिया
+    pih: Colombia
+    pl: Kolumbia
+    pms: Colombia
+    pnb: کولمبیا
+    pnt: Κολομβία
+    ps: کولمبيا
+    pt: Colômbia
+    pt-br: Colômbia
+    qu: Kulunsuyu
+    rm: Columbia
+    rmy: Kolombiya
+    rn: Colombia
+    ro: Columbia
+    roa-tara: Colombie
+    ru: Колумбия
+    rue: Колумбия
+    rup: Columbia
+    rw: Kolombiya
+    sa: कोलोम्बिया
+    sah: Колумбия
+    sat: ᱠᱚᱞᱚᱢᱵᱤᱭᱟ
+    sc: Colòmbia
+    scn: Colombia
+    sco: Colombie
+    sd: ڪولمبيا
+    se: Colombia
+    sg: Colombia
+    sgs: Kuolombėjė
+    sh: Kolumbija
+    shi: Kulumbya
+    shn: မိူင်းၵူဝ်ႇလမ်ႇပီႇယႃႇ
+    si: කොලොම්බියාව
+    sk: Kolumbia
+    sl: Kolumbija
+    sm: Kolomupia
+    smj: Colåmmbå
+    smn: Kolumbia
+    sms: Kolumbia
+    sn: Colombia
+    so: Kolombiya
+    sq: Kolumbia
+    sr: Колумбија
+    sr-ec: Колумбија
+    sr-el: Kolumbija
+    srn: Kolombikondre
+    ss: IKholombiya
+    st: Colombia
+    stq: Kolumbien
+    su: Kolombia
+    sv: Colombia
+    sw: Kolombia
+    szl: Kolůmbijo
+    szy: Columbia
+    ta: கொலம்பியா
+    tay: Columbia
+    tcy: ಕೊಲೊಂಬಿಯ
+    te: కొలంబియా
+    tet: Kolómbia
+    tg: Кулумбия
+    th: ประเทศโคลอมเบีย
+    ti: ኮሎምብያ
+    tk: Kolumbiýa
+    tl: Colombia
+    tly: Kolumbiya
+    tn: Colombia
+    to: Kolomipia
+    tok: ma Kolonpija
+    tpi: Kolambia
+    tr: Kolombiya
+    trv: Columbia
+    ts: Colombia
+    tt: Колумбия
+    tum: Colombia
+    tw: Colombia
+    ty: Colombia
+    tyv: Колумбия
+    udm: Колумбия
+    ug: كولومبىيە
+    uk: Колумбія
+    ur: کولمبیا
+    uz: Kolumbiya
+    ve: Colombia
+    vec: Cołónbia
+    vep: Kolumbii
+    vi: Colombia
+    vls: Colombia
+    vo: Kolumbän
+    vro: Colombia
+    wa: Colombeye
+    war: Colombia
+    wo: Koloombi
+    wuu: 哥伦比亚
+    xal: Коламбудин Орн
+    xh: IsiColombia
+    xmf: კოლუმბია
+    yi: קאלאמביע
+    yo: Kòlómbìà
+    yue: 哥倫比亞
+    za: Gohlunzbijya
+    zea: Colombia
+    zgh: ⴽⵓⵍⵓⵎⴱⵢⴰ
+    zh: 哥伦比亚
+    zh-cn: 哥伦比亚
+    zh-hans: 哥伦比亚
+    zh-hant: 哥倫比亞
+    zh-hk: 哥倫比亞
+    zh-mo: 哥倫比亞
+    zh-tw: 哥倫比亞
+    zu: IKolombiya
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Colombia
 dv_ISO4217-currency_alphabetic: COP
@@ -515,9 +960,9 @@ dv_UNTERM_Chinese_Formal: 哥伦比亚共和国
 dv_UNTERM_French_Formal: la République de Colombie
 dv_UNTERM_Russian: Колумбия
 dv_UNTERM_Russian_Formal: Республика Колумбия
-dv_Region_Name: "[[Americas]]"
-dv_Intermediate_Region_Name: "[[South America]]"
-dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region_Name: '[[Americas]]'
+dv_Intermediate_Region_Name: '[[South America]]'
+dv_Sub-region_Name: '[[Latin America and the Caribbean]]'
 dv_Region: 19
 dv_Intermediate_Region: 5
 dv_Sub-region: 419
@@ -541,18 +986,18 @@ dv_ISO2: CO
 dv_ISO3: COL
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]"
-    - "[[/_Standards/Earth/Continent/America~South/Andes/Colombia|Colombia]]"
-    - "[[/_public/Earth/Continent/America~South/Andes/Colombia.public|Colombia.public]]"
-    - "[[/_internal/Earth/Continent/America~South/Andes/Colombia.internal|Colombia.internal]]"
-    - "[[/_protect/Earth/Continent/America~South/Andes/Colombia.protect|Colombia.protect]]"
-    - "[[/_private/Earth/Continent/America~South/Andes/Colombia.private|Colombia.private]]"
-    - "[[/_personal/Earth/Continent/America~South/Andes/Colombia.personal|Colombia.personal]]"
-    - "[[/_secret/Earth/Continent/America~South/Andes/Colombia.secret|Colombia.secret]]"
+  - '[[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]'
+  - '[[/_Standards/Earth/Continent/America~South/Andes/Colombia|Colombia]]'
+  - '[[/_public/Earth/Continent/America~South/Andes/Colombia.public|Colombia.public]]'
+  - '[[/_internal/Earth/Continent/America~South/Andes/Colombia.internal|Colombia.internal]]'
+  - '[[/_protect/Earth/Continent/America~South/Andes/Colombia.protect|Colombia.protect]]'
+  - '[[/_private/Earth/Continent/America~South/Andes/Colombia.private|Colombia.private]]'
+  - '[[/_personal/Earth/Continent/America~South/Andes/Colombia.personal|Colombia.personal]]'
+  - '[[/_secret/Earth/Continent/America~South/Andes/Colombia.secret|Colombia.secret]]'
 dv_has_name_de: Kolumbien
 dv_Area-Total: 1141784
 dv_Area-Land: 1038700
-dv_has_place_continent: "[[South-America]]"
+dv_has_place_continent: '[[South-America]]'
 dv_VehicleCode: CO
 dv_Alcohol-l: 6.2
 dv_has_place_longitude: -75.225
@@ -560,16 +1005,15 @@ dv_has_place_latitude: 3.525
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Colombia
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]"
-  - "[[/_Standards/Earth/Continent/America~South/Andes/Colombia|Colombia]]"
-  - "[[/_public/Earth/Continent/America~South/Andes/Colombia.public|Colombia.public]]"
-  - "[[/_internal/Earth/Continent/America~South/Andes/Colombia.internal|Colombia.internal]]"
-  - "[[/_protect/Earth/Continent/America~South/Andes/Colombia.protect|Colombia.protect]]"
-  - "[[/_private/Earth/Continent/America~South/Andes/Colombia.private|Colombia.private]]"
-  - "[[/_personal/Earth/Continent/America~South/Andes/Colombia.personal|Colombia.personal]]"
-  - "[[/_secret/Earth/Continent/America~South/Andes/Colombia.secret|Colombia.secret]]"
+- '[[../../../../WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[/_Standards/Earth/Continent/America~South/Andes/Colombia|Colombia]]'
+- '[[/_public/Earth/Continent/America~South/Andes/Colombia.public|Colombia.public]]'
+- '[[/_internal/Earth/Continent/America~South/Andes/Colombia.internal|Colombia.internal]]'
+- '[[/_protect/Earth/Continent/America~South/Andes/Colombia.protect|Colombia.protect]]'
+- '[[/_private/Earth/Continent/America~South/Andes/Colombia.private|Colombia.private]]'
+- '[[/_personal/Earth/Continent/America~South/Andes/Colombia.personal|Colombia.personal]]'
+- '[[/_secret/Earth/Continent/America~South/Andes/Colombia.secret|Colombia.secret]]'
 ---
-
 # [[Colombia]] 
 
 For more Details, check out this Repository into this Subfolder: 

@@ -1,18 +1,81 @@
 ---
 aliases:
-  - impact crater
-  - Impact_Crater
-  - Impact Crater
+- alfrapa kratero
+- Aschlagkrater
+- becsapódási kráter
+- Chhiong-tu̍t-khang
+- Crater
+- Crater illisionis
+- Cratera de impacto
+- cratere meteoritico
+- Cratèr d'impacte
+- cratère d'impact
+- cràter d'impacte
+- cràtero da inpato
+- Cráter d'impautu
+- cráter de impacto
+- Einschlagkrater
+- Hố va chạm
+- impact crater
+- Impact_Crater
+- impakkrater
+- impaktkraater
+- impaktní kráter
+- impaktný kráter
+- Inslaagkrater
+- inslagkrater
+- Ischlagkrater
+- Isigqabhozi sokugadlazeka
+- Kasoko ya dharuba
+- Kawah hentaman
+- Kawah tabrakan
+- Krater
+- krater uderzeniowy
+- nedslagskrater
+- Pachakawri luq'u
+- Smūginis krateris
+- Takuct tamackaṭṭ
+- Talka krater
+- triecienkrāteris
+- törmäyskraatteri
+- Udarni krater
+- zarba krateri
+- Zərbə krateri
+- çarpma krateri
+- κρατήρας πρόσκρουσης
+- астраблема
+- кратер
+- Метеорит кратери
+- метеоритний кратер
+- Метеориттік кратер
+- тохаран кратер
+- Ударен кратер
+- ударны кратэр
+- ударный кратер
+- Հարվածային խառնարան
+- מכתש פגיעה
+- دهانه برخوردی
+- فوهة صدمية
+- प्रहार क्रेटर
+- অভিঘাত খাদ
+- விண்கல் வீழ் பள்ளம்
+- ഉൽക്കാഗർത്തം
+- დარტყმითი კრატერი
+- クレーター
+- 撞击坑
+- 撞擊坑
+- 隕石坑
+- 충돌구
 has_id_wikidata: Q55818
 different_from:
-  - "[[_Standards/WikiData/WD~volcanic_crater,109391]]"
-  - "[[_Standards/WikiData/WD~explosion_crater,1384605]]"
-model_item: "[[_Standards/WikiData/WD~Meteor_Crater,431381]]"
-part_of: "[[_Standards/WikiData/WD~planetary_nomenclature,1463003]]"
-subclass_of: "[[_Standards/WikiData/WD~crater,3240715]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_crater,6254809]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Q59791350,59791350]]"
+- '[[_Standards/WikiData/WD~volcanic_crater,109391]]'
+- '[[_Standards/WikiData/WD~explosion_crater,1384605]]'
+model_item: '[[_Standards/WikiData/WD~Meteor_Crater,431381]]'
+part_of: '[[_Standards/WikiData/WD~planetary_nomenclature,1463003]]'
+subclass_of: '[[_Standards/WikiData/WD~crater,3240715]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_crater,6254809]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Q59791350,59791350]]'
 OmegaWiki_Defined_Meaning: 665442
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barringer%20Crater%20aerial%20photo%20by%20USGS.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Impact%20movie.ogv
@@ -22,25 +85,105 @@ Commons_category: Impact craters
 OpenStreetMap_tag: geological=meteor_crater
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Impact_crater,55818]]"
-    - "[[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]]"
-    - "[[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]]"
-    - "[[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]]"
-    - "[[/_protect/Astronomy/Planet/Impact_Crater.protect|Impact_Crater.protect]]"
-    - "[[/_private/Astronomy/Planet/Impact_Crater.private|Impact_Crater.private]]"
-    - "[[/_personal/Astronomy/Planet/Impact_Crater.personal|Impact_Crater.personal]]"
-    - "[[/_secret/Astronomy/Planet/Impact_Crater.secret|Impact_Crater.secret]]"
+  - '[[../../WikiData/WD~Impact_crater,55818]]'
+  - '[[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]]'
+  - '[[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]]'
+  - '[[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]]'
+  - '[[/_protect/Astronomy/Planet/Impact_Crater.protect|Impact_Crater.protect]]'
+  - '[[/_private/Astronomy/Planet/Impact_Crater.private|Impact_Crater.private]]'
+  - '[[/_personal/Astronomy/Planet/Impact_Crater.personal|Impact_Crater.personal]]'
+  - '[[/_secret/Astronomy/Planet/Impact_Crater.secret|Impact_Crater.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Impact_crater,55818]]"
-  - "[[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]]"
-  - "[[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]]"
-  - "[[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]]"
-  - "[[/_protect/Astronomy/Planet/Impact_Crater.protect|Impact_Crater.protect]]"
-  - "[[/_private/Astronomy/Planet/Impact_Crater.private|Impact_Crater.private]]"
-  - "[[/_personal/Astronomy/Planet/Impact_Crater.personal|Impact_Crater.personal]]"
-  - "[[/_secret/Astronomy/Planet/Impact_Crater.secret|Impact_Crater.secret]]"
+- '[[../../WikiData/WD~Impact_crater,55818]]'
+- '[[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]]'
+- '[[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]]'
+- '[[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]]'
+- '[[/_protect/Astronomy/Planet/Impact_Crater.protect|Impact_Crater.protect]]'
+- '[[/_private/Astronomy/Planet/Impact_Crater.private|Impact_Crater.private]]'
+- '[[/_personal/Astronomy/Planet/Impact_Crater.personal|Impact_Crater.personal]]'
+- '[[/_secret/Astronomy/Planet/Impact_Crater.secret|Impact_Crater.secret]]'
+dv_has_:
+  name_:
+    af: impakkrater
+    ar: فوهة صدمية
+    ast: Cráter d'impautu
+    az: Zərbə krateri
+    be: астраблема
+    be-tarask: ударны кратэр
+    bg: Ударен кратер
+    bn: অভিঘাত খাদ
+    br: Krater
+    bs: Udarni krater
+    ca: cràter d'impacte
+    ce: тохаран кратер
+    cs: impaktní kráter
+    da: nedslagskrater
+    de: Einschlagkrater
+    el: κρατήρας πρόσκρουσης
+    en: impact crater
+    en-ca: Impact crater
+    en-gb: impact crater
+    eo: alfrapa kratero
+    es: cráter de impacto
+    et: impaktkraater
+    eu: Talka krater
+    fa: دهانه برخوردی
+    fi: törmäyskraatteri
+    fr: cratère d'impact
+    gl: cráter de impacto
+    gsw: Ischlagkrater
+    he: מכתש פגיעה
+    hi: प्रहार क्रेटर
+    hr: Udarni krater
+    hu: becsapódási kráter
+    hy: Հարվածային խառնարան
+    id: Kawah tabrakan
+    it: cratere meteoritico
+    ja: クレーター
+    ka: დარტყმითი კრატერი
+    kab: Takuct tamackaṭṭ
+    kk: Метеориттік кратер
+    ko: 충돌구
+    ky: Метеорит кратери
+    la: Crater illisionis
+    lb: Aschlagkrater
+    li: Inslaagkrater
+    lt: Smūginis krateris
+    lv: triecienkrāteris
+    mk: ударен кратер
+    ml: ഉൽക്കാഗർത്തം
+    ms: Kawah hentaman
+    nan: Chhiong-tu̍t-khang
+    nb: nedslagskrater
+    nds: Inslagkrater
+    nl: inslagkrater
+    nn: nedslagskrater
+    oc: Cratèr d'impacte
+    pl: krater uderzeniowy
+    pt: Cratera de impacto
+    pt-br: cratera de impacto
+    qu: Pachakawri luq'u
+    ro: Crater
+    ru: ударный кратер
+    sco: impact crater
+    sh: udarni krater
+    sk: impaktný kráter
+    sl: udarni krater
+    sr: кратер
+    sv: nedslagskrater
+    sw: Kasoko ya dharuba
+    ta: விண்கல் வீழ் பள்ளம்
+    tr: çarpma krateri
+    uk: метеоритний кратер
+    uz: zarba krateri
+    vec: cràtero da inpato
+    vi: Hố va chạm
+    wuu: 撞击坑
+    yue: 隕石坑
+    zh: 撞擊坑
+    zh-hant: 撞擊坑
+    zu: Isigqabhozi sokugadlazeka
 ---
-
 # [[Impact_Crater]] 
 
 #is_/same_as :: [[WD~Impact_crater,55818]] 

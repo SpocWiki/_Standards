@@ -1,6 +1,127 @@
 ---
 aliases:
-  - Consonant
+- aappersariaq
+- abalɩmayaɣ
+- abongwaqa
+- a̱gha̱ghap
+- bashkëtingëllorja
+- baƙi
+- chú-im
+- connrag
+- consan
+- consoante
+- consoană
+- consona
+- consonans
+- Consonant
+- consonante
+- consonne
+- corockle
+- cossoune
+- counsoune
+- cunsunant
+- cytsain
+- dawıssız sesler
+- dengdar
+- hengak laqi
+- kaashäälik
+- katanog
+- katinig
+- kensonenn
+- kessonen
+- konsonaante
+- konsonan
+- konsonant
+- konsonanti
+- konsonantizm
+- konsonanto
+- konsonantos
+- konsonantt
+- konsonantti
+- konsonánnta
+- konsonánta
+- konsòn
+- kontsonante
+- kunkawaki
+- kɔnsonantinima
+- līdzskanis
+- makikatni
+- mangarabay
+- medeklinker
+- mitklinker
+- molelisi
+- mássalhangzó
+- nzvanyira
+- peethelü
+- phụ âm
+- priebalsis
+- renisoratra
+- samhljóð
+- samit
+- soglasnik
+- souhláska
+- spoluhláska
+- spółgłoska
+- spůłgłoska
+- suglasnik
+- tartîkawaz
+- undosh tovushlar
+- zunsna
+- æмхъæлæсон
+- ünsüz
+- σύμφωνο
+- σύμφωνον
+- гийгүүлэгч
+- дауыссыз дыбыстар
+- зычны
+- зычныя
+- приголосний звук
+- рагьукъал
+- согласка
+- согласные
+- соҥйӱк
+- сугласник
+- съгласна
+- тартык
+- хупă сасăсем
+- шашішушешо
+- үнсүз тыбыштар
+- ҳамсадо
+- բաղաձայններ
+- עיצור
+- קאנסאנאנט
+- ئۈزۈك تاۋۇش
+- حرفي لکت
+- حروف صحیح
+- زٔرؠ اَچھَر
+- صامت
+- نەبزوێن
+- همخوان
+- ہمخوان
+- ߟߊ߬ߞߎ߬ߡߊ߬ߕߊ
+- बाआखः
+- व्यंजन
+- व्यंजन वर्ण
+- व्यञ्जजन वर्ण
+- व्यञ्जनवर्ण
+- ব্যঞ্জনধ্বনি
+- ਵਿਅੰਜਨ
+- மெய்யொலி
+- హల్లులు
+- ವ್ಯಂಜನ
+- വ്യഞ്ജനം
+- พยัญชนะ
+- ພະຍັນຊະນະ
+- གསལ་བྱེད།
+- თანხმოვანი
+- សូរព្យញ្ជនៈ
+- ᱠᱮᱪᱮᱫ ᱟᱲᱟᱝ
+- 啞音
+- 子音
+- 輔音
+- 辅音
+- ꠀꠝꠥꠀꠔꠤꠢꠞꠚ
+- 자음
 has_id_wikidata: Q38035
 Commons_category: Consonants
 depicted_by: '[[_Standards/WikiData/WD~consonant_letter,3841820]]'
@@ -17,8 +138,169 @@ part_of: '[[_Standards/WikiData/WD~language,315]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Consonant.ogg
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/consonants
 subclass_of: '[[_Standards/WikiData/WD~phone,202064]]'
+dv_has_:
+  name_:
+    af: konsonant
+    an: consonant
+    ar: صامت
+    ast: consonante
+    av: рагьукъал
+    az: konsonantizm
+    bar: Konsonant
+    bcl: katanog
+    be: зычныя
+    be-tarask: зычны
+    bg: съгласна
+    bho: व्यंजन
+    bn: ব্যঞ্জনধ্বনি
+    bo: གསལ་བྱེད།
+    br: kensonenn
+    bs: suglasnik
+    ca: consonant
+    ckb: نەبزوێن
+    crh-ro: tartîkawaz
+    cs: souhláska
+    cv: хупă сасăсем
+    cy: cytsain
+    da: konsonant
+    dag: kɔnsonantinima
+    de: Konsonant
+    de-ch: Konsonant
+    el: σύμφωνο
+    en: consonant
+    en-ca: consonant
+    en-gb: consonant
+    eo: konsonanto
+    es: consonante
+    et: kaashäälik
+    eu: kontsonante
+    fa: همخوان
+    fi: konsonantti
+    fr: consonne
+    frp: consona
+    frr: Konsonant
+    fy: konsonant
+    ga: consan
+    gd: connrag
+    gl: consoante
+    grc: σύμφωνον
+    gsw: Konsonant
+    gv: corockle
+    ha: baƙi
+    he: עיצור
+    hi: व्यंजन वर्ण
+    hr: suglasnik
+    ht: konsòn
+    hu: mássalhangzó
+    hy: բաղաձայններ
+    ia: consonante
+    id: konsonan
+    io: konsonanto
+    is: samhljóð
+    it: consonante
+    ja: 子音
+    jbo: zunsna
+    jv: konsonan
+    ka: თანხმოვანი
+    kaa: dawıssız sesler
+    kbp: abalɩmayaɣ
+    kcg: a̱gha̱ghap
+    kge: konsonan
+    kk: дауыссыз дыбыстар
+    kl: aappersariaq
+    km: សូរព្យញ្ជនៈ
+    kn: ವ್ಯಂಜನ
+    ko: 자음
+    ks: زٔرؠ اَچھَر
+    ku: dengdar
+    kw: kessonen
+    ky: үнсүз тыбыштар
+    la: consonans
+    lb: Konsonant
+    lfn: consonante
+    li: mitklinker
+    lmo: cunsunant
+    ln: molelisi
+    lo: ພະຍັນຊະນະ
+    lt: priebalsis
+    lv: līdzskanis
+    lzh: 輔音
+    mai: व्यञ्जजन वर्ण
+    mg: renisoratra
+    mhr: соҥйӱк
+    mk: согласка
+    ml: വ്യഞ്ജനം
+    mn: гийгүүлэгч
+    mr: व्यंजन
+    ms: konsonan
+    nan: chú-im
+    nb: konsonant
+    nds: Konsonant
+    ne: व्यञ्जनवर्ण
+    new: बाआखः
+    nl: medeklinker
+    nn: konsonant
+    nqo: ߟߊ߬ߞߎ߬ߡߊ߬ߕߊ
+    nr: abongwaqa
+    nrm: counsoune
+    oc: consonant
+    os: æмхъæлæсон
+    pa: ਵਿਅੰਜਨ
+    pam: makikatni
+    pl: spółgłoska
+    pnb: حروف صحیح
+    pt: consoante
+    pt-br: consoante
+    qu: kunkawaki
+    rmf: konsonantos
+    ro: consoană
+    ru: согласные
+    rue: шашішушешо
+    sat: ᱠᱮᱪᱮᱫ ᱟᱲᱟᱝ
+    sco: consonant
+    sd: حرفي لکت
+    se: konsonánta
+    sh: konsonant
+    sje: konsonánnta
+    sk: spoluhláska
+    sl: soglasnik
+    sma: konsonaante
+    smj: konsonánnta
+    smn: konsonant
+    sms: konsonantt
+    sn: nzvanyira
+    sq: bashkëtingëllorja
+    sr: сугласник
+    sr-ec: сугласник
+    sv: konsonant
+    sw: konsonanti
+    syl: ꠀꠝꠥꠀꠔꠤꠢꠞꠚ
+    szl: spůłgłoska
+    ta: மெய்யொலி
+    te: హల్లులు
+    tg: ҳамсадо
+    th: พยัญชนะ
+    tl: katinig
+    tly: samit
+    tr: ünsüz
+    trv: hengak laqi
+    tt: тартык
+    ug: ئۈزۈك تاۋۇش
+    uk: приголосний звук
+    ur: ہمخوان
+    uz: undosh tovushlar
+    vec: consonante
+    vi: phụ âm
+    vro: peethelü
+    wa: cossoune
+    war: mangarabay
+    wuu: 辅音
+    yi: קאנסאנאנט
+    yue: 啞音
+    zh: 辅音
+    zh-hant: 輔音
+    zh-tw: 輔音
 ---
-
 # [[Consonant]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Consonant,38035|WD~Consonant,38035]] 

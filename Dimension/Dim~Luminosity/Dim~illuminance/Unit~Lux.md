@@ -1,23 +1,51 @@
 ---
 aliases:
+- liuksas
+- lucsa
+- luks
+- luksi
+- lukso
+- lukss
+- lux
+- Lux (unitatea)
+- lyuks
+- lúx
+- lüks
+- лукс
+- люкс
+- лүкс
+- լյուքս
+- לוקס
+- لكس
+- لوکس
+- ليۋكس
+- लक्स
+- লাক্স (একক)
+- லக்சு
+- ลักซ์
+- ལ་ཁི་སི།
+- ლუქსი
+- ルクス
+- 勒克斯
+- 럭스
 has_id_wikidata: Q179836
 derived_from_base_unit:
-  - "[[_Standards/WikiData/WD~candela,83216]]"
-  - "[[_Standards/WikiData/WD~steradian,177612]]"
-  - "[[_Standards/WikiData/WD~metre,11573]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~illuminance,194411]]"
+- '[[_Standards/WikiData/WD~candela,83216]]'
+- '[[_Standards/WikiData/WD~steradian,177612]]'
+- '[[_Standards/WikiData/WD~metre,11573]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~illuminance,194411]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~SI_derived_unit,208469]]"
-  - "[[_Standards/WikiData/WD~unit_of_illuminance,50323322]]"
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~unit_of_illuminance,50323322]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 conversion_to_SI_unit: 1
 conversion_to_standard_unit: 0.0001
-OmegaWiki_Defined_Meaning: "341601"
+OmegaWiki_Defined_Meaning: 341601
 UN_CEFACT_Common_Code: LUX
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn><mrow data-mjx-texclass="ORD"><mtext>lx</mtext></mrow><mo stretchy="false">=</mo><mn>1</mn><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>lm</mtext></mrow></mrow><mrow data-mjx-texclass="ORD"><msup><mrow data-mjx-texclass="ORD"><mtext>m</mtext></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lux%20meter.jpg
@@ -26,12 +54,98 @@ IEV_number: 845-21-085
 UCUM_code: lx
 Wikidata_SPARQL_query_equivalent: wd:Q179836 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 unit_symbol:
-  - lx
-  - lx
-  - lx
-  - лк
+- lx
+- lx
+- lx
+- лк
+dv_has_:
+  name_:
+    ar: لكس
+    arz: لكس
+    ast: lux
+    be: люкс
+    be-tarask: люкс
+    bg: лукс
+    bn: লাক্স (একক)
+    bo: ལ་ཁི་སི།
+    bs: luks
+    ca: lux
+    ce: Люкс
+    cs: lux
+    cy: lux
+    da: lux
+    de: Lux
+    el: lux
+    en: lux
+    eo: lukso
+    es: lux
+    et: luks
+    eu: Lux (unitatea)
+    fa: لوکس
+    fi: luksi
+    fr: lux
+    ga: lucsa
+    gl: lux
+    he: לוקס
+    hi: लक्स
+    hr: luks
+    hu: lux
+    hy: լյուքս
+    id: lux
+    is: lúx
+    it: lux
+    ja: ルクス
+    ka: ლუქსი
+    kk: люкс
+    kk-arab: ليۋكس
+    kk-cn: ليۋكس
+    kk-cyrl: люкс
+    kk-kz: Люкс
+    kk-latn: lyuks
+    kk-tr: lyuks
+    ko: 럭스
+    ky: люкс
+    lt: liuksas
+    lv: lukss
+    mk: лукс
+    mn: люкс
+    ms: lux
+    mt: lux
+    nan: lux
+    nb: lux
+    nl: lux
+    nn: lux
+    pl: luks
+    pt: lux
+    ro: lux
+    ru: люкс
+    scn: lux
+    sh: Luks
+    sk: lux
+    sl: luks
+    smn: luksi
+    sr: лукс
+    sr-ec: лукс
+    sr-el: luks
+    sv: lux
+    ta: லக்சு
+    th: ลักซ์
+    tr: lüks
+    tt: лүкс
+    tt-cyrl: лүкс
+    uk: люкс
+    uz: lyuks
+    vi: lux
+    wuu: 勒克斯
+    yue: 勒克斯
+    zh: 勒克斯
+    zh-cn: 勒克斯
+    zh-hans: 勒克斯
+    zh-hant: 勒克斯
+    zh-hk: 勒克斯
+    zh-sg: 勒克斯
+    zh-tw: 勒克斯
 ---
-
 # [[Unit~Lux]] 
 
 #is_/same_as :: [[WD~Lux,179836]] 

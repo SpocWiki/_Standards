@@ -1,48 +1,65 @@
 ---
 aliases:
-  - John_Jacob_Astor_I
-  - John Jacob Astor
-  - Johann Jakob Astor
-  - Astor,John_Jacob
-  - Astor,John Jacob
+- Astor,John Jacob
+- Astor,John_Jacob
+- Con Ceykob Astor
+- Con Yakob Astor
+- Džon Džejkob Astor
+- Johann Jakob Astor
+- John Jacob Astor
+- John Jacob Astor I
+- John_Jacob_Astor_I
+- Астор Джон Джекоб
+- Джон Джейкоб Астор
+- Джон Джейкъб Астор
+- Джон Джэйкаб Астар
+- Ջոն Ջեյքոբ Աստոր
+- ג'ון ג'ייקוב אסטור
+- جان جیکب استر
+- جون جاكوب أستور
+- جون جاكوب استور
+- ਜੌਨ ਜੈਕਬ ਐਸਟੋਰ
+- ジョン・ジェイコブ・アスター
+- 約翰·雅各布·阿斯特
+- 존 제이컵 애스터
 has_id_wikidata: Q57423
 birth_name: Johann Jakob Astor
 occupation:
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~wholesaler,18242306]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~wholesaler,18242306]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Biographical_Dictionary_of_America,19079852]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 family: '[[_Standards/WikiData/WD~Astor_family,661575]]'
 child:
-  - '[[_Standards/WikiData/WD~William_Backhouse_Astor,_Sr.,870607]]'
-  - '[[_Standards/WikiData/WD~Henry_Astor,16206771]]'
-  - '[[_Standards/WikiData/WD~unnamed_infant_son_Astor,75413941]]'
-  - '[[_Standards/WikiData/WD~John_Jacob_Astor,75413945]]'
-  - '[[_Standards/WikiData/WD~Magdalen_Astor,75414032]]'
-  - '[[_Standards/WikiData/WD~Dorothea_Astor,75414042]]'
-  - '[[_Standards/WikiData/WD~Sarah_Astor,75414040]]'
-  - '[[_Standards/WikiData/WD~Eliza_Astor,75414066]]'
+- '[[_Standards/WikiData/WD~William_Backhouse_Astor,_Sr.,870607]]'
+- '[[_Standards/WikiData/WD~Henry_Astor,16206771]]'
+- '[[_Standards/WikiData/WD~unnamed_infant_son_Astor,75413941]]'
+- '[[_Standards/WikiData/WD~John_Jacob_Astor,75413945]]'
+- '[[_Standards/WikiData/WD~Magdalen_Astor,75414032]]'
+- '[[_Standards/WikiData/WD~Dorothea_Astor,75414042]]'
+- '[[_Standards/WikiData/WD~Sarah_Astor,75414040]]'
+- '[[_Standards/WikiData/WD~Eliza_Astor,75414066]]'
 given_name:
-  - '[[_Standards/WikiData/WD~John,4925477]]'
-  - '[[_Standards/WikiData/WD~Jacob,25999604]]'
+- '[[_Standards/WikiData/WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Jacob,25999604]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_burial: '[[_Standards/WikiData/WD~Trinity_Church_Cemetery,7842673]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Vanderbilt_Mansion,7914443]]'
-  - '[[_Standards/WikiData/WD~Astor_House,14706163]]'
+- '[[_Standards/WikiData/WD~Vanderbilt_Mansion,7914443]]'
+- '[[_Standards/WikiData/WD~Astor_House,14706163]]'
 family_name: '[[_Standards/WikiData/WD~Astor,16479757]]'
 depicted_by: '[[_Standards/WikiData/WD~John_Jacob_Astor,28796817]]'
 date_of_birth: 1763-07-17T00:00:00Z
@@ -55,8 +72,8 @@ date_of_death: 1848-03-29T00:00:00Z
 place_of_death: '[[_Standards/WikiData/WD~Manhattan,11299]]'
 place_of_birth: '[[_Standards/WikiData/WD~Walldorf,22872]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Electoral_Palatinate,22880]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Electoral_Palatinate,22880]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 Commons_gallery: John Jacob Astor
@@ -66,8 +83,62 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Wesley%20Jarvis
 name_in_native_language: John Jacob Astor
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Appletons%27%20Astor%20John%20Jacob%20signature.jpg
 ISNI: 0000000073755923
+dv_has_:
+  name_:
+    ar: جون جاكوب أستور
+    arz: جون جاكوب استور
+    ast: John Jacob Astor
+    az: Con Yakob Astor
+    be-tarask: Джон Джэйкаб Астар
+    bg: Джон Джейкъб Астор
+    ca: John Jacob Astor
+    cs: John Jacob Astor
+    cy: John Jacob Astor I
+    da: John Jacob Astor
+    de: Johann Jakob Astor
+    de-ch: Johann Jakob Astor
+    en: John Jacob Astor I
+    en-ca: John Jacob Astor
+    en-gb: John Jacob Astor
+    eo: John Jacob Astor
+    es: John Jacob Astor
+    et: John Jacob Astor
+    eu: John Jacob Astor
+    fa: جان جیکب استر
+    fi: John Jacob Astor
+    fr: John Jacob Astor
+    gl: John Jacob Astor
+    he: ג'ון ג'ייקוב אסטור
+    hr: John Jacob Astor
+    hu: John Jacob Astor
+    hy: Ջոն Ջեյքոբ Աստոր
+    id: John Jacob Astor
+    it: John Jacob Astor I
+    ja: ジョン・ジェイコブ・アスター
+    ko: 존 제이컵 애스터
+    mg: John Jacob Astor
+    nb: John Jacob Astor
+    nl: John Jacob Astor
+    nn: John Jacob Astor
+    oc: John Jacob Astor
+    pa: ਜੌਨ ਜੈਕਬ ਐਸਟੋਰ
+    pl: John Jacob Astor
+    pt: John Jacob Astor
+    pt-br: John Jacob Astor
+    ru: Джон Джейкоб Астор
+    sh: John Jacob Astor
+    sk: John Jacob Astor
+    sl: John Jacob Astor
+    sq: John Jacob Astor
+    sr: Džon Džejkob Astor
+    sv: John Jacob Astor
+    tly: Con Ceykob Astor
+    tr: John Jacob Astor
+    uk: Астор Джон Джекоб
+    vi: John Jacob Astor
+    war: John Jacob Astor
+    zh: 約翰·雅各布·阿斯特
 ---
-
 # [[Astor,John_Jacob]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~John_Jacob_Astor_I,57423|WD~John_Jacob_Astor_I,57423]] 

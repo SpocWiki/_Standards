@@ -1,9 +1,48 @@
 ---
 aliases:
-  - Listriodontinae
+- Listriodontinae
+- 利齒豬亞科
 title: Listriodontinae
+has_id_wikidata: Q18603772
+dv_has_:
+  name_:
+    an: Listriodontinae
+    ast: Listriodontinae
+    bg: Listriodontinae
+    ca: Listriodontinae
+    ceb: Listriodontinae
+    de: Listriodontinae
+    en: Listriodontinae
+    eo: Listriodontinae
+    es: Listriodontinae
+    eu: Listriodontinae
+    ext: Listriodontinae
+    fi: Listriodontinae
+    fr: Listriodontinae
+    ga: Listriodontinae
+    gl: Listriodontinae
+    hu: Listriodontinae
+    ia: Listriodontinae
+    id: Listriodontinae
+    ie: Listriodontinae
+    io: Listriodontinae
+    it: Listriodontinae
+    la: Listriodontinae
+    mul: Listriodontinae
+    nl: Listriodontinae
+    oc: Listriodontinae
+    pl: Listriodontinae
+    pt: Listriodontinae
+    pt-br: Listriodontinae
+    ro: Listriodontinae
+    ru: Listriodontinae
+    sq: Listriodontinae
+    uk: Listriodontinae
+    vi: Listriodontinae
+    vo: Listriodontinae
+    war: Listriodontinae
+    zh: 利齒豬亞科
 ---
-
 # [[Listriodontinae]] 
 
 ## #has_/text_of_/abstract 

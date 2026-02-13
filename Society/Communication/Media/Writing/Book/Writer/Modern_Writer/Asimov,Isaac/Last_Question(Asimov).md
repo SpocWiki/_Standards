@@ -1,5 +1,54 @@
-
-
+---
+has_id_wikidata: Q979311
+dv_has_:
+  name_:
+    cs: Poslední otázka
+    de: Wenn die Sterne verlöschen
+    en: The Last Question
+    eo: La Lasta Demando
+    es: La última pregunta
+    fa: سؤال آخر
+    fr: La Dernière Question
+    ga: The Last Question
+    he: השאלה האחרונה
+    hy: Վերջին հարցը
+    id: Pertanyaan Terakhir
+    it: L'ultima domanda
+    ja: 最後の質問
+    jv: Pitakonan Pungkasan
+    ko: 최후의 질문
+    nl: The Last Question
+    pl: Ostatnie pytanie
+    pt: A Última Pergunta
+    ro: Ultima întrebare
+    ru: Последний вопрос
+    sv: The Last Question
+    tr: Son Soru
+    uk: Останнє запитання
+    zh: 最後的問題
+aliases:
+- A Última Pergunta
+- L'ultima domanda
+- La Dernière Question
+- La Lasta Demando
+- La última pregunta
+- Ostatnie pytanie
+- Pertanyaan Terakhir
+- Pitakonan Pungkasan
+- Poslední otázka
+- Son Soru
+- The Last Question
+- Ultima întrebare
+- Wenn die Sterne verlöschen
+- Останнє запитання
+- Последний вопрос
+- Վերջին հարցը
+- השאלה האחרונה
+- سؤال آخر
+- 最後の質問
+- 最後的問題
+- 최후의 질문
+---
 # [[Last_Question(Asimov)]] 
 
 

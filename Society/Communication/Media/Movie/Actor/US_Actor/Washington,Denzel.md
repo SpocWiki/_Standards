@@ -1,11 +1,172 @@
 ---
 aliases:
-  - Denzel_Washington
-  - Denzel Washington
-  - Denzel Hayes Washington Jr.
-  - Washington,Denzel
+- Denzel Hayes Washington Jr.
+- Denzel Vaşinqton
+- Denzel Washington
+- Denzels Vašingtons
+- Denzel_Washington
+- Washington,Denzel
+- Ντένζελ Ουάσινγκτον
+- Дензел Вашингтон
+- Дензел Вашинґтон
+- Дензел Вашиңтон
+- Дензел Вошингтон
+- Дензел Уашиҥтон
+- Дензъл Уошингтън
+- Дэнзел Вашынгтон
+- Дэнзэл Вашынгтон
+- Դենզել Վաշինգտոն
+- דנזל וושינגטון
+- دنزل واشنطن
+- دنزل واشینقتن
+- دنزل واشینگتن
+- دينزيل واشينطون
+- دێنزڵ واشینگتن
+- ڈینزل واشنگٹن
+- ڈینزل واشِنٛگٹن
+- डेंज़ल वॉशिंगटन
+- डेन्झेल वॉशिंग्टन
+- ডেনজেল ওয়াশিংটন
+- ਡੇਨਜ਼ਲ ਵਾਸ਼ਿੰਗਟਨ
+- டென்செல் வாஷிங்டன்
+- డెంజెల్ వాషింగ్టన్
+- ഡെൻസൽ വാഷിങ്ടൺ
+- ඩෙන්සල් වොශින්ග්ටන්
+- เดนเซล วอชิงตัน
+- დენზელ ვაშინგტონი
+- ឌែនហ្សល វ៉ាស៊ីនតុន
+- デンゼル・ワシントン
+- 丹佐·华盛顿
+- 丹佐·華盛頓
+- 丹泽尔·华盛顿
+- 丹素·华盛顿
+- 丹素·華盛頓
+- 丹素華盛頓
+- 덴절 워싱턴
+has_id_wikidata: Q42101
+dv_has_:
+  name_:
+    ace: Denzel Washington
+    af: Denzel Washington
+    an: Denzel Washington
+    ar: دنزل واشنطن
+    arz: دينزيل واشينطون
+    ast: Denzel Washington
+    az: Denzel Vaşinqton
+    azb: دنزل واشینقتن
+    be: Дэнзел Вашынгтон
+    be-tarask: Дэнзэл Вашынгтон
+    bg: Дензъл Уошингтън
+    bn: ডেনজেল ওয়াশিংটন
+    br: Denzel Washington
+    bs: Denzel Washington
+    ca: Denzel Washington
+    ckb: دێنزڵ واشینگتن
+    co: Denzel Washington
+    cs: Denzel Washington
+    cy: Denzel Washington
+    da: Denzel Washington
+    de: Denzel Washington
+    de-ch: Denzel Washington
+    el: Ντένζελ Ουάσινγκτον
+    eml: Denzel Washington
+    en: Denzel Washington
+    en-ca: Denzel Washington
+    en-gb: Denzel Washington
+    eo: Denzel Washington
+    es: Denzel Washington
+    et: Denzel Washington
+    eu: Denzel Washington
+    fa: دنزل واشینگتن
+    fi: Denzel Washington
+    fr: Denzel Washington
+    fy: Denzel Washington
+    ga: Denzel Washington
+    gl: Denzel Washington
+    guw: Denzel Washington
+    gv: Denzel Washington
+    ha: Denzel Washington
+    he: דנזל וושינגטון
+    hi: डेंज़ल वॉशिंगटन
+    hr: Denzel Washington
+    ht: Denzel Washington
+    hu: Denzel Washington
+    hy: Դենզել Վաշինգտոն
+    id: Denzel Washington
+    ie: Denzel Washington
+    ig: Denzel Washington
+    ilo: Denzel Washington
+    io: Denzel Washington
+    it: Denzel Washington
+    ja: デンゼル・ワシントン
+    jv: Denzel Washington
+    ka: დენზელ ვაშინგტონი
+    kk: Дензел Вашингтон
+    kl: Denzel Washington
+    km: ឌែនហ្សល វ៉ាស៊ីនតុន
+    ko: 덴절 워싱턴
+    ks: ڈینزل واشِنٛگٹن
+    ky: Дензел Вашиңтон
+    la: Denzel Washington
+    lb: Denzel Washington
+    lt: Denzel Washington
+    lv: Denzels Vašingtons
+    mg: Denzel Washington
+    mk: Дензел Вашингтон
+    ml: ഡെൻസൽ വാഷിങ്ടൺ
+    mn: Дензел Вашингтон
+    mr: डेन्झेल वॉशिंग्टन
+    ms: Denzel Washington
+    mul: Denzel Washington
+    nan: Denzel Washington
+    nb: Denzel Washington
+    nl: Denzel Washington
+    nn: Denzel Washington
+    oc: Denzel Washington
+    om: Denzel Washington
+    pa: ਡੇਨਜ਼ਲ ਵਾਸ਼ਿੰਗਟਨ
+    pl: Denzel Washington
+    pms: Denzel Washington
+    pt: Denzel Washington
+    pt-br: Denzel Washington
+    qu: Denzel Washington
+    ro: Denzel Washington
+    ru: Дензел Вашингтон
+    sah: Дензел Уашиҥтон
+    sh: Denzel Washington
+    si: ඩෙන්සල් වොශින්ග්ටන්
+    sk: Denzel Washington
+    sl: Denzel Washington
+    so: Denzel Washington
+    sq: Denzel Washington
+    sr: Дензел Вошингтон
+    srn: Denzel Washington
+    sv: Denzel Washington
+    sw: Denzel Washington
+    ta: டென்செல் வாஷிங்டன்
+    te: డెంజెల్ వాషింగ్టన్
+    tg: Дензел Вашингтон
+    th: เดนเซล วอชิงตัน
+    tl: Denzel Washington
+    tr: Denzel Washington
+    uk: Дензел Вашинґтон
+    ur: ڈینزل واشنگٹن
+    uz: Denzel Washington
+    vi: Denzel Washington
+    war: Denzel Washington
+    wuu: 丹泽尔·华盛顿
+    xmf: დენზელ ვაშინგტონი
+    yo: Denzel Washington
+    yue: 丹素華盛頓
+    zh: 丹泽尔·华盛顿
+    zh-cn: 丹泽尔·华盛顿
+    zh-hans: 丹泽尔·华盛顿
+    zh-hant: 丹佐·華盛頓
+    zh-hk: 丹素·華盛頓
+    zh-my: 丹素·华盛顿
+    zh-sg: 丹佐·华盛顿
+    zh-tw: 丹佐·華盛頓
 ---
-
 # [[Washington,Denzel]] 
 
 #has_/time_/started :: 1954-12-28 

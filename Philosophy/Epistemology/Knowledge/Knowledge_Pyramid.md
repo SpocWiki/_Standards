@@ -1,14 +1,56 @@
 ---
 aliases:
-  - Knowledge Pyramid
-  - knowledge hierarchy
-  - information hierarchy
-  - DIKW hierarchy
-  - wisdom hierarchy
-  - data pyramid
-  - information pyramid
+- data pyramid
+- Data, informasjon, kunnskap og visdom
+- DIKW
+- DIKW hierarchy
+- DIKW Pyramid
+- DIKW pyramida
+- DIKW-pyramidi
+- DIKW体系
+- DIKW體系
+- Hierarquia DIKW
+- information hierarchy
+- information pyramid
+- Informācijas piramīda
+- jerarquia del coneixement
+- jerarquía del conocimiento
+- knowledge hierarchy
+- Knowledge Pyramid
+- Podatak, informacija, znanje
+- Pyramide DICS
+- Tarkuse püramiid
+- wisdom hierarchy
+- Wissenspyramide
+- هرم المعلومات
+- هرم دادح
+- ھەرەمی دیکو
+has_id_wikidata: Q2628489
+dv_has_:
+  name_:
+    ar: هرم المعلومات
+    ca: jerarquia del coneixement
+    ckb: ھەرەمی دیکو
+    cs: DIKW pyramida
+    de: Wissenspyramide
+    en: DIKW Pyramid
+    es: jerarquía del conocimiento
+    et: Tarkuse püramiid
+    fa: هرم دادح
+    fi: DIKW-pyramidi
+    fr: Pyramide DICS
+    hr: Podatak, informacija, znanje
+    lv: Informācijas piramīda
+    nb: Data, informasjon, kunnskap og visdom
+    pt: Hierarquia DIKW
+    ru: DIKW
+    uk: DIKW
+    yue: DIKW體系
+    zh: DIKW体系
+    zh-hans: DIKW体系
+    zh-hant: DIKW體系
+    zh-hk: DIKW體系
 ---
-
 # [[Knowledge_Pyramid]] 
 
 #is_/same_as :: [[Knowledge Pyramid,]]

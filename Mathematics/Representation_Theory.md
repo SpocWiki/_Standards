@@ -1,16 +1,98 @@
 ---
 aliases:
+- damcaniaeth gynrychioladol
+- Darstellungstheorie
+- Errepresentazioaren teoria
+- Esitysteoria
+- Lý thuyết biểu diễn
+- prezenta teorio
+- representasjonsteori
+- representatietheorie
+- representation theory
+- Repræsentationsteori
+- Temsil teorisi
+- Teori representasi
+- teoria de la representació
+- teoria de representação
+- teoria delle rappresentazioni
+- teoria reprezentacji
+- teoria reprezentării
+- teorie reprezentací
+- teorija reprezentacij
+- Teorija reprezentacije
+- teoría da representación
+- teoría de la representación
+- théorie des représentations
+- Θεωρία αναπαραστάσεων
+- Күрһәтмәләр теорияһы
+- Майлаштарусен теорийĕ
+- теорія представлень
+- теорија на претставувањето
+- теория представлений
+- тэорыя выяўленьняў
+- тэорыя прадстаўленняў
+- תורת ההצגות
+- نظرية التمثيل
+- نظریه نمایش
+- প্রতিনিধিত্বের তত্ত্ব
+- 表現論
+- 表示論
+- 表示论
+- 표현론
 has_id_wikidata: Q13220368
-instance_of: "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-is_the_study_of: "[[_Standards/WikiData/WD~linear_representation,77978698]]"
+instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+is_the_study_of: '[[_Standards/WikiData/WD~linear_representation,77978698]]'
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/representation-theory
-  - https://mathoverflow.net/tags/rt.representation-theory
-  - https://physics.stackexchange.com/tags/representation-theory
+- https://math.stackexchange.com/tags/representation-theory
+- https://mathoverflow.net/tags/rt.representation-theory
+- https://physics.stackexchange.com/tags/representation-theory
 Commons_category: Representation theory
+dv_has_:
+  name_:
+    ar: نظرية التمثيل
+    ba: Күрһәтмәләр теорияһы
+    be: тэорыя прадстаўленняў
+    be-tarask: тэорыя выяўленьняў
+    bn: প্রতিনিধিত্বের তত্ত্ব
+    ca: teoria de la representació
+    cs: teorie reprezentací
+    cv: Майлаштарусен теорийĕ
+    cy: damcaniaeth gynrychioladol
+    da: Repræsentationsteori
+    de: Darstellungstheorie
+    el: Θεωρία αναπαραστάσεων
+    en: representation theory
+    en-ca: Representation theory
+    en-gb: representation theory
+    eo: prezenta teorio
+    es: teoría de la representación
+    eu: Errepresentazioaren teoria
+    fa: نظریه نمایش
+    fi: Esitysteoria
+    fr: théorie des représentations
+    gl: teoría da representación
+    he: תורת ההצגות
+    id: Teori representasi
+    it: teoria delle rappresentazioni
+    ja: 表現論
+    ko: 표현론
+    mk: теорија на претставувањето
+    nb: representasjonsteori
+    nl: representatietheorie
+    pl: teoria reprezentacji
+    pt: teoria de representação
+    pt-br: teoria de representação
+    ro: teoria reprezentării
+    ru: теория представлений
+    sl: teorija reprezentacij
+    sr: Teorija reprezentacije
+    tr: Temsil teorisi
+    uk: теорія представлень
+    vi: Lý thuyết biểu diễn
+    yue: 表示論
+    zh: 表示论
 ---
-
 # [[Representation_Theory]] 
 
 #is_/same_as :: [[WD~Representation_theory,13220368]] 

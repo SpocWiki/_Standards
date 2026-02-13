@@ -1,24 +1,151 @@
 ---
 aliases:
+- artbildning
+- Artbildung
+- artsdannelse
+- artsdanning
+- especiació
+- especiación
+- especiação
+- Espesyasyon
+- Espeziazio
+- fajképződés
+- I-Speciation
+- lajiutuminen
+- Liigiteke
+- Növləşmə
+- Penspesiesan
+- Powstawanie gatunków
+- rhywogaethu
+- soortvorming
+- speciace
+- speciacija
+- speciation
+- speciazione
+- Speciație
+- speciigo
+- Specijacija
+- Speciácia
+- spesiasi
+- spesiatione
+- Spesievorming
+- spéciation
+- sugu veidošanās
+- sự hình thành loài
+- Turlanish
+- türleşme
+- Ειδογένεση
+- відаўтварэнне
+- видообразба
+- видообразование
+- Видообразуване
+- видоутворення
+- Тĕссем пулса кайни (биологи)
+- Түрдің пайда болуы
+- төрләр барлыкка килүе
+- Տեսակառաջացում
+- היווצרות המינים
+- انتواع
+- سپېسيېشن/ د ډولونو رامنځته کېدل
+- گونهزایی
+- जातिउद्भवन
+- প্রজাত্যায়ন
+- જાતિનિર્માણ
+- சிற்றினத்தோற்றம்
+- ಜಾತೀಕರಣ
+- විශේෂ ප්රාප්තිය
+- การเกิดสปีชีส์
+- 物种形成
+- 物種形成
+- 種分化
+- 종분화
 has_id_wikidata: Q39350
-opposite_of: "[[_Standards/WikiData/WD~extinction,123509]]"
-has_characteristic: "[[_Standards/WikiData/WD~reproductive_isolation,572872]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Speciation,14326286]]"
-subclass_of: "[[_Standards/WikiData/WD~evolutionary_process,18054608]]"
+opposite_of: '[[_Standards/WikiData/WD~extinction,123509]]'
+has_characteristic: '[[_Standards/WikiData/WD~reproductive_isolation,572872]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Speciation,14326286]]'
+subclass_of: '[[_Standards/WikiData/WD~evolutionary_process,18054608]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
-studied_by: "[[_Standards/WikiData/WD~speciation_and_extinction,113042730]]"
-has_effect: "[[_Standards/WikiData/WD~species,7432]]"
-has_part_s_: "[[_Standards/WikiData/WD~mutation,42918]]"
-OmegaWiki_Defined_Meaning: "966267"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+studied_by: '[[_Standards/WikiData/WD~speciation_and_extinction,113042730]]'
+has_effect: '[[_Standards/WikiData/WD~species,7432]]'
+has_part_s_: '[[_Standards/WikiData/WD~mutation,42918]]'
+OmegaWiki_Defined_Meaning: 966267
 UMLS_CUI: C1563692
 MeSH_tree_code:
-  - G05.045.350
-  - G16.075.350
+- G05.045.350
+- G16.075.350
 Commons_category: Speciation
+dv_has_:
+  name_:
+    af: Spesievorming
+    ar: انتواع
+    az: Növləşmə
+    be: відаўтварэнне
+    bg: Видообразуване
+    bn: প্রজাত্যায়ন
+    bs: Specijacija
+    ca: especiació
+    cs: speciace
+    cv: Тĕссем пулса кайни (биологи)
+    cy: rhywogaethu
+    da: artsdannelse
+    de: Artbildung
+    el: Ειδογένεση
+    en: speciation
+    eo: speciigo
+    es: especiación
+    et: Liigiteke
+    eu: Espeziazio
+    fa: گونهزایی
+    fi: lajiutuminen
+    fr: spéciation
+    gl: Especiación
+    gu: જાતિનિર્માણ
+    he: היווצרות המינים
+    hi: जातिउद्भवन
+    hr: specijacija
+    ht: Espesyasyon
+    hu: fajképződés
+    hy: Տեսակառաջացում
+    ia: Speciation
+    id: spesiasi
+    it: speciazione
+    ja: 種分化
+    kk: Түрдің пайда болуы
+    kn: ಜಾತೀಕರಣ
+    ko: 종분화
+    lv: sugu veidošanās
+    mk: видообразба
+    ms: Penspesiesan
+    nb: artsdannelse
+    nl: soortvorming
+    nn: artsdanning
+    nov: spesiatione
+    pl: Powstawanie gatunków
+    ps: سپېسيېشن/ د ډولونو رامنځته کېدل
+    pt: especiação
+    ro: Speciație
+    ru: видообразование
+    sh: Specijacija
+    si: විශේෂ ප්රාප්තිය
+    sk: Speciácia
+    sl: speciacija
+    sr: Specijacija
+    sv: artbildning
+    ta: சிற்றினத்தோற்றம்
+    th: การเกิดสปีชีส์
+    tl: Espesyasyon
+    tr: türleşme
+    tt: төрләр барлыкка килүе
+    uk: видоутворення
+    uz: Turlanish
+    vi: sự hình thành loài
+    wuu: 物种形成
+    xh: I-Speciation
+    yue: 物種形成
+    zh: 物种形成
 ---
-
 # [[Speciation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~speciation,39350]] 

@@ -1,36 +1,231 @@
 ---
 aliases:
-  - Unit~Year
+- aasta
+- aastak
+- Acha
+- afammi
+- afi
+- afọ
+- ainnèe
+- an
+- anio
+- ann
+- anno
+- annu
+- annus
+- année
+- ano
+- ano(s)
+- ans
+- anu
+- any
+- anyo
+- anêye
+- ary
+- aseggas
+- asggʷas
+- at
+- aun
+- aña
+- año
+- añu
+- a̱lyia̱
+- banwa
+- bereȟ
+- bersh
+- bi
+- bledhen
+- blein
+- bliadhna
+- bliain
+- bloaz
+- blwyddyn
+- cavilj
+- eeʹǩǩ
+- fe
+- gads
+- godina
+- gore
+- gēar
+- ier
+- ihe
+- il
+- jaar
+- jaepie
+- jaer
+- jahke
+- jahki
+- Jahr
+- jaor
+- jaro
+- jier
+- joar
+- Joer
+- Johr
+- juar
+- jıl
+- kawas
+- lane
+- lannen
+- lembe
+- leto
+- lěto
+- makahiki
+- mara
+- metai
+- metā
+- mihcaan
+- mobu
+- mwaka
+- nanca
+- ngièn
+- ngwaga
+- nièng
+- nî
+- năm
+- owhe
+- pipon
+- pɩnaɣ
+- rok
+- saal
+- sal
+- sanad
+- sene
+- shekara
+- sol
+- såkkan
+- tahun
+- taon
+- taona
+- tau
+- taun
+- tawen
+- tenpo sike
+- toun
+- Tshidimu
+- tuig
+- ukiuq
+- umwaka
+- Unit~Year
+- urte
+- viti
+- voz'
+- vuosi
+- vuozi
+- warsa
+- wata
+- xihuitl
+- yabaki
+- yari
+- yaro
+- year
+- yia
+- yil
+- yıl
+- ànno
+- ár
+- år
+- év
+- έτος
+- аз
+- ар
+- ашықәс
+- год
+- година
+- джыл
+- ел
+- жил
+- жыл
+- жэл
+- и
+- идалык
+- ие
+- йис
+- йыл
+- киза
+- лѣто
+- рік
+- сол
+- сон
+- сыл
+- шо
+- шу
+- ҫулталăк
+- տարի
+- יאר
+- שנה
+- ؤری
+- ایل
+- تاهون
+- سال
+- ساڵ
+- سنة
+- سنه
+- عام
+- ورھا
+- يىل
+- کال
+- ܫܢܬܐ
+- ߛߊ߲߭
+- दँ
+- वर्ष
+- वर्षः
+- साल
+- বছর
+- বছৰ
+- ਸਾਲ
+- વર્ષ
+- ବର୍ଷ
+- ஆண்டு
+- సంవత్సరం
+- ವರ್ಷ
+- വർഷം
+- වර්ෂය
+- ปี
+- ປີ
+- ལོ་
+- သက္ကရာဇ်
+- წანა
+- წელი
+- አመት
+- ᏑᏕᏘᏴᏓ
+- ᐅᑭᐅᖅ
+- ọdún
+- ἔτος
+- 年
+- ꯆꯩꯍꯤ
+- 년
+- "\U0001033E\U00010334\U00010342"
 has_id_wikidata: Q577
 based_on: '[[_Standards/WikiData/WD~heliocentric_orbit,737809]]'
 Commons_category: Years
 conversion_to_standard_unit:
-  - 12
-  - 31558000
-  - 365.25
+- 12
+- 31558000
+- 365.25
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-  - '[[_Standards/WikiData/WD~annum,1092296]]'
-  - '[[_Standards/WikiData/WD~Q2851823,2851823]]'
-  - '[[_Standards/WikiData/WD~calendar_year,3186692]]'
-  - '[[_Standards/WikiData/WD~year_of_the_French_Republican_Calendar,16929628]]'
-  - '[[_Standards/WikiData/WD~Julian_calendar_year,107500825]]'
-  - '[[_Standards/WikiData/WD~Byzantine_calendar_year,107500860]]'
-  - '[[_Standards/WikiData/WD~Assyrian_calendar_year,107500883]]'
-  - '[[_Standards/WikiData/WD~Swedish_calendar_year,107507224]]'
-  - '[[_Standards/WikiData/WD~Ab_urbe_condita,107507800]]'
+- '[[_Standards/WikiData/WD~annum,1092296]]'
+- '[[_Standards/WikiData/WD~Q2851823,2851823]]'
+- '[[_Standards/WikiData/WD~calendar_year,3186692]]'
+- '[[_Standards/WikiData/WD~year_of_the_French_Republican_Calendar,16929628]]'
+- '[[_Standards/WikiData/WD~Julian_calendar_year,107500825]]'
+- '[[_Standards/WikiData/WD~Byzantine_calendar_year,107500860]]'
+- '[[_Standards/WikiData/WD~Assyrian_calendar_year,107500883]]'
+- '[[_Standards/WikiData/WD~Swedish_calendar_year,107507224]]'
+- '[[_Standards/WikiData/WD~Ab_urbe_condita,107507800]]'
 equivalent_class: http://dbpedia.org/ontology/Year
 exact_match:
-  - https://www.w3.org/TR/owl-time/#time:unitYear
-  - http://dati.beniculturali.it/cis/Year
+- https://www.w3.org/TR/owl-time/#time:unitYear
+- http://dati.beniculturali.it/cis/Year
 has_part_s_: '[[_Standards/WikiData/WD~month,5151]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Analemma%20fishburn.tif
 instance_of: '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
@@ -42,25 +237,297 @@ part_of: '[[_Standards/WikiData/WD~Q3411974,3411974]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27094353,27094353]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Holocene_calendar_year,107500562]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~time_interval,186081]]'
-  - '[[_Standards/WikiData/WD~orbital_period,37640]]'
+- '[[_Standards/WikiData/WD~time_interval,186081]]'
+- '[[_Standards/WikiData/WD~orbital_period,37640]]'
 subdivision_of_this_unit: '[[_Standards/WikiData/WD~quarter,1643308]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Year_nav,5409481]]'
 UCUM_code: a
 unit_symbol:
-  - j.
-  - l.
-  - год
-  - a
-  - a
-  - г.
-  - год.
+- j.
+- l.
+- год
+- a
+- a
+- г.
+- год.
 Wikidata_time_precision: 9
 Wolfram_Language_entity_code: Entity["Concept", "Year::qcz76"]
 Wolfram_Language_unit_code: '"Years"'
+dv_has_:
+  name_:
+    ab: ашықәс
+    aeb-arab: عام
+    af: jaar
+    ak: afi
+    am: አመት
+    an: anyo
+    ang: gēar
+    ann: Acha
+    ar: سنة
+    arc: ܫܢܬܐ
+    arq: عام
+    ary: عام
+    arz: سنه
+    as: বছৰ
+    ast: añu
+    atj: pipon
+    av: сон
+    ay: mara
+    az: il
+    azb: ایل
+    ba: йыл
+    ban: warsa
+    bar: Joar
+    bcl: taon
+    be: год
+    be-tarask: год
+    bg: година
+    bho: साल
+    bjn: tahun
+    bn: বছর
+    bo: ལོ་
+    br: bloaz
+    bs: godina
+    bxr: жэл
+    ca: any
+    cbk-zam: año
+    cdo: nièng
+    ce: шо
+    ceb: tuig
+    ch: såkkan
+    cho: afammi
+    chr: ᏑᏕᏘᏴᏓ
+    ckb: ساڵ
+    co: annu
+    crh: yıl
+    crh-ro: sene
+    cs: rok
+    csb: rok
+    cu: лѣто
+    cv: ҫулталăк
+    cy: blwyddyn
+    da: år
+    de: Jahr
+    de-at: Jahr
+    de-ch: Jahr
+    dsb: lěto
+    dtp: toun
+    dty: वर्ष
+    ee: fe
+    el: έτος
+    eml: an
+    en: year
+    en-ca: year
+    en-gb: year
+    eo: jaro
+    es: año
+    et: aasta
+    eu: urte
+    ext: añu
+    fa: سال
+    fi: vuosi
+    fj: yabaki
+    fo: ár
+    fr: année
+    frp: an
+    frr: juar
+    fur: an
+    fy: jier
+    ga: bliain
+    gan: 年
+    gcr: lannen
+    gd: bliadhna
+    gl: ano
+    gn: ary
+    got: "\U0001033E\U00010334\U00010342"
+    gpe: year
+    grc: ἔτος
+    gsw: Johr
+    gu: વર્ષ
+    guw: owhe
+    gv: blein
+    ha: shekara
+    hak: ngièn
+    haw: makahiki
+    he: שנה
+    hi: वर्ष
+    hif: saal
+    hr: godina
+    hsb: lěto
+    ht: lane
+    hu: év
+    hy: տարի
+    ia: anno
+    id: tahun
+    ie: annu
+    ig: afọ
+    ik: ukiuq
+    ilo: tawen
+    inh: шу
+    io: yaro
+    is: ár
+    it: anno
+    iu: ᐅᑭᐅᖅ
+    ja: 年
+    jam: ier
+    jbo: nanca
+    jv: taun
+    ka: წელი
+    kaa: jıl
+    kab: aseggas
+    kbp: pɩnaɣ
+    kcg: a̱lyia̱
+    kge: tahun
+    kk: жыл
+    kn: ವರ್ಷ
+    ko: 년
+    krc: джыл
+    ks: ؤری
+    ku: sal
+    kw: bledhen
+    ky: жыл
+    la: annus
+    lad: año
+    lb: Joer
+    lez: йис
+    lfn: anio
+    li: jaor
+    lij: ànno
+    lld: ann
+    lmo: ann
+    ln: mobu
+    lo: ປີ
+    lt: metai
+    lua: Tshidimu
+    lv: gads
+    lzh: 年
+    mag: वर्ष
+    mai: साल
+    map-bms: taun
+    mdf: киза
+    mg: taona
+    mhr: идалык
+    mi: tau
+    min: tahun
+    mk: година
+    ml: വർഷം
+    mn: жил
+    mni: ꯆꯩꯍꯤ
+    mr: वर्ष
+    mrj: и
+    ms: tahun
+    ms-arab: تاهون
+    my: သက္ကရာဇ်
+    myv: ие
+    mzn: سال
+    nah: xihuitl
+    nan: nî
+    nap: anno
+    nb: år
+    nds: Johr
+    nds-nl: jaor
+    ne: वर्ष
+    new: दँ
+    nl: jaar
+    nn: år
+    nqo: ߛߊ߲߭
+    nrm: aun
+    nso: ngwaga
+    oc: ans
+    olo: vuozi
+    or: ବର୍ଷ
+    os: аз
+    pa: ਸਾਲ
+    pam: banwa
+    pap: aña
+    pcd: ainnèe
+    pl: rok
+    pms: ann
+    pnb: ورھا
+    ps: کال
+    pt: ano
+    pt-br: ano(s)
+    pwn: cavilj
+    qu: wata
+    rmf: bereȟ
+    rmy: bersh
+    ro: an
+    ru: год
+    rue: рік
+    rup: anu
+    rw: umwaka
+    sa: वर्षः
+    sah: сыл
+    sc: annu
+    scn: annu
+    sco: year
+    sd: سال
+    se: jahki
+    sgs: metā
+    sh: godina
+    shi: asggʷas
+    si: වර්ෂය
+    sje: jahke
+    sk: rok
+    sl: leto
+    sma: jaepie
+    smj: jahke
+    smn: ihe
+    sms: eeʹǩǩ
+    sn: gore
+    so: sanad
+    sq: viti
+    sr: година
+    sr-el: godina
+    srn: yari
+    su: taun
+    sv: år
+    sw: mwaka
+    szl: rok
+    szy: mihcaan
+    ta: ஆண்டு
+    tay: kawas
+    te: సంవత్సరం
+    tg: сол
+    tg-latn: sol
+    th: ปี
+    tl: taon
+    tok: tenpo sike
+    tpi: yia
+    tr: yıl
+    ts: lembe
+    tt: ел
+    tt-latn: yıl
+    udm: ар
+    ug: يىل
+    uk: рік
+    ur: سال
+    uz: yil
+    vec: an
+    vep: voz'
+    vi: năm
+    vls: joar
+    vro: aastak
+    wa: anêye
+    war: tuig
+    wo: at
+    wuu: 年
+    xmf: წანა
+    yi: יאר
+    yo: ọdún
+    yue: 年
+    za: bi
+    zea: jaer
+    zh: 年
+    zh-cn: 年
+    zh-hans: 年
+    zh-hant: 年
+    zh-hk: 年
+    zh-mo: 年
+    zh-my: 年
+    zh-sg: 年
+    zh-tw: 年
 ---
-
-
 # [[Unit~Year]] 
 
 #is_a_/unit_/for_/time 

@@ -1,92 +1,115 @@
 ---
 aliases:
-  - Peter_Gabriel
-  - Peter Brian Gabriel
-  - Peter Gabriel
-  - Gabriel
-  - Gabriel,Peter
+- Bäda Gobril
+- Gabriel
+- Gabriel,Peter
+- Peter Brian Gabriel
+- Peter Gabriel
+- Peter_Gabriel
+- Petrus Gabriel
+- Pīters Geibriels
+- Πίτερ Γκάμπριελ
+- Пітер Гебріел
+- Пітэр Гэбрыел
+- Петер Габриел
+- Питер Гејбриел
+- Питер Гэбриел
+- Питър Гейбриъл
+- Փիթեր Գեբրիել
+- פיטר גבריאל
+- بيتر جابرييل
+- بيتر غابرييل
+- پیتر قابریل
+- پیتر گابریل
+- ਪੀਟਰ ਗੈਬਰੀਅਲ
+- ปีเตอร์ กาเบรียล
+- პიტერ გებრიელი
+- ピーター・ガブリエル
+- 彼得·盖布瑞尔
+- 彼得·蓋布瑞爾
+- 피터 가브리엘
 has_id_wikidata: Q175195
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Rosanna_Arquette,109232]]'
-  - "[[_Standards/WikiData/WD~Sinéad_O'Connor,193982]]"
+- '[[_Standards/WikiData/WD~Rosanna_Arquette,109232]]'
+- "[[_Standards/WikiData/WD~Sinéad_O'Connor,193982]]"
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Genesis_Award,135498]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Visual_Effects,372123]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Song_Written_for_Visual_Media,428808]]'
-  - '[[_Standards/WikiData/WD~North_South_Prize,577755]]'
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
-  - '[[_Standards/WikiData/WD~Michael_Jackson_Video_Vanguard_Award,821861]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Editing,847813]]'
-  - '[[_Standards/WikiData/WD~Ambassador_of_Conscience_Award,894841]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Direction,915665]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Art_Direction,917698]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Overall_Performance,981339]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Male_Video,1064978]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Video_of_the_Year,1065651]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Concept_Video,1161113]]'
-  - '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Most_Experimental_Video,1161132]]'
-  - '[[_Standards/WikiData/WD~Frankfurter_Musikpreis,1445005]]'
-  - '[[_Standards/WikiData/WD~Q_Awards,1783310]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Video,2976730]]'
-  - '[[_Standards/WikiData/WD~BT_Digital_Music_Awards,4836750]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
-  - '[[_Standards/WikiData/WD~CASBY_Award,5008850]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Arrangement,_Instrumental_or_A_Cappella,5593816]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_New_Age_Album,5593841]]'
-  - '[[_Standards/WikiData/WD~GAFFA_Prisen,16323609]]'
-  - '[[_Standards/WikiData/WD~Brit_Award_for_British_Male_Solo_Artist,48770227]]'
-  - '[[_Standards/WikiData/WD~Brit_Award_for_British_Video_of_the_Year,55605955]]'
-  - '[[_Standards/WikiData/WD~Brit_Award_for_British_Producer_of_the_Year,60756417]]'
-  - '[[_Standards/WikiData/WD~BMI_London_Awards,111538241]]'
-  - '[[_Standards/WikiData/WD~Ivor_Novello_Awards,61116]]'
+- '[[_Standards/WikiData/WD~Genesis_Award,135498]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Visual_Effects,372123]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Song_Written_for_Visual_Media,428808]]'
+- '[[_Standards/WikiData/WD~North_South_Prize,577755]]'
+- "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
+- '[[_Standards/WikiData/WD~Michael_Jackson_Video_Vanguard_Award,821861]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Editing,847813]]'
+- '[[_Standards/WikiData/WD~Ambassador_of_Conscience_Award,894841]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Direction,915665]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Art_Direction,917698]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Overall_Performance,981339]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Male_Video,1064978]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Video_of_the_Year,1065651]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Concept_Video,1161113]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Most_Experimental_Video,1161132]]'
+- '[[_Standards/WikiData/WD~Frankfurter_Musikpreis,1445005]]'
+- '[[_Standards/WikiData/WD~Q_Awards,1783310]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Video,2976730]]'
+- '[[_Standards/WikiData/WD~BT_Digital_Music_Awards,4836750]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
+- '[[_Standards/WikiData/WD~CASBY_Award,5008850]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Arrangement,_Instrumental_or_A_Cappella,5593816]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_New_Age_Album,5593841]]'
+- '[[_Standards/WikiData/WD~GAFFA_Prisen,16323609]]'
+- '[[_Standards/WikiData/WD~Brit_Award_for_British_Male_Solo_Artist,48770227]]'
+- '[[_Standards/WikiData/WD~Brit_Award_for_British_Video_of_the_Year,55605955]]'
+- '[[_Standards/WikiData/WD~Brit_Award_for_British_Producer_of_the_Year,60756417]]'
+- '[[_Standards/WikiData/WD~BMI_London_Awards,111538241]]'
+- '[[_Standards/WikiData/WD~Ivor_Novello_Awards,61116]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Genesis,151012]]'
-  - '[[_Standards/WikiData/WD~Garden_Wall,5522360]]'
-  - '[[_Standards/WikiData/WD~Big_Blue_Ball,115728317]]'
+- '[[_Standards/WikiData/WD~Genesis,151012]]'
+- '[[_Standards/WikiData/WD~Garden_Wall,5522360]]'
+- '[[_Standards/WikiData/WD~Big_Blue_Ball,115728317]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 genre:
-  - '[[_Standards/WikiData/WD~new_wave,187760]]'
-  - '[[_Standards/WikiData/WD~art_rock,217467]]'
-  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
-  - '[[_Standards/WikiData/WD~experimental_rock,1641839]]'
-  - '[[_Standards/WikiData/WD~worldbeat,2064394]]'
-  - '[[_Standards/WikiData/WD~art_pop,25094849]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+- '[[_Standards/WikiData/WD~new_wave,187760]]'
+- '[[_Standards/WikiData/WD~art_rock,217467]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~experimental_rock,1641839]]'
+- '[[_Standards/WikiData/WD~worldbeat,2064394]]'
+- '[[_Standards/WikiData/WD~art_pop,25094849]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~progressive_rock,49451]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
-  - '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
-  - '[[_Standards/WikiData/WD~Real_World_Records,325866]]'
-  - '[[_Standards/WikiData/WD~Atco_Records,585643]]'
-  - '[[_Standards/WikiData/WD~Charisma,1063242]]'
+- '[[_Standards/WikiData/WD~Atlantic_Records,202440]]'
+- '[[_Standards/WikiData/WD~Geffen_Records,212699]]'
+- '[[_Standards/WikiData/WD~Real_World_Records,325866]]'
+- '[[_Standards/WikiData/WD~Atco_Records,585643]]'
+- '[[_Standards/WikiData/WD~Charisma,1063242]]'
 influenced_by: '[[_Standards/WikiData/WD~Alejandro_Jodorowsky,263730]]'
 affiliation: '[[_Standards/WikiData/WD~Real_World_Records,325866]]'
 residence:
-  - '[[_Standards/WikiData/WD~Box,895512]]'
-  - '[[_Standards/WikiData/WD~Somerset,23157]]'
+- '[[_Standards/WikiData/WD~Box,895512]]'
+- '[[_Standards/WikiData/WD~Somerset,23157]]'
 educated_at: '[[_Standards/WikiData/WD~Charterhouse_School,1067870]]'
 creator: '[[_Standards/WikiData/WD~The_Elders,1517662]]'
 discography: '[[_Standards/WikiData/WD~Peter_Gabriel_discography,1586022]]'
 child:
-  - '[[_Standards/WikiData/WD~Melanie_Gabriel,1918958]]'
-  - '[[_Standards/WikiData/WD~Anna_Marie_Gabriel,76272661]]'
-  - '[[_Standards/WikiData/WD~Isaac_Ralph_Gabriel,76272668]]'
-  - '[[_Standards/WikiData/WD~Luc_Gabriel,76272669]]'
+- '[[_Standards/WikiData/WD~Melanie_Gabriel,1918958]]'
+- '[[_Standards/WikiData/WD~Anna_Marie_Gabriel,76272661]]'
+- '[[_Standards/WikiData/WD~Isaac_Ralph_Gabriel,76272668]]'
+- '[[_Standards/WikiData/WD~Luc_Gabriel,76272669]]'
 place_of_birth: '[[_Standards/WikiData/WD~Chobham,1986679]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Peter,2793400]]'
-  - '[[_Standards/WikiData/WD~Brian,15930574]]'
+- '[[_Standards/WikiData/WD~Peter,2793400]]'
+- '[[_Standards/WikiData/WD~Brian,15930574]]'
 different_from: '[[_Standards/WikiData/WD~Peter_Gabriel,3376583]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
@@ -98,14 +121,14 @@ represented_by: '[[_Standards/WikiData/WD~Gailforce_Management_Limited,20644002]
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Jill_Georgina_Moore,76240386]]'
-  - '[[_Standards/WikiData/WD~Meabh_Flynn,76272667]]'
+- '[[_Standards/WikiData/WD~Jill_Georgina_Moore,76240386]]'
+- '[[_Standards/WikiData/WD~Meabh_Flynn,76272667]]'
 mother: '[[_Standards/WikiData/WD~Edith_Irene_Allen,76272666]]'
 father: '[[_Standards/WikiData/WD~Ralph_Parton_Gabriel,76272665]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -118,8 +141,8 @@ affiliation_string: Real World
 Libris_URI: hftwzqk10bkhl7t
 work_period_start_: 1967-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Gabriel%2C%20Denver%202023.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20gabriel%2031081978%2002%20400.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20Gabriel%2C%20Denver%202023.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Peter%20gabriel%2031081978%2002%20400.jpg
 birth_name: Peter Brian Gabriel
 name_in_native_language: Peter Gabriel
 date_of_birth: 1950-02-13T00:00:00Z
@@ -132,8 +155,99 @@ IPI_base_code: I-001913694-6
 Instagram_username: itspetergabriel
 X_Twitter_username: itspetergabriel
 Facebook_username: PeterGabriel
+dv_has_:
+  name_:
+    ar: بيتر غابرييل
+    arz: بيتر جابرييل
+    ast: Peter Gabriel
+    azb: پیتر قابریل
+    bar: Bäda Gobril
+    be: Пітэр Гэбрыел
+    be-tarask: Пітэр Гэбрыел
+    bg: Питър Гейбриъл
+    ca: Peter Gabriel
+    co: Peter Gabriel
+    cs: Peter Gabriel
+    cy: Peter Gabriel
+    da: Peter Gabriel
+    dag: Peter Gabriel
+    de: Peter Gabriel
+    de-ch: Peter Gabriel
+    ee: Peter Gabriel
+    el: Πίτερ Γκάμπριελ
+    eml: Peter Gabriel
+    en: Peter Gabriel
+    en-ca: Peter Gabriel
+    en-gb: Peter Gabriel
+    en-us: Peter Gabriel
+    eo: Peter Gabriel
+    es: Peter Gabriel
+    et: Peter Gabriel
+    eu: Peter Gabriel
+    fa: پیتر گابریل
+    fi: Peter Gabriel
+    fr: Peter Gabriel
+    ga: Peter Gabriel
+    gl: Peter Gabriel
+    haw: Peter Gabriel
+    he: פיטר גבריאל
+    hr: Peter Gabriel
+    hu: Peter Gabriel
+    hy: Փիթեր Գեբրիել
+    id: Peter Gabriel
+    ig: Peter Gabriel
+    io: Peter Gabriel
+    it: Peter Gabriel
+    ja: ピーター・ガブリエル
+    ka: პიტერ გებრიელი
+    ko: 피터 가브리엘
+    la: Petrus Gabriel
+    lb: Peter Gabriel
+    lfn: Peter Gabriel
+    lld: Peter Gabriel
+    lt: Peter Gabriel
+    lv: Pīters Geibriels
+    mg: Peter Gabriel
+    mk: Питер Гејбриел
+    mul: Peter Gabriel
+    nb: Peter Gabriel
+    nds: Peter Gabriel
+    nl: Peter Gabriel
+    nn: Peter Gabriel
+    oc: Peter Gabriel
+    pa: ਪੀਟਰ ਗੈਬਰੀਅਲ
+    pl: Peter Gabriel
+    pms: Peter Gabriel
+    pt: Peter Gabriel
+    pt-br: Peter Gabriel
+    ro: Peter Gabriel
+    ru: Питер Гэбриел
+    sah: Петер Габриел
+    sc: Peter Gabriel
+    sco: Peter Gabriel
+    se: Peter Gabriel
+    sh: Peter Gabriel
+    sk: Peter Gabriel
+    sl: Peter Gabriel
+    sq: Peter Gabriel
+    sr: Peter Gabriel
+    sv: Peter Gabriel
+    sw: Peter Gabriel
+    th: ปีเตอร์ กาเบรียล
+    tr: Peter Gabriel
+    tw: Peter Gabriel
+    uk: Пітер Гебріел
+    vi: Peter Gabriel
+    war: Peter Gabriel
+    yue: 彼得·蓋布瑞爾
+    zh: 彼得·蓋布瑞爾
+    zh-cn: 彼得·盖布瑞尔
+    zh-hans: 彼得·盖布瑞尔
+    zh-hant: 彼得·蓋布瑞爾
+    zh-hk: 彼得·蓋布瑞爾
+    zh-sg: 彼得·盖布瑞尔
+    zh-tw: 彼得·蓋布瑞爾
 ---
-
 # [[Gabriel,Peter]] 
 
 #is_/same_as :: [[WD~Peter_Gabriel,175195]] 

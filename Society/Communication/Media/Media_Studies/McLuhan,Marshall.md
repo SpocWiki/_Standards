@@ -1,59 +1,86 @@
 ---
 aliases:
-  - Marshall_McLuhan
-  - Herbert Marshall McLuhan
-  - Marshall McLuhan
-  - McLuhan
-  - McLuhan,Marshall
+- Herbert Marshall McLuhan
+- Marshall McLuhan
+- Marshall_McLuhan
+- Marşall Maklyuen
+- Maršal Makluhan
+- Maršalas Makluhanas
+- McLuhan
+- McLuhan,Marshall
+- Māršals Makluens
+- Μάρσαλ Μακ Λούαν
+- Маршал Маклуън
+- Маршал Маклюэн
+- Маршал Меклуен
+- Маршалл Мак-Люен
+- Маршалл Маклюэн
+- Մարշալ Մակլյուեն
+- מרשל מקלוהן
+- مارشال ماكلوهان
+- مارشال مک لوهان
+- مارشال مکلوهان
+- मार्शल मॅकलुहान
+- मार्शल मैक्लुहान
+- मार्शल म्याकलुहान
+- মার্শাল ম্যাকলুহান
+- ಮಾರ್ಷಲ್ ಮ್ಯಾಕ್ಲುಹಾನ್
+- മാർഷൽ മഹ്ലുഹാൻ
+- マーシャル・マクルーハン
+- 馬歇爾·麥克盧漢
+- 馬素·麥魯恆
+- 马歇尔·麦克卢汉
+- 马素·麦克鲁汉
+- 마샬 맥루한
 has_id_wikidata: Q193871
 employer:
-  - '[[_Standards/WikiData/WD~Fordham_University,130965]]'
-  - '[[_Standards/WikiData/WD~University_of_Toronto,180865]]'
-  - '[[_Standards/WikiData/WD~Saint_Louis_University,734774]]'
+- '[[_Standards/WikiData/WD~Fordham_University,130965]]'
+- '[[_Standards/WikiData/WD~University_of_Toronto,180865]]'
+- '[[_Standards/WikiData/WD~Saint_Louis_University,734774]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~media_studies,165650]]'
-  - '[[_Standards/WikiData/WD~literary_studies,208217]]'
-  - '[[_Standards/WikiData/WD~culturology,1418771]]'
-  - '[[_Standards/WikiData/WD~media_ecology,2583195]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~linguistics,8162]]'
-  - '[[_Standards/WikiData/WD~journalism,11030]]'
-  - '[[_Standards/WikiData/WD~religious_studies,34187]]'
-  - '[[_Standards/WikiData/WD~semantics,39645]]'
-  - '[[_Standards/WikiData/WD~art_history,50637]]'
+- '[[_Standards/WikiData/WD~media_studies,165650]]'
+- '[[_Standards/WikiData/WD~literary_studies,208217]]'
+- '[[_Standards/WikiData/WD~culturology,1418771]]'
+- '[[_Standards/WikiData/WD~media_ecology,2583195]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~linguistics,8162]]'
+- '[[_Standards/WikiData/WD~journalism,11030]]'
+- '[[_Standards/WikiData/WD~religious_studies,34187]]'
+- '[[_Standards/WikiData/WD~semantics,39645]]'
+- '[[_Standards/WikiData/WD~art_history,50637]]'
 occupation:
-  - '[[_Standards/WikiData/WD~rhetorician,361809]]'
-  - '[[_Standards/WikiData/WD~futurist,846430]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~sociologist,2306091]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~rhetorician,361809]]'
+- '[[_Standards/WikiData/WD~futurist,846430]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~sociologist,2306091]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 student: '[[_Standards/WikiData/WD~Walter_J._Ong,722347]]'
 doctoral_student: '[[_Standards/WikiData/WD~Walter_J._Ong,722347]]'
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Molson_Prize,992455]]'
-  - '[[_Standards/WikiData/WD~Person_of_National_Historic_Significance,3253120]]'
-  - "[[_Standards/WikiData/WD~Governor_General's_Award_for_English_language_non_fiction,3405814]]"
-  - '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]'
+- '[[_Standards/WikiData/WD~Molson_Prize,992455]]'
+- '[[_Standards/WikiData/WD~Person_of_National_Historic_Significance,3253120]]'
+- "[[_Standards/WikiData/WD~Governor_General's_Award_for_English_language_non_fiction,3405814]]"
+- '[[_Standards/WikiData/WD~Companion_of_the_Order_of_Canada,15278107]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Manitoba,1191833]]'
-  - '[[_Standards/WikiData/WD~Trinity_Hall,1244704]]'
-  - '[[_Standards/WikiData/WD~Kelvin_High_School,6386678]]'
+- '[[_Standards/WikiData/WD~University_of_Manitoba,1191833]]'
+- '[[_Standards/WikiData/WD~Trinity_Hall,1244704]]'
+- '[[_Standards/WikiData/WD~Kelvin_High_School,6386678]]'
 nominated_for: "[[_Standards/WikiData/WD~Governor_General's_Award_for_English_language_non_fiction,3405814]]"
 place_of_burial: '[[_Standards/WikiData/WD~Holy_Cross_Cemetery,3786374]]'
 child: '[[_Standards/WikiData/WD~Eric_McLuhan,5387077]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 significant_person: '[[_Standards/WikiData/WD~Sheila_Watson,7493167]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]'
-  - '[[_Standards/WikiData/WD~John_M._Kelly_Library,64760824]]'
-  - '[[_Standards/WikiData/WD~University_of_Toronto_Archives_&_Records_Management_Services,64825166]]'
+- '[[_Standards/WikiData/WD~Thomas_Fisher_Rare_Book_Library,7789602]]'
+- '[[_Standards/WikiData/WD~John_M._Kelly_Library,64760824]]'
+- '[[_Standards/WikiData/WD~University_of_Toronto_Archives_&_Records_Management_Services,64825166]]'
 given_name: '[[_Standards/WikiData/WD~Q19819759,19819759]]'
 family_name: '[[_Standards/WikiData/WD~McLuhan,21476579]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
@@ -82,8 +109,87 @@ NLC_authorities: 000218088
 Europeana_entity: agent/base/145344
 Wolfram_Language_entity_code: Entity["Concept", "HerbertMarshallMcLuhan::23f26"]
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/MAK-LYUEN_MARSHALL.html
+dv_has_:
+  name_:
+    af: Marshall McLuhan
+    ar: مارشال ماكلوهان
+    arz: مارشال ماكلوهان
+    ast: Marshall McLuhan
+    az: Marşall Maklyuen
+    be-tarask: Маршал Маклюэн
+    bg: Маршал Маклуън
+    bn: মার্শাল ম্যাকলুহান
+    ca: Marshall McLuhan
+    cs: Marshall McLuhan
+    cy: Marshall McLuhan
+    da: Marshall McLuhan
+    de: Marshall McLuhan
+    el: Μάρσαλ Μακ Λούαν
+    en: Marshall McLuhan
+    eo: Marshall McLuhan
+    es: Marshall McLuhan
+    et: Marshall McLuhan
+    eu: Marshall McLuhan
+    fa: مارشال مکلوهان
+    fi: Marshall McLuhan
+    fr: Marshall McLuhan
+    ga: Marshall McLuhan
+    gl: Marshall McLuhan
+    he: מרשל מקלוהן
+    hi: मार्शल मैक्लुहान
+    hr: Marshall McLuhan
+    hu: Marshall McLuhan
+    hy: Մարշալ Մակլյուեն
+    id: Marshall McLuhan
+    io: Marshall McLuhan
+    is: Marshall McLuhan
+    it: Marshall McLuhan
+    ja: マーシャル・マクルーハン
+    kn: ಮಾರ್ಷಲ್ ಮ್ಯಾಕ್ಲುಹಾನ್
+    ko: 마샬 맥루한
+    la: Marshall McLuhan
+    lb: Marshall McLuhan
+    lt: Maršalas Makluhanas
+    lv: Māršals Makluens
+    mad: Marshall McLuhan
+    mg: Marshall McLuhan
+    mk: Маршал Меклуен
+    ml: മാർഷൽ മഹ്ലുഹാൻ
+    mr: मार्शल मॅकलुहान
+    mul: Marshall McLuhan
+    mzn: مارشال مکلوهان
+    nan: Marshall McLuhan
+    nb: Marshall McLuhan
+    new: मार्शल म्याकलुहान
+    nl: Marshall McLuhan
+    nn: Marshall McLuhan
+    pap: Marshall McLuhan
+    pl: Marshall McLuhan
+    ps: مارشال مک لوهان
+    pt: Marshall McLuhan
+    pt-br: Marshall McLuhan
+    ru: Маршалл Маклюэн
+    sc: Marshall McLuhan
+    sco: Marshall McLuhan
+    sh: Marshall McLuhan
+    sk: Marshall McLuhan
+    sl: Marshall McLuhan
+    sq: Marshall McLuhan
+    sr: Maršal Makluhan
+    sv: Marshall McLuhan
+    tr: Marshall McLuhan
+    uk: Маршалл Мак-Люен
+    uz: Marshall McLuhan
+    vi: Marshall McLuhan
+    war: Marshall McLuhan
+    wuu: 马歇尔·麦克卢汉
+    yue: 馬素·麥魯恆
+    zh: 马歇尔·麦克卢汉
+    zh-cn: 马歇尔·麦克卢汉
+    zh-hans: 马素·麦克鲁汉
+    zh-hant: 馬歇爾·麥克盧漢
+    zh-hk: 馬素·麥魯恆
 ---
-
 # [[McLuhan,Marshall]] 
 
 #is_/same_as :: [[WD~Marshall_McLuhan,193871]] 

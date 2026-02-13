@@ -1,22 +1,170 @@
 ---
 aliases:
-  - ideal gas
-  - Ideal_Gas
-  - Ideal Gas
+- Gas ideal
+- gas ideale
+- Gas perfiech
+- Gas unggul
+- Gaz doskonały
+- Gaz ideal
+- gaz parfait
+- Gazi ideal
+- gás ideal
+- gás idéalach
+- ideaal gas
+- ideaalikaasu
+- ideaalkaasu
+- ideaalne gaas
+- ideal gas
+- Ideal gaz
+- ideala gaso
+- ideales Gas
+- Idealgas
+- Idealiosios dujos
+- Idealni gas
+- Idealni plin
+- Ideal_Gas
+- Ideell gass
+- ideális gáz
+- Ideálny plyn
+- Ideální plyn
+- Ideāla gāze
+- iдэальны газ
+- Khí lý tưởng
+- Kjörgas
+- Lí-sióng khì-thé
+- Ïdeal gaz
+- İdeal gaz
+- İdeal qaz
+- Ιδανικό αέριο
+- Ідеальний газ
+- ідэальны газ
+- Гази идеалӣ
+- Идеал газ
+- Идеалдуу газ
+- Идеален газ
+- Идеален гас
+- Идеалла газ
+- идеални гас
+- Идеальный газ
+- Իդեալական գազ
+- גז אידאלי
+- ايډيال غازات
+- غاز مثالي
+- ىيدەال گاز
+- گاز ایدهآل
+- आदर्श गैस
+- আদর্শ গ্যাস
+- આદર્શ વાયુ
+- இலட்சிய வாயு
+- ആദർശവാതകം
+- แก๊สอุดมคติ
+- იდეალური აირი
+- 理想气体
+- 理想気体
+- 理想氣體
+- 리상기체
+- 이상기체
 has_id_wikidata: Q172280
 has_use: '[[_Standards/WikiData/WD~ideal_gas_law,191785]]'
 instance_of: '[[_Standards/WikiData/WD~scientific_model,193946]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~mathematical_model,486902]]'
-  - '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~mathematical_model,486902]]'
+- '[[_Standards/WikiData/WD~gas,11432]]'
 opposite_of: '[[_Standards/WikiData/WD~real_gas,908724]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/ideal-gas
 Gujarati_Vishwakosh_entry: આદર્શ-વાયુ
+dv_has_:
+  name_:
+    ar: غاز مثالي
+    ast: Gas ideal
+    az: İdeal qaz
+    be: iдэальны газ
+    be-tarask: ідэальны газ
+    bg: Идеален газ
+    bn: আদর্শ গ্যাস
+    bs: Idealni plin
+    ca: gas ideal
+    cs: Ideální plyn
+    cv: Идеалла газ
+    da: Idealgas
+    de: ideales Gas
+    el: Ιδανικό αέριο
+    en: ideal gas
+    eo: ideala gaso
+    es: gas ideal
+    et: ideaalne gaas
+    eu: gas ideal
+    fa: گاز ایدهآل
+    fi: ideaalikaasu
+    fr: gaz parfait
+    ga: gás idéalach
+    gu: આદર્શ વાયુ
+    he: גז אידאלי
+    hi: आदर्श गैस
+    hr: Idealni plin
+    hu: ideális gáz
+    hy: Իդեալական գազ
+    id: Gas ideal
+    is: Kjörgas
+    it: gas ideale
+    ja: 理想気体
+    ka: იდეალური აირი
+    kk: Идеал газ
+    kk-arab: ىيدەال گاز
+    kk-cn: ىيدەال گاز
+    kk-cyrl: Идеал газ
+    kk-kz: Идеал газ
+    kk-latn: Ïdeal gaz
+    kk-tr: Ïdeal gaz
+    ko: 이상기체
+    ko-kp: 리상기체
+    ky: Идеалдуу газ
+    la: Gas ideale
+    lt: Idealiosios dujos
+    lv: Ideāla gāze
+    mk: Идеален гас
+    ml: ആദർശവാതകം
+    ms: Gas unggul
+    nan: Lí-sióng khì-thé
+    nb: Ideell gass
+    nl: ideaal gas
+    nn: Ideell gass
+    oc: Gas perfiech
+    pl: Gaz doskonały
+    pms: Gas ideal
+    ps: ايډيال غازات
+    pt: gás ideal
+    ro: Gaz ideal
+    ru: Идеальный газ
+    sh: Idealni gas
+    sk: Ideálny plyn
+    sl: Idealni plin
+    smn: ideaalkaasu
+    sq: Gazi ideal
+    sr: идеални гас
+    sr-ec: идеални гас
+    sr-el: Idealni gas
+    sv: ideal gas
+    ta: இலட்சிய வாயு
+    tg: Гази идеалӣ
+    th: แก๊สอุดมคติ
+    tr: İdeal gaz
+    uk: Ідеальний газ
+    uz: Ideal gaz
+    vi: Khí lý tưởng
+    wuu: 理想气体
+    yue: 理想氣體
+    zh: 理想氣體
+    zh-cn: 理想气体
+    zh-hans: 理想气体
+    zh-hant: 理想氣體
+    zh-hk: 理想氣體
+    zh-sg: 理想气体
+    zh-tw: 理想氣體
 ---
-
 # [[Ideal_Gas]] 
 
 #is_/same_as :: [[WD~Ideal_gas,172280]] 

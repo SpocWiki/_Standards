@@ -1,112 +1,184 @@
 ---
 aliases:
-  - Élie Joseph Cartan
-  - Élie Cartan
-  - Cartan
-  - Élie_Cartan
+- Cartan
+- Eli Kartan
+- Elie Cartan
+- Elie Kartan
+- Élie Cartan
+- Élie Joseph Cartan
+- Élie_Cartan
+- Ελί Καρτάν
+- Елі Жозеф Картан
+- Элі Картан
+- Эли Картан
+- Էլի Ժոսեֆ Կարտան
+- אלי קרטן
+- إيلي كارتن
+- الی کارتان
+- ايلى كارتن
+- এলি কারতঁ
+- ელი ჟოზეფ კარტანი
+- エリ・カルタン
+- 埃利·嘉当
+- 엘리 카르탕
 has_id_wikidata: Q274639
 educated_at:
-  - "[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]"
-  - "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
-  - "[[_Standards/WikiData/WD~Lycée_Janson_de_Sailly,1431541]]"
-  - "[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]"
-  - "[[_Standards/WikiData/WD~Lycée_Stendhal,3268947]]"
+- '[[_Standards/WikiData/WD~École_Normale_Supérieure,83259]]'
+- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~Lycée_Janson_de_Sailly,1431541]]'
+- '[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]'
+- '[[_Standards/WikiData/WD~Lycée_Stendhal,3268947]]'
 doctoral_student:
-  - "[[_Standards/WikiData/WD~Georges_de_Rham,116966]]"
-  - "[[_Standards/WikiData/WD~Charles_Ehresmann,304712]]"
-  - "[[_Standards/WikiData/WD~Michel_Louis_Guérard_des_Lauriers,705558]]"
-  - "[[_Standards/WikiData/WD~Kentaro_Yano,2541951]]"
-  - "[[_Standards/WikiData/WD~Edgar_B._Schieldrop,5284367]]"
-  - "[[_Standards/WikiData/WD~Germán_Ancochea_Quevedo,5878530]]"
-  - "[[_Standards/WikiData/WD~Mohsen_Hashtroodi,6894417]]"
-  - "[[_Standards/WikiData/WD~Radu_Roșca,12739017]]"
-  - "[[_Standards/WikiData/WD~George_Nikoladze,12863234]]"
-  - "[[_Standards/WikiData/WD~Bernard_d'Orgeval,16626863]]"
-  - "[[_Standards/WikiData/WD~Alexandru_Pantazi,18545169]]"
-  - "[[_Standards/WikiData/WD~Paul_Delens,56071525]]"
-  - "[[_Standards/WikiData/WD~Jacques_Devisme,56884839]]"
-  - "[[_Standards/WikiData/WD~Octave_Galvani,93478451]]"
-  - "[[_Standards/WikiData/WD~Assadollah_Alebouyeh,102978207]]"
-  - "[[_Standards/WikiData/WD~Charles_Racine,103138063]]"
-  - "[[_Standards/WikiData/WD~Lucien_Féraud,116848992]]"
-  - "[[_Standards/WikiData/WD~Louis_Long,116884323]]"
+- '[[_Standards/WikiData/WD~Georges_de_Rham,116966]]'
+- '[[_Standards/WikiData/WD~Charles_Ehresmann,304712]]'
+- '[[_Standards/WikiData/WD~Michel_Louis_Guérard_des_Lauriers,705558]]'
+- '[[_Standards/WikiData/WD~Kentaro_Yano,2541951]]'
+- '[[_Standards/WikiData/WD~Edgar_B._Schieldrop,5284367]]'
+- '[[_Standards/WikiData/WD~Germán_Ancochea_Quevedo,5878530]]'
+- '[[_Standards/WikiData/WD~Mohsen_Hashtroodi,6894417]]'
+- '[[_Standards/WikiData/WD~Radu_Roșca,12739017]]'
+- '[[_Standards/WikiData/WD~George_Nikoladze,12863234]]'
+- "[[_Standards/WikiData/WD~Bernard_d'Orgeval,16626863]]"
+- '[[_Standards/WikiData/WD~Alexandru_Pantazi,18545169]]'
+- '[[_Standards/WikiData/WD~Paul_Delens,56071525]]'
+- '[[_Standards/WikiData/WD~Jacques_Devisme,56884839]]'
+- '[[_Standards/WikiData/WD~Octave_Galvani,93478451]]'
+- '[[_Standards/WikiData/WD~Assadollah_Alebouyeh,102978207]]'
+- '[[_Standards/WikiData/WD~Charles_Racine,103138063]]'
+- '[[_Standards/WikiData/WD~Lucien_Féraud,116848992]]'
+- '[[_Standards/WikiData/WD~Louis_Long,116884323]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]"
-  - "[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]"
-  - "[[_Standards/WikiData/WD~Accademia_Nazionale_dei_Lincei,338432]]"
-  - "[[_Standards/WikiData/WD~Romanian_Academy,901677]]"
-  - "[[_Standards/WikiData/WD~Bureau_des_Longitudes,1010517]]"
-  - "[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]"
-  - "[[_Standards/WikiData/WD~London_Mathematical_Society,1810244]]"
-  - "[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]"
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Netherlands_Academy_of_Arts_and_Sciences,253439]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_dei_Lincei,338432]]'
+- '[[_Standards/WikiData/WD~Romanian_Academy,901677]]'
+- '[[_Standards/WikiData/WD~Bureau_des_Longitudes,1010517]]'
+- '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
+- '[[_Standards/WikiData/WD~London_Mathematical_Society,1810244]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
 child:
-  - "[[_Standards/WikiData/WD~Henri_Cartan,164405]]"
-  - "[[_Standards/WikiData/WD~Jean_Cartan,1685415]]"
-  - "[[_Standards/WikiData/WD~Louis_Cartan,3261437]]"
-  - "[[_Standards/WikiData/WD~Hélène_Cartan,42852773]]"
+- '[[_Standards/WikiData/WD~Henri_Cartan,164405]]'
+- '[[_Standards/WikiData/WD~Jean_Cartan,1685415]]'
+- '[[_Standards/WikiData/WD~Louis_Cartan,3261437]]'
+- '[[_Standards/WikiData/WD~Hélène_Cartan,42852773]]'
 doctoral_advisor:
-  - "[[_Standards/WikiData/WD~Jean_Gaston_Darboux,164784]]"
-  - "[[_Standards/WikiData/WD~Sophus_Lie,30769]]"
+- '[[_Standards/WikiData/WD~Jean_Gaston_Darboux,164784]]'
+- '[[_Standards/WikiData/WD~Sophus_Lie,30769]]'
 occupation:
-  - "[[_Standards/WikiData/WD~physicist,169470]]"
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~university_teacher,1622272]]"
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~differential_geometry,188444]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
-  - "[[_Standards/WikiData/WD~general_relativity,11452]]"
+- '[[_Standards/WikiData/WD~differential_geometry,188444]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~general_relativity,11452]]'
 employer:
-  - "[[_Standards/WikiData/WD~University_of_Paris,209842]]"
-  - "[[_Standards/WikiData/WD~University_of_Montpellier,776223]]"
-  - "[[_Standards/WikiData/WD~Nancy_Université,1249188]]"
-  - "[[_Standards/WikiData/WD~University_of_Lyon,2383462]]"
-  - "[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]"
-  - "[[_Standards/WikiData/WD~University_of_Lyon,10176]]"
+- '[[_Standards/WikiData/WD~University_of_Paris,209842]]'
+- '[[_Standards/WikiData/WD~University_of_Montpellier,776223]]'
+- '[[_Standards/WikiData/WD~Nancy_Université,1249188]]'
+- '[[_Standards/WikiData/WD~University_of_Lyon,2383462]]'
+- '[[_Standards/WikiData/WD~Science_Faculty_of_Paris,3064332]]'
+- '[[_Standards/WikiData/WD~University_of_Lyon,10176]]'
 student:
-  - "[[_Standards/WikiData/WD~Shiing_Shen_Chern,328131]]"
-  - "[[_Standards/WikiData/WD~Paulette_Libermann,1718712]]"
+- '[[_Standards/WikiData/WD~Shiing_Shen_Chern,328131]]'
+- '[[_Standards/WikiData/WD~Paulette_Libermann,1718712]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Lobachevsky_Prize,767840]]"
-  - "[[_Standards/WikiData/WD~Leconte_Prize,3404933]]"
-  - "[[_Standards/WikiData/WD~Poncelet_Prize,3405172]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]"
-  - "[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]"
-place_of_birth: "[[_Standards/WikiData/WD~Dolomieu,1092573]]"
+- '[[_Standards/WikiData/WD~Lobachevsky_Prize,767840]]'
+- '[[_Standards/WikiData/WD~Leconte_Prize,3404933]]'
+- '[[_Standards/WikiData/WD~Poncelet_Prize,3405172]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Legion_of_Honour,10855212]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+place_of_birth: '[[_Standards/WikiData/WD~Dolomieu,1092573]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Cartan_Dieudonné_theorem,2540738]]"
-  - "[[_Standards/WikiData/WD~Cartan's_lemma,5047039]]"
-given_name: "[[_Standards/WikiData/WD~Élie,3587713]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~Cartan_Dieudonné_theorem,2540738]]'
+- "[[_Standards/WikiData/WD~Cartan's_lemma,5047039]]"
+given_name: '[[_Standards/WikiData/WD~Élie,3587713]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-position_held: "[[_Standards/WikiData/WD~president_of_the_French_Academy_of_Sciences,23034946]]"
-sibling: "[[_Standards/WikiData/WD~Anna_Cartan,42887333]]"
-academic_thesis: "[[_Standards/WikiData/WD~Q64493183,64493183]]"
-place_of_burial: "[[_Standards/WikiData/WD~Q64493572,64493572]]"
-spouse: "[[_Standards/WikiData/WD~Marie_Louise_Cartan,71966335]]"
-family_name: "[[_Standards/WikiData/WD~Cartan,98108819]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+position_held: '[[_Standards/WikiData/WD~president_of_the_French_Academy_of_Sciences,23034946]]'
+sibling: '[[_Standards/WikiData/WD~Anna_Cartan,42887333]]'
+academic_thesis: '[[_Standards/WikiData/WD~Q64493183,64493183]]'
+place_of_burial: '[[_Standards/WikiData/WD~Q64493572,64493572]]'
+spouse: '[[_Standards/WikiData/WD~Marie_Louise_Cartan,71966335]]'
+family_name: '[[_Standards/WikiData/WD~Cartan,98108819]]'
 date_of_birth: 1869-04-09T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-place_of_death: "[[_Standards/WikiData/WD~Paris,90]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~France,142]]"
-writing_language: "[[_Standards/WikiData/WD~French,150]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~French,150]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
+writing_language: '[[_Standards/WikiData/WD~French,150]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~French,150]]'
 Erdős_number: 3
 Commons_category: Élie Cartan
 Commons_Creator_page: Élie Cartan
 BHCL_UUID: 52780946-083a-49d5-bd54-94a4a88b99fb
 date_of_death: 1951-05-06T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elie-Cartan-1904.png
-ISNI: "0000000108954624"
+ISNI: 0000000108954624
 Libris_URI: 42gjlbfn0h8l36z
-P1015: "90172898"
+P1015: 90172898
 name_in_native_language: Élie Cartan
+dv_has_:
+  name_:
+    ar: إيلي كارتن
+    arz: ايلى كارتن
+    ast: Élie Cartan
+    az: Elie Kartan
+    azb: الی کارتان
+    be: Элі Картан
+    be-tarask: Элі Картан
+    bn: এলি কারতঁ
+    bs: Élie Cartan
+    ca: Élie Cartan
+    cs: Élie Cartan
+    da: Élie Cartan
+    de: Élie Cartan
+    el: Ελί Καρτάν
+    en: Élie Cartan
+    eo: Élie Cartan
+    es: Élie Cartan
+    et: Élie Cartan
+    eu: Élie Cartan
+    fa: الی کارتان
+    fi: Élie Cartan
+    fr: Élie Cartan
+    ga: Élie Cartan
+    gl: Élie Cartan
+    he: אלי קרטן
+    hr: Élie Cartan
+    ht: Elie Cartan
+    hu: Élie Cartan
+    hy: Էլի Ժոսեֆ Կարտան
+    id: Élie Cartan
+    it: Élie Joseph Cartan
+    ja: エリ・カルタン
+    ka: ელი ჟოზეფ კარტანი
+    ko: 엘리 카르탕
+    mg: Élie Cartan
+    mul: Élie Cartan
+    nb: Élie Cartan
+    nl: Élie Cartan
+    nn: Élie Cartan
+    pap: Élie Cartan
+    pl: Élie Cartan
+    pt: Élie Cartan
+    pt-br: Élie Cartan
+    ro: Élie Cartan
+    ru: Эли Картан
+    sk: Élie Cartan
+    sl: Élie Cartan
+    sq: Elie Cartan
+    sr: Eli Kartan
+    sv: Élie Cartan
+    tr: Élie Cartan
+    uk: Елі Жозеф Картан
+    vi: Élie Cartan
+    zh: 埃利·嘉当
 ---
-
 # [[Cartan,Élie]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Élie_Cartan,274639|WD~Élie_Cartan,274639]] 

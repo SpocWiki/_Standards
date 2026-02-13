@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q471748
+---
+
 
 #is_/similar_to :: [[../../../../../IT/Programming/Patterns/Patterns~Java.3/Patterns~Transaction|Patterns~Transaction]] 
 

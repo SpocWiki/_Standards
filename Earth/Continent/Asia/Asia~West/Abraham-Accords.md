@@ -1,37 +1,112 @@
 ---
 aliases:
-  - Abraham-Accords
+- Abraham Accords
+- Abraham Accords Declaration
+- Abraham-Accords
+- Abraham-aftalerne
+- Abraham-akkoorden
+- Abraham-Akordoj
+- Abraham-avtalen
+- Abraham-avtalene
+- Abraham-sopimukset
+- Abrahamen akordioak
+- Abrahámovské dohody
+- Accordi di Abramo
+- Accordos de Abraham
+- accords d'Abraham
+- Acordos de Abraham
+- Acords d'Abraham
+- Avraam müqavilələri
+- Marrëveshjet e Abrahamit
+- Pacto Abraâmico
+- Perjanjian Abraham
+- Porozumienia Abrahamowe
+- Ábrahám-megállapodások
+- İbrahim Anlaşmaları
+- Авраамові угоди
+- Соглашения Авраама
+- Աբրահամի համաձայնագրեր
+- הסכמי אברהם
+- اتفاقيات إبراهيم
+- اتفاقيات ابراهيم
+- معاہدہ ابراہیم
+- پیمان ابراهیم
+- আব্রাহাম চুক্তি
+- ஆபிரகாம் ஒப்பந்தங்கள்
+- ආබ්රහම් සම්මුතීන්
+- アブラハム協定
+- 亞伯拉罕協定
+- 아브라함 협정
 has_participants:
-  - "[[Israel]]"
-  - "[[Bahrain]]"
-  - "[[../../America~North/USA]]"
-  - "[[United_Arab_Emirates]]"
-  - "[[../../Africa/Africa~North/Morocco|Morocco]]"
-  - "[[../../Africa/Africa~East/Sudan/Sudan~North]]"
+- '[[Israel]]'
+- '[[Bahrain]]'
+- '[[../../America~North/USA]]'
+- '[[United_Arab_Emirates]]'
+- '[[../../Africa/Africa~North/Morocco|Morocco]]'
+- '[[../../Africa/Africa~East/Sudan/Sudan~North]]'
 dv_has_:
+  name_:
+    ar: اتفاقيات إبراهيم
+    arz: اتفاقيات ابراهيم
+    az: Avraam müqavilələri
+    bn: আব্রাহাম চুক্তি
+    ca: Acords d'Abraham
+    cs: Abrahámovské dohody
+    da: Abraham-aftalerne
+    de: Abraham Accords Declaration
+    en: Abraham Accords
+    en-us: Abraham Accords
+    eo: Abraham-Akordoj
+    eu: Abrahamen akordioak
+    fa: پیمان ابراهیم
+    fi: Abraham-sopimukset
+    fr: accords d'Abraham
+    gl: Acordos de Abraham
+    he: הסכמי אברהם
+    hu: Ábrahám-megállapodások
+    hy: Աբրահամի համաձայնագրեր
+    ia: Accordos de Abraham
+    id: Perjanjian Abraham
+    it: Accordi di Abramo
+    ja: アブラハム協定
+    ko: 아브라함 협정
+    nb: Abraham-avtalene
+    nl: Abraham-akkoorden
+    pl: Porozumienia Abrahamowe
+    pnb: معاہدہ ابراہیم
+    pt: Pacto Abraâmico
+    ru: Соглашения Авраама
+    si: ආබ්රහම් සම්මුතීන්
+    sq: Marrëveshjet e Abrahamit
+    sv: Abraham-avtalen
+    ta: ஆபிரகாம் ஒப்பந்தங்கள்
+    tr: İbrahim Anlaşmaları
+    uk: Авраамові угоди
+    ur: معاہدہ ابراہیم
+    zh: 亞伯拉罕協定
+  participants: '[[Israel]]'
   time_:
     started: 2020-09-15T00:00:00.000+02:00
-  participants: "[[Israel]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords|Abraham-Accords]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public|Abraham-Accords.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal|Abraham-Accords.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect|Abraham-Accords.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]"
+  - '[[/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords|Abraham-Accords]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public|Abraham-Accords.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal|Abraham-Accords.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect|Abraham-Accords.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]'
 dv_has_time_started: 2020-09-15
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords|Abraham-Accords]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public|Abraham-Accords.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal|Abraham-Accords.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect|Abraham-Accords.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]"
+- '[[/_Standards/Earth/Continent/Asia/Asia~West/Abraham-Accords|Abraham-Accords]]'
+- '[[/_public/Earth/Continent/Asia/Asia~West/Abraham-Accords.public|Abraham-Accords.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~West/Abraham-Accords.internal|Abraham-Accords.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~West/Abraham-Accords.protect|Abraham-Accords.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~West/Abraham-Accords.private|Abraham-Accords.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~West/Abraham-Accords.personal|Abraham-Accords.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~West/Abraham-Accords.secret|Abraham-Accords.secret]]'
+has_id_wikidata: Q99495661
 ---
-
 # [[Abraham-Accords]] 
 
 

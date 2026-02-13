@@ -1,25 +1,72 @@
 ---
 aliases:
-  - Konservatorium
-  - music school
-  - school of music
-  - music academy
-  - music faculty
-  - college of music
-  - music department
-  - conservatory
-  - conservatorium
-  - conservatoire
-  - Conservatory
+- acadamh-chiùil
+- ardscoil cheoil
+- college of music
+- college or varsity schuil o muisic
+- conservatoire
+- conservator
+- conservatori de música
+- conservatorio
+- conservatoriu
+- conservatorium
+- conservatory
+- conservatório
+- glasbena šola
+- Konservatoarium
+- konservatoorium
+- konservatorija
+- konservatorio
+- Konservatorium
+- konservatoriya
+- konservatorïya
+- konservatuvar
+- kontserbatorio
+- konzervatorij
+- konzervatorijum
+- konzervatoř
+- konzervatórium
+- music academy
+- music department
+- music faculty
+- music school
+- musihkkaakademiija
+- musikhögskola
+- musikkakatemia
+- muusikakatemia
+- nhạc viện
+- schola musica
+- school of music
+- uczelnia muzyczna
+- école supérieure de musique
+- ωδείο
+- кансерваторыя
+- кансэрваторыя
+- конзерваторијум
+- консерваторія
+- консерватория
+- музичко училиште
+- Կոնսերվատորիա
+- קונסרבטוריון
+- كونسەرۆاتورىييا
+- معهد موسيقي
+- موسیقی کی درس گاہ
+- کنسرواتوار
+- კონსერვატორია
+- 音乐学院
+- 音楽学部
+- 音樂學系
+- 音樂學院
+- 음악 학교
 has_id_wikidata: Q184644
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-  - '[[_Standards/WikiData/WD~music_school,1021290]]'
-  - '[[_Standards/WikiData/WD~higher_education_institution,38723]]'
+- '[[_Standards/WikiData/WD~music_school,1021290]]'
+- '[[_Standards/WikiData/WD~higher_education_institution,38723]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~music_school,1021290]]'
 different_from: '[[_Standards/WikiData/WD~Conservatory,5163138]]'
 part_of: '[[_Standards/WikiData/WD~tertiary_education,9166713]]'
@@ -27,8 +74,93 @@ field_of_work: '[[_Standards/WikiData/WD~music_education,27908]]'
 OmegaWiki_Defined_Meaning: 402354
 equivalent_class: http://data.culture.fr/thesaurus/resource/ark:/67717/T1-704
 Commons_category: Music conservatories
+dv_has_:
+  name_:
+    ar: معهد موسيقي
+    ast: conservatoriu
+    az: konservatoriya
+    ba: консерватория
+    be: кансерваторыя
+    be-tarask: кансэрваторыя
+    bg: консерватория
+    bs: konzervatorijum
+    ca: conservatori de música
+    cs: konzervatoř
+    cy: conservatoire
+    da: konservatorium
+    de: Konservatorium
+    el: ωδείο
+    en: conservatory
+    en-gb: music school
+    eo: konservatorio
+    es: conservatorio
+    et: konservatoorium
+    eu: kontserbatorio
+    fa: کنسرواتوار
+    fi: konservatorio
+    fr: école supérieure de musique
+    fy: Konservatoarium
+    ga: ardscoil cheoil
+    gd: acadamh-chiùil
+    gl: conservatorio
+    he: קונסרבטוריון
+    hr: konzervatorij
+    hu: konzervatórium
+    hy: Կոնսերվատորիա
+    id: konservatorium
+    io: konservatorio
+    it: conservatorio
+    ja: 音楽学部
+    ka: კონსერვატორია
+    kk: консерватория
+    kk-arab: كونسەرۆاتورىييا
+    kk-cn: كونسەرۆاتورىييا
+    kk-cyrl: консерватория
+    kk-kz: консерватория
+    kk-latn: konservatorïya
+    kk-tr: konservatorïya
+    ko: 음악 학교
+    ky: консерватория
+    la: schola musica
+    lb: Conservatoire
+    li: Conservatorium
+    lt: konservatorija
+    lv: Konservatorija
+    mk: музичко училиште
+    nb: konservatorium
+    nds-nl: konservatorium
+    nl: conservatorium
+    pl: uczelnia muzyczna
+    pt: conservatório
+    pt-br: conservatório
+    ro: conservator
+    ru: консерватория
+    sco: college or varsity schuil o muisic
+    se: musihkkaakademiija
+    sh: konzervatorij
+    sk: konzervatórium
+    sl: glasbena šola
+    smn: muusikakatemia
+    sms: musikkakatemia
+    sr: конзерваторијум
+    sr-ec: конзерваторијум
+    sr-el: konzervatorijum
+    sv: musikhögskola
+    tg: консерватория
+    tr: konservatuvar
+    uk: консерваторія
+    ur: موسیقی کی درس گاہ
+    uz: Konservatoriya
+    vi: nhạc viện
+    yue: 音樂學系
+    zh: 音樂學院
+    zh-cn: 音乐学院
+    zh-hans: 音乐学院
+    zh-hant: 音樂學院
+    zh-hk: 音樂學院
+    zh-sg: 音乐学院
+    zh-tw: 音樂學院
 ---
-
 # [[Conservatory]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Conservatory,184644|WD~Conservatory,184644]] 

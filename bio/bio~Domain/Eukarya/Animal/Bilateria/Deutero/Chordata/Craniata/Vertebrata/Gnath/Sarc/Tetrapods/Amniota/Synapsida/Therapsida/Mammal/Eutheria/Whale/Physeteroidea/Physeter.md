@@ -1,4 +1,65 @@
-
+---
+has_id_wikidata: Q3382003
+dv_has_:
+  name_:
+    an: Physeter
+    ar: حيتان نافثة
+    arz: حيتان نافثه
+    ast: Physeter
+    avk: Odayol (Physeter)
+    bg: Physeter
+    ca: Physeter
+    ceb: Physeter
+    cs: Physeter
+    de: Physeter
+    el: Φυσητήρ
+    en: Physeter
+    eo: Physeter
+    es: Physeter
+    eu: Physeter
+    ext: Physeter
+    fi: Physeter
+    fr: Physeter
+    ga: Physeter
+    gl: Physeter
+    he: ראשתן
+    hu: Physeter
+    ia: Physeter
+    ie: Physeter
+    io: Physeter
+    it: Physeter
+    la: Physeter
+    lv: kašalotu ģints
+    mul: Physeter
+    nl: Physeter
+    oc: Physeter
+    pl: Kaszalot
+    pt: Physeter
+    pt-br: Physeter
+    ro: Physeter
+    ru: Physeter
+    sl: Physeter
+    sq: Physeter
+    sv: Physeter
+    uk: Physeter
+    vi: Physeter
+    vo: Physeter
+    war: Physeter
+    zh: 抹香鲸属
+    zh-cn: 抹香鲸属
+    zh-tw: 抹香鯨屬
+aliases:
+- Kaszalot
+- kašalotu ģints
+- Odayol (Physeter)
+- Physeter
+- Φυσητήρ
+- ראשתן
+- حيتان نافثة
+- حيتان نافثه
+- 抹香鯨屬
+- 抹香鲸属
+---
 # [[Physeter]] 
 
 #is_/same_as :: [[Physeter,]]

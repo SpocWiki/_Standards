@@ -1,44 +1,234 @@
 ---
 aliases:
+- afta
+- apta
+- arapokõindy
+- aste
+- atna
+- ayubés
+- bakɔi
+- balde nyalande
+- beke
+- chicōntōnalli
+- chida
+- hafta
+- haftə rüjon
+- hapta
+- hebdomas
+- hefte
+- hepde
+- herinandro
+- hápte
+- hét
+- həftə
+- icyumweru
+- imalas
+- imalass
+- java
+- juma
+- kpɩtaʊ
+- kurko
+- lawas
+- linggo
+- Lubingu
+- lé-pài
+- lî-pai
+- lā̤-bái
+- macawa
+- mako
+- Minggu
+- mposo
+- mpɔ́sɔ
+- nedal'
+- nedielė
+- nedäli
+- nedēļa
+- neäʹttel
+- nädal
+- nätäl
+- okko
+- pule
+- samwinne
+- saptawara
+- sati
+- savaitė
+- seachtain
+- sedmica
+- selmana
+- semaine
+- semajno
+- semana
+- semana(s)
+- semane
+- semanne
+- semano
+- semèn
+- septimana
+- setemane
+- setemàna
+- setmana
+- settimana
+- seythen
+- simana
+- simèn
+- singhgiz
+- siptâmânâ
+- sittimana
+- sizhun
+- smaingne
+- sman-a
+- smàna
+- stimana
+- săptămână
+- teden
+- tenpo esun
+- tidzén
+- tjedan
+- todobaad
+- tuần
+- tydzień
+- tydźeń
+- tydźyń
+- tyźeń
+- týden
+- týždeň
+- uge
+- uke
+- vahkko
+- vahkku
+- vecka
+- veke
+- vhiki
+- vig
+- viikko
+- vika
+- våhkoe
+- week
+- weke
+- Wiek
+- wik
+- wike
+- Woch
+- Woch / Wuche
+- Woche
+- wythnos
+- εβδομάδα
+- анкь
+- апта
+- арня
+- атна
+- аҙна
+- вежон
+- долоо хоног
+- долоон хоног
+- къуыри
+- кӏира
+- махуэ гъэпс
+- неделя
+- никӏи
+- нэдиэлэ
+- нюжмар
+- сєдмица
+- седмица
+- тарго
+- тиждень
+- тыдзень
+- тыждень
+- чедилик
+- ыйыкъ
+- эрне
+- ҳафта
+- շաբաթ
+- וואָך
+- שבוע
+- أسبوع
+- اسبوع
+- اوونۍ
+- جمعة
+- ستوارا
+- سيمانة
+- هفته
+- هفتو
+- گیلکی روجؤن
+- ھەفتە
+- ھەپتە
+- ہفتہ
+- ܫܒܘܥܐ
+- ߞߎ߲߬ߢߐ߮
+- आठवडा
+- वाः
+- सप्त वासराः
+- सप्ताह
+- हप्ता
+- সপ্তাহ
+- ਹਫ਼ਤਾ
+- અઠવાડિયું
+- ସପ୍ତାହ
+- கிழமை
+- వారం
+- ವಾರ
+- ವಾರೊ
+- ആഴ്ച
+- සුමානය
+- สัปดาห์
+- ອາທິດ
+- གཟའ་འཁོར།
+- བདུན༌ཕྲག
+- သတ္တာဟ
+- კვირა (შვიდი დღე)
+- მარა
+- ሳምንት
+- ᱦᱟᱯᱛᱟ
+- ọ̀sẹ̀
+- ἑβδομάς
+- ⵉⵎⴰⵍⴰⵙⵙ
+- 星期
+- 礼拜
+- 禮拜
+- 週
+- ꠢꠣꠙ꠆ꠔꠣ
+- ꯆꯌꯣꯜ
+- 주
+- "\U00010345\U00010339\U0001033A\U00010349"
 has_id_wikidata: Q23387
 subclass_of:
-  - "[[_Standards/WikiData/WD~time_interval,186081]]"
-  - "[[_Standards/WikiData/WD~heptad,29441572]]"
+- '[[_Standards/WikiData/WD~time_interval,186081]]'
+- '[[_Standards/WikiData/WD~heptad,29441572]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~weekend,211391]]"
-  - "[[_Standards/WikiData/WD~work_week,19906285]]"
-  - "[[_Standards/WikiData/WD~day,573]]"
-  - "[[_Standards/WikiData/WD~day_of_the_week,41825]]"
+- '[[_Standards/WikiData/WD~weekend,211391]]'
+- '[[_Standards/WikiData/WD~work_week,19906285]]'
+- '[[_Standards/WikiData/WD~day,573]]'
+- '[[_Standards/WikiData/WD~day_of_the_week,41825]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_time,1790144]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~duration,2199864]]"
+- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~all_days_of_the_week,26214163]]"
-  - "[[_Standards/WikiData/WD~workweek_and_weekend,30722989]]"
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~day,573]]"
+- '[[_Standards/WikiData/WD~all_days_of_the_week,26214163]]'
+- '[[_Standards/WikiData/WD~workweek_and_weekend,30722989]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~day,573]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~day,573]]"
-  - "[[_Standards/WikiData/WD~Monday,105]]"
-  - "[[_Standards/WikiData/WD~Tuesday,127]]"
-  - "[[_Standards/WikiData/WD~Friday,130]]"
-  - "[[_Standards/WikiData/WD~Saturday,131]]"
-  - "[[_Standards/WikiData/WD~Wednesday,128]]"
-  - "[[_Standards/WikiData/WD~Thursday,129]]"
-  - "[[_Standards/WikiData/WD~Sunday,132]]"
-part_of: "[[_Standards/WikiData/WD~month,5151]]"
+- '[[_Standards/WikiData/WD~day,573]]'
+- '[[_Standards/WikiData/WD~Monday,105]]'
+- '[[_Standards/WikiData/WD~Tuesday,127]]'
+- '[[_Standards/WikiData/WD~Friday,130]]'
+- '[[_Standards/WikiData/WD~Saturday,131]]'
+- '[[_Standards/WikiData/WD~Wednesday,128]]'
+- '[[_Standards/WikiData/WD~Thursday,129]]'
+- '[[_Standards/WikiData/WD~Sunday,132]]'
+part_of: '[[_Standards/WikiData/WD~month,5151]]'
 conversion_to_standard_unit: 7
 duration: 7
 conversion_to_SI_unit: 604800
-OmegaWiki_Defined_Meaning: "6145"
+OmegaWiki_Defined_Meaning: 6145
 UN_CEFACT_Common_Code: WEE
 unit_symbol: u
 UCUM_code: wk
@@ -46,14 +236,260 @@ Commons_gallery: Week
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-setmana-spreadthesign.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/First%20Day%20of%20Week%20World%20Map.svg
 exact_match:
-  - http://dati.beniculturali.it/cis/Week
-  - https://www.w3.org/TR/owl-time/#time:unitWeek
+- http://dati.beniculturali.it/cis/Week
+- https://www.w3.org/TR/owl-time/#time:unitWeek
 Wolfram_Language_unit_code: '"Weeks"'
 Wikidata_SPARQL_query_equivalent: wd:Q23387 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 Commons_category: Weeks
 Gujarati_Vishwakosh_entry: અઠવાડિયું
+dv_has_:
+  name_:
+    aeb-arab: جمعة
+    af: week
+    am: ሳምንት
+    an: semana
+    anp: सप्ताह
+    ar: أسبوع
+    arc: ܫܒܘܥܐ
+    ary: سيمانة
+    arz: اسبوع
+    as: সপ্তাহ
+    ast: selmana
+    av: анкь
+    ay: simana
+    az: həftə
+    azb: هفته
+    ba: аҙна
+    be: тыдзень
+    be-tarask: тыдзень
+    bg: седмица
+    bho: सप्ताह
+    bn: সপ্তাহ
+    bo: གཟའ་འཁོར།
+    br: sizhun
+    bs: sedmica
+    bxr: долоон хоног
+    ca: setmana
+    cdo: lā̤-bái
+    ce: кӏира
+    ckb: ھەفتە
+    co: sittimana
+    crh: afta
+    crh-ro: hapta
+    cs: týden
+    csb: tidzén
+    cu: сєдмица
+    cv: эрне
+    cy: wythnos
+    da: uge
+    dag: bakɔi
+    de: Woche
+    diq: hefte
+    dsb: tyźeń
+    dty: हप्ता
+    dz: བདུན༌ཕྲག
+    el: εβδομάδα
+    eml: smàna
+    en: week
+    en-gb: week
+    en-us: week
+    eo: semajno
+    es: semana
+    et: nädal
+    eu: aste
+    ext: semana
+    fa: هفته
+    ff: balde nyalande
+    fi: viikko
+    fj: macawa
+    fo: vika
+    fr: semaine
+    frp: semana
+    frr: Week
+    fur: setemane
+    fy: wike
+    ga: seachtain
+    gan: 禮拜
+    gcr: simèn
+    gl: semana
+    glk: گیلکی روجؤن
+    gn: arapokõindy
+    got: "\U00010345\U00010339\U0001033A\U00010349"
+    grc: ἑβδομάς
+    gsw: Woch / Wuche
+    gu: અઠવાડિયું
+    ha: mako
+    hak: lî-pai
+    haw: pule
+    he: שבוע
+    hi: सप्ताह
+    hif: hafta
+    hr: tjedan
+    hsb: tydźeń
+    ht: semèn
+    hu: hét
+    hy: շաբաթ
+    ia: septimana
+    id: minggu
+    ie: semane
+    ilo: lawas
+    inh: кӏира
+    io: semano
+    is: vika
+    it: settimana
+    ja: 週
+    jv: saptawara
+    ka: კვირა (შვიდი დღე)
+    kaa: hápte
+    kab: imalas
+    kbd: махуэ гъэпс
+    kbp: kpɩtaʊ
+    kcg: sati
+    kg: mposo
+    kge: Minggu
+    kk: апта
+    kk-latn: apta
+    kn: ವಾರ
+    ko: 주
+    krc: ыйыкъ
+    kv: вежон
+    kw: seythen
+    ky: апта
+    la: hebdomas
+    lad: semana
+    lb: Woch
+    lbe: нюжмар
+    lez: никӏи
+    lfn: semana
+    li: week
+    lmo: setemàna
+    ln: mpɔ́sɔ
+    lo: ອາທິດ
+    lt: savaitė
+    lua: Lubingu
+    lv: nedēļa
+    lzh: 星期
+    mag: सप्ताह
+    mai: हप्ता
+    mg: herinandro
+    mhr: арня
+    mk: седмица
+    ml: ആഴ്ച
+    mn: долоо хоног
+    mni: ꯆꯌꯣꯜ
+    mnw: သတ္တာဟ
+    mr: आठवडा
+    ms: minggu
+    myv: тарго
+    mzn: هفته
+    nah: chicōntōnalli
+    nan: lé-pài
+    nb: uke
+    nds: Week
+    nds-nl: weke
+    ne: हप्ता
+    new: वाः
+    nl: week
+    nn: veke
+    nqo: ߞߎ߲߬ߢߐ߮
+    nrm: semanne
+    nso: beke
+    oc: setmana
+    olo: nedäli
+    or: ସପ୍ତାହ
+    os: къуыри
+    pa: ਹਫ਼ਤਾ
+    pcd: smaingne
+    pdc: Woch
+    pl: tydzień
+    pms: sman-a
+    pnb: ستوارا
+    ps: اوونۍ
+    pt: semana
+    pt-br: semana(s)
+    qu: simana
+    rmf: kurko
+    ro: săptămână
+    ru: неделя
+    rue: тыждень
+    rup: siptâmânâ
+    rw: icyumweru
+    sa: सप्त वासराः
+    sah: нэдиэлэ
+    sat: ᱦᱟᱯᱛᱟ
+    sc: chida
+    sco: week
+    sd: هفتو
+    se: vahkku
+    sgs: nedielė
+    sh: sedmica
+    shi: imalass
+    si: සුමානය
+    sje: vahkko
+    sk: týždeň
+    sl: teden
+    sma: våhkoe
+    smj: vahkko
+    smn: okko
+    sms: neäʹttel
+    sn: vhiki
+    so: todobaad
+    sq: java
+    sr: седмица
+    sr-ec: седмица
+    stq: Wiek
+    sv: vecka
+    sw: juma
+    syl: ꠢꠣꠙ꠆ꠔꠣ
+    szl: tydźyń
+    ta: கிழமை
+    tcy: ವಾರೊ
+    te: వారం
+    tg: ҳафта
+    tg-cyrl: ҳафта
+    tg-latn: hafta
+    th: สัปดาห์
+    tk: hepde
+    tl: linggo
+    tly: haftə rüjon
+    tok: tenpo esun
+    tpi: wik
+    tr: hafta
+    tt: атна
+    tt-cyrl: атна
+    tt-latn: atna
+    tyv: чедилик
+    udm: арня
+    ug: ھەپتە
+    uk: тиждень
+    ur: ہفتہ
+    uz: hafta
+    vec: stimana
+    vep: nedal'
+    vi: tuần
+    vo: vig
+    vro: nätäl
+    wa: samwinne
+    war: semana
+    wo: ayubés
+    wuu: 礼拜
+    xmf: მარა
+    yi: וואָך
+    yo: ọ̀sẹ̀
+    yue: 星期
+    za: singhgiz
+    zea: weke
+    zgh: ⵉⵎⴰⵍⴰⵙⵙ
+    zh: 星期
+    zh-cn: 星期
+    zh-hans: 星期
+    zh-hant: 星期
+    zh-hk: 星期
+    zh-mo: 星期
+    zh-my: 星期
+    zh-sg: 星期
+    zh-tw: 星期
 ---
-
 # [[Unit~Week]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Week,23387|WD~Week,23387]]  

@@ -1,4 +1,96 @@
-
+---
+has_id_wikidata: Q3495037
+dv_has_:
+  name_:
+    af: Ontmensliking
+    ar: التجرد من الإنسانية
+    be-tarask: дэгуманізацыя
+    ca: deshumanització
+    cs: dehumanizace
+    da: dehumanisering
+    de: Entmenschlichung
+    el: Απανθρωποποίηση
+    en: dehumanization
+    en-gb: dehumanisation
+    eo: nehomigo
+    es: deshumanización
+    et: Dehumaniseerimine
+    fa: انسانیتزدایی
+    fi: epäinhimillistäminen
+    fr: déshumanisation
+    ga: dídhaonnú
+    gl: deshumanización
+    ha: Rashin mutuntaka
+    he: דה-הומניזציה
+    hi: अमानवीकरण
+    hr: Dehumanizacija
+    hu: dehumanizáció
+    hy: անմարդկայնություն
+    id: Dehumanisasi
+    ja: 人間性の抹殺
+    kk: Дегуманизация
+    ko: 비인간화
+    ky: Дегуманизация
+    lv: dehumanizācija
+    ms: Penyahmanusiaan
+    nl: ontmenselijking
+    pl: dehumanizacja
+    pt: desumanização
+    ro: Dezumanizare
+    ru: дегуманизация
+    sl: dehumanizacija
+    sq: dehumanizimi
+    sv: avhumanisering
+    szl: Uobroz wrůga
+    tr: İnsandışılaştırma
+    uk: дегуманізація
+    yue: 去人性化
+    zh: 去人性化
+    zh-hans: 反人类
+    zh-hant: 反人類
+aliases:
+- avhumanisering
+- Dehumanisasi
+- dehumanisation
+- Dehumaniseerimine
+- dehumanisering
+- dehumanizace
+- Dehumanizacija
+- dehumanizacja
+- dehumanization
+- dehumanizimi
+- dehumanizáció
+- dehumanizācija
+- deshumanització
+- deshumanización
+- desumanização
+- Dezumanizare
+- déshumanisation
+- dídhaonnú
+- Entmenschlichung
+- epäinhimillistäminen
+- nehomigo
+- ontmenselijking
+- Ontmensliking
+- Penyahmanusiaan
+- Rashin mutuntaka
+- Uobroz wrůga
+- İnsandışılaştırma
+- Απανθρωποποίηση
+- дегуманізація
+- дегуманизация
+- дэгуманізацыя
+- անմարդկայնություն
+- דה-הומניזציה
+- التجرد من الإنسانية
+- انسانیتزدایی
+- अमानवीकरण
+- 人間性の抹殺
+- 去人性化
+- 反人类
+- 反人類
+- 비인간화
+---
 # [[Dehumanization]] 
 
 > **Dehumanization** is the denial of full humanity in others along with the cruelty and suffering that accompany it. 

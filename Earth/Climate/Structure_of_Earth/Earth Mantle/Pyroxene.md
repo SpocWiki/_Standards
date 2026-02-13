@@ -1,42 +1,149 @@
 ---
 aliases:
-  - Pyroxenes
-  - Pyroxene
+- pirixéin
+- Piroksen
+- Piroksenas
+- Pirokseni
+- Piroksenlar
+- Piroksenlər
+- pirokseno
+- piroksenska skupina
+- Pirokseny
+- pirosseno
+- piroxena
+- piroxeni
+- piroxeno
+- piroxè
+- Piroxène
+- piroxének
+- Pyrocsen
+- pyrokseeni
+- pyrokseeʹn
+- pyroksen
+- pyroxeen
+- Pyroxen
+- Pyroxene
+- Pyroxenes
+- Pyroxengruppe
+- pyroxeny
+- pyroxène
+- pürokseenid
+- Pýroxen
+- Skupina pyroxénu
+- піраксены
+- піраксэн
+- піроксени
+- Пироксендер
+- пироксени
+- пироксены
+- Պիրոքսեններ
+- פירוקסן
+- بيروكسين
+- پیروکسن
+- पाइरॉक्सीन
+- 輝石
+- 辉石
+- 휘석
 has_id_wikidata: Q192880
-subclass_of: "[[_Standards/WikiData/WD~inosilicate,279440]]"
+subclass_of: '[[_Standards/WikiData/WD~inosilicate,279440]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-instance_of: "[[_Standards/WikiData/WD~mineral_group,1936581]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q10716785,10716785]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_group,1936581]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10716785,10716785]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pyroxene%20crystals.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/PIA17768-MarsCuriosityRover-HarrisonRock-20140115.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pyroxene%20crystals.jpg
 Krugosvet_article_archived_: Earth_sciences/geologiya/PIROKSENI.html
 IMA_Mineral_Symbol: Px
 Commons_category: Pyroxene
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]"
-    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]]"
-    - "[[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]]"
-    - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]]"
-    - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]]"
-    - "[[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]]"
-    - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]]"
-    - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]]"
+  - '[[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]'
+  - '[[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]]'
+  - '[[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]]'
+  - '[[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]]'
+  - '[[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]]'
+  - '[[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]]'
+  - '[[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]]'
+  - '[[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]"
-  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]]"
-  - "[[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]]"
-  - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]]"
-  - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]]"
-  - "[[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]]"
-  - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]]"
-  - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]]"
+- '[[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]'
+- '[[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]]'
+- '[[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]]'
+- '[[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]]'
+- '[[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]]'
+- '[[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]]'
+- '[[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]]'
+- '[[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]]'
+dv_has_:
+  name_:
+    ar: بيروكسين
+    ast: Piroxeno
+    az: Piroksenlər
+    be: піраксены
+    be-tarask: піраксэн
+    ca: piroxè
+    cs: pyroxeny
+    cy: Pyrocsen
+    da: Pyroxen
+    de: Pyroxengruppe
+    en: pyroxene
+    eo: pirokseno
+    es: piroxeno
+    et: pürokseenid
+    eu: Piroxeno
+    fa: پیروکسن
+    fi: pyrokseeni
+    fr: pyroxène
+    ga: pirixéin
+    gl: piroxeno
+    he: פירוקסן
+    hi: पाइरॉक्सीन
+    hr: Pirokseni
+    hu: piroxének
+    hy: Պիրոքսեններ
+    id: Piroksen
+    is: Pýroxen
+    it: pirosseno
+    ja: 輝石
+    kk: Пироксендер
+    ko: 휘석
+    ky: Пироксендер
+    lt: Piroksenas
+    mk: пироксени
+    ms: Piroksen
+    nb: pyroksen
+    nl: pyroxeen
+    nn: pyroksen
+    oc: Piroxène
+    pl: Pirokseny
+    pt: piroxena
+    ro: piroxeni
+    ru: пироксены
+    sh: Pirokseni
+    sk: Skupina pyroxénu
+    sl: piroksenska skupina
+    sms: pyrokseeʹn
+    sr: пироксени
+    sr-ec: пироксени
+    sr-el: Pirokseni
+    sv: Pyroxen
+    tr: Piroksen
+    uk: піроксени
+    uz: Piroksenlar
+    vi: Pyroxen
+    wuu: 辉石
+    yue: 輝石
+    zh: 辉石
+    zh-cn: 辉石
+    zh-hans: 辉石
+    zh-hant: 輝石
+    zh-hk: 輝石
+    zh-sg: 辉石
+    zh-tw: 輝石
 ---
-
 # [[Pyroxene]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Pyroxene,192880|WD~Pyroxene,192880]]  

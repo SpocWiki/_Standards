@@ -1,9 +1,153 @@
 ---
 aliases:
-  - Odontoceti
+- Balenat me dhëmbë
+- Bezkosticovce
+- cá voi có răng
+- Dantytieji banginiai
+- Dentocetacoj
+- Dişli balinalar
+- fogascetek
+- Hammasvaalalised
+- hammasvalaat
+- Khí-keng
+- kitovi zubani
+- Morvil dantek
+- míol mór fiaclach
+- Odontoceti
+- Odontocetos
+- odontocets
+- Odontozeto
+- ozubení
+- Paus bergigi
+- Paus magigi
+- Tandhvaler
+- Tandvalar
+- tandwalvissen
+- tannhvaler
+- Tannhvalir
+- tannkvalar
+- Tishli kitlar
+- tuithed whaul
+- Tuswaaler
+- Zahnwale
+- zobati kiti
+- Zobvaļi
+- zębowce
+- Łóóʼtsoh biwooʼ dantłʼizígíí
+- Οδοντοκήτη
+- забести китови
+- зубаті кити
+- зубатые киты
+- зубатыя кіты
+- Зъбати китове
+- Китови зубани
+- Тісті киттер
+- Шүдэт халим
+- לווייתני שיניים
+- آببازسانیان دنداندار
+- حيتان مسننة
+- حيتان مسننه
+- نەھەنگی دداندار
+- দাঁতযুক্ত তিমি
+- วาฬมีฟัน
+- კბილიანი ვეშაპები
+- ハクジラ亜目
+- 齒鯨小目
+- 齿鲸
+- 齿鲸小目
+- 이빨고래아목
 title: Odontoceti
+has_id_wikidata: Q144144
+dv_has_:
+  name_:
+    an: Odontoceti
+    ar: حيتان مسننة
+    arz: حيتان مسننه
+    ast: Odontoceti
+    az: Dişli balinalar
+    ban: Paus magigi
+    be: зубатыя кіты
+    be-tarask: зубатыя кіты
+    bg: Зъбати китове
+    bn: দাঁতযুক্ত তিমি
+    br: Morvil dantek
+    ca: odontocets
+    ceb: Odontoceti
+    ckb: نەھەنگی دداندار
+    cs: ozubení
+    da: Tandhvaler
+    de: Zahnwale
+    el: Οδοντοκήτη
+    en: Odontoceti
+    eo: Dentocetacoj
+    es: Odontoceti
+    et: Hammasvaalalised
+    eu: Odontozeto
+    ext: Odontoceti
+    fa: آببازسانیان دنداندار
+    fi: hammasvalaat
+    fo: Tannhvalir
+    fr: Odontoceti
+    frr: Tuswaaler
+    ga: míol mór fiaclach
+    gl: Odontocetos
+    he: לווייתני שיניים
+    hr: kitovi zubani
+    hu: fogascetek
+    ia: Odontoceti
+    id: Paus bergigi
+    ie: Odontoceti
+    io: Odontoceti
+    is: Tannhvalir
+    it: Odontoceti
+    ja: ハクジラ亜目
+    ka: კბილიანი ვეშაპები
+    kk: Тісті киттер
+    ko: 이빨고래아목
+    la: Odontoceti
+    lt: Dantytieji banginiai
+    lv: Zobvaļi
+    mk: забести китови
+    mn: Шүдэт халим
+    mul: Odontoceti
+    nan: Khí-keng
+    nb: tannhvaler
+    nl: tandwalvissen
+    nn: tannkvalar
+    nv: Łóóʼtsoh biwooʼ dantłʼizígíí
+    oc: Odontoceti
+    pl: zębowce
+    pt: Odontoceti
+    pt-br: Odontoceti
+    ro: Odontoceti
+    ru: зубатые киты
+    sco: tuithed whaul
+    sh: Kitovi zubani
+    sk: Bezkosticovce
+    sl: zobati kiti
+    sq: Balenat me dhëmbë
+    sr: Китови зубани
+    sv: Tandvalar
+    th: วาฬมีฟัน
+    tl: Odontoceti
+    tr: Dişli balinalar
+    uk: зубаті кити
+    uz: Tishli kitlar
+    vi: cá voi có răng
+    vo: Odontoceti
+    war: Odontoceti
+    wuu: 齿鲸
+    yue: 齒鯨小目
+    zh: 齒鯨小目
+    zh-cn: 齿鲸小目
+    zh-hans: 齿鲸小目
+    zh-hant: 齒鯨小目
+    zh-hk: 齒鯨小目
+    zh-mo: 齒鯨小目
+    zh-my: 齿鲸小目
+    zh-sg: 齿鲸小目
+    zh-tw: 齒鯨小目
 ---
-
 # [[Odontoceti]]
 
 ## Toothed whales 

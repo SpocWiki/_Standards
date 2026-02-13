@@ -1,16 +1,108 @@
 ---
 aliases:
+- absolutism luminat
+- Absolutisme tercerahkan
+- absolutyzm oświecony
+- Apšviestasis absoliutizmas
+- aufgeklärter Absolutismus
+- Aydınlanmacı mutlakiyet
+- despotisme il·lustrat
+- despotisme éclairé
+- despotismo esclarecido
+- despotismo ilustrado
+- Despotismo Ilustratua
+- despotismo iłustrado
+- Despotismu ilustráu
+- Dispostism inluminad
+- dispotismo illuminato
+- enlightened absolutism
+- felvilágosult abszolutizmus
+- klera despotismo
+- Oplyst enevælde
+- Opplyst enevelde
+- Osvietenský absolutizmus
+- osvícenský absolutismus
+- Prosvijećeni apsolutizam
+- razsvetljeni absolutizem
+- upplyst despot
+- Valgustatud absolutism
+- Valistunut itsevaltius
+- verlicht despotisme
+- Πεφωτισμένη δεσποτεία
+- асьветны абсалютызм
+- Освічений абсолютизм
+- Просвећени апсолутизам
+- Просветен абсолютизъм
+- просвещённый абсолютизм
+- אבסולוטיזם נאור
+- حكم مطلق مستنير
+- دیکتاتوری منور
+- สมบูรณาญาสิทธิราชย์อันทรงภูมิธรรม
+- 啓蒙専制主義
+- 开明专制
+- 開明專制
+- 계몽절대주의
 has_id_wikidata: Q219934
 subclass_of:
-  - "[[_Standards/WikiData/WD~despotism,179352]]"
-  - "[[_Standards/WikiData/WD~absolutism,7184037]]"
-  - "[[_Standards/WikiData/WD~liberalism,6216]]"
+- '[[_Standards/WikiData/WD~despotism,179352]]'
+- '[[_Standards/WikiData/WD~absolutism,7184037]]'
+- '[[_Standards/WikiData/WD~liberalism,6216]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~political_ideology,12909644]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
+dv_has_:
+  name_:
+    ar: حكم مطلق مستنير
+    ast: Despotismu ilustráu
+    be-tarask: асьветны абсалютызм
+    bg: Просветен абсолютизъм
+    ca: despotisme il·lustrat
+    cs: osvícenský absolutismus
+    da: Oplyst enevælde
+    de: aufgeklärter Absolutismus
+    el: Πεφωτισμένη δεσποτεία
+    en: enlightened absolutism
+    eo: klera despotismo
+    es: despotismo ilustrado
+    et: Valgustatud absolutism
+    eu: Despotismo Ilustratua
+    fa: دیکتاتوری منور
+    fi: Valistunut itsevaltius
+    fr: despotisme éclairé
+    gl: Despotismo Ilustrado
+    he: אבסולוטיזם נאור
+    hr: Prosvijećeni apsolutizam
+    hu: felvilágosult abszolutizmus
+    id: Absolutisme tercerahkan
+    it: dispotismo illuminato
+    ja: 啓蒙専制主義
+    ko: 계몽절대주의
+    lmo: Dispostism inluminad
+    lt: Apšviestasis absoliutizmas
+    nb: Opplyst enevelde
+    nl: verlicht despotisme
+    pl: absolutyzm oświecony
+    pt: despotismo esclarecido
+    ro: absolutism luminat
+    ru: просвещённый абсолютизм
+    sh: Prosvijećeni apsolutizam
+    sk: Osvietenský absolutizmus
+    sl: razsvetljeni absolutizem
+    sr: Просвећени апсолутизам
+    sv: upplyst despot
+    th: สมบูรณาญาสิทธิราชย์อันทรงภูมิธรรม
+    tr: Aydınlanmacı mutlakiyet
+    uk: Освічений абсолютизм
+    vec: despotismo iłustrado
+    zh: 開明專制
+    zh-cn: 开明专制
+    zh-hans: 开明专制
+    zh-hant: 開明專制
+    zh-hk: 開明專制
+    zh-sg: 开明专制
+    zh-tw: 開明專制
 ---
-
 # [[Enlightened_Absolutism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Enlightened_absolutism,219934|WD~Enlightened_absolutism,219934]] 

@@ -1,23 +1,148 @@
 ---
 aliases:
-  - Civil law
-  - Civil_Law
-  - Civil Law
+- Balaud sibil
+- Ceevil law (legal seestem)
+- Civil law
+- civilno pravo
+- Civilret
+- Civil_Law
+- continentaal recht
+- Dango la ŵanthu (Mthetho)
+- derecho continental
+- Derechu continental
+- Derecto civilista romanogermanic
+- Dokar yan kasa
+- Drech civilista
+- Drept civil
+- dret continental
+- droits de tradition civiliste
+- Fuqarolik huquqi
+- Hukum sipil (sistem hukum)
+- Hệ thống luật châu Âu lục địa
+- Kara Avrupası hukuk düzeni
+- Kontinentaalne õigussüsteem
+- Kontinentalno pravo
+- Kontinentinė teisė
+- kontinentális jog
+- kontinentálne právo
+- kontinentální evropské právo
+- Lege sivil
+- Meginlandsréttur
+- Roman-German hüququ
+- Romanɩ nɛ Caama tɛ waɖɛ
+- Romiĝermana juro
+- sistema romano-germânico
+- System prawa kontynentalnego
+- säädösoikeus
+- Undang-undang sivil
+- Zivilrecht
+- zuzenbide kontinental
+- Ватандашлар хокукы
+- кантынэнтальнае права
+- Континентална правна система
+- Континентално право
+- рамана-германская прававая сям’я
+- Романо-германская правовая семья
+- Романо-германська правова сім'я
+- մայրցամաքային իրավունք
+- המשפט הקונטיננטלי
+- قانون مدني
+- قانون مدنی (نظام قانونی)
+- सिविल विधि की विधिक प्रणाली
+- দেওয়ানি আইন
+- குடிமையியல் சட்டம்
+- ซีวิลลอว์
+- 大陆法系
+- 大陸法
+- 大陸法系
+- 民法法系
+- 대륙법
 has_id_wikidata: Q5950118
 country_of_origin: '[[_Standards/WikiData/WD~continental_Europe,466039]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~legal_system,2478386]]'
-  - '[[_Standards/WikiData/WD~type_of_law,63718619]]'
+- '[[_Standards/WikiData/WD~legal_system,2478386]]'
+- '[[_Standards/WikiData/WD~type_of_law,63718619]]'
 subclass_of: '[[_Standards/WikiData/WD~law,7748]]'
 opposite_of: '[[_Standards/WikiData/WD~common_law,30216]]'
 Library_of_Congress_Classification: K585-K587
 P8189: 987007283805505171
+dv_has_:
+  name_:
+    ar: قانون مدني
+    ast: Derechu continental
+    az: Roman-German hüququ
+    be: рамана-германская прававая сям’я
+    be-tarask: кантынэнтальнае права
+    bg: Континентална правна система
+    bn: দেওয়ানি আইন
+    ca: dret continental
+    cs: kontinentální evropské právo
+    da: Civilret
+    de: Zivilrecht
+    en: civil law
+    en-us: civil law
+    eo: Romiĝermana juro
+    es: derecho continental
+    et: Kontinentaalne õigussüsteem
+    eu: zuzenbide kontinental
+    fa: قانون مدنی (نظام قانونی)
+    fi: säädösoikeus
+    fr: droits de tradition civiliste
+    ha: Dokar yan kasa
+    he: המשפט הקונטיננטלי
+    hi: सिविल विधि की विधिक प्रणाली
+    hr: Kontinentalno pravo
+    hu: kontinentális jog
+    hy: մայրցամաքային իրավունք
+    ia: Derecto civilista romanogermanic
+    id: Hukum sipil (sistem hukum)
+    is: Meginlandsréttur
+    it: civil law
+    ja: 大陸法
+    kbp: Romanɩ nɛ Caama tɛ waɖɛ
+    ko: 대륙법
+    lfn: Lege sivil
+    lt: Kontinentinė teisė
+    min: Hukum sipil (sistem hukum)
+    ms: Undang-undang sivil
+    nb: civil law
+    nl: continentaal recht
+    oc: Drech civilista
+    pl: System prawa kontynentalnego
+    pt: sistema romano-germânico
+    ro: Drept civil
+    ru: Романо-германская правовая семья
+    sco: Ceevil law (legal seestem)
+    sh: Kontinentalno pravo
+    sk: kontinentálne právo
+    sl: civilno pravo
+    sr: Континентално право
+    sr-ec: континентално право
+    sv: Civil law
+    ta: குடிமையியல் சட்டம்
+    th: ซีวิลลอว์
+    tr: Kara Avrupası hukuk düzeni
+    tt: Ватандашлар хокукы
+    tum: Dango la ŵanthu (Mthetho)
+    uk: Романо-германська правова сім'я
+    uz: Fuqarolik huquqi
+    vi: Hệ thống luật châu Âu lục địa
+    war: Balaud sibil
+    yue: 民法法系
+    zh: 大陆法系
+    zh-cn: 大陆法系
+    zh-hans: 大陆法系
+    zh-hant: 大陸法系
+    zh-hk: 大陸法系
+    zh-mo: 大陸法系
+    zh-my: 大陆法系
+    zh-sg: 大陆法系
+    zh-tw: 大陸法系
 ---
-
 # [[Civil_Law]] 
 
 #is_/different_from :: [[Common_Law]] 

@@ -1,21 +1,147 @@
 ---
 aliases:
-  - Prehistoric Art
-  - Prehistoric_Art
+- art prehistòric
+- Art preïstoric
+- Art prèhistorico
+- art préhistorique
+- arte da Pré-História
+- arte prehistórica
+- arte prehistórico
+- arte preistorica
+- Arti në parahistori
+- artă preistorică
+- ealaín réamhstairiúil
+- esiaja kunst
+- esihistoriallinen taide
+- forhistorisk kunst
+- förhistorisk konst
+- Ibtidoiy sanʼat
+- ouddhistoriaalʼlaž čeäppõs
+- ovdahistorjjálaš dáidda
+- ovdâhistorjálâš taaiđâ
+- Paleolitička umjetnost
+- paleolitska umjetnost
+- prahistoria arto
+- Prahistorijska umjetnost
+- Praveké umenie
+- prazgodovinska umetnost
+- Prehistoric Art
+- Prehistoric_Art
+- prehistoriese kuns
+- prehistorische kunst
+- Priešistorinis menas
+- prähistorische Kunst
+- Seni prasejarah
+- Sochařství a architektura pravěku
+- sztuka prehistoryczna
+- tarih öncesinde sanat
+- umetnost praistorije
+- åvddåhiståvrålasj dájdda
+- İbtidai incəsənət
+- őskori művészet
+- Προϊστορική τέχνη
+- первісне мистецтво
+- первобытное искусство
+- Першабытнае мастацтва
+- праисториска уметност
+- уметност праисторије
+- Նախնադարյան արվեստ
+- אמנות פרהיסטורית
+- فن بدائى
+- فن ما قبل التاريخ
+- مخکې له تاريخه هنر
+- هنر ماقبل تاریخ
+- ھونەری پێش مێژوو
+- प्रागैतिहासिक कला
+- প্রাগৈতিহাসিক শিল্পকলা
+- வரலாற்றுக்கு முந்திய காலக் கலை
+- ആദിമ കല
+- ศิลปะก่อนประวัติศาสตร์
+- 先史芸術
+- 原始艺术
+- 原始藝術
+- 선사 미술
 has_id_wikidata: Q1842924
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-  - '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~aspect_in_a_historical_period,111676757]]'
 inception: -35000-06
 subclass_of: '[[_Standards/WikiData/WD~art,735]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20of%20Willendorf%20frontview%20retouched%202.jpg
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DOPISMENNIE_FORMI_ISKUSSTVA.html
 Commons_category: Prehistoric art
+dv_has_:
+  name_:
+    af: prehistoriese kuns
+    ar: فن ما قبل التاريخ
+    arz: فن بدائى
+    az: İbtidai incəsənət
+    be: Першабытнае мастацтва
+    be-tarask: першабытнае мастацтва
+    bn: প্রাগৈতিহাসিক শিল্পকলা
+    bs: paleolitska umjetnost
+    ca: art prehistòric
+    ckb: ھونەری پێش مێژوو
+    cs: Sochařství a architektura pravěku
+    da: forhistorisk kunst
+    de: prähistorische Kunst
+    el: Προϊστορική τέχνη
+    en: prehistoric art
+    eo: prahistoria arto
+    es: arte prehistórico
+    et: esiaja kunst
+    fa: هنر ماقبل تاریخ
+    fi: esihistoriallinen taide
+    fr: art préhistorique
+    frp: Art prèhistorico
+    ga: ealaín réamhstairiúil
+    gl: arte prehistórica
+    he: אמנות פרהיסטורית
+    hi: प्रागैतिहासिक कला
+    hr: Paleolitička umjetnost
+    hu: őskori művészet
+    hy: Նախնադարյան արվեստ
+    it: arte preistorica
+    ja: 先史芸術
+    ko: 선사 미술
+    lt: Priešistorinis menas
+    mk: праисториска уметност
+    ml: ആദിമ കല
+    ms: Seni prasejarah
+    nb: forhistorisk kunst
+    new: प्रागैतिहासिक कला
+    nl: prehistorische kunst
+    oc: Art preïstoric
+    pl: sztuka prehistoryczna
+    ps: مخکې له تاريخه هنر
+    pt: arte da Pré-História
+    ro: artă preistorică
+    ru: первобытное искусство
+    se: ovdahistorjjálaš dáidda
+    sh: Prahistorijska umjetnost
+    sk: Praveké umenie
+    sl: prazgodovinska umetnost
+    smj: åvddåhiståvrålasj dájdda
+    smn: ovdâhistorjálâš taaiđâ
+    sms: ouddhistoriaalʼlaž čeäppõs
+    sq: Arti në parahistori
+    sr: уметност праисторије
+    sr-ec: уметност праисторије
+    sr-el: umetnost praistorije
+    sv: förhistorisk konst
+    ta: வரலாற்றுக்கு முந்திய காலக் கலை
+    th: ศิลปะก่อนประวัติศาสตร์
+    tr: tarih öncesinde sanat
+    uk: первісне мистецтво
+    uz: Ibtidoiy sanʼat
+    zh: 原始藝術
+    zh-hans: 原始艺术
+    zh-hant: 原始藝術
+    zh-hk: 原始藝術
 ---
-
 # [[Prehistoric_Art]] 
 
 #is_/same_as :: [[wd~Prehistoric_Art,1842924]] 

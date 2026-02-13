@@ -1,13 +1,71 @@
 ---
 aliases:
-  - studio system
-  - studio_system
-  - Film-Studio_System
-  - Film-Studio System
+- Estudio sistema
+- Film-Studio System
+- Film-Studio_System
+- Hệ thống xưởng phim
+- Kvikmyndaverin
+- Sistem studio
+- Sistema d'estudios
+- Sistema de estudios
+- Studijski sistem
+- Studijų sistema
+- studio system
+- Studiojärjestelmä
+- Studiosystem
+- studio_system
+- Stúdiórendszer
+- Stüdyo sistemi
+- system studyjny
+- студійна система
+- Студийная система
+- студыйная сыстэма
+- שיטת האולפנים
+- سیستم استودیویی
+- نظام إستديو
+- स्टुडियो व्यवस्था
+- স্টুডিও ব্যবস্থা
+- スタジオ・システム
+- 片場系統
+- 스튜디오 시스템
 has_id_wikidata: Q11307668
 subclass_of: '[[_Standards/WikiData/WD~filmmaking,932586]]'
+dv_has_:
+  name_:
+    ar: نظام إستديو
+    ast: Sistema d'estudios
+    be-tarask: студыйная сыстэма
+    bn: স্টুডিও ব্যবস্থা
+    ca: Studio system
+    de: Studiosystem
+    en: Studio system
+    es: Sistema de estudios
+    eu: Estudio sistema
+    fa: سیستم استودیویی
+    fi: Studiojärjestelmä
+    fr: Studio system
+    gl: Sistema de estudios
+    he: שיטת האולפנים
+    hu: Stúdiórendszer
+    id: Sistem studio
+    is: Kvikmyndaverin
+    it: Studio system
+    ja: スタジオ・システム
+    ko: 스튜디오 시스템
+    lt: Studijų sistema
+    nan: Studio system
+    nb: Studio system
+    new: स्टुडियो व्यवस्था
+    nl: Studio system
+    pl: system studyjny
+    ru: Студийная система
+    sh: Studijski sistem
+    sr: Studijski sistem
+    tr: Stüdyo sistemi
+    uk: студійна система
+    vi: Hệ thống xưởng phim
+    zh: 片場系統
 ---
-
 # [[Film-Studio_System]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Studio_system,11307668|WD~Studio_system,11307668]]  

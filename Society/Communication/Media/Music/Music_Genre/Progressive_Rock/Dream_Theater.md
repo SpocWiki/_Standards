@@ -1,4 +1,105 @@
-
+---
+has_id_wikidata: Q162586
+dv_has_:
+  name_:
+    ar: دريم ثياتر
+    ast: Dream Theater
+    azb: دریم تیتر
+    ban: Dream Theater
+    be-tarask: Dream Theater
+    bg: Дрийм Тиътър
+    bn: ড্রিম থিয়েটার
+    bs: Dream Theater
+    ca: Dream Theater
+    cs: Dream Theater
+    cy: Dream Theater
+    da: Dream Theater
+    de: Dream Theater
+    el: Dream Theater
+    en: Dream Theater
+    en-ca: Dream Theater
+    en-gb: Dream Theater
+    eo: Dream Theater
+    es: Dream Theater
+    et: Dream Theater
+    eu: Dream Theater
+    fa: دریم تیتر
+    fi: Dream Theater
+    fr: Dream Theater
+    fy: Dream Theater
+    ga: Dream Theater
+    gl: Dream Theater
+    he: Dream Theater
+    hi: ड्रीम थियेटर
+    hr: Dream Theater
+    hu: Dream Theater
+    hy: Dream Theater
+    id: Dream Theater
+    io: Dream Theater
+    is: Dream Theater
+    it: Dream Theater
+    ja: ドリーム・シアター
+    ka: Dream Theater
+    kn: ಡ್ರೀಮ್ ಥಿಯೇಟರ್
+    ko: 드림 시어터
+    la: Dream Theater
+    lt: Dream Theater
+    lv: Dream Theater
+    mk: Dream Theater
+    nb: Dream Theater
+    nl: Dream Theater
+    nn: Dream Theater
+    pl: Dream Theater
+    pms: Dream Theater
+    pt: Dream Theater
+    pt-br: Dream Theater
+    ro: Dream Theater
+    ru: Dream Theater
+    scn: Dream Theater
+    sco: Dream Theater
+    sh: Dream Theater
+    sk: Dream Theater
+    sl: Dream Theater
+    sq: Dream Theater
+    sr: Дрим тијатер
+    sr-ec: Дрим тијатер
+    sr-el: Дрим тијатер
+    sv: Dream Theater
+    ta: டிரீம் தியேட்டர்
+    te: డ్రీం థియేటర్
+    th: ดรีมเธียเตอร์
+    tr: Dream Theater
+    uk: Dream Theater
+    uz: Dream Theater
+    vi: Dream Theater
+    wuu: 梦剧场 (美国)
+    yue: 夢劇場
+    zh: 梦剧院
+    zh-cn: 梦剧院
+    zh-hans: 梦剧院
+    zh-hant: 夢劇院
+    zh-hk: 夢劇院
+    zh-sg: 梦剧院
+    zh-tw: 夢劇院
+aliases:
+- Dream Theater
+- Дрийм Тиътър
+- Дрим тијатер
+- دريم ثياتر
+- دریم تیتر
+- ड्रीम थियेटर
+- ড্রিম থিয়েটার
+- டிரீம் தியேட்டர்
+- డ్రీం థియేటర్
+- ಡ್ರೀಮ್ ಥಿಯೇಟರ್
+- ดรีมเธียเตอร์
+- ドリーム・シアター
+- 夢劇場
+- 夢劇院
+- 梦剧场 (美国)
+- 梦剧院
+- 드림 시어터
+---
 > Dream Theater is an American progressive metal band formed in 1985 in Boston, Massachusetts.  
 > The band comprises John Petrucci (guitar), John Myung (bass), Mike Portnoy (drums), 
 > James LaBrie (vocals) and Jordan Rudess (keyboards).

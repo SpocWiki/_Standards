@@ -1,70 +1,206 @@
 ---
 aliases:
-  - Carbon
+- Akaṛbun
+- anglis
+- carboan
+- Carbon
+- carbone
+- carbong
+- Carboni
+- Carbonie
+- Carbonio
+- Carboniu
+- carbonium
+- Carbono
+- carbonu
+- carbòni
+- Carbòniu
+- carbón
+- Danq
+- Gualan
+- hiili
+- Hiilisuadu
+- Hil'nik
+- I-carbon
+- ijo lili nanpa 6
+- Ikhaboni
+- ill
+- K'illimsayaq
+- Kaaban
+- Kaarboon
+- Kaarboonii
+- Kaboni
+- Kaboni (chisungunu)
+- Kabòn
+- Kalepona
+- Karbin
+- karbo
+- karbon
+- Karboni
+- karbonju
+- Karbonn
+- karbono
+- Karboon
+- Karbônina
+- Karɩbɔnɩ
+- Koalstof
+- Kohlenstoff
+- Koila
+- kol
+- kolefni
+- Kolevni
+- Koolestof
+- koolstof
+- Kuelestoff
+- Kárbọ̀nù
+- Káábin
+- ogleklis
+- ogljik
+- Onglis
+- szén
+- süsinik
+- tabno
+- Tatapỹi
+- Tecolli
+- Than
+- Thoàⁿ-sò͘
+- Táng
+- Uglerod
+- Ugljenik
+- ugljik
+- uhlík
+- waro
+- wuglik
+- Wuhlik
+- węgiel
+- wōngel
+- æвзалыгуыр
+- čitna
+- čiđđâ
+- άνθρακας
+- јаглерод
+- вуглець
+- вуглярод
+- въглерод
+- Кăмрăк
+- Карбон
+- күмер
+- Көміртегі
+- Көмүртек
+- Нүртөр
+- нүүрстөрөгч
+- Нүүрһэнтүрэгшэ
+- Седель
+- Седь
+- угљеник
+- Углерод
+- Шомувтыр
+- Шомчужысь
+- Шӱйдӱҥ
+- ածխածին
+- פחמן
+- קוילנשטאף
+- فحم
+- كاربون
+- كربون
+- کاربن
+- کاربون
+- کاربۆن
+- کربن
+- کربون
+- ڪاربن
+- कार्बन
+- कार्बोन
+- प्रांगार
+- प्राङ्गार
+- কার্বন
+- কাৰ্বন
+- ਕਾਰਬਨ
+- કાર્બન
+- ଅଙ୍ଗାରକ
+- கரிமம்
+- కార్బన్
+- ಇಂಗಾಲ
+- കാർബൺ
+- කාබන්
+- คาร์บอน
+- ຄາບອນ
+- སོཕ་རྗས།
+- ကာဗွန်
+- ထၢၼ်ႇ
+- ნახშირბადი
+- ካርቦን
+- ᎤᎦᏔ ᏅᏓᏳᏓᎴᏅ ᏬᏗᎨ
+- កាបូន
+- ⴰⵥⵓⵥⵉⵎ
+- 炭素
+- 碳
+- ꯀꯥꯔꯕꯣꯟ
+- 탄소
 has_id_wikidata: Q623
 atomic_number: 6
-canonical_SMILES: "[C]"
+canonical_SMILES: '[C]'
 CAS_Registry_Number: 7440-44-0
 chemical_formula: C
 Commons_category: Carbon
 Commons_gallery: Carbon
 CosIng_number: 95647
-crystal_system: "[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]"
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
 density:
-  - 2.26
-  - 3.51
+- 2.26
+- 3.51
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Carbon,84669446]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~Q249747,249747]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Carbon,84669446]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Q249747,249747]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]'
 DSSTOX_compound_identifier: DTXCID407391
 EC_number: 231-153-3
 electronegativity: 2.55
 electron_configuration:
-  - 1s² 2s² 2p²
-  - "[He] 2s² 2p²"
+- 1s² 2s² 2p²
+- '[He] 2s² 2p²'
 element_symbol: C
 Gmelin_number: 8868
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coal%20anthracite.jpg
 InChI: InChI=1S/C
 InChIKey: OKTJSMMVPCPJKN-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.15
-  - 0.16
+- 0.15
+- 0.16
 Krugosvet_article: nauka_i_tehnika/himiya/UGLEROD.html
 mass: 12.011
 MeSH_tree_code: D01.268.150
-named_after: "[[_Standards/WikiData/WD~coal,24489]]"
+named_after: '[[_Standards/WikiData/WD~coal,24489]]'
 OmegaWiki_Defined_Meaning: 484
 oxidation_state:
-  - -4
-  - -3
-  - -2
-  - -1
-  - 0
-  - 1
-  - 2
-  - 3
-  - 4
+- -4
+- -3
+- -2
+- -1
+- 0
+- 1
+- 2
+- 3
+- 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_14,106693]]"
-  - "[[_Standards/WikiData/WD~period_2,207712]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q57899690,57899690]]"
+- '[[_Standards/WikiData/WD~group_14,106693]]'
+- '[[_Standards/WikiData/WD~period_2,207712]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57899690,57899690]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Carbon-ar.ogg
 PubChem_CID: 5462310
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20006%20Carbon.svg
 SpocWebEntityId: 21480
 subclass_of:
-  - "[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
+- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
 time_of_discovery_or_invention: 1789
 type: Element
 Unicode_character: 碳
@@ -75,10 +211,241 @@ Wolfram_Language_entity_code: Entity["Element", "Carbon"]
 ZVG_number: 8040
 dv_has_:
   name_:
-    group: Group-14-Carbon
-    en: Carbon
-    de: Kohlenstoff
     abbreviated: C
+    af: koolstof
+    am: ካርቦን
+    an: carbonio
+    anp: कार्बन
+    ar: كربون
+    ary: كربون
+    arz: كاربون
+    as: কাৰ্বন
+    ast: carbonu
+    az: Karbon
+    azb: کربون
+    ba: Углерод
+    ban: Karbon
+    bcl: Karbon
+    be: вуглярод
+    be-tarask: вуглярод
+    bg: въглерод
+    bho: कार्बन
+    blk: ကာဗွန်
+    bn: কার্বন
+    bo: སོཕ་རྗས།
+    br: Karbon
+    bs: ugljik
+    bxr: Нүүрһэнтүрэгшэ
+    ca: carboni
+    cdo: Táng
+    ceb: Karbon
+    chr: ᎤᎦᏔ ᏅᏓᏳᏓᎴᏅ ᏬᏗᎨ
+    ckb: کاربۆن
+    co: Carboniu
+    crh: karbon
+    cs: uhlík
+    cv: Кăмрăк
+    cy: carbon
+    da: carbon
+    de: Kohlenstoff
+    de-ch: Kohlenstoff
+    dsb: wuglik
+    el: άνθρακας
+    en: carbon
+    en-ca: Carbon
+    en-gb: carbon
+    eo: karbono
+    es: carbono
+    et: süsinik
+    eu: karbono
+    ext: Carbonu
+    fa: کربن
+    fi: hiili
+    fj: Kaboni
+    fo: Kolevni
+    fr: carbone
+    frr: Karboon
+    fur: Carboni
+    fy: Koalstof
+    ga: carbón
+    gan: 碳
+    gcr: Karbonn
+    gd: Gualan
+    gl: carbono
+    gn: Tatapỹi
+    group: Group-14-Carbon
+    gsw: Kohlenstoff
+    gu: કાર્બન
+    gv: carboan
+    hak: Than
+    haw: Kalepona
+    he: פחמן
+    hi: प्रांगार
+    hif: Koila
+    hr: ugljik
+    hsb: Wuhlik
+    ht: Kabòn
+    hu: szén
+    hy: ածխածին
+    hyw: Ածխածին
+    ia: carbon
+    iba: Karbon
+    id: karbon
+    ie: Carbon
+    ilo: karbon
+    io: karbo
+    is: kolefni
+    it: carbonio
+    ja: 炭素
+    jam: Kaaban
+    jbo: tabno
+    jv: Karbon
+    ka: ნახშირბადი
+    kab: Akaṛbun
+    kbp: Karɩbɔnɩ
+    kge: Karbon
+    ki: Carbon
+    kk: Көміртегі
+    km: កាបូន
+    kn: ಇಂಗಾಲ
+    knc: Carbon
+    ko: 탄소
+    koi: Шомувтыр
+    ksh: Kohlenstoff
+    ku: Karbon
+    kv: Шомчужысь
+    kw: karbon
+    ky: Көмүртек
+    la: carbonium
+    lb: Kuelestoff
+    lez: Углерод
+    lfn: carbono
+    li: Koolstof
+    lij: Carbonio
+    lld: Carbonie
+    lmo: Carboni
+    ln: Kaboni
+    lo: ຄາບອນ
+    lt: anglis
+    lv: ogleklis
+    lzh: 碳
+    map-bms: Karbon
+    mdf: Седель
+    mg: Karbônina
+    mhr: Шӱйдӱҥ
+    mi: waro
+    min: Karbon
+    mk: јаглерод
+    ml: കാർബൺ
+    mn: нүүрстөрөгч
+    mni: ꯀꯥꯔꯕꯣꯟ
+    mr: कार्बन
+    mrj: Углерод
+    ms: karbon
+    ms-arab: کربون
+    mt: karbonju
+    my: ကာဗွန်
+    myv: Седь
+    nah: Tecolli
+    nan: Thoàⁿ-sò͘
+    nb: karbon
+    nds: Kohlenstoff
+    ne: कार्बन
+    new: कार्बोन
+    nl: koolstof
+    nn: karbon
+    nov: karbo
+    nv: Káábin
+    oc: carbòni
+    olo: Hiilisuadu
+    om: Kaarboonii
+    or: ଅଙ୍ଗାରକ
+    os: æвзалыгуыр
+    pa: ਕਾਰਬਨ
+    pap: karbon
+    pi: कार्बोन
+    pl: węgiel
+    pms: Carbòni
+    pnb: کاربن
+    ps: کاربون
+    pt: carbono
+    pt-br: carbono
+    qu: K'illimsayaq
+    ro: carbon
+    ru: углерод
+    rue: Вуглець
+    rup: Carbonu
+    sa: प्राङ्गार
+    sah: Карбон
+    sc: Carbòniu
+    scn: carboniu
+    sco: carbon
+    sd: ڪاربن
+    se: čitna
+    sgs: Onglis
+    sh: Ugljenik
+    shn: ထၢၼ်ႇ
+    si: කාබන්
+    sk: uhlík
+    skr: کاربن
+    sl: ogljik
+    smn: čiđđâ
+    sms: ill
+    sn: Carbon
+    so: Kaarboon
+    sq: Karboni
+    sr: угљеник
+    sr-ec: угљеник
+    stq: Koolestof
+    su: Karbon
+    sv: kol
+    sw: Kaboni
+    szl: wōngel
+    ta: கரிமம்
+    te: కార్బన్
+    tg: Карбон
+    th: คาร์บอน
+    tl: Karbon
+    tok: ijo lili nanpa 6
+    tr: karbon
+    tt: күмер
+    tt-cyrl: күмер
+    tum: Kaboni (chisungunu)
+    tyv: Углерод
+    udm: углерод
+    ug: كاربون
+    uk: вуглець
+    ur: فحم
+    uz: Uglerod
+    vec: Carbonio
+    vep: Hil'nik
+    vi: carbon
+    vls: carbong
+    vo: Karbin
+    wa: carbone
+    war: Carbono
+    wuu: 碳
+    xal: Нүртөр
+    xh: I-carbon
+    yi: קוילנשטאף
+    yo: Kárbọ̀nù
+    yue: 碳
+    za: Danq
+    zgh: ⴰⵥⵓⵥⵉⵎ
+    zh: 碳
+    zh-cn: 碳
+    zh-hans: 碳
+    zh-hant: 碳
+    zh-hk: 碳
+    zh-mo: 碳
+    zh-my: 碳
+    zh-sg: 碳
+    zh-tw: 碳
+    zu: Ikhaboni
+  number_of_:
+    period: 2
+    group: 14
+    electrons: 6
   value_for_:
     weight_:
       u: 12.011
@@ -106,20 +473,16 @@ dv_has_:
       form_:
         kj_:
           mol: 355.8
-  number_of_:
-    period: 2
-    group: 14
-    electrons: 6
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Carbon,623]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon|Carbon]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.public|Carbon.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.internal|Carbon.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.protect|Carbon.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.private|Carbon.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.personal|Carbon.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.secret|Carbon.secret]]"
+  - '[[../../../WikiData/WD~Carbon,623]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon|Carbon]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.public|Carbon.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.internal|Carbon.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.protect|Carbon.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.private|Carbon.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.personal|Carbon.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.secret|Carbon.secret]]'
 dv_has_name_group: Group-14-Carbon
 dv_has_name_en: Carbon
 dv_has_name_de: Kohlenstoff
@@ -139,18 +502,17 @@ dv_has_value_for_energy_form_kj_mol: 355.8
 dv_has_number_of_period: 2
 dv_has_number_of_group: 14
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Carbon,623]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon|Carbon]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.public|Carbon.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.internal|Carbon.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.protect|Carbon.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.private|Carbon.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.personal|Carbon.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.secret|Carbon.secret]]"
+- '[[../../../WikiData/WD~Carbon,623]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon|Carbon]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.public|Carbon.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.internal|Carbon.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.protect|Carbon.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.private|Carbon.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.personal|Carbon.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.secret|Carbon.secret]]'
 dv_has_name_abbreviated: C
 dv_has_number_of_electrons: 6
 ---
-
 # [[Carbon]] 
 
 

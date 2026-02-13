@@ -1,42 +1,164 @@
 ---
 aliases:
-  - Reflex
+- Ajoon
+- Erreflexu
+- frithluail
+- Kejat
+- odruch
+- Phản xạ tự nhiên
+- reacción reflexa
+- reflejo
+- Refleke
+- refleks
+- refleksas
+- refleksi
+- Refleksler
+- reflekso
+- reflekss
+- Reflex
+- reflexo
+- Reflexu
+- Reflexus
+- Reflèks
+- riflesso
+- réflexe
+- ανακλαστικό
+- рефлекс
+- Рефлекстер
+- рэфлекс
+- Ռեֆլեքս
+- רפלקס
+- رفلکس
+- رەفلەكس
+- منعكس
+- پەرچەکردار
+- প্রতিবর্তী ক্রিয়া
+- அனிச்சைச் செயல்
+- അനൈച്ഛികചേഷ്ട
+- รีเฟล็กซ์
+- რეფლექსები
+- 反射
+- 反射 (生理学)
+- 反射動作
+- 반사
 has_id_wikidata: Q179405
 different_from:
-  - '[[_Standards/WikiData/WD~classical_conditioning,212737]]'
-  - '[[_Standards/WikiData/WD~Q56304506,56304506]]'
+- '[[_Standards/WikiData/WD~classical_conditioning,212737]]'
+- '[[_Standards/WikiData/WD~Q56304506,56304506]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~motor_control,2996165]]'
-  - '[[_Standards/WikiData/WD~response_to_external_stimulus,14863388]]'
+- '[[_Standards/WikiData/WD~motor_control,2996165]]'
+- '[[_Standards/WikiData/WD~response_to_external_stimulus,14863388]]'
 instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~involuntary_action,6061399]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Reflex,20378850]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons%20en.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons%20ku.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Img%20arc%20reflex%20cat.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Img%20arc%20reflex%20esp.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Reflex%20arc-La.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Reflexes.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons%20en.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Afferent%20and%20efferent%20neurons%20ku.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Img%20arc%20reflex%20cat.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Img%20arc%20reflex%20esp.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Reflex%20arc-La.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Reflexes.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Scratch%20reflex%20demonstrated%20by%20Irish%20Wolfhound%20mix.webm
 exact_match: http://purl.obolibrary.org/obo/GO_0060004
 UMLS_CUI:
-  - C0034929
-  - C0439840
+- C0034929
+- C0439840
 MeSH_tree_code:
-  - E01.370.376.550.650
-  - E01.370.600.550.650
-  - F02.830.702
-  - G11.561.731
+- E01.370.376.550.650
+- E01.370.600.550.650
+- F02.830.702
+- G11.561.731
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/REFLEKS.html
 Commons_category: Reflexes
+dv_has_:
+  name_:
+    af: refleks
+    ar: منعكس
+    ast: Reflexu
+    az: Refleks
+    azb: رفلکس
+    be: рэфлекс
+    be-tarask: рэфлекс
+    bew: Kejat
+    bg: Рефлекс
+    bn: প্রতিবর্তী ক্রিয়া
+    bs: Refleks
+    ca: reflex
+    ckb: پەرچەکردار
+    cs: reflex
+    da: refleks
+    de: Reflex
+    el: ανακλαστικό
+    en: reflex
+    eo: reflekso
+    es: reflejo
+    et: Refleks
+    eu: Erreflexu
+    fa: رفلکس
+    fi: refleksi
+    fr: réflexe
+    ga: frithluail
+    gl: reacción reflexa
+    he: רפלקס
+    hr: Refleks
+    ht: Reflèks
+    hu: reflex
+    hy: Ռեֆլեքս
+    id: Refleks
+    it: riflesso
+    ja: 反射
+    ka: რეფლექსები
+    kaa: Refleksler
+    kk: Рефлекс
+    kk-arab: رەفلەكس
+    kk-cn: رەفلەكس
+    kk-cyrl: Рефлекс
+    kk-kz: Рефлекс
+    kk-latn: Refleks
+    kk-tr: Refleks
+    ko: 반사
+    ku: refleks
+    ky: Рефлекстер
+    la: Reflexus
+    lt: refleksas
+    lv: reflekss
+    mk: рефлекс
+    ml: അനൈച്ഛികചേഷ്ട
+    nb: refleks
+    nl: reflex
+    nn: refleks
+    pl: odruch
+    pt: reflexo
+    ro: reflex
+    ru: рефлекс
+    sco: reflex
+    sk: reflex
+    sl: refleks
+    so: Ajoon
+    sr: рефлекс
+    sv: reflex
+    ta: அனிச்சைச் செயல்
+    th: รีเฟล็กซ์
+    tr: refleks
+    tt: Рефлекс
+    uk: рефлекс
+    vi: Phản xạ tự nhiên
+    wa: Refleke
+    wuu: 反射 (生理学)
+    yue: 反射動作
+    zh: 反射
+    zh-cn: 反射
+    zh-hans: 反射
+    zh-hant: 反射
+    zh-hk: 反射
+    zh-sg: 反射
+    zh-tw: 反射
 ---
-
 # [[Reflex]] 
 
 #is_/same_as :: [[WD~Reflex,179405]] 

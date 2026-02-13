@@ -1,71 +1,115 @@
 ---
 aliases:
-  - John_Forbes_Nash
-  - John Forbes Nash Jr
-  - John Nash
-  - Nash
-  - Nash,John_Forbes
-  - Nash,John Forbes
+- Con Neş
+- Džon Neš
+- Džons Nešs
+- Ioannes Forbes Nash
+- John F. Nash Jr.
+- John Forbes Nash
+- John Forbes Nash Jr
+- John Forbes Nash Jr.
+- John Forbes Nash, Jr
+- John Forbes Nash, Jr.
+- John Nash
+- John_Forbes_Nash
+- Nash
+- Nash,John Forbes
+- Nash,John_Forbes
+- Τζον Φορμπς Νας
+- Џон Неш
+- Џон Форбс Неш
+- Джон Наш
+- Джон Форбс Неш
+- Джон Форбс Нэш
+- Жон Нэйш
+- Ճոն Նաշ
+- Ջոն Նեշ
+- ג'ון פורבס נאש
+- جان فوربز نش
+- جان فوربس ناش جے آر
+- جان فوربس نیش
+- جون فوربس ناش
+- جۆن ناش
+- जॉन नॅश
+- जॉन फोर्ब्स नैश जूनियर
+- জন ফ'ৰ্বছ্ নাশ্ব
+- জন ফর্ব্স ন্যাশ
+- ਨੈਸ਼ ਫ਼ੋਰਬਸ ਯੂਨੀਅਰ
+- ଜନ୍ ନ୍ୟାଶ୍ ଜୁନିଅର
+- ஜான் ஃபோர்ப்ஸ் நாஷ்
+- జాన్ నాష్
+- ಜಾನ್ ಫೋರ್ಬ್ಸ್ ನ್ಯಾಶ್
+- ജോൺ എഫ് നാഷ്
+- จอห์น แนช
+- ဂျွန် နက်ရှ်
+- ჯონ ფორბს ნეში
+- ジョン・ナッシュ
+- 約翰·福布斯·拿殊
+- 約翰·福布斯·納什
+- 約翰·福布斯·納許
+- 约翰·福布斯·纳什
+- 莊·科比斯·拿殊
+- 존 포브스 내시
 has_id_wikidata: Q128736
 academic_degree:
-  - "[[_Standards/WikiData/WD~bachelor's_degree,163727]]"
-  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- "[[_Standards/WikiData/WD~bachelor's_degree,163727]]"
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 occupation:
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~differential_geometry,188444]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~economics,8134]]'
-  - '[[_Standards/WikiData/WD~game_theory,44455]]'
+- '[[_Standards/WikiData/WD~differential_geometry,188444]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~game_theory,44455]]'
 place_of_death: '[[_Standards/WikiData/WD~Monroe_Township,224781]]'
 member_of:
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Mathematical_Society,465654]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
-  - '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
-  - '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Mathematical_Society,465654]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
+- '[[_Standards/WikiData/WD~Norwegian_Academy_of_Science_and_Letters,1423356]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Carnegie_Institute_of_Technology,558977]]'
-  - '[[_Standards/WikiData/WD~Bluefield_University,4930299]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Carnegie_Institute_of_Technology,558977]]'
+- '[[_Standards/WikiData/WD~Bluefield_University,4930299]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Christian_atheism,620016]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Albert_W._Tucker,777234]]'
 employer:
-  - '[[_Standards/WikiData/WD~RAND_Corporation,861141]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~RAND_Corporation,861141]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bluefield,885991]]'
 residence: '[[_Standards/WikiData/WD~West_Windsor_Township,1073777]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Nash_embedding_theorem,1306092]]'
-  - "[[_Standards/WikiData/WD~Hilbert's_nineteenth_problem,5761157]]"
-  - '[[_Standards/WikiData/WD~Nash_functions,6966819]]'
-  - '[[_Standards/WikiData/WD~Nash_Moser_theorem,6967039]]'
-  - '[[_Standards/WikiData/WD~Nash_blowing_up,17099322]]'
-  - '[[_Standards/WikiData/WD~Nash_Kuiper_theorem,18212342]]'
-  - '[[_Standards/WikiData/WD~Nash_Williams_theorem,65066994]]'
-  - '[[_Standards/WikiData/WD~Nash_equilibrium,23389]]'
+- '[[_Standards/WikiData/WD~Nash_embedding_theorem,1306092]]'
+- "[[_Standards/WikiData/WD~Hilbert's_nineteenth_problem,5761157]]"
+- '[[_Standards/WikiData/WD~Nash_functions,6966819]]'
+- '[[_Standards/WikiData/WD~Nash_Moser_theorem,6967039]]'
+- '[[_Standards/WikiData/WD~Nash_blowing_up,17099322]]'
+- '[[_Standards/WikiData/WD~Nash_Kuiper_theorem,18212342]]'
+- '[[_Standards/WikiData/WD~Nash_Williams_theorem,65066994]]'
+- '[[_Standards/WikiData/WD~Nash_equilibrium,23389]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~A_Beautiful_Mind,1767499]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~A_Beautiful_Mind,1767499]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 family_name: '[[_Standards/WikiData/WD~Nash,1965666]]'
 medical_condition: '[[_Standards/WikiData/WD~paranoid_schizophrenia,2606101]]'
 archives_at: '[[_Standards/WikiData/WD~Princeton_University_Library,3297681]]'
 given_name:
-  - '[[_Standards/WikiData/WD~John,4925477]]'
-  - '[[_Standards/WikiData/WD~Forbes,21396671]]'
+- '[[_Standards/WikiData/WD~John,4925477]]'
+- '[[_Standards/WikiData/WD~Forbes,21396671]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 award_received:
-  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Mathematical_Society,61744980]]'
-  - '[[_Standards/WikiData/WD~Steele_Prize_for_Seminal_Contribution_to_Research,63724652]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Hong_Kong_Polytechnic_University,100787516]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Mathematical_Society,61744980]]'
+- '[[_Standards/WikiData/WD~Steele_Prize_for_Seminal_Contribution_to_Research,63724652]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Hong_Kong_Polytechnic_University,100787516]]'
 spouse: '[[_Standards/WikiData/WD~Alicia_Nash,19989065]]'
 manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
 academic_thesis: '[[_Standards/WikiData/WD~Q56115416,56115416]]'
@@ -89,8 +133,120 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/NESH
 name_in_native_language: John Forbes Nash
 date_of_birth: 1928-06-13T00:00:00Z
 date_of_death: 2015-05-23T00:00:00Z
+dv_has_:
+  name_:
+    an: John Forbes Nash
+    ar: جون فوربس ناش
+    arz: جون فوربس ناش
+    as: জন ফ'ৰ্বছ্ নাশ্ব
+    ast: John Forbes Nash
+    az: Con Neş
+    azb: جان فوربز نش
+    be: Джон Форбс Нэш
+    be-tarask: Джон Форбс Нэш
+    bg: Джон Наш
+    bn: জন ফর্ব্স ন্যাশ
+    br: John F. Nash Jr.
+    ca: John Forbes Nash
+    ckb: جۆن ناش
+    cs: John Forbes Nash
+    cy: John Forbes Nash
+    da: John Forbes Nash
+    dag: John Forbes Nash
+    de: John Forbes Nash Jr.
+    de-ch: John Forbes Nash Jr.
+    el: Τζον Φορμπς Νας
+    en: John Forbes Nash
+    en-ca: John Forbes Nash, Jr.
+    en-gb: John Forbes Nash, Jr.
+    eo: John Nash
+    es: John Forbes Nash
+    et: John Forbes Nash
+    eu: John Nash
+    fa: جان فوربز نش
+    fi: John Forbes Nash
+    fr: John Forbes Nash
+    ga: John Forbes Nash
+    gd: John Nash
+    gl: John Forbes Nash
+    gsw: John Forbes Nash Jr.
+    he: ג'ון פורבס נאש
+    hi: जॉन फोर्ब्स नैश जूनियर
+    hr: John Forbes Nash
+    ht: John Forbes Nash
+    hu: John Forbes Nash
+    hy: Ջոն Նեշ
+    hyw: Ճոն Նաշ
+    id: John Forbes Nash
+    io: John Forbes Nash
+    is: John Forbes Nash
+    it: John Nash
+    ja: ジョン・ナッシュ
+    ka: ჯონ ფორბს ნეში
+    kk: Джон Форбс Нэш
+    kn: ಜಾನ್ ಫೋರ್ಬ್ಸ್ ನ್ಯಾಶ್
+    ko: 존 포브스 내시
+    la: Ioannes Forbes Nash
+    lb: John Forbes Nash, Jr.
+    li: John Forbes Nash
+    lt: John Forbes Nash
+    lv: Džons Nešs
+    mg: John Forbes Nash
+    mk: Џон Форбс Неш
+    ml: ജോൺ എഫ് നാഷ്
+    mn: Жон Нэйш
+    mr: जॉन नॅश
+    ms: John Forbes Nash Jr.
+    mul: John Forbes Nash
+    my: ဂျွန် နက်ရှ်
+    nan: John Forbes Nash Jr.
+    nb: John Forbes Nash
+    nds: John Forbes Nash Jr.
+    nl: John Forbes Nash Jr.
+    nn: John F. Nash Jr.
+    or: ଜନ୍ ନ୍ୟାଶ୍ ଜୁନିଅର
+    pa: ਨੈਸ਼ ਫ਼ੋਰਬਸ ਯੂਨੀਅਰ
+    pap: John Forbes Nash
+    pl: John Forbes Nash
+    pnb: جان فوربس نیش
+    ps: جان فوربز نش
+    pt: John Forbes Nash
+    pt-br: John Forbes Nash
+    ro: John Nash
+    ru: Джон Форбс Нэш
+    scn: John Nash
+    sco: John Forbes Nash
+    sgs: John Forbes Nash, Jr
+    sh: John Forbes Nash
+    sk: John Forbes Nash
+    sl: John Forbes Nash
+    sq: John Forbes Nash
+    sr: Džon Neš
+    sr-ec: Џон Неш
+    sr-el: Džon Neš
+    sv: John Forbes Nash
+    ta: ஜான் ஃபோர்ப்ஸ் நாஷ்
+    te: జాన్ నాష్
+    th: จอห์น แนช
+    tl: John Forbes Nash
+    tr: John Forbes Nash
+    uk: Джон Форбс Неш
+    ur: جان فوربس ناش جے آر
+    uz: John Nash
+    vi: John Forbes Nash
+    war: John Forbes Nash, Jr.
+    wuu: 约翰·福布斯·纳什
+    xmf: ჯონ ფორბს ნეში
+    yo: John Forbes Nash
+    yue: 莊·科比斯·拿殊
+    zh: 约翰·福布斯·纳什
+    zh-cn: 约翰·福布斯·纳什
+    zh-hans: 约翰·福布斯·纳什
+    zh-hant: 約翰·福布斯·納什
+    zh-hk: 約翰·福布斯·拿殊
+    zh-sg: 约翰·福布斯·纳什
+    zh-tw: 約翰·福布斯·納許
 ---
-
 # [[Nash,John_Forbes]] 
 
 #is_/same_as :: [[WD~John_Forbes_Nash,128736]] 

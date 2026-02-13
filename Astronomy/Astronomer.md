@@ -1,58 +1,140 @@
 ---
 aliases:
-  - Astronom
-  - Astronomer
+- ahli astronomi
+- amesnallun
+- asmênşınas
+- Astronom
+- astronoma
+- astronomas
+- astronome
+- Astronomer
+- astronomiste
+- astronomiyacı
+- astronomo
+- astronoms
+- astronomu
+- astronomus
+- astronoom
+- astronåmå
+- astronòm
+- astronóm
+- astrònom
+- astrònomo
+- astrònumu
+- astrónomo
+- astrónomu
+- astrônomo
+- astrōnōm
+- csillagász
+- Ilimin Taurari
+- mbyjakuaahára
+- mpahaikintana
+- nhà thiên văn học
+- onye na-enyocha mbara igwe
+- reul-eòlaiche
+- rollageyder
+- réalteolaí
+- seryddwr
+- stelavan
+- steredoniour
+- steronydh
+- stjerrekundige
+- stêrnas
+- Thian-bûn-ha̍k-ka
+- tohunga kōkōrangi
+- tähtitieteilijä
+- täsnitiettee
+- täʹsnntiõđooumaž
+- wanaastronomia
+- xidigisyahan
+- αστρονόμος
+- ѕвѣздозьрьць
+- астраном
+- астроном
+- астрономсь
+- ахтаршинос
+- одон орон судлаач
+- աստղագետ
+- աստղագէտ
+- אסטראנאם
+- אסטרונום
+- آسترونومیچی
+- ئەستێرەناس
+- اهلي استرونومي
+- تارہ گرو
+- ستارهشناس
+- عالم فلك
+- فلكي
+- ماہر فلکیات
+- مٲہِرِ فلکیات
+- ߛߊ߲ߡߊߛߓߍߟߊ
+- खगोल विज्ञानी
+- खगोलशास्त्रज्ञ
+- জ্যোতির্বিজ্ঞানী
+- ଜ୍ୟୋତିର୍ବିଜ୍ଞାନୀ
+- வானியல் வல்லுநர்
+- ജ്യോതിഃശാസ്ത്രജ്ഞ
+- තාරකාවේදියා
+- นักดาราศาสตร์
+- နက္ခတ္တပညာရှင်
+- ასტრონომი
+- ἀστρονόμος
+- 天文学家
+- 天文学者
+- 天文學家
+- ꯈꯦꯟꯆꯣꯡꯂꯣꯢ
+- 천문학자
 has_id_wikidata: Q11063
 described_by_source:
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 male_form_of_label:
-  - فلكي
-  - astronomo
-  - astronome
-  - astrônomo
-  - אסטרונום
-  - Astronom
-  - астраном
-  - astrónomo
-  - astronomulo
-  - Astronom
-  - astronomas
-  - ജ്യോതിഃശാസ്ത്രജ്ഞൻ
-  - астроном
-  - histelavan
+- فلكي
+- astronomo
+- astronome
+- astrônomo
+- אסטרונום
+- Astronom
+- астраном
+- astrónomo
+- astronomulo
+- Astronom
+- astronomas
+- ജ്യോതിഃശാസ്ത്രജ്ഞൻ
+- астроном
+- histelavan
 female_form_of_label:
-  - فلكية
-  - astronome
-  - אסטרונומית
-  - astrónoma
-  - astrônoma
-  - ജ്യോതിഃശാസ്ത്രജ്ഞ
-  - astronomka
-  - Astronomin
-  - astrónoma
-  - عالمة فلك
-  - عالمة فلك
-  - astrónoma
-  - астраномка
-  - steredoniourez
-  - astrònoma
-  - astronomino
-  - astrónoma
-  - astronomino
-  - astronoma
-  - Astronomin
-  - astronomė
-  - astronome
-  - astronomka
-  - astronomă
-  - astronomka
-  - астрономка
-  - jistelavan
-opposite_of: "[[_Standards/WikiData/WD~pseudoastronomer,120628718]]"
-subclass_of: "[[_Standards/WikiData/WD~scientist,901]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
+- فلكية
+- astronome
+- אסטרונומית
+- astrónoma
+- astrônoma
+- ജ്യോതിഃശാസ്ത്രജ്ഞ
+- astronomka
+- Astronomin
+- astrónoma
+- عالمة فلك
+- عالمة فلك
+- astrónoma
+- астраномка
+- steredoniourez
+- astrònoma
+- astronomino
+- astrónoma
+- astronomino
+- astronoma
+- Astronomin
+- astronomė
+- astronome
+- astronomka
+- astronomă
+- astronomka
+- астрономка
+- jistelavan
+opposite_of: '[[_Standards/WikiData/WD~pseudoastronomer,120628718]]'
+subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
 ISCO_08_occupation_class: 2111
 ISCO_88_occupation_class: 2111
 OmegaWiki_Defined_Meaning: 392133
@@ -68,25 +150,170 @@ Provenio_UUID: bfe867b8-334c-4500-9a80-0c267556ca37
 UMLS_CUI: C0334726
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~astronomer,11063]]"
-    - "[[/_Standards/Astronomy/Astronomer|Astronomer]]"
-    - "[[/_public/Astronomy/Astronomer.public|Astronomer.public]]"
-    - "[[/_internal/Astronomy/Astronomer.internal|Astronomer.internal]]"
-    - "[[/_protect/Astronomy/Astronomer.protect|Astronomer.protect]]"
-    - "[[/_private/Astronomy/Astronomer.private|Astronomer.private]]"
-    - "[[/_personal/Astronomy/Astronomer.personal|Astronomer.personal]]"
-    - "[[/_secret/Astronomy/Astronomer.secret|Astronomer.secret]]"
+  - '[[_Standards/WikiData/WD~astronomer,11063]]'
+  - '[[/_Standards/Astronomy/Astronomer|Astronomer]]'
+  - '[[/_public/Astronomy/Astronomer.public|Astronomer.public]]'
+  - '[[/_internal/Astronomy/Astronomer.internal|Astronomer.internal]]'
+  - '[[/_protect/Astronomy/Astronomer.protect|Astronomer.protect]]'
+  - '[[/_private/Astronomy/Astronomer.private|Astronomer.private]]'
+  - '[[/_personal/Astronomy/Astronomer.personal|Astronomer.personal]]'
+  - '[[/_secret/Astronomy/Astronomer.secret|Astronomer.secret]]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~astronomer,11063]]"
-  - "[[/_Standards/Astronomy/Astronomer|Astronomer]]"
-  - "[[/_public/Astronomy/Astronomer.public|Astronomer.public]]"
-  - "[[/_internal/Astronomy/Astronomer.internal|Astronomer.internal]]"
-  - "[[/_protect/Astronomy/Astronomer.protect|Astronomer.protect]]"
-  - "[[/_private/Astronomy/Astronomer.private|Astronomer.private]]"
-  - "[[/_personal/Astronomy/Astronomer.personal|Astronomer.personal]]"
-  - "[[/_secret/Astronomy/Astronomer.secret|Astronomer.secret]]"
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[/_Standards/Astronomy/Astronomer|Astronomer]]'
+- '[[/_public/Astronomy/Astronomer.public|Astronomer.public]]'
+- '[[/_internal/Astronomy/Astronomer.internal|Astronomer.internal]]'
+- '[[/_protect/Astronomy/Astronomer.protect|Astronomer.protect]]'
+- '[[/_private/Astronomy/Astronomer.private|Astronomer.private]]'
+- '[[/_personal/Astronomy/Astronomer.personal|Astronomer.personal]]'
+- '[[/_secret/Astronomy/Astronomer.secret|Astronomer.secret]]'
+dv_has_:
+  name_:
+    ar: فلكي
+    ary: فلكي
+    arz: عالم فلك
+    ast: astrónomu
+    az: astronom
+    azb: آسترونومیچی
+    be: астраном
+    be-tarask: астраном
+    bg: астроном
+    bho: खगोलशास्त्रज्ञ
+    bn: জ্যোতির্বিজ্ঞানী
+    br: steredoniour
+    bs: astronom
+    ca: astrònom
+    ckb: ئەستێرەناس
+    crh-latn: astronomiyacı
+    cs: astronom
+    cu: ѕвѣздозьрьць
+    cv: астроном
+    cy: seryddwr
+    da: astronom
+    de: Astronom
+    diq: asmênşınas
+    el: αστρονόμος
+    en: astronomer
+    en-gb: astronomer
+    eo: astronomo
+    es: astrónomo
+    et: astronoom
+    eu: astronomo
+    fa: ستارهشناس
+    fi: tähtitieteilijä
+    fr: astronome
+    fy: stjerrekundige
+    ga: réalteolaí
+    gd: reul-eòlaiche
+    gl: astrónomo
+    gn: mbyjakuaahára
+    grc: ἀστρονόμος
+    gsw: Astronom
+    gv: rollageyder
+    ha: Ilimin Taurari
+    he: אסטרונום
+    hi: खगोल विज्ञानी
+    hr: astronom
+    hsb: astronom
+    hu: csillagász
+    hy: աստղագետ
+    hyw: աստղագէտ
+    ia: astronomo
+    id: astronom
+    ig: onye na-enyocha mbara igwe
+    ilo: astronomo
+    io: astronomo
+    it: astronomo
+    ja: 天文学者
+    jv: astronom
+    ka: ასტრონომი
+    kaa: astronom
+    kab: amesnallun
+    kk: астроном
+    ko: 천문학자
+    ks: مٲہِرِ فلکیات
+    ku: stêrnas
+    ku-latn: stêrnas
+    kw: steronydh
+    la: astronomus
+    lb: Astronom
+    lfn: astronomiste
+    li: Astronoom
+    lij: astrònomo
+    lt: astronomas
+    lv: astronoms
+    mdf: астрономсь
+    mg: mpahaikintana
+    mi: tohunga kōkōrangi
+    mk: астроном
+    ml: ജ്യോതിഃശാസ്ത്രജ്ഞ
+    mn: одон орон судлаач
+    mni: ꯈꯦꯟꯆꯣꯡꯂꯣꯢ
+    mr: खगोलशास्त्रज्ञ
+    ms: ahli astronomi
+    ms-arab: اهلي استرونومي
+    mt: astronomu
+    my: နက္ခတ္တပညာရှင်
+    nan: Thian-bûn-ha̍k-ka
+    nb: astronom
+    nds: Astronom
+    nl: astronoom
+    nn: astronom
+    nqo: ߛߊ߲ߡߊߛߓߍߟߊ
+    oc: astronòm
+    or: ଜ୍ୟୋତିର୍ବିଜ୍ଞାନୀ
+    os: астроном
+    pl: astronom
+    pnb: تارہ گرو
+    pt: astrónomo
+    pt-br: astrônomo
+    ro: astronom
+    ru: астроном
+    rue: астроном
+    sah: астроном
+    scn: astrònumu
+    sco: astronomer
+    se: astronoma
+    sh: astronom
+    si: තාරකාවේදියා
+    sje: astronåmå
+    sk: astronóm
+    sl: astronom
+    smn: täsnitiettee
+    sms: täʹsnntiõđooumaž
+    so: xidigisyahan
+    sq: astronom
+    sr: астроном
+    sr-ec: астроном
+    sr-el: astronom
+    sv: astronom
+    sw: wanaastronomia
+    szl: astrōnōm
+    ta: வானியல் வல்லுநர்
+    tg: ахтаршинос
+    th: นักดาราศาสตร์
+    tl: astronomo
+    tr: astronom
+    tt: астроном
+    uk: астроном
+    ur: ماہر فلکیات
+    uz: astronom
+    vec: astrònomo
+    vi: nhà thiên văn học
+    vo: stelavan
+    wuu: 天文學家
+    yi: אסטראנאם
+    yue: 天文學家
+    zh: 天文学家
+    zh-cn: 天文学家
+    zh-hans: 天文学家
+    zh-hant: 天文學家
+    zh-hk: 天文學家
+    zh-mo: 天文學家
+    zh-my: 天文学家
+    zh-sg: 天文学家
+    zh-tw: 天文學家
 ---
-
 # [[Astronomer]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~astronomer,11063]] 

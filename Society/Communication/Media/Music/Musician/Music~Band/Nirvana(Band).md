@@ -1,62 +1,85 @@
 ---
-has_time_started: 1987-01-01 
+has_time_started: 1987-01-01
 aliases:
+- Nirvana
+- Nirvana；超脫樂團
+- Nirvana；超脱乐团
+- Rockegruppa Nirvana
+- Нирвана
+- Նիրվանա
+- נירוונה
+- نيرفانا
+- نیروانا
+- نیرڤانا
+- निर्भाना
+- निर्वाण
+- নিরভানা
+- ਨਿਰਵਾਨਾ
+- നിർവാണ
+- เนอร์วานา
+- ნირვანა
+- នើវ៉ាណា
+- ニルヴァーナ
+- 涅槃乐队
+- 涅槃樂隊
+- 너바나
+- "\U0001033D\U00010339\U00010342\U00010331\U00010330\U0001033D\U00010330"
 has_id_wikidata: Q11649
 record_label:
-  - "[[_Standards/WikiData/WD~Warner_Bros.,126399]]"
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Sub_Pop,778673]]"
-  - "[[_Standards/WikiData/WD~Warner_Music_Group,21077]]"
+- '[[_Standards/WikiData/WD~Warner_Bros.,126399]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Sub_Pop,778673]]'
+- '[[_Standards/WikiData/WD~Warner_Music_Group,21077]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_New_Artist,595693]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Alternative_Video,821010]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Art_Direction,917698]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Alternative_Music_Album,1542129]]"
-  - "[[_Standards/WikiData/WD~BRIT_Award_for_International_Breakthrough_Act,16985322]]"
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_New_Artist,595693]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Alternative_Video,821010]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Art_Direction,917698]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Alternative_Music_Album,1542129]]'
+- '[[_Standards/WikiData/WD~BRIT_Award_for_International_Breakthrough_Act,16985322]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Pixies,188464]]"
-  - "[[_Standards/WikiData/WD~Sonic_Youth,188626]]"
-  - "[[_Standards/WikiData/WD~The_Stooges,208767]]"
-  - "[[_Standards/WikiData/WD~The_Vaselines,1542725]]"
-  - "[[_Standards/WikiData/WD~Wipers,1889932]]"
-  - "[[_Standards/WikiData/WD~Led_Zeppelin,2331]]"
-  - "[[_Standards/WikiData/WD~Black_Sabbath,47670]]"
+- '[[_Standards/WikiData/WD~Pixies,188464]]'
+- '[[_Standards/WikiData/WD~Sonic_Youth,188626]]'
+- '[[_Standards/WikiData/WD~The_Stooges,208767]]'
+- '[[_Standards/WikiData/WD~The_Vaselines,1542725]]'
+- '[[_Standards/WikiData/WD~Wipers,1889932]]'
+- '[[_Standards/WikiData/WD~Led_Zeppelin,2331]]'
+- '[[_Standards/WikiData/WD~Black_Sabbath,47670]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~musical_group,215380]]"
-  - "[[_Standards/WikiData/WD~rock_band,5741069]]"
-location_of_formation: "[[_Standards/WikiData/WD~Aberdeen,233808]]"
-different_from: "[[_Standards/WikiData/WD~Nirvana,260557]]"
+- '[[_Standards/WikiData/WD~musical_group,215380]]'
+- '[[_Standards/WikiData/WD~rock_band,5741069]]'
+location_of_formation: '[[_Standards/WikiData/WD~Aberdeen,233808]]'
+different_from: '[[_Standards/WikiData/WD~Nirvana,260557]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Song,282636]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_New_Artist,595693]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Cinematography,615682]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Alternative_Video,821010]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Art_Direction,917698]]"
-  - "[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Video_of_the_Year,1065651]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Alternative_Music_Album,1542129]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Performance_by_a_Duo_or_Group_with_Vocal,1542205]]"
-  - "[[_Standards/WikiData/WD~BRIT_Award_for_International_Breakthrough_Act,16985322]]"
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Song,282636]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_New_Artist,595693]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Cinematography,615682]]'
+- "[[_Standards/WikiData/WD~MTV_Video_Music_Award_Viewer's_Choice,667066]]"
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Alternative_Video,821010]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Best_Art_Direction,917698]]'
+- '[[_Standards/WikiData/WD~MTV_Video_Music_Award_for_Video_of_the_Year,1065651]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Alternative_Music_Album,1542129]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Performance_by_a_Duo_or_Group_with_Vocal,1542205]]'
+- '[[_Standards/WikiData/WD~BRIT_Award_for_International_Breakthrough_Act,16985322]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Chad_Channing,356938]]"
-  - "[[_Standards/WikiData/WD~Krist_Novoselic,428798]]"
-  - "[[_Standards/WikiData/WD~Jason_Everman,443395]]"
-  - "[[_Standards/WikiData/WD~Dale_Crover,451088]]"
-  - "[[_Standards/WikiData/WD~Aaron_Burckhard,1990978]]"
-  - "[[_Standards/WikiData/WD~Kurt_Cobain,8446]]"
-  - "[[_Standards/WikiData/WD~Dave_Grohl,12006]]"
-discography: "[[_Standards/WikiData/WD~Nirvana_discography,915525]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Nirvana,6605689]]"
+- '[[_Standards/WikiData/WD~Chad_Channing,356938]]'
+- '[[_Standards/WikiData/WD~Krist_Novoselic,428798]]'
+- '[[_Standards/WikiData/WD~Jason_Everman,443395]]'
+- '[[_Standards/WikiData/WD~Dale_Crover,451088]]'
+- '[[_Standards/WikiData/WD~Aaron_Burckhard,1990978]]'
+- '[[_Standards/WikiData/WD~Kurt_Cobain,8446]]'
+- '[[_Standards/WikiData/WD~Dave_Grohl,12006]]'
+discography: '[[_Standards/WikiData/WD~Nirvana_discography,915525]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nirvana,6605689]]'
 genre:
-  - "[[_Standards/WikiData/WD~alternative_rock,11366]]"
-  - "[[_Standards/WikiData/WD~grunge,11365]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~alternative_rock,11366]]'
+- '[[_Standards/WikiData/WD~grunge,11365]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 10000000
-  - 127076
-  - 1051972
+- 10000000
+- 127076
+- 1051972
 subreddit: Nirvana
 Facebook_username: Nirvana
 X_Twitter_username: Nirvana
@@ -66,14 +89,127 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Nirvana%20around%20199
 Commons_category: Nirvana (musical group)
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nirvana%20logo%20yellow.svg
 official_website: https://nirvana.com/
-ISNI: "0000000123487390"
+ISNI: 0000000123487390
 Krugosvet_article_archived_: music/nirvana
 Archive_of_Our_Own_tag: Nirvana (Band)
 inception: 1987-01-01T00:00:00Z
 work_period_start_: 1987-01-01T00:00:00Z
 work_period_end_: 1994-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Nirvana
+    an: Nirvana
+    ang: Nirvana
+    ar: نيرفانا
+    arz: نيرفانا
+    ast: Nirvana
+    az: Nirvana
+    azb: نیروانا
+    bar: Nirvana
+    be: Nirvana
+    be-tarask: Nirvana
+    bg: Нирвана
+    bn: নিরভানা
+    br: Nirvana
+    bs: Nirvana
+    ca: Nirvana
+    ckb: نیرڤانا
+    co: Nirvana
+    cs: Nirvana
+    csb: Nirvana
+    cy: Nirvana
+    da: Nirvana
+    de: Nirvana
+    diq: Nirvana
+    el: Nirvana
+    eml: Nirvana
+    en: Nirvana
+    en-ca: Nirvana
+    en-gb: Nirvana
+    eo: Nirvana
+    es: Nirvana
+    es-419: Nirvana
+    et: Nirvana
+    eu: Nirvana
+    ext: Nirvana
+    fa: نیروانا
+    fi: Nirvana
+    fr: Nirvana
+    fur: Nirvana
+    fy: Nirvana
+    ga: Nirvana
+    gl: Nirvana
+    got: "\U0001033D\U00010339\U00010342\U00010331\U00010330\U0001033D\U00010330"
+    he: נירוונה
+    hr: Nirvana
+    hsb: Nirvana
+    hu: Nirvana
+    hy: Նիրվանա
+    id: Nirvana
+    io: Nirvana
+    is: Nirvana
+    it: Nirvana
+    ja: ニルヴァーナ
+    jv: Nirvana
+    ka: ნირვანა
+    kk: Nirvana
+    km: នើវ៉ាណា
+    ko: 너바나
+    kw: Nirvana
+    ky: Nirvana
+    la: Nirvana
+    lt: Nirvana
+    ltg: Nirvana
+    lv: Nirvana
+    mg: Nirvana
+    mk: Nirvana
+    ml: നിർവാണ
+    mn: Нирвана
+    ms: Nirvana
+    mul: Nirvana
+    nah: Nirvana
+    nb: Nirvana
+    nds: Nirvana
+    ne: निर्भाना
+    nl: Nirvana
+    nn: Rockegruppa Nirvana
+    oc: Nirvana
+    pa: ਨਿਰਵਾਨਾ
+    pcd: Nirvana
+    pdc: Nirvana
+    pl: Nirvana
+    pms: Nirvana
+    pt: Nirvana
+    pt-br: Nirvana
+    ro: Nirvana
+    ru: Nirvana
+    sa: निर्वाण
+    sc: Nirvana
+    scn: Nirvana
+    sco: Nirvana
+    sh: Nirvana
+    sk: Nirvana
+    sl: Nirvana
+    sq: Nirvana
+    sr: Нирвана
+    su: Nirvana
+    sv: Nirvana
+    szl: Nirvana
+    th: เนอร์วานา
+    tl: Nirvana
+    tr: Nirvana
+    tt: Nirvana
+    uk: Nirvana
+    uz: Nirvana
+    vi: Nirvana
+    war: Nirvana
+    wuu: 涅槃乐队
+    xmf: ნირვანა
+    yue: 涅槃樂隊
+    zh: 涅槃乐队
+    zh-cn: Nirvana；超脱乐团
+    zh-hant: Nirvana；超脫樂團
 ---
-
 # [[Nirvana(Band)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Nirvana,11649|WD~Nirvana,11649]] 

@@ -1,19 +1,64 @@
 ---
 aliases:
-  - treeshrews
-  - tree shrews
-  - banxrings
-  - treeshrew
-  - tree shrew
-  - banxring
-  - Scandentia
-  - trespissmus
+- Bajing
+- banxring
+- banxrings
+- Boomspitsmuis
+- Boumspitsmuis
+- Ebbhu'
+- Escandentios
+- mókuscickányok
+- Scandentia
+- Scandentio
+- Semal
+- Sivri sincapçıkgiller
+- Spetsekorrar
+- Spitzhörnchen
+- tany
+- Tenecoldunol
+- Toepaja's
+- tree shrew
+- tree shrews
+- treeshrew
+- treeshrews
+- trespissmus
+- Træspidsmus
+- tupai
+- tupai muncung
+- tupaies
+- tupaijat
+- Tupaja
+- tupajas
+- Tupaje
+- Tupajuloj
+- Tó wónaanídę́ę́ʼ hazéí bíchį́į́hnézí
+- túpáí
+- Verirovke
+- Wiewióreczniki
+- вавёрачнікі
+- тупаєподібні
+- тупаепадобныя
+- тупайи
+- тупайоподобни
+- חדפי עצים
+- حشرهخواران درختی
+- زبابيات الشجر
+- سکاندنتیا
+- ಮರಮೂಗಿಲಿ
+- อันดับกระแต
+- စွေ့
+- ツパイ目
+- 攀兽目
+- 攀獸目
+- 树鼩目
+- 樹鼩
+- 나무두더지
 has_id_wikidata: Q231550
 title: Scandentia
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
 homonymous_taxon: '[[_Standards/WikiData/WD~Scandentia,87182710]]'
 start_time: -86200000-01-01T00:00:00Z
@@ -22,8 +67,8 @@ instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 552291
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Semal.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Semal.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Semal.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Semal.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tupaia%20belangeri%20-Kaeng%20Krachan.jpg
 EPPO_Code: 1SCANO
 MeSH_tree_code: B01.050.150.900.649.313.996
@@ -31,8 +76,127 @@ UMLS_CUI: C0085235
 Commons_category: Scandentia
 taxon_name: Scandentia
 taxon_common_name: trespissmus
+dv_has_:
+  name_:
+    af: Boomspitsmuis
+    an: Scandentia
+    ar: زبابيات الشجر
+    arz: زبابيات الشجر
+    ast: Scandentia
+    avk: Tenecoldunol
+    azb: سکاندنتیا
+    ban: Semal
+    bar: Scandentia
+    be: тупаепадобныя
+    be-tarask: вавёрачнікі
+    bg: тупайоподобни
+    bjn: Tupai
+    br: Scandentia
+    bs: Verirovke
+    ca: tupaies
+    ceb: Scandentia
+    co: Scandentia
+    cs: tany
+    cy: Scandentia
+    da: Træspidsmus
+    de: Spitzhörnchen
+    de-at: Scandentia
+    de-ch: Scandentia
+    en: Scandentia
+    en-ca: Scandentia
+    en-gb: Scandentia
+    eo: Tupajuloj
+    es: Scandentia
+    et: Scandentia
+    eu: Scandentia
+    ext: Scandentia
+    fa: حشرهخواران درختی
+    fi: tupaijat
+    fr: Scandentia
+    frp: Scandentia
+    frr: Scandentia
+    fur: Scandentia
+    ga: túpáí
+    gd: Scandentia
+    gl: Escandentios
+    gsw: Scandentia
+    he: חדפי עצים
+    hr: Scandentia
+    hu: mókuscickányok
+    ia: Scandentia
+    id: tupai
+    ie: Scandentia
+    io: Scandentia
+    is: Scandentia
+    it: Scandentia
+    ja: ツパイ目
+    jv: Bajing
+    kg: Scandentia
+    kn: ಮರಮೂಗಿಲಿ
+    ko: 나무두더지
+    la: Scandentia
+    lb: Scandentia
+    lfn: Scandentio
+    li: Boumspitsmuis
+    lij: Scandentia
+    lv: tupajas
+    mad: Ebbhu'
+    mg: Scandentia
+    min: Scandentia
+    ms: tupai muncung
+    mt: Tupaja
+    mul: Scandentia
+    my: စွေ့
+    nap: Scandentia
+    nb: Trespissmus
+    nds: Scandentia
+    nds-nl: Scandentia
+    nl: Toepaja's
+    nn: Scandentia
+    nov: Scandentia
+    nrm: Scandentia
+    nv: Tó wónaanídę́ę́ʼ hazéí bíchį́į́hnézí
+    nys: Scandentia
+    oc: Scandentia
+    pcd: Scandentia
+    pl: Wiewióreczniki
+    pms: Scandentia
+    pt: Scandentia
+    pt-br: Scandentia
+    rm: Scandentia
+    ro: Scandentia
+    ru: тупайи
+    sc: Scandentia
+    scn: Scandentia
+    sco: Scandentia
+    sk: Tany
+    sl: Tupaje
+    sq: Scandentia
+    sr: Scandentia
+    sv: Spetsekorrar
+    sw: Scandentia
+    th: อันดับกระแต
+    tl: Scandentia
+    tr: Sivri sincapçıkgiller
+    uk: тупаєподібні
+    vec: Scandentia
+    vi: Scandentia
+    vls: Scandentia
+    vo: Scandentia
+    wa: Scandentia
+    war: Scandentia
+    wo: Scandentia
+    wuu: 树鼩目
+    yue: 樹鼩
+    zh: 树鼩目
+    zh-cn: 树鼩目
+    zh-hans: 攀兽目
+    zh-hant: 攀獸目
+    zh-hk: 攀獸目
+    zh-sg: 攀兽目
+    zh-tw: 攀獸目
+    zu: Scandentia
 ---
-
 # [[Scandentia]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Scandentia,231550|WD~Scandentia,231550]] 

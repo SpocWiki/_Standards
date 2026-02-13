@@ -1,40 +1,70 @@
 ---
 aliases:
-  - David Ricardo
-  - Ricardo,David
+- David Ricardo
+- david ricordo
+- David Rikardo
+- Deivids Rikardo
+- Ricardo,David
+- Rikardo David
+- Ντέηβιντ Ρικάρντο
+- Давід Рыкарда
+- Давид Рикардо
+- Давида Рикардо
+- Девід Рікардо
+- Дэйвід Рыкарда
+- Рикардо Давид
+- Դավիթ Ռիկարդո
+- דייוויד ריקארדו
+- دافيد ريكاردو
+- دیوید ریکاردو
+- دەیڤید ڕیکاردۆ
+- ڈیوڈ ریکارڈو
+- डेभिड रिकार्डो
+- डेविड रिकार्डो
+- डेव्हिड रिकार्डो
+- ডেভিড রিকার্ডো
+- ਡੇਵਿਡ ਰਿਕਾਰਡੋ
+- ಡೇವಿಡ್ ರಿಕಾರ್ಡೋ
+- ഡേവിഡ് റിക്കാർഡോ
+- დეივიდ რიკარდო
+- デヴィッド・リカード
+- 大卫·李嘉图
+- 大衛·李嘉圖
+- 李嘉圖
+- 데이비드 리카도
 has_id_wikidata: Q160270
 ArhivX_LOD: 80580
 child:
-  - '[[_Standards/WikiData/WD~David_Ricardo,5239023]]'
-  - '[[_Standards/WikiData/WD~Osman_Ricardo,26204048]]'
+- '[[_Standards/WikiData/WD~David_Ricardo,5239023]]'
+- '[[_Standards/WikiData/WD~Osman_Ricardo,26204048]]'
 Commons_category: David Ricardo
 Commons_Creator_page: David Ricardo
 Commons_gallery: David Ricardo
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Great_Britain,161885]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 date_of_birth: 1772-04-18
 date_of_death: 1823-09-11
 depicted_by: '[[_Standards/WikiData/WD~David_Ricardo,28048902]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 different_from: '[[_Standards/WikiData/WD~Ricardo_David,7322607]]'
 educated_at: '[[_Standards/WikiData/WD~Talmud_Torah_school,2667332]]'
 family_name: '[[_Standards/WikiData/WD~Ricardo,37241298]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~economy,159810]]'
-  - '[[_Standards/WikiData/WD~economics,8134]]'
+- '[[_Standards/WikiData/WD~economy,159810]]'
+- '[[_Standards/WikiData/WD~economics,8134]]'
 given_name: '[[_Standards/WikiData/WD~David,18057751]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20David%20Ricardo%20by%20Thomas%20Phillips.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -43,40 +73,141 @@ Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/RIKARDO_DAVID.html
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 Libris_URI: 42gknhsn03mlsh0
 manner_of_death:
-  - '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-  - '[[_Standards/WikiData/WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+- '[[_Standards/WikiData/WD~suicide,10737]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Whigs,108700]]'
 name_in_native_language: David Ricardo
 National_Library_of_Poland_Descriptor: 9810533189005606
 NLC_authorities: 204334
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~stockbroker,4182927]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~stockbroker,4182927]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~London,84]]'
 place_of_burial: '[[_Standards/WikiData/WD~Church_of_St_Nicholas,_Hardenhuish,17544328]]'
 place_of_death:
-  - '[[_Standards/WikiData/WD~Gatcombe_Park,1405039]]'
-  - '[[_Standards/WikiData/WD~Gloucestershire,23165]]'
+- '[[_Standards/WikiData/WD~Gatcombe_Park,1405039]]'
+- '[[_Standards/WikiData/WD~Gloucestershire,23165]]'
 position_held:
-  - '[[_Standards/WikiData/WD~High_Sheriff_of_Gloucestershire,5756796]]'
-  - '[[_Standards/WikiData/WD~member_of_the_6th_Parliament_of_the_United_Kingdom,41582538]]'
-  - '[[_Standards/WikiData/WD~member_of_the_7th_Parliament_of_the_United_Kingdom,41582540]]'
+- '[[_Standards/WikiData/WD~High_Sheriff_of_Gloucestershire,5756796]]'
+- '[[_Standards/WikiData/WD~member_of_the_6th_Parliament_of_the_United_Kingdom,41582538]]'
+- '[[_Standards/WikiData/WD~member_of_the_7th_Parliament_of_the_United_Kingdom,41582540]]'
 Regensburg_Classification: HL 4070
 relative: '[[_Standards/WikiData/WD~Harry_Ricardo,926801]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Unitarianism,106687]]'
-  - '[[_Standards/WikiData/WD~Judaism,9268]]'
+- '[[_Standards/WikiData/WD~Unitarianism,106687]]'
+- '[[_Standards/WikiData/WD~Judaism,9268]]'
 residence: '[[_Standards/WikiData/WD~Gatcombe_Park,1405039]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Jacob_Ricardo,30156248]]'
 spouse: '[[_Standards/WikiData/WD~Priscilla_Ann_Wilkinson,47283898]]'
 work_locations: '[[_Standards/WikiData/WD~London,84]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    an: David Ricardo
+    ar: دافيد ريكاردو
+    arz: دافيد ريكاردو
+    ast: David Ricardo
+    az: David Rikardo
+    ba: Рикардо Давид
+    be: Давід Рыкарда
+    be-tarask: Дэйвід Рыкарда
+    bg: Давид Рикардо
+    bn: ডেভিড রিকার্ডো
+    bs: David Ricardo
+    ca: David Ricardo
+    ckb: دەیڤید ڕیکاردۆ
+    co: David Ricardo
+    cs: David Ricardo
+    cy: David Ricardo
+    da: David Ricardo
+    de: David Ricardo
+    ee: David Ricardo
+    el: Ντέηβιντ Ρικάρντο
+    en: David Ricardo
+    eo: David Ricardo
+    es: David Ricardo
+    et: David Ricardo
+    eu: David Ricardo
+    fa: دیوید ریکاردو
+    fi: David Ricardo
+    fr: David Ricardo
+    ga: David Ricardo
+    gl: David Ricardo
+    ha: David Ricardo
+    he: דייוויד ריקארדו
+    hi: डेविड रिकार्डो
+    hr: David Ricardo
+    ht: David Ricardo
+    hu: David Ricardo
+    hy: Դավիթ Ռիկարդո
+    id: David Ricardo
+    io: David Ricardo
+    is: David Ricardo
+    it: David Ricardo
+    ja: デヴィッド・リカード
+    ka: დეივიდ რიკარდო
+    kbp: David Ricardo
+    kn: ಡೇವಿಡ್ ರಿಕಾರ್ಡೋ
+    ko: 데이비드 리카도
+    kw: David Ricardo
+    ky: Давид Рикардо
+    la: David Ricardo
+    lad: David Ricardo
+    lfn: David Ricardo
+    lt: David Ricardo
+    lv: Deivids Rikardo
+    mg: David Ricardo
+    mk: Давид Рикардо
+    ml: ഡേവിഡ് റിക്കാർഡോ
+    mn: Давид Рикардо
+    mr: डेव्हिड रिकार्डो
+    mul: David Ricardo
+    nb: David Ricardo
+    new: डेभिड रिकार्डो
+    nl: David Ricardo
+    nn: David Ricardo
+    oc: David Ricardo
+    pa: ਡੇਵਿਡ ਰਿਕਾਰਡੋ
+    pl: David Ricardo
+    pnb: ڈیوڈ ریکارڈو
+    pt: David Ricardo
+    pt-br: David Ricardo
+    ro: David Ricardo
+    ru: Давид Рикардо
+    sah: Давид Рикардо
+    sh: David Ricardo
+    si: david ricordo
+    sk: David Ricardo
+    sl: David Ricardo
+    sq: David Ricardo
+    sr: Давид Рикардо
+    sr-ec: Давид Рикардо
+    sr-el: David Rikardo
+    sv: David Ricardo
+    ta: david ricordo
+    tl: David Ricardo
+    tr: David Ricardo
+    tt: Давид Рикардо
+    tt-cyrl: Давида Рикардо
+    uk: Девід Рікардо
+    ur: ڈیوڈ ریکارڈو
+    uz: Rikardo David
+    vi: David Ricardo
+    war: David Ricardo
+    wuu: 大卫·李嘉图
+    yue: 李嘉圖
+    zh: 大卫·李嘉图
+    zh-cn: 大卫·李嘉图
+    zh-hans: 大卫·李嘉图
+    zh-hant: 大衛·李嘉圖
+    zh-hk: 大衛·李嘉圖
+    zh-sg: 大卫·李嘉图
+    zh-tw: 大衛·李嘉圖
 ---
-
 # [[Ricardo,David]]
 
 #has_/time_/started ::  1772-04-18 

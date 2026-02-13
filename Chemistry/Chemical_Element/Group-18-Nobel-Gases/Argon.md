@@ -1,62 +1,125 @@
 ---
 aliases:
-  - Argon
+- Aargon
+- Agon
+- Argon
+- Argonas
+- Argone
+- Argoni
+- argono
+- argons
+- Argonum
+- argoon
+- Argun
+- Argòn
+- argó
+- argón
+- argônio
+- Arigoni
+- Arqon
+- Arɩkɔŋ
+- ijo lili nanpa 18
+- IsAlahwe
+- laznynavni
+- Níłchʼi Dootłʼizhí
+- Tatapu'ã'ỹ
+- Àrgon
+- árgon
+- Ā
+- αργό
+- Аргон
+- Аргонъ
+- Арґон
+- Арһон
+- արգոն
+- ארגאן
+- ארגון
+- آرگون
+- آرݣون
+- أرغون
+- ئارگون
+- ئارگۆن
+- ارجون
+- ارݢون
+- आरगॉन
+- आर्गन
+- আর্গন
+- ਆਰਗਾਨ
+- આર્ગોન
+- ଆର୍ଗନ
+- ஆர்கான்
+- ఆర్గాన్
+- ಆರ್ಗಾನ್
+- ആർഗോൺ
+- ආගන්
+- อาร์กอน
+- གཉུག་རླུང་།
+- အာဂွန်
+- არგონი
+- አርገን
+- ‘Aragona
+- ⴰⵔⴳⵓⵏ
+- アルゴン
+- 氩
+- 氬
+- ꯑꯥꯔꯒꯣꯟ
+- 아르곤
 has_id_wikidata: Q696
 ASHRAE_refrigerant_number: 740
 atomic_number: 18
 boiling_point: -185.85
-canonical_SMILES: "[Ar]"
+canonical_SMILES: '[Ar]'
 CAS_Registry_Number: 7440-37-1
 chemical_formula: Ar
 Commons_category: Argon
 Commons_gallery: Argon
 CosIng_number: 54501
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]"
-  - "[[_Standards/WikiData/WD~William_Ramsay,950726]]"
+- '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID0031055
 dynamic_viscosity: 22.7
 EC_number: 231-147-0
 electron_configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶
-  - "[Ne] 3s² 3p⁶"
+- 1s² 2s² 2p⁶ 3s² 3p⁶
+- '[Ne] 3s² 3p⁶'
 element_symbol: Ar
 E_number: E938
 Gujarati_Vishwakosh_entry: આગૉર્ન
 has_characteristic:
-  - "[[_Standards/WikiData/WD~colorlessness,11567495]]"
-  - "[[_Standards/WikiData/WD~odorlessness,30007162]]"
-  - "[[_Standards/WikiData/WD~tastelessness,30100868]]"
-has_use: "[[_Standards/WikiData/WD~food_additive,189567]]"
+- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Argon%20ice%201.jpg
 InChI: InChI=1S/Ar
 InChIKey: XKRFYHLGVUSROY-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~atmophile_element,2313842]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-  - "[[_Standards/WikiData/WD~gas,11432]]"
+- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~gas,11432]]'
 mass: 39.95
 melting_point: -189.34
 MeSH_tree_code:
-  - D01.268.613.050
-  - D01.362.641.113
-named_after: "[[_Standards/WikiData/WD~laziness,484]]"
+- D01.268.613.050
+- D01.362.641.113
+named_after: '[[_Standards/WikiData/WD~laziness,484]]'
 OmegaWiki_Defined_Meaning: 15591
 part_of:
-  - "[[_Standards/WikiData/WD~period_3,211331]]"
-  - "[[_Standards/WikiData/WD~noble_gases,19609]]"
+- '[[_Standards/WikiData/WD~period_3,211331]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609]]'
 PubChem_CID: 23968
 speed_of_sound: 813
 SpocWebEntityId: 21919
 standard_molar_entropy: 154.8
-subclass_of: "[[_Standards/WikiData/WD~noble_gases,19609]]"
+subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609]]'
 time_of_discovery_or_invention: 1894
 type: Element
 UMLS_CUI: C0003781
@@ -66,10 +129,195 @@ U_S_National_Archives_Identifier: 10639898
 ZVG_number: 7180
 dv_has_:
   name_:
-    group: Group-18-Nobel-Gases
-    en: Argon
-    de: Argon
     abbreviated: Ar
+    af: argon
+    am: አርገን
+    an: Argón
+    anp: आर्गन
+    ar: أرغون
+    ary: آرݣون
+    arz: ارجون
+    ast: argón
+    awa: आर्गन
+    az: Arqon
+    ba: Аргон
+    ban: Argon
+    bcl: Argon
+    be: Аргон
+    be-tarask: аргон
+    bg: аргон
+    bho: आर्गन
+    blk: အာဂွန်
+    bn: আর্গন
+    bo: གཉུག་རླུང་།
+    br: Argon
+    bs: argon
+    ca: argó
+    cdo: Ā
+    ceb: Argon
+    ckb: ئارگۆن
+    co: Argone
+    cs: argon
+    cu: Аргонъ
+    cv: Аргон
+    cy: argon
+    da: argon
+    de: Argon
+    de-ch: Argon
+    diq: Argon
+    el: αργό
+    en: argon
+    en-ca: Argon
+    en-gb: argon
+    eo: argono
+    es: argón
+    et: argoon
+    eu: argon
+    fa: آرگون
+    fi: argon
+    fo: Argon
+    fr: argon
+    frr: Argon
+    fur: Argon
+    fy: Argon
+    ga: argón
+    gan: 氬
+    gd: Argon
+    gl: argon
+    gn: Tatapu'ã'ỹ
+    group: Group-18-Nobel-Gases
+    gu: આર્ગોન
+    gv: argon
+    hak: Argon
+    haw: ‘Aragona
+    he: ארגון
+    hi: आर्गन
+    hif: Argon
+    hr: argon
+    ht: Agon
+    hu: argon
+    hy: արգոն
+    ia: argon
+    id: argon
+    io: argono
+    is: argon
+    it: argon
+    ja: アルゴン
+    jbo: laznynavni
+    jv: Argon
+    ka: არგონი
+    kbp: Arɩkɔŋ
+    kk: Аргон
+    kn: ಆರ್ಗಾನ್
+    ko: 아르곤
+    kv: Аргон
+    kw: Argon
+    ky: Аргон
+    la: argon
+    lb: Argon
+    lfn: argon
+    li: Argon
+    lij: Argon
+    lmo: Argon
+    lt: Argonas
+    lv: argons
+    lzh: 氬
+    mi: argon
+    mk: аргон
+    ml: ആർഗോൺ
+    mn: аргон
+    mni: ꯑꯥꯔꯒꯣꯟ
+    mr: आरगॉन
+    mrj: Аргон
+    ms: argon
+    ms-arab: ارݢون
+    mt: argon
+    my: အာဂွန်
+    myv: Аргон
+    nan: Argon
+    nb: argon
+    nds: Argon
+    ne: आर्गन
+    new: आर्गन
+    nl: argon
+    nn: argon
+    nov: Argonum
+    nv: Níłchʼi Dootłʼizhí
+    oc: Argon
+    olo: Argon
+    or: ଆର୍ଗନ
+    os: аргон
+    pa: ਆਰਗਾਨ
+    pam: Argon
+    pap: Argon
+    pi: आर्गन
+    pl: argon
+    pms: Àrgon
+    pnb: آرگون
+    ps: آرگون
+    pt: árgon
+    pt-br: argônio
+    qu: Argun
+    ro: argon
+    ru: аргон
+    rue: Арґон
+    rup: Argon
+    sa: आर्गन
+    sah: Аргон
+    sc: Argòn
+    scn: argon
+    sco: argon
+    sd: آرگون
+    se: argon
+    sh: Argon
+    si: ආගන්
+    sk: argón
+    sl: argon
+    smn: argon
+    so: Aargon
+    sq: Argoni
+    sr: аргон
+    stq: Argon
+    su: Argon
+    sv: argon
+    sw: Arigoni
+    ta: ஆர்கான்
+    te: ఆర్గాన్
+    tg: Аргон
+    th: อาร์กอน
+    tl: Argon
+    tok: ijo lili nanpa 18
+    tr: Argon
+    tt: аргон
+    tt-cyrl: аргон
+    udm: аргон
+    ug: ئارگون
+    uk: аргон
+    ur: آرگون
+    uz: Argon
+    vep: Argon
+    vi: agon
+    war: Argon
+    wuu: 氩
+    xal: Арһон
+    yi: ארגאן
+    yo: Argon
+    yue: 氬
+    zgh: ⴰⵔⴳⵓⵏ
+    zh: 氬
+    zh-cn: 氩
+    zh-hans: 氩
+    zh-hant: 氬
+    zh-hk: 氬
+    zh-mo: 氬
+    zh-my: 氩
+    zh-sg: 氩
+    zh-tw: 氬
+    zu: IsAlahwe
+  number_of_:
+    period: 3
+    group: 18
+    electrons: 18
   value_for_:
     weight_:
       u: 39.948
@@ -97,23 +345,19 @@ dv_has_:
       form_:
         kj_:
           mol: 1.7326
-  number_of_:
-    period: 3
-    group: 18
-    electrons: 18
 dv_is_:
-  part_of: "[[../Group-18-Nobel-Gases]]]"
+  part_of: '[[../Group-18-Nobel-Gases]]]'
   same_as:
-    - "[[../../../WikiData/WD~Argon,696]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon|Argon]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public|Argon.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal|Argon.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.protect|Argon.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.private|Argon.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.personal|Argon.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret|Argon.secret]]"
+  - '[[../../../WikiData/WD~Argon,696]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon|Argon]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public|Argon.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal|Argon.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.protect|Argon.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.private|Argon.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.personal|Argon.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret|Argon.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: "[[../Group-18-Nobel-Gases]]]"
+dv_is_part_of: '[[../Group-18-Nobel-Gases]]]'
 dv_has_name_en: Argon
 dv_has_name_de: Argon
 dv_has_value_for_weight_u: 39.948
@@ -132,19 +376,17 @@ dv_has_value_for_energy_form_kj_mol: 1.7326
 dv_has_number_of_period: 3
 dv_has_number_of_group: 18
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Argon,696]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon|Argon]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public|Argon.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal|Argon.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.protect|Argon.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.private|Argon.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.personal|Argon.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret|Argon.secret]]"
+- '[[../../../WikiData/WD~Argon,696]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon|Argon]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public|Argon.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal|Argon.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.protect|Argon.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.private|Argon.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.personal|Argon.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret|Argon.secret]]'
 dv_has_name_abbreviated: Ar
 dv_has_number_of_electrons: 18
 ---
-
-
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

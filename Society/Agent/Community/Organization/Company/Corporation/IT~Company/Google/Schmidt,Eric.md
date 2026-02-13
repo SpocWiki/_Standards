@@ -1,74 +1,98 @@
 ---
 aliases:
-  - Eric Emerson Schmidt
-  - Eric_Schmidt
-  - Eric Schmidt
-  - Schmidt
-  - Schmidt,Eric
+- Eric E. Schmidt
+- Eric Emerson Schmidt
+- Eric Schmidt
+- Eric_Schmidt
+- Erik Emerson Şmidt
+- Erik Šmit
+- Schmidt
+- Schmidt,Eric
+- Ерік Шмідт
+- Ерик Шмид
+- Эрик Шмидт
+- Эрык Шміт
+- Էրիկ Շմիդտ
+- אריק שמידט
+- إيريك شميت
+- اريك شميدت
+- اریک اشمیت
+- एरिक एमर्सन श्मिट
+- এরিক স্মিডট
+- એરિક શ્મિટ
+- எரிக் ஷ்மிட்
+- ఎరిక్ ఇ. ష్మిత్
+- ಎರಿಕ್ ಸ್ಮಿತ್
+- എറിക് ഇ. ഷ്മിറ്റ്
+- เอริก ชมิดต์
+- エリック・シュミット
+- 埃里克·施密特
+- 艾立克·施密特
+- 에릭 슈밋
 has_id_wikidata: Q92747
 X_Twitter_username: ericschmidt
 affiliation_string:
-  - Steel Perlot
-  - Google Inc.
-  - Alphabet
+- Steel Perlot
+- Google Inc.
+- Alphabet
 name_in_kana: エリック・エマーソン・シュミット
 name_in_native_language: Eric Emerson Schmidt
 birth_name: Eric Emerson Schmidt
 field_of_work:
-  - '[[_Standards/WikiData/WD~software_engineering,80993]]'
-  - '[[_Standards/WikiData/WD~computer_engineering,428691]]'
+- '[[_Standards/WikiData/WD~software_engineering,80993]]'
+- '[[_Standards/WikiData/WD~computer_engineering,428691]]'
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~software_engineer,1709010]]'
-  - '[[_Standards/WikiData/WD~art_collector,10732476]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~electrical_engineer,1326886]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~software_engineer,1709010]]'
+- '[[_Standards/WikiData/WD~art_collector,10732476]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
-  - '[[_Standards/WikiData/WD~Yorktown_High_School,8055805]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+- '[[_Standards/WikiData/WD~Yorktown_High_School,8055805]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
 residence:
-  - '[[_Standards/WikiData/WD~Blacksburg,285816]]'
-  - '[[_Standards/WikiData/WD~Atherton,2869080]]'
-  - '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Blacksburg,285816]]'
+- '[[_Standards/WikiData/WD~Atherton,2869080]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
-  - "[[_Standards/WikiData/WD~United_States_President's_Council_of_Advisors_on_Science_and_Technology,7891195]]"
-  - '[[_Standards/WikiData/WD~Steering_Committee_of_the_Bilderberg_Meetings,63344709]]'
-  - '[[_Standards/WikiData/WD~National_Security_Commission_on_Artificial_Intelligence,66087960]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Engineering,1493021]]'
+- "[[_Standards/WikiData/WD~United_States_President's_Council_of_Advisors_on_Science_and_Technology,7891195]]"
+- '[[_Standards/WikiData/WD~Steering_Committee_of_the_Bilderberg_Meetings,63344709]]'
+- '[[_Standards/WikiData/WD~National_Security_Commission_on_Artificial_Intelligence,66087960]]'
 position_held:
-  - '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
-  - '[[_Standards/WikiData/WD~board_of_directors_member,55168644]]'
+- '[[_Standards/WikiData/WD~chief_executive_officer,484876]]'
+- '[[_Standards/WikiData/WD~board_of_directors_member,55168644]]'
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
-  - '[[_Standards/WikiData/WD~IEEE_Founders_Medal,5970365]]'
+- '[[_Standards/WikiData/WD~Ellis_Island_Medal_of_Honor,5365910]]'
+- '[[_Standards/WikiData/WD~IEEE_Founders_Medal,5970365]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 given_name: '[[_Standards/WikiData/WD~Eric,12788459]]'
 family_name: '[[_Standards/WikiData/WD~Schmidt,15240355]]'
 spouse: '[[_Standards/WikiData/WD~Wendy_Schmidt,16186882]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 owner_of: '[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]'
 affiliation:
-  - '[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]'
-  - '[[_Standards/WikiData/WD~Google,95]]'
+- '[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]'
+- '[[_Standards/WikiData/WD~Google,95]]'
 employer:
-  - '[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]'
-  - '[[_Standards/WikiData/WD~Apple_Inc.,312]]'
-  - '[[_Standards/WikiData/WD~Stanford_University,41506]]'
+- '[[_Standards/WikiData/WD~Alphabet_Inc.,20800404]]'
+- '[[_Standards/WikiData/WD~Apple_Inc.,312]]'
+- '[[_Standards/WikiData/WD~Stanford_University,41506]]'
 child: '[[_Standards/WikiData/WD~Sophie_Schmidt,71579443]]'
 participant_in:
-  - '[[_Standards/WikiData/WD~Global_Conference_2019,116813843]]'
-  - '[[_Standards/WikiData/WD~Global_Conference_2022,116813846]]'
+- '[[_Standards/WikiData/WD~Global_Conference_2019,116813843]]'
+- '[[_Standards/WikiData/WD~Global_Conference_2022,116813846]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Marcy_Simon,127415803]]'
-  - '[[_Standards/WikiData/WD~Ulla_Parker,127415957]]'
+- '[[_Standards/WikiData/WD~Marcy_Simon,127415803]]'
+- '[[_Standards/WikiData/WD~Ulla_Parker,127415957]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -83,8 +107,77 @@ official_website: https://ericschmidt.com/
 ORCID_iD: 0000-0001-6595-1219
 ISNI: 000000035619648X
 Plex_person_key: 5d7769d4594b2b001e6ab46a
+dv_has_:
+  name_:
+    af: Eric Schmidt
+    ar: إيريك شميت
+    arz: اريك شميدت
+    ast: Eric Schmidt
+    az: Erik Emerson Şmidt
+    be: Эрык Шміт
+    be-tarask: Эрык Шміт
+    bg: Ерик Шмид
+    bn: এরিক স্মিডট
+    ca: Eric Schmidt
+    cs: Eric Schmidt
+    cy: Eric Schmidt
+    da: Eric Schmidt
+    dag: Eric Schmidt
+    de: Eric Schmidt
+    de-ch: Eric Schmidt
+    en: Eric Schmidt
+    en-ca: Eric Schmidt
+    en-gb: Eric Schmidt
+    eo: Eric Schmidt
+    es: Eric Schmidt
+    eu: Eric Schmidt
+    fa: اریک اشمیت
+    fi: Eric Schmidt
+    fr: Eric Schmidt
+    ga: Eric Schmidt
+    gu: એરિક શ્મિટ
+    he: אריק שמידט
+    hi: एरिक एमर्सन श्मिट
+    hu: Eric E. Schmidt
+    hy: Էրիկ Շմիդտ
+    id: Eric Schmidt
+    it: Eric Schmidt
+    ja: エリック・シュミット
+    kk: Эрик Шмидт
+    kn: ಎರಿಕ್ ಸ್ಮಿತ್
+    ko: 에릭 슈밋
+    lt: Eric Schmidt
+    mg: Eric Schmidt
+    ml: എറിക് ഇ. ഷ്മിറ്റ്
+    ms: Eric Schmidt
+    nb: Eric Schmidt
+    nl: Eric Schmidt
+    nn: Eric Schmidt
+    oc: Eric Schmidt
+    pl: Eric Schmidt
+    pt: Eric Schmidt
+    pt-br: Eric Schmidt
+    ru: Эрик Шмидт
+    sco: Eric Schmidt
+    sl: Eric Schmidt
+    sq: Eric E. Schmidt
+    sr: Erik Šmit
+    sv: Eric Schmidt
+    ta: எரிக் ஷ்மிட்
+    te: ఎరిక్ ఇ. ష్మిత్
+    tg: Эрик Шмидт
+    th: เอริก ชมิดต์
+    tr: Eric E. Schmidt
+    uk: Ерік Шмідт
+    vi: Eric Schmidt
+    zh: 埃里克·施密特
+    zh-cn: 埃里克·施密特
+    zh-hans: 埃里克·施密特
+    zh-hant: 艾立克·施密特
+    zh-hk: 埃里克·施密特
+    zh-sg: 埃里克·施密特
+    zh-tw: 埃里克·施密特
 ---
-
 # [[Schmidt,Eric]] 
 
 #is_/same_as :: [[WD~Eric_Schmidt,92747]] 

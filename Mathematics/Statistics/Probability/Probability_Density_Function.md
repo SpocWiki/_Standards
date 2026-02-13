@@ -1,26 +1,151 @@
 ---
 aliases:
+- densitate de probabilitate
+- ehtimolik zichligi funksiyasi
+- fonction de densité de probabilité
+- Funciono di probablesala denseso
+- funció de densitat de probabilitat
+- función de densidad de probabilidad
+- Función de densidade
+- Función de densidá de probabilidá
+- Fungsi dénsitas probabilitas
+- Fungsi kepekatan probabilitas
+- Fungsi ketumpatan kebarangkalian
+- funkcija gostote verjetnosti
+- Funkcija gustoće vjerojatnosti
+- funkcja gęstości prawdopodobieństwa
+- Funksioni i dendësisë së probabilitetit
+- funzione di densità di probabilità
+- função densidade
+- função densidade de probabilidade
+- hustota pravděpodobnosti
+- Hàm mật độ xác suất
+- kansdichtheid
+- olasılık yoğunluk fonksiyonu
+- Probabilitatearen dentsitate-funtzio
+- probability density function
+- probablodensa funkcio
+- Raspodela verovatnoće
+- Raspodjela vjerojatnosti
+- sandsynlighedstæthedsfunktion
+- sűrűségfüggvény
+- tetthetsfunksjon
+- tettleiksfunksjon
+- Tihedusfunktsioon
+- tiheysfunktio
+- täthetsfunktion
+- Varbūtību blīvuma funkcija
+- Wahrscheinlichkeitsdichtefunktion
+- Þéttifall
+- Συνάρτηση πυκνότητας πιθανότητας
+- веројатносна густина
+- густина імовірності
+- плотность вероятности
+- Плътност на вероятността
+- Пулаяслăх йăвăлăхĕ
+- расподела вероватноће
+- Шчыльнасць імавернасці
+- шчыльнасьць імавернасьці
+- ықтималдықтар тығыздығы
+- Հավանականության խտություն
+- פונקציית צפיפות
+- تابع چگالی احتمال
+- دالة الكثافة الاحتمالية
+- ฟังก์ชันความหนาแน่นความน่าจะเป็น
+- ალბათური განაწილების სიმკვრივე
+- 机率密度函数
+- 概率密度函数
+- 概率密度函數
+- 機率密度函數
+- 確率密度関数
+- 확률 밀도 함수
 has_id_wikidata: Q207522
-part_of: "[[_Standards/WikiData/WD~probability_distribution,200726]]"
-subclass_of: "[[_Standards/WikiData/WD~generalized_function,846537]]"
-different_from: "[[_Standards/WikiData/WD~probability_mass_function,869887]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+part_of: '[[_Standards/WikiData/WD~probability_distribution,200726]]'
+subclass_of: '[[_Standards/WikiData/WD~generalized_function,846537]]'
+different_from: '[[_Standards/WikiData/WD~probability_mass_function,869887]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>F</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>F</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 short_name:
-  - PDF
-  - pdf
-  - WDF
-  - fdp
+- PDF
+- pdf
+- WDF
+- fdp
 Stack_Exchange_tag: https://stackoverflow.com/tags/probability-density
 IEV_number: 103-08-09
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>F</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>x</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: دالة الكثافة الاحتمالية
+    ast: Función de densidá de probabilidá
+    be: Шчыльнасць імавернасці
+    be-tarask: шчыльнасьць імавернасьці
+    bg: Плътност на вероятността
+    ca: funció de densitat de probabilitat
+    cs: hustota pravděpodobnosti
+    cv: Пулаяслăх йăвăлăхĕ
+    da: sandsynlighedstæthedsfunktion
+    de: Wahrscheinlichkeitsdichtefunktion
+    el: Συνάρτηση πυκνότητας πιθανότητας
+    en: probability density function
+    eo: probablodensa funkcio
+    es: función de densidad de probabilidad
+    et: Tihedusfunktsioon
+    eu: Probabilitatearen dentsitate-funtzio
+    fa: تابع چگالی احتمال
+    fi: tiheysfunktio
+    fr: fonction de densité de probabilité
+    gl: Función de densidade
+    he: פונקציית צפיפות
+    hr: Funkcija gustoće vjerojatnosti
+    hu: sűrűségfüggvény
+    hy: Հավանականության խտություն
+    id: Fungsi kepekatan probabilitas
+    io: Funciono di probablesala denseso
+    is: Þéttifall
+    it: funzione di densità di probabilità
+    ja: 確率密度関数
+    ka: ალბათური განაწილების სიმკვრივე
+    kk: ықтималдықтар тығыздығы
+    ko: 확률 밀도 함수
+    lv: Varbūtību blīvuma funkcija
+    mk: веројатносна густина
+    ms: Fungsi ketumpatan kebarangkalian
+    nb: tetthetsfunksjon
+    nl: kansdichtheid
+    nn: tettleiksfunksjon
+    pl: funkcja gęstości prawdopodobieństwa
+    pt: função densidade
+    pt-br: função densidade de probabilidade
+    ro: densitate de probabilitate
+    ru: плотность вероятности
+    sh: Raspodjela vjerojatnosti
+    sl: funkcija gostote verjetnosti
+    sq: Funksioni i dendësisë së probabilitetit
+    sr: расподела вероватноће
+    sr-ec: Расподела вероватноће
+    sr-el: Raspodela verovatnoće
+    su: Fungsi dénsitas probabilitas
+    sv: täthetsfunktion
+    th: ฟังก์ชันความหนาแน่นความน่าจะเป็น
+    tr: olasılık yoğunluk fonksiyonu
+    uk: густина імовірності
+    ur: Probability density function
+    uz: ehtimolik zichligi funksiyasi
+    vi: Hàm mật độ xác suất
+    yue: 概率密度函數
+    zh: 機率密度函數
+    zh-cn: 概率密度函数
+    zh-hans: 机率密度函数
+    zh-hant: 機率密度函數
+    zh-hk: 機率密度函數
+    zh-sg: 概率密度函数
+    zh-tw: 機率密度函數
 ---
-
 # [[Probability_Density_Function]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Probability_density_function,207522|WD~Probability_density_function,207522]]  

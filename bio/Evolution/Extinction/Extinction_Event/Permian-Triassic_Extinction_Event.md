@@ -1,9 +1,64 @@
 ---
 aliases:
-  - Great Dying
-  - Permian–Triassic extinction event
-  - Permian-Triassic_Extinction_Event
-  - Permian-Triassic Extinction Event
+- Aldauðinn í lok Perm
+- Estinción masiva del Pérmico-Triásicu
+- Estinzione di massa del Permiano-Triassico
+- Exstinctio Permia Triassica
+- Extincion Permian-Triassic
+- extinció permiana
+- Extinción do Permiano-Triásico
+- Extinción masiva d'o Permico-Triasico
+- Extinción masiva del Pérmico-Triásico
+- extinction Permien-Trias
+- Extincția Permian-Triasic
+- Extinção do Permiano-Triássico
+- Great Dying
+- P-T境界
+- Peristiwa kepunahan Perm-Trias
+- Peristiwa kepupusan Perm–Trias
+- Perm-Trias-Grenze
+- Perm-Trias-massa-extinctie
+- Perm-Trias-uitwissing
+- Perm-trias-utdøingen
+- Perm-trias-utryddinga
+- Perm-Trijas izumiranje
+- Perma-triasa izmiršana
+- Permi-triasa amasa formorto
+- Permian-Triassic Extinction Event
+- Permian-Triassic mass extinction
+- Permian-Triassic_Extinction_Event
+- Permian–Triassic extinction event
+- permikauden joukkotuho
+- Permiyen-Triyas yok oluşu
+- Permo-Triasiar iraungipen masiboa
+- Permo-triaso masinis rūšių išnykimas
+- permsko-triasno izumrtje
+- Permsko-trijasko izumiranje
+- Permské vymírání
+- Perm–Trias udslettelsen
+- Perm–trias-utdöendet
+- perm–triász kihalási esemény
+- Sự kiện tuyệt chủng kỷ Permi-kỷ Trias
+- Veľké permské vymieranie
+- Wymieranie permskie
+- Масове пермське вимирання
+- Масово измиране Перм-Триас
+- массовое пермское вымирание
+- Пермско-тријаско изумирање
+- пэрмска-трыясічнае выміраньне
+- Պերմյան զանգվածային ոչնչացում
+- הכחדת פרם-טריאס
+- انقراض البرمي-الثلاثي
+- د پرمیان – ټریاسیک د ورکېدو پېښه
+- رویداد انقراض پرمین-تریاسه
+- पर्मियन-ट्राइऐसिक विलुप्ति घटना
+- പെർമിയൻ - ട്രയാസിക് വംശനാശം
+- เหตุการณ์การสูญพันธุ์ยุคเพอร์เมียน–ไทรแอสซิก
+- პერმულ-ტრიასული გადაშენება
+- 二叠纪－三叠纪灭绝事件
+- 二疊紀-三疊紀滅絕事件
+- 二疊紀－三疊紀滅絕事件
+- 페름기-트라이아스기 멸종
 has_id_wikidata: Q141118
 subclass_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Online,5375741]]'
@@ -11,8 +66,71 @@ has_cause: '[[_Standards/WikiData/WD~global_environmental_change,134519251]]'
 point_in_time: -251900000-01-01T00:00:00Z
 instance_of: '[[_Standards/WikiData/WD~extinction_event,55814]]'
 Commons_category: Permian–Triassic extinction event
+dv_has_:
+  name_:
+    af: Perm-Trias-uitwissing
+    an: Extinción masiva d'o Permico-Triasico
+    ar: انقراض البرمي-الثلاثي
+    ast: Estinción masiva del Pérmico-Triásicu
+    be-tarask: пэрмска-трыясічнае выміраньне
+    bg: Масово измиране Перм-Триас
+    ca: extinció permiana
+    cs: Permské vymírání
+    da: Perm–Trias udslettelsen
+    de: Perm-Trias-Grenze
+    en: Permian-Triassic mass extinction
+    en-gb: Permian–Triassic extinction event
+    eo: Permi-triasa amasa formorto
+    es: Extinción masiva del Pérmico-Triásico
+    eu: Permo-Triasiar iraungipen masiboa
+    fa: رویداد انقراض پرمین-تریاسه
+    fi: permikauden joukkotuho
+    fr: extinction Permien-Trias
+    gl: Extinción do Permiano-Triásico
+    he: הכחדת פרם-טריאס
+    hi: पर्मियन-ट्राइऐसिक विलुप्ति घटना
+    hr: Perm-Trijas izumiranje
+    hu: perm–triász kihalási esemény
+    hy: Պերմյան զանգվածային ոչնչացում
+    id: Peristiwa kepunahan Perm-Trias
+    is: Aldauðinn í lok Perm
+    it: Estinzione di massa del Permiano-Triassico
+    ja: P-T境界
+    ka: პერმულ-ტრიასული გადაშენება
+    ko: 페름기-트라이아스기 멸종
+    la: Exstinctio Permia Triassica
+    lt: Permo-triaso masinis rūšių išnykimas
+    lv: Perma-triasa izmiršana
+    mk: Пермско-тријаско изумирање
+    ml: പെർമിയൻ - ട്രയാസിക് വംശനാശം
+    ms: Peristiwa kepupusan Perm–Trias
+    nb: Perm-trias-utdøingen
+    nl: Perm-Trias-massa-extinctie
+    nn: Perm-trias-utryddinga
+    oc: Extincion Permian-Triassic
+    pl: Wymieranie permskie
+    ps: د پرمیان – ټریاسیک د ورکېدو پېښه
+    pt: Extinção do Permiano-Triássico
+    ro: Extincția Permian-Triasic
+    ru: массовое пермское вымирание
+    sh: Perm-Trijas izumiranje
+    sk: Veľké permské vymieranie
+    sl: permsko-triasno izumrtje
+    sr: Permsko-trijasko izumiranje
+    sv: Perm–trias-utdöendet
+    th: เหตุการณ์การสูญพันธุ์ยุคเพอร์เมียน–ไทรแอสซิก
+    tr: Permiyen-Triyas yok oluşu
+    uk: Масове пермське вимирання
+    vi: Sự kiện tuyệt chủng kỷ Permi-kỷ Trias
+    yue: 二疊紀-三疊紀滅絕事件
+    zh: 二叠纪－三叠纪灭绝事件
+    zh-cn: 二叠纪－三叠纪灭绝事件
+    zh-hans: 二叠纪－三叠纪灭绝事件
+    zh-hant: 二疊紀－三疊紀滅絕事件
+    zh-hk: 二疊紀－三疊紀滅絕事件
+    zh-sg: 二叠纪－三叠纪灭绝事件
+    zh-tw: 二疊紀－三疊紀滅絕事件
 ---
-
 # [[Permian-Triassic_Extinction_Event]] 
 
 #is_/same_as :: [[WD~Permian-Triassic_extinction_event,141118]] 

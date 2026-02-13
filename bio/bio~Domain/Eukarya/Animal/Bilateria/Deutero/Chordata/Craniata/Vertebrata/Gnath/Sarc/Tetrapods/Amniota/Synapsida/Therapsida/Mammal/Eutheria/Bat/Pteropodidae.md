@@ -1,16 +1,70 @@
 ---
 aliases:
-  - fruit bats
-  - Old World fruit bats
-  - flying fox
-  - Pteropodidae
+- Agutɔ
+- Büyük yarasalar
+- Codot
+- Flughundar
+- Flughunde
+- flygehundar
+- flygehunder
+- Flygvalpar
+- flying fox
+- Flyvehunde
+- fruit bats
+- hedelmälepakot
+- Họ Dơi quạ
+- ialtóg na meas
+- Kalong
+- kaloni
+- Kaluang
+- kelawar mega
+- leteče lisice
+- Letipsi
+- Megachiroptera
+- Megachiroptere
+- megapad
+- Mąʼii ndaatʼáʼii dóó bikʼéí
+- Old World fruit bats
+- Popo-matunda
+- Pteropodidae
+- pteropòdids
+- repülőkutyafélék
+- Rudawkowate
+- Vaisėdžiai šikšnosparniai
+- velešišmiš
+- Velešišmiši
+- Veliki ljiljci
+- vesnoleem ke Pteropodidae yasa
+- vleerhonden
+- İriqanadlar
+- Πτεροποδίδες
+- Велики љиљци
+- Криланові
+- Крылан
+- Крыланавыя
+- Крылановые
+- летечки лисици
+- Плодоядни прилепи
+- Ӏимаьшк
+- թևոտուկազգիներ
+- עטלפי פרי
+- خفاش میوهخوار
+- خفافيش الفاكهة
+- خفافيش الفاكهه
+- وڈیاں چمگادڑاں
+- ค้างคาวผลไม้
+- လင်းဆွဲ
+- ხილიჭამია ხელფრთიანები
+- オオコウモリ
+- 狐蝠科
+- 큰박쥐류
 has_id_wikidata: Q185230
 taxonomic_type: '[[_Standards/WikiData/WD~Pteropus,1241332]]'
 diel_cycle: '[[_Standards/WikiData/WD~crepuscular,3255068]]'
 natural_reservoir_of: '[[_Standards/WikiData/WD~Ebolavirus,5331908]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 Commons_gallery: Pteropodidae
@@ -21,8 +75,97 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pterop
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pteropus%20conspicillatus.jpg
 EPPO_Code: 1PTPOF
 Library_of_Congress_Classification: QL737.C575
+dv_has_:
+  name_:
+    an: Pteropodidae
+    ar: خفافيش الفاكهة
+    arz: خفافيش الفاكهه
+    ast: Pteropodidae
+    avk: vesnoleem ke Pteropodidae yasa
+    az: İriqanadlar
+    ban: Pteropodidae
+    be-tarask: Крыланавыя
+    bg: Плодоядни прилепи
+    bjn: Kaluang
+    br: Pteropodidae
+    bs: Letipsi
+    ca: pteropòdids
+    ceb: Pteropodidae
+    cs: kaloni
+    cv: Крылан
+    da: Flyvehunde
+    de: Flughunde
+    ee: Agutɔ
+    el: Πτεροποδίδες
+    en: Pteropodidae
+    eo: Pteropodidae
+    es: Pteropodidae
+    eu: Pteropodidae
+    ext: Pteropodidae
+    fa: خفاش میوهخوار
+    fi: hedelmälepakot
+    fr: Pteropodidae
+    ga: ialtóg na meas
+    gl: Pteropodidae
+    he: עטלפי פרי
+    hi: megapad
+    hr: velešišmiš
+    hu: repülőkutyafélék
+    hy: թևոտուկազգիներ
+    ia: Pteropodidae
+    id: Codot
+    ie: Pteropodidae
+    inh: Ӏимаьшк
+    io: Pteropodidae
+    is: Flughundar
+    it: Pteropodidae
+    ja: オオコウモリ
+    jv: Kalong
+    ka: ხილიჭამია ხელფრთიანები
+    ko: 큰박쥐류
+    la: Pteropodidae
+    lt: Vaisėdžiai šikšnosparniai
+    mk: летечки лисици
+    ms: kelawar mega
+    mul: Pteropodidae
+    my: လင်းဆွဲ
+    nb: flygehunder
+    nl: vleerhonden
+    nn: flygehundar
+    nv: Mąʼii ndaatʼáʼii dóó bikʼéí
+    oc: Megachiroptera
+    pl: Rudawkowate
+    pnb: وڈیاں چمگادڑاں
+    pt: Pteropodidae
+    pt-br: Pteropodidae
+    ro: Megachiroptere
+    ru: Крылановые
+    sh: Velešišmiši
+    sl: leteče lisice
+    sq: Pteropodidae
+    sr: Велики љиљци
+    sr-ec: Велики љиљци
+    sr-el: Veliki ljiljci
+    stq: Pteropodidae
+    sv: Flygvalpar
+    sw: Popo-matunda
+    th: ค้างคาวผลไม้
+    tl: Pteropodidae
+    tr: Büyük yarasalar
+    uk: Криланові
+    vi: Họ Dơi quạ
+    vo: Pteropodidae
+    war: Pteropodidae
+    wuu: 狐蝠科
+    yue: 狐蝠科
+    zh: 狐蝠科
+    zh-cn: 狐蝠科
+    zh-hans: 狐蝠科
+    zh-hant: 狐蝠科
+    zh-hk: 狐蝠科
+    zh-sg: 狐蝠科
+    zh-tw: 狐蝠科
 ---
-
 # [[Pteropodidae]] 
 
 #is_/same_as :: [[WD~Pteropodidae,185230]] 

@@ -1,35 +1,172 @@
 ---
 aliases:
-  - Lepton
+- leaptón
+- leptoi
+- Lepton
+- leptona
+- leptonas
+- leptone
+- leptoni
+- leptonid
+- leptono
+- leptoon
+- leptão
+- leptó
+- leptón
+- liptoni
+- lépton
+- létteind
+- λεπτόνιο
+- лептон
+- лептондор
+- լեպտոն
+- לעפּטאָן
+- לפטון
+- لبتون
+- ليپطون
+- لپتون
+- لیپٹن
+- نحیفہ
+- लेप्टॉन
+- ਲੈਪਟੌਨ
+- மென்மி
+- ಲೆಪ್ಟಾನ್
+- ലെപ്റ്റൺ
+- เลปตอน
+- လက်ပတွန်
+- ლეპტონი
+- レプトン
+- 輕子
+- 轻子
+- 렙톤
 has_id_wikidata: Q82586
 has_characteristic:
-  - '[[_Standards/WikiData/WD~baryon_number,110346]]'
-  - '[[_Standards/WikiData/WD~lepton_number,174012]]'
+- '[[_Standards/WikiData/WD~baryon_number,110346]]'
+- '[[_Standards/WikiData/WD~lepton_number,174012]]'
 different_from: '[[_Standards/WikiData/WD~Lepton,398843]]'
 interaction:
-  - '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
-  - '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
 has_list: '[[_Standards/WikiData/WD~Q4434516,4434516]]'
 has_superpartner: '[[_Standards/WikiData/WD~slepton,6130374]]'
 antiparticle: '[[_Standards/WikiData/WD~antilepton,9617716]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~leptonic_matter,28728519]]'
-  - '[[_Standards/WikiData/WD~fermion,44363]]'
+- '[[_Standards/WikiData/WD~leptonic_matter,28728519]]'
+- '[[_Standards/WikiData/WD~fermion,44363]]'
 spin_quantum_number: 0.5
 OmegaWiki_Defined_Meaning: 1014667
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9ptons.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Leptones.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Leptons-sv.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/L%C3%A9ptons.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Leptones.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Leptons-sv.svg
 Commons_category: Leptons
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lepton-interaction-vertex-pvW.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Michael%20Schoenitzer%20%28MichaelSchoenitzer%29-Lepton.wav
 Dewey_Decimal_Classification: 539.7211
 P8189: 987007562936105171
+dv_has_:
+  name_:
+    af: lepton
+    ar: لبتون
+    ary: ليپطون
+    ast: leptón
+    az: lepton
+    azb: لپتون
+    be: лептон
+    be-tarask: лептон
+    bg: лептон
+    bs: lepton
+    ca: leptó
+    cs: lepton
+    cy: lepton
+    da: lepton
+    de: Lepton
+    de-ch: Lepton
+    el: λεπτόνιο
+    en: lepton
+    en-ca: lepton
+    en-gb: lepton
+    eo: leptono
+    es: leptón
+    et: leptonid
+    eu: leptoi
+    fa: لپتون
+    fi: leptoni
+    fr: lepton
+    ga: leaptón
+    gl: leptón
+    he: לפטון
+    hi: लेप्टॉन
+    hr: lepton
+    hu: lepton
+    hy: լեպտոն
+    ia: lepton
+    id: lepton
+    io: Leptono
+    is: létteind
+    it: leptone
+    ja: レプトン
+    ka: ლეპტონი
+    kaa: lepton
+    kk: лептон
+    kn: ಲೆಪ್ಟಾನ್
+    ko: 렙톤
+    ky: лептондор
+    la: lepton
+    lb: Lepton
+    lfn: lepton
+    li: lepton
+    lt: leptonas
+    lv: leptoni
+    mg: lepton
+    mk: лептон
+    ml: ലെപ്റ്റൺ
+    mn: лептон
+    ms: lepton
+    my: လက်ပတွန်
+    nb: lepton
+    nds: Lepton
+    nl: lepton
+    nn: lepton
+    oc: lepton
+    os: лептон
+    pa: ਲੈਪਟੌਨ
+    pl: lepton
+    pnb: لیپٹن
+    pt: leptão
+    pt-br: lépton
+    rki: လက်ပတွန်
+    ro: lepton
+    ru: лептон
+    scn: liptoni
+    sco: lepton
+    se: leptona
+    sh: lepton
+    sk: leptón
+    sl: lepton
+    sms: leptoon
+    sr: лептон
+    sr-ec: лептон
+    sr-el: lepton
+    sv: lepton
+    ta: மென்மி
+    th: เลปตอน
+    tl: lepton
+    tr: lepton
+    tt: лептон
+    uk: лептон
+    ur: نحیفہ
+    uz: lepton
+    vi: lepton
+    war: lepton
+    wo: lepton
+    wuu: 轻子
+    yi: לעפּטאָן
+    yue: 輕子
+    zh: 輕子
 ---
-
 # [[Lepton]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Lepton,82586|WD~Lepton,82586]] 

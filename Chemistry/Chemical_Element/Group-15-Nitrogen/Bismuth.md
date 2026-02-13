@@ -1,20 +1,89 @@
 ---
 aliases:
-  - Bismuth
+- Biesmoet
+- biosmat
+- bisemutum
+- Bismit
+- Bismota
+- Bismut
+- Bismutas
+- Bismute
+- Bismuth
+- Bismuthi
+- Bismuthu
+- Bismuti
+- bismuto
+- bismuts
+- Bismutu
+- bismwth
+- bismùt
+- bismút
+- Bismût
+- Bismüo
+- bitmut
+- Bizmut
+- Bék
+- Bîzmût
+- IBima
+- jinmrbismu
+- Pɩsɩmʊtɩ
+- Vismut
+- vismutti
+- Vismuttu
+- Wismut
+- Wismutu
+- βισμούθιο
+- бісмут
+- бизмут
+- бисмут
+- Бисмутум
+- Вісмут
+- висмут
+- բիսմութ
+- Պիսմութ
+- ביסמוט
+- بزموت
+- بسمتھ
+- بسمٿ
+- بسمیتھ
+- بيسموث
+- بیزموت
+- بیسموت
+- بېسموت
+- ۋىسمۇت
+- बिस्मथ
+- बिस्मुथ
+- বিসমাথ
+- ਬਿਸਮਥ
+- બિસ્મથ
+- ବିସ୍ମଥ
+- பிஸ்மத்து
+- బిస్మత్
+- ಬಿಸ್ಮತ್
+- ബിസ്മത്
+- บิสมัท
+- བི་སི་མ་ཐ།
+- ကြွပ်
+- ბისმუტი
+- ቢስመዝ
+- ビスマス
+- 鉍
+- 铋
+- 비스무트
 has_id_wikidata: Q942
 atomic_number: 83
-canonical_SMILES: "[Bi]"
+canonical_SMILES: '[Bi]'
 CAS_Registry_Number: 7440-69-9
 chemical_formula: Bi
 Commons_category: Bismuth
 Commons_gallery: Bismuth
-crystal_system: "[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]"
+crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 DSSTOX_compound_identifier: DTXCID0031057
 EC_number: 231-177-4
 electronegativity: 2.02
@@ -23,36 +92,36 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bismuth%20crystals%20a
 InChI: InChI=1S/Bi
 InChIKey: JCXGWMGPZLAOME-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~commodity,317088]]"
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.76
-  - 0.96
-  - 1.03
-  - 1.17
+- 0.76
+- 0.96
+- 1.03
+- 1.17
 mass: 208.9804
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~shigellosis,327298]]"
-  - "[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]"
-  - "[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]"
-  - "[[_Standards/WikiData/WD~Escherichia_coli_infectious_disease,4227886]]"
-  - "[[_Standards/WikiData/WD~peripheral_vascular_disease,26695607]]"
+- '[[_Standards/WikiData/WD~shigellosis,327298]]'
+- '[[_Standards/WikiData/WD~bacterial_infectious_disease,727028]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~Escherichia_coli_infectious_disease,4227886]]'
+- '[[_Standards/WikiData/WD~peripheral_vascular_disease,26695607]]'
 MeSH_tree_code:
-  - D01.268.271.245
-  - D01.268.556.100
-  - D01.496.749.305.245
-  - D01.552.544.100
+- D01.268.271.245
+- D01.268.556.100
+- D01.496.749.305.245
+- D01.552.544.100
 native_label: Bismuth
 OmegaWiki_Defined_Meaning: 156485
 part_of:
-  - "[[_Standards/WikiData/WD~group_15,106675]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+- '[[_Standards/WikiData/WD~group_15,106675]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20158.jpg
 PubChem_CID: 5359367
 SpocWebEntityId: 21978
-subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
-subject_has_role: "[[_Standards/WikiData/WD~antacid,274083]]"
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subject_has_role: '[[_Standards/WikiData/WD~antacid,274083]]'
 type: Element
 UMLS_CUI: C0005642
 Unicode_character: 鉍
@@ -62,21 +131,184 @@ Wolfram_Language_entity_code: Entity["Mineral", "Bismuth"]
 ZVG_number: 8520
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Bismuth,942]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth|Bismuth]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.public|Bismuth.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.private|Bismuth.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]]"
-  part_of: "[[../Group-15-Nitrogen]]"
+  - '[[../../../WikiData/WD~Bismuth,942]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth|Bismuth]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.public|Bismuth.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.private|Bismuth.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]]'
+  part_of: '[[../Group-15-Nitrogen]]'
 dv_has_:
   name_:
-    group: Group-15-Nitrogen
-    en: Bismuth
-    de: Bismut
     abbreviated: Bi
+    af: bismut
+    am: ቢስመዝ
+    an: Bismuto
+    anp: बिस्मथ
+    ar: بزموت
+    ary: بيسموث
+    arz: بزموت
+    ast: bismutu
+    az: Bismut
+    ba: Висмут
+    ban: Bismuth
+    bcl: Bismuto
+    be: Вісмут
+    be-tarask: бісмут
+    bg: бисмут
+    bho: बिस्मथ
+    bn: বিসমাথ
+    bo: བི་སི་མ་ཐ།
+    br: Bismut
+    bs: bizmut
+    ca: bismut
+    cdo: Bék
+    ceb: Bismuto
+    ckb: بیزموت
+    co: Bismutu
+    cs: bismut
+    cv: Висмут
+    cy: bismwth
+    da: bismuth
+    de: Bismut
+    de-ch: Bismut
+    el: βισμούθιο
+    en: bismuth
+    en-ca: bismuth
+    en-gb: bismuth
+    eo: bismuto
+    es: bismuto
+    et: Vismut
+    eu: bismuto
+    fa: بیسموت
+    fi: vismutti
+    fr: bismuth
+    frr: Bismut
+    fur: Bismût
+    ga: biosmat
+    gan: 鉍
+    gd: Biosmat
+    gl: Bismuto
+    group: Group-15-Nitrogen
+    gu: બિસ્મથ
+    gv: bismut
+    hak: bismuth
+    he: ביסמוט
+    hi: बिस्मथ
+    hif: Bismuth
+    hr: bizmut
+    ht: Bismit
+    hu: bizmut
+    hy: բիսմութ
+    hyw: Պիսմութ
+    ia: Bismuth
+    iba: Bismut
+    id: bismut
+    io: Bismuto
+    is: bismút
+    it: bismuto
+    ja: ビスマス
+    jbo: jinmrbismu
+    jv: Bismut
+    ka: ბისმუტი
+    kbp: Pɩsɩmʊtɩ
+    kk: Висмут
+    kn: ಬಿಸ್ಮತ್
+    ko: 비스무트
+    ku: Bîzmût
+    kv: Висмут
+    kw: Bismuth
+    ky: Висмут
+    la: bisemutum
+    lb: Bismut
+    lfn: bismuto
+    li: Biesmoet
+    lij: Bismüo
+    lmo: Bismuto
+    lt: Bismutas
+    lv: bismuts
+    lzh: 鉍
+    mg: Bismota
+    mk: бизмут
+    ml: ബിസ്മത്
+    mn: висмут
+    mr: बिस्मथ
+    mrj: Висмут
+    ms: Bismut
+    mt: bismùt
+    my: ကြွပ်
+    myv: Висмут
+    nan: Bismuth
+    nb: vismut
+    nds: Wismut
+    ne: बिस्मुथ
+    new: बिस्मुथ
+    nl: bismut
+    nn: vismut
+    nov: Bismute
+    oc: Bismut
+    olo: Vismuttu
+    or: ବିସ୍ମଥ
+    os: висмут
+    pa: ਬਿਸਮਥ
+    pi: बिस्मुथ
+    pl: bizmut
+    pms: Bismut
+    pnb: بسمتھ
+    ps: بېسموت
+    pt: bismuto
+    pt-br: bismuto
+    qu: Wismutu
+    ro: bismut
+    ru: висмут
+    rup: Bismuthu
+    sa: बिस्मुथ
+    sc: Bismutu
+    scn: bismutu
+    sco: bismuth
+    sd: بسمٿ
+    sh: Bizmut
+    sk: bizmut
+    sl: bizmut
+    so: Bismuth
+    sq: Bismuti
+    sr: бизмут
+    stq: Bismuth
+    sv: vismut
+    sw: Bismuthi
+    ta: பிஸ்மத்து
+    te: బిస్మత్
+    tg: Висмут
+    th: บิสมัท
+    tl: Bismuto
+    tr: Bizmut
+    tt: Висмут
+    tyv: Висмут
+    ug: ۋىسمۇت
+    uk: бісмут
+    ur: بسمیتھ
+    uz: Vismut
+    vep: Vismut
+    vi: bitmut
+    war: Bismuto
+    wuu: 铋
+    xal: Бисмутум
+    yi: ביסמוט
+    yo: Bismuth
+    yue: 鉍
+    zh: 鉍
+    zh-cn: 铋
+    zh-hans: 铋
+    zh-hant: 鉍
+    zh-hk: 鉍
+    zh-tw: 鉍
+    zu: IBima
+  number_of_:
+    period: 6
+    group: 15
+    electrons: 83
   value_for_:
     weight_:
       u: 208.9804
@@ -104,21 +336,17 @@ dv_has_:
       form_:
         kj_:
           mol: 104.8
-  number_of_:
-    period: 6
-    group: 15
-    electrons: 83
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Bismuth,942]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth|Bismuth]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.public|Bismuth.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.private|Bismuth.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]]"
+- '[[../../../WikiData/WD~Bismuth,942]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth|Bismuth]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.public|Bismuth.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.internal|Bismuth.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.protect|Bismuth.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.private|Bismuth.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.personal|Bismuth.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Bismuth.secret|Bismuth.secret]]'
 dv_has_name_group: Group-15-Nitrogen
-dv_is_part_of: "[[../Group-15-Nitrogen]]"
+dv_is_part_of: '[[../Group-15-Nitrogen]]'
 dv_has_name_en: Bismuth
 dv_has_name_de: Bismut
 dv_has_value_for_weight_u: 208.9804
@@ -139,7 +367,6 @@ dv_has_number_of_group: 15
 dv_has_name_abbreviated: Bi
 dv_has_number_of_electrons: 83
 ---
-
 #is_/same_as :: [[../../../WikiData/WD~Bismuth,942]] 
 
 

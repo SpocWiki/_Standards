@@ -1,32 +1,93 @@
 ---
 aliases:
-  - Diethylene glycol
-  - Diethylene_Glycol
-  - Diethylene Glycol
+- di-ethyleenglycol
+- Diethylene glycol
+- Diethylene_Glycol
+- Diethylenglycol
+- diethylenglykol
+- Dietilen glikol
+- Dietilena glikol
+- Dietilenglicol
+- dietilenoglicol
+- dietyleeniglykoli
+- dietylenglykol
+- diéthylène glycol
+- Glicol dietilenico
+- Glikol dietylenowy
+- Діетиленгліколь
+- диетиленгликол
+- Диэтиленгликоль
+- די אתילן גליקול
+- دیاتیلن قلیکول
+- دیاتیلن گلیکول
+- غلايكول ثنائي الايثيلين
+- डाइइथिलीन ग्लाइकोल
+- ジエチレングリコール
+- 二甘醇
+- 다이에틸렌 글라이콜
 dv_has_:
+  location: '[[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]'
+  name_:
+    ar: غلايكول ثنائي الايثيلين
+    azb: دیاتیلن قلیکول
+    bg: диетиленгликол
+    cs: diethylenglykol
+    de: Diethylenglycol
+    en: diethylene glycol
+    es: Dietilenglicol
+    eu: Dietilen glikol
+    fa: دیاتیلن گلیکول
+    fi: dietyleeniglykoli
+    fr: diéthylène glycol
+    he: די אתילן גליקול
+    hi: डाइइथिलीन ग्लाइकोल
+    id: Dietilena glikol
+    it: Glicol dietilenico
+    ja: ジエチレングリコール
+    ko: 다이에틸렌 글라이콜
+    ky: Диэтиленгликоль
+    ms: Dietilena glikol
+    nb: dietylenglykol
+    nl: di-ethyleenglycol
+    pl: Glikol dietylenowy
+    pt: dietilenoglicol
+    ro: Dietilenglicol
+    ru: диэтиленгликоль
+    sh: Dietilen glikol
+    sr: Dietilen glikol
+    sv: Dietylenglykol
+    tr: Dietilen glikol
+    uk: Діетиленгліколь
+    yue: 二甘醇
+    zh: 二甘醇
+    zh-cn: 二甘醇
+    zh-hans: 二甘醇
+    zh-hant: 二甘醇
+    zh-hk: 二甘醇
+    zh-sg: 二甘醇
+    zh-tw: 二甘醇
   time: 1985-06-01T00:00:00.000+02:00
-  location: "[[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]"
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]]"
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]]'
 dv_has_time: 1985-06-01
-dv_has_location: "[[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]"
+dv_has_location: '[[../../../../../../Earth/Continent/Europe/Europe~Central/Austria|Austria]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]]"
+- '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol|Diethylene_Glycol]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.public|Diethylene_Glycol.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.internal|Diethylene_Glycol.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.protect|Diethylene_Glycol.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.private|Diethylene_Glycol.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.personal|Diethylene_Glycol.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Diol/Diethylene_Glycol.secret|Diethylene_Glycol.secret]]'
+has_id_wikidata: Q421902
 ---
-
 # [[Diethylene_Glycol]] 
 
 

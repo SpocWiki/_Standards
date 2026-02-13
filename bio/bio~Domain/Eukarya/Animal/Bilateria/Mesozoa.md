@@ -1,9 +1,100 @@
 ---
 aliases:
-  - Mesozoa
+- harvasoluiset
+- mellomdyr
+- Mesozoa
+- Mesozon
+- Mesozoos
+- Mezozoa
+- Mezozoe
+- Mezozoylar
+- Middendiertjes
+- Morulovce
+- Morulovci
+- méiseasóin
+- Vaheloomad
+- Wielokomórkowce pośrednie
+- мезозої
+- мезозоа
+- Мезозое
+- мезозои
+- Мезозоолор
+- מזוזואה
+- حيوانات متوسطة
+- حيوانات متوسطه
+- میانزیان
+- 中生动物
+- 中生動物
+- 중생동물
 title: Mesozoa
+has_id_wikidata: Q462431
+dv_has_:
+  name_:
+    an: Mesozoa
+    ar: حيوانات متوسطة
+    arz: حيوانات متوسطه
+    ast: Mesozoa
+    az: Mezozoylar
+    bg: мезозоа
+    bs: Mezozoa
+    ca: Mesozoa
+    ceb: Mesozoa
+    cs: Morulovci
+    de: Mesozoa
+    en: Mesozoa
+    eo: Mesozoa
+    es: Mesozoa
+    et: Vaheloomad
+    eu: Mesozoa
+    ext: Mesozoa
+    fa: میانزیان
+    fi: harvasoluiset
+    fr: Mesozoa
+    ga: méiseasóin
+    gl: Mesozoos
+    he: מזוזואה
+    ia: Mesozoa
+    id: Mesozoa
+    ie: Mesozoa
+    io: Mesozoa
+    it: Mesozoa
+    ja: 中生動物
+    jv: Mesozoa
+    ko: 중생동물
+    ky: Мезозоолор
+    la: Mesozoa
+    lfn: Mesozon
+    li: Mesozoa
+    mul: Mesozoa
+    nb: mellomdyr
+    nl: Middendiertjes
+    nn: Mesozoa
+    oc: Mesozoa
+    pl: Wielokomórkowce pośrednie
+    pt: Mesozoa
+    pt-br: Mesozoa
+    ro: Mesozoa
+    ru: мезозои
+    sk: Morulovce
+    sq: Mesozoa
+    sr: Мезозое
+    sr-ec: Мезозое
+    sr-el: Mezozoe
+    sv: Mesozoa
+    tl: Mesozoa
+    tr: Mesozoa
+    uk: мезозої
+    vi: Mesozoa
+    vo: Mesozoa
+    war: Mesozoa
+    zh: 中生动物
+    zh-cn: 中生动物
+    zh-hans: 中生动物
+    zh-hant: 中生動物
+    zh-hk: 中生動物
+    zh-sg: 中生动物
+    zh-tw: 中生動物
 ---
-
 # [[Mesozoa]] 
 
 ![Mesozoa](Mesozoa/Mesozoa.gif)  ![Mesozoa](Mesozoa/Mesozoa2.gif)  

@@ -1,20 +1,32 @@
 ---
 aliases:
-  - Leo_Fender
-  - Clarence Leonidas Fender
-  - Leo Fender
-  - Fender
-  - Fender,Leo
+- Clarence Leonidas Fender
+- Fender
+- Fender,Leo
+- Leo Fender
+- Leo_Fender
+- Λέο Φέντερ
+- Лео Фендер
+- Лео Фэндэр
+- Լեո Ֆենդեր
+- Լէօ Ֆենտըր
+- ליאו פנדר
+- لئو فندر
+- ليو فيندر
+- ลีโอ เฟนเดอร์
+- レオ・フェンダー
+- 利奥·芬达
+- 리오 펜더
 has_id_wikidata: Q297469
 award_received:
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Technical_Grammy_Award,17011048]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Technical_Grammy_Award,17011048]]'
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~guitar_maker,450202]]'
-  - '[[_Standards/WikiData/WD~luthier,762707]]'
-  - '[[_Standards/WikiData/WD~musical_instrument_maker,1955150]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~guitar_maker,450202]]'
+- '[[_Standards/WikiData/WD~luthier,762707]]'
+- '[[_Standards/WikiData/WD~musical_instrument_maker,1955150]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 place_of_death: '[[_Standards/WikiData/WD~Fullerton,494723]]'
 given_name: '[[_Standards/WikiData/WD~Leo,606764]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -36,8 +48,58 @@ work_period_start_: 1948-01-01T00:00:00Z
 ISNI: 0000000036650049
 name_in_native_language: Leo Fender
 date_of_birth: 1909-08-10T00:00:00Z
+dv_has_:
+  name_:
+    ar: ليو فيندر
+    ast: Leo Fender
+    be-tarask: Лео Фэндэр
+    bg: Лео Фендер
+    br: Leo Fender
+    ca: Leo Fender
+    cs: Leo Fender
+    cy: Leo Fender
+    da: Leo Fender
+    de: Leo Fender
+    el: Λέο Φέντερ
+    en: Leo Fender
+    es: Leo Fender
+    eu: Leo Fender
+    fa: لئو فندر
+    fi: Leo Fender
+    fr: Leo Fender
+    ga: Leo Fender
+    gl: Leo Fender
+    he: ליאו פנדר
+    hr: Leo Fender
+    hu: Leo Fender
+    hy: Լեո Ֆենդեր
+    hyw: Լէօ Ֆենտըր
+    id: Leo Fender
+    it: Leo Fender
+    ja: レオ・フェンダー
+    ko: 리오 펜더
+    mg: Leo Fender
+    mul: Leo Fender
+    nb: Leo Fender
+    nl: Leo Fender
+    nn: Leo Fender
+    pl: Leo Fender
+    pt: Leo Fender
+    pt-br: Leo Fender
+    ru: Лео Фендер
+    sh: Leo Fender
+    sk: Clarence Leonidas Fender
+    sl: Leo Fender
+    sq: Leo Fender
+    sr: Лео Фендер
+    sv: Leo Fender
+    sw: Leo Fender
+    th: ลีโอ เฟนเดอร์
+    tr: Leo Fender
+    uk: Лео Фендер
+    war: Leo Fender
+    zh: 利奥·芬达
 ---
-
 # [[Fender,Leo]] 
 
 #is_/same_as :: [[WD~Leo_Fender,297469]] 

@@ -1,9 +1,57 @@
 ---
 aliases:
-  - Glomerida
+- Glomerida
+- Glomèrides
+- Klotdubbelfotingar
+- Pill millipede
+- Qalxancıqdaşıyanlar
+- Saftkugler
+- svinule
+- Сауытты аңдар
+- قمروشيات
+- กระสุนพระอินทร์
+- 球馬陆目
+- 球马陆目
 title: Glomerida
+has_id_wikidata: Q1365864
+dv_has_:
+  name_:
+    ar: قمروشيات
+    ast: Glomerida
+    az: Qalxancıqdaşıyanlar
+    bg: Glomerida
+    ca: Glomèrides
+    ceb: Glomerida
+    cs: svinule
+    de: Saftkugler
+    en: Pill millipede
+    es: Glomerida
+    fi: Glomerida
+    fr: Glomerida
+    ga: Glomerida
+    it: Glomerida
+    kk: Сауытты аңдар
+    la: Glomerida
+    mul: Glomerida
+    nb: Glomerida
+    nl: Glomerida
+    nn: Glomerida
+    pl: Glomerida
+    pt: Glomerida
+    ro: Glomerida
+    ru: Glomerida
+    sq: Glomerida
+    sv: Klotdubbelfotingar
+    th: กระสุนพระอินทร์
+    tr: Glomerida
+    uk: Glomerida
+    vi: Glomerida
+    war: Glomerida
+    zh: 球马陆目
+    zh-cn: 球马陆目
+    zh-hans: 球马陆目
+    zh-tw: 球馬陆目
 ---
-
 # [[Glomerida]] 
 
 

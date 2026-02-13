@@ -1,11 +1,38 @@
 ---
 aliases:
+- Australopithecinae
 has_id_wikidata: Q33141205
-taxon_rank: "[[_Standards/WikiData/WD~subfamily,164280]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 taxon_name: Australopithecinae
+dv_has_:
+  name_:
+    ast: Australopithecinae
+    bg: Australopithecinae
+    ceb: Australopithecinae
+    de: Australopithecinae
+    en: Australopithecinae
+    es: Australopithecinae
+    fi: Australopithecinae
+    fr: Australopithecinae
+    ga: Australopithecinae
+    it: Australopithecinae
+    la: Australopithecinae
+    mt: Australopithecinae
+    mul: Australopithecinae
+    nb: Australopithecinae
+    nl: Australopithecinae
+    nn: Australopithecinae
+    pl: Australopithecinae
+    pt: Australopithecinae
+    ro: Australopithecinae
+    ru: Australopithecinae
+    sq: Australopithecinae
+    uk: Australopithecinae
+    vec: Australopithecinae
+    vi: Australopithecinae
+    war: Australopithecinae
 ---
-
 # [[Australopithecus]] 
 
 #is_/same_as :: [[WD~Australopithecinae,33141205]] 

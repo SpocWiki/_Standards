@@ -1,25 +1,121 @@
 ---
 aliases:
-  - Ritterlichkeit
-  - Chivalry
+- Bộ quy tắc hiệp sĩ
+- Caballería medieval
+- cavalaria medieval
+- Cavalariá medievala
+- Cavallaria
+- Cavallaria medieval
+- cavalleria medieval
+- cavalleria medievale
+- chevalerie
+- Chivalry
+- Código de Cabalaría
+- cəngavərlik
+- Etos rycerski
+- Kagalantihan
+- kavalireco
+- Kekesatriaan
+- lovagiasság
+- ridderlighet
+- ridderlijkheid
+- ridireacht
+- ritarillisuus
+- Ritterlichkeit
+- Rytierstvo
+- rytířství
+- Rüütellikkus
+- Sifalri
+- viteštvo
+- zalduntza
+- Şövalyelik
+- ιπποτισμός
+- витештво
+- Лицарство
+- Рицарство
+- рыцарства
+- рыцарство
+- ասպետություն
+- אבירות
+- شوالیهگری
+- فروسية العصور الوسطى
+- शिष्टता
+- स्त्रीदाक्षिण्य
+- რაინდობა
+- 騎士精神
+- 騎士道
+- 骑士精神
+- 기사도
 has_id_wikidata: Q1056721
 practiced_by: '[[_Standards/WikiData/WD~knight,102083]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~social_class,187588]]'
-  - '[[_Standards/WikiData/WD~code_of_conduct,2119819]]'
+- '[[_Standards/WikiData/WD~social_class,187588]]'
+- '[[_Standards/WikiData/WD~code_of_conduct,2119819]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Commons_category: Chivalry
 Dewey_Decimal_Classification: 394.7
 Krugosvet_article: istoriya/RITSARSTVO.html
+dv_has_:
+  name_:
+    ar: فروسية العصور الوسطى
+    ast: Caballería medieval
+    az: cəngavərlik
+    be-tarask: рыцарства
+    bg: Рицарство
+    ca: cavalleria medieval
+    cs: rytířství
+    cy: Sifalri
+    de: Ritterlichkeit
+    el: ιπποτισμός
+    en: chivalry
+    en-ca: Chivalry
+    en-gb: chivalry
+    eo: kavalireco
+    es: caballería medieval
+    et: Rüütellikkus
+    eu: zalduntza
+    fa: شوالیهگری
+    fi: ritarillisuus
+    fr: chevalerie
+    ga: ridireacht
+    gl: Código de Cabalaría
+    he: אבירות
+    hi: शिष्टता
+    hu: lovagiasság
+    hy: ասպետություն
+    ia: Cavallaria medieval
+    id: Kekesatriaan
+    it: cavalleria medievale
+    ja: 騎士道
+    ka: რაინდობა
+    ko: 기사도
+    lmo: Cavallaria
+    mk: витештво
+    mr: स्त्रीदाक्षिण्य
+    nl: ridderlijkheid
+    oc: Cavalariá medievala
+    pl: Etos rycerski
+    pt: cavalaria medieval
+    pt-br: Cavalaria medieval
+    ru: рыцарство
+    sk: Rytierstvo
+    sl: viteštvo
+    sr: витештво
+    sv: ridderlighet
+    tl: Kagalantihan
+    tr: Şövalyelik
+    uk: Лицарство
+    vi: Bộ quy tắc hiệp sĩ
+    wuu: 骑士精神
+    zh: 騎士精神
 ---
-
 # [[Chivalry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Chivalry,1056721|WD~Chivalry,1056721]] 

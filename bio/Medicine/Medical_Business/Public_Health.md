@@ -1,54 +1,134 @@
 ---
 aliases:
-  - public health
-  - public-health
-  - public_health
-  - PublicHealth
-  - is_a_public_health
-  - Health
-  - Public_Health
-  - Public Health
+- aalmugtiervâsvuotâ
+- Ahụike ọhanaeze
+- folkehelse
+- folkesundhed
+- folkhälsa
+- goenggungh veiswngh
+- halk sağlığı
+- hauora tūmatanui
+- Health
+- iechyd cyhoeddus
+- Ilmu kesehatan masyarakat
+- is_a_public_health
+- Jamoat salomatligi
+- javno zdravje
+- Javno zdravstvo
+- Jámiyetlik densawlıqtı saqlaw
+- kalusugang pampubliko
+- kansanterveys
+- Kawigasan awam
+- kesihatan awam
+- Kong-kiōng ōe-seng
+- közegészségügy
+- Lafiyar jama'a
+- Lýðheilsufræði
+- meertiõrvâsvuõtt
+- Openbare gesondheid
+- Osasun publiko
+- public health
+- public-health
+- PublicHealth
+- public_health
+- publika sano
+- rahvatervis
+- sabiedrības veselība
+- salud pública
+- Salus publica
+- salut pública
+- salute pubblica
+- Salú pública
+- sanità pùblega
+- santé publique
+- saúde pública
+- seabradahkedaalhkesh
+- Shëndeti publik
+- sláinte phoiblí
+- sosial gigiyena və səhiyyənin təşkili
+- sănătate publică
+- veřejné zdraví
+- visuomenės sveikata
+- volksgezondheid
+- y tế công cộng
+- zdravstvo
+- zdrowie publiczne
+- álbmotdearvvašvuohta
+- álmmukvarresvuohta
+- δημόσια υγεία
+- јавно здравље
+- грамадзкае здароўе
+- громадське здоров’я
+- здравство
+- Коммуналдық гигиена
+- Обществено здраве
+- сацыяльная гігіена і арганізацыя аховы здароўя
+- Социалдык гигиена
+- социальная гигиена и организация здравоохранения
+- Тандурустии ҷамъиятӣ
+- җәмгыять сәламәтлеге
+- Սոցիալական հիգիենա
+- בריאות הציבור
+- بهداشت عمومی
+- صحة عمومية
+- عامه روغتیا
+- عوامی صحت
+- کصيحتن عوام
+- जनस्वास्थ्य
+- জনস্বাস্থ্য
+- பொது நலம்
+- ప్రజారోగ్యం
+- මහජන සෞඛ්යය
+- สาธารณสุข
+- ပြည်သူ့ကျန်းမာရီး
+- ပြည်သူ့ကျန်းမာရေး
+- 公共卫生
+- 公共衛生
+- 公共衞生
+- 公衆衛生
+- 卫生
+- 공중보건학
 has_id_wikidata: Q189603
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MedicalSpecialty
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - public_health
+- public_health
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_public_health Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_public_health Class
 type: Type
 Library_of_Congress_Classification:
-  - RA421-RA790.95
-  - RA
+- RA421-RA790.95
+- RA
 OpenStreetMap_tag: healthcare:speciality=community
 facet_of: '[[_Standards/WikiData/WD~risk_management,189447]]'
 instance_of:
-  - '[[../../../WikiData/WD~work,268378]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[../../../WikiData/WD~work,268378]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~health_sciences,843601]]'
-  - '[[_Standards/WikiData/WD~social_science,34749]]'
+- '[[_Standards/WikiData/WD~health_sciences,843601]]'
+- '[[_Standards/WikiData/WD~social_science,34749]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~public_health_physician,10334684]]'
-  - '[[_Standards/WikiData/WD~public_health_scientist,24017732]]'
+- '[[_Standards/WikiData/WD~public_health_physician,10334684]]'
+- '[[_Standards/WikiData/WD~public_health_scientist,24017732]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Public_health,10987181]]'
-  - '[[_Standards/WikiData/WD~Template_Public_health_sidebar,124618992]]'
+- '[[_Standards/WikiData/WD~Template_Public_health,10987181]]'
+- '[[_Standards/WikiData/WD~Template_Public_health_sidebar,124618992]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-  - '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 studied_by: '[[_Standards/WikiData/WD~health_economics,31218]]'
 OmegaWiki_Defined_Meaning: 3034
@@ -57,19 +137,119 @@ DPLA_subject_term: Public Health
 subreddit: publichealth
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salk%20headlines.jpg
 exact_match:
-  - http://id.cabi.org/cabt/97906
-  - https://op.europa.eu/web/eu-vocabularies/concept/-/resource?uri=http://data.europa.eu/bkc/015.04.01.0850
-  - https://schema.org/PublicHealth
+- http://id.cabi.org/cabt/97906
+- https://op.europa.eu/web/eu-vocabularies/concept/-/resource?uri=http://data.europa.eu/bkc/015.04.01.0850
+- https://schema.org/PublicHealth
 UMLS_CUI:
-  - C0014410
-  - C0034019
+- C0014410
+- C0034019
 MeSH_tree_code:
-  - H02.403.720
-  - N01.400.550
-  - N06.850
+- H02.403.720
+- N01.400.550
+- N06.850
 Commons_category: Public health
+dv_has_:
+  name_:
+    af: Openbare gesondheid
+    ar: صحة عمومية
+    as: জনস্বাস্থ্য
+    ast: Salú pública
+    az: sosial gigiyena və səhiyyənin təşkili
+    be: сацыяльная гігіена і арганізацыя аховы здароўя
+    be-tarask: грамадзкае здароўе
+    bg: Обществено здраве
+    bjn: Kawigasan awam
+    bn: জনস্বাস্থ্য
+    bs: Javno zdravstvo
+    ca: salut pública
+    cs: veřejné zdraví
+    cy: iechyd cyhoeddus
+    da: folkesundhed
+    de: Public Health
+    el: δημόσια υγεία
+    en: public health
+    en-us: public health
+    eo: publika sano
+    es: salud pública
+    et: rahvatervis
+    eu: Osasun publiko
+    fa: بهداشت عمومی
+    fi: kansanterveys
+    fr: santé publique
+    ga: sláinte phoiblí
+    gl: saúde pública
+    ha: Lafiyar jama'a
+    he: בריאות הציבור
+    hi: जनस्वास्थ्य
+    hr: zdravstvo
+    hu: közegészségügy
+    hy: Սոցիալական հիգիենա
+    id: Ilmu kesehatan masyarakat
+    ig: Ahụike ọhanaeze
+    is: Lýðheilsufræði
+    it: salute pubblica
+    ja: 公衆衛生
+    kaa: Jámiyetlik densawlıqtı saqlaw
+    kk: Коммуналдық гигиена
+    ko: 공중보건학
+    ky: Социалдык гигиена
+    la: Salus publica
+    lt: visuomenės sveikata
+    lv: sabiedrības veselība
+    mi: hauora tūmatanui
+    mk: здравство
+    ms: kesihatan awam
+    ms-arab: کصيحتن عوام
+    my: ပြည်သူ့ကျန်းမာရေး
+    nan: Kong-kiōng ōe-seng
+    nb: folkehelse
+    ne: जनस्वास्थ्य
+    nl: volksgezondheid
+    nn: folkehelse
+    pl: zdrowie publiczne
+    pnb: عوامی صحت
+    ps: عامه روغتیا
+    pt: saúde pública
+    pt-br: saúde pública
+    rki: ပြည်သူ့ကျန်းမာရီး
+    ro: sănătate publică
+    ru: социальная гигиена и организация здравоохранения
+    se: álbmotdearvvašvuohta
+    sh: zdravstvo
+    si: මහජන සෞඛ්යය
+    sl: javno zdravje
+    sma: seabradahkedaalhkesh
+    smj: álmmukvarresvuohta
+    smn: aalmugtiervâsvuotâ
+    sms: meertiõrvâsvuõtt
+    sq: Shëndeti publik
+    sr: јавно здравље
+    sr-ec: Здравство
+    sr-el: Zdravstvo
+    sv: folkhälsa
+    ta: பொது நலம்
+    te: ప్రజారోగ్యం
+    tg: Тандурустии ҷамъиятӣ
+    th: สาธารณสุข
+    tl: kalusugang pampubliko
+    tr: halk sağlığı
+    tt: җәмгыять сәламәтлеге
+    uk: громадське здоров’я
+    ur: عوامی صحت
+    uz: Jamoat salomatligi
+    vec: sanità pùblega
+    vi: y tế công cộng
+    wuu: 卫生
+    yue: 公共衞生
+    za: goenggungh veiswngh
+    zh: 公共衛生
+    zh-cn: 公共卫生
+    zh-hans: 公共卫生
+    zh-hant: 公共衛生
+    zh-hk: 公共衛生
+    zh-sg: 公共卫生
+    zh-tw: 公共衛生
 ---
-
 # [[Public_Health]] 
 
 #has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  

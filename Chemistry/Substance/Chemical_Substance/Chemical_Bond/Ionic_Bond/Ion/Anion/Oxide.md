@@ -1,47 +1,199 @@
 ---
 aliases:
-  - Oxid
-  - Oxide
+- iNtuhla
+- muksi
+- ocsaíd
+- ocsid
+- oksaayidii
+- oksid
+- oksida
+- oksidas
+- oksidet
+- oksidi
+- oksidlər
+- oksido
+- oksied
+- Oksiid
+- oksiidid
+- oksit
+- oksīds
+- ossido
+- Oxid
+- Oxide
+- oxider
+- oxides
+- oxido
+- oxidum
+- oxyde
+- tlenek
+- òxid
+- óxido
+- óxidu
+- ôksida
+- ōkai
+- οξείδιο
+- аксіды
+- аксыд
+- оксид
+- оксидсем
+- оксидтар
+- оксидтер
+- օքսիդ
+- תחמוצת
+- آکسائڈ
+- أكسيد
+- اوکسيدا
+- اوکسید
+- اکسايد
+- اکسید
+- ऑक्साइड
+- অক্সাইড
+- ਆਕਸਾਈਡ
+- ஆக்சைடு
+- ಆಕ್ಸೈಡ್
+- ഓക്സൈഡ്
+- ออกไซด์
+- ოქსიდი
+- 氧化物
+- 酸化物
+- 산화물
 has_id_wikidata: Q50690
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~oxygen_compound,5156940]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Oxides,16738651]]"
-different_from: "[[_Standards/WikiData/WD~oxide(2_),27110027]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~oxygen_compound,5156940]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Oxides,16738651]]'
+different_from: '[[_Standards/WikiData/WD~oxide(2_),27110027]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 OmegaWiki_Defined_Meaning: 2696
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20drop%20001.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rareearthoxides.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Iron%28III%29-oxide-sample.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Water%20drop%20001.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rareearthoxides.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Iron%28III%29-oxide-sample.jpg
 UMLS_CUI: C0030015
 MeSH_tree_code:
-  - D01.248.497.158.685
-  - D01.650.550
+- D01.248.497.158.685
+- D01.650.550
 Commons_category: Oxides
 dv_is_:
   same_as:
-    - "[[../../../../../../../WikiData/WD~Oxide,50690]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide|Oxide]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.public|Oxide.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.internal|Oxide.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.protect|Oxide.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.private|Oxide.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.personal|Oxide.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.secret|Oxide.secret]]"
+  - '[[../../../../../../../WikiData/WD~Oxide,50690]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide|Oxide]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.public|Oxide.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.internal|Oxide.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.protect|Oxide.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.private|Oxide.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.personal|Oxide.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.secret|Oxide.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Oxide,50690]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide|Oxide]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.public|Oxide.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.internal|Oxide.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.protect|Oxide.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.private|Oxide.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.personal|Oxide.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.secret|Oxide.secret]]"
+- '[[../../../../../../../WikiData/WD~Oxide,50690]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide|Oxide]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.public|Oxide.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.internal|Oxide.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.protect|Oxide.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.private|Oxide.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.personal|Oxide.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Oxide.secret|Oxide.secret]]'
+dv_has_:
+  name_:
+    af: oksied
+    ar: أكسيد
+    ast: óxidu
+    az: oksidlər
+    azb: اوکسید
+    ba: оксидтар
+    be: аксіды
+    be-tarask: аксыд
+    bg: оксид
+    bn: অক্সাইড
+    bs: oksidi
+    ca: òxid
+    cs: oxid
+    cv: оксидсем
+    cy: ocsid
+    da: oxid
+    de: Oxide
+    de-ch: Oxide
+    el: οξείδιο
+    en: oxide
+    en-ca: oxide
+    en-gb: oxide
+    eo: oksido
+    es: óxido
+    et: oksiidid
+    eu: oxido
+    fa: اکسید
+    fi: oksidi
+    fr: oxyde
+    frr: Oksiid
+    ga: ocsaíd
+    gl: óxido
+    he: תחמוצת
+    hi: ऑक्साइड
+    hr: oksidi
+    hu: oxid
+    hy: օքսիդ
+    id: oksida
+    io: oxido
+    it: ossido
+    ja: 酸化物
+    ka: ოქსიდი
+    kk: оксидтер
+    kn: ಆಕ್ಸೈಡ್
+    ko: 산화물
+    kw: oksid
+    ky: оксидтер
+    la: oxidum
+    lt: oksidas
+    lv: oksīds
+    lzh: 氧化物
+    mg: ôksida
+    mi: ōkai
+    mk: оксид
+    ml: ഓക്സൈഡ്
+    ms: oksida
+    ms-arab: اوکسيدا
+    nb: oksid
+    nds: Oxid
+    nl: oxide
+    nn: oksid
+    oc: oxid
+    om: oksaayidii
+    pa: ਆਕਸਾਈਡ
+    pl: tlenek
+    pnb: آکسائڈ
+    ps: اکسايد
+    pt: óxido
+    pt-br: óxido
+    qu: muksi
+    ro: oxid
+    ru: оксид
+    sah: оксид
+    sh: oksid
+    sk: oxid
+    sl: oksid
+    sn: oxides
+    sq: oksidet
+    sr: оксид
+    sr-ec: оксид
+    sv: oxider
+    sw: oksidi
+    ta: ஆக்சைடு
+    th: ออกไซด์
+    tr: oksit
+    udm: оксид
+    uk: оксид
+    ur: آکسائڈ
+    uz: oksid
+    vi: oxide
+    war: oxide
+    wuu: 氧化物
+    yue: 氧化物
+    zh: 氧化物
+    zh-hant: 氧化物
+    zu: iNtuhla
 ---
-
 # [[Oxide]] 
 
 #is_/same_as :: [[WD~Oxide,50690]] 

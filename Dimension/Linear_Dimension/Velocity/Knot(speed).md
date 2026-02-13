@@ -1,37 +1,203 @@
 ---
 aliases:
-  - Knoten
-  - Knot(speed)
+- csomó
+- düyün
+- hnútur
+- knob
+- knoop
+- Knoot
+- knop
+- knot
+- Knot(speed)
+- Knoten
+- knoto
+- Knuet
+- Knupf
+- korapilo
+- mazgas
+- mezgls
+- muirmhíle
+- neu
+- nod
+- nodo
+- noeud
+- nos
+- noti
+- nudo
+- nuedu
+- nus
+- nyja
+- námorný uzol
+- nó
+- nút
+- nœud
+- ruppu
+- skoulm
+- solmu
+- sõlm
+- tüýin
+- uzel
+- vozel
+- węzeł
+- čvor
+- κόμβος
+- јазол
+- вузел
+- вузол
+- възел
+- тĕвĕ
+- түйін
+- узел
+- чвор
+- հանգույց
+- קשר
+- دویون (اؤلچو بیریمی)
+- عقدة
+- ناٹ
+- ناٽ
+- ٴتۇيىن
+- گره
+- گرێ
+- नॉट
+- নট
+- ਨੌਟ
+- นอต
+- ཚིགས།
+- კვანძი
+- ណុត
+- ノット
+- 節
+- 节
+- 노트
 has_id_wikidata: Q128822
 different_from:
-  - '[[_Standards/WikiData/WD~knot,527395]]'
-  - '[[_Standards/WikiData/WD~candle_wick,849004]]'
-  - '[[_Standards/WikiData/WD~knot,1188853]]'
-  - '[[_Standards/WikiData/WD~knot_(UK),105828468]]'
-  - '[[_Standards/WikiData/WD~wick,118978194]]'
+- '[[_Standards/WikiData/WD~knot,527395]]'
+- '[[_Standards/WikiData/WD~candle_wick,849004]]'
+- '[[_Standards/WikiData/WD~knot,1188853]]'
+- '[[_Standards/WikiData/WD~knot_(UK),105828468]]'
+- '[[_Standards/WikiData/WD~wick,118978194]]'
 named_after: '[[_Standards/WikiData/WD~knot,527395]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 measured_physical_quantity: '[[_Standards/WikiData/WD~speed,3711325]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~unit_of_speed,15222637]]'
-  - '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_speed,15222637]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 conversion_to_standard_unit: 1.852
 unit_symbol:
-  - уз
-  - kn
-  - kn
-  - kn
+- уз
+- kn
+- kn
+- kn
 UN_CEFACT_Common_Code: KNT
 Wolfram_Language_unit_code: '"Knots"'
 UCUM_code: '[kn_i]'
 Wikidata_SPARQL_query_equivalent: wd:Q128822 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
 conversion_to_SI_unit: 0.5144444444444445
+dv_has_:
+  name_:
+    af: Knoop
+    ar: عقدة
+    as: নট
+    ast: nuedu
+    az: düyün
+    azb: دویون (اؤلچو بیریمی)
+    bar: Knupf
+    be: вузел
+    be-tarask: вузел
+    bg: възел
+    bn: নট
+    bo: ཚིགས།
+    br: skoulm
+    ca: nus
+    ckb: گرێ
+    cs: uzel
+    cv: тĕвĕ
+    da: knob
+    de: Knoten
+    el: κόμβος
+    en: knot
+    eo: knoto
+    es: nudo
+    et: sõlm
+    eu: korapilo
+    fa: گره
+    fi: solmu
+    fr: nœud
+    frr: Knoot
+    ga: muirmhíle
+    gl: nó
+    ha: knot
+    he: קשר
+    hi: नॉट
+    hr: čvor
+    hu: csomó
+    hy: հանգույց
+    id: knot
+    is: hnútur
+    it: nodo
+    ja: ノット
+    ka: კვანძი
+    kk: түйін
+    kk-arab: ٴتۇيىن
+    kk-cn: ٴتۇيىن
+    kk-cyrl: түйін
+    kk-kz: түйін
+    kk-latn: tüýin
+    kk-tr: tüýin
+    km: ណុត
+    ko: 노트
+    lb: Knuet
+    lmo: noeud
+    lt: mazgas
+    lv: mezgls
+    mi: noti
+    min: knot
+    mk: јазол
+    mr: नॉट
+    ms: knot
+    nb: knop
+    nl: knoop
+    nn: knop
+    oc: nos
+    pa: ਨੌਟ
+    pl: węzeł
+    pms: neu
+    pt: nó
+    pt-br: nó
+    ro: nod
+    ru: узел
+    scn: ruppu
+    sco: knot
+    sd: ناٽ
+    sh: čvor
+    sk: námorný uzol
+    sl: vozel
+    sq: nyja
+    sr: чвор
+    sr-ec: Чвор
+    sr-el: čvor
+    sv: knop
+    sw: noti
+    th: นอต
+    tr: knot
+    uk: вузол
+    ur: ناٹ
+    vi: nút
+    war: nudo
+    wuu: 节
+    yue: 節
+    zh: 節
+    zh-cn: 节
+    zh-hans: 节
+    zh-hant: 節
+    zh-hk: 節
+    zh-sg: 节
+    zh-tw: 節
 ---
-
 # [[Knot(speed)]] 
 
 #is_/same_as :: [[WD~Knot,128822]] 

@@ -1,65 +1,123 @@
 ---
 aliases:
-  - Hildegard von Bingen
-  - Hildegard of Bingen
-  - Hildegardis Bingensis
-  - Sibyl of the Rhine
-  - Hildegard_of_Bingen
+- Bingen ê Hildegard
+- Bingeni Szent Hildegárd
+- Bingenli Hildegard
+- Bingenlik Hildegard
+- Binqenli Hildeqard
+- Hildegard af Bingen
+- Hildegard av Bingen
+- Hildegard Bingeniläine
+- Hildegard Bingeniläinen
+- Hildegard Bingenist
+- Hildegard de Bingen
+- Hildegard fan Bingen
+- Hildegard han Bingen
+- Hildegard iz Bingena
+- Hildegard ng Bingen
+- Hildegard od Bingena
+- Hildegard of Bingen
+- Hildegard van Bingen
+- Hildegard vo Binge
+- Hildegard von Bingen
+- Hildegard vu Bingen
+- Hildegard xứ Bingen
+- Hildegarda Bingenietė
+- Hildegarda de Bingen
+- Hildegarda iz Bingna
+- Hildegarda wa Bingen
+- Hildegarda z Bingen
+- Hildegarda z Bingenu
+- Hildegarde de Bingen
+- Hildegarde no Bingenas
+- Hildegardis Bingensis
+- Hildegard_of_Bingen
+- Ildegarda de Bingen
+- Ildegarda di Bingen
+- jan Ileka pi ma Pinken
+- Sibyl of the Rhine
+- Χίλντεγκαρντ του Μπίνγκεν
+- Гільдеґарда Бінгенська
+- Гільдэгарда Бінгенская
+- Хільдэгарда Бінгенская
+- Хилдегард от Бинген
+- Хилдегарда Бингенска
+- Хильдегард Бингенская
+- Хильдегарда Бингенская
+- Հիլդեգարդ Բինգենցի
+- הילדגרד מבינגן
+- د بنګن هلډګارډ
+- هايدجارد بنجين
+- هايدغارد بنجين
+- هیلدقارد بینقنی
+- هیلدگارد از بینگن
+- बिंगेनया हिल्डेगार्ड
+- हिल्डेगार्ड ऑफ बिन्जेन
+- বিঙেনের হিলডেগার্ড
+- பிங்கெனின் ஹில்டெகார்ட்
+- ഹിൽഡെഗാർഡ് വോൺ ബിൻജെൻ
+- ฮิลเดการ์ด ฟอน บิงเงน
+- ჰილდეგარდ ბინგენელი
+- ヒルデガルト・フォン・ビンゲン
+- 宾根的希尔德加德
+- 希尔德加德·冯·宾根
+- 聖賀德佳
+- 힐데가르트 폰 빙겐
 has_id_wikidata: Q70991
 religious_order: '[[_Standards/WikiData/WD~Benedictines,131132]]'
 occupation:
-  - '[[_Standards/WikiData/WD~nun,191808]]'
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~polymath,270141]]'
-  - '[[_Standards/WikiData/WD~artist,483501]]'
-  - '[[_Standards/WikiData/WD~illuminator,998628]]'
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~abbess,1646408]]'
-  - '[[_Standards/WikiData/WD~botanist,2374149]]'
-  - '[[_Standards/WikiData/WD~sexologist,2920595]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~mystic,12328016]]'
-  - '[[_Standards/WikiData/WD~naturalist,18805]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~nun,191808]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~polymath,270141]]'
+- '[[_Standards/WikiData/WD~artist,483501]]'
+- '[[_Standards/WikiData/WD~illuminator,998628]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~abbess,1646408]]'
+- '[[_Standards/WikiData/WD~botanist,2374149]]'
+- '[[_Standards/WikiData/WD~sexologist,2920595]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~mystic,12328016]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 honorific_prefix: '[[_Standards/WikiData/WD~Doctor_of_the_Church,192499]]'
 student_of: '[[_Standards/WikiData/WD~Jutta_von_Sponheim,447185]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bermersheim_vor_der_Höhe,551617]]'
 place_of_death: '[[_Standards/WikiData/WD~Kloster_Rupertsberg,557972]]'
 educated_at: '[[_Standards/WikiData/WD~Disibodenberg,565067]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Lexikon_deutschsprachiger_Epik_und_Dramatik_von_Autorinnen_1730_1900,18915568]]'
-  - '[[_Standards/WikiData/WD~Concise_Dictionary_of_Women_Artists,28487969]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
-  - '[[_Standards/WikiData/WD~Women_Writers_of_Germany,_Austria,_and_Switzerland,110993806]]'
-  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Lexikon_deutschsprachiger_Epik_und_Dramatik_von_Autorinnen_1730_1900,18915568]]'
+- '[[_Standards/WikiData/WD~Concise_Dictionary_of_Women_Artists,28487969]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~A_Biographical_Dictionary_of_the_Celebrated_Women_of_Every_Age_and_Country,103843006]]'
+- '[[_Standards/WikiData/WD~Women_Writers_of_Germany,_Austria,_and_Switzerland,110993806]]'
+- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Lingua_Ignota,945748]]'
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Lingua_Ignota,945748]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 place_of_burial: '[[_Standards/WikiData/WD~Saint_Hildegard_parish_church_in_Eibingen,1287827]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Physica,1431033]]'
-  - '[[_Standards/WikiData/WD~Scivias,3045605]]'
-  - '[[_Standards/WikiData/WD~Liber_divinorum_operum,3049558]]'
-  - '[[_Standards/WikiData/WD~Ordo_Virtutum,4353821]]'
-  - '[[_Standards/WikiData/WD~Causae_et_curae,115803552]]'
-  - '[[_Standards/WikiData/WD~Liber_vitae_meritorum,127004524]]'
-  - '[[_Standards/WikiData/WD~Vita_sancti_Ruperti,127008019]]'
-  - '[[_Standards/WikiData/WD~Vita_sancti_Dysibodi,127008830]]'
-  - '[[_Standards/WikiData/WD~Explanatio_regulae_sancti_Benedicti,127010755]]'
-  - '[[_Standards/WikiData/WD~Letters,127015689]]'
-  - '[[_Standards/WikiData/WD~Solutiones,127015960]]'
-  - '[[_Standards/WikiData/WD~Explanatio_symboli_sancti_Athanasii,127029493]]'
-  - '[[_Standards/WikiData/WD~Expositiones_evangeliorum,127029666]]'
-  - '[[_Standards/WikiData/WD~O_viridissima_virga,130682335]]'
+- '[[_Standards/WikiData/WD~Physica,1431033]]'
+- '[[_Standards/WikiData/WD~Scivias,3045605]]'
+- '[[_Standards/WikiData/WD~Liber_divinorum_operum,3049558]]'
+- '[[_Standards/WikiData/WD~Ordo_Virtutum,4353821]]'
+- '[[_Standards/WikiData/WD~Causae_et_curae,115803552]]'
+- '[[_Standards/WikiData/WD~Liber_vitae_meritorum,127004524]]'
+- '[[_Standards/WikiData/WD~Vita_sancti_Ruperti,127008019]]'
+- '[[_Standards/WikiData/WD~Vita_sancti_Dysibodi,127008830]]'
+- '[[_Standards/WikiData/WD~Explanatio_regulae_sancti_Benedicti,127010755]]'
+- '[[_Standards/WikiData/WD~Letters,127015689]]'
+- '[[_Standards/WikiData/WD~Solutiones,127015960]]'
+- '[[_Standards/WikiData/WD~Explanatio_symboli_sancti_Athanasii,127029493]]'
+- '[[_Standards/WikiData/WD~Expositiones_evangeliorum,127029666]]'
+- '[[_Standards/WikiData/WD~O_viridissima_virga,130682335]]'
 subject_has_role: '[[_Standards/WikiData/WD~abbess,1646408]]'
 position_held: '[[_Standards/WikiData/WD~abbess,1646408]]'
 significant_event: '[[_Standards/WikiData/WD~vision,1682108]]'
@@ -87,8 +145,104 @@ Provenio_UUID: 9060b5b1-7773-4648-ac02-8d5e51b5c48a
 Europeana_entity: agent/base/146832
 Libris_URI: wt79bgdf0ngbqxq
 date_of_birth: 1098-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Hildegard van Bingen
+    ar: هايدغارد بنجين
+    arz: هايدجارد بنجين
+    ast: Hildegarda de Bingen
+    az: Binqenli Hildeqard
+    azb: هیلدقارد بینقنی
+    bar: Hildegard von Bingen
+    be: Хільдэгарда Бінгенская
+    be-tarask: Гільдэгарда Бінгенская
+    bg: Хилдегард от Бинген
+    bho: हिल्डेगार्ड ऑफ बिन्जेन
+    bn: বিঙেনের হিলডেগার্ড
+    bs: Hildegard von Bingen
+    ca: Hildegarda de Bingen
+    cs: Hildegarda z Bingenu
+    cy: Hildegard von Bingen
+    da: Hildegard af Bingen
+    de: Hildegard von Bingen
+    el: Χίλντεγκαρντ του Μπίνγκεν
+    en: Hildegard of Bingen
+    eo: Hildegard de Bingen
+    es: Hildegarda de Bingen
+    et: Hildegard Bingenist
+    eu: Hildegard von Bingen
+    ext: Hildegarda de Bingen
+    fa: هیلدگارد از بینگن
+    fi: Hildegard Bingeniläinen
+    fr: Hildegarde de Bingen
+    fy: Hildegard fan Bingen
+    ga: Hildegard von Bingen
+    gl: Hildegarda de Bingen
+    gsw: Hildegard vo Binge
+    ha: Hildegard of Bingen
+    he: הילדגרד מבינגן
+    hr: Hildegard iz Bingena
+    hu: Bingeni Szent Hildegárd
+    hy: Հիլդեգարդ Բինգենցի
+    ia: Hildegard von Bingen
+    id: Hildegard von Bingen
+    ig: Hildegard of Bingen
+    is: Hildegard von Bingen
+    it: Ildegarda di Bingen
+    ja: ヒルデガルト・フォン・ビンゲン
+    ka: ჰილდეგარდ ბინგენელი
+    kk: Хильдегард Бингенская
+    ko: 힐데가르트 폰 빙겐
+    la: Hildegardis Bingensis
+    lb: Hildegard vu Bingen
+    li: Hildegard von Bingen
+    lij: Ildegarda de Bingen
+    lt: Hildegarda Bingenietė
+    lv: Hildegarde no Bingenas
+    mg: Hildegard of Bingen
+    mk: Хилдегарда Бингенска
+    ml: ഹിൽഡെഗാർഡ് വോൺ ബിൻജെൻ
+    mul: Hildegarda de Bingen
+    nan: Bingen ê Hildegard
+    nb: Hildegard von Bingen
+    nds: Hildegard von Bingen
+    new: बिंगेनया हिल्डेगार्ड
+    nl: Hildegard van Bingen
+    nn: Hildegard von Bingen
+    oc: Hildegard de Bingen
+    olo: Hildegard Bingeniläine
+    pcm: Hildegard of Bingen
+    pl: Hildegarda z Bingen
+    ps: د بنګن هلډګارډ
+    pt: Hildegarda de Bingen
+    pt-br: Hildegarda de Bingen
+    qu: Hildegard von Bingen
+    rm: Hildegard von Bingen
+    ro: Hildegard de Bingen
+    ru: Хильдегарда Бингенская
+    sc: Ildegarda di Bingen
+    sco: Hildegard von Bingen
+    sh: Hildegard od Bingena
+    sk: Hildegarda z Bingenu
+    sl: Hildegarda iz Bingna
+    sq: Hildegard von Bingen
+    sr: Хилдегарда Бингенска
+    sv: Hildegard av Bingen
+    sw: Hildegarda wa Bingen
+    ta: பிங்கெனின் ஹில்டெகார்ட்
+    th: ฮิลเดการ์ด ฟอน บิงเงน
+    tl: Hildegard ng Bingen
+    tok: jan Ileka pi ma Pinken
+    tr: Bingenli Hildegard
+    uk: Гільдеґарда Бінгенська
+    uz: Bingenlik Hildegard
+    vec: Ildegarda de Bingen
+    vi: Hildegard xứ Bingen
+    war: Hildegard han Bingen
+    wuu: 希尔德加德·冯·宾根
+    yue: 聖賀德佳
+    zh: 宾根的希尔德加德
 ---
-
 # [[Hildegard_of_Bingen]] 
 
 #is_/same_as :: [[WD~Hildegard_of_Bingen,70991]] 

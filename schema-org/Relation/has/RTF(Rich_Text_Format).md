@@ -1,24 +1,89 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/schema-org/Relation/has/RTF(Rich_Text_Format)|RTF(Rich_Text_Format)]]"
-    - "[[/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public|RTF(Rich_Text_Format).public]]"
-    - "[[/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal|RTF(Rich_Text_Format).internal]]"
-    - "[[/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect|RTF(Rich_Text_Format).protect]]"
-    - "[[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]]"
-    - "[[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]]"
-    - "[[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]]"
-    - "[[RTF(Rich_Text_Format)]]"
+  - '[[/_Standards/schema-org/Relation/has/RTF(Rich_Text_Format)|RTF(Rich_Text_Format)]]'
+  - '[[/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public|RTF(Rich_Text_Format).public]]'
+  - '[[/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal|RTF(Rich_Text_Format).internal]]'
+  - '[[/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect|RTF(Rich_Text_Format).protect]]'
+  - '[[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]]'
+  - '[[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]]'
+  - '[[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]]'
+  - '[[RTF(Rich_Text_Format)]]'
 dv_is_same_as:
-  - "[[RTF(Rich_Text_Format)]]"
-  - "[[/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public|RTF(Rich_Text_Format).public]]"
-  - "[[/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal|RTF(Rich_Text_Format).internal]]"
-  - "[[/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect|RTF(Rich_Text_Format).protect]]"
-  - "[[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]]"
-  - "[[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]]"
-  - "[[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]]"
+- '[[RTF(Rich_Text_Format)]]'
+- '[[/_public/schema-org/Relation/has/RTF(Rich_Text_Format).public|RTF(Rich_Text_Format).public]]'
+- '[[/_internal/schema-org/Relation/has/RTF(Rich_Text_Format).internal|RTF(Rich_Text_Format).internal]]'
+- '[[/_protect/schema-org/Relation/has/RTF(Rich_Text_Format).protect|RTF(Rich_Text_Format).protect]]'
+- '[[/_private/schema-org/Relation/has/RTF(Rich_Text_Format).private|RTF(Rich_Text_Format).private]]'
+- '[[/_personal/schema-org/Relation/has/RTF(Rich_Text_Format).personal|RTF(Rich_Text_Format).personal]]'
+- '[[/_secret/schema-org/Relation/has/RTF(Rich_Text_Format).secret|RTF(Rich_Text_Format).secret]]'
+has_id_wikidata: Q467454
+dv_has_:
+  name_:
+    az: Zəngin mətn formatı
+    be: Rich Text Format
+    be-tarask: Rich Text Format
+    bg: Rich text format
+    ca: format de text enriquit
+    cs: Rich Text Format
+    da: Rich Text Format
+    de: Rich Text Format
+    en: Rich Text Format
+    eo: Riĉ-Teksta Formo
+    es: Rich Text Format
+    et: Rich Text Format
+    eu: RTF
+    fi: Rich Text Format
+    fr: Rich Text Format
+    he: RTF
+    hi: संपन्न पाठ्य प्रारूप
+    hu: Rich Text Format
+    hy: Rich Text Format
+    id: Rich Text Format
+    it: Rich Text Format
+    ja: Rich Text Format
+    kk: Кеңейтілген мәтіндік пішім
+    kk-arab: كەڭەيتىلگەن ماتىندىك ٴپىشىم
+    kk-cn: كەڭەيتىلگەن ماتىندىك ٴپىشىم
+    kk-cyrl: Кеңейтілген мәтіндік пішім
+    kk-kz: Кеңейтілген мәтіндік пішім
+    kk-latn: Keñeýtilgen mätindik pişim
+    kk-tr: Keñeýtilgen mätindik pişim
+    ko: 서식 있는 텍스트 포맷
+    lb: .rtf
+    ms: RTF
+    nb: Rich Text Format
+    nl: Rich Text Format
+    pl: Rich Text Format
+    pt: Rich Text Format
+    ru: Rich Text Format
+    sk: Rich Text Format
+    sl: Rich Text Format
+    sv: Rich Text Format
+    tr: Rich Text Format
+    uk: Rich Text Format
+    vi: Định dạng RTF
+    zh: RTF
+    zh-cn: RTF
+    zh-hans: RTF
+    zh-hant: RTF
+    zh-hk: RTF
+    zh-sg: RTF
+    zh-tw: RTF
+aliases:
+- .rtf
+- format de text enriquit
+- Keñeýtilgen mätindik pişim
+- Rich Text Format
+- Riĉ-Teksta Formo
+- RTF
+- Zəngin mətn formatı
+- Định dạng RTF
+- Кеңейтілген мәтіндік пішім
+- كەڭەيتىلگەن ماتىندىك ٴپىشىم
+- संपन्न पाठ्य प्रारूप
+- 서식 있는 텍스트 포맷
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Rich Text Format** (often abbreviated RTF) is a proprietary document file format 

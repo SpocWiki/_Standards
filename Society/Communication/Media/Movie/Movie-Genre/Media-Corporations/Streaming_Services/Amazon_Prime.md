@@ -1,4 +1,55 @@
-
+---
+has_id_wikidata: Q21086634
+dv_has_:
+  name_:
+    ar: أمازون برايم
+    ast: Amazon Prime
+    bn: অ্যামাজন প্রাইম
+    ca: Amazon Prime
+    cs: Amazon Prime
+    da: Amazon Prime
+    de: Amazon Prime
+    en: Amazon Prime
+    en-ca: Amazon Prime
+    en-gb: Amazon Prime
+    fa: آمازون پرایم
+    fr: Amazon Prime
+    ga: Amazon Prime
+    he: אמזון פריים
+    hu: Amazon Prime
+    it: Amazon Prime
+    ja: Amazonプライム
+    ko: 아마존 프라임
+    ky: Amazon Prime
+    ml: ആമസോൺ പ്രൈം
+    mr: ॲमेझॉन प्राइम
+    mul: Amazon Prime
+    ne: अमेजन प्राइम
+    nl: Amazon Prime
+    pt: Amazon Prime
+    pt-br: Amazon Prime
+    sl: Amazon Prime
+    sr: Amazon Prime
+    te: అమెజాన్ ప్రైమ్
+    tr: Amazon Prime
+    vi: Amazon Prime
+    zh: 亚马逊Prime
+    zh-hant: conichiwa
+aliases:
+- Amazon Prime
+- Amazonプライム
+- conichiwa
+- אמזון פריים
+- آمازون پرایم
+- أمازون برايم
+- अमेजन प्राइम
+- ॲमेझॉन प्राइम
+- অ্যামাজন প্রাইম
+- అమెజాన్ ప్రైమ్
+- ആമസോൺ പ്രൈം
+- 亚马逊Prime
+- 아마존 프라임
+---
 #has_/number_of_/subscribers:: 200e6
 
 ## #has_/text_of_/abstract 

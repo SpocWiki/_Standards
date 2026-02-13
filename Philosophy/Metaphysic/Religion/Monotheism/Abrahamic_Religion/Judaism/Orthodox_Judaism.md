@@ -1,16 +1,143 @@
 ---
 aliases:
+- Cıhudiya ortodokse
+- Djudaismo ortodokso
+- Do Thái giáo chính thống
+- ebraismo ortodoso
+- ebraismo ortodosso
+- Giúdach Ceartchreidmheach
+- Iddewiaeth Uniongred
+- iudaism ortodox
+- Jodaisma ortodoksa
+- judaisme ortodox
+- Judaismo ortodoxo
+- judaizm ortodoksyjny
+- judaísmo ortodoxo
+- judaïsme orthodoxe
+- Judaïsme ortodòx
+- Orthodox Jodendom
+- Orthodox Judaism
+- orthodoxes Judentum
+- Ortodoks jødedom
+- Ortodoks Yahudilik
+- Ortodoks yəhudilik
+- ortodoksa judismo
+- Ortodoksiezh yuzev
+- ortodoksijuutalaisuus
+- Ortodoksinis judaizmas
+- Ortodoksni judaizam
+- ortodoksno judovstvo
+- Ortodoksālais jūdaisms
+- ortodox judendom
+- ortodox zsidóság
+- ortodoxní judaismus
+- Ortodoxný judaizmus
+- Xudaísmo ortodoxo
+- Xudaísmu ortodoxu
+- Yahudi Ortodoks
+- Ορθόδοξος Ιουδαϊσμός
+- Артадаксальны іўдаізм
+- артадаксальны юдаізм
+- ортодоксален юдаизъм
+- ортодоксалон иудаизм
+- ортодоксальний юдаїзм
+- ортодоксальный иудаизм
+- ортодоксен јудаизам
+- Ортодоксни јудаизам
+- խիստ հետևողական հուդաիզմ
+- ארטאדאקסישע יידנטום
+- יהדות אורתודוקסית
+- ارتودوکس یهودیت
+- راسخ العقیدہ یہودیت
+- يهودية أرثوذكسية
+- يهوديه أرثوذكسيه
+- یهودیت ارتودوکس
+- रूढ़िवादी यहूदी धर्म
+- सनातनी ज्यूडिझम
+- மரபுவழி யூதம்
+- ორთოდოქსული იუდაიზმი
+- 正統派
+- 猶太教正統派
+- 정통파
 has_id_wikidata: Q80970
-subclass_of: "[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]"
-instance_of: "[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Judaism,9268]]"
+subclass_of: '[[_Standards/WikiData/WD~Rabbinic_Judaism,1366914]]'
+instance_of: '[[_Standards/WikiData/WD~Jewish_religious_movements,3001185]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Judaism,9268]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rishon-KikarHaMeyasdim-04.jpg
 Commons_category: Orthodox Judaism
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B8%E0%A4%A8%E0%A4%BE%E0%A4%A4%E0%A4%A8%E0%A5%80%20%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%A1%E0%A4%BF%E0%A4%9D%E0%A4%AE.wav
 Wolfram_Language_entity_code: Entity["Concept", "OrthodoxJudaism::q9v93"]
 OpenStreetMap_tag: denomination=orthodox
+dv_has_:
+  name_:
+    ar: يهودية أرثوذكسية
+    arz: يهوديه أرثوذكسيه
+    ast: Xudaísmu ortodoxu
+    az: Ortodoks yəhudilik
+    be: Артадаксальны іўдаізм
+    be-tarask: артадаксальны юдаізм
+    bg: ортодоксален юдаизъм
+    br: Ortodoksiezh yuzev
+    ca: judaisme ortodox
+    cs: ortodoxní judaismus
+    cy: Iddewiaeth Uniongred
+    da: Ortodoks jødedom
+    de: orthodoxes Judentum
+    diq: Cıhudiya ortodokse
+    el: Ορθόδοξος Ιουδαϊσμός
+    en: Orthodox Judaism
+    eo: ortodoksa judismo
+    es: judaísmo ortodoxo
+    eu: Judaismo ortodoxo
+    fa: یهودیت ارتودوکس
+    fi: ortodoksijuutalaisuus
+    fr: judaïsme orthodoxe
+    ga: Giúdach Ceartchreidmheach
+    gl: Xudaísmo ortodoxo
+    gsw: Orthodoxes Judentum
+    he: יהדות אורתודוקסית
+    hi: रूढ़िवादी यहूदी धर्म
+    hr: Ortodoksni judaizam
+    hu: ortodox zsidóság
+    hy: խիստ հետևողական հուդաիզմ
+    id: Yahudi Ortodoks
+    it: ebraismo ortodosso
+    ja: 正統派
+    ka: ორთოდოქსული იუდაიზმი
+    ko: 정통파
+    lad: Djudaismo ortodokso
+    lt: Ortodoksinis judaizmas
+    lv: Ortodoksālais jūdaisms
+    mg: Jodaisma ortodoksa
+    mk: ортодоксен јудаизам
+    mr: सनातनी ज्यूडिझम
+    ms: Yahudi Ortodoks
+    nb: Ortodoks jødedom
+    nds: Orthodox Jodendom
+    nl: orthodox jodendom
+    nn: Ortodoks jødedom
+    oc: Judaïsme ortodòx
+    os: ортодоксалон иудаизм
+    pl: judaizm ortodoksyjny
+    ps: ارتودوکس یهودیت
+    pt: judaísmo ortodoxo
+    ro: iudaism ortodox
+    ru: ортодоксальный иудаизм
+    sh: Ortodoksni judaizam
+    sk: Ortodoxný judaizmus
+    sl: ortodoksno judovstvo
+    sr: Ортодоксни јудаизам
+    sr-ec: Ортодоксни јудаизам
+    sv: ortodox judendom
+    ta: மரபுவழி யூதம்
+    tr: Ortodoks Yahudilik
+    uk: ортодоксальний юдаїзм
+    ur: راسخ العقیدہ یہودیت
+    vec: ebraismo ortodoso
+    vi: Do Thái giáo chính thống
+    yi: ארטאדאקסישע יידנטום
+    zh: 猶太教正統派
 ---
-
 # [[Orthodox_Judaism]] 
 
 #is_/same_as :: [[WD~Orthodox_Judaism,80970]] 

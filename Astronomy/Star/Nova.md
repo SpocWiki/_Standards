@@ -1,16 +1,49 @@
 ---
 aliases:
+- Noba
+- nofa
+- noova
+- Nova
+- novao
+- nowa klasyczna
+- Nyota nova
+- nóva
+- Tân tinh
+- Yangi yulduzlar
+- Çĕнĕ çăлтăр
+- Καινοφανείς αστέρες
+- нова
+- Нова (звезда)
+- нова звезда
+- Нова зоря
+- новая звезда
+- Новая зорка
+- яңа йолдыз
+- Նոր աստղեր
+- נובה
+- مستعر
+- نواختر
+- نووا
+- नोवा
+- নবতারা
+- குறுமீன் வெடிப்பு
+- നോവ
+- นวดารา
+- နိုဗာ
+- ნოვა
+- 新星
+- 신성
 has_id_wikidata: Q6458
 instance_of:
-  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
-  - "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-subclass_of: "[[_Standards/WikiData/WD~cataclysmic_variable_star,1059564]]"
-has_list: "[[_Standards/WikiData/WD~list_of_novae_in_the_Milky_Way_galaxy,4353342]]"
+- '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~cataclysmic_variable_star,1059564]]'
+has_list: '[[_Standards/WikiData/WD~list_of_novae_in_the_Milky_Way_galaxy,4353342]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-different_from: "[[_Standards/WikiData/WD~Nova,16423197]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Nova,16423197]]'
 catalog_code: N
 Commons_gallery: Nova
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Making%20a%20Nova.jpg
@@ -18,25 +51,98 @@ Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/NOVAYA_ZVEZDA.html
 Commons_category: Novae
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Nova,6458]]"
-    - "[[/_Standards/Astronomy/Star/Nova|Nova]]"
-    - "[[/_public/Astronomy/Star/Nova.public|Nova.public]]"
-    - "[[/_internal/Astronomy/Star/Nova.internal|Nova.internal]]"
-    - "[[/_protect/Astronomy/Star/Nova.protect|Nova.protect]]"
-    - "[[/_private/Astronomy/Star/Nova.private|Nova.private]]"
-    - "[[/_personal/Astronomy/Star/Nova.personal|Nova.personal]]"
-    - "[[/_secret/Astronomy/Star/Nova.secret|Nova.secret]]"
+  - '[[../../WikiData/WD~Nova,6458]]'
+  - '[[/_Standards/Astronomy/Star/Nova|Nova]]'
+  - '[[/_public/Astronomy/Star/Nova.public|Nova.public]]'
+  - '[[/_internal/Astronomy/Star/Nova.internal|Nova.internal]]'
+  - '[[/_protect/Astronomy/Star/Nova.protect|Nova.protect]]'
+  - '[[/_private/Astronomy/Star/Nova.private|Nova.private]]'
+  - '[[/_personal/Astronomy/Star/Nova.personal|Nova.personal]]'
+  - '[[/_secret/Astronomy/Star/Nova.secret|Nova.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Nova,6458]]"
-  - "[[/_Standards/Astronomy/Star/Nova|Nova]]"
-  - "[[/_public/Astronomy/Star/Nova.public|Nova.public]]"
-  - "[[/_internal/Astronomy/Star/Nova.internal|Nova.internal]]"
-  - "[[/_protect/Astronomy/Star/Nova.protect|Nova.protect]]"
-  - "[[/_private/Astronomy/Star/Nova.private|Nova.private]]"
-  - "[[/_personal/Astronomy/Star/Nova.personal|Nova.personal]]"
-  - "[[/_secret/Astronomy/Star/Nova.secret|Nova.secret]]"
+- '[[../../WikiData/WD~Nova,6458]]'
+- '[[/_Standards/Astronomy/Star/Nova|Nova]]'
+- '[[/_public/Astronomy/Star/Nova.public|Nova.public]]'
+- '[[/_internal/Astronomy/Star/Nova.internal|Nova.internal]]'
+- '[[/_protect/Astronomy/Star/Nova.protect|Nova.protect]]'
+- '[[/_private/Astronomy/Star/Nova.private|Nova.private]]'
+- '[[/_personal/Astronomy/Star/Nova.personal|Nova.personal]]'
+- '[[/_secret/Astronomy/Star/Nova.secret|Nova.secret]]'
+dv_has_:
+  name_:
+    af: Nova
+    ar: مستعر
+    ast: Nova
+    be: Новая зорка
+    be-tarask: новая зорка
+    bg: нова звезда
+    bn: নবতারা
+    bs: Nova
+    ca: nova
+    cs: nova
+    cv: Çĕнĕ çăлтăр
+    cy: nofa
+    de: Nova
+    el: Καινοφανείς αστέρες
+    en: nova
+    eo: novao
+    es: nova
+    et: noova
+    eu: Noba
+    fa: نواختر
+    fi: nova
+    fr: nova
+    ga: nóva
+    gl: Nova
+    he: נובה
+    hi: नोवा
+    hr: Nova
+    hu: nóva
+    hy: Նոր աստղեր
+    id: Nova
+    ig: Nova
+    it: nova
+    ja: 新星
+    ko: 신성
+    la: Nova
+    lb: Nova
+    lt: Nova
+    lv: Nova
+    mk: нова
+    ml: നോവ
+    ms: Nova
+    my: နိုဗာ
+    nb: nova
+    nl: nova
+    nn: Nova
+    oc: Nova
+    pl: nowa klasyczna
+    pnb: نووا
+    pt: nova
+    ro: nova
+    ru: новая звезда
+    scn: nova
+    sco: Nova
+    sh: Nova
+    sk: nova
+    sl: nova
+    sr: Нова (звезда)
+    sv: nova
+    sw: Nyota nova
+    ta: குறுமீன் வெடிப்பு
+    th: นวดารา
+    tl: Nova
+    tr: Nova
+    tt: яңа йолдыз
+    uk: Нова зоря
+    uz: Yangi yulduzlar
+    vi: Tân tinh
+    war: Nova
+    wuu: 新星
+    xmf: ნოვა
+    yue: 新星
+    zh: 新星
 ---
-
 # [[Nova]] 
 
 #is_/same_as :: [[WD~Nova,6458]] 

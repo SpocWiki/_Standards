@@ -1,27 +1,202 @@
 ---
 aliases:
+- Bodisma teravada
+- Bodisme theravada
+- Boudism theravāda
+- Buddha Theravada
+- buddismo teravadico
+- escola teravádica
+- escuela teravádica
+- Tearavada
+- Teravaada
+- Teravada
+- Teravado
+- teravadski budizem
+- Teravāda
+- Terawada
+- Terawáda
+- Terëwadë
+- Therabada
+- Theravaada
+- Theravada
+- Theravada búddismi
+- Theravāda
+- Therawada
+- Théraváda
+- Thēravāda
+- Thượng tọa bộ
+- Τεραβάντα
+- тгэравада
+- Теравада
+- тхеравада
+- тҳеравада
+- Թհերավադա
+- טהרוואדה
+- تراوالدا
+- تراڤادا
+- تيرافادا
+- تھیرواد
+- ثيرافاديه
+- थेरवाद
+- থেরবাদ
+- থেৰবাদ
+- தேரவாத பௌத்தம்
+- ధేరవాద బౌద్ధము
+- തെരാവാദ
+- ථේරවාද බුද්ධ ධර්මය
+- เถรวาท
+- ນິກາຍເຖຣະວາດ
+- ལྷོ་བརྒྱུད་ནང་བསྟན།
+- ဂၠံင်ဍာန်ဗုဒ္ဓဘာသာ
+- ထေရဝါဒ
+- ထေႇရဝႃႇတ
+- თერავადა
+- ថេរវាទ
+- ᱛᱷᱮᱨᱵᱟᱫᱽ
+- 上座部仏教
+- 上座部佛教
+- 南傳佛教
+- 상좌부 불교
+- "\U00011023\U00011042\U0001102D\U0001102F\U00011038\U00011024"
 has_id_wikidata: Q132265
-different_from: "[[_Standards/WikiData/WD~Hīnayāna,193814]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Theravada_Buddhism,10975246]]"
-instance_of: "[[_Standards/WikiData/WD~religious_denomination,13414953]]"
-part_of: "[[_Standards/WikiData/WD~Buddhism,748]]"
-subclass_of: "[[_Standards/WikiData/WD~Buddhism,748]]"
+different_from: '[[_Standards/WikiData/WD~Hīnayāna,193814]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Theravada_Buddhism,10975246]]'
+instance_of: '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+part_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+subclass_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ensenanza%20gradual%20del%20Buddha%20Cuatro%20Verdades%20Nobles.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gradigita%20instruo%20de%20Budho%20Kvar%20Noblaj%20Veroj.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ensenanza%20gradual%20del%20Buddha%20Cuatro%20Verdades%20Nobles.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gradigita%20instruo%20de%20Budho%20Kvar%20Noblaj%20Veroj.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A5%E0%A5%87%E0%A4%B0%E0%A4%B5%E0%A4%BE%E0%A4%A6.wav
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Meal%20Blessing%20at%20Birken%20Forest%20Monastery.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/That%20Luang%20Festival%20-%20Vientiane%20Laos-%20Boun%20That%20Luang.ogv
+- http://commons.wikimedia.org/wiki/Special:FilePath/Meal%20Blessing%20at%20Birken%20Forest%20Monastery.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/That%20Luang%20Festival%20-%20Vientiane%20Laos-%20Boun%20That%20Luang.ogv
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/TheravadaMap2.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wat%20Khung%20Taphao%20salakabhatta%202009.jpg
 Stack_Exchange_tag: https://buddhism.stackexchange.com/tags/theravada
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/STHAVIRAVADA.html
 GitHub_topic: theravada
 Commons_category: Theravada
-Dewey_Decimal_Classification: "294.391"
+Dewey_Decimal_Classification: 294.391
+dv_has_:
+  name_:
+    af: Theravada
+    ar: تيرافادا
+    arz: ثيرافاديه
+    as: থেৰবাদ
+    ast: Theravada
+    az: Theravada
+    ban: Theravāda
+    bar: Theravada
+    bcl: Theravada
+    be: тхеравада
+    be-tarask: тгэравада
+    bg: Теравада
+    bho: थेरवाद
+    blk: ထေရဝါဒ
+    bn: থেরবাদ
+    bo: ལྷོ་བརྒྱུད་ནང་བསྟན།
+    br: Theravada
+    ca: theravada
+    ceb: Terawada
+    ckb: تراڤادا
+    cs: Théraváda
+    cy: Theravada
+    da: Theravada
+    de: Theravada
+    el: Τεραβάντα
+    en: Theravāda
+    eo: Teravado
+    es: escuela teravádica
+    et: Theravaada
+    eu: Theravada
+    fa: تراوالدا
+    fi: theravada
+    fr: theravāda
+    fy: Tearavada
+    gcr: Boudism theravāda
+    gd: Theravada
+    gl: Theravada
+    gsw: Theravada
+    ha: Theravada
+    he: טהרוואדה
+    hi: थेरवाद
+    hr: Teravada
+    hu: théraváda
+    hy: Թհերավադա
+    id: Theravāda
+    ilo: Theravada
+    is: Theravada búddismi
+    it: buddismo teravadico
+    ja: 上座部仏教
+    jam: Teravaada
+    jv: Buddha Theravada
+    ka: თერავადა
+    kk: Тхеравада
+    km: ថេរវាទ
+    ko: 상좌부 불교
+    krj: Terëwadë
+    la: Thēravāda
+    lfn: Teravada
+    lo: ນິກາຍເຖຣະວາດ
+    lt: Theravada
+    lv: Teravāda
+    mag: थेरवाद
+    mg: Bodisma teravada
+    mk: теравада
+    ml: തെരാവാദ
+    mnw: ဂၠံင်ဍာန်ဗုဒ္ဓဘာသာ
+    mr: थेरवाद
+    ms: Theravāda
+    mul: Theravāda
+    mwl: Therabada
+    my: ထေရဝါဒ
+    nb: Theravāda
+    ne: थेरवाद
+    new: थेरवाद
+    nl: Theravada
+    nn: Theravada
+    oc: Bodisme theravada
+    pam: Terawáda
+    pi: "\U00011023\U00011042\U0001102D\U0001102F\U00011038\U00011024"
+    pl: Therawada
+    pnb: تھیرواد
+    pt: escola teravádica
+    ro: Theravada
+    ru: тхеравада
+    sat: ᱛᱷᱮᱨᱵᱟᱫᱽ
+    sh: Theravada
+    shn: ထေႇရဝႃႇတ
+    si: ථේරවාද බුද්ධ ධර්මය
+    sk: Théraváda
+    sl: teravadski budizem
+    sq: Theravada
+    sr: тхеравада
+    sr-ec: Тхеравада
+    sr-el: Theravada
+    sv: Theravada
+    ta: தேரவாத பௌத்தம்
+    te: ధేరవాద బౌద్ధము
+    tg: тҳеравада
+    th: เถรวาท
+    tl: Terawada
+    tr: Theravāda
+    uk: Тхеравада
+    ur: تھیرواد
+    uz: Theravada
+    vec: theravāda
+    vi: Thượng tọa bộ
+    war: Theravada
+    wuu: 上座部佛教
+    yue: 南傳佛教
+    zh: 上座部佛教
+    zh-cn: 上座部佛教
+    zh-hans: 上座部佛教
+    zh-hant: 上座部佛教
+    zh-hk: 上座部佛教
+    zh-sg: 上座部佛教
+    zh-tw: 上座部佛教
 ---
-
 # [[Theravāda]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Theravāda,132265|WD~Theravāda,132265]]  

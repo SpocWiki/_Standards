@@ -1,9 +1,64 @@
 ---
 aliases:
-  - Dicamptodontidae
+- Dicamptodon
+- Dicamptodontidae
+- Riesen-Querzahnmolche
+- Велетенська амбістома
+- Гигантские амбистомы
+- דיכמפטודון
+- ديكامبتودون
+- سمندل المحيط الهادي العملاق
+- オオトラフサンショウウオ
+- 陆巨螈属
+- 큰도롱뇽속
 title: Dicamptodontidae
+has_id_wikidata: Q905053
+dv_has_:
+  name_:
+    an: Dicamptodon
+    ar: سمندل المحيط الهادي العملاق
+    arz: ديكامبتودون
+    ast: Dicamptodon
+    bg: Dicamptodon
+    ca: Dicamptodon
+    ceb: Dicamptodon
+    de: Riesen-Querzahnmolche
+    en: Dicamptodon
+    eo: Dicamptodon
+    es: Dicamptodon
+    eu: Dicamptodon
+    ext: Dicamptodon
+    fi: Dicamptodon
+    fr: Dicamptodon
+    ga: Dicamptodon
+    gl: Dicamptodon
+    he: דיכמפטודון
+    hu: Dicamptodon
+    ia: Dicamptodon
+    ie: Dicamptodon
+    io: Dicamptodon
+    it: Dicamptodon
+    ja: オオトラフサンショウウオ
+    ko: 큰도롱뇽속
+    la: Dicamptodon
+    mul: Dicamptodon
+    nl: Dicamptodon
+    oc: Dicamptodon
+    pl: Dicamptodon
+    pt: Dicamptodon
+    pt-br: Dicamptodon
+    ro: Dicamptodon
+    ru: Гигантские амбистомы
+    sq: Dicamptodon
+    sv: Dicamptodon
+    uk: Велетенська амбістома
+    vi: Dicamptodon
+    vo: Dicamptodon
+    war: Dicamptodon
+    zh: 陆巨螈属
+    zh-cn: 陆巨螈属
+    zh-hans: 陆巨螈属
 ---
-
 # [[Dicamptodontidae]]
 
 Pacific Giant Salamanders 

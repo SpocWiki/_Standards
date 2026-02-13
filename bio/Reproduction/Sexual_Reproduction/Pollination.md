@@ -1,17 +1,87 @@
 ---
 aliases:
-  - Pollination
-  - Bestäubung
+- Afarer
+- apdulkinimas
+- apputeksnēšana
+- bestuiving
+- Bestuiwing
+- Bestäubung
+- Bestøvning
+- Changlanish
+- Darbuukeessuu(Pollination)
+- Gardoludşavī
+- impollinazione
+- megporzás
+- opraševanje
+- oprašivanje
+- opylení
+- pailniú
+- Pambubulo
+- Pendebungaan
+- Penyerbukan
+- perîn
+- polenado
+- polenizare
+- Polinacija
+- polinización
+- Polinizasyon
+- polinizazio
+- polinização
+- pollinatio
+- Pollination
+- pollinering
+- pollinisation
+- pol·linització
+- ponegyans
+- pölytys
+- Sisachay
+- thụ phấn
+- Tolmlemine
+- Tozlanma
+- Tozlaşma
+- Zapylanie
+- Επικονίαση
+- апыленне
+- апыленьне
+- Гардолудшавӣ
+- запилення
+- Опрашване
+- опрашување
+- опыление
+- Полинација
+- Тозаңдану
+- Чаңдашуу
+- һеркәләнеү
+- Փոշոտում
+- האבקה
+- بی بنائی
+- تأبير
+- زیرگی
+- پەڕین
+- گردهافشانی
+- परागण
+- परागीकरण
+- পরাগায়ন
+- மகரந்தச் சேர்க்கை
+- పరాగసంపర్కము
+- പരാഗണം
+- การถ่ายเรณู
+- ენტომოფილია
+- 传粉
+- 傳粉
+- 受粉
+- ꦠꦮꦸꦂꦧꦸꦧꦸꦏ꧀
+- 꽃가루받이
 has_id_wikidata: Q134624
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~biological_process,2996394]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~science,336]]'
 different_from: '[[_Standards/WikiData/WD~Q3242742,3242742]]'
 subclass_of: '[[_Standards/WikiData/WD~reproductive_process,14885910]]'
 part_of: '[[_Standards/WikiData/WD~multi_multicellular_organism_process,22294339]]'
@@ -25,14 +95,102 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pollination%20Diag
 exact_match: http://purl.obolibrary.org/obo/GO_0009856
 Iconclass_notation: 47I1341
 Dewey_Decimal_Classification:
-  - 571.8642
-  - 576.875
+- 571.8642
+- 576.875
 UMLS_CUI: C1522786
 MeSH_tree_code:
-  - G08.686.784.743
-  - G15.776
+- G08.686.784.743
+- G15.776
+dv_has_:
+  name_:
+    af: Bestuiwing
+    an: Polinización
+    ar: تأبير
+    ast: Polinización
+    az: Tozlanma
+    ba: һеркәләнеү
+    be: апыленне
+    be-tarask: апыленьне
+    bg: Опрашване
+    bn: পরাগায়ন
+    bs: oprašivanje
+    ca: pol·linització
+    ckb: پەڕین
+    cs: opylení
+    da: Bestøvning
+    de: Bestäubung
+    el: Επικονίαση
+    en: pollination
+    eo: polenado
+    es: polinización
+    et: Tolmlemine
+    eu: polinizazio
+    fa: گردهافشانی
+    fi: pölytys
+    fr: pollinisation
+    ga: pailniú
+    gl: polinización
+    he: האבקה
+    hi: परागण
+    hr: oprašivanje
+    ht: Polinizasyon
+    hu: megporzás
+    hy: Փոշոտում
+    id: Penyerbukan
+    it: impollinazione
+    ja: 受粉
+    jv: ꦠꦮꦸꦂꦧꦸꦧꦸꦏ꧀
+    ka: ენტომოფილია
+    kab: Afarer
+    kk: Тозаңдану
+    ko: 꽃가루받이
+    ku-latn: perîn
+    kw: ponegyans
+    ky: Чаңдашуу
+    la: pollinatio
+    lt: apdulkinimas
+    lv: apputeksnēšana
+    mk: опрашување
+    ml: പരാഗണം
+    mr: परागीकरण
+    ms: Pendebungaan
+    nb: pollinering
+    nl: bestuiving
+    nn: pollinering
+    om: Darbuukeessuu(Pollination)
+    pl: Zapylanie
+    pnb: بی بنائی
+    pt: polinização
+    qu: Sisachay
+    ro: polenizare
+    ru: опыление
+    sh: Oprašivanje
+    sl: opraševanje
+    sr: Polinacija
+    sr-ec: Полинација
+    sr-el: Polinacija
+    sv: pollinering
+    ta: மகரந்தச் சேர்க்கை
+    te: పరాగసంపర్కము
+    tg: Гардолудшавӣ
+    tg-latn: Gardoludşavī
+    th: การถ่ายเรณู
+    tl: Pambubulo
+    tr: Tozlaşma
+    uk: запилення
+    ur: زیرگی
+    uz: Changlanish
+    vi: thụ phấn
+    wuu: 传粉
+    yue: 傳粉
+    zh: 传粉
+    zh-cn: 传粉
+    zh-hans: 传粉
+    zh-hant: 傳粉
+    zh-hk: 傳粉
+    zh-sg: 传粉
+    zh-tw: 傳粉
 ---
-
 # [[Pollination]] 
 
 #is_/same_as :: [[WD~Pollination,134624]] 

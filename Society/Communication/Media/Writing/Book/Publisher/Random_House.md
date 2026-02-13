@@ -1,5 +1,82 @@
-
-
+---
+has_id_wikidata: Q744182
+dv_has_:
+  name_:
+    ar: رندم هاوس
+    arz: راندوم هاوس
+    ast: Penguin Random House Grupu Editorial
+    be: Random House
+    be-tarask: Random House
+    bg: Рандъм Хаус
+    ca: Random House
+    ckb: ڕاندۆم ھاوس
+    cs: Random House
+    cy: Random House
+    da: Random House
+    de: Random House
+    de-ch: Random House
+    el: Random House
+    en: Random House
+    en-ca: Random House
+    en-gb: Random House
+    eo: Random House
+    es: Random House
+    eu: Random House
+    fa: راندوم هاوس
+    fi: Random House
+    fr: Random House
+    fy: Random House
+    ga: Random House
+    gl: Random House Mondadori
+    gsw: Random House
+    he: רנדום האוס
+    hu: Random House
+    hy: Random House
+    id: Random House
+    it: Random House
+    ja: ランダムハウス
+    ko: 랜덤하우스
+    la: Random House
+    lt: Random House
+    mr: रँडम हाउस
+    ms: Random House
+    mul: Random House
+    nb: Random House
+    nl: Random House
+    pl: Random House
+    pms: Random House
+    pt: Random House
+    pt-br: Random House
+    ro: Random House
+    ru: Random House
+    si: Random House
+    sk: Random House
+    sl: Random House
+    sv: Random House
+    tr: Random House
+    uk: Random House
+    ur: رینڈم ہاؤس
+    zh: 兰登书屋
+    zh-hans: 兰登书屋
+    zh-hant: 藍燈書屋
+    zh-hk: 蘭登書屋
+aliases:
+- Penguin Random House Grupu Editorial
+- Random House
+- Random House Mondadori
+- Рандъм Хаус
+- רנדום האוס
+- راندوم هاوس
+- رندم هاوس
+- رینڈم ہاؤس
+- ڕاندۆم ھاوس
+- रँडम हाउस
+- ランダムハウス
+- 兰登书屋
+- 藍燈書屋
+- 蘭登書屋
+- 랜덤하우스
+---
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 

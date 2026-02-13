@@ -1,74 +1,156 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Portuguese_Empire,200464]]"
-    - "[[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]]"
-    - "[[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]]"
-    - "[[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]]"
-    - "[[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]]"
-    - "[[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]]"
-    - "[[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]]"
-    - "[[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]]"
+  - '[[../../../WikiData/WD~Portuguese_Empire,200464]]'
+  - '[[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]]'
+  - '[[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]]'
+  - '[[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]]'
+  - '[[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]]'
+  - '[[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]]'
+  - '[[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]]'
+  - '[[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Portuguese_Empire,200464]]"
-  - "[[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]]"
-  - "[[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]]"
-  - "[[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]]"
-  - "[[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]]"
-  - "[[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]]"
-  - "[[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]]"
-  - "[[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]]"
-
-has_time_started: 1415-08-30 
-has_time_stopped: 1999-12-20 
+- '[[../../../WikiData/WD~Portuguese_Empire,200464]]'
+- '[[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]]'
+- '[[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]]'
+- '[[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]]'
+- '[[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]]'
+- '[[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]]'
+- '[[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]]'
+- '[[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]]'
+has_time_started: 1415-08-30
+has_time_stopped: 1999-12-20
 aliases:
+- Ampério pertués
+- Anpi kolonyal pòtigè
+- Boqortooyada Burtugaal Jiray
+- Daular Portuguese
+- Det portugisiske imperiet
+- Det portugisiske koloniimperium
+- Empayar Portugal
+- Empire colonial portugais
+- Empèri Portugués
+- Impalaeriezh trevadennel Portugal
+- Imperi Portuguès
+- Imperio portugués
+- Imperiu Portugués
+- Imperiul Portughez
+- Imperium Lusitanicum
+- Imperium Portugal
+- Impero portoghese
+- Impireacht na Portaingéile
+- Impèriu portughesu
+- Império Português
+- Inpero Portoghezo
+- Mfumo wa maputukezi
+- Perandoria Portugeze
+- Portekiz İmparatorluğu
+- portugala kolonia imperio
+- Portugaldar Inperioa
+- Portugali koloniaalimpeerium
+- Portugalijos kolonijinė imperija
+- Portugalin imperiumi
+- Portugaliya Imperiyasi
+- Portugalnong Imperyo
+- Portugalski imperij
+- Portugalskie imperium kolonialne
+- Portugalsko carstvo
+- Portugalsko kolonijalno carstvo
+- Portugalská koloniální říše
+- Portugalská ríša
+- Portuges na Imperyo
+- Portugese koloniën
+- Portugese Ryk
+- Portugiesische Kolonialgeschichte
+- portugiesisches Kolonialreich
+- Portugisiska imperiet
+- Portuguese Empire
+- Portugál Birodalom
+- Portugāles koloniālā impērija
+- Portuqaliya imperiyası
+- Portúgalska heimsveldið
+- Ymerodraeth Portiwgal
+- Đế quốc Bồ Đào Nha
+- Πορτογαλική Αυτοκρατορία
+- калоніі Партугаліі
+- колонии Португалии
+- Партугальская каляніяльная імпэрыя
+- Португалийн эзэнт улс
+- Португалия колонияләре
+- Португалска империя
+- Португалско колонијално царство
+- Португальська імперія
+- Պորտուգալական կայսրություն
+- האימפריה הפורטוגזית
+- ئیمپڕاتۆریەتی پورتوگالی
+- الإمبراطورية البرتغالية
+- امپراتوری پرتغال
+- پرتگیزی سلطنت
+- پورتوقال ایمپیراتورلوغو
+- پورتۇگالىيە ئىمپېرىيىسى
+- पुर्तगाली साम्राज्य
+- पोर्तगाली साम्राज्य
+- पोर्तुगीज साम्राज्य
+- পর্তুগিজ সাম্রাজ্য
+- ਪੁਰਤਗਾਲੀ ਸਾਮਰਾਜ
+- போர்த்துகல் பேரரசு
+- పోర్చుగీస్ సామ్రాజ్యం
+- පෘතුගීසි අධිරාජ්යය
+- จักรวรรดิโปรตุเกส
+- ຈັກກະວັດປອກຕຸຍການ
+- ပေါ်တူဂီ အင်ပါယာ
+- პორტუგალიაშ კოლონიეფი
+- ポルトガル海上帝国
+- 葡萄牙帝国
+- 葡萄牙帝國
+- 포르투갈 제국
 has_id_wikidata: Q200464
-flag: "[[_Standards/WikiData/WD~flag_of_Portugal,128812]]"
-subclass_of: "[[_Standards/WikiData/WD~colony,133156]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Portugal,128812]]'
+subclass_of: '[[_Standards/WikiData/WD~colony,133156]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Portuguese_Timor,142965]]"
-  - "[[_Standards/WikiData/WD~Portuguese_India,323904]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Gold_Coast,770048]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Mozambique,889394]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Ceylon,1709007]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Guinea,2002279]]"
-  - "[[_Standards/WikiData/WD~Colonial_Brazil,2088324]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Angola,2826232]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Malacca,2988343]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Cape_Verde,3023340]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Macau,3916279]]"
-  - "[[_Standards/WikiData/WD~Portuguese_São_Tomé_and_Príncipe,7232692]]"
-  - "[[_Standards/WikiData/WD~Portuguese_settlement_in_Chittagong,16933320]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Nagasaki,30693555]]"
-  - "[[_Standards/WikiData/WD~Portuguese_cistern,57451444]]"
-  - "[[_Standards/WikiData/WD~Madeira,104472514]]"
+- '[[_Standards/WikiData/WD~Portuguese_Timor,142965]]'
+- '[[_Standards/WikiData/WD~Portuguese_India,323904]]'
+- '[[_Standards/WikiData/WD~Portuguese_Gold_Coast,770048]]'
+- '[[_Standards/WikiData/WD~Portuguese_Mozambique,889394]]'
+- '[[_Standards/WikiData/WD~Portuguese_Ceylon,1709007]]'
+- '[[_Standards/WikiData/WD~Portuguese_Guinea,2002279]]'
+- '[[_Standards/WikiData/WD~Colonial_Brazil,2088324]]'
+- '[[_Standards/WikiData/WD~Portuguese_Angola,2826232]]'
+- '[[_Standards/WikiData/WD~Portuguese_Malacca,2988343]]'
+- '[[_Standards/WikiData/WD~Portuguese_Cape_Verde,3023340]]'
+- '[[_Standards/WikiData/WD~Portuguese_Macau,3916279]]'
+- '[[_Standards/WikiData/WD~Portuguese_São_Tomé_and_Príncipe,7232692]]'
+- '[[_Standards/WikiData/WD~Portuguese_settlement_in_Chittagong,16933320]]'
+- '[[_Standards/WikiData/WD~Portuguese_Nagasaki,30693555]]'
+- '[[_Standards/WikiData/WD~Portuguese_cistern,57451444]]'
+- '[[_Standards/WikiData/WD~Madeira,104472514]]'
 anthem:
-  - "[[_Standards/WikiData/WD~A_Portuguesa,161049]]"
-  - "[[_Standards/WikiData/WD~Hymn_of_the_Charter,1143248]]"
-  - "[[_Standards/WikiData/WD~Hymno_Patriótico,10295624]]"
+- '[[_Standards/WikiData/WD~A_Portuguesa,161049]]'
+- '[[_Standards/WikiData/WD~Hymn_of_the_Charter,1143248]]'
+- '[[_Standards/WikiData/WD~Hymno_Patriótico,10295624]]'
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
-  - "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
-  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Portugal,200195]]"
-founded_by: "[[_Standards/WikiData/WD~John_I_of_Portugal,201575]]"
-part_of: "[[_Standards/WikiData/WD~Iberian_Union,377350]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-currency: "[[_Standards/WikiData/WD~escudo,17093752]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q18918297,18918297]]"
+- '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+- '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~monarchy,7269]]'
+- '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Portugal,200195]]'
+founded_by: '[[_Standards/WikiData/WD~John_I_of_Portugal,201575]]'
+part_of: '[[_Standards/WikiData/WD~Iberian_Union,377350]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
+currency: '[[_Standards/WikiData/WD~escudo,17093752]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q18918297,18918297]]'
 Gregorian_calendar_start_date: 1582-10-15T00:00:00Z
 capital:
-  - "[[_Standards/WikiData/WD~Lisbon,597]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
-official_religion: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholicism,1841]]"
-official_language: "[[_Standards/WikiData/WD~Portuguese,5146]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-replaced_by: "[[_Standards/WikiData/WD~Portugal,45]]"
-facet_of: "[[_Standards/WikiData/WD~Portugal,45]]"
-country: "[[_Standards/WikiData/WD~Portugal,45]]"
+- '[[_Standards/WikiData/WD~Lisbon,597]]'
+- '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+official_religion: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
+official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+replaced_by: '[[_Standards/WikiData/WD~Portugal,45]]'
+facet_of: '[[_Standards/WikiData/WD~Portugal,45]]'
+country: '[[_Standards/WikiData/WD~Portugal,45]]'
 area: 10400000
 PM20_geo_code: A33
 inception: 1415-08-30T00:00:00Z
@@ -85,8 +167,111 @@ native_label: Império Colonial Português
 official_name: Império Português
 dissolved_abolished_or_demolished_date: 1999-12-20T00:00:00Z
 coordinate_location: Point(-9.13333333 38.71666667)
+dv_has_:
+  name_:
+    af: Portugese Ryk
+    ar: الإمبراطورية البرتغالية
+    ast: Imperiu Portugués
+    az: Portuqaliya imperiyası
+    azb: پورتوقال ایمپیراتورلوغو
+    be: калоніі Партугаліі
+    be-tarask: Партугальская каляніяльная імпэрыя
+    bg: Португалска империя
+    bn: পর্তুগিজ সাম্রাজ্য
+    br: Impalaeriezh trevadennel Portugal
+    ca: Imperi Portuguès
+    ceb: Portugalnong Imperyo
+    ckb: ئیمپڕاتۆریەتی پورتوگالی
+    cs: Portugalská koloniální říše
+    cy: Ymerodraeth Portiwgal
+    da: Det portugisiske koloniimperium
+    de: portugiesisches Kolonialreich
+    de-ch: Portugiesische Kolonialgeschichte
+    el: Πορτογαλική Αυτοκρατορία
+    en: Portuguese Empire
+    en-ca: Portuguese Empire
+    en-gb: Portuguese Empire
+    en-us: Portuguese Empire
+    eo: portugala kolonia imperio
+    es: Imperio portugués
+    et: Portugali koloniaalimpeerium
+    eu: Portugaldar Inperioa
+    fa: امپراتوری پرتغال
+    fi: Portugalin imperiumi
+    fr: Empire colonial portugais
+    ga: Impireacht na Portaingéile
+    gl: Imperio Portugués
+    ha: Daular Portuguese
+    he: האימפריה הפורטוגזית
+    hi: पुर्तगाली साम्राज्य
+    hr: Portugalsko kolonijalno carstvo
+    ht: Anpi kolonyal pòtigè
+    hu: Portugál Birodalom
+    hy: Պորտուգալական կայսրություն
+    id: Imperium Portugal
+    is: Portúgalska heimsveldið
+    it: Impero portoghese
+    ja: ポルトガル海上帝国
+    kaa: Portugaliya Imperiyasi
+    ko: 포르투갈 제국
+    la: Imperium Lusitanicum
+    lo: ຈັກກະວັດປອກຕຸຍການ
+    lt: Portugalijos kolonijinė imperija
+    lv: Portugāles koloniālā impērija
+    mk: Португалско колонијално царство
+    mn: Португалийн эзэнт улс
+    mr: पोर्तुगीज साम्राज्य
+    ms: Empayar Portugal
+    mwl: Ampério pertués
+    my: ပေါ်တူဂီ အင်ပါယာ
+    nb: Det portugisiske imperiet
+    ne: पोर्तगाली साम्राज्य
+    nl: Portugese koloniën
+    nn: Det portugisiske imperiet
+    oc: Empèri Portugués
+    pa: ਪੁਰਤਗਾਲੀ ਸਾਮਰਾਜ
+    pl: Portugalskie imperium kolonialne
+    pnb: پرتگیزی سلطنت
+    pt: Império Português
+    pt-br: Império Português
+    ro: Imperiul Portughez
+    ru: колонии Португалии
+    sc: Impèriu portughesu
+    sco: Portuguese Empire
+    sh: Portugalsko kolonijalno carstvo
+    si: පෘතුගීසි අධිරාජ්යය
+    sk: Portugalská ríša
+    sl: Portugalski imperij
+    so: Boqortooyada Burtugaal Jiray
+    sq: Perandoria Portugeze
+    sr: Portugalsko carstvo
+    sv: Portugisiska imperiet
+    ta: போர்த்துகல் பேரரசு
+    te: పోర్చుగీస్ సామ్రాజ్యం
+    th: จักรวรรดิโปรตุเกส
+    tl: Portuges na Imperyo
+    tr: Portekiz İmparatorluğu
+    ts: Mfumo wa maputukezi
+    tt: Португалия колонияләре
+    ug: پورتۇگالىيە ئىمپېرىيىسى
+    uk: Португальська імперія
+    ur: پرتگیزی سلطنت
+    uz: Portugaliya imperiyasi
+    vec: Inpero Portoghezo
+    vi: Đế quốc Bồ Đào Nha
+    wuu: 葡萄牙帝国
+    xmf: პორტუგალიაშ კოლონიეფი
+    yue: 葡萄牙帝國
+    zh: 葡萄牙帝國
+    zh-cn: 葡萄牙帝国
+    zh-hans: 葡萄牙帝国
+    zh-hant: 葡萄牙帝國
+    zh-hk: 葡萄牙帝國
+    zh-mo: 葡萄牙帝國
+    zh-my: 葡萄牙帝国
+    zh-sg: 葡萄牙帝国
+    zh-tw: 葡萄牙帝國
 ---
-
 # [[1415-Portuguese_Empire-1999]] 
 
 #is_/same_as :: [[WD~Portuguese_Empire,200464]] 

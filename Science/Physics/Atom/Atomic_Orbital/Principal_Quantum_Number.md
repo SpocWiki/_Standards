@@ -1,8 +1,46 @@
 ---
 aliases:
-  - principal quantum number
-  - Principal_Quantum_Number
-  - Principal Quantum Number
+- Baş kuantum sayısı
+- Baş kvant ədədi
+- Bilangan kuantum utama
+- főkvantumszám
+- Glavni kvantni broj
+- glavno kvantno število
+- główna liczba kwantowa
+- Hauptquantenzahl
+- hlavní kvantové číslo
+- hovedkvantetal
+- Huvudkvanttal
+- Nombre quantic principau
+- nombre quantique principal
+- nombre quàntic principal
+- Numero quantico principale
+- Număr cuantic principal
+- número cuántico principal
+- número quântico principal
+- principal quantum number
+- Principala quantumala nombro
+- Principal_Quantum_Number
+- Pääkvanttiluku
+- Số lượng tử chính
+- zenbaki kuantiko nagusi
+- ĉefa kvantuma nombro
+- Κύριος κβαντικός αριθμός
+- валтӥсь квантлыко лыдпус
+- галоўны квантавы лік
+- Главен квантен број
+- Главно квантово число
+- Главное квантовое число
+- Головне квантове число
+- Төп квант саны
+- מספר קוונטי יסודי
+- عدد كم رئيسي
+- عدد کوانتومی اصلی
+- मुख्य क्वांटम संख्या
+- মুখ্য কোয়ান্টাম সংখ্যা
+- 主量子数
+- 主量子數
+- 주양자수
 has_id_wikidata: Q867448
 subclass_of: '[[_Standards/WikiData/WD~quantum_number,232431]]'
 studied_by: '[[_Standards/WikiData/WD~quantum_physics,1144457]]'
@@ -10,8 +48,53 @@ described_by_source: '[[_Standards/WikiData/WD~ISO_80000_10_2019_Quantities_and_
 recommended_unit_of_measurement: '[[_Standards/WikiData/WD~1,199]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi></mstyle></mrow></math>
+dv_has_:
+  name_:
+    ar: عدد كم رئيسي
+    az: Baş kvant ədədi
+    be-tarask: галоўны квантавы лік
+    bg: Главно квантово число
+    bn: মুখ্য কোয়ান্টাম সংখ্যা
+    ca: nombre quàntic principal
+    cs: hlavní kvantové číslo
+    da: hovedkvantetal
+    de: Hauptquantenzahl
+    el: Κύριος κβαντικός αριθμός
+    en: principal quantum number
+    eo: ĉefa kvantuma nombro
+    es: número cuántico principal
+    eu: zenbaki kuantiko nagusi
+    fa: عدد کوانتومی اصلی
+    fi: Pääkvanttiluku
+    fr: nombre quantique principal
+    he: מספר קוונטי יסודי
+    hi: मुख्य क्वांटम संख्या
+    hu: főkvantumszám
+    id: Bilangan kuantum utama
+    io: Principala quantumala nombro
+    it: Numero quantico principale
+    ja: 主量子数
+    ko: 주양자수
+    mk: Главен квантен број
+    oc: Nombre quantic principau
+    pl: główna liczba kwantowa
+    pt: número quântico principal
+    ro: Număr cuantic principal
+    ru: Главное квантовое число
+    sl: glavno kvantno število
+    sr: Glavni kvantni broj
+    sv: Huvudkvanttal
+    tr: Baş kuantum sayısı
+    tt: Төп квант саны
+    udm: валтӥсь квантлыко лыдпус
+    uk: Головне квантове число
+    vi: Số lượng tử chính
+    wuu: 主量子数
+    zh: 主量子數
+    zh-hans: 主量子数
+    zh-hant: 主量子數
+    zh-hk: 主量子數
 ---
-
 # [[Principal_Quantum_Number]] 
 
 #is_/same_as :: [[WD~Principal_quantum_number,867448]] 

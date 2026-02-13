@@ -1,11 +1,81 @@
 ---
 aliases:
-  - Pubertät
-  - Puberty
+- Baaluq
+- Balaga
+- Balog‘atga yetish
+- Balèg
+- caithreachas
+- Chheng-chhun-kî
+- Dậy thì
+- ergenlik dönemi
+- glasoed
+- Kabagungtauhan
+- Kaezouregezh
+- lytinė branda
+- murrosikä
+- pokwitanie
+- Pubbirtati
+- puberdade
+- pubereco
+- Pubereso
+- puberta
+- pubertad
+- pubertaro
+- pubertas
+- pubertat
+- Pubertate
+- puberteet
+- puberteit
+- pubertet
+- puberteta
+- Puberteti
+- puberti
+- Puberty
+- pubertà
+- pubertá
+- pubertás
+- Pubertät
+- puberté
+- Pubertéit
+- Pubertāte
+- rávásmemahe
+- rávásnuvvanahki
+- rävsmemââʹǩǩ
+- temenê pêgihîşti
+- Ubalehe
+- Yetkinlik dövrü
+- εφηβεία
+- Балоғати ҷинсӣ
+- Жыныстык жетилүү
+- палавое выспяванне
+- плоцевае высьпяваньне
+- полово созревање
+- половое созревание
+- половой вуон
+- Пубертет
+- статеве дозрівання
+- սեռական հասունացում
+- התבגרות מינית
+- بلوغ
+- بلوغ جنسی
+- بلوغت
+- پێگەیشتوویی لە مرۆڤدا
+- पौगंडावस्था
+- यौवनारम्भ
+- বয়ঃসন্ধি
+- பூப்பு
+- പ്രായപൂർത്തിയാകൽ
+- ද්විතියික ලිංගික ලක්ෂණ
+- วัยเริ่มเจริญพันธุ์
+- ལང་ཚོ་དར་བབས།
+- პუბერტატი
+- 思春期
+- 青春期
+- 사춘기
 has_id_wikidata: Q101065
 instance_of:
-  - '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
-  - '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
+- '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
+- '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_characteristic: '[[_Standards/WikiData/WD~secondary_sex_characteristic,1784017]]'
 subclass_of: '[[_Standards/WikiData/WD~development_of_the_human_body,2347178]]'
@@ -14,10 +84,114 @@ Commons_category: Puberty
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pubertaro.jpg
 UMLS_CUI: C0034011
 MeSH_tree_code:
-  - G08.686.760
-  - G08.686.841.374
+- G08.686.760
+- G08.686.841.374
+dv_has_:
+  name_:
+    af: puberteit
+    ar: بلوغ
+    ast: pubertá
+    az: Yetkinlik dövrü
+    bar: Pubertät
+    be: палавое выспяванне
+    be-tarask: плоцевае высьпяваньне
+    bew: Balèg
+    bg: Пубертет
+    bn: বয়ঃসন্ধি
+    bo: ལང་ཚོ་དར་བབས།
+    br: Kaezouregezh
+    bs: Pubertet
+    ca: pubertat
+    ckb: پێگەیشتوویی لە مرۆڤدا
+    cs: puberta
+    cy: glasoed
+    da: pubertet
+    de: Pubertät
+    el: εφηβεία
+    en: puberty
+    en-gb: puberty
+    eo: pubereco
+    es: pubertad
+    et: puberteet
+    eu: pubertaro
+    fa: بلوغ جنسی
+    fi: murrosikä
+    fr: puberté
+    ga: caithreachas
+    gl: puberdade
+    gpe: Puberty
+    gsw: Pubertät
+    ha: Balaga
+    he: התבגרות מינית
+    hi: यौवनारम्भ
+    hr: Pubertet
+    hu: pubertás
+    hy: սեռական հասունացում
+    ia: Pubertate
+    id: pubertas
+    ig: Puberty
+    io: Pubereso
+    it: pubertà
+    ja: 思春期
+    ka: პუბერტატი
+    ko: 사춘기
+    ku-latn: temenê pêgihîşti
+    ky: Жыныстык жетилүү
+    la: Pubertas
+    lb: Pubertéit
+    li: Puberteit
+    lt: lytinė branda
+    lv: Pubertāte
+    mk: полово созревање
+    ml: പ്രായപൂർത്തിയാകൽ
+    mr: पौगंडावस्था
+    ms: puberti
+    nan: Chheng-chhun-kî
+    nb: pubertet
+    nds: Pubertät
+    nl: puberteit
+    nn: pubertet
+    oc: Pubertat
+    pl: pokwitanie
+    pt: puberdade
+    ro: pubertate
+    ru: половое созревание
+    scn: Pubbirtati
+    sco: puberty
+    se: rávásnuvvanahki
+    sh: Pubertet
+    si: ද්විතියික ලිංගික ලක්ෂණ
+    sk: puberta
+    sl: puberteta
+    smn: rávásmemahe
+    sms: rävsmemââʹǩǩ
+    so: Baaluq
+    sq: Puberteti
+    sr: пубертет
+    sr-ec: Пубертет
+    sr-el: Pubertet
+    sv: pubertet
+    sw: Ubalehe
+    ta: பூப்பு
+    tg: Балоғати ҷинсӣ
+    th: วัยเริ่มเจริญพันธุ์
+    tl: Kabagungtauhan
+    tr: ergenlik dönemi
+    udm: половой вуон
+    uk: статеве дозрівання
+    ur: بلوغت
+    uz: Balog‘atga yetish
+    vi: Dậy thì
+    wuu: 青春期
+    yue: 青春期
+    zh: 青春期
+    zh-cn: 青春期
+    zh-hans: 青春期
+    zh-hant: 青春期
+    zh-hk: 青春期
+    zh-sg: 青春期
+    zh-tw: 青春期
 ---
-
 # [[Puberty]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Puberty,101065|WD~Puberty,101065]]  

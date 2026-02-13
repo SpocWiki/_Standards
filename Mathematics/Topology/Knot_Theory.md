@@ -1,27 +1,117 @@
 ---
 aliases:
+- csomóelmélet
+- düğüm kuramı
+- Hnútafræði
+- knopentheorie
+- knot theory
+- Knotentheorie
+- knudeteori
+- Knuteteori
+- knutteori
+- korapiloen teoria
+- Lý thuyết nút thắt
+- nodoteorio
+- solmuteoria
+- Teori buhul
+- Teori simpulan
+- Teoria de nusos
+- teoria dei nodi
+- teoria dos nós
+- Teoria nodurilor
+- teoria węzłów
+- teorie uzlů
+- teorija vozlov
+- teoría de nudos
+- Teoría de nuedos
+- Teoría de nós
+- théorie des nœuds
+- Θεωρία κόμβων
+- теорія вузлів
+- теорија за јазлите
+- теорија чворова
+- теория узлов
+- тэорыя вузлоў
+- תורת הקשרים
+- نظرية العقد
+- نظریه گره
+- गाठ सिद्धान्त
+- ਗੱਠ ਸਿਧਾਂਤ
+- முடிச்சுக் கணிதம்
+- 紐結理論
+- 結び目理論
+- 結理論
+- 纽结理论
+- 매듭 이론
 has_id_wikidata: Q849798
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~knot,1188853]]"
-  - "[[_Standards/WikiData/WD~link,1760728]]"
+- '[[_Standards/WikiData/WD~knot,1188853]]'
+- '[[_Standards/WikiData/WD~link,1760728]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-subclass_of: "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Knot_theory,20320993]]"
-part_of: "[[_Standards/WikiData/WD~topology,42989]]"
+- '[[_Standards/WikiData/WD~branch_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Knot_theory,20320993]]'
+part_of: '[[_Standards/WikiData/WD~topology,42989]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/6%E2%82%82%20knot%20and%20corresponding%20surface.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gwegwefewc.tif
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/knot-theory
-  - https://mathoverflow.net/tags/knot-theory
+- https://math.stackexchange.com/tags/knot-theory
+- https://mathoverflow.net/tags/knot-theory
 Commons_category: Knot theory
 GitHub_topic: knot-theory
-Dewey_Decimal_Classification: "514.2242"
+Dewey_Decimal_Classification: 514.2242
+dv_has_:
+  name_:
+    ar: نظرية العقد
+    ast: Teoría de nuedos
+    be-tarask: тэорыя вузлоў
+    ca: Teoria de nusos
+    cs: teorie uzlů
+    da: knudeteori
+    de: Knotentheorie
+    el: Θεωρία κόμβων
+    en: knot theory
+    eo: nodoteorio
+    es: teoría de nudos
+    eu: korapiloen teoria
+    fa: نظریه گره
+    fi: solmuteoria
+    fr: théorie des nœuds
+    gl: Teoría de nós
+    he: תורת הקשרים
+    hu: csomóelmélet
+    id: Teori buhul
+    is: Hnútafræði
+    it: teoria dei nodi
+    ja: 結び目理論
+    ko: 매듭 이론
+    mk: теорија за јазлите
+    mr: गाठ सिद्धान्त
+    ms: Teori simpulan
+    nb: Knuteteori
+    nl: knopentheorie
+    pa: ਗੱਠ ਸਿਧਾਂਤ
+    pl: teoria węzłów
+    pt: teoria dos nós
+    ro: Teoria nodurilor
+    ru: теория узлов
+    sl: teorija vozlov
+    sr: теорија чворова
+    sv: knutteori
+    ta: முடிச்சுக் கணிதம்
+    tr: düğüm kuramı
+    uk: теорія вузлів
+    vi: Lý thuyết nút thắt
+    wuu: 纽结理论
+    yue: 結理論
+    zh: 紐結理論
+    zh-hans: 纽结理论
+    zh-hant: 紐結理論
+    zh-hk: 紐結理論
 ---
-
 # [[Knot_Theory]] 
 
 #is_/same_as :: [[WD~Knot_theory,849798]] 

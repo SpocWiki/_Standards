@@ -1,8 +1,72 @@
 ---
 aliases:
-  - Water sport
-  - Water_Sport
-  - Water Sport
+- akvosporto
+- chwaraeon dŵr
+- deporte acuatico
+- deporte acuático
+- deporte akuátiko
+- desporto aquático
+- Egwuregwu mmiri
+- esport aquàtic
+- esporte aquático
+- kõɔ kɔɔdɛnne
+- Lisanɔ na mái
+- olahraga air
+- sport acquatici
+- sport di acqua
+- sport nautique
+- sport ujor
+- sport wodny
+- sporturi nautice
+- Sporê awe
+- spórt uisce
+- su sporları
+- sukan air
+- thể thao dưới nước
+- ur-kirol
+- vandens sportas
+- vandsport
+- vannsport
+- vatnaíþróttir
+- vattensport
+- veesport
+- vesiurheilu
+- vodeni sport
+- vodeni športovi
+- vodni šport
+- vodní sport
+- vodný šport
+- vízi sport
+- Waassersport
+- waetersport
+- Wai qito
+- Wassersport
+- Water sport
+- watersport
+- Water_Sport
+- Wettersport
+- čáhcevaláštallan
+- čäcivalastâllâm
+- čääʹccsportt
+- ūdens sports
+- Υγρός στίβος
+- воден спорт
+- водени спорт
+- водний спорт
+- водный спорт
+- водныя віды спорту
+- навъи варзиши обӣ
+- ջրային մարզաձևեր
+- ספורט ימי
+- آبی کھیل
+- رياضة مائية
+- سوکن اءير
+- فهرست ورزشهای آبی
+- जलक्रीड़ाओं की सूची
+- ウォーター・スポーツ
+- 水类运动
+- 水類運動
+- 수상 스포츠
 has_id_wikidata: Q61065
 Colon_Classification: MY25
 Commons_category: Water sports
@@ -19,17 +83,91 @@ practiced_by: '[[_Standards/WikiData/WD~Q116445694,116445694]]'
 Regensburg_Classification: ZY 6000 - ZY 6849
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Aquatics,7494551]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~sports_in_nature,3493904]]'
-  - '[[_Standards/WikiData/WD~sport,349]]'
+- '[[_Standards/WikiData/WD~sports_in_nature,3493904]]'
+- '[[_Standards/WikiData/WD~sport,349]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Water_sports,15262675]]'
 uses:
-  - '[[_Standards/WikiData/WD~water_sports_venue,121085044]]'
-  - '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~water_sports_venue,121085044]]'
+- '[[_Standards/WikiData/WD~water,283]]'
 U_S_National_Archives_Identifier:
-  - 10637701
-  - 10663422
+- 10637701
+- 10663422
+dv_has_:
+  name_:
+    af: Watersport
+    ar: رياضة مائية
+    be: водныя віды спорту
+    ca: esport aquàtic
+    cs: vodní sport
+    cy: chwaraeon dŵr
+    da: vandsport
+    de: Wassersport
+    dga: kõɔ kɔɔdɛnne
+    diq: Sporê awe
+    el: Υγρός στίβος
+    en: water sport
+    eo: akvosporto
+    es: deporte acuático
+    et: veesport
+    eu: ur-kirol
+    fa: فهرست ورزشهای آبی
+    fi: vesiurheilu
+    fj: Wai qito
+    fr: sport nautique
+    fy: Wettersport
+    ga: spórt uisce
+    gl: deporte acuático
+    he: ספורט ימי
+    hi: जलक्रीड़ाओं की सूची
+    hr: vodeni športovi
+    hu: vízi sport
+    hy: ջրային մարզաձևեր
+    id: olahraga air
+    ig: Egwuregwu mmiri
+    is: vatnaíþróttir
+    it: sport acquatici
+    ja: ウォーター・スポーツ
+    ko: 수상 스포츠
+    lb: Waassersport
+    ln: Lisanɔ na mái
+    lt: vandens sportas
+    lv: ūdens sports
+    mk: воден спорт
+    ms: sukan air
+    ms-arab: سوکن اءير
+    nb: vannsport
+    nds: Watersport
+    nds-nl: waetersport
+    nl: watersport
+    pap: deporte akuátiko
+    pap-aw: deporte acuatico
+    pl: sport wodny
+    pt: desporto aquático
+    pt-br: esporte aquático
+    ro: sporturi nautice
+    ru: водный спорт
+    scn: sport di acqua
+    se: čáhcevaláštallan
+    sh: vodeni sport
+    sk: vodný šport
+    sl: vodni šport
+    smn: čäcivalastâllâm
+    sms: čääʹccsportt
+    sq: sport ujor
+    sr: водени спорт
+    sv: vattensport
+    tg: навъи варзиши обӣ
+    tr: su sporları
+    uk: водний спорт
+    ur: آبی کھیل
+    vi: thể thao dưới nước
+    zh: 水類運動
+    zh-cn: 水类运动
+    zh-hans: 水类运动
+    zh-hant: 水類運動
+    zh-hk: 水類運動
+    zh-tw: 水類運動
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Water sports** or aquatic sports are sports activities conducted on waterbodies and can be categorized according to the degree of immersion by the participants.

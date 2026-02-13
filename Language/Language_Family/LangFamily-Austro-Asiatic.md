@@ -1,21 +1,110 @@
 ---
 aliases:
-  - Austroasiatic languages
-  - LangFamily-Austro-Asiatic
+- Austro-Asiatiese tale
+- Austroaasia keeled
+- austroaasialaiset kielet
+- Austroasiaatisk spriaken
+- Austroasiar hizkuntzak
+- Austroasiatic
+- Austroasiatic bhasa
+- Austroasiatic languages
+- Austroasiatik
+- Austroasiatisch
+- austroasiatiska språk
+- austroasiatiske sprog
+- austroasiatiske språk
+- austroasijské jazyky
+- Austroaziatische talen
+- austroazijski jezici
+- austroazinės kalbos
+- austroaziātu valodas
+- ausztroázsiai nyelvcsalád
+- Avstroasiya dilləri
+- avstroazijski jeziki
+- Avustroasya dilleri
+- Aŭstralazia lingvaro
+- Bahasa Austro-Asia
+- Basa Austro-Asiatik
+- Fianakaviam-piteny aostroaziatika
+- hệ ngôn ngữ Nam Á
+- języki austroazjatyckie
+- LangFamily-Austro-Asiatic
+- langues austroasiatiques
+- Lengas austroasiaticas
+- Lenghe àustro-asiàtiche
+- lenguas austroasiáticas
+- Limbi austro-asiatice
+- Linguae Austroasiaticae
+- linguas austroasiatic
+- Linguas austroasiatica
+- Linguas austroasiáticas
+- lingue austroasiatiche
+- Lingues austro-asian
+- lingui àustru-asiàtichi
+- llengües austroasiàtiques
+- Llingües austroasiátiques
+- Lugha za Kiaustro-Asiatiki
+- línguas austro-asiáticas
+- Mga tataramon na Austroasyatiko
+- Mga wikang Austroasyatiko
+- Mon-khmer mál
+- Ositiro-Esiatiiki
+- sasao nga Austroasiatiko
+- Urin anti asya rimaykuna
+- Vahhaeh Nanzya
+- yezhoù aostrez-aziatek
+- łéngue austroaziàteghe
+- Αυστροασιατικές γλώσσες
+- аўстраазіяцкія мовы
+- австроазійські мови
+- австроазиаг æвзæгтæ
+- Австроазиатски езици
+- австроазиатские языки
+- австроазиски јазици
+- аустроазијски језици
+- אויסטרא-אזיאטישע שפראכן
+- שפות אוסטרו-אסיאתיות
+- آسٹرو ایشیائی بولیاں
+- آوسترو آسیا دیللری
+- اللغات الأسترو آسيوية
+- جنوبی ایشیائی زبانیں
+- زبانهای استرا-آسیایی
+- سوېلي اسيايي ژبې
+- अस्ट्रोएसियाटिक भाय् पुचः
+- आग्नेय
+- आग्नेय भाषापरिवार
+- आग्नेसियाली भाषा परिवार
+- ऑस्ट्रो-आशियन भाषासमूह
+- অস্ট্রো-এশীয় ভাষাসমূহ
+- ਆਸਟਰੋ-ਏਸ਼ੀਆਈ ਬੋਲੀਆਂ
+- ஆசுத்ரோ-ஆசிய மொழிகள்
+- ಆಸ್ಟ್ರೋ-ಏಷ್ಯಾಟಿಕ್ ಭಾಷೆಗಳು
+- ദക്ഷിണപൂർവേഷ്യൻ ഭാഷകൾ
+- ตระกูลภาษาออสโตรเอเชียติก
+- ຄອບຄົວພາສາອອສເຕີຣເອເຊຍຕິກ
+- သြသထြောအေရှတေတ် (အရေဝ်ဘာသာ)
+- ဩစထြိုအေးရှားတစ်
+- ავსტრაზიული ნინეფი
+- អំបូរភាសាអូស្ត្រូអាស៊ី
+- ᱚᱥᱴᱨᱳᱼᱮᱥᱤᱭᱟᱴᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ
+- オーストロアジア語族
+- 南亚语系
+- 南亞語系
+- 오스트로아시아어족
 has_id_wikidata: Q33199
 tags:
-  - Lang_Family
+- Lang_Family
 type: LangFamily
 linguistic_typology: '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Mon_Khmer,337657]]'
-  - '[[_Standards/WikiData/WD~Munda,33892]]'
+- '[[_Standards/WikiData/WD~Mon_Khmer,337657]]'
+- '[[_Standards/WikiData/WD~Munda,33892]]'
 subclass_of: '[[_Standards/WikiData/WD~Austric,783787]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Austroasiatic_languages,6705029]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Afroasiatic,25268]]'
-  - '[[_Standards/WikiData/WD~Austronesian,49228]]'
+- '[[_Standards/WikiData/WD~Afroasiatic,25268]]'
+- '[[_Standards/WikiData/WD~Austronesian,49228]]'
 instance_of: '[[_Standards/WikiData/WD~language_family,25295]]'
 number_of_speakers_writers_or_signers: 90000000
 OmegaWiki_Defined_Meaning: 549071
@@ -28,8 +117,109 @@ Glottolog_code: aust1305
 Commons_category: Austro-Asiatic languages
 WALS_family_code: austroasiatic
 Krugosvet_article: gumanitarnye_nauki/lingvistika/AUSTROAZIATSKIE_YAZIKI.html
+dv_has_:
+  name_:
+    af: Austro-Asiatiese tale
+    ar: اللغات الأسترو آسيوية
+    ast: Llingües austroasiátiques
+    az: Avstroasiya dilləri
+    azb: آوسترو آسیا دیللری
+    bcl: Mga tataramon na Austroasyatiko
+    be: аўстраазіяцкія мовы
+    be-tarask: аўстраазіяцкія мовы
+    bg: Австроазиатски езици
+    bn: অস্ট্রো-এশীয় ভাষাসমূহ
+    br: yezhoù aostrez-aziatek
+    ca: llengües austroasiàtiques
+    cs: austroasijské jazyky
+    da: austroasiatiske sprog
+    de: Austroasiatisch
+    el: Αυστροασιατικές γλώσσες
+    en: Austroasiatic
+    en-ca: Austroasiatic
+    en-gb: Austroasiatic
+    eo: Aŭstralazia lingvaro
+    es: lenguas austroasiáticas
+    et: Austroaasia keeled
+    eu: Austroasiar hizkuntzak
+    fa: زبانهای استرا-آسیایی
+    fi: austroaasialaiset kielet
+    fr: langues austroasiatiques
+    frr: Austroasiaatisk spriaken
+    gl: Linguas austroasiáticas
+    he: שפות אוסטרו-אסיאתיות
+    hi: आग्नेय भाषापरिवार
+    hif: Austroasiatic bhasa
+    hr: austroazijski jezici
+    hu: ausztroázsiai nyelvcsalád
+    ia: linguas austroasiatic
+    id: Austroasiatik
+    ie: Lingues austro-asian
+    ig: Austroasiatic
+    ilo: sasao nga Austroasiatiko
+    is: Mon-khmer mál
+    it: lingue austroasiatiche
+    ja: オーストロアジア語族
+    jv: Basa Austro-Asiatik
+    km: អំបូរភាសាអូស្ត្រូអាស៊ី
+    kn: ಆಸ್ಟ್ರೋ-ಏಷ್ಯಾಟಿಕ್ ಭಾಷೆಗಳು
+    ko: 오스트로아시아어족
+    la: Linguae Austroasiaticae
+    lfn: Linguas austroasiatica
+    lo: ຄອບຄົວພາສາອອສເຕີຣເອເຊຍຕິກ
+    lt: austroazinės kalbos
+    lv: austroaziātu valodas
+    mg: Fianakaviam-piteny aostroaziatika
+    mk: австроазиски јазици
+    ml: ദക്ഷിണപൂർവേഷ്യൻ ഭാഷകൾ
+    mnw: သြသထြောအေရှတေတ် (အရေဝ်ဘာသာ)
+    mr: ऑस्ट्रो-आशियन भाषासमूह
+    ms: Bahasa Austro-Asia
+    my: ဩစထြိုအေးရှားတစ်
+    nb: austroasiatiske språk
+    ne: आग्नेसियाली भाषा परिवार
+    new: अस्ट्रोएसियाटिक भाय् पुचः
+    nl: Austroaziatische talen
+    nn: austroasiatiske språk
+    oc: Lengas austroasiaticas
+    os: австроазиаг æвзæгтæ
+    pa: ਆਸਟਰੋ-ਏਸ਼ੀਆਈ ਬੋਲੀਆਂ
+    pl: języki austroazjatyckie
+    pms: Lenghe àustro-asiàtiche
+    pnb: آسٹرو ایشیائی بولیاں
+    ps: سوېلي اسيايي ژبې
+    pt: línguas austro-asiáticas
+    qu: Urin anti asya rimaykuna
+    ro: Limbi austro-asiatice
+    ru: австроазиатские языки
+    sa: आग्नेय
+    sat: ᱚᱥᱴᱨᱳᱼᱮᱥᱤᱭᱟᱴᱤᱠ ᱯᱟᱹᱨᱥᱤᱠᱚ
+    scn: lingui àustru-asiàtichi
+    sh: Austroazijski jezici
+    sl: avstroazijski jeziki
+    sr: аустроазијски језици
+    sr-ec: аустроазијски језици
+    sv: austroasiatiska språk
+    sw: Lugha za Kiaustro-Asiatiki
+    ta: ஆசுத்ரோ-ஆசிய மொழிகள்
+    th: ตระกูลภาษาออสโตรเอเชียติก
+    tl: Mga wikang Austroasyatiko
+    tr: Avustroasya dilleri
+    uk: австроазійські мови
+    ur: جنوبی ایشیائی زبانیں
+    vec: łéngue austroaziàteghe
+    vi: hệ ngôn ngữ Nam Á
+    wuu: 南亚语系
+    xmf: ავსტრაზიული ნინეფი
+    yi: אויסטרא-אזיאטישע שפראכן
+    yo: Ositiro-Esiatiiki
+    yue: 南亞語系
+    za: Vahhaeh Nanzya
+    zh: 南亚语系
+    zh-hans: 南亚语系
+    zh-hant: 南亞語系
+    zh-tw: 南亞語系
 ---
-
 # [[LangFamily-Austro-Asiatic]] 
 
  [SpocWebEntityId:: 240 ]

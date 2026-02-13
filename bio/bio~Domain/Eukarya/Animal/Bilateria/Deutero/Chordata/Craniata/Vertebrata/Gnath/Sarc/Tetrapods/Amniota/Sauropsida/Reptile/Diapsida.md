@@ -1,9 +1,94 @@
 ---
 aliases:
-  - Diapsida
+- Diapsid
+- Diapsida
+- Diapside
+- Diapsider
+- Diapsidit
+- Diapsidoj
+- Diapsiidid
+- diapsydy
+- diàpsids
+- Diápsidos
+- két halántékablakosak
+- διάψιδα
+- діапсиди
+- диапсиди
+- диапсиды
+- Դիապսիդներ
+- דיאפסידה
+- ثنائيات الأقواس
+- دوکاوان
+- ডায়াপসিড
+- 双孔亚纲
+- 双弓類
+- 雙孔亞綱
+- 이궁류
 title: Diapsida
+has_id_wikidata: Q134688
+dv_has_:
+  name_:
+    af: Diapsida
+    ar: ثنائيات الأقواس
+    ast: Diapsida
+    be-tarask: Diapsida
+    bg: диапсиди
+    bn: ডায়াপসিড
+    ca: diàpsids
+    ceb: Diapsida
+    cs: Diapsida
+    de: Diapsida
+    el: διάψιδα
+    en: Diapsid
+    en-us: Diapsida
+    eo: Diapsidoj
+    es: Diapsida
+    et: Diapsiidid
+    eu: Diapsida
+    fa: دوکاوان
+    fi: Diapsidit
+    fr: Diapsida
+    ga: Diapsida
+    gl: Diápsidos
+    he: דיאפסידה
+    hu: két halántékablakosak
+    hy: Դիապսիդներ
+    ia: Diapsida
+    id: Diapsida
+    it: Diapsida
+    ja: 双弓類
+    ko: 이궁류
+    la: Diapsida
+    li: Diapside
+    mk: Диапсиди
+    mul: Diapsida
+    nb: Diapsider
+    nl: Diapsida
+    oc: Diapsida
+    or: Diapsid
+    pl: diapsydy
+    pt: Diapsida
+    ro: Diapsida
+    ru: диапсиды
+    sk: Diapsida
+    sl: Diapsida
+    sq: Diapsida
+    sr: Diapsid
+    sv: Diapsida
+    tl: Diapsida
+    tr: Diapsid
+    uk: діапсиди
+    vi: Diapsida
+    war: Diapsida
+    wuu: 双孔亚纲
+    zh: 雙孔亞綱
+    zh-cn: 双孔亚纲
+    zh-hans: 双孔亚纲
+    zh-hant: 雙孔亞綱
+    zh-hk: 雙孔亞綱
+    zh-sg: 双孔亚纲
+    zh-tw: 雙孔亞綱
 ---
-
 # [[Diapsida]] 
 
 Lizards, Sphenodon, crocodylians, birds, and their extinct relatives 

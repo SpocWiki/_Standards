@@ -1,4 +1,84 @@
-
+---
+has_id_wikidata: Q974482
+dv_has_:
+  name_:
+    ar: قصة الإسكندر
+    az: İsgəndər haqqında roman
+    be: Александрыя, раман
+    be-tarask: Александрыя
+    bg: Александрия
+    ca: Romanç d'Alexandre
+    cs: Alexandreis (žánr)
+    cy: Hanes Alecsander
+    de: Alexanderroman
+    el: Φυλλάδα του Μεγαλέξανδρου
+    en: Alexander Romance
+    eo: Aleksandra Romano
+    es: Romance de Alejandro
+    eu: Roman d´Alexandre
+    fa: داستان اسکندر
+    fi: Aleksanteri-romaani
+    fr: Roman d'Alexandre
+    he: רומן אלכסנדר
+    hr: Aleksandrida
+    hu: Sándor-regény
+    hy: Ալեքսանդրի վեպը
+    id: Romansa Aleksander
+    it: Romanzo di Alessandro
+    ja: アレクサンドロス・ロマンス
+    la: Historia fabulosa Alexandri Magni
+    mk: Александрида
+    ml: അലക്സാണ്ടർ റൊമാൻസ്
+    nb: Aleksanderroman
+    nl: Alexanderroman
+    pl: Aleksandreida
+    pt: Romance de Alexandre
+    ro: Alexandria
+    ru: История Александра Великого
+    sh: Aleksandrida
+    sl: Aleksandrov roman
+    sr: Александрида
+    sv: Alexanderromanen
+    uk: Александрія
+    zh: 亞歷山大大帝傳奇
+aliases:
+- Aleksanderroman
+- Aleksandra Romano
+- Aleksandreida
+- Aleksandrida
+- Aleksandrov roman
+- Aleksanteri-romaani
+- Alexander Romance
+- Alexanderroman
+- Alexanderromanen
+- Alexandreis (žánr)
+- Alexandria
+- Hanes Alecsander
+- Historia fabulosa Alexandri Magni
+- Roman d'Alexandre
+- Roman d´Alexandre
+- Romance de Alejandro
+- Romance de Alexandre
+- Romansa Aleksander
+- Romanzo di Alessandro
+- Romanç d'Alexandre
+- Sándor-regény
+- İsgəndər haqqında roman
+- Φυλλάδα του Μεγαλέξανδρου
+- Александрія
+- Александрида
+- Александрия
+- Александрыя
+- Александрыя, раман
+- История Александра Великого
+- Ալեքսանդրի վեպը
+- רומן אלכסנדר
+- داستان اسکندر
+- قصة الإسكندر
+- അലക്സാണ്ടർ റൊമാൻസ്
+- アレクサンドロス・ロマンス
+- 亞歷山大大帝傳奇
+---
 ## #has_/text_of_/abstract 
 
 > The **Alexander Romance**, once described as "antiquity's most successful novel", 

@@ -1,28 +1,114 @@
 ---
 aliases:
+- calcalas suimeálach
+- calcolo integrale
+- calcul integral
+- calcul intégral
+- Calcwlws integrol
+- càlcul integral
+- cálculo integral
+- Integraalilaskenta
+- Integraalraekening
+- Integraalreegnang
+- integraalrekening
+- integral calculus
+- Integral hisob
+- integrala kalkulo
+- integralkalkyl
+- integralni račun
+- Integralrechnung
+- integralregning
+- integralrekning
+- Integrálny počet
+- integrální počet
+- Integräurechnung
+- Kalkulong integral
+- kalkulus essensek
+- rachunek całkowy
+- інтегральне числення
+- Інтэгральнае злічэнне
+- Интегралдық есептеу
+- Интеграллă шутлав
+- интегрални рачун
+- интегрално сметање
+- интеграль хисап
+- интегральное исчисление
+- Ինտեգրալ հաշիվ
+- חשבון אינטגרלי
+- حساب التكامل
+- સંકલન કલનશાસ્ત્ર
+- தொகை நுண்கணிதம்
+- 积分学
+- 積分法
 has_id_wikidata: Q150008
-is_the_study_of: "[[_Standards/WikiData/WD~integral,80091]]"
+is_the_study_of: '[[_Standards/WikiData/WD~integral,80091]]'
 part_of:
-  - "[[_Standards/WikiData/WD~calculus,149972]]"
-  - "[[_Standards/WikiData/WD~analysis_in_one_real_variable_(calculus),114440953]]"
-subclass_of: "[[_Standards/WikiData/WD~calculus,149972]]"
-opposite_of: "[[_Standards/WikiData/WD~differential_calculus,149999]]"
-different_from: "[[_Standards/WikiData/WD~integral_theory,275242]]"
+- '[[_Standards/WikiData/WD~calculus,149972]]'
+- '[[_Standards/WikiData/WD~analysis_in_one_real_variable_(calculus),114440953]]'
+subclass_of: '[[_Standards/WikiData/WD~calculus,149972]]'
+opposite_of: '[[_Standards/WikiData/WD~differential_calculus,149999]]'
+different_from: '[[_Standards/WikiData/WD~integral_theory,275242]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Integral%20as%20region%20under%20curve.svg
-ACM_Classification_Code_2012_: "10003735"
+ACM_Classification_Code_2012_: 10003735
 Wolfram_Language_entity_code: Entity["Concept", "IntegralCalculus::6w387"]
 Commons_category: Integral calculus
+dv_has_:
+  name_:
+    af: Integraalrekening
+    ar: حساب التكامل
+    bar: Integräurechnung
+    be: Інтэгральнае злічэнне
+    ca: càlcul integral
+    cs: integrální počet
+    cv: Интеграллă шутлав
+    cy: Calcwlws integrol
+    da: integralregning
+    de: Integralrechnung
+    en: integral calculus
+    eo: integrala kalkulo
+    es: cálculo integral
+    fi: Integraalilaskenta
+    fr: calcul intégral
+    frr: Integraalreegnang
+    ga: calcalas suimeálach
+    gsw: Integralrechnung
+    gu: સંકલન કલનશાસ્ત્ર
+    he: חשבון אינטגרלי
+    hy: Ինտեգրալ հաշիվ
+    it: calcolo integrale
+    ja: 積分法
+    kk: Интегралдық есептеу
+    kw: kalkulus essensek
+    li: Integraalraekening
+    mk: интегрално сметање
+    nb: integralregning
+    nl: integraalrekening
+    nn: integralrekning
+    oc: calcul integral
+    pl: rachunek całkowy
+    pt: cálculo integral
+    pt-br: cálculo integral
+    ru: интегральное исчисление
+    sk: Integrálny počet
+    sl: integralni račun
+    sr: интегрални рачун
+    sv: integralkalkyl
+    ta: தொகை நுண்கணிதம்
+    tl: Kalkulong integral
+    tt: интеграль хисап
+    uk: інтегральне числення
+    uz: Integral hisob
+    zh: 积分学
 ---
-
 # [[Integral_Calculus]] 
 
 #has_/complement :: [[Differential_Calculus]] 

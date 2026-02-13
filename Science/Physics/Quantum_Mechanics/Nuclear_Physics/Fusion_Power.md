@@ -1,28 +1,138 @@
 ---
 aliases:
+- Boshqariladigan termoyadro sintezi
+- energia da fusione
+- energia de fusió
+- Energia de fusão
+- energie de fuziune
+- Energija nuklearne fuzije
+- energía de fusión
+- enerxía de fusión
+- fuinneamh comhleá
+- fusie-energie
+- fusiekrag
+- Fusio-energia
+- fusion power
+- Fusionsenergi
+- Fusionsenergie
+- fusjonskraft
+- fuusioenergia
+- fuzia energio
+- Fuzijska energija
+- fúziós energia
+- Füzyon enerjisi
+- kontrolowana synteza termojądrowa
+- kuasa lakuran
+- Kusog Fusyon
+- Năng lượng hợp hạch
+- Tenaga fusi
+- Termonüvə reaksiyası
+- énergie de fusion nucléaire
+- ενέργεια πυρηνικής σύντηξης
+- Басқарылатын термоядролық топтау
+- Башкарылма термоядролук синтез
+- енергија нуклеарне фузије
+- енергија од јадрено соединување
+- кіраваны тэрмаядзерны сінтэз
+- Термоядерна енергія
+- Термоядрена енергия
+- тэрмаядзерная энэргія
+- Управляемый термоядерный синтез
+- Ջերմամիջուկային կառավարվող սինթեզ
+- ایتلافی طاقت (نیوکلیائی)
+- توليد الطاقة بالاندماج
+- قدرت همجوشی
+- তাপ-নিউক্লীয় বিক্রিয়ক
+- พลังงานฟิวชั่น
+- მართვადი თერმობირთვული სინთეზი
+- 核融合エネルギー
+- 聚变反应堆
+- 聚变能
+- 聚變反應堆
+- 聚變能
+- 핵융합 발전
 has_id_wikidata: Q641442
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]"
-  - "[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Science_Policy,134286021]]"
-has_characteristic: "[[_Standards/WikiData/WD~Fusion_energy_gain_factor,5510279]]"
+- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
+- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
+- '[[_Standards/WikiData/WD~WikiProject_Energy,15106301]]'
+- '[[_Standards/WikiData/WD~WikiProject_International_relations,15304945]]'
+- '[[_Standards/WikiData/WD~WikiProject_Science_Policy,134286021]]'
+has_characteristic: '[[_Standards/WikiData/WD~Fusion_energy_gain_factor,5510279]]'
 uses:
-  - "[[_Standards/WikiData/WD~fusion_reactor,11536219]]"
-  - "[[_Standards/WikiData/WD~nuclear_fusion,13082]]"
+- '[[_Standards/WikiData/WD~fusion_reactor,11536219]]'
+- '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Fusion_power,13394130]]"
-  - "[[_Standards/WikiData/WD~Template_Fusion_experiments,13775089]]"
+- '[[_Standards/WikiData/WD~Template_Fusion_power,13394130]]'
+- '[[_Standards/WikiData/WD~Template_Fusion_experiments,13775089]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~energy_technology,14554973]]"
-  - "[[_Standards/WikiData/WD~nuclear_fusion,13082]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~energy_technology,14554973]]'
+- '[[_Standards/WikiData/WD~nuclear_fusion,13082]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 subreddit: fusion
 Commons_category: Nuclear fusion reactors
+dv_has_:
+  name_:
+    af: fusiekrag
+    ar: توليد الطاقة بالاندماج
+    az: Termonüvə reaksiyası
+    be: кіраваны тэрмаядзерны сінтэз
+    be-tarask: тэрмаядзерная энэргія
+    bg: Термоядрена енергия
+    bn: তাপ-নিউক্লীয় বিক্রিয়ক
+    bs: Fuzijska energija
+    ca: energia de fusió
+    da: Fusionsenergi
+    de: Fusionsenergie
+    el: ενέργεια πυρηνικής σύντηξης
+    en: fusion power
+    eo: fuzia energio
+    es: energía de fusión
+    eu: Fusio-energia
+    fa: قدرت همجوشی
+    fi: fuusioenergia
+    fr: énergie de fusion nucléaire
+    ga: fuinneamh comhleá
+    gl: enerxía de fusión
+    hr: Energija nuklearne fuzije
+    hu: fúziós energia
+    hy: Ջերմամիջուկային կառավարվող սինթեզ
+    id: Tenaga fusi
+    it: energia da fusione
+    ja: 核融合エネルギー
+    ka: მართვადი თერმობირთვული სინთეზი
+    kk: Басқарылатын термоядролық топтау
+    ko: 핵융합 발전
+    ky: Башкарылма термоядролук синтез
+    mk: енергија од јадрено соединување
+    ms: kuasa lakuran
+    nb: fusjonskraft
+    nl: fusie-energie
+    nn: fusjonskraft
+    pl: kontrolowana synteza termojądrowa
+    pt: Energia de fusão
+    ro: energie de fuziune
+    ru: Управляемый термоядерный синтез
+    sh: Energija nuklearne fuzije
+    sl: fuzijska energija
+    smn: fuusioenergia
+    sms: fuusioenergia
+    sr: енергија нуклеарне фузије
+    sv: fusionsenergi
+    th: พลังงานฟิวชั่น
+    tr: Füzyon enerjisi
+    uk: Термоядерна енергія
+    ur: ایتلافی طاقت (نیوکلیائی)
+    uz: Boshqariladigan termoyadro sintezi
+    vi: Năng lượng hợp hạch
+    war: Kusog Fusyon
+    yue: 聚變能
+    zh: 聚变能
+    zh-cn: 聚变反应堆
+    zh-hans: 聚变反应堆
+    zh-hant: 聚變反應堆
 ---
-
 # [[Fusion_Power]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fusion_power,641442|WD~Fusion_power,641442]] 

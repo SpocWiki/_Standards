@@ -1,22 +1,161 @@
 ---
 aliases:
-  - Überraschung
-  - Surprise
+- astoneso
+- forbauselse
+- förvåning
+- habi
+- hämmästys
+- imestus
+- iontas
+- iznenađenje
+- keterkejutan
+- kɨtɛ e etsɨn
+- Maadee(Currisa)
+- meglepetés
+- Miratio
+- Ngạc nhiên
+- overraskelse
+- Overrasking
+- Pagkabigla
+- prekvapenie
+- presenečenje
+- překvapení
+- sorpresa
+- staigmena
+- surpresa
+- Surprise
+- surprizo
+- syndod
+- Taajjub
+- Tá-nuk
+- Təəccüb
+- uimire
+- Ustekabe
+- utirayay
+- verbazing
+- yaab
+- zaskoczenie
+- Überraschung
+- Şaşkınlık
+- Έκπληξη
+- абунгадома
+- здзіўленне
+- Здивування
+- зьдзіўленьне
+- изненађење
+- изненада
+- Изненадување
+- Тĕлĕнӳ
+- удивление
+- шаккату
+- Զարմանք
+- איבעראשונג
+- הפתעה
+- تعجب
+- دهشة
+- شگفتزدگی
+- आश्चर्य
+- বিস্ময় (আবেগ)
+- ਹੈਰਾਨੀ
+- ஆச்சரியம்
+- ಆಶ್ಚರ್ಯ
+- အံ့ဩ
+- ဢၢမ်း
+- 驚
+- 驚き
+- 驚奇
+- 驚訝
+- 놀라움
 has_id_wikidata: Q333173
 opposite_of: '[[_Standards/WikiData/WD~anticipation,255266]]'
 has_cause: '[[_Standards/WikiData/WD~deviation,849149]]'
 part_of:
-  - '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-  - '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
-  - '[[_Standards/WikiData/WD~reaction,31983622]]'
-  - '[[_Standards/WikiData/WD~emotion,9415]]'
+- '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
+- '[[_Standards/WikiData/WD~reaction,31983622]]'
+- '[[_Standards/WikiData/WD~emotion,9415]]'
 Commons_category: Surprise
 subreddit: WTF
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-%C3%9Cberraschung2.ogg
+dv_has_:
+  name_:
+    agq: kɨtɛ e etsɨn
+    ar: دهشة
+    ast: sorpresa
+    az: Təəccüb
+    bcl: Pagkabigla
+    be: здзіўленне
+    be-tarask: зьдзіўленьне
+    bg: изненада
+    bn: বিস্ময় (আবেগ)
+    ca: sorpresa
+    cs: překvapení
+    cv: Тĕлĕнӳ
+    cy: syndod
+    da: overraskelse
+    de: Überraschung
+    el: Έκπληξη
+    en: surprise
+    eo: surprizo
+    es: sorpresa
+    et: imestus
+    eu: Ustekabe
+    fa: شگفتزدگی
+    fi: hämmästys
+    fr: surprise
+    ga: iontas
+    gl: sorpresa
+    hak: Tá-nuk
+    he: הפתעה
+    hi: आश्चर्य
+    hr: iznenađenje
+    hu: meglepetés
+    hy: Զարմանք
+    id: keterkejutan
+    io: astoneso
+    it: sorpresa
+    ja: 驚き
+    kn: ಆಶ್ಚರ್ಯ
+    ko: 놀라움
+    la: Miratio
+    lt: staigmena
+    lzh: 驚
+    mk: Изненадување
+    my: အံ့ဩ
+    myv: абунгадома
+    nb: forbauselse
+    new: आश्चर्य
+    nl: verbazing
+    nn: Overrasking
+    om: Maadee(Currisa)
+    pa: ਹੈਰਾਨੀ
+    pl: zaskoczenie
+    pt: surpresa
+    qu: utirayay
+    ro: uimire
+    ru: удивление
+    shn: ဢၢမ်း
+    sk: prekvapenie
+    sl: presenečenje
+    so: yaab
+    sq: habi
+    sr: изненађење
+    sr-ec: изненађење
+    sr-el: iznenađenje
+    sv: förvåning
+    ta: ஆச்சரியம்
+    tr: Şaşkınlık
+    tt: шаккату
+    uk: Здивування
+    ur: تعجب
+    uz: Taajjub
+    vi: Ngạc nhiên
+    yi: איבעראשונג
+    yue: 驚奇
+    zh: 驚訝
 ---
-
 # [[Surprise]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Surprise,333173|WD~Surprise,333173]]  

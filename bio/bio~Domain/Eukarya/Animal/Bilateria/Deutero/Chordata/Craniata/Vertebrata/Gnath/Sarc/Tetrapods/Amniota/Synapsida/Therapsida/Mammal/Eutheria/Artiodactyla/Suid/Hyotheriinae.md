@@ -1,9 +1,46 @@
 ---
 aliases:
-  - Hyotheriinae
+- hioterins
+- Hyotheriinae
 title: Hyotheriinae
+has_id_wikidata: Q18602781
+dv_has_:
+  name_:
+    an: Hyotheriinae
+    ast: Hyotheriinae
+    bg: Hyotheriinae
+    ca: hioterins
+    ceb: Hyotheriinae
+    de: Hyotheriinae
+    en: Hyotheriinae
+    eo: Hyotheriinae
+    es: Hyotheriinae
+    eu: Hyotheriinae
+    ext: Hyotheriinae
+    fi: Hyotheriinae
+    fr: Hyotheriinae
+    ga: Hyotheriinae
+    gl: Hyotheriinae
+    hu: Hyotheriinae
+    ia: Hyotheriinae
+    ie: Hyotheriinae
+    io: Hyotheriinae
+    it: Hyotheriinae
+    la: Hyotheriinae
+    mul: Hyotheriinae
+    nl: Hyotheriinae
+    oc: Hyotheriinae
+    pl: Hyotheriinae
+    pt: Hyotheriinae
+    pt-br: Hyotheriinae
+    ro: Hyotheriinae
+    ru: Hyotheriinae
+    sq: Hyotheriinae
+    uk: Hyotheriinae
+    vi: Hyotheriinae
+    vo: Hyotheriinae
+    war: Hyotheriinae
 ---
-
 # [[Hyotheriinae]]
 
 ## #has_/text_of_/abstract 

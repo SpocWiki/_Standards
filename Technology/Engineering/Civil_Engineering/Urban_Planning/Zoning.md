@@ -1,15 +1,95 @@
 ---
 aliases:
+- coniranje
+- detailplaneering
+- kaavoitus
+- lávven
+- miejscowy plan zagospodarowania przestrzennego
+- pemintakatan
+- pengezonan
+- planbestemmelser
+- planificare zonală
+- planläggning
+- zonage
+- zoneamento
+- zonering
+- Zonierung
+- zonifegasion
+- zonificació
+- zonificación
+- Zonifikazio
+- zoning
+- zoniranje
+- zonizzazione
+- занаванне
+- занаваньне
+- зонирање
+- зонирование
+- зонування земель
+- איזור
+- التقسيم إلى مناطق
+- منطقهبندی
+- क्षेत्रीकरण
+- অঞ্চলবিভাজন
+- வலயப்படுத்தல்
+- การจัดเขต
+- ゾーニング
+- 土地使用分割槽
+- 土地使用分區
+- 土地用途分區
+- 용도지역
 has_id_wikidata: Q702232
-facet_of: "[[_Standards/WikiData/WD~land_use,1165944]]"
-subclass_of: "[[_Standards/WikiData/WD~land_use_planning,60738778]]"
-has_part_s_: "[[_Standards/WikiData/WD~zoning_symbol,81299915]]"
-different_from: "[[_Standards/WikiData/WD~town_plan,125808209]]"
-OmegaWiki_Defined_Meaning: "4194"
+facet_of: '[[_Standards/WikiData/WD~land_use,1165944]]'
+subclass_of: '[[_Standards/WikiData/WD~land_use_planning,60738778]]'
+has_part_s_: '[[_Standards/WikiData/WD~zoning_symbol,81299915]]'
+different_from: '[[_Standards/WikiData/WD~town_plan,125808209]]'
+OmegaWiki_Defined_Meaning: 4194
 Library_of_Congress_Classification: HT169.6-HT169.9
-Dewey_Decimal_Classification: "346.045"
+Dewey_Decimal_Classification: 346.045
+dv_has_:
+  name_:
+    ar: التقسيم إلى مناطق
+    ast: zonificación
+    be: занаванне
+    be-tarask: занаваньне
+    bn: অঞ্চলবিভাজন
+    ca: zonificació
+    de: Zonierung
+    en: zoning
+    es: zonificación
+    et: detailplaneering
+    eu: Zonifikazio
+    fa: منطقهبندی
+    fi: kaavoitus
+    fr: zonage
+    gl: zonificación
+    he: איזור
+    hi: क्षेत्रीकरण
+    id: pemintakatan
+    it: zonizzazione
+    ja: ゾーニング
+    ko: 용도지역
+    mk: зонирање
+    ms: pengezonan
+    nb: planbestemmelser
+    nl: zonering
+    pl: miejscowy plan zagospodarowania przestrzennego
+    pt: zoneamento
+    ro: planificare zonală
+    ru: зонирование
+    se: lávven
+    sl: coniranje
+    sr: zoniranje
+    sv: planläggning
+    ta: வலயப்படுத்தல்
+    th: การจัดเขต
+    uk: зонування земель
+    vec: zonifegasion
+    yue: 土地用途分區
+    zh: 土地使用分區
+    zh-cn: 土地使用分區
+    zh-hant: 土地使用分割槽
 ---
-
 # [[Zoning]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Zoning,702232|WD~Zoning,702232]]  

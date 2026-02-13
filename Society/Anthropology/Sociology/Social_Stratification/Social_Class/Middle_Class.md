@@ -1,23 +1,164 @@
 ---
 aliases:
-  - Mittelschicht
-  - Middle_Class
-  - Middle Class
+- ceto medio
+- clas media
+- clase media
+- classe mitjana
+- classe média
+- classes moyennes
+- clasă de mijloc
+- Erdi-mailako klase
+- gitnang uri
+- Jaña orta tap
+- Kelas menengah
+- Keskiluokka
+- Keskklass
+- Klas mwayèn
+- Klasa e mesme
+- Klasa średnia
+- középosztály
+- Maalqabeen
+- medelklass
+- Mez-klaso
+- meza klaso
+- meánaicme
+- middelklas
+- middelklasse
+- middenklasse
+- Middle Class
+- Middle_Class
+- Millistétt
+- Mittelschicht
+- orta sınıf
+- Schicht
+- Srednja klasa
+- srednji razred
+- stredná trieda
+- střední třída
+- Tabaka la kati
+- Tầng lớp trung lưu
+- vidurinioji klasė
+- Çîna navîn
+- Жаңа орта тап
+- середній клас
+- Середный клас
+- средња класа
+- средна класа
+- средний класс
+- сярэдняя кляса
+- Միջին դաս
+- מעמד הביניים
+- جاڭا ورتا تاپ
+- طبقة وسطى
+- طبقه متوسط
+- وچولو طبقو
+- मध्यम वर्ग
+- মধ্যবিত্ত
+- મધ્યમ વર્ગ
+- நடுத்தர வர்க்கம்
+- ชนชั้นกลาง
+- 中产阶级
+- 中流階級
+- 中產階層
+- 中產階級
+- 중산층
 has_id_wikidata: Q241588
 instance_of: '[[_Standards/WikiData/WD~social_class,187588]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Q15262194,15262194]]'
-  - '[[_Standards/WikiData/WD~bourgeoisie,52090]]'
+- '[[_Standards/WikiData/WD~Q15262194,15262194]]'
+- '[[_Standards/WikiData/WD~bourgeoisie,52090]]'
 facet_of: '[[_Standards/WikiData/WD~class_theory,125623342]]'
 OmegaWiki_Defined_Meaning: 1407364
 exact_match: http://www.treccani.it/enciclopedia/classi-medie_%28Enciclopedia-delle-scienze-sociali%29/
 Krugosvet_article_archived_: gumanitarnye_nauki/sociologiya/SREDNI_KLASS.html
 IMDb_keyword: middle-class
+dv_has_:
+  name_:
+    af: middelklas
+    ar: طبقة وسطى
+    ast: clas media
+    be-tarask: сярэдняя кляса
+    bn: মধ্যবিত্ত
+    ca: classe mitjana
+    cs: střední třída
+    da: middelklasse
+    de: Mittelschicht
+    de-ch: Schicht
+    en: middle class
+    en-ca: Middle class
+    en-gb: middle class
+    eo: meza klaso
+    es: clase media
+    et: Keskklass
+    eu: Erdi-mailako klase
+    fa: طبقه متوسط
+    fi: Keskiluokka
+    fr: classes moyennes
+    ga: meánaicme
+    gl: clase media
+    gu: મધ્યમ વર્ગ
+    he: מעמד הביניים
+    hi: मध्यम वर्ग
+    hr: Srednja klasa
+    ht: Klas mwayèn
+    hu: középosztály
+    hy: Միջին դաս
+    id: Kelas menengah
+    io: Mez-klaso
+    is: Millistétt
+    it: ceto medio
+    ja: 中流階級
+    kk: Жаңа орта тап
+    kk-arab: جاڭا ورتا تاپ
+    kk-cn: جاڭا ورتا تاپ
+    kk-cyrl: Жаңа орта тап
+    kk-kz: Жаңа орта тап
+    kk-latn: Jaña orta tap
+    kk-tr: Jaña orta tap
+    ko: 중산층
+    ku: Çîna navîn
+    lt: vidurinioji klasė
+    mk: средна класа
+    nb: middelklasse
+    ne: मध्यम वर्ग
+    nl: middenklasse
+    nn: Middelklasse
+    pl: Klasa średnia
+    pt: classe média
+    pt-br: Classe média
+    ro: clasă de mijloc
+    ru: средний класс
+    rue: Середный клас
+    sd: وچولو طبقو
+    sh: Srednja klasa
+    sk: stredná trieda
+    sl: srednji razred
+    so: Maalqabeen
+    sq: Klasa e mesme
+    sr: средња класа
+    sr-ec: средња класа
+    sr-el: srednja klasa
+    sv: medelklass
+    sw: Tabaka la kati
+    ta: நடுத்தர வர்க்கம்
+    th: ชนชั้นกลาง
+    tl: gitnang uri
+    tr: orta sınıf
+    uk: середній клас
+    vec: Ceto medio
+    vi: Tầng lớp trung lưu
+    yue: 中產階層
+    zh: 中產階級
+    zh-cn: 中产阶级
+    zh-hans: 中产阶级
+    zh-hant: 中產階級
+    zh-hk: 中產階級
+    zh-sg: 中产阶级
+    zh-tw: 中產階級
 ---
-
 # [[Middle_Class]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Middle_class,241588|WD~Middle_class,241588]] 

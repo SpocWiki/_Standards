@@ -1,19 +1,78 @@
 ---
 aliases:
-  - Normaunds
-  - Normands
-  - Nortmanni
-  - Normanni
-  - Norman
+- mga Normando
+- Norman
+- Norman lâng
+- Normanai
+- Normande
+- Normander
+- Normandiar
+- Normandier
+- Normandiërs
+- Normandjers
+- Normandoj
+- Normandos
+- Normands
+- Normaned
+- Normani
+- Normaniaid
+- Normanlar
+- Normannaigh
+- Normannar
+- Normannarar
+- Normannen
+- Normannere
+- Normannerne
+- Normanni
+- Normannid
+- normannit
+- Normannlar
+- normannok
+- Normannos
+- Normanowie
+- Normans
+- Normanzi
+- Normané
+- Normaunds
+- normaņi
+- Nortmanni
+- Nurmanni
+- Nôrmandy
+- orang Norman
+- Νορμανδοί
+- Нарманы
+- Нормандар
+- Нормане
+- Нормани
+- Норманнар
+- Норманндар
+- норманны
+- Նորմաններ
+- נורמנים
+- نورمان
+- نورمنلر
+- نورمنها
+- نورمین
+- नॉर्मन
+- নর্মান জাতি
+- நோர்மானியர்
+- നോർമനുകൾ
+- นอร์มัน
+- ნორმანები
+- ნორმანეფი
+- ノルマン人
+- 諾曼人
+- 诺曼人
+- 노르만족
 has_id_wikidata: Q83418
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 subclass_of: '[[_Standards/WikiData/WD~Romance_people,3157225]]'
 ancestral_home: '[[_Standards/WikiData/WD~Normandy,15878]]'
 instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
@@ -21,8 +80,101 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bayeux%20Tapestry%20Wi
 Commons_category: Normans
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Normannen.png
 native_label: Normaunds
+dv_has_:
+  name_:
+    af: Normandiërs
+    an: Normandos
+    ar: نورمان
+    arz: نورمان
+    ast: Normandos
+    az: Normanlar
+    azb: نورمنلر
+    be: Нарманы
+    be-tarask: нарманы
+    bg: Нормани
+    bn: নর্মান জাতি
+    br: Normaned
+    bs: Normani
+    ca: normands
+    ceb: mga Normando
+    cs: Normané
+    cy: Normaniaid
+    da: Normannerne
+    de: Normannen
+    el: Νορμανδοί
+    en: Normans
+    eo: Normandoj
+    es: normandos
+    et: Normannid
+    eu: Normandiar
+    fa: نورمنها
+    fi: normannit
+    fr: Normands
+    fur: Normans
+    fy: Normandjers
+    ga: Normannaigh
+    gl: Normandos
+    gsw: Normannen
+    he: נורמנים
+    hi: नॉर्मन
+    hr: Normani
+    hu: normannok
+    hy: Նորմաններ
+    ia: Normannos
+    id: orang Norman
+    is: Normannar
+    it: Normanni
+    ja: ノルマン人
+    ka: ნორმანები
+    kk: Нормандар
+    ko: 노르만족
+    ky: Норманндар
+    la: Normanni
+    lfn: Normande
+    lmo: Normands
+    lt: Normanai
+    lv: normaņi
+    mg: Nôrmandy
+    mk: Нормани
+    ml: നോർമനുകൾ
+    ms: Orang Norman
+    mt: Normanni
+    nan: Norman lâng
+    nb: Normannere
+    nl: Normandiërs
+    nn: Normannarar
+    nrm: Normaunds
+    oc: Normands
+    pl: Normanowie
+    pnb: نورمین
+    pt: Normandos
+    ro: Normanzi
+    ru: норманны
+    rue: Нормане
+    sc: Normannos
+    scn: Nurmanni
+    sh: Normani
+    sk: Normani
+    sl: Normani
+    sr: Нормани
+    sr-ec: Нормани
+    stq: Normandier
+    sv: Normander
+    ta: நோர்மானியர்
+    th: นอร์มัน
+    tl: Mga Normando
+    tr: Normanlar
+    tt: Норманнар
+    uk: Нормани
+    ur: نورمین
+    uz: Normannlar
+    vi: Norman
+    war: Norman
+    wuu: 诺曼人
+    xmf: ნორმანეფი
+    yue: 諾曼人
+    zh: 諾曼人
 ---
-
 # [[Norman]] 
 
 #is_/same_as :: [[WD~Normans,83418]] 

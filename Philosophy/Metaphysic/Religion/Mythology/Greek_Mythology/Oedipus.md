@@ -1,38 +1,88 @@
 ---
 aliases:
+- Edip
+- Edipas
+- Edipi
+- Edipo
+- Edips
+- Edipu
+- Edipus
+- Edyp
+- Edîpos
+- Oedip
+- Oedipus
+- Oidipos
+- Oidipous
+- Oidipus
+- Oidipusz
+- Ojdip
+- Èdip
+- Édipo
+- Éideapús
+- Ödipus
+- Ödípús
+- Ødipus
+- Œdipe
+- Οιδίποδας
+- Οἰδίπους , Oidipūs
+- Едіп
+- Едип
+- Эдип
+- Эдып
+- Էդիպ
+- אדיפוס
+- עדיפוס
+- أوديب
+- ادیپ
+- اڈیپس
+- ईदिपस
+- ইডিপাছ
+- ইডিপাস
+- ਇਡੀਪਸ
+- இடிப்பஸ்
+- ಈಡಿಪಸ್
+- ഈഡിപ്പസ്
+- ඊඩිපස්
+- อีดิปัส
+- အီးဒစ်ပါ့စ်
+- ოიდიპოსი
+- オイディプース
+- 伊底帕斯
+- 俄狄浦斯
+- 오이디푸스
 has_id_wikidata: Q130890
 name_in_native_language: Οἰδίπους
 child:
-  - "[[_Standards/WikiData/WD~Antigone,131351]]"
-  - "[[_Standards/WikiData/WD~Polynices,334817]]"
-  - "[[_Standards/WikiData/WD~Eteocles,506550]]"
-  - "[[_Standards/WikiData/WD~Ismene,753902]]"
-  - "[[_Standards/WikiData/WD~Laonytus,28708026]]"
+- '[[_Standards/WikiData/WD~Antigone,131351]]'
+- '[[_Standards/WikiData/WD~Polynices,334817]]'
+- '[[_Standards/WikiData/WD~Eteocles,506550]]'
+- '[[_Standards/WikiData/WD~Ismene,753902]]'
+- '[[_Standards/WikiData/WD~Laonytus,28708026]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Jocasta,131445]]"
-  - "[[_Standards/WikiData/WD~Euryganeia,1378458]]"
-  - "[[_Standards/WikiData/WD~Astymedusa,3627547]]"
-mother: "[[_Standards/WikiData/WD~Jocasta,131445]]"
-father: "[[_Standards/WikiData/WD~Laius,463898]]"
+- '[[_Standards/WikiData/WD~Jocasta,131445]]'
+- '[[_Standards/WikiData/WD~Euryganeia,1378458]]'
+- '[[_Standards/WikiData/WD~Astymedusa,3627547]]'
+mother: '[[_Standards/WikiData/WD~Jocasta,131445]]'
+father: '[[_Standards/WikiData/WD~Laius,463898]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Thebes,11225429]]"
-noble_title: "[[_Standards/WikiData/WD~king_of_Thebe_(Troade),13533319]]"
-position_held: "[[_Standards/WikiData/WD~king_of_Thebe_(Troade),13533319]]"
-instance_of: "[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-place_of_burial: "[[_Standards/WikiData/WD~Tomb_of_Oedipus_in_the_Areios_Pagos,136487482]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Thebes,11225429]]'
+noble_title: '[[_Standards/WikiData/WD~king_of_Thebe_(Troade),13533319]]'
+position_held: '[[_Standards/WikiData/WD~king_of_Thebe_(Troade),13533319]]'
+instance_of: '[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+place_of_burial: '[[_Standards/WikiData/WD~Tomb_of_Oedipus_in_the_Areios_Pagos,136487482]]'
 Commons_category: Oedipus
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Edipo.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IngresOdipusAndSphinx.jpg
@@ -41,8 +91,105 @@ Iconclass_notation: 94T
 EAGLE_id: decor/lod/221
 Libris_URI: jgvxx8323dl22xb
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/EDIP.html
+dv_has_:
+  name_:
+    af: Oidipus
+    ar: أوديب
+    as: ইডিপাছ
+    ast: Edipu
+    az: Edip
+    ba: Эдип
+    bar: Edipus
+    be: Эдып
+    be-tarask: Эдып
+    bg: Едип
+    bn: ইডিপাস
+    br: Oidipous
+    bs: Edip
+    ca: Èdip
+    cs: Oidipus
+    cy: Oidipos
+    da: Ødipus
+    de: Ödipus
+    el: Οιδίποδας
+    en: Oedipus
+    en-ca: Oedipus
+    en-gb: Oedipus
+    eo: Edipo
+    es: Edipo
+    et: Oidipus
+    eu: Edipo
+    fa: ادیپ
+    fi: Oidipus
+    fr: Œdipe
+    ga: Éideapús
+    gl: Edipo
+    grc: Οἰδίπους , Oidipūs
+    he: אדיפוס
+    hi: ईदिपस
+    hr: Edip
+    hu: Oidipusz
+    hy: Էդիպ
+    id: Oidipus
+    io: Edipo
+    is: Ödípús
+    it: Edipo
+    ja: オイディプース
+    ka: ოიდიპოსი
+    kn: ಈಡಿಪಸ್
+    ko: 오이디푸스
+    ku: Edîpos
+    ku-latn: Edîpos
+    la: Oedipus
+    lb: Ödipus
+    lt: Edipas
+    lv: Edips
+    mg: Œdipe
+    mk: Едип
+    ml: ഈഡിപ്പസ്
+    my: အီးဒစ်ပါ့စ်
+    nb: Oidipus
+    nl: Oedipus
+    nn: Ødipus
+    nrm: Œdipe
+    oc: Edip
+    pa: ਇਡੀਪਸ
+    pl: Edyp
+    pt: Édipo
+    pt-br: Édipo
+    ro: Oedip
+    ru: Эдип
+    scn: Edipu
+    sco: Oedipus
+    sh: Edip
+    si: ඊඩිපස්
+    sk: Oidipus
+    sl: Ojdip
+    sq: Edipi
+    sr: Едип
+    sr-ec: Едип
+    sr-el: Edip
+    sv: Oidipus
+    ta: இடிப்பஸ்
+    th: อีดิปัส
+    tl: Edipo
+    tr: Oedipus
+    uk: Едіп
+    ur: اڈیپس
+    uz: Edip
+    vi: Oedipus
+    war: Oedipus
+    wuu: 俄狄浦斯
+    yi: עדיפוס
+    yue: 伊底帕斯
+    zh: 俄狄浦斯
+    zh-cn: 俄狄浦斯
+    zh-hans: 俄狄浦斯
+    zh-hant: 俄狄浦斯
+    zh-hk: 伊底帕斯
+    zh-sg: 俄狄浦斯
+    zh-tw: 伊底帕斯
 ---
-
 # [[Oedipus]] 
 
 #is_/same_as :: [[WD~Oedipus,130890]] 

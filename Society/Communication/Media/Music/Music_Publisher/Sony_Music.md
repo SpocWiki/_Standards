@@ -1,9 +1,23 @@
 ---
-has_time_started: 1991-01-01 
+has_time_started: 1991-01-01
 aliases:
-  - Sony Music Entertainment
-  - Sony Music
-  - Sony_Music
+- Sony Music
+- Sony Music Entertainment
+- Sony_Music
+- Сони Мюзик
+- סוני מיוזיק
+- سوني ميوزيك
+- سونی میوزِک
+- سونی میوزک
+- سونی میوزیک
+- سۆنی میوزک
+- सोनी म्यूजिक एंटरटेनमेंट
+- সনি মিউজিক
+- സോണി മ്യൂസിക്
+- ဆိုနီ တေးဂီတ ဖျော်ဖြေရေး
+- ソニーミュージック
+- 索尼音樂
+- 소니 뮤직 엔터테인먼트
 has_id_wikidata: Q330629
 operating_area: '[[_Standards/WikiData/WD~worldwide,13780930]]'
 different_from: '[[_Standards/WikiData/WD~Sony_Music,56760250]]'
@@ -17,10 +31,91 @@ name: Sony Music
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sony%20Music%20Entertainment%20Logo%202023.svg
 official_website: http://www.sonymusic.com/
 X_Twitter_username:
-  - sonymusicglobal
-  - sonymusicsg
+- sonymusicglobal
+- sonymusicsg
+dv_has_:
+  name_:
+    an: Sony Music
+    ar: سوني ميوزيك
+    ast: Sony Music
+    az: Sony Music
+    azb: سونی میوزیک
+    be: Sony Music
+    bg: Сони Мюзик
+    bn: সনি মিউজিক
+    ca: Sony Music
+    ckb: سۆنی میوزک
+    cs: Sony Music
+    cy: Sony Music
+    da: Sony Music
+    de: Sony Music
+    el: Sony Music
+    en: Sony Music
+    es: Sony Music
+    es-419: Sony Music
+    et: Sony Music
+    eu: Sony Music
+    fa: سونی میوزیک
+    fi: Sony Music
+    fit: Sony Music
+    fr: Sony Music
+    ga: Sony Music
+    gd: Sony Music
+    gl: Sony Music
+    gv: Sony Music
+    he: סוני מיוזיק
+    hi: सोनी म्यूजिक एंटरटेनमेंट
+    hu: Sony Music
+    hy: Sony Music
+    id: Sony Music
+    it: Sony Music
+    ja: ソニーミュージック
+    ka: Sony Music
+    ko: 소니 뮤직 엔터테인먼트
+    ks: سونی میوزِک
+    lt: Sony Music
+    lv: Sony Music
+    ml: സോണി മ്യൂസിക്
+    ms: Sony Music
+    mul: Sony Music
+    my: ဆိုနီ တေးဂီတ ဖျော်ဖြေရေး
+    nan: Sony Music
+    nb: Sony Music
+    nl: Sony Music
+    nn: Sony Music
+    pl: Sony Music
+    pt: Sony Music
+    pt-br: Sony Music
+    rmf: Sony Music
+    ro: Sony Music
+    ru: Sony Music
+    sco: Sony Music
+    se: Sony Music
+    sje: Sony Music
+    sju: Sony Music
+    sk: Sony Music
+    sl: Sony Music
+    sma: Sony Music
+    smj: Sony Music
+    smn: Sony Music
+    sms: Sony Music
+    sr: Sony Music
+    sv: Sony Music
+    th: Sony Music
+    tr: Sony Music
+    uk: Sony Music
+    ur: سونی میوزک
+    vec: Sony Music
+    vi: Sony Music
+    wuu: 索尼音樂
+    zh: 索尼音樂
+    zh-cn: 索尼音樂
+    zh-hans: Sony Music
+    zh-hant: Sony Music
+    zh-hk: Sony Music
+    zh-sg: Sony Music
+    zh-tw: Sony Music
 ---
-
 # [[Sony_Music]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Sony_Music,330629]] 

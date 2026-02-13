@@ -1,80 +1,247 @@
 ---
-dv_is_a_: "[[../../../../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 171.3667
 dv_has_place_latitude: 7.116667
 dv_has_name: Majuro
-dv_has_place_country: "[[../../../Marshall_Islands]]"
+dv_has_place_country: '[[../../../Marshall_Islands]]'
 dv_is_:
   same_as:
-    - "[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]"
-    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]"
-    - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]]"
+  - '[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]'
+  - '[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]'
+  - '[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]"
-  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]"
-  - "[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]]"
-
+- '[[../../../../../../../WikiData/WD~Majuro,12919|WD~Majuro,12919]]'
+- '[[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro|Majuro]]'
+- '[[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.public|Majuro.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.internal|Majuro.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.protect|Majuro.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.private|Majuro.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.personal|Majuro.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain/Majuro.secret|Majuro.secret]]'
 aliases:
+- Dalap-Uliga-Darrit
+- i-Majuro
+- Macuro
+- Madžuro
+- Madžūras
+- Majouro
+- Majuro
+- Majuro atoll
+- Majuro Atoll (munisipyo)
+- Majuro-Atoll
+- Majúró
+- Mayuro
+- Mayuru
+- Māsulo
+- Ματζούρο
+- Маџуро
+- Маджура
+- Маджуро
+- Мадьуро
+- Мажeро
+- Маҷуро
+- Մաջուրո
+- מג'ורו
+- ماجورو
+- माजुरो
+- মাজুরো
+- ਮਾਜੁਰੋ
+- માજુરો
+- மாசூரோ
+- మాజురో
+- ಮಜುರೊ
+- മാജുറോ
+- මජුරෝ
+- มาจูโร
+- མ་ཇུ་རོ།
+- მაჯურო
+- ማጁሮ
+- ᱢᱟᱡᱩᱨᱚ
+- マジュロ
+- 馬久羅
+- 馬祖盧
+- 马朱罗
+- 마주로
 has_id_wikidata: Q12919
 confidential: public
 isDeleted: false
 location:
-  - 7.116667
-  - 171.3667
+- 7.116667
+- 171.3667
 mapmarker: city
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 SpocWebEntityId: 36749
 tags:
-  - geo/City
+- geo/City
 type: City
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Ratak_Chain,700048]]"
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Ratak_Chain,700048]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Majuro_Atoll,14523617]]"
-  - "[[_Standards/WikiData/WD~Majuro_Atoll,27577497]]"
+- '[[_Standards/WikiData/WD~Majuro_Atoll,14523617]]'
+- '[[_Standards/WikiData/WD~Majuro_Atoll,27577497]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Majuro_Atoll,27577497]]"
-  - "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q32755364,32755364]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q122792131,122792131]]"
+- '[[_Standards/WikiData/WD~Majuro_Atoll,27577497]]'
+- '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32755364,32755364]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q122792131,122792131]]'
 coordinate_location: Point(171.3802 7.0918)
 instance_of:
-  - "[[_Standards/WikiData/WD~city,515]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-capital_of: "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
-country: "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
+- '[[_Standards/WikiData/WD~city,515]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
+capital_of: '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
+country: '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Taipei,1867]]"
-  - "[[_Standards/WikiData/WD~Honolulu,18094]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~Taipei,1867]]'
+- '[[_Standards/WikiData/WD~Honolulu,18094]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 population: 30000
 elevation_above_sea_level: 3
 area: 9.7
-FIPS_6_4: "68190"
-OmegaWiki_Defined_Meaning: "812236"
+FIPS_6_4: 68190
+OmegaWiki_Defined_Meaning: 812236
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%AE%E0%A8%BE%E0%A8%9C%E0%A9%81%E0%A8%B0%E0%A9%8B.wav
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20Atoll%20Flag.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Majuro%20main%20road.jpg
 satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/Majuro%2C%20Marshal%20Islands%2C%20is%20at%20risk%20from%20sea-level%20rise%20ESA510403.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map-Marshall-Majuro.PNG
-U_S_National_Archives_Identifier: "10037105"
+U_S_National_Archives_Identifier: 10037105
 Commons_category: Majuro
 ISO_3166_2_code: MH-MAJ
 UN_LOCODE: MHMAJ
+dv_has_:
+  name_:
+    af: Majuro
+    am: ማጁሮ
+    ar: ماجورو
+    ary: ماجورو
+    ast: Mayuru
+    az: Macuro
+    ba: Маджуро
+    ban: Majuro
+    be: Маджура
+    be-tarask: Маджура
+    bg: Маджуро
+    bn: মাজুরো
+    bo: མ་ཇུ་རོ།
+    br: Majuro
+    bs: Majuro
+    ca: Majuro
+    cdo: Majuro
+    ceb: Majuro Atoll (munisipyo)
+    cs: Majuro
+    cy: Majuro
+    da: Majuro
+    de: Majuro
+    el: Ματζούρο
+    en: Majuro
+    en-ca: Majuro
+    en-gb: Majuro
+    eo: Majuro
+    es: Majuro
+    et: Majuro atoll
+    eu: Majuro
+    fa: ماجورو
+    fi: Majuro
+    fr: Majuro
+    frr: Majuro
+    fy: Majuro
+    ga: Majuro
+    gd: Majuro
+    gl: Majuro
+    gn: Majuro
+    gu: માજુરો
+    hak: Majuro
+    he: מג'ורו
+    hi: माजुरो
+    hif: Majuro
+    hr: Majuro
+    ht: Majouro
+    hu: Majuro
+    hy: Մաջուրո
+    id: Majuro
+    ie: Majuro
+    io: Majuro
+    is: Majúró
+    it: Majuro
+    ja: マジュロ
+    ka: მაჯურო
+    kk: Маджуро
+    kn: ಮಜುರೊ
+    ko: 마주로
+    ky: Мажeро
+    la: Majuro
+    lb: Majuro
+    lij: Majuro
+    lt: Madžūras
+    lv: Madžuro
+    min: Majuro
+    mk: Маџуро
+    ml: മാജുറോ
+    mr: माजुरो
+    ms: Majuro
+    nah: Mayuro
+    nan: Majuro
+    nb: Majuro
+    nds: Majuro-Atoll
+    nl: Majuro
+    nn: Majuro
+    ny: Majuro
+    oc: Majuro
+    os: Маджуро
+    pa: ਮਾਜੁਰੋ
+    pap: Majuro
+    pl: Majuro
+    ps: ماجورو
+    pt: Majuro
+    ro: Majuro
+    ru: Маджуро
+    rw: Majuro
+    sah: Мадьуро
+    sat: ᱢᱟᱡᱩᱨᱚ
+    sc: Majuro
+    sco: Majuro
+    sd: ماجورو
+    sh: Majuro
+    si: මජුරෝ
+    sk: Dalap-Uliga-Darrit
+    sl: Majuro
+    sn: Majuro
+    sq: Majuro
+    sr: Маџуро
+    sv: Majuro
+    sw: Majuro
+    szl: Majuro
+    ta: மாசூரோ
+    te: మాజురో
+    tg: Маҷуро
+    th: มาจูโร
+    tl: Majuro
+    to: Māsulo
+    tr: Majuro
+    tt: Маджуро
+    ty: Majuro
+    uk: Маджуро
+    ur: ماجورو
+    uz: Majuro
+    vep: Madžuro
+    vi: Majuro
+    war: Majuro
+    wuu: 马朱罗
+    xmf: მაჯურო
+    yue: 馬祖盧
+    zh: 馬久羅
+    zh-cn: 马朱罗
+    zh-hans: 马朱罗
+    zh-hant: 馬久羅
+    zu: i-Majuro
 ---
-
 # [[Majuro]] 
 
 

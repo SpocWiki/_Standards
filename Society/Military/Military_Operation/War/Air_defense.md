@@ -1,19 +1,142 @@
 ---
 aliases:
-  - Air_defense
-  - Air defense
+- aerdefendo
+- Air defense
+- Air_defense
+- Anti-aircraft warfare
+- Apărare antiaeriană
+- arma contraerea
+- Copiae contraëreae
+- defensa antiaèria
+- Defensa antiaérea
+- defesa antiaérea
+- Flugabwehr
+- gunna frithaerárthaí
+- Hava hücumundan müdafiə
+- hava savunması
+- Havo hujumidan mudofaa
+- Hegazkinen aurkako gerra
+- Ilmatorjunta
+- Lucha antiaeriana
+- luchtafweer
+- luftforsvar
+- luftvern
+- luftvärn
+- lutte antiaérienne
+- légvédelem
+- Obrona przeciwlotnicza
+- Patahanan udaro
+- Peperangan anti pesawat
+- pertahanan udara
+- pretgaisa aizsardzība
+- priešlėktuvinė gynyba
+- Protivvazduhoplovna odbrana
+- protivzdušná obrana
+- Protuzračna obrana
+- Vũ khí phòng không
+- zračna obramba
+- Õhutõrje
+- Аба чабуулуна каршы калкан
+- Зенитно оръдие
+- противваздухопловна одбрана
+- противвоздушна одбрана
+- противовоздушная оборона
+- протиповітряна оборона
+- супрацьпаветраная абарона
+- Әуе шабуылына қарсы қорғаныс күштері
+- Հակաօդային պաշտպանություն
+- נ"מ
+- بەرگریی ھەوایی
+- دفاع جوي
+- پدافند هوایی
+- हवाई सुरक्षा यंत्रणा
+- வானூர்தி எதிர்ப்புப் போர்
+- การสงครามต่อสู้อากาศยาน
+- 防空
+- 防空战
+- 防空戰
+- 防空武器
+- 방공
 has_id_wikidata: Q843941
 instance_of:
-  - "[[_Standards/WikiData/WD~branch_of_service,690109]]"
-  - "[[_Standards/WikiData/WD~military_branch,781132]]"
-  - "[[_Standards/WikiData/WD~defense,1985622]]"
-subclass_of: "[[_Standards/WikiData/WD~anti_aircraft_warfare,86739852]]"
+- '[[_Standards/WikiData/WD~branch_of_service,690109]]'
+- '[[_Standards/WikiData/WD~military_branch,781132]]'
+- '[[_Standards/WikiData/WD~defense,1985622]]'
+subclass_of: '[[_Standards/WikiData/WD~anti_aircraft_warfare,86739852]]'
 Commons_category: Anti-aircraft weapons
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bofors-aa-gun-algeria.jpg
-Dewey_Decimal_Classification: "355.422"
+Dewey_Decimal_Classification: 355.422
 Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/PROTIVOVOZDUSHNAYA_OBORONA.html
+dv_has_:
+  name_:
+    ar: دفاع جوي
+    ast: Defensa antiaérea
+    az: Hava hücumundan müdafiə
+    be: супрацьпаветраная абарона
+    be-tarask: супрацьпаветраная абарона
+    bg: Зенитно оръдие
+    ca: defensa antiaèria
+    ckb: بەرگریی ھەوایی
+    cs: protivzdušná obrana
+    da: luftforsvar
+    de: Flugabwehr
+    de-ch: Flugabwehr
+    en: air defense
+    en-ca: Anti-aircraft warfare
+    en-gb: anti-aircraft warfare
+    eo: aerdefendo
+    es: defensa antiaérea
+    et: Õhutõrje
+    eu: Hegazkinen aurkako gerra
+    fa: پدافند هوایی
+    fi: Ilmatorjunta
+    fr: lutte antiaérienne
+    ga: gunna frithaerárthaí
+    gl: Defensa antiaérea
+    he: נ"מ
+    hr: Protuzračna obrana
+    hu: légvédelem
+    hy: Հակաօդային պաշտպանություն
+    id: pertahanan udara
+    it: arma contraerea
+    ja: 防空
+    kk: Әуе шабуылына қарсы қорғаныс күштері
+    ko: 방공
+    ky: Аба чабуулуна каршы калкан
+    la: Copiae contraëreae
+    lt: priešlėktuvinė gynyba
+    lv: pretgaisa aizsardzība
+    min: Patahanan udaro
+    mk: противвоздушна одбрана
+    mr: हवाई सुरक्षा यंत्रणा
+    ms: Peperangan anti pesawat
+    nb: luftvern
+    nl: luchtafweer
+    nn: luftvern
+    oc: Lucha antiaeriana
+    pl: Obrona przeciwlotnicza
+    pt: defesa antiaérea
+    pt-br: Defesa antiaérea
+    ro: Apărare antiaeriană
+    ru: противовоздушная оборона
+    sk: Protivzdušná obrana
+    sl: zračna obramba
+    sr: противваздухопловна одбрана
+    sr-ec: противваздухопловна одбрана
+    sr-el: Protivvazduhoplovna odbrana
+    sv: luftvärn
+    ta: வானூர்தி எதிர்ப்புப் போர்
+    th: การสงครามต่อสู้อากาศยาน
+    tr: hava savunması
+    uk: протиповітряна оборона
+    uz: Havo hujumidan mudofaa
+    vi: Vũ khí phòng không
+    yue: 防空武器
+    zh: 防空战
+    zh-hans: 防空战
+    zh-hant: 防空戰
+    zh-hk: 防空戰
 ---
-
 # [[Air_defense]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Air_defense,843941]] 

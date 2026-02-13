@@ -1,120 +1,171 @@
 ---
 aliases:
-  - Richard Saunders
-  - Benjamin Franklin
-  - Franklin,Benjamin
+- Bencamin Franklin
+- Bendžamins Franklins
+- Beniaminus Franklinius
+- Benjamin Franklin
+- Benjamnin Franklin
+- Bnyamin Frankliyn
+- Franklin,Benjamin
+- Franklini Benjamin
+- jan Pensamin Pankin
+- Richard Saunders
+- Βενιαμίν Φραγκλίνος
+- Бенџамин Френклин
+- Бенджамін Франклін
+- Бенджамин Франклин
+- Бенжамин Франклин
+- Бенҷамин Франклин
+- Бэнджамін Франклін
+- Франклин Бенджамин
+- Франклин Бенжамин
+- Франклин, Бенџьамин
+- Բենջամին Ֆրանկլին
+- Պենճամին Ֆրանքլին
+- בנג'מין פרנקלין
+- בענדזשאמין פרענקלין
+- بنجامين فرانكلين
+- بنجامين فرانکلين
+- بنجامین فرانکلین
+- بنجمن فرینکلن
+- بينچامين فرانكلين
+- بێنجامین فرانکلین
+- बेंजामिन फ्रँकलिन
+- बेंजामिन फ्रैंकलिन
+- बेन्जामिन फ्र्याङ्कलिन
+- বেঞ্জামিন ফ্রাঙ্কলিন
+- বেঞ্জামিন ফ্ৰেংকলিন
+- ਬੈਂਜਾਮਿਨ ਫ਼ਰੈਂਕਲਿਨ
+- பெஞ்சமின் பிராங்கிளின்
+- బెంజమిన్ ఫ్రాంక్లిన్
+- ಬೆಂಜಮಿನ್ ಫ್ರ್ಯಾಂಕ್ಲಿನ್
+- ബെഞ്ചമിൻ ഫ്രാങ്ക്ലിൻ
+- බෙන්ජමින් ෆ්රැන්ක්ලින්
+- เบนจามิน แฟรงคลิน
+- ເບັນຈາມິນ ແຟຣງຄລິນ
+- ဘင်ဂျမင် ဖရန်ကလင်
+- ბენჯამინ ფრანკლინი
+- ቤንጃሚን ፍራንክሊን
+- ベンジャミン・フランクリン
+- 富蘭克林
+- 本傑明·富蘭克林
+- 本杰明·富兰克林
+- 本杰明·法兰克林
+- 班傑明·富蘭克林
+- 班哲文·富蘭克林
+- 벤저민 프랭클린
 has_id_wikidata: Q34969
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~diplomat,193391]]"
-  - "[[_Standards/WikiData/WD~polymath,270141]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- '[[_Standards/WikiData/WD~polymath,270141]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Royal_Society,123885]]"
-  - "[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]"
-  - "[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]"
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]"
-  - "[[_Standards/WikiData/WD~Pennsylvania_Abolition_Society,3374773]]"
-  - "[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]"
-  - "[[_Standards/WikiData/WD~Société_d'agriculture_de_Paris,26721351]]"
-  - "[[_Standards/WikiData/WD~freemasonry,41726]]"
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Göttingen_Academy_of_Sciences_and_Humanities_in_Lower_Saxony,414188]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Pennsylvania_Abolition_Society,3374773]]'
+- '[[_Standards/WikiData/WD~Accademia_Nazionale_delle_Scienze_detta_dei_XL,3603946]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- "[[_Standards/WikiData/WD~Société_d'agriculture_de_Paris,26721351]]"
+- '[[_Standards/WikiData/WD~freemasonry,41726]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~British_America,258532]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~British_America,258532]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~The_American_Portrait_Gallery,116505765]]"
-  - "[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]"
-  - "[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
-  - "[[_Standards/WikiData/WD~Philadephia_Three_Centuries_of_American_Art,135012396]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_American_Library_Biography,31790728]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~A_New_Nation_Votes_American_Electoral_Returns,_1788_1825,104218168]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~The_American_Portrait_Gallery,116505765]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Eminent_Librarians,118289003]]'
+- '[[_Standards/WikiData/WD~Physicists_Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Philadephia_Three_Centuries_of_American_Art,135012396]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~deism,620629]]"
+- '[[_Standards/WikiData/WD~deism,620629]]'
 has_works_in_the_collection:
-  - "[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]"
-Y_DNA_Haplogroup: "[[_Standards/WikiData/WD~Haplogroup_V,1458022]]"
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+Y_DNA_Haplogroup: '[[_Standards/WikiData/WD~Haplogroup_V,1458022]]'
 position_held:
-  - "[[_Standards/WikiData/WD~United_States_Postmaster_General,1753094]]"
-  - "[[_Standards/WikiData/WD~Speaker_of_the_Pennsylvania_House_of_Representatives,7574307]]"
-  - "[[_Standards/WikiData/WD~United_States_Ambassador_to_Sweden,7889384]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Pennsylvania_House_of_Representatives,14616716]]"
-  - "[[_Standards/WikiData/WD~President_of_the_Supreme_Executive_Council_of_Pennsylvania,47483036]]"
-  - "[[_Standards/WikiData/WD~United_States_Ambassador_to_France,106090755]]"
-  - "[[_Standards/WikiData/WD~Delegate_to_the_United_States_Constitutional_Convention,127639560]]"
-father: "[[_Standards/WikiData/WD~Josiah_Franklin,2112630]]"
+- '[[_Standards/WikiData/WD~United_States_Postmaster_General,1753094]]'
+- '[[_Standards/WikiData/WD~Speaker_of_the_Pennsylvania_House_of_Representatives,7574307]]'
+- '[[_Standards/WikiData/WD~United_States_Ambassador_to_Sweden,7889384]]'
+- '[[_Standards/WikiData/WD~member_of_the_Pennsylvania_House_of_Representatives,14616716]]'
+- '[[_Standards/WikiData/WD~President_of_the_Supreme_Executive_Council_of_Pennsylvania,47483036]]'
+- '[[_Standards/WikiData/WD~United_States_Ambassador_to_France,106090755]]'
+- '[[_Standards/WikiData/WD~Delegate_to_the_United_States_Constitutional_Convention,127639560]]'
+father: '[[_Standards/WikiData/WD~Josiah_Franklin,2112630]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Benjamin,2424149]]"
-family_name: "[[_Standards/WikiData/WD~Franklin,2696075]]"
-spouse: "[[_Standards/WikiData/WD~Deborah_Read_Franklin,3020859]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
+- '[[_Standards/WikiData/WD~Benjamin,2424149]]'
+family_name: '[[_Standards/WikiData/WD~Franklin,2696075]]'
+spouse: '[[_Standards/WikiData/WD~Deborah_Read_Franklin,3020859]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 child:
-  - "[[_Standards/WikiData/WD~William_Franklin,4020008]]"
-  - "[[_Standards/WikiData/WD~Sarah_Franklin,7422311]]"
-  - "[[_Standards/WikiData/WD~Francis_Folger_Franklin,15053816]]"
+- '[[_Standards/WikiData/WD~William_Franklin,4020008]]'
+- '[[_Standards/WikiData/WD~Sarah_Franklin,7422311]]'
+- '[[_Standards/WikiData/WD~Francis_Folger_Franklin,15053816]]'
 relative:
-  - "[[_Standards/WikiData/WD~Ann_Smith_Franklin,4766680]]"
-place_of_burial: "[[_Standards/WikiData/WD~Christ_Church_Burial_Ground,5108770]]"
+- '[[_Standards/WikiData/WD~Ann_Smith_Franklin,4766680]]'
+place_of_burial: '[[_Standards/WikiData/WD~Christ_Church_Burial_Ground,5108770]]'
 sibling:
-  - "[[_Standards/WikiData/WD~James_Franklin,6134188]]"
-  - "[[_Standards/WikiData/WD~Jane_Franklin_Mecom,6152559]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-social_classification: "[[_Standards/WikiData/WD~slave_owner,10076267]]"
+- '[[_Standards/WikiData/WD~James_Franklin,6134188]]'
+- '[[_Standards/WikiData/WD~Jane_Franklin_Mecom,6152559]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+social_classification: '[[_Standards/WikiData/WD~slave_owner,10076267]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Franklin%201.ogg
-depicted_by: "[[_Standards/WikiData/WD~Benjamin_Franklin,28796839]]"
+depicted_by: '[[_Standards/WikiData/WD~Benjamin_Franklin,28796839]]'
 award_received:
-  - "[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_St_Andrews,40683907]]"
-  - "[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]"
-mother: "[[_Standards/WikiData/WD~Abiah_Folger,62571435]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_St_Andrews,40683907]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+mother: '[[_Standards/WikiData/WD~Abiah_Folger,62571435]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_birth: 1706-01-17T00:00:00Z
 field_of_work:
-  - "[[_Standards/WikiData/WD~physics,413]]"
-sport: "[[_Standards/WikiData/WD~chess,718]]"
-place_of_death: "[[_Standards/WikiData/WD~Philadelphia,1345]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
+- '[[_Standards/WikiData/WD~physics,413]]'
+sport: '[[_Standards/WikiData/WD~chess,718]]'
+place_of_death: '[[_Standards/WikiData/WD~Philadelphia,1345]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-place_of_birth: "[[_Standards/WikiData/WD~Boston,100]]"
-employer: "[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]"
+- '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_birth: '[[_Standards/WikiData/WD~Boston,100]]'
+employer: '[[_Standards/WikiData/WD~University_of_Pennsylvania,49117]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Boston_Latin_School,49129]]"
-cause_of_death: "[[_Standards/WikiData/WD~pleurisy,55998]]"
+- '[[_Standards/WikiData/WD~Boston_Latin_School,49129]]'
+cause_of_death: '[[_Standards/WikiData/WD~pleurisy,55998]]'
 Commons_Creator_page: Benjamin Franklin
 Commons_gallery: Benjamin Franklin
 Commons_category: Benjamin Franklin
 BHCL_UUID: ff88cfd7-aed9-4184-90c4-b7dad328d229
 name_in_native_language: Benjamin Franklin
 pseudonym:
-  - Richard Saunders
-  - Poor Richard
-  - Silence Dogood
+- Richard Saunders
+- Poor Richard
+- Silence Dogood
 U_S_National_Archives_Identifier: 10580588
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joseph%20Siffrein%20Duplessis%20-%20Benjamin%20Franklin%20-%20Google%20Art%20Project.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Benjamin%20Franklin%20Signature.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Benjamin%20Franklin.svg
 National_Governors_Association_biography_URL: https://www.nga.org/governor/benjamin-franklin/
 ISNI:
-  - 121339941
+- 121339941
 NLC_authorities: 139956
 Provenio_UUID: 41242fe0-54cd-492a-8ba6-0013ca718c18
 P8189: 987007261487405200
@@ -123,35 +174,193 @@ Krugosvet_article: nauka_i_tehnika/fizika/FRANKLIN_BENDZHAMIN.html
 Libris_URI: vs684dgd5n51046
 date_of_death: 1790-04-17T00:00:00Z
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=316035719
-  - http://www.digiporta.net/index.php?id=624324504
-  - http://www.digiporta.net/index.php?id=106489545
-  - http://www.digiporta.net/index.php?id=887238937
-  - http://www.digiporta.net/index.php?id=379474907
-  - http://www.digiporta.net/index.php?id=455106256
-  - http://www.digiporta.net/index.php?id=377317573
-  - http://www.digiporta.net/index.php?id=435798724
-  - http://www.digiporta.net/index.php?id=316231674
-  - http://www.digiporta.net/index.php?id=356027158
+- http://www.digiporta.net/index.php?id=316035719
+- http://www.digiporta.net/index.php?id=624324504
+- http://www.digiporta.net/index.php?id=106489545
+- http://www.digiporta.net/index.php?id=887238937
+- http://www.digiporta.net/index.php?id=379474907
+- http://www.digiporta.net/index.php?id=455106256
+- http://www.digiporta.net/index.php?id=377317573
+- http://www.digiporta.net/index.php?id=435798724
+- http://www.digiporta.net/index.php?id=316231674
+- http://www.digiporta.net/index.php?id=356027158
 dv_is_:
   same_as:
-    - "[[../../../../_Standards/WikiData/WD~Benjamin_Franklin,34969|WD~Benjamin_Franklin,34969]]"
-    - "[[/_Standards/Earth/Continent/America~North/Franklin,Benjamin|Franklin,Benjamin]]"
-    - "[[/_public/Earth/Continent/America~North/Franklin,Benjamin.public|Franklin,Benjamin.public]]"
-    - "[[/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal|Franklin,Benjamin.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect|Franklin,Benjamin.protect]]"
-    - "[[/_private/Earth/Continent/America~North/Franklin,Benjamin.private|Franklin,Benjamin.private]]"
-    - "[[/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal|Franklin,Benjamin.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret|Franklin,Benjamin.secret]]"
+  - '[[../../../../_Standards/WikiData/WD~Benjamin_Franklin,34969|WD~Benjamin_Franklin,34969]]'
+  - '[[/_Standards/Earth/Continent/America~North/Franklin,Benjamin|Franklin,Benjamin]]'
+  - '[[/_public/Earth/Continent/America~North/Franklin,Benjamin.public|Franklin,Benjamin.public]]'
+  - '[[/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal|Franklin,Benjamin.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect|Franklin,Benjamin.protect]]'
+  - '[[/_private/Earth/Continent/America~North/Franklin,Benjamin.private|Franklin,Benjamin.private]]'
+  - '[[/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal|Franklin,Benjamin.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret|Franklin,Benjamin.secret]]'
 dv_is_same_as:
-  - "[[../../../../_Standards/WikiData/WD~Benjamin_Franklin,34969|WD~Benjamin_Franklin,34969]]"
-  - "[[/_Standards/Earth/Continent/America~North/Franklin,Benjamin|Franklin,Benjamin]]"
-  - "[[/_public/Earth/Continent/America~North/Franklin,Benjamin.public|Franklin,Benjamin.public]]"
-  - "[[/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal|Franklin,Benjamin.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect|Franklin,Benjamin.protect]]"
-  - "[[/_private/Earth/Continent/America~North/Franklin,Benjamin.private|Franklin,Benjamin.private]]"
-  - "[[/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal|Franklin,Benjamin.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret|Franklin,Benjamin.secret]]"
+- '[[../../../../_Standards/WikiData/WD~Benjamin_Franklin,34969|WD~Benjamin_Franklin,34969]]'
+- '[[/_Standards/Earth/Continent/America~North/Franklin,Benjamin|Franklin,Benjamin]]'
+- '[[/_public/Earth/Continent/America~North/Franklin,Benjamin.public|Franklin,Benjamin.public]]'
+- '[[/_internal/Earth/Continent/America~North/Franklin,Benjamin.internal|Franklin,Benjamin.internal]]'
+- '[[/_protect/Earth/Continent/America~North/Franklin,Benjamin.protect|Franklin,Benjamin.protect]]'
+- '[[/_private/Earth/Continent/America~North/Franklin,Benjamin.private|Franklin,Benjamin.private]]'
+- '[[/_personal/Earth/Continent/America~North/Franklin,Benjamin.personal|Franklin,Benjamin.personal]]'
+- '[[/_secret/Earth/Continent/America~North/Franklin,Benjamin.secret|Franklin,Benjamin.secret]]'
+dv_has_:
+  name_:
+    ab: Франклин, Бенџьамин
+    af: Benjamin Franklin
+    am: ቤንጃሚን ፍራንክሊን
+    an: Benjamin Franklin
+    ang: Benjamin Franklin
+    ar: بنجامين فرانكلين
+    arz: بينچامين فرانكلين
+    as: বেঞ্জামিন ফ্ৰেংকলিন
+    ast: Benjamin Franklin
+    ay: Benjamin Franklin
+    az: Bencamin Franklin
+    azb: بنجامین فرانکلین
+    ba: Бенджамин Франклин
+    be: Бенджамін Франклін
+    be-tarask: Бэнджамін Франклін
+    bg: Бенджамин Франклин
+    bi: Benjamin Franklin
+    bn: বেঞ্জামিন ফ্রাঙ্কলিন
+    br: Benjamin Franklin
+    bs: Benjamin Franklin
+    ca: Benjamin Franklin
+    cdo: Benjamin Franklin
+    ceb: Benjamin Franklin
+    ckb: بێنجامین فرانکلین
+    cs: Benjamin Franklin
+    csb: Benjamin Franklin
+    cv: Франклин Бенджамин
+    cy: Benjamin Franklin
+    da: Benjamin Franklin
+    dag: Benjamin Franklin
+    de: Benjamin Franklin
+    de-ch: Benjamin Franklin
+    diq: Benjamin Franklin
+    el: Βενιαμίν Φραγκλίνος
+    en: Benjamin Franklin
+    en-ca: Benjamin Franklin
+    en-gb: Benjamin Franklin
+    eo: Benjamin Franklin
+    es: Benjamin Franklin
+    et: Benjamin Franklin
+    eu: Benjamin Franklin
+    ext: Benjamin Franklin
+    fa: بنجامین فرانکلین
+    fi: Benjamin Franklin
+    fr: Benjamin Franklin
+    frp: Benjamin Franklin
+    fy: Benjamin Franklin
+    ga: Benjamin Franklin
+    gcr: Benjamin Franklin
+    gl: Benjamin Franklin
+    gn: Benjamin Franklin
+    gsw: Benjamin Franklin
+    guw: Benjamin Franklin
+    hak: Benjamin Franklin
+    he: בנג'מין פרנקלין
+    hi: बेंजामिन फ्रैंकलिन
+    hr: Benjamin Franklin
+    ht: Benjamin Franklin
+    hu: Benjamin Franklin
+    hy: Բենջամին Ֆրանկլին
+    hyw: Պենճամին Ֆրանքլին
+    ia: Benjamin Franklin
+    id: Benjamin Franklin
+    io: Benjamin Franklin
+    is: Benjamin Franklin
+    it: Benjamin Franklin
+    ja: ベンジャミン・フランクリン
+    jv: Benjamin Franklin
+    ka: ბენჯამინ ფრანკლინი
+    kaa: Benjamin Franklin
+    kk: Франклин Бенджамин
+    kn: ಬೆಂಜಮಿನ್ ಫ್ರ್ಯಾಂಕ್ಲಿನ್
+    ko: 벤저민 프랭클린
+    ku: Benjamin Franklin
+    ky: Франклин Бенжамин
+    la: Beniaminus Franklinius
+    lb: Benjamin Franklin
+    li: Benjamin Franklin
+    lmo: Benjamin Franklin
+    lo: ເບັນຈາມິນ ແຟຣງຄລິນ
+    lt: Benjamin Franklin
+    lv: Bendžamins Franklins
+    lzh: 本傑明·富蘭克林
+    mg: Benjamin Franklin
+    mk: Бенџамин Френклин
+    ml: ബെഞ്ചമിൻ ഫ്രാങ്ക്ലിൻ
+    mn: Бенжамин Франклин
+    mr: बेंजामिन फ्रँकलिन
+    ms: Benjamin Franklin
+    mul: Benjamin Franklin
+    my: ဘင်ဂျမင် ဖရန်ကလင်
+    mzn: بنجامین فرانکلین
+    nan: Benjamin Franklin
+    nb: Benjamin Franklin
+    nds: Benjamin Franklin
+    nds-nl: Benjamin Franklin
+    ne: बेन्जामिन फ्र्याङ्कलिन
+    new: बेन्जामिन फ्र्याङ्कलिन
+    nl: Benjamin Franklin
+    nn: Benjamin Franklin
+    oc: Benjamin Franklin
+    pa: ਬੈਂਜਾਮਿਨ ਫ਼ਰੈਂਕਲਿਨ
+    pam: Benjamin Franklin
+    pap: Benjamin Franklin
+    pdc: Benjamin Franklin
+    pl: Benjamin Franklin
+    pms: Benjamin Franklin
+    pnb: بنجمن فرینکلن
+    ps: بنجامين فرانکلين
+    pt: Benjamin Franklin
+    pt-br: Benjamin Franklin
+    qu: Benjamin Franklin
+    ro: Benjamin Franklin
+    ru: Бенджамин Франклин
+    sa: बेंजामिन फ्रैंकलिन
+    sco: Benjamin Franklin
+    sh: Benjamin Franklin
+    shi: Bnyamin Frankliyn
+    si: බෙන්ජමින් ෆ්රැන්ක්ලින්
+    sk: Benjamin Franklin
+    sl: Benjamin Franklin
+    sq: Benjamin Franklin
+    sr: Бенџамин Френклин
+    sr-ec: Бенџамин Френклин
+    sv: Benjamin Franklin
+    sw: Benjamin Franklin
+    ta: பெஞ்சமின் பிராங்கிளின்
+    te: బెంజమిన్ ఫ్రాంక్లిన్
+    tg: Бенҷамин Франклин
+    th: เบนจามิน แฟรงคลิน
+    tk: Benjamin Franklin
+    tl: Benjamin Franklin
+    tly: Benjamnin Franklin
+    tok: jan Pensamin Pankin
+    tr: Benjamin Franklin
+    tt: Бенджамин Франклин
+    uk: Бенджамін Франклін
+    ur: بنجمن فرینکلن
+    uz: Benjamin Franklin
+    vec: Benjamin Franklin
+    vi: Benjamin Franklin
+    vo: Benjamin Franklin
+    vro: Franklini Benjamin
+    wa: Benjamin Franklin
+    war: Benjamin Franklin
+    wuu: 本杰明·法兰克林
+    xh: Benjamin Franklin
+    xmf: ბენჯამინ ფრანკლინი
+    yi: בענדזשאמין פרענקלין
+    yo: Benjamin Franklin
+    yue: 富蘭克林
+    za: Benjamin Franklin
+    zh: 本傑明·富蘭克林
+    zh-cn: 本杰明·富兰克林
+    zh-hant: 班傑明·富蘭克林
+    zh-hk: 班哲文·富蘭克林
 ---
 # [[Franklin,Benjamin]] 
 

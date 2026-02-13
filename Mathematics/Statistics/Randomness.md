@@ -1,4 +1,129 @@
-
+---
+has_id_wikidata: Q176640
+dv_has_:
+  name_:
+    af: Lukraak
+    ar: عشوائية
+    az: Təsadüf
+    be: выпадковасць
+    be-tarask: выпадковасьць
+    bg: Случайност
+    br: chañs
+    ca: aleatorietat
+    ckb: ھەڕەمەکیبوون
+    cs: náhodnost
+    cv: Ăнсăртлăх
+    cy: hap
+    da: tilfældighed
+    de: Zufälligkeit
+    el: τυχαιότητα
+    en: randomness
+    eo: hazardeco
+    es: aleatoriedad
+    et: Juhuslikkus
+    eu: Zori
+    fa: اعداد تصادفی
+    fi: satunnaisuus
+    fr: hasard
+    ga: randamacht
+    gl: Aleatorio
+    he: אקראיות
+    hi: यादृच्छिकता
+    hr: Slučajnost
+    hu: véletlen
+    id: Keacakan
+    it: aleatorietà
+    ja: ランダム
+    ko: 무작위
+    la: Fors
+    lt: atsitiktinumas
+    lv: nejaušība
+    mg: Kisendrasendra
+    mk: случајност
+    mn: Санамсаргүй
+    ms: rawak
+    nan: Sûi-chāi-sèng
+    nb: tilfeldighet
+    nl: toeval
+    pl: losowość
+    pt: aleatoriedade
+    ro: aleatoriu
+    ru: случайность
+    sk: náhodnosť
+    sl: naključnost
+    sq: Rastësia
+    sr: присутност случајности
+    sv: slump
+    tl: Pagkaalisaga
+    tok: ken nasa
+    tr: rasgelelik
+    uk: випадковість
+    vi: ngẫu nhiên
+    yue: 隨機性
+    zh: 随机
+    zh-hant: 隨機性
+    zh-tw: 隨機性
+aliases:
+- aleatoriedad
+- aleatoriedade
+- aleatorietat
+- aleatorietà
+- Aleatorio
+- aleatoriu
+- atsitiktinumas
+- chañs
+- Fors
+- hap
+- hasard
+- hazardeco
+- Juhuslikkus
+- Keacakan
+- ken nasa
+- Kisendrasendra
+- losowość
+- Lukraak
+- naključnost
+- nejaušība
+- ngẫu nhiên
+- náhodnost
+- náhodnosť
+- Pagkaalisaga
+- randamacht
+- randomness
+- rasgelelik
+- Rastësia
+- rawak
+- satunnaisuus
+- slump
+- Slučajnost
+- Sûi-chāi-sèng
+- tilfeldighet
+- tilfældighed
+- toeval
+- Təsadüf
+- véletlen
+- Zori
+- Zufälligkeit
+- Ăнсăртлăх
+- τυχαιότητα
+- випадковість
+- выпадковасць
+- выпадковасьць
+- присутност случајности
+- Санамсаргүй
+- случајност
+- Случайност
+- случайность
+- אקראיות
+- اعداد تصادفی
+- عشوائية
+- ھەڕەمەکیبوون
+- यादृच्छिकता
+- ランダム
+- 随机
+- 隨機性
+- 무작위
+---
 # [[Randomness]]
 
 

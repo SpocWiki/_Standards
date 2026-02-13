@@ -1,9 +1,92 @@
 ---
 aliases:
-  - Sirenidae
+- Armmolche
+- Armpadde
+- Armpadder
+- Jáádchʼį́dí
+- mutaliskot
+- Sirenedoj
+- Sirenen
+- Sirenidae
+- Sirenoideos
+- Sirènid
+- Surýnovití
+- Syrenowate
+- sziréngőtefélék
+- Tandlösa gälsalamandrar
+- сірэнавыя
+- сиренові
+- сиренови
+- сиреновые
+- סירניים
+- سمندرهای بیپا
+- صفاريات
+- ไซเรน
+- სირენისებრნი
+- サイレン科
+- 鰻螈亞目
+- 鰻螈科
+- 鳗螈科
+- 사이렌과
 title: Sirenidae
+has_id_wikidata: Q240755
+dv_has_:
+  name_:
+    an: Sirenidae
+    ar: صفاريات
+    arz: صفاريات
+    ast: Sirenidae
+    be: сірэнавыя
+    bg: сиренови
+    ca: Sirènid
+    ceb: Sirenidae
+    cs: Surýnovití
+    da: Armpadde
+    de: Armmolche
+    en: Sirenidae
+    eo: Sirenedoj
+    es: Sirenidae
+    eu: Sirenidae
+    ext: Sirenidae
+    fa: سمندرهای بیپا
+    fi: mutaliskot
+    fr: Sirenidae
+    ga: Sirenidae
+    gl: Sirenoideos
+    he: סירניים
+    hu: sziréngőtefélék
+    ia: Sirenidae
+    id: Sirenidae
+    ie: Sirenidae
+    io: Sirenidae
+    it: Sirenidae
+    ja: サイレン科
+    ka: სირენისებრნი
+    ko: 사이렌과
+    la: Sirenidae
+    mul: Sirenidae
+    nb: Armpadder
+    nl: Sirenen
+    nv: Jáádchʼį́dí
+    oc: Sirenidae
+    pl: Syrenowate
+    pt: Sirenidae
+    pt-br: Sirenidae
+    ro: Sirenidae
+    ru: сиреновые
+    sq: Sirenidae
+    sv: Tandlösa gälsalamandrar
+    th: ไซเรน
+    tr: Sirenidae
+    uk: сиренові
+    vi: Sirenidae
+    vo: Sirenidae
+    war: Sirenidae
+    zh: 鰻螈亞目
+    zh-cn: 鳗螈科
+    zh-hans: 鳗螈科
+    zh-hant: 鰻螈科
 ---
-
 # Sirenidae
 
 Sirens 

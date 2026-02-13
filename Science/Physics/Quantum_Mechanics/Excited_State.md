@@ -1,19 +1,120 @@
 ---
 aliases:
-  - excited state
-  - Anregung
-  - Angeregter Zustand
-  - Excited_State
-  - Excited State
+- aangeslagen toestand
+- Angeregter Zustand
+- Anregung
+- eccitazione
+- egoera kitzikatu
+- ekscitita stato
+- Eksitasi
+- eksitasjon
+- Ergastatud olek
+- estado excitado
+- estat excitat
+- Estáu escitáu
+- excitation
+- excited state
+- Excited_State
+- Exciteret tilstand
+- Excitovaný stav
+- Excitácia
+- gerjesztett állapot
+- ierosināts stāvoklis
+- nenzenkai
+- staid flosctha
+- Stan wzbudzony
+- stare excitată
+- Sužadinta būsena
+- Trạng thái kích thích
+- Uyarılmış durum
+- viritystila
+- vzbujeno stanje
+- état excité
+- Διεγερμένη κατάσταση
+- возбудена состојба
+- возбуждение
+- Възбудено състояние на атома
+- Збуджений стан квантовомеханічної системи
+- Пăлхану (физика)
+- Побуђено стање
+- стан узбуджэньня
+- Գրգռում
+- מצב מעורר
+- حالة مثارة
+- حالت برانگیخته
+- উত্তেজিত দশা
+- கிளா்ச்சியுற்ற நிலை
+- 励起状態
+- 激发态
+- 激發態
+- 들뜬 상태
 has_id_wikidata: Q215328
 instance_of: '[[_Standards/WikiData/WD~energy_level,669532]]'
 facet_of: '[[_Standards/WikiData/WD~excitation,108898119]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~excited_state_chemistry,113207671]]'
-  - '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
+- '[[_Standards/WikiData/WD~excited_state_chemistry,113207671]]'
+- '[[_Standards/WikiData/WD~quantum_mechanics,944]]'
 IEV_number: 113-06-09
+dv_has_:
+  name_:
+    ar: حالة مثارة
+    ast: Estáu escitáu
+    be-tarask: стан узбуджэньня
+    bg: Възбудено състояние на атома
+    bn: উত্তেজিত দশা
+    ca: estat excitat
+    cs: Excitovaný stav
+    cv: Пăлхану (физика)
+    da: Exciteret tilstand
+    de: angeregter Zustand
+    el: Διεγερμένη κατάσταση
+    en: excited state
+    en-ca: Excited state
+    en-gb: Excited state
+    eo: ekscitita stato
+    es: estado excitado
+    et: Ergastatud olek
+    eu: egoera kitzikatu
+    fa: حالت برانگیخته
+    fi: viritystila
+    fr: état excité
+    ga: staid flosctha
+    he: מצב מעורר
+    hu: gerjesztett állapot
+    hy: Գրգռում
+    id: Eksitasi
+    it: eccitazione
+    ja: 励起状態
+    jbo: nenzenkai
+    ko: 들뜬 상태
+    lt: Sužadinta būsena
+    lv: ierosināts stāvoklis
+    mk: возбудена состојба
+    nb: eksitasjon
+    nl: aangeslagen toestand
+    nn: eksitasjon
+    pl: Stan wzbudzony
+    pt: estado excitado
+    pt-br: Estado excitado
+    ro: stare excitată
+    ru: возбуждение
+    sk: Excitácia
+    sl: vzbujeno stanje
+    sr: Побуђено стање
+    sv: excitation
+    ta: கிளா்ச்சியுற்ற நிலை
+    tr: Uyarılmış durum
+    uk: Збуджений стан квантовомеханічної системи
+    vi: Trạng thái kích thích
+    yue: 激發態
+    zh: 激发态
+    zh-cn: 激发态
+    zh-hans: 激发态
+    zh-hant: 激發態
+    zh-hk: 激發態
+    zh-sg: 激发态
+    zh-tw: 激發態
 ---
-
 # [[Excited_State]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Excited_state,215328|WD~Excited_state,215328]] 

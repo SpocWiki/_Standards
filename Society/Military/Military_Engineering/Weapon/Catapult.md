@@ -1,19 +1,51 @@
 ---
 aliases:
-  - Katapult
-  - Catapult
+- Catapult
+- catapulta
+- catapulte
+- catapultă
+- hajítógép
+- katapel tempur
+- Katapult
+- katapulta
+- katapulto
+- katapultti
+- kiviheitemasin
+- mancınık
+- máy bắn đá
+- rhekeni
+- taaya
+- valslöngva
+- καταπάλτης
+- καταπέλτης
+- катапулт
+- катапульта
+- манҷаниқ
+- բաբան
+- קטפולטה
+- منجنيق
+- منجنیق
+- अवक्षेपक
+- ಕವಣೆ
+- แคทะพัลต์
+- კატაპულტი
+- カタパルト
+- 投石机
+- 投石機
+- 砲
+- 투석기
 has_id_wikidata: Q184393
 subclass_of:
-  - '[[_Standards/WikiData/WD~cold_weapon,222405]]'
-  - '[[_Standards/WikiData/WD~siege_engine,655697]]'
-  - '[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]'
+- '[[_Standards/WikiData/WD~cold_weapon,222405]]'
+- '[[_Standards/WikiData/WD~siege_engine,655697]]'
+- '[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Katapult,1176462]]'
-  - '[[_Standards/WikiData/WD~euthytone,16332184]]'
+- '[[_Standards/WikiData/WD~Katapult,1176462]]'
+- '[[_Standards/WikiData/WD~euthytone,16332184]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 Nomenclature_for_Museum_Cataloging: 8336
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Replica%20catapult.jpg
@@ -23,8 +55,88 @@ Dewey_Decimal_Classification: 623.441
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Es-Catapulta-article.ogg
 U_S_National_Archives_Identifier: 10640755
 Commons_category: Catapults
+dv_has_:
+  name_:
+    af: katapult
+    ar: منجنيق
+    ast: catapulta
+    az: katapult
+    be: катапульта
+    be-tarask: катапульта
+    bg: катапулт
+    bs: katapult
+    ca: catapulta
+    cs: katapult
+    da: katapult
+    dag: taaya
+    de: Katapult
+    el: καταπέλτης
+    en: catapult
+    eo: katapulto
+    es: catapulta
+    et: kiviheitemasin
+    eu: katapulta
+    fa: منجنیق
+    fi: katapultti
+    fr: catapulte
+    fur: catapulte
+    gl: catapulta
+    grc: καταπάλτης
+    gsw: Katapult
+    he: קטפולטה
+    hi: अवक्षेपक
+    hr: katapult
+    ht: catapulte
+    hu: hajítógép
+    hy: բաբան
+    id: katapel tempur
+    io: katapulto
+    is: valslöngva
+    it: catapulta
+    ja: カタパルト
+    ka: კატაპულტი
+    kk: катапульта
+    kn: ಕವಣೆ
+    ko: 투석기
+    ky: катапульта
+    la: catapulta
+    lt: katapulta
+    lv: katapulta
+    lzh: 砲
+    mk: катапулт
+    nb: katapult
+    nl: katapult
+    nn: katapult
+    oc: catapulta
+    pl: katapulta
+    pt: catapulta
+    pt-br: catapulta
+    ro: catapultă
+    ru: катапульта
+    sh: katapult
+    sk: katapult
+    sl: katapult
+    sn: rhekeni
+    sr: катапулт
+    sr-ec: катапулт
+    sr-el: katapult
+    sv: katapult
+    tg: манҷаниқ
+    th: แคทะพัลต์
+    tr: mancınık
+    uk: катапульта
+    uz: Katapulta
+    vi: máy bắn đá
+    wuu: 投石机
+    yue: 投石機
+    zh: 投石機
+    zh-cn: 投石机
+    zh-hans: 投石机
+    zh-hant: 投石機
+    zh-hk: 投石機
+    zh-sg: 投石机
+    zh-tw: 投石機
 ---
-
 # [[Catapult]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Catapult,184393|WD~Catapult,184393]] 

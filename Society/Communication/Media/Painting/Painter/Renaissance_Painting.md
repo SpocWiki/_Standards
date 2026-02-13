@@ -1,4 +1,124 @@
-
+---
+has_id_wikidata: Q1133779
+dv_has_:
+  name_:
+    af: renaissance (kuns)
+    an: Arte renaixentista
+    ar: فن عصر النهضة
+    arz: فن عصر النهضه
+    ast: arte del Renacimientu
+    az: intibah dövrü təsviri incəsənəti
+    be: выяўленчае мастацтва Адраджэння
+    be-tarask: выяўленчае мастацтва Адраджэньня
+    bg: Ренесансово изкуство
+    bn: রেনেসাঁ শিল্প
+    br: Azginivelezh arzel
+    ca: art del Renaixement
+    cs: renesanční výtvarné umění
+    cy: celf y Dadeni
+    de: Kunst der Renaissance
+    el: αναγεννησιακή τέχνη
+    en: Renaissance art
+    eo: renesanca arto
+    es: arte del Renacimiento
+    eu: Pizkundeko artea
+    fa: هنر رنسانس
+    fi: renessanssin taide
+    fr: art de la Renaissance
+    ga: ealaín na hAthbheochana
+    gl: arte renacentista
+    gu: રેનેસાંસ કલા
+    he: אמנות הרנסנס
+    hi: पुनर्जागरण कला
+    hr: Renesansna umjetnost
+    hy: Վերածննդի կերպարվեստ
+    it: arte del Rinascimento
+    ja: ルネサンス美術
+    ko: 르네상스 미술
+    ky: кайра жаралуу
+    lt: Renesanso dailė
+    lv: renesanses māksla
+    mk: раноренесансно сликарство
+    mr: युरोपीय प्रबोधनकालीन कला
+    new: पुनर्जागरण कला
+    nl: renaissance
+    pl: sztuka renesansu
+    ps: رېنسانس هنر
+    pt: arte Renascentista
+    ro: Arta Renașterii
+    ru: искусство Возрождения
+    sh: renesansna umetnost
+    sk: renesančné výtvarné umenie
+    sl: renesančna umetnost
+    sq: arti i Rilindjes
+    sr: ренесансно сликарство
+    sr-ec: Ренесансна уметност
+    sv: renässansens konst
+    te: సాంస్కృతిక పునరుజ్జీవనం
+    tr: Rönesans sanatı
+    uk: культура епохи Відродження
+    vi: Nghệ thuật thời kỳ Phục Hưng
+    zh: 文藝復興藝術
+    zh-hant: 文藝復興藝術
+    zh-hk: 文藝復興藝術
+aliases:
+- art de la Renaissance
+- art del Renaixement
+- Arta Renașterii
+- arte del Renacimiento
+- arte del Renacimientu
+- arte del Rinascimento
+- arte renacentista
+- Arte renaixentista
+- arte Renascentista
+- arti i Rilindjes
+- Azginivelezh arzel
+- celf y Dadeni
+- ealaín na hAthbheochana
+- intibah dövrü təsviri incəsənəti
+- Kunst der Renaissance
+- Nghệ thuật thời kỳ Phục Hưng
+- Pizkundeko artea
+- renaissance
+- renaissance (kuns)
+- Renaissance art
+- renesanca arto
+- renesanses māksla
+- renesansna umetnost
+- Renesansna umjetnost
+- Renesanso dailė
+- renesančna umetnost
+- renesančné výtvarné umenie
+- renesanční výtvarné umění
+- renessanssin taide
+- renässansens konst
+- Rönesans sanatı
+- sztuka renesansu
+- αναγεννησιακή τέχνη
+- выяўленчае мастацтва Адраджэння
+- выяўленчае мастацтва Адраджэньня
+- искусство Возрождения
+- кайра жаралуу
+- культура епохи Відродження
+- раноренесансно сликарство
+- Ренесансна уметност
+- ренесансно сликарство
+- Ренесансово изкуство
+- Վերածննդի կերպարվեստ
+- אמנות הרנסנס
+- رېنسانس هنر
+- فن عصر النهضة
+- فن عصر النهضه
+- هنر رنسانس
+- पुनर्जागरण कला
+- युरोपीय प्रबोधनकालीन कला
+- রেনেসাঁ শিল্প
+- રેનેસાંસ કલા
+- సాంస్కృతిక పునరుజ్జీవనం
+- ルネサンス美術
+- 文藝復興藝術
+- 르네상스 미술
+---
 ## #has_/text_of_/abstract 
 
 > Renaissance art (1350 – 1620) is the painting, sculpture, and decorative arts 

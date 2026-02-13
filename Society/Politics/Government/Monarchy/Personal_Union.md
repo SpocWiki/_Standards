@@ -1,18 +1,154 @@
 ---
 aliases:
+- Bashkimi personal
+- Batasun pertsonal
+- gonagaslihttu
+- Konungssamband
+- Kâng-lâng liân-ha̍p
+- Liên minh cá nhân
+- Maungano ya kifalme
+- persona unio
+- personaaliunioni
+- personaalunioon
+- personal union
+- Personal uniono
+- Personalna unija
+- personalunion
+- Personalunioun
+- personele unie
+- Personele uny
+- Personálna únia
+- personální unie
+- personālūnija
+- perszonálunió
+- Undeb personol
+- uni personal
+- unia personalna
+- Union personala
+- union personałe
+- union personnelle
+- unione personale
+- Uniune personală
+- união pessoal
+- unió personal
+- unión persoal
+- unión personal
+- xunión personal
+- şahsi birlik
+- şəxsi uniya
+- προσωπική ένωση
+- асабістая унія
+- личен сојуз
+- лична унија
+- Лична уния
+- личная уния
+- Персонална унија
+- персональна унія
+- Энчи уния
+- անձնական ունիա
+- אוניה פרסונלית
+- اتحاد شخصى
+- اتحاد شخصي
+- اتحاد شخصی
+- விரும்பிய ஒன்றிணைப்பு
+- รัฐร่วมประมุข
+- 共主邦联
+- 共主邦聯
+- 同君連合
+- 동군련합
+- 동군연합
 has_id_wikidata: Q188800
-different_from: "[[_Standards/WikiData/WD~real_union,1093720]]"
+different_from: '[[_Standards/WikiData/WD~real_union,1093720]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~realm,1250464]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~state,7275]]"
+- '[[_Standards/WikiData/WD~realm,1250464]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~state,7275]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-has_list: "[[_Standards/WikiData/WD~Q65239521,65239521]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+has_list: '[[_Standards/WikiData/WD~Q65239521,65239521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Union%20of%20the%20Crowns%20Royal%20Badge.svg
+dv_has_:
+  name_:
+    ar: اتحاد شخصي
+    arz: اتحاد شخصى
+    ast: xunión personal
+    az: şəxsi uniya
+    be: асабістая унія
+    be-tarask: асабістая унія
+    bg: Лична уния
+    bs: Personalna unija
+    ca: unió personal
+    cs: personální unie
+    cy: Undeb personol
+    da: Personalunion
+    de: Personalunion
+    de-ch: Personalunion
+    el: προσωπική ένωση
+    en: personal union
+    en-ca: Personal union
+    en-gb: Personal union
+    eo: persona unio
+    es: unión personal
+    et: personaalunioon
+    eu: Batasun pertsonal
+    fa: اتحاد شخصی
+    fi: personaaliunioni
+    fr: union personnelle
+    fy: Personele uny
+    gl: unión persoal
+    he: אוניה פרסונלית
+    hr: Personalna unija
+    hu: perszonálunió
+    hy: անձնական ունիա
+    id: uni personal
+    io: Personal uniono
+    is: Konungssamband
+    it: unione personale
+    ja: 同君連合
+    ko: 동군연합
+    ko-kp: 동군련합
+    krc: Энчи уния
+    lb: Personalunioun
+    lmo: Union personala
+    lv: personālūnija
+    mk: личен сојуз
+    nan: Kâng-lâng liân-ha̍p
+    nb: personalunion
+    nl: personele unie
+    nn: Personalunion
+    oc: Union personala
+    pl: unia personalna
+    pt: união pessoal
+    pt-br: União pessoal
+    ro: Uniune personală
+    ru: личная уния
+    se: gonagaslihttu
+    sh: Personalna unija
+    sk: Personálna únia
+    sl: personalna unija
+    sq: Bashkimi personal
+    sr: лична унија
+    sr-ec: Персонална унија
+    sr-el: Personalna unija
+    sv: personalunion
+    sw: Maungano ya kifalme
+    ta: விரும்பிய ஒன்றிணைப்பு
+    th: รัฐร่วมประมุข
+    tr: şahsi birlik
+    uk: персональна унія
+    vec: union personałe
+    vi: Liên minh cá nhân
+    wuu: 共主邦联
+    yue: 共主邦聯
+    zh: 共主邦聯
+    zh-cn: 共主邦联
+    zh-hans: 共主邦联
+    zh-hant: 共主邦聯
+    zh-hk: 共主邦聯
+    zh-sg: 共主邦联
+    zh-tw: 共主邦聯
 ---
-
 # [[Personal_Union]] 
 
 #is_/same_as :: [[WD~Personal_union,188800]] 

@@ -1,47 +1,304 @@
 ---
 aliases:
+- aka
+- Balon
+- Bir
+- brunn
+- Brunne
+- Brunnen
+- brønd
+- brønn
+- Bubon
+- bunar
+- Ceel
+- Chéⁿ
+- Ciāng
+- col
+- Dotọ
+- ffynnon
+- giếng khoan
+- Hele
+- kaev
+- Kaid
+- kaivo
+- kuyu
+- kártà
+- kút
+- Nivviaq
+- perigi
+- Phuju
+- Potz
+- pou
+- Pousse
+- pozo
+- Pozu
+- Pozz
+- pozzo
+- poço
+- puits à eau
+- pure
+- Pusi
+- Puteo
+- Puteus
+- puto
+- putzu
+- Puzzo
+- puzzu
+- Puñs
+- puț de apă
+- Pwi
+- Pyit
+- Pëtz
+- Quduq
+- Quyu
+- rijiya
+- Sediba
+- Sood
+- studna
+- studnia
+- studnja
+- studňa
+- Suas
+- Sumua
+- sumur
+- Sémér
+- tebun
+- tobar
+- Tsime
+- vodnjak
+- Vótâháéno
+- water well
+- waterput
+- Waterpöt
+- Yaku hurquna
+- Ykua
+- Çal
+- Çăл
+- Šolėnīs
+- Šulinys
+- κουή
+- πηγάδι
+- φρέαρ
+- бунар
+- калодзеж
+- кладенец
+- колодец
+- криниця
+- лисьма
+- Студня
+- Цъай
+- Құдық
+- Ӧшмӧс
+- Ջրհոր
+- Ջրհոր (ջրատեխնիկական կառույց)
+- באר מים
+- بئر
+- د ابو څاګانې
+- چاه آب
+- کرٛیوٗل
+- کنواں
+- کھوہ
+- ߞߐ߬ߟߐ߲
+- इनारा
+- ईनार
+- कूप
+- पधेँरो
+- विहीर
+- কুঁৱা
+- কূপ
+- ਖੂਹ
+- કૂવો
+- கிணறு
+- బావి
+- ಬಾವಿ
+- കിണർ
+- ရေတွင်း
+- ၼမ်ႉမေႃႇ
+- ᡥᡡᠴᡳᠨ
+- 井
+- 井戸
+- 水井
+- 우물
 has_id_wikidata: Q43483
-different_from: "[[_Standards/WikiData/WD~fountain,483453]]"
-has_use: "[[_Standards/WikiData/WD~water_catchment,489339]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~borehole,502102]]"
-has_part_s_: "[[_Standards/WikiData/WD~wheel_and_axle,592289]]"
+different_from: '[[_Standards/WikiData/WD~fountain,483453]]'
+has_use: '[[_Standards/WikiData/WD~water_catchment,489339]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~borehole,502102]]'
+has_part_s_: '[[_Standards/WikiData/WD~wheel_and_axle,592289]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]"
-  - "[[_Standards/WikiData/WD~Q105336459,105336459]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+- '[[_Standards/WikiData/WD~Q105336459,105336459]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~amenity,867393]]"
-  - "[[_Standards/WikiData/WD~water_source,10713454]]"
-  - "[[_Standards/WikiData/WD~well,118276030]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_well,26003528]]"
+- '[[_Standards/WikiData/WD~amenity,867393]]'
+- '[[_Standards/WikiData/WD~water_source,10713454]]'
+- '[[_Standards/WikiData/WD~well,118276030]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_well,26003528]]'
 Dewey_Decimal_Classification:
-  - "714"
-  - "551.498"
-  - "628.114"
-Nomenclature_for_Museum_Cataloging: "799"
-OmegaWiki_Defined_Meaning: "4138"
+- 714
+- 551.498
+- 628.114
+Nomenclature_for_Museum_Cataloging: 799
+OmegaWiki_Defined_Meaning: 4138
 Iconclass_notation: 41A3911
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Awyrlun%20dron%20o%20ffynnon%20Dyfnog%20-%20aerial%20drone%20photograph%20of%20St%20Dyfnog%27s%20Celtic%20Well%2C%20Llanrhaeadr-yng-Nghinmeirch%2C%20Denbighshire%2C%20Cymru%20%28Wales%29%2002.jpg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Po%C3%A7o.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Puiser%20de%20l%27eau%20dans%20un%20puit%2010.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Po%C3%A7o.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Puiser%20de%20l%27eau%20dans%20un%20puit%2010.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Water%20well%20types%20wiki.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000026
 GeoNames_feature_code:
-  - H.WLL
-  - H.WLLS
+- H.WLL
+- H.WLLS
 MeSH_tree_code: J01.293.821.500.500
 Commons_category: Water wells
 OpenStreetMap_tag: man_made=water_well
+dv_has_:
+  name_:
+    an: Pozo
+    anp: इनारा
+    ar: بئر
+    as: কুঁৱা
+    ast: Pozu
+    ay: Phuju
+    az: Quyu
+    ban: Sémér
+    bar: Brunn
+    bcl: Bubon
+    be: калодзеж
+    be-tarask: студня
+    bg: кладенец
+    bho: ईनार
+    bn: কূপ
+    br: Puñs
+    bs: Bunar
+    ca: pou
+    cdo: Ciāng
+    chy: Vótâháéno
+    cs: studna
+    cv: Çăл
+    cy: ffynnon
+    da: brønd
+    de: Brunnen
+    diq: Bir
+    dsb: studnja
+    el: πηγάδι
+    en: water well
+    eo: puto
+    es: pozo
+    et: kaev
+    eu: putzu
+    fa: چاه آب
+    fi: kaivo
+    fr: puits à eau
+    frr: Suas
+    ga: tobar
+    gl: pozo
+    gn: Ykua
+    grc: φρέαρ
+    gsw: Brunne
+    gu: કૂવો
+    guw: Dotọ
+    ha: rijiya
+    he: באר מים
+    hi: कूप
+    hr: bunar
+    hsb: studnja
+    ht: Pwi
+    hu: kút
+    hy: Ջրհոր (ջրատեխնիկական կառույց)
+    hyw: Ջրհոր
+    ia: Puteo
+    id: sumur
+    ik: Nivviaq
+    it: pozzo
+    ja: 井戸
+    jv: sumur
+    kk: Құдық
+    kn: ಬಾವಿ
+    ko: 우물
+    ks: کرٛیوٗل
+    ku: Çal
+    kv: Ӧшмӧс
+    la: Puteus
+    lb: Pëtz
+    li: Waterpöt
+    lmo: Pozz
+    lt: Šulinys
+    lv: aka
+    lzh: 井
+    mcn: kártà
+    min: Sumua
+    mk: бунар
+    ml: കിണർ
+    mnc: ᡥᡡᠴᡳᠨ
+    mr: विहीर
+    ms: perigi
+    my: ရေတွင်း
+    myv: лисьма
+    nan: Chéⁿ
+    nap: Puzzo
+    nb: brønn
+    nds: Sood
+    ne: पधेँरो
+    nia: Hele
+    nl: waterput
+    nn: brønn
+    nqo: ߞߐ߬ߟߐ߲
+    nrm: Pyit
+    oc: Potz
+    os: Цъай
+    pa: ਖੂਹ
+    pcd: pure
+    pdc: Brunne
+    pl: studnia
+    pnb: کھوہ
+    pnt: κουή
+    ps: د ابو څاګانې
+    pt: poço
+    pt-br: poço
+    qu: Yaku hurquna
+    ro: puț de apă
+    rsk: Студня
+    ru: колодец
+    scn: puzzu
+    sgs: Šolėnīs
+    sh: bunar
+    shn: ၼမ်ႉမေႃႇ
+    sk: studňa
+    sl: vodnjak
+    sn: Tsime
+    so: Ceel
+    sq: Pusi
+    sr: бунар
+    st: Sediba
+    su: sumur
+    sv: brunn
+    szy: tebun
+    ta: கிணறு
+    te: బావి
+    tl: Balon
+    tly: col
+    tr: kuyu
+    uk: криниця
+    ur: کنواں
+    uz: Quduq
+    vep: Kaid
+    vi: giếng khoan
+    wa: Pousse
+    wuu: 水井
+    yue: 水井
+    zh: 水井
+    zh-hans: 水井
+    zh-hant: 水井
+    zh-tw: 水井
 ---
-
 # [[Water_Well]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Water_well,43483|WD~Water_well,43483]]  

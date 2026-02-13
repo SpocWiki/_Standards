@@ -1,152 +1,193 @@
 ---
 aliases:
-  - Great white shark
-  - white shark
-  - white pointer
-  - great white
-  - Great_white_Shark
-  - Great white Shark
-  - tiburón blancu
-  - Böyük ağ köpəkbalığı
-  - Голяма бяла акула
-  - সাদা হাঙ্গর
-  - Rinkin gwenn
-  - Velika bijela ajkula
-  - Tauró blanc
-  - žralok bílý
-  - Hvid haj
-  - Weißer Hai
-  - ފެމުނު މިޔަރު
-  - Μεγάλος λευκός καρχαρίας
-  - Mõrtsukhai
-  - Marrazo zuri
-  - کوسه بزرگ سفید
-  - Valkohai
-  - Grand requin blanc
-  - Siorc bán mór
-  - Quenlla branca
-  - עמלציים
-  - קרחה לבנה
-  - pas ljudožder
-  - Velika bijela psina
-  - Fehér cápa
-  - Hiu putih.
-  - Hvíthákarl
-  - Squalo bianco
-  - ホホジロザメ
-  - Hiu putih
-  - თეთრი ზვიგენი
-  - Үлкен ақ акула
-  - 백상아리
-  - Didysis baltasis ryklys
-  - Lielā baltā haizivs
-  - Аврага цагаан загас
-  - Toā-pe̍h-soa
-  - Hvithai
-  - Witte haai
-  - Kvithai
-  - Łóóʼ hashkéhétsoh
-  - Żarłacz biały
-  - چٹی وڈی شارک
-  - Tubarão-branco
-  - Белая акула
-  - Žralok modrý (Carcharodon carcharias)
-  - beli morski volk
-  - Велика бела ајкула
-  - Vithaj
-  - வெள்ளைச் சுறா
-  - ปลาฉลามขาว
-  - Büyük beyaz köpek balığı
-  - Акула біла
-  - Yirik oq akula
-  - Cá mập trắng lớn
-  - 噬人鯊
-  - 大白鯊
-  - 食人鮫
-  - 食人鯊
-  - jaquetón
-  - Gran tiburón blanco
-  - 大白鲨
-  - Great White Shark
-  - withaai
-  - قرش أبيض كبير
+- Antsantsa fotsy
+- beli morski volk
+- Blanka ŝarko
+- Böyük ağ köpəkbalığı
+- Büyük beyaz köpek balığı
+- Běły žrawc
+- Carcharodon carcharias
+- Cá mập trắng lớn
+- Dakulang puting pating
+- Didysis baltasis ryklys
+- Fehér cápa
+- Gran tiburo blanko
+- Gran tiburón blanco
+- Grand requin blanc
+- Granda làmia blanca
+- great white
+- Great white shairk
+- Great white shark
+- Great_white_Shark
+- Hiu bodas raksasa
+- Hiu putiah
+- Hiu putih
+- Hiu putih raksasa
+- Hiu putih.
+- Hvid haj
+- Hvithai
+- Hvíthákarl
+- Jak gretavietik
+- jaquetón
+- kakia putih
+- Kvithai
+- Lielā baltā haizivs
+- Malaking puting pating
+- mangō tuatini
+- marele rechin alb
+- Marrazo zuri
+- Morgi mawr gwyn
+- Mõrtsukhai
+- pas ljudožder
+- Piraroto morotĩ
+- Quenlla branca
+- Rinkin gwenn
+- Siorc bán mór
+- Squalo bianco
+- Tauró blanc
+- tiburón blancu
+- Tiburón branco
+- Toā-pe̍h-soa
+- Tubarão-branco
+- Valkohai
+- Velika bela ajkula
+- Velika bijela ajkula
+- Velika bijela psina
+- Vithaj
+- Weisser Hai
+- Weißer Hai
+- white pointer
+- white shark
+- Wite haai
+- withaai
+- Witj hei
+- Witte haai
+- Yirik oq akula
+- Yirik oq akulalar
+- Yu putih
+- Łóóʼ hashkéhétsoh
+- Żarłacz biały
+- žralok bílý
+- Žralok modrý
+- Žralok modrý (Carcharodon carcharias)
+- Λευκός καρχαρίας
+- Μεγάλος λευκός καρχαρίας
+- Аврага цагаан загас
+- Ак акула
+- Акула біла
+- Белая акула
+- Велика бела ајкула
+- голема бела ајкула
+- Голяма бяла акула
+- Кархародон
+- Урс акулæ
+- Үлкен ақ акула
+- սպիտակ շնաձուկ
+- עמלץ לבן
+- עמלציים
+- קרחה לבנה
+- بؤیوک آغ کؤپک بالیغی
+- عظیم سفید شارک
+- قرش أبيض كبير
+- قرش ابيض كبير
+- قڕشی سپی مەزن
+- لوي سپين شارک
+- چٹی وڈی شارک
+- کوسه بزرگ سفید
+- ފެމުނު މިޔަރު
+- बिसाल सफेद शार्क
+- সাদা হাঙ্গর
+- ਮਹਾਨ ਚਿੱਟੀ ਸ਼ਾਰਕ
+- பெருஞ்சுறா
+- வெள்ளைச் சுறா
+- വെള്ളസ്രാവ്
+- ปลาฉลามขาว
+- မဟာငါးမန်းဖြူကြီး
+- თეთრი ზვიგენი
+- ホホジロザメ
+- 噬人鯊
+- 大白鯊
+- 大白鲨
+- 食人鮫
+- 食人鯊
+- 백상아리
 has_id_wikidata: Q129026
 taxon_common_name:
-  - tiburón blancu
-  - Böyük ağ köpəkbalığı
-  - Голяма бяла акула
-  - সাদা হাঙ্গর
-  - Rinkin gwenn
-  - Velika bijela ajkula
-  - Tauró blanc
-  - žralok bílý
-  - Hvid haj
-  - Weißer Hai
-  - ފެމުނު މިޔަރު
-  - Μεγάλος λευκός καρχαρίας
-  - Great white shark
-  - Mõrtsukhai
-  - Marrazo zuri
-  - کوسه بزرگ سفید
-  - Valkohai
-  - Grand requin blanc
-  - Siorc bán mór
-  - Quenlla branca
-  - עמלציים
-  - קרחה לבנה
-  - pas ljudožder
-  - Velika bijela psina
-  - Fehér cápa
-  - Hiu putih.
-  - Hvíthákarl
-  - Squalo bianco
-  - ホホジロザメ
-  - Hiu putih
-  - თეთრი ზვიგენი
-  - Үлкен ақ акула
-  - 백상아리
-  - Didysis baltasis ryklys
-  - Lielā baltā haizivs
-  - Аврага цагаан загас
-  - Toā-pe̍h-soa
-  - Hvithai
-  - Witte haai
-  - Kvithai
-  - Łóóʼ hashkéhétsoh
-  - Żarłacz biały
-  - چٹی وڈی شارک
-  - Tubarão-branco
-  - Белая акула
-  - Velika bijela psina
-  - Žralok modrý (Carcharodon carcharias)
-  - beli morski volk
-  - Велика бела ајкула
-  - Vithaj
-  - வெள்ளைச் சுறா
-  - ปลาฉลามขาว
-  - Büyük beyaz köpek balığı
-  - Акула біла
-  - Yirik oq akula
-  - Cá mập trắng lớn
-  - 噬人鯊
-  - 大白鯊
-  - 食人鮫
-  - 食人鯊
-  - jaquetón
-  - Gran tiburón blanco
-  - 大白鲨
-  - Great White Shark
-  - withaai
-  - قرش أبيض كبير
+- tiburón blancu
+- Böyük ağ köpəkbalığı
+- Голяма бяла акула
+- সাদা হাঙ্গর
+- Rinkin gwenn
+- Velika bijela ajkula
+- Tauró blanc
+- žralok bílý
+- Hvid haj
+- Weißer Hai
+- ފެމުނު މިޔަރު
+- Μεγάλος λευκός καρχαρίας
+- Great white shark
+- Mõrtsukhai
+- Marrazo zuri
+- کوسه بزرگ سفید
+- Valkohai
+- Grand requin blanc
+- Siorc bán mór
+- Quenlla branca
+- עמלציים
+- קרחה לבנה
+- pas ljudožder
+- Velika bijela psina
+- Fehér cápa
+- Hiu putih.
+- Hvíthákarl
+- Squalo bianco
+- ホホジロザメ
+- Hiu putih
+- თეთრი ზვიგენი
+- Үлкен ақ акула
+- 백상아리
+- Didysis baltasis ryklys
+- Lielā baltā haizivs
+- Аврага цагаан загас
+- Toā-pe̍h-soa
+- Hvithai
+- Witte haai
+- Kvithai
+- Łóóʼ hashkéhétsoh
+- Żarłacz biały
+- چٹی وڈی شارک
+- Tubarão-branco
+- Белая акула
+- Velika bijela psina
+- Žralok modrý (Carcharodon carcharias)
+- beli morski volk
+- Велика бела ајкула
+- Vithaj
+- வெள்ளைச் சுறா
+- ปลาฉลามขาว
+- Büyük beyaz köpek balığı
+- Акула біла
+- Yirik oq akula
+- Cá mập trắng lớn
+- 噬人鯊
+- 大白鯊
+- 食人鮫
+- 食人鯊
+- jaquetón
+- Gran tiburón blanco
+- 大白鲨
+- Great White Shark
+- withaai
+- قرش أبيض كبير
 short_name: C. carcharias
 start_time: -16000000-06
 taxon_range:
-  - '[[_Standards/WikiData/WD~Gulf_of_California,132811]]'
-  - '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-  - '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-  - '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]'
-  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-  - '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Gulf_of_California,132811]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
 original_combination: '[[_Standards/WikiData/WD~Squalus_carcharias,48410245]]'
@@ -158,24 +199,141 @@ mass: 2400
 life_expectancy: 73
 ITIS_TSN: 159903
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/202410%20Great%20white%20shark.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/202410%20Great%20white%20shark.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cypron-Range%20Carcharodon%20carcharias.svg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/01484850-n
-  - http://wordnet-rdf.princeton.edu/wn31/101487595-n
+- http://wordnet-rdf.princeton.edu/wn30/01484850-n
+- http://wordnet-rdf.princeton.edu/wn31/101487595-n
 UNII: 8OLB62I75U
 UMLS_CUI: C0327628
 Commons_gallery: Carcharodon carcharias
 Commons_category: Carcharodon carcharias
 taxon_name: Carcharodon carcharias
 GenBank_assembly_accession_number:
-  - GCA_003604245.1
-  - GCA_017639455.1
+- GCA_003604245.1
+- GCA_017639455.1
 EPPO_Code: KCHRCA
 NBN_System_Key: NHMSYS0001745235
+dv_has_:
+  name_:
+    af: withaai
+    an: Carcharodon carcharias
+    ar: قرش أبيض كبير
+    arz: قرش ابيض كبير
+    ast: Carcharodon carcharias
+    az: Böyük ağ köpəkbalığı
+    azb: بؤیوک آغ کؤپک بالیغی
+    ban: kakia putih
+    bcl: Dakulang puting pating
+    be-tarask: белая акула
+    bg: голяма бяла акула
+    bho: बिसाल सफेद शार्क
+    bn: সাদা হাঙ্গর
+    br: Rinkin gwenn
+    bs: Velika bijela ajkula
+    ca: tauró blanc
+    ceb: Carcharodon carcharias
+    ckb: قڕشی سپی مەزن
+    cs: žralok bílý
+    cy: Morgi mawr gwyn
+    da: hvid haj
+    de: Weißer Hai
+    de-ch: Weisser Hai
+    dv: ފެމުނު މިޔަރު
+    el: Λευκός καρχαρίας
+    en: great white shark
+    en-ca: Great white shark
+    en-gb: Great white shark
+    eo: Blanka ŝarko
+    es: Carcharodon carcharias
+    et: mõrtsukhai
+    eu: Marrazo zuri
+    fa: کوسه بزرگ سفید
+    fi: valkohai
+    fr: Grand requin blanc
+    frr: Witj hei
+    fy: Wite haai
+    ga: siorc bán mór
+    gl: Tiburón branco
+    gn: Piraroto morotĩ
+    haw: Great white shark
+    he: עמלץ לבן
+    hr: velika bijela psina
+    hsb: Běły žrawc
+    hu: fehér cápa
+    hy: սպիտակ շնաձուկ
+    ia: Carcharodon carcharias
+    id: Hiu putih raksasa
+    io: Carcharodon carcharias
+    is: hvíthákarl
+    it: Carcharodon carcharias
+    ja: ホホジロザメ
+    jv: Hiu putih
+    ka: თეთრი ზვიგენი
+    kk: Үлкен ақ акула
+    ko: 백상아리
+    ky: Кархародон
+    la: Carcharodon carcharias
+    lad: Gran tiburo blanko
+    lt: Didysis baltasis ryklys
+    lv: Lielā baltā haizivs
+    mg: Antsantsa fotsy
+    mi: mangō tuatini
+    min: Hiu putiah
+    mk: голема бела ајкула
+    ml: വെള്ളസ്രാവ്
+    mn: Аврага цагаан загас
+    ms: Yu putih
+    mul: Carcharodon carcharias
+    my: မဟာငါးမန်းဖြူကြီး
+    na: Carcharodon carcharias
+    nan: Toā-pe̍h-soa
+    nb: hvithai
+    nl: witte haai
+    nn: kvithai
+    nv: Łóóʼ hashkéhétsoh
+    oc: Granda làmia blanca
+    os: Урс акулæ
+    pa: ਮਹਾਨ ਚਿੱਟੀ ਸ਼ਾਰਕ
+    pl: żarłacz biały
+    pnb: چٹی وڈی شارک
+    ps: لوي سپين شارک
+    pt: Tubarão-branco
+    pt-br: Tubarão-branco
+    ro: marele rechin alb
+    ru: белая акула
+    sco: Great white shairk
+    sh: Velika bijela psina
+    sk: Žralok modrý
+    sl: beli morski volk
+    sq: Carcharodon carcharias
+    sr: велика бела ајкула
+    sr-ec: Велика бела ајкула
+    sr-el: Velika bela ajkula
+    su: Hiu bodas raksasa
+    sv: vithaj
+    ta: பெருஞ்சுறா
+    th: ปลาฉลามขาว
+    tl: Malaking puting pating
+    tr: Büyük beyaz köpek balığı
+    tt: Ак акула
+    uk: Акула біла
+    ur: عظیم سفید شارک
+    uz: Yirik oq akulalar
+    vi: Cá mập trắng lớn
+    vo: Jak gretavietik
+    war: Carcharodon carcharias
+    wuu: 大白鲨
+    yue: 大白鯊
+    zh: 大白鲨
+    zh-cn: 大白鲨
+    zh-hans: 大白鲨
+    zh-hant: 大白鯊
+    zh-hk: 大白鯊
+    zh-sg: 大白鲨
+    zh-tw: 食人鯊
 ---
-
 # [[Great_white_Shark]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Great_white_shark,129026|WD~Great_white_shark,129026]]

@@ -1,9 +1,88 @@
 ---
 aliases:
-  - Robert Langdon
-  - Langdon,Robert
+- Langdon,Robert
+- Robert Langdon
+- Robert Lenqdon
+- Robertas Lengdonas
+- Roberts Lengdons
+- Ρόμπερτ Λάνγκντον
+- Роберт Лангдон
+- Роберт Ленґдон
+- Роберт Лэнгдон
+- Робърт Лангдън
+- Ռոբերտ Լենգդոն
+- רוברט לנגדון
+- رابرت لنگدن
+- رابرٹ لینگڈن
+- روبرت لانجدون
+- روبرت لانغدون
+- ڕۆبێرت لانگدۆن
+- রবার্ট ল্যাংডন
+- റോബർട്ട് ലാങ്ഡൺ
+- โรเบิร์ต แลงดอน
+- ロバート・ラングドン
+- 罗柏·兰登
+- 羅柏·蘭登
+- 로버트 랭던
+has_id_wikidata: Q210548
+dv_has_:
+  name_:
+    ar: روبرت لانغدون
+    arz: روبرت لانجدون
+    az: Robert Lenqdon
+    bg: Робърт Лангдън
+    bn: রবার্ট ল্যাংডন
+    ca: Robert Langdon
+    ckb: ڕۆبێرت لانگدۆن
+    cs: Robert Langdon
+    cy: Robert Langdon
+    da: Robert Langdon
+    de: Robert Langdon
+    el: Ρόμπερτ Λάνγκντον
+    en: Robert Langdon
+    es: Robert Langdon
+    fa: رابرت لنگدن
+    fi: Robert Langdon
+    fr: Robert Langdon
+    ga: Robert Langdon
+    gl: Robert Langdon
+    he: רוברט לנגדון
+    hu: Robert Langdon
+    hy: Ռոբերտ Լենգդոն
+    id: Robert Langdon
+    it: Robert Langdon
+    ja: ロバート・ラングドン
+    ko: 로버트 랭던
+    lt: Robertas Lengdonas
+    lv: Roberts Lengdons
+    ml: റോബർട്ട് ലാങ്ഡൺ
+    ms: Robert Langdon
+    nb: Robert Langdon
+    nl: Robert Langdon
+    pl: Robert Langdon
+    pnb: رابرٹ لینگڈن
+    pt: Robert Langdon
+    ru: Роберт Лэнгдон
+    sgs: Robert Langdon
+    sl: Robert Langdon
+    sq: Robert Langdon
+    sr: Роберт Лангдон
+    sr-ec: Роберт Лангдон
+    sr-el: Robert Langdon
+    sv: Robert Langdon
+    th: โรเบิร์ต แลงดอน
+    tr: Robert Langdon
+    uk: Роберт Ленґдон
+    ur: رابرٹ لینگڈن
+    vi: Robert Langdon
+    zh: 羅柏·蘭登
+    zh-cn: 罗柏·兰登
+    zh-hans: 罗柏·兰登
+    zh-hant: 羅柏·蘭登
+    zh-hk: 羅柏·蘭登
+    zh-sg: 罗柏·兰登
+    zh-tw: 羅柏·蘭登
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Robert Langdon** is a fictional character created by author Dan Brown 

@@ -1,17 +1,105 @@
 ---
 aliases:
-  - Genetic Engineering
-  - Genetic_Engineering
+- Angenharie genética
+- Endazyariya bûmayîk
+- engenharia genética
+- Engignerìa genética
+- enginyeria genètica
+- enxeñaría xenética
+- Erfðatækni
+- geenitehnoloogia
+- geenitekniikka
+- Genetic Engineering
+- genetické inženýrství
+- Genetic_Engineering
+- genetiese manipulasie
+- Genetik injeneriya
+- genetik mühendisliği
+- Genetik mühəndisliyi
+- Genetika inženerligi
+- genetische technologie
+- Genetički inženjering
+- Genetičko inženjerstvo
+- genetsko inženirstvo
+- Genetyske technology
+- Genetïka ïnjenerligi
+- genmodifisering
+- gensløyd
+- Gensplejsning
+- Gentechnik
+- genteknik
+- gentekniko
+- Genų inžinerija
+- génie génétique
+- géntechnológia
+- gēnu inženierija
+- ingegneria genetica
+- ingeniaritza genetiko
+- ingeniería genética
+- inginerie genetică
+- Inhenyeriyang henetiko
+- Inhenyerya henetika
+- innealtóireacht ghéiniteach
+- Inxeniería xenética
+- Inxhinieria gjenetike
+- inzegnaria zenètega
+- inżynieria genetyczna
+- Jinetik injinierin
+- Jéni jénétik
+- Kejuruteraan genetik
+- Kĩ thuật di truyền
+- Ncignirìa ginètica
+- raweke ira
+- rekayasa genetika
+- Rekonbinezon jenetik
+- Rékayasa genetik
+- Technologia genetica
+- Teknologiezh c'henetek
+- UmNgcikisho wezifuzisi
+- Γενετική μηχανική
+- Генетик инженерия
+- Генетика инженериясы
+- Генетика инженерлігі
+- генетическая инженерия
+- Генетички инжењеринг
+- генетско инженерство
+- генетычная інжынерыя
+- Генийн инженерчлэл
+- генна інженерія
+- Генно инженерство
+- генэтычная інжынэрыя
+- Գենետիկական ճարտարագիտություն
+- הנדסה גנטית
+- ئەندازیاریا بووماییک
+- ئەندازەی بۆماوەیی
+- تعجيل وراثت
+- د جنتیک انجنیري
+- مهندسی ژنتیک
+- هندسة وراثية
+- وراثی ہندسیات
+- گەنەتىيكا ىينجەنەرلىگى
+- जनुकीय अभियांत्रिकी
+- বংশাণু প্রকৌশল
+- ਜਣਨ ਇੰਜੀਨੀਅਰੀ
+- மரபணுப் பொறியியல்
+- ತಳೀಯ ಎಂಜಿನಿಯರಿಂಗ್
+- ജനിതക സാങ്കേതികവിദ്യ
+- ජාන ඉංජිනේරු විද්යාව
+- พันธุวิศวกรรม
+- გენური ინჟინერია
+- 基因工程
+- 遺伝子工学
+- 유전공학
 has_id_wikidata: Q159236
 subclass_of:
-  - '[[_Standards/WikiData/WD~bioengineering,580689]]'
-  - '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~bioengineering,580689]]'
+- '[[_Standards/WikiData/WD~engineering,11023]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Q12165280,12165280]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Q12165280,12165280]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Genetic_engineering,14102349]]'
-  - '[[_Standards/WikiData/WD~Template_Genetic_engineering_sidebar,66132342]]'
+- '[[_Standards/WikiData/WD~Template_Genetic_engineering,14102349]]'
+- '[[_Standards/WikiData/WD~Template_Genetic_engineering_sidebar,66132342]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_genetic_engineering,15706604]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~gene_editing,65363531]]'
 part_of: '[[_Standards/WikiData/WD~biotechnology,7108]]'
@@ -24,8 +112,124 @@ IMDb_keyword: genetic-engineering
 PhilPapers_topic: genetic-engineering
 Krugosvet_article: nauka_i_tehnika/biologiya/GENNAYA_INZHENERIYA.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GFP%20Mice%2001.jpg
+dv_has_:
+  name_:
+    af: genetiese manipulasie
+    ar: هندسة وراثية
+    ast: Inxeniería xenética
+    az: Genetik mühəndisliyi
+    ba: Генетик инженерия
+    be: генетычная інжынерыя
+    be-tarask: генэтычная інжынэрыя
+    bg: Генно инженерство
+    bn: বংশাণু প্রকৌশল
+    br: Teknologiezh c'henetek
+    bs: Genetički inženjering
+    ca: enginyeria genètica
+    ckb: ئەندازەی بۆماوەیی
+    cs: genetické inženýrství
+    da: Gensplejsning
+    de: Gentechnik
+    de-ch: Gentechnik
+    el: Γενετική μηχανική
+    en: genetic engineering
+    en-ca: Genetic engineering
+    en-gb: genetic engineering
+    eo: gentekniko
+    es: ingeniería genética
+    et: geenitehnoloogia
+    eu: ingeniaritza genetiko
+    fa: مهندسی ژنتیک
+    fi: geenitekniikka
+    fr: génie génétique
+    fy: Genetyske technology
+    ga: innealtóireacht ghéiniteach
+    gan: 基因工程
+    gan-hans: 基因工程
+    gan-hant: 基因工程
+    gcr: Jéni jénétik
+    gl: enxeñaría xenética
+    he: הנדסה גנטית
+    hi: जनुकीय अभियांत्रिकी
+    hr: Genetičko inženjerstvo
+    ht: Rekonbinezon jenetik
+    hu: géntechnológia
+    hy: Գենետիկական ճարտարագիտություն
+    id: rekayasa genetika
+    is: Erfðatækni
+    it: ingegneria genetica
+    ja: 遺伝子工学
+    jam: Jinetik injinierin
+    ka: გენური ინჟინერია
+    kk: Генетика инженерлігі
+    kk-arab: گەنەتىيكا ىينجەنەرلىگى
+    kk-cn: گەنەتىيكا ىينجەنەرلىگى
+    kk-cyrl: Генетика инженерлігі
+    kk-kz: Генетика инженерлігі
+    kk-latn: Genetïka ïnjenerligi
+    kk-tr: Genetïka ïnjenerligi
+    kn: ತಳೀಯ ಎಂಜಿನಿಯರಿಂಗ್
+    ko: 유전공학
+    ku: Endazyariya bûmayîk
+    ku-arab: ئەندازیاریا بووماییک
+    ku-latn: Endazyariya bûmayîk
+    ky: Генетика инженериясы
+    la: Technologia genetica
+    lb: Gentechnik
+    lt: Genų inžinerija
+    lv: gēnu inženierija
+    lzh: 基因工程
+    mi: raweke ira
+    mk: генетско инженерство
+    ml: ജനിതക സാങ്കേതികവിദ്യ
+    mn: Генийн инженерчлэл
+    ms: Kejuruteraan genetik
+    mwl: Angenharie genética
+    nb: gensløyd
+    nl: genetische technologie
+    nn: genmodifisering
+    pa: ਜਣਨ ਇੰਜੀਨੀਅਰੀ
+    pl: inżynieria genetyczna
+    pms: Engignerìa genética
+    ps: د جنتیک انجنیري
+    pt: engenharia genética
+    pt-br: Engenharia genética
+    ro: inginerie genetică
+    ru: генетическая инженерия
+    scn: Ncignirìa ginètica
+    sd: تعجيل وراثت
+    sh: Genetički inženjering
+    si: ජාන ඉංජිනේරු විද්යාව
+    skr: وراثی ہندسیات
+    sl: genetsko inženirstvo
+    sq: Inxhinieria gjenetike
+    sr: Генетички инжењеринг
+    sr-ec: Генетички инжењеринг
+    sr-el: Genetički inženjering
+    su: Rékayasa genetik
+    sv: genteknik
+    ta: மரபணுப் பொறியியல்
+    th: พันธุวิศวกรรม
+    tk: Genetika inženerligi
+    tl: Inhenyeriyang henetiko
+    tr: genetik mühendisliği
+    uk: генна інженерія
+    ur: وراثی ہندسیات
+    uz: Genetik injeneriya
+    vec: inzegnaria zenètega
+    vi: Kĩ thuật di truyền
+    war: Inhenyerya henetika
+    wuu: 基因工程
+    yue: 基因工程
+    zh: 基因工程
+    zh-cn: 基因工程
+    zh-hans: 基因工程
+    zh-hant: 基因工程
+    zh-hk: 基因工程
+    zh-sg: 基因工程
+    zh-tw: 基因工程
+    zu: UmNgcikisho wezifuzisi
 ---
-
 # [[Genetic_Engineering]] 
 
 #is_/same_as :: [[WD~Genetic_engineering,159236]] 

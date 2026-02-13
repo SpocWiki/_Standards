@@ -1,4 +1,107 @@
-
+---
+has_id_wikidata: Q747502
+dv_has_:
+  name_:
+    af: Asterids
+    ar: نجمانية
+    ast: Astérides
+    az: Asteridlər
+    bcl: Asterids
+    be: Asteridae
+    be-tarask: астэрыды
+    bg: астериди
+    bs: Asteride
+    ca: Astèrides
+    ceb: asterids
+    cs: asteridy
+    cy: Asterid
+    de: Asteriden
+    en: asterids
+    eo: Asteridoj
+    es: astéridas
+    eu: Asterido
+    fa: آستریدها
+    fi: asteridit
+    fr: Astéridées
+    ga: asterids
+    he: אסטרידים
+    hi: ऐस्टरिड
+    hu: asterids
+    id: Euasterids II
+    ilo: asterids
+    it: Asteridi
+    ja: キク類
+    kk: Астеридтер
+    ko: 국화군
+    la: Asterids
+    mk: астериди
+    ml: ആസ്റ്റെറൈഡ്സ്
+    nb: asteridae
+    nl: Asterids
+    nn: asteridar
+    oc: Asterids
+    os: астеридтæ
+    pl: astrowe
+    pt: asterídeas
+    ro: Asterizi
+    ru: астериды
+    sco: Asterids
+    sh: Asteridae
+    sl: asteride
+    sq: asterids
+    sr: Asteridi
+    sv: asterids
+    ta: தாரகைத் தாவரம்
+    th: แอสเทอริด
+    tl: Asterids
+    tr: asterids
+    uk: Айстериди
+    vi: nhánh Cúc
+    war: asterids
+    wuu: 菊类植物
+    yue: 菊類
+    zh: 菊类植物
+    zh-cn: 菊类植物
+aliases:
+- Asterid
+- Asteridae
+- asteridar
+- Asteride
+- Asteriden
+- Asteridi
+- asteridit
+- Asteridlər
+- Asterido
+- Asteridoj
+- Asterids
+- asteridy
+- Asterizi
+- asterídeas
+- astrowe
+- Astèrides
+- astéridas
+- Astérides
+- Astéridées
+- Euasterids II
+- nhánh Cúc
+- Айстериди
+- астериди
+- астеридтæ
+- Астеридтер
+- астериды
+- астэрыды
+- אסטרידים
+- آستریدها
+- نجمانية
+- ऐस्टरिड
+- தாரகைத் தாவரம்
+- ആസ്റ്റെറൈഡ്സ്
+- แอสเทอริด
+- キク類
+- 菊类植物
+- 菊類
+- 국화군
+---
 # [[Asterids]] 
 
 

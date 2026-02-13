@@ -1,12 +1,116 @@
 ---
 aliases:
-  - black smoker
-  - Hydrothermal vent
-  - white smoker
-  - Hydrothermal_Vent
-  - Hydrothermal Vent
+- black smoker
+- Chemine idwotèmal
+- Fonte hidrotermal
+- Fuente hidrotermal
+- fumarola hidrotermal
+- hidroterma fonto
+- Hidrotermal bacalar
+- Hidrotermalni izvor
+- Hidrotermalni izvori
+- Hidrotermalni otvori
+- hidrotermalni vrelec
+- hidrotermális kürtő
+- hydrotermal skorstein
+- Hydrotermal öppning
+- hydroterminen purkausaukko
+- Hydrotermisk væld
+- hydrotermální průduch
+- Hydrothermal vent
+- hydrothermale bron
+- hydrothermaler Schlot
+- Hydrothermal_Vent
+- Hüdrotermid
+- Iturri hidrotermal
+- Izvor termal
+- komin hydrotermalny
+- Miệng phun thủy nhiệt
+- mont hydrothermal
+- Neðansjávarhver
+- Pengudaraan hidroterma
+- scoilt hidriteirmeach
+- sorgente idrotermale
+- Ventilasi hidrotermal
+- white smoker
+- υδροθερμική διέξοδος
+- гідратэрмальная крыніца
+- гідротермальне джерело
+- Гидротермальные источники срединно-океанических хребтов
+- топловоден извор
+- Хидротермални извори
+- Хидротермални комини
+- נביעה הידרותרמית
+- منفس مائي حراري
+- هایډروترمل سوری
+- چاه گرمابی
+- जलतापीय छिद्र
+- ह्य्द्रोथेर्मल् वेन्त्
+- জলতাপীয় রন্ধ্র
+- ಜಲೋಷ್ಟೀಯ ತೆಳು
+- ജലതാപ വിള്ളലുകൾ
+- ปล่องไฮโดรเทอร์มอล
+- 深海熱泉
+- 熱水噴出孔
+- 열수분출공
+has_id_wikidata: Q867648
+dv_has_:
+  name_:
+    ar: منفس مائي حراري
+    ast: Fonte hidrotermal
+    be-tarask: гідратэрмальная крыніца
+    bg: Хидротермални комини
+    bn: জলতাপীয় রন্ধ্র
+    bs: Hidrotermalni otvori
+    ca: fumarola hidrotermal
+    cs: hydrotermální průduch
+    da: Hydrotermisk væld
+    de: hydrothermaler Schlot
+    el: υδροθερμική διέξοδος
+    en: hydrothermal vent
+    eo: hidroterma fonto
+    es: Fuente hidrotermal
+    et: Hüdrotermid
+    eu: Iturri hidrotermal
+    fa: چاه گرمابی
+    fi: hydroterminen purkausaukko
+    fr: mont hydrothermal
+    ga: scoilt hidriteirmeach
+    gl: Fonte hidrotermal
+    he: נביעה הידרותרמית
+    hi: जलतापीय छिद्र
+    hr: Hidrotermalni izvori
+    ht: Chemine idwotèmal
+    hu: hidrotermális kürtő
+    id: Ventilasi hidrotermal
+    is: Neðansjávarhver
+    it: sorgente idrotermale
+    ja: 熱水噴出孔
+    kn: ಜಲೋಷ್ಟೀಯ ತೆಳು
+    ko: 열수분출공
+    mk: топловоден извор
+    ml: ജലതാപ വിള്ളലുകൾ
+    ms: Pengudaraan hidroterma
+    nb: hydrotermal skorstein
+    nl: hydrothermale bron
+    pl: komin hydrotermalny
+    ps: هایډروترمل سوری
+    pt: fonte hidrotermal
+    ro: Izvor termal
+    ru: Гидротермальные источники срединно-океанических хребтов
+    sa: ह्य्द्रोथेर्मल् वेन्त्
+    sh: Hidrotermalni izvor
+    sl: hidrotermalni vrelec
+    sr: Hidrotermalni izvori
+    sr-ec: Хидротермални извори
+    sr-el: Hidrotermalni izvori
+    sv: Hydrotermal öppning
+    th: ปล่องไฮโดรเทอร์มอล
+    tr: Hidrotermal bacalar
+    uk: гідротермальне джерело
+    vi: Miệng phun thủy nhiệt
+    zh: 深海熱泉
 ---
-
 # [[Hydrothermal_Vent]] 
 
 

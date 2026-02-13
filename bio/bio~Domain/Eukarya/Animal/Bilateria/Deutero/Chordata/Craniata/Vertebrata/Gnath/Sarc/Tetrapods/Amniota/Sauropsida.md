@@ -1,4 +1,96 @@
-
+---
+has_id_wikidata: Q329457
+dv_has_:
+  name_:
+    af: Sauropsida
+    an: Sauropsida
+    ar: عظائيات الوجه
+    arz: عظائيات الوجه
+    ast: Sauropsida
+    azb: ساوروپسیدا
+    bg: сауропсиди
+    br: Sauropsida
+    bs: sauropsidi
+    ca: sauròpsids
+    ceb: Sauropsida
+    cs: Sauropsida
+    de: Sauropsida
+    el: Σαυρόψιδα
+    en: Sauropsida
+    eo: Saŭropsidoj
+    es: Sauropsida
+    eu: Sauropsida
+    ext: Sauropsida
+    fa: سوروپسیدها
+    fi: Sauropsida
+    fr: Sauropsida
+    fy: Sauropsiden
+    ga: Sauropsida
+    gl: Saurópsidos
+    he: זאורופסידה
+    hu: hüllőszerűek
+    ia: Sauropsida
+    id: Sauropsida
+    ie: Sauropsida
+    io: Sauropsida
+    it: Sauropsida
+    ja: 竜弓類
+    jv: Sauropsida
+    ka: Sauropsida
+    ko: 용궁류
+    la: Sauropsida
+    mul: Sauropsida
+    nb: sauropsider
+    nds: Sauropsiden
+    nl: Sauropsida
+    oc: Sauropsides
+    pl: Zauropsydy
+    pt: Sauropsida
+    pt-br: Sauropsida
+    ro: Sauropsida
+    ru: завропсиды
+    scn: Sauropsida
+    sq: Sauropsida
+    sr: sauropsidi
+    sv: Sauropsida
+    tl: Sauropsida
+    tr: Sauropsida
+    uk: завропсиди
+    vi: Sauropsida
+    vls: Sauropsida
+    vo: Sauropsida
+    war: Sauropsida
+    zh: 蜥形纲
+    zh-cn: 蜥形纲
+    zh-hans: 蜥形纲
+    zh-hant: 蜥形綱
+    zh-hk: 蜥形綱
+    zh-sg: 蜥形纲
+    zh-tw: 蜥形綱
+aliases:
+- hüllőszerűek
+- Sauropsida
+- Sauropsiden
+- sauropsider
+- Sauropsides
+- sauropsidi
+- sauròpsids
+- Saurópsidos
+- Saŭropsidoj
+- Zauropsydy
+- Σαυρόψιδα
+- завропсиди
+- завропсиды
+- сауропсиди
+- זאורופסידה
+- ساوروپسیدا
+- سوروپسیدها
+- عظائيات الوجه
+- 竜弓類
+- 蜥形綱
+- 蜥形纲
+- 용궁류
+---
 # [[Sauropsida]] 
 
 

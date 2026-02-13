@@ -1,35 +1,98 @@
 ---
 aliases:
-  - Zodiac~Triangulum_Australis
-  - Zodiac~Triangulum Australis
+- Cənub Üçbucağı
+- Det sørlege triangelet
+- Det sørlige triangelet
+- Dienvidu Trīsstūris
+- Déli Háromszög csillagkép
+- Etelän kolmio
+- Hirêkışta Veroci
+- Janubiy uchburchak
+- Jižní trojúhelník
+- Južni trikotnik
+- Južni trokut
+- Južný trojuholník
+- Lâm-saⁿ-kak-chō
+- Lõunakolmnurk
+- Nam Tam Giác
+- Nàm-sâm-kok-chho
+- Nàng-săng-gáe̤k-cô̤
+- Pembetatu ya Kusini
+- Pietų Trikampis
+- Segi Tiga Selatan
+- Suda Triangulo
+- Suidelike Driehoek
+- Suðurþríhyrningurinn
+- Sydlige Trekant
+- Södra triangeln
+- Südliches Dreieck
+- Triangle Austral
+- Triangolo Australe
+- Triangulu Australe
+- Triangulum Australe
+- Triangulum Australe (ranneves)
+- Triantán an Deiscirt
+- Tric'horn ar Su
+- Triunghiul Austral
+- Triàngoło Austrałe
+- Troorane y Jiass
+- Trójkąt Południowy
+- Zodiac~Triangulum Australis
+- Zodiac~Triangulum_Australis
+- Zuiderdriehoek
+- Τρίγωνον Νότιον
+- Јужен Триаголник
+- Јужни троугао
+- Көньяк Өчпомак йолдызлыгы
+- Көньяҡ Өсмөйөш
+- Лымшорпал Куиньсэрег
+- Південний Трикутник
+- Паўднёвы Трыкутнік
+- Соҕуруу Үс Муннук
+- Южен триъгълник
+- Южный Треугольник
+- Հարավային եռանկյունի
+- משולש דרומי
+- المثلث الجنوبي
+- ترايانجولام اوسترالى
+- مثلث جنوبی
+- दक्षिण त्रिकोण तारामंडल
+- দক্ষিণ ত্রিকোণ মণ্ডল
+- ദക്ഷിണ ത്രിഭുജം
+- กลุ่มดาวสามเหลี่ยมใต้
+- ထရိုင်ဂူလယ် ဩစထရေး
+- სამხრეთის სამკუთხედი
+- みなみのさんかく座
+- 南三角座
+- 남쪽삼각형자리
 has_id_wikidata: Q10422
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Petrus_Plancius,333534]]"
-  - "[[_Standards/WikiData/WD~Amerigo_Vespucci,47674]]"
+- '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
+- '[[_Standards/WikiData/WD~Amerigo_Vespucci,47674]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729044,10729044]]"
-  - "[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905]]"
+- '[[_Standards/WikiData/WD~Q10729044,10729044]]'
+- '[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905]]'
 time_of_discovery_or_invention: 1600-01-01T00:00:00Z
 named_after:
-  - "[[_Standards/WikiData/WD~south,667]]"
-  - "[[_Standards/WikiData/WD~triangle,19821]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~south,667]]'
+- '[[_Standards/WikiData/WD~triangle,19821]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Ara,9253]]"
-  - "[[_Standards/WikiData/WD~Apus,10506]]"
-  - "[[_Standards/WikiData/WD~Circinus,10508]]"
-  - "[[_Standards/WikiData/WD~Norma,10582]]"
+- '[[_Standards/WikiData/WD~Ara,9253]]'
+- '[[_Standards/WikiData/WD~Apus,10506]]'
+- '[[_Standards/WikiData/WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Norma,10582]]'
 area: 110
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Triangulum%20Australe.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Triangulum%20Australe%20constellation%20map.svg
@@ -41,34 +104,118 @@ official_name: Triangulum Australe
 dv_SpocWebEntityId: 28163
 dv_has_:
   name_:
-    la: Triangulum Australis
+    af: Suidelike Driehoek
+    ar: المثلث الجنوبي
+    arz: ترايانجولام اوسترالى
+    ast: Triangulum Australe
+    az: Cənub Üçbucağı
+    ba: Көньяҡ Өсмөйөш
+    be: Паўднёвы Трыкутнік
+    be-tarask: Паўднёвы Трыкутнік
+    bg: Южен триъгълник
+    bn: দক্ষিণ ত্রিকোণ মণ্ডল
+    br: Tric'horn ar Su
+    bs: Južni trokut
+    ca: Triangle Austral
+    cdo: Nàng-săng-gáe̤k-cô̤
+    co: Triangulu Australe
+    cs: Jižní trojúhelník
+    cy: Triangulum Australe
+    da: Sydlige Trekant
+    de: Südliches Dreieck
+    de-ch: Südliches Dreieck
+    diq: Hirêkışta Veroci
+    el: Τρίγωνον Νότιον
+    en: Triangulum Australe
+    en-ca: Triangulum Australe
+    en-gb: Triangulum Australe
+    eo: Suda Triangulo
+    es: Triangulum Australe
+    et: Lõunakolmnurk
+    eu: Triangulum Australe
+    fa: مثلث جنوبی
+    fi: Etelän kolmio
+    fr: Triangle austral
+    ga: Triantán an Deiscirt
+    gl: Triangulum Australe
+    gv: Troorane y Jiass
+    hak: Nàm-sâm-kok-chho
+    he: משולש דרומי
+    hi: दक्षिण त्रिकोण तारामंडल
+    hr: Južni trokut
+    hu: Déli Háromszög csillagkép
+    hy: Հարավային եռանկյունի
+    id: Triangulum Australe
+    is: Suðurþríhyrningurinn
+    it: Triangolo Australe
+    ja: みなみのさんかく座
+    jv: Triangulum Australe
+    ka: სამხრეთის სამკუთხედი
+    ko: 남쪽삼각형자리
+    kw: Triangulum Australe (ranneves)
+    la: Triangulum Australe
     la_:
       genitive: Trianguli Australis
-    de: Suedliches Dreieck
+    lb: Triangulum Australe
+    lt: Pietų Trikampis
+    lv: Dienvidu Trīsstūris
+    mk: Јужен Триаголник
+    ml: ദക്ഷിണ ത്രിഭുജം
+    ms: Segi Tiga Selatan
+    my: ထရိုင်ဂူလယ် ဩစထရေး
+    nan: Lâm-saⁿ-kak-chō
+    nb: Det sørlige triangelet
+    nl: Zuiderdriehoek
+    nn: Det sørlege triangelet
+    pl: Trójkąt Południowy
+    pt: Triangulum Australe
+    pt-br: Triangulum Australe
+    ro: Triunghiul Austral
+    ru: Южный Треугольник
+    sah: Соҕуруу Үс Муннук
+    sco: Triangulum Australe
+    sh: Južni trokut
+    sk: Južný trojuholník
+    sl: Južni trikotnik
+    sr: Јужни троугао
+    sv: Södra triangeln
+    sw: Pembetatu ya Kusini
+    th: กลุ่มดาวสามเหลี่ยมใต้
+    tr: Triangulum Australe
+    tt: Көньяк Өчпомак йолдызлыгы
+    udm: Лымшорпал Куиньсэрег
+    uk: Південний Трикутник
+    ur: مثلث جنوبی
+    uz: Janubiy uchburchak
+    vec: Triàngoło Austrałe
+    vi: Nam Tam Giác
+    war: Triangulum Australe
+    wuu: 南三角座
+    yue: 南三角座
+    zh: 南三角座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]]"
+  - '[[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]]'
 dv_has_name_la: Triangulum Australis
 dv_has_name_la_genitive: Trianguli Australis
 dv_has_name_de: Suedliches Dreieck
 dv_is_same_as:
-  - "[[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]]"
+- '[[../../WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis|Zodiac~Triangulum_Australis]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.public|Zodiac~Triangulum_Australis.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.internal|Zodiac~Triangulum_Australis.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.protect|Zodiac~Triangulum_Australis.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.private|Zodiac~Triangulum_Australis.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.personal|Zodiac~Triangulum_Australis.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum_Australis.secret|Zodiac~Triangulum_Australis.secret]]'
 ---
-
 # [[Zodiac~Triangulum_Australis]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId` 

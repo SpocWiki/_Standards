@@ -1,8 +1,140 @@
 ---
 aliases:
-has_id_wikidata: 
+- nimf
+- nimfa
+- Nimfalar
+- Nimfat
+- Nimfe
+- nimfeach
+- Nimfezed
+- nimfo
+- Nimfă
+- Nimpa (diwata)
+- ninfa
+- nymf
+- Nymfa
+- nymfe
+- nymff
+- nymfi
+- nymfy
+- nymph
+- Nympha
+- nymphe
+- nymphē
+- nîmfê
+- nümfid
+- Νύμφες
+- німфи
+- німфы
+- нимфæ
+- Нимфăсем
+- нимфа
+- Нимфтер
+- Нимфы
+- նիմփաներ
+- נימפה
+- حسینہ
+- حوراء
+- نیمف
+- परी
+- নিম্ফ
+- அணங்கு
+- นิมฟ์
+- နင့်ဖ်
+- ნიმფა
+- ニュンペー
+- 宁芙
+- 寧芙
+- ꯅꯤꯝ꯭ꯐ
+- 님프
+has_id_wikidata: Q373916
+dv_has_:
+  name_:
+    af: Nimf
+    an: Ninfa
+    ar: حوراء
+    as: নিম্ফ
+    ast: Ninfa
+    az: Nimfalar
+    be: німфы
+    bg: Нимфа
+    br: Nimfezed
+    bs: Nimfa
+    ca: nimfa
+    cs: nymfy
+    cv: Нимфăсем
+    cy: nymff
+    da: nymfe
+    de: Nymphe
+    el: Νύμφες
+    en: nymph
+    eo: nimfo
+    es: ninfa
+    et: nümfid
+    eu: Ninfa
+    fa: نیمف
+    fi: nymfi
+    fr: nymphe
+    ga: nimfeach
+    gl: Ninfa
+    he: נימפה
+    hr: Nimfa
+    hu: nimfa
+    hy: նիմփաներ
+    id: Nimfa
+    io: Nimfo
+    it: ninfa
+    ja: ニュンペー
+    ka: ნიმფა
+    kk: Нимфтер
+    ko: 님프
+    ku: nîmfê
+    ku-latn: nîmfê
+    la: Nympha
+    lb: Nymph
+    lfn: Nimfa
+    lmo: ninfa
+    lt: Nimfa
+    lv: nimfa
+    min: Nimfa
+    mk: нимфа
+    mni: ꯅꯤꯝ꯭ꯐ
+    ms: Nimfa
+    my: နင့်ဖ်
+    nb: nymfe
+    ne: परी
+    nl: nimf
+    nn: nymfe
+    oc: Nimfa
+    os: нимфæ
+    pl: nimfa
+    pt: ninfa
+    pt-br: ninfa
+    ro: Nimfă
+    ru: нимфа
+    rue: Нимфы
+    scn: ninfa
+    sco: nymph
+    sh: Nimfe
+    sk: Nymfa
+    sl: nimfa
+    sq: Nimfat
+    sr: нимфа
+    sr-ec: нимфа
+    sr-el: nimfa
+    sv: nymf
+    ta: அணங்கு
+    th: นิมฟ์
+    tl: Nimpa (diwata)
+    tr: nymphē
+    uk: німфи
+    ur: حسینہ
+    uz: Nimfalar
+    vi: nymph
+    wuu: 宁芙
+    yue: 寧芙
+    zh: 宁芙
 ---
-
 # [[Nymph(Mythology)]] 
 
 #is_/same_as :: 

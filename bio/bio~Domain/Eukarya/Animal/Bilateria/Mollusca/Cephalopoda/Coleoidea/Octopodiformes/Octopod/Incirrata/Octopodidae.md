@@ -1,9 +1,82 @@
 ---
 aliases:
-  - Octopodidae
+- Astoņkāju dzimta
+- chobotnicovití
+- Echte Kraken
+- Hobotnice
+- Octopodidae
+- Octopódidos
+- ośmiornicowate
+- prave hobotnice
+- октоподови
+- Хоботнице
+- תמנוניים
+- أخطبوطيات
+- اخطبوطيات
+- هشتپایان
+- マダコ科
+- 章魚科
+- 章鱼科
+- 문어과
 title: Octopodidae
+has_id_wikidata: Q1202874
+dv_has_:
+  name_:
+    an: Octopodidae
+    ar: أخطبوطيات
+    arz: اخطبوطيات
+    ast: Octopodidae
+    bg: октоподови
+    ca: Octopodidae
+    ceb: Octopodidae
+    cs: chobotnicovití
+    de: Octopodidae
+    el: Octopodidae
+    en: Octopodidae
+    eo: Octopodidae
+    es: Octopodidae
+    eu: Octopodidae
+    ext: Octopodidae
+    fa: هشتپایان
+    fi: Octopodidae
+    fr: Octopodidae
+    ga: Octopodidae
+    gl: Octopódidos
+    he: תמנוניים
+    ia: Octopodidae
+    ie: Octopodidae
+    io: Octopodidae
+    it: Octopodidae
+    ja: マダコ科
+    ko: 문어과
+    la: Octopodidae
+    lv: Astoņkāju dzimta
+    mul: Octopodidae
+    nds: Echte Kraken
+    nl: Octopodidae
+    oc: Octopodidae
+    pl: ośmiornicowate
+    pt: Octopodidae
+    pt-br: Octopodidae
+    ro: Octopodidae
+    ru: Octopodidae
+    sl: prave hobotnice
+    sq: Octopodidae
+    sr: Хоботнице
+    sr-ec: Хоботнице
+    sr-el: Hobotnice
+    sv: Octopodidae
+    tr: Octopodidae
+    uk: Octopodidae
+    vi: Octopodidae
+    vo: Octopodidae
+    war: Octopodidae
+    zh: 章魚科
+    zh-cn: 章鱼科
+    zh-hans: 章鱼科
+    zh-hant: 章魚科
+    zh-hk: 章魚科
 ---
-
 # [[Octopodidae]] 
 
 Octopods, octopuses, devilfishes 

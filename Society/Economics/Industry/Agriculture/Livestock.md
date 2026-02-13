@@ -1,19 +1,112 @@
 ---
 aliases:
-  - Vieh
-  - Livestock
+- abere
+- Ajalên kedî
+- Alidýr
+- animale economice
+- anụ ụlọ
+- Bagëtia
+- beostoc
+- Bestiam
+- bestiame
+- Bestiar
+- Bestiau
+- Bisten
+- boskap
+- Brutaro
+- bruto
+- bufe
+- buskap
+- bétail
+- Búfé
+- chatal
+- Ctenos
+- dobytek
+- Dobytok
+- elusloom
+- Et ve süt hayvanları
+- fermstockin
+- gado
+- galvijai
+- ganado
+- Gando
+- Ganáu
+- gia súc
+- Giĕ-tàu-săng
+- Gīvuolis
+- Haiwan ternakan
+- haszonállat
+- Hayopan
+- husdyr
+- Ingon-ingon
+- Ka-thiok
+- karja
+- Kodoelläi
+- Livestock
+- Läiyemac
+- Meublles
+- mol
+- mājlops
+- stoka
+- Taksa
+- ternak
+- Vee
+- Veehtüch
+- Vieh
+- Vieë
+- Véi
+- Xoolo
+- Zvipfuyo
+- Zwierzęta gospodarskie
+- çarway
+- živina
+- Ауыл хужалығы хайуандары
+- Выльăх-чĕрлĕх
+- добиток
+- Добитък
+- Мал
+- сельскагаспадарчыя жывёлы
+- сельскохозяйственные животные
+- Скотъ
+- стока
+- терлек
+- Фос
+- худоба
+- Գյուղատնտեսական կենդանիներ
+- בהמה
+- מקנה
+- ئاژالێن کەدی
+- ئاژەڵ
+- دام (حیوان)
+- ماشية
+- مویشی
+- ڈنگر
+- पशुधन
+- প্রাণিসম্পদ
+- கால்நடை
+- ಜಾನುವಾರು
+- കന്നുകാലി
+- පශු සම්පත්
+- ปศุสัตว์
+- ປະສຸສັດ
+- སྒོ་ཕྱུགས་སེམས་ཅན།
+- ᡠᠵᡳᠮᠠ
+- 家畜
+- 牲畜
+- 畜
+- 가축
 has_id_wikidata: Q103459
 facet_of: '[[_Standards/WikiData/WD~animal_husbandry,80962]]'
 different_from: '[[_Standards/WikiData/WD~Fee,560146]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~domesticated_animal,622852]]'
-  - '[[_Standards/WikiData/WD~productive_animal,1797813]]'
-  - '[[_Standards/WikiData/WD~captive_animal,57812559]]'
+- '[[_Standards/WikiData/WD~domesticated_animal,622852]]'
+- '[[_Standards/WikiData/WD~productive_animal,1797813]]'
+- '[[_Standards/WikiData/WD~captive_animal,57812559]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Animal_culture,19362175]]'
 instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edward%20Hicks%20001.jpg
@@ -23,8 +116,125 @@ MeSH_tree_code: B01.050.050.116.500
 UMLS_CUI: C2936506
 Colon_Classification: KX2
 Commons_category: Livestock
+dv_has_:
+  name_:
+    af: Vee
+    an: Bestiar
+    ar: ماشية
+    ast: Ganáu
+    ba: Ауыл хужалығы хайуандары
+    be: сельскагаспадарчыя жывёлы
+    be-tarask: сельскагаспадарчыя жывёлы
+    bg: Добитък
+    bn: প্রাণিসম্পদ
+    bo: སྒོ་ཕྱུགས་སེམས་ཅན།
+    br: chatal
+    bs: stoka
+    bxr: Мал
+    ca: bestiar
+    cdo: Giĕ-tàu-săng
+    ceb: Hayopan
+    ckb: ئاژەڵ
+    cs: dobytek
+    cu: Скотъ
+    cv: Выльăх-чĕрлĕх
+    da: husdyr
+    de: Vieh
+    din: Läiyemac
+    diq: çarway
+    en: livestock
+    eo: bruto
+    es: ganado
+    et: elusloom
+    eu: abere
+    fa: دام (حیوان)
+    fi: karja
+    fo: Alidýr
+    fr: bétail
+    fy: Bisten
+    ga: beostoc
+    gl: Gando
+    he: מקנה
+    hi: पशुधन
+    hr: stoka
+    hu: haszonállat
+    hy: Գյուղատնտեսական կենդանիներ
+    id: ternak
+    ig: anụ ụlọ
+    io: Brutaro
+    is: Búfé
+    it: bestiame
+    ja: 家畜
+    kab: Taksa
+    kk: Мал
+    kn: ಜಾನುವಾರು
+    ko: 가축
+    ku: Ajalên kedî
+    ku-arab: ئاژالێن کەدی
+    ku-latn: Ajalên kedî
+    la: Ctenos
+    lb: Véi
+    li: Vieë
+    lld: Bestiam
+    lo: ປະສຸສັດ
+    lt: galvijai
+    lv: mājlops
+    lzh: 畜
+    mk: добиток
+    ml: കന്നുകാലി
+    mn: Мал
+    mnc: ᡠᠵᡳᠮᠠ
+    mr: पशुधन
+    ms: Haiwan ternakan
+    nan: Ka-thiok
+    nb: bufe
+    nds: Veehtüch
+    nl: vee
+    nn: buskap
+    nrm: Meublles
+    oc: Bestiau
+    os: Фос
+    pcd: Bétail
+    pl: Zwierzęta gospodarskie
+    pnb: ڈنگر
+    pt: gado
+    pt-br: gado
+    ro: animale economice
+    ru: сельскохозяйственные животные
+    sco: fermstockin
+    sgs: Gīvuolis
+    sh: Stoka
+    si: පශු සම්පත්
+    sk: Dobytok
+    sl: živina
+    sn: Zvipfuyo
+    so: Xoolo
+    sq: Bagëtia
+    sr: стока
+    sr-ec: стока
+    sr-el: stoka
+    su: Ingon-ingon
+    sv: boskap
+    ta: கால்நடை
+    th: ปศุสัตว์
+    tr: Et ve süt hayvanları
+    tt: терлек
+    uk: худоба
+    ur: مویشی
+    uz: mol
+    vi: gia súc
+    vro: Kodoelläi
+    wuu: 家畜
+    yi: בהמה
+    yue: 牲畜
+    zh: 家畜
+    zh-cn: 家畜
+    zh-hans: 家畜
+    zh-hant: 家畜
+    zh-hk: 家畜
+    zh-sg: 家畜
+    zh-tw: 家畜
 ---
-
 # [[Livestock]] 
 
 #is_/same_as :: [[WD~Livestock,103459]] 

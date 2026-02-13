@@ -1,10 +1,82 @@
 ---
 aliases:
-  - John David Washington
-  - Washington,John_David
-  - Washington,John David
+- Džons Deivids Vašingtons
+- John David Washington
+- Washington,John David
+- Washington,John_David
+- Τζον Ντέιβιντ Ουάσινγκτον
+- Џон Дејвид Вошингтон
+- Джон Девід Вашингтон
+- Джон Дэвид Вашингтон
+- Ջոն Դեյվիդ Վաշինգտոն
+- ג'ון דיוויד וושינגטון
+- جان دیوید واشنگتن
+- جون ديفيد واشنطن
+- جۆن دەیڤد واشینگتن
+- जोन डेभिड वासिङ्टन
+- ஜான் டேவிட் வாசிங்டன்
+- ジョン・デヴィッド・ワシントン
+- 約翰·大衛·華盛頓
+- 존 데이비드 워싱턴
+has_id_wikidata: Q4120019
+dv_has_:
+  name_:
+    ace: John David Washington
+    ar: جون ديفيد واشنطن
+    arz: جون ديفيد واشنطن
+    ast: John David Washington
+    bjn: John David Washington
+    bug: John David Washington
+    ca: John David Washington
+    ckb: جۆن دەیڤد واشینگتن
+    cs: John David Washington
+    da: John David Washington
+    de: John David Washington
+    el: Τζον Ντέιβιντ Ουάσινγκτον
+    en: John David Washington
+    en-us: John David Washington
+    es: John David Washington
+    eu: John David Washington
+    fa: جان دیوید واشنگتن
+    fi: John David Washington
+    fr: John David Washington
+    ga: John David Washington
+    gl: John David Washington
+    he: ג'ון דיוויד וושינגטון
+    hu: John David Washington
+    hy: Ջոն Դեյվիդ Վաշինգտոն
+    id: John David Washington
+    it: John David Washington
+    ja: ジョン・デヴィッド・ワシントン
+    jv: John David Washington
+    ko: 존 데이비드 워싱턴
+    lb: John David Washington
+    lv: Džons Deivids Vašingtons
+    map-bms: John David Washington
+    min: John David Washington
+    ms: John David Washington
+    nb: John David Washington
+    ne: जोन डेभिड वासिङ्टन
+    nl: John David Washington
+    pap: John David Washington
+    pl: John David Washington
+    pt: John David Washington
+    pt-br: John David Washington
+    ro: John David Washington
+    ru: Джон Дэвид Вашингтон
+    sk: John David Washington
+    sl: John David Washington
+    sq: John David Washington
+    sr: Џон Дејвид Вошингтон
+    su: John David Washington
+    sv: John David Washington
+    ta: ஜான் டேவிட் வாசிங்டன்
+    tr: John David Washington
+    uk: Джон Девід Вашингтон
+    yo: John David Washington
+    zh: 約翰·大衛·華盛頓
+    zh-hant: 約翰·大衛·華盛頓
 ---
-
 #has_/time_/started :: 1984-07-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

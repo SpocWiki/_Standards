@@ -1,16 +1,78 @@
 ---
 aliases:
-  - Kannibalismus
-  - Cannibalism
+- canablacht
+- Canibaliaeth
+- canibalism
+- canibalisme
+- canibalismo
+- Canibalismu
+- canibałismo
+- Cannibalism
+- cannibalisme
+- cannibalismo
+- Cannibalismus
+- Chia̍h-kâng-lūi
+- Dadqalato
+- I-cannibalism
+- Kanibaleso
+- Kanibalisma
+- Kanibalisme
+- kanibalismo
+- kanibalismus
+- Kanibalizam
+- kanibalizem
+- kanibalizm
+- kanibalizmas
+- kanibalizmus
+- Kanibalët
+- kanibālisms
+- kannibalism
+- kannibalisme
+- kannibalismi
+- Kannibalismus
+- kannibalizm
+- kannibalizmus
+- Mannát
+- yamyamlık
+- ăn thịt đồng loại
+- Κανιβαλισμός
+- канібалізм
+- Канибализам
+- Канибализм
+- канибализъм
+- каннибализм
+- Каннибализм (зоология)
+- կաննիբալիզմ
+- קאניבאליזם
+- קניבליזם
+- آدم خور
+- آدمخواری
+- أكل المثيل
+- كانيباليه
+- ھاوجۆرخۆری
+- स्वजातिभक्षण
+- নরমাংস ভক্ষণ
+- ਆਦਮਖ਼ੋਰੀ
+- தன்னின உயிருண்ணி
+- నరమాంస భక్షణ
+- ನರಭಕ್ಷಕತನ
+- നരഭോജി
+- มนุษย์กินคน
+- კანიბალიზმი
+- 共食い
+- 同类相食
+- 同類相食
+- 食人肉
+- 식인 풍습
 has_id_wikidata: Q44595
 subclass_of:
-  - '[[_Standards/WikiData/WD~predation,170430]]'
-  - '[[_Standards/WikiData/WD~feeding_behavior,14819856]]'
+- '[[_Standards/WikiData/WD~predation,170430]]'
+- '[[_Standards/WikiData/WD~feeding_behavior,14819856]]'
 has_part_s_: '[[_Standards/WikiData/WD~eating,213449]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 different_from: '[[_Standards/WikiData/WD~human_cannibalism,2853058]]'
 characteristic_of: '[[_Standards/WikiData/WD~congener,27342414]]'
 practiced_by: '[[_Standards/WikiData/WD~cannibal,60526706]]'
@@ -23,8 +85,106 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cannibalism%20during%2
 P8189: 987007283359605171
 UMLS_CUI: C0006875
 MeSH_tree_code: F01.145.113.547.200
+dv_has_:
+  name_:
+    af: Kannibalisme
+    ar: أكل المثيل
+    arz: كانيباليه
+    ast: Canibalismu
+    az: kannibalizm
+    be: канібалізм
+    be-tarask: канібалізм
+    bg: канибализъм
+    bn: নরমাংস ভক্ষণ
+    bs: Kanibalizam
+    ca: canibalisme
+    ckb: ھاوجۆرخۆری
+    cs: kanibalismus
+    cy: Canibaliaeth
+    da: kannibalisme
+    de: Kannibalismus
+    de-ch: Kannibalismus
+    el: Κανιβαλισμός
+    en: cannibalism
+    en-ca: Cannibalism
+    en-gb: cannibalism
+    eo: kanibalismo
+    es: canibalismo
+    et: Kannibalism
+    eu: Kanibalismo
+    fa: آدمخواری
+    fi: kannibalismi
+    fr: cannibalisme
+    fy: Kannibalisme
+    ga: canablacht
+    gl: Canibalismo
+    he: קניבליזם
+    hr: Kanibalizam
+    hu: kannibalizmus
+    hy: կաննիբալիզմ
+    id: Kanibalisme
+    io: Kanibaleso
+    is: Mannát
+    it: cannibalismo
+    ja: 共食い
+    jv: Kanibalisme
+    ka: კანიბალიზმი
+    kk: Каннибализм (зоология)
+    kn: ನರಭಕ್ಷಕತನ
+    ko: 식인 풍습
+    ky: Каннибализм
+    la: Cannibalismus
+    lb: Kannibalismus
+    li: Kannibalisme
+    lt: kanibalizmas
+    lv: kanibālisms
+    mg: Kanibalisma
+    mk: Канибализам
+    ml: നരഭോജി
+    mn: Каннибализм
+    mr: स्वजातिभक्षण
+    ms: Kanibalisme
+    nan: Chia̍h-kâng-lūi
+    nb: kannibalisme
+    nl: kannibalisme
+    nn: kannibalisme
+    oc: Canibalisme
+    pa: ਆਦਮਖ਼ੋਰੀ
+    pl: kanibalizm
+    pt: Canibalismo
+    ro: canibalism
+    ru: каннибализм
+    sd: آدم خور
+    sh: Kanibalizam
+    sk: kanibalizmus
+    sl: kanibalizem
+    so: Dadqalato
+    sq: Kanibalët
+    sr: канибализам
+    sr-ec: канибализам
+    sv: kannibalism
+    ta: தன்னின உயிருண்ணி
+    te: నరమాంస భక్షణ
+    th: มนุษย์กินคน
+    tl: Kanibalismo
+    tr: yamyamlık
+    uk: канібалізм
+    ur: آدم خور
+    uz: Kannibalizm
+    vec: canibałismo
+    vi: ăn thịt đồng loại
+    war: Kanibalismo
+    wuu: 同类相食
+    xal: Канибализм
+    xh: I-cannibalism
+    yi: קאניבאליזם
+    yue: 食人肉
+    zh: 同类相食
+    zh-cn: 同类相食
+    zh-hans: 同类相食
+    zh-hant: 同類相食
+    zh-tw: 同類相食
 ---
-
 # [[Cannibalism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cannibalism,44595|WD~Cannibalism,44595]] 

@@ -1,112 +1,135 @@
 ---
 aliases:
-  - Caspar David Friedrich
-  - Friedrich,Caspar_David
-  - Friedrich,Caspar David
+- Caspar David Friedrich
+- Friedrich,Caspar David
+- Friedrich,Caspar_David
+- Kaspar David Fridrih
+- Kasparas Davidas Frydrichas
+- Kaspars Dāvids Frīdrihs
+- Kasper David Fredriç
+- Κάσπαρ Ντάβιντ Φρίντριχ
+- Каспар Давід Фрыдрых
+- Каспар Давид Фрідріх
+- Каспар Давид Фридрих
+- Կասպար Դավիդ Ֆրիդրիխ
+- קאספאר דייוויד פרידריך
+- كاسبر ديفيد فريدريك
+- کاسپار داوید فریدریش
+- क्यास्पर डेभिड फ्रेडरिक
+- डेविड फ्रीडरिख
+- কাসপার ডাভিড ফ্রিডরিখ
+- ਕੈਸਪਰ ਡੇਵਿਡ ਫ਼ਰੀਡਰਿਸ਼
+- காஸ்பர் டேவிட் பிரடெரிக்
+- კასპარ დავიდ ფრიდრიხი
+- カスパー・ダーヴィト・フリードリヒ
+- 卡斯巴·佛烈德利赫
+- 卡斯巴·費德里希
+- 卡斯帕·弗里德里希
+- 카스파 다비드 프리드리히
 has_id_wikidata: Q104884
 sibling:
-  - '[[_Standards/WikiData/WD~Joachim_Christian_Adolf_Friedrich,59378901]]'
-  - '[[_Standards/WikiData/WD~Johann_Heinrich_Friedrich,130473033]]'
-  - '[[_Standards/WikiData/WD~Johann_Samuel_Friedrich,133192215]]'
+- '[[_Standards/WikiData/WD~Joachim_Christian_Adolf_Friedrich,59378901]]'
+- '[[_Standards/WikiData/WD~Johann_Heinrich_Friedrich,130473033]]'
+- '[[_Standards/WikiData/WD~Johann_Samuel_Friedrich,133192215]]'
 artist_files_at:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]'
-  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art_Library,64579481]]'
+- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Paintings_of_the_nineteenth_century_contribution_to_the_history_of_art,72628185]]'
-  - '[[_Standards/WikiData/WD~Q126174668,126174668]]'
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Paintings_of_the_nineteenth_century_contribution_to_the_history_of_art,72628185]]'
+- '[[_Standards/WikiData/WD~Q126174668,126174668]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Thuringian_State_Museum_Heidecksburg,76639308]]'
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Print_Collection,105027234]]'
-  - '[[_Standards/WikiData/WD~Pushkin_Museum_of_Fine_Arts,4872]]'
-  - '[[_Standards/WikiData/WD~Museum_Folkwang,125634]]'
-  - '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
-  - '[[_Standards/WikiData/WD~National_Museum_in_Warsaw,153306]]'
-  - '[[_Standards/WikiData/WD~Charlottenburg_Palace,154996]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
-  - '[[_Standards/WikiData/WD~Alte_Nationalgalerie,162111]]'
-  - '[[_Standards/WikiData/WD~Städel_Museum,163804]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Art_and_Cultural_History_(Dortmund),164887]]'
-  - '[[_Standards/WikiData/WD~Gemäldegalerie,165631]]'
-  - '[[_Standards/WikiData/WD~Hamburger_Kunsthalle,169542]]'
-  - '[[_Standards/WikiData/WD~Thyssen_Bornemisza_Museum,176251]]'
-  - '[[_Standards/WikiData/WD~National_Gallery,180788]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - '[[_Standards/WikiData/WD~Belvedere,303139]]'
-  - '[[_Standards/WikiData/WD~Landesmuseum_Hannover,314082]]'
-  - '[[_Standards/WikiData/WD~Museum_Ostwall,314441]]'
-  - '[[_Standards/WikiData/WD~Glaspalast,319069]]'
-  - '[[_Standards/WikiData/WD~Kunsthalle_Kiel,327540]]'
-  - '[[_Standards/WikiData/WD~Albertina,371908]]'
-  - '[[_Standards/WikiData/WD~Museum_Kunstpalast,461277]]'
-  - '[[_Standards/WikiData/WD~Kunsthalle_Mannheim,468458]]'
-  - '[[_Standards/WikiData/WD~Galerie_Neue_Meister,472706]]'
-  - '[[_Standards/WikiData/WD~Führermuseum,475667]]'
-  - '[[_Standards/WikiData/WD~Germanisches_Nationalmuseum,478695]]'
-  - '[[_Standards/WikiData/WD~Angermuseum,538183]]'
-  - '[[_Standards/WikiData/WD~Kupferstichkabinett_Berlin,555946]]'
-  - '[[_Standards/WikiData/WD~Museum_der_bildenden_Künste,566661]]'
-  - '[[_Standards/WikiData/WD~Kupferstich_Kabinett_Dresden,570620]]'
-  - '[[_Standards/WikiData/WD~Staatliche_Kunstsammlungen_Dresden,653002]]'
-  - '[[_Standards/WikiData/WD~Staatliche_Kunsthalle_Karlsruhe,658725]]'
-  - '[[_Standards/WikiData/WD~Statens_Museum_for_Kunst,671384]]'
-  - '[[_Standards/WikiData/WD~Herzog_Anton_Ulrich_Museum,678082]]'
-  - '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
-  - '[[_Standards/WikiData/WD~Museum_collection_Am_Römerholz,682406]]'
-  - '[[_Standards/WikiData/WD~Lentos_Art_Museum,686531]]'
-  - '[[_Standards/WikiData/WD~Kunst_Museum_Winterthur_Reinhart_am_Stadtgarten,689829]]'
-  - '[[_Standards/WikiData/WD~Kunsthalle_Bremen,693591]]'
-  - '[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]'
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~Bavarian_State_Painting_Collections,812285]]'
-  - '[[_Standards/WikiData/WD~Schloss_Weimar,878253]]'
-  - '[[_Standards/WikiData/WD~Museum_Georg_Schäfer,880898]]'
-  - '[[_Standards/WikiData/WD~Goethe_House,896039]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]'
-  - '[[_Standards/WikiData/WD~National_Gallery_Prague,1419555]]'
-  - '[[_Standards/WikiData/WD~Ducal_Museum_Gotha,1615331]]'
-  - '[[_Standards/WikiData/WD~Pomeranian_State_Museum,1639759]]'
-  - '[[_Standards/WikiData/WD~Kimbell_Art_Museum,1741629]]'
-  - '[[_Standards/WikiData/WD~Saint_Louis_Art_Museum,1760539]]'
-  - '[[_Standards/WikiData/WD~Art_Collections_Chemnitz,1792616]]'
-  - '[[_Standards/WikiData/WD~Hessen_Kassel_Heritage,1954840]]'
-  - '[[_Standards/WikiData/WD~Staatliches_Museum_Schwerin,2324618]]'
-  - '[[_Standards/WikiData/WD~National_Museum_in_Szczecin,2802195]]'
-  - "[[_Standards/WikiData/WD~Musée_des_Beaux_Arts_d'Angers,3277885]]"
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Norway,3330707]]'
-  - '[[_Standards/WikiData/WD~Staatsgalerie_Stuttgart,14917275]]'
+- '[[_Standards/WikiData/WD~Thuringian_State_Museum_Heidecksburg,76639308]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Print_Collection,105027234]]'
+- '[[_Standards/WikiData/WD~Pushkin_Museum_of_Fine_Arts,4872]]'
+- '[[_Standards/WikiData/WD~Museum_Folkwang,125634]]'
+- '[[_Standards/WikiData/WD~Hermitage_Museum,132783]]'
+- '[[_Standards/WikiData/WD~National_Museum_in_Warsaw,153306]]'
+- '[[_Standards/WikiData/WD~Charlottenburg_Palace,154996]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+- '[[_Standards/WikiData/WD~Alte_Nationalgalerie,162111]]'
+- '[[_Standards/WikiData/WD~Städel_Museum,163804]]'
+- '[[_Standards/WikiData/WD~Museum_of_Art_and_Cultural_History_(Dortmund),164887]]'
+- '[[_Standards/WikiData/WD~Gemäldegalerie,165631]]'
+- '[[_Standards/WikiData/WD~Hamburger_Kunsthalle,169542]]'
+- '[[_Standards/WikiData/WD~Thyssen_Bornemisza_Museum,176251]]'
+- '[[_Standards/WikiData/WD~National_Gallery,180788]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Belvedere,303139]]'
+- '[[_Standards/WikiData/WD~Landesmuseum_Hannover,314082]]'
+- '[[_Standards/WikiData/WD~Museum_Ostwall,314441]]'
+- '[[_Standards/WikiData/WD~Glaspalast,319069]]'
+- '[[_Standards/WikiData/WD~Kunsthalle_Kiel,327540]]'
+- '[[_Standards/WikiData/WD~Albertina,371908]]'
+- '[[_Standards/WikiData/WD~Museum_Kunstpalast,461277]]'
+- '[[_Standards/WikiData/WD~Kunsthalle_Mannheim,468458]]'
+- '[[_Standards/WikiData/WD~Galerie_Neue_Meister,472706]]'
+- '[[_Standards/WikiData/WD~Führermuseum,475667]]'
+- '[[_Standards/WikiData/WD~Germanisches_Nationalmuseum,478695]]'
+- '[[_Standards/WikiData/WD~Angermuseum,538183]]'
+- '[[_Standards/WikiData/WD~Kupferstichkabinett_Berlin,555946]]'
+- '[[_Standards/WikiData/WD~Museum_der_bildenden_Künste,566661]]'
+- '[[_Standards/WikiData/WD~Kupferstich_Kabinett_Dresden,570620]]'
+- '[[_Standards/WikiData/WD~Staatliche_Kunstsammlungen_Dresden,653002]]'
+- '[[_Standards/WikiData/WD~Staatliche_Kunsthalle_Karlsruhe,658725]]'
+- '[[_Standards/WikiData/WD~Statens_Museum_for_Kunst,671384]]'
+- '[[_Standards/WikiData/WD~Herzog_Anton_Ulrich_Museum,678082]]'
+- '[[_Standards/WikiData/WD~Museum_Boijmans_Van_Beuningen,679527]]'
+- '[[_Standards/WikiData/WD~Museum_collection_Am_Römerholz,682406]]'
+- '[[_Standards/WikiData/WD~Lentos_Art_Museum,686531]]'
+- '[[_Standards/WikiData/WD~Kunst_Museum_Winterthur_Reinhart_am_Stadtgarten,689829]]'
+- '[[_Standards/WikiData/WD~Kunsthalle_Bremen,693591]]'
+- '[[_Standards/WikiData/WD~Wallraf_Richartz_Museum,700959]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Bavarian_State_Painting_Collections,812285]]'
+- '[[_Standards/WikiData/WD~Schloss_Weimar,878253]]'
+- '[[_Standards/WikiData/WD~Museum_Georg_Schäfer,880898]]'
+- '[[_Standards/WikiData/WD~Goethe_House,896039]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Art,_Architecture_and_Design,1132918]]'
+- '[[_Standards/WikiData/WD~National_Gallery_Prague,1419555]]'
+- '[[_Standards/WikiData/WD~Ducal_Museum_Gotha,1615331]]'
+- '[[_Standards/WikiData/WD~Pomeranian_State_Museum,1639759]]'
+- '[[_Standards/WikiData/WD~Kimbell_Art_Museum,1741629]]'
+- '[[_Standards/WikiData/WD~Saint_Louis_Art_Museum,1760539]]'
+- '[[_Standards/WikiData/WD~Art_Collections_Chemnitz,1792616]]'
+- '[[_Standards/WikiData/WD~Hessen_Kassel_Heritage,1954840]]'
+- '[[_Standards/WikiData/WD~Staatliches_Museum_Schwerin,2324618]]'
+- '[[_Standards/WikiData/WD~National_Museum_in_Szczecin,2802195]]'
+- "[[_Standards/WikiData/WD~Musée_des_Beaux_Arts_d'Angers,3277885]]"
+- '[[_Standards/WikiData/WD~National_Gallery_of_Norway,3330707]]'
+- '[[_Standards/WikiData/WD~Staatsgalerie_Stuttgart,14917275]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 mother: '[[_Standards/WikiData/WD~Sophia_Dorothea_Bechly,104919620]]'
 catalogue_raisonné:
-  - '[[_Standards/WikiData/WD~Caspar_David_Friedrich._Die_Zeichnungen._Das_gesamte_Werk,124570386]]'
-  - '[[_Standards/WikiData/WD~Caspar_David_Friedrich._Gemälde,_Druckgraphik_und_bildmäßige_Zeichnungen,130242643]]'
-  - '[[_Standards/WikiData/WD~Q130242671,130242671]]'
+- '[[_Standards/WikiData/WD~Caspar_David_Friedrich._Die_Zeichnungen._Das_gesamte_Werk,124570386]]'
+- '[[_Standards/WikiData/WD~Caspar_David_Friedrich._Gemälde,_Druckgraphik_und_bildmäßige_Zeichnungen,130242643]]'
+- '[[_Standards/WikiData/WD~Q130242671,130242671]]'
 depicted_by: '[[_Standards/WikiData/WD~Q130243066,130243066]]'
 date_of_death: 1840-05-07T00:00:00Z
 place_of_death: '[[_Standards/WikiData/WD~Dresden,1731]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Dresden,1731]]'
-  - '[[_Standards/WikiData/WD~Vienna,1741]]'
-  - '[[_Standards/WikiData/WD~Copenhagen,1748]]'
-  - '[[_Standards/WikiData/WD~Neubrandenburg,3958]]'
-  - '[[_Standards/WikiData/WD~Greifswald,4098]]'
-  - '[[_Standards/WikiData/WD~Loschwitz,8939]]'
+- '[[_Standards/WikiData/WD~Dresden,1731]]'
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
+- '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+- '[[_Standards/WikiData/WD~Neubrandenburg,3958]]'
+- '[[_Standards/WikiData/WD~Greifswald,4098]]'
+- '[[_Standards/WikiData/WD~Loschwitz,8939]]'
 place_of_birth: '[[_Standards/WikiData/WD~Greifswald,4098]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~art_of_painting,11629]]'
-  - '[[_Standards/WikiData/WD~landscape_painting,191163]]'
-  - '[[_Standards/WikiData/WD~art_of_drawing,2921001]]'
+- '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+- '[[_Standards/WikiData/WD~landscape_painting,191163]]'
+- '[[_Standards/WikiData/WD~art_of_drawing,2921001]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-  - '[[_Standards/WikiData/WD~Sweden,34]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Sweden,34]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 ethnic_group: '[[_Standards/WikiData/WD~Germans,42884]]'
@@ -127,38 +150,38 @@ Libris_URI: qn2446l855q3p7m
 name_in_native_language: Caspar David Friedrich
 date_of_birth: 1774-09-05T00:00:00Z
 described_at_URL:
-  - http://www.caspar-david-friedrich-greifswald.de/
-  - https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8149
-  - https://www.kmw.ch/ausstellungen/friedrich/digital/
-  - https://caspardavid250.de
+- http://www.caspar-david-friedrich-greifswald.de/
+- https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/8149
+- https://www.kmw.ch/ausstellungen/friedrich/digital/
+- https://caspardavid250.de
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Caspar%20David%20Friedrich.ogg
 religion_or_worldview: '[[_Standards/WikiData/WD~Lutheranism,75809]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Greifswald,165528]]'
-  - '[[_Standards/WikiData/WD~Royal_Danish_Academy_of_Fine_Arts,1641001]]'
+- '[[_Standards/WikiData/WD~University_of_Greifswald,165528]]'
+- '[[_Standards/WikiData/WD~Royal_Danish_Academy_of_Fine_Arts,1641001]]'
 genre: '[[_Standards/WikiData/WD~landscape_painting,191163]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Sea_of_Ice,194137]]'
-  - '[[_Standards/WikiData/WD~Wanderer_above_the_Sea_of_Fog,311243]]'
-  - '[[_Standards/WikiData/WD~The_Abbey_in_the_Oakwood,334360]]'
-  - '[[_Standards/WikiData/WD~The_Monk_by_the_Sea,693746]]'
-  - '[[_Standards/WikiData/WD~Chalk_Cliffs_at_Ruegen,1787143]]'
-  - '[[_Standards/WikiData/WD~Two_men_contemplating_the_Moon,17281208]]'
+- '[[_Standards/WikiData/WD~The_Sea_of_Ice,194137]]'
+- '[[_Standards/WikiData/WD~Wanderer_above_the_Sea_of_Fog,311243]]'
+- '[[_Standards/WikiData/WD~The_Abbey_in_the_Oakwood,334360]]'
+- '[[_Standards/WikiData/WD~The_Monk_by_the_Sea,693746]]'
+- '[[_Standards/WikiData/WD~Chalk_Cliffs_at_Ruegen,1787143]]'
+- '[[_Standards/WikiData/WD~Two_men_contemplating_the_Moon,17281208]]'
 father: '[[_Standards/WikiData/WD~Adolph_Gottlieb_Friedrich,365379]]'
 employer: '[[_Standards/WikiData/WD~Dresden_Academy_of_Fine_Arts,464752]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Thomas_Thorild,545604]]'
-  - '[[_Standards/WikiData/WD~Jens_Juel,581361]]'
-  - '[[_Standards/WikiData/WD~Johann_Gottfried_Quistorp,1694137]]'
-  - '[[_Standards/WikiData/WD~Christian_August_Lorentzen,3416034]]'
+- '[[_Standards/WikiData/WD~Thomas_Thorild,545604]]'
+- '[[_Standards/WikiData/WD~Jens_Juel,581361]]'
+- '[[_Standards/WikiData/WD~Johann_Gottfried_Quistorp,1694137]]'
+- '[[_Standards/WikiData/WD~Christian_August_Lorentzen,3416034]]'
 occupation:
-  - '[[_Standards/WikiData/WD~painter,1028181]]'
-  - '[[_Standards/WikiData/WD~sculptor,1281618]]'
-  - '[[_Standards/WikiData/WD~printmaker,11569986]]'
-  - '[[_Standards/WikiData/WD~architectural_draftsperson,14623005]]'
-  - '[[_Standards/WikiData/WD~draftsperson,15296811]]'
-  - '[[_Standards/WikiData/WD~watercolorist,17505902]]'
-  - '[[_Standards/WikiData/WD~landscape_painter,21600439]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~sculptor,1281618]]'
+- '[[_Standards/WikiData/WD~printmaker,11569986]]'
+- '[[_Standards/WikiData/WD~architectural_draftsperson,14623005]]'
+- '[[_Standards/WikiData/WD~draftsperson,15296811]]'
+- '[[_Standards/WikiData/WD~watercolorist,17505902]]'
+- '[[_Standards/WikiData/WD~landscape_painter,21600439]]'
 place_of_burial: '[[_Standards/WikiData/WD~Trinitatis_Cemetery,1389609]]'
 movement: '[[_Standards/WikiData/WD~German_Romanticism,2477112]]'
 has_list: '[[_Standards/WikiData/WD~list_of_works_by_Caspar_David_Friedrich,3044675]]'
@@ -166,9 +189,109 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Friedrich,14038466]]'
 spouse: '[[_Standards/WikiData/WD~Caroline_Friedrich,17300310]]'
 given_name:
-  - '[[_Standards/WikiData/WD~David,18057751]]'
-  - '[[_Standards/WikiData/WD~Caspar,18145725]]'
+- '[[_Standards/WikiData/WD~David,18057751]]'
+- '[[_Standards/WikiData/WD~Caspar,18145725]]'
 child: '[[_Standards/WikiData/WD~Adolf_Friedrich,18611778]]'
+dv_has_:
+  name_:
+    af: Caspar David Friedrich
+    ar: كاسبر ديفيد فريدريك
+    arz: كاسبر ديفيد فريدريك
+    ast: Caspar David Friedrich
+    avk: Caspar David Friedrich
+    be: Каспар Давід Фрыдрых
+    be-tarask: Каспар Давід Фрыдрых
+    bg: Каспар Давид Фридрих
+    bn: কাসপার ডাভিড ফ্রিডরিখ
+    br: Caspar David Friedrich
+    ca: Caspar David Friedrich
+    cs: Caspar David Friedrich
+    da: Caspar David Friedrich
+    de: Caspar David Friedrich
+    dsb: Caspar David Friedrich
+    ee: Caspar David Friedrich
+    el: Κάσπαρ Ντάβιντ Φρίντριχ
+    en: Caspar David Friedrich
+    eo: Caspar David Friedrich
+    es: Caspar David Friedrich
+    et: Caspar David Friedrich
+    eu: Caspar David Friedrich
+    fa: کاسپار داوید فریدریش
+    fi: Caspar David Friedrich
+    fo: Caspar David Friedrich
+    fr: Caspar David Friedrich
+    fy: Caspar David Friedrich
+    ga: Caspar David Friedrich
+    gl: Caspar David Friedrich
+    he: קאספאר דייוויד פרידריך
+    hi: डेविड फ्रीडरिख
+    hif: Caspar David Friedrich
+    hr: Caspar David Friedrich
+    hsb: Caspar David Friedrich
+    hu: Caspar David Friedrich
+    hy: Կասպար Դավիդ Ֆրիդրիխ
+    id: Caspar David Friedrich
+    ie: Caspar David Friedrich
+    io: Caspar David Friedrich
+    is: Caspar David Friedrich
+    it: Caspar David Friedrich
+    ja: カスパー・ダーヴィト・フリードリヒ
+    jv: Caspar David Friedrich
+    ka: კასპარ დავიდ ფრიდრიხი
+    ko: 카스파 다비드 프리드리히
+    la: Caspar David Friedrich
+    lb: Caspar David Friedrich
+    lfn: Caspar David Friedrich
+    lt: Kasparas Davidas Frydrichas
+    lv: Kaspars Dāvids Frīdrihs
+    mg: Caspar David Friedrich
+    mi: Caspar David Friedrich
+    mk: Каспар Давид Фридрих
+    ms: Caspar David Friedrich
+    mul: Caspar David Friedrich
+    nan: Caspar David Friedrich
+    nb: Caspar David Friedrich
+    nds: Caspar David Friedrich
+    nds-nl: Caspar David Friedrich
+    new: क्यास्पर डेभिड फ्रेडरिक
+    nl: Caspar David Friedrich
+    nn: Caspar David Friedrich
+    oc: Caspar David Friedrich
+    pa: ਕੈਸਪਰ ਡੇਵਿਡ ਫ਼ਰੀਡਰਿਸ਼
+    pdc: Caspar David Friedrich
+    pl: Caspar David Friedrich
+    pms: Caspar David Friedrich
+    pt: Caspar David Friedrich
+    pt-br: Caspar David Friedrich
+    qu: Caspar David Friedrich
+    ro: Caspar David Friedrich
+    ru: Каспар Давид Фридрих
+    sco: Caspar David Friedrich
+    se: Caspar David Friedrich
+    sh: Caspar David Friedrich
+    sk: Caspar David Friedrich
+    sl: Caspar David Friedrich
+    sq: Kasper David Fredriç
+    sr: Kaspar David Fridrih
+    sr-ec: Каспар Давид Фридрих
+    stq: Caspar David Friedrich
+    sv: Caspar David Friedrich
+    ta: காஸ்பர் டேவிட் பிரடெரிக்
+    tl: Caspar David Friedrich
+    tr: Caspar David Friedrich
+    uk: Каспар Давид Фрідріх
+    vi: Caspar David Friedrich
+    war: Caspar David Friedrich
+    wuu: 卡斯帕·弗里德里希
+    yo: Caspar David Friedrich
+    yue: 卡斯巴·費德里希
+    zh: 卡斯帕·弗里德里希
+    zh-cn: 卡斯帕·弗里德里希
+    zh-hans: 卡斯帕·弗里德里希
+    zh-hant: 卡斯巴·佛烈德利赫
+    zh-hk: 卡斯巴·費德里希
+    zh-sg: 卡斯帕·弗里德里希
+    zh-tw: 卡斯巴·佛烈德利赫
 ---
 # [[Friedrich,Caspar_David]] 
 

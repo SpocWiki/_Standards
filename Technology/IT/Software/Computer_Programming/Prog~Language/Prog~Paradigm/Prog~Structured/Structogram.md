@@ -2,8 +2,8 @@
 aliases:
   - Nassi–Shneiderman diagram
   - Structogram
+has_id_wikidata: Q1251015
 ---
-
 # [[Structogram]] 
 
 The [[Structured_program_theorem|Böhm–Jacopini theorem]] proved 1966, 

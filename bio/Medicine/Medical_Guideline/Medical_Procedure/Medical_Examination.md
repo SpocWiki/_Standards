@@ -1,17 +1,62 @@
 ---
 aliases:
-  - physical examination
-  - medical examination
-  - clinical examination
-  - medical checkup
-  - Medical_Examination
-  - Medical Examination
+- badanie fizykalne
+- clinical examination
+- esame obiettivo
+- esploración física
+- exame físico
+- exame médico
+- examen clinique
+- examinare clinică
+- exploració física
+- Exploración fisica
+- exploración física
+- fizik muayene
+- fizikalni pregled
+- fyzikálne vyšetrenie
+- fyzikální vyšetření
+- khám sức khỏe
+- klinički pregled
+- korpa ekzameno
+- körperliche Untersuchung
+- lichamelijk onderzoek
+- lääkärintarkastus
+- medical checkup
+- medical examination
+- Medical_Examination
+- medicinsk undersökning
+- medisinsk undersøking
+- miaketa fisiko
+- orvosi vizsgálat
+- pemeriksaan fisik
+- pemeriksaan fizikal
+- physical examination
+- scrúdú fisiciúil
+- sistematski pregled
+- tervisekontroll
+- σωματική εξέταση
+- фізикальне обстеження
+- фізычная дыягностыка
+- физикальное обследование
+- ֆիզիկալ զննում
+- בדיקה גופנית
+- آزمایش بالینی
+- فحص سريري
+- فيزيکي کتنه
+- ശാരീരിക പരിശോധന
+- การตรวจร่างกายทางการแพทย์
+- 体格检查
+- 身体診察
+- 身體檢查
+- 驗身
+- 體格檢查
+- 신체검사
 has_id_wikidata: Q835153
 has_use: '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
 part_of: '[[_Standards/WikiData/WD~health_risk_assessment,2284929]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~medical_examination,4287917]]'
-  - '[[_Standards/WikiData/WD~health_assessment,5690807]]'
+- '[[_Standards/WikiData/WD~medical_examination,4287917]]'
+- '[[_Standards/WikiData/WD~health_assessment,5690807]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Medical_records_and_physical_exam,10541826]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 has_evaluation: '[[_Standards/WikiData/WD~physical_finding,69034079]]'
@@ -20,12 +65,65 @@ Commons_category: Physical examinations
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Attending%20surgeon%27s%20office%3B%20examination%20room%2C%20Washington%2C%20D.C.%20World%20War%201%20%281910s%29.jpg
 equivalent_class: https://schema.org/PhysicalExam
 UMLS_CUI:
-  - C0031809
-  - C0031811
+- C0031809
+- C0031811
 MeSH_tree_code: E01.370.600
 Library_of_Congress_Classification: RC76-RC76.5
+dv_has_:
+  name_:
+    an: Exploración fisica
+    ar: فحص سريري
+    ast: esploración física
+    be-tarask: фізычная дыягностыка
+    bs: klinički pregled
+    ca: exploració física
+    cs: fyzikální vyšetření
+    de: körperliche Untersuchung
+    el: σωματική εξέταση
+    en: physical examination
+    en-gb: physical examination
+    eo: korpa ekzameno
+    es: exploración física
+    et: tervisekontroll
+    eu: miaketa fisiko
+    fa: آزمایش بالینی
+    fi: lääkärintarkastus
+    fr: examen clinique
+    ga: scrúdú fisiciúil
+    gl: exame médico
+    he: בדיקה גופנית
+    hr: sistematski pregled
+    hu: orvosi vizsgálat
+    hy: ֆիզիկալ զննում
+    id: pemeriksaan fisik
+    it: esame obiettivo
+    ja: 身体診察
+    ko: 신체검사
+    ml: ശാരീരിക പരിശോധന
+    ms: pemeriksaan fizikal
+    nl: lichamelijk onderzoek
+    nn: medisinsk undersøking
+    pl: badanie fizykalne
+    ps: فيزيکي کتنه
+    pt: exame físico
+    ro: examinare clinică
+    ru: физикальное обследование
+    sk: fyzikálne vyšetrenie
+    sl: fizikalni pregled
+    sr: klinički pregled
+    sv: medicinsk undersökning
+    th: การตรวจร่างกายทางการแพทย์
+    tr: fizik muayene
+    uk: фізикальне обстеження
+    vi: khám sức khỏe
+    wuu: 体格检查
+    yue: 驗身
+    zh: 体格检查
+    zh-hans: 体格检查
+    zh-hant: 身體檢查
+    zh-hk: 體格檢查
+    zh-tw: 身體檢查
 ---
-
 # [[Medical_Examination]] 
 
 #is_/same_as :: [[WD~Physical_examination,835153]] 

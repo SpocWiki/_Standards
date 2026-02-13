@@ -1,19 +1,83 @@
 ---
 aliases:
-  - Bank
-  - Bench
+- ban
+- banc
+- banco
+- bancu
+- bancă
+- Bangku
+- bangku jalan
+- Bank
+- banke
+- banku
+- being
+- bekkur
+- Bench
+- Benci
+- benk
+- benko
+- binse
+- bänk
+- bænk
+- băng ghế
+- Ibhentshi
+- klop
+- Klupa
+- lavice
+- mainc
+- pad
+- panchina
+- parkovske klupe
+- penkki
+- pink
+- Sitbank
+- Sitzbank
+- sols
+- suolas
+- vancu
+- xarrak
+- ławka
+- παγκάκι
+- бандан
+- клупа
+- лава
+- Лавка
+- парковска клупа
+- парковске клупе
+- пейка
+- скамья
+- тенкел
+- նստարան
+- ספסל
+- بنچ
+- بينچ
+- بینچ (فرنیچر)
+- مقعد حديقة
+- نیمکت
+- बेंच
+- బెంచి
+- ಬೆಂಚಿ
+- ಬೆಂಚು
+- ခုံတန်းရှည်
+- တင်ႇယၢဝ်း
+- ባንኮ
+- ベンチ
+- 長凳
+- 長椅
+- 长椅
+- 벤치
 has_id_wikidata: Q204776
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~banquette,2883457]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~street_furniture,13397636]]'
-  - '[[_Standards/WikiData/WD~seating_furniture,129006002]]'
+- '[[_Standards/WikiData/WD~street_furniture,13397636]]'
+- '[[_Standards/WikiData/WD~seating_furniture,129006002]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Skamya,19798315]]'
+- '[[_Standards/WikiData/WD~Skamya,19798315]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_seat,134548662]]'
+- '[[_Standards/WikiData/WD~type_of_seat,134548662]]'
 OmegaWiki_Defined_Meaning: 7489
 Nomenclature_for_Museum_Cataloging: 1073
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Victoria%20Centennial%20Fountain%2C%20Victoria%2C%20British%20Columbia%2C%20Canada%2013.jpg
@@ -23,10 +87,101 @@ P8189: 987007283136705171
 Commons_gallery: Benches
 Commons_category: Benches
 OpenStreetMap_tag_or_key:
-  - Key:bench
-  - Tag:amenity=bench
+- Key:bench
+- Tag:amenity=bench
+dv_has_:
+  name_:
+    af: Sitbank
+    ar: مقعد حديقة
+    ast: bancu
+    bdr: Bangku
+    be: лава
+    be-tarask: лава
+    bg: пейка
+    bho: बेंच
+    br: bank
+    bxr: бандан
+    ca: banc
+    ce: скамья
+    cs: lavice
+    cv: тенкел
+    cy: mainc
+    da: bænk
+    de: Sitzbank
+    el: παγκάκι
+    en: bench
+    en-ca: bench
+    en-gb: bench
+    eo: benko
+    es: banco
+    et: pink
+    eu: banku
+    fa: نیمکت
+    fi: penkki
+    fr: banc
+    ga: binse
+    gd: being
+    gl: banco
+    ha: Benci
+    he: ספסל
+    hr: Klupa
+    hsb: ławka
+    ht: ban
+    hu: pad
+    hy: նստարան
+    ia: banco
+    id: bangku jalan
+    io: benko
+    is: bekkur
+    it: panchina
+    ja: ベンチ
+    kn: ಬೆಂಚು
+    ko: 벤치
+    lb: Bänk
+    lt: suolas
+    lv: sols
+    mk: клупа
+    ms: bangku
+    my: ခုံတန်းရှည်
+    nb: benk
+    nds-nl: banke
+    nl: bank
+    nn: benk
+    pl: ławka
+    pnb: بنچ
+    pt: banco
+    pt-br: banco
+    ro: bancă
+    rsk: Лавка
+    ru: скамья
+    scn: vancu
+    sco: bench
+    sd: بينچ
+    shn: တင်ႇယၢဝ်း
+    sl: klop
+    sr: парковска клупа
+    sr-ec: парковске клупе
+    sr-el: parkovske klupe
+    su: Bangku
+    sv: bänk
+    tcy: ಬೆಂಚಿ
+    te: బెంచి
+    ti: ባንኮ
+    tr: bank
+    uk: лава
+    ur: بینچ (فرنیچر)
+    uz: xarrak
+    vi: băng ghế
+    wa: Banc
+    wuu: 长椅
+    xh: Ibhentshi
+    yue: 長凳
+    zh: 長椅
+    zh-cn: 长椅
+    zh-hans: 长椅
+    zh-hant: 長椅
+    zh-tw: 長椅
 ---
-
 # [[Bench]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bench,204776|WD~Bench,204776]] 

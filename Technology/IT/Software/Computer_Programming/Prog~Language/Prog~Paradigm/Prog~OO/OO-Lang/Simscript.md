@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q7390408
+---
+
 # [[Simscript]] 
 
 #is_a_/ComputerLanguage 

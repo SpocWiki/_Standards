@@ -1,19 +1,42 @@
 ---
-has_time_started: 1969-10-05 
-has_time_stopped: 1974-12-05 
+has_time_started: 1969-10-05
+has_time_stopped: 1974-12-05
 aliases:
-  - Monty Python's Flying Circus
-  - Monty Python
-  - Monty_Python's_Flying_Circus
+- Latający cyrk Monty Pythona
+- Leteći cirkus Montyja Pythona
+- Leteči cirkus Montyja Pythona
+- Lietajúci cirkus Montyho Pythona
+- Monty Python
+- Monty Python Repülő Cirkusza
+- Monty Python's Flying Circus
+- Monty Pythonin Lentävä Sirkus
+- Monty Pythons flygande cirkus
+- Monty Pythons Flyvende Cirkus
+- Monty Pythonův létající cirkus
+- Monty Python’s Flying Circus
+- Monty_Python's_Flying_Circus
+- Літаючий Цирк Монті Пайтона
+- Летающий цирк Монти Пайтона
+- Летећи циркус Монтија Пајтона
+- Летечкиот циркус на Монти Пајтон
+- Летящият цирк на Монти Пайтън
+- Лятучы цырк Монці Пайтана
+- הקרקס המעופף של מונטי פייתון
+- سيرك مونتي بايثون الطائر
+- سیرک پرنده مانتی پایتان
+- மான்டி பய்த்தான்னின் பரக்கும் சர்கஸ்
+- 空飛ぶモンティ・パイソン
+- 蒙提·派森的飛行馬戲團
+- 몬티 파이튼의 날아다니는 서커스
 has_id_wikidata: Q16401
 cast_member:
-  - '[[_Standards/WikiData/WD~Terry_Jones,166159]]'
-  - '[[_Standards/WikiData/WD~Eric_Idle,210741]]'
-  - '[[_Standards/WikiData/WD~Michael_Palin,223985]]'
-  - '[[_Standards/WikiData/WD~Carol_Cleveland,238012]]'
-  - '[[_Standards/WikiData/WD~Graham_Chapman,24962]]'
-  - '[[_Standards/WikiData/WD~John_Cleese,25014]]'
-  - '[[_Standards/WikiData/WD~Terry_Gilliam,25078]]'
+- '[[_Standards/WikiData/WD~Terry_Jones,166159]]'
+- '[[_Standards/WikiData/WD~Eric_Idle,210741]]'
+- '[[_Standards/WikiData/WD~Michael_Palin,223985]]'
+- '[[_Standards/WikiData/WD~Carol_Cleveland,238012]]'
+- '[[_Standards/WikiData/WD~Graham_Chapman,24962]]'
+- '[[_Standards/WikiData/WD~John_Cleese,25014]]'
+- '[[_Standards/WikiData/WD~Terry_Gilliam,25078]]'
 original_broadcaster: '[[_Standards/WikiData/WD~BBC_One,191472]]'
 producer: '[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]'
 director: '[[_Standards/WikiData/WD~Ian_MacNaughton,710041]]'
@@ -22,10 +45,10 @@ distributed_by: '[[_Standards/WikiData/WD~Netflix,907311]]'
 theme_music: '[[_Standards/WikiData/WD~The_Liberty_Bell,2225377]]'
 list_of_episodes: "[[_Standards/WikiData/WD~list_of_Monty_Python's_Flying_Circus_episodes,2470548]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_4,3729279]]"
-  - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_2,3729280]]"
-  - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_3,3729281]]"
-  - "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_1,5275837]]"
+- "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_4,3729279]]"
+- "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_2,3729280]]"
+- "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_3,3729281]]"
+- "[[_Standards/WikiData/WD~Monty_Python's_Flying_Circus,_season_1,5275837]]"
 instance_of: '[[_Standards/WikiData/WD~television_series,5398426]]'
 list_of_characters: "[[_Standards/WikiData/WD~list_of_recurring_Monty_Python's_Flying_Circus_characters,6636184]]"
 genre: '[[_Standards/WikiData/WD~comedy_television_series,9335576]]'
@@ -43,8 +66,51 @@ end_time: 1974-12-05T00:00:00Z
 title: Monty Python's Flying Circus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monty%20python%20foot.png
 Plex_media_key: 5d9c081a0aaccd001f8ed7a4
+dv_has_:
+  name_:
+    ar: سيرك مونتي بايثون الطائر
+    ast: Monty Python's Flying Circus
+    be-tarask: Лятучы цырк Монці Пайтана
+    bg: Летящият цирк на Монти Пайтън
+    ca: Monty Python's Flying Circus
+    cs: Monty Pythonův létající cirkus
+    cy: Monty Python's Flying Circus
+    da: Monty Pythons Flyvende Cirkus
+    de: Monty Python’s Flying Circus
+    en: Monty Python's Flying Circus
+    en-gb: Monty Python's Flying Circus
+    es: Monty Python's Flying Circus
+    eu: Monty Python's Flying Circus
+    fa: سیرک پرنده مانتی پایتان
+    fi: Monty Pythonin Lentävä Sirkus
+    fr: Monty Python's Flying Circus
+    ga: Monty Python's Flying Circus
+    gl: Monty Python's Flying Circus
+    he: הקרקס המעופף של מונטי פייתון
+    hr: Leteći cirkus Montyja Pythona
+    hu: Monty Python Repülő Cirkusza
+    id: Monty Python's Flying Circus
+    it: Monty Python's Flying Circus
+    ja: 空飛ぶモンティ・パイソン
+    ko: 몬티 파이튼의 날아다니는 서커스
+    mk: Летечкиот циркус на Монти Пајтон
+    nb: Monty Python's Flying Circus
+    nl: Monty Python's Flying Circus
+    oc: Monty Python's Flying Circus
+    pl: Latający cyrk Monty Pythona
+    pt: Monty Python's Flying Circus
+    ru: Летающий цирк Монти Пайтона
+    sh: Monty Python's Flying Circus
+    sk: Lietajúci cirkus Montyho Pythona
+    sl: Leteči cirkus Montyja Pythona
+    sr: Летећи циркус Монтија Пајтона
+    sr-ec: Летећи циркус Монтија Пајтона
+    sv: Monty Pythons flygande cirkus
+    ta: மான்டி பய்த்தான்னின் பரக்கும் சர்கஸ்
+    tr: Monty Python's Flying Circus
+    uk: Літаючий Цирк Монті Пайтона
+    zh: 蒙提·派森的飛行馬戲團
 ---
-
 # [[Monty_Python's_Flying_Circus]] 
 
 #is_/same_as :: [[WD~Monty_Python's_Flying_Circus,16401]] 

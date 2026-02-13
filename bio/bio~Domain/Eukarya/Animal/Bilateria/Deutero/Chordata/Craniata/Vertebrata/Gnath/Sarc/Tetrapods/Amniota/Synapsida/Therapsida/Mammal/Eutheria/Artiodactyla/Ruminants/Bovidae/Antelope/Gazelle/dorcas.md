@@ -1,9 +1,111 @@
 ---
 aliases:
-  - dorcas
+- aavikkogaselli
+- Aznkʷḍ n duṛkas
+- dorcas
+- Dorcas gazelle
+- Dorcasgazelle
+- Dorkagasell
+- Dorkas
+- Dorkas gazela
+- Dorkas-gazelo
+- dorkasgaselle
+- Dorkasgazelle
+- dorkászgazella
+- Gacela dorcas
+- gasail dorcas
+- gasela comuna
+- Gazel dorkas
+- gazela dorkas
+- Gazela-dorcas
+- Gazelenn Dorkas
+- Gazella dorcas
+- gazelle dorcas
+- Linh dương Ai Cập
+- Rayol (Gazella dorcas)
+- Séítah jádí yił aheełtʼéhígíí
+- Δορκάδα γαζέλα
+- газела доркас
+- Газель доркас
+- Газель-доркас
+- Газэль-доркас
+- Доркас газела
+- צבי הנגב
+- آدم
+- آهوی گرمسیری
+- غزال دوركاس
+- ڈورکاس غزال
+- გაზელი დორკასი
+- ドルカスガゼル
+- 小鹿瞪羚
+- 도르카스가젤
 title: Gazella dorcas
+has_id_wikidata: Q387240
+dv_has_:
+  name_:
+    ar: آدم
+    arz: غزال دوركاس
+    ast: Gazella dorcas
+    avk: Rayol (Gazella dorcas)
+    be: Газель-доркас
+    be-tarask: Газэль-доркас
+    bg: газела доркас
+    br: Gazelenn Dorkas
+    ca: gasela comuna
+    ceb: Gazella dorcas
+    cs: gazela dorkas
+    de: Dorkasgazelle
+    el: Δορκάδα γαζέλα
+    en: Dorcas gazelle
+    eo: Dorkas-gazelo
+    es: Gazella dorcas
+    eu: Gazella dorcas
+    fa: آهوی گرمسیری
+    fi: aavikkogaselli
+    fr: gazelle dorcas
+    ga: gasail dorcas
+    gd: Gazella dorcas
+    gl: Gacela dorcas
+    he: צבי הנגב
+    hr: Dorkas gazela
+    hu: dorkászgazella
+    ia: Gazella dorcas
+    id: Gazel dorkas
+    it: Gazella dorcas
+    ja: ドルカスガゼル
+    ka: გაზელი დორკასი
+    ko: 도르카스가젤
+    la: Gazella dorcas
+    lt: Dorkas
+    mhr: Газель-доркас
+    mul: Gazella dorcas
+    nb: dorkasgaselle
+    nl: Dorcasgazelle
+    nv: Séítah jádí yił aheełtʼéhígíí
+    pl: Gazela dorkas
+    pnb: ڈورکاس غزال
+    pt: Gazela-dorcas
+    ro: Gazella dorcas
+    ru: Газель-доркас
+    sh: Dorkas gazela
+    shi: Aznkʷḍ n duṛkas
+    sq: Gazella dorcas
+    sr: Доркас газела
+    sr-ec: Доркас газела
+    sr-el: Dorkas gazela
+    sv: Dorkagasell
+    udm: Газель-доркас
+    uk: Газель доркас
+    vi: Linh dương Ai Cập
+    war: Gazella dorcas
+    zh: 小鹿瞪羚
+    zh-cn: 小鹿瞪羚
+    zh-hans: 小鹿瞪羚
+    zh-hant: 小鹿瞪羚
+    zh-hk: 小鹿瞪羚
+    zh-sg: 小鹿瞪羚
+    zh-tw: 小鹿瞪羚
 ---
-
 # Gazella dorcas 
 
 ![ ](Lydekkers_Dorcas_Gazelle.jpg)

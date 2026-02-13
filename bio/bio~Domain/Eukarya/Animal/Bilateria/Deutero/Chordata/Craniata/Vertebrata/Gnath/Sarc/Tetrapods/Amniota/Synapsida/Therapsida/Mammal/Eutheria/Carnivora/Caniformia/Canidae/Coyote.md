@@ -1,65 +1,123 @@
 ---
 aliases:
-  - American jackal, prairie wolf, or brush wolf
-  - Coyote
-  - coyote
-  - Kojote
-  - Tallapus
-  - American jackal
-  - brush wolf
-  - prairie wolf
-  - kojootti
-  - kojot
-  - prérifarkas
-  - coiote
-  - lupo della prateria
-  - kojot preriowy
-  - kujot
+- Amaġuuraq
+- American jackal
+- American jackal, prairie wolf, or brush wolf
+- brush wolf
+- cadhóit
+- Canis latrans
+- coiot
+- coiote
+- Coiotes
+- Coiòt
+- Coyote
+- Coyōtl
+- Feldwulf
+- Koijots
+- Koiot
+- Koiote
+- koiott
+- Kojoot
+- kojootti
+- kojot
+- kojot preriowy
+- kojot prérijní
+- Kojot prériový
+- Kojota
+- kojotas
+- Kojote
+- Kojoto
+- kojott
+- koojoot
+- Koyot
+- Koyote
+- Koyoto
+- kujot
+- Kuyuti
+- Kır kurdu
+- lupo della prateria
+- Mąʼii
+- prairie wolf
+- Preeriäsusi
+- Preriuúlvur
+- prärievarg
+- prærieulv
+- prérifarkas
+- Sléttuúlfur
+- Sói đồng cỏ Bắc Mỹ
+- Tallapus
+- Vergo deştın
+- yaxoleem
+- Ó'kôhóme
+- Κογιότ
+- каёт
+- којот
+- Койот
+- Шалғынды қасқыр
+- կոյոտ
+- זאב ערבות
+- قيوط
+- کایوت
+- کویوٹ
+- کوییوت
+- कायोटी
+- କୋୟୋଟ
+- கயோட்டி கோநாய்
+- കയോട്ടി
+- කොයෝට්
+- ไคโยตี
+- ကွိုင်းယုတ်
+- კოიოტი
+- ᏧᎾᏓᏚᏗ
+- ᒪᐦᐃᐦᑲᓐᑖᔥᑎᒥᒄ
+- コヨーテ
+- 郊狼
+- 코요테
 has_id_wikidata: Q44299
 main_food_source:
-  - '[[_Standards/WikiData/WD~mushroom,83093]]'
-  - '[[_Standards/WikiData/WD~Mephitidae,83244]]'
-  - '[[_Standards/WikiData/WD~egg_as_food,93189]]'
-  - '[[_Standards/WikiData/WD~raccoon,121439]]'
-  - '[[_Standards/WikiData/WD~Didelphis_virginiana,147267]]'
-  - '[[_Standards/WikiData/WD~carrion,202994]]'
-  - '[[_Standards/WikiData/WD~Talpa_europaea,209067]]'
-  - '[[_Standards/WikiData/WD~white_tailed_deer,215887]]'
-  - '[[_Standards/WikiData/WD~dried_fruit,234901]]'
-  - '[[_Standards/WikiData/WD~mule_deer,338831]]'
-  - '[[_Standards/WikiData/WD~Crotalus,463637]]'
-  - '[[_Standards/WikiData/WD~antelope_jackrabbit,577630]]'
-  - '[[_Standards/WikiData/WD~Greater_Roadrunner,634804]]'
-  - '[[_Standards/WikiData/WD~Lepus_californicus,640645]]'
-  - '[[_Standards/WikiData/WD~Geomyidae,756901]]'
-  - '[[_Standards/WikiData/WD~Arvicolinae,840750]]'
-  - '[[_Standards/WikiData/WD~gopher_tortoise,914338]]'
-  - '[[_Standards/WikiData/WD~Olympic_marmot,1242811]]'
-  - '[[_Standards/WikiData/WD~Tamias_minimus,1765515]]'
-  - '[[_Standards/WikiData/WD~salmon,2796766]]'
-  - '[[_Standards/WikiData/WD~frog,3116510]]'
-  - '[[_Standards/WikiData/WD~fruit,3314483]]'
-  - '[[_Standards/WikiData/WD~North_American_porcupine,10758828]]'
-  - '[[_Standards/WikiData/WD~chicken,780]]'
-  - '[[_Standards/WikiData/WD~goat,2934]]'
-  - '[[_Standards/WikiData/WD~red_squirrel,4388]]'
-  - '[[_Standards/WikiData/WD~sheep,7368]]'
-  - '[[_Standards/WikiData/WD~food_waste,18919]]'
-  - '[[_Standards/WikiData/WD~mallard,25348]]'
-  - '[[_Standards/WikiData/WD~European_Rabbit,25851]]'
-  - '[[_Standards/WikiData/WD~grey_partridge,26106]]'
-  - '[[_Standards/WikiData/WD~Canada_Goose,26733]]'
-  - '[[_Standards/WikiData/WD~wild_turkey,26844]]'
-  - '[[_Standards/WikiData/WD~Cynomys,30359]]'
-  - '[[_Standards/WikiData/WD~Rattus,36396]]'
-  - '[[_Standards/WikiData/WD~Soricidae,41631]]'
+- '[[_Standards/WikiData/WD~mushroom,83093]]'
+- '[[_Standards/WikiData/WD~Mephitidae,83244]]'
+- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+- '[[_Standards/WikiData/WD~raccoon,121439]]'
+- '[[_Standards/WikiData/WD~Didelphis_virginiana,147267]]'
+- '[[_Standards/WikiData/WD~carrion,202994]]'
+- '[[_Standards/WikiData/WD~Talpa_europaea,209067]]'
+- '[[_Standards/WikiData/WD~white_tailed_deer,215887]]'
+- '[[_Standards/WikiData/WD~dried_fruit,234901]]'
+- '[[_Standards/WikiData/WD~mule_deer,338831]]'
+- '[[_Standards/WikiData/WD~Crotalus,463637]]'
+- '[[_Standards/WikiData/WD~antelope_jackrabbit,577630]]'
+- '[[_Standards/WikiData/WD~Greater_Roadrunner,634804]]'
+- '[[_Standards/WikiData/WD~Lepus_californicus,640645]]'
+- '[[_Standards/WikiData/WD~Geomyidae,756901]]'
+- '[[_Standards/WikiData/WD~Arvicolinae,840750]]'
+- '[[_Standards/WikiData/WD~gopher_tortoise,914338]]'
+- '[[_Standards/WikiData/WD~Olympic_marmot,1242811]]'
+- '[[_Standards/WikiData/WD~Tamias_minimus,1765515]]'
+- '[[_Standards/WikiData/WD~salmon,2796766]]'
+- '[[_Standards/WikiData/WD~frog,3116510]]'
+- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~North_American_porcupine,10758828]]'
+- '[[_Standards/WikiData/WD~chicken,780]]'
+- '[[_Standards/WikiData/WD~goat,2934]]'
+- '[[_Standards/WikiData/WD~red_squirrel,4388]]'
+- '[[_Standards/WikiData/WD~sheep,7368]]'
+- '[[_Standards/WikiData/WD~food_waste,18919]]'
+- '[[_Standards/WikiData/WD~mallard,25348]]'
+- '[[_Standards/WikiData/WD~European_Rabbit,25851]]'
+- '[[_Standards/WikiData/WD~grey_partridge,26106]]'
+- '[[_Standards/WikiData/WD~Canada_Goose,26733]]'
+- '[[_Standards/WikiData/WD~wild_turkey,26844]]'
+- '[[_Standards/WikiData/WD~Cynomys,30359]]'
+- '[[_Standards/WikiData/WD~Rattus,36396]]'
+- '[[_Standards/WikiData/WD~Soricidae,41631]]'
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 color:
-  - '[[_Standards/WikiData/WD~cinereous,5120881]]'
-  - '[[_Standards/WikiData/WD~grey,42519]]'
+- '[[_Standards/WikiData/WD~cinereous,5120881]]'
+- '[[_Standards/WikiData/WD~grey,42519]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -72,25 +130,25 @@ ITIS_TSN: 180599
 IMDb_keyword: coyote
 subreddit: coyote
 taxon_common_name:
-  - coyote
-  - coyote
-  - coyote
-  - coyote
-  - Kojote
-  - coyote
-  - Tallapus
-  - American jackal
-  - brush wolf
-  - prairie wolf
-  - kojootti
-  - kojot
-  - prérifarkas
-  - coiote
-  - lupo della prateria
-  - kojot
-  - kojot preriowy
-  - kujot
-  - kojot
+- coyote
+- coyote
+- coyote
+- coyote
+- Kojote
+- coyote
+- Tallapus
+- American jackal
+- brush wolf
+- prairie wolf
+- kojootti
+- kojot
+- prérifarkas
+- coiote
+- lupo della prateria
+- kojot
+- kojot preriowy
+- kujot
+- kojot
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coyote%20Tule%20Lake%20CA.jpg
 OmegaWiki_Defined_Meaning: 388687
 EPPO_Code: CANILA
@@ -102,8 +160,115 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cypron
 Digital_Atlas_of_Idaho_URL: https://digitalatlas.cose.isu.edu/bio/mammal/Carn/canids/coyo/coyofrm.htm
 MeSH_tree_code: B01.050.150.900.649.313.750.250.216.150
 UMLS_CUI: C0325005
+dv_has_:
+  name_:
+    ang: Feldwulf
+    ar: قيوط
+    arz: قيوط
+    ast: Canis latrans
+    av: Койот
+    avk: yaxoleem
+    az: Koyot
+    azb: کوییوت
+    ban: Koyote
+    be: каёт
+    be-tarask: каёт
+    bg: койот
+    br: Koiot
+    ca: coiot
+    ceb: Canis latrans
+    chr: ᏧᎾᏓᏚᏗ
+    chy: Ó'kôhóme
+    cr: ᒪᐦᐃᐦᑲᓐᑖᔥᑎᒥᒄ
+    cs: kojot prérijní
+    cv: Койот
+    da: Prærieulv
+    de: Kojote
+    diq: Vergo deştın
+    el: Κογιότ
+    en: coyote
+    eo: Kojoto
+    es: Coyote
+    et: koiott
+    eu: Koiote
+    fa: کایوت
+    fi: kojootti
+    fo: Preriuúlvur
+    fr: coyote
+    frr: Kojoot
+    fy: kojote
+    ga: cadhóit
+    gl: Coiote
+    he: זאב ערבות
+    hi: कायोटी
+    hr: Kojot
+    hu: prérifarkas
+    hy: կոյոտ
+    ia: coyote
+    id: Koyote
+    ik: Amaġuuraq
+    io: Koyoto
+    is: Sléttuúlfur
+    it: coyote
+    ja: コヨーテ
+    ka: კოიოტი
+    kk: Шалғынды қасқыр
+    ko: 코요테
+    ky: Койот
+    la: Coiotes
+    lad: Koyot
+    lez: Койот
+    lfn: Coiote
+    lt: kojotas
+    lv: Koijots
+    mdf: Койот
+    mhr: койот
+    mk: којот
+    ml: കയോട്ടി
+    mrj: Койот
+    ms: Koyote
+    mul: Canis latrans
+    my: ကွိုင်းယုတ်
+    nah: Coyōtl
+    nb: prærieulv
+    nl: coyote
+    nn: prærieulv
+    nv: Mąʼii
+    oc: Coiòt
+    or: କୋୟୋଟ
+    pl: kojot preriowy
+    pnb: کویوٹ
+    pt: coiote
+    qu: Kuyuti
+    ro: Canis latrans
+    ru: койот
+    sco: coyote
+    sh: Kojot
+    si: කොයෝට්
+    sk: Kojot prériový
+    sl: kojot
+    smn: koojoot
+    sms: kojott
+    sq: Kojota
+    sr: којот
+    sr-ec: којот
+    sv: prärievarg
+    ta: கயோட்டி கோநாய்
+    th: ไคโยตี
+    tl: Koyote
+    tr: Kır kurdu
+    uk: койот
+    uz: Koyot
+    vi: Sói đồng cỏ Bắc Mỹ
+    vro: Preeriäsusi
+    war: Canis latrans
+    wuu: 郊狼
+    xmf: კოიოტი
+    yue: 郊狼
+    zh: 郊狼
+    zh-cn: 郊狼
+    zh-hans: 郊狼
 ---
-
 # [[Coyote]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Coyote,44299|WD~Coyote,44299]] 

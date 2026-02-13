@@ -1,4 +1,156 @@
-
+---
+has_id_wikidata: Q23175
+dv_has_:
+  name_:
+    an: Vombatidae
+    ar: ومبت
+    arz: ومبت
+    ast: Vombatidae
+    av: Вомбат
+    avk: stundoleem
+    az: Vombatlar
+    azb: وومباتلار
+    ban: Wombat
+    be: Вамбатавыя
+    bg: вомбати
+    bn: ওমব্যাট
+    br: Wombat
+    bs: Vombat
+    ca: uombat
+    ceb: Vombatidae
+    cs: vombatovití
+    cy: Wombat
+    da: Vombatter
+    de: Wombats
+    el: Βομβατίδες
+    en: Vombatidae
+    en-ca: Wombat
+    en-gb: wombat
+    eo: Vombato
+    es: Vombatidae
+    et: Vombatlased
+    eu: Wombat
+    ext: Vombatidae
+    fa: وامبت
+    fi: vompatit
+    fr: wombat
+    frr: Wombats
+    ga: vombat
+    gd: Wombat
+    gl: Wombat
+    he: וומבטיים
+    hi: वॉम्बैट
+    hr: Vombat
+    hu: vombatfélék
+    hy: Վոմբատ
+    ia: Vombatidae
+    id: Wombat
+    ie: Vombatidae
+    io: Vombatidae
+    is: Vambi
+    it: Vombatidae
+    ja: ウォンバット科
+    jv: Wombat
+    ka: ვომბატისებრნი
+    ko: 웜뱃
+    la: Vombatidae
+    lfn: Uombata
+    lt: Vombatiniai
+    lv: vombatu dzimta
+    mhr: Вомбат
+    mk: вомбат
+    ml: വൂംബാറ്റ്
+    mn: Вомбат
+    ms: Wombat
+    mul: Vombatidae
+    nb: vombater
+    nl: wombats
+    nn: vombatar
+    nv: Shash naʼazísí
+    oc: Uombat
+    pl: wombatowate
+    pnb: ومباٹ
+    pt: Vombate
+    pt-br: Vombatidae
+    ro: Vombatidae
+    ru: вомбатовые
+    sco: wombat
+    sd: وومبئٽ
+    sk: Vombatovité
+    sl: vombati
+    sm: Womapata
+    sq: Vombatidae
+    sr: вомбат
+    sv: Vombater
+    sw: Wombati
+    th: วอมแบต
+    tl: Wombat
+    tr: Vombatgiller
+    udm: Вомбат
+    uk: Вомбатові
+    ur: ومباٹ
+    uz: Vombatlar
+    vi: Vombatidae
+    vo: Vombatidae
+    war: Vombatidae
+    wuu: 袋熊
+    yue: 袋熊
+    zh: 袋熊科
+    zh-cn: 袋熊科
+    zh-hans: 袋熊科
+    zh-hant: 袋熊
+    zh-tw: Vombatidae
+aliases:
+- Shash naʼazísí
+- stundoleem
+- Uombat
+- Uombata
+- Vambi
+- Vombat
+- vombatar
+- Vombate
+- vombater
+- vombatfélék
+- Vombatgiller
+- vombati
+- Vombatidae
+- Vombatiniai
+- Vombatlar
+- Vombatlased
+- Vombato
+- Vombatovité
+- vombatovití
+- Vombatter
+- vombatu dzimta
+- vompatit
+- Womapata
+- Wombat
+- Wombati
+- wombatowate
+- Wombats
+- Βομβατίδες
+- Вамбатавыя
+- Вомбат
+- вомбати
+- Вомбатові
+- вомбатовые
+- Վոմբատ
+- וומבטיים
+- وامبت
+- ومباٹ
+- ومبت
+- وومبئٽ
+- وومباتلار
+- वॉम्बैट
+- ওমব্যাট
+- വൂംബാറ്റ്
+- วอมแบต
+- ვომბატისებრნი
+- ウォンバット科
+- 袋熊
+- 袋熊科
+- 웜뱃
+---
 # [[Vombatidae]] 
 
 #is_/same_as :: 

@@ -1,56 +1,128 @@
 ---
 aliases:
-  - Rugby
-  - Rugby football
-  - Rugby_Football
-  - Rugby Football
+- bóng rugby
+- errugbi
+- Futbolli regbi
+- Harpastum
+- Hrōcburhfōtþōðer
+- Ibhola yombhoxo
+- kiwiki
+- La-gú-bih
+- Lakapi
+- Pīpeku
+- Ragbi
+- ragby
+- Ragbî
+- Regbi
+- regbijs
+- Regbis
+- reqbi
+- Rigbi
+- Rugbaidh
+- rugbaí
+- rugbeo
+- Rugbi
+- rugbie
+- Rugbii
+- Rugbio
+- Rugby
+- Rugby fitba
+- Rugby football
+- Rugby futbol
+- rugbyvoetbal
+- Rugby_Football
+- Ruggyr
+- Ruðningur
+- Rygbi
+- Ráguebi
+- râguebi
+- rögbi
+- rúgbi
+- Sepak bola rugbi
+- Umbhoxo
+- whutupōro
+- ράγκμπι
+- рагби
+- регбі
+- регби
+- регби-футбол
+- Ръгби
+- рэгбі
+- Ռեգբի
+- Ռիւկպի
+- ראגבי פוטבאל
+- רוגבי
+- الرغبي
+- راگبی
+- راگبی فوتبال
+- رجبى
+- ريڭبي
+- رگبی
+- ڕەگبی
+- रग्बी फुटबॉल
+- रग्बी फूटबल
+- রাগবি
+- ৰাগবী ফুটবল
+- ਰਗਬੀ ਫੁੱਟਬਾਲ
+- ரக்பி கால்பந்து
+- ರಗ್ಬಿ ಫುಟ್ಬಾಲ್
+- റഗ്ബി
+- รักบี้
+- རག་བི
+- რაგბი
+- ラグビー
+- 橄榄球类运动
+- 橄欖球類運動
+- 欖球
+- 欖球類運動
+- 럭비
 has_id_wikidata: Q5378
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ""
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 has_time_started:
-  '{ "date:YYYY-MM-DD": }': ""
+  '{ "date:YYYY-MM-DD": }': ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  "{ newTitle: }": ""
+  '{ newTitle: }': ''
 lang: en
-layout: ""
+layout: ''
 license: (c)copyrighted
 linkTitle:
-  "{ newTitle: }": ""
+  '{ newTitle: }': ''
 publish: false
-publishDate: ""
+publishDate: ''
 tags:
-  - "{ newTitle: }": ""
-  - excalidraw
+- '{ newTitle: }': ''
+- excalidraw
 title:
-  "{ newTitle: }": ""
+  '{ newTitle: }': ''
 type: private_note
-country_of_origin: "[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]"
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~team_sport,216048]]"
-  - "[[_Standards/WikiData/WD~ball_game,877517]]"
+- '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~ball_game,877517]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Rugby,227861]]"
-  - "[[_Standards/WikiData/WD~rugby_sevens,270102]]"
-  - "[[_Standards/WikiData/WD~Football,296260]]"
-  - "[[_Standards/WikiData/WD~rugby_league_nines,3452878]]"
-  - "[[_Standards/WikiData/WD~association_football,2736]]"
-  - "[[_Standards/WikiData/WD~rugby_union,5849]]"
-  - "[[_Standards/WikiData/WD~rugby_league,10962]]"
-subclass_of: "[[_Standards/WikiData/WD~football,1081491]]"
-named_after: "[[_Standards/WikiData/WD~Rugby_School,1143281]]"
-uses: "[[_Standards/WikiData/WD~rugby_ball,2881344]]"
-practiced_by: "[[_Standards/WikiData/WD~rugby_player,13415036]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Rugby,16867512]]"
+- '[[_Standards/WikiData/WD~Rugby,227861]]'
+- '[[_Standards/WikiData/WD~rugby_sevens,270102]]'
+- '[[_Standards/WikiData/WD~Football,296260]]'
+- '[[_Standards/WikiData/WD~rugby_league_nines,3452878]]'
+- '[[_Standards/WikiData/WD~association_football,2736]]'
+- '[[_Standards/WikiData/WD~rugby_union,5849]]'
+- '[[_Standards/WikiData/WD~rugby_league,10962]]'
+subclass_of: '[[_Standards/WikiData/WD~football,1081491]]'
+named_after: '[[_Standards/WikiData/WD~Rugby_School,1143281]]'
+uses: '[[_Standards/WikiData/WD~rugby_ball,2881344]]'
+practiced_by: '[[_Standards/WikiData/WD~rugby_player,13415036]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Rugby,16867512]]'
 Wikidata_property: number of tries marked
 maximum_number_of_players: 30
 IAB_code: 527
@@ -63,9 +135,9 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20union%20pictogr
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-rugby.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20banner.jpg
 narrower_external_class:
-  - "[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q270102,270102]]"
-  - "[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q5849,5849]]"
-Unicode_character: 🏉
+- '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q270102,270102]]'
+- '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q5849,5849]]'
+Unicode_character: "\U0001F3C9"
 Dewey_Decimal_Classification: 796.333
 Library_of_Congress_Classification: GV944.8-GV946.22
 MeSH_tree_code: I03.450.642.845.608
@@ -73,8 +145,154 @@ IPTC_NewsCode: mediatopic/20001176
 Colon_Classification: MY2122
 Commons_category: Rugby football
 OpenStreetMap_tag: sport=rugby
+dv_has_:
+  name_:
+    af: rugbyvoetbal
+    an: Rugby
+    ang: Hrōcburhfōtþōðer
+    ar: الرغبي
+    ary: ريڭبي
+    arz: رجبى
+    as: ৰাগবী ফুটবল
+    ast: rugbi
+    az: reqbi
+    azb: راگبی فوتبال
+    ba: регби-футбол
+    bar: Rugby
+    be: рэгбі
+    be-tarask: рэгбі
+    bg: Ръгби
+    bn: রাগবি
+    br: Rugbi
+    bs: Ragbi
+    ca: rugbi
+    ce: Регби-футбол
+    ckb: ڕەگبی
+    crh: Regbi
+    cs: ragby
+    cv: Регби
+    cy: Rygbi
+    da: rugby
+    de: Rugby
+    de-ch: Rugby
+    dz: རག་བི
+    el: ράγκμπι
+    en: rugby
+    en-ca: Rugby football
+    en-gb: rugby
+    eo: rugbeo
+    es: rugby
+    et: Ragbi
+    eu: errugbi
+    ext: Rugby
+    fa: راگبی
+    fi: rugby
+    fr: rugby
+    fy: Rugby
+    ga: rugbaí
+    gd: Rugbaidh
+    gl: rugby
+    gn: rugby
+    gsw: Rugby
+    gv: Ruggyr
+    haw: Pīpeku
+    he: רוגבי
+    hi: रग्बी फुटबॉल
+    hif: rugby
+    hr: ragbi
+    ht: Rigbi
+    hu: rögbi
+    hy: Ռեգբի
+    hyw: Ռիւկպի
+    ia: Rugby
+    id: Sepak bola rugbi
+    ilo: rugby
+    io: Rugbio
+    is: Ruðningur
+    it: rugby
+    ja: ラグビー
+    ka: რაგბი
+    kbp: Rugbii
+    kk: Регби
+    kn: ರಗ್ಬಿ ಫುಟ್ಬಾಲ್
+    ko: 럭비
+    ku: Ragbî
+    kw: Rugby
+    la: Harpastum
+    lb: Rugby
+    lbe: Регби
+    lij: Rugby
+    ln: Rugby
+    lt: regbis
+    lv: regbijs
+    mi: whutupōro
+    mk: рагби
+    ml: റഗ്ബി
+    mn: Регби
+    mr: रग्बी फुटबॉल
+    ms: ragbi
+    mwl: Ráguebi
+    nan: La-gú-bih
+    nb: rugby
+    nds: Rugby
+    nds-nl: rugbie
+    new: रग्बी फूटबल
+    nl: rugby
+    nn: rugby
+    nrm: Rugby
+    oc: Rugbi
+    os: регби
+    pa: ਰਗਬੀ ਫੁੱਟਬਾਲ
+    pcd: Rugbi
+    pl: rugby
+    pms: Rugby
+    pnb: رگبی
+    pt: râguebi
+    pt-br: rúgbi
+    rm: Rugby
+    ro: rugby
+    ru: регби
+    sc: Rugby
+    scn: Rugby
+    sco: Rugby fitba
+    sgs: Regbis
+    sh: Ragbi
+    sk: ragby
+    sl: ragbi
+    sm: Lakapi
+    sq: Futbolli regbi
+    sr: рагби
+    sr-ec: рагби
+    sv: rugby
+    sw: kiwiki
+    ta: ரக்பி கால்பந்து
+    tg: регби
+    th: รักบี้
+    tl: Rugbi
+    tr: ragbi
+    tt: Регби
+    uk: регбі
+    ur: رگبی
+    uz: Regbi
+    vec: Regbi
+    vi: bóng rugby
+    war: Rugby futbol
+    wuu: 橄榄球类运动
+    xh: Ibhola yombhoxo
+    xmf: რაგბი
+    yi: ראגבי פוטבאל
+    yue: 欖球
+    zh: 橄欖球類運動
+    zh-cn: 橄榄球类运动
+    zh-hans: 橄榄球类运动
+    zh-hant: 橄欖球類運動
+    zh-hk: 欖球類運動
+    zh-mo: 欖球類運動
+    zh-my: 橄榄球类运动
+    zh-sg: 橄榄球类运动
+    zh-tw: 橄欖球類運動
+    zu: Umbhoxo
 ---
-
 # [[Rugby_Football]] 🏉 
 
 #is_/same_as :: [[WD~Rugby,5378]] 

@@ -1,70 +1,114 @@
 ---
 aliases:
-  - Zizou
-  - Zinedine Yazid Zidane
-  - Zinedine Zidane
-  - Zidane
-  - Zidane,Zinedine
+- Zidane
+- Zidane,Zinedine
+- Zineddin Lyazid Zidan
+- Zinedin Zidan
+- Zinedine Yazid Zidane
+- Zinedine Zidane
+- Zinedins Zidāns
+- Zinédine Zidane
+- Zinédiné Zidané
+- Zinəddin Zidan
+- Zizou
+- Ζινεντίν Ζιντάν
+- Зінедін Зідан
+- Зінедзін Зідан
+- Зайниддин Зидон
+- Зидан Зинедин
+- Зидан, Зинедин
+- Зинедин Зидан
+- Зынэдын Зыдан
+- Зәйнетдин Зидан
+- Զինեդին Զիդան
+- Զինետին Զիտան
+- זינאדין זידאן
+- زين الدين زيدان
+- زین الدین زیدان
+- زین الدین یزید زیدان
+- زینالدین زیدان
+- زینەدین زیدان
+- ज़िनेदिन जिदेन
+- जिनेदिन जिदाने
+- झिनेदिन झिदान
+- জিনেডিন জিদান
+- জিনেদিন জিদান
+- ਜ਼ਿਨੇਦਨ ਜ਼ਿਦਾਨ
+- ஜீனடின் ஜிதேன்
+- ಜಿನೆಡೈನ್ ಜಿಡಾನೆ
+- സിനദീൻ സിദാൻ
+- ซีเนดีน ซีดาน
+- ຊິນເນດິນ ຊີດານ
+- ဇီနဒင် ဇီဒန်း
+- ზინედინ ზიდანი
+- ⵣⵉⵏⴷⴷⵉⵏ ⵣⵉⴷⴰⵏ
+- ジネディーヌ・ジダン
+- 席內丁·席丹
+- 急累顶·契丹
+- 施丹
+- 薛尼丁·施丹
+- 齐内丁·齐达内
+- 지네딘 지단
 has_id_wikidata: Q1835
 award_received:
-  - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~FC_Girondins_de_Bordeaux,172476]]'
-  - '[[_Standards/WikiData/WD~AS_Cannes,298267]]'
-  - '[[_Standards/WikiData/WD~France_national_under_21_association_football_team,1277549]]'
-  - '[[_Standards/WikiData/WD~France_national_under_18_association_football_team,1450557]]'
-  - '[[_Standards/WikiData/WD~France_national_under_17_association_football_team,1450568]]'
-  - '[[_Standards/WikiData/WD~France_B_national_football_team,3590024]]'
-  - '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
-  - '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
-  - "[[_Standards/WikiData/WD~France_men's_national_association_football_team,47774]]"
+- '[[_Standards/WikiData/WD~FC_Girondins_de_Bordeaux,172476]]'
+- '[[_Standards/WikiData/WD~AS_Cannes,298267]]'
+- '[[_Standards/WikiData/WD~France_national_under_21_association_football_team,1277549]]'
+- '[[_Standards/WikiData/WD~France_national_under_18_association_football_team,1450557]]'
+- '[[_Standards/WikiData/WD~France_national_under_17_association_football_team,1450568]]'
+- '[[_Standards/WikiData/WD~France_B_national_football_team,3590024]]'
+- '[[_Standards/WikiData/WD~Juventus_FC,1422]]'
+- '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
+- "[[_Standards/WikiData/WD~France_men's_national_association_football_team,47774]]"
 position_played_on_team_speciality:
-  - '[[_Standards/WikiData/WD~midfielder,193592]]'
-  - '[[_Standards/WikiData/WD~attacking_midfielder,90326494]]'
+- '[[_Standards/WikiData/WD~midfielder,193592]]'
+- '[[_Standards/WikiData/WD~attacking_midfielder,90326494]]'
 place_of_birth: '[[_Standards/WikiData/WD~16th_arrondissement_of_Marseille,194401]]'
 child:
-  - '[[_Standards/WikiData/WD~Enzo_Zidane,326477]]'
-  - '[[_Standards/WikiData/WD~Luca_Zidane,19952334]]'
-  - '[[_Standards/WikiData/WD~Elyaz_Zidane,112158431]]'
-  - '[[_Standards/WikiData/WD~Théo_Zidane,112329906]]'
+- '[[_Standards/WikiData/WD~Enzo_Zidane,326477]]'
+- '[[_Standards/WikiData/WD~Luca_Zidane,19952334]]'
+- '[[_Standards/WikiData/WD~Elyaz_Zidane,112158431]]'
+- '[[_Standards/WikiData/WD~Théo_Zidane,112329906]]'
 occupation:
-  - '[[_Standards/WikiData/WD~association_football_coach,628099]]'
-  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
+- '[[_Standards/WikiData/WD~association_football_coach,628099]]'
+- '[[_Standards/WikiData/WD~association_football_player,937857]]'
 employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Limoges,2661290]]'
 given_name: '[[_Standards/WikiData/WD~Zinedine,3575569]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
 position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 family_name: '[[_Standards/WikiData/WD~Zidane,21502205]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~African_French,33670660]]'
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~Arabic,13955]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~Kabyle,35853]]'
-  - '[[_Standards/WikiData/WD~Algerian_Arabic,56499]]'
+- '[[_Standards/WikiData/WD~African_French,33670660]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Kabyle,35853]]'
+- '[[_Standards/WikiData/WD~Algerian_Arabic,56499]]'
 medical_condition: '[[_Standards/WikiData/WD~COVID_19,84263196]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Islam,432]]'
 sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 coach_of_sports_team:
-  - '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
-  - '[[_Standards/WikiData/WD~Real_Madrid_Castilla,12217]]'
+- '[[_Standards/WikiData/WD~Real_Madrid_Club_de_Fútbol,8682]]'
+- '[[_Standards/WikiData/WD~Real_Madrid_Castilla,12217]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career: 0
 country_of_citizenship: '[[_Standards/WikiData/WD~France,142]]'
 country_for_sport: '[[_Standards/WikiData/WD~France,142]]'
 native_language: '[[_Standards/WikiData/WD~French,150]]'
 number_of_matches_played_races_starts:
-  - 2
-  - 3
+- 2
+- 3
 mass: 79
 height: 185
 Commons_gallery: Zinedine Zidane
@@ -82,8 +126,162 @@ ISNI: 0000000121425110
 Munzinger_Sport_number: 01000004966
 P1015: 6018307
 Instagram_username: zidane
+dv_has_:
+  name_:
+    af: Zinedine Zidane
+    an: Zinedine Zidane
+    ar: زين الدين زيدان
+    arq: زين الدين زيدان
+    ary: زين الدين زيدان
+    arz: زين الدين زيدان
+    as: জিনেডিন জিদান
+    ast: Zinedine Zidane
+    az: Zinəddin Zidan
+    azb: زینالدین زیدان
+    ba: Зидан Зинедин
+    ban: Zinedine Zidane
+    bar: Zinedine Zidane
+    be: Зінедзін Зідан
+    be-tarask: Зынэдын Зыдан
+    bg: Зинедин Зидан
+    bn: জিনেদিন জিদান
+    br: Zinedine Zidane
+    bs: Zinedine Zidane
+    ca: Zinédine Zidane
+    ceb: Zinedine Zidane
+    ckb: زینەدین زیدان
+    co: Zinedine Zidane
+    cs: Zinédine Zidane
+    cy: Zinedine Zidane
+    da: Zinedine Zidane
+    dag: Zinedine Zidane
+    de: Zinédine Zidane
+    de-ch: Zinédine Zidane
+    diq: Zinédine Zidane
+    dsb: Zinedine Zidane
+    el: Ζινεντίν Ζιντάν
+    eml: Zinedine Zidane
+    en: Zinedine Zidane
+    en-ca: Zinedine Zidane
+    en-gb: Zinedine Zidane
+    eo: Zinedine Zidane
+    es: Zinedine Zidane
+    et: Zinédine Zidane
+    eu: Zinedine Zidane
+    ext: Zinedine Zidane
+    fa: زینالدین زیدان
+    fi: Zinédine Zidane
+    fo: Zinédine Zidane
+    fr: Zinedine Zidane
+    frr: Zinedine Zidane
+    fy: Zinedine Zidane
+    ga: Zinedine Zidane
+    gl: Zinedine Zidane
+    glk: زين الدين زيدان
+    gsw: Zinedine Zidane
+    ha: Zinedine Yazid Zidane
+    he: זינאדין זידאן
+    hi: ज़िनेदिन जिदेन
+    hif: Zinedine Zidane
+    hr: Zinédine Zidane
+    hsb: Zinedine Zidane
+    hu: Zinédine Zidane
+    hy: Զինեդին Զիդան
+    hyw: Զինետին Զիտան
+    id: Zinédine Zidane
+    io: Zinedine Zidane
+    is: Zinedine Zidane
+    it: Zinédine Zidane
+    ja: ジネディーヌ・ジダン
+    jam: Zinedine Zidane
+    jv: Zinédine Zidane
+    ka: ზინედინ ზიდანი
+    kab: Zineddin Lyazid Zidan
+    kk: Зинедин Зидан
+    kn: ಜಿನೆಡೈನ್ ಜಿಡಾನೆ
+    ko: 지네딘 지단
+    ku: Zinedine Zidane
+    la: Zinedine Zidane
+    lb: Zinedine Zidane
+    lez: Зинедин Зидан
+    lo: ຊິນເນດິນ ຊີດານ
+    lt: Zinédine Zidane
+    lua: Zinedine Zidane
+    lv: Zinedins Zidāns
+    mai: जिनेदिन जिदाने
+    mg: Zinedine Zidane
+    min: Zinedine Zidane
+    mk: Зинедин Зидан
+    ml: സിനദീൻ സിദാൻ
+    mn: Зинедин Зидан
+    mos: Zinedine Zidane
+    mr: झिनेदिन झिदान
+    ms: Zinedine Zidane
+    mt: Zinedine Zidane
+    mul: Zinedine Zidane
+    my: ဇီနဒင် ဇီဒန်း
+    mzn: زین الدین زیدان
+    nan: Zinedine Zidane
+    nb: Zinedine Zidane
+    nds: Zinedine Zidane
+    ne: जिनेदिन जिदाने
+    nl: Zinédine Zidane
+    nn: Zinedine Zidane
+    nrm: Zinedine Zidane
+    oc: Zinedin Zidan
+    os: Зидан, Зинедин
+    pa: ਜ਼ਿਨੇਦਨ ਜ਼ਿਦਾਨ
+    pap: Zinedine Zidane
+    pl: Zinedine Zidane
+    pms: Zinedine Zidane
+    pnb: زین الدین زیدان
+    pt: Zinédine Zidane
+    pt-br: Zinédine Zidane
+    qu: Zinedine Zidane
+    rm: Zinedine Zidane
+    ro: Zinedine Zidane
+    ru: Зинедин Зидан
+    rw: Zinedine Zidane
+    sc: Zinedine Zidane
+    scn: Zinédine Zidane
+    sco: Zinedine Zidane
+    sgs: Zinedine Zidane
+    sh: Zinedine Zidane
+    shi: Zineddin Lyazid Zidan
+    sk: Zinedine Zidane
+    sl: Zinedine Zidane
+    so: Zinedine Zidane
+    sq: Zinedine Zidane
+    sr: Зинедин Зидан
+    su: Zinédiné Zidané
+    sv: Zinedine Zidane
+    sw: Zidane
+    szl: Zinedine Zidane
+    ta: ஜீனடின் ஜிதேன்
+    tg: Зайниддин Зидон
+    th: ซีเนดีน ซีดาน
+    tk: Zinedine Zidane
+    tl: Zinedine Zidane
+    tly: Zinəddin Zidan
+    tn: Zinedine Zidane
+    tr: Zinedine Zidane
+    tt: Зәйнетдин Зидан
+    tyv: Зидан, Зинедин
+    uk: Зінедін Зідан
+    ur: زین الدین یزید زیدان
+    uz: Zinedine Zidane
+    vi: Zinédine Zidane
+    vls: Zinedine Zidane
+    wa: Zinedine Zidane
+    wuu: 急累顶·契丹
+    xmf: ზინედინ ზიდანი
+    yo: Zinedine Zidane
+    yue: 施丹
+    zgh: ⵣⵉⵏⴷⴷⵉⵏ ⵣⵉⴷⴰⵏ
+    zh: 齐内丁·齐达内
+    zh-hk: 薛尼丁·施丹
+    zh-tw: 席內丁·席丹
 ---
-
 # [[Zidane,Zinedine]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Zinedine_Zidane,1835|WD~Zinedine_Zidane,1835]] 

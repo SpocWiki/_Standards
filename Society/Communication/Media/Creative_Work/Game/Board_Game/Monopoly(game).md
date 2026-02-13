@@ -1,51 +1,87 @@
 ---
-has_time_started: 1935-01-01 
+has_time_started: 1935-01-01
 aliases:
-  - Monopoly_(game)
-  - Monopoly (game)
-  - Monopoly the game
-  - Monopoly,game
-  - Monopoly(game)
+- Amunapol (urar)
+- Banco Imobiliário
+- Brettspelet Monopol
+- Matador
+- Monopol
+- Monopoli
+- Monopolio
+- monopolis
+- Monopolium
+- Monopoliya
+- Monopolo
+- Monopols
+- Monopoly
+- Monopoly (game)
+- Monopoly the game
+- Monopoly(game)
+- Monopoly,game
+- Monopoly_(game)
+- Monòpuli
+- Манаполія
+- Монопол
+- Монополія
+- Монополи
+- Монополия
+- Монополя
+- Մոնոպոլիա
+- Մոնոփոլի
+- מאנאפאל
+- מונופול
+- بنك الحظ
+- موناپولی
+- مونوپولی
+- مۆنۆپۆڵی
+- মনোপলি
+- เกมเศรษฐี
+- მონოპოლია
+- モノポリー
+- 地产大亨
+- 地產大亨
+- 大富翁
+- 모노폴리
 has_id_wikidata: Q17243
 subclass_of: '[[_Standards/WikiData/WD~board_game,131436]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~board_game,131436]]'
-  - '[[_Standards/WikiData/WD~economic_simulation_board_game,21608615]]'
+- '[[_Standards/WikiData/WD~board_game,131436]]'
+- '[[_Standards/WikiData/WD~economic_simulation_board_game,21608615]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Matador,226287]]'
-  - '[[_Standards/WikiData/WD~Q72345293,72345293]]'
-  - '[[_Standards/WikiData/WD~Monopoli,51835]]'
+- '[[_Standards/WikiData/WD~Matador,226287]]'
+- '[[_Standards/WikiData/WD~Q72345293,72345293]]'
+- '[[_Standards/WikiData/WD~Monopoli,51835]]'
 developer:
-  - '[[_Standards/WikiData/WD~Elizabeth_Magie,273459]]'
-  - '[[_Standards/WikiData/WD~Charles_Darrow,1064061]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Magie,273459]]'
+- '[[_Standards/WikiData/WD~Charles_Darrow,1064061]]'
 manufacturer:
-  - '[[_Standards/WikiData/WD~Hasbro,501476]]'
-  - '[[_Standards/WikiData/WD~Parker_Brothers,1501379]]'
+- '[[_Standards/WikiData/WD~Hasbro,501476]]'
+- '[[_Standards/WikiData/WD~Parker_Brothers,1501379]]'
 publisher: '[[_Standards/WikiData/WD~Hasbro,501476]]'
 based_on: "[[_Standards/WikiData/WD~The_Landlord's_Game,1550933]]"
 derivative_work:
-  - '[[_Standards/WikiData/WD~Monopoly,1750894]]'
-  - '[[_Standards/WikiData/WD~Actioner,4060295]]'
-  - '[[_Standards/WikiData/WD~Q72345293,72345293]]'
-  - '[[_Standards/WikiData/WD~ABBA_Monopoly,133696346]]'
+- '[[_Standards/WikiData/WD~Monopoly,1750894]]'
+- '[[_Standards/WikiData/WD~Actioner,4060295]]'
+- '[[_Standards/WikiData/WD~Q72345293,72345293]]'
+- '[[_Standards/WikiData/WD~ABBA_Monopoly,133696346]]'
 has_part_s_: '[[_Standards/WikiData/WD~Chance_and_Community_Chest_cards,1957068]]'
 game_mechanics:
-  - '[[_Standards/WikiData/WD~bidding,3276328]]'
-  - '[[_Standards/WikiData/WD~resource_management,14431238]]'
+- '[[_Standards/WikiData/WD~bidding,3276328]]'
+- '[[_Standards/WikiData/WD~resource_management,14431238]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~game_piece,3449901]]'
 mascot: '[[_Standards/WikiData/WD~Rich_Uncle_Pennybags,7323465]]'
 has_edition_or_translation:
-  - '[[_Standards/WikiData/WD~Hong_Kong_Monopoly,16994258]]'
-  - '[[_Standards/WikiData/WD~Star_Trek_Klingon_Edition_Monopoly,63869597]]'
-  - '[[_Standards/WikiData/WD~Monopoly,115328463]]'
+- '[[_Standards/WikiData/WD~Hong_Kong_Monopoly,16994258]]'
+- '[[_Standards/WikiData/WD~Star_Trek_Klingon_Edition_Monopoly,63869597]]'
+- '[[_Standards/WikiData/WD~Monopoly,115328463]]'
 genre: '[[_Standards/WikiData/WD~roll_and_move_game,60735876]]'
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 8
 total_produced: 275000000
 review_score:
-  - 2/5
-  - 4.4/10
+- 2/5
+- 4.4/10
 Commons_gallery: Monopoly
 title: Monopoly
 subreddit: monopoly
@@ -60,8 +96,87 @@ Baidu_Tieba_name: 大富翁
 publication_date: 1937-01-01T00:00:00Z
 inception: 1935-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monopoly%20board%20on%20white%20bg.jpg
+dv_has_:
+  name_:
+    af: Monopoly
+    ar: بنك الحظ
+    ast: Monopoly
+    az: Monopoliya
+    be: Манаполія
+    be-tarask: Манаполія
+    bg: Монополи
+    bn: মনোপলি
+    ca: Monopoly
+    ckb: مۆنۆپۆڵی
+    cs: Monopoly
+    cy: Monopoly
+    da: Matador
+    de: Monopoly
+    el: Monopoly
+    en: Monopoly
+    eo: Monopolo
+    es: Monopoly
+    es-419: Monopoly
+    et: Monopol
+    eu: Monopoly
+    fa: مونوپولی
+    fi: Monopoly
+    fr: Monopoly
+    frp: Monopoly
+    ga: Monopoly
+    gl: Monopoly
+    he: מונופול
+    hr: Monopoly
+    hu: Monopoly
+    hy: Մոնոպոլիա
+    hyw: Մոնոփոլի
+    ia: Monopolio
+    id: Monopoli
+    is: Matador
+    it: Monopoly
+    ja: モノポリー
+    jbo: monopolis
+    jv: Monopoli
+    ka: მონოპოლია
+    kab: Amunapol (urar)
+    ko: 모노폴리
+    ky: Монополя
+    la: Monopolium
+    lfn: Monopolio
+    lt: Monopolis
+    lv: Monopols
+    ms: Monopoly
+    mul: Monopoly
+    nan: Monopoly
+    nb: Monopol
+    nl: Monopoly
+    nn: Brettspelet Monopol
+    oc: Monopoly
+    pl: Monopoly
+    pt: Monopoly
+    pt-br: Banco Imobiliário
+    ro: Monopoly
+    ru: Монополия
+    scn: Monòpuli
+    sco: Monopoly
+    sh: Monopoly
+    sk: Monopoly
+    sl: Monopoli
+    sr: Монопол
+    sv: Monopol
+    th: เกมเศรษฐี
+    tr: Monopoly
+    uk: Монополія
+    ur: موناپولی
+    uz: Monopoliya
+    vi: Monopoly
+    war: Monopoly
+    wuu: 地产大亨
+    yi: מאנאפאל
+    yue: 大富翁
+    zh: 地產大亨
+    zh-tw: 大富翁
 ---
-
 # [[Monopoly(game)]] 
 
 #is_/different_from :: [[../../../../../Economics/Economic_Activity/Trade/Market/Monopoly|Monopoly]]  

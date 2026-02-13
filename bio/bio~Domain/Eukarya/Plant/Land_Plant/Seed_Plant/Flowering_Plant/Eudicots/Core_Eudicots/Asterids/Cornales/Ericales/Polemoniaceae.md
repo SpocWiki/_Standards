@@ -1,9 +1,120 @@
 ---
 aliases:
-  - Polemoniaceae
+- Blågullsväxter
+- csatavirágfélék
+- Famîleya şînzerkan
+- Fjellflokkfamilien
+- Floks-familien
+- Göyümçiçəkkimilər
+- Họ Lá thang
+- Jakobsstigaætt
+- jirnicovité
+- Jurničevke
+- Jěrnicowe rostliny
+- kāpnīšu dzimta
+- Palemoniniai
+- Polemoniaceae
+- Polemoniacoj
+- Polemonium
+- polemoniàcies
+- Qantu yura rikch'aq ayllu
+- Siniladvalised
+- sinilatvakasvit
+- Sperrkrautgewächse
+- vlambloemfamilie
+- wielosiłowate
+- Көкшегүлдер тұқымдасы
+- Сінюхавыя
+- Синюхові
+- Синюховые
+- фаягөлчәләр
+- флоксови
+- զարմանազանազգիներ
+- שלהביים
+- بولامونية
+- بولامونيه
+- فامیلەیا شینزەرکان
+- گلآتشیان
+- പോളിമോണിയേസീ
+- ハナシノブ科
+- 花荵科
+- 꽃고비과
 title: Polemoniaceae
+has_id_wikidata: Q157168
+dv_has_:
+  name_:
+    an: Polemoniaceae
+    ar: بولامونية
+    arz: بولامونيه
+    ast: Polemoniaceae
+    az: Göyümçiçəkkimilər
+    be: Сінюхавыя
+    be-tarask: сінюхавыя
+    bg: флоксови
+    bs: Polemoniaceae
+    ca: polemoniàcies
+    ceb: Polemonium
+    cs: jirnicovité
+    da: Floks-familien
+    de: Sperrkrautgewächse
+    en: Polemoniaceae
+    eo: Polemoniacoj
+    es: Polemoniaceae
+    et: Siniladvalised
+    eu: Polemoniaceae
+    ext: Polemoniaceae
+    fa: گلآتشیان
+    fi: sinilatvakasvit
+    fr: Polemoniaceae
+    ga: Polemoniaceae
+    gl: Polemoniaceae
+    he: שלהביים
+    hr: Jurničevke
+    hsb: Jěrnicowe rostliny
+    hu: csatavirágfélék
+    hy: զարմանազանազգիներ
+    ia: Polemoniaceae
+    ie: Polemoniaceae
+    io: Polemoniaceae
+    is: Jakobsstigaætt
+    it: Polemoniaceae
+    ja: ハナシノブ科
+    kk: Көкшегүлдер тұқымдасы
+    ko: 꽃고비과
+    ku: Famîleya şînzerkan
+    ku-arab: فامیلەیا شینزەرکان
+    ku-latn: Famîleya şînzerkan
+    la: Polemoniaceae
+    lt: Palemoniniai
+    lv: kāpnīšu dzimta
+    ml: പോളിമോണിയേസീ
+    mul: Polemoniaceae
+    nb: Fjellflokkfamilien
+    nl: vlambloemfamilie
+    oc: Polemoniaceae
+    pl: wielosiłowate
+    pt: Polemoniaceae
+    pt-br: Polemoniaceae
+    qu: Qantu yura rikch'aq ayllu
+    ro: Polemoniaceae
+    ru: Синюховые
+    sq: Polemoniaceae
+    sv: Blågullsväxter
+    tr: Polemoniaceae
+    tt: фаягөлчәләр
+    uk: Синюхові
+    vi: Họ Lá thang
+    vo: Polemoniaceae
+    war: Polemonium
+    yue: 花荵科
+    zh: 花荵科
+    zh-cn: 花荵科
+    zh-hans: 花荵科
+    zh-hant: 花荵科
+    zh-hk: 花荵科
+    zh-sg: 花荵科
+    zh-tw: 花荵科
 ---
-
 # [[Polemoniaceae]] 
 
 Phlox Family 

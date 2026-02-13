@@ -1,11 +1,187 @@
 ---
 aliases:
-  - Aelius Galenus
-  - Claudius Galenus
-  - Galen of Pergamon
-  - Galen
+- Aelius Galenus
+- Claude Galien
+- Claudius Galenus
+- Claudius Galénos
+- Cláudio Galeno
+- Galen
+- Galen Klavdiy
+- Galen of Pergamon
+- Galeno
+- Galeno de Pergamono
+- Galenos
+- Galens
+- Galenu
+- Galenus
+- Galè
+- Galén
+- Galéno
+- Galénosz
+- Galênos
+- Galēns
+- jan Kaleno
+- Klaudijus Galenas
+- Klavdij Galen
+- Qalen
+- Γαληνός
+- Гален
+- Клавдій Гален
+- Клавдий Гален
+- Ґален
+- Ҷолинус
+- Գալեն Կլավդիոս
+- Փերկամոնացի Կալէն
+- גאלען
+- קלאודיוס גלנוס
+- جالينوس
+- جالینوس
+- ڭالينوس
+- گالن
+- گالێن
+- गालेन
+- गेलेन्
+- गैलेन
+- গালেন
+- গ্যালেন
+- ਗਾਲੈਨ
+- கலென்
+- ಗೇಲೆನ್
+- ഗലേൻ
+- เกเลน
+- ဂေလန်
+- გალენოსი
+- ᱜᱟᱞᱮᱱ
+- ガレノス
+- 盖伦
+- 蓋倫
+- 갈레노스
+has_id_wikidata: Q8778
+dv_has_:
+  name_:
+    af: Claudius Galenus
+    an: Galén
+    ar: جالينوس
+    ary: ڭالينوس
+    arz: جالينوس
+    as: গালেন
+    ast: Galenu
+    az: Qalen
+    ba: Клавдий Гален
+    be: Гален
+    be-tarask: Гален
+    bg: Гален
+    bn: গ্যালেন
+    br: Galen
+    bs: Galen
+    btm: Galenus
+    ca: Galè
+    ce: Гален
+    ckb: گالێن
+    crh: Galen
+    cs: Galén
+    cv: Гален
+    cy: Galen
+    da: Galen
+    de: Galenos
+    el: Γαληνός
+    en: Galen
+    en-ca: Galen
+    en-gb: Galen
+    eo: Galeno de Pergamono
+    es: Galeno
+    et: Galenos
+    eu: Galeno
+    fa: جالینوس
+    fi: Galenos
+    fr: Claude Galien
+    ga: Galen
+    gl: Galeno
+    gn: Galéno
+    gsw: Galenos
+    he: קלאודיוס גלנוס
+    hi: गैलेन
+    hif: Galen
+    hr: Galen
+    hu: Galénosz
+    hy: Գալեն Կլավդիոս
+    hyw: Փերկամոնացի Կալէն
+    ia: Galeno
+    id: Galenus
+    ilo: Galen
+    is: Galenos
+    it: Galeno
+    ja: ガレノス
+    ka: გალენოსი
+    kk: Гален
+    kn: ಗೇಲೆನ್
+    knc: Galen
+    ko: 갈레노스
+    ku: Galênos
+    ku-latn: Galênos
+    kw: Galen
+    ky: Гален
+    la: Claudius Galenus
+    lfn: Galeno
+    lmo: Galen
+    lt: Klaudijus Galenas
+    lv: Galēns
+    mad: Galenus
+    mg: Claude Galien
+    mk: Гален
+    ml: ഗലേൻ
+    mr: गालेन
+    ms: Galen
+    my: ဂေလန်
+    nan: Galen
+    nb: Galen
+    nds: Galenos
+    nl: Claudius Galenus
+    nn: Galenos
+    oc: Galen
+    pa: ਗਾਲੈਨ
+    pap: Galen
+    pl: Galen
+    pms: Galen
+    pnb: گالن
+    ps: جالینوس
+    pt: Cláudio Galeno
+    pt-br: Cláudio Galeno
+    ro: Galenus
+    ru: Гален
+    rue: Ґален
+    rup: Galen
+    sa: गेलेन्
+    sah: Гален
+    sat: ᱜᱟᱞᱮᱱ
+    scn: Galenu
+    sgs: Galens
+    sh: Galen
+    sk: Claudius Galénos
+    skr: جالینوس
+    sl: Klavdij Galen
+    sq: Galen
+    sr: Гален
+    sv: Galenos
+    sw: Galenos
+    ta: கலென்
+    tg: Ҷолинус
+    th: เกเลน
+    tl: Galen
+    tok: jan Kaleno
+    tr: Galen
+    tt: Гален
+    uk: Клавдій Гален
+    ur: جالینوس
+    uz: Galen Klavdiy
+    vi: Galen
+    war: Galeno
+    wuu: 盖伦
+    xmf: გალენოსი
+    yi: גאלען
+    yue: 蓋倫
+    zh: 盖伦
 ---
-
 ## #has_/text_of_/abstract 
 
 > Aelius **Galen**us or Claudius Galenus (Greek: Κλαύδιος Γαληνός; September 129 – c. 216 AD), 

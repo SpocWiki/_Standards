@@ -1,65 +1,375 @@
 ---
 aliases:
-  - Dinosauria
-  - Dinosaur
-  - Dinosaurs
-  - Dinosaurier
-  - Dinosauria
-  - ਡਾਇਨਾਸੌਰ
-  - ڈائناسور
-  - ڈائناسر
-  - ڈائنوسار
+- Arghpedrevan
+- Dainosaar
+- Dainósò
+- Deinosor
+- Diinsoor
+- Dinasọ
+- dineasár
+- Dinosaor
+- Dinosaur
+- dinosaurar
+- dinosaure
+- dinosaurer
+- Dinosauri
+- Dinosauria
+- Dinosaurier
+- dinosauriers
+- dinosaurio
+- dinosauriërs
+- Dinosauro
+- Dinosaurs
+- Dinosauru
+- dinosaurukset
+- Dinosaurur
+- Dinosaurus
+- Dinosaurused
+- Dinosaurusi
+- Dinosaurusse
+- Dinosaurussen
+- dinosaury
+- dinosauři
+- dinosaver
+- dinosawriyo
+- dinosawru
+- Dinosawryo
+- dinosaŭro
+- dinosouro
+- dinosourus
+- dinossauro
+- dinoszaurusz
+- dinosàuro
+- dinozaur
+- dinozaurai
+- dinozauri
+- dinozaury
+- Dinozaurët
+- dinozavr
+- Dinozavrad
+- dinozavri
+- Dinozavrlar
+- Dinozavron
+- dinozor
+- Dinozò
+- Dinozôre
+- Dinuozaurā
+- Dinusawru
+- Dinusàuru
+- Dinôzôro
+- Dìneasar
+- Dînezor
+- Hoengjlungz
+- Hueyi cuetzpalin
+- Jeeneysoar
+- Khióng-liông
+- Khiúng-liùng
+- khủng long
+- Kṳ̄ng-lṳ̀ng
+- Naayééʼ
+- Nalala
+- Niġrułłuk
+- Qarcabbojaa
+- risaeðlur
+- Tejurusu
+- Tɩnozɔɔrɩ
+- Δεινόσαυροι
+- Дінозавры
+- Динозавр
+- Динозавраяр
+- динозаври
+- Динозаврлар
+- Динозаврсем
+- динозавры
+- Динозаврҙар
+- Динозаврҳо
+- диносаурус
+- дыназаўр
+- дыназаўры
+- Үлэг гүрбэл
+- Үлэг гүрвэл
+- դինոզավրեր
+- דינאזאווער
+- דינוזאורים
+- دایناسور
+- دایناسۆڕ
+- دىنوزاۋر
+- ديناصور
+- ڈائناسر
+- ڈائناسور
+- ڈائنوسار
+- ڈایناسور
+- ډانګسر
+- ڊائنوسارز
+- डाइनोसौर्
+- डायनासोर
+- डायनोसर
+- डायनोसॉर
+- भीमसरट
+- ডাইনোসর
+- ডাইন’চৰ
+- ਡਾਇਨਾਸੌਰ
+- ડાયનાસોર
+- ଡାଇନୋସର
+- தொன்மா
+- రాక్షసబల్లి
+- ಡೈನೋಸಾರ್
+- ദിനോസർ
+- ඩයිනසෝරයන්
+- ไดโนเสาร์
+- ໄດໂນເສົາ
+- ဒိုင်နိုဆော
+- დინოზავრები
+- ኃያል እንሽላሊት
+- ᏘᏲᎭᎵ ᎡᏆ
+- ᐆᒪᔪᕕᓂᑐᖃᐅᔮᓗᐃᑦ
+- ឌីណូស័រ
+- ᱰᱟᱭᱱᱮᱥᱚᱨ
+- 恐竜
+- 恐龍
+- 恐龙
+- ꯗꯥꯢꯅꯣꯁꯣꯔ
+- 공룡
 has_id_wikidata: Q430
 title: Dinosauria
 Commons_category: Dinosauria
 Commons_gallery: Dinosauria
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-  - "[[_Standards/WikiData/WD~non-avian_dinosaur,82363570]]"
-  - "[[_Standards/WikiData/WD~Dinosaurus,109923829]]"
+- '[[_Standards/WikiData/WD~non-avian_dinosaur,82363570]]'
+- '[[_Standards/WikiData/WD~Dinosaurus,109923829]]'
 hashtag:
-  - dinosaur
-  - dinosaurs
-has_list: "[[_Standards/WikiData/WD~list_of_dinosaurs,718452]]"
+- dinosaur
+- dinosaurs
+has_list: '[[_Standards/WikiData/WD~list_of_dinosaurs,718452]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaur%20Rex%20and%20Triceratops.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Brontosaurus%20parvus.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Archaeopteryx%20NT.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaur%20Rex%20and%20Triceratops.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~clade,713623]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~clade,713623]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/DINOZAVRI.html
 MeSH_tree_code: B01.050.150.900.833.150
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dinosauria%20diversity.png
 OmegaWiki_Defined_Meaning: 636195
-parent_taxon: "[[_Standards/WikiData/WD~Dracohors,52798775]]"
+parent_taxon: '[[_Standards/WikiData/WD~Dracohors,52798775]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Helias%20C.%20%28BiblioCanet66%29-dinosaure.wav
 Provenio_UUID: 5d3d232b-127d-4984-a09d-65ccef85d2c3
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dinosaur.ogg
-studied_in: "[[_Standards/WikiData/WD~dinosaur_paleontology,9054789]]"
+studied_in: '[[_Standards/WikiData/WD~dinosaur_paleontology,9054789]]'
 subreddit: Dinosaurs
 taxon_common_name:
-  - ਡਾਇਨਾਸੌਰ
-  - ڈائناسور
-  - ڈائناسر
-  - ڈائنوسار
+- ਡਾਇਨਾਸੌਰ
+- ڈائناسور
+- ڈائناسر
+- ڈائنوسار
 taxon_name: Dinosauria
-taxon_rank: "[[_Standards/WikiData/WD~superorder,5868144]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~dinosaur_footprint,106165679]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Q50380956,50380956]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]"
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~dinosaur_footprint,106165679]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Q50380956,50380956]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Dinosaurs,8772060]]'
 UMLS_CUI: C0949681
-Unicode_character: 🦕
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_dinosaurs,7112607]]"
+Unicode_character: "\U0001F995"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_dinosaurs,7112607]]'
 Wolfram_Language_entity_code: Entity["Dinosaur", "Superorder:Dinosauria"]
 Wolfram_Language_entity_type: Dinosaur
 WordLift_URL: http://data.thenextweb.com/tnw/entity/dinosaur
+dv_has_:
+  name_:
+    af: dinosourus
+    am: ኃያል እንሽላሊት
+    an: Dinosauria
+    ann: Dinasọ
+    anp: डायनासोर
+    ar: ديناصور
+    ary: ديناصور
+    arz: ديناصور
+    as: ডাইন’চৰ
+    ast: Dinosauria
+    az: dinozavr
+    azb: دایناسور
+    ba: Динозаврҙар
+    ban: Dinosauria
+    bcl: Dinosaur
+    be: дыназаўры
+    be-tarask: дыназаўр
+    bg: динозаври
+    bn: ডাইনোসর
+    br: Dinosaor
+    bs: Dinosaurusi
+    bxr: Үлэг гүрбэл
+    ca: dinosaure
+    cdo: Kṳ̄ng-lṳ̀ng
+    ceb: Dinosawryo
+    chr: ᏘᏲᎭᎵ ᎡᏆ
+    ckb: دایناسۆڕ
+    crh: dinozor
+    cs: dinosauři
+    cv: Динозаврсем
+    cy: Deinosor
+    da: Dinosaurus
+    de: Dinosaurier
+    diq: Dinozor
+    el: Δεινόσαυροι
+    en: dinosaur
+    en-ca: dinosaur
+    en-gb: dinosaur
+    en-us: dinosaur
+    eo: dinosaŭro
+    es: Dinosauria
+    et: Dinosaurused
+    eu: dinosauro
+    ext: Dinosauria
+    fa: دایناسور
+    fi: dinosaurukset
+    fo: Dinosaurur
+    fr: dinosaure
+    frr: dinosaurier
+    fy: Dinosaurussen
+    ga: dineasár
+    gan: 恐龍
+    gcr: Dinozò
+    gd: Dìneasar
+    gl: dinosauro
+    gn: Tejurusu
+    gor: Dinosaurus
+    gsw: Dinosaurier
+    gu: ડાયનાસોર
+    gv: Jeeneysoar
+    hak: Khiúng-liùng
+    haw: Nalala
+    he: דינוזאורים
+    hi: भीमसरट
+    hif: Dinosaur
+    hr: Dinosauri
+    ht: Dinozò
+    hu: dinoszaurusz
+    hy: դինոզավրեր
+    ia: Dinosauria
+    id: Dinosaurus
+    ik: Niġrułłuk
+    ilo: dinosauro
+    io: Dinosaurio
+    is: risaeðlur
+    it: dinosauro
+    iu: ᐆᒪᔪᕕᓂᑐᖃᐅᔮᓗᐃᑦ
+    ja: 恐竜
+    jam: Dainosaar
+    jv: Dinosaurus
+    ka: დინოზავრები
+    kbp: Tɩnozɔɔrɩ
+    kk: Динозаврлар
+    km: ឌីណូស័រ
+    kn: ಡೈನೋಸಾರ್
+    ko: 공룡
+    krj: dinosawriyo
+    ks: ڈایناسور
+    ku: Dînezor
+    kw: Arghpedrevan
+    ky: Динозаврлар
+    la: Dinosauria
+    lez: Динозавраяр
+    lfn: Dinosauro
+    li: Dinosaurusse
+    lmo: dinosaver
+    lo: ໄດໂນເສົາ
+    lt: dinozaurai
+    lv: dinozauri
+    lzh: 恐龍
+    mai: डायनोसर
+    map-bms: Dinosaurus
+    mg: Dinôzôro
+    mk: диносаурус
+    ml: ദിനോസർ
+    mn: Үлэг гүрвэл
+    mni: ꯗꯥꯢꯅꯣꯁꯣꯔ
+    mr: डायनोसॉर
+    mrj: Динозавр
+    ms: dinosaur
+    mt: dinosawru
+    mul: Dinosauria
+    my: ဒိုင်နိုဆော
+    nah: Hueyi cuetzpalin
+    nan: Khióng-liông
+    nb: dinosaurer
+    nds: Dinosaurier
+    nds-nl: dinosauriers
+    ne: डायनोसर
+    new: डाइनोसौर्
+    nl: dinosauriërs
+    nn: dinosaurar
+    nv: Naayééʼ
+    oc: dinosaure
+    om: Qarcabbojaa
+    or: ଡାଇନୋସର
+    pa: ਡਾਇਨਾਸੌਰ
+    pap: dinosouro
+    pap-aw: dinosaurio
+    pl: dinozaury
+    pms: Dinosaur
+    pnb: ڈائناسور
+    ps: ډانګسر
+    pt: dinossauro
+    qu: Dinusawru
+    rm: Dinosaurs
+    ro: dinozaur
+    ru: динозавры
+    rue: Дінозавры
+    sah: Динозавр
+    sat: ᱰᱟᱭᱱᱮᱥᱚᱨ
+    sc: Dinosauru
+    scn: Dinusàuru
+    sco: dinosaur
+    sd: ڊائنوسارز
+    sgs: Dinuozaurā
+    sh: Dinosauri
+    si: ඩයිනසෝරයන්
+    sk: dinosaury
+    skr: ڈائناسر
+    sl: dinozavri
+    so: Diinsoor
+    sq: Dinozaurët
+    sr: диносаурус
+    su: Dinosaurus
+    sv: dinosaurier
+    sw: Dinosauri
+    ta: தொன்மா
+    te: రాక్షసబల్లి
+    tg: Динозаврҳо
+    th: ไดโนเสาร์
+    tl: dinosauro
+    tly: Dinozavron
+    tr: dinozor
+    tt: динозаврлар
+    tt-cyrl: динозаврлар
+    udm: динозавр
+    ug: دىنوزاۋر
+    uk: динозаври
+    ur: ڈائنوسار
+    uz: Dinozavrlar
+    vec: dinosàuro
+    vep: Dinozavrad
+    vi: khủng long
+    vo: Dinosaur
+    vro: Dinosaurus
+    wa: Dinozôre
+    war: Dinosauro
+    wuu: 恐龙
+    yi: דינאזאווער
+    yo: Dainósò
+    yue: 恐龍
+    za: Hoengjlungz
+    zh: 恐龙
+    zh-cn: 恐龙
+    zh-hans: 恐龙
+    zh-hant: 恐龍
+    zh-tw: 恐龍
 ---
-
 # [[Dinosaur]] 🦕 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Dinosaur,430|WD~Dinosaur,430]] 

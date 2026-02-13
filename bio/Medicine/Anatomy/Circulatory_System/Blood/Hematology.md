@@ -1,26 +1,82 @@
 ---
 aliases:
-  - Haematology
-  - Hematology
+- blóðfræði
+- ematologia
+- ematolojia
+- gematolog
+- gematologiya
+- haemaiteolaíocht
+- haematologia
+- Haematology
+- hematoleg
+- hematolochía
+- hematologi
+- hematologia
+- hematologie
+- hematologiija
+- hematologija
+- hematologio
+- hematologiya
+- hematologjia
+- Hematology
+- hematología
+- hematolohiya
+- hematoloogia
+- hematoloxía
+- hematoloģija
+- hematológia
+- huyết học
+- Hämatologie
+- hæmatologi
+- hématologie
+- kan bilimi
+- αιματολογία
+- гематалёгія
+- гематалогія
+- гематолог
+- гематологія
+- гематология
+- хематологија
+- хематология
+- хуншиносӣ
+- արյունաբանություն
+- המטולוגיה
+- خونشناسی
+- دمیات
+- علم الدم
+- هيماتولوݢي
+- گەماتولوگ
+- ہیماٹالجی
+- रक्तशास्त्र
+- रक्तशास्त्रम्
+- हेमाटोलोजी
+- রক্তবিজ্ঞান
+- రక్త శాస్త్రం
+- ഹീമറ്റോളജി
+- โลหิตวิทยา
+- ჰემატოლოგია
+- 血液学
+- 血液學
+- 혈액학
 has_id_wikidata: Q103824
 instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
 practiced_by: '[[_Standards/WikiData/WD~hematologist,3144914]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Diseases_of_RBCs_and_megakaryocytes,6291169]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 part_of:
-  - '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005]]'
-  - '[[_Standards/WikiData/WD~internal_medicine,11180]]'
+- '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005]]'
+- '[[_Standards/WikiData/WD~internal_medicine,11180]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005]]'
-  - '[[_Standards/WikiData/WD~internal_medicine,11180]]'
+- '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005]]'
+- '[[_Standards/WikiData/WD~internal_medicine,11180]]'
 All_Science_Journal_Classification_Codes: 2720
 OmegaWiki_Defined_Meaning: 1706
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Blood%20test.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/SEM%20blood%20cells.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20hematopoietic%20system%2C%20extracted%20from%20Hematology%20%281963%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Blood%20test.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/SEM%20blood%20cells.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/The%20hematopoietic%20system%2C%20extracted%20from%20Hematology%20%281963%29.jpg
 Basisklassifikation: 44.86
 UMLS_CUI: C0018943
 MeSH_tree_code: H02.403.429.445
@@ -28,8 +84,112 @@ subreddit: Hematology
 Commons_gallery: Hematology
 Commons_category: Hematology
 OpenStreetMap_tag: healthcare:speciality=haematology
+dv_has_:
+  name_:
+    af: hematologie
+    an: hematolochía
+    ar: علم الدم
+    ast: hematoloxía
+    az: hematologiya
+    ba: гематология
+    be: гематалогія
+    be-tarask: гематалёгія
+    bg: хематология
+    bn: রক্তবিজ্ঞান
+    bs: hematologija
+    ca: hematologia
+    cs: hematologie
+    cy: hematoleg
+    da: hæmatologi
+    de: Hämatologie
+    de-ch: Hämatologie
+    el: αιματολογία
+    en: hematology
+    en-ca: hematology
+    en-gb: haematology
+    eo: hematologio
+    es: hematología
+    et: hematoloogia
+    eu: hematologia
+    fa: خونشناسی
+    fi: hematologia
+    fr: hématologie
+    ga: haemaiteolaíocht
+    gl: hematoloxía
+    he: המטולוגיה
+    hi: रक्तशास्त्र
+    hr: hematologija
+    hu: hematológia
+    hy: արյունաբանություն
+    id: hematologi
+    is: blóðfræði
+    it: ematologia
+    ja: 血液学
+    jv: hematologi
+    ka: ჰემატოლოგია
+    kk: гематолог
+    kk-arab: گەماتولوگ
+    kk-cn: گەماتولوگ
+    kk-cyrl: гематолог
+    kk-kz: гематолог
+    kk-latn: gematolog
+    kk-tr: gematolog
+    ko: 혈액학
+    ks: ہیماٹالجی
+    ky: гематология
+    la: haematologia
+    lb: Hematologie
+    lfn: ematolojia
+    lt: hematologija
+    lv: hematoloģija
+    mk: хематологија
+    ml: ഹീമറ്റോളജി
+    ms: hematologi
+    ms-arab: هيماتولوݢي
+    nb: hematologi
+    nds: Hämatologie
+    ne: रक्तशास्त्र
+    new: हेमाटोलोजी
+    nl: hematologie
+    nn: hematologi
+    pi: रक्तशास्त्र
+    pl: hematologia
+    pt: hematologia
+    pt-br: hematologia
+    ro: hematologie
+    ru: гематология
+    sa: रक्तशास्त्रम्
+    se: hematologiija
+    sh: hematologija
+    sk: hematológia
+    sl: hematologija
+    smn: hematologia
+    sms: hematologia
+    sq: hematologjia
+    sr: хематологија
+    sv: hematologi
+    te: రక్త శాస్త్రం
+    tg: хуншиносӣ
+    th: โลหิตวิทยา
+    tl: hematolohiya
+    tr: kan bilimi
+    tt: гематология
+    uk: гематологія
+    ur: دمیات
+    uz: gematologiya
+    vi: huyết học
+    war: hematolohiya
+    wuu: 血液学
+    xmf: ჰემატოლოგია
+    yue: 血液學
+    zh: 血液學
+    zh-cn: 血液学
+    zh-hans: 血液学
+    zh-hant: 血液學
+    zh-hk: 血液學
+    zh-sg: 血液学
+    zh-tw: 血液學
 ---
-
 # [[Hematology]] 
 
 #is_/same_as :: [[WD~Hematology,103824]] 

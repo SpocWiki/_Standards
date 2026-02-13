@@ -1,107 +1,151 @@
 ---
 aliases:
-  - Virginia_Woolf
-  - Adeline Virginia Woolf
-  - Virginia Woolf
-  - Woolf
-  - Adeline Virginia Stephen
-  - Woolf,Virginia
+- Adeline Virginia Stephen
+- Adeline Virginia Woolf
+- verdjinia wuv
+- Virciniya Vulf
+- Virdžīnija Vulfa
+- Virginia Wolf
+- Virginia Woolf
+- Virginia Woolfová
+- Virginia_Woolf
+- Woolf
+- Woolf,Virginia
+- Βιρτζίνια Γουλφ
+- Вірджинія Вульф
+- Вірджынія Ўулф
+- Вірджынія Вульф
+- Вирџинија Вулф
+- Вирджиния Вулф
+- Вирджиния Улф
+- Виржиния Вулф
+- Вирҷиниа Вулф
+- Վիրճինիա Ուոլֆ
+- Վիրջինիա Վուլֆ
+- וירג'יניה וולף
+- ؤرجینیا وولف
+- فرجينيا وولف
+- ورجینیا ولف
+- ورجینیا وولف
+- ویرجینیا وولف
+- ڤێرجینیا وولف
+- भर्जिनिया वुल्फ
+- वर्जिनिया वुल्फ़
+- वर्जीनिया वुल्फ
+- व्हर्जिनिया वूल्फ
+- ভার্জিনিয়া উল্ফ
+- ভাৰ্জিনিয়া উল্ফ
+- ਵਰਜੀਨੀਆ ਵੁਲਫ
+- வெர்ஜீனியா வூல்ஃப்
+- వర్జీనియా వుల్ఫ్
+- ವರ್ಜೀನಿಯಾ ವೂಲ್ಫ್
+- വിർജിനിയ വുൾഫ്
+- වර්ජිනියා වුල්ෆ්
+- เวอร์จิเนีย วูล์ฟ
+- ვირჯინია ვულფი
+- ヴァージニア・ウルフ
+- 伍爾芙
+- 弗吉尼亚·伍尔夫
+- 弗吉尼亚·伍尔芙
+- 維吉尼亞·吳爾芙
+- 維吉尼野·烏爾芙
+- 버지니아 울프
 has_id_wikidata: Q40909
 influenced_by:
-  - '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
-  - '[[_Standards/WikiData/WD~Emily_Brontë,80137]]'
-  - '[[_Standards/WikiData/WD~George_Eliot,131333]]'
-  - '[[_Standards/WikiData/WD~Thomas_Browne,313925]]'
-  - '[[_Standards/WikiData/WD~Thomas_De_Quincey,317160]]'
-  - '[[_Standards/WikiData/WD~Jane_Ellen_Harrison,437675]]'
-  - '[[_Standards/WikiData/WD~Daniel_Defoe,40946]]'
+- '[[_Standards/WikiData/WD~Walter_Scott,79025]]'
+- '[[_Standards/WikiData/WD~Emily_Brontë,80137]]'
+- '[[_Standards/WikiData/WD~George_Eliot,131333]]'
+- '[[_Standards/WikiData/WD~Thomas_Browne,313925]]'
+- '[[_Standards/WikiData/WD~Thomas_De_Quincey,317160]]'
+- '[[_Standards/WikiData/WD~Jane_Ellen_Harrison,437675]]'
+- '[[_Standards/WikiData/WD~Daniel_Defoe,40946]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Victoria_and_Albert_Museum,213322]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Vita_Sackville_West,235505]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~King's_College_London,245247]]"
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-  - '[[_Standards/WikiData/WD~University_of_Sussex_Library,17549763]]'
-  - '[[_Standards/WikiData/WD~McMaster_University_Library,20711897]]'
-  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
-  - '[[_Standards/WikiData/WD~E.J._Pratt_Library,76176053]]'
-  - '[[_Standards/WikiData/WD~British_Library,23308]]'
-  - '[[_Standards/WikiData/WD~Smith_College,49204]]'
+- "[[_Standards/WikiData/WD~King's_College_London,245247]]"
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+- '[[_Standards/WikiData/WD~University_of_Sussex_Library,17549763]]'
+- '[[_Standards/WikiData/WD~McMaster_University_Library,20711897]]'
+- '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+- '[[_Standards/WikiData/WD~E.J._Pratt_Library,76176053]]'
+- '[[_Standards/WikiData/WD~British_Library,23308]]'
+- '[[_Standards/WikiData/WD~Smith_College,49204]]'
 educated_at: "[[_Standards/WikiData/WD~King's_College_London,245247]]"
 place_of_death: '[[_Standards/WikiData/WD~Lewes,246884]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Vanessa_Bell,255294]]'
-  - '[[_Standards/WikiData/WD~Adrian_Stephen,2318537]]'
-  - '[[_Standards/WikiData/WD~Thoby_Stephen,2391307]]'
-  - '[[_Standards/WikiData/WD~Gerald_Duckworth,3103871]]'
-  - '[[_Standards/WikiData/WD~George_Herbert_Duckworth,5540520]]'
-  - '[[_Standards/WikiData/WD~Stella_Duckworth,56052066]]'
-  - '[[_Standards/WikiData/WD~Laura_Stephen,75543906]]'
+- '[[_Standards/WikiData/WD~Vanessa_Bell,255294]]'
+- '[[_Standards/WikiData/WD~Adrian_Stephen,2318537]]'
+- '[[_Standards/WikiData/WD~Thoby_Stephen,2391307]]'
+- '[[_Standards/WikiData/WD~Gerald_Duckworth,3103871]]'
+- '[[_Standards/WikiData/WD~George_Herbert_Duckworth,5540520]]'
+- '[[_Standards/WikiData/WD~Stella_Duckworth,56052066]]'
+- '[[_Standards/WikiData/WD~Laura_Stephen,75543906]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~To_the_Lighthouse,478016]]'
-  - '[[_Standards/WikiData/WD~Mrs_Dalloway,752584]]'
-  - "[[_Standards/WikiData/WD~A_Room_of_One's_Own,1204366]]"
-  - '[[_Standards/WikiData/WD~The_Waves,1217475]]'
-  - '[[_Standards/WikiData/WD~Orlando_A_Biography,1629456]]'
+- '[[_Standards/WikiData/WD~To_the_Lighthouse,478016]]'
+- '[[_Standards/WikiData/WD~Mrs_Dalloway,752584]]'
+- "[[_Standards/WikiData/WD~A_Room_of_One's_Own,1204366]]"
+- '[[_Standards/WikiData/WD~The_Waves,1217475]]'
+- '[[_Standards/WikiData/WD~Orlando_A_Biography,1629456]]'
 occupation:
-  - '[[_Standards/WikiData/WD~author,482980]]'
-  - '[[_Standards/WikiData/WD~publisher,2516866]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~diarist,18939491]]'
-  - "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~publisher,2516866]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~diarist,18939491]]'
+- "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
 movement: '[[_Standards/WikiData/WD~Bloomsbury_Group,603529]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Virginia,607350]]'
-  - '[[_Standards/WikiData/WD~Adeline,16001784]]'
+- '[[_Standards/WikiData/WD~Virginia,607350]]'
+- '[[_Standards/WikiData/WD~Adeline,16001784]]'
 spouse: '[[_Standards/WikiData/WD~Leonard_Woolf,703935]]'
 father: '[[_Standards/WikiData/WD~Leslie_Stephen,740657]]'
 residence: "[[_Standards/WikiData/WD~Monk's_House,864197]]"
 place_of_burial: "[[_Standards/WikiData/WD~Monk's_House,864197]]"
 student_of:
-  - '[[_Standards/WikiData/WD~Ernest_de_Sélincourt,5394060]]'
-  - '[[_Standards/WikiData/WD~Janet_Case,18671659]]'
-  - '[[_Standards/WikiData/WD~Clara_Pater,18756630]]'
+- '[[_Standards/WikiData/WD~Ernest_de_Sélincourt,5394060]]'
+- '[[_Standards/WikiData/WD~Janet_Case,18671659]]'
+- '[[_Standards/WikiData/WD~Clara_Pater,18756630]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Stephen,7608515]]'
-  - '[[_Standards/WikiData/WD~Woolf,29546864]]'
+- '[[_Standards/WikiData/WD~Stephen,7608515]]'
+- '[[_Standards/WikiData/WD~Woolf,29546864]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
-  - "[[_Standards/WikiData/WD~The_Palgrave_Encyclopedia_of_Victorian_Women's_Writing,108572536]]"
-  - '[[_Standards/WikiData/WD~Q113369276,113369276]]'
-  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
+- "[[_Standards/WikiData/WD~The_Palgrave_Encyclopedia_of_Victorian_Women's_Writing,108572536]]"
+- '[[_Standards/WikiData/WD~Q113369276,113369276]]'
+- '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 named_after: '[[_Standards/WikiData/WD~Adeline_Marie_Russell,_Duchess_of_Bedford,18526315]]'
 mother: '[[_Standards/WikiData/WD~Julia_Stephen,18912649]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-  - '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
-  - '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
+- '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 personal_library_at: '[[_Standards/WikiData/WD~Washington_State_University_Libraries,27991313]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_status_as_a_creator:
-  - '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-  - '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
+- '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
 date_of_birth: 1882-01-25T00:00:00Z
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 sexual_orientation:
-  - '[[_Standards/WikiData/WD~lesbianism,6649]]'
-  - '[[_Standards/WikiData/WD~bisexuality,43200]]'
+- '[[_Standards/WikiData/WD~lesbianism,6649]]'
+- '[[_Standards/WikiData/WD~bisexuality,43200]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
@@ -130,8 +174,131 @@ Commons_category: Virginia Woolf
 Commons_Creator_page: Virginia Woolf
 Commons_gallery: Virginia Woolf
 described_at_URL: https://heritage.humanists.uk/virginia-woolf/
+dv_has_:
+  name_:
+    af: Virginia Woolf
+    an: Virginia Woolf
+    ar: فرجينيا وولف
+    arz: فرجينيا وولف
+    as: ভাৰ্জিনিয়া উল্ফ
+    ast: Virginia Woolf
+    avk: Virginia Woolf
+    ay: Virginia Woolf
+    az: Virciniya Vulf
+    azb: ویرجینیا وولف
+    bcl: Virginia Woolf
+    be: Вірджынія Вульф
+    be-tarask: Вірджынія Ўулф
+    bg: Вирджиния Улф
+    bho: वर्जीनिया वुल्फ
+    bn: ভার্জিনিয়া উল্ফ
+    br: Virginia Woolf
+    bs: Virginia Woolf
+    ca: Virginia Woolf
+    ckb: ڤێرجینیا وولف
+    cs: Virginia Woolfová
+    cy: Virginia Woolf
+    da: Virginia Woolf
+    de: Virginia Woolf
+    de-ch: Virginia Woolf
+    diq: Virginia Woolf
+    el: Βιρτζίνια Γουλφ
+    en: Virginia Woolf
+    en-ca: Virginia Woolf
+    en-gb: Virginia Woolf
+    eo: Virginia Woolf
+    es: Virginia Woolf
+    et: Virginia Woolf
+    eu: Virginia Woolf
+    ext: Virginia Woolf
+    fa: ویرجینیا وولف
+    fi: Virginia Woolf
+    fr: Virginia Woolf
+    frp: Virginia Woolf
+    frr: Virginia Woolf
+    fy: Virginia Woolf
+    ga: Virginia Woolf
+    gan: 維吉尼野·烏爾芙
+    gl: Virginia Woolf
+    he: וירג'יניה וולף
+    hi: वर्जिनिया वुल्फ़
+    hr: Virginia Woolf
+    ht: Virginia Woolf
+    hu: Virginia Woolf
+    hy: Վիրջինիա Վուլֆ
+    hyw: Վիրճինիա Ուոլֆ
+    id: Virginia Woolf
+    io: Virginia Woolf
+    is: Virginia Woolf
+    it: Virginia Woolf
+    ja: ヴァージニア・ウルフ
+    ka: ვირჯინია ვულფი
+    kk: Вирджиния Вулф
+    kn: ವರ್ಜೀನಿಯಾ ವೂಲ್ಫ್
+    ko: 버지니아 울프
+    ks: ؤرجینیا وولف
+    ku: Virginia Woolf
+    ky: Виржиния Вулф
+    la: Virginia Woolf
+    lb: Virginia Woolf
+    lt: Virginia Woolf
+    lv: Virdžīnija Vulfa
+    mai: भर्जिनिया वुल्फ
+    mg: Virginia Woolf
+    mk: Вирџинија Вулф
+    ml: വിർജിനിയ വുൾഫ്
+    mr: व्हर्जिनिया वूल्फ
+    ms: Virginia Woolf
+    mt: Virginia Woolf
+    mul: Virginia Woolf
+    mzn: ویرجینیا وولف
+    nan: Virginia Woolf
+    nb: Virginia Woolf
+    ne: भर्जिनिया वुल्फ
+    nl: Virginia Woolf
+    nn: Virginia Woolf
+    oc: Virginia Woolf
+    olo: Virginia Woolf
+    pa: ਵਰਜੀਨੀਆ ਵੁਲਫ
+    pl: Virginia Woolf
+    pms: Virginia Woolf
+    pnb: ورجینیا ولف
+    ps: ویرجینیا وولف
+    pt: Virginia Woolf
+    pt-br: Virginia Woolf
+    pwn: verdjinia wuv
+    qu: Virginia Woolf
+    ro: Virginia Woolf
+    ru: Вирджиния Вулф
+    sh: Virginia Woolf
+    si: වර්ජිනියා වුල්ෆ්
+    sk: Virginia Woolfová
+    sl: Virginia Wolf
+    sq: Virginia Woolf
+    sr: Virginia Woolf
+    sv: Virginia Woolf
+    sw: Virginia Woolf
+    ta: வெர்ஜீனியா வூல்ஃப்
+    tcy: ವರ್ಜೀನಿಯಾ ವೂಲ್ಫ್
+    te: వర్జీనియా వుల్ఫ్
+    tg: Вирҷиниа Вулф
+    th: เวอร์จิเนีย วูล์ฟ
+    tl: Virginia Woolf
+    tr: Virginia Woolf
+    uk: Вірджинія Вульф
+    ur: ورجینیا وولف
+    vi: Virginia Woolf
+    war: Virginia Woolf
+    wuu: 弗吉尼亚·伍尔夫
+    xmf: ვირჯინია ვულფი
+    yo: Virginia Woolf
+    yue: 伍爾芙
+    zh: 弗吉尼亚·伍尔夫
+    zh-cn: 弗吉尼亚·伍尔夫
+    zh-hans: 弗吉尼亚·伍尔夫
+    zh-sg: 弗吉尼亚·伍尔芙
+    zh-tw: 維吉尼亞·吳爾芙
 ---
-
 # [[Woolf,Virginia]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Virginia_Woolf,40909|WD~Virginia_Woolf,40909]]   

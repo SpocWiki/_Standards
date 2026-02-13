@@ -1,80 +1,210 @@
 ---
 aliases:
-  - Insect
-  - Insecta
-  - Insects
-  - Inseuto
-  - Inseutu
-  - Насекоми
-  - Amprevan
-  - Insekti
-  - Insecte
-  - Pryf
-  - Έντομα
-  - Insekto
-  - Hyönteiset
-  - Insekten
-  - Ynsekten
-  - Feithid
-  - Insectos
-  - Insekte
-  - חרקים
-  - Rovarok
-  - Միջատներ
-  - Skordyr
-  - 昆虫綱 (こんちゅうこう)
-  - 곤충강
-  - Vabzdys
-  - Kukaiņi
-  - Инсекти
-  - Hmyz
-  - حشرة
-  - Serangga
-  - Насекомые
-  - பூச்சி
-  - Kukci
-  - Insekt
-  - Bai
-  - Insetti
-  - แมลง
-  - Owady
-  - Wadudu
-  - Комахи
-  - Baùti
-  - 昆虫纲
-  - 昆蟲綱
-  - žuželke
-  - Böcek
-  - Côn trùng
-  - Insecten
-  - Insekter
-  - Insecto
-  - Inseto
-  - insects
-  - insekter
-  - Insectes
-  - hmyz
+- Aburɣes
+- ahụhụ
+- Amprevan
+- Babbalottu
+- Bai
+- Baùti
+- Binneeŋa
+- Böcek
+- Ceorfdēor
+- Ch'iwi
+- Chʼosh bijáád hastání
+- Côn trùng
+- divrrit
+- Ensèk
+- Feithid
+- Gavedid
+- Gunóor
+- gòógínà
+- Hasharotlar
+- haşerat
+- Hmyz
+- Hweskeren
+- Hyönteiset
+- həşərat
+- Ilbiisa
+- Inigwahabiri
+- Insect
+- Insecta
+- Insecte
+- Insecten
+- Insectes
+- Insecto
+- Insectos
+- Insects
+- Insectu
+- Insectâ
+- insectă
+- Insek
+- Inseke
+- Insekt
+- Insekta
+- Insekte
+- Insekten
+- Insekter
+- Insekti
+- Insektn
+- Insekto
+- insekty
+- Insektó
+- Inset
+- Inseto
+- insetos
+- Insetti
+- insetto
+- Insettu
+- Inseuto
+- Inseutu
+- Intsektu
+- Inzetto
+- karangga
+- kaykuwi
+- Khun-thiông
+- Khûn-chhùng
+- Kirwa
+- Kitutu
+- kukainis
+- Kukaiņi
+- Kukci
+- Kulisap
+- Kuriya
+- kyangcet
+- kêz
+- Kòkòrò
+- Kŏng-tṳ̀ng
+- mantcoc
+- Meanbh-fhrìde
+- Meškêso
+- Mutuk
+- Mwuwu
+- Mêş û mûr
+- Non
+- Nyama ekɛ́
+- Owady
+- Palama
+- pipi
+- Pryf
+- putukad
+- Rovarok
+- Serangga
+- seureungga
+- Shıbın-shirkeyler
+- Skordyr
+- skordýr
+- Songongi
+- Srangga
+- teeuʹr
+- tivreh
+- Tymbachu'i
+- Tɛtʊ wondu cikpetu
+- Vabzdys
+- Vabzdē
+- Vabzdžiai
+- Wadudu
+- Xasharaad
+- Ynsekten
+- Yolcatzin
+- žuželke
+- ʻinisēkite
+- Έντομα
+- έντομο
+- Бөжәктәр
+- бөҗәкләр
+- вусякі
+- Жәндіктер
+- Инсекти
+- Капшангы
+- Комахи
+- Курт-кумурскалар
+- Насекоми
+- Насекомые
+- насякомыя
+- нымы-кибыос
+- Пепеяр
+- Сагалмат
+- Садоалла хIамаш
+- сасчытæ
+- Сукст-унжат
+- Ущущулгъи
+- Хорха
+- Хорхой шумуул
+- Хробач
+- Хурт-кăпшанкă
+- ХьэпӀацӀэхэр
+- Шавьж
+- Шыҥа-копшаҥге
+- Үөн-көйүүр
+- Ҳашарот
+- Միջատներ
+- אינסעקט
+- חרקים
+- بئو
+- بخوش
+- جيت
+- حشرات
+- حشراتلار
+- حشرة
+- حشره
+- خوځندکې
+- مێروو
+- کیوٚم
+- کیڑے مکوڑے
+- ܪܚܫܐ
+- की
+- कीट
+- कीटक
+- कीरा
+- जन्तुः
+- পতংগ
+- পতঙ্গ
+- ਕੀਟ
+- பூச்சி
+- కీటకము
+- ಕೀಟ
+- പ്രാണി
+- කෘමියෝ
+- แมลง
+- မူင်ႈမႅင်း
+- အင်းဆက်
+- အေဉ်းသဲစ်
+- მწერები
+- ჭანდეფი
+- ሓሽራ
+- ሦስት አጽቄ
+- ᏨᏍᎪᏱ
+- ᡠᠮᡳᠶᠠᡥᠠ
+- 昆虫
+- 昆虫綱 (こんちゅうこう)
+- 昆虫纲
+- 昆蟲
+- 昆蟲綱
+- 蟲蟻子
+- 곤충
+- 곤충강
+- "\U00010339\U0001033D\U00010343\U00010334\U0001033A\U00010344\U00010330"
 has_id_wikidata: Q1390
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Colon_Classification: K86
 Commons_category: Insecta
 Commons_gallery: Insecta
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 EPPO_Code: 1INSEC
 equivalent_class: http://dbpedia.org/ontology/Insect
 GS1_GPC_code: 10005446
 has_characteristic: '[[_Standards/WikiData/WD~insect_biodiversity,6037215]]'
 has_use:
-  - '[[_Standards/WikiData/WD~entomophagy,1046284]]'
-  - '[[_Standards/WikiData/WD~insect_farming,1351959]]'
-  - '[[_Standards/WikiData/WD~insect_trade,121888623]]'
+- '[[_Standards/WikiData/WD~entomophagy,1046284]]'
+- '[[_Standards/WikiData/WD~insect_farming,1351959]]'
+- '[[_Standards/WikiData/WD~insect_trade,121888623]]'
 Iconclass_notation: 25F711
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Insekter.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -90,61 +220,61 @@ start_time: -400000000-01-01
 studied_in: '[[_Standards/WikiData/WD~entomology,39286]]'
 subreddit: insects
 taxon_common_name:
-  - Inseuto
-  - Inseutu
-  - Насекоми
-  - Amprevan
-  - Insekti
-  - Insecte
-  - Pryf
-  - Έντομα
-  - Insekto
-  - Hyönteiset
-  - Insekten
-  - Ynsekten
-  - Feithid
-  - Insectos
-  - Insekte
-  - חרקים
-  - Rovarok
-  - Միջատներ
-  - Skordyr
-  - 昆虫綱 (こんちゅうこう)
-  - 곤충강
-  - Vabzdys
-  - Kukaiņi
-  - Инсекти
-  - Insecte
-  - Hmyz
-  - Инсекти
-  - حشرة
-  - Serangga
-  - Насекомые
-  - பூச்சி
-  - Kukci
-  - Insekt
-  - Bai
-  - Insekten
-  - Insetti
-  - แมลง
-  - Owady
-  - Wadudu
-  - Комахи
-  - Baùti
-  - 昆虫纲
-  - 昆蟲綱
-  - žuželke
-  - Böcek
-  - Côn trùng
-  - Insecten
-  - Insekter
-  - Insecto
-  - Serangga
-  - Inseto
-  - insects
-  - insekter
-  - Insectes
-  - hmyz
+- Inseuto
+- Inseutu
+- Насекоми
+- Amprevan
+- Insekti
+- Insecte
+- Pryf
+- Έντομα
+- Insekto
+- Hyönteiset
+- Insekten
+- Ynsekten
+- Feithid
+- Insectos
+- Insekte
+- חרקים
+- Rovarok
+- Միջատներ
+- Skordyr
+- 昆虫綱 (こんちゅうこう)
+- 곤충강
+- Vabzdys
+- Kukaiņi
+- Инсекти
+- Insecte
+- Hmyz
+- Инсекти
+- حشرة
+- Serangga
+- Насекомые
+- பூச்சி
+- Kukci
+- Insekt
+- Bai
+- Insekten
+- Insetti
+- แมลง
+- Owady
+- Wadudu
+- Комахи
+- Baùti
+- 昆虫纲
+- 昆蟲綱
+- žuželke
+- Böcek
+- Côn trùng
+- Insecten
+- Insekter
+- Insecto
+- Serangga
+- Inseto
+- insects
+- insekter
+- Insectes
+- hmyz
 taxon_name: Insecta
 taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~insect_as_food,38117921]]'
@@ -154,8 +284,240 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Insects,10564223
 UMLS_CUI: C0021585
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10640332
+dv_has_:
+  name_:
+    ace: seureungga
+    af: insek
+    am: ሦስት አጽቄ
+    an: Insecta
+    ang: Ceorfdēor
+    ann: Mwuwu
+    anp: कीट
+    ar: حشرات
+    arc: ܪܚܫܐ
+    ary: بخوش
+    arz: حشره
+    as: পতংগ
+    ast: inseutu
+    atj: mantcoc
+    ay: Ch'iwi
+    az: həşərat
+    azb: حشراتلار
+    ba: Бөжәктәр
+    ban: Serangga
+    bcl: Insekto
+    be: насякомыя
+    be-tarask: вусякі
+    bg: насекоми
+    bi: Insek
+    bjn: karangga
+    blk: အေဉ်းသဲစ်
+    bn: পতঙ্গ
+    br: amprevan
+    bs: Insekti
+    bxr: Хорхой шумуул
+    ca: insectes
+    cdo: Kŏng-tṳ̀ng
+    ce: Сагалмат
+    ceb: Insekto
+    chr: ᏨᏍᎪᏱ
+    chy: Meškêso
+    ckb: مێروو
+    co: Insettu
+    crh: böcek
+    cs: hmyz
+    cv: Хурт-кăпшанкă
+    cy: Pryf
+    da: insekt
+    dag: Binneeŋa
+    de: Insekten
+    diq: haşerat
+    dtp: Songongi
+    el: έντομο
+    en: insect
+    en-ca: Insect
+    en-gb: insect
+    eo: insekto
+    es: insecto
+    et: putukad
+    eu: Intsektu
+    ext: Insecta
+    fa: حشرات
+    fi: hyönteiset
+    fo: Skordýr
+    fr: insecte
+    frr: Insekten
+    fur: Inset
+    fy: ynsekten
+    ga: feithid
+    gan: 蟲蟻子
+    gcr: Ensèk
+    gd: Meanbh-fhrìde
+    gl: insectos
+    gn: Tymbachu'i
+    gor: Insekta
+    got: "\U00010339\U0001033D\U00010343\U00010334\U0001033A\U00010344\U00010330"
+    gsw: Insekte
+    gv: Insecta
+    hak: Khûn-chhùng
+    he: חרקים
+    hi: कीट
+    hif: Kirwa
+    hr: kukci
+    hsb: insekty
+    ht: Ensèk
+    hu: rovarok
+    hy: միջատներ
+    ia: insecto
+    id: serangga
+    ie: Insecte
+    ig: ahụhụ
+    ilo: insekto
+    inh: Садоалла хIамаш
+    io: insekto
+    is: skordýr
+    it: insetto
+    ja: 昆虫
+    jam: Insek
+    jv: Srangga
+    ka: მწერები
+    kaa: Shıbın-shirkeyler
+    kab: Aburɣes
+    kbd: ХьэпӀацӀэхэр
+    kbp: Tɛtʊ wondu cikpetu
+    kcg: kyangcet
+    kg: Kitutu
+    kk: Жәндіктер
+    kn: ಕೀಟ
+    knc: Kuriya
+    ko: 곤충
+    ks: کیوٚم
+    ku: Mêş û mûr
+    ku-latn: kêz
+    kw: Hweskeren
+    ky: Курт-кумурскалар
+    la: Insecta
+    lb: Insekten
+    lbe: Ущущулгъи
+    lez: Пепеяр
+    lfn: inseto
+    li: Insekte
+    lld: Inset
+    lmo: Inset
+    ln: Nyama ekɛ́
+    lt: Vabzdžiai
+    lv: kukainis
+    map-bms: Srangga
+    mcn: gòógínà
+    mdf: Сукст-унжат
+    mg: Insecta
+    mhr: Шыҥа-копшаҥге
+    mk: инсекти
+    ml: പ്രാണി
+    mn: Шавьж
+    mnc: ᡠᠮᡳᠶᠠᡥᠠ
+    mr: कीटक
+    mrj: Капшангы
+    ms: serangga
+    mt: insecta
+    mul: Insecta
+    my: အင်းဆက်
+    myv: Сукст-унжат
+    mzn: بئو
+    nah: Yolcatzin
+    nan: Khun-thiông
+    nap: Inzetto
+    nb: insekter
+    nds: Insekten
+    nds-nl: insekt
+    ne: कीरा
+    new: की
+    nl: insecten
+    nn: insekt
+    nv: Chʼosh bijáád hastání
+    oc: Insecta
+    om: Ilbiisa
+    os: сасчытæ
+    pa: ਕੀਟ
+    pam: Insectu
+    pap: insekto
+    pap-aw: insecto
+    pfl: Insekte
+    pl: owady
+    pms: Inset
+    pnb: کیڑے مکوڑے
+    ps: خوځندکې
+    pt: inseto
+    pt-br: insetos
+    qu: Palama
+    ro: insectă
+    ru: насекомые
+    rue: Хробач
+    rup: Insectâ
+    rw: Inigwahabiri
+    sa: जन्तुः
+    sah: Үөн-көйүүр
+    sc: Babbalottu
+    scn: Insetti
+    sco: Insect
+    sd: جيت
+    se: divrrit
+    sgs: Vabzdē
+    sh: Insekt
+    shn: မူင်ႈမႅင်း
+    si: කෘමියෝ
+    sk: hmyz
+    skr: حشرات
+    sl: žuželke
+    smn: tivreh
+    sms: teeuʹr
+    so: Xasharaad
+    sq: insekt
+    sr: инсекти
+    stq: Insekte
+    su: Serangga
+    sv: insekt
+    sw: Wadudu
+    ta: பூச்சி
+    tay: kaykuwi
+    te: కీటకము
+    tg: Ҳашарот
+    th: แมลง
+    ti: ሓሽራ
+    tl: Kulisap
+    to: ʻinisēkite
+    tok: pipi
+    tr: böcek
+    tt: бөҗәкләр
+    udm: нымы-кибыос
+    uk: комахи
+    ur: حشرات
+    uz: Hasharotlar
+    vec: Bai
+    vep: Gavedid
+    vi: côn trùng
+    vls: Insektn
+    vro: Mutuk
+    wa: Inseke
+    war: Insektó
+    wo: Gunóor
+    wuu: 昆虫
+    xal: Хорха
+    xmf: ჭანდეფი
+    yi: אינסעקט
+    yo: Kòkòrò
+    yue: 昆蟲
+    za: Non
+    zh: 昆蟲綱
+    zh-cn: 昆虫纲
+    zh-hans: 昆虫纲
+    zh-hant: 昆虫
+    zh-hk: 昆蟲
+    zh-mo: 昆虫
+    zh-my: 昆虫
+    zh-sg: 昆虫
+    zh-tw: 昆蟲
 ---
-
 # [[Insecta]] 
 
 Insects 

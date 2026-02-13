@@ -1,60 +1,215 @@
 ---
 aliases:
-  - identity document
-  - identity card
-  - ID card
-  - photo ID
-  - Identity_Document
-  - Identity Document
+- asmens tapatybės kortelė
+- Carta d'identitat
+- carte d'identité
+- carte de identitate
+- chitupa
+- cwåte d' idintité
+- cáipéis aitheantais
+- document d'identitat
+- documento de identidad
+- documento de identidade
+- documento de identità
+- documento di identità
+- documentu d'identidá
+- dogfen adnabod
+- dokumen pengenalan
+- dokument tożsamości
+- Giấy chứng minh nhân dân
+- henkilöllisyystodistus
+- ID card
+- ID-kaart
+- identiga dokumento
+- identiteitsbewijs
+- identity card
+- identity document
+- Identity_Document
+- Identitéitskaart
+- kartu identitas
+- kimlik belgesi
+- legitimasjon
+- legitimation
+- legitimationshandling
+- legitimašuvdna
+- letërnjoftim
+- Lična karta
+- Nasname
+- nortasun-agiri
+- občiansky preukaz
+- osebna izkaznica
+- osobna iskaznica
+- Personalausweis
+- personalny wupokaz
+- personu apliecinošs dokuments
+- photo ID
+- průkaz totožnosti
+- Shaxsiy guvohnoma
+- személyazonosító okmány
+- tessera identitatis
+- Vəsiqə
+- Warqadda aqoonsiga
+- έγγραφο ταυτότητας
+- адями зэматон кагаз
+- Кӳнтеленĕш
+- лична карта
+- пасьведчаньне асобы
+- посвідчення
+- удостоверение личности
+- Хувийн таних тэмдэг
+- նույնականացման փաստաթուղթ
+- אידענטיטעט קארטע
+- תעודת זהות
+- بطاقة شخصية
+- بطاقه شخصيه
+- بەڵگەنامەی پێناس
+- دوکومن ڤڠنلن
+- سند هویتی
+- শনাক্তকরণ নথি
+- அடையாள ஆவணம்
+- 身份證
+- 身份证
+- 身份证明文件
+- 身分証明書
+- 身分證
+- 신분증
 has_id_wikidata: Q47988
 model_item:
-  - "[[_Standards/WikiData/WD~driver's_license,205647]]"
-  - "[[_Standards/WikiData/WD~library_card,2367654]]"
-  - "[[_Standards/WikiData/WD~national_identity_card,106485119]]"
-  - "[[_Standards/WikiData/WD~passport,43812]]"
+- "[[_Standards/WikiData/WD~driver's_license,205647]]"
+- '[[_Standards/WikiData/WD~library_card,2367654]]'
+- '[[_Standards/WikiData/WD~national_identity_card,106485119]]'
+- '[[_Standards/WikiData/WD~passport,43812]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~driver's_license,205647]]"
-  - "[[_Standards/WikiData/WD~national_identity_card,106485119]]"
-  - "[[_Standards/WikiData/WD~passport,43812]]"
+- "[[_Standards/WikiData/WD~driver's_license,205647]]"
+- '[[_Standards/WikiData/WD~national_identity_card,106485119]]'
+- '[[_Standards/WikiData/WD~passport,43812]]'
 different_from:
-  - "[[_Standards/WikiData/WD~identity,844569]]"
-  - "[[_Standards/WikiData/WD~personal_identity,2254571]]"
+- '[[_Standards/WikiData/WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~personal_identity,2254571]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~identity_certificate,1369862]]"
-  - "[[_Standards/WikiData/WD~personal_data,3702971]]"
-has_use: "[[_Standards/WikiData/WD~identification,3265221]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_identity_document,6366238]]"
+- '[[_Standards/WikiData/WD~identity_certificate,1369862]]'
+- '[[_Standards/WikiData/WD~personal_data,3702971]]'
+has_use: '[[_Standards/WikiData/WD~identification,3265221]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_identity_document,6366238]]'
 Dewey_Decimal_Classification:
-  - "340"
-  - "929.9"
+- 340
+- 929.9
 Unicode_character:
-  - 🪪
-  - 🆔
+- "\U0001FAAA"
+- "\U0001F194"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bilhete%20de%20identidade%20%28Mozambique%29.jpg
 Commons_gallery: Identity document
 Commons_category: Identity documents
 Library_of_Congress_Classification: KJC6038
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Identity_document,47988]]"
-    - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]"
-    - "[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]"
-    - "[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]]"
-    - "[[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]]"
-    - "[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]"
+  - '[[../../../../../WikiData/WD~Identity_document,47988]]'
+  - '[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]'
+  - '[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]'
+  - '[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]]'
+  - '[[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]]'
+  - '[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Identity_document,47988]]"
-  - "[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]"
-  - "[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]"
-  - "[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]]"
-  - "[[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]]"
-  - "[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]"
+- '[[../../../../../WikiData/WD~Identity_document,47988]]'
+- '[[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]]'
+- '[[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]]'
+- '[[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]]'
+- '[[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]]'
+- '[[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]]'
+- '[[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]]'
+- '[[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]]'
+dv_has_:
+  name_:
+    ar: بطاقة شخصية
+    arz: بطاقه شخصيه
+    ast: documentu d'identidá
+    az: Vəsiqə
+    be-tarask: пасьведчаньне асобы
+    bg: лична карта
+    bn: শনাক্তকরণ নথি
+    bs: Lična karta
+    ca: document d'identitat
+    ckb: بەڵگەنامەی پێناس
+    cs: průkaz totožnosti
+    cv: Кӳнтеленĕш
+    cy: dogfen adnabod
+    da: legitimation
+    de: Personalausweis
+    de-ch: Personalausweis
+    el: έγγραφο ταυτότητας
+    en: identity document
+    en-ca: identity document
+    en-gb: identity document
+    eo: identiga dokumento
+    es: documento de identidad
+    et: ID-kaart
+    eu: nortasun-agiri
+    fa: سند هویتی
+    fi: henkilöllisyystodistus
+    fr: carte d'identité
+    ga: cáipéis aitheantais
+    gl: documento de identidade
+    he: תעודת זהות
+    hr: osobna iskaznica
+    hsb: personalny wupokaz
+    hu: személyazonosító okmány
+    hy: նույնականացման փաստաթուղթ
+    id: kartu identitas
+    it: documento di identità
+    ja: 身分証明書
+    ko: 신분증
+    ku: Nasname
+    la: tessera identitatis
+    lb: Identitéitskaart
+    lt: asmens tapatybės kortelė
+    lv: personu apliecinošs dokuments
+    mk: лична карта
+    mn: Хувийн таних тэмдэг
+    ms: dokumen pengenalan
+    ms-arab: دوکومن ڤڠنلن
+    nb: legitimasjon
+    nl: identiteitsbewijs
+    nn: legitimasjon
+    nup: Identity document
+    oc: Carta d'identitat
+    pl: dokument tożsamości
+    pt: documento de identidade
+    pt-br: documento de identidade
+    ro: carte de identitate
+    ru: удостоверение личности
+    se: legitimašuvdna
+    sh: Lična karta
+    sk: občiansky preukaz
+    sl: osebna izkaznica
+    sn: chitupa
+    so: Warqadda aqoonsiga
+    sq: letërnjoftim
+    sr: лична карта
+    sr-ec: лична карта
+    sr-el: lična karta
+    sv: legitimationshandling
+    ta: அடையாள ஆவணம்
+    tr: kimlik belgesi
+    udm: адями зэматон кагаз
+    uk: посвідчення
+    uz: Shaxsiy guvohnoma
+    vec: documento de identità
+    vi: Giấy chứng minh nhân dân
+    wa: cwåte d' idintité
+    yi: אידענטיטעט קארטע
+    yue: 身份證
+    zh: 身份证明文件
+    zh-cn: 身份证
+    zh-hans: 身份证
+    zh-hant: 身分證
+    zh-hk: 身分證
+    zh-mo: 身分證
+    zh-my: 身份证
+    zh-sg: 身份证
+    zh-tw: 身分證
 ---
-
 # [[Identity_Document]] 
 
 #is_/same_as :: [[WD~Identity_document,47988]] 

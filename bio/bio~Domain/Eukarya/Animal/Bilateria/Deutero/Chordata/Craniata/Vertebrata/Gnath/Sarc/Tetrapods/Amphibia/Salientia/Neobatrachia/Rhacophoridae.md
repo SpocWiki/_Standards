@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Rhacophoridae
+- evezőbéka-félék
+- Hodíłchʼiltah chʼał
+- Jadralke
+- létavkovití
+- Nogolotkowate
+- Racofòrid
+- Rakoforedoj
+- Rhacophoridae
+- Ruderfrösche
+- schuimnestboomkikkers
+- Trädgrodor
+- Ρακοφορίδες
+- Весланогі
+- веслоногі
+- веслоноги жаби
+- веслоногие лягушки
+- רקופוריים
+- حاملات الجعد
+- قورباغههای بوتهزار
+- ರಾಕೊಫೋರಿಡೆ
+- മരത്തവളകൾ
+- วงศ์ปาดโลกเก่า
+- ნიჩაბფეხა ბაყაყისებრნი
+- アオガエル科
+- 树蛙科
+- 樹蛙科
+- 산청개구리과
 title: Rhacophoridae
+has_id_wikidata: Q56065
+dv_has_:
+  name_:
+    an: Rhacophoridae
+    ar: حاملات الجعد
+    arz: حاملات الجعد
+    ast: Rhacophoridae
+    be: Весланогі
+    be-tarask: весланогі
+    bg: веслоноги жаби
+    ca: Racofòrid
+    ceb: Rhacophoridae
+    cs: létavkovití
+    da: Rhacophoridae
+    de: Ruderfrösche
+    de-ch: Ruderfrösche
+    el: Ρακοφορίδες
+    en: Rhacophoridae
+    en-ca: Rhacophoridae
+    en-gb: Rhacophoridae
+    eo: Rakoforedoj
+    es: Rhacophoridae
+    eu: Rhacophoridae
+    ext: Rhacophoridae
+    fa: قورباغههای بوتهزار
+    fi: Rhacophoridae
+    fo: Rhacophoridae
+    fr: Rhacophoridae
+    ga: Rhacophoridae
+    gl: Rhacophoridae
+    he: רקופוריים
+    hu: evezőbéka-félék
+    ia: Rhacophoridae
+    ie: Rhacophoridae
+    io: Rhacophoridae
+    is: Rhacophoridae
+    it: Rhacophoridae
+    ja: アオガエル科
+    ka: ნიჩაბფეხა ბაყაყისებრნი
+    kn: ರಾಕೊಫೋರಿಡೆ
+    ko: 산청개구리과
+    la: Rhacophoridae
+    ml: മരത്തവളകൾ
+    mul: Rhacophoridae
+    nb: Rhacophoridae
+    nl: schuimnestboomkikkers
+    nn: Rhacophoridae
+    nv: Hodíłchʼiltah chʼał
+    oc: Rhacophoridae
+    pl: Nogolotkowate
+    pt: Rhacophoridae
+    pt-br: Rhacophoridae
+    ro: Rhacophoridae
+    ru: веслоногие лягушки
+    sl: Jadralke
+    sq: Rhacophoridae
+    sr: Rhacophoridae
+    sv: Trädgrodor
+    th: วงศ์ปาดโลกเก่า
+    tr: Rhacophoridae
+    uk: веслоногі
+    vi: Rhacophoridae
+    vo: Rhacophoridae
+    war: Rhacophoridae
+    zh: 树蛙科
+    zh-cn: 树蛙科
+    zh-hans: 树蛙科
+    zh-tw: 樹蛙科
 ---
-
 # [[Rhacophoridae]]
 
 Old World Treefrogs 

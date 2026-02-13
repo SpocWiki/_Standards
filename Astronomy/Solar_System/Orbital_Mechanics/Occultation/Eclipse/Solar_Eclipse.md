@@ -1,27 +1,154 @@
 ---
 aliases:
-  - Sonnenfinsternis
-  - solar eclipse
-  - Solar_Eclipse
-  - Solar Eclipse
+- atrms n tafukt
+- auringonpimennys
+- Bakunawa han Adlaw
+- beaivvášsevnnjodeapmi
+- Crisse solar
+- Defectio solis
+- Diffyg ar yr haul
+- dubhradh na grèine
+- eclipse solar
+- Eclipsi solar
+- eclipsă de Soare
+- eclissi solare
+- Eclix solar
+- Eclís solar
+- Eguzki eklipse
+- Eklips solèy
+- Eklipse ng araw
+- eklissi solari
+- fanakona-masoandro
+- Gaaddiddeessuu Aduu
+- Gerhana matahari
+- Grahana srengéngé
+- Güneş tutulması
+- Günəş tutulması
+- Gırewtena Roci
+- Inti wañuy
+- Keleman matahari
+- Kuarahykañy
+- Kudzikatidzwa kwezuva
+- kupatwa kwa jua
+- lai antü
+- Lawu aldo
+- Loron-mate
+- Nanngal naange
+- napfogyatkozás
+- Nhật thực
+- peiʹvvpårrjummuš
+- piäiváásiävŋánem
+- Pomračenje Sunca
+- Pomrčina Sunca
+- päikesevarjutus
+- Qorax madoobaad
+- Quyosh tutilishi
+- rojgirtin
+- Samagaha
+- Sanjonken
+- Saules aptumsums
+- Saulės užtemimas
+- Sinnefertsjustering
+- Sit-ji̍t
+- solar eclipse
+- Solar_Eclipse
+- solformørkelse
+- solformørking
+- solförmörkelse
+- Sonnendäischtert
+- Sonnenfinsternis
+- sonsverduistering
+- Sončev mrk
+- Suna eklipso
+- Sunnefinsternis
+- Sunwlíhwe
+- Sólarmyrking
+- sólmyrkvi
+- Sünndüüsternis
+- urú na gréine
+- weka suno lon kon
+- Zacmienié Słuńca
+- Zatmenie Slnka
+- zatmění Slunce
+- zazzaɓin rana
+- zaćmienie Słońca
+- zonsverduistering
+- Zonsverduustering
+- Zunsverduusterienge
+- Zënia e Diellit 20 mars 2015
+- éclipse solaire
+- Ìsúlẹ̀ Òòrùn
+- āraitanga kōmaru
+- Έκλειψη Ηλίου
+- затемнување на Сонцето
+- Кояш тотылу
+- Күндүн тутулушу
+- Нар хиртэлт
+- помрачење Сунца
+- Слънчево затъмнение
+- солнечное затмение
+- сонечнае зацьменне
+- сонечнае зацьменьне
+- сонячне затемнення
+- Сонячноє затменя
+- Шунды ӵоктаськон
+- Ҡояш тотолоу
+- Արեգակի խավարում
+- Արեւու խաւարում
+- ליקוי חמה
+- آی توتولماسی
+- خورشیدگرفتگی
+- سج گرهڻ
+- سورج گرہن
+- قۇياش تۇتۇلۇشى
+- كسوف الشمس
+- كوسوف
+- لمریز خسوف
+- ڕۆژگیران
+- کسوف
+- گرٛؠہنہٕ ماتھ
+- सूर्यग्रहण
+- সূর্যগ্রহণ
+- সূৰ্য গ্ৰহণ
+- ਸੂਰਜ ਗ੍ਰਹਿਣ
+- સૂર્યગ્રહણ
+- ସୂର୍ଯ୍ୟଗ୍ରହଣ
+- சூரிய கிரகணம்
+- సూర్య గ్రహణం
+- ಸೂರ್ಯ ಗ್ರಹಣ
+- സൂര്യഗ്രഹണം
+- සූර්ය ග්රහණය
+- สุริยุปราคา
+- ཉི་འཛིན་
+- ბჟაშ გეუკუმელაფა
+- მზის დაბნელება
+- የፀሐይ ግርዶሽ
+- ᏅᏓ ᎠᏥᎩᏍᎬ
+- ᓯᕿᓃᖅᓯᖅᑐᖅ
+- សូរ្យគ្រាស
+- ᡧᡠᠨ ᠵᡝᠮᠪᡳ
+- ᱥᱤᱧ ᱪᱟᱱᱫᱚ ᱜᱟᱱᱦᱟᱣ
+- 天狗喫日頭
+- 日食
+- 일식
 has_id_wikidata: Q3887
 subclass_of:
-  - "[[_Standards/WikiData/WD~eclipse,141022]]"
-  - "[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]"
+- '[[_Standards/WikiData/WD~eclipse,141022]]'
+- '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Baily's_beads,803878]]"
-  - "[[_Standards/WikiData/WD~diamond_ring_effect,2721914]]"
+- "[[_Standards/WikiData/WD~Baily's_beads,803878]]"
+- '[[_Standards/WikiData/WD~diamond_ring_effect,2721914]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Solar_eclipses,8085187]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_solar_eclipse,14338309]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q10939157,10939157]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-different_from: "[[_Standards/WikiData/WD~lunar_eclipse,44235]]"
+- '[[_Standards/WikiData/WD~Template_Solar_eclipses,8085187]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_solar_eclipse,14338309]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q10939157,10939157]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+different_from: '[[_Standards/WikiData/WD~lunar_eclipse,44235]]'
 OmegaWiki_Defined_Meaning: 1275231
 IMDb_keyword: solar-eclipse
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20eclipse%201999%204.jpg
@@ -39,25 +166,180 @@ Commons_category: Solar eclipses
 Wolfram_Language_entity_type: SolarEclipse
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]]"
-    - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]]"
-    - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]]"
+  - '[[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]]'
+  - '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]]'
+  - '[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]]"
-  - "[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]]"
-  - "[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]]"
+- '[[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]]'
+- '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]]'
+- '[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]]'
+- '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]]'
+- '[[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]]'
+- '[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]]'
+dv_has_:
+  name_:
+    af: sonsverduistering
+    am: የፀሐይ ግርዶሽ
+    an: Eclix solar
+    ar: كسوف الشمس
+    arn: lai antü
+    ary: كوسوف
+    as: সূৰ্য গ্ৰহণ
+    ast: Eclís solar
+    az: Günəş tutulması
+    azb: آی توتولماسی
+    ba: Ҡояш тотолоу
+    ban: Gerhana Matahari
+    be: сонечнае зацьменне
+    be-tarask: сонечнае зацьменьне
+    bg: Слънчево затъмнение
+    bn: সূর্যগ্রহণ
+    bo: ཉི་འཛིན་
+    bs: Pomračenje Sunca
+    ca: eclipsi solar
+    cbk-zam: Solar eclipse
+    chr: ᏅᏓ ᎠᏥᎩᏍᎬ
+    ckb: ڕۆژگیران
+    cs: zatmění Slunce
+    csb: Zacmienié Słuńca
+    cy: Diffyg ar yr haul
+    da: solformørkelse
+    de: Sonnenfinsternis
+    diq: Gırewtena Roci
+    dtp: Gerhana matahari
+    el: Έκλειψη Ηλίου
+    en: solar eclipse
+    eo: Suna eklipso
+    es: eclipse solar
+    et: päikesevarjutus
+    eu: Eguzki eklipse
+    fa: خورشیدگرفتگی
+    ff: Nanngal naange
+    fi: auringonpimennys
+    fo: Sólarmyrking
+    fon: Sunwlíhwe
+    fr: éclipse solaire
+    frr: Sanjonken
+    fy: Sinnefertsjustering
+    ga: urú na gréine
+    gan: 天狗喫日頭
+    gd: dubhradh na grèine
+    gl: Eclipse solar
+    gn: Kuarahykañy
+    gsw: Sunnefinsternis
+    gu: સૂર્યગ્રહણ
+    ha: zazzaɓin rana
+    he: ליקוי חמה
+    hi: सूर्यग्रहण
+    hr: Pomrčina Sunca
+    ht: Eklips solèy
+    hu: napfogyatkozás
+    hy: Արեգակի խավարում
+    hyw: Արեւու խաւարում
+    ia: Eclipse solar
+    iba: Keleman matahari
+    id: gerhana matahari
+    is: sólmyrkvi
+    it: eclissi solare
+    iu: ᓯᕿᓃᖅᓯᖅᑐᖅ
+    ja: 日食
+    jv: Grahana srengéngé
+    ka: მზის დაბნელება
+    km: សូរ្យគ្រាស
+    kn: ಸೂರ್ಯ ಗ್ರಹಣ
+    ko: 일식
+    ks: گرٛؠہنہٕ ماتھ
+    ku: rojgirtin
+    ky: Күндүн тутулушу
+    la: Defectio solis
+    lb: Sonnendäischtert
+    li: Zonsverduustering
+    lt: Saulės užtemimas
+    lv: Saules aptumsums
+    lzh: 日食
+    mag: सूर्यग्रहण
+    mg: fanakona-masoandro
+    mi: āraitanga kōmaru
+    min: Gerhana matahari
+    mk: затемнување на Сонцето
+    ml: സൂര്യഗ്രഹണം
+    mn: Нар хиртэлт
+    mnc: ᡧᡠᠨ ᠵᡝᠮᠪᡳ
+    mr: सूर्यग्रहण
+    ms: Gerhana matahari
+    mt: eklissi solari
+    mzn: کسوف
+    nan: Sit-ji̍t
+    nb: solformørkelse
+    nds: Sünndüüsternis
+    ne: सूर्यग्रहण
+    nl: zonsverduistering
+    nn: solformørking
+    oc: Eclipsi solar
+    om: Gaaddiddeessuu Aduu
+    or: ସୂର୍ଯ୍ୟଗ୍ରହଣ
+    pa: ਸੂਰਜ ਗ੍ਰਹਿਣ
+    pam: Lawu aldo
+    pap: eclipse solar
+    pl: zaćmienie Słońca
+    pnb: سورج گرہن
+    ps: لمریز خسوف
+    pt: eclipse solar
+    pt-br: eclipse solar
+    qu: Inti wañuy
+    ro: eclipsă de Soare
+    ru: солнечное затмение
+    rue: Сонячноє затменя
+    sat: ᱥᱤᱧ ᱪᱟᱱᱫᱚ ᱜᱟᱱᱦᱟᱣ
+    sd: سج گرهڻ
+    se: beaivvášsevnnjodeapmi
+    sh: Pomrčina Sunca
+    shi: atrms n tafukt
+    si: සූර්ය ග්රහණය
+    sk: Zatmenie Slnka
+    sl: Sončev mrk
+    smn: piäiváásiävŋánem
+    sms: peiʹvvpårrjummuš
+    sn: Kudzikatidzwa kwezuva
+    so: Qorax madoobaad
+    sq: Zënia e Diellit 20 mars 2015
+    sr: помрачење Сунца
+    sr-ec: помрачење Сунца
+    su: Samagaha
+    sv: solförmörkelse
+    sw: kupatwa kwa jua
+    ta: சூரிய கிரகணம்
+    te: సూర్య గ్రహణం
+    tet: Loron-mate
+    th: สุริยุปราคา
+    tl: Eklipse ng araw
+    tok: weka suno lon kon
+    tr: Güneş tutulması
+    tt: Кояш тотылу
+    udm: Шунды ӵоктаськон
+    ug: قۇياش تۇتۇلۇشى
+    uk: сонячне затемнення
+    ur: سورج گرہن
+    uz: Quyosh tutilishi
+    vec: Crisse solar
+    vi: Nhật thực
+    vls: Zunsverduusterienge
+    war: Bakunawa han Adlaw
+    wuu: 日食
+    xmf: ბჟაშ გეუკუმელაფა
+    yi: ליקוי חמה
+    yo: Ìsúlẹ̀ Òòrùn
+    yue: 日食
+    zh: 日食
+    zh-cn: 日食
 ---
-
 # [[Solar_Eclipse]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Solar_eclipse,3887|WD~Solar_eclipse,3887]] 

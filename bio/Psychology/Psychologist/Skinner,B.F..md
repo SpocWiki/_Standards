@@ -1,72 +1,108 @@
 ---
 aliases:
-  - Burrhus Frederic Skinner
-  - B. F. Skinner
-  - Skinner
-  - Skinner,B.F.
+- B. F. Skinner
+- B.F. Skinner
+- Beress Frederiks Skiners
+- Burres Frederik Skinner
+- Burrhus Frederic Skinner
+- Burrhus Frederich Skinner
+- Burrhus Skinner
+- Skinner
+- Skinner,B.F.
+- Μπ. Φ. Σκίνερ
+- Б. Ф. Скинер
+- Беррес Фредерік Скіннер
+- Беррес Фредерик Скиннер
+- Берэс Фрэдэрык Скінер
+- Бъръс Фредерик Скинър
+- Бэрэс Фрэдэрык Скінэр
+- Скиннер, Беррес Фредерик
+- Բերես Ֆրեդերիկ Սքիներ
+- פרדריק סקינר
+- اسکینر
+- بورهوس فريدريك سكينر
+- بوروس فردریک سکینر
+- بیاف اسکینر
+- बी॰एफ॰ स्किनर
+- বি. এফ. স্কিনার
+- বি.এফ. স্কিনাৰ
+- ਬੀ ਐਫ ਸਕਿਨਰ
+- பி. எப். ஸ்கின்னர்
+- బి.ఎఫ్ స్కిన్నర్
+- ಬಿ.ಎಫ್.ಸ್ಕಿನ್ನರ್
+- ബി.എഫ്. സ്കിന്നർ
+- ბარუს ფრედერიკ სკინერი
+- ბერეს ფრედერიკ სკინერი
+- バラス・スキナー
+- 伯尔赫斯·弗雷德里克·斯金纳
+- 伯爾赫斯·弗雷德里克·史金納
+- 伯爾赫斯·弗雷德里克·斯金納
+- 伯赫斯·費德歷·斯金納
+- 巴域士·費德烈·史堅拿
+- 버러스 프레더릭 스키너
 has_id_wikidata: Q213195
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
-  - '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~University_of_Chicago,131252]]'
+- '[[_Standards/WikiData/WD~University_of_Minnesota,238101]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~psychologist,212980]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~ethologist,16831721]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~psychologist,212980]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~ethologist,16831721]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~John_B._Watson,217477]]'
-  - '[[_Standards/WikiData/WD~Edward_Thorndike,309765]]'
-  - '[[_Standards/WikiData/WD~Ivan_Pavlov,42985]]'
+- '[[_Standards/WikiData/WD~John_B._Watson,217477]]'
+- '[[_Standards/WikiData/WD~Edward_Thorndike,309765]]'
+- '[[_Standards/WikiData/WD~Ivan_Pavlov,42985]]'
 member_of:
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
 place_of_birth: '[[_Standards/WikiData/WD~Susquehanna_Depot,1185617]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
-  - '[[_Standards/WikiData/WD~Career_Achievement_Award_for_Distinguished_Psychological_Contributions_to_Education,5322016]]'
-  - '[[_Standards/WikiData/WD~William_James_Fellow_Award,15253460]]'
-  - '[[_Standards/WikiData/WD~APA_Award_for_Distinguished_Scientific_Contributions_to_Psychology,17112655]]'
-  - '[[_Standards/WikiData/WD~Howard_Crosby_Warren_Medal,18402723]]'
-  - '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
-  - '[[_Standards/WikiData/WD~Kenneth_D._Herman,_Ph.D.,_J.D._Career_Contribution_Award,23310059]]'
-  - '[[_Standards/WikiData/WD~Gold_Medal_Award,23310221]]'
-  - '[[_Standards/WikiData/WD~APA_Award_for_Outstanding_Lifetime_Contributions_to_Psychology,24534543]]'
-  - '[[_Standards/WikiData/WD~doctor_honoris_causa_of_Keiō_University,60658956]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Committee_for_Skeptical_Inquiry,61745062]]'
-  - '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_British_Psychological_Society,126951817]]'
+- '[[_Standards/WikiData/WD~Guggenheim_Fellowship,1316544]]'
+- '[[_Standards/WikiData/WD~Career_Achievement_Award_for_Distinguished_Psychological_Contributions_to_Education,5322016]]'
+- '[[_Standards/WikiData/WD~William_James_Fellow_Award,15253460]]'
+- '[[_Standards/WikiData/WD~APA_Award_for_Distinguished_Scientific_Contributions_to_Psychology,17112655]]'
+- '[[_Standards/WikiData/WD~Howard_Crosby_Warren_Medal,18402723]]'
+- '[[_Standards/WikiData/WD~Humanist_of_the_Year,19869310]]'
+- '[[_Standards/WikiData/WD~Kenneth_D._Herman,_Ph.D.,_J.D._Career_Contribution_Award,23310059]]'
+- '[[_Standards/WikiData/WD~Gold_Medal_Award,23310221]]'
+- '[[_Standards/WikiData/WD~APA_Award_for_Outstanding_Lifetime_Contributions_to_Psychology,24534543]]'
+- '[[_Standards/WikiData/WD~doctor_honoris_causa_of_Keiō_University,60658956]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Committee_for_Skeptical_Inquiry,61745062]]'
+- '[[_Standards/WikiData/WD~Honorary_Fellow_of_the_British_Psychological_Society,126951817]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Richard_Herrnstein,1689788]]'
-  - '[[_Standards/WikiData/WD~William_Kaye_Estes,1780288]]'
-  - '[[_Standards/WikiData/WD~Nathan_Azrin,24050389]]'
+- '[[_Standards/WikiData/WD~Richard_Herrnstein,1689788]]'
+- '[[_Standards/WikiData/WD~William_Kaye_Estes,1780288]]'
+- '[[_Standards/WikiData/WD~Nathan_Azrin,24050389]]'
 place_of_burial: '[[_Standards/WikiData/WD~Mount_Auburn_Cemetery,1950363]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Beyond_Freedom_and_Dignity,2703451]]'
-  - '[[_Standards/WikiData/WD~The_Behavior_of_Organisms,7716359]]'
+- '[[_Standards/WikiData/WD~Beyond_Freedom_and_Dignity,2703451]]'
+- '[[_Standards/WikiData/WD~The_Behavior_of_Organisms,7716359]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Hamilton_College,3113011]]'
-  - '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+- '[[_Standards/WikiData/WD~Hamilton_College,3113011]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 child:
-  - '[[_Standards/WikiData/WD~Julie_Vargas,6308563]]'
-  - '[[_Standards/WikiData/WD~Deborah_Buzan,96630682]]'
+- '[[_Standards/WikiData/WD~Julie_Vargas,6308563]]'
+- '[[_Standards/WikiData/WD~Deborah_Buzan,96630682]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~behavioral_analytics,15365169]]'
-  - '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~behavioral_analytics,15365169]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Q16275883,16275883]]'
-  - '[[_Standards/WikiData/WD~B.,19803497]]'
+- '[[_Standards/WikiData/WD~Q16275883,16275883]]'
+- '[[_Standards/WikiData/WD~B.,19803497]]'
 family_name: '[[_Standards/WikiData/WD~Skinner,16883409]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~William_John_Crozier,20675502]]'
 spouse: '[[_Standards/WikiData/WD~Yvonne_Blue,108709028]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
@@ -87,8 +123,92 @@ name_in_native_language: Burrhus Frederic Skinner
 birth_name: Burrhus Frederic Skinner
 date_of_birth: 1904-03-20T00:00:00Z
 described_at_URL: http://dbpedia.org/resource/B._F._Skinner
+dv_has_:
+  name_:
+    af: B. F. Skinner
+    ar: بورهوس فريدريك سكينر
+    arz: بورهوس فريدريك سكينر
+    as: বি.এফ. স্কিনাৰ
+    ast: Burrhus Frederic Skinner
+    az: Burres Frederik Skinner
+    azb: بیاف اسکینر
+    be: Берэс Фрэдэрык Скінер
+    be-tarask: Бэрэс Фрэдэрык Скінэр
+    bg: Бъръс Фредерик Скинър
+    bn: বি. এফ. স্কিনার
+    ca: Burrhus Frederic Skinner
+    cs: Burrhus Frederic Skinner
+    cy: B. F. Skinner
+    da: B.F. Skinner
+    dag: B. F. Skinner
+    de: Burrhus Frederic Skinner
+    ee: B. F. Skinner
+    el: Μπ. Φ. Σκίνερ
+    en: B. F. Skinner
+    eo: Burrhus Frederic Skinner
+    es: Burrhus Frederic Skinner
+    et: Burrhus Frederic Skinner
+    eu: Burrhus Frederich Skinner
+    fa: بیاف اسکینر
+    fi: B. F. Skinner
+    fr: Burrhus Frederic Skinner
+    ga: B. F. Skinner
+    gl: Burrhus Frederic Skinner
+    he: פרדריק סקינר
+    hi: बी॰एफ॰ स्किनर
+    hr: Burrhus Frederic Skinner
+    hu: Burrhus Frederic Skinner
+    hy: Բերես Ֆրեդերիկ Սքիներ
+    ia: B. F. Skinner
+    id: B.F. Skinner
+    io: Burrhus Frederic Skinner
+    is: Burrhus Frederic Skinner
+    it: Burrhus Skinner
+    ja: バラス・スキナー
+    ka: ბარუს ფრედერიკ სკინერი
+    kbp: Burrhus Frederic Skinner
+    kn: ಬಿ.ಎಫ್.ಸ್ಕಿನ್ನರ್
+    ko: 버러스 프레더릭 스키너
+    ky: Скиннер, Беррес Фредерик
+    lv: Beress Frederiks Skiners
+    mg: Burrhus Frederic Skinner
+    ml: ബി.എഫ്. സ്കിന്നർ
+    mul: B. F. Skinner
+    mzn: اسکینر
+    nan: B. F. Skinner
+    nb: B. F. Skinner
+    nl: Burrhus Skinner
+    nn: B. F. Skinner
+    pa: ਬੀ ਐਫ ਸਕਿਨਰ
+    pl: B.F. Skinner
+    ps: بوروس فردریک سکینر
+    pt: B. F. Skinner
+    pt-br: B. F. Skinner
+    ru: Беррес Фредерик Скиннер
+    sco: B. F. Skinner
+    sk: Burrhus Frederic Skinner
+    sl: Burrhus Frederic Skinner
+    sq: Burrhus Frederic Skinner
+    sr: Б. Ф. Скинер
+    sv: B.F. Skinner
+    ta: பி. எப். ஸ்கின்னர்
+    tcy: ಬಿ.ಎಫ್.ಸ್ಕಿನ್ನರ್
+    te: బి.ఎఫ్ స్కిన్నర్
+    tr: Burrhus Frederic Skinner
+    uk: Беррес Фредерік Скіннер
+    vi: B. F. Skinner
+    war: B. F. Skinner
+    wuu: 伯尔赫斯·弗雷德里克·斯金纳
+    xmf: ბერეს ფრედერიკ სკინერი
+    yue: 伯赫斯·費德歷·斯金納
+    zh: 伯尔赫斯·弗雷德里克·斯金纳
+    zh-cn: 伯尔赫斯·弗雷德里克·斯金纳
+    zh-hans: 伯尔赫斯·弗雷德里克·斯金纳
+    zh-hant: 伯爾赫斯·弗雷德里克·斯金納
+    zh-hk: 巴域士·費德烈·史堅拿
+    zh-sg: 伯尔赫斯·弗雷德里克·斯金纳
+    zh-tw: 伯爾赫斯·弗雷德里克·史金納
 ---
-
 # [[Skinner,B.F.]] 
 
 

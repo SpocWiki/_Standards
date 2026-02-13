@@ -1,35 +1,136 @@
 ---
 aliases:
+- chemia metaloorganiczna
+- Chemia organometallica
+- chimica metallorganica
+- Chimie organometalică
+- chimie organométallique
+- fémorganikus kémia
+- hóa học cơ kim
+- Kimia organologam
+- Kimika organometaliko
+- metallorganische Chemie
+- metallorganisk kemi
+- metallorganisk kjemi
+- organikometala ĥemio
+- organokovinska kemija
+- organokovová chemie
+- Organometaalchemie
+- Organometalik kimya
+- Organometaliniai junginiai
+- Organometallchimie
+- organometallic chemistry
+- organometallisk kjemi
+- Organometalna hemija
+- Quimia organometallica
+- química organometàl·lica
+- Química organometálica
+- Οργανομεταλλική χημεία
+- металлоорганическая химия
+- металлорганик химия
+- металоорганічна хімія
+- Металоорганична химия
+- мэталаарганічная хімія
+- Органометална хемија
+- כימיה אורגנו-מתכתית
+- شیمی آلی فلزی
+- كيمياء عضوية فلزية
+- कार्बधातुक यौगिक
+- জৈব-ধাতব রসায়ন
+- கரிம உலோக வேதியியல்
+- เคมีโลหะอินทรีย์
+- ორგანომეტალური ქიმია
+- 有机金属化学
+- 有機金属化学
+- 有機金屬化學
+- 유기금속화학
 has_id_wikidata: Q237200
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-is_the_study_of: "[[_Standards/WikiData/WD~organometallic_compound,2642710]]"
+is_the_study_of: '[[_Standards/WikiData/WD~organometallic_compound,2642710]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]"
-subclass_of: "[[_Standards/WikiData/WD~inorganic_chemistry,11165]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
+subclass_of: '[[_Standards/WikiData/WD~inorganic_chemistry,11165]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simmons-Smith%20carbene%20addition.jpg
 Commons_category: Organometallic chemistry
 dv_is_:
   same_as:
-    - "[[../WikiData/WD~Organometallic_chemistry,237200]]"
-    - "[[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]]"
-    - "[[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]]"
-    - "[[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]]"
-    - "[[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]]"
-    - "[[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]]"
-    - "[[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]]"
-    - "[[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]]"
+  - '[[../WikiData/WD~Organometallic_chemistry,237200]]'
+  - '[[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]]'
+  - '[[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]]'
+  - '[[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]]'
+  - '[[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]]'
+  - '[[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]]'
+  - '[[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]]'
+  - '[[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]]'
 dv_is_same_as:
-  - "[[../WikiData/WD~Organometallic_chemistry,237200]]"
-  - "[[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]]"
-  - "[[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]]"
-  - "[[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]]"
-  - "[[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]]"
-  - "[[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]]"
-  - "[[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]]"
-  - "[[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]]"
+- '[[../WikiData/WD~Organometallic_chemistry,237200]]'
+- '[[/_Standards/Chemistry/Organometallic_Chemistry|Organometallic_Chemistry]]'
+- '[[/_public/Chemistry/Organometallic_Chemistry.public|Organometallic_Chemistry.public]]'
+- '[[/_internal/Chemistry/Organometallic_Chemistry.internal|Organometallic_Chemistry.internal]]'
+- '[[/_protect/Chemistry/Organometallic_Chemistry.protect|Organometallic_Chemistry.protect]]'
+- '[[/_private/Chemistry/Organometallic_Chemistry.private|Organometallic_Chemistry.private]]'
+- '[[/_personal/Chemistry/Organometallic_Chemistry.personal|Organometallic_Chemistry.personal]]'
+- '[[/_secret/Chemistry/Organometallic_Chemistry.secret|Organometallic_Chemistry.secret]]'
+dv_has_:
+  name_:
+    af: Organometaalchemie
+    ar: كيمياء عضوية فلزية
+    ast: Química organometálica
+    be-tarask: мэталаарганічная хімія
+    bg: Металоорганична химия
+    bn: জৈব-ধাতব রসায়ন
+    ca: química organometàl·lica
+    cs: organokovová chemie
+    da: metallorganisk kemi
+    de: metallorganische Chemie
+    el: Οργανομεταλλική χημεία
+    en: organometallic chemistry
+    eo: organikometala ĥemio
+    es: química organometálica
+    eu: Kimika organometaliko
+    fa: شیمی آلی فلزی
+    fr: chimie organométallique
+    he: כימיה אורגנו-מתכתית
+    hi: कार्बधातुक यौगिक
+    hu: fémorganikus kémia
+    id: Kimia organologam
+    it: chimica metallorganica
+    ja: 有機金属化学
+    ka: ორგანომეტალური ქიმია
+    ko: 유기금속화학
+    la: Chemia organometallica
+    lb: Organometallchimie
+    lt: Organometaliniai junginiai
+    mk: Органометална хемија
+    nb: organometallisk kjemi
+    nl: organometaalchemie
+    nn: metallorganisk kjemi
+    oc: Quimia organometallica
+    pl: chemia metaloorganiczna
+    pt: química organometálica
+    ro: Chimie organometalică
+    ru: металлоорганическая химия
+    sh: Organometalna hemija
+    sl: organokovinska kemija
+    sr: Organometalna hemija
+    su: Kimia organologam
+    sv: metallorganisk kemi
+    ta: கரிம உலோக வேதியியல்
+    th: เคมีโลหะอินทรีย์
+    tr: Organometalik kimya
+    tt: металлорганик химия
+    uk: металоорганічна хімія
+    vi: hóa học cơ kim
+    yue: 有機金屬化學
+    zh: 有机金属化学
+    zh-cn: 有机金属化学
+    zh-hans: 有机金属化学
+    zh-hant: 有機金屬化學
+    zh-hk: 有機金屬化學
+    zh-sg: 有机金属化学
+    zh-tw: 有機金屬化學
 ---
-
 # [[Organometallic_Chemistry]] 
 
 #is_/same_as :: [[WD~Organometallic_chemistry,237200]] 

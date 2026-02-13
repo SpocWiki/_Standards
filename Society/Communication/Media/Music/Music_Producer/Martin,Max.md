@@ -1,9 +1,82 @@
 ---
 aliases:
-  - Max Martin
-  - Martin,Max
+- Martin,Max
+- Max Martin
+- Μαξ Μάρτιν
+- Макс Мартін
+- Макс Мартин
+- Макс Мартын
+- Մաքս Մարտին
+- מקס מרטין
+- ماكس مارتن
+- مکس مارتین
+- แมกซ์ มาร์ติน
+- マックス・マーティン
+- 馬克斯·馬丁
+- 馬克斯·馬汀
+- 马克斯·马丁
+- 麦克斯·马丁
+- 맥스 마틴
+has_id_wikidata: Q318223
+dv_has_:
+  name_:
+    an: Max Martin
+    ar: ماكس مارتن
+    arz: ماكس مارتن
+    ast: Max Martin
+    azb: مکس مارتین
+    be-tarask: Макс Мартын
+    br: Max Martin
+    ca: Max Martin
+    co: Max Martin
+    cs: Max Martin
+    da: Max Martin
+    de: Max Martin
+    de-ch: Max Martin
+    el: Μαξ Μάρτιν
+    en: Max Martin
+    en-ca: Max Martin
+    en-gb: Max Martin
+    es: Max Martin
+    eu: Max Martin
+    fa: مکس مارتین
+    fi: Max Martin
+    fr: Max Martin
+    ga: Max Martin
+    gl: Max Martin
+    he: מקס מרטין
+    hu: Max Martin
+    hy: Մաքս Մարտին
+    id: Max Martin
+    is: Max Martin
+    it: Max Martin
+    ja: マックス・マーティン
+    ko: 맥스 마틴
+    ms: Max Martin
+    nb: Max Martin
+    nds: Max Martin
+    nl: Max Martin
+    nn: Max Martin
+    pap: Max Martin
+    pl: Max Martin
+    pt: Max Martin
+    pt-br: Max Martin
+    ro: Max Martin
+    ru: Макс Мартин
+    sl: Max Martin
+    sq: Max Martin
+    sv: Max Martin
+    th: แมกซ์ มาร์ติน
+    tr: Max Martin
+    ty: Max Martin
+    uk: Макс Мартін
+    vi: Max Martin
+    yue: Max Martin
+    zh: 馬克斯·馬丁
+    zh-cn: 马克斯·马丁
+    zh-hans: 麦克斯·马丁
+    zh-hant: 馬克斯·馬汀
 ---
-
 # [[Martin,Max]]
 
 #has_/time_/started :: 1971-02-26 

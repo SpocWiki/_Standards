@@ -1,31 +1,133 @@
 ---
-has_time_started: 1700-01-01 
+has_time_started: 1700-01-01
 aliases:
-  - gokudō
-  - 極道
-  - ヤクザ
-  - bōryokudan
-  - 暴力団
-  - ninkyō dantai
-  - 任侠団体
-  - Yakuza
+- bōryokudan
+- gokudō
+- jakudz
+- Jakudza
+- jakuza
+- Jakuze
+- ninkyō dantai
+- Yakudza
+- Yakuza
+- Γιακούζα
+- јакуза
+- Јакузе
+- Якудза
+- Յակուձա
+- יאקוזה
+- ياكوزا
+- ياكۇزا
+- یاکوزا
+- याकुजा
+- ইয়াকুজা
+- யக்கூசா
+- യാക്കു്സ
+- යකුසා
+- ยากูซ่า
+- იაკუძა
+- ヤクザ
+- 任侠団体
+- 暴力団
+- 极道
+- 極道
+- 雅库扎
+- 雅庫扎
+- 야쿠자
 has_id_wikidata: Q183287
 different_from: '[[_Standards/WikiData/WD~Yakuza,356477]]'
 instance_of:
-  - '[[../../../../../../WikiData/WD~criminal_organization,1788992]]'
-  - '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[../../../../../../WikiData/WD~criminal_organization,1788992]]'
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
 inception: 1700-01-01T00:00:00Z
 operating_area:
-  - '[[_Standards/WikiData/WD~Japan,17]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 field_of_this_occupation: '[[_Standards/WikiData/WD~organized_crime,46952]]'
 Commons_category: Yakuza
 IMDb_keyword: yakuza
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KanjiYakuza.gif
+dv_has_:
+  name_:
+    af: yakuza
+    ar: ياكوزا
+    ast: Yakuza
+    az: Yakudza
+    ba: Якудза
+    be: Якудза
+    be-tarask: Якудза
+    bg: Якудза
+    bn: ইয়াকুজা
+    br: Yakuza
+    ca: Yakuza
+    cs: jakuza
+    da: Yakuza
+    de: Yakuza
+    el: Γιακούζα
+    en: yakuza
+    en-us: yakuza
+    eo: Jakuza
+    es: yakuza
+    et: Yakuza
+    eu: Yakuza
+    fa: یاکوزا
+    fi: Yakuza
+    fr: yakuza
+    gl: Yakuza
+    he: יאקוזה
+    hr: Jakuza
+    hu: jakuza
+    hy: Յակուձա
+    id: Yakuza
+    it: yakuza
+    ja: ヤクザ
+    jv: Yakuza
+    ka: იაკუძა
+    ko: 야쿠자
+    ky: Якудза
+    lt: Jakudza
+    mk: јакуза
+    ml: യാക്കു്സ
+    ms: Yakuza
+    mzn: یاکوزا
+    nb: yakuza
+    ne: याकुजा
+    nl: yakuza
+    pl: Yakuza
+    pt: yakuza
+    ro: Yakuza
+    ru: якудза
+    sco: Yakuza
+    sh: Jakuze
+    si: යකුසා
+    sl: jakuza
+    sq: Yakuza
+    sr: Јакузе
+    sr-ec: јакузе
+    sr-el: jakuze
+    su: Yakuza
+    sv: yakuza
+    ta: யக்கூசா
+    th: ยากูซ่า
+    tr: Yakuza
+    ug: ياكۇزا
+    uk: якудза
+    ur: یاکوزا
+    uz: Yakuza
+    vep: jakudz
+    vi: Yakuza
+    xmf: იაკუძა
+    yue: 極道
+    zh: 雅庫扎
+    zh-cn: 雅库扎
+    zh-hans: 雅库扎
+    zh-hant: 極道
+    zh-hk: 極道
+    zh-sg: 极道
+    zh-tw: 極道
 ---
-
 # [[Yakuza]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Yakuza,183287|WD~Yakuza,183287]]  

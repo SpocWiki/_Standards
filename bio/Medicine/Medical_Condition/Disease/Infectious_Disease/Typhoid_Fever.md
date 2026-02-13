@@ -1,82 +1,174 @@
 ---
 aliases:
-  - Salmonella typhi
-  - Typhoid fever
-  - Typhoid_Fever
-  - Typhoid Fever
+- akãnunduhũ
+- am fiabhras dubh
+- binghsanghhanz
+- Brušný týfus
+- Brzëszny tifùs
+- buiktyfus
+- břišní tyfus
+- Damam tifoid
+- Demam kepialu
+- demam tifoid
+- dur brzuszny
+- febbre tifoide
+- febre tifoide
+- febră tifoidă
+- fiabhras tíofóideach
+- fiebre tifoidea
+- Fiebre tifoideo
+- Fièvre typhoide
+- fièvre typhoïde
+- freve tifòide
+- hastífusz
+- Homa ya matumbo
+- Ich terlama
+- Ingewandskoors
+- Juän abuɔr
+- kõhutüüfus
+- lavantauti
+- Salmonella typhi
+- Siong-hân-chèng
+- Sukar tifoide
+- su᷆wárìnà
+- Taugaveiki
+- Terzhienn-domm
+- thương hàn
+- tif qızdırması
+- Tifo
+- tifoida febro
+- Tifoido
+- tifojde
+- Trbušni tifus
+- trebušni tifus
+- twymyn teiffoid
+- tyfoidfeber
+- Tyfus
+- Typhoid
+- Typhoid fever
+- typhoide
+- Typhoid_Fever
+- Typhus
+- Typhus abdominalis
+- Tüfus
+- Vidurių šiltinė
+- Vēdertīfs
+- Zazzabin Rawaya
+- τυφοειδής πυρετός
+- Балнад
+- Баш келте
+- брушны тыф
+- брюшной тиф
+- домана
+- Коремен тиф
+- корсак тифе
+- трбушни тифус
+- черевний тиф
+- Ընդերային Տենդ
+- Որովայնային տիֆ
+- טיפוס הבטן
+- التيفود
+- تیفود
+- حصبه
+- حمى التيفوئيد
+- مدي جو تپ
+- میعادی بخار
+- ٹائیفائیڈ
+- گرانەتا
+- आंत्र ज्वर
+- टाइफाइड
+- विषमज्वर
+- টাইফইড
+- টাইফয়েড জ্বর
+- ਟਾਈਫਾਈਡ ਬੁਖ਼ਾਰ
+- ટાઇફોઇડ
+- ଟାଇଫଏଡ
+- குடற்காய்ச்சல்
+- టైఫాయిడ్
+- ವಿಷಮಶೀತ ಜ್ವರ
+- ടൈഫോയ്ഡ്
+- ටයිපොයිඩ් උණ
+- ไข้รากสาดน้อย
+- အူရောင်ငန်းဖျား ရောဂါ
+- მუცლის ტიფი
+- ọrịa typhoid
+- 伤寒
+- 傷寒
+- 腸チフス
+- 장티푸스
 has_id_wikidata: Q83319
 ICD_9_CM: 002.0
 ICD_10_CM:
-  - A01.00
-  - A01.0
+- A01.00
+- A01.0
 UMLS_CUI: C0041466
 MeSH_tree_code: C01.150.252.400.310.821.873
 Krugosvet_article_archived_: medicina/TIF_BRYUSHNO.html
 Dewey_Decimal_Classification:
-  - 616.9272
-  - 614.5112
+- 616.9272
+- 614.5112
 different_from: '[[_Standards/WikiData/WD~typhus,160649]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~cefixime,163901]]'
-  - '[[_Standards/WikiData/WD~azithromycin,165399]]'
-  - '[[_Standards/WikiData/WD~amoxicillin,201928]]'
-  - '[[_Standards/WikiData/WD~ampicillin,244150]]'
-  - '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
-  - '[[_Standards/WikiData/WD~DL_ofloxacin,411447]]'
-  - '[[_Standards/WikiData/WD~cefotaxime,417968]]'
-  - '[[_Standards/WikiData/WD~aztreonam,418546]]'
-  - '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
-  - '[[_Standards/WikiData/WD~levofloxacin,424193]]'
-  - '[[_Standards/WikiData/WD~imipen,425152]]'
-  - '[[_Standards/WikiData/WD~gatifloxacin,2365016]]'
-  - '[[_Standards/WikiData/WD~pefloxacin,2601859]]'
+- '[[_Standards/WikiData/WD~cefixime,163901]]'
+- '[[_Standards/WikiData/WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~amoxicillin,201928]]'
+- '[[_Standards/WikiData/WD~ampicillin,244150]]'
+- '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
+- '[[_Standards/WikiData/WD~DL_ofloxacin,411447]]'
+- '[[_Standards/WikiData/WD~cefotaxime,417968]]'
+- '[[_Standards/WikiData/WD~aztreonam,418546]]'
+- '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
+- '[[_Standards/WikiData/WD~levofloxacin,424193]]'
+- '[[_Standards/WikiData/WD~imipen,425152]]'
+- '[[_Standards/WikiData/WD~gatifloxacin,2365016]]'
+- '[[_Standards/WikiData/WD~pefloxacin,2601859]]'
 medical_examination:
-  - '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
-  - '[[_Standards/WikiData/WD~ELISA,332126]]'
-  - '[[_Standards/WikiData/WD~physical_examination,835153]]'
-  - '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
-  - '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
-  - '[[_Standards/WikiData/WD~Widal_test,1550257]]'
+- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
+- '[[_Standards/WikiData/WD~ELISA,332126]]'
+- '[[_Standards/WikiData/WD~physical_examination,835153]]'
+- '[[_Standards/WikiData/WD~complete_blood_count,886518]]'
+- '[[_Standards/WikiData/WD~microbiological_culture,1125312]]'
+- '[[_Standards/WikiData/WD~Widal_test,1550257]]'
 symptoms_and_signs:
-  - '[[_Standards/WikiData/WD~constipation,178436]]'
-  - '[[_Standards/WikiData/WD~delusion,189643]]'
-  - '[[_Standards/WikiData/WD~bradycardia,217111]]'
-  - '[[_Standards/WikiData/WD~leukopenia,496812]]'
-  - '[[_Standards/WikiData/WD~rash,653197]]'
-  - '[[_Standards/WikiData/WD~splenomegaly,1129121]]'
-  - '[[_Standards/WikiData/WD~hepatomegaly,1362864]]'
-  - '[[_Standards/WikiData/WD~gastrointestinal_bleeding,1495657]]'
-  - '[[_Standards/WikiData/WD~insomnia,1869874]]'
-  - '[[_Standards/WikiData/WD~pallor,2336398]]'
-  - '[[_Standards/WikiData/WD~abdominal_distention,2536390]]'
-  - '[[_Standards/WikiData/WD~prostration,3407854]]'
-  - '[[_Standards/WikiData/WD~intestinal_perforation,18554982]]'
-  - '[[_Standards/WikiData/WD~continuous_fever,29644032]]'
-  - '[[_Standards/WikiData/WD~confusion_of_consciousness,65202123]]'
-  - '[[_Standards/WikiData/WD~fatigue,9690]]'
-  - '[[_Standards/WikiData/WD~headache,86]]'
-  - '[[_Standards/WikiData/WD~diarrhea,40878]]'
+- '[[_Standards/WikiData/WD~constipation,178436]]'
+- '[[_Standards/WikiData/WD~delusion,189643]]'
+- '[[_Standards/WikiData/WD~bradycardia,217111]]'
+- '[[_Standards/WikiData/WD~leukopenia,496812]]'
+- '[[_Standards/WikiData/WD~rash,653197]]'
+- '[[_Standards/WikiData/WD~splenomegaly,1129121]]'
+- '[[_Standards/WikiData/WD~hepatomegaly,1362864]]'
+- '[[_Standards/WikiData/WD~gastrointestinal_bleeding,1495657]]'
+- '[[_Standards/WikiData/WD~insomnia,1869874]]'
+- '[[_Standards/WikiData/WD~pallor,2336398]]'
+- '[[_Standards/WikiData/WD~abdominal_distention,2536390]]'
+- '[[_Standards/WikiData/WD~prostration,3407854]]'
+- '[[_Standards/WikiData/WD~intestinal_perforation,18554982]]'
+- '[[_Standards/WikiData/WD~continuous_fever,29644032]]'
+- '[[_Standards/WikiData/WD~confusion_of_consciousness,65202123]]'
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
+- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878]]'
 possible_treatment:
-  - '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
-  - '[[_Standards/WikiData/WD~diet,474191]]'
-  - '[[_Standards/WikiData/WD~surgical_operation,600236]]'
-  - '[[_Standards/WikiData/WD~detoxification,1090423]]'
-  - '[[_Standards/WikiData/WD~antibiotic,12187]]'
+- '[[_Standards/WikiData/WD~blood_transfusion,183605]]'
+- '[[_Standards/WikiData/WD~diet,474191]]'
+- '[[_Standards/WikiData/WD~surgical_operation,600236]]'
+- '[[_Standards/WikiData/WD~detoxification,1090423]]'
+- '[[_Standards/WikiData/WD~antibiotic,12187]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~anthroponotic_disease,1049711]]'
-  - '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
-  - '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~anthroponotic_disease,1049711]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 has_cause: '[[_Standards/WikiData/WD~Salmonella_enterica,2264864]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-  - '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 has_natural_reservoir: '[[_Standards/WikiData/WD~human,5]]'
 number_of_cases: 20000000
 maximal_incubation_period_in_humans: 30
@@ -92,10 +184,122 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fievre%20t
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%9F%E0%AC%BE%E0%AC%87%E0%AC%AB%E0%AC%8F%E0%AC%A1.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Salmonella%20typhi%20typhoid%20fever%20PHIL%202215%20lores.jpg
 exact_match:
-  - http://identifiers.org/doid/DOID:13258
-  - http://purl.obolibrary.org/obo/DOID_13258
+- http://identifiers.org/doid/DOID:13258
+- http://purl.obolibrary.org/obo/DOID_13258
+dv_has_:
+  name_:
+    af: Ingewandskoors
+    ar: حمى التيفوئيد
+    arz: التيفود
+    as: টাইফইড
+    ast: Fiebre tifoideo
+    az: tif qızdırması
+    azb: تیفود
+    be: брушны тыф
+    be-tarask: брушны тыф
+    bg: Коремен тиф
+    bn: টাইফয়েড জ্বর
+    br: Terzhienn-domm
+    bxr: Балнад
+    ca: febre tifoide
+    ckb: گرانەتا
+    cs: břišní tyfus
+    csb: Brzëszny tifùs
+    cy: twymyn teiffoid
+    da: Tyfus
+    de: Typhus
+    din: Juän abuɔr
+    el: τυφοειδής πυρετός
+    en: typhoid fever
+    en-ca: Typhoid fever
+    en-gb: typhoid fever
+    eo: tifoida febro
+    es: fiebre tifoidea
+    et: kõhutüüfus
+    eu: Sukar tifoide
+    fa: حصبه
+    fi: lavantauti
+    fr: fièvre typhoïde
+    ga: fiabhras tíofóideach
+    gd: am fiabhras dubh
+    gl: Febre tifoide
+    gn: akãnunduhũ
+    gpe: typhoid fever
+    gsw: Tüfus
+    gu: ટાઇફોઇડ
+    ha: Zazzabin Rawaya
+    he: טיפוס הבטן
+    hi: आंत्र ज्वर
+    hr: Trbušni tifus
+    hu: hastífusz
+    hy: Որովայնային տիֆ
+    hyw: Ընդերային Տենդ
+    ia: typhoide
+    id: demam tifoid
+    ig: ọrịa typhoid
+    io: Tifoido
+    is: Taugaveiki
+    it: febbre tifoide
+    ja: 腸チフス
+    ka: მუცლის ტიფი
+    kn: ವಿಷಮಶೀತ ಜ್ವರ
+    ko: 장티푸스
+    ky: Баш келте
+    la: Typhus abdominalis
+    lb: Typhus
+    ln: Fièvre typhoide
+    lt: Vidurių šiltinė
+    lv: Vēdertīfs
+    lzh: 傷寒
+    mcn: su᷆wárìnà
+    min: Damam tifoid
+    ml: ടൈഫോയ്ഡ്
+    mn: Балнад
+    mr: विषमज्वर
+    ms: Demam kepialu
+    mt: tifojde
+    my: အူရောင်ငန်းဖျား ရောဂါ
+    nan: Siong-hân-chèng
+    nb: tyfoidfeber
+    ne: टाइफाइड
+    nl: buiktyfus
+    nn: tyfoidfeber
+    or: ଟାଇଫଏଡ
+    pa: ਟਾਈਫਾਈਡ ਬੁਖ਼ਾਰ
+    pcm: Typhoid fever
+    pl: dur brzuszny
+    pnb: ٹائیفائیڈ
+    pt: febre tifoide
+    pt-br: febre tifoide
+    ro: febră tifoidă
+    ru: брюшной тиф
+    sd: مدي جو تپ
+    sh: Trbušni tifus
+    si: ටයිපොයිඩ් උණ
+    sk: Brušný týfus
+    sl: trebušni tifus
+    sr: трбушни тифус
+    sr-ec: трбушни тифус
+    sr-el: trbušni tifus
+    sv: tyfoidfeber
+    sw: Homa ya matumbo
+    ta: குடற்காய்ச்சல்
+    te: టైఫాయిడ్
+    tg: домана
+    th: ไข้รากสาดน้อย
+    tr: Tifo
+    tt: корсак тифе
+    uk: черевний тиф
+    ur: میعادی بخار
+    uz: Ich terlama
+    vec: freve tifòide
+    vi: thương hàn
+    war: Typhoid
+    wuu: 伤寒
+    yue: 傷寒
+    za: binghsanghhanz
+    zh: 伤寒
 ---
-
 # [[Typhoid_Fever]] 
 
 #is_/different_from :: [[Typhus|Typhus]]  

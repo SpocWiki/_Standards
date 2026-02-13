@@ -1,10 +1,106 @@
 ---
 aliases:
-  - Commelinales
-  - Commelinanae
+- Bộ Thài lài
+- Commelinaartige
+- Commelinales
+- Commelinals
+- Commelinanae
+- dagblomordenen
+- Koma komelînayan
+- Komelinaloj
+- Komelinolike
+- komelinovci
+- Komelinowce
+- komelīnu rinda
+- Kommeliinilaadsed
+- Kommelinaçiçəklilər
+- kommelínavirágúak
+- křížatkotvaré
+- Tradescantia-ordenen
+- Κομμελινώδη
+- Камелінакветныя
+- Камэлінакветныя
+- комелиноцветни
+- коммелиноцветные
+- קומלינאים
+- برگبیدسانان
+- وعلانيات
+- อันดับผักปลาบ
+- ツユクサ目
+- 鴨跖草目
+- 鴨蹠草目
+- 鸭跖草目
+- 닭의장풀목
 title: Commelinanae
+has_id_wikidata: Q290349
+dv_has_:
+  name_:
+    an: Commelinales
+    ar: وعلانيات
+    arz: وعلانيات
+    ast: Commelinales
+    az: Kommelinaçiçəklilər
+    be: Камелінакветныя
+    be-tarask: Камэлінакветныя
+    bg: комелиноцветни
+    bs: Commelinales
+    ca: Commelinals
+    ceb: Commelinales
+    co: Commelinales
+    cs: křížatkotvaré
+    da: Tradescantia-ordenen
+    de: Commelinaartige
+    el: Κομμελινώδη
+    en: Commelinales
+    eo: Komelinaloj
+    es: Commelinales
+    et: Kommeliinilaadsed
+    eu: Commelinales
+    ext: Commelinales
+    fa: برگبیدسانان
+    fi: Commelinales
+    fr: Commelinales
+    frr: Commelinales
+    ga: Commelinales
+    gl: Commelinales
+    he: קומלינאים
+    hr: Komelinolike
+    hu: kommelínavirágúak
+    ia: Commelinales
+    id: Commelinales
+    ie: Commelinales
+    io: Commelinales
+    it: Commelinales
+    ja: ツユクサ目
+    jv: Commelinales
+    ko: 닭의장풀목
+    ku: Koma komelînayan
+    la: Commelinales
+    lv: komelīnu rinda
+    mul: Commelinales
+    nb: Commelinales
+    nl: Commelinales
+    nn: dagblomordenen
+    oc: Commelinales
+    pl: Komelinowce
+    pt: Commelinales
+    pt-br: Commelinales
+    ro: Commelinales
+    ru: коммелиноцветные
+    sl: komelinovci
+    sq: Commelinales
+    sr: Commelinales
+    sv: Commelinales
+    th: อันดับผักปลาบ
+    uk: Commelinales
+    vi: Bộ Thài lài
+    vo: Commelinales
+    war: Commelinales
+    yue: 鴨蹠草目
+    zh: 鸭跖草目
+    zh-cn: 鸭跖草目
+    zh-tw: 鴨跖草目
 ---
-
 # [[Commelinanae]] 
 
 ![Pontederia](Commelinanae/Pontederia1.jpg)  ![](Commelinanae/Grass.jpg)  ![](Commelinanae/Tillandsia1.jpg) 

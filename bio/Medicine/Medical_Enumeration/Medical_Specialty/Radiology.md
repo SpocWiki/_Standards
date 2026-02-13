@@ -1,16 +1,72 @@
 ---
 aliases:
-  - Radiologie
-  - Radiology
+- erradiologia
+- Khoa X quang
+- radhiologi
+- radioleg
+- Radiolochía
+- radiologi
+- radiologia
+- Radiologie
+- radiologiezh
+- Radiologija
+- radiologio
+- radiologiya
+- radiologjia
+- Radiology
+- radiología
+- radiolohiya
+- radiolojia
+- radioloogia
+- Radioloxía
+- radioloģija
+- radiológia
+- raideolaíocht
+- rádiologiija
+- rádiológia
+- Yáng-chhiong Chín-thôn-ho̍k
+- ışın bilimi
+- Ακτινολογία
+- радіологія
+- радиологи
+- Радиологија
+- радиология
+- радыялёгія
+- рентгенология
+- рэнтгеналогія
+- ռադիոլոգիա
+- רדיולוגיה
+- تیشکناسی
+- رادیولوژی
+- ریڈیالجی
+- شعاعیات
+- علم الأشعة
+- وړانگپوهنه
+- پرتوشناسی
+- रेडियोलोजी
+- विकिरण विज्ञान
+- রঞ্জনবিদ্যা
+- ஊடுகதிரியல்
+- రేడియాలజీ
+- ವಿಕಿರಣಶಾಸ್ತ್ರ
+- റേഡിയോളജി
+- รังสีวิทยา
+- ລັງສີວິທະຍາ
+- რადიოლოგია
+- 影像診斷學
+- 影像诊断学
+- 放射科
+- 放射線医学
+- 영상의학
 has_id_wikidata: Q77604
 subclass_of:
-  - '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
-  - '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
 has_part_s_: '[[_Standards/WikiData/WD~interventional_radiology,426449]]'
 instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~radiographer,2294052]]'
-  - '[[_Standards/WikiData/WD~radiologist,18245236]]'
+- '[[_Standards/WikiData/WD~radiographer,2294052]]'
+- '[[_Standards/WikiData/WD~radiologist,18245236]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~roentgenology,10659067]]'
 part_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 GitHub_topic: radiology
@@ -25,8 +81,107 @@ IEV_number: 881-01-01
 UMLS_CUI: C0034599
 MeSH_tree_code: H02.403.740
 OpenStreetMap_tag: healthcare:speciality=radiology
+dv_has_:
+  name_:
+    af: radiologie
+    an: Radiolochía
+    ar: علم الأشعة
+    ast: Radioloxía
+    az: radiologiya
+    azb: رادیولوژی
+    be: рэнтгеналогія
+    be-tarask: радыялёгія
+    bg: радиология
+    bn: রঞ্জনবিদ্যা
+    bpy: রঞ্জনবিদ্যা
+    br: radiologiezh
+    bs: Radiologija
+    ca: radiologia
+    ckb: تیشکناسی
+    cs: radiologie
+    cy: radioleg
+    da: radiologi
+    de: Radiologie
+    de-ch: Radiologie
+    el: Ακτινολογία
+    en: radiology
+    en-ca: radiology
+    en-gb: radiology
+    eo: radiologio
+    es: radiología
+    et: radioloogia
+    eu: erradiologia
+    fa: پرتوشناسی
+    fi: radiologia
+    fr: radiologie
+    ga: raideolaíocht
+    gl: radioloxía
+    hak: Yáng-chhiong Chín-thôn-ho̍k
+    he: רדיולוגיה
+    hi: विकिरण विज्ञान
+    hr: radiologija
+    hu: radiológia
+    hy: ռադիոլոգիա
+    ia: radiologia
+    id: radiologi
+    io: radiologio
+    it: radiologia
+    ja: 放射線医学
+    jv: radhiologi
+    ka: რადიოლოგია
+    kk: Радиология
+    kk-cyrl: радиология
+    kn: ವಿಕಿರಣಶಾಸ್ತ್ರ
+    ko: 영상의학
+    ks: ریڈیالجی
+    ky: рентгенология
+    la: Radiologia
+    lfn: radiolojia
+    lo: ລັງສີວິທະຍາ
+    lt: radiologija
+    lv: radioloģija
+    mk: Радиологија
+    ml: റേഡിയോളജി
+    ms: Radiologi
+    nb: radiologi
+    ne: रेडियोलोजी
+    nl: radiologie
+    nn: radiologi
+    os: радиологи
+    pl: radiologia
+    ps: وړانگپوهنه
+    pt: radiologia
+    pt-br: radiologia
+    ro: radiologie
+    ru: радиология
+    se: rádiologiija
+    sh: radiologija
+    sk: rádiológia
+    sl: radiologija
+    smn: radiologia
+    sms: radiologia
+    sq: radiologjia
+    sr: радиологија
+    sr-ec: радиологија
+    sr-el: radiologija
+    sv: radiologi
+    sw: Radiolojia
+    ta: ஊடுகதிரியல்
+    te: రేడియాలజీ
+    th: รังสีวิทยา
+    tr: ışın bilimi
+    uk: радіологія
+    ur: شعاعیات
+    uz: Radiologiya
+    vi: Khoa X quang
+    war: radiolohiya
+    wuu: 影像诊断学
+    xmf: რადიოლოგია
+    yue: 放射科
+    zh: 影像诊断学
+    zh-hans: 影像诊断学
+    zh-hant: 影像診斷學
 ---
-
 # [[Radiology]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Radiology,77604|WD~Radiology,77604]] 

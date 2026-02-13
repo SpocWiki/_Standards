@@ -1,9 +1,79 @@
 ---
 aliases:
-  - Labyrinthulomycetes
+- Labirintulomicet
+- Labirintulomicetes
+- Labiryntulorośla
+- Labyrinthulomycetes
+- Labyrinthulomycètes
+- Labyrintky
+- labyrinttisienet
+- Labyrintuly
+- Netzschleimpilze
+- Slimnett
+- лабіринтуломікотові
+- Лабиринтиди
+- лабиринтулы
+- לבירינתולומיציטים
+- توریهای لغزنده
+- ラビリンチュラ
+- 網狀黏菌綱
+- 网黏菌纲
+- 라비린툴라류
 title: Labyrinthulomycetes
+has_id_wikidata: Q1148791
+dv_has_:
+  name_:
+    an: Labyrinthulomycetes
+    ast: Labyrinthulomycetes
+    bg: Labyrinthulomycetes
+    ca: Labirintulomicet
+    ceb: Labyrinthulomycetes
+    cs: Labyrintuly
+    de: Netzschleimpilze
+    en: Labyrinthulomycetes
+    eo: Labyrinthulomycetes
+    es: Labyrinthulomycetes
+    eu: Labyrinthulomycetes
+    ext: Labyrinthulomycetes
+    fa: توریهای لغزنده
+    fi: labyrinttisienet
+    fr: Labyrinthulomycètes
+    ga: Labyrinthulomycetes
+    gl: Labirintulomicetes
+    he: לבירינתולומיציטים
+    hu: Labyrinthulomycetes
+    ia: Labyrinthulomycetes
+    ie: Labyrinthulomycetes
+    io: Labyrinthulomycetes
+    it: Labyrinthulomycetes
+    ja: ラビリンチュラ
+    ko: 라비린툴라류
+    la: Labyrinthulomycetes
+    lv: Labyrinthulomycetes
+    mk: Лабиринтиди
+    mul: Labyrinthulomycetes
+    nb: Slimnett
+    nl: Labyrinthulomycetes
+    oc: Labyrinthulomycetes
+    pl: Labiryntulorośla
+    pt: Labyrinthulomycetes
+    pt-br: Labyrinthulomycetes
+    ro: Labyrinthulomycetes
+    ru: лабиринтулы
+    sk: Labyrintky
+    sl: Labyrinthulomycetes
+    sq: Labyrinthulomycetes
+    sr: Labyrinthulomycetes
+    sr-ec: Labyrinthulomycetes
+    sr-el: Labyrinthulomycetes
+    uk: лабіринтуломікотові
+    vi: Labyrinthulomycetes
+    vo: Labyrinthulomycetes
+    war: Labyrinthulomycetes
+    zh: 网黏菌纲
+    zh-cn: 网黏菌纲
+    zh-tw: 網狀黏菌綱
 ---
-
 # [[Labyrinthulomycetes]] 
 
 #is_a/bio-Phylum  

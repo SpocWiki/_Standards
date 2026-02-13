@@ -1,12 +1,86 @@
 ---
 aliases:
-  - Wunde
-  - Wound
+- Aranâ
+- Boulour
+- Brūce
+- Chiaia
+- clwyf
+- créacht
+- feria
+- ferida
+- ferita
+- Ferwûning
+- Firida
+- Frida
+- Gyambo
+- haav
+- haava
+- herida
+- Ikii
+- Jarohat
+- K'iri
+- Lugad
+- luka
+- Majeraha
+- Mpótá
+- mílnà
+- Nafra
+- Plaga
+- Plago
+- plaie
+- Raheut
+- rana
+- rană
+- rána
+- seb
+- sugat
+- sår
+- Telih
+- Vulnere
+- Vulnus
+- vundo
+- Vết thương
+- wond
+- Wonn
+- Wound
+- Wunde
+- Yara
+- Zauri
+- Žaizda
+- γερά
+- Πληγή
+- Жара
+- Жараат
+- Захм
+- Кабакның ертылган җәрәхәте
+- рана
+- Суран
+- Վերք
+- פצע
+- برین
+- جرح
+- زخم
+- یارا
+- घा
+- घाव
+- ਚਿੱਥੀਆਂ ਸੱਟਾਂ
+- புண்
+- ಗಾಯ
+- മുറിവ്
+- บาดแผล
+- ဒဏ်ရာ
+- ႁွႆးၸဵပ်း
+- ჭრილობა
+- ᎠᏥᏐᏅᏅ
+- 伤口
+- 傷口
+- 創傷
+- 부상
 has_id_wikidata: Q184753
 different_from: '[[_Standards/WikiData/WD~Rana,350621]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 has_use: '[[_Standards/WikiData/WD~Traumatic_insemination,2244781]]'
 health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
 subclass_of: '[[_Standards/WikiData/WD~skin_trauma,7535430]]'
@@ -18,8 +92,112 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Chapter1figure1-Superf
 UMLS_CUI: C0043250
 Commons_category: Wounds
 Dewey_Decimal_Classification: 617.14
+dv_has_:
+  name_:
+    an: Nafra
+    ar: جرح
+    ast: Firida
+    az: Yara
+    azb: یارا
+    bcl: Lugad
+    be: рана
+    be-tarask: рана
+    bg: Рана
+    bs: Rana
+    ca: ferida
+    chr: ᎠᏥᏐᏅᏅ
+    ckb: برین
+    cs: rána
+    cv: Суран
+    cy: clwyf
+    da: sår
+    de: Wunde
+    el: Πληγή
+    eml: Frida
+    en: wound
+    eo: vundo
+    es: herida
+    et: haav
+    eu: Zauri
+    fa: زخم
+    fi: haava
+    fr: plaie
+    fy: Ferwûning
+    ga: créacht
+    gcr: Boulour
+    gl: ferida
+    ha: Gyambo
+    he: פצע
+    hi: घाव
+    hr: rana
+    hsb: rana
+    hu: seb
+    hy: Վերք
+    ia: Vulnere
+    iba: Telih
+    id: luka
+    ik: Ikii
+    io: Plago
+    it: ferita
+    ja: 創傷
+    ka: ჭრილობა
+    kk: Жара
+    kn: ಗಾಯ
+    ko: 부상
+    ky: Жараат
+    la: Vulnus
+    lb: Wonn
+    ln: Mpótá
+    lt: Žaizda
+    lv: Brūce
+    mcn: mílnà
+    mk: Рана
+    ml: മുറിവ്
+    ms: Luka
+    my: ဒဏ်ရာ
+    nb: sår
+    new: घा
+    nl: wond
+    nn: sår
+    oc: Plaga
+    pa: ਚਿੱਥੀਆਂ ਸੱਟਾਂ
+    pl: rana
+    pnt: γερά
+    pt: ferida
+    qu: K'iri
+    ro: rană
+    ru: рана
+    rup: Aranâ
+    scn: Chiaia
+    sco: wound
+    sgs: Žaizda
+    sh: Rana
+    shn: ႁွႆးၸဵပ်း
+    sk: Rana
+    sl: rana
+    sq: Plaga
+    sr: рана
+    sr-ec: Рана
+    sr-el: Rana
+    su: Raheut
+    sv: sår
+    sw: Majeraha
+    ta: புண்
+    tg: Захм
+    th: บาดแผล
+    tl: sugat
+    tr: Yara
+    tt: Кабакның ертылган җәрәхәте
+    uk: рана
+    uz: Jarohat
+    vec: feria
+    vi: Vết thương
+    wuu: 伤口
+    yue: 傷口
+    zh: 傷口
+    zh-hant: 傷口
+    zh-tw: 傷口
 ---
-
 # [[Wound]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wound,184753|WD~Wound,184753]]  

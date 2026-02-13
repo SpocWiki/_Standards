@@ -1,27 +1,175 @@
 ---
 aliases:
-  - Schah
-  - شاه
-  - Shah
+- Cah
+- Chah
+- Sachus
+- sah
+- Schah
+- scià
+- Sha
+- Shah
+- Shoh
+- sjah
+- Szach
+- Xa
+- Xah
+- Xá
+- İran şahı
+- Ŝaho
+- Şa
+- şah
+- Šaahi
+- Šachas
+- Šah
+- Šahh
+- šahs
+- šáh
+- șah
+- Σάχης
+- сах
+- шаг
+- Шах
+- Шаһ
+- Շահ
+- שאה
+- شا
+- شاح
+- شاه
+- شاہ
+- پاچا
+- शाह
+- শাহ
+- ਸ਼ਾਹ
+- ஷா (பட்டம்)
+- ชาห์
+- შაჰი
+- シャー
+- 沙王
+- 沙阿
+- 샤
 has_id_wikidata: Q184299
 instance_of:
-  - '[[_Standards/WikiData/WD~noble_title,355567]]'
-  - '[[_Standards/WikiData/WD~historical_position,114962596]]'
+- '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~historical_position,114962596]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~ruler,1097498]]'
-  - '[[_Standards/WikiData/WD~sultan,43292]]'
-  - '[[_Standards/WikiData/WD~head_of_state,48352]]'
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~sultan,43292]]'
+- '[[_Standards/WikiData/WD~head_of_state,48352]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q8995072,8995072]]'
 country: '[[_Standards/WikiData/WD~Safavid_Iran,18234383]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%B6%E0%A6%BE%E0%A6%B9.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mohammad%20Ali%20Shah.jpg
 Commons_category: Monarchs of Persia
+dv_has_:
+  name_:
+    af: Sjah
+    an: Xah
+    ar: شاه
+    arz: شاه
+    ast: Xa
+    az: İran şahı
+    azb: شاه
+    ba: Шаһ
+    be: Шах
+    be-tarask: шаг
+    bg: Шах
+    bn: শাহ
+    br: Chah
+    bs: Šah
+    ca: Xa
+    ckb: شا
+    cs: šáh
+    cy: Shah
+    da: Shah
+    de: Schah
+    diq: Şah
+    el: Σάχης
+    en: shah
+    eo: Ŝaho
+    es: Shah
+    et: Šahh
+    eu: Xah
+    fa: شاه
+    fi: Šaahi
+    fr: chah
+    gl: Xa
+    ha: Shah
+    he: שאה
+    hi: शाह
+    hr: šah
+    hu: sah
+    hy: Շահ
+    ia: Sah
+    id: Shah
+    io: Sha
+    it: scià
+    ja: シャー
+    ka: შაჰი
+    kk: Шаһ
+    kk-arab: شاح
+    kk-cn: شاح
+    kk-cyrl: Шаһ
+    kk-kz: Шаһ
+    kk-latn: Şah
+    kk-tr: Şah
+    ko: 샤
+    ks: شاہ
+    ku: Şah
+    ky: Шах
+    la: Sachus
+    lt: Šachas
+    lv: šahs
+    mg: Shah
+    mk: шах
+    mn: Шах
+    ms: Shah
+    ms-arab: شاه
+    mzn: شاه
+    nan: Shah
+    nb: sjah
+    ne: शाह
+    nl: Sjah
+    os: сах
+    pa: ਸ਼ਾਹ
+    pl: Szach
+    pnb: شاہ
+    ps: پاچا
+    pt: Xá
+    ro: șah
+    ru: шах
+    sco: Shah
+    sh: šah
+    shi: Cah
+    sl: šah
+    sq: Shah
+    sr: шах
+    sr-ec: шах
+    sr-el: šah
+    sv: shah
+    sw: Shah
+    ta: ஷா (பட்டம்)
+    th: ชาห์
+    tk: Şa
+    tr: şah
+    uk: шах
+    ur: شاہ
+    uz: Shoh
+    vec: Scià
+    vi: Shah
+    wuu: 沙阿
+    yue: 沙王
+    zh: 沙阿
+    zh-cn: 沙阿
+    zh-hans: 沙阿
+    zh-hant: 沙阿
+    zh-hk: 沙阿
+    zh-sg: 沙阿
+    zh-tw: 沙阿
 ---
-
 # [[Shah]] 
 
 #is_/same_as :: [[WD~Shah,184299]] 

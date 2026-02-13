@@ -1,39 +1,153 @@
 ---
 aliases:
-  - strawberries
-  - strawberry
-  - Erdbeere
-  - Strawberry
-  - Полуниця садова
-  - 士多啤梨
-  - 草莓
-  - Farawla
-  - mirandanera
-  - jahodník ananasový
-  - Havejordbær
-  - Garden strawberry
-  - Aedmaasikas
-  - Puutarhamansikka
-  - Fragaria ×ananassa
-  - Guard-eerdbei
-  - オランダイチゴ
-  - 딸기
-  - Aardbei
-  - Земляника садовая
+- Aardbei
+- aardbeienplant
+- Aedmaasikas
+- Amorodo
+- bahçe çileği
+- Baratze-marrubi
+- Bağ çiyələyi
+- Braškė
+- Chháu-m̂
+- Chhó-mòi
+- Chāu-muòi
+- căpșună
+- Dah woozh
+- Dâu tây
+- dārza zemene
+- eper
+- Erdbeere
+- Farawla
+- Fraga
+- Fragaria ananassa
+- Fragaria x ananassa
+- Fragaria × ananassa
+- Fragaria ×ananassa
+- Frago
+- fragola
+- fragole
+- Fraijhe
+- fraisier cultivé
+- Fraula
+- Freize
+- Frezy
+- Fràgoła
+- Fròla
+- Garden strawberry
+- Gartenerdbeere
+- Gewuuen aerbel
+- Godumh
+- Goraa
+- Guard-eerdbei
+- hagejordbær
+- Havejordbær
+- Isitrobheli
+- Ivgum asiaŋa
+- jagoda
+- jahodník ananasový
+- jahodník velkoplodý
+- Jarðber
+- jordbær
+- jordgubbe
+- kamacal
+- luleshtrydhja
+- maduixot
+- Magiostra
+- Mefus
+- Merello
+- mirandanera
+- Morangano
+- Morango
+- Mstroberi
+- Otehimin
+- Presas
+- Puutarhamansikka
+- Satrubiri
+- Sivi
+- straeberry
+- strawberi
+- strawberries
+- strawberry
+- strawberry plant
+- stroberi
+- Stroberi kabun
+- strobèri
+- truskawka
+- Vrtna jagoda
+- Yvapytã
+- Zagrodna słynica
+- Zahrodna truskalca
+- Ògardowô pòtrôwnica
+- Ýertudana
+- Φράουλα
+- Јагода
+- ананасова ягода
+- Ауҭраҵыҵындра
+- Ер еләге
+- Земляника садовая
+- Мӧр
+- полуниці садові
+- Полуниця садова
+- Суніцы садовыя
+- Цэцэрлэгийн гүзээлзгэнэ
+- җир җиләге
+- Қулфинай
+- ելակ
+- תות שדה
+- اسٹرابیری
+- اسٽرا بيري
+- اِشٹابٕر
+- بۆلجۈرگەن
+- توتفرنگی
+- تووفەرەنگی
+- سرماق
+- سٹرابیری
+- فراز
+- فراولة
+- فراوله Farawla
+- ځمکني توت
+- तृणबदरफलम्
+- ब्यांपासि
+- स्ट्रबेरी
+- स्ट्रॉबेरी
+- ষ্ট্ৰবেৰী
+- স্ট্রবেরি
+- ਸਟਰਾਬਰੀ
+- સ્ટ્રોબેરી
+- ଷ୍ଟ୍ରବେରୀ
+- செம்புற்றுப்பழம்
+- స్ట్రాబెర్రీ
+- ಸ್ಟ್ರಾಬೆರಿ
+- ഗാർഡൻ സ്ട്രോബെറി
+- สตรอว์เบอร์รี
+- ໝາກຟະແລດ
+- འབྲི་ཏ་ས་འཛིན།
+- စတော်ဘယ်ရီ
+- ბაღის მარწყვი
+- ციმუა
+- ᎠᏂ
+- ស្ត្របឺរី
+- ᱥᱴᱨᱚᱵᱮᱨᱤ
+- ⵜⵉⵣⵡⵍⵜ
+- イチゴ
+- オランダイチゴ
+- 士多啤梨
+- 草莓
+- 딸기
 has_id_wikidata: Q13158
 Baidu_Tieba_name: 草莓
 Commons_category: Fragaria × ananassa
 Commons_gallery: Fragaria × ananassa
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 EPPO_Code: FRAAN
 GenBank_assembly_accession_number:
-  - GCA_000511695.1
-  - GCA_019650335.1
+- GCA_000511695.1
+- GCA_019650335.1
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=244
 hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266]]'
 has_basionym: '[[_Standards/WikiData/WD~Fragaria_chiloensis_var._ananassa,50893122]]'
@@ -50,32 +164,179 @@ PLU_code: 3356
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%A5%E1%B1%B4%E1%B1%A8%E1%B1%9A%E1%B1%B5%E1%B1%AE%E1%B1%A8%E1%B1%A4.wav
 subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 taxon_common_name:
-  - Полуниця садова
-  - 士多啤梨
-  - 草莓
-  - Farawla
-  - mirandanera
-  - jahodník ananasový
-  - Havejordbær
-  - Garden strawberry
-  - Aedmaasikas
-  - Puutarhamansikka
-  - Fragaria ×ananassa
-  - Guard-eerdbei
-  - オランダイチゴ
-  - 딸기
-  - Aardbei
-  - Земляника садовая
+- Полуниця садова
+- 士多啤梨
+- 草莓
+- Farawla
+- mirandanera
+- jahodník ananasový
+- Havejordbær
+- Garden strawberry
+- Aedmaasikas
+- Puutarhamansikka
+- Fragaria ×ananassa
+- Guard-eerdbei
+- オランダイチゴ
+- 딸기
+- Aardbei
+- Земляника садовая
 taxon_name: Fragaria × ananassa
 taxon_range: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~strawberry_juice,1068602]]'
-  - '[[_Standards/WikiData/WD~strawberry,14458220]]'
-  - '[[_Standards/WikiData/WD~Fragariae_folium,96069897]]'
+- '[[_Standards/WikiData/WD~strawberry_juice,1068602]]'
+- '[[_Standards/WikiData/WD~strawberry,14458220]]'
+- '[[_Standards/WikiData/WD~Fragariae_folium,96069897]]'
 UNII: BRO5T4GIXN
+dv_has_:
+  name_:
+    ab: Ауҭраҵыҵындра
+    aeb-arab: فراز
+    an: Fraga
+    ar: فراولة
+    arz: فراوله Farawla
+    as: ষ্ট্ৰবেৰী
+    ast: Fragaria x ananassa
+    atj: Otehimin
+    az: Bağ çiyələyi
+    ba: Ер еләге
+    bcl: Strawberry
+    be: Суніцы садовыя
+    be-tarask: суніцы садовыя
+    bg: ананасова ягода
+    bjn: Satrubiri
+    bn: স্ট্রবেরি
+    bo: འབྲི་ཏ་ས་འཛིན།
+    br: Sivi
+    bs: Jagoda
+    ca: maduixot
+    cdo: Chāu-muòi
+    ceb: Fragaria ananassa
+    chr: ᎠᏂ
+    ckb: تووفەرەنگی
+    co: Fraula
+    cs: jahodník velkoplodý
+    csb: Ògardowô pòtrôwnica
+    cy: Mefus
+    da: jordbær
+    de: Gartenerdbeere
+    de-ch: Gartenerdbeere
+    dsb: Zagrodna słynica
+    el: Φράουλα
+    en: strawberry
+    en-ca: Strawberry
+    en-gb: strawberry plant
+    eo: Fragaria ×ananassa
+    es: Fragaria × ananassa
+    et: aedmaasikas
+    eu: Baratze-marrubi
+    fa: توتفرنگی
+    fi: puutarhamansikka
+    fo: Jarðber
+    fr: fraisier cultivé
+    frr: Guard-eerdbei
+    ga: Fragaria ×ananassa
+    gl: Amorodo
+    gn: Yvapytã
+    gu: સ્ટ્રોબેરી
+    hak: Chhó-mòi
+    haw: Strawberry
+    he: תות שדה
+    hi: स्ट्रॉबेरी
+    hr: Vrtna jagoda
+    hsb: Zahrodna truskalca
+    hu: eper
+    hy: ելակ
+    hyw: Ելակ
+    id: stroberi
+    ik: Ivgum asiaŋa
+    io: Frago
+    it: fragola
+    ja: イチゴ
+    jv: strobèri
+    ka: ბაღის მარწყვი
+    km: ស្ត្របឺរី
+    kn: ಸ್ಟ್ರಾಬೆರಿ
+    ko: 딸기
+    ks: اِشٹابٕر
+    la: Fragaria × ananassa
+    li: Gewuuen aerbel
+    lij: Merello
+    lmo: Magiostra
+    lo: ໝາກຟະແລດ
+    lt: Braškė
+    lv: dārza zemene
+    mg: Frezy
+    min: Stroberi kabun
+    mk: Јагода
+    ml: ഗാർഡൻ സ്ട്രോബെറി
+    mn: Цэцэрлэгийн гүзээлзгэнэ
+    mr: स्ट्रॉबेरी
+    mrj: Мӧр
+    ms: strawberi
+    mul: Fragaria × ananassa
+    mwl: Morangano
+    my: စတော်ဘယ်ရီ
+    mzn: سرماق
+    nan: Chháu-m̂
+    nb: hagejordbær
+    ne: स्ट्रबेरी
+    new: ब्यांपासि
+    nl: aardbeienplant
+    nn: hagejordbær
+    nv: Dah woozh
+    om: Goraa
+    or: ଷ୍ଟ୍ରବେରୀ
+    pa: ਸਟਰਾਬਰੀ
+    pl: truskawka
+    pms: Fròla
+    pnb: سٹرابیری
+    ps: ځمکني توت
+    pt: Morango
+    pt-br: Morango
+    ro: căpșună
+    roa-tara: fragole
+    ru: Земляника садовая
+    sa: तृणबदरफलम्
+    sat: ᱥᱴᱨᱚᱵᱮᱨᱤ
+    sco: straeberry
+    sd: اسٽرا بيري
+    sgs: Braškė
+    sl: jagoda
+    sq: luleshtrydhja
+    sr: Јагода
+    sv: jordgubbe
+    sw: Mstroberi
+    szy: kamacal
+    ta: செம்புற்றுப்பழம்
+    te: స్ట్రాబెర్రీ
+    tg: Қулфинай
+    th: สตรอว์เบอร์รี
+    tk: Ýertudana
+    tl: Presas
+    tr: bahçe çileği
+    tt: җир җиләге
+    ug: بۆلجۈرگەن
+    uk: полуниці садові
+    ur: اسٹرابیری
+    vec: Fràgoła
+    vi: Dâu tây
+    vls: Freize
+    wa: Fraijhe
+    war: Fragaria ananassa
+    wuu: 草莓
+    xmf: ციმუა
+    yue: 士多啤梨
+    za: Godumh
+    zgh: ⵜⵉⵣⵡⵍⵜ
+    zh: 草莓
+    zh-cn: 草莓
+    zh-hans: 草莓
+    zh-hant: 草莓
+    zh-hk: 士多啤梨
+    zh-tw: 草莓
+    zu: Isitrobheli
 ---
-
 # [[Strawberry]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Strawberry,13158|WD~Strawberry,13158]] 

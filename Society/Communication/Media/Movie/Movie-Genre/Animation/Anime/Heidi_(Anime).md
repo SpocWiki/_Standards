@@ -1,5 +1,64 @@
-
-
+---
+has_id_wikidata: Q715718
+dv_has_:
+  name_:
+    ar: هايدي
+    ast: Heidi, Girl of the Alps
+    ca: Heidi
+    de: Heidi
+    de-ch: Heidi
+    el: Χάιντι
+    en: Heidi, Girl of the Alps
+    en-ca: Heidi, Girl of the Alps
+    en-gb: Heidi, Girl of the Alps
+    eo: Alps no Shōjo Heidi
+    es: Heidi
+    eu: Heidi
+    fa: هایدی، دختر آلپ
+    fr: Heidi
+    gl: Heidi
+    he: היידי בת ההרים
+    hr: Heidi
+    ht: Ti fi nan alp Heidi (Anime)
+    is: Heiða í Ölpunum
+    it: Heidi
+    iu: ᐦeᐃdᐃ
+    ja: アルプスの少女ハイジ
+    ko: 알프스 소녀 하이디
+    mg: Heidi
+    nl: Heidi
+    pl: Heidi
+    pt: Heidi
+    pt-br: Heidi
+    ru: Heidi, Girl of the Alps
+    sh: Heidi
+    tr: Heidi
+    uk: Гайді
+    vi: Heidi, Cô bé đến từ vùng núi Alps
+    zh: 阿尔卑斯山的少女
+    zh-hans: 阿尔卑斯山的少女
+    zh-hant: 小天使
+    zh-hk: 飄零燕
+    zh-sg: 小天使
+aliases:
+- Alps no Shōjo Heidi
+- Heidi
+- Heidi, Cô bé đến từ vùng núi Alps
+- Heidi, Girl of the Alps
+- Heiða í Ölpunum
+- Ti fi nan alp Heidi (Anime)
+- Χάιντι
+- Гайді
+- היידי בת ההרים
+- هايدي
+- هایدی، دختر آلپ
+- ᐦeᐃdᐃ
+- アルプスの少女ハイジ
+- 小天使
+- 阿尔卑斯山的少女
+- 飄零燕
+- 알프스 소녀 하이디
+---
 > Heidi, Girl of the Alps ([[../../../../../../../Language/Language_Family/LangFamily-Japonic/Lang-jpn|Japanese]]: アルプスの少女ハイジ, Hepburn: Arupusu no Shōjo Haiji) 
 > is an anime television series produced by Zuiyo Eizo and is based on the novel 
 > Heidi's Years of Wandering and Learning by Johanna Spyri (1880). 

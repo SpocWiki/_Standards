@@ -1,39 +1,87 @@
 ---
 aliases:
-  - sculpture
-  - Skulptur
-  - Sculpture
-  - is_a_sculpture
+- arca
+- Bieldehaueräi
+- cerflun
+- dealbh
+- escultura
+- eskultura
+- govvačuolus
+- heykel
+- heykəl
+- háykeltanıwshılıq
+- is_a_sculpture
+- kizelladur
+- obra escultòrica
+- obra escultórica
+- rzeźba
+- scoltura
+- sculptur
+- sculpture
+- sculptură
+- sculptuur
+- scultura
+- Seni Ukir
+- skulptaĵo
+- Skulptur
+- skulptura
+- skulpturë
+- skulptuur
+- skulptūra
+- socha
+- szobor
+- tác phẩm điêu khắc
+- veistos
+- viârstõs
+- γλυπτό
+- Сийлбэр
+- скулптура
+- скульптурæ
+- скульптура
+- ҳайкал
+- քանդակ
+- פסל
+- مجسمہ
+- منحوتة
+- मूर्ति
+- ভাস্কর্য
+- சிற்பம்
+- ശില്പം
+- ประติมากรรม
+- 彫刻作品
+- 雕塑
+- 雕塑作品
+- 조각품
 has_id_wikidata: Q860861
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - sculpture
+- sculpture
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_sculpture Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_sculpture Class
 type: Type
 subclass_of:
-  - '[[_Standards/WikiData/WD~plastic_artwork,350268]]'
-  - '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~plastic_artwork,350268]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sculpture,7112723]]'
 different_from:
-  - '[[_Standards/WikiData/WD~sculpture,17310537]]'
-  - '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
+- '[[_Standards/WikiData/WD~sculpture,17310537]]'
+- '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
 fabrication_method: '[[_Standards/WikiData/WD~sculpture_technique,21711025]]'
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
@@ -42,8 +90,8 @@ manifestation_of: '[[_Standards/WikiData/WD~art_of_sculpture,11634]]'
 Nomenclature_for_Museum_Cataloging: 12956
 Commons_gallery: Sculpture
 hashtag_:
-  - sculpture
-  - Skulptur
+- sculpture
+- Skulptur
 Iconclass_notation: 48C24
 Commons_category: Sculptures
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dama%20de%20Elche.jpg
@@ -53,8 +101,94 @@ equivalent_class: https://schema.org/Sculpture
 UMLS_CUI: C0036473
 MeSH_tree_code: K01.093.849
 OpenStreetMap_tag_or_key: Tag:artwork_type=sculpture
+dv_has_:
+  name_:
+    ar: منحوتة
+    ast: escultura
+    az: heykəl
+    be: скульптура
+    bg: скулптура
+    bn: ভাস্কর্য
+    br: kizelladur
+    ca: obra escultòrica
+    cs: skulptura
+    cy: cerflun
+    da: skulptur
+    de: Skulptur
+    el: γλυπτό
+    en: sculpture
+    en-gb: sculpture
+    en-us: sculpture
+    eo: skulptaĵo
+    es: escultura
+    et: skulptuur
+    eu: eskultura
+    fi: veistos
+    fr: sculpture
+    frp: Scultura
+    ga: dealbh
+    gl: obra escultórica
+    gsw: Skulptur
+    he: פסל
+    hi: मूर्ति
+    hr: skulptura
+    hsb: skulptura
+    hu: szobor
+    hy: քանդակ
+    id: arca
+    ie: Sculpture
+    it: scultura
+    ja: 彫刻作品
+    jv: Seni Ukir
+    kaa: háykeltanıwshılıq
+    ko: 조각품
+    lb: Skulptur
+    lld: Scultura
+    lmo: scoltura
+    lt: skulptūra
+    lv: skulptūra
+    mk: скулптура
+    ml: ശില്പം
+    mn: Сийлбэр
+    ms: arca
+    nb: skulptur
+    nds: Skulptur
+    nl: sculptuur
+    nn: skulptur
+    oc: escultura
+    os: скульптурæ
+    pl: rzeźba
+    pms: Scultura
+    pt: escultura
+    pt-br: escultura
+    ro: sculptură
+    ru: скульптура
+    sco: sculptur
+    se: govvačuolus
+    sh: skulptura
+    sk: socha
+    sl: skulptura
+    sms: viârstõs
+    sq: skulpturë
+    sr: скулптура
+    sr-ec: скулптура
+    sr-el: skulptura
+    stq: Bieldehaueräi
+    sv: skulptur
+    ta: சிற்பம்
+    tg: ҳайкал
+    th: ประติมากรรม
+    tr: heykel
+    uk: скульптура
+    ur: مجسمہ
+    vec: scultura
+    vi: tác phẩm điêu khắc
+    zh: 雕塑作品
+    zh-cn: 雕塑
+    zh-hans: 雕塑
+    zh-hant: 雕塑
+    zh-tw: 雕塑
 ---
-
 # [[Sculpture]]
 
 Class of all sculptures.

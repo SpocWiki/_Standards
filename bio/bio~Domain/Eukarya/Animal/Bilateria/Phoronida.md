@@ -1,9 +1,119 @@
 ---
 aliases:
-  - Phoronida
+- Atnalı ağızlılar
+- chapadlovky
+- Chytadlovité
+- Daa-mguufarasi
+- foronidis
+- Foronido
+- Foronidoj
+- Foronídeos
+- Foronīdi
+- hesteskomakkar
+- hesteskoormer
+- Hoefijzerwormen
+- Hoofiezerwörm
+- Hufeisenwürmer
+- hästskomaskar
+- Kryzelnice
+- Phoronid
+- Phoronida
+- Potkovnjaci
+- Pärgussid
+- Skuiliswirmer
+- Trubkalılar
+- tupsumadot
+- Táyiʼ chʼosh bideeʼ názbąsí
+- Ulod nga sapatos sa kabayo
+- Φορωνίδια
+- Потковичасти црви
+- фараніды
+- фороніди
+- форониди
+- форониды
+- Ֆորոնիդներ
+- פורונידה
+- تروبکالیلار
+- ديدان حدوية
+- ديدان حدويه
+- کرمهای نعل اسبی
+- ფორონიდები
+- 帚虫动物门
+- 箒虫動物
+- 추형동물
 title: Phoronida
+has_id_wikidata: Q162907
+dv_has_:
+  name_:
+    an: Phoronida
+    ar: ديدان حدوية
+    arz: ديدان حدويه
+    ast: Phoronida
+    az: Trubkalılar
+    azb: تروبکالیلار
+    be: фараніды
+    bg: форониди
+    bs: Phoronida
+    ca: foronidis
+    ceb: Ulod nga sapatos sa kabayo
+    cs: chapadlovky
+    de: Hufeisenwürmer
+    el: Φορωνίδια
+    en: Phoronida
+    en-ca: Phoronid
+    en-gb: Phoronid
+    eo: Foronidoj
+    es: Phoronida
+    et: Pärgussid
+    eu: Foronido
+    ext: Phoronida
+    fa: کرمهای نعل اسبی
+    fi: tupsumadot
+    fr: Phoronida
+    frr: Skuiliswirmer
+    ga: Phoronida
+    gl: Foronídeos
+    he: פורונידה
+    hr: Potkovnjaci
+    hy: Ֆորոնիդներ
+    ia: Phoronida
+    id: Phoronida
+    ie: Phoronida
+    io: Phoronida
+    it: Phoronida
+    ja: 箒虫動物
+    ka: ფორონიდები
+    ko: 추형동물
+    la: Phoronida
+    lfn: Foronido
+    li: Hoofiezerwörm
+    lv: Foronīdi
+    mul: Phoronida
+    nb: hesteskoormer
+    nl: Hoefijzerwormen
+    nn: hesteskomakkar
+    nv: Táyiʼ chʼosh bideeʼ názbąsí
+    oc: Phoronida
+    pl: Kryzelnice
+    pt: Phoronida
+    pt-br: Phoronida
+    ro: Phoronida
+    ru: форониды
+    sk: Chytadlovité
+    sq: Phoronida
+    sr: Потковичасти црви
+    sv: hästskomaskar
+    sw: Daa-mguufarasi
+    th: Phoronid
+    tl: Phoronida
+    tr: Atnalı ağızlılar
+    uk: фороніди
+    vi: Phoronida
+    vo: Phoronida
+    war: Phoronida
+    wuu: 帚虫动物门
+    zh: 帚虫动物门
 ---
-
 # [[Phoronida]]
 
 ## Horseshoe worms 

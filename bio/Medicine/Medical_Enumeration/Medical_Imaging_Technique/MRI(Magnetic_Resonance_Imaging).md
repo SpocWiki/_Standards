@@ -1,35 +1,216 @@
 ---
 aliases:
-  - mri
-  - mri
-  - MRI
-  - is_a_mri
-  - Magnetic resonance imaging
-  - MRI(Magnetic_Resonance_Imaging)
-  - MRI(Magnetic Resonance Imaging)
+- chụp cộng hưởng từ
+- delweddu cyseiniant magnetig
+- erresonantzia magnetiko bidezko irudigintza
+- Fu̍t-chhṳ̂ Khiung-chṳn Sṳ̀n-siong
+- Imachen por resonancia magnetica
+- imagen por resonancia magnética
+- imagerie par résonance magnétique
+- imaging a risonanza magnetica
+- imagistică prin rezonanță magnetică
+- imajri pa rézonans magnétik
+- imatge per ressonància magnètica
+- imatjariá per ressonància magnetica
+- imaxe por resonancia magnética
+- imazhi me rezonancë magnetike
+- is_a_mri
+- magneettikuvaus
+- magnet-resonanz-tomographie
+- magneta resonanca bildigo
+- Magnetala Reson-Imajifilo
+- magnetic resonance imagin
+- Magnetic resonance imaging
+- magnetická rezonance
+- magnetieseresonansiebeelding
+- magnetik rezanans imijin
+- magnetinio rezonanso tomografas
+- magnetisk resonanstomografi
+- magnetna rezonanca
+- magnetna rezonancija
+- magnetna rezonantna tomografija
+- magnetresonanstomografi
+- magnetresonantstomograafia
+- Magnetresonanztomographie
+- Magnéitresonanztomographie
+- magnētiskās rezonanses attēldiagnostika
+- manyetik rezonans görüntüleme
+- maqnit rezonans tomoqrafiya
+- MR-scanning
+- mri
+- MRI(Magnetic Resonance Imaging)
+- MRI(Magnetic_Resonance_Imaging)
+- MRT
+- mágnesesrezonancia-képalkotás
+- obrazowanie metodą rezonansu magnetycznego
+- pencitraan resonansi magnetik
+- pengimejan resonans magnetik
+- resonancia magnética nuclear
+- ressonância magnética
+- segulómun
+- slikanje z magnetno resonanco
+- tomographia resonantia magnetica facta
+- zobrazovanie magnetickou rezonanciou
+- íomháú athshondais mhaighnéadaigh
+- μαγνητική τομογραφία
+- магнітна-рэзанансная тамаграфія
+- магнітно-резонансна томографія
+- магнетна резонантна томографија
+- магнетна резонанција
+- магнитлы-резонанслы томография
+- магнитнай дуорайыы томограапыйата
+- магнитно-резонансна томография
+- магнитно-резонансная томография
+- магниттік-резонанстық томография
+- Томографияи магнитии резонансӣ
+- մագնիսառեզոնանսային շերտագրություն
+- דימות תהודה מגנטית
+- ئێم ئاڕ ئای
+- ايم آر آء اسڪين
+- ایم آر آی سِکینَر
+- تصوير ب صونيط لمغناطيسي
+- تصوير بالرنين المغناطيسى
+- تصوير بالرنين المغناطيسي
+- تصویربرداری تشدید مغناطیسی
+- رزونانس (احتزازي) مقناطیسي عکس اخیستنه
+- مقناطیسی اصدائی تصویرہ
+- एम आर आई
+- চৌম্বকীয় অনুরণন প্রতিচ্ছবি
+- காந்த அதிர்வு அலை வரைவு
+- ఎమ్మారై
+- ಕಾಂತೀಯ ಅನುರಣನ ಚಿತ್ರಣ
+- എം.ആർ.ഐ. സ്കാൻ
+- චුම්භක අනුනාද ප්රතිරූපණය
+- การสร้างภาพด้วยเรโซแนนซ์แม่เหล็ก
+- ການສ້າງດ້ວຍເຣໂຊແນນແມ່ເຫຼັກ
+- 核磁共振成像
+- 核磁共振成相
+- 核磁気共鳴画像法
+- 磁力共振造影
+- 자기공명영상
 has_id_wikidata: Q161238
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MedicalImagingTechnique
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - mri
+- mri
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_mri Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_mri Class
 type: Type
+dv_has_:
+  name_:
+    af: magnetieseresonansiebeelding
+    an: Imachen por resonancia magnetica
+    ar: تصوير بالرنين المغناطيسي
+    ary: تصوير ب صونيط لمغناطيسي
+    arz: تصوير بالرنين المغناطيسى
+    ast: resonancia magnética nuclear
+    az: maqnit rezonans tomoqrafiya
+    be-tarask: магнітна-рэзанансная тамаграфія
+    bg: магнитно-резонансна томография
+    bn: চৌম্বকীয় অনুরণন প্রতিচ্ছবি
+    bs: magnetna rezonanca
+    ca: imatge per ressonància magnètica
+    ckb: ئێم ئاڕ ئای
+    cs: magnetická rezonance
+    cy: delweddu cyseiniant magnetig
+    da: MR-scanning
+    de: Magnetresonanztomographie
+    el: μαγνητική τομογραφία
+    en: magnetic resonance imaging
+    eo: magneta resonanca bildigo
+    es: imagen por resonancia magnética
+    et: magnetresonantstomograafia
+    eu: erresonantzia magnetiko bidezko irudigintza
+    fa: تصویربرداری تشدید مغناطیسی
+    fi: magneettikuvaus
+    fr: imagerie par résonance magnétique
+    ga: íomháú athshondais mhaighnéadaigh
+    gan: 核磁共振成相
+    gan-hans: 核磁共振成相
+    gan-hant: 核磁共振成相
+    gcr: imajri pa rézonans magnétik
+    gl: imaxe por resonancia magnética
+    hak: Fu̍t-chhṳ̂ Khiung-chṳn Sṳ̀n-siong
+    he: דימות תהודה מגנטית
+    hi: एम आर आई
+    hr: magnetna rezonancija
+    hu: mágnesesrezonancia-képalkotás
+    hy: մագնիսառեզոնանսային շերտագրություն
+    id: pencitraan resonansi magnetik
+    io: Magnetala Reson-Imajifilo
+    is: segulómun
+    it: imaging a risonanza magnetica
+    ja: 核磁気共鳴画像法
+    jam: magnetik rezanans imijin
+    kk: магниттік-резонанстық томография
+    kn: ಕಾಂತೀಯ ಅನುರಣನ ಚಿತ್ರಣ
+    ko: 자기공명영상
+    ks: ایم آر آی سِکینَر
+    la: tomographia resonantia magnetica facta
+    lb: Magnéitresonanztomographie
+    lo: ການສ້າງດ້ວຍເຣໂຊແນນແມ່ເຫຼັກ
+    lt: magnetinio rezonanso tomografas
+    lv: magnētiskās rezonanses attēldiagnostika
+    mk: магнетна резонанција
+    ml: എം.ആർ.ഐ. സ്കാൻ
+    ms: pengimejan resonans magnetik
+    nb: magnetresonanstomografi
+    nl: magnetic resonance imaging
+    nn: magnetresonanstomografi
+    oc: imatjariá per ressonància magnetica
+    pl: obrazowanie metodą rezonansu magnetycznego
+    ps: رزونانس (احتزازي) مقناطیسي عکس اخیستنه
+    pt: ressonância magnética
+    ro: imagistică prin rezonanță magnetică
+    ru: магнитно-резонансная томография
+    sah: магнитнай дуорайыы томограапыйата
+    scn: MRI
+    sco: magnetic resonance imagin
+    sd: ايم آر آء اسڪين
+    sh: magnetna rezonantna tomografija
+    si: චුම්භක අනුනාද ප්රතිරූපණය
+    sk: zobrazovanie magnetickou rezonanciou
+    sl: slikanje z magnetno resonanco
+    sq: imazhi me rezonancë magnetike
+    sr: магнетна резонантна томографија
+    sr-ec: магнетна резонантна томографија
+    sr-el: magnetna rezonantna tomografija
+    stq: magnet-resonanz-tomographie
+    sv: magnetisk resonanstomografi
+    ta: காந்த அதிர்வு அலை வரைவு
+    te: ఎమ్మారై
+    tg: Томографияи магнитии резонансӣ
+    th: การสร้างภาพด้วยเรโซแนนซ์แม่เหล็ก
+    tr: manyetik rezonans görüntüleme
+    tt: магнитлы-резонанслы томография
+    uk: магнітно-резонансна томографія
+    ur: مقناطیسی اصدائی تصویرہ
+    uz: MRT
+    vi: chụp cộng hưởng từ
+    war: magnetic resonance imaging
+    wuu: 核磁共振成像
+    yue: 磁力共振造影
+    zh: 核磁共振成像
+    zh-cn: 核磁共振成像
+    zh-hans: 核磁共振成像
+    zh-hant: 核磁共振成像
+    zh-hk: 核磁共振成像
+    zh-sg: 核磁共振成像
+    zh-tw: 核磁共振成像
 ---
-
 Technique of Magnetic resonance imaging.
 
 Tag Instances like this: 

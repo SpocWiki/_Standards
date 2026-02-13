@@ -1,19 +1,63 @@
 ---
 aliases:
-  - incendiary weapon
-  - incendiary device
-  - incendiary munition
-  - incendiary bomb
-  - Incendiary_Weapon
-  - Incendiary Weapon
+- arma incendiaria
+- arma incendiària
+- arma incendiária
+- arme incendiaire
+- armă incendiară
+- brandbom
+- Brandwaffe
+- brannvåpen
+- bruliganta armilo
+- incendiary bomb
+- incendiary device
+- incendiary munition
+- incendiary weapon
+- Incendiary_Weapon
+- ordigno incendiario
+- Perangkat insendiari
+- zažigalno orožje
+- zápalná zbraň
+- εμπρηστικό όπλο
+- зажигательное оружие
+- запаливо оружје
+- запальная зброя
+- запалювальна зброя
+- سلاح حارق
+- எரிகுண்டு
+- 焼夷兵器
 has_id_wikidata: Q898389
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 subclass_of: '[[_Standards/WikiData/WD~weapon,728]]'
 Nomenclature_for_Museum_Cataloging: 7740
 Commons_category: Incendiary weapons
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/38%20Molotov-koktelo.svg
+dv_has_:
+  name_:
+    ar: سلاح حارق
+    be-tarask: запальная зброя
+    ca: arma incendiària
+    cs: zápalná zbraň
+    de: Brandwaffe
+    el: εμπρηστικό όπλο
+    en: incendiary weapon
+    eo: bruliganta armilo
+    es: arma incendiaria
+    fr: arme incendiaire
+    gl: arma incendiaria
+    id: Perangkat insendiari
+    it: ordigno incendiario
+    ja: 焼夷兵器
+    mk: запаливо оружје
+    nb: brannvåpen
+    nl: brandbom
+    pt: arma incendiária
+    ro: armă incendiară
+    ru: зажигательное оружие
+    sl: zažigalno orožje
+    ta: எரிகுண்டு
+    uk: запалювальна зброя
 ---
-
 # [[Incendiary_Weapon]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~incendiary_weapon,898389]]

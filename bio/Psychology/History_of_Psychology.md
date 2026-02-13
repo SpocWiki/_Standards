@@ -1,20 +1,126 @@
 ---
 aliases:
+- a pszichológia története
+- dejiny psychológie
+- Dějiny psychologie
+- Geschichte der Psychologie
+- geschiedenis van de psychologie
+- Helstu ártöl í sögu bandarískrar sálfræði
+- histoire de la psychologie
+- historia da psicoloxía
+- historia de la psicología
+- Historia de la psicoloxía
+- Historia e psikologjisë
+- Historia psychologii
+- historio de psikologio
+- history of psychology
+- història de la psicologia
+- história da psicologia
+- Istorija psihologije
+- Psichologijos istorija
+- psiholoģijas vēsture
+- Psikologiaren historia
+- psikolojinin tarihi
+- Psixologiya tarixi
+- Psixologiya táriyxi
+- psykologia historia
+- psykologia historjá
+- psykologian historia
+- psykologiens historie
+- psykologiija historjá
+- psykologins historia
+- Sejarah psikologi
+- stair na síceolaíochta
+- storia della psicologia
+- zgodovina psihologije
+- ιστορία της ψυχολογίας
+- історія психології
+- гісторыя псыхалёгіі
+- историја на психологијата
+- История на психологията
+- история психологии
+- Психология тарихы
+- Հոգեբանութեան պատմութիւն
+- Հոգեբանության պատմություն
+- ارواپوهنې تاريخ
+- تاريخ علم النفس
+- تاریخ روانشناسی
+- मनोविज्ञान का इतिहास तथा शाखाएँ
+- ਮਨੋਵਿਗਿਆਨ ਦਾ ਇਤਿਹਾਸ
+- உளவியல் வரலாறு
+- 心理学の歴史
+- 心理学史
+- 心理學史
+- 심리학의 역사
 has_id_wikidata: Q261215
-subclass_of: "[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]"
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_psychology,112132086]]"
-is_the_study_of: "[[_Standards/WikiData/WD~psychology,9418]]"
-facet_of: "[[_Standards/WikiData/WD~psychology,9418]]"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_psychology,112132086]]'
+is_the_study_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%86%D9%81%D8%B3.wav
-Basisklassifikation: "77.01"
+Basisklassifikation: 77.01
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/PSIHOLOGIYA_ISTORIYA.html
 Commons_category: History of psychology
 PhilPapers_topic: history-of-psychology
+dv_has_:
+  name_:
+    ar: تاريخ علم النفس
+    ast: Historia de la psicoloxía
+    be-tarask: гісторыя псыхалёгіі
+    bg: История на психологията
+    ca: història de la psicologia
+    cs: Dějiny psychologie
+    da: psykologiens historie
+    de: Geschichte der Psychologie
+    el: ιστορία της ψυχολογίας
+    en: history of psychology
+    eo: historio de psikologio
+    es: historia de la psicología
+    eu: Psikologiaren historia
+    fa: تاریخ روانشناسی
+    fi: psykologian historia
+    fr: histoire de la psychologie
+    ga: stair na síceolaíochta
+    gl: historia da psicoloxía
+    hi: मनोविज्ञान का इतिहास तथा शाखाएँ
+    hu: a pszichológia története
+    hy: Հոգեբանության պատմություն
+    hyw: Հոգեբանութեան պատմութիւն
+    id: Sejarah psikologi
+    is: Helstu ártöl í sögu bandarískrar sálfræði
+    it: storia della psicologia
+    ja: 心理学の歴史
+    kaa: Psixologiya táriyxi
+    kk: Психология тарихы
+    ko: 심리학의 역사
+    lt: Psichologijos istorija
+    lv: psiholoģijas vēsture
+    mk: историја на психологијата
+    nb: psykologiens historie
+    nl: geschiedenis van de psychologie
+    pa: ਮਨੋਵਿਗਿਆਨ ਦਾ ਇਤਿਹਾਸ
+    pl: Historia psychologii
+    ps: ارواپوهنې تاريخ
+    pt: história da psicologia
+    ru: история психологии
+    se: psykologiija historjá
+    sk: dejiny psychológie
+    sl: zgodovina psihologije
+    smn: psykologia historjá
+    sms: psykologia historia
+    sq: Historia e psikologjisë
+    sr: Istorija psihologije
+    sv: psykologins historia
+    ta: உளவியல் வரலாறு
+    tr: psikolojinin tarihi
+    uk: історія психології
+    uz: Psixologiya tarixi
+    yue: 心理學史
+    zh: 心理学史
 ---
-
 # [[History_of_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_psychology,261215|WD~History_of_psychology,261215]] 

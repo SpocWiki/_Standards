@@ -1,23 +1,110 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]]"
-    - "[[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]]"
-    - "[[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]]"
-    - "[[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]]"
-    - "[[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]]"
-    - "[[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]]"
-    - "[[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]]"
+  - '[[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]]'
+  - '[[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]]'
+  - '[[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]]'
+  - '[[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]]'
+  - '[[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]]'
+  - '[[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]]'
+  - '[[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]]"
-  - "[[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]]"
-  - "[[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]]"
-  - "[[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]]"
-  - "[[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]]"
-  - "[[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]]"
-  - "[[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]]"
+- '[[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]]'
+- '[[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]]'
+- '[[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]]'
+- '[[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]]'
+- '[[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]]'
+- '[[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]]'
+- '[[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]]'
+has_id_wikidata: Q917276
+dv_has_:
+  name_:
+    ar: منطقة دارين
+    be: Дар’енскі прабел
+    bn: দারিয়েন গ্যাপ
+    ca: Tap del Darién
+    cs: Darién
+    da: Tapón del Darién
+    de: Tapón del Darién
+    en: Darien Gap
+    eo: Darienio
+    es: región del Darién
+    et: Dariéni lünk
+    eu: Dariéngo eskualdea
+    fa: ناحیه دارین
+    fi: Darién Gap
+    fr: Région de Darién
+    he: נתק דריין
+    hu: Panama-földhíd
+    hy: Դարիենի պատնեշ
+    id: Celah Darién
+    it: Darién
+    ja: ダリエン地峡
+    ka: დარიენის ნაპრალი
+    kk: Дариен аралығы
+    ko: 다리엔 지협
+    lt: Darjeno sritis
+    mk: Дариенски Расцеп
+    nb: Tapón del Darién
+    nl: Darién
+    pl: Darién
+    pt: Região de Darién
+    ru: Дарьенский пробел
+    sh: Darijenski rascjep
+    shi: Tamnaḍt n Daryin
+    sl: Darienska vrzel
+    sr: Даријенски расцеп
+    sv: Darién-gapet
+    ta: டாரியன் வளைகுடா
+    th: ภูมิภาคดาริเอน
+    tr: Darién Boşluğu
+    uk: Дар'єнський пропуск
+    vec: Darién
+    yue: 達連隘口
+    zgh: ⵜⴰⵏⴱⴰⴹⵜ ⵏ ⴷⴰⵔⵢⵉⵏ
+    zh: 达连隘口
+    zh-hant: 達連隘口
+    zh-tw: 達連隘口
+aliases:
+- Celah Darién
+- Darien Gap
+- Darienio
+- Darienska vrzel
+- Darijenski rascjep
+- Darién
+- Darién Boşluğu
+- Darién Gap
+- Darién-gapet
+- Dariéngo eskualdea
+- Dariéni lünk
+- Darjeno sritis
+- Panama-földhíd
+- Região de Darién
+- región del Darién
+- Région de Darién
+- Tamnaḍt n Daryin
+- Tap del Darién
+- Tapón del Darién
+- Дар'єнський пропуск
+- Даријенски расцеп
+- Дариен аралығы
+- Дариенски Расцеп
+- Дарьенский пробел
+- Дар’енскі прабел
+- Դարիենի պատնեշ
+- נתק דריין
+- منطقة دارين
+- ناحیه دارین
+- দারিয়েন গ্যাপ
+- டாரியன் வளைகுடா
+- ภูมิภาคดาริเอน
+- დარიენის ნაპრალი
+- ⵜⴰⵏⴱⴰⴹⵜ ⵏ ⴷⴰⵔⵢⵉⵏ
+- ダリエン地峡
+- 达连隘口
+- 達連隘口
+- 다리엔 지협
 ---
-
 # [[Darién_Gap]] 
 
 > Darién Gap (UK: , US: , Spanish: Tapón del Darién, lit. 'Darién plug') 

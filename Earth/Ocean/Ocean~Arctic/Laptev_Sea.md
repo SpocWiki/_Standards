@@ -1,52 +1,132 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Laptev_Sea,7988]]"
-    - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea|Laptev_Sea]]"
-    - "[[/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public|Laptev_Sea.public]]"
-    - "[[/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal|Laptev_Sea.internal]]"
-    - "[[/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect|Laptev_Sea.protect]]"
-    - "[[/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private|Laptev_Sea.private]]"
-    - "[[/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal|Laptev_Sea.personal]]"
-    - "[[/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret|Laptev_Sea.secret]]"
+  - '[[../../../WikiData/WD~Laptev_Sea,7988]]'
+  - '[[/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea|Laptev_Sea]]'
+  - '[[/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public|Laptev_Sea.public]]'
+  - '[[/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal|Laptev_Sea.internal]]'
+  - '[[/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect|Laptev_Sea.protect]]'
+  - '[[/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private|Laptev_Sea.private]]'
+  - '[[/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal|Laptev_Sea.personal]]'
+  - '[[/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret|Laptev_Sea.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Laptev_Sea,7988]]"
-  - "[[/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea|Laptev_Sea]]"
-  - "[[/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public|Laptev_Sea.public]]"
-  - "[[/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal|Laptev_Sea.internal]]"
-  - "[[/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect|Laptev_Sea.protect]]"
-  - "[[/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private|Laptev_Sea.private]]"
-  - "[[/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal|Laptev_Sea.personal]]"
-  - "[[/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret|Laptev_Sea.secret]]"
-
+- '[[../../../WikiData/WD~Laptev_Sea,7988]]'
+- '[[/_Standards/Earth/Ocean/Ocean~Arctic/Laptev_Sea|Laptev_Sea]]'
+- '[[/_public/Earth/Ocean/Ocean~Arctic/Laptev_Sea.public|Laptev_Sea.public]]'
+- '[[/_internal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.internal|Laptev_Sea.internal]]'
+- '[[/_protect/Earth/Ocean/Ocean~Arctic/Laptev_Sea.protect|Laptev_Sea.protect]]'
+- '[[/_private/Earth/Ocean/Ocean~Arctic/Laptev_Sea.private|Laptev_Sea.private]]'
+- '[[/_personal/Earth/Ocean/Ocean~Arctic/Laptev_Sea.personal|Laptev_Sea.personal]]'
+- '[[/_secret/Earth/Ocean/Ocean~Arctic/Laptev_Sea.secret|Laptev_Sea.secret]]'
 aliases:
-  - Laptev Sea
-  - Nordenskiöld Sea
-  - мо́ре Норденшёльда
-  - Laptev_Sea
+- Bahari ya Laptev
+- Baybay Laptev
+- biển Laptev
+- Dagat Laptev
+- Deryaya Laptev
+- Deti Laptev
+- Laptefsee
+- Laptev
+- Laptev Bira
+- Laptev dengizi
+- Laptev Denizi
+- Laptev Hái
+- Laptev Samundar
+- Laptev Sea
+- Lapteva Maro
+- Laptevhaf
+- Laptevhavet
+- Laptevinmeri
+- Laptevite meri
+- Laptevlər dənizi
+- Laptevsee
+- Laptevsko more
+- Laptevu jūra
+- Laptevzee
+- Laptevzieë
+- Laptev_Sea
+- Laptevų jūra
+- Laptewsee
+- Laptyev-tenger
+- Laut Laptev
+- Mar de Laptev
+- mar de Làptev
+- Mar de Láptev
+- Mare di Laptev
+- Mare Lapteviorum
+- Marea Laptev
+- mer des Laptev
+- Mor Laptev
+- More Laptevovcov
+- Morje Laptevov
+- Morze Łaptiewów
+- moře Laptěvů
+- Muir Laptaiv
+- Môr Laptev
+- Nordenskiöld Sea
+- Θάλασσα Λάπτεφ
+- Лаптев теңізі
+- Лаптевдер деңизи
+- Лаптевийн хӀорд
+- Лаптевлар диңгезе
+- Лаптевлени тенгизи
+- Лаптевсен тинĕсĕ
+- Лаптевско Море
+- Лаптевтар байҕаллара
+- Лаптевтар диңгеҙе
+- Лаптевты денджыз
+- Лаптевъёслэн зарезьзы
+- Лаптевын тэнгис
+- мо́ре Норденшёльда
+- Мора Лапцевых
+- Море Лаптєвих
+- Море Лаптеви
+- море Лаптевых
+- Լապտևների ծով
+- ים לאפטב
+- بحر لابتيف
+- بحیرہ لیپٹف
+- دریای لاپتف
+- لاپتو دنیزی
+- لیپٹف سمندر
+- लापतेव समुद्र
+- लापतेव सागर
+- लाप्टेभ समुद्र
+- লাপ্তেভ সাগর
+- ਲਾਪਤੇਵ ਸਾਗਰ
+- லாப்டேவ் கடல்
+- ലാപ്ടേവ് കടൽ
+- ทะเลลัปเตฟ
+- ლაპტევების ზღვა
+- ლაპტევეფიშ ზუღა
+- សមុទ្រឡាប់តែវ
+- ラプテフ海
+- 拉普捷夫海
+- 拉普提夫海
+- 랍테프해
 has_id_wikidata: Q7988
 location:
-  - 76.0
-  - 125.0
+- 76.0
+- 125.0
 inflows:
-  - '[[_Standards/WikiData/WD~Anabar,82187]]'
-  - '[[_Standards/WikiData/WD~Khara_Ulakh,1108355]]'
-  - '[[_Standards/WikiData/WD~Omoloy,1416354]]'
-  - '[[_Standards/WikiData/WD~Chondon,2573766]]'
-  - '[[_Standards/WikiData/WD~Dzhagaryn,3717049]]'
-  - '[[_Standards/WikiData/WD~Muksunuokha,3866978]]'
-  - '[[_Standards/WikiData/WD~Sanga_Jurjach,3948363]]'
-  - '[[_Standards/WikiData/WD~Sellyakh,3954920]]'
-  - '[[_Standards/WikiData/WD~Uele,4006860]]'
-  - '[[_Standards/WikiData/WD~Bludnaya,12082974]]'
-  - '[[_Standards/WikiData/WD~Lena_River,46841]]'
+- '[[_Standards/WikiData/WD~Anabar,82187]]'
+- '[[_Standards/WikiData/WD~Khara_Ulakh,1108355]]'
+- '[[_Standards/WikiData/WD~Omoloy,1416354]]'
+- '[[_Standards/WikiData/WD~Chondon,2573766]]'
+- '[[_Standards/WikiData/WD~Dzhagaryn,3717049]]'
+- '[[_Standards/WikiData/WD~Muksunuokha,3866978]]'
+- '[[_Standards/WikiData/WD~Sanga_Jurjach,3948363]]'
+- '[[_Standards/WikiData/WD~Sellyakh,3954920]]'
+- '[[_Standards/WikiData/WD~Uele,4006860]]'
+- '[[_Standards/WikiData/WD~Bludnaya,12082974]]'
+- '[[_Standards/WikiData/WD~Lena_River,46841]]'
 instance_of: '[[_Standards/WikiData/WD~marginal_sea,204894]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Dmitry_Laptev,467626]]'
-  - '[[_Standards/WikiData/WD~Khariton_Laptev,724263]]'
+- '[[_Standards/WikiData/WD~Dmitry_Laptev,467626]]'
+- '[[_Standards/WikiData/WD~Khariton_Laptev,724263]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Q35541239,35541239]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q35541239,35541239]]'
 part_of: '[[_Standards/WikiData/WD~Arctic_Ocean,788]]'
 basin_country: '[[_Standards/WikiData/WD~Russia,159]]'
 country: '[[_Standards/WikiData/WD~Russia,159]]'
@@ -57,10 +137,113 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BD%D0%B0%D0%
 coordinate_location: Point(125.0 76.0)
 Commons_category: Laptev Sea
 native_label:
-  - Лаптевых Море
-  - Лаптевтар байҕаллара
+- Лаптевых Море
+- Лаптевтар байҕаллара
+dv_has_:
+  name_:
+    af: Laptefsee
+    ar: بحر لابتيف
+    ast: Mar de Láptev
+    avk: Laptev Bira
+    az: Laptevlər dənizi
+    azb: لاپتو دنیزی
+    ba: Лаптевтар диңгеҙе
+    bcl: Dagat Laptev
+    be: Мора Лапцевых
+    be-tarask: Мора Лапцевых
+    bg: Море Лаптеви
+    bn: লাপ্তেভ সাগর
+    br: Mor Laptev
+    bs: Laptevsko more
+    ca: mar de Làptev
+    ce: Лаптевийн хӀорд
+    cs: moře Laptěvů
+    cv: Лаптевсен тинĕсĕ
+    cy: Môr Laptev
+    da: Laptevhavet
+    de: Laptewsee
+    el: Θάλασσα Λάπτεφ
+    en: Laptev Sea
+    en-ca: Laptev Sea
+    en-gb: Laptev Sea
+    eo: Lapteva Maro
+    es: mar de Láptev
+    et: Laptevite meri
+    eu: Laptev
+    fa: دریای لاپتف
+    fi: Laptevinmeri
+    fr: mer des Laptev
+    fy: Laptevsee
+    ga: Muir Laptaiv
+    gl: Mar de Laptev
+    he: ים לאפטב
+    hi: लापतेव सागर
+    hif: Laptev Samundar
+    hr: Laptevsko more
+    hu: Laptyev-tenger
+    hy: Լապտևների ծով
+    id: Laut Laptev
+    ilo: Baybay Laptev
+    is: Laptevhaf
+    it: Mare di Laptev
+    ja: ラプテフ海
+    ka: ლაპტევების ზღვა
+    kk: Лаптев теңізі
+    km: សមុទ្រឡាប់តែវ
+    ko: 랍테프해
+    krc: Лаптевлени тенгизи
+    ku: Deryaya Laptev
+    ky: Лаптевдер деңизи
+    la: Mare Lapteviorum
+    li: Laptevzieë
+    lt: Laptevų jūra
+    lv: Laptevu jūra
+    mk: Лаптевско Море
+    ml: ലാപ്ടേവ് കടൽ
+    mn: Лаптевын тэнгис
+    mr: लापतेव समुद्र
+    ms: Laut Laptev
+    nan: Laptev Hái
+    nb: Laptevhavet
+    nds: Laptewsee
+    ne: लाप्टेभ समुद्र
+    nl: Laptevzee
+    nn: Laptevhavet
+    oc: Mar de Laptev
+    os: Лаптевты денджыз
+    pa: ਲਾਪਤੇਵ ਸਾਗਰ
+    pl: Morze Łaptiewów
+    pnb: لیپٹف سمندر
+    pt: Mar de Laptev
+    pt-br: Mar de Laptev
+    ro: Marea Laptev
+    ru: море Лаптевых
+    sah: Лаптевтар байҕаллара
+    sh: Laptevsko more
+    sk: More Laptevovcov
+    sl: Morje Laptevov
+    sq: Deti Laptev
+    sr: Лаптевско море
+    sv: Laptevhavet
+    sw: Bahari ya Laptev
+    ta: லாப்டேவ் கடல்
+    th: ทะเลลัปเตฟ
+    tr: Laptev Denizi
+    tt: Лаптевлар диңгезе
+    udm: Лаптевъёслэн зарезьзы
+    uk: Море Лаптєвих
+    ur: بحیرہ لیپٹف
+    uz: Laptev dengizi
+    vec: Mar de Laptev
+    vi: biển Laptev
+    war: Dagat Laptev
+    wuu: 拉普捷夫海
+    xmf: ლაპტევეფიშ ზუღა
+    yue: 拉普捷夫海
+    zh: 拉普捷夫海
+    zh-cn: 拉普捷夫海
+    zh-hant: 拉普提夫海
 ---
-
 # [[Laptev_Sea]] 
 
 #is_/same_as :: [[WD~Laptev_Sea,7988]]  

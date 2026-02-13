@@ -1,33 +1,239 @@
 ---
 aliases:
-  - Widerstand
-  - Resisteur
-  - Resistor
+- coogâs
+- direnç
+- dëgërlukaay
+- elektrisk modstand
+- ellenállás
+- erresistentzia
+- friotóir
+- gwrthydd
+- harzell
+- kikinza
+- motstand
+- Mötjstande
+- otpornik
+- perintang
+- processor resistor
+- resistencia
+- resistencia llétrica
+- Resisteur
+- Resistor
+- resistore
+- resistència elèctrica
+- resisténcia electrica
+- restitorium
+- rezisterii
+- rezistilo
+- rezistor
+- rezistorius
+- rezistors
+- rezistorët
+- rezistò
+- rezystor
+- rezėstuorios
+- résistance
+- résistor
+- takisti
+- tirûş
+- tiān-chó͘-khì
+- Tohitra (singa)
+- upor
+- vastus
+- viðnámstæki
+- Wedderstand
+- weerstand
+- Widerstand
+- Wierstande
+- Wjerstân
+- điện trở
+- αντιστάτης
+- отпорник
+- резістор
+- резистор
+- рэзістар
+- рэзыстар
+- ռեզիստոր
+- נגד
+- רעזיסטאר
+- الکتریکی مقاومت
+- بەرگر
+- دیرنچ
+- روک
+- ريزيسطور
+- مزاحم
+- مقاوم كهربائي
+- مقاومت
+- प्रतिरोधक
+- रेजिस्तर
+- रोधक
+- রোধক
+- ৰোধক
+- ਅਵਰੋਧਕ
+- மின்தடையம்
+- నిరోధకం
+- ರೋಧಕ
+- പ്രതിരോധകം
+- ප්රතිරෝධකය
+- ตัวต้านทาน
+- ໂຕຕ້ານໄຟຟ້າ
+- လျှပ်ခံ
+- რეზისტორი
+- រេស៊ីស្ទ័រ
+- 抵抗器
+- 电阻器
+- 電阻器
+- 저항기
 has_id_wikidata: Q5321
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0.25%20watts%20through-hole%20resistor.stl
 Commons_category: Resistors
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 different_from:
-  - '[[_Standards/WikiData/WD~resistance_movement,138796]]'
-  - '[[_Standards/WikiData/WD~Q1042672,1042672]]'
+- '[[_Standards/WikiData/WD~resistance_movement,138796]]'
+- '[[_Standards/WikiData/WD~Q1042672,1042672]]'
 has_characteristic: '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
 has_use:
-  - '[[_Standards/WikiData/WD~bleeder_resistor,322343]]'
-  - '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
+- '[[_Standards/WikiData/WD~bleeder_resistor,322343]]'
+- '[[_Standards/WikiData/WD~electrical_resistance,25358]]'
 icon:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Resistor%20symbol%20Europe.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%202.1.1.a.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Resistor%20symbol%20Europe.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%202.1.1.a.svg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/100%20ohm%20SMD%201206%20resistor.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/3%20Resistors.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Electronic-Axial-Lead-Resistors-Array.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/100%20ohm%20SMD%201206%20resistor.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/3%20Resistors.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Electronic-Axial-Lead-Resistors-Array.jpg
 instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/REZISTOR.html
 made_from_material: '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
 Nomenclature_for_Museum_Cataloging: 8812
 subclass_of: '[[_Standards/WikiData/WD~electronic_component,11653]]'
+dv_has_:
+  name_:
+    af: resistor
+    an: resistor
+    ar: مقاوم كهربائي
+    ary: ريزيسطور
+    as: ৰোধক
+    ast: resistencia llétrica
+    az: rezistor
+    azb: دیرنچ
+    ba: резистор
+    be: рэзістар
+    be-tarask: рэзыстар
+    bg: резистор
+    bn: রোধক
+    br: harzell
+    bs: otpornik
+    ca: resistència elèctrica
+    ce: резистор
+    ckb: بەرگر
+    crh: rezistor
+    cs: rezistor
+    cv: Резистор
+    cy: gwrthydd
+    da: elektrisk modstand
+    de: Widerstand
+    el: αντιστάτης
+    en: resistor
+    en-ca: resistor
+    en-gb: resistor
+    eo: rezistilo
+    es: resistor
+    et: takisti
+    eu: erresistentzia
+    fa: مقاومت
+    fi: vastus
+    fr: résistance
+    frr: Mötjstande
+    fy: Wjerstân
+    ga: friotóir
+    gl: resistencia
+    gsw: Widerstand
+    he: נגד
+    hi: प्रतिरोधक
+    hif: resistor
+    hr: otpornik
+    ht: rezistò
+    hu: ellenállás
+    hy: ռեզիստոր
+    ia: resistor
+    id: resistor
+    is: viðnámstæki
+    it: resistore
+    ja: 抵抗器
+    jv: résistor
+    ka: რეზისტორი
+    kk: резистор
+    km: រេស៊ីស្ទ័រ
+    kn: ರೋಧಕ
+    ko: 저항기
+    ku: tirûş
+    ky: резистор
+    la: restitorium
+    lmo: resistor
+    lo: ໂຕຕ້ານໄຟຟ້າ
+    lt: rezistorius
+    lv: rezistors
+    mag: प्रतिरोधक
+    mg: Tohitra (singa)
+    mk: отпорник
+    ml: പ്രതിരോധകം
+    mn: резистор
+    mr: रोधक
+    ms: perintang
+    my: လျှပ်ခံ
+    mzn: الکتریکی مقاومت
+    nan: tiān-chó͘-khì
+    nb: motstand
+    nds: Wedderstand
+    new: रेजिस्तर
+    nl: weerstand
+    nn: motstand
+    oc: resisténcia electrica
+    om: rezisterii
+    pa: ਅਵਰੋਧਕ
+    pl: rezystor
+    pms: Resistor
+    pnb: روک
+    pt: resistor
+    pt-br: resistor
+    ro: rezistor
+    ru: резистор
+    rue: резістор
+    sco: processor resistor
+    sgs: rezėstuorios
+    sh: otpornik
+    si: ප්රතිරෝධකය
+    sk: rezistor
+    sl: upor
+    smn: coogâs
+    sq: rezistorët
+    sr: отпорник
+    sr-ec: отпорник
+    sr-el: otpornik
+    stq: Wierstande
+    su: résistor
+    sv: resistor
+    sw: kikinza
+    ta: மின்தடையம்
+    te: నిరోధకం
+    tg: резистор
+    th: ตัวต้านทาน
+    tl: resistor
+    tr: direnç
+    tt: резистор
+    udm: резистор
+    uk: резистор
+    ur: مزاحم
+    uz: rezistor
+    vi: điện trở
+    war: resistor
+    wo: dëgërlukaay
+    wuu: 电阻器
+    yi: רעזיסטאר
+    yue: 電阻器
+    zh: 電阻器
 ---
-
 # [[Resistor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Resistor,5321|WD~Resistor,5321]] 

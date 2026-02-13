@@ -1,17 +1,43 @@
 ---
 aliases:
-  - causal fallacy
-  - false cause
-  - non causa pro causa
-  - Questionable cause
+- Causa qüestionable
+- causal fallacy
+- Cauze îndoielnice
+- falacia de causa cuestionable
+- false cause
+- non causa pro causa
+- Questionable cause
+- сумнівна причинність
+- נון קאוסה פרו קאוסה
+- السبب المشكوك فيه
+- مغالطهی علت پرسش برانگیز
+- সন্দেহজনক হেতু
+- เหตุที่น่าสงสัย
+- 虛假原因
 has_id_wikidata: Q2917891
 subclass_of:
-  - "[[_Standards/WikiData/WD~informal_fallacy,3312438]]"
-  - "[[_Standards/WikiData/WD~causal_reasoning,17004651]]"
-  - "[[_Standards/WikiData/WD~error,29485]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+- '[[_Standards/WikiData/WD~informal_fallacy,3312438]]'
+- '[[_Standards/WikiData/WD~causal_reasoning,17004651]]'
+- '[[_Standards/WikiData/WD~error,29485]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
+dv_has_:
+  name_:
+    ar: السبب المشكوك فيه
+    bn: সন্দেহজনক হেতু
+    ca: Causa qüestionable
+    en: questionable cause
+    es: falacia de causa cuestionable
+    fa: مغالطهی علت پرسش برانگیز
+    fr: Non causa pro causa
+    he: נון קאוסה פרו קאוסה
+    it: non causa pro causa
+    pfl: Non causa pro causa
+    ro: Cauze îndoielnice
+    sl: non causa pro causa
+    th: เหตุที่น่าสงสัย
+    uk: сумнівна причинність
+    zh: 虛假原因
 ---
-
 # [[Questionable_Cause]] 
 
 #is_/same_as :: [[WD~Questionable_Cause,2917891]] 

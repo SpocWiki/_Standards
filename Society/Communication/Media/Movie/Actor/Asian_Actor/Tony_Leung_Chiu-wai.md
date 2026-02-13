@@ -1,11 +1,92 @@
 ---
 aliases:
-  - Tony Leung Chiu-wai
-  - Liáng Cháowěi
-  - Tony Leung
-  - Tony_Leung_Chiu-wai
+- Liáng Cháowěi
+- Liòng Dièu-ūi
+- Lương Triều Vĩ
+- Toni Leunq
+- Tony Chiu Wai Leung
+- Tony Leung
+- Tony Leung Chiu Wai
+- Tony Leung Chiu-wai
+- Tony_Leung_Chiu-wai
+- Τόνι Λιούνγκ Τσίου Γουάι
+- Тоні Люн Чу Вай
+- Тони Люн
+- Տոնի Լյուն Չու Վայ
+- טוני לונג
+- تونى لونج تشيو واى
+- توني لونغ تشيو واي
+- تونی لیانق
+- تونی لیانگ
+- টনি লিউং চিউ-ওয়াই
+- ரொனி லியோங்
+- เหลียง เฉาเหว่ย์
+- 梁朝伟
+- 梁朝偉
+- 양조위
+has_id_wikidata: Q319001
+dv_has_:
+  name_:
+    ace: Tony Leung
+    ar: توني لونغ تشيو واي
+    arz: تونى لونج تشيو واى
+    az: Toni Leunq
+    azb: تونی لیانق
+    bn: টনি লিউং চিউ-ওয়াই
+    ca: Tony Leung
+    cdo: Liòng Dièu-ūi
+    cs: Tony Chiu Wai Leung
+    cy: Tony Leung
+    da: Tony Leung
+    de: Tony Leung Chiu Wai
+    el: Τόνι Λιούνγκ Τσίου Γουάι
+    en: Tony Leung
+    es: Tony Leung
+    eu: Tony Leung
+    fa: تونی لیانگ
+    fi: Tony Leung Chiu-Wai
+    fr: Tony Leung Chiu-wai
+    ga: Tony Leung
+    gl: Tony Leung Chiu-Wai
+    he: טוני לונג
+    hu: Tony Leung Chiu-wai
+    hy: Տոնի Լյուն Չու Վայ
+    iba: Tony Leung Chiu-wai
+    id: Tony Leung
+    it: Tony Leung Chiu-wai
+    ja: 梁朝偉
+    jv: Tony Leung
+    ko: 양조위
+    ms: Tony Leung Chiu-wai
+    nb: Tony Leung Chiu Wai
+    nl: Tony Leung
+    nn: Tony Leung Chiu Wai
+    pap: Tony Leung Chiu Wai
+    pl: Tony Leung Chiu Wai
+    pt: Tony Leung Chiu-Wai
+    pt-br: Tony Leung Chiu-Wai
+    ru: Тони Люн
+    sl: Tony Leung
+    sq: Tony Leung
+    su: Tony Leung
+    sv: Tony Leung Chiu Wai
+    ta: ரொனி லியோங்
+    th: เหลียง เฉาเหว่ย์
+    tr: Tony Leung Chiu-wai
+    uk: Тоні Люн Чу Вай
+    vi: Lương Triều Vĩ
+    wuu: 梁朝伟
+    yue: 梁朝偉
+    zh: 梁朝偉
+    zh-cn: 梁朝伟
+    zh-hans: 梁朝伟
+    zh-hant: 梁朝偉
+    zh-hk: 梁朝偉
+    zh-mo: 梁朝偉
+    zh-my: 梁朝伟
+    zh-sg: 梁朝伟
+    zh-tw: 梁朝偉
 ---
-
 #is_/different_from :: [[Tony_Leung_Ka-fai]] 
 
 #has_/time_/started :: 1962-06-27 

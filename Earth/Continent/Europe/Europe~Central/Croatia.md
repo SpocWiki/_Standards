@@ -1,6 +1,325 @@
 ---
 dv_has_:
   name_:
+    ab: Хорватиа
+    ace: Kroasia
+    ady: Хорватие
+    aeb-arab: كرواتيا
+    af: Kroasië
+    am: ክሮኤሽያ
+    ami: Croatia
+    an: Croacia
+    ang: Croatland
+    ann: Kuresha
+    anp: क्रोएशिया
+    ar: كرواتيا
+    arc: ܩܪܘܐܛܝܐ
+    ary: كرواتيا
+    arz: كرواتيا
+    ast: Croacia
+    av: Хорватия
+    avk: Xrvatska
+    awa: क्रोएशिया
+    ay: Kruwatiya
+    az: Xorvatiya
+    azb: کروواسی
+    ba: Хорватия
+    ban: Kroasia
+    bar: Krowozien
+    bcl: Kroasya
+    be: Харватыя
+    be-tarask: Харватыя
+    bew: Kroasi
+    bg: Хърватия
+    bho: क्रोशिया
+    bi: Croatia
+    blk: ခရိုအေးသျားခမ်းထီ
+    bn: ক্রোয়েশিয়া
+    bo: ཁུརོ་ཤི་ཡ།
+    bpy: ক্রোয়েশিয়া
+    br: Kroatia
+    bs: Hrvatska
+    bxr: Хорват
+    ca: Croàcia
+    cbk-zam: Croacia
+    cdo: Croatia
+    ce: Хорвати
+    ceb: Krowasya
+    ch: Croacia
+    chr: ᎧᎶᎡᏏᎠ
+    chy: Croatia
+    ckb: کرواتیا
+    co: Croazia
+    crh: Hırvatistan
+    crh-latn: Hırvatistan
+    cs: Chorvatsko
+    csb: Chòrwackô
+    cu: Хръватьска
+    cv: Хорвати
+    cy: Croatia
+    da: Kroatien
+    dag: Croatia
+    de: Kroatien
+    de-at: Kroatien
+    de-ch: Kroatien
+    diq: Xırvatıstan
+    dsb: Chorwatska
+    dty: क्रोएसिया
+    dv: ކުރޮއޭޝިއާ
+    dz: ཀུརོ་ཤི་ཡ
+    ee: Croatia
+    el: Κροατία
+    eml: Cruàsia
+    en: Croatia
+    en-ca: Croatia
+    en-gb: Croatia
+    en-us: Croatia
+    eo: Kroatio
+    es: Croacia
+    et: Horvaatia
+    eu: Kroazia
+    ext: Croácia
+    fa: کرواسی
+    ff: Korowaasiya
+    fi: Kroatia
+    fj: Croatia
+    fo: Kroatia
+    fr: Croatie
+    frp: Croacie
+    frr: Kroaatien
+    fur: Cravuazie
+    fy: Kroaasje
+    ga: an Chróit
+    gag: Horvatiya
+    gan: 克罗地亚
+    gcr: Kroasi
+    gd: A' Chròthais
+    gl: Croacia
+    glk: کرؤواسي
+    gn: Kyoasia
+    gom: क्रोएशिया
+    gom-deva: क्रोएशिया
+    gom-latn: Croatia
+    got: "\U0001033A\U00010342\U0001033F\U00010345\U00010330\U00010344\U00010343\U0001033E\U00010330"
+    gpe: Croatia
+    gsw: Kroatie
+    gu: ક્રોએશિયા
+    gv: Yn Chroit
+    ha: Kroatiya
+    hak: Croatia
+    haw: Koloatia
+    he: קרואטיה
+    hi: क्रोएशिया
+    hif: Croatia
+    hr: Hrvatska
+    hsb: Chorwatska
+    ht: Kroasi
+    hu: Horvátország
+    hy: Խորվաթիա
+    hyw: Խրուաթիա
+    ia: Croatia
+    id: Kroasia
+    ie: Croatia
+    ig: Kroatia
+    ik: Huvasiiq
+    ilo: Kroasia
+    io: Kroatia
+    is: Króatía
+    it: Croazia
+    ja: クロアチア
+    jam: Kruoyesha
+    jbo: xrvatskas
+    jv: Kroasia
+    ka: ხორვატია
+    kaa: Xorvatiya
+    kab: Kruwatya
+    kbd: Хоруатиэ
+    kbp: Krowasii
+    kcg: Ki̱rowesiya
+    kg: Kroatia
+    kge: Kroasia
+    kk: Хорватия
+    kl: Kroatia
+    km: ក្រូអាស៊ី
+    kn: ಕ್ರೊಯೆಶಿಯ
+    knc: Croatia
+    ko: 크로아티아
+    koi: Хӧрватска
+    ko-kp: 흐르바쯔까
+    krc: Хорватия
+    ku: Xirwatistan
+    kv: Хорватия
+    kw: Kroati
+    ky: Хорватия
+    la: Croatia
+    lad: Kroasia
+    lb: Kroatien
+    lez: Хорватия
+    lfn: Corvatsca
+    lg: Croatia
+    li: Kroatië
+    lij: Croàçia
+    liv: Horvātij
+    lld: Croazia
+    lmo: Cruazia
+    ln: Kroasia
+    lo: ປະເທດກຣົວຊີ
+    lrc: کرواسی
+    lt: Kroatija
+    ltg: Horvateja
+    lv: Horvātija
+    lzh: 克羅埃西亞
+    mad: Kroasia
+    mai: क्रोशिया
+    map-bms: Kroasia
+    mdf: Хорватия
+    mg: Krôasia
+    mhr: Хорватий
+    mi: Koroātia
+    min: Kroasia
+    mk: Хрватска
+    ml: ക്രൊയേഷ്യ
+    mn: Хорват
+    mni: ꯀ꯭ꯔꯣꯁꯤꯌꯥ
+    mo: Кроация
+    mr: क्रोएशिया
+    ms: Croatia
+    mt: Kroazja
+    mwl: Croácia
+    my: ခရိုအေးရှားနိုင်ငံ
+    myv: Хорватия Мастор
+    mzn: کرواسی
+    na: Kroaitsiya
+    nah: Croacia
+    nan: Croatia
+    nap: Croazia
+    nb: Kroatia
+    nds: Kroatien
+    nds-nl: Kroasië
+    ne: क्रोएसिया
+    new: क्रोएसिया
+    nl: Kroatië
+    nn: Kroatia
+    nov: Kroatia
+    nrm: Croatie
+    nv: Daalchííʼ Dadikʼą́ąhnii Bikéyah
+    oc: Croàcia
+    olo: Horvatii
+    om: Kirooshiyaa
+    or: କ୍ରୋଏସିଆ
+    os: Хорвати
+    pa: ਕ੍ਰੋਏਸ਼ੀਆ
+    pag: Kroasiya
+    pam: Kroasya
+    pap: Kroatia
+    pcd: Croachie
+    pdc: Kroaati
+    pi: क्रोएशिया
+    pih: Kroaysha
+    pl: Chorwacja
+    pms: Croassia
+    pnb: کروشیا
+    pnt: Κροατία
+    ps: کرواسيا
+    pt: Croácia
+    pt-br: Croácia
+    qu: Hurwatsuyu
+    rm: Croazia
+    rmy: Kroatiya
+    rn: Croacia
+    ro: Croația
+    roa-tara: Croazie
+    rsk: Горватска
+    ru: Хорватия
+    rue: Хорватія
+    rup: Croatia
+    rw: Korowatiya
+    sa: क्रोएशिया
+    sah: Хорватия
+    sat: ᱠᱨᱳᱭᱮᱥᱤᱭᱟ
+    sc: Croatzia
+    scn: Croazzia
+    sco: Croatie
+    sd: ڪروشيا
+    se: Kroatia
+    sg: Kroasïi
+    sgs: Kruoatėjė
+    sh: Hrvatska
+    shn: မိူင်းၶရူဝ်ႇဢေးသျႃး
+    si: ක්රොඒෂියා
+    sk: Chorvátsko
+    sl: Hrvaška
+    sm: Croatia
+    smn: Kroatia
+    sms: Kroatia
+    sn: Croatia
+    so: Kroatia
+    sq: Kroacia
+    sr: Хрватска
+    sr-ec: Хрватска
+    sr-el: Hrvatska
+    srn: Krvatkondre
+    ss: IKhuroshiya
+    st: Kroatia
+    stq: Kroatien
+    su: Kroasia
+    sv: Kroatien
+    sw: Kroatia
+    syl: ꠇꠥꠞꠦꠡꠤꠀ
+    szl: Chorwacyjo
+    szy: Croatia
+    ta: குரோவாசியா
+    tay: Croatia
+    te: క్రొయేషియా
+    tet: Kroásia
+    tg: Хорватия
+    th: ประเทศโครเอเชีย
+    tk: Horwatiýa
+    tl: Croatia
+    tly: Xorvatiyə
+    to: Kuloisia
+    tok: ma Lowasi
+    tpi: Krowesia
+    tr: Hırvatistan
+    trv: Croatia
+    ts: Croatia
+    tt: Хорватия
+    tum: Croatia
+    tw: Krowehyia
+    ty: Toroātia
+    udm: Хорватия
+    ug: كرودىيە
+    uk: Хорватія
+    ur: کروشیا
+    uz: Xorvatiya
+    vec: Croàsia
+    vep: Horvatii
+    vi: Croatia
+    vls: Kroatië
+    vo: Kroasän
+    vro: Horvaatia
+    wa: Crowaceye
+    war: Kroasya
+    wo: Korwaasi
+    wuu: 克罗地亚
+    xal: Хорватин Орн
+    xmf: ხორვატია
+    yi: קראאטיע
+    yo: Kroatíà
+    yue: 克羅地亞
+    za: Gwzlozdiya
+    zea: Kroaotië
+    zgh: ⴽⵕⵡⴰⵜⵢⴰ
+    zh: 克羅地亞
+    zh-cn: 克罗地亚
+    zh-hans: 克罗地亚
+    zh-hant: 克羅地亞
+    zh-hk: 克羅地亞
+    zh-mo: 克羅地亞
+    zh-my: 克罗地亚
+    zh-sg: 克罗地亚
+    zh-tw: 克羅埃西亞
+    zu: IKrowati
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Croatia
 dv_ISO4217-currency_alphabetic: HRK
@@ -31,9 +350,9 @@ dv_UNTERM_Chinese_Formal: 克罗地亚共和国
 dv_UNTERM_French_Formal: la République de Croatie
 dv_UNTERM_Russian: Хорватия
 dv_UNTERM_Russian_Formal: Республика Хорватия
-dv_Region_Name: "[[../../Europe]]"
-dv_Intermediate_Region_Name: "[[Croatia]]"
-dv_Sub-region_Name: "[[Southern Europe]]"
+dv_Region_Name: '[[../../Europe]]'
+dv_Intermediate_Region_Name: '[[Croatia]]'
+dv_Sub-region_Name: '[[Southern Europe]]'
 dv_Region: 150
 dv_Sub-region: 39
 dv_Geoname-ID: 3202326
@@ -56,232 +375,395 @@ dv_ISO2: HR
 dv_ISO3: HRV
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]"
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]]"
+  - '[[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]'
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]]'
 dv_has_name_de: Kroatien
 dv_Area-Total: 56538
 dv_Area-Land: 55920
-dv_has_place_continent: "[[../../Europe]]"
+dv_has_place_continent: '[[../../Europe]]'
 dv_VehicleCode: HR
-dv_Capital: "[[Croatia/Counties/Grad_Zagreb/City/Zagreb]]"
+dv_Capital: '[[Croatia/Counties/Grad_Zagreb/City/Zagreb]]'
 dv_Alcohol-l: 15.1
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 15.97
 dv_has_place_latitude: 45.8
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Croatia
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]"
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]]"
-
+- '[[../../../../WikiData/WD~Croatia,224|WD~Croatia,224]]'
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Croatia|Croatia]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Croatia.public|Croatia.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Croatia.internal|Croatia.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Croatia.protect|Croatia.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Croatia.private|Croatia.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Croatia.personal|Croatia.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Croatia.secret|Croatia.secret]]'
 aliases:
-  - Croatia
-  - Croacia
-  - Croatie
-  - كرواتيا
-  - 克罗地亚
-  - Хорватия
-  - the Republic of Croatia
-  - la República de Croacia
+- A' Chròthais
+- an Chróit
+- Chorvatsko
+- Chorvátsko
+- Chorwacja
+- Chorwacyjo
+- Chorwatska
+- Chòrwackô
+- Corvatsca
+- Cravuazie
+- Croachie
+- Croacia
+- Croacie
+- Croassia
+- Croatia
+- Croatie
+- Croatland
+- Croatzia
+- Croazia
+- Croazie
+- Croazzia
+- Croația
+- Crowaceye
+- Croàcia
+- Croàsia
+- Croàçia
+- Croácia
+- Cruazia
+- Cruàsia
+- Daalchííʼ Dadikʼą́ąhnii Bikéyah
+- Gwzlozdiya
+- Horvaatia
+- Horvateja
+- Horvatii
+- Horvatiya
+- Horvátország
+- Horvātij
+- Horvātija
+- Horwatiýa
+- Hrvatska
+- Hrvaška
+- Hurwatsuyu
+- Huvasiiq
+- Hırvatistan
+- IKhuroshiya
+- IKrowati
+- Kirooshiyaa
+- Ki̱rowesiya
+- Koloatia
+- Korowaasiya
+- Korowatiya
+- Koroātia
+- Korwaasi
+- Kroaasje
+- Kroaati
+- Kroaatien
+- Kroacia
+- Kroaitsiya
+- Kroaotië
+- Kroasi
+- Kroasia
+- Kroasiya
+- Kroasië
+- Kroasya
+- Kroasän
+- Kroasïi
+- Kroati
+- Kroatia
+- Kroatie
+- Kroatien
+- Kroatija
+- Kroatio
+- Kroatiya
+- Kroatië
+- Kroatíà
+- Kroaysha
+- Kroazia
+- Kroazja
+- Krowasii
+- Krowasya
+- Krowehyia
+- Krowesia
+- Krowozien
+- Kroásia
+- Kruoatėjė
+- Kruoyesha
+- Kruwatiya
+- Kruwatya
+- Krvatkondre
+- Króatía
+- Krôasia
+- Kuloisia
+- Kuresha
+- Kyoasia
+- la República de Croacia
+- ma Lowasi
+- the Republic of Croatia
+- Toroātia
+- Xirwatistan
+- Xorvatiya
+- Xorvatiyə
+- Xrvatska
+- xrvatskas
+- Xırvatıstan
+- Yn Chroit
+- Κροατία
+- Горватска
+- Кроация
+- Харватыя
+- Хорват
+- Хорватія
+- Хорвати
+- Хорватиа
+- Хорватие
+- Хорватий
+- Хорватин Орн
+- Хорватия
+- Хорватия Мастор
+- Хоруатиэ
+- Хрватска
+- Хръватьска
+- Хърватия
+- Хӧрватска
+- Խորվաթիա
+- Խրուաթիա
+- קראאטיע
+- קרואטיה
+- كرواتيا
+- كرودىيە
+- کرؤواسي
+- کرواتیا
+- کرواسيا
+- کرواسی
+- کروشیا
+- کروواسی
+- ڪروشيا
+- ܩܪܘܐܛܝܐ
+- ކުރޮއޭޝިއާ
+- क्रोएशिया
+- क्रोएसिया
+- क्रोशिया
+- ক্রোয়েশিয়া
+- ਕ੍ਰੋਏਸ਼ੀਆ
+- ક્રોએશિયા
+- କ୍ରୋଏସିଆ
+- குரோவாசியா
+- క్రొయేషియా
+- ಕ್ರೊಯೆಶಿಯ
+- ക്രൊയേഷ്യ
+- ක්රොඒෂියා
+- ประเทศโครเอเชีย
+- ປະເທດກຣົວຊີ
+- ཀུརོ་ཤི་ཡ
+- ཁུརོ་ཤི་ཡ།
+- ခရိုအေးရှားနိုင်ငံ
+- ခရိုအေးသျားခမ်းထီ
+- မိူင်းၶရူဝ်ႇဢေးသျႃး
+- ხორვატია
+- ክሮኤሽያ
+- ᎧᎶᎡᏏᎠ
+- ក្រូអាស៊ី
+- ᱠᱨᱳᱭᱮᱥᱤᱭᱟ
+- ⴽⵕⵡⴰⵜⵢⴰ
+- クロアチア
+- 克罗地亚
+- 克羅地亞
+- 克羅埃西亞
+- ꠇꠥꠞꠦꠡꠤꠀ
+- ꯀ꯭ꯔꯣꯁꯤꯌꯥ
+- 크로아티아
+- 흐르바쯔까
+- "\U0001033A\U00010342\U0001033F\U00010345\U00010330\U00010344\U00010343\U0001033E\U00010330"
 has_id_wikidata: Q224
 demonym:
-  - Crótach
-  - Chorvatka
-  - Chorvatky
-  - كرواتي
-  - كرواتية
-  - كرواتيين
-  - كرواتيات
-  - كرواتية
-  - croata
-  - Croatian
-  - Croate
-  - קרואטית
-  - horvát
-  - croato
-  - corvatsce
-  - хрватски
-  - croato
-  - كرواتي
-  - ক্রোয়েশীয়
-  - kroat
-  - kroater
-  - Kroatin
-  - kroatisch
-  - kroato
-  - Kroatiano
-  - croata
-  - croate
-  - croați
-  - хрватска
-  - kroatisk
-  - хорват
-  - хорвати
-  - хорватка
-  - croata
-  - croate
-  - Kroasänan
-  - Hrvatica
-  - Hrvat
-  - Chorvati
-  - كروات
-  - Chorvat
-  - Kroate
-  - kroatoj
-  - קרואטי
-  - croati
-  - Kroaat
-  - croat
-  - croată
-  - хорваты
-  - croati
+- Crótach
+- Chorvatka
+- Chorvatky
+- كرواتي
+- كرواتية
+- كرواتيين
+- كرواتيات
+- كرواتية
+- croata
+- Croatian
+- Croate
+- קרואטית
+- horvát
+- croato
+- corvatsce
+- хрватски
+- croato
+- كرواتي
+- ক্রোয়েশীয়
+- kroat
+- kroater
+- Kroatin
+- kroatisch
+- kroato
+- Kroatiano
+- croata
+- croate
+- croați
+- хрватска
+- kroatisk
+- хорват
+- хорвати
+- хорватка
+- croata
+- croate
+- Kroasänan
+- Hrvatica
+- Hrvat
+- Chorvati
+- كروات
+- Chorvat
+- Kroate
+- kroatoj
+- קרואטי
+- croati
+- Kroaat
+- croat
+- croată
+- хорваты
+- croati
 coordinate_location: Point(15.466667 45.25)
 MeSH_tree_code: Z01.542.248.295
 IPA_transcription:
-  - xɔrˈvät͡sjä
-  - kɾuːˈɑtsɪɑ
-  - xɐrˈvatʲɪjə
+- xɔrˈvät͡sjä
+- kɾuːˈɑtsɪɑ
+- xɐrˈvatʲɪjə
 coordinates_of_easternmost_point: Point(19.4480136 45.19537138)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Mongolia,711]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Saudi_Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Norway,20]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Denmark,35]]"
-  - "[[_Standards/WikiData/WD~Italy,38]]"
-  - "[[_Standards/WikiData/WD~Poland,36]]"
-  - "[[_Standards/WikiData/WD~Turkey,43]]"
-  - "[[_Standards/WikiData/WD~Austria,40]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Ukraine,212]]"
-  - "[[_Standards/WikiData/WD~Bulgaria,219]]"
-  - "[[_Standards/WikiData/WD~Albania,222]]"
-  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
-  - "[[_Standards/WikiData/WD~Montenegro,236]]"
-  - "[[_Standards/WikiData/WD~Holy_See,159583]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~Norway,20]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Ukraine,212]]'
+- '[[_Standards/WikiData/WD~Bulgaria,219]]'
+- '[[_Standards/WikiData/WD~Albania,222]]'
+- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+- '[[_Standards/WikiData/WD~Holy_See,159583]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Serbia,403]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Slovenia,215]]"
-  - "[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]"
-  - "[[_Standards/WikiData/WD~Montenegro,236]]"
-  - "[[_Standards/WikiData/WD~Liberland,19801186]]"
+- '[[_Standards/WikiData/WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Bosnia_and_Herzegovina,225]]'
+- '[[_Standards/WikiData/WD~Montenegro,236]]'
+- '[[_Standards/WikiData/WD~Liberland,19801186]]'
 member_of:
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~NATO,7184]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Council_of_Europe,8908]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~Eurocontrol,663492]]"
-  - "[[_Standards/WikiData/WD~Australia_Group,782942]]"
-  - "[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]"
-  - "[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~NATO,7184]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Council_of_Europe,8908]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Migration_Policy_Development,498496]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~Australia_Group,782942]]'
+- '[[_Standards/WikiData/WD~International_Holocaust_Remembrance_Alliance,823428]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Nuclear_Suppliers_Group,1480793]]'
+- '[[_Standards/WikiData/WD~Movement_Coordination_Centre_Europe,3866537]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
 part_of:
-  - "[[_Standards/WikiData/WD~European_Union,458]]"
-  - "[[_Standards/WikiData/WD~eurozone,8268]]"
-  - "[[_Standards/WikiData/WD~Southern_Europe,27449]]"
-  - "[[_Standards/WikiData/WD~Schengen_Area,1969730]]"
-  - "[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]"
+- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~eurozone,8268]]'
+- '[[_Standards/WikiData/WD~Southern_Europe,27449]]'
+- '[[_Standards/WikiData/WD~Schengen_Area,1969730]]'
+- '[[_Standards/WikiData/WD~post-Yugoslavia_states,10860602]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~Croatian,6654]]"
-  - "[[_Standards/WikiData/WD~Serbian,9299]]"
-  - "[[_Standards/WikiData/WD~Bosnian,9303]]"
-  - "[[_Standards/WikiData/WD~Istro-Romanian,33622]]"
-  - "[[_Standards/WikiData/WD~Istriot,35845]]"
-  - "[[_Standards/WikiData/WD~Sinte_Romani,1793299]]"
-  - "[[_Standards/WikiData/WD~Croatian_Sign_Language,3507506]]"
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Croatian,6654]]'
+- '[[_Standards/WikiData/WD~Serbian,9299]]'
+- '[[_Standards/WikiData/WD~Bosnian,9303]]'
+- '[[_Standards/WikiData/WD~Istro-Romanian,33622]]'
+- '[[_Standards/WikiData/WD~Istriot,35845]]'
+- '[[_Standards/WikiData/WD~Sinte_Romani,1793299]]'
+- '[[_Standards/WikiData/WD~Croatian_Sign_Language,3507506]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Zagreb,1435]]"
-  - "[[_Standards/WikiData/WD~Zagreb_County,27038]]"
-  - "[[_Standards/WikiData/WD~Krapina-Zagorje_County,57056]]"
-  - "[[_Standards/WikiData/WD~Sisak-Moslavina_County,57060]]"
-  - "[[_Standards/WikiData/WD~Karlovac_County,57071]]"
-  - "[[_Standards/WikiData/WD~Varaždin_County,57967]]"
-  - "[[_Standards/WikiData/WD~Koprivnica-Križevci_County,58026]]"
-  - "[[_Standards/WikiData/WD~Bjelovar-Bilogora_County,58060]]"
-  - "[[_Standards/WikiData/WD~Primorje-Gorski_Kotar_County,58071]]"
-  - "[[_Standards/WikiData/WD~Lika-Senj_County,58081]]"
-  - "[[_Standards/WikiData/WD~Virovitica-Podravina_County,58092]]"
-  - "[[_Standards/WikiData/WD~Požega-Slavonia_County,58111]]"
-  - "[[_Standards/WikiData/WD~Brod-Posavina_County,58129]]"
-  - "[[_Standards/WikiData/WD~Zadar_County,58146]]"
-  - "[[_Standards/WikiData/WD~Osijek-Baranja_County,58159]]"
-  - "[[_Standards/WikiData/WD~Šibenik-Knin_County,58194]]"
-  - "[[_Standards/WikiData/WD~Vukovar-Srijem_County,58225]]"
-  - "[[_Standards/WikiData/WD~Split-Dalmatia_County,58253]]"
-  - "[[_Standards/WikiData/WD~Istria_County,58268]]"
-  - "[[_Standards/WikiData/WD~Dubrovnik-Neretva_County,58289]]"
-  - "[[_Standards/WikiData/WD~Međimurje_County,58330]]"
-capital: "[[_Standards/WikiData/WD~Zagreb,1435]]"
+- '[[_Standards/WikiData/WD~Zagreb,1435]]'
+- '[[_Standards/WikiData/WD~Zagreb_County,27038]]'
+- '[[_Standards/WikiData/WD~Krapina-Zagorje_County,57056]]'
+- '[[_Standards/WikiData/WD~Sisak-Moslavina_County,57060]]'
+- '[[_Standards/WikiData/WD~Karlovac_County,57071]]'
+- '[[_Standards/WikiData/WD~Varaždin_County,57967]]'
+- '[[_Standards/WikiData/WD~Koprivnica-Križevci_County,58026]]'
+- '[[_Standards/WikiData/WD~Bjelovar-Bilogora_County,58060]]'
+- '[[_Standards/WikiData/WD~Primorje-Gorski_Kotar_County,58071]]'
+- '[[_Standards/WikiData/WD~Lika-Senj_County,58081]]'
+- '[[_Standards/WikiData/WD~Virovitica-Podravina_County,58092]]'
+- '[[_Standards/WikiData/WD~Požega-Slavonia_County,58111]]'
+- '[[_Standards/WikiData/WD~Brod-Posavina_County,58129]]'
+- '[[_Standards/WikiData/WD~Zadar_County,58146]]'
+- '[[_Standards/WikiData/WD~Osijek-Baranja_County,58159]]'
+- '[[_Standards/WikiData/WD~Šibenik-Knin_County,58194]]'
+- '[[_Standards/WikiData/WD~Vukovar-Srijem_County,58225]]'
+- '[[_Standards/WikiData/WD~Split-Dalmatia_County,58253]]'
+- '[[_Standards/WikiData/WD~Istria_County,58268]]'
+- '[[_Standards/WikiData/WD~Dubrovnik-Neretva_County,58289]]'
+- '[[_Standards/WikiData/WD~Međimurje_County,58330]]'
+capital: '[[_Standards/WikiData/WD~Zagreb,1435]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]"
-  - "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Adriatic_Sea,13924]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~unitary_state,179164]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~Mediterranean_country,51576574]]"
-official_language: "[[_Standards/WikiData/WD~Croatian,6654]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Croatia,8067]]"
-lowest_point: "[[_Standards/WikiData/WD~Adriatic_Sea,13924]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~unitary_state,179164]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
+official_language: '[[_Standards/WikiData/WD~Croatian,6654]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Croatia,8067]]'
+lowest_point: '[[_Standards/WikiData/WD~Adriatic_Sea,13924]]'
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Balkans,23522]]"
-  - "[[_Standards/WikiData/WD~Southeast_Europe,263686]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-country: "[[_Standards/WikiData/WD~Croatia,224]]"
+- '[[_Standards/WikiData/WD~Balkans,23522]]'
+- '[[_Standards/WikiData/WD~Southeast_Europe,263686]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+country: '[[_Standards/WikiData/WD~Croatia,224]]'
 suicide_rate: 11
 unemployment_rate: 17
 marriageable_age: 18
@@ -290,64 +772,64 @@ mains_voltage: 230
 VAT_rate: 25
 Democracy_Index: 6.5
 BTI_Status_Index:
-  - 8.3
-  - 7.91
-  - 7.93
-  - 8.07
-  - 8.13
-  - 8.17
-  - 8.25
-  - 8.57
-  - 8.71
+- 8.3
+- 7.91
+- 7.93
+- 8.07
+- 8.13
+- 8.17
+- 8.25
+- 8.57
+- 8.71
 birth_rate:
-  - 8.8
-  - 8.9
-  - 9.4
+- 8.8
+- 8.9
+- 9.4
 death_rate:
-  - 12.7
-  - 14.1
-  - 14.8
-  - 16.2
+- 12.7
+- 14.1
+- 14.8
+- 16.2
 total_fertility_rate: 1.46
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.hr,41008]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.hr,41008]]'
 Gini_coefficient: 28.9
 replaces:
-  - "[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]"
-  - "[[_Standards/WikiData/WD~Socialist_Republic_of_Croatia,209062]]"
-  - "[[_Standards/WikiData/WD~Eastern_Slavonia,_Baranja_and_Western_Syrmia,5330471]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Croatia,133015]]"
-anthem: "[[_Standards/WikiData/WD~Lijepa_naša_domovino,146502]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Croatia,184252]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Croatia,210726]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Croatia,215923]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Croatia,268984]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Croatia,371576]]"
+- '[[_Standards/WikiData/WD~Socialist_Federal_Republic_of_Yugoslavia,83286]]'
+- '[[_Standards/WikiData/WD~Socialist_Republic_of_Croatia,209062]]'
+- '[[_Standards/WikiData/WD~Eastern_Slavonia,_Baranja_and_Western_Syrmia,5330471]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Croatia,133015]]'
+anthem: '[[_Standards/WikiData/WD~Lijepa_naša_domovino,146502]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Croatia,184252]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Croatia,210726]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Croatia,215923]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Croatia,268984]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Croatia,371576]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Schuko,1123613]]"
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-central_bank: "[[_Standards/WikiData/WD~Croatian_National_Bank,1143457]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Croatia,1195270]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Croatia,1278383]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Croatia,2047394]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Croatia,2748196]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-highest_point: "[[_Standards/WikiData/WD~Sinjal,3183447]]"
+- '[[_Standards/WikiData/WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+central_bank: '[[_Standards/WikiData/WD~Croatian_National_Bank,1143457]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Croatia,1195270]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Croatia,1278383]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Croatia,2047394]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Croatia,2748196]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+highest_point: '[[_Standards/WikiData/WD~Sinjal,3183447]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Croatia,7112240]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Counties_of_Croatia,7658400]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Croatia,10815276]]"
-head_of_government: "[[_Standards/WikiData/WD~Andrej_Plenković,11685764]]"
-railway_traffic_side: "[[_Standards/WikiData/WD~right,14565199]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Croatia,7112240]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Counties_of_Croatia,7658400]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Croatia,10815276]]'
+head_of_government: '[[_Standards/WikiData/WD~Andrej_Plenković,11685764]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~192,25648834]]"
-  - "[[_Standards/WikiData/WD~93,25743498]]"
-  - "[[_Standards/WikiData/WD~94,25743500]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103168,27103168]]"
-open_data_portal: "[[_Standards/WikiData/WD~Portal_for_publishing_open_data_in_Croatia,97011945]]"
-different_from: "[[_Standards/WikiData/WD~Kroatien,128686072]]"
+- '[[_Standards/WikiData/WD~192,25648834]]'
+- '[[_Standards/WikiData/WD~93,25743498]]'
+- '[[_Standards/WikiData/WD~94,25743500]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103168,27103168]]'
+open_data_portal: '[[_Standards/WikiData/WD~Portal_for_publishing_open_data_in_Croatia,97011945]]'
+different_from: '[[_Standards/WikiData/WD~Kroatien,128686072]]'
 coordinates_of_northernmost_point: Point(16.37 46.55)
 coordinates_of_westernmost_point: Point(13.48968778 45.48693537)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dubrovnik%20june%202011..JPG
@@ -357,16 +839,16 @@ ISNI: 121120050
 Happy_Planet_Index_score: 46.2
 trunk_prefix: 0
 BTI_Governance_Index:
-  - 5.98
-  - 6.04
-  - 6.07
-  - 6.39
-  - 6.46
-  - 6.61
-  - 6.87
-  - 6.88
+- 5.98
+- 6.04
+- 6.07
+- 6.39
+- 6.46
+- 6.61
+- 6.87
+- 6.88
 Inequality_adjusted_Human_Development_Index: 0.797
-head_of_state: "[[_Standards/WikiData/WD~Zoran_Milanović,57687]]"
+head_of_state: '[[_Standards/WikiData/WD~Zoran_Milanović,57687]]'
 Human_Development_Index: 0.858
 GS1_country_code: 385
 maritime_identification_digits: 238
@@ -385,8 +867,8 @@ licence_plate_code: HR
 ISO_3166_1_alpha_2_code: HR
 FIPS_10_4_countries_and_regions_: HR
 NUTS_code:
-  - HR
-  - HR0
+- HR
+- HR0
 WIPO_ST_3: HR
 UIC_alphabetical_country_code: HR
 ISO_3166_1_alpha_3_code: HRV
@@ -394,51 +876,51 @@ ITU_letter_code: HRV
 IOC_country_code: CRO
 INSEE_countries_and_foreign_territories_code: 99119
 rural_population:
-  - 1610925
-  - 1633904
-  - 1718119
-  - 1738221
+- 1610925
+- 1633904
+- 1718119
+- 1738221
 Commons_category: Croatia
 hashtag: Croatia
-Unicode_character: 🇭🇷
+Unicode_character: "\U0001F1ED\U0001F1F7"
 Commons_gallery: Hrvatska
 Colon_Classification: SG--59222
 Krugosvet_article: strany_mira/HORVATIYA.html
 official_name:
-  - Chorvatská republika
-  - Republic of Croatia
-  - République de Croatie
-  - Republika Hrvatska
-  - Republica Croația
-  - Republiken Kroatien
-  - Хрватска
-  - Hrvatska
+- Chorvatská republika
+- Republic of Croatia
+- République de Croatie
+- Republika Hrvatska
+- Republica Croația
+- Republiken Kroatien
+- Хрватска
+- Hrvatska
 motto_text:
-  - Llawn bywyd
-  - Full of life
+- Llawn bywyd
+- Full of life
 native_label:
-  - Republika Hrvatska
-  - Hrvatska
+- Republika Hrvatska
+- Hrvatska
 short_name:
-  - Croația
-  - 🇭🇷
+- Croația
+- "\U0001F1ED\U0001F1F7"
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Croatia%20location%20map.svg
 male_population:
-  - 1877942
-  - 1888646
-  - 1969718
-  - 1976146
+- 1877942
+- 1888646
+- 1969718
+- 1976146
 female_population:
-  - 1977699
-  - 1990335
-  - 2077963
-  - 2089106
+- 1977699
+- 1990335
+- 2077963
+- 2089106
 geoshape: http://commons.wikimedia.org/data/main/Data:Croatia.map
 urban_population:
-  - 2244716
-  - 2245077
-  - 2327032
-  - 2329561
+- 2244716
+- 2245077
+- 2327032
+- 2329561
 population: 3871833
 life_expectancy: 78.02195
 PM20_geo_code: A40g
@@ -448,8 +930,8 @@ inception: 1991-06-25
 has_time_started: 1991-06-25
 Libris_URI: 64jlkbvq4b1l6f6
 official_website:
-  - https://vlada.gov.hr/en
-  - http://www.vlada.hr
+- https://vlada.gov.hr/en
+- http://www.vlada.hr
 GitHub_topic: croatia
 CIVICUS_Monitor_country_entry: croatia
 subreddit: croatia
@@ -460,32 +942,31 @@ country_calling_code: 385
 U_S_National_Archives_Identifier: 10045284
 BHCL_UUID: bbcd115b-c5ae-49ac-8b3c-ab8e07472b22
 location:
-  - 45.8
-  - 15.97
+- 45.8
+- 15.97
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Croatia
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - hr-HR
-  - sr
+- hr-HR
+- sr
 icon: flag-hr
 ---
-
 # [[Croatia]] 
 
 ## [[Croatia]] has Properties...

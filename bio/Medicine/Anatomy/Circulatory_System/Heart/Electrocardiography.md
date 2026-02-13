@@ -1,26 +1,189 @@
 ---
 aliases:
+- EKG
+- electrocardiografia
+- Electrocardiogram
+- Electrocardiograma
+- Electrocardiogramma
+- electrocardiogramă
+- electrocardiography
+- elektrocardiogram
+- elektrokardiografi
+- elektrokardiografia
+- elektrokardiografie
+- elektrokardiografiezh
+- elektrokardiografija
+- elektrokardiografio
+- Elektrokardiogram
+- elektrokardiograma
+- Elektrokardiogramm
+- Elektrokardiogramma
+- elektrokardiográfia
+- elektrokardiográmma
+- Elektrokardiogrāfija
+- elektrokardioqrafiya
+- elektrokardiyografi
+- Elektrokardyograpiya
+- eletrocardiograma
+- elettrocardiografia
+- Ilekchokaadiagrafi
+- leictreacardagrafaíocht
+- Sim-tiān-tô͘
+- sydänsähkökäyrä
+- électrocardiographie
+- Élektrokardyografi
+- điện tâm đồ
+- Ηλεκτροκαρδιογράφημα
+- електрокардіографія
+- електрокардиограм
+- Електрокардиограм - ЕКГ
+- Електрокардиограма
+- Электр-кардиограмма
+- электракардыяграфія
+- Электркардиограф
+- Электрокардиограмма
+- электрокардиография
+- Էլեկտրասրտագրություն
+- אלקטרוקרדיוגרם
+- اليڪٽرو ڪارڊيوگرافي
+- ای سی جی
+- برقی قلبی تخطیط
+- تخطيط كهربائية القلب
+- رسم قلب
+- زړه ګراف
+- نوار قلب
+- इ॰ सी॰ जी॰
+- छत्स्पंद विद्युत लेखा
+- ইলেকট্রোকার্ডিওগ্রাফি
+- இதய மின்துடிப்புப் பதிவி
+- ವಿದ್ಯುತ್ ಹೃಲ್ಲೇಖನ
+- ഇ.സി.ജി.
+- การตรวจคลื่นไฟฟ้าหัวใจ
+- སྙིང་གློག་རླབས་རིས་
+- အီလက်ထရို ကာဒီယိုဂရပ်ဖီ
+- ელექტროკარდიოგრაფია
+- 心电图
+- 心電図検査
+- 心電圖
+- 심전도
 has_id_wikidata: Q79785
-class_of_object_s_of_occurrence: "[[_Standards/WikiData/WD~electrical_conduction_system_of_the_heart,72711]]"
-part_of: "[[_Standards/WikiData/WD~electrophysiology,1154774]]"
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~electrical_conduction_system_of_the_heart,72711]]'
+part_of: '[[_Standards/WikiData/WD~electrophysiology,1154774]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~medical_test,2671652]]"
-  - "[[_Standards/WikiData/WD~diagnostic_test_in_cardiology,5038709]]"
-  - "[[_Standards/WikiData/WD~recording,13557414]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~electrocardiogram,13038557]]"
-instance_of: "[[_Standards/WikiData/WD~medical_test_type,55215251]]"
-described_by_source: "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
+- '[[_Standards/WikiData/WD~medical_test,2671652]]'
+- '[[_Standards/WikiData/WD~diagnostic_test_in_cardiology,5038709]]'
+- '[[_Standards/WikiData/WD~recording,13557414]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~electrocardiogram,13038557]]'
+instance_of: '[[_Standards/WikiData/WD~medical_test_type,55215251]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 Commons_category: ECG
 short_name:
-  - ECG
-  - EKG
-  - ЭКГ
+- ECG
+- EKG
+- ЭКГ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ekg%20normal%20bionerd.jpg
 MeSH_tree_code:
-  - E01.370.370.380.240
-  - E01.370.405.240
+- E01.370.370.380.240
+- E01.370.405.240
+dv_has_:
+  name_:
+    af: elektrokardiogram
+    ar: تخطيط كهربائية القلب
+    arz: رسم قلب
+    ast: Electrocardiograma
+    az: elektrokardioqrafiya
+    be: электракардыяграфія
+    be-tarask: электракардыяграфія
+    bg: Електрокардиограма
+    bn: ইলেকট্রোকার্ডিওগ্রাফি
+    bo: སྙིང་གློག་རླབས་རིས་
+    br: elektrokardiografiezh
+    bs: Elektrokardiogram
+    ca: electrocardiografia
+    cs: elektrokardiografie
+    cy: Electrocardiogram
+    da: elektrokardiografi
+    de: Elektrokardiogramm
+    de-ch: Elektrokardiogramm
+    el: Ηλεκτροκαρδιογράφημα
+    en: electrocardiography
+    en-ca: Electrocardiography
+    en-gb: electrocardiography
+    eo: elektrokardiografio
+    es: Electrocardiograma
+    et: elektrokardiogramm
+    eu: elektrokardiograma
+    fa: نوار قلب
+    fi: sydänsähkökäyrä
+    fr: électrocardiographie
+    ga: leictreacardagrafaíocht
+    gan: 心電圖
+    gcr: Élektrokardyografi
+    gl: electrocardiograma
+    he: אלקטרוקרדיוגרם
+    hi: इ॰ सी॰ जी॰
+    hr: elektrokardiogram
+    hu: elektrokardiográfia
+    hy: Էլեկտրասրտագրություն
+    id: Elektrokardiogram
+    it: elettrocardiografia
+    ja: 心電図検査
+    jam: Ilekchokaadiagrafi
+    ka: ელექტროკარდიოგრაფია
+    kk: Электркардиограф
+    kn: ವಿದ್ಯುತ್ ಹೃಲ್ಲೇಖನ
+    ko: 심전도
+    ks: ای سی جی
+    ku: EKG
+    ky: Электр-кардиограмма
+    la: Electrocardiogramma
+    lb: Elektrokardiogramm
+    lt: elektrokardiografija
+    lv: Elektrokardiogrāfija
+    mk: Електрокардиограм - ЕКГ
+    ml: ഇ.സി.ജി.
+    mr: छत्स्पंद विद्युत लेखा
+    my: အီလက်ထရို ကာဒီယိုဂရပ်ဖီ
+    nan: Sim-tiān-tô͘
+    nb: elektrokardiografi
+    nl: elektrocardiogram
+    nn: elektrokardiografi
+    pl: elektrokardiografia
+    ps: زړه ګراف
+    pt: eletrocardiograma
+    pt-br: eletrocardiograma
+    ro: electrocardiogramă
+    ru: электрокардиография
+    sah: Электрокардиограмма
+    sd: اليڪٽرو ڪارڊيوگرافي
+    se: elektrokardiográmma
+    sh: Elektrokardiogram
+    sk: elektrokardiografia
+    sl: elektrokardiografija
+    sq: elektrokardiografia
+    sr: електрокардиограм
+    sv: elektrokardiografi
+    ta: இதய மின்துடிப்புப் பதிவி
+    th: การตรวจคลื่นไฟฟ้าหัวใจ
+    tr: elektrokardiyografi
+    tt: Электрокардиограмма
+    uk: електрокардіографія
+    ur: برقی قلبی تخطیط
+    uz: Elektrokardiogramma
+    vi: điện tâm đồ
+    war: Elektrokardyograpiya
+    wuu: 心电图
+    yue: 心電圖
+    zh: 心电图
+    zh-cn: 心电图
+    zh-hans: 心电图
+    zh-hant: 心電圖
+    zh-hk: 心電圖
+    zh-mo: 心電圖
+    zh-my: 心电图
+    zh-sg: 心电图
+    zh-tw: 心電圖
 ---
-
 # [[Electrocardiography]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electrocardiography,79785|WD~Electrocardiography,79785]] 

@@ -1,97 +1,157 @@
 ---
 aliases:
-  - Lionel Andrés "Leo" Messi
-  - Lionel Andrés Messi
-  - Lionel Messi
-  - Lionel_Messi
-  - Messi,Lionel
+- Leonillus Messi
+- Lionel Andrés "Leo" Messi
+- Lionel Andrés Messi
+- Lionel Messi
+- Lionel Messiah
+- Lionel' Messi
+- Lionels Mesi
+- Lionel_Messi
+- Liýonel Messi
+- Lyunil Missi
+- Messi Lionel
+- Messi,Lionel
+- Λιονέλ Μέσι
+- Ліонел Месі
+- Ліонель Мессі
+- Ліянель Месі
+- Ліянэль Мэсі
+- Лионел Меси
+- Лионел Месси
+- Лионель Месси
+- Лионэл Мэсси
+- Месси
+- Месси Лионель
+- Месси, Лионел
+- Месси, Лионель
+- Լիոնել Մեսսի
+- ליאנעל מעסי
+- ליונל מסי
+- ليونيل مسي
+- ليونيل ميسى
+- ليونيل ميسي
+- ليۊنل مسي
+- لیو نل میسی
+- لیونل مسی
+- لیونل میسی
+- لیونل مېسي
+- لیۆنێل مێسی
+- लायोनेल मेस्सी
+- लियोनेल मेस्सी
+- লিঅ'নেল মেছি
+- লিওনেল মেসি
+- ਲਿਓਨਲ ਮੈਸੀ
+- ଲିଓନେଲ ମେସି
+- லியோனல் மெஸ்ஸி
+- లియోనెల్ మెస్సి
+- ಲಿಯೊನೆಲ್ ಮೆಸ್ಸಿ
+- ലയണൽ മെസ്സി
+- ลิโอเนล เมสซิ
+- ລີໂອເນລ ເມສຊີ
+- ལི་ཨོནེ་ལ མེ་ཞི
+- လီယွန်နယ် မက်ဆီ
+- ლიონელ მესი
+- ሊዮኔል ሜሲ
+- លីអូណែល មេសស៊ី
+- ᱞᱤᱭᱚᱱᱮᱞ ᱢᱮᱥᱤ
+- ⵍⵢⵓⵏⵉⵍ ⵎⵉⵙⵙⵉ
+- リオネル・メッシ
+- 利安奴·美斯
+- 利昂内尔·梅西
+- 力卬·梅西
+- 美斯
+- 萊納爾·梅西
+- ꠟꠤꠅꠘꠦꠟ ꠝꠦꠍꠤ
+- ꯂꯤꯑꯣꯅꯦꯜ ꯃꯦꯁꯤ
+- 리오넬 메시
 has_id_wikidata: Q615
 head_coach:
-  - '[[_Standards/WikiData/WD~Jordi_Roura_Solà,106136]]'
-  - '[[_Standards/WikiData/WD~Christophe_Galtier,129023]]'
-  - '[[_Standards/WikiData/WD~Pep_Guardiola,164038]]'
-  - '[[_Standards/WikiData/WD~Frank_Rijkaard,169098]]'
-  - '[[_Standards/WikiData/WD~Ronald_Koeman,192635]]'
-  - '[[_Standards/WikiData/WD~Luis_Enrique,222789]]'
-  - '[[_Standards/WikiData/WD~Tito_Vilanova,222924]]'
-  - '[[_Standards/WikiData/WD~Mauricio_Pochettino,313000]]'
-  - '[[_Standards/WikiData/WD~Gerardo_Martino,356773]]'
-  - '[[_Standards/WikiData/WD~Ernesto_Valverde,359118]]'
-  - '[[_Standards/WikiData/WD~Mirko_Jozić,383512]]'
-  - '[[_Standards/WikiData/WD~Mario_Zanabria,2064076]]'
-  - '[[_Standards/WikiData/WD~Quique_Setién,2444534]]'
-  - '[[_Standards/WikiData/WD~Pere_Gratacós,2627809]]'
-  - '[[_Standards/WikiData/WD~José_Yudica,3056191]]'
-  - '[[_Standards/WikiData/WD~Andrés_Rebottaro,4760255]]'
-  - '[[_Standards/WikiData/WD~Ricardo_Dabrowski,7322608]]'
-  - '[[_Standards/WikiData/WD~Jorge_Castelli,16493493]]'
-  - '[[_Standards/WikiData/WD~Roberto_Puppo,50097058]]'
+- '[[_Standards/WikiData/WD~Jordi_Roura_Solà,106136]]'
+- '[[_Standards/WikiData/WD~Christophe_Galtier,129023]]'
+- '[[_Standards/WikiData/WD~Pep_Guardiola,164038]]'
+- '[[_Standards/WikiData/WD~Frank_Rijkaard,169098]]'
+- '[[_Standards/WikiData/WD~Ronald_Koeman,192635]]'
+- '[[_Standards/WikiData/WD~Luis_Enrique,222789]]'
+- '[[_Standards/WikiData/WD~Tito_Vilanova,222924]]'
+- '[[_Standards/WikiData/WD~Mauricio_Pochettino,313000]]'
+- '[[_Standards/WikiData/WD~Gerardo_Martino,356773]]'
+- '[[_Standards/WikiData/WD~Ernesto_Valverde,359118]]'
+- '[[_Standards/WikiData/WD~Mirko_Jozić,383512]]'
+- '[[_Standards/WikiData/WD~Mario_Zanabria,2064076]]'
+- '[[_Standards/WikiData/WD~Quique_Setién,2444534]]'
+- '[[_Standards/WikiData/WD~Pere_Gratacós,2627809]]'
+- '[[_Standards/WikiData/WD~José_Yudica,3056191]]'
+- '[[_Standards/WikiData/WD~Andrés_Rebottaro,4760255]]'
+- '[[_Standards/WikiData/WD~Ricardo_Dabrowski,7322608]]'
+- '[[_Standards/WikiData/WD~Jorge_Castelli,16493493]]'
+- '[[_Standards/WikiData/WD~Roberto_Puppo,50097058]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - "[[_Standards/WikiData/WD~UEFA_Men's_Player_of_the_Year_Award,260117]]"
-  - '[[_Standards/WikiData/WD~UEFA_Club_Football_Awards,373232]]'
-  - '[[_Standards/WikiData/WD~Bravo_Award,554495]]'
-  - '[[_Standards/WikiData/WD~Footballer_of_the_Year_of_Argentina,645468]]'
-  - "[[_Standards/WikiData/WD~Onze_d'Or,1049896]]"
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~FIFPRO,1137250]]'
-  - "[[_Standards/WikiData/WD~Saint_George's_Cross,1139785]]"
-  - '[[_Standards/WikiData/WD~UEFA_Team_of_the_Year,1146578]]'
-  - '[[_Standards/WikiData/WD~UEFA_Club_Footballer_of_the_Year,1187699]]'
-  - '[[_Standards/WikiData/WD~Don_Balón_Award,1232365]]'
-  - '[[_Standards/WikiData/WD~Alejandro_buceta,1588911]]'
-  - '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
-  - '[[_Standards/WikiData/WD~Trofeo_Alfredo_Di_Stéfano,1808491]]'
-  - '[[_Standards/WikiData/WD~Globe_Soccer_Awards,2023724]]'
-  - "[[_Standards/WikiData/WD~FIFA_Ballon_d'Or,2291862]]"
-  - '[[_Standards/WikiData/WD~LFP_Awards,2436999]]'
-  - '[[_Standards/WikiData/WD~Trofeo_EFE,2473393]]'
-  - "[[_Standards/WikiData/WD~IFFHS_World's_Best_Playmaker,3304673]]"
-  - '[[_Standards/WikiData/WD~list_of_UEFA_Champions_League_top_scorers,3304695]]'
-  - '[[_Standards/WikiData/WD~FIFA_FIFPro_World_XI,3449063]]'
-  - '[[_Standards/WikiData/WD~FIFA_U_20_World_Cup_awards,3605303]]'
-  - '[[_Standards/WikiData/WD~Marca_Leyenda,3820035]]'
-  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
-  - '[[_Standards/WikiData/WD~Trofeo_Gol_Televisión,5642011]]'
-  - '[[_Standards/WikiData/WD~Q6084897,6084897]]'
-  - '[[_Standards/WikiData/WD~Premios_Protagonistas,6085147]]'
-  - '[[_Standards/WikiData/WD~Mastercard_All_Star_Team,11919494]]'
-  - '[[_Standards/WikiData/WD~La_Liga_Player_of_the_Month,15474655]]'
-  - '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
-  - "[[_Standards/WikiData/WD~The_Best_FIFA_Men's_Player,28156245]]"
-  - '[[_Standards/WikiData/WD~Trofeo_Aldo_Rovira,28226317]]'
-  - '[[_Standards/WikiData/WD~The_Guardian_100_Best_Footballers_in_the_World,48806555]]'
-  - "[[_Standards/WikiData/WD~IFFHS_World's_Best_Top_Goal_Scorer,55736282]]"
-  - '[[_Standards/WikiData/WD~El_País_King_of_European_Soccer,56063946]]'
-  - '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
-  - '[[_Standards/WikiData/WD~Premi_Barça_Jugadors,60760198]]'
-  - "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082]]"
-  - "[[_Standards/WikiData/WD~IFFHS_World's_Best_International_Goal_Scorer,104783694]]"
-  - "[[_Standards/WikiData/WD~IFFHS_World's_Best_Top_Division_Goal_Scorer,109561661]]"
-  - "[[_Standards/WikiData/WD~IFFHS_World's_Best_Player,109701907]]"
-  - '[[_Standards/WikiData/WD~IFFHS_World_Team,109701924]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
+- "[[_Standards/WikiData/WD~UEFA_Men's_Player_of_the_Year_Award,260117]]"
+- '[[_Standards/WikiData/WD~UEFA_Club_Football_Awards,373232]]'
+- '[[_Standards/WikiData/WD~Bravo_Award,554495]]'
+- '[[_Standards/WikiData/WD~Footballer_of_the_Year_of_Argentina,645468]]'
+- "[[_Standards/WikiData/WD~Onze_d'Or,1049896]]"
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~FIFPRO,1137250]]'
+- "[[_Standards/WikiData/WD~Saint_George's_Cross,1139785]]"
+- '[[_Standards/WikiData/WD~UEFA_Team_of_the_Year,1146578]]'
+- '[[_Standards/WikiData/WD~UEFA_Club_Footballer_of_the_Year,1187699]]'
+- '[[_Standards/WikiData/WD~Don_Balón_Award,1232365]]'
+- '[[_Standards/WikiData/WD~Alejandro_buceta,1588911]]'
+- '[[_Standards/WikiData/WD~Laureus_World_Sports_Award_for_Sportsman_of_the_Year,1808301]]'
+- '[[_Standards/WikiData/WD~Trofeo_Alfredo_Di_Stéfano,1808491]]'
+- '[[_Standards/WikiData/WD~Globe_Soccer_Awards,2023724]]'
+- "[[_Standards/WikiData/WD~FIFA_Ballon_d'Or,2291862]]"
+- '[[_Standards/WikiData/WD~LFP_Awards,2436999]]'
+- '[[_Standards/WikiData/WD~Trofeo_EFE,2473393]]'
+- "[[_Standards/WikiData/WD~IFFHS_World's_Best_Playmaker,3304673]]"
+- '[[_Standards/WikiData/WD~list_of_UEFA_Champions_League_top_scorers,3304695]]'
+- '[[_Standards/WikiData/WD~FIFA_FIFPro_World_XI,3449063]]'
+- '[[_Standards/WikiData/WD~FIFA_U_20_World_Cup_awards,3605303]]'
+- '[[_Standards/WikiData/WD~Marca_Leyenda,3820035]]'
+- '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+- '[[_Standards/WikiData/WD~Trofeo_Gol_Televisión,5642011]]'
+- '[[_Standards/WikiData/WD~Q6084897,6084897]]'
+- '[[_Standards/WikiData/WD~Premios_Protagonistas,6085147]]'
+- '[[_Standards/WikiData/WD~Mastercard_All_Star_Team,11919494]]'
+- '[[_Standards/WikiData/WD~La_Liga_Player_of_the_Month,15474655]]'
+- '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
+- "[[_Standards/WikiData/WD~The_Best_FIFA_Men's_Player,28156245]]"
+- '[[_Standards/WikiData/WD~Trofeo_Aldo_Rovira,28226317]]'
+- '[[_Standards/WikiData/WD~The_Guardian_100_Best_Footballers_in_the_World,48806555]]'
+- "[[_Standards/WikiData/WD~IFFHS_World's_Best_Top_Goal_Scorer,55736282]]"
+- '[[_Standards/WikiData/WD~El_País_King_of_European_Soccer,56063946]]'
+- '[[_Standards/WikiData/WD~diamond_Konex_award,56872155]]'
+- '[[_Standards/WikiData/WD~Premi_Barça_Jugadors,60760198]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or_Dream_Team,101116082]]"
+- "[[_Standards/WikiData/WD~IFFHS_World's_Best_International_Goal_Scorer,104783694]]"
+- "[[_Standards/WikiData/WD~IFFHS_World's_Best_Top_Division_Goal_Scorer,109561661]]"
+- "[[_Standards/WikiData/WD~IFFHS_World's_Best_Player,109701907]]"
+- '[[_Standards/WikiData/WD~IFFHS_World_Team,109701924]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 position_played_on_team_speciality:
-  - '[[_Standards/WikiData/WD~midfielder,193592]]'
-  - '[[_Standards/WikiData/WD~forward,280658]]'
+- '[[_Standards/WikiData/WD~midfielder,193592]]'
+- '[[_Standards/WikiData/WD~forward,280658]]'
 sponsor:
-  - '[[_Standards/WikiData/WD~Gatorade,304992]]'
-  - '[[_Standards/WikiData/WD~Mastercard,489921]]'
-  - '[[_Standards/WikiData/WD~Budweiser,610672]]'
-  - '[[_Standards/WikiData/WD~Lay_s,723513]]'
-  - '[[_Standards/WikiData/WD~Hard_Rock_Cafe,918151]]'
-  - '[[_Standards/WikiData/WD~Ooredoo,919935]]'
-  - '[[_Standards/WikiData/WD~OrCam_device,20716433]]'
-  - '[[_Standards/WikiData/WD~Adidas_AG,3895]]'
-  - '[[_Standards/WikiData/WD~Konami,45700]]'
-  - '[[_Standards/WikiData/WD~Pepsi,47719]]'
+- '[[_Standards/WikiData/WD~Gatorade,304992]]'
+- '[[_Standards/WikiData/WD~Mastercard,489921]]'
+- '[[_Standards/WikiData/WD~Budweiser,610672]]'
+- '[[_Standards/WikiData/WD~Lay_s,723513]]'
+- '[[_Standards/WikiData/WD~Hard_Rock_Cafe,918151]]'
+- '[[_Standards/WikiData/WD~Ooredoo,919935]]'
+- '[[_Standards/WikiData/WD~OrCam_device,20716433]]'
+- '[[_Standards/WikiData/WD~Adidas_AG,3895]]'
+- '[[_Standards/WikiData/WD~Konami,45700]]'
+- '[[_Standards/WikiData/WD~Pepsi,47719]]'
 relative:
-  - '[[_Standards/WikiData/WD~Emanuel_Biancucchi,448730]]'
-  - '[[_Standards/WikiData/WD~Maxi_Biancucchi,943409]]'
+- '[[_Standards/WikiData/WD~Emanuel_Biancucchi,448730]]'
+- '[[_Standards/WikiData/WD~Maxi_Biancucchi,943409]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Leo,606764]]'
-  - '[[_Standards/WikiData/WD~Lionel,9022830]]'
-  - '[[_Standards/WikiData/WD~Andrés,51394]]'
+- '[[_Standards/WikiData/WD~Leo,606764]]'
+- '[[_Standards/WikiData/WD~Lionel,9022830]]'
+- '[[_Standards/WikiData/WD~Andrés,51394]]'
 occupation: '[[_Standards/WikiData/WD~association_football_player,937857]]'
 ethnic_group: '[[_Standards/WikiData/WD~Italian_Argentines,1056744]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~The_Wallace_Collection,1327919]]'
@@ -101,68 +161,68 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 employer: '[[_Standards/WikiData/WD~Inter_Miami_CF,16844931]]'
 member_of_sports_team: '[[_Standards/WikiData/WD~Inter_Miami_CF,16844931]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 participant_in: '[[_Standards/WikiData/WD~World_Cup_Golden_Ball,17355204]]'
 position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~Panama_Papers,23702848]]'
-  - '[[_Standards/WikiData/WD~trial_of_Lionel_and_Jorge_Messi,41496125]]'
+- '[[_Standards/WikiData/WD~Panama_Papers,23702848]]'
+- '[[_Standards/WikiData/WD~trial_of_Lionel_and_Jorge_Messi,41496125]]'
 spouse: '[[_Standards/WikiData/WD~Antonela_Roccuzzo,32999543]]'
 father: '[[_Standards/WikiData/WD~Jorge_Messi,41500870]]'
 family_name: '[[_Standards/WikiData/WD~José_Gervasio_Artigas,41500966]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 defender: '[[_Standards/WikiData/WD~Cristóbal_Martell_Pérez_Alcalde,83051849]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Argentine_Spanish,85146618]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Argentine_Spanish,85146618]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
 native_language: '[[_Standards/WikiData/WD~Argentine_Spanish,85146618]]'
 child:
-  - '[[_Standards/WikiData/WD~Aparicio_Sarabia,108049158]]'
-  - '[[_Standards/WikiData/WD~Mateo_Messi_Roccuzzo,108049261]]'
-  - '[[_Standards/WikiData/WD~Ciro_Messi_Roccuzzo,108049303]]'
+- '[[_Standards/WikiData/WD~Aparicio_Sarabia,108049158]]'
+- '[[_Standards/WikiData/WD~Mateo_Messi_Roccuzzo,108049261]]'
+- '[[_Standards/WikiData/WD~Ciro_Messi_Roccuzzo,108049303]]'
 country_for_sport: '[[_Standards/WikiData/WD~Argentina,414]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Spain,29]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 residence:
-  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
-  - '[[_Standards/WikiData/WD~Miami,8652]]'
-  - '[[_Standards/WikiData/WD~Paris,90]]'
-  - '[[_Standards/WikiData/WD~Rosario,52535]]'
+- '[[_Standards/WikiData/WD~Barcelona,1492]]'
+- '[[_Standards/WikiData/WD~Miami,8652]]'
+- '[[_Standards/WikiData/WD~Paris,90]]'
+- '[[_Standards/WikiData/WD~Rosario,52535]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 field_of_work: '[[_Standards/WikiData/WD~association_football,2736]]'
 league_or_competition: '[[_Standards/WikiData/WD~Ligue_1,13394]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career:
-  - 3
-  - 5
-  - 7
-  - 474
+- 3
+- 5
+- 7
+- 474
 number_of_children: 3
 number_of_matches_played_races_starts:
-  - 4
-  - 5
+- 4
+- 5
 mass: 72
 height: 169
 social_media_followers:
-  - 3930000
-  - 827608
-  - 475409940
+- 3930000
+- 827608
+- 475409940
 sport_number: 10
 place_of_birth: '[[_Standards/WikiData/WD~Rosario,52535]]'
 Commons_category: Lionel Messi
 pseudonym:
-  - Leo
-  - LM10
-  - D10S
-  - El Messías
-  - La Pulga
-  - Leíto
-  - Leo Messi
-  - Lío
+- Leo
+- LM10
+- D10S
+- El Messías
+- La Pulga
+- Leíto
+- Leo Messi
+- Lío
 date_of_birth: 1987-06-24T00:00:00Z
 work_period_start_: 2004-10-16T00:00:00Z
 Baidu_Tieba_name: 梅西
@@ -173,8 +233,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lionel%20Messi%20NE%20
 video: http://commons.wikimedia.org/wiki/Special:FilePath/FC%20Barcelona%20-%20Chelsea%20FC%20-%20Messi%20misses%20a%20penalty.ogv
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lionel%20Andr%C3%A9s%20Messi%20-%20Name.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Messi.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lionel%20Andr%C3%A9s%20Messi%20-%20Name.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Messi.ogg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Paseo%20de%20los%20Ol%C3%ADmpicos%20Rosario%202019%20110.jpg
 official_website: https://messi.com
 ISNI: 0000000116817603
@@ -185,8 +245,222 @@ X_Twitter_username: fundacionmessi
 Instagram_username: leomessi
 Facebook_username: LeoMessi
 IPA_transcription: ljoˈnel anˈdɾes ˈmesi
+dv_has_:
+  name_:
+    ab: Месси, Лионел
+    acm: ليونيل مسي
+    af: Lionel Messi
+    am: ሊዮኔል ሜሲ
+    an: Lionel Messi
+    ang: Lionel Messi
+    ar: ليونيل ميسي
+    arn: Lionel Messi
+    arq: ليونيل ميسي
+    ary: ليونيل ميسي
+    arz: ليونيل ميسى
+    as: লিঅ'নেল মেছি
+    ast: Lionel Messi
+    ay: Lionel Messi
+    az: Lionel Messi
+    azb: لیونل مسی
+    ba: Месси Лионель
+    ban: Lionel Messi
+    bar: Lionel Messi
+    bcl: Lionel Messi
+    be: Ліянель Месі
+    be-tarask: Ліянэль Мэсі
+    bew: Lionel Messi
+    bg: Лионел Меси
+    bjn: Lionel Messi
+    bn: লিওনেল মেসি
+    bo: ལི་ཨོནེ་ལ མེ་ཞི
+    br: Lionel Messi
+    bs: Lionel Messi
+    ca: Lionel Messi
+    ceb: Lionel Messi
+    ckb: لیۆنێل مێسی
+    co: Lionel Messi
+    cs: Lionel Messi
+    cv: Месси Лионель
+    cy: Lionel Messi
+    da: Lionel Messi
+    dag: Lionel Messi
+    de: Lionel Messi
+    de-ch: Lionel Messi
+    diq: Lionel Messi
+    dtp: Lionel Messi
+    dty: लियोनेल मेस्सी
+    el: Λιονέλ Μέσι
+    eml: Lionel Messi
+    en: Lionel Messi
+    en-ca: Lionel Messi
+    en-gb: Lionel Messi
+    eo: Lionel Messi
+    es: Lionel Messi
+    es-419: Lionel Messi
+    et: Lionel Messi
+    eu: Lionel Messi
+    ext: Lionel Messi
+    fa: لیونل مسی
+    fi: Lionel Messi
+    fo: Lionel Messi
+    fr: Lionel Messi
+    fy: Lionel Messi
+    ga: Lionel Messi
+    gl: Lionel Messi
+    glk: ليۊنل مسي
+    gn: Lionel Messi
+    gom: Lionel Messi
+    gor: Lionel Messi
+    gpe: Lionel Messi
+    gsw: Lionel Messi
+    guc: Lionel Messi
+    gv: Lionel Messi
+    ha: Lionel Messi
+    haw: Lionel Messi
+    he: ליונל מסי
+    hi: लियोनेल मेस्सी
+    hif: Lionel Messi
+    hr: Lionel Messi
+    hrx: Lionel Messi
+    ht: Lionel Messi
+    hu: Lionel Messi
+    hy: Լիոնել Մեսսի
+    hyw: Լիոնել Մեսսի
+    ia: Lionel Messi
+    id: Lionel Messi
+    ie: Lionel Messi
+    ig: Lionel Messi
+    io: Lionel Messi
+    is: Lionel Messi
+    it: Lionel Messi
+    ja: リオネル・メッシ
+    jv: Lionel Messi
+    ka: ლიონელ მესი
+    kaa: Lionel Messi
+    kab: Lionel Messi
+    kcg: Lionel Messi
+    ki: Lionel Messi
+    kk: Лионель Месси
+    kl: Lionel Messi
+    km: លីអូណែល មេសស៊ី
+    kn: ಲಿಯೊನೆಲ್ ಮೆಸ್ಸಿ
+    knc: Lionel Messi
+    ko: 리오넬 메시
+    ks: لیو نل میسی
+    ku: Lionel Messi
+    kus: Lionel Messiah
+    ky: Месси, Лионел
+    la: Leonillus Messi
+    lad: Lionel Messi
+    lb: Lionel Messi
+    lez: Лионель Месси
+    li: Lionel Messi
+    lmo: Lionel Messi
+    lo: ລີໂອເນລ ເມສຊີ
+    lrc: لیونل مسی
+    lt: Lionel Messi
+    lua: Lionel Messi
+    lv: Lionels Mesi
+    mag: लियोनेल मेस्सी
+    mai: लियोनेल मेस्सी
+    mdf: Лионэл Мэсси
+    mg: Lionel Messi
+    mhr: Месси, Лионель
+    min: Lionel Messi
+    mk: Лионел Меси
+    ml: ലയണൽ മെസ്സി
+    mn: Лионель Месси
+    mni: ꯂꯤꯑꯣꯅꯦꯜ ꯃꯦꯁꯤ
+    mr: लायोनेल मेस्सी
+    ms: Lionel Messi
+    mt: Lionel Messi
+    mul: Lionel Messi
+    my: လီယွန်နယ် မက်ဆီ
+    mzn: لیونل مسی
+    nah: Lionel Messi
+    nan: Lionel Messi
+    nap: Lionel Messi
+    nb: Lionel Messi
+    nds: Lionel Messi
+    nds-nl: Lionel Messi
+    ne: लियोनेल मेस्सी
+    nl: Lionel Messi
+    nn: Lionel Messi
+    ny: Lionel Messi
+    oc: Lionel Messi
+    or: ଲିଓନେଲ ମେସି
+    os: Лионель Месси
+    pa: ਲਿਓਨਲ ਮੈਸੀ
+    pam: Lionel Messi
+    pap: Lionel Messi
+    pcm: Lionel Messi
+    pl: Lionel Messi
+    pms: Lionel Messi
+    pnb: لیونل میسی
+    ps: لیونل مېسي
+    pt: Lionel Messi
+    pt-br: Lionel Messi
+    qu: Lionel Messi
+    ro: Lionel Messi
+    ru: Лионель Месси
+    rue: Ліонел Месі
+    sah: Месси, Лионель
+    sat: ᱞᱤᱭᱚᱱᱮᱞ ᱢᱮᱥᱤ
+    sc: Lionel Messi
+    scn: Lionel Messi
+    sco: Lionel Messi
+    sh: Lionel Messi
+    shi: Lyunil Missi
+    sk: Lionel Messi
+    sl: Lionel Messi
+    sm: Lionel Messi
+    so: Lionel Messi
+    sq: Lionel Messi
+    sr: Лионел Меси
+    su: Lionel Messi
+    sv: Lionel Messi
+    sw: Lionel Messi
+    syl: ꠟꠤꠅꠘꠦꠟ ꠝꠦꠍꠤ
+    szl: Lionel Messi
+    ta: லியோனல் மெஸ்ஸி
+    te: లియోనెల్ మెస్సి
+    tet: Lionel Messi
+    tg: Лионел Месси
+    th: ลิโอเนล เมสซิ
+    ti: ሊዮኔል ሜሲ
+    tk: Liýonel Messi
+    tl: Lionel Messi
+    tly: Lionel Messi
+    tr: Lionel Messi
+    tt: Лионел Месси
+    tyv: Месси
+    uk: Ліонель Мессі
+    ur: لیونل میسی
+    uz: Lionel Messi
+    vec: Lionel Messi
+    vep: Lionel' Messi
+    vi: Lionel Messi
+    vls: Lionel Messi
+    vo: Lionel Messi
+    vro: Messi Lionel
+    wa: Lionel Messi
+    war: Lionel Messi
+    wuu: 力卬·梅西
+    xmf: ლიონელ მესი
+    yi: ליאנעל מעסי
+    yo: Lionel messi
+    yue: 美斯
+    zgh: ⵍⵢⵓⵏⵉⵍ ⵎⵉⵙⵙⵉ
+    zh: 利昂内尔·梅西
+    zh-cn: 利昂内尔·梅西
+    zh-hans: 利昂内尔·梅西
+    zh-hant: 利昂内尔·梅西
+    zh-hk: 利安奴·美斯
+    zh-my: 利昂内尔·梅西
+    zh-sg: 利昂内尔·梅西
+    zh-tw: 萊納爾·梅西
 ---
-
 # [[Messi,Lionel]] 
 
 #is_/same_as :: [[WD~Lionel_Messi,615]] 

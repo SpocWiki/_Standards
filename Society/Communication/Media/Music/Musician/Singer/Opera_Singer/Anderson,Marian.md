@@ -1,34 +1,54 @@
 ---
 aliases:
-  - Marian_Anderson
-  - Marian Anderson
-  - Anderson
-  - Anderson,Marian
+- Anderson
+- Anderson,Marian
+- chian
+- Marian Anderson
+- Marian Andersonová
+- Mariana Anderson
+- Marian_Anderson
+- Marijan Anderson
+- Μάριαν Άντερσον
+- Маріан Андерсон
+- Мариан Андерсон
+- Мариан Андерсън
+- Мэрыян Андэрсан
+- Մարիան Անդերսոն
+- מריאן אנדרסון
+- ماريان أندرسون
+- ماريان اندرسون
+- مارین اندرسون
+- ਮਾਰੀਅਨ ਐਂਡਰਸਨ
+- மரியன் ஆண்டர்சன்
+- マリアン・アンダーソン
+- 瑪麗安·安德森
+- 瑪麗安安德森
+- 매리언 앤더슨
 has_id_wikidata: Q231923
 cause_of_death:
-  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
-  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~heart_failure,181754]]'
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~chamber_music,189201]]'
-  - '[[_Standards/WikiData/WD~spirituals,212024]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
-  - '[[_Standards/WikiData/WD~singing,27939]]'
+- '[[_Standards/WikiData/WD~chamber_music,189201]]'
+- '[[_Standards/WikiData/WD~spirituals,212024]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~singing,27939]]'
 member_of: '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
-  - '[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]'
-  - '[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]'
-  - "[[_Standards/WikiData/WD~Connecticut_Women's_Hall_of_Fame,5161648]]"
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Blackwell_Award,46944187]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~honorary_degree_from_Spelman_College,121364143]]'
-  - "[[_Standards/WikiData/WD~Ladies'_Home_Journal_Women_of_the_Year,121834720]]"
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
-  - '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
+- '[[_Standards/WikiData/WD~Spingarn_Medal,1994926]]'
+- '[[_Standards/WikiData/WD~Litteris_et_Artibus,3332220]]'
+- "[[_Standards/WikiData/WD~Connecticut_Women's_Hall_of_Fame,5161648]]"
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Blackwell_Award,46944187]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~honorary_degree_from_Spelman_College,121364143]]'
+- "[[_Standards/WikiData/WD~Ladies'_Home_Journal_Women_of_the_Year,121834720]]"
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Grammy_Awards,41254]]'
 relative: '[[_Standards/WikiData/WD~James_DePreist,1356135]]'
 family_name: '[[_Standards/WikiData/WD~Anderson,1848748]]'
 occupation: '[[_Standards/WikiData/WD~opera_singer,2865819]]'
@@ -38,19 +58,19 @@ educated_at: '[[_Standards/WikiData/WD~South_Philadelphia_High_School,4022424]]'
 place_of_burial: '[[_Standards/WikiData/WD~Eden_Cemetery,5336824]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Minnesota_GivensAuthors,103138537]]'
+- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Minnesota_GivensAuthors,103138537]]'
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 given_name: '[[_Standards/WikiData/WD~Marian,20155725]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
-  - '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
-  - '[[_Standards/WikiData/WD~Our_hidden_heritage_Pennsylvania_women_in_history,120064765]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+- '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
+- '[[_Standards/WikiData/WD~Our_hidden_heritage_Pennsylvania_women_in_history,120064765]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 archives_at: '[[_Standards/WikiData/WD~Kislak_Center_for_Special_Collections,_Rare_Books_and_Manuscripts,63441162]]'
 artist_files_at: '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 spouse: '[[_Standards/WikiData/WD~Orpheus_Hodge_Fisher,111677232]]'
@@ -73,8 +93,114 @@ U_S_National_Archives_Identifier: 10582747
 Europeana_entity: agent/base/147168
 DPLA_subject_term: Anderson, Marian, 1897-1993
 work_period_start_: 1925-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Marian Anderson
+    an: Marian Anderson
+    ar: ماريان أندرسون
+    arz: ماريان اندرسون
+    ast: Marian Anderson
+    ba: Мариан Андерсон
+    bar: Marian Anderson
+    be-tarask: Мэрыян Андэрсан
+    bg: Мариан Андерсън
+    br: Marian Anderson
+    ca: Marian Anderson
+    co: Marian Anderson
+    cs: Marian Andersonová
+    cy: Marian Anderson
+    da: Marian Anderson
+    de: Marian Anderson
+    de-at: Marian Anderson
+    de-ch: Marian Anderson
+    diq: Marian Anderson
+    ee: Marian Anderson
+    el: Μάριαν Άντερσον
+    en: Marian Anderson
+    en-ca: Marian Anderson
+    en-gb: Marian Anderson
+    eo: Marian Anderson
+    es: Marian Anderson
+    et: Marian Anderson
+    eu: Marian Anderson
+    fa: مارین اندرسون
+    fi: Marian Anderson
+    fr: Marian Anderson
+    frp: Marian Anderson
+    fur: Marian Anderson
+    ga: Marian Anderson
+    gd: Marian Anderson
+    gl: Marian Anderson
+    gsw: Marian Anderson
+    ha: Marian Anderson
+    he: מריאן אנדרסון
+    hr: Marian Anderson
+    hu: Marian Anderson
+    hy: Մարիան Անդերսոն
+    ia: Marian Anderson
+    id: Marian Anderson
+    ie: Marian Anderson
+    ig: Marian Anderson
+    ilo: Marian Anderson
+    io: Marian Anderson
+    is: Marian Anderson
+    it: Marian Anderson
+    ja: マリアン・アンダーソン
+    kg: Marian Anderson
+    kk: Мариан Андерсон
+    ko: 매리언 앤더슨
+    la: Mariana Anderson
+    lb: Marian Anderson
+    li: Marian Anderson
+    lij: Marian Anderson
+    mg: Marian Anderson
+    min: Marian Anderson
+    ms: Marian Anderson
+    mul: Marian Anderson
+    nap: Marian Anderson
+    nb: Marian Anderson
+    nds: Marian Anderson
+    nds-nl: Marian Anderson
+    nl: Marian Anderson
+    nn: Marian Anderson
+    nrm: Marian Anderson
+    oc: Marian Anderson
+    pa: ਮਾਰੀਅਨ ਐਂਡਰਸਨ
+    pap: Marian Anderson
+    pcd: Marian Anderson
+    pdc: Marian Anderson
+    pl: Marian Anderson
+    pms: Marian Anderson
+    pt: Marian Anderson
+    pt-br: Marian Anderson
+    rm: Marian Anderson
+    ro: Marian Anderson
+    ru: Мариан Андерсон
+    sc: Marian Anderson
+    scn: Marian Anderson
+    sco: Marian Anderson
+    sk: Marian Andersonová
+    sl: Marian Anderson
+    sq: Marian Anderson
+    sr: Marijan Anderson
+    sr-el: Marian Anderson
+    sv: Marian Anderson
+    sw: Marian Anderson
+    ta: மரியன் ஆண்டர்சன்
+    tr: Marian Anderson
+    uk: Маріан Андерсон
+    vec: Marian Anderson
+    vi: Marian Anderson
+    vls: Marian Anderson
+    vo: Marian Anderson
+    wa: Marian Anderson
+    war: Marian Anderson
+    wo: Marian Anderson
+    yue: 瑪麗安安德森
+    zh: 瑪麗安·安德森
+    zh-hant: chian
+    zu: Marian Anderson
 ---
-
 # [[Anderson,Marian]] 
 
 #is_/same_as :: [[WD~Marian_Anderson,231923]] 

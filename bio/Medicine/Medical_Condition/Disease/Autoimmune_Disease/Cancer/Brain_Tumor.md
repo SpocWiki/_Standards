@@ -1,32 +1,202 @@
 ---
 aliases:
-  - brain cancer
-  - brain tumor
-  - Brain_Tumor
-  - Brain Tumor
+- aase inçhyn
+- agydaganat
+- aivokasvain
+- beyin tümörü
+- beyin şişi
+- brain cancer
+- brain tumor
+- brain tumour
+- Brain_Tumor
+- breinatümör
+- breingewas
+- Burmuineko tumore
+- cerba tumoro
+- Gehiertumor
+- hersentumor
+- Hirntumor
+- hjernesvulst
+- hjärntumör
+- Intrakranijalni tumori
+- Kanseri y’ubwonko
+- Kovímba bɔngɔ́
+- miya shishi
+- možganski tumor
+- nowotwory ośrodkowego układu nerwowego
+- nádor mozku
+- Nádory mozgu
+- Penyakit barah otak
+- punu’ a pucu’
+- siad inchinne
+- smadzeņu audzējs
+- Smegenų navikai
+- tumeur du cerveau
+- tumoare cerebrală
+- Tumor cerebral
+- Tumor cerebri
+- Tumor ha utok
+- Tumor mozga
+- Tumor otak
+- Tumor sa utak
+- tumore cerebrale
+- Tumori i trurit
+- Tumori lobanjske duplje
+- Tumorê mezgi
+- tumur tal-moħħ
+- tyfiant ar yr ymennydd
+- u não
+- Εγκεφαλικός όγκος
+- баш мие шеше
+- интракранијални тумор
+- Интракранијални тумори
+- мозъчен тумор
+- опухоль головного мозга
+- пухліна галаўнога мозгу
+- пухліна мозгу
+- пухлина головного мозку
+- тумор на мозок
+- Գլխուղեղի ուռուցք
+- גידול מוחי
+- تومور مغزی
+- د ماغزو تومور
+- دؠمٲغی ٹیوٗمَر
+- دماغی سرطان
+- ورم الدماغ
+- मस्तिष्क अर्बुद
+- মস্তিষ্কের টিউমার
+- ਬ੍ਰੇਨ ਟਿਊਮਰ
+- ମସ୍ତିଷ୍କ ଅର୍ବୁଦ
+- மூளைக் கட்டி
+- మెదడు క్యాన్సర్
+- ಮೆದುಳಿನ ಕ್ಯಾನ್ಸರ್ ಗೆಡ್ದೆ(ಊತ)
+- ಮೆದುಳು ಕಂಡೆ
+- മസ്തിഷ്ക മുഴ
+- เนื้องอกของสมอง
+- ཀླད་སྐྲན་
+- ტვინის სიმსივნე
+- 脑肿瘤
+- 脳腫瘍
+- 腦癌
+- 腦腫瘤
+- 뇌종양
 has_id_wikidata: Q233309
 health_specialty:
-  - '[[_Standards/WikiData/WD~neurology,83042]]'
-  - '[[_Standards/WikiData/WD~oncology,162555]]'
-  - '[[_Standards/WikiData/WD~neurosurgery,188449]]'
+- '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~oncology,162555]]'
+- '[[_Standards/WikiData/WD~neurosurgery,188449]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557]]'
-  - '[[_Standards/WikiData/WD~intracranial_tumor,11702952]]'
+- '[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557]]'
+- '[[_Standards/WikiData/WD~intracranial_tumor,11702952]]'
 anatomical_locations: '[[_Standards/WikiData/WD~brain,1073]]'
 DiseasesDB: 30781
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hirnmetastase%20MRT-T1%20KM.jpg
 described_at_URL:
-  - https://www.cancer.net/cancer-types/brain-tumor
-  - https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084
-  - https://www.webmd.com/cancer/brain-cancer/brain-tumors-in-adults
+- https://www.cancer.net/cancer-types/brain-tumor
+- https://www.mayoclinic.org/diseases-conditions/brain-tumor/symptoms-causes/syc-20350084
+- https://www.webmd.com/cancer/brain-cancer/brain-tumors-in-adults
 P8189: 987007283700505171
 IMDb_keyword: brain-tumor
 MeSH_tree_code:
-  - C04.588.614.250.195
-  - C10.228.140.211
-  - C10.551.240.250
+- C04.588.614.250.195
+- C10.228.140.211
+- C10.551.240.250
+dv_has_:
+  name_:
+    af: breingewas
+    ar: ورم الدماغ
+    ast: Tumor cerebral
+    az: beyin şişi
+    be: пухліна галаўнога мозгу
+    be-tarask: пухліна мозгу
+    bg: мозъчен тумор
+    bn: মস্তিষ্কের টিউমার
+    bo: ཀླད་སྐྲན་
+    ca: tumor cerebral
+    cs: nádor mozku
+    cy: tyfiant ar yr ymennydd
+    da: hjernesvulst
+    de: Hirntumor
+    diq: Tumorê mezgi
+    el: Εγκεφαλικός όγκος
+    en: brain tumor
+    en-ca: brain tumour
+    en-gb: brain tumour
+    en-us: brain tumor
+    eo: cerba tumoro
+    es: tumor cerebral
+    eu: Burmuineko tumore
+    fa: تومور مغزی
+    fi: aivokasvain
+    fr: tumeur du cerveau
+    ga: siad inchinne
+    gl: tumor cerebral
+    gv: aase inçhyn
+    he: גידול מוחי
+    hi: मस्तिष्क अर्बुद
+    hr: Tumor mozga
+    hu: agydaganat
+    hy: Գլխուղեղի ուռուցք
+    id: Tumor otak
+    it: tumore cerebrale
+    ja: 脳腫瘍
+    ka: ტვინის სიმსივნე
+    kn: ಮೆದುಳಿನ ಕ್ಯಾನ್ಸರ್ ಗೆಡ್ದೆ(ಊತ)
+    ko: 뇌종양
+    ks: دؠمٲغی ٹیوٗمَر
+    la: Tumor cerebri
+    lb: Gehiertumor
+    ln: Kovímba bɔngɔ́
+    lt: Smegenų navikai
+    lv: smadzeņu audzējs
+    mk: тумор на мозок
+    ml: മസ്തിഷ്ക മുഴ
+    ms: Penyakit barah otak
+    mt: tumur tal-moħħ
+    nb: hjernesvulst
+    nl: hersentumor
+    nn: hjernesvulst
+    or: ମସ୍ତିଷ୍କ ଅର୍ବୁଦ
+    pa: ਬ੍ਰੇਨ ਟਿਊਮਰ
+    pl: nowotwory ośrodkowego układu nerwowego
+    ps: د ماغزو تومور
+    pt: tumor cerebral
+    ro: tumoare cerebrală
+    ru: опухоль головного мозга
+    rw: Kanseri y’ubwonko
+    sh: Tumori lobanjske duplje
+    sk: Nádory mozgu
+    sl: možganski tumor
+    sq: Tumori i trurit
+    sr: интракранијални тумор
+    sr-ec: Интракранијални тумори
+    sr-el: Intrakranijalni tumori
+    su: Tumor otak
+    sv: hjärntumör
+    szy: punu’ a pucu’
+    ta: மூளைக் கட்டி
+    tcy: ಮೆದುಳು ಕಂಡೆ
+    te: మెదడు క్యాన్సర్
+    th: เนื้องอกของสมอง
+    tl: Tumor sa utak
+    tr: beyin tümörü
+    tt: баш мие шеше
+    uk: пухлина головного мозку
+    ur: دماغی سرطان
+    uz: miya shishi
+    vi: u não
+    vo: breinatümör
+    war: Tumor ha utok
+    wuu: 脑肿瘤
+    yue: 腦癌
+    zh: 脑肿瘤
+    zh-cn: 脑肿瘤
+    zh-hans: 脑肿瘤
+    zh-hant: 腦腫瘤
+    zh-hk: 腦腫瘤
+    zh-sg: 脑肿瘤
+    zh-tw: 腦腫瘤
 ---
-
 # [[Brain_Tumor]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Brain_tumor,233309|WD~Brain_tumor,233309]] 

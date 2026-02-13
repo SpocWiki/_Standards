@@ -1,9 +1,68 @@
 ---
 aliases:
-  - Vampyromorpha
+- Vampirdintenfische
+- Vampiromorf
+- Vampirtintenfischähnliche
+- vampyrblekkspruter
+- Vampyromorpha
+- Vampyromorphida
+- Vampyroteuthis infernalis
+- vampýrovky
+- Wampirzyce
+- вампироморфы
+- Лигње-вампири
+- דיונונים ערפדיים
+- حباريات مصاصة الدماء
+- خونآشامریختان
+- コウモリダコ目
+- 幽灵蛸目
+- 幽靈蛸目
+- 흡혈오징어목
 title: Vampyroteuthis infernalis
+has_id_wikidata: Q579822
+dv_has_:
+  name_:
+    ar: حباريات مصاصة الدماء
+    arz: حباريات مصاصة الدماء
+    ast: Vampyroteuthis infernalis
+    az: Vampyromorphida
+    bg: Vampyromorpha
+    ca: Vampiromorf
+    ceb: Vampyromorpha
+    cs: vampýrovky
+    de: Vampirtintenfischähnliche
+    en: Vampyromorphida
+    es: Vampyromorphida
+    fa: خونآشامریختان
+    fi: Vampyromorpha
+    fr: Vampyromorphida
+    ga: Vampyromorpha
+    he: דיונונים ערפדיים
+    hu: Vampyromorphida
+    id: Vampyromorphida
+    it: Vampyromorpha
+    ja: コウモリダコ目
+    ko: 흡혈오징어목
+    la: Vampyroteuthis infernalis
+    mul: Vampyromorpha
+    nb: vampyrblekkspruter
+    nds: Vampirdintenfische
+    nl: Vampyromorpha
+    pl: Wampirzyce
+    pt: Vampyromorphida
+    ro: Vampyromorpha
+    ru: вампироморфы
+    sq: Vampyromorpha
+    sr: Лигње-вампири
+    tr: Vampyromorphida
+    uk: Vampyromorpha
+    vi: Vampyromorphida
+    war: Vampyromorpha
+    zh: 幽灵蛸目
+    zh-cn: 幽灵蛸目
+    zh-hans: 幽灵蛸目
+    zh-tw: 幽靈蛸目
 ---
-
 # [[Vampyromorpha]] 
 
 The Vampire Squid 

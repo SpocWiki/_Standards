@@ -1,39 +1,65 @@
 ---
-has_time_started: 1949-01-01 
+has_time_started: 1949-01-01
 aliases:
+- Lego
+- LEGO (ludilo)
+- Leqo
+- Лего
+- Лего компани
+- לגו
+- לעגא
+- ليجو
+- ليغو
+- ليگو
+- ليݢو
+- لگو
+- لیگو (کھلونا)
+- لێگۆ
+- લેગો
+- லெகோ
+- లెగో
+- ലെഗൗ
+- เลโก้
+- ლეგო
+- レゴ
+- 乐高
+- 乐高积木
+- 樂高
+- 樂高積木
+- 레고
 has_id_wikidata: Q170484
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Lego_minifigure,133803]]"
-  - "[[_Standards/WikiData/WD~Lego_set,6518582]]"
-  - "[[_Standards/WikiData/WD~Lego_brick,58780590]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Ole_Kirk_Christiansen,364571]]"
-instance_of: "[[_Standards/WikiData/WD~brand,431289]]"
-manufacturer: "[[_Standards/WikiData/WD~The_Lego_Group,1063455]]"
-part_of: "[[_Standards/WikiData/WD~Danish_Culture_Canon,1269747]]"
+- '[[_Standards/WikiData/WD~Lego_minifigure,133803]]'
+- '[[_Standards/WikiData/WD~Lego_set,6518582]]'
+- '[[_Standards/WikiData/WD~Lego_brick,58780590]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ole_Kirk_Christiansen,364571]]'
+instance_of: '[[_Standards/WikiData/WD~brand,431289]]'
+manufacturer: '[[_Standards/WikiData/WD~The_Lego_Group,1063455]]'
+part_of: '[[_Standards/WikiData/WD~Danish_Culture_Canon,1269747]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~history_of_Lego,1983721]]"
-  - "[[_Standards/WikiData/WD~Lego_timeline,4992866]]"
+- '[[_Standards/WikiData/WD~history_of_Lego,1983721]]'
+- '[[_Standards/WikiData/WD~Lego_timeline,4992866]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~The_LEGO_Movie,2608065]]"
-  - "[[_Standards/WikiData/WD~LEGO_Worlds,20024451]]"
-  - "[[_Standards/WikiData/WD~The_LEGO_Movie_2_The_Second_Part,23796643]]"
-  - "[[_Standards/WikiData/WD~Lego,108371143]]"
-different_from: "[[_Standards/WikiData/WD~Lego_clone,16188409]]"
-country_of_origin: "[[_Standards/WikiData/WD~Denmark,35]]"
-country: "[[_Standards/WikiData/WD~Denmark,35]]"
+- '[[_Standards/WikiData/WD~The_LEGO_Movie,2608065]]'
+- '[[_Standards/WikiData/WD~LEGO_Worlds,20024451]]'
+- '[[_Standards/WikiData/WD~The_LEGO_Movie_2_The_Second_Part,23796643]]'
+- '[[_Standards/WikiData/WD~Lego,108371143]]'
+different_from: '[[_Standards/WikiData/WD~Lego_clone,16188409]]'
+country_of_origin: '[[_Standards/WikiData/WD~Denmark,35]]'
+country: '[[_Standards/WikiData/WD~Denmark,35]]'
 social_media_followers:
-  - 19400000
-  - 233057
+- 19400000
+- 233057
 Commons_gallery: Lego
 Commons_category: Lego
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/LEGO%20logo.svg
 Baidu_Tieba_name: lego
 subreddit:
-  - lego
-  - legocirclejerk
+- lego
+- legocirclejerk
 hashtag:
-  - lego
-  - LEGO
+- lego
+- LEGO
 stylized_name: LEGO
 Facebook_username: LEGO
 X_Twitter_username: LEGOIdeas
@@ -42,8 +68,106 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lego.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lego%20bricks.jpg
 Stack_Exchange_site_URL: https://bricks.stackexchange.com
 official_website: https://www.lego.com/en-us
+dv_has_:
+  name_:
+    an: Lego
+    ar: ليغو
+    ary: ليگو
+    arz: ليجو
+    az: Leqo
+    be: Lego
+    be-tarask: Lego
+    bg: Лего
+    br: Lego
+    bs: Lego
+    ca: Lego
+    ckb: لێگۆ
+    cs: Lego
+    cy: Lego
+    da: LEGO
+    de: LEGO
+    el: Lego
+    en: Lego
+    en-gb: Lego
+    en-us: LEGO
+    eo: Lego
+    es: Lego
+    et: Lego
+    eu: Lego
+    fa: لگو
+    fi: Lego
+    fo: LEGO
+    fr: LEGO
+    ga: Lego
+    gl: LEGO
+    gu: લેગો
+    he: לגו
+    hr: Lego
+    hu: Lego
+    hy: Lego
+    hyw: Lego
+    id: Lego
+    io: LEGO (ludilo)
+    is: LEGO
+    it: Lego
+    ja: レゴ
+    jbo: Lego
+    jv: Lego
+    ka: ლეგო
+    kl: LEGO
+    ko: 레고
+    la: Lego
+    lb: Lego
+    lfn: Lego
+    lld: Lego
+    lt: Lego
+    lv: Lego
+    ml: ലെഗൗ
+    mn: Лего компани
+    ms: Lego
+    ms-arab: ليݢو
+    mul: LEGO
+    nan: LEGO
+    nb: LEGO
+    nds: Lego
+    nl: Lego
+    nn: LEGO
+    pl: Lego
+    pt: Lego
+    qu: Lego
+    ro: Lego
+    ru: LEGO
+    sco: Lego
+    sk: Lego
+    sl: LEGO
+    sq: Lego
+    sr: Лего
+    sr-ec: Лего
+    sr-el: Lego
+    sv: Lego
+    sw: Lego
+    ta: லெகோ
+    te: లెగో
+    tg: Lego
+    th: เลโก้
+    tl: Lego
+    tr: Lego
+    uk: Lego
+    ur: لیگو (کھلونا)
+    uz: Lego
+    vi: Lego
+    war: Lego
+    wuu: 乐高
+    yi: לעגא
+    yue: 樂高
+    zh: 樂高積木
+    zh-cn: 乐高积木
+    zh-hans: 乐高积木
+    zh-hant: 樂高積木
+    zh-hk: 樂高積木
+    zh-sg: 乐高积木
+    zh-tw: 樂高積木
 ---
-
 # [[Lego]] 
 
 #is_/same_as :: [[WD~Lego,170484]] 

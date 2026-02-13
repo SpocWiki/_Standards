@@ -1,16 +1,69 @@
 ---
 aliases:
-  - Genetic fallacy
+- Apeliavimas į kilmę
+- errore genetico
+- falacia genética
+- Falazia genetiko
+- falácia genética
+- Geneettinen virhepäätelmä
+- Genetic fallacy
+- Genetiese denkfout
+- genetische misvatting
+- genetischer Fehlschluss
+- Genetisk argumentation
+- genetisk feilslutning
+- genetska zmota
+- sofismo de origino
+- sophisme génétique
+- Генетична омана
+- генэтычная хіба
+- כשל גנטי
+- مغالطة المنشأ
+- مغلطه توسل به ریشهها
+- เหตุผลวิบัติโดยกำเนิด
+- 発生論の誤謬
+- 起源謬誤
+- 起源谬误
+- 발생학적 오류
 has_id_wikidata: Q1202868
 subclass_of:
-  - "[[_Standards/WikiData/WD~fallacy,186150]]"
-  - "[[_Standards/WikiData/WD~irrelevant_conclusion,737677]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Genetic_fallacies,7178564]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_fallacy,130993199]]"
+- '[[_Standards/WikiData/WD~fallacy,186150]]'
+- '[[_Standards/WikiData/WD~irrelevant_conclusion,737677]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Genetic_fallacies,7178564]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_fallacy,130993199]]'
 described_at_URL: https://www.logicallyfallacious.com/logicalfallacies/Genetic-Fallacy
+dv_has_:
+  name_:
+    af: Genetiese denkfout
+    ar: مغالطة المنشأ
+    be-tarask: генэтычная хіба
+    de: genetischer Fehlschluss
+    en: genetic fallacy
+    eo: sofismo de origino
+    es: falacia genética
+    eu: Falazia genetiko
+    fa: مغلطه توسل به ریشهها
+    fi: Geneettinen virhepäätelmä
+    fr: sophisme génétique
+    he: כשל גנטי
+    it: errore genetico
+    ja: 発生論の誤謬
+    ko: 발생학적 오류
+    lt: Apeliavimas į kilmę
+    nb: genetisk feilslutning
+    nl: genetische misvatting
+    pfl: Genetischer Fehlschluss
+    pt: falácia genética
+    sl: genetska zmota
+    sv: Genetisk argumentation
+    th: เหตุผลวิบัติโดยกำเนิด
+    uk: Генетична омана
+    zh: 起源謬誤
+    zh-hans: 起源谬误
+    zh-hant: 起源謬誤
+    zh-hk: 起源謬誤
 ---
-
 # [[Genetic_Fallacy]] 
 
 #is_/same_as :: [[WD~Genetic_Fallacy,1202868]] 

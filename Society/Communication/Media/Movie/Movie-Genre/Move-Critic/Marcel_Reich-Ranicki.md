@@ -1,4 +1,86 @@
-
+---
+has_id_wikidata: Q33637
+dv_has_:
+  name_:
+    an: Marcel Reich-Ranicki
+    ar: مارسيل رانيسكي
+    arz: مارسيل رانيسكى
+    ast: Marcel Reich-Ranicki
+    azb: مارسل رایش-رانیسکی
+    bg: Марсел Райх-Раницки
+    ca: Marcel Reich-Ranicki
+    ckb: مارسێل ڕانسکی
+    cs: Marcel Reich-Ranicki
+    cy: Marcel Reich-Ranicki
+    da: Marcel Reich-Ranicki
+    dag: Marcel Reich-Ranicki
+    de: Marcel Reich-Ranicki
+    de-ch: Marcel Reich-Ranicki
+    el: Μαρσέλ Ράιχ-Ρανίτσκι
+    en: Marcel Reich-Ranicki
+    en-ca: Marcel Reich-Ranicki
+    en-gb: Marcel Reich-Ranicki
+    eo: Marcel Reich-Ranicki
+    es: Marcel Reich-Ranicki
+    et: Marcel Reich-Ranicki
+    ext: Marcel Reich-Ranicki
+    fa: مارسل رایش-رانیسکی
+    fi: Marcel Reich-Ranicki
+    fr: Marcel Reich-Ranicki
+    fy: Marcel Reich-Ranicki
+    ga: Marcel Reich-Ranicki
+    gl: Marcel Reich-Ranicki
+    he: מרסל רייך-רניצקי
+    hr: Marcel Reich-Ranicki
+    hu: Marcel Reich-Ranicki
+    id: Marcel Reich-Ranicki
+    it: Marcel Reich-Ranicki
+    ja: マルツェル・ライヒ＝ラニツキ
+    ko: 마르셀 라이히라이츠키
+    la: Marcellus Reich-Ranicki
+    lb: Marcel Reich-Ranicki
+    lt: Marcel Reich-Ranicki
+    lv: Marsels Reihs-Ranickis
+    mul: Marcel Reich-Ranicki
+    nb: Marcel Reich-Ranicki
+    nds: Marcel Reich-Ranicki
+    nl: Marcel Reich-Ranicki
+    nn: Marcel Reich-Ranicki
+    oc: Marcel Reich-Ranicki
+    pl: Marcel Reich-Ranicki
+    pt: Marcel Reich-Ranicki
+    pt-br: Marcel Reich-Ranicki
+    ro: Marcel Reich-Ranicki
+    ru: Марсель Райх-Раницкий
+    sco: Marcel Reich-Ranicki
+    sl: Marcel Reich-Ranicki
+    sq: Marcel Reich-Ranicki
+    sv: Marcel Reich-Ranicki
+    tr: Marcel Reich-Ranicki
+    uk: Марсель Райх-Раніцкі
+    vi: Marcel Reich-Ranicki
+    zh: 馬塞爾·萊希·拉尼奇
+    zh-hans: 马塞尔·莱希-拉尼基
+    zh-hant: 馬塞爾·萊希-拉尼基
+aliases:
+- Marcel Reich-Ranicki
+- Marcellus Reich-Ranicki
+- Marsels Reihs-Ranickis
+- Μαρσέλ Ράιχ-Ρανίτσκι
+- Марсел Райх-Раницки
+- Марсель Райх-Раніцкі
+- Марсель Райх-Раницкий
+- מרסל רייך-רניצקי
+- مارسل رایش-رانیسکی
+- مارسيل رانيسكى
+- مارسيل رانيسكي
+- مارسێل ڕانسکی
+- マルツェル・ライヒ＝ラニツキ
+- 馬塞爾·萊希-拉尼基
+- 馬塞爾·萊希·拉尼奇
+- 马塞尔·莱希-拉尼基
+- 마르셀 라이히라이츠키
+---
 #has_/time_/started :: 1920-06-02
 #has_/time_/stopped :: 2013-09-18
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

@@ -1,11 +1,106 @@
 ---
 aliases:
-  - Boris Karloff
-  - Karloff the Uncanny
-  - William Henry Pratt
-  - Karloff,Boris
+- Boris Karlof
+- Boris Karloff
+- Boriss Kārlofs
+- Karloff the Uncanny
+- Karloff,Boris
+- William Henry Pratt
+- Μπόρις Καρλόφ
+- Барыс Карлаф
+- Борис Карлоф
+- Борис Карлофф
+- Բորիս Կառլոֆ
+- בוריס קרלוף
+- بوريس كارلوف
+- بوریس کارلوف
+- ボリス・カーロフ
+- 布利斯·卡洛夫
+- 波里士·嘉洛夫
+- 波里士嘉洛夫
+- 波里斯·卡洛夫
+- 鲍里斯·卡洛夫
+- 보리스 칼로프
+has_id_wikidata: Q203219
+dv_has_:
+  name_:
+    af: Boris Karloff
+    an: Boris Karloff
+    ar: بوريس كارلوف
+    arz: بوريس كارلوف
+    ast: Boris Karloff
+    ay: Boris Karloff
+    az: Boris Karloff
+    azb: بوریس کارلوف
+    be: Барыс Карлаф
+    be-tarask: Барыс Карлаф
+    bg: Борис Карлоф
+    ca: Boris Karloff
+    cs: Boris Karloff
+    cy: Boris Karloff
+    da: Boris Karloff
+    de: Boris Karloff
+    de-ch: Boris Karloff
+    ee: Boris Karloff
+    el: Μπόρις Καρλόφ
+    en: Boris Karloff
+    en-ca: Boris Karloff
+    en-gb: Boris Karloff
+    eo: Boris Karloff
+    es: Boris Karloff
+    et: Boris Karloff
+    eu: Boris Karloff
+    fa: بوریس کارلوف
+    fi: Boris Karloff
+    fr: Boris Karloff
+    fy: Boris Karloff
+    ga: Boris Karloff
+    gl: Boris Karloff
+    he: בוריס קרלוף
+    hr: Boris Karloff
+    hu: Boris Karloff
+    hy: Բորիս Կառլոֆ
+    id: Boris Karloff
+    io: Boris Karloff
+    it: Boris Karloff
+    ja: ボリス・カーロフ
+    ko: 보리스 칼로프
+    lb: Boris Karloff
+    lv: Boriss Kārlofs
+    ms: Boris Karloff
+    nan: Boris Karloff
+    nb: Boris Karloff
+    nl: Boris Karloff
+    nn: Boris Karloff
+    oc: Boris Karloff
+    pap: Boris Karloff
+    pl: Boris Karloff
+    pt: Boris Karloff
+    pt-br: Boris Karloff
+    qu: Boris Karloff
+    ro: Boris Karloff
+    ru: Борис Карлофф
+    sh: Boris Karloff
+    sl: Boris Karloff
+    sq: Boris Karloff
+    sr: Борис Карлоф
+    sr-ec: Борис Карлоф
+    sr-el: Boris Karlof
+    sv: Boris Karloff
+    tl: Boris Karloff
+    tr: Boris Karloff
+    uk: Борис Карлофф
+    uz: Boris Karloff
+    yo: Boris Karloff
+    yue: 波里士嘉洛夫
+    zh: 鲍里斯·卡洛夫
+    zh-cn: 鲍里斯·卡洛夫
+    zh-hans: 鲍里斯·卡洛夫
+    zh-hant: 布利斯·卡洛夫
+    zh-hk: 波里士·嘉洛夫
+    zh-sg: 波里斯·卡洛夫
+    zh-tw: 布利斯·卡洛夫
 ---
-
 # [[Karloff,Boris]] 
 
 #has_/time_/started ::  1887-11-23 

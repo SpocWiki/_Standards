@@ -1,11 +1,555 @@
 ---
 aliases:
-  - Homo sapiens
-  - modern humans
-  - Homo_sapiens
+- abantu
+- adam
+- afgan
+- alak
+- ame
+- a̱tyubishyi
+- binadamu
+- biniaadan
+- bniedem
+- bod dynol
+- bodie
+- caucau
+- cilvēks
+- cylvāks
+- czowiek
+- człowiek
+- cłowjek
+- den
+- diné
+- djin
+- duine
+- ember
+- esser human
+- gbɔmɔ
+- gbɛtɔ
+- gbẹtọ
+- gizaki
+- hende
+- home
+- homo
+- Homo sapiens
+- Homo_sapiens
+- human
+- humano
+- humanu
+- ihminen
+- Ikiremwa muntu
+- inemine
+- inimene
+- insaan
+- insan
+- inson
+- jan
+- jaqi
+- k'oçi
+- kam
+- keşe
+- lo remna
+- lâng
+- mann
+- Manossa
+- manungsa
+- manusa
+- manush
+- Manusia
+- manusia'
+- maður
+- men
+- menneske
+- menniskja
+- mens
+- Mensch
+- mense
+- Mensia
+- merdım
+- mins
+- Minsch
+- minsk
+- minske
+- mirov
+- mmádu
+- moanske
+- modern humans
+- moto
+- moun
+- mounité
+- munhu
+- munthu
+- muntu
+- mutum
+- människa
+- Mänsch
+- Mënsch
+- mɔgɔ
+- Nama
+- neach
+- neda
+- nehirowisiw
+- nensaala
+- nera
+- ngìn-lui
+- người
+- ninsaal
+- ninsala
+- njeri
+- nnipa
+- nè̤ng
+- nɩŋsaalaa
+- odam
+- olmmoš
+- olmooš
+- olombelona
+- om
+- omp
+- omu
+- omuntu
+- ooumaž
+- pesin
+- porsona
+- raan
+- ristikanzu
+- ristit
+- runa
+- salan
+- ser humano
+- squliq
+- tademaw
+- tao
+- tau
+- tawo
+- tawu
+- tlācatl
+- tokoh
+- tus
+- tāngata
+- uman
+- umana
+- umane
+- umano
+- umuntu
+- urang
+- vanhu
+- vesser uman
+- vunz
+- yuuman
+- yvypóra
+- èsar uman
+- èsser uman
+- èssiri umanu
+- ésser humà
+- être humain
+- ëse uman
+- òm
+- človek
+- člověk
+- čovek
+- čovjek
+- čłowjek
+- žmogus
+- žmuogos
+- ɓii aadama
+- άνθρωπος
+- адæймаг
+- адам
+- адями
+- айдеме
+- инсан
+- инсон
+- кас
+- кеше
+- киhи
+- ломанць
+- ломань
+- людина
+- морт
+- саг
+- тăнлă çын
+- ухаанта хүн
+- хүн
+- цӏыф
+- чалавек
+- человек
+- чи
+- чловѣкъ
+- човек
+- чоловік
+- մարդ
+- אדם
+- מענטש
+- آدم
+- إنسان
+- ئادەم
+- انسان
+- اِنسان
+- اینسان
+- بشر
+- بنادم
+- عبد
+- ماءنسي
+- مرۆڤ
+- ينسان
+- ܒܪ ܐܢܫܐ
+- ߡߐ߱
+- मनई
+- मनुष्य
+- मनुष्यः
+- मनुस्सो
+- मनू
+- मानव
+- मानिस
+- मान्सु
+- लोक
+- মানুষ
+- মানুহ
+- ਮਨੁੱਖ
+- મનુષ્ય
+- ମଣିଷ
+- மனிதர்
+- మానవుడు
+- ಮಾನವ
+- ಮಾನವೆ
+- മനുഷ്യൻ
+- මිනිසා
+- มนุษย์
+- ຜູ້ຄົນ
+- འགྲོ་བ་མི།
+- လူ
+- ადამიანი
+- ადამიერი
+- ሰብ
+- ኣዳም
+- የሰው ልጅ
+- ᏴᏫ
+- ᐄᒃ
+- មនុស្ស
+- ᨑᨘᨄᨈᨕᨘ
+- ᱢᱟᱹᱱᱢᱤ
+- ọmọnìyàn
+- ἄνθρωπος
+- ⴰⴼⴳⴰⵏ
+- ヒト
+- 人
+- 人类
+- 人類
+- ꠝꠣꠘꠥ
+- ꯃꯤꯑꯣꯏꯕ
+- 사람
+- "\U000110A7\U000110A2\U000110B3\U000110AD\U000110B9\U000110A8"
 title: Homo sapiens
+has_id_wikidata: Q5
+dv_has_:
+  name_:
+    ace: tokoh
+    acm: بشر
+    ady: цӏыф
+    aeb-arab: عبد
+    af: mens
+    am: የሰው ልጅ
+    an: Homo sapiens
+    ang: mann
+    anp: मनुष्य
+    apc: إنسان
+    ar: إنسان
+    arc: ܒܪ ܐܢܫܐ
+    arq: بنادم
+    ary: بنادم
+    arz: انسان
+    as: মানুহ
+    ast: humanu
+    atj: nehirowisiw
+    av: чи
+    awa: मनई
+    ay: jaqi
+    az: insan
+    azb: اینسان
+    ba: кеше
+    ban: manusa
+    bar: Mensch
+    bcl: tao
+    bdr: manusia'
+    be: чалавек
+    be-tarask: чалавек
+    bew: manusia
+    bg: човек
+    bho: "\U000110A7\U000110A2\U000110B3\U000110AD\U000110B9\U000110A8"
+    bjn: manusia
+    bm: mɔgɔ
+    bn: মানুষ
+    bo: འགྲོ་བ་མི།
+    br: den
+    bs: čovjek
+    btm: alak
+    bug: ᨑᨘᨄᨈᨕᨘ
+    bxr: ухаанта хүн
+    ca: ésser humà
+    cdo: nè̤ng
+    ce: адам
+    ceb: tawo
+    chr: ᏴᏫ
+    ckb: مرۆڤ
+    co: omu
+    crh: insan
+    cs: člověk
+    csb: człowiek
+    cu: чловѣкъ
+    cv: тăнлă çын
+    cy: bod dynol
+    da: menneske
+    dag: ninsala
+    de: Mensch
+    dga: nensaala
+    din: raan
+    diq: merdım
+    dsb: cłowjek
+    dty: मान्सु
+    ee: ame
+    el: άνθρωπος
+    en: human
+    en-ca: human
+    en-gb: human
+    en-us: human
+    eo: homo
+    es: ser humano
+    et: inimene
+    eu: gizaki
+    ext: Homo sapiens
+    fa: انسان
+    ff: ɓii aadama
+    fi: ihminen
+    fo: menniskja
+    fon: gbɛtɔ
+    fr: être humain
+    frp: Homo sapiens
+    frr: minsk
+    fur: omp
+    fy: minske
+    ga: duine
+    gaa: gbɔmɔ
+    gan: 人
+    gcr: mounité
+    gd: neach
+    gl: ser humano
+    glk: آدم
+    gn: yvypóra
+    gpe: human
+    grc: ἄνθρωπος
+    gsw: Mänsch
+    gu: મનુષ્ય
+    gur: nera
+    guw: gbẹtọ
+    ha: mutum
+    hak: ngìn-lui
+    he: אדם
+    hi: मनुष्य
+    hif: insaan
+    hr: čovjek
+    hsb: čłowjek
+    ht: moun
+    hu: ember
+    hy: մարդ
+    ia: esser human
+    iba: Mensia
+    id: manusia
+    ig: mmádu
+    ilo: tao
+    inh: саг
+    io: homo
+    is: maður
+    it: umano
+    iu: ᐄᒃ
+    ja: ヒト
+    jam: yuuman
+    jbo: lo remna
+    jv: manungsa
+    ka: ადამიანი
+    kaa: adam
+    kab: afgan
+    kcg: a̱tyubishyi
+    kg: muntu
+    kge: Manusia
+    kk: адам
+    kk-cyrl: адам
+    km: មនុស្ស
+    kn: ಮಾನವ
+    knc: kam
+    ko: 사람
+    koi: морт
+    krj: tawu
+    ks: اِنسان
+    ksh: Minsch
+    ku: mirov
+    ku-latn: mirov
+    kus: ninsaal
+    kv: морт
+    kw: tus
+    ky: адам
+    la: homo
+    lb: Mënsch
+    lbe: инсан
+    lez: кас
+    lfn: umana
+    lg: omuntu
+    li: mins
+    lij: ëse uman
+    lld: porsona
+    lmo: vesser uman
+    ln: moto
+    lo: ຜູ້ຄົນ
+    lt: žmogus
+    ltg: cylvāks
+    lv: cilvēks
+    lzh: 人
+    lzz: k'oçi
+    mad: Manossa
+    mai: लोक
+    map-bms: tokoh
+    mdf: ломанць
+    mg: olombelona
+    mhr: айдеме
+    mi: tāngata
+    min: urang
+    mk: човек
+    ml: മനുഷ്യൻ
+    mn: хүн
+    mni: ꯃꯤꯑꯣꯏꯕ
+    mos: neda
+    mr: मानव
+    ms: manusia
+    ms-arab: ماءنسي
+    mt: bniedem
+    mwl: Homo sapiens
+    my: လူ
+    myv: ломань
+    mzn: آدم
+    nah: tlācatl
+    nan: lâng
+    nan-hani: 人
+    nap: umane
+    nb: menneske
+    nds: Minsch
+    nds-nl: mense
+    ne: मानिस
+    new: मनू
+    nl: mens
+    nn: menneske
+    nov: home
+    nqo: ߡߐ߱
+    nv: diné
+    oc: èsser uman
+    olo: ristikanzu
+    om: Nama
+    or: ମଣିଷ
+    os: адæймаг
+    ota: ينسان
+    pa: ਮਨੁੱਖ
+    pam: tau
+    pap: hende
+    pcm: pesin
+    pfl: Mensch
+    pi: मनुस्सो
+    pih: salan
+    pl: człowiek
+    pms: òm
+    pnb: انسان
+    pnt: άνθρωπος
+    ps: انسان
+    pt: humano
+    pt-br: ser humano
+    pwn: caucau
+    qu: runa
+    rm: uman
+    rmy: manush
+    rn: Ikiremwa muntu
+    ro: om
+    ru: человек
+    rue: чоловік
+    rup: omu
+    ryu: ヒト
+    sa: मनुष्यः
+    sah: киhи
+    sat: ᱢᱟᱹᱱᱢᱤ
+    scn: èssiri umanu
+    sco: bodie
+    sd: انسان
+    se: olmmoš
+    sgs: žmuogos
+    sh: čovjek
+    shi: afgan
+    si: මිනිසා
+    sk: človek
+    sl: človek
+    smn: olmooš
+    sms: ooumaž
+    sn: munhu
+    so: biniaadan
+    sq: njeri
+    sr: човек
+    sr-ec: човек
+    sr-el: čovek
+    stq: moanske
+    su: manusa
+    sv: människa
+    sw: binadamu
+    syl: ꠝꠣꠘꠥ
+    szl: czowiek
+    szy: tademaw
+    ta: மனிதர்
+    tay: squliq
+    tcy: ಮಾನವೆ
+    te: మానవుడు
+    tg: инсон
+    tg-cyrl: инсон
+    tg-latn: inson
+    th: มนุษย์
+    ti: ሰብ
+    tig: ኣዳም
+    tk: adam
+    tl: tao
+    tly: inson
+    tok: jan
+    tr: insan
+    ts: vanhu
+    tt: кеше
+    tt-cyrl: кеше
+    tt-latn: keşe
+    tum: munthu
+    tw: nnipa
+    udm: адями
+    ug: ئادەم
+    uk: людина
+    ur: انسان
+    uz: odam
+    vec: èsar uman
+    vep: ristit
+    vi: người
+    vls: mens
+    vo: men
+    vro: inemine
+    wa: djin
+    war: tawo
+    wlx: nɩŋsaalaa
+    wuu: 人
+    xh: abantu
+    xmf: ადამიერი
+    yi: מענטש
+    yo: ọmọnìyàn
+    yue: 人
+    za: vunz
+    zgh: ⴰⴼⴳⴰⵏ
+    zh: 人類
+    zh-cn: 人类
+    zh-hans: 人类
+    zh-hant: 人類
+    zh-hk: 人類
+    zh-mo: 人類
+    zh-my: 人类
+    zh-sg: 人类
+    zh-tw: 人類
+    zu: umuntu
 ---
-
 #is_/instance_of :: [[../../../../../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species|bio~Species]] 
 
 # [[Homo_sapiens]] 

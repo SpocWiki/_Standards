@@ -1,300 +1,362 @@
 ---
 aliases:
-  - Mali
-  - Malí
-  - مالي
-  - 马里
-  - Мали
-  - the Republic of Mali
-  - la República de Malí
+- IMali
+- la República de Malí
+- lo gugdemulu
+- ma Mali
+- Maali
+- Maalii
+- Mahli
+- Mailí
+- Malee
+- Mali
+- Malia
+- Malio
+- Malis
+- Malito
+- Maliyän
+- Maly
+- Malì
+- Malí
+- Malî
+- Malïi
+- Małì
+- Màili
+- Málij
+- Málì
+- Māri
+- the Republic of Mali
+- Táłkááʼtsʼin Bitooʼ Hahoodzo
+- Μάλι
+- Малі
+- Мали
+- Малудин Орн
+- Малӣ
+- Մալի
+- מאלי
+- مالى
+- مالي
+- مالی
+- ܡܠܝ
+- މާލީ
+- ߡߊ߬ߟߌ߬ߓߊ
+- माली
+- माली देस
+- মালি
+- ਮਾਲੀ
+- માલી
+- ମାଲି
+- மாலி
+- మాలి
+- ಮಾಲಿ
+- മാലി
+- මාලි
+- ประเทศมาลี
+- ມາລີ
+- མ་ལི།
+- မာလီနိုင်ငံ
+- မိူင်းမႃႇလီႇ
+- მალი
+- ማሊ
+- ម៉ាលី
+- ᱢᱟᱞᱤ
+- ⵎⴰⵍⵉ
+- マリ共和国
+- 馬利
+- 馬里
+- 馬里共和國
+- 马里
+- 马里共和国
+- ꯃꯥꯂꯤ
+- 말리
 has_id_wikidata: Q912
 instance_of:
-  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~OHADA,2029901]]"
-  - "[[_Standards/WikiData/WD~AFRISTAT,3348506]]"
-  - "[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Mali,169903]]"
-named_after: "[[_Standards/WikiData/WD~Mali_Empire,184536]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_Arms_of_Mali,207288]]"
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Mali,169903]]'
+named_after: '[[_Standards/WikiData/WD~Mali_Empire,184536]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_Arms_of_Mali,207288]]'
 replaces:
-  - "[[_Standards/WikiData/WD~French_West_Africa,210682]]"
-  - "[[_Standards/WikiData/WD~Mali_Federation,216632]]"
-  - "[[_Standards/WikiData/WD~French_Sudan,508014]]"
+- '[[_Standards/WikiData/WD~French_West_Africa,210682]]'
+- '[[_Standards/WikiData/WD~Mali_Federation,216632]]'
+- '[[_Standards/WikiData/WD~French_Sudan,508014]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Mopti_Region,214155]]"
-  - "[[_Standards/WikiData/WD~Koulikoro_Region,287789]]"
-  - "[[_Standards/WikiData/WD~Nioros_Region,332113]]"
-  - "[[_Standards/WikiData/WD~Gao_Region,332392]]"
-  - "[[_Standards/WikiData/WD~Kidal_Region,338988]]"
-  - "[[_Standards/WikiData/WD~Timbuktu_Region,339462]]"
-  - "[[_Standards/WikiData/WD~Sikasso,461298]]"
-  - "[[_Standards/WikiData/WD~Ségou_Region,656845]]"
-  - "[[_Standards/WikiData/WD~Bamako,3703]]"
+- '[[_Standards/WikiData/WD~Mopti_Region,214155]]'
+- '[[_Standards/WikiData/WD~Koulikoro_Region,287789]]'
+- '[[_Standards/WikiData/WD~Nioros_Region,332113]]'
+- '[[_Standards/WikiData/WD~Gao_Region,332392]]'
+- '[[_Standards/WikiData/WD~Kidal_Region,338988]]'
+- '[[_Standards/WikiData/WD~Timbuktu_Region,339462]]'
+- '[[_Standards/WikiData/WD~Sikasso,461298]]'
+- '[[_Standards/WikiData/WD~Ségou_Region,656845]]'
+- '[[_Standards/WikiData/WD~Bamako,3703]]'
 anthem: "[[_Standards/WikiData/WD~Pour_l'Afrique_et_pour_toi,243996]]"
 official_language:
-  - "[[_Standards/WikiData/WD~Songhay,505198]]"
-  - "[[_Standards/WikiData/WD~Dogon,1234776]]"
-  - "[[_Standards/WikiData/WD~Tamasheq,4670066]]"
-  - "[[_Standards/WikiData/WD~Bobo,12628055]]"
-  - "[[_Standards/WikiData/WD~Bambara,33243]]"
-  - "[[_Standards/WikiData/WD~Fula,33454]]"
-  - "[[_Standards/WikiData/WD~Senufo,33795]]"
-  - "[[_Standards/WikiData/WD~Bozo,35021]]"
-  - "[[_Standards/WikiData/WD~Maninka,36186]]"
-  - "[[_Standards/WikiData/WD~Minyanka,36187]]"
-  - "[[_Standards/WikiData/WD~Soninke,36660]]"
-  - "[[_Standards/WikiData/WD~Kassonke,36905]]"
-  - "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]"
-currency: "[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Mali,927301]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1138071]]"
+- '[[_Standards/WikiData/WD~Songhay,505198]]'
+- '[[_Standards/WikiData/WD~Dogon,1234776]]'
+- '[[_Standards/WikiData/WD~Tamasheq,4670066]]'
+- '[[_Standards/WikiData/WD~Bobo,12628055]]'
+- '[[_Standards/WikiData/WD~Bambara,33243]]'
+- '[[_Standards/WikiData/WD~Fula,33454]]'
+- '[[_Standards/WikiData/WD~Senufo,33795]]'
+- '[[_Standards/WikiData/WD~Bozo,35021]]'
+- '[[_Standards/WikiData/WD~Maninka,36186]]'
+- '[[_Standards/WikiData/WD~Minyanka,36187]]'
+- '[[_Standards/WikiData/WD~Soninke,36660]]'
+- '[[_Standards/WikiData/WD~Kassonke,36905]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]'
+currency: '[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Mali,927301]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1138071]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Dogon,1234776]]"
-  - "[[_Standards/WikiData/WD~Pulaar,1420205]]"
-  - "[[_Standards/WikiData/WD~Bangime,1982696]]"
-  - "[[_Standards/WikiData/WD~Kita_Maninka,3015523]]"
-  - "[[_Standards/WikiData/WD~Banka,3438402]]"
-  - "[[_Standards/WikiData/WD~Bondum_Dogon,3912758]]"
-  - "[[_Standards/WikiData/WD~Dogul_Dogon,3912880]]"
-  - "[[_Standards/WikiData/WD~Jamsai_Dogon,3913290]]"
-  - "[[_Standards/WikiData/WD~Bolon,3913301]]"
-  - "[[_Standards/WikiData/WD~Toro-tegu_Dogon,3913924]]"
-  - "[[_Standards/WikiData/WD~Kalamsé,3914000]]"
-  - "[[_Standards/WikiData/WD~Jowulu,3914487]]"
-  - "[[_Standards/WikiData/WD~Duungooma,3914880]]"
-  - "[[_Standards/WikiData/WD~Maasina_Fulfulde,3915322]]"
-  - "[[_Standards/WikiData/WD~Pular,3915357]]"
-  - "[[_Standards/WikiData/WD~Tamasheq,4670066]]"
-  - "[[_Standards/WikiData/WD~Ampari_Dogon,4748057]]"
-  - "[[_Standards/WikiData/WD~Ana_Dogon,4750346]]"
-  - "[[_Standards/WikiData/WD~Bamako_Sign_Language,4853284]]"
-  - "[[_Standards/WikiData/WD~Bankan_Tey_Dogon,4856243]]"
-  - "[[_Standards/WikiData/WD~Ben_Tey_Dogon,4886561]]"
-  - "[[_Standards/WikiData/WD~Budu_Dogon,4985178]]"
-  - "[[_Standards/WikiData/WD~Duleri_Dogon,5313387]]"
-  - "[[_Standards/WikiData/WD~Mombo_Dogon,6897074]]"
-  - "[[_Standards/WikiData/WD~Nanga_Dogon,6963443]]"
-  - "[[_Standards/WikiData/WD~Pana,7129739]]"
-  - "[[_Standards/WikiData/WD~Tebul_Sign_Language,7692090]]"
-  - "[[_Standards/WikiData/WD~Tebul_Dogon,7692089]]"
-  - "[[_Standards/WikiData/WD~Tondi_Songway_Kiini,7820798]]"
-  - "[[_Standards/WikiData/WD~Yanda_Dogon,8048316]]"
-  - "[[_Standards/WikiData/WD~Jenaama_Bozo,10950633]]"
-  - "[[_Standards/WikiData/WD~Kisamo-Matya,10974879]]"
-  - "[[_Standards/WikiData/WD~Eastern_Maninkaka,11002130]]"
-  - "[[_Standards/WikiData/WD~Toro_So_Dogon,11003311]]"
-  - "[[_Standards/WikiData/WD~Tene_Kan_Dogon,11018863]]"
-  - "[[_Standards/WikiData/WD~Western_Maninkakan,11028033]]"
-  - "[[_Standards/WikiData/WD~Tomo_Kan_Dogon,11137719]]"
-  - "[[_Standards/WikiData/WD~Kagoro,11159524]]"
-  - "[[_Standards/WikiData/WD~Hainyaxo_Bozo,11159536]]"
-  - "[[_Standards/WikiData/WD~Tiemacewe_Bozo,12643582]]"
-  - "[[_Standards/WikiData/WD~Tiéyaxo_Bozo,32860401]]"
-  - "[[_Standards/WikiData/WD~Tommo_So_Dogon,47012992]]"
-  - "[[_Standards/WikiData/WD~Arabic,13955]]"
-  - "[[_Standards/WikiData/WD~Dioula,32706]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Bambara,33243]]"
-  - "[[_Standards/WikiData/WD~Koyra_Chiini,33600]]"
-  - "[[_Standards/WikiData/WD~Tuareg,34065]]"
-  - "[[_Standards/WikiData/WD~Bomu,35065]]"
-  - "[[_Standards/WikiData/WD~Northern_Bobo_Madaré,35371]]"
-  - "[[_Standards/WikiData/WD~Humburi_Senni,35486]]"
-  - "[[_Standards/WikiData/WD~Yalunka,35524]]"
-  - "[[_Standards/WikiData/WD~Koyraboro_Senni,35655]]"
-  - "[[_Standards/WikiData/WD~Koromfe,35701]]"
-  - "[[_Standards/WikiData/WD~Marka,36030]]"
-  - "[[_Standards/WikiData/WD~Mooré,36096]]"
-  - "[[_Standards/WikiData/WD~Minyanka,36187]]"
-  - "[[_Standards/WikiData/WD~Syenara,36316]]"
-  - "[[_Standards/WikiData/WD~Shempire,36325]]"
-  - "[[_Standards/WikiData/WD~Tadaksahak,36568]]"
-  - "[[_Standards/WikiData/WD~Soninke,36660]]"
-  - "[[_Standards/WikiData/WD~Kassonke,36905]]"
-  - "[[_Standards/WikiData/WD~Zarma,36990]]"
-  - "[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]"
-  - "[[_Standards/WikiData/WD~Supyire,56284]]"
-  - "[[_Standards/WikiData/WD~Tahoua,56390]]"
-  - "[[_Standards/WikiData/WD~Sucite,56787]]"
+- '[[_Standards/WikiData/WD~Dogon,1234776]]'
+- '[[_Standards/WikiData/WD~Pulaar,1420205]]'
+- '[[_Standards/WikiData/WD~Bangime,1982696]]'
+- '[[_Standards/WikiData/WD~Kita_Maninka,3015523]]'
+- '[[_Standards/WikiData/WD~Banka,3438402]]'
+- '[[_Standards/WikiData/WD~Bondum_Dogon,3912758]]'
+- '[[_Standards/WikiData/WD~Dogul_Dogon,3912880]]'
+- '[[_Standards/WikiData/WD~Jamsai_Dogon,3913290]]'
+- '[[_Standards/WikiData/WD~Bolon,3913301]]'
+- '[[_Standards/WikiData/WD~Toro-tegu_Dogon,3913924]]'
+- '[[_Standards/WikiData/WD~Kalamsé,3914000]]'
+- '[[_Standards/WikiData/WD~Jowulu,3914487]]'
+- '[[_Standards/WikiData/WD~Duungooma,3914880]]'
+- '[[_Standards/WikiData/WD~Maasina_Fulfulde,3915322]]'
+- '[[_Standards/WikiData/WD~Pular,3915357]]'
+- '[[_Standards/WikiData/WD~Tamasheq,4670066]]'
+- '[[_Standards/WikiData/WD~Ampari_Dogon,4748057]]'
+- '[[_Standards/WikiData/WD~Ana_Dogon,4750346]]'
+- '[[_Standards/WikiData/WD~Bamako_Sign_Language,4853284]]'
+- '[[_Standards/WikiData/WD~Bankan_Tey_Dogon,4856243]]'
+- '[[_Standards/WikiData/WD~Ben_Tey_Dogon,4886561]]'
+- '[[_Standards/WikiData/WD~Budu_Dogon,4985178]]'
+- '[[_Standards/WikiData/WD~Duleri_Dogon,5313387]]'
+- '[[_Standards/WikiData/WD~Mombo_Dogon,6897074]]'
+- '[[_Standards/WikiData/WD~Nanga_Dogon,6963443]]'
+- '[[_Standards/WikiData/WD~Pana,7129739]]'
+- '[[_Standards/WikiData/WD~Tebul_Sign_Language,7692090]]'
+- '[[_Standards/WikiData/WD~Tebul_Dogon,7692089]]'
+- '[[_Standards/WikiData/WD~Tondi_Songway_Kiini,7820798]]'
+- '[[_Standards/WikiData/WD~Yanda_Dogon,8048316]]'
+- '[[_Standards/WikiData/WD~Jenaama_Bozo,10950633]]'
+- '[[_Standards/WikiData/WD~Kisamo-Matya,10974879]]'
+- '[[_Standards/WikiData/WD~Eastern_Maninkaka,11002130]]'
+- '[[_Standards/WikiData/WD~Toro_So_Dogon,11003311]]'
+- '[[_Standards/WikiData/WD~Tene_Kan_Dogon,11018863]]'
+- '[[_Standards/WikiData/WD~Western_Maninkakan,11028033]]'
+- '[[_Standards/WikiData/WD~Tomo_Kan_Dogon,11137719]]'
+- '[[_Standards/WikiData/WD~Kagoro,11159524]]'
+- '[[_Standards/WikiData/WD~Hainyaxo_Bozo,11159536]]'
+- '[[_Standards/WikiData/WD~Tiemacewe_Bozo,12643582]]'
+- '[[_Standards/WikiData/WD~Tiéyaxo_Bozo,32860401]]'
+- '[[_Standards/WikiData/WD~Tommo_So_Dogon,47012992]]'
+- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~Dioula,32706]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Bambara,33243]]'
+- '[[_Standards/WikiData/WD~Koyra_Chiini,33600]]'
+- '[[_Standards/WikiData/WD~Tuareg,34065]]'
+- '[[_Standards/WikiData/WD~Bomu,35065]]'
+- '[[_Standards/WikiData/WD~Northern_Bobo_Madaré,35371]]'
+- '[[_Standards/WikiData/WD~Humburi_Senni,35486]]'
+- '[[_Standards/WikiData/WD~Yalunka,35524]]'
+- '[[_Standards/WikiData/WD~Koyraboro_Senni,35655]]'
+- '[[_Standards/WikiData/WD~Koromfe,35701]]'
+- '[[_Standards/WikiData/WD~Marka,36030]]'
+- '[[_Standards/WikiData/WD~Mooré,36096]]'
+- '[[_Standards/WikiData/WD~Minyanka,36187]]'
+- '[[_Standards/WikiData/WD~Syenara,36316]]'
+- '[[_Standards/WikiData/WD~Shempire,36325]]'
+- '[[_Standards/WikiData/WD~Tadaksahak,36568]]'
+- '[[_Standards/WikiData/WD~Soninke,36660]]'
+- '[[_Standards/WikiData/WD~Kassonke,36905]]'
+- '[[_Standards/WikiData/WD~Zarma,36990]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
+- '[[_Standards/WikiData/WD~Supyire,56284]]'
+- '[[_Standards/WikiData/WD~Tahoua,56390]]'
+- '[[_Standards/WikiData/WD~Sucite,56787]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_E,2335536]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Hombori,1454300]]"
-different_from: "[[_Standards/WikiData/WD~Mali,1472352]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Mali,2386758]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Mali,2657947]]"
-head_of_government: "[[_Standards/WikiData/WD~Choguel_Kokalla_Maïga,2964323]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Mali,3007356]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Hombori,1454300]]'
+different_from: '[[_Standards/WikiData/WD~Mali,1472352]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Mali,2386758]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Mali,2657947]]'
+head_of_government: '[[_Standards/WikiData/WD~Choguel_Kokalla_Maïga,2964323]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Mali,3007356]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Bamako,4689475]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Mali,7112346]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Mali,7375021]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+- '[[_Standards/WikiData/WD~Africa_Bamako,4689475]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mali,7112346]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mali,7375021]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~17,25648842]]"
-  - "[[_Standards/WikiData/WD~18,25648843]]"
-  - "[[_Standards/WikiData/WD~15,25648869]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Mali,30100640]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q42552498,42552498]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Mali,47006779]]"
-has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
-head_of_state: "[[_Standards/WikiData/WD~Assimi_Goïta,98497406]]"
-public_holiday: "[[_Standards/WikiData/WD~Mali_Independence_Day,111968636]]"
+- '[[_Standards/WikiData/WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~18,25648843]]'
+- '[[_Standards/WikiData/WD~15,25648869]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Mali,30100640]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q42552498,42552498]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Mali,47006779]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+head_of_state: '[[_Standards/WikiData/WD~Assimi_Goïta,98497406]]'
+public_holiday: '[[_Standards/WikiData/WD~Mali_Independence_Day,111968636]]'
 UMLS_CUI: C0024581
 demonym:
-  - ماليين
-  - Malijec
-  - Malijka
-  - مالية
-  - ماليات
-  - Mailíoch
-  - مالي
-  - مالية
-  - ماليون
-  - مالي
-  - maliana
-  - malianu
-  - মালীয়
-  - malià
-  - maliana
-  - malianes
-  - malians
-  - Malier
-  - Malierin
-  - Malian
-  - Maliano
-  - Malien
-  - Malienne
-  - מאלי
-  - מאלית
-  - mali
-  - Maliano
-  - maliana
-  - maliane
-  - maliani
-  - maliano
-  - malian
-  - malian
-  - maliană
-  - malieni
-  - малийцы
-  - malian
-  - maliana
-  - maliane
-  - maliani
-  - Maliyänan
+- ماليين
+- Malijec
+- Malijka
+- مالية
+- ماليات
+- Mailíoch
+- مالي
+- مالية
+- ماليون
+- مالي
+- maliana
+- malianu
+- মালীয়
+- malià
+- maliana
+- malianes
+- malians
+- Malier
+- Malierin
+- Malian
+- Maliano
+- Malien
+- Malienne
+- מאלי
+- מאלית
+- mali
+- Maliano
+- maliana
+- maliane
+- maliani
+- maliano
+- malian
+- malian
+- maliană
+- malieni
+- малийцы
+- malian
+- maliana
+- maliane
+- maliani
+- Maliyänan
 motto_text:
-  - En narod, en cilj, ena vera
-  - Mɔgɔ kelen, laɲini kelen, dannaya kelen
-  - شعب واحد، هدف واحد، إيمان واحد
-  - Един народ, една цел, една вяра
-  - Ein Volk, ein Ziel, ein Glaube
-  - One people, one goal, one faith
-  - Un pueblo, una meta, una fe
-  - Un peuple, un but, une foi
-  - ߡߌ߬ߙߌ߲߬ߘߌ߬ ߞߋߟߋ߲߫ ߸ ߟߊ߬ߢߌߣߌ߲߫ ߞߋߟߋ߲߫ ߸ ߘߍ߲߬ߞߣߍ߬ߦߊ߬ ߞߋߟߋ߲߫
-  - Un bobl, un nod, un ffydd
+- En narod, en cilj, ena vera
+- Mɔgɔ kelen, laɲini kelen, dannaya kelen
+- شعب واحد، هدف واحد، إيمان واحد
+- Един народ, една цел, една вяра
+- Ein Volk, ein Ziel, ein Glaube
+- One people, one goal, one faith
+- Un pueblo, una meta, una fe
+- Un peuple, un but, une foi
+- ߡߌ߬ߙߌ߲߬ߘߌ߬ ߞߋߟߋ߲߫ ߸ ߟߊ߬ߢߌߣߌ߲߫ ߞߋߟߋ߲߫ ߸ ߘߍ߲߬ߞߣߍ߬ߦߊ߬ ߞߋߟߋ߲߫
+- Un bobl, un nod, un ffydd
 ISNI: 121632435
 official_name:
-  - Mali ka Fasojamana
-  - Mali
+- Mali ka Fasojamana
+- Mali
 coordinates_of_westernmost_point: Point(-12.2399 14.7644)
 PM20_geo_code: C32b
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20-%20Location%20Map%20%282013%29%20-%20MLI%20-%20UNOCHA.svg
 coordinates_of_northernmost_point: Point(-5.5 25.0)
 nominal_GDP:
-  - 18827176532
-  - 19309463506
+- 18827176532
+- 19309463506
 coordinates_of_easternmost_point: Point(4.2659 18.0)
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Algeria,262]]"
-  - "[[_Standards/WikiData/WD~Burkina_Faso,965]]"
-  - "[[_Standards/WikiData/WD~Guinea,1006]]"
-  - "[[_Standards/WikiData/WD~Ivory_Coast,1008]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Niger,1032]]"
-  - "[[_Standards/WikiData/WD~Senegal,1041]]"
+- '[[_Standards/WikiData/WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Burkina_Faso,965]]'
+- '[[_Standards/WikiData/WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Niger,1032]]'
+- '[[_Standards/WikiData/WD~Senegal,1041]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Mauritania,1025]]"
-  - "[[_Standards/WikiData/WD~Morocco,1028]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-country: "[[_Standards/WikiData/WD~Mali,912]]"
-lowest_point: "[[_Standards/WikiData/WD~Senegal_River,3569]]"
-capital: "[[_Standards/WikiData/WD~Bamako,3703]]"
-part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Mali,912]]'
+lowest_point: '[[_Standards/WikiData/WD~Senegal_River,3569]]'
+capital: '[[_Standards/WikiData/WD~Bamako,3703]]'
+part_of: '[[_Standards/WikiData/WD~West_Africa,4412]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 unemployment_rate: 8
 marriageable_age:
-  - 16
-  - 18
+- 16
+- 18
 VAT_rate: 18
 mains_voltage: 220
 BTI_Governance_Index:
-  - 5.4
-  - 4.19
-  - 4.66
-  - 5.17
-  - 5.19
-  - 6.16
-  - 6.19
-  - 6.22
-  - 6.43
+- 5.4
+- 4.19
+- 4.66
+- 5.17
+- 5.19
+- 6.16
+- 6.19
+- 6.22
+- 6.43
 BTI_Status_Index:
-  - 6.1
-  - 4.09
-  - 4.36
-  - 5.06
-  - 5.14
-  - 5.18
-  - 5.93
-  - 6.09
-  - 6.16
+- 6.1
+- 4.09
+- 4.36
+- 5.06
+- 5.14
+- 5.18
+- 5.93
+- 6.09
+- 6.16
 Inequality_adjusted_Human_Development_Index: 0.291
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.ml,42026]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ml,42026]]'
 literacy_rate: 33.1
 Gini_coefficient: 36.1
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Mali,44444]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mali,44444]]'
 Happy_Planet_Index_score: 39.3
 Democracy_Index: 3.93
 Human_Development_Index: 0.428
-madhhab: "[[_Standards/WikiData/WD~Malikism,48221]]"
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
 mobile_country_code: 610
 maritime_identification_digits: 649
 geoshape: http://commons.wikimedia.org/data/main/Data:Mali.map
@@ -303,8 +365,8 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mali.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BF.wav
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationMali.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20%28orthographic%20projection%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LocationMali.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mali%20%28orthographic%20projection%29.svg
 official_website: http://www.primature.gov.ml
 country_calling_code: 223
 Libris_URI: 0xbdc6tj4b06pst
@@ -325,7 +387,7 @@ Commons_gallery: Mali
 ISO_3166_1_alpha_2_code: ML
 WIPO_ST_3: ML
 FIPS_10_4_countries_and_regions_: ML
-Unicode_character: 🇲🇱
+Unicode_character: "\U0001F1F2\U0001F1F1"
 ISO_3166_1_alpha_3_code: MLI
 ITU_letter_code: MLI
 IOC_country_code: MLI
@@ -333,52 +395,52 @@ licence_plate_code: RMM
 Krugosvet_article: strany_mira/MALI.html
 MeSH_tree_code: Z01.058.290.190.500
 native_label: Mali
-short_name: 🇲🇱
+short_name: "\U0001F1F2\U0001F1F1"
 total_fertility_rate: 6.229
 death_rate:
-  - 8.951
-  - 9.205
-  - 9.274
-  - 9.529
+- 8.951
+- 9.205
+- 9.274
+- 9.529
 birth_rate:
-  - 41.217
-  - 41.643
-  - 41.995
-  - 42.376
+- 41.217
+- 41.643
+- 41.995
+- 42.376
 life_expectancy: 57.966
 rural_population:
-  - 11695460
-  - 11904776
-  - 12118494
-  - 12327741
+- 11695460
+- 11904776
+- 12118494
+- 12327741
 area: 1240192
 number_of_out_of_school_children: 2474516
 urban_population:
-  - 8871964
-  - 9319264
-  - 9786489
-  - 10265849
+- 8871964
+- 9319264
+- 9786489
+- 10265849
 inception: 1960-09-22
 has_time_started: 1960-09-22
 female_population:
-  - 10179843
-  - 10505701
-  - 10844239
-  - 11186771
+- 10179843
+- 10505701
+- 10844239
+- 11186771
 male_population:
-  - 10387581
-  - 10718339
-  - 11060744
-  - 11406819
+- 10387581
+- 10718339
+- 11060744
+- 11406819
 coordinates_of_southernmost_point: Point(-7.0499 10.1478)
 population: 20250833
 coordinate_location: Point(-4.0 17.0)
 location:
-  - 12.65
-  - -8
+- 12.65
+- -8
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26962
 isDeleted: false
 confidential: public
@@ -386,18 +448,18 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Mali
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - fr-ML
-  - bm
+- fr-ML
+- bm
 dv_ISO4217-currency_alphabetic: XOF
 dv_ISO4217-currency_name: CFA Franc BCEAO
 dv_ISO4217-currency_numeric: 952
@@ -426,9 +488,9 @@ dv_UNTERM_Chinese_Formal: 马里共和国
 dv_UNTERM_French_Formal: la République du Mali
 dv_UNTERM_Russian: Мали
 dv_UNTERM_Russian_Formal: Республика Мали
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Western Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Western Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 11
 dv_Sub-region: 202
@@ -454,22 +516,309 @@ dv_ISO2: ML
 dv_ISO3: MLI
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Mali,912|WD~Mali,912]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Mali|Mali]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~West/Mali.public|Mali.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]]"
+  - '[[../../../../WikiData/WD~Mali,912|WD~Mali,912]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~West/Mali|Mali]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~West/Mali.public|Mali.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]]'
 dv_has_:
   name_:
+    ab: Мали
+    ace: Mali
+    ady: Мали
+    aeb-arab: مالي
+    af: Mali
+    am: ማሊ
+    ami: Mali
+    an: Mali
+    ang: Mali
+    ann: Mali
+    anp: माली
+    ar: مالي
+    arc: ܡܠܝ
+    ary: مالي
+    arz: مالى
+    ast: Malí
+    av: Мали
+    avk: Malia
+    az: Mali
+    azb: مالی
+    ba: Мали
+    ban: Mali
+    bar: Mali
+    bcl: Mali
+    be: Малі
+    be-tarask: Малі
+    bew: Mali
+    bg: Мали
+    bho: माली देस
+    bi: Mali
+    bjn: Mali
+    bm: Mali
+    bn: মালি
+    bo: མ་ལི།
+    bpy: মালি
+    br: Mali
+    bs: Mali
+    bxr: Мали
+    ca: Mali
+    cbk-zam: Malí
+    cdo: Mali
+    ce: Мали
+    ceb: Mali
+    ckb: مالی
+    co: Mali
+    crh: Mali
+    crh-latn: Mali
+    cs: Mali
+    cv: Мали
+    cy: Mali
+    da: Mali
+    dag: Mali
+    de: Mali
+    de-at: Mali
+    de-ch: Mali
+    dga: Mali
+    diq: Mali
+    dsb: Mali
+    dtp: Mali
+    dty: माली
+    dv: މާލީ
+    ee: Mali
+    el: Μάλι
+    en: Mali
+    en-ca: Mali
+    en-gb: Mali
+    eo: Malio
+    es: Mali
+    et: Mali
+    eu: Mali
+    ext: Mali
+    fa: مالی
+    ff: Maali
+    fi: Mali
+    fo: Mali
+    fon: Malito
+    fr: Mali
+    frp: Mali
+    frr: Maali
+    fy: Maly
+    ga: Mailí
+    gag: Mali
+    gcr: Mali
+    gd: Màili
+    gl: Malí
+    glk: مالي
+    gn: Mali
+    gpe: Mali
+    gsw: Mali
+    gu: માલી
+    gur: Mali
+    gv: Malee
+    ha: Mali
+    hak: Mali
+    he: מאלי
+    hi: माली
+    hif: Mali
+    hr: Mali
+    hsb: Mali
+    ht: Mali
+    hu: Mali
+    hy: Մալի
+    ia: Mali
+    id: Mali
+    ie: Mali
+    ig: Mali
+    ilo: Mali
+    io: Mali
+    is: Malí
+    it: Mali
+    ja: マリ共和国
+    jam: Mali
+    jbo: lo gugdemulu
+    jv: Mali
+    ka: მალი
+    kaa: Mali
+    kab: Mali
+    kbp: Maalii
+    kcg: Mali
+    kg: Mali
+    kge: Mali
+    ki: Mali
+    kk: Мали
+    km: ម៉ាលី
+    kn: ಮಾಲಿ
+    knc: Mali
+    ko: 말리
+    krc: Мали
+    ksh: Mahli
+    ku: Malî
+    kw: Mali
+    ky: Мали
+    la: Malia
+    lad: Mali
+    lb: Mali
+    lez: Мали
+    lfn: Mali
+    lg: Mali
+    li: Mali
+    lij: Mali
+    lld: Mali
+    lmo: Mali
+    ln: Mali
+    lo: ມາລີ
+    lrc: مالی
+    lt: Malis
+    lv: Mali
+    lzh: 馬里
+    mai: माली
+    mdf: Мали
+    mg: Mali
+    mhr: Мали
+    mi: Māri
+    min: Mali
+    mk: Мали
+    ml: മാലി
+    mn: Мали
+    mni: ꯃꯥꯂꯤ
+    mos: Malì
+    mr: माली
+    mrj: Мали
+    ms: Mali
+    ms-arab: مالي
+    mt: Mali
+    mwl: Mali
+    my: မာလီနိုင်ငံ
+    mzn: مالی
+    na: Mali
+    nah: Mali
+    nan: Mali
+    nb: Mali
+    nds: Mali
+    nds-nl: Mali
+    ne: माली
+    new: माली
+    nl: Mali
+    nn: Mali
+    nov: Mali
+    nqo: ߡߊ߬ߟߌ߬ߓߊ
+    nso: Mali
+    nv: Táłkááʼtsʼin Bitooʼ Hahoodzo
+    oc: Mali
+    olo: Mali
+    om: Maalii
+    or: ମାଲି
+    os: Мали
+    pa: ਮਾਲੀ
+    pam: Mali
+    pap: Mali
+    pdc: Mali
+    pfl: Mali
+    pi: माली
+    pih: Maali
+    pl: Mali
+    pms: Mali
+    pnb: مالی
+    ps: مالي
+    pt: Mali
+    pt-br: Mali
+    qu: Mali
+    rmy: Mali
+    ro: Mali
+    ru: Мали
+    rue: Малі
+    rup: Mali
+    rw: Mali
+    sa: माली
+    sah: Мали
+    sat: ᱢᱟᱞᱤ
+    sc: Mali
+    scn: Mali
+    sco: Mali
+    sd: مالي
+    se: Mali
+    sg: Malïi
+    sgs: Malis
+    sh: Mali
+    shi: Mali
+    shn: မိူင်းမႃႇလီႇ
+    si: මාලි
+    sk: Mali
+    sl: Mali
+    smj: Málij
+    smn: Mali
+    sms: Mali
+    sn: Mali
+    so: Maali
+    sq: Mali
+    sr: Мали
+    sr-ec: Мали
+    sr-el: Mali
+    ss: IMali
+    st: Mali
+    stq: Mali
+    su: Mali
+    sv: Mali
+    sw: Mali
+    szl: Mali
+    szy: Mali
+    ta: மாலி
+    tay: Mali
+    te: మాలి
+    tg: Малӣ
+    th: ประเทศมาลี
+    ti: ማሊ
+    tk: Mali
+    tl: Mali
+    tly: Mali
+    tok: ma Mali
+    tr: Mali
+    trv: Mali
+    ts: Mali
+    tt: Мали
+    tum: Mali
+    tw: Mali
+    udm: Мали
+    ug: مالى
+    uk: Малі
+    ur: مالی
+    uz: Mali
+    vec: Małì
+    vep: Mali
+    vi: Mali
+    vls: Mali
+    vo: Maliyän
+    vro: Mali
+    wa: Mali
+    war: Mali
+    wo: Mali
+    wuu: 马里
+    xal: Малудин Орн
+    xh: Mali
+    xmf: მალი
+    yi: מאלי
+    yo: Málì
+    yue: 馬里
+    za: Mali
+    zea: Mali
+    zgh: ⵎⴰⵍⵉ
+    zh: 马里
+    zh-cn: 马里共和国
+    zh-hans: 马里
+    zh-hant: 馬利
+    zh-hk: 馬里共和國
+    zh-sg: 马里共和国
+    zh-tw: 馬利
+    zu: IMali
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mali
 dv_has_name_de: Mali
 dv_Area-Total: 1240192
 dv_Area-Land: 1220190
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: RMM
 dv_Alcohol-l: 1
 dv_Language-Id: 496
@@ -477,17 +826,16 @@ dv_has_place_longitude: -8
 dv_has_place_latitude: 12.65
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Mali,912|WD~Mali,912]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Mali|Mali]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~West/Mali.public|Mali.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]]"
+- '[[../../../../WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~West/Mali|Mali]]'
+- '[[/_public/Earth/Continent/Africa/Africa~West/Mali.public|Mali.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~West/Mali.internal|Mali.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~West/Mali.protect|Mali.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~West/Mali.private|Mali.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~West/Mali.personal|Mali.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~West/Mali.secret|Mali.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mali
 ---
-
 # [[Mali]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

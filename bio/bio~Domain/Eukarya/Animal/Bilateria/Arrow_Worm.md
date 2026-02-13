@@ -1,12 +1,134 @@
 ---
 aliases:
-  - Chaetognatha
-  - chaetognath
-  - Arrow Worm
-  - Arrow_Worm
+- Arrow Worm
+- arrow worms
+- Arrow_Worm
+- Cacing panah
+- chaetognath
+- Chaetognatha
+- Chʼoshkʼaaʼ
+- gusanos flecha
+- Harjaslõugsed
+- Kıllıçeneliler
+- nuolimadot
+- nyílférgek
+- Pfeilwürmer
+- Piilwirmer
+- Pijlwormen
+- pilmaskar
+- Pilormer
+- Ploutvenky
+- Pylwurm
+- Pílormar
+- Quetognato
+- Quetògnat
+- Saržokļaiņi
+- Staklasti crvi
+- Szczecioszczękie
+- Ulod nga gapasan
+- vermes-flecha
+- vermi freccia
+- vers fléchés
+- Çənəsiqıllılar
+- Četinočeljusti
+- Šeriažandžiai
+- Štetinatoústky
+- Ščetinočeljustnice
+- σκουλήκι βέλος
+- Стакласти црви
+- четинкочелюстни
+- Шчацінкасківічныя
+- щетинкочелюстные
+- щетинкощелепні
+- Қылтанжақтылар
+- תולעי חץ
+- ديدان سهمية
+- ديدان سهميه
+- کرمهای پیکانی
+- ქეტოგნათები
+- 毛顎動物
+- 毛顎動物門
+- 毛颚动物门
+- 모악동물문
 title: Chaetognatha
+has_id_wikidata: Q192416
+dv_has_:
+  name_:
+    af: Pylwurm
+    an: Chaetognatha
+    ar: ديدان سهمية
+    arz: ديدان سهميه
+    ast: Chaetognatha
+    az: Çənəsiqıllılar
+    be: Шчацінкасківічныя
+    bg: четинкочелюстни
+    bs: Chaetognatha
+    ca: Quetògnat
+    ceb: Ulod nga gapasan
+    cs: Ploutvenky
+    de: Pfeilwürmer
+    el: σκουλήκι βέλος
+    en: arrow worms
+    eo: Chaetognatha
+    es: gusanos flecha
+    et: Harjaslõugsed
+    eu: Chaetognatha
+    ext: Chaetognatha
+    fa: کرمهای پیکانی
+    fi: nuolimadot
+    fr: vers fléchés
+    frr: Piilwirmer
+    ga: Chaetognatha
+    gl: Quetognato
+    gv: Chaetognatha
+    he: תולעי חץ
+    hr: Četinočeljusti
+    hu: nyílférgek
+    ia: Chaetognatha
+    id: Cacing panah
+    ie: Chaetognatha
+    io: Chaetognatha
+    is: Pílormar
+    it: vermi freccia
+    ja: 毛顎動物
+    ka: ქეტოგნათები
+    kk: Қылтанжақтылар
+    ko: 모악동물문
+    la: Chaetognatha
+    lt: Šeriažandžiai
+    lv: Saržokļaiņi
+    mul: Chaetognatha
+    nb: Pilormer
+    nl: Pijlwormen
+    nv: Chʼoshkʼaaʼ
+    oc: Chaetognatha
+    pl: Szczecioszczękie
+    pt: vermes-flecha
+    pt-br: Chaetognatha
+    ro: Chaetognatha
+    ru: щетинкочелюстные
+    sk: Štetinatoústky
+    sl: Ščetinočeljustnice
+    sq: Chaetognatha
+    sr: Стакласти црви
+    sr-ec: Стакласти црви
+    sr-el: Staklasti crvi
+    sv: pilmaskar
+    tl: Chaetognatha
+    tr: Kıllıçeneliler
+    uk: щетинкощелепні
+    uz: Chaetognatha
+    vi: Chaetognatha
+    vo: Chaetognatha
+    war: Chaetognatha
+    zh: 毛颚动物门
+    zh-cn: 毛颚动物门
+    zh-hans: 毛颚动物门
+    zh-hant: 毛顎動物門
+    zh-hk: 毛顎動物門
+    zh-sg: 毛颚动物门
+    zh-tw: 毛顎動物門
 ---
-
 # [[Arrow_Worm]]
 
 Arrow Worms 

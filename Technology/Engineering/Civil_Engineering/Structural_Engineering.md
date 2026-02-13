@@ -1,21 +1,71 @@
 ---
 aliases:
-  - Structural engineering
-  - Konstruktiver Ingenieurbau
-  - Structural_Engineering
-  - Structural Engineering
+- byggnadskonstruktion
+- constructieleer
+- Egituren ingeniaritza
+- engenharia estrutural
+- enginyeria estructural
+- Enxeñaría estrutural
+- Hoonete projekteerimine
+- ingegneria strutturale
+- Ingeniaria structuralis
+- ingeniería estructural
+- Inginerie structurală
+- ingénierie des structures
+- innealtóireacht struchtúir
+- Inxeniería estructural
+- Inxhinieria strukturore
+- inzegnaria struturałe
+- inženýrské stavitelství
+- konstrukcijsko inženirstvo
+- Konstruktiver Ingenieurbau
+- Kostruktiv mühəndislik
+- kỹ thuật cấu trúc
+- Mechanika konstrukcji
+- peirianneg strwythurol
+- rakennesuunnittelu
+- Structural engineering
+- Structural_Engineering
+- struktura inĝenierio
+- Strukturno inženjerstvo
+- szerkezetépítés
+- Teknik struktur
+- Uhandisi wa miundo
+- yapı mühendisliği
+- δομική μηχανική
+- будаўнічае праектаваньне
+- Жобалау
+- праектаванне будынкаў і збудаванняў
+- проектирование зданий и сооружений
+- структурна інженерія
+- Хийцийн инженерийн байгууламж
+- הנדסת מבנים
+- ئەندازیاریی پێکھاتەیی
+- مهندسی سازه
+- هندسة الإنشاءات
+- संरचना इंजीनियरी
+- অবকাঠামো প্রকৌশল
+- கட்டமைப்புப் பொறியியல்
+- ഘടനാ രൂപീകരണം
+- ව් යුහාත්මක ඉංජිනේරු විද් යාව
+- วิศวกรรมโครงสร้าง
+- የአወቃቀር ምህንድስና (ስትራክቸራል ኢንጂነሪንግ)
+- 構造設計
+- 結構工程學
+- 结构工程
+- 구조공학
 has_id_wikidata: Q633538
 different_from:
-  - '[[_Standards/WikiData/WD~civil_engineering,77590]]'
-  - '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
-  - '[[_Standards/WikiData/WD~structural_analysis,1762403]]'
-  - '[[_Standards/WikiData/WD~construction_engineering,2674423]]'
-  - '[[_Standards/WikiData/WD~design_engineering,5638464]]'
+- '[[_Standards/WikiData/WD~civil_engineering,77590]]'
+- '[[_Standards/WikiData/WD~mechanical_engineering,101333]]'
+- '[[_Standards/WikiData/WD~structural_analysis,1762403]]'
+- '[[_Standards/WikiData/WD~construction_engineering,2674423]]'
+- '[[_Standards/WikiData/WD~design_engineering,5638464]]'
 part_of: '[[_Standards/WikiData/WD~civil_engineering,77590]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
 practiced_by: '[[_Standards/WikiData/WD~structural_engineer,2305987]]'
 has_use: '[[_Standards/WikiData/WD~structure,6671777]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Structural_engineering_topics,135937162]]'
@@ -24,8 +74,62 @@ Stack_Exchange_tag: https://engineering.stackexchange.com/tags/structural-engine
 U_S_National_Archives_Identifier: 10675111
 UNSPSC_Code: 81101505
 Commons_category: Structural engineering
+dv_has_:
+  name_:
+    am: የአወቃቀር ምህንድስና (ስትራክቸራል ኢንጂነሪንግ)
+    ar: هندسة الإنشاءات
+    ast: Inxeniería estructural
+    az: Kostruktiv mühəndislik
+    be: праектаванне будынкаў і збудаванняў
+    be-tarask: будаўнічае праектаваньне
+    bn: অবকাঠামো প্রকৌশল
+    ca: enginyeria estructural
+    ckb: ئەندازیاریی پێکھاتەیی
+    cs: inženýrské stavitelství
+    cy: peirianneg strwythurol
+    de: konstruktiver Ingenieurbau
+    el: δομική μηχανική
+    en: structural engineering
+    eo: struktura inĝenierio
+    es: ingeniería estructural
+    et: Hoonete projekteerimine
+    eu: Egituren ingeniaritza
+    fa: مهندسی سازه
+    fi: rakennesuunnittelu
+    fr: ingénierie des structures
+    ga: innealtóireacht struchtúir
+    gl: Enxeñaría estrutural
+    he: הנדסת מבנים
+    hi: संरचना इंजीनियरी
+    hu: szerkezetépítés
+    id: Teknik struktur
+    it: ingegneria strutturale
+    ja: 構造設計
+    kk: Жобалау
+    ko: 구조공학
+    la: Ingeniaria structuralis
+    ml: ഘടനാ രൂപീകരണം
+    mn: Хийцийн инженерийн байгууламж
+    nl: constructieleer
+    pl: Mechanika konstrukcji
+    pt: engenharia estrutural
+    ro: Inginerie structurală
+    ru: проектирование зданий и сооружений
+    si: ව් යුහාත්මක ඉංජිනේරු විද් යාව
+    sl: konstrukcijsko inženirstvo
+    sq: Inxhinieria strukturore
+    sr: Strukturno inženjerstvo
+    sv: byggnadskonstruktion
+    sw: Uhandisi wa miundo
+    ta: கட்டமைப்புப் பொறியியல்
+    th: วิศวกรรมโครงสร้าง
+    tr: yapı mühendisliği
+    uk: структурна інженерія
+    vec: inzegnaria struturałe
+    vi: kỹ thuật cấu trúc
+    yue: 結構工程學
+    zh: 结构工程
 ---
-
 # [[Structural_Engineering]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Structural_engineering,633538|WD~Structural_engineering,633538]]  

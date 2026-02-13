@@ -1,14 +1,107 @@
 ---
 aliases:
+- Ehtimal fəzası
+- espace probabilisé
+- espacio probabilístico
+- Espaciu probabilísticu
+- espai de probabilitat
+- espazo de probabilidade
+- espaço de probabilidade
+- gofod tebygolrwydd
+- kansruimte
+- Không gian xác suất
+- Líkindamál
+- Olasılık uzayı
+- Pravděpodobnostní prostor
+- Probabilitate espazio
+- probability space
+- Probablesala spaco
+- probablo-spaco
+- Prostor verovatnoće
+- przestrzeń probabilistyczna
+- Sannolikhetsrum
+- Sannsynlighetsrom
+- sannsynsrom
+- Spassi ëd probabilità
+- spazio di probabilità
+- spațiu de probabilitate
+- valószínűségi mező
+- verjetnostni prostor
+- Waarskynlikheidsruimte
+- Wahrscheinlichkeitsraum
+- χώρος πιθανότητας
+- Імавернасная прастора
+- Вероятностно пространство
+- вероятностное пространство
+- ймовірнісний простір
+- Пулаяслăхсен уçлăхĕ
+- מרחב הסתברות
+- فضاء احتمالي
+- فضای احتمال
+- ალბათური სივრცე
+- 概率空間
+- 概率空间
+- 機率空間
+- 確率空間
+- 확률 공간
 has_id_wikidata: Q623472
 has_part_s_:
-  - "[[_Standards/WikiData/WD~sigma_algebra,217357]]"
-  - "[[_Standards/WikiData/WD~probability_measure,355020]]"
-  - "[[_Standards/WikiData/WD~sample_space,467440]]"
-subclass_of: "[[_Standards/WikiData/WD~measure_space,3058212]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~sigma_algebra,217357]]'
+- '[[_Standards/WikiData/WD~probability_measure,355020]]'
+- '[[_Standards/WikiData/WD~sample_space,467440]]'
+subclass_of: '[[_Standards/WikiData/WD~measure_space,3058212]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+dv_has_:
+  name_:
+    af: Waarskynlikheidsruimte
+    ar: فضاء احتمالي
+    ast: Espaciu probabilísticu
+    az: Ehtimal fəzası
+    be: Імавернасная прастора
+    be-tarask: імавернасная прастора
+    bg: Вероятностно пространство
+    ca: espai de probabilitat
+    cs: Pravděpodobnostní prostor
+    cv: Пулаяслăхсен уçлăхĕ
+    cy: gofod tebygolrwydd
+    de: Wahrscheinlichkeitsraum
+    el: χώρος πιθανότητας
+    en: probability space
+    eo: probablo-spaco
+    es: espacio probabilístico
+    eu: Probabilitate espazio
+    fa: فضای احتمال
+    fr: espace probabilisé
+    gl: espazo de probabilidade
+    he: מרחב הסתברות
+    hu: valószínűségi mező
+    io: Probablesala spaco
+    is: Líkindamál
+    it: spazio di probabilità
+    ja: 確率空間
+    ka: ალბათური სივრცე
+    ko: 확률 공간
+    nb: Sannsynlighetsrom
+    nl: kansruimte
+    nn: sannsynsrom
+    pl: przestrzeń probabilistyczna
+    pms: Spassi ëd probabilità
+    pt: espaço de probabilidade
+    ro: spațiu de probabilitate
+    ru: вероятностное пространство
+    sl: verjetnostni prostor
+    sr: Prostor verovatnoće
+    sv: Sannolikhetsrum
+    tr: Olasılık uzayı
+    uk: ймовірнісний простір
+    vi: Không gian xác suất
+    yue: 概率空間
+    zh: 概率空間
+    zh-hans: 概率空间
+    zh-hant: 概率空間
+    zh-hk: 機率空間
+    zh-tw: 機率空間
 ---
-
 # [[Probability_Space]] 
 
 #is_/same_as :: [[WD~Probability_space,623472]] 

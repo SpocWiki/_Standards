@@ -1,9 +1,116 @@
 ---
 aliases:
-  - Santalales
+- Bộ Đàn hương
+- Koma sendelan
+- lanikovci
+- Linalehikulaadsed
+- Sandałowce
+- Sandelholtoortagen
+- Sandelholzartige
+- sandeltreordenen
+- Sandeltræ-ordenen
+- Sandelviðarbálkur
+- Santalales
+- Santalaloj
+- Santalals
+- Santaliečiai
+- Santalolike
+- santalotvaré
+- Santalu rinda
+- santálotvaré
+- szantálfavirágúak
+- Səndəlçiçəklilər
+- Σανδαλιώδη
+- сандаловидни
+- санталакветныя
+- санталоцветни
+- санталоцветные
+- սանտալածաղկավորներ
+- סנטלניים
+- صندلسانان
+- صندليات
+- सैंटालेलीस
+- സന്റാലലേസ്
+- อันดับย่านตีเมีย
+- ビャクダン目
+- 檀香目
+- 단향목
 title: Santalales
+has_id_wikidata: Q21851
+dv_has_:
+  name_:
+    an: Santalales
+    ar: صندليات
+    arz: صندليات
+    ast: Santalales
+    az: Səndəlçiçəklilər
+    be: Santalales
+    be-tarask: санталакветныя
+    bg: санталоцветни
+    bs: Santalales
+    ca: Santalals
+    ceb: Santalales
+    co: Santalales
+    cs: santálotvaré
+    da: Sandeltræ-ordenen
+    de: Sandelholzartige
+    el: Σανδαλιώδη
+    en: Santalales
+    en-ca: Santalales
+    en-gb: Santalales
+    eo: Santalaloj
+    es: Santalales
+    et: Linalehikulaadsed
+    eu: Santalales
+    ext: Santalales
+    fa: صندلسانان
+    fi: Santalales
+    fr: Santalales
+    frr: Sandelholtoortagen
+    ga: Santalales
+    gl: Santalales
+    he: סנטלניים
+    hi: सैंटालेलीस
+    hr: Santalolike
+    hu: szantálfavirágúak
+    hy: սանտալածաղկավորներ
+    ia: Santalales
+    id: Santalales
+    ie: Santalales
+    io: Santalales
+    is: Sandelviðarbálkur
+    it: Santalales
+    ja: ビャクダン目
+    ko: 단향목
+    ku: Koma sendelan
+    la: Santalales
+    lt: Santaliečiai
+    lv: Santalu rinda
+    mk: сандаловидни
+    ml: സന്റാലലേസ്
+    mul: Santalales
+    nb: sandeltreordenen
+    nl: Santalales
+    oc: Santalales
+    pl: Sandałowce
+    pt: Santalales
+    pt-br: Santalales
+    ro: Santalales
+    ru: санталоцветные
+    sk: santalotvaré
+    sl: lanikovci
+    sq: Santalales
+    sv: Santalales
+    th: อันดับย่านตีเมีย
+    uk: Santalales
+    vi: Bộ Đàn hương
+    vo: Santalales
+    war: Santalales
+    zh: 檀香目
+    zh-cn: 檀香目
+    zh-hans: 檀香目
+    zh-hant: 檀香目
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

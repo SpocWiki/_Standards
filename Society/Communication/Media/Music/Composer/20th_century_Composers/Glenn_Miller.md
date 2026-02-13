@@ -1,37 +1,59 @@
 ---
 aliases:
-  - Glenn_Miller
-  - Alton Glen Miller
-  - Glenn Miller
+- Alton Glen Miller
+- Glen Miler
+- Glen Miller
+- Glenn Miller
+- Glenns Millers
+- Glenn_Miller
+- Qlenn Miller
+- Γκλεν Μίλερ
+- Глен Мілер
+- Глен Милер
+- Глен Милър
+- Гленн Міллер
+- Гленн Миллер
+- Գլենն Միլեր
+- גלן מילר
+- جلين ميلر
+- غلين ميلر
+- قلن میلر
+- گلن میلر
+- গ্লেন মিলার
+- เกล็น มิลเลอร์
+- グレン・ミラー
+- 格伦·米勒
+- 格倫·米勒
+- 글렌 밀러
 has_id_wikidata: Q103651
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~bandleader,806349]]'
-  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
-  - '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
-  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~bandleader,806349]]'
+- '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+- '[[_Standards/WikiData/WD~aircraft_pilot,2095549]]'
+- '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 record_label:
-  - '[[_Standards/WikiData/WD~RCA_Records,202585]]'
-  - '[[_Standards/WikiData/WD~Bluebird_Records,885977]]'
+- '[[_Standards/WikiData/WD~RCA_Records,202585]]'
+- '[[_Standards/WikiData/WD~Bluebird_Records,885977]]'
 genre:
-  - '[[_Standards/WikiData/WD~swing_music,203775]]'
-  - '[[_Standards/WikiData/WD~big_band,207378]]'
-  - '[[_Standards/WikiData/WD~jazz,8341]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~swing_music,203775]]'
+- '[[_Standards/WikiData/WD~big_band,207378]]'
+- '[[_Standards/WikiData/WD~jazz,8341]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Colorado_Boulder,736674]]'
 cause_of_death: '[[_Standards/WikiData/WD~aviation_accident,744913]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Bronze_Star_Medal,928314]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 place_of_birth: '[[_Standards/WikiData/WD~Clarinda,931656]]'
 family_name: '[[_Standards/WikiData/WD~Miller,1605060]]'
 member_of: '[[_Standards/WikiData/WD~Glenn_Miller_&_His_Orchestra,2446255]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Alton,2840487]]'
-  - '[[_Standards/WikiData/WD~Glenn,19802199]]'
+- '[[_Standards/WikiData/WD~Alton,2840487]]'
+- '[[_Standards/WikiData/WD~Glenn,19802199]]'
 discography: '[[_Standards/WikiData/WD~Glenn_Miller_discography,5569003]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
@@ -49,8 +71,8 @@ Commons_gallery: Glenn Miller
 Commons_category: Glenn Miller
 name_in_native_language: Glenn Miller
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20miller.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Glenn%20Miller%20Billboard.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Glen%20miller.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Glenn%20Miller%20Billboard.jpg
 official_website: http://www.glennmiller.org
 ISNI: 0000000110624974
 U_S_National_Archives_Identifier: 10582406
@@ -59,13 +81,87 @@ Facebook_username: GlennMiller
 birth_name: Alton Glenn Miller
 date_of_disappearance: 1944-12-15T00:00:00Z
 date_of_death:
-  - 1944-12-15T00:00:00Z
-  - 1944-02-15T00:00:00Z
+- 1944-12-15T00:00:00Z
+- 1944-02-15T00:00:00Z
 work_period_end_: 1944-01-01T00:00:00Z
 work_period_start_: 1923-01-01T00:00:00Z
 date_of_birth: 1904-03-01T00:00:00Z
+dv_has_:
+  name_:
+    an: Glenn Miller
+    ar: غلين ميلر
+    arz: جلين ميلر
+    ast: Glenn Miller
+    az: Qlenn Miller
+    azb: قلن میلر
+    be: Глен Мілер
+    be-tarask: Глен Мілер
+    bg: Глен Милър
+    bn: গ্লেন মিলার
+    ca: Glenn Miller
+    cs: Glenn Miller
+    cy: Glenn Miller
+    da: Glenn Miller
+    de: Glenn Miller
+    el: Γκλεν Μίλερ
+    en: Glenn Miller
+    en-ca: Glenn Miller
+    en-gb: Glenn Miller
+    eo: Glenn Miller
+    es: Glenn Miller
+    et: Glenn Miller
+    eu: Glenn Miller
+    fa: گلن میلر
+    fi: Glenn Miller
+    fr: Glenn Miller
+    ga: Glenn Miller
+    gl: Glenn Miller
+    he: גלן מילר
+    hr: Glenn Miller
+    hu: Glenn Miller
+    hy: Գլենն Միլեր
+    id: Glenn Miller
+    io: Glenn Miller
+    is: Glenn Miller
+    it: Glenn Miller
+    ja: グレン・ミラー
+    kl: Glenn Miller
+    ko: 글렌 밀러
+    la: Glenn Miller
+    lb: Glenn Miller
+    lt: Glenn Miller
+    lv: Glenns Millers
+    mg: Glenn Miller
+    mk: Глен Милер
+    mul: Glenn Miller
+    nb: Glenn Miller
+    nds: Glenn Miller
+    nl: Glenn Miller
+    nn: Glenn Miller
+    oc: Glenn Miller
+    pap: Glenn Miller
+    pl: Glenn Miller
+    pt: Glenn Miller
+    pt-br: Glenn Miller
+    ro: Glen Miller
+    ru: Гленн Миллер
+    sh: Glenn Miller
+    sk: Glenn Miller
+    sl: Glenn Miller
+    sq: Glenn Miller
+    sr: Glen Miler
+    sv: Glenn Miller
+    th: เกล็น มิลเลอร์
+    tr: Glenn Miller
+    uk: Гленн Міллер
+    vi: Glenn Miller
+    war: Glenn Miller
+    wuu: 格伦·米勒
+    yue: 格倫·米勒
+    zh: 格伦·米勒
+    zh-hant: 格倫·米勒
+    zh-tw: 格倫·米勒
 ---
-
 # [[Glenn_Miller]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Glenn_Miller,103651|WD~Glenn_Miller,103651]] 

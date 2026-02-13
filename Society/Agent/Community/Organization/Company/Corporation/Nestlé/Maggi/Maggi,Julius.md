@@ -1,9 +1,56 @@
 ---
 aliases:
-  - Julius Michael Johannes Maggi
-  - Maggi,Julius
+- Julius Maggi
+- Julius Michael Johannes Maggi
+- Maggi,Julius
+- Юліус Маггі
+- Юлиус Магги
+- Юлиус Маги
+- Յուլիուս Մագի
+- جولیوس مگی
+- يوليوس ماجى
+- ยูลีอุส มัจจี
+- ジュリアス・マギー
+- 朱利葉斯·美極
+has_id_wikidata: Q120355
+dv_has_:
+  name_:
+    arz: يوليوس ماجى
+    ast: Julius Maggi
+    bg: Юлиус Маги
+    ca: Julius Maggi
+    cs: Julius Maggi
+    da: Julius Maggi
+    de: Julius Maggi
+    en: Julius Maggi
+    es: Julius Maggi
+    fa: جولیوس مگی
+    fi: Julius Maggi
+    fr: Julius Maggi
+    ga: Julius Maggi
+    hy: Յուլիուս Մագի
+    id: Julius Maggi
+    it: Julius Maggi
+    ja: ジュリアス・マギー
+    lb: Julius Maggi
+    ms: Julius Maggi
+    mul: Julius Maggi
+    nb: Julius Maggi
+    nl: Julius Maggi
+    nn: Julius Maggi
+    oc: Julius Maggi
+    pl: Julius Maggi
+    pt: Julius Maggi
+    pt-br: Julius Maggi
+    rm: Julius Maggi
+    ru: Юлиус Магги
+    sl: Julius Maggi
+    sq: Julius Maggi
+    sv: Julius Maggi
+    th: ยูลีอุส มัจจี
+    uk: Юліус Маггі
+    zh: 朱利葉斯·美極
 ---
-
 # [[Maggi,Julius]] 
 
 #has_/time_/started ::  1846-10-09 

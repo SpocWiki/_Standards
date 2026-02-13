@@ -1,4 +1,92 @@
-
+---
+has_id_wikidata: Q208237
+dv_has_:
+  name_:
+    ar: وحدية
+    az: Monoid
+    be-tarask: маноід
+    bs: monoid
+    ca: monoide
+    cs: monoid
+    de: Monoid
+    el: Μονοειδές
+    en: monoid
+    eo: monoido
+    es: monoide
+    et: Monoid
+    fa: مونوئید
+    fi: monoidi
+    fr: monoïde
+    gl: monoide
+    he: מונואיד
+    hr: Monoid
+    hu: monoid
+    ia: Monoide
+    id: monoid
+    is: Einungur
+    it: monoide
+    ja: モノイド
+    ko: 모노이드
+    la: monoides
+    lb: Monoid
+    lt: Monoidas
+    mk: моноид
+    ms: Monoid
+    nb: monoid
+    nl: monoïde
+    nn: monoide
+    oc: Monoïde
+    pl: monoid
+    pms: Monòid
+    pt: monoide
+    pt-br: monoide
+    ro: Monoid
+    ru: моноид
+    sh: Monoid
+    sl: monoid
+    sr: моноид
+    sr-ec: моноид
+    sr-el: monoid
+    sv: monoid
+    ta: ஒற்றைக்குலம்
+    tr: Birlik
+    uk: моноїд
+    vi: Monoid
+    yi: מאנאאיד
+    yue: 幺半羣
+    zh: 幺半群
+    zh-cn: 幺半群
+    zh-hans: 幺半群
+    zh-hant: 么半群
+    zh-hk: 么半群
+    zh-sg: 幺半群
+    zh-tw: 么半群
+aliases:
+- Birlik
+- Einungur
+- monoid
+- Monoidas
+- monoide
+- monoides
+- monoidi
+- monoido
+- monoïde
+- Monòid
+- Μονοειδές
+- маноід
+- моноїд
+- моноид
+- מאנאאיד
+- מונואיד
+- مونوئید
+- وحدية
+- ஒற்றைக்குலம்
+- モノイド
+- 么半群
+- 幺半羣
+- 幺半群
+- 모노이드
+---
 # [[Monoid]] 
 
 A Monoid can be represented...

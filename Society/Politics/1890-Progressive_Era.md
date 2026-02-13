@@ -1,10 +1,81 @@
 ---
 aliases:
-  - Progressive Era
-  - 1890-Progressive_Era
-  - 1890-Progressive Era
+- 1890-Progressive Era
+- 1890-Progressive_Era
+- Chìn-pō͘-chú-gī Sî-tāi
+- Era postępowa
+- Era progresista
+- Era progressista
+- Era progressita
+- Framsóknartímabilið
+- Pokroková éra
+- Progresisma Erao
+- progresivna doba
+- Progresseerumise ajastu
+- Progressief tijdperk
+- Progressiivisuuden kausi
+- Progressiva eran
+- Progressive Era
+- Progressive periode
+- progresszív korszak
+- Proqressiv dövr
+- Razvojno doba
+- Thời đại cấp tiến
+- Ère progressiste
+- İlerici Dönem
+- Прогресивна епоха
+- Эра прогрессивизма
+- העידן הפרוגרסיבי
+- الحقبة التقدمية
+- عصر ترقیخواهی
+- پرمختلونکی پير
+- ප්රගතිශීලී යුගය
+- 进步时代
+- 進步時代
+- 進歩主義時代
+- 진보 시대
+has_id_wikidata: Q2635158
+dv_has_:
+  name_:
+    ar: الحقبة التقدمية
+    az: Proqressiv dövr
+    ca: Era progressita
+    cs: Pokroková éra
+    da: Progressive periode
+    de: Progressive Era
+    en: Progressive Era
+    eo: Progresisma Erao
+    es: Era progresista
+    et: Progresseerumise ajastu
+    fa: عصر ترقیخواهی
+    fi: Progressiivisuuden kausi
+    fr: Ère progressiste
+    he: העידן הפרוגרסיבי
+    hr: Razvojno doba
+    hu: progresszív korszak
+    is: Framsóknartímabilið
+    it: Era progressista
+    ja: 進歩主義時代
+    ko: 진보 시대
+    nan: Chìn-pō͘-chú-gī Sî-tāi
+    nb: Progressive periode
+    nl: Progressief tijdperk
+    pl: Era postępowa
+    ps: پرمختلونکی پير
+    pt: Era Progressista
+    ru: Эра прогрессивизма
+    si: ප්රගතිශීලී යුගය
+    sl: progresivna doba
+    sv: Progressiva eran
+    tr: İlerici Dönem
+    uk: Прогресивна епоха
+    vec: Era progresista
+    vi: Thời đại cấp tiến
+    zh: 進步時代
+    zh-hans: 进步时代
+    zh-hant: 進步時代
+    zh-hk: 進步時代
 ---
-
 # [[1890-Progressive_Era]] 
 
 #has_/time_/started :: 1890-06 

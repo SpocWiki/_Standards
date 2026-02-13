@@ -1,28 +1,95 @@
 ---
 aliases:
+- Izar errotazio
+- Putaran bintang
+- rotació estel·lar
+- Rotación estelar
+- Rotacja gwiazd
+- Rotasi bintang
+- rotation stellaire
+- Rotazione stellare
+- rotação estelar
+- Rotație stelară
+- stellaire rotatie
+- stellar rotation
+- stellare Rotation
+- stjernerotasjon
+- Sự tự quay của sao
+- tähden pyöriminen
+- Yıldız dönüşü
+- Zvezdana rotacija
+- Çăлтăрсен çаврăнăвĕ
+- αστρική περιστροφή
+- Ѕвездена ротација
+- вращение звезды
+- вярчэньне зоркі
+- обертання зорі
+- סיבוב עצמי של כוכב
+- دوران النجوم
+- چرخش ستارهای
+- การหมุนรอบตัวเองของดาวฤกษ์
+- 恆星自轉
+- 恒星の自転
+- 항성 자전
 has_id_wikidata: Q6464
-subclass_of: "[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]"
+subclass_of: '[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]"
-    - "[[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]]"
-    - "[[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]]"
-    - "[[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]]"
-    - "[[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]]"
-    - "[[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]]"
-    - "[[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]]"
-    - "[[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]]"
+  - '[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]'
+  - '[[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]]'
+  - '[[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]]'
+  - '[[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]]'
+  - '[[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]]'
+  - '[[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]]'
+  - '[[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]]'
+  - '[[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]"
-  - "[[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]]"
-  - "[[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]]"
-  - "[[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]]"
-  - "[[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]]"
-  - "[[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]]"
-  - "[[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]]"
-  - "[[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]]"
+- '[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]'
+- '[[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]]'
+- '[[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]]'
+- '[[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]]'
+- '[[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]]'
+- '[[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]]'
+- '[[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]]'
+- '[[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]]'
+dv_has_:
+  name_:
+    ar: دوران النجوم
+    ast: Rotación estelar
+    be-tarask: вярчэньне зоркі
+    ca: rotació estel·lar
+    cv: Çăлтăрсен çаврăнăвĕ
+    de: stellare Rotation
+    el: αστρική περιστροφή
+    en: stellar rotation
+    en-ca: Stellar rotation
+    en-gb: stellar rotation
+    es: Rotación estelar
+    eu: Izar errotazio
+    fa: چرخش ستارهای
+    fi: tähden pyöriminen
+    fr: rotation stellaire
+    he: סיבוב עצמי של כוכב
+    id: Rotasi bintang
+    it: Rotazione stellare
+    ja: 恒星の自転
+    ko: 항성 자전
+    mk: Ѕвездена ротација
+    ms: Putaran bintang
+    nb: stjernerotasjon
+    nl: stellaire rotatie
+    pl: Rotacja gwiazd
+    pt: rotação estelar
+    pt-br: Rotação estelar
+    ro: Rotație stelară
+    ru: вращение звезды
+    sr: Zvezdana rotacija
+    th: การหมุนรอบตัวเองของดาวฤกษ์
+    tr: Yıldız dönüşü
+    uk: обертання зорі
+    vi: Sự tự quay của sao
+    zh: 恆星自轉
 ---
-
 # [[Stellar_Rotation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]  

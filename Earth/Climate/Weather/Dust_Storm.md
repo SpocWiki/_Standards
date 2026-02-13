@@ -1,18 +1,81 @@
 ---
 aliases:
-  - dust storm
-  - sandstorm
-  - Sandsturm
-  - Dust_Storm
-  - Dust Storm
+- Badai pasir
+- Badai wedhi
+- burza piaskowa
+- Bão cát
+- Chang bo'roni
+- dust storm
+- Dust_Storm
+- Egwijo ntitaak
+- Furtună de nisip
+- Guguwar ƙura
+- Hauts ekaitz
+- hiekkamyrsky
+- kum fırtınası
+- liivatorm
+- Nube de polvu
+- peščeni vihar
+- Pješčana oluja
+- porvihar
+- Prachová búrka
+- procella pulvis
+- písečná bouře
+- Qum Fırtınası
+- Ribut pasir
+- sabloŝtormo
+- sandstorm
+- Sandsturm
+- smilšu vētra
+- Smėlio audra
+- stoirm ghainimh
+- Stuhia e rërës
+- tempesta de arena
+- tempesta de pols
+- tempesta di sabbia
+- tempestade de areia
+- Tempèsta d'arena
+- tempête de sable
+- Tormenta de po
+- tormenta de polvo
+- zandstorm
+- Şañdı dawıl
+- Αμμοθύελλα
+- Говийн угалз салхи
+- Песочна бура
+- пешчана олуја
+- пилова буря
+- пылавая бура
+- пыльная буря
+- Пясчаная бура
+- Пясъчна буря
+- Тусанлă тăвăл
+- Хокбод
+- Шаңды дауыл
+- Փոշոտ փոթորիկ
+- סופת חול
+- شاڭدى داۋىل
+- طوفان گرد و باد
+- طوفانشن
+- عاصفة رملية
+- रेतीला तूफान
+- புழுதிப் புயல்
+- ധൂളിക്കൊടുങ്കാറ്റ്
+- พายุฝุ่น
+- རླུང་དམར།
+- သဲမုန်တိုင်း
+- 沙塵暴
+- 沙尘暴
+- 砂嵐
+- 모래폭풍
 has_id_wikidata: Q182878
 subclass_of:
-  - "[[_Standards/WikiData/WD~storm,81054]]"
-  - "[[_Standards/WikiData/WD~lithometeor,1779287]]"
+- '[[_Standards/WikiData/WD~storm,81054]]'
+- '[[_Standards/WikiData/WD~lithometeor,1779287]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~dust,165632]]"
-  - "[[_Standards/WikiData/WD~sand,34679]]"
-instance_of: "[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]"
+- '[[_Standards/WikiData/WD~dust,165632]]'
+- '[[_Standards/WikiData/WD~sand,34679]]'
+instance_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
 OmegaWiki_Defined_Meaning: 510537
 Iconclass_notation: 26C33
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sandstorm%20in%20Al%20Asad%2C%20Iraq.jpg
@@ -22,25 +85,110 @@ Commons_gallery: Dust storm
 Commons_category: Dust storms
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]]"
-    - "[[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]]"
-    - "[[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]]"
+  - '[[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]]'
+  - '[[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]]'
+  - '[[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]]"
-  - "[[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]]"
-  - "[[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]]"
+- '[[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]]'
+- '[[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]]'
+- '[[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]]'
+- '[[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]]'
+- '[[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]]'
+- '[[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]]'
+dv_has_:
+  name_:
+    af: Sandstorm
+    ann: Egwijo ntitaak
+    ar: عاصفة رملية
+    ast: Nube de polvu
+    az: Qum Fırtınası
+    be: Пясчаная бура
+    be-tarask: пылавая бура
+    bg: Пясъчна буря
+    bo: རླུང་དམར།
+    ca: tempesta de pols
+    cs: písečná bouře
+    cv: Тусанлă тăвăл
+    da: Sandstorm
+    de: Sandsturm
+    el: Αμμοθύελλα
+    en: dust storm
+    eo: sabloŝtormo
+    es: tormenta de polvo
+    et: liivatorm
+    eu: Hauts ekaitz
+    fa: طوفانشن
+    fi: hiekkamyrsky
+    fr: tempête de sable
+    ga: stoirm ghainimh
+    gl: Tormenta de po
+    ha: Guguwar ƙura
+    he: סופת חול
+    hi: रेतीला तूफान
+    hr: Pješčana oluja
+    hu: porvihar
+    hy: Փոշոտ փոթորիկ
+    ia: tempesta de arena
+    id: Badai pasir
+    it: tempesta di sabbia
+    ja: 砂嵐
+    jv: Badai wedhi
+    kk: Шаңды дауыл
+    kk-arab: شاڭدى داۋىل
+    kk-cn: شاڭدى داۋىل
+    kk-cyrl: Шаңды дауыл
+    kk-kz: Шаңды дауыл
+    kk-latn: Şañdı dawıl
+    kk-tr: Şañdı dawıl
+    ko: 모래폭풍
+    la: procella pulvis
+    lt: Smėlio audra
+    lv: smilšu vētra
+    mk: Песочна бура
+    ml: ധൂളിക്കൊടുങ്കാറ്റ്
+    mn: Говийн угалз салхи
+    ms: Ribut pasir
+    my: သဲမုန်တိုင်း
+    nb: sandstorm
+    nl: zandstorm
+    nn: sandstorm
+    oc: Tempèsta d'arena
+    pl: burza piaskowa
+    pnb: طوفان گرد و باد
+    pt: tempestade de areia
+    ro: Furtună de nisip
+    ru: пыльная буря
+    sh: Pješčana oluja
+    sk: Prachová búrka
+    sl: peščeni vihar
+    sq: Stuhia e rërës
+    sr: пешчана олуја
+    sv: Sandstorm
+    ta: புழுதிப் புயல்
+    tg: Хокбод
+    th: พายุฝุ่น
+    tr: kum fırtınası
+    uk: пилова буря
+    ur: طوفان گرد و باد
+    uz: Chang bo'roni
+    vi: Bão cát
+    wuu: 沙尘暴
+    yue: 沙塵暴
+    zh: 沙尘暴
+    zh-cn: 沙尘暴
+    zh-hans: 沙尘暴
+    zh-hant: 沙塵暴
+    zh-hk: 沙塵暴
+    zh-sg: 沙尘暴
+    zh-tw: 沙塵暴
 ---
-
 # [[Dust_Storm]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dust_storm,182878|WD~Dust_storm,182878]] 

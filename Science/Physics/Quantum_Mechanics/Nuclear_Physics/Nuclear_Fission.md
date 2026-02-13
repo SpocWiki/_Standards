@@ -1,34 +1,243 @@
 ---
 aliases:
-  - Nuclear fission
-  - Nuclear_Fission
-  - Nuclear Fission
+- aẓuni aɣisan
+- Branduolio dalijimasis
+- eamhnú núicléach
+- Fishinii niwukilaraa
+- fisi nuklir
+- fisio
+- Fisio nuklear
+- Fisioni bërthamor
+- Fisiune nucleară
+- Fisión nuclear
+- Fisión nucleyar
+- fisjon
+- fissio
+- fissio nuclearis
+- fission
+- Fission nuclear
+- fission nucleara
+- Fission Nucleari
+- fission nucléaire
+- fissione nucleare
+- fissioni nucliari
+- fissió nuclear
+- fissão nuclear
+- Fisyon
+- Fisyon nukleyar
+- Fisyono nukleer
+- Iñuku huk'i p'akiy
+- Jadrová reakcia
+- jedrska cepitev
+- Karnspleten
+- Kernspaltung
+- Kernsplieting
+- kernsplijting
+- Kernsplyting
+- Kialklüüwang
+- Kjarnaklofnun
+- kjernefysisk fisjon
+- Kodolu dalīšanās
+- Kondoulu dalėjėmasis
+- Käädenkleeuwenge
+- maghasadás
+- Mwatuko wa nyuklia
+- Nuclear fission
+- Nuclear_Fission
+- nuklearna fisija
+- Nüvə parçalanması
+- Pembelahan nukleus
+- phân hạch hạt nhân
+- Pisyong nukleyar
+- rozszczepienie jądra atomowego
+- Rubanzura Shomwe
+- Südäitukjagand
+- tuumalõhustumine
+- Ukuklewuka kwenuzi
+- Yadroning boʻlinishi
+- Ymholltiad niwclear
+- özek bölüvi
+- štěpná jaderná reakce
+- Πυρηνική σχάση
+- јадрено цепење
+- Атом ядросунун бөлүнүшү
+- деление ядра
+- Дзяленне ядра
+- Дзяленьне ядра
+- нуклеарна фисија
+- Поділ ядра
+- Төшнең бүленүе
+- Цөм задрах урвал
+- Ядрено делене
+- Ядро бүленеше
+- ядролэн люкиськемез
+- Ядроның бөлінуі
+- Միջուկի ճեղքում
+- ביקוע גרעיני
+- יאדער־שפאלטונג
+- انشطار نووي
+- د هستې چاودېدل
+- شکافت هستهای
+- نویاتی انشقاق
+- نیوکلیائی فشن
+- کەرتبوونی ناوکی
+- अणुकेंद्रीय विखंडन
+- नाभिकीय विखण्डन
+- विखण्डन
+- নিউক্লীয় বিভাজন
+- ਨਿਊਕਲੀ ਫੱਟ
+- அணுக்கரு பிளவு
+- కేంద్రక విచ్ఛిత్తి
+- ಪರಮಾಣು ವಿದಳನ ಕ್ರಿಯೆ
+- അണുവിഘടനം
+- න් යෂ්ටික විඛණ්ඩනය
+- การแบ่งแยกนิวเคลียส
+- နယူးကလိယား ဖစ်ရှင်း
+- ბირთვული დოხუალა
+- 核分裂反応
+- 核裂变
+- 核裂變
+- 핵분열
 has_id_wikidata: Q11429
 Commons_category: Nuclear fission
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 different_from: '[[_Standards/WikiData/WD~disproportionation_reaction,64995469]]'
 facet_of: '[[_Standards/WikiData/WD~nuclear_physics,81197]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~radioactivity,11448]]'
-  - '[[_Standards/WikiData/WD~heat,44432]]'
+- '[[_Standards/WikiData/WD~radioactivity,11448]]'
+- '[[_Standards/WikiData/WD~heat,44432]]'
 IEV_number:
-  - 395-02-67
-  - 881-03-54
+- 395-02-67
+- 881-03-54
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kernspaltung.svg
 instance_of: '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
 Krugosvet_article: nauka_i_tehnika/fizika/YADER_DELENIE.html
 MeSH_tree_code:
-  - G01.536.485
-  - N06.230.132.580.500
+- G01.536.485
+- N06.230.132.580.500
 named_after: '[[_Standards/WikiData/WD~fission,929080]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B9%81%E0%B8%A2%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%AA.wav
 subclass_of:
-  - '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
-  - '[[_Standards/WikiData/WD~separation,3182649]]'
+- '[[_Standards/WikiData/WD~nuclear_reaction,238323]]'
+- '[[_Standards/WikiData/WD~separation,3182649]]'
 time_of_discovery_or_invention: 1938-12-01
 UMLS_CUI: C0028576
+dv_has_:
+  name_:
+    af: Kernsplyting
+    an: Fisión nucleyar
+    ar: انشطار نووي
+    as: নিউক্লীয় বিভাজন
+    ast: Fisión nuclear
+    az: Nüvə parçalanması
+    ba: Ядро бүленеше
+    be: Дзяленне ядра
+    be-tarask: Дзяленьне ядра
+    bg: Ядрено делене
+    bn: নিউক্লীয় বিভাজন
+    bs: nuklearna fisija
+    ca: fissió nuclear
+    ckb: کەرتبوونی ناوکی
+    crh: özek bölüvi
+    cs: štěpná jaderná reakce
+    cy: Ymholltiad niwclear
+    da: fission
+    de: Kernspaltung
+    diq: Fisyono nukleer
+    el: Πυρηνική σχάση
+    en: nuclear fission
+    eo: fisio
+    es: fisión nuclear
+    et: tuumalõhustumine
+    eu: Fisio nuklear
+    fa: شکافت هستهای
+    fi: fissio
+    fr: fission nucléaire
+    frr: Kialklüüwang
+    ga: eamhnú núicléach
+    gl: Fisión nuclear
+    gsw: Kernspaltung
+    he: ביקוע גרעיני
+    hi: विखण्डन
+    hif: Nuclear fission
+    hr: Nuklearna fisija
+    hu: maghasadás
+    hy: Միջուկի ճեղքում
+    ia: Fission nuclear
+    id: fisi nuklir
+    ie: Fission Nucleari
+    is: Kjarnaklofnun
+    it: fissione nucleare
+    ja: 核分裂反応
+    kab: aẓuni aɣisan
+    kk: Ядроның бөлінуі
+    kn: ಪರಮಾಣು ವಿದಳನ ಕ್ರಿಯೆ
+    ko: 핵분열
+    ky: Атом ядросунун бөлүнүшү
+    la: fissio nuclearis
+    li: Kernsplieting
+    lmo: Fission nuclear
+    lt: Branduolio dalijimasis
+    lv: Kodolu dalīšanās
+    mk: јадрено цепење
+    ml: അണുവിഘടനം
+    mn: Цөм задрах урвал
+    mr: अणुकेंद्रीय विखंडन
+    ms: Pembelahan nukleus
+    my: နယူးကလိယား ဖစ်ရှင်း
+    nb: kjernefysisk fisjon
+    nds: Karnspleten
+    ne: नाभिकीय विखण्डन
+    nl: kernsplijting
+    nn: fisjon
+    oc: fission nucleara
+    om: Fishinii niwukilaraa
+    pa: ਨਿਊਕਲੀ ਫੱਟ
+    pl: rozszczepienie jądra atomowego
+    pms: Fission nuclear
+    pnb: نیوکلیائی فشن
+    ps: د هستې چاودېدل
+    pt: fissão nuclear
+    qu: Iñuku huk'i p'akiy
+    ro: Fisiune nucleară
+    ru: деление ядра
+    scn: fissioni nucliari
+    sco: nuclear fission
+    sgs: Kondoulu dalėjėmasis
+    sh: Nuklearna fisija
+    si: න් යෂ්ටික විඛණ්ඩනය
+    sk: Jadrová reakcia
+    sl: jedrska cepitev
+    smn: fissio
+    sms: fissio
+    sn: Rubanzura Shomwe
+    sq: Fisioni bërthamor
+    sr: нуклеарна фисија
+    stq: Käädenkleeuwenge
+    su: Fisi nuklir
+    sv: fission
+    sw: Mwatuko wa nyuklia
+    ta: அணுக்கரு பிளவு
+    te: కేంద్రక విచ్ఛిత్తి
+    th: การแบ่งแยกนิวเคลียส
+    tl: Pisyong nukleyar
+    tr: Fisyon
+    tt: Төшнең бүленүе
+    udm: ядролэн люкиськемез
+    uk: Поділ ядра
+    ur: نویاتی انشقاق
+    uz: Yadroning boʻlinishi
+    vep: Südäitukjagand
+    vi: phân hạch hạt nhân
+    war: Fisyon nukleyar
+    wuu: 核裂变
+    xmf: ბირთვული დოხუალა
+    yi: יאדער־שפאלטונג
+    yue: 核裂變
+    zh: 核裂变
+    zh-cn: 核裂变
+    zu: Ukuklewuka kwenuzi
 ---
-
 # [[Nuclear_Fission]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Nuclear_fission,11429|WD~Nuclear_fission,11429]] 

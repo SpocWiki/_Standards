@@ -1,11 +1,122 @@
 ---
 aliases:
-  - Tertiary education 
-  - higher education
-  - post-secondary education
-  - Higher_Education
+- 3차 교육
+- allaskuvladási skuvlen
+- arsim terciar
+- educació terciària
+- educación terciaria
+- eftergymnasial utbildning
+- enseignement supérieur
+- ensenhament superior
+- ensino superior
+- felsőoktatás
+- giáo dục đại học – cao đẳng
+- higher education
+- Higher_Education
+- imfundo ephakeme
+- istruzione terziaria
+- kolmanda taseme haridus
+- korkea-asteen koulutus
+- oideachas treasach
+- oliy taʼlim
+- ollâtääsi škovliittâs
+- Pendidikan tersier
+- pendidikan tinggi
+- post-secondary education
+- te kura tuatoru
+- terciarno izobraževanje
+- terciární vzdělávání
+- tertiair onderwijs
+- tertiary eddication
+- Tertiary education
+- tertiärer Bildungsbereich
+- tertiær uddannelse
+- triaranga edukado
+- visoko obrazovanje
+- Yükseköğretim
+- învățământ superior
+- õlltääʹzz škooultõs
+- τριτοβάθμια εκπαίδευση
+- високо образовање
+- високо образование
+- трацічная адукацыя
+- третична освіта
+- третичное образование
+- өченчел белем бирү
+- השכלה על תיכונית
+- آموزش دانشگاهی
+- التعليم العالى
+- ثلاثی تعلیم
+- قطاع تعليم ثالث
+- மூன்றாம் நிலைக் கல்வி
+- อุดมศึกษา
+- ẹ̀kọ́ gíga
+- 第3期の教育
+- 第三期教育
+has_id_wikidata: Q9166713
+dv_has_:
+  name_:
+    ar: قطاع تعليم ثالث
+    arz: التعليم العالى
+    be-tarask: трацічная адукацыя
+    ca: educació terciària
+    cs: terciární vzdělávání
+    da: tertiær uddannelse
+    de: tertiärer Bildungsbereich
+    el: τριτοβάθμια εκπαίδευση
+    en: tertiary education
+    en-ca: Tertiary education
+    en-gb: tertiary education
+    eo: triaranga edukado
+    es: educación terciaria
+    et: kolmanda taseme haridus
+    fa: آموزش دانشگاهی
+    fi: korkea-asteen koulutus
+    fr: enseignement supérieur
+    ga: oideachas treasach
+    gl: educación terciaria
+    he: השכלה על תיכונית
+    hu: felsőoktatás
+    id: Pendidikan tersier
+    it: istruzione terziaria
+    ja: 第3期の教育
+    ko: 3차 교육
+    mi: te kura tuatoru
+    mk: високо образование
+    ms: pendidikan tinggi
+    nl: tertiair onderwijs
+    oc: ensenhament superior
+    pt: ensino superior
+    ro: învățământ superior
+    ru: третичное образование
+    sco: tertiary eddication
+    se: allaskuvladási skuvlen
+    sl: terciarno izobraževanje
+    smn: ollâtääsi škovliittâs
+    sms: õlltääʹzz škooultõs
+    sq: arsim terciar
+    sr: високо образовање
+    sr-ec: високо образовање
+    sr-el: visoko obrazovanje
+    sv: eftergymnasial utbildning
+    ta: மூன்றாம் நிலைக் கல்வி
+    th: อุดมศึกษา
+    tr: Yükseköğretim
+    tt: өченчел белем бирү
+    tt-cyrl: өченчел белем бирү
+    uk: третична освіта
+    ur: ثلاثی تعلیم
+    uz: oliy taʼlim
+    vi: giáo dục đại học – cao đẳng
+    yo: ẹ̀kọ́ gíga
+    zh: 第三期教育
+    zh-cn: 第三期教育
+    zh-hans: 第三期教育
+    zh-hant: 第三期教育
+    zh-hk: 第三期教育
+    zh-tw: 第三期教育
+    zu: imfundo ephakeme
 ---
-
 # [[Tertiary_Education]] 
 
 #is_/same_as :: [[WD~Higher_education,136822]] 

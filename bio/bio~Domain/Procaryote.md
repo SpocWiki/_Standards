@@ -1,9 +1,202 @@
 ---
 aliases:
-  - Procaryote
-  - prokaryotic
+- Célula procariota
+- Célula procariótica
+- Dreifkjörnungar
+- esitumalliset
+- INswelandeni
+- procarionte
+- procariot
+- procariota
+- Procarioti
+- Procaryot
+- Procaryote
+- Prokaariyoot
+- prokarionti
+- prokarionty
+- Prokarioot
+- Prokariot
+- Prokariota
+- Prokariote
+- Prokarioten
+- Prokarioti
+- Prokariotinė ląstelė
+- Prokariotlar
+- prokarioto
+- prokarióták
+- Prokaryot
+- Prokaryota
+- prokaryotar
+- Prokaryote
+- Prokaryoten
+- Prokaryoter
+- prokaryotes
+- prokaryotic
+- Prokaryoty
+- Prokarüoot
+- Pròkáríọ́tì
+- prócarót
+- Pwokaryòt
+- Sinh vật nhân sơ
+- Προκαρυώτης
+- пракарыёты
+- прокаріоти
+- Прокариот
+- прокариота
+- Прокариоташ
+- прокариоти
+- Прокариоттар
+- Прокариоттор
+- прокариоты
+- Прокариотҳо
+- төшсезләр
+- պրոկարիոտներ
+- פראקאריאטן
+- פרוקריוטים
+- بدائيات النوى
+- بدائی المرکز
+- زیندەوەری ناوک سەرەتایی
+- قبلوعلايفيات
+- پروکاریوتها
+- پروکریوٹ
+- پروڪئريوٽ
+- پرٛوکیریوٹ
+- अकेन्द्रिक
+- प्रोक्यारियोटिक कोशिका
+- প্রাক-কেন্দ্রিক
+- প্ৰ'কোষকেন্দ্ৰীয় জীৱ
+- ਅਕੇਂਦਰੀ ਜੀਵ
+- ପ୍ରାକ୍-ନ୍ଯଷ୍ଟୀୟକ
+- நிலைக்கருவிலி
+- പ്രോകാരിയോട്ടുകൾ
+- โพรแคริโอต
+- ໂປຄາຣີໂອດ
+- နျူကလိယအစစ်မဲ့ သက်ရှိ
+- პროკარიოტები
+- 原核生物
+- 원핵생물
+has_id_wikidata: Q19081
+dv_has_:
+  name_:
+    af: Prokarioot
+    an: Prokaryota
+    ar: بدائيات النوى
+    ary: قبلوعلايفيات
+    arz: بدائيات النوى
+    as: প্ৰ'কোষকেন্দ্ৰীয় জীৱ
+    ast: Célula procariota
+    az: Prokariotlar
+    bar: Prokaryota
+    be: пракарыёты
+    bg: прокариоти
+    bn: প্রাক-কেন্দ্রিক
+    br: Prokariot
+    bs: Prokarioti
+    ca: procariota
+    ce: Прокариоташ
+    ceb: Prokaryota
+    ckb: زیندەوەری ناوک سەرەتایی
+    cs: Prokaryota
+    cy: Procaryot
+    da: Prokaryoter
+    de: Prokaryoten
+    el: Προκαρυώτης
+    en: prokaryotes
+    eo: prokarioto
+    es: procariota
+    et: Prokarüoot
+    eu: prokarioto
+    fa: پروکاریوتها
+    fi: esitumalliset
+    fr: Procaryote
+    frr: Prokarioten
+    ga: prócarót
+    gl: Célula procariótica
+    gsw: Prokaryoten
+    gv: Prokaryota
+    he: פרוקריוטים
+    hi: अकेन्द्रिक
+    hr: Prokarioti
+    ht: Pwokaryòt
+    hu: prokarióták
+    hy: պրոկարիոտներ
+    ia: Prokaryota
+    id: Prokariota
+    is: Dreifkjörnungar
+    it: Prokaryota
+    ja: 原核生物
+    jv: Prokariota
+    ka: პროკარიოტები
+    kaa: Prokariotlar
+    kk: Прокариоттар
+    ko: 원핵생물
+    ks: پرٛوکیریوٹ
+    ky: Прокариоттор
+    la: Prokaryota
+    lb: Prokaryoten
+    li: Prokaryote
+    lld: Procariota
+    lo: ໂປຄາຣີໂອດ
+    lt: Prokariotinė ląstelė
+    lv: prokarioti
+    mk: прокариоти
+    ml: പ്രോകാരിയോട്ടുകൾ
+    ms: Prokariot
+    mul: Prokaryota
+    my: နျူကလိယအစစ်မဲ့ သက်ရှိ
+    nap: Prokaryota
+    nb: prokaryoter
+    nds: Prokaryoten
+    ne: प्रोक्यारियोटिक कोशिका
+    nl: prokaryoten
+    nn: prokaryotar
+    oc: Prokaryota
+    om: Prokaariyoot
+    or: ପ୍ରାକ୍-ନ୍ଯଷ୍ଟୀୟକ
+    pa: ਅਕੇਂਦਰੀ ਜੀਵ
+    pam: Prokaryote
+    pl: prokarionty
+    pnb: پروکریوٹ
+    pt: procarionte
+    ro: procariot
+    ru: прокариоты
+    sah: Прокариот
+    sc: Prokaryota
+    scn: Procarioti
+    sco: prokaryote
+    sd: پروڪئريوٽ
+    sh: Prokariote
+    sk: Prokaryoty
+    sl: prokarionti
+    sq: Prokariot
+    sr: прокариота
+    sv: Prokaryoter
+    ta: நிலைக்கருவிலி
+    tg: Прокариотҳо
+    th: โพรแคริโอต
+    tk: Prokariot
+    tl: Prokaryote
+    tr: Prokaryot
+    tt: төшсезләр
+    tt-cyrl: төшсезләр
+    uk: прокаріоти
+    ur: بدائی المرکز
+    uz: Prokariotlar
+    vec: prokaryotes
+    vi: Sinh vật nhân sơ
+    war: Prokaryota
+    wuu: 原核生物
+    yi: פראקאריאטן
+    yo: Pròkáríọ́tì
+    yue: 原核生物
+    zh: 原核生物
+    zh-cn: 原核生物
+    zh-hans: 原核生物
+    zh-hant: 原核生物
+    zh-hk: 原核生物
+    zh-tw: 原核生物
+    zu: INswelandeni
 ---
-
 This is a Super-[[../Taxon~Domain]]. 
 
 #has_/complement :: [[Eukaryote]] 

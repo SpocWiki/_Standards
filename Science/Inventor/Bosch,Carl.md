@@ -1,41 +1,59 @@
 ---
 aliases:
-  - Carl Bosch
-  - Bosch,Carl
+- Bosch,Carl
+- Bosh Karl
+- Carl Bosch
+- Carolus Bosch
+- Karl Boš
+- Kārlis Bošs
+- Καρλ Μπος
+- Карл Бош
+- Կարլ Բոշ
+- קרל בוש
+- بوش كارل
+- كارل بوش
+- کارل بوش
+- কার্ল বশ
+- ಕಾರ್ಲ್ ಬಾಷ್
+- კარლ ბოში
+- カール・ボッシュ
+- 卡尔·博施
+- 卡爾·博施
+- 카를 보슈
 has_id_wikidata: Q76606
 Krugosvet_article: nauka_i_tehnika/himiya/BOSH_KARL.html
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=798379135
-  - http://www.digiporta.net/index.php?id=732851142
-  - http://www.digiporta.net/index.php?id=666699361
-  - http://www.digiporta.net/index.php?id=211542644
+- http://www.digiporta.net/index.php?id=798379135
+- http://www.digiporta.net/index.php?id=732851142
+- http://www.digiporta.net/index.php?id=666699361
+- http://www.digiporta.net/index.php?id=211542644
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-  - '[[_Standards/WikiData/WD~academic,3400985]]'
-  - '[[_Standards/WikiData/WD~scientific_collector,98544732]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~academic,3400985]]'
+- '[[_Standards/WikiData/WD~scientific_collector,98544732]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
-  - '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
+- '[[_Standards/WikiData/WD~Leipzig_University,154804]]'
+- '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
 employer:
-  - '[[_Standards/WikiData/WD~IG_Farben,156152]]'
-  - '[[_Standards/WikiData/WD~BASF,9401]]'
+- '[[_Standards/WikiData/WD~IG_Farben,156152]]'
+- '[[_Standards/WikiData/WD~BASF,9401]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Goethe_Prize,159909]]'
-  - '[[_Standards/WikiData/WD~Liebig_Medal,567492]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
-  - '[[_Standards/WikiData/WD~Werner_von_Siemens_Ring,879351]]'
-  - '[[_Standards/WikiData/WD~Wehrwirtschaftsführer,883845]]'
-  - '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-  - '[[_Standards/WikiData/WD~Bunsen_Medal,29869512]]'
-  - '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
+- '[[_Standards/WikiData/WD~Goethe_Prize,159909]]'
+- '[[_Standards/WikiData/WD~Liebig_Medal,567492]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
+- '[[_Standards/WikiData/WD~Werner_von_Siemens_Ring,879351]]'
+- '[[_Standards/WikiData/WD~Wehrwirtschaftsführer,883845]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~Bunsen_Medal,29869512]]'
+- '[[_Standards/WikiData/WD~Grashof_Commemorative_Medal,106110409]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Chemistry,44585]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
-  - '[[_Standards/WikiData/WD~Heidelberg_Academy_for_Sciences_and_Humanities,833738]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Heidelberg_Academy_for_Sciences_and_Humanities,833738]]'
 residence: '[[_Standards/WikiData/WD~Villa_Bosch,263620]]'
 place_of_burial: '[[_Standards/WikiData/WD~Bergfriedhof,819654]]'
 father: '[[_Standards/WikiData/WD~Carl_Friedrich_Alexander_Bosch,1037938]]'
@@ -60,8 +78,83 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Carl%20Bosch.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Carl%20Bosch.ogg
 ISNI: 0000000078341455
 P8189: 987007311068005171
+dv_has_:
+  name_:
+    ar: كارل بوش
+    arz: بوش كارل
+    ast: Carl Bosch
+    azb: کارل بوش
+    be: Карл Бош
+    be-tarask: Карл Бош
+    bg: Карл Бош
+    bn: কার্ল বশ
+    ca: Carl Bosch
+    cs: Carl Bosch
+    da: Carl Bosch
+    de: Carl Bosch
+    el: Καρλ Μπος
+    en: Carl Bosch
+    eo: Carl Bosch
+    es: Carl Bosch
+    et: Carl Bosch
+    eu: Carl Bosch
+    fa: کارل بوش
+    fi: Carl Bosch
+    fr: Carl Bosch
+    ga: Carl Bosch
+    gd: Carl Bosch
+    gl: Carl Bosch
+    hak: Carl Bosch
+    he: קרל בוש
+    hr: Carl Bosch
+    hu: Carl Bosch
+    hy: Կարլ Բոշ
+    id: Carl Bosch
+    io: Carl Bosch
+    it: Carl Bosch
+    ja: カール・ボッシュ
+    ka: კარლ ბოში
+    kn: ಕಾರ್ಲ್ ಬಾಷ್
+    ko: 카를 보슈
+    la: Carolus Bosch
+    lv: Kārlis Bošs
+    mg: Carl Bosch
+    ms: Carl Bosch
+    mt: Carl Bosch
+    mul: Carl Bosch
+    mzn: کارل بوش
+    nan: Carl Bosch
+    nb: Carl Bosch
+    nl: Carl Bosch
+    nn: Carl Bosch
+    oc: Carl Bosch
+    pl: Carl Bosch
+    pnb: کارل بوش
+    pt: Carl Bosch
+    pt-br: Carl Bosch
+    ro: Carl Bosch
+    ru: Карл Бош
+    sco: Carl Bosch
+    sh: Carl Bosch
+    sk: Carl Bosch
+    sl: Carl Bosch
+    sq: Carl Bosch
+    sr: Karl Boš
+    sv: Carl Bosch
+    sw: Carl Bosch
+    tr: Carl Bosch
+    tt: Карл Бош
+    uk: Карл Бош
+    ur: کارل بوش
+    uz: Bosh Karl
+    vi: Carl Bosch
+    war: Carl Bosch
+    wuu: 卡尔·博施
+    xmf: კარლ ბოში
+    yo: Carl Bosch
+    yue: 卡爾·博施
+    zh: 卡爾·博施
 ---
-
 # [[Bosch,Carl]] 
 
 #is_/same_as :: [[../../WikiData/WD~Carl_Bosch,76606|WD~Carl_Bosch,76606]] 

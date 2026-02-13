@@ -1,41 +1,93 @@
 ---
 aliases:
+- Aliumo
+- Allium
+- cesnak
+- Chi Hành
+- czosnek
+- Gabʋ
+- hagyma
+- Kobołk
+- Lauch
+- Lauk
+- Laukar
+- laukat
+- laukslekta
+- Look
+- luk
+- löksläktet
+- Løg-slægten
+- Løkslekta
+- Pijoz
+- Piyoz
+- Pulla
+- Soğan
+- Sîr
+- sīpoli
+- Tongolo
+- Zamadaare
+- Česnakas
+- česnek
+- Жуа
+- лук
+- Согуна
+- Суган
+- Сухан
+- Хох
+- Хъæдындз
+- Цибуля
+- Цыбуля
+- սոխ
+- שום
+- ثوم
+- ثومی
+- والک
+- অ্যালিয়াম
+- அல்லியம்
+- ఏలియమ్
+- สกุลกระเทียม
+- ხახვი
+- ხვარხვი
+- ネギ属
+- 葱属
+- 蔥屬
+- 부추속
 has_id_wikidata: Q49391
 taxon_common_name:
-  - 葱属
-  - 葱属
-  - Onion
-  - Look
-  - luk
+- 葱属
+- 葱属
+- Onion
+- Look
+- luk
 described_by_source:
-  - "[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Q19133013,19133013]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~scallion,774278]]"
-award_received: "[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]"
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Q19133013,19133013]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~scallion,774278]]'
+award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~parivyaya,5368822]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Allieae,5669305]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Taxonomy_Allium,15645091]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Berenice,111841066]]"
-associated_hazard: "[[_Standards/WikiData/WD~onion_poisoning,123573455]]"
+- '[[_Standards/WikiData/WD~parivyaya,5368822]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Allieae,5669305]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Allium,15645091]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Berenice,111841066]]'
+associated_hazard: '[[_Standards/WikiData/WD~onion_poisoning,123573455]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Allium_sativum,23400]]"
-  - "[[_Standards/WikiData/WD~bow,46311]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "42634"
+- '[[_Standards/WikiData/WD~Allium_sativum,23400]]'
+- '[[_Standards/WikiData/WD~bow,46311]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 42634
 PAEnflowered_taxon_URL: https://www.paenflowered.org/apgii/asparagales/alliaceae/allium
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Allium%20ursinum1.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Allium%20vineale01.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Allium%20ursinum1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Allium%20vineale01.jpg
 Commons_gallery: Allium
 Commons_category: Allium
 taxon_name: Allium
@@ -45,8 +97,107 @@ EPPO_Code: 1ALLG
 MeSH_tree_code: B01.875.800.575.912.250.618.100.050.060
 Krugosvet_article: nauka_i_tehnika/biologiya/LUK.html
 NBN_System_Key: NHMSYS0000455755
+dv_has_:
+  name_:
+    an: Allium
+    ar: ثوم
+    arz: ثوم
+    ast: Allium
+    az: Soğan
+    be: Цыбуля
+    be-tarask: цыбуля
+    bg: лук
+    bn: অ্যালিয়াম
+    ca: Allium
+    ce: Хох
+    ceb: Allium
+    cs: česnek
+    cv: Сухан
+    da: Løg-slægten
+    de: Lauch
+    dga: Zamadaare
+    dsb: Kobołk
+    en: Allium
+    en-ca: Allium
+    en-gb: Allium
+    eo: Aliumo
+    es: Allium
+    et: Lauk
+    eu: Allium
+    ext: Allium
+    fa: والک
+    fi: laukat
+    fr: Allium
+    frr: Look
+    ga: Allium
+    gl: Allium
+    gn: Allium
+    he: שום
+    hr: luk
+    hsb: Kobołk
+    hu: hagyma
+    hy: սոխ
+    ia: Allium
+    id: Allium
+    ie: Allium
+    inh: Хох
+    io: Allium
+    is: Laukar
+    it: Allium
+    ja: ネギ属
+    jv: Allium
+    ka: ხახვი
+    kk: Жуа
+    ko: 부추속
+    ku: Sîr
+    kus: Gabʋ
+    la: Allium
+    lt: Česnakas
+    lv: sīpoli
+    mg: Tongolo
+    mk: лук
+    ms: Allium
+    mul: Allium
+    nan: Allium
+    nb: Løkslekta
+    nl: look
+    nn: laukslekta
+    oc: Allium
+    os: Хъæдындз
+    pl: czosnek
+    pt: Allium
+    pt-br: Allium
+    qu: Pulla
+    ro: Allium
+    ru: лук
+    sco: Allium
+    sk: cesnak
+    sl: luk
+    sq: Allium
+    sr: Allium
+    sv: löksläktet
+    ta: அல்லியம்
+    te: ఏలియమ్
+    th: สกุลกระเทียม
+    tly: Pijoz
+    tr: Allium
+    tt: Суган
+    tyv: Согуна
+    uk: Цибуля
+    ur: ثومی
+    uz: Piyoz
+    vi: Chi Hành
+    vls: Allium
+    vo: Allium
+    war: Allium
+    wuu: 葱属
+    xmf: ხვარხვი
+    yue: 蔥屬
+    zh: 葱属
+    zh-cn: 蔥屬
+    zh-hans: 葱属
+    zh-tw: 蔥屬
 ---
-
 # [[Allium]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Allium,49391]] 

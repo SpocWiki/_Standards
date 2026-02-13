@@ -1,21 +1,126 @@
 ---
 aliases:
-  - Blauschimmelkäse
-  - Blue_Cheese
-  - Blue Cheese
+- Blauschimmelkäse
+- blauwschimmelkaas
+- Bloukaas
+- blua fromaĝo
+- Blue Cheese
+- Blue_Cheese
+- blågrön mögelost
+- blåmuggost
+- blåskimmelost
+- Brânză cu mucegai
+- Caseo blau
+- Caseus mucore glaucus
+- caws glas
+- formaggio a pasta erborinata
+- formatge blau
+- fromage à pâte persillée
+- gazta urdin
+- Gráðostur
+- homejuusto
+- keju biru
+- Kesu hovy
+- Kèju biru
+- Mavi küflü peynir
+- modri sir
+- niebieski ser
+- Pho mát xanh
+- queijo azul
+- queixo azul
+- queso azul
+- quesu azul
+- Sinihallitusjuust
+- sýr s modrou plísní
+- Μπλε τυρί
+- блакітны сыр
+- Блакітныя сыры
+- Блакитні сири
+- бупави сир
+- голубые сыры
+- зәңгәр сыр
+- сино сирење
+- կապույտ պանիրներ
+- גבינה כחולה
+- جبنة زرقاء
+- پنیر آبی
+- پەنیری شین
+- บลูชีส
+- ເນີຍແຂງຟ້າແກ່
+- ブルーチーズ
+- 蓝干酪
+- 藍乾酪
+- 藍芝士
+- 블루 치즈
 has_id_wikidata: Q746471
-subclass_of: "[[_Standards/WikiData/WD~mould_cheese,391604]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_cheese,3546121]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Blue_cheeses,6721489]]"
-country_of_origin: "[[_Standards/WikiData/WD~France,142]]"
-USDA_NDB_number: "01004"
+subclass_of: '[[_Standards/WikiData/WD~mould_cheese,391604]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_cheese,3546121]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Blue_cheeses,6721489]]'
+country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
+USDA_NDB_number: 01004
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Danish%20Blue%20cheese.jpg
 Commons_category: Blue cheese
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003887
-Amazon_com_browse_node: "2256176011"
+Amazon_com_browse_node: 2256176011
 UMLS_CUI: C1440430
+dv_has_:
+  name_:
+    af: Bloukaas
+    ar: جبنة زرقاء
+    ast: quesu azul
+    be: Блакітныя сыры
+    be-tarask: блакітны сыр
+    ca: formatge blau
+    ckb: پەنیری شین
+    cs: sýr s modrou plísní
+    cy: caws glas
+    da: blåskimmelost
+    de: Blauschimmelkäse
+    el: Μπλε τυρί
+    en: blue cheese
+    eo: blua fromaĝo
+    es: queso azul
+    et: Sinihallitusjuust
+    eu: gazta urdin
+    fa: پنیر آبی
+    fi: homejuusto
+    fr: fromage à pâte persillée
+    gl: queixo azul
+    gn: Kesu hovy
+    he: גבינה כחולה
+    hy: կապույտ պանիրներ
+    ia: Caseo blau
+    is: Gráðostur
+    it: formaggio a pasta erborinata
+    ja: ブルーチーズ
+    jv: Kèju biru
+    ko: 블루 치즈
+    la: Caseus mucore glaucus
+    lo: ເນີຍແຂງຟ້າແກ່
+    mk: сино сирење
+    ms: keju biru
+    nb: blåmuggost
+    nl: blauwschimmelkaas
+    nn: blåmuggost
+    pl: niebieski ser
+    pt: queijo azul
+    ro: Brânză cu mucegai
+    ru: голубые сыры
+    sl: modri sir
+    sr: бупави сир
+    sv: blågrön mögelost
+    th: บลูชีส
+    tr: Mavi küflü peynir
+    tt: зәңгәр сыр
+    uk: Блакитні сири
+    vi: Pho mát xanh
+    wuu: 蓝干酪
+    yue: 藍芝士
+    zh: 藍乾酪
+    zh-hans: 蓝干酪
+    zh-hant: 藍乾酪
+    zh-hk: 藍乾酪
 ---
-
 # [[Blue_Cheese]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Blue_cheese,746471|WD~Blue_cheese,746471]] 

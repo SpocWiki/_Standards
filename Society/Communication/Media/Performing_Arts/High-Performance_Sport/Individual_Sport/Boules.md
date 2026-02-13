@@ -1,9 +1,84 @@
 ---
 aliases:
-  - Boule
-  - Boules
+- balinanje
+- bocce
+- Boule
+- Boules
+- boulespel
+- Boççiya
+- boćanje
+- bočė
+- Bòce
+- bòlas
+- deporte de bolas
+- deporte de boles
+- esport de boles
+- globludo
+- Globorum ludus
+- golyósport
+- jeu de boules
+- koulové sporty
+- Боћање
+- бочче
+- боччэ
+- буле
+- البوتشي
+- بوچه
+- बोचा
+- ブールスポーツ
+- 地擲球
+- 滚木球
+- 滾木球
+- 硬地滾球
+- 불 (스포츠)
+has_id_wikidata: Q895060
+dv_has_:
+  name_:
+    ar: البوتشي
+    ast: deporte de boles
+    az: Boççiya
+    azb: بوچه
+    be-tarask: боччэ
+    ca: esport de boles
+    cs: koulové sporty
+    de: Boule
+    en: bocce
+    eo: globludo
+    es: deporte de bolas
+    eu: Boules
+    fa: بوچه
+    fi: Bocce
+    fr: jeu de boules
+    hr: boćanje
+    hu: golyósport
+    it: bocce
+    ja: ブールスポーツ
+    ko: 불 (스포츠)
+    la: Globorum ludus
+    lb: Bocce
+    lt: bočė
+    mk: буле
+    nb: boule
+    ne: बोचा
+    new: बोचा
+    nl: boules
+    oc: bòlas
+    pl: bocce
+    pms: Bòce
+    pt: boules
+    ru: бочче
+    sh: Boćanje
+    sl: balinanje
+    sr: Боћање
+    sv: boulespel
+    tr: boules
+    uk: бочче
+    yue: 硬地滾球
+    zh: 地擲球
+    zh-cn: 滚木球
+    zh-hans: 滚木球
+    zh-hant: 滾木球
 ---
-
 # [[Boules]] 
 
 #is_/same_as :: 

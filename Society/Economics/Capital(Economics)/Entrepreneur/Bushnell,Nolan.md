@@ -1,31 +1,53 @@
 ---
 aliases:
+- Nolan Bushnell
+- Nolan Buşnell
+- Nolan Bušnel
+- Νόλαν Μπούσνελ
+- Бушнель, Нолан
+- Нолан Бушнел
+- Нолан Бушнелл
+- Нолан Бушнель
+- Нолан Бушнэл
+- Նոլան Բուշնել
+- נולאן בושנל
+- نولان باشنل
+- نولان بوشنل
+- നോലാൻ ബുഷ്നെൽ
+- နိုလန် ဘွတ်သျှနဲ
+- ნოლან ბუშნელი
+- ノーラン・ブッシュネル
+- 諾蘭·布什內爾
+- 諾蘭·布希內爾
+- 諾蘭·布殊內爾
+- 诺兰·布什内尔
+- 놀런 부슈널
 has_id_wikidata: Q335039
 occupation:
-  - "[[_Standards/WikiData/WD~engineer,81096]]"
-  - "[[_Standards/WikiData/WD~computer_scientist,82594]]"
-  - "[[_Standards/WikiData/WD~entrepreneur,131524]]"
-  - "[[_Standards/WikiData/WD~inventor,205375]]"
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Utah,168515]]"
-  - "[[_Standards/WikiData/WD~Utah_State_University,1052614]]"
-  - "[[_Standards/WikiData/WD~Davis_High_School,14711491]]"
-notable_work: "[[_Standards/WikiData/WD~Pong,216293]]"
-place_of_birth: "[[_Standards/WikiData/WD~Clearfield,483715]]"
-award_received: "[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]"
+- '[[_Standards/WikiData/WD~University_of_Utah,168515]]'
+- '[[_Standards/WikiData/WD~Utah_State_University,1052614]]'
+- '[[_Standards/WikiData/WD~Davis_High_School,14711491]]'
+notable_work: '[[_Standards/WikiData/WD~Pong,216293]]'
+place_of_birth: '[[_Standards/WikiData/WD~Clearfield,483715]]'
+award_received: '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~computer_industry,1067601]]"
-  - "[[_Standards/WikiData/WD~video_game,7889]]"
-  - "[[_Standards/WikiData/WD~education,8434]]"
-  - "[[_Standards/WikiData/WD~electrical_engineering,43035]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-given_name: "[[_Standards/WikiData/WD~Nolan,19968248]]"
-family_name: "[[_Standards/WikiData/WD~Bushnell,21571367]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~computer_industry,1067601]]'
+- '[[_Standards/WikiData/WD~video_game,7889]]'
+- '[[_Standards/WikiData/WD~education,8434]]'
+- '[[_Standards/WikiData/WD~electrical_engineering,43035]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+given_name: '[[_Standards/WikiData/WD~Nolan,19968248]]'
+family_name: '[[_Standards/WikiData/WD~Bushnell,21571367]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 8
 social_media_followers: 66227
 date_of_birth: 1943-02-05T00:00:00Z
@@ -36,11 +58,72 @@ Commons_category: Nolan Bushnell
 Facebook_username: nolan.bushnell.9
 Reddit_username: nolanbushnell
 X_Twitter_username:
-  - nolanbushnell
-  - NolanBushnell
+- nolanbushnell
+- NolanBushnell
 name_in_native_language: Nolan Bushnell
+dv_has_:
+  name_:
+    ar: نولان بوشنل
+    arz: نولان بوشنل
+    ast: Nolan Bushnell
+    az: Nolan Buşnell
+    azb: نولان باشنل
+    be-tarask: Нолан Бушнэл
+    bg: Нолан Бушнел
+    ca: Nolan Bushnell
+    cs: Nolan Bushnell
+    da: Nolan Bushnell
+    de: Nolan Bushnell
+    el: Νόλαν Μπούσνελ
+    en: Nolan Bushnell
+    es: Nolan Bushnell
+    eu: Nolan Bushnell
+    fa: نولان باشنل
+    fi: Nolan Bushnell
+    fr: Nolan Bushnell
+    ga: Nolan Bushnell
+    gl: Nolan Bushnell
+    he: נולאן בושנל
+    hu: Nolan Bushnell
+    hy: Նոլան Բուշնել
+    id: Nolan Bushnell
+    it: Nolan Bushnell
+    ja: ノーラン・ブッシュネル
+    ka: ნოლან ბუშნელი
+    ko: 놀런 부슈널
+    ky: Бушнель, Нолан
+    lld: Nolan Bushnell
+    mg: Nolan Bushnell
+    ml: നോലാൻ ബുഷ്നെൽ
+    mul: Nolan Bushnell
+    my: နိုလန် ဘွတ်သျှနဲ
+    nb: Nolan Bushnell
+    nl: Nolan Bushnell
+    nn: Nolan Bushnell
+    pl: Nolan Bushnell
+    pt: Nolan Bushnell
+    pt-br: Nolan Bushnell
+    ro: Nolan Bushnell
+    ru: Нолан Бушнель
+    sl: Nolan Bushnell
+    sq: Nolan Bushnell
+    sr: Нолан Бушнел
+    sr-ec: Нолан Бушнел
+    sr-el: Nolan Bušnel
+    sv: Nolan Bushnell
+    tr: Nolan Bushnell
+    uk: Нолан Бушнелл
+    war: Nolan Bushnell
+    wuu: 诺兰·布什内尔
+    yue: 諾蘭·布殊內爾
+    zh: 诺兰·布什内尔
+    zh-cn: 诺兰·布什内尔
+    zh-hans: 诺兰·布什内尔
+    zh-hant: 諾蘭·布什內爾
+    zh-hk: 諾蘭·布殊內爾
+    zh-sg: 诺兰·布什内尔
+    zh-tw: 諾蘭·布希內爾
 ---
-
 # [[Bushnell,Nolan]] 
 
 #is_/same_as :: [[WD~Nolan_Bushnell,335039]] 

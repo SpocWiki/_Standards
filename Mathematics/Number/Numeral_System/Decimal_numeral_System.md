@@ -1,34 +1,217 @@
 ---
 aliases:
-  - Decimal numeral system
-  - base-ten positional numeral system
-  - denary
-  - decanary
-  - decimal notation
-  - decimal numeral
-  - decimal
-  - decimal number
-  - Decimals
-  - Decimal_numeral_System
-  - Decimal numeral System
+- base-ten positional numeral system
+- chunkantin huchha llika
+- córas deachúil
+- decanary
+- decimaal
+- decimal
+- decimal notation
+- decimal number
+- decimal numeral
+- Decimal numeral system
+- decimala nombrosistemo
+- decimala talsystemet
+- Decimals
+- Decimal_numeral_System
+- decimālā skaitīšanas sistēma
+- degol
+- dekadni numerički sistem
+- dekadni sistem
+- dekadski brojevni sustav
+- dekuma nombrosistemo
+- denary
+- desetiški številski sistem
+- desiatková číselná sústava
+- desimal
+- desítková soustava
+- Dezimalsystem
+- dešimtainė skaičiavimo sistema
+- dhjetor
+- dispakadur dekredel
+- dziesiętny system liczbowy
+- hệ thập phân
+- i-decimal
+- kymmenjärjestelmä
+- kümnendsüsteem
+- letlase la lesome
+- muravanegumi
+- nombre decimal
+- onlu sayı sistemi
+- onluq sistemi
+- perpuluhan
+- sike nanpa pi nanpa 10
+- sistem bilangan desimal
+- sistem desimal
+- sistem wilangan dèsimal
+- sistem zecimal
+- sistema de numberación decimal
+- sistema de numeración decimal
+- sistema de numeraçon decimal
+- sistema de numeração decimal
+- sistema numerico decimale
+- sistèm desimal
+- sistèma decimal
+- si̍p-chìn-hoat
+- systema numericum decimale
+- système décimal
+- titallsystemet
+- titalssystemet
+- tugakerfi
+- tízes számrendszer
+- zenbaki-sistema hamartar
+- δεκαδικό σύστημα
+- аравтын тооллын систем
+- вуншарлă шут тытăмĕ
+- декадни систем
+- десетичен броен систем
+- десетична бройна система
+- десятичная система счисления
+- десяткова система числення
+- дзесятковая сістэма злічэння
+- дзесятковая сыстэма зьлічэньня
+- луан чотрадам системе
+- ондук эсептөө тутуму
+- сандардың ондық жүйесі
+- унарлы исәпләү системасы
+- унарлы иҫәпләү системаһы
+- կոտորակներ
+- דעצימאל
+- השיטה העשרונית
+- دهدهی
+- دەدەیی
+- معید اعشاریہ
+- نظام عد عشري
+- दशमलव पद्धति
+- दशमलव संख्या
+- দশমিক পদ্ধতি
+- ਇਸ਼ਾਰੀਆ
+- பதின்மம்
+- ದಶಮಾನ ಪದ್ಧತಿ
+- ദശാംശ സമ്പ്രദായം
+- เลขฐานสิบ
+- თვლის ათობითი სისტემა
+- 十进制
+- 十進制
+- 十進法
+- 십진법
 has_id_wikidata: Q81365
 different_from:
-  - "[[_Standards/WikiData/WD~decimal_separator,427968]]"
-  - "[[_Standards/WikiData/WD~decimal_number,20154908]]"
+- '[[_Standards/WikiData/WD~decimal_separator,427968]]'
+- '[[_Standards/WikiData/WD~decimal_number,20154908]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-follows: "[[_Standards/WikiData/WD~nonary,3057662]]"
-followed_by: "[[_Standards/WikiData/WD~undecimal,5357322]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~positional_numeral_system,25457532]]"
-radix: "[[_Standards/WikiData/WD~10,23806]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+follows: '[[_Standards/WikiData/WD~nonary,3057662]]'
+followed_by: '[[_Standards/WikiData/WD~undecimal,5357322]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~positional_numeral_system,25457532]]'
+radix: '[[_Standards/WikiData/WD~10,23806]]'
 Colon_Classification: B1152
 Commons_category: Decimal numbers
+dv_has_:
+  name_:
+    ar: نظام عد عشري
+    ast: sistema de numberación decimal
+    az: onluq sistemi
+    ba: унарлы иҫәпләү системаһы
+    bcl: desimal
+    be: дзесятковая сістэма злічэння
+    be-tarask: дзесятковая сыстэма зьлічэньня
+    bg: десетична бройна система
+    bn: দশমিক পদ্ধতি
+    br: dispakadur dekredel
+    bs: dekadni numerički sistem
+    ca: nombre decimal
+    ckb: دەدەیی
+    cs: desítková soustava
+    cv: вуншарлă шут тытăмĕ
+    cy: degol
+    da: decimal
+    de: Dezimalsystem
+    el: δεκαδικό σύστημα
+    en: decimal
+    eo: dekuma nombrosistemo
+    es: sistema de numeración decimal
+    et: kümnendsüsteem
+    eu: zenbaki-sistema hamartar
+    fa: دهدهی
+    fi: kymmenjärjestelmä
+    fr: système décimal
+    ga: córas deachúil
+    gl: sistema de numeración decimal
+    gsw: Dezimalsystem
+    he: השיטה העשרונית
+    hi: दशमलव पद्धति
+    hr: dekadski brojevni sustav
+    ht: sistèm desimal
+    hu: tízes számrendszer
+    hy: կոտորակներ
+    id: sistem bilangan desimal
+    io: decimala nombrosistemo
+    is: tugakerfi
+    it: sistema numerico decimale
+    ja: 十進法
+    jv: sistem wilangan dèsimal
+    ka: თვლის ათობითი სისტემა
+    kk: сандардың ондық жүйесі
+    kn: ದಶಮಾನ ಪದ್ಧತಿ
+    ko: 십진법
+    ky: ондук эсептөө тутуму
+    la: systema numericum decimale
+    lb: Dezimalsystem
+    lfn: sistem desimal
+    lt: dešimtainė skaičiavimo sistema
+    lv: decimālā skaitīšanas sistēma
+    lzh: 十進制
+    mhr: луан чотрадам системе
+    mk: десетичен броен систем
+    ml: ദശാംശ സമ്പ്രദായം
+    mn: аравтын тооллын систем
+    ms: perpuluhan
+    mwl: sistema de numeraçon decimal
+    nan: si̍p-chìn-hoat
+    nb: titallsystemet
+    ne: दशमलव संख्या
+    nl: decimaal
+    nn: titalssystemet
+    nso: letlase la lesome
+    oc: sistèma decimal
+    pa: ਇਸ਼ਾਰੀਆ
+    pl: dziesiętny system liczbowy
+    pt: sistema de numeração decimal
+    pt-br: sistema de numeração decimal
+    qu: chunkantin huchha llika
+    ro: sistem zecimal
+    ru: десятичная система счисления
+    sh: dekadni sistem
+    sk: desiatková číselná sústava
+    sl: desetiški številski sistem
+    sn: muravanegumi
+    sq: dhjetor
+    sr: декадни систем
+    sr-ec: декадни систем
+    sr-el: dekadni sistem
+    sv: decimala talsystemet
+    ta: பதின்மம்
+    th: เลขฐานสิบ
+    tok: sike nanpa pi nanpa 10
+    tr: onlu sayı sistemi
+    tt: унарлы исәпләү системасы
+    uk: десяткова система числення
+    ur: معید اعشاریہ
+    vi: hệ thập phân
+    war: desimal
+    wuu: 十进制
+    xh: i-decimal
+    yi: דעצימאל
+    yue: 十進制
+    zh: 十進制
+    zh-hans: 十进制
+    zh-tw: 十進制
 ---
-
 # [[Decimal_numeral_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Decimal,81365|WD~Decimal,81365]] 

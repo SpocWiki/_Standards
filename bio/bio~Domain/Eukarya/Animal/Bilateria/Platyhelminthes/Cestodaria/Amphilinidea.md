@@ -1,9 +1,50 @@
 ---
 aliases:
-  - Amphilinidea
+- Amphilinidae
+- Amphilinidea
+- 两线科
 title: Amphilinidea
+has_id_wikidata: Q474864
+dv_has_:
+  name_:
+    an: Amphilinidae
+    ast: Amphilinidae
+    bg: Amphilinidae
+    ca: Amphilinidae
+    ceb: Amphilinidae
+    de: Amphilinidae
+    en: Amphilinidae
+    eo: Amphilinidae
+    es: Amphilinidae
+    eu: Amphilinidae
+    ext: Amphilinidae
+    fi: Amphilinidae
+    fr: Amphilinidae
+    ga: Amphilinidae
+    gl: Amphilinidae
+    ia: Amphilinidae
+    ie: Amphilinidae
+    io: Amphilinidae
+    it: Amphilinidae
+    la: Amphilinidea
+    mul: Amphilinidae
+    nl: Amphilinidae
+    oc: Amphilinidae
+    pl: Amphilinidea
+    pt: Amphilinidae
+    pt-br: Amphilinidae
+    ro: Amphilinidae
+    ru: Amphilinidae
+    sq: Amphilinidae
+    tr: Amphilinidae
+    uk: Amphilinidae
+    vi: Amphilinidae
+    vo: Amphilinidae
+    war: Amphilinidae
+    zh: 两线科
+    zh-cn: 两线科
+    zh-hans: 两线科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -1,27 +1,91 @@
 ---
 aliases:
+- asinsgrēks
+- bloedskande
+- croiaght
+- ensest
+- Fadulin qoyseed
+- gwadorged
+- hubungan sedarah
+- incest
+- inceste
+- incesti
+- incesto
+- Incestu
+- insesti
+- Insesto
+- intsest
+- intzestu
+- Inzest
+- kazirodztwo
+- kraujomaiša
+- Llosgach
+- Loān-lûn
+- loạn luân
+- makunakuna
+- muquy
+- mǽghǽmed
+- pakikiapid sa kamag-anak
+- qan aralasw
+- sifjaspell
+- Sumbang mahram
+- vérfertőzés
+- Ynsest
+- Însest
+- İnsest
+- Αιμομιξία
+- інцест
+- інцэст
+- инцест
+- Кръвосмешение
+- Қан араласу
+- ինցեստ
+- גילוי עריות
+- ئینسەست
+- رابطه جنسی با خویشاوندان
+- زنا المحارم
+- زنائے محرم
+- زنى المحارم
+- زینا لەگەڵ مەحاریم
+- قان ارالاسۋ
+- ߖߎ߬ߟߊ߬ߖߎ߮
+- अगम्यगमन
+- हाडनाता करणी
+- অজাচার
+- தகாப் பாலுறவு
+- అగమ్యాగమనము
+- അഗമഗമനം
+- ව්යාභිචාරය
+- การร่วมประเวณีกับญาติสนิท
+- གཉེན་ཚན་བར་ཆགས་སྦྱོར་བྱེད་པ།
+- ინცესტი
+- 亂倫
+- 近亲性交
+- 近親性交
+- 近親相姦
+- 근친상간
 has_id_wikidata: Q127683
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-has_effect: "[[_Standards/WikiData/WD~incest_trauma,12752344]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Incest,20350173]]"
+has_effect: '[[_Standards/WikiData/WD~incest_trauma,12752344]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Incest,20350173]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Incest,29588958]]"
-  - "[[_Standards/WikiData/WD~incestum,100721134]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~incest,135524509]]"
+- '[[_Standards/WikiData/WD~Incest,29588958]]'
+- '[[_Standards/WikiData/WD~incestum,100721134]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~incest,135524509]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
-  - "[[_Standards/WikiData/WD~inbreeding,38978]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~inbreeding,38978]]"
-OmegaWiki_Defined_Meaning: "506762"
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~inbreeding,38978]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~inbreeding,38978]]'
+OmegaWiki_Defined_Meaning: 506762
 booru_tag: incest
 IMDb_keyword: incest
 subreddit: incest
@@ -33,8 +97,118 @@ UMLS_CUI: C0021148
 MeSH_tree_code: I01.880.735.442
 Archive_of_Our_Own_tag: Incest
 Commons_category: Incest
+dv_has_:
+  name_:
+    acm: زنا المحارم
+    af: bloedskande
+    ang: mǽghǽmed
+    ar: زنى المحارم
+    arz: زنا المحارم
+    ast: Incestu
+    az: İnsest
+    bcl: Insesto
+    be: інцэст
+    be-tarask: інцэст
+    bg: Кръвосмешение
+    bn: অজাচার
+    bo: གཉེན་ཚན་བར་ཆགས་སྦྱོར་བྱེད་པ།
+    br: gwadorged
+    bs: incest
+    ca: incest
+    ckb: زینا لەگەڵ مەحاریم
+    cs: incest
+    cy: Llosgach
+    da: incest
+    de: Inzest
+    diq: ensest
+    el: Αιμομιξία
+    en: incest
+    en-ca: Incest
+    en-gb: Incest
+    eo: incesto
+    es: incesto
+    et: intsest
+    eu: intzestu
+    fa: رابطه جنسی با خویشاوندان
+    fi: insesti
+    fr: inceste
+    fy: Ynsest
+    gl: incesto
+    gsw: Inzest
+    gv: croiaght
+    he: גילוי עריות
+    hi: अगम्यगमन
+    hr: incest
+    hu: vérfertőzés
+    hy: ինցեստ
+    ia: incesto
+    id: hubungan sedarah
+    io: incesto
+    is: sifjaspell
+    it: incesto
+    ja: 近親相姦
+    ka: ინცესტი
+    kk: Қан араласу
+    kk-arab: قان ارالاسۋ
+    kk-cn: قان ارالاسۋ
+    kk-cyrl: Қан араласу
+    kk-kz: Қан араласу
+    kk-latn: qan aralasw
+    kk-tr: Qan aralasw
+    ko: 근친상간
+    ku: Însest
+    ku-arab: ئینسەست
+    ku-latn: Însest
+    ky: Инцест
+    lmo: incest
+    lt: kraujomaiša
+    lv: asinsgrēks
+    mk: инцест
+    ml: അഗമഗമനം
+    ms: Sumbang mahram
+    nan: Loān-lûn
+    nan-hant: 亂倫
+    nb: incest
+    ne: हाडनाता करणी
+    nl: incest
+    nn: Incest
+    nqo: ߖߎ߬ߟߊ߬ߖߎ߮
+    pl: kazirodztwo
+    pt: incesto
+    pt-br: Incesto
+    qu: muquy
+    ro: incest
+    ru: инцест
+    sh: incest
+    si: ව්යාභිචාරය
+    sk: incest
+    sl: incest
+    sn: makunakuna
+    so: Fadulin qoyseed
+    sq: incesti
+    sr: Инцест
+    sr-ec: Инцест
+    sr-el: incest
+    sv: incest
+    ta: தகாப் பாலுறவு
+    te: అగమ్యాగమనము
+    th: การร่วมประเวณีกับญาติสนิท
+    tl: pakikiapid sa kamag-anak
+    tr: ensest
+    uk: інцест
+    ur: زنائے محرم
+    vi: loạn luân
+    wuu: 近亲性交
+    yi: גילוי עריות
+    yue: 亂倫
+    zh: 近親性交
+    zh-cn: 近亲性交
+    zh-hans: 近亲性交
+    zh-hant: 近親性交
+    zh-hk: 近親性交
+    zh-sg: 近亲性交
+    zh-tw: 近親性交
 ---
-
 # [[Incest]] 
 
 #is_/same_as :: [[WD~Incest,127683]] 

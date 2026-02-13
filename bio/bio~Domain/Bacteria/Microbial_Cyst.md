@@ -1,12 +1,82 @@
 ---
 aliases:
+- Cista
+- Cista (biologija)
+- ciste
+- cysta
+- Cysta (stádium)
+- cyste
+- Kista mikroba
+- Kiste (biologia)
+- kisto (biologio)
+- microbial cyst
+- mikrobiyal kist
+- quist microbià
+- quiste
+- Quiste (microbioloxía)
+- quisto
+- Tsüst
+- Zyste
+- циста
+- Циста (биологија)
+- цыста
+- Ցիստա
+- ציסטה מיקרוביאלית
+- كيسة
+- کیست میکروبی
+- நுண்ணுயிர் காப்புக்கூடு
+- シスト
+- 微生物囊
+- 微生物囊肿
+- 微生物囊腫
 has_id_wikidata: Q245998
-part_of: "[[_Standards/WikiData/WD~biological_life_cycle,513359]]"
+part_of: '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~endospore,828761]]"
-  - "[[_Standards/WikiData/WD~biological_component,28845870]]"
+- '[[_Standards/WikiData/WD~endospore,828761]]'
+- '[[_Standards/WikiData/WD~biological_component,28845870]]'
+dv_has_:
+  name_:
+    ar: كيسة
+    ba: Циста
+    be-tarask: цыста
+    ca: quist microbià
+    cs: Cysta (stádium)
+    de: Zyste
+    en: microbial cyst
+    en-ca: Microbial cyst
+    en-gb: Microbial cyst
+    en-us: microbial cyst
+    eo: kisto (biologio)
+    es: quiste
+    et: Tsüst
+    eu: Kiste (biologia)
+    fa: کیست میکروبی
+    fr: cyste
+    gl: Quiste (microbioloxía)
+    he: ציסטה מיקרוביאלית
+    hy: Ցիստա
+    id: Kista mikroba
+    it: ciste
+    ja: シスト
+    kk: Циста
+    lv: Cista
+    nl: cyste
+    pl: cysta
+    pt: quisto
+    pt-br: Quisto
+    ru: циста
+    sl: Cista (biologija)
+    sr: Циста (биологија)
+    sr-ec: циста
+    sv: Cysta
+    ta: நுண்ணுயிர் காப்புக்கூடு
+    tr: mikrobiyal kist
+    uk: циста
+    yue: 微生物囊
+    zh: 微生物囊腫
+    zh-cn: 微生物囊肿
+    zh-hant: 微生物囊腫
 ---
-
 # [[Microbial_Cyst]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Microbial_cyst,245998|WD~Microbial_cyst,245998]] 

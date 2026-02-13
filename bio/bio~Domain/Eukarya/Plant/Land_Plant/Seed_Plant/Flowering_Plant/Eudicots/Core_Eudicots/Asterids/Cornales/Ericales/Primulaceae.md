@@ -1,66 +1,113 @@
 ---
 aliases:
+- esikkokasvit
+- Giđđačalbmešattut
+- Họ Anh thảo
+- Jaglačevke
+- jegličevke
+- kankalinfélék
+- kodriver-familien
+- Kropačkowe rostliny
+- Maríulykilsætt
+- Navroʻzguldoshlar
+- Novruzçiçəyikimilər
+- Nurmenukulised
+- Nøkleblomfamilien
+- pierwiosnkowate
+- Priimeln
+- Prima rosa
+- Primelgewächse
+- Primolacoj
+- Primulaceae
+- Primulazeo
+- primulàcies
+- prvosenkovité
+- prvosienkovité
+- Prīmulu dzimta
+- Raktažoliniai
+- Viveväxter
+- Јаглики
+- игликови
+- Ключыкавыя
+- Наурызшешек тұқымдасы
+- первоцвітові
+- первоцветные
+- першакветныя
+- գնարբուկազգիներ
+- רקפתיים
+- ربيعية
+- ربيعيه
+- موہری ٹبر
+- پامچالیان
+- പ്രിമുലേസീ
+- วงศ์พริมโรส
+- ཤང་དྲིལ།
+- ფურისულასებრნი
+- サクラソウ科
+- 報春花科
+- 报春花科
+- 앵초과
 has_id_wikidata: Q157115
 taxon_common_name:
-  - primuláceas
-  - Nurmenukulised
-  - Primulazeo
-  - Esikkokasvit
-  - Priimeln
-  - רקפתיים
-  - Jaglačevke
-  - Kropačkowe rostliny
-  - Kankalinfélék
-  - Գնարբուկազգիներ
-  - サクラソウ科
-  - 앵초과
-  - Raktažoliniai
-  - Јаглики
-  - Nøkleblomfamilien
-  - Sleutelbloemfamilie
-  - Nøkleblomfamilien
-  - pierwiosnkowate
-  - Первоцветные
-  - prvosienkovité
-  - jegličevke
-  - Viveväxter
-  - วงศ์พริมโรส
-  - Prima rosa
-  - Çuha çiçeğigiller
-  - Первоцвітові
-  - Navroʻzguldoshlar
-  - Họ Anh thảo
-  - 报春花科
-  - 报春花科
-  - پامچالیان
-  - Primrose family
-  - ربيعية
-  - Novruzçiçəyikimilər
-  - Першакветныя
-  - Игликови
-  - ཤང་དྲིལ།
-  - Primulàcia
-  - prvosenkovité
-  - Kodriver-familien
-  - Primelgewächse
-  - Ηρανθοειδή
-  - Primrose Family
-  - Primolacoj
+- primuláceas
+- Nurmenukulised
+- Primulazeo
+- Esikkokasvit
+- Priimeln
+- רקפתיים
+- Jaglačevke
+- Kropačkowe rostliny
+- Kankalinfélék
+- Գնարբուկազգիներ
+- サクラソウ科
+- 앵초과
+- Raktažoliniai
+- Јаглики
+- Nøkleblomfamilien
+- Sleutelbloemfamilie
+- Nøkleblomfamilien
+- pierwiosnkowate
+- Первоцветные
+- prvosienkovité
+- jegličevke
+- Viveväxter
+- วงศ์พริมโรส
+- Prima rosa
+- Çuha çiçeğigiller
+- Первоцвітові
+- Navroʻzguldoshlar
+- Họ Anh thảo
+- 报春花科
+- 报春花科
+- پامچالیان
+- Primrose family
+- ربيعية
+- Novruzçiçəyikimilər
+- Першакветныя
+- Игликови
+- ཤང་དྲིལ།
+- Primulàcia
+- prvosenkovité
+- Kodriver-familien
+- Primelgewächse
+- Ηρανθοειδή
+- Primrose Family
+- Primolacoj
 taxon_synonym:
-  - "[[_Standards/WikiData/WD~Theophrastaceae,132048]]"
-  - "[[_Standards/WikiData/WD~Myrsinaceae,161260]]"
-  - "[[_Standards/WikiData/WD~Maesaceae,13984900]]"
-has_fruit_type: "[[_Standards/WikiData/WD~capsule,147768]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Primula,158974]]"
+- '[[_Standards/WikiData/WD~Theophrastaceae,132048]]'
+- '[[_Standards/WikiData/WD~Myrsinaceae,161260]]'
+- '[[_Standards/WikiData/WD~Maesaceae,13984900]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Primula,158974]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Flora_URSS,5862833]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_59(1),112869459]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[../../../../../../../../../../../../WikiData/WD~Ericales,21737]]"
-taxon_rank: "[[_Standards/WikiData/WD~family,35409]]"
-ITIS_TSN: "23929"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Flora_URSS,5862833]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_59(1),112869459]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ericales,21737]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+ITIS_TSN: 23929
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Primrose.jpg
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Primulaceae
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=919
@@ -69,8 +116,94 @@ MeSH_tree_code: B01.875.800.575.912.250.341.984
 NBN_System_Key: NBNSYS0000160790
 Commons_category: Primulaceae
 taxon_name: Primulaceae
+dv_has_:
+  name_:
+    af: Primulaceae
+    an: Primulaceae
+    ar: ربيعية
+    arz: ربيعيه
+    ast: Primulaceae
+    az: Novruzçiçəyikimilər
+    be: першакветныя
+    be-tarask: Ключыкавыя
+    bg: игликови
+    bo: ཤང་དྲིལ།
+    bs: Primulaceae
+    ca: primulàcies
+    ceb: Primulaceae
+    cs: prvosenkovité
+    da: kodriver-familien
+    de: Primelgewächse
+    en: Primulaceae
+    eo: Primolacoj
+    es: Primulaceae
+    et: Nurmenukulised
+    eu: Primulazeo
+    ext: Primulaceae
+    fa: پامچالیان
+    fi: esikkokasvit
+    fr: Primulaceae
+    frr: Priimeln
+    ga: Primulaceae
+    gl: Primulaceae
+    he: רקפתיים
+    hr: Jaglačevke
+    hsb: Kropačkowe rostliny
+    hu: kankalinfélék
+    hy: գնարբուկազգիներ
+    ia: Primulaceae
+    id: Primulaceae
+    ie: Primulaceae
+    io: Primulaceae
+    is: Maríulykilsætt
+    it: Primulaceae
+    ja: サクラソウ科
+    ka: ფურისულასებრნი
+    kk: Наурызшешек тұқымдасы
+    ko: 앵초과
+    la: Primulaceae
+    lmo: Primulaceae
+    lt: Raktažoliniai
+    lv: Prīmulu dzimta
+    mk: Јаглики
+    ml: പ്രിമുലേസീ
+    mul: Primulaceae
+    nb: Nøkleblomfamilien
+    nl: Primulaceae
+    nn: Nøkleblomfamilien
+    oc: Primulaceae
+    pl: pierwiosnkowate
+    pnb: موہری ٹبر
+    pt: Primulaceae
+    pt-br: Primulaceae
+    ro: Primulaceae
+    ru: первоцветные
+    sco: Primulaceae
+    se: Giđđačalbmešattut
+    sh: Jaglačevke
+    sk: prvosienkovité
+    sl: jegličevke
+    sq: Primulaceae
+    sr: Primulaceae
+    sv: Viveväxter
+    th: วงศ์พริมโรส
+    tl: Prima rosa
+    tr: Primulaceae
+    uk: первоцвітові
+    uz: Navroʻzguldoshlar
+    vi: Họ Anh thảo
+    vo: Primulaceae
+    war: Primulaceae
+    wuu: 报春花科
+    yue: 報春花科
+    zh: 报春花科
+    zh-cn: 报春花科
+    zh-hans: 报春花科
+    zh-hant: 報春花科
+    zh-hk: 報春花科
+    zh-sg: 报春花科
+    zh-tw: 報春花科
 ---
-
 # [[Primulaceae]] 
 
 #is_/same_as :: [[WD~Primulaceae,157115]] 

@@ -1,14 +1,156 @@
 ---
 aliases:
+- allateknologiija
+- Alta tecnologia
+- alta tecnología
+- alta tekniko
+- Alta teknologio
+- Alta teunoloxía
+- augstās tehnoloģijas
+- aukštosios technologijos
+- Công nghệ cao
+- goi teknologia
+- Hanaq allwiyakama
+- hi-tech
+- high tech
+- hightech
+- hoë tegnologie
+- huipputekniikka
+- högteknologi
+- høgteknologi
+- høyteknologi
+- Ko-kho-ki
+- Kô Khô-kî
+- kõrgtehnoloogia
+- Spitzentechnologie
+- techniques de pointe
+- Teknologi tinggi
+- Teknologjia e lartë
+- Teknolojiya bilind
+- Teknôlôjia avo lenta
+- Uwchdechnoleg
+- Visoka tehnologija
+- vrhunska tehnologija
+- wysoka technika
+- Yuqori texnologiya
+- Yüksek teknoloji
+- Yüksək texnologiya
+- Àuta tecnologìa
+- Înaltă tehnologie
+- Υψηλή τεχνολογία
+- високі технології
+- Висока технологија
+- Високи технологии
+- высокая тэхналёгія
+- высокие технологии
+- Югары технологияләр
+- Юғары технологиялар
+- Һігһ тецһ
+- Հայ-թեք
+- היי-טק
+- اعلیٰ طرزیات
+- تقنية عالية
+- تەکنۆلۆژیای پێشکەوتوو
+- فناوری عالی
+- उच्च प्रौद्योगिकी
+- উচ্চ প্রযুক্তি
+- உயர் தொழில் நுட்பம்
+- เทคโนโลยีขั้นสูง
+- ハイテク
+- 高科技
+- 하이 테크
 has_id_wikidata: Q466410
-opposite_of: "[[_Standards/WikiData/WD~low_technology,786887]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q9841082,9841082]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_technology,112057532]]"
-subclass_of: "[[_Standards/WikiData/WD~technology,11016]]"
+opposite_of: '[[_Standards/WikiData/WD~low_technology,786887]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9841082,9841082]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_technology,112057532]]'
+subclass_of: '[[_Standards/WikiData/WD~technology,11016]]'
 IMDb_keyword: high-tech
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Technology.jpg
+dv_has_:
+  name_:
+    af: hoë tegnologie
+    ar: تقنية عالية
+    ast: Alta teunoloxía
+    az: Yüksək texnologiya
+    ba: Юғары технологиялар
+    be-tarask: высокая тэхналёгія
+    bg: Високи технологии
+    bn: উচ্চ প্রযুক্তি
+    ca: Alta tecnologia
+    ckb: تەکنۆلۆژیای پێشکەوتوو
+    cs: hi-tech
+    cy: Uwchdechnoleg
+    da: hightech
+    de: Spitzentechnologie
+    el: Υψηλή τεχνολογία
+    en: high tech
+    eo: alta tekniko
+    es: alta tecnología
+    et: kõrgtehnoloogia
+    eu: goi teknologia
+    fa: فناوری عالی
+    fi: huipputekniikka
+    fr: techniques de pointe
+    hak: Kô Khô-kî
+    he: היי-טק
+    hi: उच्च प्रौद्योगिकी
+    hr: Visoka tehnologija
+    hy: Հայ-թեք
+    id: Teknologi tinggi
+    io: Alta teknologio
+    it: alta tecnologia
+    ja: ハイテク
+    kk: High tech
+    kk-arab: High tech
+    kk-cn: High tech
+    kk-cyrl: Һігһ тецһ
+    kk-kz: Һігһ тецһ
+    kk-latn: High tech
+    kk-tr: High tech
+    ko: 하이 테크
+    ku: Teknolojiya bilind
+    lt: aukštosios technologijos
+    lv: augstās tehnoloģijas
+    mg: Teknôlôjia avo lenta
+    mk: Висока технологија
+    ms: Teknologi tinggi
+    nan: Ko-kho-ki
+    nb: høyteknologi
+    nl: hightech
+    nn: høgteknologi
+    pl: wysoka technika
+    pms: Àuta tecnologìa
+    pt: alta tecnologia
+    qu: Hanaq allwiyakama
+    ro: Înaltă tehnologie
+    ru: высокие технологии
+    se: allateknologiija
+    sh: Visoka tehnologija
+    sk: High tech
+    sl: vrhunska tehnologija
+    sq: Teknologjia e lartë
+    sr: висока технологија
+    sr-ec: висока технологија
+    sr-el: visoka tehnologija
+    sv: högteknologi
+    ta: உயர் தொழில் நுட்பம்
+    th: เทคโนโลยีขั้นสูง
+    tl: High tech
+    tr: Yüksek teknoloji
+    tt: Югары технологияләр
+    uk: високі технології
+    ur: اعلیٰ طرزیات
+    uz: Yuqori texnologiya
+    vi: Công nghệ cao
+    yue: 高科技
+    zh: 高科技
+    zh-cn: 高科技
+    zh-hans: 高科技
+    zh-hant: 高科技
+    zh-hk: 高科技
+    zh-sg: 高科技
+    zh-tw: 高科技
 ---
-
 # [[High_Tech]] 
 
 #is_/same_as :: [[WD~High_tech,466410]] 

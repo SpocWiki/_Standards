@@ -1,55 +1,75 @@
 ---
 aliases:
-  - Konrad_Zuse
-  - Zuse,Konrad
+- Konrad Tsuze
+- Konrad Zuse
+- Konrad_Zuse
+- Konrāds Cūze
+- Zuse,Konrad
+- Κόνραντ Τσούζε
+- Конард Цусе
+- Конрад Цузе
+- Конрад Цузэ
+- Цузе Конрад
+- Կոնրադ Ցուզե
+- קונראד צוזה
+- كونراد سوزه
+- کنراد تسوزه
+- কনরাড ৎসুজে
+- കോൺറാഡ് സ്യൂസ്
+- კონრად ცუზე
+- コンラート・ツーゼ
+- 康拉德·楚泽
+- 康拉德·楚澤
+- 楚澤
+- 콘라트 추제
 has_id_wikidata: Q60093
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~computer_scientist,82594]]'
-  - '[[_Standards/WikiData/WD~entrepreneur,131524]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~computer_scientist,82594]]'
+- '[[_Standards/WikiData/WD~entrepreneur,131524]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~civil_engineer,13582652]]'
 employer:
-  - '[[_Standards/WikiData/WD~Siemens,81230]]'
-  - '[[_Standards/WikiData/WD~Henschel_&_Sohn,163580]]'
-  - '[[_Standards/WikiData/WD~Zuse_KG,230781]]'
-  - '[[_Standards/WikiData/WD~Aerodynamics_Research_Institute,381435]]'
+- '[[_Standards/WikiData/WD~Siemens,81230]]'
+- '[[_Standards/WikiData/WD~Henschel_&_Sohn,163580]]'
+- '[[_Standards/WikiData/WD~Zuse_KG,230781]]'
+- '[[_Standards/WikiData/WD~Aerodynamics_Research_Institute,381435]]'
 child: '[[_Standards/WikiData/WD~Horst_Zuse,92698]]'
 archives_at: '[[_Standards/WikiData/WD~Deutsches_Museum,131617]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~ZKM_Center_for_Art_and_Media_Karlsruhe,191228]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Z3,222419]]'
-  - '[[_Standards/WikiData/WD~Z22,230807]]'
-  - '[[_Standards/WikiData/WD~Z1,230810]]'
-  - '[[_Standards/WikiData/WD~Z2,230811]]'
-  - '[[_Standards/WikiData/WD~Z4,230825]]'
-  - '[[_Standards/WikiData/WD~Der_Computer_Mein_Lebenswerk,1192815]]'
-  - '[[_Standards/WikiData/WD~Calculating_Space,5018876]]'
-  - '[[_Standards/WikiData/WD~Z11,8062892]]'
-  - '[[_Standards/WikiData/WD~Z5,8062912]]'
-  - '[[_Standards/WikiData/WD~Z23_(computer),52680912]]'
-  - '[[_Standards/WikiData/WD~Plankalkül,34280]]'
+- '[[_Standards/WikiData/WD~Z3,222419]]'
+- '[[_Standards/WikiData/WD~Z22,230807]]'
+- '[[_Standards/WikiData/WD~Z1,230810]]'
+- '[[_Standards/WikiData/WD~Z2,230811]]'
+- '[[_Standards/WikiData/WD~Z4,230825]]'
+- '[[_Standards/WikiData/WD~Der_Computer_Mein_Lebenswerk,1192815]]'
+- '[[_Standards/WikiData/WD~Calculating_Space,5018876]]'
+- '[[_Standards/WikiData/WD~Z11,8062892]]'
+- '[[_Standards/WikiData/WD~Z5,8062912]]'
+- '[[_Standards/WikiData/WD~Z23_(computer),52680912]]'
+- '[[_Standards/WikiData/WD~Plankalkül,34280]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Collegium_Hosianum,323209]]'
-  - '[[_Standards/WikiData/WD~Konrad_Zuse_Gymnasium_Hoyerswerda,48204995]]'
-  - '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
+- '[[_Standards/WikiData/WD~Collegium_Hosianum,323209]]'
+- '[[_Standards/WikiData/WD~Konrad_Zuse_Gymnasium_Hoyerswerda,48204995]]'
+- '[[_Standards/WikiData/WD~Technische_Universität_Berlin,51985]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Akademischer_Verein_Motiv_Berlin,414893]]'
-  - '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
+- '[[_Standards/WikiData/WD~Akademischer_Verein_Motiv_Berlin,414893]]'
+- '[[_Standards/WikiData/WD~German_Academy_of_Sciences_Leopoldina,543804]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
-  - '[[_Standards/WikiData/WD~Werner_von_Siemens_Ring,879351]]'
-  - '[[_Standards/WikiData/WD~Cothenius_Medal,1136626]]'
-  - '[[_Standards/WikiData/WD~Ernst_Reuter_Medal,1357178]]'
-  - '[[_Standards/WikiData/WD~Philip_Morris_Research_Prize,1554462]]'
-  - '[[_Standards/WikiData/WD~Konrad_Zuse_Medal,1781902]]'
-  - '[[_Standards/WikiData/WD~Rudolf_Diesel_Medaille,2172237]]'
-  - '[[_Standards/WikiData/WD~Wilhelm_Leuschner_Medal,2571514]]'
-  - '[[_Standards/WikiData/WD~Great_Cross_with_Star_and_Sash_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905171]]'
-  - '[[_Standards/WikiData/WD~Harry_H._Goode_Memorial_Award,15995115]]'
-  - '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_ETH_Zürich,62505651]]'
+- '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Exner_Medal,700368]]'
+- '[[_Standards/WikiData/WD~Werner_von_Siemens_Ring,879351]]'
+- '[[_Standards/WikiData/WD~Cothenius_Medal,1136626]]'
+- '[[_Standards/WikiData/WD~Ernst_Reuter_Medal,1357178]]'
+- '[[_Standards/WikiData/WD~Philip_Morris_Research_Prize,1554462]]'
+- '[[_Standards/WikiData/WD~Konrad_Zuse_Medal,1781902]]'
+- '[[_Standards/WikiData/WD~Rudolf_Diesel_Medaille,2172237]]'
+- '[[_Standards/WikiData/WD~Wilhelm_Leuschner_Medal,2571514]]'
+- '[[_Standards/WikiData/WD~Great_Cross_with_Star_and_Sash_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905171]]'
+- '[[_Standards/WikiData/WD~Harry_H._Goode_Memorial_Award,15995115]]'
+- '[[_Standards/WikiData/WD~Computer_History_Museum_fellow,29545180]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_ETH_Zürich,62505651]]'
 place_of_death: '[[_Standards/WikiData/WD~Hünfeld,569692]]'
 place_of_birth: '[[_Standards/WikiData/WD~Wilmersdorf,693628]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -72,25 +92,98 @@ date_of_death: 1995-12-18T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Konrad%20Zuse%20%281992%29.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Autograph%20Konrad%20Zuse%20svg.svg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=188841113
-  - http://www.digiporta.net/index.php?id=195249457
-  - http://www.digiporta.net/index.php?id=209494202
-  - http://www.digiporta.net/index.php?id=223697447
-  - http://www.digiporta.net/index.php?id=233862371
-  - http://www.digiporta.net/index.php?id=320328964
-  - http://www.digiporta.net/index.php?id=567810795
-  - http://www.digiporta.net/index.php?id=592183935
-  - http://www.digiporta.net/index.php?id=638655607
-  - http://www.digiporta.net/index.php?id=670800046
-  - http://www.digiporta.net/index.php?id=882355413
+- http://www.digiporta.net/index.php?id=188841113
+- http://www.digiporta.net/index.php?id=195249457
+- http://www.digiporta.net/index.php?id=209494202
+- http://www.digiporta.net/index.php?id=223697447
+- http://www.digiporta.net/index.php?id=233862371
+- http://www.digiporta.net/index.php?id=320328964
+- http://www.digiporta.net/index.php?id=567810795
+- http://www.digiporta.net/index.php?id=592183935
+- http://www.digiporta.net/index.php?id=638655607
+- http://www.digiporta.net/index.php?id=670800046
+- http://www.digiporta.net/index.php?id=882355413
 ISNI: 0000000110699749
 Google_Doodle: konrad-zuses-100th-birthday
 Libris_URI: nl036tk63wkt95v
 birth_name: Konrad Ernst Otto Zuse
 name_in_native_language: Konrad Zuse
 date_of_birth: 1910-06-22T00:00:00Z
+dv_has_:
+  name_:
+    ar: كونراد سوزه
+    arz: كونراد سوزه
+    ast: Konrad Zuse
+    az: Konrad Tsuze
+    azb: کنراد تسوزه
+    be-tarask: Конрад Цузэ
+    bg: Конрад Цузе
+    bn: কনরাড ৎসুজে
+    bs: Konrad Zuse
+    ca: Konrad Zuse
+    cs: Konrad Zuse
+    cv: Цузе Конрад
+    da: Konrad Zuse
+    de: Konrad Zuse
+    de-ch: Konrad Zuse
+    el: Κόνραντ Τσούζε
+    en: Konrad Zuse
+    en-ca: Konrad Zuse
+    en-gb: Konrad Zuse
+    eo: Konrad Zuse
+    es: Konrad Zuse
+    et: Konrad Zuse
+    eu: Konrad Zuse
+    fa: کنراد تسوزه
+    fi: Konrad Zuse
+    fr: Konrad Zuse
+    fy: Konrad Zuse
+    ga: Konrad Zuse
+    gl: Konrad Zuse
+    he: קונראד צוזה
+    hr: Konrad Zuse
+    hu: Konrad Zuse
+    hy: Կոնրադ Ցուզե
+    ia: Konrad Zuse
+    id: Konrad Zuse
+    io: Konrad Zuse
+    it: Konrad Zuse
+    ja: コンラート・ツーゼ
+    jv: Konrad Zuse
+    ka: კონრად ცუზე
+    ko: 콘라트 추제
+    lb: Konrad Zuse
+    lfn: Konrad Zuse
+    lij: Konrad Zuse
+    lt: Konrad Zuse
+    lv: Konrāds Cūze
+    mg: Konrad Zuse
+    mk: Конрад Цузе
+    ml: കോൺറാഡ് സ്യൂസ്
+    mul: Konrad Zuse
+    nb: Konrad Zuse
+    nds: Konrad Zuse
+    nl: Konrad Zuse
+    nn: Konrad Zuse
+    oc: Konrad Zuse
+    pl: Konrad Zuse
+    pt: Konrad Zuse
+    pt-br: Konrad Zuse
+    ro: Konrad Zuse
+    ru: Конрад Цузе
+    sk: Konrad Zuse
+    sl: Konrad Zuse
+    sq: Konrad Zuse
+    sr: Конард Цусе
+    sv: Konrad Zuse
+    tl: Konrad Zuse
+    tr: Konrad Zuse
+    uk: Конрад Цузе
+    vi: Konrad Zuse
+    wuu: 康拉德·楚泽
+    yue: 楚澤
+    zh: 康拉德·楚澤
 ---
-
 # [[Zuse,Konrad]] 
 
 #is_/same_as :: [[WD~Konrad_Zuse,60093]] 

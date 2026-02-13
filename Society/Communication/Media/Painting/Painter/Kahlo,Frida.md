@@ -1,67 +1,109 @@
 ---
 aliases:
-  - Frida Kahlo
-  - Frida_Kahlo
-  - Magdalena Carmen Frida Kahlo y Calderón
-  - Kahlo,Frida
+- Frida K'alo
+- Frida Kahlo
+- Frida Kalo
+- Frida_Kahlo
+- Frīda Kalo
+- jan Pita Kalo
+- Kahlo,Frida
+- Kalo Frida
+- Magdalena Carmen Frida Kahlo y Calderón
+- Φρίντα Κάλο
+- Кало, Фрида
+- Фріда Кало
+- Фрида Кало
+- Фрыда Калё
+- Фрыда Кало
+- Ֆրիդա Կալո
+- Ֆրիտա Քալօ
+- פרידא קאהלא
+- פרידה קאלו
+- فريدا كالو
+- فريدا كاهلو
+- فریدا کالو
+- فریدا کالۆ
+- فریدا کاهلو
+- فریدا کاہلو
+- ܦܪܝܕܐ ܩܐܠܘ
+- फ्रिदा कालो
+- फ्रीडा काहलो
+- फ्रीदा कालो
+- ফ্রিদা কাহলো
+- ফ্ৰিদা কাল'
+- ਫਰੀਡਾ ਕਾਹਲੋ
+- பிரிடா காலோ
+- ఫ్రిడా కాయ్లొ
+- ഫ്രിഡ കാഹ്ലോ
+- ฟริดา กาโล
+- ཧྥ་རིས་ད་ཀ་ལོ།
+- ဖရီဒါ ကာလို
+- ფრიდა კალო
+- ហ្វ្រ៊ីដា កាហ្លូ
+- ᱯᱷᱨᱤᱫᱟ ᱠᱟᱦᱞᱳ
+- フリーダ・カーロ
+- 弗里达·卡罗
+- 芙烈達·卡蘿
+- 芙烈達卡蘿
+- 프리다 칼로
 has_id_wikidata: Q5588
 artist_files_at:
-  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
-  - '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
+- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~College_for_Creative_Studies_Library,117794751]]'
 BHCL_UUID: ad3563dd-20a6-4f6a-9eef-bef48446a5cc
 birth_name: Magdalena Frida Carmen Kahlo
 cause_of_death:
-  - '[[_Standards/WikiData/WD~pulmonary_embolism,220570]]'
-  - '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
-  - '[[_Standards/WikiData/WD~phlebitis,1423167]]'
+- '[[_Standards/WikiData/WD~pulmonary_embolism,220570]]'
+- '[[_Standards/WikiData/WD~bronchopneumonia,734512]]'
+- '[[_Standards/WikiData/WD~phlebitis,1423167]]'
 Commons_category: Frida Kahlo
 Commons_Creator_page: Frida Kahlo
 Commons_gallery: Frida Kahlo
 copyright_representative:
-  - '[[_Standards/WikiData/WD~Artists_Rights_Society,4801318]]'
-  - '[[_Standards/WikiData/WD~reproduction_right_represented_by_CISAC-member,71528227]]'
-  - '[[_Standards/WikiData/WD~Banco_de_México_Diego_Rivera_Frida_Kahlo_Museums_Trust,72402279]]'
+- '[[_Standards/WikiData/WD~Artists_Rights_Society,4801318]]'
+- '[[_Standards/WikiData/WD~reproduction_right_represented_by_CISAC-member,71528227]]'
+- '[[_Standards/WikiData/WD~Banco_de_México_Diego_Rivera_Frida_Kahlo_Museums_Trust,72402279]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Mexico,96]]'
 date_of_birth: 1907-07-06
 date_of_death: 1954-07-13
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-  - '[[_Standards/WikiData/WD~Concise_Dictionary_of_Women_Artists,28487969]]'
-  - '[[_Standards/WikiData/WD~Great_Women_Masters_of_Art,28927781]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Concise_Dictionary_of_Women_Artists,28487969]]'
+- '[[_Standards/WikiData/WD~Great_Women_Masters_of_Art,28927781]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Wegbereiterinnen,124097894]]'
 DPLA_subject_term: Kahlo, Frida
 Europeana_entity: agent/base/61402
 family_name: '[[_Standards/WikiData/WD~Kahlo,41661665]]'
 father: '[[_Standards/WikiData/WD~Guillermo_Kahlo,573125]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~diary,185598]]'
-  - '[[_Standards/WikiData/WD~Mexican_painting,6076382]]'
-  - '[[_Standards/WikiData/WD~art_of_painting,11629]]'
+- '[[_Standards/WikiData/WD~diary,185598]]'
+- '[[_Standards/WikiData/WD~Mexican_painting,6076382]]'
+- '[[_Standards/WikiData/WD~art_of_painting,11629]]'
 genre:
-  - '[[_Standards/WikiData/WD~portrait,134307]]'
-  - '[[_Standards/WikiData/WD~self-portrait,192110]]'
-  - '[[_Standards/WikiData/WD~portrait_painting,1400853]]'
+- '[[_Standards/WikiData/WD~portrait,134307]]'
+- '[[_Standards/WikiData/WD~self-portrait,192110]]'
+- '[[_Standards/WikiData/WD~portrait_painting,1400853]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Magdalena,842544]]'
-  - '[[_Standards/WikiData/WD~Frida,848549]]'
-  - '[[_Standards/WikiData/WD~Carmen,1043619]]'
+- '[[_Standards/WikiData/WD~Magdalena,842544]]'
+- '[[_Standards/WikiData/WD~Frida,848549]]'
+- '[[_Standards/WikiData/WD~Carmen,1043619]]'
 Google_Doodle: frida-kahlos-103rd-birthday
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Women_in_the_Arts,861608]]'
-  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
-  - '[[_Standards/WikiData/WD~Phoenix_Art_Museum,977015]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles_County_Museum_of_Art,1641836]]'
-  - '[[_Standards/WikiData/WD~Museo_Dolores_Olmedo,1744258]]'
-  - '[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]'
-  - '[[_Standards/WikiData/WD~Buffalo_AKG_Art_Museum,1970945]]'
-  - '[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]'
-  - '[[_Standards/WikiData/WD~Frida_Kahlo_Museum,2663377]]'
-  - '[[_Standards/WikiData/WD~Museo_de_Arte_Moderno,3032842]]'
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Women_in_the_Arts,861608]]'
+- '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+- '[[_Standards/WikiData/WD~Phoenix_Art_Museum,977015]]'
+- '[[_Standards/WikiData/WD~Los_Angeles_County_Museum_of_Art,1641836]]'
+- '[[_Standards/WikiData/WD~Museo_Dolores_Olmedo,1744258]]'
+- '[[_Standards/WikiData/WD~National_Museum_of_Modern_Art,1895953]]'
+- '[[_Standards/WikiData/WD~Buffalo_AKG_Art_Museum,1970945]]'
+- '[[_Standards/WikiData/WD~The_Nelson-Atkins_Museum_of_Art,1976985]]'
+- '[[_Standards/WikiData/WD~Frida_Kahlo_Museum,2663377]]'
+- '[[_Standards/WikiData/WD~Museo_de_Arte_Moderno,3032842]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%2C%20by%20Guillermo%20Kahlo%20%28cropped%29.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 IPI_base_code: I-001918102-1
@@ -75,13 +117,13 @@ member_of_political_party: '[[_Standards/WikiData/WD~Mexican_Communist_Party,205
 movement: '[[_Standards/WikiData/WD~magic_realism,147516]]'
 name_in_native_language: Frida Kahlo
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Two_Fridas,3232010]]'
-  - '[[_Standards/WikiData/WD~Still_Life__Pitahayas,18343221]]'
+- '[[_Standards/WikiData/WD~The_Two_Fridas,3232010]]'
+- '[[_Standards/WikiData/WD~Still_Life__Pitahayas,18343221]]'
 occupation: '[[_Standards/WikiData/WD~painter,1028181]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 owner_of: '[[_Standards/WikiData/WD~Self-Portrait_with_Monkey,5712848]]'
 place_of_birth: '[[_Standards/WikiData/WD~Coyoacán,2597249]]'
 place_of_burial: '[[_Standards/WikiData/WD~Coyoacán,661315]]'
@@ -96,17 +138,217 @@ sibling: '[[_Standards/WikiData/WD~Cristina_Kahlo_y_Calderón,47541637]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Frida%20Kahlo%20signature%20firma.svg
 social_media_followers: 59741
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro%20%281%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Frida%20Kalo-%20intro%20%281%29.ogg
 spouse: '[[_Standards/WikiData/WD~Diego_Rivera,171128]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Mexico_City,1489]]'
-  - '[[_Standards/WikiData/WD~Detroit,12439]]'
-  - '[[_Standards/WikiData/WD~San_Francisco,62]]'
-  - '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+- '[[_Standards/WikiData/WD~Detroit,12439]]'
+- '[[_Standards/WikiData/WD~San_Francisco,62]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
 X_username: FridaKahlo
+dv_has_:
+  name_:
+    af: Frida Kahlo
+    alt: Кало, Фрида
+    an: Frida Kahlo
+    ar: فريدا كاهلو
+    arc: ܦܪܝܕܐ ܩܐܠܘ
+    ary: فريدا كاهلو
+    arz: فريدا كالو
+    as: ফ্ৰিদা কাল'
+    ast: Frida Kahlo
+    av: Фрида Кало
+    ay: Frida Kahlo
+    az: Frida Kahlo
+    azb: فریدا کاهلو
+    ba: Фрида Кало
+    bar: Frida Kahlo
+    bcl: Frida Kahlo
+    be: Фрыда Кало
+    be-tarask: Фрыда Калё
+    bg: Фрида Кало
+    bho: फ्रीदा कालो
+    bi: Frida Kahlo
+    bm: Frida Kahlo
+    bn: ফ্রিদা কাহলো
+    bo: ཧྥ་རིས་ད་ཀ་ལོ།
+    br: Frida Kahlo
+    bs: Frida Kahlo
+    btm: Frida Kahlo
+    bxr: Фрида Кало
+    ca: Frida Kahlo
+    ce: Кало, Фрида
+    ckb: فریدا کالۆ
+    co: Frida Kahlo
+    crh: Frida Kalo
+    cs: Frida Kahlo
+    cv: Фрида Кало
+    cy: Frida Kahlo
+    da: Frida Kahlo
+    de: Frida Kahlo
+    de-at: Frida Kahlo
+    de-ch: Frida Kahlo
+    diq: Frida Kahlo
+    el: Φρίντα Κάλο
+    en: Frida Kahlo
+    en-ca: Frida Kahlo
+    en-gb: Frida Kahlo
+    eo: Frida Kahlo
+    es: Frida Kahlo
+    et: Frida Kahlo
+    eu: Frida Kahlo
+    ext: Frida Kahlo
+    fa: فریدا کالو
+    fi: Frida Kahlo
+    fo: Frida Kahlo
+    fr: Frida Kahlo
+    frc: Frida Kahlo
+    frp: Frida Kahlo
+    frr: Frida Kahlo
+    fur: Frida Kahlo
+    ga: Frida Kahlo
+    gd: Frida Kahlo
+    gl: Frida Kahlo
+    gn: Frida Kahlo
+    gsw: Frida Kahlo
+    gv: Frida Kahlo
+    ha: Frida Kahlo
+    haw: Frida Kahlo
+    he: פרידה קאלו
+    hi: फ्रीडा काहलो
+    hif: Frida Kahlo
+    hr: Frida Kahlo
+    hu: Frida Kahlo
+    hy: Ֆրիդա Կալո
+    hyw: Ֆրիտա Քալօ
+    ia: Frida Kahlo
+    id: Frida Kahlo
+    ie: Frida Kahlo
+    ig: Frida Kahlo
+    ilo: Frida Kahlo
+    io: Frida Kahlo
+    is: Frida Kahlo
+    it: Frida Kahlo
+    ja: フリーダ・カーロ
+    jam: Frida Kahlo
+    jv: Frida Kahlo
+    ka: ფრიდა კალო
+    kaa: Frida Kahlo
+    kab: Frida Kahlo
+    kbd: Фрида Кало
+    kcg: Frida Kahlo
+    kg: Frida Kahlo
+    kk: Фрида Кало
+    km: ហ្វ្រ៊ីដា កាហ្លូ
+    knc: Frida Kahlo
+    ko: 프리다 칼로
+    ksh: Frida Kahlo
+    ku: Frida Kahlo
+    kw: Frida Kahlo
+    la: Frida Kahlo
+    lad: Frida Kahlo
+    lb: Frida Kahlo
+    lg: Frida Kahlo
+    li: Frida Kahlo
+    lij: Frida Kahlo
+    lld: Frida Kahlo
+    lmo: Frida Kahlo
+    ln: Frida Kahlo
+    lt: Frida Kahlo
+    lv: Frīda Kalo
+    lzz: Frida K'alo
+    mg: Frida Kahlo
+    mhr: Фрида Кало
+    mi: Frida Kahlo
+    min: Frida Kahlo
+    mk: Фрида Кало
+    ml: ഫ്രിഡ കാഹ്ലോ
+    mn: Фрида Кало
+    mr: फ्रिदा कालो
+    ms: Frida Kahlo
+    mt: Frida Kahlo
+    mul: Frida Kahlo
+    my: ဖရီဒါ ကာလို
+    mzn: فریدا کالو
+    nah: Frida Kahlo
+    nan: Frida Kahlo
+    nap: Frida Kahlo
+    nb: Frida Kahlo
+    nds: Frida Kahlo
+    nds-nl: Frida Kahlo
+    ne: फ्रिदा कालो
+    nl: Frida Kahlo
+    nn: Frida Kahlo
+    nov: Frida Kahlo
+    nrm: Frida Kahlo
+    oc: Frida Kahlo
+    olo: Frida Kahlo
+    om: Frida Kahlo
+    pa: ਫਰੀਡਾ ਕਾਹਲੋ
+    pam: Frida Kahlo
+    pap: Frida Kahlo
+    pcd: Frida Kahlo
+    pl: Frida Kahlo
+    pms: Frida Kahlo
+    pnb: فریدا کاہلو
+    prg: Frida Kahlo
+    pt: Frida Kahlo
+    qu: Frida Kahlo
+    rgn: Frida Kahlo
+    rm: Frida Kahlo
+    ro: Frida Kahlo
+    roa-tara: Frida Kahlo
+    ru: Фрида Кало
+    rue: Фріда Кало
+    sah: Фрида Кало
+    sat: ᱯᱷᱨᱤᱫᱟ ᱠᱟᱦᱞᱳ
+    sc: Frida Kahlo
+    scn: Frida Kahlo
+    sco: Frida Kahlo
+    se: Frida Kahlo
+    sgs: Frida Kahlo
+    sh: Frida Kahlo
+    sk: Frida Kahlo
+    sl: Frida Kahlo
+    sq: Frida Kahlo
+    sr: Фрида Кало
+    sr-ec: Фрида Кало
+    stq: Frida Kahlo
+    sv: Frida Kahlo
+    sw: Frida Kahlo
+    ta: பிரிடா காலோ
+    te: ఫ్రిడా కాయ్లొ
+    tg: Фрида Кало
+    th: ฟริดา กาโล
+    tl: Frida Kahlo
+    tly: Frida Kahlo
+    tok: jan Pita Kalo
+    tr: Frida Kahlo
+    tt: Frida Kalo
+    tyv: Кало, Фрида
+    uk: Фріда Кало
+    ur: فریدا کاہلو
+    uz: Frida Kahlo
+    vec: Frida Kahlo
+    vep: Kalo Frida
+    vi: Frida Kahlo
+    vls: Frida Kahlo
+    vmf: Frida Kahlo
+    vo: Frida Kahlo
+    vro: Frida Kahlo
+    wa: Frida Kahlo
+    war: Frida Kahlo
+    wo: Frida Kahlo
+    wuu: 芙烈達·卡蘿
+    xmf: ფრიდა კალო
+    yi: פרידא קאהלא
+    yue: 芙烈達卡蘿
+    zh: 芙烈達·卡蘿
+    zh-cn: 弗里达·卡罗
+    zh-hk: 芙烈達·卡蘿
+    zu: Frida Kahlo
 ---
-
 # [[Kahlo,Frida]] 
 
 #has_/time_/started :: 1907-07-06 

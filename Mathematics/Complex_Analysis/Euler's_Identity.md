@@ -1,9 +1,60 @@
 ---
 aliases:
-  - Euler's identity
-  - Euler's equation
-  - Euler's_Identity
-  - Euler's Identity
+- Céannacht Euler
+- Công thức Euler
+- Euler sin identiteet
+- Euler özdeşliği
+- Euler's equation
+- Euler's identity
+- Euler's_Identity
+- Euler-összefüggés
+- Euleri identitas
+- Eulerin identiteetti
+- Eulerjeva enačba
+- Eulerov identitet
+- Eulerova rovnost
+- Eulerren identitate
+- Eulers identitet
+- Eulers likhet
+- eulersche Identität
+- Eŭlera identaĵo
+- identidad de Euler
+- Identidade de Euler
+- Identidá d'Euler
+- Identitas Euler
+- identitat d'Euler
+- identitatea lui Euler
+- Identiteit van Euler
+- Identiti Euler
+- Identità d'Euler
+- Identità de Euler
+- Identità di Eulero
+- Identitât d'Euler
+- identité d'Euler
+- Ojlerov identitet
+- Ταυτότητα του Όιλερ
+- Ојлеров идентитет
+- Равенство на Ойлер
+- тоесамасьць Ойлера
+- тождество Эйлера
+- Тотожність Ейлера
+- Эйлер çавахлăхĕ (комплекслă анализ)
+- Эйлер бердәйлеге
+- Эйлер тождествоһы (комплекслы анализ)
+- Էյլերի նույնություն
+- אוילער-אידענטיטעט
+- זהות אוילר
+- اصل اویلر
+- متطابقة أويلر
+- ھاوئەنجامی ئۆیلەر
+- आयलर सर्वसमिका
+- অয়লারের অভেদ
+- ஆய்லரின் முற்றொருமை
+- เอกลักษณ์ของอ็อยเลอร์
+- オイラーの等式
+- 欧拉恒等式
+- 歐拉恆等式
+- 오일러 등식
 has_id_wikidata: Q204819
 instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
 studied_by: '[[_Standards/WikiData/WD~complex_analysis,193756]]'
@@ -12,12 +63,77 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 named_after: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>i</mi></mstyle></mrow></math>
 Commons_category: Euler's formula
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VignetteEulerIdentity.svg
+dv_has_:
+  name_:
+    ar: متطابقة أويلر
+    ast: Identidá d'Euler
+    ba: Эйлер тождествоһы (комплекслы анализ)
+    be-tarask: тоесамасьць Ойлера
+    bg: Равенство на Ойлер
+    bn: অয়লারের অভেদ
+    ca: identitat d'Euler
+    ckb: ھاوئەنجامی ئۆیلەر
+    cs: Eulerova rovnost
+    cv: Эйлер çавахлăхĕ (комплекслă анализ)
+    de: eulersche Identität
+    el: Ταυτότητα του Όιλερ
+    en: Euler's identity
+    eo: Eŭlera identaĵo
+    es: identidad de Euler
+    eu: Eulerren identitate
+    fa: اصل اویلر
+    fi: Eulerin identiteetti
+    fr: identité d'Euler
+    frp: Identitât d'Euler
+    frr: Euler sin identiteet
+    ga: Céannacht Euler
+    gl: Identidade de Euler
+    he: זהות אוילר
+    hi: आयलर सर्वसमिका
+    hr: Eulerov identitet
+    hu: Euler-összefüggés
+    hy: Էյլերի նույնություն
+    id: Identitas Euler
+    it: Identità di Eulero
+    ja: オイラーの等式
+    ko: 오일러 등식
+    la: Euleri identitas
+    lmo: Identità de Euler
+    ms: Identiti Euler
+    nb: Eulers likhet
+    nl: Identiteit van Euler
+    oc: Identitat d'Euler
+    pms: Identità d'Euler
+    pt: Identidade de Euler
+    ro: identitatea lui Euler
+    ru: тождество Эйлера
+    sl: Eulerjeva enačba
+    sr: Ојлеров идентитет
+    sr-ec: Ојлеров идентитет
+    sr-el: Ojlerov identitet
+    sv: Eulers identitet
+    ta: ஆய்லரின் முற்றொருமை
+    th: เอกลักษณ์ของอ็อยเลอร์
+    tr: Euler özdeşliği
+    tt: Эйлер бердәйлеге
+    uk: Тотожність Ейлера
+    ur: Euler's identity
+    vi: Công thức Euler
+    wuu: 欧拉恒等式
+    yi: אוילער-אידענטיטעט
+    yue: 歐拉恆等式
+    zh: 歐拉恆等式
+    zh-cn: 欧拉恒等式
+    zh-hans: 欧拉恒等式
+    zh-hant: 歐拉恆等式
+    zh-hk: 歐拉恆等式
+    zh-sg: 欧拉恒等式
+    zh-tw: 歐拉恆等式
 ---
-
 # [[Euler's_Identity]] 
 
 #is_/same_as :: [[../../WikiData/WD~Euler's_identity,204819|WD~Euler's_identity,204819]] 

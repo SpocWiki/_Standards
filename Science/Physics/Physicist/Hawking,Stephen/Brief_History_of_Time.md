@@ -1,9 +1,57 @@
 ---
 aliases:
-  - A Brief History of Time
-  - Brief History of Time
-  - A_Brief_History_of_Time
-  - Brief_History_of_Time
+- A Brief History of Time
+- Ajan lyhyt historia
+- Az idő rövid története
+- A_Brief_History_of_Time
+- Breu història del temps
+- Breve historia del tiempo
+- Brief History of Time
+- Brief_History_of_Time
+- Dal big bang ai buchi neri. Breve storia del tempo
+- Denboraren historia laburra
+- Eine kurze Geschichte der Zeit
+- Hawkings univers illustreret
+- Het heelal
+- 'Kosmos: en kort historik'
+- Kratka povijest vremena
+- Kratka zgodovina časa
+- Krótka historia czasu
+- Lược sử thời gian
+- Mallonga historio de tempo
+- Sejarah Singkat Waktu
+- Stručná historie času
+- Stručné dejiny času
+- Trumpa laiko istorija
+- Uma Breve História do Tempo
+- Un breve historia del tempore
+- Une brève histoire du temps
+- Unha breve historia do tempo
+- 'Zamanın Kısa Tarihi: Büyük Patlamadan Karadeliklere'
+- Zamanın qısa tarixi
+- Το Χρονικό του Χρόνου
+- Коротка історія часу
+- Краткая история времени
+- Таърихчаи мухтасари замон
+- Уақыттың қысқаша тарихы
+- Ժամանակի համառոտ պատմություն
+- Ժամանակի համառօտ պատմութիւնը
+- קיצור תולדות הזמן
+- تاريخ موجز للزمن
+- تاریخچه زمان
+- وقت کی مختصر تاریخ
+- کورتەمێژوویەکی کات
+- अ ब्रिफ हिस्ट्री अफ टाइम
+- কালের সংক্ষিপ্ত ইতিহাস
+- ਸਮੇਂ ਦਾ ਸੰਖੇਪ ਇਤਿਹਾਸ
+- காலம்
+- ఎ బ్రీఫ్ హిస్టరీ ఆఫ్ టైమ్
+- എ ബ്രീഫ് ഹിസ്റ്ററി ഓഫ് ടൈം
+- အချိန်၏သမိုင်း အကျဉ်း
+- ホーキング、宇宙を語る
+- 时间简史
+- 時間簡史
+- 시간의 역사
 has_id_wikidata: Q471726
 genre: '[[_Standards/WikiData/WD~popular_science,995600]]'
 followed_by: '[[_Standards/WikiData/WD~Black_Holes_and_Baby_Universes_and_Other_Essays,1815797]]'
@@ -20,8 +68,76 @@ title: A Brief History of Time
 publication_date: 1988-01-01T00:00:00Z
 Wolfram_Language_entity_code: Entity["Book", "ABriefHistoryOfTime"]
 subtitle: From the Big Bang to Black Holes
+dv_has_:
+  name_:
+    af: A Brief History of Time
+    ar: تاريخ موجز للزمن
+    arz: تاريخ موجز للزمن
+    ast: A Brief History of Time
+    az: Zamanın qısa tarixi
+    bn: কালের সংক্ষিপ্ত ইতিহাস
+    ca: Breu història del temps
+    ckb: کورتەمێژوویەکی کات
+    cs: Stručná historie času
+    cy: A Brief History of Time
+    da: Hawkings univers illustreret
+    de: Eine kurze Geschichte der Zeit
+    de-at: Eine kurze Geschichte der Zeit
+    el: Το Χρονικό του Χρόνου
+    en: A Brief History of Time
+    eo: Mallonga historio de tempo
+    es: Breve historia del tiempo
+    eu: Denboraren historia laburra
+    fa: تاریخچه زمان
+    fi: Ajan lyhyt historia
+    fr: Une brève histoire du temps
+    ga: A Brief History of Time
+    gl: Unha breve historia do tempo
+    he: קיצור תולדות הזמן
+    hi: A Brief History of Time
+    hr: Kratka povijest vremena
+    hu: Az idő rövid története
+    hy: Ժամանակի համառոտ պատմություն
+    hyw: Ժամանակի համառօտ պատմութիւնը
+    ia: Un breve historia del tempore
+    id: Sejarah Singkat Waktu
+    it: Dal big bang ai buchi neri. Breve storia del tempo
+    ja: ホーキング、宇宙を語る
+    kk: Уақыттың қысқаша тарихы
+    ko: 시간의 역사
+    lt: Trumpa laiko istorija
+    ml: എ ബ്രീഫ് ഹിസ്റ്ററി ഓഫ് ടൈം
+    ms: A Brief History of Time
+    mul: A Brief History of Time
+    my: အချိန်၏သမိုင်း အကျဉ်း
+    nb: A Brief History of Time
+    ne: अ ब्रिफ हिस्ट्री अफ टाइम
+    nl: Het heelal
+    pa: ਸਮੇਂ ਦਾ ਸੰਖੇਪ ਇਤਿਹਾਸ
+    pl: Krótka historia czasu
+    pt: Uma Breve História do Tempo
+    ro: A Brief History of Time
+    ru: Краткая история времени
+    sk: Stručné dejiny času
+    sl: Kratka zgodovina časa
+    sv: 'Kosmos: en kort historik'
+    ta: காலம்
+    te: ఎ బ్రీఫ్ హిస్టరీ ఆఫ్ టైమ్
+    tg: Таърихчаи мухтасари замон
+    tr: 'Zamanın Kısa Tarihi: Büyük Patlamadan Karadeliklere'
+    uk: Коротка історія часу
+    ur: وقت کی مختصر تاریخ
+    uz: A Brief History of Time
+    vi: Lược sử thời gian
+    xmf: A Brief History of Time
+    zh: 时间简史
+    zh-cn: 时间简史
+    zh-hans: 时间简史
+    zh-hant: 時間簡史
+    zh-hk: 時間簡史
+    zh-sg: 时间简史
+    zh-tw: 時間簡史
 ---
-
 # [[Brief_History_of_Time]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~A_Brief_History_of_Time,471726]] 

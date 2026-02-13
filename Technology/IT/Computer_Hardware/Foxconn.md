@@ -1,4 +1,107 @@
-
+---
+has_id_wikidata: Q463094
+dv_has_:
+  name_:
+    ar: فوكسكون
+    az: Foxconn
+    azb: فاکسکان
+    be: Foxconn
+    be-tarask: Foxconn
+    bg: Foxconn
+    bn: ফক্সকন
+    bs: Foxconn
+    ca: Foxconn
+    ckb: فۆکسکۆن
+    cs: Foxconn
+    da: Foxconn
+    de: Foxconn
+    de-ch: Foxconn
+    el: Foxconn
+    en: Foxconn
+    en-ca: Foxconn
+    en-gb: Foxconn
+    eo: Foxconn
+    es: Foxconn
+    et: Foxconn
+    eu: Foxconn
+    fa: فاکسکان
+    fi: Foxconn
+    fr: Foxconn
+    ga: Foxconn
+    he: פוקסקון
+    hi: फॉक्सकोन्न
+    hy: Foxconn
+    id: Foxconn
+    it: Foxconn
+    ja: 鴻海精密工業
+    ka: Foxconn
+    kk: Foxconn
+    ko: 폭스콘
+    lt: Foxconn
+    lv: Foxconn
+    mk: Фокскон
+    ml: ഫോക്സ്കോൺ
+    ms: Foxconn
+    mul: Foxconn
+    my: Foxconn
+    nan: Hông-hái Kho-ki Chi̍p-thoân
+    nb: Foxconn
+    nl: Foxconn
+    or: ଫକ୍ସକନ୍ନ
+    pl: Foxconn
+    pt: Foxconn
+    pt-br: Foxconn
+    ro: Foxconn
+    ru: Foxconn
+    sah: Foxconn
+    sco: Foxconn
+    sk: Foxconn Technology Group
+    sl: Foxconn
+    sv: Foxconn
+    ta: பாக்சுகான்
+    te: హాన్ హాయ్ ప్రెసిషన్ ఇండస్ట్రీ
+    th: ฟ็อกซ์คอนน์
+    tr: Foxconn
+    tt: Foxconn
+    tt-cyrl: Foxconn
+    uk: Foxconn
+    ur: فاکسکن ٹیکنالوجی کمپنی
+    uz: Foxconn kompaniyasi
+    vec: Foxconn
+    vi: Foxconn
+    wuu: 鸿海科技集团
+    yue: 鴻海
+    zh: 鴻海科技集團
+    zh-cn: 鸿海科技集团
+    zh-hans: 鸿海科技集团
+    zh-hant: 鴻海科技集團
+    zh-hk: 鴻海科技集團
+    zh-sg: 鸿海科技集团
+    zh-tw: 鴻海科技集團
+aliases:
+- Foxconn
+- Foxconn kompaniyasi
+- Foxconn Technology Group
+- Hông-hái Kho-ki Chi̍p-thoân
+- Фокскон
+- פוקסקון
+- فاکسکان
+- فاکسکن ٹیکنالوجی کمپنی
+- فوكسكون
+- فۆکسکۆن
+- फॉक्सकोन्न
+- ফক্সকন
+- ଫକ୍ସକନ୍ନ
+- பாக்சுகான்
+- హాన్ హాయ్ ప్రెసిషన్ ఇండస్ట్రీ
+- ഫോക്സ്കോൺ
+- ฟ็อกซ์คอนน์
+- 鴻海
+- 鴻海科技集團
+- 鴻海精密工業
+- 鸿海科技集团
+- 폭스콘
+---
 # [[Foxconn]] 
 
 ## #has_/text_of_/abstract 

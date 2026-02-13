@@ -1,14 +1,127 @@
 ---
 aliases:
+- Diffusion del Rayleigh
+- diffusion Rayleigh
+- Difusió de Rayleigh
+- Dispersión de Rayleigh
+- Dispersão de Rayleigh
+- disĵeto de Rayleigh
+- Hamburan Rayleigh
+- Rayleigh saçılımı
+- Rayleigh scattering
+- Rayleigh səpələnməsi
+- Rayleigh' hajumine
+- Rayleigh-spredning
+- Rayleigh-spreiing
+- Rayleigh-spridning
+- Rayleigh-Streuung
+- Rayleigh-szórás
+- Rayleigh-verstrooiing
+- Rayleighen sakabanaketa
+- Rayleighov rozptyl
+- Rayleighovo raspršenje
+- Rayleighovo sipanje
+- Rayleighverstrooiing
+- Rayleighův rozptyl
+- Rejlijevo rasejanje
+- Reley sochilish qonuni
+- Relėjaus sklaida
+- Rozpraszanie Rayleigha
+- Scaipeadh Rayleigh
+- Scattering di Rayleigh
+- Selerakan Rayleigh
+- Shpërndarja Rayleigh
+- Tán xạ Rayleigh
+- Împrăștiere Rayleigh
+- Μοριακή σκέδαση
+- Разсейване на електромагнитни вълни
+- Рејлиево расејување
+- Релеївське розсіювання
+- Рэйліва расьсеяньне
+- Рэлеевское рассеяние
+- Рэлей чәчелүе
+- פיזור ריילי
+- تبعثر ريليه
+- رایلی ساچیلیمی
+- پراکنش رایلی
+- रैले प्रकीर्णन
+- ഋയ്ലി വിസരണം
+- การกระเจิงแบบเรย์ลี
+- レイリー散乱
+- 瑞利散射
+- 雷利散射
+- 레일리 산란
 has_id_wikidata: Q193709
-named_after: "[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]"
-subclass_of: "[[_Standards/WikiData/WD~scattering,210028]]"
+named_after: '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
+subclass_of: '[[_Standards/WikiData/WD~scattering,210028]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Leehasacamera%20-%20Sunset%20over%20the%20clouds%20%28by%29.jpg
 IEV_number: 731-03-37
 Wolfram_Language_entity_code: Entity["PhysicalEffect", "RayleighScattering"]
 Commons_category: Rayleigh scattering
+dv_has_:
+  name_:
+    af: Rayleigh-verstrooiing
+    ar: تبعثر ريليه
+    ast: Dispersión de Rayleigh
+    az: Rayleigh səpələnməsi
+    azb: رایلی ساچیلیمی
+    be-tarask: Рэйліва расьсеяньне
+    bg: Разсейване на електромагнитни вълни
+    bs: Rayleighovo raspršenje
+    ca: Difusió de Rayleigh
+    cs: Rayleighův rozptyl
+    da: Rayleigh-spredning
+    de: Rayleigh-Streuung
+    el: Μοριακή σκέδαση
+    en: Rayleigh scattering
+    eo: disĵeto de Rayleigh
+    es: dispersión de Rayleigh
+    et: Rayleigh' hajumine
+    eu: Rayleighen sakabanaketa
+    fa: پراکنش رایلی
+    fr: diffusion Rayleigh
+    ga: Scaipeadh Rayleigh
+    he: פיזור ריילי
+    hi: रैले प्रकीर्णन
+    hr: Rayleighovo raspršenje
+    hu: Rayleigh-szórás
+    id: Hamburan Rayleigh
+    it: Scattering di Rayleigh
+    ja: レイリー散乱
+    ko: 레일리 산란
+    lmo: Diffusion del Rayleigh
+    lt: Relėjaus sklaida
+    mk: Рејлиево расејување
+    ml: ഋയ്ലി വിസരണം
+    ms: Selerakan Rayleigh
+    nb: Rayleigh-spredning
+    nl: Rayleighverstrooiing
+    nn: Rayleigh-spreiing
+    pl: Rozpraszanie Rayleigha
+    pt: Dispersão de Rayleigh
+    ro: Împrăștiere Rayleigh
+    ru: Рэлеевское рассеяние
+    sh: Rayleighovo raspršenje
+    sk: Rayleighov rozptyl
+    sl: Rayleighovo sipanje
+    sq: Shpërndarja Rayleigh
+    sr: Rejlijevo rasejanje
+    sv: Rayleigh-spridning
+    th: การกระเจิงแบบเรย์ลี
+    tr: Rayleigh saçılımı
+    tt: Рэлей чәчелүе
+    uk: Релеївське розсіювання
+    uz: Reley sochilish qonuni
+    vi: Tán xạ Rayleigh
+    yue: 雷利散射
+    zh: 瑞利散射
+    zh-cn: 瑞利散射
+    zh-hans: 瑞利散射
+    zh-hant: 瑞利散射
+    zh-hk: 瑞利散射
+    zh-sg: 瑞利散射
+    zh-tw: 瑞利散射
 ---
-
 # [[Rayleigh_Scattering]] 
 
 #is_/same_as :: [[WD~Rayleigh_scattering,193709]] 

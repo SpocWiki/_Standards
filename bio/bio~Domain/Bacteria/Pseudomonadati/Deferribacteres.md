@@ -1,9 +1,63 @@
 ---
 aliases:
-  - Deferribacteres
+- Deferribacteraceae
+- Deferribacteres
+- deferribacteriàcies
+- デフェリバクター綱
+- 脫鐵桿菌門
+- 脱铁杆菌门
+- 탈철간균과
 title: Deferribacteres
+has_id_wikidata: Q1191552
+dv_has_:
+  name_:
+    an: Deferribacteraceae
+    ast: Deferribacteraceae
+    bg: Deferribacteraceae
+    ca: deferribacteriàcies
+    ceb: Deferribacteraceae
+    cs: Deferribacteraceae
+    da: Deferribacteraceae
+    de: Deferribacteraceae
+    en: Deferribacteraceae
+    eo: Deferribacteraceae
+    es: Deferribacteraceae
+    eu: Deferribacteraceae
+    ext: Deferribacteraceae
+    fi: Deferribacteraceae
+    fr: Deferribacteraceae
+    ga: Deferribacteraceae
+    gl: Deferribacteraceae
+    ia: Deferribacteraceae
+    ie: Deferribacteraceae
+    io: Deferribacteraceae
+    it: Deferribacteraceae
+    ja: デフェリバクター綱
+    ko: 탈철간균과
+    la: Deferribacteraceae
+    lt: Deferribacteraceae
+    mul: Deferribacteraceae
+    nb: Deferribacteraceae
+    nl: Deferribacteraceae
+    nn: Deferribacteraceae
+    oc: Deferribacteraceae
+    pl: Deferribacteraceae
+    pt: Deferribacteraceae
+    pt-br: Deferribacteraceae
+    ro: Deferribacteraceae
+    ru: Deferribacteraceae
+    sq: Deferribacteraceae
+    sv: Deferribacteraceae
+    tl: Deferribacteraceae
+    uk: Deferribacteraceae
+    vi: Deferribacteraceae
+    vo: Deferribacteraceae
+    war: Deferribacteraceae
+    zh: 脫鐵桿菌門
+    zh-hans: 脱铁杆菌门
+    zh-hant: 脫鐵桿菌門
+    zh-hk: 脫鐵桿菌門
 ---
-
 # [[Deferribacteres]] 
 
 #is_a/bio-Phylum  

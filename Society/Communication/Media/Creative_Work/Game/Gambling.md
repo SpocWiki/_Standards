@@ -1,36 +1,130 @@
 ---
 aliases:
-  - Gambling
+- alea
+- apustu
+- azartinis lošimas
+- azartspēle
+- azartvänd
+- c'hoarioù arc'hant
+- cearrbhachas
+- chuego d'apuesta
+- dobbel
+- fjárhættuspil
+- Gambling
+- gamblo
+- ghjocu d'azzardu
+- giamblin
+- gioco d'azzardo
+- giogu de azardu
+- Glécksspill
+- Glücksspeel
+- Glücksspiel
+- gokke
+- Gokken
+- hasard
+- hasardspelande
+- hasartmäng
+- hazard
+- hazardludado
+- hazardná hra
+- Hazardoludo
+- huygó
+- igranje na srečo
+- jeu d'argent
+- joc d'aposta
+- jocuri de noroc
+- jogo de apostas
+- Judi
+- juego de apuestas
+- jé di azar
+- jòc de moneda
+- kamari
+- kockanje
+- kumar
+- luošėms
+- malaffari
+- maèn top
+- pariura
+- perjudian
+- poa̍h-kiáu
+- qimor
+- qumar
+- rahapeli
+- sepediša ditaese
+- sgioeugh d'azard
+- sugal
+- szerencsejáték
+- totohan
+- trimlaedje
+- tú-kiéu
+- xogo de aposta
+- xuegu d'apuestes
+- õnnõmängoq
+- đánh bạc
+- τυχερά παιχνίδια
+- азартна гра
+- азартная гульня
+- азартная игра
+- коцкање
+- кумар оюн
+- марзлуш долу ловзар
+- мүрытэй тоглоон
+- мөрийтэй тоглоом
+- сoşqun oyunı
+- хазарт
+- ҡомарлы уйын
+- әуестік ойын
+- մոլեխաղ
+- אזארטשפיל
+- הימור
+- جوآ
+- جوا
+- قمار
+- قومار
+- जुआ
+- जुगार
+- জুয়া
+- জুৱা খেল
+- ਜੂਆ
+- சூதாட்டம்
+- జూదం
+- ಜೂಜು
+- ചൂത്
+- การพนัน
+- လောင်းကစား
+- 賭博
+- 赌博
+- 도박
 has_id_wikidata: Q11416
 Commons_category: Gambling
 contributing_factor_of: '[[_Standards/WikiData/WD~problem_gambling,748309]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification:
-  - 306.482
-  - 795
+- 306.482
+- 795
 different_from:
-  - '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
-  - '[[_Standards/WikiData/WD~video_gaming,107022968]]'
+- '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
+- '[[_Standards/WikiData/WD~video_gaming,107022968]]'
 has_characteristic: '[[_Standards/WikiData/WD~excitement,16301153]]'
 has_effect: '[[_Standards/WikiData/WD~problem_gambling,748309]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~casino,133215]]'
-  - '[[_Standards/WikiData/WD~lottery,189409]]'
-  - '[[_Standards/WikiData/WD~amusement_arcade,260676]]'
-  - '[[_Standards/WikiData/WD~bookmaker,664702]]'
-  - '[[_Standards/WikiData/WD~betting_shop,1719063]]'
+- '[[_Standards/WikiData/WD~casino,133215]]'
+- '[[_Standards/WikiData/WD~lottery,189409]]'
+- '[[_Standards/WikiData/WD~amusement_arcade,260676]]'
+- '[[_Standards/WikiData/WD~bookmaker,664702]]'
+- '[[_Standards/WikiData/WD~betting_shop,1719063]]'
 Iconclass_notation: 43C56
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20image.jpg
 Library_of_Congress_Classification: K915
 MeSH_tree_code:
-  - F01.145.722.408
-  - F03.250.400
+- F01.145.722.408
+- F03.250.400
 OmegaWiki_Defined_Meaning: 697231
 OpenStreetMap_tag_or_key: Key:gambling
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Gambling%20banner%20Sahara%20Hotel.jpg
@@ -38,15 +132,139 @@ partially_coincident_with: '[[_Standards/WikiData/WD~competition,841654]]'
 practiced_by: '[[_Standards/WikiData/WD~gambler,9286830]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~prediction_market,282283]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~recreation,184872]]'
-  - '[[_Standards/WikiData/WD~playing,1150958]]'
+- '[[_Standards/WikiData/WD~recreation,184872]]'
+- '[[_Standards/WikiData/WD~playing,1150958]]'
 subreddit: gambling
 uses:
-  - '[[_Standards/WikiData/WD~bet,2565881]]'
-  - '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
+- '[[_Standards/WikiData/WD~bet,2565881]]'
+- '[[_Standards/WikiData/WD~game_of_chance,3590573]]'
 U_S_National_Archives_Identifier: 10636709
+dv_has_:
+  name_:
+    af: dobbel
+    an: chuego d'apuesta
+    ar: قمار
+    ary: قمار
+    as: জুৱা খেল
+    ast: xuegu d'apuestes
+    az: qumar
+    azb: قومار
+    ba: ҡомарлы уйын
+    bcl: sugal
+    be: азартная гульня
+    be-tarask: азартная гульня
+    bew: maèn top
+    bg: хазарт
+    bho: जुआ
+    bn: জুয়া
+    br: c'hoarioù arc'hant
+    bs: kockanje
+    bxr: мүрытэй тоглоон
+    ca: joc d'aposta
+    ce: марзлуш долу ловзар
+    ckb: قومار
+    co: ghjocu d'azzardu
+    crh: сoşqun oyunı
+    cs: hazard
+    cy: gamblo
+    da: gambling
+    de: Glücksspiel
+    de-ch: Glücksspiel
+    el: τυχερά παιχνίδια
+    en: gambling
+    en-ca: gambling
+    en-gb: gambling
+    eo: hazardludado
+    es: juego de apuestas
+    et: hasartmäng
+    eu: apustu
+    fa: قمار
+    fi: rahapeli
+    fr: jeu d'argent
+    fy: Gokken
+    ga: cearrbhachas
+    gan: 賭博
+    gcr: jé di azar
+    gl: xogo de aposta
+    gsw: Glücksspiel
+    hak: tú-kiéu
+    he: הימור
+    hi: जुआ
+    hif: gambling
+    hr: kockanje
+    hu: szerencsejáték
+    hy: մոլեխաղ
+    id: perjudian
+    io: Hazardoludo
+    is: fjárhættuspil
+    it: gioco d'azzardo
+    ja: 賭博
+    jam: giamblin
+    jv: totohan
+    kk: әуестік ойын
+    kn: ಜೂಜು
+    ko: 도박
+    ky: кумар оюн
+    la: alea
+    lb: Glécksspill
+    li: gokke
+    lmo: sgioeugh d'azard
+    lt: azartinis lošimas
+    lv: azartspēle
+    mk: коцкање
+    ml: ചൂത്
+    mn: мөрийтэй тоглоом
+    mr: जुगार
+    ms: Judi
+    my: လောင်းကစား
+    nan: poa̍h-kiáu
+    nb: hasard
+    nds: Glücksspeel
+    nl: gokken
+    nn: hasard
+    nso: sepediša ditaese
+    oc: jòc de moneda
+    pa: ਜੂਆ
+    pl: hazard
+    pms: pariura
+    pnb: جوآ
+    ps: قمار
+    pt: jogo de apostas
+    ro: jocuri de noroc
+    ru: азартная игра
+    sc: giogu de azardu
+    scn: malaffari
+    sgs: luošėms
+    sh: kockanje
+    sk: hazardná hra
+    sl: igranje na srečo
+    sq: kumar
+    sr: коцкање
+    sr-ec: коцкање
+    sr-el: kockanje
+    sv: hasardspelande
+    sw: kamari
+    ta: சூதாட்டம்
+    te: జూదం
+    th: การพนัน
+    tl: sugal
+    tr: kumar
+    uk: азартна гра
+    ur: جوا
+    uz: qimor
+    vep: azartvänd
+    vi: đánh bạc
+    vro: õnnõmängoq
+    wa: trimlaedje
+    war: huygó
+    wuu: 赌博
+    yi: אזארטשפיל
+    yue: 賭博
+    zh: 赌博
+    zh-hant: 賭博
+    zh-hk: 賭博
+    zh-tw: 賭博
 ---
-
 # [[Gambling]] 
 
 

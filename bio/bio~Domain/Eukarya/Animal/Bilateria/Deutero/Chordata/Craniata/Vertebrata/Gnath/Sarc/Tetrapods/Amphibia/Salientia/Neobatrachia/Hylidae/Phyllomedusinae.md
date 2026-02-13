@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Phyllomedusinae
+- Phyllomedusinae
+- פילומדוסיים
+- ضفادع الورق
+- ネコメアマガエル亜科
 title: Phyllomedusinae
+has_id_wikidata: Q1228601
+dv_has_:
+  name_:
+    an: Phyllomedusinae
+    ar: ضفادع الورق
+    arz: ضفادع الورق
+    ast: Phyllomedusinae
+    bg: Phyllomedusinae
+    ca: Phyllomedusinae
+    ceb: Phyllomedusinae
+    de: Phyllomedusinae
+    en: Phyllomedusinae
+    eo: Phyllomedusinae
+    es: Phyllomedusinae
+    eu: Phyllomedusinae
+    ext: Phyllomedusinae
+    fi: Phyllomedusinae
+    fr: Phyllomedusinae
+    ga: Phyllomedusinae
+    gl: Phyllomedusinae
+    he: פילומדוסיים
+    hu: Phyllomedusinae
+    ia: Phyllomedusinae
+    ie: Phyllomedusinae
+    io: Phyllomedusinae
+    it: Phyllomedusinae
+    ja: ネコメアマガエル亜科
+    la: Phyllomedusinae
+    mul: Phyllomedusinae
+    nl: Phyllomedusinae
+    oc: Phyllomedusinae
+    pl: Phyllomedusinae
+    pt: Phyllomedusinae
+    pt-br: phyllomedusinae
+    ro: Phyllomedusinae
+    ru: Phyllomedusinae
+    sq: Phyllomedusinae
+    sv: Phyllomedusinae
+    uk: Phyllomedusinae
+    vi: Phyllomedusinae
+    vo: Phyllomedusinae
+    war: Phyllomedusinae
 ---
-
 # [[Phyllomedusinae]] 
 
 ## #has_/text_of_/abstract 

@@ -1,34 +1,99 @@
 ---
 aliases:
-  - Piscis Australis
-  - Piscis Austrinus
-  - Piscis Notius
-  - Zodiac~Piscis_Australis
-  - Zodiac~Piscis Australis
+- Azụ̀ Austrinus
+- Cītlaltecpatl
+- Cənub Balığı
+- Den sørlege fisken
+- Den sørlige fisken
+- Dienvidu Zivs
+- Déli Hal csillagkép
+- Eeast y Jiass
+- Etelän kala
+- Hutu Junubi
+- Iasc an Deiscirt
+- Ikan Selatan
+- Janubiy Baliq
+- Jižní ryba
+- Južna riba
+- Južná ryba
+- Lâm-hî-chō
+- Lõunakala
+- Maseyveroci
+- Nam Ngư
+- Nàm-ǹg-chho
+- Nàng-ngṳ̀-cô̤
+- Peix Austral
+- Pesce Australe
+- Pese Austrałe
+- Pesk ar Su
+- Peștele Austral
+- Pietų Žuvis
+- Piscis Australis
+- Piscis Austrinus
+- Piscis Austrinus (ranneves)
+- Piscis Notius
+- Poisson austral
+- Ryba Południowa
+- Suda Fiŝo
+- Suidelike Vis
+- Suðurfiskurinn
+- Sydlige Fisk
+- Södra fisken
+- Südlicher Fisch
+- Süüdlich Fisch
+- Zodiac~Piscis Australis
+- Zodiac~Piscis_Australis
+- Zuidervis
+- Νότιος Ιχθύς
+- Јужна Риба
+- Көньяк Балык йолдызлыгы
+- Көньяҡ Балыҡ
+- Лымшорпал Чорыг
+- Південна Риба
+- Паўднёвая Рыба
+- Соҕуруу Балык
+- Южна риба
+- Южная Рыба
+- Հարավային ձուկ
+- דג דרומי
+- الحوت الجنوبي
+- حوت جنوبی
+- ماهی جنوبی
+- پيسكيس اوستريناس
+- दक्षिण मीन तारामंडल
+- দক্ষিণ মীন মণ্ডল
+- ദക്ഷിണമീനം
+- กลุ่มดาวปลาใต้
+- ပိုက်ဆစ် ဩစထရေးနပ်စ်
+- სამხრეთის თევზი
+- みなみのうお座
+- 南魚座
+- 南鱼座
+- 남쪽물고기자리
 has_id_wikidata: Q10409
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-child_astronomical_body: "[[_Standards/WikiData/WD~Piscis_Austrinids,2096989]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Piscis_Austrinids,2096989]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q10729041,10729041]]"
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Piscis_Austrinus,10857891]]"
-instance_of: "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~Q10729041,10729041]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Piscis_Austrinus,10857891]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sculptor,9286]]"
-  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
-  - "[[_Standards/WikiData/WD~Capricornus,10535]]"
-  - "[[_Standards/WikiData/WD~Grus,10563]]"
-  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
+- '[[_Standards/WikiData/WD~Sculptor,9286]]'
+- '[[_Standards/WikiData/WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~Capricornus,10535]]'
+- '[[_Standards/WikiData/WD~Grus,10563]]'
+- '[[_Standards/WikiData/WD~Aquarius,10576]]'
 area: 245
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Piscis%20Austrinus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Piscis%20Austrinus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -40,34 +105,116 @@ short_name: PsA
 dv_SpocWebEntityId: 28149
 dv_has_:
   name_:
-    la: Piscis Australis
+    af: Suidelike Vis
+    ar: الحوت الجنوبي
+    arz: پيسكيس اوستريناس
+    ast: Piscis Austrinus
+    az: Cənub Balığı
+    ba: Көньяҡ Балыҡ
+    be: Паўднёвая Рыба
+    be-tarask: Паўднёвая Рыба
+    bg: Южна риба
+    bn: দক্ষিণ মীন মণ্ডল
+    br: Pesk ar Su
+    bs: Južna riba
+    ca: Peix Austral
+    cdo: Nàng-ngṳ̀-cô̤
+    co: Piscis Austrinus
+    cs: Jižní ryba
+    cy: Piscis Austrinus
+    da: Sydlige Fisk
+    de: Südlicher Fisch
+    diq: Maseyveroci
+    el: Νότιος Ιχθύς
+    en: Piscis Austrinus
+    eo: Suda Fiŝo
+    es: Piscis Austrinus
+    et: Lõunakala
+    eu: Piscis Austrinus
+    fa: ماهی جنوبی
+    fi: Etelän kala
+    fr: Poisson austral
+    ga: Iasc an Deiscirt
+    gl: Piscis Austrinus
+    gv: Eeast y Jiass
+    hak: Nàm-ǹg-chho
+    he: דג דרומי
+    hi: दक्षिण मीन तारामंडल
+    hr: Južna riba
+    hu: Déli Hal csillagkép
+    hy: Հարավային ձուկ
+    id: Piscis Austrinus
+    ig: Azụ̀ Austrinus
+    is: Suðurfiskurinn
+    it: Pesce Australe
+    ja: みなみのうお座
+    jv: Piscis Austrinus
+    ka: სამხრეთის თევზი
+    ko: 남쪽물고기자리
+    kw: Piscis Austrinus (ranneves)
+    la: Piscis Austrinus
     la_:
       genitive: Piscis Australis
-    de: Suedlicher Fisch
+    lb: Piscis Austrinus
+    lt: Pietų Žuvis
+    lv: Dienvidu Zivs
+    mk: Јужна Риба
+    ml: ദക്ഷിണമീനം
+    ms: Ikan Selatan
+    my: ပိုက်ဆစ် ဩစထရေးနပ်စ်
+    nah: Cītlaltecpatl
+    nan: Lâm-hî-chō
+    nb: Den sørlige fisken
+    nds: Süüdlich Fisch
+    nl: Zuidervis
+    nn: Den sørlege fisken
+    pl: Ryba Południowa
+    pt: Piscis Austrinus
+    ro: Peștele Austral
+    ru: Южная Рыба
+    sah: Соҕуруу Балык
+    sh: Južna riba
+    sk: Južná ryba
+    sl: Južna riba
+    sr: Јужна риба
+    sv: Södra fisken
+    sw: Hutu Junubi
+    th: กลุ่มดาวปลาใต้
+    tr: Piscis Austrinus
+    tt: Көньяк Балык йолдызлыгы
+    udm: Лымшорпал Чорыг
+    uk: Південна Риба
+    ur: حوت جنوبی
+    uz: Janubiy Baliq
+    vec: Pese Austrałe
+    vi: Nam Ngư
+    war: Piscis Austrinus
+    wuu: 南鱼座
+    yue: 南魚座
+    zh: 南魚座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal|Zodiac~Piscis_Australis.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret|Zodiac~Piscis_Australis.secret]]"
+  - '[[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal|Zodiac~Piscis_Australis.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret|Zodiac~Piscis_Australis.secret]]'
 dv_has_name_la: Piscis Australis
 dv_has_name_la_genitive: Piscis Australis
 dv_has_name_de: Suedlicher Fisch
 dv_is_same_as:
-  - "[[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal|Zodiac~Piscis_Australis.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret|Zodiac~Piscis_Australis.secret]]"
+- '[[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal|Zodiac~Piscis_Australis.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret|Zodiac~Piscis_Australis.secret]]'
 ---
-
 # [[Zodiac~Piscis_Australis]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId` 

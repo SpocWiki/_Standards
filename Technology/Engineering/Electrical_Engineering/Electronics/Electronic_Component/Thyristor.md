@@ -1,23 +1,123 @@
 ---
 aliases:
+- Penyearah terkendali silikon
+- Thyristor
+- tiristor
+- tiristore
+- Tiristori
+- Tiristoro
+- Tiristors
+- tirisztor
+- Tristör
+- tyristor
+- tyristori
+- tyrystor
+- tíreastóir
+- Tïrïstor
+- Türistor
+- Θυρίστορ
+- тиристор
+- Тырыстар
+- Տիրիստոր
+- تریستور
+- تىيرىيستور
+- ثايرستور
+- থাইরিস্টর
+- തൈറിസ്റ്റർ
+- サイリスタ
+- 晶閘管
+- 晶闸管
+- 閘流器
+- 閘流體
+- 사이리스터
 has_id_wikidata: Q180805
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cathode,175233]]"
-  - "[[_Standards/WikiData/WD~anode,181232]]"
-subclass_of: "[[_Standards/WikiData/WD~semiconductor_device,175805]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]"
+- '[[_Standards/WikiData/WD~cathode,175233]]'
+- '[[_Standards/WikiData/WD~anode,181232]]'
+subclass_of: '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 time_of_discovery_or_invention: 1956-01-01T00:00:00Z
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D1%82%D0%B8%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B0.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Thyristor%20layers.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A3%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE%20%D1%82%D0%B8%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B0.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Thyristor%20layers.svg
 icon:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.8.1.a.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.8.1.b.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.8.1.c.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.8.1.a.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.8.1.b.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315-1975%20%281993%29%208.5.8.1.c.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KU208B.JPG
 Commons_category: Thyristors
+dv_has_:
+  name_:
+    af: Tiristor
+    ar: ثايرستور
+    ast: Tiristor
+    az: Tiristor
+    be: Тырыстар
+    be-tarask: Тырыстар
+    bg: Тиристор
+    bn: থাইরিস্টর
+    bs: Tiristor
+    ca: Tiristor
+    cs: tyristor
+    da: tyristor
+    de: Thyristor
+    el: Θυρίστορ
+    en: thyristor
+    eo: Tiristoro
+    es: tiristor
+    et: Türistor
+    eu: Tiristore
+    fa: تریستور
+    fi: tyristori
+    fr: thyristor
+    ga: tíreastóir
+    hr: Tiristor
+    hu: tirisztor
+    hy: Տիրիստոր
+    id: Penyearah terkendali silikon
+    it: tiristore
+    ja: サイリスタ
+    kk: Тиристор
+    kk-arab: تىيرىيستور
+    kk-cn: تىيرىيستور
+    kk-cyrl: Тиристор
+    kk-kz: Тиристор
+    kk-latn: Tïrïstor
+    kk-tr: Tïrïstor
+    ko: 사이리스터
+    lv: Tiristors
+    mk: Тиристор
+    ml: തൈറിസ്റ്റർ
+    nb: tyristor
+    nl: thyristor
+    pl: tyrystor
+    pms: Tiristor
+    pt: tiristor
+    ro: tiristor
+    ru: тиристор
+    sh: Tiristor
+    sk: Tyristor
+    sl: tiristor
+    sq: Tiristori
+    sr: тиристор
+    sr-ec: тиристор
+    sr-el: tiristor
+    sv: tyristor
+    tg: Тиристор
+    tr: Tristör
+    uk: тиристор
+    uz: Tiristor
+    vi: thyristor
+    wuu: 晶闸管
+    yue: 閘流器
+    zh: 晶閘管
+    zh-cn: 晶闸管
+    zh-hans: 晶闸管
+    zh-hant: 閘流體
+    zh-hk: 閘流體
+    zh-sg: 晶闸管
+    zh-tw: 閘流體
 ---
-
 # [[Thyristor]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Thyristor,180805|WD~Thyristor,180805]]  

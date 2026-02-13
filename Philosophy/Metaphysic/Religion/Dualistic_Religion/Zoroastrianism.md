@@ -1,40 +1,142 @@
 ---
 aliases:
-  - Mazdayasna
-  - دین زرتشتی
-  - Dīn-e Zartoshtī
-  - 𐬨𐬀𐬰𐬛𐬀𐬌𐬌𐬀𐬯𐬥𐬀
-  - Mazdaiiasna
-  - Behdin
-  - بهدین
-  - behdīn
-  - Zoroastrianism
+- an Sóróstarachas
+- baihojgyau
+- Behdin
+- behdīn
+- Dīn-e Zartoshtī
+- Hỏa giáo
+- Majusi
+- Mazdaiiasna
+- Mazdayasna
+- parsisme
+- Soroastrianismo
+- Soroastrismo
+- Soroastrismus
+- Sorowastrismo
+- Soroátoro jerovia
+- sóróismi
+- Uzoroasti
+- Uzoroastro
+- Zarathoustra ŋgbɛyɛ
+- zarathustralaisuus
+- Zarathustrianisme
+- Zarathustrizmi
+- zaratustrstvo
+- Zaratusztrianizm
+- Zaratuŝtrismo
+- Zaratuştra dini
+- Zardushtiylik
+- zerdeştîtî
+- Zerduştine
+- Zerdüştlik
+- Zerdüştlük
+- Zoroaschrianizim
+- Zoroaster-kàu
+- Zoroastra
+- Zoroastregezh
+- Zoroastriaeth
+- Zoroastrianesim
+- Zoroastrianism
+- Zoroastrianisme
+- Zoroastrianismo
+- Zoroastris
+- Zoroastrism
+- Zoroastrisma
+- zoroastrisme
+- zoroastrismo
+- zoroastrisms
+- Zoroastrismu
+- Zoroastrismus
+- zoroastrizam
+- Zoroastrizmas
+- Zoroastrizmo
+- Zoroastrizmus
+- zoroasztrizmus
+- Zoruastrismu
+- Zuoruoastrėzmos
+- Zárdúshtiylik dini
+- Zərduštiəti
+- Zərdüştçülük
+- Żoroastrijaniżmu
+- Ζωροαστρισμός
+- зараастрызм
+- Заратуштрашылдық
+- Зороастрізм
+- зороастризам
+- зороастризм
+- Зороастризма
+- Зороастризъм
+- Зороастрын шажан
+- Зәрдөштлек
+- Маздаясна
+- маздаясно
+- Сăртăш
+- Զրադաշտականութիւն
+- Զրադաշտականություն
+- זאראאסטריזם
+- זורואסטריות
+- الزرادشتية
+- بهدین
+- دین زرتشتی
+- دینی زەردەشتی
+- زرادشتيه
+- زرتشتي مذھب
+- زرتشتيت
+- زرتشتیت
+- زرتشیت
+- زەردۇشتىلىك
+- مزدیسنا
+- ފާރިސީދީން
+- जोरोआस्तर धर्म
+- पारशी धर्म
+- पारसी धर्म
+- জরাথুস্ট্রবাদ
+- জৰথুষ্ট্ৰবাদ
+- ਪਾਰਸੀ ਧਰਮ
+- જરથોસ્તી ધર્મ
+- சரத்துஸ்திர சமயம்
+- జొరాస్ట్రియన్ మతం
+- ಝರತುಷ್ಟ್ರ ಮತ
+- സൊറോസ്ട്രിയൻ മതം
+- ศาสนาโซโรอัสเตอร์
+- ཛོ་ར་སིའི་ཆོས་ལུགས།
+- ဇိုရိုရက်စထရာဘာသာ
+- ზოროასტრიზმი
+- សាសនាសូរ៉ូអាស្ទើ
+- ゾロアスター教
+- 拜火教
+- 琐罗亚斯德教
+- 瑣羅亞斯德教
+- 祆教
+- 조로아스터교
+- "\U00010B28\U00010B00\U00010B30\U00010B1B\U00010B00\U00010B0C\U00010B0C\U00010B00\U00010B2F\U00010B25\U00010B00"
 has_id_wikidata: Q9601
-foundational_text: "[[_Standards/WikiData/WD~Avesta,83426]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Avesta,83426]]"
+foundational_text: '[[_Standards/WikiData/WD~Avesta,83426]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Avesta,83426]]'
 country:
-  - "[[_Standards/WikiData/WD~Kurdistan_Region,205047]]"
-  - "[[_Standards/WikiData/WD~Uzbekistan,265]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Kurdistan_Region,205047]]'
+- '[[_Standards/WikiData/WD~Uzbekistan,265]]'
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Tajikistan,863]]'
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-part_of: "[[_Standards/WikiData/WD~Aryan_religion,4802652]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+part_of: '[[_Standards/WikiData/WD~Aryan_religion,4802652]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~dualistic_cosmology,5310255]]"
-  - "[[_Standards/WikiData/WD~monotheism,9159]]"
-subclass_of: "[[_Standards/WikiData/WD~dualistic_cosmology,5310255]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Zoroastrianism,11176188]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Zoroastrianism_sidebar,13219029]]"
-instance_of: "[[_Standards/WikiData/WD~religion,9174]]"
-official_language: "[[_Standards/WikiData/WD~Avestan,29572]]"
-named_after: "[[_Standards/WikiData/WD~Zoroaster,35811]]"
-founded_by: "[[_Standards/WikiData/WD~Zoroaster,35811]]"
+- '[[_Standards/WikiData/WD~dualistic_cosmology,5310255]]'
+- '[[_Standards/WikiData/WD~monotheism,9159]]'
+subclass_of: '[[_Standards/WikiData/WD~dualistic_cosmology,5310255]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Zoroastrianism,11176188]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Zoroastrianism_sidebar,13219029]]'
+instance_of: '[[_Standards/WikiData/WD~religion,9174]]'
+official_language: '[[_Standards/WikiData/WD~Avestan,29572]]'
+named_after: '[[_Standards/WikiData/WD~Zoroaster,35811]]'
+founded_by: '[[_Standards/WikiData/WD~Zoroaster,35811]]'
 Dewey_Decimal_Classification: 295
 OmegaWiki_Defined_Meaning: 933779
 Colon_Classification: Q8451
@@ -46,8 +148,169 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Zoroastrianism%2
 P8189: 987007536540205200
 Krugosvet_article: kultura_i_obrazovanie/religiya/ZOROASTRIZM.html
 OpenStreetMap_tag_or_key: Tag:religion=zoroastrian
+dv_has_:
+  name_:
+    af: Zoroastrisme
+    an: Zoroastrismo
+    anp: पारसी धर्म
+    ar: الزرادشتية
+    arz: زرادشتيه
+    as: জৰথুষ্ট্ৰবাদ
+    ast: Zoroastrismu
+    az: Zərdüştçülük
+    azb: مزدیسنا
+    ba: Зороастризм
+    bcl: Zoroastrianismo
+    be: зараастрызм
+    be-tarask: зараастрызм
+    bg: Зороастризъм
+    bn: জরাথুস্ট্রবাদ
+    bo: ཛོ་ར་སིའི་ཆོས་ལུགས།
+    br: Zoroastregezh
+    bs: Zoroastrizam
+    btm: Zoroastrianisme
+    bxr: Зороастрын шажан
+    ca: zoroastrisme
+    ce: Зороастризм
+    ceb: Sorowastrismo
+    ckb: دینی زەردەشتی
+    crh: Zerdüştlik
+    cs: zoroastrismus
+    cv: Сăртăш
+    cy: Zoroastriaeth
+    da: Zarathustrianisme
+    de: Zoroastrismus
+    diq: Zerduştine
+    dv: ފާރިސީދީން
+    el: Ζωροαστρισμός
+    en: Zoroastrianism
+    en-ca: Zoroastrianism
+    en-gb: Zoroastrianism
+    eo: Zaratuŝtrismo
+    es: zoroastrismo
+    et: Zoroastrism
+    eu: Zoroastrismo
+    ext: Zoroastrismu
+    fa: مزدیسنا
+    fi: zarathustralaisuus
+    fr: zoroastrisme
+    frr: Soroastrismus
+    fy: Zoroastrisme
+    ga: an Sóróstarachas
+    gl: Zoroastrismo
+    gn: Soroátoro jerovia
+    gsw: Zoroastrismus
+    gu: જરથોસ્તી ધર્મ
+    ha: Zoroastra
+    he: זורואסטריות
+    hi: पारसी धर्म
+    hif: Zoroastrianism
+    hr: zoroastrizam
+    ht: Zoroastris
+    hu: zoroasztrizmus
+    hy: Զրադաշտականություն
+    hyw: Զրադաշտականութիւն
+    ia: Zoroastrismo
+    id: Zoroastrianisme
+    ig: Zoroastrianism
+    ilo: Soroastrianismo
+    is: sóróismi
+    it: zoroastrismo
+    ja: ゾロアスター教
+    jam: Zoroaschrianizim
+    ka: ზოროასტრიზმი
+    kaa: Zárdúshtiylik dini
+    kbp: Zarathoustra ŋgbɛyɛ
+    kk: Заратуштрашылдық
+    km: សាសនាសូរ៉ូអាស្ទើ
+    kn: ಝರತುಷ್ಟ್ರ ಮತ
+    ko: 조로아스터교
+    ks: زرتشیت
+    ku: zerdeştîtî
+    ku-latn: zerdeştîtî
+    ky: Зороастризм
+    la: Zoroastrismus
+    lad: Zoroastrizmo
+    lfn: zoroastrisme
+    li: Zoroastrisme
+    lmo: Zoroastrianesim
+    lt: Zoroastrizmas
+    lv: zoroastrisms
+    lzh: 祆教
+    mdf: Зороастризма
+    mg: Zoroastrisma
+    mk: зороастризам
+    ml: സൊറോസ്ട്രിയൻ മതം
+    mn: Зороастризм
+    mr: पारशी धर्म
+    ms: Majusi
+    mt: Żoroastrijaniżmu
+    mwl: Zoroastrismo
+    my: ဇိုရိုရက်စထရာဘာသာ
+    mzn: مزدیسنا
+    nan: Zoroaster-kàu
+    nb: zoroastrisme
+    nds: Zoroastrismus
+    ne: पारसी धर्म
+    new: जोरोआस्तर धर्म
+    nl: zoroastrisme
+    nn: parsisme
+    oc: Zoroastrisme
+    os: зороастризм
+    pa: ਪਾਰਸੀ ਧਰਮ
+    pcd: Zoroastrisme
+    pl: Zaratusztrianizm
+    pms: Zoroastrianism
+    pnb: زرتشتیت
+    ps: زرتشتيت
+    pt: zoroastrismo
+    pt-br: Zoroastrismo
+    ro: Zoroastrism
+    ru: зороастризм
+    rue: Зороастрізм
+    sah: Зороастризм
+    scn: Zoruastrismu
+    sco: Zoroastrianism
+    sd: زرتشتي مذھب
+    sgs: Zuoruoastrėzmos
+    sh: zoroastrizam
+    sk: Zoroastrizmus
+    skr: زرتشتیت
+    sl: zaratustrstvo
+    sn: Uzoroasti
+    sq: Zarathustrizmi
+    sr: зороастризам
+    sr-ec: зороастризам
+    sr-el: zoroastrizam
+    su: Zoroastrianisme
+    sv: zoroastrism
+    sw: Uzoroastro
+    ta: சரத்துஸ்திர சமயம்
+    te: జొరాస్ట్రియన్ మతం
+    tg: маздаясно
+    tg-cyrl: Маздаясна
+    th: ศาสนาโซโรอัสเตอร์
+    tk: Zaratuştra dini
+    tl: Soroastrismo
+    tly: Zərduštiəti
+    tr: Zerdüştlük
+    tt: Зәрдөштлек
+    udm: зороастризм
+    ug: زەردۇشتىلىك
+    uk: зороастризм
+    ur: زرتشتیت
+    uz: Zardushtiylik
+    vi: Hỏa giáo
+    vro: Zoroastrism
+    war: Zoroastrianismo
+    wuu: 拜火教
+    xmf: ზოროასტრიზმი
+    yi: זאראאסטריזם
+    yue: 瑣羅亞斯德教
+    za: baihojgyau
+    zh: 琐罗亚斯德教
+    zh-cn: 祆教
 ---
-
 # [[Zoroastrianism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Zoroastrianism,9601|WD~Zoroastrianism,9601]]  

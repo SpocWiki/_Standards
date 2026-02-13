@@ -1,28 +1,179 @@
 ---
 aliases:
+- Atirador de elite
+- Atirador especial
+- Cecchin
+- Cel-pafisto
+- finskytte
+- francotirador
+- franctirador
+- frankotiratzailea
+- kaŝpafisto
+- keskin nişancı
+- lunetist
+- mesterlövész
+- Nîşanbaz
+- odstřelovač
+- Ostreľovač
+- ostrostrelec
+- Oštrostrijelac
+- penembak runduk
+- prickskytt
+- Scharfschütze
+- skarpskyttar
+- skarpskytter
+- sluipschutter
+- Slûpskutter
+- Snaidhpear
+- Snaiper
+- snaiperis
+- Snajper
+- Snajperi
+- Snayper
+- sniper
+- strzelec wyborowy
+- tarkka-ampuja
+- Tiraire emboscat
+- tiratore scelto
+- tireur embusqué
+- Xạ thủ bắn tỉa
+- ελεύθερος σκοπευτής
+- Иччархо
+- Мерген
+- мәргән
+- снајпериста
+- снайпер
+- Снайперист
+- Снайперын баг
+- снайпэр
+- Тактирандоз
+- Դիպուկահար
+- צלף
+- تکتیرانداز
+- قناص
+- نیشانەشکێن
+- स्नाइपर
+- স্নাইপার
+- ਨਿਸ਼ਾਨਚੀ
+- குறிசுடுநர்
+- స్నిపర్
+- ಸ್ನೈಪರ್
+- സ്നൈപ്പർ
+- พลซุ่มยิง
+- სნაიპერი
+- 狙击手
+- 狙撃手
+- 狙擊手
+- 저격수
 has_id_wikidata: Q201948
-uses: "[[_Standards/WikiData/WD~sniper_rifle,190570]]"
+uses: '[[_Standards/WikiData/WD~sniper_rifle,190570]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~specialist,1391344]]"
-  - "[[_Standards/WikiData/WD~soldier,4991371]]"
-  - "[[_Standards/WikiData/WD~shooter,109648129]]"
+- '[[_Standards/WikiData/WD~specialist,1391344]]'
+- '[[_Standards/WikiData/WD~soldier,4991371]]'
+- '[[_Standards/WikiData/WD~shooter,109648129]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~marksman,3529376]]"
-  - "[[_Standards/WikiData/WD~Q12827131,12827131]]"
-field_of_this_occupation: "[[_Standards/WikiData/WD~sniping,11571401]]"
-instance_of: "[[_Standards/WikiData/WD~profession,28640]]"
+- '[[_Standards/WikiData/WD~marksman,3529376]]'
+- '[[_Standards/WikiData/WD~Q12827131,12827131]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~sniping,11571401]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
 Commons_gallery: Sniper
 male_form_of_label:
-  - Scharfschütze
-  - francotirador
-  - snaiperis
-U_S_National_Archives_Identifier: "10664797"
+- Scharfschütze
+- francotirador
+- snaiperis
+U_S_National_Archives_Identifier: 10664797
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barrett%20M82A1.jpg
 Commons_category: Snipers
 female_form_of_label: عبدالرسول زرین (ایرانی)
 IMDb_keyword: sniper
+dv_has_:
+  name_:
+    ar: قناص
+    ast: francotirador
+    az: snayper
+    be: снайпер
+    be-tarask: снайпэр
+    bg: Снайперист
+    bn: স্নাইপার
+    br: Sniper
+    ca: franctirador
+    ce: Иччархо
+    ckb: نیشانەشکێن
+    cs: odstřelovač
+    da: finskytte
+    de: Scharfschütze
+    el: ελεύθερος σκοπευτής
+    en: sniper
+    en-gb: sniper
+    eo: kaŝpafisto
+    es: francotirador
+    et: Snaiper
+    eu: frankotiratzailea
+    fa: تکتیرانداز
+    fi: tarkka-ampuja
+    fr: tireur embusqué
+    fy: Slûpskutter
+    gd: Snaidhpear
+    gl: Francotirador
+    he: צלף
+    hi: स्नाइपर
+    hr: Oštrostrijelac
+    hu: mesterlövész
+    hy: Դիպուկահար
+    id: penembak runduk
+    io: Cel-pafisto
+    it: tiratore scelto
+    ja: 狙撃手
+    jv: Sniper
+    ka: სნაიპერი
+    kk: Мерген
+    kn: ಸ್ನೈಪರ್
+    ko: 저격수
+    ku: Nîşanbaz
+    ky: Снайпер
+    lmo: Cecchin
+    lt: snaiperis
+    lv: snaiperis
+    ml: സ്നൈപ്പർ
+    mn: Снайперын баг
+    mt: sniper
+    nb: skarpskytter
+    ne: स्नाइपर
+    nl: sluipschutter
+    nn: skarpskyttar
+    oc: Tiraire emboscat
+    pa: ਨਿਸ਼ਾਨਚੀ
+    pl: strzelec wyborowy
+    pt: Atirador especial
+    pt-br: Atirador de elite
+    ro: lunetist
+    ru: снайпер
+    sh: Snajper
+    sk: Ostreľovač
+    sl: ostrostrelec
+    sq: Snajperi
+    sr: снајпериста
+    sv: prickskytt
+    ta: குறிசுடுநர்
+    te: స్నిపర్
+    tg: Тактирандоз
+    th: พลซุ่มยิง
+    tr: keskin nişancı
+    tt: мәргән
+    uk: снайпер
+    uz: Snayper
+    vec: francotirador
+    vi: Xạ thủ bắn tỉa
+    wuu: 狙击手
+    yue: 狙擊手
+    zh: 狙擊手
+    zh-cn: 狙击手
+    zh-hans: 狙击手
+    zh-hant: 狙擊手
+    zh-hk: 狙擊手
+    zh-sg: 狙击手
+    zh-tw: 狙擊手
 ---
-
 # [[Sniper]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sniper,201948|WD~Sniper,201948]]  

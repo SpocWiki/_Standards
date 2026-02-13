@@ -1,11 +1,160 @@
 ---
 aliases:
-  - John Hurt
-  - Sir John Vincent Hurt
-  - John Vincent Hurt
-  - Hurt,John
+- Con Hört
+- Džon Hert
+- Hurt,John
+- Ioannes Hurt
+- John Hurt
+- John Vincent Hurt
+- Sir John Vincent Hurt
+- Τζον Χερτ
+- Џон Херт
+- Джон Герт
+- Джон Хёрт
+- Джон Хърт
+- Жон Хёрт
+- Җон Һөрт
+- Ջոն Հըրթ
+- ג'ון הרט
+- דזשאן הערט
+- جان هارت
+- جان هرت
+- جون هرت
+- জন হার্ট
+- ჯონ ჰარტი
+- ジョン・ハート
+- 尊·赫
+- 尊赫
+- 約翰·赫特
+- 约翰·赫特
+- 존 허트
+has_id_wikidata: Q200405
+dv_has_:
+  name_:
+    af: John Hurt
+    an: John Hurt
+    ar: جون هرت
+    arz: جون هرت
+    ast: John Hurt
+    az: Con Hört
+    azb: جان هرت
+    bar: John Hurt
+    be: Джон Хёрт
+    bg: Джон Хърт
+    bm: John Hurt
+    bn: জন হার্ট
+    br: John Hurt
+    ca: John Hurt
+    co: John Hurt
+    cs: John Hurt
+    cy: John Hurt
+    da: John Hurt
+    de: John Hurt
+    de-at: John Hurt
+    de-ch: John Hurt
+    el: Τζον Χερτ
+    en: John Hurt
+    en-ca: John Hurt
+    en-gb: John Hurt
+    eo: John Hurt
+    es: John Hurt
+    et: John Hurt
+    eu: John Hurt
+    fa: جان هارت
+    fi: John Hurt
+    fr: John Hurt
+    frc: John Hurt
+    frp: John Hurt
+    fur: John Hurt
+    ga: John Hurt
+    gd: John Hurt
+    gl: John Hurt
+    gsw: John Hurt
+    gv: John Hurt
+    he: ג'ון הרט
+    hr: John Hurt
+    hu: John Hurt
+    hy: Ջոն Հըրթ
+    ia: John Hurt
+    id: John Hurt
+    ie: John Hurt
+    io: John Hurt
+    it: John Hurt
+    ja: ジョン・ハート
+    jam: John Hurt
+    ka: ჯონ ჰარტი
+    kab: John Hurt
+    kg: John Hurt
+    ko: 존 허트
+    la: Ioannes Hurt
+    lb: John Hurt
+    li: John Hurt
+    lij: John Hurt
+    lt: John Hurt
+    lv: John Hurt
+    mg: John Hurt
+    min: John Hurt
+    mk: Џон Херт
+    mn: Жон Хёрт
+    ms: John Hurt
+    mul: John Hurt
+    nap: John Hurt
+    nb: John Hurt
+    nds: John Hurt
+    nds-nl: John Hurt
+    nl: John Hurt
+    nn: John Hurt
+    nrm: John Hurt
+    oc: John Hurt
+    pap: John Hurt
+    pcd: John Hurt
+    pl: John Hurt
+    pms: John Hurt
+    prg: John Hurt
+    pt: John Hurt
+    pt-br: John Hurt
+    qu: John Hurt
+    rgn: John Hurt
+    rm: John Hurt
+    ro: John Hurt
+    ru: Джон Хёрт
+    sc: John Hurt
+    scn: John Hurt
+    sco: John Hurt
+    sh: John Hurt
+    sk: John Hurt
+    sl: John Hurt
+    sq: John Hurt
+    sr: Џон Херт
+    sr-ec: Џон Херт
+    sr-el: Džon Hert
+    sv: John Hurt
+    sw: John Hurt
+    tl: John Hurt
+    tr: John Hurt
+    tt: Җон Һөрт
+    uk: Джон Герт
+    vec: John Hurt
+    vi: John Hurt
+    vls: John Hurt
+    vmf: John Hurt
+    vo: John Hurt
+    wa: John Hurt
+    wo: John Hurt
+    wuu: 约翰·赫特
+    xmf: ჯონ ჰარტი
+    yi: דזשאן הערט
+    yue: 尊赫
+    zh: 约翰·赫特
+    zh-cn: 约翰·赫特
+    zh-hans: 约翰·赫特
+    zh-hant: 約翰·赫特
+    zh-hk: 尊·赫
+    zh-my: 约翰·赫特
+    zh-sg: 约翰·赫特
+    zh-tw: 約翰·赫特
+    zu: John Hurt
 ---
-
 # [[Hurt,John]] 
 
 #has_/time_/started :: 1940-01-22 

@@ -1,8 +1,80 @@
 ---
 aliases:
-  - Wild Wild West
+- Bardzo dziki zachód
+- Divlji, divlji zapad
+- Laukiniai laukiniai vakarai
+- Mežonīgie rietumi
+- Vahşi Vahşi Batı
+- Wild Wild West
+- Wild Wild West - Mare nebunie în Vest
+- Wild Wild West – Vadiúj vadnyugat
+- Дивљи, дивљи запад
+- Дивиот
+- Дикий, дикий Вест
+- Този див, див запад
+- Վայրի, վայրի Ուեսթը
+- פרוע על המערב
+- برية الغرب المتوحش
+- بريه الغرب المتوحش
+- غرب وحشی وحشی
+- वाइल्ड वाइल्ड वेस्ट
+- ワイルド・ワイルド・ウエスト
+- 惊险任务
+- 飆風戰警
+- 飙风战警
+- 와일드 와일드 웨스트
+has_id_wikidata: Q740528
+dv_has_:
+  name_:
+    ar: برية الغرب المتوحش
+    arz: بريه الغرب المتوحش
+    ast: Wild Wild West
+    bg: Този див, див запад
+    ca: Wild Wild West
+    ceb: Wild Wild West
+    cs: Wild Wild West
+    cy: Wild Wild West
+    da: Wild Wild West
+    de: Wild Wild West
+    en: Wild Wild West
+    es: Wild Wild West
+    eu: Wild Wild West
+    fa: غرب وحشی وحشی
+    fi: Wild Wild West
+    fr: Wild Wild West
+    ga: Wild Wild West
+    gl: Wild Wild West
+    he: פרוע על המערב
+    hi: वाइल्ड वाइल्ड वेस्ट
+    hu: Wild Wild West – Vadiúj vadnyugat
+    hy: Վայրի, վայրի Ուեսթը
+    id: Wild Wild West
+    it: Wild Wild West
+    ja: ワイルド・ワイルド・ウエスト
+    ko: 와일드 와일드 웨스트
+    lt: Laukiniai laukiniai vakarai
+    lv: Mežonīgie rietumi
+    mk: Дивиот
+    nb: Wild Wild West
+    nds: Wild Wild West
+    nl: Wild Wild West
+    pl: Bardzo dziki zachód
+    pt: Wild Wild West
+    ro: Wild Wild West - Mare nebunie în Vest
+    ru: Дикий, дикий Вест
+    sh: Wild Wild West
+    sr: Дивљи, дивљи запад
+    sr-ec: Дивљи, дивљи запад
+    sr-el: Divlji, divlji zapad
+    sv: Wild Wild West
+    tr: Vahşi Vahşi Batı
+    uk: Дикий, дикий Вест
+    zh: 飆風戰警
+    zh-cn: 飙风战警
+    zh-hans: 飙风战警
+    zh-hant: 飆風戰警
+    zh-sg: 惊险任务
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Wild Wild West** is a 1999 American steampunk Western film directed by Barry Sonnenfeld 

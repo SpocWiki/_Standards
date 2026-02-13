@@ -1,17 +1,90 @@
 ---
 aliases:
-  - circular function
-  - angle function
-  - goniometric function
-  - trigonometric function
-  - Trigonometric_Function
-  - Trigonometric Function
+- angle function
+- ante nanpa kiki
+- circular function
+- ffwythiannau trigonometreg
+- foncion trigonometrica
+- fonction trigonométrique
+- fonsion trigonométrica
+- funció trigonomètrica
+- función trigonométrica
+- functio trigonometrica
+- funcție trigonometrică
+- fungsi trigonometri
+- fungsi trigonometrik
+- funkcje trygonometryczne
+- funksijahoi trigonometrī
+- funksionet trigonometrike
+- funsionas trigonometrial
+- funtzio trigonometriko
+- funzione trigonometrica
+- função trigonométrica
+- goniometric function
+- goniometrická funkce
+- goniometrická funkcia
+- goniometrische functie
+- hornafall
+- hàm lượng giác
+- saⁿ-kak hâm-sò͘
+- szögfüggvény
+- trigonomeetrilised funktsioonid
+- trigonomeetrlaž funktio
+- trigonometralaš funktio
+- trigonometria funkcio
+- trigonometriala funciono
+- trigonometric function
+- Trigonometric_Function
+- trigonometrijske funkcije
+- trigonometrik fonksiyonlar
+- trigonometrik funksiyalar
+- trigonometrinen funktio
+- trigonometrinė funkcija
+- trigonometrische Funktion
+- trigonometrisk funksjon
+- trigonometrisk funktion
+- trigonometriskās funkcijas
+- trigonometrisâš funktio
+- trigonometrična funkcija
+- triqonometrik funksiyalar
+- τριγωνομετρική συνάρτηση
+- тригонометријска функција
+- тригонометријске функције
+- тригонометрик функциялар
+- Тригонометрилле функцисем
+- тригонометриски функции
+- тригонометрическая функция
+- тригонометричні функції
+- тригонометрична функция
+- трыганаметрычныя функцыі
+- трыганамэтрычная функцыя
+- функсияҳои тригонометрӣ
+- Եռանկյունաչափական ֆունկցիաներ
+- פונקציה טריגונומטרית
+- تابعهای مثلثاتی
+- دوال مثلثية
+- فانکشنە سێگۆشەیییەکان
+- مثلثیاتی دالہ
+- त्रिकोणमितीय फलन
+- स्पर्श (त्रिकोणमितीय फल)
+- ত্রিকোণমিতিক অপেক্ষক
+- ত্ৰিকোণমিতীয় ফলন
+- முக்கோணவியல் சார்புகள்
+- ත්රිකෝණමිතික ශ්රිත
+- ฟังก์ชันตรีโกณมิติ
+- ຕຳລາໄຕມຸມ
+- ტრიგონომეტრიული ფუნქციები
+- អនុគមន៍ត្រីកោណមាត្រ
+- 三角函数
+- 三角函數
+- 三角関数
+- 삼각 함수
 has_id_wikidata: Q93344
 approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~periodic_function,184743]]'
-  - '[[_Standards/WikiData/WD~elementary_function,824282]]'
-  - '[[_Standards/WikiData/WD~transcendental_function,864333]]'
+- '[[_Standards/WikiData/WD~periodic_function,184743]]'
+- '[[_Standards/WikiData/WD~elementary_function,824282]]'
+- '[[_Standards/WikiData/WD~transcendental_function,864333]]'
 mathematical_inverse: '[[_Standards/WikiData/WD~inverse_trigonometric_function,674533]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Trigonometry_2,22857577]]'
@@ -24,12 +97,107 @@ Commons_category: Trigonometric functions
 Stack_Exchange_tag: https://mathoverflow.net/tags/trigonometric-functions
 Krugosvet_article_archived_: matematika/trigonometricheskie-funkcii
 described_at_URL:
-  - https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_(Stitz-Zeager)/10%3A_Foundations_of_Trigonometry/10.03%3A_The_Six_Circular_Functions_and_Fundamental_Identities
-  - http://ostts.org/Stitz_Zeager_Precalculus_Book_By_Section_files/10-3.pdf
-  - https://www.monash.edu/student-academic-success/mathematics/circular-functions/circular-functions-graphs
+- https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_(Stitz-Zeager)/10%3A_Foundations_of_Trigonometry/10.03%3A_The_Six_Circular_Functions_and_Fundamental_Identities
+- http://ostts.org/Stitz_Zeager_Precalculus_Book_By_Section_files/10-3.pdf
+- https://www.monash.edu/student-academic-success/mathematics/circular-functions/circular-functions-graphs
 Dewey_Decimal_Classification: 516.246
+dv_has_:
+  name_:
+    ar: دوال مثلثية
+    as: ত্ৰিকোণমিতীয় ফলন
+    ast: función trigonométrica
+    az: triqonometrik funksiyalar
+    ba: тригонометрик функциялар
+    be: трыганаметрычныя функцыі
+    be-tarask: трыганамэтрычная функцыя
+    bg: тригонометрична функция
+    bn: ত্রিকোণমিতিক অপেক্ষক
+    bs: trigonometrijske funkcije
+    ca: funció trigonomètrica
+    ckb: فانکشنە سێگۆشەیییەکان
+    cs: goniometrická funkce
+    cv: Тригонометрилле функцисем
+    cy: ffwythiannau trigonometreg
+    da: trigonometrisk funktion
+    de: trigonometrische Funktion
+    el: τριγωνομετρική συνάρτηση
+    en: trigonometric function
+    eo: trigonometria funkcio
+    es: función trigonométrica
+    et: trigonomeetrilised funktsioonid
+    eu: funtzio trigonometriko
+    fa: تابعهای مثلثاتی
+    fi: trigonometrinen funktio
+    fr: fonction trigonométrique
+    gl: función trigonométrica
+    he: פונקציה טריגונומטרית
+    hi: त्रिकोणमितीय फलन
+    hr: Trigonometrijske funkcije
+    hu: szögfüggvény
+    hy: Եռանկյունաչափական ֆունկցիաներ
+    id: fungsi trigonometrik
+    io: trigonometriala funciono
+    is: hornafall
+    it: funzione trigonometrica
+    ja: 三角関数
+    ka: ტრიგონომეტრიული ფუნქციები
+    km: អនុគមន៍ត្រីកោណមាត្រ
+    ko: 삼각 함수
+    la: functio trigonometrica
+    lfn: funsionas trigonometrial
+    lo: ຕຳລາໄຕມຸມ
+    lt: trigonometrinė funkcija
+    lv: trigonometriskās funkcijas
+    lzh: 三角函數
+    mag: त्रिकोणमितीय फलन
+    mk: тригонометриски функции
+    mr: स्पर्श (त्रिकोणमितीय फल)
+    ms: fungsi trigonometri
+    nan: saⁿ-kak hâm-sò͘
+    nb: trigonometrisk funksjon
+    nl: goniometrische functie
+    nn: trigonometrisk funksjon
+    oc: foncion trigonometrica
+    pl: funkcje trygonometryczne
+    pms: fonsion trigonométrica
+    pt: função trigonométrica
+    pt-br: função trigonométrica
+    ro: funcție trigonometrică
+    ru: тригонометрическая функция
+    sco: trigonometric function
+    se: trigonometralaš funktio
+    sh: trigonometrijske funkcije
+    si: ත්රිකෝණමිතික ශ්රිත
+    sk: goniometrická funkcia
+    sl: trigonometrična funkcija
+    smn: trigonometrisâš funktio
+    sms: trigonomeetrlaž funktio
+    sq: funksionet trigonometrike
+    sr: тригонометријска функција
+    sr-ec: тригонометријске функције
+    sr-el: trigonometrijske funkcije
+    sv: trigonometrisk funktion
+    ta: முக்கோணவியல் சார்புகள்
+    tg: функсияҳои тригонометрӣ
+    tg-latn: funksijahoi trigonometrī
+    th: ฟังก์ชันตรีโกณมิติ
+    tok: ante nanpa kiki
+    tr: trigonometrik fonksiyonlar
+    uk: тригонометричні функції
+    ur: مثلثیاتی دالہ
+    uz: trigonometrik funksiyalar
+    vi: hàm lượng giác
+    wuu: 三角函数
+    yue: 三角函數
+    zh: 三角函數
+    zh-cn: 三角函数
+    zh-hans: 三角函数
+    zh-hant: 三角函數
+    zh-hk: 三角函數
+    zh-mo: 三角函數
+    zh-sg: 三角函数
+    zh-tw: 三角函數
 ---
-
 # [[Trigonometric_Function]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Trigonometric_function,93344|WD~Trigonometric_function,93344]]  

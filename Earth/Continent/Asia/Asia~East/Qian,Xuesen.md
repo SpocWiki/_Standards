@@ -1,35 +1,105 @@
 ---
 aliases:
-  - Father of Chinese Rocketry
-  - Qian,Xuesen
+- Chîⁿ Ha̍k-sim
+- Cjaņs Sjueseņs
+- Csien Hszüe-szen
+- Father of Chinese Rocketry
+- Qian Xuesen
+- Qian Xueshen
+- Qian,Xuesen
+- Tiền Học Sâm
+- Čchien Süe-sen
+- Цянь Сюесень
+- Цянь Сюэсэнь
+- Ցիեն Սուե Սեն
+- טסיאן סו-שן
+- تشيان شيويه سن
+- چن شیسن
+- चियाङ स्वीजन
+- 銭学森
+- 錢學森
+- 钱学森
+- 첸쉐썬
 dv_has_:
+  duration_:
+    years: 98
+  name_:
+    ar: تشيان شيويه سن
+    ast: Qian Xuesen
+    cs: Čchien Süe-sen
+    cy: Qian Xuesen
+    da: Qian Xuesen
+    de: Qian Xuesen
+    en: Qian Xuesen
+    en-ca: Qian Xuesen
+    en-gb: Qian Xuesen
+    es: Qian Xuesen
+    et: Qian Xuesen
+    eu: Qian Xuesen
+    fa: چن شیسن
+    fi: Qian Xuesen
+    fr: Qian Xuesen
+    ga: Qian Xuesen
+    gl: Qian Xuesen
+    he: טסיאן סו-שן
+    hu: Csien Hszüe-szen
+    hy: Ցիեն Սուե Սեն
+    id: Qian Xuesen
+    it: Qian Xuesen
+    ja: 銭学森
+    ko: 첸쉐썬
+    la: Qian Xuesen
+    lv: Cjaņs Sjueseņs
+    lzh: 錢學森
+    mg: Qian Xuesen
+    ms: Qian Xuesen
+    nan: Chîⁿ Ha̍k-sim
+    nb: Qian Xuesen
+    ne: चियाङ स्वीजन
+    nl: Qian Xuesen
+    nn: Qian Xueshen
+    pl: Qian Xuesen
+    pt: Qian Xuesen
+    pt-br: Qian Xuesen
+    ru: Цянь Сюэсэнь
+    sah: Цянь Сюэсэнь
+    sq: Qian Xuesen
+    sv: Qian Xuesen
+    uk: Цянь Сюесень
+    vi: Tiền Học Sâm
+    yue: 錢學森
+    zh: 钱学森
+    zh-cn: 钱学森
+    zh-hans: 钱学森
+    zh-hant: 錢學森
+    zh-hk: 錢學森
+    zh-sg: 钱学森
+    zh-tw: 錢學森
   time_:
     started: 1911-12-11T00:00:00.000+01:00
     stopped: 2009-10-31T00:00:00.000+01:00
-  duration_:
-    years: 98
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]"
+  - '[[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]'
 dv_has_time_started: 1911-12-11
 dv_has_time_stopped: 2009-10-31
 dv_has_duration_years: 98
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]"
+- '[[/_Standards/Earth/Continent/Asia/Asia~East/Qian,Xuesen|Qian,Xuesen]]'
+- '[[/_public/Earth/Continent/Asia/Asia~East/Qian,Xuesen.public|Qian,Xuesen.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.internal|Qian,Xuesen.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~East/Qian,Xuesen.protect|Qian,Xuesen.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~East/Qian,Xuesen.private|Qian,Xuesen.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~East/Qian,Xuesen.personal|Qian,Xuesen.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~East/Qian,Xuesen.secret|Qian,Xuesen.secret]]'
+has_id_wikidata: Q333500
 ---
-
 # [[Qian,Xuesen]] 
 
 has_time_started = `=this.dv_has_time_started`

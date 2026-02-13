@@ -1,25 +1,109 @@
 ---
 aliases:
-  - Primate
-  - Primates
-  - primater
+- Aapechtege
+- Akọ́dièyàn
+- bộ Linh trưởng
+- Esikloomalised
+- Ezibuchophokhulu
+- főemlősök
+- Jidoldunol
+- kädelliset
+- Lêng-tióng-lūi
+- Makiyuq
+- Mágí dóó Mágí Ndahalinígíí
+- naczelne
+- Olaantiyyaa
+- primaat
+- Primaaten
+- Primat
+- primata
+- primatad
+- Primatai
+- primatar
+- primatas
+- Primate
+- Primated
+- Primaten
+- primater
+- Primates
+- Primati
+- Primatlar
+- Primatoj
+- Primats
+- Primatā
+- Primoatn
+- Primà
+- primáti
+- Primáty
+- primāti
+- prvaki
+- Prymat
+- prímatar
+- príomhach
+- Prîmat
+- Prînma
+- soweli Primate
+- Ungoy
+- πρωτεύοντα
+- Примааттар
+- Приматар
+- примати
+- Приматлар
+- Приматсем
+- приматтæ
+- Приматтар
+- Приматтэз
+- приматъёс
+- Приматы
+- прыматы
+- պրիմատներ
+- פרימאט
+- פרימטים
+- آگو مانس
+- حیوانات رئیسہ
+- رئيسيات
+- نخستیسانان
+- نَر وانٛدَر
+- پرايميټ
+- پریماتلار
+- گوانداری ڕەسەن
+- नरवानर गण
+- प्राथमिकवर्ग
+- बँमनू
+- প্রাইমেট
+- প্ৰাইমেট
+- ਆਗੂ ਮਾਨਸ
+- முதனி
+- ప్రైమేట్
+- ಪ್ರೈಮೇಟ್
+- പ്രൈമേറ്റ്
+- อันดับวานร
+- ပရိုင်းမိတ်
+- პრიმატები
+- პრიმატეფი
+- ሰብአስተኔ
+- ⵉⵎⵣⵡⵓⵔⴰ/ⵜⵉⴳⵊⴷⴰⵏⵉⵏ
+- サル目
+- 灵长目
+- 靈長目
+- 영장목
 has_id_wikidata: Q7380
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
 Commons_category: Primates
 Commons_gallery: Primates
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 EPPO_Code:
-  - 1PRIMO
-  - AADMPX
+- 1PRIMO
+- AADMPX
 equivalent_class:
-  - http://kbpedia.org/kko/rc/Primate
+- http://kbpedia.org/kko/rc/Primate
 GS1_GPC_code: 10005459
 has_list: '[[_Standards/WikiData/WD~list_of_primates,1076997]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20baboon.jpg
 instance_of:
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 180089
 Krugosvet_article: nauka_i_tehnika/biologiya/PRIMATI.html
 MCN_code: 0106.11.00
@@ -28,13 +112,13 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Primates%20-%2
 NBN_System_Key: NHMSYS0000377147
 OmegaWiki_Defined_Meaning: 2964
 start_time:
-  - 79600000-01-01
-  - -55000000-01-01
+- 79600000-01-01
+- -55000000-01-01
 studied_in:
-  - '[[_Standards/WikiData/WD~primatology,219488]]'
-  - '[[_Standards/WikiData/WD~palaeoprimatology,126598067]]'
+- '[[_Standards/WikiData/WD~primatology,219488]]'
+- '[[_Standards/WikiData/WD~palaeoprimatology,126598067]]'
 taxon_common_name:
-  - primater
+- primater
 taxon_name: Primates
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Non-human%20primate%20range.png
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
@@ -43,8 +127,164 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Primate-stub,11125405]
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Primates,11847392]]'
 UMLS_CUI: C0033147
 UNSPSC_Code: 10101514
+dv_has_:
+  name_:
+    ace: Primata
+    af: primaat
+    am: ሰብአስተኔ
+    an: Primates
+    ar: رئيسيات
+    arz: رئيسيات
+    as: প্ৰাইমেট
+    ast: Primates
+    avk: Jidoldunol
+    az: Primatlar
+    azb: پریماتلار
+    ba: Приматтар
+    ban: Primata
+    be: прыматы
+    be-tarask: прыматы
+    bg: примати
+    bn: প্রাইমেট
+    br: Primated
+    bs: Primat
+    ca: primat
+    ceb: Ungoy
+    ckb: گوانداری ڕەسەن
+    crh: primat
+    cs: primáti
+    cv: Приматсем
+    cy: Primat
+    da: Primater
+    de: Primaten
+    diq: Primat
+    el: πρωτεύοντα
+    en: primate
+    en-ca: Primate
+    en-gb: primate
+    eo: Primatoj
+    es: primates
+    et: Esikloomalised
+    eu: Primate
+    ext: Primates
+    fa: نخستیسانان
+    fi: kädelliset
+    fr: primates
+    frr: Primaaten
+    fy: Primaten
+    ga: príomhach
+    gl: Primates
+    gn: Primates
+    gor: Primata
+    gsw: Primate
+    he: פרימטים
+    hi: नरवानर गण
+    hif: primate
+    hr: Primati
+    ht: Primat
+    hu: főemlősök
+    hy: պրիմատներ
+    ia: primate
+    id: Primata
+    is: prímatar
+    it: primati
+    ja: サル目
+    jv: Primata
+    ka: პრიმატები
+    kk: Приматтар
+    kn: ಪ್ರೈಮೇಟ್
+    ko: 영장목
+    koi: Приматтэз
+    ks: نَر وانٛدَر
+    ku: Prîmat
+    ku-latn: Prîmat
+    kw: Prymat
+    ky: Приматтар
+    la: Primates
+    lb: Primaten
+    lez: Приматар
+    lfn: Primate
+    li: Aapechtege
+    lij: Primates
+    lmo: Primates
+    lt: Primatai
+    lv: primāti
+    mad: Primata
+    min: Primata
+    mk: Примати
+    ml: പ്രൈമേറ്റ്
+    ms: Primat
+    mul: Primates
+    my: ပရိုင်းမိတ်
+    nan: Lêng-tióng-lūi
+    nb: Primater
+    nds: Primaten
+    ne: प्राथमिकवर्ग
+    new: बँमनू
+    nl: primaten
+    nn: primatar
+    nov: Primates
+    nrm: Prînma
+    nv: Mágí dóó Mágí Ndahalinígíí
+    oc: Primats
+    om: Olaantiyyaa
+    os: приматтæ
+    pa: ਆਗੂ ਮਾਨਸ
+    pap: Primate
+    pl: naczelne
+    pms: Primà
+    pnb: آگو مانس
+    ps: پرايميټ
+    pt: primatas
+    pt-br: primata
+    qu: Makiyuq
+    ro: primate
+    ru: приматы
+    rue: Приматы
+    sah: Примааттар
+    scn: Primati
+    sco: primates
+    sgs: Primatā
+    sh: Primati
+    sk: Primáty
+    sl: prvaki
+    sq: Primates
+    sr: примати
+    su: Primata
+    sv: primater
+    sw: Primates
+    ta: முதனி
+    te: ప్రైమేట్
+    th: อันดับวานร
+    tl: Primate
+    tok: soweli Primate
+    tr: Primat
+    tt: Приматлар
+    udm: приматъёс
+    uk: примати
+    ur: حیوانات رئیسہ
+    uz: Primatlar
+    vep: primatad
+    vi: bộ Linh trưởng
+    vls: Primoatn
+    war: Primata
+    wuu: 灵长目
+    xmf: პრიმატეფი
+    yi: פרימאט
+    yo: Akọ́dièyàn
+    yue: 靈長目
+    zgh: ⵉⵎⵣⵡⵓⵔⴰ/ⵜⵉⴳⵊⴷⴰⵏⵉⵏ
+    zh: 灵长目
+    zh-cn: 灵长目
+    zh-hans: 灵长目
+    zh-hant: 靈長目
+    zh-hk: 靈長目
+    zh-mo: 靈長目
+    zh-my: 灵长目
+    zh-sg: 灵长目
+    zh-tw: 靈長目
+    zu: Ezibuchophokhulu
 ---
-
 # [[Primates]] 
 
 #is_/instance_of :: [[../../../../../../../../../../../../../bio~Domain/Eukarya/Animal/Bilateria/bio~Class/bio~Order|bio~Order]] 

@@ -1,11 +1,102 @@
 ---
 aliases:
-  - Yorgos Lanthimos
-  - Yorgos_Lanthimos
-  - Lanthimos
-  - Lanthimos,Yorgos
+- Giorgos Lanthimos
+- Giórgos Lánthimos
+- Iorgos Lànthimos
+- Jorgos Lanthimos
+- Jorgos Lantimos
+- Jorgs Lantimos
+- Jórgosz Lánthimosz
+- Lanthimos
+- Lanthimos,Yorgos
+- Yorgos Lanthimos
+- Yorgos_Lanthimos
+- Yórgos Lánthimos
+- Γιώργος Λάνθιμος
+- Ёргас Ланцімас
+- Ёргас Лянтымас
+- Јоргос Лантимос
+- Йоргос Лантімос
+- Йоргос Лантимос
+- Յորգոս Լանտիմոս
+- יורגוס לנתימוס
+- يورجوس لانثيموس
+- يورگوس لانثيموس
+- یورگوس لانتیموس
+- یورگوس لینتھیموس
+- یۆرگۆس لانتیمۆس
+- योर्गोस लैंथिमोस
+- ইয়োর্গোস ল্যান্থিমোস
+- იორგოს ლანთიმოსი
+- ヨルゴス・ランティモス
+- 尤格·蓝西莫
+- 尤格·藍西莫
+- 尤格・藍西莫
+- 欧格斯·兰斯莫斯
+- 约戈斯·兰西莫斯
+- 요르고스 란티모스
+has_id_wikidata: Q975410
+dv_has_:
+  name_:
+    acm: يورگوس لانثيموس
+    ar: يورجوس لانثيموس
+    arz: يورجوس لانثيموس
+    be: Ёргас Ланцімас
+    be-tarask: Ёргас Лянтымас
+    bg: Йоргос Лантимос
+    bn: ইয়োর্গোস ল্যান্থিমোস
+    ca: Iorgos Lànthimos
+    ckb: یۆرگۆس لانتیمۆس
+    cs: Jorgos Lanthimos
+    da: Yorgos Lanthimos
+    de: Giorgos Lanthimos
+    el: Γιώργος Λάνθιμος
+    en: Yorgos Lanthimos
+    eo: Yorgos Lanthimos
+    es: Giórgos Lánthimos
+    eu: Yorgos Lanthimos
+    fa: یورگوس لانتیموس
+    fi: Giórgos Lánthimos
+    fr: Yórgos Lánthimos
+    ga: Yorgos Lanthimos
+    gl: Yorgos Lanthimos
+    he: יורגוס לנתימוס
+    hi: योर्गोस लैंथिमोस
+    hu: Jórgosz Lánthimosz
+    hy: Յորգոս Լանտիմոս
+    id: Yorgos Lanthimos
+    is: Yorgos Lanthimos
+    it: Yorgos Lanthimos
+    ja: ヨルゴス・ランティモス
+    ka: იორგოს ლანთიმოსი
+    kk: Йоргос Лантимос
+    kl: Yorgos Lanthimos
+    ko: 요르고스 란티모스
+    lb: Giorgos Lanthimos
+    lv: Jorgs Lantimos
+    nb: Giorgos Lanthimos
+    nl: Giorgos Lanthimos
+    pap: Yorgos Lanthimos
+    pl: Jorgos Lantimos
+    pt: Yorgos Lanthimos
+    pt-br: Yorgos Lanthimos
+    ro: Yorgos Lanthimos
+    ru: Йоргос Лантимос
+    sl: Giorgos Lanthimos
+    sq: Yorgos Lanthimos
+    sr: Јоргос Лантимос
+    sv: Giorgos Lanthimos
+    tr: Yorgos Lanthimos
+    uk: Йоргос Лантімос
+    ur: یورگوس لینتھیموس
+    zh: 尤格·藍西莫
+    zh-cn: 约戈斯·兰西莫斯
+    zh-hans: 约戈斯·兰西莫斯
+    zh-hant: 尤格・藍西莫
+    zh-my: 尤格·蓝西莫
+    zh-sg: 欧格斯·兰斯莫斯
+    zh-tw: 尤格·藍西莫
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Yorgos Lanthimos** (Greek: Γιώργος Λάνθιμος [ˈʝorɣos ˈlanθimos]; 

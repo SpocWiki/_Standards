@@ -1,5 +1,146 @@
 ---
-has_time_started: 2004-02-04 
+has_time_started: 2004-02-04
+aliases:
+- Facebook
+- Fasibouk
+- Faysbuk
+- Faysbuug
+- Feesbuukii
+- Fezbuk
+- IFacebook
+- lipu Pepu
+- Naaltsoos biniiʼ
+- Peithbuk
+- Pèsbuk
+- Фєйсбоѵкъ
+- Фејсбук
+- Фейсбук
+- Фэйсбук
+- Ֆեյսբուք
+- Ֆէյսպուք
+- פייסבוק
+- فايسبوك
+- فيس بوك
+- فيس بڪ
+- فيسبوك
+- فيسبوک
+- فیس بوک
+- فیس بُک
+- فیس بک
+- فیسبوک
+- فەیسبووک
+- ފޭސްބުކް
+- ߝߋߛߑߓߎߞ
+- फेसबुक
+- फेसबूक
+- फेस्बुक्
+- ফেচবুক
+- ফেসবুক
+- ਫ਼ੇਸਬੁੱਕ
+- ફેસબુક
+- ଫେସବୁକ
+- ஃபேஸ்புக்
+- ఫేస్ బుక్
+- ಫೇಸ್ ಬುಕ್
+- ഫേസ് ബുക്ക്
+- ෆේස්බුක්
+- เฟซบุ๊ก
+- ເຟຊບຸກ
+- ဖေ့စ်ဘွတ်ခ်
+- ဝှုက်ဗောက်
+- ၾဵတ်ႉပုၵ်ႉ
+- ფეისბუქი
+- ፌስቡክ
+- ᎤᎧᏛᎪᏪᎵ
+- ᕙᐃᔅᐳᒃ
+- ហ្វេសប៊ុក
+- ᥜᥥᥖ ᥙᥧᥐ
+- ᱯᱷᱮᱥᱵᱩᱠ
+- ⴼⵉⵙⴱⵓⴽ
+- 臉書
+- ꠚꠦꠁꠍꠛꠥꠇ
+- 페이스북
+- "\U00010346\U00010330\U00010339\U0001033E\U00010343\U00010331\U00010349\U0001033A"
+has_id_wikidata: Q355
+Alexa_rank:
+- 3
+- 5
+author:
+- '[[_Standards/WikiData/WD~Eduardo_Saverin,312663]]'
+- '[[_Standards/WikiData/WD~Dustin_Moskovitz,370217]]'
+- '[[_Standards/WikiData/WD~Chris_Hughes,370321]]'
+- '[[_Standards/WikiData/WD~Mark_Zuckerberg,36215]]'
+award_received: "[[_Standards/WikiData/WD~'Verschlossene_Auster'_award,2517928]]"
+Commons_category: Facebook
+creator: '[[_Standards/WikiData/WD~Mark_Zuckerberg,36215]]'
+described_at_URL:
+- https://techcrunch.com/2019/04/03/facebook-records-exposed-server/
+- https://www.facebook.com/facebookapp/info
+- https://www.newstatesman.com/science-tech/big-tech/2021/10/how-do-you-solve-a-problem-like-facebook
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+different_from: '[[_Standards/WikiData/WD~Meta_Platforms,380]]'
+domain_name: facebook.com
+Facebook_username: facebook
+founded_by:
+- '[[_Standards/WikiData/WD~Eduardo_Saverin,312663]]'
+- '[[_Standards/WikiData/WD~Dustin_Moskovitz,370217]]'
+- '[[_Standards/WikiData/WD~Chris_Hughes,370321]]'
+- '[[_Standards/WikiData/WD~Mark_Zuckerberg,36215]]'
+Giphy_username: facebook
+GitHub_topic:
+- facebook
+- fb
+- facebook-data
+hashtag:
+- Facebook
+- FacebookDown
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Screen%20of%20Facebook%20%282%29.PNG
+IMDb_keyword: facebook
+inception: 2004-02-04T00:00:00Z
+Instagram_username: facebook
+instance_of:
+- '[[_Standards/WikiData/WD~social_media,202833]]'
+- '[[_Standards/WikiData/WD~social_networking_service,3220391]]'
+- '[[_Standards/WikiData/WD~online_community,6576792]]'
+- '[[_Standards/WikiData/WD~very_large_online_platform,118140435]]'
+- '[[_Standards/WikiData/WD~user_generated_content_platform,122759350]]'
+- '[[_Standards/WikiData/WD~website,35127]]'
+investor: '[[_Standards/WikiData/WD~Founders_Fund,1439864]]'
+languages_spoken_written_or_signed:
+- '[[_Standards/WikiData/WD~Standard_Chinese,727694]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+language_of_work_or_name:
+- '[[_Standards/WikiData/WD~Simplified_Chinese,13414913]]'
+- '[[_Standards/WikiData/WD~Traditional_Chinese,18130932]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Japanese,5287]]'
+location_of_creation: '[[_Standards/WikiData/WD~Harvard_University,13371]]'
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Facebook%20icon.svg
+name: Facebook
+named_after: '[[_Standards/WikiData/WD~face_book,3540279]]'
+number_of_registered_users_contributors: 2940000000
+official_app: '[[_Standards/WikiData/WD~Facebook_app,41689616]]'
+official_blog_URL: https://about.facebook.com/news
+official_website: https://www.facebook.com
+OmegaWiki_Defined_Meaning: 963275
+OpenStreetMap_tag_or_key:
+- Key:contact:facebook
+- Key:facebook
+operator: '[[_Standards/WikiData/WD~Meta_Platforms,380]]'
+owned_by: '[[_Standards/WikiData/WD~Meta_Platforms,380]]'
+P8189: 987007290086705171
+platform:
+- '[[_Standards/WikiData/WD~Android,94]]'
+- '[[_Standards/WikiData/WD~iOS,48493]]'
+privacy_policy_URL:
+- https://www.facebook.com/policy.php
+- https://www.facebook.com/privacy/policy/
+programmed_in: '[[_Standards/WikiData/WD~PHP,59]]'
+pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-0x010C-Facebook.wav
+search_formatter_URL: https://www.facebook.com/search/top/?q=has_time_started: 2004-02-04 
 aliases:
   - Facebook
 has_id_wikidata: Q355
@@ -99,8 +240,105 @@ Wikidata_property:
   - Facebook image ID
 X_Twitter_username: FacebookApp
 YouTube_handle: facebookapp
+short_name: FB
+significant_event:
+- '[[_Standards/WikiData/WD~Facebook_Cambridge_Analytica_data_scandal,51050074]]'
+- '[[_Standards/WikiData/WD~access_restriction,66439731]]'
+social_media_followers:
+- 1970000
+- 367549
+Stack_Exchange_tag: https://stackoverflow.com/tags/facebook
+subreddit: facebook
+terms_of_service_URL: https://www.facebook.com/terms.php
+Threads_username: facebook
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Facebook,5624646]]'
+Wikidata_property:
+- Facebook username
+- Facebook image ID
+X_Twitter_username: FacebookApp
+YouTube_handle: facebookapp
+dv_has_:
+  name_:
+    am: ፌስቡክ
+    ar: فيسبوك
+    arq: فايسبوك
+    ary: فيسبوك
+    arz: فيس بوك
+    as: ফেচবুক
+    av: Фейсбук
+    awa: फेसबुक
+    azb: فیسبوک
+    bew: Pèsbuk
+    bg: Фейсбук
+    bho: फेसबुक
+    bn: ফেসবুক
+    chr: ᎤᎧᏛᎪᏪᎵ
+    ckb: فەیسبووک
+    cu: Фєйсбоѵкъ
+    din: Peithbuk
+    dty: फेसबुक
+    dv: ފޭސްބުކް
+    en: Facebook
+    en-us: Facebook
+    fa: فیسبوک
+    got: "\U00010346\U00010330\U00010339\U0001033E\U00010343\U00010331\U00010349\U0001033A"
+    gu: ફેસબુક
+    gv: Facebook
+    ha: Fezbuk
+    he: פייסבוק
+    hi: Facebook
+    hy: Ֆեյսբուք
+    hyw: Ֆէյսպուք
+    ik: Fasibouk
+    iu: ᕙᐃᔅᐳᒃ
+    kbd: Фейсбук
+    km: ហ្វេសប៊ុក
+    kn: ಫೇಸ್ ಬುಕ್
+    ko: 페이스북
+    ks: فیس بُک
+    lo: ເຟຊບຸກ
+    lzh: 臉書
+    mai: फेसबुक
+    mk: Фејсбук
+    ml: ഫേസ് ബുക്ക്
+    mnw: ဝှုက်ဗောက်
+    mr: फेसबूक
+    mul: Facebook
+    my: ဖေ့စ်ဘွတ်ခ်
+    mzn: فیس بوک
+    ne: फेसबुक
+    new: फेसबुक
+    nqo: ߝߋߛߑߓߎߞ
+    nv: Naaltsoos biniiʼ
+    om: Feesbuukii
+    or: ଫେସବୁକ
+    pa: ਫ਼ੇਸਬੁੱਕ
+    pnb: فیس بک
+    ps: فيسبوک
+    sa: फेस्बुक्
+    sah: Фэйсбук
+    sat: ᱯᱷᱮᱥᱵᱩᱠ
+    sd: فيس بڪ
+    shi: Faysbuk
+    shn: ၾဵတ်ႉပုၵ်ႉ
+    si: ෆේස්බුක්
+    so: Faysbuug
+    sr: Фејсбук
+    syl: ꠚꠦꠁꠍꠛꠥꠇ
+    ta: ஃபேஸ்புக்
+    tdd: ᥜᥥᥖ ᥙᥧᥐ
+    te: ఫేస్ బుక్
+    tg: Фейсбук
+    th: เฟซบุ๊ก
+    ti: ፌስቡክ
+    tok: lipu Pepu
+    ur: فیس بک
+    wuu: 臉書
+    xmf: ფეისბუქი
+    yi: פייסבוק
+    zgh: ⴼⵉⵙⴱⵓⴽ
+    zu: IFacebook
 ---
-
 # [[Facebook]] 
 
 #has_/creator ::[[../Meta_Platforms]]] 

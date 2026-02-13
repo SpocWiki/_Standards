@@ -1,9 +1,47 @@
 ---
 aliases:
-  - Louteridium
+- Louteridium
 title: Louteridium
+has_id_wikidata: Q10320040
+dv_has_:
+  name_:
+    an: Louteridium
+    ast: Louteridium
+    bg: Louteridium
+    ca: Louteridium
+    ceb: Louteridium
+    de: Louteridium
+    en: Louteridium
+    eo: Louteridium
+    es: Louteridium
+    eu: Louteridium
+    ext: Louteridium
+    fi: Louteridium
+    fr: Louteridium
+    ga: Louteridium
+    gl: Louteridium
+    hr: Louteridium
+    ia: Louteridium
+    ie: Louteridium
+    io: Louteridium
+    it: Louteridium
+    la: Louteridium
+    mul: Louteridium
+    nl: Louteridium
+    oc: Louteridium
+    pl: Louteridium
+    pt: Louteridium
+    pt-br: Louteridium
+    ro: Louteridium
+    ru: Louteridium
+    sq: Louteridium
+    sv: Louteridium
+    th: Louteridium
+    uk: Louteridium
+    vi: Louteridium
+    vo: Louteridium
+    war: Louteridium
 ---
-
 # [[Louteridium]] 
 
 ![Louteridium_costaricense](Louteridium/Louteridium_costaricense.jpg) 

@@ -1,73 +1,283 @@
 ---
 aliases:
-  - Inventors
-  - Erfinder
-  - Inventor
+- Amesnulfu
+- asmatzaile
+- cumadóir
+- dahêner
+- datuvan
+- deviser
+- dyfeisiwr
+- edvinteu
+- Erfinder
+- fat-mìn-kâ
+- feltaláló
+- finpre
+- hoat-bêng-ka
+- hoʹhssjeei
+- hutki
+- imbentor
+- innleachdair
+- inventaire
+- inventator
+- inventeur
+- inventisto
+- Inventor
+- inventore
+- Inventors
+- inventur
+- inventô
+- ixtiraçı
+- Ixtirochi
+- izgudrotājs
+- Izumitelj
+- išradėjas
+- keksijä
+- keşfiyatçı
+- leiutaja
+- mmintura
+- moheñoiha
+- mpamorona
+- mucid
+- mucit
+- Mvumbuzi
+- người sáng chế
+- opfinder
+- oppfinnar
+- oppfinner
+- pereka cipta
+- pronalazač
+- uitvinder
+- uppfinnare
+- utkee
+- vynálezca
+- vynálezce
+- vällälöüdjä
+- wunamakar
+- wynalazca
+- ynlaghteyr
+- æрымысæг
+- útfiner
+- εφευρέτης
+- винахідник
+- вынаходнік
+- вынаходник
+- изобретател
+- изобретатель
+- ихтироъкор
+- проналазач
+- пронаоѓач
+- уйлап табучы
+- уйлап табыусы
+- գիւտարար
+- գյուտարար
+- ממציא
+- ערפינדער
+- ایختیراعچی
+- داھێنەر
+- مخترع
+- موجد
+- پنځگر
+- आविष्कारक
+- संशोधक
+- আবিষ্কারক
+- શોધક
+- புத்தாக்குனர்
+- ఆవిష్కర్త
+- കണ്ടുപിടുത്തക്കാരൻ
+- นักประดิษฐ์
+- გამომგონებელი
+- 发明家
+- 発明家
+- 發明家
+- 발명가
 has_id_wikidata: Q205375
 subclass_of:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~creator,2500638]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~creator,2500638]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~occupation,12737077]]'
-  - '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
 field_of_this_occupation:
-  - '[[_Standards/WikiData/WD~invention,14208553]]'
-  - '[[_Standards/WikiData/WD~invention,108696953]]'
+- '[[_Standards/WikiData/WD~invention,14208553]]'
+- '[[_Standards/WikiData/WD~invention,108696953]]'
 category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59522191,59522191]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 Wikidata_property: discoverer or inventor
 IMDb_keyword: inventor
 female_form_of_label:
-  - inventora
-  - изобретательница
-  - ממציאה
-  - Erfinderin
-  - εφευρέτρια
-  - inventora
-  - inventora
-  - inventora
-  - inventrice
-  - wunamakarka
-  - išradėja
-  - винахідниця
-  - inventora
-  - inventrice
-  - مخترِعة
-  - مخترعة
-  - вынаходніца
-  - вынаходніца
-  - vynálezkyně
-  - inventistino
-  - útfinster
-  - inventora
-  - inventistino
-  - Erfinderin
-  - uitvindster
-  - wynalazczyni
-  - inventatoare
-  - vynálezkyňa
-  - izumiteljica
-  - jidatuvan
+- inventora
+- изобретательница
+- ממציאה
+- Erfinderin
+- εφευρέτρια
+- inventora
+- inventora
+- inventora
+- inventrice
+- wunamakarka
+- išradėja
+- винахідниця
+- inventora
+- inventrice
+- مخترِعة
+- مخترعة
+- вынаходніца
+- вынаходніца
+- vynálezkyně
+- inventistino
+- útfinster
+- inventora
+- inventistino
+- Erfinderin
+- uitvindster
+- wynalazczyni
+- inventatoare
+- vynálezkyňa
+- izumiteljica
+- jidatuvan
 male_form_of_label:
-  - inventore
-  - inventeur
-  - Erfinder
-  - inventor
-  - مخترع
-  - išradėjas
-  - مخترع
-  - inventistulo
-  - Erfinder
-  - vynálezca
-  - hidatuvan
+- inventore
+- inventeur
+- Erfinder
+- inventor
+- مخترع
+- išradėjas
+- مخترع
+- inventistulo
+- Erfinder
+- vynálezca
+- hidatuvan
 Commons_category: Inventors
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dave%20Warren%20with%20BlackBox%20Prototype.jpg
 Provenio_UUID: 1b6c98ab-06d5-4570-a491-3ca3738c4f32
 P8189: 987007558178805171
 UMLS_CUI: C3494258
 MeSH_tree_code: M01.526.493
+dv_has_:
+  name_:
+    af: uitvinder
+    anp: आविष्कारक
+    ar: مخترع
+    ary: مخترع
+    ast: inventor
+    awa: आविष्कारक
+    az: ixtiraçı
+    azb: ایختیراعچی
+    ba: уйлап табыусы
+    be: вынаходнік
+    be-tarask: вынаходнік
+    bg: изобретател
+    bn: আবিষ্কারক
+    bs: pronalazač
+    ca: inventor
+    ckb: داھێنەر
+    crh-latn: keşfiyatçı
+    cs: vynálezce
+    cy: dyfeisiwr
+    da: opfinder
+    de: Erfinder
+    diq: mucid
+    el: εφευρέτης
+    en: inventor
+    eo: inventisto
+    es: inventor
+    et: leiutaja
+    eu: asmatzaile
+    fa: مخترع
+    fi: keksijä
+    fr: inventeur
+    fy: útfiner
+    ga: cumadóir
+    gd: innleachdair
+    gl: inventor
+    gn: moheñoiha
+    gsw: Erfinder
+    gu: શોધક
+    gv: ynlaghteyr
+    hak: fat-mìn-kâ
+    he: ממציא
+    hi: आविष्कारक
+    hr: Izumitelj
+    hsb: wunamakar
+    hu: feltaláló
+    hy: գյուտարար
+    hyw: գիւտարար
+    ia: inventor
+    id: pereka cipta
+    io: inventisto
+    it: inventore
+    ja: 発明家
+    jbo: finpre
+    ka: გამომგონებელი
+    kab: Amesnulfu
+    ko: 발명가
+    ku: dahêner
+    ku-latn: dahêner
+    kw: deviser
+    la: inventor
+    lb: Erfinder
+    lfn: inventor
+    lij: inventô
+    lt: išradėjas
+    lv: izgudrotājs
+    mg: mpamorona
+    mk: пронаоѓач
+    ml: കണ്ടുപിടുത്തക്കാരൻ
+    mr: संशोधक
+    ms: pereka cipta
+    mt: inventur
+    nan: hoat-bêng-ka
+    nb: oppfinner
+    ne: आविष्कारक
+    nl: uitvinder
+    nn: oppfinnar
+    oc: inventaire
+    os: æрымысæг
+    pl: wynalazca
+    ps: پنځگر
+    pt: inventor
+    pt-br: inventor
+    ro: inventator
+    ru: изобретатель
+    rue: вынаходник
+    scn: mmintura
+    sco: inventor
+    se: hutki
+    sk: vynálezca
+    sl: izumitelj
+    smn: utkee
+    sms: hoʹhssjeei
+    sr: проналазач
+    sr-ec: проналазач
+    sr-el: pronalazač
+    sv: uppfinnare
+    sw: Mvumbuzi
+    ta: புத்தாக்குனர்
+    te: ఆవిష్కర్త
+    tg: ихтироъкор
+    th: นักประดิษฐ์
+    tl: imbentor
+    tr: mucit
+    tt: уйлап табучы
+    tt-cyrl: уйлап табучы
+    uk: винахідник
+    ur: موجد
+    uz: Ixtirochi
+    vec: inventor
+    vi: người sáng chế
+    vo: datuvan
+    vro: vällälöüdjä
+    wa: edvinteu
+    yi: ערפינדער
+    yue: 發明家
+    zh: 发明家
+    zh-cn: 发明家
+    zh-hans: 发明家
+    zh-hant: 發明家
+    zh-hk: 發明家
+    zh-sg: 发明家
+    zh-tw: 發明家
 ---
-
 # [[Inventor]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~inventor,205375]] 

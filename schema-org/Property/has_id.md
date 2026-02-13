@@ -1,45 +1,200 @@
 ---
 aliases:
+- aitheantóir
+- anaouder
+- asulay
+- azonosító
+- dynodwr
+- dátuheiti
+- gilkor
+- identifiant
+- identificador
+- identificant
+- identificatiecode
+- identificator
+- identificatore
+- identifier
+- identifigadore
+- identifikaator
+- identifikator
+- identifikatorius
+- identifikators
+- identifikatzaile
+- Identifikilo
+- identifikues
+- identifikátor
+- identigilo
+- identyfikator
+- idintificaturi
+- idyntyfikatōr
+- kennimerki
+- kitambulishi
+- penanda
+- pengenal pasti
+- tanımlayıcı
+- tobdstõk
+- tubdâldâs
+- tunniste
+- định danh
+- İdentifikator
+- κωδικός αναφοράς
+- ідентифікатор
+- ідэнтыфікатар
+- идентификатор
+- назнака
+- מזהה
+- شناخت گر
+- شناختی
+- شناسه
+- مُعرّف
+- अभिज्ञापक
+- চিনাক্তকাৰী
+- শনাক্তকারী
+- ਆਈਡੀ
+- ସୂଚକ
+- இனங்காட்டி
+- ตัวระบุ
+- იდენტიფიკატორი
+- 标识符
+- 標識符
+- 識別子
+- 識別碼
+- 식별자
 has_id_wikidata: Q853614
 different_from:
-  - "[[_Standards/WikiData/WD~Universally Unique Identifier,195284]]"
-  - "[[_Standards/WikiData/WD~globally unique identifier,254972]]"
-  - "[[_Standards/WikiData/WD~persistent identifier,420330]]"
-  - "[[_Standards/WikiData/WD~identifier,1773882]]"
-  - "[[_Standards/WikiData/WD~unique identifier,6545185]]"
-  - "[[_Standards/WikiData/WD~non-persistent identifier,83378208]]"
-part_of: "[[_Standards/WikiData/WD~notation,2001982]]"
+- '[[_Standards/WikiData/WD~Universally_Unique_Identifier,195284]]'
+- '[[_Standards/WikiData/WD~globally_unique_identifier,254972]]'
+- '[[_Standards/WikiData/WD~persistent_identifier,420330]]'
+- '[[_Standards/WikiData/WD~identifier,1773882]]'
+- '[[_Standards/WikiData/WD~unique_identifier,6545185]]'
+- '[[_Standards/WikiData/WD~non-persistent_identifier,83378208]]'
+part_of: '[[_Standards/WikiData/WD~notation,2001982]]'
 topic_s_main_category:
-  - "[[_Standards/WikiData/WD~Category_Identifiers,6506565]]"
-  - "[[_Standards/WikiData/WD~Q32753931,32753931]]"
+- '[[_Standards/WikiData/WD~Category_Identifiers,6506565]]'
+- '[[_Standards/WikiData/WD~Q32753931,32753931]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~impermanence,6776685]]"
-  - "[[_Standards/WikiData/WD~uniqueness,17548110]]"
-  - "[[_Standards/WikiData/WD~permanence,20742557]]"
-  - "[[_Standards/WikiData/WD~multiplicity,22976818]]"
-subclass_of: "[[_Standards/WikiData/WD~identifying artifact,100792256]]"
+- '[[_Standards/WikiData/WD~impermanence,6776685]]'
+- '[[_Standards/WikiData/WD~uniqueness,17548110]]'
+- '[[_Standards/WikiData/WD~permanence,20742557]]'
+- '[[_Standards/WikiData/WD~multiplicity,22976818]]'
+subclass_of: '[[_Standards/WikiData/WD~identifying_artifact,100792256]]'
 main_Wikidata_property: record number
-OmegaWiki_Defined_Meaning: "1641235"
+OmegaWiki_Defined_Meaning: 1641235
 Commons_category: Identifiers
-Unicode_character: 🆔
+Unicode_character: "\U0001F194"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Louvre%20identifiers%20Ma1274-MR242.jpg
 exact_match:
-  - http://erlangen-crm.org/current/E42_Identifier
-  - http://id.nlm.nih.gov/mesh/vocab#identifier
-  - https://ontologies.semanticarts.com/gist/ID
-  - https://purl.org/dc/elements/1.1/identifier
-  - https://purl.org/dc/terms/identifier
-  - https://schema.org/identifier
+- http://erlangen-crm.org/current/E42_Identifier
+- http://id.nlm.nih.gov/mesh/vocab#identifier
+- https://ontologies.semanticarts.com/gist/ID
+- https://purl.org/dc/elements/1.1/identifier
+- https://purl.org/dc/terms/identifier
+- https://schema.org/identifier
 equivalent_class:
-  - http://id.loc.gov/ontologies/bibframe/Identifier
-  - http://edamontology.org/data_0842
+- http://id.loc.gov/ontologies/bibframe/Identifier
+- http://edamontology.org/data_0842
 dv_is_:
-  same_as: "[[_Standards/WikiData/WD~identifier,853614]]"
-  similar_to: "[[has_name]]"
-dv_is_same_as: "[[_Standards/WikiData/WD~identifier,853614]]"
-dv_is_similar_to: "[[has_name]]"
+  same_as: '[[_Standards/WikiData/WD~identifier,853614]]'
+  similar_to: '[[has_name]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~identifier,853614]]'
+dv_is_similar_to: '[[has_name]]'
+dv_has_:
+  name_:
+    ar: مُعرّف
+    as: চিনাক্তকাৰী
+    ast: identificador
+    az: identifikator
+    ba: идентификатор
+    be: ідэнтыфікатар
+    be-tarask: ідэнтыфікатар
+    bg: идентификатор
+    bn: শনাক্তকারী
+    br: anaouder
+    bs: identifikator
+    ca: identificador
+    cs: identifikátor
+    cy: dynodwr
+    da: identifikator
+    de: Identifikator
+    el: κωδικός αναφοράς
+    en: identifier
+    en-gb: identifier
+    eo: identigilo
+    es: identificador
+    et: identifikaator
+    eu: identifikatzaile
+    fa: شناسه
+    fi: tunniste
+    fo: dátuheiti
+    fr: identifiant
+    ga: aitheantóir
+    gl: identificador
+    he: מזהה
+    hi: अभिज्ञापक
+    hr: identifikator
+    hu: azonosító
+    ia: identificator
+    id: penanda
+    io: Identifikilo
+    is: kennimerki
+    it: identificatore
+    ja: 識別子
+    ka: იდენტიფიკატორი
+    kaa: İdentifikator
+    kab: asulay
+    kk: Идентификатор
+    ko: 식별자
+    ky: Идентификатор
+    lt: identifikatorius
+    lv: identifikators
+    mk: назнака
+    ms: pengenal pasti
+    nb: identifikator
+    nl: identificatiecode
+    nn: identifikator
+    oc: identificant
+    or: ସୂଚକ
+    os: идентификатор
+    pa: ਆਈਡੀ
+    pl: identyfikator
+    pnb: شناختی
+    pt: identificador
+    pt-br: identificador
+    ro: identificator
+    ru: идентификатор
+    ryu: 識別子
+    scn: idintificaturi
+    se: gilkor
+    sk: identifikátor
+    sl: identifikator
+    smn: tubdâldâs
+    sms: tobdstõk
+    sq: identifikues
+    sr: идентификатор
+    sr-ec: идентификатор
+    sr-el: identifikator
+    sv: identifikator
+    sw: kitambulishi
+    szl: idyntyfikatōr
+    ta: இனங்காட்டி
+    tg: идентификатор
+    th: ตัวระบุ
+    tr: tanımlayıcı
+    tt: идентификатор
+    tt-cyrl: идентификатор
+    uk: ідентифікатор
+    ur: شناخت گر
+    uz: Identifikator
+    vec: identifigadore
+    vi: định danh
+    yue: 識別碼
+    zh: 標識符
+    zh-cn: 标识符
+    zh-hans: 标识符
+    zh-hant: 識別碼
+    zh-hk: 識別碼
+    zh-tw: 識別碼
 ---
-
 # [[has_id]] 🆔 
 
 is_same_as = `=this.dv_is_same_as` 

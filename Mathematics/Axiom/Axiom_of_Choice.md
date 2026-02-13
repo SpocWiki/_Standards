@@ -1,50 +1,224 @@
 ---
 aliases:
-  - AoC
-  - Axiom of Choice
-  - Axiom_of_Choice
+- aksiom izbire
+- Aksiom izbora
+- Aksioma pemilihan
+- aksiomo de elekto
+- aksjomat wyboru
+- AoC
+- Assioma da la scèrnida
+- assioma della scelta
+- Assiòma ëd selession
+- Auswahlaxiom
+- Axiom of Choice
+- Axiom výběru
+- axioma alegerii
+- axioma da escolha
+- Axioma da escolla
+- axioma de elección
+- axioma de l'elecció
+- axiome du choix
+- Axiom_of_Choice
+- axoma d'eleición
+- Gwireb o ddewis
+- Hautapenaren axioma
+- keuzeaxioma
+- kiválasztási axióma
+- Sermelo aksiomu
+- Seçim Aksiyomu
+- Tiên đề chọn
+- udvalgsaksiomet
+- urvalsaxiomet
+- Utvalgsaksiomet
+- Utvalsaksiomet
+- Valikuaksioom
+- Valinta-aksiooma
+- Αξίωμα της επιλογής
+- аксіёма выбару
+- аксіома вибору
+- аксиома выбора
+- Аксиома избора
+- Һайлау аксиомаһы
+- Ընտրության աքսիոմ
+- אקסיומת הבחירה
+- اصل موضوع انتخاب
+- بديهية الاختيار
+- নির্বাচনের স্বতঃসিদ্ধ
+- สัจพจน์การเลือก
+- ამორჩევის აქსიომა
+- 选择公理
+- 選択公理
+- 選擇公理
+- 선택 공리
 has_id_wikidata: Q179692
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Teichmüller_Tukey_lemma,277987]]'
-  - "[[_Standards/WikiData/WD~Zorn's_lemma,290810]]"
-  - '[[_Standards/WikiData/WD~Hausdorff_maximal_principle,738328]]'
-  - "[[_Standards/WikiData/WD~König's_theorem,1077462]]"
-  - "[[_Standards/WikiData/WD~Tychonoff's_theorem,1137014]]"
-  - '[[_Standards/WikiData/WD~well_ordering_theorem,1457052]]'
-  - "[[_Standards/WikiData/WD~Krull's_theorem,2397775]]"
-  - "[[_Standards/WikiData/WD~Tarski's_theorem,2908743]]"
+- '[[_Standards/WikiData/WD~Teichmüller_Tukey_lemma,277987]]'
+- "[[_Standards/WikiData/WD~Zorn's_lemma,290810]]"
+- '[[_Standards/WikiData/WD~Hausdorff_maximal_principle,738328]]'
+- "[[_Standards/WikiData/WD~König's_theorem,1077462]]"
+- "[[_Standards/WikiData/WD~Tychonoff's_theorem,1137014]]"
+- '[[_Standards/WikiData/WD~well_ordering_theorem,1457052]]'
+- "[[_Standards/WikiData/WD~Krull's_theorem,2397775]]"
+- "[[_Standards/WikiData/WD~Tarski's_theorem,2908743]]"
 generalization_of:
-  - "[[_Standards/WikiData/WD~Zorn's_lemma,290810]]"
-  - '[[_Standards/WikiData/WD~equivalent_of_the_axiom_of_choice,4478785]]'
+- "[[_Standards/WikiData/WD~Zorn's_lemma,290810]]"
+- '[[_Standards/WikiData/WD~equivalent_of_the_axiom_of_choice,4478785]]'
 part_of:
-  - '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
-  - '[[_Standards/WikiData/WD~list_of_axioms,3632199]]'
+- '[[_Standards/WikiData/WD~list_of_theorems,944443]]'
+- '[[_Standards/WikiData/WD~list_of_axioms,3632199]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 instance_of: '[[_Standards/WikiData/WD~axiom_of_set_theory,36191904]]'
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\left(\\forall i\\in I\\colon S_{i}\\neq \\varnothing \\right)\\implies \\prod _{i\\in I}S_{i}\\neq \\varnothing }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mrow>\n          <mo>(</mo>\n          <mrow>\n            <mi mathvariant=\"normal\">&#x2200;<!-- ∀ --></mi>\n            <mi>i</mi>\n            <mo>&#x2208;<!-- ∈ --></mo>\n            <mi>I</mi>\n            <mo>&#x003A;<!-- : --></mo>\n            <msub>\n              <mi>S</mi>\n              <mrow class=\"MJX-TeXAtom-ORD\">\n                <mi>i</mi>\n              </mrow>\n            </msub>\n            <mo>&#x2260;<!-- ≠ --></mo>\n            <mi class=\"MJX-variant\">&#x2205;<!-- ∅ --></mi>\n          </mrow>\n          <mo>)</mo>\n        </mrow>\n        <mspace width=\"thickmathspace\" />\n        <mo stretchy=\"false\">&#x27F9;<!-- ⟹ --></mo>\n        <mspace width=\"thickmathspace\" />\n        <munder>\n          <mo>&#x220F;<!-- ∏ --></mo>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>i</mi>\n            <mo>&#x2208;<!-- ∈ --></mo>\n            <mi>I</mi>\n          </mrow>\n        </munder>\n        <msub>\n          <mi>S</mi>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi>i</mi>\n          </mrow>\n        </msub>\n        <mo>&#x2260;<!-- ≠ --></mo>\n        <mi class=\"MJX-variant\">&#x2205;<!-- ∅ --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\left(\\forall i\\in I\\colon S_{i}\\neq \\varnothing \\right)\\implies \\prod _{i\\in I}S_{i}\\neq \\varnothing }</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \left(\forall i\in I\colon S_{i}\neq \varnothing \right)\implies \prod _{i\in I}S_{i}\neq \varnothing }">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mrow>
+            <mo>(</mo>
+            <mrow>
+              <mi mathvariant="normal">&#x2200;<!-- ∀ --></mi>
+              <mi>i</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>I</mi>
+              <mo>&#x003A;<!-- : --></mo>
+              <msub>
+                <mi>S</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mi>i</mi>
+                </mrow>
+              </msub>
+              <mo>&#x2260;<!-- ≠ --></mo>
+              <mi class="MJX-variant">&#x2205;<!-- ∅ --></mi>
+            </mrow>
+            <mo>)</mo>
+          </mrow>
+          <mspace width="thickmathspace" />
+          <mo stretchy="false">&#x27F9;<!-- ⟹ --></mo>
+          <mspace width="thickmathspace" />
+          <munder>
+            <mo>&#x220F;<!-- ∏ --></mo>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>i</mi>
+              <mo>&#x2208;<!-- ∈ --></mo>
+              <mi>I</mi>
+            </mrow>
+          </munder>
+          <msub>
+            <mi>S</mi>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mi>i</mi>
+            </mrow>
+          </msub>
+          <mo>&#x2260;<!-- ≠ --></mo>
+          <mi class="MJX-variant">&#x2205;<!-- ∅ --></mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \left(\forall i\in I\colon S_{i}\neq \varnothing \right)\implies \prod _{i\in I}S_{i}\neq \varnothing }</annotation>
+    </semantics>
+  </math>
 studied_by: '[[_Standards/WikiData/WD~set_theory,12482]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Ernst_Zermelo,57248]]'
 short_name:
-  - AC
-  - AE
-  - AC
-  - АИ
-  - AI
+- AC
+- AE
+- AC
+- АИ
+- AI
 in_defining_formula:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle S}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>S</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle S}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle \\varnothing }\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi class=\"MJX-variant\">&#x2205;<!-- ∅ --></mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle \\varnothing }</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle I}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>I</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle I}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle S}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>S</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle S}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \varnothing }">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi class="MJX-variant">&#x2205;<!-- ∅ --></mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle \varnothing }</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle I}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>I</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle I}</annotation>
+    </semantics>
+  </math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Axiome%20du%20choix.png
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/axiom-of-choice
-  - https://mathoverflow.net/tags/axiom-of-choice
-  - https://proofassistants.stackexchange.com/tags/axiom-of-choice
+- https://math.stackexchange.com/tags/axiom-of-choice
+- https://mathoverflow.net/tags/axiom-of-choice
+- https://proofassistants.stackexchange.com/tags/axiom-of-choice
 P8189: 987007282446705171
 Commons_category: Axiom of choice
 PhilPapers_topic: the-axiom-of-choice
 time_of_discovery_or_invention: 1904-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: بديهية الاختيار
+    ast: axoma d'eleición
+    az: Sermelo aksiomu
+    ba: Һайлау аксиомаһы
+    be-tarask: аксіёма выбару
+    bn: নির্বাচনের স্বতঃসিদ্ধ
+    ca: axioma de l'elecció
+    cs: Axiom výběru
+    cy: Gwireb o ddewis
+    da: udvalgsaksiomet
+    de: Auswahlaxiom
+    el: Αξίωμα της επιλογής
+    en: axiom of choice
+    eo: aksiomo de elekto
+    es: axioma de elección
+    et: Valikuaksioom
+    eu: Hautapenaren axioma
+    fa: اصل موضوع انتخاب
+    fi: Valinta-aksiooma
+    fr: axiome du choix
+    gl: Axioma da escolla
+    he: אקסיומת הבחירה
+    hr: Aksiom izbora
+    hu: kiválasztási axióma
+    hy: Ընտրության աքսիոմ
+    id: Aksioma pemilihan
+    it: assioma della scelta
+    ja: 選択公理
+    ka: ამორჩევის აქსიომა
+    ko: 선택 공리
+    lmo: Assioma da la scèrnida
+    lzh: 選擇公理
+    nb: Utvalgsaksiomet
+    nl: keuzeaxioma
+    nn: Utvalsaksiomet
+    pl: aksjomat wyboru
+    pms: Assiòma ëd selession
+    pt: axioma da escolha
+    ro: axioma alegerii
+    ru: аксиома выбора
+    sl: aksiom izbire
+    sr: Аксиома избора
+    sv: urvalsaxiomet
+    th: สัจพจน์การเลือก
+    tr: Seçim Aksiyomu
+    uk: аксіома вибору
+    vi: Tiên đề chọn
+    yue: 選擇公理
+    zh: 选择公理
 ---
-
 # [[Axiom_of_Choice]] 
 
 #is_/same_as :: [[../../WikiData/WD~Axiom_of_choice,179692|WD~Axiom_of_choice,179692]] 

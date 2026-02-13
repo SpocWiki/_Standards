@@ -1,21 +1,37 @@
 ---
 aliases:
+- Boeing CST-100 Starliner
+- Boeing Starliner
+- CST-100
+- CST-100 Starliner
+- CST-100 סטארליינר
+- CST-100 スターライナー
+- CST–100 Starliner
+- سي إس تي-100
+- سی اس تی-۱۰۰
+- सीएसटी-100 स्टारलाइनर
+- বোয়িং স্টারলাইনার
+- போயிங் இசுடார்லைனர்
+- 波音CST-100星际航线
+- 波音星际航线
+- 波音星際航線
+- 보잉 CST-100 스타라이너
 has_id_wikidata: Q1024445
-type_of_orbit: "[[_Standards/WikiData/WD~low_Earth_orbit,663611]]"
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~space_capsule,957055]]"
-  - "[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]"
-  - "[[_Standards/WikiData/WD~reusable_spacecraft,96401666]]"
-significant_event: "[[_Standards/WikiData/WD~maiden_flight,1362364]]"
-instance_of: "[[_Standards/WikiData/WD~vehicle_model,29048322]]"
-space_launch_vehicle: "[[_Standards/WikiData/WD~Atlas_V_N22,97684935]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-manufacturer: "[[_Standards/WikiData/WD~Boeing,66]]"
-operator: "[[_Standards/WikiData/WD~Boeing,66]]"
+- '[[_Standards/WikiData/WD~space_capsule,957055]]'
+- '[[_Standards/WikiData/WD~crewed_spacecraft,7217761]]'
+- '[[_Standards/WikiData/WD~reusable_spacecraft,96401666]]'
+significant_event: '[[_Standards/WikiData/WD~maiden_flight,1362364]]'
+instance_of: '[[_Standards/WikiData/WD~vehicle_model,29048322]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Atlas_V_N22,97684935]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+manufacturer: '[[_Standards/WikiData/WD~Boeing,66]]'
+operator: '[[_Standards/WikiData/WD~Boeing,66]]'
 total_produced: 3
 service_life:
-  - 60
-  - 210
+- 60
+- 210
 maximum_capacity: 7
 volume_as_quantity: 11
 mass: 13000
@@ -25,8 +41,50 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Boeing%20Starline
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boeing%27s%20Starliner%20crew%20ship%20approaches%20the%20space%20station%20%28ISS067-E-067090%29%20%28cropped%29.jpg
 Commons_category: Boeing Starliner
 first_flight: 2019-12-20T00:00:00Z
+dv_has_:
+  name_:
+    an: Boeing CST-100 Starliner
+    ar: سي إس تي-100
+    be: Boeing Starliner
+    bg: CST-100
+    bn: বোয়িং স্টারলাইনার
+    ca: CST-100
+    cs: CST-100
+    de: CST-100
+    de-ch: CST-100 Starliner
+    en: Boeing Starliner
+    en-ca: CST-100 Starliner
+    en-gb: CST-100 Starliner
+    es: CST-100 Starliner
+    et: CST-100 Starliner
+    fa: سی اس تی-۱۰۰
+    fi: CST-100
+    fr: CST-100
+    he: CST-100 סטארליינר
+    hi: सीएसटी-100 स्टारलाइनर
+    hu: CST–100 Starliner
+    id: Boeing CST-100 Starliner
+    it: CST-100 Starliner
+    ja: CST-100 スターライナー
+    ko: 보잉 CST-100 스타라이너
+    lt: CST-100 Starliner
+    nb: Boeing CST-100 Starliner
+    nl: CST-100
+    pl: CST-100
+    pt: CST-100
+    pt-br: CST-100 Starliner
+    ro: CST-100
+    ru: CST-100
+    sk: CST-100 Starliner
+    sl: Boeing Starliner
+    sv: CST-100 Starliner
+    ta: போயிங் இசுடார்லைனர்
+    uk: CST-100
+    wuu: 波音CST-100星际航线
+    zh: 波音星际航线
+    zh-hans: 波音星际航线
+    zh-hant: 波音星際航線
 ---
-
 # [[Boeing_Starliner]] 
 
 #is_/same_as :: [[WD~Boeing_Starliner,1024445]] 

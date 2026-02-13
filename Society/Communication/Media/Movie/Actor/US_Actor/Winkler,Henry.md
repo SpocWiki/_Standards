@@ -1,9 +1,82 @@
 ---
 aliases:
-  - Henry Winkler
-  - Winkler,Henry
+- Henricus Winkler
+- Henry Winkler
+- Winkler,Henry
+- Генрі Вінклер
+- Генри Уинклер
+- Гэнры Ўінклер
+- Хенри Винклер
+- Հենրի Ուինքլեր
+- הנרי וינקלר
+- هنرى وينكلر
+- هنري وينكلر
+- هنری وینکلر
+- ھێنری وینکلێر
+- ヘンリー・ウィンクラー
+- 亨利·温克勒
+- 亨利·溫克勒
+- 헨리 윙클러
+has_id_wikidata: Q343983
+dv_has_:
+  name_:
+    af: Henry Winkler
+    ar: هنري وينكلر
+    arz: هنرى وينكلر
+    ast: Henry Winkler
+    azb: هنری وینکلر
+    bcl: Henry Winkler
+    be-tarask: Гэнры Ўінклер
+    ca: Henry Winkler
+    ckb: ھێنری وینکلێر
+    cs: Henry Winkler
+    da: Henry Winkler
+    de: Henry Winkler
+    de-ch: Henry Winkler
+    en: Henry Winkler
+    en-ca: Henry Winkler
+    en-gb: Henry Winkler
+    es: Henry Winkler
+    et: Henry Winkler
+    eu: Henry Winkler
+    fa: هنری وینکلر
+    fi: Henry Winkler
+    fr: Henry Winkler
+    ga: Henry Winkler
+    he: הנרי וינקלר
+    hu: Henry Winkler
+    hy: Հենրի Ուինքլեր
+    id: Henry Winkler
+    it: Henry Winkler
+    ja: ヘンリー・ウィンクラー
+    ko: 헨리 윙클러
+    la: Henricus Winkler
+    mg: Henry Winkler
+    mul: Henry Winkler
+    nb: Henry Winkler
+    nl: Henry Winkler
+    nn: Henry Winkler
+    pag: Henry Winkler
+    pam: Henry Winkler
+    pap: Henry Winkler
+    pl: Henry Winkler
+    pt: Henry Winkler
+    pt-br: Henry Winkler
+    ru: Генри Уинклер
+    sh: Henry Winkler
+    sl: Henry Winkler
+    sq: Henry Winkler
+    sr: Хенри Винклер
+    sv: Henry Winkler
+    tn: Henry Winkler
+    tr: Henry Winkler
+    uk: Генрі Вінклер
+    vec: Henry Winkler
+    vo: Henry Winkler
+    yo: Henry Winkler
+    zh: 亨利·温克勒
+    zh-hant: 亨利·溫克勒
 ---
-
 #has_/time_/started :: 1945-10-30 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`  
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

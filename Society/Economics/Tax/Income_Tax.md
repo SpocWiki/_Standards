@@ -1,13 +1,85 @@
 ---
 aliases:
-  - Einkommensteuer
-  - Income_Tax
-  - Income Tax
+- cukai pendapatan
+- Daromad soligʻi
+- davek od dohodka
+- daň z príjmov
+- daň z příjmů
+- dienasvearru
+- Einkommensteuer
+- enspezimposto
+- Errenta-zerga
+- gelir vergisi
+- Gəlir vergisi
+- ienākuma nodoklis
+- impost sobre la renda
+- imposta sul reddito
+- imposto de renda
+- Imposto sobre a renda
+- impozit pe venit
+- impuesto sobre la renta
+- Impuestu sobre la renta
+- Impòst sul revengut
+- impôt sur le revenu
+- Income Tax
+- Income_Tax
+- indkomstskat
+- Inkomstebelasting
+- inkomstenbelasting
+- inkomstskatt
+- inntektsskatt
+- jövedelemadó
+- Pajak penghasilan
+- pajamų mokestis
+- Podatek dochodowy
+- Porez na dohodak
+- Sayasï ustanım
+- Tekjuskattur
+- Thuế thu nhập
+- treth incwm
+- Tributum ex reditibus
+- tulovero
+- tulumaks
+- Φόρος εισοδήματος
+- данок на доход
+- Данък върху общия доход
+- килем һалымы
+- Кирешеге салык
+- Орлогын татвар
+- Падатак на даход
+- падаходны падатак
+- податок на доходи фізичних осіб
+- подоходный налог
+- порез на доходак
+- Саяси ұстаным
+- Եկամտահարկ
+- איינקונפט שטייער
+- מס הכנסה
+- ساياسىي ۇستانىم
+- ضريبة الدخل
+- مالیات بر درآمد
+- محصول آمدنی
+- आयकर
+- আয়কর
+- আয়কৰ
+- ਆਮਦਨ ਕਰ
+- வருமான வரி
+- ఆదాయపు పన్ను
+- ಆದಾಯ ತೆರಿಗೆ
+- ആദായനികുതി
+- සිංහල
+- ອາກອນລາຍໄດ້
+- საშემოსავლო გადასახადი
+- ពន្ធលើប្រាក់ចំណូល
+- 入息稅
+- 所得稅
+- 所得税
+- 소득세
 has_id_wikidata: Q179222
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 subclass_of: '[[_Standards/WikiData/WD~direct_tax,926871]]'
 criterion_used: '[[_Standards/WikiData/WD~income,123313734]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_tax,130109687]]'
@@ -17,8 +89,98 @@ U_S_National_Archives_Identifier: 10638966
 UMLS_CUI: C0021164
 MeSH_tree_code: N03.219.900.250
 Commons_category: Personal income taxes
+dv_has_:
+  name_:
+    af: Inkomstebelasting
+    ar: ضريبة الدخل
+    as: আয়কৰ
+    ast: Impuestu sobre la renta
+    az: Gəlir vergisi
+    ba: килем һалымы
+    be: падаходны падатак
+    be-tarask: Падатак на даход
+    bg: Данък върху общия доход
+    bn: আয়কর
+    bs: Porez na dohodak
+    ca: impost sobre la renda
+    cs: daň z příjmů
+    cy: treth incwm
+    da: indkomstskat
+    de: Einkommensteuer
+    el: Φόρος εισοδήματος
+    en: income tax
+    eo: enspezimposto
+    es: impuesto sobre la renta
+    et: tulumaks
+    eu: Errenta-zerga
+    fa: مالیات بر درآمد
+    fi: tulovero
+    fr: impôt sur le revenu
+    gl: Imposto sobre a renda
+    he: מס הכנסה
+    hi: आयकर
+    hr: Porez na dohodak
+    hu: jövedelemadó
+    hy: Եկամտահարկ
+    id: Pajak penghasilan
+    is: Tekjuskattur
+    it: imposta sul reddito
+    ja: 所得税
+    ka: საშემოსავლო გადასახადი
+    kk: Саяси ұстаным
+    kk-arab: ساياسىي ۇستانىم
+    kk-cn: ساياسىي ۇستانىم
+    kk-cyrl: Саяси ұстаным
+    kk-kz: Саяси ұстаным
+    kk-latn: Sayasï ustanım
+    kk-tr: Sayasï ustanım
+    km: ពន្ធលើប្រាក់ចំណូល
+    kn: ಆದಾಯ ತೆರಿಗೆ
+    ko: 소득세
+    ky: Кирешеге салык
+    la: Tributum ex reditibus
+    lo: ອາກອນລາຍໄດ້
+    lt: pajamų mokestis
+    lv: ienākuma nodoklis
+    mk: данок на доход
+    ml: ആദായനികുതി
+    mn: Орлогын татвар
+    mr: आयकर
+    ms: cukai pendapatan
+    nb: inntektsskatt
+    ne: आयकर
+    nl: inkomstenbelasting
+    oc: Impòst sul revengut
+    pa: ਆਮਦਨ ਕਰ
+    pl: Podatek dochodowy
+    pt: imposto de renda
+    ro: impozit pe venit
+    ru: подоходный налог
+    se: dienasvearru
+    sh: Porez na dohodak
+    si: සිංහල
+    sk: daň z príjmov
+    sl: davek od dohodka
+    sr: порез на доходак
+    sv: inkomstskatt
+    ta: வருமான வரி
+    te: ఆదాయపు పన్ను
+    tr: gelir vergisi
+    uk: податок на доходи фізичних осіб
+    ur: محصول آمدنی
+    uz: Daromad soligʻi
+    vi: Thuế thu nhập
+    wuu: 所得税
+    yi: איינקונפט שטייער
+    yue: 入息稅
+    zh: 所得稅
+    zh-cn: 所得税
+    zh-hans: 所得税
+    zh-hant: 所得稅
+    zh-hk: 入息稅
+    zh-sg: 所得税
+    zh-tw: 所得稅
 ---
-
 # [[Income_Tax]] 
 
 #is_/same_as :: [[WD~Income_tax,179222]] 

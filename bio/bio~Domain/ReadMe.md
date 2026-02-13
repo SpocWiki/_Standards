@@ -1,14 +1,218 @@
 ---
 aliases:
-  - dominion
-  - superkingdom
-  - realm
-  - empire
-  - regio
-  - ReadMe
+- domain
+- domaine
+- domani
+- domanio
+- domeana
+- domeen
+- domeeni
+- domeeʹn
+- domein
+- domeinu
+- domen
+- domena
+- domenas
+- domene
+- domeni
+- Domeniu
+- domigno
+- domini
+- dominio
+- dominion
+- Dominiu
+- dominju
+- Dominyo
+- domän
+- Domäne
+- domæne
+- domén
+- doména
+- domínio
+- doomeen
+- duminiu
+- empire
+- fearann
+- flaitheas
+- igr
+- impērija
+- Isidlangala (kumchazampilo)
+- jorecîhan
+- Lén
+- Organizmlar sistemasi
+- Parth (bioleg)
+- ReadMe
+- realm
+- regio
+- Rungkun (èlmu hayat)
+- Sakup
+- superkingdom
+- taɣult
+- vực
+- Üst âlem
+- Επικράτεια
+- дамен
+- дамэн
+- домен
+- Домен (биологи)
+- Домен (биология)
+- Домена
+- империя
+- Ҳавза (зистшиносӣ)
+- դոմեն
+- על-ממלכה
+- حوزه
+- حياتياتي دائرو
+- دەڤەر
+- ضومين (بيولوجيا)
+- محدوده
+- نطاق
+- ڈومین
+- گَژٲرؠ
+- अधिजगत
+- অধিজগৎ
+- অধিজগৎ (জীববিদ্যা)
+- ਡੋਮੇਨ
+- જાગીર
+- ଜଗତ(ଜୀବବୀଜ୍ଞାନ)
+- ஆட்களம்
+- වසම (ජීව විද්යාව)
+- เขต
+- ဇီဝဗေဒ နယ်ပယ်
+- နယ်ပယ်
+- နယ်ႏပယ်ႏ (ဇီဝဗေဒ)
+- ドメイン
+- 域
+- 역
 has_id_wikidata: Q146481
+dv_has_:
+  name_:
+    af: domein
+    an: Dominio
+    ar: نطاق
+    ary: ضومين (بيولوجيا)
+    as: অধিজগৎ
+    ast: Dominiu
+    ba: домен
+    bar: Domän
+    be: дамен
+    be-tarask: дамэн
+    bew: Rungkun (èlmu hayat)
+    bg: империя
+    bho: अधिजगत
+    blk: နယ်ႏပယ်ႏ (ဇီဝဗေဒ)
+    bn: অধিজগৎ (জীববিদ্যা)
+    br: domani
+    bs: domena
+    ca: domini
+    ckb: دەڤەر
+    cs: doména
+    cv: Домен (биологи)
+    cy: Parth (bioleg)
+    da: domæne
+    de: Domäne
+    de-ch: Domäne
+    dsb: Domena
+    el: Επικράτεια
+    en: domain
+    en-ca: Domain
+    en-gb: domain
+    eo: domanio
+    es: dominio
+    et: domeen
+    eu: domeinu
+    fa: حوزه
+    fi: domeeni
+    fr: domaine
+    fy: domein
+    ga: fearann
+    gd: flaitheas
+    gl: dominio
+    gsw: Domäne
+    gu: જાગીર
+    he: על-ממלכה
+    hi: अधिजगत
+    hr: domena
+    hsb: Domena
+    hu: domén
+    hy: դոմեն
+    ia: dominio
+    id: domain
+    ilo: dominio
+    inh: Домен (биологи)
+    is: Lén
+    it: dominio
+    ja: ドメイン
+    kab: taɣult
+    ko: 역
+    ks: گَژٲرؠ
+    ku-latn: jorecîhan
+    la: Regio
+    lb: Domän
+    lt: domenas
+    lv: impērija
+    mk: домен
+    ms: Domain
+    mt: dominju
+    my: နယ်ပယ်
+    mzn: محدوده
+    nap: Dominio
+    nb: domene
+    nl: domein
+    nn: domene
+    oc: domeni
+    or: ଜଗତ(ଜୀବବୀଜ୍ଞାନ)
+    pa: ਡੋਮੇਨ
+    pam: Sakup
+    pl: domena
+    pms: Domini
+    pt: domínio
+    pt-br: domínio
+    rki: ဇီဝဗေဒ နယ်ပယ်
+    ro: Domeniu
+    ru: домен
+    rue: Домена
+    sah: Домен (биология)
+    scn: duminiu
+    sd: حياتياتي دائرو
+    se: domeana
+    sh: Domena
+    shi: igr
+    si: වසම (ජීව විද්යාව)
+    sl: domena
+    smn: doomeen
+    sms: domeeʹn
+    sr: домен
+    sr-ec: Домен
+    sr-el: Domen
+    sv: domän
+    sw: Domeni
+    ta: ஆட்களம்
+    tg: Ҳавза (зистшиносӣ)
+    th: เขต
+    tl: Dominyo
+    tr: Üst âlem
+    tt: домен
+    tt-cyrl: домен
+    tt-latn: domen
+    uk: домен
+    ur: ڈومین
+    uz: Organizmlar sistemasi
+    vec: domigno
+    vi: vực
+    vls: Domein
+    war: Dominyo
+    wuu: 域
+    yue: 域
+    zh: 域
+    zh-cn: 域
+    zh-hans: 域
+    zh-hant: 域
+    zh-hk: 域
+    zh-sg: 域
+    zh-tw: 域
+    zu: Isidlangala (kumchazampilo)
 ---
-
 #is_/same_as :: [[../WikiData/WD~Domain,146481]] 
 
 #has_/time_/started : 1990-06 

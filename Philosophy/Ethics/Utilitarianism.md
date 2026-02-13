@@ -1,27 +1,175 @@
 ---
 aliases:
-  - Utilitarismus
-  - Utilitarianism
+- chủ nghĩa công lợi
+- Defnyddiolaeth
+- Faydacılık
+- fóntachas
+- haszonelvűség
+- nytjastefna
+- utilismo
+- Utilitarianism
+- Utilitarianisme
+- utilitarism
+- utilitarisme
+- utilitarismi
+- utilitarismo
+- Utilitarismu
+- Utilitarismus
+- utilitarizam
+- utilitarizem
+- Utilitarizm
+- utilitarizmas
+- utilitarizmus
+- utilitārisms
+- utylitaryzm
+- Viɖe ƒe nukpɔsusu
+- Wtïlïtarïzm
+- Ûtîlîtarîzm
+- ωφελιμισμός
+- утилітаризм
+- Утилитаризам
+- утилитаризм
+- Утилитаризъм
+- Утылітарызм
+- файдалылык этикасы
+- ուտիլիտարիզմ
+- תועלתנות
+- د ګټې اصالت
+- فایدهگرایی
+- نفعية
+- ۋتىيلىيتارىيزم
+- उपयोगितावाद
+- উপযোগবাদ
+- பயனெறிமுறைக் கோட்பாடு
+- ಉಪಯುಕ್ತತಾವಾದ
+- പ്രയോജനവാദം
+- ประโยชน์นิยม
+- လက်တွေ့အသုံးကျမှုဝါဒ
+- უტილიტარიზმი
+- ጥቅማዊነት
+- 功利主义
+- 功利主義
+- 功用主義
+- 공리주의
 has_id_wikidata: Q160590
 subclass_of: '[[_Standards/WikiData/WD~consequentialism,646102]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 instance_of: '[[_Standards/WikiData/WD~ethical_theory,58927801]]'
 main_subject: '[[_Standards/WikiData/WD~greatest_happiness_to_the_greatest_number_of_people,115686092]]'
 developer:
-  - '[[_Standards/WikiData/WD~John_Stuart_Mill,50020]]'
-  - '[[_Standards/WikiData/WD~Jeremy_Bentham,60887]]'
+- '[[_Standards/WikiData/WD~John_Stuart_Mill,50020]]'
+- '[[_Standards/WikiData/WD~Jeremy_Bentham,60887]]'
 Dewey_Decimal_Classification: 144.6
 subreddit: Utilitarianism
 Commons_category: Utilitarianism
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Utilitarianism%20%28spoken%20by%20AI%20voice%29.mp3
 Wolfram_Language_entity_code: Entity["Concept", "Utilitarianism::73g48"]
 PhilPapers_topic: utilitarianism
+dv_has_:
+  name_:
+    af: utilitarisme
+    am: ጥቅማዊነት
+    ar: نفعية
+    ast: Utilitarismu
+    az: Utilitarizm
+    be: Утылітарызм
+    be-tarask: утылітарызм
+    bg: Утилитаризъм
+    bn: উপযোগবাদ
+    ca: utilitarisme
+    cs: utilitarismus
+    cy: Defnyddiolaeth
+    da: utilitarisme
+    de: Utilitarismus
+    de-ch: Utilitarismus
+    ee: Viɖe ƒe nukpɔsusu
+    el: ωφελιμισμός
+    en: utilitarianism
+    en-ca: Utilitarianism
+    en-gb: utilitarianism
+    eo: utilismo
+    es: utilitarismo
+    et: utilitarism
+    eu: utilitarismo
+    fa: فایدهگرایی
+    fi: utilitarismi
+    fr: utilitarisme
+    frr: Utilitarismus
+    ga: fóntachas
+    gl: utilitarismo
+    gsw: Utilitarismus
+    he: תועלתנות
+    hi: उपयोगितावाद
+    hr: utilitarizam
+    hu: haszonelvűség
+    hy: ուտիլիտարիզմ
+    id: Utilitarianisme
+    io: Utilismo
+    is: nytjastefna
+    it: utilitarismo
+    ja: 功利主義
+    jv: Utilitarianisme
+    ka: უტილიტარიზმი
+    kk: Утилитаризм
+    kk-arab: ۋتىيلىيتارىيزم
+    kk-cn: ۋتىيلىيتارىيزم
+    kk-cyrl: Утилитаризм
+    kk-kz: Утилитаризм
+    kk-latn: Wtïlïtarïzm
+    kk-tr: Wtïlïtarïzm
+    kn: ಉಪಯುಕ್ತತಾವಾದ
+    ko: 공리주의
+    krc: Утилитаризм
+    ku: Ûtîlîtarîzm
+    ky: Утилитаризм
+    la: Utilitarismus
+    lt: utilitarizmas
+    lv: utilitārisms
+    mk: Утилитаризам
+    ml: പ്രയോജനവാദം
+    ms: Utilitarianisme
+    my: လက်တွေ့အသုံးကျမှုဝါဒ
+    nb: utilitarisme
+    nl: utilitarisme
+    nn: Utilitarisme
+    oc: utilitarisme
+    pl: utylitaryzm
+    pms: Utilitarism
+    ps: د ګټې اصالت
+    pt: utilitarismo
+    pt-br: Utilitarismo
+    ro: utilitarism
+    ru: утилитаризм
+    sh: Utilitarizam
+    sk: utilitarizmus
+    sl: utilitarizem
+    sr: утилитаризам
+    sr-ec: Утилитаризам
+    sr-el: Utilitarizam
+    sv: utilitarism
+    ta: பயனெறிமுறைக் கோட்பாடு
+    th: ประโยชน์นิยม
+    tl: Utilitarismo
+    tr: Faydacılık
+    tt: файдалылык этикасы
+    uk: утилітаризм
+    uz: Utilitarizm
+    vi: chủ nghĩa công lợi
+    war: Utilitarismo
+    wuu: 功利主义
+    yue: 功用主義
+    zh: 功利主义
+    zh-cn: 功利主义
+    zh-hans: 功利主义
+    zh-hant: 功利主義
+    zh-hk: 功利主義
+    zh-sg: 功利主义
+    zh-tw: 功利主義
 ---
-
 # [[Utilitarianism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Utilitarianism,160590|WD~Utilitarianism,160590]] 

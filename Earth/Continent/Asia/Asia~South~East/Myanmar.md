@@ -1,36 +1,153 @@
 ---
 aliases:
-  - Myanmar
-  - ميانمار
-  - 缅甸
-  - Мьянма
-  - the Republic of the Union of Myanmar
-  - la República de la Unión de Myanmar
-  - Burma
+- Barmá
+- Bimani
+- Birma
+- Birmani
+- Birmania
+- Birmanie
+- Birmanya
+- Birmo
+- Birmánia
+- Birmânia
+- Bián-tiān
+- Biʼééʼ Łitsxooí Bikéyah
+- Burma
+- Burumaniya
+- Byrmani
+- i-Myanmar
+- IMayanima
+- la República de la Unión de Myanmar
+- ma Mijama
+- Maaynamaar
+- Maenmar
+- Mayanimari
+- Miama
+- Miamar
+- Miangmâ
+- Mianimā
+- Mianma
+- Mianmaa
+- Mianmar
+- Mianmaras
+- Mianmars
+- Mianmarän
+- Mianmà
+- Mienjdien
+- Mijanmar
+- Miyammar
+- Miyangma
+- Miyanmaar
+- Miyanmar
+- Mién-thien
+- Miēng-diêng
+- Mjanma
+- Mjanmaar
+- Mjanmar
+- Mjanmarsko
+- Myanma
+- Myanma (Birma)
+- Myanmaa
+- Myanmar
+- Myanmar/Burma
+- Myanmara
+- Myanmə
+- Mýanma
+- Pirmaanii
+- Puruma
+- Pēma
+- the Republic of the Union of Myanmar
+- Μιανμάρ
+- Бирмэ
+- М'янма
+- Мјанмар
+- Мианма
+- Мианмар
+- Миянмэ
+- Мьянмæ
+- Мьянма
+- Мьянмар
+- Мьянмудин Ниицән
+- Мянма
+- Мянмарьско
+- М’янма
+- Միանմա
+- Մյանմա
+- מיאנמאר
+- מיאנמר
+- بىرما
+- ميانمار
+- ميانمر
+- مَیانمار
+- میانمار
+- میانمر
+- میونمار
+- ބަރުމާ
+- बर्मा
+- म्यन्मार
+- म्याँमार
+- म्यानमार
+- म्यान्मार
+- মায়ানমার
+- মিয়ানমার
+- ম্যানমাৰ
+- ਮਿਆਂਮਾਰ
+- મ્યાનમાર
+- ମିଆଁମାର
+- மியான்மர்
+- మయన్మార్
+- ಮಯನ್ಮಾರ್
+- ಮ್ಯಾನ್ಮಾರ್
+- മ്യാന്മാർ
+- බුරුමය
+- ประเทศพม่า
+- ປະເທດມຽນມາ
+- བྷར་མ།
+- མེ་མར་
+- ဍုင်ရးဗၟာ
+- မိူင်းမၢၼ်ႈ
+- မျန်မာခမ်းထီ
+- မြန်မာ
+- მიანმარი
+- ምየንማ
+- មីយ៉ាន់ម៉ា
+- ᠮᡳᠶᠠᠨ ᡩᡳᠶᠠᠨ
+- ᥛᥫᥒᥰ ᥛᥣᥢ
+- ᨆᨗᨐᨆᨑ
+- ᱢᱤᱭᱟᱱᱢᱟᱨ
+- ⵎⵢⴰⵏⵎⴰⵕ
+- ミャンマー
+- 緬甸
+- 缅甸
+- ꠝꠤꠀꠘꠝꠣꠞ
+- ꯑꯋꯥ
+- 미얀마
+- "\U0001033C\U0001033E\U00010330\U0001033D\U0001033C\U00010330\U00010342/Mjanmar"
+- "\U00011029\U00011046\U0001102D\U00011033\U00011046\U0001102B\U00011024\U00011042\U00011032"
 has_id_wikidata: Q836
 confidential: public
 cssclasses:
-  - Country
+- Country
 draft: false
-expiryDate: ""
+expiryDate: ''
 icon: flag-mm
 isDeleted: false
 isReadOnly: false
-keywords: ""
+keywords: ''
 Languages:
-  - my
-layout: ""
+- my
+layout: ''
 license: CC BY-SA 4.0
-linkTitle: ""
+linkTitle: ''
 location:
-  - 18.265
-  - 96.135
+- 18.265
+- 96.135
 publish: true
-publishDate: ""
+publishDate: ''
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26963
 tags:
-  - geo/Country
+- geo/Country
 title: Myanmar
 type: Country
 dv_ISO4217-currency_alphabetic: MMK
@@ -61,9 +178,9 @@ dv_UNTERM_Chinese_Formal: 缅甸联邦共和国
 dv_UNTERM_French_Formal: la République de l'Union du Myanmar
 dv_UNTERM_Russian: Мьянма
 dv_UNTERM_Russian_Formal: Республика Союз Мьянма
-dv_Region_Name: "[[../../Asia]]"
-dv_Intermediate_Region_Name: "[[Myanmar]]"
-dv_Sub-region_Name: "[[South-eastern Asia]]"
+dv_Region_Name: '[[../../Asia]]'
+dv_Intermediate_Region_Name: '[[Myanmar]]'
+dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
 dv_Sub-region: 35
 dv_Geoname-ID: 1327865
@@ -87,41 +204,333 @@ dv_ISO2: MM
 dv_ISO3: MMR
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]"
+  - '[[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]'
 dv_has_:
   name_:
+    ab: Мианма
+    ace: Myanmar
+    ady: Бирмэ
+    aeb-arab: ميانمار
+    af: Mianmar
+    am: ምየንማ
+    ami: Burma
+    an: Myanmar
+    ang: Burma
+    anp: म्याँमार
+    ar: ميانمار
+    ary: ميانمار
+    arz: ميانمار
+    as: ম্যানমাৰ
+    ast: Myanmar
+    awa: म्यानमार
+    ay: Myanmar
+    az: Myanma
+    azb: میانمار
+    ba: Мьянма
+    ban: Myanmar
+    bar: Myanmar
+    bcl: Myanmar
+    be: М’янма
+    be-tarask: М’янма
+    bew: Birma
+    bg: Мианмар
+    bho: म्याँमार
+    bi: Burma
+    blk: မျန်မာခမ်းထီ
+    bn: মিয়ানমার
+    bo: བྷར་མ།
+    bpy: মায়ানমার
+    br: Myanmar
+    brh: Barmá
+    bs: Mijanmar
+    bug: ᨆᨗᨐᨆᨑ
+    bxr: Мьянма
+    ca: Myanmar
+    cbk-zam: Birmania
+    cdo: Miēng-diêng
+    ce: Мьянма
+    ceb: Miyangma
+    ckb: میانمار
+    co: Birmania
+    crh: Myanmar
+    crh-latn: Myanmar
+    cs: Myanmar
+    csb: Myanmar
+    cv: Мьянма
+    cy: Myanmar
+    da: Myanmar
+    dag: Myanmar
+    de: Myanmar
+    de-at: Myanmar
+    de-ch: Myanmar
+    diq: Myanmar
+    dsb: Myanmar
+    dtp: Myanmar
+    dty: म्यानमार
+    dv: ބަރުމާ
+    dz: མེ་མར་
+    ee: Myanmar
+    el: Μιανμάρ
+    en: Myanmar
+    en-ca: Myanmar
+    en-gb: Myanmar
+    en-us: Myanmar
+    eo: Birmo
+    es: Birmania
+    et: Myanmar
+    eu: Myanmar
+    ext: Myanmar
+    fa: میانمار
+    ff: Miyammar
+    fi: Myanmar
+    fo: Burma
+    fr: Birmanie
+    frp: Birmanie
+    frr: Mjanmaar
+    fy: Birma
+    ga: Maenmar
+    gag: Myanmar
+    gan: 緬甸
+    gcr: Birmani
+    gd: Mianmar
+    gl: Myanmar
+    glk: ميانمار
+    gn: Miamar
+    gom: म्यानमार
+    gom-deva: म्यानमार
+    gom-latn: Myanmar
+    got: "\U0001033C\U0001033E\U00010330\U0001033D\U0001033C\U00010330\U00010342/Mjanmar"
+    gpe: Myanmar
+    gsw: Myanmar
+    gu: મ્યાનમાર
+    gv: Myanmar
+    ha: Myanmar
+    hak: Mién-thien
+    haw: Puruma
+    he: מיאנמר
+    hi: म्यान्मार
+    hif: Myanmar
+    hil: Miyangma
+    hr: Mjanmar
+    hsb: Burma
+    ht: Bimani
+    hu: Mianmar
+    hy: Մյանմա
+    hyw: Միանմա
+    ia: Birmania
+    iba: Myanmar
+    id: Myanmar
+    ie: Myanmar
+    ik: Myanmar
+    ilo: Myanmar
+    io: Myanmar
+    is: Mjanmar
+    it: Myanmar
+    ja: ミャンマー
+    jam: Mianmaa
+    jv: Myanmar
+    ka: მიანმარი
+    kaa: Myanma (Birma)
+    kab: Birmanya
+    kbd: Миянмэ
+    kbp: Pirmaanii
+    kg: Myanmar
+    kge: Myanmar
+    ki: Burma
+    kk: Мианма
+    km: មីយ៉ាន់ម៉ា
+    kn: ಮಯನ್ಮಾರ್
+    knc: Myanmar
+    ko: 미얀마
+    krc: Мьянма
+    krj: Miyangma
+    ks: مَیانمار
+    ku: Myanmar
+    kv: Мьянма
+    kw: Byrmani
+    ky: Мьянма
+    la: Birmania
+    lad: Myanmar
+    lb: Myanmar
+    lfn: Miama
+    li: Burma
+    lij: Myanmar
+    lld: Mianmar
+    lmo: Myanmar
+    ln: Birmanie
+    lo: ປະເທດມຽນມາ
+    lt: Mianmaras
+    lv: Mjanma
+    lzh: 緬甸
+    mad: Myanmar
+    mai: बर्मा
+    map-bms: Myanmar
+    mdf: Мьянма
+    mg: Myanmara
+    mhr: Мьянма
+    mi: Pēma
+    min: Myanmar
+    mk: Мјанмар
+    ml: മ്യാന്മാർ
+    mn: Мьянмар
+    mnc: ᠮᡳᠶᠠᠨ ᡩᡳᠶᠠᠨ
+    mni: ꯑꯋꯥ
+    mnw: ဍုင်ရးဗၟာ
+    mr: म्यानमार
+    ms: Myanmar
+    ms-arab: ميانمر
+    mt: Myanmar/Burma
+    my: မြန်မာ
+    mzn: میونمار
+    na: Miyanmar
+    nah: Mianma
+    nan: Bián-tiān
+    nap: Birmania
+    nb: Myanmar
+    nds: Myanmar
+    nds-nl: Myanmar
+    ne: म्यानमार
+    new: म्यानमार
+    nia: Myanmar
+    nl: Myanmar
+    nn: Myanmar
+    nov: Myanmar
+    nrm: Myanmar
+    nup: Myanmar
+    nv: Biʼééʼ Łitsxooí Bikéyah
+    oc: Birmania
+    olo: Mjanmar
+    om: Maaynamaar
+    or: ମିଆଁମାର
+    os: Мьянмæ
+    pa: ਮਿਆਂਮਾਰ
+    pam: Miangmâ
+    pap: Myanmar
+    pcd: Birmanie
+    pi: "\U00011029\U00011046\U0001102D\U00011033\U00011046\U0001102B\U00011024\U00011042\U00011032"
+    pih: Myanmaa
+    pl: Mjanma
+    pms: Myanmar
+    pnb: میانمر
+    ps: ميانمار
+    pt: Myanmar
+    pt-br: Birmânia
+    qu: Myanmar
+    rn: Burumaniya
+    ro: Myanmar
+    ru: Мьянма
+    rue: Мянмарьско
+    rw: Mayanimari
+    sa: म्यन्मार
+    sah: Мьянмар
+    sat: ᱢᱤᱭᱟᱱᱢᱟᱨ
+    sc: Birmania
+    scn: Myanmar
+    sco: Burma
+    sd: ميانمار
+    se: Myanmar
+    sgs: Mianmars
+    sh: Mianmar
+    shn: မိူင်းမၢၼ်ႈ
+    si: බුරුමය
+    sk: Mjanmarsko
+    sl: Mjanmar
+    smn: Myanmar
+    sms: Myanmar
+    sn: Burma
+    so: Burma
+    sq: Birmania
+    sr: Мјанмар
+    sr-ec: Мјанмар
+    sr-el: Mjanmar
+    ss: IMayanima
+    su: Myanmar
+    sv: Myanmar
+    sw: Myanmar
+    syl: ꠝꠤꠀꠘꠝꠣꠞ
+    szl: Birma
+    szy: Burma
+    ta: மியான்மர்
+    tay: Burma
+    tcy: ಮ್ಯಾನ್ಮಾರ್
+    tdd: ᥛᥫᥒᥰ ᥛᥣᥢ
+    te: మయన్మార్
+    tet: Birmánia
+    tg: Мянма
+    th: ประเทศพม่า
+    tk: Mýanma
+    tl: Myanmar
+    tly: Myanmə
+    to: Mianimā
+    tok: ma Mijama
+    tpi: Myanmar
+    tr: Myanmar
+    trv: Burma
+    tt: Мьянма
+    tum: Myanmar
+    udm: Мьянма
+    ug: بىرما
+    uk: М'янма
+    ur: میانمار
+    uz: Myanma
+    vec: Mianmà
+    vep: Mjanmar
+    vi: Myanma
+    vls: Myanmar
+    vo: Mianmarän
+    vro: Birma
+    war: Myanmar
+    wo: Miyanmaar
+    wuu: 缅甸
+    xal: Мьянмудин Ниицән
+    xmf: მიანმარი
+    yi: מיאנמאר
+    yo: Myanmar
+    yue: 緬甸
+    za: Mienjdien
+    zea: Myanmar
+    zgh: ⵎⵢⴰⵏⵎⴰⵕ
+    zh: 緬甸
+    zh-cn: 缅甸
+    zh-hans: 缅甸
+    zh-hant: 緬甸
+    zh-hk: 緬甸
+    zh-mo: 緬甸
+    zh-my: 缅甸
+    zh-sg: 缅甸
+    zh-tw: 緬甸
+    zu: i-Myanmar
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Myanmar
 dv_has_name_de: Myanmar
 dv_Area-Total: 676552
 dv_Area-Land: 657550
-dv_has_place_continent: "[[../../Asia]]"
+dv_has_place_continent: '[[../../Asia]]'
 dv_VehicleCode: MYR
-dv_Capital: "[[Naypyidaw]]"
+dv_Capital: '[[Naypyidaw]]'
 dv_Alcohol-l: 0.6
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 96.135
 dv_has_place_latitude: 18.265
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]"
+- '[[../../../../WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Myanmar|Myanmar]]'
+- '[[/_public/Earth/Continent/Asia/Asia~South~East/Myanmar.public|Myanmar.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~South~East/Myanmar.internal|Myanmar.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~South~East/Myanmar.protect|Myanmar.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~South~East/Myanmar.private|Myanmar.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Myanmar
 ---
-
 # [[Myanmar]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

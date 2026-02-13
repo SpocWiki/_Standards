@@ -1,16 +1,23 @@
 ---
-has_time_started: 1951-05-28 
-has_time_stopped: 1960-01-28 
+has_time_started: 1951-05-28
+has_time_stopped: 1960-01-28
 aliases:
-  - The_Goon_Show
-  - Goon_Show
-  - Goon Show
+- Goon Show
+- Goon_Show
+- The Goon Show
+- The_Goon_Show
+- ذا جون شو
+- نمایش احمقها
+- दी गून शो
+- ザ・グーン・ショー
+- 笨蛋秀
+- 더 군 쇼
 has_id_wikidata: Q168718
 voice_actor:
-  - '[[_Standards/WikiData/WD~Peter_Sellers,177984]]'
-  - '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
-  - '[[_Standards/WikiData/WD~Harry_Secombe,762958]]'
-  - '[[_Standards/WikiData/WD~Michael_Bentine,2510829]]'
+- '[[_Standards/WikiData/WD~Peter_Sellers,177984]]'
+- '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
+- '[[_Standards/WikiData/WD~Harry_Secombe,762958]]'
+- '[[_Standards/WikiData/WD~Michael_Bentine,2510829]]'
 presenter: '[[_Standards/WikiData/WD~Spike_Milligan,561401]]'
 instance_of: '[[_Standards/WikiData/WD~radio_program,1555508]]'
 original_broadcaster: '[[_Standards/WikiData/WD~BBC_Home_Service,3631716]]'
@@ -20,8 +27,39 @@ country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 end_time: 1960-01-28T00:00:00Z
 start_time: 1951-05-28T00:00:00Z
 Commons_category: The Goon Show
+dv_has_:
+  name_:
+    ar: ذا جون شو
+    ast: Goon Show
+    be-tarask: The Goon Show
+    ca: The Goon Show
+    cs: The Goon Show
+    de: Goon Show
+    el: The Goon Show
+    en: The Goon Show
+    en-gb: The Goon Show
+    es: The Goon Show
+    eu: The Goon Show
+    fa: نمایش احمقها
+    fi: The Goon Show
+    fr: The Goon Show
+    gv: The Goon Show
+    he: The Goon Show
+    hi: दी गून शो
+    hu: The Goon Show
+    id: The Goon Show
+    it: The Goon Show
+    ja: ザ・グーン・ショー
+    ko: 더 군 쇼
+    nb: The Goon Show
+    nl: The Goon Show
+    pt: The Goon Show
+    ru: The Goon Show
+    sr: The Goon Show
+    sv: The Goon Show
+    tr: The Goon Show
+    zh: 笨蛋秀
 ---
-
 # [[Goon_Show]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~The_Goon_Show,168718|WD~The_Goon_Show,168718]]  

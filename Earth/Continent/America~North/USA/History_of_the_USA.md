@@ -1,53 +1,265 @@
 ---
 aliases:
+- a laylay nu Amilika
+- Amerihká ovttastuvvan stáhtaid historjá
+- Ameriikk õhttõõvvâmvaaʹldi historia
+- Amerika Birleşik Devletleri tarihi
+- Amerika Birləşmiş Ştatları tarixi
+- Amerika Qoʻshma Shtatlari tarixi
+- Amerikanyň Birleşen Ştatlary XX asyryň 2-nji ýarymynda
+- Ameriketako Estatu Batuetako historia
+- Amerikonsk søga
+- ASV vēsture
+- az Amerikai Egyesült Államok történelme
+- Bí-kok ê le̍k-sú
+- Dejiny USA
+- dějiny Spojených států amerických
+- Geschichte der Vereinigten Staaten
+- geschiedenis van de Verenigde Staten
+- geskiedenis van die Verenigde State van Amerika
+- Hanes yr Unol Daleithiau
+- histoire des États-Unis
+- historia Civitatum Foederatarum Americae
+- historia de los Estados Unidos de América
+- Historia de los Estaos Xuníos d'América
+- Historia del Statos Unite de America
+- historia dos Estados Unidos de América
+- Historia e Shteteve të Bashkuara të Amerikës
+- historia Stanów Zjednoczonych
+- Historia ya Marekani
+- Historija Sjedinjenih Američkih Država
+- historio de Usono
+- Historio di Usa
+- history of the United States
+- història dels Estats Units
+- história dos Estados Unidos
+- Ischri a di Yunaitid Stiet
+- istoria Statelor Unite ale Americii
+- Istorija Sjedinjenih Američkih Država
+- Istwè di sé Étazini
+- istòria dei Stati Uniti d'Amèrica
+- Jungtinių Amerikos Valstijų istorija
+- Kaagi han Estados Unidos
+- lịch sử Hoa Kỳ
+- Ovtâstum staatâi historjá
+- Povijest Sjedinjenih Američkih Država
+- saga Bandaríkjanna
+- Sajarah Amérika Sarékat
+- Sejarah Amerika Serikat
+- Sejarah Amerika Syarikat
+- Skiednis fan de Feriene Steaten
+- stair na Stát Aontaithe
+- stawizny Zjednoćenych statow
+- storia degli Stati Uniti d'America
+- Stória de ls Stados Ounidos de la América
+- Tantaran' i Etazonia
+- Tarihin Amurka
+- USA's historie
+- USA-amerikansk historie
+- USA:s historia
+- USAs historie
+- Yhdysvaltain historia
+- zgodovina Združenih držav Amerike
+- Ιστορία των Ηνωμένων Πολιτειών
+- історія США
+- АИШ-ы истори
+- АКШ тарихы
+- Америка Кошмо Штаттары тарыхы
+- Америкийн Нэгдсэн Улсын түүх
+- АҠШ тарихы
+- Гісторыя ЗША
+- Историја на САД
+- историја Сједињених Америчких Држава
+- История на САЩ
+- история США
+- ԱՄՆ-ի պատմություն
+- היסטאריע פון די פאראייניגטע שטאַטן
+- היסטוריה של ארצות הברית
+- تاريخ الولايات المتحدة
+- تاریخ ایالات متحده آمریکا
+- تاریخ ریاستہائے متحدہ
+- د متحده ايالاتو تاريخچه
+- ریاستہائے متحدہ دی تریخ
+- مێژووی ویلایەتە یەکگرتووەکانی ئەمریکا
+- संयुक्त राज्य अमेरिका का इतिहास
+- संयुक्त राज्यको इतिहास
+- মার্কিন যুক্তরাষ্ট্রের ইতিহাস
+- ਯੂ ਐੱਸ ਏ ਦਾ ਇਤਿਹਾਸ
+- સંયુક્ત રાજ્યનો ઇતિહાસ
+- ஐக்கிய அமெரிக்க வரலாறு
+- ಯು.ಯಸ್ ನ ಇತಿಹಾಸ
+- അമേരിക്കൻ ഐക്യനാടുകളുടെ ചരിത്രം
+- එක්සත් ජනපදයේ ඉතිහාසය
+- ประวัติศาสตร์สหรัฐอเมริกา
+- အမေရိကန်နိုင်ငံသမိုင်း
+- ააშ-იშ ისტორია
+- აშშ-ის ისტორია
+- アメリカ合衆国の歴史
+- 美国历史
+- 美國史
+- 美國歷史
+- 미국의 역사
 has_id_wikidata: Q131110
-has_part_s_: "[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]"
-part_of: "[[_Standards/WikiData/WD~history_of_North_America,149527]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_North_America,149527]]"
+has_part_s_: '[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]'
+part_of: '[[_Standards/WikiData/WD~history_of_North_America,149527]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_North_America,149527]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-different_from: "[[_Standards/WikiData/WD~history_of_the_Americas,690256]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_US_history,6057743]]"
-  - "[[_Standards/WikiData/WD~Template_History_of_the_United_States_sidebar,13227035]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_United_States_history,7112502]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_American_History,123398653]]"
-is_the_study_of: "[[_Standards/WikiData/WD~history,309]]"
-facet_of: "[[_Standards/WikiData/WD~United_States,30]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-Dewey_Decimal_Classification: "973"
+- '[[_Standards/WikiData/WD~Template_US_history,6057743]]'
+- '[[_Standards/WikiData/WD~Template_History_of_the_United_States_sidebar,13227035]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_United_States_history,7112502]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_History,123398653]]'
+is_the_study_of: '[[_Standards/WikiData/WD~history,309]]'
+facet_of: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+Dewey_Decimal_Classification: 973
 image: http://commons.wikimedia.org/wiki/Special:FilePath/USA%20territorial%20growth.gif
-Classification_of_Instructional_Programs_code: "54.0102"
+Classification_of_Instructional_Programs_code: 54.0102
 IMDb_keyword: american-history
 subreddit: AmericanHistory
 Commons_gallery: History of the United States
 Commons_category: History of the United States
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]]"
-    - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]]"
+  - '[[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]]'
+  - '[[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]]"
-  - "[[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]]"
+- '[[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]]'
+- '[[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]]'
+dv_has_:
+  name_:
+    af: geskiedenis van die Verenigde State van Amerika
+    ar: تاريخ الولايات المتحدة
+    ast: Historia de los Estaos Xuníos d'América
+    az: Amerika Birləşmiş Ştatları tarixi
+    ba: АҠШ тарихы
+    be: Гісторыя ЗША
+    be-tarask: гісторыя ЗША
+    bg: История на САЩ
+    bn: মার্কিন যুক্তরাষ্ট্রের ইতিহাস
+    bs: Historija Sjedinjenih Američkih Država
+    ca: història dels Estats Units
+    ckb: مێژووی ویلایەتە یەکگرتووەکانی ئەمریکا
+    cs: dějiny Spojených států amerických
+    cy: Hanes yr Unol Daleithiau
+    da: USA's historie
+    de: Geschichte der Vereinigten Staaten
+    de-ch: Geschichte der Vereinigten Staaten
+    el: Ιστορία των Ηνωμένων Πολιτειών
+    en: history of the United States
+    en-us: history of the United States
+    eo: historio de Usono
+    es: historia de los Estados Unidos de América
+    eu: Ameriketako Estatu Batuetako historia
+    fa: تاریخ ایالات متحده آمریکا
+    fi: Yhdysvaltain historia
+    fo: Amerikonsk søga
+    fr: histoire des États-Unis
+    fy: Skiednis fan de Feriene Steaten
+    ga: stair na Stát Aontaithe
+    gcr: Istwè di sé Étazini
+    gl: historia dos Estados Unidos de América
+    gu: સંયુક્ત રાજ્યનો ઇતિહાસ
+    ha: Tarihin Amurka
+    he: היסטוריה של ארצות הברית
+    hi: संयुक्त राज्य अमेरिका का इतिहास
+    hr: Povijest Sjedinjenih Američkih Država
+    hsb: stawizny Zjednoćenych statow
+    hu: az Amerikai Egyesült Államok történelme
+    hy: ԱՄՆ-ի պատմություն
+    ia: Historia del Statos Unite de America
+    id: Sejarah Amerika Serikat
+    io: Historio di Usa
+    is: saga Bandaríkjanna
+    it: storia degli Stati Uniti d'America
+    ja: アメリカ合衆国の歴史
+    jam: Ischri a di Yunaitid Stiet
+    jv: Sajarah Amérika Sarékat
+    ka: აშშ-ის ისტორია
+    kn: ಯು.ಯಸ್ ನ ಇತಿಹಾಸ
+    ko: 미국의 역사
+    ky: Америка Кошмо Штаттары тарыхы
+    la: historia Civitatum Foederatarum Americae
+    lt: Jungtinių Amerikos Valstijų istorija
+    lv: ASV vēsture
+    mg: Tantaran' i Etazonia
+    mk: Историја на САД
+    ml: അമേരിക്കൻ ഐക്യനാടുകളുടെ ചരിത്രം
+    mn: Америкийн Нэгдсэн Улсын түүх
+    ms: Sejarah Amerika Syarikat
+    mwl: Stória de ls Stados Ounidos de la América
+    my: အမေရိကန်နိုင်ငံသမိုင်း
+    nan: Bí-kok ê le̍k-sú
+    nb: USAs historie
+    ne: संयुक्त राज्यको इतिहास
+    nl: geschiedenis van de Verenigde Staten
+    nn: USA-amerikansk historie
+    os: АИШ-ы истори
+    pa: ਯੂ ਐੱਸ ਏ ਦਾ ਇਤਿਹਾਸ
+    pl: historia Stanów Zjednoczonych
+    pnb: ریاستہائے متحدہ دی تریخ
+    ps: د متحده ايالاتو تاريخچه
+    pt: história dos Estados Unidos
+    pt-br: história dos Estados Unidos
+    ro: istoria Statelor Unite ale Americii
+    ru: история США
+    se: Amerihká ovttastuvvan stáhtaid historjá
+    sh: Historija Sjedinjenih Američkih Država
+    si: එක්සත් ජනපදයේ ඉතිහාසය
+    sk: Dejiny USA
+    sl: zgodovina Združenih držav Amerike
+    smn: Ovtâstum staatâi historjá
+    sms: Ameriikk õhttõõvvâmvaaʹldi historia
+    sq: Historia e Shteteve të Bashkuara të Amerikës
+    sr: историја Сједињених Америчких Држава
+    sr-ec: Историја Сједињених Америчких Држава
+    sr-el: Istorija Sjedinjenih Američkih Država
+    sv: USA:s historia
+    sw: Historia ya Marekani
+    szy: a laylay nu Amilika
+    ta: ஐக்கிய அமெரிக்க வரலாறு
+    th: ประวัติศาสตร์สหรัฐอเมริกา
+    tk: Amerikanyň Birleşen Ştatlary XX asyryň 2-nji ýarymynda
+    tr: Amerika Birleşik Devletleri tarihi
+    tt: АКШ тарихы
+    tt-cyrl: АКШ тарихы
+    uk: історія США
+    ur: تاریخ ریاستہائے متحدہ
+    uz: Amerika Qoʻshma Shtatlari tarixi
+    vec: istòria dei Stati Uniti d'Amèrica
+    vi: lịch sử Hoa Kỳ
+    war: Kaagi han Estados Unidos
+    wuu: 美国历史
+    xmf: ააშ-იშ ისტორია
+    yi: היסטאריע פון די פאראייניגטע שטאַטן
+    yue: 美國史
+    zh: 美國歷史
+    zh-cn: 美国历史
+    zh-hans: 美国历史
+    zh-hant: 美國歷史
+    zh-hk: 美國歷史
+    zh-sg: 美国历史
+    zh-tw: 美國歷史
 ---
-
 # [[History_of_the_USA]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_the_United_States,131110|WD~History_of_the_United_States,131110]]  

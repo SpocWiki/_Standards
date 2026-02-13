@@ -1,58 +1,89 @@
 ---
 aliases:
-  - Franz_Beckenbauer
-  - Franz Anton Beckenbauer
-  - Franz Beckenbauer
-  - Beckenbauer
-  - Beckenbauer,Franz
+- Beckenbauer
+- Beckenbauer,Franz
+- Bekkenbauer Frans
+- Franciscus Beckenbauer
+- Francs Bekenbauers
+- Frans Bekkenbauer
+- Franz Anton Beckenbauer
+- Franz Beckenbauer
+- Franz_Beckenbauer
+- Fráns Bekkenbáuer
+- Φραντς Μπεκενμπάουερ
+- Франс Беккенбауэр
+- Франц Бекенбауер
+- Франц Беккенбауэр
+- Франц Бэкенбаўэр
+- Ֆրանց Բեկենբաուեր
+- פרנץ בקנבאואר
+- فرانتس بكنباور
+- فرانتس بيكينباور
+- فرانتس بکنباوئر
+- فرانتس بێکنباوەر
+- فرانز بكنباور
+- فرانس بکن باوئر
+- फ्रांत्स बेकेनबाउअर
+- ফ্রান্ৎস বেকেনবাউয়ার
+- ਫ੍ਰੈਂਜ਼ ਬੇਕਨਬਾਉਅਰ
+- பிரான்ஸ் பெக்கன்பேவர்
+- ഫ്രാൻസ് ബെക്കൻ ബോവർ
+- ฟรันทซ์ เบ็คเคินเบาเออร์
+- ဖရန့်တ်စ် ဘက်ကင်ဘောင်ဝါ
+- ფრანც ბეკენბაუერი
+- フランツ・ベッケンバウアー
+- 弗朗茨·贝肯鲍尔
+- 法蘭茲·貝肯鮑爾
+- 碧根鮑華
+- 프란츠 베켄바워
 has_id_wikidata: Q4457
 league_or_competition:
-  - '[[_Standards/WikiData/WD~Q82595,82595]]'
-  - '[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]'
-  - '[[_Standards/WikiData/WD~Regionalliga_Süd_(1963_1974),3423604]]'
+- '[[_Standards/WikiData/WD~Q82595,82595]]'
+- '[[_Standards/WikiData/WD~North_American_Soccer_League,1095556]]'
+- '[[_Standards/WikiData/WD~Regionalliga_Süd_(1963_1974),3423604]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
-  - '[[_Standards/WikiData/WD~German_Footballer_of_the_Year,311830]]'
-  - '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_North_Rhine_Westphalia,318770]]'
-  - '[[_Standards/WikiData/WD~Bravo_Otto,487719]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Order_of_Merit,672787]]'
-  - '[[_Standards/WikiData/WD~Askania_Award,731044]]'
-  - '[[_Standards/WikiData/WD~Q812287,812287]]'
-  - '[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille,812306]]'
-  - '[[_Standards/WikiData/WD~Bayerischer_Sportpreis,812373]]'
-  - '[[_Standards/WikiData/WD~Steiger_Award,821717]]'
-  - '[[_Standards/WikiData/WD~Golden_Honorary_Ring_of_the_City_of_Munich,1432320]]'
-  - '[[_Standards/WikiData/WD~honorary_golden_medal_of_the_state_capital_Munich,1535113]]'
-  - '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
-  - "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
-  - '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
-  - "[[_Standards/WikiData/WD~UEFA_President's_Award,15910413]]"
-  - '[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille_in_Gold,16735648]]'
-  - '[[_Standards/WikiData/WD~Merit_Cross_of_the_Lower_Saxony_Order_of_Merit_(1st_class),19278070]]'
-  - '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
+- "[[_Standards/WikiData/WD~Ballon_d'Or,166177]]"
+- '[[_Standards/WikiData/WD~German_Footballer_of_the_Year,311830]]'
+- '[[_Standards/WikiData/WD~Silbernes_Lorbeerblatt,315026]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_North_Rhine_Westphalia,318770]]'
+- '[[_Standards/WikiData/WD~Bravo_Otto,487719]]'
+- '[[_Standards/WikiData/WD~Bavarian_Order_of_Merit,672787]]'
+- '[[_Standards/WikiData/WD~Askania_Award,731044]]'
+- '[[_Standards/WikiData/WD~Q812287,812287]]'
+- '[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille,812306]]'
+- '[[_Standards/WikiData/WD~Bayerischer_Sportpreis,812373]]'
+- '[[_Standards/WikiData/WD~Steiger_Award,821717]]'
+- '[[_Standards/WikiData/WD~Golden_Honorary_Ring_of_the_City_of_Munich,1432320]]'
+- '[[_Standards/WikiData/WD~honorary_golden_medal_of_the_state_capital_Munich,1535113]]'
+- '[[_Standards/WikiData/WD~Hall_of_Fame_des_deutschen_Sports,1571341]]'
+- "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905276]]"
+- '[[_Standards/WikiData/WD~Cross_of_the_Order_of_Merit_of_the_Federal_Republic_of_Germany,10905380]]'
+- "[[_Standards/WikiData/WD~UEFA_President's_Award,15910413]]"
+- '[[_Standards/WikiData/WD~Bayerische_Verfassungsmedaille_in_Gold,16735648]]'
+- '[[_Standards/WikiData/WD~Merit_Cross_of_the_Lower_Saxony_Order_of_Merit_(1st_class),19278070]]'
+- '[[_Standards/WikiData/WD~BigBrotherAwards,110530811]]'
 position_played_on_team_speciality:
-  - '[[_Standards/WikiData/WD~defender,336286]]'
-  - '[[_Standards/WikiData/WD~sweeper,1489923]]'
+- '[[_Standards/WikiData/WD~defender,336286]]'
+- '[[_Standards/WikiData/WD~sweeper,1489923]]'
 child: '[[_Standards/WikiData/WD~Stephan_Beckenbauer,458888]]'
 occupation:
-  - '[[_Standards/WikiData/WD~association_football_manager,628099]]'
-  - '[[_Standards/WikiData/WD~association_football_player,937857]]'
-  - '[[_Standards/WikiData/WD~functionary,1328323]]'
-  - '[[_Standards/WikiData/WD~sports_executive,26481809]]'
-  - '[[_Standards/WikiData/WD~professional_athlete,27503001]]'
-  - '[[_Standards/WikiData/WD~coach,41583]]'
+- '[[_Standards/WikiData/WD~association_football_manager,628099]]'
+- '[[_Standards/WikiData/WD~association_football_player,937857]]'
+- '[[_Standards/WikiData/WD~functionary,1328323]]'
+- '[[_Standards/WikiData/WD~sports_executive,26481809]]'
+- '[[_Standards/WikiData/WD~professional_athlete,27503001]]'
+- '[[_Standards/WikiData/WD~coach,41583]]'
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~New_York_Cosmos,646135]]'
-  - '[[_Standards/WikiData/WD~Germany_national_football_B_team,822990]]'
-  - '[[_Standards/WikiData/WD~Germany_national_under_18_football_team,2016992]]'
-  - '[[_Standards/WikiData/WD~FC_Bayern_Munich,15789]]'
-  - "[[_Standards/WikiData/WD~Germany_men's_national_association_football_team,43310]]"
-  - '[[_Standards/WikiData/WD~Hamburger_SV,51974]]'
+- '[[_Standards/WikiData/WD~New_York_Cosmos,646135]]'
+- '[[_Standards/WikiData/WD~Germany_national_football_B_team,822990]]'
+- '[[_Standards/WikiData/WD~Germany_national_under_18_football_team,2016992]]'
+- '[[_Standards/WikiData/WD~FC_Bayern_Munich,15789]]'
+- "[[_Standards/WikiData/WD~Germany_men's_national_association_football_team,43310]]"
+- '[[_Standards/WikiData/WD~Hamburger_SV,51974]]'
 country_for_sport: '[[_Standards/WikiData/WD~West_Germany,713750]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~West_Germany,713750]]'
-  - '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~West_Germany,713750]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 position_held: '[[_Standards/WikiData/WD~honorary_chairperson,1300660]]'
 place_of_burial: '[[_Standards/WikiData/WD~Friedhof_am_Perlacher_Forst,1457460]]'
 place_of_birth: '[[_Standards/WikiData/WD~Richard_Wagner_Straße_19_(München),2111134]]'
@@ -63,16 +94,16 @@ relative: '[[_Standards/WikiData/WD~Luca_Beckenbauer,66773695]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 different_from: '[[_Standards/WikiData/WD~Franz_Beckenbauer,94904573]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~sport,349]]'
-  - '[[_Standards/WikiData/WD~association_football,2736]]'
+- '[[_Standards/WikiData/WD~sport,349]]'
+- '[[_Standards/WikiData/WD~association_football,2736]]'
 sport: '[[_Standards/WikiData/WD~association_football,2736]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 total_goals_in_career: 0
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 number_of_matches_played_races_starts:
-  - 2
-  - 4
+- 2
+- 4
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 number_of_children: 5
 place_of_death: '[[_Standards/WikiData/WD~Salzburg,34713]]'
@@ -99,8 +130,223 @@ X_Twitter_username: beckenbauer
 pseudonym: Der Kaiser
 Facebook_username: franz.beckenbauer
 Instagram_username: franzbeckenbauer
+dv_has_:
+  name_:
+    aa: Franz Beckenbauer
+    ace: Franz Beckenbauer
+    af: Franz Beckenbauer
+    an: Franz Beckenbauer
+    ang: Franz Beckenbauer
+    ar: فرانز بكنباور
+    ary: فرانتس بيكينباور
+    arz: فرانتس بكنباور
+    ast: Franz Beckenbauer
+    avk: Franz Beckenbauer
+    ay: Franz Beckenbauer
+    az: Frans Bekkenbauer
+    azb: فرانس بکن باوئر
+    ban: Franz Beckenbauer
+    bar: Franz Beckenbauer
+    bcl: Franz Beckenbauer
+    be: Франц Бэкенбаўэр
+    be-tarask: Франц Бэкенбаўэр
+    bg: Франц Бекенбауер
+    bi: Franz Beckenbauer
+    bjn: Franz Beckenbauer
+    bm: Franz Beckenbauer
+    bn: ফ্রান্ৎস বেকেনবাউয়ার
+    br: Franz Beckenbauer
+    bs: Franz Beckenbauer
+    ca: Franz Anton Beckenbauer
+    cbk-zam: Franz Beckenbauer
+    cdo: Franz Beckenbauer
+    ceb: Franz Beckenbauer
+    ch: Franz Beckenbauer
+    cho: Franz Beckenbauer
+    chy: Franz Beckenbauer
+    ckb: فرانتس بێکنباوەر
+    co: Franz Beckenbauer
+    cr: Franz Beckenbauer
+    crh-latn: Franz Beckenbauer
+    cs: Franz Beckenbauer
+    csb: Franz Beckenbauer
+    cy: Franz Beckenbauer
+    da: Franz Beckenbauer
+    de: Franz Beckenbauer
+    de-at: Franz Beckenbauer
+    de-ch: Franz Beckenbauer
+    diq: Franz Beckenbauer
+    dsb: Franz Beckenbauer
+    dtp: Franz Beckenbauer
+    ee: Franz Beckenbauer
+    egl: Franz Beckenbauer
+    el: Φραντς Μπεκενμπάουερ
+    eml: Franz Beckenbauer
+    en: Franz Beckenbauer
+    en-ca: Franz Beckenbauer
+    en-gb: Franz Beckenbauer
+    eo: Franz Beckenbauer
+    es: Franz Beckenbauer
+    et: Franz Beckenbauer
+    eu: Franz Beckenbauer
+    ext: Franz Beckenbauer
+    fa: فرانتس بکنباوئر
+    ff: Franz Beckenbauer
+    fi: Franz Beckenbauer
+    fit: Franz Beckenbauer
+    fj: Franz Beckenbauer
+    fo: Franz Beckenbauer
+    fr: Franz Beckenbauer
+    frc: Franz Beckenbauer
+    frp: Franz Beckenbauer
+    frr: Franz Beckenbauer
+    fur: Franz Beckenbauer
+    fy: Franz Beckenbauer
+    ga: Franz Beckenbauer
+    gag: Franz Beckenbauer
+    gd: Franz Beckenbauer
+    gl: Franz Beckenbauer
+    gn: Franz Beckenbauer
+    gsw: Franz Beckenbauer
+    guw: Franz Beckenbauer
+    gv: Franz Beckenbauer
+    ha: Franz Beckenbauer
+    hak: Franz Beckenbauer
+    he: פרנץ בקנבאואר
+    hif-latn: Franz Beckenbauer
+    hil: Franz Beckenbauer
+    ho: Franz Beckenbauer
+    hr: Franz Beckenbauer
+    hrx: Franz Beckenbauer
+    hsb: Franz Beckenbauer
+    ht: Franz Beckenbauer
+    hu: Franz Beckenbauer
+    hy: Ֆրանց Բեկենբաուեր
+    hz: Franz Beckenbauer
+    ia: Franz Beckenbauer
+    id: Franz Beckenbauer
+    ie: Franz Beckenbauer
+    ig: Franz Beckenbauer
+    ik: Franz Beckenbauer
+    ike-latn: Franz Beckenbauer
+    ilo: Franz Beckenbauer
+    io: Franz Beckenbauer
+    is: Franz Beckenbauer
+    it: Franz Beckenbauer
+    ja: フランツ・ベッケンバウアー
+    jam: Franz Beckenbauer
+    jbo: Franz Beckenbauer
+    jut: Franz Beckenbauer
+    jv: Franz Beckenbauer
+    ka: ფრანც ბეკენბაუერი
+    kaa: Franz Beckenbauer
+    kab: Franz Beckenbauer
+    kea: Franz Beckenbauer
+    kg: Franz Beckenbauer
+    ki: Franz Beckenbauer
+    kk: Франц Беккенбауэр
+    kk-latn: Franz Beckenbauer
+    kk-tr: Franz Beckenbauer
+    ko: 프란츠 베켄바워
+    ksh: Franz Beckenbauer
+    ku-latn: Franz Beckenbauer
+    kw: Franz Beckenbauer
+    la: Franciscus Beckenbauer
+    lad: Franz Beckenbauer
+    lb: Franz Beckenbauer
+    lez: Франц Беккенбауэр
+    lfn: Franz Beckenbauer
+    li: Franz Beckenbauer
+    lij: Franz Beckenbauer
+    lld: Franz Beckenbauer
+    lmo: Franz Beckenbauer
+    lt: Franz Beckenbauer
+    lv: Francs Bekenbauers
+    mg: Franz Beckenbauer
+    min: Franz Beckenbauer
+    mk: Франц Бекенбауер
+    ml: ഫ്രാൻസ് ബെക്കൻ ബോവർ
+    mos: Franz Beckenbauer
+    mr: फ्रांत्स बेकेनबाउअर
+    ms: Franz Beckenbauer
+    mt: Franz Beckenbauer
+    mul: Franz Beckenbauer
+    mus: Franz Beckenbauer
+    mwl: Franz Beckenbauer
+    my: ဖရန့်တ်စ် ဘက်ကင်ဘောင်ဝါ
+    na: Franz Beckenbauer
+    nah: Franz Beckenbauer
+    nap: Franz Beckenbauer
+    nb: Franz Beckenbauer
+    nds: Franz Beckenbauer
+    nds-nl: Franz Beckenbauer
+    niu: Franz Beckenbauer
+    nl: Franz Beckenbauer
+    nn: Franz Beckenbauer
+    nov: Franz Beckenbauer
+    nrm: Franz Beckenbauer
+    oc: Franz Beckenbauer
+    pa: ਫ੍ਰੈਂਜ਼ ਬੇਕਨਬਾਉਅਰ
+    pam: Franz Beckenbauer
+    pcd: Franz Beckenbauer
+    pdc: Franz Beckenbauer
+    pdt: Franz Beckenbauer
+    pih: Franz Beckenbauer
+    pl: Franz Beckenbauer
+    pms: Franz Beckenbauer
+    pt: Franz Beckenbauer
+    pt-br: Franz Beckenbauer
+    qu: Franz Beckenbauer
+    rm: Franz Beckenbauer
+    ro: Franz Beckenbauer
+    ru: Франц Беккенбауэр
+    rup: Franz Beckenbauer
+    sc: Franz Beckenbauer
+    scn: Franz Beckenbauer
+    sco: Franz Beckenbauer
+    se: Franz Beckenbauer
+    sh: Franz Beckenbauer
+    sje: Franz Beckenbauer
+    sk: Franz Beckenbauer
+    sl: Franz Beckenbauer
+    sli: Franz Beckenbauer
+    sma: Franz Beckenbauer
+    smj: Franz Beckenbauer
+    sn: Franz Beckenbauer
+    sq: Franz Beckenbauer
+    sr: Франц Бекенбауер
+    sr-el: Franz Beckenbauer
+    stq: Franz Beckenbauer
+    su: Franz Beckenbauer
+    sv: Franz Beckenbauer
+    sw: Franz Beckenbauer
+    szl: Franz Beckenbauer
+    ta: பிரான்ஸ் பெக்கன்பேவர்
+    tg: Франс Беккенбауэр
+    th: ฟรันทซ์ เบ็คเคินเบาเออร์
+    tl: Franz Beckenbauer
+    tly: Fráns Bekkenbáuer
+    tpi: Franz Beckenbauer
+    tr: Franz Beckenbauer
+    uk: Франц Бекенбауер
+    uz: Bekkenbauer Frans
+    vec: Franz Beckenbauer
+    vi: Franz Beckenbauer
+    vls: Franz Beckenbauer
+    vmf: Franz Beckenbauer
+    vo: Franz Beckenbauer
+    wa: Franz Beckenbauer
+    war: Franz Beckenbauer
+    wo: Franz Beckenbauer
+    wuu: 弗朗茨·贝肯鲍尔
+    yue: 碧根鮑華
+    zea: Franz Beckenbauer
+    zh: 弗朗茨·贝肯鲍尔
+    zh-cn: 弗朗茨·贝肯鲍尔
+    zh-hans: 弗朗茨·贝肯鲍尔
+    zh-tw: 法蘭茲·貝肯鮑爾
+    zu: Franz Beckenbauer
 ---
-
 # [[Beckenbauer,Franz]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Franz_Beckenbauer,4457|WD~Franz_Beckenbauer,4457]] 

@@ -82,7 +82,7 @@ dv_has_:
   duration_: P49Y10M2W3DT14H27M28.062S
 dv_is_:
   same_as:
-    - "[[WD~Yuval Noah Harari,2484404]]"
+    - "[[WD~Yuval_Noah_Harari,2484404]]"
     - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah|Harari,Yuval_Noah]]"
     - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.public|Harari,Yuval_Noah.public]]"
     - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.internal|Harari,Yuval_Noah.internal]]"
@@ -94,7 +94,7 @@ dv_has_time_started: 1976-02-24
 dv_has_duration_years: 50
 dv_has_duration_: P49Y10M2W3DT14H27M28.062S
 dv_is_same_as:
-  - "[[WD~Yuval Noah Harari,2484404]]"
+  - "[[WD~Yuval_Noah_Harari,2484404]]"
   - "[[/_Standards/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah|Harari,Yuval_Noah]]"
   - "[[/_public/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.public|Harari,Yuval_Noah.public]]"
   - "[[/_internal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah.internal|Harari,Yuval_Noah.internal]]"
@@ -110,7 +110,7 @@ has_time_started = `=this.dv_has_time_started`
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.dv_has_time_started` 
-#is_/same_as :: [[WD~Yuval Noah Harari,2484404]] 
+#is_/same_as :: [[WD~Yuval_Noah_Harari,2484404]] 
 
 ## #has_/text_of_/abstract 
 

@@ -1,9 +1,38 @@
 ---
 aliases:
-  - Kobra, übernehmen Sie
-
+- 'Görevimiz: Tehlike'
+- Kobra, übernehmen Sie
+- Mission Impossible
+- 'Mission: Impossible'
+- 'Missió: Impossible'
+- Qeyri-mümkün missiya
+- Місія нездійсненна (франшиза)
+- Миссия невыполнима
+- משימה בלתי אפשרית
+- 'মিশন: ইম্পসিবল'
+- 不可能任務情報局
+- 미션 임파서블
+has_id_wikidata: Q87816991
+dv_has_:
+  name_:
+    az: Qeyri-mümkün missiya
+    bn: 'মিশন: ইম্পসিবল'
+    ca: 'Missió: Impossible'
+    de: 'Mission: Impossible'
+    en: 'Mission: Impossible'
+    fi: 'Mission: Impossible'
+    fr: Mission Impossible
+    gl: 'Mission: Impossible'
+    ha: 'Mission: Impossible'
+    he: משימה בלתי אפשרית
+    hu: 'Mission: Impossible'
+    ko: 미션 임파서블
+    ru: Миссия невыполнима
+    tr: 'Görevimiz: Tehlike'
+    uk: Місія нездійсненна (франшиза)
+    zh: 不可能任務情報局
+    zh-hant: 不可能任務情報局
 ---
-
 # [[Mission_Impossible]] 
 
 [[James_Bond,films]] inspired a Series of Agent Movies, e.g. [[Avengers(TV-Series)]] and [[Mission_Impossible]]. 

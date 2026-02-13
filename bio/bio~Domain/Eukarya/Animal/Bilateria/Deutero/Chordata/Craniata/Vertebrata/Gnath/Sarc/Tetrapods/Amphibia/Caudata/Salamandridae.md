@@ -1,9 +1,119 @@
 ---
 aliases:
-  - Salamandridae
+- Echte Salamander
+- echte salamanders
+- Ekte salamandere
+- Kỳ giông
+- mlokovití
+- pupki in močeradi
+- Salamandern
+- Salamandrar
+- Salamandredoj
+- Salamandridae
+- Salamandriniai
+- Salamandrovité
+- salamandrowate
+- Salamandru dzimta
+- Salamàndrid
+- Salamándridos
+- Semendergiller
+- szalamandrafélék
+- Tsxilghááh dadichʼízhígíí dóó bikʼéí
+- Vesiliskot
+- Σαλαμανδρίδες
+- настоящие саламандры
+- Нағыз саламандралар
+- саламандравыя
+- Саламандралар
+- саламандрові
+- саламандрови
+- Чăн саламандрасем
+- սալամանդրներ
+- סלמנדריים
+- سمندران
+- سمندرية
+- سمندريه
+- นิวต์
+- სალამანდრისებრნი
+- イモリ科
+- 蝾螈科
+- 蠑螈科
+- 영원과
 title: Salamandridae
+has_id_wikidata: Q319469
+dv_has_:
+  name_:
+    an: Salamandridae
+    ar: سمندرية
+    arz: سمندريه
+    ast: Salamandridae
+    be: саламандравыя
+    bg: саламандрови
+    br: Salamandridae
+    ca: Salamàndrid
+    ceb: Salamandridae
+    cs: mlokovití
+    cv: Чăн саламандрасем
+    da: Salamandridae
+    de: Echte Salamander
+    el: Σαλαμανδρίδες
+    en: Salamandridae
+    eo: Salamandredoj
+    es: Salamandridae
+    eu: Salamandridae
+    ext: Salamandridae
+    fa: سمندران
+    fi: Vesiliskot
+    fr: Salamandridae
+    frr: Salamandern
+    ga: Salamandridae
+    gl: Salamándridos
+    he: סלמנדריים
+    hu: szalamandrafélék
+    hy: սալամանդրներ
+    ia: Salamandridae
+    id: Salamandridae
+    ie: Salamandridae
+    io: Salamandridae
+    it: Salamandridae
+    ja: イモリ科
+    ka: სალამანდრისებრნი
+    kk: Нағыз саламандралар
+    ko: 영원과
+    ky: Саламандралар
+    la: Salamandridae
+    lt: Salamandriniai
+    lv: Salamandru dzimta
+    mul: Salamandridae
+    nb: Ekte salamandere
+    nl: echte salamanders
+    nv: Tsxilghááh dadichʼízhígíí dóó bikʼéí
+    oc: Salamandridae
+    pl: salamandrowate
+    pt: Salamandridae
+    pt-br: Salamandridae
+    ro: Salamandridae
+    ru: настоящие саламандры
+    sco: Salamandridae
+    sk: Salamandrovité
+    sl: pupki in močeradi
+    sq: Salamandridae
+    sv: Salamandrar
+    th: นิวต์
+    tr: Semendergiller
+    uk: саламандрові
+    vi: Kỳ giông
+    vls: Echte salamanders
+    vo: Salamandridae
+    war: Salamandridae
+    zh: 蝾螈科
+    zh-cn: 蝾螈科
+    zh-hans: 蝾螈科
+    zh-hant: 蠑螈科
+    zh-hk: 蠑螈科
+    zh-sg: 蝾螈科
+    zh-tw: 蠑螈科
 ---
-
 # [[Salamandridae]]
 
 ## Newts and \"True Salamanders\" 

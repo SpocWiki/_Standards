@@ -1,20 +1,132 @@
 ---
 aliases:
+- aanranding
+- Abuzuri sexuale
+- aggressione sessuale
+- Agresión sexual
+- agression sexuelle
+- agressió sexual
+- agressão sexual
+- Agresyon seksyèl
+- cinsel saldırı
+- cinsi təcavüz
+- ionsaí gnéasach
+- Jinsiy jinoyatlar
+- Kynferðislegt ofbeldi
+- midebun
+- napaść seksualna
+- Njaru jokkere enɗam
+- seksagreso
+- seksuelt overgrep
+- Seksuële oantaasting
+- Serangan seksual
+- Sexu eraso
+- sexual assault
+- sexuelle Nötigung
+- sexuální útok
+- spolni napad
+- Sulmi seksual
+- szexuális erőszak
+- tagadenn reizhel
+- tấn công tình dục
+- σεξουαλική επίθεση
+- Палавыя злачынствы
+- половые преступления
+- сексуални напад
+- статеві злочини
+- Սեռական հանցագործություններ
+- סעקסואלער אנפאל
+- תקיפה מינית
+- اعتداء جنسي
+- تعرض جنسی
+- جنسي بريد
+- جنسی حملہ
+- यौन आक्रमण
+- यौन हमला
+- लैंगिक अत्याचार
+- যৌন নিপীড়ন
+- การล่วงละเมิดทางเพศ
+- 性侵犯
+- 性的暴行
+- 성폭행
 has_id_wikidata: Q673281
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-health_specialty: "[[_Standards/WikiData/WD~emergency_medicine,2861470]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sex_crime,5801919]]"
-  - "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
-objects_of_occurrence_have_role: "[[_Standards/WikiData/WD~sexual_assault_victim,136385183]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~sexual_abuse,43414]]"
+- '[[_Standards/WikiData/WD~sex_crime,5801919]]'
+- '[[_Standards/WikiData/WD~sexual_intercourse,5873]]'
+objects_of_occurrence_have_role: '[[_Standards/WikiData/WD~sexual_assault_victim,136385183]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~sexual_abuse,43414]]'
 Commons_category: Sexual abuse
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sexual%20Assault%20Awareness%20Month%20in%20Afghanistan%20130331-A-VM825-100.jpg
 IPTC_NewsCode: mediatopic/20000085
 IMDb_keyword: sexual-assault
 Archive_of_Our_Own_tag: Sexual Assault
+dv_has_:
+  name_:
+    ar: اعتداء جنسي
+    ast: Agresión sexual
+    az: cinsi təcavüz
+    be: Палавыя злачынствы
+    be-tarask: палавыя злачынствы
+    bn: যৌন নিপীড়ন
+    br: tagadenn reizhel
+    ca: agressió sexual
+    cs: sexuální útok
+    de: sexuelle Nötigung
+    el: σεξουαλική επίθεση
+    en: sexual assault
+    eo: seksagreso
+    es: agresión sexual
+    eu: Sexu eraso
+    fa: تعرض جنسی
+    ff: Njaru jokkere enɗam
+    fr: agression sexuelle
+    fy: Seksuële oantaasting
+    ga: ionsaí gnéasach
+    gl: agresión sexual
+    he: תקיפה מינית
+    hi: यौन हमला
+    ht: Agresyon seksyèl
+    hu: szexuális erőszak
+    hy: Սեռական հանցագործություններ
+    id: Serangan seksual
+    is: Kynferðislegt ofbeldi
+    it: aggressione sessuale
+    ja: 性的暴行
+    ko: 성폭행
+    mr: लैंगिक अत्याचार
+    nb: seksuelt overgrep
+    ne: यौन आक्रमण
+    nl: aanranding
+    pl: napaść seksualna
+    ps: جنسي بريد
+    pt: agressão sexual
+    ro: Abuzuri sexuale
+    ru: половые преступления
+    sl: spolni napad
+    sq: Sulmi seksual
+    sr: сексуални напад
+    sr-ec: сексуални напад
+    szy: midebun
+    th: การล่วงละเมิดทางเพศ
+    tr: cinsel saldırı
+    uk: статеві злочини
+    ur: جنسی حملہ
+    uz: Jinsiy jinoyatlar
+    vi: tấn công tình dục
+    yi: סעקסואלער אנפאל
+    yue: 性侵犯
+    zh: 性侵犯
+    zh-cn: 性侵犯
+    zh-hans: 性侵犯
+    zh-hant: 性侵犯
+    zh-hk: 性侵犯
+    zh-mo: 性侵犯
+    zh-my: 性侵犯
+    zh-sg: 性侵犯
+    zh-tw: 性侵犯
 ---
-
 # [[Sexual_Assault]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sexual_assault,673281|WD~Sexual_assault,673281]]  

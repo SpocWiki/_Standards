@@ -1,48 +1,186 @@
 ---
 aliases:
+- radiaal
+- radiaan
+- radiaani
+- radian
+- radianas
+- radiani
+- radiano
+- Radiant
+- radiante
+- radianti
+- radijan
+- radiya
+- radián
+- radiána
+- radiāns
+- radno
+- radyan
+- radíanar
+- raidian
+- rajant
+- riedian
+- ακτίνιο
+- радіан
+- радијан
+- радиан
+- радыян
+- ռադիան
+- רדיאן
+- راديان
+- رادیان
+- ریڈین
+- ڕادیان
+- त्रिज्यी
+- रेडियन
+- রেডিয়ান
+- ਰੇਡੀਅਨ
+- ஆரையம்
+- రేడియన్
+- රේඩියනය
+- เรเดียน
+- གཞུ་ཚད།
+- რადიანი
+- ラジアン
+- 弧度
+- 라디안
 has_id_wikidata: Q33680
-measured_physical_quantity: "[[_Standards/WikiData/WD~angular_measure,1357788]]"
+measured_physical_quantity: '[[_Standards/WikiData/WD~angular_measure,1357788]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~dimensionless_unit,1618549]]"
-  - "[[_Standards/WikiData/WD~unit_of_plane_angle,13587321]]"
-  - "[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]"
-  - "[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]"
+- '[[_Standards/WikiData/WD~dimensionless_unit,1618549]]'
+- '[[_Standards/WikiData/WD~unit_of_plane_angle,13587321]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>angle in radians</mtext></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>length of arc</mtext></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></mfrac></mrow></mstyle></mrow></math>
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~deciradian,95948364]]"
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~deciradian,95948364]]'
 conversion_to_SI_unit: 1
 UCUM_code: rad
-OmegaWiki_Defined_Meaning: "340346"
+OmegaWiki_Defined_Meaning: 340346
 Commons_category: Radian
 IEV_number: 102-04-30
 UN_CEFACT_Common_Code: C81
 unit_symbol:
-  - рад
-  - rad
-  - рад
-  - rad
-  - rad
-  - rad
-  - rad
-  - rad
-  - rad
-  - рад
+- рад
+- rad
+- рад
+- rad
+- rad
+- rad
+- rad
+- rad
+- rad
+- рад
 in_defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>r</mi></mstyle></mrow></math>
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/1radian%20japanese.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Angle%20radian.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20arc%20radius-he.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Radiaal-Straal.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Radian%20-%20en.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/1radian%20japanese.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Angle%20radian.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20arc%20radius-he.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Radiaal-Straal.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Radian%20-%20en.svg
 video:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20radians.webm
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20radians%20tau.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20radians.webm
+- http://commons.wikimedia.org/wiki/Special:FilePath/Circle%20radians%20tau.gif
 Wolfram_Language_unit_code: '"Radians"'
 Unicode_character: ㎭
 Wikidata_SPARQL_query_equivalent: wd:Q33680 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+dv_has_:
+  name_:
+    af: radiaal
+    ar: راديان
+    ast: radián
+    az: radian
+    be: радыян
+    be-tarask: радыян
+    bg: радиан
+    bn: রেডিয়ান
+    bo: གཞུ་ཚད།
+    bs: radijan
+    ca: radian
+    ckb: ڕادیان
+    cs: radián
+    cv: радиан
+    cy: radian
+    da: radian
+    de: Radiant
+    el: ακτίνιο
+    en: radian
+    eo: radiano
+    es: radián
+    et: radiaan
+    eu: radian
+    fa: رادیان
+    fi: radiaani
+    fr: radian
+    ga: raidian
+    gan: 弧度
+    gl: radián
+    ha: radiya
+    he: רדיאן
+    hi: रेडियन
+    hr: radijan
+    hu: radián
+    hy: ռադիան
+    ia: radiano
+    id: radian
+    is: radíanar
+    it: radiante
+    ja: ラジアン
+    jam: riedian
+    jbo: radno
+    ka: რადიანი
+    kk: радиан
+    ko: 라디안
+    la: radian
+    lb: Radiant
+    lt: radianas
+    lv: radiāns
+    lzh: 弧度
+    mk: радијан
+    mn: радиан
+    mr: त्रिज्यी
+    ms: radian
+    mt: radian
+    nb: radian
+    ne: रेडियन
+    nl: radiaal
+    nn: radian
+    oc: radian
+    os: радиан
+    pa: ਰੇਡੀਅਨ
+    pl: radian
+    pms: rajant
+    pt: radiano
+    ro: radian
+    ru: радиан
+    scn: radianti
+    se: radiána
+    sh: radijan
+    si: රේඩියනය
+    sk: radián
+    sl: radian
+    smn: radiaan
+    sms: radiaan
+    sq: radiani
+    sr: радијан
+    sr-ec: радијан
+    sv: radian
+    ta: ஆரையம்
+    te: రేడియన్
+    tg: радиан
+    th: เรเดียน
+    tr: radyan
+    uk: радіан
+    ur: ریڈین
+    uz: radian
+    vi: radian
+    war: radian
+    wuu: 弧度
+    yue: 弧度
+    zh: 弧度
 ---
-
 # [[Radian]] 
 
 #is_a :: [[../SI-Unit]] 

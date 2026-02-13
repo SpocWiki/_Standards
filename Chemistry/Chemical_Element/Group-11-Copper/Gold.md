@@ -1,47 +1,216 @@
 ---
 aliases:
-  - Gold
-  - Aurum
+- airh
+- altın
+- amas
+- Ameh
+- aour
+- arany
+- ari
+- Au
+- auksas
+- auksos
+- aur
+- auro
+- Aurum
+- a̱na-a̱shong
+- balitok
+- bulawan
+- cōztic teōcuitlatl
+- dahab
+- deheb
+- dhahabu
+- emas
+- Emmas
+- gim
+- ginto
+- gintu
+- Goid
+- Gold
+- goldin
+- golli
+- goud
+- Gould
+- gowd
+- gowtu
+- gul
+- guld
+- gull
+- gullie
+- guol
+- gålle
+- gĭng
+- igolide
+- ijo lili nanpa 79
+- Jold
+- kim
+- kolle
+- koula
+- kuarepotiju
+- kuld
+- kuldu
+- kulta
+- kuulti
+- kåʹll
+- kîm
+- kōura
+- lo solji
+- lò
+- malamâ
+- manik kaviqsuaq
+- mas
+- meuih
+- ndarama
+- n̄ɩɣlɩm sika
+- oltin
+- or
+- ore
+- oro
+- oru
+- ouro
+- owr
+- quri
+- qızıl
+- Sahabu (Golide)
+- salima
+- salma
+- sona
+- tʋli lakna
+- ureɣ
+- urre
+- volamena
+- vàng
+- véhone-ma'kaata
+- warqee
+- wolo
+- wólo
+- wúrà
+- zelts
+- zern
+- zinare
+- zlato
+- zzaabu
+- zêr
+- złoto
+- òr
+- óola
+- ór
+- ôr
+- öo
+- χρυσός
+- алдын
+- алт
+- алтан
+- алтн
+- алтын
+- дошув
+- зар
+- зарни
+- зирня
+- злато
+- золата
+- золото
+- коалль
+- къизил
+- көмүс
+- месед
+- муси
+- сыгъзæрин
+- сырне
+- тилло
+- шӧртньӧ
+- шӧртньӹ
+- ылтăн
+- ոսկի
+- גאלד
+- זהב
+- ئالتۇن
+- امس
+- دهب
+- ذهب
+- زێڕ
+- سور زر
+- سون
+- سونا
+- سۄن
+- طلا
+- قیزیل
+- ܕܗܒܐ
+- औरियम
+- लुं
+- सुन
+- सुवर्णम्
+- सोना
+- सोने
+- সোণ
+- সোনা
+- ਸੋਨਾ
+- સોનું
+- ସୁନା
+- தங்கம்
+- బంగారం
+- ಚಿನ್ನ
+- ಬಂಗರ್
+- സ്വർണം
+- රන්
+- ทองคำ
+- ທອງຄຳ
+- གསེར།
+- ရွှေ
+- ორქო
+- ოქრო
+- ወርቅ
+- ᎠᏕᎸ ᏓᎶᏂᎨ
+- ᒎᓗ
+- មាស
+- ᠠᡳᠰᡳᠨ
+- ᱥᱚᱱᱟ
+- ⵓⵔⵖ
+- 金
+- ꙁлато
+- ꠡꠥꠘꠣ
+- ꯁꯅꯥ
+- 금
 has_id_wikidata: Q897
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Illegal%20Mining%2C%20Peru%2C%202017-01-20%20by%20Planet%20Labs.jpg
 atomic_number: 79
 boiling_point: 2940
-canonical_SMILES: "[Au]"
+canonical_SMILES: '[Au]'
 CAS_Registry_Number: 7440-57-5
 chemical_formula: Au
-color: "[[_Standards/WikiData/WD~gold,208045]]"
+color: '[[_Standards/WikiData/WD~gold,208045]]'
 Commons_category: Gold
 Commons_gallery: Gold
 CosIng_number: 32827
-crystal_system: "[[_Standards/WikiData/WD~cubic_crystal_system,473227]]"
+crystal_system: '[[_Standards/WikiData/WD~cubic_crystal_system,473227]]'
 density: 19.32
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]"
-  - "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
-  - "[[_Standards/WikiData/WD~Gold,84671735]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Gold,84671735]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Au,106901]]"
-  - "[[_Standards/WikiData/WD~Or,223822]]"
-  - "[[_Standards/WikiData/WD~Oro,226229]]"
-  - "[[_Standards/WikiData/WD~Gold,228391]]"
-  - "[[_Standards/WikiData/WD~Gull,243459]]"
-  - "[[_Standards/WikiData/WD~Mas,350082]]"
-  - "[[_Standards/WikiData/WD~Oru,355663]]"
-  - "[[_Standards/WikiData/WD~Ouro,1039080]]"
-  - "[[_Standards/WikiData/WD~Emas,1334908]]"
-  - "[[_Standards/WikiData/WD~Goud,2619585]]"
-  - "[[_Standards/WikiData/WD~Gowd,5590004]]"
-  - "[[_Standards/WikiData/WD~Vàng,9393441]]"
-  - "[[_Standards/WikiData/WD~Guld,18450732]]"
-  - "[[_Standards/WikiData/WD~Ginto,20554459]]"
-  - "[[_Standards/WikiData/WD~Złoto,28863780]]"
+- '[[_Standards/WikiData/WD~Au,106901]]'
+- '[[_Standards/WikiData/WD~Or,223822]]'
+- '[[_Standards/WikiData/WD~Oro,226229]]'
+- '[[_Standards/WikiData/WD~Gold,228391]]'
+- '[[_Standards/WikiData/WD~Gull,243459]]'
+- '[[_Standards/WikiData/WD~Mas,350082]]'
+- '[[_Standards/WikiData/WD~Oru,355663]]'
+- '[[_Standards/WikiData/WD~Ouro,1039080]]'
+- '[[_Standards/WikiData/WD~Emas,1334908]]'
+- '[[_Standards/WikiData/WD~Goud,2619585]]'
+- '[[_Standards/WikiData/WD~Gowd,5590004]]'
+- '[[_Standards/WikiData/WD~Vàng,9393441]]'
+- '[[_Standards/WikiData/WD~Guld,18450732]]'
+- '[[_Standards/WikiData/WD~Ginto,20554459]]'
+- '[[_Standards/WikiData/WD~Złoto,28863780]]'
 discoverer_or_inventor: http://www.wikidata.org/.well-known/genid/1a9eb9f7d2e410c81adc8f43484355f4
 DSSTOX_compound_identifier: DTXCID0047662
 EC_number: 231-165-9
@@ -53,40 +222,40 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg
 InChI: InChI=1S/Au
 InChIKey: PCHJSUWPFVWCPO-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~allergen,186752]]"
-  - "[[_Standards/WikiData/WD~precious_metal,271449]]"
-  - "[[_Standards/WikiData/WD~metallic_material,1924900]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~allergen,186752]]'
+- '[[_Standards/WikiData/WD~precious_metal,271449]]'
+- '[[_Standards/WikiData/WD~metallic_material,1924900]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.64
-  - 0.85
-  - 1.37
+- 0.64
+- 0.85
+- 1.37
 Krugosvet_article: nauka_i_tehnika/himiya/ZOLOTO.html
 mass: 196.96657
-medical_condition_treated: "[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]"
+medical_condition_treated: '[[_Standards/WikiData/WD~rheumatoid_arthritis,187255]]'
 melting_point: 1064.18
 MeSH_tree_code:
-  - D01.268.556.322
-  - D01.268.956.186
-  - D01.552.544.322
+- D01.268.556.322
+- D01.268.956.186
+- D01.552.544.322
 Mohs_hardness: 3
 OmegaWiki_Defined_Meaning: 5912
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
 OpenStreetMap_tag_or_key: Tag:resource=gold
 part_of:
-  - "[[_Standards/WikiData/WD~group_11,185870]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828621,22828621]]"
+- '[[_Standards/WikiData/WD~group_11,185870]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828621,22828621]]'
 Poisson_s_ratio: 0.4
 price: 47784.69
 PubChem_CID: 23985
 specific_heat_capacity: 129.1
 speed_of_sound: 2030
 SpocWebEntityId: 17995
-subclass_of: "[[_Standards/WikiData/WD~noble_metal,585302]]"
+subclass_of: '[[_Standards/WikiData/WD~noble_metal,585302]]'
 tensile_modulus_of_elasticity:
-  - 78
-  - 79
+- 78
+- 79
 thermal_conductivity: 318
 thermal_diffusivity: 127
 Thomson_Reuters_Business_Classification: 51201060
@@ -103,21 +272,288 @@ Wolfram_Language_entity_code: Entity["Mineral", "Gold"]
 ZVG_number: 8480
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Gold,897]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold|Gold]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public|Gold.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal|Gold.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect|Gold.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private|Gold.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal|Gold.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret|Gold.secret]]"
-  part_of: "[[../Group-11-Copper]]"
+  - '[[../../../WikiData/WD~Gold,897]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold|Gold]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public|Gold.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal|Gold.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect|Gold.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private|Gold.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal|Gold.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret|Gold.secret]]'
+  part_of: '[[../Group-11-Copper]]'
 dv_has_:
   name_:
-    group: Group-11-Copper
-    en: Gold
-    de: Gold
     abbreviated: Au
+    ace: meuih
+    af: goud
+    alt: алтын
+    am: ወርቅ
+    an: oro
+    ang: gold
+    anp: सोना
+    ar: ذهب
+    arc: ܕܗܒܐ
+    ary: دهب
+    arz: دهب
+    as: সোণ
+    ast: oru
+    av: месед
+    ay: quri
+    az: qızıl
+    azb: قیزیل
+    ba: алтын
+    ban: mas
+    bar: Goid
+    bcl: bulawan
+    be: золата
+    be-tarask: золата
+    bg: злато
+    bho: सोना
+    bjn: amas
+    bn: সোনা
+    bo: གསེར།
+    br: aour
+    bs: zlato
+    bxr: алтан
+    ca: or
+    cbk-zam: oro
+    cdo: gĭng
+    ceb: bulawan
+    ch: oru
+    cho: tʋli lakna
+    chr: ᎠᏕᎸ ᏓᎶᏂᎨ
+    chy: véhone-ma'kaata
+    ckb: زێڕ
+    co: oru
+    crh: altın
+    cs: zlato
+    csb: złoto
+    cu: ꙁлато
+    cv: ылтăн
+    cy: aur
+    da: guld
+    dag: salima
+    de: Gold
+    de-ch: Gold
+    dga: salma
+    diq: zern
+    dtp: amas
+    el: χρυσός
+    eml: òr
+    en: gold
+    eo: oro
+    es: oro
+    et: kuld
+    eu: urre
+    ext: oru
+    fa: طلا
+    fi: kulta
+    fj: koula
+    fo: gull
+    fr: or
+    frr: gul
+    fur: aur
+    fy: goud
+    ga: ór
+    gan: 金
+    gcr: lò
+    gd: òr
+    gl: ouro
+    gn: kuarepotiju
+    gpe: gold
+    group: Group-11-Copper
+    gsw: Gold
+    gu: સોનું
+    gv: airh
+    ha: zinare
+    hak: kîm
+    he: זהב
+    hi: सोना
+    hif: sona
+    hr: zlato
+    hsb: złoto
+    ht: lò
+    hu: arany
+    hy: ոսկի
+    hyw: ոսկի
+    ia: auro
+    iba: mas
+    id: emas
+    ik: manik kaviqsuaq
+    ilo: balitok
+    inh: дошув
+    io: oro
+    is: gull
+    it: oro
+    iu: ᒎᓗ
+    ja: 金
+    jam: guol
+    jbo: lo solji
+    jv: emas
+    ka: ოქრო
+    kaa: altın
+    kab: ureɣ
+    kbp: n̄ɩɣlɩm sika
+    kcg: a̱na-a̱shong
+    kg: wolo
+    ki: gold
+    kk: алтын
+    kl: kuulti
+    km: មាស
+    kn: ಚಿನ್ನ
+    ko: 금
+    koi: зарни
+    ks: سۄن
+    ksh: Jold
+    ku: zêr
+    kv: зарни
+    kw: owr
+    ky: алтын
+    la: aurum
+    lb: Gold
+    lbe: муси
+    lez: къизил
+    lfn: oro
+    lg: zzaabu
+    li: goud
+    lij: öo
+    lld: òr
+    lmo: or
+    ln: wólo
+    lo: ທອງຄຳ
+    lt: auksas
+    lv: zelts
+    lzh: 金
+    mad: Emmas
+    mai: सोना
+    mdf: зирня
+    mg: volamena
+    mhr: шӧртньӧ
+    mi: kōura
+    min: Ameh
+    mk: злато
+    ml: സ്വർണം
+    mn: алт
+    mnc: ᠠᡳᠰᡳᠨ
+    mni: ꯁꯅꯥ
+    mr: सोने
+    mrj: шӧртньӹ
+    ms: emas
+    ms-arab: امس
+    mt: deheb
+    mul: Au
+    mwl: ouro
+    my: ရွှေ
+    myv: сырне
+    nah: cōztic teōcuitlatl
+    nan: kim
+    nb: gull
+    nds: Gold
+    nds-nl: gold
+    ne: सुन
+    new: लुं
+    nl: goud
+    nn: gull
+    nov: ore
+    nrm: or
+    nv: óola
+    oc: aur
+    olo: kuldu
+    om: warqee
+    or: ସୁନା
+    os: сыгъзæрин
+    pa: ਸੋਨਾ
+    pam: gintu
+    pap: oro
+    pap-aw: oro
+    pi: औरियम
+    pl: złoto
+    pms: òr
+    pnb: سونا
+    ps: سور زر
+    pt: ouro
+    pt-br: ouro
+    qu: quri
+    rm: aur
+    ro: aur
+    ru: золото
+    rue: золото
+    rup: malamâ
+    sa: सुवर्णम्
+    sah: көмүс
+    sat: ᱥᱚᱱᱟ
+    sc: oro
+    scn: oru
+    sco: gowd
+    sd: سون
+    se: golli
+    sgs: auksos
+    sh: zlato
+    si: රන්
+    sjd: коалль
+    sk: zlato
+    sl: zlato
+    sma: gullie
+    smj: gålle
+    smn: kolle
+    sms: kåʹll
+    sn: ndarama
+    so: dahab
+    sq: ari
+    sr: злато
+    srn: gowtu
+    stq: Gould
+    su: emas
+    sv: guld
+    sw: dhahabu
+    syl: ꠡꠥꠘꠣ
+    ta: தங்கம்
+    tcy: ಬಂಗರ್
+    te: బంగారం
+    tg: зар
+    tg-cyrl: тилло
+    th: ทองคำ
+    tl: ginto
+    tok: ijo lili nanpa 79
+    tr: altın
+    tt: алтын
+    tum: Sahabu (Golide)
+    tyv: алдын
+    udm: зарни
+    ug: ئالتۇن
+    uk: золото
+    ur: سونا
+    uz: oltin
+    vec: oro
+    vep: kuld
+    vi: vàng
+    vo: goldin
+    vro: kuld
+    wa: ôr
+    war: bulawan
+    wuu: 金
+    xal: алтн
+    xh: igolide
+    xmf: ორქო
+    yi: גאלד
+    yo: wúrà
+    yue: 金
+    za: gim
+    zgh: ⵓⵔⵖ
+    zh: 金
+    zh-cn: 金
+    zh-hans: 金
+    zh-hant: 金
+    zh-hk: 金
+    zh-mo: 金
+    zh-my: 金
+    zh-sg: 金
+    zh-tw: 金
+    zu: igolide
+  number_of_:
+    period: 6
+    group: 11
+    electrons: 79
   value_for_:
     weight_:
       u: 196.9665
@@ -145,21 +581,17 @@ dv_has_:
       form_:
         kj_:
           mol: 334.4
-  number_of_:
-    period: 6
-    group: 11
-    electrons: 79
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Gold,897]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold|Gold]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public|Gold.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal|Gold.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect|Gold.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private|Gold.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal|Gold.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret|Gold.secret]]"
+- '[[../../../WikiData/WD~Gold,897]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Gold|Gold]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-11-Copper/Gold.public|Gold.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Gold.internal|Gold.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Gold.protect|Gold.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-11-Copper/Gold.private|Gold.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Gold.personal|Gold.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Gold.secret|Gold.secret]]'
 dv_has_name_group: Group-11-Copper
-dv_is_part_of: "[[../Group-11-Copper]]"
+dv_is_part_of: '[[../Group-11-Copper]]'
 dv_has_name_en: Gold
 dv_has_name_de: Gold
 dv_has_value_for_weight_u: 196.9665
@@ -180,7 +612,6 @@ dv_has_number_of_group: 11
 dv_has_name_abbreviated: Au
 dv_has_number_of_electrons: 79
 ---
-
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
 

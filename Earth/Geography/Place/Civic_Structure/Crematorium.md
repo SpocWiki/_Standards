@@ -1,53 +1,155 @@
 ---
 aliases:
-  - Crematorium
-  - is_a_crematorium
+- amlosgfa
+- crematori
+- crematorio
+- crematoriu
+- Crematorium
+- crematório
+- créamatóiriam
+- crématorium
+- is_a_crematorium
+- kadavrobruligejo
+- krematoorium
+- krematorie
+- krematoriija
+- krematorij
+- Krematorija
+- Krematorijum
+- krematorijume
+- krematorio
+- krematorium
+- Krematoriya
+- krematoryo
+- krematoryum
+- krematåvrrå
+- krematórium
+- lò hỏa táng
+- κρεματόριο
+- крематорій
+- крематоријум
+- крематорий
+- Крематориум
+- крэматорый
+- משרפה
+- مردهسوزخانه
+- مرمدة
+- शवदाहगृह
+- శ్మశానం
+- ฌาปนสถาน
+- သ္ၚိစၞံင်
+- კრემატორიუმი
+- 火葬场
+- 火葬場
+- 화장장
 has_id_wikidata: Q157570
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - crematorium
-layout: ""
+- crematorium
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_crematorium Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_crematorium Class
 type: Type
 dv_has_:
-  parent_class: "[[../CivicStructure]]"
-  properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  name_:
+    ar: مرمدة
+    az: Krematoriya
+    be: крэматорый
+    be-tarask: крэматорый
+    bg: Крематориум
+    ca: crematori
+    ceb: krematoryo
+    cs: krematorium
+    cy: amlosgfa
+    da: krematorie
+    de: Krematorium
+    el: κρεματόριο
+    en: crematorium
+    eo: kadavrobruligejo
+    es: crematorio
+    et: krematoorium
+    fa: مردهسوزخانه
+    fi: krematorio
+    fr: crématorium
+    ga: créamatóiriam
+    gl: crematorio
+    he: משרפה
+    hi: शवदाहगृह
+    hr: krematorij
+    hu: krematórium
+    it: crematorio
+    ja: 火葬場
+    ka: კრემატორიუმი
+    ko: 화장장
+    lv: Krematorija
+    mk: крематориум
+    mnw: သ္ၚိစၞံင်
+    nb: krematorium
+    nl: crematorium
+    nn: krematorium
+    pl: krematorium
+    pt: crematório
+    ro: crematoriu
+    ru: крематорий
+    se: krematoriija
+    sh: krematorij
+    sk: Krematórium
+    sl: krematorij
+    sma: krematorijume
+    smj: krematåvrrå
+    smn: krematorio
+    sms: krematorio
+    sr: крематоријум
+    sr-ec: Крематоријум
+    sr-el: Krematorijum
+    sv: krematorium
+    te: శ్మశానం
+    th: ฌาปนสถาน
+    tl: krematoryo
+    tr: krematoryum
+    uk: крематорій
+    vi: lò hỏa táng
+    yue: 火葬場
+    zh: 火葬場
+    zh-hans: 火葬场
+    zh-hant: 火葬場
+    zh-tw: 火葬場
+  parent_class: '[[../CivicStructure]]'
+  properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:
   same_as:
-    - "[[_Standards/WikiData/WD~crematorium,157570]]"
-    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]]"
-    - "[[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]]"
-    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Crematorium.protect|Crematorium.protect]]"
-    - "[[/_private/Earth/Geography/Place/Civic_Structure/Crematorium.private|Crematorium.private]]"
-    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal|Crematorium.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret|Crematorium.secret]]"
-dv_has_parent_class: "[[../CivicStructure]]"
-dv_has_properties: "[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]"
+  - '[[_Standards/WikiData/WD~crematorium,157570]]'
+  - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]]'
+  - '[[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]]'
+  - '[[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Civic_Structure/Crematorium.protect|Crematorium.protect]]'
+  - '[[/_private/Earth/Geography/Place/Civic_Structure/Crematorium.private|Crematorium.private]]'
+  - '[[/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal|Crematorium.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret|Crematorium.secret]]'
+dv_has_parent_class: '[[../CivicStructure]]'
+dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:
-  - "[[_Standards/WikiData/WD~crematorium,157570]]"
-  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]]"
-  - "[[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]]"
-  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Crematorium.protect|Crematorium.protect]]"
-  - "[[/_private/Earth/Geography/Place/Civic_Structure/Crematorium.private|Crematorium.private]]"
-  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal|Crematorium.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret|Crematorium.secret]]"
+- '[[_Standards/WikiData/WD~crematorium,157570]]'
+- '[[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]]'
+- '[[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]]'
+- '[[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]]'
+- '[[/_protect/Earth/Geography/Place/Civic_Structure/Crematorium.protect|Crematorium.protect]]'
+- '[[/_private/Earth/Geography/Place/Civic_Structure/Crematorium.private|Crematorium.private]]'
+- '[[/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal|Crematorium.personal]]'
+- '[[/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret|Crematorium.secret]]'
 ---
-
 # [[Crematorium]] 
 
 Class of all crematoriums.

@@ -1,4 +1,192 @@
-
+---
+has_id_wikidata: Q483889
+dv_has_:
+  name_:
+    af: Tibettaanse Boeddhisme
+    ar: بوذية تبتية
+    ast: Budismu tibetanu
+    az: Tibet buddizmi
+    ba: Тибет буддизмы
+    be: Тыбецкі будызм
+    be-tarask: тыбэцкі будызм
+    bg: Тибетски будизъм
+    bn: তিব্বতি বৌদ্ধধর্ম
+    bo: བོད་བརྒྱུད་ནང་བསྟན།
+    bs: Tibetanski budizam
+    ca: budisme tibetà
+    crh: Tibet buddizmi
+    crh-latn: Tibet buddizmi
+    cs: tibetský buddhismus
+    cy: Bwdhaeth Dibetaidd
+    da: Tibetansk buddhisme
+    de: Buddhismus in Tibet
+    diq: Budizmê Tibeti
+    el: Λαμαϊσμός
+    en: Tibetan Buddhism
+    en-ca: Tibetan Buddhism
+    en-gb: Tibetan Buddhism
+    eo: Tibeta budhismo
+    es: budismo tibetano
+    et: Tiibeti budism
+    eu: Tibetar budismo
+    fa: بودیسم تبتی
+    fi: tiibetinbuddhalaisuus
+    fr: bouddhisme tibétain
+    ga: Búdachas Tibéadach
+    gd: Budastachd Thibeiteach
+    gl: Budismo tibetano
+    gsw: Tibetische Buddhismus
+    he: בודהיזם טיבטי
+    hi: तिब्बती बौद्ध धर्म
+    hr: Tibetanski budizam
+    hu: tibeti buddhizmus
+    hy: Տիբեթական բուդդայականություն
+    hyw: Թիպեթական Պուտտայականութիւն
+    id: Buddhisme Tibet
+    is: Tíbetskur búddismi
+    it: buddismo tibetano
+    ja: チベット仏教
+    ka: ტიბეტური ბუდიზმი
+    kk: Тибет буддизмі
+    km: ព្រះពុទ្ធសាសនានៅទីបេ
+    ko: 티베트 불교
+    krj: Buddëdëmmë Tibetnën
+    ky: Ламаизм
+    la: Buddhismus Tibetanus
+    lad: Budizmo tibetano
+    lt: Lamaizmas
+    lv: lamaisms
+    mag: तिब्बती बौद्धधर्म
+    mg: Bodisma tibetana
+    mk: тибетски будизам
+    mn: Төвдийн Бурханы шашин
+    mr: तिबेटी बौद्ध धर्म
+    ms: Buddhisme Tibet
+    my: တိဗက်ဗုဒ္ဓဘာသာ
+    nan: Se-chōng Hu̍t-kàu
+    nb: tibetansk buddhisme
+    ne: तिब्बती बौद्ध धर्म
+    new: सें बौद्ध धर्मावलम्बी
+    nl: Tibetaans boeddhisme
+    or: ତିବ୍ବତୀ ବୌଦ୍ଧଧର୍ମ
+    os: тибетаг буддизм
+    pa: ਤਿਬਤੀ ਬੁੱਧ ਧਰਮ
+    pam: Buddadammang Tibetánu
+    pl: Buddyzm tybetański
+    pnb: تبتی بدھ دھرم
+    pt: budismo tibetano
+    pt-br: budismo centro-asiático
+    rm: Budissem tibetan
+    ro: budism tibetan
+    ru: тибетский буддизм
+    sco: Tibetan Buddhism
+    sh: Tibetanski budizam
+    sk: Tibetský budhizmus
+    sl: tibetanski budizem
+    sq: Budizmi tibetian
+    sr: тибетански будизам
+    sr-ec: Тибетански будизам
+    sr-el: Tibetanski budizam
+    sv: tibetansk buddhism
+    sw: Ubuddha wa kitibeti
+    ta: திபெத்திய பௌத்தம்
+    th: ศาสนาพุทธแบบทิเบต
+    tl: Tibetanong Budismo
+    tr: Tibet Budizmi
+    uk: тибетський буддизм
+    ur: تبتی بدھ مت
+    uz: Tibet Buddizmi
+    vi: Phật giáo Tây Tạng
+    wuu: 藏传佛教
+    yue: 藏傳佛教
+    zh: 藏傳佛教
+    zh-hans: 藏传佛教
+    zh-hant: 藏傳佛教
+    zh-hk: 藏傳佛教
+aliases:
+- Bodisma tibetana
+- bouddhisme tibétain
+- Budastachd Thibeiteach
+- Buddadammang Tibetánu
+- Buddhisme Tibet
+- Buddhismus in Tibet
+- Buddhismus Tibetanus
+- buddismo tibetano
+- Buddyzm tybetański
+- Buddëdëmmë Tibetnën
+- budism tibetan
+- budisme tibetà
+- budismo centro-asiático
+- budismo tibetano
+- Budismu tibetanu
+- Budissem tibetan
+- Budizmi tibetian
+- Budizmo tibetano
+- Budizmê Tibeti
+- Bwdhaeth Dibetaidd
+- Búdachas Tibéadach
+- lamaisms
+- Lamaizmas
+- Phật giáo Tây Tạng
+- Se-chōng Hu̍t-kàu
+- Tibet buddizmi
+- Tibet Budizmi
+- Tibeta budhismo
+- Tibetaans boeddhisme
+- Tibetan Buddhism
+- Tibetanong Budismo
+- tibetansk buddhism
+- Tibetansk buddhisme
+- Tibetanski budizam
+- tibetanski budizem
+- Tibetar budismo
+- tibeti buddhizmus
+- Tibetische Buddhismus
+- tibetský buddhismus
+- Tibetský budhizmus
+- Tibettaanse Boeddhisme
+- Tiibeti budism
+- tiibetinbuddhalaisuus
+- Tíbetskur búddismi
+- Ubuddha wa kitibeti
+- Λαμαϊσμός
+- Ламаизм
+- Тибет буддизмі
+- Тибет буддизмы
+- тибетаг буддизм
+- тибетански будизам
+- тибетски будизам
+- Тибетски будизъм
+- тибетский буддизм
+- тибетський буддизм
+- Тыбецкі будызм
+- тыбэцкі будызм
+- Төвдийн Бурханы шашин
+- Թիպեթական Պուտտայականութիւն
+- Տիբեթական բուդդայականություն
+- בודהיזם טיבטי
+- بودیسم تبتی
+- بوذية تبتية
+- تبتی بدھ دھرم
+- تبتی بدھ مت
+- तिबेटी बौद्ध धर्म
+- तिब्बती बौद्ध धर्म
+- तिब्बती बौद्धधर्म
+- सें बौद्ध धर्मावलम्बी
+- তিব্বতি বৌদ্ধধর্ম
+- ਤਿਬਤੀ ਬੁੱਧ ਧਰਮ
+- ତିବ୍ବତୀ ବୌଦ୍ଧଧର୍ମ
+- திபெத்திய பௌத்தம்
+- ศาสนาพุทธแบบทิเบต
+- བོད་བརྒྱུད་ནང་བསྟན།
+- တိဗက်ဗုဒ္ဓဘာသာ
+- ტიბეტური ბუდიზმი
+- ព្រះពុទ្ធសាសនានៅទីបេ
+- チベット仏教
+- 藏传佛教
+- 藏傳佛教
+- 티베트 불교
+---
 # [[Tibetan_Buddhism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tibetan_Buddhism,483889|WD~Tibetan_Buddhism,483889]]  

@@ -1,174 +1,293 @@
 ---
 aliases:
-  - Karol Józef Wojtyła
-  - John_Paul_II
-  - John Paul II
+- Baapscht John Paul II
+- Chuan-Pavlo II
+- Gioann Pàul II
+- Giovann Paol II
+- Giuvanni Paulu II
+- Giuànn Paul II
+- Giáo hoàng Gioan Phaolô II
+- Gáu-huòng Ioannes Paulus 2-sié
+- Huã Páulo II
+- II İoann Pavel
+- II Иоанн Павел
+- II. Johannes Paulus
+- II. János Pál pápa
+- Ioan Pawl II
+- Ioann Pavel II
+- Ioannes Paulus II
+- Iohannes Paulus 2ma
+- Iohannes Paulus II Pāpa
+- Ivan Pavao II.
+- jan Jowane Palu nanpa tu
+- Jan Pavel II.
+- Jan Paweł II
+- Jan Pawoł II.
+- Jan Pòl II
+- Janez Pavel II.
+- Jean-Paoul II
+- Jean-Paul 2
+- Jean-Paul II
+- Jean-Paul II.
+- Joan Pau II
+- Joan Paulo II.a
+- Joani Poło II
+- Johanes Paul II. (Paap)
+- Johannes Paavali II
+- Johannes Paul II
+- Johannes Paul II.
+- Johannes Paulo II
+- Johannes Paulus II
+- Johano Paŭlo la 2-a
+- John Paul II
+- John Paul na Biyu
+- John_Paul_II
+- Jonas Paulius II
+- Juan Pablo II
+- Juan Pawlu II
+- Juons Paulios II
+- Ján Pavol II.
+- Jóhannes Páll 2.
+- Jānis Pāvils II
+- Jůn Paul II
+- Karol Józef Wojtyła
+- Kau-fòng Ioannes Paulus 2-sṳ
+- Kàu-hông Ioannes Paulus 2-sè
+- Papa Giovanni Paolo II
+- Papa Gjon Pali II
+- Papa Ioan Paul al II-lea
+- Papa Ioannis Pavlu II
+- Papa Ivan Pavao II
+- Papa Joany Paoly II
+- Papa João Paulo II
+- Papa Juan Pablo II
+- Papa Yohane Paulo II
+- Papa Yûhena Pawlos II
+- Papa Ġwanni Pawlu II
+- Pape Giuànne Paule II
+- Pape John Paul II
+- Pape Zuan Pauli II
+- Paus Johannes Paulus II
+- Paus John Paul II
+- Paus Yohanes Paulus II
+- Pave Johannes Paul 2.
+- Pave Johannes Paul II
+- Pope John Paul II
+- Pous Johannes Paulus II
+- Pàpa Iain Pòl II
+- pàppa Gioàn Pòulo II
+- Pápa Eoin Pól II
+- Pápa Yoane Polo II
+- Påpe Djihan-På II
+- Xoán Paulo II
+- Xuan Pablu II
+- Yann-Baol II
+- Πάπας Ιωάννης Παύλος Β΄
+- Іван Павло II
+- Јован Павле II
+- Иоанн Павел II
+- Йоан Павел II
+- Папа Јован Павле II
+- Папа Йоан Павел ІІ.
+- Ян Павал II
+- Ян Павел II
+- Ҷон Пол II
+- Հովհաննես Պողոս II
+- יוחנן פאולוס השני
+- جان پال دوم
+- دویم پاپ ژان پل
+- يوحنا بولس التانى
+- يوحنا بولس الثاني
+- پاپ ژان پل دوم
+- پاپا جۆن پۆلی دووەم
+- پوپ جان پال دوم
+- ژان پل دوم
+- ܦܐܦܐ ܝܘܚܢܢ ܦܘܠܘܣ ܬܪܝܢܐ
+- जोन पाउल २
+- पोप जॉन पॉल दुसरा
+- पोप जॉन पॉल द्वितीय
+- পোপ দ্বিতীয় জন পল
+- திருத்தந்தை இரண்டாம் அருள் சின்னப்பர்
+- జాన్ పాల్ II
+- ಪೋಪ್ ಜಾನ್ ಪಾಲ್ II
+- ജോൺ പോൾ രണ്ടാമൻ മാർപ്പാപ്പ
+- දෙවන ජුවාම් පාවුළු පාප් වහන්සේ
+- สมเด็จพระสันตะปาปาจอห์น ปอลที่ 2
+- ပုပ်ရဟန်းမင်း ဒုတိယမြောက် ဂျွန်ပေါလ်
+- იოანე პავლე II
+- ፓፓ ዮዓነስ ፓውሉስ 2ኛ
+- សម្ដេចប៉ាបយ៉ូហានប៉ូលទី២
+- ヨハネ・パウロ2世
+- 教宗墙波二世
+- 若望·保祿二世
+- 若望保祿二世
+- 교황 요한 바오로 2세
 has_id_wikidata: Q989
 position_held:
-  - '[[_Standards/WikiData/WD~auxiliary_bishop,75178]]'
-  - '[[_Standards/WikiData/WD~titular_bishop,948657]]'
-  - '[[_Standards/WikiData/WD~San_Cesareo_in_Palatio,953302]]'
-  - '[[_Standards/WikiData/WD~Archbishop_of_Kraków,17375334]]'
-  - '[[_Standards/WikiData/WD~pope,19546]]'
-  - '[[_Standards/WikiData/WD~cardinal,45722]]'
+- '[[_Standards/WikiData/WD~auxiliary_bishop,75178]]'
+- '[[_Standards/WikiData/WD~titular_bishop,948657]]'
+- '[[_Standards/WikiData/WD~San_Cesareo_in_Palatio,953302]]'
+- '[[_Standards/WikiData/WD~Archbishop_of_Kraków,17375334]]'
+- '[[_Standards/WikiData/WD~pope,19546]]'
+- '[[_Standards/WikiData/WD~cardinal,45722]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Franz_König,78546]]'
-  - '[[_Standards/WikiData/WD~Stefan_Wyszyński,165522]]'
-  - '[[_Standards/WikiData/WD~Adam_Stefan_Sapieha,350963]]'
-  - '[[_Standards/WikiData/WD~Stanisław_Dziwisz,354306]]'
-  - '[[_Standards/WikiData/WD~Jan_Tyranowski,3161767]]'
-  - '[[_Standards/WikiData/WD~Anna_Teresa_Tymieniecka,4467048]]'
-  - '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
-  - '[[_Standards/WikiData/WD~Mary,345]]'
-  - '[[_Standards/WikiData/WD~Benedict_XVI,2494]]'
+- '[[_Standards/WikiData/WD~Franz_König,78546]]'
+- '[[_Standards/WikiData/WD~Stefan_Wyszyński,165522]]'
+- '[[_Standards/WikiData/WD~Adam_Stefan_Sapieha,350963]]'
+- '[[_Standards/WikiData/WD~Stanisław_Dziwisz,354306]]'
+- '[[_Standards/WikiData/WD~Jan_Tyranowski,3161767]]'
+- '[[_Standards/WikiData/WD~Anna_Teresa_Tymieniecka,4467048]]'
+- '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+- '[[_Standards/WikiData/WD~Mary,345]]'
+- '[[_Standards/WikiData/WD~Benedict_XVI,2494]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~author,482980]]'
-  - '[[_Standards/WikiData/WD~Catholic_bishop,611644]]'
-  - '[[_Standards/WikiData/WD~Latin_Catholic_priest,1469535]]'
-  - '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~transitional_deacon,7834465]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~latin_catholic_deacon,105169902]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~archbishop,49476]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~Catholic_bishop,611644]]'
+- '[[_Standards/WikiData/WD~Latin_Catholic_priest,1469535]]'
+- '[[_Standards/WikiData/WD~human_rights_activist,1476215]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~transitional_deacon,7834465]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~latin_catholic_deacon,105169902]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~archbishop,49476]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]'
-  - '[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]'
-  - '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Gregory_the_Great,946960]]'
-  - '[[_Standards/WikiData/WD~Order_of_Pius_IX,1423841]]'
-  - '[[_Standards/WikiData/WD~Order_of_Bethlehem,2004744]]'
-  - '[[_Standards/WikiData/WD~Armia_Krajowa_Cross,2566385]]'
-  - '[[_Standards/WikiData/WD~Robert_Schuman_Medal,7349636]]'
-  - '[[_Standards/WikiData/WD~Sternberg_Interfaith_Gold_Medallion,7611546]]'
-  - '[[_Standards/WikiData/WD~Śląski_Wawrzyn_Literacki,9395567]]'
-  - '[[_Standards/WikiData/WD~Order_Ecce_Homo,11798929]]'
-  - '[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]'
-  - '[[_Standards/WikiData/WD~Knight_of_St._Sylvester,16750686]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]'
-  - '[[_Standards/WikiData/WD~Gold_medal_of_Galicia,41152257]]'
-  - '[[_Standards/WikiData/WD~Order_of_Tomáš_Garrigue_Masaryk,_1st_class,42603870]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Warsaw,54182620]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Nieszawa,59588615]]'
-  - '[[_Standards/WikiData/WD~Aquinas_Medal,65010046]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Toruń,66809272]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Bydgoszcz,66809344]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Białystok,66809355]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Łódź,111512907]]'
-  - '[[_Standards/WikiData/WD~honorary_citizens_of_Łomża,135477179]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
+- '[[_Standards/WikiData/WD~Order_of_the_White_Eagle,84020]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Golden_Spur,93716]]'
+- '[[_Standards/WikiData/WD~Charlemagne_Prize,152337]]'
+- '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Gregory_the_Great,946960]]'
+- '[[_Standards/WikiData/WD~Order_of_Pius_IX,1423841]]'
+- '[[_Standards/WikiData/WD~Order_of_Bethlehem,2004744]]'
+- '[[_Standards/WikiData/WD~Armia_Krajowa_Cross,2566385]]'
+- '[[_Standards/WikiData/WD~Robert_Schuman_Medal,7349636]]'
+- '[[_Standards/WikiData/WD~Sternberg_Interfaith_Gold_Medallion,7611546]]'
+- '[[_Standards/WikiData/WD~Śląski_Wawrzyn_Literacki,9395567]]'
+- '[[_Standards/WikiData/WD~Order_Ecce_Homo,11798929]]'
+- '[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]'
+- '[[_Standards/WikiData/WD~Knight_of_St._Sylvester,16750686]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]'
+- '[[_Standards/WikiData/WD~Gold_medal_of_Galicia,41152257]]'
+- '[[_Standards/WikiData/WD~Order_of_Tomáš_Garrigue_Masaryk,_1st_class,42603870]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Warsaw,54182620]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Nieszawa,59588615]]'
+- '[[_Standards/WikiData/WD~Aquinas_Medal,65010046]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Toruń,66809272]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Bydgoszcz,66809344]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Białystok,66809355]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Łódź,111512907]]'
+- '[[_Standards/WikiData/WD~honorary_citizens_of_Łomża,135477179]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
 interested_in:
-  - '[[_Standards/WikiData/WD~skiing,130949]]'
-  - '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
-  - '[[_Standards/WikiData/WD~acting,222749]]'
-  - '[[_Standards/WikiData/WD~bicycle_touring,564606]]'
-  - '[[_Standards/WikiData/WD~recreational_mountaineering,3505012]]'
-  - '[[_Standards/WikiData/WD~ski_jumping,7718]]'
-  - '[[_Standards/WikiData/WD~tourism,49389]]'
+- '[[_Standards/WikiData/WD~skiing,130949]]'
+- '[[_Standards/WikiData/WD~canoeing_and_kayaking,213934]]'
+- '[[_Standards/WikiData/WD~acting,222749]]'
+- '[[_Standards/WikiData/WD~bicycle_touring,564606]]'
+- '[[_Standards/WikiData/WD~recreational_mountaineering,3505012]]'
+- '[[_Standards/WikiData/WD~ski_jumping,7718]]'
+- '[[_Standards/WikiData/WD~tourism,49389]]'
 military_branch: '[[_Standards/WikiData/WD~Armia_Krajowa,152529]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]'
-  - '[[_Standards/WikiData/WD~Pontifical_University_of_Saint_Thomas_Aquinas,246887]]'
-  - '[[_Standards/WikiData/WD~Theology_faculty_of_the_Jagiellonian_University,9379710]]'
+- '[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]'
+- '[[_Standards/WikiData/WD~Pontifical_University_of_Saint_Thomas_Aquinas,246887]]'
+- '[[_Standards/WikiData/WD~Theology_faculty_of_the_Jagiellonian_University,9379710]]'
 employer:
-  - '[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]'
-  - '[[_Standards/WikiData/WD~Jagiellonian_University,189441]]'
+- '[[_Standards/WikiData/WD~John_Paul_II_Catholic_University_of_Lublin,175529]]'
+- '[[_Standards/WikiData/WD~Jagiellonian_University,189441]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~sepsis,183134]]'
-  - '[[_Standards/WikiData/WD~senility,438971]]'
-  - "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
-  - '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~sepsis,183134]]'
+- '[[_Standards/WikiData/WD~senility,438971]]'
+- "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~funeral,201676]]'
-  - '[[_Standards/WikiData/WD~pastoral_visit,2056313]]'
-  - '[[_Standards/WikiData/WD~cardinalate_creation,20004056]]'
-  - '[[_Standards/WikiData/WD~episcopal_consecration_in_the_Roman_rite,40092973]]'
-  - '[[_Standards/WikiData/WD~priestly_ordination_in_the_Roman_rite,41463697]]'
-  - '[[_Standards/WikiData/WD~diaconal_ordination,41463713]]'
-  - '[[_Standards/WikiData/WD~beatification,51620]]'
-  - '[[_Standards/WikiData/WD~canonization,51621]]'
+- '[[_Standards/WikiData/WD~funeral,201676]]'
+- '[[_Standards/WikiData/WD~pastoral_visit,2056313]]'
+- '[[_Standards/WikiData/WD~cardinalate_creation,20004056]]'
+- '[[_Standards/WikiData/WD~episcopal_consecration_in_the_Roman_rite,40092973]]'
+- '[[_Standards/WikiData/WD~priestly_ordination_in_the_Roman_rite,41463697]]'
+- '[[_Standards/WikiData/WD~diaconal_ordination,41463713]]'
+- '[[_Standards/WikiData/WD~beatification,51620]]'
+- '[[_Standards/WikiData/WD~canonization,51621]]'
 place_of_birth: '[[_Standards/WikiData/WD~Wadowice,212856]]'
 consecrator: '[[_Standards/WikiData/WD~Eugeniusz_Baziak,953375]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Den_Store_Danske_Encyklopædi,1186818]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Wojtyla_segreto,59920205]]'
-  - "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Den_Store_Danske_Encyklopædi,1186818]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Wojtyla_segreto,59920205]]'
+- "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 participant_in:
-  - '[[_Standards/WikiData/WD~World_Youth_Day_1991,1428113]]'
-  - '[[_Standards/WikiData/WD~World_Youth_Day_1985,3765905]]'
+- '[[_Standards/WikiData/WD~World_Youth_Day_1991,1428113]]'
+- '[[_Standards/WikiData/WD~World_Youth_Day_1985,3765905]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Pontifical_Academy_of_Mary,1633152]]'
-  - '[[_Standards/WikiData/WD~Polskie_Towarzystwo_Turystyczno_Krajoznawcze,4994123]]'
+- '[[_Standards/WikiData/WD~Pontifical_Academy_of_Mary,1633152]]'
+- '[[_Standards/WikiData/WD~Polskie_Towarzystwo_Turystyczno_Krajoznawcze,4994123]]'
 motto: '[[_Standards/WikiData/WD~Totus_Tuus,1812603]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Divinity,1984623]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Niegowić,2001024]]'
-  - '[[_Standards/WikiData/WD~Zakrzówek,9386136]]'
-  - '[[_Standards/WikiData/WD~Borek_Fałȩcki,11688618]]'
-  - '[[_Standards/WikiData/WD~Kraków,31487]]'
-  - '[[_Standards/WikiData/WD~Rome,220]]'
-  - '[[_Standards/WikiData/WD~Vatican_City,237]]'
-  - '[[_Standards/WikiData/WD~Lublin,37333]]'
+- '[[_Standards/WikiData/WD~Niegowić,2001024]]'
+- '[[_Standards/WikiData/WD~Zakrzówek,9386136]]'
+- '[[_Standards/WikiData/WD~Borek_Fałȩcki,11688618]]'
+- '[[_Standards/WikiData/WD~Kraków,31487]]'
+- '[[_Standards/WikiData/WD~Rome,220]]'
+- '[[_Standards/WikiData/WD~Vatican_City,237]]'
+- '[[_Standards/WikiData/WD~Lublin,37333]]'
 father: '[[_Standards/WikiData/WD~Karol_Wojtyła,2085290]]'
 sibling: '[[_Standards/WikiData/WD~Edmund_Wojtyła,3505550]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 mother: '[[_Standards/WikiData/WD~Emilia_Wojtyła,5371654]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 present_in_work:
-  - '[[_Standards/WikiData/WD~Q9393313,9393313]]'
-  - '[[_Standards/WikiData/WD~Q115625658,115625658]]'
+- '[[_Standards/WikiData/WD~Q9393313,9393313]]'
+- '[[_Standards/WikiData/WD~Q115625658,115625658]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~scientific_writing,11818468]]'
-  - '[[_Standards/WikiData/WD~Petrine_ministry,116854526]]'
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~scientific_writing,11818468]]'
+- '[[_Standards/WikiData/WD~Petrine_ministry,116854526]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~drama,25372]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Władysław_Wicher,22298495]]'
 family_name: '[[_Standards/WikiData/WD~Wojtyła,56541347]]'
 given_name: '[[_Standards/WikiData/WD~Ioannes_Paulus,69242302]]'
 academic_thesis: '[[_Standards/WikiData/WD~Q116920566,116920566]]'
 canonization_status: '[[_Standards/WikiData/WD~canonized_saint,123110154]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Statue_of_John_Paul_II,125809481]]'
-  - '[[_Standards/WikiData/WD~Plaque_to_Ioannes_Paulus_II,126680352]]'
-  - '[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]'
-  - '[[_Standards/WikiData/WD~Statue_of_Pope_John_Paul_II,_Curitiba,136226131]]'
+- '[[_Standards/WikiData/WD~Statue_of_John_Paul_II,125809481]]'
+- '[[_Standards/WikiData/WD~Plaque_to_Ioannes_Paulus_II,126680352]]'
+- '[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]'
+- '[[_Standards/WikiData/WD~Statue_of_Pope_John_Paul_II,_Curitiba,136226131]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]'
-  - "[[_Standards/WikiData/WD~St._Peter's_Basilica,12512]]"
+- '[[_Standards/WikiData/WD~Tomb_of_John_Paul_II,126685441]]'
+- "[[_Standards/WikiData/WD~St._Peter's_Basilica,12512]]"
 writing_language:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Polish,809]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~French,150]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~Polish,809]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Portuguese,5146]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~Ukrainian,8798]]'
-  - '[[_Standards/WikiData/WD~Lithuanian,9083]]'
-  - '[[_Standards/WikiData/WD~Esperanto,143]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~Polish,809]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~Ukrainian,8798]]'
+- '[[_Standards/WikiData/WD~Lithuanian,9083]]'
+- '[[_Standards/WikiData/WD~Esperanto,143]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~Polish,809]]'
 ethnic_group: '[[_Standards/WikiData/WD~Poles,1026]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
-  - '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+- '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
 feast_day: '[[_Standards/WikiData/WD~October_22,2957]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -185,9 +304,9 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Vaticano%20si
 Libris_URI: jgvx0p4211vrrvz
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/IOANN_PAVEL_II.html
 pseudonym:
-  - Piotr Jasień
-  - Stanisław Andrzej Gruda
-  - Andrzej Jawień
+- Piotr Jasień
+- Stanisław Andrzej Gruda
+- Andrzej Jawień
 motto_text: Totus tuus
 last_words: Amen
 work_period_end_: 2005-01-01T00:00:00Z
@@ -200,9 +319,9 @@ date_of_birth: 1920-05-18T00:00:00Z
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Ioannes%20Paulus%20II.svg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/2013-08-20%20Tafel%20am%20Eingangstor%20des%20Turmhofs%2C%20Turmstra%C3%9Fe%2029-31%2C%20Bonn%20IMG%205067.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/It-Giovanni%20Paolo%20II.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Karol-J%C3%B3zef-Wojty%C5%82a.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Karol%20J%C3%B3zef%20Wojty%C5%82a.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/It-Giovanni%20Paolo%20II.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Karol-J%C3%B3zef-Wojty%C5%82a.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pl-Karol%20J%C3%B3zef%20Wojty%C5%82a.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pope%20John%20Paul%20II%20smile.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20John%20Paul%20II.svg
 official_website: http://www.vatican.va/holy_father/john_paul_ii/index.htm
@@ -211,8 +330,174 @@ ISNI: 0000000120981449
 Plex_person_key: 5d77684d103a2d001f56ca3a
 Europeana_entity: agent/base/171236
 Wolfram_Language_entity_code: Entity["Person", "PopeJohnPaulII::2v6d3"]
+dv_has_:
+  name_:
+    ace: Pope John Paul II
+    af: Pous Johannes Paulus II
+    am: ፓፓ ዮዓነስ ፓውሉስ 2ኛ
+    an: Chuan-Pavlo II
+    ang: Iohannes Paulus II Pāpa
+    ar: يوحنا بولس الثاني
+    arc: ܦܐܦܐ ܝܘܚܢܢ ܦܘܠܘܣ ܬܪܝܢܐ
+    arz: يوحنا بولس التانى
+    ast: Xuan Pablu II
+    ay: Juan Pawlu II
+    az: II İoann Pavel
+    bar: Johannes Paul II.
+    bcl: Papa Juan Pablo II
+    be: Ян Павел II
+    be-tarask: Ян Павал II
+    bg: Йоан Павел II
+    bn: পোপ দ্বিতীয় জন পল
+    br: Yann-Baol II
+    bs: Papa Ivan Pavao II
+    ca: Joan Pau II
+    cdo: Gáu-huòng Ioannes Paulus 2-sié
+    ceb: Juan Pablo II
+    ckb: پاپا جۆن پۆلی دووەم
+    cs: Jan Pavel II.
+    csb: Jan Paweł II
+    cy: Ioan Pawl II
+    da: Pave Johannes Paul 2.
+    de: Johannes Paul II.
+    de-at: Johannes Paul II.
+    de-ch: Johannes Paul II.
+    diq: Johannes Paulus II
+    dsb: Jan Pawoł II.
+    el: Πάπας Ιωάννης Παύλος Β΄
+    eml: Giuànn Paul II
+    en: John Paul II
+    en-ca: Pope John Paul II
+    en-gb: Pope John Paul II
+    en-us: John Paul II
+    eo: Johano Paŭlo la 2-a
+    es: Juan Pablo II
+    et: Johannes Paulus II
+    eu: Joan Paulo II.a
+    fa: ژان پل دوم
+    fi: Johannes Paavali II
+    fr: Jean-Paul II
+    frr: Johanes Paul II. (Paap)
+    fur: Pape Zuan Pauli II
+    fy: Johannes Paulus II
+    ga: Pápa Eoin Pól II
+    gd: Pàpa Iain Pòl II
+    gl: Xoán Paulo II
+    gn: Huã Páulo II
+    gom: Pope John Paul II
+    gsw: Johannes Paul II.
+    ha: John Paul na Biyu
+    hak: Kau-fòng Ioannes Paulus 2-sṳ
+    he: יוחנן פאולוס השני
+    hi: पोप जॉन पॉल द्वितीय
+    hr: Ivan Pavao II.
+    hsb: Jan Pawoł II.
+    ht: Jan Pòl II
+    hu: II. János Pál pápa
+    hy: Հովհաննես Պողոս II
+    ia: Johannes Paulo II
+    iba: Paus John Paul II
+    id: Paus Yohanes Paulus II
+    ie: Ioannes Paulus II
+    ig: Pope John Paul II
+    ilo: Papa Juan Pablo II
+    io: Iohannes Paulus 2ma
+    is: Jóhannes Páll 2.
+    it: Papa Giovanni Paolo II
+    ja: ヨハネ・パウロ2世
+    jv: Paus Yohanes Paulus II
+    ka: იოანე პავლე II
+    kbp: Jean-Paul 2
+    km: សម្ដេចប៉ាបយ៉ូហានប៉ូលទី២
+    kn: ಪೋಪ್ ಜಾನ್ ಪಾಲ್ II
+    ko: 교황 요한 바오로 2세
+    ksh: Johannes Paul II.
+    ku: Papa Yûhena Pawlos II
+    ku-latn: Papa Yûhena Pawlos II
+    ky: Иоанн Павел II
+    la: Ioannes Paulus II
+    lb: Jean-Paul II.
+    li: Johannes Paulus II
+    lij: pàppa Gioàn Pòulo II
+    lmo: Giovann Paol II
+    ln: Pápa Yoane Polo II
+    lt: Jonas Paulius II
+    lv: Jānis Pāvils II
+    mg: Papa Joany Paoly II
+    mk: Јован Павле II
+    ml: ജോൺ പോൾ രണ്ടാമൻ മാർപ്പാപ്പ
+    mn: II Иоанн Павел
+    mr: पोप जॉन पॉल दुसरा
+    ms: Paus John Paul II
+    mt: Papa Ġwanni Pawlu II
+    my: ပုပ်ရဟန်းမင်း ဒုတိယမြောက် ဂျွန်ပေါလ်
+    mzn: پاپ ژان پل دوم
+    nah: Ioannes Paulus II
+    nan: Kàu-hông Ioannes Paulus 2-sè
+    nap: Papa Giovanni Paolo II
+    nb: Johannes Paul II
+    nds: Johannes Paul II.
+    ne: जोन पाउल २
+    new: जोन पाउल २
+    nl: Paus Johannes Paulus II
+    nn: Pave Johannes Paul II
+    nrm: Jean-Paoul II
+    oc: Joan Pau II
+    pag: Pope John Paul II
+    pam: Papa Juan Pablo II
+    pdc: Baapscht John Paul II
+    pl: Jan Paweł II
+    pms: Gioann Pàul II
+    pnb: جان پال دوم
+    ps: دویم پاپ ژان پل
+    pt: Papa João Paulo II
+    pt-br: Papa João Paulo II
+    qu: Juan Pawlu II
+    ro: Papa Ioan Paul al II-lea
+    roa-tara: Pape Giuànne Paule II
+    ru: Иоанн Павел II
+    rue: Папа Йоан Павел ІІ.
+    rup: Papa Ioannis Pavlu II
+    sah: Иоанн Павел II
+    sc: Karol Józef Wojtyła
+    scn: Giuvanni Paulu II
+    sco: Pape John Paul II
+    sgs: Juons Paulios II
+    sh: Ivan Pavao II.
+    si: දෙවන ජුවාම් පාවුළු පාප් වහන්සේ
+    sk: Ján Pavol II.
+    sl: Janez Pavel II.
+    sq: Papa Gjon Pali II
+    sr: Папа Јован Павле II
+    sv: Johannes Paulus II
+    sw: Papa Yohane Paulo II
+    szl: Jůn Paul II
+    ta: திருத்தந்தை இரண்டாம் அருள் சின்னப்பர்
+    te: జాన్ పాల్ II
+    tg: Ҷон Пол II
+    th: สมเด็จพระสันตะปาปาจอห์น ปอลที่ 2
+    tl: Juan Pablo II
+    tok: jan Jowane Palu nanpa tu
+    tr: II. Johannes Paulus
+    tt: Иоанн Павел II
+    uk: Іван Павло II
+    ur: پوپ جان پال دوم
+    uz: Ioann Pavel II
+    vec: Joani Poło II
+    vi: Giáo hoàng Gioan Phaolô II
+    vls: Paus Johannes Paulus II
+    wa: Påpe Djihan-På II
+    war: Papa Juan Pablo II
+    wo: Pope John Paul II
+    wuu: 教宗墙波二世
+    yo: John Paul II
+    yue: 若望保祿二世
+    zh: 若望保祿二世
+    zh-cn: 若望·保祿二世
+    zh-hans: 若望·保祿二世
+    zh-hant: 若望·保祿二世
+    zh-tw: 若望·保祿二世
 ---
-
 # [[John_Paul_II]] 
 
 #is_/same_as :: [[WD~John_Paul_II,989]] 

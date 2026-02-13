@@ -1,9 +1,32 @@
 ---
 aliases:
-  - Ronnie_James_Dio
-  - Ronald James Padavona (July 10, 1942 – May 16, 2010), known professionally as Ronnie James Dio
-  - Dio,Ronnie_James
-  - Dio,Ronnie James
+- Dio,Ronnie James
+- Dio,Ronnie_James
+- Ronald James Padavona (July 10, 1942 – May 16, 2010), known professionally as Ronnie James Dio
+- Ronaldus Iacobus Padavona
+- Ronijs Džeimss Dio
+- Ronni Ceyms Dio
+- Ronnie James Dio
+- Ronnie_James_Dio
+- Ρόνι Τζέιμς Ντίο
+- Рoни Џејмс Дио
+- Роні Джэймз Дыё
+- Рони Џејмс Дио
+- Рони Джеймс Дио
+- Ронні Джеймс Діо
+- Ронни Джеймс Дио
+- Ռոնի Ջեյմս Դիո
+- רוני ג'יימס דיו
+- رانی جیمز دیو
+- رونى جيمس ديو
+- روني جيمس ديو
+- ਰੋਨੀ ਜੇਮਜ਼ ਡੀਓ
+- รอนนี เจมส์ ดิโอ
+- რონი ჯეიმზ დიო
+- ሮኒ ጄምስ ዲዮ
+- ロニー・ジェイムス・ディオ
+- 罗尼·詹姆斯·迪欧
+- 로니 제임스 디오
 has_id_wikidata: Q185151
 X_Twitter_username: OfficialRJDio
 Facebook_username: OfficialRonnieJamesDio
@@ -13,28 +36,28 @@ date_of_birth: 1942-07-10T00:00:00Z
 work_period_end_: 2010-01-01T00:00:00Z
 date_of_death: 2010-05-16T00:00:00Z
 genre:
-  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
-  - '[[_Standards/WikiData/WD~heavy_metal,38848]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~traditional_heavy_metal,1133657]]'
+- '[[_Standards/WikiData/WD~heavy_metal,38848]]'
 cause_of_death: '[[_Standards/WikiData/WD~stomach_cancer,189588]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Heaven_and_Hell,383462]]'
-  - '[[_Standards/WikiData/WD~Holy_Diver,579758]]'
-  - "[[_Standards/WikiData/WD~Ritchie_Blackmore's_Rainbow,906287]]"
-  - '[[_Standards/WikiData/WD~Trying_to_Burn_the_Sun,911758]]'
+- '[[_Standards/WikiData/WD~Heaven_and_Hell,383462]]'
+- '[[_Standards/WikiData/WD~Holy_Diver,579758]]'
+- "[[_Standards/WikiData/WD~Ritchie_Blackmore's_Rainbow,906287]]"
+- '[[_Standards/WikiData/WD~Trying_to_Burn_the_Sun,911758]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Dio,478750]]'
-  - '[[_Standards/WikiData/WD~Heaven_&_Hell,742626]]'
-  - '[[_Standards/WikiData/WD~Elf,832250]]'
-  - '[[_Standards/WikiData/WD~Rainbow,16005]]'
-  - '[[_Standards/WikiData/WD~Black_Sabbath,47670]]'
+- '[[_Standards/WikiData/WD~Dio,478750]]'
+- '[[_Standards/WikiData/WD~Heaven_&_Hell,742626]]'
+- '[[_Standards/WikiData/WD~Elf,832250]]'
+- '[[_Standards/WikiData/WD~Rainbow,16005]]'
+- '[[_Standards/WikiData/WD~Black_Sabbath,47670]]'
 given_name:
-  - '[[_Standards/WikiData/WD~James,677191]]'
-  - '[[_Standards/WikiData/WD~Ronald,2532287]]'
+- '[[_Standards/WikiData/WD~James,677191]]'
+- '[[_Standards/WikiData/WD~Ronald,2532287]]'
 occupation:
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~heavy_metal_singer,67200504]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~heavy_metal_singer,67200504]]'
 discography: '[[_Standards/WikiData/WD~Ronnie_James_Dio_discography,753187]]'
 copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1302545]]'
@@ -46,8 +69,8 @@ described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 family_name: '[[_Standards/WikiData/WD~Padavona,94090918]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Loretta_Berardi,109335483]]'
-  - '[[_Standards/WikiData/WD~Wendy_Walters,109335486]]'
+- '[[_Standards/WikiData/WD~Loretta_Berardi,109335483]]'
+- '[[_Standards/WikiData/WD~Wendy_Walters,109335486]]'
 child: '[[_Standards/WikiData/WD~Dan_Padavona,124398942]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 place_of_death: '[[_Standards/WikiData/WD~Houston,16555]]'
@@ -62,11 +85,83 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ronnie-James-Dio%20Hea
 official_website: http://www.ronniejamesdio.com
 ISNI: 0000000114707902
 IPI_name_number:
-  - 00023229122
-  - 00130309422
+- 00023229122
+- 00130309422
 Plex_person_key: 5d77682b8a7581001f12c40a
+dv_has_:
+  name_:
+    am: ሮኒ ጄምስ ዲዮ
+    an: Ronnie James Dio
+    ar: روني جيمس ديو
+    arz: رونى جيمس ديو
+    ast: Ronnie James Dio
+    az: Ronni Ceyms Dio
+    azb: رانی جیمز دیو
+    be-tarask: Роні Джэймз Дыё
+    bg: Рони Джеймс Дио
+    bs: Ronnie James Dio
+    ca: Ronnie James Dio
+    cs: Ronnie James Dio
+    cy: Ronnie James Dio
+    da: Ronnie James Dio
+    de: Ronnie James Dio
+    el: Ρόνι Τζέιμς Ντίο
+    eml: Ronnie James Dio
+    en: Ronnie James Dio
+    en-gb: Ronnie James Dio
+    eo: Ronnie James Dio
+    es: Ronnie James Dio
+    et: Ronnie James Dio
+    eu: Ronnie James Dio
+    fa: رانی جیمز دیو
+    fi: Ronnie James Dio
+    fr: Ronnie James Dio
+    fy: Ronnie James Dio
+    ga: Ronnie James Dio
+    gl: Ronnie James Dio
+    gsw: Ronnie James Dio
+    he: רוני ג'יימס דיו
+    hr: Ronnie James Dio
+    hu: Ronnie James Dio
+    hy: Ռոնի Ջեյմս Դիո
+    id: Ronnie James Dio
+    io: Ronnie James Dio
+    is: Ronnie James Dio
+    it: Ronnie James Dio
+    ja: ロニー・ジェイムス・ディオ
+    ka: რონი ჯეიმზ დიო
+    ko: 로니 제임스 디오
+    la: Ronaldus Iacobus Padavona
+    lv: Ronijs Džeimss Dio
+    mg: Ronnie James Dio
+    mk: Рони Џејмс Дио
+    nb: Ronnie James Dio
+    nl: Ronnie James Dio
+    nn: Ronnie James Dio
+    oc: Ronnie James Dio
+    pa: ਰੋਨੀ ਜੇਮਜ਼ ਡੀਓ
+    pl: Ronnie James Dio
+    pt: Ronnie James Dio
+    pt-br: Ronnie James Dio
+    ro: Ronnie James Dio
+    ru: Ронни Джеймс Дио
+    sco: Ronnie James Dio
+    sh: Ronnie James Dio
+    sk: Ronnie James Dio
+    sl: Ronnie James Dio
+    sq: Ronnie James Dio
+    sr: Рoни Џејмс Дио
+    sv: Ronnie James Dio
+    th: รอนนี เจมส์ ดิโอ
+    ti: ሮኒ ጄምስ ዲዮ
+    tr: Ronnie James Dio
+    uk: Ронні Джеймс Діо
+    vi: Ronnie James Dio
+    war: Ronnie James Dio
+    wuu: 罗尼·詹姆斯·迪欧
+    yue: Ronnie James Dio
+    zh: 罗尼·詹姆斯·迪欧
 ---
-
 # [[Dio,Ronnie_James]] 
 
 #is_/same_as :: [[WD~Ronnie_James_Dio,185151]] 

@@ -1,24 +1,93 @@
 ---
 aliases:
-  - Handwerk
-  - Craft
+- Alọnuzọnwiwa
+- amats
+- ambacht
+- ceird
+- Craft
+- crefft
+- handverk
+- Handwark
+- Handweak
+- Handwerk
+- Handwierk
+- Handwärk
+- hantverk
+- Hoonwerk
+- Hunarmandchilik
+- håndverk
+- håndværk
+- Kerajinan
+- käsityö
+- mastranza
+- meslek
+- mesterség
+- mestiere
+- Mestiero
+- mestiero artezanałe
+- mestièr
+- Mestî
+- metio
+- meșteșug
+- métier manuel
+- obrt
+- ofici
+- oficio
+- oficiu
+- ofício
+- ogibidea
+- omots
+- qol óneri
+- remeslo
+- rjemjesło
+- rzemiosło
+- Rzymiosło
+- sengħa
+- Tawuri
+- thủ công
+- zanat
+- Zanatstvo
+- zejtari
+- řemeslo
+- τεχνική
+- занает
+- занатство
+- Кол өнөрчүлүк
+- кәсеп
+- рамяство
+- ремесло
+- Қолөнер
+- Ҳунар
+- արհեստ
+- אומנות
+- פאך
+- حرفة
+- صنعتگری
+- مہارت
+- शिल्पकर्म
+- கைவினைக் கலைகள்
+- ශිල්ප
+- 工艺
+- 工芸
+- 工藝
+- 공예
 has_id_wikidata: Q2207288
 instance_of:
-  - '[[../../WikiData/WD~work,268378]]'
-  - '[[_Standards/WikiData/WD~economic_concept,29028649]]'
+- '[[../../WikiData/WD~work,268378]]'
+- '[[_Standards/WikiData/WD~economic_concept,29028649]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 subclass_of: '[[_Standards/WikiData/WD~field_of_work,627436]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~master_craftsman,1284709]]'
-  - '[[_Standards/WikiData/WD~artisan,1294787]]'
-  - '[[_Standards/WikiData/WD~skilled_trade,57260825]]'
+- '[[_Standards/WikiData/WD~master_craftsman,1284709]]'
+- '[[_Standards/WikiData/WD~artisan,1294787]]'
+- '[[_Standards/WikiData/WD~skilled_trade,57260825]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q1925615,1925615]]'
 uses: '[[_Standards/WikiData/WD~crafting,53178539]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~skilled_trade,57260825]]'
@@ -30,8 +99,100 @@ Commons_category: Crafts
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Velden%20Christkindlmarkt%20Schmied%20Demo%2016122007%2021.jpg
 subreddit: crafts
 Provenio_UUID: e32451f1-69d6-4b3e-8772-eab34fcdf352
+dv_has_:
+  name_:
+    ar: حرفة
+    ast: oficiu
+    ba: кәсеп
+    bar: Handweak
+    be: рамяство
+    be-tarask: рамяство
+    bs: zanat
+    ca: ofici
+    cs: řemeslo
+    cy: crefft
+    da: håndværk
+    de: Handwerk
+    de-ch: Handwerk
+    el: τεχνική
+    en: craft
+    en-ca: Craft
+    en-gb: craft
+    eo: metio
+    es: oficio
+    eu: ogibidea
+    fa: صنعتگری
+    fi: käsityö
+    fr: métier manuel
+    frr: Hoonwerk
+    fy: ambacht
+    ga: ceird
+    gan: 工藝
+    gl: oficio
+    gsw: Handwärk
+    guw: Alọnuzọnwiwa
+    he: אומנות
+    hi: शिल्पकर्म
+    hr: zanat
+    hsb: rjemjesło
+    hu: mesterség
+    hy: արհեստ
+    id: Kerajinan
+    io: Mestiero
+    is: Handverk
+    it: mestiere
+    ja: 工芸
+    kaa: qol óneri
+    kab: Tawuri
+    kk: Қолөнер
+    ko: 공예
+    ky: Кол өнөрчүлүк
+    lb: Handwierk
+    ltg: omots
+    lv: amats
+    mk: занает
+    mt: sengħa
+    nb: håndverk
+    nds: Handwark
+    nl: ambacht
+    nn: handverk
+    oc: mestièr
+    pl: rzemiosło
+    pt: ofício
+    ro: meșteșug
+    rsk: Ремесло
+    ru: ремесло
+    scn: mastranza
+    sco: craft
+    sh: Zanatstvo
+    si: ශිල්ප
+    sk: remeslo
+    sl: obrt
+    sq: zejtari
+    sr: занатство
+    sr-ec: занатство
+    sr-el: zanatstvo
+    sv: hantverk
+    szl: Rzymiosło
+    ta: கைவினைக் கலைகள்
+    tg: Ҳунар
+    tr: meslek
+    tt: кәсеп
+    tt-cyrl: кәсеп
+    uk: ремесло
+    ur: مہارت
+    uz: Hunarmandchilik
+    vec: mestiero artezanałe
+    vi: thủ công
+    wa: Mestî
+    yi: פאך
+    yue: 工藝
+    zh: 工艺
+    zh-cn: 工艺
+    zh-hans: 工艺
+    zh-hant: 工藝
+    zh-hk: 工藝
 ---
-
 # [[Craft]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~craft,2207288]]

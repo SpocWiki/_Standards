@@ -1,8 +1,111 @@
 ---
 aliases:
-  - diatonic scale
+- dermė
+- diatona gamo
+- diatonacht
+- diatonic
+- diatonic scale
+- Diatonická stupnica
+- Diatonická stupnice
+- diatoniek
+- Diatoniese toonleer
+- Diatonik
+- Diatonika
+- diatoniko
+- Diatonikus hangsor
+- diatoninen asteikko
+- Diatonisk skala
+- diatonična lestvica
+- Diatoonika
+- Diatónica
+- diatónico
+- Dïatonïka
+- Escala diatonica
+- escala diatònica
+- escala diatónica
+- escala diatônica
+- Gamă diatonică
+- scala diatonica
+- Skala diatoniczna
+- Tangga nada diatonik
+- Thang âm nguyên
+- échelle diatonique
+- Διατονική κλίμακα
+- діатоніка
+- диатоника
+- Դիատոնիկա
+- סולם דיאטוני
+- دىياتونىيكا
+- سلم طبيعي
+- گام دیاتونیک
+- প্রকৃত স্বরগ্রাম
+- დიატონიკა
+- 全音階
+- 自然音阶
+- 自然音階
+- 온음계
+has_id_wikidata: Q23702413
+dv_has_:
+  name_:
+    af: Diatoniese toonleer
+    ar: سلم طبيعي
+    bn: প্রকৃত স্বরগ্রাম
+    ca: escala diatònica
+    cs: Diatonická stupnice
+    da: Diatonisk skala
+    de: Diatonik
+    el: Διατονική κλίμακα
+    en: diatonic
+    en-ca: Diatonic scale
+    en-gb: diatonic scale
+    eo: diatona gamo
+    es: diatónico
+    et: Diatoonika
+    eu: diatoniko
+    fa: گام دیاتونیک
+    fi: diatoninen asteikko
+    fr: échelle diatonique
+    ga: diatonacht
+    gl: Diatónica
+    he: סולם דיאטוני
+    hu: Diatonikus hangsor
+    hy: Դիատոնիկա
+    id: Tangga nada diatonik
+    it: scala diatonica
+    ja: 全音階
+    jv: Tangga nada diatonik
+    ka: დიატონიკა
+    kk: Диатоника
+    kk-arab: دىياتونىيكا
+    kk-cn: دىياتونىيكا
+    kk-cyrl: Диатоника
+    kk-kz: Диатоника
+    kk-latn: Dïatonïka
+    kk-tr: Dïatonïka
+    ko: 온음계
+    ky: Диатоника
+    lt: dermė
+    lv: diatonika
+    nb: Diatonisk skala
+    nl: diatoniek
+    nn: Diatonisk skala
+    oc: Escala diatonica
+    pl: Skala diatoniczna
+    pt: escala diatónica
+    pt-br: escala diatônica
+    ro: Gamă diatonică
+    ru: диатоника
+    sk: Diatonická stupnica
+    sl: diatonična lestvica
+    sv: Diatonik
+    uk: діатоніка
+    uz: Diatonika
+    vi: Thang âm nguyên
+    wuu: 自然音阶
+    zh: 自然音阶
+    zh-cn: 自然音阶
+    zh-tw: 自然音階
 ---
-
 # [[Diatonic_Scale]] 
 
 ## #has_/text_of_/abstract 

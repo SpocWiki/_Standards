@@ -1,16 +1,92 @@
 ---
 aliases:
+- Aẓeṭṭa imetti
+- društveno umrežavanje
+- družbeno omrežje
+- ismeretségi hálózat
+- jejaring sosial
+- Mtandao wa pamoja
+- mạng lưới xã hội
+- Qutukawsay llika
+- rangkaian sosial
+- Rantoele di soçnaedje
+- red social
+- rede social
+- Redi social
+- Ret sociala
+- rete sociale
+- rete suciale
+- Rețea de socializare
+- rhwydweithio cymdeithasol ar-lein
+- Rouedad sokial
+- Rrjeti shoqëror
+- réseau social
+- sare sozial
+- sieć społeczna
+- socia reto
+- sociaal netwerk
+- social network
+- Sociala neto
+- Socialine verk
+- socialt netværk
+- socialt nätverk
+- Socijalna mreža
+- sociálna sieť
+- sociální síť
+- sociālie tīkli
+- sosiaalinen verkosto
+- sosiaallâš viärmádâh
+- sosiaalʼlaž säiʹmm
+- Sosial şəbəkə
+- sosialt nettverk
+- sosiála fierpmádat
+- Sosyal ağ
+- sotsiaalne võrgustik
+- sotsial' çeltär
+- Soziale Netzweak-Portale
+- soziales Netzwerk
+- Sozials Netzwärch
+- Tambajotra sôsialy
+- Tora civakî (civaknasî)
+- tūhononga ā-ngahau
+- xarxes socials
+- κοινωνικό δίκτυο
+- друштвена мрежа
+- Олон нийттэй харилцах сүлжээ
+- сацыяльная сетка
+- соціальна мережа
+- Социална мрежа
+- социаль челтәр
+- социальная сеть
+- шабакаи иҷтимоӣ
+- Әлеуметтік желілер
+- Ընկերային Ցանց
+- Սոցիալական ցանց
+- רשת חברתית
+- تۆڕی کۆمەڵایەتی
+- سماجی روابط
+- شبكة اجتماعية
+- شبکه اجتماعی
+- सामाजिक जालक्रम
+- सोशल नेटवर्क सेवा
+- সামাজিক জালব্যবস্থা
+- சமூக வலைத் தளம்
+- เครือข่ายสังคม
+- ソーシャル・ネットワーク
+- 社会网络
+- 社會網絡
+- 소셜 네트워크
 has_id_wikidata: Q2715623
-facet_of: "[[_Standards/WikiData/WD~organizational_theory,149584]]"
+facet_of: '[[_Standards/WikiData/WD~organizational_theory,149584]]'
 different_from:
-  - "[[_Standards/WikiData/WD~social_media,202833]]"
-  - "[[_Standards/WikiData/WD~social_networking_service,3220391]]"
-  - "[[_Standards/WikiData/WD~social_networking,19368491]]"
+- '[[_Standards/WikiData/WD~social_media,202833]]'
+- '[[_Standards/WikiData/WD~social_networking_service,3220391]]'
+- '[[_Standards/WikiData/WD~social_networking,19368491]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_structure,211606]]"
-  - "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
-studied_by: "[[_Standards/WikiData/WD~social_network_analysis,7551269]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Social_networking,19304784]]"
+- '[[_Standards/WikiData/WD~social_structure,211606]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+studied_by: '[[_Standards/WikiData/WD~social_network_analysis,7551269]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_networking,19304784]]'
 DPLA_subject_term: Social networks
 Commons_category: Social networks
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Moreno%20Sociogram%202nd%20Grade.png
@@ -21,8 +97,100 @@ IEV_number: 171-09-11
 UMLS_CUI: C0150775
 Library_of_Congress_Classification: HM741
 MeSH_tree_code: L01.143.910
+dv_has_:
+  name_:
+    ar: شبكة اجتماعية
+    ast: Rede social
+    az: Sosial şəbəkə
+    bar: Soziale Netzweak-Portale
+    be: сацыяльная сетка
+    be-tarask: сацыяльная сетка
+    bg: Социална мрежа
+    bn: সামাজিক জালব্যবস্থা
+    br: Rouedad sokial
+    ca: xarxes socials
+    ckb: تۆڕی کۆمەڵایەتی
+    co: rete suciale
+    cs: sociální síť
+    cy: rhwydweithio cymdeithasol ar-lein
+    da: socialt netværk
+    de: soziales Netzwerk
+    de-ch: Soziales Netzwerk
+    el: κοινωνικό δίκτυο
+    en: social network
+    en-ca: social network
+    en-gb: social network
+    eo: socia reto
+    es: red social
+    et: sotsiaalne võrgustik
+    eu: sare sozial
+    ext: Redi social
+    fa: شبکه اجتماعی
+    fi: sosiaalinen verkosto
+    fr: réseau social
+    gl: Rede social
+    gsw: Sozials Netzwärch
+    he: רשת חברתית
+    hi: सामाजिक जालक्रम
+    hr: društveno umrežavanje
+    hu: ismeretségi hálózat
+    hy: Սոցիալական ցանց
+    hyw: Ընկերային Ցանց
+    id: jejaring sosial
+    io: Sociala neto
+    it: rete sociale
+    ja: ソーシャル・ネットワーク
+    kab: Aẓeṭṭa imetti
+    kk: Әлеуметтік желілер
+    ko: 소셜 네트워크
+    ku: Tora civakî (civaknasî)
+    lv: sociālie tīkli
+    mg: Tambajotra sôsialy
+    mi: tūhononga ā-ngahau
+    mk: друштвена мрежа
+    mn: Олон нийттэй харилцах сүлжээ
+    mr: सोशल नेटवर्क सेवा
+    ms: rangkaian sosial
+    nb: sosialt nettverk
+    nl: sociaal netwerk
+    nn: Sosialt nettverk
+    oc: Ret sociala
+    pl: sieć społeczna
+    pt: rede social
+    pt-br: rede social
+    qu: Qutukawsay llika
+    ro: Rețea de socializare
+    ru: социальная сеть
+    se: sosiála fierpmádat
+    sh: Socijalna mreža
+    sk: sociálna sieť
+    sl: družbeno omrežje
+    smn: sosiaallâš viärmádâh
+    sms: sosiaalʼlaž säiʹmm
+    sq: Rrjeti shoqëror
+    sr: друштвена мрежа
+    sv: socialt nätverk
+    sw: Mtandao wa pamoja
+    ta: சமூக வலைத் தளம்
+    tg: шабакаи иҷтимоӣ
+    th: เครือข่ายสังคม
+    tl: Social network
+    tr: Sosyal ağ
+    tt: социаль челтәр
+    tt-cyrl: социаль челтәр
+    tt-latn: sotsial' çeltär
+    uk: соціальна мережа
+    ur: سماجی روابط
+    vep: Socialine verk
+    vi: mạng lưới xã hội
+    wa: Rantoele di soçnaedje
+    wuu: 社会网络
+    yue: 社會網絡
+    zh: 社会网络
+    zh-cn: 社会网络
+    zh-hans: 社会网络
+    zh-hant: 社會網絡
 ---
-
 # [[Social_Network]]  
 
 #is_/same_as :: [[WD~Social_network,2715623]] 

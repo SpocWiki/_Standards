@@ -1,24 +1,87 @@
 ---
 aliases:
-  - petroleum industry
-  - oil industry
-  - Oil_Industry
-  - Oil Industry
+- công nghiệp dầu khí
+- industri perminyakan
+- Industri petroleum
+- industria di petroli
+- industria do petróleo
+- Industria e naftës së papërpunuar
+- industria petrolera
+- industria petrolieră
+- industria petrolifera
+- industrie pétrolière
+- indústria del petroli
+- indústria do petróleo
+- naftas pārstrāde
+- naftatööstus
+- naftna industrija
+- naftos pramonė
+- neft sanaatı
+- Neft sanoati
+- neft sənayesi
+- oil industry
+- Oil_Industry
+- olajipar
+- olie-industrie
+- olieindustri
+- oljeindustri
+- oljoindustriija
+- oljoráhtulâšvuotâ
+- petrochemický průmysl
+- petrol endüstrisi
+- petroleum industry
+- petroleumsindustri
+- petroleumsverksemd
+- petrolindustrio
+- petrolioaren industria
+- petrolium
+- przemysł petrochemiczny
+- Pëtrolsindustrie
+- Ölindustrie
+- öljyteollisuus
+- βιομηχανία πετρελαίου
+- мұнай өнеркәсібі
+- нафтавая прамысловасць
+- нафтавая прамысловасьць
+- нафтена индустрија
+- нафтна индустрија
+- нафтова промисловість
+- нефтопреработвателна промишленост
+- нефть сәнәгате
+- нефть өнөр жайы
+- нефтяная промышленность
+- санъати нафт
+- նավթարդյունաբերություն
+- תעשיית הנפט
+- صناعة نفطية
+- صنعت نفت
+- पेट्रोलियम उद्योग
+- পেট্ৰ’লিয়াম উদ্যোগ
+- நில எண்ணெய் தொழிற்சாலை
+- อุตสาหกรรมปิโตรเลียม
+- ရေနံလုပ်ငန်း
+- 石油业
+- 石油产业
+- 石油工业
+- 石油業
+- 石油產業
+- 石油産業
+- 석유 산업
 has_id_wikidata: Q862571
 has_part_s_:
-  - '[[_Standards/WikiData/WD~oil_field,211748]]'
-  - '[[_Standards/WikiData/WD~hydrocarbon_exploration,3241434]]'
-  - '[[_Standards/WikiData/WD~oil_production_plant,7081437]]'
-  - '[[_Standards/WikiData/WD~oil_refinery,12353044]]'
-  - '[[_Standards/WikiData/WD~oil_company,14941854]]'
+- '[[_Standards/WikiData/WD~oil_field,211748]]'
+- '[[_Standards/WikiData/WD~hydrocarbon_exploration,3241434]]'
+- '[[_Standards/WikiData/WD~oil_production_plant,7081437]]'
+- '[[_Standards/WikiData/WD~oil_refinery,12353044]]'
+- '[[_Standards/WikiData/WD~oil_company,14941854]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~fuel_oil,214199]]'
-  - '[[_Standards/WikiData/WD~crude_oil,3412078]]'
+- '[[_Standards/WikiData/WD~fuel_oil,214199]]'
+- '[[_Standards/WikiData/WD~crude_oil,3412078]]'
 instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 part_of: '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084]]'
-  - '[[_Standards/WikiData/WD~extractive_industry,12101591]]'
+- '[[_Standards/WikiData/WD~petroleum_gas_industry,4318084]]'
+- '[[_Standards/WikiData/WD~extractive_industry,12101591]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Petroleum_industry,13534800]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~manufacture_of_refined_petroleum_products,29585145]]'
@@ -30,8 +93,82 @@ Library_of_Congress_Classification: HD9560-HD9580
 MeSH_tree_code: J01.576.655.875.750
 Commons_category: Petroleum industry
 OpenStreetMap_tag: industrial=oil
+dv_has_:
+  name_:
+    ar: صناعة نفطية
+    as: পেট্ৰ’লিয়াম উদ্যোগ
+    az: neft sənayesi
+    be: нафтавая прамысловасць
+    be-tarask: нафтавая прамысловасьць
+    bg: нефтопреработвателна промишленост
+    ca: indústria del petroli
+    cs: petrochemický průmysl
+    da: olieindustri
+    de: Ölindustrie
+    el: βιομηχανία πετρελαίου
+    en: petroleum industry
+    en-ca: petroleum industry
+    en-gb: petroleum industry
+    eo: petrolindustrio
+    es: industria petrolera
+    et: naftatööstus
+    eu: petrolioaren industria
+    fa: صنعت نفت
+    fi: öljyteollisuus
+    fr: industrie pétrolière
+    gl: industria do petróleo
+    he: תעשיית הנפט
+    hi: पेट्रोलियम उद्योग
+    hu: olajipar
+    hy: նավթարդյունաբերություն
+    id: industri perminyakan
+    it: industria petrolifera
+    ja: 石油産業
+    kaa: neft sanaatı
+    kk: мұнай өнеркәсібі
+    ko: 석유 산업
+    ky: нефть өнөр жайы
+    lb: Pëtrolsindustrie
+    lt: naftos pramonė
+    lv: naftas pārstrāde
+    mk: нафтена индустрија
+    mr: पेट्रोलियम उद्योग
+    ms: Industri petroleum
+    my: ရေနံလုပ်ငန်း
+    nb: petroleumsindustri
+    nl: olie-industrie
+    nn: petroleumsverksemd
+    pap: industria di petroli
+    pl: przemysł petrochemiczny
+    pt: indústria do petróleo
+    pt-br: indústria do petróleo
+    ro: industria petrolieră
+    ru: нефтяная промышленность
+    sco: petroleum industry
+    se: oljoindustriija
+    sh: naftna industrija
+    sl: naftna industrija
+    smn: oljoráhtulâšvuotâ
+    sq: Industria e naftës së papërpunuar
+    sr: нафтна индустрија
+    sr-ec: нафтна индустрија
+    sr-el: naftna industrija
+    sv: oljeindustri
+    ta: நில எண்ணெய் தொழிற்சாலை
+    te: petrolium
+    tg: санъати нафт
+    th: อุตสาหกรรมปิโตรเลียม
+    tr: petrol endüstrisi
+    tt: нефть сәнәгате
+    uk: нафтова промисловість
+    uz: Neft sanoati
+    vi: công nghiệp dầu khí
+    yue: 石油產業
+    zh: 石油产业
+    zh-cn: 石油工业
+    zh-hans: 石油业
+    zh-hant: 石油業
 ---
-
 # [[Oil_Industry]]
 
 #is_/same_as :: [[_Standards/WikiData/WD~petroleum_industry,862571]]

@@ -1,9 +1,71 @@
 ---
 aliases:
-  - Paul Stanley
-  - Stanley,Paul
+- Paul Stanley
+- Stanley,Paul
+- Пол Стенлі
+- Пол Стенли
+- Пол Стэнли
+- Փոլ Սթենլի
+- פול סטנלי
+- باول ستانلى
+- باول ستانلي
+- پال استنلی
+- ポール・スタンリー
+- 保羅·史丹利
+- 폴 스탠리
+has_id_wikidata: Q295542
+dv_has_:
+  name_:
+    ar: باول ستانلي
+    arz: باول ستانلى
+    ast: Paul Stanley
+    azb: پال استنلی
+    bg: Пол Стенли
+    ca: Paul Stanley
+    cs: Paul Stanley
+    cy: Paul Stanley
+    da: Paul Stanley
+    dag: Paul Stanley
+    de: Paul Stanley
+    eml: Paul Stanley
+    en: Paul Stanley
+    en-ca: Paul Stanley
+    en-gb: Paul Stanley
+    es: Paul Stanley
+    eu: Paul Stanley
+    fa: پال استنلی
+    fi: Paul Stanley
+    fr: Paul Stanley
+    ga: Paul Stanley
+    he: פול סטנלי
+    hr: Paul Stanley
+    hu: Paul Stanley
+    hy: Փոլ Սթենլի
+    id: Paul Stanley
+    is: Paul Stanley
+    it: Paul Stanley
+    ja: ポール・スタンリー
+    ko: 폴 스탠리
+    mk: Пол Стенли
+    mul: Paul Stanley
+    nb: Paul Stanley
+    nl: Paul Stanley
+    nn: Paul Stanley
+    pap: Paul Stanley
+    pl: Paul Stanley
+    pt: Paul Stanley
+    pt-br: Paul Stanley
+    ru: Пол Стэнли
+    sh: Paul Stanley
+    sk: Paul Stanley
+    sl: Paul Stanley
+    sq: Paul Stanley
+    sr: Пол Стенли
+    sv: Paul Stanley
+    tr: Paul Stanley
+    uk: Пол Стенлі
+    zh: 保羅·史丹利
 ---
-
 #has_/time_/started :: 1952-01-20 
 
 > **Paul Stanley** (born Stanley Bert Eisen; 1952-01-20) is an American musician 

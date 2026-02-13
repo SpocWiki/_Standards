@@ -1,4 +1,95 @@
-
+---
+has_id_wikidata: Q912522
+dv_has_:
+  name_:
+    ak: Bese
+    ar: جوزة الكولة
+    arz: جوز كولا goz kola=kola nuts
+    be-tarask: кола
+    ca: Cola nitida
+    da: Kola-slægten
+    dag: Guli
+    de: Kolanuss
+    el: καρπός κόλα
+    en: kola nut
+    eo: kolanukso
+    es: nuez de kola
+    eu: Kola-hur
+    fa: دانه کولا
+    fi: Kolapähkinä
+    fr: noix de kola
+    ga: cóla
+    gl: noz de cola
+    gur: Gorɛ
+    he: אגוז הקולה
+    hu: kóladió
+    ig: Ojị
+    io: Kolao
+    it: noce di cola
+    ja: コーラ・ナッツ
+    jv: Kacang kola
+    mos: Guure
+    ms: Kacang kola
+    nl: kolanoot
+    nn: Kolanøtt
+    pl: orzech kola
+    pt: noz-de-cola
+    ru: орех кола
+    sg: Gôro
+    sk: Kolový oriešok
+    sv: kolanöt
+    th: โคล่า
+    tr: Kola fındığı
+    tt: кола
+    uk: Горіх кола
+    ur: کولا بیچ
+    uz: Kola yong'og'i
+    vi: Hạt côla
+    zh: 可樂堅果
+aliases:
+- Bese
+- Cola nitida
+- cóla
+- Gorɛ
+- Guli
+- Guure
+- Gôro
+- Hạt côla
+- Kacang kola
+- Kola fındığı
+- kola nut
+- Kola yong'og'i
+- Kola-hur
+- Kola-slægten
+- kolanoot
+- kolanukso
+- Kolanuss
+- kolanöt
+- Kolanøtt
+- Kolao
+- Kolapähkinä
+- Kolový oriešok
+- kóladió
+- noce di cola
+- noix de kola
+- noz de cola
+- noz-de-cola
+- nuez de kola
+- Ojị
+- orzech kola
+- καρπός κόλα
+- Горіх кола
+- кола
+- орех кола
+- אגוז הקולה
+- جوز كولا goz kola=kola nuts
+- جوزة الكولة
+- دانه کولا
+- کولا بیچ
+- โคล่า
+- コーラ・ナッツ
+- 可樂堅果
+---
 ## #has_/text_of_/abstract 
 
 > The kola nut ([[Yoruba]]: obi, Dagbani: guli, Hausa: goro, Igbo: ọjị, Sängö: gôro, Swahili: mukezu) 

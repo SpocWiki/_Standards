@@ -1,32 +1,141 @@
 ---
 aliases:
+- Cothromóid Navier-Stokes
+- Ecuaciones de Navier-Stokes
+- Ecuacións de Navier-Stokes
+- Ecuațiile Navier-Stokes
+- ekvacioj de Navier-Stokes
+- Equacions de Navier-Stokes
+- Equassion ëd Navier-Stokes
+- equazioni di Navier-Stokes
+- Equações de Navier-Stokes
+- Navier-Stokes denklemleri
+- Navier-Stokes ekuazioak
+- Navier-Stokes ekvationer
+- Navier-Stokes' ligning
+- Navier-Stokes-Equatiounen
+- Navier-Stokes-Gleichungen
+- Navier-Stokes-ligningene
+- Navier-Stokes-likningane
+- Navier-Stokes-vergelijkingen
+- Navier-Stokesove enačbe
+- Navier-Stokesove jednadžbe
+- Navierin–Stokesin yhtälöt
+- Navierovy–Stokesovy rovnice
+- Navier–Stokes equations
+- Navier–Stokes-egyenletek
+- Navier–Stokesove jednačine
+- Navje–Stoksove jednačine
+- Persamaan Navier-Stokes
+- Phương trình Navier-Stokes
+- równania Naviera-Stokesa
+- équations de Navier-Stokes
+- Навје-Стоксови равенки
+- рівняння Нав'є — Стокса
+- раўнаньні Навіе—Стоўкса
+- Уравнения на Навие-Стокс
+- уравнения Навье — Стокса
+- Նավիե-Ստոքսի հավասարում
+- משוואות נאוויה-סטוקס
+- معادلات نافييه-ستوكس
+- معادلات ناویه-استوکس
+- معادلات ناڤيي ستوك
+- नेवियर-स्टोक्स समीकरण
+- நேவியர்-ஸ்டோக்சு சமன்பாடுகள்
+- നേവിയർ-സ്റ്റോക്സ് സമവാക്യങ്ങൾ
+- สมการนาเวียร์-สโตกส์
+- ナビエ-ストークス方程式
+- 納維－斯托克斯方程
+- 納維－斯托克斯方程式
+- 纳维-斯托克斯方程
+- 纳维－斯托克斯方程
+- 나비에-스토크스 방정식
+- 나비에-스톡스방정식
 has_id_wikidata: Q201321
 named_after:
-  - "[[_Standards/WikiData/WD~Sir_George_Stokes,_1st_Baronet,155907]]"
-  - "[[_Standards/WikiData/WD~Claude_Louis_Navier,313512]]"
-facet_of: "[[_Standards/WikiData/WD~Navier_Stokes_existence_and_smoothness,1098081]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-subclass_of: "[[_Standards/WikiData/WD~nonlinear_partial_differential_equation,28088256]]"
-instance_of: "[[_Standards/WikiData/WD~system_of_differential_equations,96407346]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]"
+- '[[_Standards/WikiData/WD~Sir_George_Stokes,_1st_Baronet,155907]]'
+- '[[_Standards/WikiData/WD~Claude_Louis_Navier,313512]]'
+facet_of: '[[_Standards/WikiData/WD~Navier_Stokes_existence_and_smoothness,1098081]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+subclass_of: '[[_Standards/WikiData/WD~nonlinear_partial_differential_equation,28088256]]'
+instance_of: '[[_Standards/WikiData/WD~system_of_differential_equations,96407346]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow><mo stretchy="false">&#x22C5;</mo><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow><mo stretchy="false">&#x2212;</mo><mi>&#x03BD;</mi><msup><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mtd><mtd><mo stretchy="false">=</mo><mo stretchy="false">&#x2212;</mo><mi mathvariant="normal">&#x2207;</mi><mi>h</mi></mtd></mtr><mtr><mtd><mi mathvariant="normal">&#x2207;</mi><mo stretchy="false">&#x22C5;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mtd><mtd><mo stretchy="false">=</mo><mn>0</mn></mtd></mtr></mtable></mrow></mstyle></mrow></math>
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BD;</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2207;</mi><mo stretchy="false">&#x22C5;</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2207;</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x2202;</mi><mi>t</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>h</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BD;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi mathvariant="normal">&#x2207;</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2207;</mi><mo stretchy="false">&#x22C5;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x2207;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi>u</mi><mo>→</mo></mover></mrow></mrow></mstyle></mrow></math>
 Commons_category: Navier-Stokes equations
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Navier-Stokes%20equations.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Navier%20Stokes%20equation.webm
 Stack_Exchange_tag:
-  - https://mathoverflow.net/tags/navier-stokes
-  - https://physics.stackexchange.com/tags/navier-stokes
-Dewey_Decimal_Classification: "532.5101"
+- https://mathoverflow.net/tags/navier-stokes
+- https://physics.stackexchange.com/tags/navier-stokes
+Dewey_Decimal_Classification: 532.5101
+dv_has_:
+  name_:
+    ar: معادلات نافييه-ستوكس
+    ary: معادلات ناڤيي ستوك
+    ast: Ecuaciones de Navier-Stokes
+    be-tarask: раўнаньні Навіе—Стоўкса
+    bg: Уравнения на Навие-Стокс
+    bs: Navier–Stokesove jednačine
+    ca: Equacions de Navier-Stokes
+    cs: Navierovy–Stokesovy rovnice
+    da: Navier-Stokes' ligning
+    de: Navier-Stokes-Gleichungen
+    en: Navier–Stokes equations
+    eo: ekvacioj de Navier-Stokes
+    es: ecuaciones de Navier-Stokes
+    eu: Navier-Stokes ekuazioak
+    fa: معادلات ناویه-استوکس
+    fi: Navierin–Stokesin yhtälöt
+    fr: équations de Navier-Stokes
+    ga: Cothromóid Navier-Stokes
+    gl: Ecuacións de Navier-Stokes
+    he: משוואות נאוויה-סטוקס
+    hi: नेवियर-स्टोक्स समीकरण
+    hr: Navier-Stokesove jednadžbe
+    hu: Navier–Stokes-egyenletek
+    hy: Նավիե-Ստոքսի հավասարում
+    id: Persamaan Navier-Stokes
+    it: equazioni di Navier-Stokes
+    ja: ナビエ-ストークス方程式
+    ko: 나비에-스토크스 방정식
+    ko-kp: 나비에-스톡스방정식
+    lb: Navier-Stokes-Equatiounen
+    mk: Навје-Стоксови равенки
+    ml: നേവിയർ-സ്റ്റോക്സ് സമവാക്യങ്ങൾ
+    nb: Navier-Stokes-ligningene
+    nl: Navier-Stokes-vergelijkingen
+    nn: Navier-Stokes-likningane
+    pl: równania Naviera-Stokesa
+    pms: Equassion ëd Navier-Stokes
+    pt: Equações de Navier-Stokes
+    ro: Ecuațiile Navier-Stokes
+    ru: уравнения Навье — Стокса
+    sco: Navier–Stokes equations
+    sl: Navier-Stokesove enačbe
+    sr: Navje–Stoksove jednačine
+    sv: Navier-Stokes ekvationer
+    ta: நேவியர்-ஸ்டோக்சு சமன்பாடுகள்
+    th: สมการนาเวียร์-สโตกส์
+    tr: Navier-Stokes denklemleri
+    uk: рівняння Нав'є — Стокса
+    vi: Phương trình Navier-Stokes
+    wuu: 纳维-斯托克斯方程
+    zh: 纳维－斯托克斯方程
+    zh-cn: 纳维－斯托克斯方程
+    zh-hans: 纳维－斯托克斯方程
+    zh-hant: 納維－斯托克斯方程
+    zh-hk: 納維－斯托克斯方程式
+    zh-sg: 纳维－斯托克斯方程
+    zh-tw: 納維－斯托克斯方程式
 ---
-
 # [[Navier–Stokes_Equations]] 
 
 #is_/same_as :: [[WD~Navier–Stokes_equations,201321]] 

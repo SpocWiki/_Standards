@@ -1,29 +1,208 @@
 ---
 aliases:
-  - Berry
+- aeron
+- baca
+- bacca
+- bacă
+- baga
+- baia
+- baie
+- bakka
+- baligang
+- baya
+- bbacca
+- Beere
+- bei
+- Beier
+- ber
+- beri
+- bero
+- Berry
+- bes
+- bessie
+- bobica
+- bobule
+- bobuľa
+- bogyótermés
+- buah beri
+- bäien
+- bär
+- bær
+- caor
+- chiuⁿ-kó
+- chérîthe
+- gyləmivə
+- hugenn
+- jagoda
+- jahoda
+- kokrra
+- mari
+- marja
+- moren
+- muerjie
+- oga
+- ouga
+- quả mọng
+- tomatl
+- uoga
+- woh wuni
+- çырла
+- ράγα
+- бобинка
+- бобица
+- иможсь
+- марь
+- сата
+- узы-боры
+- ягада
+- ягода
+- ягодов плод
+- җиләк
+- հատապտղային բոյսեր
+- հատապտղային բույսեր
+- ענבה
+- توت
+- ثمرة لبية
+- سته
+- सरस फल
+- କୋଳି
+- சதைப்பற்றுள்ளக் கனி
+- మృదుఫలం
+- ಬೆರ್ರಿ ಹಣ್ಣು
+- เบอร์รี
+- ဗယ်ရီသီး
+- კანკარი
+- კენკრა
+- 浆果
+- 液果
+- 漿果
+- 漿菓
+- 장과
 has_id_wikidata: Q13184
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 opposite_of: '[[_Standards/WikiData/WD~Q3847256,3847256]]'
 subclass_of: '[[_Standards/WikiData/WD~fleshy_fruit,15197056]]'
 different_from: '[[_Standards/WikiData/WD~berry,16128920]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~botanical_term,27494256]]'
-  - '[[_Standards/WikiData/WD~type_of_fruit,28149961]]'
+- '[[_Standards/WikiData/WD~botanical_term,27494256]]'
+- '[[_Standards/WikiData/WD~type_of_fruit,28149961]]'
 contains: '[[_Standards/WikiData/WD~seed,40763]]'
 OmegaWiki_Defined_Meaning: 384870
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bacca.jpg
 MCN_code: 0810.30.00
 Amazon_com_browse_node:
-  - 15500516011
-  - 6507006011
+- 15500516011
+- 6507006011
 Commons_category: Berries
+dv_has_:
+  name_:
+    af: bessie
+    an: baya
+    ar: ثمرة لبية
+    ast: baga
+    bcl: baligang
+    be: ягада
+    be-tarask: ягада
+    bg: ягодов плод
+    br: hugenn
+    ca: baia
+    cs: bobule
+    cv: çырла
+    cy: aeron
+    da: bær
+    de: Beere
+    dsb: jagoda
+    el: ράγα
+    en: berry
+    en-ca: berry
+    en-gb: berry
+    eo: bero
+    es: baya
+    et: mari
+    eu: baia
+    fa: سته
+    fi: marja
+    fo: ber
+    fr: baie
+    frr: bei
+    fy: bei
+    ga: caor
+    gl: baga
+    he: ענבה
+    hi: सरस फल
+    hsb: jahoda
+    hu: bogyótermés
+    hy: հատապտղային բույսեր
+    hyw: հատապտղային բոյսեր
+    id: buah beri
+    io: bero
+    it: bacca
+    ja: 液果
+    jv: woh wuni
+    ka: კენკრა
+    kk: ягода
+    kn: ಬೆರ್ರಿ ಹಣ್ಣು
+    ko: 장과
+    kw: moren
+    la: bacca
+    lt: uoga
+    lv: oga
+    mdf: иможсь
+    min: buah beri
+    mk: бобинка
+    ms: beri
+    my: ဗယ်ရီသီး
+    myv: марь
+    nah: tomatl
+    nan: chiuⁿ-kó
+    nap: bbacca
+    nb: bær
+    nl: bes
+    nn: bær
+    nrm: chérîthe
+    oc: baia
+    or: କୋଳି
+    pam: berry
+    pl: jagoda
+    pt: baga
+    pt-br: baga
+    ro: bacă
+    ru: ягода
+    sgs: ouga
+    sh: bobica
+    sk: bobuľa
+    sl: jagoda
+    sma: muerjie
+    sq: kokrra
+    sr: бобица
+    stq: bäien
+    sv: bär
+    ta: சதைப்பற்றுள்ளக் கனி
+    te: మృదుఫలం
+    tg: сата
+    th: เบอร์รี
+    tly: gyləmivə
+    tr: bakka
+    tt: җиләк
+    tt-cyrl: җиләк
+    udm: узы-боры
+    uk: ягода
+    ur: توت
+    vec: baca
+    vi: quả mọng
+    vls: Beier
+    war: baya
+    wuu: 浆果
+    xmf: კანკარი
+    yue: 漿菓
+    zh: 浆果
+    zh-hant: 漿果
 ---
-
 # [[Berry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Berry,13184|WD~Berry,13184]]

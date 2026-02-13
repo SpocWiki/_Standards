@@ -1,9 +1,99 @@
 ---
 aliases:
-  - Zygophyllales
+- Bộ Bá vương
+- Həlməlçiçəklilər
+- jarmovcotvaré
+- Jochblattartige
+- kacibotvaré
+- Keimerūniečiai
+- királydinnye-virágúak
+- Koma gindorikên keyan
+- Kreosotbusk-ordenen
+- Parolistowce
+- Pockenholtsordningen
+- Seiglehelaadsed
+- Zigofilaloj
+- Zigofil·lals
+- Zygophyllales
+- ζυγοφυλλώδη
+- Парнолисновидни
+- парнолистникоцветни
+- парнолистникоцветные
+- զուգատերևածաղկավորներ
+- قديسيات
+- قیچسانان
+- อันดับโคกกระสุน
+- ハマビシ目
+- 蒺藜目
+- 남가새목
 title: Zygophyllales
+has_id_wikidata: Q21899
+dv_has_:
+  name_:
+    an: Zygophyllales
+    ar: قديسيات
+    arz: قديسيات
+    ast: Zygophyllales
+    az: Həlməlçiçəklilər
+    bg: парнолистникоцветни
+    bs: Zygophyllales
+    ca: Zigofil·lals
+    ceb: Zygophyllales
+    cs: kacibotvaré
+    da: Kreosotbusk-ordenen
+    de: Jochblattartige
+    el: ζυγοφυλλώδη
+    en: Zygophyllales
+    en-ca: Zygophyllales
+    en-gb: Zygophyllales
+    eo: Zigofilaloj
+    es: Zygophyllales
+    et: Seiglehelaadsed
+    eu: Zygophyllales
+    ext: Zygophyllales
+    fa: قیچسانان
+    fi: Zygophyllales
+    fr: Zygophyllales
+    frr: Zygophyllales
+    ga: Zygophyllales
+    gl: Zygophyllales
+    hr: Zygophyllales
+    hu: királydinnye-virágúak
+    hy: զուգատերևածաղկավորներ
+    ia: Zygophyllales
+    id: Zygophyllales
+    ie: Zygophyllales
+    io: Zygophyllales
+    it: Zygophyllales
+    ja: ハマビシ目
+    ko: 남가새목
+    ku: Koma gindorikên keyan
+    la: Zygophyllales
+    lt: Keimerūniečiai
+    mk: Парнолисновидни
+    mul: Zygophyllales
+    nb: Zygophyllales
+    nl: Zygophyllales
+    oc: Zygophyllales
+    pl: Parolistowce
+    pt: Zygophyllales
+    pt-br: Zygophyllales
+    ro: Zygophyllales
+    ru: парнолистникоцветные
+    sh: Zygophyllales
+    sk: jarmovcotvaré
+    sq: Zygophyllales
+    sv: Pockenholtsordningen
+    th: อันดับโคกกระสุน
+    tr: Zygophyllales
+    uk: Zygophyllales
+    vi: Bộ Bá vương
+    vo: Zygophyllales
+    war: Zygophyllales
+    zh: 蒺藜目
+    zh-cn: 蒺藜目
+    zh-tw: 蒺藜目
 ---
-
 # [[Zygophyllales]] 
 
 ![](Zygophyllales/Larrea_tridentata0100.jpg)

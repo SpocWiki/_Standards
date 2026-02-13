@@ -1,38 +1,226 @@
 ---
 aliases:
-  - mayo
-  - Mayonnaise
+- ius Magonicum
+- maionesa
+- maionese
+- maionez
+- maioneză
+- majonees
+- majoneesi
+- majoneeʹs
+- majones
+- majonesa
+- majonez
+- Majoneza
+- majonezas
+- majonezi
+- majonezo
+- majonnäs
+- majonéz
+- majonéza
+- majonēze
+- majónes
+- Majōnez
+- maonáis
+- mayo
+- mayonaise
+- mayones
+- mayonesa
+- mayonez
+- mayonezi
+- mayonezo
+- mayonis
+- Mayonnaise
+- mayonès
+- mayonèz
+- mayonêze
+- mayounaise
+- maýonez
+- meio
+- mäyonäd
+- sooslagh bwinnican
+- sos majonezowy
+- μαγιονέζα
+- мајонез
+- майонез
+- майонеза
+- маянэз
+- մայոնեզ
+- מיונז
+- سس مایونز
+- مايونيز
+- مايونەز
+- मेयोनेज़
+- মেয়োনিজ
+- ਮਾਇਓਨੇਜ਼
+- மயோனெய்சு
+- ಮೇಯನೇಸ್
+- മയോന്നൈസ്
+- มายองเนส
+- ຊອດໄຂ່ແດງ
+- မယွန်းနိစ်
+- მაიონეზი
+- ᎤᏁᎫᎯᏍᏗ
+- マヨネーズ
+- 沙律醬
+- 美乃滋
+- 蛋黃醬
+- 蛋黄酱
+- 마요네즈
 has_id_wikidata: Q167893
 made_from_material:
-  - '[[_Standards/WikiData/WD~mustard,131748]]'
-  - '[[_Standards/WikiData/WD~chicken_egg,15260613]]'
-  - '[[_Standards/WikiData/WD~vinegar,41354]]'
-  - '[[_Standards/WikiData/WD~oil,42962]]'
+- '[[_Standards/WikiData/WD~mustard,131748]]'
+- '[[_Standards/WikiData/WD~chicken_egg,15260613]]'
+- '[[_Standards/WikiData/WD~vinegar,41354]]'
+- '[[_Standards/WikiData/WD~oil,42962]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~sauce,178359]]'
-  - '[[_Standards/WikiData/WD~emulsion,187634]]'
-  - '[[_Standards/WikiData/WD~condiment,2596997]]'
-  - '[[_Standards/WikiData/WD~Q26835639,26835639]]'
+- '[[_Standards/WikiData/WD~sauce,178359]]'
+- '[[_Standards/WikiData/WD~emulsion,187634]]'
+- '[[_Standards/WikiData/WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~Q26835639,26835639]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~egg_yolk,181409]]'
-  - '[[_Standards/WikiData/WD~cooking_oil,427457]]'
+- '[[_Standards/WikiData/WD~egg_yolk,181409]]'
+- '[[_Standards/WikiData/WD~cooking_oil,427457]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 country_of_origin: '[[_Standards/WikiData/WD~France,142]]'
 named_after: '[[_Standards/WikiData/WD~Maó,49550]]'
 USDA_NDB_number:
-  - 04025
-  - 04708
+- 04025
+- 04708
 Commons_category: Mayonnaise
 native_label: mayonnaise
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Emulsion%20culinaire%20-%20exemple%20de%20la%20mayonnaise%20%281080p%29.webm
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mayonnaise%20%281%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Zaanse%20mayonaise.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mayonnaise%20%281%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Zaanse%20mayonaise.jpg
 Amazon_com_browse_node: 16319881
+dv_has_:
+  name_:
+    af: mayonnaise
+    ar: مايونيز
+    arz: مايونيز
+    ast: mayonesa
+    az: mayonez
+    ba: майонез
+    be: маянэз
+    be-tarask: маянэз
+    bg: майонеза
+    bn: মেয়োনিজ
+    br: maionez
+    bs: Majoneza
+    ca: maionesa
+    ceb: mayones
+    chr: ᎤᏁᎫᎯᏍᏗ
+    cs: majonéza
+    cy: mayonnaise
+    da: mayonnaise
+    de: Mayonnaise
+    de-ch: Mayonnaise
+    el: μαγιονέζα
+    en: mayonnaise
+    en-ca: mayonnaise
+    en-gb: mayonnaise
+    en-us: mayonnaise
+    eo: majonezo
+    es: mayonesa
+    et: majonees
+    eu: maionesa
+    fa: سس مایونز
+    fi: majoneesi
+    fo: majonesa
+    fr: mayonnaise
+    fy: mayonêze
+    ga: maonáis
+    gl: maionesa
+    gv: sooslagh bwinnican
+    he: מיונז
+    hi: मेयोनेज़
+    hr: majoneza
+    ht: mayonèz
+    hu: majonéz
+    hy: մայոնեզ
+    id: mayones
+    io: mayonezo
+    is: majónes
+    it: maionese
+    ja: マヨネーズ
+    jv: mayonès
+    ka: მაიონეზი
+    kk: майонез
+    kk-arab: مايونەز
+    kk-cn: مايونەز
+    kk-cyrl: майонез
+    kk-kz: майонез
+    kk-latn: maýonez
+    kk-tr: maýonez
+    kn: ಮೇಯನೇಸ್
+    ko: 마요네즈
+    ku: mayonez
+    la: ius Magonicum
+    lb: Mayonnaise
+    li: mayonaise
+    lo: ຊອດໄຂ່ແດງ
+    lt: majonezas
+    lv: majonēze
+    mk: мајонез
+    ml: മയോന്നൈസ്
+    mn: майонез
+    ms: mayonis
+    my: မယွန်းနိစ်
+    nb: majones
+    nl: mayonaise
+    nn: majones
+    nrm: mayounaise
+    nso: mayonnaise
+    oc: maionesa
+    pa: ਮਾਇਓਨੇਜ਼
+    pl: sos majonezowy
+    pt: maionese
+    pt-br: maionese
+    ro: maioneză
+    ru: майонез
+    sco: mayonnaise
+    se: majonesa
+    sh: majoneza
+    sk: majonéza
+    sl: majoneza
+    sm: meio
+    sms: majoneeʹs
+    sq: majonezi
+    sr: мајонез
+    sr-ec: мајонез
+    sr-el: majonez
+    sv: majonnäs
+    szl: Majōnez
+    ta: மயோனெய்சு
+    tg: майонез
+    tg-latn: majonez
+    th: มายองเนส
+    tl: mayonnaise
+    tn: mayonnaise
+    tr: mayonez
+    tt: майонез
+    uk: майонез
+    uz: mayonez
+    vi: mayonnaise
+    vo: mäyonäd
+    war: mayonesa
+    wuu: 蛋黄酱
+    xh: mayonnaise
+    yue: 蛋黃醬
+    zh: 蛋黃醬
+    zh-cn: 蛋黄酱
+    zh-hans: 蛋黄酱
+    zh-hant: 美乃滋
+    zh-hk: 沙律醬
+    zh-mo: 沙律醬
+    zh-my: 蛋黄酱
+    zh-sg: 蛋黄酱
+    zh-tw: 美乃滋
+    zu: mayonezi
 ---
-
 # [[Mayonnaise]] 
 
 #is_/same_as :: [[WD~Mayonnaise,167893]] 

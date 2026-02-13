@@ -1,22 +1,164 @@
 ---
-has_time_started: 1955-01-01 
+has_time_started: 1955-01-01
 aliases:
+- anamcheol
+- annym-chiaull
+- cerddoriaeth yr enaid
+- ceòl soul
+- ilow enev
+- Ivakatagi ni yalo
+- Lêng-hûn im-ga̍k
+- Musica pectoralis
+- musik soul
+- Musikang Soul
+- Muzik soul
+- muzike soul
+- Orin Soul
+- sol musiqasi
+- soul
+- Soul music
+- soul muzika
+- soulmusik
+- soulmusikk
+- soulmūzika
+- soulo
+- Sálartónlist
+- σόουλ
+- соўл
+- соул
+- Соул-музика
+- Հոգեւոր երաժշտութիւն
+- սոուլ
+- מוזיקת נשמה
+- سؤل
+- سول
+- سول موسیقی
+- موسیقی سول
+- مۆسیقای سۆڵ
+- সোল সঙ্গীত
+- உள்ளுணர்வு இசை
+- โซล
+- სოული
+- ソウルミュージック
+- 灵魂乐
+- 靈魂樂
+- 솔 음악
 has_id_wikidata: Q131272
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_R&B_and_Soul_Music,55408346]]"
-practiced_by: "[[_Standards/WikiData/WD~soul_musician,105652947]]"
-country_of_origin: "[[_Standards/WikiData/WD~United_States,30]]"
-subclass_of: "[[_Standards/WikiData/WD~rhythm_and_blues,45981]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_R&B_and_Soul_Music,55408346]]'
+practiced_by: '[[_Standards/WikiData/WD~soul_musician,105652947]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+subclass_of: '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 short_name:
-  - soul
-  - سول
+- soul
+- سول
 inception: 1955-01-01T00:00:00Z
 IMDb_keyword: soul-music
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jamesbrown4.jpg
 Commons_category: Soul music
+dv_has_:
+  name_:
+    ar: سول
+    arz: سول
+    ast: soul
+    az: soul
+    bar: Soul
+    be: соўл
+    be-tarask: соўл
+    bg: соул
+    bn: সোল সঙ্গীত
+    bs: Soul music
+    ca: soul
+    ckb: مۆسیقای سۆڵ
+    crh: Soul
+    crh-latn: Soul
+    cs: soul
+    cy: cerddoriaeth yr enaid
+    da: soul
+    de: Soul
+    el: σόουλ
+    en: soul
+    eo: soulo
+    es: soul
+    et: soul
+    eu: soul
+    fa: موسیقی سول
+    fi: soul
+    fj: Ivakatagi ni yalo
+    fr: soul
+    ga: anamcheol
+    gd: ceòl soul
+    gl: Soul
+    gsw: Soul
+    gv: annym-chiaull
+    he: מוזיקת נשמה
+    hr: Soul
+    hu: soul
+    hy: սոուլ
+    hyw: Հոգեւոր երաժշտութիւն
+    id: musik soul
+    io: Soul
+    is: Sálartónlist
+    it: soul
+    ja: ソウルミュージック
+    ka: სოული
+    ko: 솔 음악
+    ku: soul
+    ku-latn: soul
+    kw: ilow enev
+    la: Musica pectoralis
+    lb: Soul
+    li: Soul
+    lmo: Soul
+    lt: soul muzika
+    lv: soulmūzika
+    mk: Соул-музика
+    ms: Muzik soul
+    mt: soul
+    mzn: سؤل
+    nah: Soul
+    nan: Lêng-hûn im-ga̍k
+    nb: soulmusikk
+    nl: soul
+    nn: soul
+    oc: soul
+    pl: soul
+    pnb: سول موسیقی
+    pt: soul
+    pt-br: soul
+    ro: soul
+    ru: соул
+    se: soul
+    sh: Soul
+    sk: soul
+    sl: soul
+    smn: soul
+    sms: soul
+    sq: muzike soul
+    sr: соул
+    sr-ec: соул
+    sr-el: soul
+    sv: soulmusik
+    ta: உள்ளுணர்வு இசை
+    th: โซล
+    tl: Musikang Soul
+    tr: Soul
+    uk: соул
+    ur: سول موسیقی
+    uz: sol musiqasi
+    vi: soul
+    wuu: 灵魂乐
+    yo: Orin Soul
+    yue: 靈魂樂
+    zh: 靈魂樂
+    zh-cn: 灵魂乐
+    zh-hans: 灵魂乐
+    zh-hant: 靈魂樂
+    zh-hk: 靈魂樂
+    zh-sg: 灵魂乐
+    zh-tw: 靈魂樂
 ---
-
 # [[Soul_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Soul_music,131272|WD~Soul_music,131272]] 

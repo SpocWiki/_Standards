@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Callosciurini
+- Callosciurini
+- cal·losciürinis
+- Dienvidaustrumāzijas vāveres
+- Echte Aziatyske pronkiikhoarntsjes
+- Náátsʼózídę́ę́ʼ hazéí danizhónígíí
+- 칼로스키우루스족
 title: Callosciurini
+has_id_wikidata: Q16354398
+dv_has_:
+  name_:
+    an: Callosciurini
+    ast: Callosciurini
+    bg: Callosciurini
+    ca: cal·losciürinis
+    ceb: Callosciurini
+    de: Callosciurini
+    en: Callosciurini
+    eo: Callosciurini
+    es: Callosciurini
+    eu: Callosciurini
+    ext: Callosciurini
+    fi: Callosciurini
+    fr: Callosciurini
+    fy: Echte Aziatyske pronkiikhoarntsjes
+    ga: Callosciurini
+    gl: Callosciurini
+    ia: Callosciurini
+    ie: Callosciurini
+    io: Callosciurini
+    it: Callosciurini
+    ko: 칼로스키우루스족
+    la: Callosciurini
+    lv: Dienvidaustrumāzijas vāveres
+    mul: Callosciurini
+    nl: Callosciurini
+    nv: Náátsʼózídę́ę́ʼ hazéí danizhónígíí
+    oc: Callosciurini
+    pl: Callosciurini
+    pt: Callosciurini
+    pt-br: Callosciurini
+    ro: Callosciurini
+    ru: Callosciurini
+    sq: Callosciurini
+    uk: Callosciurini
+    vi: Callosciurini
+    vo: Callosciurini
+    war: Callosciurini
 ---
-
 # [[Callosciurini]]  
 
 ![ ](Callosciurini/267759125_91ed2069f2_o.jpg)

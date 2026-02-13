@@ -1,22 +1,154 @@
 ---
 aliases:
-  - Java_Man
-  - Java Man
-  - Homo erectus erectus
-  - Anthropopithecus erectus
-  - Pithecanthropus erectus
+- Anthropopithecus erectus
+- Duine Iáva
+- Home de Java
+- Home de Xava
+- Homem de Java
+- Homme de Java
+- Homo di Java
+- Homo erectus erectus
+- Jaavanihminen
+- Java Adamı
+- Java Homo
+- Java Man
+- Java-Mensch
+- Javako gizaki
+- Javamens
+- Javanski človek
+- Javanski čovek
+- Javanski čovjek
+- Java_Man
+- Jawa Lâng (hòa-chio̍h)
+- Jávský člověk
+- Manungsa Jawa
+- Manusa Jawa
+- Manusia Jawa
+- Omul de Java
+- Pitekantrop
+- Pitekantropas
+- Pitekantroplar
+- Pithecanthropus erectus
+- Pïtekantrop
+- Taong Haba
+- Tawo han Java
+- Uomo di Giava
+- Človek trinilský
+- Јавански човек
+- Пітекантроп
+- Пітэкантрап
+- Питекантроп
+- Պիթեկանթրոպոս
+- אדם ג'אווה
+- إنسان جاوة
+- انسان جاوهای
+- جاوامین
+- پىيتەكانتروپ
+- जावा मानव
+- ਜਾਵਾ ਮਨੁੱਖ
+- சாவக மனிதன்
+- ಜಾವ ಮಾನವ
+- ജാവാ മനുഷ്യൻ
+- มนุษย์ชวา
+- პითეკანთროპი
+- ジャワ原人
+- 爪哇猿人
+- 자바 원인
 has_id_wikidata: Q192993
 taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Javamensch%20Replik%20Rosensteinmuseum.jpg
 taxon_name: Homo erectus erectus
 Commons_category: Java Man
+dv_has_:
+  name_:
+    af: Javamens
+    ar: إنسان جاوة
+    ast: Homo erectus erectus
+    az: Pitekantrop
+    ba: Питекантроп
+    be: Пітэкантрап
+    be-tarask: пітэкантрап
+    bg: Homo erectus erectus
+    ca: Home de Java
+    ceb: Homo erectus erectus
+    cs: Jávský člověk
+    cv: Питекантроп
+    de: Java-Mensch
+    en: Java Man
+    eo: Java Homo
+    es: Homo erectus erectus
+    eu: Javako gizaki
+    fa: انسان جاوهای
+    fi: Jaavanihminen
+    fr: Homme de Java
+    ga: Duine Iáva
+    gl: Home de Xava
+    he: אדם ג'אווה
+    hi: जावा मानव
+    hr: Javanski čovjek
+    hy: Պիթեկանթրոպոս
+    ia: Homo erectus erectus
+    id: Manusia Jawa
+    io: Homo di Java
+    it: Uomo di Giava
+    ja: ジャワ原人
+    jv: Manungsa Jawa
+    ka: პითეკანთროპი
+    kk: Питекантроп
+    kk-arab: پىيتەكانتروپ
+    kk-cn: پىيتەكانتروپ
+    kk-cyrl: Питекантроп
+    kk-kz: Питекантроп
+    kk-latn: Pïtekantrop
+    kk-tr: Pïtekantrop
+    kn: ಜಾವ ಮಾನವ
+    ko: 자바 원인
+    ky: Питекантроп
+    la: Homo erectus erectus
+    lt: Pitekantropas
+    ml: ജാവാ മനുഷ്യൻ
+    ms: Manusia Jawa
+    mul: Homo erectus erectus
+    nan: Jawa Lâng (hòa-chio̍h)
+    nl: Javamens
+    pa: ਜਾਵਾ ਮਨੁੱਖ
+    pl: Homo erectus erectus
+    pt: Homem de Java
+    ro: Omul de Java
+    ru: Питекантроп
+    sh: Javanski čovjek
+    sk: Človek trinilský
+    sl: Javanski človek
+    sq: Homo erectus erectus
+    sr: Јавански човек
+    sr-ec: Јавански човек
+    sr-el: Javanski čovek
+    su: Manusa Jawa
+    ta: சாவக மனிதன்
+    th: มนุษย์ชวา
+    tl: Taong Haba
+    tr: Java Adamı
+    uk: Пітекантроп
+    ur: جاوامین
+    uz: Pitekantroplar
+    vec: Uomo di Giava
+    vi: Java Man
+    war: Tawo han Java
+    wuu: 爪哇猿人
+    yue: 爪哇猿人
+    zh: 爪哇猿人
+    zh-cn: 爪哇猿人
+    zh-hans: 爪哇猿人
+    zh-hant: 爪哇猿人
+    zh-hk: 爪哇猿人
+    zh-sg: 爪哇猿人
+    zh-tw: 爪哇猿人
 ---
-
 # [[Java_Man]] 
 
 #is_/same_as :: [[WD~Java_Man,192993]] 

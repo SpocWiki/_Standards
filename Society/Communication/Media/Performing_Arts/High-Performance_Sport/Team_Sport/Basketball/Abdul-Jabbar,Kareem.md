@@ -1,48 +1,89 @@
 ---
 aliases:
-  - Kareem_Abdul-Jabbar
-  - Abdul-Jabbar,Kareem
+- Abdul-Jabbar,Kareem
+- Abdwl-Djabbar Karïm
+- Kaeerem Abdul-Jabbar
+- Kareem Abdul-Jabbar
+- Kareem_Abdul-Jabbar
+- Karim Abdul-Džabar
+- Karim Abdul-Jabbor
+- Karéém Abdul-Jabbar
+- Karīms Abduldžabars
+- Kerim Abdülcabbar
+- Kərim Əbdül Cabbar
+- Καρίμ Αμπντούλ Τζαμπάρ
+- Абдул-Джаббар Карим
+- Абдул-Жаббар
+- Карім Абдул-Джаббар
+- Карийм Абдул-Джабар
+- Карим Абдул Џабар
+- Карим Абдул Жаббар
+- Карим Абдул-Џабар
+- Карим Абдул-Джаббар
+- Карым Абдул-Джабар
+- Кәрим Абдул-Джаббар
+- Քարիմ Աբդուլ-Ջաբար
+- כרים עבדול-ג'באר
+- ابدۋل-دجاببار كارىيم
+- كريم عبد الجبار
+- کریم عبدالجبار
+- کەریم عەبدولجەبار
+- करीम अद्बुल -जब्बार
+- করিম আব্দুল জব্বার
+- কৰিম আব্দুল-জব্বৰ
+- ਕਰੀਮ ਅਬਦੁਲ ਜੱਬਰ
+- கரீம் அப்துல்-ஜப்பார்
+- కరీమ్ అద్బుల్ -జబ్బార్
+- კარიმ აბდულ-ჯაბარი
+- カリーム・アブドゥル＝ジャバー
+- 卡里姆·阿卜杜勒-贾巴尔
+- 卡里姆·阿卜杜勒·賈巴爾
+- 卡里姆·阿卜杜勒·贾巴尔
+- 卡里姆·阿布都·賈霸
+- 卡里姆·阿杜·渣巴
+- 渣巴
+- 카림 압둘 자바
 has_id_wikidata: Q179051
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~Los_Angeles_Lakers,121783]]'
-  - '[[_Standards/WikiData/WD~Milwaukee_Bucks,169637]]'
-  - "[[_Standards/WikiData/WD~UCLA_Bruins_men's_basketball,3615392]]"
+- '[[_Standards/WikiData/WD~Los_Angeles_Lakers,121783]]'
+- '[[_Standards/WikiData/WD~Milwaukee_Bucks,169637]]'
+- "[[_Standards/WikiData/WD~UCLA_Bruins_men's_basketball,3615392]]"
 league_or_competition:
-  - '[[_Standards/WikiData/WD~National_Basketball_Association,155223]]'
-  - "[[_Standards/WikiData/WD~NCAA_Division_I_men's_basketball,94861615]]"
+- '[[_Standards/WikiData/WD~National_Basketball_Association,155223]]'
+- "[[_Standards/WikiData/WD~NCAA_Division_I_men's_basketball,94861615]]"
 drafted_by: '[[_Standards/WikiData/WD~Milwaukee_Bucks,169637]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]'
-  - '[[_Standards/WikiData/WD~Power_Memorial_Academy,7236369]]'
+- '[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]'
+- '[[_Standards/WikiData/WD~Power_Memorial_Academy,7236369]]'
 award_received:
-  - '[[_Standards/WikiData/WD~NBA_Most_Valuable_Player_Award,222047]]'
-  - '[[_Standards/WikiData/WD~NBA_Rookie_of_the_Year_Award,644357]]'
-  - '[[_Standards/WikiData/WD~All_NBA_Team,674359]]'
-  - '[[_Standards/WikiData/WD~Bill_Russell_NBA_Finals_Most_Valuable_Player_Award,739499]]'
-  - '[[_Standards/WikiData/WD~NBA_All_Rookie_Team,1418009]]'
-  - '[[_Standards/WikiData/WD~NBA_All_Defensive_Team,1465181]]'
-  - '[[_Standards/WikiData/WD~Sports_Illustrated_Sportsperson_of_the_Year,1653207]]'
-  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
-  - '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Literary_Work_Children,16918963]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~NBA_Most_Valuable_Player_Award,222047]]'
+- '[[_Standards/WikiData/WD~NBA_Rookie_of_the_Year_Award,644357]]'
+- '[[_Standards/WikiData/WD~All_NBA_Team,674359]]'
+- '[[_Standards/WikiData/WD~Bill_Russell_NBA_Finals_Most_Valuable_Player_Award,739499]]'
+- '[[_Standards/WikiData/WD~NBA_All_Rookie_Team,1418009]]'
+- '[[_Standards/WikiData/WD~NBA_All_Defensive_Team,1465181]]'
+- '[[_Standards/WikiData/WD~Sports_Illustrated_Sportsperson_of_the_Year,1653207]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~NAACP_Image_Award_for_Outstanding_Literary_Work_Children,16918963]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 position_played_on_team_speciality: '[[_Standards/WikiData/WD~center,222052]]'
 occupation:
-  - '[[_Standards/WikiData/WD~author,482980]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~basketball_player,3665646]]'
-  - '[[_Standards/WikiData/WD~basketball_coach,5137571]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~basketball_player,3665646]]'
+- '[[_Standards/WikiData/WD~basketball_coach,5137571]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Lewis,768196]]'
-  - '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
-  - '[[_Standards/WikiData/WD~Kareem,61248809]]'
+- '[[_Standards/WikiData/WD~Lewis,768196]]'
+- '[[_Standards/WikiData/WD~Ferdinand,3276175]]'
+- '[[_Standards/WikiData/WD~Kareem,61248809]]'
 sexual_orientation: '[[_Standards/WikiData/WD~heterosexuality,1035954]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Alcindor,4713136]]'
-  - '[[_Standards/WikiData/WD~Abdul_Jabbar,94540292]]'
+- '[[_Standards/WikiData/WD~Alcindor,4713136]]'
+- '[[_Standards/WikiData/WD~Abdul_Jabbar,94540292]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 member_of: '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
@@ -51,29 +92,29 @@ eye_color: '[[_Standards/WikiData/WD~dark_brown,17244894]]'
 child: '[[_Standards/WikiData/WD~Kareem_Abdul_Jabbar,_Jr.,59383879]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Islam,432]]'
-  - '[[_Standards/WikiData/WD~Catholicism,1841]]'
+- '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~Catholicism,1841]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
 native_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
 sport: '[[_Standards/WikiData/WD~basketball,5372]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 residence:
-  - '[[_Standards/WikiData/WD~New_York_City,60]]'
-  - '[[_Standards/WikiData/WD~Los_Angeles,65]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 place_of_birth: '[[_Standards/WikiData/WD~New_York_City,60]]'
 mass: 102
 social_media_followers:
-  - 19100
-  - 2223396
+- 19100
+- 2223396
 height: 218
 Commons_category: Kareem Abdul-Jabbar
 work_period_start_: 1969-01-01T00:00:00Z
@@ -91,8 +132,112 @@ X_Twitter_username: kaj33
 Instagram_username: kareemabduljabbar_33
 name_in_native_language: كريم عبد الجبار
 birth_name: Ferdinand Lewis Alcindor, Jr.
+dv_has_:
+  name_:
+    af: Kareem Abdul-Jabbar
+    an: Kareem Abdul-Jabbar
+    ar: كريم عبد الجبار
+    arz: كريم عبد الجبار
+    as: কৰিম আব্দুল-জব্বৰ
+    ast: Kareem Abdul-Jabbar
+    az: Kərim Əbdül Cabbar
+    azb: کریم عبدالجبار
+    ba: Кәрим Абдул-Джаббар
+    bcl: Kaeerem Abdul-Jabbar
+    be: Карым Абдул-Джабар
+    be-tarask: Карым Абдул-Джабар
+    bg: Карийм Абдул-Джабар
+    bn: করিম আব্দুল জব্বার
+    bs: Kareem Abdul-Jabbar
+    ca: Kareem Abdul-Jabbar
+    ckb: کەریم عەبدولجەبار
+    cs: Kareem Abdul-Jabbar
+    cy: Kareem Abdul-Jabbar
+    da: Kareem Abdul-Jabbar
+    de: Kareem Abdul-Jabbar
+    diq: Kareem Abdul-Jabbar
+    el: Καρίμ Αμπντούλ Τζαμπάρ
+    en: Kareem Abdul-Jabbar
+    eo: Kareem Abdul-Jabbar
+    es: Kareem Abdul-Jabbar
+    et: Kareem Abdul-Jabbar
+    eu: Kareem Abdul-Jabbar
+    fa: کریم عبدالجبار
+    fi: Kareem Abdul-Jabbar
+    fr: Kareem Abdul-Jabbar
+    ga: Kareem Abdul-Jabbar
+    gl: Kareem Abdul-Jabbar
+    he: כרים עבדול-ג'באר
+    hi: करीम अद्बुल -जब्बार
+    hr: Kareem Abdul-Jabbar
+    hu: Kareem Abdul-Jabbar
+    hy: Քարիմ Աբդուլ-Ջաբար
+    id: Kareem Abdul-Jabbar
+    io: Kareem Abdul-Jabbar
+    is: Kareem Abdul-Jabbar
+    it: Kareem Abdul-Jabbar
+    ja: カリーム・アブドゥル＝ジャバー
+    jv: Karéém Abdul-Jabbar
+    ka: კარიმ აბდულ-ჯაბარი
+    kk: Абдул-Джаббар Карим
+    kk-arab: ابدۋل-دجاببار كارىيم
+    kk-cn: ابدۋل-دجاببار كارىيم
+    kk-cyrl: Абдул-Джаббар Карим
+    kk-kz: Абдул-Джаббар Карим
+    kk-latn: Abdwl-Djabbar Karïm
+    kk-tr: Abdwl-Djabbar Karïm
+    ko: 카림 압둘 자바
+    ky: Абдул-Жаббар
+    la: Kareem Abdul-Jabbar
+    ln: Kareem Abdul-Jabbar
+    lt: Kareem Abdul-Jabbar
+    lv: Karīms Abduldžabars
+    mg: Kareem Abdul-Jabbar
+    mk: Карим Абдул Џабар
+    mn: Карим Абдул Жаббар
+    ms: Kareem Abdul-Jabbar
+    nb: Kareem Abdul-Jabbar
+    nl: Kareem Abdul-Jabbar
+    nn: Kareem Abdul-Jabbar
+    pa: ਕਰੀਮ ਅਬਦੁਲ ਜੱਬਰ
+    pap: Kareem Abdul-Jabbar
+    pl: Kareem Abdul-Jabbar
+    pt: Kareem Abdul-Jabbar
+    pt-br: Kareem Abdul-Jabbar
+    qu: Kareem Abdul-Jabbar
+    ro: Kareem Abdul-Jabbar
+    ru: Карим Абдул-Джаббар
+    sh: Kareem Abdul-Jabbar
+    sk: Kareem Abdul-Jabbar
+    sl: Kareem Abdul-Jabbar
+    sq: Kareem Abdul-Jabbar
+    sr: Карим Абдул-Џабар
+    sr-ec: Карим Абдул-Џабар
+    sr-el: Karim Abdul-Džabar
+    sv: Kareem Abdul-Jabbar
+    sw: Kareem Abdul-Jabbar
+    szy: Kareem Abdul-Jabbar
+    ta: கரீம் அப்துல்-ஜப்பார்
+    tay: Kareem Abdul-Jabbar
+    te: కరీమ్ అద్బుల్ -జబ్బార్
+    tr: Kerim Abdülcabbar
+    uk: Карім Абдул-Джаббар
+    ur: کریم عبدالجبار
+    uz: Karim Abdul-Jabbor
+    vi: Kareem Abdul-Jabbar
+    vo: Kareem Abdul-Jabbar
+    war: Kareem Abdul-Jabbar
+    wuu: 卡里姆·阿卜杜勒-贾巴尔
+    yo: Kareem Abdul-Jabbar
+    yue: 渣巴
+    zh: 卡里姆·阿卜杜勒·贾巴尔
+    zh-cn: 卡里姆·阿卜杜勒·贾巴尔
+    zh-hans: 卡里姆·阿卜杜勒·贾巴尔
+    zh-hant: 卡里姆·阿卜杜勒·賈巴爾
+    zh-hk: 卡里姆·阿杜·渣巴
+    zh-sg: 卡里姆·阿卜杜勒·贾巴尔
+    zh-tw: 卡里姆·阿布都·賈霸
 ---
-
 # [[Abdul-Jabbar,Kareem]] 
 
 #is_/same_as :: [[WD~Kareem_Abdul-Jabbar,179051]] 

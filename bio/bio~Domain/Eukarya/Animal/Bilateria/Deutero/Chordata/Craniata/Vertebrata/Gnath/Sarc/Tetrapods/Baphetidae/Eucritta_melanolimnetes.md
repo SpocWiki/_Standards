@@ -1,10 +1,37 @@
 ---
 aliases:
-  - Eucritta_melanolimnetes
-  - Eucritta melanolimnetes
+- Eucritta
+- Eucritta melanolimnetes
+- Eucritta_melanolimnetes
+- Eukritta
 title: Eucritta melanolimnetes
+has_id_wikidata: Q142587
+dv_has_:
+  name_:
+    ast: Eucritta
+    bg: Eucritta
+    ceb: Eucritta
+    de: Eucritta
+    en: Eucritta
+    es: Eucritta
+    fi: Eucritta
+    fr: Eucritta
+    ga: Eucritta
+    ia: Eucritta
+    it: Eucritta
+    la: Eucritta
+    mul: Eucritta
+    nl: Eucritta
+    pl: Eukritta
+    pt: Eucritta
+    ro: Eucritta
+    ru: Eucritta
+    sq: Eucritta
+    uk: Eucritta
+    vec: Eucritta
+    vi: Eucritta
+    war: Eucritta
 ---
-
 # [[Eucritta_melanolimnetes]]  
 
 ![Eucritta melanolimnetes](Eucritta_melanolimnetes/Eucritta.jpg) 

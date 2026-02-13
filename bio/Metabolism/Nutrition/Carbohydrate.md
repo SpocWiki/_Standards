@@ -1,58 +1,322 @@
 ---
 aliases:
-  - Kohlehydrate
-  - Kohlenhydrate
-  - Carbohydrate
+- angliavandeniai
+- carbaihiodráit
+- carbohidrat
+- Carbohidrate
+- carbohidrato
+- carbohidratu
+- carbohydrad
+- carbohydrat
+- Carbohydrate
+- Carbohydrates
+- carbohydrato
+- Carbohydratum
+- Carboidrat
+- Carboidrati
+- carboidrato
+- Carbuidraa
+- Carbuidrati
+- Danqsuijvaqhozvuz
+- Gliosida
+- Glucid
+- glucide
+- glucidi
+- glúcid
+- glúcido
+- Glúcidu
+- Gualuisg
+- Hidrati kabonia
+- Hidrato de carbonio
+- hidrato de carbono
+- hiilihydraatti
+- K'illimsayaku
+- Kabonidrat
+- Karbohidrat
+- Karbohidratet
+- Karbohidrato
+- karbohydrat
+- karbohydráhta
+- Karbohîdrat
+- karbongidrat
+- karbonhidrat
+- karbonhidrato
+- karbono hidrato
+- Koalhydraat
+- Kohlehydrate
+- Kohlenhydrate
+- kolhydrat
+- Koolhidraat
+- koolhydraat
+- Kuelenhydrat
+- kulhydrat
+- Köölhüdraaten
+- ogljikov hidrat
+- ogļhidrāti
+- Onglėondėnē
+- sacharid
+- sacharidy
+- sahhariidid
+- Sykra
+- szénhidrát
+- Uglevodlar
+- Ugljeni hidrati
+- ugljikohidrati
+- węglowodan
+- æвзалыдæттæ
+- čiđđâhydraat
+- υδατάνθρακες
+- Јаглехидрат
+- Вуглёводы
+- вуглеводи
+- вугляводы
+- Въглехидрат
+- Карбогидратҳо
+- Күмерсулар
+- Көмірсулар
+- Нүүрс ус
+- Нүүрһэн уһан
+- Угљени хидрат
+- угљени хидрати
+- Углевод
+- Углеводдор
+- Углеводтар
+- углеводъёс
+- углеводы
+- ածխաջրեր
+- פחמימה
+- קארבאהידראט
+- سكريات
+- كاربوهيدرات
+- نشاستو
+- کاربو ہائیڈریٹ
+- کاربوهایډرېټ
+- کاربوهیدروژئن
+- کاربوہائیڈریٹ
+- کاربوہایڈریٹ
+- کاربۆھیدرات
+- کربوهيدرت
+- کربوهیدرات
+- ކާބޯހައިޑްރޭޓް
+- कार्बोहाइड्रेट
+- शर्करा
+- শর্করা
+- শৰ্কৰা
+- ਕਾਰਬੋਹਾਈਡਰੇਟ
+- ଶ୍ଵେତସାର
+- காபோவைதரேட்டு
+- పిండి పదార్ధాలు
+- ಕಾರ್ಬೋಹೈಡ್ರೇಟುಗಳು
+- കാർബോഹൈഡ്രേറ്റ്
+- කාබෝහයිඩ් රේට
+- คาร์โบไฮเดรต
+- ກະລູຊິດ
+- ကာဗိုဟိုက်ဒရိတ်
+- ကာဘိုဟိုက်ဒရိတ်
+- ნახშირწყლები
+- ნოშქერწყარეფი
+- ᱠᱟᱨᱵᱳᱦᱟᱭᱰᱨᱮᱴ
+- 炭水化物
+- 醣
+- 醣类
+- 醣類
+- 탄수화물
 has_id_wikidata: Q11358
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20werden%20Kohlenhydrate%20verstoffwechselt.webm
-Dewey_Decimal_Classification: "572.56"
+Dewey_Decimal_Classification: 572.56
 subclass_of:
-  - "[[_Standards/WikiData/WD~polyol,415812]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_derivative,64698788]]"
+- '[[_Standards/WikiData/WD~polyol,415812]]'
+- '[[_Standards/WikiData/WD~carbohydrate_derivative,64698788]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of:
-  - "[[_Standards/WikiData/WD~carbohydrate_metabolic_process,2734081]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_binding,14633866]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_transport,14887311]]"
-  - "[[_Standards/WikiData/WD~response_to_carbohydrate,14890579]]"
-  - "[[_Standards/WikiData/WD~cellular_response_to_carbohydrate_stimulus,14912641]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_proton_symporter_activity,21106264]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_transmembrane_transport,21121265]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_homeostasis,21122289]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_export,22290444]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_import_across_plasma_membrane,22291667]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_transmembrane_transporter_activity,22320699]]"
-  - "[[_Standards/WikiData/WD~ABC_type_carbohydrate_transporter_activity,22320700]]"
-  - "[[_Standards/WikiData/WD~carbohydrate_cation_symporter_activity,22324692]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Carbohydrates,6863216]]"
+- '[[_Standards/WikiData/WD~carbohydrate_metabolic_process,2734081]]'
+- '[[_Standards/WikiData/WD~carbohydrate_binding,14633866]]'
+- '[[_Standards/WikiData/WD~carbohydrate_transport,14887311]]'
+- '[[_Standards/WikiData/WD~response_to_carbohydrate,14890579]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_carbohydrate_stimulus,14912641]]'
+- '[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359]]'
+- '[[_Standards/WikiData/WD~carbohydrate_proton_symporter_activity,21106264]]'
+- '[[_Standards/WikiData/WD~carbohydrate_transmembrane_transport,21121265]]'
+- '[[_Standards/WikiData/WD~carbohydrate_homeostasis,21122289]]'
+- '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]'
+- '[[_Standards/WikiData/WD~carbohydrate_export,22290444]]'
+- '[[_Standards/WikiData/WD~carbohydrate_import_across_plasma_membrane,22291667]]'
+- '[[_Standards/WikiData/WD~carbohydrate_transmembrane_transporter_activity,22320699]]'
+- '[[_Standards/WikiData/WD~ABC_type_carbohydrate_transporter_activity,22320700]]'
+- '[[_Standards/WikiData/WD~carbohydrate_cation_symporter_activity,22324692]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Carbohydrates,6863216]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-  - "[[_Standards/WikiData/WD~nutrient_group,136908428]]"
+- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~nutrient_group,136908428]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~complex_carbohydrates,136192512]]"
-  - "[[_Standards/WikiData/WD~simple_carbohydrates,136192523]]"
+- '[[_Standards/WikiData/WD~complex_carbohydrates,136192512]]'
+- '[[_Standards/WikiData/WD~simple_carbohydrates,136192523]]'
 different_from:
-  - "[[_Standards/WikiData/WD~sugar,11002]]"
-  - "[[_Standards/WikiData/WD~hydrocarbon,43648]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~sugar,11002]]"
-OmegaWiki_Defined_Meaning: "483"
+- '[[_Standards/WikiData/WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~hydrocarbon,43648]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sugar,11002]]'
+OmegaWiki_Defined_Meaning: 483
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carbohydrates.jpeg
 Basisklassifikation:
-  - "35.63"
-  - "35.77"
+- 35.63
+- 35.77
 UMLS_CUI: C0007004
 Commons_category: Carbohydrates
 MeSH_tree_code: D09
+dv_has_:
+  name_:
+    af: Koolhidraat
+    an: Hidrato de carbonio
+    ar: سكريات
+    ary: كاربوهيدرات
+    as: শৰ্কৰা
+    ast: carbohidratu
+    az: Karbohidrat
+    azb: کاربوهیدروژئن
+    ba: Углеводтар
+    ban: Karbohidrat
+    bcl: Carbohydrate
+    be: вугляводы
+    be-tarask: вугляводы
+    bg: Въглехидрат
+    bn: শর্করা
+    bs: ugljikohidrati
+    bxr: Нүүрһэн уһан
+    ca: glúcid
+    ceb: Karbohidrat
+    ckb: کاربۆھیدرات
+    crh: karbongidrat
+    cs: sacharidy
+    cy: carbohydrad
+    da: kulhydrat
+    de: Kohlenhydrate
+    dty: कार्बोहाइड्रेट
+    dv: ކާބޯހައިޑްރޭޓް
+    el: υδατάνθρακες
+    en: carbohydrate
+    en-gb: carbohydrate
+    eo: karbonhidrato
+    es: glúcido
+    et: sahhariidid
+    eu: karbono hidrato
+    ext: Glúcidu
+    fa: کربوهیدرات
+    fi: hiilihydraatti
+    fr: glucide
+    frr: Köölhüdraaten
+    fy: Koalhydraat
+    ga: carbaihiodráit
+    gd: Gualuisg
+    gl: carbohidrato
+    gsw: Kohlenhydrate
+    he: פחמימה
+    hi: शर्करा
+    hif: Carbohydrate
+    hr: ugljikohidrati
+    ht: Kabonidrat
+    hu: szénhidrát
+    hy: ածխաջրեր
+    ia: carbohydrato
+    id: Karbohidrat
+    ie: Carbohidrate
+    ilo: karbohidrato
+    io: Karbohidrato
+    is: Sykra
+    it: glucidi
+    ja: 炭水化物
+    jv: Karbohidrat
+    ka: ნახშირწყლები
+    kge: Karbohidrat
+    kk: Көмірсулар
+    kn: ಕಾರ್ಬೋಹೈಡ್ರೇಟುಗಳು
+    ko: 탄수화물
+    ks: کاربوہایڈریٹ
+    ku: Karbohîdrat
+    ky: Углеводдор
+    la: Carbohydratum
+    lb: Kuelenhydrat
+    lmo: Carbuidraa
+    lo: ກະລູຊິດ
+    lt: angliavandeniai
+    lv: ogļhidrāti
+    lzh: 醣類
+    mg: Gliosida
+    mk: Јаглехидрат
+    ml: കാർബോഹൈഡ്രേറ്റ്
+    mn: Нүүрс ус
+    ms: karbohidrat
+    ms-arab: کربوهيدرت
+    my: ကာဗိုဟိုက်ဒရိတ်
+    nan: Carbohydrate
+    nb: karbohydrat
+    nds: Kohlenhydrate
+    ne: कार्बोहाइड्रेट
+    new: शर्करा
+    nl: koolhydraat
+    nn: karbohydrat
+    oc: Glucid
+    om: Carbohydrate
+    or: ଶ୍ଵେତସାର
+    os: æвзалыдæттæ
+    pa: ਕਾਰਬੋਹਾਈਡਰੇਟ
+    pl: węglowodan
+    pms: Carboidrat
+    pnb: کاربوہائیڈریٹ
+    ps: کاربوهایډرېټ
+    pt: hidrato de carbono
+    pt-br: carboidrato
+    qu: K'illimsayaku
+    rki: ကာဘိုဟိုက်ဒရိတ်
+    ro: carbohidrat
+    ru: углеводы
+    rue: Вуглёводы
+    sah: Углевод
+    sat: ᱠᱟᱨᱵᱳᱦᱟᱭᱰᱨᱮᱴ
+    scn: Carbuidrati
+    sco: carbohydrate
+    sd: نشاستو
+    se: karbohydráhta
+    sgs: Onglėondėnē
+    sh: Ugljeni hidrati
+    si: කාබෝහයිඩ් රේට
+    sk: sacharid
+    sl: ogljikov hidrat
+    smn: čiđđâhydraat
+    sn: Carbohydrates
+    sq: Karbohidratet
+    sr: угљени хидрати
+    sr-ec: Угљени хидрат
+    su: Karbohidrat
+    sv: kolhydrat
+    sw: Hidrati kabonia
+    ta: காபோவைதரேட்டு
+    te: పిండి పదార్ధాలు
+    tg: Карбогидратҳо
+    th: คาร์โบไฮเดรต
+    tl: carbohydrate
+    tr: karbonhidrat
+    tt: Күмерсулар
+    tyv: Углеводтар
+    udm: углеводъёс
+    uk: вуглеводи
+    ur: کاربو ہائیڈریٹ
+    uz: Uglevodlar
+    vec: Carboidrati
+    vi: carbohydrat
+    war: Karbohidrato
+    wuu: 醣类
+    xmf: ნოშქერწყარეფი
+    yi: קארבאהידראט
+    yue: 醣
+    za: Danqsuijvaqhozvuz
+    zh: 醣類
 ---
-
 # [[Carbohydrate]] 
 
 The different levels of carbohydrates are classified based on their complexity and structure. 

@@ -1,32 +1,164 @@
 ---
 aliases:
+- beirate
+- festett üveg
+- Glaasmoolerei
+- Glasmaleree
+- Glasmalerei
+- glasmaleri
+- glasmåleri
+- glasmålning
+- glasraam
+- glassmaleri
+- gloine dhaite
+- gwerenn-livet
+- gwydr lliw
+- kaca berwarna
+- kaca patri
+- kioo cha rangi
+- kính màu ghép
+- lasimaalaus
+- stained glass
+- veirial
+- vetrada
+- vetrata
+- veulire
+- vidreira gótica
+- vidrera
+- vitraaž
+- vitrail
+- vitraj
+- vitral
+- vitralio
+- vitraliu
+- vitrall
+- vitralo
+- vitray
+- vitraž
+- vitražas
+- vitráž
+- vitrāža
+- witraż
+- υαλογραφία
+- вітраж
+- витраж
+- стъклопис
+- Վիտրաժ
+- ויטראז'
+- زجاج معشق
+- شیشه رنگی
+- चित्रकाच
+- रंगीन कांच
+- ਲਿਬੜਿਅਾ ਗਲਾਸ
+- งานกระจกสี
+- ვიტრაჟი
+- ステンドグラス
+- 玻璃花窗
+- 花窗玻璃
+- 스테인드글라스
 has_id_wikidata: Q1473346
 significant_person:
-  - "[[_Standards/WikiData/WD~William_Morris,182589]]"
-  - "[[_Standards/WikiData/WD~Louis_Comfort_Tiffany,312950]]"
-  - "[[_Standards/WikiData/WD~Johannes_Schreiter,1230597]]"
-  - "[[_Standards/WikiData/WD~John_Piper,4363211]]"
-  - "[[_Standards/WikiData/WD~Brian_Clarke,4963372]]"
-has_characteristic: "[[_Standards/WikiData/WD~polychromy,183127]]"
-subclass_of: "[[_Standards/WikiData/WD~work_of_art,838948]]"
+- '[[_Standards/WikiData/WD~William_Morris,182589]]'
+- '[[_Standards/WikiData/WD~Louis_Comfort_Tiffany,312950]]'
+- '[[_Standards/WikiData/WD~Johannes_Schreiter,1230597]]'
+- '[[_Standards/WikiData/WD~John_Piper,4363211]]'
+- '[[_Standards/WikiData/WD~Brian_Clarke,4963372]]'
+has_characteristic: '[[_Standards/WikiData/WD~polychromy,183127]]'
+subclass_of: '[[_Standards/WikiData/WD~work_of_art,838948]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~metal_oxide,1795231]]"
-  - "[[_Standards/WikiData/WD~glass,11469]]"
-different_from: "[[_Standards/WikiData/WD~stained_glass_window,21061279]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-fabrication_method: "[[_Standards/WikiData/WD~stained_glass_design,115200950]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]"
+- '[[_Standards/WikiData/WD~metal_oxide,1795231]]'
+- '[[_Standards/WikiData/WD~glass,11469]]'
+different_from: '[[_Standards/WikiData/WD~stained_glass_window,21061279]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+fabrication_method: '[[_Standards/WikiData/WD~stained_glass_design,115200950]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_work_of_art,116474095]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2014%20Nysa%2C%20Bazylika%20%C5%9Bw.%20Jakuba%20i%20%C5%9Bw.%20Agnieszki%2C%20witra%C5%BC.jpg
 Commons_gallery: Stained glass
 Commons_category: Stained glass
 Wolfram_Language_entity_code: Entity["Concept", "StainedGlass::8qsfb"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/VITRAZH.html
 hashtag: stainedglass
+dv_has_:
+  name_:
+    an: vidrera
+    ar: زجاج معشق
+    arz: زجاج معشق
+    ast: vitral
+    az: vitraj
+    be: вітраж
+    be-tarask: вітраж
+    bg: стъклопис
+    br: gwerenn-livet
+    bs: vitraž
+    ca: vitrall
+    cs: vitráž
+    cy: gwydr lliw
+    da: glasmaleri
+    de: Glasmalerei
+    el: υαλογραφία
+    en: stained glass
+    eo: vitralo
+    es: vitral
+    et: vitraaž
+    eu: beirate
+    fa: شیشه رنگی
+    fi: lasimaalaus
+    fr: vitrail
+    ga: gloine dhaite
+    gl: vidreira gótica
+    gsw: Glaasmoolerei
+    he: ויטראז'
+    hi: रंगीन कांच
+    hr: vitraj
+    hu: festett üveg
+    hy: Վիտրաժ
+    id: kaca patri
+    io: vitralio
+    it: vetrata
+    ja: ステンドグラス
+    ka: ვიტრაჟი
+    kk: витраж
+    ko: 스테인드글라스
+    ky: витраж
+    lt: vitražas
+    lv: vitrāža
+    mk: витраж
+    mr: चित्रकाच
+    ms: kaca berwarna
+    nb: glassmaleri
+    nds: Glasmaleree
+    nl: glasraam
+    nn: glasmåleri
+    nrm: vitral
+    oc: veirial
+    pa: ਲਿਬੜਿਅਾ ਗਲਾਸ
+    pl: witraż
+    pt: vitral
+    pt-br: vitral
+    ro: vitraliu
+    ru: витраж
+    sh: vitraj
+    sk: vitráž
+    sl: vitraj
+    sr: витраж
+    su: kaca patri
+    sv: glasmålning
+    sw: kioo cha rangi
+    tg: витраж
+    th: งานกระจกสี
+    tr: vitray
+    uk: вітраж
+    uz: vitraj
+    vec: vetrada
+    vi: kính màu ghép
+    wa: veulire
+    wuu: 玻璃花窗
+    yue: 花窗玻璃
+    zh: 花窗玻璃
 ---
-
 # [[Stained_Glass]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Stained_glass,1473346|WD~Stained_glass,1473346]]  

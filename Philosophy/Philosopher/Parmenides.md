@@ -1,52 +1,96 @@
 ---
 aliases:
+- Parmenid
+- Parmenidas
+- Parmenide
+- Parmenides
+- Parmenides från Elea
+- Parmenidhi
+- Parmenido
+- Parmenidés
+- Parmenidész
+- Parmenídes
+- Parmenîdês
+- Parmenīds
+- Parmènides
+- Parménid
+- Parménide
+- Parménides
+- Parménides d'Elea
+- Parménides de Elea
+- Parménidi
+- Parmênides
+- Παρμενίδης
+- Парменід
+- Парменид
+- Пармэнід
+- Պարմենիդես
+- Փարմենիտիս
+- פרמנידס
+- بارامانیاس
+- بارمنيدس
+- برمانيدس
+- پارمنیدس
+- پارمێنیدیس
+- पारमेनीडेस
+- পার্মেনিদিস
+- ਪਾਰਮੇਨੀਡੇਸ
+- පාමෙනියිඩස්
+- พาร์เมนิดีส
+- ཕཱ་ར་མེ་ནེ་ཌི་ཟི།
+- პარმენიდე
+- パルメニデス
+- 巴文尼迪
+- 巴門尼德
+- 巴门尼德
+- 파르메니데스
 has_id_wikidata: Q125551
 student:
-  - "[[_Standards/WikiData/WD~Empedocles,83375]]"
-  - "[[_Standards/WikiData/WD~Zeno_of_Elea,132157]]"
-  - "[[_Standards/WikiData/WD~Euclid_of_Megara,312682]]"
-student_of: "[[_Standards/WikiData/WD~Xenophanes,131671]]"
+- '[[_Standards/WikiData/WD~Empedocles,83375]]'
+- '[[_Standards/WikiData/WD~Zeno_of_Elea,132157]]'
+- '[[_Standards/WikiData/WD~Euclid_of_Megara,312682]]'
+student_of: '[[_Standards/WikiData/WD~Xenophanes,131671]]'
 movement:
-  - "[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]"
-  - "[[_Standards/WikiData/WD~Eleatics,214577]]"
-place_of_birth: "[[_Standards/WikiData/WD~Velia,272968]]"
+- '[[_Standards/WikiData/WD~Pre_Socratic_philosophy,178540]]'
+- '[[_Standards/WikiData/WD~Eleatics,214577]]'
+place_of_birth: '[[_Standards/WikiData/WD~Velia,272968]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Introduzione_a_Parmenide,3800794]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]"
-  - "[[_Standards/WikiData/WD~The_Legacy_of_Parmenides,135990040]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Introduzione_a_Parmenide,3800794]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~1870_Dictionary_of_Greek_and_Roman_Biography_and_Mythology,47500198]]'
+- '[[_Standards/WikiData/WD~The_Legacy_of_Parmenides,135990040]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~ancient_Greek_philosophy,999259]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~metaphysics,35277]]"
+- '[[_Standards/WikiData/WD~ancient_Greek_philosophy,999259]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~metaphysics,35277]]'
 occupation:
-  - "[[_Standards/WikiData/WD~legislator,4175034]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~poet,49757]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-depicted_by: "[[_Standards/WikiData/WD~Bust_of_Parmenides,131546561]]"
+- '[[_Standards/WikiData/WD~legislator,4175034]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+depicted_by: '[[_Standards/WikiData/WD~Bust_of_Parmenides,131546561]]'
 date_of_death: -0469-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-writing_language: "[[_Standards/WikiData/WD~Ancient_Greek,35497]]"
-influenced_by: "[[_Standards/WikiData/WD~Heraclitus,41155]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+influenced_by: '[[_Standards/WikiData/WD~Heraclitus,41155]]'
 BHCL_UUID: 2c1bcc83-b142-4bcf-82e6-31e0e789cba1
 name_in_native_language: Παρμενίδης
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Busto%20di%20Parmenide%20%28cropped%29.jpg
-ISNI: "0000000119450536"
+ISNI: 0000000119450536
 Europeana_entity: agent/base/145350
 Libris_URI: dbqsw61x0pz88xx
 Wolfram_Language_entity_code: Entity["Concept", "Parmenides::373kk"]
@@ -55,8 +99,109 @@ PhilPapers_topic: parmenides
 Commons_Creator_page: Parmenides of Elea
 Commons_category: Parmenides of Elea
 date_of_birth: -0514-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Parmenides
+    ar: برمانيدس
+    arz: بارمنيدس
+    ast: Parménides d'Elea
+    az: Parmenid
+    be: Парменід
+    be-tarask: Пармэнід
+    bg: Парменид
+    bn: পার্মেনিদিস
+    bo: ཕཱ་ར་མེ་ནེ་ཌི་ཟི།
+    bs: Parmenid
+    ca: Parmènides
+    ckb: پارمێنیدیس
+    cs: Parmenidés
+    cy: Parmenides
+    da: Parmenides
+    de: Parmenides
+    el: Παρμενίδης
+    en: Parmenides
+    eo: Parmenido
+    es: Parménides de Elea
+    et: Parmenides
+    eu: Parmenides
+    ext: Parménidi
+    fa: پارمنیدس
+    fi: Parmenides
+    fo: Parmenides
+    fr: Parménide
+    ga: Parmenides
+    gd: Parmenides
+    gl: Parménides de Elea
+    grc: Παρμενίδης
+    he: פרמנידס
+    hi: पारमेनीडेस
+    hr: Parmenid
+    hu: Parmenidész
+    hy: Պարմենիդես
+    hyw: Փարմենիտիս
+    id: Parmenides
+    is: Parmenídes
+    it: Parmenide
+    ja: パルメニデス
+    ka: პარმენიდე
+    kk: Парменид
+    ko: 파르메니데스
+    ku: Parmenîdês
+    ky: Парменид
+    la: Parmenides
+    lfn: Parmenide
+    li: Parmenides
+    lt: Parmenidas
+    lv: Parmenīds
+    mg: Parménide
+    mk: Парменид
+    mwl: Parménides
+    mzn: پارمنیدس
+    nb: Parmenides
+    nl: Parmenides
+    nn: Parmenides
+    oc: Parmenides
+    pa: ਪਾਰਮੇਨੀਡੇਸ
+    pap: Parménides
+    pl: Parmenides
+    pms: Parménid
+    pnb: بارامانیاس
+    pt: Parménides
+    pt-br: Parmênides
+    ro: Parmenide
+    ru: Парменид
+    sco: Parmenides
+    se: Parmenides
+    sh: Parmenid
+    si: පාමෙනියිඩස්
+    sk: Parmenides
+    skr: بارامانیاس
+    sl: Parmenid
+    sq: Parmenidhi
+    sr: Парменид
+    sr-ec: Парменид
+    sr-el: Parmenid
+    sv: Parmenides från Elea
+    th: พาร์เมนิดีส
+    tr: Parmenides
+    tt: Парменид
+    uk: Парменід
+    ur: بارامانیاس
+    uz: Parmenid
+    vi: Parmenides
+    vo: Parmenides
+    war: Parmenides
+    wuu: 巴门尼德
+    xmf: პარმენიდე
+    yue: 巴文尼迪
+    zh: 巴门尼德
+    zh-cn: 巴门尼德
+    zh-hans: 巴门尼德
+    zh-hant: 巴門尼德
+    zh-hk: 巴門尼德
+    zh-sg: 巴门尼德
+    zh-tw: 巴門尼德
 ---
-
 # [[Parmenides]] 
 
 #is_/same_as :: [[WD~Parmenides,125551]] 

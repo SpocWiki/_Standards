@@ -20,8 +20,8 @@ dv_is_same_as:
   - "[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]"
   - "[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]"
   - "[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]"
+has_id_wikidata: Q527395
 ---
-
 # [[Knot]] 
 
  is_similar_to = `$= dv.current().__is_similar_to` 

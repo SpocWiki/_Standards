@@ -1,36 +1,222 @@
 ---
 aliases:
-  - Potenzierung
-  - Exponentiation
+- Aangessoo(ekispoonentii)
+- astendamine
+- berreketa
+- darajaga koʻtarish
+- dərəcəyə yüksəltmə
+- eksponansyasyon
+- eksponen
+- eksponentasyon
+- esbonydd
+- esponenti
+- exponenciação
+- exponenshieshan
+- Exponentiation
+- exponențiere
+- hatványozás
+- kāpināšana
+- kėlimas laipsniu
+- lũy thừa
+- machsverhöffing
+- machtsverheffen
+- magsverheffing
+- muradanuro
+- pagpapalakas
+- pali pi sewi nanpa
+- pengeksponenan
+- potenciación
+- potenciranje
+- potenco
+- potens
+- potensering
+- potenssi
+- potensur
+- potentia
+- potentiation
+- Potenz
+- potenza
+- Potenzierung
+- potència
+- potęgowanie
+- putenza
+- stepenovanje
+- séan
+- Toraka (matematika)
+- umocňovanie
+- umocňování
+- veldi
+- yupa huqariy
+- üslü sayı
+- ύψωση σε δύναμη
+- бүтүн көрдөрөөччүлээх степень
+- возведение в степень
+- дәрежелеу
+- дәрәжәгә күтәреү
+- зэргэдэ дэбжүүлхэ
+- идрлһн
+- капаштару
+- піднесення до степеня
+- степеновање
+- степенување
+- степенуване
+- ступеняванне
+- ступеняваньне
+- աստիճան
+- חזקה
+- מדריגה
+- توان
+- دەرىجە (ماتېماتىكا)
+- رفع أسي
+- घातांक
+- घाताङ्क
+- সূচকীকরণ
+- ਘਾਤ ਅੰਕ
+- அடுக்கேற்றம்
+- การยกกำลัง
+- ເລກກຳລັງ
+- ახარისხება
+- ንሴት
+- 冪
+- 冪乗
+- 冪運算
+- 幂
+- 幂运算
+- 指數化
+- 次方
+- 거듭제곱
 has_id_wikidata: Q33456
 subclass_of: '[[_Standards/WikiData/WD~binary_operation,164307]]'
 has_use:
-  - '[[_Standards/WikiData/WD~exponential_function,168698]]'
-  - '[[_Standards/WikiData/WD~power_function,1173515]]'
-  - '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
+- '[[_Standards/WikiData/WD~exponential_function,168698]]'
+- '[[_Standards/WikiData/WD~power_function,1173515]]'
+- '[[_Standards/WikiData/WD~natural_exponential_function,47306354]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~antilogarithm,577570]]'
 opposite_of: '[[_Standards/WikiData/WD~nth_root,601053]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
-  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of: '[[_Standards/WikiData/WD~hyperoperation,1569997]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~exponent,2233915]]'
-  - '[[_Standards/WikiData/WD~base,2886413]]'
-  - '[[_Standards/WikiData/WD~power,55091534]]'
+- '[[_Standards/WikiData/WD~exponent,2233915]]'
+- '[[_Standards/WikiData/WD~base,2886413]]'
+- '[[_Standards/WikiData/WD~power,55091534]]'
 different_from:
-  - '[[_Standards/WikiData/WD~function_iteration,5254619]]'
-  - '[[_Standards/WikiData/WD~power,55091534]]'
+- '[[_Standards/WikiData/WD~function_iteration,5254619]]'
+- '[[_Standards/WikiData/WD~power,55091534]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 depicted_by: '[[_Standards/WikiData/WD~caret,12646412]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Expo02.svg
 Stack_Exchange_tag: https://stackoverflow.com/tags/exponent
 IEV_number: 102-02-07
 Commons_category: Exponentiation
+dv_has_:
+  name_:
+    af: magsverheffing
+    am: ንሴት
+    ar: رفع أسي
+    ast: potenciación
+    az: dərəcəyə yüksəltmə
+    ba: дәрәжәгә күтәреү
+    bcl: eksponentasyon
+    be: ступеняванне
+    be-tarask: ступеняваньне
+    bg: степенуване
+    bn: সূচকীকরণ
+    bs: stepenovanje
+    bxr: зэргэдэ дэбжүүлхэ
+    ca: potència
+    ckb: توان
+    cs: umocňování
+    cv: капаштару
+    cy: esbonydd
+    da: potens
+    de: Potenzierung
+    de-ch: Potenz
+    el: ύψωση σε δύναμη
+    en: exponentiation
+    en-ca: exponentiation
+    en-gb: exponentiation
+    eo: potenco
+    es: potenciación
+    et: astendamine
+    eu: berreketa
+    fa: توان
+    fi: potenssi
+    fo: potensur
+    fr: exponentiation
+    frr: Potens
+    ga: séan
+    gan: 冪
+    gcr: eksponansyasyon
+    gl: potenciación
+    gsw: Potenz
+    he: חזקה
+    hi: घातांक
+    hr: potenciranje
+    hu: hatványozás
+    hy: աստիճան
+    ia: potentiation
+    id: eksponen
+    io: potenco
+    is: veldi
+    it: potenza
+    ja: 冪乗
+    jam: exponenshieshan
+    ka: ახარისხება
+    kk: дәрежелеу
+    ko: 거듭제곱
+    la: potentia
+    lfn: esponenti
+    li: machsverhöffing
+    lo: ເລກກຳລັງ
+    lt: kėlimas laipsniu
+    lv: kāpināšana
+    mg: Toraka (matematika)
+    mk: степенување
+    ms: pengeksponenan
+    nb: potens
+    ne: घाताङ्क
+    nl: machtsverheffen
+    nn: potensering
+    oc: exponentiation
+    om: Aangessoo(ekispoonentii)
+    pa: ਘਾਤ ਅੰਕ
+    pl: potęgowanie
+    pt: exponenciação
+    pt-br: exponenciação
+    qu: yupa huqariy
+    ro: exponențiere
+    ru: возведение в степень
+    sah: бүтүн көрдөрөөччүлээх степень
+    scn: putenza
+    sh: stepenovanje
+    sk: umocňovanie
+    sl: potenciranje
+    sn: muradanuro
+    sr: степеновање
+    sv: potens
+    ta: அடுக்கேற்றம்
+    th: การยกกำลัง
+    tl: pagpapalakas
+    tok: pali pi sewi nanpa
+    tr: üslü sayı
+    ug: دەرىجە (ماتېماتىكا)
+    uk: піднесення до степеня
+    uz: darajaga koʻtarish
+    vi: lũy thừa
+    war: eksponentasyon
+    wuu: 幂
+    xal: идрлһн
+    yi: מדריגה
+    yue: 次方
+    zh: 冪運算
+    zh-hans: 幂运算
+    zh-hant: 指數化
+    zh-tw: 指數化
 ---
-
 # [[Exponentiation]] 
 
 #has_/inverse :: [[Logarithm]] 

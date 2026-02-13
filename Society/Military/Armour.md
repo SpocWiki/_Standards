@@ -1,17 +1,75 @@
 ---
 aliases:
-  - Armour
+- arfwisg
+- armachd
+- armadura
+- armatura
+- Armour
+- armure
+- armură
+- armúr
+- body armor
+- body armour
+- haarniska
+- harnas
+- herklæði
+- houarnwisk
+- korpa kiraso
+- laatt
+- oklep
+- oklop
+- perisai badan
+- personal armor
+- purupuru
+- páncél
+- rustning
+- Rüstung
+- soomus
+- wapenrusting
+- zbroj
+- zbroja
+- zirah
+- zireh
+- zirx
+- zırh
+- áo giáp
+- šarvai
+- барзакъ
+- браня
+- броня
+- доспехи
+- Зиреҳ
+- лувц
+- обладунок
+- оклоп
+- զրահաբաճկոն
+- שריון גוף
+- درع
+- زره
+- زِرہ
+- चिलखत
+- नहाः
+- கவசமிட்ட வீரர்
+- ಕವಚ
+- เกราะส่วนบุคคล
+- აბჯარი
+- 甲胄
+- 盔甲
+- 護具
+- 身體盔甲
+- 鎧
+- 갑옷
 has_id_wikidata: Q485027
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~personal_protective_equipment,1333024]]'
-  - '[[_Standards/WikiData/WD~armor,11886611]]'
-  - '[[_Standards/WikiData/WD~protective_clothing,14524031]]'
+- '[[_Standards/WikiData/WD~personal_protective_equipment,1333024]]'
+- '[[_Standards/WikiData/WD~armor,11886611]]'
+- '[[_Standards/WikiData/WD~protective_clothing,14524031]]'
 different_from: '[[_Standards/WikiData/WD~vehicle_armor,1937453]]'
 model_item: '[[_Standards/WikiData/WD~Armor_of_Emperor_Ferdinand_I,28790437]]'
 Product_and_Service_Code: 8470
@@ -19,16 +77,95 @@ Nomenclature_for_Museum_Cataloging: 8103
 Iconclass_notation: 45C22
 subreddit: Armor
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Armor.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Armures%2C%20r%C3%A9serves%20du%20mus%C3%A9e%20de%20l%27Arm%C3%A9e%2C%20Paris%202010.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20cuirass%20BM%20GR1873.8-20.223.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Burg%20Vianden%203%20%28cropped%29.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Armor.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Armures%2C%20r%C3%A9serves%20du%20mus%C3%A9e%20de%20l%27Arm%C3%A9e%2C%20Paris%202010.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20cuirass%20BM%20GR1873.8-20.223.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Burg%20Vianden%203%20%28cropped%29.JPG
 Provenio_UUID: 219824c7-86b2-4b58-9058-9eef1da37df3
 P8189: 987007551488005171
 Wolfram_Language_entity_code: Entity["Concept", "BodyArmor::44jf7"]
 Commons_category: Personal armour
+dv_has_:
+  name_:
+    af: wapenrusting
+    ar: درع
+    ast: armadura
+    az: zireh
+    be: браня
+    be-tarask: браня
+    bg: броня
+    br: houarnwisk
+    bs: oklop
+    ca: armadura
+    ce: барзакъ
+    cs: zbroj
+    cy: arfwisg
+    da: rustning
+    de: Rüstung
+    en: body armor
+    en-ca: personal armor
+    en-gb: body armour
+    eo: korpa kiraso
+    es: armadura
+    et: soomus
+    eu: armadura
+    fa: زره
+    fi: haarniska
+    fr: armure
+    ga: armúr
+    gd: armachd
+    gl: armadura
+    he: שריון גוף
+    hr: oklop
+    hu: páncél
+    hy: զրահաբաճկոն
+    id: zirah
+    is: herklæði
+    it: armatura
+    ja: 鎧
+    ka: აბჯარი
+    kn: ಕವಚ
+    ko: 갑옷
+    ku: zirx
+    lt: šarvai
+    lzh: 甲胄
+    mk: оклоп
+    mr: चिलखत
+    ms: perisai badan
+    nb: rustning
+    new: नहाः
+    nl: harnas
+    nn: rustning
+    oc: armadura
+    pl: zbroja
+    pms: Armadura
+    pt: armadura
+    pt-br: armadura
+    qu: purupuru
+    ro: armură
+    ru: доспехи
+    sh: oklop
+    sl: oklep
+    sms: laatt
+    sq: armatura
+    sr: оклоп
+    sr-ec: оклоп
+    sr-el: oklop
+    ta: கவசமிட்ட வீரர்
+    tg: Зиреҳ
+    th: เกราะส่วนบุคคล
+    tr: zırh
+    uk: обладунок
+    ur: زِرہ
+    vec: armadura
+    vi: áo giáp
+    xal: лувц
+    yue: 護具
+    zh: 身體盔甲
+    zh-hans: 盔甲
+    zh-hant: 盔甲
+    zh-hk: 盔甲
 ---
-
 # [[Armour]] 
 
 #is_/same_as :: [[../../WikiData/WD~Armour,485027|WD~Armour,485027]] 

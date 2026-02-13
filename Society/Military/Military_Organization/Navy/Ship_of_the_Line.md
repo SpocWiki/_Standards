@@ -1,15 +1,129 @@
 ---
 aliases:
+- anije e linjës
+- Hat gemisi
+- Kapal perang layar
+- Lestr eus al linenn
+- Liinilaev (sõjandus)
+- Lineako itsasontzi
+- Linienschiff
+- linieschip
+- linijska ladja
+- Linijski brod
+- liniŝipo
+- linjalaiva
+- linjeskepp
+- linjeskib
+- linjeskip
+- Línuherskip
+- nau de linha
+- Nav ëd linia
+- nave de liña
+- navili de línia
+- navire de ligne
+- Naviri de linha
+- Navío de llínea
+- navío de línea
+- navă de linie
+- okręt liniowy
+- radová loď
+- ship of the line
+- sorhajó
+- Tàu chiến tuyến
+- vascello
+- Xətt gəmisi
+- řadová loď
+- Πλοίο γραμμής
+- вітрильний лінійний корабель
+- лінейны карабель
+- Линеен кораб
+- линейный корабль
+- линијски брод
+- линиски брод
+- Парӑслӑ йĕрлĕ карап
+- אוניית קו
+- سفينة خطية
+- کشتی خط
+- ਸ਼ਿਪ ਆਫ਼ ਦਾ ਲਾਈਨ
+- เรือรบแนวเส้นประจัญบาน
+- 戦列艦
+- 風帆戰列艦
+- 風帆戰艦
+- 风帆战列舰
+- 전열함
 has_id_wikidata: Q207452
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-subclass_of: "[[_Standards/WikiData/WD~warship,2031121]]"
-instance_of: "[[_Standards/WikiData/WD~ship_type,2235308]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+subclass_of: '[[_Standards/WikiData/WD~warship,2031121]]'
+instance_of: '[[_Standards/WikiData/WD~ship_type,2235308]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vaisseau%20fran%C3%A7ais%20le%20Saint-Esprit%20au%20combat%20en%201782.jpg
 Commons_category: Ships of the line
+dv_has_:
+  name_:
+    ar: سفينة خطية
+    ast: Navío de llínea
+    az: Xətt gəmisi
+    be-tarask: лінейны карабель
+    bg: Линеен кораб
+    br: Lestr eus al linenn
+    bs: Linijski brod
+    ca: navili de línia
+    cs: řadová loď
+    cv: Парӑслӑ йĕрлĕ карап
+    da: linjeskib
+    de: Linienschiff
+    el: Πλοίο γραμμής
+    en: ship of the line
+    eo: liniŝipo
+    es: navío de línea
+    et: Liinilaev (sõjandus)
+    eu: Lineako itsasontzi
+    fa: کشتی خط
+    fi: linjalaiva
+    fr: navire de ligne
+    gl: nave de liña
+    he: אוניית קו
+    hr: Linijski brod
+    hu: sorhajó
+    id: Ship of the line
+    is: Línuherskip
+    it: vascello
+    ja: 戦列艦
+    ko: 전열함
+    mk: линиски брод
+    ms: Kapal perang layar
+    nb: linjeskip
+    nl: linieschip
+    nn: linjeskip
+    oc: Naviri de linha
+    pa: ਸ਼ਿਪ ਆਫ਼ ਦਾ ਲਾਈਨ
+    pl: okręt liniowy
+    pms: Nav ëd linia
+    pt: nau de linha
+    ro: navă de linie
+    ru: линейный корабль
+    sh: Linijski brod
+    sk: radová loď
+    sl: linijska ladja
+    sq: anije e linjës
+    sr: линијски брод
+    sr-ec: линијски брод
+    sr-el: linijski brod
+    sv: linjeskepp
+    th: เรือรบแนวเส้นประจัญบาน
+    tr: Hat gemisi
+    uk: вітрильний лінійний корабель
+    vi: Tàu chiến tuyến
+    yue: 風帆戰列艦
+    zh: 风帆战列舰
+    zh-cn: 风帆战列舰
+    zh-hans: 风帆战列舰
+    zh-hant: 風帆戰列艦
+    zh-hk: 風帆戰列艦
+    zh-sg: 风帆战列舰
+    zh-tw: 風帆戰艦
 ---
-
 # [[Ship_of_the_Line]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ship_of_the_line,207452|WD~Ship_of_the_line,207452]]  

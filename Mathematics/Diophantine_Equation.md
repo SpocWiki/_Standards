@@ -1,4 +1,122 @@
-
+---
+has_id_wikidata: Q905896
+dv_has_:
+  name_:
+    ar: معادلة ديفونتية
+    ast: Ecuación diofántica
+    az: Diyofantus tənliyi
+    ba: Диофант тигеҙләмәһе
+    be-tarask: дыяфантава раўнаньне
+    bg: Диофантово уравнение
+    bn: ডায়োফ্যান্টাইন সমীকরণ
+    bs: Diofantska jednačina
+    ca: equació diofàntica
+    cs: diofantická rovnice
+    cv: Диофант танлăхĕ
+    da: diofantisk ligning
+    de: diophantische Gleichung
+    el: Διοφαντική εξίσωση
+    en: Diophantine equation
+    eo: Diofanta ekvacio
+    es: ecuación diofántica
+    et: Diofantiline võrrand
+    eu: Ekuazio diofantoar
+    fa: معادله سیاله
+    fi: Diofantoksen yhtälö
+    fr: équation diophantienne
+    ga: Cothromóidí Diafantais
+    gl: ecuación diofantiana
+    gsw: Diophantische Gleichung
+    he: משוואה דיופנטית
+    hi: डायोफैंटीय समीकरण
+    hr: Diofantska jednadžba
+    hu: diofantoszi egyenlet
+    hy: Դիոֆանտյան հավասարում
+    id: persamaan Diophantine
+    io: Diofantan equaciono
+    it: equazione diofantea
+    ja: ディオファントス方程式
+    kk: Диофант теңдеулері
+    ko: 디오판토스 방정식
+    la: aequatio Diophantina
+    lmo: Equazziun diufàntega
+    lt: Diofantinė lygtis
+    lv: Diofanta vienādojums
+    ml: ഡയൊഫന്റൈൻ സമവാക്യം
+    nap: Equazione diofantea
+    nb: diofantisk ligning
+    nl: diophantische vergelijking
+    pl: równanie diofantyczne
+    pms: Equassion diofantin-a
+    pt: equação diofantina
+    pt-br: equação diofantina
+    ro: ecuație diofantică
+    ru: диофантово уравнение
+    sh: Diofantske jednačine
+    sl: Diofantska enačba
+    sr: Diofantske jednačine
+    sv: diofantisk ekvation
+    tr: Diophantus Denklemi
+    uk: діофантове рівняння
+    uz: Diofant tenglamalari
+    vi: Phương trình Diophantine
+    yue: 丟番圖方程式
+    zh: 丟番圖方程
+aliases:
+- aequatio Diophantina
+- Cothromóidí Diafantais
+- Diofant tenglamalari
+- Diofanta ekvacio
+- Diofanta vienādojums
+- Diofantan equaciono
+- diofantická rovnice
+- Diofantiline võrrand
+- Diofantinė lygtis
+- diofantisk ekvation
+- diofantisk ligning
+- Diofantoksen yhtälö
+- diofantoszi egyenlet
+- Diofantska enačba
+- Diofantska jednadžba
+- Diofantska jednačina
+- Diofantske jednačine
+- Diophantine equation
+- diophantische Gleichung
+- diophantische vergelijking
+- Diophantus Denklemi
+- Diyofantus tənliyi
+- ecuación diofantiana
+- Ecuación diofántica
+- ecuație diofantică
+- Ekuazio diofantoar
+- equació diofàntica
+- Equassion diofantin-a
+- equazione diofantea
+- Equazziun diufàntega
+- equação diofantina
+- persamaan Diophantine
+- Phương trình Diophantine
+- równanie diofantyczne
+- équation diophantienne
+- Διοφαντική εξίσωση
+- діофантове рівняння
+- Диофант танлăхĕ
+- Диофант теңдеулері
+- Диофант тигеҙләмәһе
+- Диофантово уравнение
+- дыяфантава раўнаньне
+- Դիոֆանտյան հավասարում
+- משוואה דיופנטית
+- معادلة ديفونتية
+- معادله سیاله
+- डायोफैंटीय समीकरण
+- ডায়োফ্যান্টাইন সমীকরণ
+- ഡയൊഫന്റൈൻ സമവാക്യം
+- ディオファントス方程式
+- 丟番圖方程
+- 丟番圖方程式
+- 디오판토스 방정식
+---
 # [[Diophantine_Equation]] 
 
 #has_/creator :: [[Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria|Diophantus_of_Alexandria]] 

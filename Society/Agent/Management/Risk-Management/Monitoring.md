@@ -1,10 +1,95 @@
 ---
 aliases:
-  - Beobachtung
-  - 
+- Beobachtung
+- felügyelet
+- gvatado
+- monatóireacht
+- monitoraggio
+- monitorajo
+- monitoreig
+- monitoreo
+- monitorering
+- monitoring
+- monitoringas
+- Monitorinq
+- monitorización
+- monitorointi
+- monitorovanie
+- monitro
+- Monïtorïng
+- nadgledanje
+- pemantauan
+- Seire
+- surveillance
+- маніторынг
+- моніторинг
+- мониторинг
+- мониториң
+- надгледање
+- пойиш
+- Մոնիտորինգ
+- ניטור
+- مراقبة
+- مونىيتورىينگ
+- پایش
+- モニタリング
+- 偵測
+- 监测
+- 모니터링 (동음이의)
 has_id_wikidata: Q2143522
+dv_has_:
+  name_:
+    ar: مراقبة
+    az: Monitorinq
+    be: маніторынг
+    be-tarask: маніторынг
+    ca: monitoreig
+    cy: monitro
+    da: monitorering
+    de: Monitoring
+    en: monitoring
+    eo: gvatado
+    es: monitoreo
+    et: Seire
+    fa: پایش
+    fi: monitorointi
+    fr: surveillance
+    ga: monatóireacht
+    gl: monitorización
+    he: ניטור
+    hr: nadgledanje
+    hu: felügyelet
+    hy: Մոնիտորինգ
+    it: monitoraggio
+    ja: モニタリング
+    kk: Мониторинг
+    kk-arab: مونىيتورىينگ
+    kk-cyrl: Мониторинг
+    kk-latn: Monïtorïng
+    ko: 모니터링 (동음이의)
+    ky: Мониторинг
+    lt: monitoringas
+    mn: Мониторинг
+    ms: pemantauan
+    nl: monitoring
+    nn: monitorering
+    pl: monitoring
+    ro: monitoring
+    ru: мониторинг
+    sk: monitorovanie
+    sl: monitoring
+    sr: надгледање
+    tg: пойиш
+    tt: мониторинг
+    tt-cyrl: мониториң
+    udm: мониторинг
+    uk: моніторинг
+    uz: Monitoring
+    vec: monitorajo
+    zh: 监测
+    zh-hant: 偵測
+    zh-tw: 偵測
 ---
-
 # [[Monitoring]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~monitoring,2143522]]

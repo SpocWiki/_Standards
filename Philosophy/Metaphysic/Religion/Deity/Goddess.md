@@ -1,4 +1,199 @@
-
+---
+has_id_wikidata: Q205985
+dv_has_:
+  name_:
+    af: godin
+    ar: إلهة
+    as: দেৱী
+    ast: Diosa
+    az: İlahə
+    bar: Geddinnen
+    bcl: Diyosa (Goddess)
+    be: багіня
+    be-tarask: багіня
+    bg: Богиня
+    bn: দেবী
+    br: Doueez
+    bs: Božica
+    ca: deessa
+    cs: bohyně
+    csb: bòżëna
+    cu: богꙑни
+    cy: duwies
+    da: gudinde
+    de: Göttin
+    de-ch: Göttin
+    dsb: bogowka
+    el: θεά
+    en: goddess
+    en-ca: Goddess
+    en-gb: goddess
+    eo: diino
+    es: diosa
+    et: Jumalanna
+    eu: Jainkosa
+    fa: ایزدبانو
+    fi: jumalatar
+    fr: déesse
+    fy: godin
+    ga: bandia
+    gcr: Déyès
+    gl: deusa
+    grc: θεά
+    gsw: Götti
+    he: אלה
+    hi: देवी
+    hr: božica
+    hsb: bohowka
+    ht: deyès
+    hu: istennő
+    hy: աստվածուհի
+    ia: Dea
+    id: Dewi
+    io: deino
+    it: dea
+    ja: 女神
+    jam: Gades
+    ka: ქალღმერთი
+    km: ព្រះទេវី
+    ko: 여신
+    ko-kp: 녀신
+    ku: xwedabanû
+    ku-latn: xwedawend
+    la: dea
+    lb: Gëttin
+    lfn: Diva
+    lmo: Dea
+    lt: Deivė
+    lv: dieviete
+    mag: देवी
+    mg: Andriamanibavy
+    min: Dewi
+    mk: божица
+    ml: ദേവി
+    mni: ꯂꯥꯢꯔꯦꯝꯕꯤ
+    ms: Dewi
+    myv: Пазава
+    nan: Lú-sîn
+    nb: gudinne
+    ne: देवि
+    new: देवी
+    nl: godin
+    nn: gudinne
+    nrm: Déêsse
+    pl: bogini
+    pt: deusa
+    pt-br: Deusa
+    ru: богиня
+    scn: dia
+    sco: goddess
+    sgs: Dievātė
+    sh: Boginja
+    sk: bohyňa
+    sl: boginja
+    sq: Perëndesha
+    sr: богиња
+    sr-ec: богиња
+    sr-el: boginja
+    sv: gudinna
+    ta: இறைவி
+    th: เทวี
+    tr: tanrıça
+    tt: алиһә
+    tt-cyrl: алиһә
+    uk: богиня
+    ur: دیوی
+    vi: nữ thần
+    vo: jigod
+    vro: Jumalanna
+    wuu: 女神
+    yue: 女神
+    zh: 女神
+    zh-cn: 女神
+    zh-hans: 女神
+    zh-hant: 女神
+    zh-hk: 女神
+    zh-sg: 女神
+    zh-tw: 女神
+aliases:
+- Andriamanibavy
+- bandia
+- bogini
+- boginja
+- bogowka
+- bohowka
+- bohyně
+- bohyňa
+- božica
+- bòżëna
+- dea
+- deessa
+- deino
+- Deivė
+- deusa
+- Dewi
+- deyès
+- dia
+- dieviete
+- Dievātė
+- diino
+- diosa
+- Diva
+- Diyosa (Goddess)
+- Doueez
+- duwies
+- déesse
+- Déyès
+- Déêsse
+- Gades
+- Geddinnen
+- goddess
+- godin
+- gudinde
+- gudinna
+- gudinne
+- Gëttin
+- Götti
+- Göttin
+- istennő
+- Jainkosa
+- jigod
+- Jumalanna
+- jumalatar
+- Lú-sîn
+- nữ thần
+- Perëndesha
+- tanrıça
+- xwedabanû
+- xwedawend
+- İlahə
+- θεά
+- алиһә
+- багіня
+- богиња
+- богиня
+- богꙑни
+- божица
+- Пазава
+- աստվածուհի
+- אלה
+- إلهة
+- ایزدبانو
+- دیوی
+- देवि
+- देवी
+- দেবী
+- দেৱী
+- இறைவி
+- ദേവി
+- เทวี
+- ქალღმერთი
+- ព្រះទេវី
+- 女神
+- ꯂꯥꯢꯔꯦꯝꯕꯤ
+- 녀신
+- 여신
+---
 # [[Goddess]] 
 
 #is_/same_as ::  [[../../../../WikiData/WD~Goddess,205985|WD~Goddess,205985]] 

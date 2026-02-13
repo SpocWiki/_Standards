@@ -1,14 +1,39 @@
 ---
-has_time_started: 1983-04-18 
+has_time_started: 1983-04-18
 aliases:
-  - Disney Channel
-  - Disney_Channel
+- Canalis Disney
+- Disney Channel
+- Disney Channel HD
+- Disney_Channel
+- Diznijev kanal
+- Діснеy Цһаннел
+- Дисни Ченъл
+- דיזני קאנאל
+- ערוץ דיסני
+- قناة ديزني
+- ڈزنی چینل
+- کانال دیزنی
+- کەناڵی دیزنی
+- डिज़्नी चैनल
+- डिज्नी च्यानल
+- डिस्नी चॅनल
+- ডিজনি চ্যানেল
+- ਡਿਜ਼ਨੀ ਚੈਨਲ
+- ดิสนีย์แชนแนล
+- ດິສນີ ຈັນເນລ
+- ဒစ္စနေးရုပ်သံလိုင်း
+- ប៉ុស្តិ៍ឌីសនីយ៍
+- ⴷⵉⵣⵏⵉ ⵛⴰⵏⵏⵉⵍ
+- ディズニー・チャンネル
+- 迪士尼頻道
+- 迪士尼频道
+- 디즈니 채널
 has_id_wikidata: Q178837
 instance_of:
-  - '[[_Standards/WikiData/WD~specialty_channel,561068]]'
-  - '[[_Standards/WikiData/WD~television_station,1616075]]'
-  - '[[_Standards/WikiData/WD~cable_channel,5009242]]'
-  - '[[_Standards/WikiData/WD~production_company,11396960]]'
+- '[[_Standards/WikiData/WD~specialty_channel,561068]]'
+- '[[_Standards/WikiData/WD~television_station,1616075]]'
+- '[[_Standards/WikiData/WD~cable_channel,5009242]]'
+- '[[_Standards/WikiData/WD~production_company,11396960]]'
 owned_by: '[[_Standards/WikiData/WD~Disney_Branded_Television,1111443]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Disney_Channel_USA,3030393]]'
 different_from: '[[_Standards/WikiData/WD~Disney_Channel,5282418]]'
@@ -17,8 +42,8 @@ parent_organization: '[[_Standards/WikiData/WD~The_Walt_Disney_Company,7414]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 headquarters_locations: '[[_Standards/WikiData/WD~Burbank,39561]]'
 social_media_followers:
-  - 524000
-  - 910284
+- 524000
+- 910284
 native_label: Disney Channel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Disney%20Channel%20HQ.jpg
 YouTube_handle: disneychannel
@@ -32,8 +57,110 @@ X_Twitter_username: DisneyChannel
 VK_username: disneyplay
 subject_named_as: The Disney Channel
 catchphrase: The Best Place to Be
+dv_has_:
+  name_:
+    af: Disney Channel
+    ar: قناة ديزني
+    ast: Disney Channel
+    az: Disney Channel
+    be-tarask: Disney Channel
+    bg: Дисни Ченъл
+    bn: ডিজনি চ্যানেল
+    ca: Disney Channel
+    ceb: Disney Channel
+    ckb: کەناڵی دیزنی
+    cs: Disney Channel
+    cy: Disney Channel
+    da: Disney Channel
+    de: Disney Channel
+    el: Disney Channel
+    en: Disney Channel
+    en-ca: Disney Channel
+    en-gb: Disney Channel
+    eo: Disney Channel
+    es: Disney Channel
+    et: Disney Channel
+    eu: Disney Channel
+    fa: کانال دیزنی
+    fi: Disney Channel
+    fit: Disney Channel
+    fr: Disney Channel
+    ga: Disney Channel
+    gl: Disney Channel
+    gn: Disney Channel
+    gv: Disney Channel
+    he: ערוץ דיסני
+    hi: डिज़्नी चैनल
+    hr: Disney Channel
+    hu: Disney Channel
+    hy: Disney Channel
+    id: Disney Channel
+    is: Disney Channel
+    it: Disney Channel
+    ja: ディズニー・チャンネル
+    jv: Disney Channel
+    ka: Disney Channel
+    kk: Disney Channel
+    kk-arab: Disney Channel
+    kk-cn: Disney Channel
+    kk-cyrl: Діснеy Цһаннел
+    kk-kz: Діснеy Цһаннел
+    kk-latn: Disney Channel
+    kk-tr: Disney Channel
+    km: ប៉ុស្តិ៍ឌីសនីយ៍
+    ko: 디즈니 채널
+    ku: Disney Channel
+    ku-latn: Disney Channel
+    la: Canalis Disney
+    lo: ດິສນີ ຈັນເນລ
+    lt: Disney Channel
+    lv: Disney Channel
+    mi: Disney Channel
+    mr: डिस्नी चॅनल
+    ms: Disney Channel
+    my: ဒစ္စနေးရုပ်သံလိုင်း
+    nb: Disney Channel
+    ne: डिज्नी च्यानल
+    nl: Disney Channel
+    nn: Disney Channel
+    pa: ਡਿਜ਼ਨੀ ਚੈਨਲ
+    pl: Disney Channel
+    pt: Disney Channel
+    pt-br: Disney Channel
+    ro: Disney Channel
+    ru: Disney Channel
+    sco: Disney Channel
+    sh: Disney Channel
+    sk: Disney Channel
+    sl: Disney Channel
+    so: Disney Channel
+    sq: Disney Channel HD
+    sr: Diznijev kanal
+    su: Disney Channel
+    sv: Disney Channel
+    tg: Disney Channel
+    th: ดิสนีย์แชนแนล
+    tk: Disney Channel
+    tl: Disney Channel
+    tr: Disney Channel
+    uk: Disney Channel
+    ur: ڈزنی چینل
+    uz: Disney Channel
+    vec: Disney channel
+    vi: Disney Channel
+    wuu: 迪士尼频道
+    xmf: Disney Channel
+    yi: דיזני קאנאל
+    yue: 迪士尼頻道
+    zgh: ⴷⵉⵣⵏⵉ ⵛⴰⵏⵏⵉⵍ
+    zh: 迪士尼频道
+    zh-cn: 迪士尼频道
+    zh-hans: 迪士尼频道
+    zh-hant: 迪士尼頻道
+    zh-hk: 迪士尼頻道
+    zh-sg: 迪士尼频道
+    zh-tw: 迪士尼頻道
 ---
-
 # [[Disney_Channel]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Disney_Channel,178837|WD~Disney_Channel,178837]] 

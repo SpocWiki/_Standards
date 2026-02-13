@@ -1,15 +1,151 @@
 ---
 aliases:
+- czysta matematyka
+- glanmhatamaitic
+- Matemat klinöfik
+- matematica pur
+- matematica pura
+- matematică pură
+- matematik tulen
+- matematika huts
+- matematika murni
+- matemàtega pura
+- matemàtica pura
+- matemática pura
+- matemáticas puras
+- Matemátiques pures
+- Mathemateg bur
+- mathematica pur
+- mathématiques pures
+- Puhas matemaatika
+- puhdas matematiikka
+- pura matematiko
+- pure mathematics
+- puri matematike
+- Purong matematika
+- rein matematikk
+- reine Mathematik
+- ren matematik
+- ren matematikk
+- reng Mathematik
+- soyut matematik
+- toán học thuần túy
+- Tusnakt taḥuṛṛit
+- tīrā matemātika
+- zuivere wiskunde
+- čista matematika
+- čistá matematika
+- Καθαρά μαθηματικά
+- Саф математика
+- Таса математика
+- Цэвэр математик
+- чиста математика
+- чистая математика
+- чыстая матэматыка
+- Մաքուր մաթեմատիկա
+- מתמטיקה עיונית
+- خالص ریاضی
+- رياضيات بحتة
+- رياضيات بحته
+- ریاضیات محض
+- ماتماتيک تولين
+- نظری ریاضیات
+- शुद्ध गणित
+- বিশুদ্ধ গণিত
+- คณิตศาสตร์บริสุทธิ์
+- သင်္ချာသန့်သန့်
+- წმინდა მათემატიკა
+- 純粋数学
+- 純粹數學
+- 纯粹数学
+- 순수수학
 has_id_wikidata: Q837863
 subclass_of:
-  - "[[_Standards/WikiData/WD~basic_research,964754]]"
-  - "[[_Standards/WikiData/WD~mathematics,395]]"
+- '[[_Standards/WikiData/WD~basic_research,964754]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-opposite_of: "[[_Standards/WikiData/WD~applied_mathematics,33521]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+opposite_of: '[[_Standards/WikiData/WD~applied_mathematics,33521]]'
+dv_has_:
+  name_:
+    ar: رياضيات بحتة
+    arz: رياضيات بحته
+    as: বিশুদ্ধ গণিত
+    ast: Matemátiques pures
+    azb: نظری ریاضیات
+    ba: Саф математика
+    be: чыстая матэматыка
+    be-tarask: чыстая матэматыка
+    bn: বিশুদ্ধ গণিত
+    ca: matemàtica pura
+    cs: čistá matematika
+    cv: Таса математика
+    cy: Mathemateg bur
+    da: ren matematik
+    de: reine Mathematik
+    el: Καθαρά μαθηματικά
+    en: pure mathematics
+    en-ca: pure mathematics
+    en-gb: pure mathematics
+    eo: pura matematiko
+    es: matemáticas puras
+    et: Puhas matemaatika
+    eu: matematika huts
+    fa: ریاضیات محض
+    fi: puhdas matematiikka
+    fr: mathématiques pures
+    ga: glanmhatamaitic
+    gl: matemáticas puras
+    he: מתמטיקה עיונית
+    hi: शुद्ध गणित
+    hy: Մաքուր մաթեմատիկա
+    ia: mathematica pur
+    id: matematika murni
+    io: pura matematiko
+    it: matematica pura
+    ja: 純粋数学
+    ka: წმინდა მათემატიკა
+    ko: 순수수학
+    lb: reng Mathematik
+    lfn: matematica pur
+    lv: tīrā matemātika
+    mag: शुद्ध गणित
+    mk: чиста математика
+    mn: Цэвэр математик
+    ms: matematik tulen
+    ms-arab: ماتماتيک تولين
+    my: သင်္ချာသန့်သန့်
+    nb: ren matematikk
+    nl: zuivere wiskunde
+    nn: rein matematikk
+    nov: puri matematike
+    pl: czysta matematyka
+    pnb: خالص ریاضی
+    pt: matemática pura
+    pt-br: matemática pura
+    ro: matematică pură
+    ru: чистая математика
+    shi: Tusnakt taḥuṛṛit
+    sl: čista matematika
+    sr: чиста математика
+    sr-ec: чиста математика
+    sr-el: čista matematika
+    th: คณิตศาสตร์บริสุทธิ์
+    tl: Purong matematika
+    tr: soyut matematik
+    uk: чиста математика
+    ur: خالص ریاضی
+    vec: matemàtega pura
+    vi: toán học thuần túy
+    vo: Matemat klinöfik
+    wuu: 纯粹数学
+    yue: 純粹數學
+    zh: 純粹數學
+    zh-hans: 纯粹数学
+    zh-hant: 純粹數學
+    zh-hk: 純粹數學
 ---
-
 # [[Pure_Mathematics]] 
 
 #is_/same_as :: [[../WikiData/WD~Pure_mathematics,837863|WD~Pure_mathematics,837863]]  

@@ -1,4 +1,86 @@
-
+---
+has_id_wikidata: Q481907
+dv_has_:
+  name_:
+    af: Acinonyx
+    an: Acinonyx
+    ar: ثابتة المخالب
+    arz: ثابتة المخالب
+    ast: Acinonyx
+    avk: cuskoleem
+    az: Hepard (cins)
+    azb: ثابیتپنجهلیلر
+    be-tarask: Гепарды
+    bg: гепарди
+    ca: Acinonyx
+    ceb: Acinonyx
+    cs: Acinonyx
+    csb: Gepard
+    de: Acinonyx
+    el: Ακινόνυξ
+    en: Acinonyx
+    eo: Acinonyx
+    es: Acinonyx
+    et: Gepard
+    eu: Acinonyx
+    ext: Acinonyx
+    fa: پنجهایستاها
+    fi: Acinonyx
+    fr: Acinonyx
+    fy: Jachtloaihoarsen
+    ga: Acinonyx
+    gl: Acinonyx
+    he: ברדלס
+    hu: Acinonyx
+    ia: Acinonyx
+    id: Acinonyx
+    ie: Acinonyx
+    io: Acinonyx
+    it: Acinonyx
+    ja: チーター属
+    la: Acinonyx
+    mk: Гепарди
+    mul: Acinonyx
+    nl: Acinonyx
+    oc: Acinonyx
+    pl: gepard
+    pt: Acinonyx
+    pt-br: Acinonyx
+    ro: Acinonyx
+    ru: Гепарды
+    sco: Acinonyx
+    sl: Acinonyx
+    sq: Acinonyx
+    sv: Acinonyx
+    ta: அசினோனிக்சு
+    th: สกุลเสือชีตาห์
+    tr: Acinonyx
+    uk: Acinonyx
+    vi: Acinonyx
+    vo: Acinonyx
+    war: Acinonyx
+    zh: 獵豹屬
+    zh-cn: 猎豹属
+    zh-tw: 獵豹屬
+aliases:
+- Acinonyx
+- cuskoleem
+- gepard
+- Hepard (cins)
+- Jachtloaihoarsen
+- Ακινόνυξ
+- гепарди
+- Гепарды
+- ברדלס
+- ثابتة المخالب
+- ثابیتپنجهلیلر
+- پنجهایستاها
+- அசினோனிக்சு
+- สกุลเสือชีตาห์
+- チーター属
+- 猎豹属
+- 獵豹屬
+---
 # [[Acinonyx]] 
 
 #is_/same_as :: 

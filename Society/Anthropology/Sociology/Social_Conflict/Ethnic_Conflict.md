@@ -1,13 +1,113 @@
 ---
 aliases:
-  - ethnic conflict
-  - Ethnic_Conflict
-  - Ethnic Conflict
+- coinbhleacht eitneach
+- Conflicte etnic
+- conflicte ètnic
+- conflicto étnico
+- Conflictu étnicu
+- conflito étnico
+- conflitto etnico
+- ethnic conflict
+- Ethnic_Conflict
+- ethnischer Konflikt
+- Etnala konflikto
+- etnický konflikt
+- etnik münaqişə
+- etnik çatışma
+- etnikai konfliktus
+- etninen konflikti
+- Etninis konfliktas
+- etnisch conflict
+- etnisk konflikt
+- etnični konflikt
+- gatazka etniko
+- guerre ethnique
+- Gwrthdaro ethnig
+- interetna milito
+- kas ethnek
+- Konflik etnis
+- konflikt etniczny
+- xung đột sắc tộc
+- Етнически конфликт
+- Етнички сукоб
+- міжетнічний конфлікт
+- Міжэтнічны канфлікт
+- меѓуетнички судири
+- межэтнический конфликт
+- Улуттар аралык конфликт
+- этнічны канфлікт
+- Ұлтаралық қақтығыс
+- סכסוך אתני
+- درگیری قومی
+- صراع عرقي
+- نسلی ٹکراؤ
+- जातीय संघर्ष
+- ਨਸਲੀ ਟਕਰਾਅ
+- ජනවාර්ගික අර්බුදය
+- လူမျိုးရေးအဓိကရုဏ်းများ
+- 族群衝突
+- 民族紛争
+- 種族衝突
+- 민족 분쟁
 has_id_wikidata: Q766875
 subclass_of: '[[_Standards/WikiData/WD~social_conflict,2672648]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_conflict,125092269]]'
+dv_has_:
+  name_:
+    ar: صراع عرقي
+    ast: Conflictu étnicu
+    az: etnik münaqişə
+    be: Міжэтнічны канфлікт
+    be-tarask: этнічны канфлікт
+    bg: Етнически конфликт
+    ca: conflicte ètnic
+    cs: etnický konflikt
+    cy: Gwrthdaro ethnig
+    de: ethnischer Konflikt
+    en: ethnic conflict
+    en-ca: ethnic conflict
+    en-gb: ethnic conflict
+    eo: interetna milito
+    es: conflicto étnico
+    eu: gatazka etniko
+    fa: درگیری قومی
+    fi: etninen konflikti
+    fr: guerre ethnique
+    ga: coinbhleacht eitneach
+    gl: conflito étnico
+    he: סכסוך אתני
+    hi: जातीय संघर्ष
+    hu: etnikai konfliktus
+    id: Konflik etnis
+    io: Etnala konflikto
+    it: conflitto etnico
+    ja: 民族紛争
+    kk: Ұлтаралық қақтығыс
+    ko: 민족 분쟁
+    kw: kas ethnek
+    ky: Улуттар аралык конфликт
+    lt: Etninis konfliktas
+    mk: меѓуетнички судири
+    my: လူမျိုးရေးအဓိကရုဏ်းများ
+    nb: etnisk konflikt
+    nl: etnisch conflict
+    oc: Conflicte etnic
+    pa: ਨਸਲੀ ਟਕਰਾਅ
+    pl: konflikt etniczny
+    pnb: نسلی ٹکراؤ
+    pt: conflito étnico
+    pt-br: Conflito étnico
+    ru: межэтнический конфликт
+    si: ජනවාර්ගික අර්බුදය
+    sl: etnični konflikt
+    sr: Етнички сукоб
+    sv: etnisk konflikt
+    tr: etnik çatışma
+    uk: міжетнічний конфлікт
+    vi: xung đột sắc tộc
+    yue: 種族衝突
+    zh: 族群衝突
 ---
-
 #is_/same_as :: [[../../../../WikiData/WD~Ethnic_conflict,766875|WD~Ethnic_conflict,766875]] 
 
 ## #has_/text_of_/abstract 

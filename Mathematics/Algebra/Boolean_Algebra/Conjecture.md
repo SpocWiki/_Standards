@@ -1,4 +1,120 @@
-
+---
+has_id_wikidata: Q319141
+dv_has_:
+  name_:
+    ar: حدسية
+    ast: conxetura
+    ba: Гипотеза (математика)
+    be-tarask: гіпотэза
+    bn: অনুমান
+    ca: conjectura
+    ckb: مەزندە
+    cs: domněnka
+    cv: Гипотеза (математика)
+    da: formodning
+    de: mathematische Vermutung
+    el: εικασία
+    en: conjecture
+    eo: konjekto
+    es: conjetura
+    eu: aieru
+    fa: حدس
+    fi: konjektuuri
+    fr: conjecture
+    ga: tuairimíocht
+    gd: Baralachas
+    gl: Conxectura
+    he: השערה
+    hi: अटकल
+    hu: sejtés
+    hy: Հիպոթեզ
+    id: konjektur
+    it: congettura
+    ja: 予想
+    kk: жорамал
+    kk-latn: joramal
+    ko: 추측
+    la: coniectura
+    lt: prielaida
+    mk: претпоставка
+    ms: Konjektur
+    nb: formodning
+    nl: vermoeden
+    pl: przypuszczenie
+    pt: conjectura
+    pt-br: conjectura
+    ro: conjectură
+    ru: гипотеза
+    scn: Cungittura
+    sk: Domnienka
+    sl: matematična domneva
+    sr: претпоставка
+    sr-ec: претпоставка
+    sr-el: pretpostavka
+    sv: förmodan
+    th: ข้อความคาดการณ์
+    tr: konjektür
+    tt: гөман
+    uk: гіпотеза
+    vi: giả thuyết
+    yue: 猜想
+    zh: 猜想
+    zh-cn: 猜想
+    zh-hans: 猜想
+    zh-hant: 猜想
+    zh-hk: 猜想
+    zh-sg: 猜想
+    zh-tw: 猜想
+aliases:
+- aieru
+- Baralachas
+- congettura
+- coniectura
+- conjectura
+- conjecture
+- conjectură
+- conjetura
+- Conxectura
+- conxetura
+- Cungittura
+- Domnienka
+- domněnka
+- formodning
+- förmodan
+- giả thuyết
+- joramal
+- konjekto
+- konjektur
+- konjektuuri
+- konjektür
+- matematična domneva
+- mathematische Vermutung
+- pretpostavka
+- prielaida
+- przypuszczenie
+- sejtés
+- tuairimíocht
+- vermoeden
+- εικασία
+- гіпотеза
+- гіпотэза
+- гипотеза
+- Гипотеза (математика)
+- гөман
+- жорамал
+- претпоставка
+- Հիպոթեզ
+- השערה
+- حدس
+- حدسية
+- مەزندە
+- अटकल
+- অনুমান
+- ข้อความคาดการณ์
+- 予想
+- 猜想
+- 추측
+---
 # [[Conjecture]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conjecture,319141|WD~Conjecture,319141]] 

@@ -1,4 +1,132 @@
-
+---
+has_id_wikidata: Q270102
+dv_has_:
+  name_:
+    af: Sewesrugby
+    ar: سباعيات الرغبي
+    ast: rugbi a 7
+    be: рэгбі-7
+    be-tarask: Рэгбі-7
+    bjn: Rugbi pitung
+    bn: রাগবি সেভেন্স
+    ca: rugbi a 7
+    cs: ragby 7
+    cy: rygbi saith bob ochr
+    da: syvmands rugby
+    de: 7er-Rugby
+    el: Ράγκμπι σέβενς
+    en: rugby sevens
+    en-ca: rugby sevens
+    en-gb: rugby sevens
+    eo: rugbeo 7
+    es: rugby a 7
+    et: ragbi-7
+    eu: zazpiko errugbi
+    fa: راگبی ۷ نفره
+    fi: rugby-7
+    fr: rugby à sept
+    ga: rugbaí seachtar an taobh
+    gl: Rugby a 7
+    he: רוגבי שביעיות
+    hr: Ragbi 7
+    hy: 7 հոգինոց Ռիւկպի
+    hyw: 7 հոգինոց ռակպի
+    id: Rugby 7
+    io: Rugbio 7
+    it: rugby a 7
+    ja: 7人制ラグビー
+    ka: შვიდკაცა რაგბი
+    ko: 7인제 럭비
+    lb: 7er-Rugby
+    lt: regbis-7
+    mk: рагби-7
+    ml: റഗ്ബി സെവൻസ്
+    mr: रग्बी ७
+    nb: sjumannsrugby
+    nl: rugby sevens
+    oc: Rugbi de 7
+    pl: Rugby 7
+    pt: râguebi de sete
+    pt-br: rúgbi de sete
+    ro: Rugby în 7
+    ru: регби-7
+    sco: Seivins
+    sl: ragbi 7
+    smn: rugby-7
+    sr: Рагби седам
+    sv: sjumannarugby
+    ta: எழுவர் ரக்பி
+    tl: Rugby sevens
+    tly: Regbi-7
+    tr: yedili ragbi
+    tt: Регби-7
+    uk: регбі-7
+    ur: رگبی سیونز
+    wuu: 七人制橄榄球
+    xmf: შკვითკოჩიანი რაგბი
+    yue: 七人欖球
+    zh: 七人制橄欖球
+    zh-cn: 七人制橄榄球
+    zh-hans: 七人制橄榄球
+    zh-hant: 七人制橄欖球
+    zh-hk: 七人欖球
+    zh-mo: 七人欖球
+    zh-my: 七人制橄榄球
+    zh-sg: 七人制橄榄球
+    zh-tw: 七人制橄欖球
+aliases:
+- 7 հոգինոց ռակպի
+- 7 հոգինոց Ռիւկպի
+- 7er-Rugby
+- 7人制ラグビー
+- 7인제 럭비
+- Ragbi 7
+- ragbi-7
+- ragby 7
+- Regbi-7
+- regbis-7
+- rugbaí seachtar an taobh
+- rugbeo 7
+- rugbi a 7
+- Rugbi de 7
+- Rugbi pitung
+- Rugbio 7
+- Rugby 7
+- rugby a 7
+- rugby sevens
+- rugby à sept
+- Rugby în 7
+- rugby-7
+- rygbi saith bob ochr
+- râguebi de sete
+- rúgbi de sete
+- Seivins
+- Sewesrugby
+- sjumannarugby
+- sjumannsrugby
+- syvmands rugby
+- yedili ragbi
+- zazpiko errugbi
+- Ράγκμπι σέβενς
+- Рагби седам
+- рагби-7
+- регбі-7
+- регби-7
+- рэгбі-7
+- רוגבי שביעיות
+- راگبی ۷ نفره
+- رگبی سیونز
+- سباعيات الرغبي
+- रग्बी ७
+- রাগবি সেভেন্স
+- எழுவர் ரக்பி
+- റഗ്ബി സെവൻസ്
+- შვიდკაცა რაგბი
+- შკვითკოჩიანი რაგბი
+- 七人制橄榄球
+- 七人制橄欖球
+- 七人欖球
+---
 # [[Rugby_Sevens]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Rugby_sevens,270102|WD~Rugby_sevens,270102]] 

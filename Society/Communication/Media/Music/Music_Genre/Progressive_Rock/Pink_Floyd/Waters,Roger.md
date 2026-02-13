@@ -1,61 +1,85 @@
 ---
 aliases:
-  - Roger_Waters
-  - Waters,Roger
+- Rodžer Voters
+- Rodžers Voterss
+- Roger Waters
+- Rogerius Waters
+- Roger_Waters
+- Waters,Roger
+- Ρότζερ Γουώτερς
+- Роџер Вотерс
+- Роджер Вотерс
+- Роджер Уотерс
+- Роджър Уотърс
+- Роджэр Ўотэрз
+- Ռոջեր Ուոթերս
+- רוג'ר ווטרס
+- راجر واترز
+- راجر واٹرز
+- روجر ووترز
+- রজার ওয়াটার্স
+- ਰੋਜਰ ਵਾਟਰਸ
+- โรเจอร์ วอเทอส์
+- როჯერ უოტერსი
+- ロジャー・ウォーターズ
+- 罗杰·沃特斯
+- 羅傑·沃特斯
+- 羅渣禾特斯
+- 로저 워터스
 has_id_wikidata: Q180861
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~record_producer,183945]]'
-  - '[[_Standards/WikiData/WD~drummer,386854]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
-  - '[[_Standards/WikiData/WD~bassist,584301]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~trumpeter,12377274]]'
-  - '[[_Standards/WikiData/WD~peace_activist,16323111]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~drummer,386854]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~bassist,584301]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~trumpeter,12377274]]'
+- '[[_Standards/WikiData/WD~peace_activist,16323111]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~Sony_Music,330629]]'
-  - '[[_Standards/WikiData/WD~Harvest,1324712]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Sony_Music,330629]]'
+- '[[_Standards/WikiData/WD~Harvest,1324712]]'
 genre:
-  - '[[_Standards/WikiData/WD~blues_rock,193355]]'
-  - '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
-  - '[[_Standards/WikiData/WD~art_rock,217467]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+- '[[_Standards/WikiData/WD~blues_rock,193355]]'
+- '[[_Standards/WikiData/WD~psychedelic_rock,206159]]'
+- '[[_Standards/WikiData/WD~art_rock,217467]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~progressive_rock,49451]]'
 owner_of: '[[_Standards/WikiData/WD~Blackhill_Enterprises,628852]]'
 place_of_birth: '[[_Standards/WikiData/WD~Great_Bookham,948813]]'
 family_name: '[[_Standards/WikiData/WD~Waters,1175589]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Westminster,1247544]]'
-  - '[[_Standards/WikiData/WD~Cambridgeshire_High_School_for_Boys,5025662]]'
+- '[[_Standards/WikiData/WD~University_of_Westminster,1247544]]'
+- '[[_Standards/WikiData/WD~Cambridgeshire_High_School_for_Boys,5025662]]'
 child:
-  - '[[_Standards/WikiData/WD~Harry_Waters,2399595]]'
-  - '[[_Standards/WikiData/WD~India_Waters,55814302]]'
+- '[[_Standards/WikiData/WD~Harry_Waters,2399595]]'
+- '[[_Standards/WikiData/WD~India_Waters,55814302]]'
 father: '[[_Standards/WikiData/WD~Eric_Fletcher_Waters,2573616]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Sigma_6,2735861]]'
-  - '[[_Standards/WikiData/WD~Pink_Floyd,2306]]'
+- '[[_Standards/WikiData/WD~Sigma_6,2735861]]'
+- '[[_Standards/WikiData/WD~Pink_Floyd,2306]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Roger,4925304]]'
-  - '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Roger,4925304]]'
+- '[[_Standards/WikiData/WD~George,15921732]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Carolyne_Christie,5045500]]'
-  - '[[_Standards/WikiData/WD~Judith_Trim,6303714]]'
-  - '[[_Standards/WikiData/WD~Kamilah_Chavis,108896742]]'
+- '[[_Standards/WikiData/WD~Carolyne_Christie,5045500]]'
+- '[[_Standards/WikiData/WD~Judith_Trim,6303714]]'
+- '[[_Standards/WikiData/WD~Kamilah_Chavis,108896742]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
 discography: '[[_Standards/WikiData/WD~Roger_Waters_discography,7359087]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Roger_Waters,8085077]]'
 instrument:
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
-  - '[[_Standards/WikiData/WD~bass_guitar,46185]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~bass_guitar,46185]]'
 represented_by: '[[_Standards/WikiData/WD~Mark_Fenwick,29952192]]'
 professional_partner: '[[_Standards/WikiData/WD~Sean_Evans,66826999]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
@@ -69,8 +93,8 @@ instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 height: 1.9
 social_media_followers:
-  - 583000
-  - 560845
+- 583000
+- 560845
 Facebook_username: rogerwaters
 Instagram_username: rogerwaters
 X_Twitter_username: rogerwaters
@@ -87,12 +111,129 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Roger%20Waters%20Newpo
 official_website: https://rogerwaters.com
 ISNI: 0000000109208850
 IPI_name_number:
-  - 00041696378
-  - 00087046168
+- 00041696378
+- 00087046168
 Plex_person_key: 5d776838961905001eb94bce
 Europeana_entity: agent/base/61660
+dv_has_:
+  name_:
+    af: Roger Waters
+    an: Roger Waters
+    ar: روجر ووترز
+    arz: روجر ووترز
+    ast: Roger Waters
+    azb: راجر واترز
+    bar: Roger Waters
+    be-tarask: Роджэр Ўотэрз
+    bg: Роджър Уотърс
+    bn: রজার ওয়াটার্স
+    br: Roger Waters
+    bs: Roger Waters
+    ca: Roger Waters
+    co: Roger Waters
+    cs: Roger Waters
+    cy: Roger Waters
+    da: Roger Waters
+    dag: Roger Waters
+    de: Roger Waters
+    de-at: Roger Waters
+    de-ch: Roger Waters
+    el: Ρότζερ Γουώτερς
+    en: Roger Waters
+    en-ca: Roger Waters
+    en-gb: Roger Waters
+    eo: Roger Waters
+    es: Roger Waters
+    et: Roger Waters
+    eu: Roger Waters
+    fa: راجر واترز
+    fi: Roger Waters
+    fr: Roger Waters
+    frp: Roger Waters
+    fur: Roger Waters
+    fy: Roger Waters
+    ga: Roger Waters
+    gd: Roger Waters
+    gl: Roger Waters
+    glk: راجر واترز
+    gsw: Roger Waters
+    he: רוג'ר ווטרס
+    hr: Roger Waters
+    hsb: Roger Waters
+    hu: Roger Waters
+    hy: Ռոջեր Ուոթերս
+    ia: Roger Waters
+    id: Roger Waters
+    ie: Roger Waters
+    ig: Roger Waters
+    io: Roger Waters
+    is: Roger Waters
+    it: Roger Waters
+    ja: ロジャー・ウォーターズ
+    ka: როჯერ უოტერსი
+    kg: Roger Waters
+    ko: 로저 워터스
+    la: Rogerius Waters
+    lb: Roger Waters
+    li: Roger Waters
+    lij: Roger Waters
+    lld: Roger Waters
+    lt: Roger Waters
+    lv: Rodžers Voterss
+    mg: Roger Waters
+    min: Roger Waters
+    mk: Роџер Вотерс
+    ms: Roger Waters
+    mul: Roger Waters
+    nap: Roger Waters
+    nb: Roger Waters
+    nds: Roger Waters
+    nds-nl: Roger Waters
+    nl: Roger Waters
+    nn: Roger Waters
+    nrm: Roger Waters
+    oc: Roger Waters
+    pa: ਰੋਜਰ ਵਾਟਰਸ
+    pam: Roger Waters
+    pcd: Roger Waters
+    pl: Roger Waters
+    pms: Roger Waters
+    pnb: راجر واٹرز
+    pt: Roger Waters
+    pt-br: Roger Waters
+    qu: Roger Waters
+    rm: Roger Waters
+    ro: Roger Waters
+    ru: Роджер Уотерс
+    sc: Roger Waters
+    scn: Roger Waters
+    sco: Roger Waters
+    sh: Roger Waters
+    sk: Roger Waters
+    sl: Roger Waters
+    sq: Roger Waters
+    sr: Роџер Вотерс
+    sr-ec: Роџер Вотерс
+    sr-el: Rodžer Voters
+    sv: Roger Waters
+    sw: Roger Waters
+    th: โรเจอร์ วอเทอส์
+    tr: Roger Waters
+    uk: Роджер Вотерс
+    vec: Roger Waters
+    vi: Roger Waters
+    vls: Roger Waters
+    vo: Roger Waters
+    wa: Roger Waters
+    war: Roger Waters
+    wo: Roger Waters
+    wuu: 罗杰·沃特斯
+    yo: Roger Waters
+    yue: 羅渣禾特斯
+    zh: 罗杰·沃特斯
+    zh-hant: 羅傑·沃特斯
+    zu: Roger Waters
 ---
-
 # [[Waters,Roger]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Roger_Waters,180861|WD~Roger_Waters,180861]]  

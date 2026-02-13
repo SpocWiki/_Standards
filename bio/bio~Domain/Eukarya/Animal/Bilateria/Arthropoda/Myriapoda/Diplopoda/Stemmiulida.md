@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Stemmiulida
+- Stemmiulida
+- Stemmiulidae
+- 冕蛩科
+- 斯特馬陸科
 title: Stemmiulida
+has_id_wikidata: Q4307137
+dv_has_:
+  name_:
+    an: Stemmiulidae
+    ast: Stemmiulidae
+    bg: Stemmiulidae
+    ca: Stemmiulidae
+    ceb: Stemmiulidae
+    de: Stemmiulidae
+    en: Stemmiulidae
+    eo: Stemmiulidae
+    es: Stemmiulidae
+    eu: Stemmiulidae
+    ext: Stemmiulidae
+    fi: Stemmiulidae
+    fr: Stemmiulidae
+    ga: Stemmiulidae
+    gl: Stemmiulidae
+    ia: Stemmiulidae
+    ie: Stemmiulidae
+    io: Stemmiulidae
+    it: Stemmiulidae
+    la: Stemmiulidae
+    mul: Stemmiulidae
+    nl: Stemmiulidae
+    oc: Stemmiulidae
+    pl: Stemmiulidae
+    pt: Stemmiulidae
+    pt-br: Stemmiulidae
+    ro: Stemmiulidae
+    ru: Stemmiulidae
+    sq: Stemmiulidae
+    sv: Stemmiulidae
+    uk: Stemmiulidae
+    vi: Stemmiulidae
+    vo: Stemmiulidae
+    war: Stemmiulidae
+    zh: 冕蛩科
+    zh-cn: 冕蛩科
+    zh-hans: 冕蛩科
+    zh-tw: 斯特馬陸科
 ---
-
 # [[Stemmiulida]] 
 
 ## Stemmiulidae 

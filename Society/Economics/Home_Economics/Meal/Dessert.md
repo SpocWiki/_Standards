@@ -1,21 +1,90 @@
 ---
 aliases:
-  - Nachtisch
-  - Dessert
+- azkenburu
+- bajáluš
+- biebbmodædda
+- deser
+- Desero
+- Desert
+- desertas
+- deserto
+- Dessert
+- desszert
+- dessèrt
+- Desè
+- dezert
+- dibenn-pred
+- Eftirréttur
+- hidangan penutup
+- Idessert
+- jälkiruoka
+- magustoit
+- maŋepbäbbmo
+- milseog
+- minngiebeapmoe
+- mâʹŋŋveärr
+- Nachtisch
+- nagereg
+- pajalâš
+- pancuci muluik
+- Panganan cuci mulut
+- panghimagas
+- panghinam-is
+- pencuci mulut
+- postre
+- postres
+- purini
+- pwdin
+- saldais ēdiens
+- slaščica
+- sobremesa
+- tatlı
+- Tembi'u arigua
+- Tragemata
+- tráng miệng
+- ëmbëlsirë
+- şîranî
+- επιδόρπιο
+- Амттан
+- десерт
+- дэсерт
+- дэсэрт
+- աղանդեր
+- קינוח
+- تحلية
+- حلويات
+- دسر
+- دەسەرت
+- شیرینیی دوای نان
+- مٹھا
+- میٹھا
+- पश्चात्परिवेष्य
+- मिठाई
+- মিষ্টান্ন
+- ਮਠਿਆਈ
+- இனிப்பு-விருந்துக்குப் பின்
+- മധുരപലഹാരം
+- ของหวาน
+- མངར་ཟས།
+- დესერტი
+- デザート
+- 甜品
+- 甜點
+- 후식
 has_id_wikidata: Q182940
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~dish,746549]]'
-  - '[[_Standards/WikiData/WD~sweet_dish,2382369]]'
-  - '[[_Standards/WikiData/WD~course,14915034]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~dish,746549]]'
+- '[[_Standards/WikiData/WD~sweet_dish,2382369]]'
+- '[[_Standards/WikiData/WD~course,14915034]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 follows:
-  - '[[_Standards/WikiData/WD~main_course,772630]]'
-  - '[[_Standards/WikiData/WD~entremet,2189995]]'
+- '[[_Standards/WikiData/WD~main_course,772630]]'
+- '[[_Standards/WikiData/WD~entremet,2189995]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
 followed_by: '[[_Standards/WikiData/WD~coffee,8486]]'
 IAB_code: 217
@@ -30,11 +99,123 @@ Commons_category: Desserts
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Splashscreen%20Blender%203.5%20%E2%80%93%20Cozy%20Kitchen%20Nachtisch.stl
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000062
 Amazon_com_browse_node:
-  - 6503741011
-  - 6548788011
+- 6503741011
+- 6548788011
 Baidu_Tieba_name: 西点
+dv_has_:
+  name_:
+    af: nagereg
+    an: postre
+    ar: تحلية
+    arz: حلويات
+    ast: postre
+    az: Desert
+    ba: Десерт
+    be: дэсерт
+    be-tarask: дэсэрт
+    bg: десерт
+    bn: মিষ্টান্ন
+    bo: མངར་ཟས།
+    br: dibenn-pred
+    ca: postres
+    ceb: panghinam-is
+    ckb: شیرینیی دوای نان
+    cs: dezert
+    cy: pwdin
+    da: dessert
+    de: Dessert
+    de-ch: Dessert
+    el: επιδόρπιο
+    en: dessert
+    en-ca: Dessert
+    en-gb: dessert
+    eo: deserto
+    es: postre
+    et: magustoit
+    eu: azkenburu
+    fa: دسر
+    fi: jälkiruoka
+    fr: dessert
+    ga: milseog
+    gl: sobremesa
+    gn: Tembi'u arigua
+    he: קינוח
+    hi: मिठाई
+    hr: Desert
+    ht: Desè
+    hu: desszert
+    hy: աղանդեր
+    hyw: Աղանդեր
+    id: hidangan penutup
+    io: Desero
+    is: Eftirréttur
+    it: dessert
+    ja: デザート
+    jv: Panganan cuci mulut
+    ka: დესერტი
+    kk: Десерт
+    kk-arab: دەسەرت
+    kk-cn: دەسەرت
+    kk-cyrl: Десерт
+    kk-kz: Десерт
+    kk-latn: Desert
+    kk-tr: Desert
+    ko: 후식
+    ku-latn: şîranî
+    la: Tragemata
+    lb: Dessert
+    lt: desertas
+    lv: saldais ēdiens
+    mhr: десерт
+    mi: purini
+    min: pancuci muluik
+    mk: десерт
+    ml: മധുരപലഹാരം
+    mn: Амттан
+    ms: pencuci mulut
+    nb: dessert
+    ne: मिठाई
+    nl: dessert
+    nn: dessert
+    oc: dessèrt
+    pa: ਮਠਿਆਈ
+    pl: deser
+    pnb: مٹھا
+    pt: sobremesa
+    pt-br: sobremesa
+    ro: desert
+    ru: десерт
+    sa: पश्चात्परिवेष्य
+    se: bajáluš
+    sje: maŋepbäbbmo
+    sk: Dezert
+    sl: slaščica
+    sma: minngiebeapmoe
+    smj: biebbmodædda
+    smn: pajalâš
+    sms: mâʹŋŋveärr
+    sq: ëmbëlsirë
+    sr: десерт
+    sr-ec: десерт
+    sr-el: desert
+    sv: dessert
+    ta: இனிப்பு-விருந்துக்குப் பின்
+    th: ของหวาน
+    tl: panghimagas
+    tr: tatlı
+    tt: десерт
+    tt-cyrl: десерт
+    uk: десерт
+    ur: میٹھا
+    uz: Desert
+    vi: tráng miệng
+    wuu: 甜品
+    xh: Idessert
+    yue: 甜品
+    zh: 甜點
+    zh-hant: 甜點
+    zh-tw: 甜點
 ---
-
 # [[Dessert]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dessert,182940|WD~Dessert,182940]] 

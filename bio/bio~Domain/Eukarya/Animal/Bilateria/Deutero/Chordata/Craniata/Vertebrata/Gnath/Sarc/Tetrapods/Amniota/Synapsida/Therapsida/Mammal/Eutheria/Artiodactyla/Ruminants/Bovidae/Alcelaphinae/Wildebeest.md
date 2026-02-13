@@ -1,18 +1,66 @@
 ---
 aliases:
-  - gnu
-  - Connochaetes taurinus
-  - Wildebeast
-  - Wildebeest
-  - гну
-  - ñu
-  - антилопа гну
+- Agnu
+- antilopes gnu
+- Antilopės gnu
+- Bualgarow
+- Connochaetes
+- Connochaetes taurinus
+- eyundoleem
+- Gno
+- gnoes
+- Gnou
+- gnu
+- gnuer
+- Gnuo
+- Gnuovi
+- Gnus
+- gnuud
+- Gnuus
+- gnuut
+- gnú
+- Jádí dághaaʼígíí
+- Kgokong
+- Linh dương đầu bò
+- Ngongoni
+- nyu
+- Nyumbu
+- Pakôň
+- pakůň
+- Qnu
+- Wildebeast
+- Wildebees
+- Wildebeest
+- ñu
+- Ñu (mymba)
+- Γκνου
+- антилопа гну
+- гну
+- Гнулар
+- гнута
+- גנו
+- ئاسکی ڕیشدار
+- جنگلی بینسا
+- نو
+- پاڑا
+- گاو وحشی
+- विल्डबीस्ट
+- ਵਿਲਡਬੀਸਟ
+- വിൽഡെബീസ്റ്റ്
+- วิลเดอบีสต์
+- ဆတ်ကျွဲ
+- გნუ
+- ወንደቢ
+- ヌー
+- 牛羚
+- 角马
+- 누
 has_id_wikidata: Q7609
 title: Connochaetes taurinus
 parent_taxon: '[[_Standards/WikiData/WD~Alcelaphinae,615263]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 endemic_to: '[[_Standards/WikiData/WD~Africa,15]]'
 longest_observed_lifespan: 20
@@ -22,9 +70,9 @@ period_of_lactation: 7.5
 gestation_period: 8.5
 OmegaWiki_Defined_Meaning: 7294
 taxon_common_name:
-  - гну
-  - ñu
-  - антилопа гну
+- гну
+- ñu
+- антилопа гну
 ITIS_TSN: 624963
 start_time: -2500000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Wildebeest%2C%20Ngorongoro.jpg
@@ -33,8 +81,109 @@ EPPO_Code: 1CONNG
 Iconclass_notation: 25F24(GNU)
 Commons_category: Connochaetes
 taxon_name: Connochaetes
+dv_has_:
+  name_:
+    af: Wildebees
+    am: ወንደቢ
+    ar: نو
+    arz: نو
+    ast: Connochaetes
+    av: Гну
+    avk: eyundoleem
+    az: Qnu
+    ba: Гну
+    ban: Gnu
+    be-tarask: гну
+    bg: гнута
+    br: Gnou
+    ca: nyu
+    ceb: Connochaetes
+    ckb: ئاسکی ڕیشدار
+    cs: pakůň
+    da: gnu
+    de: Gnus
+    el: Γκνου
+    en: wildebeest
+    en-ca: Wildebeest
+    en-gb: wildebeest
+    eo: Gnuo
+    es: Connochaetes
+    et: gnuud
+    eu: Ñu
+    fa: گاو وحشی
+    fi: gnuut
+    fr: gnou
+    frr: Gnuus
+    ga: gnú
+    gd: Wildebeest
+    gl: ñu
+    gn: Ñu (mymba)
+    he: גנו
+    hi: विल्डबीस्ट
+    hr: Gnu
+    hu: gnú
+    ia: gnu
+    id: Nyumbu
+    io: Gnuo
+    it: Connochaetes
+    ja: ヌー
+    jv: Gnu
+    ka: გნუ
+    kab: Agnu
+    kk: Гнулар
+    ko: 누
+    kw: Bualgarow
+    ky: Гну
+    la: Connochaetes
+    lez: Гну
+    lt: Antilopės gnu
+    lv: antilopes gnu
+    mg: Gno
+    mhr: Гну
+    mk: гну
+    ml: വിൽഡെബീസ്റ്റ്
+    ms: Gnu
+    mul: Connochaetes
+    mwl: Ñu
+    my: ဆတ်ကျွဲ
+    nb: gnuer
+    nl: gnoes
+    nn: gnu
+    nso: Kgokong
+    nv: Jádí dághaaʼígíí
+    oc: Gno
+    pa: ਵਿਲਡਬੀਸਟ
+    pl: Gnu
+    pnb: جنگلی بینسا
+    pt: gnu
+    pt-br: Gnu
+    qu: Ñu
+    ro: Connochaetes
+    ru: Гну
+    sh: Gnuovi
+    sk: Pakôň
+    sl: Gnu
+    sn: Ngongoni
+    sq: Connochaetes
+    sr: гну
+    sr-ec: Гну
+    sv: Gnuer
+    sw: Nyumbu
+    th: วิลเดอบีสต์
+    tl: Gnu
+    tr: Gnu
+    tt: Гну
+    udm: Гну
+    uk: Гну
+    ur: پاڑا
+    uz: Gnu
+    vi: Linh dương đầu bò
+    war: Connochaetes
+    wuu: 角马
+    yue: 牛羚
+    zh: 角马
+    zh-tw: 牛羚
 ---
-
 # [[Wildebeest]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Wildebeest,7609|WD~Wildebeest,7609]]  

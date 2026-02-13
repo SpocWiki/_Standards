@@ -1,35 +1,165 @@
 ---
 aliases:
+- origami
+- Origamio
+- origâmi
+- Oriqami
+- Orîgamî
+- Urigami
+- Οριγκάμι
+- Арыгамі
+- оригамі
+- Оригами
+- Օրիգամի
+- Օրիկամի
+- אוריגמי
+- أوريغامي
+- ئۆریگامی
+- اوریگامی
+- ओरिगामि
+- ओरिगामी
+- অরিগামি
+- অৰিগামি
+- ਓਰੀਗਾਮੀ
+- ઓરિગામિ
+- ஓரிகாமி
+- ఒరిగమి
+- ഒറിഗാമി
+- ඔරිගාමි
+- โอริงามิ
+- ორიგამი
+- 折り紙
+- 折纸
+- 摺紙
+- 종이접기
 has_id_wikidata: Q83357
 different_from:
-  - "[[_Standards/WikiData/WD~pop_up_book,759769]]"
-  - "[[_Standards/WikiData/WD~origami,56898068]]"
+- '[[_Standards/WikiData/WD~pop_up_book,759769]]'
+- '[[_Standards/WikiData/WD~origami,56898068]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~method,1799072]]"
-  - "[[_Standards/WikiData/WD~type_of_arts,56055944]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+- '[[_Standards/WikiData/WD~method,1799072]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~paper_folding,2050700]]"
-  - "[[_Standards/WikiData/WD~paper_craft,11802861]]"
-fabrication_method: "[[_Standards/WikiData/WD~origami_technique,2638449]]"
-studied_by: "[[_Standards/WikiData/WD~mathematics_of_paper_folding,3299105]]"
-made_from_material: "[[_Standards/WikiData/WD~origami_paper,7102446]]"
-has_list: "[[_Standards/WikiData/WD~Q11381377,11381377]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_origami,17038781]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q18584545,18584545]]"
-practiced_by: "[[_Standards/WikiData/WD~origamist,56073161]]"
-product_or_material_produced: "[[_Standards/WikiData/WD~origami,56898068]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-OmegaWiki_Defined_Meaning: "1071143"
+- '[[_Standards/WikiData/WD~paper_folding,2050700]]'
+- '[[_Standards/WikiData/WD~paper_craft,11802861]]'
+fabrication_method: '[[_Standards/WikiData/WD~origami_technique,2638449]]'
+studied_by: '[[_Standards/WikiData/WD~mathematics_of_paper_folding,3299105]]'
+made_from_material: '[[_Standards/WikiData/WD~origami_paper,7102446]]'
+has_list: '[[_Standards/WikiData/WD~Q11381377,11381377]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_origami,17038781]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q18584545,18584545]]'
+practiced_by: '[[_Standards/WikiData/WD~origamist,56073161]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~origami,56898068]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
+OmegaWiki_Defined_Meaning: 1071143
 Commons_category: Origami
 subreddit: origami
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Origami%20ball.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Orizuru.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Origami%20ball.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Orizuru.jpg
 Commons_gallery: 折り紙
+dv_has_:
+  name_:
+    af: Origami
+    ar: أوريغامي
+    as: অৰিগামি
+    ast: Origami
+    az: Oriqami
+    ba: Оригами
+    bcl: Origami
+    be: Арыгамі
+    be-tarask: арыгамі
+    bg: Оригами
+    bjn: Origami
+    bn: অরিগামি
+    br: Origami
+    bs: Origami
+    ca: origami
+    cbk-zam: Origami
+    ckb: ئۆریگامی
+    cs: origami
+    da: Origami
+    de: Origami
+    de-at: Origami
+    de-ch: Origami
+    el: Οριγκάμι
+    en: origami
+    en-ca: Origami
+    en-gb: origami
+    eo: Origamio
+    es: origami
+    et: Origami
+    eu: Origami
+    fa: اوریگامی
+    fi: origami
+    fr: origami
+    gl: origami
+    gor: Origami
+    gu: ઓરિગામિ
+    he: אוריגמי
+    hi: ओरिगामि
+    hr: Origami
+    hu: origami
+    hy: Օրիգամի
+    hyw: Օրիկամի
+    id: Origami
+    io: Origamio
+    is: Origami
+    it: origami
+    ja: 折り紙
+    jv: Origami
+    ka: ორიგამი
+    kab: Urigami
+    kcg: origami
+    ki: Origami
+    kk: Оригами
+    ko: 종이접기
+    ku: Orîgamî
+    ku-latn: Orîgamî
+    la: Origami
+    lt: Origami
+    lv: Origami
+    mk: Оригами
+    ml: ഒറിഗാമി
+    mn: Оригами
+    mr: ओरिगामी
+    ms: Origami
+    nb: origami
+    nl: origami
+    nn: origami
+    oc: Origami
+    pa: ਓਰੀਗਾਮੀ
+    pl: Origami
+    pt: origâmi
+    pt-br: origami
+    ro: Origami
+    ru: Оригами
+    scn: Origami
+    sh: Origami
+    si: ඔරිගාමි
+    sk: Origami
+    sl: origami
+    sq: Origami
+    sr: Оригами
+    sv: origami
+    ta: ஓரிகாமி
+    te: ఒరిగమి
+    th: โอริงามิ
+    tl: Origami
+    tr: origami
+    uk: оригамі
+    ur: اوریگامی
+    uz: Origami
+    vi: Origami
+    war: Origami
+    wuu: 折纸
+    yue: 摺紙
+    zh: 折纸
+    zh-hant: 摺紙
+    zh-hk: 摺紙
 ---
-
 # [[Origami]] 
 
 #is_/same_as :: [[WD~Origami,83357]] 

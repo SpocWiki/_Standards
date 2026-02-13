@@ -1,4 +1,167 @@
-
+---
+has_id_wikidata: Q259011
+dv_has_:
+  name_:
+    af: Motorola
+    an: Motorola
+    ar: موتورولا
+    arz: موتورولا
+    ast: Motorola
+    az: Motorola
+    azb: موتورولا
+    bar: Motorola
+    be: Motorola
+    be-tarask: Motorola
+    bg: Моторола
+    bn: মটোরোলা
+    br: Motorola
+    bs: Motorola
+    ca: Motorola
+    chr: ᎼᏙᎶᎳ
+    ckb: مۆتۆرۆلا
+    co: Motorola
+    cs: Motorola
+    cy: Motorola
+    da: Motorola
+    de: Motorola
+    de-at: Motorola
+    de-ch: Motorola
+    el: Motorola
+    en: Motorola
+    en-ca: Motorola
+    en-gb: Motorola
+    en-us: Motorola
+    eo: Motorola
+    es: Motorola
+    et: Motorola
+    eu: Motorola
+    fa: موتورولا
+    fi: Motorola
+    fr: Motorola
+    frp: Motorola
+    fur: Motorola
+    ga: Motorola
+    gd: Motorola
+    gl: Motorola
+    gsw: Motorola
+    he: מוטורולה
+    hi: मोटोरोला कंपनी
+    hr: Motorola
+    hu: Motorola
+    hy: Motorola
+    ia: Motorola
+    id: Motorola
+    ie: Motorola
+    io: Motorola
+    is: Motorola
+    it: Motorola
+    ja: モトローラ
+    jv: Motorola
+    kg: Motorola
+    kk: Motorola
+    kk-arab: Motorola
+    kk-cn: Motorola
+    kk-cyrl: Моторола
+    kk-kz: Моторола
+    kk-latn: Motorola
+    kk-tr: Motorola
+    kn: ಮೊಟೊರೊಲ
+    ko: 모토로라
+    ku: Motorola
+    lb: Motorola
+    li: Motorola
+    lij: Motorola
+    lt: Motorola
+    lv: Motorola
+    lzh: 摩托羅拉
+    mg: Motorola
+    min: Motorola
+    mk: Motorola
+    ml: മോട്ടോറോള
+    mr: मोटोरोला
+    ms: Motorola
+    mul: Motorola
+    nan: Motorola
+    nap: Motorola
+    nb: Motorola
+    nds: Motorola
+    nds-nl: Motorola
+    nl: Motorola
+    nn: Motorola
+    nrm: Motorola
+    oc: Motorola
+    pa: ਮਟਰੋਲਾ
+    pcd: Motorola
+    pl: Motorola
+    pms: Motorola
+    ps: موټرولا
+    pt: Motorola
+    pt-br: Motorola
+    qu: Motorola
+    rm: Motorola
+    ro: Motorola
+    ru: Motorola
+    sah: Motorola
+    sc: Motorola
+    scn: Motorola
+    sco: Motorola
+    sh: Motorola
+    sk: Motorola
+    sl: Motorola
+    sq: Motorola
+    sr: Моторола
+    sr-ec: Моторола
+    sr-el: Motorola
+    sv: Motorola
+    sw: Motorola
+    ta: மோட்டோரோலா
+    te: మోటోరోలా
+    th: โมโตโรลา
+    tly: Motorola
+    tr: Motorola
+    uk: Motorola
+    ur: موٹریلا
+    uz: Motorola
+    vec: Motorola
+    vi: Motorola
+    vls: Motorola
+    vo: Motorola
+    wa: Motorola
+    wo: Motorola
+    wuu: Motorola
+    xmf: Motorola
+    yue: 摩托羅拉
+    zh: 摩托罗拉
+    zh-cn: 摩托罗拉
+    zh-hans: 摩托罗拉
+    zh-hant: 摩托羅拉
+    zh-hk: 摩托羅拉
+    zh-sg: 摩托罗拉
+    zh-tw: 摩托羅拉
+    zu: Motorola
+aliases:
+- Motorola
+- Моторола
+- מוטורולה
+- موتورولا
+- موٹریلا
+- موټرولا
+- مۆتۆرۆلا
+- मोटोरोला
+- मोटोरोला कंपनी
+- মটোরোলা
+- ਮਟਰੋਲਾ
+- மோட்டோரோலா
+- మోటోరోలా
+- ಮೊಟೊರೊಲ
+- മോട്ടോറോള
+- โมโตโรลา
+- ᎼᏙᎶᎳ
+- モトローラ
+- 摩托罗拉
+- 摩托羅拉
+- 모토로라
+---
 # [[Motorola]] 
 
 #has_/time_/started :: 1928-09-25 

@@ -1,4 +1,25 @@
-
+---
+has_id_wikidata: Q15824073
+dv_has_:
+  name_:
+    ar: وسائل اتصال
+    ban: Sané kanggon ngungkapang inpormasi
+    de: Kommunikationsmittel
+    en: means of communication
+    gv: meanyn eddyrinsh
+    pl: Medium (medioznastwo)
+    ru: средство коммуникации
+    zu: Izinsizakuxhumana
+aliases:
+- Izinsizakuxhumana
+- Kommunikationsmittel
+- means of communication
+- meanyn eddyrinsh
+- Medium (medioznastwo)
+- Sané kanggon ngungkapang inpormasi
+- средство коммуникации
+- وسائل اتصال
+---
 # [[../../../_private/Society/Communication/Media]]
 
 ## #has_/text_of_/abstract 

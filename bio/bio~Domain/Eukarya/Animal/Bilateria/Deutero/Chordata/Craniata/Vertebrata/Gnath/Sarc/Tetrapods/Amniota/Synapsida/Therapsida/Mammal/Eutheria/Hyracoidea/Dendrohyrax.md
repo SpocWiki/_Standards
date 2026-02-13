@@ -1,9 +1,68 @@
 ---
 aliases:
-  - Dendrohyrax
+- Baumschliefer
+- Boomklipdassen
+- Damà arborícola
+- Dendrohyrax
+- Nokol (Dendrohyrax)
+- puutamaanit
+- Tree hyrax
+- Treklippegrevlinger
+- Träddassar
+- Деревні дамани
+- Древесные даманы
+- Дървесни дамани
+- שפן עצים
+- خرگوشهای کوهی درختی
+- وبر شجرى
+- وبر شجري
+- ไฮแรกซ์ต้นไม้
+- キノボリハイラックス
+- 树蹄兔属
+- 樹蹄兔屬
+- 나무타기너구리
 title: Dendrohyrax
+has_id_wikidata: Q1761200
+dv_has_:
+  name_:
+    ar: وبر شجري
+    arz: وبر شجرى
+    ast: Dendrohyrax
+    avk: Nokol (Dendrohyrax)
+    bg: Дървесни дамани
+    ca: Damà arborícola
+    ceb: Dendrohyrax
+    de: Baumschliefer
+    en: Tree hyrax
+    es: Dendrohyrax
+    fa: خرگوشهای کوهی درختی
+    fi: puutamaanit
+    fr: Dendrohyrax
+    ga: Dendrohyrax
+    he: שפן עצים
+    ia: Dendrohyrax
+    it: Dendrohyrax
+    ja: キノボリハイラックス
+    ko: 나무타기너구리
+    la: Dendrohyrax
+    mul: Dendrohyrax
+    nb: Treklippegrevlinger
+    nl: Boomklipdassen
+    pl: Dendrohyrax
+    pt: Dendrohyrax
+    ro: Dendrohyrax
+    ru: Древесные даманы
+    sq: Dendrohyrax
+    sv: Träddassar
+    th: ไฮแรกซ์ต้นไม้
+    uk: Деревні дамани
+    vi: Dendrohyrax
+    war: Dendrohyrax
+    zh: 树蹄兔属
+    zh-hans: 树蹄兔属
+    zh-hant: 樹蹄兔屬
+    zh-hk: 樹蹄兔屬
 ---
-
 # [[Dendrohyrax]]
 
 ## Tree or bush hyraxes 

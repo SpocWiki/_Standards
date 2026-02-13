@@ -1,44 +1,124 @@
 ---
 aliases:
+- Acid ribonucleic
+- acid ribonucleïc
+- acid ribonukleik
+- acide ribonucléique
+- Acido ribonucleic
+- Acido ribonucleico
+- Acidum ribonucleicum
+- aigéad ribeanúicléasach
+- ARN
+- Asam ribonukleat
+- Asid ribonikleyik
+- Asid ribonikléyik
+- Asid ribonukleik
+- azeffar aṛibuɣsan
+- azido erribonukleiko
+- Isimunyuci
+- kwas rybonukleinowy
+- ribonucleic acid
+- ribonucleïnezuur
+- Ribonukleiinhape
+- Ribonukleik acido
+- Ribonuklein kislotalar
+- Ribonuklein turşusu
+- Ribonukleino rūgštis
+- Ribonukleinsaier
+- ribonukleinska kiselina
+- ribonukleinska kislina
+- ribonukleinsyra
+- Ribonukleinsyre
+- Ribonukleinsäure
+- Ribonukleová kyselina
+- ribonukleīnskābe
+- Ribonúkléù kíkan
+- RNA
+- RNS
+- Ríbósakjarnsýra
+- Trenkenn ribonukleek
+- àcid ribonucleic
+- Àcid ribonuclèich
+- Àsido ribonucleico
+- ácido ribonucleico
+- ácidu ribonucleico
+- ριβονουκλεϊκό οξύ
+- рибонуклеїнова кислота
+- Рибонуклеин йӳҫекӗ
+- рибонуклеин кислоталасы
+- рибонуклеин кислотасы
+- Рибонуклеин кислотаһы
+- Рибонуклеин қышқылы
+- рибонуклеиновая кислота
+- рибонуклеинска киселина
+- РНК
+- РНТ
+- РНХ
+- рыбануклійная кісьля
+- Рыбануклеінавыя кіслоты
+- ՌՆԹ
+- آر این اے
+- آرانای
+- ئار ئێن ئەی
+- اسید ریبونوکلئیک
+- حمض نووي ريبوزي
+- رائبو مرکزی ترشہ
+- رائبو نیوکلک ایسڈ
+- ریبونوکلیک اسید (RNA)
+- आर एन ए
+- आरएनए
+- राइबोज़ न्यूक्लिक अम्ल
+- আরএনএ
+- ரைபோ கருவமிலம்
+- రైబో కేంద్రక ఆమ్లం
+- ಆರ್.ಎನ್.ಎ
+- ആർ.എൻ.എ.
+- ආර්.එන්.ඒ
+- อาร์เอ็นเอ
+- რიბონუკლეინის მჟავა
+- რიბონუკლეინიშ ბჟე
+- አር ኤን ኤ
+- リボ核酸
+- 核糖核酸
 has_id_wikidata: Q11053
 subclass_of:
-  - "[[_Standards/WikiData/WD~nucleic_acids,123619]]"
-  - "[[_Standards/WikiData/WD~biopolymer,422649]]"
-  - "[[_Standards/WikiData/WD~gene_product,424689]]"
-  - "[[_Standards/WikiData/WD~polyribonucleotide,85210139]]"
+- '[[_Standards/WikiData/WD~nucleic_acids,123619]]'
+- '[[_Standards/WikiData/WD~biopolymer,422649]]'
+- '[[_Standards/WikiData/WD~gene_product,424689]]'
+- '[[_Standards/WikiData/WD~polyribonucleotide,85210139]]'
 part_of:
-  - "[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]"
-  - "[[_Standards/WikiData/WD~gene_silencing,1431332]]"
-  - "[[_Standards/WikiData/WD~RNA_binding,14330639]]"
-  - "[[_Standards/WikiData/WD~RNA_metabolic_process,14330807]]"
-  - "[[_Standards/WikiData/WD~RNA_catabolic_process,15311574]]"
-  - "[[_Standards/WikiData/WD~RNA_export_from_nucleus,15334281]]"
-  - "[[_Standards/WikiData/WD~ATP_dependent_activity,_acting_on_RNA,21102329]]"
-  - "[[_Standards/WikiData/WD~RNA_transport,21105696]]"
-  - "[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]"
-  - "[[_Standards/WikiData/WD~RNA_import_into_nucleus,21119991]]"
-  - "[[_Standards/WikiData/WD~RNA_import_into_mitochondrion,21123293]]"
-  - "[[_Standards/WikiData/WD~RNA_transmembrane_transporter_activity,21136004]]"
-  - "[[_Standards/WikiData/WD~RNA_biosynthetic_process,21170412]]"
-  - "[[_Standards/WikiData/WD~RNA_phosphodiester_bond_hydrolysis,21763256]]"
-  - "[[_Standards/WikiData/WD~protein_DNA_RNA_complex,22325439]]"
-  - "[[_Standards/WikiData/WD~protein_lipid_RNA_complex,22328923]]"
-  - "[[_Standards/WikiData/WD~HDL_containing_protein_lipid_RNA_complex,22328924]]"
-  - "[[_Standards/WikiData/WD~LDL_containing_protein_lipid_RNA_complex,22328925]]"
-  - "[[_Standards/WikiData/WD~catalytic_activity,_acting_on_RNA,41513029]]"
-  - "[[_Standards/WikiData/WD~ribosome,42244]]"
+- '[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]'
+- '[[_Standards/WikiData/WD~gene_silencing,1431332]]'
+- '[[_Standards/WikiData/WD~RNA_binding,14330639]]'
+- '[[_Standards/WikiData/WD~RNA_metabolic_process,14330807]]'
+- '[[_Standards/WikiData/WD~RNA_catabolic_process,15311574]]'
+- '[[_Standards/WikiData/WD~RNA_export_from_nucleus,15334281]]'
+- '[[_Standards/WikiData/WD~ATP_dependent_activity,_acting_on_RNA,21102329]]'
+- '[[_Standards/WikiData/WD~RNA_transport,21105696]]'
+- '[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]'
+- '[[_Standards/WikiData/WD~RNA_import_into_nucleus,21119991]]'
+- '[[_Standards/WikiData/WD~RNA_import_into_mitochondrion,21123293]]'
+- '[[_Standards/WikiData/WD~RNA_transmembrane_transporter_activity,21136004]]'
+- '[[_Standards/WikiData/WD~RNA_biosynthetic_process,21170412]]'
+- '[[_Standards/WikiData/WD~RNA_phosphodiester_bond_hydrolysis,21763256]]'
+- '[[_Standards/WikiData/WD~protein_DNA_RNA_complex,22325439]]'
+- '[[_Standards/WikiData/WD~protein_lipid_RNA_complex,22328923]]'
+- '[[_Standards/WikiData/WD~HDL_containing_protein_lipid_RNA_complex,22328924]]'
+- '[[_Standards/WikiData/WD~LDL_containing_protein_lipid_RNA_complex,22328925]]'
+- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_RNA,41513029]]'
+- '[[_Standards/WikiData/WD~ribosome,42244]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~ribonucleotide,422484]]"
-  - "[[_Standards/WikiData/WD~RNA_motif,85209825]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Types_of_RNA,11014329]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[_Standards/WikiData/WD~ribonucleotide,422484]]'
+- '[[_Standards/WikiData/WD~RNA_motif,85209825]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Types_of_RNA,11014329]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 properties_for_this_type: Rfam ID
-CosIng_number: "37515"
+CosIng_number: 37515
 Commons_gallery: RNA
 Commons_category: RNA
 short_name: RNA
-OmegaWiki_Defined_Meaning: "338622"
+OmegaWiki_Defined_Meaning: 338622
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8C%D5%86%D4%B9%20%28RNA%29.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RNA%20pol.jpg
 CAS_Registry_Number: 63231-63-0
@@ -46,8 +126,107 @@ UMLS_CUI: C0035668
 MeSH_tree_code: D13.444.735
 Merck_Index_monograph: m9597
 Biology_Online_Biology_Dictionary_entry: ribonucleic-acid
+dv_has_:
+  name_:
+    af: RNS
+    am: አር ኤን ኤ
+    an: Acido ribonucleico
+    ar: حمض نووي ريبوزي
+    ast: ácidu ribonucleico
+    az: Ribonuklein turşusu
+    azb: اسید ریبونوکلئیک
+    ba: Рибонуклеин кислотаһы
+    ban: Asam ribonukleat
+    be: Рыбануклеінавыя кіслоты
+    be-tarask: рыбануклійная кісьля
+    bg: РНК
+    bn: আরএনএ
+    br: Trenkenn ribonukleek
+    bs: ribonukleinska kiselina
+    ca: àcid ribonucleic
+    ckb: ئار ئێن ئەی
+    cs: ribonukleová kyselina
+    cv: Рибонуклеин йӳҫекӗ
+    de: Ribonukleinsäure
+    el: ριβονουκλεϊκό οξύ
+    en: ribonucleic acid
+    es: ácido ribonucleico
+    et: Ribonukleiinhape
+    eu: azido erribonukleiko
+    ext: ARN
+    fa: آرانای
+    fr: acide ribonucléique
+    ga: aigéad ribeanúicléasach
+    gcr: Asid ribonikléyik
+    gl: ácido ribonucleico
+    hi: राइबोज़ न्यूक्लिक अम्ल
+    hr: ribonukleinska kiselina
+    ht: Asid ribonikleyik
+    hu: RNS
+    hy: ՌՆԹ
+    ia: Acido ribonucleic
+    id: Asam ribonukleat
+    io: Ribonukleik acido
+    is: Ríbósakjarnsýra
+    it: acido ribonucleico
+    ja: リボ核酸
+    ka: რიბონუკლეინის მჟავა
+    kab: azeffar aṛibuɣsan
+    kk: Рибонуклеин қышқылы
+    kn: ಆರ್.ಎನ್.ಎ
+    ko: RNA
+    ku: ARN
+    ky: рибонуклеин кислоталасы
+    la: Acidum ribonucleicum
+    lb: Ribonukleinsaier
+    lt: Ribonukleino rūgštis
+    lv: ribonukleīnskābe
+    mad: Asam ribonukleat
+    mk: РНК
+    ml: ആർ.എൻ.എ.
+    mn: РНХ
+    mr: आरएनए
+    ms: Asid ribonukleik
+    mul: RNA
+    ne: आर एन ए
+    nl: ribonucleïnezuur
+    nn: Ribonukleinsyre
+    oc: acid ribonucleïc
+    os: РНТ
+    pl: kwas rybonukleinowy
+    pms: Àcid ribonuclèich
+    pnb: آر این اے
+    ps: ریبونوکلیک اسید (RNA)
+    pt: ácido ribonucleico
+    ro: Acid ribonucleic
+    ru: рибонуклеиновая кислота
+    sc: ARN
+    sh: Ribonukleinska kiselina
+    si: ආර්.එන්.ඒ
+    sk: Ribonukleová kyselina
+    skr: رائبو نیوکلک ایسڈ
+    sl: ribonukleinska kislina
+    sq: acid ribonukleik
+    sr: рибонуклеинска киселина
+    sr-ec: рибонуклеинска киселина
+    sr-el: ribonukleinska kiselina
+    sv: ribonukleinsyra
+    ta: ரைபோ கருவமிலம்
+    te: రైబో కేంద్రక ఆమ్లం
+    th: อาร์เอ็นเอ
+    tt: рибонуклеин кислотасы
+    uk: рибонуклеїнова кислота
+    ur: رائبو مرکزی ترشہ
+    uz: Ribonuklein kislotalar
+    vec: Àsido ribonucleico
+    vi: ARN
+    wuu: 核糖核酸
+    xmf: რიბონუკლეინიშ ბჟე
+    yo: Ribonúkléù kíkan
+    yue: 核糖核酸
+    zh: 核糖核酸
+    zu: Isimunyuci
 ---
-
 # [[RNA(Ribo-Nucleic_Acid)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~RNA,11053|WD~RNA,11053]] 

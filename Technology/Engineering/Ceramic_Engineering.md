@@ -1,18 +1,89 @@
 ---
-aliases: 
+aliases:
+- ceramic engineering
+- ceramika inĝenierio
+- Ceràmica tècnica
+- Cerámica técnica
+- céramique technique
+- ingeniaritza zeramiko
+- ingineria materialelor oxidice
+- Inhenyeriya Seramika
+- Keramika inženerligi
+- Keramičko inženjerstvo
+- Seramik mühendisliği
+- technische keramiek
+- Technische Keramik
+- tecnica ceramica
+- Tehnična keramika
+- teknisk keramik
+- teknisk keramikk
+- Teknologi keramik
+- инженерия керамики
+- керамічная інжынэрыя
+- Технічна кераміка
+- הנדסה קרמית
+- خزافتی ہندسیات
+- مهندسی سرامیک
+- هندسة الخزف
+- सिरैमिक इंजीनियरी
+- வெங்களிப் பொறியியல்
+- സെറാമിക് സാങ്കേതിക വിദ്യ
+- සෙරමික් ඉංජිනේරු විද්යාව
+- セラミック工業
+- 陶瓷工程
+- 세라믹공학
 has_id_wikidata: Q1936199
 subclass_of:
-  - "[[_Standards/WikiData/WD~manufacturing,187939]]"
-  - "[[_Standards/WikiData/WD~materials_science,228736]]"
-  - "[[_Standards/WikiData/WD~process,10843872]]"
+- '[[_Standards/WikiData/WD~manufacturing,187939]]'
+- '[[_Standards/WikiData/WD~materials_science,228736]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~profession,28640]]"
-practiced_by: "[[_Standards/WikiData/WD~ceramic_engineer,114244126]]"
-All_Science_Journal_Classification_Codes: "2503"
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
+practiced_by: '[[_Standards/WikiData/WD~ceramic_engineer,114244126]]'
+All_Science_Journal_Classification_Codes: 2503
 Commons_category: Ceramic engineering
+dv_has_:
+  name_:
+    ar: هندسة الخزف
+    ast: Cerámica técnica
+    be-tarask: керамічная інжынэрыя
+    ca: Ceràmica tècnica
+    da: teknisk keramik
+    de: Technische Keramik
+    en: ceramic engineering
+    eo: ceramika inĝenierio
+    es: cerámica técnica
+    eu: ingeniaritza zeramiko
+    fa: مهندسی سرامیک
+    fr: céramique technique
+    he: הנדסה קרמית
+    hi: सिरैमिक इंजीनियरी
+    id: Teknologi keramik
+    it: tecnica ceramica
+    ja: セラミック工業
+    ko: 세라믹공학
+    ml: സെറാമിക് സാങ്കേതിക വിദ്യ
+    nb: teknisk keramikk
+    nl: technische keramiek
+    nn: teknisk keramikk
+    ro: ingineria materialelor oxidice
+    ru: инженерия керамики
+    si: සෙරමික් ඉංජිනේරු විද්යාව
+    sl: Tehnična keramika
+    sr: Keramičko inženjerstvo
+    ta: வெங்களிப் பொறியியல்
+    tk: Keramika inženerligi
+    tr: Seramik mühendisliği
+    uk: Технічна кераміка
+    ur: خزافتی ہندسیات
+    war: Inhenyeriya Seramika
+    yue: 陶瓷工程
+    zh: 陶瓷工程
+    zh-hans: 陶瓷工程
+    zh-hant: 陶瓷工程
+    zh-hk: 陶瓷工程
 ---
-
 # [[Ceramic_Engineering]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ceramic_engineering,1936199|WD~Ceramic_engineering,1936199]] 

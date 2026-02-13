@@ -1,9 +1,67 @@
 ---
 aliases:
-  - Heterostraci
+- Cá vảy lạ
+- Dažādvairodži
+- Heterostraci
+- Heterostracis
+- Heterostraki
+- Hétérostracés
+- Müxtəlifzirehlilər
+- Pansarpirålar
+- Гетеростраки
+- Разнощитковые
+- Хетеростраци
+- הטרוסטרקים
+- دگرزرهان
+- متغايرة الحراشف
+- 异甲鱼亚纲
+- 異甲類
 title: Heterostraci
+has_id_wikidata: Q2309785
+dv_has_:
+  name_:
+    ar: متغايرة الحراشف
+    ast: Heterostraci
+    az: Müxtəlifzirehlilər
+    bg: Heterostraci
+    ca: Heterostracis
+    ceb: Heterostraci
+    de: Heterostraci
+    en: Heterostraci
+    es: Heterostraci
+    fa: دگرزرهان
+    fi: Heterostraci
+    fr: Hétérostracés
+    ga: Heterostraci
+    he: הטרוסטרקים
+    ia: Heterostraci
+    id: Heterostraci
+    it: Heterostraci
+    ja: 異甲類
+    la: Heterostraci
+    lv: Dažādvairodži
+    mul: Heterostraci
+    nb: Heterostraci
+    nl: Heterostraci
+    nn: Heterostraci
+    pl: Heterostraki
+    pt: Heterostraci
+    ro: Heterostraci
+    ru: Разнощитковые
+    sq: Heterostraci
+    sr: Хетеростраци
+    sr-ec: Хетеростраци
+    sr-el: Heterostraci
+    sv: Pansarpirålar
+    uk: Гетеростраки
+    vec: Heterostraci
+    vi: Cá vảy lạ
+    war: Heterostraci
+    zh: 异甲鱼亚纲
+    zh-cn: 异甲鱼亚纲
+    zh-hans: 异甲鱼亚纲
+    zh-hant: 異甲類
 ---
-
 # [[Heterostraci]]
 
 [Philippe Janvier](http://www.tolweb.org/) 

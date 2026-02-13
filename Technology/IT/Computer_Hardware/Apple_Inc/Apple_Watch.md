@@ -1,4 +1,91 @@
-
+---
+has_id_wikidata: Q18010946
+dv_has_:
+  name_:
+    ar: ساعة أبل
+    arz: ابل واتش
+    ast: Apple Watch
+    az: Apple Watch
+    bn: অ্যাপল ওয়াচ
+    ca: Apple Watch
+    ckb: کاتژمێری ئەپڵ
+    cs: Apple Watch
+    da: Apple Watch
+    de: Apple Watch
+    de-ch: Apple Watch
+    el: Apple Watch
+    en: Apple Watch
+    en-ca: Apple Watch
+    en-gb: Apple Watch
+    es: Apple Watch
+    et: Apple Watch
+    eu: Apple Watch
+    fa: اپل واچ
+    fi: Apple Watch
+    fr: Apple Watch
+    he: אפל ווטש
+    hr: Apple Watch
+    hu: Apple Watch
+    hy: Apple Watch
+    hyw: Apple Watch
+    id: Apple Watch
+    is: Apple Watch
+    it: Apple Watch
+    ja: Apple Watch
+    kk: Apple Watch
+    kn: ಆಪಲ್ ಗಡಿಯಾರ
+    ko: 애플 워치
+    ku: Apple Watch
+    lt: Apple Watch
+    ml: ആപ്പിൾ വാച്ച്
+    ms: Apple Watch
+    mul: Apple Watch
+    nb: Apple Watch
+    ne: एप्पल वाच
+    nl: Apple Watch
+    pa: ਐਪਲ ਵਾਚ
+    pl: Apple Watch
+    pnb: ایپل گھڑی
+    pt: Apple Watch
+    pt-br: Apple Watch
+    ru: Apple Watch
+    sco: Apple Watch
+    sh: Apple Watch
+    si: ඇපල් ඔරලෝසුව
+    sk: Apple Watch
+    sl: Apple Watch
+    sr: Епл сат
+    sv: Apple Watch
+    sw: Apple Watch
+    ta: ஆப்பிள் கடிகாரம்
+    th: แอปเปิลวอตช์
+    tr: Apple Watch
+    uk: Apple Watch
+    ur: ایپل گھڑی
+    uz: Apple Watch
+    vec: Apple Watch
+    vi: Apple Watch
+    zh: Apple Watch
+    zh-hans: Apple Watch
+aliases:
+- Apple Watch
+- Епл сат
+- אפל ווטש
+- ابل واتش
+- اپل واچ
+- ایپل گھڑی
+- ساعة أبل
+- کاتژمێری ئەپڵ
+- एप्पल वाच
+- অ্যাপল ওয়াচ
+- ਐਪਲ ਵਾਚ
+- ஆப்பிள் கடிகாரம்
+- ಆಪಲ್ ಗಡಿಯಾರ
+- ആപ്പിൾ വാച്ച്
+- ඇපල් ඔරලෝසුව
+- แอปเปิลวอตช์
+- 애플 워치
+---
 I have an SE (1st) LTE 
 
 ## #has_/text_of_/abstract 

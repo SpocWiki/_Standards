@@ -1,9 +1,14 @@
 ---
 aliases:
-  - Verantwortungseigentum
-  - Steward-Ownership
+- steward ownership
+- Steward-Ownership
+- Verantwortungseigentum
+has_id_wikidata: Q72383708
+dv_has_:
+  name_:
+    de: Verantwortungseigentum
+    en: steward ownership
 ---
-
 #is_/alternative_to :: [[Property(Law)]] 
 
 ## #has_/text_of_/abstract 

@@ -1,17 +1,98 @@
 ---
 aliases:
-  - Espionage
+- casusluk
+- Casusluq
+- Espioitza
+- Espionage
+- espionagem
+- espionaje
+- espionatge
+- Espionax
+- espionaxe
+- espionnage
+- Espiyonahe
+- Fitsikilovana
+- gián điệp
+- Josuslik
+- Kàn-tia̍p
+- kémkedés
+- Luure
+- naalchiʼ
+- njósnir
+- Pangingispiya
+- pengintipan
+- spiaireacht
+- spiegošana
+- spierezh
+- spioenasie
+- spionado
+- Spionage
+- spionaggio
+- spionaj
+- spionajo
+- spionase
+- spionasje
+- spioneri
+- spiunaggiu
+- Spiunazhi
+- szpiegostwo
+- Telik sandhi
+- tıñşılıq
+- Ubunhloli
+- vakoilu
+- vohunstvo
+- Xefnêrî
+- ysbïwriaeth
+- špijunaža
+- špionaža
+- špionáž
+- žvalgyba
+- κατασκοπεία
+- Тагнуул
+- тыңчылык
+- Тыңшылық
+- шпіянаж
+- шпијунажа
+- шпигунство
+- Шпион
+- шпионаж
+- шпионажа
+- Үспүйүөннээһин
+- ҷосусӣ
+- լրտեսություն
+- ריגול
+- שפיאנאזש
+- تجسس
+- تىڭشىلىق
+- جاسوسي
+- جاسوسی
+- جسوسی
+- سیخوڕی
+- चर कार्य
+- গুপ্তচরবৃত্তি
+- உளவு பார்த்தல்
+- గూఢచర్యం
+- ಗೂಢಚರ್ಯೆ
+- จารกรรม
+- ཉུལ་ཞིབ་པ།
+- შპიონაჟი
+- ሰልል
+- ᎤᏕᎵᏛᎤᎦᏎᏍᏗ
+- 諜報
+- 間諜
+- 间谍
+- 간첩 행위
 has_id_wikidata: Q165950
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~double_agent,1058375]]'
-  - '[[_Standards/WikiData/WD~covert_agent,5179297]]'
-  - '[[_Standards/WikiData/WD~spy,9352089]]'
+- '[[_Standards/WikiData/WD~double_agent,1058375]]'
+- '[[_Standards/WikiData/WD~covert_agent,5179297]]'
+- '[[_Standards/WikiData/WD~spy,9352089]]'
 instance_of: '[[_Standards/WikiData/WD~violation_of_law,1456832]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~information_leak,2904148]]'
 subclass_of: '[[_Standards/WikiData/WD~clandestine_HUMINT,3782242]]'
@@ -24,8 +105,122 @@ MIL_STD_2525_Symbol_Identification_Code: 10014000001306000000
 P8189: 987007553175405171
 Commons_category: Espionage
 Universal_Decimal_Classification: 341.326.12
+dv_has_:
+  name_:
+    af: spioenasie
+    am: ሰልል
+    ar: تجسس
+    ast: Espionax
+    az: Casusluq
+    ba: шпионаж
+    be: шпіянаж
+    be-tarask: шпіянаж
+    bg: шпионаж
+    bn: গুপ্তচরবৃত্তি
+    bo: ཉུལ་ཞིབ་པ།
+    br: spierezh
+    bs: špijunaža
+    ca: espionatge
+    chr: ᎤᏕᎵᏛᎤᎦᏎᏍᏗ
+    ckb: سیخوڕی
+    cs: špionáž
+    cy: ysbïwriaeth
+    da: spionage
+    de: Spionage
+    de-ch: Spionage
+    dsb: špionaža
+    el: κατασκοπεία
+    en: espionage
+    en-ca: espionage
+    en-gb: espionage
+    eo: spionado
+    es: espionaje
+    et: Luure
+    eu: Espioitza
+    fa: جاسوسی
+    fi: vakoilu
+    fr: espionnage
+    ga: spiaireacht
+    gl: espionaxe
+    he: ריגול
+    hi: चर कार्य
+    hr: špijunaža
+    hu: kémkedés
+    hy: լրտեսություն
+    id: spionase
+    io: Spionado
+    is: njósnir
+    it: spionaggio
+    ja: 諜報
+    jv: Telik sandhi
+    ka: შპიონაჟი
+    kk: тыңчылык
+    kk-arab: تىڭشىلىق
+    kk-cn: تىڭشىلىق
+    kk-cyrl: Тыңшылық
+    kk-kz: Тыңшылық
+    kk-latn: tıñşılıq
+    kk-tr: Tıñşılıq
+    kn: ಗೂಢಚರ್ಯೆ
+    ko: 간첩 행위
+    krc: Шпион
+    ku: Xefnêrî
+    ky: шпионаж
+    lb: Spionage
+    lt: žvalgyba
+    lv: spiegošana
+    mg: Fitsikilovana
+    mk: шпионажа
+    mn: Тагнуул
+    ms: pengintipan
+    nan: Kàn-tia̍p
+    nb: spionasje
+    nds-nl: spionage
+    nl: spionage
+    nn: spionasje
+    nv: naalchiʼ
+    pl: szpiegostwo
+    pnb: جسوسی
+    pt: espionagem
+    pt-br: espionagem
+    ro: spionaj
+    ru: шпионаж
+    sah: Үспүйүөннээһин
+    scn: spiunaggiu
+    sco: espionage
+    sd: جاسوسي
+    sh: Špijunaža
+    sk: špionáž
+    sl: vohunstvo
+    sq: Spiunazhi
+    sr: шпијунажа
+    sr-ec: Шпијунажа
+    sr-el: Špijunaža
+    sv: spioneri
+    ta: உளவு பார்த்தல்
+    te: గూఢచర్యం
+    tg: ҷосусӣ
+    th: จารกรรม
+    tl: Espiyonahe
+    tr: casusluk
+    uk: шпигунство
+    ur: جاسوسی
+    uz: Josuslik
+    vec: spionajo
+    vi: gián điệp
+    war: Pangingispiya
+    wuu: 间谍
+    yi: שפיאנאזש
+    yue: 間諜
+    zh: 間諜
+    zh-cn: 间谍
+    zh-hans: 间谍
+    zh-hant: 間諜
+    zh-hk: 間諜
+    zh-sg: 间谍
+    zh-tw: 間諜
+    zu: Ubunhloli
 ---
-
 # [[Espionage]]
 
 #is_/same_as :: [[../../../WikiData/WD~Espionage,165950|WD~Espionage,165950]] 

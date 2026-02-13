@@ -1,9 +1,69 @@
 ---
 aliases:
-  - Suinae
+- pravá prasata
+- siat
+- Suinae
+- Suínos
+- Swinen
+- Świnie
+- خنزيرية
+- خوکیان
+- सूइनाए
+- 猪亚科
+- 豬亞科
+- 멧돼지족
 title: Suinae
+has_id_wikidata: Q899307
+dv_has_:
+  name_:
+    an: Suinae
+    ar: خنزيرية
+    ast: Suinae
+    bg: Suinae
+    ca: Suinae
+    ceb: Suinae
+    cs: pravá prasata
+    de: Suinae
+    el: Suinae
+    en: Suinae
+    eo: Suinae
+    es: Suinae
+    eu: Suinae
+    ext: Suinae
+    fa: خوکیان
+    fi: siat
+    fr: Suinae
+    fy: Swinen
+    ga: Suinae
+    gl: Suínos
+    hi: सूइनाए
+    hu: Suinae
+    ia: Suinae
+    ie: Suinae
+    io: Suinae
+    it: Suinae
+    ko: 멧돼지족
+    la: Suinae
+    mul: Suinae
+    nl: Suinae
+    oc: Suinae
+    pl: Świnie
+    pt: Suinae
+    pt-br: Suinae
+    ro: Suinae
+    ru: Suinae
+    sl: Suinae
+    sq: Suinae
+    uk: Suinae
+    vi: Suinae
+    vo: Suinae
+    war: Suinae
+    zh: 豬亞科
+    zh-cn: 猪亚科
+    zh-hans: 猪亚科
+    zh-hant: 豬亞科
+    zh-tw: 豬亞科
 ---
-
 # [[Suinae]] 
 
 ![Bushpig (Potamochoerus porcus), Tanzania](../bushpig.jpg) 

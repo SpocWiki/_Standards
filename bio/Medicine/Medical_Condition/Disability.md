@@ -1,41 +1,264 @@
 ---
 aliases:
-  - Impairment
-  - Behinderung
-  - Disability
+- Ampech
+- anabledd
+- Andicappi
+- apaahij
+- Behinderig
+- Behinderung
+- Behinner
+- Behënnerung
+- debilitas
+- deficiência
+- dezabiłità
+- disabilitas
+- Disabiliti
+- Disability
+- disabilità
+- discapacidad
+- discapacidade
+- Discapacidá
+- Discapacitat
+- Dishabilitate
+- dizabilitate
+- Dɛmdi
+- engellilik
+- fogyatékosság
+- funksjonshemming
+- funksjonsnedsettelse
+- funktionsnedsättning
+- fötlun
+- Gaigabezia
+- Gestremdheid
+- handicap
+- Handikapo
+- Impairment
+- invalidita
+- Invaliditat
+- invaliditāte
+- Invalidnost
+- Inwalidlik
+- Kapansanan
+- Katawatasan diri
+- Kaulangan
+- Kehilangan upaya
+- malkapablo
+- Maskin
+- míchumas
+- Naafo
+- Nakasa
+- negalia
+- Negalė
+- người khuyết tật
+- niepełnosprawność
+- Nogironlik
+- oviranost
+- Personat me aftesi te kufizuara
+- Phoà-siùⁿ
+- physically challenged achievements
+- Puue
+- Pó̤-sióng
+- saqatlıq
+- Timpang pendiau
+- Ubumuga
+- Ulemavu
+- Uncræft
+- vammaisuus
+- Əlillik
+- αναπηρία
+- інвалідність
+- інваліднасць
+- інваліднасьць
+- Інвалідность
+- Зәғифлек
+- Инвалиддик
+- инвалидитет
+- Инвалидност
+- инвалидность
+- Мүгедектік
+- Тахир дутуу байдал
+- ӧлексы луон
+- հաշմանդամություն
+- דעפֿעקטיווקייט
+- מוגבלות
+- إعاقة
+- علیللیک
+- معذور
+- معذوری
+- معلول
+- کەمتوانی
+- अपंगत्व
+- अपाङ्गता
+- अशक्तता
+- विकलांगता
+- অক্ষমতা
+- প্রতিবন্ধী
+- ਅਪਾਹਜਪੁਣਾ
+- ஊனம்
+- వికలాంగులు
+- അംഗവൈകല്യം
+- ආබාධිත තත්ත්ව
+- ความพิการ
+- 残疾人
+- 殘廢
+- 身心障碍
+- 身心障礙
+- 障害
+- 장애
 has_id_wikidata: Q12131
 Basisklassifikation: 71.7
 Commons_category: Disabilities
 described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 handled_mitigated_or_managed_by:
-  - '[[_Standards/WikiData/WD~rehabilitation_counseling,3610326]]'
-  - '[[_Standards/WikiData/WD~accommodation,98178108]]'
+- '[[_Standards/WikiData/WD~rehabilitation_counseling,3610326]]'
+- '[[_Standards/WikiData/WD~accommodation,98178108]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~intellectual_disability,183560]]'
-  - '[[_Standards/WikiData/WD~developmental_disability,1142806]]'
-  - '[[_Standards/WikiData/WD~physical_disability,1179623]]'
-  - '[[_Standards/WikiData/WD~disability_affecting_intellectual_abilities,3317827]]'
-  - '[[_Standards/WikiData/WD~mental_disability,12145457]]'
+- '[[_Standards/WikiData/WD~intellectual_disability,183560]]'
+- '[[_Standards/WikiData/WD~developmental_disability,1142806]]'
+- '[[_Standards/WikiData/WD~physical_disability,1179623]]'
+- '[[_Standards/WikiData/WD~disability_affecting_intellectual_abilities,3317827]]'
+- '[[_Standards/WikiData/WD~mental_disability,12145457]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MUTCD%20D9-6.svg
 Mastodon_instance_URL:
-  - https://fedisabled.social/
-  - https://disabled.social/
+- https://fedisabled.social/
+- https://disabled.social/
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_Rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 PhilPapers_topic: the-concept-of-disability
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Behinderung.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Disability.ogg
 studied_in: '[[_Standards/WikiData/WD~disability_studies,627208]]'
 subclass_of: '[[_Standards/WikiData/WD~property,937228]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Disability_sidebar,12981323]]'
-  - '[[_Standards/WikiData/WD~Template_Disability_navbox,15634384]]'
+- '[[_Standards/WikiData/WD~Template_Disability_sidebar,12981323]]'
+- '[[_Standards/WikiData/WD~Template_Disability_navbox,15634384]]'
 uses: '[[_Standards/WikiData/WD~accommodation,98178108]]'
 U_S_National_Archives_Identifier: 10638891
 Wolfram_Language_entity_code: Entity["Concept", "Disability::d5f7d"]
+dv_has_:
+  name_:
+    af: Gestremdheid
+    an: Discapacitat
+    ang: Uncræft
+    ar: إعاقة
+    as: অক্ষমতা
+    ast: Discapacidá
+    az: Əlillik
+    azb: علیللیک
+    ba: Зәғифлек
+    bar: Behinderig
+    be: інваліднасць
+    be-tarask: інваліднасьць
+    bg: Инвалидност
+    bjn: Katawatasan diri
+    bn: প্রতিবন্ধী
+    br: Ampech
+    bs: Invalidnost
+    bxr: Тахир дутуу байдал
+    ca: discapacitat
+    cdo: Pó̤-sióng
+    ckb: کەمتوانی
+    crh: saqatlıq
+    cs: invalidita
+    cy: anabledd
+    da: handicap
+    de: Behinderung
+    el: αναπηρία
+    en: disability
+    en-ca: disability
+    en-gb: disability
+    eo: malkapablo
+    es: discapacidad
+    et: Puue
+    eu: Gaigabezia
+    fa: معلول
+    fi: vammaisuus
+    fr: handicap
+    ga: míchumas
+    gl: discapacidade
+    gsw: Behinderung
+    ha: Nakasa
+    he: מוגבלות
+    hi: विकलांगता
+    hif: apaahij
+    hr: invalidnost
+    hu: fogyatékosság
+    hy: հաշմանդամություն
+    ia: Dishabilitate
+    iba: Timpang pendiau
+    id: disabilitas
+    io: Handikapo
+    is: fötlun
+    it: disabilità
+    ja: 障害
+    jam: Disabiliti
+    kk: Мүгедектік
+    kn: physically challenged achievements
+    knc: Maskin
+    ko: 장애
+    ky: Инвалиддик
+    la: debilitas
+    lb: Behënnerung
+    li: Handicap
+    lmo: Disabilità
+    lt: negalia
+    lv: invaliditāte
+    mk: инвалидитет
+    ml: അംഗവൈകല്യം
+    mr: अपंगत्व
+    ms: Kehilangan upaya
+    nan: Phoà-siùⁿ
+    nb: funksjonsnedsettelse
+    nds: Behinner
+    ne: अपाङ्गता
+    new: अशक्तता
+    nl: handicap
+    nn: funksjonshemming
+    oc: Invaliditat
+    pa: ਅਪਾਹਜਪੁਣਾ
+    pl: niepełnosprawność
+    pms: Disabilità
+    pnb: معذوری
+    pt: deficiência
+    pt-br: deficiência
+    ro: dizabilitate
+    ru: инвалидность
+    rue: Інвалідность
+    rw: Ubumuga
+    sah: Инвалидность
+    scn: Andicappi
+    sgs: Negalė
+    sh: Invalidnost
+    si: ආබාධිත තත්ත්ව
+    sk: invalidita
+    sl: oviranost
+    so: Naafo
+    sq: Personat me aftesi te kufizuara
+    sr: инвалидност
+    sv: funktionsnedsättning
+    sw: Ulemavu
+    ta: ஊனம்
+    te: వికలాంగులు
+    th: ความพิการ
+    tk: Inwalidlik
+    tl: Kapansanan
+    tr: engellilik
+    tw: Dɛmdi
+    udm: ӧлексы луон
+    uk: інвалідність
+    ur: معذور
+    uz: Nogironlik
+    vec: dezabiłità
+    vi: người khuyết tật
+    war: Kaulangan
+    wuu: 残疾人
+    yi: דעפֿעקטיווקייט
+    yue: 殘廢
+    zh: 身心障礙
+    zh-cn: 身心障碍
+    zh-hant: 身心障礙
 ---
-
 # [[Disability]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Disability,12131|WD~Disability,12131]] 

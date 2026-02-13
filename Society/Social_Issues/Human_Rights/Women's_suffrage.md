@@ -1,35 +1,201 @@
 ---
 aliases:
-  - Women's suffrage
-  - Women's_suffrage
+- Ayollarning saylov huquqi
+- ceart vótála do mhná
+- Cêniyan rê heqa reyi
+- dreptul de vot al femeilor
+- droit de vote des femmes
+- Drwè di vòt di sé fanm
+- E drejta e grave për të votuar
+- Emakumeen sufragismoa
+- Frauenwahlrecht
+- Hak mengundi wanita
+- Hak suara perempuan
+- Haki ya wanawake kupiga kura
+- Kadınlara oy hakkı
+- Kosningaréttur kvenna
+- kvinders valgret
+- kvinnelig stemmerett
+- kvinnlig rösträtt
+- Lú-sèng chham-chèng-koân
+- Moterų rinkimų teisė
+- naiste valimisõigus
+- naisten äänioikeus
+- neezzni jiõnstemvuõiggâdvuõtt
+- nisonij jienâvuoigâdvuotâ
+- nissoniid jienastanvuoigatvuohta
+- nők választójoga
+- Pagboto ng mga kababaihan
+- pleidlais i ferched
+- Pravo glasa za žene
+- Prawo wyborcze dla kobiet
+- Qadınlara seçki hüququnun verilməsi
+- Quyền bầu cử của phụ nữ
+- Røysterett for kvinner
+- sieviešu balsstiesības
+- suffragio femminile
+- Suffragium mulierum
+- sufragi femení
+- sufragio femenino
+- Sufrajo femenin
+- sufraxio feminino
+- sufraxu femenín
+- sufrágio feminino
+- Uman sofrij
+- virina balotrajto
+- volebné právo žien
+- volební právo žen
+- vrouwenkiesrecht
+- Women's suffrage
+- Women's_suffrage
+- ženska volilna pravica
+- Žensko pravo glasa
+- Δικαίωμα ψήφου των γυναικών
+- жіноче виборче право
+- жаночае выбарчае права
+- женско право гласа
+- женское избирательное право
+- Избирателно право на жените
+- Право на глас на жените
+- Эмэгтэйчүүдийн сонгох, сонгогдох эрх
+- Կանանց ընտրական իրավունք
+- זכות בחירה לנשים
+- حق النساء في التصويت
+- حق رأی زنان
+- خواتین کا حق رائے دہی
+- د ښځو له خوا د رایو ورکولو حق
+- زنانیاں دا چوݨ دا حق
+- عورتاں دا ووٹ حق
+- महिलांचा मताधिकार
+- महिलाओं के मताधिकार
+- महिलाहरूको मताधिकार
+- स्त्रीमताधिकारः
+- নারীর ভোটাধিকার
+- ਔਰਤਾਂ ਦੇ ਮਤਾਧਿਕਾਰ
+- பெண்கள் வாக்குரிமை
+- ಮಹಿಳಾ ಮತದಾನ ಮಾಡುವ ಹಕ್ಕು
+- വനിത സമ്മതിദാനം
+- สิทธิออกเสียงเลือกตั้งของผู้หญิง
+- ქალთა საარჩევნო უფლებები
+- 女性参政权
+- 女性参政権
+- 女性參政權
+- 여성 참정권
 has_id_wikidata: Q205204
 subclass_of: '[[_Standards/WikiData/WD~suffrage,185387]]'
 facet_of: "[[_Standards/WikiData/WD~women's_rights,223569]]"
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Law,8486941]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Feminism,13360738]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Elections_and_Referendums,14772108]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Gender_Studies,15225065]]'
-  - "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
-  - '[[_Standards/WikiData/WD~WikiProject_Women,21712210]]'
+- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
+- '[[_Standards/WikiData/WD~WikiProject_Law,8486941]]'
+- '[[_Standards/WikiData/WD~WikiProject_Feminism,13360738]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_Elections_and_Referendums,14772108]]'
+- '[[_Standards/WikiData/WD~WikiProject_Gender_Studies,15225065]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
+- '[[_Standards/WikiData/WD~WikiProject_Women,21712210]]'
 history_of_topic: "[[_Standards/WikiData/WD~timeline_of_women's_suffrage,6647212]]"
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-  - '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
-  - '[[_Standards/WikiData/WD~Wilhelmina_Drucker_Foundation_Project,58468254]]'
-  - '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-  - '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~Art+Feminism,24909800]]'
+- '[[_Standards/WikiData/WD~Wilhelmina_Drucker_Foundation_Project,58468254]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Exciting_women_in_history_on_Wikipedia,85319493]]'
 practiced_by: '[[_Standards/WikiData/WD~suffragist,27532437]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~aspect_of_women's_history,125360958]]"
-  - '[[_Standards/WikiData/WD~social_movement,49773]]'
+- "[[_Standards/WikiData/WD~aspect_of_women's_history,125360958]]"
+- '[[_Standards/WikiData/WD~social_movement,49773]]'
 U_S_National_Archives_Identifier: 10643369
 DPLA_subject_term: Women's suffrage
 Commons_category: Women's suffrage
+dv_has_:
+  name_:
+    ar: حق النساء في التصويت
+    ast: sufraxu femenín
+    az: Qadınlara seçki hüququnun verilməsi
+    be: жаночае выбарчае права
+    be-tarask: жаночае выбарчае права
+    bg: Избирателно право на жените
+    bn: নারীর ভোটাধিকার
+    ca: sufragi femení
+    cs: volební právo žen
+    cy: pleidlais i ferched
+    da: kvinders valgret
+    de: Frauenwahlrecht
+    diq: Cêniyan rê heqa reyi
+    el: Δικαίωμα ψήφου των γυναικών
+    en: women's suffrage
+    eo: virina balotrajto
+    es: sufragio femenino
+    et: naiste valimisõigus
+    eu: Emakumeen sufragismoa
+    fa: حق رأی زنان
+    fi: naisten äänioikeus
+    fr: droit de vote des femmes
+    ga: ceart vótála do mhná
+    gcr: Drwè di vòt di sé fanm
+    gl: sufraxio feminino
+    glk: Women's suffrage
+    ha: Women's suffrage
+    he: זכות בחירה לנשים
+    hi: महिलाओं के मताधिकार
+    hr: Pravo glasa za žene
+    hu: nők választójoga
+    hy: Կանանց ընտրական իրավունք
+    id: Hak suara perempuan
+    ig: Women's suffrage
+    is: Kosningaréttur kvenna
+    it: suffragio femminile
+    ja: 女性参政権
+    jam: Uman sofrij
+    ka: ქალთა საარჩევნო უფლებები
+    kn: ಮಹಿಳಾ ಮತದಾನ ಮಾಡುವ ಹಕ್ಕು
+    ko: 여성 참정권
+    la: Suffragium mulierum
+    lt: Moterų rinkimų teisė
+    lv: sieviešu balsstiesības
+    mk: Право на глас на жените
+    ml: വനിത സമ്മതിദാനം
+    mn: Эмэгтэйчүүдийн сонгох, сонгогдох эрх
+    mr: महिलांचा मताधिकार
+    ms: Hak mengundi wanita
+    nan: Lú-sèng chham-chèng-koân
+    nb: kvinnelig stemmerett
+    ne: महिलाहरूको मताधिकार
+    nl: vrouwenkiesrecht
+    nn: Røysterett for kvinner
+    pa: ਔਰਤਾਂ ਦੇ ਮਤਾਧਿਕਾਰ
+    pl: Prawo wyborcze dla kobiet
+    pnb: عورتاں دا ووٹ حق
+    ps: د ښځو له خوا د رایو ورکولو حق
+    pt: sufrágio feminino
+    ro: dreptul de vot al femeilor
+    ru: женское избирательное право
+    sa: स्त्रीमताधिकारः
+    se: nissoniid jienastanvuoigatvuohta
+    sh: Žensko pravo glasa
+    sk: volebné právo žien
+    skr: زنانیاں دا چوݨ دا حق
+    sl: ženska volilna pravica
+    smn: nisonij jienâvuoigâdvuotâ
+    sms: neezzni jiõnstemvuõiggâdvuõtt
+    sq: E drejta e grave për të votuar
+    sr: женско право гласа
+    sv: kvinnlig rösträtt
+    sw: Haki ya wanawake kupiga kura
+    ta: பெண்கள் வாக்குரிமை
+    th: สิทธิออกเสียงเลือกตั้งของผู้หญิง
+    tl: Pagboto ng mga kababaihan
+    tr: Kadınlara oy hakkı
+    uk: жіноче виборче право
+    ur: خواتین کا حق رائے دہی
+    uz: Ayollarning saylov huquqi
+    vec: Sufrajo femenin
+    vi: Quyền bầu cử của phụ nữ
+    wuu: 女性参政权
+    yue: 女性參政權
+    zh: 女性參政權
+    zh-cn: 女性参政权
 ---
-
 # [[Women's_suffrage]] 
 
 #is_/same_as :: [[WD~Women's_suffrage,205204]]  

@@ -1,16 +1,55 @@
 ---
 aliases:
+- deporte sobre rodas
+- deporte sobre ruedas
+- esport sobre rodes
+- kolečkový sport
+- Riedučių sportas
+- roller sport
+- Rollsport
+- rolsport
+- rulleidrett
+- rullskridskosport
+- Rulluisusport
+- rulsporto
+- šport na rolerjih
+- ролерны спорт
+- роллерный спорт
+- ローラースポーツ
+- 滑輪運動
+- 轮滑运动
+- 인라인롤러
 has_id_wikidata: Q2164355
 has_part_s_:
-  - "[[_Standards/WikiData/WD~skateboarding,842284]]"
-  - "[[_Standards/WikiData/WD~roller_skating,1707432]]"
-  - "[[_Standards/WikiData/WD~freestyle_scootering,3540813]]"
-  - "[[_Standards/WikiData/WD~inline_skating,6034982]]"
-authority: "[[_Standards/WikiData/WD~World_Skate,60584942]]"
-practiced_by: "[[_Standards/WikiData/WD~roller_athlete,124020978]]"
-subclass_of: "[[_Standards/WikiData/WD~sport,349]]"
+- '[[_Standards/WikiData/WD~skateboarding,842284]]'
+- '[[_Standards/WikiData/WD~roller_skating,1707432]]'
+- '[[_Standards/WikiData/WD~freestyle_scootering,3540813]]'
+- '[[_Standards/WikiData/WD~inline_skating,6034982]]'
+authority: '[[_Standards/WikiData/WD~World_Skate,60584942]]'
+practiced_by: '[[_Standards/WikiData/WD~roller_athlete,124020978]]'
+subclass_of: '[[_Standards/WikiData/WD~sport,349]]'
+dv_has_:
+  name_:
+    be-tarask: ролерны спорт
+    ca: esport sobre rodes
+    cs: kolečkový sport
+    de: Rollsport
+    en: roller sport
+    eo: rulsporto
+    es: deporte sobre ruedas
+    et: Rulluisusport
+    gl: deporte sobre rodas
+    ja: ローラースポーツ
+    ko: 인라인롤러
+    lt: Riedučių sportas
+    nb: rulleidrett
+    nl: rolsport
+    ru: роллерный спорт
+    sl: šport na rolerjih
+    sv: rullskridskosport
+    zh: 滑輪運動
+    zh-cn: 轮滑运动
 ---
-
 # [[Roller_Sport]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~roller_sport,2164355]] 

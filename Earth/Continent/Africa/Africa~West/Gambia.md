@@ -1,143 +1,234 @@
 ---
 aliases:
-  - Gambia
-  - Gambie
-  - غامبيا
-  - 冈比亚
-  - Гамбия
-  - the Republic of the Gambia
-  - Gambia (the)
-  - la República de Gambia
+- A' Ghaimbia
+- an Ghaimbia
+- Di Gambia
+- Gaambiyaa
+- Gambi
+- Gambia
+- Gambia (the)
+- Gambie
+- Gambii
+- Gambija
+- Gambijo
+- Gambio
+- Gambiya
+- Gambiyän
+- Gambië
+- Gambiýa
+- Gambja
+- Gambya
+- Gambía
+- Gambïi
+- Gambėjė
+- Gammbi
+- Ganbi
+- Ganbitò
+- Giambia
+- Gàmbi
+- Gàmbia
+- Gànbia
+- Gámbia
+- Gámbíà
+- Gámmba
+- Gâmbia
+- IGambia
+- IGambiya
+- Kambii
+- la República de Gambia
+- Le Gambia
+- ma Kanpija
+- Qambiya
+- Qambiyə
+- Te Kamopia
+- The Gambia
+- The Gambie
+- the Republic of the Gambia
+- Y Gambia
+- y Ghambia
+- Γκάμπια
+- Гамбія
+- Гамби
+- Гамбија
+- Гамбиа
+- Гамбий
+- Гамбия
+- Гамбудин Орн
+- Ґамбія
+- Գամբիա
+- גמביה
+- די גאמביע
+- جامبيا
+- غامبيا
+- قامبییا
+- ګامبيا
+- ڭامبيا
+- گامبىيە
+- گامبيا
+- گامبیا
+- گيمبيا
+- گیمبیا
+- ގެމްބިއާ
+- ߜ߭ߊ߲ߓߌ߫
+- गांबिया
+- गाम्बिया
+- गैम्बिया
+- গাম্বিয়া
+- ਗਾਂਬੀਆ
+- ગેમ્બિયા
+- ଗାମ୍ବିଆ
+- காம்பியா
+- గాంబియా
+- ಗ್ಯಾಂಬಿಯ
+- ഗാംബിയ
+- ගැම්බියාව
+- ประเทศแกมเบีย
+- ປະເທດກຳບີ
+- གེམ་བྷི་ཡ།
+- གྷེམ་བི་ཡ
+- ဂမ်ဘီယာနိုင်ငံ
+- ဂမ်ဘီယာသမ္မတနိုင်ငံ
+- ဂါမ်ဗဳယျာ
+- မိူင်းၵမ်ႇပီးယႃး
+- გამბია
+- ጋምቢያ
+- ⴳⴰⵎⴱⵢⴰ
+- ガンビア
+- 冈比亚
+- 岡比亞
+- 甘比亞
+- ꯒꯦꯝꯕꯤꯌꯥ
+- 감비아
 has_id_wikidata: Q1005
-anthem: "[[_Standards/WikiData/WD~For_The_Gambia_Our_Homeland,273244]]"
+anthem: '[[_Standards/WikiData/WD~For_The_Gambia_Our_Homeland,273244]]'
 area: 11300
-basic_form_of_government: "[[_Standards/WikiData/WD~republic,7270]]"
+basic_form_of_government: '[[_Standards/WikiData/WD~republic,7270]]'
 birth_rate:
-  - 32.696
-  - 33.257
-  - 33.719
-  - 34.281
+- 32.696
+- 33.257
+- 33.719
+- 34.281
 BTI_Governance_Index:
-  - 5.73
-  - 5.98
+- 5.73
+- 5.98
 BTI_Status_Index:
-  - 5.84
-  - 5.92
-capital: "[[_Standards/WikiData/WD~Banjul,3726]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_The_Gambia,495091]]"
+- 5.84
+- 5.92
+capital: '[[_Standards/WikiData/WD~Banjul,3726]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_The_Gambia,495091]]'
 CIVICUS_Monitor_country_entry: gambia
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_the_Gambia,107948]]"
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Gambia,107948]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20The%20Gambia.svg
 Commons_category: The Gambia
 Commons_gallery: The Gambia
 confidential: public
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Upper_River_Division,824373]]"
-  - "[[_Standards/WikiData/WD~Lower_River_Division,824421]]"
-  - "[[_Standards/WikiData/WD~Central_River_Division,824431]]"
-  - "[[_Standards/WikiData/WD~West_Coast_Division,846158]]"
-  - "[[_Standards/WikiData/WD~North_Bank_Division,846161]]"
-  - "[[_Standards/WikiData/WD~Greater_Banjul_Area,1544417]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~Upper_River_Division,824373]]'
+- '[[_Standards/WikiData/WD~Lower_River_Division,824421]]'
+- '[[_Standards/WikiData/WD~Central_River_Division,824431]]'
+- '[[_Standards/WikiData/WD~West_Coast_Division,846158]]'
+- '[[_Standards/WikiData/WD~North_Bank_Division,846161]]'
+- '[[_Standards/WikiData/WD~Greater_Banjul_Area,1544417]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 coordinates_of_easternmost_point: Point(-13.79152 13.42423)
 coordinates_of_northernmost_point: Point(-15.08 13.83)
 coordinates_of_southernmost_point: Point(-16.7472 13.06371)
 coordinates_of_westernmost_point: Point(-16.82377 13.38335)
 coordinate_location: Point(-15.5 13.5)
-country: "[[_Standards/WikiData/WD~The_Gambia,1005]]"
+country: '[[_Standards/WikiData/WD~The_Gambia,1005]]'
 country_calling_code: 220
 cssclasses:
-  - Country
-culture: "[[_Standards/WikiData/WD~culture_of_The_Gambia,5794513]]"
+- Country
+culture: '[[_Standards/WikiData/WD~culture_of_The_Gambia,5794513]]'
 death_rate:
-  - 6.999
-  - 7.137
-  - 7.373
-  - 7.543
+- 6.999
+- 7.137
+- 7.373
+- 7.543
 Democracy_Index: 4.49
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_the_Gambia,921346]]"
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Gambia,921346]]'
 demonym:
-  - غامبي
-  - غامبية
-  - غامبيون
-  - gambiana
-  - gambianu
-  - গাম্বীয়
-  - gambià
-  - gambiana
-  - gambianes
-  - gambians
-  - gambier
-  - Gambian
-  - Gambiano
-  - gambiana
-  - gambiano
-  - Gambien
-  - Gambienne
-  - גמביאני
-  - גמביאנית
-  - gambiai
-  - Gambiano
-  - gambiana
-  - gambiane
-  - gambiani
-  - gambiano
-  - gambian
-  - Gambijczyk
-  - gambian
-  - gambiană
-  - gambieni
-  - ganbian
-  - ganbiana
-  - ganbiane
-  - ganbiani
-  - Gambiyänan
-  - ڭامبي
-  - ڭامبية
-  - ڭامبيين
-  - ڭامبيات
-  - Gaimbiach
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- غامبي
+- غامبية
+- غامبيون
+- gambiana
+- gambianu
+- গাম্বীয়
+- gambià
+- gambiana
+- gambianes
+- gambians
+- gambier
+- Gambian
+- Gambiano
+- gambiana
+- gambiano
+- Gambien
+- Gambienne
+- גמביאני
+- גמביאנית
+- gambiai
+- Gambiano
+- gambiana
+- gambiane
+- gambiani
+- gambiano
+- gambian
+- Gambijczyk
+- gambian
+- gambiană
+- gambieni
+- ganbian
+- ganbiana
+- ganbiane
+- ganbiani
+- Gambiyänan
+- ڭامبي
+- ڭامبية
+- ڭامبيين
+- ڭامبيات
+- Gaimbiach
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 2--6651
-different_from: "[[_Standards/WikiData/WD~Gambia_River,160819]]"
+different_from: '[[_Standards/WikiData/WD~Gambia_River,160819]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Northern_Cyprus,23681]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Northern_Cyprus,23681]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
 draft: false
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Gambia,2997596]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Gambia,2997596]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~118,11185210]]"
-  - "[[_Standards/WikiData/WD~116,25648807]]"
-expiryDate: ""
+- '[[_Standards/WikiData/WD~118,11185210]]'
+- '[[_Standards/WikiData/WD~116,25648807]]'
+expiryDate: ''
 female_population:
-  - 1261541
-  - 1293962
-  - 1326796
-  - 1359657
+- 1261541
+- 1293962
+- 1326796
+- 1359657
 FIPS_10_4_countries_and_regions_: GA
-flag: "[[_Standards/WikiData/WD~flag_of_the_Gambia,135014]]"
+flag: '[[_Standards/WikiData/WD~flag_of_the_Gambia,135014]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_the_Gambia,1503142]]"
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_Gambia,1503142]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:The+Gambia.map
 hashtag: TheGambia
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
 has_time_started: 1965-01-01
-headquarters_locations: "[[_Standards/WikiData/WD~Banjul,3726]]"
-head_of_government: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
-head_of_state: "[[_Standards/WikiData/WD~Adama_Barrow,27917049]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_the_Gambia,1509814]]"
+headquarters_locations: '[[_Standards/WikiData/WD~Banjul,3726]]'
+head_of_government: '[[_Standards/WikiData/WD~Adama_Barrow,27917049]]'
+head_of_state: '[[_Standards/WikiData/WD~Adama_Barrow,27917049]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Gambia,1509814]]'
 Human_Development_Index: 0.5
 IAB_code: 1439
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20drawing%20of%20the%20Republic%20of%20The%20Gambia.jpg
@@ -145,8 +236,8 @@ inception: 1965
 Inequality_adjusted_Human_Development_Index: 0.348
 INSEE_countries_and_foreign_territories_code: 99304
 instance_of:
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
 IOC_country_code: GAM
 IPA_transcription: ðə ˈɡæm.bi.ə
 isDeleted: false
@@ -156,133 +247,133 @@ ISO_3166_1_alpha_3_code: GMB
 ISO_3166_1_numeric_code: 270
 isReadOnly: false
 ITU_letter_code: GMB
-keywords: ""
+keywords: ''
 Krugosvet_article: strany_mira/GAMBIYA.html
 Languages:
-  - en-GM
-  - mnk
-  - wof
-  - wo
-  - ff
+- en-GM
+- mnk
+- wof
+- wo
+- ff
 language_used:
-  - "[[_Standards/WikiData/WD~Pulaar,1420205]]"
-  - "[[_Standards/WikiData/WD~Jola-Fonyi,3507832]]"
-  - "[[_Standards/WikiData/WD~Western_Maninkakan,11028033]]"
-  - "[[_Standards/WikiData/WD~Gambian_Wolof,12953302]]"
-  - "[[_Standards/WikiData/WD~Pukur,31172660]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Mandinka,33678]]"
-  - "[[_Standards/WikiData/WD~Mandjak,35822]]"
-  - "[[_Standards/WikiData/WD~Serer,36284]]"
-layout: ""
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly_of_The_Gambia,1427127]]"
+- '[[_Standards/WikiData/WD~Pulaar,1420205]]'
+- '[[_Standards/WikiData/WD~Jola-Fonyi,3507832]]'
+- '[[_Standards/WikiData/WD~Western_Maninkakan,11028033]]'
+- '[[_Standards/WikiData/WD~Gambian_Wolof,12953302]]'
+- '[[_Standards/WikiData/WD~Pukur,31172660]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Mandinka,33678]]'
+- '[[_Standards/WikiData/WD~Mandjak,35822]]'
+- '[[_Standards/WikiData/WD~Serer,36284]]'
+layout: ''
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_The_Gambia,1427127]]'
 Libris_URI: 75kml5jr0dgh804
 licence_plate_code: WAG
 license: CC BY-SA 4.0
 life_expectancy: 61.193
-linkTitle: ""
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~West_Africa,4412]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+linkTitle: ''
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Africa_Banjul,4689477]]"
-  - "[[_Standards/WikiData/WD~UTC_00_00,6574]]"
+- '[[_Standards/WikiData/WD~Africa_Banjul,4689477]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
 location:
-  - 13.4667
-  - -16.6
+- 13.4667
+- -16.6
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gambia%20%28orthographic%20projection%20with%20inset%29.svg
-lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 M49_code: 270
 mains_voltage: 230
 male_population:
-  - 1247342
-  - 1280033
-  - 1313119
-  - 1346335
+- 1247342
+- 1280033
+- 1313119
+- 1346335
 maritime_identification_digits: 629
 member_of:
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]"
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
 MeSH_tree_code: Z01.058.290.190.300
 mobile_country_code: 607
 motto_text:
-  - Прогрес, мир, просперитет
-  - Progress, Peace, Prosperity
-  - The smiling coast of Africa
-  - Cynnydd, Heddwch, Ffyniant
-named_after: "[[_Standards/WikiData/WD~Gambia_River,160819]]"
+- Прогрес, мир, просперитет
+- Progress, Peace, Prosperity
+- The smiling coast of Africa
+- Cynnydd, Heddwch, Ffyniant
+named_after: '[[_Standards/WikiData/WD~Gambia_River,160819]]'
 native_label: Republic of The Gambia
 nominal_GDP:
-  - 2273060863
-  - 2038414974
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
+- 2273060863
+- 2038414974
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Gambia,15921518]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
 official_name:
-  - Islamic Republic of The Gambia
-  - Republic of The Gambia
-  - République de Gambie
+- Islamic Republic of The Gambia
+- Republic of The Gambia
+- République de Gambie
 OmegaWiki_Defined_Meaning: 154471
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Fishing%20boat%2C%20Gunjur%20Gambia%20banner.jpg
-part_of: "[[_Standards/WikiData/WD~West_Africa,4412]]"
+part_of: '[[_Standards/WikiData/WD~West_Africa,4412]]'
 PM20_geo_code: C51
 population: 2639916
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Gambia.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%BA%D8%A7%D9%85%D8%A8%D9%8A%D8%A7.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Gambia.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Gambia.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%BA%D8%A7%D9%85%D8%A8%D9%8A%D8%A7.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Gambia.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE.wav
 publish: true
-publishDate: ""
-replaces: "[[_Standards/WikiData/WD~Commonwealth_realm_of_the_Gambia,7735661]]"
+publishDate: ''
+replaces: '[[_Standards/WikiData/WD~Commonwealth_realm_of_the_Gambia,7735661]]'
 rural_population:
-  - 955107
-  - 963137
-  - 970908
-  - 978162
-shares_border_with: "[[_Standards/WikiData/WD~Senegal,1041]]"
-short_name: 🇬🇲
+- 955107
+- 963137
+- 970908
+- 978162
+shares_border_with: '[[_Standards/WikiData/WD~Senegal,1041]]'
+short_name: "\U0001F1EC\U0001F1F2"
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26906
-studied_in: "[[_Standards/WikiData/WD~Gambian_studies,115669443]]"
+studied_in: '[[_Standards/WikiData/WD~Gambian_studies,115669443]]'
 subreddit: Gambia
 tags:
-  - geo/Country
+- geo/Country
 title: Gambia
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_The_Gambia,11288146]]"
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.gm,41758]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_The_Gambia,11288146]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gm,41758]]'
 total_fertility_rate: 5.717
 type: Country
 UMLS_CUI: C0016993
-Unicode_character: 🇬🇲
+Unicode_character: "\U0001F1EC\U0001F1F2"
 urban_population:
-  - 1727830
-  - 1553776
-  - 1610858
-  - 1669008
+- 1727830
+- 1553776
+- 1610858
+- 1669008
 U_S_National_Archives_Identifier: 10035707
 VAT_rate: 15
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_the_Gambia,7112763]]"
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Gambia,7112763]]'
 WIPO_ST_3: GM
 dv_ISO4217-currency_alphabetic: GMD
 dv_ISO4217-currency_name: Dalasi
@@ -312,9 +403,9 @@ dv_UNTERM_Chinese_Formal: 冈比亚共和国
 dv_UNTERM_French_Formal: la République de Gambie
 dv_UNTERM_Russian: Гамбия
 dv_UNTERM_Russian_Formal: Республика Гамбия
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Western Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Western Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 11
 dv_Sub-region: 202
@@ -339,22 +430,297 @@ dv_ISO2: GM
 dv_ISO3: GMB
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~West/Gambia|Gambia]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~West/Gambia.public|Gambia.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect|Gambia.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~West/Gambia.private|Gambia.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]"
+  - '[[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~West/Gambia|Gambia]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~West/Gambia.public|Gambia.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect|Gambia.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~West/Gambia.private|Gambia.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]'
 dv_has_:
   name_:
+    ab: Гамбиа
+    ace: Gambia
+    aeb-arab: غامبيا
+    af: Gambië
+    am: ጋምቢያ
+    ami: Gambia
+    an: Gambia
+    ang: Gambia
+    ann: Gambia
+    anp: गैम्बिया
+    ar: غامبيا
+    ary: ڭامبيا
+    arz: جامبيا
+    ast: Gambia
+    avk: Gambia
+    az: Qambiya
+    azb: قامبییا
+    ba: Гамбия
+    ban: Gambia
+    bar: Gambia
+    bcl: Gambya
+    be: Гамбія
+    be-tarask: Гамбія
+    bew: Gambia
+    bg: Гамбия
+    bgn: گامبیا
+    bho: गांबिया
+    bi: Gambia
+    bjn: Gambia
+    bm: Gambia
+    bn: গাম্বিয়া
+    bo: གེམ་བྷི་ཡ།
+    bpy: গাম্বিয়া
+    br: Gambia
+    bs: Gambija
+    bxr: Гамби
+    ca: Gàmbia
+    cbk-zam: Gambia
+    cdo: Gambia
+    ce: Гамби
+    ceb: Gambia
+    ckb: گامبیا
+    co: Gambia
+    crh: Gambiya
+    crh-latn: Gambiya
+    cs: Gambie
+    cv: Гамби
+    cy: Y Gambia
+    da: Gambia
+    dag: Gambia
+    de: Gambia
+    de-at: Gambia
+    de-ch: Gambia
+    diq: Gambiya
+    dsb: Gambija
+    dty: गाम्बिया
+    dv: ގެމްބިއާ
+    dz: གྷེམ་བི་ཡ
+    ee: Gambia
+    el: Γκάμπια
+    en: The Gambia
+    en-ca: Gambia
+    en-gb: The Gambia
+    eo: Gambio
+    es: Gambia
+    et: Gambia
+    eu: Gambia
+    ext: Gambia
+    fa: گامبیا
+    ff: Gammbi
+    fi: Gambia
+    fo: Gambia
+    fon: Ganbitò
+    fr: Gambie
+    frp: Gambie
+    frr: Gambia
+    fy: Gambia
+    ga: an Ghaimbia
+    gag: Gambiya
+    gcr: Ganbi
+    gd: A' Ghaimbia
+    gl: Gambia
+    glk: گامبيا
+    gn: Gámbia
+    gpe: Gambia
+    gsw: Gambia
+    gu: ગેમ્બિયા
+    gur: The Gambia
+    gv: y Ghambia
+    ha: Gambiya
+    hak: Gambia
+    he: גמביה
+    hi: गाम्बिया
+    hif: Gambia
+    hr: Gambija
+    hsb: Gambija
+    ht: Ganbi
+    hu: Gambia
+    hy: Գամբիա
+    ia: Gambia
+    id: Gambia
+    ie: The Gambia
+    ig: The Gambia
+    ilo: Gambia
+    io: Gambia
+    is: Gambía
+    it: Gambia
+    ja: ガンビア
+    jam: Giambia
+    jv: Gambia
+    ka: გამბია
+    kaa: Gambiya
+    kab: Gambya
+    kbp: Kambii
+    kg: Gambia
+    kge: Gambia
+    ki: Gambia
+    kk: Гамбия
+    kn: ಗ್ಯಾಂಬಿಯ
+    ko: 감비아
+    ku: Gambiya
+    kw: Gambi
+    ky: Гамбия
+    la: Gambia
+    lad: Gambia
+    lb: Gambia
+    lfn: Gambia
+    lg: Gambia
+    li: Gambia
+    lij: Gambia
+    lld: Gambia
+    lmo: Gambia
+    ln: Gambi
+    lo: ປະເທດກຳບີ
+    lrc: گامبیا
+    lt: Gambija
+    lv: Gambija
+    lzh: 岡比亞
+    mai: गाम्बिया
+    map-bms: Gambia
+    mdf: Гамбия
+    mg: Gambia
+    mhr: Гамбий
+    mi: Te Kamopia
+    min: Gambia
+    mk: Гамбија
+    ml: ഗാംബിയ
+    mn: Гамби
+    mni: ꯒꯦꯝꯕꯤꯌꯥ
+    mnw: ဂါမ်ဗဳယျာ
+    mr: गांबिया
+    mrj: Гамби
+    ms: Gambia
+    mt: Gambja
+    my: ဂမ်ဘီယာနိုင်ငံ
+    mzn: گامبیا
+    na: Gambiya
+    nah: Gambia
+    nan: Gambia
+    nb: Gambia
+    nds: Gambia
+    nds-nl: Gambia
+    ne: गाम्बिया
+    new: गाम्बिया
+    nl: Gambia
+    nn: Gambia
+    nov: Gambia
+    nqo: ߜ߭ߊ߲ߓߌ߫
+    nso: Gambia
+    ny: Gambia
+    oc: Gàmbia
+    olo: Gambii
+    om: Gaambiyaa
+    or: ଗାମ୍ବିଆ
+    os: Гамби
+    pa: ਗਾਂਬੀਆ
+    pam: Gambia
+    pap: Gambia
+    pcm: Di Gambia
+    pi: गाम्बिया
+    pih: Gambia
+    pl: Gambia
+    pms: Gambia
+    pnb: گیمبیا
+    ps: ګامبيا
+    pt: Gâmbia
+    pt-br: Gâmbia
+    qu: Gambya
+    rki: ဂမ်ဘီယာသမ္မတနိုင်ငံ
+    rm: Gambia
+    ro: Gambia
+    ru: Гамбия
+    rue: Ґамбія
+    rup: Gambia
+    rw: Gambiya
+    sa: गाम्बिया
+    sah: Гамбия
+    sc: Gàmbia
+    scn: Gambia
+    sco: The Gambie
+    sd: گيمبيا
+    se: Gambia
+    sg: Gambïi
+    sgs: Gambėjė
+    sh: Gambija
+    shi: Gambya
+    shn: မိူင်းၵမ်ႇပီးယႃး
+    si: ගැම්බියාව
+    sk: Gambia
+    sl: Gambija
+    sm: Le Gambia
+    smj: Gámmba
+    smn: Gambia
+    sms: Gambia
+    sn: Gambia
+    so: Gambia
+    sq: Gambia
+    sr: Гамбија
+    sr-ec: Гамбија
+    sr-el: Gambija
+    ss: IGambiya
+    st: Gambia
+    stq: Gambia
+    su: Gambia
+    sv: Gambia
+    sw: Gambia
+    szl: Gambijo
+    szy: Gambia
+    ta: காம்பியா
+    tay: Gambia
+    te: గాంబియా
+    tg: Гамбия
+    th: ประเทศแกมเบีย
+    ti: ጋምቢያ
+    tk: Gambiýa
+    tl: Gambia
+    tly: Qambiyə
+    tok: ma Kanpija
+    tr: Gambiya
+    trv: Gambia
+    ts: Gambiya
+    tt: Гамбия
+    tum: Gambia
+    tw: The Gambia
+    udm: Гамбия
+    ug: گامبىيە
+    uk: Гамбія
+    ur: گیمبیا
+    uz: Gambia
+    vec: Gànbia
+    vep: Gambii
+    vi: Gambia
+    vo: Gambiyän
+    vro: Gambia
+    war: Gambia
+    wo: Gàmbi
+    wuu: 冈比亚
+    xal: Гамбудин Орн
+    xmf: გამბია
+    yi: די גאמביע
+    yo: Gámbíà
+    yue: 甘比亞
+    za: Gambia
+    zea: Gambia
+    zgh: ⴳⴰⵎⴱⵢⴰ
+    zh: 岡比亞
+    zh-cn: 冈比亚
+    zh-hans: 冈比亚
+    zh-hant: 甘比亞
+    zh-hk: 岡比亞
+    zh-mo: 岡比亞
+    zh-my: 冈比亚
+    zh-sg: 冈比亚
+    zh-tw: 甘比亞
+    zu: IGambia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gambia
 dv_has_name_de: Gambia
 dv_Area-Total: 11295
 dv_Area-Land: 10000
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: WAG
 dv_Alcohol-l: 3.4
 dv_Language-Id: 499
@@ -362,17 +728,16 @@ dv_has_place_longitude: -16.6
 dv_has_place_latitude: 13.4667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~West/Gambia|Gambia]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~West/Gambia.public|Gambia.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect|Gambia.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~West/Gambia.private|Gambia.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]"
+- '[[../../../../WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~West/Gambia|Gambia]]'
+- '[[/_public/Earth/Continent/Africa/Africa~West/Gambia.public|Gambia.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~West/Gambia.internal|Gambia.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~West/Gambia.protect|Gambia.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~West/Gambia.private|Gambia.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Gambia
 ---
-
 # [[Gambia]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

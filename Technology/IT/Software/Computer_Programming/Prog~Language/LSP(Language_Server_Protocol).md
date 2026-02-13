@@ -1,4 +1,19 @@
-
+---
+has_id_wikidata: Q30251139
+dv_has_:
+  name_:
+    be: Пратакол моўнага сервера
+    be-tarask: Пратакол моўнага сэрвэру
+    de: Language Server Protocol
+    en: Language Server Protocol
+    ja: Language Server Protocol
+    zh: 語言伺服器協定
+aliases:
+- Language Server Protocol
+- Пратакол моўнага сервера
+- Пратакол моўнага сэрвэру
+- 語言伺服器協定
+---
 #has_/time_/started :: 2020-02-01
 
 > The Language Server Protocol (LSP) is an open, JSON-RPC-based protocol for use between source code editors or integrated development environments (IDEs) and servers that provide "language intelligence tools": programming language-specific features like 

@@ -1,47 +1,161 @@
 ---
-has_time_started: 1937-01-01 
+has_time_started: 1937-01-01
 aliases:
+- Gernika
+- Gernika (Pikasso)
+- Gerniko
+- Guernica
+- Γκερνίκα
+- Герніка
+- Герника
+- Герника (рәсем)
+- Գեռնիկա
+- Կեռնիքա
+- גרניקה
+- جيرنيكا
+- غيرنيكا
+- ڭيرنيكا
+- گرنیکا
+- گوەرنجا
+- গুৱেৰ্ণিকা
+- গের্নিকা
+- ਗੁਰਨੀਕਾ
+- கெர்னீக்கா
+- గుయెర్నికా
+- ഗ്വേർണിക്ക
+- ගුවර්නිකා (Guernica) සිතුවම
+- เกร์นิกา
+- გერნიკა
+- ゲルニカ
+- 格尔尼卡
+- 格尔尼卡 (绘画)
+- 格爾尼卡
+- 게르니카
 has_id_wikidata: Q175036
-commissioned_by: "[[_Standards/WikiData/WD~Second_Spanish_Republic,178038]]"
+commissioned_by: '[[_Standards/WikiData/WD~Second_Spanish_Republic,178038]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~oil_paint,296955]]"
-  - "[[_Standards/WikiData/WD~canvas,12321255]]"
-locations: "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
-collection: "[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]"
-genre: "[[_Standards/WikiData/WD~history_painting,742333]]"
-instance_of: "[[_Standards/WikiData/WD~painting,3305213]]"
+- '[[_Standards/WikiData/WD~oil_paint,296955]]'
+- '[[_Standards/WikiData/WD~canvas,12321255]]'
+locations: '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+collection: '[[_Standards/WikiData/WD~Museo_Nacional_Centro_de_Arte_Reina_Sofía,460889]]'
+genre: '[[_Standards/WikiData/WD~history_painting,742333]]'
+instance_of: '[[_Standards/WikiData/WD~painting,3305213]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Guernica,32979531]]"
-  - "[[_Standards/WikiData/WD~Guernica,56648800]]"
-  - "[[_Standards/WikiData/WD~Guernica_mural_in_Gernika,83552226]]"
-  - "[[_Standards/WikiData/WD~Guernica,109276664]]"
-copyright_status: "[[_Standards/WikiData/WD~copyrighted,50423863]]"
-described_by_source: "[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]"
+- '[[_Standards/WikiData/WD~Guernica,32979531]]'
+- '[[_Standards/WikiData/WD~Guernica,56648800]]'
+- '[[_Standards/WikiData/WD~Guernica_mural_in_Gernika,83552226]]'
+- '[[_Standards/WikiData/WD~Guernica,109276664]]'
+copyright_status: '[[_Standards/WikiData/WD~copyrighted,50423863]]'
+described_by_source: '[[_Standards/WikiData/WD~1001_Paintings_You_Must_See_Before_You_Die,66362718]]'
 public_domain_date: 2054-01-01T00:00:00Z
-creator: "[[_Standards/WikiData/WD~Pablo_Picasso,5593]]"
-location_of_creation: "[[_Standards/WikiData/WD~Paris,90]]"
-movement: "[[_Standards/WikiData/WD~Cubism,42934]]"
+creator: '[[_Standards/WikiData/WD~Pablo_Picasso,5593]]'
+location_of_creation: '[[_Standards/WikiData/WD~Paris,90]]'
+movement: '[[_Standards/WikiData/WD~Cubism,42934]]'
 height: 349
 width: 776
 described_at_URL: http://www.museoreinasofia.es/en/collection/artwork/guernica
 depicts_Iconclass_notation:
-  - 45C13(SWORD)
-  - 41B3
-  - 31A2211
-  - 31D112
-  - 46C13141
-  - "31E3"
-  - 47I2111
-  - 44F2
-  - 42B742
+- 45C13(SWORD)
+- 41B3
+- 31A2211
+- 31D112
+- 46C13141
+- 31E3
+- 47I2111
+- 44F2
+- 42B742
 title: Guernica
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mural%20del%20%22Guernica%22%20de%20Picasso.jpg
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mural%20del%20Gernika.jpg
 inventory_number: DE00050
 Commons_category: Guernica (Pablo Picasso)
 inception: 1937-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Guernica
+    an: Guernica
+    ar: غيرنيكا
+    ary: ڭيرنيكا
+    arz: جيرنيكا
+    as: গুৱেৰ্ণিকা
+    ast: Guernica
+    az: Gernika
+    be: Герніка
+    be-tarask: Герніка
+    bg: Герника
+    bjn: Guernica
+    bn: গের্নিকা
+    br: Guernica
+    ca: Guernica
+    cs: Guernica
+    cy: Guernica
+    da: Guernica
+    de: Guernica
+    el: Γκερνίκα
+    en: Guernica
+    en-us: Guernica
+    eo: Gerniko
+    es: Guernica
+    eu: Gernika
+    fa: گرنیکا
+    fi: Guernica
+    fr: Guernica
+    ga: Guernica
+    gl: Guernica
+    he: גרניקה
+    hr: Guernica
+    hu: Guernica
+    hy: Գեռնիկա
+    hyw: Կեռնիքա
+    id: Guernica
+    io: Gernika
+    it: Guernica
+    ja: ゲルニカ
+    ka: გერნიკა
+    ko: 게르니카
+    ku: Guernica
+    ku-arab: گوەرنجا
+    ku-latn: Guernica
+    lv: Gernika
+    mk: Герника
+    ml: ഗ്വേർണിക്ക
+    mt: Guernica
+    nb: Guernica
+    nl: Guernica
+    pa: ਗੁਰਨੀਕਾ
+    pl: Guernica
+    pt: Guernica
+    ro: Guernica
+    ru: Герника
+    scn: Guernica
+    sco: Guernica
+    sh: Guernica
+    si: ගුවර්නිකා (Guernica) සිතුවම
+    sk: Guernica
+    sl: Guernica
+    sq: gernika
+    sr: Герника
+    sv: Guernica
+    ta: கெர்னீக்கா
+    te: గుయెర్నికా
+    th: เกร์นิกา
+    tr: Guernica
+    tt: Герника (рәсем)
+    tw: Guernica
+    uk: Герніка
+    uz: Gernika (Pikasso)
+    vi: Guernica
+    war: Guernica
+    wuu: 格尔尼卡 (绘画)
+    yue: 格爾尼卡
+    zh: 格尔尼卡
+    zh-cn: 格尔尼卡
+    zh-hans: 格尔尼卡
+    zh-hant: 格爾尼卡
+    zh-hk: 格爾尼卡
+    zh-sg: 格尔尼卡
+    zh-tw: 格爾尼卡
 ---
-
 # [[Guernica(Picasso)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Guernica,175036|WD~Guernica,175036]] 

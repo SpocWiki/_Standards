@@ -1,4 +1,95 @@
-
+---
+has_id_wikidata: Q193412
+dv_has_:
+  name_:
+    af: Texas Instruments
+    ar: تكساس إنسترومنتس
+    az: Texas Instruments
+    azb: تکزاس اینسترومنتس
+    be-tarask: Texas Instruments
+    bg: Texas Instruments
+    bn: টেক্সাস ইনসট্রুমেন্টস
+    ca: Texas Instruments
+    cs: Texas Instruments
+    da: Texas Instruments
+    de: Texas Instruments
+    de-ch: Texas Instruments
+    el: Texas Instruments
+    en: Texas Instruments
+    en-ca: Texas Instruments
+    en-gb: Texas Instruments
+    eo: Texas Instruments
+    es: Texas Instruments
+    et: Texas Instruments
+    eu: Texas Instruments
+    fa: تگزاس اینسترومنتس
+    fi: Texas Instruments
+    fr: Texas Instruments
+    ga: Texas Instruments
+    gl: Texas Instruments
+    he: טקסס אינסטרומנטס
+    hi: टेक्सास इंस्ट्रुमेंट्स
+    hr: Texas Instruments
+    hu: Texas Instruments
+    id: Texas Instruments
+    it: Texas Instruments Incorporated
+    ja: テキサス・インスツルメンツ
+    kn: ಟೆಕ್ಸಾಸ್ ಇಂಸ್ಟ್ರುಮೆಂಟ್ಸ್
+    ko: 텍사스 인스트루먼트
+    lt: Texas Instruments
+    lv: Texas Instruments
+    ml: ടെക്സസ് ഇൻസ്ട്രുമെന്റ്സ്
+    mr: टेक्सास इन्स्ट्रुमेंट्स
+    ms: Texas Instruments
+    mul: Texas Instruments
+    nb: Texas Instruments
+    nl: Texas Instruments
+    pl: Texas Instruments
+    pt: Texas Instruments
+    pt-br: Texas Instruments
+    ro: Texas Instruments
+    ru: Texas Instruments
+    sah: Texas Instruments
+    sh: Texas Instruments
+    sk: Texas Instruments
+    sl: Texas Instruments
+    sr: Тексас инструментс
+    sr-ec: Тексас инструментс
+    sr-el: Teksas instruments
+    sv: Texas Instruments
+    sw: Texas Instruments
+    tr: Texas Instruments
+    uk: Texas Instruments
+    ur: ٹیکسس انسٹرومنٹس
+    vi: Texas Instruments
+    wuu: 德州仪器
+    zh: 德州仪器
+    zh-cn: 德州仪器
+    zh-hans: 德州仪器
+    zh-hant: 德州儀器
+    zh-hk: 德州儀器
+    zh-sg: 德州仪器
+    zh-tw: 德州儀器
+aliases:
+- Teksas instruments
+- Texas Instruments
+- Texas Instruments Incorporated
+- Тексас инструментс
+- טקסס אינסטרומנטס
+- تكساس إنسترومنتس
+- تکزاس اینسترومنتس
+- تگزاس اینسترومنتس
+- ٹیکسس انسٹرومنٹس
+- टेक्सास इंस्ट्रुमेंट्स
+- टेक्सास इन्स्ट्रुमेंट्स
+- টেক্সাস ইনসট্রুমেন্টস
+- ಟೆಕ್ಸಾಸ್ ಇಂಸ್ಟ್ರುಮೆಂಟ್ಸ್
+- ടെക്സസ് ഇൻസ്ട്രുമെന്റ്സ്
+- テキサス・インスツルメンツ
+- 德州仪器
+- 德州儀器
+- 텍사스 인스트루먼트
+---
 # [[Texas_Instruments]] 
 
 > Texas Instruments Incorporated (TI) is an American semiconductor company 

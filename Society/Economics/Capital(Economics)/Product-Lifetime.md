@@ -1,9 +1,34 @@
 ---
 aliases:
-  - Product lifetime
-  - Product-Lifetime
+- Product lifetime
+- Product-Lifetime
+- Produktlebensdauer
+- technische levensduur
+- vida útil
+- vida útil del producte
+- vivdaŭro de produkto
+- življenjska doba izdelka
+- жизненный цикл продукта
+- жыцьцёвы цыкль прадукту
+- אורך חיי מוצר
+- عمر المنتج
+- 製品寿命
+has_id_wikidata: Q5447288
+dv_has_:
+  name_:
+    ar: عمر المنتج
+    be-tarask: жыцьцёвы цыкль прадукту
+    ca: vida útil del producte
+    de: Produktlebensdauer
+    en: product lifetime
+    eo: vivdaŭro de produkto
+    es: vida útil
+    he: אורך חיי מוצר
+    ja: 製品寿命
+    nl: technische levensduur
+    ru: жизненный цикл продукта
+    sl: življenjska doba izdelka
 ---
-
 | Product  | Lifetime |
 | -------- | -------: |
 | House    |     50.0 |

@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q15003
+---
+
 
 # [[Escalator]] 
 

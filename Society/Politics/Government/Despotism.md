@@ -1,29 +1,155 @@
 ---
 aliases:
+- Chế độ chuyên quyền (despotism)
+- despocie
+- Despootia
+- Despoteso
+- despoti
+- Despotie
+- despotism
+- despotisme
+- despotismi
+- despotismo
+- despotisms
+- Despotismu
+- Despotiya
+- Despotizam
+- despotizem
+- Despotizm
+- despotizmus
+- Despotîzm
+- Despotïzm
+- Dispotism
+- dispotismo
+- Harðstjórn
+- monarchia despotyczna
+- Δεσποτισμός
+- Деспотизам
+- деспотизм
+- Деспотизъм
+- Деспотисм
+- Дэспатызм
+- Բռնապետություն
+- עריץ
+- استبداد
+- خودکامگی
+- دسپوتیزم
+- دەسپوتىيزم
+- যথেচ্ছাচারী স্বৈরতন্ত্র
+- ਧੱਕੇਸ਼ਾਹੀ
+- சா்வாதிகார ஆட்சி
+- ระบบใช้อำนาจเด็ดขาด
+- დესპოტიზმი
+- 专制主义
+- 專制主義
+- 專制政體
+- 独裁主義
+- 전제주의
 has_id_wikidata: Q179352
 different_from:
-  - "[[_Standards/WikiData/WD~absolute_monarchy,184558]]"
-  - "[[_Standards/WikiData/WD~dictatorship,317]]"
+- '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
+- '[[_Standards/WikiData/WD~dictatorship,317]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-instance_of: "[[_Standards/WikiData/WD~form_of_government,1307214]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_government,1307214]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~regime,5589178]]"
-  - "[[_Standards/WikiData/WD~monarchy,7269]]"
+- '[[_Standards/WikiData/WD~regime,5589178]]'
+- '[[_Standards/WikiData/WD~monarchy,7269]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~tyranny,22082330]]"
-  - "[[_Standards/WikiData/WD~Q65307684,65307684]]"
-studied_by: "[[_Standards/WikiData/WD~political_science,36442]]"
-OmegaWiki_Defined_Meaning: "1052774"
+- '[[_Standards/WikiData/WD~tyranny,22082330]]'
+- '[[_Standards/WikiData/WD~Q65307684,65307684]]'
+studied_by: '[[_Standards/WikiData/WD~political_science,36442]]'
+OmegaWiki_Defined_Meaning: 1052774
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Despotis1946%20edit.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Historical%20totalitarian%20leaders.jpg
 Provenio_UUID: c5d81c18-7514-4a50-8115-dd232c60c154
+dv_has_:
+  name_:
+    ar: استبداد
+    ast: Despotismu
+    az: Despotizm
+    azb: دسپوتیزم
+    be: Дэспатызм
+    be-tarask: дэспатызм
+    bg: Деспотизъм
+    bn: যথেচ্ছাচারী স্বৈরতন্ত্র
+    bxr: Деспотизм
+    ca: despotisme
+    cs: despocie
+    da: Despoti
+    de: Despotie
+    el: Δεσποτισμός
+    en: despotism
+    en-us: despotism
+    eo: despotismo
+    es: despotismo
+    et: Despootia
+    eu: Despotismo
+    fa: خودکامگی
+    fi: despotismi
+    fr: despotisme
+    gl: despotismo
+    he: עריץ
+    hr: Despotizam
+    hu: despotizmus
+    hy: Բռնապետություն
+    id: despotisme
+    io: Despoteso
+    is: Harðstjórn
+    it: dispotismo
+    ja: 独裁主義
+    ka: დესპოტიზმი
+    kk: Деспотизм
+    kk-arab: دەسپوتىيزم
+    kk-cn: دەسپوتىيزم
+    kk-cyrl: Деспотизм
+    kk-kz: Деспотизм
+    kk-latn: Despotïzm
+    kk-tr: Despotïzm
+    ko: 전제주의
+    ku: Despotîzm
+    ky: Деспотизм
+    lmo: Dispotism
+    lv: despotisms
+    mk: Деспотизам
+    mn: Деспотисм
+    ms: Despotisme
+    nb: despoti
+    nl: despotisme
+    oc: Despotisme
+    pa: ਧੱਕੇਸ਼ਾਹੀ
+    pl: monarchia despotyczna
+    pt: despotismo
+    ro: despotism
+    ru: деспотизм
+    sh: Despotizam
+    sk: despotizmus
+    sl: despotizem
+    sq: despotism
+    sr: Деспотизам
+    sr-ec: деспотизам
+    sr-el: despotizam
+    sv: despotism
+    ta: சா்வாதிகார ஆட்சி
+    th: ระบบใช้อำนาจเด็ดขาด
+    tr: despotizm
+    uk: деспотизм
+    uz: Despotiya
+    vi: Chế độ chuyên quyền (despotism)
+    xmf: დესპოტიზმი
+    yue: 專制政體
+    zh: 专制主义
+    zh-cn: 专制主义
+    zh-hans: 专制主义
+    zh-hant: 專制主義
+    zh-hk: 專制主義
+    zh-sg: 专制主义
+    zh-tw: 專制主義
 ---
-
 # [[Despotism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Despotism,179352|WD~Despotism,179352]] 

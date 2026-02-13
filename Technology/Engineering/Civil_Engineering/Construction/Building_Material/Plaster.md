@@ -1,27 +1,83 @@
 ---
 aliases:
+- Abrieb
+- Cheso
+- gesso
+- gips
+- gipsani malter
+- gipso
+- guix
+- gładź szpachlowa
+- Igeltsu
+- ipsos
+- jeso
+- jissu
+- krohv
+- mavec
+- Ntuonaco
+- omietka
+- omítka
+- Palitada
+- plaster
+- Plastr
+- pleister
+- Plester (arsitektur)
+- plástar
+- plâtre
+- puts
+- Putz
+- Stabilidura
+- Suva (arkitekturë)
+- sıva
+- Tezoquitl
+- Tinkas
+- vakolat
+- vữa thạch cao
+- xeso
+- yeso
+- Şêl
+- žbuka
+- γύψος
+- Гач
+- гипс
+- Мазилка
+- тынкоўка
+- штукатурка
+- טיח
+- شێل
+- قصارة
+- گچ
+- प्लास्टर
+- પ્લાસ્ટર ઓફ પેરીસ
+- சுண்ணாம்புக்கலவை
+- ప్లాస్టర్
+- ปูนปลาสเตอร์
+- 漆喰
+- 灰泥
+- 熟石膏
+- 플라스터
 has_id_wikidata: Q274988
 different_from:
-  - "[[_Standards/WikiData/WD~gypsum,82658]]"
-  - "[[_Standards/WikiData/WD~abrasion,331424]]"
-  - "[[_Standards/WikiData/WD~gesso,1514256]]"
-  - "[[_Standards/WikiData/WD~intonaco,4927228]]"
-  - "[[_Standards/WikiData/WD~plaster_construction,109538882]]"
-  - "[[_Standards/WikiData/WD~stucco,33526]]"
+- '[[_Standards/WikiData/WD~gypsum,82658]]'
+- '[[_Standards/WikiData/WD~abrasion,331424]]'
+- '[[_Standards/WikiData/WD~gesso,1514256]]'
+- '[[_Standards/WikiData/WD~intonaco,4927228]]'
+- '[[_Standards/WikiData/WD~plaster_construction,109538882]]'
+- '[[_Standards/WikiData/WD~stucco,33526]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~building_material,206615]]"
-  - "[[../../../../../WikiData/WD~architectural_element,391414]]"
-  - "[[_Standards/WikiData/WD~coating,1570182]]"
-has_characteristic: "[[_Standards/WikiData/WD~hygroscopy,216678]]"
-has_use: "[[_Standards/WikiData/WD~plasterwork,572879]]"
+- '[[_Standards/WikiData/WD~building_material,206615]]'
+- '[[../../../../../WikiData/WD~architectural_element,391414]]'
+- '[[_Standards/WikiData/WD~coating,1570182]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+has_use: '[[_Standards/WikiData/WD~plasterwork,572879]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-associated_hazard: "[[_Standards/WikiData/WD~plaster_exposure,21175065]]"
-ISCO_88_occupation_class: "7123"
-OmegaWiki_Defined_Meaning: "1704"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+associated_hazard: '[[_Standards/WikiData/WD~plaster_exposure,21175065]]'
+ISCO_88_occupation_class: 7123
+OmegaWiki_Defined_Meaning: 1704
 native_label: 漆喰
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plaster%20-%20Putz%20in%20Pompeji.JPG
 CAS_Registry_Number: 26499-65-0
@@ -29,8 +85,84 @@ EC_number: 607-950-0
 Commons_category: Plaster
 revised_Hepburn_romanization: Shikkui
 name_in_kana: しっくい
+dv_has_:
+  name_:
+    an: Cheso
+    ar: قصارة
+    be: тынкоўка
+    be-tarask: тынкоўка
+    bg: Мазилка
+    br: Plastr
+    ca: guix
+    cs: omítka
+    de: Putz
+    de-ch: Abrieb
+    el: γύψος
+    en: plaster
+    en-ca: plaster
+    en-gb: plaster
+    eo: gipso
+    es: yeso
+    et: krohv
+    eu: Igeltsu
+    fa: گچ
+    fr: plâtre
+    ga: plástar
+    gl: xeso
+    glk: گچ
+    gu: પ્લાસ્ટર ઓફ પેરીસ
+    he: טיח
+    hi: प्लास्टर
+    hr: žbuka
+    hu: vakolat
+    id: Plester (arsitektur)
+    it: gesso
+    ja: 漆喰
+    ko: 플라스터
+    ku: Şêl
+    ku-arab: شێل
+    ku-latn: Şêl
+    lmo: Stabilidura
+    lt: Tinkas
+    mk: гипс
+    ms: Plaster
+    nah: Tezoquitl
+    nap: Ntuonaco
+    nb: gips
+    nds: Putz
+    nl: pleister
+    pl: gładź szpachlowa
+    pt: gesso
+    pt-br: gesso
+    ro: ipsos
+    ru: штукатурка
+    scn: jissu
+    sh: gipsani malter
+    sk: omietka
+    sl: mavec
+    sq: Suva (arkitekturë)
+    sr: гипс
+    sr-ec: гипс
+    sr-el: gips
+    sv: puts
+    ta: சுண்ணாம்புக்கலவை
+    te: ప్లాస్టర్
+    tg: Гач
+    th: ปูนปลาสเตอร์
+    tl: Palitada
+    tr: sıva
+    uk: штукатурка
+    vec: jeso
+    vi: vữa thạch cao
+    yue: 熟石膏
+    zh: 灰泥
+    zh-cn: 灰泥
+    zh-hans: 灰泥
+    zh-hant: 灰泥
+    zh-hk: 灰泥
+    zh-sg: 灰泥
+    zh-tw: 灰泥
 ---
-
 # [[Plaster]] 
 
 #is_/same_as :: [[WD~Plaster,274988]] 

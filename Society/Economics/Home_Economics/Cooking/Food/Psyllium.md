@@ -1,11 +1,76 @@
 ---
 aliases:
-  - Flohsamenschalen
-  - Isabgol
-  - ispaghula
-  - Psyllium
+- Apang psyllium
+- Closques de llavors de psyllium
+- Flohsamenschalen
+- Husk
+- Isabgol
+- ispaghul
+- ispaghula
+- Loppfrö
+- Plantaginis ovatae seminis tegumentum
+- Plantago afra
+- Psilium
+- Psyllium
+- Psyllium seed husk
+- Psyllium seed husks
+- Psílio
+- ψύλλιο
+- Подорожник
+- פסיליום
+- اسپغول
+- اسپنگر
+- بارهنگ کتانی
+- بزر قطونة
+- بزر قطونه
+- ईसबगोल
+- ઈસબગુલ
+- サイリウム
+- 洋車前子
+has_id_wikidata: Q430675
+dv_has_:
+  name_:
+    ar: بزر قطونة
+    arz: بزر قطونه
+    ast: Psyllium
+    bg: Psyllium
+    ca: Closques de llavors de psyllium
+    ceb: Psyllium
+    da: Husk
+    de: Flohsamenschalen
+    el: ψύλλιο
+    en: Psyllium seed husks
+    es: Psyllium seed husk
+    fa: بارهنگ کتانی
+    fi: Psyllium
+    fr: ispaghul
+    ga: Psyllium
+    gu: ઈસબગુલ
+    he: פסיליום
+    hi: ईसबगोल
+    id: Psilium
+    it: Plantago afra
+    ja: サイリウム
+    la: Plantaginis ovatae seminis tegumentum
+    mul: Psyllium
+    nb: psyllium
+    nl: Psyllium
+    pam: Apang psyllium
+    pl: Flohsamenschalen
+    pt: Psílio
+    ro: Psyllium
+    ru: Подорожник
+    sd: اسپنگر
+    sq: Psyllium
+    sv: Loppfrö
+    ta: Isabgol
+    uk: Подорожник
+    ur: اسپغول
+    vi: Psyllium
+    war: Psyllium
+    zh: 洋車前子
+    zh-hant: Psyllium seed husks
 ---
-
 # [[Psyllium]] 
 
 #is_/similar_to :: [[../../../../../bio/bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinanae/Poales/Cereal/Quinoa|Quinoa]] 

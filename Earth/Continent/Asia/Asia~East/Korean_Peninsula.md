@@ -1,43 +1,132 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]"
-    - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]]"
-    - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]]"
-    - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]]"
-    - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]]"
-    - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]]"
-    - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]]"
-    - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]]"
+  - '[[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]'
+  - '[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]]'
+  - '[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]]'
+  - '[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]]'
+  - '[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]]'
+  - '[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]]'
+  - '[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]]'
+  - '[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]"
-  - "[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]]"
-  - "[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]]"
-  - "[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]]"
-  - "[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]]"
-  - "[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]]"
-  - "[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]]"
-  - "[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]]"
-
-location: [ 37.5, 127.0 ] 
+- '[[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]]'
+- '[[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]]'
+- '[[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]]'
+- '[[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]]'
+- '[[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]]'
+- '[[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]]'
+- '[[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]]'
+- '[[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]]'
+location:
+- 37.5
+- 127.0
 aliases:
-  - Korean Peninsula
-  - Korea
-  - Korean_Peninsula
+- bán đảo Triều Tiên
+- Chêu-sién Pan-tó
+- Corea
+- Den koreanske halvøya
+- Ekono ya Koré
+- Kore Yarımadası
+- Korea
+- Korea Duoninsulo
+- Korea poolsaar
+- Korea yvyapy
+- Koreaans Hualeweilun
+- Koreaans Schiereiland
+- Koreaansk Skiereilân
+- Koreahalvön
+- Koreahalvøya
+- Koreai-félsziget
+- Koreako penintsula
+- Korean niemimaa
+- Korean Peninsula
+- Koreanische Halbinsel
+- Korean_Peninsula
+- Korejas pussala
+- Korejski polotok
+- Korejski poluotok
+- Korejsko poluostrvo
+- Korejský poloostrov
+- Koreya yarımadası
+- Koreys yarimoroli
+- Koreý tübegi
+- Korėjos pusiasalis
+- Kórejský polostrov
+- Kóreuskagi
+- Ledenez Korea
+- Leithinis na Cóiré
+- ma palisa pi ma Anku pi ma Soson
+- Nîvgirava Koreyê
+- Peninsula Corea
+- Peninsula Coreeană
+- Peninsula ya Korea
+- Peninsulo Korea
+- Penisola coreana
+- Pennryn Korea
+- Penrhyn Corea
+- Península da Coreia
+- Península de Corea
+- péninsule de Corée
+- Półwysep Koreański
+- Rawis han Korea
+- Semenanjung Korea
+- Semenanjung Koréa
+- Tangway ng Korea
+- Tiâu-sián Poàn-tó
+- Κορεατική Χερσόνησος
+- Карэйскі паўвостраў
+- Корејски Полуостров
+- Корејско полуострво
+- Корей çурутравĕ
+- Корей жарым аралы
+- Корей түбегі
+- Корейски полуостров
+- Корейский полуостров
+- Корейський півострів
+- Корея ярымутравы
+- Корея ярымутрауы
+- Кэриэй тумул арыыта
+- Солонгосой хахад арал
+- Солонгосын хойг
+- Կորեական թերակղզի
+- חצי האי הקוריאני
+- جزیرہ نما کوریا
+- شبه جزيرة كوريا
+- شبه جزیره کره
+- كورەي تۇبەگى
+- نیمچەدوورگەی کۆریا
+- کوره
+- کوریا ټاپووزمه
+- کوریائی جزیرہ نما
+- कोरियन द्वीपकल्प
+- कोरियन पेनिनसूला
+- कोरियाई प्रायद्वीप
+- কোরীয় উপদ্বীপ
+- கொரியத் தீபகற்பம்
+- കൊറിയൻ ഉപദ്വീപ്
+- คาบสมุทรเกาหลี
+- კორეაშ ჩქონი
+- კორეის ნახევარკუნძული
+- ឧបទ្វីបកូរ៉េ
+- 朝鮮半島
+- 朝鲜半岛
+- 조선반도
+- 한반도
 has_id_wikidata: Q483134
 highest_point: '[[_Standards/WikiData/WD~Baekdu_Mountain,107635]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Korea_topics,8083518]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q116148307,116148307]]'
 country:
-  - '[[_Standards/WikiData/WD~North_Korea,423]]'
-  - '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
 different_from: '[[_Standards/WikiData/WD~Korea,18097]]'
 part_of: '[[_Standards/WikiData/WD~Korea,18097]]'
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-  - '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
-  - '[[_Standards/WikiData/WD~East_China_Sea,45341]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Yellow_Sea,37960]]'
+- '[[_Standards/WikiData/WD~East_China_Sea,45341]]'
 instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
 area: 85270
 Commons_category: Korea
@@ -47,8 +136,116 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Korean%20P
 native_label: 한국
 coordinate_location: Point(127.0 37.5)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Korea%202003-05-01%20NASA%20MODIS%20Terra%20250m.jpg
+dv_has_:
+  name_:
+    ar: شبه جزيرة كوريا
+    ast: Península de Corea
+    az: Koreya yarımadası
+    ba: Корея ярымутрауы
+    be: Карэйскі паўвостраў
+    be-tarask: Карэйскі паўвостраў
+    bg: Корейски полуостров
+    bn: কোরীয় উপদ্বীপ
+    br: Ledenez Korea
+    bs: Korejsko poluostrvo
+    bxr: Солонгосой хахад арал
+    ca: Península de Corea
+    ckb: نیمچەدوورگەی کۆریا
+    cs: Korejský poloostrov
+    cv: Корей çурутравĕ
+    cy: Penrhyn Corea
+    de: Koreanische Halbinsel
+    el: Κορεατική Χερσόνησος
+    en: Korean Peninsula
+    eo: Korea Duoninsulo
+    es: península de Corea
+    et: Korea poolsaar
+    eu: Koreako penintsula
+    fa: شبه جزیره کره
+    fi: Korean niemimaa
+    fr: péninsule de Corée
+    frr: Koreaans Hualeweilun
+    fy: Koreaansk Skiereilân
+    ga: Leithinis na Cóiré
+    gl: Península de Corea
+    gn: Korea yvyapy
+    hak: Chêu-sién Pan-tó
+    he: חצי האי הקוריאני
+    hi: कोरियाई प्रायद्वीप
+    hr: Korejski poluotok
+    hu: Koreai-félsziget
+    hy: Կորեական թերակղզի
+    ia: Peninsula Corea
+    id: Semenanjung Korea
+    io: Peninsulo Korea
+    is: Kóreuskagi
+    it: Penisola coreana
+    ja: 朝鮮半島
+    jv: Semenanjung Koréa
+    ka: კორეის ნახევარკუნძული
+    kk: Корей түбегі
+    kk-arab: كورەي تۇبەگى
+    kk-cyrl: Корей түбегі
+    kk-latn: Koreý tübegi
+    km: ឧបទ្វីបកូរ៉េ
+    ko: 한반도
+    ko-kp: 조선반도
+    ks: कोरियन पेनिनसूला
+    ku: Nîvgirava Koreyê
+    kw: Pennryn Korea
+    ky: Корей жарым аралы
+    la: Corea
+    ln: Ekono ya Koré
+    lt: Korėjos pusiasalis
+    lv: Korejas pussala
+    lzh: 朝鮮半島
+    mk: Корејски Полуостров
+    ml: കൊറിയൻ ഉപദ്വീപ്
+    mn: Солонгосын хойг
+    mr: कोरियन द्वीपकल्प
+    ms: Semenanjung Korea
+    mzn: کوره
+    nan: Tiâu-sián Poàn-tó
+    nb: Koreahalvøya
+    nl: Koreaans Schiereiland
+    nn: Den koreanske halvøya
+    pl: Półwysep Koreański
+    pnb: جزیرہ نما کوریا
+    ps: کوریا ټاپووزمه
+    pt: Península da Coreia
+    pt-br: Península da Coreia
+    ro: Peninsula Coreeană
+    ru: Корейский полуостров
+    sah: Кэриэй тумул арыыта
+    sco: Korean Peninsula
+    sh: Korejski poluotok
+    sk: Kórejský polostrov
+    sl: Korejski polotok
+    sr: Корејско полуострво
+    sr-ec: Корејско полуострво
+    sr-el: Korejsko poluostrvo
+    sv: Koreahalvön
+    sw: Peninsula ya Korea
+    ta: கொரியத் தீபகற்பம்
+    th: คาบสมุทรเกาหลี
+    tl: Tangway ng Korea
+    tok: ma palisa pi ma Anku pi ma Soson
+    tr: Kore Yarımadası
+    tt: Корея ярымутравы
+    uk: Корейський півострів
+    ur: کوریائی جزیرہ نما
+    uz: Koreys yarimoroli
+    vi: bán đảo Triều Tiên
+    war: Rawis han Korea
+    wuu: 朝鲜半岛
+    xmf: კორეაშ ჩქონი
+    yue: 朝鮮半島
+    zh: 朝鮮半島
+    zh-cn: 朝鲜半岛
+    zh-hans: 朝鲜半岛
+    zh-hant: 朝鮮半島
+    zh-hk: 朝鮮半島
 ---
-
 # [[Korean_Peninsula]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]] 

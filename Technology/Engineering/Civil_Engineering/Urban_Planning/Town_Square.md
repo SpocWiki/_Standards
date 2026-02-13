@@ -1,32 +1,106 @@
 ---
 aliases:
-  - Town Square
-  - public square
-  - urban square
-  - city square
-  - square
-  - plaza
-  - Platz
-  - piazza
-  - Town_Square
+- aikštė
+- alun-alun
+- cearnóg
+- chiazza
+- city square
+- forum
+- kianja
+- kóng-tiûnn
+- leurgêr
+- maydon
+- medan bandar
+- meydan
+- naměstno
+- naměsto
+- námestie
+- náměstí
+- piasa
+- piazza
+- piață urbană
+- pilsētas laukums
+- pjazza
+- plac
+- place
+- placo
+- plass
+- Platz
+- Plaz
+- plaza
+- plaça
+- plein
+- plen
+- praza
+- praça
+- public square
+- qad
+- qhatu
+- quảng trường
+- sgwâr
+- shesh
+- square
+- toarga
+- torg
+- tori
+- torr
+- torv
+- Town Square
+- Town_Square
+- trg
+- tér
+- urban square
+- väljak
+- πλατεία
+- алаң
+- гӀалин майда
+- изэрд
+- карлуд
+- лаптăк
+- майдан
+- плоштад
+- плошча
+- площад
+- площадь
+- пляц
+- трг
+- фæз
+- шәһәр мәйданы
+- ҡала майҙаны
+- հրապարակ
+- כיכר עירונית
+- ميدان
+- مُرَبَع
+- میدان
+- چوک
+- चौक
+- চত্বর
+- നഗരചത്വരം
+- จัตุรัสของเมือง
+- მოედანი
+- 城市广场
+- 广场
+- 広場
+- 廣場
+- 광장
 has_id_wikidata: Q174782
 subclass_of:
-  - '[[_Standards/WikiData/WD~thoroughfare,83620]]'
-  - '[[_Standards/WikiData/WD~architectural_structure,811979]]'
-  - '[[_Standards/WikiData/WD~open_space,2015628]]'
-  - '[[_Standards/WikiData/WD~geographic_location,2221906]]'
-  - '[[_Standards/WikiData/WD~physical_public_space,111415237]]'
+- '[[_Standards/WikiData/WD~thoroughfare,83620]]'
+- '[[_Standards/WikiData/WD~architectural_structure,811979]]'
+- '[[_Standards/WikiData/WD~open_space,2015628]]'
+- '[[_Standards/WikiData/WD~geographic_location,2221906]]'
+- '[[_Standards/WikiData/WD~physical_public_space,111415237]]'
 has_part_s_: '[[_Standards/WikiData/WD~zócalo,181368]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-  - '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-  - '[[_Standards/WikiData/WD~garden_square,2026833]]'
-  - '[[_Standards/WikiData/WD~place,98929991]]'
-  - '[[_Standards/WikiData/WD~area,11500]]'
-  - '[[_Standards/WikiData/WD~village_green,57743]]'
+- '[[_Standards/WikiData/WD~garden_square,2026833]]'
+- '[[_Standards/WikiData/WD~place,98929991]]'
+- '[[_Standards/WikiData/WD~area,11500]]'
+- '[[_Standards/WikiData/WD~village_green,57743]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Square,13427271]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/St%20Peter%27s%20Square%2C%20Vatican%20City%20-%20April%202007.jpg
 Iconclass_notation: 25I144
@@ -34,12 +108,124 @@ equivalent_class: http://dbpedia.org/ontology/Square
 GeoNames_feature_code: S.SQR
 Commons_category: Urban squares
 short_name:
-  - pl.
-  - пл.
+- pl.
+- пл.
 OpenStreetMap_tag: place=square
 Dewey_Decimal_Classification: 711.55
+dv_has_:
+  name_:
+    an: plaza
+    ar: ميدان
+    arz: ميدان
+    ast: plaza
+    ay: qhatu
+    az: meydan
+    ba: ҡала майҙаны
+    be: плошча
+    be-tarask: пляц
+    bg: площад
+    bn: চত্বর
+    br: leurgêr
+    bs: trg
+    ca: plaça
+    ce: гӀалин майда
+    cs: náměstí
+    cv: лаптăк
+    cy: sgwâr
+    da: torv
+    de: Platz
+    de-ch: Platz
+    dsb: naměstno
+    el: πλατεία
+    en: square
+    en-ca: town square
+    en-gb: square
+    eo: placo
+    es: plaza
+    et: väljak
+    eu: plaza
+    fa: میدان
+    fi: tori
+    fr: place
+    fy: Plein
+    ga: cearnóg
+    gl: praza
+    gsw: Platz
+    he: כיכר עירונית
+    hi: चौक
+    hr: trg
+    hsb: naměsto
+    hu: tér
+    hy: հրապարակ
+    id: alun-alun
+    io: placo
+    is: torg
+    it: piazza
+    ja: 広場
+    ka: მოედანი
+    kk: алаң
+    ko: 광장
+    ks: مُرَبَع
+    ku-latn: qad
+    kv: изэрд
+    kw: plen
+    la: forum
+    lb: Plaz
+    lld: plaza
+    lmo: piazza
+    lt: aikštė
+    lv: pilsētas laukums
+    mg: kianja
+    mk: плоштад
+    ml: നഗരചത്വരം
+    ms: medan bandar
+    mt: pjazza
+    nan: kóng-tiûnn
+    nap: chiazza
+    nb: torg
+    nds: Platz
+    nl: plein
+    nn: plass
+    oc: plaça
+    os: фæз
+    pl: plac
+    pt: praça
+    pt-br: praça
+    ro: piață urbană
+    ru: площадь
+    scn: chiazza
+    se: toarga
+    sh: trg
+    sk: námestie
+    sl: trg
+    smn: tori
+    sms: torr
+    sq: shesh
+    sr: трг
+    sr-ec: трг
+    sr-el: trg
+    sv: torg
+    th: จัตุรัสของเมือง
+    tl: plaza
+    tr: meydan
+    tt: шәһәр мәйданы
+    udm: карлуд
+    uk: майдан
+    ur: چوک
+    uz: maydon
+    vec: piasa
+    vep: torg
+    vi: quảng trường
+    wuu: 城市广场
+    yue: 廣場
+    zh: 廣場
+    zh-cn: 广场
+    zh-hans: 广场
+    zh-hant: 廣場
+    zh-hk: 廣場
+    zh-sg: 广场
+    zh-tw: 廣場
 ---
-
 # [[Town_Square]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Square,174782|WD~Square,174782]]  

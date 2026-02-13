@@ -1,53 +1,273 @@
 ---
 aliases:
-  - Metallurgy
+- Alkanieth
+- dhaatu vigyan
+- Iá-kim
+- kohászat
+- kuarepotikuaa
+- Kukorora Simbi
+- Luyện kim
+- Madencilik
+- Makambo mwa bibendé
+- metaalkunde
+- Metallurciye
+- metallurgi
+- metallurgia
+- Metallurgie
+- Metallurgii
+- metallurgiija
+- Metallurgiya
+- Metallurgy
+- Metaloerji
+- Metalorgėjė
+- Metalouriezh
+- Metalurchia
+- Metalurdjeye
+- metalurgi
+- Metalurgia
+- metalurgie
+- metalurgija
+- metalurgio
+- Metalurgjia
+- Metalurgìa
+- metalurhia
+- Metalurhiya
+- metalurji
+- Metalurxa
+- metalurxia
+- metalurģija
+- metal·lúrgia
+- Meteleg
+- Metoikunde
+- miotalóireacht
+- Mitallurgia
+- Málmfræði
+- Métalirji
+- métallurgie
+- N̄ɩɣlɩm tʋmɩyɛ laɣsɩ
+- Pandhé
+- Q'illay llamk'ay
+- Ufuaji metali
+- μεταλλουργία
+- згъæркуыст
+- Металлург
+- Металлурги
+- металлургия
+- Металлургиялық кешен
+- металургія
+- металургија
+- Металургия
+- Металурґія
+- мэталюргія
+- Тимири уһаарыы
+- մետաղագործութիւն
+- մետաղագործություն
+- מטלורגיה
+- מעטאלורגיע
+- دھات کاری
+- علم الفلزات
+- فلزشناسی
+- متالورژي
+- متالوژی
+- ميطالورجي
+- میٹلرجی
+- کانزاناسی
+- उत्खनन्
+- धातुकर्म
+- धातुविज्ञान
+- धातुशास्त्र
+- धातूशास्त्र
+- ধাতুবিজ্ঞান
+- ধাতুবিদ্যা
+- ਧਾਤ ਵਿੱਦਿਆ
+- ધાતુશાસ્ત્ર
+- உலோகவியல்
+- ಲೋಹಶಾಸ್ತ್ರ
+- ലോഹസംസ്കരണശാസ്ത്രം
+- วิศวกรรมโลหการ
+- მეტალურგია
+- 冶金学
+- 冶金學
+- 金属工学
+- 금속공학
 has_id_wikidata: Q11467
 Colon_Classification: F191
 Commons_category: Metallurgy
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 Dewey_Decimal_Classification: 669
-different_from: "[[_Standards/WikiData/WD~Q11777633,11777633]]"
+different_from: '[[_Standards/WikiData/WD~Q11777633,11777633]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VysokePece1.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~branch_of_science,2465832]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
 MeSH_tree_code: J01.576.655.875.400
-partially_coincident_with: "[[_Standards/WikiData/WD~Q19724861,19724861]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~Q19724861,19724861]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~metallurgist,18576582]]"
-  - "[[_Standards/WikiData/WD~metallurgical_engineer,27947380]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~metal_industry,1924906]]"
+- '[[_Standards/WikiData/WD~metallurgist,18576582]]'
+- '[[_Standards/WikiData/WD~metallurgical_engineer,27947380]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~metal_industry,1924906]]'
 Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/metallurgy
-subclass_of: "[[_Standards/WikiData/WD~materials_science,228736]]"
+subclass_of: '[[_Standards/WikiData/WD~materials_science,228736]]'
 U_S_National_Archives_Identifier: 10644494
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Metallurgy,11467|WD~Metallurgy,11467]]"
-    - "[[/_Standards/Chemistry/Material/Metallurgy|Metallurgy]]"
-    - "[[/_public/Chemistry/Material/Metallurgy.public|Metallurgy.public]]"
-    - "[[/_internal/Chemistry/Material/Metallurgy.internal|Metallurgy.internal]]"
-    - "[[/_protect/Chemistry/Material/Metallurgy.protect|Metallurgy.protect]]"
-    - "[[/_private/Chemistry/Material/Metallurgy.private|Metallurgy.private]]"
-    - "[[/_personal/Chemistry/Material/Metallurgy.personal|Metallurgy.personal]]"
-    - "[[/_secret/Chemistry/Material/Metallurgy.secret|Metallurgy.secret]]"
+  - '[[../../WikiData/WD~Metallurgy,11467|WD~Metallurgy,11467]]'
+  - '[[/_Standards/Chemistry/Material/Metallurgy|Metallurgy]]'
+  - '[[/_public/Chemistry/Material/Metallurgy.public|Metallurgy.public]]'
+  - '[[/_internal/Chemistry/Material/Metallurgy.internal|Metallurgy.internal]]'
+  - '[[/_protect/Chemistry/Material/Metallurgy.protect|Metallurgy.protect]]'
+  - '[[/_private/Chemistry/Material/Metallurgy.private|Metallurgy.private]]'
+  - '[[/_personal/Chemistry/Material/Metallurgy.personal|Metallurgy.personal]]'
+  - '[[/_secret/Chemistry/Material/Metallurgy.secret|Metallurgy.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Metallurgy,11467|WD~Metallurgy,11467]]"
-  - "[[/_Standards/Chemistry/Material/Metallurgy|Metallurgy]]"
-  - "[[/_public/Chemistry/Material/Metallurgy.public|Metallurgy.public]]"
-  - "[[/_internal/Chemistry/Material/Metallurgy.internal|Metallurgy.internal]]"
-  - "[[/_protect/Chemistry/Material/Metallurgy.protect|Metallurgy.protect]]"
-  - "[[/_private/Chemistry/Material/Metallurgy.private|Metallurgy.private]]"
-  - "[[/_personal/Chemistry/Material/Metallurgy.personal|Metallurgy.personal]]"
-  - "[[/_secret/Chemistry/Material/Metallurgy.secret|Metallurgy.secret]]"
+- '[[../../WikiData/WD~Metallurgy,11467|WD~Metallurgy,11467]]'
+- '[[/_Standards/Chemistry/Material/Metallurgy|Metallurgy]]'
+- '[[/_public/Chemistry/Material/Metallurgy.public|Metallurgy.public]]'
+- '[[/_internal/Chemistry/Material/Metallurgy.internal|Metallurgy.internal]]'
+- '[[/_protect/Chemistry/Material/Metallurgy.protect|Metallurgy.protect]]'
+- '[[/_private/Chemistry/Material/Metallurgy.private|Metallurgy.private]]'
+- '[[/_personal/Chemistry/Material/Metallurgy.personal|Metallurgy.personal]]'
+- '[[/_secret/Chemistry/Material/Metallurgy.secret|Metallurgy.secret]]'
+dv_has_:
+  name_:
+    af: metaalkunde
+    an: Metalurchia
+    anp: धातुविज्ञान
+    ar: علم الفلزات
+    ary: ميطالورجي
+    as: ধাতুবিজ্ঞান
+    ast: Metalurxa
+    awa: धातुविज्ञान
+    az: metallurgiya
+    azb: متالوژی
+    ba: Металлургия
+    bar: Metoikunde
+    be: металургія
+    be-tarask: мэталюргія
+    bg: Металургия
+    bn: ধাতুবিদ্যা
+    br: Metalouriezh
+    bs: Metalurgija
+    bxr: Металлурги
+    ca: metal·lúrgia
+    ckb: کانزاناسی
+    crh: Madencilik
+    cs: metalurgie
+    cy: Meteleg
+    da: Metallurgi
+    de: Metallurgie
+    diq: Metallurciye
+    el: μεταλλουργία
+    en: metallurgy
+    en-ca: Metallurgy
+    en-gb: metallurgy
+    eo: metalurgio
+    es: metalurgia
+    et: metallurgia
+    eu: Metalurgia
+    fa: فلزشناسی
+    fi: metallurgia
+    fr: métallurgie
+    ga: miotalóireacht
+    gan: 冶金學
+    gcr: Métalirji
+    gl: metalurxia
+    gn: kuarepotikuaa
+    gsw: Metallurgie
+    gu: ધાતુશાસ્ત્ર
+    he: מטלורגיה
+    hi: धातुकर्म
+    hif: dhaatu vigyan
+    hr: metalurgija
+    hu: kohászat
+    hy: մետաղագործություն
+    hyw: մետաղագործութիւն
+    id: metalurgi
+    ilo: metalurhia
+    io: Metalurgio
+    is: Málmfræði
+    it: metallurgia
+    ja: 金属工学
+    jam: Metaloerji
+    jv: Pandhé
+    ka: მეტალურგია
+    kbp: N̄ɩɣlɩm tʋmɩyɛ laɣsɩ
+    kk: Металлургиялық кешен
+    kn: ಲೋಹಶಾಸ್ತ್ರ
+    ko: 금속공학
+    kw: Alkanieth
+    ky: Металлургия
+    la: Metallurgia
+    li: Metallurgie
+    ln: Makambo mwa bibendé
+    lt: metalurgija
+    lv: metalurģija
+    mk: металургија
+    ml: ലോഹസംസ്കരണശാസ്ത്രം
+    mn: Металлург
+    mr: धातूशास्त्र
+    ms: Metalurgi
+    mwl: Metalurgie
+    nan: Iá-kim
+    nb: metallurgi
+    ne: उत्खनन्
+    new: धातुशास्त्र
+    nl: metallurgie
+    nn: metallurgi
+    oc: Metallurgia
+    os: згъæркуыст
+    pa: ਧਾਤ ਵਿੱਦਿਆ
+    pl: metalurgia
+    pms: Metalurgìa
+    pnb: میٹلرجی
+    ps: متالورژي
+    pt: metalurgia
+    pt-br: Metalurgia
+    qu: Q'illay llamk'ay
+    ro: metalurgie
+    ru: металлургия
+    rue: Металурґія
+    sah: Тимири уһаарыы
+    scn: Mitallurgia
+    se: metallurgiija
+    sgs: Metalorgėjė
+    sh: metalurgija
+    sk: Metalurgia
+    sl: metalurgija
+    sm: Metallurgy
+    smn: metallurgia
+    sms: metallurgia
+    sn: Kukorora Simbi
+    sq: Metalurgjia
+    sr: металургија
+    sv: metallurgi
+    sw: Ufuaji metali
+    ta: உலோகவியல்
+    th: วิศวกรรมโลหการ
+    tl: Metalurhiya
+    tr: metalurji
+    tt: металлургия
+    udm: металлургия
+    uk: металургія
+    ur: دھات کاری
+    uz: Metallurgiya
+    vep: Metallurgii
+    vi: Luyện kim
+    vro: Metallurgia
+    wa: Metalurdjeye
+    war: Metalurhiya
+    wuu: 冶金学
+    yi: מעטאלורגיע
+    yue: 冶金學
+    zh: 冶金学
 ---
-
 # [[Metallurgy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Metallurgy,11467|WD~Metallurgy,11467]] 

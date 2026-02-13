@@ -1,13 +1,139 @@
 ---
 aliases:
+- algorisme d'Euclides
+- Algorithm Ewclidaidd
+- algorithme d'Euclide
+- Algorithmus Euclidis
+- Algoritm d'Euclid
+- Algoritma Euklidean
+- Algoritme van Euclides
+- algoritmo de Euclides
+- algoritmo di Euclide
+- Algoritmu de Euclides
+- algoritmul lui Euclid
+- algorytm Euklidesa
+- Eiklīda algoritms
+- Euclidean algorithm
+- Eukleideen algoritmi
+- Eukleidův algoritmus
+- Euklides algoritm
+- Euklidesen algoritmo
+- euklideszi algoritmus
+- euklidischer Algorithmus
+- Euklido algoritmas
+- Euklidov algoritam
+- Euklidov algoritmus
+- Euklids algoritme
+- Euklidsch Algorithmus
+- Euklidsk algoritme
+- Evklid alqoritmi
+- Evklidov algoritem
+- Eŭklida algoritmo
+- Giải thuật Euclid
+- Öklid algoritması
+- Αλγόριθμος του Ευκλείδη
+- Алгарытм Еўкліда
+- Алгоритм Евкліда
+- алгоритм Евклида
+- Алгоритъм на Евклид
+- Евклид алгоритмы
+- Евклидийн алгоритм
+- Евклидов алгоритам
+- Еуклидов алгоритам
+- Эўклідавы альгарытм
+- Էվկլիդեսի ալգորիթմ
+- אלגוריתם אוקלידס
+- ئەلگۆریتمی ئیقلیدس
+- الگوریتم اقلیدس
+- خوارزمية أقليدس
+- ইউক্লিডীয় এলগরিদম
+- யூக்ளிடிய படிமுறைத்தீர்வு
+- യൂക്ലിഡിന്റെ അൽഗൊരിതം
+- ขั้นตอนวิธีแบบยุคลิด
+- ევკლიდეს ალგორითმი
+- ユークリッドの互除法
+- 輾轉相除法
+- 辗转相除法
+- 유클리드 호제법
 has_id_wikidata: Q230848
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-instance_of: "[[_Standards/WikiData/WD~algorithm,8366]]"
-named_after: "[[_Standards/WikiData/WD~Euclid,8747]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~algorithm,8366]]'
+named_after: '[[_Standards/WikiData/WD~Euclid,8747]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Euclidean%20algorithm%20252%20105%20animation%20flipped.gif
 Commons_category: Euclidean algorithm
+dv_has_:
+  name_:
+    ar: خوارزمية أقليدس
+    ast: Algoritmu de Euclides
+    az: Evklid alqoritmi
+    ba: Евклид алгоритмы
+    be: Алгарытм Еўкліда
+    be-tarask: Эўклідавы альгарытм
+    bg: Алгоритъм на Евклид
+    bn: ইউক্লিডীয় এলগরিদম
+    ca: algorisme d'Euclides
+    ckb: ئەلگۆریتمی ئیقلیدس
+    cs: Eukleidův algoritmus
+    cy: Algorithm Ewclidaidd
+    da: Euklids algoritme
+    de: euklidischer Algorithmus
+    el: Αλγόριθμος του Ευκλείδη
+    en: Euclidean algorithm
+    eo: Eŭklida algoritmo
+    es: algoritmo de Euclides
+    eu: Euklidesen algoritmo
+    fa: الگوریتم اقلیدس
+    fi: Eukleideen algoritmi
+    fr: algorithme d'Euclide
+    gl: Algoritmo de Euclides
+    he: אלגוריתם אוקלידס
+    hr: Euklidov algoritam
+    hu: euklideszi algoritmus
+    hy: Էվկլիդեսի ալգորիթմ
+    id: Algoritma Euklidean
+    it: algoritmo di Euclide
+    ja: ユークリッドの互除法
+    ka: ევკლიდეს ალგორითმი
+    ko: 유클리드 호제법
+    la: Algorithmus Euclidis
+    lt: Euklido algoritmas
+    lv: Eiklīda algoritms
+    mk: Евклидов алгоритам
+    ml: യൂക്ലിഡിന്റെ അൽഗൊരിതം
+    mn: Евклидийн алгоритм
+    nb: Euklids algoritme
+    nds: Euklidsch Algorithmus
+    nl: Algoritme van Euclides
+    nn: Euklidsk algoritme
+    pl: algorytm Euklidesa
+    pms: Algoritm d'Euclid
+    pt: algoritmo de Euclides
+    pt-br: algoritmo de Euclides
+    ro: algoritmul lui Euclid
+    ru: алгоритм Евклида
+    sco: Euclidean algorithm
+    sh: Euklidov algoritam
+    sk: Euklidov algoritmus
+    sl: Evklidov algoritem
+    sr: Еуклидов алгоритам
+    sr-ec: Еуклидов алгоритам
+    sr-el: Euklidov algoritam
+    sv: Euklides algoritm
+    ta: யூக்ளிடிய படிமுறைத்தீர்வு
+    th: ขั้นตอนวิธีแบบยุคลิด
+    tr: Öklid algoritması
+    uk: Алгоритм Евкліда
+    vi: Giải thuật Euclid
+    wuu: 辗转相除法
+    yue: 輾轉相除法
+    zh: 輾轉相除法
+    zh-cn: 辗转相除法
+    zh-hans: 辗转相除法
+    zh-hant: 輾轉相除法
+    zh-hk: 輾轉相除法
+    zh-sg: 辗转相除法
+    zh-tw: 輾轉相除法
 ---
-
 # [[Euclidean_Algorithm]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Euclidean_algorithm,230848|WD~Euclidean_algorithm,230848]] 

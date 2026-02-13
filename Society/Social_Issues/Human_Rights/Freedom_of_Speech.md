@@ -1,32 +1,125 @@
 ---
 aliases:
-  - Freedom_of_speech
-  - Freedom of speech
-  - Redefreiheit
-  - Freedom_of_Speech
-  - Freedom of Speech
+- Adierazpen-askatasun
+- Azadiya derbirinê
+- freedom o speech
+- Freedom of speech
+- Freedom_of_speech
+- Giân-lūn chū-iû
+- ifade özgürlüğü
+- kalayaan sa pananalita
+- Kebebasan berbicara
+- Kebebasan bersuara
+- Kuma hɔrɔnya
+- Lhibardade de spresson
+- Libbirtati di parrata
+- Liberdade de expresión
+- liberdade de expressão
+- libertad de expresión
+- Libertade de espressione
+- libertas exprimendi
+- Libertat d'expression
+- Libertatea de exprimare
+- libertà di parola
+- liberté d'expression
+- Liria e fjalës
+- llibertat d'expressió
+- Llibertá d'espresión
+- Meenungsfräiheet
+- Meinungsfreiheit
+- Málfrelsi
+- Ngièn-lun Chhṳ-yù
+- Nnwere onwe ikwu okwu
+- parollibereco
+- Redefreiheit
+- sananvapaus
+- saoirse cainte
+- Sloboda govora
+- sloboda slova
+- Soʻz erkinligi
+- svoboda govora
+- svoboda projevu
+- szólásszabadság
+- sátnefriijavuohta
+- sänirijjâvuotâ
+- sõnavabadus
+- Söz azadlığı
+- Talufrælsi
+- tự do ngôn luận
+- Uhuru wa kujieleza
+- Vrie'eid van meênigsuuting
+- vrijheid van meningsuiting
+- vryheid van spraak
+- Vārda brīvība
+- wolność słowa
+- Ytringsfridom
+- ytringsfrihed
+- ytringsfrihet
+- yttrandefrihet
+- Ñeñanduka sãso
+- žodžio laisvė
+- Ƴancin Faɗar Albarkacin Baki
+- Ελευθερία του λόγου
+- Көҥүл тыл
+- Озодии афкор ва сухан
+- Сăмах ирĕклĕхĕ
+- свабода слова
+- Свобода на словото
+- свобода слова
+- Слобода говора
+- Слобода на говор
+- Сөз Бостандығы
+- Үг хэлэх эрх чөлөө
+- Һүҙ азатлығы
+- Խոսքի ազատություն
+- חופש הביטוי
+- פרייהייט פון ווארט
+- آزادی بیان
+- آزادی گفتار
+- ئازادیی دەربڕین
+- اظهار جي آزادي
+- حرية التعبير
+- د وينا ازادي
+- سؤز اؤزگورلوغو
+- گبسرأدأن
+- अभिव्यक्ति की स्वतंत्रता
+- अभिव्यक्तिस्वातंत्र्य
+- বাকস্বাধীনতা
+- ਬੋਲਣ ਦੀ ਆਜ਼ਾਦੀ
+- ବାକ୍ ସ୍ୱାଧିନତା
+- கருத்து வெளிப்பாட்டுச் சுதந்திரம்
+- അഭിപ്രായസ്വാതന്ത്ര്യം
+- เสรีภาพในการพูด
+- ເສລີພາບໃນການເວົ້າ
+- လွတ်လပ်စွာဟောပြောခွင့်
+- სიტყვის თავისუფლება
+- ⵜⵉⵍⴻⵍⵍⵉ ⵏ ⵜⵏⴼⴰⵍⵉⵜ
+- 言論の自由
+- 言論自由
+- 言论自由
+- 표현의 자유
 has_id_wikidata: Q22692
 instance_of:
-  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
-  - '[[_Standards/WikiData/WD~cultural_rights,5193405]]'
-  - '[[_Standards/WikiData/WD~civil_liberties,29556]]'
+- '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+- '[[_Standards/WikiData/WD~cultural_rights,5193405]]'
+- '[[_Standards/WikiData/WD~civil_liberties,29556]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Freedom_of_expression,1029773]]'
-  - '[[_Standards/WikiData/WD~Wolność_słowa,11837928]]'
+- '[[_Standards/WikiData/WD~Freedom_of_expression,1029773]]'
+- '[[_Standards/WikiData/WD~Wolność_słowa,11837928]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~freedom_of_indifference,3237851]]'
-  - '[[_Standards/WikiData/WD~freedom_of_the_press,22688]]'
+- '[[_Standards/WikiData/WD~freedom_of_indifference,3237851]]'
+- '[[_Standards/WikiData/WD~freedom_of_the_press,22688]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~intellectual_freedom,3308639]]'
-  - '[[_Standards/WikiData/WD~freedom_of_expression,3831748]]'
-  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-  - '[[_Standards/WikiData/WD~freedom_of_information,26084]]'
+- '[[_Standards/WikiData/WD~intellectual_freedom,3308639]]'
+- '[[_Standards/WikiData/WD~freedom_of_expression,3831748]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~freedom_of_information,26084]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-  - '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiForHumanRights_2019,78499962]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Freedom_of_speech,18753099]]'
 opposite_of: '[[_Standards/WikiData/WD~censorship,543]]'
 social_media_followers: 51220
@@ -42,8 +135,122 @@ subreddit: FreeSpeech
 Wikitribune_category: humanrights/free-speech-humanrights
 Library_of_Congress_Classification: K3254
 nickname: freezepeach
+dv_has_:
+  name_:
+    af: vryheid van spraak
+    ar: حرية التعبير
+    arz: حرية التعبير
+    ast: Llibertá d'espresión
+    az: Söz azadlığı
+    azb: سؤز اؤزگورلوغو
+    ba: Һүҙ азатлығы
+    be: свабода слова
+    be-tarask: свабода слова
+    bg: Свобода на словото
+    bm: Kuma hɔrɔnya
+    bn: বাকস্বাধীনতা
+    bs: Sloboda govora
+    ca: llibertat d'expressió
+    ckb: ئازادیی دەربڕین
+    cs: svoboda projevu
+    cv: Сăмах ирĕклĕхĕ
+    da: ytringsfrihed
+    de: Meinungsfreiheit
+    el: Ελευθερία του λόγου
+    en: freedom of speech
+    en-ca: Freedom of speech
+    en-gb: freedom of speech
+    eo: parollibereco
+    es: libertad de expresión
+    et: sõnavabadus
+    eu: Adierazpen-askatasun
+    fa: آزادی بیان
+    fi: sananvapaus
+    fo: Talufrælsi
+    fr: liberté d'expression
+    ga: saoirse cainte
+    gl: Liberdade de expresión
+    glk: گبسرأدأن
+    gn: Ñeñanduka sãso
+    ha: Ƴancin Faɗar Albarkacin Baki
+    hak: Ngièn-lun Chhṳ-yù
+    he: חופש הביטוי
+    hi: अभिव्यक्ति की स्वतंत्रता
+    hr: sloboda govora
+    hu: szólásszabadság
+    hy: Խոսքի ազատություն
+    id: Kebebasan berbicara
+    ig: Nnwere onwe ikwu okwu
+    is: Málfrelsi
+    it: libertà di parola
+    ja: 言論の自由
+    ka: სიტყვის თავისუფლება
+    kk: Сөз Бостандығы
+    ko: 표현의 자유
+    ku: Azadiya derbirinê
+    la: libertas exprimendi
+    lb: Meenungsfräiheet
+    lo: ເສລີພາບໃນການເວົ້າ
+    lt: žodžio laisvė
+    lv: Vārda brīvība
+    mk: Слобода на говор
+    ml: അഭിപ്രായസ്വാതന്ത്ര്യം
+    mn: Үг хэлэх эрх чөлөө
+    mr: अभिव्यक्तिस्वातंत्र्य
+    ms: Kebebasan bersuara
+    mwl: Lhibardade de spresson
+    my: လွတ်လပ်စွာဟောပြောခွင့်
+    nan: Giân-lūn chū-iû
+    nb: ytringsfrihet
+    nl: vrijheid van meningsuiting
+    nn: Ytringsfridom
+    oc: Libertat d'expression
+    or: ବାକ୍ ସ୍ୱାଧିନତା
+    pa: ਬੋਲਣ ਦੀ ਆਜ਼ਾਦੀ
+    pl: wolność słowa
+    pnb: آزادی گفتار
+    ps: د وينا ازادي
+    pt: liberdade de expressão
+    ro: Libertatea de exprimare
+    ru: свобода слова
+    sah: Көҥүл тыл
+    sc: Libertade de espressione
+    scn: Libbirtati di parrata
+    sco: freedom o speech
+    sd: اظهار جي آزادي
+    se: sátnefriijavuohta
+    sh: Sloboda govora
+    sk: sloboda slova
+    sl: svoboda govora
+    smn: sänirijjâvuotâ
+    sq: Liria e fjalës
+    sr: Слобода говора
+    sv: yttrandefrihet
+    sw: Uhuru wa kujieleza
+    ta: கருத்து வெளிப்பாட்டுச் சுதந்திரம்
+    tg: Озодии афкор ва сухан
+    th: เสรีภาพในการพูด
+    tl: kalayaan sa pananalita
+    tr: ifade özgürlüğü
+    uk: свобода слова
+    ur: آزادی گفتار
+    uz: Soʻz erkinligi
+    vi: tự do ngôn luận
+    wuu: 言論自由
+    yi: פרייהייט פון ווארט
+    yue: 言論自由
+    zea: Vrie'eid van meênigsuuting
+    zgh: ⵜⵉⵍⴻⵍⵍⵉ ⵏ ⵜⵏⴼⴰⵍⵉⵜ
+    zh: 言論自由
+    zh-cn: 言论自由
+    zh-hans: 言论自由
+    zh-hant: 言論自由
+    zh-hk: 言論自由
+    zh-mo: 言論自由
+    zh-my: 言论自由
+    zh-sg: 言论自由
+    zh-tw: 言論自由
 ---
-
 # [[Freedom_of_Speech]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Freedom_of_speech,22692|WD~Freedom_of_speech,22692]]

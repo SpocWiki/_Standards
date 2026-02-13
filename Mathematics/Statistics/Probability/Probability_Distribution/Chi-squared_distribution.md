@@ -1,4 +1,100 @@
-
+---
+has_id_wikidata: Q243462
+dv_has_:
+  name_:
+    ar: توزيع خي تربيع
+    be: Размеркаванне хі-квадрат
+    be-tarask: хі-квадрат разьмеркаваньне
+    ca: distribució khi quadrat
+    cs: Χ² rozdělení
+    da: chi²-fordeling
+    de: Chi-Quadrat-Verteilung
+    en: chi-squared distribution
+    eo: distribuo de kvadrata ĥi
+    es: distribución χ²
+    eu: Khi-karratu banakuntza
+    fa: توزیع کیدو
+    fi: Khii toiseen -jakauma
+    fr: loi de chi deux
+    gl: Distribución khi cadrado
+    he: התפלגות כי בריבוע
+    hi: काई-वर्ग वितरण
+    hu: khí-négyzet-eloszlás
+    id: Distribusi khi-kuadrat
+    is: Kí-kvaðratsdreifing
+    it: distribuzione chi quadrato
+    ja: カイ二乗分布
+    ko: 카이제곱 분포
+    mk: хи-квадратна распределба
+    nb: khikvadratfordeling
+    nl: chi-kwadraatverdeling
+    nn: kjikvadratfordeling
+    pl: Rozkład chi kwadrat
+    pt: Chi-quadrado
+    ru: распределение хи-квадрат
+    sk: Χ²-rozdelenie
+    sl: hi-kvadrat porazdelitev
+    sq: Shpërndarja hi katror
+    sr: Hi-kvadratna raspodela
+    su: Sebaran chi-kuadrat
+    sv: chitvåfördelning
+    th: การแจกแจงไคกำลังสอง
+    tl: Distribusyong kinwadradong-chi
+    tr: ki-kare dağılımı
+    uk: розподіл хі-квадрат
+    yue: Chi-square
+    zh: 卡方分佈
+    zh-cn: 卡方分布
+    zh-hans: 卡方分布
+    zh-hant: 卡方分佈
+    zh-hk: 卡方分佈
+    zh-sg: 卡方分布
+    zh-tw: 卡方分佈
+aliases:
+- chi-kwadraatverdeling
+- Chi-quadrado
+- Chi-Quadrat-Verteilung
+- Chi-square
+- chi-squared distribution
+- chitvåfördelning
+- chi²-fordeling
+- distribució khi quadrat
+- Distribución khi cadrado
+- distribución χ²
+- distribuo de kvadrata ĥi
+- Distribusi khi-kuadrat
+- Distribusyong kinwadradong-chi
+- distribuzione chi quadrato
+- hi-kvadrat porazdelitev
+- Hi-kvadratna raspodela
+- Khi-karratu banakuntza
+- Khii toiseen -jakauma
+- khikvadratfordeling
+- khí-négyzet-eloszlás
+- ki-kare dağılımı
+- kjikvadratfordeling
+- Kí-kvaðratsdreifing
+- loi de chi deux
+- Rozkład chi kwadrat
+- Sebaran chi-kuadrat
+- Shpërndarja hi katror
+- Χ² rozdělení
+- Χ²-rozdelenie
+- Размеркаванне хі-квадрат
+- распределение хи-квадрат
+- розподіл хі-квадрат
+- хі-квадрат разьмеркаваньне
+- хи-квадратна распределба
+- התפלגות כי בריבוע
+- توزيع خي تربيع
+- توزیع کیدو
+- काई-वर्ग वितरण
+- การแจกแจงไคกำลังสอง
+- カイ二乗分布
+- 卡方分佈
+- 卡方分布
+- 카이제곱 분포
+---
 # [[Chi-squared_distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Chi-squared_distribution,243462|WD~Chi-squared_distribution,243462]] 

@@ -1,20 +1,73 @@
 ---
 aliases:
-  - Schock
-  - Shock(Circulatory)
+- choc circulatoire
+- choque circulatorio
+- choque circulatoriu
+- choque circulatório
+- cirkulationssvikt
+- Girgiza (hanzari)
+- Gjendja e shokut
+- Hiu-khek
+- ictus
+- kardivaskula ŝoko
+- renjatan
+- Schock
+- shak
+- shock
+- Shock zirkulatorio
+- Shock(Circulatory)
+- sirkulatorisk sjokk
+- sokk
+- suaitheadh
+- Sốc tuần hoàn
+- Talıqsw
+- wstrząs
+- xoc
+- Şok
+- šohkka
+- šok
+- šok (krvotočni urušaj)
+- Šok (medicina)
+- šok obtočil
+- Šokas
+- šokk
+- šokki
+- Šoks
+- șoc
+- καταπληξία
+- Талықсу
+- шок
+- Շոկ
+- הלם
+- تالىقسۋ
+- شوك
+- شوک
+- صدمة
+- शॉक
+- শক (সংবহন তন্ত্র)
+- ଶକ୍ (ରକ୍ତ ସଞ୍ଚାଳନ)
+- அதிர்ச்சி
+- దిగ్భ్రాంతి
+- ช็อก
+- བརྒྱལ་བ་
+- တူၵ်းၸႂ်ၵူဝ်ႁႄ
+- შოკი
+- ショック
+- 休克
+- 쇼크
 has_id_wikidata: Q178061
 instance_of:
-  - '[[_Standards/WikiData/WD~syndrome,179630]]'
-  - '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~syndrome,179630]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 health_specialty: '[[_Standards/WikiData/WD~intensive_care_medicine,679690]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~circulatory_collapse,5121708]]'
-  - '[[_Standards/WikiData/WD~cardiovascular_system_symptom,102186826]]'
+- '[[_Standards/WikiData/WD~circulatory_collapse,5121708]]'
+- '[[_Standards/WikiData/WD~cardiovascular_system_symptom,102186826]]'
 different_from: '[[_Standards/WikiData/WD~Q42885871,42885871]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_shock_types,97914593]]'
 DiseasesDB: 12013
@@ -25,8 +78,97 @@ UMLS_CUI: C0036974
 MeSH_tree_code: C23.550.835
 Krugosvet_article_archived_: medicina/SHOK.html
 Commons_category: Shock (circulatory)
+dv_has_:
+  name_:
+    ar: صدمة
+    ast: choque circulatoriu
+    az: şok
+    be: шок
+    be-tarask: шок
+    bg: шок
+    bn: শক (সংবহন তন্ত্র)
+    bo: བརྒྱལ་བ་
+    bs: šok
+    ca: xoc
+    cs: šok
+    da: shock
+    de: Schock
+    el: καταπληξία
+    en: shock
+    eo: kardivaskula ŝoko
+    es: choque circulatorio
+    et: šokk
+    eu: Shock zirkulatorio
+    fa: شوک
+    fi: šokki
+    fr: choc circulatoire
+    ga: suaitheadh
+    gl: shock
+    ha: Girgiza (hanzari)
+    he: הלם
+    hi: शॉक
+    hr: šok (krvotočni urušaj)
+    hu: sokk
+    hy: Շոկ
+    id: shock
+    it: shock
+    ja: ショック
+    jam: shak
+    ka: შოკი
+    kk: Талықсу
+    kk-arab: تالىقسۋ
+    kk-cn: تالىقسۋ
+    kk-cyrl: Талықсу
+    kk-kz: Талықсу
+    kk-latn: Talıqsw
+    kk-tr: Talıqsw
+    ko: 쇼크
+    ky: шок
+    la: ictus
+    lij: Shock
+    lt: Šokas
+    lv: Šoks
+    mk: Шок
+    ms: renjatan
+    nan: Hiu-khek
+    nb: sirkulatorisk sjokk
+    nl: shock
+    nn: sirkulatorisk sjokk
+    or: ଶକ୍ (ରକ୍ତ ସଞ୍ଚାଳନ)
+    pl: wstrząs
+    pt: choque circulatório
+    ro: șoc
+    ru: шок
+    sah: Шок
+    se: šohkka
+    sh: Šok (medicina)
+    shn: တူၵ်းၸႂ်ၵူဝ်ႁႄ
+    sk: Šok
+    sl: šok obtočil
+    smn: šokki
+    sq: Gjendja e shokut
+    sr: шок
+    sr-ec: Шок
+    sr-el: Šok
+    sv: cirkulationssvikt
+    ta: அதிர்ச்சி
+    te: దిగ్భ్రాంతి
+    th: ช็อก
+    tr: Şok
+    tt: Шок
+    ug: شوك
+    uk: шок
+    vi: Sốc tuần hoàn
+    wuu: 休克
+    yue: 休克
+    zh: 休克
+    zh-cn: 休克
+    zh-hans: 休克
+    zh-hant: 休克
+    zh-hk: 休克
+    zh-sg: 休克
+    zh-tw: 休克
 ---
-
 # [[Shock(Circulatory)]] 
 
 #is_/same_as :: [[WD~Shock,178061]] 

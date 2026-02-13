@@ -1,9 +1,136 @@
 ---
 aliases:
-  - Onychophora
+- Birlamchi traxeyalilar
+- Crvonošci
+- drápkovci
+- fluweelwormen
+- fløyelsdyr
+- Giun nhung
+- karmos féreglábúak
+- klomaskar
+- krempljičarji
+- käsnäjalkaiset
+- Kéłánii bikágí yilzhólígíí
+- Kütük ayaklılar
+- küüsikloomad
+- Mananap nga kuyamas
+- Mdudu-ute
+- Onicoforo
+- Onicòfor
+- Onicóforos
+- Onihofori
+- Onikoforo
+- Onikoforoj
+- Onixoforlar
+- Onychophora
+- pazurnice
+- pazúrikavce
+- Sametwirmer
+- Stummelfüsser
+- Stummelfüßer
+- Алгачкы кекиректүүлөр
+- аніхафоры
+- баршунасти црви
+- Кадифени црви
+- Онихофоралар
+- онихофори
+- онихофоры
+- первиннотрахейні
+- Օնիխոֆորներ
+- נושאי ציפורניים
+- حاملات المخالب
+- کرمهای مخملی
+- ओनिकोफोरा
+- ஆனிக்கோபொரா
+- ఒనికోఫోరా
+- ಒನಿಕೊಫೊರ
+- ഒനിക്കോഫൊറ
+- หนอนกำมะหยี่
+- 有爪动物门
+- 有爪動物
+- 유조동물
 title: Onychophora
+has_id_wikidata: Q5191
+dv_has_:
+  name_:
+    an: Onychophora
+    ar: حاملات المخالب
+    arz: حاملات المخالب
+    ast: Onychophora
+    az: Onixoforlar
+    be: аніхафоры
+    bg: онихофори
+    bs: Onychophora
+    ca: Onicòfor
+    ceb: Mananap nga kuyamas
+    cs: drápkovci
+    de: Stummelfüßer
+    de-ch: Stummelfüsser
+    en: Onychophora
+    en-ca: Onychophora
+    en-gb: Onychophora
+    eo: Onikoforoj
+    es: Onychophora
+    et: küüsikloomad
+    eu: Onikoforo
+    ext: Onychophora
+    fa: کرمهای مخملی
+    fi: käsnäjalkaiset
+    fr: Onychophora
+    frr: Sametwirmer
+    ga: Onychophora
+    gl: Onicóforos
+    he: נושאי ציפורניים
+    hi: ओनिकोफोरा
+    hr: Crvonošci
+    hu: karmos féreglábúak
+    hy: Օնիխոֆորներ
+    ia: Onychophora
+    id: Onychophora
+    ie: Onychophora
+    io: Onychophora
+    it: Onychophora
+    ja: 有爪動物
+    kk: Онихофоралар
+    kn: ಒನಿಕೊಫೊರ
+    ko: 유조동물
+    ky: Алгачкы кекиректүүлөр
+    la: Onychophora
+    lfn: Onicoforo
+    lv: Onihofori
+    mk: Кадифени црви
+    ml: ഒനിക്കോഫൊറ
+    mul: Onychophora
+    nb: fløyelsdyr
+    nl: fluweelwormen
+    nv: Kéłánii bikágí yilzhólígíí
+    oc: Onychophora
+    pl: pazurnice
+    pt: Onychophora
+    pt-br: Onychophora
+    ro: Onychophora
+    ru: онихофоры
+    sco: Onychophora
+    sk: pazúrikavce
+    sl: krempljičarji
+    sq: Onychophora
+    sr: баршунасти црви
+    sv: klomaskar
+    sw: Mdudu-ute
+    ta: ஆனிக்கோபொரா
+    te: ఒనికోఫోరా
+    th: หนอนกำมะหยี่
+    tl: Onychophora
+    tr: Kütük ayaklılar
+    uk: первиннотрахейні
+    uz: Birlamchi traxeyalilar
+    vec: Onychophora
+    vi: Giun nhung
+    vo: Onychophora
+    war: Onychophora
+    wuu: 有爪动物门
+    zh: 有爪动物门
 ---
-
 # [[Onychophora]]
 
 Velvet Worms 

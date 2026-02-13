@@ -1,10 +1,96 @@
 ---
 aliases:
-  - Michael Gordon Oldfield
-  - Mike Oldfield
-  - Oldfield,Mike
+- Maiks Oldfīlds
+- Michael Gordon Oldfield
+- Michael Oldfield
+- Mike Oldfield
+- Oldfield,Mike
+- Μάικ Όλντφιλντ
+- Мајк Олдфилд
+- Майк Олдфілд
+- Майк Олдфийлд
+- Майк Олдфилд
+- Մայք Օլդֆիլդ
+- מייק אולדפילד
+- مايك أولدفيلد
+- مايك اولدفيلد
+- مایک اولدفیلد
+- মাইক ওল্ডফিল্ড
+- ไมค์ โอลด์ฟิลด์
+- მაიკ ოლდფილდი
+- マイク・オールドフィールド
+- 麥克·歐菲爾德
+- 麦克·欧菲尔德
+- 마이크 올드필드
+has_id_wikidata: Q3008
+dv_has_:
+  name_:
+    af: Mike Oldfield
+    an: Mike Oldfield
+    ar: مايك أولدفيلد
+    arz: مايك اولدفيلد
+    ast: Mike Oldfield
+    azb: مایک اولدفیلد
+    bg: Майк Олдфийлд
+    bn: মাইক ওল্ডফিল্ড
+    ca: Mike Oldfield
+    cs: Mike Oldfield
+    da: Mike Oldfield
+    dag: Mike Oldfield
+    de: Mike Oldfield
+    de-ch: Mike Oldfield
+    el: Μάικ Όλντφιλντ
+    en: Mike Oldfield
+    en-ca: Mike Oldfield
+    en-gb: Mike Oldfield
+    eo: Mike Oldfield
+    es: Mike Oldfield
+    et: Mike Oldfield
+    eu: Mike Oldfield
+    ext: Mike Oldfield
+    fa: مایک اولدفیلد
+    fi: Mike Oldfield
+    fo: Mike Oldfield
+    fr: Mike Oldfield
+    gl: Mike Oldfield
+    he: מייק אולדפילד
+    hu: Mike Oldfield
+    hy: Մայք Օլդֆիլդ
+    id: Mike Oldfield
+    io: Mike Oldfield
+    is: Mike Oldfield
+    it: Mike Oldfield
+    ja: マイク・オールドフィールド
+    ka: მაიკ ოლდფილდი
+    kl: Mike Oldfield
+    ko: 마이크 올드필드
+    kw: Mike Oldfield
+    la: Michael Oldfield
+    lv: Maiks Oldfīlds
+    mk: Мајк Олдфилд
+    mul: Mike Oldfield
+    nb: Mike Oldfield
+    nds: Mike Oldfield
+    nl: Mike Oldfield
+    nn: Mike Oldfield
+    oc: Mike Oldfield
+    pl: Mike Oldfield
+    pt: Mike Oldfield
+    pt-br: Mike Oldfield
+    ro: Mike Oldfield
+    ru: Майк Олдфилд
+    sh: Mike Oldfield
+    sk: Mike Oldfield
+    sl: Mike Oldfield
+    sq: Mike Oldfield
+    sr: Мајк Олдфилд
+    sv: Mike Oldfield
+    th: ไมค์ โอลด์ฟิลด์
+    tr: Mike Oldfield
+    uk: Майк Олдфілд
+    zh: 麦克·欧菲尔德
+    zh-hant: 麥克·歐菲爾德
 ---
-
 # [[Oldfield,Mike]] 
 
 #has_/time_/started :: 1953-05-15 

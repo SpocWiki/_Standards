@@ -1,29 +1,119 @@
 ---
 aliases:
-  - Enzyme
+- anzim
+- einsím
+- enccyym
+- encim
+- ensiem
+- ensiim
+- ensima
+- ensime
+- ensym
+- ensím
+- ensíma
+- ensüüm
+- entsyma
+- entsyym
+- entsyymi
+- entzima
+- enzim
+- Enzima
+- enzimo
+- enzimă
+- Enzym
+- enzyma
+- Enzyme
+- enzymum
+- enzymy
+- enzîm
+- enzým
+- enzīms
+- ferment
+- fermentas
+- fermentlar
+- fermentlər
+- ferments
+- Goigoi
+- huptana
+- inzaayimii
+- Inzime
+- INzwayiza
+- kimeng'enya
+- kveiki
+- kàⁿ-sò͘
+- Ènzim
+- énzim
+- ένζυμο
+- ензім
+- ензим
+- искг
+- фермент
+- ферментар
+- ферменташ
+- ферменти
+- ферментилер
+- ферменттæ
+- ферменттар
+- ферменттер
+- ферментъёс
+- ферменты
+- Ферментҳо
+- фэрмэнты
+- энзим
+- ֆերմենտ
+- אנזים
+- ענזים
+- آنزیم
+- إنزيم
+- ئەنزیم
+- انزائم
+- انزايم
+- انزيم
+- خامرہ
+- لونزيم
+- इन्जाइम
+- उत्प्रेरक
+- एंजाइम
+- प्रकिण्व
+- উৎসেচক
+- ਪਾਚਕ ਰਸ
+- நொதியம்
+- ఎంజైము
+- ಕಿಣ್ವಗಳು
+- രാസാഗ്നി
+- එන්සයිම
+- เอนไซม์
+- ເອນໄຊ
+- အင်ဇိုင်း
+- အင်န်ဇိုင်း
+- အဲဉ်းသုဲင်
+- ფერმენტები
+- 酵素
+- 酶
+- 효소
 has_id_wikidata: Q8047
-molecular_function: "[[_Standards/WikiData/WD~catalysis,82264]]"
+molecular_function: '[[_Standards/WikiData/WD~catalysis,82264]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~biocatalysts,426799]]"
-  - "[[_Standards/WikiData/WD~protein,8054]]"
+- '[[_Standards/WikiData/WD~biocatalysts,426799]]'
+- '[[_Standards/WikiData/WD~protein,8054]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-subject_has_role: "[[_Standards/WikiData/WD~enzyme_catalysis,2941663]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+subject_has_role: '[[_Standards/WikiData/WD~enzyme_catalysis,2941663]]'
 part_of:
-  - "[[_Standards/WikiData/WD~enzymatic_reaction,3454362]]"
-  - "[[_Standards/WikiData/WD~Enzyme_linked_receptor,5381540]]"
+- '[[_Standards/WikiData/WD~enzymatic_reaction,3454362]]'
+- '[[_Standards/WikiData/WD~Enzyme_linked_receptor,5381540]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_enzyme,6453709]]"
-  - "[[_Standards/WikiData/WD~Template_Enzymes,10980674]]"
-different_from: "[[_Standards/WikiData/WD~pseudoenzyme,28456397]]"
-instance_of: "[[_Standards/WikiData/WD~group_or_class_of_proteins,84467700]]"
-OmegaWiki_Defined_Meaning: "1332"
+- '[[_Standards/WikiData/WD~Template_Infobox_enzyme,6453709]]'
+- '[[_Standards/WikiData/WD~Template_Enzymes,10980674]]'
+different_from: '[[_Standards/WikiData/WD~pseudoenzyme,28456397]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_proteins,84467700]]'
+OmegaWiki_Defined_Meaning: 1332
 GitHub_topic: enzyme
 Commons_category: Enzymes
-Dewey_Decimal_Classification: "572.7"
+Dewey_Decimal_Classification: 572.7
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Triosephosphate%20isomerase.jpg
 equivalent_class: http://dbpedia.org/ontology/Enzyme
 Common_Procurement_Vocabulary_code: 24965000-6
@@ -32,23 +122,178 @@ MeSH_tree_code: D08.811
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/FERMENTI.html
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]]"
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]]"
+- '[[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Enzyme|Enzyme]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.public|Enzyme.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.internal|Enzyme.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.protect|Enzyme.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.private|Enzyme.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.personal|Enzyme.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Enzyme.secret|Enzyme.secret]]'
+dv_has_:
+  name_:
+    af: ensiem
+    an: enzima
+    ar: إنزيم
+    ary: لونزيم
+    arz: انزيم
+    as: উৎসেচক
+    ast: enzima
+    az: fermentlər
+    azb: آنزیم
+    ba: ферменттар
+    bcl: ensima
+    be: ферменты
+    be-tarask: фэрмэнты
+    bg: ензим
+    bho: एंजाइम
+    blk: အဲဉ်းသုဲင်
+    bn: উৎসেচক
+    br: enzim
+    bs: enzim
+    btm: enzim
+    ca: enzim
+    ce: ферменташ
+    ceb: enzim
+    ckb: ئەنزیم
+    crh: ferment
+    cs: enzym
+    cy: ensym
+    da: enzym
+    de: Enzym
+    de-ch: Enzym
+    el: ένζυμο
+    en: enzyme
+    en-ca: enzyme
+    en-gb: enzyme
+    eo: enzimo
+    es: enzima
+    et: ensüüm
+    eu: entzima
+    ext: enzima
+    fa: آنزیم
+    fi: entsyymi
+    fo: kveiki
+    fr: enzyme
+    frr: ensüüm
+    ga: einsím
+    gl: enzima
+    gn: ensíma
+    gsw: Enzym
+    he: אנזים
+    hi: प्रकिण्व
+    hif: enzyme
+    hil: ensima
+    hr: enzim
+    ht: anzim
+    hu: enzim
+    hy: ֆերմենտ
+    ia: enzyma
+    id: enzim
+    ilo: ensima
+    inh: ферменташ
+    io: enzimo
+    is: ensím
+    it: enzima
+    ja: 酵素
+    jv: enzim
+    ka: ფერმენტები
+    ki: Goigoi
+    kk: ферменттер
+    kn: ಕಿಣ್ವಗಳು
+    knc: Enzyme
+    ko: 효소
+    krj: ensima
+    ksh: enzym
+    ku: enzîm
+    ky: ферменттер
+    la: enzymum
+    lez: ферментар
+    lfn: enzima
+    li: Enzym
+    lmo: enzima
+    lo: ເອນໄຊ
+    lt: fermentas
+    lv: enzīms
+    lzh: 酶
+    mad: Ènzim
+    mg: enzima
+    mk: ензим
+    ml: രാസാഗ്നി
+    mn: фермент
+    mr: उत्प्रेरक
+    ms: enzim
+    my: အင်န်ဇိုင်း
+    nan: kàⁿ-sò͘
+    nb: enzym
+    nds: Enzym
+    new: इन्जाइम
+    nl: enzym
+    nn: enzym
+    nov: ensime
+    oc: enzim
+    om: inzaayimii
+    os: ферменттæ
+    pa: ਪਾਚਕ ਰਸ
+    pag: ensima
+    pam: ensíma
+    pl: enzymy
+    pms: Enzima
+    pnb: انزائم
+    ps: انزايم
+    pt: enzima
+    pt-br: enzima
+    qu: huptana
+    rki: အင်ဇိုင်း
+    ro: enzimă
+    ru: ферменты
+    rue: ензім
+    sah: энзим
+    se: entsyma
+    sgs: ferments
+    sh: enzim
+    si: එන්සයිම
+    sk: enzým
+    sl: encim
+    smn: enccyym
+    sms: entsyym
+    so: ensiim
+    sq: enzima
+    sr: ензим
+    stq: Enzyme
+    su: énzim
+    sv: enzym
+    sw: kimeng'enya
+    ta: நொதியம்
+    te: ఎంజైము
+    tg: Ферментҳо
+    th: เอนไซม์
+    tl: ensima
+    tr: enzim
+    tt: фермент
+    tyv: ферментилер
+    udm: ферментъёс
+    uk: ферменти
+    ur: خامرہ
+    uz: fermentlar
+    vi: enzym
+    wa: Inzime
+    war: ensima
+    wuu: 酶
+    xal: искг
+    yi: ענזים
+    yue: 酵素
+    zh: 酶
+    zh-hans: 酵素
+    zu: INzwayiza
 ---
-
 # [[Enzyme]] 
 
 ## #has_/text_of_/abstract 

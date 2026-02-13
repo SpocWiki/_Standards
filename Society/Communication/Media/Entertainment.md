@@ -1,14 +1,113 @@
 ---
 aliases:
-  - Unterhaltung
-  - Entertainment
+- adloniant
+- Alingan
+- Allianamentu
+- amusement
+- Amuzmint
+- Amuzo
+- Aoviidüs
+- Argëtimi
+- ayiɖeɖayi
+- Beýğam tınığw
+- Burudani
+- Didhan
+- Divertiment
+- divertisment
+- divertissement
+- Divèrtisman
+- Divètisman
+- Entertainment
+- entretemento
+- entretenimendu
+- entreteniment
+- entretenimento
+- entretenimiento
+- Entretenimientu
+- Eunysseyrys
+- eğlence
+- Fermaak
+- Fàájì
+- giải trí
+- Guh'angq
+- hiburan
+- Intertenimento
+- intrattenimento
+- izklaide
+- Libangan
+- Madaadalo
+- meelelahutus
+- musi
+- Oblectamentum
+- Oyın-zawıq
+- Pavaļa
+- pramoga
+- Pramuoga
+- rozrywka
+- siamsa
+- skemmtun
+- szórakoztatás
+- Tulon
+- underhalding
+- underholdning
+- underhållning
+- Undirhald
+- Unterhaltung
+- vermaak
+- viihde
+- Wikipediya:Umucungarubuga
+- zabava
+- zábava
+- Əyləncə
+- ψυχαγωγία
+- Аралдьыйыы
+- Бейғам тынығу
+- забава
+- Йăпанăç
+- күңел асыу
+- күңел ачу
+- развлечение
+- розвага
+- ժամանց
+- בידור
+- פארוויילונג
+- ايلنجه
+- بەيعام تىنىعۋ
+- ترفيه
+- تفريح
+- تفریح
+- تَفریٖح
+- سرگرمی هنری
+- هيبورن
+- وختتېری
+- ڕابواردن
+- न्ह्यइपुसा
+- मनोरंजन
+- मनोरञ्जनं
+- বিনোদন
+- মনোৰঞ্জন
+- ਮਨੋਰੰਜਨ
+- ମନୋରଞ୍ଜନ
+- மகிழ்கலை
+- వినోదము
+- ಮನೋರಂಜನೆ
+- വിനോദം
+- විනෝදාස්වාදය
+- การบันเทิง
+- ການບັນເທີງ
+- ართუაფა
+- መዝናኛ
+- エンターテインメント
+- 娛樂
+- 娱乐
+- 엔터테인먼트
 has_id_wikidata: Q173799
 practiced_by:
-  - '[[_Standards/WikiData/WD~entertainer,138858]]'
-  - '[[_Standards/WikiData/WD~Q12576271,12576271]]'
+- '[[_Standards/WikiData/WD~entertainer,138858]]'
+- '[[_Standards/WikiData/WD~Q12576271,12576271]]'
 has_use:
-  - '[[_Standards/WikiData/WD~leisure,180910]]'
-  - '[[_Standards/WikiData/WD~pleasure,208195]]'
+- '[[_Standards/WikiData/WD~leisure,180910]]'
+- '[[_Standards/WikiData/WD~pleasure,208195]]'
 subclass_of: '[[_Standards/WikiData/WD~activity,1914636]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_entertainment,7112620]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Entertainment,12895887]]'
@@ -18,12 +117,149 @@ Commons_category: Entertainment
 IMDb_keyword: entertainment
 subreddit: entertainment
 exact_match:
-  - http://cv.iptc.org/newscodes/productgenre/entertainment
-  - http://cv.iptc.org/newscodes/subjectcode/01021000
+- http://cv.iptc.org/newscodes/productgenre/entertainment
+- http://cv.iptc.org/newscodes/subjectcode/01021000
 Iconclass_notation: 56B4
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Metropolitan%20Opera%20House%2C%20a%20concert%20by%20pianist%20Josef%20Hofmann%20-%20NARA%20541890%20-%20Edit.jpg
+dv_has_:
+  name_:
+    af: vermaak
+    am: መዝናኛ
+    ar: ترفيه
+    arz: ترفيه
+    as: মনোৰঞ্জন
+    ast: Entretenimientu
+    az: Əyləncə
+    azb: ايلنجه
+    ba: күңел асыу
+    bcl: Alingan
+    be: забава
+    be-tarask: забава
+    bg: Развлечение
+    bho: मनोरंजन
+    bm: Tulon
+    bn: বিনোদন
+    bs: zabava
+    ca: entreteniment
+    ckb: ڕابواردن
+    cs: zábava
+    cv: Йăпанăç
+    cy: adloniant
+    da: underholdning
+    de: Unterhaltung
+    el: ψυχαγωγία
+    en: entertainment
+    en-ca: Entertainment
+    en-gb: entertainment
+    eo: amuzo
+    es: entretenimiento
+    et: meelelahutus
+    eu: entretenimendu
+    fa: سرگرمی هنری
+    fi: viihde
+    fo: Undirhald
+    fon: ayiɖeɖayi
+    fr: divertissement
+    fur: Divertiment
+    fy: Fermaak
+    ga: siamsa
+    gcr: Divèrtisman
+    gl: entretemento
+    gv: Eunysseyrys
+    he: בידור
+    hi: मनोरंजन
+    hr: zabava
+    ht: Divètisman
+    hu: szórakoztatás
+    hy: ժամանց
+    ia: Intertenimento
+    id: hiburan
+    io: Amuzo
+    is: skemmtun
+    it: intrattenimento
+    ja: エンターテインメント
+    jv: Hiburan
+    kaa: Oyın-zawıq
+    kk: Бейғам тынығу
+    kk-arab: بەيعام تىنىعۋ
+    kk-cn: بەيعام تىنىعۋ
+    kk-cyrl: Бейғам тынығу
+    kk-kz: Бейғам тынығу
+    kk-latn: Beýğam tınığw
+    kk-tr: Beýğam tınığw
+    kn: ಮನೋರಂಜನೆ
+    ko: 엔터테인먼트
+    ks: تَفریٖح
+    kw: Didhan
+    la: Oblectamentum
+    lo: ການບັນເທີງ
+    lt: pramoga
+    ltg: Pavaļa
+    lv: izklaide
+    min: Hiburan
+    mk: забава
+    ml: വിനോദം
+    mr: मनोरंजन
+    ms: hiburan
+    ms-arab: هيبورن
+    nb: underholdning
+    ne: मनोरंजन
+    new: न्ह्यइपुसा
+    nl: amusement
+    nn: underhalding
+    oc: divertiment
+    or: ମନୋରଞ୍ଜନ
+    pa: ਮਨੋਰੰਜਨ
+    pl: rozrywka
+    ps: وختتېری
+    pt: entretenimento
+    pt-br: entretenimento
+    ro: divertisment
+    ru: развлечение
+    rw: Wikipediya:Umucungarubuga
+    sa: मनोरञ्जनं
+    sah: Аралдьыйыы
+    scn: Allianamentu
+    sd: تفريح
+    sgs: Pramuoga
+    sh: zabava
+    si: විනෝදාස්වාදය
+    sk: Zábava
+    sl: zabava
+    so: Madaadalo
+    sq: Argëtimi
+    sr: забава
+    sr-ec: забава
+    sr-el: zabava
+    sv: underhållning
+    sw: Burudani
+    ta: மகிழ்கலை
+    te: వినోదము
+    th: การบันเทิง
+    tl: Libangan
+    tok: musi
+    tr: eğlence
+    tt: күңел ачу
+    tt-cyrl: күңел ачу
+    uk: розвага
+    ur: تفریح
+    vi: giải trí
+    vro: Aoviidüs
+    wa: Amuzmint
+    wuu: 娱乐
+    xmf: ართუაფა
+    yi: פארוויילונג
+    yo: Fàájì
+    yue: 娛樂
+    za: Guh'angq
+    zh: 娛樂
+    zh-cn: 娱乐
+    zh-hans: 娱乐
+    zh-hant: 娛樂
+    zh-hk: 娛樂
+    zh-sg: 娱乐
+    zh-tw: 娛樂
 ---
-
 # [[Entertainment]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Entertainment,173799|WD~Entertainment,173799]] 

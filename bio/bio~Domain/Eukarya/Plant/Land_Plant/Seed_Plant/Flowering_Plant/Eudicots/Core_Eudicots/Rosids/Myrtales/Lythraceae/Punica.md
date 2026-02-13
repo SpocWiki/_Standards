@@ -1,26 +1,59 @@
 ---
 aliases:
+- Chi Lựu
+- Ezxococuahuitl
+- Granaataapelbuumer
+- granaattiomenat
+- granatepleslekta
+- Granatmedis
+- Granatowc
+- Granatowiec
+- Granatujo
+- Granatäpfel
+- granatäpplen
+- granátovník
+- marhaník
+- Milgranièr
+- mogranj
+- Nar
+- Punica
+- Punicàcia
+- Анар
+- Гранат
+- гранатове дерево
+- калинки
+- Нар
+- նուռ
+- նռնենի
+- רימון
+- اناریان
+- رمان
+- پیونیکا
+- ザクロ属
+- 石榴属
+- 石榴屬
+- 석류나무속
 has_id_wikidata: Q4959355
 parent_taxon:
-  - "[[../../../../../../../../../../../../WikiData/WD~Lythraceae,156022]]"
-  - "[[_Standards/WikiData/WD~Punicaceae,1446177]]"
+- '[[../../../../../../../../../../../../WikiData/WD~Lythraceae,156022]]'
+- '[[_Standards/WikiData/WD~Punicaceae,1446177]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Granatum,16746700]]"
-subclass_of: "[[_Standards/WikiData/WD~tree,10884]]"
-has_fruit_type: "[[_Standards/WikiData/WD~berry,13184]]"
-taxonomic_type: "[[_Standards/WikiData/WD~pomegranate,13188]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "27277"
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Granatum,16746700]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
+taxonomic_type: '[[_Standards/WikiData/WD~pomegranate,13188]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 27277
 taxon_common_name:
-  - pomegranate
-  - 石榴属
-  - 石榴属
+- pomegranate
+- 石榴属
+- 石榴属
 taxon_author_citation: L.
 Commons_category: Punica
 taxon_name: Punica
@@ -30,8 +63,76 @@ EPPO_Code: 1PUNG
 UMLS_CUI: C1001172
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/GRANAT.html
 NBN_System_Key: NHMSYS0000462155
+dv_has_:
+  name_:
+    an: Punica
+    ar: رمان
+    ast: Punica
+    az: Nar
+    be: Гранат
+    bg: Punica
+    ca: Punicàcia
+    ceb: Punica
+    cs: marhaník
+    cv: Нар
+    de: Granatäpfel
+    en: Punica
+    eo: Granatujo
+    es: Punica
+    eu: Punica
+    ext: Punica
+    fa: اناریان
+    fi: granaattiomenat
+    fr: Punica
+    frr: Granaataapelbuumer
+    ga: Punica
+    gl: Punica
+    he: רימון
+    hr: mogranj
+    hsb: Granatowc
+    hy: նռնենի
+    hyw: նուռ
+    ia: Punica
+    id: Punica
+    ie: Punica
+    io: Punica
+    it: Punica
+    ja: ザクロ属
+    ko: 석류나무속
+    ks: پیونیکا
+    ky: Анар
+    la: Punica
+    lt: Granatmedis
+    mk: калинки
+    mul: Punica
+    nah: Ezxococuahuitl
+    nb: granatepleslekta
+    nl: Punica
+    nn: granatepleslekta
+    oc: Milgranièr
+    os: Гранат
+    pl: Granatowiec
+    pt: Punica
+    pt-br: Punica
+    ro: Punica
+    ru: Гранат
+    sk: granátovník
+    sq: Punica
+    sv: granatäpplen
+    tt: Анар
+    uk: гранатове дерево
+    ur: اناریان
+    uz: Punica
+    vi: Chi Lựu
+    vo: Punica
+    war: Punica
+    zh: 石榴属
+    zh-cn: 石榴属
+    zh-hans: 石榴属
+    zh-hant: 石榴屬
+    zh-hk: 石榴屬
+    zh-tw: 石榴屬
 ---
-
 # [[Punica]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Punica,4959355|WD~Punica,4959355]]  

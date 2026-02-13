@@ -1,115 +1,234 @@
 ---
 aliases:
+- jan Muwama
+- Magumetu
+- Mahamad
+- Mahoma
+- Mahomed
+- Mahomet
+- Mahometas
+- Mahometus
+- Mahomm
+- Mahommad
+- Mahuomets
+- Mahůmet
+- Mametto
+- Maomet
+- Maometo
+- Maometto
+- Maomé
+- Maroumet
+- Maumettu
+- Maumèt
+- Mawmettu
+- Mawoumet
+- Mihemed
+- Moeamed
+- Mohamed
+- Mohamed próféta
+- Mohameda
+- Mohamedo
+- Mohameka
+- Mohammed
+- Mouħammed
+- Muhamad
+- Muhamed
+- Muhamedi
+- Muhameds
+- Muhammad
+- Muhammed
+- Muhammet
+- Muhanmute
+- Muhámad
+- Mukamad
+- Muwamet
+- Muxamed
+- Muxammed
+- Muḥammad
+- Muḥemmed
+- Muḩammad
+- Möxämmät
+- Mùhammédù
+- Múhameð
+- Mıhemmed
+- Məhəmməd
+- Nabi Muhammad
+- Nelaaɗo Muhammadu
+- Prophet Mohammed
+- Μωάμεθ
+- Мæхæмæт
+- Магамет
+- Магомет
+- Могамед
+- Мохамед
+- Мохаммад
+- Муhаммед
+- Мугьаммад
+- Мухамад
+- Мухамед
+- Мухаммед
+- Мухаммет пихампар
+- Мухамэд
+- Мухьаммад
+- Мухьаммад Пайхамар
+- МухӀаммад авараг
+- Мухӏаммад идавс
+- Муҳаммад
+- Мыхьэмэд
+- Мыхьэмэт Пэгъымбар
+- Мұхаммед
+- Мөхәммәт
+- Мөхәммәт (Пәйғәмбәр)
+- Мөхәммәт пәйгамбәр
+- Մուհամմադ մարգարե
+- Մուհամմատ
+- מוחמד
+- מוכאמאד
+- محمد
+- محمد بن عبداللہ
+- محەممەد
+- مۇھەممەد ئەلەيھىسسالام
+- ܡܘܚܡܕ
+- މުޙައްމަދުގެފާނު
+- ߡߊ߬ߡߊߘߌ߫
+- मुहम्मद
+- मुहम्मद्
+- मुहाम्मद
+- मोहम्मद पैगंबर
+- মুহাম্মদ
+- মুহাম্মাদ
+- ਮੁਹੰਮਦ
+- મુહમ્મદ
+- ମହମ୍ମଦ
+- முகம்மது நபி
+- ముహమ్మద్ ప్రవక్త
+- ಮುಹಮ್ಮದ್
+- മുഹമ്മദ്
+- මහම්මද්තුමා
+- มุฮัมมัด
+- མུ་ཧ་མད།
+- မိုဟာမက်
+- მაჰმადი
+- መሐመድ
+- មហាម៉េដ
+- ᱢᱩᱦᱟᱢᱢᱚᱫᱽ
+- ⵎⵓⵃⵎⵎⴰⴷ
+- ムハンマド・イブン＝アブドゥッラーフ
+- 模罕默德
+- 穆罕默德
+- ꠝꠥꠢꠝ꠆ꠝꠖ
+- 무함마드
+- "\U0001033C\U0001033F\U00010337\U00010330\U0001033F\U0001033C\U0001033C\U00010330\U00010333"
 has_id_wikidata: Q9458
 student:
-  - "[[_Standards/WikiData/WD~Anas_ibn_Malik,76330]]"
-  - "[[_Standards/WikiData/WD~Zayd_ibn_Thabit,144302]]"
-  - "[[_Standards/WikiData/WD~Abd_Allah_ibn_Abbas,423600]]"
-  - "[[_Standards/WikiData/WD~Uqbah_ibn_Amir,1145312]]"
+- '[[_Standards/WikiData/WD~Anas_ibn_Malik,76330]]'
+- '[[_Standards/WikiData/WD~Zayd_ibn_Thabit,144302]]'
+- '[[_Standards/WikiData/WD~Abd_Allah_ibn_Abbas,423600]]'
+- '[[_Standards/WikiData/WD~Uqbah_ibn_Amir,1145312]]'
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~merchant,215536]]"
-  - "[[_Standards/WikiData/WD~preacher,432386]]"
-  - "[[_Standards/WikiData/WD~consignor,877558]]"
-  - "[[_Standards/WikiData/WD~military_leader,1402561]]"
-  - "[[_Standards/WikiData/WD~herder,12059906]]"
-  - "[[_Standards/WikiData/WD~prophet,42857]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~merchant,215536]]'
+- '[[_Standards/WikiData/WD~preacher,432386]]'
+- '[[_Standards/WikiData/WD~consignor,877558]]'
+- '[[_Standards/WikiData/WD~military_leader,1402561]]'
+- '[[_Standards/WikiData/WD~herder,12059906]]'
+- '[[_Standards/WikiData/WD~prophet,42857]]'
 relative:
-  - "[[_Standards/WikiData/WD~Husayn_ibn_Ali,112128]]"
-  - "[[_Standards/WikiData/WD~Hasan_ibn_Ali,182914]]"
-  - "[[_Standards/WikiData/WD~Abbas_ibn_Abd_al_Muttalib,293599]]"
-  - "[[_Standards/WikiData/WD~Abu_Talib_ibn_Abd_al_Muttalib,297913]]"
-  - "[[_Standards/WikiData/WD~Harith_ibn_Abd_al_Muttalib,302272]]"
-  - "[[_Standards/WikiData/WD~Abū_Lahab,337012]]"
-  - "[[_Standards/WikiData/WD~Abd_al_Muttalib,380479]]"
-  - "[[_Standards/WikiData/WD~Umm_Kulthum_bint_Ali,510433]]"
-  - "[[_Standards/WikiData/WD~Hamza_ibn_Abd_al_Muttalib,770033]]"
-  - "[[_Standards/WikiData/WD~Halimah_bint_Abi_Dhuayb,1110872]]"
-  - "[[_Standards/WikiData/WD~Zaynab_bint_Ali,1111208]]"
-  - "[[_Standards/WikiData/WD~Safiyyah_bint_Abd_al_Muttalib,2740828]]"
-  - "[[_Standards/WikiData/WD~Az_Zubayr_ibn_Abd_al_Muttalib,4831972]]"
-  - "[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]"
+- '[[_Standards/WikiData/WD~Husayn_ibn_Ali,112128]]'
+- '[[_Standards/WikiData/WD~Hasan_ibn_Ali,182914]]'
+- '[[_Standards/WikiData/WD~Abbas_ibn_Abd_al_Muttalib,293599]]'
+- '[[_Standards/WikiData/WD~Abu_Talib_ibn_Abd_al_Muttalib,297913]]'
+- '[[_Standards/WikiData/WD~Harith_ibn_Abd_al_Muttalib,302272]]'
+- '[[_Standards/WikiData/WD~Abū_Lahab,337012]]'
+- '[[_Standards/WikiData/WD~Abd_al_Muttalib,380479]]'
+- '[[_Standards/WikiData/WD~Umm_Kulthum_bint_Ali,510433]]'
+- '[[_Standards/WikiData/WD~Hamza_ibn_Abd_al_Muttalib,770033]]'
+- '[[_Standards/WikiData/WD~Halimah_bint_Abi_Dhuayb,1110872]]'
+- '[[_Standards/WikiData/WD~Zaynab_bint_Ali,1111208]]'
+- '[[_Standards/WikiData/WD~Safiyyah_bint_Abd_al_Muttalib,2740828]]'
+- '[[_Standards/WikiData/WD~Az_Zubayr_ibn_Abd_al_Muttalib,4831972]]'
+- '[[_Standards/WikiData/WD~Alī_ibn_Abī_Ṭālib,39619]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Zaynab_bint_Khuzayma,144394]]"
-  - "[[_Standards/WikiData/WD~Zaynab_bint_Jahsh,144396]]"
-  - "[[_Standards/WikiData/WD~Maria_al_Qibtiyya,263779]]"
-  - "[[_Standards/WikiData/WD~Hafsa_bint_Umar_ibn_Al_Khattab,263791]]"
-  - "[[_Standards/WikiData/WD~Safiyya_bint_Huyayy,263829]]"
-  - "[[_Standards/WikiData/WD~Rayhana_bint_Zayd_ibn_ʿAmr,465845]]"
-  - "[[_Standards/WikiData/WD~Sawda_bint_Zamʿa,1943555]]"
-  - "[[_Standards/WikiData/WD~Ramla_bint_Abi_Sufyan,2138599]]"
-  - "[[_Standards/WikiData/WD~Maymunah_bint_al_Harith,3303021]]"
-  - "[[_Standards/WikiData/WD~Juwayriyya_bint_al_Harith,3595927]]"
-  - "[[_Standards/WikiData/WD~Aisha,4730963]]"
-  - "[[_Standards/WikiData/WD~Khadija_bint_Khuwaylid,42034]]"
-  - "[[_Standards/WikiData/WD~Umm_Salama,42104]]"
+- '[[_Standards/WikiData/WD~Zaynab_bint_Khuzayma,144394]]'
+- '[[_Standards/WikiData/WD~Zaynab_bint_Jahsh,144396]]'
+- '[[_Standards/WikiData/WD~Maria_al_Qibtiyya,263779]]'
+- '[[_Standards/WikiData/WD~Hafsa_bint_Umar_ibn_Al_Khattab,263791]]'
+- '[[_Standards/WikiData/WD~Safiyya_bint_Huyayy,263829]]'
+- '[[_Standards/WikiData/WD~Rayhana_bint_Zayd_ibn_ʿAmr,465845]]'
+- '[[_Standards/WikiData/WD~Sawda_bint_Zamʿa,1943555]]'
+- '[[_Standards/WikiData/WD~Ramla_bint_Abi_Sufyan,2138599]]'
+- '[[_Standards/WikiData/WD~Maymunah_bint_al_Harith,3303021]]'
+- '[[_Standards/WikiData/WD~Juwayriyya_bint_al_Harith,3595927]]'
+- '[[_Standards/WikiData/WD~Aisha,4730963]]'
+- '[[_Standards/WikiData/WD~Khadija_bint_Khuwaylid,42034]]'
+- '[[_Standards/WikiData/WD~Umm_Salama,42104]]'
 part_of:
-  - "[[_Standards/WikiData/WD~prophet_of_Islam,168827]]"
-  - "[[_Standards/WikiData/WD~Ulu'l_azm,4260004]]"
-  - "[[_Standards/WikiData/WD~Q12180772,12180772]]"
-  - "[[_Standards/WikiData/WD~prophet_of_Islam_that_mentioned_on_the_Qur'an,20421889]]"
-  - "[[_Standards/WikiData/WD~prophet,42857]]"
+- '[[_Standards/WikiData/WD~prophet_of_Islam,168827]]'
+- "[[_Standards/WikiData/WD~Ulu'l_azm,4260004]]"
+- '[[_Standards/WikiData/WD~Q12180772,12180772]]'
+- "[[_Standards/WikiData/WD~prophet_of_Islam_that_mentioned_on_the_Qur'an,20421889]]"
+- '[[_Standards/WikiData/WD~prophet,42857]]'
 child:
-  - "[[_Standards/WikiData/WD~Fatima,180123]]"
-  - "[[_Standards/WikiData/WD~Qasim_ibn_Muhammad,784324]]"
-  - "[[_Standards/WikiData/WD~Zainab_bint_Muhammad,1164707]]"
-  - "[[_Standards/WikiData/WD~Ruqayya_bint_Muhammad,2300129]]"
-  - "[[_Standards/WikiData/WD~Abd_Allah_ibn_Muhammad,2401633]]"
-  - "[[_Standards/WikiData/WD~Umm_Kulthum_bint_Muhammad,2426845]]"
-  - "[[_Standards/WikiData/WD~Ibrahim_ibn_Muhammad,3505301]]"
-mother: "[[_Standards/WikiData/WD~Aminah,257935]]"
+- '[[_Standards/WikiData/WD~Fatima,180123]]'
+- '[[_Standards/WikiData/WD~Qasim_ibn_Muhammad,784324]]'
+- '[[_Standards/WikiData/WD~Zainab_bint_Muhammad,1164707]]'
+- '[[_Standards/WikiData/WD~Ruqayya_bint_Muhammad,2300129]]'
+- '[[_Standards/WikiData/WD~Abd_Allah_ibn_Muhammad,2401633]]'
+- '[[_Standards/WikiData/WD~Umm_Kulthum_bint_Muhammad,2426845]]'
+- '[[_Standards/WikiData/WD~Ibrahim_ibn_Muhammad,3505301]]'
+mother: '[[_Standards/WikiData/WD~Aminah,257935]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~al_Aʻlām_(Dār_al_ʻIlm,_2002),113504685]]"
-  - "[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]"
-  - "[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]"
-kunya: "[[_Standards/WikiData/WD~Abu_al_Qasim,335524]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~al_Aʻlām_(Dār_al_ʻIlm,_2002),113504685]]'
+- '[[_Standards/WikiData/WD~Africa_An_Encyclopedic_Reference,115653803]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
+kunya: '[[_Standards/WikiData/WD~Abu_al_Qasim,335524]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Hanif,425381]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-tribe: "[[_Standards/WikiData/WD~Quraysh,485732]]"
-honorific_suffix: "[[_Standards/WikiData/WD~Peace_be_upon_him,535658]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Museo_Diocesano_de_Tarragona,560041]]"
+- '[[_Standards/WikiData/WD~Hanif,425381]]'
+- '[[_Standards/WikiData/WD~Islam,432]]'
+tribe: '[[_Standards/WikiData/WD~Quraysh,485732]]'
+honorific_suffix: '[[_Standards/WikiData/WD~Peace_be_upon_him,535658]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Museo_Diocesano_de_Tarragona,560041]]'
 mount:
-  - "[[_Standards/WikiData/WD~Qaswa,1303124]]"
-  - "[[_Standards/WikiData/WD~Yaʽfūr,8046257]]"
-studied_by: "[[_Standards/WikiData/WD~science_of_hadith,2737409]]"
-participated_in_conflict: "[[_Standards/WikiData/WD~Military_career_of_Muhammad,3249599]]"
+- '[[_Standards/WikiData/WD~Qaswa,1303124]]'
+- '[[_Standards/WikiData/WD~Yaʽfūr,8046257]]'
+studied_by: '[[_Standards/WikiData/WD~science_of_hadith,2737409]]'
+participated_in_conflict: '[[_Standards/WikiData/WD~Military_career_of_Muhammad,3249599]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Muhammad_and_the_Bible,4117961]]"
-  - "[[_Standards/WikiData/WD~Muhammad_in_the_Quran,5942791]]"
-  - "[[_Standards/WikiData/WD~Muhammad_in_Islam,6932888]]"
-  - "[[_Standards/WikiData/WD~Muhammad_in_the_Bahá'í_Faith,24942527]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]"
-given_name: "[[_Standards/WikiData/WD~Muhammad,5837762]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-place_of_burial: "[[_Standards/WikiData/WD~Sacred_Prophetic_Chamber,12186187]]"
-military_unit: "[[_Standards/WikiData/WD~army_of_Mohammed_ﷺ,12270024]]"
-owner_of: "[[_Standards/WikiData/WD~Seal_of_Muhammad,18207548]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27966225,27966225]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~Muhammad_and_the_Bible,4117961]]'
+- '[[_Standards/WikiData/WD~Muhammad_in_the_Quran,5942791]]'
+- '[[_Standards/WikiData/WD~Muhammad_in_Islam,6932888]]'
+- "[[_Standards/WikiData/WD~Muhammad_in_the_Bahá'í_Faith,24942527]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+given_name: '[[_Standards/WikiData/WD~Muhammad,5837762]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+place_of_burial: '[[_Standards/WikiData/WD~Sacred_Prophetic_Chamber,12186187]]'
+military_unit: '[[_Standards/WikiData/WD~army_of_Mohammed_ﷺ,12270024]]'
+owner_of: '[[_Standards/WikiData/WD~Seal_of_Muhammad,18207548]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27966225,27966225]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_death: 0632-06-11T00:00:00Z
-family: "[[_Standards/WikiData/WD~Banu_Hashim,4987]]"
-place_of_birth: "[[_Standards/WikiData/WD~Mecca,5806]]"
+family: '[[_Standards/WikiData/WD~Banu_Hashim,4987]]'
+place_of_birth: '[[_Standards/WikiData/WD~Mecca,5806]]'
 residence:
-  - "[[_Standards/WikiData/WD~Mecca,5806]]"
-  - "[[_Standards/WikiData/WD~Medina,35484]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~Arabic,13955]]"
-native_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-father: "[[_Standards/WikiData/WD~Abd_Allah_ibn_Abd_al_Muttalib,34408]]"
-ethnic_group: "[[_Standards/WikiData/WD~Arabs,35323]]"
-place_of_death: "[[_Standards/WikiData/WD~Medina,35484]]"
-facial_hair: "[[_Standards/WikiData/WD~beard,42804]]"
+- '[[_Standards/WikiData/WD~Mecca,5806]]'
+- '[[_Standards/WikiData/WD~Medina,35484]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Arabic,13955]]'
+native_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+father: '[[_Standards/WikiData/WD~Abd_Allah_ibn_Abd_al_Muttalib,34408]]'
+ethnic_group: '[[_Standards/WikiData/WD~Arabs,35323]]'
+place_of_death: '[[_Standards/WikiData/WD~Medina,35484]]'
+facial_hair: '[[_Standards/WikiData/WD~beard,42804]]'
 BHCL_UUID: 261863c4-2db3-4b7c-888d-3f289eb6a6c5
 Provenio_UUID: 3c7fa35c-a4da-424b-96d0-5a274a7d4824
 Krugosvet_article: istoriya/MUHAMMAD.html
@@ -117,24 +236,276 @@ Libris_URI: jgvxz9d23dg3zsk
 Commons_gallery: محمد بن عبد الله
 name_in_native_language: مُحَمَّدُ بْنُ عَبْدِ اللهِ بْنِ عَبْدِ الْمُطَّلِبِ
 short_name:
-  - Mohammadu
-  - Muḥammad
-  - محمد
-  - Mahoma
-position_held: "[[_Standards/WikiData/WD~head_of_state,48352]]"
+- Mohammadu
+- Muḥammad
+- محمد
+- Mahoma
+position_held: '[[_Standards/WikiData/WD~head_of_state,48352]]'
 Universal_Decimal_Classification: 28-31
 Commons_category: Muhammad
 Commons_Creator_page: Muhammad
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dark%20vignette%20Al-Masjid%20AL-Nabawi%20Door800x600x300.jpg
 date_of_birth: 0571-04-22T00:00:00Z
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad-ar.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Peace%20be%20Upon%20Him-ar.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad-ar.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Muhammad%20Peace%20be%20Upon%20Him-ar.wav
 monogram: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Muhammad.png
 Stack_Exchange_tag: https://islam.stackexchange.com/tags/prophet-muhammad
-ISNI: "0000000121032851"
+ISNI: 0000000121032851
+dv_has_:
+  name_:
+    ace: Muhammad
+    acm: محمد
+    ady: Мыхьэмэт Пэгъымбар
+    aeb: Mouħammed
+    af: Mohammed
+    am: መሐመድ
+    an: Mahoma
+    ang: Mahomet
+    anp: मुहम्मद
+    ar: محمد
+    arc: ܡܘܚܡܕ
+    ary: محمد
+    arz: محمد
+    as: মুহাম্মাদ
+    ast: Mahoma
+    av: МухӀаммад авараг
+    az: Məhəmməd
+    azb: محمد
+    ba: Мөхәммәт (Пәйғәмбәр)
+    bcl: Mahoma
+    be: Магамет
+    be-tarask: Мухамад
+    bew: Muhammad
+    bg: Мохамед
+    bho: मुहम्मद
+    bi: Muhammed
+    bjn: Muhammad
+    bm: Muhammed
+    bn: মুহাম্মদ
+    bo: མུ་ཧ་མད།
+    br: Mohammed
+    brh: Muhammad
+    bs: Muhammed
+    btm: Muhammad
+    bxr: Мухаммед
+    ca: Mahoma
+    cdo: Muhammad
+    ce: Мухьаммад
+    ceb: Mahoma
+    ckb: محەممەد
+    co: Magumetu
+    crh: Muhammed
+    crh-latn: Muhammed
+    cs: Mohamed
+    cv: Мухаммет пихампар
+    cy: Mohamed
+    da: Muhammed
+    dag: Muhammad
+    de: Mohammed
+    de-ch: Mohammed
+    dga: Prophet Mohammed
+    diq: Mıhemmed
+    dtp: Nabi Muhammad
+    dv: މުޙައްމަދުގެފާނު
+    el: Μωάμεθ
+    en: Muhammad
+    en-ca: Muhammad
+    en-gb: Muhammad
+    en-us: Muhammad
+    eo: Mohamedo
+    es: Mahoma
+    et: Muḩammad
+    eu: Muhammad
+    ext: Mahoma
+    fa: محمد
+    ff: Nelaaɗo Muhammadu
+    fi: Muhammad
+    fo: Muhammed
+    fr: Mahomet
+    frr: Mohamed
+    fy: Mohammed
+    ga: Mahamad
+    gaa: Muhammad
+    gag: Muhammed
+    gan: 穆罕默德
+    gcr: Mahomet
+    gd: Mohammed
+    gl: Mahoma
+    gn: Muhámad
+    got: "\U0001033C\U0001033F\U00010337\U00010330\U0001033F\U0001033C\U0001033C\U00010330\U00010333"
+    gpe: Muhammad
+    gsw: Mohammed
+    gu: મુહમ્મદ
+    guw: Muhammad
+    gv: Mahommad
+    ha: Muhammad
+    hak: Muhammad
+    haw: Mohameka
+    he: מוחמד
+    hi: मुहम्मद
+    hif: Mohammed
+    hr: Muhamed
+    ht: Mahomet
+    hu: Mohamed próféta
+    hy: Մուհամմադ մարգարե
+    hyw: Մուհամմատ
+    ia: Mahomet
+    iba: Muhammad
+    id: Muhammad
+    ie: Muhamad
+    ig: Muhammad
+    ilo: Mahoma
+    inh: Мухьаммад Пайхамар
+    io: Muhamad
+    is: Múhameð
+    it: Maometto
+    ja: ムハンマド・イブン＝アブドゥッラーフ
+    jam: Muhammad
+    jv: Mukamad
+    ka: მაჰმადი
+    kaa: Muxammed
+    kab: Muḥemmed
+    kbd: Мыхьэмэд
+    kbp: Mahomet
+    kcg: Muwamet
+    kge: Muhammad
+    ki: Mohammed
+    kk: Мұхаммед
+    km: មហាម៉េដ
+    kn: ಮುಹಮ್ಮದ್
+    knc: Muhammad
+    ko: 무함마드
+    ks: محمد
+    ku: Mihemed
+    kw: Mahomm
+    ky: Мухаммед
+    la: Mahometus
+    lad: Muhamad
+    lb: Mohammed
+    lbe: Мухӏаммад идавс
+    lez: Мугьаммад
+    lfn: Muhammad
+    li: Moeamed
+    lld: Maomet
+    lmo: Maumèt
+    lt: Mahometas
+    lv: Muhameds
+    lzh: 穆罕默德
+    mad: Muhammad
+    mg: Mohameda
+    mhr: Мохаммад
+    min: Muhammad
+    mk: Мухамед
+    ml: മുഹമ്മദ്
+    mn: Мухамэд
+    mos: Muhammad
+    mr: मोहम्मद पैगंबर
+    ms: Muhammad
+    mt: Mawmettu
+    mwl: Maomé
+    my: မိုဟာမက်
+    mzn: محمد
+    nah: Mahoma
+    nan: Mohammed
+    nap: Mametto
+    nb: Muhammed
+    nds: Mohammed
+    nds-nl: Mohammed
+    ne: मुहाम्मद
+    new: मुहम्मद
+    nl: Mohammed
+    nn: Muhammed
+    nqo: ߡߊ߬ߡߊߘߌ߫
+    ny: Muhammad
+    oc: Maomet
+    olo: Muhammad
+    om: Muhammad
+    or: ମହମ୍ମଦ
+    os: Мæхæмæт
+    ota: محمد
+    pa: ਮੁਹੰਮਦ
+    pag: Mahoma
+    pcd: Maroumet
+    pcm: Muhammad
+    pl: Mahomet
+    pms: Maomet
+    pnb: محمد
+    ps: محمد
+    pt: Maomé
+    pt-br: Maomé
+    qu: Muhamad
+    rki: မိုဟာမက်
+    rmy: Muhammad
+    ro: Mahomed
+    ru: Мухаммед
+    rue: Могамед
+    sa: मुहम्मद्
+    sah: Муhаммед
+    sat: ᱢᱩᱦᱟᱢᱢᱚᱫᱽ
+    sc: Maometto
+    scn: Maumettu
+    sco: Muhammad
+    sd: محمد
+    sgs: Mahuomets
+    sh: Muhamed
+    shi: Muḥammad
+    si: මහම්මද්තුමා
+    sk: Mohamed
+    skr: محمد
+    sl: Mohamed
+    sn: Muhammad
+    so: Muxamed
+    sq: Muhamedi
+    sr: Мухамед
+    su: Muhammad
+    sv: Muhammed
+    sw: Muhammad
+    syl: ꠝꠥꠢꠝ꠆ꠝꠖ
+    szl: Mahůmet
+    szy: Muhanmute
+    ta: முகம்மது நபி
+    te: ముహమ్మద్ ప్రవక్త
+    tg: Муҳаммад
+    th: มุฮัมมัด
+    tk: Muhammet
+    tl: Muhammad
+    tly: Məhəmməd
+    tok: jan Muwama
+    tr: Muhammed
+    tt: Мөхәммәт пәйгамбәр
+    tt-cyrl: Мөхәммәт
+    tt-latn: Möxämmät
+    tw: Muhammad
+    ug: مۇھەممەد ئەلەيھىسسالام
+    ug-arab: مۇھەممەد ئەلەيھىسسالام
+    ug-latn: Muhammed
+    uk: Магомет
+    ur: محمد بن عبداللہ
+    uz: Muhammad
+    vec: Maometo
+    vep: Muhammed
+    vi: Muhammad
+    vo: Muhamed
+    vro: Muhamed
+    wa: Mawoumet
+    war: Mohammed
+    wo: Mohammed
+    wuu: 穆罕默德
+    xmf: მაჰმადი
+    yi: מוכאמאד
+    yo: Mùhammédù
+    yue: 模罕默德
+    za: Muhamed
+    zea: Mohammed
+    zgh: ⵎⵓⵃⵎⵎⴰⴷ
+    zh: 穆罕默德
+    zh-cn: 穆罕默德
+    zh-hans: 穆罕默德
+    zh-hant: 穆罕默德
+    zh-tw: 穆罕默德
+    zu: Muhammad
 ---
-
 # [[Muhammad]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Muhammad,9458|WD~Muhammad,9458]] 

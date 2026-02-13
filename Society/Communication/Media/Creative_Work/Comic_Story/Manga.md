@@ -1,23 +1,65 @@
 ---
 aliases:
-  - 漫画;
-  - Manga
+- '"Manga"'
+- Ji̍t-pún bàng-gah
+- Manga
+- Manga (bannoù-treset)
+- mangao
+- mangá
+- Manqa
+- Mángà
+- μάνγκα
+- Манга
+- манґа
+- Մանգա
+- Մանկաներ
+- מאנגא
+- מאנגה
+- مانجا
+- مانغا
+- مانګا
+- مانڭا
+- مانگا
+- मंगा
+- मैंगा
+- মাঙ্গা
+- ਮਾਂਗਾ
+- મેન્ગા
+- ମାଂଗା
+- மங்கா
+- మంగా
+- ಮಂಗಾ
+- മംഗ
+- มังงะ
+- ມັງງະ
+- མན་གྷ།
+- မန်ဂါ
+- მანგა
+- ማንጋ
+- ᐃᓐᒐ
+- ម៉ានហ្គា
+- 日本の漫画
+- 日本漫画
+- 日本漫畫
+- 漫画;
+- 漫畫
+- 일본 만화
 has_id_wikidata: Q8274
 practiced_by:
-  - '[[_Standards/WikiData/WD~mangaka,191633]]'
-  - '[[_Standards/WikiData/WD~manga_editor,11565578]]'
+- '[[_Standards/WikiData/WD~mangaka,191633]]'
+- '[[_Standards/WikiData/WD~manga_editor,11565578]]'
 different_from:
-  - '[[_Standards/WikiData/WD~manhwa,562214]]'
-  - '[[_Standards/WikiData/WD~manhua,754669]]'
-  - '[[_Standards/WikiData/WD~anime,1107]]'
+- '[[_Standards/WikiData/WD~manhwa,562214]]'
+- '[[_Standards/WikiData/WD~manhua,754669]]'
+- '[[_Standards/WikiData/WD~anime,1107]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_work,627436]]'
-  - '[[_Standards/WikiData/WD~comic_genre,20087698]]'
-  - '[[_Standards/WikiData/WD~comic_format,26971562]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~comic_genre,20087698]]'
+- '[[_Standards/WikiData/WD~comic_format,26971562]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_manga,2248316]]'
 part_of:
-  - '[[_Standards/WikiData/WD~anime_and_manga_genre,4178140]]'
-  - '[[_Standards/WikiData/WD~anime_and_manga,10901350]]'
+- '[[_Standards/WikiData/WD~anime_and_manga_genre,4178140]]'
+- '[[_Standards/WikiData/WD~anime_and_manga,10901350]]'
 subclass_of: '[[_Standards/WikiData/WD~comics,1004]]'
 country_of_origin: '[[_Standards/WikiData/WD~Japan,17]]'
 country: '[[_Standards/WikiData/WD~Japan,17]]'
@@ -29,14 +71,149 @@ hashtag: manga
 ComputerLanguage_com_definition: manga
 native_label: 漫画
 equivalent_class:
-  - http://comicmeta.org/vocab/Manga
-  - http://dbpedia.org/ontology/Manga
+- http://comicmeta.org/vocab/Manga
+- http://dbpedia.org/ontology/Manga
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Japan%20Bookstore.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%85%D8%A7%D9%86%D8%BA%D8%A7.wav
 Stack_Exchange_tag: https://japanese.stackexchange.com/tags/manga
 Universal_Decimal_Classification: 82-9:76(520)
+dv_has_:
+  name_:
+    acm: مانگا
+    af: Manga
+    am: ማንጋ
+    an: Manga
+    ar: مانغا
+    ary: مانڭا
+    arz: مانجا
+    ast: Manga
+    az: Manqa
+    ba: Манга
+    bcl: Manga
+    be: Манга
+    be-tarask: манга
+    bg: Манга
+    bho: मंगा
+    bjn: Manga
+    bn: মাঙ্গা
+    bo: མན་གྷ།
+    bpy: মাঙ্গা
+    br: Manga (bannoù-treset)
+    bs: Manga
+    ca: manga
+    ckb: مانگا
+    cs: manga
+    cy: manga
+    da: manga
+    de: Manga
+    el: μάνγκα
+    en: manga
+    en-ca: manga
+    en-gb: manga
+    eo: mangao
+    es: manga
+    et: Manga
+    eu: manga
+    fa: مانگا
+    fi: manga
+    fr: manga
+    fy: Manga
+    ga: manga
+    gan: 漫畫
+    gl: manga
+    gsw: Manga
+    gu: મેન્ગા
+    gv: Manga
+    he: מאנגה
+    hi: मैंगा
+    hr: Manga
+    hu: manga
+    hy: Մանգա
+    hyw: Մանկաներ
+    ia: Manga
+    iba: Manga
+    id: manga
+    ike-cans: ᐃᓐᒐ
+    io: '"Manga"'
+    is: Manga
+    it: manga
+    ja: 日本の漫画
+    jv: Manga
+    ka: მანგა
+    kk: Манга
+    km: ម៉ានហ្គា
+    kn: ಮಂಗಾ
+    ko: 일본 만화
+    ku: Manga
+    ky: Манга
+    la: Manga
+    lb: Manga
+    li: Manga
+    lld: manga
+    lmo: Manga
+    lo: ມັງງະ
+    lt: Manga
+    lv: manga
+    mk: манга
+    ml: മംഗ
+    mn: Манга
+    ms: Manga
+    my: မန်ဂါ
+    nah: Manga
+    nan: Ji̍t-pún bàng-gah
+    nap: Manga
+    nb: manga
+    nds: Manga
+    nl: manga
+    nn: Manga
+    oc: Manga
+    or: ମାଂଗା
+    pa: ਮਾਂਗਾ
+    pl: manga
+    ps: مانګا
+    pt: manga
+    pt-br: mangá
+    qu: Manga
+    ro: manga
+    ru: манга
+    sc: Manga
+    sco: manga
+    se: Manga
+    sh: Manga
+    sk: manga
+    sl: manga
+    sn: Manga
+    so: Manga
+    sq: Manga
+    sr: манга
+    su: Manga
+    sv: manga
+    sw: Manga
+    szl: Manga
+    ta: மங்கா
+    te: మంగా
+    tg: манга
+    th: มังงะ
+    tl: manga
+    tr: manga
+    ug: مانگا
+    uk: манґа
+    ur: مانگا
+    uz: Manga
+    vi: manga
+    war: Manga
+    wuu: 日本漫画
+    xmf: მანგა
+    yi: מאנגא
+    yo: Mángà
+    yue: 日本漫畫
+    zh: 日本漫画
+    zh-cn: 日本漫画
+    zh-hans: 日本漫画
+    zh-hant: 日本漫畫
+    zh-hk: 日本漫畫
+    zh-tw: 日本漫畫
 ---
-
 # [[Manga]] 
 
 #is_/same_as :: [[WD~Manga,8274]] 

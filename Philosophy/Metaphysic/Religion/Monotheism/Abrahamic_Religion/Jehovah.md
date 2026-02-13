@@ -1,40 +1,178 @@
 ---
 aliases:
-  - יְהֹוָה‎
-  - Yəhōwā
-  - Jehovah
+- Geova
+- Giêhôva
+- Iehova
+- Iehovah
+- Ià-huò-huà
+- Iâ-hô-hoa
+- Jahve
+- Jahveh
+- Jahvè
+- Jehofa
+- Jehoova
+- Jehova
+- Jehovah
+- Jehovo
+- Jehová
+- Jehowa
+- Jeobá
+- Jeova
+- Jeová
+- Jewova
+- sewi Jawe
+- Xehová
+- Yahova
+- Yawé
+- Yehova
+- Yehovah
+- Yehowa
+- Yehoṿah
+- Yehuwa
+- Yâ-fò-fà
+- Yəhōwā
+- Єгова
+- Јехова
+- Иеговæ
+- Иегова
+- Йәһвә
+- Ягова
+- Яҳува
+- Եհովա
+- יְהֹוָה‎
+- יהוה
+- يهوه
+- یهووا
+- यहोवा
+- যিহোবাহ্
+- ஜெஹோவா
+- യഹോവ
+- พระเยโฮวาห์
+- ཡ་ཧོ་ཝཱ་
+- იეჰოვა
+- ይሖዋ
+- ព្រះយេហូវ៉ា
+- ヤハウェ
+- 耶和华
+- 耶和華
+- 여호와
 has_id_wikidata: Q3678579
 depicts:
-  - "[[_Standards/WikiData/WD~deity,178885]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
+- '[[_Standards/WikiData/WD~deity,178885]]'
+- '[[_Standards/WikiData/WD~God,190]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~deity,178885]]"
-  - "[[_Standards/WikiData/WD~names_of_God_in_Judaism,821090]]"
-  - "[[_Standards/WikiData/WD~theonym,12160552]]"
+- '[[_Standards/WikiData/WD~deity,178885]]'
+- '[[_Standards/WikiData/WD~names_of_God_in_Judaism,821090]]'
+- '[[_Standards/WikiData/WD~theonym,12160552]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Yahweh,766677]]"
-  - "[[_Standards/WikiData/WD~Sabaoth,1657271]]"
-  - "[[_Standards/WikiData/WD~God_in_Judaism,2155501]]"
-  - "[[_Standards/WikiData/WD~Shangdi,2714875]]"
-  - "[[_Standards/WikiData/WD~Tianzhu,7800257]]"
-  - "[[_Standards/WikiData/WD~God,190]]"
+- '[[_Standards/WikiData/WD~Yahweh,766677]]'
+- '[[_Standards/WikiData/WD~Sabaoth,1657271]]'
+- '[[_Standards/WikiData/WD~God_in_Judaism,2155501]]'
+- '[[_Standards/WikiData/WD~Shangdi,2714875]]'
+- '[[_Standards/WikiData/WD~Tianzhu,7800257]]'
+- '[[_Standards/WikiData/WD~God,190]]'
 based_on:
-  - "[[_Standards/WikiData/WD~Yahweh,766677]]"
-  - "[[_Standards/WikiData/WD~Adonai,1570758]]"
+- '[[_Standards/WikiData/WD~Yahweh,766677]]'
+- '[[_Standards/WikiData/WD~Adonai,1570758]]'
 native_label: יְהֹוָה
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jhwh4.jpg
+dv_has_:
+  name_:
+    af: Jehova
+    ak: Yehowa
+    am: ይሖዋ
+    ar: يهوه
+    ast: Xehová
+    az: Yehova
+    bcl: Jehova
+    be-tarask: Ягова
+    bn: যিহোবাহ্
+    bo: ཡ་ཧོ་ཝཱ་
+    bs: Jehova
+    ca: Jahvè
+    cdo: Ià-huò-huà
+    cs: Jehova
+    cy: Jehofa
+    da: Jehova
+    de: Jehova
+    en: Jehovah
+    eo: Jehovo
+    es: Jehová
+    et: Jehoova
+    eu: Jahveh
+    fa: یهووا
+    fr: Jehovah
+    fur: Jeova
+    ga: Iehova
+    gl: Xehová
+    guw: Jehovah
+    hak: Yâ-fò-fà
+    he: יהוה
+    hi: यहोवा
+    ht: Jewova
+    hy: Եհովա
+    ia: Jehovah
+    id: Yehuwa
+    ig: Jehovah
+    it: Geova
+    ja: ヤハウェ
+    ka: იეჰოვა
+    km: ព្រះយេហូវ៉ា
+    ko: 여호와
+    ku: Yehowa
+    kw: Yehovah
+    la: Iehovah
+    ln: Yawé
+    lt: Jehova
+    mg: Jehovah
+    mk: Јехова
+    ml: യഹോവ
+    mr: यहोवा
+    mul: Yehoṿah
+    mwl: Jeobá
+    nan: Iâ-hô-hoa
+    nia: Yehowa
+    nl: Jehova
+    os: Иеговæ
+    pl: Jehowa
+    pt: Jeová
+    ro: Iehova
+    ru: Иегова
+    rw: Yehova
+    sl: Jahve
+    sr: Јехова
+    sr-ec: Јехова
+    sr-el: Jehova
+    srn: Jehovah
+    sv: Jehova
+    ta: ஜெஹோவா
+    tg: Яҳува
+    th: พระเยโฮวาห์
+    tl: Jehova
+    tok: sewi Jawe
+    tr: Yehova
+    tt: Йәһвә
+    uk: Єгова
+    uz: Yahova
+    vi: Giêhôva
+    war: Jehova
+    xmf: იეჰოვა
+    yue: 耶和華
+    zh: 耶和華
+    zh-hans: 耶和华
+    zh-hant: 耶和華
+    zh-hk: 耶和華
 ---
-
 # [[Jehovah]] 
 
 #is_/same_as :: [[WD~Jehovah,3678579]] 

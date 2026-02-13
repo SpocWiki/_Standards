@@ -1,55 +1,248 @@
 ---
 aliases:
-  - Lautsprecher
-  - Loudspeaker
+- altaveu
+- altavoz
+- altifalante
+- alto-falante
+- Altofalante
+- Altoparlant
+- altoparlante
+- Altoparlanti
+- Amsakuwwa
+- baf
+- bozgorailu
+- callaire
+- Difuzor
+- Famoaham-peo
+- Garawsan hin dumagko nga tingog
+- garsiakalbis
+- gájanas
+- głośnik
+- hangszóró
+- haut-parleur
+- Hoparlor
+- Hoparlör
+- Hátalari
+- Hôt-pårleu
+- högtalare
+- høgtalar
+- højttaler
+- høyttaler
+- Ka ici petakok kitotakan
+- kaiutin
+- Kipaza sauti
+- kõlar
+- Laut-parolilo
+- Lautsprecher
+- Lawong
+- laŭtparolilo
+- loa
+- Loudspeaker
+- luidspreker
+- Megaphonum
+- nautparlaire
+- Nsábi
+- Palakas-tinig
+- Pembesar suara
+- pengeras suara
+- Radiokarnay
+- računarski zvučnik
+- Reproduktor
+- Ruqyaq
+- Skaļrunis
+- sombok
+- Speaker
+- uchelseinydd
+- wótřerěčak
+- zvočnik
+- Zvučnik
+- škaajân
+- šääiǥan
+- Ηχείο
+- Високоговорител
+- громкоговоритель
+- гучнагаварыцель
+- гучнамоўнік
+- гучномовець
+- звучник
+- рачунарски звучник
+- тавыш зурайткыч
+- Чанга яригч
+- Үндеткіш
+- Բարձրախոս
+- רמקול
+- بلندگو
+- دەنگ گەورەکەرەوە
+- لوړغږی
+- مكبر صوت
+- लाउड स्पिकर
+- लाउडस्पीकर
+- लाउदस्पिकर
+- লাউডস্পিকার
+- ਲਾਊਡਸਪੀਕਰ
+- ஒலிபெருக்கி
+- ഉച്ചഭാഷിണി
+- ගොහු බණුව
+- ลำโพง
+- အသံချဲ့စက်
+- ၸၢၵ်ႈၶႂၢၵ်ႈသဵင်
+- スピーカー
+- 扬声器
+- 揚聲器
+- 音響喇叭
+- 스피커
 has_id_wikidata: Q570
-creator: "[[_Standards/WikiData/WD~Dieter_Rams,76427]]"
+creator: '[[_Standards/WikiData/WD~Dieter_Rams,76427]]'
 part_of:
-  - "[[_Standards/WikiData/WD~headphone,186819]]"
-  - "[[_Standards/WikiData/WD~megaphone,216217]]"
-  - "[[_Standards/WikiData/WD~loudspeaker_box,390573]]"
-  - "[[_Standards/WikiData/WD~transistor_radio,506260]]"
-  - "[[_Standards/WikiData/WD~computer_speaker,1209975]]"
-  - "[[_Standards/WikiData/WD~boombox,1358666]]"
-  - "[[_Standards/WikiData/WD~Line_array,1826385]]"
-  - "[[_Standards/WikiData/WD~clock_radio,3928875]]"
-  - "[[_Standards/WikiData/WD~wireless_speaker,8026900]]"
-  - "[[_Standards/WikiData/WD~telephone,11035]]"
+- '[[_Standards/WikiData/WD~headphone,186819]]'
+- '[[_Standards/WikiData/WD~megaphone,216217]]'
+- '[[_Standards/WikiData/WD~loudspeaker_box,390573]]'
+- '[[_Standards/WikiData/WD~transistor_radio,506260]]'
+- '[[_Standards/WikiData/WD~computer_speaker,1209975]]'
+- '[[_Standards/WikiData/WD~boombox,1358666]]'
+- '[[_Standards/WikiData/WD~Line_array,1826385]]'
+- '[[_Standards/WikiData/WD~clock_radio,3928875]]'
+- '[[_Standards/WikiData/WD~wireless_speaker,8026900]]'
+- '[[_Standards/WikiData/WD~telephone,11035]]'
 different_from:
-  - "[[_Standards/WikiData/WD~megaphone,216217]]"
-  - "[[_Standards/WikiData/WD~loudspeaker_box,390573]]"
-  - "[[_Standards/WikiData/WD~amplifier,27094]]"
-  - "[[_Standards/WikiData/WD~loudspeaker_enclosure,59123]]"
+- '[[_Standards/WikiData/WD~megaphone,216217]]'
+- '[[_Standards/WikiData/WD~loudspeaker_box,390573]]'
+- '[[_Standards/WikiData/WD~amplifier,27094]]'
+- '[[_Standards/WikiData/WD~loudspeaker_enclosure,59123]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~sound_generator,267228]]"
-  - "[[_Standards/WikiData/WD~sound_transducer,1718024]]"
-  - "[[_Standards/WikiData/WD~electrical_device,3749263]]"
+- '[[_Standards/WikiData/WD~sound_generator,267228]]'
+- '[[_Standards/WikiData/WD~sound_transducer,1718024]]'
+- '[[_Standards/WikiData/WD~electrical_device,3749263]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Edward_Washburn_Kellogg,1293995]]"
-  - "[[_Standards/WikiData/WD~Chester_Williams_Rice,5093769]]"
+- '[[_Standards/WikiData/WD~Edward_Washburn_Kellogg,1293995]]'
+- '[[_Standards/WikiData/WD~Chester_Williams_Rice,5093769]]'
 Nomenclature_for_Museum_Cataloging: 11249
 U_S_National_Archives_Identifier: 10647904
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/JBL%201200GTI%20DSC9561FP.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20reflex%20loudspeakers%20by%20Focal-JMLab.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hp1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/JBL%201200GTI%20DSC9561FP.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bass%20reflex%20loudspeakers%20by%20Focal-JMLab.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hp1.jpg
 Commons_category: Loudspeakers
 IMDb_keyword: loudspeaker
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Lautsprecher.wav
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/SpeakerSymbol.png
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03691459-n
-  - http://wordnet-rdf.princeton.edu/wn31/103658422-n
+- http://wordnet-rdf.princeton.edu/wn30/03691459-n
+- http://wordnet-rdf.princeton.edu/wn31/103658422-n
 Unicode_character:
-  - 🔇
-  - 🔈
-  - 🔉
-  - 🔊
+- "\U0001F507"
+- "\U0001F508"
+- "\U0001F509"
+- "\U0001F50A"
 Iconclass_notation: .inf
 IEV_number: 801-27-01
 Commons_gallery: Loudspeaker
+dv_has_:
+  name_:
+    af: Luidspreker
+    an: Altavoz
+    ar: مكبر صوت
+    ast: Altavoz
+    atj: Ka ici petakok kitotakan
+    be: гучнагаварыцель
+    be-tarask: гучнамоўнік
+    bew: sombok
+    bg: Високоговорител
+    bn: লাউডস্পিকার
+    ca: altaveu
+    ckb: دەنگ گەورەکەرەوە
+    cs: reproduktor
+    cy: uchelseinydd
+    da: højttaler
+    de: Lautsprecher
+    diq: Hoparlor
+    el: Ηχείο
+    en: loudspeaker
+    eo: laŭtparolilo
+    es: altavoz
+    et: kõlar
+    eu: bozgorailu
+    fa: بلندگو
+    fi: kaiutin
+    fr: haut-parleur
+    ga: callaire
+    gl: Altofalante
+    ha: Amsakuwwa
+    he: רמקול
+    hi: लाउडस्पीकर
+    hr: Zvučnik
+    hsb: wótřerěčak
+    ht: baf
+    hu: hangszóró
+    hy: Բարձրախոս
+    id: pengeras suara
+    io: Laut-parolilo
+    is: Hátalari
+    it: altoparlante
+    ja: スピーカー
+    jv: Speaker
+    kk: Үндеткіш
+    ko: 스피커
+    la: Megaphonum
+    lb: Haut-parleur
+    ln: Nsábi
+    lt: garsiakalbis
+    lv: Skaļrunis
+    mg: Famoaham-peo
+    mk: звучник
+    ml: ഉച്ചഭാഷിണി
+    mn: Чанга яригч
+    ms: Pembesar suara
+    my: အသံချဲ့စက်
+    nb: høyttaler
+    ne: लाउड स्पिकर
+    new: लाउदस्पिकर
+    nl: luidspreker
+    nn: høgtalar
+    oc: nautparlaire
+    pa: ਲਾਊਡਸਪੀਕਰ
+    pl: głośnik
+    pms: Altoparlant
+    ps: لوړغږی
+    pt: altifalante
+    pt-br: alto-falante
+    qu: Ruqyaq
+    ro: Difuzor
+    ru: громкоговоритель
+    sco: Speaker
+    se: gájanas
+    sh: Zvučnik
+    shn: ၸၢၵ်ႈၶႂၢၵ်ႈသဵင်
+    si: ගොහු බණුව
+    sk: Reproduktor
+    sl: zvočnik
+    smn: škaajân
+    sms: šääiǥan
+    sq: Altoparlanti
+    sr: рачунарски звучник
+    sr-ec: рачунарски звучник
+    sr-el: računarski zvučnik
+    su: Lawong
+    sv: högtalare
+    sw: Kipaza sauti
+    ta: ஒலிபெருக்கி
+    th: ลำโพง
+    tl: Palakas-tinig
+    tr: Hoparlör
+    tt: тавыш зурайткыч
+    tt-cyrl: тавыш зурайткыч
+    uk: гучномовець
+    ur: بلندگو
+    uz: Radiokarnay
+    vec: Altoparlante
+    vi: loa
+    wa: Hôt-pårleu
+    war: Garawsan hin dumagko nga tingog
+    wuu: 揚聲器
+    yue: 音響喇叭
+    zh: 揚聲器
+    zh-hans: 扬声器
 ---
-
 # [[Loudspeaker]]🔊 
 
 #is_/same_as :: [[WD~Loudspeaker,570]] 

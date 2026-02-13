@@ -1,17 +1,104 @@
 ---
 aliases:
-  - Brain damage
-  - Brain injury
-  - Brain_Damage
-  - Brain Damage
+- agykárosodás
+- aivovaurio
+- ajukahjustus
+- beyin hasarı
+- beyin zədəsi
+- Brain damage
+- Brain injury
+- Brain_Damage
+- Brien damij
+- Cedera otak
+- cerba lezo
+- cerebrolesione
+- Chấn thương não
+- dochar inchinne
+- Garun-lesio
+- Heilaskemmd
+- hersenbeschadiging
+- Hirnschaden
+- hjerneskade
+- hjärnskada
+- lesió cerebral
+- lesión cerebral
+- lesão cerebral
+- leziune cerebrală
+- lésion cérébrale
+- mancadura cerebral
+- možganska lezija
+- niwed ir ymennydd
+- Oštećenje mozga
+- εγκεφαλική βλάβη
+- пашкоджаньне мозгу
+- повреждение мозга
+- ушкодження мозку
+- Ուղեղի վնասվածք
+- נזק מוחי
+- آسیب مغز
+- تلف الدماغ
+- மூளைச்சேதம்
+- 脑损伤
+- 脳損傷
+- 腦損傷
+- 腦部受損
+- 뇌손상
 has_id_wikidata: Q720026
 subclass_of: '[[_Standards/WikiData/WD~lesion,827023]]'
 instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
 anatomical_locations: '[[_Standards/WikiData/WD~brain,1073]]'
 IMDb_keyword: brain-damage
 Commons_category: Brain damage
+dv_has_:
+  name_:
+    ar: تلف الدماغ
+    ast: mancadura cerebral
+    az: beyin zədəsi
+    be-tarask: пашкоджаньне мозгу
+    ca: lesió cerebral
+    cy: niwed ir ymennydd
+    da: hjerneskade
+    de: Hirnschaden
+    el: εγκεφαλική βλάβη
+    en: brain damage
+    eo: cerba lezo
+    es: lesión cerebral
+    et: ajukahjustus
+    eu: Garun-lesio
+    fa: آسیب مغز
+    fi: aivovaurio
+    fr: lésion cérébrale
+    ga: dochar inchinne
+    gl: lesión cerebral
+    he: נזק מוחי
+    hr: Oštećenje mozga
+    hu: agykárosodás
+    hy: Ուղեղի վնասվածք
+    id: Cedera otak
+    is: Heilaskemmd
+    it: cerebrolesione
+    ja: 脳損傷
+    jam: Brien damij
+    ko: 뇌손상
+    nb: hjerneskade
+    nl: hersenbeschadiging
+    nn: hjerneskade
+    pt: lesão cerebral
+    ro: leziune cerebrală
+    ru: повреждение мозга
+    sl: možganska lezija
+    sr: Oštećenje mozga
+    sv: hjärnskada
+    ta: மூளைச்சேதம்
+    tr: beyin hasarı
+    uk: ушкодження мозку
+    vi: Chấn thương não
+    yue: 腦損傷
+    zh: 腦部受損
+    zh-cn: 脑损伤
+    zh-hans: 脑损伤
+    zh-hant: 腦損傷
 ---
-
 # [[Brain_Damage]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Brain_damage,720026|WD~Brain_damage,720026]] 

@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Roger_Federer
-  - Roger Federer
-  - Federer
-  - Federer,Roger
+- Federer
+- Federer,Roger
+- Rocer Federer
+- Rodjer Federer
+- Rodžers Federers
+- Roger Federer
+- Rogerius Federer
+- Roger_Federer
+- Rojer Federer
+- Roğer Federer
+- Ρότζερ Φέντερερ
+- Роџер Федерер
+- Роджер Федерер
+- Роджър Федерер
+- Роджэр Федэрэр
+- Роджэр Фэдэрэр
+- Рожер Федерер
+- Федерер, Роджер
+- Ռոջեր Ֆեդերեր
+- רוג'ר פדרר
+- راجر فدرر
+- روجر فدرر
+- روجر فيدرير
+- روجر فيديرار
+- روجر فیڈرر
+- روجَر فیڈَرَر
+- رودجر فيديرير
+- ڕۆجەر فێدێرێر
+- रॉजर फेडरर
+- रोजर फ़ेडरर
+- रोजर फेडरर
+- রজার ফেদেরার
+- ৰ'জাৰ ফেডেৰাৰ
+- ਰਾਜਰ ਫੈਡਰਰ
+- રોજર ફેડરર
+- ରୋଜର ଫେଡେରର୍
+- ரொஜர் பெடரர்
+- రోజర్ ఫెడరర్
+- ರೋಜರ್ ಫೆಡರರ್
+- റോജർ ഫെഡറർ
+- රොජර් ෆෙඩරර්
+- โรเจอร์ เฟเดอเรอร์
+- ໂຣເຈີ ເຟດເດີເຣີ
+- ရော်ဂျာ ဖက်ဒရာ
+- როჯერ ფედერერი
+- ሮጀር ፌዴረር
+- ⵔⵓⵊⵉⵔ ⴼⵉⴷⵉⵔⵉⵔ
+- ロジャー・フェデラー
+- 罗杰·费德勒
+- 羅傑·費德勒
+- 羅渣·費達拿
+- 費達拿
+- 로저 페더러
 has_id_wikidata: Q1426
 ISNI: 0000000078449693
 Munzinger_Sport_number: 01000005836
@@ -21,28 +70,28 @@ residence: '[[_Standards/WikiData/WD~Bottmingen,70036]]'
 supported_sports_team: '[[_Standards/WikiData/WD~FC_Basel,189671]]'
 spouse: '[[_Standards/WikiData/WD~Mirka_Federer,233306]]'
 head_coach:
-  - '[[_Standards/WikiData/WD~Ivan_Ljubičić,261095]]'
-  - '[[_Standards/WikiData/WD~José_Higueras,1348847]]'
-  - '[[_Standards/WikiData/WD~Peter_Carter,1968483]]'
-  - '[[_Standards/WikiData/WD~Severin_Lüthi,15649219]]'
+- '[[_Standards/WikiData/WD~Ivan_Ljubičić,261095]]'
+- '[[_Standards/WikiData/WD~José_Higueras,1348847]]'
+- '[[_Standards/WikiData/WD~Peter_Carter,1968483]]'
+- '[[_Standards/WikiData/WD~Severin_Lüthi,15649219]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Swiss_Sports_Personality_of_the_Year,338737]]'
-  - '[[_Standards/WikiData/WD~ITF_World_Champions,693708]]'
-  - "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
-  - '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
-  - '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Basel,56509472]]'
+- '[[_Standards/WikiData/WD~Swiss_Sports_Personality_of_the_Year,338737]]'
+- '[[_Standards/WikiData/WD~ITF_World_Champions,693708]]'
+- "[[_Standards/WikiData/WD~L'Équipe_Champion_of_Champions,1061233]]"
+- '[[_Standards/WikiData/WD~BBC_World_Sport_Star_of_the_Year,3494048]]'
+- '[[_Standards/WikiData/WD~Best_International_Athlete_ESPY_Award,4896696]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_the_University_of_Basel,56509472]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Swiss_German,387066]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Swiss_German,387066]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Marco_Chiudinelli,523802]]'
-  - '[[_Standards/WikiData/WD~Yves_Allegro,664843]]'
-  - '[[_Standards/WikiData/WD~Novak_Djokovic,5812]]'
-  - '[[_Standards/WikiData/WD~Rafael_Nadal,10132]]'
-  - '[[_Standards/WikiData/WD~Andy_Roddick,54584]]'
+- '[[_Standards/WikiData/WD~Marco_Chiudinelli,523802]]'
+- '[[_Standards/WikiData/WD~Yves_Allegro,664843]]'
+- '[[_Standards/WikiData/WD~Novak_Djokovic,5812]]'
+- '[[_Standards/WikiData/WD~Rafael_Nadal,10132]]'
+- '[[_Standards/WikiData/WD~Andy_Roddick,54584]]'
 employer: '[[_Standards/WikiData/WD~UNICEF,740308]]'
 member_of: '[[_Standards/WikiData/WD~Swiss_Tennis,1675504]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
@@ -51,23 +100,23 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation: '[[_Standards/WikiData/WD~tennis_player,10833314]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Roger_Federer,14402193]]'
 playing_hand:
-  - '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
-  - '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
+- '[[_Standards/WikiData/WD~one_handed_forehand,14419931]]'
+- '[[_Standards/WikiData/WD~one_handed_backhand,14420039]]'
 family_name: '[[_Standards/WikiData/WD~Federer,16869916]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 father: '[[_Standards/WikiData/WD~Robert_Federer,17291275]]'
 mother: '[[_Standards/WikiData/WD~Lynette_Federer,17291278]]'
 sibling: '[[_Standards/WikiData/WD~Dziana_Federer,17291284]]'
 child:
-  - '[[_Standards/WikiData/WD~Myla_Federer,17291294]]'
-  - '[[_Standards/WikiData/WD~Charlene_Federer,17291300]]'
-  - '[[_Standards/WikiData/WD~Leo_Federer,17291308]]'
-  - '[[_Standards/WikiData/WD~Lennart_Federer,17291316]]'
+- '[[_Standards/WikiData/WD~Myla_Federer,17291294]]'
+- '[[_Standards/WikiData/WD~Charlene_Federer,17291300]]'
+- '[[_Standards/WikiData/WD~Leo_Federer,17291308]]'
+- '[[_Standards/WikiData/WD~Lennart_Federer,17291316]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
-  - '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
+- '[[_Standards/WikiData/WD~tennis_singles,18123880]]'
+- '[[_Standards/WikiData/WD~tennis_doubles,18123885]]'
 position_held: '[[_Standards/WikiData/WD~UNICEF_Goodwill_Ambassador,19969187]]'
 prize_money: 130594339
 sport: '[[_Standards/WikiData/WD~tennis,847]]'
@@ -77,8 +126,8 @@ country_of_citizenship: '[[_Standards/WikiData/WD~Switzerland,39]]'
 country_for_sport: '[[_Standards/WikiData/WD~Switzerland,39]]'
 place_of_birth: '[[_Standards/WikiData/WD~Basel,78]]'
 ranking:
-  - 1
-  - 24
+- 1
+- 24
 native_language: '[[_Standards/WikiData/WD~German,188]]'
 number_of_children: 4
 mass: 85
@@ -91,8 +140,188 @@ Facebook_username: Federer
 social_media_followers: 12860509
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Federer%20WM16%20%2837%29%20%2828136155830%29.jpg
 official_website: https://www.rogerfederer.com/
+dv_has_:
+  name_:
+    ace: Roger Federer
+    af: Roger Federer
+    am: ሮጀር ፌዴረር
+    an: Roger Federer
+    ang: Roger Federer
+    ar: روجر فيدرير
+    ary: رودجر فيديرير
+    arz: روجر فيديرار
+    as: ৰ'জাৰ ফেডেৰাৰ
+    ast: Roger Federer
+    ay: Roger Federer
+    az: Roger Federer
+    azb: راجر فدرر
+    bar: Roger Federer
+    bcl: Roger Federer
+    be: Роджэр Федэрэр
+    be-tarask: Роджэр Фэдэрэр
+    bg: Роджър Федерер
+    bn: রজার ফেদেরার
+    br: Roger Federer
+    bs: Roger Federer
+    bxr: Роджер Федерер
+    ca: Roger Federer
+    ceb: Roger Federer
+    ckb: ڕۆجەر فێدێرێر
+    co: Roger Federer
+    cs: Roger Federer
+    cv: Роджер Федерер
+    cy: Roger Federer
+    da: Roger Federer
+    de: Roger Federer
+    de-at: Roger Federer
+    de-ch: Roger Federer
+    diq: Roger Federer
+    dsb: Roger Federer
+    el: Ρότζερ Φέντερερ
+    eml: Roger Federer
+    en: Roger Federer
+    en-ca: Roger Federer
+    en-gb: Roger Federer
+    eo: Roger Federer
+    es: Roger Federer
+    et: Roger Federer
+    eu: Roger Federer
+    ext: Roger Federer
+    fa: راجر فدرر
+    fi: Roger Federer
+    fit: Roger Federer
+    fo: Roger Federer
+    fr: Roger Federer
+    frp: Roger Federer
+    fur: Roger Federer
+    fy: Roger Federer
+    ga: Roger Federer
+    gd: Roger Federer
+    gl: Roger Federer
+    gsw: Roger Federer
+    gu: રોજર ફેડરર
+    gv: Roger Federer
+    ha: Roger Federer
+    he: רוג'ר פדרר
+    hi: रोजर फ़ेडरर
+    hif: Roger Federer
+    hr: Roger Federer
+    hsb: Roger Federer
+    hu: Roger Federer
+    hy: Ռոջեր Ֆեդերեր
+    ia: Roger Federer
+    id: Roger Federer
+    ie: Roger Federer
+    io: Roger Federer
+    is: Roger Federer
+    it: Roger Federer
+    ja: ロジャー・フェデラー
+    jv: Roger Federer
+    ka: როჯერ ფედერერი
+    kaa: Rodjer Federer
+    kab: Roğer Federer
+    kg: Roger Federer
+    kk: Роджер Федерер
+    kn: ರೋಜರ್ ಫೆಡರರ್
+    ko: 로저 페더러
+    ks: روجَر فیڈَرَر
+    ksh: Roger Federer
+    ku: Roger Federer
+    ku-latn: Roger Federer
+    ky: Роджер Федерер
+    la: Rogerius Federer
+    lb: Roger Federer
+    lez: Роджер Федерер
+    li: Roger Federer
+    lij: Roger Federer
+    lo: ໂຣເຈີ ເຟດເດີເຣີ
+    lt: Roger Federer
+    lv: Rodžers Federers
+    mai: रोजर फेडरर
+    mg: Roger Federer
+    mhr: Роджер Федерер
+    min: Roger Federer
+    mk: Роџер Федерер
+    ml: റോജർ ഫെഡറർ
+    mn: Рожер Федерер
+    mr: रॉजर फेडरर
+    ms: Roger Federer
+    mul: Roger Federer
+    my: ရော်ဂျာ ဖက်ဒရာ
+    nan: Roger Federer
+    nap: Roger Federer
+    nb: Roger Federer
+    nds: Roger Federer
+    nds-nl: Roger Federer
+    ne: रोजर फेडरर
+    nl: Roger Federer
+    nn: Roger Federer
+    nrm: Roger Federer
+    oc: Roger Federer
+    or: ରୋଜର ଫେଡେରର୍
+    os: Роджер Федерер
+    pa: ਰਾਜਰ ਫੈਡਰਰ
+    pam: Roger Federer
+    pcd: Roger Federer
+    pl: Roger Federer
+    pms: Roger Federer
+    ps: روجر فدرر
+    pt: Roger Federer
+    pt-br: Roger Federer
+    qu: Roger Federer
+    rm: Roger Federer
+    rmf: Roger Federer
+    ro: Roger Federer
+    ru: Роджер Федерер
+    sc: Roger Federer
+    scn: Roger Federer
+    sco: Roger Federer
+    se: Roger Federer
+    sh: Roger Federer
+    si: රොජර් ෆෙඩරර්
+    sjd: Роджер Федерер
+    sje: Roger Federer
+    sju: Roger Federer
+    sk: Roger Federer
+    sl: Roger Federer
+    sma: Roger Federer
+    smj: Roger Federer
+    smn: Roger Federer
+    sms: Roger Federer
+    sq: Roger Federer
+    sr: Роџер Федерер
+    sr-el: Roger Federer
+    sv: Roger Federer
+    sw: Roger Federer
+    ta: ரொஜர் பெடரர்
+    te: రోజర్ ఫెడరర్
+    th: โรเจอร์ เฟเดอเรอร์
+    tk: Rojer Federer
+    tl: Roger Federer
+    tr: Roger Federer
+    tt: Rocer Federer
+    tw: Roger Federer
+    tyv: Федерер, Роджер
+    uk: Роджер Федерер
+    ur: روجر فیڈرر
+    uz: Roger Federer
+    vec: Roger Federer
+    vi: Roger Federer
+    vls: Roger Federer
+    vo: Roger Federer
+    wa: Roger Federer
+    wo: Roger Federer
+    wuu: 罗杰·费德勒
+    yo: Roger Federer
+    yue: 費達拿
+    zgh: ⵔⵓⵊⵉⵔ ⴼⵉⴷⵉⵔⵉⵔ
+    zh: 罗杰·费德勒
+    zh-cn: 罗杰·费德勒
+    zh-hans: 罗杰·费德勒
+    zh-hant: 羅傑·費德勒
+    zh-hk: 羅渣·費達拿
+    zu: Roger Federer
 ---
-
 # [[Federer,Roger]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Roger_Federer,1426|WD~Roger_Federer,1426]] 

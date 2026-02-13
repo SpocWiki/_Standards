@@ -1,10 +1,31 @@
 ---
 aliases:
+- danse standard
+- standard dance
+- standarddans
+- standardni ples
+- standardní tanec
+- Standardtantsud
+- Standardtänze
+- Társasági táncok
+- vakiotanssi
+- стандартный танец
 has_id_wikidata: Q11900060
-subclass_of: "[[_Standards/WikiData/WD~ballroom_dance,1085001]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
+subclass_of: '[[_Standards/WikiData/WD~ballroom_dance,1085001]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+dv_has_:
+  name_:
+    cs: standardní tanec
+    de: Standardtänze
+    en: standard dance
+    et: Standardtantsud
+    fi: vakiotanssi
+    fr: danse standard
+    hu: Társasági táncok
+    ru: стандартный танец
+    sl: standardni ples
+    sv: standarddans
 ---
-
 # [[Standard_Dance]] 
 
 #is_/same_as :: [[WD~Standard_Dance,11900060]] 

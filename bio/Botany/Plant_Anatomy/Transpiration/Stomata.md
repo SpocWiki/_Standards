@@ -1,30 +1,146 @@
 ---
 aliases:
-  - stomate
-  - stomates
-  - Stomata
+- Aparat szparkowy
+- atvārsnītes
+- estoma
+- Estomat
+- Estômato
+- gázcserenyílás
+- huidmondje
+- Ilmarako
+- Khí khổng
+- klyvöppning
+- listna reža
+- Prieduch
+- Průduch
+- spalteopning
+- spalteåbning
+- spalteåpning
+- Stoma
+- Stomata
+- stomate
+- stomates
+- Stomo
+- stómaí
+- Õhulõhe
+- žiotelė
+- Στόματα
+- прадушынка
+- продих
+- Стома
+- Тыныс саңылаулары
+- Устица
+- устьице
+- פיונית
+- دەمیلە
+- روزنه هوایی
+- فوهة
+- त्वग्रंध्रे
+- रन्ध्र (वानस्पतिकी)
+- পত্ররন্ধ্র
+- இலை துளை
+- ಪತ್ರರಂಧ್ರ
+- ആസ്യരന്ധ്രം
+- ปากใบ
+- ბაგე
+- 气孔
+- 気孔
+- 氣孔
+- 氣窿
+- 기공
 has_id_wikidata: Q216635
 has_part_s_: '[[_Standards/WikiData/WD~guard_cell,241368]]'
 subclass_of: '[[_Standards/WikiData/WD~body_orifice,546776]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Encyclopedia_of_Cyril_and_Methodius,4091875]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_use: '[[_Standards/WikiData/WD~gas_exchange,1146120]]'
 instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
 OmegaWiki_Defined_Meaning: 1250652
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lilium%20stoma%20L.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tomato%20leaf%20stomate%201.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lilium%20stoma%20L.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tomato%20leaf%20stomate%201.jpg
 MeSH_tree_code:
-  - A18.024.750.650
-  - A18.024.812.650
+- A18.024.750.650
+- A18.024.812.650
 UMLS_CUI: C1955855
 Commons_category: Stoma
+dv_has_:
+  name_:
+    ar: فوهة
+    ast: Estoma
+    be-tarask: прадушынка
+    bg: Устица
+    bn: পত্ররন্ধ্র
+    bs: Stoma
+    ca: estoma
+    ckb: دەمیلە
+    cs: Průduch
+    da: spalteåbning
+    de: Stoma
+    el: Στόματα
+    en: stomata
+    eo: Stomo
+    es: estoma
+    et: Õhulõhe
+    eu: Estoma
+    fa: روزنه هوایی
+    fi: Ilmarako
+    fr: stomate
+    ga: stómaí
+    gl: Estoma
+    he: פיונית
+    hi: रन्ध्र (वानस्पतिकी)
+    ht: Estomat
+    hu: gázcserenyílás
+    id: stomata
+    it: Stoma
+    ja: 気孔
+    jv: Stomata
+    ka: ბაგე
+    kk: Тыныс саңылаулары
+    kn: ಪತ್ರರಂಧ್ರ
+    ko: 기공
+    ku: stoma
+    ku-latn: stoma
+    la: Stoma
+    lt: žiotelė
+    lv: atvārsnītes
+    ml: ആസ്യരന്ധ്രം
+    mn: Стома
+    mr: त्वग्रंध्रे
+    ms: Stoma
+    nb: spalteåpning
+    nl: huidmondje
+    nn: spalteopning
+    pl: Aparat szparkowy
+    pt: Estômato
+    ru: устьице
+    sco: stoma
+    sk: Prieduch
+    sl: listna reža
+    sr: Stoma
+    sv: klyvöppning
+    sw: Stomata
+    ta: இலை துளை
+    th: ปากใบ
+    tl: Stoma
+    tr: Stoma
+    uk: продих
+    vi: Khí khổng
+    wuu: 气孔
+    yue: 氣窿
+    zh: 气孔
+    zh-cn: 气孔
+    zh-hans: 气孔
+    zh-hant: 氣孔
+    zh-hk: 氣孔
+    zh-sg: 气孔
+    zh-tw: 氣孔
 ---
-
 # [[Stomata]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Stomata,216635|WD~Stomata,216635]]  

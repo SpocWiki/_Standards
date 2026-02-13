@@ -1,9 +1,107 @@
 ---
 aliases:
-  - Dolores O'Riordan
-  - Dolores_O'Riordan
+- Dolores Ní Ríordáin
+- Dolores O'Riordan
+- Dolores O’Riordan
+- Dolores O’Riordanová
+- Doloresa O'Riordana
+- Dolores_O'Riordan
+- Ντολόρες Ο' Ρίορνταν
+- Далорэс О’Рыардан
+- Далорэс О’Рыярдан
+- Долорес О'Ріордан
+- Долорес О'Риордан
+- Долорес О’Риордан
+- Долорес О’Риърдън
+- Դոլորես Օ’Ռիորդան
+- Տոլորես Օ'Րիորտան
+- דולורס או'ריורדן
+- دلارس اریوردن
+- دولوريس أوريوردان
+- دولوريس اوريوردان
+- โดโลเรส โอ’ริออร์แดน
+- დოლორეს ო’რიორდანი
+- ドロレス・オリオーダン
+- 多洛丝·奥瑞沃丹
+- 多洛麗絲·奧里奧丹
+- 돌로레스 오리오던
+has_id_wikidata: Q541599
+dv_has_:
+  name_:
+    ar: دولوريس أوريوردان
+    arz: دولوريس اوريوردان
+    ast: Dolores O'Riordan
+    az: Dolores O'Riordan
+    azb: دلارس اریوردن
+    be: Далорэс О’Рыардан
+    be-tarask: Далорэс О’Рыярдан
+    bg: Долорес О’Риърдън
+    br: Dolores O'Riordan
+    ca: Dolores O'Riordan
+    cs: Dolores O’Riordanová
+    cy: Dolores O'Riordan
+    da: Dolores O'Riordan
+    de: Dolores O’Riordan
+    el: Ντολόρες Ο' Ρίορνταν
+    eml: Dolores O'Riordan
+    en: Dolores O'Riordan
+    en-ca: Dolores O'Riordan
+    en-gb: Dolores O'Riordan
+    eo: Dolores O'Riordan
+    es: Dolores O'Riordan
+    et: Dolores O'Riordan
+    eu: Dolores O'Riordan
+    fa: دلارس اریوردن
+    fi: Dolores O’Riordan
+    fr: Dolores O'Riordan
+    frp: Dolores O'Riordan
+    ga: Dolores Ní Ríordáin
+    gl: Dolores O'Riordan
+    he: דולורס או'ריורדן
+    hr: Dolores O'Riordan
+    hsb: Dolores O'Riordan
+    hu: Dolores O’Riordan
+    hy: Դոլորես Օ’Ռիորդան
+    hyw: Տոլորես Օ'Րիորտան
+    id: Dolores O'Riordan
+    io: Dolores O'Riordan
+    is: Dolores O'Riordan
+    it: Dolores O'Riordan
+    ja: ドロレス・オリオーダン
+    ka: დოლორეს ო’რიორდანი
+    ko: 돌로레스 오리오던
+    ky: Dolores O'Riordan
+    lb: Dolores O’Riordan
+    lt: Dolores O'Riordan
+    lv: Doloresa O'Riordana
+    mk: Долорес О’Риордан
+    ms: Dolores O'Riordan
+    mul: Dolores O'Riordan
+    nah: Dolores O'Riordan
+    nb: Dolores O'Riordan
+    nl: Dolores O'Riordan
+    nn: Dolores O'Riordan
+    pl: Dolores O’Riordan
+    pms: Dolores O'Riordan
+    pt: Dolores O'Riordan
+    pt-br: Dolores O'Riordan
+    ro: Dolores O'Riordan
+    ru: Долорес О’Риордан
+    sk: Dolores O’Riordan
+    sl: Dolores O'Riordan
+    sq: Dolores O'Riordan
+    sr: Долорес О'Риордан
+    sv: Dolores O'Riordan
+    szl: Dolores O’Riordan
+    th: โดโลเรส โอ’ริออร์แดน
+    tr: Dolores O'Riordan
+    uk: Долорес О'Ріордан
+    uz: Dolores O'Riordan
+    vi: Dolores O'Riordan
+    wuu: 多洛丝·奥瑞沃丹
+    yue: 多洛麗絲·奧里奧丹
+    zh: 多洛丝·奥瑞沃丹
 ---
-
 # [[O'Riordan,Dolores]] 
 
 

@@ -1,46 +1,180 @@
 ---
 aliases:
-  - Politik
-  - Politics
+- Amanyɔsɛm
+- Bolit
+- Cemitquimatiliztli
+- chèng-tī
+- chính trị
+- Chṳn-chhṳ
+- Civilitas
+- Cwngci
+- céng-dê
+- Ezombusazwe
+- gwleidyddiaeth
+- Jokuaikuaa
+- Kawpay
+- kālaiʻāina
+- mahi tōrangapū
+- Matongerwo eNyika
+- Palitix
+- plajva
+- poileataigeachd
+- polaitíocht
+- poleetics
+- Poliitiga
+- poliitika
+- politega
+- Politegieth
+- politica
+- Politiche
+- politickaght
+- Politics
+- Politicâ
+- politică
+- politiek
+- Politiekku
+- Politig
+- politihke
+- politihkka
+- politiik
+- politiikka
+- politijjka
+- Politik
+- politika
+- Politike
+- Politikerezh
+- Politiki
+- Politikis
+- politikk
+- Politikki
+- politikkur
+- politiko
+- Politiks
+- politikë
+- politique
+- polityk
+- polityka
+- Politíki
+- Polìtica
+- polìtiga
+- Política
+- Polítika
+- pulitica
+- pulitik
+- pulìtica
+- Puolitėka
+- Pułìtega
+- Rajniti
+- siasa
+- Sijosət
+- siyaasadda
+- siyasa
+- siyasat
+- siyaset
+- siyasət
+- Siyosat
+- stjórnmál
+- Syýasat
+- Tasertit
+- Tasrtit
+- Tohodidọ
+- Wealdcræft
+- òṣèlú
+- πολιτική
+- τὰ πολιτικά
+- палітыка
+- політіка
+- політика
+- полїтїка
+- политикæ
+- политика
+- политике
+- Политиксь
+- саясат
+- сиёсат
+- Сәйәсәт
+- сәясәт
+- Улас түрэ
+- улс төр
+- քաղաքականութիւն
+- քաղաքականություն
+- פאליטיק
+- פוליטיקה
+- السياسة
+- سياسة
+- سياست
+- سياسه
+- سِیاسَتھ
+- سیاست
+- سیاسەت
+- ڤوليتيک
+- ߓߘߍ߬ߓߘߍ߬ߟߌ
+- अरचियल्
+- राजकारण
+- राजनीति
+- राजनीतिः
+- রাজনীতি
+- ৰাজনীতি
+- ਰਾਜਨੀਤੀ
+- அரசியல்
+- రాజకీయాలు
+- ರಾಜಕೀಯ
+- രാഷ്ട്രതന്ത്രം
+- දේශපාලනය
+- การเมือง
+- ການເມືອງ
+- ཆབ་སྲིད་ཀྱི།
+- ခမ်းထီရေꩻ
+- နိုင်ငံရေး
+- ပၢႆးမိူင်း
+- პოლიტიკა
+- ፖለቲካ
+- ᎠᏙᎩᏯᏛ
+- នយោបាយ
+- ᡩᠠᠰᠠᠨ
+- ᱨᱟᱡᱽᱟᱹᱨᱤ
+- ⵜⴰⵙⵔⵜⵉⵜ
+- 政治
+- 정치
 has_id_wikidata: Q7163
 practiced_by:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~citizen,1020994]]'
-  - '[[_Standards/WikiData/WD~village_chief,113958153]]'
-  - '[[_Standards/WikiData/WD~professional_politician,116806372]]'
-  - '[[_Standards/WikiData/WD~political_fixer,134706682]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~citizen,1020994]]'
+- '[[_Standards/WikiData/WD~village_chief,113958153]]'
+- '[[_Standards/WikiData/WD~professional_politician,116806372]]'
+- '[[_Standards/WikiData/WD~political_fixer,134706682]]'
 has_part_s_: '[[_Standards/WikiData/WD~public_policy,546113]]'
 described_by_source:
-  - '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~political_sociology,745692]]'
-  - '[[_Standards/WikiData/WD~political_history,1147507]]'
-  - '[[_Standards/WikiData/WD~interaction_science,97008347]]'
-  - '[[_Standards/WikiData/WD~political_science,36442]]'
+- '[[_Standards/WikiData/WD~political_sociology,745692]]'
+- '[[_Standards/WikiData/WD~political_history,1147507]]'
+- '[[_Standards/WikiData/WD~interaction_science,97008347]]'
+- '[[_Standards/WikiData/WD~political_science,36442]]'
 history_of_topic:
-  - '[[_Standards/WikiData/WD~political_history,1147507]]'
-  - '[[_Standards/WikiData/WD~music_and_politics,2094308]]'
+- '[[_Standards/WikiData/WD~political_history,1147507]]'
+- '[[_Standards/WikiData/WD~music_and_politics,2094308]]'
 different_from: '[[_Standards/WikiData/WD~policy,1156854]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
-  - '[[_Standards/WikiData/WD~group_behaviour,3482410]]'
-  - '[[_Standards/WikiData/WD~adversarial_process,4686698]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~group_behaviour,3482410]]'
+- '[[_Standards/WikiData/WD~adversarial_process,4686698]]'
 opposite_of: '[[_Standards/WikiData/WD~non_politics,7048979]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Politics,8133239]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Politics_sidebar,11171406]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 Dewey_Decimal_Classification:
-  - 320
-  - 324
+- 320
+- 324
 IAB_code:
-  - 386
-  - 379
+- 386
+- 379
 Universal_Decimal_Classification: 32
 OmegaWiki_Defined_Meaning: 2855
 Commons_category: Politics
@@ -50,14 +184,266 @@ GitHub_topic: politics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20828797%20Mikhail%20Gorbachev%20addressing%20UN%20General%20Assembly%20session.jpg
 Stack_Exchange_site_URL: https://politics.stackexchange.com
 Provenio_UUID:
-  - 7989842b-c5e5-4b7a-beca-0eff78eb3b5f
-  - a15695f2-0df0-4901-b9f0-a6534b785997
+- 7989842b-c5e5-4b7a-beca-0eff78eb3b5f
+- a15695f2-0df0-4901-b9f0-a6534b785997
 MeSH_tree_code: I01.738
 IPTC_NewsCode: mediatopic/11000000
 subreddit: NeutralPolitics
 Archive_of_Our_Own_tag: Political RPF
+dv_has_:
+  name_:
+    af: politiek
+    ak: Amanyɔsɛm
+    alt: политика
+    am: ፖለቲካ
+    an: Politica
+    ang: Wealdcræft
+    ar: السياسة
+    ary: سياسة
+    arz: سياسه
+    as: ৰাজনীতি
+    ast: política
+    awa: राजनीति
+    az: siyasət
+    azb: سیاست
+    ba: Сәйәсәт
+    bar: Politik
+    bcl: Politika
+    be: палітыка
+    be-tarask: палітыка
+    bg: политика
+    bho: राजनीति
+    blk: ခမ်းထီရေꩻ
+    bm: Politiki
+    bn: রাজনীতি
+    bo: ཆབ་སྲིད་ཀྱི།
+    bpy: রাজনীতি
+    br: Politikerezh
+    bs: politika
+    btm: Politik
+    bxr: Улас түрэ
+    ca: política
+    cdo: céng-dê
+    ce: Политика
+    ceb: Politika
+    ch: Politika
+    chr: ᎠᏙᎩᏯᏛ
+    ckb: سیاسەت
+    co: pulitica
+    crh: siyaset
+    cs: politika
+    cu: полїтїка
+    cv: политика
+    cy: gwleidyddiaeth
+    da: politik
+    de: Politik
+    diq: Siyaset
+    el: πολιτική
+    en: politics
+    eo: politiko
+    es: política
+    et: poliitika
+    eu: politika
+    ext: Política
+    fa: سیاست
+    fi: politiikka
+    fo: politikkur
+    fr: politique
+    frp: Politica
+    frr: Politiik
+    fur: Politiche
+    fy: polityk
+    ga: polaitíocht
+    gcr: Politik
+    gd: poileataigeachd
+    gl: política
+    gn: Jokuaikuaa
+    gpe: politics
+    grc: τὰ πολιτικά
+    gsw: Politik
+    guw: Tohodidọ
+    gv: politickaght
+    ha: siyasa
+    hak: Chṳn-chhṳ
+    haw: kālaiʻāina
+    he: פוליטיקה
+    hi: राजनीति
+    hif: Rajniti
+    hr: politika
+    hsb: politika
+    ht: politik
+    hu: politika
+    hy: քաղաքականություն
+    hyw: քաղաքականութիւն
+    ia: politica
+    iba: Politik
+    id: politik
+    ie: politica
+    ilo: Politika
+    inh: Политика
+    io: politiko
+    is: stjórnmál
+    it: politica
+    ja: 政治
+    jam: Palitix
+    jbo: plajva
+    jv: pulitik
+    ka: პოლიტიკა
+    kaa: siyasat
+    kab: Tasertit
+    kk: саясат
+    kl: Politikki
+    km: នយោបាយ
+    kn: ರಾಜಕೀಯ
+    knc: Politics
+    ko: 정치
+    krc: Политика
+    ks: سِیاسَتھ
+    ku: siyaset
+    ku-latn: siyaset
+    kw: Politegieth
+    ky: Саясат
+    la: Civilitas
+    lad: Politika
+    lb: Politik
+    lfn: politica
+    li: Politiek
+    lij: Politica
+    lld: Politica
+    lmo: politega
+    ln: Politíki
+    lo: ການເມືອງ
+    lt: politika
+    lv: politika
+    mad: Politik
+    mai: राजनीति
+    mdf: Политиксь
+    mg: Politika
+    mhr: политике
+    mi: mahi tōrangapū
+    min: Politik
+    mk: политика
+    ml: രാഷ്ട്രതന്ത്രം
+    mn: улс төр
+    mnc: ᡩᠠᠰᠠᠨ
+    mr: राजकारण
+    ms: politik
+    ms-arab: ڤوليتيک
+    mt: politika
+    mwl: Política
+    my: နိုင်ငံရေး
+    mzn: سیاست
+    nah: Cemitquimatiliztli
+    nan: chèng-tī
+    nap: Politica
+    nb: politikk
+    nds: Politik
+    nds-nl: politiek
+    ne: राजनीति
+    new: अरचियल्
+    nl: politiek
+    nn: politikk
+    nov: politike
+    nqo: ߓߘߍ߬ߓߘߍ߬ߟߌ
+    nrm: politique
+    oc: politica
+    olo: Politiekku
+    os: политикæ
+    pa: ਰਾਜਨੀਤੀ
+    pam: polítika
+    pap: polítika
+    pcd: politike
+    pcm: Politiks
+    pl: polityka
+    pms: Polìtica
+    pnb: سیاست
+    ps: سياست
+    pt: política
+    pt-br: política
+    qu: Kawpay
+    rm: Politica
+    ro: politică
+    ru: политика
+    rue: політіка
+    rup: Politicâ
+    sa: राजनीतिः
+    sah: Политика
+    sat: ᱨᱟᱡᱽᱟᱹᱨᱤ
+    sc: polìtiga
+    scn: pulìtica
+    sco: poleetics
+    sd: سياست
+    se: politihkka
+    sgs: Puolitėka
+    sh: politika
+    shi: Tasrtit
+    shn: ပၢႆးမိူင်း
+    si: දේශපාලනය
+    sjd: политика
+    sje: politijjka
+    sk: politika
+    sl: politika
+    sma: politihke
+    smj: politihkka
+    smn: politiik
+    sms: politikk
+    sn: Matongerwo eNyika
+    so: siyaasadda
+    sq: politikë
+    sr: политика
+    sr-ec: политика
+    stq: Politik
+    su: pulitik
+    sv: politik
+    sw: siasa
+    szl: polityka
+    ta: அரசியல்
+    te: రాజకీయాలు
+    tet: Polítika
+    tg: сиёсат
+    th: การเมือง
+    ti: ፖለቲካ
+    tk: Syýasat
+    tl: politika
+    tly: Sijosət
+    tpi: Politikis
+    tr: siyaset
+    ts: Politiki
+    tt: сәясәт
+    tt-cyrl: сәясәт
+    tyv: Политика
+    udm: политика
+    uk: політика
+    ur: سیاست
+    uz: Siyosat
+    vec: Pułìtega
+    vep: Politik
+    vi: chính trị
+    vls: politiek
+    vo: Bolit
+    vro: Poliitiga
+    wa: Politike
+    war: Politika
+    wo: Politig
+    wuu: 政治
+    xmf: პოლიტიკა
+    yi: פאליטיק
+    yo: òṣèlú
+    yue: 政治
+    za: Cwngci
+    zea: Politiek
+    zgh: ⵜⴰⵙⵔⵜⵉⵜ
+    zh: 政治
+    zh-cn: 政治
+    zh-hans: 政治
+    zh-hant: 政治
+    zh-hk: 政治
+    zh-mo: 政治
+    zh-my: 政治
+    zh-sg: 政治
+    zh-tw: 政治
+    zu: Ezombusazwe
 ---
-
 # [[Politics]] 
 
 #is_/same_as :: [[../WikiData/WD~Politics,7163|WD~Politics,7163]] 

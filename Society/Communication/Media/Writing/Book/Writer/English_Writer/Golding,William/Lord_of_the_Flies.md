@@ -1,20 +1,73 @@
 ---
-has_time_started: 1954-01-01 
+has_time_started: 1954-01-01
 aliases:
-  - Lord of the Flies
-  - Lord_of_the_Flies
+- A Legyek Ura
+- Boh múch
+- Chúa Ruồi
+- El senyor de les mosques
+- El señor de las moscas
+- Eulien Jauna
+- Fluenes herre
+- Fluernes Herre
+- Flugornas herre
+- Gospodar muva
+- Heer der vliegen
+- Herr der Fliegen
+- Il signore delle mosche
+- Jiomaik ke nefteem (suterot)
+- Kärbeste jumal
+- Kärpästen herra
+- La Mastro de la Muŝoj
+- Le Domino del Muscas
+- Lord of the Flies
+- Lord_of_the_Flies
+- Milçəklər tanrısı
+- Musių valdovas
+- Mušu valdnieks
+- O Senhor das Moscas
+- O Señor das moscas
+- Pán much
+- Sa Majesté des mouches
+- Sineklerin Tanrısı
+- Sua Majesto di mushi
+- tapang nu lalangaw
+- Władca much
+- Împăratul muștelor
+- Ο άρχοντας των μυγών
+- Валадар мух
+- Володар мух
+- Господар мува
+- Господарот на мувите
+- Повелитель мух
+- Повелителят на мухите
+- Чымындардын төрөсү
+- Ճանճերի տերը
+- בעל זבוב
+- أمير الذباب
+- سالار مگسها
+- लर्ड अफ द फ्लाइज
+- लॉर्ड ऑफ़ द फ़्लाइज़
+- লর্ড অব দ্য ফ্লাইজ
+- லார்ட் ஆஃப் தி ஃபிலைச
+- లార్డ్ ఆఫ్ ది ఫ్లైస్
+- ലോഡ് ഓഫ് ദ ഫ്ലൈസ്
+- ბუზთა ბატონი
+- 蒼蠅王
+- 蝇王
+- 蝿の王
+- 파리 대왕
 has_id_wikidata: Q271764
 genre:
-  - '[[_Standards/WikiData/WD~robinsonade,279060]]'
-  - '[[_Standards/WikiData/WD~allegory,2839016]]'
-  - '[[_Standards/WikiData/WD~dystopian_fiction,15062348]]'
-  - '[[_Standards/WikiData/WD~young_adult_fiction,111984153]]'
-  - '[[_Standards/WikiData/WD~science_fiction,24925]]'
+- '[[_Standards/WikiData/WD~robinsonade,279060]]'
+- '[[_Standards/WikiData/WD~allegory,2839016]]'
+- '[[_Standards/WikiData/WD~dystopian_fiction,15062348]]'
+- '[[_Standards/WikiData/WD~young_adult_fiction,111984153]]'
+- '[[_Standards/WikiData/WD~science_fiction,24925]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,386245]]'
-  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,598096]]'
-  - '[[_Standards/WikiData/WD~Alkitrang_dugo,4727718]]'
-  - '[[_Standards/WikiData/WD~Lord_of_the_Flies,130241340]]'
+- '[[_Standards/WikiData/WD~Lord_of_the_Flies,386245]]'
+- '[[_Standards/WikiData/WD~Lord_of_the_Flies,598096]]'
+- '[[_Standards/WikiData/WD~Alkitrang_dugo,4727718]]'
+- '[[_Standards/WikiData/WD~Lord_of_the_Flies,130241340]]'
 different_from: '[[_Standards/WikiData/WD~Lord_of_the_Flies,408353]]'
 publisher: '[[_Standards/WikiData/WD~Faber_&_Faber,898097]]'
 cover_art_by: '[[_Standards/WikiData/WD~Anthony_Gross,4772637]]'
@@ -37,8 +90,71 @@ name_in_kana: はえのおう
 last_line: He turned away to give them time to pull themselves together; and waited, allowing his eyes to rest on the trim cruiser in the distance.
 first_line: The boy with fair hair lowered himself down the last few feet of rock and began to pick his way toward the lagoon.
 Wolfram_Language_entity_code: Entity["Book", "LordOfTheFlies"]
+dv_has_:
+  name_:
+    ar: أمير الذباب
+    avk: Jiomaik ke nefteem (suterot)
+    az: Milçəklər tanrısı
+    be: Валадар мух
+    be-tarask: Валадар мух
+    bg: Повелителят на мухите
+    bn: লর্ড অব দ্য ফ্লাইজ
+    ca: El senyor de les mosques
+    cs: Pán much
+    da: Fluernes Herre
+    de: Herr der Fliegen
+    el: Ο άρχοντας των μυγών
+    en: Lord of the Flies
+    eo: La Mastro de la Muŝoj
+    es: El señor de las moscas
+    et: Kärbeste jumal
+    eu: Eulien Jauna
+    fa: سالار مگسها
+    fi: Kärpästen herra
+    fr: Sa Majesté des mouches
+    ga: Lord of the Flies
+    gl: O Señor das moscas
+    he: בעל זבוב
+    hi: लॉर्ड ऑफ़ द फ़्लाइज़
+    hu: A Legyek Ura
+    hy: Ճանճերի տերը
+    ia: Le Domino del Muscas
+    id: Lord of the Flies
+    io: Sua Majesto di mushi
+    it: Il signore delle mosche
+    ja: 蝿の王
+    ka: ბუზთა ბატონი
+    ko: 파리 대왕
+    ky: Чымындардын төрөсү
+    lt: Musių valdovas
+    lv: Mušu valdnieks
+    mk: Господарот на мувите
+    ml: ലോഡ് ഓഫ് ദ ഫ്ലൈസ്
+    nb: Fluenes herre
+    ne: लर्ड अफ द फ्लाइज
+    nl: Heer der vliegen
+    pl: Władca much
+    pt: O Senhor das Moscas
+    ro: Împăratul muștelor
+    ru: Повелитель мух
+    sk: Boh múch
+    sr: Gospodar muva
+    sr-ec: Господар мува
+    sr-el: Gospodar muva
+    sv: Flugornas herre
+    szy: tapang nu lalangaw
+    ta: லார்ட் ஆஃப் தி ஃபிலைச
+    te: లార్డ్ ఆఫ్ ది ఫ్లైస్
+    tr: Sineklerin Tanrısı
+    uk: Володар мух
+    vi: Chúa Ruồi
+    zh: 蝇王
+    zh-cn: 蝇王
+    zh-hans: 蝇王
+    zh-hant: 蒼蠅王
+    zh-sg: 蝇王
+    zh-tw: 蒼蠅王
 ---
-
 # [[Lord_of_the_Flies]] 
 
 #is_a_/novel 

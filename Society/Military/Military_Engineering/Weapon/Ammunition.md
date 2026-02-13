@@ -1,36 +1,201 @@
 ---
 aliases:
-  - Munition
-  - Ammunition
+- ammuneetion
+- ammunisie
+- ammunisjon
+- Ammunition
+- Ampumatarvike
+- amunicija
+- amunicja
+- Amunisi
+- Amunisyon
+- armlón
+- ffrwydron rhyfel
+- lahingumoon
+- Lisási
+- lőszer
+- Minisyon
+- municija
+- municio
+- Municion
+- Municiono
+- munició
+- munición
+- Munision
+- Munission
+- munitie
+- Munition
+- Munitioun
+- Munizio
+- munizione
+- munizzioni
+- munição
+- muniție
+- Munysje
+- Munícia
+- munīcija
+- Mühimmat
+- Oq-däriler
+- Peluru
+- Skotfæri
+- strelivo
+- Streljivo
+- střelivo
+- đạn dược
+- πυρομαχικό
+- Амуници
+- боєприпаси
+- боевые припасы
+- Боеприпаси
+- боепрыпас
+- муниција
+- ок-дары
+- Оқ-дәрілер
+- стреливо
+- զինամթերք
+- תחמושת
+- ذخيرة
+- مهمات
+- وق-دارىلەر
+- گوللە
+- گولہ بارود
+- गोला-बारूद
+- গোলা
+- ਅਸਲਾ
+- ಯುದ್ಧಸಾಮಗ್ರಿ
+- അമ്മ്യൂനീഷൻ
+- ခဲယမ်းမီးကျောက်
+- မၢၵ်ႇမိုဝ်ႉၸိုၼ်းယၢမ်း
+- ᏗᏍᏓᏲᏍᏙᏗ
+- 弹药
+- 弾薬
+- 彈藥
+- 탄약
 has_id_wikidata: Q185785
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~disposable_product,1194058]]"
-  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
-  - "[[_Standards/WikiData/WD~weapon,728]]"
+- '[[_Standards/WikiData/WD~disposable_product,1194058]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
+- '[[_Standards/WikiData/WD~weapon,728]]'
 used_by:
-  - "[[_Standards/WikiData/WD~projectile_weapon,1194773]]"
-  - "[[_Standards/WikiData/WD~firearm,12796]]"
+- '[[_Standards/WikiData/WD~projectile_weapon,1194773]]'
+- '[[_Standards/WikiData/WD~firearm,12796]]'
 location:
-  - "[[_Standards/WikiData/WD~ammunition_box,1953318]]"
-  - "[[_Standards/WikiData/WD~ammunition_dump,2153495]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~military_equipment,18643213]]"
-instance_of: "[[_Standards/WikiData/WD~weapon_type,124078422]]"
+- '[[_Standards/WikiData/WD~ammunition_box,1953318]]'
+- '[[_Standards/WikiData/WD~ammunition_dump,2153495]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~military_equipment,18643213]]'
+instance_of: '[[_Standards/WikiData/WD~weapon_type,124078422]]'
 main_Wikidata_property: ammunition
 social_media_followers: 25885
-Nomenclature_for_Museum_Cataloging: "7735"
+Nomenclature_for_Museum_Cataloging: 7735
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20close%20up%20of%200.50%20Caliber%20%2812.7%20mm%29%20Browning%20Ball%20M33%20Ammunition%20loaded%20onto%20a%20Browning%20M2%20HB%200.50%20caliber%20heavy%20machine.JPEG
 IMDb_keyword: ammunition
-U_S_National_Archives_Identifier: "10639346"
+U_S_National_Archives_Identifier: 10639346
 Dewey_Decimal_Classification:
-  - "623.45"
-  - "355.825"
+- 623.45
+- 355.825
 subreddit: ammo
 Iconclass_notation: 45C161
 Commons_gallery: Ammunition
 short_name: Mun.
+dv_has_:
+  name_:
+    af: ammunisie
+    ar: ذخيرة
+    ast: Munición
+    be: боепрыпас
+    be-tarask: боепрыпас
+    bg: Боеприпаси
+    bn: গোলা
+    br: Munision
+    bxr: Амуници
+    ca: munició
+    chr: ᏗᏍᏓᏲᏍᏙᏗ
+    ckb: گوللە
+    co: Munizione
+    cs: střelivo
+    cy: ffrwydron rhyfel
+    da: ammunition
+    de: Munition
+    el: πυρομαχικό
+    en: ammunition
+    eo: municio
+    es: munición
+    et: lahingumoon
+    eu: Munizio
+    fa: مهمات
+    fi: Ampumatarvike
+    fr: munition
+    fy: Munysje
+    ga: armlón
+    gl: munición
+    he: תחמושת
+    hi: गोला-बारूद
+    hr: Streljivo
+    ht: Minisyon
+    hu: lőszer
+    hy: զինամթերք
+    iba: Peluru
+    id: Amunisi
+    io: Municiono
+    is: Skotfæri
+    it: munizione
+    ja: 弾薬
+    kk: Оқ-дәрілер
+    kk-arab: وق-دارىلەر
+    kk-cn: وق-دارىلەر
+    kk-cyrl: Оқ-дәрілер
+    kk-kz: Оқ-дәрілер
+    kk-latn: Oq-däriler
+    kk-tr: Oq-däriler
+    kn: ಯುದ್ಧಸಾಮಗ್ರಿ
+    ko: 탄약
+    ky: ок-дары
+    lb: Munitioun
+    ln: Lisási
+    lt: amunicija
+    lv: munīcija
+    mk: стреливо
+    ml: അമ്മ്യൂനീഷൻ
+    ms: Amunisi
+    my: ခဲယမ်းမီးကျောက်
+    nb: ammunisjon
+    nl: munitie
+    nn: Ammunisjon
+    oc: Municion
+    pa: ਅਸਲਾ
+    pl: amunicja
+    pms: Munission
+    pt: munição
+    pt-br: munição
+    ro: muniție
+    ru: боевые припасы
+    scn: munizzioni
+    sco: ammuneetion
+    sh: Municija
+    shn: မၢၵ်ႇမိုဝ်ႉၸိုၼ်းယၢမ်း
+    sk: Munícia
+    sl: strelivo
+    sq: municion
+    sr: муниција
+    sr-ec: муниција
+    sr-el: municija
+    sv: ammunition
+    tl: Amunisyon
+    tr: Mühimmat
+    uk: боєприпаси
+    ur: گولہ بارود
+    vi: đạn dược
+    wuu: 弹药
+    yue: 彈藥
+    zh: 彈藥
+    zh-cn: 弹药
+    zh-hans: 弹药
+    zh-hant: 彈藥
+    zh-hk: 彈藥
+    zh-sg: 弹药
+    zh-tw: 彈藥
 ---
-
 # [[Ammunition]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ammunition,185785|WD~Ammunition,185785]] 

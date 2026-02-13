@@ -1,30 +1,148 @@
 ---
 aliases:
+- Kiwiano
+- modeemi
+- modem
+- Modemas
+- Modemi
+- modemo
+- Modems
+- Modèm
+- mòdem
+- módem
+- móideim
+- Mótald
+- pouwhanga
+- Μόντεμ
+- Мадэм
+- модем
+- מאדעם
+- מודם
+- تضمیلاصہ
+- مودم
+- مۆدێم
+- मॉडेम
+- মডেম
+- ਮੋਡਮ
+- મોડમ
+- இணக்கி
+- మోడెమ్
+- മോഡം
+- โมเด็ม
+- モデム
+- 數據機
+- 调制解调器
+- 모뎀
 has_id_wikidata: Q5607
-has_use: "[[_Standards/WikiData/WD~data_transmission,389772]]"
+has_use: '[[_Standards/WikiData/WD~data_transmission,389772]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~data_circuit_terminating_equipment,1142912]]"
-  - "[[_Standards/WikiData/WD~telecommunications_device,1780509]]"
-  - "[[_Standards/WikiData/WD~electronic_device,2858615]]"
-different_from: "[[_Standards/WikiData/WD~null_modem,1930032]]"
-Nomenclature_for_Museum_Cataloging: "10537"
+- '[[_Standards/WikiData/WD~data_circuit_terminating_equipment,1142912]]'
+- '[[_Standards/WikiData/WD~telecommunications_device,1780509]]'
+- '[[_Standards/WikiData/WD~electronic_device,2858615]]'
+different_from: '[[_Standards/WikiData/WD~null_modem,1930032]]'
+Nomenclature_for_Museum_Cataloging: 10537
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ARRIS%20CM820B%20DOCSIS%20Cable%20Modem.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dial%20up%20connection.ogg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Gnome-modem.svg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03777754-n
-  - http://wordnet-rdf.princeton.edu/wn31/103736610-n
+- http://wordnet-rdf.princeton.edu/wn30/03777754-n
+- http://wordnet-rdf.princeton.edu/wn31/103736610-n
 Stack_Exchange_tag: https://stackoverflow.com/tags/modem
-UNSPSC_Code: "43222628"
-Iconclass_notation: "46E673"
+UNSPSC_Code: 43222628
+Iconclass_notation: 46E673
 MCN_code: 8517.62.55
 UMLS_CUI: C0011007
 MeSH_tree_code:
-  - L01.224.230.260.115.750
-  - L01.462.500.847.698.500
+- L01.224.230.260.115.750
+- L01.462.500.847.698.500
 Commons_category: Modems
+dv_has_:
+  name_:
+    af: Modem
+    ar: مودم
+    az: Modem
+    azb: مودم
+    be: Мадэм
+    be-tarask: Мадэм
+    bg: Модем
+    bn: মডেম
+    bs: Modem
+    ca: mòdem
+    ckb: مۆدێم
+    cs: Modem
+    da: modem
+    de: Modem
+    el: Μόντεμ
+    en: modem
+    eo: modemo
+    es: módem
+    et: Modem
+    eu: Modem
+    fa: مودم
+    fi: modeemi
+    fr: modem
+    ga: móideim
+    gl: Módem
+    gu: મોડમ
+    he: מודם
+    hi: मॉडेम
+    hr: Modem
+    hu: modem
+    id: Modem
+    io: Modemo
+    is: Mótald
+    it: modem
+    ja: モデム
+    jv: Modem
+    kk: Модем
+    ko: 모뎀
+    krc: Модем
+    ky: Модем
+    lb: Modem
+    lmo: Modem
+    lt: Modemas
+    lv: Modems
+    mhr: Модем
+    mi: pouwhanga
+    mk: Модем
+    ml: മോഡം
+    mn: Модем
+    ms: Modem
+    mul: modem
+    nb: modem
+    nl: modem
+    nn: modem
+    oc: Modèm
+    pa: ਮੋਡਮ
+    pl: Modem
+    pt: modem
+    pt-br: Modem
+    ro: Modem
+    ru: модем
+    sah: Модем
+    sco: modem
+    sh: Modem
+    sk: Modem
+    sl: modem
+    sq: Modemi
+    sr: модем
+    su: Modem
+    sv: modem
+    sw: Kiwiano
+    ta: இணக்கி
+    te: మోడెమ్
+    tg: Модем
+    th: โมเด็ม
+    tr: Modem
+    uk: Модем
+    ur: تضمیلاصہ
+    vec: Modem
+    vi: Modem
+    wuu: 调制解调器
+    yi: מאדעם
+    yue: 數據機
+    zh: 调制解调器
 ---
-
 # [[Modem]] 
 
 #is_/same_as :: [[WD~Modem,5607]]

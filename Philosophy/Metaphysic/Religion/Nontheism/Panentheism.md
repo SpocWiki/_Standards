@@ -1,14 +1,110 @@
 ---
 aliases:
+- panenteism
+- panenteisma
+- panenteisme
+- panenteismi
+- panenteismm
+- panenteismo
+- panenteismus
+- panenteizam
+- Panenteizm
+- panenteizmas
+- panenteizmus
+- panenteísmo
+- panenteísmu
+- panenteïsme
+- Panentheism
+- panentheismo
+- Panentheismus
+- panentheïsme
+- panenthéisme
+- Thuyết toàn thần
+- Πανενθεϊσμός
+- панентеїзм
+- панентеизам
+- панентеизм
+- панэнтэізм
+- פנאנתאיזם
+- خدافراگیردانی
+- وحدة الموجود
+- ھمہ از اوست
+- सर्वेश्वरवाद
+- সর্বজনীনতাবাদ
+- สรรพัชฌัตเทวนิยม
+- 万有内在神論
+- 超泛神論
+- 내재신론
 has_id_wikidata: Q221390
-subclass_of: "[[_Standards/WikiData/WD~theism,620805]]"
-different_from: "[[_Standards/WikiData/WD~pantheism,728455]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-instance_of: "[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]"
+subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
+different_from: '[[_Standards/WikiData/WD~pantheism,728455]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~philosophical_schools_and_traditions,12765852]]'
 IMDb_keyword: panentheism
 PhilPapers_topic: panentheism
+dv_has_:
+  name_:
+    af: panenteïsme
+    ar: وحدة الموجود
+    ast: panenteísmu
+    az: Panenteizm
+    be-tarask: панэнтэізм
+    bn: সর্বজনীনতাবাদ
+    ca: panenteisme
+    cs: panenteismus
+    da: panenteisme
+    de: Panentheismus
+    el: Πανενθεϊσμός
+    en: Panentheism
+    en-ca: panentheism
+    en-gb: panentheism
+    eo: panenteismo
+    es: panenteísmo
+    eu: panenteismo
+    fa: خدافراگیردانی
+    fi: panenteismi
+    fr: panenthéisme
+    fy: Panenteïsme
+    gl: panenteísmo
+    he: פנאנתאיזם
+    hi: सर्वेश्वरवाद
+    hu: panenteizmus
+    ia: panentheismo
+    id: panenteisme
+    io: Panenteismo
+    it: panenteismo
+    ja: 万有内在神論
+    ko: 내재신론
+    la: panentheismus
+    lt: panenteizmas
+    mg: panenteisma
+    mk: панентеизам
+    mwl: panenteísmo
+    nb: panenteisme
+    nds-nl: panentheïsme
+    nl: panentheïsme
+    pl: panenteizm
+    pt: panenteísmo
+    pt-br: panenteísmo
+    ro: panenteism
+    ru: панентеизм
+    sd: ھمہ از اوست
+    se: panenteisma
+    sh: panenteizam
+    sk: panenteizmus
+    smn: panenteism
+    sms: panenteismm
+    sr: Panenteizam
+    sv: panenteism
+    th: สรรพัชฌัตเทวนิยม
+    tr: Panenteizm
+    tt: панентеизм
+    uk: панентеїзм
+    ur: ھمہ از اوست
+    uz: Panenteizm
+    vi: Thuyết toàn thần
+    zh: 超泛神論
 ---
-
 # [[Panentheism]] 
 
 #is_/same_as :: [[WD~Panentheism,221390]] 

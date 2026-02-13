@@ -1,10 +1,124 @@
 ---
 aliases:
-  - Anthocerotophyta
-  - Hornwort
+- Anthocerotophyta
+- Antocerotoj
+- Antoserot
+- becősmohák
+- Boynuz otları
+- glewiki
+- hauwmossen
+- hlevíky
+- Horingblad
+- Hornblade
+- Hornmoose
+- Hornmosar
+- Hornwort
+- Hurnmöösk
+- Korndhelen
+- Kõdersammaltaimed
+- Lumut tanduk
+- Ngành Rêu sừng
+- nålfruktsmossor
+- Nålkapselmosar
+- Nålkapselmoser
+- rogovnjaki
+- Rožteky
+- sarvisammalet
+- Ylvaisainiai
+- антацэротавыя імхі
+- антоцеротовидні
+- антоцеротовидные
+- роговници
+- рогоспорангиеви мъхове
+- אנתוצרוטה
+- شاخواش
+- نباتات زهقرنية
+- نباتات زهقرنيه
+- ഹോൺവേർട്ട്
+- ฮอร์นเวิร์ต
+- ツノゴケ類
+- 角苔綱
+- 角苔纲
+- 角苔門
+- 角苔门
+- 뿔이끼류
 title: Anthocerotophyta
+has_id_wikidata: Q191156
+dv_has_:
+  name_:
+    af: Horingblad
+    an: Anthocerotophyta
+    ar: نباتات زهقرنية
+    arz: نباتات زهقرنيه
+    ast: Anthocerotophyta
+    az: Antoserot
+    be: антацэротавыя імхі
+    bg: рогоспорангиеви мъхове
+    ca: Anthocerotophyta
+    ceb: Anthocerotophyta
+    cs: hlevíky
+    cy: Anthocerotophyta
+    da: Hornblade
+    de: Hornmoose
+    en: Anthocerotophyta
+    eo: Antocerotoj
+    es: Anthocerotophyta
+    et: Kõdersammaltaimed
+    eu: Anthocerotophyta
+    ext: Anthocerotophyta
+    fa: شاخواش
+    fi: sarvisammalet
+    fr: Anthocerotophyta
+    frr: Hurnmöösk
+    ga: Anthocerotophyta
+    gl: Anthocerotophyta
+    he: אנתוצרוטה
+    hr: Anthocerotophyta
+    hu: becősmohák
+    ia: Anthocerotophyta
+    id: Lumut tanduk
+    ie: Anthocerotophyta
+    io: Anthocerotophyta
+    is: Hornmosar
+    it: Anthocerotophyta
+    ja: ツノゴケ類
+    ko: 뿔이끼류
+    kw: Korndhelen
+    la: Anthocerotophyta
+    lt: Ylvaisainiai
+    mk: роговници
+    ml: ഹോൺവേർട്ട്
+    mul: Anthocerotophyta
+    nb: Nålkapselmoser
+    nl: hauwmossen
+    nn: Nålkapselmosar
+    oc: Anthocerotophyta
+    pl: glewiki
+    pt: Anthocerotophyta
+    pt-br: Anthocerotophyta
+    ro: Anthocerotophyta
+    ru: антоцеротовидные
+    sh: Anthocerotophyta
+    sk: Rožteky
+    sl: rogovnjaki
+    sq: Anthocerotophyta
+    sv: nålfruktsmossor
+    th: ฮอร์นเวิร์ต
+    tl: Hornwort
+    tr: Boynuz otları
+    uk: антоцеротовидні
+    vi: Ngành Rêu sừng
+    vo: Anthocerotophyta
+    war: Anthocerotophyta
+    yue: 角苔門
+    zh: 角苔门
+    zh-cn: 角苔纲
+    zh-hans: 角苔纲
+    zh-hant: 角苔門
+    zh-hk: 角苔綱
+    zh-sg: 角苔纲
+    zh-tw: 角苔門
 ---
-
 # [[Hornwort]]
 
 Hornworts  

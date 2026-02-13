@@ -1,23 +1,149 @@
 ---
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Geography/Place/Alhambra|Alhambra]]"
-    - "[[/_public/Earth/Geography/Place/Alhambra.public|Alhambra.public]]"
-    - "[[/_internal/Earth/Geography/Place/Alhambra.internal|Alhambra.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Alhambra.protect|Alhambra.protect]]"
-    - "[[/_private/Earth/Geography/Place/Alhambra.private|Alhambra.private]]"
-    - "[[/_personal/Earth/Geography/Place/Alhambra.personal|Alhambra.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Alhambra.secret|Alhambra.secret]]"
+  - '[[/_Standards/Earth/Geography/Place/Alhambra|Alhambra]]'
+  - '[[/_public/Earth/Geography/Place/Alhambra.public|Alhambra.public]]'
+  - '[[/_internal/Earth/Geography/Place/Alhambra.internal|Alhambra.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Alhambra.protect|Alhambra.protect]]'
+  - '[[/_private/Earth/Geography/Place/Alhambra.private|Alhambra.private]]'
+  - '[[/_personal/Earth/Geography/Place/Alhambra.personal|Alhambra.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Alhambra.secret|Alhambra.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Geography/Place/Alhambra|Alhambra]]"
-  - "[[/_public/Earth/Geography/Place/Alhambra.public|Alhambra.public]]"
-  - "[[/_internal/Earth/Geography/Place/Alhambra.internal|Alhambra.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Alhambra.protect|Alhambra.protect]]"
-  - "[[/_private/Earth/Geography/Place/Alhambra.private|Alhambra.private]]"
-  - "[[/_personal/Earth/Geography/Place/Alhambra.personal|Alhambra.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Alhambra.secret|Alhambra.secret]]"
+- '[[/_Standards/Earth/Geography/Place/Alhambra|Alhambra]]'
+- '[[/_public/Earth/Geography/Place/Alhambra.public|Alhambra.public]]'
+- '[[/_internal/Earth/Geography/Place/Alhambra.internal|Alhambra.internal]]'
+- '[[/_protect/Earth/Geography/Place/Alhambra.protect|Alhambra.protect]]'
+- '[[/_private/Earth/Geography/Place/Alhambra.private|Alhambra.private]]'
+- '[[/_personal/Earth/Geography/Place/Alhambra.personal|Alhambra.personal]]'
+- '[[/_secret/Earth/Geography/Place/Alhambra.secret|Alhambra.secret]]'
+has_id_wikidata: Q47476
+dv_has_:
+  name_:
+    af: Alhambra
+    an: Alhambra
+    ar: قصر الحمراء
+    arz: قصر الحمراء
+    ast: Alhambra
+    az: Əlhambra sarayı
+    ba: Әл-Хәмрә ҡәлғәһе
+    be: Альгамбра
+    be-tarask: Альгамбра
+    bg: Алхамбра
+    bho: अल हम्ब्रा
+    bn: আলহাম্বরা
+    br: Alhambra
+    bs: Alhambra
+    ca: Alhambra
+    cs: Alhambra
+    cy: Alhambra
+    da: Alhambra
+    de: Alhambra
+    el: Αλάμπρα
+    en: Alhambra
+    eo: Alhambro
+    es: Alhambra
+    et: Alhambra
+    eu: Alhambra
+    fa: الحمرا
+    fi: Alhambra
+    fr: Alhambra
+    fy: Alhambra
+    ga: Alhambra
+    gl: Alhambra
+    gor: Alhambra
+    he: אלהמברה
+    hi: अल हम्रा
+    hr: Alhambra
+    hu: Alhambra
+    hy: Ալհամբրա
+    ia: Alhambra
+    id: Alhambra
+    is: Alhambra
+    it: Alhambra
+    ja: アルハンブラ宮殿
+    ka: ალჰამბრა
+    kk: Альгамбра
+    ko: 알람브라 궁전
+    ky: Альгамбра
+    la: Alhambra
+    lfn: Alhambra
+    lt: Alhambra
+    lv: Alhambra
+    mk: Алхамбра
+    ml: അൽഹംബ്ര
+    mr: आलांब्रा
+    ms: Alhambra
+    mt: Alhambra
+    my: အယ်လ်ဟမ်းဘရာ
+    nb: Alhambra
+    nds: Alhambra
+    nl: Alhambra
+    nn: Alhambra
+    oc: Alhambra
+    pa: ਅਲਾਮਬਰਾ
+    pfl: Alhambra
+    pl: Alhambra
+    pnb: الحمرا
+    pt: Alhambra
+    ro: Alhambra
+    ru: Альгамбра
+    sd: الحمرا
+    sh: Alhambra
+    si: ඇල්හම්බ්රා
+    sk: Alhambra
+    sl: Alhambra
+    sq: Alhambra
+    sr: Алхамбра
+    sv: Alhambra
+    ta: அல்கம்பிரா
+    th: อาลัมบรา
+    tl: Alhambra
+    tr: Elhamra Sarayı
+    uk: Альгамбра
+    ur: الحمرا
+    uz: Al-humro saroyi
+    vi: Pháo đài Alhambra
+    wa: Alambra
+    war: Alhambra
+    wuu: 阿尔罕布拉宫
+    xmf: ალაჰამბრა
+    yue: 阿爾罕布拉宮
+    zh: 阿尔罕布拉宫
+    zh-hans: 阿尔罕布拉宫
+    zh-hant: 阿爾罕布拉宮
+aliases:
+- Al-humro saroyi
+- Alambra
+- Alhambra
+- Alhambro
+- Elhamra Sarayı
+- Pháo đài Alhambra
+- Əlhambra sarayı
+- Αλάμπρα
+- Алхамбра
+- Альгамбра
+- Әл-Хәмрә ҡәлғәһе
+- Ալհամբրա
+- אלהמברה
+- الحمرا
+- قصر الحمراء
+- अल हम्ब्रा
+- अल हम्रा
+- आलांब्रा
+- আলহাম্বরা
+- ਅਲਾਮਬਰਾ
+- அல்கம்பிரா
+- അൽഹംബ്ര
+- ඇල්හම්බ්රා
+- อาลัมบรา
+- အယ်လ်ဟမ်းဘရာ
+- ალაჰამბრა
+- ალჰამბრა
+- アルハンブラ宮殿
+- 阿尔罕布拉宫
+- 阿爾罕布拉宮
+- 알람브라 궁전
 ---
-
 # [[Alhambra]] 
 
 ![[../../../assets/Alhambra,Granada,Spain.png]] 

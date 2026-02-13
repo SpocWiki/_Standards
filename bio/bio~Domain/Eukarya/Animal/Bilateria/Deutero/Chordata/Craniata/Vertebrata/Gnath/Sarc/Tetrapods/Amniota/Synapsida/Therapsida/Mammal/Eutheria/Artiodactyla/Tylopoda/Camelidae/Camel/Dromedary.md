@@ -1,67 +1,237 @@
 ---
 aliases:
-  - Dromedar
-  - dromedary camel
-  - Arabian camel
-  - one-humped camel
-  - Dromedary
-  - Dromadaire
-  - Dromader
-  - dromedariu
-  - Einhöckriges Kamel
-  - One-humped Camel
-  - dromedario
-  - enogrba kamela
+- alɣem aserɣin
+- Arabian camel
+- Arap düýe
+- birhürgüclü dəvə
+- Camelus dromedarius
+- cwol
+- Dremedal
+- Dromadair
+- Dromadaire
+- Dromader
+- Dromadè
+- dromedaari
+- Dromedar
+- dromedari
+- dromedario
+- dromedaris
+- dromedariu
+- Dromedaro
+- Dromedary
+- dromedary camel
+- dromedário
+- Drumedàri
+- drumidariu
+- Drómedari
+- egypúpú teve
+- Einhöckriges Kamel
+- enogrba kamela
+- jednogrba deva
+- Kposɔ
+- lạc đà một bướu
+- one-humped camel
+- rameva tokan-trafo
+- tek hörgüçlü deve
+- Thɔrɔl
+- Unta Arab
+- Unta dromedary
+- unto arab
+- velbloud jednohrbý
+- vienkupra kamielis
+- vienkupris kupranugaris
+- wielbłąd jednogarbny
+- Ásáí Dineʼé Bikéyahdę́ę́ʼ ghą́ą́ʼaskʼidii
+- üksküürkaamel
+- ťava jednohrbá
+- Ɲɔgɔmɛ
+- αραβική καμήλα
+- једногрба камила
+- аднагорбы вярблюд
+- бір өркешті түйе
+- бер үркәсле дөйә
+- вярблюд аднагорбы
+- Дромедар
+- едногрба камила
+- едногърба камила
+- икпӱгыран тӱе
+- одногорбий верблюд
+- одногорбый верблюд
+- Пĕр курпунлă тĕве
+- միասապատ ուղտ
+- גמל חד-דבשתי
+- ات کولدار شتر
+- بیرهورگوجلو دوه
+- جمل عربى
+- جمل عربي
+- شتر یککوهانه
+- عربي اوښ
+- ووٗنٛٹ
+- ऊँट
+- ഡ്രോമെഡറി
+- ერთკუზიანი აქლემი
+- ヒトコブラクダ
+- 单峰骆驼
+- 單峰駱駝
+- 단봉낙타
 has_id_wikidata: Q71516
 this_taxon_is_source_of:
-  - "[[_Standards/WikiData/WD~camel_milk,623636]]"
-  - "[[_Standards/WikiData/WD~camel_hair,1631228]]"
-  - "[[_Standards/WikiData/WD~camel_meat,1722914]]"
+- '[[_Standards/WikiData/WD~camel_milk,623636]]'
+- '[[_Standards/WikiData/WD~camel_hair,1631228]]'
+- '[[_Standards/WikiData/WD~camel_meat,1722914]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-invasive_to: "[[_Standards/WikiData/WD~Australia,408]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
-has_use: "[[_Standards/WikiData/WD~transport,7590]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+invasive_to: '[[_Standards/WikiData/WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 litter_size: 1
 mass:
-  - 500
-  - 37
-  - 450
+- 500
+- 37
+- 450
 gestation_period: 12.5
 longest_observed_lifespan: 28.4
 ITIS_TSN: 625027
 OmegaWiki_Defined_Meaning: 407624
 taxon_common_name:
-  - Dromedar
-  - Dromadaire
-  - Dromader
-  - Dromedary
-  - dromedariu
-  - Einhöckriges Kamel
-  - One-humped Camel
-  - dromedario
-  - enogrba kamela
+- Dromedar
+- Dromadaire
+- Dromader
+- Dromedary
+- dromedariu
+- Einhöckriges Kamel
+- One-humped Camel
+- dromedario
+- enogrba kamela
 taxon_author_citation: Linnaeus, 1758
-Unicode_character: 🐪
+Unicode_character: "\U0001F42A"
 short_name: C. dromedarius
 Commons_gallery: Camelus dromedarius
 Commons_category: Camelus dromedarius
 taxon_name: Camelus dromedarius
 3D_model:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20camel%20smooth.stl
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Camelus%20dromedarius%203d%20scan%20Natural%20History%20Museum%20University%20of%20Pisa%20C%202832.stl
+- http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20camel%20smooth.stl
+- http://commons.wikimedia.org/wiki/Special:FilePath/Camelus%20dromedarius%203d%20scan%20Natural%20History%20Museum%20University%20of%20Pisa%20C%202832.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Camelcalf-feeding.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dromedary%20Range.png
 sequenced_genome_URL:
-  - http://www.ensembl.org/Camelus_dromedarius
-  - https://www.dnazoo.org/assemblies/Camelus_dromedarius
+- http://www.ensembl.org/Camelus_dromedarius
+- https://www.dnazoo.org/assemblies/Camelus_dromedarius
 EPPO_Code: CMELDR
 NBN_System_Key: NHMSYS0020975292
+dv_has_:
+  name_:
+    af: Dromedaris
+    an: Camelus dromedarius
+    ar: جمل عربي
+    arz: جمل عربى
+    ast: Dromedariu
+    avk: cwol
+    az: birhürgüclü dəvə
+    azb: بیرهورگوجلو دوه
+    ba: бер үркәсле дөйә
+    ban: Unta dromedary
+    be: вярблюд аднагорбы
+    be-tarask: аднагорбы вярблюд
+    bg: едногърба камила
+    bm: Ɲɔgɔmɛ
+    br: Dremedal
+    ca: dromedari
+    ceb: Camelus dromedarius
+    cs: velbloud jednohrbý
+    csb: Dromader
+    cv: Пĕр курпунлă тĕве
+    cy: Dromedari
+    da: Dromedar
+    de: Dromedar
+    de-ch: Dromedar
+    din: Thɔrɔl
+    ee: Kposɔ
+    el: αραβική καμήλα
+    eml: Drumedàri
+    en: Camelus dromedarius
+    en-ca: Dromedary
+    en-gb: dromedary
+    eo: Dromedaro
+    es: dromedario
+    et: üksküürkaamel
+    eu: Dromedario
+    fa: شتر یککوهانه
+    fi: dromedaari
+    fr: dromadaire
+    frr: Dromedar
+    ga: dromadaire
+    gd: Dromadair
+    gl: Dromedario
+    gsw: Dromedar
+    he: גמל חד-דבשתי
+    hi: ऊँट
+    hr: jednogrba deva
+    ht: Dromadè
+    hu: egypúpú teve
+    hy: միասապատ ուղտ
+    ia: Camelus dromedarius
+    id: Unta Arab
+    io: Dromedaro
+    is: Drómedari
+    it: Camelus dromedarius
+    ja: ヒトコブラクダ
+    jv: unta arab
+    ka: ერთკუზიანი აქლემი
+    kab: alɣem aserɣin
+    kk: бір өркешті түйе
+    ko: 단봉낙타
+    ks: ووٗنٛٹ
+    la: Camelus dromedarius
+    lb: Dromedar
+    lld: Dromedar
+    lt: vienkupris kupranugaris
+    lv: vienkupra kamielis
+    mg: rameva tokan-trafo
+    mhr: икпӱгыран тӱе
+    min: unto arab
+    mk: едногрба камила
+    ml: ഡ്രോമെഡറി
+    ms: Unta Arab
+    mul: Camelus dromedarius
+    mzn: ات کولدار شتر
+    nb: dromedar
+    nds-nl: dromedaris
+    nl: dromedaris
+    nn: dromedar
+    nv: Ásáí Dineʼé Bikéyahdę́ę́ʼ ghą́ą́ʼaskʼidii
+    oc: Camelus dromedarius
+    pl: wielbłąd jednogarbny
+    ps: عربي اوښ
+    pt: dromedário
+    pt-br: Dromedário
+    ro: Dromader
+    ru: одногорбый верблюд
+    scn: drumidariu
+    sco: dromedary
+    sh: Dromedar
+    sk: ťava jednohrbá
+    sl: enogrba kamela
+    sq: Camelus dromedarius
+    sr: једногрба камила
+    sv: dromedar
+    tg: Дромедар
+    tk: Arap düýe
+    tl: Camelus dromedarius
+    tr: tek hörgüçlü deve
+    uk: одногорбий верблюд
+    uz: Dromedar
+    vi: lạc đà một bướu
+    war: Camelus dromedarius
+    wuu: 单峰骆驼
+    yue: 單峰駱駝
+    zh: 單峰駱駝
+    zh-cn: 单峰骆驼
+    zh-hans: 单峰骆驼
 ---
-
 # [[Dromedary]] 🐪 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dromedary,71516|WD~Dromedary,71516]] 

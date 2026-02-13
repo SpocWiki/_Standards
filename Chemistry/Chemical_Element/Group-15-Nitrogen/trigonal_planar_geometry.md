@@ -1,26 +1,70 @@
 ---
 aliases:
-  - trigonal planar geometry
-  - trigonal_planar_geometry
+- Cấu hình phân tử tam giác đều
+- Geometria molecular plana trigonal
+- Geometría molecular trigonal plana
+- géométrie moléculaire plane trigonale
+- Indonesia
+- trigonaal planaire moleculaire geometrie
+- trigonal geometri
+- Trigonal plan molekylær geometri
+- trigonal planar geometry
+- trigonal planar molecular geometry
+- trigonal-planare Molekülstruktur
+- Trigonalt plant molekylgeometri
+- trigonal_planar_geometry
+- Trigonálne planárna molekulárna geometria
+- Trigonální molekulová geometrie
+- üçgen düzlem moleküler geometri
+- Επίπεδη τριγωνική μοριακή γεωμετρία
+- משולש מישורי
+- بنية جزيئية مستوية ثلاثية
+- முக்கோணத் தள மூலக்கூற்று வடிவம்
+- 平面三角形
+- 平面三角形分子构型
+- 평면삼각형
 dv_is_:
   same_as:
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]"
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]"
+- '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]]'
+has_id_wikidata: Q2029481
+dv_has_:
+  name_:
+    ar: بنية جزيئية مستوية ثلاثية
+    ca: Geometria molecular plana trigonal
+    cs: Trigonální molekulová geometrie
+    da: Trigonal plan molekylær geometri
+    de: trigonal-planare Molekülstruktur
+    el: Επίπεδη τριγωνική μοριακή γεωμετρία
+    en: trigonal planar molecular geometry
+    es: Geometría molecular trigonal plana
+    fr: géométrie moléculaire plane trigonale
+    he: משולש מישורי
+    id: Indonesia
+    ja: 平面三角形
+    ko: 평면삼각형
+    nb: Trigonalt plant molekylgeometri
+    nl: trigonaal planaire moleculaire geometrie
+    sk: Trigonálne planárna molekulárna geometria
+    sv: trigonal geometri
+    ta: முக்கோணத் தள மூலக்கூற்று வடிவம்
+    tr: üçgen düzlem moleküler geometri
+    vi: Cấu hình phân tử tam giác đều
+    zh: 平面三角形分子构型
 ---
-
 [[../../Organic_Chemistry/Functional_Group/Aldehyde/Formaldehyde]]: 
 H
   C=O

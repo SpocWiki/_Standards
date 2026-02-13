@@ -1,40 +1,252 @@
 ---
 aliases:
-  - Kuiper belt
-  - Kuiper_Belt
-  - Kuiper Belt
+- Abaggus n Kuiper
+- Beubeur Kuiper
+- ceinture de Kuiper
+- Cencha de Kuiper
+- centura Kuiper
+- Cinto de Kuiper
+- Cintu de Kuiper
+- Cintura de Kuiper
+- cintura di Kuiper
+- Cinturão de Kuiper
+- cinturó de Kuiper
+- cinturón de Kuiper
+- Crios Kuiper
+- Cryss Kuiper
+- Fasa 'd Kuiper
+- fasa de Kuiper
+- Fascia di Kuiper
+- Fassa ëd Kuiper
+- Faxxa ta' Kuiper
+- Gourizad Kuiper
+- Gwregys Kuiper
+- Kajperov pojas
+- Koipera josla
+- Koiperio juosta
+- Koyper belbogʻi
+- Koyper qurşağı
+- kuapo Kuipela
+- Kuiper belt
+- Kuiper Ku'asã
+- Kuiper kuşağı
+- Kuiper-gordel
+- Kuiper-toà
+- Kuiper-öv
+- Kuiperbeltet
+- Kuiperbelti
+- Kuiperbältet
+- Kuiperbæltet
+- Kuiperceinture
+- Kuiperes gyrtel
+- Kuipergiatl
+- Kuipergordel
+- Kuipergördel
+- Kuipergürtel
+- Kuiperi vöö
+- Kuiperin vyöhyke
+- Kuiperjev pas
+- Kuiperjöödel
+- Kuiperov pojas
+- Kuiperov pás
+- Kuiperreem
+- Kuiperren gerrikoa
+- Kuiper_Belt
+- Kuiperův pás
+- Kujper-zono
+- Lingkaran Kuiper
+- Lingkeran Kèper
+- Paha Kuiper
+- pas Kuipera
+- Pendéng Kuiper
+- Rripi i Kuiperit
+- Sabuk Kuiper
+- Sinturon ng Kuiper
+- Ukanda wa Kuiper
+- Vành đai Kuiper
+- Zona Kuiperi
+- Ζώνη του Κάιπερ
+- Кајперов Појас
+- Койпер билбавы
+- Койпер билбауы
+- Койпер жолағы
+- Койперни бели
+- Күйпер бүслүүр
+- пояс Койпера
+- Пояс Койпэра
+- Пояс на Кайпер
+- Կոյպերի գոտի
+- חגורת קויפר
+- حزام د كويپر
+- حزام كايبر
+- حزام كايپر
+- د کویپر کمربند
+- پشتوێنی کویپێر
+- کائپر پٹی
+- کمربند کویپر
+- काइपर घेरा
+- कायपरचा पट्टा
+- क्विपर बेल्ट
+- কাইপার বেষ্টনী
+- கைப்பர் பட்டை
+- క్యూపర్ బెల్ట్
+- ಕೈಪರ್ ಪಟ್ಟಿ
+- കൈപ്പർ വലയം
+- කුයිපර් පටිය
+- แถบไคเปอร์
+- ကျူးပါး ခါးပတ်
+- კოიპერის სარტყელი
+- კოიპერიშ ორტყაფუ
+- エッジワース・カイパーベルト
+- 柯伊伯带
+- 柯伊伯帶
+- 카이퍼대
 has_id_wikidata: Q427
-named_after: "[[_Standards/WikiData/WD~Gerard_Kuiper,192948]]"
+named_after: '[[_Standards/WikiData/WD~Gerard_Kuiper,192948]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~cubewano,645924]]"
-  - "[[_Standards/WikiData/WD~resonant_trans_Neptunian_object,6635]]"
-instance_of: "[[_Standards/WikiData/WD~circumstellar_disk,3235978]]"
-part_of: "[[_Standards/WikiData/WD~outer_Solar_System,3962257]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Sun,525]]"
+- '[[_Standards/WikiData/WD~cubewano,645924]]'
+- '[[_Standards/WikiData/WD~resonant_trans_Neptunian_object,6635]]'
+instance_of: '[[_Standards/WikiData/WD~circumstellar_disk,3235978]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
 Commons_category: Kuiper belt objects
 IMDb_keyword: kuiper-belt
 subreddit: Kuiperbelt
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Kuiper_Belt,427]]"
-    - "[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]"
-    - "[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]"
+  - '[[../../WikiData/WD~Kuiper_Belt,427]]'
+  - '[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]'
+  - '[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Kuiper_Belt,427]]"
-  - "[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]"
-  - "[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]"
+- '[[../../WikiData/WD~Kuiper_Belt,427]]'
+- '[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]'
+- '[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]'
+- '[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Kuiper_Belt.protect|Kuiper_Belt.protect]]'
+- '[[/_private/Astronomy/Solar_System/Kuiper_Belt.private|Kuiper_Belt.private]]'
+- '[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]'
+dv_has_:
+  name_:
+    af: Kuiper-gordel
+    an: Cinto de Kuiper
+    ang: Kuiperes gyrtel
+    ar: حزام كايبر
+    ary: حزام د كويپر
+    arz: حزام كايپر
+    ast: Cintu de Kuiper
+    az: Koyper qurşağı
+    ba: Койпер билбауы
+    bar: Kuipergiatl
+    be: Пояс Койпера
+    be-tarask: Пояс Койпэра
+    bew: Lingkeran Kèper
+    bg: Пояс на Кайпер
+    bjn: Pendéng Kuiper
+    bn: কাইপার বেষ্টনী
+    br: Gourizad Kuiper
+    bs: Kuiperov pojas
+    ca: cinturó de Kuiper
+    ckb: پشتوێنی کویپێر
+    cs: Kuiperův pás
+    cy: Gwregys Kuiper
+    da: Kuiperbæltet
+    de: Kuipergürtel
+    el: Ζώνη του Κάιπερ
+    eml: Fasa 'd Kuiper
+    en: Kuiper Belt
+    eo: Kujper-zono
+    es: cinturón de Kuiper
+    et: Kuiperi vöö
+    eu: Kuiperren gerrikoa
+    fa: کمربند کویپر
+    fi: Kuiperin vyöhyke
+    fr: ceinture de Kuiper
+    ga: Crios Kuiper
+    gl: Cinto de Kuiper
+    gn: Kuiper Ku'asã
+    gv: Cryss Kuiper
+    haw: kuapo Kuipela
+    he: חגורת קויפר
+    hi: काइपर घेरा
+    hif: Kuiper belt
+    hr: Kuiperov pojas
+    hu: Kuiper-öv
+    hy: Կոյպերի գոտի
+    id: Sabuk Kuiper
+    is: Kuiperbelti
+    it: Fascia di Kuiper
+    ja: エッジワース・カイパーベルト
+    jv: Sabuk Kuiper
+    ka: კოიპერის სარტყელი
+    kab: Abaggus n Kuiper
+    kk: Койпер жолағы
+    kn: ಕೈಪರ್ ಪಟ್ಟಿ
+    ko: 카이퍼대
+    krc: Койперни бели
+    ksh: Kuiperjöödel
+    la: Zona Kuiperi
+    lb: Kuiperceinture
+    li: Kuiperreem
+    lmo: Fasa de Kuiper
+    lt: Koiperio juosta
+    lv: Koipera josla
+    lzh: 柯伊伯帶
+    map-bms: Sabuk Kuiper
+    mk: Кајперов Појас
+    ml: കൈപ്പർ വലയം
+    mn: Күйпер бүслүүр
+    mr: कायपरचा पट्टा
+    ms: Lingkaran Kuiper
+    mt: Faxxa ta' Kuiper
+    my: ကျူးပါး ခါးပတ်
+    nan: Kuiper-toà
+    nb: Kuiperbeltet
+    nds: Kuipergördel
+    ne: क्विपर बेल्ट
+    nl: Kuipergordel
+    nn: Kuiperbeltet
+    oc: Cencha de Kuiper
+    pl: pas Kuipera
+    pms: Fassa ëd Kuiper
+    pnb: کائپر پٹی
+    ps: د کویپر کمربند
+    pt: Cintura de Kuiper
+    pt-br: Cinturão de Kuiper
+    ro: centura Kuiper
+    ru: пояс Койпера
+    scn: cintura di Kuiper
+    sco: Kuiper belt
+    sh: Kajperov pojas
+    si: කුයිපර් පටිය
+    sk: Kuiperov pás
+    sl: Kuiperjev pas
+    sq: Rripi i Kuiperit
+    sr: Кајперов појас
+    su: Beubeur Kuiper
+    sv: Kuiperbältet
+    sw: Ukanda wa Kuiper
+    ta: கைப்பர் பட்டை
+    te: క్యూపర్ బెల్ట్
+    th: แถบไคเปอร์
+    tl: Sinturon ng Kuiper
+    tr: Kuiper kuşağı
+    tt: Койпер билбавы
+    uk: пояс Койпера
+    uz: Koyper belbogʻi
+    vec: fasa de Kuiper
+    vi: Vành đai Kuiper
+    war: Paha Kuiper
+    wuu: 柯伊伯带
+    xmf: კოიპერიშ ორტყაფუ
+    yue: 柯伊伯帶
+    zh: 柯伊伯带
 ---
-
 # [[Kuiper_Belt]] 
 
 #is_/same_as :: [[WD~Kuiper_Belt,427]] 

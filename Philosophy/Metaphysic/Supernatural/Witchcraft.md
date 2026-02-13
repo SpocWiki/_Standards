@@ -1,41 +1,245 @@
 ---
 aliases:
+- Akerrer
+- asarlaíocht
+- Bondɔki
+- boszorkányság
+- brueissariá
+- bruheria
+- bruixeria
+- brujería
+- bruxaria
+- bruxería
+- Buidseachd
+- Buitçheraght
+- cadugərlik
+- Cadı
+- Chorchel'lie
+- czarostwo
+- czarownictwò
+- Emacralaedje
+- gwrachyddiaeth
+- hekserij
+- heksery
+- Hexerei
+- Ilimu sihia
+- Jodugarlik
+- Khiò
+- Layqa
+- Magjia e shtrigës
+- maleficium
+- Muroyi
+- nkut
+- noiduz
+- noituus
+- Nõidus
+- Paje
+- Pangkukulam
+- Pîrhebok
+- raganavimas
+- raganošana
+- sihir
+- sorcellerie
+- sorginkeria
+- Sorserezh
+- Sorsoria
+- sorĉado
+- stregonaria
+- stregoneria
+- Thuật phù thủy
+- Tlāhuihpochchōtl
+- trolddom
+- trolldom
+- Tsjoenderij
+- Uchawi
+- Veštičarstvo
+- Vještice
+- vještičarstvo
+- Vračanje
+- vrăjitorie
+- witchcraft
+- wiċċecræft
+- čaranje
+- čarodejníctvo
+- čarodějnictví
+- γοητεία
+- μαγγανεία
+- Вещерство
+- вядзьмарства
+- колдовство
+- Маѓесништво
+- Удхэр
+- чаклунство
+- чараўнiцтва
+- чарꙑ
+- Կախարդություն
+- מעשה כשפים
+- افسونگری
+- السحر
+- جادو ٹوݨا
+- سیحیربازلیق
+- شعوذة
+- چڑیل
+- चुड़ैल
+- बोक्सी
+- ডাইনীবিদ্যা
+- ডাকিনীবিদ্যা
+- ਜਾਦੂ-ਟੂਣਾ
+- மாந்திரீகம்
+- చేతబడి
+- ಮಾಟ - ಮಂತ್ರ
+- മന്ത്രവാദം
+- ลัทธิแม่มด
+- စုန်းကဝေအတက်
+- ᱡᱟᱫᱩ-ᱴᱚᱱᱟ
+- ウィッチクラフト
+- 巫术
+- 巫術
+- 符法
+- 위치크래프트
+- "\U0001033B\U0001033F\U00010331\U0001033E\U00010330\U0001033B\U00010334\U00010339\U00010343\U00010334\U00010339"
 has_id_wikidata: Q259745
 subclass_of:
-  - "[[_Standards/WikiData/WD~magic,81741]]"
-  - "[[_Standards/WikiData/WD~superstition,133182]]"
-  - "[[_Standards/WikiData/WD~intentional_human_activity,451967]]"
-  - "[[_Standards/WikiData/WD~religious_crime,124457721]]"
-  - "[[_Standards/WikiData/WD~belief,34394]]"
+- '[[_Standards/WikiData/WD~magic,81741]]'
+- '[[_Standards/WikiData/WD~superstition,133182]]'
+- '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
+- '[[_Standards/WikiData/WD~religious_crime,124457721]]'
+- '[[_Standards/WikiData/WD~belief,34394]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~witch,1616828]]"
-  - "[[_Standards/WikiData/WD~practitioner_of_witchcraft,47429760]]"
-  - "[[_Standards/WikiData/WD~warlock,55637423]]"
+- '[[_Standards/WikiData/WD~witch,1616828]]'
+- '[[_Standards/WikiData/WD~practitioner_of_witchcraft,47429760]]'
+- '[[_Standards/WikiData/WD~warlock,55637423]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Q9198102,9198102]]"
-  - "[[_Standards/WikiData/WD~siḥr,18380502]]"
-OmegaWiki_Defined_Meaning: "6866"
+- '[[_Standards/WikiData/WD~Q9198102,9198102]]'
+- '[[_Standards/WikiData/WD~siḥr,18380502]]'
+OmegaWiki_Defined_Meaning: 6866
 IMDb_keyword: witchcraft
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Shona%20witch%20doctor%20%28Zimbabwe%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20stamp%20432%20Gullveigs%20Execution.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Paganavebury.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Witchcraft%20tools.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Shona%20witch%20doctor%20%28Zimbabwe%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Faroe%20stamp%20432%20Gullveigs%20Execution.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Paganavebury.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Witchcraft%20tools.jpg
 Commons_category: Witchcraft
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hexenverfolgung%20in%20der%20Geschichte.webm
 Provenio_UUID: 46d4f55b-00f2-46ee-a5cd-3bb9973b4b27
 UMLS_CUI: C0242828
 MeSH_tree_code:
-  - E02.190.901.968
-  - I01.076.201.450.897.439.925
-Dewey_Decimal_Classification: "133.43"
+- E02.190.901.968
+- I01.076.201.450.897.439.925
+Dewey_Decimal_Classification: 133.43
+dv_has_:
+  name_:
+    af: heksery
+    ang: wiċċecræft
+    ar: شعوذة
+    arz: السحر
+    as: ডাইনীবিদ্যা
+    ast: Bruxería
+    az: cadugərlik
+    azb: سیحیربازلیق
+    bcl: Pangkukulam
+    be: вядзьмарства
+    be-tarask: чараўнiцтва
+    bg: Вещерство
+    bn: ডাকিনীবিদ্যা
+    br: Sorserezh
+    bs: vještičarstvo
+    ca: bruixeria
+    cs: čarodějnictví
+    csb: czarownictwò
+    cu: чарꙑ
+    cy: gwrachyddiaeth
+    da: trolddom
+    de: Hexerei
+    el: μαγγανεία
+    en: witchcraft
+    eo: sorĉado
+    es: brujería
+    et: Nõidus
+    eu: sorginkeria
+    fa: افسونگری
+    fi: noituus
+    fr: sorcellerie
+    fy: Tsjoenderij
+    ga: asarlaíocht
+    gd: Buidseachd
+    gl: bruxería
+    gn: Paje
+    got: "\U0001033B\U0001033F\U00010331\U0001033E\U00010330\U0001033B\U00010334\U00010339\U00010343\U00010334\U00010339"
+    grc: γοητεία
+    gv: Buitçheraght
+    he: מעשה כשפים
+    hi: चुड़ैल
+    hr: Vještice
+    hu: boszorkányság
+    hy: Կախարդություն
+    id: sihir
+    it: stregoneria
+    ja: ウィッチクラフト
+    kab: Akerrer
+    kbd: Удхэр
+    kcg: nkut
+    kn: ಮಾಟ - ಮಂತ್ರ
+    ko: 위치크래프트
+    ku: Pîrhebok
+    la: maleficium
+    lb: Hexerei
+    lfn: Sorsoria
+    ln: Bondɔki
+    lt: raganavimas
+    lv: raganošana
+    min: Ilimu sihia
+    mk: Маѓесништво
+    ml: മന്ത്രവാദം
+    ms: Sihir
+    my: စုန်းကဝေအတက်
+    nah: Tlāhuihpochchōtl
+    nan: Khiò
+    nb: trolldom
+    ne: बोक्सी
+    nl: hekserij
+    nrm: Chorchel'lie
+    oc: brueissariá
+    pa: ਜਾਦੂ-ਟੂਣਾ
+    pap: bruheria
+    pl: czarostwo
+    pnb: جادو ٹوݨا
+    pt: bruxaria
+    pt-br: bruxaria
+    qu: Layqa
+    ro: vrăjitorie
+    ru: колдовство
+    sat: ᱡᱟᱫᱩ-ᱴᱚᱱᱟ
+    sh: Vračanje
+    sk: čarodejníctvo
+    sl: čaranje
+    sn: Muroyi
+    sq: Magjia e shtrigës
+    sr: Veštičarstvo
+    sv: trolldom
+    sw: Uchawi
+    ta: மாந்திரீகம்
+    te: చేతబడి
+    th: ลัทธิแม่มด
+    tl: Pangkukulam
+    tr: Cadı
+    uk: чаклунство
+    ur: چڑیل
+    uz: Jodugarlik
+    vec: stregonaria
+    vep: noiduz
+    vi: Thuật phù thủy
+    wa: Emacralaedje
+    wuu: 巫术
+    yue: 符法
+    zh: 巫術
+    zh-tw: 巫術
 ---
-
 # [[Witchcraft]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Witchcraft,259745|WD~Witchcraft,259745]]  

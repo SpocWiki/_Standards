@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Ammotrechidae
+- Ammotrechidae
+- Zahalchíʼii dilwoʼí
+- スナハシリヒヨケムシ科
+- 沙风蝎科
+- 砂風蝎科
+- 암모트레카과
 title: Ammotrechidae
+has_id_wikidata: Q1952661
+dv_has_:
+  name_:
+    an: Ammotrechidae
+    ast: Ammotrechidae
+    bg: Ammotrechidae
+    ca: Ammotrechidae
+    ceb: Ammotrechidae
+    de: Ammotrechidae
+    en: Ammotrechidae
+    eo: Ammotrechidae
+    es: Ammotrechidae
+    eu: Ammotrechidae
+    ext: Ammotrechidae
+    fi: Ammotrechidae
+    fr: Ammotrechidae
+    ga: Ammotrechidae
+    gl: Ammotrechidae
+    ia: Ammotrechidae
+    ie: Ammotrechidae
+    io: Ammotrechidae
+    it: Ammotrechidae
+    ja: スナハシリヒヨケムシ科
+    ko: 암모트레카과
+    la: Ammotrechidae
+    mul: Ammotrechidae
+    nl: Ammotrechidae
+    nv: Zahalchíʼii dilwoʼí
+    oc: Ammotrechidae
+    pl: Ammotrechidae
+    pt: Ammotrechidae
+    pt-br: Ammotrechidae
+    ro: Ammotrechidae
+    ru: Ammotrechidae
+    sq: Ammotrechidae
+    sv: Ammotrechidae
+    tr: Ammotrechidae
+    uk: Ammotrechidae
+    vi: Ammotrechidae
+    vo: Ammotrechidae
+    war: Ammotrechidae
+    zh: 沙风蝎科
+    zh-cn: 沙风蝎科
+    zh-hans: 沙风蝎科
+    zh-tw: 砂風蝎科
 ---
-
 # [[Ammotrechidae]] 
 
 ![ ](Ammotrechidae/Ammotrechula.jpg)

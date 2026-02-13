@@ -1,31 +1,315 @@
 ---
 aliases:
+- algarv
+- algâloho
+- alkuluku
+- amaro primal
+- amḍan amnzu
+- asal sayılar
+- bilangan prima
+- frumtala
+- frumtæl
+- hejmarên hîmî
+- helu kumu
+- Isa tsy azo tsinjaraina
+- la̱mba a̱tyin
+- liczba pierwsza
+- naba taumada
+- nalfendi kacna'u
+- namba tasa
+- nanpa lawa
+- niver kentael
+- nombe prumî
+- nombor perdana
+- nombre premier
+- nombre primer
+- nombre primièr
+- nonm premye
+- nonm prémyé
+- numero prime
+- numero primero
+- numero primo
+- numerus primus
+- numri i thjeshtë
+- Numru l-ewwel
+- număr prim
+- nùmaro primo
+- nùmer prim
+- nùmmuru primu
+- númberu primu
+- número primo
+- nümar primm
+- nọ́mbà àkọ́kọ́
+- palatoi lugu
+- panguna nga ihap
+- pangunahing bilang
+- pennriv
+- pirminis skaičius
+- pirmskaitlis
+- pjyrszo nůmera
+- praim nomba
+- praštevilo
+- priemgetaal
+- priemgetal
+- Prima nombro
+- prime number
+- prime nummer
+- primo
+- primowa ličba
+- primtaal
+- primtal
+- primtall
+- Primzahl
+- Primzuel
+- prost broj
+- prvočíslo
+- prímszám
+- pėrmėnis skaitlios
+- rhif cysefin
+- sadə ədəd
+- sò͘-sò͘
+- số nguyên tố
+- tau toitū
+- tiro mutuxan
+- tub son
+- uimhir phríomha
+- wilangan prima
+- zenbaki lehen
+- álgolohku
+- πρώτος αριθμός
+- ададҳои сода
+- ансат хисеп
+- жай сан
+- жөнөкөй сан
+- прост број
+- просте число
+- просто число
+- простое число
+- просты лік
+- экн тойг
+- энгийн тоо
+- ябай һан
+- պարզ թիվ
+- պարզ թիւ
+- מספר ראשוני
+- פרימצאל
+- اولی عدد
+- تۈپ سان
+- ساده عدد
+- عاداد لولي
+- عدد أولي
+- عدد اول
+- عدد اولى
+- پرائم نمبر
+- ژمارەی سەرەتایی
+- अभाज्य ल्याः
+- अभाज्य संख्या
+- प्राइम सङ्ख्या
+- मूळ संख्या
+- মৌলিক সংখ্যা
+- ਅਭਾਜ ਸੰਖਿਆ
+- અવિભાજ્ય સંખ્યા
+- ମୌଳିକ ସଂଖ୍ୟା
+- பகா எண்
+- ప్రధాన సంఖ్య
+- ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ
+- അഭാജ്യസംഖ്യ
+- ප් රථමක සංඛ් යා
+- จำนวนเฉพาะ
+- ຕົວເລກຫຼັກ
+- သုဒ္ဓကိန်း
+- მარტივი რიცხვი
+- ចំនួន បឋម
+- ⴰⵎⴹⴰⵏ ⴰⵎⵏⵣⵓ
+- 素数
+- 質數
+- 质数
+- 소수
+- 씨수
 has_id_wikidata: Q49008
-followed_by: "[[_Standards/WikiData/WD~twin_prime,110863]]"
-has_list: "[[_Standards/WikiData/WD~list_of_prime_numbers,225987]]"
+followed_by: '[[_Standards/WikiData/WD~twin_prime,110863]]'
+has_list: '[[_Standards/WikiData/WD~list_of_prime_numbers,225987]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~prime_element,240651]]"
-  - "[[_Standards/WikiData/WD~square_free_integer,50706]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-different_from: "[[_Standards/WikiData/WD~set_of_prime_numbers,47370614]]"
-part_of: "[[_Standards/WikiData/WD~set_of_prime_numbers,47370614]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_integer,77358734]]"
-notation: "[[_Standards/WikiData/WD~P_p,9946]]"
-opposite_of: "[[_Standards/WikiData/WD~composite_number,50707]]"
-has_characteristic: "[[_Standards/WikiData/WD~divisor,50708]]"
-OmegaWiki_Defined_Meaning: "377574"
+- '[[_Standards/WikiData/WD~prime_element,240651]]'
+- '[[_Standards/WikiData/WD~square_free_integer,50706]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+different_from: '[[_Standards/WikiData/WD~set_of_prime_numbers,47370614]]'
+part_of: '[[_Standards/WikiData/WD~set_of_prime_numbers,47370614]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_integer,77358734]]'
+notation: '[[_Standards/WikiData/WD~P_p,9946]]'
+opposite_of: '[[_Standards/WikiData/WD~composite_number,50707]]'
+has_characteristic: '[[_Standards/WikiData/WD~divisor,50708]]'
+OmegaWiki_Defined_Meaning: 377574
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C4;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03C4;</mi></mstyle></mrow></math>
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi><mo stretchy="false">:</mo><mi>&#x03C4;</mi><mo stretchy="false">(</mo><mi>p</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><mn>2</mn></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prime%20number%20Cuisenaire%20rods%207.png
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/prime-numbers
-  - https://mathoverflow.net/tags/prime-numbers
-  - https://stackoverflow.com/tags/primes
+- https://math.stackexchange.com/tags/prime-numbers
+- https://mathoverflow.net/tags/prime-numbers
+- https://stackoverflow.com/tags/primes
 Commons_category: Prime numbers
+dv_has_:
+  name_:
+    af: priemgetal
+    an: numero primero
+    ang: frumtæl
+    ar: عدد أولي
+    ary: عاداد لولي
+    arz: عدد اولى
+    as: মৌলিক সংখ্যা
+    ast: númberu primu
+    az: sadə ədəd
+    azb: ساده عدد
+    ba: ябай һан
+    be: просты лік
+    be-tarask: просты лік
+    bg: просто число
+    bn: মৌলিক সংখ্যা
+    br: niver kentael
+    bs: prost broj
+    ca: nombre primer
+    ckb: ژمارەی سەرەتایی
+    cs: prvočíslo
+    cv: ансат хисеп
+    cy: rhif cysefin
+    da: primtal
+    de: Primzahl
+    de-ch: Primzahl
+    diq: amaro primal
+    el: πρώτος αριθμός
+    eml: nùmer prim
+    en: prime number
+    en-ca: prime number
+    en-gb: prime number
+    eo: primo
+    es: número primo
+    et: algarv
+    eu: zenbaki lehen
+    fa: عدد اول
+    fi: alkuluku
+    fj: naba taumada
+    fo: primtal
+    fr: nombre premier
+    frr: primtaal
+    ga: uimhir phríomha
+    gan: 質數
+    gcr: nonm prémyé
+    gl: número primo
+    gsw: Primzahl
+    gu: અવિભાજ્ય સંખ્યા
+    haw: helu kumu
+    he: מספר ראשוני
+    hi: अभाज्य संख्या
+    hr: prost broj
+    hsb: primowa ličba
+    ht: nonm premye
+    hu: prímszám
+    hy: պարզ թիվ
+    hyw: պարզ թիւ
+    ia: numero prime
+    id: bilangan prima
+    io: Prima nombro
+    is: frumtala
+    it: numero primo
+    ja: 素数
+    jam: praim nomba
+    jbo: nalfendi kacna'u
+    jv: wilangan prima
+    ka: მარტივი რიცხვი
+    kcg: la̱mba a̱tyin
+    kk: жай сан
+    km: ចំនួន បឋម
+    kn: ಅವಿಭಾಜ್ಯ ಸಂಖ್ಯೆ
+    ko: 소수
+    ko-kp: 씨수
+    ku: hejmarên hîmî
+    kw: pennriv
+    ky: жөнөкөй сан
+    la: numerus primus
+    lb: Primzuel
+    li: priemgetaal
+    lmo: nümar primm
+    lo: ຕົວເລກຫຼັກ
+    lt: pirminis skaičius
+    lv: pirmskaitlis
+    lzh: 質數
+    mg: Isa tsy azo tsinjaraina
+    mi: tau toitū
+    mk: прост број
+    ml: അഭാജ്യസംഖ്യ
+    mn: энгийн тоо
+    mr: मूळ संख्या
+    ms: nombor perdana
+    mt: Numru l-ewwel
+    my: သုဒ္ဓကိန်း
+    nan: sò͘-sò͘
+    nb: primtall
+    nds: Primtall
+    ne: प्राइम सङ्ख्या
+    new: अभाज्य ल्याः
+    nl: priemgetal
+    nn: primtal
+    oc: nombre primièr
+    or: ମୌଳିକ ସଂଖ୍ୟା
+    pa: ਅਭਾਜ ਸੰਖਿਆ
+    pl: liczba pierwsza
+    pms: nùmer prim
+    pnb: پرائم نمبر
+    pt: número primo
+    pt-br: número primo
+    rki: သုဒ္ဓကိန်း
+    ro: număr prim
+    ru: простое число
+    sah: простое число
+    scn: nùmmuru primu
+    sco: prime nummer
+    se: álgolohku
+    sgs: pėrmėnis skaitlios
+    sh: prost broj
+    shi: amḍan amnzu
+    si: ප් රථමක සංඛ් යා
+    sk: prvočíslo
+    sl: praštevilo
+    smn: algâloho
+    so: tiro mutuxan
+    sq: numri i thjeshtë
+    sr: прост број
+    sr-ec: прост број
+    sv: primtal
+    sw: namba tasa
+    szl: pjyrszo nůmera
+    ta: பகா எண்
+    te: ప్రధాన సంఖ్య
+    tg: ададҳои сода
+    th: จำนวนเฉพาะ
+    tl: pangunahing bilang
+    tok: nanpa lawa
+    tr: asal sayılar
+    ug: تۈپ سان
+    uk: просте число
+    ur: اولی عدد
+    uz: tub son
+    vec: nùmaro primo
+    vep: palatoi lugu
+    vi: số nguyên tố
+    vls: priemgetal
+    vro: algarv
+    wa: nombe prumî
+    war: panguna nga ihap
+    wuu: 质数
+    xal: экн тойг
+    yi: פרימצאל
+    yo: nọ́mbà àkọ́kọ́
+    yue: 質數
+    zgh: ⴰⵎⴹⴰⵏ ⴰⵎⵏⵣⵓ
+    zh: 質數
+    zh-cn: 质数
+    zh-hans: 质数
+    zh-hk: 質數
+    zh-tw: 質數
 ---
-
 # [[Prime_Number]] 
 
 #is_/same_as :: [[WD~Prime_number,49008]] 

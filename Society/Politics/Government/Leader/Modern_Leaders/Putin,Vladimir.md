@@ -1,241 +1,332 @@
 ---
 aliases:
-  - Putin
-  - Vladimir Putin
-  - Vladimir Vladimirovich Putin
-  - Vladimir_Putin
-  - Putin,Vladimir
+- Bladimir Putin
+- Faladimir Putin
+- Fladimir Butin
+- jan Wasimi Pusin
+- Putin
+- Putin,Vladimir
+- Putini Vladimir
+- Vladimir Poetin
+- Vladimir Poutene
+- Vladimir Poutin
+- Vladimir Poutine
+- Vladimir Putin
+- Vladimir Pûtin
+- Vladimir Vladimirovich Putin
+- Vladimir Vladimiroviç Putin
+- Vladimir Vladimirovič Putin
+- Vladimiras Putinas
+- Vladimirs Putins
+- Vladimirus Putin
+- Vladimir_Putin
+- Vladímir Putin
+- Vladímír Pútín
+- Vladîmîr Pûtîn
+- Vlagyimir Vlagyimirovics Putyin
+- Wladimir Poetin
+- Wladimir Putin
+- Wladimir Wladimirowitsch Putin
+- Wladimir Wladimirowič Putin
+- Władimir Putin
+- Βλαντίμιρ Πούτιν
+- Владимир Владимирович Путин
+- Владимир Путин
+- Владимиръ Поутинъ
+- Путін Володимир Володимирович
+- Путин Владимир Владимирович
+- Путин, Владимир
+- Путин, Владимир Владимир оглу
+- Путин, Владимир Владимирович
+- Путинэнь
+- Уладзімір Уладзіміравіч Пуцін
+- Уладзімер Пуцін
+- Վլադիմիր Պուտին
+- Վլատիմիր Փութին
+- וולאדימיר פוטין
+- ולדימיר פוטין
+- فلاديمير بوتين
+- ولادمير پوتين
+- ولاديمير پيوتن
+- ولادِمیٖر پُتِن
+- ولادیمیر پوتن
+- ولادیمیر پوتین
+- ولادیمیر پوٹن
+- ڤئلادیمیر پوٙتین
+- ڤلاديمير پوتين
+- ڤلادیمیر پوتین
+- ۋىلادىمىر پۇتىن
+- ۏلاديمير ڤوتين
+- ލަޑިމިއަރ ޕޫޓިން
+- ߝ߭ߌߟߊߘߡߌߙ ߔߎߕߌ߲
+- भ्लडिमिर पुटिन
+- भ्लादिमिर पुटिन
+- व्लाडिमिर पुटिन
+- व्लादिमिर पुतिन
+- व्लादिमीर पुतिन
+- ভ্লাডিমিৰ পুটিন
+- ভ্লাদিমির পুতিন
+- ਵਲਾਦੀਮੀਰ ਪੁਤਿਨ
+- ଭ୍ଲାଡ଼ିମିର ପୁଟିନ
+- விளாதிமிர் பூட்டின்
+- వ్లాదిమిర్ పుతిన్
+- ವ್ಲಾದಿಮಿರ್ ಪುತಿನ್
+- വ്ലാദിമിർ പുടിൻ
+- ව්ලැඩිමියර් පූටින්
+- วลาดีมีร์ ปูติน
+- ວະລາດີມີຣ໌ ປູຕິນ
+- ပူႇထိၼ်ႇ ဝလႃႇၻီႇမီႇလ်
+- ဗလာဒီမီယာ ပူတင်
+- ვლადიმერ პუტინი
+- ቭላዲሚር ፑቲን
+- ᏩᎳᏗᎻᎠ ᏊᏘᏂ
+- ᕝᓛᑎᒥᕐ ᐴᑎᓐ
+- វ៉្លាឌីមៀរ ពូទីន
+- ᨓᨒᨉᨗᨆᨗᨑ ᨄᨘᨈᨗᨊ
+- ᮗᮣᮓᮤᮙᮤᮁ ᮕᮥᮒᮤᮔ᮪
+- ᱵᱷᱞᱟᱫᱤᱢᱤᱨ ᱯᱩᱛᱤᱱ
+- ウラジーミル・プーチン
+- 弗拉基米尔·普京
+- 弗拉基米尔·普汀
+- 弗拉基米爾·普京
+- 弗拉迪米爾·普丁
+- 普京
+- ꠜꠦꠟꠣꠖꠤꠝꠤꠞ ꠙꠥꠔꠤꠘ
+- ꯕ꯭ꯂꯥꯗꯤꯃꯤꯔ ꯄꯨꯇꯤꯟ
+- 블라디미르 푸틴
+- 울라지미르 뿌찐
+- "\U00010331\U0001033B\U00010330\U00010333\U00010334\U00010339\U0001033C\U00010334\U00010339\U00010342 \U00010340\U0001033F\U00010344\U00010334\U00010339\U0001033D"
 has_id_wikidata: Q7747
 military_branch:
-  - '[[_Standards/WikiData/WD~KGB,80919]]'
-  - '[[_Standards/WikiData/WD~Federal_Security_Service,58792]]'
+- '[[_Standards/WikiData/WD~KGB,80919]]'
+- '[[_Standards/WikiData/WD~Federal_Security_Service,58792]]'
 employer:
-  - '[[_Standards/WikiData/WD~KGB,80919]]'
-  - '[[_Standards/WikiData/WD~First_Chief_Directorate,2031025]]'
-  - '[[_Standards/WikiData/WD~Presidential_Administration_of_Russia,2060629]]'
-  - '[[_Standards/WikiData/WD~Administrative_Directorate_of_the_President_of_the_Russian_Federation,4476368]]'
+- '[[_Standards/WikiData/WD~KGB,80919]]'
+- '[[_Standards/WikiData/WD~First_Chief_Directorate,2031025]]'
+- '[[_Standards/WikiData/WD~Presidential_Administration_of_Russia,2060629]]'
+- '[[_Standards/WikiData/WD~Administrative_Directorate_of_the_President_of_the_Russian_Federation,4476368]]'
 occupation: '[[_Standards/WikiData/WD~politician,82955]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_King_Abdulaziz_al_Saud,93923]]'
-  - '[[_Standards/WikiData/WD~Legion_of_Honour,163700]]'
-  - '[[_Standards/WikiData/WD~Ig_Nobel_Prize,184253]]'
-  - '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
-  - '[[_Standards/WikiData/WD~Medal_For_Impeccable_Service_,241181]]'
-  - '[[_Standards/WikiData/WD~honorary_professor,338337]]'
-  - "[[_Standards/WikiData/WD~Medal_of_Merit_of_the_National_People's_Army,512656]]"
-  - '[[_Standards/WikiData/WD~Order_of_Nazarbayev,919359]]'
-  - '[[_Standards/WikiData/WD~Order_of_Outstanding_Merit,919396]]'
-  - '[[_Standards/WikiData/WD~weapon_of_honor,959154]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Badge_of_Honour,960966]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Golden_Eagle,1045784]]'
-  - '[[_Standards/WikiData/WD~Confucius_Peace_Prize,1192712]]'
-  - '[[_Standards/WikiData/WD~Master_of_Sport_of_the_USSR,1803234]]'
-  - '[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]'
-  - '[[_Standards/WikiData/WD~Order_of_Saint_Charles,2029016]]'
-  - '[[_Standards/WikiData/WD~Order_of_Kim_Il_Sung,2087586]]'
-  - '[[_Standards/WikiData/WD~Order_of_Honour,2268261]]'
-  - '[[_Standards/WikiData/WD~Order_of_Zayed,2329411]]'
-  - '[[_Standards/WikiData/WD~Order_of_Hồ_Chí_Minh,2390786]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
-  - "[[_Standards/WikiData/WD~'Verschlossene_Auster'_award,2517928]]"
-  - '[[_Standards/WikiData/WD~Order_of_St._Sergius_of_Radonezh,3355529]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Friendship_of_Peoples,3885267]]'
-  - '[[_Standards/WikiData/WD~Registered_firearms,4200240]]'
-  - '[[_Standards/WikiData/WD~Medal_Participant_of_the_March_Shot_Bosnia_Kosovo_12_June_1999_,4287131]]'
-  - '[[_Standards/WikiData/WD~Order_For_Merit_to_the_Republic_of_Dagestan_,4335871]]'
-  - '[[_Standards/WikiData/WD~Uatsamonga_Order,4335903]]'
-  - '[[_Standards/WikiData/WD~Order_of_Honour_and_Glory,4335906]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Precious_Wand,4335918]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Sava,4335968]]'
-  - '[[_Standards/WikiData/WD~Order_of_Glory_and_Honor,4335976]]'
-  - '[[_Standards/WikiData/WD~Order_of_Akhmad_Kadyrov,4335998]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Prince_Vladimir,4336018]]'
-  - '[[_Standards/WikiData/WD~Памятная_медаль_А._М._Горчакова,4342969]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Kazan,4375531]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Saint_Petersburg,4375549]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Astrakhan,4375566]]'
-  - '[[_Standards/WikiData/WD~honorary_member,10519151]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Sevastopol,12143014]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Republic_of_Serbia,12756733]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Saint_Charles,15042392]]'
-  - '[[_Standards/WikiData/WD~Order_of_Agostinho_Neto,16141090]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Commonwealth_,16683283]]'
-  - '[[_Standards/WikiData/WD~Order_of_Ismoili_Somoni,16683303]]'
-  - '[[_Standards/WikiData/WD~National_Order_of_Merit,18379561]]'
-  - '[[_Standards/WikiData/WD~Order_of_Sheikh_ul_Islam,20570767]]'
-  - '[[_Standards/WikiData/WD~Friendship_Medal,23009376]]'
-  - '[[_Standards/WikiData/WD~Medal_For_Impeccable_Service_,_3rd_class,26205110]]'
-  - '[[_Standards/WikiData/WD~Medal_For_Impeccable_Service_,_2nd_class,26205108]]'
-  - '[[_Standards/WikiData/WD~Honoured_Coach_of_Russia,29023922]]'
-  - '[[_Standards/WikiData/WD~Order_of_St._Sergius_of_Radonezh_1st_class,29043605]]'
-  - '[[_Standards/WikiData/WD~Order_For_contribution_to_the_development_of_cooperation_,55664008]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Saint_Petersburg_State_University,62078552]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Tsinghua_University,63091960]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Yerevan_State_University,83784650]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jawaharlal_Nehru_University,87781554]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Turkmen_State_University,87781585]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Baku_Slavic_University,87781591]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Belgrade,87781782]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_S._M._Kirov_Military_Medical_Academy,87782182]]'
-  - '[[_Standards/WikiData/WD~King_Abdulaziz_Medal,105308519]]'
-  - '[[_Standards/WikiData/WD~Order_of_Manas,_1st_class,122904437]]'
-  - '[[_Standards/WikiData/WD~Honored_Coach,32310]]'
+- '[[_Standards/WikiData/WD~Order_of_King_Abdulaziz_al_Saud,93923]]'
+- '[[_Standards/WikiData/WD~Legion_of_Honour,163700]]'
+- '[[_Standards/WikiData/WD~Ig_Nobel_Prize,184253]]'
+- '[[_Standards/WikiData/WD~Time_Person_of_the_Year,207826]]'
+- '[[_Standards/WikiData/WD~Medal_For_Impeccable_Service_,241181]]'
+- '[[_Standards/WikiData/WD~honorary_professor,338337]]'
+- "[[_Standards/WikiData/WD~Medal_of_Merit_of_the_National_People's_Army,512656]]"
+- '[[_Standards/WikiData/WD~Order_of_Nazarbayev,919359]]'
+- '[[_Standards/WikiData/WD~Order_of_Outstanding_Merit,919396]]'
+- '[[_Standards/WikiData/WD~weapon_of_honor,959154]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Badge_of_Honour,960966]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Golden_Eagle,1045784]]'
+- '[[_Standards/WikiData/WD~Confucius_Peace_Prize,1192712]]'
+- '[[_Standards/WikiData/WD~Master_of_Sport_of_the_USSR,1803234]]'
+- '[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Charles,2029016]]'
+- '[[_Standards/WikiData/WD~Order_of_Kim_Il_Sung,2087586]]'
+- '[[_Standards/WikiData/WD~Order_of_Honour,2268261]]'
+- '[[_Standards/WikiData/WD~Order_of_Zayed,2329411]]'
+- '[[_Standards/WikiData/WD~Order_of_Hồ_Chí_Minh,2390786]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
+- "[[_Standards/WikiData/WD~'Verschlossene_Auster'_award,2517928]]"
+- '[[_Standards/WikiData/WD~Order_of_St._Sergius_of_Radonezh,3355529]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Friendship_of_Peoples,3885267]]'
+- '[[_Standards/WikiData/WD~Registered_firearms,4200240]]'
+- '[[_Standards/WikiData/WD~Medal_Participant_of_the_March_Shot_Bosnia_Kosovo_12_June_1999_,4287131]]'
+- '[[_Standards/WikiData/WD~Order_For_Merit_to_the_Republic_of_Dagestan_,4335871]]'
+- '[[_Standards/WikiData/WD~Uatsamonga_Order,4335903]]'
+- '[[_Standards/WikiData/WD~Order_of_Honour_and_Glory,4335906]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Precious_Wand,4335918]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Sava,4335968]]'
+- '[[_Standards/WikiData/WD~Order_of_Glory_and_Honor,4335976]]'
+- '[[_Standards/WikiData/WD~Order_of_Akhmad_Kadyrov,4335998]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Prince_Vladimir,4336018]]'
+- '[[_Standards/WikiData/WD~Памятная_медаль_А._М._Горчакова,4342969]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Kazan,4375531]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Saint_Petersburg,4375549]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Astrakhan,4375566]]'
+- '[[_Standards/WikiData/WD~honorary_member,10519151]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Legion_of_Honour,10855226]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Sevastopol,12143014]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Republic_of_Serbia,12756733]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_Saint_Charles,15042392]]'
+- '[[_Standards/WikiData/WD~Order_of_Agostinho_Neto,16141090]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Commonwealth_,16683283]]'
+- '[[_Standards/WikiData/WD~Order_of_Ismoili_Somoni,16683303]]'
+- '[[_Standards/WikiData/WD~National_Order_of_Merit,18379561]]'
+- '[[_Standards/WikiData/WD~Order_of_Sheikh_ul_Islam,20570767]]'
+- '[[_Standards/WikiData/WD~Friendship_Medal,23009376]]'
+- '[[_Standards/WikiData/WD~Medal_For_Impeccable_Service_,_3rd_class,26205110]]'
+- '[[_Standards/WikiData/WD~Medal_For_Impeccable_Service_,_2nd_class,26205108]]'
+- '[[_Standards/WikiData/WD~Honoured_Coach_of_Russia,29023922]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Sergius_of_Radonezh_1st_class,29043605]]'
+- '[[_Standards/WikiData/WD~Order_For_contribution_to_the_development_of_cooperation_,55664008]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Athens,56239664]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Saint_Petersburg_State_University,62078552]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Tsinghua_University,63091960]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Yerevan_State_University,83784650]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jawaharlal_Nehru_University,87781554]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Turkmen_State_University,87781585]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Baku_Slavic_University,87781591]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Belgrade,87781782]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_S._M._Kirov_Military_Medical_Academy,87782182]]'
+- '[[_Standards/WikiData/WD~King_Abdulaziz_Medal,105308519]]'
+- '[[_Standards/WikiData/WD~Order_of_Manas,_1st_class,122904437]]'
+- '[[_Standards/WikiData/WD~Honored_Coach,32310]]'
 sport:
-  - '[[_Standards/WikiData/WD~sambo,106500]]'
-  - '[[_Standards/WikiData/WD~judo,11420]]'
+- '[[_Standards/WikiData/WD~sambo,106500]]'
+- '[[_Standards/WikiData/WD~judo,11420]]'
 official_residence:
-  - '[[_Standards/WikiData/WD~Kremlin,133274]]'
-  - '[[_Standards/WikiData/WD~Kremlin_Senate,930376]]'
-  - '[[_Standards/WikiData/WD~Novo_Ogaryovo,1510282]]'
-  - '[[_Standards/WikiData/WD~Bocharov_ruchey,4095338]]'
-  - '[[_Standards/WikiData/WD~Gorki_9,4144338]]'
-  - '[[_Standards/WikiData/WD~Dolgiye_Borody,4164460]]'
+- '[[_Standards/WikiData/WD~Kremlin,133274]]'
+- '[[_Standards/WikiData/WD~Kremlin_Senate,930376]]'
+- '[[_Standards/WikiData/WD~Novo_Ogaryovo,1510282]]'
+- '[[_Standards/WikiData/WD~Bocharov_ruchey,4095338]]'
+- '[[_Standards/WikiData/WD~Gorki_9,4144338]]'
+- '[[_Standards/WikiData/WD~Dolgiye_Borody,4164460]]'
 participant_in:
-  - '[[_Standards/WikiData/WD~World_Economic_Forum,170418]]'
-  - '[[_Standards/WikiData/WD~Presidential_Council_for_Civil_Society_and_Human_Rights,1450649]]'
-  - '[[_Standards/WikiData/WD~119th_IOC_Session,11600088]]'
-  - '[[_Standards/WikiData/WD~Press_conference_of_Vladimir_Putin_(2012),17941946]]'
-  - '[[_Standards/WikiData/WD~Council_of_CIS_Heads_of_State,18400943]]'
-  - '[[_Standards/WikiData/WD~Normandy_Format,19206998]]'
-  - '[[_Standards/WikiData/WD~press_conference_of_Vladimir_Putin_in_2014,19761738]]'
-  - '[[_Standards/WikiData/WD~press_conference_of_Vladimir_Putin_in_2015,24711235]]'
-  - "[[_Standards/WikiData/WD~New_Year's_address_of_Vladimir_Putin_to_the_citizens_of_Russia_on_the_eve_of_2016,24711669]]"
-  - '[[_Standards/WikiData/WD~first_launch_from_Vostochny_Cosmodrome,24714557]]'
-  - '[[_Standards/WikiData/WD~Talk_with_Vladimir_Putin._The_Continuing.,27332322]]'
-  - '[[_Standards/WikiData/WD~Eastern_Economic_Forum,27511152]]'
-  - '[[_Standards/WikiData/WD~The_President_of_the_Russian_Federation_s_Economic_Council,27512950]]'
-  - '[[_Standards/WikiData/WD~annual_news_conference_of_the_President_of_the_Russian_Federation_Vladimir_Putin,28052666]]'
-  - '[[_Standards/WikiData/WD~Moscow_Victory_Day_Parade,28052871]]'
-  - '[[_Standards/WikiData/WD~CSTO_Summit,28133799]]'
-  - '[[_Standards/WikiData/WD~EurAsEC_summit,28133864]]'
-  - '[[_Standards/WikiData/WD~National_Congress_of_Judges_(Russia),28133900]]'
-  - '[[_Standards/WikiData/WD~9th_BRICS_summit,31454090]]'
-  - '[[_Standards/WikiData/WD~New_Year_Address_by_President_of_Russia,46992920]]'
+- '[[_Standards/WikiData/WD~World_Economic_Forum,170418]]'
+- '[[_Standards/WikiData/WD~Presidential_Council_for_Civil_Society_and_Human_Rights,1450649]]'
+- '[[_Standards/WikiData/WD~119th_IOC_Session,11600088]]'
+- '[[_Standards/WikiData/WD~Press_conference_of_Vladimir_Putin_(2012),17941946]]'
+- '[[_Standards/WikiData/WD~Council_of_CIS_Heads_of_State,18400943]]'
+- '[[_Standards/WikiData/WD~Normandy_Format,19206998]]'
+- '[[_Standards/WikiData/WD~press_conference_of_Vladimir_Putin_in_2014,19761738]]'
+- '[[_Standards/WikiData/WD~press_conference_of_Vladimir_Putin_in_2015,24711235]]'
+- "[[_Standards/WikiData/WD~New_Year's_address_of_Vladimir_Putin_to_the_citizens_of_Russia_on_the_eve_of_2016,24711669]]"
+- '[[_Standards/WikiData/WD~first_launch_from_Vostochny_Cosmodrome,24714557]]'
+- '[[_Standards/WikiData/WD~Talk_with_Vladimir_Putin._The_Continuing.,27332322]]'
+- '[[_Standards/WikiData/WD~Eastern_Economic_Forum,27511152]]'
+- '[[_Standards/WikiData/WD~The_President_of_the_Russian_Federation_s_Economic_Council,27512950]]'
+- '[[_Standards/WikiData/WD~annual_news_conference_of_the_President_of_the_Russian_Federation_Vladimir_Putin,28052666]]'
+- '[[_Standards/WikiData/WD~Moscow_Victory_Day_Parade,28052871]]'
+- '[[_Standards/WikiData/WD~CSTO_Summit,28133799]]'
+- '[[_Standards/WikiData/WD~EurAsEC_summit,28133864]]'
+- '[[_Standards/WikiData/WD~National_Congress_of_Judges_(Russia),28133900]]'
+- '[[_Standards/WikiData/WD~9th_BRICS_summit,31454090]]'
+- '[[_Standards/WikiData/WD~New_Year_Address_by_President_of_Russia,46992920]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~apartment,188507]]'
-  - '[[_Standards/WikiData/WD~Lada_Niva,650591]]'
-  - '[[_Standards/WikiData/WD~land_parcel,683595]]'
-  - '[[_Standards/WikiData/WD~GAZ_21,1922450]]'
-  - '[[_Standards/WikiData/WD~Skif,28133937]]'
-  - '[[_Standards/WikiData/WD~garage,22733]]'
+- '[[_Standards/WikiData/WD~apartment,188507]]'
+- '[[_Standards/WikiData/WD~Lada_Niva,650591]]'
+- '[[_Standards/WikiData/WD~land_parcel,683595]]'
+- '[[_Standards/WikiData/WD~GAZ_21,1922450]]'
+- '[[_Standards/WikiData/WD~Skif,28133937]]'
+- '[[_Standards/WikiData/WD~garage,22733]]'
 commander_of_DEPRECATED_:
-  - '[[_Standards/WikiData/WD~Russian_Armed_Forces,193159]]'
-  - '[[_Standards/WikiData/WD~Supreme_Commander_in_Chief_of_the_Armed_Forces_of_the_Russian_Federation,4109060]]'
+- '[[_Standards/WikiData/WD~Russian_Armed_Forces,193159]]'
+- '[[_Standards/WikiData/WD~Supreme_Commander_in_Chief_of_the_Armed_Forces_of_the_Russian_Federation,4109060]]'
 position_held: '[[_Standards/WikiData/WD~President_of_Russia,218295]]'
 spouse: '[[_Standards/WikiData/WD~Lyudmila_Ocheretnaya,233282]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Alina_Kabaeva,254220]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Anatoly_Sobchak,334294]]'
-  - '[[_Standards/WikiData/WD~Alexander_Dugin,438839]]'
-  - '[[_Standards/WikiData/WD~Ivan_Ilyin,1282198]]'
-  - '[[_Standards/WikiData/WD~Niccolò_Machiavelli,1399]]'
-  - '[[_Standards/WikiData/WD~Helmut_Kohl,2518]]'
-  - '[[_Standards/WikiData/WD~Boris_Yeltsin,34453]]'
+- '[[_Standards/WikiData/WD~Anatoly_Sobchak,334294]]'
+- '[[_Standards/WikiData/WD~Alexander_Dugin,438839]]'
+- '[[_Standards/WikiData/WD~Ivan_Ilyin,1282198]]'
+- '[[_Standards/WikiData/WD~Niccolò_Machiavelli,1399]]'
+- '[[_Standards/WikiData/WD~Helmut_Kohl,2518]]'
+- '[[_Standards/WikiData/WD~Boris_Yeltsin,34453]]'
 different_from:
-  - '[[_Standards/WikiData/WD~poutine,396184]]'
-  - '[[_Standards/WikiData/WD~Vladimir_Putin,19300851]]'
+- '[[_Standards/WikiData/WD~poutine,396184]]'
+- '[[_Standards/WikiData/WD~Vladimir_Putin,19300851]]'
 political_ideology: '[[_Standards/WikiData/WD~Machiavellianism,472246]]'
 military_or_police_rank:
-  - '[[_Standards/WikiData/WD~reservist,561904]]'
-  - '[[_Standards/WikiData/WD~1st_class_Active_State_Councillor_of_the_Russian_Federation,4156896]]'
-  - '[[_Standards/WikiData/WD~podpolkovnik,13099720]]'
+- '[[_Standards/WikiData/WD~reservist,561904]]'
+- '[[_Standards/WikiData/WD~1st_class_Active_State_Councillor_of_the_Russian_Federation,4156896]]'
+- '[[_Standards/WikiData/WD~podpolkovnik,13099720]]'
 member_of:
-  - "[[_Standards/WikiData/WD~All_Russia_People's_Front,730786]]"
-  - '[[_Standards/WikiData/WD~Ozero,4332090]]'
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Arts,4397946]]'
+- "[[_Standards/WikiData/WD~All_Russia_People's_Front,730786]]"
+- '[[_Standards/WikiData/WD~Ozero,4332090]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Arts,4397946]]'
 has_pet:
-  - '[[_Standards/WikiData/WD~Konni,1320354]]'
-  - '[[_Standards/WikiData/WD~Buffy,4985986]]'
-  - '[[_Standards/WikiData/WD~Yume,27305072]]'
+- '[[_Standards/WikiData/WD~Konni,1320354]]'
+- '[[_Standards/WikiData/WD~Buffy,4985986]]'
+- '[[_Standards/WikiData/WD~Yume,27305072]]'
 lifestyle: '[[_Standards/WikiData/WD~Image_of_God,1538955]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~military_affairs,1791716]]'
-  - '[[_Standards/WikiData/WD~intelligence_assessment,4488757]]'
-  - '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
-  - '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~military_affairs,1791716]]'
+- '[[_Standards/WikiData/WD~intelligence_assessment,4488757]]'
+- '[[_Standards/WikiData/WD~jurisprudence,4932206]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
 relative:
-  - '[[_Standards/WikiData/WD~Igor_Putin,1833348]]'
-  - '[[_Standards/WikiData/WD~Roman_Putin,15087614]]'
-  - '[[_Standards/WikiData/WD~Kirill_Shamalov,22682071]]'
-  - '[[_Standards/WikiData/WD~Jorrit_Faassen,22941823]]'
-  - '[[_Standards/WikiData/WD~Daryna_Medvedchuk,126923790]]'
+- '[[_Standards/WikiData/WD~Igor_Putin,1833348]]'
+- '[[_Standards/WikiData/WD~Roman_Putin,15087614]]'
+- '[[_Standards/WikiData/WD~Kirill_Shamalov,22682071]]'
+- '[[_Standards/WikiData/WD~Jorrit_Faassen,22941823]]'
+- '[[_Standards/WikiData/WD~Daryna_Medvedchuk,126923790]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Academy_of_Foreign_Intelligence,1978570]]'
-  - '[[_Standards/WikiData/WD~Academy_of_the_Federal_Security_Service_of_the_Russian_Federation,2387574]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Mining_University,2495829]]'
-  - '[[_Standards/WikiData/WD~School_281,4525174]]'
-  - '[[_Standards/WikiData/WD~Faculty_of_Law,_Saint_Petersburg_State_University,4534839]]'
-  - '[[_Standards/WikiData/WD~School_193,27430017]]'
-  - '[[_Standards/WikiData/WD~St._Petersburg_Institute_of_the_FSB_of_Russia,103920735]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
+- '[[_Standards/WikiData/WD~Academy_of_Foreign_Intelligence,1978570]]'
+- '[[_Standards/WikiData/WD~Academy_of_the_Federal_Security_Service_of_the_Russian_Federation,2387574]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Mining_University,2495829]]'
+- '[[_Standards/WikiData/WD~School_281,4525174]]'
+- '[[_Standards/WikiData/WD~Faculty_of_Law,_Saint_Petersburg_State_University,4534839]]'
+- '[[_Standards/WikiData/WD~School_193,27430017]]'
+- '[[_Standards/WikiData/WD~St._Petersburg_Institute_of_the_FSB_of_Russia,103920735]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
 given_name: '[[_Standards/WikiData/WD~Vladimir,2253934]]'
 movement:
-  - '[[_Standards/WikiData/WD~Russian_nationalism,2354258]]'
-  - '[[_Standards/WikiData/WD~Russian_irredentism,15680807]]'
-  - '[[_Standards/WikiData/WD~Traditional_values_in_Russia,117798697]]'
+- '[[_Standards/WikiData/WD~Russian_nationalism,2354258]]'
+- '[[_Standards/WikiData/WD~Russian_irredentism,15680807]]'
+- '[[_Standards/WikiData/WD~Traditional_values_in_Russia,117798697]]'
 handedness: '[[_Standards/WikiData/WD~right_handedness,3039938]]'
 special_rank: '[[_Standards/WikiData/WD~1st_class_Active_State_Councillor_of_the_Russian_Federation,4156896]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Yury_Tolstoy,4459933]]'
-  - '[[_Standards/WikiData/WD~Anatoly_Rakhlin,15088978]]'
+- '[[_Standards/WikiData/WD~Yury_Tolstoy,4459933]]'
+- '[[_Standards/WikiData/WD~Anatoly_Rakhlin,15088978]]'
 residence:
-  - '[[_Standards/WikiData/WD~Akademika_Zelinskogo_Street,4471180]]'
-  - '[[_Standards/WikiData/WD~Baskov_Lane_12,_Mansion_of_Louise_von_Taube,124616207]]'
-  - '[[_Standards/WikiData/WD~Moscow,649]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-  - '[[_Standards/WikiData/WD~Dresden,1731]]'
+- '[[_Standards/WikiData/WD~Akademika_Zelinskogo_Street,4471180]]'
+- '[[_Standards/WikiData/WD~Baskov_Lane_12,_Mansion_of_Louise_von_Taube,124616207]]'
+- '[[_Standards/WikiData/WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Dresden,1731]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 dan_kyu_rank: '[[_Standards/WikiData/WD~9_dan,12036922]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Vladimir_Putin,14451720]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
-  - "[[_Standards/WikiData/WD~Vladimir_Putin_Do_you_see_what_you've_done_,61937815]]"
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Putin,76452100]]'
-  - '[[_Standards/WikiData/WD~Wladimir_W._Putin,110774435]]'
-  - '[[_Standards/WikiData/WD~Vova,_Volodya,_Vladimir,111494451]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Lentapedia_(full_versions),17311605]]'
+- "[[_Standards/WikiData/WD~Vladimir_Putin_Do_you_see_what_you've_done_,61937815]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Putin,76452100]]'
+- '[[_Standards/WikiData/WD~Wladimir_W._Putin,110774435]]'
+- '[[_Standards/WikiData/WD~Vova,_Volodya,_Vladimir,111494451]]'
 academic_degree: '[[_Standards/WikiData/WD~Candidate_of_Economic_Sciences,17744738]]'
 father: '[[_Standards/WikiData/WD~Vladimir_Putin,19300851]]'
 mother: '[[_Standards/WikiData/WD~Maria_Putina,19300864]]'
 child:
-  - '[[_Standards/WikiData/WD~Katerina_Tikhonova,19364345]]'
-  - '[[_Standards/WikiData/WD~Maria_Vorontsova,19816371]]'
-  - '[[_Standards/WikiData/WD~Elizaveta_Rozova,107043381]]'
-  - '[[_Standards/WikiData/WD~Ivan_Putin,130234753]]'
-  - '[[_Standards/WikiData/WD~Vladimir_Putin_Jr.,130234762]]'
+- '[[_Standards/WikiData/WD~Katerina_Tikhonova,19364345]]'
+- '[[_Standards/WikiData/WD~Maria_Vorontsova,19816371]]'
+- '[[_Standards/WikiData/WD~Elizaveta_Rozova,107043381]]'
+- '[[_Standards/WikiData/WD~Ivan_Putin,130234753]]'
+- '[[_Standards/WikiData/WD~Vladimir_Putin_Jr.,130234762]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Vladimir_Putin,21287326]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~A_Plea_for_Caution_From_Russia,27497617]]'
-  - '[[_Standards/WikiData/WD~Russia_at_the_Turn_of_the_Millennium,27874540]]'
-  - '[[_Standards/WikiData/WD~Russia_Muscles_Up_the_Challenges_We_Must_Rise_to_Face,27875715]]'
-  - '[[_Standards/WikiData/WD~Russia_The_Ethnicity_Issue,27875841]]'
-  - '[[_Standards/WikiData/WD~Economic_Tasks,27875953]]'
-  - '[[_Standards/WikiData/WD~Democracy_and_the_Quality_of_Government,27875983]]'
-  - '[[_Standards/WikiData/WD~Building_Justice_A_Social_Policy_for_Russia,27876064]]'
-  - '[[_Standards/WikiData/WD~Being_Strong_National_Security_Guarantees_for_Russia,27876089]]'
-  - '[[_Standards/WikiData/WD~Time_to_Trust_Russia_A_Common_Front_Against_Terror,27921507]]'
-  - '[[_Standards/WikiData/WD~We_Share_German_Priorities,38928571]]'
+- '[[_Standards/WikiData/WD~A_Plea_for_Caution_From_Russia,27497617]]'
+- '[[_Standards/WikiData/WD~Russia_at_the_Turn_of_the_Millennium,27874540]]'
+- '[[_Standards/WikiData/WD~Russia_Muscles_Up_the_Challenges_We_Must_Rise_to_Face,27875715]]'
+- '[[_Standards/WikiData/WD~Russia_The_Ethnicity_Issue,27875841]]'
+- '[[_Standards/WikiData/WD~Economic_Tasks,27875953]]'
+- '[[_Standards/WikiData/WD~Democracy_and_the_Quality_of_Government,27875983]]'
+- '[[_Standards/WikiData/WD~Building_Justice_A_Social_Policy_for_Russia,27876064]]'
+- '[[_Standards/WikiData/WD~Being_Strong_National_Security_Guarantees_for_Russia,27876089]]'
+- '[[_Standards/WikiData/WD~Time_to_Trust_Russia_A_Common_Front_Against_Terror,27921507]]'
+- '[[_Standards/WikiData/WD~We_Share_German_Priorities,38928571]]'
 patronym_or_matronym: '[[_Standards/WikiData/WD~Vladimirovich,27670878]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~2015_Presidential_Address_to_the_Federal_Assembly_(Russia),27998720]]'
-  - '[[_Standards/WikiData/WD~Russian_annexation_of_Donetsk,_Kherson,_Luhansk_and_Zaporizhzhia_oblasts,114096220]]'
+- '[[_Standards/WikiData/WD~2015_Presidential_Address_to_the_Federal_Assembly_(Russia),27998720]]'
+- '[[_Standards/WikiData/WD~Russian_annexation_of_Donetsk,_Kherson,_Luhansk_and_Zaporizhzhia_oblasts,114096220]]'
 place_of_birth: '[[_Standards/WikiData/WD~V.F._Snegiryov_Maternity_Hospital_No.6,28133957]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vladimir_Putin,28555195]]'
 family_name: '[[_Standards/WikiData/WD~Putin,30524893]]'
 has_list: '[[_Standards/WikiData/WD~list_of_awards_and_honors_received_by_Vladimir_Putin,65145163]]'
 family: '[[_Standards/WikiData/WD~family_of_Vladimir_Putin,110812109]]'
 work_location:
-  - '[[_Standards/WikiData/WD~Moscow,649]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-  - '[[_Standards/WikiData/WD~Dresden,1731]]'
+- '[[_Standards/WikiData/WD~Moscow,649]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Dresden,1731]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 writing_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 native_language: '[[_Standards/WikiData/WD~Russian,7737]]'
 medical_condition: "[[_Standards/WikiData/WD~Parkinson's_disease,11085]]"
@@ -247,14 +338,14 @@ ethnic_group: '[[_Standards/WikiData/WD~Russians,49542]]'
 BHCL_UUID: fc8d7fb5-ad03-4803-9533-90640404fbc4
 P1015: 40926
 VK_username:
-  - moskvaputinu
-  - vladimirputin_rf
+- moskvaputinu
+- vladimirputin_rf
 Commons_category: Vladimir Putin
 LIGA_profile: persons/vladimir-pytin
 pseudonym:
-  - Platov
-  - Платов
-  - ߔߑߟߊߕߐߝ߭
+- Platov
+- Платов
+- ߔߑߟߊߕߐߝ߭
 hashtag: putin
 Facebook_username: Putin.President
 booru_tag: vladimir_putin
@@ -278,8 +369,288 @@ Plex_person_key: 5d776896594b2b001e6905f4
 Wolfram_Language_entity_code: Entity["Concept", "Putin::3g6z2"]
 Libris_URI: fcrtw43z3pc5bv0
 Krugosvet_article_archived_: istoriya/PUTIN_VLADIMIR_VLADIMIROVICH.html
+dv_has_:
+  name_:
+    aa: Vladimir Putin
+    ab: Владимир Путин
+    ace: Vladimir Putin
+    ady: Владимир Путин
+    af: Wladimir Poetin
+    alt: Путин, Владимир Владимирович
+    am: ቭላዲሚር ፑቲን
+    ami: Vladimir Putin
+    an: Vladimir Putin
+    ang: Vladimir Putin
+    ann: Vladimir Putin
+    ar: فلاديمير بوتين
+    ary: ڤلاديمير پوتين
+    arz: فلاديمير بوتين
+    as: ভ্লাডিমিৰ পুটিন
+    ast: Vladimir Putin
+    av: Владимир Путин
+    az: Vladimir Putin
+    azb: ولادیمیر پوتین
+    ba: Путин Владимир Владимирович
+    ban: Vladimir Putin
+    bar: Vladimir Putin
+    bcl: Vladimir Putin
+    be: Уладзімір Уладзіміравіч Пуцін
+    be-tarask: Уладзімер Пуцін
+    bew: Vladimir Putin
+    bg: Владимир Путин
+    bho: व्लादिमीर पुतिन
+    bi: Vladimir Putin
+    bjn: Vladimir Putin
+    bn: ভ্লাদিমির পুতিন
+    br: Vladimir Poutin
+    bs: Vladimir Putin
+    bug: ᨓᨒᨉᨗᨆᨗᨑ ᨄᨘᨈᨗᨊ
+    bxr: Владимир Путин
+    ca: Vladímir Putin
+    cdo: Vladimir Putin
+    ce: Владимир Путин
+    ceb: Vladimir Putin
+    chr: ᏩᎳᏗᎻᎠ ᏊᏘᏂ
+    ckb: ڤلادیمیر پوتین
+    co: Vladimir Poutine
+    cr: Vladimir Putin
+    crh: Vladimir Putin
+    crh-latn: Vladimir Putin
+    cs: Vladimir Putin
+    cu: Владимиръ Поутинъ
+    cv: Путин Владимир Владимирович
+    cy: Vladimir Putin
+    da: Vladimir Putin
+    dag: Vladimir Putin
+    de: Wladimir Wladimirowitsch Putin
+    de-ch: Wladimir Wladimirowitsch Putin
+    dga: Vladimir Putin
+    din: Vladimir Vladimirovich Putin
+    dsb: Wladimir Wladimirowič Putin
+    dtp: Vladimir Putin
+    dty: भ्लादिमिर पुटिन
+    dv: ލަޑިމިއަރ ޕޫޓިން
+    el: Βλαντίμιρ Πούτιν
+    en: Vladimir Putin
+    en-ca: Vladimir Putin
+    en-gb: Vladimir Putin
+    en-us: Vladimir Putin
+    eo: Vladimir Putin
+    es: Vladímir Putin
+    et: Vladimir Putin
+    eu: Vladimir Putin
+    ext: Vladimir Putin
+    fa: ولادیمیر پوتین
+    fi: Vladimir Putin
+    fit: Vladimir Putin
+    fo: Vladimir Putin
+    fon: Vladimir Poutine
+    fr: Vladimir Poutine
+    frr: Wladimir Putin
+    fur: Vladimir Putin
+    fy: Vladimir Pûtin
+    ga: Vladimir Putin
+    gan: 普京
+    gd: Vladimir Putin
+    gl: Vladimir Putin
+    gn: Vladímir Putin
+    got: "\U00010331\U0001033B\U00010330\U00010333\U00010334\U00010339\U0001033C\U00010334\U00010339\U00010342 \U00010340\U0001033F\U00010344\U00010334\U00010339\U0001033D"
+    gsw: Wladimir Wladimirowitsch Putin
+    gur: Vladimir Putin
+    guw: Vladimir Putin
+    gv: Vladimir Putin
+    ha: Vladimir Putin
+    hak: Vladimir Putin
+    haw: Vladimir Putin
+    he: ולדימיר פוטין
+    hi: व्लादिमीर पुतिन
+    hif: Vladimir Putin
+    hr: Vladimir Putin
+    hsb: Wladimir Putin
+    ht: Vladimir Putin
+    hu: Vlagyimir Vlagyimirovics Putyin
+    hy: Վլադիմիր Պուտին
+    hyw: Վլատիմիր Փութին
+    ia: Vladimir Putin
+    iba: Vladimir Putin
+    id: Vladimir Putin
+    ie: Vladimir Putin
+    ilo: Vladimir Putin
+    io: Vladimir Putin
+    is: Vladímír Pútín
+    it: Vladimir Putin
+    iu: ᕝᓛᑎᒥᕐ ᐴᑎᓐ
+    ja: ウラジーミル・プーチン
+    jv: Vladimir Putin
+    ka: ვლადიმერ პუტინი
+    kbp: Vladimir Poutine
+    kcg: Vladimir Putin
+    kge: Vladimir Putin
+    kk: Владимир Владимирович Путин
+    km: វ៉្លាឌីមៀរ ពូទីន
+    kn: ವ್ಲಾದಿಮಿರ್ ಪುತಿನ್
+    ko: 블라디미르 푸틴
+    koi: Путин Владимир Владимирович
+    ko-kp: 울라지미르 뿌찐
+    krc: Владимир Путин
+    ks: ولادِمیٖر پُتِن
+    ku: Vladîmîr Pûtîn
+    kus: Vladimir Putin
+    kv: Путин Владимир Владимирович
+    kw: Vladimir Putin
+    ky: Владимир Путин
+    la: Vladimirus Putin
+    lad: Vladimir Putin
+    lb: Wladimir Putin
+    lbe: Владимир Путин
+    lez: Владимир Владимирович Путин
+    lfn: Vladimir Putin
+    lg: Vladimir Putin
+    li: Vladimir Poetin
+    lld: Vladimir Putin
+    lmo: Vladimir Vladimirovič Putin
+    lo: ວະລາດີມີຣ໌ ປູຕິນ
+    lrc: ڤئلادیمیر پوٙتین
+    lt: Vladimiras Putinas
+    lv: Vladimirs Putins
+    mai: भ्लादिमिर पुटिन
+    mdf: Путин, Владимир
+    mg: Vladimir Poutine
+    mhr: Путин, Владимир Владимирович
+    min: Vladimir Putin
+    mk: Владимир Путин
+    ml: വ്ലാദിമിർ പുടിൻ
+    mn: Владимир Путин
+    mni: ꯕ꯭ꯂꯥꯗꯤꯃꯤꯔ ꯄꯨꯇꯤꯟ
+    mo: Владимир Путин
+    mos: Vladimir Putin
+    mr: व्लादिमिर पुतिन
+    mrj: Путин, Владимир Владимирович
+    ms: Vladimir Putin
+    ms-arab: ۏلاديمير ڤوتين
+    mt: Vladimir Putin
+    mwl: Bladimir Putin
+    my: ဗလာဒီမီယာ ပူတင်
+    myv: Путинэнь
+    mzn: ولادیمیر پوتین
+    na: Vladimir Putin
+    nah: Vladimir Putin
+    nan: Vladimir Putin
+    nap: Vladimir Putin
+    nb: Vladimir Putin
+    nds: Wladimir Putin
+    nds-nl: Vladimir Putin
+    ne: भ्लादिमिर पुटिन
+    new: भ्लडिमिर पुटिन
+    nl: Vladimir Poetin
+    nn: Vladimir Putin
+    nov: Vladimir Putin
+    nqo: ߝ߭ߌߟߊߘߡߌߙ ߔߎߕߌ߲
+    ny: Vladimir Putin
+    oc: Vladimir Putin
+    olo: Vladimir Putin
+    or: ଭ୍ଲାଡ଼ିମିର ପୁଟିନ
+    os: Владимир Путин
+    pa: ਵਲਾਦੀਮੀਰ ਪੁਤਿਨ
+    pam: Vladimir Putin
+    pap: Vladimir Putin
+    pih: Vladimir Putin
+    pl: Władimir Putin
+    pms: Vladimir Putin
+    pnb: ولادیمیر پوتن
+    ps: ولادمير پوتين
+    pt: Vladimir Putin
+    pt-br: Vladimir Putin
+    qu: Vladimir Putin
+    rm: Vladimir Putin
+    rmf: Vladimir Putin
+    rmy: Vladimir Putin
+    ro: Vladimir Putin
+    ru: Владимир Владимирович Путин
+    rue: Путін Володимир Володимирович
+    rw: Vladimir Putin
+    sa: व्लाडिमिर पुटिन
+    sah: Владимир Путин
+    sat: ᱵᱷᱞᱟᱫᱤᱢᱤᱨ ᱯᱩᱛᱤᱱ
+    sc: Vladimir Putin
+    scn: Vladimir Putin
+    sco: Vladimir Putin
+    sd: ولاديمير پيوتن
+    se: Vladimir Putin
+    sgs: Vladimirs Putins
+    sh: Vladimir Putin
+    shi: Fladimir Butin
+    shn: ပူႇထိၼ်ႇ ဝလႃႇၻီႇမီႇလ်
+    si: ව්ලැඩිමියර් පූටින්
+    sjd: Владимир Владимирович Путин
+    sje: Vladimir Putin
+    sju: Vladimir Putin
+    sk: Vladimir Vladimirovič Putin
+    sl: Vladimir Putin
+    sma: Vladimir Putin
+    smj: Vladimir Putin
+    smn: Vladimir Putin
+    sms: Vladimir Putin
+    sn: Vladimir Putin
+    so: Faladimir Putin
+    sq: Vladimir Putin
+    sr: Владимир Путин
+    sr-ec: Владимир Путин
+    sr-el: Vladimir Putin
+    su: ᮗᮣᮓᮤᮙᮤᮁ ᮕᮥᮒᮤᮔ᮪
+    sv: Vladimir Putin
+    sw: Vladimir Putin
+    syl: ꠜꠦꠟꠣꠖꠤꠝꠤꠞ ꠙꠥꠔꠤꠘ
+    szl: Władimir Putin
+    szy: Vladimir Putin
+    ta: விளாதிமிர் பூட்டின்
+    tay: Vladimir Putin
+    te: వ్లాదిమిర్ పుతిన్
+    tg: Владимир Путин
+    th: วลาดีมีร์ ปูติน
+    tk: Wladimir Putin
+    tl: Vladimir Putin
+    tly: Vladimir Putin
+    tok: jan Wasimi Pusin
+    tpi: Vladimir Putin
+    tr: Vladimir Vladimiroviç Putin
+    trv: Vladimir Putin
+    tt: Владимир Путин
+    tt-cyrl: Владимир Путин
+    tt-latn: Vladimir Putin
+    tum: Vladimir Putin
+    tw: Vladimir Putin
+    tyv: Путин, Владимир Владимир оглу
+    udm: Путин, Владимир Владимирович
+    ug: ۋىلادىمىر پۇتىن
+    uk: Путін Володимир Володимирович
+    ur: ولادیمیر پوٹن
+    uz: Vladimir Putin
+    vec: Vladimir Putin
+    vep: Vladimir Putin
+    vi: Vladimir Putin
+    vo: Vladimir Putin
+    vro: Putini Vladimir
+    wa: Vladimir Poutene
+    war: Vladimir Putin
+    wuu: 普京
+    xh: Vladimir Putin
+    xmf: ვლადიმერ პუტინი
+    yi: וולאדימיר פוטין
+    yo: Vladimir Putin
+    yue: 普京
+    zea: Vladimir Poetin
+    zh: 弗拉基米尔·普京
+    zh-cn: 弗拉基米尔·普京
+    zh-hans: 弗拉基米尔·普京
+    zh-hant: 弗拉迪米爾·普丁
+    zh-hk: 弗拉基米爾·普京
+    zh-mo: 弗拉基米爾·普京
+    zh-my: 弗拉基米尔·普汀
+    zh-sg: 弗拉基米尔·普京
+    zh-tw: 弗拉迪米爾·普丁
+    zu: Vladimir Putin
 ---
-
 # [[Putin,Vladimir]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Vladimir_Putin,7747|WD~Vladimir_Putin,7747]] 

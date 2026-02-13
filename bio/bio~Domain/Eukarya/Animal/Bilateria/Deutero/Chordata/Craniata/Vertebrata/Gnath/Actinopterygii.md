@@ -1,39 +1,94 @@
 ---
 aliases:
-  - Actinopterygii
-  - paprskoploutví
-  - Strahlenflosser
-  - Ray-finned Fishes
-  - Aktinopterigoj
-  - Aktinopterüügid
-  - Kiiruimsed
-  - Viuhkaeväiset kalat
-  - Actinoptérygiens
-  - מקריני סנפיר
-  - Zrakoperke
-  - Sugarasúszójú halak
-  - 条鰭綱
-  - 조기어강
-  - Starspures
-  - strålefinnefisker
-  - promieniopłetwe
-  - Actinopterígio
-  - Лучепёрые рыбы
-  - Taggfeniga fiskar
-  - ปลาที่มีก้านครีบ
-  - Işınsal yüzgeçliler
-  - Променепері
-  - Lớp Cá vây tia
-  - 辐鳍鱼
+- Actinopterigi
+- Actinopterixios
+- Actinopterygii
+- Actinopterígio
+- Actinoptérygiens
+- Aktinopterigio
+- Aktinopterigoj
+- Aktinopterüügid
+- Geisluggar
+- Ika kaponga tala
+- Isda nga adunay raya ang kapay
+- Işınsal yüzgeçliler
+- Kiiruimsed
+- Klasifikacija košljoriba
+- Lúčoplutvovce
+- Lớp Cá vây tia
+- Maseyê roştperrıkıni
+- Masiyên perikên strîdar
+- nurqanatlı balıqlar
+- paprskoploutví
+- promieniopłetwe
+- Ray-finned Fishes
+- Starspures
+- starspurzivis
+- stipinpelekės žuvys
+- straalvinnigen
+- Straelvinnigen
+- Strahleflosser
+- Strahlenflosser
+- Stroalvinnign
+- Strualflikerten
+- Strålefinnede fisk
+- strålefinnefiskar
+- strålefinnefisker
+- Strålfeniga fiskar
+- Sugarasúszójú halak
+- Taggfeniga fiskar
+- viuhkaeväiset
+- Viuhkaeväiset kalat
+- Wach'i wayt'ana
+- Zrakoperke
+- Şüaüzgəclilər
+- žarkoplavutarice
+- Ακτινοπτερύγιοι
+- зракоперке
+- зракоперки
+- Лучепёрые рыбы
+- лъчеперки
+- нурканатлы балыклар
+- Пайăркалла ишкĕчлĕ пулă
+- прамянёвапёрыя
+- прамянёвапёрыя рыбы
+- Променепері
+- Тынсисджын кæсæгтæ
+- Чачылаканаттар
+- Қауырсын қанаттылар
+- ճառագայթալողակ ձկներ
+- מקריני סנפיר
+- ایٚکٹِنوپٹریگی
+- شعاعيات الزعانف
+- شواوزگجلیلر
+- ماسیێن پەرکێن ستریدار
+- پرتوبالگان
+- एक्टिनोप्टेरिजियी
+- ऐक्टिनोप्टरिजियाए
+- রশ্মি-পাখনার মাছ
+- அக்டினோட்டெரிகீயை
+- ആക്റ്റിനോറ്റെറിജിയൈ
+- ปลาที่มีก้านครีบ
+- სხივფარფლიანი თევზები
+- 条鰭綱
+- 条鰭類
+- 輻鰭魚
+- 輻鰭魚綱
+- 輻鰭魚總綱
+- 辐鳍鱼
+- 辐鳍鱼总纲
+- 辐鳍鱼纲
+- 조기어강
+- 조기어류
 has_id_wikidata: Q127282
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Aktinopterigoj.ogg
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Actinopterygii
 EPPO_Code: 1ACTNC
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Port%20Ghalib%20march%202006-0107.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pteronotropis%20signipinnis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Georgia%20Aquarium%20-%20Giant%20Grouper.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Port%20Ghalib%20march%202006-0107.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pteronotropis%20signipinnis.jpg
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 161061
 mode_of_reproduction: '[[_Standards/WikiData/WD~oviparity,212306]]'
@@ -41,41 +96,178 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Actinopterygii
 parent_taxon: '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
 start_time: -420000000-01-01
 taxon_common_name:
-  - paprskoploutví
-  - Strahlenflosser
-  - Ray-finned Fishes
-  - Aktinopterigoj
-  - Aktinopterüügid
-  - Kiiruimsed
-  - Viuhkaeväiset kalat
-  - Actinoptérygiens
-  - מקריני סנפיר
-  - Zrakoperke
-  - Sugarasúszójú halak
-  - 条鰭綱
-  - 조기어강
-  - Starspures
-  - strålefinnefisker
-  - promieniopłetwe
-  - Actinopterígio
-  - Лучепёрые рыбы
-  - Taggfeniga fiskar
-  - ปลาที่มีก้านครีบ
-  - Işınsal yüzgeçliler
-  - Променепері
-  - Lớp Cá vây tia
-  - 辐鳍鱼
+- paprskoploutví
+- Strahlenflosser
+- Ray-finned Fishes
+- Aktinopterigoj
+- Aktinopterüügid
+- Kiiruimsed
+- Viuhkaeväiset kalat
+- Actinoptérygiens
+- מקריני סנפיר
+- Zrakoperke
+- Sugarasúszójú halak
+- 条鰭綱
+- 조기어강
+- Starspures
+- strålefinnefisker
+- promieniopłetwe
+- Actinopterígio
+- Лучепёрые рыбы
+- Taggfeniga fiskar
+- ปลาที่มีก้านครีบ
+- Işınsal yüzgeçliler
+- Променепері
+- Lớp Cá vây tia
+- 辐鳍鱼
 taxon_name: Actinopterygii
 taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
 title: Actinopterygii
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Actinopterygii,11698092]]'
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Actinopterygii,13217713]]'
-  - '[[_Standards/WikiData/WD~Template_Actinopterygii_clade,121033204]]'
+- '[[_Standards/WikiData/WD~Template_Actinopterygii,11698092]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Actinopterygii,13217713]]'
+- '[[_Standards/WikiData/WD~Template_Actinopterygii_clade,121033204]]'
 UMLS_CUI: C0998822
+dv_has_:
+  name_:
+    af: Actinopterygii
+    an: Actinopterygii
+    ar: شعاعيات الزعانف
+    arz: شعاعيات الزعانف
+    ast: Actinopterygii
+    az: Şüaüzgəclilər
+    azb: شواوزگجلیلر
+    bar: Actinopterygii
+    be: прамянёвапёрыя рыбы
+    be-tarask: прамянёвапёрыя
+    bg: лъчеперки
+    bn: রশ্মি-পাখনার মাছ
+    br: Actinopterygii
+    ca: Actinopterigi
+    ceb: Isda nga adunay raya ang kapay
+    co: Actinopterygii
+    cs: paprskoploutví
+    cv: Пайăркалла ишкĕчлĕ пулă
+    cy: Actinopterygii
+    da: Strålefinnede fisk
+    de: Strahlenflosser
+    de-at: Actinopterygii
+    de-ch: Actinopterygii
+    diq: Maseyê roştperrıkıni
+    el: Ακτινοπτερύγιοι
+    en: Actinopterygii
+    en-ca: Actinopterygii
+    en-gb: Actinopterygii
+    eo: Aktinopterigoj
+    es: Actinopterygii
+    et: Kiiruimsed
+    eu: Aktinopterigio
+    ext: Actinopterygii
+    fa: پرتوبالگان
+    fi: viuhkaeväiset
+    fr: Actinopterygii
+    frp: Actinopterygii
+    frr: Strualflikerten
+    fur: Actinopterygii
+    ga: Actinopterygii
+    gd: Actinopterygii
+    gl: Actinopterixios
+    gsw: Strahleflosser
+    he: מקריני סנפיר
+    hi: ऐक्टिनोप्टरिजियाए
+    hr: Zrakoperke
+    hu: sugarasúszójú halak
+    hy: ճառագայթալողակ ձկներ
+    ia: Actinopterygii
+    id: Actinopterygii
+    ie: Actinopterygii
+    io: Actinopterygii
+    is: Geisluggar
+    it: Actinopterygii
+    ja: 条鰭類
+    jv: Actinopterygii
+    ka: სხივფარფლიანი თევზები
+    kg: Actinopterygii
+    kk: Қауырсын қанаттылар
+    ko: 조기어류
+    ks: ایٚکٹِنوپٹریگی
+    ku: Masiyên perikên strîdar
+    ku-arab: ماسیێن پەرکێن ستریدار
+    ku-latn: Masiyên perikên strîdar
+    ky: Чачылаканаттар
+    la: Actinopterygii
+    lb: Actinopterygii
+    li: Actinopterygii
+    lij: Actinopterygii
+    lt: stipinpelekės žuvys
+    lv: starspurzivis
+    mg: Actinopterygii
+    min: Actinopterygii
+    mk: зракоперки
+    ml: ആക്റ്റിനോറ്റെറിജിയൈ
+    ms: Actinopterygii
+    mul: Actinopterygii
+    nap: Actinopterygii
+    nb: strålefinnefisker
+    nds: Actinopterygii
+    nds-nl: Actinopterygii
+    new: एक्टिनोप्टेरिजियी
+    nl: straalvinnigen
+    nn: strålefinnefiskar
+    nrm: Actinopterygii
+    nys: Actinopterygii
+    oc: Actinopterygii
+    os: Тынсисджын кæсæгтæ
+    pcd: Actinopterygii
+    pl: promieniopłetwe
+    pms: Actinopterygii
+    pt: Actinopterygii
+    pt-br: Actinopterygii
+    qu: Wach'i wayt'ana
+    rm: Actinopterygii
+    ro: Actinopterygii
+    ru: лучепёрые рыбы
+    sc: Actinopterygii
+    scn: Actinopterygii
+    sco: Actinopterygii
+    sh: Klasifikacija košljoriba
+    sk: Lúčoplutvovce
+    sl: žarkoplavutarice
+    sq: Actinopterygii
+    sr: зракоперке
+    sr-ec: Зракоперке
+    sr-el: Zrakoperke
+    sv: Strålfeniga fiskar
+    sw: Actinopterygii
+    ta: அக்டினோட்டெரிகீயை
+    th: ปลาที่มีก้านครีบ
+    tl: Actinopterygii
+    to: Ika kaponga tala
+    tr: Işınsal yüzgeçliler
+    tt: нурканатлы балыклар
+    tt-cyrl: нурканатлы балыклар
+    tt-latn: nurqanatlı balıqlar
+    uk: променепері
+    vec: Actinopterygii
+    vi: lớp Cá vây tia
+    vls: Stroalvinnign
+    vo: Actinopterygii
+    wa: Actinopterygii
+    war: Actinopterygii
+    wo: Actinopterygii
+    wuu: 辐鳍鱼
+    yue: 輻鰭魚
+    zea: Straelvinnigen
+    zh: 輻鰭魚綱
+    zh-cn: 辐鳍鱼纲
+    zh-hans: 辐鳍鱼纲
+    zh-hant: 輻鰭魚總綱
+    zh-hk: 輻鰭魚總綱
+    zh-sg: 辐鳍鱼总纲
+    zh-tw: 輻鰭魚總綱
+    zu: Actinopterygii
 ---
-
 # [[Actinopterygii]]
 
 ## Ray-finned fishes 

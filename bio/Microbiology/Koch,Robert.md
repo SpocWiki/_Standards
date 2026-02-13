@@ -1,91 +1,130 @@
 ---
 aliases:
-  - Robert_Koch
-  - Heinrich Hermann Robert Koch
-  - Robert Koch
-  - Koch
-  - Koch,Robert
+- Heinrich Hermann Robert Koch
+- Koch
+- Koch,Robert
+- Robert Koch
+- Robert Kox
+- Roberts Kohs
+- Robertus Koch
+- Robert_Koch
+- Ρόμπερτ Κοχ
+- Генрих Герман Роберт Кох
+- Кох Роберт
+- Роберт Кох
+- Робэрт Кох
+- Ռոբերտ Կոխ
+- רוברט קוך
+- رابرت کخ
+- رابرٹ کوخ
+- رابرٹ کوچ
+- روبرت كوخ
+- روبرت کخ
+- روبرت کوخ
+- روبرټ کوخ
+- روبيرت كوخ
+- ڕۆبێرت کۆخ
+- राबर्ट् कोख्
+- रॉबर्ट कॉख
+- रॉबर्ट कोच
+- रोबर्ट कोच
+- রোবের্ট কখ
+- ਰਾਬਰਟ ਕੋਚ
+- રોબર્ટ કોચ
+- ରବର୍ଟ କଚ
+- ராபர்ட் கோக்
+- రాబర్ట్ కోచ్
+- ರಾಬರ್ಟ್ ಕಾಚ್
+- റോബർട്ട് കോഖ്
+- โรแบร์ท ค็อค
+- ကို့ချ်၊ ရောဘတ်
+- რობერტ კოხი
+- ሮቤርት ኮኽ
+- ロベルト・コッホ
+- 罗伯特·科赫
+- 羅伯柯霍
+- 로베르트 코흐
 has_id_wikidata: Q37193
 doctoral_advisor:
-  - '[[_Standards/WikiData/WD~Georg_Meissner,65840]]'
-  - '[[_Standards/WikiData/WD~Rudolf_Virchow,76432]]'
+- '[[_Standards/WikiData/WD~Georg_Meissner,65840]]'
+- '[[_Standards/WikiData/WD~Rudolf_Virchow,76432]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Emil_von_Behring,76425]]'
-  - '[[_Standards/WikiData/WD~August_von_Wassermann,77360]]'
-  - '[[_Standards/WikiData/WD~Kitasato_Shibasaburō,442225]]'
-  - '[[_Standards/WikiData/WD~Friedrich_August_Loeffler,60993]]'
+- '[[_Standards/WikiData/WD~Emil_von_Behring,76425]]'
+- '[[_Standards/WikiData/WD~August_von_Wassermann,77360]]'
+- '[[_Standards/WikiData/WD~Kitasato_Shibasaburō,442225]]'
+- '[[_Standards/WikiData/WD~Friedrich_August_Loeffler,60993]]'
 student:
-  - '[[_Standards/WikiData/WD~August_von_Wassermann,77360]]'
-  - '[[_Standards/WikiData/WD~Johannes_Fibiger,216324]]'
-  - '[[_Standards/WikiData/WD~John_Addison_Fordyce,2590864]]'
-  - '[[_Standards/WikiData/WD~Alexander_Crever_Abbott,19365396]]'
+- '[[_Standards/WikiData/WD~August_von_Wassermann,77360]]'
+- '[[_Standards/WikiData/WD~Johannes_Fibiger,216324]]'
+- '[[_Standards/WikiData/WD~John_Addison_Fordyce,2590864]]'
+- '[[_Standards/WikiData/WD~Alexander_Crever_Abbott,19365396]]'
 nominated_for: '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
-  - '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
-  - '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
-  - '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]'
-  - '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Red_Eagle,18579597]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Clausthal_Zellerfeld,57575890]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Physiology_or_Medicine,80061]]'
+- '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
+- '[[_Standards/WikiData/WD~Foreign_Member_of_the_Royal_Society,14906020]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Berlin,15124573]]'
+- '[[_Standards/WikiData/WD~Grand_Cross_of_the_Order_of_the_Red_Eagle,18579597]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Clausthal_Zellerfeld,57575890]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Royal_Society_of_Arts_and_Sciences_in_Gothenburg,835943]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Académie_Nationale_de_Médecine,337555]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Royal_Society_of_Arts_and_Sciences_in_Gothenburg,835943]]'
 relative: '[[_Standards/WikiData/WD~William_Threlfall,87109]]'
 employer: '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Göttingen,152838]]'
 work_location: '[[_Standards/WikiData/WD~German_East_Africa,153963]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]'
-  - '[[_Standards/WikiData/WD~German_Empire,43287]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Hanover,164079]]'
+- '[[_Standards/WikiData/WD~German_Empire,43287]]'
 occupation:
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~chemist,593644]]'
-  - '[[_Standards/WikiData/WD~biologist,864503]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~military_physician,4002666]]'
-  - '[[_Standards/WikiData/WD~photographer,33231]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~biologist,864503]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~military_physician,4002666]]'
+- '[[_Standards/WikiData/WD~photographer,33231]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Q24620202,24620202]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Hamburg_Biographies,1573212]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q24620202,24620202]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 archives_at: '[[_Standards/WikiData/WD~Robert_Koch_Institute,679041]]'
 contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Hermann,1158570]]'
-  - '[[_Standards/WikiData/WD~Heinrich,2018484]]'
-  - '[[_Standards/WikiData/WD~Robert,4927937]]'
+- '[[_Standards/WikiData/WD~Hermann,1158570]]'
+- '[[_Standards/WikiData/WD~Heinrich,2018484]]'
+- '[[_Standards/WikiData/WD~Robert,4927937]]'
 family_name: '[[_Standards/WikiData/WD~Koch,1348074]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 academic_degree: '[[_Standards/WikiData/WD~Doctor,4618975]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_birth: '[[_Standards/WikiData/WD~Clausthal,15377091]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Hugo_Koch,15429261]]'
-  - '[[_Standards/WikiData/WD~Helene_Koch,124219793]]'
+- '[[_Standards/WikiData/WD~Hugo_Koch,15429261]]'
+- '[[_Standards/WikiData/WD~Helene_Koch,124219793]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Hedwig_Koch,22249542]]'
-  - '[[_Standards/WikiData/WD~Emmy_Koch,22249541]]'
+- '[[_Standards/WikiData/WD~Hedwig_Koch,22249542]]'
+- '[[_Standards/WikiData/WD~Emmy_Koch,22249541]]'
 father: '[[_Standards/WikiData/WD~Hermann_Koch,23038394]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 child: '[[_Standards/WikiData/WD~Gertrud_Pfuhl,111214733]]'
@@ -104,17 +143,137 @@ ISNI: 0000000081456317
 Commons_gallery: Robert Koch
 Commons_category: Robert Koch
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=871430692
-  - http://www.digiporta.net/index.php?id=316232395
-  - http://www.digiporta.net/index.php?id=565530308
-  - http://www.digiporta.net/index.php?id=852837465
+- http://www.digiporta.net/index.php?id=871430692
+- http://www.digiporta.net/index.php?id=316232395
+- http://www.digiporta.net/index.php?id=565530308
+- http://www.digiporta.net/index.php?id=852837465
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Koch.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Koch%20signature.svg
 Krugosvet_article_archived_: biologiya/koh-robert
 Google_Doodle: celebrating-robert-koch
 Libris_URI: ljx02gr44ffn25w
+dv_has_:
+  name_:
+    ace: Robert Koch
+    af: Robert Koch
+    am: ሮቤርት ኮኽ
+    an: Robert Koch
+    ar: روبرت كوخ
+    arz: روبيرت كوخ
+    ast: Robert Koch
+    ay: Robert Koch
+    az: Robert Kox
+    azb: روبرت کوخ
+    ba: Генрих Герман Роберт Кох
+    ban: Robert Koch
+    be: Роберт Кох
+    be-tarask: Робэрт Кох
+    bg: Роберт Кох
+    bn: রোবের্ট কখ
+    br: Robert Koch
+    bs: Robert Koch
+    bxr: Роберт Кох
+    ca: Robert Koch
+    ceb: Robert Koch
+    ckb: ڕۆبێرت کۆخ
+    cs: Robert Koch
+    cv: Кох Роберт
+    cy: Robert Koch
+    da: Robert Koch
+    de: Robert Koch
+    diq: Robert Koch
+    el: Ρόμπερτ Κοχ
+    en: Robert Koch
+    en-gb: Robert Koch
+    eo: Robert Koch
+    es: Robert Koch
+    et: Robert Koch
+    eu: Robert Koch
+    fa: روبرت کخ
+    fi: Robert Koch
+    fr: Robert Koch
+    fy: Robert Koch
+    ga: Robert Koch
+    gd: Robert Koch
+    gl: Robert Koch
+    gsw: Robert Koch
+    gu: રોબર્ટ કોચ
+    haw: Robert Koch
+    he: רוברט קוך
+    hi: रॉबर्ट कोच
+    hr: Robert Koch
+    hu: Robert Koch
+    hy: Ռոբերտ Կոխ
+    id: Robert Koch
+    ie: Robert Koch
+    io: Robert Koch
+    is: Robert Koch
+    it: Robert Koch
+    ja: ロベルト・コッホ
+    jv: Robert Koch
+    ka: რობერტ კოხი
+    kk: Роберт Кох
+    kn: ರಾಬರ್ಟ್ ಕಾಚ್
+    ko: 로베르트 코흐
+    ku: Robert Koch
+    ky: Кох Роберт
+    la: Robertus Koch
+    lb: Robert Koch
+    lt: Robert Koch
+    lv: Roberts Kohs
+    mg: Robert Koch
+    mk: Роберт Кох
+    ml: റോബർട്ട് കോഖ്
+    mn: Роберт Кох
+    mr: रॉबर्ट कॉख
+    ms: Robert Koch
+    my: ကို့ချ်၊ ရောဘတ်
+    mzn: رابرت کخ
+    nan: Robert Koch
+    nb: Robert Koch
+    ne: रोबर्ट कोच
+    nl: Robert Koch
+    nn: Robert Koch
+    oc: Robert Koch
+    or: ରବର୍ଟ କଚ
+    pa: ਰਾਬਰਟ ਕੋਚ
+    pam: Robert Koch
+    pl: Robert Koch
+    pnb: رابرٹ کوخ
+    ps: روبرټ کوخ
+    pt: Robert Koch
+    pt-br: Robert Koch
+    qu: Robert Koch
+    ro: Robert Koch
+    ru: Роберт Кох
+    sa: राबर्ट् कोख्
+    sah: Роберт Кох
+    sc: Robert Koch
+    sh: Robert Koch
+    sk: Robert Koch
+    sl: Robert Koch
+    sq: Robert Koch
+    sr: Роберт Кох
+    sv: Robert Koch
+    sw: Robert Koch
+    ta: ராபர்ட் கோக்
+    te: రాబర్ట్ కోచ్
+    th: โรแบร์ท ค็อค
+    tl: Robert Koch
+    tr: Robert Koch
+    tt: Роберт Кох
+    uk: Роберт Кох
+    ur: رابرٹ کوچ
+    uz: Robert Koch
+    vi: Robert Koch
+    war: Robert Koch
+    wuu: 罗伯特·科赫
+    xmf: რობერტ კოხი
+    yo: Robert Koch
+    yue: 羅伯柯霍
+    zh: 罗伯特·科赫
+    zh-hans: 罗伯特·科赫
 ---
-
 # [[Koch,Robert]] 
 
 #is_/same_as :: [[WD~Robert_Koch,37193]] 

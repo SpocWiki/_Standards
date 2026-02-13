@@ -1,29 +1,149 @@
 ---
 aliases:
+- Hắc tố
+- meilinin
+- melaniidna
+- melaniin
+- melaniini
+- melanin
+- melanina
+- melaninas
+- Melanine
+- melaniner
+- Melanini
+- melanino
+- melaniny
+- melanină
+- Melanín
+- melanīns
+- mélanine
+- Μελανίνη
+- меланіни
+- Меланин
+- меланины
+- мэлянін
+- Մելանիններ
+- מלנין
+- ملانین
+- ميلانين
+- میلانین
+- मेलानिन
+- মেলানিন
+- மெலானின்
+- మెలనిన్
+- ಮೆಲನಿನ್
+- เมลานิน
+- မယ်လနင်
+- メラニン
+- 黑色素
+- 멜라닌
 has_id_wikidata: Q187526
 subclass_of:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~biological_pigment,910979]]"
-  - "[[_Standards/WikiData/WD~cell_pigment,66560141]]"
-instance_of: "[[_Standards/WikiData/WD~mixture,169336]]"
-different_from: "[[_Standards/WikiData/WD~melamine,212553]]"
-produced_by: "[[_Standards/WikiData/WD~melanocyte,247101]]"
+- '[[_Standards/WikiData/WD~pigment,161179]]'
+- '[[_Standards/WikiData/WD~biological_pigment,910979]]'
+- '[[_Standards/WikiData/WD~cell_pigment,66560141]]'
+instance_of: '[[_Standards/WikiData/WD~mixture,169336]]'
+different_from: '[[_Standards/WikiData/WD~melamine,212553]]'
+produced_by: '[[_Standards/WikiData/WD~melanocyte,247101]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 part_of:
-  - "[[_Standards/WikiData/WD~melanin_metabolic_process,14863384]]"
-  - "[[_Standards/WikiData/WD~melanin_biosynthetic_process_from_tyrosine,14865356]]"
-  - "[[_Standards/WikiData/WD~melanin_biosynthetic_process,14865360]]"
-  - "[[_Standards/WikiData/WD~melanin_catabolic_process,22282374]]"
+- '[[_Standards/WikiData/WD~melanin_metabolic_process,14863384]]'
+- '[[_Standards/WikiData/WD~melanin_biosynthetic_process_from_tyrosine,14865356]]'
+- '[[_Standards/WikiData/WD~melanin_biosynthetic_process,14865360]]'
+- '[[_Standards/WikiData/WD~melanin_catabolic_process,22282374]]'
 UMLS_CUI: C0025196
 MeSH_tree_code:
-  - D12.125.072.050.875.379
-  - D23.767.620
+- D12.125.072.050.875.379
+- D23.767.620
 Commons_category: Melanins
+dv_has_:
+  name_:
+    ar: ميلانين
+    ast: Melanina
+    az: Melanin
+    bcl: Melanina
+    be-tarask: мэлянін
+    bg: Меланин
+    bn: মেলানিন
+    bs: Melanin
+    ca: melanina
+    ckb: میلانین
+    cs: melanin
+    da: Melanin
+    de: Melanine
+    de-ch: Melanine
+    el: Μελανίνη
+    en: melanin
+    en-ca: melanin
+    en-gb: melanin
+    eo: melanino
+    es: melanina
+    es-419: melanina
+    et: melaniin
+    eu: Melanina
+    fa: ملانین
+    fi: melaniini
+    fr: mélanine
+    fy: Melanine
+    ga: meilinin
+    gl: Melanina
+    he: מלנין
+    hi: मेलानिन
+    hr: melanin
+    ht: Melanin
+    hu: melanin
+    hy: Մելանիններ
+    id: Melanin
+    it: melanina
+    ja: メラニン
+    kn: ಮೆಲನಿನ್
+    ko: 멜라닌
+    lt: melaninas
+    lv: melanīns
+    mk: Меланин
+    ms: Melanin
+    my: မယ်လနင်
+    nb: melanin
+    nl: melanine
+    nn: melanin
+    oc: Melanina
+    om: Melanin
+    pl: melaniny
+    pt: melanina
+    pt-br: Melanina
+    ro: melanină
+    ru: меланины
+    se: melaniidna
+    sh: Melanin
+    sk: Melanín
+    sl: melanin
+    smn: melaniin
+    sms: melaniin
+    sq: Melanina
+    sr: меланин
+    sr-ec: меланин
+    sv: melaniner
+    sw: Melanini
+    ta: மெலானின்
+    te: మెలనిన్
+    th: เมลานิน
+    tr: Melanin
+    uk: меланіни
+    ur: میلانین
+    vi: Hắc tố
+    wuu: 黑色素
+    yue: 黑色素
+    zh: 黑色素
+    zh-cn: 黑色素
+    zh-hans: 黑色素
+    zh-hant: 黑色素
+    zh-hk: 黑色素
+    zh-sg: 黑色素
+    zh-tw: 黑色素
 ---
-
 # [[Melanin]] 
 
 #is_/same_as :: [[WD~Melanin,187526]] 

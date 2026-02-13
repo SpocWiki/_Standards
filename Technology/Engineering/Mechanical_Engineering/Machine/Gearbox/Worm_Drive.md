@@ -1,12 +1,99 @@
 ---
 aliases:
+- angrenaj melcat
+- Chervyakli uzatma
+- csigahajtás
+- Kierukkavaihde
+- Parafuso rosca sem fim
+- Przekładnia ślimakowa
+- Pužni prijenos
+- Schneckengetriebe
+- Sekrup nirujung
+- snekke
+- snekkegir
+- snäckväxel
+- Sonsuzvint ötürməsi
+- Tiguülekanne
+- Torloju amaigabe
+- Torniellu ensin fin
+- tornillo sin fin
+- verma transmisiilo
+- Vis sans fin
+- vis sens fi
+- Vis sensa fin
+- worm drive
+- Wormwiel
+- šneková převodovka
+- Бұрамдық қырықаяқ
+- полжавен пренос
+- пужни пар
+- Чарвячная перадача
+- Черв'ячна передача
+- Червячна предавка
+- червячная передача
+- ترس دودي
+- چیدمان چرخدنده کرمی
+- ওয়ার্ম ড্রাইভ
+- திருகு பற்சக்கர இயக்கி
+- ウォームギヤ
+- 蜗轮
+- 蝸桿傳動
+- 蝸輪
+- 웜 드라이브
 has_id_wikidata: Q12529
-subclass_of: "[[_Standards/WikiData/WD~gearbox,6497460]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+subclass_of: '[[_Standards/WikiData/WD~gearbox,6497460]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Schnecke10.gif
 Commons_category: Worm gears
+dv_has_:
+  name_:
+    ar: ترس دودي
+    ast: Torniellu ensin fin
+    az: Sonsuzvint ötürməsi
+    be: Чарвячная перадача
+    be-tarask: чарвячная перадача
+    bg: Червячна предавка
+    bn: ওয়ার্ম ড্রাইভ
+    bs: Pužni prijenos
+    ca: vis sens fi
+    cs: šneková převodovka
+    da: snekke
+    de: Schneckengetriebe
+    en: worm drive
+    eo: verma transmisiilo
+    es: tornillo sin fin
+    et: Tiguülekanne
+    eu: Torloju amaigabe
+    fa: چیدمان چرخدنده کرمی
+    fi: Kierukkavaihde
+    fr: Vis sans fin
+    hr: Pužni prijenos
+    hu: csigahajtás
+    id: Sekrup nirujung
+    ja: ウォームギヤ
+    kk: Бұрамдық қырықаяқ
+    ko: 웜 드라이브
+    mk: полжавен пренос
+    nb: snekkegir
+    nl: Wormwiel
+    pl: Przekładnia ślimakowa
+    pms: Vis sensa fin
+    pt: Parafuso rosca sem fim
+    ro: angrenaj melcat
+    ru: червячная передача
+    sh: Pužni prijenos
+    sr: пужни пар
+    sr-ec: пужни пар
+    sv: snäckväxel
+    ta: திருகு பற்சக்கர இயக்கி
+    uk: Черв'ячна передача
+    uz: Chervyakli uzatma
+    yue: 蝸桿傳動
+    zh: 蝸桿傳動
+    zh-cn: 蜗轮
+    zh-hans: 蜗轮
+    zh-hant: 蝸輪
 ---
-
 # [[Worm_Drive]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Worm_drive,12529|WD~Worm_drive,12529]]   

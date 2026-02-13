@@ -1,32 +1,186 @@
 ---
 aliases:
-  - Mamaluk
-  - مملوك
-  - mamlūk
-  - مماليك
-  - mamālīk
-  - Mamluk
+- Chiến binh Mamluk
+- Dawladii Mamaaliikta
+- Mamaluk
+- Mamalúcach
+- Mameliukai
+- Mamelocs
+- Mamelouk
+- mameluc
+- Mamelucchi
+- Mameluci
+- Mameluco
+- mamelucos
+- mamelucs
+- Mamelucu
+- Mamelucy
+- mameluk
+- Mameluken
+- Mameluki
+- Mamelukid
+- mamelukit
+- Mamelukk
+- mamelukken
+- Mameluko
+- Mameluks
+- Mamelòka
+- Mamlouked
+- mamluc
+- Mamluci
+- Mamluk
+- Mamluken
+- Mamluker
+- Mamluklar
+- mamluko
+- Mamlukët
+- Mamlúki
+- mamlūk
+- Mammaluccu
+- mamālīk
+- Memluci
+- Memlukıci
+- Memlûk
+- Memlûkler
+- Məmlüklər
+- Μαμελούκοι
+- мамелук
+- Мамелуци
+- мамелюки
+- Мамелюци
+- мамлюк
+- мамлюкі
+- Мамлюктар
+- Мәмлүкләр
+- Мәмлүктер
+- Мәмлүктәр
+- Մամլուք
+- Մամլուքներ
+- ממלוכים
+- الدوله المملوكيه
+- بحری مملوک
+- مماليك
+- مملوك
+- مملوک
+- مەمالیک
+- मम्लुक
+- मामलुक
+- মামলুক
+- ਮਮਲੂਕ
+- மம்லூக்
+- มัมลูก
+- მამლუქები
+- マムルーク
+- 馬木留克
+- 马木留克
+- 马穆鲁克
+- 맘루크
 has_id_wikidata: Q947784
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Islamskiy_entsiklopedicheskiy_slovar',18517268]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~soldier,4991371]]"
-  - "[[_Standards/WikiData/WD~slave,12773225]]"
+- '[[_Standards/WikiData/WD~soldier,4991371]]'
+- '[[_Standards/WikiData/WD~slave,12773225]]'
 OmegaWiki_Defined_Meaning: 724304
 Commons_category: Mamluks
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mameluke-in-Full-Armour.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mamluk.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mameluke-in-Full-Armour.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mamluk.jpg
 Krugosvet_article_archived_: istoriya/MAMLYUK.html
+dv_has_:
+  name_:
+    af: Mameluk
+    ar: مملوك
+    arz: الدوله المملوكيه
+    ast: Mamelucu
+    az: Məmlüklər
+    azb: مملوک
+    ba: Мәмлүктәр
+    be-tarask: мамлюкі
+    bg: Мамелюци
+    bn: মামলুক
+    br: Mamlouked
+    bs: Memluci
+    ca: mamelucs
+    ckb: مەمالیک
+    cs: mameluk
+    da: Mameluk
+    de: Mamluken
+    diq: Memlukıci
+    el: Μαμελούκοι
+    en: Mamluk
+    eo: mamluko
+    es: mamelucos
+    et: Mamelukid
+    eu: Mameluko
+    fa: مملوک
+    fi: mamelukit
+    fr: Mamelouk
+    ga: Mamalúcach
+    gl: Mameluco
+    gsw: Mameluken
+    he: ממלוכים
+    hi: मामलुक
+    hr: Mameluci
+    hu: Mameluk
+    hy: Մամլուքներ
+    hyw: Մամլուք
+    id: Mamluk
+    is: Mamlúki
+    it: Mamelucchi
+    ja: マムルーク
+    ka: მამლუქები
+    kk: Мәмлүктер
+    ko: 맘루크
+    ku: Memlûk
+    ky: Мамлюктар
+    la: Mamluci
+    lfn: mamluc
+    lt: Mameliukai
+    lv: Mameluks
+    mg: Mamelòka
+    mk: мамелук
+    mn: Мамлюк
+    ms: Mamluk
+    nb: Mamelukk
+    new: मम्लुक
+    nl: mamelukken
+    nn: Mamelukk
+    oc: Mamelocs
+    pa: ਮਮਲੂਕ
+    pl: Mamelucy
+    pnb: بحری مملوک
+    pt: Mamelucos
+    ro: mameluc
+    ru: мамлюк
+    scn: Mammaluccu
+    sco: Mamluk
+    sh: Mameluci
+    sk: Mameluci
+    sl: Mameluki
+    so: Dawladii Mamaaliikta
+    sq: Mamlukët
+    sr: Мамелуци
+    sv: Mamluker
+    ta: மம்லூக்
+    th: มัมลูก
+    tr: Memlûkler
+    tt: Мәмлүкләр
+    uk: мамелюки
+    ur: مملوک
+    uz: Mamluklar
+    vi: Chiến binh Mamluk
+    wuu: 马穆鲁克
+    yue: 馬木留克
+    zh: 马木留克
 ---
-
 # [[Mamluk]] 
 
 #is_/same_as :: [[WD~Mamluk,947784]] 

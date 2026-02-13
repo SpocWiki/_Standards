@@ -1,52 +1,86 @@
 ---
 aliases:
-  - optician
-  - optician
-  - Optician
-  - is_an_optician
-  - Optiker
+- is_an_optician
+- optician
+- opticien
+- optik
+- Optiker
+- optikisto
+- optikos fizikas
+- optikvetenskapare
+- optisch onderzoeker
+- òtego
+- óptico
+- оптик
+- фізік-оптык
+- физик-оптик
+- 光学者
+- 光學家
+- 광학자
 has_id_wikidata: Q71133019
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - optician
+- optician
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_optician Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_optician Class
 type: Type
 subclass_of: '[[_Standards/WikiData/WD~physicist,169470]]'
 different_from: '[[_Standards/WikiData/WD~optician,1996635]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~occupation,12737077]]'
-  - '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640]]'
 field_of_this_occupation: '[[_Standards/WikiData/WD~optics,14620]]'
 female_form_of_label:
-  - opticienne
-  - Optikerin
-  - optikistino
-  - optičarka
-  - optička
-  - Optikerin
-  - optikos fizikė
+- opticienne
+- Optikerin
+- optikistino
+- optičarka
+- optička
+- Optikerin
+- optikos fizikė
 male_form_of_label:
-  - Optiker
-  - optikisto
-  - Optiker
-  - optikos fizikas
+- Optiker
+- optikisto
+- Optiker
+- optikos fizikas
 Commons_category: Optical scientists
+dv_has_:
+  name_:
+    be: фізік-оптык
+    cs: optik
+    de: Optiker
+    de-at: Optiker
+    de-ch: Optiker
+    en: optician
+    eo: optikisto
+    fr: opticien
+    gl: óptico
+    ja: 光学者
+    ko: 광학자
+    lt: optikos fizikas
+    nl: optisch onderzoeker
+    os: оптик
+    ru: физик-оптик
+    sl: optik
+    sv: optikvetenskapare
+    uk: оптик
+    vec: òtego
+    zh-hant: 光學家
+    zh-tw: 光學家
 ---
-
 # [[Optician]] 
 
 Class of all opticians.

@@ -10,7 +10,7 @@ confidential: public
 cssclasses:
   - Type
 draft: false
-enumerationtype: SizeSystemEnumeration
+enumerationtype: "[[../Size_System_Enumeration|Size_System_Enumeration]]"
 expiryDate: ""
 isDeleted: false
 isReadOnly: false
@@ -28,8 +28,8 @@ title: is_a_size_system_metric Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../SizeSystemEnumeration]]"
-  enum_of: "[[../SizeSystemEnumeration]]"
+  parent_class: "[[../Size_System_Enumeration|Size_System_Enumeration]]"
+  enum_of: "[[../Size_System_Enumeration|Size_System_Enumeration]]"
   same_as:
     - "[[/_Standards/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric|Size_System_Metric]]"
     - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.public|Size_System_Metric.public]]"
@@ -40,8 +40,8 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.secret|Size_System_Metric.secret]]"
     - "[[Size_System_Metric]]"
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../SizeSystemEnumeration]]"
-dv_is_enum_of: "[[../SizeSystemEnumeration]]"
+dv_has_parent_class: "[[../Size_System_Enumeration|Size_System_Enumeration]]"
+dv_is_enum_of: "[[../Size_System_Enumeration|Size_System_Enumeration]]"
 dv_is_same_as:
   - "[[Size_System_Metric]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.public|Size_System_Metric.public]]"
@@ -52,18 +52,18 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration/Size_System_Metric.secret|Size_System_Metric.secret]]"
 ---
 
-Class of all size_system_metrics.
-
-Tag Instances like this: 
-#is_a_/size_system_metric
-
-is_part_of = `=this.dv_is_part_of` 
-
-Metric size system.
+# [[Size_System_Metric]] 
 
 has_parent_class = `=this.dv_has_parent_class` 
 
 is_enum_of = `=this.dv_is_enum_of` 
+
+is_part_of = `=this.dv_is_part_of` 
+
+The Metric size system.
+
+Tag Instances like this: 
+#is_a_/size_system_/metric
 
 ## Confidential Links & Embeds: 
 

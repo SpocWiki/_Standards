@@ -1,11 +1,135 @@
 ---
 aliases:
-  - Beri Beri
-  - Thiamine deficiency
-  - beriberi
-  - Beri_Beri
+- Beri Beri
+- Beri-beri
+- Beribeeri
+- beriberi
+- Beriberi liga
+- Beriberio
+- Beribero
+- beribéri
+- Beri_Beri
+- Berîberî
+- Berï-berï
+- béribéri
+- Manas
+- penyakit sebar
+- Taugakröm
+- Thiamine deficiency
+- Thiếu vitamin B1
+- μπέρι-μπέρι
+- Бері-бері
+- Бери-бери
+- Берибери
+- Беры-беры
+- Բերի-բերի
+- בריברי
+- بئری-بئری
+- بریبری
+- بێریبێری
+- بەرىي-بەرىي
+- نقص الثيامين
+- बेरीबेरी
+- বেরিবেরি
+- বেৰিবেৰি
+- ଥିଆମିନ ଅଭାବ
+- பெரிபெரி
+- బెరిబెరి
+- โรคเหน็บชา
+- ဗယ်ရီ ဗယ်ရီ
+- ბერი-ბერი
+- 脚气病
+- 脚気
+- 腳氣病
+- 각기병
+has_id_wikidata: Q184084
+dv_has_:
+  name_:
+    af: Beri-beri
+    ar: نقص الثيامين
+    as: বেৰিবেৰি
+    az: Beri-beri
+    azb: بئری-بئری
+    be: Беры-беры
+    bg: Бери-бери
+    bn: বেরিবেরি
+    ca: Beri-Beri
+    ckb: بێریبێری
+    cs: beri-beri
+    da: Beriberi
+    de: Beriberi
+    el: μπέρι-μπέρι
+    en: beriberi
+    eo: Beribero
+    es: Beriberi
+    et: Beribeeri
+    eu: beriberi
+    fa: بریبری
+    fi: Beriberi
+    fo: Beriberi
+    fr: béribéri
+    ga: beri-beri
+    gl: Beriberi
+    he: בריברי
+    hi: बेरीबेरी
+    hr: Beri-beri
+    hu: beri-beri
+    hy: Բերի-բերի
+    id: Beri-beri
+    io: Beriberio
+    is: Taugakröm
+    it: beriberi
+    ja: 脚気
+    ka: ბერი-ბერი
+    kk: Бери-бери
+    kk-arab: بەرىي-بەرىي
+    kk-cn: بەرىي-بەرىي
+    kk-cyrl: Бери-бери
+    kk-kz: Бери-бери
+    kk-latn: Berï-berï
+    kk-tr: Berï-berï
+    ko: 각기병
+    ku: Berîberî
+    la: Beriberi
+    lt: Beriberi liga
+    mk: Бери-бери
+    ms: penyakit sebar
+    my: ဗယ်ရီ ဗယ်ရီ
+    nb: beriberi
+    nl: Beriberi
+    nn: beriberi
+    or: ଥିଆମିନ ଅଭାବ
+    pl: Beri-beri
+    pt: beribéri
+    ro: beriberi
+    ru: Бери-бери
+    rue: Бери-бери
+    rup: Beriberi
+    sco: beriberi
+    sh: Beriberi
+    sl: Beriberi
+    sr: Берибери
+    sr-ec: Берибери
+    sr-el: Beriberi
+    sv: beriberi
+    ta: பெரிபெரி
+    te: బెరిబెరి
+    tg: Бери-бери
+    th: โรคเหน็บชา
+    tl: Manas
+    tr: Beriberi
+    uk: Бері-бері
+    uz: Beriberi
+    vi: Thiếu vitamin B1
+    wuu: 脚气病
+    zh: 脚气病
+    zh-cn: 脚气病
+    zh-hans: 脚气病
+    zh-hant: 腳氣病
+    zh-hk: 腳氣病
+    zh-sg: 脚气病
+    zh-tw: 腳氣病
 ---
-
 #is_/similar_to :: [[Vitamin_C/Scurvy]] 
 
 ## #has_/text_of_/abstract 

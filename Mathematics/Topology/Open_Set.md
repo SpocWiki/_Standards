@@ -1,16 +1,123 @@
 ---
 aliases:
+- atviroji aibė
+- avoin joukko
+- conjunt obert
+- conjunto aberto
+- conjunto abierto
+- conxunto aberto
+- conxuntu abiertu
+- ensemble ouvert
+- himpunan terbuka
+- insieme aperto
+- kinnine hulk
+- malfermita aro
+- multzo ireki
+- mulțime deschisă
+- nyílt halmaz
+- odprta množica
+- offene Menge
+- open mengd
+- open set
+- open verzameling
+- opið mengi
+- otevřená množina
+- otvoren skup
+- otvorená množina
+- set terbuka
+- subspatium apertum
+- tập mở
+- zbiór otwarty
+- åben mængde
+- åpen mengde
+- öppen mängd
+- ανοικτό σύνολο
+- адкрытае мноства
+- асыҡ күмәклек
+- ачык көптүк
+- відкрита множина
+- отворен скуп
+- отворено множество
+- открытое множество
+- уçă йыш
+- קבוצה פתוחה
+- مجموعة مفتوحة
+- مجموعه باز
+- 开集
+- 開集
+- 開集合
+- 열린집합
 has_id_wikidata: Q213363
-subclass_of: "[[_Standards/WikiData/WD~Gδ_set,127244]]"
-opposite_of: "[[_Standards/WikiData/WD~closed_set,320357]]"
-has_part_s_: "[[_Standards/WikiData/WD~interior,862761]]"
-does_not_have_part: "[[_Standards/WikiData/WD~boundary,875399]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-part_of: "[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]"
-has_characteristic: "[[_Standards/WikiData/WD~openness,60644734]]"
-studied_by: "[[_Standards/WikiData/WD~topology,42989]]"
+subclass_of: '[[_Standards/WikiData/WD~Gδ_set,127244]]'
+opposite_of: '[[_Standards/WikiData/WD~closed_set,320357]]'
+has_part_s_: '[[_Standards/WikiData/WD~interior,862761]]'
+does_not_have_part: '[[_Standards/WikiData/WD~boundary,875399]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~list_of_types_of_sets,28659876]]'
+has_characteristic: '[[_Standards/WikiData/WD~openness,60644734]]'
+studied_by: '[[_Standards/WikiData/WD~topology,42989]]'
+dv_has_:
+  name_:
+    ar: مجموعة مفتوحة
+    ast: conxuntu abiertu
+    ba: асыҡ күмәклек
+    be-tarask: адкрытае мноства
+    bg: отворено множество
+    ca: conjunt obert
+    cs: otevřená množina
+    cv: уçă йыш
+    da: åben mængde
+    de: offene Menge
+    el: ανοικτό σύνολο
+    en: open set
+    en-ca: open set
+    en-gb: open set
+    eo: malfermita aro
+    es: conjunto abierto
+    et: kinnine hulk
+    eu: multzo ireki
+    fa: مجموعه باز
+    fi: avoin joukko
+    fr: ensemble ouvert
+    gl: conxunto aberto
+    he: קבוצה פתוחה
+    hr: otvoren skup
+    hu: nyílt halmaz
+    id: himpunan terbuka
+    is: opið mengi
+    it: insieme aperto
+    ja: 開集合
+    ko: 열린집합
+    ky: ачык көптүк
+    la: subspatium apertum
+    lt: atviroji aibė
+    lzh: 開集
+    ms: set terbuka
+    nb: åpen mengde
+    nl: open verzameling
+    nn: open mengd
+    pl: zbiór otwarty
+    pt: conjunto aberto
+    pt-br: conjunto aberto
+    ro: mulțime deschisă
+    ru: открытое множество
+    sk: otvorená množina
+    sl: odprta množica
+    sr: отворен скуп
+    sr-ec: отворен скуп
+    sr-el: otvoren skup
+    sv: öppen mängd
+    uk: відкрита множина
+    vi: tập mở
+    yue: 開集
+    zh: 开集
+    zh-cn: 开集
+    zh-hans: 开集
+    zh-hant: 開集
+    zh-hk: 開集
+    zh-sg: 开集
+    zh-tw: 開集
 ---
-
 # [[Open_Set]] 
 
 #is_/same_as :: [[WD~Open_set,213363]] 

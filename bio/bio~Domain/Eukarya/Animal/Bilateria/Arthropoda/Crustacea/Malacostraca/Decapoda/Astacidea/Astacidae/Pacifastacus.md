@@ -1,9 +1,51 @@
 ---
 aliases:
-  - Pacifastacus
+- Pacifastacus
+- جراد الماء العذب الهادئ
 title: Pacifastacus
+has_id_wikidata: Q3023573
+dv_has_:
+  name_:
+    an: Pacifastacus
+    ar: جراد الماء العذب الهادئ
+    ast: Pacifastacus
+    bg: Pacifastacus
+    ca: Pacifastacus
+    ceb: Pacifastacus
+    cs: Pacifastacus
+    de: Pacifastacus
+    en: Pacifastacus
+    eo: Pacifastacus
+    es: Pacifastacus
+    eu: Pacifastacus
+    ext: Pacifastacus
+    fi: Pacifastacus
+    fr: Pacifastacus
+    ga: Pacifastacus
+    gl: Pacifastacus
+    ia: Pacifastacus
+    id: Pacifastacus
+    ie: Pacifastacus
+    io: Pacifastacus
+    it: Pacifastacus
+    la: Pacifastacus
+    mul: Pacifastacus
+    nb: Pacifastacus
+    nl: Pacifastacus
+    oc: Pacifastacus
+    pl: Pacifastacus
+    pt: Pacifastacus
+    pt-br: Pacifastacus
+    ro: Pacifastacus
+    ru: Pacifastacus
+    sl: Pacifastacus
+    sq: Pacifastacus
+    sv: Pacifastacus
+    uk: Pacifastacus
+    vi: Pacifastacus
+    vo: Pacifastacus
+    war: Pacifastacus
 ---
-
 # [[Pacifastacus]]  
 
 

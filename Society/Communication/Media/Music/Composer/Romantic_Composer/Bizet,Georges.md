@@ -1,46 +1,70 @@
 ---
 aliases:
-  - Georges_Bizet
-  - Georges Bizet
-  - Bizet
-  - Alexandre César Léopold Bizet
-  - Bizet,Georges
+- Alexandre César Léopold Bizet
+- Bize Jorj
+- Bizet
+- Bizet,Georges
+- Georges Bizet
+- Georges_Bizet
+- Georgius Bizet
+- Jorj Bize
+- Žoržs Bizē
+- Ζορζ Μπιζέ
+- Бизе Жорж
+- Жорж Бізе
+- Жорж Бізэ
+- Жорж Бизе
+- Ժորժ Բիզե
+- ז'ורז' ביזה
+- זשארזש ביזע
+- جورج بيزيه
+- جۆرج بیزە
+- ژرژ بیزه
+- जॉर्जेस बिझेत
+- ฌอร์ฌ บีแซ
+- ჟორჟ ბიზე
+- ジョルジュ・ビゼー
+- 乔治·比才
+- 佐治·比才
+- 喬治·比才
+- 比才
+- 조르주 비제
 has_id_wikidata: Q56158
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~classical_composer,21680663]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~classical_composer,21680663]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Carmen,185968]]'
-  - '[[_Standards/WikiData/WD~The_Pearl_Fishers,56159]]'
+- '[[_Standards/WikiData/WD~Carmen,185968]]'
+- '[[_Standards/WikiData/WD~The_Pearl_Fishers,56159]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Fromental_Halévy,313917]]'
-  - '[[_Standards/WikiData/WD~Antoine_François_Marmontel,586181]]'
-  - '[[_Standards/WikiData/WD~Antonin_Marmontel,598974]]'
-  - '[[_Standards/WikiData/WD~Pierre_Joseph_Guillaume_Zimmermann,1348126]]'
-  - '[[_Standards/WikiData/WD~François_Benoist,1450915]]'
+- '[[_Standards/WikiData/WD~Fromental_Halévy,313917]]'
+- '[[_Standards/WikiData/WD~Antoine_François_Marmontel,586181]]'
+- '[[_Standards/WikiData/WD~Antonin_Marmontel,598974]]'
+- '[[_Standards/WikiData/WD~Pierre_Joseph_Guillaume_Zimmermann,1348126]]'
+- '[[_Standards/WikiData/WD~François_Benoist,1450915]]'
 place_of_death: '[[_Standards/WikiData/WD~Bougival,399342]]'
 educated_at: '[[_Standards/WikiData/WD~Conservatoire_de_Paris,463055]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Prix_de_Rome,576434]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Prix_de_Rome,576434]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 genre:
-  - '[[_Standards/WikiData/WD~French_opera,662073]]'
-  - '[[_Standards/WikiData/WD~opera,1344]]'
-  - '[[_Standards/WikiData/WD~symphony,9734]]'
+- '[[_Standards/WikiData/WD~French_opera,662073]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~symphony,9734]]'
 child: '[[_Standards/WikiData/WD~Jacques_Bizet,1677908]]'
 place_of_birth: "[[_Standards/WikiData/WD~Rue_Louise_Émilie_de_La_Tour_d'Auvergne,2378296]]"
 spouse: '[[_Standards/WikiData/WD~Geneviève_Halévy,3100658]]'
@@ -80,10 +104,149 @@ name_in_native_language: Georges Bizet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20bizet.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Georges%20Bizet%20signature.png
 ISNI:
-  - 0000000121204254
-  - 0000000420451714
+- 0000000121204254
+- 0000000420451714
+dv_has_:
+  name_:
+    af: Georges Bizet
+    an: Georges Bizet
+    ar: جورج بيزيه
+    arz: جورج بيزيه
+    ast: Georges Bizet
+    az: Jorj Bize
+    azb: ژرژ بیزه
+    ba: Жорж Бизе
+    bar: Georges Bizet
+    be: Жорж Бізэ
+    be-tarask: Жорж Бізэ
+    bg: Жорж Бизе
+    bm: Georges Bizet
+    br: Georges Bizet
+    ca: Georges Bizet
+    cdo: Georges Bizet
+    ckb: جۆرج بیزە
+    co: Georges Bizet
+    cs: Georges Bizet
+    cy: Georges Bizet
+    da: Georges Bizet
+    de: Georges Bizet
+    de-at: Georges Bizet
+    de-ch: Georges Bizet
+    el: Ζορζ Μπιζέ
+    en: Georges Bizet
+    en-ca: Georges Bizet
+    en-gb: Georges Bizet
+    eo: Georges Bizet
+    es: Georges Bizet
+    et: Georges Bizet
+    eu: Georges Bizet
+    ext: Georges Bizet
+    fa: ژرژ بیزه
+    fi: Georges Bizet
+    fo: Georges Bizet
+    fr: Georges Bizet
+    frc: Georges Bizet
+    frp: Georges Bizet
+    fur: Georges Bizet
+    ga: Georges Bizet
+    gd: Georges Bizet
+    gl: Georges Bizet
+    gsw: Georges Bizet
+    hak: Georges Bizet
+    he: ז'ורז' ביזה
+    hr: Georges Bizet
+    ht: Georges Bizet
+    hu: Georges Bizet
+    hy: Ժորժ Բիզե
+    ia: Georges Bizet
+    id: Georges Bizet
+    ie: Georges Bizet
+    io: Georges Bizet
+    is: Georges Bizet
+    it: Georges Bizet
+    ja: ジョルジュ・ビゼー
+    jam: Georges Bizet
+    ka: ჟორჟ ბიზე
+    kab: Georges Bizet
+    kbp: Georges Bizet
+    kg: Georges Bizet
+    kk: Жорж Бизе
+    kl: Georges Bizet
+    ko: 조르주 비제
+    ky: Бизе Жорж
+    la: Georgius Bizet
+    lb: Georges Bizet
+    lfn: Georges Bizet
+    li: Georges Bizet
+    lij: Georges Bizet
+    lt: Georges Bizet
+    lv: Žoržs Bizē
+    mg: Georges Bizet
+    min: Georges Bizet
+    mk: Жорж Бизе
+    mn: Жорж Бизе
+    mr: जॉर्जेस बिझेत
+    ms: Georges Bizet
+    mul: Georges Bizet
+    nan: Georges Bizet
+    nap: Georges Bizet
+    nb: Georges Bizet
+    nds: Georges Bizet
+    nds-nl: Georges Bizet
+    nl: Georges Bizet
+    nn: Georges Bizet
+    nrm: Georges Bizet
+    oc: Georges Bizet
+    pam: Georges Bizet
+    pap: Georges Bizet
+    pcd: Georges Bizet
+    pl: Georges Bizet
+    pms: Georges Bizet
+    prg: Georges Bizet
+    pt: Georges Bizet
+    pt-br: Georges Bizet
+    qu: Georges Bizet
+    rgn: Georges Bizet
+    rm: Georges Bizet
+    ro: Georges Bizet
+    ru: Жорж Бизе
+    sc: Georges Bizet
+    scn: Georges Bizet
+    sco: Georges Bizet
+    sh: Georges Bizet
+    sk: Georges Bizet
+    sl: Georges Bizet
+    sq: Georges Bizet
+    sr: Жорж Бизе
+    sr-ec: Жорж Бизе
+    sr-el: Georges Bizet
+    sv: Georges Bizet
+    sw: Georges Bizet
+    tg: Жорж Бизе
+    th: ฌอร์ฌ บีแซ
+    tr: Georges Bizet
+    tt: Georges Bizet
+    uk: Жорж Бізе
+    uz: Bize Jorj
+    vec: Georges Bizet
+    vi: Georges Bizet
+    vls: Georges Bizet
+    vmf: Georges Bizet
+    vo: Georges Bizet
+    wa: Georges Bizet
+    war: Georges Bizet
+    wo: Georges Bizet
+    wuu: 乔治·比才
+    yi: זשארזש ביזע
+    yue: 比才
+    zh: 乔治·比才
+    zh-cn: 乔治·比才
+    zh-hans: 乔治·比才
+    zh-hant: 喬治·比才
+    zh-hk: 佐治·比才
+    zh-tw: 喬治·比才
+    zu: Georges Bizet
 ---
-
 # [[Bizet,Georges]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Georges_Bizet,56158|WD~Georges_Bizet,56158]] 

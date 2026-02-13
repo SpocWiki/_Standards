@@ -1,14 +1,59 @@
 ---
 aliases:
-  - Estates_of_the_realm
-  - estates of the realm, or three estates
-  - Estates_of_the_Realm
-  - Estates of the Realm
+- ceto sociale
+- darjat-darjat masyarakat eropah lama
+- estament
+- estamento
+- estamentu
+- Estates of the Realm
+- estates of the realm, or three estates
+- Estates_of_the_realm
+- golongan kawula negara
+- luomas
+- ordre
+- rend
+- seisus
+- socia tavolo de Mezepoka Eŭropo
+- soslovïye
+- stalež
+- stan
+- stand
+- Standenmaatschappij
+- stanovi
+- stare
+- status regni
+- stav
+- stavy
+- Ständeordnung
+- ståndssamhälle
+- sääty
+- teir urzh ar gevredigezh
+- Tiers-Etats
+- ystadau'r deyrnas
+- òrdre
+- τάξεις
+- саслоўе
+- сословие
+- сталежи
+- стан
+- суспільний стан
+- съсловие
+- ҡатлам
+- սոցիալական շերտավորում
+- קורפורציה
+- رسته اجتماعی
+- سوسلوۆىييە
+- طبقات المجتمع الأوروبي في العصر القديم
+- ฐานันดรแห่งราชอาณาจักร
+- 三身分
+- 國度層次
+- 王國議會
+- 중세 사회 계급
 has_id_wikidata: Q657326
 has_part_s_:
-  - '[[_Standards/WikiData/WD~nobility,134737]]'
-  - '[[_Standards/WikiData/WD~clergy,177826]]'
-  - '[[_Standards/WikiData/WD~Third_Estate,909656]]'
+- '[[_Standards/WikiData/WD~nobility,134737]]'
+- '[[_Standards/WikiData/WD~clergy,177826]]'
+- '[[_Standards/WikiData/WD~Third_Estate,909656]]'
 subclass_of: '[[_Standards/WikiData/WD~social_class,187588]]'
 different_from: '[[_Standards/WikiData/WD~Stan,292230]]'
 part_of: '[[_Standards/WikiData/WD~tripartite_society,587666]]'
@@ -16,12 +61,73 @@ described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656
 partially_coincident_with: '[[_Standards/WikiData/WD~estate_of_the_realm,127871326]]'
 U_S_National_Archives_Identifier: 10638357
 Provenio_UUID:
-  - 5855b64c-db1b-4550-9a3a-d481aef17b78
-  - 7c62e9be-6be5-4f38-b9de-cecdcba8054a
+- 5855b64c-db1b-4550-9a3a-d481aef17b78
+- 7c62e9be-6be5-4f38-b9de-cecdcba8054a
 Commons_gallery: Estates of the realm
 Commons_category: Estates of the realm
+dv_has_:
+  name_:
+    ar: طبقات المجتمع الأوروبي في العصر القديم
+    ast: estamentu
+    ba: ҡатлам
+    be: саслоўе
+    be-tarask: стан
+    bg: съсловие
+    br: teir urzh ar gevredigezh
+    ca: estament
+    cs: stavy
+    cy: ystadau'r deyrnas
+    da: stand
+    de: Ständeordnung
+    de-ch: Ständeordnung
+    el: τάξεις
+    en: estates of the realm
+    en-ca: estates of the realm
+    en-gb: estates of the realm
+    eo: socia tavolo de Mezepoka Eŭropo
+    es: estamento
+    et: seisus
+    eu: estamentu
+    fa: رسته اجتماعی
+    fi: sääty
+    fr: ordre
+    gl: estamento
+    gsw: Ständeordnung
+    he: קורפורציה
+    hr: stalež
+    hu: rend
+    hy: սոցիալական շերտավորում
+    id: golongan kawula negara
+    it: ceto sociale
+    ja: 三身分
+    kk: сословие
+    kk-arab: سوسلوۆىييە
+    kk-cyrl: сословие
+    kk-latn: soslovïye
+    ko: 중세 사회 계급
+    la: status regni
+    lb: Stand
+    lt: luomas
+    ms: darjat-darjat masyarakat eropah lama
+    nb: stand
+    nl: Standenmaatschappij
+    oc: òrdre
+    pl: stan
+    pt: estamento
+    pt-br: estamento
+    ro: stare
+    ru: сословие
+    sk: stav
+    sl: stanovi
+    sr: сталежи
+    sv: ståndssamhälle
+    th: ฐานันดรแห่งราชอาณาจักร
+    tr: Tiers-Etats
+    uk: суспільний стан
+    yue: 國度層次
+    zh: 王國議會
+    zh-hant: 王國議會
 ---
-
 # [[Estates_of_the_Realm]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Estates_of_the_realm,657326|WD~Estates_of_the_realm,657326]] 

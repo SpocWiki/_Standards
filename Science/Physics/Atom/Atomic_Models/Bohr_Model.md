@@ -1,28 +1,184 @@
 ---
-has_time_started: 1913-01-01 
+has_time_started: 1913-01-01
 aliases:
-  - Bohr model
-  - Rutherford–Bohr model
-  - Bohr_Model
-  - Bohr Model
+- atoma modelo de Bohr
+- Atommodell
+- atoommodel van Bohr
+- Bohr model
+- Bohr modeli
+- Bohr-féle atommodell
+- Bohri aatomiteooria
+- Bohrin malli
+- Bohrov model atoma
+- Bohrov model atómu
+- Bohrren eredu atomikoa
+- Bohrs atommodel
+- Bohrs atommodell
+- Bohrsches Atommodell
+- Bohr_Model
+- Bohrův model atomu
+- Bor modeli
+- Bor postulatlari
+- Bor postwlattarı
+- Bora atoma struktūras modelis
+- Boro teorija
+- Borov model atoma
+- Model atomu Bohra
+- model atòmic de Bohr
+- Model Bohr
+- modello atomico di Bohr
+- Modelo atomico de Bohr
+- modelo atómico de Bohr
+- Modelong Bohr
+- Modelu atómicu de Bohr
+- modelul atomic Bohr
+- modèle de Bohr
+- Mudèllu atòmicu di Bohr
+- Mô hình Bohr
+- Rutherford–Bohr model
+- Samhail Bohr
+- Skallmodellen
+- Átomo de Bohr
+- Ατομικό πρότυπο του Μπορ
+- Атăмăн Бор моделĕ
+- Бор постулаттары
+- Бораўская мадэль атама
+- Бораўская мадэль атаму
+- Боров модел
+- Боров модел атома
+- Боровская модель атома
+- Модел на Бор
+- Модель Бора
+- Բորի մոդել
+- מודל האטום של בוהר
+- بور پوستۋلاتتارى
+- بورمودىلى
+- بوہر ماڈل
+- مدل بور
+- نموذج بور
+- बोर का परमाणु मॉडल
+- बोरची अणूची प्रतिकृती
+- বোর মডেল
+- ਬੋਹਰ ਮਾਡਲ
+- બૉહરનો સિદ્ધાંત
+- போர் அணு மாதிரி
+- బోర్ నమూనా
+- ബോർ മാതൃക
+- แบบจำลองของบอร์
+- ဘိုးအာ၏ အက်တမ်ပုံစံ
+- ბორის მოდელი
+- ボーアの原子模型
+- 波耳模型
+- 玻尔模型
+- 玻爾模型
+- 보어 모형
 has_id_wikidata: Q172948
-facet_of: "[[_Standards/WikiData/WD~spectral_line,212111]]"
+facet_of: '[[_Standards/WikiData/WD~spectral_line,212111]]'
 derivative_work:
-  - "[[_Standards/WikiData/WD~Bohr_Sommerfeld_atom_model,360686]]"
-  - "[[_Standards/WikiData/WD~Kimball_atom_model,1791159]]"
-instance_of: "[[_Standards/WikiData/WD~atom_model,780649]]"
+- '[[_Standards/WikiData/WD~Bohr_Sommerfeld_atom_model,360686]]'
+- '[[_Standards/WikiData/WD~Kimball_atom_model,1791159]]'
+instance_of: '[[_Standards/WikiData/WD~atom_model,780649]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~electron,2225]]"
-  - "[[_Standards/WikiData/WD~atomic_nucleus,37147]]"
-  - "[[_Standards/WikiData/WD~atomic_orbital,53860]]"
-creator: "[[_Standards/WikiData/WD~Niels_Bohr,7085]]"
-named_after: "[[_Standards/WikiData/WD~Niels_Bohr,7085]]"
+- '[[_Standards/WikiData/WD~electron,2225]]'
+- '[[_Standards/WikiData/WD~atomic_nucleus,37147]]'
+- '[[_Standards/WikiData/WD~atomic_orbital,53860]]'
+creator: '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
+named_after: '[[_Standards/WikiData/WD~Niels_Bohr,7085]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20animation%202.gif
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20model.svg
 Commons_category: Bohr model
 inception: 1913-01-01T00:00:00Z
+dv_has_:
+  name_:
+    an: Modelo atomico de Bohr
+    ar: نموذج بور
+    ast: Modelu atómicu de Bohr
+    az: Bor modeli
+    be: Бораўская мадэль атама
+    be-tarask: Бораўская мадэль атаму
+    bg: Модел на Бор
+    bn: বোর মডেল
+    bs: Bohrov model atoma
+    ca: model atòmic de Bohr
+    cs: Bohrův model atomu
+    cv: Атăмăн Бор моделĕ
+    da: Bohrs atommodel
+    de: Bohrsches Atommodell
+    el: Ατομικό πρότυπο του Μπορ
+    en: Bohr model
+    eo: atoma modelo de Bohr
+    es: modelo atómico de Bohr
+    et: Bohri aatomiteooria
+    eu: Bohrren eredu atomikoa
+    fa: مدل بور
+    fi: Bohrin malli
+    fr: modèle de Bohr
+    ga: Samhail Bohr
+    gl: Modelo atómico de Bohr
+    gsw: Bohrsches Atommodell
+    gu: બૉહરનો સિદ્ધાંત
+    he: מודל האטום של בוהר
+    hi: बोर का परमाणु मॉडल
+    hr: Bohrov model atoma
+    hu: Bohr-féle atommodell
+    hy: Բորի մոդել
+    id: Model Bohr
+    it: modello atomico di Bohr
+    ja: ボーアの原子模型
+    ka: ბორის მოდელი
+    kk: Бор постулаттары
+    kk-arab: بور پوستۋلاتتارى
+    kk-cn: بور پوستۋلاتتارى
+    kk-cyrl: Бор постулаттары
+    kk-kz: Бор постулаттары
+    kk-latn: Bor postwlattarı
+    kk-tr: Bor postwlattarı
+    ko: 보어 모형
+    lt: Boro teorija
+    lv: Bora atoma struktūras modelis
+    lzh: 玻爾模型
+    mk: Боров модел
+    ml: ബോർ മാതൃക
+    mr: बोरची अणूची प्रतिकृती
+    ms: Model Bohr
+    my: ဘိုးအာ၏ အက်တမ်ပုံစံ
+    nb: Skallmodellen
+    nl: atoommodel van Bohr
+    nn: Atommodell
+    pa: ਬੋਹਰ ਮਾਡਲ
+    pl: Model atomu Bohra
+    pnb: بوہر ماڈل
+    pt: Átomo de Bohr
+    ro: modelul atomic Bohr
+    ru: Боровская модель атома
+    scn: Mudèllu atòmicu di Bohr
+    sco: Bohr model
+    sh: Bohrov model atoma
+    sk: Bohrov model atómu
+    sl: Bohrov model atoma
+    sr: Боров модел атома
+    sr-ec: Боров модел атома
+    sr-el: Borov model atoma
+    sv: Bohrs atommodell
+    ta: போர் அணு மாதிரி
+    te: బోర్ నమూనా
+    th: แบบจำลองของบอร์
+    tl: Modelong Bohr
+    tr: Bohr modeli
+    ug: بورمودىلى
+    uk: Модель Бора
+    uz: Bor postulatlari
+    vi: Mô hình Bohr
+    wuu: 玻尔模型
+    yue: 玻爾模型
+    zh: 玻尔模型
+    zh-cn: 玻尔模型
+    zh-hans: 玻尔模型
+    zh-hant: 玻爾模型
+    zh-hk: 玻爾模型
+    zh-sg: 玻尔模型
+    zh-tw: 波耳模型
 ---
-
 # [[Bohr_Model]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bohr_model,172948|WD~Bohr_model,172948]] 

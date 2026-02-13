@@ -1,30 +1,146 @@
 ---
 aliases:
+- grautiņš
+- Kungiyoyin mutane
+- Oýran
+- pogrom
+- pogromas
+- pogromi
+- Pogromm
+- pogromo
+- Pogromu
+- Pogròm
+- talan
+- Πογκρόμ
+- Ойран
+- пагром
+- погром
+- хæлæт
+- Պոգրոմ
+- פאגראם
+- פוגרום
+- بوغروم
+- ويران
+- پوگروم
+- پۆگرۆم
+- പോഗ്രം
+- โพกรม
+- პოგრომი
+- ポグロム
+- 反猶騷亂
+- 波格罗姆
+- 포그롬
 has_id_wikidata: Q177716
-significant_event: "[[_Standards/WikiData/WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735]]"
+significant_event: '[[_Standards/WikiData/WD~Anti_Jewish_pogroms_in_the_Russian_Empire,247735]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mass_murder,750215]]"
-  - "[[_Standards/WikiData/WD~violent_crime,1520311]]"
-  - "[[_Standards/WikiData/WD~religious_violence,2540524]]"
-  - "[[_Standards/WikiData/WD~political_crime,2571535]]"
-  - "[[_Standards/WikiData/WD~ethnic_riot,3588250]]"
-  - "[[_Standards/WikiData/WD~communal_violence,5153967]]"
-has_goal: "[[_Standards/WikiData/WD~massacre,3199915]]"
+- '[[_Standards/WikiData/WD~mass_murder,750215]]'
+- '[[_Standards/WikiData/WD~violent_crime,1520311]]'
+- '[[_Standards/WikiData/WD~religious_violence,2540524]]'
+- '[[_Standards/WikiData/WD~political_crime,2571535]]'
+- '[[_Standards/WikiData/WD~ethnic_riot,3588250]]'
+- '[[_Standards/WikiData/WD~communal_violence,5153967]]'
+has_goal: '[[_Standards/WikiData/WD~massacre,3199915]]'
 different_from:
-  - "[[_Standards/WikiData/WD~massacre,3199915]]"
-  - "[[_Standards/WikiData/WD~evil_decree,12404893]]"
-facet_of: "[[_Standards/WikiData/WD~antisemitism,22649]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~persecution_of_Jews,48136]]"
+- '[[_Standards/WikiData/WD~massacre,3199915]]'
+- '[[_Standards/WikiData/WD~evil_decree,12404893]]'
+facet_of: '[[_Standards/WikiData/WD~antisemitism,22649]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~persecution_of_Jews,48136]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Pogrom2.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VICTIMS%20OF%20IASI%20POGROM.jpg
 Commons_category: Pogroms
+dv_has_:
+  name_:
+    af: Pogrom
+    an: Pogrom
+    ar: بوغروم
+    az: talan
+    be: пагром
+    be-tarask: пагром
+    bg: Погром
+    br: Pogrom
+    ca: pogrom
+    ckb: پۆگرۆم
+    cs: pogrom
+    cy: Pogrom
+    da: pogrom
+    de: Pogrom
+    el: Πογκρόμ
+    en: pogrom
+    eo: pogromo
+    es: pogromo
+    et: Pogromm
+    eu: pogrom
+    fa: پوگروم
+    fi: pogromi
+    fr: pogrom
+    fy: Pogrom
+    ga: pogrom
+    gl: pogrom
+    gsw: Pogrom
+    ha: Kungiyoyin mutane
+    he: פוגרום
+    hr: pogrom
+    hu: pogrom
+    hy: Պոգրոմ
+    ia: Pogrom
+    id: pogrom
+    io: Pogromo
+    it: pogrom
+    ja: ポグロム
+    ka: პოგრომი
+    kk: Ойран
+    kk-arab: ويران
+    kk-cn: ويران
+    kk-cyrl: Ойран
+    kk-kz: Ойран
+    kk-latn: Oýran
+    kk-tr: Oýran
+    ko: 포그롬
+    ku: pogrom
+    ku-latn: pogrom
+    lt: pogromas
+    lv: grautiņš
+    mk: Погром
+    ml: പോഗ്രം
+    ms: Pogrom
+    nb: pogrom
+    nds-nl: pogrom
+    nl: pogrom
+    nn: pogrom
+    oc: Pogròm
+    os: хæлæт
+    pl: pogrom
+    pnb: پوگروم
+    pt: pogrom
+    pt-br: pogrom
+    ro: pogrom
+    ru: погром
+    sc: Pogrom
+    sco: pogrom
+    sh: Pogrom
+    sk: pogrom
+    sl: pogrom
+    sq: Pogromi
+    sr: погром
+    sr-ec: Погром
+    sr-el: Pogrom
+    sv: pogrom
+    sw: Pogromu
+    th: โพกรม
+    tr: pogrom
+    uk: погром
+    ur: پوگروم
+    vi: Pogrom
+    wa: Pogrom
+    yi: פאגראם
+    yue: 反猶騷亂
+    zh: 波格罗姆
 ---
-
 # [[Pogrom]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~pogrom,177716]] 

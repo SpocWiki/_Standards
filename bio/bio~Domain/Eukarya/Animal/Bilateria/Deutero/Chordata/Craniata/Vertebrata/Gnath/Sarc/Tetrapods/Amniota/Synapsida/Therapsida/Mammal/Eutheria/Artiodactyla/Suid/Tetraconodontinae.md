@@ -1,9 +1,40 @@
 ---
 aliases:
-  - Tetraconodontinae
+- Tetraconodontinae
+- tetraconodontins
+- চতুর্দন্তকুল
+- 四錐齒豬亞科
 title: Tetraconodontinae
+has_id_wikidata: Q7706278
+dv_has_:
+  name_:
+    ast: Tetraconodontinae
+    bg: Tetraconodontinae
+    bn: চতুর্দন্তকুল
+    ca: tetraconodontins
+    ceb: Tetraconodontinae
+    de: Tetraconodontinae
+    en: Tetraconodontinae
+    es: Tetraconodontinae
+    fi: Tetraconodontinae
+    fr: Tetraconodontinae
+    ga: Tetraconodontinae
+    hu: Tetraconodontinae
+    it: Tetraconodontinae
+    la: Tetraconodontinae
+    mul: Tetraconodontinae
+    nl: Tetraconodontinae
+    pl: Tetraconodontinae
+    pt: Tetraconodontinae
+    ro: Tetraconodontinae
+    ru: Tetraconodontinae
+    sq: Tetraconodontinae
+    uk: Tetraconodontinae
+    vec: Tetraconodontinae
+    vi: Tetraconodontinae
+    war: Tetraconodontinae
+    zh: 四錐齒豬亞科
 ---
-
 # [[Tetraconodontinae]] 
 
 ## #has_/text_of_/abstract 

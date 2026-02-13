@@ -1,14 +1,59 @@
 ---
 aliases:
+- Barisfer
+- barne-nukleo
+- belső mag
+- binnenkern
+- Bërthama e Tokës
+- den indre kjernen
+- inner core
+- innerer Erdkern
+- Innri kjarni jarðar
+- Inti dalam
+- jądro wewnętrzne
+- Lõi trong
+- notranje jedro
+- noyau intérieur
+- Nucleo interno
+- nucleu internu
+- Nucleul interior al Pământului
+- Nucleus Telluris interior
+- nucli intern
+- núcleo interno
+- Panloob na kaibuturan ng Daigdig
+- Sisetuum
+- Teras dalam
+- Yer yadrosi
+- Zəmini djlətonə nuvə
+- İç çekirdek
+- εσωτερικό τμήμα του πυρήνα της Γης
+- внатрешно Земјино јадро
+- внутреннее ядро
+- Земно ядро
+- нутранае ядро Зямлі
+- суб'ядро
+- унутрашње језгро Земље
+- גלעין כדור הארץ
+- اندرلی گڑک
+- لب داخلي
+- هسته درونی
+- आंतरिक क्रोड
+- ਅੰਦਰਲੀ ਗਿਰੀ
+- உட் கருவம்
+- ಭೂಗರ್ಭ
+- පෘථිවි අභ්යන්තර හරය
+- 內地核
+- 内核
+- 내핵
 has_id_wikidata: Q394352
 part_of: "[[_Standards/WikiData/WD~Earth's_core,193927]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~physical_object,223557]]"
-  - "[[_Standards/WikiData/WD~geosphere,241284]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Inge_Lehmann,256839]]"
+- '[[_Standards/WikiData/WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~geosphere,241284]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Inge_Lehmann,256839]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~iron,677]]"
-  - "[[_Standards/WikiData/WD~nickel,744]]"
+- '[[_Standards/WikiData/WD~iron,677]]'
+- '[[_Standards/WikiData/WD~nickel,744]]'
 mass: 9
 temperature: 5700
 radius: 1220
@@ -17,25 +62,78 @@ time_of_discovery_or_invention: 1936-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BCnyan%C4%B1n%20i%C3%A7%20yap%C4%B1s%C4%B1.png
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]"
-    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]]"
-    - "[[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]]"
-    - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]]"
-    - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]]"
-    - "[[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]]"
-    - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]]"
-    - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]]"
+  - '[[../../../WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]'
+  - '[[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]]'
+  - '[[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]]'
+  - '[[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]]'
+  - '[[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]]'
+  - '[[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]]'
+  - '[[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]]'
+  - '[[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]"
-  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]]"
-  - "[[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]]"
-  - "[[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]]"
-  - "[[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]]"
-  - "[[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]]"
-  - "[[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]]"
-  - "[[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]]"
+- '[[../../../WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]'
+- '[[/_Standards/Earth/Climate/Structure_of_Earth/Earth_inner_Core|Earth_inner_Core]]'
+- '[[/_public/Earth/Climate/Structure_of_Earth/Earth_inner_Core.public|Earth_inner_Core.public]]'
+- '[[/_internal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.internal|Earth_inner_Core.internal]]'
+- '[[/_protect/Earth/Climate/Structure_of_Earth/Earth_inner_Core.protect|Earth_inner_Core.protect]]'
+- '[[/_private/Earth/Climate/Structure_of_Earth/Earth_inner_Core.private|Earth_inner_Core.private]]'
+- '[[/_personal/Earth/Climate/Structure_of_Earth/Earth_inner_Core.personal|Earth_inner_Core.personal]]'
+- '[[/_secret/Earth/Climate/Structure_of_Earth/Earth_inner_Core.secret|Earth_inner_Core.secret]]'
+dv_has_:
+  name_:
+    anp: आंतरिक क्रोड
+    ar: لب داخلي
+    ast: nucleu internu
+    az: Barisfer
+    be-tarask: нутранае ядро Зямлі
+    bg: Земно ядро
+    ca: nucli intern
+    de: innerer Erdkern
+    el: εσωτερικό τμήμα του πυρήνα της Γης
+    en: inner core
+    es: núcleo interno
+    et: Sisetuum
+    eu: barne-nukleo
+    fa: هسته درونی
+    fr: noyau intérieur
+    gl: núcleo interno
+    he: גלעין כדור הארץ
+    hi: आंतरिक क्रोड
+    hu: belső mag
+    id: Inti dalam
+    is: Innri kjarni jarðar
+    it: Nucleo interno
+    ja: 内核
+    kn: ಭೂಗರ್ಭ
+    ko: 내핵
+    la: Nucleus Telluris interior
+    mk: внатрешно Земјино јадро
+    ms: Teras dalam
+    nl: binnenkern
+    nn: den indre kjernen
+    pa: ਅੰਦਰਲੀ ਗਿਰੀ
+    pl: jądro wewnętrzne
+    pnb: اندرلی گڑک
+    pt: núcleo interno
+    ro: Nucleul interior al Pământului
+    ru: внутреннее ядро
+    sco: inner core
+    si: පෘථිවි අභ්යන්තර හරය
+    sl: notranje jedro
+    sq: Bërthama e Tokës
+    sr: унутрашње језгро Земље
+    sr-ec: унутрашње језгро Земље
+    ta: உட் கருவம்
+    tl: Panloob na kaibuturan ng Daigdig
+    tly: Zəmini djlətonə nuvə
+    tr: İç çekirdek
+    uk: суб'ядро
+    uz: Yer yadrosi
+    vi: Lõi trong
+    yue: 內地核
+    zh: 內地核
+    zh-hant: inner core
 ---
-
 # [[Earth's_inner_Core]] 
 
 #is_/same_as :: [[WikiData/WD~Inner_core,394352|WD~Inner_core,394352]]

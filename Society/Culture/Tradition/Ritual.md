@@ -1,16 +1,65 @@
 ---
 aliases:
+- ayin
+- deasghnáth
+- defod
+- erritual
+- Gî-sek
+- Ivalavala ni sokalou
+- nghi thức
+- Rit
+- rito
+- ritu
+- Rituaal
+- rituaali
+- ritual
+- ritualas
+- rituale
+- Rituaro
+- ritueel
+- rituel
+- Rituál
+- rituálé
+- rituāls
+- Ritwal
+- rytuał
+- Rïtwal
+- τελετουργία
+- абрад
+- йола
+- обред
+- ритуал
+- рытуал
+- ծիսակատարություն
+- פולחן
+- آیین
+- رسٕم
+- رىيتۋال
+- طقوس
+- ڕێوڕەسم
+- अनुष्ठान
+- कर्म
+- আচার
+- লোকাচাৰ
+- ਰਸਮ
+- சடங்கு
+- ಆಚರಣೆ
+- അനുഷ്ഠാന രൂപങ്ങൾ
+- พิธีกรรม
+- 仪式
+- 儀式
+- 의식
 has_id_wikidata: Q189819
 subclass_of:
-  - "[[_Standards/WikiData/WD~tradition,82821]]"
-  - "[[_Standards/WikiData/WD~sequence,133250]]"
-  - "[[_Standards/WikiData/WD~ceremony,2627975]]"
-  - "[[_Standards/WikiData/WD~process,10843872]]"
-different_from: "[[_Standards/WikiData/WD~Rite,340868]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~rite,628455]]"
-instance_of: "[[_Standards/WikiData/WD~abstract_noun,2712963]]"
-uses: "[[_Standards/WikiData/WD~ritual_object,95975088]]"
-described_by_source: "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
+- '[[_Standards/WikiData/WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~sequence,133250]]'
+- '[[_Standards/WikiData/WD~ceremony,2627975]]'
+- '[[_Standards/WikiData/WD~process,10843872]]'
+different_from: '[[_Standards/WikiData/WD~Rite,340868]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~rite,628455]]'
+instance_of: '[[_Standards/WikiData/WD~abstract_noun,2712963]]'
+uses: '[[_Standards/WikiData/WD~ritual_object,95975088]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
 IMDb_keyword: ritual
 DataTrek_identifier: Q10790
 Commons_category: Rituals
@@ -18,11 +67,111 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Ritueel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zangbeto%20in%20Vodoun%20Festival%20Grand%20Popo%20Benin%20Jan%202018.jpg
 UMLS_CUI: C0007825
 MeSH_tree_code:
-  - F01.145.813.097
-  - I01.076.201.450.170
+- F01.145.813.097
+- I01.076.201.450.170
 Colon_Classification: Q:4192
+dv_has_:
+  name_:
+    ar: طقوس
+    as: লোকাচাৰ
+    ast: Ritual
+    az: Ritual
+    ba: Ритуал
+    ban: Ritual
+    be: абрад
+    be-tarask: рытуал
+    bg: Ритуал
+    bn: আচার
+    ca: ritual
+    ckb: ڕێوڕەسم
+    cs: rituál
+    cy: defod
+    da: ritual
+    de: Ritual
+    diq: Rituel
+    el: τελετουργία
+    en: ritual
+    eo: rito
+    es: ritual
+    et: Rituaal
+    eu: erritual
+    fa: آیین
+    fi: rituaali
+    fj: Ivalavala ni sokalou
+    fr: rituel
+    fy: Ritueel
+    ga: deasghnáth
+    gl: ritual
+    he: פולחן
+    hi: अनुष्ठान
+    hr: ritual
+    hsb: ritual
+    hu: rituálé
+    hy: ծիսակատարություն
+    id: ritual
+    ig: ritual
+    io: Rituaro
+    it: rituale
+    ja: 儀式
+    kk: Ритуал
+    kk-arab: رىيتۋال
+    kk-cn: رىيتۋال
+    kk-cyrl: Ритуал
+    kk-kz: Ритуал
+    kk-latn: Rïtwal
+    kk-tr: Rïtwal
+    kn: ಆಚರಣೆ
+    ko: 의식
+    ks: رسٕم
+    ky: ритуал
+    li: Ritueel
+    lld: Rit
+    lt: ritualas
+    lv: rituāls
+    mk: обред
+    ml: അനുഷ്ഠാന രൂപങ്ങൾ
+    ms: ritual
+    nan: Gî-sek
+    nb: ritual
+    nl: ritueel
+    nn: ritual
+    os: ритуал
+    pa: ਰਸਮ
+    pl: rytuał
+    pt: ritual
+    pt-br: ritual
+    ro: ritual
+    ru: ритуал
+    sa: कर्म
+    scn: ritu
+    sco: ritual
+    sh: ritual
+    sk: Rituál
+    sl: ritual
+    sq: ritual
+    sr: ритуал
+    sr-ec: ритуал
+    sr-el: ritual
+    su: ritual
+    sv: ritual
+    ta: சடங்கு
+    th: พิธีกรรม
+    tl: Ritwal
+    tr: ayin
+    tt: йола
+    uk: ритуал
+    vec: rito
+    vi: nghi thức
+    wuu: 仪式
+    yue: 儀式
+    zh: 仪式
+    zh-cn: 仪式
+    zh-hans: 仪式
+    zh-hant: 儀式
+    zh-hk: 儀式
+    zh-sg: 仪式
+    zh-tw: 儀式
 ---
-
 # [[Ritual]] 
 
 #is_/same_as :: [[WD~Ritual,189819]] 

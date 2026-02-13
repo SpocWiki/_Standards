@@ -1,44 +1,251 @@
 ---
 aliases:
-  - television show
-  - TV program
-  - TV show
-  - Television_Program
-  - Television Program
+- abadenn skinwel
+- bernameya televizyonê
+- chương trình truyền hình
+- clár teilifíse
+- Feernsehprogramm
+- Fernsehsendung
+- fjernsynsprogram
+- fouyton al tévé
+- Färnsehsändig
+- program de televiziune
+- program televisi
+- program telewizyjny
+- programa de television
+- programa de televisió
+- programa de televisión
+- programa de televisão
+- programa de tełevizion
+- programa di televishon
+- programang pantelebisyon
+- programma televisificum
+- programma televisivo
+- programme télévisé
+- programê têlevizyoni
+- rancangan televisyen
+- rhaglen deledu
+- salidang pantelebisyon
+- sjónvarpsþáttur
+- tekoha'ãngaty ta'angambyrygui
+- telebista-saio
+- telesaade
+- televeesion programme
+- televida programo
+- televisieprogram
+- televisieprogramma
+- televisio-ohjelma
+- Television Program
+- television programme
+- television show
+- Television_Program
+- Televisiounssendung
+- televizijos laida
+- televizijska oddaja
+- televizijski program
+- televizion koʻrsatuv
+- televizion kórsetiw
+- Televiziono-programo
+- televiziya şousu
+- televizní pořad
+- televizyon programı
+- televyzjeprogramma
+- televíziós műsor
+- televízny program
+- televīzijas raidījums
+- telewizijne wusyłanje
+- towlen bellwolok
+- TV emisije
+- TV program
+- TV show
+- TV-ohjelm
+- tv-program
+- TV-programm
+- TV-prográmma
+- émission d'télévision
+- īxiptlayōltzintli
+- τηλεοπτικό πρόγραμμα
+- барномаи телевизионӣ
+- телевизијски програм
+- телевизионно предаване
+- телевизиска програма
+- телепередача
+- телетапшыру
+- трансляция
+- тэлевізійная праграма
+- тэлеперадача
+- հեռուստահաղորդում
+- טעלעוויזיע פראגראם
+- תוכנית טלוויזיה
+- برنامج تلفزيون
+- برنامج د تلفازة
+- برنامه تلویزیونی
+- رانچڠن تيليۏيشن
+- زنجیرەی تەلەڤیزیۆنی
+- ٹیلی وِجَن پرٛوگرٛام
+- ٹیلی ویژن پروگرام
+- टीवी शो
+- टेलिभिजन शृङ्खला
+- टैलीविजन प्रोग्राम
+- টেলিভিশন অনুষ্ঠান
+- ਟੈਲੀਵਿਜਨ ਪ੍ਰੋਗਰਾਮ
+- தொலைக்காட்சி நிகழ்ச்சி
+- รายการโทรทัศน์
+- ტელეგადაცემა
+- កម្មវិធីទូរទស្សន៍
+- テレビ番組
+- 电视节目
+- 電視節目
+- 텔레비전 프로그램
 has_id_wikidata: Q15416
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~teletext,203659]]'
-  - '[[_Standards/WikiData/WD~subtitle,204028]]'
-  - '[[_Standards/WikiData/WD~music_segment,60215966]]'
+- '[[_Standards/WikiData/WD~teletext,203659]]'
+- '[[_Standards/WikiData/WD~subtitle,204028]]'
+- '[[_Standards/WikiData/WD~music_segment,60215966]]'
 different_from: '[[_Standards/WikiData/WD~entertainment_television_program,1407245]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~audiovisual_work,2431196]]'
-  - '[[_Standards/WikiData/WD~moving_image,10301427]]'
-  - '[[_Standards/WikiData/WD~broadcasting_program,11578774]]'
+- '[[_Standards/WikiData/WD~audiovisual_work,2431196]]'
+- '[[_Standards/WikiData/WD~moving_image,10301427]]'
+- '[[_Standards/WikiData/WD~broadcasting_program,11578774]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_television,5616006]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_TVB,20690859]]'
-  - '[[_Standards/WikiData/WD~Template_Audiovisual_program,25740628]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_television,5616006]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_TVB,20690859]]'
+- '[[_Standards/WikiData/WD~Template_Audiovisual_program,25740628]]'
 part_of:
-  - '[[_Standards/WikiData/WD~television_programming,12376699]]'
-  - '[[_Standards/WikiData/WD~television,289]]'
+- '[[_Standards/WikiData/WD~television_programming,12376699]]'
+- '[[_Standards/WikiData/WD~television,289]]'
 properties_for_this_type:
-  - IMDb ID
-  - presenter
-  - original broadcaster
-  - start time
-  - end time
-  - number of seasons
-  - RatingGraph TV show ID
+- IMDb ID
+- presenter
+- original broadcaster
+- start time
+- end time
+- number of seasons
+- RatingGraph TV show ID
 U_S_National_Archives_Identifier:
-  - 10644350
-  - 10658414
+- 10644350
+- 10658414
 image: http://commons.wikimedia.org/wiki/Special:FilePath/1950%27s%20television.jpg
 equivalent_class: http://dbpedia.org/ontology/TelevisionShow
 Dewey_Decimal_Classification: 791.457
 Commons_category: Television programmes
+dv_has_:
+  name_:
+    af: televisieprogram
+    ar: برنامج تلفزيون
+    ary: برنامج د تلفازة
+    ast: programa de televisión
+    az: televiziya şousu
+    be: тэлеперадача
+    be-tarask: тэлевізійная праграма
+    bg: телевизионно предаване
+    bho: टीवी शो
+    bn: টেলিভিশন অনুষ্ঠান
+    br: abadenn skinwel
+    bs: TV emisije
+    ca: programa de televisió
+    ceb: salidang pantelebisyon
+    ckb: زنجیرەی تەلەڤیزیۆنی
+    cs: televizní pořad
+    cy: rhaglen deledu
+    da: tv-program
+    de: Fernsehsendung
+    de-ch: Fernsehsendung
+    diq: programê têlevizyoni
+    el: τηλεοπτικό πρόγραμμα
+    en: television program
+    en-ca: television program
+    en-gb: television programme
+    eo: televida programo
+    es: programa de televisión
+    et: telesaade
+    eu: telebista-saio
+    fa: برنامه تلویزیونی
+    fi: televisio-ohjelma
+    fr: programme télévisé
+    fy: televyzjeprogramma
+    ga: clár teilifíse
+    gl: programa de televisión
+    gn: tekoha'ãngaty ta'angambyrygui
+    gsw: Färnsehsändig
+    he: תוכנית טלוויזיה
+    hi: टैलीविजन प्रोग्राम
+    hr: televizijski program
+    hsb: telewizijne wusyłanje
+    hu: televíziós műsor
+    hy: հեռուստահաղորդում
+    id: program televisi
+    io: Televiziono-programo
+    is: sjónvarpsþáttur
+    it: programma televisivo
+    ja: テレビ番組
+    ka: ტელეგადაცემა
+    kaa: televizion kórsetiw
+    kk: трансляция
+    km: កម្មវិធីទូរទស្សន៍
+    ko: 텔레비전 프로그램
+    ks: ٹیلی وِجَن پرٛوگرٛام
+    ku: bernameya televizyonê
+    kw: towlen bellwolok
+    la: programma televisificum
+    lb: Televisiounssendung
+    lt: televizijos laida
+    lv: televīzijas raidījums
+    mk: телевизиска програма
+    ms: rancangan televisyen
+    ms-arab: رانچڠن تيليۏيشن
+    nah: īxiptlayōltzintli
+    nb: TV-program
+    nds: Feernsehprogramm
+    ne: टेलिभिजन शृङ्खला
+    nl: televisieprogramma
+    nn: fjernsynsprogram
+    oc: programa de television
+    pa: ਟੈਲੀਵਿਜਨ ਪ੍ਰੋਗਰਾਮ
+    pap: programa di televishon
+    pcd: émission d'télévision
+    pl: program telewizyjny
+    pt: programa de televisão
+    pt-br: programa de televisão
+    ro: program de televiziune
+    ru: телепередача
+    sco: televeesion programme
+    se: TV-prográmma
+    sh: televizijski program
+    sk: televízny program
+    sl: televizijska oddaja
+    smn: TV-ohjelm
+    sms: TV-programm
+    sr: телевизијски програм
+    sr-ec: телевизијски програм
+    sr-el: televizijski program
+    sv: TV-program
+    ta: தொலைக்காட்சி நிகழ்ச்சி
+    tg: барномаи телевизионӣ
+    th: รายการโทรทัศน์
+    tl: programang pantelebisyon
+    tr: televizyon programı
+    tt: телетапшыру
+    tt-cyrl: телетапшыру
+    uk: телепередача
+    ur: ٹیلی ویژن پروگرام
+    uz: televizion koʻrsatuv
+    vec: programa de tełevizion
+    vi: chương trình truyền hình
+    wa: fouyton al tévé
+    wuu: 电视节目
+    yi: טעלעוויזיע פראגראם
+    yue: 電視節目
+    zh: 電視節目
+    zh-cn: 电视节目
+    zh-hans: 电视节目
+    zh-hant: 電視節目
+    zh-hk: 電視節目
+    zh-mo: 電視節目
+    zh-my: 电视节目
+    zh-sg: 电视节目
+    zh-tw: 電視節目
 ---
-
 # [[Television_Program]] 
 
 #is_/same_as :: [[WD~Television_program,15416]] 

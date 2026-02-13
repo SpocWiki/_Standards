@@ -1,17 +1,87 @@
 ---
 aliases:
+- Anjing pemungut
+- anjing pengutip
+- Aporter
+- Apporterende hunde
+- Chien de rapport
+- Noutaja
+- Perro cobrador
+- Perru cobrador
+- prinašalec
+- Retriever
+- retrievere
+- Retriiver
+- Retriver
+- Retríver
+- Retrívr
+- Ретривер
+- Ретриверсем
+- рэтрывэр
+- Ռետրիվեր
+- רטריבר
+- سگ یابنده
+- كلب الاسترداد
+- สุนัขเก็บเหยื่อ
+- レトリービング・トライアル
+- 寻回犬
+- 尋回犬
+- 尋回狗
+- 리트리버
 has_id_wikidata: Q39017
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_hunting_dog,137222993]]"
-  - "[[_Standards/WikiData/WD~dog_type,38672]]"
-subclass_of: "[[_Standards/WikiData/WD~dog,144]]"
+- '[[_Standards/WikiData/WD~type_of_hunting_dog,137222993]]'
+- '[[_Standards/WikiData/WD~dog_type,38672]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
 Commons_category: Retrievers
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20retriever%20NLW3363265.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Labrador%20Retriever%20pheasant.jpg
-Dewey_Decimal_Classification: "636.7527"
+- http://commons.wikimedia.org/wiki/Special:FilePath/A%20retriever%20NLW3363265.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Chocolate%20Labrador%20Retriever%20pheasant.jpg
+Dewey_Decimal_Classification: 636.7527
+dv_has_:
+  name_:
+    ar: كلب الاسترداد
+    ast: Perru cobrador
+    be-tarask: рэтрывэр
+    ca: retriever
+    cs: Retrívr
+    cv: Ретриверсем
+    da: Apporterende hunde
+    de: Retriever
+    en: Retriever
+    es: Perro cobrador
+    et: Retriiver
+    eu: Retriever
+    fa: سگ یابنده
+    fi: Noutaja
+    fr: Chien de rapport
+    gl: Retriever
+    he: רטריבר
+    hr: Retriver
+    hy: Ռետրիվեր
+    id: Anjing pemungut
+    it: Retriever
+    ja: レトリービング・トライアル
+    ko: 리트리버
+    ms: anjing pengutip
+    nb: retrievere
+    nl: retriever
+    oc: Retriever
+    pl: Aporter
+    pt: retriever
+    ro: retriever
+    ru: Ретривер
+    sk: Retríver
+    sl: prinašalec
+    sr: Ретривер
+    sv: Retriever
+    th: สุนัขเก็บเหยื่อ
+    tr: Retriever
+    uk: Ретривер
+    yue: 尋回狗
+    zh: 寻回犬
+    zh-hant: 尋回犬
 ---
-
 # [[Retriever]] 
 
 #is_/same_as :: [[WD~Retriever,39017]] 

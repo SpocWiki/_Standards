@@ -1,61 +1,143 @@
 ---
 aliases:
-  - health-care
-  - health_care
-  - HealthCare
-  - is_a_health_care
-  - Health care
-  - healthcare
-  - Health_Care
-  - Health Care
+- asistencia sanitaria
+- asistensa sanitària
+- asistența medicală
+- assistenza sanitaria
+- assistència sanitària
+- assistência médica
+- cuidados em saúde
+- cúram sláinte
+- dearvvašvuođafuolahus
+- egészségügyi ellátás
+- Fitsaboana
+- Flegado
+- Gesund Unterwegs
+- Gesundheitsversorgung
+- gezondheidszorg
+- gofal iechyd
+- Gsundheitsversorgig
+- heal care
+- Health care
+- health-care
+- HealthCare
+- health_care
+- heilsugæsla
+- helsevesen
+- hälso- och sjukvård
+- is_a_health_care
+- Kujdesi shëndetësor
+- Kula da lafiya
+- laswenyay
+- Nlekọta ahụike
+- opieka zdrowotna
+- osasun-laguntza
+- Pagmangno hin panlawas
+- Pangangalagang pangkalusugan
+- penjagaan kesihatan
+- Perawatan kesehatan
+- sansistemo
+- sağlık hizmeti
+- Sciéncias de la santat
+- Sogʻliqni saqlash
+- soins de santé
+- sundhedspleje
+- sveikatos apsauga
+- Səhiyyə
+- terveydenhuolto
+- tervishoid
+- tiervâsvuođâhuolâttâs
+- tiõrvâsvuõtthuâll
+- veiqaravi vakavuniwai
+- veselības aprūpe
+- y tế
+- Yî-liàu Ví-sâng
+- zdravotnictví
+- zdravotníctvo
+- zdravstvena zaštita
+- zdravstveno varstvo
+- φροντίδα υγείας
+- ахова здароўя
+- Денсаулық сақтау
+- Здравеопазване
+- здравоохранение
+- здравствена заштита
+- охорона здоров’я
+- сәламәтлекне саклау
+- Элүүрые хамгаалга
+- առողջապահություն
+- העלט קעיר
+- שירותי בריאות
+- رعاية صحية
+- روغتيايي پاملرنه
+- صحت جي سار سنڀال
+- صحت دی دیکھ ریکھ
+- صحت کی دیکھ ریکھ
+- مراقبت سلامت
+- چاودێری تەندروستی
+- ڤنجاݢاءن کصيحتن
+- स्वास्थ्य सेवा
+- স্বাস্থ্যসেবা
+- স্বাস্থ্যসেৱা
+- ਸਿਹਤ ਸੰਭਾਲ
+- நலம் பேணல்
+- ആരോഗ്യ പരിപാലനം
+- සෞඛ්ය සේවා
+- บริการสุขภาพ
+- ჯანდაცვა
+- 健康護理
+- 医疗卫生
+- 医療
+- 醫療衛生
+- 의료
 has_id_wikidata: Q31207
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: GovernmentBenefitsType
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - health_care
-layout: ""
+- health_care
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_health_care Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_health_care Class
 type: Type
 instance_of:
-  - "[[_Standards/WikiData/WD~industry,268592]]"
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~service_type,130303173]]"
-studied_by: "[[_Standards/WikiData/WD~health_sciences,843601]]"
-different_from: "[[_Standards/WikiData/WD~preventive_medicine,1773974]]"
+- '[[_Standards/WikiData/WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~service_type,130303173]]'
+studied_by: '[[_Standards/WikiData/WD~health_sciences,843601]]'
+different_from: '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~care,2421951]]"
-  - "[[_Standards/WikiData/WD~service,7406919]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Health_care,6566994]]"
+- '[[_Standards/WikiData/WD~care,2421951]]'
+- '[[_Standards/WikiData/WD~service,7406919]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Health_care,6566994]]'
 part_of:
-  - "[[_Standards/WikiData/WD~health_system,11000047]]"
-  - "[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]"
-practiced_by: "[[_Standards/WikiData/WD~health_care_manual_worker,12377603]]"
-has_characteristic: "[[_Standards/WikiData/WD~health_care_quality,17003063]]"
-field_of_work: "[[_Standards/WikiData/WD~Activities_of_daily_living_assistance,22906178]]"
+- '[[_Standards/WikiData/WD~health_system,11000047]]'
+- '[[_Standards/WikiData/WD~tertiary_sector_of_the_economy,55638]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]'
+practiced_by: '[[_Standards/WikiData/WD~health_care_manual_worker,12377603]]'
+has_characteristic: '[[_Standards/WikiData/WD~health_care_quality,17003063]]'
+field_of_work: '[[_Standards/WikiData/WD~Activities_of_daily_living_assistance,22906178]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Health_and_Medical_Services_Act_(2017_30),110217213]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-facet_of: "[[_Standards/WikiData/WD~medicine,11190]]"
+- '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+- '[[_Standards/WikiData/WD~WikiProject_Health_Data_Space,124300121]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Health_and_Medical_Services_Act_(2017_30),110217213]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 IAB_code:
-  - 97
-  - 286
+- 97
+- 286
 OmegaWiki_Defined_Meaning: 1733
 Commons_category: Healthcare
 U_S_National_Archives_Identifier: 10636505
@@ -68,36 +150,137 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/health-services
 UNSPSC_Code: 85101706
 Colon_Classification: L:4:5
 MeSH_tree_code:
-  - N04.590.374
-  - N05.300
+- N04.590.374
+- N05.300
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../GovernmentBenefitsType]]"
-  enum_of: "[[../GovernmentBenefitsType]]"
+  parent_class: '[[../GovernmentBenefitsType]]'
+  enum_of: '[[../GovernmentBenefitsType]]'
   same_as:
-    - "[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]"
-    - "[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care|Health_Care]]"
-    - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]"
-    - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]"
-    - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]"
-    - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]"
-    - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]"
-    - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]"
-    - "[[Health_Care]]"
+  - '[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]'
+  - '[[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care|Health_Care]]'
+  - '[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]'
+  - '[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]'
+  - '[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]'
+  - '[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]'
+  - '[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]'
+  - '[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]'
+  - '[[Health_Care]]'
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../GovernmentBenefitsType]]"
-dv_is_enum_of: "[[../GovernmentBenefitsType]]"
+dv_has_parent_class: '[[../GovernmentBenefitsType]]'
+dv_is_enum_of: '[[../GovernmentBenefitsType]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]"
-  - "[[Health_Care]]"
-  - "[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]"
-  - "[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]"
-  - "[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]"
-  - "[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]"
-  - "[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]"
-  - "[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]"
+- '[[../../../WikiData/WD~Health_care,31207|WD~Health_care,31207]]'
+- '[[Health_Care]]'
+- '[[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]]'
+- '[[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]]'
+- '[[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]]'
+- '[[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]]'
+- '[[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]]'
+- '[[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]]'
+dv_has_:
+  name_:
+    ar: رعاية صحية
+    as: স্বাস্থ্যসেৱা
+    ast: asistencia sanitaria
+    az: Səhiyyə
+    be: ахова здароўя
+    be-tarask: ахова здароўя
+    bg: Здравеопазване
+    bn: স্বাস্থ্যসেবা
+    bs: zdravstvena zaštita
+    bxr: Элүүрые хамгаалга
+    ca: assistència sanitària
+    ckb: چاودێری تەندروستی
+    cs: zdravotnictví
+    cy: gofal iechyd
+    da: sundhedspleje
+    de: Gesundheitsversorgung
+    de-ch: Gesund Unterwegs
+    el: φροντίδα υγείας
+    en: health care
+    en-ca: health care
+    en-gb: health care
+    eo: sansistemo
+    es: asistencia sanitaria
+    et: tervishoid
+    eu: osasun-laguntza
+    fa: مراقبت سلامت
+    fi: terveydenhuolto
+    fj: veiqaravi vakavuniwai
+    fr: soins de santé
+    ga: cúram sláinte
+    gl: asistencia sanitaria
+    gsw: Gsundheitsversorgig
+    ha: Kula da lafiya
+    hak: Yî-liàu Ví-sâng
+    he: שירותי בריאות
+    hi: स्वास्थ्य सेवा
+    hr: zdravstvena zaštita
+    ht: laswenyay
+    hu: egészségügyi ellátás
+    hy: առողջապահություն
+    id: Perawatan kesehatan
+    ig: Nlekọta ahụike
+    io: Flegado
+    is: heilsugæsla
+    it: assistenza sanitaria
+    ja: 医療
+    ka: ჯანდაცვა
+    kk: Денсаулық сақтау
+    ko: 의료
+    lt: sveikatos apsauga
+    lv: veselības aprūpe
+    mg: Fitsaboana
+    mk: здравствена заштита
+    ml: ആരോഗ്യ പരിപാലനം
+    ms: penjagaan kesihatan
+    ms-arab: ڤنجاݢاءن کصيحتن
+    nb: helsevesen
+    ne: स्वास्थ्य सेवा
+    nl: gezondheidszorg
+    nn: helsevesen
+    oc: Sciéncias de la santat
+    pa: ਸਿਹਤ ਸੰਭਾਲ
+    pl: opieka zdrowotna
+    pnb: صحت دی دیکھ ریکھ
+    ps: روغتيايي پاملرنه
+    pt: cuidados em saúde
+    pt-br: assistência médica
+    ro: asistența medicală
+    ru: здравоохранение
+    sco: heal care
+    sd: صحت جي سار سنڀال
+    se: dearvvašvuođafuolahus
+    sh: zdravstvena zaštita
+    si: සෞඛ්ය සේවා
+    sk: zdravotníctvo
+    sl: zdravstveno varstvo
+    smn: tiervâsvuođâhuolâttâs
+    sms: tiõrvâsvuõtthuâll
+    sq: Kujdesi shëndetësor
+    sr: здравствена заштита
+    sr-ec: здравствена заштита
+    sr-el: zdravstvena zaštita
+    sv: hälso- och sjukvård
+    ta: நலம் பேணல்
+    th: บริการสุขภาพ
+    tl: Pangangalagang pangkalusugan
+    tr: sağlık hizmeti
+    tt: сәламәтлекне саклау
+    tt-cyrl: сәламәтлекне саклау
+    uk: охорона здоров’я
+    ur: صحت کی دیکھ ریکھ
+    uz: Sogʻliqni saqlash
+    vec: asistensa sanitària
+    vi: y tế
+    war: Pagmangno hin panlawas
+    yi: העלט קעיר
+    yue: 健康護理
+    zh: 医疗卫生
+    zh-hant: 醫療衛生
+    zh-tw: 醫療衛生
 ---
-
 # [[Health_Care]] 
 
 Class of all health_cares.

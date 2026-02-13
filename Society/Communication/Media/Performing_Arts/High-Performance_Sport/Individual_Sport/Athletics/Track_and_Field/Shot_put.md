@@ -1,12 +1,81 @@
 ---
 aliases:
-  - Kugelstoßen
-  - Shot_put
-  - Shot put
+- arremesso de peso
+- Aruncarea greutății
+- Bacanje kugle
+- Bommstoussen
+- caitheamh meáchain
+- getto del peso
+- gewigstoot
+- globoĵeto
+- Gülle atma
+- Güllə atıcılığı
+- Iactus globi
+- Kogelstoete
+- kogelstoten
+- Kugelstossen
+- Kugelstoßen
+- kuglestød
+- kulestøt
+- kulestøyt
+- kulstötning
+- kuulantyöntö
+- kuulauigâdem
+- kuulitõuge
+- kuvllasuhppen
+- Kúluvarp
+- Lanceamento del peso
+- lancer du poids
+- lanzamento de peso
+- lanzamiento de peso
+- Lançament de pes
+- llanzamientu de pesu
+- llançament de pes
+- lodes grūšana
+- lontar peluru
+- pchnięcie kulą
+- Pisu jaurtiketa
+- rutulio stūmimas
+- Shot put
+- Shot_put
+- suvanje krogle
+- súlylökés
+- tamazight
+- tolak peluru
+- Vrh guľou
+- vrh koulí
+- yadro uloqtirish
+- đẩy tạ
+- Σφαιροβολία
+- бацање кугле
+- Бөөрөнцөг түлхэлт
+- Гулӯлапартоӣ
+- йәҙрә ташлау
+- Тласкане на гюле
+- толкание ядра
+- Фрлање ѓуле
+- штовхання ядра
+- штурханне ядра
+- штурханьне ядра
+- הדיפת כדור ברזל
+- رمى الجله
+- رمي الجلة
+- پرتاب وزنه
+- गोळाफेक
+- लोहपिण्डप्रक्षेपणक्रीडा
+- ਸ਼ਾਟ-ਪੁੱਟ
+- குண்டு எறிதல்
+- ഷോട്ട് പുട്ട്
+- යගුලිය විසි කිරීම
+- ბირთვის კვრა
+- 砲丸投
+- 鉛球
+- 铅球
+- 포환던지기
 has_id_wikidata: Q180935
 record_or_record_progression:
-  - '[[_Standards/WikiData/WD~Q143267,143267]]'
-  - "[[_Standards/WikiData/WD~women's_shot_put_world_record_progression,32161]]"
+- '[[_Standards/WikiData/WD~Q143267,143267]]'
+- "[[_Standards/WikiData/WD~women's_shot_put_world_record_progression,32161]]"
 subclass_of: '[[_Standards/WikiData/WD~weight_throwing,259509]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
@@ -20,8 +89,93 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Shot%20Put%20Pictogram.
 IPTC_NewsCode: mediatopic/20000843
 Commons_category: Shot put
 OpenStreetMap_tag: athletics=shot_put
+dv_has_:
+  name_:
+    af: gewigstoot
+    ar: رمي الجلة
+    arz: رمى الجله
+    ast: llanzamientu de pesu
+    az: Güllə atıcılığı
+    ba: йәҙрә ташлау
+    be: штурханне ядра
+    be-tarask: штурханьне ядра
+    bg: Тласкане на гюле
+    bs: Bacanje kugle
+    ca: llançament de pes
+    cs: vrh koulí
+    da: kuglestød
+    de: Kugelstoßen
+    de-ch: Kugelstossen
+    el: Σφαιροβολία
+    en: shot put
+    eo: globoĵeto
+    es: lanzamiento de peso
+    et: kuulitõuge
+    eu: Pisu jaurtiketa
+    fa: پرتاب وزنه
+    fi: kuulantyöntö
+    fr: lancer du poids
+    ga: caitheamh meáchain
+    gl: lanzamento de peso
+    he: הדיפת כדור ברזל
+    hi: shot put
+    hr: Bacanje kugle
+    hu: súlylökés
+    ia: Lanceamento del peso
+    id: tolak peluru
+    is: Kúluvarp
+    it: getto del peso
+    ja: 砲丸投
+    ka: ბირთვის კვრა
+    ko: 포환던지기
+    la: Iactus globi
+    lb: Bommstoussen
+    li: Kogelstoete
+    lt: rutulio stūmimas
+    lv: lodes grūšana
+    mk: Фрлање ѓуле
+    ml: ഷോട്ട് പുട്ട്
+    mn: Бөөрөнцөг түлхэлт
+    mr: गोळाफेक
+    ms: lontar peluru
+    nb: kulestøt
+    nl: kogelstoten
+    nn: kulestøyt
+    oc: Lançament de pes
+    pa: ਸ਼ਾਟ-ਪੁੱਟ
+    pl: pchnięcie kulą
+    pt: arremesso de peso
+    pt-br: arremesso de peso
+    rif: tamazight
+    ro: Aruncarea greutății
+    ru: толкание ядра
+    sa: लोहपिण्डप्रक्षेपणक्रीडा
+    se: kuvllasuhppen
+    sh: Bacanje kugle
+    si: යගුලිය විසි කිරීම
+    sk: Vrh guľou
+    sl: suvanje krogle
+    smn: kuulauigâdem
+    sr: бацање кугле
+    sr-ec: Бацање кугле
+    sr-el: Bacanje kugle
+    sv: kulstötning
+    ta: குண்டு எறிதல்
+    tg: Гулӯлапартоӣ
+    tr: Gülle atma
+    uk: штовхання ядра
+    uz: yadro uloqtirish
+    vi: đẩy tạ
+    wuu: 铅球
+    yue: 鉛球
+    zh: 铅球
+    zh-cn: 铅球
+    zh-hans: 铅球
+    zh-hant: 鉛球
+    zh-hk: 鉛球
+    zh-sg: 铅球
+    zh-tw: 鉛球
 ---
-
 # [[Shot_put]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Shot_put,180935|WD~Shot_put,180935]]  

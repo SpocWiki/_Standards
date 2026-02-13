@@ -1,9 +1,63 @@
 ---
 aliases:
-  - Geogalinae
+- aardtenrek
+- Erdtenrek
+- Geogale aurita
+- Geogalinae
+- Groeatoeartenrek
+- Large-eared tenrec
+- Långörad tanrek
+- Ratiavatol (Geogale aurita)
+- tenrec orellut
+- Tenrek skouarnek
+- Голямоух тенрек
+- Дугоухи тенрек
+- Земляной тенрек
+- גיאוגליים
+- تیغپشت گوشدراز
+- مدال كبير الأذنين
+- مدال كبير الاذنين
+- 큰귀텐렉
 title: Geogalinae
+has_id_wikidata: Q523970
+dv_has_:
+  name_:
+    ar: مدال كبير الأذنين
+    arz: مدال كبير الاذنين
+    ast: Geogale aurita
+    avk: Ratiavatol (Geogale aurita)
+    bg: Голямоух тенрек
+    br: Tenrek skouarnek
+    ca: tenrec orellut
+    ceb: Geogale aurita
+    de: Erdtenrek
+    en: Large-eared tenrec
+    es: Geogale aurita
+    eu: Geogale aurita
+    fa: تیغپشت گوشدراز
+    fi: Geogale aurita
+    fr: Geogale aurita
+    ga: Geogale aurita
+    he: גיאוגליים
+    ia: Geogale aurita
+    it: Geogale aurita
+    ko: 큰귀텐렉
+    la: Geogale aurita
+    li: Groeatoeartenrek
+    ms: Geogale aurita
+    mul: Geogale aurita
+    nl: aardtenrek
+    pl: Geogale aurita
+    pt: Geogale aurita
+    ro: Geogale aurita
+    ru: Земляной тенрек
+    sq: Geogale aurita
+    sr: Дугоухи тенрек
+    sv: Långörad tanrek
+    uk: Geogale aurita
+    vi: Geogale aurita
+    war: Geogale aurita
 ---
-
 # [[Geogalinae]] 
 
 ## #has_/text_of_/abstract 

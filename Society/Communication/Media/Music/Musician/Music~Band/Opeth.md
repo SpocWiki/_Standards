@@ -1,4 +1,80 @@
-
+---
+has_id_wikidata: Q18557
+dv_has_:
+  name_:
+    ar: أوبث
+    ast: Opeth
+    az: Opeth
+    azb: اپث
+    be: Opeth
+    be-tarask: Opeth
+    bg: Opeth
+    bn: ওপেথ
+    ca: Opeth
+    cs: Opeth
+    cy: Opeth
+    da: Opeth
+    de: Opeth
+    de-ch: Opeth
+    el: Opeth
+    en: Opeth
+    en-ca: Opeth
+    en-gb: Opeth
+    es: Opeth
+    fa: اپث
+    fi: Opeth
+    fo: Opeth
+    fr: Opeth
+    fy: Opeth
+    ga: Opeth
+    gl: Opeth
+    he: אופת'
+    hr: Opeth
+    hu: Opeth
+    hy: Opeth
+    id: Opeth
+    is: Opeth
+    it: Opeth
+    ja: オーペス
+    ka: Opeth
+    kn: ಒಪೆತ್
+    ko: 오페스
+    la: Opeth
+    lv: Opeth
+    nb: Opeth
+    nl: Opeth
+    nn: Opeth
+    oc: Opeth
+    pl: Opeth
+    pt: Opeth
+    pt-br: Opeth
+    ro: Opeth
+    ru: Opeth
+    sco: Opeth
+    sk: Opeth
+    sr: Opeth
+    sv: Opeth
+    th: โอเพธ
+    tr: Opeth
+    uk: Opeth
+    uz: Opeth
+    zh: 残月魔都
+    zh-hant: 殘月魔都
+    zh-tw: 殘月魔都樂團
+aliases:
+- Opeth
+- אופת'
+- أوبث
+- اپث
+- ওপেথ
+- ಒಪೆತ್
+- โอเพธ
+- オーペス
+- 残月魔都
+- 殘月魔都
+- 殘月魔都樂團
+- 오페스
+---
 ## #has_/text_of_/abstract 
 
 > **Opeth** is a Swedish progressive metal band from Stockholm, formed in 1989. 

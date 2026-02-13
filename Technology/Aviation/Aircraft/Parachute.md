@@ -1,47 +1,231 @@
 ---
 aliases:
-  - Fallschirm
-  - Parachute
+- Balaliitoo
+- dù nhảy
+- ejtőernyő
+- faldskærm
+- Fallhlíf
+- Fallschierm
+- Fallschirm
+- fallskjerm
+- fallskärm
+- Harz-lamm
+- heketau
+- ilo kon pi tawa anpa
+- Izpletnis
+- jausgailu
+- langevari
+- laskuvarjo
+- padalo
+- Padobran
+- padák
+- Paracadita
+- paracadute
+- Paracaduti
+- paracaigudes
+- paracaídas
+- Paracaíes
+- Parachute
+- Paracrodada
+- paraisiút
+- Parakayda
+- paraquedas
+- Pararutas
+- Parashut
+- parashuta
+- Parasiwt
+- Parasjute
+- Parasut
+- Paratcheute
+- paraŝuto
+- Paraşyut
+- Paraşüt
+- parašiutas
+- parașută
+- payung terjun
+- seaivunsuodji
+- seivvamšolkk
+- siäivumpuurjâs
+- spadochron
+- sæjvvomberjas
+- Umbrella descensoria
+- valskerm
+- Αλεξίπτωτο
+- падобран
+- парашут
+- парашют
+- Պարաշյուտ
+- מצנח
+- مظلة هبوط
+- پاراشيۋت
+- پیراشوٹ
+- پەڕەشووت
+- چتر
+- पैराशूट
+- प्यारासुट
+- প্যারাশুট
+- ਪੈਰਾਸ਼ੂਟ
+- வான்குடை
+- పారాచూట్
+- പാരച്യൂട്ട്
+- පැරෂුටය
+- ร่มชูชีพ
+- လေထီး
+- ၸွင်ႈမိၼ်
+- პარაშუტი
+- パラシュート
+- 降落伞
+- 降落傘
+- 낙하산
 has_id_wikidata: Q482816
 has_part_s_:
-  - "[[_Standards/WikiData/WD~handle,200266]]"
-  - "[[_Standards/WikiData/WD~safety_harness,333518]]"
-  - "[[_Standards/WikiData/WD~cable,646462]]"
+- '[[_Standards/WikiData/WD~handle,200266]]'
+- '[[_Standards/WikiData/WD~safety_harness,333518]]'
+- '[[_Standards/WikiData/WD~cable,646462]]'
 uses:
-  - "[[_Standards/WikiData/WD~drag,206621]]"
-  - "[[_Standards/WikiData/WD~inflation,109517859]]"
+- '[[_Standards/WikiData/WD~drag,206621]]'
+- '[[_Standards/WikiData/WD~inflation,109517859]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~cable,646462]]"
-  - "[[_Standards/WikiData/WD~textile,28823]]"
-subclass_of: "[[_Standards/WikiData/WD~protective_device,3030569]]"
-different_from: "[[_Standards/WikiData/WD~Spadochron,9339993]]"
-has_use: "[[_Standards/WikiData/WD~deceleration,12307971]]"
-has_characteristic: "[[_Standards/WikiData/WD~control,29017603]]"
+- '[[_Standards/WikiData/WD~cable,646462]]'
+- '[[_Standards/WikiData/WD~textile,28823]]'
+subclass_of: '[[_Standards/WikiData/WD~protective_device,3030569]]'
+different_from: '[[_Standards/WikiData/WD~Spadochron,9339993]]'
+has_use: '[[_Standards/WikiData/WD~deceleration,12307971]]'
+has_characteristic: '[[_Standards/WikiData/WD~control,29017603]]'
 Nomenclature_for_Museum_Cataloging: 11679
 Commons_category: Parachutes
 GS1_GPC_code: 10001832
 OmegaWiki_Defined_Meaning: 541394
 U_S_National_Archives_Identifier: 10644780
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/USN%20parachute%20demo%20team%20at%20Minot%20AFB.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/IJA%20Type%201%20Cargo%20Parachute.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/NASA%27s%20Orion%20Spacecraft%20Parachutes%20Tested%20at%20U.S.%20Army%20Yuma%20Proving%20Ground.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/USN%20parachute%20demo%20team%20at%20Minot%20AFB.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/IJA%20Type%201%20Cargo%20Parachute.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/NASA%27s%20Orion%20Spacecraft%20Parachutes%20Tested%20at%20U.S.%20Army%20Yuma%20Proving%20Ground.jpg
 exact_match:
-  - http://wordnet-rdf.princeton.edu/wn30/03888257-n
-  - http://wordnet-rdf.princeton.edu/wn31/103839738-n
+- http://wordnet-rdf.princeton.edu/wn30/03888257-n
+- http://wordnet-rdf.princeton.edu/wn31/103839738-n
 UNSPSC_Code: 25201904
 Dewey_Decimal_Classification: 629.134386
 MCN_code: 8804.00.00
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PARASHYUT.html
-Unicode_character: 🪂
+Unicode_character: "\U0001FA82"
+dv_has_:
+  name_:
+    af: valskerm
+    ar: مظلة هبوط
+    ast: Paracaíes
+    az: Paraşüt
+    be: парашут
+    be-tarask: парашут
+    bg: Парашут
+    bho: पैराशूट
+    bjn: Parasut
+    bn: প্যারাশুট
+    br: Harz-lamm
+    bs: Padobran
+    ca: paracaigudes
+    ckb: پەڕەشووت
+    cs: padák
+    cy: Parasiwt
+    da: faldskærm
+    de: Fallschirm
+    el: Αλεξίπτωτο
+    en: parachute
+    eo: paraŝuto
+    es: paracaídas
+    et: langevari
+    eu: jausgailu
+    fa: چتر
+    fi: laskuvarjo
+    fr: parachute
+    fy: Parasjute
+    ga: paraisiút
+    gl: Paracaídas
+    gu: parachute
+    he: מצנח
+    hr: Padobran
+    hu: ejtőernyő
+    hy: Պարաշյուտ
+    ia: Paracadita
+    id: parasut
+    is: Fallhlíf
+    it: paracadute
+    ja: パラシュート
+    ka: პარაშუტი
+    kk: Парашют
+    kk-arab: پاراشيۋت
+    kk-cyrl: Парашют
+    kk-latn: Paraşyut
+    ko: 낙하산
+    krc: Парашют
+    la: Umbrella descensoria
+    lb: Fallschierm
+    lmo: Paracrodada
+    lt: parašiutas
+    lv: Izpletnis
+    mi: heketau
+    mk: падобран
+    ml: പാരച്യൂട്ട്
+    ms: payung terjun
+    my: လေထီး
+    nb: fallskjerm
+    ne: प्यारासुट
+    nl: parachute
+    nn: fallskjerm
+    om: Balaliitoo
+    pa: ਪੈਰਾਸ਼ੂਟ
+    pl: spadochron
+    pnb: پیراشوٹ
+    pt: paraquedas
+    ro: parașută
+    ru: парашют
+    sc: Pararutas
+    scn: Paracaduti
+    se: seaivunsuodji
+    sh: Padobran
+    shn: ၸွင်ႈမိၼ်
+    si: පැරෂුටය
+    sk: padák
+    sl: padalo
+    smj: sæjvvomberjas
+    smn: siäivumpuurjâs
+    sms: seivvamšolkk
+    sq: parashuta
+    sr: Падобран
+    sr-ec: Падобран
+    sr-el: Padobran
+    su: Parasut
+    sv: fallskärm
+    ta: வான்குடை
+    te: పారాచూట్
+    th: ร่มชูชีพ
+    tl: Parakayda
+    tok: ilo kon pi tawa anpa
+    tr: paraşüt
+    uk: парашут
+    uz: Parashut
+    vi: dù nhảy
+    wa: Paratcheute
+    war: Parakayda
+    wuu: 降落伞
+    xmf: პარაშუტი
+    yue: 降落傘
+    zh: 降落伞
+    zh-cn: 降落伞
+    zh-hans: 降落伞
+    zh-hant: 降落傘
+    zh-hk: 降落傘
+    zh-mo: 降落傘
+    zh-my: 降落伞
+    zh-sg: 降落伞
+    zh-tw: 降落傘
 ---
-
 # [[Parachute]] 🪂 
 
 #is_/same_as :: [[WD~Parachute,482816]] 

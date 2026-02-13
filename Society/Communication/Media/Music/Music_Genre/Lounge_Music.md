@@ -1,4 +1,71 @@
-
+---
+has_id_wikidata: Q1141081
+dv_has_:
+  name_:
+    az: launj musiqisi
+    be: лаўнж
+    ca: lounge
+    da: loungemusik
+    de: Lounge-Musik
+    en: lounge music
+    eo: Salono
+    es: lounge
+    fi: kamarimusiikki
+    fr: lounge
+    ga: ceol tolglann
+    he: מוזיקת טרקלינים
+    hr: Lounge glazba
+    id: Musik palanta
+    it: lounge
+    ja: ラウンジ・ミュージック
+    ko: 라운지 음악
+    mk: салонска музика
+    mt: mużika lounge
+    nb: lounge-musikk
+    nl: lounge
+    pl: muzyka salonowa
+    pt: lounge music
+    pt-br: lounge music
+    ru: лаунж
+    sl: lounge glasba
+    sv: loungemusik
+    th: ดนตรีเลานจ์
+    tr: Lounge
+    uk: Лаунж
+    vi: Nhạc phòng chờ
+    zh: 沙發音樂
+    zh-cn: 休息室音乐
+    zh-hans: 休息室音乐
+    zh-hant: 休息室音樂
+    zh-hk: 酒廊音樂
+aliases:
+- ceol tolglann
+- kamarimusiikki
+- launj musiqisi
+- lounge
+- lounge glasba
+- Lounge glazba
+- lounge music
+- Lounge-Musik
+- lounge-musikk
+- loungemusik
+- Musik palanta
+- muzyka salonowa
+- mużika lounge
+- Nhạc phòng chờ
+- Salono
+- лаўнж
+- лаунж
+- салонска музика
+- מוזיקת טרקלינים
+- ดนตรีเลานจ์
+- ラウンジ・ミュージック
+- 休息室音乐
+- 休息室音樂
+- 沙發音樂
+- 酒廊音樂
+- 라운지 음악
+---
 # [[Lounge_Music]] 
 
 #is_/similar_to :: [[Easy_Listening]] 

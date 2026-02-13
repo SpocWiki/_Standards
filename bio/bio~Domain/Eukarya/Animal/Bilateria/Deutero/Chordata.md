@@ -1,68 +1,142 @@
 ---
 aliases:
-  - Chordata
-  - Chordater
-  - Chordatiere
-  - Χορδωτά
-  - Chordates
-  - Ĥordulo
-  - Cordados
-  - Keelikloomad
-  - Selkäjänteiset
-  - Chordés
-  - Cordés
-  - Ragstringdiarten
-  - Rêchstringdier
-  - Cordaigh
-  - Saitetierer
-  - મેરૂદંડી
-  - מיתרניים
-  - रज्जुकी
-  - Svitkovci
-  - Gerinchúrosok
-  - Քորդավորներ
-  - Chordatos
-  - Kordata
-  - Seildýr
-  - 脊索動物門
-  - skoselti'e
-  - 척삭동물문(脊索動物門)
-  - Stûnpiştdaran
-  - Chordiniai
-  - Hordaiņi
-  - Хордати
-  - Хөвчтөний хүрээ
-  - Ryggstrengdyr
-  - Chordadieren
-  - Gewervelde dieren
-  - Strunowce
-  - Cordado
-  - Cordate
-  - Хордовые
-  - Strunovce
-  - strunarji
-  - Ryggsträngsdjur
-  - สัตว์มีแกนสันหลัง
-  - Kordalılar
-  - Хордові
-  - حبلیات
-  - Động vật có dây sống
-  - 脊索动物门
-  - Cordati
-  - Cordatos
-  - حبليات
-  - Хордови
-  - Hordati
-  - Cordats
-  - strunatci
-  - Cordog
+- Bííghą́ą́stsʼǫǫd Dahólónígíí
+- Chek-soh tōng-bu̍t
+- Chordabeêsten
+- Chordabêestn
+- Chordadieren
+- Chordadierer
+- Chordadéieren
+- Chordata
+- Chordate
+- Chordater
+- Chordates
+- Chordatiere
+- chordato
+- Chordatos
+- Chordiniai
+- Chordáty
+- Chordés
+- Chuordėnē
+- Cordado
+- Cordados
+- Cordaigh
+- Cordate
+- Cordati
+- Cordato
+- Cordatos
+- Cordats
+- Cordog
+- Cordâs
+- Cordés
+- Curdati
+- Cék-só̤h dông-ŭk
+- Doenghduz ndoencag
+- Gerinchúrosok
+- Gewervelde dieren
+- Hordaiņi
+- hordalılar
+- Hordati
+- Keelikloomad
+- Kkurdata
+- Kodata
+- Kordalılar
+- Kordat
+- Kordata
+- Kordatu
+- Kòde
+- Lafee qabeeyyii
+- Mananap nga adunay kord ang likod
+- Monumanu filo siliva
+- Mymba sã atukupépe
+- Ragstringdiarten
+- Ruggensnarendeerter
+- Rugstringdiere
+- Ryggstrengdyr
+- Ryggsträngsdjur
+- Rêchstringdier
+- Saitetierer
+- savosuonâsiih
+- Seildýr
+- Selkäjänteiset
+- skoselti'e
+- soweli pi palisa insa monsi
+- strunarji
+- strunatci
+- Strunovce
+- Strunowce
+- Stûnpiştdaran
+- Svitkovci
+- Tsit-sok-thûng-vu̍t-mùn
+- Wasa tiwlliyuq
+- Xordalilar
+- xordalılar
+- Động vật có dây sống
+- Ĥordulo
+- ĥorduloj
+- Χορδωτά
+- Мышксöнаэз
+- Танобдорон
+- Хирлӳлли
+- Хордæджынтæ
+- Хорда
+- хордавыя
+- Хордалуулар
+- Хордалыктар
+- хордалылар
+- Хордати
+- Хордові
+- Хордови
+- Хордовы
+- Хордовые
+- Хүбшэтэн
+- Хөвчтөн
+- Хөвчтөний хүрээ
+- Քորդավորներ
+- כארדאטן
+- מיתרניים
+- حبليات
+- حبلیات
+- خوْردالیلار
+- رسندارون
+- طنابداران
+- مازەداران
+- کورڈیٹ
+- ڪورڊيٽا
+- कणाधारी प्राणी
+- कर्डेटा
+- कार्डेट
+- रज्जुकी
+- ক'ৰডাটা
+- কর্ডাটা
+- ਤੰਦਧਾਰੀ
+- મેરૂદંડી
+- முதுகுநாணி
+- కార్డేటా
+- ಕಾರ್ಡೇಟ್
+- കോർഡേറ്റുകൾ
+- සරජ්ජුකයා
+- สัตว์มีแกนสันหลัง
+- སྒལ་ཐག་སྲོག་ཆགས་
+- ကော်ဒိတ်
+- ქორდიანები
+- ქორდიანეფი
+- አምደስጌ
+- ⵜⵉⵎⵙⴳⴰⵜⵓⵜⵉⵏ
+- 脊索动物
+- 脊索动物门
+- 脊索動物
+- 脊索動物門
+- ꯀꯣꯔꯗꯥꯇꯥ
+- 척삭동물
+- 척삭동물문(脊索動物門)
 has_id_wikidata: Q10915
 Commons_category: Chordata
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 596
 disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 EPPO_Code: 1CHORP
@@ -74,80 +148,251 @@ MeSH_tree_code: B01.050.150
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chordata%202.jpg
 OmegaWiki_Defined_Meaning: 765
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Kordatu.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Kordatu.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%A1%E0%A6%BE%E0%A6%9F%E0%A6%BE.wav
 properties_for_this_type: mode of reproduction
 start_time: -535000000-01-01
 taxon_common_name:
-  - Chordater
-  - Chordatiere
-  - Χορδωτά
-  - Chordates
-  - Ĥordulo
-  - Cordados
-  - Keelikloomad
-  - Selkäjänteiset
-  - Chordés
-  - Cordés
-  - Ragstringdiarten
-  - Rêchstringdier
-  - Cordaigh
-  - Cordados
-  - Saitetierer
-  - મેરૂદંડી
-  - מיתרניים
-  - रज्जुकी
-  - Svitkovci
-  - Gerinchúrosok
-  - Քորդավորներ
-  - Chordatos
-  - Kordata
-  - Seildýr
-  - 脊索動物門
-  - skoselti'e
-  - 척삭동물문(脊索動物門)
-  - Stûnpiştdaran
-  - Chordiniai
-  - Hordaiņi
-  - Хордати
-  - Хөвчтөний хүрээ
-  - Ryggstrengdyr
-  - Chordadieren
-  - Gewervelde dieren
-  - Strunowce
-  - Cordado
-  - Cordate
-  - Хордовые
-  - Strunovce
-  - strunarji
-  - Хордати
-  - Ryggsträngsdjur
-  - สัตว์มีแกนสันหลัง
-  - Kordalılar
-  - Хордові
-  - حبلیات
-  - Động vật có dây sống
-  - 脊索动物门
-  - 脊索动物门
-  - 脊索動物門
-  - Cordati
-  - Cordatos
-  - حبليات
-  - Хордови
-  - Cordados
-  - Hordati
-  - Cordats
-  - strunatci
-  - Cordog
+- Chordater
+- Chordatiere
+- Χορδωτά
+- Chordates
+- Ĥordulo
+- Cordados
+- Keelikloomad
+- Selkäjänteiset
+- Chordés
+- Cordés
+- Ragstringdiarten
+- Rêchstringdier
+- Cordaigh
+- Cordados
+- Saitetierer
+- મેરૂદંડી
+- מיתרניים
+- रज्जुकी
+- Svitkovci
+- Gerinchúrosok
+- Քորդավորներ
+- Chordatos
+- Kordata
+- Seildýr
+- 脊索動物門
+- skoselti'e
+- 척삭동물문(脊索動物門)
+- Stûnpiştdaran
+- Chordiniai
+- Hordaiņi
+- Хордати
+- Хөвчтөний хүрээ
+- Ryggstrengdyr
+- Chordadieren
+- Gewervelde dieren
+- Strunowce
+- Cordado
+- Cordate
+- Хордовые
+- Strunovce
+- strunarji
+- Хордати
+- Ryggsträngsdjur
+- สัตว์มีแกนสันหลัง
+- Kordalılar
+- Хордові
+- حبلیات
+- Động vật có dây sống
+- 脊索动物门
+- 脊索动物门
+- 脊索動物門
+- Cordati
+- Cordatos
+- حبليات
+- Хордови
+- Cordados
+- Hordati
+- Cordats
+- strunatci
+- Cordog
 taxon_name: Chordata
 taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
 title: Chordata
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Chordata,8084565]]'
-  - '[[_Standards/WikiData/WD~Template_Taxonomy_Chordata,10947570]]'
+- '[[_Standards/WikiData/WD~Template_Chordata,8084565]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Chordata,10947570]]'
 UMLS_CUI: C0920312
+dv_has_:
+  name_:
+    af: Rugstringdiere
+    am: አምደስጌ
+    an: Chordata
+    ar: حبليات
+    ary: حبليات
+    arz: حبليات
+    as: ক'ৰডাটা
+    ast: Chordata
+    awa: कर्डेटा
+    az: Xordalılar
+    azb: خوْردالیلار
+    ba: Хордалылар
+    ban: Chordata
+    bcl: Chordate
+    be: хордавыя
+    be-tarask: хордавыя
+    bg: Хордови
+    bho: कार्डेट
+    bn: কর্ডাটা
+    bo: སྒལ་ཐག་སྲོག་ཆགས་
+    br: Chordata
+    bs: Hordati
+    bxr: Хүбшэтэн
+    ca: cordats
+    cdo: Cék-só̤h dông-ŭk
+    ceb: Mananap nga adunay kord ang likod
+    ckb: مازەداران
+    crh: hordalılar
+    cs: strunatci
+    cv: Хирлӳлли
+    cy: Cordog
+    da: Chordater
+    de: Chordatiere
+    el: Χορδωτά
+    en: Chordata
+    en-ca: Chordata
+    en-gb: Chordata
+    eo: ĥorduloj
+    es: cordados
+    et: keelikloomad
+    eu: Kordatu
+    ext: Chordata
+    fa: طنابداران
+    fi: selkäjänteiset
+    fo: Chordata
+    fr: Chordata
+    frp: Cordâs
+    frr: Ragstringdiarten
+    fy: Rêchstringdier
+    ga: cordaigh
+    gd: Chordata
+    gl: cordados
+    gn: Mymba sã atukupépe
+    gsw: Chordadierer
+    gu: મેરૂદંડી
+    gv: Chordata
+    ha: Chordata
+    hak: Tsit-sok-thûng-vu̍t-mùn
+    he: מיתרניים
+    hi: रज्जुकी
+    hif: Chordate
+    hr: svitkovci
+    ht: Kòde
+    hu: gerinchúrosok
+    hy: քորդավորներ
+    ia: chordato
+    id: Chordata
+    ie: Chordata
+    ilo: kordata
+    inh: Хорда
+    io: Chordata
+    is: Seildýr
+    it: Chordata
+    ja: 脊索動物
+    jbo: skoselti'e
+    jv: Chordata
+    ka: ქორდიანები
+    kab: Kkurdata
+    kk: хордалылар
+    kn: ಕಾರ್ಡೇಟ್
+    ko: 척삭동물
+    koi: Мышксöнаэз
+    ks: کورڈیٹ
+    ku: Kordat
+    kw: Chordata
+    ky: Хордалуулар
+    la: Chordata
+    lb: Chordadéieren
+    lfn: Cordato
+    li: Chordata
+    lij: Chordata
+    lt: Chordiniai
+    lv: hordaiņi
+    mk: хордови
+    ml: കോർഡേറ്റുകൾ
+    mn: Хөвчтөн
+    mni: ꯀꯣꯔꯗꯥꯇꯥ
+    mr: कणाधारी प्राणी
+    ms: Kordata
+    mt: Chordata
+    mul: Chordata
+    my: ကော်ဒိတ်
+    mzn: رسندارون
+    nan: Chek-soh tōng-bu̍t
+    nb: ryggstrengdyr
+    nds: Ruggensnarendeerter
+    nl: chordadieren
+    nn: ryggstrengdyr
+    nov: Chordata
+    nv: Bííghą́ą́stsʼǫǫd Dahólónígíí
+    oc: Cordats
+    om: Lafee qabeeyyii
+    os: Хордæджынтæ
+    pa: ਤੰਦਧਾਰੀ
+    pcd: Chordata
+    pl: strunowce
+    pms: Chordata
+    pnb: کورڈیٹ
+    pt: cordados
+    pt-br: chordata
+    qu: Wasa tiwlliyuq
+    ro: chordata
+    ru: хордовые
+    rue: Хордовы
+    sah: Хордалыктар
+    scn: Curdati
+    sco: chordates
+    sd: ڪورڊيٽا
+    sgs: Chuordėnē
+    sh: Svitkovci
+    si: සරජ්ජුකයා
+    sk: Chordáty
+    sl: strunarji
+    smn: savosuonâsiih
+    sq: Chordate
+    sr: хордати
+    su: Chordata
+    sv: ryggsträngsdjur
+    sw: Kodata
+    ta: முதுகுநாணி
+    te: కార్డేటా
+    tg: Танобдорон
+    th: สัตว์มีแกนสันหลัง
+    tl: Kordata
+    to: Monumanu filo siliva
+    tok: soweli pi palisa insa monsi
+    tr: Kordalılar
+    tt: хордалылар
+    tt-cyrl: хордалылар
+    tt-latn: xordalılar
+    uk: хордові
+    ur: حبلیات
+    uz: Xordalilar
+    vi: động vật có dây sống
+    vls: Chordabêestn
+    vo: Chordata
+    war: Chordata
+    wuu: 脊索动物
+    xmf: ქორდიანეფი
+    yi: כארדאטן
+    yue: 脊索動物
+    za: Doenghduz ndoencag
+    zea: Chordabeêsten
+    zgh: ⵜⵉⵎⵙⴳⴰⵜⵓⵜⵉⵏ
+    zh: 脊索动物门
+    zh-cn: 脊索动物门
+    zh-hans: 脊索动物门
+    zh-hant: 脊索動物門
+    zh-hk: 脊索動物門
+    zh-tw: 脊索動物門
 ---
-
 # [[Chordata]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chordata,10915|WD~Chordata,10915]]  

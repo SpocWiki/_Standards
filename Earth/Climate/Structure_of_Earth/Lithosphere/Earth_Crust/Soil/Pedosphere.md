@@ -1,33 +1,116 @@
 ---
 aliases:
+- pedosfeer
+- Pedosfer
+- pedosfera
+- Pedosfero
+- Pedosferă
+- Pedosfären
+- Pedosfäär
+- Pedosfääri
+- Pedosfære
+- pedosféra
+- Pedosfēra
+- Pedospera
+- pedosphere
+- Pedosphäre
+- peidisféar
+- pédosphère
+- talajtakaró
+- педасфера
+- Педосфер
+- педосфера
+- пэдасфэра
+- Պեդոսֆերա
+- خاکسپهر
+- غلاف الأرض الترابي
+- मृदामंडल
+- 土圈
+- 土壌圏
+- 土壤圈
+- 토양권
 has_id_wikidata: Q941094
-studied_by: "[[_Standards/WikiData/WD~pedology,215501]]"
+studied_by: '[[_Standards/WikiData/WD~pedology,215501]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~geosphere,241284]]"
-  - "[[_Standards/WikiData/WD~geographic_envelope,2627400]]"
-part_of: "[[_Standards/WikiData/WD~landscape_sphere,8535454]]"
-OmegaWiki_Defined_Meaning: "2735"
+- '[[_Standards/WikiData/WD~geosphere,241284]]'
+- '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
+part_of: '[[_Standards/WikiData/WD~landscape_sphere,8535454]]'
+OmegaWiki_Defined_Meaning: 2735
 dv_is_:
   same_as:
-    - "[[../../../../../../WikiData/WD~Pedosphere,941094]]"
-    - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]"
-    - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]"
-    - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]"
-    - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]]"
-    - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]]"
-    - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]"
-    - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]"
+  - '[[../../../../../../WikiData/WD~Pedosphere,941094]]'
+  - '[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]'
+  - '[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]'
+  - '[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]'
+  - '[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]]'
+  - '[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]]'
+  - '[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]'
+  - '[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]'
 dv_is_same_as:
-  - "[[../../../../../../WikiData/WD~Pedosphere,941094]]"
-  - "[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]"
-  - "[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]"
-  - "[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]"
-  - "[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]]"
-  - "[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]]"
-  - "[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]"
-  - "[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]"
+- '[[../../../../../../WikiData/WD~Pedosphere,941094]]'
+- '[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]'
+- '[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]'
+- '[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]'
+- '[[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.protect|Pedosphere.protect]]'
+- '[[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.private|Pedosphere.private]]'
+- '[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]'
+- '[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]'
+dv_has_:
+  name_:
+    ar: غلاف الأرض الترابي
+    ast: Pedosfera
+    az: Pedosfer
+    be: педасфера
+    be-tarask: пэдасфэра
+    bg: Педосфера
+    ca: pedosfera
+    cs: pedosféra
+    de: Pedosphäre
+    en: pedosphere
+    en-us: pedosphere
+    eo: Pedosfero
+    es: pedosfera
+    et: Pedosfäär
+    eu: Pedosfera
+    fa: خاکسپهر
+    fi: Pedosfääri
+    fr: pédosphère
+    ga: peidisféar
+    gl: pedosfera
+    hi: मृदामंडल
+    hr: pedosfera
+    hu: talajtakaró
+    hy: Պեդոսֆերա
+    id: pedosfer
+    it: pedosfera
+    ja: 土壌圏
+    kk: Педосфера
+    ko: 토양권
+    lt: Pedosfera
+    lv: Pedosfēra
+    mn: Педосфер
+    nb: Pedosfære
+    nl: pedosfeer
+    pl: pedosfera
+    pt: pedosfera
+    ro: Pedosferă
+    ru: педосфера
+    sk: Pedosféra
+    sl: pedosfera
+    sq: Pedosfera
+    sr: Педосфера
+    sr-ec: педосфера
+    sr-el: pedosfera
+    sv: Pedosfären
+    tr: Pedosfer
+    uk: педосфера
+    war: Pedospera
+    yue: 土壤圈
+    zh: 土壤圈
+    zh-cn: 土壤圈
+    zh-hans: 土壤圈
+    zh-hant: 土圈
 ---
-
 # [[Pedosphere]] 
 
 #is_/same_as :: [[WD~Pedosphere,941094]] 

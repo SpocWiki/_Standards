@@ -1,30 +1,182 @@
 ---
 aliases:
+- Ca-lo
+- Caloree
+- Calori
+- caloria
+- caloria(s)
+- calorie
+- Calorìa
+- Caloría
+- calra
+- Caluria
+- Gă-lô-lī
+- Hitaeining
+- hoo'illaa
+- Kalor
+- kalori
+- Kaloria
+- kalorie
+- Kalorii
+- Kalorija
+- kalorio
+- kaloriya
+- kalorïya
+- kalória
+- Khah-lō͘-lí
+- small calorie
+- θερμίδα
+- калёрыя
+- калорія
+- Калорија
+- калория
+- калорыя
+- կալորիա
+- קאלערי
+- קלוריה
+- سعرة
+- كالورىييا
+- کالری
+- کالۆری
+- कैलोरी
+- ক্যালরি
+- ਕੈਲੋਰੀ
+- கலோரி
+- కెలోరి
+- ಕೆಲೊರಿ
+- แคลอรี
+- ཁཱ།
+- ကယ်လိုရီ
+- ခယ်လိုရီ
+- カロリー
+- 卡路里
+- 칼로리
 has_id_wikidata: Q130964
 instance_of:
-  - "[[_Standards/WikiData/WD~unit_of_energy,2916980]]"
-  - "[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]"
+- '[[_Standards/WikiData/WD~unit_of_energy,2916980]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
 different_from:
-  - "[[_Standards/WikiData/WD~kilocalorie,25668616]]"
-  - "[[_Standards/WikiData/WD~calorie,87260855]]"
-  - "[[_Standards/WikiData/WD~mean_calorie,93811434]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-measured_physical_quantity: "[[_Standards/WikiData/WD~energy,11379]]"
+- '[[_Standards/WikiData/WD~kilocalorie,25668616]]'
+- '[[_Standards/WikiData/WD~calorie,87260855]]'
+- '[[_Standards/WikiData/WD~mean_calorie,93811434]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~energy,11379]]'
 conversion_to_SI_unit: 4.184
 UCUM_code:
-  - cal
-  - cal_th
-OmegaWiki_Defined_Meaning: "333116"
+- cal
+- cal_th
+OmegaWiki_Defined_Meaning: 333116
 UN_CEFACT_Common_Code: D35
 unit_symbol:
-  - кал
-  - cal
-  - kal.
+- кал
+- cal
+- kal.
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nutrition-label.jpg
 Wolfram_Language_unit_code: '"ThermochemicalCalories"'
 Wikidata_SPARQL_query_equivalent: wd:Q130964 p:P2370/psn:P2370 [wikibase:quantityAmount ?source; wikibase:quantityUnit ?base]. ?item p:P2370/psn:P2370 [wikibase:quantityAmount ?target; wikibase:quantityUnit ?base]. BIND(?source / ?target as ?value)
+dv_has_:
+  name_:
+    ar: سعرة
+    ast: Caloría
+    az: Kalori
+    be: калорыя
+    be-tarask: калёрыя
+    bg: Калория
+    blk: ခယ်လိုရီ
+    bn: ক্যালরি
+    bo: ཁཱ།
+    bs: Kalorija
+    ca: caloria
+    cdo: Gă-lô-lī
+    ckb: کالۆری
+    cs: kalorie
+    cy: Calori
+    da: kalorie
+    de: Kalorie
+    el: θερμίδα
+    en: small calorie
+    eo: kalorio
+    es: caloría
+    et: Kalor
+    eu: Kaloria
+    fa: کالری
+    fi: Kalori
+    fr: calorie
+    frr: Kalorii
+    ga: calra
+    gl: Caloría
+    gv: Caloree
+    he: קלוריה
+    hi: कैलोरी
+    hr: Kalorija
+    ht: Kalori
+    hu: kalória
+    hy: կալորիա
+    id: Kalori
+    io: Kalorio
+    is: Hitaeining
+    it: caloria
+    ja: カロリー
+    kk: Калория
+    kk-arab: كالورىييا
+    kk-cn: كالورىييا
+    kk-cyrl: калория
+    kk-kz: Калория
+    kk-latn: kalorïya
+    kk-tr: Kalorïya
+    kn: ಕೆಲೊರಿ
+    ko: 칼로리
+    ky: Калория
+    lb: Kalorie
+    lmo: Caloria
+    lt: Kalorija
+    lv: kalorija
+    mk: Калорија
+    ms: Kalori
+    my: ကယ်လိုရီ
+    nan: Khah-lō͘-lí
+    nb: kalori
+    nl: calorie
+    nn: kalori
+    oc: Caloria
+    om: hoo'illaa
+    pa: ਕੈਲੋਰੀ
+    pl: kaloria
+    pms: Calorìa
+    pt: caloria
+    pt-br: caloria(s)
+    ro: calorie
+    ru: калория
+    scn: Caluria
+    sh: Kalorija
+    sk: kalória
+    sl: kalorija
+    sq: Kaloria
+    sr: калорија
+    sr-ec: калорија
+    sr-el: kalorija
+    su: Kalori
+    sv: kalori
+    ta: கலோரி
+    te: కెలోరి
+    th: แคลอรี
+    tl: kaloriya
+    tr: kalori
+    udm: калория
+    uk: калорія
+    uz: Kaloriya
+    vi: Ca-lo
+    wuu: 卡路里
+    yi: קאלערי
+    yue: 卡路里
+    zh: 卡路里
+    zh-cn: 卡路里
+    zh-hans: 卡路里
+    zh-hant: 卡路里
+    zh-hk: 卡路里
+    zh-sg: 卡路里
+    zh-tw: 卡路里
 ---
-
 # [[Small_Calorie]] 
 
 #is_/same_as :: [[../../WikiData/WD~Small_calorie,130964|WD~Small_calorie,130964]]  

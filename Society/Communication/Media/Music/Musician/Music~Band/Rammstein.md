@@ -1,5 +1,124 @@
-
-
+---
+has_id_wikidata: Q25177
+dv_has_:
+  name_:
+    af: Rammstein
+    an: Rammstein
+    ar: رامشتاين
+    ast: Rammstein
+    az: Rammstein
+    azb: رامشتاین
+    ban: Rammstein
+    bar: Rammstein
+    be: Rammstein
+    be-tarask: Rammstein
+    bg: Рамщайн
+    bi: Rammstein
+    bn: রামেস্টেইন
+    br: Rammstein (strollad)
+    bs: Rammstein
+    ca: Rammstein
+    cs: Rammstein
+    cy: Rammstein
+    da: Rammstein
+    de: Rammstein
+    el: Rammstein
+    en: Rammstein
+    en-gb: Rammstein
+    eo: Rammstein
+    es: Rammstein
+    et: Rammstein
+    eu: Rammstein
+    fa: رامشتاین
+    fi: Rammstein
+    fr: Rammstein
+    fy: Rammstein
+    ga: Rammstein
+    gl: Rammstein
+    gsw: Rammstein
+    he: רמשטיין
+    hi: राममस्टीन
+    hr: Rammstein
+    hsb: Rammstein
+    hu: Rammstein
+    hy: Ռամշթայն
+    hyw: Rammstein
+    id: Rammstein
+    is: Rammstein
+    it: Rammstein
+    ja: ラムシュタイン
+    ka: რამშტაინი
+    kg: Rammstein
+    kk: Rammstein
+    kn: ರ ್ಯಾಮ್ ಸ್ಟೀನ್
+    ko: 람슈타인
+    ky: Rammstein
+    la: Rammstein
+    lb: Rammstein
+    lmo: Rammstein
+    lt: Rammstein
+    lv: Rammstein
+    mhr: Rammstein
+    mk: Rammstein
+    mn: Раммштайн
+    mul: Rammstein
+    nah: Rammstein
+    nb: Rammstein
+    nl: Rammstein
+    nn: Rammstein
+    oc: Rammstein
+    pl: Rammstein
+    pt: Rammstein
+    ro: Rammstein
+    ru: Rammstein
+    sco: Rammstein
+    sgs: Rammstein
+    sk: Rammstein
+    sl: Rammstein
+    sq: Rammstein
+    sr: Рамштајн
+    sv: Rammstein
+    szl: Rammstein
+    tg: Рамштайн
+    th: รัมสไตน์
+    tok: kulupu Lamusitan
+    tr: Rammstein
+    tt: Rammstein
+    uk: Rammstein
+    uz: Rammstein
+    vec: Rammstein
+    vep: Rammstein
+    vi: Rammstein
+    vro: Rammstein
+    wa: Rammstein
+    wuu: 德国战车
+    yi: ראמשטיין
+    yue: 雷姆斯汀
+    zh: 德国战车
+    zh-cn: 德国战车
+aliases:
+- kulupu Lamusitan
+- Rammstein
+- Rammstein (strollad)
+- Раммштайн
+- Рамштајн
+- Рамштайн
+- Рамщайн
+- Ռամշթայն
+- ראמשטיין
+- רמשטיין
+- رامشتاين
+- رامشتاین
+- राममस्टीन
+- রামেস্টেইন
+- ರ ್ಯಾಮ್ ಸ್ಟೀನ್
+- รัมสไตน์
+- რამშტაინი
+- ラムシュタイン
+- 德国战车
+- 雷姆斯汀
+- 람슈타인
+---
 Named after the City [[Ramstein]] where 1988 Planes crashed during a Flight Show killing 70 people. 
 
 

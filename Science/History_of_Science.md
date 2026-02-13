@@ -1,31 +1,227 @@
 ---
 aliases:
+- bilim tarihi
+- dejiny vedy
+- diedahisturrja
+- diedahiståvrrå
+- diehtaga historjá
+- Dîroka zanistê
+- dějiny vědy
+- Ebyafaayo bya sayansi
+- Elm tarixi
+- Fan tarixi
+- histoire des sciences
+- historia da ciencia
+- Historia de la ciencia
+- Historia del scientia
+- Historia di ciencia
+- Historia e shkencës
+- historia nauki
+- historija nauke
+- historio de scienco
+- Historio di cienco
+- history of science
+- història de la ciència
+- história da ciência
+- Ischri a sayans
+- Istori Godhonieth
+- Istoria de siensa
+- istoria științei și tehnologiei
+- Istorija nauke
+- Istwè dé syans
+- istòria de ła siensa
+- kasaysayan ng agham
+- lịch sử khoa học
+- Mbiri ya usanthuro
+- povijest znanosti
+- Scientia antiqua
+- Sejarah sains
+- shennaghys yn oaylleeaght as y çhaghnoaylleeaght
+- Sijarah Ilmu
+- stair na heolaíochta
+- storia della scienza
+- tarihin kimiyya
+- tieteen historia
+- tiettuu historjá
+- tiõtti historia
+- tudománytörténet
+- vetenskapshistoria
+- videnskabshistorie
+- vitenskapshistorie
+- vitskapshistorie
+- Vísindasaga
+- wetenschapsgeschiedenis
+- Wissenschaftsgeschichte
+- Wëssenschaftsgeschicht
+- zgodovina znanosti
+- Zientziaren historia
+- zinātnes vēsture
+- ìtàn sáyẹ́nsì
+- ιστορία της επιστήμης
+- історія науки
+- гісторыя навукі
+- гісторыя навукі і тэхнікі
+- Илим тарыхы
+- историја науке
+- История на науката
+- история науки
+- фән тарихы
+- Шинжлэх ухааны түүх
+- Ғылым тарихы
+- Գիտության պատմություն
+- היסטאריע פון וויסנשאפט
+- היסטוריה של המדע
+- تاريخ العلوم
+- تاریخ علم
+- د علم تاریخ
+- سائنس جي تاريخ
+- سائنس کی تاریخ
+- مێژووی زانست
+- विज्ञान इतिहास
+- विज्ञान का इतिहास
+- विज्ञानया इतिहास
+- विज्ञानेतिहासः
+- বিজ্ঞানের ইতিহাস
+- ਵਿਗਿਆਨ ਦਾ ਇਤਿਹਾਸ
+- அறிவியல் மற்றும் தொழில்நுட்பவியலின் வரலாறு
+- ಆಧುನಿಕ ವಿಜ್ಞಾನ
+- ശാസ്ത്രചരിത്രം
+- නවීන විද්යාවේ ඉතිහාසය
+- ประวัติศาสตร์วิทยาศาสตร์และเทคโนโลยี
+- 泰西格致史
+- 科学史
+- 科學史
+- 과학사
 has_id_wikidata: Q201486
-different_from: "[[_Standards/WikiData/WD~natural_history,484591]]"
+different_from: '[[_Standards/WikiData/WD~natural_history,484591]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
-  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-  - "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-part_of: "[[_Standards/WikiData/WD~study_of_history,1066186]]"
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+part_of: '[[_Standards/WikiData/WD~study_of_history,1066186]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~study_of_history,1066186]]"
-  - "[[_Standards/WikiData/WD~history,309]]"
-studied_by: "[[_Standards/WikiData/WD~sociology_of_the_history_of_science,2189701]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~history_of_science,3137572]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_science,6828285]]"
-practiced_by: "[[_Standards/WikiData/WD~historian_of_science,16063546]]"
-facet_of: "[[_Standards/WikiData/WD~science,336]]"
-Dewey_Decimal_Classification: "509"
+- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~history,309]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_the_history_of_science,2189701]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~history_of_science,3137572]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_science,6828285]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_science,16063546]]'
+facet_of: '[[_Standards/WikiData/WD~science,336]]'
+Dewey_Decimal_Classification: 509
 Commons_gallery: History of science
 Commons_category: History of science
 Stack_Exchange_site_URL: https://hsm.stackexchange.com
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Libr0310.jpg
 Wikimedia_import_URL: https://en.wikipedia.org/wiki/History_of_science
 DFG_Science_Classification: 102-04
+dv_has_:
+  name_:
+    ar: تاريخ العلوم
+    ast: Historia de la ciencia
+    az: Elm tarixi
+    be: гісторыя навукі і тэхнікі
+    be-tarask: гісторыя навукі
+    bg: История на науката
+    bn: বিজ্ঞানের ইতিহাস
+    bs: historija nauke
+    ca: història de la ciència
+    ckb: مێژووی زانست
+    cs: dějiny vědy
+    da: videnskabshistorie
+    de: Wissenschaftsgeschichte
+    el: ιστορία της επιστήμης
+    en: history of science
+    eo: historio de scienco
+    es: historia de la ciencia
+    eu: Zientziaren historia
+    fa: تاریخ علم
+    fi: tieteen historia
+    fr: histoire des sciences
+    ga: stair na heolaíochta
+    gcr: Istwè dé syans
+    gl: historia da ciencia
+    gv: shennaghys yn oaylleeaght as y çhaghnoaylleeaght
+    ha: tarihin kimiyya
+    he: היסטוריה של המדע
+    hi: विज्ञान का इतिहास
+    hr: povijest znanosti
+    hu: tudománytörténet
+    hy: Գիտության պատմություն
+    ia: Historia del scientia
+    id: Sejarah sains
+    io: Historio di cienco
+    is: Vísindasaga
+    it: storia della scienza
+    ja: 科学史
+    jam: Ischri a sayans
+    kk: Ғылым тарихы
+    kn: ಆಧುನಿಕ ವಿಜ್ಞಾನ
+    ko: 과학사
+    ku: Dîroka zanistê
+    kw: Istori Godhonieth
+    ky: Илим тарыхы
+    la: Scientia antiqua
+    lb: Wëssenschaftsgeschicht
+    lfn: Istoria de siensa
+    lg: Ebyafaayo bya sayansi
+    lv: zinātnes vēsture
+    lzh: 泰西格致史
+    mai: विज्ञान इतिहास
+    min: Sijarah Ilmu
+    ml: ശാസ്ത്രചരിത്രം
+    mn: Шинжлэх ухааны түүх
+    nb: vitenskapshistorie
+    new: विज्ञानया इतिहास
+    nl: wetenschapsgeschiedenis
+    nn: vitskapshistorie
+    pa: ਵਿਗਿਆਨ ਦਾ ਇਤਿਹਾਸ
+    pap: Historia di ciencia
+    pl: historia nauki
+    ps: د علم تاریخ
+    pt: história da ciência
+    ro: istoria științei și tehnologiei
+    ru: история науки
+    sa: विज्ञानेतिहासः
+    sd: سائنس جي تاريخ
+    se: diehtaga historjá
+    sh: Istorija nauke
+    si: නවීන විද්යාවේ ඉතිහාසය
+    sje: diedahisturrja
+    sk: dejiny vedy
+    sl: zgodovina znanosti
+    smj: diedahiståvrrå
+    smn: tiettuu historjá
+    sms: tiõtti historia
+    sq: Historia e shkencës
+    sr: историја науке
+    sr-ec: историја науке
+    sr-el: istorija nauke
+    sv: vetenskapshistoria
+    ta: அறிவியல் மற்றும் தொழில்நுட்பவியலின் வரலாறு
+    th: ประวัติศาสตร์วิทยาศาสตร์และเทคโนโลยี
+    tl: kasaysayan ng agham
+    tr: bilim tarihi
+    tt: фән тарихы
+    tum: Mbiri ya usanthuro
+    uk: історія науки
+    ur: سائنس کی تاریخ
+    uz: Fan tarixi
+    vec: istòria de ła siensa
+    vi: lịch sử khoa học
+    wuu: 科学史
+    yi: היסטאריע פון וויסנשאפט
+    yo: ìtàn sáyẹ́nsì
+    yue: 科學史
+    zh: 科學史
+    zh-cn: 科学史
+    zh-hans: 科学史
+    zh-hant: 科學史
+    zh-hk: 科學史
+    zh-sg: 科学史
+    zh-tw: 科學史
 ---
-
 # [[History_of_Science]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_science,201486|WD~History_of_science,201486]] 

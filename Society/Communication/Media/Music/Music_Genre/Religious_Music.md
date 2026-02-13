@@ -1,25 +1,148 @@
 ---
 aliases:
+- andlig musik
+- ceol reiligiúnach
+- cerddoriaeth grefyddol
+- dini musiqi
+- diniy musiqa
+- dinsel müzik
+- egwu ekpemekpe
+- egyházzene
+- erlijio-musika
+- geeschtlech Musek
+- geistliche Musik
+- hengellinen musiikki
+- hrišćanska muzika
+- ilow gryjyek
+- kirkemusik
+- musica sacra
+- musik religius
+- musique sacrée
+- muzică religioasă
+- muzik keagamaan
+- muzyka religijna
+- mużika reliġjuża
+- música religiosa
+- música relixiosa
+- música sacra
+- náboženská hudba
+- orin ẹ̀sìn
+- religia muziko
+- religieuze muziek
+- religinė muzika
+- religious music
+- religiøs musikk
+- reliģiskā mūzika
+- sakralna glasba
+- trúartónlist
+- Tsjerkemuzyk
+- vaimulik muusika
+- vjerska glazba
+- âm nhạc tôn giáo
+- θρησκευτική μουσική
+- дин ырлары
+- духовна музика
+- релігійна музика
+- религиозная музыка
+- рэлігійная музыка
+- хришћанска музика
+- կրոնական երաժշտություն
+- מוזיקה דתית
+- مذہبی موسیقی
+- موسيقى دينية
+- مۆسیقای دینی
+- ভক্তিগীতি
+- ක් රිස්තියානි සංගීතය
+- 宗教音乐
+- 宗教音楽
+- 宗教音樂
+- 聖樂
+- 종교 음악
 has_id_wikidata: Q1065742
-instance_of: "[[_Standards/WikiData/WD~music_genre,188451]]"
+instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~secular_music,2707298]]"
-  - "[[_Standards/WikiData/WD~atheist_music,130397591]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Religious_music,18932440]]"
-subclass_of: "[[_Standards/WikiData/WD~functional_music,26897135]]"
-has_characteristic: "[[_Standards/WikiData/WD~music_tradition,60733114]]"
-has_use: "[[_Standards/WikiData/WD~religion,9174]]"
-IAB_code: "361"
+- '[[_Standards/WikiData/WD~secular_music,2707298]]'
+- '[[_Standards/WikiData/WD~atheist_music,130397591]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Religious_music,18932440]]'
+subclass_of: '[[_Standards/WikiData/WD~functional_music,26897135]]'
+has_characteristic: '[[_Standards/WikiData/WD~music_tradition,60733114]]'
+has_use: '[[_Standards/WikiData/WD~religion,9174]]'
+IAB_code: 361
 Classification_of_Instructional_Programs_code:
-  - "39.05"
-  - "39.0501"
+- 39.05
+- 39.0501
 Commons_category: Religious music
-Dewey_Decimal_Classification: "781.7"
+Dewey_Decimal_Classification: 781.7
+dv_has_:
+  name_:
+    ar: موسيقى دينية
+    az: dini musiqi
+    be: рэлігійная музыка
+    be-tarask: рэлігійная музыка
+    bn: ভক্তিগীতি
+    ca: música religiosa
+    ckb: مۆسیقای دینی
+    cs: náboženská hudba
+    cy: cerddoriaeth grefyddol
+    da: kirkemusik
+    de: geistliche Musik
+    el: θρησκευτική μουσική
+    en: religious music
+    en-us: religious music
+    eo: religia muziko
+    es: música sacra
+    et: vaimulik muusika
+    eu: erlijio-musika
+    fi: hengellinen musiikki
+    fr: musique sacrée
+    fy: Tsjerkemuzyk
+    ga: ceol reiligiúnach
+    gl: música relixiosa
+    he: מוזיקה דתית
+    hr: vjerska glazba
+    hu: egyházzene
+    hy: կրոնական երաժշտություն
+    id: musik religius
+    ig: egwu ekpemekpe
+    is: trúartónlist
+    it: musica sacra
+    ja: 宗教音楽
+    ko: 종교 음악
+    kw: ilow gryjyek
+    ky: дин ырлары
+    lb: geeschtlech Musek
+    lt: religinė muzika
+    lv: reliģiskā mūzika
+    mk: духовна музика
+    ms: muzik keagamaan
+    mt: mużika reliġjuża
+    nb: religiøs musikk
+    nl: religieuze muziek
+    nn: religiøs musikk
+    pl: muzyka religijna
+    pt: música religiosa
+    ro: muzică religioasă
+    ru: религиозная музыка
+    si: ක් රිස්තියානි සංගීතය
+    sk: náboženská hudba
+    sl: sakralna glasba
+    sr: духовна музика
+    sr-ec: хришћанска музика
+    sr-el: hrišćanska muzika
+    sv: andlig musik
+    tr: dinsel müzik
+    uk: релігійна музика
+    ur: مذہبی موسیقی
+    uz: diniy musiqa
+    vi: âm nhạc tôn giáo
+    yo: orin ẹ̀sìn
+    yue: 聖樂
+    zh: 宗教音乐
+    zh-hant: 宗教音樂
 ---
-
 # [[Religious_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Religious_music,1065742|WD~Religious_music,1065742]] 

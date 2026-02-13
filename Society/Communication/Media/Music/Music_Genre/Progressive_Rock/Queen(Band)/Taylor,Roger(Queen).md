@@ -1,10 +1,32 @@
 ---
 aliases:
-  - Roger Taylor
-  - Roger Meddows Taylor
-  - Roger_Taylor
-  - Taylor
-  - Taylor,Roger(Queen)
+- Rocer Teylor
+- Rodžers Teilors
+- Roger Meddows Taylor
+- Roger Meddows-Taylor
+- Roger Taylor
+- Roger Tylor
+- Roger_Taylor
+- Taylor
+- Taylor,Roger(Queen)
+- Ρότζερ Τέιλορ
+- Роџер Тејлор
+- Роджер Меддоуз-Тейлор
+- Роджер Тейлор
+- Роджър Тейлър
+- Роджэр Тэйлар
+- Ռոջեր Թեյլոր
+- ראדזשער טיילאר
+- רוג'ר טיילור
+- راجر تیلور
+- روجر تايلور
+- রজার টেলর
+- โรเจอร์ เทย์เลอร์
+- როჯერ ტეილორი
+- ロジャー・テイラー
+- 罗杰·泰勒
+- 羅渣泰勒
+- 로저 테일러
 has_id_wikidata: Q15880
 X_Twitter_username: OfficialRMT
 Commons_category: Roger Taylor (drummer born 1949)
@@ -12,34 +34,34 @@ Instagram_username: rogertaylorofficial
 birth_name: Roger Meddows Taylor
 name_in_native_language: Roger Meddows Taylor OBE
 genre:
-  - '[[_Standards/WikiData/WD~hard_rock,83270]]'
-  - '[[_Standards/WikiData/WD~pop_rock,484641]]'
-  - '[[_Standards/WikiData/WD~dance_rock,2281409]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~progressive_rock,49451]]'
+- '[[_Standards/WikiData/WD~hard_rock,83270]]'
+- '[[_Standards/WikiData/WD~pop_rock,484641]]'
+- '[[_Standards/WikiData/WD~dance_rock,2281409]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~progressive_rock,49451]]'
 instrument:
-  - '[[_Standards/WikiData/WD~drum_kit,128309]]'
-  - '[[_Standards/WikiData/WD~drum_machine,831698]]'
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~guitar,6607]]'
-  - '[[_Standards/WikiData/WD~bass_guitar,46185]]'
-  - '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
+- '[[_Standards/WikiData/WD~drum_kit,128309]]'
+- '[[_Standards/WikiData/WD~drum_machine,831698]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
+- '[[_Standards/WikiData/WD~bass_guitar,46185]]'
+- '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~drummer,386854]]'
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~guitarist,855091]]'
-  - '[[_Standards/WikiData/WD~keyboardist,1075651]]'
-  - '[[_Standards/WikiData/WD~bass_guitarist,12360214]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~drummer,386854]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~keyboardist,1075651]]'
+- '[[_Standards/WikiData/WD~bass_guitarist,12360214]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Truro_School,676637]]'
-  - '[[_Standards/WikiData/WD~University_of_East_London,1345942]]'
-  - '[[_Standards/WikiData/WD~Barts_and_The_London_School_of_Medicine_and_Dentistry,4120330]]'
-  - '[[_Standards/WikiData/WD~Truro_Cathedral_School,7848030]]'
+- '[[_Standards/WikiData/WD~Truro_School,676637]]'
+- '[[_Standards/WikiData/WD~University_of_East_London,1345942]]'
+- '[[_Standards/WikiData/WD~Barts_and_The_London_School_of_Medicine_and_Dentistry,4120330]]'
+- '[[_Standards/WikiData/WD~Truro_Cathedral_School,7848030]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Smile,841707]]'
-  - '[[_Standards/WikiData/WD~Queen,15862]]'
+- '[[_Standards/WikiData/WD~Smile,841707]]'
+- '[[_Standards/WikiData/WD~Queen,15862]]'
 place_of_birth: '[[_Standards/WikiData/WD~Dersingham,1779758]]'
 record_label: '[[_Standards/WikiData/WD~EMI_Records,3629023]]'
 given_name: '[[_Standards/WikiData/WD~Roger,4925304]]'
@@ -48,18 +70,18 @@ copyright_representative: '[[_Standards/WikiData/WD~PRS_for_Music,7120528]]'
 discography: '[[_Standards/WikiData/WD~Roger_Taylor_discography,7358991]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Roger_Taylor,10722829]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
-  - '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Order_of_the_British_Empire,10762848]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
 family_name: '[[_Standards/WikiData/WD~Taylor,15080511]]'
 child:
-  - '[[_Standards/WikiData/WD~Rufus_Tiger_Taylor,20685739]]'
-  - '[[_Standards/WikiData/WD~Tigerlily_Taylor,112121192]]'
+- '[[_Standards/WikiData/WD~Rufus_Tiger_Taylor,20685739]]'
+- '[[_Standards/WikiData/WD~Tigerlily_Taylor,112121192]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 honorific_suffix: '[[_Standards/WikiData/WD~OBE,135287728]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 voice_type: '[[_Standards/WikiData/WD~tenor,27914]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
@@ -72,11 +94,84 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Queen%20And%20Adam%20L
 official_website: http://www.rogertaylorofficial.com
 ISNI: 0000000078450475
 IPI_name_number:
-  - 00087044860
-  - 00450840569
+- 00087044860
+- 00450840569
 Plex_person_key: 5d776844880197001ec962f7
+dv_has_:
+  name_:
+    an: Roger Taylor
+    ar: روجر تايلور
+    arz: روجر تايلور
+    ast: Roger Taylor
+    az: Rocer Teylor
+    azb: راجر تیلور
+    be: Роджэр Тэйлар
+    bg: Роджър Тейлър
+    bn: রজার টেলর
+    bs: Roger Taylor
+    ca: Roger Taylor
+    cs: Roger Taylor
+    da: Roger Meddows-Taylor
+    dag: Roger Taylor
+    de: Roger Taylor
+    de-ch: Roger Meddows-Taylor
+    el: Ρότζερ Τέιλορ
+    eml: Roger Taylor
+    en: Roger Taylor
+    en-ca: Roger Meddows Taylor
+    en-gb: Roger Meddows Taylor
+    es: Roger Taylor
+    et: Roger Meddows Taylor
+    eu: Roger Taylor
+    ext: Roger Taylor
+    fa: راجر تیلور
+    fi: Roger Taylor
+    fr: Roger Taylor
+    fy: Roger Taylor
+    gl: Roger Taylor
+    gsw: Roger Meddows Taylor
+    he: רוג'ר טיילור
+    hr: Roger Meddows-Taylor
+    hu: Roger Taylor
+    hy: Ռոջեր Թեյլոր
+    id: Roger Meddows-Taylor
+    is: Roger Taylor
+    it: Roger Taylor
+    ja: ロジャー・テイラー
+    ka: როჯერ ტეილორი
+    ko: 로저 테일러
+    lt: Roger Taylor
+    lv: Rodžers Teilors
+    mk: Роџер Тејлор
+    ms: Roger Meddows-Taylor
+    mul: Roger Taylor
+    nb: Roger Taylor
+    nl: Roger Taylor
+    nn: Roger Taylor
+    oc: Roger Taylor
+    pl: Roger Taylor
+    pms: Roger Taylor
+    pt: Roger Meddows-Taylor
+    pt-br: Roger Meddows-Taylor
+    ro: Roger Meddows-Taylor
+    ru: Роджер Тейлор
+    scn: Roger Meddows-Taylor
+    sco: Roger Taylor
+    sk: Roger Taylor
+    sl: Roger Meddows Taylor
+    sq: Roger Taylor
+    sr: Роџер Тејлор
+    su: Roger Tylor
+    sv: Roger Taylor
+    th: โรเจอร์ เทย์เลอร์
+    tr: Roger Taylor
+    uk: Роджер Меддоуз-Тейлор
+    vi: Roger Taylor
+    wuu: 罗杰·泰勒
+    yi: ראדזשער טיילאר
+    yue: 羅渣泰勒
+    zh: 罗杰·泰勒
 ---
-
 # [[Taylor,Roger(Queen)]] 
 
 #has_/time_/started :: 1949-07-26 

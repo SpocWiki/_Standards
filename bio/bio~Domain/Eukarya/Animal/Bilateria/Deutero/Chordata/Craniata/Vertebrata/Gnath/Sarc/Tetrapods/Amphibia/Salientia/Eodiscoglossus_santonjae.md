@@ -1,10 +1,43 @@
 ---
 aliases:
-  - Eodiscoglossus_santonjae
-  - Eodiscoglossus santonjae
+- Eodiscoglossus
+- Eodiscoglossus santonjae
+- Eodiscoglossus_santonjae
+- 始盘舌蟾属
 title: Eodiscoglossus santonjae
+has_id_wikidata: Q5381657
+dv_has_:
+  name_:
+    ast: Eodiscoglossus
+    bg: Eodiscoglossus
+    ca: Eodiscoglossus
+    ceb: Eodiscoglossus
+    da: Eodiscoglossus
+    de: Eodiscoglossus
+    en: Eodiscoglossus
+    es: Eodiscoglossus
+    fi: Eodiscoglossus
+    fr: Eodiscoglossus
+    ga: Eodiscoglossus
+    it: Eodiscoglossus
+    la: Eodiscoglossus
+    mul: Eodiscoglossus
+    nb: Eodiscoglossus
+    nl: Eodiscoglossus
+    pl: Eodiscoglossus
+    pt: Eodiscoglossus
+    ro: Eodiscoglossus
+    ru: Eodiscoglossus
+    sq: Eodiscoglossus
+    sv: Eodiscoglossus
+    uk: Eodiscoglossus
+    vec: Eodiscoglossus
+    vi: Eodiscoglossus
+    war: Eodiscoglossus
+    zh: 始盘舌蟾属
+    zh-cn: 始盘舌蟾属
+    zh-hans: 始盘舌蟾属
 ---
-
 # Eodiscoglossus santonjae 
 
 ## #has_/text_of_/abstract 

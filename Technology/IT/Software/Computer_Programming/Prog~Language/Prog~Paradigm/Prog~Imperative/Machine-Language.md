@@ -2,8 +2,8 @@
 aliases:
   - 1GL
   - Machine-Language
+has_id_wikidata: Q55813
 ---
-
 [[Prog~Assembler]] is considered to be a 2nd Generation Programming Language, 
 different from the 1st Generation [[Machine-Language]]. 
 

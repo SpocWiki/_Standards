@@ -1,13 +1,62 @@
 ---
 aliases:
+- antaŭena eraro-korektado
+- Cod corector de erori
+- Corrección de errores hacia adelante
+- Correición d'erros escontra alantre
+- dopředná oprava chyb
+- előremutató hibajavítás
+- FEC
+- forward error correction
+- Galerak berreskuratzeko bigarren kanala
+- Kod za ispravljanje grešaka
+- protecció contra errors
+- Veatõrjekood
+- videsendt feilkorreksjon
+- Vorwärtsfehlerkorrektur
+- zaščita pred napakami
+- попередня корекція помилок
+- простае выпраўленьне памылак
+- упреждающая коррекция ошибок
+- خاصية تصحيح الخطأ
+- کدگذاری کانال
+- 前向錯誤更正
+- 前方誤り訂正
 has_id_wikidata: Q989220
 subclass_of:
-  - "[[_Standards/WikiData/WD~communication_protocol,132364]]"
-  - "[[_Standards/WikiData/WD~error_detection_and_correction,1062839]]"
-instance_of: "[[_Standards/WikiData/WD~technique,2695280]]"
-uses: "[[_Standards/WikiData/WD~error_correction_code,55611017]]"
+- '[[_Standards/WikiData/WD~communication_protocol,132364]]'
+- '[[_Standards/WikiData/WD~error_detection_and_correction,1062839]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
+uses: '[[_Standards/WikiData/WD~error_correction_code,55611017]]'
+dv_has_:
+  name_:
+    ar: خاصية تصحيح الخطأ
+    ast: Correición d'erros escontra alantre
+    be-tarask: простае выпраўленьне памылак
+    ca: protecció contra errors
+    cs: dopředná oprava chyb
+    de: Vorwärtsfehlerkorrektur
+    en: forward error correction
+    eo: antaŭena eraro-korektado
+    es: Corrección de errores hacia adelante
+    et: Veatõrjekood
+    eu: Galerak berreskuratzeko bigarren kanala
+    fa: کدگذاری کانال
+    fr: Forward error correction
+    he: FEC
+    hu: előremutató hibajavítás
+    it: Forward Error Correction
+    ja: 前方誤り訂正
+    nb: videsendt feilkorreksjon
+    ro: Cod corector de erori
+    ru: упреждающая коррекция ошибок
+    sh: Kod za ispravljanje grešaka
+    sl: zaščita pred napakami
+    sr: Kod za ispravljanje grešaka
+    uk: попередня корекція помилок
+    yue: 前向錯誤更正
+    zh: 前向錯誤更正
 ---
-
 # [[Forward_Error_Correction]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Forward_error_correction,989220|WD~Forward_error_correction,989220]] 

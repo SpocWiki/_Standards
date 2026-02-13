@@ -1,9 +1,61 @@
 ---
 aliases:
-  - Oryzomyini
+- orizominis
+- Oryzomyini
+- Rijstratten
+- جرذان الأرز
+- جرذان الارز
+- موشهای برنجی
+- 稻鼠族
+- 쌀쥐족
 title: Oryzomyini
+has_id_wikidata: Q2410209
+dv_has_:
+  name_:
+    an: Oryzomyini
+    ar: جرذان الأرز
+    arz: جرذان الارز
+    ast: Oryzomyini
+    bg: Oryzomyini
+    ca: orizominis
+    ceb: Oryzomyini
+    de: Oryzomyini
+    en: Oryzomyini
+    en-ca: Oryzomyini
+    en-gb: Oryzomyini
+    eo: Oryzomyini
+    es: Oryzomyini
+    eu: Oryzomyini
+    ext: Oryzomyini
+    fa: موشهای برنجی
+    fi: Oryzomyini
+    fr: Oryzomyini
+    ga: Oryzomyini
+    gl: Oryzomyini
+    ia: Oryzomyini
+    ie: Oryzomyini
+    io: Oryzomyini
+    it: Oryzomyini
+    ko: 쌀쥐족
+    la: Oryzomyini
+    mul: Oryzomyini
+    nl: Rijstratten
+    oc: Oryzomyini
+    pl: Oryzomyini
+    pt: Oryzomyini
+    pt-br: Oryzomyini
+    ro: Oryzomyini
+    ru: Oryzomyini
+    sq: Oryzomyini
+    uk: Oryzomyini
+    vi: Oryzomyini
+    vo: Oryzomyini
+    war: Oryzomyini
+    zh: 稻鼠族
+    zh-cn: 稻鼠族
+    zh-hans: 稻鼠族
+    zh-tw: 稻鼠族
 ---
-
 # [[Oryzomyini]] 
 
 ## Rice rats, spiny mice, marsh rats 

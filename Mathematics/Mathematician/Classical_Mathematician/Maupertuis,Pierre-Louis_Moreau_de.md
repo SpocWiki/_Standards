@@ -1,53 +1,78 @@
 ---
 aliases:
-  - Pierre-Louis_Moreau_de_Maupertuis
-  - Pierre Louis Moreau de Maupertuis
-  - Maupertuis
-  - Maupertuis,Pierre-Louis_Moreau_de
-  - Maupertuis,Pierre-Louis Moreau de
+- Maupertuis
+- Maupertuis,Pierre-Louis Moreau de
+- Maupertuis,Pierre-Louis_Moreau_de
+- Petrus Ludovicus Moreau de Maupertuis
+- Pierre de Maupertuis
+- Pierre Louis Maupertuis
+- Pierre Louis Moreau de Maupertuis
+- Pierre Louis Moreau Maupertuis
+- Pierre-Louis de Maupertuis
+- Pierre-Louis Moreau de Maupertuis
+- Pierre-Louis_Moreau_de_Maupertuis
+- Pjer Luj de Moperti
+- Pyer Lui Mopertyui
+- П'єр Луї Мопертюї
+- Пјер Луј де Моперти
+- Пјер Луј Мопертуи
+- Пиер Луи Моро дьо Мопертюи
+- Пьер Луи де Мопертюи
+- П’ер-Люі Мапэрцюі
+- Պիեռ Լուի դը Մոպերտյուի
+- פייר-לואי מורו דה מופרטואה
+- بيير لوي موبرتوي
+- بيير لويس موبرتيوس
+- پیئر لوئی موپئرتوئی
+- پییر لوئیس موپرتویس
+- பியேர் உலூயிசு மவுபெர்திசு
+- ピエール・ルイ・モーペルテュイ
+- 皮埃尔·莫佩尔蒂
+- 皮埃爾·莫佩爾蒂
+- 피에르루이 모페르튀
 has_id_wikidata: Q164374
 member_of:
-  - '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~Académie_Française,161806]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Académie_de_Stanislas_(Nancy,_France),322775]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Russian_Academy_of_Sciences,83172]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~Académie_Française,161806]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Académie_de_Stanislas_(Nancy,_France),322775]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~geodesy,131089]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~biology,420]]'
-  - '[[_Standards/WikiData/WD~mechanics,41217]]'
+- '[[_Standards/WikiData/WD~geodesy,131089]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
 place_of_birth: '[[_Standards/WikiData/WD~Saint_Malo,163108]]'
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~naturalist,18805]]'
-  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 employer:
-  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Musketeers_of_the_Guard,1564383]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Musketeers_of_the_Guard,1564383]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Johann_Bernoulli,227897]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
-  - '[[_Standards/WikiData/WD~Collège_de_la_Marche,2983796]]'
+- '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
+- '[[_Standards/WikiData/WD~Collège_de_la_Marche,2983796]]'
 doctoral_student: '[[_Standards/WikiData/WD~Pierre_Charles_Le_Monnier,563553]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 position_held:
-  - '[[_Standards/WikiData/WD~president,1255921]]'
-  - '[[_Standards/WikiData/WD~seat_8_of_the_Académie_française,70495953]]'
+- '[[_Standards/WikiData/WD~president,1255921]]'
+- '[[_Standards/WikiData/WD~seat_8_of_the_Académie_française,70495953]]'
 place_of_burial: '[[_Standards/WikiData/WD~Saint_Roch,_Paris,1436962]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -77,11 +102,77 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Pierre-Louis%20Moreau%
 URL: http://data.bnf.fr/11915229/pierre-louis_moreau_de_maupertuis/
 ISNI: 0000000123213314
 Regensburg_Classification:
-  - CF 6200
-  - IG 2415
+- CF 6200
+- IG 2415
 Libris_URI: zw9cdfph4tx0msv
+dv_has_:
+  name_:
+    ace: Pierre Louis Maupertuis
+    ar: بيير لوي موبرتوي
+    arz: بيير لويس موبرتيوس
+    ast: Pierre Louis Maupertuis
+    az: Pyer Lui Mopertyui
+    azb: پیئر لوئی موپئرتوئی
+    be-tarask: П’ер-Люі Мапэрцюі
+    bg: Пиер Луи Моро дьо Мопертюи
+    br: Pierre Louis Moreau de Maupertuis
+    ca: Pierre Louis Moreau de Maupertuis
+    cs: Pierre Louis Maupertuis
+    da: Pierre Louis Moreau de Maupertuis
+    de: Pierre Louis Moreau de Maupertuis
+    de-ch: Pierre-Louis Moreau de Maupertuis
+    en: Pierre-Louis Moreau de Maupertuis
+    en-ca: Pierre Louis Maupertuis
+    en-gb: Pierre Louis Maupertuis
+    eo: Pierre Louis Moreau de Maupertuis
+    es: Pierre Louis Maupertuis
+    eu: Pierre-Louis Moreau de Maupertuis
+    fa: پییر لوئیس موپرتویس
+    fi: Pierre Louis Moreau de Maupertuis
+    fr: Pierre-Louis Moreau de Maupertuis
+    ga: Pierre Louis Moreau de Maupertuis
+    gl: Pierre Louis Moreau de Maupertuis
+    he: פייר-לואי מורו דה מופרטואה
+    ht: Pierre Louis Maupertuis
+    hu: Pierre Louis Moreau de Maupertuis
+    hy: Պիեռ Լուի դը Մոպերտյուի
+    id: Pierre Louis Maupertuis
+    it: Pierre-Louis Moreau de Maupertuis
+    ja: ピエール・ルイ・モーペルテュイ
+    jv: Pierre Louis Maupertuis
+    ko: 피에르루이 모페르튀
+    la: Petrus Ludovicus Moreau de Maupertuis
+    mg: Pierre Louis Moreau de Maupertuis
+    mk: Пјер Луј Мопертуи
+    nb: Pierre Louis Maupertuis
+    nl: Pierre-Louis de Maupertuis
+    nn: Pierre Louis Moreau Maupertuis
+    pap: Pierre Louis Moreau de Maupertuis
+    pl: Pierre Louis Maupertuis
+    pt: Pierre Louis Maupertuis
+    pt-br: Pierre Louis Moreau de Maupertuis
+    ro: Pierre Louis Maupertuis
+    ru: Пьер Луи де Мопертюи
+    sk: Pierre Louis Maupertuis
+    sl: Pierre-Louis Moreau de Maupertuis
+    sq: Pierre Louis Moreau de Maupertuis
+    sr: Пјер Луј де Моперти
+    sr-ec: Пјер Луј де Моперти
+    sr-el: Pjer Luj de Moperti
+    sv: Pierre de Maupertuis
+    ta: பியேர் உலூயிசு மவுபெர்திசு
+    tr: Pierre-Louis Moreau de Maupertuis
+    uk: П'єр Луї Мопертюї
+    vi: Pierre Louis Maupertuis
+    yue: 皮埃爾·莫佩爾蒂
+    zh: 皮埃爾·莫佩爾蒂
+    zh-cn: 皮埃尔·莫佩尔蒂
+    zh-hans: 皮埃尔·莫佩尔蒂
+    zh-hant: 皮埃爾·莫佩爾蒂
+    zh-hk: 皮埃爾·莫佩爾蒂
+    zh-sg: 皮埃尔·莫佩尔蒂
+    zh-tw: 皮埃爾·莫佩爾蒂
 ---
-
 # [[Maupertuis,Pierre-Louis_Moreau_de]] 
 
 #is_/same_as :: [[WD~Pierre-Louis_Moreau_de_Maupertuis,164374]] 

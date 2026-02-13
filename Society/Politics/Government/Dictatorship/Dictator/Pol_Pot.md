@@ -1,8 +1,40 @@
 ---
 aliases:
-  - Pol Pot
-  - Saloth Sâr
-  - Pol_Pot
+- Pol Pot
+- Pol Potas
+- Pol Poth
+- Pols Pots
+- Pol_Pot
+- Saloth Sâr
+- Πολ Ποτ
+- Пол Пот
+- Պոլ Պոտ
+- פול פוט
+- بول بوت
+- پل پوت
+- پول پاٹ
+- پول پاٽ
+- پۆل پۆت
+- पोल पट
+- पोल पॉट
+- पोल पोट
+- পল পট
+- ਪੋਲ ਪਾਟ
+- போல் போட்
+- పాల్ పాట్
+- ಪೋಲ್ ಪೋಟ್
+- പോൾ പോട്ട്
+- පොල් පොට්
+- พล พต
+- ພົນ ພົດ
+- ပိုပေါ့
+- პოლ პოტი
+- ប៉ុលពត
+- ポル・ポト
+- 波尔布特
+- 波布
+- 波爾布特
+- 폴 포트
 has_id_wikidata: Q39464
 Know_Your_Meme_slug: pol-pot
 name_in_native_language: ប៉ុល ពត
@@ -10,50 +42,50 @@ birth_name: សាឡុត ស
 date_of_birth: 1925-05-19T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pol%20Pot%20%28cropped%29.jpg
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~general,83460]]'
 convicted_of: '[[_Standards/WikiData/WD~murder,132821]]'
 movement:
-  - '[[_Standards/WikiData/WD~Maoism,167651]]'
-  - '[[_Standards/WikiData/WD~anti_capitalism,389647]]'
-  - '[[_Standards/WikiData/WD~agrarianism,492050]]'
-  - '[[_Standards/WikiData/WD~Anticolonialism,576309]]'
-  - '[[_Standards/WikiData/WD~radicalism,913401]]'
+- '[[_Standards/WikiData/WD~Maoism,167651]]'
+- '[[_Standards/WikiData/WD~anti_capitalism,389647]]'
+- '[[_Standards/WikiData/WD~agrarianism,492050]]'
+- '[[_Standards/WikiData/WD~Anticolonialism,576309]]'
+- '[[_Standards/WikiData/WD~radicalism,913401]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~French_Indochina,185682]]'
-  - '[[_Standards/WikiData/WD~Democratic_Kampuchea,330988]]'
-  - '[[_Standards/WikiData/WD~Khmer_Republic,1054184]]'
-  - '[[_Standards/WikiData/WD~State_of_Cambodia,2387250]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Cambodia,2638486]]'
-  - '[[_Standards/WikiData/WD~Cambodia,424]]'
+- '[[_Standards/WikiData/WD~French_Indochina,185682]]'
+- '[[_Standards/WikiData/WD~Democratic_Kampuchea,330988]]'
+- '[[_Standards/WikiData/WD~Khmer_Republic,1054184]]'
+- '[[_Standards/WikiData/WD~State_of_Cambodia,2387250]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Cambodia,2638486]]'
+- '[[_Standards/WikiData/WD~Cambodia,424]]'
 spouse: '[[_Standards/WikiData/WD~Khieu_Ponnary,274023]]'
 penalty: '[[_Standards/WikiData/WD~house_arrest,320994]]'
 place_of_burial: '[[_Standards/WikiData/WD~Anlong_Veng_District,557911]]'
 place_of_death: '[[_Standards/WikiData/WD~Anlong_Veng_District,557911]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Order_of_the_National_Flag,742789]]'
-  - '[[_Standards/WikiData/WD~Hero_of_the_Republic,2129028]]'
+- '[[_Standards/WikiData/WD~Order_of_the_National_Flag,742789]]'
+- '[[_Standards/WikiData/WD~Hero_of_the_Republic,2129028]]'
 student_of: '[[_Standards/WikiData/WD~Keng_Vannsak,1388549]]'
 place_of_birth: '[[_Standards/WikiData/WD~Prek_Sbauv,1453641]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Prime_Minister_of_Cambodia,1999325]]'
-  - '[[_Standards/WikiData/WD~General_Secretary_of_the_Communist_Party_of_Kampuchea,5532174]]'
+- '[[_Standards/WikiData/WD~Prime_Minister_of_Cambodia,1999325]]'
+- '[[_Standards/WikiData/WD~General_Secretary_of_the_Communist_Party_of_Kampuchea,5532174]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Party_of_Democratic_Kampuchea,3366376]]'
-  - '[[_Standards/WikiData/WD~Cambodian_National_Unity_Party,5025167]]'
-  - '[[_Standards/WikiData/WD~Communist_Party_of_Kampuchea,8711543]]'
+- '[[_Standards/WikiData/WD~Party_of_Democratic_Kampuchea,3366376]]'
+- '[[_Standards/WikiData/WD~Cambodian_National_Unity_Party,5025167]]'
+- '[[_Standards/WikiData/WD~Communist_Party_of_Kampuchea,8711543]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~EFREI,3578001]]'
-  - '[[_Standards/WikiData/WD~Lycee_Sisowath,6707183]]'
+- '[[_Standards/WikiData/WD~EFREI,3578001]]'
+- '[[_Standards/WikiData/WD~Lycee_Sisowath,6707183]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Saloth_Chhay,6586383]]'
-  - '[[_Standards/WikiData/WD~Loth_Suong,125357128]]'
+- '[[_Standards/WikiData/WD~Saloth_Chhay,6586383]]'
+- '[[_Standards/WikiData/WD~Loth_Suong,125357128]]'
 family_name: '[[_Standards/WikiData/WD~Pol,27651134]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~SourceWatch_List_of_Dictators,121698959]]'
 father: '[[_Standards/WikiData/WD~Saloth_Phem,108523177]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~Khmer,9205]]'
@@ -69,8 +101,131 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Pol%20Pot%20signat
 ISNI: 0000000116882296
 Libris_URI: c9prvbkw3cw3ks8
 Krugosvet_article_archived_: istoriya/POL_POT.html
+dv_has_:
+  name_:
+    af: Pol Pot
+    an: Pol Pot
+    anp: पोल पॉट
+    ar: بول بوت
+    arz: بول بوت
+    ast: Pol Pot
+    awa: पोल पट
+    az: Pol Pot
+    bcl: Pol Pot
+    be: Пол Пот
+    be-tarask: Пол Пот
+    bg: Пол Пот
+    bn: পল পট
+    br: Pol Pot
+    bs: Pol Pot
+    ca: Pol Pot
+    ceb: Pol Pot
+    ckb: پۆل پۆت
+    cs: Pol Pot
+    cy: Pol Pot
+    da: Pol Pot
+    de: Pol Pot
+    el: Πολ Ποτ
+    eml: Pol Pot
+    en: Pol Pot
+    eo: Pol Pot
+    es: Pol Pot
+    et: Pol Poth
+    eu: Pol Pot
+    fa: پل پوت
+    fi: Pol Pot
+    fo: Pol Pot
+    fr: Pol Pot
+    fy: Pol Pot
+    ga: Pol Pot
+    gl: Pol Pot
+    hak: Pol Pot
+    he: פול פוט
+    hi: पोल पॉट
+    hr: Pol Pot
+    hu: Pol Pot
+    hy: Պոլ Պոտ
+    iba: Pol Pot
+    id: Pol Pot
+    io: Pol Pot
+    is: Pol Pot
+    it: Pol Pot
+    ja: ポル・ポト
+    jv: Pol Pot
+    ka: პოლ პოტი
+    km: ប៉ុលពត
+    kn: ಪೋಲ್ ಪೋಟ್
+    ko: 폴 포트
+    ku: Pol Pot
+    kv: Пол Пот
+    ky: Пол Пот
+    la: Pol Pot
+    lad: Pol Pot
+    lmo: Pol Pot
+    lo: ພົນ ພົດ
+    lt: Pol Potas
+    lv: Pols Pots
+    lzh: 波爾布特
+    mai: पोल पट
+    mg: Pol Pot
+    mk: Пол Пот
+    ml: പോൾ പോട്ട്
+    mn: Пол Пот
+    mr: पोल पोट
+    ms: Pol Pot
+    mt: Pol Pot
+    mwl: Pol Pot
+    my: ပိုပေါ့
+    mzn: پل پوت
+    nan: Pol Pot
+    nb: Pol Pot
+    nds: Pol Pot
+    ne: पोल पोट
+    new: पोल पोट
+    nl: Pol Pot
+    nn: Pol Pot
+    oc: Pol Pot
+    pa: ਪੋਲ ਪਾਟ
+    pl: Pol Pot
+    pnb: پول پاٹ
+    pt: Pol Pot
+    pt-br: Pol Pot
+    ro: Pol Pot
+    ru: Пол Пот
+    sa: पोल पॉट
+    sc: Pol Pot
+    scn: Pol Pot
+    sco: Pol Pot
+    sd: پول پاٽ
+    sh: Pol Pot
+    si: පොල් පොට්
+    sk: Pol Pot
+    sl: Pol Pot
+    sq: Pol Pot
+    sr: Пол Пот
+    sr-ec: Пол Пот
+    sv: Pol Pot
+    sw: Pol Pot
+    ta: போல் போட்
+    te: పాల్ పాట్
+    th: พล พต
+    tl: Pol Pot
+    tly: Pol Pot
+    tr: Pol Pot
+    uk: Пол Пот
+    uz: Pol Pot
+    vi: Pol Pot
+    vro: Pol Pot
+    war: Pol Pot
+    wuu: 波尔布特
+    xmf: პოლ პოტი
+    yue: 波爾布特
+    zh: 波尔布特
+    zh-hans: 波尔布特
+    zh-hant: 波爾布特
+    zh-hk: 波爾布特
+    zh-tw: 波布
 ---
-
 # [[Pol_Pot]] 
 
 #is_/same_as :: [[WD~Pol_Pot,39464]] 

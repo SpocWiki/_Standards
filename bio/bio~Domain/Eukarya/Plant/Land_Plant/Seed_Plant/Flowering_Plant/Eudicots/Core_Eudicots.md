@@ -1,8 +1,26 @@
 ---
 aliases:
-  - Core Eudicots
-  - Core Tricolpates
-  - Core_Eudicots
+- Bazal evdikotlar
+- Core Eudicots
+- Core Tricolpates
+- Core_Eudicots
+- Eudicotiledoni superiori
+- Eudicotyledoneae muina
+- Eudicotylédones supérieures
+- Eudikotil inti
+- jedrni evdikotiledoni
+- kernaj verdukotiledonuloj
+- Kerneudikotyledonen
+- központi kétszikűek
+- јадрени евдикоти
+- същински еудикоти
+- ядерные эвдикоты
+- միջուկային էվդիկոտներ
+- تخم یوڈیکوٹس
+- கரு மெய்இருவித்திலி
+- コア真正双子葉類
+- 核心真双子叶植物
+- 핵심진정쌍떡잎식물
 has_id_wikidata: Q869087
 title: Core Eudicots
 subclass_of: '[[_Standards/WikiData/WD~eudicots,165468]]'
@@ -13,8 +31,30 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Leucophyllum%20frutesc
 taxon_name: core eudicots
 Commons_category: Core eudicots
 EPPO_Code: ROBSL
+dv_has_:
+  name_:
+    az: Bazal evdikotlar
+    bg: същински еудикоти
+    de: Kerneudikotyledonen
+    en: core eudicots
+    eo: kernaj verdukotiledonuloj
+    eu: Eudicotyledoneae muina
+    fr: Eudicotylédones supérieures
+    hu: központi kétszikűek
+    hy: միջուկային էվդիկոտներ
+    id: Eudikotil inti
+    it: Eudicotiledoni superiori
+    ja: コア真正双子葉類
+    ko: 핵심진정쌍떡잎식물
+    mk: јадрени евдикоти
+    ru: ядерные эвдикоты
+    sl: jedrni evdikotiledoni
+    ta: கரு மெய்இருவித்திலி
+    ur: تخم یوڈیکوٹس
+    zh: 核心真双子叶植物
+    zh-cn: 核心真双子叶植物
+    zh-hans: 核心真双子叶植物
 ---
-
 # [[Core_Eudicots]]
 
 Core Tricolpates 

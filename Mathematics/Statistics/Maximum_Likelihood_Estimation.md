@@ -1,25 +1,127 @@
 ---
 aliases:
+- didžiausio tikėtinumo metodas
+- egiantz handieneko estimazio
+- enbüyük olabilirlik kestirimi
+- estimación de máxima verosimilitud
+- Estimasi kemungkinan maksimum
+- estimation du maximum de vraisemblance
+- hợp lý cực đại
+- maksimal mümkünlük
+- maksimal rimelegheitstimering
+- maksimal rimelighedsestimering
+- maksimal rimelighetstimering
+- maximum likelihood
+- maximum likelihood estimation
+- maximum likelihood módszer
+- maximum likelihood-metoden
+- Maximum-Likelihood-Schätzung
+- meastachán uasdealraitheachta
+- meest aannemelijke schatter
+- metoda maximální věrohodnosti
+- metoda največjega verjetja
+- metodo della massima verosimiglianza
+- màxima versemblança
+- máxima verosimilitud
+- máxima verosimilitude
+- máxima verossimilhança
+- procena maksimalne verovatnoće
+- stimado per maksimuma verosimilo
+- suurima tõepära meetod
+- suurimman uskottavuuden estimointi
+- verosimilitate maximă
+- μέγιστη πιθανοφάνεια
+- метад максімальнай праўдападобнасці
+- метод максимальної правдоподібності
+- метод максимального правдоподобия
+- метод на максималното правдоподобие
+- мэтад максымальнай праўдападобнасьці
+- процена на максимална веројатност
+- נראות מקסימלית
+- امکاناتی حد اعلیٰ
+- برآورد درستنمایی بیشینه
+- تقدير حسب القيمة العليا لدالة الإمكان
+- การประมาณภาวะน่าจะเป็นสูงสุด
+- 最大似然估計
+- 最大似然估计
+- 最大概似估計
+- 最尤法
+- 최대우도 추정법
 has_id_wikidata: Q1045555
-subclass_of: "[[_Standards/WikiData/WD~estimation,791801]]"
-instance_of: "[[_Standards/WikiData/WD~method,1799072]]"
+subclass_of: '[[_Standards/WikiData/WD~estimation,791801]]'
+instance_of: '[[_Standards/WikiData/WD~method,1799072]]'
 different_from:
-  - "[[_Standards/WikiData/WD~restricted_maximum_likelihood,7316301]]"
-  - "[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]"
-uses: "[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882]]"
-part_of: "[[_Standards/WikiData/WD~statistics,12483]]"
-ACM_Classification_Code_2012_: "10003663"
+- '[[_Standards/WikiData/WD~restricted_maximum_likelihood,7316301]]'
+- '[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_3534_1_2006(en)_Statistics_Vocabulary_and_symbols_Part_1_General_statistical_terms_and_terms_used_in_probability,111973641]]'
+uses: '[[_Standards/WikiData/WD~maximum_likelihood_estimator,112892882]]'
+part_of: '[[_Standards/WikiData/WD~statistics,12483]]'
+ACM_Classification_Code_2012_: 10003663
 Commons_category: Maximum likehood
 short_name:
-  - EMV
-  - MLE
-  - EMV
-  - EMV
-  - ММП
+- EMV
+- MLE
+- EMV
+- EMV
+- ММП
+dv_has_:
+  name_:
+    ar: تقدير حسب القيمة العليا لدالة الإمكان
+    ast: máxima verosimilitud
+    az: maksimal mümkünlük
+    be: метад максімальнай праўдападобнасці
+    be-tarask: мэтад максымальнай праўдападобнасьці
+    bg: метод на максималното правдоподобие
+    ca: màxima versemblança
+    cs: metoda maximální věrohodnosti
+    da: maksimal rimelighedsestimering
+    de: Maximum-Likelihood-Schätzung
+    el: μέγιστη πιθανοφάνεια
+    en: maximum likelihood estimation
+    en-ca: maximum likelihood
+    en-gb: maximum likelihood
+    eo: stimado per maksimuma verosimilo
+    es: estimación de máxima verosimilitud
+    et: suurima tõepära meetod
+    eu: egiantz handieneko estimazio
+    fa: برآورد درستنمایی بیشینه
+    fi: suurimman uskottavuuden estimointi
+    fr: estimation du maximum de vraisemblance
+    ga: meastachán uasdealraitheachta
+    gl: máxima verosimilitude
+    he: נראות מקסימלית
+    hu: maximum likelihood módszer
+    id: Estimasi kemungkinan maksimum
+    it: metodo della massima verosimiglianza
+    ja: 最尤法
+    ko: 최대우도 추정법
+    lt: didžiausio tikėtinumo metodas
+    mk: процена на максимална веројатност
+    nb: maksimal rimelighetstimering
+    nl: meest aannemelijke schatter
+    nn: maksimal rimelegheitstimering
+    pt: máxima verossimilhança
+    pt-br: máxima verossimilhança
+    ro: verosimilitate maximă
+    ru: метод максимального правдоподобия
+    sl: metoda največjega verjetja
+    sr: procena maksimalne verovatnoće
+    su: maximum likelihood
+    sv: maximum likelihood-metoden
+    th: การประมาณภาวะน่าจะเป็นสูงสุด
+    tr: enbüyük olabilirlik kestirimi
+    uk: метод максимальної правдоподібності
+    ur: امکاناتی حد اعلیٰ
+    vi: hợp lý cực đại
+    yue: 最大似然估計
+    zh: 最大似然估计
+    zh-cn: 最大似然估计
+    zh-hans: 最大似然估计
+    zh-hant: 最大似然估計
+    zh-hk: 最大似然估計
+    zh-tw: 最大概似估計
 ---
-
 # [[Maximum_Likelihood_Estimation]] 
 
 #is_/same_as :: [[WD~Maximum_likelihood_estimation,1045555]] 

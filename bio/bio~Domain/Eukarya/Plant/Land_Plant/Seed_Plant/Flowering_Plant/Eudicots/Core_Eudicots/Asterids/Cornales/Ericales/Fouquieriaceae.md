@@ -1,9 +1,79 @@
 ---
 aliases:
-  - Fouquieriaceae
+- Fouquieria
+- Fouquieriaceae
+- Fukujerija
+- Fukyeriya
+- Okotijo
+- okotillot
+- Фукьери
+- Фукьерия
+- أوكوتيلة
+- اوكوتيله
+- ഫൗക്വിറിയേ
+- 福桂树属
+- 福桂花科
+- 관봉옥속
 title: Fouquieria
+has_id_wikidata: Q133229
+dv_has_:
+  name_:
+    an: Fouquieria
+    ar: أوكوتيلة
+    arz: اوكوتيله
+    ast: Fouquieria
+    az: Fukyeriya
+    bg: Fouquieria
+    bs: Fouquieria
+    ca: Fouquieria
+    ceb: Fouquieria
+    cs: Fouquieria
+    de: Fouquieria
+    en: Fouquieria
+    eo: Fouquieria
+    es: Fouquieria
+    eu: Fouquieria
+    ext: Fouquieria
+    fi: okotillot
+    fr: Fouquieria
+    ga: Fouquieria
+    gl: Fouquieria
+    hr: Fukujerija
+    ia: Fouquieria
+    ie: Fouquieria
+    io: Fouquieria
+    it: Fouquieria
+    ko: 관봉옥속
+    koi: Фукьерия
+    kv: Фукьерия
+    la: Fouquieria
+    ml: ഫൗക്വിറിയേ
+    mrj: Фукьери
+    mul: Fouquieria
+    nb: Fouquieria
+    nl: Fouquieria
+    oc: Fouquieria
+    pl: Okotijo
+    pt: Fouquieria
+    pt-br: Fouquieria
+    ro: Fouquieria
+    ru: Фукьерия
+    sq: Fouquieria
+    sv: Fouquieria
+    udm: Фукьерия
+    uk: Fouquieria
+    vi: Fouquieria
+    vo: Fouquieria
+    war: Fouquieria
+    yue: 福桂花科
+    zh: 福桂树属
+    zh-cn: 福桂树属
+    zh-hans: 福桂树属
+    zh-hant: 福桂花科
+    zh-hk: 福桂花科
+    zh-sg: 福桂花科
+    zh-tw: 福桂花科
 ---
-
 # [[Fouquieriaceae]] 
 
 

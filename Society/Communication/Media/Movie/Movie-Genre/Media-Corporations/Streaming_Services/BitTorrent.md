@@ -1,4 +1,111 @@
-
+---
+has_id_wikidata: Q133862
+dv_has_:
+  name_:
+    af: BitTorrent
+    ar: بت تورنت
+    ast: BitTorrent
+    az: Torrent
+    be: BitTorrent
+    bg: Торент система
+    bm: Torrent
+    bn: বিটটরেন্ট
+    bs: BitTorrent
+    ca: BitTorrent
+    cs: BitTorrent
+    cy: BitTorrent
+    da: BitTorrent
+    de: BitTorrent
+    el: BitTorrent
+    en: BitTorrent
+    eo: BitTorento
+    es: BitTorrent
+    et: BitTorrent
+    eu: BitTorrent
+    fa: بیتتورنت
+    fi: BitTorrent
+    fr: BitTorrent
+    ga: BitTorrent
+    gl: BitTorrent
+    he: ביטורנט
+    hi: बिट टॉरेंट
+    hr: BitTorrent
+    hu: BitTorrent
+    id: BitTorrent
+    ilo: BitTorrent
+    io: BitTorrento
+    it: BitTorrent
+    ja: BitTorrent
+    ka: ტორენტი
+    ko: 비트토렌트
+    ku: BitTorrent
+    ku-arab: بتتۆررەنت
+    ku-latn: BitTorrent
+    lmo: BitTorrent
+    lt: BitTorrent
+    lv: BitTorrent
+    ml: ബിറ്റ് ടോറന്റ്
+    mr: बिटटॉरेंट
+    ms: BitTorrent
+    mul: BitTorrent
+    nb: BitTorrent
+    nl: BitTorrent
+    nn: BitTorrent
+    pl: BitTorrent
+    pt: BitTorrent
+    qu: BitTorrent
+    ro: BitTorrent
+    ru: BitTorrent
+    sh: BitTorrent
+    si: බිට්ටොරන්ට්
+    sk: BitTorrent
+    sl: BitTorrent
+    sq: BitTorrent
+    sr: BitTorrent
+    sv: Bittorrent
+    ta: பிட்டொரென்ட்
+    th: บิตทอร์เรนต์
+    tr: BitTorrent
+    tt: BitTorrent
+    tt-cyrl: BitTorrent
+    uk: BitTorrent
+    ur: بٹ ٹورنٹ
+    uz: BitTorrent
+    vec: BitTorrent
+    vi: BitTorrent
+    wuu: BitTorrent (协议)
+    yue: BitTorrent
+    zh: BitTorrent
+    zh-cn: BT下载
+    zh-hans: BitTorrent
+    zh-hant: BitTorrent
+    zh-hk: BitTorrent
+    zh-sg: BitTorrent
+    zh-tw: 比特洪流
+aliases:
+- BitTorento
+- BitTorrent
+- BitTorrent (协议)
+- BitTorrento
+- BT下载
+- Torrent
+- Торент система
+- ביטורנט
+- بت تورنت
+- بتتۆررەنت
+- بٹ ٹورنٹ
+- بیتتورنت
+- बिट टॉरेंट
+- बिटटॉरेंट
+- বিটটরেন্ট
+- பிட்டொரென்ட்
+- ബിറ്റ് ടോറന്റ്
+- බිට්ටොරන්ට්
+- บิตทอร์เรนต์
+- ტორენტი
+- 比特洪流
+- 비트토렌트
+---
 ## #has_/text_of_/abstract 
 
 > **BitTorrent**, AKA torrent, is a communication protocol for peer-to-peer file sharing (P2P), 

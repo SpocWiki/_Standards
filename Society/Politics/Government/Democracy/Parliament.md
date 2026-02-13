@@ -1,4 +1,248 @@
-
+---
+has_id_wikidata: Q35749
+dv_has_:
+  name_:
+    ady: Хасэ
+    af: Parlement
+    ak: mmarahyɛbedwafie
+    am: ፓርላማ
+    ar: برلمان
+    arz: برلمان
+    ast: parlamentu
+    az: Məclis
+    ba: парламент
+    bcl: Parlamento
+    be: парламент
+    be-tarask: парлямэнт
+    bew: Mejelis bicara
+    bg: Парламент
+    bn: সংসদ
+    br: parlamant
+    bs: parlament
+    ca: parlament
+    ceb: Parlamento
+    ckb: پەرلەمان
+    cs: parlament
+    cy: senedd
+    da: parlament
+    dag: jina duu
+    de: Parlament
+    diq: Parlamento
+    el: κοινοβούλιο
+    en: parliament
+    en-gb: parliament
+    eo: parlamento
+    es: parlamento
+    et: parlament
+    eu: parlamentu
+    fa: مجلس
+    fi: parlamentti
+    fo: Ting
+    fr: parlement
+    frp: Parlement
+    fy: parlemint
+    ga: parlaimint
+    gan: 議會
+    gd: Pàrlamaid
+    gl: parlamento
+    gn: Tendota atýra amandaje
+    gsw: Parlament
+    he: פרלמנט
+    hi: संसद
+    hr: parlament
+    hsb: parlament
+    hu: parlament
+    hy: Խորհրդարան
+    hyw: Խորհրդարան
+    ia: Parlamento
+    id: parlemen
+    ie: Parlament
+    ilo: parlamento
+    io: Parlamento
+    is: Þing
+    it: parlamento
+    ja: 議会
+    ka: პარლამენტი
+    kk: Парламент
+    kn: ಸಂಸತ್ತು
+    ko: 의회
+    krc: Парламент
+    krj: parlamento
+    ku: Parlamen
+    kw: senedh
+    ky: Парламент
+    la: parlamentum
+    lb: Parlament
+    li: Parlemint
+    lld: Parlamënt
+    lmo: Parlament
+    ln: Palemá
+    lo: ສະພາ
+    lt: parlamentas
+    lv: parlaments
+    lzh: 議會
+    mg: Antenimiera
+    mhr: кугыжаныш погын
+    mi: Pāremata
+    mk: парламент
+    mr: संसद
+    ms: parlimen
+    ms-arab: ڤرليمن
+    mt: parlament
+    my: ပါလီမန်
+    nan: Gī-hoē
+    nb: parlament
+    nds: Parlament
+    ne: संसद
+    nl: parlement
+    nn: parlament
+    nqo: ߞߎߡߊߓߏ߲
+    nrm: Parlément
+    oc: parlament
+    os: парламент
+    pa: ਸੰਸਦ
+    pap: parlamento
+    pl: parlament
+    pnb: پارلیمنٹ
+    ps: ولسي جرگه
+    pt: parlamento
+    qu: Rimana huñunakuy
+    ro: parlament
+    ru: парламент
+    rue: парламент
+    rw: Inteko ishinga amategeko
+    sah: Түмэн
+    sd: پارليامينٽ
+    se: parlameanta
+    sh: Parlament
+    si: පාර්ලිමේන්තුව
+    sk: parlament
+    sl: parlament
+    sma: parlamente
+    smj: parlamænnta
+    smn: parlament
+    sms: parlameʹntt
+    so: Baarlamaan
+    sq: kuvend
+    sr: скупштина
+    sv: parlament
+    sw: Bunge
+    ta: நாடாளுமன்றம்
+    te: పార్లమెంట్లు
+    tg: порлумон
+    tg-cyrl: парлумон
+    th: รัฐสภา
+    tl: parlamento
+    tr: parlamento
+    tt: парламент
+    udm: парламент
+    uk: парламент
+    ur: پارلیمان
+    uz: Parlament
+    vec: parlamento
+    vi: nghị viện
+    wa: Pårlumint
+    war: Parlamento
+    wuu: 议会
+    xh: Ipalamente
+    xmf: პარლამენტი
+    yi: פארלאמענט
+    yo: ilé aṣojú
+    yue: 議會
+    zgh: ⴰⴱⵕⵍⴰⵎⴰⵏ
+    zh: 議會
+    zh-cn: 议会
+    zh-hans: 议会
+    zh-hant: 議會
+    zh-hk: 議會
+    zh-mo: 議會
+    zh-my: 议会
+    zh-sg: 议会
+    zh-tw: 議會
+aliases:
+- Antenimiera
+- Baarlamaan
+- Bunge
+- Gī-hoē
+- ilé aṣojú
+- Inteko ishinga amategeko
+- Ipalamente
+- jina duu
+- kuvend
+- Mejelis bicara
+- mmarahyɛbedwafie
+- Məclis
+- nghị viện
+- Palemá
+- parlaimint
+- parlamant
+- parlameanta
+- Parlamen
+- Parlament
+- parlamentas
+- parlamente
+- parlamento
+- parlaments
+- parlamentti
+- parlamentu
+- parlamentum
+- parlameʹntt
+- parlamænnta
+- Parlamënt
+- parlemen
+- parlement
+- parlemint
+- parliament
+- parlimen
+- Parlément
+- Pàrlamaid
+- Pårlumint
+- Pāremata
+- Rimana huñunakuy
+- senedd
+- senedh
+- Tendota atýra amandaje
+- Ting
+- Þing
+- κοινοβούλιο
+- кугыжаныш погын
+- парламент
+- парлумон
+- парлямэнт
+- порлумон
+- скупштина
+- Түмэн
+- Хасэ
+- Խորհրդարան
+- פארלאמענט
+- פרלמנט
+- برلمان
+- مجلس
+- ولسي جرگه
+- پارليامينٽ
+- پارلیمان
+- پارلیمنٹ
+- پەرلەمان
+- ڤرليمن
+- ߞߎߡߊߓߏ߲
+- संसद
+- সংসদ
+- ਸੰਸਦ
+- நாடாளுமன்றம்
+- పార్లమెంట్లు
+- ಸಂಸತ್ತು
+- පාර්ලිමේන්තුව
+- รัฐสภา
+- ສະພາ
+- ပါလီမန်
+- პარლამენტი
+- ፓርላማ
+- ⴰⴱⵕⵍⴰⵎⴰⵏ
+- 議会
+- 議會
+- 议会
+- 의회
+---
 # [[Parliament]] 
 
 #is_/same_as :: [[WD~Parliament,35749]] 

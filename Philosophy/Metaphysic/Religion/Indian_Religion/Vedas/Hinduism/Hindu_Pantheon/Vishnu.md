@@ -1,55 +1,250 @@
 ---
 aliases:
+- Batara Bisnu
+- Déwa Wisnu
+- Fisjnû
+- jan sewi Winu
+- Vichnou
+- Vishnoe
+- Vishnou
+- Vishnu
+- Vishnó
+- Visjnu
+- Visniú
+- Visnjú
+- Visnu
+- Visnus
+- Visnú
+- Vixnu
+- Viŝnuo
+- Vişnu
+- Vişnú
+- Višnu
+- Višnus
+- Viṣṇu
+- Wischnu
+- Wisjnoe
+- Wisnu
+- Wisznu
+- Βισνού
+- Вішну
+- Вишну
+- Վիշնու
+- וישנו
+- فشنو
+- فيشنو
+- وؠشنوٗ
+- وشنو
+- ویشنو
+- ڤیشنو
+- बिष्णु
+- विष्णु
+- विष्णुः
+- বিষ্ণু
+- ਵਿਸ਼ਨੂੰ
+- વિષ્ણુ
+- ବିଷ୍ଣୁ
+- விஷ்ணு
+- విష్ణువు
+- ವಿಷ್ಣು
+- വിഷ്ണു
+- විෂ්ණු දෙවි
+- พระวิษณุ
+- ພະວິສະນຸ
+- ཁྱབ་ འཇུག
+- ဗိဿနိုးနတ်
+- ვიშნუ
+- ព្រះវិស្ណុ
+- ヴィシュヌ
+- 毗湿奴
+- 毗濕奴
+- ꯚꯤꯁꯅꯨ
+- 비슈누
 has_id_wikidata: Q11380
 child:
-  - "[[_Standards/WikiData/WD~Kamadeva,113155]]"
-  - "[[_Standards/WikiData/WD~Ayyappan,2477202]]"
-  - "[[_Standards/WikiData/WD~Mangala,2849275]]"
-  - "[[_Standards/WikiData/WD~Devasena,5252611]]"
-  - "[[_Standards/WikiData/WD~Valli,42309527]]"
-spouse: "[[_Standards/WikiData/WD~Lakshmi,131443]]"
+- '[[_Standards/WikiData/WD~Kamadeva,113155]]'
+- '[[_Standards/WikiData/WD~Ayyappan,2477202]]'
+- '[[_Standards/WikiData/WD~Mangala,2849275]]'
+- '[[_Standards/WikiData/WD~Devasena,5252611]]'
+- '[[_Standards/WikiData/WD~Valli,42309527]]'
+spouse: '[[_Standards/WikiData/WD~Lakshmi,131443]]'
 mount:
-  - "[[_Standards/WikiData/WD~Garuda,188676]]"
-  - "[[_Standards/WikiData/WD~Shesha,2418874]]"
+- '[[_Standards/WikiData/WD~Garuda,188676]]'
+- '[[_Standards/WikiData/WD~Shesha,2418874]]'
 described_by_source:
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]"
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Hindu_deity,979507]]"
-  - "[[_Standards/WikiData/WD~legendary_figure,13002315]]"
+- '[[_Standards/WikiData/WD~Hindu_deity,979507]]'
+- '[[_Standards/WikiData/WD~legendary_figure,13002315]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Jagannath,1370311]]"
-  - "[[_Standards/WikiData/WD~Sriman,7586408]]"
-  - "[[_Standards/WikiData/WD~Naraen_Kongō,11642805]]"
+- '[[_Standards/WikiData/WD~Jagannath,1370311]]'
+- '[[_Standards/WikiData/WD~Sriman,7586408]]'
+- '[[_Standards/WikiData/WD~Naraen_Kongō,11642805]]'
 iconographic_symbol:
-  - "[[_Standards/WikiData/WD~shankha,2479786]]"
-  - "[[_Standards/WikiData/WD~Sudarshana_Chakra,2723173]]"
-  - "[[_Standards/WikiData/WD~Kaumodaki,19892595]]"
-  - "[[_Standards/WikiData/WD~Padma,113350067]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-worshipped_by: "[[_Standards/WikiData/WD~Hinduism,9089]]"
-part_of: "[[_Standards/WikiData/WD~Trimurti,9595]]"
+- '[[_Standards/WikiData/WD~shankha,2479786]]'
+- '[[_Standards/WikiData/WD~Sudarshana_Chakra,2723173]]'
+- '[[_Standards/WikiData/WD~Kaumodaki,19892595]]'
+- '[[_Standards/WikiData/WD~Padma,113350067]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+worshipped_by: '[[_Standards/WikiData/WD~Hinduism,9089]]'
+part_of: '[[_Standards/WikiData/WD~Trimurti,9595]]'
 name_in_native_language:
-  - विष्णु
-  - 𑖪𑖰𑖬𑖿𑖜𑖲
+- विष्णु
+- "\U000115AA\U000115B0\U000115AC\U000115BF\U0001159C\U000115B2"
 Commons_gallery: Vishnu
 Commons_category: Vishnu
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%B5%E0%A4%BF%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A5%81.wav
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%B5%E0%AE%BF%E0%AE%B7%E0%AF%8D%E0%AE%A3%E0%AF%81.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vishnu%20from%20Gita%20Govinda.jpg
-ISNI: "0000000374578668"
+ISNI: 0000000374578668
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/VISHNU.html
 IPA_transcription:
-  - ʋɪʂɳʊ
-  - ʋɪʃ.nuː
+- ʋɪʂɳʊ
+- ʋɪʃ.nuː
+dv_has_:
+  name_:
+    af: Wisjnoe
+    an: Viṣṇu
+    ar: فيشنو
+    arz: فشنو
+    as: বিষ্ণু
+    ast: Visnú
+    az: Vişnu
+    ba: Вишну
+    ban: Déwa Wisnu
+    bcl: Vishnu
+    be: Вішну
+    be-tarask: Вішну
+    bg: Вишну
+    bho: विष्णु
+    bjn: Batara Bisnu
+    bn: বিষ্ণু
+    bo: ཁྱབ་ འཇུག
+    br: Vichnou
+    brh: Vişnú
+    bs: Višnu
+    ca: Vixnu
+    cdo: Vishnu
+    ckb: ڤیشنو
+    crh: Vişnu
+    cs: Višnu
+    cy: Vishnu
+    da: Vishnu
+    de: Vishnu
+    dty: विष्णु
+    el: Βισνού
+    en: Vishnu
+    en-ca: Vishnu
+    en-gb: Vishnu
+    eo: Viŝnuo
+    es: Vishnu
+    et: Višnu
+    eu: Vishnu
+    fa: ویشنو
+    fi: Vishnu
+    fr: Vishnou
+    fy: Fisjnû
+    ga: Visniú
+    gl: Vishnu
+    gsw: Vishnu
+    gu: વિષ્ણુ
+    he: וישנו
+    hi: विष्णु
+    hif: Vishnu
+    hr: Višnu
+    hu: Visnu
+    hy: Վիշնու
+    ia: Vishnu
+    id: Wisnu
+    io: Vishnu
+    is: Visnjú
+    it: Viṣṇu
+    ja: ヴィシュヌ
+    jv: Wisnu
+    ka: ვიშნუ
+    kbp: Vishnou
+    kk: Вишну
+    km: ព្រះវិស្ណុ
+    kn: ವಿಷ್ಣು
+    ko: 비슈누
+    ks: وؠشنوٗ
+    la: Visnus
+    lfn: Vishnu
+    lo: ພະວິສະນຸ
+    lt: Višnus
+    lv: Višnu
+    mag: बिष्णु
+    mai: विष्णु
+    mg: Vishnu
+    mhr: Вишну
+    mk: Вишну
+    ml: വിഷ്ണു
+    mni: ꯚꯤꯁꯅꯨ
+    mr: विष्णु
+    ms: Vishnu
+    my: ဗိဿနိုးနတ်
+    mzn: ویشنو
+    nan: Vishnu
+    nb: Vishnu
+    nds: Wischnu
+    ne: विष्णु
+    new: विष्णु
+    nl: Vishnoe
+    nn: Visjnu
+    oc: Vishnó
+    or: ବିଷ୍ଣୁ
+    os: Вишну
+    pa: ਵਿਸ਼ਨੂੰ
+    pl: Wisznu
+    pnb: وشنو
+    ps: وشنو
+    pt: Vixnu
+    pt-br: Vixnu
+    ro: Vishnu
+    ru: Вишну
+    sa: विष्णुः
+    sco: Vishnu
+    sd: وشنو
+    sh: Višnu
+    si: විෂ්ණු දෙවි
+    sk: Višnu
+    skr: وشنو
+    sl: Višnu
+    sq: Vishnu
+    sr: Вишну
+    sr-ec: Вишну
+    sv: Vishnu
+    ta: விஷ்ணு
+    tcy: ವಿಷ್ಣು
+    te: విష్ణువు
+    tg: Вишну
+    th: พระวิษณุ
+    tk: Vişnu
+    tl: Vishnu
+    tok: jan sewi Winu
+    tr: Vişnu
+    tt: Вишну
+    uk: Вішну
+    ur: وشنو
+    uz: Vishnu
+    vi: Vishnu
+    vro: Višnu
+    war: Vishnu
+    wuu: 毗湿奴
+    xmf: ვიშნუ
+    yue: 毗濕奴
+    zh: 毗湿奴
+    zh-hant: 毗濕奴
+    zh-hk: 毗濕奴
+    zh-tw: 毗濕奴
 ---
-
 # [[Vishnu]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Vishnu,11380|WD~Vishnu,11380]] 

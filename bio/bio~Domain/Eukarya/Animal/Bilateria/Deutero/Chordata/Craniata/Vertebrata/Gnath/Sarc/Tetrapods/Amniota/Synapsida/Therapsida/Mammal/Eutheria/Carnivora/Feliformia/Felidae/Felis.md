@@ -1,33 +1,185 @@
 ---
 aliases:
+- catto
+- chi Mèo
+- Echt kaater
+- Felis
+- Feliso
+- karvoleem
+- kass
+- Katter
+- Kaz
+- kaķi
+- kissat
+- kot
+- mačka
+- Niau-sio̍k
+- Pişik
+- Pusi
+- Rainuotosios katės
+- Smákettir
+- Småkatter
+- Timcac (tawsit)
+- Wylde katten
+- Αίλουρος
+- гæдытæ
+- кіт
+- Каты
+- котки
+- кошки
+- Куоскалар уустара
+- Кушаксем (йӑх)
+- Мадылдар
+- Мачки
+- Цискаш
+- חתול
+- سنور
+- فیلس
+- قط
+- قطّوس
+- گربهها
+- फ़ीलिस
+- फेलिस
+- ফেলিস
+- பெலிசு
+- สกุลแมว
+- კატა
+- კატუ
+- ネコ属
+- 猫属
+- 貓屬
+- 고양이속
 has_id_wikidata: Q228283
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-taxonomic_type: "[[_Standards/WikiData/WD~Felis_catus,20980826]]"
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Felis_catus,20980826]]'
 start_time: -6200000-01-01T00:00:00Z
 earliest_date: -3000000-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "180586"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 180586
 taxon_author_citation: Linnaeus, 1758
 Commons_category: Felis
 taxon_name: Felis
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coca-cat.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wildkatze%20MGH.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coca-cat.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wildkatze%20MGH.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Felis%20Diversity.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Felis%20range.png
 EPPO_Code: 1FELIG
 MeSH_tree_code: B01.050.150.900.649.313.750.377.750.250
 UMLS_CUI: C0524517
 NBN_System_Key: NBNSYS0000040788
+dv_has_:
+  name_:
+    aeb-arab: قطّوس
+    af: Felis
+    ami: Pusi
+    an: Felis
+    ar: سنور
+    arz: قط
+    ast: Felis
+    avk: karvoleem
+    az: Pişik
+    be: Каты
+    bg: котки
+    bn: ফেলিস
+    br: Felis
+    bug: Felis
+    ca: Felis
+    ceb: Felis
+    cs: Felis
+    cv: Кушаксем (йӑх)
+    da: Felis
+    de: Felis
+    el: Αίλουρος
+    en: Felis
+    eo: Feliso
+    es: Felis
+    et: kass
+    eu: Felis
+    ext: Felis
+    fa: گربهها
+    fi: kissat
+    fr: Felis
+    frr: Echt kaater
+    fy: Wylde katten
+    ga: Felis
+    gl: Felis
+    he: חתול
+    hi: फ़ीलिस
+    hr: Felis
+    hu: Felis
+    ia: catto
+    id: Felis
+    ie: Felis
+    ilo: Felis
+    inh: Цискаш
+    io: Felis
+    is: Smákettir
+    it: Felis
+    ja: ネコ属
+    jv: Felis
+    ka: კატა
+    kab: Timcac (tawsit)
+    ko: 고양이속
+    ku: Felis
+    ku-latn: Felis
+    ky: Мадылдар
+    la: Felis
+    lb: Kaz
+    lij: Felis
+    lt: Rainuotosios katės
+    lv: kaķi
+    mk: Мачки
+    mr: फेलिस
+    ms: Felis
+    mul: Felis
+    nan: Niau-sio̍k
+    nb: Småkatter
+    nl: Felis
+    nn: Felis
+    oc: Felis
+    os: гæдытæ
+    pl: kot
+    pt: Felis
+    pt-br: Felis
+    ro: Felis
+    ru: кошки
+    sah: Куоскалар уустара
+    scn: Felis
+    sco: Felis
+    sh: Felis
+    sl: mačka
+    sq: Felis
+    sr: Felis
+    sv: Katter
+    ta: பெலிசு
+    th: สกุลแมว
+    tl: Felis
+    tr: Felis
+    uk: кіт
+    ur: فیلس
+    vi: chi Mèo
+    vls: Felis
+    vo: Felis
+    war: Felis
+    wuu: 猫属
+    xmf: კატუ
+    yue: 貓屬
+    zh: 猫属
+    zh-cn: 猫属
+    zh-hans: 猫属
+    zh-hant: 貓屬
+    zh-hk: 貓屬
+    zh-sg: 猫属
+    zh-tw: 貓屬
 ---
-
 # [[Felis]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Felis,228283]] 

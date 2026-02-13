@@ -1,4 +1,86 @@
-
+---
+has_id_wikidata: Q724775
+dv_has_:
+  name_:
+    ar: نظام العد الأحادي
+    be: унарная сістэма злічэння
+    be-tarask: унарная сыстэма зьлічэньня
+    ca: sistema de numeració unari
+    cs: jedničková soustava
+    da: unære talsystem
+    de: Unärsystem
+    en: unary numeral system
+    eo: unuuma nombrosistemo
+    es: sistema de numeración unario
+    fa: دستگاه اعداد یکانی
+    fr: système unaire
+    he: בסיס אונרי
+    ht: sistèm inè
+    hu: egyes számrendszer
+    io: unara nombrosistemo
+    it: sistema numerico unario
+    ja: 一進法
+    ko: 일진법
+    lb: Unärsystem
+    lzh: 一進制
+    nan: it-chìn-hoat
+    nl: unair talstelsel
+    pl: jedynkowy system liczbowy
+    pt: sistema de numeração unário
+    pt-br: sistema de numeração unário
+    ro: sistem de numerație unar
+    ru: унарная система счисления
+    sk: Jednotková číselná sústava
+    sl: eniški številski sistem
+    sv: unära talsystemet
+    ta: ஒரும எண் முறைமை
+    th: เลขฐานหนึ่ง
+    tr: tekli sayı sistemi
+    uk: унарна система числення
+    vi: hệ đơn phân
+    yue: 一進制
+    zh: 一进制
+    zh-hans: 一进制
+    zh-hant: 一進制
+    zh-hk: 一進制
+    zh-tw: 一進制
+aliases:
+- egyes számrendszer
+- eniški številski sistem
+- hệ đơn phân
+- it-chìn-hoat
+- jedničková soustava
+- Jednotková číselná sústava
+- jedynkowy system liczbowy
+- sistem de numerație unar
+- sistema de numeració unari
+- sistema de numeración unario
+- sistema de numeração unário
+- sistema numerico unario
+- sistèm inè
+- système unaire
+- tekli sayı sistemi
+- unair talstelsel
+- unara nombrosistemo
+- unary numeral system
+- unuuma nombrosistemo
+- unära talsystemet
+- Unärsystem
+- unære talsystem
+- унарна система числення
+- унарная сістэма злічэння
+- унарная система счисления
+- унарная сыстэма зьлічэньня
+- בסיס אונרי
+- دستگاه اعداد یکانی
+- نظام العد الأحادي
+- ஒரும எண் முறைமை
+- เลขฐานหนึ่ง
+- 一进制
+- 一進制
+- 一進法
+- 일진법
+---
 # [[Unary_numeral_System]] 
 
 b0+b1 * 1^1 + b2 * 1^2 + ... 

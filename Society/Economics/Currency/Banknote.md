@@ -1,70 +1,271 @@
 ---
 aliases:
-  - Banknote
+- bancnotă
+- banconota
+- bankbiljet
+- bankjegy
+- banknot
+- banknota
+- banknotas
+- Banknote
+- banknotlar
+- bankovec
+- bankovka
+- bankowka
+- benknoti
+- bilhed-bank
+- billet de banque
+- billete
+- bitllet de banc
+- carta moneda
+- cartamoneda
+- charta argentaria
+- cāi-piéu
+- diru paper
+- duit kertas
+- Geldschäin
+- gîn-phiò
+- kartëmonedha
+- lipu mani
+- monbileto
+- nota
+- novčanica
+- novčanice
+- nóta bainc
+- p'anqa kañina
+- paberraha
+- papel moeda
+- papel moneda
+- papel nga kwarta
+- papel-moeda
+- papel-moneda
+- paper note
+- Papiagöd
+- pengeseddel
+- pengesetel
+- peningaseðill
+- pila' brbar
+- pitih karateh
+- põʹmmaiteäʹǧǧ
+- salaping papel
+- sedel
+- seeddâl
+- seteli
+- seđel
+- tatipeluk a kalisiw
+- tiền giấy
+- uang kertas
+- valikki
+- wang kertas bank
+- əsginaz
+- παγκανότα
+- χαρτονόμισμα
+- банкнота
+- банкнотлар
+- банкното
+- банкноттар
+- банкноттор
+- новчаница
+- хартономїсма
+- թղթադրամ
+- שטר כסף
+- اسکناس
+- ایسکیناس
+- بانکنوټ
+- زرکاغذ
+- عملة ورقية
+- پارەی کاغەزی
+- बैंक के नोट
+- बैंक नोट
+- ব্যাংকনোট
+- ବ୍ୟାଙ୍କ ନୋଟ
+- வங்கித்தாள்
+- ธนบัตร
+- ငိုၼ်းၸေႈ
+- ငွေစက္ကူ
+- ბანკნოტი
+- 紙幣
+- 紙票子
+- 纸币
+- 銀紙
+- 錢鈔
+- 지폐
 has_id_wikidata: Q47433
-Dewey_Decimal_Classification: "332.42"
+Dewey_Decimal_Classification: 332.42
 has_part_s_:
-  - "[[_Standards/WikiData/WD~obverse,257418]]"
-  - "[[_Standards/WikiData/WD~microprinting,947321]]"
-  - "[[_Standards/WikiData/WD~reverse,1542661]]"
-  - "[[_Standards/WikiData/WD~hologram,3139490]]"
-  - "[[_Standards/WikiData/WD~watermark,43065]]"
-instance_of: "[[_Standards/WikiData/WD~genre,483394]]"
+- '[[_Standards/WikiData/WD~obverse,257418]]'
+- '[[_Standards/WikiData/WD~microprinting,947321]]'
+- '[[_Standards/WikiData/WD~reverse,1542661]]'
+- '[[_Standards/WikiData/WD~hologram,3139490]]'
+- '[[_Standards/WikiData/WD~watermark,43065]]'
+instance_of: '[[_Standards/WikiData/WD~genre,483394]]'
 named_after:
-  - "[[_Standards/WikiData/WD~ticket,551800]]"
-  - "[[_Standards/WikiData/WD~bank,22687]]"
+- '[[_Standards/WikiData/WD~ticket,551800]]'
+- '[[_Standards/WikiData/WD~bank,22687]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cash,693464]]"
-  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
-  - "[[_Standards/WikiData/WD~collectable,2342494]]"
-  - "[[_Standards/WikiData/WD~print,11060274]]"
-  - "[[_Standards/WikiData/WD~state_symbols_and_signs,114794799]]"
+- '[[_Standards/WikiData/WD~cash,693464]]'
+- '[[_Standards/WikiData/WD~work_of_art,838948]]'
+- '[[_Standards/WikiData/WD~collectable,2342494]]'
+- '[[_Standards/WikiData/WD~print,11060274]]'
+- '[[_Standards/WikiData/WD~state_symbols_and_signs,114794799]]'
 depicts:
-  - "[[_Standards/WikiData/WD~face_value,931754]]"
-  - "[[_Standards/WikiData/WD~banknote_security_feature,28796476]]"
-  - "[[_Standards/WikiData/WD~banknote_series,28810803]]"
-  - "[[_Standards/WikiData/WD~Q28810808,28810808]]"
-  - "[[_Standards/WikiData/WD~replacement_mark_of_banknote,28810820]]"
+- '[[_Standards/WikiData/WD~face_value,931754]]'
+- '[[_Standards/WikiData/WD~banknote_security_feature,28796476]]'
+- '[[_Standards/WikiData/WD~banknote_series,28810803]]'
+- '[[_Standards/WikiData/WD~Q28810808,28810808]]'
+- '[[_Standards/WikiData/WD~replacement_mark_of_banknote,28810820]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~face_value,931754]]"
-  - "[[_Standards/WikiData/WD~design_of_a_banknote_or_a_coin,28794013]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_banknote,13382588]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828628,22828628]]"
+- '[[_Standards/WikiData/WD~face_value,931754]]'
+- '[[_Standards/WikiData/WD~design_of_a_banknote_or_a_coin,28794013]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_banknote,13382588]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828628,22828628]]'
 manifestation_of:
-  - "[[_Standards/WikiData/WD~paper_money,131938946]]"
-  - "[[_Standards/WikiData/WD~money,1368]]"
+- '[[_Standards/WikiData/WD~paper_money,131938946]]'
+- '[[_Standards/WikiData/WD~money,1368]]'
 time_of_discovery_or_invention: 0618-01-01T00:00:00Z
 properties_for_this_type:
-  - width
-  - height
-  - face value
-country_of_origin: "[[_Standards/WikiData/WD~China,29520]]"
-opposite_of: "[[_Standards/WikiData/WD~coin,41207]]"
-Nomenclature_for_Museum_Cataloging: "13881"
+- width
+- height
+- face value
+country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
+opposite_of: '[[_Standards/WikiData/WD~coin,41207]]'
+Nomenclature_for_Museum_Cataloging: 13881
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BOH%26MOR-10-Protectorate%20of%20Bohemia%20and%20Moravia-50%20Korun%20%281944%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Banknote.ogg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Bankbiljet-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Papiergeld-article.ogg
-U_S_National_Archives_Identifier: "10638552"
-Common_Procurement_Vocabulary_code: "22430000"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Bankbiljet-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Papiergeld-article.ogg
+U_S_National_Archives_Identifier: 10638552
+Common_Procurement_Vocabulary_code: 22430000
 Iconclass_notation: 46B312
 MCN_code: 4907.00.10
 subreddit: Banknotes
 Commons_category: Banknotes
+dv_has_:
+  name_:
+    ar: عملة ورقية
+    ast: billete
+    az: əsginaz
+    azb: ایسکیناس
+    ba: банкнота
+    bar: Papiagöd
+    be: банкнота
+    be-tarask: банкнота
+    bg: банкнота
+    bn: ব্যাংকনোট
+    br: bilhed-bank
+    bs: novčanice
+    bxr: банкното
+    ca: bitllet de banc
+    cdo: cāi-piéu
+    ckb: پارەی کاغەزی
+    cs: bankovka
+    cu: хартономїсма
+    da: pengeseddel
+    de: Banknote
+    diq: banknot
+    el: χαρτονόμισμα
+    en: banknote
+    en-gb: banknote
+    eo: monbileto
+    es: papel moneda
+    et: paberraha
+    eu: diru paper
+    fa: اسکناس
+    fi: seteli
+    fr: billet de banque
+    ga: nóta bainc
+    gan: 紙票子
+    gd: nota
+    gl: papel moeda
+    he: שטר כסף
+    hi: बैंक के नोट
+    hr: novčanica
+    hsb: bankowka
+    hu: bankjegy
+    hy: թղթադրամ
+    id: uang kertas
+    is: peningaseðill
+    it: banconota
+    ja: 紙幣
+    ka: ბანკნოტი
+    kk: банкноттар
+    ko: 지폐
+    ky: банкноттор
+    la: charta argentaria
+    lb: Geldschäin
+    lmo: cartamoneda
+    lt: banknotas
+    lv: banknote
+    lzh: 錢鈔
+    min: pitih karateh
+    mk: банкнота
+    ms: wang kertas bank
+    mwl: papel-moneda
+    my: ငွေစက္ကူ
+    nan: gîn-phiò
+    nb: pengeseddel
+    ne: बैंक नोट
+    nl: bankbiljet
+    nn: pengesetel
+    olo: valikki
+    or: ବ୍ୟାଙ୍କ ନୋଟ
+    pl: banknot
+    pnt: παγκανότα
+    ps: بانکنوټ
+    pt: papel-moeda
+    pt-br: papel-moeda
+    qu: p'anqa kañina
+    ro: bancnotă
+    ru: банкнота
+    sco: paper note
+    se: seđel
+    sh: banknota
+    shn: ငိုၼ်းၸေႈ
+    sk: bankovka
+    sl: bankovec
+    smn: seeddâl
+    sms: põʹmmaiteäʹǧǧ
+    sq: kartëmonedha
+    sr: новчаница
+    sr-ec: новчаница
+    sr-el: novčanica
+    su: duit kertas
+    sv: sedel
+    sw: benknoti
+    szy: tatipeluk a kalisiw
+    ta: வங்கித்தாள்
+    tay: pila' brbar
+    tg: банкнота
+    th: ธนบัตร
+    tl: salaping papel
+    tok: lipu mani
+    tr: banknot
+    tt: банкнотлар
+    tt-cyrl: банкнотлар
+    uk: банкнота
+    ur: زرکاغذ
+    uz: banknotlar
+    vec: carta moneda
+    vi: tiền giấy
+    war: papel nga kwarta
+    wuu: 纸币
+    xmf: ბანკნოტი
+    yue: 銀紙
+    zh: 紙幣
+    zh-hans: 纸币
 ---
-
 # [[Banknote]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Banknote,47433|WD~Banknote,47433]] 

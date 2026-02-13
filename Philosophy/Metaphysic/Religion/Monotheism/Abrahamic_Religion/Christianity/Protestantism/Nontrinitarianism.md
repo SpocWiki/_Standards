@@ -1,27 +1,117 @@
 ---
 aliases:
-  - antitrinitarian
-  - Nontrinitarianism
+- antitrinitarian
+- Antitrinitarier
+- antitrinitarijanizam
+- antitrinitarism
+- antitrinitarisma
+- antitrinitarisme
+- antitrinitarismo
+- antitrinitarismu
+- antitrinitarismus
+- antitrinitarizmus
+- antitrinitianismi
+- antitrinitoriai
+- antitrinitářství
+- antytrynitaryzm
+- ez-hirukoiztartasun
+- Hindi Trinitarianismo
+- kontraŭtriunuismo
+- netrinitarianizem
+- Nontrinitarianism
+- nontrinitarianisme
+- Teslis'in reddi
+- wasiosadiki utatu
+- Αντιτριαδικοί
+- антитринітарії
+- антитринитаризам
+- антитринитаризм
+- антытрынітарызм
+- Үстээҕи утарааччылар
+- հակատրինիտարիզմ
+- אנטי טריניטריזם
+- سهگانهناباوری
+- لاثالوثية
+- ناسیانەپەرستی
+- অত্রিত্ববাদ
+- திரித்துவம் இல்லாக் கொள்கை
+- അത്രിത്വം
+- 反三位一体論
+- 反對三位一體論
+- 非三位一體派
+- 반삼위일체론
 has_id_wikidata: Q584205
 facet_of:
-  - "[[_Standards/WikiData/WD~Arianism,83922]]"
-  - "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269]]"
+- '[[_Standards/WikiData/WD~Arianism,83922]]'
+- "[[_Standards/WikiData/WD~Jehovah's_Witnesses,35269]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~heresy_in_Christianity,2912496]]"
-  - "[[_Standards/WikiData/WD~Christian_theological_school,28109769]]"
-  - "[[_Standards/WikiData/WD~God_in_Christianity,825]]"
-instance_of: "[[_Standards/WikiData/WD~Christian_doctrine,3714546]]"
-opposite_of: "[[_Standards/WikiData/WD~trinitarianism,16360083]]"
-has_part_s_: "[[_Standards/WikiData/WD~nontrinitarian,38704413]]"
+- '[[_Standards/WikiData/WD~heresy_in_Christianity,2912496]]'
+- '[[_Standards/WikiData/WD~Christian_theological_school,28109769]]'
+- '[[_Standards/WikiData/WD~God_in_Christianity,825]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_doctrine,3714546]]'
+opposite_of: '[[_Standards/WikiData/WD~trinitarianism,16360083]]'
+has_part_s_: '[[_Standards/WikiData/WD~nontrinitarian,38704413]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Christadelphian%20Hall%20%28Bath%29.JPG
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/non-trinitarian
+dv_has_:
+  name_:
+    ar: لاثالوثية
+    ast: antitrinitarismu
+    be: антытрынітарызм
+    be-tarask: антытрынітарызм
+    bn: অত্রিত্ববাদ
+    ca: antitrinitarisme
+    ckb: ناسیانەپەرستی
+    cs: antitrinitářství
+    da: antitrinitarisme
+    de: Antitrinitarier
+    el: Αντιτριαδικοί
+    en: nontrinitarianism
+    eo: kontraŭtriunuismo
+    es: antitrinitarismo
+    eu: ez-hirukoiztartasun
+    fa: سهگانهناباوری
+    fi: antitrinitianismi
+    fr: antitrinitarisme
+    gl: antitrinitarismo
+    he: אנטי טריניטריזם
+    hu: antitrinitarizmus
+    hy: հակատրինիտարիզմ
+    id: nontrinitarianisme
+    it: antitrinitarismo
+    ja: 反三位一体論
+    ko: 반삼위일체론
+    la: antitrinitarismus
+    lt: antitrinitoriai
+    mg: antitrinitarisma
+    mk: антитринитаризам
+    ml: അത്രിത്വം
+    nb: antitrinitarisme
+    nl: antitrinitarisme
+    nn: antitrinitarisme
+    oc: Antitrinitarisme
+    pl: antytrynitaryzm
+    pt: antitrinitarismo
+    ro: antitrinitarism
+    ru: антитринитаризм
+    sah: Үстээҕи утарааччылар
+    sh: antitrinitarijanizam
+    sl: netrinitarianizem
+    sr: antitrinitarijanizam
+    sv: antitrinitarism
+    sw: wasiosadiki utatu
+    ta: திரித்துவம் இல்லாக் கொள்கை
+    tl: Hindi Trinitarianismo
+    tr: Teslis'in reddi
+    uk: антитринітарії
+    yue: 非三位一體派
+    zh: 反對三位一體論
 ---
-
 # [[Nontrinitarianism]] 
 
 #is_/same_as :: [[WD~Nontrinitarianism,584205]] 

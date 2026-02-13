@@ -1,4 +1,84 @@
-
+---
+has_id_wikidata: Q338047
+dv_has_:
+  name_:
+    ar: قواعد خالية من السياق
+    bn: প্রসঙ্গমুক্ত ব্যাকরণ
+    ca: gramàtica lliure de context
+    cs: bezkontextová gramatika
+    de: kontextfreie Grammatik
+    en: context-free grammar
+    eo: senkunteksta gramatiko
+    es: gramática libre de contexto
+    fa: گرامر مستقل از متن
+    fi: Yhteydetön kielioppi
+    fr: grammaire non contextuelle
+    gl: Gramática libre de contexto
+    he: דקדוק חופשי-הקשר
+    hr: Kontekstno neovisna gramatika
+    hu: környezetfüggetlen nyelvtan
+    it: grammatica libera dal contesto
+    ja: 文脈自由文法
+    ko: 문맥 자유 문법
+    mk: Контексно слободна граматика
+    ml: കോൺടെക്സ്റ്റ് ഫ്രീ വ്യാകരണം
+    mwl: Gramática libre de cuntesto
+    nb: kontekstfri grammatikk
+    nl: contextvrije grammatica
+    pl: gramatyka bezkontekstowa
+    pt: gramática livre de contexto
+    ru: контекстно-свободная грамматика
+    sh: Kontekstno neovisna gramatika
+    sk: bezkontextová gramatika
+    sl: kontekstno neodvisna slovnica
+    sr: Контекстно слободна граматика
+    sr-ec: Контекстно слободна граматика
+    sr-el: Kontekstno slobodna gramatika
+    sv: kontextfri grammatik
+    ta: இடம் சாரா இலக்கணம்
+    uk: контекстно-вільна граматика
+    zh: 上下文无关文法
+    zh-cn: 上下文无关文法
+    zh-hans: 上下文无关文法
+    zh-hant: 上下文無關文法
+    zh-hk: 上下文無關文法
+    zh-sg: 上下文无关文法
+    zh-tw: 上下文無關文法
+aliases:
+- bezkontextová gramatika
+- context-free grammar
+- contextvrije grammatica
+- gramatyka bezkontekstowa
+- grammaire non contextuelle
+- grammatica libera dal contesto
+- gramàtica lliure de context
+- gramática libre de contexto
+- Gramática libre de cuntesto
+- gramática livre de contexto
+- kontekstfri grammatikk
+- kontekstno neodvisna slovnica
+- Kontekstno neovisna gramatika
+- Kontekstno slobodna gramatika
+- kontextfreie Grammatik
+- kontextfri grammatik
+- környezetfüggetlen nyelvtan
+- senkunteksta gramatiko
+- Yhteydetön kielioppi
+- Контексно слободна граматика
+- Контекстно слободна граматика
+- контекстно-вільна граматика
+- контекстно-свободная грамматика
+- דקדוק חופשי-הקשר
+- قواعد خالية من السياق
+- گرامر مستقل از متن
+- প্রসঙ্গমুক্ত ব্যাকরণ
+- இடம் சாரா இலக்கணம்
+- കോൺടെക്സ്റ്റ് ഫ്രീ വ്യാകരണം
+- 上下文无关文法
+- 上下文無關文法
+- 文脈自由文法
+- 문맥 자유 문법
+---
 > In formal language theory, a **Context-free grammar** (CFG) is a formal grammar whose production rules 
 >
 > can be applied to a nonterminal symbol regardless of its context.

@@ -1,4 +1,319 @@
-
+---
+has_id_wikidata: Q8
+dv_has_:
+  name_:
+    af: blydskap
+    agq: kɨ-duʔn-lo
+    ar: سعادة
+    arq: سعادة
+    as: সুখ
+    ast: felicidá
+    az: xoşbəxtlik
+    bcl: kaugmahan
+    be: шчасце
+    be-tarask: шчасьце
+    bg: щастие
+    bho: खुसी
+    bn: সুখ
+    bo: དགའ་སྐྱིད།
+    br: levenez
+    bs: sreća
+    ca: felicitat
+    cdo: huăng-hī
+    ckb: بەختەوەری
+    cs: štěstí
+    csb: szczescé
+    cv: телей
+    cy: hapusrwydd
+    da: lykke
+    dag: suhupiɛlli
+    de: Glück
+    de-ch: Glück
+    dsb: gluka
+    el: ευτυχία
+    eml: cuntintèsa
+    en: happiness
+    en-ca: happiness
+    en-gb: happiness
+    eo: feliĉo
+    es: felicidad
+    et: õnn
+    eu: zorion
+    fa: خوشحالی
+    ff: welwelo
+    fi: onnellisuus
+    fr: bonheur
+    fy: lok
+    ga: sonas
+    gan: 幸福
+    gcr: bonè
+    gl: felicidade
+    gn: vy'apavẽ
+    grc: εὐδαιμονία
+    gsw: Glick
+    gu: ખુશી
+    gur: Pupeelum
+    guw: ayajẹ
+    ha: farin ciki
+    hak: fôn-hí
+    he: אושר
+    hi: खुशी
+    hr: sreća
+    hsb: zbožo
+    hu: boldogság
+    hy: երջանկություն
+    hyw: երջանկութիւն
+    ia: felicitate
+    id: kebahagiaan
+    ig: aṅụli
+    is: hamingja
+    it: felicità
+    ja: 幸福
+    jam: apinis
+    jbo: gleki
+    jv: bungah
+    ka: ბედნიერება
+    kaa: baxıt
+    kk: бақыт
+    kn: ಸಂತೋಷ
+    ko: 행복
+    ks: خۄشی
+    ku-latn: bextewarî
+    ky: бакыт
+    la: felicitas
+    lb: Gléck
+    lfn: felisia
+    li: Gelök
+    lmo: felicità
+    lt: laimė
+    lv: laime
+    lzz: xeloba
+    mg: Fahasambaragna
+    mi: hākoakoa
+    mk: среќа
+    ml: സന്തോഷം
+    mos: sũ-noogo
+    mr: आनंद
+    ms: kebahagiaan
+    mt: ferħ
+    mwl: felcidade
+    my: ပျော်ရွှင်
+    myv: уцяска
+    nan: hoaⁿ-hí
+    nb: lykke
+    ne: प्रशन्नता
+    new: लेताईगु
+    nl: geluk
+    nn: lukke
+    oc: felicitat
+    or: ଖୁସି
+    ota: موتلولوك
+    pa: ਖੁਸ਼ੀ
+    pl: szczęście
+    pnb: خوشی
+    ps: خوښي
+    pt: felicidade
+    pt-br: felicidade
+    qu: kusikuy
+    rn: Umunezero
+    ro: fericire
+    ru: счастье
+    rue: щастя
+    rw: umunezero
+    scn: filicità
+    se: lihkku
+    sh: sreća
+    shn: မူၼ်ႈသိူဝ်း
+    si: සතුට
+    simple: happiness
+    sk: šťastie
+    sl: sreča
+    sma: aevhkie
+    sms: leklvažvuõtt
+    sn: mufaro
+    so: farxad
+    sq: lumturia
+    sr: срећа
+    sr-ec: срећа
+    su: kebahagiaan
+    sv: lycka
+    sw: furaha
+    ta: இன்பம்
+    te: సంతోషం
+    tg: бахт
+    th: ความสุข
+    tk: bagt
+    tl: kaligayahan
+    tn: happiness
+    tok: pilin pona
+    tr: mutluluk
+    ts: ntsako
+    tt: бәхет
+    tw: anigyeɛ
+    udm: шуд
+    uk: щастя
+    ur: خوشی
+    uz: baxt
+    vep: oza
+    vi: hạnh phúc
+    vo: fred
+    wa: bouneur
+    war: lipay
+    wuu: 欢喜
+    yi: פרייד
+    yue: 開心
+    zh: 快樂
+    zh-cn: 快乐
+    zh-hans: 快乐
+    zh-hant: 快樂
+    zh-hk: 快樂
+    zh-mo: 快樂
+    zh-my: 快乐
+    zh-sg: 快乐
+    zh-tw: 快樂
+aliases:
+- aevhkie
+- anigyeɛ
+- apinis
+- ayajẹ
+- aṅụli
+- bagt
+- baxt
+- baxıt
+- bextewarî
+- blydskap
+- boldogság
+- bonheur
+- bonè
+- bouneur
+- bungah
+- cuntintèsa
+- Fahasambaragna
+- farin ciki
+- farxad
+- felcidade
+- felicidad
+- felicidade
+- felicidá
+- felicitas
+- felicitat
+- felicitate
+- felicità
+- felisia
+- feliĉo
+- fericire
+- ferħ
+- filicità
+- fred
+- furaha
+- fôn-hí
+- geluk
+- Gelök
+- gleki
+- Glick
+- gluka
+- Gléck
+- Glück
+- hamingja
+- happiness
+- hapusrwydd
+- hoaⁿ-hí
+- huăng-hī
+- hākoakoa
+- hạnh phúc
+- kaligayahan
+- kaugmahan
+- kebahagiaan
+- kusikuy
+- kɨ-duʔn-lo
+- laime
+- laimė
+- leklvažvuõtt
+- levenez
+- lihkku
+- lipay
+- lok
+- lukke
+- lumturia
+- lycka
+- lykke
+- mufaro
+- mutluluk
+- ntsako
+- onnellisuus
+- oza
+- pilin pona
+- Pupeelum
+- sonas
+- sreća
+- sreča
+- suhupiɛlli
+- szczescé
+- szczęście
+- sũ-noogo
+- Umunezero
+- vy'apavẽ
+- welwelo
+- xeloba
+- xoşbəxtlik
+- zbožo
+- zorion
+- õnn
+- štěstí
+- šťastie
+- ευτυχία
+- εὐδαιμονία
+- бакыт
+- бахт
+- бақыт
+- бәхет
+- срећа
+- среќа
+- счастье
+- телей
+- уцяска
+- шуд
+- шчасце
+- шчасьце
+- щастие
+- щастя
+- երջանկութիւն
+- երջանկություն
+- אושר
+- פרייד
+- بەختەوەری
+- خوشحالی
+- خوشی
+- خوښي
+- خۄشی
+- سعادة
+- موتلولوك
+- आनंद
+- खुशी
+- खुसी
+- प्रशन्नता
+- लेताईगु
+- সুখ
+- ਖੁਸ਼ੀ
+- ખુશી
+- ଖୁସି
+- இன்பம்
+- సంతోషం
+- ಸಂತೋಷ
+- സന്തോഷം
+- සතුට
+- ความสุข
+- དགའ་སྐྱིད།
+- ပျော်ရွှင်
+- မူၼ်ႈသိူဝ်း
+- ბედნიერება
+- 幸福
+- 快乐
+- 快樂
+- 欢喜
+- 開心
+- 행복
+---
 # [[Happiness]] 
 
 #has_/complement :: [[Suffering]] 

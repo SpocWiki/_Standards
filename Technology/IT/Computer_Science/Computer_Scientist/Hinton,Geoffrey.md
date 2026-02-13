@@ -1,11 +1,201 @@
 ---
 aliases:
-  - Geoffrey Hinton
-  - Geoffrey Everest Hinton
-  - Hinton
-  - Hinton,Geoffrey
+- Ceffri Hinton
+- Džefri Hinton
+- Geoffrey E. Hinton
+- Geoffrey Everest Hinton
+- Geoffrey Hinton
+- Godefridus Hinton
+- Hinton
+- Hinton,Geoffrey
+- Τζέφρι Χίντον
+- Джефри Хинтън
+- Джеффрі Гінтон
+- Джеффри Хинтон
+- Джэфры Гінтан
+- Джэфры Хінтан
+- Ջեֆրի Հինթոն
+- ג'פרי הינטון
+- جفري هنطن
+- جفری اورست هینتون
+- جفری ہنٹن
+- جيوفرى هينتون
+- جیفری ہنٹن
+- جیفری ہنٹن (سائنسدان)
+- جێفری ھینتۆن
+- جەفرىي خىنتون
+- دجيفري هينتون
+- यन्त्रशिक्षणम्
+- জিঅ'ফ্ৰী হিণ্টন
+- জিওফ্রে হিন্টন
+- செவ்விரி இண்டன்
+- ಜೆಫ್ರಿ ಹಿಂಟನ್
+- เจฟฟรีย์ ฮินตัน
+- ჯოფრი ჰინტონი
+- ジェフリー・ヒントン
+- 傑佛瑞·辛頓
+- 傑弗里·欣頓
+- 杰弗里·欣顿
+- 謝菲·軒頓
+- 제프리 힌턴
+has_id_wikidata: Q92894
+dv_has_:
+  name_:
+    af: Geoffrey Hinton
+    an: Geoffrey Hinton
+    ar: جفري هنطن
+    ary: دجيفري هينتون
+    arz: جيوفرى هينتون
+    as: জিঅ'ফ্ৰী হিণ্টন
+    ast: Geoffrey Hinton
+    avk: Geoffrey Hinton
+    az: Ceffri Hinton
+    azb: جفری اورست هینتون
+    bar: Geoffrey Hinton
+    be: Джэфры Хінтан
+    be-tarask: Джэфры Гінтан
+    bg: Джефри Хинтън
+    bi: Geoffrey Hinton
+    bm: Geoffrey Hinton
+    bn: জিওফ্রে হিন্টন
+    br: Geoffrey Hinton
+    ca: Geoffrey Hinton
+    cho: Geoffrey Hinton
+    ckb: جێفری ھینتۆن
+    co: Geoffrey Hinton
+    cs: Geoffrey Hinton
+    cy: Geoffrey Hinton
+    da: Geoffrey Hinton
+    de: Geoffrey Hinton
+    de-at: Geoffrey Hinton
+    de-ch: Geoffrey Hinton
+    dsb: Geoffrey Hinton
+    el: Τζέφρι Χίντον
+    eml: Geoffrey Hinton
+    en: Geoffrey Hinton
+    en-ca: Geoffrey Hinton
+    en-gb: Geoffrey Hinton
+    eo: Geoffrey Hinton
+    es: Geoffrey Hinton
+    et: Geoffrey Hinton
+    eu: Geoffrey Hinton
+    fa: جفری اورست هینتون
+    fi: Geoffrey Hinton
+    fj: Geoffrey Hinton
+    fo: Geoffrey E. Hinton
+    fr: Geoffrey Hinton
+    frc: Geoffrey Hinton
+    frp: Geoffrey Hinton
+    frr: Geoffrey Hinton
+    fur: Geoffrey Hinton
+    fy: Geoffrey Hinton
+    ga: Geoffrey Hinton
+    gd: Geoffrey Hinton
+    gl: Geoffrey Hinton
+    gsw: Geoffrey Hinton
+    gv: Geoffrey Hinton
+    he: ג'פרי הינטון
+    hr: Geoffrey Hinton
+    hrx: Geoffrey Hinton
+    hsb: Geoffrey Hinton
+    hu: Geoffrey Hinton
+    hy: Ջեֆրի Հինթոն
+    ia: Geoffrey Hinton
+    id: Geoffrey Hinton
+    ie: Geoffrey Hinton
+    io: Geoffrey Hinton
+    is: Geoffrey E. Hinton
+    it: Geoffrey Hinton
+    ja: ジェフリー・ヒントン
+    jam: Geoffrey Hinton
+    jut: Geoffrey Hinton
+    ka: ჯოფრი ჰინტონი
+    kab: Geoffrey Hinton
+    kea: Geoffrey Hinton
+    kg: Geoffrey Hinton
+    kl: Geoffrey E. Hinton
+    kn: ಜೆಫ್ರಿ ಹಿಂಟನ್
+    ko: 제프리 힌턴
+    ks: جیفری ہنٹن
+    kw: Geoffrey Hinton
+    la: Godefridus Hinton
+    lad: Geoffrey Hinton
+    lb: Geoffrey Hinton
+    lfn: Geoffrey Hinton
+    li: Geoffrey Hinton
+    lij: Geoffrey Hinton
+    lld: Geoffrey Hinton
+    lmo: Geoffrey Hinton
+    lt: Geoffrey Hinton
+    mg: Geoffrey Hinton
+    mi: Geoffrey Hinton
+    min: Geoffrey Hinton
+    ms: Geoffrey Hinton
+    mul: Geoffrey Hinton
+    mus: Geoffrey Hinton
+    mwl: Geoffrey Hinton
+    na: Geoffrey Hinton
+    nap: Geoffrey Hinton
+    nb: Geoffrey Hinton
+    nds: Geoffrey Hinton
+    nds-nl: Geoffrey Hinton
+    niu: Geoffrey Hinton
+    nl: Geoffrey Hinton
+    nn: Geoffrey E. Hinton
+    nov: Geoffrey Hinton
+    nrm: Geoffrey Hinton
+    oc: Geoffrey Hinton
+    pap: Geoffrey Hinton
+    pcd: Geoffrey Hinton
+    pdc: Geoffrey Hinton
+    pdt: Geoffrey Hinton
+    pih: Geoffrey Hinton
+    pl: Geoffrey Hinton
+    pms: Geoffrey Hinton
+    prg: Geoffrey Hinton
+    pt: Geoffrey Hinton
+    pt-br: Geoffrey Hinton
+    rgn: Geoffrey Hinton
+    rm: Geoffrey Hinton
+    ro: Geoffrey Hinton
+    ru: Джеффри Хинтон
+    rup: Geoffrey Hinton
+    sa: यन्त्रशिक्षणम्
+    sc: Geoffrey Hinton
+    scn: Geoffrey Hinton
+    sco: Geoffrey Hinton
+    sk: Geoffrey Hinton
+    skr: جیفری ہنٹن (سائنسدان)
+    sl: Geoffrey Hinton
+    sli: Geoffrey Hinton
+    sq: Geoffrey Hinton
+    sr: Džefri Hinton
+    sr-el: Geoffrey Hinton
+    stq: Geoffrey Hinton
+    sv: Geoffrey Hinton
+    sw: Geoffrey Hinton
+    ta: செவ்விரி இண்டன்
+    th: เจฟฟรีย์ ฮินตัน
+    tr: Geoffrey Hinton
+    ug: جەفرىي خىنتون
+    uk: Джеффрі Гінтон
+    ur: جفری ہنٹن
+    vec: Geoffrey Hinton
+    vi: Geoffrey Hinton
+    vls: Geoffrey Hinton
+    vmf: Geoffrey Hinton
+    vo: Geoffrey Hinton
+    wa: Geoffrey Hinton
+    wo: Geoffrey Hinton
+    zea: Geoffrey Hinton
+    zh: 杰弗里·欣顿
+    zh-cn: 杰弗里·欣顿
+    zh-hans: 杰弗里·欣顿
+    zh-hant: 傑弗里·欣頓
+    zh-hk: 謝菲·軒頓
+    zh-tw: 傑佛瑞·辛頓
+    zu: Geoffrey Hinton
 ---
-
 ## #has_/text_of_/abstract 
 
 > Geoffrey Everest Hinton  (born 6 December 1947) 

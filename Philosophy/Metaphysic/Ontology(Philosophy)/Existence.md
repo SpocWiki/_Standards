@@ -1,12 +1,95 @@
 ---
 aliases:
-  - Existenz
-  - Existence
+- barlıq
+- beithsine
+- bestaan
+- bezañs
+- Biyayiyey
+- bodolaeth
+- Egzistans
+- egzistencija
+- eksistenca
+- eksistence
+- eksistens
+- eksistensi
+- ekzistencë
+- ekzisto
+- esistencia
+- esistensa
+- esistenza
+- Esistënza
+- Existence
+- existencia
+- existens
+- existentia
+- existentzia
+- Existenz
+- existență
+- existència
+- existéncia
+- existência
+- exsistentia
+- Fisiana
+- hebûn
+- istnienie
+- Kasancewar
+- Kawentenan
+- kewujudan
+- lo nu zasti
+- lon
+- létezés
+- Maisha
+- Mavjudlik
+- mövcudluq
+- olemasolu
+- olemassaolo
+- Pag-iral
+- sự tồn tại
+- Tilit
+- tilvera
+- tilvist
+- Ubukhona
+- varoluş
+- wíwà
+- Ègzistans (filozofi)
+- Ɛkɩzisitaɣsɩ
+- ύπαρξη
+- існаванне
+- існування
+- болу
+- йәшәйеш
+- постојање
+- постоење
+- Пурăнавлăх
+- существование
+- съществуване
+- Экзистенция
+- экзыстэнцыя
+- Эрсема
+- яшәү
+- ҳастӣ
+- գոյություն
+- קיום
+- هستی
+- وجود
+- کوجودن
+- ھەبوون
+- अस्तित्व
+- অস্তিত্ব
+- ਹੋਂਦ
+- இருத்தல்
+- ಅಸ್ತಿತ್ವ
+- การดำรงอยู่
+- ეგზისტენცია
+- ⵜⵉⵍⵍⵉⵜ
+- 存在
+- ꯂꯩꯕ
+- 실존
 has_id_wikidata: Q468777
 partially_coincident_with: '[[_Standards/WikiData/WD~being,203872]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~being,203872]]'
-  - '[[_Standards/WikiData/WD~Daný,13406798]]'
+- '[[_Standards/WikiData/WD~being,203872]]'
+- '[[_Standards/WikiData/WD~Daný,13406798]]'
 different_from: '[[_Standards/WikiData/WD~Dasein,404130]]'
 instance_of: '[[_Standards/WikiData/WD~property,937228]]'
 opposite_of: '[[_Standards/WikiData/WD~non_existence,3877969]]'
@@ -14,8 +97,127 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q66000008,66000008]]'
 studied_by: '[[_Standards/WikiData/WD~ontology,44325]]'
 OmegaWiki_Defined_Meaning: 1105011
 Iconclass_notation: 51A1
+dv_has_:
+  name_:
+    af: bestaan
+    ar: وجود
+    ast: esistencia
+    az: mövcudluq
+    ba: йәшәйеш
+    ban: Kawentenan
+    be: існаванне
+    be-tarask: экзыстэнцыя
+    bg: съществуване
+    bn: অস্তিত্ব
+    br: bezañs
+    bs: egzistencija
+    ca: existència
+    ckb: ھەبوون
+    cs: existence
+    cv: Пурăнавлăх
+    cy: bodolaeth
+    da: eksistens
+    de: Existenz
+    diq: Biyayiyey
+    el: ύπαρξη
+    en: existence
+    en-ca: existence
+    en-gb: existence
+    eo: ekzisto
+    es: existencia
+    et: olemasolu
+    eu: existentzia
+    fa: هستی
+    fi: olemassaolo
+    fo: tilvera
+    fr: existence
+    frr: eksistens
+    ga: beithsine
+    gan: 存在
+    gcr: Ègzistans (filozofi)
+    gl: existencia
+    gsw: Existenz
+    ha: Kasancewar
+    he: קיום
+    hi: अस्तित्व
+    hr: egzistencija
+    hsb: eksistenca
+    hu: létezés
+    hy: գոյություն
+    ia: existentia
+    id: eksistensi
+    is: tilvist
+    it: esistenza
+    ja: 存在
+    jam: Egzistans
+    jbo: lo nu zasti
+    ka: ეგზისტენცია
+    kaa: barlıq
+    kab: Tilit
+    kbp: Ɛkɩzisitaɣsɩ
+    kk: болу
+    kk-cyrl: болу
+    kn: ಅಸ್ತಿತ್ವ
+    ko: 실존
+    ku-latn: hebûn
+    ky: Экзистенция
+    la: exsistentia
+    lb: Existenz
+    lld: Esistënza
+    lt: egzistencija
+    lv: eksistence
+    mg: Fisiana
+    mk: постоење
+    mni: ꯂꯩꯕ
+    ms: kewujudan
+    ms-arab: کوجودن
+    myv: Эрсема
+    nb: eksistens
+    nl: bestaan
+    nn: eksistens
+    oc: existéncia
+    pa: ਹੋਂਦ
+    pl: istnienie
+    pms: Esistensa
+    pt: existência
+    pt-br: existência
+    ro: existență
+    ru: существование
+    sh: egzistencija
+    sk: existencia
+    sl: eksistenca
+    sq: ekzistencë
+    sr: постојање
+    sv: existens
+    sw: Maisha
+    ta: இருத்தல்
+    tg: ҳастӣ
+    th: การดำรงอยู่
+    tl: Pag-iral
+    tok: lon
+    tr: varoluş
+    tt: яшәү
+    tt-cyrl: яшәү
+    uk: існування
+    ur: وجود
+    uz: Mavjudlik
+    vec: esistensa
+    vi: sự tồn tại
+    wuu: 存在
+    yo: wíwà
+    yue: 存在
+    zgh: ⵜⵉⵍⵍⵉⵜ
+    zh: 存在
+    zh-cn: 存在
+    zh-hans: 存在
+    zh-hant: 存在
+    zh-hk: 存在
+    zh-mo: 存在
+    zh-my: 存在
+    zh-sg: 存在
+    zh-tw: 存在
+    zu: Ubukhona
 ---
-
 # [[Existence]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Existence,468777|WD~Existence,468777]] 

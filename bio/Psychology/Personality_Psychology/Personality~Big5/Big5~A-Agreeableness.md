@@ -1,13 +1,40 @@
 ---
 aliases:
-  - Verträglichkeit
-  - amicability
-  - agreeableness
-  - Big5~Agreeableness
+- agrableco
+- Agradável
+- agreeableness
+- agréabilité
+- amabilidad
+- amicability
+- Amicalità
+- amigałità
+- barátságosság
+- Big5~Agreeableness
+- Koostöövalmidus
+- Pajtueshmëria
+- Sovinnollisuus
+- Sprejemljivost
+- Verträglichkeit
+- vriendelijkheid
+- Vänlighet
+- Τερπνότητα
+- Кунĕлĕх
+- Покладистость
+- Привітність
+- Сарадљивост
+- נעימוּת
+- توافقپذیری
+- وفاق
+- सहमतता
+- 亲和性
+- 協調性
+- 親和度
+- 親和性
+- 우호성
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -25,12 +52,50 @@ linkTitle: Verträglichkeit
 publish: false
 publishDate: ''
 tags:
-  - Verträglichkeit
-  - excalidraw
+- Verträglichkeit
+- excalidraw
 title: Verträglichkeit
 type: private_note
+has_id_wikidata: Q380358
+dv_has_:
+  name_:
+    ar: وفاق
+    cv: Кунĕлĕх
+    de: Verträglichkeit
+    el: Τερπνότητα
+    en: agreeableness
+    eo: agrableco
+    es: amabilidad
+    et: Koostöövalmidus
+    fa: توافقپذیری
+    fi: Sovinnollisuus
+    fr: agréabilité
+    he: נעימוּת
+    hi: सहमतता
+    hu: barátságosság
+    it: Amicalità
+    ja: 協調性
+    ko: 우호성
+    nl: vriendelijkheid
+    pt: Agradável
+    ru: Покладистость
+    sl: Sprejemljivost
+    sq: Pajtueshmëria
+    sr: Сарадљивост
+    sv: Vänlighet
+    uk: Привітність
+    vec: amigałità
+    yue: 親和度
+    zh: 親和性
+    zh-cn: 亲和性
+    zh-hans: 亲和性
+    zh-hant: 親和性
+    zh-hk: 親和性
+    zh-mo: 親和性
+    zh-my: 亲和性
+    zh-sg: 亲和性
+    zh-tw: 親和性
 ---
-
 # [[Big5~A-Agreeableness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

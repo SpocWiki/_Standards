@@ -1,31 +1,132 @@
 ---
 aliases:
+- Bruņuzivis
+- Brynháfar
+- Cá da phiến
+- oklopnjače
+- pancířnatci
+- Pansarhajar
+- panserhaier
+- panssarihait
+- Pantservissen
+- placoderm
+- Placodermes
+- Placodermi
+- Placodermo
+- Placodermos
+- Placoderms
+- Plakodermi
+- Plakodermo
+- Plakodermy
+- páncélos őshalak
+- Pânserfisken
+- Ryby pancerne
+- Zirehli balıqlar
+- Zırhlı balıklar
+- Оклопни риби
+- Панцерни риби
+- Панцирні риби
+- Панцырныя рыбы
+- Плакодермы
+- בעלי שריון
+- لوحيات الأدمة
+- پلمهپوستان
+- ปลามีเกราะ
+- პლაკოდერმები
+- 板皮類
+- 盾皮魚
+- 盾皮魚綱
+- 盾皮鱼纲
+- 판피류
 has_id_wikidata: Q130932
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
-taxon_rank: "[[_Standards/WikiData/WD~class,37517]]"
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
 Commons_category: Gnathostomata
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
 taxon_name: Placodermi
 taxon_common_name:
-  - pancířnatci
-  - Πλακόδερμοι
-  - Placodermos
-  - Placodermes
-  - Panzerfisch
-  - Páncélos őshalak
-  - 板皮類
-  - 판피류
-  - Panserhaier
-  - Tarczowce
-  - Placoderme
-  - Pansarhajar
-  - Fosil balıklar
-  - Zırhlı balıklar
+- pancířnatci
+- Πλακόδερμοι
+- Placodermos
+- Placodermes
+- Panzerfisch
+- Páncélos őshalak
+- 板皮類
+- 판피류
+- Panserhaier
+- Tarczowce
+- Placoderme
+- Pansarhajar
+- Fosil balıklar
+- Zırhlı balıklar
 start_time: -430000000-01-01T00:00:00Z
 end_time: -358900000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: لوحيات الأدمة
+    ast: Placodermi
+    az: Zirehli balıqlar
+    be: Панцырныя рыбы
+    be-tarask: Панцырныя рыбы
+    bg: Панцерни риби
+    ca: placoderm
+    ceb: Placodermi
+    cs: pancířnatci
+    de: Placodermi
+    en: Placoderms
+    eo: Plakodermo
+    es: Placodermi
+    eu: Plakodermo
+    fa: پلمهپوستان
+    fi: panssarihait
+    fr: Placodermes
+    fy: Pânserfisken
+    ga: Placodermi
+    gl: Placodermos
+    he: בעלי שריון
+    hr: oklopnjače
+    hu: páncélos őshalak
+    ia: Placodermi
+    id: Placodermi
+    is: Brynháfar
+    it: Placodermi
+    ja: 板皮類
+    ka: პლაკოდერმები
+    ko: 판피류
+    la: Placodermi
+    lij: Placodermi
+    lv: Bruņuzivis
+    mk: Оклопни риби
+    ms: Placoderm
+    mul: Placodermi
+    nb: panserhaier
+    nl: Pantservissen
+    pl: Ryby pancerne
+    pt: Placodermo
+    ro: Placodermi
+    ru: Плакодермы
+    sk: Plakodermy
+    sq: Placodermi
+    sr: Plakodermi
+    sv: Pansarhajar
+    th: ปลามีเกราะ
+    tl: Placodermi
+    tr: Zırhlı balıklar
+    uk: Панцирні риби
+    vec: Placodermi
+    vi: Cá da phiến
+    war: Placodermi
+    wuu: 盾皮鱼纲
+    yue: 盾皮魚
+    zh: 盾皮魚綱
+    zh-cn: 盾皮鱼纲
+    zh-hans: 盾皮鱼纲
+    zh-hant: 盾皮魚綱
+    zh-hk: 盾皮魚綱
+    zh-sg: 盾皮鱼纲
+    zh-tw: 盾皮魚綱
 ---
-
 # [[Placoderm]] 
 
 #is_/same_as :: [[WD~Placodermi,130932]] 

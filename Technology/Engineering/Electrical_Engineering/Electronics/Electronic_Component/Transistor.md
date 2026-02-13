@@ -1,32 +1,236 @@
 ---
 aliases:
-  - Transistor
+- Chranzista
+- Smári
+- Tiraanzisterii
+- Tiān-chiⁿ-thé
+- Transista
+- Transister
+- Transistol
+- Transistor
+- Transistore
+- Transistori
+- transistoro
+- Transistrum
+- transisturi
+- Transistò
+- Transistôr
+- transistör
+- transístor
+- Transîstor
+- Tranzista
+- tranzistor
+- tranzistorius
+- tranzistors
+- Tranzistò
+- tranzisztor
+- tranzystor
+- Tranzėstuorios
+- trasraitheoir
+- Τρανζίστορ
+- транзістар
+- Транзістор
+- транзистор
+- транзыстар
+- Տրանզիստոր
+- טראנזיסטאר
+- טרנזיסטור
+- ترانزستور
+- ترانزیستور
+- ترانزیستەر
+- طرانزيسطور
+- منتقزاحم
+- ٹرانزسٹر
+- ټرانزېسټور
+- ٽرانزسٽر
+- ट्रांझिस्टर
+- ट्रान्जिस्टर
+- प्रथनक
+- ট্রানজিস্টর
+- ট্ৰানজিষ্টৰ
+- ਟਰਾਂਜਿਸਟਰ
+- திரிதடையம்
+- ట్రాన్సిస్టర్
+- ಟ್ರಾನ್ಸಿಸ್ಟರ್
+- ട്രാൻസിസ്റ്റർ
+- ට් රාන්සිස්ටර
+- ทรานซิสเตอร์
+- ທຣານຊິສເຕີ
+- ထရန်စစ်စတာ
+- ტრანზისტორი
+- ⴰⵜⵔⵓⵏⵣⵉⵙⵜⵓⵔ
+- トランジスタ
+- 晶体管
+- 晶體管
+- 電晶體
+- 트랜지스터
 has_id_wikidata: Q5339
 Commons_category: Transistors
 Dewey_Decimal_Classification:
-  - 621.381528
-  - 621.38832
+- 621.381528
+- 621.38832
 follows:
-  - '[[_Standards/WikiData/WD~gas-filled_tube,1159201]]'
-  - '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
-  - '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
+- '[[_Standards/WikiData/WD~gas-filled_tube,1159201]]'
+- '[[_Standards/WikiData/WD~semiconductor_diode,1929430]]'
+- '[[_Standards/WikiData/WD~vacuum_tube,3574371]]'
 has_part_s_: '[[_Standards/WikiData/WD~p_n_junction,176300]]'
 icon:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20NPN%20symbol.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Transistor%20PNP%20symbol.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Transistors.agr.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TRANZISTOR.html
 MeSH_tree_code: E07.305.625.714
 Nomenclature_for_Museum_Cataloging: 8832
 Stack_Exchange_tag: https://electronics.stackexchange.com/tags/transistors
 subclass_of:
-  - '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
-  - '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
+- '[[_Standards/WikiData/WD~semiconductor_device,175805]]'
+- '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
 time_of_discovery_or_invention: 1947-12-01
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_transistor,22835127]]'
 UMLS_CUI: C2713584
+dv_has_:
+  name_:
+    af: Transistor
+    an: Transistor
+    ar: ترانزستور
+    ary: طرانزيسطور
+    as: ট্ৰানজিষ্টৰ
+    ast: transistor
+    az: tranzistor
+    azb: ترانزیستور
+    ba: Транзистор
+    be: транзістар
+    be-tarask: транзыстар
+    bg: Транзистор
+    bn: ট্রানজিস্টর
+    br: transistor
+    bs: Tranzistor
+    ca: transistor
+    ce: Транзистор
+    ckb: ترانزیستەر
+    crh: Tranzistor
+    cs: tranzistor
+    cy: Transistor
+    da: transistor
+    de: Transistor
+    diq: Transistor
+    el: Τρανζίστορ
+    en: transistor
+    eo: transistoro
+    es: transistor
+    et: Transistor
+    eu: transistore
+    ext: Transistol
+    fa: ترانزیستور
+    fi: transistori
+    fr: transistor
+    frr: Transistor
+    fur: Transistôr
+    fy: Transistor
+    ga: trasraitheoir
+    gan: 晶體管
+    gcr: Transistò
+    gl: transistor
+    gsw: Transistor
+    ha: Tranzista
+    he: טרנזיסטור
+    hi: प्रथनक
+    hif: transistor
+    hr: Tranzistor
+    ht: Tranzistò
+    hu: tranzisztor
+    hy: Տրանզիստոր
+    ia: Transistor
+    id: Transistor
+    io: Transistoro
+    is: Smári
+    it: transistor
+    ja: トランジスタ
+    jam: Chranzista
+    jv: Transistor
+    ka: ტრანზისტორი
+    kaa: Tranzistor
+    kk: транзистор
+    kn: ಟ್ರಾನ್ಸಿಸ್ಟರ್
+    ko: 트랜지스터
+    ku: Transîstor
+    kw: Transistor
+    ky: транзистор
+    la: Transistrum
+    lmo: Transistor
+    lo: ທຣານຊິສເຕີ
+    lt: tranzistorius
+    lv: tranzistors
+    lzh: 電晶體
+    mag: प्रथनक
+    mk: транзистор
+    ml: ട്രാൻസിസ്റ്റർ
+    mn: Транзистор
+    mr: ट्रांझिस्टर
+    ms: Transistor
+    mt: transistor
+    my: ထရန်စစ်စတာ
+    mzn: ترانزیستور
+    nan: Tiān-chiⁿ-thé
+    nb: transistor
+    nds: Transister
+    ne: ट्रान्जिस्टर
+    new: ट्रान्जिस्टर
+    nl: transistor
+    nn: transistor
+    oc: Transistor
+    om: Tiraanzisterii
+    os: Транзистор
+    pa: ਟਰਾਂਜਿਸਟਰ
+    pl: tranzystor
+    pms: Transistor
+    pnb: ٹرانزسٹر
+    ps: ټرانزېسټور
+    pt: transístor
+    ro: tranzistor
+    ru: транзистор
+    rue: Транзістор
+    scn: transisturi
+    sco: transistor
+    sd: ٽرانزسٽر
+    sgs: Tranzėstuorios
+    sh: Tranzistor
+    si: ට් රාන්සිස්ටර
+    sk: tranzistor
+    sl: tranzistor
+    sn: Transistor
+    sq: Transistori
+    sr: транзистор
+    sr-ec: транзистор
+    sr-el: tranzistor
+    stq: Transistore
+    su: Transistor
+    sv: transistor
+    sw: Transista
+    ta: திரிதடையம்
+    tcy: ಟ್ರಾನ್ಸಿಸ್ಟರ್
+    te: ట్రాన్సిస్టర్
+    tg: Транзистор
+    th: ทรานซิสเตอร์
+    tl: Transistor
+    tr: transistör
+    tt: Tranzistor
+    udm: транзистор
+    uk: транзистор
+    ur: منتقزاحم
+    uz: Tranzistor
+    vep: Tranzistor
+    vi: transistor
+    war: Transistor
+    wuu: 晶体管
+    yi: טראנזיסטאר
+    yue: 電晶體
+    zgh: ⴰⵜⵔⵓⵏⵣⵉⵙⵜⵓⵔ
+    zh: 晶体管
+    zh-cn: 晶体管
+    zh-hant: 電晶體
+    zh-tw: 電晶體
 ---
-
 # [[Transistor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Transistor,5339|WD~Transistor,5339]] 

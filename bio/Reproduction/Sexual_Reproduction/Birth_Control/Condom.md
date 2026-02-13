@@ -1,28 +1,110 @@
 ---
-aliases: 
+aliases:
+- Agakingirizo
+- Bao cao su
+- Capote inglesse
+- coiscín
+- Condom
+- condoom
+- Goldon
+- Guldòun
+- ilo awen pi palisa unpa
+- impunti
+- Kapot
+- Kapoti
+- Kapëttchen
+- Kapɔ́ti
+- Kondoi
+- kondom
+- kondomi
+- kondomo
+- Kondomu
+- kondoom
+- Kwararon roba
+- Kọ́ndọ̀mù
+- Olik
+- Panlalaking kondom
+- pitahotcikan
+- Praeservativum
+- preservatiu
+- preservativo
+- Preservativu
+- preservum
+- prezervatif
+- Prezervativ
+- Prezervativi
+- Prezervatyvas
+- prezervatív
+- prezervatīvs
+- prezerwatywa
+- Prisirvativu
+- profilattico
+- préservatif
+- Sak-khuh
+- sarung getah
+- Smokkur
+- Stevell
+- Ullu islampu
+- óvszer
+- προφυλακτικό
+- Кондом
+- презерватив
+- прэзерватыў
+- Прэзэрватыў
+- Рифола
+- Үрпекқап
+- Պահպանակ
+- קאנדאם
+- קונדום
+- الواقى الذكرى
+- عازل ذكري
+- کاندوم
+- کانډوم
+- کنڈوم
+- کۆندۆم
+- कन्डम
+- कौंडम
+- निरोध
+- কণ্ডম
+- কনডম
+- ਕੰਡੋਮ
+- નિરોધ
+- କଣ୍ଡୋମ
+- ஆணுறை
+- తొడుగు
+- ഗർഭനിരോധന ഉറ
+- කොන්ඩම්
+- ถุงยางอนามัย
+- སྲུང་ཤུབས།
+- ကွန် ဒုံး
+- პრეზერვატივი
+- ᱠᱚᱱᱰᱳᱢ
+- コンドーム
+- 避孕套
+- 콘돔
 has_id_wikidata: Q14076
 made_from_material:
-  - "[[_Standards/WikiData/WD~natural_rubber,131877]]"
-  - "[[_Standards/WikiData/WD~polyurethane,146322]]"
-  - "[[_Standards/WikiData/WD~latex,244680]]"
-  - "[[_Standards/WikiData/WD~synthetic_rubber,6714735]]"
+- '[[_Standards/WikiData/WD~natural_rubber,131877]]'
+- '[[_Standards/WikiData/WD~polyurethane,146322]]'
+- '[[_Standards/WikiData/WD~latex,244680]]'
+- '[[_Standards/WikiData/WD~synthetic_rubber,6714735]]'
 has_use:
-  - "[[_Standards/WikiData/WD~safe_sex,318529]]"
-  - "[[_Standards/WikiData/WD~barrier_contraception,13582224]]"
-  - "[[_Standards/WikiData/WD~prevention_of_sexually_transmitted_diseases,54806757]]"
-subclass_of: "[[_Standards/WikiData/WD~male_contraceptive,949861]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Condoms,7646546]]"
+- '[[_Standards/WikiData/WD~safe_sex,318529]]'
+- '[[_Standards/WikiData/WD~barrier_contraception,13582224]]'
+- '[[_Standards/WikiData/WD~prevention_of_sexually_transmitted_diseases,54806757]]'
+subclass_of: '[[_Standards/WikiData/WD~male_contraceptive,949861]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Condoms,7646546]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
-  - "[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]"
-worn_on: "[[_Standards/WikiData/WD~penis,58]]"
-subject_has_role: "[[_Standards/WikiData/WD~essential_medicine,35456]]"
-Nomenclature_for_Museum_Cataloging: "3151"
-OmegaWiki_Defined_Meaning: "7682"
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
+worn_on: '[[_Standards/WikiData/WD~penis,58]]'
+subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+Nomenclature_for_Museum_Cataloging: 3151
+OmegaWiki_Defined_Meaning: 7682
 IMDb_keyword: condom
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kondom.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3D-Modell%20Kondom%2020220528.stl
@@ -30,8 +112,141 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/A%20male%20demonstrate
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20Condom%20%28spoken%20by%20AI%20voice%29.mp3
 Commons_category: Condoms
 MeSH_tree_code: E07.190.270.150
+dv_has_:
+  name_:
+    af: kondoom
+    ar: عازل ذكري
+    arz: الواقى الذكرى
+    as: কণ্ডম
+    ast: Preservativu
+    atj: pitahotcikan
+    ay: impunti
+    az: Prezervativ
+    azb: کاندوم
+    ba: презерватив
+    bar: Kondom
+    bcl: Kondom
+    be: прэзерватыў
+    be-tarask: Прэзэрватыў
+    bg: Презерватив
+    bho: कौंडम
+    bn: কনডম
+    bo: སྲུང་ཤུབས།
+    br: Stevell
+    ca: preservatiu
+    ckb: کۆندۆم
+    cs: kondom
+    cy: condom
+    da: kondom
+    dag: Condom
+    de: Kondom
+    diq: Prezervativ
+    el: προφυλακτικό
+    eml: Guldòun
+    en: condom
+    en-ca: Condom
+    en-gb: condom
+    eo: kondomo
+    es: preservativo
+    et: Kondoom
+    eu: Kondoi
+    fa: کاندوم
+    fi: kondomi
+    fr: préservatif
+    fy: kondoom
+    ga: coiscín
+    gl: Preservativo
+    gpe: condom
+    gsw: Kondom
+    gu: નિરોધ
+    ha: Kwararon roba
+    he: קונדום
+    hi: निरोध
+    hr: Prezervativ
+    ht: Kapot
+    hu: óvszer
+    hy: Պահպանակ
+    ia: Preservativo
+    id: kondom
+    ie: Condom
+    ig: Condom
+    io: kondomo
+    is: Smokkur
+    it: profilattico
+    ja: コンドーム
+    jv: kondom
+    ka: პრეზერვატივი
+    kaa: prezervativ
+    kg: Kapoti
+    kk: Үрпекқап
+    ko: 콘돔
+    ksh: Kondom
+    ku: Kondom
+    kw: kondom
+    la: Praeservativum
+    lb: Kapëttchen
+    lfn: condom
+    lmo: Goldon
+    ln: Kapɔ́ti
+    lt: Prezervatyvas
+    lv: prezervatīvs
+    lzh: 避孕套
+    mk: презерватив
+    ml: ഗർഭനിരോധന ഉറ
+    mr: निरोध
+    ms: sarung getah
+    my: ကွန် ဒုံး
+    mzn: کاندوم
+    nan: Sak-khuh
+    nb: kondom
+    ne: कन्डम
+    nl: condoom
+    nn: kondom
+    or: କଣ୍ଡୋମ
+    pa: ਕੰਡੋਮ
+    pl: prezerwatywa
+    ps: کانډوم
+    pt: preservativo
+    pt-br: Preservativo
+    qu: Ullu islampu
+    ro: prezervativ
+    ru: презерватив
+    rw: Agakingirizo
+    sat: ᱠᱚᱱᱰᱳᱢ
+    scn: Prisirvativu
+    sco: condom
+    sh: Kondom
+    si: කොන්ඩම්
+    sk: prezervatív
+    sl: kondom
+    sq: Prezervativi
+    sr: Кондом
+    su: kondom
+    sv: kondom
+    sw: Kondomu
+    szl: Olik
+    ta: ஆணுறை
+    te: తొడుగు
+    tg: Рифола
+    th: ถุงยางอนามัย
+    tl: Panlalaking kondom
+    tok: ilo awen pi palisa unpa
+    tr: prezervatif
+    uk: презерватив
+    ur: کنڈوم
+    uz: Prezervativ
+    vi: Bao cao su
+    vo: preservum
+    wa: Capote inglesse
+    war: Kondom
+    wuu: 避孕套
+    xmf: პრეზერვატივი
+    yi: קאנדאם
+    yo: Kọ́ndọ̀mù
+    yue: 避孕套
+    zh: 避孕套
+    zh-cn: 避孕套
 ---
-
 # [[Condom]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Condom,14076|WD~Condom,14076]] 

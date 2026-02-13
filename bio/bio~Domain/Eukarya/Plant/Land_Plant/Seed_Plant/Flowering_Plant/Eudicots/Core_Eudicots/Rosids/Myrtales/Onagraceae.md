@@ -1,11 +1,132 @@
 ---
 aliases:
-  - willowherb
-  - evening primrose
-  - Onagraceae
+- dunörtsväxter
+- Enoteracoj
+- evening primrose
+- Eyrarrósarætt
+- horsmakasvit
+- Họ Anh thảo chiều
+- ligetszépefélék
+- mjølkefamilien
+- Nachtkerzengewächse
+- Naktssveču dzimta
+- Nakvišiniai
+- Natlys-familien
+- njuolâsšadoh
+- Onagraceae
+- Onagracee
+- onagràcies
+- Onaqrakimilər
+- pajulillelised
+- pupalkovité
+- Pupoljkovke
+- Rěpnicowe rostliny
+- teunisbloemfamilie
+- wiesiołkowate
+- willowherb
+- Yawarch'unqa yura rikch'aq ayllu
+- Войтун йишвлӓ
+- върболикови
+- Кипрейные
+- кырлыганчалар
+- Күреңоттар тұқымдасы
+- ноќничиња
+- Онагрові
+- Скрыпнёвыя
+- ապուզանազգիներ
+- נר-הלילה
+- أخدريات
+- اخدريه
+- گلمغربیان
+- ഒനാഗ്രേസി
+- วงศ์พญารากดำ
+- アカバナ科
+- 柳叶菜科
+- 柳葉菜科
+- 바늘꽃과
 title: Onagraceae
+has_id_wikidata: Q156179
+dv_has_:
+  name_:
+    an: Onagraceae
+    ar: أخدريات
+    arz: اخدريه
+    ast: Onagraceae
+    az: Onaqrakimilər
+    be: Скрыпнёвыя
+    be-tarask: Скрыпнёвыя
+    bg: върболикови
+    bs: Onagraceae
+    ca: onagràcies
+    ceb: Onagraceae
+    cs: pupalkovité
+    da: Natlys-familien
+    de: Nachtkerzengewächse
+    en: Onagraceae
+    eo: Enoteracoj
+    es: Onagraceae
+    et: pajulillelised
+    eu: Onagraceae
+    ext: Onagraceae
+    fa: گلمغربیان
+    fi: horsmakasvit
+    fr: Onagraceae
+    frr: Onagraceae
+    fy: Onagraceae
+    ga: Onagraceae
+    gl: Onagraceae
+    he: נר-הלילה
+    hr: Pupoljkovke
+    hsb: Rěpnicowe rostliny
+    hu: ligetszépefélék
+    hy: ապուզանազգիներ
+    ia: Onagraceae
+    id: Onagraceae
+    ie: Onagraceae
+    io: Onagraceae
+    is: Eyrarrósarætt
+    it: Onagraceae
+    ja: アカバナ科
+    kk: Күреңоттар тұқымдасы
+    ko: 바늘꽃과
+    la: Onagraceae
+    lt: Nakvišiniai
+    lv: Naktssveču dzimta
+    mk: ноќничиња
+    ml: ഒനാഗ്രേസി
+    mrj: Войтун йишвлӓ
+    mul: Onagraceae
+    nb: mjølkefamilien
+    nl: teunisbloemfamilie
+    nn: mjølkefamilien
+    oc: Onagraceae
+    pl: wiesiołkowate
+    pt: Onagraceae
+    pt-br: Onagraceae
+    qu: Yawarch'unqa yura rikch'aq ayllu
+    ro: Onagracee
+    ru: Кипрейные
+    sh: Onagraceae
+    sk: pupalkovité
+    sma: Onagraceae
+    smn: njuolâsšadoh
+    sq: Onagraceae
+    sv: dunörtsväxter
+    th: วงศ์พญารากดำ
+    tr: Onagraceae
+    tt: кырлыганчалар
+    uk: Онагрові
+    vi: Họ Anh thảo chiều
+    vo: Onagraceae
+    war: Onagraceae
+    zh: 柳叶菜科
+    zh-cn: 柳叶菜科
+    zh-hans: 柳叶菜科
+    zh-hant: 柳葉菜科
+    zh-hk: 柳葉菜科
+    zh-sg: 柳叶菜科
+    zh-tw: 柳葉菜科
 ---
-
 # [[Onagraceae]] 
 
 ## #has_/text_of_/abstract 

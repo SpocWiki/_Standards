@@ -1,23 +1,143 @@
 ---
 aliases:
-  - Kabarett
-  - Cabaret
+- Cabaret
+- cabarettheater
+- Cabaré
+- ceabairé
+- Kabare
+- kabaredo
+- Kabaree
+- kabaret
+- Kabaretas
+- Kabareto
+- Kabarett
+- kabarèt
+- kabaré
+- kabarē
+- Kleinkunstbühne
+- Taverna
+- Καμπαρέ
+- кабаре
+- кабарэ
+- Կաբարե
+- קברט
+- كباريه
+- کاباره
+- کابەرێی
+- کیبرے
+- ক্যাবারে
+- ਕੈਬਰੇ
+- കാബറെ
+- คาบาเรต์
+- კაბარე
+- キャバレー
+- 卡巴莱
+- 卡巴萊
+- 歌舞表演
+- 카바레
 has_id_wikidata: Q131183
 subclass_of:
-  - '[[_Standards/WikiData/WD~tavern,154250]]'
-  - '[[_Standards/WikiData/WD~event_venue,18674739]]'
+- '[[_Standards/WikiData/WD~tavern,154250]]'
+- '[[_Standards/WikiData/WD~event_venue,18674739]]'
 has_part_s_: '[[_Standards/WikiData/WD~cabaret_performer,15214752]]'
 different_from:
-  - '[[_Standards/WikiData/WD~cabaret,27976507]]'
-  - '[[_Standards/WikiData/WD~Q125962796,125962796]]'
+- '[[_Standards/WikiData/WD~cabaret,27976507]]'
+- '[[_Standards/WikiData/WD~Q125962796,125962796]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Commons_gallery: Cabaret
 Commons_category: Cabaret
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Caf%C3%A9%20des%20aveugles.jpg
 Iconclass_notation: 48A726
 official_name: cabaret
+dv_has_:
+  name_:
+    ar: كباريه
+    arz: كباريه
+    ast: Cabaré
+    az: Kabare
+    bar: Kabarett
+    be: кабарэ
+    be-tarask: кабарэ
+    bg: Кабаре
+    bn: ক্যাবারে
+    br: Kabarett
+    ca: cabaret
+    ckb: کابەرێی
+    cs: kabaret
+    cy: Cabaret
+    da: kabaret
+    de: Cabaret
+    de-at: Kleinkunstbühne
+    de-ch: Kabarett
+    el: Καμπαρέ
+    en: cabaret
+    en-ca: Cabaret
+    en-gb: cabaret
+    eo: kabaredo
+    es: cabaret
+    et: Kabaree
+    eu: Kabaret
+    fa: کاباره
+    fi: kabaree
+    fr: cabaret
+    fy: Kabaret
+    ga: ceabairé
+    gl: Cabaré
+    he: קברט
+    hr: Kabaret
+    hu: kabaré
+    hy: Կաբարե
+    id: Kabaret
+    io: Kabareto
+    it: cabaret
+    ja: キャバレー
+    ka: კაბარე
+    kk: Кабаре
+    ko: 카바레
+    la: Cabaret
+    lmo: Cabaret
+    lt: Kabaretas
+    lv: kabarē
+    mk: Кабаре
+    ml: കാബറെ
+    ms: Kabaret
+    mzn: کاباره
+    nb: kabaret
+    nl: cabarettheater
+    nn: kabaret
+    pa: ਕੈਬਰੇ
+    pap: kabarèt
+    pap-aw: cabaret
+    pcd: Cabaret
+    pl: kabaret
+    pt: cabaré
+    pt-br: Cabaré
+    ro: cabaret
+    ru: кабаре
+    sc: Cabaret
+    scn: Taverna
+    sh: kabare
+    sk: Kabaret
+    sl: kabaret
+    sr: кабаре
+    sr-ec: Кабаре
+    sr-el: Kabare
+    sv: kabaré
+    th: คาบาเรต์
+    tr: Kabare
+    uk: кабаре
+    ur: کیبرے
+    vi: cabaret
+    wuu: 卡巴莱
+    yue: 歌舞表演
+    zh: 卡巴萊
+    zh-cn: 卡巴莱
+    zh-hans: 卡巴莱
+    zh-hant: 卡巴萊
+    zh-hk: 卡巴萊
+    zh-sg: 卡巴莱
+    zh-tw: 卡巴萊
 ---
-
 # [[Cabaret]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cabaret,131183|WD~Cabaret,131183]] 

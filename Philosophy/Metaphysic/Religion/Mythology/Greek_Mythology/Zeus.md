@@ -1,337 +1,525 @@
 ---
 aliases:
-  - Ζεύς
-  - Zeus
+- Dzeusas
+- Seifur
+- Seus
+- Séas
+- Zeosy
+- Zeu
+- Zeus
+- Zeusi
+- Zeusz
+- Zevs
+- Zews
+- Zeyis
+- Zeŭso
+- Zus
+- Zèus
+- Zéus
+- Żews
+- Δίας
+- Ζεύς
+- Зеўс
+- Зевс
+- Зэўс
+- Զեւս
+- Զևս
+- זאוס
+- זעאוס
+- زئوس
+- زيوس
+- زیوس
+- زیووس
+- زیٛوٗس
+- ज़िअस
+- ज़्यूस
+- जिउस
+- झ्यूस
+- জিউস
+- জ্যুচ
+- ਜ਼ਿਊਸ
+- சூசு
+- സ്യൂസ്
+- සියුස්
+- ซูส
+- ཀྲོའུ་སི།
+- ဇုစ်နတ်မင်းကြီး
+- ზევსი
+- ゼウス
+- 宙斯
+- ꯖ꯭ꯌꯨꯁ
+- 제우스
 has_id_wikidata: Q34201
 domain_of_saint_or_deity:
-  - '[[_Standards/WikiData/WD~thunder,83301]]'
-  - '[[_Standards/WikiData/WD~lightning,33741]]'
+- '[[_Standards/WikiData/WD~thunder,83301]]'
+- '[[_Standards/WikiData/WD~lightning,33741]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Gaia,93172]]'
-  - '[[_Standards/WikiData/WD~Mnemosyne,102884]]'
-  - '[[_Standards/WikiData/WD~Leto,103107]]'
-  - '[[_Standards/WikiData/WD~Calliope,103975]]'
-  - '[[_Standards/WikiData/WD~Taygete,112001]]'
-  - '[[_Standards/WikiData/WD~Selene,131585]]'
-  - '[[_Standards/WikiData/WD~Europa,165170]]'
-  - '[[_Standards/WikiData/WD~Eos,178417]]'
-  - '[[_Standards/WikiData/WD~Io,179014]]'
-  - '[[_Standards/WikiData/WD~Leda,182019]]'
-  - '[[_Standards/WikiData/WD~Echidna,185670]]'
-  - '[[_Standards/WikiData/WD~Nemesis,185747]]'
-  - '[[_Standards/WikiData/WD~Alkmene,190543]]'
-  - '[[_Standards/WikiData/WD~Danaë,190582]]'
-  - '[[_Standards/WikiData/WD~Dione,199923]]'
-  - '[[_Standards/WikiData/WD~Lamia,200073]]'
-  - '[[_Standards/WikiData/WD~Callisto,203673]]'
-  - '[[_Standards/WikiData/WD~Maia,205233]]'
-  - '[[_Standards/WikiData/WD~Aegina,321298]]'
-  - '[[_Standards/WikiData/WD~Antiope,461439]]'
-  - '[[_Standards/WikiData/WD~Eurynome,548099]]'
-  - '[[_Standards/WikiData/WD~Pyrrha,622809]]'
-  - '[[_Standards/WikiData/WD~Aetna,634575]]'
-  - '[[_Standards/WikiData/WD~Plouto,662968]]'
-  - '[[_Standards/WikiData/WD~Doris,726279]]'
-  - '[[_Standards/WikiData/WD~Himalia,764777]]'
-  - '[[_Standards/WikiData/WD~Semele,776139]]'
-  - '[[_Standards/WikiData/WD~Electra,858663]]'
-  - '[[_Standards/WikiData/WD~Chaldene,1059487]]'
-  - '[[_Standards/WikiData/WD~Niobe,1072573]]'
-  - '[[_Standards/WikiData/WD~Elara,1133495]]'
-  - '[[_Standards/WikiData/WD~Isonoe,1237345]]'
-  - '[[_Standards/WikiData/WD~Nysa,1242355]]'
-  - '[[_Standards/WikiData/WD~Thyia,1388093]]'
-  - '[[_Standards/WikiData/WD~Protogeneia,1572248]]'
-  - '[[_Standards/WikiData/WD~Laodamia,1601938]]'
-  - '[[_Standards/WikiData/WD~Hora,1627823]]'
-  - '[[_Standards/WikiData/WD~Calyce,1722781]]'
-  - '[[_Standards/WikiData/WD~Carme,1734053]]'
-  - '[[_Standards/WikiData/WD~Maera,2002158]]'
-  - '[[_Standards/WikiData/WD~Pluto,2099776]]'
-  - '[[_Standards/WikiData/WD~Clymene,2344103]]'
-  - '[[_Standards/WikiData/WD~Podarge,2723576]]'
-  - '[[_Standards/WikiData/WD~Pandora,3085116]]'
-  - '[[_Standards/WikiData/WD~Thalia,3086495]]'
-  - '[[_Standards/WikiData/WD~Othreis,3357642]]'
-  - '[[_Standards/WikiData/WD~Iodame,4202635]]'
-  - '[[_Standards/WikiData/WD~Aega,4687519]]'
-  - '[[_Standards/WikiData/WD~Eurydome,5414012]]'
-  - '[[_Standards/WikiData/WD~Plataea,6078094]]'
-  - '[[_Standards/WikiData/WD~Thrace,7797097]]'
-  - '[[_Standards/WikiData/WD~Cabye,12878717]]'
-  - '[[_Standards/WikiData/WD~Dia,18470264]]'
-  - '[[_Standards/WikiData/WD~Cassiopeia,18481886]]'
-  - '[[_Standards/WikiData/WD~Helice,20100712]]'
-  - '[[_Standards/WikiData/WD~Anaxithea,21548593]]'
-  - '[[_Standards/WikiData/WD~Lamia,22906256]]'
-  - '[[_Standards/WikiData/WD~Phthia,25486480]]'
-  - '[[_Standards/WikiData/WD~Asterope,28563696]]'
-  - '[[_Standards/WikiData/WD~Eurymedusa,29464889]]'
-  - '[[_Standards/WikiData/WD~unnamed_daughter_of_Borysthenes,57245646]]'
-  - '[[_Standards/WikiData/WD~Contumelia,58619667]]'
-  - '[[_Standards/WikiData/WD~Coryphe,58818193]]'
-  - '[[_Standards/WikiData/WD~Crete,58852764]]'
-  - '[[_Standards/WikiData/WD~Cyrno,59221658]]'
-  - '[[_Standards/WikiData/WD~Eurynome,61046103]]'
-  - '[[_Standards/WikiData/WD~Phoenissa,106808293]]'
-  - '[[_Standards/WikiData/WD~Aphrodite,35500]]'
-  - '[[_Standards/WikiData/WD~Demeter,40730]]'
-  - '[[_Standards/WikiData/WD~Persephone,45967]]'
+- '[[_Standards/WikiData/WD~Gaia,93172]]'
+- '[[_Standards/WikiData/WD~Mnemosyne,102884]]'
+- '[[_Standards/WikiData/WD~Leto,103107]]'
+- '[[_Standards/WikiData/WD~Calliope,103975]]'
+- '[[_Standards/WikiData/WD~Taygete,112001]]'
+- '[[_Standards/WikiData/WD~Selene,131585]]'
+- '[[_Standards/WikiData/WD~Europa,165170]]'
+- '[[_Standards/WikiData/WD~Eos,178417]]'
+- '[[_Standards/WikiData/WD~Io,179014]]'
+- '[[_Standards/WikiData/WD~Leda,182019]]'
+- '[[_Standards/WikiData/WD~Echidna,185670]]'
+- '[[_Standards/WikiData/WD~Nemesis,185747]]'
+- '[[_Standards/WikiData/WD~Alkmene,190543]]'
+- '[[_Standards/WikiData/WD~Danaë,190582]]'
+- '[[_Standards/WikiData/WD~Dione,199923]]'
+- '[[_Standards/WikiData/WD~Lamia,200073]]'
+- '[[_Standards/WikiData/WD~Callisto,203673]]'
+- '[[_Standards/WikiData/WD~Maia,205233]]'
+- '[[_Standards/WikiData/WD~Aegina,321298]]'
+- '[[_Standards/WikiData/WD~Antiope,461439]]'
+- '[[_Standards/WikiData/WD~Eurynome,548099]]'
+- '[[_Standards/WikiData/WD~Pyrrha,622809]]'
+- '[[_Standards/WikiData/WD~Aetna,634575]]'
+- '[[_Standards/WikiData/WD~Plouto,662968]]'
+- '[[_Standards/WikiData/WD~Doris,726279]]'
+- '[[_Standards/WikiData/WD~Himalia,764777]]'
+- '[[_Standards/WikiData/WD~Semele,776139]]'
+- '[[_Standards/WikiData/WD~Electra,858663]]'
+- '[[_Standards/WikiData/WD~Chaldene,1059487]]'
+- '[[_Standards/WikiData/WD~Niobe,1072573]]'
+- '[[_Standards/WikiData/WD~Elara,1133495]]'
+- '[[_Standards/WikiData/WD~Isonoe,1237345]]'
+- '[[_Standards/WikiData/WD~Nysa,1242355]]'
+- '[[_Standards/WikiData/WD~Thyia,1388093]]'
+- '[[_Standards/WikiData/WD~Protogeneia,1572248]]'
+- '[[_Standards/WikiData/WD~Laodamia,1601938]]'
+- '[[_Standards/WikiData/WD~Hora,1627823]]'
+- '[[_Standards/WikiData/WD~Calyce,1722781]]'
+- '[[_Standards/WikiData/WD~Carme,1734053]]'
+- '[[_Standards/WikiData/WD~Maera,2002158]]'
+- '[[_Standards/WikiData/WD~Pluto,2099776]]'
+- '[[_Standards/WikiData/WD~Clymene,2344103]]'
+- '[[_Standards/WikiData/WD~Podarge,2723576]]'
+- '[[_Standards/WikiData/WD~Pandora,3085116]]'
+- '[[_Standards/WikiData/WD~Thalia,3086495]]'
+- '[[_Standards/WikiData/WD~Othreis,3357642]]'
+- '[[_Standards/WikiData/WD~Iodame,4202635]]'
+- '[[_Standards/WikiData/WD~Aega,4687519]]'
+- '[[_Standards/WikiData/WD~Eurydome,5414012]]'
+- '[[_Standards/WikiData/WD~Plataea,6078094]]'
+- '[[_Standards/WikiData/WD~Thrace,7797097]]'
+- '[[_Standards/WikiData/WD~Cabye,12878717]]'
+- '[[_Standards/WikiData/WD~Dia,18470264]]'
+- '[[_Standards/WikiData/WD~Cassiopeia,18481886]]'
+- '[[_Standards/WikiData/WD~Helice,20100712]]'
+- '[[_Standards/WikiData/WD~Anaxithea,21548593]]'
+- '[[_Standards/WikiData/WD~Lamia,22906256]]'
+- '[[_Standards/WikiData/WD~Phthia,25486480]]'
+- '[[_Standards/WikiData/WD~Asterope,28563696]]'
+- '[[_Standards/WikiData/WD~Eurymedusa,29464889]]'
+- '[[_Standards/WikiData/WD~unnamed_daughter_of_Borysthenes,57245646]]'
+- '[[_Standards/WikiData/WD~Contumelia,58619667]]'
+- '[[_Standards/WikiData/WD~Coryphe,58818193]]'
+- '[[_Standards/WikiData/WD~Crete,58852764]]'
+- '[[_Standards/WikiData/WD~Cyrno,59221658]]'
+- '[[_Standards/WikiData/WD~Eurynome,61046103]]'
+- '[[_Standards/WikiData/WD~Phoenissa,106808293]]'
+- '[[_Standards/WikiData/WD~Aphrodite,35500]]'
+- '[[_Standards/WikiData/WD~Demeter,40730]]'
+- '[[_Standards/WikiData/WD~Persephone,45967]]'
 child:
-  - '[[_Standards/WikiData/WD~Eileithyia,94066]]'
-  - '[[_Standards/WikiData/WD~Mnemosyne,102884]]'
-  - '[[_Standards/WikiData/WD~Clio,103968]]'
-  - '[[_Standards/WikiData/WD~Calliope,103975]]'
-  - '[[_Standards/WikiData/WD~Melpomene,103992]]'
-  - '[[_Standards/WikiData/WD~Urania,104002]]'
-  - '[[_Standards/WikiData/WD~Euterpe,104012]]'
-  - '[[_Standards/WikiData/WD~Terpsichore,104042]]'
-  - '[[_Standards/WikiData/WD~Erato,104413]]'
-  - '[[_Standards/WikiData/WD~Polyhymnia,104425]]'
-  - '[[_Standards/WikiData/WD~Thalia,108019]]'
-  - '[[_Standards/WikiData/WD~Heracles,122248]]'
-  - '[[_Standards/WikiData/WD~Perseus,130832]]'
-  - '[[_Standards/WikiData/WD~Hebe,131125]]'
-  - '[[_Standards/WikiData/WD~Hecate,131575]]'
-  - '[[_Standards/WikiData/WD~Pan,132582]]'
-  - '[[_Standards/WikiData/WD~Eris,140001]]'
-  - '[[_Standards/WikiData/WD~Zagreus,140406]]'
-  - '[[_Standards/WikiData/WD~Helen_of_Troy,164061]]'
-  - '[[_Standards/WikiData/WD~Hesperides,165938]]'
-  - '[[_Standards/WikiData/WD~Aoide,176283]]'
-  - '[[_Standards/WikiData/WD~Ersa,180325]]'
-  - '[[_Standards/WikiData/WD~Tantalus,182101]]'
-  - '[[_Standards/WikiData/WD~Charites,184353]]'
-  - '[[_Standards/WikiData/WD~Castor_and_Pollux,190103]]'
-  - '[[_Standards/WikiData/WD~Rhadamanthus,193609]]'
-  - '[[_Standards/WikiData/WD~Zethos,196865]]'
-  - '[[_Standards/WikiData/WD~Horae,201411]]'
-  - '[[_Standards/WikiData/WD~Aeacus,206187]]'
-  - '[[_Standards/WikiData/WD~Atë,210871]]'
-  - '[[_Standards/WikiData/WD~Tyche,213440]]'
-  - '[[_Standards/WikiData/WD~Eirene,214987]]'
-  - '[[_Standards/WikiData/WD~Amphion,242835]]'
-  - '[[_Standards/WikiData/WD~Endymion,272047]]'
-  - '[[_Standards/WikiData/WD~Hellen,336428]]'
-  - '[[_Standards/WikiData/WD~Aethlius,381931]]'
-  - '[[_Standards/WikiData/WD~Dardanus,461212]]'
-  - '[[_Standards/WikiData/WD~Dike,465875]]'
-  - '[[_Standards/WikiData/WD~Pirithous,502156]]'
-  - '[[_Standards/WikiData/WD~Melete,505207]]'
-  - '[[_Standards/WikiData/WD~Libyan_Sibyl,587457]]'
-  - '[[_Standards/WikiData/WD~Palici,591622]]'
-  - '[[_Standards/WikiData/WD~Arcas,606422]]'
-  - '[[_Standards/WikiData/WD~Achaeus,607170]]'
-  - '[[_Standards/WikiData/WD~Myrtilus,615912]]'
-  - '[[_Standards/WikiData/WD~Asopus,622781]]'
-  - '[[_Standards/WikiData/WD~Korybantes,631406]]'
-  - '[[_Standards/WikiData/WD~Argus,649476]]'
-  - '[[_Standards/WikiData/WD~Tityos,656887]]'
-  - '[[_Standards/WikiData/WD~Epaphus,675699]]'
-  - '[[_Standards/WikiData/WD~Carpo,676834]]'
-  - '[[_Standards/WikiData/WD~Arche,684590]]'
-  - '[[_Standards/WikiData/WD~Euphrosyne,689422]]'
-  - '[[_Standards/WikiData/WD~Mneme,690388]]'
-  - '[[_Standards/WikiData/WD~Astraea,742680]]'
-  - '[[_Standards/WikiData/WD~Enyo,747657]]'
-  - '[[_Standards/WikiData/WD~Atropos,753294]]'
-  - '[[_Standards/WikiData/WD~Sarpedon,762520]]'
-  - '[[_Standards/WikiData/WD~Auxo,789715]]'
-  - '[[_Standards/WikiData/WD~Clotho,829669]]'
-  - '[[_Standards/WikiData/WD~Britomartis,831577]]'
-  - '[[_Standards/WikiData/WD~Iasion,849438]]'
-  - '[[_Standards/WikiData/WD~Lachesis,898947]]'
-  - '[[_Standards/WikiData/WD~Sarpedon,917719]]'
-  - '[[_Standards/WikiData/WD~Eunomia,920416]]'
-  - '[[_Standards/WikiData/WD~Harmonia,978079]]'
-  - '[[_Standards/WikiData/WD~Lacedaemon,1065774]]'
-  - '[[_Standards/WikiData/WD~Pandia,1073827]]'
-  - '[[_Standards/WikiData/WD~Scamander,1134694]]'
-  - '[[_Standards/WikiData/WD~Pasithea,1235379]]'
-  - '[[_Standards/WikiData/WD~Thallo,1245211]]'
-  - '[[_Standards/WikiData/WD~Thalia,1260484]]'
-  - '[[_Standards/WikiData/WD~Aletheia,1317994]]'
-  - '[[_Standards/WikiData/WD~Geraestus,1509780]]'
-  - '[[_Standards/WikiData/WD~Pelasgus,1636827]]'
-  - '[[_Standards/WikiData/WD~Colaxes,1663351]]'
-  - '[[_Standards/WikiData/WD~Magnes_son_of_Aeolus,1884324]]'
-  - '[[_Standards/WikiData/WD~Megaros,1917132]]'
-  - '[[_Standards/WikiData/WD~Meliteus,1919421]]'
-  - '[[_Standards/WikiData/WD~Nemea,1977078]]'
-  - '[[_Standards/WikiData/WD~Arcesius,2294502]]'
-  - '[[_Standards/WikiData/WD~Targitaus,2361827]]'
-  - '[[_Standards/WikiData/WD~Myrmidon,2445677]]'
-  - '[[_Standards/WikiData/WD~Manes,2631851]]'
-  - '[[_Standards/WikiData/WD~Litae,2705874]]'
-  - '[[_Standards/WikiData/WD~Ceroessa,2723170]]'
-  - '[[_Standards/WikiData/WD~Corythus,2753233]]'
-  - '[[_Standards/WikiData/WD~Angelos,2849878]]'
-  - '[[_Standards/WikiData/WD~Caerus,2991388]]'
-  - '[[_Standards/WikiData/WD~Makedon,3043953]]'
-  - '[[_Standards/WikiData/WD~Aegipan,3088918]]'
-  - '[[_Standards/WikiData/WD~Melinoe,3178796]]'
-  - '[[_Standards/WikiData/WD~Latinus,3218512]]'
-  - '[[_Standards/WikiData/WD~Graecus,3303321]]'
-  - '[[_Standards/WikiData/WD~Thelxinoë,3523555]]'
-  - '[[_Standards/WikiData/WD~Car,3658525]]'
-  - '[[_Standards/WikiData/WD~Opus,3884191]]'
-  - '[[_Standards/WikiData/WD~Basileia,4078991]]'
-  - '[[_Standards/WikiData/WD~Aglaea,4439972]]'
-  - '[[_Standards/WikiData/WD~Bura,4998063]]'
-  - '[[_Standards/WikiData/WD~Carius,5039725]]'
-  - '[[_Standards/WikiData/WD~Chrysus,5115016]]'
-  - '[[_Standards/WikiData/WD~Cres,5184296]]'
-  - '[[_Standards/WikiData/WD~Crinacus,5185729]]'
-  - '[[_Standards/WikiData/WD~Cytus,6411764]]'
-  - '[[_Standards/WikiData/WD~Solymus,7559062]]'
-  - '[[_Standards/WikiData/WD~Taenarus,7674863]]'
-  - '[[_Standards/WikiData/WD~Balius,9164605]]'
-  - '[[_Standards/WikiData/WD~Acme,9581080]]'
-  - '[[_Standards/WikiData/WD~Themides,10385917]]'
-  - '[[_Standards/WikiData/WD~Acragas,10404083]]'
-  - '[[_Standards/WikiData/WD~Iardanus,11710892]]'
-  - '[[_Standards/WikiData/WD~Locrus,11762480]]'
-  - '[[_Standards/WikiData/WD~Pollux,12046224]]'
-  - '[[_Standards/WikiData/WD~Alagonia,12873353]]'
-  - '[[_Standards/WikiData/WD~Ogygias,15837391]]'
-  - '[[_Standards/WikiData/WD~Dodon,16191019]]'
-  - '[[_Standards/WikiData/WD~Olenus,16328302]]'
-  - '[[_Standards/WikiData/WD~Calligeneia,16329811]]'
-  - '[[_Standards/WikiData/WD~Adrasteia,16737262]]'
-  - '[[_Standards/WikiData/WD~Emathion,16939289]]'
-  - '[[_Standards/WikiData/WD~Arctus,20021007]]'
-  - '[[_Standards/WikiData/WD~Eetion,20190414]]'
-  - '[[_Standards/WikiData/WD~Acheilus,21547790]]'
-  - '[[_Standards/WikiData/WD~Aetae,21548017]]'
-  - '[[_Standards/WikiData/WD~Xanthus,21560612]]'
-  - '[[_Standards/WikiData/WD~Atymnius,22965389]]'
-  - '[[_Standards/WikiData/WD~Aegle,26276980]]'
-  - '[[_Standards/WikiData/WD~Bithynus,29165739]]'
-  - '[[_Standards/WikiData/WD~Dysis,42325304]]'
-  - '[[_Standards/WikiData/WD~Orchomenus,47456662]]'
-  - '[[_Standards/WikiData/WD~Arcesilaus,55413484]]'
-  - '[[_Standards/WikiData/WD~Carnus,56703482]]'
-  - '[[_Standards/WikiData/WD~Cronius,58919198]]'
-  - '[[_Standards/WikiData/WD~Cyrnus,59221715]]'
-  - '[[_Standards/WikiData/WD~Damocrateia,59551326]]'
-  - '[[_Standards/WikiData/WD~Dodone,60180121]]'
-  - '[[_Standards/WikiData/WD~Ellops,60320570]]'
-  - '[[_Standards/WikiData/WD~Ethalion,60633511]]'
-  - '[[_Standards/WikiData/WD~Eubuleus,60686327]]'
-  - '[[_Standards/WikiData/WD~Gargarus,61673683]]'
-  - '[[_Standards/WikiData/WD~Spartaeus,106091023]]'
-  - '[[_Standards/WikiData/WD~Opus_II,111210877]]'
-  - '[[_Standards/WikiData/WD~Hydarnis,120629586]]'
-  - '[[_Standards/WikiData/WD~Thebe,122901236]]'
-  - '[[_Standards/WikiData/WD~Aegesthius,128900636]]'
-  - '[[_Standards/WikiData/WD~Minos,23168]]'
-  - '[[_Standards/WikiData/WD~Corinthos,31256]]'
-  - '[[_Standards/WikiData/WD~Aphrodite,35500]]'
-  - '[[_Standards/WikiData/WD~Athena,37122]]'
-  - '[[_Standards/WikiData/WD~Apollo,37340]]'
-  - '[[_Standards/WikiData/WD~Artemis,39503]]'
-  - '[[_Standards/WikiData/WD~Ares,40901]]'
-  - '[[_Standards/WikiData/WD~Hermes,41484]]'
-  - '[[_Standards/WikiData/WD~Dionysus,41680]]'
-  - '[[_Standards/WikiData/WD~Hephaestus,44384]]'
-  - '[[_Standards/WikiData/WD~Persephone,45967]]'
+- '[[_Standards/WikiData/WD~Eileithyia,94066]]'
+- '[[_Standards/WikiData/WD~Mnemosyne,102884]]'
+- '[[_Standards/WikiData/WD~Clio,103968]]'
+- '[[_Standards/WikiData/WD~Calliope,103975]]'
+- '[[_Standards/WikiData/WD~Melpomene,103992]]'
+- '[[_Standards/WikiData/WD~Urania,104002]]'
+- '[[_Standards/WikiData/WD~Euterpe,104012]]'
+- '[[_Standards/WikiData/WD~Terpsichore,104042]]'
+- '[[_Standards/WikiData/WD~Erato,104413]]'
+- '[[_Standards/WikiData/WD~Polyhymnia,104425]]'
+- '[[_Standards/WikiData/WD~Thalia,108019]]'
+- '[[_Standards/WikiData/WD~Heracles,122248]]'
+- '[[_Standards/WikiData/WD~Perseus,130832]]'
+- '[[_Standards/WikiData/WD~Hebe,131125]]'
+- '[[_Standards/WikiData/WD~Hecate,131575]]'
+- '[[_Standards/WikiData/WD~Pan,132582]]'
+- '[[_Standards/WikiData/WD~Eris,140001]]'
+- '[[_Standards/WikiData/WD~Zagreus,140406]]'
+- '[[_Standards/WikiData/WD~Helen_of_Troy,164061]]'
+- '[[_Standards/WikiData/WD~Hesperides,165938]]'
+- '[[_Standards/WikiData/WD~Aoide,176283]]'
+- '[[_Standards/WikiData/WD~Ersa,180325]]'
+- '[[_Standards/WikiData/WD~Tantalus,182101]]'
+- '[[_Standards/WikiData/WD~Charites,184353]]'
+- '[[_Standards/WikiData/WD~Castor_and_Pollux,190103]]'
+- '[[_Standards/WikiData/WD~Rhadamanthus,193609]]'
+- '[[_Standards/WikiData/WD~Zethos,196865]]'
+- '[[_Standards/WikiData/WD~Horae,201411]]'
+- '[[_Standards/WikiData/WD~Aeacus,206187]]'
+- '[[_Standards/WikiData/WD~Atë,210871]]'
+- '[[_Standards/WikiData/WD~Tyche,213440]]'
+- '[[_Standards/WikiData/WD~Eirene,214987]]'
+- '[[_Standards/WikiData/WD~Amphion,242835]]'
+- '[[_Standards/WikiData/WD~Endymion,272047]]'
+- '[[_Standards/WikiData/WD~Hellen,336428]]'
+- '[[_Standards/WikiData/WD~Aethlius,381931]]'
+- '[[_Standards/WikiData/WD~Dardanus,461212]]'
+- '[[_Standards/WikiData/WD~Dike,465875]]'
+- '[[_Standards/WikiData/WD~Pirithous,502156]]'
+- '[[_Standards/WikiData/WD~Melete,505207]]'
+- '[[_Standards/WikiData/WD~Libyan_Sibyl,587457]]'
+- '[[_Standards/WikiData/WD~Palici,591622]]'
+- '[[_Standards/WikiData/WD~Arcas,606422]]'
+- '[[_Standards/WikiData/WD~Achaeus,607170]]'
+- '[[_Standards/WikiData/WD~Myrtilus,615912]]'
+- '[[_Standards/WikiData/WD~Asopus,622781]]'
+- '[[_Standards/WikiData/WD~Korybantes,631406]]'
+- '[[_Standards/WikiData/WD~Argus,649476]]'
+- '[[_Standards/WikiData/WD~Tityos,656887]]'
+- '[[_Standards/WikiData/WD~Epaphus,675699]]'
+- '[[_Standards/WikiData/WD~Carpo,676834]]'
+- '[[_Standards/WikiData/WD~Arche,684590]]'
+- '[[_Standards/WikiData/WD~Euphrosyne,689422]]'
+- '[[_Standards/WikiData/WD~Mneme,690388]]'
+- '[[_Standards/WikiData/WD~Astraea,742680]]'
+- '[[_Standards/WikiData/WD~Enyo,747657]]'
+- '[[_Standards/WikiData/WD~Atropos,753294]]'
+- '[[_Standards/WikiData/WD~Sarpedon,762520]]'
+- '[[_Standards/WikiData/WD~Auxo,789715]]'
+- '[[_Standards/WikiData/WD~Clotho,829669]]'
+- '[[_Standards/WikiData/WD~Britomartis,831577]]'
+- '[[_Standards/WikiData/WD~Iasion,849438]]'
+- '[[_Standards/WikiData/WD~Lachesis,898947]]'
+- '[[_Standards/WikiData/WD~Sarpedon,917719]]'
+- '[[_Standards/WikiData/WD~Eunomia,920416]]'
+- '[[_Standards/WikiData/WD~Harmonia,978079]]'
+- '[[_Standards/WikiData/WD~Lacedaemon,1065774]]'
+- '[[_Standards/WikiData/WD~Pandia,1073827]]'
+- '[[_Standards/WikiData/WD~Scamander,1134694]]'
+- '[[_Standards/WikiData/WD~Pasithea,1235379]]'
+- '[[_Standards/WikiData/WD~Thallo,1245211]]'
+- '[[_Standards/WikiData/WD~Thalia,1260484]]'
+- '[[_Standards/WikiData/WD~Aletheia,1317994]]'
+- '[[_Standards/WikiData/WD~Geraestus,1509780]]'
+- '[[_Standards/WikiData/WD~Pelasgus,1636827]]'
+- '[[_Standards/WikiData/WD~Colaxes,1663351]]'
+- '[[_Standards/WikiData/WD~Magnes_son_of_Aeolus,1884324]]'
+- '[[_Standards/WikiData/WD~Megaros,1917132]]'
+- '[[_Standards/WikiData/WD~Meliteus,1919421]]'
+- '[[_Standards/WikiData/WD~Nemea,1977078]]'
+- '[[_Standards/WikiData/WD~Arcesius,2294502]]'
+- '[[_Standards/WikiData/WD~Targitaus,2361827]]'
+- '[[_Standards/WikiData/WD~Myrmidon,2445677]]'
+- '[[_Standards/WikiData/WD~Manes,2631851]]'
+- '[[_Standards/WikiData/WD~Litae,2705874]]'
+- '[[_Standards/WikiData/WD~Ceroessa,2723170]]'
+- '[[_Standards/WikiData/WD~Corythus,2753233]]'
+- '[[_Standards/WikiData/WD~Angelos,2849878]]'
+- '[[_Standards/WikiData/WD~Caerus,2991388]]'
+- '[[_Standards/WikiData/WD~Makedon,3043953]]'
+- '[[_Standards/WikiData/WD~Aegipan,3088918]]'
+- '[[_Standards/WikiData/WD~Melinoe,3178796]]'
+- '[[_Standards/WikiData/WD~Latinus,3218512]]'
+- '[[_Standards/WikiData/WD~Graecus,3303321]]'
+- '[[_Standards/WikiData/WD~Thelxinoë,3523555]]'
+- '[[_Standards/WikiData/WD~Car,3658525]]'
+- '[[_Standards/WikiData/WD~Opus,3884191]]'
+- '[[_Standards/WikiData/WD~Basileia,4078991]]'
+- '[[_Standards/WikiData/WD~Aglaea,4439972]]'
+- '[[_Standards/WikiData/WD~Bura,4998063]]'
+- '[[_Standards/WikiData/WD~Carius,5039725]]'
+- '[[_Standards/WikiData/WD~Chrysus,5115016]]'
+- '[[_Standards/WikiData/WD~Cres,5184296]]'
+- '[[_Standards/WikiData/WD~Crinacus,5185729]]'
+- '[[_Standards/WikiData/WD~Cytus,6411764]]'
+- '[[_Standards/WikiData/WD~Solymus,7559062]]'
+- '[[_Standards/WikiData/WD~Taenarus,7674863]]'
+- '[[_Standards/WikiData/WD~Balius,9164605]]'
+- '[[_Standards/WikiData/WD~Acme,9581080]]'
+- '[[_Standards/WikiData/WD~Themides,10385917]]'
+- '[[_Standards/WikiData/WD~Acragas,10404083]]'
+- '[[_Standards/WikiData/WD~Iardanus,11710892]]'
+- '[[_Standards/WikiData/WD~Locrus,11762480]]'
+- '[[_Standards/WikiData/WD~Pollux,12046224]]'
+- '[[_Standards/WikiData/WD~Alagonia,12873353]]'
+- '[[_Standards/WikiData/WD~Ogygias,15837391]]'
+- '[[_Standards/WikiData/WD~Dodon,16191019]]'
+- '[[_Standards/WikiData/WD~Olenus,16328302]]'
+- '[[_Standards/WikiData/WD~Calligeneia,16329811]]'
+- '[[_Standards/WikiData/WD~Adrasteia,16737262]]'
+- '[[_Standards/WikiData/WD~Emathion,16939289]]'
+- '[[_Standards/WikiData/WD~Arctus,20021007]]'
+- '[[_Standards/WikiData/WD~Eetion,20190414]]'
+- '[[_Standards/WikiData/WD~Acheilus,21547790]]'
+- '[[_Standards/WikiData/WD~Aetae,21548017]]'
+- '[[_Standards/WikiData/WD~Xanthus,21560612]]'
+- '[[_Standards/WikiData/WD~Atymnius,22965389]]'
+- '[[_Standards/WikiData/WD~Aegle,26276980]]'
+- '[[_Standards/WikiData/WD~Bithynus,29165739]]'
+- '[[_Standards/WikiData/WD~Dysis,42325304]]'
+- '[[_Standards/WikiData/WD~Orchomenus,47456662]]'
+- '[[_Standards/WikiData/WD~Arcesilaus,55413484]]'
+- '[[_Standards/WikiData/WD~Carnus,56703482]]'
+- '[[_Standards/WikiData/WD~Cronius,58919198]]'
+- '[[_Standards/WikiData/WD~Cyrnus,59221715]]'
+- '[[_Standards/WikiData/WD~Damocrateia,59551326]]'
+- '[[_Standards/WikiData/WD~Dodone,60180121]]'
+- '[[_Standards/WikiData/WD~Ellops,60320570]]'
+- '[[_Standards/WikiData/WD~Ethalion,60633511]]'
+- '[[_Standards/WikiData/WD~Eubuleus,60686327]]'
+- '[[_Standards/WikiData/WD~Gargarus,61673683]]'
+- '[[_Standards/WikiData/WD~Spartaeus,106091023]]'
+- '[[_Standards/WikiData/WD~Opus_II,111210877]]'
+- '[[_Standards/WikiData/WD~Hydarnis,120629586]]'
+- '[[_Standards/WikiData/WD~Thebe,122901236]]'
+- '[[_Standards/WikiData/WD~Aegesthius,128900636]]'
+- '[[_Standards/WikiData/WD~Minos,23168]]'
+- '[[_Standards/WikiData/WD~Corinthos,31256]]'
+- '[[_Standards/WikiData/WD~Aphrodite,35500]]'
+- '[[_Standards/WikiData/WD~Athena,37122]]'
+- '[[_Standards/WikiData/WD~Apollo,37340]]'
+- '[[_Standards/WikiData/WD~Artemis,39503]]'
+- '[[_Standards/WikiData/WD~Ares,40901]]'
+- '[[_Standards/WikiData/WD~Hermes,41484]]'
+- '[[_Standards/WikiData/WD~Dionysus,41680]]'
+- '[[_Standards/WikiData/WD~Hephaestus,44384]]'
+- '[[_Standards/WikiData/WD~Persephone,45967]]'
 part_of: '[[_Standards/WikiData/WD~Twelve_Olympians,101609]]'
 mother: '[[_Standards/WikiData/WD~Rhea,108419]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Themis,159168]]'
-  - '[[_Standards/WikiData/WD~Metis,190565]]'
-  - '[[_Standards/WikiData/WD~Hera,38012]]'
+- '[[_Standards/WikiData/WD~Themis,159168]]'
+- '[[_Standards/WikiData/WD~Metis,190565]]'
+- '[[_Standards/WikiData/WD~Hera,38012]]'
 appears_in_the_form_of:
-  - '[[_Standards/WikiData/WD~satyr,163709]]'
-  - '[[_Standards/WikiData/WD~Amphitryon,206214]]'
-  - '[[_Standards/WikiData/WD~bull,693690]]'
-  - '[[_Standards/WikiData/WD~eagle,2092297]]'
-  - '[[_Standards/WikiData/WD~cuckoo,2998680]]'
-  - '[[_Standards/WikiData/WD~ant,115705859]]'
-  - '[[_Standards/WikiData/WD~snake,2102]]'
-  - '[[_Standards/WikiData/WD~fire,3196]]'
-  - '[[_Standards/WikiData/WD~rain,7925]]'
-  - '[[_Standards/WikiData/WD~swan,34384]]'
-  - '[[_Standards/WikiData/WD~Artemis,39503]]'
+- '[[_Standards/WikiData/WD~satyr,163709]]'
+- '[[_Standards/WikiData/WD~Amphitryon,206214]]'
+- '[[_Standards/WikiData/WD~bull,693690]]'
+- '[[_Standards/WikiData/WD~eagle,2092297]]'
+- '[[_Standards/WikiData/WD~cuckoo,2998680]]'
+- '[[_Standards/WikiData/WD~ant,115705859]]'
+- '[[_Standards/WikiData/WD~snake,2102]]'
+- '[[_Standards/WikiData/WD~fire,3196]]'
+- '[[_Standards/WikiData/WD~rain,7925]]'
+- '[[_Standards/WikiData/WD~swan,34384]]'
+- '[[_Standards/WikiData/WD~Artemis,39503]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Ahura_Mazda,179575]]'
-  - '[[_Standards/WikiData/WD~Perun,206561]]'
-  - '[[_Standards/WikiData/WD~Baal,590467]]'
-  - '[[_Standards/WikiData/WD~Idaeus,19946374]]'
-  - '[[_Standards/WikiData/WD~Jupiter,4649]]'
-  - '[[_Standards/WikiData/WD~Thor,42952]]'
-  - '[[_Standards/WikiData/WD~Amun,58373]]'
+- '[[_Standards/WikiData/WD~Ahura_Mazda,179575]]'
+- '[[_Standards/WikiData/WD~Perun,206561]]'
+- '[[_Standards/WikiData/WD~Baal,590467]]'
+- '[[_Standards/WikiData/WD~Idaeus,19946374]]'
+- '[[_Standards/WikiData/WD~Jupiter,4649]]'
+- '[[_Standards/WikiData/WD~Thor,42952]]'
+- '[[_Standards/WikiData/WD~Amun,58373]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Chiron,183417]]'
-  - '[[_Standards/WikiData/WD~Hera,38012]]'
-  - '[[_Standards/WikiData/WD~Demeter,40730]]'
-  - '[[_Standards/WikiData/WD~Poseidon,41127]]'
-  - '[[_Standards/WikiData/WD~Hades,41410]]'
-  - '[[_Standards/WikiData/WD~Hestia,41419]]'
+- '[[_Standards/WikiData/WD~Chiron,183417]]'
+- '[[_Standards/WikiData/WD~Hera,38012]]'
+- '[[_Standards/WikiData/WD~Demeter,40730]]'
+- '[[_Standards/WikiData/WD~Poseidon,41127]]'
+- '[[_Standards/WikiData/WD~Hades,41410]]'
+- '[[_Standards/WikiData/WD~Hestia,41419]]'
 different_from: '[[_Standards/WikiData/WD~Zeus,354151]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~thunder_deity,842697]]'
-  - '[[_Standards/WikiData/WD~King_of_the_Gods,1589492]]'
-  - '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
-  - '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
+- '[[_Standards/WikiData/WD~thunder_deity,842697]]'
+- '[[_Standards/WikiData/WD~King_of_the_Gods,1589492]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
+- '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
 worshipped_by:
-  - '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
-  - '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
+- '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 iconographic_symbol:
-  - '[[_Standards/WikiData/WD~mythological_bull,1427313]]'
-  - '[[_Standards/WikiData/WD~eagle,2092297]]'
-  - '[[_Standards/WikiData/WD~thunderbolt,2794866]]'
-  - '[[_Standards/WikiData/WD~oak,33036816]]'
+- '[[_Standards/WikiData/WD~mythological_bull,1427313]]'
+- '[[_Standards/WikiData/WD~eagle,2092297]]'
+- '[[_Standards/WikiData/WD~thunderbolt,2794866]]'
+- '[[_Standards/WikiData/WD~oak,33036816]]'
 epithet:
-  - '[[_Standards/WikiData/WD~Meilichius,1637673]]'
-  - '[[_Standards/WikiData/WD~Soter,2303797]]'
-  - '[[_Standards/WikiData/WD~Hercius,103020456]]'
-  - '[[_Standards/WikiData/WD~Lycaeus_(epithet),106301499]]'
-  - '[[_Standards/WikiData/WD~Eleutherios,106542644]]'
-  - '[[_Standards/WikiData/WD~Karpophoros,107349831]]'
+- '[[_Standards/WikiData/WD~Meilichius,1637673]]'
+- '[[_Standards/WikiData/WD~Soter,2303797]]'
+- '[[_Standards/WikiData/WD~Hercius,103020456]]'
+- '[[_Standards/WikiData/WD~Lycaeus_(epithet),106301499]]'
+- '[[_Standards/WikiData/WD~Eleutherios,106542644]]'
+- '[[_Standards/WikiData/WD~Karpophoros,107349831]]'
 derivative_work:
-  - '[[_Standards/WikiData/WD~Zeus,3575323]]'
-  - '[[_Standards/WikiData/WD~Zeus,3575329]]'
-  - '[[_Standards/WikiData/WD~Zuras,3576299]]'
-  - '[[_Standards/WikiData/WD~Zeus,8069806]]'
+- '[[_Standards/WikiData/WD~Zeus,3575323]]'
+- '[[_Standards/WikiData/WD~Zeus,3575329]]'
+- '[[_Standards/WikiData/WD~Zuras,3576299]]'
+- '[[_Standards/WikiData/WD~Zeus,8069806]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 present_in_work:
-  - '[[_Standards/WikiData/WD~Hades,59756366]]'
-  - '[[_Standards/WikiData/WD~Iliad,8275]]'
-  - '[[_Standards/WikiData/WD~Odyssey,35160]]'
+- '[[_Standards/WikiData/WD~Hades,59756366]]'
+- '[[_Standards/WikiData/WD~Iliad,8275]]'
+- '[[_Standards/WikiData/WD~Odyssey,35160]]'
 official_residence: '[[_Standards/WikiData/WD~Olympus,70054479]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Zeus_statue_in_Sicyonian_treasury,_Olympia,107043626]]'
-  - '[[_Standards/WikiData/WD~Zeus_statue_at_Megara,107043638]]'
-  - '[[_Standards/WikiData/WD~Zeus_and_Ganymede_group,131579686]]'
-  - '[[_Standards/WikiData/WD~Zeus_kisses_Ganymede,131579687]]'
-  - '[[_Standards/WikiData/WD~Zeus_Altemps,131579685]]'
-  - '[[_Standards/WikiData/WD~Zeus_seducing_Olympias,131579688]]'
-  - '[[_Standards/WikiData/WD~Statue_of_Zeus_Enthroned,131674387]]'
-  - '[[_Standards/WikiData/WD~Relief_of_Ganymede_and_the_eagle,131753987]]'
-  - '[[_Standards/WikiData/WD~Colossal_head_of_Zeus,132166186]]'
+- '[[_Standards/WikiData/WD~Zeus_statue_in_Sicyonian_treasury,_Olympia,107043626]]'
+- '[[_Standards/WikiData/WD~Zeus_statue_at_Megara,107043638]]'
+- '[[_Standards/WikiData/WD~Zeus_and_Ganymede_group,131579686]]'
+- '[[_Standards/WikiData/WD~Zeus_kisses_Ganymede,131579687]]'
+- '[[_Standards/WikiData/WD~Zeus_Altemps,131579685]]'
+- '[[_Standards/WikiData/WD~Zeus_seducing_Olympias,131579688]]'
+- '[[_Standards/WikiData/WD~Statue_of_Zeus_Enthroned,131674387]]'
+- '[[_Standards/WikiData/WD~Relief_of_Ganymede_and_the_eagle,131753987]]'
+- '[[_Standards/WikiData/WD~Colossal_head_of_Zeus,132166186]]'
 father: '[[_Standards/WikiData/WD~Cronus,44204]]'
 OmegaWiki_Defined_Meaning: 877590
 Commons_category: Zeus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20J1a.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Millars-Zeus.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-Ionenlaser-%CE%94%CE%AF%CE%B1%CF%82.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1321%20%28spa%29-Millars-Zeus.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-Ionenlaser-%CE%94%CE%AF%CE%B1%CF%82.wav
 Libris_URI: fcrtt5bz208v8qt
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ZEVS_YUPITER.html
 native_label: Ζεύς
 name_in_native_language: Ζεύς
+dv_has_:
+  name_:
+    ab: Зевс
+    af: Zeus
+    an: Zeus
+    ar: زيوس
+    ary: زيوس
+    arz: زيوس
+    as: জ্যুচ
+    ast: Zeus
+    az: Zevs
+    azb: زئوس
+    ba: Зевс
+    ban: Zéus
+    bar: Zeus
+    be: Зеўс
+    be-tarask: Зэўс
+    bg: Зевс
+    bho: ज़िअस
+    bn: জিউস
+    bo: ཀྲོའུ་སི།
+    br: Zeus
+    bs: Zeus
+    ca: Zeus
+    ckb: زیووس
+    cs: Zeus
+    csb: Zeus
+    cv: зевс
+    cy: Zews
+    da: Zeus
+    de: Zeus
+    diq: Zeus
+    el: Δίας
+    en: Zeus
+    eo: Zeŭso
+    es: Zeus
+    et: Zeus
+    eu: Zeus
+    ext: Zeus
+    fa: زئوس
+    fi: Zeus
+    fo: Zeus
+    fr: Zeus
+    fy: Seus
+    ga: Séas
+    gl: Zeus
+    grc: Ζεύς
+    gsw: Zeus
+    guw: Zeus
+    he: זאוס
+    hi: ज़्यूस
+    hr: Zeus
+    ht: Zeyis
+    hu: Zeusz
+    hy: Զևս
+    hyw: Զեւս
+    ia: Zeus
+    id: Zeus
+    ie: Zeus
+    io: Zeus
+    is: Seifur
+    it: Zeus
+    ja: ゼウス
+    jv: Zeus
+    ka: ზევსი
+    kaa: Zevs
+    kk: Зевс
+    ko: 제우스
+    ks: زیٛوٗس
+    ku: Zeus
+    ku-latn: Zeus
+    ky: Зевс
+    la: Zeus
+    lb: Zeus
+    lfn: Zeus
+    lij: Zeus
+    lmo: Zeus
+    lt: Dzeusas
+    lv: Zevs
+    lzh: 宙斯
+    mg: Zeosy
+    mk: Зевс
+    ml: സ്യൂസ്
+    mn: Зевс
+    mni: ꯖ꯭ꯌꯨꯁ
+    mr: झ्यूस
+    ms: Zeus
+    mt: Żews
+    my: ဇုစ်နတ်မင်းကြီး
+    mzn: زئوس
+    nan: Zeus
+    nb: Zevs
+    nds: Zeus
+    ne: जिउस
+    new: जिउस
+    nl: Zeus
+    nn: Zevs
+    oc: Zèus
+    os: Зевс
+    pa: ਜ਼ਿਊਸ
+    pl: Zeus
+    ps: زیوس
+    pt: Zeus
+    ro: Zeus
+    ru: Зевс
+    sah: Зевс
+    sc: Zeus
+    scn: Zeus
+    sco: Zeus
+    sh: Zeus
+    shi: Zus
+    si: සියුස්
+    sk: Zeus
+    sl: Zevs
+    sq: Zeusi
+    sr: Зевс
+    sv: Zeus
+    sw: Zeu
+    szl: Zeus
+    ta: சூசு
+    tg: Зевс
+    th: ซูส
+    tk: Zeus
+    tl: Zeus
+    tr: Zeus
+    tt: Zevs
+    uk: Зевс
+    ur: زیوس
+    uz: Zevs
+    vep: Zevs
+    vi: Zeus
+    vls: Zeus
+    war: Zeus
+    wuu: 宙斯
+    xmf: ზევსი
+    yi: זעאוס
+    yo: Zeus
+    yue: 宙斯
+    zh: 宙斯
+    zh-hant: 宙斯
+    zh-hk: 宙斯
+    zh-tw: 宙斯
 ---
-
 # [[Zeus]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Zeus,34201|WD~Zeus,34201]] 

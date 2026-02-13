@@ -1,93 +1,116 @@
 ---
 aliases:
-  - Joseph Anton Bruckner
-  - Anton Bruckner
-  - Bruckner
-  - Anton_Bruckner
-  - Bruckner,Anton
+- Anton Bruckner
+- Antonius Bruckner
+- Antons Brukners
+- Anton_Bruckner
+- Bruckner
+- Bruckner,Anton
+- Josef Anton Bruckner
+- Joseph Anton Bruckner
+- Άντον Μπρούκνερ
+- Антон Брукнер
+- Антон Брукнэр
+- Брукнер, Антон
+- Անտոն Բրուքներ
+- אנטון ברוקנר
+- آنتون بروکنر
+- أنطون بروكنر
+- انتون بروكنر
+- आंतोन ब्रुकनर
+- जोसेफ एन्टोन ब्रुकनर
+- ਐਂਟੋਨ ਬਰੁਕਨਰ
+- ஆன்டன் புரூக்னர்
+- อันโทน บรุคเนอร์
+- ანტონ ბრუკნერი
+- アントン・ブルックナー
+- 安东·布鲁克纳
+- 安東・布魯克納
+- 布魯克納
+- 안톤 브루크너
 has_id_wikidata: Q81752
 student:
-  - '[[_Standards/WikiData/WD~Alexander_von_Zemlinsky,78524]]'
-  - '[[_Standards/WikiData/WD~Émile_Jaques_Dalcroze,286062]]'
-  - '[[_Standards/WikiData/WD~Franz_Schmidt,434601]]'
-  - '[[_Standards/WikiData/WD~Károly_Aggházy,516349]]'
-  - '[[_Standards/WikiData/WD~Vladimir_de_Pachmann,674861]]'
+- '[[_Standards/WikiData/WD~Alexander_von_Zemlinsky,78524]]'
+- '[[_Standards/WikiData/WD~Émile_Jaques_Dalcroze,286062]]'
+- '[[_Standards/WikiData/WD~Franz_Schmidt,434601]]'
+- '[[_Standards/WikiData/WD~Károly_Aggházy,516349]]'
+- '[[_Standards/WikiData/WD~Vladimir_de_Pachmann,674861]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
-  - '[[_Standards/WikiData/WD~Cisleithania,533534]]'
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Symphony_No._1,163524]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._2,210483]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._3,223510]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._4,231162]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._5,240200]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._6,246450]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._7,260988]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._8,270798]]'
-  - '[[_Standards/WikiData/WD~Symphony_No._9,275815]]'
-  - '[[_Standards/WikiData/WD~Helgoland,324459]]'
-  - '[[_Standards/WikiData/WD~Te_Deum,1387966]]'
-  - '[[_Standards/WikiData/WD~Study_Symphony,1831363]]'
-  - '[[_Standards/WikiData/WD~Symphony_in_D_minor,1990679]]'
+- '[[_Standards/WikiData/WD~Symphony_No._1,163524]]'
+- '[[_Standards/WikiData/WD~Symphony_No._2,210483]]'
+- '[[_Standards/WikiData/WD~Symphony_No._3,223510]]'
+- '[[_Standards/WikiData/WD~Symphony_No._4,231162]]'
+- '[[_Standards/WikiData/WD~Symphony_No._5,240200]]'
+- '[[_Standards/WikiData/WD~Symphony_No._6,246450]]'
+- '[[_Standards/WikiData/WD~Symphony_No._7,260988]]'
+- '[[_Standards/WikiData/WD~Symphony_No._8,270798]]'
+- '[[_Standards/WikiData/WD~Symphony_No._9,275815]]'
+- '[[_Standards/WikiData/WD~Helgoland,324459]]'
+- '[[_Standards/WikiData/WD~Te_Deum,1387966]]'
+- '[[_Standards/WikiData/WD~Study_Symphony,1831363]]'
+- '[[_Standards/WikiData/WD~Symphony_in_D_minor,1990679]]'
 employer:
-  - '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
-  - '[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]'
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]'
 field_of_work: '[[_Standards/WikiData/WD~performing_arts,184485]]'
 place_of_birth: '[[_Standards/WikiData/WD~Ansfelden,257130]]'
 list_of_works:
-  - '[[_Standards/WikiData/WD~list_of_compositions_by_Anton_Bruckner,264345]]'
-  - '[[_Standards/WikiData/WD~Werkverzeichnis_Anton_Bruckner,105605621]]'
+- '[[_Standards/WikiData/WD~list_of_compositions_by_Anton_Bruckner,264345]]'
+- '[[_Standards/WikiData/WD~Werkverzeichnis_Anton_Bruckner,105605621]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Austrian_National_Library,304037]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Simon_Sechter,582713]]'
-  - '[[_Standards/WikiData/WD~Otto_Kitzler,2039537]]'
-  - '[[_Standards/WikiData/WD~Leopold_von_Zenetti,3229812]]'
+- '[[_Standards/WikiData/WD~Simon_Sechter,582713]]'
+- '[[_Standards/WikiData/WD~Otto_Kitzler,2039537]]'
+- '[[_Standards/WikiData/WD~Leopold_von_Zenetti,3229812]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Biographisches_Lexikon_des_Landes_Österreich_ob_der_Enns,104717708]]'
-  - '[[_Standards/WikiData/WD~Von_den_Stillen_im_Lande,106508314]]'
-  - '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~A_Dictionary_of_Music_and_Musicians,_1900,16011749]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Biographisches_Lexikon_des_Landes_Österreich_ob_der_Enns,104717708]]'
+- '[[_Standards/WikiData/WD~Von_den_Stillen_im_Lande,106508314]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Music_and_Performing_Arts_Vienna,686522]]'
 occupation:
-  - '[[_Standards/WikiData/WD~organist,765778]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~musicologist,14915627]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~music_educator,16145150]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~organist,765778]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~musicologist,14915627]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~music_educator,16145150]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
 residence:
-  - "[[_Standards/WikiData/WD~St._Florian's_Priory,877136]]"
-  - '[[_Standards/WikiData/WD~Vienna,1741]]'
+- "[[_Standards/WikiData/WD~St._Florian's_Priory,877136]]"
+- '[[_Standards/WikiData/WD~Vienna,1741]]'
 given_name: '[[_Standards/WikiData/WD~Anton,5401576]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Bruckner,16860578]]'
 member_of: '[[_Standards/WikiData/WD~Katholische_Österreichische_Studentenverbindung_Austria_Wien,22691226]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Knight's_Cross_of_the_Order_of_Franz_Joseph,28609677]]"
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636]]'
+- "[[_Standards/WikiData/WD~Knight's_Cross_of_the_Order_of_Franz_Joseph,28609677]]"
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Vienna,34476636]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 date_of_death: 1896-10-11T00:00:00Z
 instrument:
-  - '[[_Standards/WikiData/WD~organ,1444]]'
-  - '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~organ,1444]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
 influenced_by: '[[_Standards/WikiData/WD~Richard_Wagner,1511]]'
 place_of_death: '[[_Standards/WikiData/WD~Vienna,1741]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
 genre:
-  - '[[_Standards/WikiData/WD~classical_music,9730]]'
-  - '[[_Standards/WikiData/WD~symphony,9734]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~symphony,9734]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 Libris_URI: 31fhb7pm4gbmls9
@@ -106,8 +129,94 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signatur%20Anton%2
 IPA_transcription: '[ˈantɔn ˈbʁʊknɐ]'
 ISNI: 0000000109078179
 IPI_name_number: 00004382514
+dv_has_:
+  name_:
+    af: Josef Anton Bruckner
+    an: Anton Bruckner
+    ar: أنطون بروكنر
+    arz: انتون بروكنر
+    ast: Anton Bruckner
+    ba: Антон Брукнер
+    be: Антон Брукнер
+    be-tarask: Антон Брукнэр
+    bg: Антон Брукнер
+    br: Anton Bruckner
+    bs: Anton Bruckner
+    ca: Anton Bruckner
+    cs: Anton Bruckner
+    cy: Anton Bruckner
+    da: Anton Bruckner
+    de: Anton Bruckner
+    diq: Anton Bruckner
+    el: Άντον Μπρούκνερ
+    en: Anton Bruckner
+    eo: Anton Bruckner
+    es: Anton Bruckner
+    et: Anton Bruckner
+    eu: Anton Bruckner
+    fa: آنتون بروکنر
+    fi: Anton Bruckner
+    fr: Anton Bruckner
+    ga: Anton Bruckner
+    gl: Anton Bruckner
+    gsw: Anton Bruckner
+    he: אנטון ברוקנר
+    hif: Anton Bruckner
+    hr: Anton Bruckner
+    hu: Anton Bruckner
+    hy: Անտոն Բրուքներ
+    id: Anton Bruckner
+    io: Anton Bruckner
+    is: Anton Bruckner
+    it: Anton Bruckner
+    ja: アントン・ブルックナー
+    ka: ანტონ ბრუკნერი
+    kk: Брукнер, Антон
+    ko: 안톤 브루크너
+    kw: Anton Bruckner
+    la: Antonius Bruckner
+    lb: Anton Bruckner
+    li: Anton Bruckner
+    lt: Anton Bruckner
+    lv: Antons Brukners
+    mg: Anton Bruckner
+    mn: Антон Брукнер
+    mr: आंतोन ब्रुकनर
+    ms: Anton Bruckner
+    mul: Anton Bruckner
+    nb: Anton Bruckner
+    nds: Anton Bruckner
+    new: जोसेफ एन्टोन ब्रुकनर
+    nl: Anton Bruckner
+    nn: Anton Bruckner
+    oc: Anton Bruckner
+    pa: ਐਂਟੋਨ ਬਰੁਕਨਰ
+    pl: Anton Bruckner
+    pt: Anton Bruckner
+    pt-br: Anton Bruckner
+    ro: Anton Bruckner
+    ru: Антон Брукнер
+    sco: Anton Bruckner
+    sgs: Anton Bruckner
+    sh: Anton Bruckner
+    sk: Anton Bruckner
+    sl: Anton Bruckner
+    sq: Anton Bruckner
+    sr: Антон Брукнер
+    sv: Anton Bruckner
+    sw: Anton Bruckner
+    ta: ஆன்டன் புரூக்னர்
+    th: อันโทน บรุคเนอร์
+    tr: Anton Bruckner
+    uk: Антон Брукнер
+    vi: Anton Bruckner
+    vo: Anton Bruckner
+    war: Anton Bruckner
+    wuu: 安东·布鲁克纳
+    yue: 布魯克納
+    zh: 安东·布鲁克纳
+    zh-hant: 安東・布魯克納
 ---
-
 # [[Bruckner,Anton]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Anton_Bruckner,81752|WD~Anton_Bruckner,81752]] 

@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Palaeopropithecidae
+- Palaeopropithecidae
+- paleopropitècids
+- Βραδύποδες λεμούριοι
+- палеопропитекови
+- Палеопропитековые
+- למורי עצלן
+- لمور تنبلی
+- スロスキツネザル
+- 古原狐猴科
 title: Palaeopropithecidae
+has_id_wikidata: Q15982606
+dv_has_:
+  name_:
+    ast: Palaeopropithecidae
+    bg: палеопропитекови
+    ca: paleopropitècids
+    ceb: Palaeopropithecidae
+    de: Palaeopropithecidae
+    el: Βραδύποδες λεμούριοι
+    en: Palaeopropithecidae
+    es: Palaeopropithecidae
+    eu: Palaeopropithecidae
+    fa: لمور تنبلی
+    fi: Palaeopropithecidae
+    fr: Palaeopropithecidae
+    ga: Palaeopropithecidae
+    he: למורי עצלן
+    ia: Palaeopropithecidae
+    it: Palaeopropithecidae
+    ja: スロスキツネザル
+    la: Palaeopropithecidae
+    mul: Palaeopropithecidae
+    nl: Palaeopropithecidae
+    pl: Palaeopropithecidae
+    pt: Palaeopropithecidae
+    ro: Palaeopropithecidae
+    ru: Палеопропитековые
+    sq: Palaeopropithecidae
+    sv: Palaeopropithecidae
+    uk: Palaeopropithecidae
+    vec: Palaeopropithecidae
+    vi: Palaeopropithecidae
+    war: Palaeopropithecidae
+    zh: 古原狐猴科
+    zh-cn: 古原狐猴科
+    zh-hans: 古原狐猴科
+    zh-tw: 古原狐猴科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

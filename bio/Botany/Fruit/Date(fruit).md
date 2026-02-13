@@ -1,44 +1,181 @@
 ---
 aliases:
-  - Dattel
-  - Date
-  - Date(fruit)
+- Antrendry (voany)
+- Curmală
+- Dabino
+- Dactylo
+- daddel
+- dadel
+- daktilo
+- Daktyle
+- Dat
+- Date
+- Date(fruit)
+- datelj
+- Datil
+- datle
+- datlid
+- datolya
+- datte
+- Dattel
+- Datter
+- dattero
+- Datula (plod)
+- datulė
+- Datľa
+- dobino
+- dàtil
+- dàtolo
+- Dàttula
+- dádel
+- dáta
+- Dáti (mbuma)
+- dátil
+- fingeræppel
+- Finik
+- Hashkʼaan dijéʼé
+- kurma
+- Kurmo
+- Pikesaniminan
+- taatel
+- taateli
+- Tamaro
+- Tiyni
+- Zōyacapolin
+- ούα
+- Χουρμάς
+- фінік
+- фінікі
+- фініки
+- финик
+- финиктар
+- Фурма
+- Хурма
+- хөрмә җимеше
+- תמרים
+- تمر
+- બોર
+- ಖರ್ಜೂರ
+- ಖರ್ಜೂರದ ಹಣ್ಣು
+- ഈന്തപ്പഴം
+- စွန်ပလွံ
+- မၵ်ႇသႅင်ႈ
+- デーツ
+- 椰枣
+- 椰棗
 has_id_wikidata: Q1652093
 different_from:
-  - '[[_Standards/WikiData/WD~Datil,200587]]'
-  - '[[_Standards/WikiData/WD~Dattel,1172705]]'
-  - '[[_Standards/WikiData/WD~Date,16997]]'
+- '[[_Standards/WikiData/WD~Datil,200587]]'
+- '[[_Standards/WikiData/WD~Dattel,1172705]]'
+- '[[_Standards/WikiData/WD~Date,16997]]'
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647]]'
-  - '[[_Standards/WikiData/WD~Q29043273,29043273]]'
-  - '[[_Standards/WikiData/WD~fruit,1364]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647]]'
+- '[[_Standards/WikiData/WD~Q29043273,29043273]]'
+- '[[_Standards/WikiData/WD~fruit,1364]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 color:
-  - '[[_Standards/WikiData/WD~yellow,943]]'
-  - '[[_Standards/WikiData/WD~brown,47071]]'
+- '[[_Standards/WikiData/WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~brown,47071]]'
 natural_product_of_taxon:
-  - '[[_Standards/WikiData/WD~Phoenix_dactylifera,25292]]'
-  - '[[_Standards/WikiData/WD~Phoenix,27685]]'
+- '[[_Standards/WikiData/WD~Phoenix_dactylifera,25292]]'
+- '[[_Standards/WikiData/WD~Phoenix,27685]]'
 carbon_footprint: 3.3
 water_footprint: 2277
 PLU_code:
-  - 4264
-  - 4263
+- 4264
+- 4263
 Commons_category: Dates
 OmegaWiki_Defined_Meaning: 1155957
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dates%20on%20date%20palm.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Dattel.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q652%20%28ita%29-Yiyi-dattero.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Dattel.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q652%20%28ita%29-Yiyi-dattero.wav
 OKPD_code_of_the_good_or_service: 01.13.21.111
 OKPD2_product_code:
-  - 01.22.13
-  - 01.22.13.000
+- 01.22.13
+- 01.22.13.000
 Common_Procurement_Vocabulary_code: 03222114
 UNII: H3O7QI5HY7
+dv_has_:
+  name_:
+    ang: fingeræppel
+    ar: تمر
+    arz: تمر
+    ast: Dátil
+    atj: Pikesaniminan
+    ba: финиктар
+    be: фінікі
+    be-tarask: фінік
+    bg: Фурма
+    ca: dàtil
+    ce: Хурма
+    cs: datle
+    da: Daddel
+    dag: dobino
+    de: Dattel
+    el: Χουρμάς
+    en: date
+    en-ca: Date
+    en-gb: date
+    eo: daktilo
+    es: dátil
+    et: datlid
+    eu: Datil
+    fi: taateli
+    fr: datte
+    ga: dáta
+    gl: Dátil
+    gu: બોર
+    ha: Dabino
+    he: תמרים
+    ht: Dat
+    hu: datolya
+    ia: Dactylo
+    id: kurma
+    it: dattero
+    ja: デーツ
+    kab: Tiyni
+    kge: Kurmo
+    kn: ಖರ್ಜೂರದ ಹಣ್ಣು
+    lb: Dattel
+    lmo: Datter
+    ln: Dáti (mbuma)
+    lt: datulė
+    mg: Antrendry (voany)
+    mhr: финик
+    min: kurma
+    ml: ഈന്തപ്പഴം
+    mos: Tamaro
+    ms: kurma
+    my: စွန်ပလွံ
+    nah: Zōyacapolin
+    nb: daddel
+    nl: dadel
+    nv: Hashkʼaan dijéʼé
+    os: финик
+    pl: Daktyle
+    pnt: ούα
+    ro: Curmală
+    ru: финик
+    scn: Dàttula
+    se: dádel
+    shn: မၵ်ႇသႅင်ႈ
+    sk: Datľa
+    sl: datelj
+    smn: taatel
+    sms: taatel
+    sr: Datula (plod)
+    sv: dadel
+    tcy: ಖರ್ಜೂರ
+    tt: хөрмә җимеше
+    uk: фініки
+    uz: Finik
+    vec: dàtolo
+    yue: 椰棗
+    zh: 椰枣
+    zh-cn: 椰枣
 ---
-
 # [[Date(fruit)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Date,1652093|WD~Date,1652093]] 

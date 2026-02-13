@@ -1,4 +1,160 @@
-
+---
+has_id_wikidata: Q171184
+dv_has_:
+  name_:
+    af: Filogenie
+    an: Filochenia
+    ar: علم تكون الأجناس
+    ast: Filoxenia
+    az: Filogenetika
+    ban: Filogenetika
+    be: філагенетыка
+    be-tarask: філягенэтыка
+    bg: Филогения
+    bs: filogeneza
+    ca: filogènia
+    cs: fylogenetika
+    cv: Филогенетика
+    da: fylogenetisk systematik
+    de: Phylogenetik
+    el: Φυλογένεση
+    en: phylogenetics
+    en-gb: phylogeny
+    eo: Filogenetiko
+    es: filogenia
+    et: fülogenees
+    eu: Filogenia
+    ext: Filohenia
+    fa: تبارزایش
+    fi: fylogenetiikka
+    fr: phylogénie
+    fy: Fylogeny
+    ga: fíligéinitic
+    gl: filoxenia
+    he: פילוגנטיקה
+    hi: वर्गानुवंशिकी
+    hr: Filogeneza
+    ht: Filojeni
+    hu: filogenetika
+    hy: Ֆիլոգենետիկա
+    ia: phylogenetica
+    id: filogeni
+    it: filogenesi
+    ja: 系統学
+    jv: Filogeni
+    ka: ფილოგენეტიკა
+    kab: Azɣerẓar
+    kk: Филогенетика
+    ko: 계통학
+    la: Phylogenetica
+    li: Fylogenie
+    lt: filogenezė
+    lv: filoģenētika
+    mk: филогенија
+    ml: വംശജനിതകവിജ്ഞാനീയം
+    ms: Filogenetik
+    nan: Hoat-seng-ha̍k
+    nb: fylogenetikk
+    nds: Phylogenetik
+    nl: fylogenie
+    nn: fylogeni
+    oc: Filogenia
+    pl: filogeneza
+    pt: filogenia
+    ro: filogenie
+    ru: филогенетика
+    rue: Филогенетика
+    se: fylogenetihkka
+    sh: Filogenija
+    sk: fylogenetika
+    sl: filogenetika
+    smn: fylogenetiik
+    sms: fylogenetikk
+    sq: Filogjenetika
+    sr: филогенија
+    sr-ec: Филогенија
+    sr-el: Filogenija
+    sv: fylogenetik
+    ta: தொகுதிப் பிறப்பு
+    th: วิวัฒนาการชาติพันธุ์
+    tl: Pilohenetika
+    tr: soy oluş bilimi
+    tt: филогенетика
+    uk: філогенетика
+    ur: قبیلہ سازی
+    vi: phát sinh chủng loài học
+    wuu: 系统发生学
+    yue: 親緣關係學
+    zh: 系统发生学
+    zh-cn: 系统发生学
+    zh-hans: 系统发生学
+    zh-hant: 系統發生學
+    zh-hk: 親緣關係學
+    zh-sg: 系统发生学
+    zh-tw: 親緣關係學
+aliases:
+- Azɣerẓar
+- Filochenia
+- filogenesi
+- Filogenetik
+- Filogenetika
+- Filogenetiko
+- filogeneza
+- filogenezė
+- filogeni
+- filogenia
+- Filogenie
+- Filogenija
+- Filogjenetika
+- filogènia
+- Filohenia
+- Filojeni
+- Filoxenia
+- filoģenētika
+- fylogenetihkka
+- fylogenetiik
+- fylogenetiikka
+- fylogenetik
+- fylogenetika
+- fylogenetikk
+- fylogenetisk systematik
+- fylogeni
+- fylogenie
+- Fylogeny
+- fíligéinitic
+- fülogenees
+- Hoat-seng-ha̍k
+- phylogenetica
+- phylogenetics
+- Phylogenetik
+- phylogeny
+- phylogénie
+- phát sinh chủng loài học
+- Pilohenetika
+- soy oluş bilimi
+- Φυλογένεση
+- філагенетыка
+- філогенетика
+- філягенэтыка
+- филогенетика
+- филогенија
+- Филогения
+- Ֆիլոգենետիկա
+- פילוגנטיקה
+- تبارزایش
+- علم تكون الأجناس
+- قبیلہ سازی
+- वर्गानुवंशिकी
+- தொகுதிப் பிறப்பு
+- വംശജനിതകവിജ്ഞാനീയം
+- วิวัฒนาการชาติพันธุ์
+- ფილოგენეტიკა
+- 系統学
+- 系統發生學
+- 系统发生学
+- 親緣關係學
+- 계통학
+---
 # [[Phylogenetics]] 
 
 #is_/same_as :: [[WD~Phylogenetics,171184]] 

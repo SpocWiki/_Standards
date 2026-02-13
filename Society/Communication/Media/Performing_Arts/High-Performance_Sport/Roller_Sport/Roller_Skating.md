@@ -1,23 +1,119 @@
 ---
 aliases:
+- asuchchd
+- bruslení na kolečkových bruslích
+- Bròg-cuibhle
+- Gurpil gaineko patinaje
+- görkorcsolyázás
+- kotalkanje
+- Paten
+- patinage à roulettes
+- patinagem sobre rodas
+- patinatge sobre rodes
+- Patinaxe sobre rodas
+- patinação sobre rodas
+- pattinaggio a rotelle
+- patín sobre ruedas tradicional
+- Patín sobre ruedes tradicional
+- rolanje
+- roller skating
+- Rollsport
+- rolschaatsen
+- rullaluistelu
+- Rulleskeiser
+- rulleskøyting
+- rullskridskoåkning
+- Rulluisutamine
+- rulsketado
+- Sapatu indan
+- scátáil rollála
+- sepatu roda
+- Wrotkarstwo
+- катание на роликовых коньках
+- катання на роликових ковзанах
+- ролікавыя канькі
+- ролање
+- ролери
+- Роликлы конькиҙа шыуыу
+- גלגיליות
+- التزلج بالعجلات
+- باتيناج
+- پالیزه
+- রোলার স্কেটিং
+- ローラースケート
+- 踩雪屐
+- 輪滑
+- 轮滑
+- 롤러스케이팅
 has_id_wikidata: Q1707432
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[../../../../../../WikiData/WD~roller_sport,2164355]]"
-  - "[[_Standards/WikiData/WD~skating,14300548]]"
-practiced_by: "[[_Standards/WikiData/WD~roller_skater,61278580]]"
+- '[[../../../../../../WikiData/WD~roller_sport,2164355]]'
+- '[[_Standards/WikiData/WD~skating,14300548]]'
+practiced_by: '[[_Standards/WikiData/WD~roller_skater,61278580]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~human_powered_transport,63247926]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
+- '[[_Standards/WikiData/WD~human_powered_transport,63247926]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inline%20skating.jpg
-U_S_National_Archives_Identifier: "10664703"
+U_S_National_Archives_Identifier: 10664703
 Commons_gallery: Roller skating
 Commons_category: Roller skating
 subreddit: Rollerskating
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Skating%20pictogram.svg
 OpenStreetMap_tag: sport=roller_skating
+dv_has_:
+  name_:
+    ar: التزلج بالعجلات
+    arz: باتيناج
+    ast: Patín sobre ruedes tradicional
+    ba: Роликлы конькиҙа шыуыу
+    be-tarask: ролікавыя канькі
+    bjn: Sapatu indan
+    bn: রোলার স্কেটিং
+    ca: patinatge sobre rodes
+    cs: bruslení na kolečkových bruslích
+    de: Rollsport
+    en: roller skating
+    eo: rulsketado
+    es: patín sobre ruedas tradicional
+    et: Rulluisutamine
+    eu: Gurpil gaineko patinaje
+    fa: پالیزه
+    fi: rullaluistelu
+    fr: patinage à roulettes
+    ga: scátáil rollála
+    gd: Bròg-cuibhle
+    gl: Patinaxe sobre rodas
+    he: גלגיליות
+    hr: rolanje
+    hu: görkorcsolyázás
+    id: sepatu roda
+    it: pattinaggio a rotelle
+    ja: ローラースケート
+    ko: 롤러스케이팅
+    mk: ролери
+    nb: rulleskøyting
+    nl: rolschaatsen
+    nn: Rulleskeiser
+    pl: Wrotkarstwo
+    pt: patinagem sobre rodas
+    pt-br: patinação sobre rodas
+    ru: катание на роликовых коньках
+    shi: asuchchd
+    sl: kotalkanje
+    sr: ролање
+    sv: rullskridskoåkning
+    te: roller skating
+    tr: Paten
+    uk: катання на роликових ковзанах
+    wuu: 轮滑
+    yue: 踩雪屐
+    zh: 轮滑
+    zh-cn: 轮滑
+    zh-hans: 轮滑
+    zh-hant: 輪滑
+    zh-tw: 輪滑
 ---
-
 # [[Roller_Skating]] 
 
 #is_/same_as :: [[WD~Roller_skating,1707432]] 

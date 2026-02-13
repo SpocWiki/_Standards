@@ -1,65 +1,91 @@
 ---
 aliases:
-  - Girolamo_Savonarola
-  - Jerome Savonarola
-  - Girolamo Savonarola
-  - Savonarola
-  - ""
-  - Savonarola,Girolamo
+- Cirolamo Savonarola
+- Džirolamas Savonarola
+- Džirolamo Savonarola
+- Girolamo Savonarola
+- Girolamo_Savonarola
+- Giròni Savonaròla
+- Hieronymus Savonarola
+- Jerome Savonarola
+- Jérome Savonarole
+- Jérôme Savonarole
+- Savonarola
+- Savonarola,Girolamo
+- Đirolamo Savonarola
+- Τζιρόλαμο Σαβοναρόλα
+- Ђироламо Савонарола
+- Джироламо Савонарола
+- Джыралама Саванарола
+- Джыраляма Саванароля
+- Ջիրոլամո Սավոնարոլա
+- ג'ירולמו סבונרולה
+- جیرولامو ساونارولا
+- سافونارولا
+- गिरोलामो साव्होनारोला
+- സവനരോള
+- จีโรลาโม ซาโวนาโรลา
+- ဂျီရော်လာမို ဆားဗိုနာရော်လာ
+- ဆားဗိုနာရော်လာ ဂျီ
+- ジロラモ・サヴォナローラ
+- 吉罗拉莫·萨佛纳罗拉
+- 萨佛纳罗拉
+- 薩佛納羅拉
+- 지롤라모 사보나롤라
 has_id_wikidata: Q164823
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~preacher,432386]]"
-  - "[[_Standards/WikiData/WD~theologian,1234713]]"
-  - "[[_Standards/WikiData/WD~religious,2566598]]"
-  - "[[_Standards/WikiData/WD~philosopher,4964182]]"
-  - "[[_Standards/WikiData/WD~social_reformer,16611574]]"
-  - "[[_Standards/WikiData/WD~reformer,124985058]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-religious_order: "[[_Standards/WikiData/WD~Dominican_Order,131479]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~preacher,432386]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~religious,2566598]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~social_reformer,16611574]]'
+- '[[_Standards/WikiData/WD~reformer,124985058]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+religious_order: '[[_Standards/WikiData/WD~Dominican_Order,131479]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Republic_of_Florence,148540]]"
-  - "[[_Standards/WikiData/WD~Duchy_of_Ferrara,693570]]"
-cause_of_death: "[[_Standards/WikiData/WD~hanging,175111]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]"
+- '[[_Standards/WikiData/WD~Republic_of_Florence,148540]]'
+- '[[_Standards/WikiData/WD~Duchy_of_Ferrara,693570]]'
+cause_of_death: '[[_Standards/WikiData/WD~hanging,175111]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-movement: "[[_Standards/WikiData/WD~Western_philosophy,842333]]"
-place_of_death: "[[_Standards/WikiData/WD~piazza_della_Signoria,849846]]"
-employer: "[[_Standards/WikiData/WD~University_of_Ferrara,955609]]"
-educated_at: "[[_Standards/WikiData/WD~University_of_Ferrara,955609]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+movement: '[[_Standards/WikiData/WD~Western_philosophy,842333]]'
+place_of_death: '[[_Standards/WikiData/WD~piazza_della_Signoria,849846]]'
+employer: '[[_Standards/WikiData/WD~University_of_Ferrara,955609]]'
+educated_at: '[[_Standards/WikiData/WD~University_of_Ferrara,955609]]'
 field_of_work:
-  - "[[_Standards/WikiData/WD~homiletics,1038158]]"
-  - "[[_Standards/WikiData/WD~philosophy,5891]]"
-  - "[[_Standards/WikiData/WD~politics,7163]]"
-  - "[[_Standards/WikiData/WD~theology,34178]]"
-given_name: "[[_Standards/WikiData/WD~Girolamo,1527012]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-student_of: "[[_Standards/WikiData/WD~Peter_of_Bergamo,7177913]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-family_name: "[[_Standards/WikiData/WD~Savonarola,110651789]]"
-attested_in: "[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]"
-depicted_by: "[[_Standards/WikiData/WD~Monument_to_Girolamo_Savonarola,125809253]]"
+- '[[_Standards/WikiData/WD~homiletics,1038158]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~theology,34178]]'
+given_name: '[[_Standards/WikiData/WD~Girolamo,1527012]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+student_of: '[[_Standards/WikiData/WD~Peter_of_Bergamo,7177913]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+family_name: '[[_Standards/WikiData/WD~Savonarola,110651789]]'
+attested_in: '[[_Standards/WikiData/WD~Mare_Magnum_volume_82,118465996]]'
+depicted_by: '[[_Standards/WikiData/WD~Monument_to_Girolamo_Savonarola,125809253]]'
 date_of_birth: 1452-09-30T00:00:00Z
 writing_language:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Latin,397]]"
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-manner_of_death: "[[_Standards/WikiData/WD~capital_punishment,8454]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-place_of_birth: "[[_Standards/WikiData/WD~Ferrara,13362]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+manner_of_death: '[[_Standards/WikiData/WD~capital_punishment,8454]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+place_of_birth: '[[_Standards/WikiData/WD~Ferrara,13362]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Regensburg_Classification: IU 4840
 Krugosvet_article: kultura_i_obrazovanie/religiya/SAVONAROLA_DZHIROLAMO.html
 Libris_URI: vs68chkd463j7bq
@@ -75,8 +101,95 @@ Europeana_entity: agent/base/145390
 Provenio_UUID: e0701abc-1d42-418e-b434-96750c0a8132
 Wolfram_Language_entity_code: Entity["Concept", "GirolamoSavonarola::w8rr2"]
 Royal_Academy_new_identifier: girolamo-savonarola
+dv_has_:
+  name_:
+    af: Girolamo Savonarola
+    ar: سافونارولا
+    arz: سافونارولا
+    ast: Girolamo Savonarola
+    az: Cirolamo Savonarola
+    be: Джыралама Саванарола
+    be-tarask: Джыраляма Саванароля
+    bg: Джироламо Савонарола
+    br: Girolamo Savonarola
+    bs: Girolamo Savonarola
+    ca: Girolamo Savonarola
+    ce: Джироламо Савонарола
+    cs: Girolamo Savonarola
+    cy: Girolamo Savonarola
+    da: Girolamo Savonarola
+    de: Girolamo Savonarola
+    de-ch: Girolamo Savonarola
+    el: Τζιρόλαμο Σαβοναρόλα
+    en: Girolamo Savonarola
+    en-ca: Girolamo Savonarola
+    en-gb: Girolamo Savonarola
+    en-us: Girolamo Savonarola
+    eo: Girolamo Savonarola
+    es: Girolamo Savonarola
+    et: Girolamo Savonarola
+    eu: Girolamo Savonarola
+    fa: جیرولامو ساونارولا
+    fi: Girolamo Savonarola
+    fr: Jérôme Savonarole
+    ga: Girolamo Savonarola
+    gl: Girolamo Savonarola
+    he: ג'ירולמו סבונרולה
+    hr: Girolamo Savonarola
+    hu: Girolamo Savonarola
+    hy: Ջիրոլամո Սավոնարոլա
+    id: Girolamo Savonarola
+    io: Savonarola
+    it: Girolamo Savonarola
+    ja: ジロラモ・サヴォナローラ
+    ka: girolamo savonarola
+    kk: Джироламо Савонарола
+    ko: 지롤라모 사보나롤라
+    la: Hieronymus Savonarola
+    lb: Girolamo Savonarola
+    lt: Džirolamas Savonarola
+    lv: Džirolamo Savonarola
+    mg: Girolamo Savonarola
+    ml: സവനരോള
+    mr: गिरोलामो साव्होनारोला
+    mul: Girolamo Savonarola
+    my: ဆားဗိုနာရော်လာ ဂျီ
+    nb: Girolamo Savonarola
+    nl: Girolamo Savonarola
+    nn: Girolamo Savonarola
+    oc: Girolamo Savonarola
+    pcd: Jérome Savonarole
+    pl: Girolamo Savonarola
+    pms: Giròni Savonaròla
+    pt: Girolamo Savonarola
+    pt-br: Girolamo Savonarola
+    rki: ဂျီရော်လာမို ဆားဗိုနာရော်လာ
+    ro: Girolamo Savonarola
+    ru: Джироламо Савонарола
+    sco: Girolamo Savonarola
+    sh: Girolamo Savonarola
+    sk: Girolamo Savonarola
+    sl: Girolamo Savonarola
+    sq: Girolamo Savonarola
+    sr: Ђироламо Савонарола
+    sr-ec: Ђироламо Савонарола
+    sr-el: Đirolamo Savonarola
+    sv: Girolamo Savonarola
+    th: จีโรลาโม ซาโวนาโรลา
+    tr: Girolamo Savonarola
+    uk: Джироламо Савонарола
+    vi: Girolamo Savonarola
+    war: Girolamo Savonarola
+    wuu: 吉罗拉莫·萨佛纳罗拉
+    yue: 薩佛納羅拉
+    zh: 薩佛納羅拉
+    zh-cn: 萨佛纳罗拉
+    zh-hans: 萨佛纳罗拉
+    zh-hant: 薩佛納羅拉
+    zh-hk: 薩佛納羅拉
+    zh-sg: 萨佛纳罗拉
+    zh-tw: 薩佛納羅拉
 ---
-
 # [[Savonarola,Girolamo]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Girolamo_Savonarola,164823|WD~Girolamo_Savonarola,164823]]  

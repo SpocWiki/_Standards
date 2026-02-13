@@ -1,12 +1,62 @@
 ---
 aliases:
+- műveleti jel
+- oibreoir
+- operador
+- operator
+- operatore
+- operatoro
+- operatör
+- opérateur
+- pengoperasi
+- toán tử
+- аператар
+- апэратар
+- оператор
+- אופרטור
+- مؤثر
+- 演算子
+- 运算符
 has_id_wikidata: Q3354588
-part_of: "[[_Standards/WikiData/WD~mathematical_operation,3884033]]"
-subclass_of: "[[_Standards/WikiData/WD~mathematical_symbol,10376408]]"
+part_of: '[[_Standards/WikiData/WD~mathematical_operation,3884033]]'
+subclass_of: '[[_Standards/WikiData/WD~mathematical_symbol,10376408]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basic%20arithmetic%20operators.svg
 Commons_category: Operators (notation)
+dv_has_:
+  name_:
+    ar: مؤثر
+    ast: operador
+    be: аператар
+    be-tarask: апэратар
+    ca: operador
+    da: operator
+    de: Operator
+    en: operator
+    eo: operatoro
+    es: operador
+    fr: opérateur
+    ga: oibreoir
+    gl: operador
+    he: אופרטור
+    hu: műveleti jel
+    it: operatore
+    ja: 演算子
+    mk: оператор
+    ms: pengoperasi
+    nb: operator
+    nn: operator
+    pl: operator
+    pt: operador
+    pt-br: operador
+    ru: оператор
+    sl: operator
+    sr: оператор
+    tr: operatör
+    uk: оператор
+    vi: toán tử
+    zh: 运算符
+    zh-hans: 运算符
 ---
-
 # [[Operator(Math)]] 
 
 #is_/same_as :: [[WD~operator,3354588]]

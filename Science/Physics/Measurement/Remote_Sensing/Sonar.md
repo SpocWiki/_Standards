@@ -1,30 +1,170 @@
 ---
 aliases:
+- Exolot
+- Gïdrolokacïya
+- hidrolokators
+- kaikuluotaus
+- Rũbete
+- sonar
+- Sonaras
+- Sonari
+- Sonaro
+- sonóir
+- Suonaar
+- szonár
+- Sònar
+- Σόναρ
+- гідралякатар
+- гідролокатор
+- Гидролокатор
+- Гидролокация
+- Сонар
+- Էխոլոտ
+- סונאר
+- سونار
+- سۆنار
+- مقاحد
+- گىيدرولوكاتسىييا
+- सोनार
+- ਸੋਨਾਰ
+- સોનાર
+- ஒலிச் செலுத்துவழி மற்றும் வீச்சளவு
+- ಸೋನಾರ್
+- സോണാർ
+- โซนาร์
+- ဆိုနာ
+- ᎤᏃᏴᏨ ᎠᏣᏘᏍᎩ
+- ソナー
+- 声呐
+- 声纳
+- 聲納
+- 소나
+- 쏘나
 has_id_wikidata: Q133220
 subclass_of:
-  - "[[_Standards/WikiData/WD~remote_sensing,199687]]"
-  - "[[_Standards/WikiData/WD~technique,2695280]]"
-  - "[[_Standards/WikiData/WD~noisemaker,7047745]]"
-has_use: "[[_Standards/WikiData/WD~echolocation,217270]]"
-used_by: "[[_Standards/WikiData/WD~navigator,254651]]"
+- '[[_Standards/WikiData/WD~remote_sensing,199687]]'
+- '[[_Standards/WikiData/WD~technique,2695280]]'
+- '[[_Standards/WikiData/WD~noisemaker,7047745]]'
+has_use: '[[_Standards/WikiData/WD~echolocation,217270]]'
+used_by: '[[_Standards/WikiData/WD~navigator,254651]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Walter_Guyton_Cady,552329]]"
-  - "[[_Standards/WikiData/WD~Paul_Langevin,25320]]"
-facet_of: "[[_Standards/WikiData/WD~measurement_technique,1924397]]"
-instance_of: "[[_Standards/WikiData/WD~technique,2695280]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q20702663,20702663]]"
-produced_sound: "[[_Standards/WikiData/WD~water_sonar,65308681]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
+- '[[_Standards/WikiData/WD~Walter_Guyton_Cady,552329]]'
+- '[[_Standards/WikiData/WD~Paul_Langevin,25320]]'
+facet_of: '[[_Standards/WikiData/WD~measurement_technique,1924397]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q20702663,20702663]]'
+produced_sound: '[[_Standards/WikiData/WD~water_sonar,65308681]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Miinitraaleri%20%22Virsaitis%22%20vrakk.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sonar%20Principle%20EN.svg
-U_S_National_Archives_Identifier: "10665852"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Miinitraaleri%20%22Virsaitis%22%20vrakk.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sonar%20Principle%20EN.svg
+U_S_National_Archives_Identifier: 10665852
 IEV_number: 801-32-01
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Sonar"]
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GIDROLOKATOR.html
 Commons_category: Sonar
+dv_has_:
+  name_:
+    af: Sonar
+    ar: سونار
+    ast: Sonar
+    az: Sonar
+    azb: سونار
+    be-tarask: гідралякатар
+    bg: Сонар
+    ca: sonar
+    chr: ᎤᏃᏴᏨ ᎠᏣᏘᏍᎩ
+    ckb: سۆنار
+    cs: sonar
+    cv: Сонар
+    da: sonar
+    de: Sonar
+    el: Σόναρ
+    en: sonar
+    eo: Sonaro
+    es: sonar
+    et: SONAR
+    eu: Sonar
+    fa: سونار
+    fi: kaikuluotaus
+    fr: sonar
+    fy: Sonar
+    ga: sonóir
+    gan: 聲納
+    gan-hans: 声纳
+    gan-hant: 聲納
+    gd: Sonar
+    gl: Sonar
+    gu: સોનાર
+    he: סונאר
+    hi: सोनार
+    hr: Sonar
+    ht: Sonar
+    hu: szonár
+    hy: Էխոլոտ
+    id: Sonar
+    it: sonar
+    ja: ソナー
+    jam: Suonaar
+    ki: Rũbete
+    kk: Гидролокация
+    kk-arab: گىيدرولوكاتسىييا
+    kk-cn: گىيدرولوكاتسىييا
+    kk-cyrl: Гидролокация
+    kk-kz: Гидролокация
+    kk-latn: Gïdrolokacïya
+    kk-tr: Gïdrolokacïya
+    kn: ಸೋನಾರ್
+    ko: 소나
+    ko-kp: 쏘나
+    ky: Гидролокация
+    la: Sonar
+    lt: Sonaras
+    lv: hidrolokators
+    mk: Сонар
+    ml: സോണാർ
+    ms: Sonar
+    mwl: Sonar
+    my: ဆိုနာ
+    nan: Sonar
+    nb: sonar
+    nl: sonar
+    nn: Sonar
+    oc: Sonar
+    pa: ਸੋਨਾਰ
+    pl: Sonar
+    pms: Sònar
+    pt: Sonar
+    pt-br: sonar
+    ro: Sonar
+    ru: Гидролокатор
+    sh: Sonar
+    sk: Sonar
+    sl: Sonar
+    sq: Sonari
+    sr: Сонар
+    sr-ec: Сонар
+    sr-el: Sonar
+    sv: sonar
+    ta: ஒலிச் செலுத்துவழி மற்றும் வீச்சளவு
+    tcy: ಸೋನಾರ್
+    th: โซนาร์
+    tr: Sonar
+    uk: гідролокатор
+    ur: مقاحد
+    uz: Exolot
+    vi: Sonar
+    war: Sonar
+    wuu: 声纳
+    yue: 聲納
+    zh: 声呐
+    zh-cn: 声呐
+    zh-hans: 声呐
+    zh-hant: 聲納
+    zh-hk: 聲納
+    zh-sg: 声呐
+    zh-tw: 聲納
 ---
-
 # [[Sonar]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sonar,133220|WD~Sonar,133220]]  

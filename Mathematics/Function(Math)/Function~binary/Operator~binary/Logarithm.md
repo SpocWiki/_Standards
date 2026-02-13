@@ -1,22 +1,85 @@
 ---
 aliases:
-  - general Logarithm
-  - Logarithm
+- anaisa
+- general Logarithm
+- lagaridim
+- logarifm
+- logarit
+- logaritam
+- logaritem
+- Logarithm
+- logarithme
+- logarithmo
+- Logarithmus
+- logaritm
+- logaritma
+- logaritmas
+- logaritme
+- logaritmet
+- logaritmi
+- logaritmm
+- logaritmo
+- logaritms
+- logaritmu
+- logaritmus
+- logartam
+- logarytm
+- logarìtem
+- logi
+- logri
+- Loogarizimii
+- loqarifma
+- lugarìttimu
+- luogarėtmos
+- mhetapawa
+- tùi-sò͘
+- λογάριθμος
+- лагарыфм
+- логаритам
+- логаритъм
+- логарифм
+- лягарытм
+- լոգարիթմ
+- לאגאריטם
+- לוגריתם
+- لاگرتھم
+- لغارتم
+- لوڭاريتم
+- لگاریتم
+- لۆگاریتم
+- लघुगणक
+- लघुगणक (Logarithm)
+- लॉगॅरिदम
+- लोगारिदम
+- ঘাতাংক
+- লগারিদম
+- ਲਘੂਗਣਕ
+- மடக்கை
+- ലോഗരിതം
+- ලඝු ගණක
+- ลอการิทึม
+- လော့ဂရစ်သမ်
+- ლოგარითმი
+- ሎጋሪዝም
+- 对数
+- 対数
+- 對數
+- 로그
 has_id_wikidata: Q11197
 approximation_algorithm: '[[_Standards/WikiData/WD~CORDIC,116076]]'
 Commons_category: Logarithm
 Commons_gallery: Logarithm
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1__Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[_Standards/WikiData/WD~ISO_80000-2_2019_Quantities_and_units___Part_2__Mathematics,109490582]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Napier,159592]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mplwp%20log2e10.svg
 instance_of: '[[_Standards/WikiData/WD~type_of_mathematical_function,47279819]]'
@@ -28,12 +91,135 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20approxima
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Logaritmo.ogg
 Stack_Exchange_tag: https://stackoverflow.com/tags/logarithm
 subclass_of:
-  - '[[_Standards/WikiData/WD~binary_operation,164307]]'
-  - '[[_Standards/WikiData/WD~multivalued_function,629085]]'
-  - '[[_Standards/WikiData/WD~transcendental_function,864333]]'
+- '[[_Standards/WikiData/WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~multivalued_function,629085]]'
+- '[[_Standards/WikiData/WD~transcendental_function,864333]]'
 subreddit: Logarithms
+dv_has_:
+  name_:
+    af: logaritme
+    am: ሎጋሪዝም
+    an: logaritmo
+    ar: لغارتم
+    ary: لوڭاريتم
+    as: ঘাতাংক
+    ast: logaritmu
+    az: loqarifma
+    ba: логарифм
+    bcl: logaritmo
+    be: лагарыфм
+    be-tarask: лягарытм
+    bg: логаритъм
+    bho: लघुगणक (Logarithm)
+    bjn: logaritma
+    bn: লগারিদম
+    br: logaritm
+    bs: logaritam
+    bxr: логарифм
+    ca: logaritme
+    ckb: لۆگاریتم
+    crh: logarifm
+    cs: logaritmus
+    cv: логарифм
+    cy: logarithm
+    da: logaritme
+    de: Logarithmus
+    diq: logaritma
+    el: λογάριθμος
+    eml: logarìtem
+    en: logarithm
+    eo: logaritmo
+    es: logaritmo
+    et: logaritm
+    eu: logaritmo
+    ext: logaritmu
+    fa: لگاریتم
+    fi: logaritmi
+    fo: logaritma
+    fr: logarithme
+    ga: logartam
+    gan: 對數
+    gcr: logaritm
+    gl: logaritmo
+    gsw: Logarithmus
+    he: לוגריתם
+    hi: लघुगणक
+    hif: logarithm
+    hr: logaritam
+    hu: logaritmus
+    hy: լոգարիթմ
+    ia: logarithmo
+    id: logaritma
+    io: logaritmo
+    is: logri
+    it: logaritmo
+    ja: 対数
+    jam: lagaridim
+    ka: ლოგარითმი
+    kk: логарифм
+    ko: 로그
+    la: logarithmus
+    lfn: logaritmo
+    lmo: logaritm
+    lt: logaritmas
+    lv: logaritms
+    mad: Logaritma
+    mag: लघुगणक
+    mg: anaisa
+    mk: логаритам
+    ml: ലോഗരിതം
+    mr: लॉगॅरिदम
+    ms: logaritma
+    my: လော့ဂရစ်သမ်
+    nan: tùi-sò͘
+    nb: logaritme
+    nds: Logarithmus
+    new: लोगारिदम
+    nl: logaritme
+    nn: logaritme
+    oc: logaritme
+    om: Loogarizimii
+    pa: ਲਘੂਗਣਕ
+    pl: logarytm
+    pms: Logaritm
+    pnb: لاگرتھم
+    pt: logaritmo
+    pt-br: logaritmo
+    ro: logaritm
+    ru: логарифм
+    sah: логарифм
+    scn: lugarìttimu
+    se: logaritma
+    sgs: luogarėtmos
+    sh: логаритам
+    si: ලඝු ගණක
+    sk: logaritmus
+    sl: logaritem
+    smn: logaritm
+    sms: logaritmm
+    sn: mhetapawa
+    sq: logaritmet
+    sr: логаритам
+    sr-ec: логаритам
+    sv: logaritm
+    sw: logi
+    ta: மடக்கை
+    th: ลอการิทึม
+    tl: logaritmo
+    tr: logaritma
+    tt: логарифм
+    uk: логарифм
+    ur: لاگرتھم
+    uz: logarifm
+    vec: logaritmo
+    vi: logarit
+    war: logaritmo
+    wuu: 对数
+    yi: לאגאריטם
+    yue: 對數
+    zh: 對數
+    zh-hans: 对数
 ---
-
 #has_/inverse :: [[Exponentiation]] 
 #is_/same_as :: [[../../../../WikiData/WD~Logarithm,11197|WD~Logarithm,11197]] 
 

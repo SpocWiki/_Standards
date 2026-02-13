@@ -1,4 +1,41 @@
-
+---
+has_id_wikidata: Q1163401
+dv_has_:
+  name_:
+    ar: كازا (تطبيق)
+    ca: KaZaA
+    da: Kazaa
+    de: Kazaa
+    en: Kazaa
+    es: Kazaa
+    et: Kazaa
+    fa: کازا
+    fi: Kazaa
+    fr: KaZaA
+    he: קאזה
+    id: Kazaa
+    it: KaZaA Media Desktop
+    ja: シャーマン・ネットワークス
+    ko: 카자
+    nb: Kazaa
+    nl: Kazaa
+    nn: Kazaa
+    pl: Kazaa
+    pt: Kazaa
+    ro: Kazaa
+    ru: Kazaa
+    sl: Kazaa
+    sv: Kazaa
+    vi: Kazaa
+aliases:
+- KaZaA
+- KaZaA Media Desktop
+- קאזה
+- كازا (تطبيق)
+- کازا
+- シャーマン・ネットワークス
+- 카자
+---
 ## #has_/text_of_/abstract 
 
 > **Kazaa** Media Desktop ( ka-ZAH). (once stylized as "KaZaA", but later usually written "Kazaa") 

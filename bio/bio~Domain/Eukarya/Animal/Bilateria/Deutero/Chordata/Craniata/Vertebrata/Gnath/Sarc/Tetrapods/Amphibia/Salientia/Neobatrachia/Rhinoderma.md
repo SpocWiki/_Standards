@@ -1,9 +1,75 @@
 ---
 aliases:
-  - Rhinoderma
+- Bekbroeders
+- Nasenfrösche
+- nosatkovití
+- Rhinoderma
+- Ρινοδέρμα
+- Жаба-носоріг
+- ринодерми
+- Ринодермы
+- רינודרמטיים
+- رينوديرما
+- قورباغههای داروین
+- რინოდერმა
+- ダーウィンガエル科
+- 尖吻达蛙属
+- 尖吻達蛙屬
+- 尖吻達蛙科
 title: Rhinoderma
+has_id_wikidata: Q1074141
+dv_has_:
+  name_:
+    an: Rhinoderma
+    arz: رينوديرما
+    ast: Rhinoderma
+    bg: ринодерми
+    ca: Rhinoderma
+    ceb: Rhinoderma
+    cs: nosatkovití
+    de: Nasenfrösche
+    el: Ρινοδέρμα
+    en: Rhinoderma
+    eo: Rhinoderma
+    es: Rhinoderma
+    eu: Rhinoderma
+    ext: Rhinoderma
+    fa: قورباغههای داروین
+    fi: Rhinoderma
+    fr: Rhinoderma
+    ga: Rhinoderma
+    gl: Rhinoderma
+    he: רינודרמטיים
+    hu: Rhinoderma
+    ia: Rhinoderma
+    ie: Rhinoderma
+    io: Rhinoderma
+    it: Rhinoderma
+    ja: ダーウィンガエル科
+    ka: რინოდერმა
+    la: Rhinoderma
+    mul: Rhinoderma
+    nl: Bekbroeders
+    oc: Rhinoderma
+    pl: Rhinoderma
+    pt: Rhinoderma
+    pt-br: Rhinoderma
+    ro: Rhinoderma
+    ru: Ринодермы
+    sq: Rhinoderma
+    sv: Rhinoderma
+    tr: Rhinoderma
+    uk: Жаба-носоріг
+    vi: Rhinoderma
+    vo: Rhinoderma
+    war: Rhinoderma
+    zh: 尖吻达蛙属
+    zh-cn: 尖吻达蛙属
+    zh-hans: 尖吻达蛙属
+    zh-hant: 尖吻達蛙科
+    zh-hk: 尖吻達蛙科
+    zh-tw: 尖吻達蛙屬
 ---
-
 # [[Rhinoderma]]
 
 Darwin\'s Frogs 

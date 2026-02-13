@@ -1,31 +1,259 @@
 ---
 aliases:
-  - hotel
-  - hotel
-  - Hotel
-  - is_a_hotel
+- albergo
+- albergu
+- Balay abtanan
+- Deversorium
+- Fan-tiam
+- gwesty
+- Hekdiemq
+- hooteel
+- hotealla
+- hotel
+- hotel-establezimendu
+- Hoteli
+- hotell
+- hotelle
+- hotelli
+- hotelo
+- Hotelu
+- hoteʹll
+- hottle
+- hotälla
+- hotælla
+- Hoyga-jiifka
+- hòtel
+- Hótel
+- hôtel
+- is_a_hotel
+- khách sạn
+- leti
+- Lotèl
+- lukanda
+- lí-siā
+- miymanxana
+- Nullaġvik
+- ostel
+- Otel
+- szálloda
+- Taigh-òsta
+- Tampu wasi
+- viesnīca
+- Viešbutis
+- óstán
+- Ôhtaenémâhéó'o
+- ξενοδοχείο
+- гасцініца
+- гатэль
+- гостиница
+- готель
+- Гьоболхана
+- Зочид буудал
+- Иммигранттар ҡунаҡханаһы
+- кунакханә
+- Меҳмонхона
+- унагудо
+- Хонук дьиэ
+- хотел
+- Қонақ Үй
+- հյուրանոց
+- בית מלון
+- האטעל
+- فندق
+- هتل
+- هوتيل
+- هوټل
+- ھوٽل
+- ھۆتێل
+- ہوٹل
+- होटल
+- होटेल
+- হোটেল
+- ਹੋਟਲ
+- விடுதி
+- ಹೋಟೆಲ್
+- ഹോട്ടൽ
+- හෝටල් (ලැගුම්හල් වර්ගය)
+- โรงแรม
+- ဟိုတယ်
+- ᏧᏂᏒᏍᏗ
+- សណ្ឋាគារ
+- ホテル
+- 酒店
+- 飯店
+- 호텔
 has_id_wikidata: Q27686
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - hotel
+- hotel
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_hotel Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_hotel Class
 type: Type
+dv_has_:
+  name_:
+    af: hotel
+    an: Hotel
+    ar: فندق
+    ast: hotel
+    av: Гьоболхана
+    az: Otel
+    ba: Иммигранттар ҡунаҡханаһы
+    bcl: Hotel
+    be: гасцініца
+    be-tarask: гатэль
+    bg: Хотел
+    bn: হোটেল
+    br: leti
+    bs: hotel
+    ca: hotel
+    ceb: Balay abtanan
+    chr: ᏧᏂᏒᏍᏗ
+    chy: Ôhtaenémâhéó'o
+    ckb: ھۆتێل
+    cs: hotel
+    csb: hòtel
+    cy: gwesty
+    da: hotel
+    de: Hotel
+    el: ξενοδοχείο
+    en: hotel
+    en-ca: hotel
+    en-gb: hotel
+    en-us: hotel
+    eo: hotelo
+    es: hotel
+    et: hotell
+    eu: hotel-establezimendu
+    fa: هتل
+    fi: hotelli
+    fr: hôtel
+    fy: hotel
+    ga: óstán
+    gan: 酒店
+    gan-hans: 酒店
+    gan-hant: 酒店
+    gd: Taigh-òsta
+    gl: hotel
+    glk: فندق
+    gsw: Hotel
+    hak: Fan-tiam
+    he: בית מלון
+    hi: होटल
+    hr: hotel
+    hsb: hotel
+    ht: Lotèl
+    hu: szálloda
+    hy: հյուրանոց
+    id: hotel
+    ie: Hotel
+    ik: Nullaġvik
+    io: Hotelo
+    is: Hótel
+    it: albergo
+    ja: ホテル
+    jv: Hotel
+    kaa: miymanxana
+    kk: Қонақ Үй
+    km: សណ្ឋាគារ
+    kn: ಹೋಟೆಲ್
+    ko: 호텔
+    kw: ostel
+    la: Deversorium
+    lb: Hotel
+    li: Hotel
+    lt: Viešbutis
+    lv: viesnīca
+    mhr: унагудо
+    min: Hotel
+    mk: хотел
+    ml: ഹോട്ടൽ
+    mn: Зочид буудал
+    ms: hotel
+    ms-arab: هوتيل
+    mt: lukanda
+    my: ဟိုတယ်
+    nan: lí-siā
+    nb: hotell
+    nds-nl: hotel
+    ne: होटेल
+    nl: hotel
+    nn: hotell
+    oc: Hotel
+    pa: ਹੋਟਲ
+    pcm: hotel
+    pl: hotel
+    pnb: ہوٹل
+    ps: هوټل
+    pt: hotel
+    pt-br: hotel
+    qu: Tampu wasi
+    rm: hotel
+    ro: hotel
+    ru: гостиница
+    rup: Hotelu
+    sah: Хонук дьиэ
+    scn: albergu
+    sco: hottle
+    sd: ھوٽل
+    se: hotealla
+    sh: hotel
+    si: හෝටල් (ලැගුම්හල් වර්ගය)
+    sje: hotälla
+    sk: hotel
+    sl: hotel
+    sma: hotelle
+    smj: hotælla
+    smn: hooteel
+    sms: hoteʹll
+    so: Hoyga-jiifka
+    sq: Hoteli
+    sr: хотел
+    sr-ec: хотел
+    sr-el: hotel
+    su: Hotel
+    sv: hotell
+    sw: Hoteli
+    szl: hotel
+    ta: விடுதி
+    tg: Меҳмонхона
+    th: โรงแรม
+    tl: Otel
+    tr: otel
+    tt: кунакханә
+    uk: готель
+    ur: ہوٹل
+    uz: Otel
+    vec: hotel
+    vi: khách sạn
+    wa: otel
+    war: Hotel
+    wuu: 酒店
+    yi: האטעל
+    yue: 酒店
+    za: Hekdiemq
+    zh: 飯店
+    zh-cn: 酒店
+    zh-hans: 酒店
+    zh-hant: 酒店
+    zh-hk: 酒店
+    zh-mo: 酒店
+    zh-my: 酒店
+    zh-sg: 酒店
+    zh-tw: 飯店
 ---
-
 # [[Hotel]] 
 
 Class of all hotels.

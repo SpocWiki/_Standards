@@ -1,9 +1,136 @@
 ---
 aliases:
-  - Balaenopteridae
+- Balaenopteridae
+- Balenopteredoj
+- Balenoptéridos
+- barázdásbálna-félék
+- brazdasti kiti
+- Brazdeni kitovi
+- droimeiteach
+- Fenvalar
+- Finhvaler
+- finnhvaler
+- finnkvalfamilien
+- Furchenwale
+- Joslvaļu dzimta
+- megenoleem
+- Oluklu balinagiller
+- plejtvákovití
+- płetwalowate
+- Raukšlėtieji banginiai
+- Rorcual
+- Rorqual
+- uurteisvalaat
+- Vaguvaallased
+- Vinvisn
+- Vinvissen
+- Vinvèsse
+- Vinwalvis
+- Vráskavcovité (Balaenopteridae)
+- Yoʻl-yoʻl kitlar
+- Zere
+- Zolaqlı balinalar
+- Μπαλενοπτερίδες
+- браздести китови
+- Ивичести китове
+- Паскавацікавыя
+- полосатиковые
+- смугачеві
+- לווייתני ענק
+- بزرگبالهایان
+- هراكلة
+- هراكله
+- ರಾರ್ಕ್ವಲ್
+- วงศ์วาฬแกลบ
+- ზოლიანი ვეშაპისებრნი
+- ナガスクジラ科
+- 须鲸科
+- 鬚鯨科
+- 수염고래과
 title: Balaenopteridae
+has_id_wikidata: Q232829
+dv_has_:
+  name_:
+    af: Vinwalvis
+    an: Balaenopteridae
+    ar: هراكلة
+    arz: هراكله
+    ast: Balaenopteridae
+    avk: megenoleem
+    az: Zolaqlı balinalar
+    ban: Balaenopteridae
+    be-tarask: Паскавацікавыя
+    bg: Ивичести китове
+    br: Balaenopteridae
+    ca: Rorqual
+    ceb: Balaenopteridae
+    cs: plejtvákovití
+    da: Finhvaler
+    de: Furchenwale
+    el: Μπαλενοπτερίδες
+    en: Balaenopteridae
+    eo: Balenopteredoj
+    es: Balaenopteridae
+    et: Vaguvaallased
+    eu: Zere
+    ext: Balaenopteridae
+    fa: بزرگبالهایان
+    fi: uurteisvalaat
+    fr: Balaenopteridae
+    ga: droimeiteach
+    gl: Balenoptéridos
+    he: לווייתני ענק
+    hr: Brazdeni kitovi
+    hu: barázdásbálna-félék
+    ia: Balaenopteridae
+    id: rorqual
+    ie: Balaenopteridae
+    io: Balaenopteridae
+    it: Balaenopteridae
+    ja: ナガスクジラ科
+    ka: ზოლიანი ვეშაპისებრნი
+    kn: ರಾರ್ಕ್ವಲ್
+    ko: 수염고래과
+    la: Balaenopteridae
+    lfn: Rorcual
+    li: Vinvèsse
+    lt: Raukšlėtieji banginiai
+    lv: Joslvaļu dzimta
+    mk: браздести китови
+    mul: Balaenopteridae
+    nan: Balaenopteridae
+    nb: finnhvaler
+    nl: Vinvissen
+    nn: finnkvalfamilien
+    oc: Balaenopteridae
+    pl: płetwalowate
+    pt: Balaenopteridae
+    pt-br: Balaenopteridae
+    ro: Balaenopteridae
+    ru: полосатиковые
+    sh: Brazdeni kitovi
+    sk: Vráskavcovité (Balaenopteridae)
+    sl: brazdasti kiti
+    sq: Balaenopteridae
+    sv: Fenvalar
+    th: วงศ์วาฬแกลบ
+    tl: Balaenopteridae
+    tr: Oluklu balinagiller
+    uk: смугачеві
+    uz: Yoʻl-yoʻl kitlar
+    vi: Balaenopteridae
+    vls: Vinvisn
+    vo: Balaenopteridae
+    war: Balaenopteridae
+    wuu: 须鲸科
+    zh: 鬚鯨科
+    zh-cn: 须鲸科
+    zh-hans: 须鲸科
+    zh-hant: 鬚鯨科
+    zh-hk: 鬚鯨科
+    zh-sg: 须鲸科
+    zh-tw: 鬚鯨科
 ---
-
 # [[Balaenopteridae]]
 
 ## Rorquals 

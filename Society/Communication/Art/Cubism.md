@@ -1,32 +1,197 @@
 ---
-has_time_started: 1907-01-01 
+has_time_started: 1907-01-01
 aliases:
+- Ciwbiaeth
+- Ciùbachas
+- Ciúbachas
+- Cubbismu
+- cubism
+- cubisme
+- cubismo
+- Cubismu
+- Cubismus
+- kubism
+- kubisma
+- Kubisme
+- kubismi
+- kubismm
+- kubismo
+- kubisms
+- Kubismus
+- kubissma
+- Kubizam
+- kubizem
+- kubizm
+- Kubizmas
+- kubizmi
+- kubizmus
+- kubiżmu
+- Kubîzm
+- Kübizm
+- Li̍p-thé-chú-gī
+- lập thể
+- Κυβισμός
+- кубізм
+- кубизам
+- кубизм
+- кубизъм
+- Кубшылдық
+- կուբիզմ
+- קוביזם
+- التكعيبيه
+- حجمگرایی
+- مدرسة تكعيبية
+- مکعبیت
+- مڪعب پسندي
+- کوبیسم
+- کیوبزم
+- घनचित्रण शैली
+- ਘਣਵਾਦ
+- கியூபிசம்
+- క్యూబిజం
+- ಘನಾಕೃತಿ ಕಲೆ
+- ക്യൂബിസം
+- บาศกนิยม
+- კუბიზმი
+- キュビスム
+- 立体主义
+- 立體主義
+- 립체파
+- 입체파
 has_id_wikidata: Q42934
 influenced_by:
-  - "[[_Standards/WikiData/WD~African_art,386302]]"
-  - "[[_Standards/WikiData/WD~primitivism,848365]]"
-  - "[[_Standards/WikiData/WD~Paul_Cézanne,35548]]"
-named_after: "[[_Standards/WikiData/WD~cube,812880]]"
+- '[[_Standards/WikiData/WD~African_art,386302]]'
+- '[[_Standards/WikiData/WD~primitivism,848365]]'
+- '[[_Standards/WikiData/WD~Paul_Cézanne,35548]]'
+named_after: '[[_Standards/WikiData/WD~cube,812880]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~art_movement,968159]]"
-  - "[[_Standards/WikiData/WD~art_style,1792644]]"
-  - "[[_Standards/WikiData/WD~painting_movement,3326867]]"
-  - "[[_Standards/WikiData/WD~architectural_style,32880]]"
-different_from: "[[_Standards/WikiData/WD~quantum_Bayesianism,7268978]]"
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~painting_movement,3326867]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
+different_from: '[[_Standards/WikiData/WD~quantum_Bayesianism,7268978]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q65253925,65253925]]"
-country: "[[_Standards/WikiData/WD~France,142]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q65253925,65253925]]'
+country: '[[_Standards/WikiData/WD~France,142]]'
 Artsy_gene: cubism
-OmegaWiki_Defined_Meaning: "673221"
+OmegaWiki_Defined_Meaning: 673221
 Commons_gallery: Cubism
 Commons_category: Cubism
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Juan%20Gris%20-%20Portrait%20of%20Pablo%20Picasso%20-%20Google%20Art%20Project.jpg
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KUBIZM.html
 inception: 1907-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Kubisme
+    ar: مدرسة تكعيبية
+    arz: التكعيبيه
+    ast: Cubismu
+    az: kubizm
+    bcl: Kubismo
+    be: кубізм
+    be-tarask: кубізм
+    bg: кубизъм
+    bs: Kubizam
+    ca: cubisme
+    cs: kubismus
+    cv: Кубизм
+    cy: Ciwbiaeth
+    da: Kubisme
+    de: Kubismus
+    el: Κυβισμός
+    en: cubism
+    eo: Kubismo
+    es: cubismo
+    et: kubism
+    eu: kubismo
+    fa: حجمگرایی
+    fi: kubismi
+    fr: cubisme
+    ga: Ciúbachas
+    gd: Ciùbachas
+    gl: cubismo
+    gsw: Kubismus
+    he: קוביזם
+    hi: घनचित्रण शैली
+    hr: Kubizam
+    hu: kubizmus
+    hy: կուբիզմ
+    ia: Cubismo
+    id: kubisme
+    io: Kubismo
+    it: cubismo
+    ja: キュビスム
+    jv: Kubisme
+    ka: კუბიზმი
+    kk: Кубшылдық
+    kn: ಘನಾಕೃತಿ ಕಲೆ
+    ko: 입체파
+    ko-kp: 립체파
+    ku: Kubîzm
+    ky: Кубизм
+    la: Cubismus
+    lb: Kubismus
+    lfn: Cubisme
+    lt: Kubizmas
+    lv: kubisms
+    mk: кубизам
+    ml: ക്യൂബിസം
+    mn: Кубизм
+    ms: kubisme
+    mt: kubiżmu
+    mzn: کوبیسم
+    nan: Li̍p-thé-chú-gī
+    nb: kubisme
+    nds: Kubismus
+    nl: kubisme
+    nn: kubisme
+    oc: Cubisme
+    os: кубизм
+    pa: ਘਣਵਾਦ
+    pl: kubizm
+    pms: Cubism
+    pnb: کیوبزم
+    pt: cubismo
+    ro: cubism
+    ru: кубизм
+    rue: Кубизм
+    scn: Cubbismu
+    sco: cubism
+    sd: مڪعب پسندي
+    se: kubisma
+    sh: Kubizam
+    sje: kubissma
+    sk: Kubizmus
+    sl: kubizem
+    sma: kubisme
+    smj: kubissma
+    smn: kubism
+    sms: kubismm
+    sq: kubizmi
+    sr: кубизам
+    sr-ec: кубизам
+    sr-el: kubizam
+    stq: Kubismus
+    sv: kubism
+    ta: கியூபிசம்
+    te: క్యూబిజం
+    th: บาศกนิยม
+    tl: Kubismo
+    tr: Kübizm
+    tt: кубизм
+    tyv: Кубизм
+    uk: кубізм
+    ur: مکعبیت
+    uz: Kubizm
+    vec: cubismo
+    vi: lập thể
+    wuu: 立体主义
+    yue: 立體主義
+    zea: Kubisme
+    zh: 立体主义
 ---
-
 # [[Cubism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cubism,42934|WD~Cubism,42934]] 

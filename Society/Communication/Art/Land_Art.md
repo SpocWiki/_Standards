@@ -1,24 +1,122 @@
 ---
 aliases:
-  - Land art
-  - Earth art
-  - environmental art
-  - Earthworks
-  - Land_Art
-  - Land Art
+- Ars terrena
+- art natura
+- celf tir
+- Earth art
+- Earthworks
+- environmental art
+- jordkonst
+- krajinska umetnost
+- Land art
+- Landarto
+- Landkuns
+- landschapskunst
+- Land_Art
+- lend-art
+- maakunst
+- maataide
+- Nghệ thuật Trái Đất
+- Seni tanah
+- Stedskunst
+- sztuka ziemi
+- yeryüzü sanatı
+- Žemės menas
+- земјишна уметност
+- ленд-арт
+- Лендарт
+- Лэнд-арт
+- լենդ արտ
+- אמנות אדמה
+- تصميم الاراضى
+- فن الأرض
+- هنر زمینی
+- भूमि कला
+- ਭੂਮੀ ਕਲਾ
+- ภูมิศิลป์
+- ლენდ-არტი
+- ランド・アート
+- 地景藝術
+- 大地艺术
+- 大地藝術
+- 대지 예술
 has_id_wikidata: Q326478
 subclass_of: '[[_Standards/WikiData/WD~public_art,557141]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379]]'
 practiced_by: '[[_Standards/WikiData/WD~land_artist,33123562]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spiral-jetty-from-rozel-point.png
 Commons_category: Land art
 Commons_gallery: Land Art
 hashtag: landart
 OpenStreetMap_tag: artwork_type=landart
+dv_has_:
+  name_:
+    af: Landkuns
+    ar: فن الأرض
+    arz: تصميم الاراضى
+    ast: Land Art
+    az: lend-art
+    be: Лэнд-арт
+    be-tarask: лэнд-арт
+    bg: Лендарт
+    br: Land Art
+    bs: Land art
+    ca: art natura
+    cs: land art
+    cy: celf tir
+    da: Land art
+    de: Land Art
+    en: land art
+    eo: Landarto
+    es: land art
+    et: maakunst
+    eu: Land art
+    fa: هنر زمینی
+    fi: maataide
+    fr: land art
+    gl: Land art
+    he: אמנות אדמה
+    hi: भूमि कला
+    hr: Land art
+    hu: land art
+    hy: լենդ արտ
+    id: Seni tanah
+    it: Land Art
+    ja: ランド・アート
+    ka: ლენდ-არტი
+    ko: 대지 예술
+    la: Ars terrena
+    lt: Žemės menas
+    mk: земјишна уметност
+    nb: Stedskunst
+    nl: landschapskunst
+    nn: Land art
+    pa: ਭੂਮੀ ਕਲਾ
+    pl: sztuka ziemi
+    pt: land art
+    ro: Land art
+    ru: ленд-арт
+    sh: Land art
+    sl: krajinska umetnost
+    sr: Ленд-арт
+    sr-ec: Ленд-арт
+    sr-el: Lend-art
+    sv: jordkonst
+    th: ภูมิศิลป์
+    tr: yeryüzü sanatı
+    uk: лендарт
+    vi: Nghệ thuật Trái Đất
+    yue: 地景藝術
+    zh: 大地艺术
+    zh-cn: 大地艺术
+    zh-hans: 大地艺术
+    zh-hant: 大地藝術
+    zh-hk: 大地藝術
+    zh-sg: 大地艺术
+    zh-tw: 大地藝術
 ---
-
 # [[Land_Art]] 
 
 #is_/same_as :: [[WD~Land_art,326478]] 

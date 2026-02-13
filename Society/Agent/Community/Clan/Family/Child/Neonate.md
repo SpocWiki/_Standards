@@ -1,12 +1,55 @@
 ---
 aliases:
-  - Neugeborenes
-  - newborn
-  - Neonate
+- Antaykira
+- jaioberri
+- jaundzimušais
+- Naujagimis
+- Neonate
+- neonato
+- Neonatus
+- Neugeborenes
+- newborn
+- nou-născut
+- nounat
+- nouveau-né
+- novnaskito
+- novorodenec
+- novorojenček
+- novorozenec
+- Novorođenče
+- noworodek
+- Nunnatu
+- nyfödd
+- nyfødd
+- nyfødt
+- nûza
+- pasgeborene
+- recém-nascido
+- Recén-nacido
+- vastasyntynyt
+- Vastsündinu
+- Yenidoğan dönemi
+- újszülött
+- νεογνό
+- Емшектегі бала
+- навародак
+- Навзод
+- нованароджанае дзіця
+- новонароджений
+- новорођенче
+- новорождённый
+- Пепке
+- Նորածին
+- حديث الولادة
+- ཕྲུ་གུ་སྨར་འབྱར།
+- 新生児
+- 新生兒
+- 未滿月
+- 신생아
 has_id_wikidata: Q576104
 instance_of:
-  - '[[_Standards/WikiData/WD~concept,151885]]'
-  - '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
 studied_by: '[[_Standards/WikiData/WD~neonatology,898674]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
@@ -15,11 +58,11 @@ replaced_by: '[[_Standards/WikiData/WD~infant,998]]'
 subclass_of: '[[_Standards/WikiData/WD~infant,998]]'
 facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
 normal_respiratory_rate:
-  - 30
-  - 40
+- 30
+- 40
 heart_rate:
-  - 120
-  - 160
+- 120
+- 160
 duration: 28
 has_cause: '[[_Standards/WikiData/WD~parturition,34581]]'
 mass: 3250
@@ -29,8 +72,63 @@ UMLS_CUI: C0021289
 Terminologia_Embryologica: E1.0.2.7.0.0.9
 MeSH_tree_code: M01.060.703.520
 Commons_category: Newborn animals
+dv_has_:
+  name_:
+    ar: حديث الولادة
+    ast: Neonato
+    be: нованароджанае дзіця
+    be-tarask: навародак
+    bo: ཕྲུ་གུ་སྨར་འབྱར།
+    bs: Novorođenče
+    ca: nounat
+    cs: novorozenec
+    cv: Пепке
+    da: nyfødt
+    de: Neugeborenes
+    el: νεογνό
+    en: neonate
+    eo: novnaskito
+    es: neonato
+    et: Vastsündinu
+    eu: jaioberri
+    fi: vastasyntynyt
+    fr: nouveau-né
+    gl: Neonato
+    hr: novorođenče
+    hu: újszülött
+    hy: Նորածին
+    it: neonato
+    ja: 新生児
+    kk: Емшектегі бала
+    ko: 신생아
+    ku-latn: nûza
+    la: Neonatus
+    lt: Naujagimis
+    lv: jaundzimušais
+    mwl: Recén-nacido
+    nb: nyfødt
+    nl: pasgeborene
+    nn: nyfødd
+    pl: noworodek
+    pt: recém-nascido
+    pt-br: recém-nascido
+    qu: Antaykira
+    ro: nou-născut
+    ru: новорождённый
+    scn: Nunnatu
+    sh: Novorođenče
+    sk: novorodenec
+    sl: novorojenček
+    sr: новорођенче
+    sr-ec: новорођенче
+    sv: nyfödd
+    tg: Навзод
+    tr: Yenidoğan dönemi
+    uk: новонароджений
+    vec: neonato
+    yue: 未滿月
+    zh: 新生兒
 ---
-
 # [[Neonate]] 
 
 #is_/same_as :: [[WD~Neonate,576104]] 

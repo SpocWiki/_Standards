@@ -1,36 +1,184 @@
 ---
 aliases:
-  - polycarbohydrates
-  - Polysaccharide
+- Fjölsykra
+- heteropolisaxaridlər
+- Poilisacaraid
+- polaisiúicríd
+- Polisacarid
+- polisaccaride
+- polisaccarit
+- polisacharidai
+- polisacharyd
+- polisacàrid
+- polisacárido
+- polisacáridu
+- polisaharid
+- Polisaharidi
+- polisaharīdi
+- polisakarida
+- Polisakaridet
+- polisakarido
+- polisakkarit
+- Polisaxaridlar
+- polisaĥarido
+- polissacarídeo
+- poliszacharid
+- Polizaharide
+- polycarbohydrates
+- polysacarid
+- Polysaccharide
+- Polysacharid
+- Polysacharide
+- polysacharidy
+- polysackarid
+- polysakkarid
+- polysakkaridi
+- polysakkariid
+- polysakkariida
+- Polïsaxarïdter
+- polüsahhariidid
+- sammensatte sukkerarter
+- To-thn̂g
+- Πολυσακχαρίτης
+- полісахариди
+- поліцукрыды
+- Полизахарид
+- Полисахарид
+- Полисахариддер
+- Полисахаридтер
+- полисахариды
+- Полисахаридҳо
+- Բազմաշաքարներ
+- רב-סוכר
+- متعدد السكاريد
+- پلیساکارید
+- پولىيساحارىيدتەر
+- پولی ساکارید
+- बहुशर्करा
+- পলিস্যাকারাইড
+- கூட்டுச்சர்க்கரை
+- పాలీశాకరైడ్
+- പോളിസാക്കറൈഡ്
+- พอลิแซ็กคาไรด์
+- პოლისაქარიდები
+- 多糖
+- 多醣
+- 다당류
 has_id_wikidata: Q134219
 polymer_of: '[[_Standards/WikiData/WD~monosaccharide,133516]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~macromolecule,178593]]'
-  - '[[_Standards/WikiData/WD~biopolymer,422649]]'
-  - '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+- '[[_Standards/WikiData/WD~macromolecule,178593]]'
+- '[[_Standards/WikiData/WD~biopolymer,422649]]'
+- '[[_Standards/WikiData/WD~carbohydrate,11358]]'
 opposite_of: '[[_Standards/WikiData/WD~oligosaccharide,320607]]'
 described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 part_of:
-  - '[[_Standards/WikiData/WD~polysaccharide_metabolic_process,14911882]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_binding,14913994]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_catabolic_process,21100756]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_biosynthetic_process,21123055]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_localization,21130056]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_transmembrane_transporter_activity,21758315]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_immune_receptor_activity,22243600]]'
-  - '[[_Standards/WikiData/WD~glycolysis_from_storage_polysaccharide_through_glucose_1_phosphate,22275638]]'
-  - '[[_Standards/WikiData/WD~polysaccharide_transport,22292328]]'
+- '[[_Standards/WikiData/WD~polysaccharide_metabolic_process,14911882]]'
+- '[[_Standards/WikiData/WD~polysaccharide_binding,14913994]]'
+- '[[_Standards/WikiData/WD~polysaccharide_catabolic_process,21100756]]'
+- '[[_Standards/WikiData/WD~polysaccharide_biosynthetic_process,21123055]]'
+- '[[_Standards/WikiData/WD~polysaccharide_localization,21130056]]'
+- '[[_Standards/WikiData/WD~polysaccharide_transmembrane_transporter_activity,21758315]]'
+- '[[_Standards/WikiData/WD~polysaccharide_immune_receptor_activity,22243600]]'
+- '[[_Standards/WikiData/WD~glycolysis_from_storage_polysaccharide_through_glucose_1_phosphate,22275638]]'
+- '[[_Standards/WikiData/WD~polysaccharide_transport,22292328]]'
 instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~hydrogen,556]]'
-  - '[[_Standards/WikiData/WD~carbon,623]]'
-  - '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 OmegaWiki_Defined_Meaning: 428407
 UMLS_CUI: C0032594
 MeSH_tree_code: D09.698
 Commons_category: Polysaccharides
+dv_has_:
+  name_:
+    ar: متعدد السكاريد
+    ast: polisacáridu
+    az: heteropolisaxaridlər
+    azb: پولی ساکارید
+    be: поліцукрыды
+    be-tarask: поліцукрыды
+    bg: Полизахарид
+    bn: পলিস্যাকারাইড
+    bs: Polisaharidi
+    ca: polisacàrid
+    cs: polysacharidy
+    cy: polysacarid
+    da: polysakkarid
+    de: Polysaccharide
+    el: Πολυσακχαρίτης
+    en: polysaccharide
+    eo: polisaĥarido
+    es: polisacárido
+    et: polüsahhariidid
+    eu: polisakarido
+    fa: پلیساکارید
+    fi: polysakkaridi
+    fr: polysaccharide
+    ga: polaisiúicríd
+    gd: Poilisacaraid
+    gl: polisacárido
+    he: רב-סוכר
+    hi: बहुशर्करा
+    hr: polisaharidi
+    hu: poliszacharid
+    hy: Բազմաշաքարներ
+    id: polisakarida
+    io: Polisakarido
+    is: Fjölsykra
+    it: polisaccaride
+    ja: 多糖
+    jv: Polisakarida
+    ka: პოლისაქარიდები
+    kk: Полисахаридтер
+    kk-arab: پولىيساحارىيدتەر
+    kk-cn: پولىيساحارىيدتەر
+    kk-cyrl: Полисахаридтер
+    kk-kz: Полисахаридтер
+    kk-latn: Polïsaxarïdter
+    kk-tr: polïsaxarïdter
+    ko: 다당류
+    ky: Полисахариддер
+    li: Polysacharide
+    lt: polisacharidai
+    lv: polisaharīdi
+    mk: Полисахарид
+    ml: പോളിസാക്കറൈഡ്
+    ms: Polisakarida
+    nan: To-thn̂g
+    nb: sammensatte sukkerarter
+    nl: polysacharide
+    nn: polysakkarid
+    oc: Polisacarid
+    pl: polisacharyd
+    pt: polissacarídeo
+    ro: Polizaharide
+    ru: полисахариды
+    se: polysakkariida
+    sh: Polisaharidi
+    sk: Polysacharid
+    sl: polisaharid
+    smn: polysakkarid
+    sms: polysakkariid
+    sq: Polisakaridet
+    sr: полисахарид
+    sr-ec: полисахарид
+    su: Polisakarida
+    sv: polysackarid
+    ta: கூட்டுச்சர்க்கரை
+    te: పాలీశాకరైడ్
+    tg: Полисахаридҳо
+    th: พอลิแซ็กคาไรด์
+    tr: polisakkarit
+    uk: полісахариди
+    uz: Polisaxaridlar
+    vi: polisaccarit
+    war: Polysaccharide
+    wuu: 多醣
+    yue: 多醣
+    zh: 多醣
 ---
-
 # [[Polysaccharide]] 
 
 #has_/child_/class :: [[Oligosaccharide]] 

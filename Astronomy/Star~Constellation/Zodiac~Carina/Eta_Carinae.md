@@ -1,17 +1,38 @@
 ---
 aliases:
-  - Eta_Carinae
-  - η Carinae
-  - Eta Carinae
-  - η Car
-  - η Argus
+- Eeta Carinae
+- Eta Carinae
+- Eta de la Quilla
+- Eta Gredlja
+- Eta_Carinae
+- Kuģa Ķīļa Eta
+- Ήτα Τρόπιδος
+- η Argus
+- η Car
+- η Carinae
+- Ета Кіля
+- Ета Кил
+- Ета Кобилица
+- Ета Прамца
+- Эта Кіля
+- эта Киля
+- אטא קארינה
+- إيتا الجؤجؤ
+- اتا شاهتخته
+- एटा कराइनी तारा
+- ഈറ്റ കരിന
+- ดาวอีตากระดูกงูเรือ
+- အိသာ ကရိနီ
+- りゅうこつ座イータ星
+- 海山二
+- 용골자리 에타
 has_id_wikidata: Q12185
-type_of_variable_star: "[[_Standards/WikiData/WD~luminous_blue_variable,742741]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Pieter_Dirkszoon_Keyser,961926]]"
+type_of_variable_star: '[[_Standards/WikiData/WD~luminous_blue_variable,742741]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Pieter_Dirkszoon_Keyser,961926]]'
 time_of_discovery_or_invention: 1595-01-01T00:00:00Z
 right_ascension: 161.26474075372
-constellation: "[[_Standards/WikiData/WD~Carina,10470]]"
-instance_of: "[[_Standards/WikiData/WD~double_star,13890]]"
+constellation: '[[_Standards/WikiData/WD~Carina,10470]]'
+instance_of: '[[_Standards/WikiData/WD~double_star,13890]]'
 absolute_magnitude: -8.6
 radial_velocity: -25
 right_ascension_component_of_proper_motion: -11
@@ -23,68 +44,121 @@ distance_from_Earth: 7500
 apparent_magnitude: 6.48
 image: http://commons.wikimedia.org/wiki/Special:FilePath/EtaCarinae.jpg
 catalog_code:
-  - 1ES 1043-59.4
-  - 2FGL J1045.0-5941
-  - 2FHL J1045.2-5942
-  - 2MASS J10450360-5941040
-  - 3A 1042-595
-  - 3FGL J1045.1-5941
-  - 3FHL J1045.1-5941
-  - 4U 1037-60
-  - 4U 1053-58
-  - AAVSO 1041-59
-  - ALS 1868
-  - CEL 3689
-  - CPC 20 3145
-  - eta Car
-  - Gaia DR2 5350358580171706624
-  - Gaia DR3 5350358584482202880
-  - GC 14799
-  - GCRV 6692
-  - GCRV 6693
-  - GPS 1043-595
-  - HD 93308
-  - HD 93308B
-  - HR 4210
-  - IRAS 10431-5925
-  - JP11 1994
-  - LLNS 2725
-  - PBC J1044.8-5942
-  - PPM 339408
-  - RAFGL 4114
-  - SAO 238429
-  - TIC 458859916
-  - TYC 8626-2809-1
-  - UCAC4 152-053215
-  - WDS J10451-5941
-  - WEB 9578
-  - η Car
+- 1ES 1043-59.4
+- 2FGL J1045.0-5941
+- 2FHL J1045.2-5942
+- 2MASS J10450360-5941040
+- 3A 1042-595
+- 3FGL J1045.1-5941
+- 3FHL J1045.1-5941
+- 4U 1037-60
+- 4U 1053-58
+- AAVSO 1041-59
+- ALS 1868
+- CEL 3689
+- CPC 20 3145
+- eta Car
+- Gaia DR2 5350358580171706624
+- Gaia DR3 5350358584482202880
+- GC 14799
+- GCRV 6692
+- GCRV 6693
+- GPS 1043-595
+- HD 93308
+- HD 93308B
+- HR 4210
+- IRAS 10431-5925
+- JP11 1994
+- LLNS 2725
+- PBC J1044.8-5942
+- PPM 339408
+- RAFGL 4114
+- SAO 238429
+- TIC 458859916
+- TYC 8626-2809-1
+- UCAC4 152-053215
+- WDS J10451-5941
+- WEB 9578
+- η Car
 Commons_category: Eta Carinae
 spectral_class: O5.5III-O7I
 declination: -59.6844587777
 dv_is_:
-  part_of: "[[../Zodiac~Carina]]"
+  part_of: '[[../Zodiac~Carina]]'
   same_as:
-    - "[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]"
-dv_is_part_of: "[[../Zodiac~Carina]]"
+  - '[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]'
+dv_is_part_of: '[[../Zodiac~Carina]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]"
+- '[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]'
+dv_has_:
+  name_:
+    af: Eta Carinae
+    ar: إيتا الجؤجؤ
+    ast: Eta Carinae
+    be-tarask: Эта Кіля
+    bg: Ета Кил
+    bs: Eta Carinae
+    ca: Eta de la Quilla
+    cs: Eta Carinae
+    da: Eta Carinae
+    de: Eta Carinae
+    dv: Eta Carinae
+    el: Ήτα Τρόπιδος
+    en: Eta Carinae
+    es: Eta Carinae
+    et: Eeta Carinae
+    eu: Eta Carinae
+    fa: اتا شاهتخته
+    fi: Eeta Carinae
+    fr: Eta Carinae
+    ga: Eta Carinae
+    he: אטא קארינה
+    hi: एटा कराइनी तारा
+    id: Eta Carinae
+    it: Eta Carinae
+    ja: りゅうこつ座イータ星
+    ko: 용골자리 에타
+    la: Eta Carinae
+    lv: Kuģa Ķīļa Eta
+    mk: Ета Кобилица
+    ml: ഈറ്റ കരിന
+    ms: Eta Carinae
+    my: အိသာ ကရိနီ
+    nb: Eta Carinae
+    nl: Eta Carinae
+    nn: Eta Carinae
+    oc: Eta Carinae
+    pl: eta Carinae
+    pt: Eta Carinae
+    ro: Eta Carinae
+    ru: эта Киля
+    sk: Eta Carinae
+    sl: Eta Gredlja
+    sr: Ета Прамца
+    sr-ec: Ета Прамца
+    sv: Eta Carinae
+    th: ดาวอีตากระดูกงูเรือ
+    tr: Eta Carinae
+    uk: Ета Кіля
+    vi: Eta Carinae
+    war: Eta Carinae
+    yue: 海山二
+    zh: 海山二
 ---
-
 # [[Eta_Carinae]] 
 
 is_part_of = `=this.dv_is_part_of` 

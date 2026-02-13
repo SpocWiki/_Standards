@@ -1,30 +1,153 @@
 ---
 aliases:
-  - ligament
-  - ligament
-  - Ligament
-  - is_a_ligament
+- ballnasc
+- Band (Anatomie)
+- Bağ (anatomiya)
+- bester
+- Boylam
+- Bänder
+- Dây chằng
+- is_a_ligament
+- ledbånd
+- leddband
+- leddbånd
+- legamento
+- Ligaman
+- Ligamen
+- ligament
+- ligamento
+- ligamentum
+- lligament
+- Lotailu
+- Loymint
+- nivelside
+- Raištis
+- saites
+- Skenna
+- Stirennoù
+- szalag és ín
+- tennyn
+- vaz
+- Väz
+- więzadło
+- Σύνδεσμος
+- вяз
+- зв’язка (анатомія)
+- лигамент
+- пушгерӟетъёс
+- связка
+- רצועה
+- بەندۆک
+- رباط
+- رباط (تشريح)
+- अस्थिबंधन
+- स्नायु
+- সন্ধিবন্ধনী
+- స్నాయువు
+- സ്നായുക്കൾ
+- เอ็น
+- 靭帯
+- 韌帶
+- 韧带
+- 인대
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - ligament
+- ligament
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_ligament Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_ligament Class
 type: Type
+has_id_wikidata: Q39888
+dv_has_:
+  name_:
+    ar: رباط
+    az: Bağ (anatomiya)
+    be-tarask: вяз
+    bg: лигамент
+    bn: সন্ধিবন্ধনী
+    br: Stirennoù
+    bs: Ligament
+    ca: lligament
+    ckb: بەندۆک
+    cs: vaz
+    cy: tennyn
+    da: ledbånd
+    de: Bänder
+    el: Σύνδεσμος
+    en: ligament
+    en-ca: Ligament
+    en-gb: ligament
+    eo: ligamento
+    es: ligamento
+    eu: Lotailu
+    fa: رباط
+    fi: nivelside
+    fr: ligament
+    ga: ballnasc
+    gl: ligamento
+    he: רצועה
+    hi: स्नायु
+    ht: Ligaman
+    hu: szalag és ín
+    ia: Ligamento
+    id: Ligamen
+    io: Ligamento
+    it: legamento
+    ja: 靭帯
+    ko: 인대
+    ku-latn: bester
+    kw: Skenna
+    la: ligamentum
+    lb: Band (Anatomie)
+    lfn: Ligamento
+    lt: Raištis
+    lv: saites
+    mk: лигамент
+    ml: സ്നായുക്കൾ
+    mr: अस्थिबंधन
+    ms: Ligamen
+    nb: leddbånd
+    nds: Band (Anatomie)
+    new: स्नायु
+    nl: ligament
+    nn: leddband
+    oc: Ligament
+    pl: więzadło
+    ps: رباط (تشريح)
+    pt: ligamento
+    pt-br: Ligamento
+    ro: Ligament
+    ru: связка
+    sk: Väz
+    sl: ligament
+    sq: Ligament
+    sr: Лигамент
+    sv: ligament
+    te: స్నాయువు
+    th: เอ็น
+    tr: Ligament
+    udm: пушгерӟетъёс
+    uk: зв’язка (анатомія)
+    ur: رباط
+    uz: Boylam
+    vi: Dây chằng
+    wa: Loymint
+    wuu: 韧带
+    yue: 韌帶
+    zh: 韧带
 ---
-
 # [[Ligament]] 
 
 Class of all ligaments.

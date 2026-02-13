@@ -1,10 +1,82 @@
 ---
 aliases:
-  - Rick Rubin
-  - Frederick Jay Rubin
-  - Rubin,Rick
+- Frederick Jay Rubin
+- Rick Rubin
+- Rubin, Rik
+- Rubin,Rick
+- Ρικ Ρούμπιν
+- Рік Рубін
+- Рик Рубин
+- Ռիք Ռուբին
+- ריק רובין
+- ريك روبن
+- ریک روبین
+- রিক রুবিন
+- ริก รูบิน
+- რიკ რუბინი
+- リック・ルービン
+- 瑞克·魯賓
+- 里克·罗宾
+- 里克·魯賓
+- 里克·鲁宾
+- 릭 루빈
+has_id_wikidata: Q587361
+dv_has_:
+  name_:
+    ar: ريك روبن
+    arz: ريك روبن
+    ast: Rick Rubin
+    azb: ریک روبین
+    bg: Рик Рубин
+    bn: রিক রুবিন
+    ca: Rick Rubin
+    cs: Rick Rubin
+    da: Rick Rubin
+    de: Rick Rubin
+    el: Ρικ Ρούμπιν
+    en: Rick Rubin
+    eo: Rick Rubin
+    es: Rick Rubin
+    fa: ریک روبین
+    fi: Rick Rubin
+    fr: Rick Rubin
+    ga: Rick Rubin
+    gl: Rick Rubin
+    he: ריק רובין
+    hr: Rick Rubin
+    hu: Rick Rubin
+    hy: Ռիք Ռուբին
+    id: Rick Rubin
+    it: Rick Rubin
+    ja: リック・ルービン
+    ka: რიკ რუბინი
+    ko: 릭 루빈
+    lt: Rick Rubin
+    mk: Рик Рубин
+    mul: Rick Rubin
+    nb: Rick Rubin
+    nl: Rick Rubin
+    nn: Rick Rubin
+    pap: Rick Rubin
+    pl: Rick Rubin
+    pt: Rick Rubin
+    pt-br: Rick Rubin
+    ro: Rick Rubin
+    ru: Рик Рубин
+    sk: Rick Rubin
+    sl: Rick Rubin
+    sq: Rick Rubin
+    sv: Rick Rubin
+    th: ริก รูบิน
+    tr: Rick Rubin
+    uk: Рік Рубін
+    uz: Rubin, Rik
+    vi: Rick Rubin
+    zh: 瑞克·魯賓
+    zh-cn: 里克·鲁宾
+    zh-hans: 里克·罗宾
+    zh-hant: 里克·魯賓
 ---
-
 # [[Rubin,Rick]] 
 
 #has_/time_/started :: 1963-03-10 

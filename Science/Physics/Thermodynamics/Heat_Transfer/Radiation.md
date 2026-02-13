@@ -1,14 +1,105 @@
 ---
 aliases:
+- bức xạ
+- Cɛkasɩ lɩzɩtʋ
+- Erradiazio
+- Geislun
+- Illanchay
+- IMiyonzi
+- kiirgus
+- Kirgämine
+- Madana
+- Mekɔ̄ŋ
+- Mnururisho
+- Nurlanish
+- promieniowanie
+- radaíocht
+- Radhiasi
+- radiació
+- radiación
+- radiado
+- Radiasi
+- Radiassion
+- radiatio
+- radiation
+- radiazione
+- radiação
+- Radiație
+- Radijacija
+- Radiyasyon
+- Radyasyon
+- raionament
+- Rashin haske
+- rayonnement
+- Rrezatimi
+- sevanje
+- sinaran
+- spinduliuotė
+- starojums
+- Strahlung
+- straling
+- Stralung
+- Stroalenge
+- stråling
+- strålning
+- sugárzás
+- suonjârdem
+- säteily
+- tîrojdan
+- ymbelydredd
+- zračenje
+- záření
+- Şüalanma
+- Žiarenie
+- ακτινοβολία
+- Афканишот
+- випромінення
+- выпраменьванне
+- выпраменьваньне
+- зрачење
+- излучение
+- Лъчение
+- нурланыш
+- Пайăркалав
+- Радиация
+- тылси лэзён
+- Цацраг туяа
+- Ճառագայթում
+- קרינה
+- إشعاع
+- اشعاع
+- تیشکدان
+- ریڑیشَن
+- سينرن
+- وړانګه اچونه
+- پرتو
+- किरणोत्सर्ग
+- विकिरण
+- বিকিরণ
+- ਸੰਵਿਹਣ
+- கதிர்வீச்சு
+- వికిరణం
+- ವಿಕಿರಣ
+- വികിരണം
+- විකිරණශීලීතාව
+- การแผ่รังสี
+- ລັງສີ
+- ရေဒီယို သတ္တိကြွခြင်း
+- რადიაცია
+- ጨረራ
+- 放射
+- 輻射
+- 辐射
+- 방사선
 has_id_wikidata: Q18335
 subclass_of:
-  - "[[_Standards/WikiData/WD~heat_transfer,179635]]"
-  - "[[_Standards/WikiData/WD~energy_transfer_process,116118033]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Radiation,10927520]]"
-studied_by: "[[_Standards/WikiData/WD~physics,413]]"
-part_of: "[[_Standards/WikiData/WD~physics,413]]"
-OmegaWiki_Defined_Meaning: "3070"
-U_S_National_Archives_Identifier: "10643799"
+- '[[_Standards/WikiData/WD~heat_transfer,179635]]'
+- '[[_Standards/WikiData/WD~energy_transfer_process,116118033]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Radiation,10927520]]'
+studied_by: '[[_Standards/WikiData/WD~physics,413]]'
+part_of: '[[_Standards/WikiData/WD~physics,413]]'
+OmegaWiki_Defined_Meaning: 3070
+U_S_National_Archives_Identifier: 10643799
 Commons_category: Radiation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Radiation%20warning%20symbol.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001023
@@ -16,8 +107,122 @@ IEV_number: 881-02-01
 UMLS_CUI: C0851346
 MeSH_tree_code: G01.750
 Krugosvet_article_archived_: voennoe-delo/radiatsiya
+dv_has_:
+  name_:
+    af: Straling
+    am: ጨረራ
+    ar: إشعاع
+    ary: إشعاع
+    az: Şüalanma
+    be: выпраменьванне
+    be-tarask: выпраменьваньне
+    bg: Лъчение
+    bn: বিকিরণ
+    bs: zračenje
+    ca: radiació
+    ckb: تیشکدان
+    cs: záření
+    cv: Пайăркалав
+    cy: ymbelydredd
+    da: stråling
+    de: Strahlung
+    de-ch: Strahlung
+    el: ακτινοβολία
+    en: radiation
+    en-ca: Radiation
+    en-gb: radiation
+    eo: radiado
+    es: radiación
+    et: kiirgus
+    eu: Erradiazio
+    fa: پرتو
+    fi: säteily
+    fr: rayonnement
+    ga: radaíocht
+    gl: Radiación
+    gsw: Strahlung
+    ha: Rashin haske
+    he: קרינה
+    hi: विकिरण
+    hr: Radijacija
+    ht: Radyasyon
+    hu: sugárzás
+    hy: Ճառագայթում
+    id: Radiasi
+    io: Radiado
+    is: Geislun
+    it: radiazione
+    ja: 放射
+    jv: Radhiasi
+    ka: რადიაცია
+    kbp: Cɛkasɩ lɩzɩtʋ
+    kk: Радиация
+    kn: ವಿಕಿರಣ
+    ko: 방사선
+    ks: ریڑیشَن
+    ku: tîrojdan
+    la: radiatio
+    lb: Stralung
+    lo: ລັງສີ
+    lt: spinduliuotė
+    lv: starojums
+    mag: विकिरण
+    mk: зрачење
+    ml: വികിരണം
+    mn: Цацраг туяа
+    mr: किरणोत्सर्ग
+    ms: sinaran
+    ms-arab: سينرن
+    my: ရေဒီယို သတ္တိကြွခြင်း
+    nb: stråling
+    ne: विकिरण
+    nl: straling
+    nn: stråling
+    oc: raionament
+    om: Madana
+    pa: ਸੰਵਿਹਣ
+    pl: promieniowanie
+    pms: Radiassion
+    ps: وړانګه اچونه
+    pt: radiação
+    pt-br: Radiação
+    qu: Illanchay
+    ro: Radiație
+    ru: излучение
+    sco: radiation
+    sh: Zračenje
+    si: විකිරණශීලීතාව
+    sk: Žiarenie
+    sl: sevanje
+    smn: suonjârdem
+    sq: Rrezatimi
+    sr: Зрачење
+    stq: Stroalenge
+    su: Radiasi
+    sv: strålning
+    sw: Mnururisho
+    ta: கதிர்வீச்சு
+    te: వికిరణం
+    tg: Афканишот
+    th: การแผ่รังสี
+    tl: Radiyasyon
+    tr: Radyasyon
+    tt: нурланыш
+    tt-cyrl: нурланыш
+    udm: тылси лэзён
+    uk: випромінення
+    ur: اشعاع
+    uz: Nurlanish
+    vi: bức xạ
+    vro: Kirgämine
+    war: Radyasyon
+    wuu: 辐射
+    xmf: რადიაცია
+    ybb: Mekɔ̄ŋ
+    yue: 輻射
+    zh: 輻射
+    zu: IMiyonzi
 ---
-
 # [[Radiation]] 
 
 #is_/same_as :: [[WD~Radiation,18335]]  

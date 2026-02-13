@@ -1,11 +1,113 @@
 ---
 aliases:
+- công nghệ tàng hình
+- Furtivitat
+- furtivité
+- häiveteknologia
+- lopakodó technológia
+- peitetehnoloogiad
+- smygteknik
+- stealth
+- stealth technology
+- stealth teknolojisi
+- stealth-teknologi
+- stels texnologiyası
+- stelt tehnologija
+- Tarnkappentechnik
+- technologie stealth
+- tecnologia furtiva
+- tecnologia stealth
+- tecnologìa stealth
+- tecnología furtiva
+- tehnologie stealth
+- tehnologija nevidnosti
+- teknologi halimunan
+- teknologi siluman
+- teknologia detektagaitz
+- teknologjia e fshehtë
+- teunoloxía furtiva
+- приктивна технологија
+- Стелс-технология
+- Стелт технология
+- Стэлс
+- стэлт
+- חמקנות
+- تقنية التخفي
+- فناوری شناساگریزی
+- مخفہ طرزیات
+- स्टेल्थ तकनीक
+- স্টেলথ প্রযুক্তি
+- கரவு தொழில்நுட்பம்
+- സ്റ്റെൽത്ത് ടെക്നോളജി
+- ステルス性
+- 低可侦测性技术
+- 低可偵測性技術
+- 隱形技術
+- 스텔스 기술
 has_id_wikidata: Q339042
-subclass_of: "[[_Standards/WikiData/WD~military_technology,329864]]"
-different_from: "[[_Standards/WikiData/WD~stealth_game,858523]]"
+subclass_of: '[[_Standards/WikiData/WD~military_technology,329864]]'
+different_from: '[[_Standards/WikiData/WD~stealth_game,858523]]'
 Commons_category: Stealth technology
+dv_has_:
+  name_:
+    ar: تقنية التخفي
+    ast: teunoloxía furtiva
+    az: stels texnologiyası
+    be: Стэлс
+    be-tarask: стэлт
+    bg: Стелт технология
+    bn: স্টেলথ প্রযুক্তি
+    ca: tecnologia furtiva
+    cs: technologie stealth
+    da: stealth-teknologi
+    de: Tarnkappentechnik
+    en: stealth technology
+    es: tecnología furtiva
+    et: peitetehnoloogiad
+    eu: teknologia detektagaitz
+    fa: فناوری شناساگریزی
+    fi: häiveteknologia
+    fr: furtivité
+    he: חמקנות
+    hi: स्टेल्थ तकनीक
+    hu: lopakodó technológia
+    id: teknologi siluman
+    it: tecnologia stealth
+    ja: ステルス性
+    ko: 스텔스 기술
+    lt: stealth
+    min: teknologi siluman
+    mk: приктивна технологија
+    ml: സ്റ്റെൽത്ത് ടെക്നോളജി
+    ms: teknologi halimunan
+    nb: stealth
+    nl: stealth
+    nn: stealth-teknologi
+    oc: Furtivitat
+    pl: stealth
+    pms: tecnologìa stealth
+    pt: tecnologia stealth
+    ro: tehnologie stealth
+    ru: Стелс-технология
+    sk: stealth
+    sl: tehnologija nevidnosti
+    sq: teknologjia e fshehtë
+    sr: stelt tehnologija
+    sv: smygteknik
+    ta: கரவு தொழில்நுட்பம்
+    tr: stealth teknolojisi
+    uk: stealth
+    ur: مخفہ طرزیات
+    vi: công nghệ tàng hình
+    yue: 隱形技術
+    zh: 低可偵測性技術
+    zh-cn: 低可侦测性技术
+    zh-hans: 低可侦测性技术
+    zh-hant: 低可偵測性技術
+    zh-hk: 低可偵測性技術
+    zh-sg: 低可侦测性技术
+    zh-tw: 低可偵測性技術
 ---
-
 # [[Stealth_Technology]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stealth_technology,339042|WD~Stealth_technology,339042]]  

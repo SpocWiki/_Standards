@@ -1,4 +1,73 @@
-
+---
+has_id_wikidata: Q212923
+dv_has_:
+  name_:
+    ar: مقاومة ذاكرية
+    bg: Мемристор
+    bn: মেমরিস্টর
+    ca: memristor
+    cs: Memristor
+    da: memristor
+    de: Memristor
+    en: memristor
+    es: memristor
+    et: Memristor
+    eu: memristore
+    fa: ممریستور
+    fi: memristori
+    fr: memristor
+    he: ממריסטור
+    hu: memrisztor
+    id: Memristor
+    it: memristore
+    ja: メモリスタ
+    ko: 멤리스터
+    mk: помпорник
+    nb: memristor
+    nl: memristor
+    pl: Memrystor
+    pt: memristor
+    ro: Memristor
+    ru: Мемристор
+    sh: Memristor
+    sk: Memristor
+    sl: memristor
+    sr: помпорник
+    sr-ec: помпорник
+    sr-el: pompornik
+    sv: memristor
+    ta: நினைவுகொள் மின்தடை
+    th: เมมริสเตอร์
+    tr: Memristor
+    uk: Мемристор
+    vi: Memristor
+    zh: 憶阻器
+    zh-cn: 忆阻器
+    zh-hans: 忆阻器
+    zh-hant: 憶阻器
+    zh-hk: 憶阻器
+    zh-sg: 忆阻器
+    zh-tw: 憶阻器
+aliases:
+- memristor
+- memristore
+- memristori
+- memrisztor
+- Memrystor
+- pompornik
+- Мемристор
+- помпорник
+- ממריסטור
+- مقاومة ذاكرية
+- ممریستور
+- মেমরিস্টর
+- நினைவுகொள் மின்தடை
+- เมมริสเตอร์
+- メモリスタ
+- 忆阻器
+- 憶阻器
+- 멤리스터
+---
 # [[Memristor]] 
 
 Memristance is charge-dependent [resistance](https://en.wikipedia.org/wiki/Electrical_resistance "Electrical resistance"), analog to 

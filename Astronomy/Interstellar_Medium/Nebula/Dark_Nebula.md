@@ -1,37 +1,170 @@
 ---
 aliases:
-  - dark nebula or absorption nebula
-  - Dark_Nebula
-  - Dark Nebula
+- absorptienevel
+- Asignew amallas
+- Ciemna mgławica
+- Dark Nebula
+- dark nebula or absorption nebula
+- Dark_Nebula
+- Donkelniwwel
+- Donker newel
+- Dunkelwolke
+- Karanlık bulutsu
+- malhela nebulozo
+- mörk nebulosa
+- mørk tåke
+- Nebula gelap
+- Nebula kadap
+- Nebuloasă obscură
+- Nebulosa escura
+- nebulosa fosca
+- Nebulosa ilun
+- nebulosa oscura
+- Nebulosa sorna
+- neeal dorraghey
+- nibbulusa oscura
+- nifwl tywyll
+- nébuleuse obscure
+- Nëbbëlosa scura
+- Pimeä sumu
+- réaltnéal dorcha
+- Tamna maglica
+- Tamna maglina
+- Tamsusis debesis
+- temna meglica
+- temná mlhovina
+- Tinh vân tối
+- Tmavá hmlovina
+- Tume udukogu
+- Tumšais miglājs
+- Àm-seng-hûn
+- σκοτεινό νεφέλωμα
+- тёмная туманность
+- Тамна маглина
+- темна маглина
+- темна туманність
+- Тъмна мъглявина
+- Цёмная туманнасць
+- цёмная туманнасьць
+- ערפילית בליעה
+- تەمەستێرەی تاریک
+- سحابیهای تاریک
+- سديم مظلم
+- अंधेरे निहारिका
+- অন্ধকার নীহারিকা
+- இருண்ட நெபுலா
+- ಕಪ್ಪು ನಿಹಾರಿಕೆ
+- เนบิวลามืด
+- ბნელი ნისლეული
+- 暗星云
+- 暗星雲
+- 暗黒星雲
+- 黑暗星雲
+- 암흑 성운
 has_id_wikidata: Q204194
-has_list: "[[_Standards/WikiData/WD~list_of_dark_nebulae,2996068]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_dark_nebula,14446992]]"
-instance_of: "[[_Standards/WikiData/WD~astronomical_object_type,17444909]]"
-part_of: "[[_Standards/WikiData/WD~galaxy,318]]"
-subclass_of: "[[_Standards/WikiData/WD~nebula,42372]]"
+has_list: '[[_Standards/WikiData/WD~list_of_dark_nebulae,2996068]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_dark_nebula,14446992]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: '[[_Standards/WikiData/WD~nebula,42372]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barnard%2068.jpg
 Commons_category: Dark nebulae
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]]"
-    - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]]"
-    - "[[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]]"
-    - "[[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]]"
-    - "[[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]]"
-    - "[[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]]"
-    - "[[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]]"
-    - "[[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]]"
+  - '[[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]]'
+  - '[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]]'
+  - '[[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]]'
+  - '[[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]]'
+  - '[[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]]'
+  - '[[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]]'
+  - '[[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]]'
+  - '[[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]]"
-  - "[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]]"
-  - "[[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]]"
-  - "[[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]]"
-  - "[[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]]"
-  - "[[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]]"
-  - "[[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]]"
-  - "[[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]]"
+- '[[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]]'
+- '[[/_Standards/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula|Dark_Nebula]]'
+- '[[/_public/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.public|Dark_Nebula.public]]'
+- '[[/_internal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.internal|Dark_Nebula.internal]]'
+- '[[/_protect/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.protect|Dark_Nebula.protect]]'
+- '[[/_private/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.private|Dark_Nebula.private]]'
+- '[[/_personal/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.personal|Dark_Nebula.personal]]'
+- '[[/_secret/Astronomy/Interstellar_Medium/Nebula/Dark_Nebula.secret|Dark_Nebula.secret]]'
+dv_has_:
+  name_:
+    af: Donker newel
+    ar: سديم مظلم
+    ast: Nebulosa escura
+    be: Цёмная туманнасць
+    be-tarask: цёмная туманнасьць
+    bg: Тъмна мъглявина
+    bjn: Nebula kadap
+    bn: অন্ধকার নীহারিকা
+    bs: Tamna maglina
+    ca: nebulosa fosca
+    ckb: تەمەستێرەی تاریک
+    cs: temná mlhovina
+    cy: nifwl tywyll
+    de: Dunkelwolke
+    el: σκοτεινό νεφέλωμα
+    en: dark nebula
+    eo: malhela nebulozo
+    es: nebulosa oscura
+    et: Tume udukogu
+    eu: Nebulosa ilun
+    fa: سحابیهای تاریک
+    fi: Pimeä sumu
+    fr: nébuleuse obscure
+    ga: réaltnéal dorcha
+    gl: nebulosa escura
+    gv: neeal dorraghey
+    he: ערפילית בליעה
+    hi: अंधेरे निहारिका
+    hr: Tamna maglica
+    id: Nebula gelap
+    it: nebulosa oscura
+    ja: 暗黒星雲
+    ka: ბნელი ნისლეული
+    kab: Asignew amallas
+    kn: ಕಪ್ಪು ನಿಹಾರಿಕೆ
+    ko: 암흑 성운
+    lb: Donkelniwwel
+    lt: Tamsusis debesis
+    lv: Tumšais miglājs
+    mk: темна маглина
+    ms: Nebula gelap
+    nan: Àm-seng-hûn
+    nap: Nëbbëlosa scura
+    nb: mørk tåke
+    nl: absorptienevel
+    nn: mørk tåke
+    oc: Nebulosa sorna
+    pl: Ciemna mgławica
+    pt: nebulosa escura
+    pt-br: nebulosa escura
+    ro: Nebuloasă obscură
+    ru: тёмная туманность
+    scn: nibbulusa oscura
+    sh: Тамна маглина
+    sk: Tmavá hmlovina
+    sl: temna meglica
+    sr: тамна маглина
+    sr-ec: тамна маглина
+    sr-el: tamna maglina
+    sv: mörk nebulosa
+    ta: இருண்ட நெபுலா
+    th: เนบิวลามืด
+    tr: Karanlık bulutsu
+    uk: темна туманність
+    vi: Tinh vân tối
+    wuu: 暗星云
+    yue: 黑暗星雲
+    zh: 暗星雲
+    zh-cn: 暗星云
+    zh-hans: 暗星云
+    zh-hant: 暗星雲
+    zh-hk: 暗星雲
+    zh-sg: 暗星云
+    zh-tw: 暗星雲
 ---
-
 # [[Dark_Nebula]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dark_nebula,204194|WD~Dark_nebula,204194]] 

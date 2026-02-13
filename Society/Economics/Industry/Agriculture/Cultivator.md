@@ -1,26 +1,105 @@
 ---
 aliases:
-  - Kultivator
-  - rotavator
-  - Cultivator
+- cartaire
+- cultivador
+- cultivateur
+- Cultivator
+- Erpi
+- Grubber
+- kultivaator
+- Kultivaattori
+- Kultivator
+- Kultivatoro
+- kultivátor
+- Kultivātor
+- kultywator
+- Kültivatör
+- Lurra lantzeko makina
+- rotavator
+- Культиватор
+- культыватар
+- Мотокултиватор
+- Мотофреза
+- կուլտիվատոր
+- קלטרת
+- مسلفة
+- کولتیواتور
+- कल्टीवेटर
+- କଲ୍ଟିଭେଟର
+- కల్టివేటర్
+- ಕುಂಟೆ
+- 旋耕机
+- 旋耕機
+- 耕田機
+- 耕耘機
+- 컬티베이터
 has_id_wikidata: Q1273840
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~garden_tool,1494647]]'
-  - '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
-  - '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
+- '[[_Standards/WikiData/WD~garden_tool,1494647]]'
+- '[[_Standards/WikiData/WD~agricultural_tool,3629395]]'
+- '[[_Standards/WikiData/WD~tillage_machine,15306431]]'
 different_from: '[[_Standards/WikiData/WD~Cultivateur,20659687]]'
 source_of_energy: '[[_Standards/WikiData/WD~tractor,39495]]'
 Nomenclature_for_Museum_Cataloging:
-  - 3180
-  - 3181
+- 3180
+- 3181
 Commons_category: Cultivators
 Dewey_Decimal_Classification: 631.51
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tandeg.jpg
 UNSPSC_Code: 21101503
 Commons_gallery: Cultivator
+dv_has_:
+  name_:
+    ar: مسلفة
+    be-tarask: культыватар
+    bg: Мотофреза
+    ca: Cultivador
+    cs: kultivátor
+    de: Grubber
+    de-at: Grubber
+    de-ch: Grubber
+    en: cultivator
+    en-ca: cultivator
+    en-gb: cultivator
+    eo: Kultivatoro
+    es: cultivador
+    et: kultivaator
+    eu: Lurra lantzeko makina
+    fa: کولتیواتور
+    fi: Kultivaattori
+    fr: cultivateur
+    frr: Kultivātor
+    ga: cartaire
+    he: קלטרת
+    hi: कल्टीवेटर
+    hy: կուլտիվատոր
+    id: Kultivator
+    ja: 耕耘機
+    kk: Культиватор
+    kn: ಕುಂಟೆ
+    ko: 컬티베이터
+    ky: Культиватор
+    mk: Мотокултиватор
+    nl: Cultivator
+    nn: grubber
+    or: କଲ୍ଟିଭେଟର
+    pl: kultywator
+    pms: Erpi
+    ro: cultivator
+    ru: Культиватор
+    sl: kultivator
+    sr: Мотокултиватор
+    sv: Kultivator
+    te: కల్టివేటర్
+    tr: Kültivatör
+    uk: Культиватор
+    uz: Культиватор
+    yue: 耕田機
+    zh: 旋耕機
+    zh-hans: 旋耕机
+    zh-hant: 耕田機
 ---
-
 # [[Cultivator]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cultivator,1273840|WD~Cultivator,1273840]] 

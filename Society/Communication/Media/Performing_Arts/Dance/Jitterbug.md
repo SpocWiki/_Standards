@@ -1,10 +1,51 @@
 ---
 aliases:
+- Džiterbag
+- jiterbugas
+- jitterbug
+- Джиттербаг
+- джиттербаґ
+- джытэрбаг
+- ג'יטרבאג
+- جيتير بج
+- جٹربگ
+- จิตเตอร์บัก
+- ジルバ
+- 吉特巴
+- 지터벅
 has_id_wikidata: Q950354
-subclass_of: "[[_Standards/WikiData/WD~swing,123704]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
+subclass_of: '[[_Standards/WikiData/WD~swing,123704]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+dv_has_:
+  name_:
+    ar: جيتير بج
+    be-tarask: джытэрбаг
+    ca: jitterbug
+    cs: Jitterbug
+    de: Jitterbug
+    en: jitterbug
+    es: jitterbug
+    eu: Jitterbug
+    fi: jitterbug
+    fr: jitterbug
+    he: ג'יטרבאג
+    hu: Jitterbug
+    it: jitterbug
+    ja: ジルバ
+    ko: 지터벅
+    lt: jiterbugas
+    nl: jitterbug
+    pt: Jitterbug
+    ru: Джиттербаг
+    sh: Jitterbug
+    sr: Džiterbag
+    th: จิตเตอร์บัก
+    tr: Jitterbug
+    uk: джиттербаґ
+    ur: جٹربگ
+    vi: Jitterbug
+    zh: 吉特巴
 ---
-
 # [[Jitterbug]] 
 
 #is_/same_as :: [[WD~Jitterbug,950354]] 

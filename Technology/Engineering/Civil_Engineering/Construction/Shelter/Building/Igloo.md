@@ -1,24 +1,144 @@
 ---
 aliases:
-  - snow house
-  - snow hut
-  - Iglu
-  - Igloo
+- Eskimo evi
+- iglo
+- igloe
+- Igloo
+- Iglu
+- iglù
+- iglú
+- iqlu
+- lều tuyết
+- rumah igloo
+- snjóhús
+- snow house
+- snow hut
+- ιγκλού
+- іглу
+- игло
+- иглу
+- իգլու
+- איגלו
+- ایگلو
+- مبنى قباني
+- इग्लू
+- ईग्लू
+- ইগলু
+- பனிக் கட்டிக் குடில்
+- ఇగ్లూ
+- ಇಗ್ಲೂ
+- ഇഗ്ലൂ
+- อิกลู
+- იგლუ
+- ᐃᒡᓗ
+- ᐄᔅᒌᒣᐅᑲᒥᒄ
+- ᱤᱜᱽᱞᱩ
+- イグルー
+- 冰屋
+- 雪屋
+- 이글루
 has_id_wikidata: Q101805
 subclass_of:
-  - '[[../../../../../../WikiData/WD~shelter,989946]]'
-  - '[[_Standards/WikiData/WD~snow_or_ice_construction,27966041]]'
-  - '[[_Standards/WikiData/WD~house,3947]]'
+- '[[../../../../../../WikiData/WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~snow_or_ice_construction,27966041]]'
+- '[[_Standards/WikiData/WD~house,3947]]'
 facet_of: '[[_Standards/WikiData/WD~snow,7561]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eskimo%20family%20and%20their%20igloo%20cph.3c36050.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CERL%20foam%20dome%20Ft%20McPherson%201982.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eskimo%20family%20and%20their%20igloo%20cph.3c36050.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/CERL%20foam%20dome%20Ft%20McPherson%201982.png
 U_S_National_Archives_Identifier: 10663633
 Iconclass_notation: 41A195
 Commons_gallery: Igloo
 Commons_category: Igloos
+dv_has_:
+  name_:
+    af: igloe
+    ar: مبنى قباني
+    ast: iglú
+    az: iqlu
+    be: іглу
+    be-tarask: іглу
+    bg: иглу
+    bn: ইগলু
+    ca: iglú
+    cr: ᐄᔅᒌᒣᐅᑲᒥᒄ
+    cs: iglú
+    cv: иглу
+    da: iglo
+    de: Iglu
+    el: ιγκλού
+    en: igloo
+    eo: iglo
+    es: iglú
+    et: iglu
+    eu: iglu
+    fa: ایگلو
+    fi: iglu
+    fr: igloo
+    fy: iglo
+    gl: iglú
+    he: איגלו
+    hi: इग्लू
+    hr: iglu
+    hsb: iglu
+    hu: iglu
+    hy: իգլու
+    ia: iglu
+    id: rumah igloo
+    ike-cans: ᐃᒡᓗ
+    ike-latn: iglu
+    is: snjóhús
+    it: iglù
+    iu: ᐃᒡᓗ
+    ja: イグルー
+    jv: igloo
+    ka: იგლუ
+    kn: ಇಗ್ಲೂ
+    ko: 이글루
+    la: iglu
+    lad: iglu
+    lt: iglu
+    lv: iglu
+    mk: игло
+    ml: ഇഗ്ലൂ
+    mr: ईग्लू
+    nb: iglo
+    nds: Iglu
+    new: इग्लू
+    nl: iglo
+    nn: iglo
+    oc: igloo
+    pl: igloo
+    pt: iglu
+    ro: iglu
+    ru: иглу
+    sat: ᱤᱜᱽᱞᱩ
+    se: iglu
+    sh: iglu
+    sk: iglu
+    sl: iglu
+    sr: игло
+    sr-ec: игло
+    sr-el: iglo
+    su: igloo
+    sv: igloo
+    ta: பனிக் கட்டிக் குடில்
+    te: ఇగ్లూ
+    th: อิกลู
+    tr: Eskimo evi
+    uk: іглу
+    uz: igloo
+    vi: lều tuyết
+    wuu: 冰屋
+    yue: 雪屋
+    zh: 冰屋
+    zh-cn: 冰屋
+    zh-hans: 冰屋
+    zh-hant: 冰屋
+    zh-hk: 冰屋
+    zh-sg: 冰屋
+    zh-tw: 冰屋
 ---
-
 # [[Igloo]] 
 
 #is_/same_as :: [[WD~Igloo,101805]] 

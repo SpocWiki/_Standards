@@ -1,35 +1,160 @@
 ---
 aliases:
+- Brotamynd
+- codach
+- Ffractal
+- fractal
+- fractale
+- Fraktaali
+- Fraktaalmeetkunde
+- fraktal
+- Fraktala
+- Fraktalas
+- Fraktali
+- fraktalo
+- fraktál
+- Fraktālis
+- frattale
+- Frattali
+- Impindampindwano
+- Phân dạng
+- Tampaha
+- Φράκταλ
+- фрактал
+- Ֆրակտալ
+- פרקטל
+- برخال
+- فراکتاڵ
+- كسيرة
+- भग्न
+- ফ্রাক্টাল
+- ਫ੍ਰੈਕਟਲ
+- பகுவல்
+- ಫ್ರಾಕ್ಟಲ್
+- ഫ്രാക്ടൽ
+- แฟร็กทัล
+- ფრაქტალი
+- フラクタル
+- 分形
+- 碎形
+- 프락탈
+- 프랙탈
 has_id_wikidata: Q81392
-theorized_by: "[[_Standards/WikiData/WD~Benoit_Mandelbrot,101740]]"
+theorized_by: '[[_Standards/WikiData/WD~Benoit_Mandelbrot,101740]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~self_similarity,262372]]"
-  - "[[_Standards/WikiData/WD~fractal_dimension,1412452]]"
-studied_by: "[[_Standards/WikiData/WD~fractional_calculus,1339058]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Fractals,8363400]]"
-part_of: "[[_Standards/WikiData/WD~mathematics,395]]"
-subclass_of: "[[_Standards/WikiData/WD~set,36161]]"
+- '[[_Standards/WikiData/WD~self_similarity,262372]]'
+- '[[_Standards/WikiData/WD~fractal_dimension,1412452]]'
+studied_by: '[[_Standards/WikiData/WD~fractional_calculus,1339058]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Fractals,8363400]]'
+part_of: '[[_Standards/WikiData/WD~mathematics,395]]'
+subclass_of: '[[_Standards/WikiData/WD~set,36161]]'
 Commons_gallery: Fractal
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Romanesco%20broccoli%20%28Brassica%20oleracea%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mandel%20zoom%2011%20satellite%20double%20spiral.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Romanesco%20broccoli%20%28Brassica%20oleracea%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mandel%20zoom%2011%20satellite%20double%20spiral.jpg
 Commons_category: Fractals
 Stack_Exchange_tag:
-  - https://codereview.stackexchange.com/tags/fractals
-  - https://math.stackexchange.com/tags/fractals
-  - https://matheducators.stackexchange.com/tags/fractals
-  - https://mathematica.stackexchange.com/tags/fractals
-  - https://mathoverflow.net/tags/fractals
-  - https://physics.stackexchange.com/tags/fractals
-  - https://stackoverflow.com/tags/fractals
-  - https://tex.stackexchange.com/tags/fractals
+- https://codereview.stackexchange.com/tags/fractals
+- https://math.stackexchange.com/tags/fractals
+- https://matheducators.stackexchange.com/tags/fractals
+- https://mathematica.stackexchange.com/tags/fractals
+- https://mathoverflow.net/tags/fractals
+- https://physics.stackexchange.com/tags/fractals
+- https://stackoverflow.com/tags/fractals
+- https://tex.stackexchange.com/tags/fractals
 UMLS_CUI: C0206163
 MeSH_tree_code:
-  - E05.599.125
-  - G17.290
+- E05.599.125
+- G17.290
 subreddit: fractals
+dv_has_:
+  name_:
+    af: Fraktaalmeetkunde
+    ar: كسيرة
+    ast: Fractal
+    az: Fraktal
+    ba: Фрактал
+    be: Фрактал
+    be-tarask: фрактал
+    bg: Фрактал
+    bn: ফ্রাক্টাল
+    bs: Fraktal
+    ca: fractal
+    ckb: فراکتاڵ
+    cs: fraktál
+    cv: Фрактал
+    cy: Ffractal
+    da: fraktal
+    de: Fraktal
+    el: Φράκταλ
+    en: fractal
+    eo: fraktalo
+    es: fractal
+    et: Fraktal
+    eu: Fraktal
+    fa: برخال
+    fi: Fraktaali
+    fj: Fraktala
+    fr: fractale
+    ga: codach
+    gl: Fractal
+    gsw: Fraktal
+    he: פרקטל
+    hi: भग्न
+    hr: fraktal
+    hu: fraktál
+    hy: Ֆրակտալ
+    ia: Fractal
+    id: Fraktal
+    io: Fraktalo
+    is: Brotamynd
+    it: frattale
+    ja: フラクタル
+    ka: ფრაქტალი
+    kk: Фрактал
+    kn: ಫ್ರಾಕ್ಟಲ್
+    ko: 프랙탈
+    ko-kp: 프락탈
+    la: Fractal
+    lez: Фрактал
+    lt: Fraktalas
+    lv: Fraktālis
+    lzh: 分形
+    mg: Tampaha
+    mk: фрактал
+    ml: ഫ്രാക്ടൽ
+    ms: Fraktal
+    nb: fraktal
+    nl: fractal
+    nn: fraktal
+    oc: Fractal
+    pa: ਫ੍ਰੈਕਟਲ
+    pl: fraktal
+    pt: fractal
+    pt-br: fractal
+    ro: fractal
+    ru: фрактал
+    sah: Фрактал
+    scn: Frattali
+    sh: Fraktal
+    sk: fraktál
+    sl: fraktal
+    sq: Fraktali
+    sr: фрактал
+    sv: fraktal
+    ta: பகுவல்
+    th: แฟร็กทัล
+    tr: Fraktal
+    tt: Фрактал
+    uk: фрактал
+    ur: Fractal
+    uz: Fraktal
+    vi: Phân dạng
+    wuu: 分形
+    yue: 碎形
+    zh: 分形
+    zu: Impindampindwano
 ---
-
 # [[Fractal]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fractal,81392|WD~Fractal,81392]] 

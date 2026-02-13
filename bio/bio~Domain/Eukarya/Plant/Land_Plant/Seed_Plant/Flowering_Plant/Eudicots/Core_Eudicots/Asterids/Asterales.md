@@ -1,7 +1,45 @@
 ---
 aliases:
-  - Asterales
-  - 菊目
+- Asterales
+- Asterales (plantae)
+- Asteraloj
+- Asterals
+- Asternartige
+- Asterordningen
+- asteru rinda
+- Astraçiçəklilər
+- Astriečiai
+- Astrilaadsed
+- Astrotvaré
+- astrowce
+- Bộ Cúc
+- fészkesvirágzatúak
+- hvězdnicotvaré
+- Koma kulîlkselikan
+- korgplanteordenen
+- košarnice
+- Kurvblomstordenen
+- Körfublómabálkur
+- Zvjezdanolike
+- Αστερώδη
+- ѕвездовидни
+- Айстроцвіті
+- астракветныя
+- астроцветни
+- астроцветные
+- աստղածաղկավորներ
+- אסטראים
+- تاریورگے
+- تريز ډوله بوټي
+- طبقہ تاراپھول
+- میناسانان
+- نجميات
+- ఆస్టరేలిస్
+- ആസ്റ്റെരേൽസ്
+- อันดับทานตะวัน
+- キク目
+- 菊目
+- 국화목
 has_id_wikidata: Q21730
 title: Asterales
 parent_taxon: '[[_Standards/WikiData/WD~campanulids,2935471]]'
@@ -10,16 +48,135 @@ taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 35419
 OmegaWiki_Defined_Meaning: 358536
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20sunflower.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Asteracea%20poster.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/A%20sunflower.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Asteracea%20poster.jpg
 EPPO_Code: 1ASTO
 Commons_category: Asterales
 taxon_name: Asterales
 UMLS_CUI: C0524872
 NBN_System_Key: NHMSYS0000065768
 taxon_common_name: 菊目
+dv_has_:
+  name_:
+    af: Asterales
+    an: Asterales
+    ar: نجميات
+    arz: نجميات
+    ast: Asterales
+    az: Astraçiçəklilər
+    bar: Asterales
+    be: астракветныя
+    be-tarask: Астракветныя
+    bg: астроцветни
+    br: Asterales
+    bs: Asterales
+    ca: Asterals
+    ceb: Asterales
+    co: Asterales
+    cs: hvězdnicotvaré
+    cy: Asterales
+    da: Kurvblomstordenen
+    de: Asternartige
+    de-ch: Asterales
+    el: Αστερώδη
+    en: Asterales
+    en-ca: Asterales
+    en-gb: Asterales
+    eo: Asteraloj
+    es: Asterales
+    et: Astrilaadsed
+    eu: Asterales
+    ext: Asterales
+    fa: میناسانان
+    fi: Asterales
+    fr: Asterales
+    frp: Asterales
+    frr: Asterales
+    fur: Asterales
+    ga: Asterales
+    gd: Asterales
+    gl: Asterales
+    gsw: Asterales
+    he: אסטראים
+    hr: Zvjezdanolike
+    hu: fészkesvirágzatúak
+    hy: աստղածաղկավորներ
+    ia: Asterales
+    id: Asterales
+    ie: Asterales
+    io: Asterales
+    is: Körfublómabálkur
+    it: Asterales
+    ja: キク目
+    jv: Asterales
+    kg: Asterales
+    ko: 국화목
+    ku: Koma kulîlkselikan
+    la: Asterales
+    lb: Asterales
+    li: Asterales
+    lij: Asterales
+    lt: Astriečiai
+    lv: asteru rinda
+    mg: Asterales
+    min: Asterales
+    mk: ѕвездовидни
+    ml: ആസ്റ്റെരേൽസ്
+    ms: Asterales
+    mt: Asterales
+    mul: Asterales
+    nap: Asterales
+    nb: Asterales
+    nds: Asterales
+    nds-nl: Asterales
+    nl: Asterales
+    nn: korgplanteordenen
+    nrm: Asterales
+    nys: Asterales
+    oc: Asterales
+    pcd: Asterales
+    pl: astrowce
+    pms: Asterales
+    pnb: تاریورگے
+    ps: تريز ډوله بوټي
+    pt: Asterales
+    pt-br: Asterales
+    rm: Asterales
+    ro: Asterales
+    ru: астроцветные
+    sc: Asterales
+    scn: Asterales
+    sco: Asterales
+    sh: Asterales
+    sk: Astrotvaré
+    sl: košarnice
+    sq: Asterales
+    sr: Asterales
+    su: Asterales
+    sv: Asterordningen
+    sw: Asterales
+    te: ఆస్టరేలిస్
+    th: อันดับทานตะวัน
+    tl: Asterales
+    tr: Asterales
+    uk: Айстроцвіті
+    ur: طبقہ تاراپھول
+    vec: Asterales
+    vi: Bộ Cúc
+    vls: Asterales
+    vo: Asterales
+    wa: Asterales
+    war: Asterales (plantae)
+    wo: Asterales
+    wuu: 菊目
+    yue: 菊目
+    zh: 菊目
+    zh-cn: 菊目
+    zh-hans: 菊目
+    zh-hant: 菊目
+    zh-tw: 菊目
+    zu: Asterales
 ---
-
 # [[Asterales]] 
 
 ![Menyanthes_trifoliata](Asterales/Menyanthes_trifoliata.jpg) 

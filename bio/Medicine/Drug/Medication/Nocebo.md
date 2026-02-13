@@ -1,15 +1,81 @@
 ---
 aliases:
+- Efecte nocebo
+- Efecto nocebo
+- malplacebo
+- nocebas
+- nocebo
+- Nocebo etkisi
+- nocebo-effect
+- Nocebo-Effekt
+- nocebo-effekten
+- Noceboeffekt
+- nosebo
+- Notseebo
+- učinek noceba
+- ноцебо
+- Նոցեբո էֆեկտ
+- נוצבו
+- تأثير نوسيبو
+- نوسیبو
+- ノシーボ効果
+- 反安慰劑
+- 反安慰劑效應
+- 노시보
 has_id_wikidata: Q1332954
-instance_of: "[[_Standards/WikiData/WD~phenomenon,483247]]"
-opposite_of: "[[_Standards/WikiData/WD~placebo_effect,16303139]]"
+instance_of: '[[_Standards/WikiData/WD~phenomenon,483247]]'
+opposite_of: '[[_Standards/WikiData/WD~placebo_effect,16303139]]'
 UMLS_CUI: C3658218
 MeSH_tree_code:
-  - N05.715.350.350.625.500
-  - N06.850.490.734.875.500
+- N05.715.350.350.625.500
+- N06.850.490.734.875.500
 Commons_category: Nocebos
+dv_has_:
+  name_:
+    ar: تأثير نوسيبو
+    az: Nocebo
+    bg: Ноцебо
+    bs: Nocebo
+    ca: Efecte nocebo
+    cs: Nocebo
+    da: nocebo-effekten
+    de: Nocebo-Effekt
+    de-ch: Nocebo-Effekt
+    en: nocebo
+    en-ca: Nocebo
+    en-gb: nocebo
+    eo: malplacebo
+    es: Efecto nocebo
+    et: Notseebo
+    fa: نوسیبو
+    fi: nosebo
+    fr: nocebo
+    gl: efecto nocebo
+    he: נוצבו
+    hu: nocebo
+    hy: Նոցեբո էֆեկտ
+    id: Nocebo
+    it: nocebo
+    ja: ノシーボ効果
+    ko: 노시보
+    lt: nocebas
+    mk: ноцебо
+    nb: Noceboeffekt
+    nl: nocebo-effect
+    nn: Noceboeffekt
+    pl: nocebo
+    pt: nocebo
+    pt-br: Nocebo
+    ru: ноцебо
+    sl: učinek noceba
+    sq: Nocebo
+    sv: noceboeffekt
+    tr: Nocebo etkisi
+    uk: ноцебо
+    vi: Nocebo
+    yue: 反安慰劑
+    zh: 反安慰劑效應
 ---
-
 # [[Nocebo]] 
 
 #has_/complement :: [[Placebo]] 

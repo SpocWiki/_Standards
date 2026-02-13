@@ -1,7 +1,59 @@
 ---
 aliases:
-  - eared seal, otariid, or otary
-  - Otariidae
+- Anjing laut bertelinga
+- Ausroņi
+- Ausytieji ruoniai
+- Denizaslanıgiller
+- eared seal, otariid, or otary
+- eyrnaselir
+- Fokat me veshë
+- fülesfókafélék
+- haaremihylkeet
+- Hái-sai-kho
+- Kõrvukhülglased
+- lachtanovití
+- Ohrenrobben
+- oorrobben
+- Otalidá
+- otarie
+- Otariedoj
+- Otariidae
+- Otàrid
+- Otáridos
+- piakoleem
+- Qulaqlı suitilər
+- rón otairídeach
+- Siabeeren an sialööwen
+- Tábąąstííntsoh bijaaʼ dahólónígíí
+- uchatkowate
+- uhati tjulnji
+- Ušate foke
+- Zêelêeuwachtign
+- öronsälar
+- øreselfamilien
+- øresæler
+- øyreselfamilien
+- ωταριίδα
+- вухаті тюлені
+- вушастыя цюлені
+- Сіваковыя
+- ушастые тюлени
+- ушате фоке
+- ушати тюлени
+- ушести фоки
+- Чихт далайн хав
+- Құлақты итбалықтар тұқымдасы
+- אוטריים
+- عجل البحر
+- فک گوشدار
+- قۇلاقلی سۇ ایتیلر
+- کنے سیل
+- วงศ์แมวน้ำมีหู
+- ყურებიანი სელაპები
+- アシカ科
+- 海狮科
+- 海獅科
+- 바다사자과
 has_id_wikidata: Q26700
 taxon_synonym: '[[_Standards/WikiData/WD~fur_seal,1043473]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
@@ -15,8 +67,91 @@ Commons_category: Otariidae
 taxon_name: Otariidae
 EPPO_Code: 1OTARF
 start_time: -17100000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    an: Otariidae
+    ar: عجل البحر
+    arz: عجل البحر
+    ast: Otariidae
+    avk: piakoleem
+    az: Qulaqlı suitilər
+    azb: قۇلاقلی سۇ ایتیلر
+    be: вушастыя цюлені
+    be-tarask: Сіваковыя
+    bg: ушати тюлени
+    br: Otariidae
+    ca: Otàrid
+    ceb: Otariidae
+    cs: lachtanovití
+    da: øresæler
+    de: Ohrenrobben
+    el: ωταριίδα
+    en: Otariidae
+    eo: Otariedoj
+    es: Otariidae
+    et: Kõrvukhülglased
+    eu: Otariidae
+    ext: Otariidae
+    fa: فک گوشدار
+    fi: haaremihylkeet
+    fr: otarie
+    frr: Siabeeren an sialööwen
+    ga: rón otairídeach
+    gl: Otáridos
+    haw: Otariidae
+    he: אוטריים
+    hu: fülesfókafélék
+    ia: Otariidae
+    id: Anjing laut bertelinga
+    ie: Otariidae
+    io: Otariidae
+    is: eyrnaselir
+    it: Otariidae
+    ja: アシカ科
+    ka: ყურებიანი სელაპები
+    kk: Құлақты итбалықтар тұқымдасы
+    ko: 바다사자과
+    la: Otariidae
+    ln: Otalidá
+    lt: Ausytieji ruoniai
+    lv: Ausroņi
+    mk: ушести фоки
+    mn: Чихт далайн хав
+    ms: Anjing laut bertelinga
+    mul: Otariidae
+    nan: Hái-sai-kho
+    nb: øreselfamilien
+    nl: oorrobben
+    nn: øyreselfamilien
+    nv: Tábąąstííntsoh bijaaʼ dahólónígíí
+    oc: Otariidae
+    pl: uchatkowate
+    pnb: کنے سیل
+    pt: Otariidae
+    pt-br: Otariidae
+    ro: Otariidae
+    ru: ушастые тюлени
+    sh: Ušate foke
+    sl: uhati tjulnji
+    sq: Fokat me veshë
+    sr: ушате фоке
+    sv: öronsälar
+    sw: Otariidae
+    th: วงศ์แมวน้ำมีหู
+    tl: Otariidae
+    tr: Denizaslanıgiller
+    uk: вухаті тюлені
+    vi: Otariidae
+    vls: Zêelêeuwachtign
+    vo: Otariidae
+    war: Otariidae
+    wuu: 海狮科
+    yue: 海獅科
+    zh: 海獅科
+    zh-cn: 海狮科
+    zh-hans: 海狮科
+    zh-tw: 海獅科
 ---
-
 # [[Otariidae]] 
 
 #is_/same_as :: [[WD~Otariidae,26700]] 

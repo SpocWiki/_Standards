@@ -1,25 +1,159 @@
 ---
 aliases:
-  - Civil liberties
-  - Civil_Liberties
-  - Civil Liberties
+- Azadiyên bajarwerî
+- borgerfriheter
+- borgerrettigheder
+- burgerlijke vrijheid
+- Civil liberties
+- civila libereco
+- Civil_Liberties
+- drepturi cetățenești
+- državljanske svoboščine
+- Freiheitsrechte
+- građanske slobode
+- Kalayaang sibil
+- kansalaisvapaudet
+- Kebebasan sipil
+- Kong-bîn chū-iû
+- liberdades civis
+- liberdades civís
+- libertades civiles
+- Libertate zibilak
+- Libertats publicas
+- libertà civili
+- Liberté piblik
+- libertés publiques
+- Liritë civile
+- llibertats civils
+- medborgerliga friheter
+- Nnwere onwe obodo
+- občanská svoboda
+- Občianske práva
+- personiskā brīvība
+- pilietinės laisvės
+- polgári szabadságjogok
+- rhyddid y bobl
+- saoirsí sibhialta
+- temel haklar
+- tự do dân sự
+- wolności obywatelskie
+- Ƴancin Jama'a
+- κοινωνικές ελευθερίες
+- грађанске слободе
+- граѓанска слобода
+- Граждански свободи
+- гражданские свободы
+- грамадзянскія свабоды
+- свободи людини
+- Ҳуқуқу озодиҳои шахсӣ
+- Քաղաքացիական ազատություններ
+- זכויות אזרח
+- آزادی مدنی
+- ئازادییە شارستانییەکان
+- حريات مدنية
+- حريات مدنيه
+- شهري آزادي
+- شہری آزادیاں
+- مدني ازادي
+- مدنی آزادیاں
+- مدنی اؤزگورلوک
+- ব্যক্তিস্বাধীনতা
+- ಪ್ರಜಾಸ್ವಾತಂತ್ರ್ಯಗಳು
+- სამოქალაქო თავისუფლება
+- 公民自由
+- 自由権
+- 시민 자유
 has_id_wikidata: Q29556
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
-  - '[[_Standards/WikiData/WD~civil_rights,25447176]]'
-  - '[[_Standards/WikiData/WD~human_rights,8458]]'
+- '[[_Standards/WikiData/WD~civil_and_political_rights,191600]]'
+- '[[_Standards/WikiData/WD~civil_rights,25447176]]'
+- '[[_Standards/WikiData/WD~human_rights,8458]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~rights,780687]]'
-  - '[[_Standards/WikiData/WD~liberty,2979]]'
+- '[[_Standards/WikiData/WD~rights,780687]]'
+- '[[_Standards/WikiData/WD~liberty,2979]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Li-ber-ty.jpg
 described_at_URL: https://wikispooks.com/wiki/Civil_liberties
 Commons_category: Civil rights and liberties
+dv_has_:
+  name_:
+    ar: حريات مدنية
+    arz: حريات مدنيه
+    azb: مدنی اؤزگورلوک
+    be-tarask: грамадзянскія свабоды
+    bg: Граждански свободи
+    bn: ব্যক্তিস্বাধীনতা
+    ca: llibertats civils
+    ckb: ئازادییە شارستانییەکان
+    cs: občanská svoboda
+    cy: rhyddid y bobl
+    da: borgerrettigheder
+    de: Freiheitsrechte
+    el: κοινωνικές ελευθερίες
+    en: civil liberties
+    eo: civila libereco
+    es: libertades civiles
+    eu: Libertate zibilak
+    fa: آزادی مدنی
+    fi: kansalaisvapaudet
+    fr: libertés publiques
+    ga: saoirsí sibhialta
+    gcr: Liberté piblik
+    gl: liberdades civís
+    gsw: Freiheitsrechte
+    ha: Ƴancin Jama'a
+    he: זכויות אזרח
+    hr: građanske slobode
+    hu: polgári szabadságjogok
+    hy: Քաղաքացիական ազատություններ
+    id: Kebebasan sipil
+    ig: Nnwere onwe obodo
+    it: libertà civili
+    ja: 自由権
+    ka: სამოქალაქო თავისუფლება
+    kn: ಪ್ರಜಾಸ್ವಾತಂತ್ರ್ಯಗಳು
+    ko: 시민 자유
+    ku: Azadiyên bajarwerî
+    lt: pilietinės laisvės
+    lv: personiskā brīvība
+    mk: граѓанска слобода
+    nan: Kong-bîn chū-iû
+    nb: borgerfriheter
+    nl: burgerlijke vrijheid
+    oc: Libertats publicas
+    pl: wolności obywatelskie
+    pnb: شہری آزادیاں
+    ps: مدني ازادي
+    pt: liberdades civis
+    ro: drepturi cetățenești
+    ru: гражданские свободы
+    sd: شهري آزادي
+    sk: Občianske práva
+    sl: državljanske svoboščine
+    sq: Liritë civile
+    sr: грађанске слободе
+    sr-ec: грађанске слободе
+    sv: medborgerliga friheter
+    tg: Ҳуқуқу озодиҳои шахсӣ
+    tl: Kalayaang sibil
+    tr: temel haklar
+    uk: свободи людини
+    ur: مدنی آزادیاں
+    vi: tự do dân sự
+    yue: 公民自由
+    zh: 公民自由
+    zh-cn: 公民自由
+    zh-hans: 公民自由
+    zh-hant: 公民自由
+    zh-hk: 公民自由
+    zh-mo: 公民自由
+    zh-my: 公民自由
+    zh-sg: 公民自由
+    zh-tw: 公民自由
 ---
-
 # [[Civil_Liberties]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Civil_liberties,29556|WD~Civil_liberties,29556]] 

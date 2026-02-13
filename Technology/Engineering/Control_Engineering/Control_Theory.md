@@ -1,4 +1,121 @@
-
+---
+has_id_wikidata: Q6501221
+dv_has_:
+  name_:
+    af: beheerteorie
+    ar: نظرية التحكم
+    ast: Teoría del control
+    az: idarəetmə nəzəriyyəsi
+    be: тэорыя кіравання
+    be-tarask: тэорыя кіраваньня
+    bn: নিয়ন্ত্রণ তত্ত্ব
+    ca: teoria de control
+    cs: teorie řízení
+    cy: damcaniaeth reoli
+    de: Kontrolltheorie
+    el: Θεωρία ελέγχου
+    en: control theory
+    eo: teorio de regado
+    es: teoría de control
+    et: Automaatika
+    eu: Kontrolaren teoria
+    fa: نظریه کنترل
+    fi: säätöteoria
+    fr: théorie du contrôle
+    gl: teoría de control
+    he: תורת הבקרה
+    hi: नियंत्रण सिद्धान्त
+    hu: irányítástechnika
+    hy: կառավարման տեսություն
+    it: controllo automatico
+    ja: 制御理論
+    ko: 제어이론
+    ko-kp: 조종리론
+    lt: valdymo teorija
+    ms: teori kawalan
+    nb: kontrollteori
+    nl: meet- en regeltechniek
+    nn: reguleringsteori
+    os: фæтк дæттыны теори
+    pl: teoria sterowania
+    pt: teoria de controle
+    pt-br: teoria de controle
+    ro: control automat
+    ru: теория управления
+    scn: Tiurìa dû cuntrollu
+    sk: Teória riadenia
+    sl: teorija kontrole
+    sq: automatika
+    sr: теорија управљања
+    sv: reglerteori
+    ta: கட்டுப்பாட்டியல்
+    th: ทฤษฎีระบบควบคุม
+    tl: Teoriya ng kontrol
+    tr: kontrol teorisi
+    tt: идарә итү теориясе
+    uk: теорія керування
+    vi: lý thuyết điều khiển tự động
+    war: Teyorya hin kontrol
+    yue: 控制理論
+    zh: 控制理论
+    zh-hans: 控制理论
+    zh-hant: 控制理論
+aliases:
+- Automaatika
+- automatika
+- beheerteorie
+- control automat
+- control theory
+- controllo automatico
+- damcaniaeth reoli
+- idarəetmə nəzəriyyəsi
+- irányítástechnika
+- kontrol teorisi
+- Kontrolaren teoria
+- kontrollteori
+- Kontrolltheorie
+- lý thuyết điều khiển tự động
+- meet- en regeltechniek
+- reglerteori
+- reguleringsteori
+- säätöteoria
+- teori kawalan
+- teoria de control
+- teoria de controle
+- teoria sterowania
+- teorie řízení
+- teorija kontrole
+- teorio de regado
+- Teoriya ng kontrol
+- teoría de control
+- Teoría del control
+- Teyorya hin kontrol
+- Teória riadenia
+- théorie du contrôle
+- Tiurìa dû cuntrollu
+- valdymo teorija
+- Θεωρία ελέγχου
+- идарә итү теориясе
+- теорія керування
+- теорија управљања
+- теория управления
+- тэорыя кіравання
+- тэорыя кіраваньня
+- фæтк дæттыны теори
+- կառավարման տեսություն
+- תורת הבקרה
+- نظرية التحكم
+- نظریه کنترل
+- नियंत्रण सिद्धान्त
+- নিয়ন্ত্রণ তত্ত্ব
+- கட்டுப்பாட்டியல்
+- ทฤษฎีระบบควบคุม
+- 制御理論
+- 控制理論
+- 控制理论
+- 제어이론
+- 조종리론
+---
 # [[Control_Theory]] 
 
 #is_/similar_to :: [[../../../Society/Agent/Management|Management]] 

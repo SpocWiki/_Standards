@@ -1,10 +1,50 @@
 ---
 aliases:
+- electrical muscle stimulation
+- electroestimulació muscular
+- Electroestimulación muscular
+- Electromiostimulare
+- električna mišična stimulacija
+- Elettrostimolazione muscolare
+- Kích thích cơ bằng điện
+- Muskelstimulator
+- Reizstrom
+- stimulation musculaire électrique
+- ηλεκτρική μυϊκή διέγερση
+- електрична стимуляція м’язів
+- электромиостимуляция
+- גירוי שרירים חשמלי
+- التحفيز الكهربائي للعضلات
+- تحریک الکتریکی عضلات
+- தசை தூண்டுதல் மின் சிகிச்சை
+- 電気的筋肉刺激
+- 전기근육자극요법
 has_id_wikidata: Q653580
-subclass_of: "[[_Standards/WikiData/WD~electrostimulation,50813117]]"
+subclass_of: '[[_Standards/WikiData/WD~electrostimulation,50813117]]'
 Commons_category: Electrical muscle stimulation
+dv_has_:
+  name_:
+    ar: التحفيز الكهربائي للعضلات
+    ca: electroestimulació muscular
+    de: Reizstrom
+    el: ηλεκτρική μυϊκή διέγερση
+    en: electrical muscle stimulation
+    es: Electroestimulación muscular
+    fa: تحریک الکتریکی عضلات
+    fr: stimulation musculaire électrique
+    he: גירוי שרירים חשמלי
+    it: Elettrostimolazione muscolare
+    ja: 電気的筋肉刺激
+    ko: 전기근육자극요법
+    nb: Muskelstimulator
+    nl: electrical muscle stimulation
+    ro: Electromiostimulare
+    ru: электромиостимуляция
+    sl: električna mišična stimulacija
+    ta: தசை தூண்டுதல் மின் சிகிச்சை
+    uk: електрична стимуляція м’язів
+    vi: Kích thích cơ bằng điện
 ---
-
 ## [[EMS(Electrical_muscle_stimulation)]] 
 
 #is_/same_as :: [[WD~Electrical_muscle_stimulation,653580]] 

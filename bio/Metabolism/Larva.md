@@ -1,13 +1,65 @@
 ---
 aliases:
-  - Larve
-  - larvae
-  - Larva
+- canesba
+- dadipana'
+- Kāpurs
+- Larba
+- larbha
+- larfa
+- larv
+- Larva
+- larvae
+- Larve
+- larvo
+- larvă
+- larwa
+- Larwe
+- Lav
+- Lava
+- Lerva
+- Lichinka
+- Lirfa
+- ličinka
+- lárva
+- Qirisa
+- toukka
+- Vastne
+- Velïger
+- Vermiculus
+- Προνύμφη
+- Велигер
+- лічынка
+- Ларва
+- Личинка
+- тэчкы
+- Хурт
+- פגית
+- لارو
+- لاروا
+- يرقة
+- ۆەلىيگەر
+- इल्ली
+- লার্ভা
+- ਲਾਰਵਾ
+- குடம்பி
+- ಡಿಂಬ(ಲಾರ್ವಾ)
+- ലാർവ
+- หนอน
+- တူဝ်ၵၼ်ႈ
+- ပိုးလောင်း
+- ლარვა
+- ấu trùng
+- 幼体
+- 幼生
+- 幼虫
+- 幼蟲
+- 幼體
+- 애벌레
 has_id_wikidata: Q129270
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 facet_of: '[[_Standards/WikiData/WD~holometabolism,2048559]]'
 subclass_of: '[[_Standards/WikiData/WD~baby_animal,12038335]]'
 different_from: '[[_Standards/WikiData/WD~Q25416096,25416096]]'
@@ -15,11 +67,113 @@ instance_of: '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
 Commons_category: Larvae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ladybug%20larva%20%28Coccinellidae%29.jpg
 MeSH_tree_code:
-  - B05.500.500
-  - G07.345.500.550.500.500
+- B05.500.500
+- G07.345.500.550.500.500
 reference_illustration: http://commons.wikimedia.org/wiki/Special:FilePath/LEPI%20Geometridae%20Zanthorhoe%20semifissata%20larva.png
+dv_has_:
+  name_:
+    af: Larwe
+    ar: يرقة
+    ast: canesba
+    ba: Личинка
+    be: лічынка
+    be-tarask: Лічынка
+    bg: Ларва
+    bn: লার্ভা
+    bs: Larva
+    ca: larva
+    cs: larva
+    cv: Хурт
+    cy: larfa
+    da: larve
+    de: Larve
+    el: Προνύμφη
+    en: larva
+    en-ca: Larva
+    en-gb: Larva
+    eo: larvo
+    es: larva
+    et: Vastne
+    eu: Larba
+    fa: لارو
+    fi: toukka
+    fr: larve
+    fy: Larve
+    ga: larbha
+    gl: Larva
+    gsw: Larve
+    he: פגית
+    hi: इल्ली
+    hr: ličinka
+    ht: Lav
+    hu: lárva
+    id: Larva
+    io: Larvo
+    is: Lirfa
+    it: larva
+    ja: 幼生
+    jv: Larva
+    ka: ლარვა
+    kk: Велигер
+    kk-arab: ۆەلىيگەر
+    kk-cn: ۆەلىيگەر
+    kk-cyrl: Велигер
+    kk-kz: Велигер
+    kk-latn: Velïger
+    kk-tr: Velïger
+    kn: ಡಿಂಬ(ಲಾರ್ವಾ)
+    ko: 애벌레
+    ky: Личинка
+    la: Vermiculus
+    lt: Lerva
+    lv: Kāpurs
+    mk: ларва
+    ml: ലാർവ
+    ms: Larva
+    my: ပိုးလောင်း
+    nb: larve
+    nds: Larve
+    nl: larve
+    nn: larve
+    oc: Larva
+    pa: ਲਾਰਵਾ
+    pl: larwa
+    pt: larva
+    pt-br: Larva
+    qu: Qirisa
+    ro: larvă
+    ru: личинка
+    sh: Ličinka
+    shn: တူဝ်ၵၼ်ႈ
+    sk: Larva
+    sl: ličinka
+    sr: Ларва
+    sr-ec: Ларва
+    sr-el: Larva
+    sv: larv
+    sw: Lava
+    szy: dadipana'
+    ta: குடம்பி
+    th: หนอน
+    tl: Larba
+    tr: Larva
+    tt: Личинка
+    udm: тэчкы
+    uk: личинка
+    ur: لاروا
+    uz: Lichinka
+    vi: ấu trùng
+    war: Larva
+    wuu: 幼体
+    yue: 幼體
+    zh: 幼虫
+    zh-cn: 幼虫
+    zh-hans: 幼虫
+    zh-hant: 幼蟲
+    zh-hk: 幼蟲
+    zh-sg: 幼虫
+    zh-tw: 幼蟲
 ---
-
 # [[Larva]] 
 
 #is_/same_as :: [[WD~Larva,129270]]

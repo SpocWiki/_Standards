@@ -1,9 +1,124 @@
 ---
 aliases:
-  - Talk-Show
-  - Talk Show
+- Badapatan pandir
+- beszélgetős műsor
+- clár cainte
+- gelar wicara
+- intervjuspektaklo
+- keskusteluohjelma
+- nunin magana
+- Parolo-programo
+- pogovorna oddaja
+- praatprogramma
+- pratshow
+- programa de converses
+- programa de entrevistas
+- rancangan temu bual
+- razgovorna emisija
+- sarunu šovs
+- sioe drafod
+- Talk Show
+- Talk-Show
+- talkshow
+- Tok shou
+- Tok-şou
+- tolkšou
+- Vestlussaade
+- τοκ σόου
+- гостинска емисија
+- ток-шоў
+- ток-шоу
+- Токшоу
+- թոք շոու
+- תוכנית אירוח
+- برنامج حواري
+- برنامه بحث
+- ٹاک شو
+- टाक शो
+- আলোচনা অনুষ্ঠান
+- பேச்சு நிகழ்ச்சி
+- ทอล์กโชว์
+- トーク番組
+- 清談節目
+- 清谈节目
+- 脱口秀
+- 談話節目
+- 谈话节目
+- 토크 쇼
+has_id_wikidata: Q622812
+dv_has_:
+  name_:
+    ar: برنامج حواري
+    ast: Talk show
+    az: Tok-şou
+    be: ток-шоу
+    be-tarask: ток-шоў
+    bg: Токшоу
+    bjn: Badapatan pandir
+    bn: আলোচনা অনুষ্ঠান
+    br: Talk show
+    ca: programa de converses
+    cs: talk show
+    cv: Ток-шоу
+    cy: sioe drafod
+    da: talkshow
+    de: Talkshow
+    diq: Talk show
+    el: τοκ σόου
+    en: talk show
+    eo: intervjuspektaklo
+    es: programa de entrevistas
+    et: Vestlussaade
+    eu: talk show
+    fa: برنامه بحث
+    fi: keskusteluohjelma
+    fr: talk-show
+    fy: Praatprogramma
+    ga: clár cainte
+    gl: programa de entrevistas
+    ha: nunin magana
+    he: תוכנית אירוח
+    hi: टाक शो
+    hr: razgovorna emisija
+    hu: beszélgetős műsor
+    hy: թոք շոու
+    id: gelar wicara
+    io: Parolo-programo
+    it: talk show
+    ja: トーク番組
+    ko: 토크 쇼
+    lv: sarunu šovs
+    mk: гостинска емисија
+    ms: rancangan temu bual
+    nb: talkshow
+    nl: praatprogramma
+    nn: talkshow
+    pl: Talk-show
+    pt: programa de entrevistas
+    pt-br: programa de entrevistas
+    ro: Talk-show
+    ru: ток-шоу
+    sh: Talk show
+    sk: tolkšou
+    sl: pogovorna oddaja
+    sr: ток-шоу
+    sv: pratshow
+    ta: பேச்சு நிகழ்ச்சி
+    th: ทอล์กโชว์
+    tr: talk-show
+    uk: ток-шоу
+    ur: ٹاک شو
+    uz: Tok shou
+    vi: Talk show
+    yue: 清談節目
+    zh: 談話節目
+    zh-hans: 谈话节目
+    zh-hant: 脱口秀
+    zh-hk: 清談節目
+    zh-my: 清谈节目
+    zh-sg: 清谈节目
+    zh-tw: 談話節目
 ---
-
 # [[Talk-Show]] 
 
 

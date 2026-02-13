@@ -1,13 +1,102 @@
 ---
 aliases:
-  - Eurypterids
-  - sea scorpion
-  - Eurypterida
-  - Sea_Scorpion
-  - Sea Scorpion
+- Euripterid
+- Euripterida
+- euriptèrides
+- Euriptéridos
+- eurypterid
+- Eurypterida
+- Eurypterider
+- Eurypterids
+- eurypteridák
+- Eurüpteriidid
+- havsskorpioner
+- kyjonožci
+- meriskorpionit
+- sea scorpion
+- Sea_Scorpion
+- Seeskorpione
+- Vēžskorpioni
+- Wielkoraki
+- zeeschorpioenen
+- Алып қалқаншалылар
+- Евриптериди
+- морски скорпиони
+- ракоскорпионы
+- עקרבי מים
+- سمندري لړمان
+- عريضات الأجنحة
+- عريضات الاجنحه
+- کژدم دریایی
+- युरिप्टेरिडा
+- ಯೂರಿಪ್ಟರಿಡ
+- ยูริปเทอริด
+- ევრიპტერიდები
+- ウミサソリ
+- 广翅鲎
+- 广翅鲎目
+- 廣翅鱟目
+- 바다전갈
 title: Eurypterida
+has_id_wikidata: Q19436
+dv_has_:
+  name_:
+    af: Eurypterida
+    ar: عريضات الأجنحة
+    arz: عريضات الاجنحه
+    ast: Eurypterida
+    bg: морски скорпиони
+    ca: euriptèrides
+    ceb: Eurypterida
+    cs: kyjonožci
+    de: Seeskorpione
+    en: eurypterid
+    en-ca: eurypterid
+    en-gb: eurypterid
+    es: Eurypterida
+    et: Eurüpteriidid
+    eu: Eurypterida
+    fa: کژدم دریایی
+    fi: meriskorpionit
+    fr: Eurypterida
+    ga: Eurypterida
+    gl: Eurypterida
+    he: עקרבי מים
+    hi: युरिप्टेरिडा
+    hu: eurypteridák
+    ia: Eurypterida
+    id: Euripterida
+    it: Eurypterida
+    ja: ウミサソリ
+    ka: ევრიპტერიდები
+    kk: Алып қалқаншалылар
+    kn: ಯೂರಿಪ್ಟರಿಡ
+    ko: 바다전갈
+    la: Eurypterida
+    lv: Vēžskorpioni
+    ms: Euripterid
+    mul: Eurypterida
+    nb: Eurypterider
+    nl: zeeschorpioenen
+    pl: Wielkoraki
+    ps: سمندري لړمان
+    pt: Euriptéridos
+    ro: Eurypterida
+    ru: ракоскорпионы
+    sl: Eurypterida
+    sq: Eurypterida
+    sv: havsskorpioner
+    th: ยูริปเทอริด
+    tr: Eurypterida
+    uk: Евриптериди
+    vi: Eurypterida
+    war: Eurypterida
+    zh: 广翅鲎目
+    zh-cn: 广翅鲎目
+    zh-hans: 广翅鲎目
+    zh-hant: 广翅鲎
+    zh-tw: 廣翅鱟目
 ---
-
 # [[Sea_Scorpion]]
 
 Sea Scorpions 

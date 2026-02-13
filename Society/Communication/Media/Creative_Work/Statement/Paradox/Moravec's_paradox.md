@@ -1,4 +1,56 @@
-
+---
+has_id_wikidata: Q2626581
+dv_has_:
+  name_:
+    af: Moravec se paradoks
+    ca: Paradoxa de Moravec
+    cs: Moravcův paradox
+    de: Moravec’sches Paradox
+    en: Moravec's paradox
+    eo: paradokso de Moravec
+    es: Paradoja de Moravec
+    et: Moraveci paradoks
+    fr: Paradoxe de Moravec
+    he: הפרדוקס של מורבק
+    hu: Moravec-paradoxon
+    hy: Մորավեկի պարադոքս
+    it: Paradosso di Moravec
+    ja: モラベックのパラドックス
+    ko: 모라벡의 역설
+    pl: paradoks Moraveca
+    pt: Paradoxo de Moravec
+    ru: Парадокс Моравека
+    sr: Moravčev paradoks
+    sv: Moravecs paradox
+    uk: Парадокс Моравека
+    zh: 莫拉維克悖論
+    zh-hans: 莫拉维克悖论
+    zh-hant: 莫拉維克悖論
+    zh-hk: 莫拉維克悖論
+aliases:
+- Moravcův paradox
+- Moravec se paradoks
+- Moravec's paradox
+- Moravec-paradoxon
+- Moraveci paradoks
+- Moravecs paradox
+- Moravec’sches Paradox
+- Moravčev paradoks
+- Paradoja de Moravec
+- paradoks Moraveca
+- paradokso de Moravec
+- Paradosso di Moravec
+- Paradoxa de Moravec
+- Paradoxe de Moravec
+- Paradoxo de Moravec
+- Парадокс Моравека
+- Մորավեկի պարադոքս
+- הפרדוקס של מורבק
+- モラベックのパラドックス
+- 莫拉維克悖論
+- 莫拉维克悖论
+- 모라벡의 역설
+---
 # [[Moravec's_paradox]] 
 
 #is_/same_as :: [[Moravec's_paradox,]]

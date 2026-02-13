@@ -1,10 +1,13 @@
 ---
 aliases:
-  - Tabanoidea
+- Dunduru virsdzimta
+- Tabanoidea
+- خرمگسواران
+- نعرينات
 has_id_wikidata: Q1617308
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Tabanomorpha,855002]]'
-  - '[[_Standards/WikiData/WD~Orthorrhapha,944530]]'
+- '[[_Standards/WikiData/WD~Tabanomorpha,855002]]'
+- '[[_Standards/WikiData/WD~Orthorrhapha,944530]]'
 taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 130053
@@ -13,8 +16,47 @@ UMLS_CUI: C3609773
 NBN_System_Key: NBNSYS0100016088
 Commons_category: Tabanoidea
 taxon_name: Tabanoidea
+dv_has_:
+  name_:
+    an: Tabanoidea
+    ar: نعرينات
+    arz: نعرينات
+    ast: Tabanoidea
+    bg: Tabanoidea
+    ca: Tabanoidea
+    ceb: Tabanoidea
+    de: Tabanoidea
+    en: Tabanoidea
+    eo: Tabanoidea
+    es: Tabanoidea
+    eu: Tabanoidea
+    ext: Tabanoidea
+    fa: خرمگسواران
+    fi: Tabanoidea
+    fr: Tabanoidea
+    ga: Tabanoidea
+    gl: Tabanoidea
+    ia: Tabanoidea
+    ie: Tabanoidea
+    io: Tabanoidea
+    it: Tabanoidea
+    la: Tabanoidea
+    lv: Dunduru virsdzimta
+    mul: Tabanoidea
+    nb: Tabanoidea
+    nl: Tabanoidea
+    oc: Tabanoidea
+    pl: Tabanoidea
+    pt: Tabanoidea
+    pt-br: Tabanoidea
+    ro: Tabanoidea
+    ru: Tabanoidea
+    sq: Tabanoidea
+    uk: Tabanoidea
+    vi: Tabanoidea
+    vo: Tabanoidea
+    war: Tabanoidea
 ---
-
 # [[Tabanoidea]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Tabanoidea,1617308]] 

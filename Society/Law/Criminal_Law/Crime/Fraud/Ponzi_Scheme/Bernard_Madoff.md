@@ -1,51 +1,71 @@
 ---
 aliases:
-  - Bernard_Madoff
-  - Bernard Lawrence  Madoff
-  - Bernard Madoff
-  - Madoff
+- Bernard L. Madoff
+- Bernard Lawrence  Madoff
+- Bernard Madoff
+- Bernard Medoff
+- Bernard_Madoff
+- Madoff
+- Μπέρνι Μάντοφ
+- Бернард Мейдофф
+- Бърнард Мейдоф
+- Бэрнард Мэйдаф
+- Բեռնարդ Մեյդոֆ
+- בערנארד מעדאף
+- ברנרד מיידוף
+- برنارد مادوف
+- برنارد میداف
+- برنارڈ میڈاف
+- बर्नी मेडॉफ़
+- ဘားနာ့ဒ်မေးဒေါ့ဖ်
+- ბერნარდ მეიდოფი
+- バーナード・L・マドフ
+- 伯納·馬多夫
+- 馬多夫
+- 马多符
+- 버나드 매이도프
 has_id_wikidata: Q14043
 convicted_of:
-  - '[[_Standards/WikiData/WD~money_laundering,151900]]'
-  - '[[_Standards/WikiData/WD~Ponzi_scheme,219407]]'
-  - '[[_Standards/WikiData/WD~perjury,310229]]'
-  - '[[_Standards/WikiData/WD~securities_fraud,4570975]]'
-  - '[[_Standards/WikiData/WD~mail_and_wire_fraud,6735709]]'
-  - '[[_Standards/WikiData/WD~making_false_statements,6739666]]'
+- '[[_Standards/WikiData/WD~money_laundering,151900]]'
+- '[[_Standards/WikiData/WD~Ponzi_scheme,219407]]'
+- '[[_Standards/WikiData/WD~perjury,310229]]'
+- '[[_Standards/WikiData/WD~securities_fraud,4570975]]'
+- '[[_Standards/WikiData/WD~mail_and_wire_fraud,6735709]]'
+- '[[_Standards/WikiData/WD~making_false_statements,6739666]]'
 occupation:
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~banker,806798]]'
-  - '[[_Standards/WikiData/WD~financier,1979607]]'
-  - '[[_Standards/WikiData/WD~stockbroker,4182927]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~banker,806798]]'
+- '[[_Standards/WikiData/WD~financier,1979607]]'
+- '[[_Standards/WikiData/WD~stockbroker,4182927]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Alabama,492318]]'
-  - '[[_Standards/WikiData/WD~Hofstra_University,1623314]]'
-  - '[[_Standards/WikiData/WD~Brooklyn_Law_School,1812600]]'
+- '[[_Standards/WikiData/WD~University_of_Alabama,492318]]'
+- '[[_Standards/WikiData/WD~Hofstra_University,1623314]]'
+- '[[_Standards/WikiData/WD~Brooklyn_Law_School,1812600]]'
 place_of_detention: '[[_Standards/WikiData/WD~Federal_Correctional_Complex,_Butner,1400020]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~arrest,1403016]]'
-  - '[[_Standards/WikiData/WD~sentence,1763090]]'
-  - '[[_Standards/WikiData/WD~judgment,3769186]]'
+- '[[_Standards/WikiData/WD~arrest,1403016]]'
+- '[[_Standards/WikiData/WD~sentence,1763090]]'
+- '[[_Standards/WikiData/WD~judgment,3769186]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 place_of_death: '[[_Standards/WikiData/WD~Federal_Medical_Center,_Butner,5440292]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~financial_crime,5449702]]'
-  - '[[_Standards/WikiData/WD~investment,4290]]'
-  - '[[_Standards/WikiData/WD~finance,43015]]'
+- '[[_Standards/WikiData/WD~financial_crime,5449702]]'
+- '[[_Standards/WikiData/WD~investment,4290]]'
+- '[[_Standards/WikiData/WD~finance,43015]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Madoff,6728334]]'
 spouse: '[[_Standards/WikiData/WD~Ruth_Madoff,7383105]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Bernard,14649171]]'
-  - '[[_Standards/WikiData/WD~Lawrence,15635788]]'
+- '[[_Standards/WikiData/WD~Bernard,14649171]]'
+- '[[_Standards/WikiData/WD~Lawrence,15635788]]'
 described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
 child:
-  - '[[_Standards/WikiData/WD~Mark_Madoff,44443730]]'
-  - '[[_Standards/WikiData/WD~Andrew_Madoff,44443916]]'
+- '[[_Standards/WikiData/WD~Mark_Madoff,44443730]]'
+- '[[_Standards/WikiData/WD~Andrew_Madoff,44443916]]'
 father: '[[_Standards/WikiData/WD~Ralph_Madoff,44444108]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 place_of_birth: '[[_Standards/WikiData/WD~Queens,18424]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -57,8 +77,69 @@ Commons_category: Bernard Madoff
 name_in_native_language: Bernard Lawrence Madoff
 date_of_birth: 1938-04-29T00:00:00Z
 date_of_death: 2021-04-14T00:00:00Z
+dv_has_:
+  name_:
+    af: Bernard Madoff
+    ar: برنارد مادوف
+    arz: برنارد مادوف
+    ast: Bernard Madoff
+    az: Bernard Medoff
+    be-tarask: Бэрнард Мэйдаф
+    bg: Бърнард Мейдоф
+    br: Bernard Madoff
+    ca: Bernard Madoff
+    cs: Bernard Madoff
+    cy: Bernard Madoff
+    da: Bernard Madoff
+    de: Bernard L. Madoff
+    el: Μπέρνι Μάντοφ
+    en: Bernard Madoff
+    en-ca: Bernard Madoff
+    en-gb: Bernard Madoff
+    eo: Bernard Madoff
+    es: Bernard Madoff
+    eu: Bernard L. Madoff
+    fa: برنارد میداف
+    fi: Bernard Madoff
+    fr: Bernard Madoff
+    ga: Bernard Madoff
+    gl: Bernard Madoff
+    he: ברנרד מיידוף
+    hi: बर्नी मेडॉफ़
+    hu: Bernard Madoff
+    hy: Բեռնարդ Մեյդոֆ
+    id: Bernard Madoff
+    it: Bernard Madoff
+    ja: バーナード・L・マドフ
+    ka: ბერნარდ მეიდოფი
+    ko: 버나드 매이도프
+    lb: Bernard Madoff
+    ms: Bernard Madoff
+    my: ဘားနာ့ဒ်မေးဒေါ့ဖ်
+    nb: Bernard Madoff
+    nl: Bernard Madoff
+    nn: Bernard Madoff
+    oc: Bernard Madoff
+    pl: Bernard Madoff
+    pnb: برنارڈ میڈاف
+    pt: Bernard Madoff
+    pt-br: Bernard Madoff
+    ro: Bernard Madoff
+    ru: Бернард Мейдофф
+    scn: Bernard Madoff
+    sl: Bernard Madoff
+    sq: Bernard Madoff
+    sv: Bernard Madoff
+    tr: Bernard Madoff
+    uk: Бернард Мейдофф
+    ur: برنارڈ میڈاف
+    vi: Bernard Madoff
+    wuu: 马多符
+    yi: בערנארד מעדאף
+    yue: 馬多夫
+    zh: 伯納·馬多夫
+    zh-hant: 伯納·馬多夫
 ---
-
 # [[Bernard_Madoff]] 
 
 #is_/same_as :: [[WD~Bernard_Madoff,14043]]

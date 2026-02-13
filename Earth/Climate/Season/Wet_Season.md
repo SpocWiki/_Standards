@@ -1,40 +1,213 @@
 ---
 aliases:
-  - Monsun
-  - Regenzeit
-  - wet season
-  - rainy season
-  - monsoon season
-  - Wet_Season
-  - Wet Season
+- arveáigi
+- damina
+- Dešćowy cas
+- Dešćowy čas
+- Deževna doba
+- estació humida
+- Estación das chuvias
+- Estación lluviosa
+- estação das chuvas
+- esős évszak
+- Fahavaratra
+- Itumba
+- Kathulós
+- Köz
+- lietus sezona
+- Liūčių laikotarpis
+- Maenza
+- Majira ya mvua
+- Mangsa udan
+- monsoon season
+- Monsun
+- musim hujan
+- Musim ujan
+- Mùa mưa
+- obdobie dažďov
+- období dešťů
+- Panghujan
+- Paray mit'a
+- pluvsezono
+- pora deszczowa
+- rainy season
+- regentijd
+- Regenzeit
+- regnperiod
+- regntid
+- Rintidj
+- Sabeh (masan)
+- sadekausi
+- saison humide
+- Samiya
+- Sason umida
+- sezon umed
+- stagione delle piogge
+- Tag-ulan
+- Tag-uran
+- Tempus pluviosum
+- Urtaro hezea
+- Urushana
+- wet saison
+- wet season
+- Wet_Season
+- Yağışlar mövsümü
+- Yaş mevsim
+- Çумăр сезонĕ
+- дождовна сезона
+- Дъждовен сезон
+- Сезон дажджоў
+- сезон дождей
+- Сезон дощів
+- Сезона киша
+- Сэзон дажджоў
+- העונה הגשומה
+- برسات
+- فصل بارانهای موسمی
+- موسم رطب
+- पावसाळा
+- बरसात
+- वर्षा ऋतु
+- বর্ষা
+- ਬਰਸਾਤ
+- மாரிகாலம்
+- వర్షాకాలం
+- ಮಳೆಗಾಲ
+- മഴക്കാലം
+- වැසි සමය
+- ฤดูฝน
+- ລະດູຝົນ
+- წვიმების სეზონი
+- ჭოროფა
+- ክረምት
+- ᱡᱟᱹᱯᱩᱫ ᱨᱤᱛᱩ
+- 濕季
+- 雨季
+- ꠛꠣꠞꠤꠡꠣ
+- 우기
 has_id_wikidata: Q3117517
-opposite_of: "[[_Standards/WikiData/WD~dry_season,146575]]"
-followed_by: "[[_Standards/WikiData/WD~dry_season,146575]]"
-follows: "[[_Standards/WikiData/WD~dry_season,146575]]"
-subclass_of: "[[_Standards/WikiData/WD~season,24384]]"
+opposite_of: '[[_Standards/WikiData/WD~dry_season,146575]]'
+followed_by: '[[_Standards/WikiData/WD~dry_season,146575]]'
+follows: '[[_Standards/WikiData/WD~dry_season,146575]]'
+subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barron%20falls%20january2005.JPG
 Commons_category: Wet season
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]"
-    - "[[/_Standards/Earth/Climate/Season/Wet_Season|Wet_Season]]"
-    - "[[/_public/Earth/Climate/Season/Wet_Season.public|Wet_Season.public]]"
-    - "[[/_internal/Earth/Climate/Season/Wet_Season.internal|Wet_Season.internal]]"
-    - "[[/_protect/Earth/Climate/Season/Wet_Season.protect|Wet_Season.protect]]"
-    - "[[/_private/Earth/Climate/Season/Wet_Season.private|Wet_Season.private]]"
-    - "[[/_personal/Earth/Climate/Season/Wet_Season.personal|Wet_Season.personal]]"
-    - "[[/_secret/Earth/Climate/Season/Wet_Season.secret|Wet_Season.secret]]"
+  - '[[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]'
+  - '[[/_Standards/Earth/Climate/Season/Wet_Season|Wet_Season]]'
+  - '[[/_public/Earth/Climate/Season/Wet_Season.public|Wet_Season.public]]'
+  - '[[/_internal/Earth/Climate/Season/Wet_Season.internal|Wet_Season.internal]]'
+  - '[[/_protect/Earth/Climate/Season/Wet_Season.protect|Wet_Season.protect]]'
+  - '[[/_private/Earth/Climate/Season/Wet_Season.private|Wet_Season.private]]'
+  - '[[/_personal/Earth/Climate/Season/Wet_Season.personal|Wet_Season.personal]]'
+  - '[[/_secret/Earth/Climate/Season/Wet_Season.secret|Wet_Season.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]"
-  - "[[/_Standards/Earth/Climate/Season/Wet_Season|Wet_Season]]"
-  - "[[/_public/Earth/Climate/Season/Wet_Season.public|Wet_Season.public]]"
-  - "[[/_internal/Earth/Climate/Season/Wet_Season.internal|Wet_Season.internal]]"
-  - "[[/_protect/Earth/Climate/Season/Wet_Season.protect|Wet_Season.protect]]"
-  - "[[/_private/Earth/Climate/Season/Wet_Season.private|Wet_Season.private]]"
-  - "[[/_personal/Earth/Climate/Season/Wet_Season.personal|Wet_Season.personal]]"
-  - "[[/_secret/Earth/Climate/Season/Wet_Season.secret|Wet_Season.secret]]"
+- '[[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]'
+- '[[/_Standards/Earth/Climate/Season/Wet_Season|Wet_Season]]'
+- '[[/_public/Earth/Climate/Season/Wet_Season.public|Wet_Season.public]]'
+- '[[/_internal/Earth/Climate/Season/Wet_Season.internal|Wet_Season.internal]]'
+- '[[/_protect/Earth/Climate/Season/Wet_Season.protect|Wet_Season.protect]]'
+- '[[/_private/Earth/Climate/Season/Wet_Season.private|Wet_Season.private]]'
+- '[[/_personal/Earth/Climate/Season/Wet_Season.personal|Wet_Season.personal]]'
+- '[[/_secret/Earth/Climate/Season/Wet_Season.secret|Wet_Season.secret]]'
+dv_has_:
+  name_:
+    am: ክረምት
+    ar: موسم رطب
+    ast: Estación lluviosa
+    az: Yağışlar mövsümü
+    ban: Sabeh (masan)
+    bcl: Tag-uran
+    be: Сезон дажджоў
+    be-tarask: Сэзон дажджоў
+    bg: Дъждовен сезон
+    bho: बरसात
+    bm: Samiya
+    bn: বর্ষা
+    ca: estació humida
+    cs: období dešťů
+    cv: Çумăр сезонĕ
+    da: regntid
+    de: Regenzeit
+    de-ch: Regenzeit
+    dsb: Dešćowy cas
+    dty: वर्षा ऋतु
+    en: wet season
+    en-ca: Wet season
+    en-gb: wet season
+    eo: pluvsezono
+    es: estación lluviosa
+    eu: Urtaro hezea
+    fa: فصل بارانهای موسمی
+    fi: sadekausi
+    fr: saison humide
+    frr: Rintidj
+    gl: Estación das chuvias
+    ha: damina
+    he: העונה הגשומה
+    hi: वर्षा ऋतु
+    hsb: Dešćowy čas
+    hu: esős évszak
+    id: musim hujan
+    it: stagione delle piogge
+    ja: 雨季
+    jv: Mangsa udan
+    ka: წვიმების სეზონი
+    kge: Panghujan
+    kn: ಮಳೆಗಾಲ
+    ko: 우기
+    la: Tempus pluviosum
+    lo: ລະດູຝົນ
+    lt: Liūčių laikotarpis
+    lv: lietus sezona
+    mai: वर्षा ऋतु
+    mg: Fahavaratra
+    min: Musim ujan
+    mk: дождовна сезона
+    ml: മഴക്കാലം
+    mr: पावसाळा
+    ms: Musim hujan
+    nb: regntid
+    ne: वर्षा ऋतु
+    nl: regentijd
+    nn: Regntid
+    oc: Sason umida
+    pa: ਬਰਸਾਤ
+    pl: pora deszczowa
+    pnb: برسات
+    pt: estação das chuvas
+    pt-br: Estação das chuvas
+    qu: Paray mit'a
+    rn: Urushana
+    ro: sezon umed
+    ru: сезон дождей
+    rw: Itumba
+    sat: ᱡᱟᱹᱯᱩᱫ ᱨᱤᱛᱩ
+    sco: wet saison
+    se: arveáigi
+    si: වැසි සමය
+    sk: obdobie dažďov
+    sl: Deževna doba
+    sn: Maenza
+    sr: Сезона киша
+    sv: regnperiod
+    sw: Majira ya mvua
+    syl: ꠛꠣꠞꠤꠡꠣ
+    ta: மாரிகாலம்
+    te: వర్షాకాలం
+    th: ฤดูฝน
+    tl: Tag-ulan
+    tr: Yaş mevsim
+    tt: Köz
+    uk: Сезон дощів
+    vi: Mùa mưa
+    war: Kathulós
+    wuu: 雨季
+    xmf: ჭოროფა
+    yue: 濕季
+    zh: 雨季
 ---
-
 # [[Wet_Season]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wet_season,3117517|WD~Wet_season,3117517]]  

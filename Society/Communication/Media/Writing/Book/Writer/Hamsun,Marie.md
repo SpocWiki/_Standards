@@ -1,10 +1,48 @@
 ---
 aliases:
-  - Marie Hamsun
-  - Marie Andersen
-  - Hamsun,Marie
+- Hamsun,Marie
+- Marie Andersen
+- Marie Hamsun
+- Мари Гамсун
+- Мары Гамсун
+- Մարի Համսուն
+- مارى هامسون
+- マリー・ハムズン
+- 마리 함순
+has_id_wikidata: Q470191
+dv_has_:
+  name_:
+    arz: مارى هامسون
+    ast: Marie Hamsun
+    be: Мары Гамсун
+    be-tarask: Мары Гамсун
+    ca: Marie Hamsun
+    cs: Marie Hamsun
+    da: Marie Hamsun
+    de: Marie Hamsun
+    en: Marie Hamsun
+    es: Marie Hamsun
+    fi: Marie Hamsun
+    fr: Marie Hamsun
+    ga: Marie Hamsun
+    hu: Marie Hamsun
+    hy: Մարի Համսուն
+    ja: マリー・ハムズン
+    ko: 마리 함순
+    nb: Marie Hamsun
+    nl: Marie Hamsun
+    nn: Marie Hamsun
+    pap: Marie Hamsun
+    pl: Marie Hamsun
+    pt: Marie Hamsun
+    pt-br: Marie Hamsun
+    ro: Marie Hamsun
+    ru: Мари Гамсун
+    sl: Marie Hamsun
+    sq: Marie Hamsun
+    sv: Marie Hamsun
+    tr: Marie Hamsun
 ---
-
 # [[Hamsun,Marie]] 
 
 #has_/created :: [[Hamsun,Marie/Langerudkinder]] 

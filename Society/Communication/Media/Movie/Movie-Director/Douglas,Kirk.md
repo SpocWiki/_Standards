@@ -1,10 +1,149 @@
 ---
 aliases:
-  - Kirk Douglas
-  - Issur Danielovitch
-  - Douglas,Kirk
+- Douglas,Kirk
+- Issur Danielovitch
+- Kirk Douglas
+- Kirk Duglas
+- Kirk Duqlas
+- Körk Daglas
+- Kērks Daglass
+- Κερκ Ντάγκλας
+- Кірк Дуглас
+- Кірк Дуґлас
+- Керк Дуглас
+- Кирк Даглас
+- Кирк Дуглас
+- Кърк Дъглас
+- Քըրք Դուգլաս
+- Քըրք Տուկլաս
+- קירק דאגלס
+- كيرك دوجلاس
+- كيرك دوغلاس
+- کرک داقلاس
+- کرک داگلاس
+- کرک ڈگلس
+- কার্ক ডগলাস
+- കിർക്ക് ഡഗ്ലസ്
+- เคิร์ก ดักลาส
+- კირკ დაგლასი
+- კირკ დუგლასი
+- カーク・ダグラス
+- 卻德格拉斯
+- 寇克·道格拉斯
+- 柯克·道格拉斯
+- 커크 더글러스
+has_id_wikidata: Q104027
+dv_has_:
+  name_:
+    af: Kirk Douglas
+    an: Kirk Douglas
+    ar: كيرك دوغلاس
+    arz: كيرك دوجلاس
+    ast: Kirk Douglas
+    ay: Kirk Douglas
+    az: Kirk Duqlas
+    azb: کرک داقلاس
+    be: Кірк Дуглас
+    be-tarask: Керк Дуглас
+    bg: Кърк Дъглас
+    bn: কার্ক ডগলাস
+    br: Kirk Douglas
+    bs: Kirk Douglas
+    ca: Kirk Douglas
+    ckb: کرک داگلاس
+    co: Kirk Douglas
+    crh: Körk Daglas
+    cs: Kirk Douglas
+    cy: Kirk Douglas
+    da: Kirk Douglas
+    de: Kirk Douglas
+    de-ch: Kirk Douglas
+    el: Κερκ Ντάγκλας
+    en: Kirk Douglas
+    en-ca: Kirk Douglas
+    en-gb: Kirk Douglas
+    eo: Kirk Douglas
+    es: Kirk Douglas
+    et: Kirk Douglas
+    eu: Kirk Douglas
+    fa: کرک داگلاس
+    fi: Kirk Douglas
+    fo: Kirk Douglas
+    fr: Kirk Douglas
+    fy: Kirk Douglas
+    ga: Kirk Douglas
+    gl: Kirk Douglas
+    he: קירק דאגלס
+    hr: Kirk Douglas
+    ht: Kirk Douglas
+    hu: Kirk Douglas
+    hy: Քըրք Դուգլաս
+    hyw: Քըրք Տուկլաս
+    ia: Kirk Douglas
+    id: Kirk Douglas
+    ie: Kirk Douglas
+    io: Kirk Douglas
+    is: Kirk Douglas
+    it: Kirk Douglas
+    ja: カーク・ダグラス
+    ka: კირკ დაგლასი
+    ko: 커크 더글러스
+    kw: Kirk Douglas
+    la: Kirk Douglas
+    lad: Kirk Douglas
+    lb: Kirk Douglas
+    lmo: Kirk Douglas
+    lv: Kērks Daglass
+    mg: Kirk Douglas
+    mk: Кирк Даглас
+    ml: കിർക്ക് ഡഗ്ലസ്
+    ms: Kirk Douglas
+    mul: Kirk Douglas
+    nb: Kirk Douglas
+    nds: Kirk Douglas
+    nl: Kirk Douglas
+    nn: Kirk Douglas
+    nov: Kirk Douglas
+    nrm: Kirk Douglas
+    oc: Kirk Douglas
+    pam: Kirk Douglas
+    pap: Kirk Douglas
+    pl: Kirk Douglas
+    pt: Kirk Douglas
+    pt-br: Kirk Douglas
+    qu: Kirk Douglas
+    rm: Kirk Douglas
+    ro: Kirk Douglas
+    ru: Кирк Дуглас
+    rup: Kirk Douglas
+    sco: Kirk Douglas
+    sh: Kirk Douglas
+    sk: Kirk Douglas
+    sl: Kirk Douglas
+    sq: Kirk Douglas
+    sr: Кирк Даглас
+    sv: Kirk Douglas
+    sw: Kirk Douglas
+    szl: Kirk Douglas
+    th: เคิร์ก ดักลาส
+    tl: Kirk Douglas
+    tr: Kirk Douglas
+    tt: Кирк Дуглас
+    tt-cyrl: Кирк Дуглас
+    uk: Кірк Дуґлас
+    ur: کرک ڈگلس
+    uz: Kirk Douglas
+    vep: Kirk Duglas
+    vi: Kirk Douglas
+    war: Kirk Douglas
+    wuu: 柯克·道格拉斯
+    xmf: კირკ დუგლასი
+    yue: 卻德格拉斯
+    zh: 柯克·道格拉斯
+    zh-hant: 卻德格拉斯
+    zh-my: 寇克·道格拉斯
+    zh-sg: 寇克·道格拉斯
 ---
-
 #has_/time_/started :: 1916-12-09 
 #has_/time_/stopped :: 2020-02-05 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

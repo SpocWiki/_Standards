@@ -1,36 +1,176 @@
 ---
 aliases:
-  - Glycolytic_process
-  - Glycolytic process
-  - Glycolysis
+- gilaayikoolisisii
+- glicolisi
+- glicoliză
+- glicòlisi
+- Glicólise
+- Glikolisis
+- Glikoliz
+- Glikoliza
+- glikolizė
+- glikolízis
+- glikolīze
+- glucólisis
+- Glukolisi
+- glukolizo
+- glycolyse
+- Glycolysis
+- Glycolytic process
+- Glycolytic_process
+- Glykolys
+- Glykolyse
+- Glykolyysi
+- glykolýza
+- glîkolîz
+- Glïkolïz
+- Glükolüüs
+- I-Glycolysis
+- Qlikoliz
+- Thn̂g-kái
+- Đường phân
+- Γλυκόλυση
+- гліколіз
+- гликолиз
+- Гликолиза
+- Գլիկոլիզ
+- גליקוליזה
+- تحلل الجلوكوز
+- شەکرە شیبوونەوە
+- قندکافت
+- ګلايکوليسېز
+- گلىيكولىيز
+- ग्लाइकोलिसिस
+- গ্লাইকোলাইসিস প্রক্রিয়া
+- சர்க்கரைச் சிதைவு
+- ഗ്ലൈക്കോളിസിസ്
+- ไกลโคไลซิส
+- გლიკოლიზი
+- 糖解作用
+- 糖酵解
+- 葡萄醣解
+- 解糖系
+- 해당
 has_id_wikidata: Q162643
 instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~pyruvate_metabolic_process,14865379]]'
-  - '[[_Standards/WikiData/WD~ATP_generation_from_ADP,21130811]]'
-  - '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]'
+- '[[_Standards/WikiData/WD~pyruvate_metabolic_process,14865379]]'
+- '[[_Standards/WikiData/WD~ATP_generation_from_ADP,21130811]]'
+- '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~phosphopyruvate_hydratase_activity,14914001]]'
-  - '[[_Standards/WikiData/WD~phosphoglycerate_mutase_activity,21121869]]'
-  - '[[_Standards/WikiData/WD~phosphoglycerate_kinase_activity,21134371]]'
-  - '[[_Standards/WikiData/WD~glyceraldehyde_3_phosphate_dehydrogenase_(NAD(P)+)_(phosphorylating)_activity,22275628]]'
-  - '[[_Standards/WikiData/WD~pyruvate_ion,27089397]]'
-  - '[[_Standards/WikiData/WD~ATP(4_),27113900]]'
-  - '[[_Standards/WikiData/WD~ADP(3_),27225748]]'
-  - '[[_Standards/WikiData/WD~NAD(P)H,38131149]]'
-  - '[[_Standards/WikiData/WD~NAD(P)+_cytosol_,50264715]]'
+- '[[_Standards/WikiData/WD~phosphopyruvate_hydratase_activity,14914001]]'
+- '[[_Standards/WikiData/WD~phosphoglycerate_mutase_activity,21121869]]'
+- '[[_Standards/WikiData/WD~phosphoglycerate_kinase_activity,21134371]]'
+- '[[_Standards/WikiData/WD~glyceraldehyde_3_phosphate_dehydrogenase_(NAD(P)+)_(phosphorylating)_activity,22275628]]'
+- '[[_Standards/WikiData/WD~pyruvate_ion,27089397]]'
+- '[[_Standards/WikiData/WD~ATP(4_),27113900]]'
+- '[[_Standards/WikiData/WD~ADP(3_),27225748]]'
+- '[[_Standards/WikiData/WD~NAD(P)H,38131149]]'
+- '[[_Standards/WikiData/WD~NAD(P)+_cytosol_,50264715]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GlycolysiscompleteLabelled.png
 exact_match: http://purl.obolibrary.org/obo/GO_0006096
 UMLS_CUI: C0017952
 MeSH_tree_code:
-  - G02.111.158.750
-  - G03.191.750
-  - G03.295.436
-  - G03.493.360
+- G02.111.158.750
+- G03.191.750
+- G03.295.436
+- G03.493.360
 Commons_category: Glycolysis
 Krugosvet_article: nauka_i_tehnika/himiya/GLIKOLIZ.html
+dv_has_:
+  name_:
+    ar: تحلل الجلوكوز
+    ast: Glucólisis
+    az: Qlikoliz
+    be: гліколіз
+    be-tarask: гліколіз
+    bg: Гликолиза
+    bn: গ্লাইকোলাইসিস প্রক্রিয়া
+    bs: Glikoliza
+    ca: glicòlisi
+    ckb: شەکرە شیبوونەوە
+    cs: glykolýza
+    da: Glykolyse
+    de: Glykolyse
+    el: Γλυκόλυση
+    en: glycolytic process
+    en-ca: Glycolysis
+    en-gb: Glycolysis
+    eo: glukolizo
+    es: glucólisis
+    et: Glükolüüs
+    eu: Glukolisi
+    fa: قندکافت
+    fi: Glykolyysi
+    fr: glycolyse
+    gl: Glicólise
+    he: גליקוליזה
+    hi: ग्लाइकोलिसिस
+    hr: Glikoliza
+    ht: Glikoliz
+    hu: glikolízis
+    hy: Գլիկոլիզ
+    id: Glikolisis
+    it: glicolisi
+    ja: 解糖系
+    jv: Glikolisis
+    ka: გლიკოლიზი
+    kk: Гликолиз
+    kk-arab: گلىيكولىيز
+    kk-cn: گلىيكولىيز
+    kk-cyrl: Гликолиз
+    kk-kz: Гликолиз
+    kk-latn: Glïkolïz
+    kk-tr: Glïkolïz
+    ko: 해당
+    ku: glîkolîz
+    ku-latn: glîkolîz
+    ky: Гликолиз
+    la: Glycolysis
+    lb: Glykolys
+    lt: glikolizė
+    lv: glikolīze
+    mk: Гликолиза
+    ml: ഗ്ലൈക്കോളിസിസ്
+    ms: Glikolisis
+    nan: Thn̂g-kái
+    nb: glykolyse
+    nl: glycolyse
+    nn: glykolyse
+    om: gilaayikoolisisii
+    pl: glikoliza
+    ps: ګلايکوليسېز
+    pt: glicólise
+    pt-br: Glicólise
+    ro: glicoliză
+    ru: гликолиз
+    sh: Glikoliza
+    sk: Glykolýza
+    sl: glikoliza
+    sr: гликолиза
+    sr-ec: гликолиза
+    sr-el: glikoliza
+    su: Glikolisis
+    sv: Glykolys
+    ta: சர்க்கரைச் சிதைவு
+    tg: Гликолиз
+    th: ไกลโคไลซิส
+    tl: Glikolisis
+    tr: glikoliz
+    uk: гліколіз
+    uz: Glikoliz
+    vi: Đường phân
+    wuu: 糖酵解
+    yue: 葡萄醣解
+    zh: 糖酵解
+    zh-cn: 糖酵解
+    zh-hans: 糖酵解
+    zh-hant: 糖酵解
+    zh-hk: 糖解作用
+    zh-sg: 糖酵解
+    zh-tw: 糖解作用
+    zu: I-Glycolysis
 ---
-
 # [[Glycolysis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Glycolytic_process,162643|WD~Glycolytic_process,162643]] 

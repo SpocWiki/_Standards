@@ -1,51 +1,190 @@
 ---
 aliases:
+- Dewa Osiris
+- jan sewi Wesile
+- Osiride
+- Osiris
+- Osíris
+- Oziris
+- Oziriso
+- Ozirisz
+- Ozyris
+- Ozyrys
+- Ozīriss
+- Usir
+- Usíre
+- Óisíris
+- Ósíris
+- Ôsirisy
+- Όσιρις
+- Асірыс
+- Асырыс
+- Озирис
+- Осіріс
+- Осирис
+- Օսիրիս
+- אוסיריס
+- أوزيريس
+- ازیریس
+- اوزيريس
+- اوزیریس
+- اوسيريس
+- اوسیرِس
+- ओसिरिस
+- অচাইৰিছ
+- ওসাইরিস
+- ஒசைரிஸ்
+- ಓಸೈರಿಸ್
+- ഒസീരിസ്
+- ඔසිරිස්
+- โอไซริส
+- ཨུ་སའེ་ལི་སི།
+- အိုးဆိုက်ရစ်နတ်ဘုရား
+- ოსირისი
+- オシリス
+- 俄西里斯
+- 歐西里斯
+- ꯑꯣꯁꯤꯔꯤꯁ
+- 오시리스
 has_id_wikidata: Q46491
 sibling:
-  - "[[_Standards/WikiData/WD~Isis,79876]]"
-  - "[[_Standards/WikiData/WD~Seth,131795]]"
-  - "[[_Standards/WikiData/WD~Nephthys,169040]]"
+- '[[_Standards/WikiData/WD~Isis,79876]]'
+- '[[_Standards/WikiData/WD~Seth,131795]]'
+- '[[_Standards/WikiData/WD~Nephthys,169040]]'
 unmarried_partner:
-  - "[[_Standards/WikiData/WD~Isis,79876]]"
-  - "[[_Standards/WikiData/WD~Nephthys,169040]]"
-spouse: "[[_Standards/WikiData/WD~Isis,79876]]"
+- '[[_Standards/WikiData/WD~Isis,79876]]'
+- '[[_Standards/WikiData/WD~Nephthys,169040]]'
+spouse: '[[_Standards/WikiData/WD~Isis,79876]]'
 child:
-  - "[[_Standards/WikiData/WD~Horus,84122]]"
-  - "[[_Standards/WikiData/WD~Anubis,47534]]"
-enemy: "[[_Standards/WikiData/WD~Seth,131795]]"
-killed_by: "[[_Standards/WikiData/WD~Seth,131795]]"
+- '[[_Standards/WikiData/WD~Horus,84122]]'
+- '[[_Standards/WikiData/WD~Anubis,47534]]'
+enemy: '[[_Standards/WikiData/WD~Seth,131795]]'
+killed_by: '[[_Standards/WikiData/WD~Seth,131795]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]"
-  - "[[_Standards/WikiData/WD~dying_and_rising_deity,642405]]"
-  - "[[_Standards/WikiData/WD~nature_deity,13405593]]"
-mother: "[[_Standards/WikiData/WD~Nut,165496]]"
-father: "[[_Standards/WikiData/WD~Geb,168444]]"
-different_from: "[[_Standards/WikiData/WD~Osiris,354044]]"
-worshipped_by: "[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]"
+- '[[_Standards/WikiData/WD~Ancient_Egyptian_deity,146083]]'
+- '[[_Standards/WikiData/WD~dying_and_rising_deity,642405]]'
+- '[[_Standards/WikiData/WD~nature_deity,13405593]]'
+mother: '[[_Standards/WikiData/WD~Nut,165496]]'
+father: '[[_Standards/WikiData/WD~Geb,168444]]'
+different_from: '[[_Standards/WikiData/WD~Osiris,354044]]'
+worshipped_by: '[[_Standards/WikiData/WD~religion_of_ancient_Egypt,447131]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Q30059240,30059240]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-part_of: "[[_Standards/WikiData/WD~culture_of_ancient_Egypt,634708]]"
-student: "[[_Standards/WikiData/WD~Gambrinus,772978]]"
-manner_of_death: "[[_Standards/WikiData/WD~deicide,1855439]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Osiris_Hemag,113789087]]"
-work_location: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~culture_of_ancient_Egypt,634708]]'
+student: '[[_Standards/WikiData/WD~Gambrinus,772978]]'
+manner_of_death: '[[_Standards/WikiData/WD~deicide,1855439]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Osiris_Hemag,113789087]]'
+work_location: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
 Commons_category: Osiris
 Iconclass_notation: 12C13(OSIRIS)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standing%20Osiris.svg
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/OSIRIS.html
 IPA_transcription: oʊˈsaɪərɨs
 name_in_hiero_markup: st:D4-A40
+dv_has_:
+  name_:
+    af: Osiris
+    ar: أوزيريس
+    arz: اوزيريس
+    as: অচাইৰিছ
+    ast: Osiris
+    az: Osiris
+    be: Асірыс
+    be-tarask: Асырыс
+    bg: Озирис
+    bn: ওসাইরিস
+    bo: ཨུ་སའེ་ལི་སི།
+    br: Osiris
+    bs: Oziris
+    ca: Osiris
+    cdo: Osiris
+    cs: Usir
+    cv: Осирис
+    cy: Osiris
+    da: Osiris
+    de: Osiris
+    diq: Osiris
+    el: Όσιρις
+    en: Osiris
+    eo: Oziriso
+    es: Osiris
+    et: Osiris
+    eu: Osiris
+    fa: ازیریس
+    fi: Osiris
+    fr: Osiris
+    ga: Óisíris
+    gl: Osiris
+    gsw: Osiris
+    he: אוסיריס
+    hi: ओसिरिस
+    hr: Oziris
+    hu: Ozirisz
+    hy: Օսիրիս
+    id: Osiris
+    io: Osiris
+    is: Ósíris
+    it: Osiride
+    ja: オシリス
+    ka: ოსირისი
+    kn: ಓಸೈರಿಸ್
+    ko: 오시리스
+    ks: اوسیرِس
+    ky: Осирис
+    la: Osiris
+    lb: Osiris
+    lt: Ozyris
+    lv: Ozīriss
+    mg: Ôsirisy
+    mk: Озирис
+    ml: ഒസീരിസ്
+    mni: ꯑꯣꯁꯤꯔꯤꯁ
+    ms: Dewa Osiris
+    my: အိုးဆိုက်ရစ်နတ်ဘုရား
+    nah: Osiris
+    nb: Osiris
+    nl: Osiris
+    oc: Osiris
+    os: Осирис
+    pl: Ozyrys
+    ps: اوسيريس
+    pt: Osíris
+    ro: Osiris
+    ru: Осирис
+    scn: Osiride
+    sco: Osiris
+    sh: Oziris
+    si: ඔසිරිස්
+    sk: Usíre
+    sl: Oziris
+    sq: Osiris
+    sr: Озирис
+    sv: Osiris
+    sw: Osiris
+    ta: ஒசைரிஸ்
+    th: โอไซริส
+    tl: Osiris
+    tok: jan sewi Wesile
+    tr: Osiris
+    uk: Осіріс
+    ur: اوزیریس
+    uz: Osiris
+    vi: Osiris
+    war: Osiris
+    wuu: 俄西里斯
+    xmf: ოსირისი
+    yue: 歐西里斯
+    zh: 俄西里斯
 ---
-
 # [[Osiris]] 
 
 #is_/same_as :: [[WD~Osiris,46491]] 

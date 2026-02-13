@@ -1,9 +1,64 @@
 ---
 aliases:
-  - Vicieae
-  - Fabeae
+- Fabeae
+- Fabeoj
+- Tông Đậu
+- Vicieae
+- Бабовыя
+- бобовые
+- кузаклылар
+- същински бобови
+- فولاوية
+- فولاويه
+- 콩족
+has_id_wikidata: Q137280
+dv_has_:
+  name_:
+    an: Fabeae
+    ar: فولاوية
+    arz: فولاويه
+    ast: Fabeae
+    be: Бабовыя
+    bg: същински бобови
+    bs: Fabeae
+    ca: Fabeae
+    ceb: Fabeae
+    cs: Fabeae
+    de: Fabeae
+    en: Fabeae
+    eo: Fabeoj
+    es: Fabeae
+    eu: Fabeae
+    ext: Fabeae
+    fi: Fabeae
+    fr: Fabeae
+    ga: Fabeae
+    gl: Fabeae
+    hr: Fabeae
+    hu: Fabeae
+    ia: Fabeae
+    ie: Fabeae
+    io: Fabeae
+    it: Fabeae
+    ko: 콩족
+    la: Fabeae
+    mul: Fabeae
+    nl: Fabeae
+    oc: Fabeae
+    pl: Fabeae
+    pt: Fabeae
+    pt-br: Fabeae
+    ro: Fabeae
+    ru: бобовые
+    sl: Fabeae
+    sq: Fabeae
+    tt: кузаклылар
+    tt-cyrl: кузаклылар
+    uk: Fabeae
+    vi: Tông Đậu
+    vo: Fabeae
+    war: Fabeae
 ---
-
 ## #has_/text_of_/abstract 
 
 > The tribe Fabeae (sometimes referred to as "**Vicieae**") is one of the subdivisions of the plant family Fabaceae. 

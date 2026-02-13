@@ -1,12 +1,20 @@
 ---
 aliases:
-  - Structural_Violence
-  - Structural Violence
-  - Structural abuse
-  - Structural_Abuse
-  - Structural Abuse
+- Structural abuse
+- Structural Violence
+- Structural_Abuse
+- Structural_Violence
+- struktural sui-istifadə
+- strukturna zloraba
+- إساءة التعامل المنظمة
+has_id_wikidata: Q7624998
+dv_has_:
+  name_:
+    ar: إساءة التعامل المنظمة
+    az: struktural sui-istifadə
+    en: structural abuse
+    sl: strukturna zloraba
 ---
-
 # [[Structural_Abuse]] 
 
 

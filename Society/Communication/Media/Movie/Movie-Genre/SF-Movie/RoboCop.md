@@ -1,4 +1,98 @@
-
+---
+has_id_wikidata: Q372514
+dv_has_:
+  name_:
+    an: RoboCop
+    ar: روبوكوب
+    arz: روبوكوب
+    ast: RoboCop
+    az: Robot-polis
+    azb: دمیر پولیس
+    bcl: RoboCop
+    be: Рабакоп
+    be-tarask: Рабакоп
+    bg: Робокоп
+    bn: রোবোকপ
+    br: RoboCop
+    ca: RoboCop
+    ceb: RoboCop (pelikula nga 1987)
+    cs: Robocop
+    cy: Robocop
+    da: Robocop
+    de: RoboCop
+    el: RoboCop
+    en: RoboCop
+    eo: RoboCop (filmo, 1987)
+    es: RoboCop
+    eu: RoboCop
+    fa: پلیس آهنی
+    fi: RoboCop
+    fr: RoboCop
+    fy: RoboCop (film út 1987)
+    ga: RoboCop
+    gl: RoboCop
+    he: רובוקופ
+    hr: RoboCop
+    hu: Robotzsaru
+    id: RoboCop
+    it: RoboCop
+    ja: ロボコップ
+    ko: 로보캅
+    mk: Робокап
+    ms: Filem Robocop
+    nb: RoboCop
+    nl: RoboCop
+    nn: RoboCop
+    pl: RoboCop
+    pt: RoboCop
+    ro: RoboCop
+    ru: Робокоп
+    sah: Робокоп 1987
+    sco: RoboCop
+    sh: RoboCop
+    sl: RoboCop
+    sq: RoboCop
+    sr: Робокап
+    sv: Robocop
+    th: โรโบคอป
+    tr: RoboCop
+    uk: Робот-поліцейський
+    vi: RoboCop
+    yue: 鐵甲威龍
+    zh: 機器戰警
+    zh-cn: 机械战警
+    zh-hans: 机械战警
+    zh-hant: 機器戰警
+    zh-hk: 鐵甲威龍
+    zh-my: 半人铁警
+    zh-sg: 半人铁警
+    zh-tw: 機器戰警
+aliases:
+- Filem Robocop
+- RoboCop
+- RoboCop (film út 1987)
+- RoboCop (filmo, 1987)
+- RoboCop (pelikula nga 1987)
+- Robot-polis
+- Robotzsaru
+- Рабакоп
+- Робокап
+- Робокоп
+- Робокоп 1987
+- Робот-поліцейський
+- רובוקופ
+- دمیر پولیس
+- روبوكوب
+- پلیس آهنی
+- রোবোকপ
+- โรโบคอป
+- ロボコップ
+- 半人铁警
+- 机械战警
+- 機器戰警
+- 鐵甲威龍
+- 로보캅
+---
 > **RoboCop** is a 1987 American science fiction action film directed by [[../Movie-Directors/Verhoeven,Paul]] and written by Edward Neumeier and Michael Miner. 
 > The film stars [[Weller,Peter]], [[Allen,Nancy]], Daniel O'Herlihy, Ronny Cox, [[Kurtwood_Smith]], and [[Ferrer,Miguel]]. 
 > Set in a crime-ridden Detroit in the near future, RoboCop centers on police officer Alex Murphy (Weller) 

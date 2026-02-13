@@ -1,9 +1,64 @@
 ---
 aliases:
-  - Giraffoidea
+- Giraffoidea
+- girafoïdeus
+- ג'ירפואידים
+- الزرافه
+- زرافهواران
+- زرافويات
+- 長頸鹿超科
+- 长颈鹿总科
 title: Giraffoidea
+has_id_wikidata: Q903239
+dv_has_:
+  name_:
+    an: Giraffoidea
+    ar: زرافويات
+    arz: الزرافه
+    ast: Giraffoidea
+    bg: Giraffoidea
+    ca: girafoïdeus
+    ceb: Giraffoidea
+    cs: Giraffoidea
+    de: Giraffoidea
+    el: Giraffoidea
+    en: Giraffoidea
+    eo: Giraffoidea
+    es: Giraffoidea
+    eu: Giraffoidea
+    ext: Giraffoidea
+    fa: زرافهواران
+    fi: Giraffoidea
+    fr: Giraffoidea
+    ga: Giraffoidea
+    gl: Giraffoidea
+    he: ג'ירפואידים
+    hu: Giraffoidea
+    ia: Giraffoidea
+    ie: Giraffoidea
+    io: Giraffoidea
+    it: Giraffoidea
+    la: Giraffoidea
+    mul: Giraffoidea
+    nl: Giraffoidea
+    oc: Giraffoidea
+    pl: Giraffoidea
+    pt: Giraffoidea
+    pt-br: Giraffoidea
+    ro: Giraffoidea
+    ru: Giraffoidea
+    sl: Giraffoidea
+    sq: Giraffoidea
+    sv: Giraffoidea
+    tr: Giraffoidea
+    uk: Giraffoidea
+    vi: Giraffoidea
+    vo: Giraffoidea
+    war: Giraffoidea
+    zh: 長頸鹿超科
+    zh-cn: 长颈鹿总科
+    zh-hans: 长颈鹿总科
 ---
-
 # [[Giraffoidea]] 
 
 ![ ](Giraffoidea/Samotherium_skull.jpg)

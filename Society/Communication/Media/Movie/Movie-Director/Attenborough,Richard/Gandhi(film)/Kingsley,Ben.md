@@ -1,9 +1,145 @@
 ---
 aliases:
-  - Ben Kingsley
-  - Kingsley,Ben
+- Ben Kingsley
+- Ben Kingsli
+- Ben Kinqsli
+- Bens Kingslijs
+- Kingsley,Ben
+- Μπεν Κίνγκσλεϊ
+- Бен Кінгслі
+- Бен Кінґслі
+- Бен Кингсли
+- Бен Киңзли
+- Бен Киңсли
+- Бэн Кінгсьлі
+- Բեն Քինգսլի
+- בן קינגסלי
+- بن كينغسلي
+- بن کینقزلی
+- بن کینگزلی
+- بين كنجسلى
+- بین کنگزلی
+- बेन किंग्जली
+- बेन किंग्सले
+- বেন কিংসলি
+- બેન કિંગ્સલી
+- ବେନ କିଙ୍ଗସ୍ଲେ
+- பென் கிங்ஸ்லி
+- బెన్ కింగ్స్లే
+- ബെൻ കിംഗ്സ്ലി
+- බෙන් කින්ග්ස්ලි
+- เบน คิงสลีย์
+- ბენ კინგსლი
+- ベン・キングズレー
+- 宾·京士利
+- 本·金斯利
+- 班·金斯利
+- 賓京士利
+- 벤 킹즐리
+has_id_wikidata: Q173158
+dv_has_:
+  name_:
+    af: Ben Kingsley
+    an: Ben Kingsley
+    ar: بن كينغسلي
+    arz: بين كنجسلى
+    ast: Ben Kingsley
+    az: Ben Kinqsli
+    azb: بن کینقزلی
+    be: Бен Кінгслі
+    be-tarask: Бэн Кінгсьлі
+    bg: Бен Кингсли
+    bn: বেন কিংসলি
+    br: Ben Kingsley
+    ca: Ben Kingsley
+    cs: Ben Kingsley
+    cy: Ben Kingsley
+    da: Ben Kingsley
+    de: Ben Kingsley
+    de-ch: Ben Kingsley
+    el: Μπεν Κίνγκσλεϊ
+    en: Ben Kingsley
+    en-ca: Ben Kingsley
+    en-gb: Ben Kingsley
+    en-us: Ben Kingsley
+    eo: Ben Kingsley
+    es: Ben Kingsley
+    et: Ben Kingsley
+    eu: Ben Kingsley
+    fa: بن کینگزلی
+    fi: Ben Kingsley
+    fr: Ben Kingsley
+    ga: Ben Kingsley
+    gl: Ben Kingsley
+    gu: બેન કિંગ્સલી
+    he: בן קינגסלי
+    hi: बेन किंग्सले
+    hr: Ben Kingsley
+    hu: Ben Kingsley
+    hy: Բեն Քինգսլի
+    id: Ben Kingsley
+    ilo: Ben Kingsley
+    it: Ben Kingsley
+    ja: ベン・キングズレー
+    jv: Ben Kingsley
+    ka: ბენ კინგსლი
+    kaa: Ben Kingsley
+    ko: 벤 킹즐리
+    ky: Бен Киңсли
+    la: Ben Kingsley
+    lb: Ben Kingsley
+    lt: Ben Kingsley
+    lv: Bens Kingslijs
+    mk: Бен Кингсли
+    ml: ബെൻ കിംഗ്സ്ലി
+    mn: Бен Кингсли
+    mr: बेन किंग्जली
+    ms: Ben Kingsley
+    mul: Ben Kingsley
+    nb: Ben Kingsley
+    nl: Ben Kingsley
+    nn: Ben Kingsley
+    or: ବେନ କିଙ୍ଗସ୍ଲେ
+    pl: Ben Kingsley
+    pt: Ben Kingsley
+    pt-br: Ben Kingsley
+    ro: Ben Kingsley
+    ru: Бен Кингсли
+    sco: Ben Kingsley
+    sh: Ben Kingsley
+    si: බෙන් කින්ග්ස්ලි
+    sk: Ben Kingsley
+    sl: Ben Kingsley
+    sq: Ben Kingsley
+    sr: Бен Кингсли
+    sr-ec: Бен Кингсли
+    sr-el: Ben Kingsli
+    sv: Ben Kingsley
+    ta: பென் கிங்ஸ்லி
+    te: బెన్ కింగ్స్లే
+    th: เบน คิงสลีย์
+    tl: Ben Kingsley
+    tr: Ben Kingsley
+    tt: Бен Киңзли
+    tt-cyrl: Бен Киңзли
+    uk: Бен Кінґслі
+    ur: بین کنگزلی
+    uz: Ben Kingsley
+    vi: Ben Kingsley
+    war: Ben Kingsley
+    wuu: 本·金斯利
+    xmf: ბენ კინგსლი
+    yo: Ben Kingsley
+    yue: 賓京士利
+    zh: 本·金斯利
+    zh-cn: 本·金斯利
+    zh-hans: 本·金斯利
+    zh-hant: 本·金斯利
+    zh-hk: 賓京士利
+    zh-my: 宾·京士利
+    zh-sg: 班·金斯利
+    zh-tw: 班·金斯利
 ---
-
 #has_/time_/started :: 1943-12-31 
 #has_/time_/stopped  :: 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

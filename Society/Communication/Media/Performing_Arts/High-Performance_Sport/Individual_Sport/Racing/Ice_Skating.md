@@ -1,17 +1,81 @@
 ---
 aliases:
-  - Ice skating
-  - Ice_Skating
-  - Ice Skating
+- bruslení
+- buz pateni
+- drsanje na ledu
+- glitkurado
+- Ice skating
+- Ice_Skating
+- Isketing
+- izotz gaineko irristaketa
+- jégkorcsolyázás
+- klizanje na ledu
+- korčuľovanie
+- luistelu
+- Luncur ais
+- patinage sur glace
+- patinagem no gelo
+- patinaje sobre hielo
+- patinatge sobre gel
+- Patinatge sus glaça
+- patinaxe sobre xelu
+- Patinaxe sobre xeo
+- Patinay
+- pattinaggio su ghiaccio
+- Reedriden
+- ruzikat war ar skorn
+- schaatsen
+- scheuvellopen
+- Schlittschuhlaufen
+- scátáil oighir
+- Seluncur es
+- sglefrio iâ
+- skeiselaup
+- skridskosport
+- Sköäweljen
+- skøjteløb
+- skøyteløp på is
+- Spéilearachd-dheighe
+- trượt băng
+- uisutamine
+- ysskaats
+- čiuožimas ant ledo
+- łyżwiarstwo
+- Παγοδρομία
+- катание на коньках
+- катання на ковзанах
+- клизање на леду
+- коўзанне
+- коўзаньне
+- Коньки спорты
+- Конькиҙа шыуыу
+- лизгање на мраз
+- չմշկասահք
+- החלקה על הקרח
+- اسکیت روی یخ
+- التزلج على الجليد
+- تزلج على الجليد
+- आइस स्केटिंग
+- स्केटिङ्ग्
+- বরফ স্কেটিং
+- ବରଫ ସ୍କେଟିଂ
+- உறைபனிச்சறுக்கு
+- ಐಸ್-ಸ್ಕೇಟಿಂಗ್
+- สเกตน้ำแข็ง
+- ციგურები
+- アイススケート
+- 溜冰
+- 滑冰
+- 빙상 스케이트
 has_id_wikidata: Q779272
 uses: '[[_Standards/WikiData/WD~ice_skate,108640]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-  - '[[_Standards/WikiData/WD~skating,14300548]]'
-  - '[[_Standards/WikiData/WD~ice_sport,31883501]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~skating,14300548]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 practiced_by: '[[_Standards/WikiData/WD~ice_skater,9394993]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Ice_skating,17585105]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
@@ -26,8 +90,79 @@ Dewey_Decimal_Classification: 796.91
 subreddit: iceskating
 OpenStreetMap_key: ice_skates
 OpenStreetMap_tag: sport=ice_skating
+dv_has_:
+  name_:
+    af: ysskaats
+    ar: التزلج على الجليد
+    arz: تزلج على الجليد
+    ast: patinaxe sobre xelu
+    ba: Конькиҙа шыуыу
+    be: коўзанне
+    be-tarask: коўзаньне
+    bn: বরফ স্কেটিং
+    br: ruzikat war ar skorn
+    ca: patinatge sobre gel
+    cs: bruslení
+    cy: sglefrio iâ
+    da: skøjteløb
+    de: Schlittschuhlaufen
+    el: Παγοδρομία
+    en: ice skating
+    eo: glitkurado
+    es: patinaje sobre hielo
+    et: uisutamine
+    eu: izotz gaineko irristaketa
+    fa: اسکیت روی یخ
+    fi: luistelu
+    fr: patinage sur glace
+    fy: Reedriden
+    ga: scátáil oighir
+    gd: Spéilearachd-dheighe
+    gl: Patinaxe sobre xeo
+    he: החלקה על הקרח
+    hi: आइस स्केटिंग
+    hr: klizanje na ledu
+    ht: Patinay
+    hu: jégkorcsolyázás
+    hy: չմշկասահք
+    id: Seluncur es
+    it: pattinaggio su ghiaccio
+    ja: アイススケート
+    ka: ციგურები
+    kk: Коньки спорты
+    kn: ಐಸ್-ಸ್ಕೇಟಿಂಗ್
+    ko: 빙상 스케이트
+    lt: čiuožimas ant ledo
+    mk: лизгање на мраз
+    ms: Luncur ais
+    nb: skøyteløp på is
+    nds-nl: scheuvellopen
+    nl: schaatsen
+    nn: skeiselaup
+    oc: Patinatge sus glaça
+    or: ବରଫ ସ୍କେଟିଂ
+    pl: łyżwiarstwo
+    pt: patinagem no gelo
+    ru: катание на коньках
+    sa: स्केटिङ्ग्
+    sh: Klizanje na ledu
+    sk: korčuľovanie
+    sl: drsanje na ledu
+    sr: клизање на леду
+    sr-ec: клизање на леду
+    sr-el: klizanje na ledu
+    stq: Sköäweljen
+    sv: skridskosport
+    ta: உறைபனிச்சறுக்கு
+    th: สเกตน้ำแข็ง
+    tl: Isketing
+    tr: buz pateni
+    uk: катання на ковзанах
+    vi: trượt băng
+    yue: 溜冰
+    zh: 滑冰
+    zh-hant: 滑冰
 ---
-
 # [[Ice_Skating]] 
 
 #is_/same_as  :: [[../../../../../../../WikiData/WD~Ice_skating,779272|WD~Ice_skating,779272]] 

@@ -1,9 +1,48 @@
 ---
 aliases:
-  - humilis
+- Behaarte Ruellie
+- humilis
+- Ruellia humilis
 title: Ruellia humilis clade
+has_id_wikidata: Q814412
+dv_has_:
+  name_:
+    an: Ruellia humilis
+    ast: Ruellia humilis
+    az: Ruellia humilis
+    bg: Ruellia humilis
+    ca: Ruellia humilis
+    ceb: Ruellia humilis
+    de: Behaarte Ruellie
+    en: Ruellia humilis
+    eo: Ruellia humilis
+    es: Ruellia humilis
+    eu: Ruellia humilis
+    ext: Ruellia humilis
+    fi: Ruellia humilis
+    fr: Ruellia humilis
+    ga: Ruellia humilis
+    gl: Ruellia humilis
+    ia: Ruellia humilis
+    ie: Ruellia humilis
+    io: Ruellia humilis
+    it: Ruellia humilis
+    la: Ruellia humilis
+    mul: Ruellia humilis
+    nl: Ruellia humilis
+    oc: Ruellia humilis
+    pl: Ruellia humilis
+    pt: Ruellia humilis
+    pt-br: Ruellia humilis
+    ro: Ruellia humilis
+    ru: Ruellia humilis
+    sq: Ruellia humilis
+    sv: Ruellia humilis
+    uk: Ruellia humilis
+    vi: Ruellia humilis
+    vo: Ruellia humilis
+    war: Ruellia humilis
 ---
-
 # Ruellia humilis  
 
 ![Ruellia strepens](humilis/Ruellia_strepens.jpg) 

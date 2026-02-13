@@ -1,18 +1,128 @@
 ---
 aliases:
+- Evoliucinė psichologija
+- evolua psikologio
+- Evolucijska psihologija
+- Evolucionala psikologio
+- evolusjonspsykologi
+- evolutionaire psychologie
+- evolutionary psychology
+- evolutionspsykologi
+- evolutionäre Psychologie
+- evolutionær psykologi
+- Evolutsiooniline psühholoogia
+- Evoluutiopsykologia
+- evoluční psychologie
+- evolúciós pszichológia
+- evrimsel psikoloji
+- psicologia evolucionista
+- psicologia evoluzionista
+- psicología evolucionista
+- Psicoloxía evolucionista
+- Psikologi evolusi
+- Psikologi evolusioner
+- Psikologia ebolutiboa
+- Psychologia evolutionaria
+- psychologia ewolucyjna
+- psychologie évolutionniste
+- Tâm lý học tiến hóa
+- Þróunarsálfræði
+- Ανάπτυξη του ανθρώπου
+- еволуциона психологија
+- Еволуциска психологија
+- еволюційна психологія
+- Еволюционна психология
+- эвалюцыйная псыхалёгія
+- эволюционная психология
+- Էվոլյուցիոն հոգեբանություն
+- פסיכולוגיה אבולוציונית
+- ارتقائی نفسیات
+- تکاملي ارواپوهنه
+- دەرووناسیی پەرەسەندوو
+- روانشناسی تکاملی
+- سيكولوجيا تطوريه
+- علم النفس التطوري
+- विकासवादी मनोविज्ञान
+- বিবর্তনীয় মনোবিজ্ঞান
+- বিবৰ্তনমূলক মনোবিজ্ঞান
+- 演化心理學
+- 进化心理学
+- 進化心理学
+- 進化心理學
+- 진화심리학
 has_id_wikidata: Q219695
 subclass_of:
-  - "[[_Standards/WikiData/WD~theory_of_evolution,11640129]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-instance_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Evolutionary_psychology,13552037]]"
-practiced_by: "[[_Standards/WikiData/WD~evolutionary_psychologist,84320739]]"
-OmegaWiki_Defined_Meaning: "1324289"
+- '[[_Standards/WikiData/WD~theory_of_evolution,11640129]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Evolutionary_psychology,13552037]]'
+practiced_by: '[[_Standards/WikiData/WD~evolutionary_psychologist,84320739]]'
+OmegaWiki_Defined_Meaning: 1324289
 Library_of_Congress_Classification: BF698.95
 Commons_category: Evolutionary psychology
 PhilPapers_topic: evolutionary-psychology
+dv_has_:
+  name_:
+    ar: علم النفس التطوري
+    arz: سيكولوجيا تطوريه
+    as: বিবৰ্তনমূলক মনোবিজ্ঞান
+    ast: Psicoloxía evolucionista
+    be-tarask: эвалюцыйная псыхалёгія
+    bg: Еволюционна психология
+    bn: বিবর্তনীয় মনোবিজ্ঞান
+    ca: psicologia evolucionista
+    ckb: دەرووناسیی پەرەسەندوو
+    cs: evoluční psychologie
+    da: evolutionær psykologi
+    de: evolutionäre Psychologie
+    el: Ανάπτυξη του ανθρώπου
+    en: evolutionary psychology
+    eo: evolua psikologio
+    es: psicología evolucionista
+    et: Evolutsiooniline psühholoogia
+    eu: Psikologia ebolutiboa
+    fa: روانشناسی تکاملی
+    fi: Evoluutiopsykologia
+    fr: psychologie évolutionniste
+    gl: Psicoloxía evolucionista
+    he: פסיכולוגיה אבולוציונית
+    hi: विकासवादी मनोविज्ञान
+    hr: Evolucijska psihologija
+    hu: evolúciós pszichológia
+    hy: Էվոլյուցիոն հոգեբանություն
+    id: Psikologi evolusioner
+    io: Evolucionala psikologio
+    is: Þróunarsálfræði
+    it: psicologia evoluzionista
+    ja: 進化心理学
+    ko: 진화심리학
+    la: Psychologia evolutionaria
+    lt: Evoliucinė psichologija
+    mk: Еволуциска психологија
+    ms: Psikologi evolusi
+    nb: evolusjonspsykologi
+    nl: evolutionaire psychologie
+    pl: psychologia ewolucyjna
+    ps: تکاملي ارواپوهنه
+    pt: psicologia evolucionista
+    ru: эволюционная психология
+    sh: Evolucijska psihologija
+    sl: evolucijska psihologija
+    sr: еволуциона психологија
+    sv: evolutionspsykologi
+    tr: evrimsel psikoloji
+    uk: еволюційна психологія
+    ur: ارتقائی نفسیات
+    vi: Tâm lý học tiến hóa
+    yue: 進化心理學
+    zh: 进化心理学
+    zh-cn: 进化心理学
+    zh-hans: 进化心理学
+    zh-hant: 演化心理學
+    zh-hk: 演化心理學
+    zh-sg: 进化心理学
+    zh-tw: 演化心理學
 ---
-
 # [[Evolutionary_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Evolutionary_psychology,219695|WD~Evolutionary_psychology,219695]] 

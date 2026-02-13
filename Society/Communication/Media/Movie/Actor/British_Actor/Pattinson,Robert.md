@@ -1,10 +1,152 @@
 ---
 aliases:
-  - Robert Douglas Thomas Pattinson
-  - Robert Pattinson
-  - Pattinson,Robert
+- Pattinson,Robert
+- Robert Douglas Thomas Pattinson
+- Robert Pattinson
+- Robert Pettinson
+- Roberts Patinsons
+- Ρόμπερτ Πάτινσον
+- Роберт Патинсон
+- Роберт Паттінсон
+- Роберт Паттинсон
+- Роберт Пацінсан
+- Робърт Патинсън
+- Робэрт Патынсан
+- Ռոբերտ Փեթինսոն
+- רוברט פטינסון
+- رابرت پتینسون
+- روبرت باتينسون
+- روبٲرٛٹ پیٚٹِنسَن
+- रॉबर्ट पैटिनसन
+- रोबर्ट प्याटिनसन
+- রবার্ট প্যাটিনসন
+- રોબર્ટ પેટિસન
+- ராபர்ட் பாட்டின்சன்
+- రాబర్ట్ ప్యాటిన్సన్
+- ರಾಬರ್ಟ್ ಪ್ಯಾಟಿನ್ಸನ್
+- റോബർട്ട് പാറ്റിൻസൺ
+- โรเบิร์ต แพตตินสัน
+- რობერტ პატინსონი
+- ロバート・パティンソン
+- 罗伯·派汀森
+- 罗伯特·帕丁森
+- 罗伯特·帕廷森
+- 罗拔·柏汀森
+- 羅伯·派汀森
+- 羅拔·柏迪臣
+- 羅拔柏迪臣
+- 로버트 패틴슨
+has_id_wikidata: Q36767
+dv_has_:
+  name_:
+    af: Robert Pattinson
+    ar: روبرت باتينسون
+    arz: روبرت باتينسون
+    ast: Robert Pattinson
+    az: Robert Pettinson
+    azb: رابرت پتینسون
+    be: Роберт Пацінсан
+    be-tarask: Робэрт Патынсан
+    bg: Робърт Патинсън
+    bn: রবার্ট প্যাটিনসন
+    br: Robert Pattinson
+    ca: Robert Pattinson
+    cs: Robert Pattinson
+    cy: Robert Pattinson
+    da: Robert Pattinson
+    dag: Robert Pattinson
+    de: Robert Pattinson
+    diq: Robert Pattinson
+    el: Ρόμπερτ Πάτινσον
+    en: Robert Pattinson
+    en-gb: Robert Pattinson
+    en-us: Robert Pattinson
+    eo: Robert Pattinson
+    es: Robert Pattinson
+    et: Robert Pattinson
+    eu: Robert Pattinson
+    fa: رابرت پتینسون
+    fi: Robert Pattinson
+    fit: Robert Pattinson
+    fr: Robert Pattinson
+    ga: Robert Pattinson
+    gl: Robert Pattinson
+    gu: રોબર્ટ પેટિસન
+    he: רוברט פטינסון
+    hi: रॉबर्ट पैटिनसन
+    hr: Robert Pattinson
+    hu: Robert Pattinson
+    hy: Ռոբերտ Փեթինսոն
+    id: Robert Pattinson
+    is: Robert Pattinson
+    it: Robert Pattinson
+    ja: ロバート・パティンソン
+    jv: Robert Pattinson
+    ka: რობერტ პატინსონი
+    kk: Роберт Паттинсон
+    kn: ರಾಬರ್ಟ್ ಪ್ಯಾಟಿನ್ಸನ್
+    ko: 로버트 패틴슨
+    ks: روبٲرٛٹ پیٚٹِنسَن
+    ky: Роберт Паттинсон
+    li: Robert Pattinson
+    lt: Robert Pattinson
+    lv: Roberts Patinsons
+    mhr: Роберт Паттинсон
+    mk: Роберт Патинсон
+    ml: റോബർട്ട് പാറ്റിൻസൺ
+    mn: Роберт Паттинсон
+    ms: Robert Pattinson
+    mul: Robert Pattinson
+    nan: Robert Pattinson
+    nb: Robert Pattinson
+    nds: Robert Pattinson
+    ne: रोबर्ट प्याटिनसन
+    nl: Robert Pattinson
+    nn: Robert Pattinson
+    pl: Robert Pattinson
+    pt: Robert Pattinson
+    pt-br: Robert Pattinson
+    rmf: Robert Pattinson
+    ro: Robert Pattinson
+    ru: Роберт Паттинсон
+    sco: Robert Pattinson
+    se: Robert Pattinson
+    sh: Robert Pattinson
+    sjd: Роберт Паттинсон
+    sje: Robert Pattinson
+    sju: Robert Pattinson
+    sk: Robert Pattinson
+    sl: Robert Pattinson
+    sma: Robert Pattinson
+    smj: Robert Pattinson
+    smn: Robert Pattinson
+    sms: Robert Pattinson
+    sq: Robert Pattinson
+    sr: Robert Pattinson
+    su: Robert Pattinson
+    sv: Robert Pattinson
+    sw: Robert Pattinson
+    ta: ராபர்ட் பாட்டின்சன்
+    te: రాబర్ట్ ప్యాటిన్సన్
+    tg: Роберт Паттинсон
+    th: โรเบิร์ต แพตตินสัน
+    tl: Robert Pattinson
+    tr: Robert Pattinson
+    uk: Роберт Паттінсон
+    uz: Robert Pattinson
+    vi: Robert Pattinson
+    wuu: 罗伯特·帕丁森
+    xmf: რობერტ პატინსონი
+    yue: 羅拔柏迪臣
+    zh: 羅伯·派汀森
+    zh-cn: 罗伯特·帕廷森
+    zh-hans: 罗伯特·帕廷森
+    zh-hant: 羅伯·派汀森
+    zh-hk: 羅拔·柏迪臣
+    zh-my: 罗拔·柏汀森
+    zh-sg: 罗伯·派汀森
+    zh-tw: 羅伯·派汀森
 ---
-
 # [[Pattinson,Robert]] 
 
 #has_/time_/started :: 1986-05-13 

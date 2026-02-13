@@ -1,16 +1,33 @@
 ---
-has_time_started: 1948-03-17 
+has_time_started: 1948-03-17
 aliases:
-  - Hells Angels Motorcycle Club
-  - Hells Angels
-  - Hells Angels Motorcycle Corporation
-  - Hells_Angels
+- Anđeli pakla
+- Cehennem Melekleri
+- Hells Angels
+- Hells Angels Motorcycle Club
+- Hells Angels Motorcycle Corporation
+- Hells_Angels
+- Helvetin enkelit
+- Vítisenglar
+- Àngels de l'infern
+- Άγγελοι της Κολάσεως
+- Анёлы пекла
+- Ангели пекла
+- Ангелы ада
+- Пеколни ангели
+- Դժոխքի հրեշտակներ
+- فرشتههای جهنم
+- ملائكة الجحيم
+- হেলস অ্যাঞ্জেলস
+- ヘルズ・エンジェルス
+- 地獄天使
+- 헬스 엔젤스
 has_id_wikidata: Q622188
 instance_of: '[[_Standards/WikiData/WD~outlaw_motorcycle_club,1849110]]'
 child_organization_unit: '[[_Standards/WikiData/WD~Hells_Angels,3784697]]'
 official_color:
-  - '[[_Standards/WikiData/WD~red,3142]]'
-  - '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~red,3142]]'
+- '[[_Standards/WikiData/WD~white,23444]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 Commons_category: Hells Angels
 inception: 1948-03-17T00:00:00Z
@@ -19,8 +36,52 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Hells%20Angels-03.jpg
 official_website: http://www.hells-angels.com/
 ISNI: 0000000089279933
 Instagram_username: hellsangelsmcworld_official
+dv_has_:
+  name_:
+    af: Hells Angels
+    ar: ملائكة الجحيم
+    ast: Hells Angels
+    be-tarask: Анёлы пекла
+    bn: হেলস অ্যাঞ্জেলস
+    ca: Àngels de l'infern
+    cs: Hells Angels
+    da: Hells Angels
+    de: Hells Angels
+    el: Άγγελοι της Κολάσεως
+    en: Hells Angels
+    eo: Hells Angels
+    es: Hells Angels
+    eu: Hells Angels
+    fa: فرشتههای جهنم
+    fi: Helvetin enkelit
+    fr: Hells Angels
+    fy: Hells Angels
+    gl: Hells Angels
+    he: Hells Angels
+    hr: Hells Angels
+    hu: Hells Angels
+    hy: Դժոխքի հրեշտակներ
+    id: Hells Angels
+    is: Vítisenglar
+    it: Hells Angels
+    ja: ヘルズ・エンジェルス
+    ko: 헬스 엔젤스
+    mk: Пеколни ангели
+    nb: Hells Angels
+    nl: Hells Angels
+    nn: Hells Angels
+    oc: Hells Angels
+    pl: Hells Angels
+    pt: Hells Angels
+    ru: Ангелы ада
+    sr: Anđeli pakla
+    sv: Hells Angels
+    tly: Hells Angels
+    tr: Cehennem Melekleri
+    uk: Ангели пекла
+    zea: Hells Angels
+    zh: 地獄天使
 ---
-
 # [[Hells_Angels]] 
 
 #is_/same_as :: [[WD~Hells_Angels,622188]] 

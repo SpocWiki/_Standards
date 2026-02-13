@@ -1,68 +1,139 @@
 ---
 aliases:
-  - Indium
+- blajinme
+- Endyòm
+- ind
+- Indi
+- indiam
+- Indii
+- indij
+- indijs
+- Indijum
+- Indio
+- Indiom
+- indis
+- indiu
+- Indium
+- Indiumi
+- indiwm
+- Indiy
+- indiyum
+- indju
+- indjum
+- Indyo
+- Indyo (elemento)
+- Indyu
+- indín
+- inniu
+- INzulumbi
+- Ìndiu
+- índio
+- Îndiyûm
+- İndium
+- Ɛndɩyɔm
+- ίνδιο
+- інд
+- індій
+- Індый
+- Инди
+- индијум
+- индий
+- индиум
+- ինդիում
+- אינדיום
+- إنديوم
+- إينديوم
+- ئىندىي
+- ئیندیۆم
+- انديوم
+- انڈیئم
+- انڈیم
+- انډيوم
+- انڊيم
+- ایندیم
+- इंडियम
+- इण्डियम
+- इन्डियम
+- ইন্ডিয়াম
+- ਇੰਡੀਅਮ
+- ઈંડિયમ
+- ଇଣ୍ଡିଅମ
+- இண்டியம்
+- ఇండియం
+- ಇಂಡಿಯಮ್
+- ഇൻഡിയം
+- อินเดียม
+- མཐིང་ལྕགས།
+- အိန္ဒီယမ်
+- ინდიუმი
+- ኢንዲየም
+- インジウム
+- 銦
+- 铟
+- ꯏꯟꯗꯤꯌꯝ
+- 인듐
 has_id_wikidata: Q1094
-associated_hazard: "[[_Standards/WikiData/WD~indium_exposure,21174765]]"
+associated_hazard: '[[_Standards/WikiData/WD~indium_exposure,21174765]]'
 atomic_number: 49
 boiling_point: 3767
-canonical_SMILES: "[In]"
+canonical_SMILES: '[In]'
 CAS_Registry_Number: 7440-74-6
 chemical_formula: In
 Commons_category: Indium
 Commons_gallery: Indium
 Common_Procurement_Vocabulary_code:
-  - 14763000-7
-  - 14763000
+- 14763000-7
+- 14763000
 CPV_Supplementary_code: AA30
 density: 7.31
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Hindujo___Hindio___Indija___India,66376810]]"
-  - "[[_Standards/WikiData/WD~iridium,877]]"
+- '[[_Standards/WikiData/WD~Hindujo___Hindio___Indija___India,66376810]]'
+- '[[_Standards/WikiData/WD~iridium,877]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Ferdinand_Reich,77307]]"
-  - "[[_Standards/WikiData/WD~Hieronymous_Theodor_Richter,77308]]"
+- '[[_Standards/WikiData/WD~Ferdinand_Reich,77307]]'
+- '[[_Standards/WikiData/WD~Hieronymous_Theodor_Richter,77308]]'
 DSSTOX_compound_identifier: DTXCID401323007
 EC_number: 231-180-0
 electronegativity: 1.78
 electron_configuration:
-  - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p¹
-  - "[Kr] 5s² 5d¹⁰ 5p¹"
+- 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p¹
+- '[Kr] 5s² 5d¹⁰ 5p¹'
 element_symbol: In
 Gmelin_number: 16297
-has_effect: "[[_Standards/WikiData/WD~indium_exposure,21174765]]"
+has_effect: '[[_Standards/WikiData/WD~indium_exposure,21174765]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indium%20wetting%20glass.jpg
 InChI: InChI=1S/In
 InChIKey: APFVFJFRJDLVQX-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.8
-  - 0.62
+- 0.8
+- 0.62
 Krugosvet_article: nauka_i_tehnika/himiya/INDI.html
 mass: 114.818
 melting_point: 314
 MeSH_tree_code:
-  - D01.268.556.381
-  - D01.552.544.381
-named_after: "[[_Standards/WikiData/WD~indigo,5967009]]"
+- D01.268.556.381
+- D01.552.544.381
+named_after: '[[_Standards/WikiData/WD~indigo,5967009]]'
 OmegaWiki_Defined_Meaning: 160221
 part_of:
-  - "[[_Standards/WikiData/WD~group_13,189294]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+- '[[_Standards/WikiData/WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 5359967
 RTECS_number: NL1050000
 SpocWebEntityId: 21946
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
 time_of_discovery_or_invention: 1863
 time_weighted_average_exposure_limit: 0.1
 type: Element
@@ -75,22 +146,180 @@ Wolfram_Language_entity_code: Entity["Mineral", "Indium"]
 ZVG_number: 8370
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Indium,1094]]"
-    - "[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Indium.internal|Indium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Indium.protect|Indium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private|Indium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]]"
-  part_of: "[[../Group-13-Boron]]"
+  - '[[../../../WikiData/WD~Indium,1094]]'
+  - '[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Indium.internal|Indium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Indium.protect|Indium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private|Indium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]]'
+  part_of: '[[../Group-13-Boron]]'
 dv_has_:
   name_:
-    group: Group-13-Boron
-    en: Indium
-    de: Indium
     abbreviated: In
+    af: indium
+    am: ኢንዲየም
+    an: Indio
+    anp: इंडियम
+    ar: إنديوم
+    ary: إينديوم
+    arz: انديوم
+    ast: indiu
+    az: İndium
+    ba: Индий
+    ban: Indium
+    bcl: Indyo (elemento)
+    be: Індый
+    be-tarask: інд
+    bg: индий
+    bho: इंडियम
+    bn: ইন্ডিয়াম
+    bo: མཐིང་ལྕགས།
+    br: Indiom
+    bs: indij
+    ca: indi
+    cdo: Indium
+    ckb: ئیندیۆم
+    co: Indiu
+    cs: indium
+    cv: Инди
+    cy: indiwm
+    da: indium
+    de: Indium
+    el: ίνδιο
+    en: indium
+    en-ca: Indium
+    en-gb: indium
+    eo: indio
+    es: indio
+    et: indium
+    eu: indio
+    fa: ایندیم
+    fi: indium
+    fr: indium
+    frr: Indium
+    fur: Indi
+    ga: indiam
+    gd: Indium
+    gl: Indio
+    group: Group-13-Boron
+    gu: ઈંડિયમ
+    gv: indjum
+    hak: indium
+    he: אינדיום
+    hi: इण्डियम
+    hif: Indium
+    hr: indij
+    ht: Endyòm
+    hu: indium
+    hy: ինդիում
+    ia: indium
+    id: indium
+    io: indio
+    is: indín
+    it: indio
+    ja: インジウム
+    jbo: blajinme
+    jv: Indium
+    ka: ინდიუმი
+    kbp: Ɛndɩyɔm
+    kk: Индий
+    kn: ಇಂಡಿಯಮ್
+    ko: 인듐
+    ku: Îndiyûm
+    kv: Индий
+    kw: Indiom
+    ky: Индий
+    la: indium
+    lb: Indium
+    lfn: indio
+    li: Indium
+    lij: Indio
+    lmo: Indio
+    lt: indis
+    lv: indijs
+    lzh: 銦
+    mai: इण्डियम
+    mk: индиум
+    ml: ഇൻഡിയം
+    mn: инди
+    mni: ꯏꯟꯗꯤꯌꯝ
+    mr: इंडियम
+    mrj: Индий
+    ms: Indium
+    mt: indju
+    my: အိန္ဒီယမ်
+    nan: Indium
+    nb: indium
+    nds: Indium
+    ne: इण्डियम
+    new: इन्डियम
+    nl: indium
+    nn: indium
+    nov: Indium
+    oc: Indi
+    olo: Indii
+    or: ଇଣ୍ଡିଅମ
+    os: индий
+    pa: ਇੰਡੀਅਮ
+    pi: इन्डियम
+    pl: ind
+    pms: Indio
+    pnb: انڈیم
+    ps: انډيوم
+    pt: índio
+    pt-br: índio
+    qu: Indyu
+    ro: indiu
+    ru: индий
+    rup: Indiu
+    sa: इण्डियम
+    sc: Ìndiu
+    scn: inniu
+    sco: indium
+    sd: انڊيم
+    se: indium
+    sh: Indijum
+    sk: indium
+    sl: indij
+    smn: indium
+    sms: indium
+    sq: Indiumi
+    sr: индијум
+    sr-ec: Индијум
+    stq: Indium
+    sv: indium
+    sw: Indi
+    ta: இண்டியம்
+    te: ఇండియం
+    tg: индиум
+    th: อินเดียม
+    tl: indium
+    tr: indiyum
+    tt: Индий
+    ug: ئىندىي
+    uk: індій
+    ur: انڈیئم
+    uz: Indiy
+    vep: Indii
+    vi: indi
+    war: Indyo
+    wuu: 铟
+    xal: Индиум
+    yi: אינדיום
+    yo: Indium
+    yue: 銦
+    zh: 铟
+    zh-hans: 铟
+    zh-hant: 銦
+    zh-tw: 銦
+    zu: INzulumbi
+  number_of_:
+    period: 5
+    group: 13
+    electrons: 49
   value_for_:
     weight_:
       u: 114.82
@@ -118,22 +347,18 @@ dv_has_:
       form_:
         kj_:
           mol: 231.5
-  number_of_:
-    period: 5
-    group: 13
-    electrons: 49
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Indium,1094]]"
-  - "[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Indium.internal|Indium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Indium.protect|Indium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private|Indium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]]"
+- '[[../../../WikiData/WD~Indium,1094]]'
+- '[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Indium.internal|Indium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Indium.protect|Indium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private|Indium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]]'
 dv_has_name_group: Group-13-Boron
-dv_is_part_of: "[[../Group-13-Boron]]"
+dv_is_part_of: '[[../Group-13-Boron]]'
 dv_has_name_en: Indium
 dv_has_name_de: Indium
 dv_has_value_for_weight_u: 114.82
@@ -154,7 +379,6 @@ dv_has_number_of_group: 13
 dv_has_name_abbreviated: In
 dv_has_number_of_electrons: 49
 ---
-
 # [[Indium]] 
 
 #chemic/Element 

@@ -1,9 +1,177 @@
 ---
 aliases:
-  - Chester Bennington
-  - Bennington,Chester
+- Bennington,Chester
+- Chester Bennington
+- Çester Benninqton
+- Česters Beningtons
+- Τσέστερ Μπένινγκτον
+- Честер Бенингтон
+- Честер Беннінгтон
+- Честер Беннингтон
+- Честър Бенингтън
+- Чэстар Бэнінгтан
+- Чэстэр Бенінгтан
+- Չեսթեր Բեննինգթոն
+- צ'סטר בנינגטון
+- تشستر بنينجتون
+- تشيستر بنينغتون
+- چستر بنینقتون
+- چستر بنینگتون
+- چێستر بێنینگتن
+- चेस्टर बेनिंगटन
+- चेस्टर बेनिङ्गटन
+- চেস্টার বেনিংটন
+- ਚੈਸਟਰ ਬੇਨਿੰਗਟਨ
+- చెస్టర్ బెన్నింగ్టన్
+- ചെസ്റ്റർ ബെന്നിംങ്ടൺ
+- เชสเตอร์ เบนนิงตัน
+- ჩესტერ ბენინგტონი
+- ቼስተር ቤኒንግተን
+- チェスター・ベニントン
+- 切斯特·本宁顿
+- 查斯特·班宁顿
+- 查斯特·班寧頓
+- 車士打·班寧頓
+- 체스터 베닝턴
+has_id_wikidata: Q19198
+dv_has_:
+  name_:
+    ace: Chester Bennington
+    af: Chester Bennington
+    am: ቼስተር ቤኒንግተን
+    an: Chester Bennington
+    ar: تشيستر بنينغتون
+    arz: تشستر بنينجتون
+    ast: Chester Bennington
+    az: Çester Benninqton
+    azb: چستر بنینقتون
+    bar: Chester Bennington
+    be: Чэстэр Бенінгтан
+    be-tarask: Чэстар Бэнінгтан
+    bg: Честър Бенингтън
+    bho: चेस्टर बेनिंगटन
+    bn: চেস্টার বেনিংটন
+    br: Chester Bennington
+    bs: Chester Bennington
+    ca: Chester Bennington
+    ckb: چێستر بێنینگتن
+    co: Chester Bennington
+    cs: Chester Bennington
+    cy: Chester Bennington
+    da: Chester Bennington
+    de: Chester Bennington
+    de-at: Chester Bennington
+    de-ch: Chester Bennington
+    dty: चेस्टर बेनिङ्गटन
+    egl: Chester Bennington
+    el: Τσέστερ Μπένινγκτον
+    eml: Chester Bennington
+    en: Chester Bennington
+    en-ca: Chester Bennington
+    en-gb: Chester Bennington
+    en-us: Chester Bennington
+    eo: Chester Bennington
+    es: Chester Bennington
+    et: Chester Bennington
+    eu: Chester Bennington
+    ext: Chester Bennington
+    fa: چستر بنینگتون
+    fi: Chester Bennington
+    fr: Chester Bennington
+    frc: Chester Bennington
+    frp: Chester Bennington
+    fur: Chester Bennington
+    fy: Chester Bennington
+    ga: Chester Bennington
+    gd: Chester Bennington
+    gl: Chester Bennington
+    gsw: Chester Bennington
+    he: צ'סטר בנינגטון
+    hi: चेस्टर बेनिंगटन
+    hr: Chester Bennington
+    hu: Chester Bennington
+    hy: Չեսթեր Բեննինգթոն
+    ia: Chester Bennington
+    id: Chester Bennington
+    ie: Chester Bennington
+    io: Chester Bennington
+    is: Chester Bennington
+    it: Chester Bennington
+    ja: チェスター・ベニントン
+    jv: Chester Bennington
+    ka: ჩესტერ ბენინგტონი
+    kg: Chester Bennington
+    kk: Честер Беннингтон
+    ko: 체스터 베닝턴
+    la: Chester Bennington
+    lb: Chester Bennington
+    li: Chester Bennington
+    lij: Chester Bennington
+    lmo: Chester Bennington
+    lt: Chester Bennington
+    lv: Česters Beningtons
+    mai: चेस्टर बेनिंगटन
+    mg: Chester Bennington
+    min: Chester Bennington
+    mk: Честер Бенингтон
+    ml: ചെസ്റ്റർ ബെന്നിംങ്ടൺ
+    mn: Честер Беннингтон
+    ms: Chester Bennington
+    mul: Chester Bennington
+    my: Chester Bennington
+    nan: Chester Bennington
+    nap: Chester Bennington
+    nb: Chester Bennington
+    nds: Chester Bennington
+    nds-nl: Chester Bennington
+    ne: चेस्टर बेनिंगटन
+    nl: Chester Bennington
+    nn: Chester Bennington
+    nov: Chester Bennington
+    nrm: Chester Bennington
+    oc: Chester Bennington
+    pa: ਚੈਸਟਰ ਬੇਨਿੰਗਟਨ
+    pap: Chester Bennington
+    pcd: Chester Bennington
+    pl: Chester Bennington
+    pms: Chester Bennington
+    pt: Chester Bennington
+    pt-br: Chester Bennington
+    rm: Chester Bennington
+    ro: Chester Bennington
+    ru: Честер Беннингтон
+    sc: Chester Bennington
+    scn: Chester Bennington
+    sco: Chester Bennington
+    sh: Chester Bennington
+    sk: Chester Bennington
+    sl: Chester Bennington
+    sq: Chester Bennington
+    sr: Честер Бенингтон
+    sr-el: Chester Bennington
+    sv: Chester Bennington
+    sw: Chester Bennington
+    te: చెస్టర్ బెన్నింగ్టన్
+    th: เชสเตอร์ เบนนิงตัน
+    tr: Chester Bennington
+    uk: Честер Беннінгтон
+    uz: Chester Bennington
+    vec: Chester Bennington
+    vi: Chester Bennington
+    vls: Chester Bennington
+    vo: Chester Bennington
+    wa: Chester Bennington
+    war: Chester Bennington
+    wo: Chester Bennington
+    wuu: 查斯特·班宁顿
+    xmf: ჩესტერ ბენინგტონი
+    yo: Chester Bennington
+    yue: 車士打·班寧頓
+    zh: 查斯特·班寧頓
+    zh-cn: 切斯特·本宁顿
+    zh-hk: 車士打·班寧頓
+    zu: Chester Bennington
 ---
-
 #is_/part_of :: [[../Linkin_Park]] 
 
 #has_/time_/started :: 1976-03-20 

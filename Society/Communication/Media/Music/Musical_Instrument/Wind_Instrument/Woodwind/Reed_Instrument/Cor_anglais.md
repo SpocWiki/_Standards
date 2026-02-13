@@ -1,23 +1,66 @@
 ---
 aliases:
-  - cor anglais
-  - cors anglais
-  - English horn
-  - Cor_anglais
-  - Cor anglais
+- Adar
+- Althobo
+- Angla korno
+- Angleški rog
+- anglický roh
+- anglų ragas
+- angolkürt
+- angļu rags
+- cor anglais
+- corn anglès
+- Corn englez
+- corn Sasanach
+- corne inglês
+- Corno anglese
+- corno inglese
+- Corno inglés
+- cors anglais
+- Cor_anglais
+- engelsk horn
+- Engelskhorn
+- engelskt horn
+- englannintorvi
+- Engleski rog
+- Englischhorn
+- English horn
+- Inglissarv
+- Ingliz burgʻusi
+- Inlish pinkuyllu
+- rożek angielski
+- İngiliz kornosu
+- αγγλικό κόρνο
+- ангельскі ражок
+- англійскі ражок
+- англійський ріжок
+- английский рожок
+- англиски рог
+- енглески рог
+- Անգլիական եղջրափող
+- קרן אנגלית
+- مزمار إنكليزي
+- کر آنگله
+- ইংলিশ হর্ন
+- กอร็องแกล
+- コーラングレ
+- 英国管
+- 英國管
+- 英國號
+- 잉글리시 호른
 has_id_wikidata: Q185041
 subclass_of:
-  - '[[_Standards/WikiData/WD~transposing_instrument,217306]]'
-  - '[[_Standards/WikiData/WD~oboe_family_instrument,42889517]]'
+- '[[_Standards/WikiData/WD~transposing_instrument,217306]]'
+- '[[_Standards/WikiData/WD~oboe_family_instrument,42889517]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~bocal,472731]]'
-  - "[[_Standards/WikiData/WD~pavillon_d'amour,1410359]]"
-  - '[[_Standards/WikiData/WD~key,42935438]]'
+- '[[_Standards/WikiData/WD~bocal,472731]]'
+- "[[_Standards/WikiData/WD~pavillon_d'amour,1410359]]"
+- '[[_Standards/WikiData/WD~key,42935438]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 different_from: '[[_Standards/WikiData/WD~Cor_anglais,15992559]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10848
@@ -29,8 +72,71 @@ Amazon_com_browse_node: 11972051
 Wolfram_Language_entity_code: Entity["Concept", "CorAnglais::j7gkd"]
 Krugosvet_article: kultura_i_obrazovanie/muzyka/ANGLISKI_ROZHOK.html
 name_in_kana: コール・アングレ
+dv_has_:
+  name_:
+    ar: مزمار إنكليزي
+    ast: Corno inglés
+    be: англійскі ражок
+    be-tarask: ангельскі ражок
+    bn: ইংলিশ হর্ন
+    bs: Engleski rog
+    ca: corn anglès
+    cs: anglický roh
+    cy: cor anglais
+    da: Engelskhorn
+    de: Englischhorn
+    el: αγγλικό κόρνο
+    en: cor anglais
+    en-gb: cor anglais
+    eo: Angla korno
+    es: corno inglés
+    et: Inglissarv
+    eu: Adar
+    fa: کر آنگله
+    fi: englannintorvi
+    fr: cor anglais
+    fy: Althobo
+    ga: corn Sasanach
+    gl: Corno inglés
+    he: קרן אנגלית
+    hr: Engleski rog
+    hu: angolkürt
+    hy: Անգլիական եղջրափող
+    ia: Corno anglese
+    it: corno inglese
+    ja: コーラングレ
+    ko: 잉글리시 호른
+    lt: anglų ragas
+    lv: angļu rags
+    mk: англиски рог
+    nb: engelsk horn
+    nl: althobo
+    nn: Engelsk horn
+    pl: rożek angielski
+    pt: corne inglês
+    qu: Inlish pinkuyllu
+    ro: Corn englez
+    ru: английский рожок
+    sh: Engleski rog
+    sk: Anglický roh
+    sl: Angleški rog
+    sr: енглески рог
+    sr-ec: енглески рог
+    sr-el: Engleski rog
+    sv: engelskt horn
+    th: กอร็องแกล
+    tr: İngiliz kornosu
+    uk: англійський ріжок
+    uz: Ingliz burgʻusi
+    yue: 英國號
+    zh: 英國管
+    zh-cn: 英国管
+    zh-hans: 英国管
+    zh-hant: 英國管
+    zh-hk: 英國管
+    zh-sg: 英国管
+    zh-tw: 英國管
 ---
-
 # [[Cor_anglais]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Cor_anglais,185041|WD~Cor_anglais,185041]] 

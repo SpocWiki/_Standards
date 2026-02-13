@@ -1,29 +1,175 @@
 ---
 dv_has_:
+  name_:
+    af: Verdrag van Lissabon
+    ar: معاهدة لشبونة
+    arz: معاهدة لشبونه
+    ast: Tratáu de Lisboa
+    az: Lissabon müqaviləsi
+    be: Лісабонскі дагавор
+    bg: Договор от Лисабон
+    ca: Tractat de reforma institucional de la Unió Europea
+    cs: Lisabonská smlouva
+    cy: Cytundeb Lisbon
+    da: Lissabontraktaten
+    de: Vertrag von Lissabon
+    de-ch: Vertrag von Lissabon
+    el: Συνθήκη της Λισαβόνας
+    en: Treaty of Lisbon
+    en-ca: Treaty of Lisbon
+    en-gb: Treaty of Lisbon
+    eo: Traktato de Lisbono
+    es: Tratado de Lisboa
+    et: Lissaboni leping
+    eu: Lisboako Ituna
+    fa: پیمان لیسبون
+    fi: Lissabonin sopimus
+    fr: traité de Lisbonne
+    fy: Ferdrach fan Lissabon
+    ga: Conradh Liospóin
+    gl: Tratado de Lisboa
+    he: אמנת ליסבון
+    hi: लिस्बन की संधि
+    hr: Lisabonski ugovor
+    hu: lisszaboni szerződés
+    hy: Լիսաբոնի պայմանագիր
+    id: Perjanjian Lisboa
+    io: Traktato di Lisboa
+    is: Lissabon-sáttmálinn
+    it: trattato di Lisbona
+    ja: リスボン条約
+    ka: რეფორმის ტრაქტატი
+    kk: Лиссабон шарты
+    ko: 리스본 조약
+    la: Foedus Olisipone ictum
+    lb: Traité vu Lissabon
+    li: Verdraag vaan Lissabon
+    lt: Lisabonos sutartis
+    lv: Lisabonas līgums
+    min: Pajanjian Lisboa (2007)
+    mk: Лисабонски договор
+    ms: Perjanjian Lisbon
+    mt: Trattat ta' Liżbona
+    nb: Lisboa-traktaten
+    nl: Verdrag van Lissabon
+    nn: Lisboatraktaten
+    oc: Tractat de Lisbona
+    pl: Traktat lizboński
+    pt: Tratado de Lisboa
+    pt-br: Tratado de Lisboa
+    ro: Tratatul de la Lisabona
+    ru: Лиссабонский договор
+    scn: Trattatu di Lisbona
+    sco: Treaty o Lisbon
+    sh: Lisabonski ugovor
+    sk: Lisabonská zmluva
+    sl: Lizbonska pogodba
+    sq: Traktati i Lisbonës
+    sr: Lisabonski sporazum
+    sr-ec: Лисабонски споразум
+    sv: Lissabonfördraget
+    th: สนธิสัญญาลิสบอน
+    tl: Tratado ng Lisboa
+    tr: Lizbon Antlaşması
+    uk: Лісабонська угода
+    vec: tratà de Lisbona
+    vi: Hiệp ước Lisbon
+    wuu: 里斯本条约
+    yue: 里斯本條約
+    zh: 里斯本条约
+    zh-tw: 里斯本條約
   time_:
     started: 2009-12-01T00:00:00.000+01:00
     incepted: 2007-01-01T00:00:00.000+01:00
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]"
-    - "[[/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public|EU-Treaty_of_Lisbon.public]]"
-    - "[[/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal|EU-Treaty_of_Lisbon.internal]]"
-    - "[[/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect|EU-Treaty_of_Lisbon.protect]]"
-    - "[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]"
-    - "[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]"
-    - "[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]"
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public|EU-Treaty_of_Lisbon.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal|EU-Treaty_of_Lisbon.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect|EU-Treaty_of_Lisbon.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]'
 dv_has_time_started: 2009-12-01
 dv_has_time_incepted: 2007-01-01
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]"
-  - "[[/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public|EU-Treaty_of_Lisbon.public]]"
-  - "[[/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal|EU-Treaty_of_Lisbon.internal]]"
-  - "[[/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect|EU-Treaty_of_Lisbon.protect]]"
-  - "[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]"
-  - "[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]"
-  - "[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]"
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon|EU-Treaty_of_Lisbon]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.public|EU-Treaty_of_Lisbon.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.internal|EU-Treaty_of_Lisbon.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.protect|EU-Treaty_of_Lisbon.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.private|EU-Treaty_of_Lisbon.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.personal|EU-Treaty_of_Lisbon.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/EU-Treaty_of_Lisbon.secret|EU-Treaty_of_Lisbon.secret]]'
+has_id_wikidata: Q52843
+aliases:
+- Conradh Liospóin
+- Cytundeb Lisbon
+- Ferdrach fan Lissabon
+- Foedus Olisipone ictum
+- Hiệp ước Lisbon
+- Lisabonas līgums
+- Lisabonos sutartis
+- Lisabonski sporazum
+- Lisabonski ugovor
+- Lisabonská smlouva
+- Lisabonská zmluva
+- Lisboa-traktaten
+- Lisboako Ituna
+- Lisboatraktaten
+- Lissabon müqaviləsi
+- Lissabon-sáttmálinn
+- Lissabonfördraget
+- Lissaboni leping
+- Lissabonin sopimus
+- Lissabontraktaten
+- lisszaboni szerződés
+- Lizbon Antlaşması
+- Lizbonska pogodba
+- Pajanjian Lisboa (2007)
+- Perjanjian Lisboa
+- Perjanjian Lisbon
+- Tractat de Lisbona
+- Tractat de reforma institucional de la Unió Europea
+- traité de Lisbonne
+- Traité vu Lissabon
+- Traktat lizboński
+- Traktati i Lisbonës
+- Traktato de Lisbono
+- Traktato di Lisboa
+- Tratado de Lisboa
+- Tratado ng Lisboa
+- Tratatul de la Lisabona
+- Trattat ta' Liżbona
+- trattato di Lisbona
+- Trattatu di Lisbona
+- tratà de Lisbona
+- Tratáu de Lisboa
+- Treaty o Lisbon
+- Treaty of Lisbon
+- Verdraag vaan Lissabon
+- Verdrag van Lissabon
+- Vertrag von Lissabon
+- Συνθήκη της Λισαβόνας
+- Договор от Лисабон
+- Лісабонскі дагавор
+- Лісабонська угода
+- Лисабонски договор
+- Лисабонски споразум
+- Лиссабон шарты
+- Лиссабонский договор
+- Լիսաբոնի պայմանագիր
+- אמנת ליסבון
+- معاهدة لشبونة
+- معاهدة لشبونه
+- پیمان لیسبون
+- लिस्बन की संधि
+- สนธิสัญญาลิสบอน
+- რეფორმის ტრაქტატი
+- リスボン条約
+- 里斯本条约
+- 里斯本條約
+- 리스본 조약
 ---
-
 has_time_started = `=this.dv_has_time_started`
 has_time_incepted = `=this.dv_has_time_incepted`
 

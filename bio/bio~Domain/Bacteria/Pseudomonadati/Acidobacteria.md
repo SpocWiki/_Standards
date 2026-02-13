@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Acidobacteria
+- Acidobacteria
+- Acidobacteriota
+- アキドバクテリウム門
+- 酸杆菌门
 title: Acidobacteria
+has_id_wikidata: Q73346630
+dv_has_:
+  name_:
+    an: Acidobacteriota
+    ast: Acidobacteriota
+    bg: Acidobacteriota
+    ca: Acidobacteriota
+    ceb: Acidobacteriota
+    cs: Acidobacteriota
+    de: Acidobacteriota
+    en: Acidobacteriota
+    en-ca: Acidobacteriota
+    en-gb: Acidobacteriota
+    eo: Acidobacteriota
+    es: Acidobacteriota
+    eu: Acidobacteriota
+    ext: Acidobacteriota
+    fi: Acidobacteriota
+    fr: Acidobacteriota
+    ga: Acidobacteriota
+    gl: Acidobacteriota
+    ia: Acidobacteriota
+    ie: Acidobacteriota
+    io: Acidobacteriota
+    it: Acidobacteriota
+    ja: アキドバクテリウム門
+    la: Acidobacteriota
+    mul: Acidobacteriota
+    nl: Acidobacteriota
+    oc: Acidobacteriota
+    pl: Acidobacteriota
+    pt: Acidobacteriota
+    pt-br: Acidobacteriota
+    ro: Acidobacteriota
+    ru: Acidobacteriota
+    sq: Acidobacteriota
+    uk: Acidobacteriota
+    vi: Acidobacteriota
+    vo: Acidobacteriota
+    war: Acidobacteriota
+    zh: 酸杆菌门
 ---
-
 # [[Acidobacteria]] 
 
 #is_a/bio-Phylum  

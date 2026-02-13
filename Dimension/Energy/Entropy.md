@@ -1,45 +1,201 @@
 ---
 aliases:
+- Antwopi
+- eantrópacht
+- Entroapaght
+- entroopia
+- entropi
+- entropia
+- entropie
+- entropiezh
+- entropiija
+- entropija
+- entropije
+- entropio
+- entropiya
+- entropy
+- entropía
+- Entropî
+- Entrupia
+- entrópia
+- intiroopii
+- Intrupìa
+- εντροπία
+- ентропія
+- ентропија
+- ентропия
+- энтрапія
+- Энтропи
+- энтропия
+- Էնտրոպիա
+- אנטרופיה
+- ענטראפיע
+- إنتروبيا
+- ئێنترۆپی
+- انتروپی
+- انٹروپی
+- اېنټروپي
+- لونطروپي
+- उत्क्रम
+- বিশৃঙ্খলা-মাত্রা
+- ਐਨਟ੍ਰਾਪੀ
+- சிதறம்
+- ఎంట్రోపి
+- ಎಂಟ್ರೋಪಿ
+- എൻട്രോപ്പി
+- เอนโทรปี
+- အင်ထရိုပီ
+- თერმოდინამიკური ენტროპია
+- አንትረቢ
+- エントロピー
+- 熵
+- 엔트로피
 has_id_wikidata: Q45003
 different_from:
-  - "[[_Standards/WikiData/WD~enthalpy,161064]]"
-  - "[[_Standards/WikiData/WD~Entropia,1218467]]"
+- '[[_Standards/WikiData/WD~enthalpy,161064]]'
+- '[[_Standards/WikiData/WD~Entropia,1218467]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~scalar_quantity,181175]]"
-  - "[[_Standards/WikiData/WD~state_function,230937]]"
-  - "[[_Standards/WikiData/WD~extensive_quantity,3386703]]"
-  - "[[_Standards/WikiData/WD~additive_quantity,117865208]]"
-opposite_of: "[[_Standards/WikiData/WD~negentropy,252552]]"
-invariant_under: "[[_Standards/WikiData/WD~isentropic_process,907271]]"
+- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~state_function,230937]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~additive_quantity,117865208]]'
+opposite_of: '[[_Standards/WikiData/WD~negentropy,252552]]'
+invariant_under: '[[_Standards/WikiData/WD~isentropic_process,907271]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]"
-  - "[[_Standards/WikiData/WD~Lean_Logic,101314624]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~entropy_in_order_and_disorder,5380796]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~entropy_in_order_and_disorder,5380796]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~joule_per_kelvin,21393312]]"
-  - "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_kelvin,106707404]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x0398;</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~joule_per_kelvin,21393312]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_kelvin,106707404]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">&#x0398;</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi><mo stretchy="false">=</mo><mi>k</mi><mi>ln</mi><mo>&#x2061;</mo><mi>W</mi></mstyle></mrow></math>
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
 Commons_category: Entropy
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>W</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>k</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>W</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>k</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>ln</mi></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi></mstyle></mrow></math>
 Stack_Exchange_tag:
-  - https://physics.stackexchange.com/tags/entropy
-  - https://quantumcomputing.stackexchange.com/tags/entropy
+- https://physics.stackexchange.com/tags/entropy
+- https://quantumcomputing.stackexchange.com/tags/entropy
 IEV_number: 113-04-22
 UMLS_CUI: C0376522
 MeSH_tree_code: G01.906.345
+dv_has_:
+  name_:
+    af: entropie
+    am: አንትረቢ
+    ar: إنتروبيا
+    ary: لونطروپي
+    ast: entropía
+    az: entropiya
+    bar: Entropie
+    bcl: Entropiya
+    be: энтрапія
+    be-tarask: энтрапія
+    bg: ентропия
+    bn: বিশৃঙ্খলা-মাত্রা
+    br: entropiezh
+    bs: entropija
+    ca: entropia
+    ckb: ئێنترۆپی
+    cs: entropie
+    cv: Энтропи
+    da: Entropi
+    de: Entropie
+    el: εντροπία
+    en: entropy
+    en-us: entropy
+    eo: entropio
+    es: entropía
+    et: entroopia
+    eu: Entropia
+    fa: انتروپی
+    fi: entropia
+    fr: entropie
+    ga: eantrópacht
+    gl: entropía
+    gor: Entropy
+    gv: Entroapaght
+    he: אנטרופיה
+    hi: उत्क्रम
+    hr: entropija
+    ht: Antwopi
+    hu: entrópia
+    hy: Էնտրոպիա
+    ia: Entropia
+    id: Entropi
+    ig: entropy
+    it: entropia
+    ja: エントロピー
+    ka: თერმოდინამიკური ენტროპია
+    kk: Энтропия
+    kn: ಎಂಟ್ರೋಪಿ
+    ko: 엔트로피
+    ku: Entropî
+    ky: Энтропия
+    la: Entropia
+    lmo: Entrupia
+    lt: Entropija
+    lv: entropija
+    lzh: 熵
+    mag: उत्क्रम
+    mk: ентропија
+    ml: എൻട്രോപ്പി
+    mn: Энтропи
+    ms: entropi
+    my: အင်ထရိုပီ
+    nan: Entropy
+    nb: entropi
+    nl: entropie
+    nn: entropi
+    oc: Entropia
+    om: intiroopii
+    pa: ਐਨਟ੍ਰਾਪੀ
+    pl: entropia
+    ps: اېنټروپي
+    pt: entropia
+    pt-br: entropia
+    ro: Entropie
+    ru: энтропия
+    sc: Entropia
+    scn: Intrupìa
+    sco: entropy
+    se: entropiija
+    sh: Entropija
+    sk: Entropia
+    sl: entropija
+    sma: entropije
+    smj: entropija
+    smn: entropia
+    sms: entropia
+    sq: Entropia
+    sr: ентропија
+    sr-ec: ентропија
+    sr-el: entropija
+    sv: entropi
+    ta: சிதறம்
+    te: ఎంట్రోపి
+    th: เอนโทรปี
+    tr: entropi
+    tt: энтропия
+    udm: энтропия
+    uk: ентропія
+    ur: انٹروپی
+    uz: Entropiya
+    vi: entropy
+    wuu: 熵
+    yi: ענטראפיע
+    yue: 熵
+    zh: 熵
 ---
-
 # [[Entropy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Entropy,45003|WD~Entropy,45003]] 

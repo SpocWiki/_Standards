@@ -2,8 +2,8 @@
 aliases:
   - Dartmouth College
   - Dartmouth_College
+has_id_wikidata: Q49116
 ---
-
 > **Dartmouth College** (; DART-məth) is a private Ivy League research university 
 > in[[../../../../Earth/Continent/America~North/USA/USA~Eastern/New_England/New_Hampshire/counties~New_Hampshire/Grafton,County/Hanover,New_Hampshire]]]. 
 > 

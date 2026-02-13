@@ -1,13 +1,38 @@
 ---
 aliases:
-  - Self-licensing
-  - moral self-licensing
-  - moral licensing
-  - licensing effect
-  - Moral_Licensing
-  - Moral Licensing
+- Efecto de licencia moral
+- hypocrisie morale
+- licensing effect
+- moral licensing
+- moral self-licensing
+- Moralische Lizenzierung
+- moralno licenciranje
+- Moral_Licensing
+- Self-licensing
+- Viés moral
+- Ефект моральної ліцензії
+- Моральное самолицензирование
+- רישיון מוסרי
+- ترخيص أخلاقي
+- モラル・ライセンシング
+- 道德許可證效應
+has_id_wikidata: Q17157060
+dv_has_:
+  name_:
+    ar: ترخيص أخلاقي
+    de: Moralische Lizenzierung
+    en: self-licensing
+    es: Efecto de licencia moral
+    fr: hypocrisie morale
+    he: רישיון מוסרי
+    ja: モラル・ライセンシング
+    pfl: Moralische Lizenzierung
+    pt: Viés moral
+    ru: Моральное самолицензирование
+    sl: moralno licenciranje
+    uk: Ефект моральної ліцензії
+    zh: 道德許可證效應
 ---
-
 # [[Moral_Licensing]]
 
 #is_/similar_to :: [[Emission_Trade]] 

@@ -1,23 +1,142 @@
 ---
 aliases:
-  - Innereien
-  - Offal
+- abat
+- afval
+- barruki
+- belsőség
+- casquería
+- conamar
+- drobovina
+- Emmledeug
+- frattaglie
+- indmad
+- Innereien
+- innmat
+- innvoller
+- Intrâj
+- inälvsmat
+- iznutrice
+- Jeroan
+- menuts
+- măruntaie
+- nội tạng
+- Offal
+- orgaanvlees
+- picaja
+- Podroby
+- Quadumi
+- restos del macellation
+- Sakatat
+- Subprodukti
+- Subproduktid
+- tripo
+- vnitřnosti
+- vnútornosti
+- víscera
+- vísceras
+- вантробы
+- Вихссака
+- внатрешници
+- Ич эт
+- Какай шӳрпи
+- карантия
+- субпрадукты
+- субпродукти
+- Субпродукттар
+- субпродукты
+- Ургьимес
+- חלקי פנים
+- أحشاء الذبيحة
+- سقط
+- فراوردههای فرعی گوشت
+- مصارن دبيحة
+- เครื่องในสัตว์
+- もつ
+- 下水
+- 雜
+- 부속 고기
 has_id_wikidata: Q157484
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from: '[[_Standards/WikiData/WD~Abat,2820192]]'
 by_product_of: '[[_Standards/WikiData/WD~animal_slaughter,4282505]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~animal_organ,24060765]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
-  - '[[_Standards/WikiData/WD~meat,10990]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~meat,10990]]'
 Dewey_Decimal_Classification:
-  - 641.36
-  - 641.66
+- 641.36
+- 641.66
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20Internals%20%284257194088%29.jpg
 Commons_category: Offal
+dv_has_:
+  name_:
+    af: afval
+    ar: أحشاء الذبيحة
+    ary: مصارن دبيحة
+    arz: سقط
+    ast: Casquería
+    av: Ургьимес
+    ba: Субпродукттар
+    be: субпрадукты
+    be-tarask: вантробы
+    bg: карантия
+    ca: menuts
+    cs: vnitřnosti
+    cv: Какай шӳрпи
+    cy: offal
+    da: indmad
+    de: Innereien
+    eml: Intrâj
+    en: offal
+    eo: tripo
+    es: casquería
+    et: Subproduktid
+    eu: barruki
+    fa: فراوردههای فرعی گوشت
+    fr: abat
+    ga: conamar
+    gl: vísceras
+    he: חלקי פנים
+    hr: iznutrice
+    hu: belsőség
+    ia: restos del macellation
+    id: Jeroan
+    it: frattaglie
+    ja: もつ
+    jv: Jeroan
+    ko: 부속 고기
+    ky: Ич эт
+    lbe: Вихссака
+    lv: Subprodukti
+    mk: внатрешници
+    nb: innvoller
+    nl: orgaanvlees
+    nn: innmat
+    pl: Podroby
+    pt: víscera
+    ro: măruntaie
+    ru: субпродукты
+    scn: Quadumi
+    sco: Emmledeug
+    sk: vnútornosti
+    sl: drobovina
+    sr: Iznutrice
+    sv: inälvsmat
+    th: เครื่องในสัตว์
+    tr: Sakatat
+    uk: субпродукти
+    vec: picaja
+    vi: nội tạng
+    yue: 雜
+    zh: 下水
+    zh-cn: 下水
+    zh-hans: 下水
+    zh-hant: 下水
+    zh-hk: 下水
+    zh-sg: 下水
+    zh-tw: 下水
 ---
-
 # [[Offal]] 
 
 #is_/same_as  :: [[WD~Offal,157484]] 

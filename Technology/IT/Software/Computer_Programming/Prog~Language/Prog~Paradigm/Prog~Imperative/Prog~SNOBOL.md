@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q522041
+---
+
 # [[Prog~SNOBOL]] 
 
 #is_a_/ComputerLanguage 

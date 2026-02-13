@@ -1,23 +1,63 @@
 ---
 aliases:
-  - Oscar Wilde
-  - Wilde
-  - Oscar Fingal O'Flahertie Wills Wilde
-  - Oscar_Wilde
-  - Wilde,Oscar
+- .oskar.uaild
+- Anscharius Wilde
+- Oscar Fingal O'Flahertie Wills Wilde
+- Oscar wild
+- Oscar Wilde
+- Oscar_Wilde
+- Oskar Uayld
+- Oskar Waýld
+- Oskars Vailds
+- Oşcar Wilde
+- Uayld Oskar
+- Wilde
+- Wilde'i Oscar
+- Wilde,Oscar
+- Όσκαρ Ουάιλντ
+- Оскар Ўайлд
+- Оскар Вајлд
+- Оскар Вайлд
+- Оскар Уайлд
+- Оскар Уайльд
+- Оскар Фингал О’Флаэрти Уиллс Уайльд
+- Օսկար Ուայլդ
+- אוסקר ויילד
+- آسکر وائلڈ
+- أوسكار وايلد
+- ئۆسکار وایڵد
+- اسکار وایلد
+- اوسكار وايلد
+- ऑस्कर वाइल्ड
+- অস্কার ওয়াইল্ড
+- ਔਸਕਰ ਵਾਈਲਡ
+- ଓସ୍କାର ୱାଇଲ୍ଡ
+- ஆஸ்கார் வைல்டு
+- ఆస్కార్ వైల్డ్
+- ಆಸ್ಕರ್ ವೈಲ್ಡ್
+- ഓസ്കാർ വൈൽഡ്
+- ඔස්කාර් වයිල්ඩ්
+- ออสการ์ ไวลด์
+- ཨོ་སི་ཀར་ཝེལ་ཌེ།
+- အော်စကာ ဝိုင်းလ်ဒ်
+- ოსკარ უაილდი
+- オスカー・ワイルド
+- 奥斯卡·王尔德
+- 奧斯卡·王爾德
+- 오스카 와일드
 has_id_wikidata: Q30875
 archives_at:
-  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~Leeds_University_Library,24568958]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~Leeds_University_Library,24568958]]'
 award_received: '[[_Standards/WikiData/WD~Newdigate_Prize,1217528]]'
 BHCL_UUID: b2b90553-1e97-47fe-aba6-eaf488b5b33b
 bibliography: '[[_Standards/WikiData/WD~Oscar_Wilde_bibliography,3884082]]'
 birth_name: Oscar Fingal O’Flahertie Wills Wilde
 cause_of_death: '[[_Standards/WikiData/WD~meningitis,48143]]'
 child:
-  - '[[_Standards/WikiData/WD~Vyvyan_Holland,713325]]'
-  - '[[_Standards/WikiData/WD~Cyril_Holland,3009019]]'
+- '[[_Standards/WikiData/WD~Vyvyan_Holland,713325]]'
+- '[[_Standards/WikiData/WD~Cyril_Holland,3009019]]'
 Colon_Classification: O111,1M54
 Commons_category: Oscar Wilde
 Commons_Creator_page: Oscar Wilde
@@ -25,107 +65,107 @@ Commons_gallery: Oscar Wilde
 convicted_of: '[[_Standards/WikiData/WD~gross_indecency,5610496]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~Ireland,27]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 CYT_CCS: AC000191932
 date_of_birth: 1854-10-16T00:00:00Z
 date_of_death: 1900-11-30T00:00:00Z
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700]]'
-  - '[[_Standards/WikiData/WD~Oxford_Dictionary_of_National_Biography,17565097]]'
-  - '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~The_Thief_of_Reason_Oscar_Wilde_and_Modern_Ireland,114510347]]'
-  - '[[_Standards/WikiData/WD~Q134356203,134356203]]'
-  - '[[_Standards/WikiData/WD~The_Times,50008]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Concise_Literary_Encyclopedia,4239850]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_first_supplement,16014700]]'
+- '[[_Standards/WikiData/WD~Oxford_Dictionary_of_National_Biography,17565097]]'
+- '[[_Standards/WikiData/WD~Alumni_Oxonienses_the_Members_of_the_University_of_Oxford,_1715_1886,19036877]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Iedereen_Leest,41981607]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~The_Thief_of_Reason_Oscar_Wilde_and_Modern_Ireland,114510347]]'
+- '[[_Standards/WikiData/WD~Q134356203,134356203]]'
+- '[[_Standards/WikiData/WD~The_Times,50008]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
-  - '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
+- '[[_Standards/WikiData/WD~Magdalen_College,81162]]'
+- '[[_Standards/WikiData/WD~Trinity_College_Dublin,258464]]'
 Europeana_entity: agent/base/60190
 family_name: '[[_Standards/WikiData/WD~Wilde,21050435]]'
 father: '[[_Standards/WikiData/WD~William_Wilde,2540254]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~fiction,8253972]]'
-  - '[[_Standards/WikiData/WD~literary_activity,115160290]]'
-  - '[[_Standards/WikiData/WD~prose,676]]'
-  - '[[_Standards/WikiData/WD~drama,25372]]'
-  - '[[_Standards/WikiData/WD~essay,35760]]'
-  - '[[_Standards/WikiData/WD~aesthetics,35986]]'
+- '[[_Standards/WikiData/WD~fiction,8253972]]'
+- '[[_Standards/WikiData/WD~literary_activity,115160290]]'
+- '[[_Standards/WikiData/WD~prose,676]]'
+- '[[_Standards/WikiData/WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~aesthetics,35986]]'
 genre:
-  - '[[_Standards/WikiData/WD~tragedy,80930]]'
-  - '[[_Standards/WikiData/WD~narrative_poetry,474090]]'
-  - '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
-  - '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
-  - '[[_Standards/WikiData/WD~poetry,482]]'
-  - '[[_Standards/WikiData/WD~fairy_tale,699]]'
-  - '[[_Standards/WikiData/WD~essay,35760]]'
-  - '[[_Standards/WikiData/WD~comedy,40831]]'
-  - '[[_Standards/WikiData/WD~short_story,49084]]'
+- '[[_Standards/WikiData/WD~tragedy,80930]]'
+- '[[_Standards/WikiData/WD~narrative_poetry,474090]]'
+- '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
+- '[[_Standards/WikiData/WD~drama_fiction,21010853]]'
+- '[[_Standards/WikiData/WD~poetry,482]]'
+- '[[_Standards/WikiData/WD~fairy_tale,699]]'
+- '[[_Standards/WikiData/WD~essay,35760]]'
+- '[[_Standards/WikiData/WD~comedy,40831]]'
+- '[[_Standards/WikiData/WD~short_story,49084]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Oscar,1951683]]'
-  - '[[_Standards/WikiData/WD~Fingal,10495329]]'
-  - '[[_Standards/WikiData/WD~Wills,19871067]]'
+- '[[_Standards/WikiData/WD~Oscar,1951683]]'
+- '[[_Standards/WikiData/WD~Fingal,10495329]]'
+- '[[_Standards/WikiData/WD~Wills,19871067]]'
 Google_Doodle: oscar-wildes-156th-birthday
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20by%20Napoleon%20Sarony.%20Three-quarter-length%20photograph%2C%20seated.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20-%20Pere%20Lachaise%20-%2001.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI:
-  - 121272652
-  - 368639911
-  - 000000036863992X
-  - 368639938
+- 121272652
+- 368639911
+- 000000036863992X
+- 368639938
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/UALD_OSKAR.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
-  - '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 Libris_URI: 42gjk8jn5b26x4v
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~Iedereen_Leest,101246526]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 mother: '[[_Standards/WikiData/WD~Jane_Wilde,272303]]'
 movement:
-  - '[[_Standards/WikiData/WD~Aestheticism,256922]]'
-  - '[[_Standards/WikiData/WD~Decadent_movement,846094]]'
+- '[[_Standards/WikiData/WD~Aestheticism,256922]]'
+- '[[_Standards/WikiData/WD~Decadent_movement,846094]]'
 name_in_native_language: Oscar Fingal O’Flahertie Wills Wilde
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 NLC_authorities: 78427
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Picture_of_Dorian_Gray,82464]]'
-  - '[[_Standards/WikiData/WD~The_Canterville_Ghost,288020]]'
-  - '[[_Standards/WikiData/WD~The_Importance_of_Being_Earnest,830501]]'
-  - '[[_Standards/WikiData/WD~The_Soul_of_Man_under_Socialism,1196990]]'
-  - '[[_Standards/WikiData/WD~The_Ballad_of_Reading_Gaol,2119279]]'
+- '[[_Standards/WikiData/WD~The_Picture_of_Dorian_Gray,82464]]'
+- '[[_Standards/WikiData/WD~The_Canterville_Ghost,288020]]'
+- '[[_Standards/WikiData/WD~The_Importance_of_Being_Earnest,830501]]'
+- '[[_Standards/WikiData/WD~The_Soul_of_Man_under_Socialism,1196990]]'
+- '[[_Standards/WikiData/WD~The_Ballad_of_Reading_Gaol,2119279]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~author,482980]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~fabulist,3064032]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~librettist,8178443]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~poet,49757]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~author,482980]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~fabulist,3064032]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~opinion_journalist,6051619]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~poet,49757]]'
 official_website: http://www.cmgww.com/historic/wilde/
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
 P8189: 987007294196105200
@@ -134,23 +174,23 @@ place_of_birth: '[[_Standards/WikiData/WD~Dublin,1761]]'
 place_of_burial: "[[_Standards/WikiData/WD~Oscar_Wilde's_tomb,12432989]]"
 place_of_death: '[[_Standards/WikiData/WD~Paris,90]]'
 place_of_detention:
-  - '[[_Standards/WikiData/WD~HM_Prison_Wandsworth,386707]]'
-  - '[[_Standards/WikiData/WD~HM_Prison_Pentonville,1504639]]'
-  - '[[_Standards/WikiData/WD~Newgate_Prison,1822183]]'
-  - '[[_Standards/WikiData/WD~HM_Prison_Reading,3930959]]'
+- '[[_Standards/WikiData/WD~HM_Prison_Wandsworth,386707]]'
+- '[[_Standards/WikiData/WD~HM_Prison_Pentonville,1504639]]'
+- '[[_Standards/WikiData/WD~Newgate_Prison,1822183]]'
+- '[[_Standards/WikiData/WD~HM_Prison_Reading,3930959]]'
 Plex_person_key: 5d776dbb96b655001fe5167e
 Provenio_UUID: a0bad302-ddc0-4e70-9968-68db4e5cc159
 pseudonym:
-  - Sebastian Melmoth
-  - С.3.3.
+- Sebastian Melmoth
+- С.3.3.
 religion_or_worldview: '[[_Standards/WikiData/WD~Roman_Catholic,7361618]]'
 Royal_Academy_new_identifier: oscar-wilde
 sexual_orientation: '[[_Standards/WikiData/WD~homosexuality,6636]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 short_name: Oscar Wilde
 sibling:
-  - '[[_Standards/WikiData/WD~Willie_Wilde,1606342]]'
-  - '[[_Standards/WikiData/WD~Isola_Francesca_Emily_Wilde,96090416]]'
+- '[[_Standards/WikiData/WD~Willie_Wilde,1606342]]'
+- '[[_Standards/WikiData/WD~Isola_Francesca_Emily_Wilde,96090416]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Oscar%20Wilde%20Signature.svg
 significant_event: '[[_Standards/WikiData/WD~funeral,201676]]'
 spouse: '[[_Standards/WikiData/WD~Constance_Lloyd,445095]]'
@@ -162,10 +202,151 @@ work_location: '[[_Standards/WikiData/WD~England,21]]'
 work_period_end_: 1900-01-01T00:00:00Z
 work_period_start_: 1878-01-01T00:00:00Z
 writing_language:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+dv_has_:
+  name_:
+    af: Oscar Wilde
+    an: Oscar Wilde
+    ar: أوسكار وايلد
+    arz: اوسكار وايلد
+    ast: Oscar Wilde
+    avk: Oscar Wilde
+    ay: Oscar Wilde
+    az: Oskar Uayld
+    azb: اسکار وایلد
+    ba: Оскар Уайльд
+    bcl: Oscar Wilde
+    be: Оскар Уайльд
+    be-tarask: Оскар Ўайлд
+    bg: Оскар Уайлд
+    bjn: Oscar Wilde
+    bn: অস্কার ওয়াইল্ড
+    bo: ཨོ་སི་ཀར་ཝེལ་ཌེ།
+    br: Oscar Wilde
+    bs: Oscar Wilde
+    ca: Oscar Wilde
+    cbk-zam: Oscar Wilde
+    ceb: Oscar Wilde
+    ckb: ئۆسکار وایڵد
+    crh: Oşcar Wilde
+    cs: Oscar Wilde
+    cv: Оскар Уайльд
+    cy: Oscar Wilde
+    da: Oscar Wilde
+    de: Oscar Wilde
+    diq: Oscar Wilde
+    ee: Oscar Wilde
+    el: Όσκαρ Ουάιλντ
+    eml: Oscar Wilde
+    en: Oscar Wilde
+    en-ca: Oscar Wilde
+    en-gb: Oscar Wilde
+    eo: Oscar Wilde
+    es: Oscar Wilde
+    et: Oscar Wilde
+    eu: Oscar Wilde
+    ext: Oscar Wilde
+    fa: اسکار وایلد
+    fi: Oscar Wilde
+    fr: Oscar Wilde
+    fy: Oscar Wilde
+    ga: Oscar Wilde
+    gd: Oscar Wilde
+    gl: Oscar Wilde
+    gom: Oscar Wilde
+    guw: Oscar Wilde
+    ha: Oscar Wilde
+    hak: Oscar Wilde
+    he: אוסקר ויילד
+    hi: ऑस्कर वाइल्ड
+    hr: Oscar Wilde
+    ht: Oscar wild
+    hu: Oscar Wilde
+    hy: Օսկար Ուայլդ
+    ia: Oscar Wilde
+    id: Oscar Wilde
+    io: Oscar Wilde
+    is: Oscar Wilde
+    it: Oscar Wilde
+    ja: オスカー・ワイルド
+    jbo: .oskar.uaild
+    jv: Oscar Wilde
+    ka: ოსკარ უაილდი
+    kk: Оскар Уайльд
+    kn: ಆಸ್ಕರ್ ವೈಲ್ಡ್
+    ko: 오스카 와일드
+    ku: Oscar Wilde
+    kw: Oscar Wilde
+    ky: Оскар Уайлд
+    la: Anscharius Wilde
+    lb: Oscar Wilde
+    li: Oscar Wilde
+    lij: Oscar Wilde
+    lt: Oscar Wilde
+    lv: Oskars Vailds
+    mg: Oscar Wilde
+    mk: Оскар Вајлд
+    ml: ഓസ്കാർ വൈൽഡ്
+    mn: Оскар Уайльд
+    mr: ऑस्कर वाइल्ड
+    ms: Oscar Wilde
+    mt: Oscar Wilde
+    mul: Oscar Wilde
+    my: အော်စကာ ဝိုင်းလ်ဒ်
+    myv: Оскар Фингал О’Флаэрти Уиллс Уайльд
+    nan: Oscar Wilde
+    nb: Oscar Wilde
+    nds-nl: Oscar Wilde
+    nl: Oscar Wilde
+    nn: Oscar Wilde
+    oc: Oscar Wilde
+    or: ଓସ୍କାର ୱାଇଲ୍ଡ
+    os: Оскар Уайльд
+    pa: ਔਸਕਰ ਵਾਈਲਡ
+    pam: Oscar Wilde
+    pl: Oscar Wilde
+    pms: Oscar Wilde
+    pnb: آسکر وائلڈ
+    pt: Oscar Wilde
+    pt-br: Oscar Wilde
+    qu: Oscar Wilde
+    rm: Oscar Wilde
+    ro: Oscar Wilde
+    ru: Оскар Уайльд
+    sc: Oscar Wilde
+    scn: Oscar Wilde
+    sco: Oscar Wilde
+    sh: Oscar Wilde
+    si: ඔස්කාර් වයිල්ඩ්
+    sk: Oscar Wilde
+    sl: Oscar Wilde
+    sq: Oscar Wilde
+    sr: Оскар Вајлд
+    sv: Oscar Wilde
+    sw: Oscar Wilde
+    ta: ஆஸ்கார் வைல்டு
+    te: ఆస్కార్ వైల్డ్
+    th: ออสการ์ ไวลด์
+    tk: Oskar Waýld
+    tl: Oscar Wilde
+    tr: Oscar Wilde
+    tt: Оскар Уайлд
+    uk: Оскар Вайлд
+    ur: آسکر وائلڈ
+    uz: Uayld Oskar
+    vec: Oscar Wilde
+    vi: Oscar Wilde
+    vo: Oscar Wilde
+    vro: Wilde'i Oscar
+    war: Oscar Wilde
+    wo: Oscar Wilde
+    wuu: 奧斯卡·王爾德
+    xmf: ოსკარ უაილდი
+    yue: Oscar Wilde
+    zh: 奥斯卡·王尔德
+    zh-cn: 奧斯卡·王爾德
 ---
-
 # [[Wilde,Oscar]] 
 
 #has_/time_/started ::  1854-10-16 

@@ -1,15 +1,87 @@
 ---
 aliases:
-  - Kies
-  - Gravel
+- Agghiara
+- A̱bada̱dei a̱fang
+- Batu kerikil
+- cascalho
+- Changarawe
+- Chiselstai
+- gairbhéal
+- Gera
+- ghiaia
+- Giara
+- Glarea
+- Graba
+- gramoz
+- granson
+- Grants
+- grava
+- Gravel
+- gravier
+- Gravio
+- grind
+- grow
+- grus
+- gruzo
+- kerikil
+- Kies
+- Kiesel
+- Krikil
+- kruus
+- legar
+- Maasgreend
+- Mucur
+- pietriș
+- Shagʻal
+- sora
+- Sỏi
+- törmelék
+- Zhavorri
+- Šljunak
+- štrk
+- štěrk
+- Żwir
+- Žvyras
+- Žvīrs
+- Γαρμπίλι
+- Баластра
+- Гравій
+- гравий
+- грагор
+- ЖагӀа
+- Жвір
+- Хайрга
+- шљунак
+- Шагыл
+- մանրախիճ
+- חצץ
+- حصى
+- شن
+- چەو
+- कंकड़
+- खडी
+- சரளைக் கல்
+- గులకరాయి
+- ಜಲ್ಲಿ
+- ചരൽ
+- බොරළු
+- กรวด
+- မၢၵ်ႇႁိၼ်ႁႄႈ
+- ხრეში
+- ᑐᐊᐸᑦ
+- 砾石
+- 碎石
+- 礫
+- 礫石
+- 자갈
 has_id_wikidata: Q133833
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-different_from: "[[_Standards/WikiData/WD~crushed_stone,1262699]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~crushed_stone,1262699]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~dry_bulk_cargo,2259909]]"
-  - "[[_Standards/WikiData/WD~clastic_sediment,12372934]]"
+- '[[_Standards/WikiData/WD~dry_bulk_cargo,2259909]]'
+- '[[_Standards/WikiData/WD~clastic_sediment,12372934]]'
 OmegaWiki_Defined_Meaning: 1680
 Iconclass_notation: 25D22
 UNSPSC_Code: 11111611
@@ -22,25 +94,121 @@ Library_of_Congress_Classification: TA455.G73
 OpenStreetMap_tag_or_key: Tag:resource=gravel
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Gravel,133833]]"
-    - "[[/_Standards/Earth/Geology/Gravel|Gravel]]"
-    - "[[/_public/Earth/Geology/Gravel.public|Gravel.public]]"
-    - "[[/_internal/Earth/Geology/Gravel.internal|Gravel.internal]]"
-    - "[[/_protect/Earth/Geology/Gravel.protect|Gravel.protect]]"
-    - "[[/_private/Earth/Geology/Gravel.private|Gravel.private]]"
-    - "[[/_personal/Earth/Geology/Gravel.personal|Gravel.personal]]"
-    - "[[/_secret/Earth/Geology/Gravel.secret|Gravel.secret]]"
+  - '[[../../WikiData/WD~Gravel,133833]]'
+  - '[[/_Standards/Earth/Geology/Gravel|Gravel]]'
+  - '[[/_public/Earth/Geology/Gravel.public|Gravel.public]]'
+  - '[[/_internal/Earth/Geology/Gravel.internal|Gravel.internal]]'
+  - '[[/_protect/Earth/Geology/Gravel.protect|Gravel.protect]]'
+  - '[[/_private/Earth/Geology/Gravel.private|Gravel.private]]'
+  - '[[/_personal/Earth/Geology/Gravel.personal|Gravel.personal]]'
+  - '[[/_secret/Earth/Geology/Gravel.secret|Gravel.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Gravel,133833]]"
-  - "[[/_Standards/Earth/Geology/Gravel|Gravel]]"
-  - "[[/_public/Earth/Geology/Gravel.public|Gravel.public]]"
-  - "[[/_internal/Earth/Geology/Gravel.internal|Gravel.internal]]"
-  - "[[/_protect/Earth/Geology/Gravel.protect|Gravel.protect]]"
-  - "[[/_private/Earth/Geology/Gravel.private|Gravel.private]]"
-  - "[[/_personal/Earth/Geology/Gravel.personal|Gravel.personal]]"
-  - "[[/_secret/Earth/Geology/Gravel.secret|Gravel.secret]]"
+- '[[../../WikiData/WD~Gravel,133833]]'
+- '[[/_Standards/Earth/Geology/Gravel|Gravel]]'
+- '[[/_public/Earth/Geology/Gravel.public|Gravel.public]]'
+- '[[/_internal/Earth/Geology/Gravel.internal|Gravel.internal]]'
+- '[[/_protect/Earth/Geology/Gravel.protect|Gravel.protect]]'
+- '[[/_private/Earth/Geology/Gravel.private|Gravel.private]]'
+- '[[/_personal/Earth/Geology/Gravel.personal|Gravel.personal]]'
+- '[[/_secret/Earth/Geology/Gravel.secret|Gravel.secret]]'
+dv_has_:
+  name_:
+    ar: حصى
+    ast: Grava
+    bcl: Graba
+    be: Жвір
+    be-tarask: Жвір
+    bew: Krikil
+    bg: Баластра
+    ca: grava
+    ce: ЖагӀа
+    ckb: چەو
+    cs: štěrk
+    cv: Гравий
+    cy: Gravel
+    da: grus
+    de: Kiesel
+    el: Γαρμπίλι
+    en: gravel
+    en-gb: gravel
+    eo: gruzo
+    es: grava
+    et: kruus
+    eu: legar
+    fa: شن
+    fi: sora
+    fr: gravier
+    ga: gairbhéal
+    gl: Grava
+    gsw: Chiselstai
+    he: חצץ
+    hi: कंकड़
+    hr: Šljunak
+    hu: törmelék
+    hy: մանրախիճ
+    id: kerikil
+    io: Gravio
+    it: ghiaia
+    iu: ᑐᐊᐸᑦ
+    ja: 礫
+    jv: Krikil
+    ka: ხრეში
+    kcg: A̱bada̱dei a̱fang
+    kk: Гравий
+    kn: ಜಲ್ಲಿ
+    ko: 자갈
+    kw: grow
+    ky: Шагыл
+    la: Glarea
+    li: Maasgreend
+    lmo: Gera
+    lt: Žvyras
+    lv: Grants
+    mk: грагор
+    ml: ചരൽ
+    mn: Хайрга
+    mr: खडी
+    ms: Batu kerikil
+    nb: grus
+    nl: grind
+    nn: grus
+    pap: granson
+    pl: Żwir
+    pt: cascalho
+    pt-br: cascalho
+    ro: pietriș
+    ru: гравий
+    scn: Agghiara
+    sgs: Žvīrs
+    sh: Šljunak
+    shn: မၢၵ်ႇႁိၼ်ႁႄႈ
+    si: බොරළු
+    sk: štrk
+    sl: gramoz
+    sq: Zhavorri
+    sr: шљунак
+    sr-ec: Шљунак
+    sr-el: Šljunak
+    sv: grus
+    sw: Changarawe
+    ta: சரளைக் கல்
+    te: గులకరాయి
+    th: กรวด
+    tr: Mucur
+    uk: Гравій
+    uz: Shagʻal
+    vec: Giara
+    vi: Sỏi
+    wuu: 砾石
+    yue: 碎石
+    zh: 砾石
+    zh-cn: 砾石
+    zh-hans: 砾石
+    zh-hant: 礫石
+    zh-hk: 礫石
+    zh-sg: 砾石
+    zh-tw: 礫石
 ---
-
 # [[Gravel]] 
 
 #is_/same_as :: [[WD~Gravel,133833]] 

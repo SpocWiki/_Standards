@@ -1,9 +1,113 @@
 ---
 aliases:
-  - Voltaren
-  - Diclofenac
+- Diclofenac
+- Diclofenaco
+- diclofenacum
+- dicloffenac
+- diclofénac
+- diklofenaakki
+- Diklofenak
+- diklofenakas
+- diklofenakk
+- diklofenako
+- diklofenaks
+- Diklofenaku
+- diklofenák
+- Dîklofenak
+- Voltaren
+- δικλοφαινάκη
+- диклофенак
+- дыкляфэнак
+- Դիկլոֆենակ
+- דיקלופנק
+- ديكلوفيناك
+- ديکلوفيناک
+- دیکلوفناک
+- ڈایٔیکلیوفینک
+- ডাইক্লোফেনাক
+- ਡਿਕਲੋਫੇਨੈਕ
+- ଡାଇକ୍ଲୋଫେନାକ
+- டைக்ளோஃபீனாக்
+- ไดโคลฟีแนค
+- ジクロフェナク
+- 双氯芬酸钠
+- 雙氯芬酸鈉
+- 디클로페낙
+has_id_wikidata: Q244408
+dv_has_:
+  name_:
+    af: Diklofenak
+    ar: ديكلوفيناك
+    ast: Diclofenaco
+    azb: دیکلوفناک
+    be-tarask: дыкляфэнак
+    bg: диклофенак
+    bn: ডাইক্লোফেনাক
+    bs: Diklofenak
+    ca: diclofenac
+    cs: Diklofenak
+    cy: dicloffenac
+    de: Diclofenac
+    el: δικλοφαινάκη
+    en: Diclofenac
+    eo: diklofenako
+    es: Diclofenaco
+    et: Diklofenak
+    eu: diklofenako
+    fa: دیکلوفناک
+    fi: diklofenaakki
+    fr: diclofénac
+    ga: diclofenac
+    gpe: Diclofenac
+    guw: Diclofenac
+    he: דיקלופנק
+    hu: diklofenák
+    hy: Դիկլոֆենակ
+    id: diklofenak
+    it: diclofenac
+    ja: ジクロフェナク
+    kk: Диклофенак
+    ko: 디클로페낙
+    ks: ڈایٔیکلیوفینک
+    ku: Dîklofenak
+    la: diclofenacum
+    lt: diklofenakas
+    lv: diklofenaks
+    mk: Диклофенак
+    ms: Diklofenak
+    nl: diclofenac
+    nn: diklofenak
+    or: ଡାଇକ୍ଲୋଫେନାକ
+    pa: ਡਿਕਲੋਫੇਨੈਕ
+    pl: diklofenak
+    ps: ديکلوفيناک
+    pt: diclofenaco
+    pt-br: diclofenaco
+    ro: Diclofenac
+    ru: диклофенак
+    sh: Diklofenak
+    sk: diklofenak
+    sl: diklofenak
+    sms: diklofenakk
+    sq: Diklofenaku
+    sr: диклофенак
+    sr-ec: Диклофенак
+    sr-el: Diklofenak
+    sv: diklofenak
+    ta: டைக்ளோஃபீனாக்
+    th: ไดโคลฟีแนค
+    tr: diklofenak
+    uk: диклофенак
+    ur: دیکلوفناک
+    vi: diclofenac
+    zh: 双氯芬酸钠
+    zh-cn: 双氯芬酸钠
+    zh-hans: 双氯芬酸钠
+    zh-hant: 雙氯芬酸鈉
+    zh-hk: 雙氯芬酸鈉
+    zh-sg: 双氯芬酸钠
+    zh-tw: 雙氯芬酸鈉
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Diclofenac**, sold under the brand name Voltaren among others, 

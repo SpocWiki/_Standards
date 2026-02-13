@@ -1,12 +1,20 @@
 ---
 aliases:
-- "Soil value"
-- "Field value"
 - Ackerzahl
 - Bodenwertzahl
+- Field value
 - Grünlandzahl
+- Soil value
+- Ääkertaal
+- மண்ணின் மதிப்பு
+has_id_wikidata: Q889793
+dv_has_:
+  name_:
+    de: Bodenwertzahl
+    en: Soil value
+    frr: Ääkertaal
+    ta: மண்ணின் மதிப்பு
 ---
-
 ## #has_/text_of_/abstract 
 
 #is_/in_language :: [[../../../_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en|Lang-en]] 

@@ -1,63 +1,100 @@
 ---
 aliases:
-  - Jack_Nicholson
-  - John Joseph Nicholson
-  - Jack Nicholson
-  - Nicholson
-  - Nicholson,Jack
+- Cek Nikolson
+- Džeks Nikolsons
+- Iacobus Nicholson
+- Jack Nicholson
+- Jack_Nicholson
+- John Joseph Nicholson
+- Nicholson
+- Nicholson,Jack
+- Τζακ Νίκολσον
+- Џек Николсон
+- Джак Никълсън
+- Джек Ніколсон
+- Джек Николсон
+- Джэк Нікалсан
+- Жек Николсон
+- Жэк Николсон
+- Николсон Джек
+- Ҷек Николсон
+- Ջեք Նիքոլսոն
+- ג'ק ניקולסון
+- זשעק ניקאלסאהן
+- جاك نيكلسون
+- جاک نیکڵسن
+- جک نیکلسون
+- جیک نکولسن
+- جیک نیکلسن
+- जॅक निकलसन
+- जैक निकोल्सन
+- জ্যাক নিকোলসন
+- ਜੈਕ ਨਿਕੋਲਸਨ
+- ஜேக் நிக்கல்சன்
+- జ్యాక్ నికల్సన్
+- ജാക്ക് നിക്കോൾസൺ
+- แจ็ก นิโคลสัน
+- ჯეკ ნიკოლსონი
+- ჯექ ნიქოლსონი
+- ジャック・ニコルソン
+- 傑克·尼克遜
+- 杰克·尼克逊
+- 杰克·尼科尔森
+- 積尼高遜
+- 잭 니콜슨
 has_id_wikidata: Q39792
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Supporting_Role,548389]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
-  - '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Motion_Picture,723830]]'
-  - '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026]]'
-  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
-  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Musical_or_Comedy,181883]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Supporting_Role,548389]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+- '[[_Standards/WikiData/WD~Ordre_des_Arts_et_des_Lettres,716909]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Supporting_Actor_Motion_Picture,723830]]'
+- '[[_Standards/WikiData/WD~MTV_Movie_Award_for_Best_Villain,1062026]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Anjelica_Huston,190998]]'
-  - '[[_Standards/WikiData/WD~Susan_Anspach,276167]]'
-  - '[[_Standards/WikiData/WD~Margaret_Trudeau,3290526]]'
-  - '[[_Standards/WikiData/WD~Rebecca_Broussard,7301680]]'
-  - '[[_Standards/WikiData/WD~Sandra_Knight,26837242]]'
-  - '[[_Standards/WikiData/WD~Winnie_Hollman,65046170]]'
+- '[[_Standards/WikiData/WD~Anjelica_Huston,190998]]'
+- '[[_Standards/WikiData/WD~Susan_Anspach,276167]]'
+- '[[_Standards/WikiData/WD~Margaret_Trudeau,3290526]]'
+- '[[_Standards/WikiData/WD~Rebecca_Broussard,7301680]]'
+- '[[_Standards/WikiData/WD~Sandra_Knight,26837242]]'
+- '[[_Standards/WikiData/WD~Winnie_Hollman,65046170]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Actors_Studio,216458]]'
-  - '[[_Standards/WikiData/WD~Manasquan_High_School,4280171]]'
-  - '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
+- '[[_Standards/WikiData/WD~Actors_Studio,216458]]'
+- '[[_Standards/WikiData/WD~Manasquan_High_School,4280171]]'
+- '[[_Standards/WikiData/WD~The_Center_for_Early_Education,7721887]]'
 field_of_work: '[[_Standards/WikiData/WD~acting,222749]]'
 student_of: '[[_Standards/WikiData/WD~Martin_Landau,294641]]'
 military_branch: '[[_Standards/WikiData/WD~Air_National_Guard,407622]]'
 occupation:
-  - '[[_Standards/WikiData/WD~character_actor,948329]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~character_actor,948329]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Neptune_City,1088694]]'
 child:
-  - '[[_Standards/WikiData/WD~Lorraine_Nicholson,2026768]]'
-  - '[[_Standards/WikiData/WD~Honey_Hollman,65046638]]'
-  - '[[_Standards/WikiData/WD~Ray_Nicholson,113644511]]'
-  - '[[_Standards/WikiData/WD~Tessa_Gourin,116813743]]'
-  - '[[_Standards/WikiData/WD~Jennifer_Nicholson,116813793]]'
-  - '[[_Standards/WikiData/WD~Caleb_Goddard,116813824]]'
+- '[[_Standards/WikiData/WD~Lorraine_Nicholson,2026768]]'
+- '[[_Standards/WikiData/WD~Honey_Hollman,65046638]]'
+- '[[_Standards/WikiData/WD~Ray_Nicholson,113644511]]'
+- '[[_Standards/WikiData/WD~Tessa_Gourin,116813743]]'
+- '[[_Standards/WikiData/WD~Jennifer_Nicholson,116813793]]'
+- '[[_Standards/WikiData/WD~Caleb_Goddard,116813824]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 filmography: '[[_Standards/WikiData/WD~Jack_Nicholson_filmography,10753603]]'
 family_name: '[[_Standards/WikiData/WD~Nicholson,16878076]]'
@@ -84,8 +121,136 @@ date_of_birth: 1937-04-22T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jack%20Nicholson%20cropped%202010.jpg
 ISNI: 0000000121416417
 Plex_person_key: 5d7768255af944001f1f63c8
+dv_has_:
+  name_:
+    ace: Jack Nicholson
+    af: Jack Nicholson
+    an: Jack Nicholson
+    ar: جاك نيكلسون
+    arz: جاك نيكلسون
+    ast: Jack Nicholson
+    ay: Jack Nicholson
+    az: Cek Nikolson
+    azb: جک نیکلسون
+    ba: Николсон Джек
+    be: Джэк Нікалсан
+    be-tarask: Джэк Нікалсан
+    bg: Джак Никълсън
+    bi: Jack Nicholson
+    bn: জ্যাক নিকোলসন
+    br: Jack Nicholson
+    bs: Jack Nicholson
+    ca: Jack Nicholson
+    ckb: جاک نیکڵسن
+    co: Jack Nicholson
+    cs: Jack Nicholson
+    csb: Jack Nicholson
+    cv: Джек Николсон
+    cy: Jack Nicholson
+    da: Jack Nicholson
+    de: Jack Nicholson
+    de-ch: Jack Nicholson
+    diq: Jack Nicholson
+    dsb: Jack Nicholson
+    el: Τζακ Νίκολσον
+    en: Jack Nicholson
+    en-ca: Jack Nicholson
+    en-gb: Jack Nicholson
+    eo: Jack Nicholson
+    es: Jack Nicholson
+    es-419: Jack Nicholson
+    et: Jack Nicholson
+    eu: Jack Nicholson
+    fa: جک نیکلسون
+    fi: Jack Nicholson
+    fr: Jack Nicholson
+    fy: Jack Nicholson
+    ga: Jack Nicholson
+    gl: Jack Nicholson
+    he: ג'ק ניקולסון
+    hi: जैक निकोल्सन
+    hif: Jack Nicholson
+    hr: Jack Nicholson
+    hu: Jack Nicholson
+    hy: Ջեք Նիքոլսոն
+    id: Jack Nicholson
+    ig: Jack Nicholson
+    ilo: Jack Nicholson
+    io: Jack Nicholson
+    is: Jack Nicholson
+    it: Jack Nicholson
+    ja: ジャック・ニコルソン
+    ka: ჯეკ ნიკოლსონი
+    kk: Джек Николсон
+    ko: 잭 니콜슨
+    ku: Jack Nicholson
+    kw: Jack Nicholson
+    ky: Жэк Николсон
+    la: Iacobus Nicholson
+    lb: Jack Nicholson
+    li: Jack Nicholson
+    lt: Jack Nicholson
+    lv: Džeks Nikolsons
+    mg: Jack Nicholson
+    mk: Џек Николсон
+    ml: ജാക്ക് നിക്കോൾസൺ
+    mn: Жек Николсон
+    mr: जॅक निकलसन
+    ms: Jack Nicholson
+    mul: Jack Nicholson
+    nah: Jack Nicholson
+    nan: Jack Nicholson
+    nb: Jack Nicholson
+    nds: Jack Nicholson
+    nl: Jack Nicholson
+    nn: Jack Nicholson
+    nov: Jack Nicholson
+    oc: Jack Nicholson
+    pa: ਜੈਕ ਨਿਕੋਲਸਨ
+    pam: Jack Nicholson
+    pap: Jack Nicholson
+    pdc: Jack Nicholson
+    pl: Jack Nicholson
+    pms: Jack Nicholson
+    pnb: جیک نکولسن
+    pt: Jack Nicholson
+    pt-br: Jack Nicholson
+    qu: Jack Nicholson
+    ro: Jack Nicholson
+    ru: Джек Николсон
+    sc: Jack Nicholson
+    sco: Jack Nicholson
+    sh: Jack Nicholson
+    sk: Jack Nicholson
+    sl: Jack Nicholson
+    sq: Jack Nicholson
+    sr: Џек Николсон
+    sv: Jack Nicholson
+    sw: Jack Nicholson
+    ta: ஜேக் நிக்கல்சன்
+    te: జ్యాక్ నికల్సన్
+    tg: Ҷек Николсон
+    th: แจ็ก นิโคลสัน
+    tl: Jack Nicholson
+    tr: Jack Nicholson
+    tt: Джек Николсон
+    uk: Джек Ніколсон
+    ur: جیک نیکلسن
+    uz: Jack Nicholson
+    vec: Jack Nicholson
+    vi: Jack Nicholson
+    vo: Jack Nicholson
+    war: Jack Nicholson
+    wuu: 杰克·尼科尔森
+    xmf: ჯექ ნიქოლსონი
+    yi: זשעק ניקאלסאהן
+    yo: Jack Nicholson
+    yue: 積尼高遜
+    zh: 杰克·尼科尔森
+    zh-hant: 傑克·尼克遜
+    zh-my: 杰克·尼克逊
+    zh-sg: 杰克·尼克逊
 ---
-
 # [[Nicholson,Jack]] 
 
 #is_/same_as :: [[WD~Jack_Nicholson,39792]] 

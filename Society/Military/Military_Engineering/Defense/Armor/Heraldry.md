@@ -1,27 +1,80 @@
 ---
 aliases:
-  - Heraldik
-  - armory
-  - Heraldry
+- araldica
+- araltas
+- ardamezouriezh
+- armory
+- aràldega
+- Aràldica
+- Bûn-chiong-ha̍k
+- Geraldika
+- Heraldica
+- heraldică
+- heraldiek
+- heraldihke
+- heraldihkka
+- heraldiik
+- heraldiikka
+- heraldijjka
+- Heraldik
+- heraldika
+- heraldikk
+- heraldiko
+- Heraldry
+- heraldyka
+- Heraudica
+- herodraeth
+- heràldica
+- heráldica
+- Huy hiệu
+- Hèraldica
+- héraldique
+- Ilmu jata
+- scientia heraldica
+- skjaldarmerkjafræði
+- skötav
+- wapenkunde
+- Εραλδική
+- геральдикæ
+- геральдика
+- геральдыка
+- грбословие
+- Нишоншиносӣ
+- Хералдика
+- զինանշանագիտություն
+- הרלדיקה
+- آرمشناسی
+- درعيات
+- شِعَارة
+- علم نقابت
+- शौर्यशास्त्र
+- ഹെറാൾഡ്രി
+- มุทราศาสตร์
+- ჰერალდიკა
+- 紋章
+- 紋章学
+- 紋章學
+- 纹章学
+- 문장학
 has_id_wikidata: Q18336
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~blazonry,494452]]'
-  - '[[_Standards/WikiData/WD~coat_of_arms,14659]]'
+- '[[_Standards/WikiData/WD~blazonry,494452]]'
+- '[[_Standards/WikiData/WD~coat_of_arms,14659]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~heraldist,516463]]'
-  - '[[_Standards/WikiData/WD~heraldic_artist,58423832]]'
+- '[[_Standards/WikiData/WD~heraldist,516463]]'
+- '[[_Standards/WikiData/WD~heraldic_artist,58423832]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 part_of: '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
 subclass_of: '[[_Standards/WikiData/WD~auxiliary_science_of_history,770723]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Heraldic_achievement_chart,6979212]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Heraldry,8768551]]'
 different_from: '[[_Standards/WikiData/WD~Q11605331,11605331]]'
@@ -33,8 +86,109 @@ subreddit: heraldry
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyghalmen%20Roll%20Late%201400s.jpg
 Commons_category: Heraldry
 Regensburg_Classification: ND 5400 - ND 5830
+dv_has_:
+  name_:
+    acm: درعيات
+    ar: شِعَارة
+    ast: heráldica
+    av: Геральдика
+    az: Heraldika
+    ba: Геральдика
+    be: геральдыка
+    be-tarask: геральдыка
+    bg: Хералдика
+    br: ardamezouriezh
+    bs: heraldika
+    ca: heràldica
+    cs: heraldika
+    cv: Геральдика
+    cy: herodraeth
+    da: heraldik
+    de: Heraldik
+    el: Εραλδική
+    en: heraldry
+    en-ca: Heraldry
+    en-gb: heraldry
+    eo: heraldiko
+    es: heráldica
+    et: heraldika
+    eu: heraldika
+    fa: آرمشناسی
+    fi: heraldiikka
+    fr: héraldique
+    frp: Hèraldica
+    fy: wapenkunde
+    ga: araltas
+    gl: Heráldica
+    he: הרלדיקה
+    hi: शौर्यशास्त्र
+    hr: heraldika
+    hu: heraldika
+    hy: զինանշանագիտություն
+    ia: Heraldica
+    id: Heraldik
+    is: skjaldarmerkjafræði
+    it: araldica
+    ja: 紋章学
+    ka: ჰერალდიკა
+    kk: Геральдика
+    ko: 문장학
+    ky: Геральдика
+    la: scientia heraldica
+    lb: Heraldik
+    li: Heraldiek
+    lij: araldica
+    lt: heraldika
+    lv: heraldika
+    lzh: 紋章
+    mk: грбословие
+    ml: ഹെറാൾഡ്രി
+    ms: Ilmu jata
+    nan: Bûn-chiong-ha̍k
+    nb: heraldikk
+    nds: Heraldik
+    nl: heraldiek
+    nn: Heraldikk
+    oc: Heraudica
+    os: геральдикæ
+    pl: heraldyka
+    pt: heráldica
+    pt-br: heráldica
+    ro: heraldică
+    ru: геральдика
+    scn: Aràldica
+    se: heraldihkka
+    sh: Heraldika
+    sje: heraldijjka
+    sk: heraldika
+    sl: heraldika
+    sma: heraldihke
+    smj: heraldihkka
+    smn: heraldiik
+    sms: heraldikk
+    sq: Heraldika
+    sr: хералдика
+    sv: heraldik
+    tg: Нишоншиносӣ
+    th: มุทราศาสตร์
+    tk: Geraldika
+    tr: Heraldik
+    tt: геральдика
+    tyv: Геральдика
+    uk: геральдика
+    ur: علم نقابت
+    uz: Geraldika
+    vec: aràldega
+    vi: Huy hiệu
+    vo: skötav
+    wuu: 纹章学
+    xmf: ჰერალდიკა
+    yue: 紋章學
+    zh: 纹章学
+    zh-cn: 纹章学
+    zh-hans: 纹章学
+    zh-hant: 纹章学
 ---
-
 # [[Heraldry]] 
 
 #is_/similar_to :: [[Vexillology]] 

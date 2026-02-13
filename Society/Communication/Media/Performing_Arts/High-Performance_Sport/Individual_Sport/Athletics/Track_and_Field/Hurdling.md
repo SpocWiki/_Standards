@@ -1,21 +1,133 @@
 ---
 aliases:
-  - Hürdenlauf
-  - Hurdling
+- aitajuoksu
+- alergare cu obstacole
+- andaw f isndar
+- Barierkuro
+- barjerinis bėgimas
+- bieg płotkarski
+- carreira de valados
+- carreras de vallas
+- Carreres de valles
+- Chạy vượt rào
+- cliathreathaíocht
+- corrida com barreiras
+- course de haies
+- cursa amb tanques
+- Cursus impedimentorum
+- Engelli koşuları
+- Grindahlaup
+- gátfutás
+- hekkeløp
+- hekkiesloop
+- Hesi-lasterketa
+- hordelopen
+- Hurdling
+- häcklöpning
+- hækkeløb
+- Hürdenlauf
+- Lari gawang
+- maneələrlə qaçış
+- Mlaku gawang
+- ostacoli
+- překážkový běh
+- ras clwydi
+- tek z ovirami
+- trka s preponama
+- tõkkejooks
+- áideviehkan
+- äiđikaččâm
+- čuâllurččmõš
+- Δρόμος μετ' εμποδίων
+- біг із бар'єрами
+- бег зь перашкодамі
+- бег с барьерами
+- трка с препонама
+- трка со пречки
+- юлкискече йөгерү
+- ריצת משוכות
+- باريېردىن ئاتلاپ يۈگۈرۈش
+- دو با مانع
+- سباق حواجز
+- सबाधधावनम्
+- தடை தாண்டும் ஓட்டம்
+- ハードル競走
+- 跨栏
+- 跨欄
+- 장애물 달리기
 has_id_wikidata: Q537769
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of: '[[_Standards/WikiData/WD~sports_discipline,2312410]]'
 practiced_by: '[[_Standards/WikiData/WD~hurdler,13724897]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]'
-  - '[[_Standards/WikiData/WD~track_sport,110373504]]'
+- '[[_Standards/WikiData/WD~running_discipline_of_track,21467672]]'
+- '[[_Standards/WikiData/WD~track_sport,110373504]]'
 sport: '[[_Standards/WikiData/WD~athletics,542]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/100%20m%20hurdles%20Memorial%20Van%20Damme%202010.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20%28hurdles%20running%29%20pictogram.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-H%C3%BCrdenlauf.ogg
 Commons_category: Hurdling
+dv_has_:
+  name_:
+    af: hekkiesloop
+    ar: سباق حواجز
+    ast: Carreres de valles
+    az: maneələrlə qaçış
+    be-tarask: бег зь перашкодамі
+    ca: cursa amb tanques
+    cs: překážkový běh
+    cy: ras clwydi
+    da: hækkeløb
+    de: Hürdenlauf
+    el: Δρόμος μετ' εμποδίων
+    en: hurdling
+    eo: Barierkuro
+    es: carreras de vallas
+    et: tõkkejooks
+    eu: Hesi-lasterketa
+    fa: دو با مانع
+    fi: aitajuoksu
+    fr: course de haies
+    ga: cliathreathaíocht
+    gl: carreira de valados
+    he: ריצת משוכות
+    hu: gátfutás
+    id: Lari gawang
+    is: Grindahlaup
+    it: ostacoli
+    ja: ハードル競走
+    jv: Mlaku gawang
+    ko: 장애물 달리기
+    la: Cursus impedimentorum
+    lt: barjerinis bėgimas
+    mk: трка со пречки
+    mr: सबाधधावनम्
+    nb: hekkeløp
+    nl: hordelopen
+    pl: bieg płotkarski
+    pt: corrida com barreiras
+    ro: alergare cu obstacole
+    ru: бег с барьерами
+    sa: सबाधधावनम्
+    se: áideviehkan
+    shi: andaw f isndar
+    sl: tek z ovirami
+    smn: äiđikaččâm
+    sms: čuâllurččmõš
+    sr: трка с препонама
+    sr-ec: трка с препонама
+    sr-el: trka s preponama
+    sv: häcklöpning
+    ta: தடை தாண்டும் ஓட்டம்
+    tr: Engelli koşuları
+    tt: юлкискече йөгерү
+    ug: باريېردىن ئاتلاپ يۈگۈرۈش
+    uk: біг із бар'єрами
+    vi: Chạy vượt rào
+    wuu: 跨栏
+    yue: 跨欄
+    zh: 跨欄
 ---
-
 # [[Hurdling]] 
 
 #is_/same_as :: [[WD~Hurdling,537769]] 

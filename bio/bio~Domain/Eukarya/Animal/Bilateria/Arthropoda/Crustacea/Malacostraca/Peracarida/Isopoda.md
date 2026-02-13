@@ -1,9 +1,184 @@
 ---
 aliases:
-  - Isopoda
+- Asseln
+- Bərabərayaqlılar
+- Bộ Chân đều
+- enakonožci
+- Gråsuggor och tånglöss
+- iseapóid
+- Isopoda
+- Isopodar
+- Isopode
+- Isopodo
+- Isopood
+- Isopòde
+- isòpodes
+- Isópodos
+- Izopode
+- Izopodoj
+- Jafnfætlur
+- Kakandilised
+- Kellerswiene
+- Lygiakojai
+- Müürswin (order)
+- pissebedden
+- równonogi
+- siirat
+- stejnonožci
+- Stienkrobben
+- tanglus
+- Vienādkājvēži
+- Wónitłʼizí
+- Zeuge
+- ászkarákok
+- Ισόποδα
+- Мокрице (животиње)
+- мокрици
+- рівноногі
+- раўнаногія
+- равноноги
+- равноногие
+- Шапыгапшангы ганьывлӓ
+- հավասարաոտեր
+- איזאפאד
+- שווה־רגלאים
+- برابرایاقلیلار
+- جورپایان
+- متماثلات الأرجل
+- متماثلات الارجل
+- আইসোপোডা
+- ಐಸೊಪೋಡ
+- ഐസോപോഡ്
+- ไอโซพอด
+- ტოლფეხიანები
+- ワラジムシ目
+- 等足目
+- 등각류
 title: Isopoda
+has_id_wikidata: Q206338
+dv_has_:
+  name_:
+    af: Isopood
+    an: Isopoda
+    ar: متماثلات الأرجل
+    arz: متماثلات الارجل
+    ast: Isopoda
+    az: Bərabərayaqlılar
+    azb: برابرایاقلیلار
+    bar: Isopoda
+    be: раўнаногія
+    bg: равноноги
+    bn: আইসোপোডা
+    br: Isopoda
+    ca: isòpodes
+    ceb: Isopoda
+    co: Isopoda
+    cs: stejnonožci
+    cy: Isopoda
+    da: Isopode
+    de: Asseln
+    de-at: Isopoda
+    de-ch: Isopoda
+    el: Ισόποδα
+    en: Isopoda
+    en-ca: Isopoda
+    en-gb: Isopoda
+    eo: Izopodoj
+    es: isopoda
+    et: Kakandilised
+    eu: Isopodo
+    ext: Isopoda
+    fa: جورپایان
+    fi: siirat
+    fr: Isopoda
+    frp: Isopoda
+    frr: Müürswin (order)
+    fur: Isopoda
+    fy: Stienkrobben
+    ga: iseapóid
+    gd: Isopoda
+    gl: Isópodos
+    gsw: Isopoda
+    he: שווה־רגלאים
+    hr: Isopoda
+    hu: ászkarákok
+    hy: հավասարաոտեր
+    ia: Isopoda
+    id: Isopoda
+    ie: Isopoda
+    io: Isopoda
+    is: Jafnfætlur
+    it: Isopoda
+    ja: ワラジムシ目
+    jv: Isopoda
+    ka: ტოლფეხიანები
+    kg: Isopoda
+    kn: ಐಸೊಪೋಡ
+    ko: 등각류
+    la: Isopoda
+    lb: Isopoda
+    li: Isopoda
+    lij: Isopoda
+    lt: Lygiakojai
+    lv: Vienādkājvēži
+    mg: Isopoda
+    min: Isopoda
+    mk: мокрици
+    ml: ഐസോപോഡ്
+    mrj: Шапыгапшангы ганьывлӓ
+    ms: Isopoda
+    mul: Isopoda
+    nap: Isopoda
+    nb: tanglus
+    nds: Kellerswiene
+    nds-nl: Isopoda
+    nl: pissebedden
+    nn: Isopodar
+    nrm: Isopoda
+    nv: Wónitłʼizí
+    nys: Isopoda
+    oc: Isopòde
+    pcd: Isopoda
+    pl: równonogi
+    pms: Isopoda
+    pt: Isópodos
+    pt-br: Isopoda
+    rm: Isopoda
+    ro: Izopode
+    ru: равноногие
+    sc: Isopoda
+    scn: Isopoda
+    sco: Isopoda
+    sk: Isopoda
+    sl: enakonožci
+    sq: Isopoda
+    sr: Мокрице (животиње)
+    su: Isopoda
+    sv: Gråsuggor och tånglöss
+    sw: Isopoda
+    th: ไอโซพอด
+    tl: Isopoda
+    tr: Isopoda
+    uk: рівноногі
+    vec: Isopoda
+    vi: Bộ Chân đều
+    vls: Isopoda
+    vo: Isopoda
+    wa: Isopoda
+    war: Isopoda
+    wo: Isopoda
+    wuu: 等足目
+    yi: איזאפאד
+    zea: Zeuge
+    zh: 等足目
+    zh-cn: 等足目
+    zh-hans: 等足目
+    zh-hant: 等足目
+    zh-hk: 等足目
+    zh-sg: 等足目
+    zh-tw: 等足目
+    zu: Isopoda
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

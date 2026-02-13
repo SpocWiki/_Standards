@@ -1,62 +1,96 @@
 ---
 aliases:
-  - Ludwig_Feuerbach
-  - Ludwig Feuerbach
+- Feyerbax Lyudvig Andreas
+- Ludovicus Andreas Feuerbach
+- ludvig.foierbax
+- Ludvigs Feierbahs
+- Ludwig Andreas Feuerbach
+- Ludwig Feuerbach
+- Ludwig_Feuerbach
+- Ludwing Feuerbach
+- Lüdviq Andreas Feyerbax
+- Λούντβιχ Φόιερμπαχ
+- Лудвиг Фојербах
+- Лудвиг Фойербах
+- Людвіг Андреас Феєрбах
+- Людвіг Андрэас Феербах
+- Людвіг Фэербах
+- Людвиг Андреас Фейербах
+- Людвиг Фейербах
+- Лүдвиг Фейербах
+- Фейербах, Людвиг Андреас
+- Լյուդվիգ Ֆոյերբախ
+- לודוויג פוירבך
+- לודוויג פייערבאך
+- لودفيج فويرباخ
+- لودفيغ فويرباخ
+- لودویق فویرباخ
+- لودویگ فویرباخ
+- لودڤیگ فۆیێرباخ
+- लुडविग् एन्ड्रियस् फ्युरब्याक
+- লুডভিগ ফয়ারবাখ
+- ਲੁਡਵਿਗ ਫ਼ਿਊਰਬਾਖ
+- ലൂഡ്വിഗ് ഫൊയർബാഹ്
+- ლუდვიგ ფოიერბახი
+- ルートヴィヒ・アンドレアス・フォイエルバッハ
+- 費爾巴哈
+- 路德维希·费尔巴哈
+- 루트비히 포이어바흐
 has_id_wikidata: Q76422
 sibling:
-  - '[[_Standards/WikiData/WD~Karl_Wilhelm_Feuerbach,70884]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Feuerbach,87191]]'
-  - '[[_Standards/WikiData/WD~Eduard_August_Feuerbach,126081]]'
-  - '[[_Standards/WikiData/WD~Joseph_Anselm_Feuerbach,64154]]'
+- '[[_Standards/WikiData/WD~Karl_Wilhelm_Feuerbach,70884]]'
+- '[[_Standards/WikiData/WD~Friedrich_Feuerbach,87191]]'
+- '[[_Standards/WikiData/WD~Eduard_August_Feuerbach,126081]]'
+- '[[_Standards/WikiData/WD~Joseph_Anselm_Feuerbach,64154]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Friedrich_Schleiermacher,76576]]'
-  - '[[_Standards/WikiData/WD~sensationism,651205]]'
-  - '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
-  - '[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]'
+- '[[_Standards/WikiData/WD~Friedrich_Schleiermacher,76576]]'
+- '[[_Standards/WikiData/WD~sensationism,651205]]'
+- '[[_Standards/WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235]]'
+- '[[_Standards/WikiData/WD~Benedictus_de_Spinoza,35802]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
-  - '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
-  - '[[_Standards/WikiData/WD~University_of_Erlangen,99955354]]'
-  - '[[_Standards/WikiData/WD~Friedrich_Alexander_Universität_Erlangen_Nürnberg,40025]]'
+- '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+- '[[_Standards/WikiData/WD~Humboldt_Universität_zu_Berlin,152087]]'
+- '[[_Standards/WikiData/WD~University_of_Erlangen,99955354]]'
+- '[[_Standards/WikiData/WD~Friedrich_Alexander_Universität_Erlangen_Nürnberg,40025]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_Bavaria,154195]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
-  - '[[_Standards/WikiData/WD~philosophical_anthropology,488059]]'
-  - '[[_Standards/WikiData/WD~Young_Hegelians,1135769]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~ethics,9465]]'
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
-  - '[[_Standards/WikiData/WD~anthropology,23404]]'
+- '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
+- '[[_Standards/WikiData/WD~philosophical_anthropology,488059]]'
+- '[[_Standards/WikiData/WD~Young_Hegelians,1135769]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~anthropology,23404]]'
 residence:
-  - '[[_Standards/WikiData/WD~Bruckberg,503596]]'
-  - '[[_Standards/WikiData/WD~Rechenberg,2135230]]'
+- '[[_Standards/WikiData/WD~Bruckberg,503596]]'
+- '[[_Standards/WikiData/WD~Rechenberg,2135230]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 movement:
-  - '[[_Standards/WikiData/WD~German_idealism,679842]]'
-  - '[[_Standards/WikiData/WD~atheism,7066]]'
+- '[[_Standards/WikiData/WD~German_idealism,679842]]'
+- '[[_Standards/WikiData/WD~atheism,7066]]'
 occupation:
-  - '[[_Standards/WikiData/WD~beekeeper,852389]]'
-  - '[[_Standards/WikiData/WD~theologian,1234713]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~anthropologist,4773904]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~critic_of_religions,21286455]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~beekeeper,852389]]'
+- '[[_Standards/WikiData/WD~theologian,1234713]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~anthropologist,4773904]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~critic_of_religions,21286455]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Essence_of_Christianity,1170769]]'
-  - '[[_Standards/WikiData/WD~Thoughts_on_Death_and_Immortality,22677377]]'
+- '[[_Standards/WikiData/WD~The_Essence_of_Christianity,1170769]]'
+- '[[_Standards/WikiData/WD~Thoughts_on_Death_and_Immortality,22677377]]'
 place_of_burial: '[[_Standards/WikiData/WD~Johannisfriedhof_(Nürnberg),1698918]]'
 family_name: '[[_Standards/WikiData/WD~Feuerbach,4491624]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -92,8 +126,105 @@ Libris_URI: 20dggh5l28vbbq9
 Europeana_entity: agent/base/146602
 Regensburg_Classification: BF 5660
 Wolfram_Language_entity_code: Entity["Person", "LudwigFeuerbach::g83bp"]
+dv_has_:
+  name_:
+    af: Ludwig Feuerbach
+    an: Ludwig Feuerbach
+    ar: لودفيغ فويرباخ
+    arz: لودفيج فويرباخ
+    ast: Ludwig Feuerbach
+    az: Lüdviq Andreas Feyerbax
+    azb: لودویق فویرباخ
+    be: Людвіг Андрэас Феербах
+    be-tarask: Людвіг Фэербах
+    bg: Лудвиг Фойербах
+    bn: লুডভিগ ফয়ারবাখ
+    bs: Ludwig Andreas Feuerbach
+    ca: Ludwig Andreas Feuerbach
+    ckb: لودڤیگ فۆیێرباخ
+    cs: Ludwig Feuerbach
+    cy: Ludwig Feuerbach
+    da: Ludwig Feuerbach
+    de: Ludwig Feuerbach
+    de-at: Ludwig Feuerbach
+    de-ch: Ludwig Feuerbach
+    el: Λούντβιχ Φόιερμπαχ
+    en: Ludwig Feuerbach
+    en-us: Ludwig Feuerbach
+    eo: Ludwig Feuerbach
+    es: Ludwig Feuerbach
+    et: Ludwig Feuerbach
+    eu: Ludwig Feuerbach
+    fa: لودویگ فویرباخ
+    fi: Ludwig Feuerbach
+    fr: Ludwig Feuerbach
+    ga: Ludwig Feuerbach
+    gl: Ludwig Feuerbach
+    he: לודוויג פוירבך
+    hr: Ludwig Feuerbach
+    hu: Ludwig Andreas Feuerbach
+    hy: Լյուդվիգ Ֆոյերբախ
+    id: Ludwig Feuerbach
+    io: Ludwig Feuerbach
+    is: Ludwig Andreas Feuerbach
+    it: Ludwig Feuerbach
+    ja: ルートヴィヒ・アンドレアス・フォイエルバッハ
+    jbo: ludvig.foierbax
+    jut: Ludwig Feuerbach
+    jv: Ludwig Feuerbach
+    ka: ლუდვიგ ფოიერბახი
+    kk: Людвиг Фейербах
+    ko: 루트비히 포이어바흐
+    ky: Фейербах, Людвиг Андреас
+    la: Ludovicus Andreas Feuerbach
+    lt: Ludwig Andreas Feuerbach
+    lv: Ludvigs Feierbahs
+    mg: Ludwig Feuerbach
+    mk: Лудвиг Фојербах
+    ml: ലൂഡ്വിഗ് ഫൊയർബാഹ്
+    mn: Ludwing Feuerbach
+    mul: Ludwig Feuerbach
+    nan: Ludwig Feuerbach
+    nb: Ludwig Andreas Feuerbach
+    nds: Ludwig Feuerbach
+    ne: लुडविग् एन्ड्रियस् फ्युरब्याक
+    nl: Ludwig Feuerbach
+    nn: Ludwig Feuerbach
+    oc: Ludwig Feuerbach
+    pa: ਲੁਡਵਿਗ ਫ਼ਿਊਰਬਾਖ
+    pl: Ludwig Feuerbach
+    pms: Ludwig Feuerbach
+    pt: Ludwig Feuerbach
+    pt-br: Ludwig Feuerbach
+    ro: Ludwig Feuerbach
+    ru: Людвиг Андреас Фейербах
+    rw: Ludwig Feuerbach
+    sah: Лүдвиг Фейербах
+    sc: Ludwig Feuerbach
+    sco: Ludwig Feuerbach
+    sh: Ludwig Feuerbach
+    sje: Ludwig Feuerbach
+    sk: Ludwig Andreas Feuerbach
+    sl: Ludwig Feuerbach
+    sq: Ludwig Feuerbach
+    sr: Лудвиг Фојербах
+    sr-ec: Лудвиг Фојербах
+    sv: Ludwig Feuerbach
+    tr: Ludwig Feuerbach
+    tt: Людвиг Фейербах
+    uk: Людвіг Андреас Феєрбах
+    uz: Feyerbax Lyudvig Andreas
+    vi: Ludwig Andreas Feuerbach
+    vls: Ludwig Feuerbach
+    war: Ludwig Feuerbach
+    wuu: 路德维希·费尔巴哈
+    xmf: ლუდვიგ ფოიერბახი
+    yi: לודוויג פייערבאך
+    yue: 費爾巴哈
+    zh: 路德维希·费尔巴哈
+    zh-cn: 路德维希·费尔巴哈
+    zh-hans: 路德维希·费尔巴哈
 ---
-
 # [[Ludwig_Feuerbach]]
 
 German philosopher and anthropologist (1804–1872) 

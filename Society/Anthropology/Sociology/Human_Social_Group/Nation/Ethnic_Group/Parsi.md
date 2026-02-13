@@ -1,30 +1,169 @@
 ---
 aliases:
+- Người Parsi
+- Parsai
+- Parsarar
+- Parse
+- Parsen
+- Parsere
+- Parses
+- Parsi
+- Parsi India
+- Parsiji
+- Parsiler
+- Parsilər
+- Parsioj
+- parsis
+- Parsism
+- parsit
+- Parsiy
+- Parsowie
+- Parsët
+- Parsỳ
+- Pársové
+- Πάρσοι
+- парсі
+- Парси
+- Парсиҙар
+- Парслар
+- Парссем
+- парсы
+- Պարսեր
+- פארסים
+- بارسيون
+- پارسی
+- پارسیان هند
+- پارسیلر
+- پارسییەکان
+- ފާރިސީން
+- पारशी
+- पारसी
+- পারসি
+- পাৰ্চী
+- ਪਾਰਸੀ
+- પારસી
+- பார்சி மக்கள்
+- పార్సీ ప్రజలు
+- ಪಾರ್ಸಿ ಜನಾಂಗ
+- പാഴ് സി
+- ชาวปาร์ซี
+- პარსები
+- パールシー
+- 巴斯人
+- 帕西人
+- 파르시
 has_id_wikidata: Q200263
-part_of: "[[_Standards/WikiData/WD~Persians,484206]]"
+part_of: '[[_Standards/WikiData/WD~Persians,484206]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 native_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Gujarati,5137]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Zoroastrianism,9601]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Gujarati,5137]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
 population: 110000
-instance_of: "[[_Standards/WikiData/WD~ethnic_group,41710]]"
-OmegaWiki_Defined_Meaning: "1222994"
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+OmegaWiki_Defined_Meaning: 1222994
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indian%20-%20Leaf%20from%20Bound%20Collection%20of%2020%20Miniatures%20Depicting%20Village%20Life%20-%20Walters%2035176H.jpg
 Library_of_Congress_Classification:
-  - BL1500
-  - BL1590
-  - DS432.P3
+- BL1500
+- BL1590
+- DS432.P3
 Commons_category: Parsi
 Gujarati_Vishwakosh_entry: પારસી
-Dewey_Decimal_Classification: "295.092"
+Dewey_Decimal_Classification: 295.092
+dv_has_:
+  name_:
+    af: Parsi
+    ar: بارسيون
+    arz: بارسيون
+    as: পাৰ্চী
+    ast: Parsi
+    az: Parsilər
+    azb: پارسیلر
+    ba: Парсиҙар
+    be-tarask: парсі
+    bg: Парси
+    bn: পারসি
+    ca: parsis
+    ckb: پارسییەکان
+    cs: Pársové
+    cv: Парссем
+    de: Parsen
+    de-ch: Parsen
+    diq: Parsiy
+    dv: ފާރިސީން
+    el: Πάρσοι
+    en: Parsi
+    en-ca: Parsi
+    en-gb: Parsi
+    eo: Parsioj
+    es: parsi
+    eu: Parsi
+    fa: پارسیان هند
+    fi: parsit
+    fr: Parsis
+    gl: Parsi
+    gsw: Parse
+    gu: પારસી
+    he: פארסים
+    hi: पारसी
+    hr: Parsi
+    hy: Պարսեր
+    id: Parsi India
+    it: parsi
+    ja: パールシー
+    ka: პარსები
+    kn: ಪಾರ್ಸಿ ಜನಾಂಗ
+    ko: 파르시
+    la: Parsi
+    lt: Parsai
+    lv: parsi
+    mg: Parsỳ
+    mk: Парси
+    ml: പാഴ് സി
+    mr: पारशी
+    nb: Parsere
+    ne: पारसी
+    nl: Parsi
+    nn: Parsarar
+    oc: Parsis
+    pa: ਪਾਰਸੀ
+    pl: Parsowie
+    pnb: پارسی
+    pt: Parses
+    pt-br: Parsis
+    ru: парсы
+    scn: Parsi
+    sh: Parsi
+    sl: Parsiji
+    sq: Parsët
+    sr: Парси
+    sr-ec: Парси
+    sr-el: Parsi
+    sv: Parsism
+    ta: பார்சி மக்கள்
+    te: పార్సీ ప్రజలు
+    th: ชาวปาร์ซี
+    tr: Parsiler
+    tt: Парслар
+    uk: Парси
+    ur: پارسی
+    vec: parsi
+    vi: Người Parsi
+    wuu: 帕西人
+    yue: 巴斯人
+    zh: 帕西人
+    zh-cn: 帕西人
+    zh-hans: 帕西人
+    zh-hant: 帕西人
+    zh-hk: 帕西人
+    zh-sg: 帕西人
+    zh-tw: 帕西人
 ---
-
 # [[Parsi]] 
 
 #is_/same_as :: [[WD~Parsi,200263]] 

@@ -1,36 +1,116 @@
 ---
 aliases:
-  - Steinbock
-  - Zodiac~Capricornus
+- Adijady (antokon-kintana)
+- an Gabhar
+- Bak
+- Bricjapi
+- Bızêk
+- Capricorn
+- Capricorne
+- Capricornio
+- Capricorniu
+- Capricorno
+- Capricornul
+- Capricornus
+- Capricòrne
+- Crapecuorno
+- Gaver
+- Gavr
+- Gwiazdozbiór Koziorożca
+- Jadi
+- Jadiy
+- Jarac
+- Kaljukits
+- Kambing Duyung
+- kanba solgrixra
+- Kaprikorno
+- Kaprikornus
+- Kauris
+- Kozorog
+- Kozoroh
+- Kozorožec
+- Ma Kết
+- Madjet
+- Mahara
+- Mežāzis
+- Mô-kiet-chho
+- Oğlaq
+- Ožiaragis
+- Soaⁿ-iûⁿ-chō
+- Steenbok
+- Steenbuck
+- Steinbock
+- Steinbok
+- Steinbukken
+- Stenbocken
+- Stenbukken
+- Stianbok (stäärbil)
+- Săng-iòng-cô̤
+- Tupaturka
+- y Goayr
+- Zodiac~Capricornus
+- Αιγόκερως
+- Јарац
+- Јарец
+- Ирказа
+- Казярог
+- Козерог
+- Козирог
+- Козоріг
+- Кәзәмөгөҙ
+- Сæгъысы (стъалыгуппар)
+- Сюрокеч
+- Текечер
+- Чубуку
+- Җәди йолдызлыгы
+- Այծեղջյուր
+- גדי
+- الجدي
+- بزغاله
+- بزکله
+- جدی
+- كاپريكورناس
+- मकर
+- मकर तारामंडल
+- মকর
+- ಮಕರ ರಾಶಿ
+- മകരം
+- กลุ่มดาวแพะทะเล
+- ཆུ་སྲིན་སྐར་ཚོམ་
+- မကာရ နက္ခတ်တာရာ
+- თხის რქა
+- やぎ座
+- 摩羯座
+- 염소자리
 has_id_wikidata: Q10535
 confidential: public
 isDeleted: false
 isReadOnly: false
 tags:
-  - astro/Zodiac
+- astro/Zodiac
 type: Zodiac
 ZodiacPos: 10
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]"
-  - "[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]"
-part_of: "[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]"
-  - "[[_Standards/WikiData/WD~constellation,8928]]"
+- '[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]'
+- '[[_Standards/WikiData/WD~constellation,8928]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Stars_of_Capricornus,8084788]]"
-  - "[[_Standards/WikiData/WD~Q10729055,10729055]]"
+- '[[_Standards/WikiData/WD~Template_Stars_of_Capricornus,8084788]]'
+- '[[_Standards/WikiData/WD~Q10729055,10729055]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Sagittarius,8866]]"
-  - "[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]"
-  - "[[_Standards/WikiData/WD~Microscopium,10492]]"
-  - "[[_Standards/WikiData/WD~Aquarius,10576]]"
-  - "[[_Standards/WikiData/WD~Aquila,10586]]"
+- '[[_Standards/WikiData/WD~Sagittarius,8866]]'
+- '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
+- '[[_Standards/WikiData/WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~Aquarius,10576]]'
+- '[[_Standards/WikiData/WD~Aquila,10586]]'
 area: 414
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Capricornus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Capricornus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -43,34 +123,135 @@ official_name: Capricornus
 dv_SpocWebEntityId: 28098
 dv_has_:
   name_:
+    af: Steenbok
+    ar: الجدي
+    arz: كاپريكورناس
+    ast: Capricorniu
+    az: Oğlaq
+    ba: Кәзәмөгөҙ
+    bbc: Mahara
+    bcl: Capricornus
+    be: Казярог
+    be-tarask: Казярог
+    bg: Козирог
+    bn: মকর
+    bo: ཆུ་སྲིན་སྐར་ཚོམ་
+    br: Gavr
+    bs: Jarac
+    ca: Capricorn
+    cdo: Săng-iòng-cô̤
+    co: Capricornus
+    cs: Kozoroh
+    cy: Capricornus
+    da: Stenbukken
+    de: Steinbock
+    diq: Bızêk
+    el: Αιγόκερως
+    en: Capricornus
+    eo: Kaprikorno
+    es: Capricornio
+    et: Kaljukits
+    eu: Capricornus
+    fa: بزغاله
+    fi: Kauris
+    fr: Capricorne
+    frr: Stianbok (stäärbil)
+    ga: an Gabhar
+    gl: Capricornus
+    gv: y Goayr
+    hak: Mô-kiet-chho
+    he: גדי
+    hi: मकर तारामंडल
+    hr: Jarac
+    hu: Bak
+    hy: Այծեղջյուր
+    ia: Capricornus
+    id: Kaprikornus
+    ig: Capricornus
+    it: Capricorno
+    ja: やぎ座
+    jbo: kanba solgrixra
+    jv: Capricornus
+    ka: თხის რქა
+    kn: ಮಕರ ರಾಶಿ
+    ko: 염소자리
+    kw: Gaver
+    ky: Текечер
     la: Capricornus
     la_:
       genitive: Capricorni
-    de: Steinbock
+    lb: Capricornus
+    li: Steinbok
+    lt: Ožiaragis
+    lv: Mežāzis
+    mg: Adijady (antokon-kintana)
+    mhr: Ирказа
+    mk: Јарец
+    ml: മകരം
+    mr: मकर
+    ms: Kambing Duyung
+    my: မကာရ နက္ခတ်တာရာ
+    mzn: بزکله
+    nan: Soaⁿ-iûⁿ-chō
+    nap: Crapecuorno
+    nb: Steinbukken
+    nds: Steenbuck
+    nl: Steenbok
+    nn: Steinbukken
+    oc: Capricòrne
+    os: Сæгъысы (стъалыгуппар)
+    pcd: Madjet
+    pl: Gwiazdozbiór Koziorożca
+    pt: Capricornus
+    qu: Tupaturka
+    ro: Capricornul
+    ru: Козерог
+    sah: Чубуку
+    sh: Jarac
+    sk: Kozorožec
+    sl: Kozorog
+    sq: Bricjapi
+    sr: Јарац
+    sv: Stenbocken
+    sw: Jadi
+    th: กลุ่มดาวแพะทะเล
+    tr: Capricornus
+    tt: Җәди йолдызлыгы
+    udm: Сюрокеч
+    uk: Козоріг
+    ur: جدی
+    uz: Jadiy
+    vec: Capricorno
+    vi: Ma Kết
+    war: Capricornus
+    wuu: 摩羯座
+    yue: 摩羯座
+    zh: 摩羯座
+    zh-hans: 摩羯座
+    zh-hant: 摩羯座
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]"
-    - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus|Zodiac~Capricornus]]"
-    - "[[/_public/Astronomy/Star~Constellation/Zodiac~Capricornus.public|Zodiac~Capricornus.public]]"
-    - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Capricornus.internal|Zodiac~Capricornus.internal]]"
-    - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Capricornus.protect|Zodiac~Capricornus.protect]]"
-    - "[[/_private/Astronomy/Star~Constellation/Zodiac~Capricornus.private|Zodiac~Capricornus.private]]"
-    - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Capricornus.personal|Zodiac~Capricornus.personal]]"
-    - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Capricornus.secret|Zodiac~Capricornus.secret]]"
+  - '[[../../WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]'
+  - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus|Zodiac~Capricornus]]'
+  - '[[/_public/Astronomy/Star~Constellation/Zodiac~Capricornus.public|Zodiac~Capricornus.public]]'
+  - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Capricornus.internal|Zodiac~Capricornus.internal]]'
+  - '[[/_protect/Astronomy/Star~Constellation/Zodiac~Capricornus.protect|Zodiac~Capricornus.protect]]'
+  - '[[/_private/Astronomy/Star~Constellation/Zodiac~Capricornus.private|Zodiac~Capricornus.private]]'
+  - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Capricornus.personal|Zodiac~Capricornus.personal]]'
+  - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Capricornus.secret|Zodiac~Capricornus.secret]]'
 dv_has_name_la: Capricornus
 dv_has_name_la_genitive: Capricorni
 dv_has_name_de: Steinbock
 dv_is_same_as:
-  - "[[../../WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]"
-  - "[[/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus|Zodiac~Capricornus]]"
-  - "[[/_public/Astronomy/Star~Constellation/Zodiac~Capricornus.public|Zodiac~Capricornus.public]]"
-  - "[[/_internal/Astronomy/Star~Constellation/Zodiac~Capricornus.internal|Zodiac~Capricornus.internal]]"
-  - "[[/_protect/Astronomy/Star~Constellation/Zodiac~Capricornus.protect|Zodiac~Capricornus.protect]]"
-  - "[[/_private/Astronomy/Star~Constellation/Zodiac~Capricornus.private|Zodiac~Capricornus.private]]"
-  - "[[/_personal/Astronomy/Star~Constellation/Zodiac~Capricornus.personal|Zodiac~Capricornus.personal]]"
-  - "[[/_secret/Astronomy/Star~Constellation/Zodiac~Capricornus.secret|Zodiac~Capricornus.secret]]"
+- '[[../../WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]'
+- '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Capricornus|Zodiac~Capricornus]]'
+- '[[/_public/Astronomy/Star~Constellation/Zodiac~Capricornus.public|Zodiac~Capricornus.public]]'
+- '[[/_internal/Astronomy/Star~Constellation/Zodiac~Capricornus.internal|Zodiac~Capricornus.internal]]'
+- '[[/_protect/Astronomy/Star~Constellation/Zodiac~Capricornus.protect|Zodiac~Capricornus.protect]]'
+- '[[/_private/Astronomy/Star~Constellation/Zodiac~Capricornus.private|Zodiac~Capricornus.private]]'
+- '[[/_personal/Astronomy/Star~Constellation/Zodiac~Capricornus.personal|Zodiac~Capricornus.personal]]'
+- '[[/_secret/Astronomy/Star~Constellation/Zodiac~Capricornus.secret|Zodiac~Capricornus.secret]]'
 ---
-
 # [[Zodiac~Capricornus]] 
 
 SpocWebEntityId = `=this.dv_SpocWebEntityId` 

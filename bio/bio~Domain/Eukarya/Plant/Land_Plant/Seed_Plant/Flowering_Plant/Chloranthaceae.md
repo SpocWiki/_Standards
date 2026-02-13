@@ -1,9 +1,92 @@
 ---
 aliases:
-  - Chloranthaceae
+- Chloranthaceae
+- Chlorantusowe rostliny
+- clorantàcies
+- Họ Hoa sói
+- Klorantacoj
+- zelenokvetotvaré
+- zieleńcowce
+- žlutokvětovité
+- Хлорантові
+- Хлорантовые
+- כלורנתיים
+- عطروريات
+- كلورانطيه
+- วงศ์กระดูกไก่
+- センリョウ科
+- 金粟兰科
+- 金粟蘭科
+- 홀아비꽃대과
 title: Chloranthaceae
+has_id_wikidata: Q133208
+dv_has_:
+  name_:
+    an: Chloranthaceae
+    ar: عطروريات
+    arz: كلورانطيه
+    ast: Chloranthaceae
+    az: Chloranthaceae
+    bg: Chloranthaceae
+    bs: Chloranthaceae
+    ca: clorantàcies
+    ceb: Chloranthaceae
+    cs: žlutokvětovité
+    cy: Chloranthaceae
+    da: Chloranthaceae
+    de: Chloranthaceae
+    en: Chloranthaceae
+    eo: Klorantacoj
+    es: Chloranthaceae
+    et: Chloranthaceae
+    eu: Chloranthaceae
+    ext: Chloranthaceae
+    fi: Chloranthaceae
+    fr: Chloranthaceae
+    frr: Chloranthaceae
+    ga: Chloranthaceae
+    gl: Chloranthaceae
+    he: כלורנתיים
+    hr: Chloranthaceae
+    hsb: Chlorantusowe rostliny
+    hu: Chloranthaceae
+    ia: Chloranthaceae
+    id: Chloranthaceae
+    ie: Chloranthaceae
+    io: Chloranthaceae
+    it: Chloranthaceae
+    ja: センリョウ科
+    jv: Chloranthaceae
+    ko: 홀아비꽃대과
+    la: Chloranthaceae
+    mul: Chloranthaceae
+    nb: Chloranthaceae
+    nl: Chloranthaceae
+    oc: Chloranthaceae
+    pl: zieleńcowce
+    pt: Chloranthaceae
+    pt-br: Chloranthaceae
+    ro: Chloranthaceae
+    ru: Хлорантовые
+    sk: zelenokvetotvaré
+    sq: Chloranthaceae
+    sr: Chloranthaceae
+    sr-ec: Chloranthaceae
+    sr-el: Chloranthaceae
+    sv: Chloranthaceae
+    th: วงศ์กระดูกไก่
+    uk: Хлорантові
+    vi: Họ Hoa sói
+    vo: Chloranthaceae
+    war: Chloranthaceae
+    zh: 金粟兰科
+    zh-cn: 金粟兰科
+    zh-hans: 金粟兰科
+    zh-hant: 金粟蘭科
+    zh-hk: 金粟蘭科
+    zh-sg: 金粟兰科
+    zh-tw: 金粟蘭科
 ---
-
 # [[Chloranthaceae]] 
 ![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg))  ![Chloranthus japonicus](Chloranthaceae/Chloranthus_japonicus.jpg)
 

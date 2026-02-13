@@ -1,37 +1,239 @@
 ---
 aliases:
+- Afran agaman
+- Chū-jiân soán-te̍k
+- chọn lọc tự nhiên
+- dabiskā izlase
+- detholiad naturiol
+- dobór naturalny
+- doğal seçilim
+- Hautespen natural
+- Likas na pagpili
+- Looduslik valik
+- luonnonvalinta
+- Nachral silekshan
+- naravni izbor
+- natura selektado
+- Natural nga pagpili
+- natural selection
+- Naturala selektado
+- naturleg utval
+- naturlig seleksjon
+- naturlig selektion
+- naturligt urval
+- natuurkeuze
+- natuurlijke selectie
+- Natuurlike seleksie
+- natūralioji atranka
+- Netuurleke selèctie
+- Náttúruval
+- Pemilihan semula jadi
+- Prirodna selekcija
+- Prirodni odabir
+- přirozený výběr
+- roghnú nádúrtha
+- Sallqa akllay
+- Seleccion naturala
+- selecció natural
+- selección natural
+- Selectio naturalis
+- selecție naturală
+- Selekcija
+- Seleksi alam
+- Seleksionimi natyror
+- Seleksyon natirèl
+- Selektion
+- selezione naturale
+- seleção natural
+- Selèksi alam
+- Seléksi alam
+- sełesion naturałe
+- sélection naturelle
+- Séleksyon natirèl
+- Tabiiy tanlanish
+- természetes szelekció
+- Təbii seçmə
+- Uteuzi asilia
+- Çутçанталăкри суйлану
+- Φυσική επιλογή
+- Айылҕа сүүмэрдээһинэ
+- Байгалийн шалгарал
+- Естествен отбор
+- естественный отбор
+- Интихоби табиӣ
+- натуральны адбор
+- природна селекција
+- природний добір
+- табигый сайланыш
+- Табигый тандалуу –
+- Қозғаушы сұрыпталу
+- բնական ընտրություն
+- ברירה טבעית
+- נאטירלעכע סעלעקציע
+- اصطفاء طبيعي
+- انتخاب طبيعي
+- انتخاب طبیعی
+- طبیعي ټاکنه
+- طبیعی انتخاب
+- قدرتي انتخاب
+- قدرتی انتخاب
+- ھەڵبژاردنی سروشتی
+- नैसर्गिक निवड
+- प्राकृतिक चयन
+- प्राकृतिक ल्यया
+- प्राकृतिक वरण
+- প্রাকৃতিক নির্বাচন
+- ਕੁਦਰਤੀ ਛਾਂਟ
+- இயற்கைத் தேர்வு
+- సహజ ఎంపిక
+- ನೈಸರ್ಗಿಕ ಆಯ್ಕೆ
+- പ്രകൃതി നിർദ്ധാരണം
+- ස්වභාවික වරණය
+- การคัดเลือกโดยธรรมชาติ
+- ການຄັດເລືອກໂດຍທຳມະຊາດ
+- ბუნებრივი გადარჩევა
+- 天擇
+- 物競天擇
+- 自然选择
+- 自然選択説
+- 자연선택
 has_id_wikidata: Q43478
 has_cause:
-  - "[[_Standards/WikiData/WD~heredity,178694]]"
-  - "[[_Standards/WikiData/WD~genetic_variation,349856]]"
-  - "[[_Standards/WikiData/WD~biological_competition,45767]]"
+- '[[_Standards/WikiData/WD~heredity,178694]]'
+- '[[_Standards/WikiData/WD~genetic_variation,349856]]'
+- '[[_Standards/WikiData/WD~biological_competition,45767]]'
 facet_of:
-  - "[[_Standards/WikiData/WD~Darwinism,183493]]"
-  - "[[_Standards/WikiData/WD~modern_evolutionary_synthesis,337897]]"
-  - "[[_Standards/WikiData/WD~evolutionary_biology,840400]]"
+- '[[_Standards/WikiData/WD~Darwinism,183493]]'
+- '[[_Standards/WikiData/WD~modern_evolutionary_synthesis,337897]]'
+- '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
 described_by_source:
-  - "[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_by: "[[_Standards/WikiData/WD~evolutionary_biology,840400]]"
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
 different_from:
-  - "[[_Standards/WikiData/WD~artificial_selection,995745]]"
-  - "[[_Standards/WikiData/WD~selection,12888920]]"
-subclass_of: "[[_Standards/WikiData/WD~biological_selection,1094654]]"
-opposite_of: "[[_Standards/WikiData/WD~supernatural_selection,116783088]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Darwin,1035]]"
-part_of: "[[_Standards/WikiData/WD~evolution,1063]]"
-OmegaWiki_Defined_Meaning: "1100210"
+- '[[_Standards/WikiData/WD~artificial_selection,995745]]'
+- '[[_Standards/WikiData/WD~selection,12888920]]'
+subclass_of: '[[_Standards/WikiData/WD~biological_selection,1094654]]'
+opposite_of: '[[_Standards/WikiData/WD~supernatural_selection,116783088]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Darwin,1035]]'
+part_of: '[[_Standards/WikiData/WD~evolution,1063]]'
+OmegaWiki_Defined_Meaning: 1100210
 Library_of_Congress_Classification: QH375
 Commons_category: Natural selection
 PhilPapers_topic: natural-selection
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Darwin%20aged%2051.jpg
 Provenio_UUID: 61bceeec-d304-4d5e-b7a5-17511b66ba61
+dv_has_:
+  name_:
+    af: Natuurlike seleksie
+    an: Selección natural
+    ar: اصطفاء طبيعي
+    ary: انتخاب طبيعي
+    arz: انتخاب طبيعي
+    ast: selección natural
+    az: Təbii seçmə
+    ban: Seléksi alam
+    be: натуральны адбор
+    be-tarask: натуральны адбор
+    bg: Естествен отбор
+    bn: প্রাকৃতিক নির্বাচন
+    bs: Selekcija
+    ca: selecció natural
+    ckb: ھەڵبژاردنی سروشتی
+    cs: přirozený výběr
+    cv: Çутçанталăкри суйлану
+    cy: detholiad naturiol
+    da: naturlig selektion
+    de: Selektion
+    el: Φυσική επιλογή
+    en: natural selection
+    eo: natura selektado
+    es: selección natural
+    et: Looduslik valik
+    eu: Hautespen natural
+    fa: انتخاب طبیعی
+    fi: luonnonvalinta
+    fr: sélection naturelle
+    ga: roghnú nádúrtha
+    gcr: Séleksyon natirèl
+    gl: selección natural
+    he: ברירה טבעית
+    hi: प्राकृतिक वरण
+    hr: Prirodni odabir
+    ht: Seleksyon natirèl
+    hu: természetes szelekció
+    hy: բնական ընտրություն
+    id: Seleksi alam
+    io: Naturala selektado
+    is: Náttúruval
+    it: selezione naturale
+    ja: 自然選択説
+    jam: Nachral silekshan
+    jv: Selèksi alam
+    ka: ბუნებრივი გადარჩევა
+    kab: Afran agaman
+    kk: Қозғаушы сұрыпталу
+    kn: ನೈಸರ್ಗಿಕ ಆಯ್ಕೆ
+    ko: 자연선택
+    ky: Табигый тандалуу –
+    la: Selectio naturalis
+    li: Netuurleke selèctie
+    lo: ການຄັດເລືອກໂດຍທຳມະຊາດ
+    lt: natūralioji atranka
+    lv: dabiskā izlase
+    lzh: 天擇
+    mk: природна селекција
+    ml: പ്രകൃതി നിർദ്ധാരണം
+    mn: Байгалийн шалгарал
+    mr: नैसर्गिक निवड
+    ms: Pemilihan semula jadi
+    mzn: طبیعی انتخاب
+    nan: Chū-jiân soán-te̍k
+    nb: naturlig seleksjon
+    nds-nl: natuurkeuze
+    ne: प्राकृतिक चयन
+    new: प्राकृतिक ल्यया
+    nl: natuurlijke selectie
+    nn: naturleg utval
+    oc: Seleccion naturala
+    pa: ਕੁਦਰਤੀ ਛਾਂਟ
+    pl: dobór naturalny
+    ps: طبیعي ټاکنه
+    pt: seleção natural
+    qu: Sallqa akllay
+    ro: selecție naturală
+    ru: естественный отбор
+    sah: Айылҕа сүүмэрдээһинэ
+    sd: قدرتي انتخاب
+    sh: Prirodna selekcija
+    si: ස්වභාවික වරණය
+    sl: naravni izbor
+    sq: Seleksionimi natyror
+    sr: природна селекција
+    sv: naturligt urval
+    sw: Uteuzi asilia
+    ta: இயற்கைத் தேர்வு
+    te: సహజ ఎంపిక
+    tg: Интихоби табиӣ
+    th: การคัดเลือกโดยธรรมชาติ
+    tl: Likas na pagpili
+    tr: doğal seçilim
+    tt: табигый сайланыш
+    uk: природний добір
+    ur: قدرتی انتخاب
+    uz: Tabiiy tanlanish
+    vec: sełesion naturałe
+    vi: chọn lọc tự nhiên
+    war: Natural nga pagpili
+    wuu: 自然选择
+    yi: נאטירלעכע סעלעקציע
+    yue: 物競天擇
+    zh: 自然选择
 ---
-
 # [[Natural_Selection]] 
 
 #is_/same_as :: [[WD~Natural_selection,43478]] 

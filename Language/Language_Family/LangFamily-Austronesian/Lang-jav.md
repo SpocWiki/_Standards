@@ -1,12 +1,262 @@
 ---
 aliases:
-  - Javanese
-  - Lang-jav
+- an Iáivis
+- bahasa Jawa
+- Bahaso Jawa
+- Basa Jawa
+- Bhâsa Jhâbâ
+- Boros Jawa
+- Cava dili
+- Cawki
+- Cháu-ôa-ngî
+- djava
+- Fiteny javaney
+- giavanese
+- giavanisi
+- Gjuha xhavaneze
+- Habanes
+- isi-Javanese
+- jaava
+- Jaava keel
+- Jafaneg
+- Jaku Jawa
+- java lingvo
+- Javaans
+- javaeg
+- javanais
+- Javaneesesch
+- Javanese
+- Javanese bhasa
+- Javanesi
+- javanesisk
+- javanesiska
+- Javanisch
+- Javanski jezik
+- javanès
+- javanés
+- javanês
+- javanščina
+- Javera
+- javiečių kalba
+- javiešu valoda
+- javánština
+- Javíska
+- Jawa
+- Jawa-gí
+- Jawa-ngṳ̄
+- Jawaans Spriik
+- jávai
+- jávčina
+- język jawajski
+- Kijava
+- Lang-jav
+- Lenga giavanèisa
+- Lengua giavaneise
+- limba javaneză
+- lingua Iavensis
+- Lingua xavanesa
+- Pinulongang Habanes
+- tiếng Java
+- toki Sowa
+- Wikang Habanes
+- Xavanés
+- Yafeänapük
+- Yava dili
+- Yava tili
+- Yawa simi
+- zavanezo
+- Èdè Java
+- Ιαβαϊκή γλώσσα
+- јавански јазик
+- јавански језик
+- Дьааба тыла
+- забони ҷоваӣ
+- Явæйаг æвзаг
+- Ява кыв
+- ява теле
+- яванская мова
+- Явански език
+- яванский язык
+- яванська мова
+- Ճավայերեն
+- Ճաւայերէն
+- ג'אווה
+- الجاوي
+- الجاوية
+- الجاويه
+- جاوانی
+- جاوايي ژبه
+- جاوهای
+- جاوی
+- زبان جاوهای
+- زمانی جاوایی
+- ياۋا تىلى
+- जाभानिज भाषा
+- जावा भाषा
+- जावानिज भाषा
+- जावानीस भाषा
+- बासा जावा
+- জাভা ভাষা
+- জাভাই ভাষা
+- ਜਾਵਾਨੀ
+- சாவகம்
+- ಜಾವಾದ ಭಾಷೆ
+- ജാവനീസ് ഭാഷ
+- ภาษาชวา
+- ဂျာဗား ဘာသာစကား
+- იავური ენა
+- იავური ნინა
+- ᱡᱟᱵᱷᱟᱱᱤᱥ ᱯᱟᱹᱨᱥᱤ
+- ジャワ語
+- 爪哇文
+- 爪哇語
+- 爪哇语
+- 자와어
 tags:
-  - Lang/jv
+- Lang/jv
 type: Lang
+has_id_wikidata: Q33549
+dv_has_:
+  name_:
+    ace: Jawa
+    aeb-arab: الجاوي
+    af: Javaans
+    anp: जावानीस भाषा
+    ar: الجاوية
+    arz: الجاويه
+    as: জাভা ভাষা
+    ast: Xavanés
+    az: Yava dili
+    ba: Ява теле
+    ban: Jawa
+    bcl: Habanes
+    be: яванская мова
+    be-tarask: яванская мова
+    bew: Basa Jawa
+    bg: Явански език
+    bjn: Jawa
+    bn: জাভাই ভাষা
+    br: javaeg
+    bug: Jawa
+    ca: javanès
+    cdo: Jawa-ngṳ̄
+    ceb: Pinulongang Habanes
+    ckb: زمانی جاوایی
+    cs: javánština
+    cy: Jafaneg
+    da: javanesisk
+    de: Javanisch
+    de-ch: Javanisch
+    diq: Cawki
+    dtp: Boros Jawa
+    el: Ιαβαϊκή γλώσσα
+    en: Javanese
+    en-ca: Javanese
+    en-gb: Javanese
+    eo: java lingvo
+    es: javanés
+    et: Jaava keel
+    eu: Javera
+    fa: زبان جاوهای
+    fi: jaava
+    fr: javanais
+    frr: Jawaans Spriik
+    ga: an Iáivis
+    gl: Lingua xavanesa
+    hak: Cháu-ôa-ngî
+    he: ג'אווה
+    hi: जावा भाषा
+    hif: Javanese bhasa
+    hr: javanski jezik
+    hu: jávai
+    hy: Ճավայերեն
+    hyw: Ճաւայերէն
+    iba: Jaku Jawa
+    id: bahasa Jawa
+    ie: Javanesi
+    ig: Javanese
+    ilo: Habanes
+    is: Javíska
+    it: giavanese
+    ja: ジャワ語
+    jv: Jawa
+    ka: იავური ენა
+    kge: Bahasa Jawa
+    kn: ಜಾವಾದ ಭಾಷೆ
+    ko: 자와어
+    kv: Ява кыв
+    la: lingua Iavensis
+    lb: Javaneesesch
+    lfn: djava
+    lij: Lengua giavaneise
+    lt: javiečių kalba
+    lv: javiešu valoda
+    lzh: 爪哇語
+    mad: Bhâsa Jhâbâ
+    map-bms: Jawa
+    mg: Fiteny javaney
+    min: Bahaso Jawa
+    mk: јавански јазик
+    ml: ജാവനീസ് ഭാഷ
+    mr: बासा जावा
+    ms: bahasa Jawa
+    my: ဂျာဗား ဘာသာစကား
+    mzn: جاوهای
+    nan: Jawa-gí
+    nb: javanesisk
+    ne: जाभानिज भाषा
+    new: जावानिज भाषा
+    nl: Javaans
+    nn: javanesisk
+    oc: Javanés
+    os: Явæйаг æвзаг
+    pa: ਜਾਵਾਨੀ
+    pl: język jawajski
+    pms: Lenga giavanèisa
+    pnb: جاوانی
+    ps: جاوايي ژبه
+    pt: javanês
+    qu: Yawa simi
+    ro: limba javaneză
+    ru: яванский язык
+    sah: Дьааба тыла
+    sat: ᱡᱟᱵᱷᱟᱱᱤᱥ ᱯᱟᱹᱨᱥᱤ
+    scn: giavanisi
+    sco: Javanese
+    sh: Javanski jezik
+    sk: jávčina
+    sl: javanščina
+    so: Javanese
+    sq: Gjuha xhavaneze
+    sr: јавански језик
+    su: Jawa
+    sv: javanesiska
+    sw: Kijava
+    ta: சாவகம்
+    tg: забони ҷоваӣ
+    th: ภาษาชวา
+    tl: Wikang Habanes
+    tok: toki Sowa
+    tr: Cava dili
+    tt: ява теле
+    ug: ياۋا تىلى
+    uk: яванська мова
+    ur: جاوی
+    uz: Yava tili
+    vec: zavanezo
+    vi: tiếng Java
+    vo: Yafeänapük
+    wuu: 爪哇语
+    xmf: იავური ნინა
+    yo: Èdè Java
+    yue: 爪哇文
+    zh: 爪哇語
+    zh-cn: 爪哇语
+    zh-hans: 爪哇语
+    zh-hant: 爪哇語
+    zh-tw: 爪哇語
+    zu: isi-Javanese
 ---
-
 # [[Lang-jav]] 
 
 [SpocWebEntityId:: 464 ]

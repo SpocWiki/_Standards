@@ -1,4 +1,209 @@
-
+---
+has_id_wikidata: Q34394
+dv_has_:
+  name_:
+    af: geloof
+    ar: عقيدة
+    as: বিশ্বাস
+    ast: creyencia
+    az: inanc
+    ban: kapercayaan
+    bar: Glaum
+    be: вера
+    be-tarask: вера
+    bg: вяра
+    bn: বিশ্বাস
+    br: kredenn
+    bs: vjerovanje
+    ca: creença
+    ceb: tinuuhan
+    ckb: باوەڕ
+    co: fedi
+    cs: víra
+    cv: шанчăк
+    cy: credo
+    da: tro
+    de: Glauben
+    de-ch: Glauben
+    diq: bawermend
+    dtp: kotumbayaan
+    el: πίστη
+    en: belief
+    en-ca: belief
+    en-gb: belief
+    eo: kredo
+    es: creencia
+    et: uskumus
+    eu: sinesmen
+    fa: اعتقاد
+    fi: uskomus
+    fr: croyance
+    ga: creideamh
+    gan: 信仰
+    gcr: krwayans
+    gl: crenza
+    got: "\U00010332\U00010330\U0001033B\U00010330\U0001033F\U00010331\U00010334\U00010339\U0001033D\U00010343"
+    gsw: Glaube
+    he: אמונה
+    hi: विश्वास
+    hr: vjerovanje
+    hu: hit
+    hy: հավատք
+    ia: credentia
+    id: keyakinan
+    is: trú
+    it: credenza
+    ja: 信念
+    jam: biliif
+    kk: сену
+    ko: 믿음
+    ku: bawerî
+    ltg: ticeiba
+    lv: pārliecība
+    mg: finoana
+    mk: верба
+    ml: വിശ്വാസം
+    mn: итгэл бишрэл
+    ms: kepercayaan
+    ms-arab: کڤرچاياءن
+    nan: sìn-liām
+    nb: tro
+    nds-nl: geleuven
+    nl: geloof
+    nn: tru
+    nrm: crianche
+    oc: cresença
+    pa: ਵਿਸ਼ਵਾਸ
+    pl: wiara
+    ps: باور
+    pt: crença
+    pt-br: crença
+    ro: credință
+    ru: вера
+    rue: віра
+    sat: ᱵᱤᱥᱣᱟᱥ
+    scn: cridenza
+    sco: belief
+    sh: vjerovanje
+    sl: prepričanje
+    sn: chitendero
+    so: ictiqaad
+    sq: besimi
+    sr: уверење
+    sv: tro
+    ta: நம்பிக்கை
+    tg: бовар
+    th: ความเชื่อ
+    tl: paniniwala
+    tly: imon
+    tr: inanç
+    tt: иман
+    tt-cyrl: иман
+    ug: ئېتىقاد
+    uk: віра
+    ur: عقیدہ
+    uz: e’tiqod
+    vec: credensa
+    vi: lòng tin
+    wuu: 信念
+    yi: גלויבן
+    yue: 信念
+    zh: 信念
+    zh-cn: 信念
+    zh-hant: 信念
+    zh-hk: 信念
+    zh-tw: 信念
+aliases:
+- bawermend
+- bawerî
+- belief
+- besimi
+- biliif
+- chitendero
+- credensa
+- credentia
+- credenza
+- credință
+- credo
+- creencia
+- creença
+- creideamh
+- crenza
+- crença
+- cresença
+- creyencia
+- crianche
+- cridenza
+- croyance
+- e’tiqod
+- fedi
+- finoana
+- geleuven
+- geloof
+- Glaube
+- Glauben
+- Glaum
+- hit
+- ictiqaad
+- imon
+- inanc
+- inanç
+- kapercayaan
+- kepercayaan
+- keyakinan
+- kotumbayaan
+- kredenn
+- kredo
+- krwayans
+- lòng tin
+- paniniwala
+- prepričanje
+- pārliecība
+- sinesmen
+- sìn-liām
+- ticeiba
+- tinuuhan
+- tro
+- tru
+- trú
+- uskomus
+- uskumus
+- vjerovanje
+- víra
+- wiara
+- πίστη
+- бовар
+- віра
+- вера
+- верба
+- вяра
+- иман
+- итгэл бишрэл
+- сену
+- уверење
+- шанчăк
+- հավատք
+- אמונה
+- גלויבן
+- ئېتىقاد
+- اعتقاد
+- باور
+- باوەڕ
+- عقيدة
+- عقیدہ
+- کڤرچاياءن
+- विश्वास
+- বিশ্বাস
+- ਵਿਸ਼ਵਾਸ
+- நம்பிக்கை
+- വിശ്വാസം
+- ความเชื่อ
+- ᱵᱤᱥᱣᱟᱥ
+- 信仰
+- 信念
+- 믿음
+- "\U00010332\U00010330\U0001033B\U00010330\U0001033F\U00010331\U00010334\U00010339\U0001033D\U00010343"
+---
 ## [[Belief]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~belief,34394]] 

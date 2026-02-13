@@ -1,53 +1,98 @@
 ---
 aliases:
-  - Artemis
+- Artaimís
+- Artemi
+- Artemida
+- Artemide
+- Artemidė
+- Artemis
+- Artemisa
+- Artemiso
+- Artemisz
+- Artemîs
+- Artemīda
+- Artèmis
+- Artémis
+- Àrtemis
+- Ártemis
+- Άρτεμις
+- Артеміда
+- Артемидæ
+- Артемида
+- Артэміда
+- Ортемис
+- Արտեմիս
+- ארטמיס
+- آرتميس
+- آرتمیدا
+- آرتمیس
+- آرتیمس
+- أرتميس
+- ارتميس
+- आर्टेमिस
+- আর্তেমিস
+- আৰ্টিমিচ
+- ਆਰਟੇਮਿਸ
+- ஆர்ட்டெமிஸ்
+- ಆರ್ಟೆಮಿಸ್
+- ആർട്ടിമിസ്
+- ආර්ටිමිස්
+- อาร์เทมิส
+- არტემიდა
+- Ἄρτεμις
+- アルテミス
+- 阿提米絲
+- 阿提蜜絲
+- 阿耳忒弥斯
+- ꯑꯔꯇꯦꯃꯤꯁ
+- 아르테미스
 has_id_wikidata: Q39503
 name_in_native_language: Ἄρτεμις
 part_of: '[[_Standards/WikiData/WD~Twelve_Olympians,101609]]'
 mother: '[[_Standards/WikiData/WD~Leto,103107]]'
 epithet:
-  - '[[_Standards/WikiData/WD~Diana,132543]]'
-  - '[[_Standards/WikiData/WD~Arduinna,655419]]'
-  - '[[_Standards/WikiData/WD~Eleutheria,5359493]]'
-  - '[[_Standards/WikiData/WD~Hymnia,106447518]]'
+- '[[_Standards/WikiData/WD~Diana,132543]]'
+- '[[_Standards/WikiData/WD~Arduinna,655419]]'
+- '[[_Standards/WikiData/WD~Eleutheria,5359493]]'
+- '[[_Standards/WikiData/WD~Hymnia,106447518]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Diana,132543]]'
-  - '[[_Standards/WikiData/WD~Artio,713105]]'
-  - '[[_Standards/WikiData/WD~Moon,2255902]]'
-  - '[[_Standards/WikiData/WD~Anahit,2463867]]'
-  - '[[_Standards/WikiData/WD~Awilix,4830058]]'
+- '[[_Standards/WikiData/WD~Diana,132543]]'
+- '[[_Standards/WikiData/WD~Artio,713105]]'
+- '[[_Standards/WikiData/WD~Moon,2255902]]'
+- '[[_Standards/WikiData/WD~Anahit,2463867]]'
+- '[[_Standards/WikiData/WD~Awilix,4830058]]'
 different_from: '[[_Standards/WikiData/WD~Themis,159168]]'
 place_of_birth: '[[_Standards/WikiData/WD~Cynthus,285086]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 worshipped_by: '[[_Standards/WikiData/WD~Ancient_Greek_religion,855270]]'
 occupation:
-  - '[[_Standards/WikiData/WD~archer,890527]]'
-  - '[[_Standards/WikiData/WD~hunter,1714828]]'
+- '[[_Standards/WikiData/WD~archer,890527]]'
+- '[[_Standards/WikiData/WD~hunter,1714828]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~lunar_deity,1569856]]'
-  - '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
-  - '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
+- '[[_Standards/WikiData/WD~lunar_deity,1569856]]'
+- '[[_Standards/WikiData/WD~Greek_deity,22989102]]'
+- '[[_Standards/WikiData/WD~Olympian_god,113103481]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 present_in_work: '[[_Standards/WikiData/WD~Hades,59756366]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Statue_of_Artemis_from_Ostia,_PMT_40,126210379]]'
-  - '[[_Standards/WikiData/WD~Artemis_Colonna_type,_PMT_174,126210396]]'
-  - '[[_Standards/WikiData/WD~Artemis_from_Palatino,126210729]]'
-  - '[[_Standards/WikiData/WD~Artemis_of_Ephesus_(Albani_collection),126215145]]'
-  - '[[_Standards/WikiData/WD~Artemis_from_a_Hellenistic_original,126364379]]'
+- '[[_Standards/WikiData/WD~Statue_of_Artemis_from_Ostia,_PMT_40,126210379]]'
+- '[[_Standards/WikiData/WD~Artemis_Colonna_type,_PMT_174,126210396]]'
+- '[[_Standards/WikiData/WD~Artemis_from_Palatino,126210729]]'
+- '[[_Standards/WikiData/WD~Artemis_of_Ephesus_(Albani_collection),126215145]]'
+- '[[_Standards/WikiData/WD~Artemis_from_a_Hellenistic_original,126364379]]'
 father: '[[_Standards/WikiData/WD~Zeus,34201]]'
 sibling: '[[_Standards/WikiData/WD~Apollo,37340]]'
 Commons_category: Artemis
@@ -55,12 +100,125 @@ Hederich_encyclopedia_article: Artemis
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Artemis%20of%20Ephesus.jpg
 Krugosvet_article: kultura_i_obrazovanie/religiya/APOLLON_I_ARTEMIDA.html
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-Art%C3%A9mis.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-Ionenlaser-%CE%86%CF%81%CF%84%CE%B5%CE%BC%CE%B9%CF%82.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-Art%C3%A9mis.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129%20%28gre%29-Ionenlaser-%CE%86%CF%81%CF%84%CE%B5%CE%BC%CE%B9%CF%82.wav
 P8189: 987007334015605171
 Royal_Academy_new_identifier: artemis-greek-deity
+dv_has_:
+  name_:
+    af: Artemis
+    an: Artemisa
+    ar: أرتميس
+    arz: ارتميس
+    as: আৰ্টিমিচ
+    ast: Artemisa
+    az: Artemida
+    azb: آرتمیدا
+    ba: Артемида
+    bar: Artemis
+    bcl: Artemis
+    be: Артэміда
+    be-tarask: Артэміда
+    bg: Артемида
+    bn: আর্তেমিস
+    br: Artemis
+    bs: Artemida
+    ca: Àrtemis
+    cs: Artemis
+    cv: Артемида
+    cy: Artemis
+    da: Artemis
+    de: Artemis
+    de-ch: Artemis
+    el: Άρτεμις
+    en: Artemis
+    en-ca: Artemis
+    en-gb: Artemis
+    eo: Artemiso
+    es: Artemisa
+    et: Artemis
+    eu: Artemisa
+    fa: آرتمیس
+    fi: Artemis
+    fr: Artémis
+    ga: Artaimís
+    gl: Artemisa
+    grc: Ἄρτεμις
+    gsw: Artemis
+    he: ארטמיס
+    hi: आर्टेमिस
+    hr: Artemida
+    hu: Artemisz
+    hy: Արտեմիս
+    hyw: Արտեմիս
+    ia: Artemis
+    id: Artemis
+    ig: Artemis
+    io: Artemis
+    is: Artemis
+    it: Artemide
+    ja: アルテミス
+    jv: Artemis
+    ka: არტემიდა
+    kk: Артемида
+    kn: ಆರ್ಟೆಮಿಸ್
+    ko: 아르테미스
+    ks: آرتمیس
+    ku: Artemîs
+    ku-latn: Artemîs
+    ky: Артемида
+    la: Artemis
+    lb: Artemis
+    lt: Artemidė
+    lv: Artemīda
+    mk: Артемида
+    ml: ആർട്ടിമിസ്
+    mni: ꯑꯔꯇꯦꯃꯤꯁ
+    mr: आर्टेमिस
+    ms: Artemis
+    nan: Artemis
+    nb: Artemis
+    nds: Artemis
+    nl: Artemis
+    nn: Artemis
+    oc: Artèmis
+    os: Артемидæ
+    pa: ਆਰਟੇਮਿਸ
+    pl: Artemida
+    pnb: آرتیمس
+    pt: Ártemis
+    pt-br: Ártemis
+    ro: Artemis
+    ru: Артемида
+    sco: Artemis
+    sd: آرتميس
+    sh: Artemida
+    si: ආර්ටිමිස්
+    sk: Artemis
+    sl: Artemida
+    sq: Artemisa
+    sr: Артемида
+    sv: Artemis
+    sw: Artemi
+    ta: ஆர்ட்டெமிஸ்
+    tg: Ортемис
+    th: อาร์เทมิส
+    tl: Artemis
+    tr: Artemis
+    tt: Artemida
+    uk: Артеміда
+    ur: آرتمیس
+    uz: Artemida
+    vep: Artemida
+    vi: Artemis
+    war: Artemis
+    wo: Artemis
+    wuu: 阿耳忒弥斯
+    yue: 阿提蜜絲
+    zh: 阿耳忒弥斯
+    zh-hans: 阿耳忒弥斯
+    zh-tw: 阿提米絲
 ---
-
 # [[Artemis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Artemis,39503|WD~Artemis,39503]]

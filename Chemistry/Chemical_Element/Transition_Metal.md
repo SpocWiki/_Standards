@@ -1,48 +1,229 @@
 ---
 aliases:
-  - d-block
-  - Transition_Metal
-  - Transition Metal
+- alkan tremenyans
+- Auergungsmetal
+- Badalte dhaatu
+- binjimkle
+- d-block
+- elementi di transizione
+- Elfen drosiannol
+- Euvergangsmetaal
+- geçiş metali
+- Guó-dô gĭng-sṳ̆k
+- hliðarmálmur
+- innskuddsmetall
+- Iwwergangsmetall
+- Keçid metallar
+- kim loại chuyển tiếp
+- Ko-thu kîm-su̍k
+- Kòe-tō͘ kim-sio̍k
+- logam peralihan
+- Logam transisi
+- Meatailt trastach
+- Metai de transizion
+- Metal de transicion
+- Metal de transición
+- metal de transição
+- metal de tranziție
+- Metal tranzisyon entèn
+- metale przejściowe
+- Metali ya mpito
+- metall de transició
+- metalla transitionis
+- metallo de transition
+- Metalê ravêrdışi
+- miotal trasdultach
+- mitaddu di transizzioni
+- métal de transition
+- Nhangande Dzakadarikira
+- oorgangsmetale
+- overgangsmetaal
+- overgangsmetal
+- overgangsmetall
+- Panghantar listrik
+- pereinamieji metalai
+- prechodný prvok
+- prehodni element
+- prelazni metal
+- Prelazni metali
+- prijelazni metali
+- pārejas metāls
+- přechodný kov
+- siirdemetall
+- siirtymämetalli
+- sirdâšemmeetaal
+- transirmetalo
+- Transition Metal
+- Transitional Metal
+- Transition_Metal
+- Trantsizio-metal
+- átmenetifémek
+- Övergangselement
+- övergångsmetall
+- Übergangsmetalle
+- Στοιχεία μετάπτωσης
+- Ауыспалы металдар
+- Куçăмлă металсем
+- пераходны метал
+- пераходны мэтал
+- перехідні метали
+- переходные металлы
+- прелазни метал
+- преодни метали
+- Преходни метали
+- Шилжилтийн металл
+- Անցումային տարրեր
+- איבערגאנג מעטאל
+- מתכות מעבר
+- فلز انتقالي
+- فلز واسطه
+- لوݢم ڤراليهن
+- संक्रमण धातु
+- অবস্থান্তর ধাতু
+- ਅੰਤਰਕਾਲੀ ਧਾਤਾਂ
+- தாண்டல் உலோகங்கள்
+- സംക്രമണ ലോഹം
+- โลหะทรานซิชัน
+- 过渡金属
+- 過渡金屬
+- 遷移元素
+- 전이 금속
 has_id_wikidata: Q19588
 has_part_s_:
-  - "[[_Standards/WikiData/WD~d_block,214503]]"
-  - "[[_Standards/WikiData/WD~f_block,214680]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-opposite_of: "[[_Standards/WikiData/WD~main_group,428830]]"
+- '[[_Standards/WikiData/WD~d_block,214503]]'
+- '[[_Standards/WikiData/WD~f_block,214680]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+opposite_of: '[[_Standards/WikiData/WD~main_group,428830]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~simple_substance,2512777]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 OmegaWiki_Defined_Meaning: 3841
 Dewey_Decimal_Classification: 546.6
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Coloured-transition-metal-solutions.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Transition%20Metals%20Periodic%20table.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Coloured-transition-metal-solutions.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Transition%20Metals%20Periodic%20table.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Transition%20metal%20oxidation%20states.svg
 UMLS_CUI: C0682906
 MeSH_tree_code: D01.268.956
 Commons_category: Transition metals
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Transition_metal,19588]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Transition_Metal|Transition_Metal]]"
-    - "[[/_public/Chemistry/Chemical_Element/Transition_Metal.public|Transition_Metal.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Transition_Metal.internal|Transition_Metal.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Transition_Metal.protect|Transition_Metal.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Transition_Metal.private|Transition_Metal.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Transition_Metal.personal|Transition_Metal.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Transition_Metal.secret|Transition_Metal.secret]]"
+  - '[[../../WikiData/WD~Transition_metal,19588]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Transition_Metal|Transition_Metal]]'
+  - '[[/_public/Chemistry/Chemical_Element/Transition_Metal.public|Transition_Metal.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Transition_Metal.internal|Transition_Metal.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Transition_Metal.protect|Transition_Metal.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Transition_Metal.private|Transition_Metal.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Transition_Metal.personal|Transition_Metal.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Transition_Metal.secret|Transition_Metal.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Transition_metal,19588]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Transition_Metal|Transition_Metal]]"
-  - "[[/_public/Chemistry/Chemical_Element/Transition_Metal.public|Transition_Metal.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Transition_Metal.internal|Transition_Metal.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Transition_Metal.protect|Transition_Metal.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Transition_Metal.private|Transition_Metal.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Transition_Metal.personal|Transition_Metal.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Transition_Metal.secret|Transition_Metal.secret]]"
+- '[[../../WikiData/WD~Transition_metal,19588]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Transition_Metal|Transition_Metal]]'
+- '[[/_public/Chemistry/Chemical_Element/Transition_Metal.public|Transition_Metal.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Transition_Metal.internal|Transition_Metal.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Transition_Metal.protect|Transition_Metal.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Transition_Metal.private|Transition_Metal.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Transition_Metal.personal|Transition_Metal.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Transition_Metal.secret|Transition_Metal.secret]]'
+dv_has_:
+  name_:
+    af: oorgangsmetale
+    an: Metal de transición
+    ar: فلز انتقالي
+    ast: Metal de transición
+    az: Keçid metallar
+    ban: Logam transisi
+    be: пераходны метал
+    be-tarask: пераходны мэтал
+    bg: Преходни метали
+    bn: অবস্থান্তর ধাতু
+    bs: prelazni metal
+    ca: metall de transició
+    cdo: Guó-dô gĭng-sṳ̆k
+    cs: přechodný kov
+    cv: Куçăмлă металсем
+    cy: Elfen drosiannol
+    da: overgangsmetal
+    de: Übergangsmetalle
+    diq: Metalê ravêrdışi
+    el: Στοιχεία μετάπτωσης
+    en: transition metal
+    eo: transirmetalo
+    es: metal de transición
+    et: siirdemetall
+    eu: Trantsizio-metal
+    fa: فلز واسطه
+    fi: siirtymämetalli
+    fr: métal de transition
+    frr: Auergungsmetal
+    ga: miotal trasdultach
+    gd: Meatailt trastach
+    gl: metal de transición
+    hak: Ko-thu kîm-su̍k
+    he: מתכות מעבר
+    hi: संक्रमण धातु
+    hif: Badalte dhaatu
+    hr: prijelazni metali
+    ht: Metal tranzisyon entèn
+    hu: átmenetifémek
+    hy: Անցումային տարրեր
+    ia: metallo de transition
+    id: Logam transisi
+    is: hliðarmálmur
+    it: elementi di transizione
+    ja: 遷移元素
+    jbo: binjimkle
+    jv: Logam transisi
+    kk: Ауыспалы металдар
+    ko: 전이 금속
+    kw: alkan tremenyans
+    la: metalla transitionis
+    lb: Iwwergangsmetall
+    li: Euvergangsmetaal
+    lmo: Metai de transizion
+    lt: pereinamieji metalai
+    lv: pārejas metāls
+    lzh: 過渡金屬
+    min: Panghantar listrik
+    mk: преодни метали
+    ml: സംക്രമണ ലോഹം
+    mn: Шилжилтийн металл
+    ms: logam peralihan
+    ms-arab: لوݢم ڤراليهن
+    my: Transition metal
+    nan: Kòe-tō͘ kim-sio̍k
+    nb: innskuddsmetall
+    nds: Övergangselement
+    nl: overgangsmetaal
+    nn: overgangsmetall
+    oc: Metal de transicion
+    pa: ਅੰਤਰਕਾਲੀ ਧਾਤਾਂ
+    pl: metale przejściowe
+    pt: metal de transição
+    ro: metal de tranziție
+    ru: переходные металлы
+    scn: mitaddu di transizzioni
+    sh: Prelazni metali
+    sk: prechodný prvok
+    sl: prehodni element
+    smn: sirdâšemmeetaal
+    sn: Nhangande Dzakadarikira
+    so: Transitional Metal
+    sr: прелазни метал
+    sr-ec: прелазни метал
+    sv: övergångsmetall
+    sw: Metali ya mpito
+    ta: தாண்டல் உலோகங்கள்
+    th: โลหะทรานซิชัน
+    tr: geçiş metali
+    uk: перехідні метали
+    vi: kim loại chuyển tiếp
+    wuu: 过渡金属
+    yi: איבערגאנג מעטאל
+    yue: 過渡金屬
+    zh: 过渡金属
 ---
-
 # [[Transition_Metal]] 
 
 #is_/same_as :: [[WD~Transition_metal,19588]] 

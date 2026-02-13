@@ -1,72 +1,550 @@
 ---
 aliases:
-  - Brot
-  - Pain
-  - Bread
+- abolo
+- achicha
+- aran
+- arran
+- arán
+- aɣrum
+- aɣṛum
+- bara
+- bared
+- bod
+- bohobe
+- Borebori
+- boroboro
+- Borotho
+- brauð
+- Bread
+- bred
+- brede
+- breid
+- breyð
+- Brod
+- brodo
+- broed
+- brood
+- Broot
+- Brot
+- Brout
+- Bruad
+- Brut
+- bröd
+- brød
+- bukë
+- buri
+- buuru
+- bánh mì
+- bááh
+- bôle
+- bɛɖɛɛ̀
+- chingwa
+- chleb
+- chlieb
+- chlyb
+- chléb
+- chlěb
+- daabboo
+- dipen
+- douna
+- duona
+- ekmek
+- faraoa
+- gaqambo
+- gurasa
+- hleb
+- hljeb
+- hlāf
+- iffiaq
+- isinkwa
+- karan-on
+- kenyér
+- klěb
+- kpɔnɔ
+- kruh
+- kóhkonêhëö'o
+- laejpie
+- leib
+- leiby
+- leipä
+- leiʹbb
+- láibi
+- límpa
+- maaro
+- madrai
+- maize
+- Manrho
+- mbujape
+- mburu
+- mien-pâu
+- Mienhbau
+- Miêng-bău
+- mkate
+- mofo
+- mugate
+- Nan
+- nanba
+- non
+- ogi
+- pa
+- paano
+- Pain
+- palaoa
+- pan
+- pane
+- pani
+- panis
+- pano
+- parāoa
+- paun
+- pen
+- pháng
+- ppane
+- punniq
+- pwin
+- pâine
+- pâni
+- pão
+- rooti
+- roti
+- t'ant'a
+- t'anta
+- tcipa
+- tinapay
+- umugati
+- Umukate
+- çörek
+- çörək
+- çăкăр
+- ötmek
+- ħobż
+- ψωμί
+- ψωμίν
+- ётмек
+- бепиг
+- дзул
+- икмәк
+- ипи
+- килиэп
+- киндӹ
+- кши
+- леб
+- маькх
+- мгьал
+- нан
+- нон
+- нянь
+- талх
+- талхан
+- фу
+- Хлєб
+- хліб
+- хлїб
+- хлеб
+- хляб
+- хлѣбъ
+- өдмг
+- հաց
+- հացին գիւտը
+- ברויט
+- לחם
+- לחמא
+- اكمك
+- بریڈ
+- خبز
+- روتي
+- روٹی
+- عيش
+- نان
+- چؤرک
+- ډوډۍ
+- ڊبل روٽي
+- डबलरोटी
+- पाव
+- मरी
+- रोटी
+- পাউৰুটী
+- রুটি
+- ਬਰੈਡ
+- રોટલી
+- ପାଓରୁଟୀ
+- வெதுப்பி
+- రొట్టె
+- ಬ್ರೆಡ್
+- റൊട്ടി
+- පාන්
+- ขนมปัง
+- ເຂົ້າຈີ່
+- နံပြား
+- ပေါင်မုန့်
+- პური
+- ዳቦ
+- ᎦᏚ
+- ᐲᐧᓭᐋᐃᐦᑯᓈᐤ
+- ᕿᖂᔭᖅ
+- នំប៉័ង
+- ᱯᱤᱴᱷᱟ.
+- ἄρτος
+- ⴰⵖⵔⵓⵎ
+- パン
+- 包
+- 面包
+- 麪包
+- 麭
+- 麵包
+- ꠟꠥꠚ
+- ꯇꯜ
+- 빵
+- "\U00010337\U0001033B\U00010330\U00010339\U00010346\U00010343"
 has_id_wikidata: Q7802
 Amazon_com_browse_node:
-  - 16317251
-  - 18776870011
+- 16317251
+- 18776870011
 carbon_footprint: 0.6
 Commons_category: Bread
 Commons_gallery: Bread
 Danbooru_tag: bread
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Bread,1709565]]"
-  - "[[_Standards/WikiData/WD~food,2095]]"
+- '[[_Standards/WikiData/WD~Bread,1709565]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 EPPO_Code: YBRED
-fabrication_method: "[[_Standards/WikiData/WD~breadmaking,3063799]]"
+fabrication_method: '[[_Standards/WikiData/WD~breadmaking,3063799]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~flour,36465]]"
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~flour,36465]]'
 has_time_started: -30000
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Home%20made%20sour%20dough%20bread.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Baguettes%20-%20stonesoup.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ruisleip%C3%A4-limppu%20reik%C3%A4leip%C3%A4%20reissumies%20hapankorppu-1.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Assorted%20bread.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Home%20made%20sour%20dough%20bread.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Baguettes%20-%20stonesoup.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ruisleip%C3%A4-limppu%20reik%C3%A4leip%C3%A4%20reissumies%20hapankorppu-1.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Assorted%20bread.jpg
 inception: -30000
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]"
+- '[[_Standards/WikiData/WD~type_of_food_or_dish,19861951]]'
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-pa-spreadthesign.ogv
 made_from_material:
-  - "[[_Standards/WikiData/WD~Saccharomyces_cerevisiae,719725]]"
-  - "[[_Standards/WikiData/WD~condiment,2596997]]"
-  - "[[_Standards/WikiData/WD~chicken_egg,15260613]]"
-  - "[[_Standards/WikiData/WD~water,283]]"
-  - "[[_Standards/WikiData/WD~milk,8495]]"
-  - "[[_Standards/WikiData/WD~table_salt,11254]]"
-  - "[[_Standards/WikiData/WD~flour,36465]]"
-  - "[[_Standards/WikiData/WD~oil,42962]]"
+- '[[_Standards/WikiData/WD~Saccharomyces_cerevisiae,719725]]'
+- '[[_Standards/WikiData/WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~chicken_egg,15260613]]'
+- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~milk,8495]]'
+- '[[_Standards/WikiData/WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~flour,36465]]'
+- '[[_Standards/WikiData/WD~oil,42962]]'
 MeSH_tree_code:
-  - G07.203.300.100
-  - J02.500.100
+- G07.203.300.100
+- J02.500.100
 OmegaWiki_Defined_Meaning: 5910
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%AE%D8%A8%D8%B2.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Fa-%D9%86%D8%A7%D9%86.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Jer-pain.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pronouncing%20bread%20in%20Tigrinya.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%AE%D8%A8%D8%B2.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Fa-%D9%86%D8%A7%D9%86.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Jer-pain.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pronouncing%20bread%20in%20Tigrinya.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Brood-article.ogg
 subclass_of:
-  - "[[_Standards/WikiData/WD~staple_food,736427]]"
-  - "[[_Standards/WikiData/WD~baked_good,2251745]]"
+- '[[_Standards/WikiData/WD~staple_food,736427]]'
+- '[[_Standards/WikiData/WD~baked_good,2251745]]'
 subreddit:
-  - breaddit
+- breaddit
 UMLS_CUI: C0006138
-Unicode_character: 🍞
+Unicode_character: "\U0001F35E"
 U_S_National_Archives_Identifier: 10637726
+dv_has_:
+  name_:
+    aa: gaqambo
+    ab: мгьал
+    af: brood
+    am: ዳቦ
+    an: pan
+    ang: hlāf
+    anp: रोटी
+    ar: خبز
+    arc: לחמא
+    arq: خبز
+    arz: عيش
+    as: পাউৰুটী
+    ast: pan
+    atj: tcipa
+    awa: डबलरोटी
+    ay: t'ant'a
+    az: çörək
+    azb: چؤرک
+    ba: икмәк
+    bar: Brod
+    bas: bɛɖɛɛ̀
+    bcl: tinapay
+    be: хлеб
+    be-tarask: хлеб
+    bew: Roti
+    bg: хляб
+    bjn: roti
+    bm: buuru
+    bn: রুটি
+    br: bara
+    bs: hljeb
+    bxr: талхан
+    ca: pa
+    cdo: Miêng-bău
+    ce: бепиг
+    chr: ᎦᏚ
+    chy: kóhkonêhëö'o
+    ckb: نان
+    co: pane
+    cr: ᐲᐧᓭᐋᐃᐦᑯᓈᐤ
+    crh: ötmek
+    crh-latn: ötmek
+    cs: chléb
+    csb: chléb
+    cu: хлѣбъ
+    cv: çăкăр
+    cy: bara
+    da: brød
+    dag: boroboro
+    de: Brot
+    de-ch: Brot
+    diq: Nan
+    dsb: klěb
+    ee: abolo
+    egl: pane
+    el: ψωμί
+    eml: pane
+    en: bread
+    en-ca: bread
+    en-gb: bread
+    en-us: bread
+    eo: pano
+    es: pan
+    et: leib
+    eu: ogi
+    ext: pan
+    fa: نان
+    fat: paano
+    fi: leipä
+    fj: madrai
+    fo: breyð
+    fr: pain
+    frp: pane
+    frr: Bruad
+    fur: pan
+    fy: bôle
+    ga: arán
+    gag: ekmek
+    gan: 麵包
+    gcr: dipen
+    gd: aran
+    gl: pan
+    gn: mbujape
+    got: "\U00010337\U0001033B\U00010330\U00010339\U00010346\U00010343"
+    grc: ἄρτος
+    gsw: Brot
+    gu: રોટલી
+    guc: Pan
+    gur: Borebori
+    gv: arran
+    ha: gurasa
+    hak: mien-pâu
+    haw: palaoa
+    he: לחם
+    hi: डबलरोटी
+    hif: bared
+    hr: kruh
+    hsb: chlěb
+    ht: pen
+    hu: kenyér
+    hy: հաց
+    hyw: հացին գիւտը
+    ia: pan
+    id: roti
+    ie: pane
+    ig: achicha
+    ik: punniq
+    ilo: tinapay
+    inh: маькх
+    io: pano
+    is: brauð
+    it: pane
+    iu: ᕿᖂᔭᖅ
+    ja: パン
+    jam: bred
+    jbo: nanba
+    jv: roti
+    ka: პური
+    kaa: nan
+    kab: aɣṛum
+    kbp: kpɔnɔ
+    kg: pane
+    kge: Roti
+    ki: mugate
+    kk: нан
+    kl: iffiaq
+    km: នំប៉័ង
+    kn: ಬ್ರೆಡ್
+    ko: 빵
+    krc: ётмек
+    ksh: Brut
+    ku: nan
+    kw: bara
+    ky: нан
+    la: panis
+    lad: pan
+    lb: Brout
+    lez: фу
+    lfn: pan
+    li: broed
+    lij: pane
+    lmo: pan
+    ln: límpa
+    lo: ເຂົ້າຈີ່
+    lt: duona
+    ltg: maize
+    lv: maize
+    lzh: 麭
+    map-bms: roti
+    mdf: кши
+    mg: mofo
+    mi: parāoa
+    min: roti
+    mk: леб
+    ml: റൊട്ടി
+    mn: талх
+    mni: ꯇꯜ
+    mos: buri
+    mr: पाव
+    mrj: киндӹ
+    ms: roti
+    ms-arab: روتي
+    mt: ħobż
+    mwl: pan
+    my: နံပြား
+    myv: кши
+    nan: pháng
+    nan-hant: 麭
+    nap: ppane
+    nb: brød
+    nds: Broot
+    nds-nl: brood
+    ne: रोटी
+    new: मरी
+    nl: brood
+    nn: brød
+    nov: pane
+    nrm: pane
+    nso: Borotho
+    nv: bááh
+    oc: pan
+    olo: leiby
+    om: daabboo
+    or: ପାଓରୁଟୀ
+    os: дзул
+    ota: اكمك
+    pa: ਬਰੈਡ
+    pap: pan
+    pcd: pane
+    pdc: Brot
+    pl: chleb
+    pms: pane
+    pnb: بریڈ
+    pnt: ψωμίν
+    ps: ډوډۍ
+    pt: pão
+    qu: t'anta
+    rif: aɣṛum
+    rki: ပေါင်မုန့်
+    rm: paun
+    rmf: maaro
+    rmy: Manrho
+    rn: Umukate
+    ro: pâine
+    roa-tara: pane
+    rsk: Хлєб
+    ru: хлеб
+    rue: хлїб
+    rup: pâni
+    rw: umugati
+    sa: रोटी
+    sah: килиэп
+    sat: ᱯᱤᱴᱷᱟ.
+    sc: pane
+    scn: pani
+    sco: breid
+    sd: ڊبل روٽي
+    se: láibi
+    sgs: douna
+    sh: hljeb
+    shi: aɣrum
+    si: පාන්
+    sk: chlieb
+    sl: kruh
+    sma: laejpie
+    smn: láibi
+    sms: leiʹbb
+    sn: chingwa
+    so: rooti
+    sq: bukë
+    sr: хлеб
+    sr-ec: хлеб
+    sr-el: hleb
+    srn: brede
+    st: bohobe
+    su: roti
+    sv: bröd
+    sw: mkate
+    syl: ꠟꠥꠚ
+    szl: chlyb
+    ta: வெதுப்பி
+    te: రొట్టె
+    tet: paun
+    tg: нон
+    th: ขนมปัง
+    tk: çörek
+    tl: tinapay
+    tok: pan
+    tr: ekmek
+    tt: ипи
+    tum: chingwa
+    tw: brodo
+    ty: faraoa
+    tzm: ⴰⵖⵔⵓⵎ
+    udm: нянь
+    ug: نان
+    uk: хліб
+    ur: روٹی
+    uz: non
+    vec: pan
+    vep: leib
+    vi: bánh mì
+    vls: pane
+    vo: bod
+    vro: leib
+    wa: pwin
+    war: karan-on
+    wo: mburu
+    wuu: 面包
+    xal: өдмг
+    yi: ברויט
+    yue: 包
+    za: Mienhbau
+    zgh: ⴰⵖⵔⵓⵎ
+    zh: 麵包
+    zh-cn: 面包
+    zh-hans: 面包
+    zh-hant: 麵包
+    zh-hk: 麪包
+    zh-mo: 麪包
+    zh-my: 面包
+    zh-sg: 面包
+    zh-tw: 麵包
+    zu: isinkwa
 ---
-
 # [[Bread]] 🍞 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bread,7802|WD~Bread,7802]] 

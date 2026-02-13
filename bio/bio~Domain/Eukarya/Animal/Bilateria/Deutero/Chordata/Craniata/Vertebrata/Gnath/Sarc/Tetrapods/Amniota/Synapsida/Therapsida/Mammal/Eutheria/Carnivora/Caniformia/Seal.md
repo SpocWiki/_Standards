@@ -1,15 +1,99 @@
 ---
 aliases:
-  - Seal
-  - Pinnipedia
+- airkāji
+- Anjing laot
+- Anjing laut
+- Asuka
+- eite-chosach
+- eväjalkaiset
+- Foke
+- Fokuloj
+- Hreifadýr
+- Karnerong-dagat
+- Koʻrakoyoqlilar
+- Këmbëlopatat
+- Loivalised
+- Morlo
+- Njuorju
+- Perajari
+- Pinipede
+- Pinniped
+- Pinnipedia
+- Pinnipède
+- pinnípedes
+- pinpedi
+- Pinípedes
+- plavutonožci
+- ploutvonožci
+- płetwonogie
+- Pərayaqlılar
+- Reun
+- Reunig
+- Robbe
+- Robben
+- Ruoniniai
+- Ròn
+- Seal
+- Seeroofdiere
+- selar
+- seler
+- Seolh
+- Siaruuwdiarten
+- sälar
+- sæler
+- Tábąąstííntsoh Danilínígíí
+- Vinpôtign
+- Yüzgeçayaklılar
+- zeeroofdieren
+- úszólábúak
+- Động vật chân màng
+- φώκια
+- Белпойҳо
+- Ескекаяқтылар
+- Ишкĕч уралли
+- Ишкәкаяклылар
+- Калак буттуулар
+- ластаногія
+- ластоногі
+- ластоногие
+- перајари
+- перконоги
+- Сэлүүр хөлтөн
+- фыййагкъæхтæ
+- մաշկոտանիներ
+- Փոկ
+- טורפים ימיים
+- خوک دریایی
+- زعانفيات الرجلين
+- زعنفيات الأقدام
+- زعنفيات الاقدام
+- فک (حیوون)
+- فۆک
+- सील
+- সামুদ্রিক সীল
+- துடுப்புக்காலிகள்
+- ಸೀಲ್
+- കടൽനായ
+- วงศ์ใหญ่สัตว์ตีนครีบ
+- མཚོ་གཟིག
+- ပင်လယ်ဖျံ
+- မူၼ်ႈပၢင်ႇလၢႆႇ
+- ფარფლფეხიანები
+- 鰭脚類
+- 鰭足下目
+- 鰭足目
+- 鰭足類
+- 鳍足下目
+- 鳍足类
+- 기각류
 has_id_wikidata: Q30263
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Pinnipedia,25778585]]'
 start_time: -24000000-01-01T00:00:00Z
@@ -26,8 +110,127 @@ Commons_gallery: Pinnipedia
 Commons_category: Pinnipedia
 taxon_name: Pinnipedia
 subreddit: seals
+dv_has_:
+  name_:
+    af: Seeroofdiere
+    an: Pinnipedia
+    ang: Seolh
+    anp: सील
+    ar: زعنفيات الأقدام
+    ary: زعانفيات الرجلين
+    arz: زعنفيات الاقدام
+    ast: Pinnipedia
+    az: Pərayaqlılar
+    ban: Pinnipedia
+    be: ластаногія
+    be-tarask: ластаногія
+    bew: Anjing laot
+    bg: перконоги
+    bn: সামুদ্রিক সীল
+    bo: མཚོ་གཟིག
+    br: Reunig
+    bs: Perajari
+    ca: pinnípedes
+    ceb: Pinnipedia
+    chr: Pinnipedia
+    ckb: فۆک
+    cs: ploutvonožci
+    cv: Ишкĕч уралли
+    cy: Morlo
+    da: sæler
+    de: Robben
+    el: φώκια
+    en: Pinnipedia
+    en-ca: Pinniped
+    en-gb: pinniped
+    eo: Fokuloj
+    es: Pinnipedia
+    et: Loivalised
+    eu: Pinnipedia
+    ext: Pinnipedia
+    fa: خوک دریایی
+    fi: eväjalkaiset
+    fr: Pinnipède
+    frr: Siaruuwdiarten
+    ga: eite-chosach
+    gd: Ròn
+    gl: Pinnípedes
+    haw: Pinnipedia
+    he: טורפים ימיים
+    hi: सील
+    hr: Perajari
+    hu: úszólábúak
+    hy: մաշկոտանիներ
+    hyw: Փոկ
+    ia: Pinnipedia
+    id: Anjing laut
+    ie: Pinnipedia
+    io: Pinnipedia
+    is: Hreifadýr
+    it: Pinnipedia
+    ja: 鰭脚類
+    jbo: pinpedi
+    ka: ფარფლფეხიანები
+    kk: Ескекаяқтылар
+    kl: Pinnipedia
+    ko: 기각류
+    kw: Reun
+    ky: Калак буттуулар
+    la: Pinnipedia
+    li: Robbe
+    lt: Ruoniniai
+    lv: airkāji
+    mk: перконоги
+    ml: കടൽനായ
+    mn: Сэлүүр хөлтөн
+    ms: Anjing laut
+    mul: Pinnipedia
+    my: ပင်လယ်ဖျံ
+    mzn: فک (حیوون)
+    nb: seler
+    nds: Robben
+    nl: zeeroofdieren
+    nn: selar
+    nv: Tábąąstííntsoh Danilínígíí
+    oc: Pinnipedia
+    os: фыййагкъæхтæ
+    pl: płetwonogie
+    pt: Pinípedes
+    pt-br: Pinípedes
+    qu: Asuka
+    ro: Pinipede
+    ru: ластоногие
+    se: Njuorju
+    sh: Perajari
+    shn: မူၼ်ႈပၢင်ႇလၢႆႇ
+    sl: plavutonožci
+    sq: Këmbëlopatat
+    sr: перајари
+    sv: sälar
+    sw: Pinnipedia
+    ta: துடுப்புக்காலிகள்
+    tcy: ಸೀಲ್
+    tg: Белпойҳо
+    th: วงศ์ใหญ่สัตว์ตีนครีบ
+    tl: Karnerong-dagat
+    tr: Yüzgeçayaklılar
+    tt: Ишкәкаяклылар
+    uk: ластоногі
+    uz: Koʻrakoyoqlilar
+    vi: Động vật chân màng
+    vls: Vinpôtign
+    vo: Pinnipedia
+    wa: Foke
+    war: Pinnipedia
+    wuu: 鳍足类
+    yue: 鰭足目
+    zh: 鰭足下目
+    zh-cn: 鳍足下目
+    zh-hans: 鳍足下目
+    zh-hant: 鰭足類
+    zh-tw: 鰭足下目
+    zu: Pinnipedia
 ---
-
 # [[Seal]] 
 
 #is_/same_as :: [[WD~Pinnipedia,30263]] 

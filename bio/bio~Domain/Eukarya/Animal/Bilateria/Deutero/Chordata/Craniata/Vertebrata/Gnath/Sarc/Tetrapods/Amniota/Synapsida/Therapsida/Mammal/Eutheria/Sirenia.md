@@ -1,22 +1,83 @@
 ---
 title: Sirenia
 aliases:
+- Baqra tal-baħar
+- Brzegowce
+- Bộ Bò biển
+- Deniz inekleri
+- Duyong
+- Imvubu yolwandle
+- Lopët e detit
+- Meriveiselised
+- Morske krave
+- Morvugh
+- Nguva
+- Pogdoldunol (Sirenia)
+- Seekeih
+- Seekij
+- Seekühe
+- Siaki
+- sireenieläimet
+- Siren (sut emizuvchi)
+- Sirendjur
+- Sirene
+- Sireni
+- Sirenia
+- sirenias
+- Sirenieni
+- Sirenio
+- Sirenlər
+- Sireno
+- Sirenos
+- siréineach
+- sirény
+- Sirēnas
+- Sjókúgv
+- Sjøkyr
+- Séikéi
+- Søkøer
+- tengeritehenek
+- Yaku waka
+- Zeekoeien
+- Ziekeuj
+- Σειρηνοειδή
+- морске краве
+- морски крави
+- сірэны
+- Сирендер
+- сирени
+- сирены
+- сырэны
+- תחשאים
+- خيلانيات
+- دنیز اینکلری
+- سیرێنیا
+- گاودریاییان
+- समुद्री गाई
+- साइरेनिया
+- জলগাভী
+- సముద్రపు ఆవు
+- സിറേനിയ
+- อันดับพะยูน
+- სირენები
+- 海牛目
+- 바다소목
 has_id_wikidata: Q25431
-named_after: "[[_Standards/WikiData/WD~siren,150986]]"
+named_after: '[[_Standards/WikiData/WD~siren,150986]]'
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 start_time: -55800000-01-01T00:00:00Z
-code_of_nomenclature: "[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-parent_taxon: "[[_Standards/WikiData/WD~Tethytheria,20862]]"
-taxon_rank: "[[_Standards/WikiData/WD~order,36602]]"
-ITIS_TSN: "180676"
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Tethytheria,20862]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+ITIS_TSN: 180676
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FL%20fig04.jpg
 MCN_code: 0106.12.00
 taxon_range_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia%20distribution.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia%20distribution.png
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sirenia%20Diversity.jpg
 EPPO_Code: 1SIRNO
 MeSH_tree_code: B01.050.150.900.649.313.250.750
@@ -27,10 +88,109 @@ subreddit: Seacows
 Commons_category: Sirenia
 taxon_name: Sirenia
 taxon_common_name:
-  - sjøkyr
-  - morske krave
+- sjøkyr
+- morske krave
+dv_has_:
+  name_:
+    an: Sirenia
+    ar: خيلانيات
+    arz: خيلانيات
+    ast: Sirenia
+    avk: Pogdoldunol (Sirenia)
+    az: Sirenlər
+    azb: دنیز اینکلری
+    be: сірэны
+    be-tarask: сырэны
+    bg: сирени
+    bn: জলগাভী
+    br: Sirenia
+    ca: Sireni
+    ceb: Duyong
+    ckb: سیرێنیا
+    cs: sirény
+    da: Søkøer
+    de: Seekühe
+    el: Σειρηνοειδή
+    en: Sirenia
+    eo: Sireno
+    es: Sirenia
+    et: Meriveiselised
+    eu: Sirenia
+    ext: Sirenia
+    fa: گاودریاییان
+    fi: sireenieläimet
+    fo: Sjókúgv
+    fr: Sirenia
+    frr: Siaki
+    fy: Seekij
+    ga: siréineach
+    gl: Sirenia
+    he: תחשאים
+    hi: साइरेनिया
+    hr: Sirene
+    hu: tengeritehenek
+    ia: Sirenia
+    id: Sirenia
+    ie: Sirenia
+    io: Sirenia
+    it: Sirenia
+    ja: 海牛目
+    jbo: sirenias
+    ka: სირენები
+    kk: Сирендер
+    ko: 바다소목
+    kw: Morvugh
+    la: Sirenia
+    lb: Séikéi
+    lfn: Sirenio
+    li: Ziekeuj
+    lij: Sirenia
+    lt: Sirenos
+    lv: Sirēnas
+    mk: морски крави
+    ml: സിറേനിയ
+    ms: Sirenia
+    mt: Baqra tal-baħar
+    mul: Sirenia
+    nb: Sjøkyr
+    nds: Seekeih
+    ne: समुद्री गाई
+    nl: Zeekoeien
+    nn: sjøkyr
+    nov: Sirenia
+    oc: Sirenia
+    pl: Brzegowce
+    pt: Sirenia
+    pt-br: Sirenia
+    qu: Yaku waka
+    ro: Sirenieni
+    ru: сирены
+    scn: Sirenia
+    sco: Sirenia
+    sh: Morske krave
+    sk: Sirény
+    sl: morske krave
+    sq: Lopët e detit
+    sr: морске краве
+    sv: Sirendjur
+    sw: Nguva
+    te: సముద్రపు ఆవు
+    th: อันดับพะยูน
+    tl: Duyong
+    tr: Deniz inekleri
+    uk: сирени
+    uz: Siren (sut emizuvchi)
+    vi: Bộ Bò biển
+    vo: Sirenia
+    war: Sirenia
+    wuu: 海牛目
+    yue: 海牛目
+    zh: 海牛目
+    zh-cn: 海牛目
+    zh-hans: 海牛目
+    zh-tw: 海牛目
+    zu: Imvubu yolwandle
 ---
-
 # Sirenia
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Sirenia,25431|WD~Sirenia,25431]] 

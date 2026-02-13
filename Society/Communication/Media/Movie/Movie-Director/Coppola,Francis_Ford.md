@@ -1,136 +1,174 @@
 ---
 aliases:
-  - Francis_Ford_Coppola
-  - Coppola,Francis_Ford
-  - Coppola,Francis Ford
+- Coppola,Francis Ford
+- Coppola,Francis_Ford
+- Francis Ford Coppola
+- Franciscus Ford Coppola
+- Francis_Ford_Coppola
+- Frensis Ford Koppola
+- Frānsiss Fords Kopola
+- Φράνσις Φορντ Κόπολα
+- Франсис Форд Копола
+- Френсіс Форд Коппола
+- Френсис Форд Копола
+- Фрэнсіс Форд Копала
+- Фрэнсис Форд Коппола
+- Фрәнсис Форд Коппола
+- Ֆրենսիս Ֆորդ Կոպպոլա
+- פרנסיס פורד קופולה
+- فرانسس فورڈ کوپولا
+- فرانسس فورډ کوپولا
+- فرانسيس فورد كوبولا
+- فرانسیس فورد کاپولا
+- فرانسیس فورد کوپولا
+- فرانسیس فۆرد کۆپۆلا
+- फ्रांसिस फोर्ड कोपोला
+- ফ্রান্সিস ফোর্ড কোপলা
+- ਫ਼ਰਾਂਸਿਸ ਫ਼ੋਰਡ ਕੋਪੋਲਾ
+- பிரான்சிஸ் போர்டு கபேல
+- ఫ్రాన్సిస్ ఫోర్డ్ కొప్పోలా
+- ಫ್ರಾಂಸಿಸ್ ಫೋರ್ಡ್ ಕೊಪ್ಪಲಾ
+- ഫ്രാൻസിസ് ഫോർഡ് കപ്പോള
+- ฟรานซิส ฟอร์ด คอปโปลา
+- ფრენსის ფორდ კოპოლა
+- フランシス・フォード・コッポラ
+- 弗朗西斯·福特·科波拉
+- 弗朗西斯·科波拉
+- 法兰斯·福特·哥普拉
+- 法兰西斯·福特·柯普拉
+- 法蘭斯·哥普拉
+- 法蘭斯哥普拉
+- 法蘭西斯·柯波拉
+- 法蘭西斯·福特·柯波拉
+- 프랜시스 포드 코폴라
 has_id_wikidata: Q56094
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
-  - '[[_Standards/WikiData/WD~Golden_Eagle_Awards,580231]]'
-  - '[[_Standards/WikiData/WD~Golden_Shell,775086]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-  - '[[_Standards/WikiData/WD~Irving_G._Thalberg_Memorial_Award,844273]]'
-  - '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
-  - '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Principality_of_Liechtenstein,1483605]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
-  - '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
-  - '[[_Standards/WikiData/WD~Lumière_Award,_Lyon_Festival_of_cinema,3404975]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Star_of_Italy,3885347]]'
-  - '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~Mary_Pickford_Award,21595675]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Awards,329157]]'
+- '[[_Standards/WikiData/WD~Golden_Eagle_Awards,580231]]'
+- '[[_Standards/WikiData/WD~Golden_Shell,775086]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Irving_G._Thalberg_Memorial_Award,844273]]'
+- '[[_Standards/WikiData/WD~Donostia_Award,908858]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_Award,1415017]]'
+- '[[_Standards/WikiData/WD~Order_of_Merit_of_the_Principality_of_Liechtenstein,1483605]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+- '[[_Standards/WikiData/WD~Golden_Lion_for_Lifetime_Achievement,3241784]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
+- '[[_Standards/WikiData/WD~Lumière_Award,_Lyon_Festival_of_cinema,3404975]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Star_of_Italy,3885347]]'
+- '[[_Standards/WikiData/WD~California_Hall_of_Fame,5020532]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Mary_Pickford_Award,21595675]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Bram_Stoker's_Dracula,107325]]"
-  - '[[_Standards/WikiData/WD~Apocalypse_Now,182692]]'
-  - '[[_Standards/WikiData/WD~Youth_Without_Youth,553194]]'
-  - '[[_Standards/WikiData/WD~The_Cotton_Club,639387]]'
-  - '[[_Standards/WikiData/WD~The_Rainmaker,785351]]'
-  - '[[_Standards/WikiData/WD~Rumble_Fish,845102]]'
-  - '[[_Standards/WikiData/WD~Peggy_Sue_Got_Married,903257]]'
-  - '[[_Standards/WikiData/WD~New_York_Stories,977372]]'
-  - '[[_Standards/WikiData/WD~The_Conversation,1009788]]'
-  - '[[_Standards/WikiData/WD~The_Outsiders,1055332]]'
-  - '[[_Standards/WikiData/WD~Dementia_13,1185312]]'
-  - "[[_Standards/WikiData/WD~Finian's_Rainbow,1198750]]"
-  - '[[_Standards/WikiData/WD~Gardens_of_Stone,1199648]]'
-  - '[[_Standards/WikiData/WD~One_from_the_Heart,1307044]]'
-  - '[[_Standards/WikiData/WD~Tucker_The_Man_and_His_Dream,1421355]]'
-  - '[[_Standards/WikiData/WD~Supernova,1749974]]'
-  - '[[_Standards/WikiData/WD~Tetro,2309964]]'
-  - '[[_Standards/WikiData/WD~Twixt,2408534]]'
-  - '[[_Standards/WikiData/WD~The_Rain_People,2547631]]'
-  - '[[_Standards/WikiData/WD~The_Godfather,3225260]]'
-  - '[[_Standards/WikiData/WD~Apocalypse_Now_Redux,3620669]]'
-  - '[[_Standards/WikiData/WD~Tonight_for_Sure,3993102]]'
-  - '[[_Standards/WikiData/WD~Distant_Vision,28222734]]'
-  - '[[_Standards/WikiData/WD~Megalopolis,115175910]]'
-  - '[[_Standards/WikiData/WD~Captain_EO,44408]]'
+- "[[_Standards/WikiData/WD~Bram_Stoker's_Dracula,107325]]"
+- '[[_Standards/WikiData/WD~Apocalypse_Now,182692]]'
+- '[[_Standards/WikiData/WD~Youth_Without_Youth,553194]]'
+- '[[_Standards/WikiData/WD~The_Cotton_Club,639387]]'
+- '[[_Standards/WikiData/WD~The_Rainmaker,785351]]'
+- '[[_Standards/WikiData/WD~Rumble_Fish,845102]]'
+- '[[_Standards/WikiData/WD~Peggy_Sue_Got_Married,903257]]'
+- '[[_Standards/WikiData/WD~New_York_Stories,977372]]'
+- '[[_Standards/WikiData/WD~The_Conversation,1009788]]'
+- '[[_Standards/WikiData/WD~The_Outsiders,1055332]]'
+- '[[_Standards/WikiData/WD~Dementia_13,1185312]]'
+- "[[_Standards/WikiData/WD~Finian's_Rainbow,1198750]]"
+- '[[_Standards/WikiData/WD~Gardens_of_Stone,1199648]]'
+- '[[_Standards/WikiData/WD~One_from_the_Heart,1307044]]'
+- '[[_Standards/WikiData/WD~Tucker_The_Man_and_His_Dream,1421355]]'
+- '[[_Standards/WikiData/WD~Supernova,1749974]]'
+- '[[_Standards/WikiData/WD~Tetro,2309964]]'
+- '[[_Standards/WikiData/WD~Twixt,2408534]]'
+- '[[_Standards/WikiData/WD~The_Rain_People,2547631]]'
+- '[[_Standards/WikiData/WD~The_Godfather,3225260]]'
+- '[[_Standards/WikiData/WD~Apocalypse_Now_Redux,3620669]]'
+- '[[_Standards/WikiData/WD~Tonight_for_Sure,3993102]]'
+- '[[_Standards/WikiData/WD~Distant_Vision,28222734]]'
+- '[[_Standards/WikiData/WD~Megalopolis,115175910]]'
+- '[[_Standards/WikiData/WD~Captain_EO,44408]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Talia_Shire,108622]]'
-  - '[[_Standards/WikiData/WD~August_Coppola,4820677]]'
+- '[[_Standards/WikiData/WD~Talia_Shire,108622]]'
+- '[[_Standards/WikiData/WD~August_Coppola,4820677]]'
 genre:
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~fantasy_film,157394]]'
-  - '[[_Standards/WikiData/WD~action_film,188473]]'
-  - '[[_Standards/WikiData/WD~horror_film,200092]]'
-  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
-  - '[[_Standards/WikiData/WD~war_film,369747]]'
-  - '[[_Standards/WikiData/WD~epic_film,652256]]'
-  - '[[_Standards/WikiData/WD~slasher_film,853630]]'
-  - '[[_Standards/WikiData/WD~crime_film,959790]]'
-  - '[[_Standards/WikiData/WD~romance_film,1054574]]'
-  - '[[_Standards/WikiData/WD~mystery_film,1200678]]'
-  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
-  - '[[_Standards/WikiData/WD~gothic_film,5769663]]'
-  - '[[_Standards/WikiData/WD~gangster_film,7444356]]'
-  - '[[_Standards/WikiData/WD~historical_film,17013749]]'
-  - '[[_Standards/WikiData/WD~crime_thriller_film,19367312]]'
-  - '[[_Standards/WikiData/WD~supernatural_horror_film,43911809]]'
-  - '[[_Standards/WikiData/WD~body_horror_film,102260466]]'
-  - '[[_Standards/WikiData/WD~psychological_horror_film,109629396]]'
-  - '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
-  - '[[_Standards/WikiData/WD~crime_drama_film,113485322]]'
-  - '[[_Standards/WikiData/WD~gothic_horror_film,114413232]]'
-  - '[[_Standards/WikiData/WD~war_drama,116456802]]'
-  - '[[_Standards/WikiData/WD~historical_drama_film,116514801]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~fantasy_film,157394]]'
+- '[[_Standards/WikiData/WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~horror_film,200092]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~epic_film,652256]]'
+- '[[_Standards/WikiData/WD~slasher_film,853630]]'
+- '[[_Standards/WikiData/WD~crime_film,959790]]'
+- '[[_Standards/WikiData/WD~romance_film,1054574]]'
+- '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~gothic_film,5769663]]'
+- '[[_Standards/WikiData/WD~gangster_film,7444356]]'
+- '[[_Standards/WikiData/WD~historical_film,17013749]]'
+- '[[_Standards/WikiData/WD~crime_thriller_film,19367312]]'
+- '[[_Standards/WikiData/WD~supernatural_horror_film,43911809]]'
+- '[[_Standards/WikiData/WD~body_horror_film,102260466]]'
+- '[[_Standards/WikiData/WD~psychological_horror_film,109629396]]'
+- '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
+- '[[_Standards/WikiData/WD~crime_drama_film,113485322]]'
+- '[[_Standards/WikiData/WD~gothic_horror_film,114413232]]'
+- '[[_Standards/WikiData/WD~war_drama,116456802]]'
+- '[[_Standards/WikiData/WD~historical_drama_film,116514801]]'
 child:
-  - '[[_Standards/WikiData/WD~Gian_Carlo_Coppola,155299]]'
-  - '[[_Standards/WikiData/WD~Sofia_Coppola,193628]]'
-  - '[[_Standards/WikiData/WD~Roman_Coppola,245808]]'
+- '[[_Standards/WikiData/WD~Gian_Carlo_Coppola,155299]]'
+- '[[_Standards/WikiData/WD~Sofia_Coppola,193628]]'
+- '[[_Standards/WikiData/WD~Roman_Coppola,245808]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]'
-  - '[[_Standards/WikiData/WD~Hofstra_University,1623314]]'
-  - '[[_Standards/WikiData/WD~John_L._Miller_Great_Neck_North_High_School,6243649]]'
-  - '[[_Standards/WikiData/WD~New_York_Military_Academy,7013764]]'
-  - '[[_Standards/WikiData/WD~UCLA_School_of_Theater,_Film_and_Television,7864046]]'
-  - '[[_Standards/WikiData/WD~Jamaica_High_School,14706609]]'
+- '[[_Standards/WikiData/WD~University_of_California,_Los_Angeles,174710]]'
+- '[[_Standards/WikiData/WD~Hofstra_University,1623314]]'
+- '[[_Standards/WikiData/WD~John_L._Miller_Great_Neck_North_High_School,6243649]]'
+- '[[_Standards/WikiData/WD~New_York_Military_Academy,7013764]]'
+- '[[_Standards/WikiData/WD~UCLA_School_of_Theater,_Film_and_Television,7864046]]'
+- '[[_Standards/WikiData/WD~Jamaica_High_School,14706609]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~viticulture,253140]]'
-  - '[[_Standards/WikiData/WD~filmmaking,932586]]'
-  - '[[_Standards/WikiData/WD~film_direction,12765827]]'
-  - '[[_Standards/WikiData/WD~film_screenwriting,115156386]]'
+- '[[_Standards/WikiData/WD~viticulture,253140]]'
+- '[[_Standards/WikiData/WD~filmmaking,932586]]'
+- '[[_Standards/WikiData/WD~film_direction,12765827]]'
+- '[[_Standards/WikiData/WD~film_screenwriting,115156386]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
 father: '[[_Standards/WikiData/WD~Carmine_Coppola,658614]]'
 occupation:
-  - '[[_Standards/WikiData/WD~winegrower,897317]]'
-  - '[[_Standards/WikiData/WD~executive_producer,1053574]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
-  - '[[_Standards/WikiData/WD~businessperson,43845]]'
+- '[[_Standards/WikiData/WD~winegrower,897317]]'
+- '[[_Standards/WikiData/WD~executive_producer,1053574]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 ethnic_group: '[[_Standards/WikiData/WD~Italian_Americans,974693]]'
 residence: '[[_Standards/WikiData/WD~Napa_Valley_AVA,1151105]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Francis,1441346]]'
-  - '[[_Standards/WikiData/WD~Ford,21021650]]'
+- '[[_Standards/WikiData/WD~Francis,1441346]]'
+- '[[_Standards/WikiData/WD~Ford,21021650]]'
 spouse: '[[_Standards/WikiData/WD~Eleanor_Coppola,4943414]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Coppola,7704509]]'
@@ -165,8 +203,115 @@ ISNI: 000000011480194X
 Plex_person_key: 5d776825151a60001f24a400
 Libris_URI: 86lnqmds3vs3w51
 Instagram_username: francisfordcoppola
+dv_has_:
+  name_:
+    af: Francis Ford Coppola
+    an: Francis Ford Coppola
+    ar: فرانسيس فورد كوبولا
+    arz: فرانسيس فورد كوبولا
+    ast: Francis Ford Coppola
+    az: Frensis Ford Koppola
+    be: Фрэнсіс Форд Копала
+    be-tarask: Фрэнсіс Форд Копала
+    bg: Франсис Форд Копола
+    bho: फ्रांसिस फोर्ड कोपोला
+    bn: ফ্রান্সিস ফোর্ড কোপলা
+    br: Francis Ford Coppola
+    bs: Francis Ford Coppola
+    ca: Francis Ford Coppola
+    ckb: فرانسیس فۆرد کۆپۆلا
+    cs: Francis Ford Coppola
+    cy: Francis Ford Coppola
+    da: Francis Ford Coppola
+    de: Francis Ford Coppola
+    de-ch: Francis Ford Coppola
+    el: Φράνσις Φορντ Κόπολα
+    en: Francis Ford Coppola
+    en-ca: Francis Ford Coppola
+    en-gb: Francis Ford Coppola
+    eo: Francis Ford Coppola
+    es: Francis Ford Coppola
+    et: Francis Ford Coppola
+    eu: Francis Ford Coppola
+    fa: فرانسیس فورد کوپولا
+    fi: Francis Ford Coppola
+    fr: Francis Ford Coppola
+    ga: Francis Ford Coppola
+    gl: Francis Ford Coppola
+    he: פרנסיס פורד קופולה
+    hi: फ्रांसिस फोर्ड कोपोला
+    hr: Francis Ford Coppola
+    ht: Francis Ford Coppola
+    hu: Francis Ford Coppola
+    hy: Ֆրենսիս Ֆորդ Կոպպոլա
+    id: Francis Ford Coppola
+    io: Francis Ford Coppola
+    is: Francis Ford Coppola
+    it: Francis Ford Coppola
+    ja: フランシス・フォード・コッポラ
+    ka: ფრენსის ფორდ კოპოლა
+    kk: Фрэнсис Форд Коппола
+    kn: ಫ್ರಾಂಸಿಸ್ ಫೋರ್ಡ್ ಕೊಪ್ಪಲಾ
+    ko: 프랜시스 포드 코폴라
+    ky: Фрэнсис Форд Коппола
+    la: Franciscus Ford Coppola
+    lb: Francis Ford Coppola
+    li: Francis Ford Coppola
+    lrc: فرانسیس فورد کاپولا
+    lt: Francis Ford Coppola
+    lv: Frānsiss Fords Kopola
+    mg: Francis Ford Coppola
+    mk: Френсис Форд Копола
+    ml: ഫ്രാൻസിസ് ഫോർഡ് കപ്പോള
+    mn: Фрэнсис Форд Коппола
+    mr: फ्रांसिस फोर्ड कोपोला
+    ms: Francis Ford Coppola
+    mul: Francis Ford Coppola
+    nb: Francis Ford Coppola
+    nl: Francis Ford Coppola
+    nn: Francis Ford Coppola
+    oc: Francis Ford Coppola
+    pa: ਫ਼ਰਾਂਸਿਸ ਫ਼ੋਰਡ ਕੋਪੋਲਾ
+    pam: Francis Ford Coppola
+    pap: Francis Ford Coppola
+    pl: Francis Ford Coppola
+    pnb: فرانسس فورڈ کوپولا
+    ps: فرانسس فورډ کوپولا
+    pt: Francis Ford Coppola
+    pt-br: Francis Ford Coppola
+    qu: Francis Ford Coppola
+    ro: Francis Ford Coppola
+    ru: Фрэнсис Форд Коппола
+    sh: Francis Ford Coppola
+    sk: Francis Ford Coppola
+    sl: Francis Ford Coppola
+    sq: Francis Ford Coppola
+    sr: Франсис Форд Копола
+    sv: Francis Ford Coppola
+    ta: பிரான்சிஸ் போர்டு கபேல
+    te: ఫ్రాన్సిస్ ఫోర్డ్ కొప్పోలా
+    tg: Фрэнсис Форд Коппола
+    th: ฟรานซิส ฟอร์ด คอปโปลา
+    tr: Francis Ford Coppola
+    tt: Фрәнсис Форд Коппола
+    tt-cyrl: Фрәнсис Форд Коппола
+    uk: Френсіс Форд Коппола
+    ur: فرانسس فورڈ کوپولا
+    vi: Francis Ford Coppola
+    war: Francis Ford Coppola
+    wuu: 弗朗西斯·科波拉
+    xmf: ფრენსის ფორდ კოპოლა
+    yo: Francis Ford Coppola
+    yue: 法蘭斯哥普拉
+    zh: 法蘭西斯·福特·柯波拉
+    zh-cn: 弗朗西斯·福特·科波拉
+    zh-hans: 弗朗西斯·福特·科波拉
+    zh-hant: 法蘭西斯·柯波拉
+    zh-hk: 法蘭斯·哥普拉
+    zh-my: 法兰斯·福特·哥普拉
+    zh-sg: 法兰西斯·福特·柯普拉
+    zh-tw: 法蘭西斯·柯波拉
 ---
-
 # [[Coppola,Francis_Ford]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Francis_Ford_Coppola,56094|WD~Francis_Ford_Coppola,56094]] 

@@ -1,16 +1,145 @@
 ---
 aliases:
-  - Natur
-  - Nature
+- agama
+- alam
+- alam semula jadi
+- an nádúr
+- chū-jiân
+- daba
+- dabiiciga
+- doğa
+- dumburira
+- eby'obutonde
+- gamta
+- Geme
+- IHlobo
+- imvelo
+- Ituvaki
+- Jọwamọ
+- kalikasan
+- katutubo
+- Kinaiya
+- lanati
+- Lanatir
+- lon pi sona lon
+- londuz
+- loodus
+- luondu
+- luonndo
+- luonto
+- luándu
+- luâtt
+- mbwnnamh
+- nadura
+- naitur
+- narava
+- Nat
+- nateure
+- Natira
+- Natua
+- Natur
+- natura
+- naturalesa
+- naturaleza
+- Nature
+- natureza
+- naturo
+- naturâ
+- natură
+- natuur
+- natuvvra
+- natyra
+- Niecha
+- ntumbuluko
+- Nàdar
+- náttúra
+- nôtëra
+- okike
+- Prakrati
+- priroda
+- príroda
+- příroda
+- pśiroda
+- sallqa pacha
+- tabiat
+- tabiğät
+- Tebigat
+- tekoha
+- természet
+- tábiyat
+- təbijət
+- təbiət
+- tự nhiên
+- uasilia
+- uummama
+- Xweza
+- yeliztli
+- zavaboary
+- àdánidá
+- æрдз
+- çутçанталăк
+- φύση
+- φύσις
+- айылҕа
+- байгаали
+- байгаль
+- жаратылыш
+- инкуазь
+- пертьпелькс
+- природа
+- прырода
+- пӱртӱс
+- табиат
+- табигать
+- табигъат
+- Табиғат
+- ТӀабиаьт
+- тӀабигӀат
+- ТӀебиат
+- тәбиғәт
+- Ӏалам
+- Բնութիւն
+- բնություն
+- טבע
+- נאטור
+- دوغا
+- سروشت
+- طبيعة
+- طبيعت
+- طبیعت
+- عالم سمولا جادي
+- فطرت
+- قدرت
+- ߛߎ߲ߞߎ߲
+- इयऱ्कै
+- निसर्ग
+- प्रकृति
+- প্রকৃতি
+- প্ৰকৃতি
+- ਕੁਦਰਤ
+- કુદરત
+- இயற்கை
+- ప్రకృతి
+- ನಿಸರ್ಗ
+- പ്രകൃതി
+- ธรรมชาติ
+- ທຳມະຊາດ
+- သဘာဝ
+- ბუნება
+- ორთა
+- ተፈጥሮ
+- ធម្មជាតិ
+- 自然
+- 자연
 has_id_wikidata: Q7860
 Commons_category: Nature
 described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from: '[[_Standards/WikiData/WD~Natura,396865]]'
 hashtag:
-  - природа
-  - natural
-  - nature
-  - Natur
+- природа
+- natural
+- nature
+- Natur
 has_characteristic: '[[_Standards/WikiData/WD~pattern_in_nature,3455898]]'
 has_part_s_: '[[_Standards/WikiData/WD~natural_landscape,1286517]]'
 Iconclass_notation: 2
@@ -24,16 +153,225 @@ PhilPapers_topic: nature
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Prakṛti,920021]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%20natura%20medol.ogg
 studied_in:
-  - '[[_Standards/WikiData/WD~natural_history,484591]]'
-  - '[[_Standards/WikiData/WD~prirodovedenie,4379074]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
-  - '[[_Standards/WikiData/WD~natural_science,7991]]'
+- '[[_Standards/WikiData/WD~natural_history,484591]]'
+- '[[_Standards/WikiData/WD~prirodovedenie,4379074]]'
+- '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~natural_science,7991]]'
 subreddit: nature
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Nature,8084570]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nature,10814946]]'
 U_S_National_Archives_Identifier: 10643499
+dv_has_:
+  name_:
+    af: natuur
+    am: ተፈጥሮ
+    an: Naturaleza
+    ar: طبيعة
+    as: প্ৰকৃতি
+    ast: Natura
+    av: тӀабигӀат
+    az: təbiət
+    azb: دوغا
+    ba: тәбиғәт
+    bar: Natua
+    be: прырода
+    be-tarask: прырода
+    bg: природа
+    bho: प्रकृति
+    bn: প্রকৃতি
+    bpy: প্রকৃতি
+    br: Natur
+    bs: priroda
+    btm: Alam
+    bxr: байгаали
+    ca: natura
+    ce: Ӏалам
+    ckb: سروشت
+    crh: tabiat
+    cs: příroda
+    csb: nôtëra
+    cv: çутçанталăк
+    cy: natur
+    da: natur
+    de: Natur
+    diq: Geme
+    dsb: pśiroda
+    el: φύση
+    en: nature
+    en-ca: Nature
+    en-gb: nature
+    eo: naturo
+    es: naturaleza
+    et: loodus
+    eu: natura
+    fa: طبیعت
+    fi: luonto
+    fj: Ituvaki
+    fr: nature
+    frp: Natura
+    frr: Natuur
+    ga: an nádúr
+    gcr: Lanatir
+    gd: Nàdar
+    gl: natureza
+    gn: tekoha
+    grc: φύσις
+    gsw: Natur
+    gu: કુદરત
+    guw: Jọwamọ
+    he: טבע
+    hi: प्रकृति
+    hif: Prakrati
+    hr: priroda
+    ht: lanati
+    hu: természet
+    hy: բնություն
+    hyw: Բնութիւն
+    ia: natura
+    id: alam
+    ig: okike
+    ilo: katutubo
+    inh: Ӏалам
+    io: naturo
+    is: náttúra
+    it: natura
+    ja: 自然
+    jam: Niecha
+    jv: Alam
+    ka: ბუნება
+    kaa: tábiyat
+    kab: Agama
+    kk: Табиғат
+    km: ធម្មជាតិ
+    kn: ನಿಸರ್ಗ
+    knc: Nature
+    ko: 자연
+    krc: табигъат
+    ku: Xweza
+    kw: Natur
+    ky: жаратылыш
+    la: natura
+    lb: Natur
+    lbe: ТӀабиаьт
+    lez: ТӀебиат
+    lfn: natur
+    lg: eby'obutonde
+    lij: Natua
+    lld: natura
+    lmo: natura
+    lo: ທຳມະຊາດ
+    lt: gamta
+    lv: daba
+    lzh: 自然
+    mad: Alam
+    mg: zavaboary
+    mhr: пӱртӱс
+    min: Alam
+    mk: природа
+    ml: പ്രകൃതി
+    mn: байгаль
+    mr: निसर्ग
+    ms: alam semula jadi
+    ms-arab: عالم سمولا جادي
+    mt: natura
+    mwl: natureza
+    my: သဘာဝ
+    myv: пертьпелькс
+    nah: yeliztli
+    nan: chū-jiân
+    nb: natur
+    nds: Natur
+    ne: प्रकृति
+    new: इयऱ्कै
+    nl: natuur
+    nn: natur
+    nqo: ߛߎ߲ߞߎ߲
+    oc: natura
+    om: uummama
+    os: æрдз
+    ota: طبیعت
+    pa: ਕੁਦਰਤ
+    pap: naturalesa
+    pap-aw: naturalesa
+    pcd: nature
+    pfl: Natur
+    pl: natura
+    pms: Natura
+    pnb: قدرت
+    ps: طبيعت
+    pt: natureza
+    pt-br: natureza
+    qu: sallqa pacha
+    rm: Natira
+    ro: natură
+    ru: природа
+    rue: природа
+    rup: naturâ
+    sah: айылҕа
+    scn: natura
+    sco: naitur
+    sd: فطرت
+    se: luondu
+    sgs: gamta
+    sh: priroda
+    shi: agama
+    sje: natuvvra
+    sk: príroda
+    sl: narava
+    smj: luonndo
+    smn: luándu
+    sms: luâtt
+    sn: dumburira
+    so: dabiiciga
+    sq: natyra
+    sr: природа
+    ss: Imvelo
+    su: alam
+    sv: natur
+    sw: uasilia
+    szl: natura
+    ta: இயற்கை
+    te: ప్రకృతి
+    tg: табиат
+    tg-cyrl: табиат
+    th: ธรรมชาติ
+    tk: Tebigat
+    tl: kalikasan
+    tly: təbijət
+    tok: lon pi sona lon
+    tr: doğa
+    ts: ntumbuluko
+    tt: табигать
+    tt-cyrl: табигать
+    tt-latn: tabiğät
+    udm: инкуазь
+    uk: природа
+    ur: فطرت
+    uz: tabiat
+    vec: nadura
+    vep: londuz
+    vi: tự nhiên
+    vo: Nat
+    wa: nateure
+    war: Kinaiya
+    wuu: 自然
+    xh: IHlobo
+    xmf: ორთა
+    yi: נאטור
+    yo: àdánidá
+    yue: 自然
+    za: mbwnnamh
+    zh: 自然
+    zh-cn: 自然
+    zh-hans: 自然
+    zh-hant: 自然
+    zh-hk: 自然
+    zh-mo: 自然
+    zh-my: 自然
+    zh-sg: 自然
+    zh-tw: 自然
+    zu: imvelo
 ---
-
 # [[Nature]] 
 
 #is_/same_as :: [[../WikiData/WD~Nature,7860|WD~Nature,7860]] 

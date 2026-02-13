@@ -1,73 +1,95 @@
 ---
 aliases:
-  - Dino Paul Crocetti
-  - Dean_Martin
-  - Dean Martin
-  - King of Cool
-  - Martin,Dean
+- Dean Martin
+- Dean_Martin
+- Din Martin
+- Dino Paul Crocetti
+- Dīns Mārtins
+- King of Cool
+- Martin,Dean
+- Ντιν Μάρτιν
+- Дін Мартін
+- Дийн Мартин
+- Дин Мартин
+- Дын Мартын
+- Դին Մարտին
+- דין מרטין
+- دين مارتن
+- دین مارتن
+- دین مارتین
+- ਡੀਨ ਮਾਰਟਿਨ
+- டீன் மார்டின்
+- ดีน มาร์ติน
+- დინ მარტინი
+- ディーン・マーティン
+- 甸·馬田
+- 甸·马田
+- 甸馬田
+- 迪安·马丁
+- 딘 마틴
 has_id_wikidata: Q215359
 genre:
-  - "[[_Standards/WikiData/WD~country_music,83440]]"
-  - "[[_Standards/WikiData/WD~big_band,207378]]"
-  - "[[_Standards/WikiData/WD~easy_listening,848399]]"
-  - "[[_Standards/WikiData/WD~traditional_pop,1196752]]"
-  - "[[_Standards/WikiData/WD~jazz,8341]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-place_of_death: "[[_Standards/WikiData/WD~Beverly_Hills,127856]]"
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~big_band,207378]]'
+- '[[_Standards/WikiData/WD~easy_listening,848399]]'
+- '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
+- '[[_Standards/WikiData/WD~jazz,8341]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
+place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~comedian,245068]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~boxer,11338576]]"
-  - "[[_Standards/WikiData/WD~manufacturer,13235160]]"
-  - "[[_Standards/WikiData/WD~jazz_musician,15981151]]"
-  - "[[_Standards/WikiData/WD~producer,47541952]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~boxer,11338576]]'
+- '[[_Standards/WikiData/WD~manufacturer,13235160]]'
+- '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 record_label:
-  - "[[_Standards/WikiData/WD~EMI,183412]]"
-  - "[[_Standards/WikiData/WD~Capitol_Records,193023]]"
-  - "[[_Standards/WikiData/WD~Reprise_Records,645889]]"
-  - "[[_Standards/WikiData/WD~MGM_Records,1881437]]"
+- '[[_Standards/WikiData/WD~EMI,183412]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
+- '[[_Standards/WikiData/WD~MGM_Records,1881437]]'
 cause_of_death:
-  - "[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]"
-  - "[[_Standards/WikiData/WD~small_cell_carcinoma,738170]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Jerry_Lewis,294927]]"
-part_of: "[[_Standards/WikiData/WD~Martin_and_Lewis,831060]]"
+- '[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]'
+- '[[_Standards/WikiData/WD~small_cell_carcinoma,738170]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Jerry_Lewis,294927]]'
+part_of: '[[_Standards/WikiData/WD~Martin_and_Lewis,831060]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-place_of_birth: "[[_Standards/WikiData/WD~Steubenville,986432]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~lapsed_Catholic,1069127]]"
-member_of: "[[_Standards/WikiData/WD~Rat_Pack,1129029]]"
-discography: "[[_Standards/WikiData/WD~Dean_Martin_discography,1181103]]"
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+place_of_birth: '[[_Standards/WikiData/WD~Steubenville,986432]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~lapsed_Catholic,1069127]]'
+member_of: '[[_Standards/WikiData/WD~Rat_Pack,1129029]]'
+discography: '[[_Standards/WikiData/WD~Dean_Martin_discography,1181103]]'
 child:
-  - "[[_Standards/WikiData/WD~Dean_Paul_Martin,1181118]]"
-  - "[[_Standards/WikiData/WD~Deana_Martin,17305837]]"
-place_of_burial: "[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]"
-given_name: "[[_Standards/WikiData/WD~Dean,1796595]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-educated_at: "[[_Standards/WikiData/WD~Steubenville_High_School,7611699]]"
-family_name: "[[_Standards/WikiData/WD~Martin,12035675]]"
-instrument: "[[_Standards/WikiData/WD~voice,17172850]]"
-different_from: "[[_Standards/WikiData/WD~Deana_Martin,17305837]]"
-spouse: "[[_Standards/WikiData/WD~Jeanne_Martin,21296055]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-relative: "[[_Standards/WikiData/WD~Veronica_J._Valentini,60229347]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-father: "[[_Standards/WikiData/WD~Gaetano_Crocetti,107154698]]"
-mother: "[[_Standards/WikiData/WD~Angela_Barra,107154700]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-voice_type: "[[_Standards/WikiData/WD~baritone,31687]]"
-sport: "[[_Standards/WikiData/WD~boxing,32112]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_for_sport: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~Dean_Paul_Martin,1181118]]'
+- '[[_Standards/WikiData/WD~Deana_Martin,17305837]]'
+place_of_burial: '[[_Standards/WikiData/WD~Westwood_Village_Memorial_Park_Cemetery,1358639]]'
+given_name: '[[_Standards/WikiData/WD~Dean,1796595]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+educated_at: '[[_Standards/WikiData/WD~Steubenville_High_School,7611699]]'
+family_name: '[[_Standards/WikiData/WD~Martin,12035675]]'
+instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
+different_from: '[[_Standards/WikiData/WD~Deana_Martin,17305837]]'
+spouse: '[[_Standards/WikiData/WD~Jeanne_Martin,21296055]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+relative: '[[_Standards/WikiData/WD~Veronica_J._Valentini,60229347]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+father: '[[_Standards/WikiData/WD~Gaetano_Crocetti,107154698]]'
+mother: '[[_Standards/WikiData/WD~Angela_Barra,107154700]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
+sport: '[[_Standards/WikiData/WD~boxing,32112]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_for_sport: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 height: 178
 social_media_followers: 24048
 Commons_gallery: Dean Martin
@@ -76,16 +98,16 @@ Instagram_username: deanmartinofficial
 X_Twitter_username: kingofcool
 Libris_URI: pm1479x72dcvcdp
 pseudonym:
-  - The King of Cool
-  - Dino
-  - Dino Martini
+- The King of Cool
+- Dino
+- Dino Martini
 birth_name: Dino Paul Crocetti
 work_period_start_: 1940-01-01T00:00:00Z
 date_of_birth: 1917-06-07T00:00:00Z
 Commons_category: Dean Martin
 ISNI:
-  - "0000000115631604"
-  - "0000000368598232"
+- 0000000115631604
+- 0000000368598232
 name_in_native_language: Dean Martin
 date_of_death: 1995-12-25T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dean%20Martin%20-%20publicity.JPG
@@ -93,10 +115,95 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Dean%20Martin
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%AB%D5%B6%20%D5%84%D5%A1%D6%80%D5%BF%D5%AB%D5%B6%20%28Dean%20Martin%29.ogg
 official_website: http://www.deanmartin.com/
 Plex_person_key: 5d776826151a60001f24a780
-P1015: "90877777"
+P1015: 90877777
 Europeana_entity: agent/base/59793
+dv_has_:
+  name_:
+    af: Dean Martin
+    ar: دين مارتن
+    arz: دين مارتن
+    ast: Dean Martin
+    az: Din Martin
+    azb: دین مارتین
+    bcl: Dean Martin
+    be-tarask: Дын Мартын
+    bg: Дийн Мартин
+    bs: Dean Martin
+    ca: Dean Martin
+    ckb: دین مارتن
+    cs: Dean Martin
+    cy: Dean Martin
+    da: Dean Martin
+    de: Dean Martin
+    de-ch: Dean Martin
+    el: Ντιν Μάρτιν
+    en: Dean Martin
+    en-ca: Dean Martin
+    en-gb: Dean Martin
+    eo: Dean Martin
+    es: Dean Martin
+    et: Dean Martin
+    eu: Dean Martin
+    fa: دین مارتین
+    fi: Dean Martin
+    fr: Dean Martin
+    ga: Dean Martin
+    gl: Dean Martin
+    he: דין מרטין
+    hr: Dean Martin
+    hu: Dean Martin
+    hy: Դին Մարտին
+    id: Dean Martin
+    io: Dean Martin
+    it: Dean Martin
+    ja: ディーン・マーティン
+    ka: დინ მარტინი
+    kk: Дин Мартин
+    ko: 딘 마틴
+    la: Dean Martin
+    lb: Dean Martin
+    lt: Dean Martin
+    lv: Dīns Mārtins
+    mg: Dean Martin
+    mk: Дин Мартин
+    mul: Dean Martin
+    na: Dean Martin
+    nb: Dean Martin
+    nl: Dean Martin
+    nn: Dean Martin
+    oc: Dean Martin
+    pa: ਡੀਨ ਮਾਰਟਿਨ
+    pap: Dean Martin
+    pl: Dean Martin
+    pt: Dean Martin
+    pt-br: Dean Martin
+    qu: Dean Martin
+    ro: Dean Martin
+    ru: Дин Мартин
+    sco: Dean Martin
+    sh: Dean Martin
+    sk: Dean Martin
+    sl: Dean Martin
+    sq: Din Martin
+    sr: Дин Мартин
+    sv: Dean Martin
+    ta: டீன் மார்டின்
+    th: ดีน มาร์ติน
+    tl: Dean Martin
+    tr: Dean Martin
+    uk: Дін Мартін
+    uz: Dean Martin
+    vi: Dean Martin
+    war: Dean Martin
+    wuu: 迪安·马丁
+    yue: 甸馬田
+    zh: 迪安·马丁
+    zh-cn: 迪安·马丁
+    zh-hant: 甸·馬田
+    zh-hk: 甸·馬田
+    zh-my: 甸·马田
+    zh-sg: 甸·马田
 ---
-
 # [[Martin,Dean]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dean_Martin,215359|WD~Dean_Martin,215359]] 

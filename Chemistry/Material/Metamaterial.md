@@ -1,33 +1,103 @@
 ---
 aliases:
+- metamateriaal
+- metamateriaali
+- metamaterial
+- metamateriale
+- metamaterialo
+- Metamateriał
+- metamaterijaale
+- Metamaterijal
+- metamateriál
+- metamateriála
+- metamateriálla
+- Metamateryal
+- métamatériau
+- метаматеріал
+- метаматеријал
+- метаматериал
+- мэтаматэрыял
+- Մետանյութ
+- מטא-חומר
+- المادة الخارقة
+- فرامواد
+- مېټامتريال
+- മെറ്റാമെറ്റീരിയൽ
+- メタマテリアル
+- 超材料
+- 메타 물질
 has_id_wikidata: Q497166
 subclass_of:
-  - "[[_Standards/WikiData/WD~composite_material,181790]]"
-  - "[[_Standards/WikiData/WD~material,214609]]"
-model_item: "[[_Standards/WikiData/WD~photonic_metamaterial,7187869]]"
+- '[[_Standards/WikiData/WD~composite_material,181790]]'
+- '[[_Standards/WikiData/WD~material,214609]]'
+model_item: '[[_Standards/WikiData/WD~photonic_metamaterial,7187869]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/metamaterials
 Commons_category: Metamaterials
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Metamaterial,497166]]"
-    - "[[/_Standards/Chemistry/Material/Metamaterial|Metamaterial]]"
-    - "[[/_public/Chemistry/Material/Metamaterial.public|Metamaterial.public]]"
-    - "[[/_internal/Chemistry/Material/Metamaterial.internal|Metamaterial.internal]]"
-    - "[[/_protect/Chemistry/Material/Metamaterial.protect|Metamaterial.protect]]"
-    - "[[/_private/Chemistry/Material/Metamaterial.private|Metamaterial.private]]"
-    - "[[/_personal/Chemistry/Material/Metamaterial.personal|Metamaterial.personal]]"
-    - "[[/_secret/Chemistry/Material/Metamaterial.secret|Metamaterial.secret]]"
+  - '[[../../WikiData/WD~Metamaterial,497166]]'
+  - '[[/_Standards/Chemistry/Material/Metamaterial|Metamaterial]]'
+  - '[[/_public/Chemistry/Material/Metamaterial.public|Metamaterial.public]]'
+  - '[[/_internal/Chemistry/Material/Metamaterial.internal|Metamaterial.internal]]'
+  - '[[/_protect/Chemistry/Material/Metamaterial.protect|Metamaterial.protect]]'
+  - '[[/_private/Chemistry/Material/Metamaterial.private|Metamaterial.private]]'
+  - '[[/_personal/Chemistry/Material/Metamaterial.personal|Metamaterial.personal]]'
+  - '[[/_secret/Chemistry/Material/Metamaterial.secret|Metamaterial.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Metamaterial,497166]]"
-  - "[[/_Standards/Chemistry/Material/Metamaterial|Metamaterial]]"
-  - "[[/_public/Chemistry/Material/Metamaterial.public|Metamaterial.public]]"
-  - "[[/_internal/Chemistry/Material/Metamaterial.internal|Metamaterial.internal]]"
-  - "[[/_protect/Chemistry/Material/Metamaterial.protect|Metamaterial.protect]]"
-  - "[[/_private/Chemistry/Material/Metamaterial.private|Metamaterial.private]]"
-  - "[[/_personal/Chemistry/Material/Metamaterial.personal|Metamaterial.personal]]"
-  - "[[/_secret/Chemistry/Material/Metamaterial.secret|Metamaterial.secret]]"
+- '[[../../WikiData/WD~Metamaterial,497166]]'
+- '[[/_Standards/Chemistry/Material/Metamaterial|Metamaterial]]'
+- '[[/_public/Chemistry/Material/Metamaterial.public|Metamaterial.public]]'
+- '[[/_internal/Chemistry/Material/Metamaterial.internal|Metamaterial.internal]]'
+- '[[/_protect/Chemistry/Material/Metamaterial.protect|Metamaterial.protect]]'
+- '[[/_private/Chemistry/Material/Metamaterial.private|Metamaterial.private]]'
+- '[[/_personal/Chemistry/Material/Metamaterial.personal|Metamaterial.personal]]'
+- '[[/_secret/Chemistry/Material/Metamaterial.secret|Metamaterial.secret]]'
+dv_has_:
+  name_:
+    ar: المادة الخارقة
+    ast: Metamaterial
+    be-tarask: мэтаматэрыял
+    bg: Метаматериал
+    ca: metamaterial
+    cs: metamateriál
+    da: metamateriale
+    de: Metamaterial
+    en: metamaterial
+    eo: metamaterialo
+    es: metamaterial
+    eu: metamaterial
+    fa: فرامواد
+    fi: metamateriaali
+    fr: métamatériau
+    he: מטא-חומר
+    hy: Մետանյութ
+    it: Metamateriale
+    ja: メタマテリアル
+    ko: 메타 물질
+    mk: метаматеријал
+    ml: മെറ്റാമെറ്റീരിയൽ
+    mn: Метаматериал
+    nb: metamateriale
+    nl: metamateriaal
+    nn: metamateriale
+    pl: Metamateriał
+    ps: مېټامتريال
+    pt: metamaterial
+    ro: Metamaterial
+    ru: метаматериал
+    se: metamateriála
+    sl: metamaterial
+    sma: metamaterijaale
+    smj: metamateriálla
+    smn: metamateriaal
+    sms: metamateriaal
+    sr: Metamaterijal
+    sv: metamaterial
+    tr: Metamateryal
+    uk: метаматеріал
+    vi: Metamaterial
+    zh: 超材料
 ---
-
 # [[Metamaterial]] 
 
 #is_/same_as :: [[WD~Metamaterial,497166]] 

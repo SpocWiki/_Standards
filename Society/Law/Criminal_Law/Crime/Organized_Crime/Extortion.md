@@ -1,36 +1,141 @@
 ---
 aliases:
-  - Erpressung
-  - shakedown
-  - exaction
-  - Extortion
+- afpersing
+- afpresning
+- Cin hanci da rashawa
+- Erpressung
+- estorsione
+- Estorsión
+- estortsio
+- exaction
+- extorcare
+- extorsion
+- extorsió
+- extorsión
+- extorsão
+- Extortion
+- Faa
+- irtikap
+- Iznuda
+- izsiljevanje
+- Khióng-hat
+- kiristys
+- pengeutpressing
+- Pungutan liar
+- shakedown
+- vydírání
+- Väljapressimine
+- wymuszenie rozbójnicze
+- Zhvatja
+- zsarolás
+- ĉantaĝo
+- εκβιασμός
+- Айлган сүрдүүлэлт
+- Бопсалаушылық
+- вимагання
+- Вымагальніцтва
+- вымаганьне
+- вымогательство
+- изнуђивање
+- Тамаъҷӯӣ
+- Хлынямо
+- Շորթում
+- סחיטה
+- اخاذی
+- انتزاع
+- بھتہ خوری
+- ڀتا خوري
+- ज़बरदस्ती वसूली
+- চাঁদাবাজি
+- การกรรโชก
+- 勒索
+- 恐喝罪
+- 공갈
 has_id_wikidata: Q6452087
 subclass_of:
-  - '[[_Standards/WikiData/WD~crime,83267]]'
-  - '[[_Standards/WikiData/WD~coercion,325980]]'
-  - '[[_Standards/WikiData/WD~Vermögensdelikt,1772449]]'
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~coercion,325980]]'
+- '[[_Standards/WikiData/WD~Vermögensdelikt,1772449]]'
 main_regulatory_text:
-  - '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
-  - '[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]'
-  - '[[_Standards/WikiData/WD~penal_code_of_South_Korea,14858002]]'
+- '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
+- '[[_Standards/WikiData/WD~Polish_Penal_Code,1029679]]'
+- '[[_Standards/WikiData/WD~penal_code_of_South_Korea,14858002]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
 part_of: '[[_Standards/WikiData/WD~Penal_Code_of_Japan,2750187]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~elements_of_an_offence,20820018]]'
-  - '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
-  - '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
+- '[[_Standards/WikiData/WD~elements_of_an_offence,20820018]]'
+- '[[_Standards/WikiData/WD~Wikibase_reason_for_deprecated_rank,27949697]]'
+- '[[_Standards/WikiData/WD~type_of_crime,130583773]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~hostage_taker,111007953]]'
-  - '[[_Standards/WikiData/WD~extortionist,111438723]]'
+- '[[_Standards/WikiData/WD~hostage_taker,111007953]]'
+- '[[_Standards/WikiData/WD~extortionist,111438723]]'
 partially_coincident_with: '[[_Standards/WikiData/WD~blackmail,34284]]'
 U_S_National_Archives_Identifier: 10638637
 MIL_STD_2525_Symbol_Identification_Code: 10014000001101060000
 Commons_category: Extortion
+dv_has_:
+  name_:
+    ar: انتزاع
+    ast: Estorsión
+    be: Вымагальніцтва
+    be-tarask: вымаганьне
+    bn: চাঁদাবাজি
+    ca: extorsió
+    cs: vydírání
+    da: afpresning
+    dag: Faa
+    de: Erpressung
+    de-ch: Erpressung
+    el: εκβιασμός
+    en: extortion
+    en-ca: Extortion
+    en-gb: extortion
+    eo: ĉantaĝo
+    es: extorsión
+    et: Väljapressimine
+    eu: estortsio
+    fa: اخاذی
+    fi: kiristys
+    fr: extorsion
+    gl: Extorsión
+    ha: Cin hanci da rashawa
+    he: סחיטה
+    hi: ज़बरदस्ती वसूली
+    hr: Iznuda
+    hu: zsarolás
+    hy: Շորթում
+    id: Pungutan liar
+    it: estorsione
+    ja: 恐喝罪
+    kk: Бопсалаушылық
+    ko: 공갈
+    mn: Айлган сүрдүүлэлт
+    myv: Хлынямо
+    nan: Khióng-hat
+    nb: pengeutpressing
+    nl: afpersing
+    pl: wymuszenie rozbójnicze
+    pt: extorsão
+    pt-br: extorsão
+    ro: extorcare
+    ru: вымогательство
+    sd: ڀتا خوري
+    sl: izsiljevanje
+    sq: Zhvatja
+    sr: изнуђивање
+    tg: Тамаъҷӯӣ
+    th: การกรรโชก
+    tr: irtikap
+    uk: вимагання
+    ur: بھتہ خوری
+    zh: 勒索
+    zh-cn: 勒索
+    zh-hans: 勒索
+    zh-hant: 勒索
 ---
-
 # [[Extortion]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Extortion,6452087|WD~Extortion,6452087]] 

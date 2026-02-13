@@ -1,92 +1,130 @@
 ---
 aliases:
-  - Frank_Sinatra
-  - Francis Albert Sinatra
-  - Frank Sinatra
-  - Sinatra
-  - Chairman of the Board
-  - Ol' Blue Eyes
-  - Sinatra,Frank
+- Chairman of the Board
+- Francis Albert Sinatra
+- Franciscus Sinatra
+- Frank Sinatra
+- Frank_Sinatra
+- Frenk Sinatra
+- Frenks Sinatra
+- jan Pan Sinata
+- Ol' Blue Eyes
+- Sinatra
+- Sinatra,Frank
+- Φρανκ Σινάτρα
+- Франк Синатра
+- Френк Сінатра
+- Френк Синатра
+- Фрэнк Сінатра
+- Фрэнк Синатра
+- Фрэнк Сынатра
+- Ֆրանք Սինաթրա
+- Ֆրենկ Սինատրա
+- פרנק סינטרה
+- فرانك سيناترا
+- فرانک سناٹرا
+- فرانک سیناترا
+- फ्रैंक सिनाट्रा
+- फ्र्याङ्क सिनात्रा
+- ফ্রাঙ্ক সিনাত্রা
+- ফ্ৰেংক ছিনাট্ৰা
+- ਫਰੈਂਕ ਸਿਨਾਟਰਾ
+- ફ્રેન્ક સિનાત્રા
+- பிராங்க் சினாட்ரா
+- ಫ್ರಾಂಕ್ ಸಿನಾಟ್ರಾ
+- ഫ്രാങ്ക് സിനാട്ര
+- แฟรงก์ ซินาตรา
+- ფრენკ სინათრა
+- ფრენკ სინატრა
+- フランク・シナトラ
+- 弗兰克·西纳特拉
+- 弗兰克·辛纳特拉
+- 法兰·仙纳杜拉
+- 法兰克·辛纳屈
+- 法蘭·仙納杜拉
+- 法蘭仙納杜拉
+- 法蘭克·辛納屈
+- 프랭크 시나트라
 has_id_wikidata: Q40912
 influenced_by:
-  - '[[_Standards/WikiData/WD~Bing_Crosby,72984]]'
-  - '[[_Standards/WikiData/WD~Billie_Holiday,104358]]'
+- '[[_Standards/WikiData/WD~Bing_Crosby,72984]]'
+- '[[_Standards/WikiData/WD~Billie_Holiday,104358]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
-  - '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Male_Pop_Vocal_Performance,947090]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
-  - '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
-  - '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
-  - '[[_Standards/WikiData/WD~Gaming_Hall_of_Fame,5520192]]'
-  - '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
-  - '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
-  - '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Jean_Hersholt_Humanitarian_Award,202051]]'
+- '[[_Standards/WikiData/WD~Austrian_Decoration_for_Science_and_Art,306590]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Male_Pop_Vocal_Performance,947090]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+- '[[_Standards/WikiData/WD~Grammy_Legend_Award,1542347]]'
+- '[[_Standards/WikiData/WD~Screen_Actors_Guild_Life_Achievement_Award,1631998]]'
+- '[[_Standards/WikiData/WD~Gaming_Hall_of_Fame,5520192]]'
+- '[[_Standards/WikiData/WD~Grammy_Trustees_Award,5593916]]'
+- '[[_Standards/WikiData/WD~New_Jersey_Hall_of_Fame,14705795]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
+- '[[_Standards/WikiData/WD~Presidential_Medal_of_Freedom,17144]]'
 residence: '[[_Standards/WikiData/WD~Hoboken,138578]]'
 place_of_birth: '[[_Standards/WikiData/WD~Hoboken,138578]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Ava_Gardner,164487]]'
-  - '[[_Standards/WikiData/WD~Mia_Farrow,202725]]'
-  - '[[_Standards/WikiData/WD~Barbara_Sinatra,2883992]]'
-  - '[[_Standards/WikiData/WD~Nancy_Barbato,55517707]]'
+- '[[_Standards/WikiData/WD~Ava_Gardner,164487]]'
+- '[[_Standards/WikiData/WD~Mia_Farrow,202725]]'
+- '[[_Standards/WikiData/WD~Barbara_Sinatra,2883992]]'
+- '[[_Standards/WikiData/WD~Nancy_Barbato,55517707]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~RCA_Records,202585]]'
-  - '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
-  - '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
-  - '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~RCA_Records,202585]]'
+- '[[_Standards/WikiData/WD~Reprise_Records,645889]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Philips_Records,1536003]]'
 instrument:
-  - '[[_Standards/WikiData/WD~castanets,183932]]'
-  - '[[_Standards/WikiData/WD~triangle,201735]]'
-  - '[[_Standards/WikiData/WD~friction_drum,583827]]'
-  - '[[_Standards/WikiData/WD~voice,17172850]]'
-  - '[[_Standards/WikiData/WD~ukulele,61285]]'
+- '[[_Standards/WikiData/WD~castanets,183932]]'
+- '[[_Standards/WikiData/WD~triangle,201735]]'
+- '[[_Standards/WikiData/WD~friction_drum,583827]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~ukulele,61285]]'
 genre:
-  - '[[_Standards/WikiData/WD~swing_music,203775]]'
-  - '[[_Standards/WikiData/WD~easy_listening,848399]]'
-  - '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
-  - '[[_Standards/WikiData/WD~vocal_jazz,1530455]]'
-  - '[[_Standards/WikiData/WD~big_band_music,105756581]]'
-  - '[[_Standards/WikiData/WD~jazz,8341]]'
-  - '[[_Standards/WikiData/WD~blues,9759]]'
+- '[[_Standards/WikiData/WD~swing_music,203775]]'
+- '[[_Standards/WikiData/WD~easy_listening,848399]]'
+- '[[_Standards/WikiData/WD~traditional_pop,1196752]]'
+- '[[_Standards/WikiData/WD~vocal_jazz,1530455]]'
+- '[[_Standards/WikiData/WD~big_band_music,105756581]]'
+- '[[_Standards/WikiData/WD~jazz,8341]]'
+- '[[_Standards/WikiData/WD~blues,9759]]'
 relative:
-  - '[[_Standards/WikiData/WD~Princess_Stéphanie_of_Monaco,215012]]'
-  - "[[_Standards/WikiData/WD~Maureen_O'Sullivan,230084]]"
+- '[[_Standards/WikiData/WD~Princess_Stéphanie_of_Monaco,215012]]'
+- "[[_Standards/WikiData/WD~Maureen_O'Sullivan,230084]]"
 child:
-  - '[[_Standards/WikiData/WD~Nancy_Sinatra,233937]]'
-  - '[[_Standards/WikiData/WD~Tina_Sinatra,545438]]'
-  - '[[_Standards/WikiData/WD~Frank_Sinatra_Jr.,1349639]]'
+- '[[_Standards/WikiData/WD~Nancy_Sinatra,233937]]'
+- '[[_Standards/WikiData/WD~Tina_Sinatra,545438]]'
+- '[[_Standards/WikiData/WD~Frank_Sinatra_Jr.,1349639]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Angie_Dickinson,235989]]'
-  - '[[_Standards/WikiData/WD~Judith_Exner,511736]]'
+- '[[_Standards/WikiData/WD~Angie_Dickinson,235989]]'
+- '[[_Standards/WikiData/WD~Judith_Exner,511736]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Q577011,577011]]'
-  - '[[_Standards/WikiData/WD~Francis,1441346]]'
+- '[[_Standards/WikiData/WD~Q577011,577011]]'
+- '[[_Standards/WikiData/WD~Francis,1441346]]'
 ethnic_group: '[[_Standards/WikiData/WD~Italian_Americans,974693]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Rat_Pack,1129029]]'
-  - '[[_Standards/WikiData/WD~Tommy_Dorsey_and_His_Orchestra,57389132]]'
-  - '[[_Standards/WikiData/WD~Harry_James_and_His_Orchestra,90535187]]'
+- '[[_Standards/WikiData/WD~Rat_Pack,1129029]]'
+- '[[_Standards/WikiData/WD~Tommy_Dorsey_and_His_Orchestra,57389132]]'
+- '[[_Standards/WikiData/WD~Harry_James_and_His_Orchestra,90535187]]'
 discography: '[[_Standards/WikiData/WD~Frank_Sinatra_discography,1435510]]'
 place_of_burial: '[[_Standards/WikiData/WD~Desert_Memorial_Park,2357024]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -105,14 +143,14 @@ writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
 member_of_political_party:
-  - '[[_Standards/WikiData/WD~Republican_Party,29468]]'
-  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+- '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+- '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
 voice_type: '[[_Standards/WikiData/WD~baritone,31687]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 work_locations: '[[_Standards/WikiData/WD~United_States,30]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 place_of_death: '[[_Standards/WikiData/WD~Los_Angeles,65]]'
 number_of_children: 3
 height: 172
@@ -120,8 +158,8 @@ social_media_followers: 78953
 Commons_gallery: Frank Sinatra
 Commons_category: Frank Sinatra
 X_Twitter_username:
-  - franksinatra
-  - FrankSinatra
+- franksinatra
+- FrankSinatra
 Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/SINATRA_FRENK.html
 Libris_URI: wt79b3cf44zm9t6
 birth_name: Francis Albert Sinatra
@@ -135,17 +173,141 @@ work_period_start_: 1935-01-01T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%20%281957%20studio%20portrait%20close-up%29.jpg
 plaque_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%20plaque%2C%20Washington%20DC%20-%20Andy%20Mabbett%20-%202012-07-04.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%27s%20Star.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hobosinatrastar.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%20plaque%2C%20Washington%20DC%20-%20Andy%20Mabbett%20-%202012-07-04.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%27s%20Star.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hobosinatrastar.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Sinatra%20signature.svg
 official_website: https://www.sinatra.com
 ISNI: 0000000108823528
 IPI_name_number: 00028814966
 Plex_person_key: 5d77682754f42c001f8c29e5
 Europeana_entity: agent/base/59981
+dv_has_:
+  name_:
+    af: Frank Sinatra
+    an: Frank Sinatra
+    ar: فرانك سيناترا
+    arz: فرانك سيناترا
+    as: ফ্ৰেংক ছিনাট্ৰা
+    ast: Frank Sinatra
+    ay: Frank Sinatra
+    az: Frenk Sinatra
+    azb: فرانک سیناترا
+    bcl: Frank Sinatra
+    be: Фрэнк Сінатра
+    be-tarask: Фрэнк Сынатра
+    bg: Франк Синатра
+    bi: Frank Sinatra
+    bn: ফ্রাঙ্ক সিনাত্রা
+    br: Frank Sinatra
+    bs: Frank Sinatra
+    ca: Frank Sinatra
+    ckb: فرانک سیناترا
+    cs: Frank Sinatra
+    cv: Фрэнк Синатра
+    cy: Frank Sinatra
+    da: Frank Sinatra
+    de: Frank Sinatra
+    de-ch: Frank Sinatra
+    el: Φρανκ Σινάτρα
+    eml: Frank Sinatra
+    en: Frank Sinatra
+    en-ca: Frank Sinatra
+    en-gb: Frank Sinatra
+    eo: Frank Sinatra
+    es: Frank Sinatra
+    et: Frank Sinatra
+    eu: Frank Sinatra
+    fa: فرانک سیناترا
+    fi: Frank Sinatra
+    fr: Frank Sinatra
+    fy: Frank Sinatra
+    ga: Frank Sinatra
+    gd: Frank Sinatra
+    gl: Frank Sinatra
+    gu: ફ્રેન્ક સિનાત્રા
+    ha: Frank Sinatra
+    he: פרנק סינטרה
+    hi: फ्रैंक सिनाट्रा
+    hr: Frank Sinatra
+    hu: Frank Sinatra
+    hy: Ֆրենկ Սինատրա
+    hyw: Ֆրանք Սինաթրա
+    ia: Frank Sinatra
+    id: Frank Sinatra
+    io: Frank Sinatra
+    is: Frank Sinatra
+    it: Frank Sinatra
+    ja: フランク・シナトラ
+    ka: ფრენკ სინატრა
+    kk: Фрэнк Синатра
+    kn: ಫ್ರಾಂಕ್ ಸಿನಾಟ್ರಾ
+    ko: 프랭크 시나트라
+    la: Franciscus Sinatra
+    lb: Frank Sinatra
+    li: Frank Sinatra
+    lmo: Frank Sinatra
+    lt: Frank Sinatra
+    lv: Frenks Sinatra
+    mg: Frank Sinatra
+    mk: Френк Синатра
+    ml: ഫ്രാങ്ക് സിനാട്ര
+    mn: Фрэнк Синатра
+    ms: Frank Sinatra
+    mul: Frank Sinatra
+    nah: Frank Sinatra
+    nan: Frank Sinatra
+    nb: Frank Sinatra
+    nds-nl: Frank Sinatra
+    new: फ्र्याङ्क सिनात्रा
+    nl: Frank Sinatra
+    nn: Frank Sinatra
+    oc: Frank Sinatra
+    pa: ਫਰੈਂਕ ਸਿਨਾਟਰਾ
+    pag: Frank Sinatra
+    pap: Frank Sinatra
+    pl: Frank Sinatra
+    pms: Frank Sinatra
+    pnb: فرانک سناٹرا
+    pt: Frank Sinatra
+    pt-br: Frank Sinatra
+    qu: Frank Sinatra
+    ro: Frank Sinatra
+    ru: Фрэнк Синатра
+    scn: Frank Sinatra
+    sco: Frank Sinatra
+    se: Francis Albert Sinatra
+    sh: Frank Sinatra
+    sk: Frank Sinatra
+    sl: Frank Sinatra
+    sq: Frank Sinatra
+    sr: Френк Синатра
+    su: Frank Sinatra
+    sv: Frank Sinatra
+    ta: பிராங்க் சினாட்ரா
+    th: แฟรงก์ ซินาตรา
+    tl: Frank Sinatra
+    tly: Frenk Sinatra
+    tok: jan Pan Sinata
+    tr: Frank Sinatra
+    uk: Френк Сінатра
+    uz: Frank Sinatra
+    vec: Frank Sinatra
+    vi: Frank Sinatra
+    vo: Frank Sinatra
+    war: Frank Sinatra
+    wuu: 弗兰克·西纳特拉
+    xmf: ფრენკ სინათრა
+    yo: Frank Sinatra
+    yue: 法蘭仙納杜拉
+    zh: 法蘭·仙納杜拉
+    zh-cn: 弗兰克·辛纳特拉
+    zh-hant: 法蘭克·辛納屈
+    zh-hk: 法蘭·仙納杜拉
+    zh-my: 法兰·仙纳杜拉
+    zh-sg: 法兰克·辛纳屈
+    zh-tw: 法蘭克·辛納屈
 ---
-
 # [[Sinatra,Frank]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Frank_Sinatra,40912|WD~Frank_Sinatra,40912]]

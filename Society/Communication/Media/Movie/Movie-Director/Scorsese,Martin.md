@@ -1,138 +1,174 @@
 ---
 aliases:
-  - Martin Scorsese
-  - Scorsese
-  - Martin Charles Scorsese
-  - Martin_Scorsese
-  - Scorsese,Martin
+- jan Masin Kosesi
+- Martin Charles Scorsese
+- Martin Scorsese
+- Martin Skorseze
+- Martinus Scorsese
+- Martin_Scorsese
+- Mārtins Skorsēze
+- Scorsese
+- Scorsese,Martin
+- Μάρτιν Σκορσέζε
+- Мартін Скорсезе
+- Мартин Скорсезе
+- Мартын Скарсэзэ
+- Марцін Скарсэзэ
+- Մարթին Սքորսեզէ
+- Մարտին Սկորսեզե
+- מארטין סקארסעזע
+- מרטין סקורסזה
+- مارتن سكورسيزي
+- مارتين سكورسيزى
+- مارتین اسکورسیزی
+- مارتین چارلس سکورسیزي
+- مارٹن سکورسیزی
+- ماڕتن سکۆڕسێزی
+- मार्टिन स्कॉर्सेसी
+- मार्टिन स्कोर्सेसे
+- মার্টিন স্কোরসেজি
+- ਮਾਰਟਿਨ ਸਕੌਰਸੇਸੀ
+- மார்ட்டின் ஸ்கோர்செசி
+- మార్టిన్ స్కోర్సెస్
+- മാർട്ടിൻ സ്കോർസസെ
+- มาร์ติน สกอร์เซซี
+- მარტინ სკორსეზე
+- マーティン・スコセッシ
+- 馬丁·史柯西斯
+- 馬田·史高西斯
+- 馬田史高西斯
+- 马丁·史柯西斯
+- 马丁·斯科塞斯
+- 马田·史高西斯
+- 마틴 스코세이지
 has_id_wikidata: Q41148
 genre:
-  - '[[_Standards/WikiData/WD~documentary_film,93204]]'
-  - '[[_Standards/WikiData/WD~drama_film,130232]]'
-  - '[[_Standards/WikiData/WD~fantasy_film,157394]]'
-  - '[[_Standards/WikiData/WD~comedy_film,157443]]'
-  - '[[_Standards/WikiData/WD~Western_film,172980]]'
-  - '[[_Standards/WikiData/WD~film_noir,185867]]'
-  - '[[_Standards/WikiData/WD~action_film,188473]]'
-  - '[[_Standards/WikiData/WD~horror_film,200092]]'
-  - '[[_Standards/WikiData/WD~adventure_film,319221]]'
-  - '[[_Standards/WikiData/WD~war_film,369747]]'
-  - '[[_Standards/WikiData/WD~heist_film,496523]]'
-  - '[[_Standards/WikiData/WD~biographical_film,645928]]'
-  - '[[_Standards/WikiData/WD~epic_film,652256]]'
-  - '[[_Standards/WikiData/WD~comedy_drama,859369]]'
-  - '[[_Standards/WikiData/WD~crime_film,959790]]'
-  - '[[_Standards/WikiData/WD~mystery_film,1200678]]'
-  - '[[_Standards/WikiData/WD~sport_film,1339864]]'
-  - '[[_Standards/WikiData/WD~neo_noir,2421031]]'
-  - '[[_Standards/WikiData/WD~thriller_film,2484376]]'
-  - '[[_Standards/WikiData/WD~gangster_film,7444356]]'
-  - '[[_Standards/WikiData/WD~historical_film,17013749]]'
-  - '[[_Standards/WikiData/WD~crime_thriller_film,19367312]]'
-  - '[[_Standards/WikiData/WD~comedy_horror_film,108466999]]'
-  - '[[_Standards/WikiData/WD~psychological_horror_film,109629396]]'
-  - '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
-  - '[[_Standards/WikiData/WD~crime_drama_film,113485322]]'
-  - '[[_Standards/WikiData/WD~historical_drama_film,116514801]]'
+- '[[_Standards/WikiData/WD~documentary_film,93204]]'
+- '[[_Standards/WikiData/WD~drama_film,130232]]'
+- '[[_Standards/WikiData/WD~fantasy_film,157394]]'
+- '[[_Standards/WikiData/WD~comedy_film,157443]]'
+- '[[_Standards/WikiData/WD~Western_film,172980]]'
+- '[[_Standards/WikiData/WD~film_noir,185867]]'
+- '[[_Standards/WikiData/WD~action_film,188473]]'
+- '[[_Standards/WikiData/WD~horror_film,200092]]'
+- '[[_Standards/WikiData/WD~adventure_film,319221]]'
+- '[[_Standards/WikiData/WD~war_film,369747]]'
+- '[[_Standards/WikiData/WD~heist_film,496523]]'
+- '[[_Standards/WikiData/WD~biographical_film,645928]]'
+- '[[_Standards/WikiData/WD~epic_film,652256]]'
+- '[[_Standards/WikiData/WD~comedy_drama,859369]]'
+- '[[_Standards/WikiData/WD~crime_film,959790]]'
+- '[[_Standards/WikiData/WD~mystery_film,1200678]]'
+- '[[_Standards/WikiData/WD~sport_film,1339864]]'
+- '[[_Standards/WikiData/WD~neo_noir,2421031]]'
+- '[[_Standards/WikiData/WD~thriller_film,2484376]]'
+- '[[_Standards/WikiData/WD~gangster_film,7444356]]'
+- '[[_Standards/WikiData/WD~historical_film,17013749]]'
+- '[[_Standards/WikiData/WD~crime_thriller_film,19367312]]'
+- '[[_Standards/WikiData/WD~comedy_horror_film,108466999]]'
+- '[[_Standards/WikiData/WD~psychological_horror_film,109629396]]'
+- '[[_Standards/WikiData/WD~psychological_thriller_film,109733304]]'
+- '[[_Standards/WikiData/WD~crime_drama_film,113485322]]'
+- '[[_Standards/WikiData/WD~historical_drama_film,116514801]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
-  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
-  - '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
-  - '[[_Standards/WikiData/WD~Honorary_Golden_Bear,287062]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]'
-  - '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series,583972]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
-  - '[[_Standards/WikiData/WD~Honorary_César,727282]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Adapted_Screenplay,739694]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
-  - '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
-  - '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~The_George_Pal_Memorial_Award,3101822]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
-  - '[[_Standards/WikiData/WD~Dallas_Fort_Worth_Film_Critics_Association_Award_for_Best_Director,5211225]]'
-  - '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
-  - '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
-  - '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
-  - '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Evelyn_F._Burkey_Award,122167901]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Film,139184]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~Praemium_Imperiale,268670]]'
+- '[[_Standards/WikiData/WD~Honorary_Golden_Bear,287062]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Cannes_Best_Director_Award,510175]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Outstanding_Directing_for_a_Drama_Series,583972]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~Honorary_César,727282]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Adapted_Screenplay,739694]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Direction,787131]]'
+- '[[_Standards/WikiData/WD~Academy_Fellowship_Award,787148]]'
+- '[[_Standards/WikiData/WD~Britannia_Awards,849771]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~The_George_Pal_Memorial_Award,3101822]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_the_Arts,3319305]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
+- '[[_Standards/WikiData/WD~Dallas_Fort_Worth_Film_Critics_Association_Award_for_Best_Director,5211225]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_Award_for_Lifetime_Achievement,13634272]]'
+- '[[_Standards/WikiData/WD~Knight_Grand_Cross_of_the_Order_of_Merit_of_the_Italian_Republic,14539974]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_from_Princeton_University,42309226]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Evelyn_F._Burkey_Award,122167901]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Gangs_of_New_York,154581]]'
-  - '[[_Standards/WikiData/WD~The_Departed,172975]]'
-  - '[[_Standards/WikiData/WD~The_Aviator,201924]]'
-  - '[[_Standards/WikiData/WD~Hugo,206576]]'
-  - '[[_Standards/WikiData/WD~Shutter_Island,210364]]'
-  - '[[_Standards/WikiData/WD~Raging_Bull,220780]]'
-  - '[[_Standards/WikiData/WD~Casino,220910]]'
-  - '[[_Standards/WikiData/WD~The_Color_of_Money,470916]]'
-  - '[[_Standards/WikiData/WD~Cape_Fear,501995]]'
-  - '[[_Standards/WikiData/WD~Bringing_Out_the_Dead,599013]]'
-  - '[[_Standards/WikiData/WD~The_Last_Temptation_of_Christ,646031]]'
-  - '[[_Standards/WikiData/WD~New_York,_New_York,743367]]'
-  - '[[_Standards/WikiData/WD~Mean_Streets,841335]]'
-  - '[[_Standards/WikiData/WD~After_Hours,846209]]'
-  - '[[_Standards/WikiData/WD~The_Last_Waltz,847599]]'
-  - "[[_Standards/WikiData/WD~Alice_Doesn't_Live_Here_Anymore,916431]]"
-  - '[[_Standards/WikiData/WD~Kundun,944291]]'
-  - '[[_Standards/WikiData/WD~The_King_of_Comedy,1122281]]'
-  - '[[_Standards/WikiData/WD~The_Age_of_Innocence,1125442]]'
-  - '[[_Standards/WikiData/WD~Boxcar_Bertha,1212396]]'
-  - '[[_Standards/WikiData/WD~The_Wolf_of_Wall_Street,1392744]]'
-  - "[[_Standards/WikiData/WD~Who's_That_Knocking_at_My_Door,2575227]]"
-  - '[[_Standards/WikiData/WD~Silence,18811634]]'
-  - '[[_Standards/WikiData/WD~The_Irishman,29057443]]'
-  - '[[_Standards/WikiData/WD~Killers_of_the_Flower_Moon,66316924]]'
-  - '[[_Standards/WikiData/WD~The_Wager,122056171]]'
-  - '[[_Standards/WikiData/WD~Goodfellas,42047]]'
-  - '[[_Standards/WikiData/WD~Taxi_Driver,47221]]'
+- '[[_Standards/WikiData/WD~Gangs_of_New_York,154581]]'
+- '[[_Standards/WikiData/WD~The_Departed,172975]]'
+- '[[_Standards/WikiData/WD~The_Aviator,201924]]'
+- '[[_Standards/WikiData/WD~Hugo,206576]]'
+- '[[_Standards/WikiData/WD~Shutter_Island,210364]]'
+- '[[_Standards/WikiData/WD~Raging_Bull,220780]]'
+- '[[_Standards/WikiData/WD~Casino,220910]]'
+- '[[_Standards/WikiData/WD~The_Color_of_Money,470916]]'
+- '[[_Standards/WikiData/WD~Cape_Fear,501995]]'
+- '[[_Standards/WikiData/WD~Bringing_Out_the_Dead,599013]]'
+- '[[_Standards/WikiData/WD~The_Last_Temptation_of_Christ,646031]]'
+- '[[_Standards/WikiData/WD~New_York,_New_York,743367]]'
+- '[[_Standards/WikiData/WD~Mean_Streets,841335]]'
+- '[[_Standards/WikiData/WD~After_Hours,846209]]'
+- '[[_Standards/WikiData/WD~The_Last_Waltz,847599]]'
+- "[[_Standards/WikiData/WD~Alice_Doesn't_Live_Here_Anymore,916431]]"
+- '[[_Standards/WikiData/WD~Kundun,944291]]'
+- '[[_Standards/WikiData/WD~The_King_of_Comedy,1122281]]'
+- '[[_Standards/WikiData/WD~The_Age_of_Innocence,1125442]]'
+- '[[_Standards/WikiData/WD~Boxcar_Bertha,1212396]]'
+- '[[_Standards/WikiData/WD~The_Wolf_of_Wall_Street,1392744]]'
+- "[[_Standards/WikiData/WD~Who's_That_Knocking_at_My_Door,2575227]]"
+- '[[_Standards/WikiData/WD~Silence,18811634]]'
+- '[[_Standards/WikiData/WD~The_Irishman,29057443]]'
+- '[[_Standards/WikiData/WD~Killers_of_the_Flower_Moon,66316924]]'
+- '[[_Standards/WikiData/WD~The_Wager,122056171]]'
+- '[[_Standards/WikiData/WD~Goodfellas,42047]]'
+- '[[_Standards/WikiData/WD~Taxi_Driver,47221]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Isabella_Rossellini,203840]]'
-  - '[[_Standards/WikiData/WD~Barbara_De_Fina,2141296]]'
-  - '[[_Standards/WikiData/WD~Julia_Cameron,4412539]]'
-  - '[[_Standards/WikiData/WD~Helen_Schermerhorn_Morris,21694246]]'
-  - '[[_Standards/WikiData/WD~Laraine_Marie_Brennan,21694247]]'
+- '[[_Standards/WikiData/WD~Isabella_Rossellini,203840]]'
+- '[[_Standards/WikiData/WD~Barbara_De_Fina,2141296]]'
+- '[[_Standards/WikiData/WD~Julia_Cameron,4412539]]'
+- '[[_Standards/WikiData/WD~Helen_Schermerhorn_Morris,21694246]]'
+- '[[_Standards/WikiData/WD~Laraine_Marie_Brennan,21694247]]'
 mother: '[[_Standards/WikiData/WD~Catherine_Scorsese,441713]]'
 member_of:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Directors_Guild_of_America,1227533]]'
-  - '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Directors_Guild_of_America,1227533]]'
+- '[[_Standards/WikiData/WD~Writers_Guild_of_America_West,8038459]]'
 occupation:
-  - '[[_Standards/WikiData/WD~television_producer,578109]]'
-  - '[[_Standards/WikiData/WD~television_director,2059704]]'
-  - '[[_Standards/WikiData/WD~music_video_director,2340668]]'
-  - '[[_Standards/WikiData/WD~voice_actor,2405480]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~film_historian,20971250]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~television_producer,578109]]'
+- '[[_Standards/WikiData/WD~television_director,2059704]]'
+- '[[_Standards/WikiData/WD~music_video_director,2340668]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~film_historian,20971250]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 ethnic_group:
-  - '[[_Standards/WikiData/WD~Italian_Americans,974693]]'
-  - '[[_Standards/WikiData/WD~Sicilian_Americans,7507476]]'
+- '[[_Standards/WikiData/WD~Italian_Americans,974693]]'
+- '[[_Standards/WikiData/WD~Sicilian_Americans,7507476]]'
 father: '[[_Standards/WikiData/WD~Charles_Scorsese,1066037]]'
 educated_at: '[[_Standards/WikiData/WD~Cardinal_Hayes_High_School,5038559]]'
 student_of: '[[_Standards/WikiData/WD~Haig_P._Manoogian,5639077]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Martin_Scorsese_and_Robert_De_Niro,6776558]]'
-  - '[[_Standards/WikiData/WD~Martin_Scorsese_and_Leonardo_DiCaprio,25349951]]'
+- '[[_Standards/WikiData/WD~Martin_Scorsese_and_Robert_De_Niro,6776558]]'
+- '[[_Standards/WikiData/WD~Martin_Scorsese_and_Leonardo_DiCaprio,25349951]]'
 filmography: '[[_Standards/WikiData/WD~Martin_Scorsese_filmography,6776557]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Martin_Scorsese,8084304]]'
 list_of_works: '[[_Standards/WikiData/WD~Martin_Scorsese_bibliography,16977150]]'
@@ -140,14 +176,14 @@ given_name: '[[_Standards/WikiData/WD~Martin,18002399]]'
 family_name: '[[_Standards/WikiData/WD~Scorsese,21493618]]'
 position_held: '[[_Standards/WikiData/WD~President_of_the_Jury_at_the_Cannes_Festival,23958341]]'
 child:
-  - '[[_Standards/WikiData/WD~Domenica_Cameron_Scorsese,41732108]]'
-  - '[[_Standards/WikiData/WD~Cathy_Scorsese,65029634]]'
-  - '[[_Standards/WikiData/WD~Francesca_Scorsese,66091313]]'
+- '[[_Standards/WikiData/WD~Domenica_Cameron_Scorsese,41732108]]'
+- '[[_Standards/WikiData/WD~Cathy_Scorsese,65029634]]'
+- '[[_Standards/WikiData/WD~Francesca_Scorsese,66091313]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 owner_of: '[[_Standards/WikiData/WD~Sikelia_Productions,65084821]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~NFF_Archive,131377870]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~NFF_Archive,131377870]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 archives_at: '[[_Standards/WikiData/WD~Martin_Scorsese_VHS_Tape_Collection,125145952]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Catholicism,1841]]'
@@ -157,12 +193,12 @@ native_language: '[[_Standards/WikiData/WD~English,1860]]'
 place_of_birth: '[[_Standards/WikiData/WD~Queens,18424]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 height: 160
 partner_in_business_or_sport:
-  - '[[_Standards/WikiData/WD~Robert_De_Niro,36949]]'
-  - '[[_Standards/WikiData/WD~Leonardo_DiCaprio,38111]]'
+- '[[_Standards/WikiData/WD~Robert_De_Niro,36949]]'
+- '[[_Standards/WikiData/WD~Leonardo_DiCaprio,38111]]'
 employer: '[[_Standards/WikiData/WD~New_York_University,49210]]'
 influenced_by: '[[_Standards/WikiData/WD~Howard_Hawks,51581]]'
 Commons_category: Martin Scorsese
@@ -172,8 +208,8 @@ name_in_native_language: Martin Scorsese
 date_of_birth: 1942-11-17T00:00:00Z
 floruit: 1999-01-01T00:00:00Z
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Scorsese-68749.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Scorsese%20MFF%202023.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Scorsese-68749.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Scorsese%20MFF%202023.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Scorsese-signature%202.svg
 ISNI: 0000000121479346
 Plex_person_key: 5d776824961905001eb90983
@@ -182,8 +218,120 @@ Instagram_username: martinscorsese_
 Libris_URI: nl036ld652bh7vf
 Facebook_username: scorsese
 birth_name: Martin Charles Scorsese
+dv_has_:
+  name_:
+    af: Martin Scorsese
+    an: Martin Scorsese
+    ar: مارتن سكورسيزي
+    arz: مارتين سكورسيزى
+    ast: Martin Scorsese
+    az: Martin Skorseze
+    azb: مارتین اسکورسیزی
+    be: Марцін Скарсэзэ
+    be-tarask: Мартын Скарсэзэ
+    bg: Мартин Скорсезе
+    bn: মার্টিন স্কোরসেজি
+    br: Martin Scorsese
+    bs: Martin Scorsese
+    ca: Martin Scorsese
+    ckb: ماڕتن سکۆڕسێزی
+    cs: Martin Scorsese
+    cy: Martin Scorsese
+    da: Martin Scorsese
+    de: Martin Scorsese
+    el: Μάρτιν Σκορσέζε
+    en: Martin Scorsese
+    en-ca: Martin Scorsese
+    en-gb: Martin Scorsese
+    eo: Martin Scorsese
+    es: Martin Scorsese
+    et: Martin Scorsese
+    eu: Martin Scorsese
+    fa: مارتین اسکورسیزی
+    fi: Martin Scorsese
+    fr: Martin Scorsese
+    fy: Martin Scorsese
+    ga: Martin Scorsese
+    gl: Martin Scorsese
+    he: מרטין סקורסזה
+    hi: मार्टिन स्कोर्सेसे
+    hif: Martin Scorsese
+    hr: Martin Scorsese
+    hu: Martin Scorsese
+    hy: Մարտին Սկորսեզե
+    hyw: Մարթին Սքորսեզէ
+    id: Martin Scorsese
+    io: Martin Scorsese
+    is: Martin Scorsese
+    it: Martin Scorsese
+    ja: マーティン・スコセッシ
+    ka: მარტინ სკორსეზე
+    kk: Мартин Скорсезе
+    ko: 마틴 스코세이지
+    ky: Мартин Скорсезе
+    la: Martinus Scorsese
+    lb: Martin Scorsese
+    lt: Martin Scorsese
+    lv: Mārtins Skorsēze
+    mg: Martin Scorsese
+    mk: Мартин Скорсезе
+    ml: മാർട്ടിൻ സ്കോർസസെ
+    mn: Мартин Скорсезе
+    mr: मार्टिन स्कॉर्सेसी
+    ms: Martin Scorsese
+    mul: Martin Scorsese
+    mzn: مارتین اسکورسیزی
+    nan: Martin Scorsese
+    nb: Martin Scorsese
+    new: मार्टिन स्कोर्सेसे
+    nl: Martin Scorsese
+    nn: Martin Scorsese
+    oc: Martin Scorsese
+    os: Мартин Скорсезе
+    pa: ਮਾਰਟਿਨ ਸਕੌਰਸੇਸੀ
+    pap: Martin Scorsese
+    pl: Martin Scorsese
+    pms: Martin Scorsese
+    ps: مارتین چارلس سکورسیزي
+    pt: Martin Scorsese
+    pt-br: Martin Scorsese
+    qu: Martin Scorsese
+    ro: Martin Scorsese
+    ru: Мартин Скорсезе
+    sa: मार्टिन स्कोर्सेसे
+    sco: Martin Scorsese
+    sh: Martin Scorsese
+    sk: Martin Scorsese
+    sl: Martin Scorsese
+    sq: Martin Scorsese
+    sr: Мартин Скорсезе
+    sv: Martin Scorsese
+    sw: Martin Scorsese
+    ta: மார்ட்டின் ஸ்கோர்செசி
+    te: మార్టిన్ స్కోర్సెస్
+    th: มาร์ติน สกอร์เซซี
+    tok: jan Masin Kosesi
+    tr: Martin Scorsese
+    uk: Мартін Скорсезе
+    ur: مارٹن سکورسیزی
+    uz: Martin Scorsese
+    vi: Martin Scorsese
+    war: Martin Scorsese
+    wuu: 马丁·斯科塞斯
+    xmf: მარტინ სკორსეზე
+    yi: מארטין סקארסעזע
+    yo: Martin Scorsese
+    yue: 馬田史高西斯
+    zh: 马丁·斯科塞斯
+    zh-cn: 马丁·斯科塞斯
+    zh-hans: 马丁·斯科塞斯
+    zh-hant: 馬田·史高西斯
+    zh-hk: 馬田史高西斯
+    zh-mo: 馬田·史高西斯
+    zh-my: 马田·史高西斯
+    zh-sg: 马丁·史柯西斯
+    zh-tw: 馬丁·史柯西斯
 ---
-
 # [[Scorsese,Martin]] 
 
 #has_/time_/started :: 1942-11-17 

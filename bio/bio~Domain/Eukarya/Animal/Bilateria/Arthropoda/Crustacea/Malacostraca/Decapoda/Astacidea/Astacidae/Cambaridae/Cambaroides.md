@@ -1,9 +1,59 @@
 ---
 aliases:
-  - Cambaroides
+- Cambaroides
+- アジアザリガニ属
+- 拟螯虾属
+- 擬螯蝦屬
+- 黑螯虾
+- 黑螯蝦
+- 가재
 title: Cambaroides
+has_id_wikidata: Q1953178
+dv_has_:
+  name_:
+    an: Cambaroides
+    ast: Cambaroides
+    bg: Cambaroides
+    ca: Cambaroides
+    ceb: Cambaroides
+    de: Cambaroides
+    en: Cambaroides
+    eo: Cambaroides
+    es: Cambaroides
+    eu: Cambaroides
+    ext: Cambaroides
+    fi: Cambaroides
+    fr: Cambaroides
+    ga: Cambaroides
+    gl: Cambaroides
+    ia: Cambaroides
+    ie: Cambaroides
+    io: Cambaroides
+    it: Cambaroides
+    ja: アジアザリガニ属
+    ko: 가재
+    la: Cambaroides
+    mul: Cambaroides
+    nb: Cambaroides
+    nl: Cambaroides
+    oc: Cambaroides
+    pl: Cambaroides
+    pt: Cambaroides
+    pt-br: Cambaroides
+    ro: Cambaroides
+    ru: Cambaroides
+    sq: Cambaroides
+    uk: Cambaroides
+    vi: Cambaroides
+    vo: Cambaroides
+    war: Cambaroides
+    zh: 拟螯虾属
+    zh-cn: 拟螯虾属
+    zh-hans: 黑螯虾
+    zh-hant: 黑螯蝦
+    zh-hk: 黑螯蝦
+    zh-tw: 擬螯蝦屬
 ---
-
 # [[Cambaroides]] 
 
 

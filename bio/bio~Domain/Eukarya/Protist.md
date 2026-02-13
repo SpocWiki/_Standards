@@ -1,166 +1,191 @@
 ---
 aliases:
-  - Protists
-  - protoctist
-  - Protoctista
-  - Protista
-  - protist
-  - Protist
-  - Միաբջիջներ
-  - Պրոտոզոաներ
-  - Պրոտոզոններ
-  - Protistas
-  - Protisto
-  - Protisti
-  - პროტისტები
-  - Споралылар
-  - បឋមត្ថិកសត្វ
-  - 원생생물
-  - Protistai
-  - protisti
-  - Протисти
-  - പ്രോട്ടിസ്റ്റ
-  - प्रोटिस्टा
-  - Protister
-  - Protisten
-  - Protistar
-  - Protisty
-  - پروٹسٹ
-  - Ch'ulla kawsaykuq
-  - Protiste
-  - Протисты / Простейшие
-  - Протистар
-  - ප්රෝටිස්ටා රාජධානිය
-  - Urdjur / Protozoer / Protister
-  - அதிநுண்ணுயிரி
-  - ప్రోటిస్టా
-  - โปรติสต์
-  - Meʻamoʻuimuʻa
-  - اولانیات
-  - Protistad
-  - Sinh vật nguyên sinh
-  - פראטיסטן
-  - 原生生物
-  - 原生生物界
-  - تکیاختگان
-  - Algloomad
-  - Frumdýr
-  - Prvoky
-  - Найпростіші
-  - طلائعيات
-  - প্ৰটিষ্টা
-  - İbtidailər
-  - Prótisten
-  - Пратысты
-  - Протиста
-  - প্রোটিস্ট
-  - شانشینی پێشەنگییەکان
-  - prvoci / Protisté
-  - Protosoa
-  - Protozo / Protister / Protist
-  - Πρώτιστα
-  - Protistoj
-  - protobacteria
-  - Protistid
-  - Alkueliöt
-  - Protistes
-  - Uurdiarten
-  - Protischte
-  - פרוטיסטים
-  - प्रोटिस्ट
-  - Pwotis
-  - protiszták
-  - Véglények
+- Algloomad
+- Alkueliöt
+- Brotist
+- Ch'ulla kawsaykuq
+- Frumdýr
+- Frumverur
+- Goân-seng seng-bu̍t
+- Meʻamoʻuimuʻa
+- Pirootistaa
+- Protis
+- Protischte
+- protist
+- Protista
+- Protistad
+- Protistai
+- Protistar
+- Protistas
+- Protiste
+- Protisten
+- Protister
+- Protistes
+- Protisti
+- Protistid
+- Protistiq
+- protistler
+- Protisto
+- Protistoj
+- Protists
+- Protisty
+- protisté
+- Protistā
+- protiszták
+- protobacteria
+- protoctist
+- Protoctista
+- Protosoa
+- Protozo / Protister / Protist
+- Pruotis
+- prvoci / Protisté
+- Prvoky
+- prótaisteach
+- Prótisten
+- Pwotis
+- Sinh vật nguyên sinh
+- Urdjur / Protozoer / Protister
+- Uurdiarten
+- Véglények
+- İbtidailər
+- Πρώτιστα
+- Найпростіші
+- Оғозиён
+- Пратысты
+- Протист
+- Протиста
+- Протистар
+- Протисти
+- протистлар
+- протистъёс
+- протисты
+- Протисты / Простейшие
+- Споралылар
+- Միաբջիջներ
+- Պրոտոզոաներ
+- Պրոտոզոններ
+- פראטיסטן
+- פרוטיסטים
+- آغازیان
+- اولانیات
+- تکیاختگان
+- شانشینی پێشەنگییەکان
+- طلائعيات
+- پروتیستلر
+- پروٹسٹ
+- پروٽسٽ
+- یک خلوی عضویہ
+- प्रोटिस्ट
+- प्रोटिस्टा
+- प्रोटिस्ट्
+- প্রোটিস্ট
+- প্ৰটিষ্টা
+- ਪਰੋਟਿਸਟ
+- அதிநுண்ணுயிரி
+- ప్రోటిస్టా
+- ಪ್ರೊಟಿಸ್ಟ್
+- പ്രോട്ടിസ്റ്റ
+- ප්රෝටිස්ටා රාජධානිය
+- โปรติสต์
+- โพรทิสต์
+- မူလသက်ရှိ
+- პროტესტები
+- პროტისტები
+- ፕሮቲስታ
+- បឋមត្ថិកសត្វ
+- 原生生物
+- 原生生物界
+- 원생생물
 has_id_wikidata: Q10892
 title: The other protists
 taxon_common_name:
-  - Միաբջիջներ
-  - Պրոտոզոաներ
-  - Պրոտոզոններ
-  - Protistas
-  - Protisto
-  - Protisti
-  - პროტისტები
-  - Споралылар
-  - បឋមត្ថិកសត្វ
-  - 원생생물
-  - Protistai
-  - protisti
-  - Протисти
-  - പ്രോട്ടിസ്റ്റ
-  - प्रोटिस्टा
-  - Protister
-  - Protisten
-  - Protistar
-  - Protisty
-  - پروٹسٹ
-  - Ch'ulla kawsaykuq
-  - Protiste
-  - Протисты / Простейшие
-  - Протистар
-  - ප්රෝටිස්ටා රාජධානිය
-  - protisti
-  - Urdjur / Protozoer / Protister
-  - அதிநுண்ணுயிரி
-  - ప్రోటిస్టా
-  - โปรติสต์
-  - Meʻamoʻuimuʻa
-  - اولانیات
-  - Protistad
-  - Sinh vật nguyên sinh
-  - פראטיסטן
-  - 原生生物
-  - 原生生物
-  - 原生生物界
-  - تکیاختگان
-  - Protisten
-  - Algloomad
-  - Frumdýr
-  - Prvoky
-  - Найпростіші
-  - 原生生物
-  - Protiste
-  - طلائعيات
-  - প্ৰটিষ্টা
-  - İbtidailər
-  - Протистар
-  - Prótisten
-  - Пратысты
-  - Пратысты
-  - Протиста
-  - প্রোটিস্ট
-  - Protisti
-  - Protist
-  - شانشینی پێشەنگییەکان
-  - protisti
-  - prvoci / Protisté
-  - Protosoa
-  - Protozo / Protister / Protist
-  - Πρώτιστα
-  - Protistoj
-  - protobacteria
-  - Protistid
-  - Alkueliöt
-  - Protistes
-  - Uurdiarten
-  - Protischte
-  - פרוטיסטים
-  - प्रोटिस्ट
-  - Protisti
-  - Pwotis
-  - protiszták
-  - Véglények
+- Միաբջիջներ
+- Պրոտոզոաներ
+- Պրոտոզոններ
+- Protistas
+- Protisto
+- Protisti
+- პროტისტები
+- Споралылар
+- បឋមត្ថិកសត្វ
+- 원생생물
+- Protistai
+- protisti
+- Протисти
+- പ്രോട്ടിസ്റ്റ
+- प्रोटिस्टा
+- Protister
+- Protisten
+- Protistar
+- Protisty
+- پروٹسٹ
+- Ch'ulla kawsaykuq
+- Protiste
+- Протисты / Простейшие
+- Протистар
+- ප්රෝටිස්ටා රාජධානිය
+- protisti
+- Urdjur / Protozoer / Protister
+- அதிநுண்ணுயிரி
+- ప్రోటిస్టా
+- โปรติสต์
+- Meʻamoʻuimuʻa
+- اولانیات
+- Protistad
+- Sinh vật nguyên sinh
+- פראטיסטן
+- 原生生物
+- 原生生物
+- 原生生物界
+- تکیاختگان
+- Protisten
+- Algloomad
+- Frumdýr
+- Prvoky
+- Найпростіші
+- 原生生物
+- Protiste
+- طلائعيات
+- প্ৰটিষ্টা
+- İbtidailər
+- Протистар
+- Prótisten
+- Пратысты
+- Пратысты
+- Протиста
+- প্রোটিস্ট
+- Protisti
+- Protist
+- شانشینی پێشەنگییەکان
+- protisti
+- prvoci / Protisté
+- Protosoa
+- Protozo / Protister / Protist
+- Πρώτιστα
+- Protistoj
+- protobacteria
+- Protistid
+- Alkueliöt
+- Protistes
+- Uurdiarten
+- Protischte
+- פרוטיסטים
+- प्रोटिस्ट
+- Protisti
+- Pwotis
+- protiszták
+- Véglények
 NBN_System_Key: NBNSYS0100004887
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 studied_by: '[[_Standards/WikiData/WD~protistology,2467781]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~grade,2612572]]'
-  - '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~grade,2612572]]'
+- '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Protist_structures,20346012]]'
 inception: -2100000000-01-01T00:00:00Z
 subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
@@ -171,8 +196,145 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Protist%20coll
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DysnectesBrevis.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%9F.wav
 EPPO_Code: 1PROTK
+dv_has_:
+  name_:
+    af: Protiste
+    am: ፕሮቲስታ
+    an: Protista
+    anp: प्रोटिस्ट्
+    ar: طلائعيات
+    arz: طلائعيات
+    as: প্ৰটিষ্টা
+    ast: Protista
+    az: İbtidailər
+    azb: پروتیستلر
+    ba: Протистар
+    bar: Protist
+    be: пратысты
+    be-tarask: пратысты
+    bg: протисти
+    bn: প্রোটিস্ট
+    br: protist
+    bs: Protisti
+    ca: protist
+    ceb: Protista
+    ckb: شانشینی پێشەنگییەکان
+    cs: protisté
+    cy: protist
+    da: Protister
+    de: Protisten
+    el: Πρώτιστα
+    en: protist
+    en-us: protist
+    eo: protistoj
+    es: protista
+    et: protistid
+    eu: Protista
+    ext: protista
+    fa: آغازیان
+    fi: alkueliöt
+    fr: protista
+    frr: Uurdiarten
+    ga: prótaisteach
+    gl: Protista
+    gsw: Protisten
+    gv: Protista
+    ha: protist
+    he: פרוטיסטים
+    hi: प्रोटिस्ट
+    hif: Protist
+    hr: Protisti
+    ht: Pwotis
+    hu: protiszták
+    ia: Protista
+    id: Protista
+    ie: Protiste
+    ilo: protista
+    io: Protisto
+    is: Frumverur
+    it: protista
+    ja: 原生生物
+    jam: Pruotis
+    jv: Protista
+    ka: პროტესტები
+    kk: Споралылар
+    kn: ಪ್ರೊಟಿಸ್ಟ್
+    ko: 원생생물
+    kw: Protist
+    la: Protista
+    lb: Protisten
+    lfn: Protista
+    lij: Protista
+    lt: Protistai
+    lv: Protisti
+    mg: Protista
+    mk: Протисти
+    ml: പ്രോട്ടിസ്റ്റ
+    mn: Протист
+    ms: Protis
+    mul: Protista
+    my: မူလသက်ရှိ
+    nan: Goân-seng seng-bu̍t
+    nap: Protista
+    nb: protister
+    nds: Protisten
+    nl: protisten
+    nn: protistar
+    oc: Protista
+    om: Pirootistaa
+    pa: ਪਰੋਟਿਸਟ
+    pcm: protist
+    pl: protisty
+    pms: Protista
+    pnb: پروٹسٹ
+    pt: protista
+    qu: Ch'ulla kawsaykuq
+    ro: protista
+    ru: протисты
+    sah: Протистар
+    sc: Protista
+    scn: Protisti
+    sd: پروٽسٽ
+    sgs: Protistā
+    sh: Protisti
+    si: ප්රෝටිස්ටා රාජධානිය
+    sk: Protista
+    sl: protisti
+    so: Brotist
+    sq: Protista
+    sr: протисти
+    sr-ec: протисти
+    su: protista
+    sv: protister
+    sw: Protista
+    ta: அதிநுண்ணுயிரி
+    te: ప్రోటిస్టా
+    tg: Оғозиён
+    th: โพรทิสต์
+    tl: Protista
+    to: Meʻamoʻuimuʻa
+    tr: protistler
+    tt: протистлар
+    udm: протистъёс
+    uk: протисти
+    ur: یک خلوی عضویہ
+    vep: Protistad
+    vi: Sinh vật nguyên sinh
+    vro: Protistiq
+    war: Protista
+    wuu: 原生生物
+    yi: פראטיסטן
+    yue: 原生生物
+    zh: 原生生物
+    zh-cn: 原生生物
+    zh-hans: 原生生物
+    zh-hant: 原生生物
+    zh-hk: 原生生物
+    zh-mo: 原生生物
+    zh-my: 原生生物
+    zh-sg: 原生生物
+    zh-tw: 原生生物
 ---
-
 # [[Protist]] 
 
 #is_a/bio-Kingdom 

@@ -1,41 +1,58 @@
 ---
 aliases:
-  - Fernand Joseph Désiré Contandin
-  - Fernandel
+- Fernand Joseph Désiré Contandin
+- Fernandel
+- Fernandels
+- Φερναντέλ
+- Фернандел
+- Фернандель
+- Фернандэль
+- Фэрнандэль
+- Ֆեռնան Քոնթանտէն
+- Ֆեռնանդել
+- פרננדל
+- فرناندل
+- ਫਰਨੈਂਡਲ
+- ფერნანდელი
+- フェルナンデル
+- 范南杜
+- 費南代爾
+- 费南代尔
+- 페르낭델
 has_id_wikidata: Q129092
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~comedian,245068]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~comedian,245068]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 place_of_death: '[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420]]'
 residence:
-  - '[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420]]'
-  - '[[_Standards/WikiData/WD~Carry_le_Rouet,239631]]'
-  - '[[_Standards/WikiData/WD~9th_arrondissement_of_Paris,275118]]'
-  - '[[_Standards/WikiData/WD~12th_arrondissement_of_Marseille,1269245]]'
+- '[[_Standards/WikiData/WD~16th_arrondissement_of_Paris,194420]]'
+- '[[_Standards/WikiData/WD~Carry_le_Rouet,239631]]'
+- '[[_Standards/WikiData/WD~9th_arrondissement_of_Paris,275118]]'
+- '[[_Standards/WikiData/WD~12th_arrondissement_of_Marseille,1269245]]'
 significant_event:
-  - '[[_Standards/WikiData/WD~funeral,201676]]'
-  - '[[_Standards/WikiData/WD~marriage,8445]]'
+- '[[_Standards/WikiData/WD~funeral,201676]]'
+- '[[_Standards/WikiData/WD~marriage,8445]]'
 significant_person:
-  - '[[_Standards/WikiData/WD~Marcel_Pagnol,236630]]'
-  - '[[_Standards/WikiData/WD~Sacha_Guitry,337276]]'
-  - '[[_Standards/WikiData/WD~Gino_Cervi,554301]]'
-  - '[[_Standards/WikiData/WD~Raimu,1394721]]'
-  - '[[_Standards/WikiData/WD~Jean_Manse,3173354]]'
+- '[[_Standards/WikiData/WD~Marcel_Pagnol,236630]]'
+- '[[_Standards/WikiData/WD~Sacha_Guitry,337276]]'
+- '[[_Standards/WikiData/WD~Gino_Cervi,554301]]'
+- '[[_Standards/WikiData/WD~Raimu,1394721]]'
+- '[[_Standards/WikiData/WD~Jean_Manse,3173354]]'
 place_of_birth: '[[_Standards/WikiData/WD~5th_arrondissement_of_Marseille,238661]]'
 award_received:
-  - '[[_Standards/WikiData/WD~National_Order_of_Merit,652962]]'
-  - '[[_Standards/WikiData/WD~honorary_citizenship,987080]]'
-  - '[[_Standards/WikiData/WD~Golden_Leopard,1700510]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
-  - '[[_Standards/WikiData/WD~Knight_of_the_National_Order_of_Merit,13422138]]'
-  - '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
-  - "[[_Standards/WikiData/WD~Officier_de_l'Instruction_publique,18204187]]"
+- '[[_Standards/WikiData/WD~National_Order_of_Merit,652962]]'
+- '[[_Standards/WikiData/WD~honorary_citizenship,987080]]'
+- '[[_Standards/WikiData/WD~Golden_Leopard,1700510]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_National_Order_of_Merit,13422138]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- "[[_Standards/WikiData/WD~Officier_de_l'Instruction_publique,18204187]]"
 place_of_burial: '[[_Standards/WikiData/WD~Passy_Cemetery,1092107]]'
 given_name: '[[_Standards/WikiData/WD~Fernand,1406472]]'
 member_of: "[[_Standards/WikiData/WD~93e_régiment_d'artillerie_de_montagne,2818705]]"
@@ -47,8 +64,8 @@ manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 different_from: '[[_Standards/WikiData/WD~Fernandel,3742871]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 employer:
-  - '[[_Standards/WikiData/WD~Banque_nationale_de_crédit,16531314]]'
-  - '[[_Standards/WikiData/WD~Q99194988,99194988]]'
+- '[[_Standards/WikiData/WD~Banque_nationale_de_crédit,16531314]]'
+- '[[_Standards/WikiData/WD~Q99194988,99194988]]'
 discography: '[[_Standards/WikiData/WD~Fernandel_discography,16629068]]'
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
@@ -73,8 +90,92 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grave%20monum
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fernandel-Toulouse-1970.png
 official_website: http://fernandel.online.fr/
 ISNI: 0000000108037535
+dv_has_:
+  name_:
+    af: Fernandel
+    an: Fernandel
+    ar: فرناندل
+    arz: فرناندل
+    ast: Fernandel
+    az: Fernandel
+    ba: Фернандель
+    be: Фернандэль
+    be-tarask: Фэрнандэль
+    bg: Фернандел
+    bi: Fernandel
+    bs: Fernandel
+    ca: Fernandel
+    cs: Fernandel
+    cy: Fernandel
+    da: Fernandel
+    dag: Fernandel
+    de: Fernandel
+    el: Φερναντέλ
+    eml: Fernandel
+    en: Fernandel
+    eo: Fernandel
+    es: Fernandel
+    eu: Fernandel
+    fa: فرناندل
+    fi: Fernandel
+    fr: Fernandel
+    frc: Fernandel
+    frp: Fernandel
+    gl: Fernandel
+    he: פרננדל
+    hif: Fernandel
+    hr: Fernandel
+    ht: Fernandel
+    hu: Fernandel
+    hy: Ֆեռնանդել
+    hyw: Ֆեռնան Քոնթանտէն
+    id: Fernandel
+    ilo: Fernandel
+    io: Fernandel
+    it: Fernandel
+    ja: フェルナンデル
+    ka: ფერნანდელი
+    ko: 페르낭델
+    la: Fernandel
+    lb: Fernandel
+    lmo: Fernandel
+    lt: Fernandel
+    lv: Fernandels
+    mdf: Фэрнандэль
+    mg: Fernandel
+    nb: Fernandel
+    nl: Fernandel
+    nn: Fernandel
+    nrm: Fernandel
+    oc: Fernandel
+    pa: ਫਰਨੈਂਡਲ
+    pap: Fernandel
+    pl: Fernandel
+    pms: Fernandel
+    pt: Fernandel
+    pt-br: Fernandel
+    ro: Fernandel
+    ru: Фернандель
+    sh: Fernandel
+    sk: Fernandel
+    sl: Fernandel
+    sq: Fernandel
+    sr: Fernandel
+    su: Fernandel
+    sv: Fernandel
+    tr: Fernandel
+    uk: Фернандель
+    vec: Fernandel
+    vi: Fernandel
+    war: Fernandel
+    wuu: 费南代尔
+    yue: 范南杜
+    zh: 費南代爾
+    zh-hans: 费南代尔
+    zh-hant: 費南代爾
+    zh-hk: 范南杜
+    zh-tw: 費南代爾
 ---
-
 # [[Fernandel]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Fernandel,129092|WD~Fernandel,129092]] 

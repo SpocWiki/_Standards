@@ -1,22 +1,98 @@
 ---
 aliases:
-  - design of experiments
-  - experiment design
-  - experimental design
-  - Design_of_Experiments
-  - Design of Experiments
+- deney tasarımı
+- desenho experimental
+- Deseño de experimentos
+- design af videnskabeligt eksperiment
+- design of experiments
+- Design_of_Experiments
+- disegno sperimentale
+- Diseinu esperimental
+- diseño experimental
+- disseny d'experiments
+- eksperimentdesign
+- Eksperimentin planlanması
+- eksperimentplanado
+- experiment design
+- experimental design
+- experimenteel ontwerpen
+- försöksplanering
+- Mpangilio wa Majaribio
+- Navrhovanie experimentov
+- načrtovanje eksperimentov
+- Perancangan percobaan
+- Plan d'experiéncias
+- plan d'expériences
+- plánování experimentů
+- proiectare experimentală
+- Projektowanie eksperymentów
+- Rancangan percobaan
+- statistische Versuchsplanung
+- Πειραματικός σχεδιασμός
+- експериментални дизајн
+- планирование эксперимента
+- планування експерименту
+- плянаваньне экспэрымэнту
+- Туршилтын дизайн
+- תכנון ניסויים
+- تصميم التجارب
+- طراحی آزمایش
+- 実験計画法
+- 實驗設計
+- 试验设计
+- 실험계획법
 has_id_wikidata: Q2334061
 subclass_of: '[[_Standards/WikiData/WD~planning,309100]]'
 has_use: '[[_Standards/WikiData/WD~economic_production,739302]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~method,1799072]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~method,1799072]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Experimental_design,15402021]]'
 part_of: '[[_Standards/WikiData/WD~statistics,12483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DOE%20-%20Modell%20f%C3%BCr%203%20Faktoren.svg
 Commons_category: Design of experiments
+dv_has_:
+  name_:
+    ar: تصميم التجارب
+    az: Eksperimentin planlanması
+    be-tarask: плянаваньне экспэрымэнту
+    ca: disseny d'experiments
+    cs: plánování experimentů
+    da: design af videnskabeligt eksperiment
+    de: statistische Versuchsplanung
+    el: Πειραματικός σχεδιασμός
+    en: design of experiments
+    eo: eksperimentplanado
+    es: diseño experimental
+    eu: Diseinu esperimental
+    fa: طراحی آزمایش
+    fr: plan d'expériences
+    gl: Deseño de experimentos
+    he: תכנון ניסויים
+    id: Perancangan percobaan
+    it: disegno sperimentale
+    ja: 実験計画法
+    ko: 실험계획법
+    mn: Туршилтын дизайн
+    nb: eksperimentdesign
+    nl: experimenteel ontwerpen
+    oc: Plan d'experiéncias
+    pl: Projektowanie eksperymentów
+    pt-br: desenho experimental
+    ro: proiectare experimentală
+    ru: планирование эксперимента
+    sk: Navrhovanie experimentov
+    sl: načrtovanje eksperimentov
+    sr: експериментални дизајн
+    su: Rancangan percobaan
+    sv: försöksplanering
+    sw: Mpangilio wa Majaribio
+    tr: deney tasarımı
+    uk: планування експерименту
+    yue: 實驗設計
+    zh: 试验设计
+    zh-hant: 實驗設計
 ---
-
 # [[Design_of_Experiments]] 
 
 #is_/same_as :: [[../../WikiData/WD~Design_of_experiments,2334061|WD~Design_of_experiments,2334061]] 

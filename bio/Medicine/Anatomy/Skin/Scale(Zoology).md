@@ -1,21 +1,183 @@
 ---
 aliases:
+- Cen
+- escama
+- escata
+- Ezkata
+- fiskeskjell
+- fjäll
+- Hreistur
+- Kal
+- lann
+- Ljuska (anatomija)
+- luska
+- Lustra
+- Lân
+- ohokai
+- pikkely
+- Pira’ape
+- Pul
+- Qabırşaq
+- Scagghia
+- scaglia
+- scale
+- schub
+- Schuppe
+- Sisiak (kulik)
+- Sisik
+- Skob
+- skvamo
+- Skæl
+- Soldzu
+- Solz
+- soomus
+- Squama
+- Squamo
+- suomu
+- Vảy
+- Widava ke Romania
+- Zvīņas
+- écaille
+- čuomas
+- čuomâs
+- čuõmm
+- łuska
+- šupina
+- Žvynas
+- Žvīns
+- ɓɔ̀lók
+- Вĕтĕ хупă
+- крлушка
+- Луска
+- лускавіна
+- луски
+- лустра
+- Люспа
+- Сӱм
+- чешуя
+- қабыршақ
+- Թեփուկ
+- קשקש
+- حرشفة
+- سکلیم
+- قابىرشاق
+- پولک (کالبدشناسی)
+- चोञटा
+- शल्क
+- செதில்கள்
+- పొలుసు
+- ကြေးခွံ
+- ၵဵတ်း
+- ᡝᠰᡳᡥᡝ
+- 鱗
+- 鳞
+- 비늘
 has_id_wikidata: Q188488
-subclass_of: "[[_Standards/WikiData/WD~seta,126780]]"
+subclass_of: '[[_Standards/WikiData/WD~seta,126780]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-studied_by: "[[_Standards/WikiData/WD~lepidology,1820059]]"
-OmegaWiki_Defined_Meaning: "1505745"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~lepidology,1820059]]'
+OmegaWiki_Defined_Meaning: 1505745
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Keeled%20scales%20on%20a%20southern%20watersnake%20%2826954310414%29.jpg
 MeSH_tree_code:
-  - A13.079
-  - A17.100
+- A13.079
+- A17.100
 UMLS_CUI: C4505294
 Commons_category: Scalation
+dv_has_:
+  name_:
+    an: escama
+    ar: حرشفة
+    ast: Escama
+    atj: ohokai
+    avk: Widava ke Romania
+    be: Луска
+    be-tarask: лускавіна
+    bg: Люспа
+    bho: चोञटा
+    bs: Ljuska (anatomija)
+    ca: escata
+    cs: šupina
+    cv: Вĕтĕ хупă
+    cy: Cen
+    da: Skæl
+    de: Schuppe
+    en: scale
+    eo: skvamo
+    es: escama
+    et: soomus
+    eu: Ezkata
+    fa: پولک (کالبدشناسی)
+    fi: suomu
+    fr: écaille
+    fy: Skob
+    ga: lann
+    gl: escama
+    gn: Pira’ape
+    he: קשקש
+    hi: शल्क
+    hr: Lustra
+    ht: Kal
+    hu: pikkely
+    hy: Թեփուկ
+    id: Sisik
+    io: Squamo
+    is: Hreistur
+    it: scaglia
+    ja: 鱗
+    kk: қабыршақ
+    kk-arab: قابىرشاق
+    kk-cn: قابىرشاق
+    kk-cyrl: Қабыршақ
+    kk-kz: Қабыршақ
+    kk-latn: Qabırşaq
+    kk-tr: Qabırşaq
+    ko: 비늘
+    la: Squama
+    lt: Žvynas
+    lv: Zvīņas
+    mcn: ɓɔ̀lók
+    min: Sisiak (kulik)
+    mk: крлушка
+    mnc: ᡝᠰᡳᡥᡝ
+    mrj: Сӱм
+    ms: Sisik
+    my: ကြေးခွံ
+    mzn: سکلیم
+    nan: Lân
+    nb: fiskeskjell
+    nl: schub
+    pl: łuska
+    pt: escama
+    ro: Solz
+    ru: чешуя
+    rup: Soldzu
+    scn: Scagghia
+    se: čuomas
+    sgs: Žvīns
+    shn: ၵဵတ်း
+    sl: luska
+    smn: čuomâs
+    sms: čuõmm
+    sr: лустра
+    sv: fjäll
+    ta: செதில்கள்
+    te: పొలుసు
+    tr: Pul
+    uk: луски
+    vi: Vảy
+    wuu: 鳞
+    yue: 鱗
+    zh: 鳞
+    zh-cn: 鳞
+    zh-hans: 鳞
+    zh-hant: 鱗
+    zh-hk: 鱗
+    zh-sg: 鳞
+    zh-tw: 鱗
 ---
-
 # [[Scale(Zoology)]] 
 
 #is_/same_as :: [[WD~Scale,188488]] 

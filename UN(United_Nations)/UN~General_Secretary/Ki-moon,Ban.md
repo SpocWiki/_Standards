@@ -117,7 +117,7 @@ date_of_birth: 1944-06-13T00:00:00Z
 
 # [[Ki-moon,Ban]] 
 
-#is_/same_as :: [[WD~Ban Ki-moon,1253]]
+#is_/same_as :: [[WD~Ban_Ki-moon,1253]]
 
 ## #has_/text_of_/abstract 
 

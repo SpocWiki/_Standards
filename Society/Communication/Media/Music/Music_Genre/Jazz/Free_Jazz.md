@@ -1,18 +1,88 @@
 ---
-has_time_started: 1960-01-01 
+has_time_started: 1960-01-01
 aliases:
-  - Free_jazz
-  - Free_Jazz
-  - Free Jazz
+- azadcaz
+- brīvais džezs
+- Free džez
+- Free Jazz
+- Free-jazz
+- Free_jazz
+- frijazz
+- Jazz liberum
+- laisvasis džiazas
+- libera ĵazo
+- Slobodni džez
+- svobodni jazz
+- özgür caz
+- φρι τζαζ
+- вольны джаз
+- Слободен џез
+- фрі-джаз
+- фри-джаз
+- Ֆրի ջազ
+- ג'אז חופשי
+- جاز آزاد
+- جاز حر
+- フリー・ジャズ
+- 自由爵士
+- 프리 재즈
 has_id_wikidata: Q211781
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 subclass_of: '[[_Standards/WikiData/WD~avant_garde_jazz,790188]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Europe,46]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Europe,46]]'
 inception: 1960-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: جاز حر
+    ast: Free jazz
+    be-tarask: вольны джаз
+    bs: Free džez
+    ca: free-jazz
+    cs: free jazz
+    da: free jazz
+    de: Free Jazz
+    el: φρι τζαζ
+    en: free jazz
+    eo: libera ĵazo
+    es: free jazz
+    et: Free jazz
+    eu: Free-jazz
+    fa: جاز آزاد
+    fi: free jazz
+    fr: free jazz
+    frr: free jazz
+    fy: Free jazz
+    gl: Free jazz
+    he: ג'אז חופשי
+    hr: Free jazz
+    hu: free jazz
+    hy: Ֆրի ջազ
+    it: free jazz
+    ja: フリー・ジャズ
+    ko: 프리 재즈
+    ku: azadcaz
+    ku-latn: azadcaz
+    la: Jazz liberum
+    lt: laisvasis džiazas
+    lv: brīvais džezs
+    mk: Слободен џез
+    nb: frijazz
+    nl: free jazz
+    nn: frijazz
+    pl: Free jazz
+    pt: free jazz
+    ru: фри-джаз
+    sh: Free jazz
+    sl: svobodni jazz
+    sr: Slobodni džez
+    sv: frijazz
+    tr: özgür caz
+    uk: фрі-джаз
+    vi: Free jazz
+    zh: 自由爵士
 ---
-
 # [[Free_Jazz]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Free_jazz,211781|WD~Free_jazz,211781]] 

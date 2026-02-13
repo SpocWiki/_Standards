@@ -1,25 +1,106 @@
 ---
 aliases:
-  - Geflügel
-  - Poultry
+- Akoho amam-borona
+- ave de capoeira
+- ave de corral
+- ave de curral
+- Aves cohortales
+- aviram
+- baromfi
+- Dofednod
+- domaća perad
+- domácí drůbež
+- drób
+- ebe a na-azụ ọkukọ
+- Etxeko hegazti
+- fjerkræ
+- fjäderfä
+- fjærkre
+- fjørfe
+- Geflügel
+- gia cầm
+- guşçulyk
+- Heywanê puneki
+- hydina
+- Iwuzaṭ
+- Ke-ah
+- kodulind
+- kortobirdo
+- kümes hayvanları
+- la᷅ynà
+- mājputns
+- Parrandachilik
+- paukštiena
+- paukštė̄na
+- perad
+- perutnina
+- pjerizna
+- Plomfee
+- pluimvee
+- pollame
+- poltri
+- Poultry
+- Poytreye
+- pulakët
+- Pultro
+- păsări de curte
+- qus şarwaşılığı
+- siipikarja
+- unggas
+- Unggeh
+- volaille
+- volay
+- éanlaith chlóis
+- Živina
+- πουλερικά
+- домашна птица
+- домашняя птица
+- живина
+- йорт ҡоштары
+- кошчылык
+- свійські птахи
+- свойскія птушкі
+- Құс шаруашылығы
+- ұй құстары
+- Թռչնաբուծություն
+- עופות
+- עופות משק
+- دواجن
+- قۇس شارۋاشىلىعى
+- ماکیان
+- ߛߏߞߐ߬ߣߐ
+- कुक्कुट
+- पोल्ट्री
+- পোল্ট্রি
+- ਪੋਲਟਰੀ
+- କୁକୁଡ଼ା ପାଳନ
+- கோழியின வளர்ப்புப் பறவைகள்
+- สัตว์ปีกบ้าน
+- ကြက်ငှက်မွေးမြူခြင်း
+- ကြက်ငှက်မွေးမြူရေး
+- მეფრინველეობა
+- 家禽
+- 禽
+- 鷄鴨
+- 집새
 has_id_wikidata: Q178559
 has_use:
-  - '[[_Standards/WikiData/WD~egg_as_food,93189]]'
-  - '[[_Standards/WikiData/WD~poultry_farming,861182]]'
-  - '[[_Standards/WikiData/WD~poultry_meat,18087876]]'
+- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+- '[[_Standards/WikiData/WD~poultry_farming,861182]]'
+- '[[_Standards/WikiData/WD~poultry_meat,18087876]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~livestock,103459]]'
-  - '[[_Standards/WikiData/WD~domesticated_bird,57815212]]'
+- '[[_Standards/WikiData/WD~livestock,103459]]'
+- '[[_Standards/WikiData/WD~domesticated_bird,57815212]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
 OmegaWiki_Defined_Meaning: 2939
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Scheuerer%20H%C3%BChnerhof.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Abattoir%20de%20volaille.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Scheuerer%20H%C3%BChnerhof.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Abattoir%20de%20volaille.jpg
 subreddit: poultry
 U_S_National_Archives_Identifier: 10644281
 Commons_category: Poultry
@@ -28,14 +109,118 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Volailles.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000068
 Dewey_Decimal_Classification: 664.93
 MeSH_tree_code:
-  - B01.050.050.116.625
-  - B01.050.150.900.248.690
-  - G07.203.300.600.750
-  - J02.500.600.750
+- B01.050.050.116.625
+- B01.050.150.900.248.690
+- G07.203.300.600.750
+- J02.500.600.750
 UMLS_CUI: C0032850
 Wolfram_Language_entity_code: Entity["FoodType", "Poultry"]
+dv_has_:
+  name_:
+    af: pluimvee
+    ar: دواجن
+    ast: ave de corral
+    ba: йорт ҡоштары
+    be-tarask: свойскія птушкі
+    bg: домашна птица
+    bn: পোল্ট্রি
+    bs: domaća perad
+    ca: aviram
+    cs: domácí drůbež
+    cy: Dofednod
+    da: fjerkræ
+    de: Geflügel
+    diq: Heywanê puneki
+    el: πουλερικά
+    en: poultry
+    eo: kortobirdo
+    es: ave de corral
+    et: kodulind
+    eu: Etxeko hegazti
+    fa: ماکیان
+    fi: siipikarja
+    fr: volaille
+    fy: Plomfee
+    ga: éanlaith chlóis
+    gl: ave de curral
+    he: עופות משק
+    hi: पोल्ट्री
+    hr: perad
+    hsb: pjerizna
+    ht: volay
+    hu: baromfi
+    hy: Թռչնաբուծություն
+    id: unggas
+    ig: ebe a na-azụ ọkukọ
+    io: Pultro
+    it: pollame
+    ja: 家禽
+    jv: unggas
+    ka: მეფრინველეობა
+    kab: Iwuzaṭ
+    kk: ұй құстары
+    kk-arab: قۇس شارۋاشىلىعى
+    kk-cn: قۇس شارۋاشىلىعى
+    kk-cyrl: Құс шаруашылығы
+    kk-kz: Құс шаруашылығы
+    kk-latn: qus şarwaşılığı
+    kk-tr: qus şarwaşılığı
+    ko: 집새
+    la: Aves cohortales
+    lt: paukštiena
+    lv: mājputns
+    lzh: 禽
+    mcn: la᷅ynà
+    mg: Akoho amam-borona
+    min: Unggeh
+    mk: живина
+    mr: कुक्कुट
+    ms: unggas
+    my: ကြက်ငှက်မွေးမြူရေး
+    nan: Ke-ah
+    nb: fjærkre
+    nl: pluimvee
+    nn: fjørfe
+    nqo: ߛߏߞߐ߬ߣߐ
+    or: କୁକୁଡ଼ା ପାଳନ
+    pa: ਪੋਲਟਰੀ
+    pl: drób
+    pt: ave de capoeira
+    rki: ကြက်ငှက်မွေးမြူခြင်း
+    ro: păsări de curte
+    ru: домашняя птица
+    sgs: paukštė̄na
+    sh: Živina
+    sk: hydina
+    sl: perutnina
+    sq: pulakët
+    sr: живина
+    sr-ec: живина
+    sr-el: Živina
+    sv: fjäderfä
+    ta: கோழியின வளர்ப்புப் பறவைகள்
+    th: สัตว์ปีกบ้าน
+    tk: guşçulyk
+    tl: poltri
+    tr: kümes hayvanları
+    tt: кошчылык
+    tt-cyrl: кошчылык
+    uk: свійські птахи
+    uz: Parrandachilik
+    vi: gia cầm
+    wa: Poytreye
+    war: poltri
+    wuu: 家禽
+    yi: עופות
+    yue: 鷄鴨
+    zh: 家禽
+    zh-cn: 家禽
+    zh-hans: 家禽
+    zh-hant: 家禽
+    zh-hk: 家禽
+    zh-sg: 家禽
+    zh-tw: 家禽
 ---
-
 # [[Poultry]] 
 
 #is_/same_as :: [[WD~Poultry,178559]] 

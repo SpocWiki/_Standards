@@ -1,11 +1,59 @@
 ---
-has_time_started: 1927-01-01 
+has_time_started: 1927-01-01
 aliases:
-  - QED
-  - Quantenelektrodynamik
-  - quantum electrodynamics
-  - QED(Quantum_Electrodynamics)
-  - QED(Quantum Electrodynamics)
+- electrodinamică cuantică
+- electrodinàmica quàntica
+- electrodinámica cuántica
+- electrodynamica quantica
+- elektrodinamik kuantum
+- elektrodinamika kuantike
+- elektrodinamika kuantiko
+- elektrodinamika kuantum
+- elektrodynamika kwantowa
+- eletrodinâmica quântica
+- elettrodinamica quantistica
+- kuantum elektrodinamiği
+- kvanteelektrodynamik
+- kvanteelektrodynamikk
+- kvantelektrodynamik
+- kvantelektrodünaamika
+- kvantinė elektrodinamika
+- kvantna elektrodinamika
+- kvantová elektrodynamika
+- kvanttisähködynamiikka
+- kvantum-elektrodinamika
+- kvantuma elektrodinamiko
+- kwantum elektrodinamika
+- kwantumelektrodynamica
+- leictridinimic chandamach
+- QED
+- QED(Quantum Electrodynamics)
+- QED(Quantum_Electrodynamics)
+- Quantenelektrodynamik
+- quantum electrodynamics
+- électrodynamique quantique
+- điện động lực học lượng tử
+- Κβαντική ηλεκτροδυναμική
+- квантавая электрадынаміка
+- квантна електродинамика
+- квантова електродинаміка
+- квантова електродинамика
+- квантовая электродинамика
+- кванттык электродинамика
+- քվանտային էլեկտրադինամիկա
+- אלקטרודינמיקה קוונטית
+- الکترودینامیک کوانتومی
+- كهروديناميكا كمية
+- क्वाण्टम विद्युत्गतिकी
+- प्रमात्रा बिद्युतगतिबिज्ञान
+- কোয়ান্টাম তড়িৎ-গতিবিজ্ঞান
+- ਕੁਆਂਟਮ ਇਲੈਕਟ੍ਰੋਡਾਇਨਾਮਿਕਸ
+- კვანტური ელექტროდინამიკა
+- 量子电动力学
+- 量子電動力學
+- 量子電磁力学
+- 량자전기력학
+- 양자 전기역학
 has_id_wikidata: Q234881
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of: '[[_Standards/WikiData/WD~branch_of_physics,4162444]]'
@@ -13,37 +61,108 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_QED,8093756]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi><mo stretchy="false">=</mo><mo stretchy="false">&#x222B;</mo><msup><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mrow data-mjx-texclass="ORD"><mn>4</mn></mrow></msup><mi>x</mi><mspace width="0.167em"></mspace><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><mo stretchy="false">&#x2212;</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>4</mn></mrow></mfrac></mrow><msub><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>&#x03BD;</mi></mrow></mrow></msub><msup><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>&#x03BD;</mi></mrow></mrow></msup><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mover><mi mathvariant="normal">&#x03A8;</mi><mo>¯</mo></mover></mrow></mrow><mo stretchy="false">(</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><msup><mi>&#x03B3;</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msup><mo stretchy="false">(</mo><msub><mi>&#x2202;</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub><mo stretchy="false">+</mo><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow><mi>e</mi><msub><mi>A</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub><mo stretchy="false">)</mo><mo stretchy="false">&#x2212;</mo><mi>m</mi><mo stretchy="false">)</mo><mi mathvariant="normal">&#x03A8;</mi><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x222B;</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>4</mn></mrow></mfrac></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03B3;</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>&#x03BD;</mi></mrow></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>A</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x222B;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mn>4</mn></mrow></mfrac></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03B3;</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>F</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi><mi>&#x03BD;</mi></mrow></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">i</mi></mrow></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>A</mi><mrow data-mjx-texclass="ORD"><mi>&#x03BC;</mi></mrow></msub></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A8;</mi></mstyle></mrow></math>
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul_Dirac,47480]]'
 short_name:
-  - QED
-  - EDC
-  - КЭД
-  - EDQ
-  - QED
-  - კედ
-  - EDQ
-  - КЭД
-  - QED
-  - EDK
-  - KED
-  - КЕД
+- QED
+- EDC
+- КЭД
+- EDQ
+- QED
+- კედ
+- EDQ
+- КЭД
+- QED
+- EDK
+- KED
+- КЕД
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bhabha%20scattering%20t-channel.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/quantum-electrodynamics
 Commons_category: Quantum electrodynamics
 PhilPapers_topic: quantum-electrodynamics
 inception: 1927-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: كهروديناميكا كمية
+    ast: electrodinámica cuántica
+    be: квантавая электрадынаміка
+    be-tarask: квантавая электрадынаміка
+    bg: квантова електродинамика
+    bho: प्रमात्रा बिद्युतगतिबिज्ञान
+    bn: কোয়ান্টাম তড়িৎ-গতিবিজ্ঞান
+    bs: kvantna elektrodinamika
+    ca: electrodinàmica quàntica
+    cs: kvantová elektrodynamika
+    da: kvanteelektrodynamik
+    de: Quantenelektrodynamik
+    el: Κβαντική ηλεκτροδυναμική
+    en: quantum electrodynamics
+    en-ca: quantum electrodynamics
+    en-gb: quantum electrodynamics
+    eo: kvantuma elektrodinamiko
+    es: electrodinámica cuántica
+    et: kvantelektrodünaamika
+    eu: elektrodinamika kuantiko
+    fa: الکترودینامیک کوانتومی
+    fi: kvanttisähködynamiikka
+    fr: électrodynamique quantique
+    ga: leictridinimic chandamach
+    gl: electrodinámica cuántica
+    gsw: Quantenelektrodynamik
+    he: אלקטרודינמיקה קוונטית
+    hi: क्वाण्टम विद्युत्गतिकी
+    hr: kvantna elektrodinamika
+    hu: kvantum-elektrodinamika
+    hy: քվանտային էլեկտրադինամիկա
+    id: elektrodinamika kuantum
+    it: elettrodinamica quantistica
+    ja: 量子電磁力学
+    ka: კვანტური ელექტროდინამიკა
+    ko: 양자 전기역학
+    ko-kp: 량자전기력학
+    ky: кванттык электродинамика
+    la: electrodynamica quantica
+    lt: kvantinė elektrodinamika
+    mk: квантна електродинамика
+    ms: elektrodinamik kuantum
+    nb: kvanteelektrodynamikk
+    nl: kwantumelektrodynamica
+    nn: kvanteelektrodynamikk
+    pa: ਕੁਆਂਟਮ ਇਲੈਕਟ੍ਰੋਡਾਇਨਾਮਿਕਸ
+    pl: elektrodynamika kwantowa
+    pt: eletrodinâmica quântica
+    pt-br: eletrodinâmica quântica
+    ro: electrodinamică cuantică
+    ru: квантовая электродинамика
+    sco: quantum electrodynamics
+    sh: kvantna elektrodinamika
+    sk: kvantová elektrodynamika
+    sl: kvantna elektrodinamika
+    sq: elektrodinamika kuantike
+    sr: квантна електродинамика
+    sv: kvantelektrodynamik
+    tr: kuantum elektrodinamiği
+    uk: квантова електродинаміка
+    vi: điện động lực học lượng tử
+    war: kwantum elektrodinamika
+    yue: 量子電動力學
+    zh: 量子電動力學
+    zh-cn: 量子电动力学
+    zh-hans: 量子电动力学
+    zh-hant: 量子電動力學
+    zh-hk: 量子電動力學
+    zh-sg: 量子电动力学
+    zh-tw: 量子電動力學
 ---
-
 # [[QED(Quantum_Electrodynamics)]] 
 
 #is_/same_as :: [[WD~Quantum_electrodynamics,234881]] 

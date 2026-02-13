@@ -1,37 +1,281 @@
 ---
 aliases:
-  - Monotheismus
-  - Monotheism
-  - monotheistisch
-  - monotheistic
+- aondiachas
+- bolandi nzámbe mɔ́kɔ́
+- egyistenhit
+- eingyðistrú
+- ek Ishwarwaad
+- It-sîn-lūn
+- Monoteis
+- Monoteisim
+- monoteism
+- monoteisma
+- monoteisme
+- monoteismi
+- monoteismm
+- monoteismo
+- monoteisms
+- monoteismus
+- Monoteista
+- monoteizam
+- monoteizem
+- monoteizm
+- monoteizmas
+- monoteizmi
+- monoteizmo
+- monoteizmus
+- Monoteyis
+- monoteísmo
+- monoteísmu
+- monoteïsme
+- Monotheism
+- monotheismo
+- Monotheismus
+- monotheistic
+- monotheistisch
+- monotheïsme
+- monothéisme
+- Monotèisme
+- monuteìsmu
+- muonuoteėzmos
+- můnotejizm
+- nwuak a̱cucuk da̱ A̱gwaza a̱nyiung
+- Rilidjon å Bon Diu
+- tek tanrıcılık
+- thuyết độc thần
+- tupã peteĩre jerovia
+- Umoja wa Mungu
+- undduwiaeth
+- Undhuwieth
+- undoueegezh
+- yekxwedatî
+- μονοθεϊσμός
+- даьла цаӀ вар
+- еднобоштво
+- монатэізм
+- монотеізм
+- монотеїзм
+- монотеизам
+- монотеизм
+- монотеизъм
+- одӥг инмарлы оскон
+- միաստվածություն
+- מאנאטעיזם
+- מונותאיזם
+- اک اللہ نوں مننا
+- توحيد
+- توحیدیت
+- تک تانریچیلیق
+- ديانات توحيديه
+- مونوتيئيسمى
+- یکتاپرستی
+- یەکتاپەرستی
+- އެއްކައުވަންތަކަން
+- एक इश्वरवाद
+- एक ईश्वर वाद
+- एकेश्वरवाद
+- একেশ্বরবাদ
+- একেশ্বৰবাদ
+- ਇੱਕ ਪ੍ਰਮੇਸਰਵਾਦ
+- ஒரு கடவுட் கொள்கை
+- ఏకేశ్వరవాదం
+- ಏಕೀಶ್ವರವಾದ
+- ഏകദൈവവിശ്വാസം
+- ඒකදේවවාදය
+- เอกเทวนิยม
+- ལྷ་གཅིག་ཆོས་ལུགས།
+- တစ်ဆူတည်းသောဘုရားကိုကိုးကွယ်ခြင်း
+- მონოთეიზმი
+- ሞኖቴይዝም
+- សាសនាឯកទេវនិយម
+- 一神教
+- 一神論
+- 一神论
+- 일신교
 has_id_wikidata: Q9159
 has_part_s_:
-  - '[[_Standards/WikiData/WD~monotheism_in_Islam,174495]]'
-  - '[[_Standards/WikiData/WD~Hindu_views_on_monotheism,4301866]]'
+- '[[_Standards/WikiData/WD~monotheism_in_Islam,174495]]'
+- '[[_Standards/WikiData/WD~Hindu_views_on_monotheism,4301866]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of: '[[_Standards/WikiData/WD~theism,620805]]'
 instance_of: '[[_Standards/WikiData/WD~religious_belief,2728698]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Judaism,5496909]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
-  - "[[_Standards/WikiData/WD~WikiProject_Bahá'í_Faith,11028242]]"
-  - '[[_Standards/WikiData/WD~WikiProject_Zoroastrianism,15885171]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Sikhism,21830790]]'
+- '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
+- '[[_Standards/WikiData/WD~WikiProject_Judaism,5496909]]'
+- '[[_Standards/WikiData/WD~WikiProject_Islam,5496999]]'
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- "[[_Standards/WikiData/WD~WikiProject_Bahá'í_Faith,11028242]]"
+- '[[_Standards/WikiData/WD~WikiProject_Zoroastrianism,15885171]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sikhism,21830790]]'
 history_of_topic: '[[_Standards/WikiData/WD~Q101500698,101500698]]'
 opposite_of: '[[_Standards/WikiData/WD~polytheism,9163]]'
 Commons_category: Monotheism
 Universal_Decimal_Classification: 2-154
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html
+dv_has_:
+  name_:
+    ady: монотеизм
+    af: monoteïsme
+    an: monoteísmo
+    anp: एकेश्वरवाद
+    ar: توحيد
+    ary: توحيد
+    arz: ديانات توحيديه
+    as: একেশ্বৰবাদ
+    ast: monoteísmu
+    az: monoteizm
+    azb: تک تانریچیلیق
+    ba: монотеизм
+    bar: Monotheismus
+    bcl: Monoteista
+    be: монатэізм
+    be-tarask: монатэізм
+    bg: монотеизъм
+    bho: एक ईश्वर वाद
+    bn: একেশ্বরবাদ
+    bo: ལྷ་གཅིག་ཆོས་ལུགས།
+    br: undoueegezh
+    bs: monoteizam
+    btm: Monoteisme
+    bxr: монотеизм
+    ca: monoteisme
+    ce: Монотеизм
+    ceb: monoteismo
+    ckb: یەکتاپەرستی
+    crh: monoteizm
+    cs: monoteismus
+    cy: undduwiaeth
+    da: monoteisme
+    de: Monotheismus
+    diq: monoteizm
+    dv: އެއްކައުވަންތަކަން
+    el: μονοθεϊσμός
+    en: monotheism
+    en-ca: monotheism
+    en-gb: monotheism
+    eo: monoteismo
+    es: monoteísmo
+    et: monoteism
+    eu: monoteismo
+    fa: یکتاپرستی
+    fi: monoteismi
+    fr: monothéisme
+    fur: Monoteisim
+    fy: Monoteisme
+    ga: aondiachas
+    gl: monoteísmo
+    gn: tupã peteĩre jerovia
+    gsw: Monotheismus
+    he: מונותאיזם
+    hi: एकेश्वरवाद
+    hif: ek Ishwarwaad
+    hr: monoteizam
+    ht: Monoteyis
+    hu: egyistenhit
+    hy: միաստվածություն
+    ia: monotheismo
+    id: monoteisme
+    ilo: monoteismo
+    inh: даьла цаӀ вар
+    io: monoteismo
+    is: eingyðistrú
+    it: monoteismo
+    ja: 一神教
+    ka: მონოთეიზმი
+    kaa: monoteizm
+    kcg: nwuak a̱cucuk da̱ A̱gwaza a̱nyiung
+    kk: монотеизм
+    km: សាសនាឯកទេវនិយម
+    kn: ಏಕೀಶ್ವರವಾದ
+    knc: Monotheism
+    ko: 일신교
+    ku: yekxwedatî
+    ku-latn: yekxwedatî
+    kw: Undhuwieth
+    ky: Монотеизм
+    la: monotheismus
+    lad: monoteizmo
+    lb: Monotheismus
+    lfn: monoteisme
+    li: Monotheïsme
+    lmo: monoteism
+    ln: bolandi nzámbe mɔ́kɔ́
+    lt: monoteizmas
+    lv: monoteisms
+    mad: Monotèisme
+    mg: Monoteisma
+    mk: еднобоштво
+    ml: ഏകദൈവവിശ്വാസം
+    mn: монотеизм
+    mr: एकेश्वरवाद
+    ms: monoteisme
+    ms-arab: مونوتيئيسمى
+    my: တစ်ဆူတည်းသောဘုရားကိုကိုးကွယ်ခြင်း
+    nan: It-sîn-lūn
+    nap: monoteismo
+    nb: monoteisme
+    nds: Monotheismus
+    ne: एक इश्वरवाद
+    nia: Monoteis
+    nl: monotheïsme
+    nn: monoteisme
+    oc: monoteïsme
+    os: монотеизм
+    pa: ਇੱਕ ਪ੍ਰਮੇਸਰਵਾਦ
+    pap: monoteismo
+    pl: monoteizm
+    pms: monoteism
+    pnb: اک اللہ نوں مننا
+    pt: monoteísmo
+    pt-br: monoteísmo
+    ro: monoteism
+    ru: монотеизм
+    rue: монотеізм
+    sah: монотеизм
+    scn: monuteìsmu
+    sco: monotheism
+    se: monoteisma
+    sgs: muonuoteėzmos
+    sh: monoteizam
+    si: ඒකදේවවාදය
+    sk: monoteizmus
+    sl: monoteizem
+    smn: monoteism
+    sms: monoteismm
+    sq: monoteizmi
+    sr: монотеизам
+    sv: monoteism
+    sw: Umoja wa Mungu
+    szl: můnotejizm
+    ta: ஒரு கடவுட் கொள்கை
+    te: ఏకేశ్వరవాదం
+    th: เอกเทวนิยม
+    ti: ሞኖቴይዝም
+    tl: monoteismo
+    tr: tek tanrıcılık
+    tt: монотеизм
+    tyv: Монотеизм
+    udm: одӥг инмарлы оскон
+    uk: монотеїзм
+    ur: توحیدیت
+    uz: monoteizm
+    vep: monoteizm
+    vi: thuyết độc thần
+    vro: monoteism
+    wa: Rilidjon å Bon Diu
+    war: monoteismo
+    wuu: 一神论
+    xmf: მონოთეიზმი
+    yi: מאנאטעיזם
+    yue: 一神論
+    zh: 一神論
 ---
-
 # [[Monotheism]] 
 
 #has_/complement :: [[Polytheism]] 

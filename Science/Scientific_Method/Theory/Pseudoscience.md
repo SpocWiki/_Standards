@@ -1,46 +1,135 @@
 ---
 aliases:
-  - Pseudo-Science
+- bréageolaíocht
+- ffugwyddoniaeth
+- Gî-sū kho-ha̍k
+- hjáfræði
+- Ilmu semu
+- Nenquizcatlamatiliztli
+- ngụy khoa học
+- näennäistiede
+- pseidozinātne
+- Pseudo-Science
+- Pseudo-siensa
+- pseudociencia
+- Pseudocienco
+- pseudociència
+- pseudociência
+- pseudodieđa
+- pseudomokslas
+- pseudonauka
+- pseudosains
+- pseudoscience
+- Pseudosciencia
+- pseudoscientia
+- pseudoscienza
+- Pseudoshkenca
+- pseudosiensa
+- pseudoteadus
+- pseudotieđâ
+- pseudotiõđ
+- Pseudovakadidike
+- pseudoveda
+- pseudovetenskap
+- pseudovidenskab
+- pseudovitenskap
+- pseudovitskap
+- Pseudovísindi
+- pseudověda
+- pseudowetenschap
+- pseudowetenskap
+- Pseudowissenschaft
+- Pseudowittenskip
+- Pseudowëssenschaft
+- pseudoznanost
+- pseudoștiință
+- psevdoznanost
+- psewdo-fän
+- pseŭdoscienco
+- Saayinsii soboo
+- Sasizientzia
+- Sayansi bandia
+- Scientia falsa
+- Seudosiyensya
+- Soxta fan
+- sözdebilim
+- widyalaksana mogbog
+- Yalan elmlər
+- Yanqa hamut'ay
+- áltudomány
+- Èlmu bodong
+- ótirik ilim
+- ψευδοεπιστήμη
+- Лъженаука
+- псеўданавука
+- псевдо-фән
+- псевдонаука
+- псевдофән
+- Псевдоғылым
+- псеудонаука
+- псэўданавука
+- Шибҳиилм
+- կեղծ գիտություն
+- פסאודו-מדע
+- زڕزانست
+- شبه علم
+- صيونص د بلعاني
+- علم زائف
+- کاذب سائنس
+- छद्म विज्ञान
+- सूडोसाइंस
+- অপবিজ্ঞান
+- ਮਿਥਿਆ ਵਿਗਿਆਨ
+- છદ્મવિજ્ઞાન
+- போலி அறிவியல்
+- കപടശാസ്ത്രം
+- නවීන විද්යාවට අනුකූල නොවන දැණුම සහ ශිල්ප
+- วิทยาศาสตร์เทียม
+- 伪科学
+- 假科學
+- 偽科學
+- 疑似科学
+- 의사 과학
 has_id_wikidata: Q483677
-has_contributing_factor: "[[_Standards/WikiData/WD~anecdotal_evidence,143636]]"
+has_contributing_factor: '[[_Standards/WikiData/WD~anecdotal_evidence,143636]]'
 partially_coincident_with:
-  - "[[_Standards/WikiData/WD~hoax,190084]]"
-  - "[[_Standards/WikiData/WD~fringe_theory,5504601]]"
-  - "[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]"
-  - "[[_Standards/WikiData/WD~misinformation,13579947]]"
-  - "[[_Standards/WikiData/WD~fraud,28813]]"
+- '[[_Standards/WikiData/WD~hoax,190084]]'
+- '[[_Standards/WikiData/WD~fringe_theory,5504601]]'
+- '[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]'
+- '[[_Standards/WikiData/WD~misinformation,13579947]]'
+- '[[_Standards/WikiData/WD~fraud,28813]]'
 does_not_have_characteristic:
-  - "[[_Standards/WikiData/WD~falsifiability,220888]]"
-  - "[[_Standards/WikiData/WD~scientific_control,367359]]"
-  - "[[_Standards/WikiData/WD~scientific_method,46857]]"
+- '[[_Standards/WikiData/WD~falsifiability,220888]]'
+- '[[_Standards/WikiData/WD~scientific_control,367359]]'
+- '[[_Standards/WikiData/WD~scientific_method,46857]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~agnotology,395027]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_education,564371]]"
-  - "[[_Standards/WikiData/WD~scientific_skepticism,929771]]"
-  - "[[_Standards/WikiData/WD~sociology_of_scientific_knowledge,981008]]"
-  - "[[_Standards/WikiData/WD~multidisciplinarity,1759955]]"
-  - "[[_Standards/WikiData/WD~science_and_technology_studies,2445082]]"
-  - "[[_Standards/WikiData/WD~psychology,9418]]"
-  - "[[_Standards/WikiData/WD~social_anthropology,29051]]"
-  - "[[_Standards/WikiData/WD~philosophy_of_science,59115]]"
+- '[[_Standards/WikiData/WD~agnotology,395027]]'
+- '[[_Standards/WikiData/WD~philosophy_of_education,564371]]'
+- '[[_Standards/WikiData/WD~scientific_skepticism,929771]]'
+- '[[_Standards/WikiData/WD~sociology_of_scientific_knowledge,981008]]'
+- '[[_Standards/WikiData/WD~multidisciplinarity,1759955]]'
+- '[[_Standards/WikiData/WD~science_and_technology_studies,2445082]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~social_anthropology,29051]]'
+- '[[_Standards/WikiData/WD~philosophy_of_science,59115]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~social_issue,1920219]]"
-  - "[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]"
-  - "[[_Standards/WikiData/WD~misinformation,13579947]]"
-  - "[[_Standards/WikiData/WD~non_science,28954762]]"
-  - "[[_Standards/WikiData/WD~non_rational_belief_system,136485030]]"
-opposite_of: "[[_Standards/WikiData/WD~real_science,2134863]]"
+- '[[_Standards/WikiData/WD~social_issue,1920219]]'
+- '[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]'
+- '[[_Standards/WikiData/WD~misinformation,13579947]]'
+- '[[_Standards/WikiData/WD~non_science,28954762]]'
+- '[[_Standards/WikiData/WD~non_rational_belief_system,136485030]]'
+opposite_of: '[[_Standards/WikiData/WD~real_science,2134863]]'
 different_from:
-  - "[[_Standards/WikiData/WD~superseded_scientific_theory,4115113]]"
-  - "[[_Standards/WikiData/WD~fictional_field_of_science_or_engineering,56512781]]"
-has_list: "[[_Standards/WikiData/WD~list_of_topics_characterized_as_pseudoscience,4437154]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_pseudoscience,5868414]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Pseudoscience,7217907]]"
-uses: "[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]"
-practiced_by: "[[_Standards/WikiData/WD~pseudoscientist,22082749]]"
-OmegaWiki_Defined_Meaning: "1592029"
-Dewey_Decimal_Classification: "001.9"
+- '[[_Standards/WikiData/WD~superseded_scientific_theory,4115113]]'
+- '[[_Standards/WikiData/WD~fictional_field_of_science_or_engineering,56512781]]'
+has_list: '[[_Standards/WikiData/WD~list_of_topics_characterized_as_pseudoscience,4437154]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_pseudoscience,5868414]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pseudoscience,7217907]]'
+uses: '[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~pseudo_scholarship,7254446]]'
+practiced_by: '[[_Standards/WikiData/WD~pseudoscientist,22082749]]'
+OmegaWiki_Defined_Meaning: 1592029
+Dewey_Decimal_Classification: 001.9
 subreddit: badscience
 UMLS_CUI: C5392258
 MeSH_tree_code: I01.880.735.646
@@ -48,8 +137,118 @@ PhilPapers_topic: pseudoscience
 Commons_category: Pseudoscience
 Library_of_Congress_Classification: Q172.5.P77
 Archive_of_Our_Own_tag: Dubious Science
+dv_has_:
+  name_:
+    af: pseudowetenskap
+    an: Pseudosciencia
+    ar: علم زائف
+    ary: صيونص د بلعاني
+    as: অপবিজ্ঞান
+    ast: Pseudociencia
+    az: Yalan elmlər
+    ba: псевдофән
+    ban: widyalaksana mogbog
+    bcl: Seudosiyensya
+    be: псеўданавука
+    be-tarask: псэўданавука
+    bew: Èlmu bodong
+    bg: Лъженаука
+    bho: सूडोसाइंस
+    bn: অপবিজ্ঞান
+    bs: pseudonauka
+    ca: pseudociència
+    ckb: زڕزانست
+    cs: pseudověda
+    cy: ffugwyddoniaeth
+    da: pseudovidenskab
+    de: Pseudowissenschaft
+    el: ψευδοεπιστήμη
+    en: pseudoscience
+    en-gb: pseudoscience
+    eo: pseŭdoscienco
+    es: pseudociencia
+    et: pseudoteadus
+    eu: Sasizientzia
+    fa: شبه علم
+    fi: näennäistiede
+    fj: Pseudovakadidike
+    fo: Pseudovísindi
+    fr: pseudoscience
+    fy: Pseudowittenskip
+    ga: bréageolaíocht
+    gl: pseudociencia
+    gu: છદ્મવિજ્ઞાન
+    he: פסאודו-מדע
+    hi: छद्म विज्ञान
+    hr: pseudoznanost
+    hu: áltudomány
+    hy: կեղծ գիտություն
+    ia: pseudoscientia
+    id: Ilmu semu
+    io: Pseudocienco
+    is: hjáfræði
+    it: pseudoscienza
+    ja: 疑似科学
+    kaa: ótirik ilim
+    kk: Псевдоғылым
+    ko: 의사 과학
+    la: Scientia falsa
+    lb: Pseudowëssenschaft
+    lfn: pseudosiensa
+    lt: pseudomokslas
+    lv: pseidozinātne
+    mk: псевдонаука
+    ml: കപടശാസ്ത്രം
+    mr: छद्म विज्ञान
+    ms: pseudosains
+    nah: Nenquizcatlamatiliztli
+    nan: Gî-sū kho-ha̍k
+    nb: pseudovitenskap
+    nl: pseudowetenschap
+    nn: pseudovitskap
+    om: Saayinsii soboo
+    pa: ਮਿਥਿਆ ਵਿਗਿਆਨ
+    pl: pseudonauka
+    pms: Pseudo-siensa
+    pt: pseudociência
+    pt-br: pseudociência
+    qu: Yanqa hamut'ay
+    ro: pseudoștiință
+    ru: псевдонаука
+    rue: Псевдонаука
+    se: pseudodieđa
+    sh: pseudonauka
+    si: නවීන විද්යාවට අනුකූල නොවන දැණුම සහ ශිල්ප
+    sk: pseudoveda
+    sl: psevdoznanost
+    smn: pseudotieđâ
+    sms: pseudotiõđ
+    sq: Pseudoshkenca
+    sr: псеудонаука
+    sr-ec: Псеудонаука
+    sr-el: Pseudonauka
+    sv: pseudovetenskap
+    sw: Sayansi bandia
+    szl: Pseudonauka
+    ta: போலி அறிவியல்
+    tg: Шибҳиилм
+    th: วิทยาศาสตร์เทียม
+    tl: Pseudoscience
+    tr: sözdebilim
+    tt: псевдофән
+    tt-cyrl: псевдо-фән
+    tt-latn: psewdo-fän
+    uk: псевдонаука
+    ur: کاذب سائنس
+    uz: Soxta fan
+    vi: ngụy khoa học
+    wuu: 伪科学
+    yue: 假科學
+    zh: 伪科学
+    zh-hans: 伪科学
+    zh-hant: 偽科學
+    zh-hk: 偽科學
 ---
-
 # [[Pseudoscience]] 
 
 #is_/same_as :: [[WD~Pseudoscience,483677]] 

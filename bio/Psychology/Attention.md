@@ -1,25 +1,88 @@
 ---
 aliases:
-  - Attention
-  - focus
+- aandacht
+- aird
+- arreta
+- atansyon
+- atenció
+- atención
+- Atensyon
+- atento
+- atenção
+- atenție
+- Athygli
+- Attentio
+- Attention
+- attenzione
+- atėdė
+- Aufmerksamkeit
+- chú ý
+- dikkat
+- diqqat
+- Diqqət
+- dėmesys
+- Dıqqat
+- figyelem
+- focus
+- konsentrasjon
+- likebi
+- merksemd
+- opmærksomhed
+- pažnja
+- perhatian
+- pozornost
+- pozornosť
+- tarkkaavaisuus
+- tähelepanu
+- uppmärksamhet
+- uwaga
+- uzmanība
+- vääʹlpesvuõtt
+- vëmendja
+- Xaalays
+- внимание
+- Зейін
+- Көңүл буруу
+- пажња
+- Таваҷҷӯҳ
+- Тимлĕх
+- увага
+- Ուշադրություն
+- קשב
+- انتباه
+- توجه
+- دھیان
+- پاملرنه
+- ध्यान
+- মনোযোগ
+- ਧਿਆਨ
+- கவனம்
+- అవధానం
+- ಗಮನ
+- ശ്രദ്ധ
+- ความใส่ใจ
+- 注意
+- 注意力
+- 註意
+- 주의
 has_id_wikidata: Q6501338
-different_from: "[[_Standards/WikiData/WD~meditation,108458]]"
+different_from: '[[_Standards/WikiData/WD~meditation,108458]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~cognitive_process,781413]]"
-  - "[[_Standards/WikiData/WD~cognition,2200417]]"
+- '[[_Standards/WikiData/WD~cognitive_process,781413]]'
+- '[[_Standards/WikiData/WD~cognition,2200417]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~alertness,1423044]]"
-  - "[[_Standards/WikiData/WD~Muraqaba,2275149]]"
-has_part_s_: "[[_Standards/WikiData/WD~attentional_control,4818236]]"
+- '[[_Standards/WikiData/WD~alertness,1423044]]'
+- '[[_Standards/WikiData/WD~Muraqaba,2275149]]'
+has_part_s_: '[[_Standards/WikiData/WD~attentional_control,4818236]]'
 part_of:
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-  - "[[_Standards/WikiData/WD~memory_and_attention,110620109]]"
-health_specialty: "[[_Standards/WikiData/WD~psychiatry,7867]]"
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~memory_and_attention,110620109]]'
+health_specialty: '[[_Standards/WikiData/WD~psychiatry,7867]]'
 OmegaWiki_Defined_Meaning: 345067
 Commons_category: Attention
 PhilPapers_topic: attention
@@ -28,8 +91,86 @@ P8189: 987007295871305200
 UMLS_CUI: C0004268
 MeSH_tree_code: F02.830.104.214
 Colon_Classification: S:31
+dv_has_:
+  name_:
+    ar: انتباه
+    ast: atención
+    az: Diqqət
+    bcl: Atensyon
+    be: увага
+    be-tarask: увага
+    bg: внимание
+    bn: মনোযোগ
+    bs: pažnja
+    ca: atenció
+    cs: pozornost
+    cv: Тимлĕх
+    da: opmærksomhed
+    de: Aufmerksamkeit
+    en: attention
+    eo: atento
+    es: atención
+    et: tähelepanu
+    eu: arreta
+    fa: توجه
+    fi: tarkkaavaisuus
+    fr: attention
+    ga: aird
+    gl: atención
+    he: קשב
+    hi: ध्यान
+    hr: pažnja
+    ht: atansyon
+    hu: figyelem
+    hy: Ուշադրություն
+    id: perhatian
+    is: Athygli
+    it: attenzione
+    ja: 注意
+    kaa: Dıqqat
+    kk: Зейін
+    kn: ಗಮನ
+    ko: 주의
+    ky: Көңүл буруу
+    la: Attentio
+    ln: likebi
+    lt: dėmesys
+    lv: uzmanība
+    mk: внимание
+    ml: ശ്രദ്ധ
+    nb: konsentrasjon
+    nl: aandacht
+    nn: merksemd
+    pa: ਧਿਆਨ
+    pl: uwaga
+    pnb: دھیان
+    ps: پاملرنه
+    pt: atenção
+    ro: atenție
+    ru: внимание
+    sgs: atėdė
+    sh: pažnja
+    sk: pozornosť
+    sl: pozornost
+    sms: vääʹlpesvuõtt
+    so: Xaalays
+    sq: vëmendja
+    sr: пажња
+    sv: uppmärksamhet
+    ta: கவனம்
+    te: అవధానం
+    tg: Таваҷҷӯҳ
+    th: ความใส่ใจ
+    tr: dikkat
+    uk: увага
+    uz: diqqat
+    vi: chú ý
+    wuu: 注意
+    yue: 注意力
+    zh: 注意
+    zh-hans: 注意
+    zh-hant: 註意
 ---
-
 # [[Attention]] 
 
 #is_/same_as :: [[../../WikiData/WD~Attention,6501338|WD~Attention,6501338]] 

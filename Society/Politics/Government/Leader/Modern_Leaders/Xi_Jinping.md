@@ -1,102 +1,175 @@
 ---
 aliases:
+- cis. djinpin.
+- Hszi Csin-ping
+- jan Si Sinpin
+- Jinping Xi
+- Si Cinpiñ
+- Si Szinpin
+- Si Tsinpin
+- Si Đinping
+- Si Ťin-pching
+- Siz Ginbingz
+- Si̍p Khiûn-phìn
+- Si̍p Kīn-pêng
+- Sji Dzjiņpins
+- Syi Jinping
+- Sĭk Gê̤ṳng-bìng
+- Tập Cận Bình
+- Xi Jinping
+- Xi Xhinping
+- Şi Cinpiñ
+- Ši Džinping
+- Ťin-pching Si
+- Σι Τζινπίνγκ
+- Сі Цзіньпін
+- Си Ђинпинг
+- Си Ѓинпинг
+- Си Дзинпин
+- Си Дзиньпин
+- Си Цзиньпин
+- Си Җинпиң
+- Сила Цзиньпина
+- Сӣ Ҷинпин
+- Ши Жиньпин
+- Սի Ցզինպին
+- שי ג'ינפינג
+- شى جىنپىڭ
+- شى جين بينغ
+- شي جنپنگ
+- شي جين بينغ
+- شي جين پينګ
+- شی جن پنگ
+- شی جِن پِنٛگ
+- شی جین پینگ
+- شی چینپینگ
+- شی ژنپنگ
+- शी जिनपिंग
+- शी जिन्पिङ्
+- षी चिन्पिंग
+- सि जिनपिङ
+- ছি জিনপিং
+- শি চিনফিং
+- ਸ਼ੀ ਚਿਨਪਿੰਙ
+- શી જિનપિંગ
+- ଶି ଜିନପିଙ୍ଗ
+- சீ சின்பிங்
+- జీ జిన్పింగ్
+- ഷി ജിൻപിങ്
+- ෂී ජිංපිං
+- สี จิ้นผิง
+- ສີ ຈີ້ນຜິງ
+- ཞིས་ཅིན་ཕིང་།
+- ရှီကျင့်ဖျင်
+- სი ძინპინი
+- ሺ ጂንፒንግ
+- ស៊ី ជីនពីង
+- ᥔᥤᥲ ᥓᥤᥢᥱ ᥚᥤᥢᥳ
+- ᨔᨗ ᨍᨗᨊᨄᨗᨊᨁ
+- ᮟᮤ ᮏᮤᮔ᮪ ᮕᮤᮀ
+- ᱥᱤ ᱡᱤᱱᱯᱤᱝ
+- 习近平
+- 習近平
+- 습근평
+- 시진핑
+- "\U00010347\U00010339 \U0001033E\U00010339\U00010340\U00010339\U0001033D"
 has_id_wikidata: Q15031
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_King_Abdulaziz_al_Saud,93923]]"
-  - "[[_Standards/WikiData/WD~Order_of_St._Andrew_the_Apostle_the_First_Called,1026769]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Golden_Eagle,1045784]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]"
-  - "[[_Standards/WikiData/WD~Nishan_e_Pakistan,1820710]]"
-  - "[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]"
-  - "[[_Standards/WikiData/WD~Order_of_Zayed,2329411]]"
-  - "[[_Standards/WikiData/WD~National_Order_of_the_Lion_of_Senegal,2399188]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]"
-  - "[[_Standards/WikiData/WD~Order_of_Manas,3885143]]"
-  - "[[_Standards/WikiData/WD~Order_of_Friendship,3885264]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Republic_of_Serbia,12756733]]"
-  - "[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]"
-  - "[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Crown,16683279]]"
-  - "[[_Standards/WikiData/WD~Golden_Key_of_Madrid,51889745]]"
-  - "[[_Standards/WikiData/WD~Medal_of_Honor_of_the_Congress_of_the_Republic_of_Peru,65931846]]"
-  - "[[_Standards/WikiData/WD~Order_for_strengthening_Peace_and_Friendship,84314287]]"
-  - "[[_Standards/WikiData/WD~Order_of_Manas,_1st_class,122904437]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_State_of_Palestine,123270269]]"
-  - "[[_Standards/WikiData/WD~Order_of_South_Africa,129033584]]"
-ancestral_home: "[[_Standards/WikiData/WD~Fuping_County,127137]]"
+- '[[_Standards/WikiData/WD~Order_of_King_Abdulaziz_al_Saud,93923]]'
+- '[[_Standards/WikiData/WD~Order_of_St._Andrew_the_Apostle_the_First_Called,1026769]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Golden_Eagle,1045784]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Liberator_General_San_Martín,1783970]]'
+- '[[_Standards/WikiData/WD~Nishan_e_Pakistan,1820710]]'
+- '[[_Standards/WikiData/WD~Order_of_José_Martí,1991972]]'
+- '[[_Standards/WikiData/WD~Order_of_Zayed,2329411]]'
+- '[[_Standards/WikiData/WD~National_Order_of_the_Lion_of_Senegal,2399188]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Liberator,2452975]]'
+- '[[_Standards/WikiData/WD~Order_of_Manas,3885143]]'
+- '[[_Standards/WikiData/WD~Order_of_Friendship,3885264]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Republic_of_Serbia,12756733]]'
+- '[[_Standards/WikiData/WD~Grand_Cordon_of_the_Order_of_Leopold,14900501]]'
+- '[[_Standards/WikiData/WD~Gold_Olympic_Order,15279719]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Crown,16683279]]'
+- '[[_Standards/WikiData/WD~Golden_Key_of_Madrid,51889745]]'
+- '[[_Standards/WikiData/WD~Medal_of_Honor_of_the_Congress_of_the_Republic_of_Peru,65931846]]'
+- '[[_Standards/WikiData/WD~Order_for_strengthening_Peace_and_Friendship,84314287]]'
+- '[[_Standards/WikiData/WD~Order_of_Manas,_1st_class,122904437]]'
+- '[[_Standards/WikiData/WD~Order_of_the_State_of_Palestine,123270269]]'
+- '[[_Standards/WikiData/WD~Order_of_South_Africa,129033584]]'
+ancestral_home: '[[_Standards/WikiData/WD~Fuping_County,127137]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Politburo_Standing_Committee_of_the_Chinese_Communist_Party,197542]]"
-  - "[[_Standards/WikiData/WD~Politburo_of_the_Chinese_Communist_Party,1076970]]"
-  - "[[_Standards/WikiData/WD~Xi_Jinping_Li_Keqiang_Administration,1082940]]"
-  - "[[_Standards/WikiData/WD~general_secretaryship_of_Xi_Jinping,52161605]]"
-military_branch: "[[_Standards/WikiData/WD~People_s_Liberation_Army,200106]]"
-father: "[[_Standards/WikiData/WD~Xi_Zhongxun,301282]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~commander_in_chief,380782]]"
+- '[[_Standards/WikiData/WD~Politburo_Standing_Committee_of_the_Chinese_Communist_Party,197542]]'
+- '[[_Standards/WikiData/WD~Politburo_of_the_Chinese_Communist_Party,1076970]]'
+- '[[_Standards/WikiData/WD~Xi_Jinping_Li_Keqiang_Administration,1082940]]'
+- '[[_Standards/WikiData/WD~general_secretaryship_of_Xi_Jinping,52161605]]'
+military_branch: '[[_Standards/WikiData/WD~People_s_Liberation_Army,200106]]'
+father: '[[_Standards/WikiData/WD~Xi_Zhongxun,301282]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~commander_in_chief,380782]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Peng_Liyuan,430911]]"
-  - "[[_Standards/WikiData/WD~Ke_Lingling,97352031]]"
+- '[[_Standards/WikiData/WD~Peng_Liyuan,430911]]'
+- '[[_Standards/WikiData/WD~Ke_Lingling,97352031]]'
 candidacy_in_election:
-  - "[[_Standards/WikiData/WD~18th_Central_Committee_of_the_Chinese_Communist_Party,564527]]"
-  - "[[_Standards/WikiData/WD~19th_Central_Committee_of_the_Chinese_Communist_Party,28414412]]"
-  - "[[_Standards/WikiData/WD~20th_Central_Committee_of_the_Chinese_Communist_Party,114324061]]"
+- '[[_Standards/WikiData/WD~18th_Central_Committee_of_the_Chinese_Communist_Party,564527]]'
+- '[[_Standards/WikiData/WD~19th_Central_Committee_of_the_Chinese_Communist_Party,28414412]]'
+- '[[_Standards/WikiData/WD~20th_Central_Committee_of_the_Chinese_Communist_Party,114324061]]'
 position_held:
-  - "[[_Standards/WikiData/WD~General_Secretary_of_the_Chinese_Communist_Party,849418]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Politburo_of_the_Chinese_Communist_Party,20046316]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Politburo_Standing_Committee_of_the_Chinese_Communist_Party,42327067]]"
+- '[[_Standards/WikiData/WD~General_Secretary_of_the_Chinese_Communist_Party,849418]]'
+- '[[_Standards/WikiData/WD~member_of_the_Politburo_of_the_Chinese_Communist_Party,20046316]]'
+- '[[_Standards/WikiData/WD~member_of_the_Politburo_Standing_Committee_of_the_Chinese_Communist_Party,42327067]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Qi_Qiaoqiao,1441290]]"
-  - "[[_Standards/WikiData/WD~Xi_Yuanping,4119708]]"
-  - "[[_Standards/WikiData/WD~Xi_Zhengning,48880970]]"
-  - "[[_Standards/WikiData/WD~Xi_Qianping,104837702]]"
-  - "[[_Standards/WikiData/WD~Xi_Heping,104837711]]"
-  - "[[_Standards/WikiData/WD~Qi_An'an,104837712]]"
-hair_color: "[[_Standards/WikiData/WD~black_hair,1922956]]"
-academic_degree: "[[_Standards/WikiData/WD~Doctor_of_Juridical_Science,3033568]]"
+- '[[_Standards/WikiData/WD~Qi_Qiaoqiao,1441290]]'
+- '[[_Standards/WikiData/WD~Xi_Yuanping,4119708]]'
+- '[[_Standards/WikiData/WD~Xi_Zhengning,48880970]]'
+- '[[_Standards/WikiData/WD~Xi_Qianping,104837702]]'
+- '[[_Standards/WikiData/WD~Xi_Heping,104837711]]'
+- "[[_Standards/WikiData/WD~Qi_An'an,104837712]]"
+hair_color: '[[_Standards/WikiData/WD~black_hair,1922956]]'
+academic_degree: '[[_Standards/WikiData/WD~Doctor_of_Juridical_Science,3033568]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Beijing_101_Middle_School,4881097]]"
-  - "[[_Standards/WikiData/WD~Beijing_Bayi_School,20670443]]"
-  - "[[_Standards/WikiData/WD~Tsinghua_University,16955]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-child: "[[_Standards/WikiData/WD~Xi_Mingze,8044049]]"
+- '[[_Standards/WikiData/WD~Beijing_101_Middle_School,4881097]]'
+- '[[_Standards/WikiData/WD~Beijing_Bayi_School,20670443]]'
+- '[[_Standards/WikiData/WD~Tsinghua_University,16955]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+child: '[[_Standards/WikiData/WD~Xi_Mingze,8044049]]'
 relative:
-  - "[[_Standards/WikiData/WD~Deng_Jiagui,8951054]]"
-  - "[[_Standards/WikiData/WD~Ke_Hua,9295825]]"
-  - "[[_Standards/WikiData/WD~Zhang_Lanlan,15901784]]"
-  - "[[_Standards/WikiData/WD~Zhang_Yannan,104837764]]"
-family_name: "[[_Standards/WikiData/WD~Xi,10879730]]"
-writing_language: "[[_Standards/WikiData/WD~Simplified_Chinese,13414913]]"
-eye_color: "[[_Standards/WikiData/WD~black,17244465]]"
+- '[[_Standards/WikiData/WD~Deng_Jiagui,8951054]]'
+- '[[_Standards/WikiData/WD~Ke_Hua,9295825]]'
+- '[[_Standards/WikiData/WD~Zhang_Lanlan,15901784]]'
+- '[[_Standards/WikiData/WD~Zhang_Yannan,104837764]]'
+family_name: '[[_Standards/WikiData/WD~Xi,10879730]]'
+writing_language: '[[_Standards/WikiData/WD~Simplified_Chinese,13414913]]'
+eye_color: '[[_Standards/WikiData/WD~black,17244465]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Lentapedia,17290934]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-mother: "[[_Standards/WikiData/WD~Qi_Xin,17499761]]"
-list_of_works: "[[_Standards/WikiData/WD~General_Secretary_Xi_Jinping_important_speech_series,17500933]]"
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+mother: '[[_Standards/WikiData/WD~Qi_Xin,17499761]]'
+list_of_works: '[[_Standards/WikiData/WD~General_Secretary_Xi_Jinping_important_speech_series,17500933]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~General_Secretary_Xi_Jinping_important_speech_series,17500933]]"
-  - "[[_Standards/WikiData/WD~Zhi_Jiang_Xin_Yu,55708538]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Xi_Jinping,20088640]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Xi_Jinping,22828780]]"
+- '[[_Standards/WikiData/WD~General_Secretary_Xi_Jinping_important_speech_series,17500933]]'
+- '[[_Standards/WikiData/WD~Zhi_Jiang_Xin_Yu,55708538]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Xi_Jinping,20088640]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Xi_Jinping,22828780]]'
 significant_event:
-  - "[[_Standards/WikiData/WD~Panama_Papers,23702848]]"
-  - "[[_Standards/WikiData/WD~Open_Letter_asking_Xi_Jinping_to_Resign,23766527]]"
-owner_of: "[[_Standards/WikiData/WD~Vésuve_de_Brekka,47156476]]"
-authority: "[[_Standards/WikiData/WD~general_secretaryship_of_Xi_Jinping,52161605]]"
-given_name: "[[_Standards/WikiData/WD~Jinping,93985155]]"
-has_list: "[[_Standards/WikiData/WD~list_of_awards_and_honours_received_by_Xi_Jinping,131577869]]"
-work_location: "[[_Standards/WikiData/WD~Beijing,956]]"
-residence: "[[_Standards/WikiData/WD~Beijing,956]]"
-place_of_birth: "[[_Standards/WikiData/WD~Beijing,956]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~atheism,7066]]"
-field_of_work: "[[_Standards/WikiData/WD~politics,7163]]"
+- '[[_Standards/WikiData/WD~Panama_Papers,23702848]]'
+- '[[_Standards/WikiData/WD~Open_Letter_asking_Xi_Jinping_to_Resign,23766527]]'
+owner_of: '[[_Standards/WikiData/WD~Vésuve_de_Brekka,47156476]]'
+authority: '[[_Standards/WikiData/WD~general_secretaryship_of_Xi_Jinping,52161605]]'
+given_name: '[[_Standards/WikiData/WD~Jinping,93985155]]'
+has_list: '[[_Standards/WikiData/WD~list_of_awards_and_honours_received_by_Xi_Jinping,131577869]]'
+work_location: '[[_Standards/WikiData/WD~Beijing,956]]'
+residence: '[[_Standards/WikiData/WD~Beijing,956]]'
+place_of_birth: '[[_Standards/WikiData/WD~Beijing,956]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~atheism,7066]]'
+field_of_work: '[[_Standards/WikiData/WD~politics,7163]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Chinese,7850]]"
-  - "[[_Standards/WikiData/WD~Mandarin,9192]]"
-member_of_political_party: "[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]"
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Mandarin,9192]]'
+member_of_political_party: '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]'
 employer: "[[_Standards/WikiData/WD~National_People's_Congress,19211]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 booru_tag: xi_jinping
 Commons_gallery: 习近平
@@ -109,16 +182,117 @@ date_of_birth: 1953-06-15T00:00:00Z
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Xi%20Jinping%20from%20China%20pronunciation%20%28Voice%20of%20America%29.ogg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Xi%20Jinping%20signature%20%282023%29.svg
 ISNI:
-  - "0000000064150156"
-  - "0000000482239241"
-  - "0000000482408383"
-  - 000000048259127X
-NLC_authorities: "000269714"
-P1015: "13049338"
+- 0000000064150156
+- 0000000482239241
+- 0000000482408383
+- 000000048259127X
+NLC_authorities: 000269714
+P1015: 13049338
 Plex_person_key: 5d777049f617c9002019ce2b
 Libris_URI: 97mqzgkt38m1m50
+dv_has_:
+  name_:
+    am: ሺ ጂንፒንግ
+    ar: شي جين بينغ
+    arz: شى جين بينغ
+    as: ছি জিনপিং
+    az: Si Tsinpin
+    ba: Си Дзиньпин
+    be: Сі Цзіньпін
+    be-tarask: Сі Цзіньпін
+    bg: Си Дзинпин
+    bho: शी जिनपिंग
+    bn: শি চিনফিং
+    bo: ཞིས་ཅིན་ཕིང་།
+    bug: ᨔᨗ ᨍᨗᨊᨄᨗᨊᨁ
+    cdo: Sĭk Gê̤ṳng-bìng
+    ckb: شی ژنپنگ
+    crh: Şi Cinpiñ
+    crh-latn: Si Cinpiñ
+    cs: Si Ťin-pching
+    dty: सि जिनपिङ
+    el: Σι Τζινπίνγκ
+    en: Xi Jinping
+    fa: شی چینپینگ
+    fr: Xi Jinping
+    gan: 習近平
+    got: "\U00010347\U00010339 \U0001033E\U00010339\U00010340\U00010339\U0001033D"
+    gu: શી જિનપિંગ
+    hak: Si̍p Khiûn-phìn
+    he: שי ג'ינפינג
+    hi: शी जिनपिंग
+    hu: Hszi Csin-ping
+    hy: Սի Ցզինպին
+    ia: Jinping Xi
+    ja: 習近平
+    jbo: cis. djinpin.
+    ka: სი ძინპინი
+    kk: Си Цзиньпин
+    km: ស៊ី ជីនពីង
+    ko: 시진핑
+    ko-kp: 습근평
+    ks: شی جِن پِنٛگ
+    lo: ສີ ຈີ້ນຜິງ
+    lv: Sji Dzjiņpins
+    lzh: 習近平
+    mai: सि जिनपिङ
+    mhr: Сила Цзиньпина
+    mk: Си Ѓинпинг
+    ml: ഷി ജിൻപിങ്
+    mn: Ши Жиньпин
+    mr: षी चिन्पिंग
+    mul: Xi Jinping
+    my: ရှီကျင့်ဖျင်
+    mzn: شی جین پینگ
+    nan: Si̍p Kīn-pêng
+    ne: सि जिनपिङ
+    or: ଶି ଜିନପିଙ୍ଗ
+    pa: ਸ਼ੀ ਚਿਨਪਿੰਙ
+    pnb: شی جن پنگ
+    ps: شي جين پينګ
+    pt: Xi Jinping
+    pt-br: Xi Jinping
+    ru: Си Цзиньпин
+    sa: शी जिन्पिङ्
+    sat: ᱥᱤ ᱡᱤᱱᱯᱤᱝ
+    sd: شي جنپنگ
+    si: ෂී ජිංපිං
+    sk: Ťin-pching Si
+    sl: Ši Džinping
+    so: Xi jinping
+    sq: Xi Xhinping
+    sr: Си Ђинпинг
+    sr-ec: Си Ђинпинг
+    sr-el: Si Đinping
+    su: ᮟᮤ ᮏᮤᮔ᮪ ᮕᮤᮀ
+    ta: சீ சின்பிங்
+    tdd: ᥔᥤᥲ ᥓᥤᥢᥱ ᥚᥤᥢᥳ
+    te: జీ జిన్పింగ్
+    tg: Сӣ Ҷинпин
+    tg-cyrl: Сӣ Ҷинпин
+    th: สี จิ้นผิง
+    tk: Si Szinpin
+    tok: jan Si Sinpin
+    tr: Xi Jinping
+    tt: Си Җинпиң
+    ug: شى جىنپىڭ
+    uk: Сі Цзіньпін
+    ur: شی جن پنگ
+    uz: Syi Jinping
+    vi: Tập Cận Bình
+    wuu: 习近平
+    yue: 習近平
+    za: Siz Ginbingz
+    zh: 习近平
+    zh-cn: 习近平
+    zh-hans: 习近平
+    zh-hant: 習近平
+    zh-hk: 習近平
+    zh-mo: 習近平
+    zh-my: 习近平
+    zh-sg: 习近平
+    zh-tw: 習近平
 ---
-
 # [[Xi_Jinping]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Xi_Jinping,15031|WD~Xi_Jinping,15031]]   

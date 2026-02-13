@@ -1,18 +1,52 @@
 ---
 aliases:
-  - Michael_Phelps
-  - Michael Fred Phelps II
-  - Michael Phelps
-  - Phelps
-  - Phelps,Michael
+- Maikls Felpss
+- Maykl Felps
+- Michael Fred Phelps
+- Michael Fred Phelps II
+- Michael Phelps
+- Michael_Phelps
+- Phelps
+- Phelps,Michael
+- Μάικλ Φελπς
+- Мајкл Фелпс
+- Майкл Фелпс
+- Майкл Фэлпс
+- Майкъл Фелпс
+- Մայքլ Ֆելպս
+- מייקל פלפס
+- مائیکل فلپس
+- مائیکل فیلپس
+- مايكل فيلبس
+- مایکل فلپس
+- مایکڵ فێڵپس
+- माइकल फ़ेल्प्स
+- माइकल फ्लेप्स
+- मायकल फेल्प्स
+- মাইকেল ফেলপস
+- ਮਾਈਕਲ ਫੈਲਪਸ
+- மைக்கல் ஃபெல்ப்ஸ்
+- మైఖేల్ ఫెల్ప్స్
+- ಮೈಕೆಲ್ ಫೆಲ್ಪ್ಸ್
+- മൈക്കൽ ഫെൽപ്സ്
+- මයිකල් ෆෙල්ප්ස්.
+- ไมเคิล เฟ็ลปส์
+- მაიკლ ფელპსი
+- マイケル・フェルプス
+- 米高·菲比斯
+- 菲比斯
+- 迈克尔·菲尔普斯
+- 麥可·菲爾普斯
+- 麦伊考 菲尔普斯
+- 마이클 펠프스
 has_id_wikidata: Q39562
 birth_name: Michael Fred Phelps II
 work_period_end_: 2016-01-01T00:00:00Z
 educated_at:
-  - '[[_Standards/WikiData/WD~University_of_Michigan,230492]]'
-  - '[[_Standards/WikiData/WD~Dumbarton_Middle_School,5313694]]'
-  - '[[_Standards/WikiData/WD~Towson_High_School,7830318]]'
-  - '[[_Standards/WikiData/WD~Sheldon_High_School,14709229]]'
+- '[[_Standards/WikiData/WD~University_of_Michigan,230492]]'
+- '[[_Standards/WikiData/WD~Dumbarton_Middle_School,5313694]]'
+- '[[_Standards/WikiData/WD~Towson_High_School,7830318]]'
+- '[[_Standards/WikiData/WD~Sheldon_High_School,14709229]]'
 award_received: '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
 head_coach: '[[_Standards/WikiData/WD~Bob_Bowman,2907594]]'
 given_name: '[[_Standards/WikiData/WD~Michael,4927524]]'
@@ -47,10 +81,116 @@ Instagram_username: m_phelps00
 subreddit: michaelphelps
 Facebook_username: michaelphelps
 X_Twitter_username:
-  - michaelphelps
-  - MichaelPhelps
+- michaelphelps
+- MichaelPhelps
+dv_has_:
+  name_:
+    af: Michael Phelps
+    an: Michael Phelps
+    ar: مايكل فيلبس
+    arz: مايكل فيلبس
+    ast: Michael Phelps
+    az: Maykl Felps
+    azb: مایکل فلپس
+    ba: Майкл Фелпс
+    bcl: Michael Phelps
+    be: Майкл Фелпс
+    be-tarask: Майкл Фэлпс
+    bg: Майкъл Фелпс
+    bn: মাইকেল ফেলপস
+    bs: Michael Phelps
+    ca: Michael Phelps
+    ckb: مایکڵ فێڵپس
+    cs: Michael Phelps
+    cy: Michael Phelps
+    da: Michael Phelps
+    de: Michael Phelps
+    diq: Michael Phelps
+    el: Μάικλ Φελπς
+    en: Michael Phelps
+    en-ca: Michael Phelps
+    en-gb: Michael Phelps
+    eo: Michael Phelps
+    es: Michael Phelps
+    et: Michael Phelps
+    eu: Michael Phelps
+    ext: Michael Phelps
+    fa: مایکل فلپس
+    fi: Michael Phelps
+    fr: Michael Phelps
+    ga: Michael Phelps
+    gl: Michael Phelps
+    gn: Michael Phelps
+    ha: Michael Phelps
+    he: מייקל פלפס
+    hi: माइकल फ़ेल्प्स
+    hr: Michael Phelps
+    hu: Michael Phelps
+    hy: Մայքլ Ֆելպս
+    id: Michael Phelps
+    io: Michael Phelps
+    is: Michael Phelps
+    it: Michael Phelps
+    ja: マイケル・フェルプス
+    jv: Michael Phelps
+    kk: Майкл Фэлпс
+    kn: ಮೈಕೆಲ್ ಫೆಲ್ಪ್ಸ್
+    ko: 마이클 펠프스
+    ky: Майкл Фелпс
+    la: Michael Fred Phelps
+    lb: Michael Phelps
+    lt: Michael Phelps
+    lv: Maikls Felpss
+    mai: माइकल फ्लेप्स
+    mg: Michael Phelps
+    mk: Мајкл Фелпс
+    ml: മൈക്കൽ ഫെൽപ്സ്
+    mn: Майкл Фелпс
+    mr: मायकल फेल्प्स
+    ms: Michael Phelps
+    mul: Michael Phelps
+    nan: Michael Phelps
+    nb: Michael Phelps
+    ne: माइकल फ्लेप्स
+    nl: Michael Phelps
+    nn: Michael Phelps
+    oc: Michael Phelps
+    os: Майкл Фелпс
+    pa: ਮਾਈਕਲ ਫੈਲਪਸ
+    pam: Michael Phelps
+    pl: Michael Phelps
+    pnb: مائیکل فیلپس
+    pt: Michael Phelps
+    pt-br: Michael Phelps
+    qu: Michael Phelps
+    ro: Michael Phelps
+    ru: Майкл Фелпс
+    sah: Майкл Фелпс
+    sco: Michael Phelps
+    sh: Michael Phelps
+    si: මයිකල් ෆෙල්ප්ස්.
+    sk: Michael Phelps
+    sl: Michael Phelps
+    sq: Michael Phelps
+    sr: Мајкл Фелпс
+    sv: Michael Phelps
+    ta: மைக்கல் ஃபெல்ப்ஸ்
+    te: మైఖేల్ ఫెల్ప్స్
+    th: ไมเคิล เฟ็ลปส์
+    tl: Michael Phelps
+    tr: Michael Phelps
+    uk: Майкл Фелпс
+    ur: مائیکل فلپس
+    uz: Michael Fred Phelps
+    vi: Michael Phelps
+    war: Michael Phelps
+    wuu: 麦伊考 菲尔普斯
+    xmf: მაიკლ ფელპსი
+    yue: 菲比斯
+    zh: 迈克尔·菲尔普斯
+    zh-hk: 米高·菲比斯
+    zh-tw: 麥可·菲爾普斯
 ---
-
 # [[Phelps,Michael]] 
 
 #is_/same_as :: [[WD~Michael_Phelps,39562]] 

@@ -1,6 +1,272 @@
 ---
 dv_has_:
   name_:
+    ab: Екваториалтә Гвинеиа
+    aeb-arab: غينيا الاستوائية
+    af: Ekwatoriaal-Guinee
+    am: ኢኳቶሪያል ጊኔ
+    ami: Equatorial guinea
+    an: Guinea Equatorial
+    ang: Guinea ðæs Emnihtes Circules
+    ann: Gini Ikwetọ
+    anp: ईक्वीटोरियल गीनिया
+    ar: غينيا الاستوائية
+    ary: غينيا ستيوائية
+    arz: جينيا الاستوائيه
+    ast: Guinea Ecuatorial
+    avk: Witaluguinea
+    az: Ekvatorial Qvineya
+    azb: اوستوایی قینه
+    ba: Экватор Гвинеяһы
+    ban: Guinea Ekuatorial
+    bar: Equatorialguinea
+    bcl: Guineyang Ekwatoryal
+    be: Экватарыяльная Гвінея
+    be-tarask: Экватарыяльная Гвінэя
+    bew: Ginéa Katulistiwa
+    bg: Екваториална Гвинея
+    bgn: استوایین گینه
+    bho: भूमध्यरेखीय गिनी
+    bi: Ekwetorial Gini
+    bjn: Guinea Katulistiwa
+    bm: Cemajan Gine
+    bn: বিষুবীয় গিনি
+    bo: ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།
+    bpy: একুয়াটরিয়াল গায়ানা
+    br: Ginea ar C'heheder
+    bs: Ekvatorska Gvineja
+    bxr: Экваторын Гвиней
+    ca: Guinea Equatorial
+    cbk-zam: Guinea Ecuatorial
+    cdo: Chiáh-dô̤ Guinea
+    ce: Экваторан Гвиней
+    ceb: Gineang Ekwatoryal
+    ckb: گینێی ئیستوایی
+    co: Guinea Equatoriale
+    crh: Ekvatorial Gvineya
+    crh-latn: Ekvatorial Gvineya
+    cs: Rovníková Guinea
+    cv: Экваториаллă Гвиней
+    cy: Guinea Gyhydeddol
+    da: Ækvatorialguinea
+    dag: Equatorial Guinea
+    de: Äquatorialguinea
+    diq: Gineya Ekwatori
+    dsb: Ekwatorialna Guineja
+    dty: इक्वेटोरियल गिनिया
+    dv: އިކުއެޓޯރިއަލް ގިނީ
+    dz: ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི། Equatorial Guinea
+    ee: Gini Ekwatoria
+    el: Ισημερινή Γουινέα
+    en: Equatorial Guinea
+    en-ca: Equatorial Guinea
+    en-gb: Equatorial Guinea
+    eo: Ekvatora Gvineo
+    es: Guinea Ecuatorial
+    et: Ekvatoriaal-Guinea
+    eu: Ekuatore Ginea
+    ext: Guinea Equatorial
+    fa: گینه استوایی
+    ff: Gine Ekwatoriyal
+    fi: Päiväntasaajan Guinea
+    fo: Ekvatorguinea
+    fr: Guinée équatoriale
+    frp: Guinê èquatoriâla
+    frr: Ekwatoriaal-Guinea
+    fy: Ekwatoriaal-Guinee
+    ga: an Ghuine Mheánchriosach
+    gaa: Ekuatoral Guinea
+    gag: Ekvatorial Gvineya
+    gcr: Giné ékwatoryal
+    gd: Gini Mheadhan-Chriosach
+    gl: Guinea Ecuatorial
+    glk: اۊستوايي گينه
+    gn: Gynéa Ekuatógua
+    gpe: Equatorial Guinea
+    gsw: Äquatorialguinea
+    gu: ઈક્વેટોરિયલ ગિની
+    gv: Guinea Chryss ny Cruinney
+    ha: Gini Ikwatoriya
+    hak: Chhak-tho Guinea
+    he: גינאה המשוונית
+    hi: भूमध्यरेखीय गिनी
+    hif: Equatorial Guinea
+    hr: Ekvatorska Gvineja
+    hsb: Ekwatorialna Gineja
+    ht: Gine ekwateryal
+    hu: Egyenlítői-Guinea
+    hy: ﻿Հասարակածային Գվինեա
+    hyw: Հասարակածային Կինի
+    ia: Guinea Equatorial
+    id: Guinea Khatulistiwa
+    ie: Equatorial Guinéa
+    ig: Equatorial Guinea
+    ik: Nunaqpaum Qitiŋam Kinaa
+    ilo: Guinea Ekuatorial
+    io: Equatorala Guinea
+    is: Miðbaugs-Gínea
+    it: Guinea Equatoriale
+    ja: 赤道ギニア
+    jam: Ekuatuorial Gini
+    jv: Guinéa Katulistiwa
+    ka: ეკვატორული გვინეა
+    kaa: Ekvatorial Gvineya
+    kab: Ginya Tasebgast
+    kbp: Kinee-Ekwatoriyaaalɩ
+    kcg: Gini A̱kwa̱toriya
+    kg: Ginea ya Ekwatelo
+    kk: Экваторлық Гвинея
+    kn: ವಿಷುವದ್ರೇಖೆಯ ಗಿನಿ
+    knc: Equatorial Guinea
+    ko: 적도 기니
+    ko-kp: 적도기네
+    krc: Экваториал Гвинея
+    ku: Gîneya Rojbendî
+    kw: Gyni Ekwadoriel
+    ky: Экваториалдык Гвинея
+    la: Guinea Aequinoctialis
+    lad: Ginea Ekvatoriala
+    lb: Equatorialguinea
+    lez: Экваториал Гвинея
+    lfn: Gine Ecuatoral
+    lg: Equatorial Guinea
+    li: Equatoriaal Guinee
+    lij: Guinea Equatoriâ
+    lld: Guinea Ecuatoriela
+    lmo: Guinea Equaturiala
+    ln: Gine-Ekwatorial
+    lo: ປະເທດກິເນ ເອກວາຕໍຣິອານ
+    lrc: گینە ئوستوڤایی
+    lt: Pusiaujo Gvinėja
+    lv: Ekvatoriālā Gvineja
+    lzh: 赤道幾內亞
+    map-bms: Guinea Khatulistiwa
+    mdf: Экваториянь Гвинэя
+    mg: Ginea Ekoatorialy
+    mhr: Экваторийысе Гвиней
+    mi: Kini Ekuatoria
+    min: Guinea Khatulistiwa
+    mk: Екваторска Гвинеја
+    ml: ഇക്വറ്റോറിയൽ ഗിനി
+    mn: Экваторын Гвиней
+    mni: ꯃꯌꯥꯢꯊꯪꯕ ꯒꯤꯅꯤ
+    mr: इक्वेटोरीयल गिनी
+    mrj: Экваториаль Гвиней
+    ms: Guinea Khatulistiwa
+    mt: Guinea Ekwatorjali
+    mwl: Guiné Eiquatorial
+    my: အီကွေတာဂီနီနိုင်ငံ
+    mzn: اوستوایی گینه
+    na: Gini t Ekwador
+    nah: Guinea Tlahcotlalticpac
+    nan: Chhiah-tō Guinea
+    nb: Ekvatorial-Guinea
+    nds: Äquatoriaal-Guinea
+    nds-nl: Ekwatoriaal Guinea
+    ne: इक्वेटोरियल गिनी
+    new: इक्वेटोरियल गिनी
+    nl: Equatoriaal-Guinea
+    nn: Ekvatorial-Guinea
+    nov: Equatoral Gini
+    nso: Equatorial Guinea
+    nv: Ndikʼąʼtsinyaa Naakaii Łizhiní Bikéyah
+    oc: Guinèa Eqüatoriala
+    olo: Ekvuatourielline Gvinei
+    om: Iqu’aatoriyaal Giinii
+    or: ବିଷୁବରେଖୀୟ ଗିନି
+    os: Экваториалон Гвиней
+    pa: ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ
+    pam: Equatorial Guinea
+    pap: Guinea Ekuatorial
+    pih: Ekwatoryal Gini
+    pl: Gwinea Równikowa
+    pms: Guinea Equatorial
+    pnb: استوائی گنی
+    ps: استوايي ګينه
+    pt: Guiné Equatorial
+    pt-br: Guiné Equatorial
+    qu: Chawpipacha Khiniya
+    rmy: Ekuatorialni Guineya
+    ro: Guineea Ecuatorială
+    ru: Экваториальная Гвинея
+    rw: Gineya Ekwatoriyale
+    sah: Экуатор Гуинеята
+    sat: ᱤᱠᱩᱭᱮᱴᱚᱨᱤᱭᱟᱞ ᱜᱤᱱᱤ
+    sc: Guinea Ecuadoriale
+    scn: Guinia Ecuaturiali
+    sco: Equatorial Guinea
+    sd: استوائي جيني
+    se: Ekváhtor-Guinea
+    sg: Ginëe tî Ekuatëre
+    sgs: Ekvatuorė Gvinėjė
+    sh: Ekvatorijalna Gvineja
+    shi: Ginya Tamnanaḍt
+    shn: မိူင်းဢီႇၵူၺ်ႇတေႃႇရီႇယႃႇ ၵီးၼီး
+    si: සමක ගිනියාව
+    sk: Rovníková Guinea
+    sl: Ekvatorialna Gvineja
+    sm: Kini Ekuatoria
+    smj: Ekvatåvråk Guinedja
+    smn: Peeivitäsideijee Guinea
+    sms: Peiʹvvtaʹssjeei Guinea
+    sn: Equatorial Guinea
+    so: Equatorial Guinea
+    sq: Guinea Ekuatoriale
+    sr: Екваторијална Гвинеја
+    sr-ec: Екваторијална Гвинеја
+    sr-el: Ekvatorijalna Gvineja
+    st: Equatorial Guinea
+    stq: Äquatorioal Guinea
+    su: Guinéa Khatulistiwa
+    sv: Ekvatorialguinea
+    sw: Guinea ya Ikweta
+    szl: Růwńikowo Gwinyjo
+    szy: Equatorial guinea
+    ta: எக்குவடோரியல் கினி
+    tay: Equatorial guinea
+    te: ఈక్వెటోరియల్ గినీ
+    tg: Гвинеяи Истивоӣ
+    th: ประเทศอิเควทอเรียลกินี
+    tk: Ekwatorial Gwineýa
+    tl: Gineang Ekwatoriyal
+    tly: Ekvatori Gvinejə
+    tok: ma Kinejekatolija
+    tr: Ekvator Ginesi
+    trv: Equatorial Guinea
+    ts: Gineya ya le Nkaveni
+    tt: Экваториаль Гвинея
+    tum: Equatorial Guinea
+    udm: Экваториальной Гвинея
+    ug: ئېكۋاتور گۋىنېيىسى
+    uk: Екваторіальна Гвінея
+    ur: استوائی گنی
+    uz: Ekvatorli Gvineya
+    vec: Guinea Ecuatoriałe
+    vep: Ekvatorialine Gvinei
+    vi: Guinea Xích Đạo
+    vo: Kveatora-Gineyän
+    vro: Ekvatoriaal-Ginea
+    war: Guinea Ecuatorial
+    wo: Gineg yamoo
+    wuu: 赤道幾內亞
+    xal: Экватор Гвинемудин Орн
+    xh: Ekhwithoriyal Gini
+    xmf: ეკვატორული გვინეა
+    yi: עקוואטארישע גינע
+    yo: Guinea Alágedeméjì
+    yue: 赤道畿內亞
+    za: Cwdau Guinea
+    zea: Equatoriaol Hunea
+    zgh: ⴳⵉⵏⵢⴰ ⵜⴰⵎⵙⵙⴳⴷⵓⵜ
+    zh: 赤道几内亚
+    zh-cn: 赤道几内亚
+    zh-hans: 赤道几内亚
+    zh-hant: 赤道幾內亞
+    zh-hk: 赤道畿內亞
+    zh-mo: 赤道幾內亞
+    zh-sg: 赤道几内亚
+    zh-tw: 赤道幾內亞
+    zu: IGini Enkabazwe
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea
 dv_ISO4217-currency_alphabetic: XAF
@@ -13,8 +279,8 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: Equatorial Guinea
 dv_has_name_en:
-  - Equatorial Guinea
-  - Equatorial Guinea
+- Equatorial Guinea
+- Equatorial Guinea
 dv_has_name_es: Guinea Ecuatorial
 dv_has_name_fr: Guinée équatoriale
 dv_has_name_cn: 赤道几内亚
@@ -33,9 +299,9 @@ dv_UNTERM_Chinese_Formal: 赤道几内亚共和国
 dv_UNTERM_French_Formal: la République de Guinée équatoriale
 dv_UNTERM_Russian: Экваториальная Гвинея
 dv_UNTERM_Russian_Formal: Республика Экваториальная Гвинея
-dv_Region_Name: "[[../../Africa]]"
-dv_Intermediate_Region_Name: "[[Middle Africa]]"
-dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
+dv_Region_Name: '[[../../Africa]]'
+dv_Intermediate_Region_Name: '[[Middle Africa]]'
+dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
 dv_Intermediate_Region: 17
 dv_Sub-region: 202
@@ -59,54 +325,252 @@ dv_ISO2: GQ
 dv_ISO3: GNQ
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
-    - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea|Equatorial_Guinea]]"
-    - "[[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public|Equatorial_Guinea.public]]"
-    - "[[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]]"
-    - "[[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]]"
-    - "[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]"
-    - "[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]"
-    - "[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]"
+  - '[[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]'
+  - '[[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea|Equatorial_Guinea]]'
+  - '[[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public|Equatorial_Guinea.public]]'
+  - '[[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]]'
+  - '[[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]]'
+  - '[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]'
+  - '[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]'
+  - '[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]'
 dv_has_name_de: Äquatorial-Guinea
 dv_Area-Total: 28051
 dv_Area-Land: 28050
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: '[[../../Africa]]'
 dv_VehicleCode: EQ
-dv_Capital: "[[Malabo]]"
+dv_Capital: '[[Malabo]]'
 dv_Alcohol-l: 6.1
 dv_Language-Id: 492
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 8.78333
 dv_has_place_latitude: 3.75
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Equatorial_Guinea
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]"
-  - "[[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea|Equatorial_Guinea]]"
-  - "[[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public|Equatorial_Guinea.public]]"
-  - "[[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]]"
-  - "[[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]]"
-  - "[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]"
-  - "[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]"
-  - "[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]"
-
+- '[[../../../../WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]'
+- '[[/_Standards/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea|Equatorial_Guinea]]'
+- '[[/_public/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.public|Equatorial_Guinea.public]]'
+- '[[/_internal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.internal|Equatorial_Guinea.internal]]'
+- '[[/_protect/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.protect|Equatorial_Guinea.protect]]'
+- '[[/_private/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.private|Equatorial_Guinea.private]]'
+- '[[/_personal/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.personal|Equatorial_Guinea.personal]]'
+- '[[/_secret/Earth/Continent/Africa/Africa~Central/Equatorial_Guinea.secret|Equatorial_Guinea.secret]]'
 aliases:
-  - Equatorial Guinea
-  - Guinea Ecuatorial
-  - Guinée équatoriale
-  - غينيا الاستوائية
-  - 赤道几内亚
-  - Экваториальная Гвинея
-  - the Republic of Equatorial Guinea
-  - la República de Guinea Ecuatorial
-  - Equatorial_Guinea
+- an Ghuine Mheánchriosach
+- Cemajan Gine
+- Chawpipacha Khiniya
+- Chhak-tho Guinea
+- Chhiah-tō Guinea
+- Chiáh-dô̤ Guinea
+- Cwdau Guinea
+- Egyenlítői-Guinea
+- Ekhwithoriyal Gini
+- Ekuatoral Guinea
+- Ekuatore Ginea
+- Ekuatorialni Guineya
+- Ekuatuorial Gini
+- Ekvator Ginesi
+- Ekvatora Gvineo
+- Ekvatorguinea
+- Ekvatori Gvinejə
+- Ekvatoriaal-Ginea
+- Ekvatoriaal-Guinea
+- Ekvatorial Gvineya
+- Ekvatorial Qvineya
+- Ekvatorial-Guinea
+- Ekvatorialguinea
+- Ekvatorialine Gvinei
+- Ekvatorialna Gvineja
+- Ekvatorijalna Gvineja
+- Ekvatoriālā Gvineja
+- Ekvatorli Gvineya
+- Ekvatorska Gvineja
+- Ekvatuorė Gvinėjė
+- Ekvatåvråk Guinedja
+- Ekvuatourielline Gvinei
+- Ekváhtor-Guinea
+- Ekwatoriaal Guinea
+- Ekwatoriaal-Guinea
+- Ekwatoriaal-Guinee
+- Ekwatorial Gwineýa
+- Ekwatorialna Gineja
+- Ekwatorialna Guineja
+- Ekwatoryal Gini
+- Ekwetorial Gini
+- Equatoral Gini
+- Equatorala Guinea
+- Equatoriaal Guinee
+- Equatoriaal-Guinea
+- Equatorial Guinea
+- Equatorial Guinéa
+- Equatorialguinea
+- Equatorial_Guinea
+- Equatoriaol Hunea
+- Gine Ecuatoral
+- Gine ekwateryal
+- Gine Ekwatoriyal
+- Gine-Ekwatorial
+- Ginea ar C'heheder
+- Ginea Ekoatorialy
+- Ginea Ekvatoriala
+- Ginea ya Ekwatelo
+- Gineang Ekwatoriyal
+- Gineang Ekwatoryal
+- Gineg yamoo
+- Gineya Ekwatori
+- Gineya Ekwatoriyale
+- Gineya ya le Nkaveni
+- Gini A̱kwa̱toriya
+- Gini Ekwatoria
+- Gini Ikwatoriya
+- Gini Ikwetọ
+- Gini Mheadhan-Chriosach
+- Gini t Ekwador
+- Ginya Tamnanaḍt
+- Ginya Tasebgast
+- Giné ékwatoryal
+- Ginéa Katulistiwa
+- Ginëe tî Ekuatëre
+- Guinea Aequinoctialis
+- Guinea Alágedeméjì
+- Guinea Chryss ny Cruinney
+- Guinea Ecuadoriale
+- Guinea Ecuatorial
+- Guinea Ecuatoriałe
+- Guinea Ecuatoriela
+- Guinea Ekuatorial
+- Guinea Ekuatoriale
+- Guinea Ekwatorjali
+- Guinea Equatorial
+- Guinea Equatoriale
+- Guinea Equatoriâ
+- Guinea Equaturiala
+- Guinea Gyhydeddol
+- Guinea Katulistiwa
+- Guinea Khatulistiwa
+- Guinea Tlahcotlalticpac
+- Guinea Xích Đạo
+- Guinea ya Ikweta
+- Guinea ðæs Emnihtes Circules
+- Guineea Ecuatorială
+- Guineyang Ekwatoryal
+- Guinia Ecuaturiali
+- Guinèa Eqüatoriala
+- Guiné Eiquatorial
+- Guiné Equatorial
+- Guinéa Katulistiwa
+- Guinéa Khatulistiwa
+- Guinée équatoriale
+- Guinê èquatoriâla
+- Gwinea Równikowa
+- Gyni Ekwadoriel
+- Gynéa Ekuatógua
+- Gîneya Rojbendî
+- IGini Enkabazwe
+- Iqu’aatoriyaal Giinii
+- Kinee-Ekwatoriyaaalɩ
+- Kini Ekuatoria
+- Kveatora-Gineyän
+- la República de Guinea Ecuatorial
+- ma Kinejekatolija
+- Miðbaugs-Gínea
+- Ndikʼąʼtsinyaa Naakaii Łizhiní Bikéyah
+- Nunaqpaum Qitiŋam Kinaa
+- Peeivitäsideijee Guinea
+- Peiʹvvtaʹssjeei Guinea
+- Pusiaujo Gvinėja
+- Päiväntasaajan Guinea
+- Rovníková Guinea
+- Růwńikowo Gwinyjo
+- the Republic of Equatorial Guinea
+- Witaluguinea
+- Äquatoriaal-Guinea
+- Äquatorialguinea
+- Äquatorioal Guinea
+- Ækvatorialguinea
+- Ισημερινή Γουινέα
+- Гвинеяи Истивоӣ
+- Екваторіальна Гвінея
+- Екваторијална Гвинеја
+- Екваториална Гвинея
+- Екваториалтә Гвинеиа
+- Екваторска Гвинеја
+- Экватарыяльная Гвінея
+- Экватарыяльная Гвінэя
+- Экватор Гвинемудин Орн
+- Экватор Гвинеяһы
+- Экваторан Гвиней
+- Экваториал Гвинея
+- Экваториалдык Гвинея
+- Экваториаллă Гвиней
+- Экваториалон Гвиней
+- Экваториаль Гвиней
+- Экваториаль Гвинея
+- Экваториальная Гвинея
+- Экваториальной Гвинея
+- Экваторийысе Гвиней
+- Экваториянь Гвинэя
+- Экваторлық Гвинея
+- Экваторын Гвиней
+- Экуатор Гуинеята
+- Հասարակածային Կինի
+- גינאה המשוונית
+- עקוואטארישע גינע
+- ئېكۋاتور گۋىنېيىسى
+- استوائي جيني
+- استوائی گنی
+- استوايي ګينه
+- استوایین گینه
+- اوستوایی قینه
+- اوستوایی گینه
+- اۊستوايي گينه
+- جينيا الاستوائيه
+- غينيا الاستوائية
+- غينيا ستيوائية
+- گینه استوایی
+- گینێی ئیستوایی
+- گینە ئوستوڤایی
+- އިކުއެޓޯރިއަލް ގިނީ
+- इक्वेटोरियल गिनिया
+- इक्वेटोरियल गिनी
+- इक्वेटोरीयल गिनी
+- ईक्वीटोरियल गीनिया
+- भूमध्यरेखीय गिनी
+- একুয়াটরিয়াল গায়ানা
+- বিষুবীয় গিনি
+- ਭੂ-ਮੱਧ ਰੇਖਾਈ ਗਿਨੀ
+- ઈક્વેટોરિયલ ગિની
+- ବିଷୁବରେଖୀୟ ଗିନି
+- எக்குவடோரியல் கினி
+- ఈక్వెటోరియల్ గినీ
+- ವಿಷುವದ್ರೇಖೆಯ ಗಿನಿ
+- ഇക്വറ്റോറിയൽ ഗിനി
+- සමක ගිනියාව
+- ประเทศอิเควทอเรียลกินี
+- ປະເທດກິເນ ເອກວາຕໍຣິອານ
+- ཨི་ཁུའ་ཊོ་རལ་གི་ནེ།
+- ཨེ་ཀུ་ཊོ་རེལ་ གི་ནི། Equatorial Guinea
+- မိူင်းဢီႇၵူၺ်ႇတေႃႇရီႇယႃႇ ၵီးၼီး
+- အီကွေတာဂီနီနိုင်ငံ
+- ეკვატორული გვინეა
+- ኢኳቶሪያል ጊኔ
+- ᱤᱠᱩᱭᱮᱴᱚᱨᱤᱭᱟᱞ ᱜᱤᱱᱤ
+- ⴳⵉⵏⵢⴰ ⵜⴰⵎⵙⵙⴳⴷⵓⵜ
+- 赤道ギニア
+- 赤道几内亚
+- 赤道幾內亞
+- 赤道畿內亞
+- ꯃꯌꯥꯢꯊꯪꯕ ꯒꯤꯅꯤ
+- 적도 기니
+- 적도기네
+- ﻿Հասարակածային Գվինեա
 has_id_wikidata: Q983
 location:
-  - 3.75
-  - 8.78333
+- 3.75
+- 8.78333
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 26909
 isDeleted: false
 confidential: public
@@ -116,252 +580,252 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Equatorial Guinea
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - es-GQ
-  - fr
+- es-GQ
+- fr
 language_used:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Lengue,13345]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Fang,33484]]"
-  - "[[_Standards/WikiData/WD~Kwasio,34098]]"
-  - "[[_Standards/WikiData/WD~Benga,34952]]"
-  - "[[_Standards/WikiData/WD~Noho,34979]]"
-  - "[[_Standards/WikiData/WD~Annobonese_Creole,34992]]"
-  - "[[_Standards/WikiData/WD~Bube,35110]]"
-  - "[[_Standards/WikiData/WD~Pichinglis,35288]]"
-  - "[[_Standards/WikiData/WD~Gyele,35434]]"
-  - "[[_Standards/WikiData/WD~Kombe,36459]]"
-  - "[[_Standards/WikiData/WD~Seki,36547]]"
-  - "[[_Standards/WikiData/WD~Yasa,36899]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Lengue,13345]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~Fang,33484]]'
+- '[[_Standards/WikiData/WD~Kwasio,34098]]'
+- '[[_Standards/WikiData/WD~Benga,34952]]'
+- '[[_Standards/WikiData/WD~Noho,34979]]'
+- '[[_Standards/WikiData/WD~Annobonese_Creole,34992]]'
+- '[[_Standards/WikiData/WD~Bube,35110]]'
+- '[[_Standards/WikiData/WD~Pichinglis,35288]]'
+- '[[_Standards/WikiData/WD~Gyele,35434]]'
+- '[[_Standards/WikiData/WD~Kombe,36459]]'
+- '[[_Standards/WikiData/WD~Seki,36547]]'
+- '[[_Standards/WikiData/WD~Yasa,36899]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Portuguese,5146]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-capital: "[[_Standards/WikiData/WD~Malabo,3818]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+capital: '[[_Standards/WikiData/WD~Malabo,3818]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
 member_of:
-  - "[[_Standards/WikiData/WD~African_Union,7159]]"
-  - "[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
-  - "[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]"
-  - "[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]"
-  - "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~African_Development_Bank,340195]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~OHADA,2029901]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]"
-  - "[[_Standards/WikiData/WD~AFRISTAT,3348506]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- '[[_Standards/WikiData/WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]'
+- '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
 named_after:
-  - "[[_Standards/WikiData/WD~equator,23538]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Central_Africa,27433]]"
+- '[[_Standards/WikiData/WD~equator,23538]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Central_Africa,27433]]"
-  - "[[_Standards/WikiData/WD~Spanish_Empire,80702]]"
-  - "[[_Standards/WikiData/WD~Portuguese_Empire,200464]]"
-  - "[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]"
-  - "[[_Standards/WikiData/WD~European_colonies_in_Africa,90696277]]"
-continent: "[[_Standards/WikiData/WD~Africa,15]]"
+- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~Portuguese_Empire,200464]]'
+- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]'
+- '[[_Standards/WikiData/WD~European_colonies_in_Africa,90696277]]'
+continent: '[[_Standards/WikiData/WD~Africa,15]]'
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 unemployment_rate: 8
 marriageable_age: 12
 VAT_rate: 15
 age_of_majority: 18
 mains_voltage: 220
 suicide_rate:
-  - 13.7
-  - 15.5
-  - 16.4
-  - 16.5
-  - 16.7
+- 13.7
+- 15.5
+- 16.4
+- 16.5
+- 16.7
 Democracy_Index: 1.92
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.gq,41460]]"
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gq,41460]]'
 BTI_Status_Index:
-  - 2.97
-  - 3.02
+- 2.97
+- 3.02
 BTI_Governance_Index:
-  - 3.33
-  - 3.41
+- 3.33
+- 3.41
 Human_Development_Index: 0.596
-head_of_state: "[[_Standards/WikiData/WD~Teodoro_Obiang,57385]]"
+head_of_state: '[[_Standards/WikiData/WD~Teodoro_Obiang,57385]]'
 maritime_identification_digits: 631
 total_fertility_rate: 4.835
 mobile_country_code: 627
 death_rate:
-  - 8.582
-  - 8.708
-  - 9.026
-  - 9.042
+- 8.582
+- 8.708
+- 9.026
+- 9.042
 ISO_3166_1_numeric_code: 226
 M49_code: 226
 OmegaWiki_Defined_Meaning: 154211
 area: 28051
 birth_rate:
-  - 29.865
-  - 30.498
-  - 31.174
-  - 31.874
+- 29.865
+- 30.498
+- 31.174
+- 31.874
 IAB_code: 1288
 INSEE_countries_and_foreign_territories_code: 99392
 number_of_out_of_school_children: 50071
 life_expectancy: 57.681
 urban_population:
-  - 1127920
-  - 1202330
-  - 1166712
-  - 1239599
+- 1127920
+- 1202330
+- 1166712
+- 1239599
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Equatorial%20Guinea.svg
 ISO_3166_1_alpha_2_code: GQ
 WIPO_ST_3: GQ
 Libris_URI: jgvxwd224s4ltg3
 Krugosvet_article: strany_mira/EKVATORIALNAYA_GVINEYA.html
 demonym:
-  - ecuatoguineana
-  - ecuatoguineanu
-  - বিষুবীয় গিনীয়
-  - equatoguineà
-  - ækvatorialguineaner
-  - Equatoguinean
-  - Ekvatorgvineano
-  - ecuatoguineana
-  - ecuatoguineano
-  - équatoguinéen
-  - Équatoguinéen
-  - équatoguinéenne
-  - Équatoguinéenne
-  - מגינאה המשוונית
-  - egyenlítői-guineai
-  - equatoguineana
-  - equatoguineane
-  - equatoguineani
-  - equatoguineano
-  - ecuatoginean
-  - Equatoriaal-Guineeër
-  - guineoecuatorian
-  - guineoecuatoriană
-  - guineoecuatorieni
-  - ecuatoguinean
-  - ecuatoguineana
-  - ecuatoguineane
-  - ecuatoguineani
-  - غيني ستيوائي
-  - غينية ستيوائية
-  - غينيين ستيوائيين
-  - غينيات ستيوائيات
-  - equatoguineana
-  - Equatorial Guinean
+- ecuatoguineana
+- ecuatoguineanu
+- বিষুবীয় গিনীয়
+- equatoguineà
+- ækvatorialguineaner
+- Equatoguinean
+- Ekvatorgvineano
+- ecuatoguineana
+- ecuatoguineano
+- équatoguinéen
+- Équatoguinéen
+- équatoguinéenne
+- Équatoguinéenne
+- מגינאה המשוונית
+- egyenlítői-guineai
+- equatoguineana
+- equatoguineane
+- equatoguineani
+- equatoguineano
+- ecuatoginean
+- Equatoriaal-Guineeër
+- guineoecuatorian
+- guineoecuatoriană
+- guineoecuatorieni
+- ecuatoguinean
+- ecuatoguineana
+- ecuatoguineane
+- ecuatoguineani
+- غيني ستيوائي
+- غينية ستيوائية
+- غينيين ستيوائيين
+- غينيات ستيوائيات
+- equatoguineana
+- Equatorial Guinean
 official_name:
-  - República de Guinea Equatorial
-  - República de Guinea Ecuatorial
-  - Guinée équatoriale
-  - la République de Guinée équatoriale
+- República de Guinea Equatorial
+- República de Guinea Ecuatorial
+- Guinée équatoriale
+- la République de Guinée équatoriale
 native_label:
-  - República de Guinea Ecuatorial
-  - République de Guinée équatoriale
-  - República da Guiné Equatorial
+- República de Guinea Ecuatorial
+- République de Guinée équatoriale
+- República da Guiné Equatorial
 motto_text: Unidad, Paz, Justicia
 short_name:
-  - 赤几
-  - 赤幾
-  - 🇬🇶
+- 赤几
+- 赤幾
+- "\U0001F1EC\U0001F1F6"
 coordinates_of_southernmost_point: Point(5.64233 -1.47368)
 coordinates_of_northernmost_point: Point(8.72 3.78)
-flag: "[[_Standards/WikiData/WD~flag_of_Equatorial_Guinea,170554]]"
-central_bank: "[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]"
+flag: '[[_Standards/WikiData/WD~flag_of_Equatorial_Guinea,170554]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Litoral,203873]]"
-  - "[[_Standards/WikiData/WD~Bioko_Sur,845817]]"
-  - "[[_Standards/WikiData/WD~Centro_Sur,845823]]"
-  - "[[_Standards/WikiData/WD~Bioko_Norte,845834]]"
-  - "[[_Standards/WikiData/WD~Kie-ntem,853393]]"
-  - "[[_Standards/WikiData/WD~Wele-Nzas,853400]]"
-  - "[[_Standards/WikiData/WD~Annobón_Province,3736616]]"
-  - "[[_Standards/WikiData/WD~Djibloho,28814758]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Equatorial_Guinea,207533]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Equatorial_Guinea,518433]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Equatorial_Guinea,750817]]"
-anthem: "[[_Standards/WikiData/WD~Caminemos_pisando_las_sendas_de_nuestra_inmensa_felicidad,837310]]"
-replaces: "[[_Standards/WikiData/WD~Spanish_Guinea,1232509]]"
+- '[[_Standards/WikiData/WD~Litoral,203873]]'
+- '[[_Standards/WikiData/WD~Bioko_Sur,845817]]'
+- '[[_Standards/WikiData/WD~Centro_Sur,845823]]'
+- '[[_Standards/WikiData/WD~Bioko_Norte,845834]]'
+- '[[_Standards/WikiData/WD~Kie-ntem,853393]]'
+- '[[_Standards/WikiData/WD~Wele-Nzas,853400]]'
+- '[[_Standards/WikiData/WD~Annobón_Province,3736616]]'
+- '[[_Standards/WikiData/WD~Djibloho,28814758]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Equatorial_Guinea,207533]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Equatorial_Guinea,518433]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Equatorial_Guinea,750817]]'
+anthem: '[[_Standards/WikiData/WD~Caminemos_pisando_las_sendas_de_nuestra_inmensa_felicidad,837310]]'
+replaces: '[[_Standards/WikiData/WD~Spanish_Guinea,1232509]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
-  - "[[_Standards/WikiData/WD~Type_E,2335536]]"
-highest_point: "[[_Standards/WikiData/WD~Pico_Basilé,1518286]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Equatorial_Guinea,2309623]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Equatorial_Guinea,2351213]]"
+- '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536]]'
+highest_point: '[[_Standards/WikiData/WD~Pico_Basilé,1518286]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Equatorial_Guinea,2309623]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Equatorial_Guinea,2351213]]'
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~114,2945964]]"
-  - "[[_Standards/WikiData/WD~113,25648804]]"
-  - "[[_Standards/WikiData/WD~115,25648805]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Equatorial_Guinea,3007274]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Equatorial_Guinea,3085106]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-has_cabinet: "[[_Standards/WikiData/WD~Equatorial_Guinea_Council_of_Ministers,5384256]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Equatorial_Guinea,7112252]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Equatorial_Guinea,11309405]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Equatorial_Guinea,16878152]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Equatorial_Guinea,19058522]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Equatorial_Guinea,30261839]]"
-has_characteristic: "[[_Standards/WikiData/WD~not-free_country,47185282]]"
-motto: "[[_Standards/WikiData/WD~Unity,_Peace,_Justice,102185452]]"
-head_of_government: "[[_Standards/WikiData/WD~Manuela_Roka,112175210]]"
+- '[[_Standards/WikiData/WD~114,2945964]]'
+- '[[_Standards/WikiData/WD~113,25648804]]'
+- '[[_Standards/WikiData/WD~115,25648805]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Equatorial_Guinea,3007274]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Equatorial_Guinea,3085106]]'
+instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+has_cabinet: '[[_Standards/WikiData/WD~Equatorial_Guinea_Council_of_Ministers,5384256]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Equatorial_Guinea,7112252]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Equatorial_Guinea,11309405]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Equatorial_Guinea,16878152]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Equatorial_Guinea,19058522]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Equatorial_Guinea,30261839]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+motto: '[[_Standards/WikiData/WD~Unity,_Peace,_Justice,102185452]]'
+head_of_government: '[[_Standards/WikiData/WD~Manuela_Roka,112175210]]'
 nominal_GDP:
-  - 12269393392
-  - 11813908448
+- 12269393392
+- 11813908448
 MeSH_tree_code: Z01.058.290.100.300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Equatorialguinea%20w1%20locator.svg
 coordinates_of_westernmost_point: Point(5.6168 -1.41361)
 coordinate_location: Point(10.0 1.5)
-country: "[[_Standards/WikiData/WD~Equatorial_Guinea,983]]"
+country: '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Gabon,1000]]"
-  - "[[_Standards/WikiData/WD~Cameroon,1009]]"
-different_from: "[[_Standards/WikiData/WD~Guinea,1006]]"
+- '[[_Standards/WikiData/WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Cameroon,1009]]'
+different_from: '[[_Standards/WikiData/WD~Guinea,1006]]'
 rural_population:
-  - 425111
-  - 429337
-  - 432136
-  - 435309
+- 425111
+- 429337
+- 432136
+- 435309
 female_population:
-  - 731149
-  - 751896
-  - 771091
-  - 790982
+- 731149
+- 751896
+- 771091
+- 790982
 male_population:
-  - 821881
-  - 844153
-  - 863375
-  - 883926
+- 821881
+- 844153
+- 863375
+- 883926
 inception: 1968-10-12
 has_time_started: 1968-10-12
 population: 1847549
@@ -377,23 +841,22 @@ official_website: https://www.guineaecuatorialpress.com/
 ISO_3166_1_alpha_3_code: GNQ
 coordinates_of_easternmost_point: Point(11.5 1.58947)
 locator_map_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationEquatorialGuinea.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/GNQ%20orthographic.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LocationEquatorialGuinea.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/LocationEquatorialGuinea.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/GNQ%20orthographic.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LocationEquatorialGuinea.png
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Jungle-near-Oyala%2C-Equatorial-Guinea-banner.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Jungle-near-Oyala%2C-Equatorial-Guinea-banner.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%BA%D9%8A%D9%86%D9%8A%D8%A7%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A6%D9%8A%D8%A9.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guineea%20Ecuatorial%C4%83.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%BA%D9%8A%D9%86%D9%8A%D8%A7%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A6%D9%8A%D8%A9.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Guineea%20Ecuatorial%C4%83.wav
 country_calling_code: 240
 Dewey_Decimal_Classification: 2--6718
 CIVICUS_Monitor_country_entry: equatorial-guinea
 subreddit: EquatorialGuinea
 hashtag: EquatorialGuinea
 IPA_transcription: ɛkʋɑtu'ɾɪɑːlgɪneːɑ
-Unicode_character: 🇬🇶
+Unicode_character: "\U0001F1EC\U0001F1F6"
 ---
-
 # [[Equatorial_Guinea]] 
 
 

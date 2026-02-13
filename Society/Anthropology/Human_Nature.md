@@ -1,36 +1,162 @@
 ---
 aliases:
-  - Human nature
-  - Human_Nature
-  - Human Nature
+- bản tính con người
+- emberi természet
+- giza izaera
+- homa naturo
+- Homaro
+- human naitur
+- Human nature
+- humanidade
+- Humanitas
+- humanity
+- Human_Nature
+- ihmisluonto
+- Inimene
+- Inson tabiati
+- lidská přirozenost
+- Likas na pagkatao
+- ljudska priroda
+- menneskelig natur
+- menneskenatur
+- menschliche Natur
+- menselijke natuur
+- mänsklig natur
+- natur ddynol
+- natura humana
+- natura ludzka
+- Naturaleza humana
+- nature humaine
+- natureza humana
+- Natyra njerëzore
+- sifat manusia
+- umanitat
+- Uomo (filosofia)
+- Xwezaya mirov
+- Çын (философи)
+- človek
+- Čovjek
+- İnsan
+- žmogus
+- ανθρώπινη φύση
+- људска природа
+- кеше табигате
+- природа людини
+- природа человека
+- табиати инсон
+- чалавечая натура
+- Човек — Човешка природа
+- մարդու բնույթ
+- אנושיות
+- انساني فطرت
+- سروشتی مرۆڤ
+- طبيعة بشرية
+- طبیعت انسان
+- মানব প্রকৃতি
+- ਮਨੁੱਖੀ ਪ੍ਰਕਿਰਤੀ
+- மனித இயல்பு
+- 人性
+- 人間の本性
+- 性
+- 본성
 has_id_wikidata: Q742609
 instance_of:
-  - '[[_Standards/WikiData/WD~essence,190995]]'
-  - '[[_Standards/WikiData/WD~nature,115519012]]'
+- '[[_Standards/WikiData/WD~essence,190995]]'
+- '[[_Standards/WikiData/WD~nature,115519012]]'
 different_from:
-  - '[[_Standards/WikiData/WD~nature,1078867]]'
-  - '[[_Standards/WikiData/WD~human_condition,1124515]]'
-  - '[[_Standards/WikiData/WD~humanity,1156970]]'
+- '[[_Standards/WikiData/WD~nature,1078867]]'
+- '[[_Standards/WikiData/WD~human_condition,1124515]]'
+- '[[_Standards/WikiData/WD~humanity,1156970]]'
 part_of:
-  - '[[_Standards/WikiData/WD~human_condition,1124515]]'
-  - '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~human_condition,1124515]]'
+- '[[_Standards/WikiData/WD~human,5]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~humanitas,1260024]]'
-  - '[[_Standards/WikiData/WD~humanity,12767209]]'
+- '[[_Standards/WikiData/WD~humanitas,1260024]]'
+- '[[_Standards/WikiData/WD~humanity,12767209]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Q6173448,6173448]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~psychology,9418]]'
-  - '[[_Standards/WikiData/WD~social_science,34749]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~social_science,34749]]'
 facet_of: '[[_Standards/WikiData/WD~human,5]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Vinci%20Vitruve%20Luc%20Viatour.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Arecibo%20message%20part%205.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Da%20Vinci%20Vitruve%20Luc%20Viatour.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Arecibo%20message%20part%205.png
 PhilPapers_topic: human-nature
 UMLS_CUI: C0870672
 MeSH_tree_code: F01.510
+dv_has_:
+  name_:
+    ar: طبيعة بشرية
+    ast: Naturaleza humana
+    az: İnsan
+    be-tarask: чалавечая натура
+    bg: Човек — Човешка природа
+    bn: মানব প্রকৃতি
+    bs: Čovjek
+    ca: natura humana
+    ckb: سروشتی مرۆڤ
+    cs: lidská přirozenost
+    cv: Çын (философи)
+    cy: natur ddynol
+    da: menneskelig natur
+    de: menschliche Natur
+    el: ανθρώπινη φύση
+    en: human nature
+    en-us: human nature
+    eo: homa naturo
+    es: naturaleza humana
+    et: Inimene
+    eu: giza izaera
+    fa: طبیعت انسان
+    fi: ihmisluonto
+    fr: nature humaine
+    gl: humanidade
+    he: אנושיות
+    hi: humanity
+    hr: Čovjek
+    hu: emberi természet
+    hy: մարդու բնույթ
+    id: sifat manusia
+    io: Homaro
+    it: Uomo (filosofia)
+    ja: 人間の本性
+    ko: 본성
+    ku: Xwezaya mirov
+    la: Humanitas
+    lt: žmogus
+    lzh: 性
+    ms: Sifat manusia
+    nb: menneskelig natur
+    nl: menselijke natuur
+    nn: menneskenatur
+    oc: umanitat
+    pa: ਮਨੁੱਖੀ ਪ੍ਰਕਿਰਤੀ
+    pl: natura ludzka
+    ps: انساني فطرت
+    pt: natureza humana
+    ru: природа человека
+    sco: human naitur
+    sk: Človek
+    sl: človek
+    sq: Natyra njerëzore
+    sr: људска природа
+    sr-ec: људска природа
+    sr-el: ljudska priroda
+    sv: mänsklig natur
+    ta: மனித இயல்பு
+    tg: табиати инсон
+    tl: Likas na pagkatao
+    tr: İnsan
+    tt: кеше табигате
+    uk: природа людини
+    uz: Inson tabiati
+    vi: bản tính con người
+    yue: 人性
+    zh: 人性
+    zh-cn: 人性
+    zh-hk: 人性
 ---
-
 # [[Human_Nature]] 
 
 #is_/same_as :: [[WD~Human_nature,742609]] 

@@ -1,33 +1,181 @@
 ---
 aliases:
+- aizkrūtes dziedzeris
+- aýırşa bez
+- brissel
+- brzlík
+- bräss
+- csecsemőmirigy
+- detská žľaza
+- faireog thímis
+- grasica
+- grudna žlezda
+- grudna žlijezda
+- hóstarkirtill
+- kateenkorva
+- thymo
+- thymus
+- Thymws
+- tim
+- timo
+- timus
+- timuso
+- timusse
+- timüs
+- tuyến ức
+- tîmus
+- tüümus
+- užkrūčio liauka
+- çəngələbənzər vəzi
+- θύμος αδένας
+- айырша без
+- богок бези
+- вілаватая залоза
+- градна жлезда
+- грудна жлезда
+- тимус
+- ուրցագեղձ
+- תימוס
+- ايىرشا بەز
+- تایمۆس
+- توتہ
+- تۆش بېزى
+- تیموس
+- غدة زعترية
+- थाइमस ग्रंथि
+- থাইমাস
+- தைமஸ் சுரப்பி
+- బాలగ్రంధి
+- തൈമസ് ഗ്രന്ഥി
+- ต่อมไทมัส
+- ក្រពេញទីមុស
+- 胸腺
+- 가슴샘
 has_id_wikidata: Q163987
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-anatomical_locations: "[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+anatomical_locations: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~lymphoid_tissue,3529455]]"
-  - "[[_Standards/WikiData/WD~corticomedullary_organ,66545290]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
-lymphatic_drainage: "[[_Standards/WikiData/WD~Tracheobronchial_lymph_nodes,7831314]]"
-development_of_anatomical_structure: "[[_Standards/WikiData/WD~thymus_development,14859964]]"
+- '[[_Standards/WikiData/WD~lymphoid_tissue,3529455]]'
+- '[[_Standards/WikiData/WD~corticomedullary_organ,66545290]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+lymphatic_drainage: '[[_Standards/WikiData/WD~Tracheobronchial_lymph_nodes,7831314]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~thymus_development,14859964]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
-  - "[[_Standards/WikiData/WD~gland_type,113056217]]"
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~gland_type,113056217]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20thymus%20posterior%20view.jpg
 UNII: 9CC998Z1E1
 MeSH_tree_code:
-  - A10.549.750
-  - A15.382.520.604.750
+- A10.549.750
+- A15.382.520.604.750
 UMLS_CUI: C0040113
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/TIMUS.html
 TA98_Latin_term: thymus
 Commons_gallery: Thymus (organ)
 Commons_category: Thymus (organ)
+dv_has_:
+  name_:
+    ar: غدة زعترية
+    az: çəngələbənzər vəzi
+    be-tarask: вілаватая залоза
+    bg: тимус
+    bn: থাইমাস
+    bs: grudna žlijezda
+    ca: tim
+    ckb: تایمۆس
+    cs: brzlík
+    cy: Thymws
+    da: brissel
+    de: Thymus
+    de-ch: Thymus
+    el: θύμος αδένας
+    en: thymus
+    en-ca: Thymus
+    en-gb: thymus
+    eo: timuso
+    es: timo
+    et: tüümus
+    eu: timo
+    fa: تیموس
+    fi: kateenkorva
+    fr: thymus
+    ga: faireog thímis
+    gl: timo
+    he: תימוס
+    hi: थाइमस ग्रंथि
+    hr: timus
+    hu: csecsemőmirigy
+    hy: ուրցագեղձ
+    hyw: Ուրցագեղձ
+    ia: thymo
+    id: timus
+    io: timuso
+    is: hóstarkirtill
+    it: timo
+    ja: 胸腺
+    jv: timus
+    kk: айырша без
+    kk-arab: ايىرشا بەز
+    kk-cn: ايىرشا بەز
+    kk-cyrl: айырша без
+    kk-kz: айырша без
+    kk-latn: aýırşa bez
+    kk-tr: aýırşa bez
+    km: ក្រពេញទីមុស
+    ko: 가슴샘
+    ku: tîmus
+    ky: богок бези
+    la: thymus
+    lfn: timo
+    lmo: tim
+    lt: užkrūčio liauka
+    lv: aizkrūtes dziedzeris
+    map-bms: Timus
+    mk: градна жлезда
+    ml: തൈമസ് ഗ്രന്ഥി
+    ms: timus
+    nb: brissel
+    nl: thymus
+    nn: brissel
+    pl: grasica
+    pt: timo
+    pt-br: timo
+    ro: timus
+    ru: тимус
+    sco: thymus
+    sh: timus
+    sk: detská žľaza
+    sl: timus
+    sr: грудна жлезда
+    sr-ec: грудна жлезда
+    sr-el: grudna žlezda
+    sv: bräss
+    ta: தைமஸ் சுரப்பி
+    te: బాలగ్రంధి
+    th: ต่อมไทมัส
+    tr: timüs
+    tt: тимус
+    ug: تۆش بېزى
+    uk: тимус
+    ur: توتہ
+    vec: timo
+    vi: tuyến ức
+    wa: timusse
+    war: timus
+    wuu: 胸腺
+    yue: 胸腺
+    zh: 胸腺
+    zh-cn: 胸腺
+    zh-hans: 胸腺
+    zh-hant: 胸腺
+    zh-hk: 胸腺
+    zh-sg: 胸腺
+    zh-tw: 胸腺
 ---
-
 # [[Thymus_Gland]] 
 
 #is_/same_as :: [[WD~Thymus,163987]]

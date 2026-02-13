@@ -1,50 +1,483 @@
 ---
 aliases:
-  - Area
-  - Fläche
+- achar dromchla
+- aira
+- aire
+- alan
+- Area
+- areaal
+- areal
+- areo
+- aria
+- arie
+- arwynebedd
+- aréa
+- aurie
+- azalera
+- bed
+- biān-chek
+- bolak
+- diện tích
+- e
+- eaghtyr
+- eneo
+- enep
+- erd
+- erja
+- farsaingeachd
+- Flach
+- flatarmál
+- Flecheninhalt
+- Fläch
+- Fläche
+- Flächeninhalt
+- Flächn
+- Fläsch
+- gorread
+- hallka k'iti k'anchar
+- hiwas
+- ippervlak
+- iwasewase
+- jembar
+- kahaluag
+- kalawa
+- langyab
+- laukums
+- leria
+- luas
+- mensoku
+- meydanlıq
+- mien-tsit
+- miêng-cék
+- nharaunda
+- obsah
+- oerflak
+- oppervlak
+- oppervlakte
+- pindala
+- pinta-ala
+- plac rozlygowańo
+- plocha
+- plotas
+- ploščina
+- pluots
+- pole powierzchni
+- površina
+- rûerd
+- sahə
+- sipërfaqja
+- sitindêye
+- tajumma
+- tendaha
+- terület
+- velarantany
+- viidodat
+- vijđodâh
+- vuʹvddšorradvuõtt
+- vídd
+- wobsah přestrjenje
+- wopśimjeśe płoni
+- yaatuwaay
+- yawan fili
+- yuza
+- àrea
+- ària
+- área
+- ária
+- ìwọ̀n ilẹ̀
+- ʻalea
+- έκταση
+- алаң
+- аянт
+- быдӟала
+- васта
+- гӀатӀилъи
+- иэн
+- кумдык
+- лаптăк
+- майда
+- майданлыкъ
+- майҙан
+- масоҳат
+- мәйдан
+- плоштина
+- плошча
+- площ
+- площа
+- площадь
+- површина
+- пространиѥ
+- талбай
+- фæзуат
+- щIыпIэ инагъ
+- эля ко̄ммтэвудт
+- մակերես
+- שטח
+- اوز اؤلچوم
+- ايراضي
+- تيساع
+- رقبہ
+- رۄقبہٕ
+- لواس
+- مساحة
+- مساحت
+- مساحه
+- ڕووبەر
+- گتی
+- ܫܛܝܚܘܬܐ
+- އަކަމިން
+- क्षेत्रफल
+- क्षेत्रफलम्
+- क्षेत्रफळ
+- ক্ষেত্রফল
+- ক্ষেত্ৰফল
+- ਖੇਤਰਫਲ
+- ક્ષેત્રફળ
+- କ୍ଷେତ୍ରଫଳ
+- பரப்பளவு
+- వైశాల్యము
+- ವಿಸ್ತೀರ್ಣ
+- വിസ്തീർണ്ണം
+- พื้นที่
+- ເນື້ອທີ່
+- ဧရိယာ
+- ფართობი
+- ጽፍሓት መሬት
+- ᐃᓗᐊᑕ ᐊᖏᓂᖓ
+- ក្រលាផ្ទៃ
+- 面积
+- 面積
+- ꠡꠤꠝꠣꠘꠣ
+- ꯄꯥꯛꯆꯥꯎꯕ
+- 넓이
 has_id_wikidata: Q11500
 Colon_Classification: C152
 Commons_category: Area
-defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A=\\iint \\mathrm {d} x\\mathrm {d} y}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n        <mo>=</mo>\n        <mo>&#x222C;<!-- ∬ --></mo>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">d</mi>\n        </mrow>\n        <mi>x</mi>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mi mathvariant=\"normal\">d</mi>\n        </mrow>\n        <mi>y</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A=\\iint \\mathrm {d} x\\mathrm {d} y}</annotation>\n  </semantics>\n</math>"
+defining_formula: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle A=\iint \mathrm {d} x\mathrm {d} y}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>A</mi>
+          <mo>=</mo>
+          <mo>&#x222C;<!-- ∬ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">d</mi>
+          </mrow>
+          <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">d</mi>
+          </mrow>
+          <mi>y</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle A=\iint \mathrm {d} x\mathrm {d} y}</annotation>
+    </semantics>
+  </math>
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-  - '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
 different_from:
-  - '[[_Standards/WikiData/WD~square,174782]]'
-  - '[[_Standards/WikiData/WD~surface_area,1379273]]'
+- '[[_Standards/WikiData/WD~square,174782]]'
+- '[[_Standards/WikiData/WD~surface_area,1379273]]'
 followed_by: '[[_Standards/WikiData/WD~volume,39297]]'
 follows: '[[_Standards/WikiData/WD~length,36253]]'
 IEV_number: 102-04-33
 in_defining_formula:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle y}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>y</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle y}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle x}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>x</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle x}</annotation>\n  </semantics>\n</math>"
-ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{2}}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle y}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>y</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle A}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>A</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle x}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>x</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+    </semantics>
+  </math>
+ISQ_dimension: >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{2}}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <msup>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi mathvariant="sans-serif">L</mi>
+              </mrow>
+            </mrow>
+            <mrow class="MJX-TeXAtom-ORD">
+              <mn>2</mn>
+            </mrow>
+          </msup>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{2}}</annotation>
+    </semantics>
+  </math>
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 OpenStreetMap_tag_or_key: Key:area
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206152,110206152]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AB%E0%A4%B3.wav
 quantity_symbol_LaTeX_:
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle A}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>A</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle A}</annotation>\n  </semantics>\n</math>"
-  - "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle S}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <mi>S</mi>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle S}</annotation>\n  </semantics>\n</math>"
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle A}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>A</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+    </semantics>
+  </math>
+- >-
+  <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle S}">
+    <semantics>
+      <mrow class="MJX-TeXAtom-ORD">
+        <mstyle displaystyle="true" scriptlevel="0">
+          <mi>S</mi>
+        </mstyle>
+      </mrow>
+      <annotation encoding="application/x-tex">{\displaystyle S}</annotation>
+    </semantics>
+  </math>
 quantity_symbol_string_:
-  - S
+- S
 recommended_unit_of_measurement:
-  - '[[_Standards/WikiData/WD~square_metre,25343]]'
+- '[[_Standards/WikiData/WD~square_metre,25343]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/area
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-  - '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-  - '[[_Standards/WikiData/WD~definite_integral,1991596]]'
-  - '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
-  - '[[_Standards/WikiData/WD~area,111811675]]'
-  - '[[_Standards/WikiData/WD~geometric_measure,123410660]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~definite_integral,1991596]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~area,111811675]]'
+- '[[_Standards/WikiData/WD~geometric_measure,123410660]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Contents_Portals,5008867]]'
 Wikidata_property: area
+dv_has_:
+  name_:
+    af: oppervlakte
+    an: aria
+    anp: क्षेत्रफल
+    ar: مساحة
+    arc: ܫܛܝܚܘܬܐ
+    ary: تيساع
+    arz: مساحه
+    as: ক্ষেত্ৰফল
+    ast: área
+    av: гӀатӀилъи
+    awa: क्षेत्रफल
+    az: sahə
+    azb: اوز اؤلچوم
+    ba: майҙан
+    bar: Flächn
+    bcl: hiwas
+    be: плошча
+    be-tarask: плошча
+    bg: площ
+    bho: क्षेत्रफल
+    bn: ক্ষেত্রফল
+    br: gorread
+    bs: površina
+    btm: bolak
+    ca: àrea
+    cdo: miêng-cék
+    ce: майда
+    ceb: langyab
+    ckb: ڕووبەر
+    crh: meydanlıq
+    cs: obsah
+    cu: пространиѥ
+    cv: лаптăк
+    cy: arwynebedd
+    da: areal
+    de: Flächeninhalt
+    diq: erd
+    dsb: wopśimjeśe płoni
+    dv: އަކަމިން
+    el: έκταση
+    en: area
+    en-gb: area
+    eo: areo
+    es: área
+    et: pindala
+    eu: azalera
+    fa: مساحت
+    fi: pinta-ala
+    fj: iwasewase
+    fo: vídd
+    fr: aire
+    frr: areaal
+    fy: oerflak
+    ga: achar dromchla
+    gan: 面積
+    gd: farsaingeachd
+    gl: área
+    gn: tendaha
+    gsw: Flecheninhalt
+    gu: ક્ષેત્રફળ
+    gv: eaghtyr
+    ha: yawan fili
+    hak: mien-tsit
+    haw: ʻalea
+    he: שטח
+    hi: क्षेत्रफल
+    hif: area
+    hr: površina
+    hsb: wobsah přestrjenje
+    hu: terület
+    hy: մակերես
+    ia: area
+    id: luas
+    ilo: kalawa
+    io: areo
+    is: flatarmál
+    it: area
+    iu: ᐃᓗᐊᑕ ᐊᖏᓂᖓ
+    ja: 面積
+    jam: leria
+    jv: jembar
+    ka: ფართობი
+    kab: tajumma
+    kbd: щIыпIэ инагъ
+    kk: алаң
+    km: ក្រលាផ្ទៃ
+    kn: ವಿಸ್ತೀರ್ಣ
+    ko: 넓이
+    krc: майданлыкъ
+    ks: رۄقبہٕ
+    ku: rûerd
+    ku-latn: rûerd
+    kw: enep
+    ky: аянт
+    la: area
+    lb: Fläch
+    li: oppervlak
+    lij: àrea
+    lmo: area
+    ln: e
+    lo: ເນື້ອທີ່
+    lt: plotas
+    ltg: laukums
+    lv: laukums
+    mag: क्षेत्रफल
+    mai: क्षेत्रफल
+    mdf: васта
+    mg: velarantany
+    mhr: кумдык
+    mk: плоштина
+    ml: വിസ്തീർണ്ണം
+    mn: талбай
+    mni: ꯄꯥꯛꯆꯥꯎꯕ
+    mr: क्षेत्रफळ
+    ms: luas
+    ms-arab: لواس
+    mt: erja
+    mwl: ária
+    my: ဧရိယာ
+    mzn: گتی
+    nan: biān-chek
+    nb: areal
+    nds: Flach
+    nds-nl: oppervlakte
+    ne: क्षेत्रफल
+    nl: oppervlakte
+    nn: areal
+    oc: aira
+    or: କ୍ଷେତ୍ରଫଳ
+    os: фæзуат
+    pa: ਖੇਤਰਫਲ
+    pfl: Fläsch
+    pl: pole powierzchni
+    pms: àrea
+    pnb: رقبہ
+    pt: área
+    pt-br: área
+    qu: hallka k'iti k'anchar
+    ro: arie
+    ru: площадь
+    sa: क्षेत्रफलम्
+    sah: иэн
+    scn: ària
+    sco: aurie
+    sd: ايراضي
+    se: viidodat
+    sgs: pluots
+    sh: površina
+    sjd: эля ко̄ммтэвудт
+    sk: plocha
+    sl: ploščina
+    smn: vijđodâh
+    sms: vuʹvddšorradvuõtt
+    sn: nharaunda
+    so: bed
+    sq: sipërfaqja
+    sr: површина
+    su: aréa
+    sv: area
+    sw: eneo
+    syl: ꠡꠤꠝꠣꠘꠣ
+    szl: plac rozlygowańo
+    ta: பரப்பளவு
+    te: వైశాల్యము
+    tg: масоҳат
+    th: พื้นที่
+    ti: ጽፍሓት መሬት
+    tl: area
+    tr: alan
+    trv: mensoku
+    tt: мәйдан
+    tt-cyrl: мәйдан
+    udm: быдӟала
+    uk: площа
+    ur: رقبہ
+    uz: yuza
+    vec: àrea
+    vi: diện tích
+    vls: ippervlak
+    vro: pindala
+    wa: sitindêye
+    war: kahaluag
+    wo: yaatuwaay
+    wuu: 面积
+    xmf: ფართობი
+    yi: שטח
+    yo: ìwọ̀n ilẹ̀
+    yue: 面積
+    zea: oppervlak
+    zh: 面积
+    zh-cn: 面积
+    zh-hans: 面积
+    zh-hant: 面積
+    zh-hk: 面積
+    zh-tw: 面積
 ---
-
 # [[Area]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Area,11500|WD~Area,11500]] 

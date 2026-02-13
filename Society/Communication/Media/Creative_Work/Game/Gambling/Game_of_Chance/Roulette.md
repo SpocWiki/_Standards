@@ -1,25 +1,122 @@
 ---
 aliases:
+- bhonasi ye-roulette
+- erruleta
+- rolet
+- roleta
+- Rolèt
+- rotula
+- roulette
+- rulet
+- ruleta
+- rulete
+- ruletka
+- ruleto
+- rulett
+- ruletti
+- ruletă
+- ruletė
+- ρουλέτα
+- рулет
+- рулетка
+- רולטה
+- رولت
+- روليت
+- ڕۆلێت
+- รูเล็ตต์
+- რულეტკა
+- ルーレット
+- 輪盤
+- 轮盘
+- 룰렛
 has_id_wikidata: Q190975
-based_on: "[[_Standards/WikiData/WD~Biribi,865425]]"
+based_on: '[[_Standards/WikiData/WD~Biribi,865425]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~casino_game,3742351]]"
-  - "[[_Standards/WikiData/WD~game_of_pure_chance,66662037]]"
-different_from: "[[_Standards/WikiData/WD~spinner,111285563]]"
-Nomenclature_for_Museum_Cataloging: "14208"
+- '[[_Standards/WikiData/WD~casino_game,3742351]]'
+- '[[_Standards/WikiData/WD~game_of_pure_chance,66662037]]'
+different_from: '[[_Standards/WikiData/WD~spinner,111285563]]'
+Nomenclature_for_Museum_Cataloging: 14208
 IMDb_keyword: roulette
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mesa-de-ruleta-casino-ciudad-de-mexico25-04-2023.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/13-02-27-spielbank-wiesbaden-by-RalfR-093.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mesa-de-ruleta-casino-ciudad-de-mexico25-04-2023.jpg
 Commons_category: Roulette
-Universal_Decimal_Classification: "794.92"
+Universal_Decimal_Classification: 794.92
+dv_has_:
+  name_:
+    ar: روليت
+    ast: ruleta
+    bar: Roulette
+    be-tarask: рулетка
+    bew: Rolèt
+    bg: рулетка
+    ca: ruleta
+    ckb: ڕۆلێت
+    cs: ruleta
+    da: roulette
+    de: Roulette
+    de-ch: Roulette
+    el: ρουλέτα
+    eml: roulette
+    en: roulette
+    en-ca: roulette
+    en-gb: roulette
+    eo: ruleto
+    es: ruleta
+    et: rulett
+    eu: erruleta
+    fa: رولت
+    fi: ruletti
+    fr: roulette
+    gl: ruleta
+    he: רולטה
+    hr: rulet
+    hu: rulett
+    id: rolet
+    io: ruleto
+    it: roulette
+    ja: ルーレット
+    ka: რულეტკა
+    ko: 룰렛
+    la: rotula
+    lb: Roulette
+    lt: ruletė
+    lv: rulete
+    mk: рулет
+    nb: rulett
+    nl: roulette
+    nn: rulett
+    pl: ruletka
+    pt: roleta
+    pt-br: roleta
+    ro: ruletă
+    ru: рулетка
+    sk: ruleta
+    sl: ruleta
+    sr: рулет
+    sr-ec: рулет
+    sr-el: rulet
+    sv: roulette
+    th: รูเล็ตต์
+    tr: rulet
+    uk: рулетка
+    vi: roulette
+    wuu: 轮盘
+    yue: 輪盤
+    zh: 輪盤
+    zh-cn: 轮盘
+    zh-hans: 轮盘
+    zh-hant: 輪盤
+    zh-hk: 輪盤
+    zh-sg: 轮盘
+    zh-tw: 輪盤
+    zu: bhonasi ye-roulette
 ---
-
 # [[Roulette]] 
 
 #is_/same_as :: [[WD~Roulette,190975]] 

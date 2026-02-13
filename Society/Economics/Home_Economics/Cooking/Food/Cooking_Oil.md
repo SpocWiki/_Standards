@@ -1,25 +1,193 @@
 ---
 aliases:
-  - Cooking oil
-  - edible oil
-  - Cooking_Oil
-  - Cooking Oil
+- aceite de cocina
+- Aceite de cociña
+- akʼah
+- augalinis aliejus
+- biebmoolju
+- cepamā eļļa
+- Cooking oil
+- Cooking_Oil
+- Dầu ăn
+- edible oil
+- huile alimentaire
+- jestivo ulje
+- kuchyňský olej
+- kuira oleo
+- Lana
+- Lenga Klentik
+- matolja
+- matolje
+- minyak goreng
+- Minyak makan
+- Minyak masak
+- mälisoljo
+- Ogghiu
+- ojo da cuzina
+- ola chócaireachta
+- olej
+- oli de cuina
+- olio
+- olio alimentare
+- olje za kuhanje
+- Oʻsimlik moylari
+- ruokaöljy
+- Si̍t-iōng-iû
+- Speiseöle
+- spijsolie
+- sıvı yağ
+- taimerasv
+- tłuszcz jadalny
+- ulei de gătit
+- vaj kuzhine
+- vegetabilsk fedtstof og olie
+- veärroljj
+- Yura wira
+- étolaj
+- Òli alimentari
+- óleo alimentar
+- ôle po magnî
+- Μαγειρικό λάδι
+- јестиво уље
+- азык мае
+- аҙыҡ майы
+- готварско масло
+- Зети
+- кулінарні жири
+- Мас арыыта
+- масло за готвене
+- Ой
+- пищевое масло
+- харчовы алей
+- Өсімдік майы
+- ձեթ
+- שמן בישול
+- دانههای روغنی
+- زيت طبخ
+- ڕۆنی چێشتلێنان
+- ککنگ آئل
+- کھینہٕ تیٖل
+- खाद्य तेल
+- खाद्यतेल
+- खाद्यतैलम्
+- রান্নার তেল
+- ਪਕਾਉਣ ਵਾਲਾ ਤੇਲ
+- ଖାଇବା ତେଲ
+- சமையல் எண்ணெய்
+- వంట నూనె
+- പാചക എണ്ണ
+- น้ำมันประกอบอาหาร
+- ᱤᱥᱤᱱ ᱥᱩᱱᱩᱢ
+- クッキング・オイル
+- 食油
+- 食用油
+- 식용기름
+- 식용유
 has_id_wikidata: Q427457
 opposite_of: '[[_Standards/WikiData/WD~mineral_oil,583582]]'
 different_from: '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
-  - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-  - '[[_Standards/WikiData/WD~oil,42962]]'
+- '[[_Standards/WikiData/WD~edible_fats_and_oils,912613]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~oil,42962]]'
 OmegaWiki_Defined_Meaning: 1300436
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20oil%20from%20Oneglia.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20in%20frying%20pan.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Olive%20oil%20from%20Oneglia.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Oil%20in%20frying%20pan.png
 Amazon_com_browse_node: 16320331
 Commons_category: Cooking oils
 Wolfram_Language_entity_code: Entity["FoodType", "Oil"]
+dv_has_:
+  name_:
+    acm: زيت طبخ
+    ar: زيت طبخ
+    arz: زيت طبخ
+    ast: aceite de cocina
+    ba: аҙыҡ майы
+    bcl: Lana
+    be-tarask: харчовы алей
+    bg: масло за готвене
+    bn: রান্নার তেল
+    ca: oli de cuina
+    ckb: ڕۆنی چێشتلێنان
+    cs: kuchyňský olej
+    da: vegetabilsk fedtstof og olie
+    de: Speiseöle
+    el: Μαγειρικό λάδι
+    en: cooking oil
+    eo: kuira oleo
+    es: aceite de cocina
+    et: taimerasv
+    eu: olio
+    fa: دانههای روغنی
+    fi: ruokaöljy
+    fr: huile alimentaire
+    ga: ola chócaireachta
+    gl: Aceite de cociña
+    he: שמן בישול
+    hi: खाद्य तेल
+    hu: étolaj
+    hy: ձեթ
+    id: minyak goreng
+    it: olio alimentare
+    ja: クッキング・オイル
+    jv: Lenga Klentik
+    kk: Өсімдік майы
+    ko: 식용유
+    ko-kp: 식용기름
+    ks: کھینہٕ تیٖل
+    lt: augalinis aliejus
+    lv: cepamā eļļa
+    min: Minyak makan
+    mk: готварско масло
+    ml: പാചക എണ്ണ
+    mr: खाद्यतेल
+    ms: Minyak masak
+    myv: Ой
+    nan: Si̍t-iōng-iû
+    nb: matolje
+    nl: spijsolie
+    nn: matolje
+    nv: akʼah
+    oc: Òli alimentari
+    or: ଖାଇବା ତେଲ
+    os: Зети
+    pa: ਪਕਾਉਣ ਵਾਲਾ ਤੇਲ
+    pl: tłuszcz jadalny
+    pnb: ککنگ آئل
+    pt: óleo alimentar
+    qu: Yura wira
+    ro: ulei de gătit
+    ru: пищевое масло
+    sa: खाद्यतैलम्
+    sah: Мас арыыта
+    sat: ᱤᱥᱤᱱ ᱥᱩᱱᱩᱢ
+    scn: Ogghiu
+    se: biebmoolju
+    sk: olej
+    sl: olje za kuhanje
+    smn: mälisoljo
+    sms: veärroljj
+    sq: vaj kuzhine
+    sr: јестиво уље
+    sr-ec: јестиво уље
+    sr-el: jestivo ulje
+    sv: matolja
+    ta: சமையல் எண்ணெய்
+    te: వంట నూనె
+    th: น้ำมันประกอบอาหาร
+    tr: sıvı yağ
+    tt: азык мае
+    tt-cyrl: азык мае
+    uk: кулінарні жири
+    uz: Oʻsimlik moylari
+    vec: ojo da cuzina
+    vi: Dầu ăn
+    wa: ôle po magnî
+    yue: 食油
+    zh: 食用油
+    zh-hans: 食用油
 ---
-
 # [[Cooking_Oil]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cooking_oil,427457|WD~Cooking_oil,427457]] 

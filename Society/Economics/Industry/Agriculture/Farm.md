@@ -1,27 +1,118 @@
 ---
 aliases:
-  - agricultural holding
-  - Farm
+- agbele
+- agricultural holding
+- atant
+- Bauanhof
+- Bauerei
+- Bauerenhaff
+- Bauernhof
+- bieno
+- boerderieje
+- boerderij
+- bukid
+- burski statok
+- bòria
+- cange
+- cinse
+- ebɔ́kwɛlɔ
+- efuom
+- etxalde
+- Farm
+- farma
+- fatoria
+- fattoria
+- fazenda
+- feirm
+- ferm
+- ferma
+- ferme
+- fermă
+- fferm
+- fundus
+- fèm
+- gard
+- gona
+- gowaltys
+- grancha
+- granja
+- granxa
+- gård
+- Haof
+- kmetija
+- kunuku
+- ladang
+- lahan usaha tani
+- lauku mājas
+- luech da paur
+- lông-tiûⁿ
+- maatila
+- madang
+- oko
+- plaas
+- pleats
+- puu
+- quinta
+- qıytaq
+- shamba
+- statek
+- sveitabær
+- talu
+- trang trại
+- ugbo
+- uma
+- usum
+- çiftlik
+- ūkis
+- αγρόκτημα
+- фарма
+- ферма
+- фэрма
+- ֆերմա
+- חווה חקלאית
+- שטאַל
+- مزرعة
+- چیفتلیک
+- کرونده
+- کشتزار
+- کھیت
+- کێڵگە
+- खेत
+- शेत
+- খামার
+- ਖੇਤ
+- વાડી
+- பண்ணை
+- పొలం
+- ಒಕ್ಕಲು ಜಮೀನು
+- ฟาร์ม
+- ფერმა
+- እርሻ
+- 农场
+- 農場
+- ꁌꑗ
+- ꠚꠣꠞꠧꠝ
+- 농장
 has_id_wikidata: Q131596
 owned_by: '[[_Standards/WikiData/WD~farmer,131512]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~cowshed,681337]]'
-  - '[[_Standards/WikiData/WD~livestock_housing,1207909]]'
-  - '[[_Standards/WikiData/WD~barn,1303167]]'
-  - '[[_Standards/WikiData/WD~yard,1623285]]'
-  - '[[_Standards/WikiData/WD~homestead,5890494]]'
+- '[[_Standards/WikiData/WD~cowshed,681337]]'
+- '[[_Standards/WikiData/WD~livestock_housing,1207909]]'
+- '[[_Standards/WikiData/WD~barn,1303167]]'
+- '[[_Standards/WikiData/WD~yard,1623285]]'
+- '[[_Standards/WikiData/WD~homestead,5890494]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~building_complex,1497364]]'
-  - '[[_Standards/WikiData/WD~group_of_structures_or_buildings,18247357]]'
-  - '[[_Standards/WikiData/WD~artificial_geographic_entity,27096235]]'
+- '[[_Standards/WikiData/WD~building_complex,1497364]]'
+- '[[_Standards/WikiData/WD~group_of_structures_or_buildings,18247357]]'
+- '[[_Standards/WikiData/WD~artificial_geographic_entity,27096235]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~smallholding,2827199]]'
-  - '[[_Standards/WikiData/WD~agricultural_holding,3062125]]'
+- '[[_Standards/WikiData/WD~smallholding,2827199]]'
+- '[[_Standards/WikiData/WD~agricultural_holding,3062125]]'
 different_from: '[[_Standards/WikiData/WD~farmyard,2887356]]'
 has_use: '[[_Standards/WikiData/WD~farming,24886094]]'
 IAB_code: 449
@@ -35,15 +126,143 @@ exact_match: http://purl.obolibrary.org/obo/ENVO_00000078
 IMDb_keyword: farm
 Commons_category: Farms
 MeSH_tree_code:
-  - J01.040.372
-  - J03.540.150
+- J01.040.372
+- J03.540.150
 IPTC_NewsCode: mediatopic/20000237
 GeoNames_feature_code:
-  - S.FRM
-  - S.FRMS
+- S.FRM
+- S.FRMS
 OpenStreetMap_tag_or_key: Tag:place=farm
+dv_has_:
+  name_:
+    af: plaas
+    agq: usum
+    ak: efuom
+    am: እርሻ
+    an: grancha
+    ar: مزرعة
+    ast: granxa
+    az: ferma
+    azb: چیفتلیک
+    ba: ферма
+    bar: Bauanhof
+    bcl: uma
+    be-tarask: фэрма
+    bg: ферма
+    bn: খামার
+    br: atant
+    ca: granja
+    ckb: کێڵگە
+    crh: çiftlik
+    crh-latn: çiftlik
+    cs: statek
+    cy: fferm
+    da: gård
+    dag: puu
+    de: Bauernhof
+    de-at: Bauernhof
+    de-ch: Bauernhof
+    ee: agbele
+    el: αγρόκτημα
+    en: farm
+    en-ca: farm
+    en-gb: farm
+    eo: bieno
+    es: granja
+    et: talu
+    eu: etxalde
+    fa: کشتزار
+    fi: maatila
+    fr: ferme
+    fy: pleats
+    ga: feirm
+    gl: granxa
+    gu: વાડી
+    gv: gowaltys
+    ha: gona
+    he: חווה חקלאית
+    hi: खेत
+    hr: farma
+    hsb: burski statok
+    ht: fèm
+    hu: farm
+    hy: ֆերմա
+    iba: madang
+    id: lahan usaha tani
+    ig: ugbo
+    ii: ꁌꑗ
+    is: sveitabær
+    it: fattoria
+    ja: 農場
+    jbo: cange
+    ka: ფერმა
+    kaa: qıytaq
+    kk: ферма
+    kn: ಒಕ್ಕಲು ಜಮೀನು
+    ko: 농장
+    la: fundus
+    lb: Bauerenhaff
+    li: Haof
+    lld: luech da paur
+    ln: ebɔ́kwɛlɔ
+    lt: ferma
+    lv: lauku mājas
+    mk: фарма
+    mr: शेत
+    ms: ladang
+    nan: lông-tiûⁿ
+    nb: gård
+    nds-nl: boerderieje
+    ne: खेत
+    nl: boerderij
+    nn: gard
+    nrm: ferme
+    oc: bòria
+    pa: ਖੇਤ
+    pap: kunuku
+    pdc: Bauerei
+    pl: farma
+    pnb: کھیت
+    ps: کرونده
+    pt: quinta
+    pt-br: fazenda
+    ro: fermă
+    ru: ферма
+    sco: ferm
+    sgs: ūkis
+    sh: farma
+    sk: farma
+    sl: kmetija
+    sq: ferma
+    sr: фарма
+    sr-ec: фарма
+    sr-el: farma
+    sv: gård
+    sw: shamba
+    syl: ꠚꠣꠞꠧꠝ
+    ta: பண்ணை
+    te: పొలం
+    th: ฟาร์ม
+    tl: bukid
+    tr: çiftlik
+    tt: ферма
+    uk: ферма
+    uz: ferma
+    vec: fatoria
+    vi: trang trại
+    wa: cinse
+    wuu: 农场
+    yi: שטאַל
+    yo: oko
+    yue: 農場
+    zh: 农场
+    zh-cn: 农场
+    zh-hans: 农场
+    zh-hant: 農場
+    zh-hk: 農場
+    zh-sg: 农场
+    zh-tw: 農場
 ---
-
 # [[Farm]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Farm,131596|WD~Farm,131596]] 

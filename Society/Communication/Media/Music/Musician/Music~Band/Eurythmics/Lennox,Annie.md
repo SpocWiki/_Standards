@@ -1,10 +1,118 @@
 ---
 aliases:
-  - Annie Lennox
-  - Ann Lennox
-  - Lennox,Annie
+- Ann Lennox
+- Annie Lennox
+- Annie Lennoxová
+- Eni Lenoks
+- Enija Lenoksa
+- Lennox,Annie
+- Άνι Λένοξ
+- Ани Ленъкс
+- Ени Ленокс
+- Енні Леннокс
+- Эні Ленакс
+- Энни Леннокс
+- Էնի Լենոքս
+- אנני לנוקס
+- آنى لينوكس
+- آني لينوكس
+- آنی لنکس
+- آنی لینکس
+- انی لنکس
+- แอนนี เลนนิกซ์
+- အန်နီ လန်းနစ်
+- ენი ლენოქსი
+- アニー・レノックス
+- 安妮·蓝妮克丝
+- 安妮·蓮諾絲
+- 安妮·藍妮克絲
+- 애니 레녹스
+has_id_wikidata: Q151231
+dv_has_:
+  name_:
+    an: Annie Lennox
+    ar: آني لينوكس
+    arz: آنى لينوكس
+    ast: Annie Lennox
+    azb: انی لنکس
+    be: Эні Ленакс
+    bg: Ани Ленъкс
+    bs: Annie Lennox
+    ca: Annie Lennox
+    cs: Annie Lennoxová
+    cv: Энни Леннокс
+    cy: Annie Lennox
+    da: Annie Lennox
+    dag: Annie Lennox
+    de: Annie Lennox
+    de-ch: Annie Lennox
+    el: Άνι Λένοξ
+    en: Annie Lennox
+    en-ca: Annie Lennox
+    en-gb: Annie Lennox
+    en-us: Annie Lennox
+    eo: Annie Lennox
+    es: Annie Lennox
+    et: Annie Lennox
+    eu: Annie Lennox
+    fa: آنی لنکس
+    fi: Annie Lennox
+    fr: Annie Lennox
+    ga: Annie Lennox
+    gd: Annie Lennox
+    gl: Annie Lennox
+    he: אנני לנוקס
+    hr: Annie Lennox
+    ht: Annie Lennox
+    hu: Annie Lennox
+    hy: Էնի Լենոքս
+    id: Annie Lennox
+    io: Annie Lennox
+    it: Annie Lennox
+    ja: アニー・レノックス
+    ka: ენი ლენოქსი
+    ko: 애니 레녹스
+    lb: Annie Lennox
+    lv: Enija Lenoksa
+    mk: Ени Ленокс
+    ms: Annie Lennox
+    mul: Annie Lennox
+    my: အန်နီ လန်းနစ်
+    nb: Annie Lennox
+    nl: Annie Lennox
+    nn: Annie Lennox
+    oc: Annie Lennox
+    pam: Annie Lennox
+    pl: Annie Lennox
+    pms: Annie Lennox
+    pt: Annie Lennox
+    pt-br: Annie Lennox
+    ro: Annie Lennox
+    ru: Энни Леннокс
+    sco: Annie Lennox
+    sk: Annie Lennox
+    sl: Annie Lennox
+    sq: Annie Lennox
+    sr: Ени Ленокс
+    sr-ec: Ени Ленокс
+    sr-el: Eni Lenoks
+    sv: Annie Lennox
+    th: แอนนี เลนนิกซ์
+    tr: Annie Lennox
+    tw: Annie Lennox
+    uk: Енні Леннокс
+    ur: آنی لینکس
+    vi: Annie Lennox
+    wuu: 安妮·蓝妮克丝
+    yue: Annie Lennox
+    zh: 安妮·蓝妮克丝
+    zh-cn: 安妮·蓝妮克丝
+    zh-hans: 安妮·蓝妮克丝
+    zh-hant: 安妮·藍妮克絲
+    zh-hk: 安妮·蓮諾絲
+    zh-sg: 安妮·蓝妮克丝
+    zh-tw: 安妮·藍妮克絲
 ---
-
 #has_/time_/started :: 1954-12-25  
 
 ## #has_/text_of_/abstract 

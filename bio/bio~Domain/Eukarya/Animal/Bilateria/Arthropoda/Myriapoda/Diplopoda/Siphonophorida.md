@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Siphonophorida
+- Sifonofòrides
+- Siphonophorida
+- زراقيات
+- لولهبران
+- 具管马陆目
+- 管馬陸目
 title: Siphonophorida
+has_id_wikidata: Q6452293
+dv_has_:
+  name_:
+    an: Siphonophorida
+    ar: زراقيات
+    ast: Siphonophorida
+    bg: Siphonophorida
+    ca: Sifonofòrides
+    ceb: Siphonophorida
+    de: Siphonophorida
+    en: Siphonophorida
+    eo: Siphonophorida
+    es: Siphonophorida
+    eu: Siphonophorida
+    ext: Siphonophorida
+    fa: لولهبران
+    fi: Siphonophorida
+    fr: Siphonophorida
+    ga: Siphonophorida
+    gl: Siphonophorida
+    ia: Siphonophorida
+    id: Siphonophorida
+    ie: Siphonophorida
+    io: Siphonophorida
+    it: Siphonophorida
+    la: Siphonophorida
+    mul: Siphonophorida
+    nl: Siphonophorida
+    oc: Siphonophorida
+    pl: Siphonophorida
+    pt: Siphonophorida
+    pt-br: Siphonophorida
+    ro: Siphonophorida
+    ru: Siphonophorida
+    sq: Siphonophorida
+    sv: Siphonophorida
+    tr: Siphonophorida
+    uk: Siphonophorida
+    vi: Siphonophorida
+    vo: Siphonophorida
+    war: Siphonophorida
+    zh: 具管马陆目
+    zh-cn: 具管马陆目
+    zh-hans: 具管马陆目
+    zh-tw: 管馬陸目
 ---
-
 # [[Siphonophorida]] 
 
 ## #has_/text_of_/abstract 

@@ -1,9 +1,69 @@
 ---
 aliases:
-  - Anaspida
+- Anaspida
+- Anaspidy
+- Anàspid
+- Kilbitud
+- Lớp Cá không giáp
+- Анаспида
+- анаспиди
+- Анаспиды
+- אנספידים
+- أناسبيدا
+- بیسپران
+- ანასპიდები
+- 欠甲類
+- 缺甲魚亞綱
+- 缺甲鱼亚纲
+- 결갑류
 title: Anaspida
+has_id_wikidata: Q132837
+dv_has_:
+  name_:
+    ar: أناسبيدا
+    ast: Anaspida
+    bg: анаспиди
+    ca: Anàspid
+    ceb: Anaspida
+    de: Anaspida
+    en: Anaspida
+    es: Anaspida
+    et: Kilbitud
+    eu: Anaspida
+    fa: بیسپران
+    fi: Anaspida
+    fr: Anaspida
+    ga: Anaspida
+    he: אנספידים
+    ia: Anaspida
+    id: Anaspida
+    it: Anaspida
+    ja: 欠甲類
+    ka: ანასპიდები
+    ko: 결갑류
+    la: Anaspida
+    mul: Anaspida
+    nb: Anaspida
+    nl: Anaspida
+    nn: Anaspida
+    pl: Anaspidy
+    pt: Anaspida
+    ro: Anaspida
+    ru: Анаспиды
+    sk: Anaspida
+    sq: Anaspida
+    sr: Анаспида
+    sr-ec: Анаспида
+    sr-el: Anaspida
+    sv: Anaspida
+    uk: Anaspida
+    vec: Anaspida
+    vi: Lớp Cá không giáp
+    war: Anaspida
+    zh: 缺甲魚亞綱
+    zh-cn: 缺甲鱼亚纲
+    zh-hans: 缺甲鱼亚纲
 ---
-
 # [[Anaspida]] 
 
 ![Pterygolepis nitidus fossil](Anaspida/pterygolepis.jpg)

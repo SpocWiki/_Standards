@@ -1,4 +1,185 @@
-
+---
+has_id_wikidata: Q80091
+dv_has_:
+  name_:
+    am: አጠራቃሚ
+    an: Integración
+    ar: تكامل
+    ast: Integración
+    az: İnteqral
+    azb: انتقرال
+    ba: Интеграл
+    be: інтэграл
+    be-tarask: інтэграл
+    bg: интеграл
+    bn: সমাকলন
+    bs: Integral
+    ca: integral
+    ckb: تەواوکاری
+    cs: integrál
+    cv: Интеграл
+    cy: Integryn
+    da: integralregning
+    de: Integral
+    de-ch: Integralrechnung
+    diq: İntegral
+    dtp: Ponompuuvan
+    el: ολοκλήρωμα
+    en: integral
+    en-ca: Integral
+    en-gb: integral
+    eo: integralo
+    es: integración
+    et: Integraal
+    eu: integral
+    fa: انتگرال
+    fi: integraali
+    fr: intégration
+    ga: suimeálach
+    gl: Integral
+    gu: સંકલન
+    hak: Chit-fûn-ho̍k
+    he: אינטגרל
+    hi: समाकलन
+    hr: integral
+    ht: Entegrasyon (matematik)
+    hu: Riemann-integrálás
+    hy: Ինտեգրալ
+    id: integral
+    io: integralo
+    is: heildun
+    it: integrale
+    ja: 積分
+    jbo: ri'o
+    ka: ინტეგრალი
+    kaa: Integral
+    kk: Интеграл
+    km: អាំងតេក្រាល
+    kn: ಅನುಕಲನಶಾಸ್ತ್ರ
+    ko: 적분
+    ku: Întegral
+    ky: Аныкталбаган интеграл
+    la: integrale
+    lmo: Integral
+    lt: apibrėžtinis integralas
+    lv: integrālis
+    mag: समाकलन
+    mk: интеграл
+    ml: സമാകലനം
+    mn: Интеграл
+    mr: संकलन
+    ms: kamiran
+    mt: l-Integral
+    my: အင်တီဂရေးရှင်း
+    nan: Chek-hun
+    nb: integrasjon
+    nl: integraal
+    nn: integral
+    oc: integracion
+    om: wajjummaa
+    pl: całka
+    pnb: انٹیگرل
+    pt: integral
+    pt-br: integral
+    ro: integrală
+    ru: интеграл
+    scn: Intiggrali
+    sco: integral
+    se: integrála
+    sh: Integral
+    sk: integrál
+    sl: integral
+    smn: integraal
+    sms: integraal
+    sq: integrali
+    sr: одређени интеграл
+    su: Integral
+    sv: integral
+    sw: Mfululizo endelevu
+    ta: தொகையீடு
+    th: ปริพันธ์
+    tl: Kalkulong integral
+    tr: integral
+    tt: интеграл
+    udm: интеграл
+    uk: інтегрування
+    ur: تکامل
+    uz: Integral
+    vec: Integral
+    vi: Tích phân
+    wa: Riveye
+    wuu: 积分
+    yue: 積分
+    zh: 积分
+aliases:
+- apibrėžtinis integralas
+- całka
+- Chek-hun
+- Chit-fûn-ho̍k
+- Entegrasyon (matematik)
+- heildun
+- Integraal
+- integraali
+- integracion
+- integración
+- Integral
+- integrale
+- integrali
+- integralo
+- Integralrechnung
+- integralregning
+- integrală
+- integrasjon
+- Integryn
+- integrál
+- integrála
+- integrālis
+- Intiggrali
+- intégration
+- Kalkulong integral
+- kamiran
+- l-Integral
+- Mfululizo endelevu
+- Ponompuuvan
+- ri'o
+- Riemann-integrálás
+- Riveye
+- suimeálach
+- Tích phân
+- wajjummaa
+- Întegral
+- İntegral
+- İnteqral
+- ολοκλήρωμα
+- інтегрування
+- інтэграл
+- Аныкталбаган интеграл
+- интеграл
+- одређени интеграл
+- Ինտեգրալ
+- אינטגרל
+- انتقرال
+- انتگرال
+- انٹیگرل
+- تكامل
+- تکامل
+- تەواوکاری
+- संकलन
+- समाकलन
+- সমাকলন
+- સંકલન
+- தொகையீடு
+- ಅನುಕಲನಶಾಸ್ತ್ರ
+- സമാകലനം
+- ปริพันธ์
+- အင်တီဂရေးရှင်း
+- ინტეგრალი
+- አጠራቃሚ
+- អាំងតេក្រាល
+- 积分
+- 積分
+- 적분
+---
 #is_/same_as :: [[WikiData/WD~Integral,80091|WD~Integral,80091]] 
 
 ## #has_/text_of_/abstract 

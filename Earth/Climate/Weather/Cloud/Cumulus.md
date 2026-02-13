@@ -1,12 +1,53 @@
 ---
 aliases:
-  - Kumulus
-  - Cumulus
+- Amafufu
+- awan kumulus
+- chek-hûn
+- cumalas
+- Cumul
+- Cumulu
+- Cumulus
+- Cumulus clood
+- Cumuluswolke
+- Cwmwl cwmwlws
+- Cúmulus
+- gomolyfelhő
+- Gubumākoņi
+- Kamuoliniai debesys
+- kapua whakapipi
+- kumpupilvi
+- Kumulu
+- Kumulus
+- kumuluso
+- kümülüs
+- Mây tích
+- Rünkpilved
+- staksky
+- Σωρείτες
+- клубаваты воблак
+- Кумулус
+- Купести облаци
+- купчаста хмара
+- Кучавыя воблакі
+- кучевые облака
+- люко-люко пилемъёс
+- Կույտային ամպեր
+- קומולוס
+- ابرهای کومهای
+- ركام
+- कपासी मेघ
+- குவி மேகம்
+- คิวมูลัส
+- 淡积云
+- 淡積雲
+- 积云
+- 積雲
+- 적운
 has_id_wikidata: Q14189
-instance_of: "[[_Standards/WikiData/WD~cloud_type,1840368]]"
-subclass_of: "[[_Standards/WikiData/WD~low_level_cloud,2784655]]"
-facet_of: "[[_Standards/WikiData/WD~international_cloud_classification,3281195]]"
-OmegaWiki_Defined_Meaning: "921080"
+instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
+subclass_of: '[[_Standards/WikiData/WD~low_level_cloud,2784655]]'
+facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
+OmegaWiki_Defined_Meaning: 921080
 Commons_gallery: Cumulus
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Clouds%20CL%201.svg
 official_website: https://cloudatlas.wmo.int/cumulus-cu.html
@@ -15,25 +56,104 @@ short_name: Cu
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sunny%20day%20on%20V%C5%A9%20Ph%E1%BA%A1m%20H%C3%A0m%20Street%2003-09-2025%20E5.jpg
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Cumulus,14189|WD~Cumulus,14189]]"
-    - "[[/_Standards/Earth/Climate/Weather/Cloud/Cumulus|Cumulus]]"
-    - "[[/_public/Earth/Climate/Weather/Cloud/Cumulus.public|Cumulus.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Cloud/Cumulus.internal|Cumulus.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Cloud/Cumulus.protect|Cumulus.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Cloud/Cumulus.private|Cumulus.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Cloud/Cumulus.personal|Cumulus.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Cloud/Cumulus.secret|Cumulus.secret]]"
+  - '[[../../../../WikiData/WD~Cumulus,14189|WD~Cumulus,14189]]'
+  - '[[/_Standards/Earth/Climate/Weather/Cloud/Cumulus|Cumulus]]'
+  - '[[/_public/Earth/Climate/Weather/Cloud/Cumulus.public|Cumulus.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Cloud/Cumulus.internal|Cumulus.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Cloud/Cumulus.protect|Cumulus.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Cloud/Cumulus.private|Cumulus.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Cloud/Cumulus.personal|Cumulus.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Cloud/Cumulus.secret|Cumulus.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Cumulus,14189|WD~Cumulus,14189]]"
-  - "[[/_Standards/Earth/Climate/Weather/Cloud/Cumulus|Cumulus]]"
-  - "[[/_public/Earth/Climate/Weather/Cloud/Cumulus.public|Cumulus.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Cloud/Cumulus.internal|Cumulus.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Cloud/Cumulus.protect|Cumulus.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Cloud/Cumulus.private|Cumulus.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Cloud/Cumulus.personal|Cumulus.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Cloud/Cumulus.secret|Cumulus.secret]]"
+- '[[../../../../WikiData/WD~Cumulus,14189|WD~Cumulus,14189]]'
+- '[[/_Standards/Earth/Climate/Weather/Cloud/Cumulus|Cumulus]]'
+- '[[/_public/Earth/Climate/Weather/Cloud/Cumulus.public|Cumulus.public]]'
+- '[[/_internal/Earth/Climate/Weather/Cloud/Cumulus.internal|Cumulus.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Cloud/Cumulus.protect|Cumulus.protect]]'
+- '[[/_private/Earth/Climate/Weather/Cloud/Cumulus.private|Cumulus.private]]'
+- '[[/_personal/Earth/Climate/Weather/Cloud/Cumulus.personal|Cumulus.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Cloud/Cumulus.secret|Cumulus.secret]]'
+dv_has_:
+  name_:
+    af: Cumuluswolke
+    ar: ركام
+    ast: Cúmulus
+    be: Кучавыя воблакі
+    be-tarask: клубаваты воблак
+    bg: Купести облаци
+    ca: Cúmulus
+    co: Cumulu
+    cs: cumulus
+    csb: Cumulus
+    cy: Cwmwl cwmwlws
+    da: staksky
+    de: Cumulus
+    de-ch: Cumulus
+    el: Σωρείτες
+    en: cumulus
+    en-ca: cumulus
+    en-gb: cumulus
+    eo: kumuluso
+    es: cúmulus
+    et: Rünkpilved
+    eu: Kumulu
+    fa: ابرهای کومهای
+    fi: kumpupilvi
+    fr: cumulus
+    ga: cumalas
+    gl: Cumulus
+    gsw: Cumulus
+    he: קומולוס
+    hi: कपासी मेघ
+    hr: Kumulus
+    hu: gomolyfelhő
+    hy: Կույտային ամպեր
+    id: awan kumulus
+    io: Kumuluso
+    it: cumulus
+    ja: 積雲
+    ko: 적운
+    la: Cumulus
+    lmo: Cumul
+    lt: Kamuoliniai debesys
+    lv: Gubumākoņi
+    mg: Cumulus
+    mi: kapua whakapipi
+    mk: Кумулус
+    ms: Awan kumulus
+    nan: chek-hûn
+    nb: cumulus
+    nl: cumulus
+    nn: Cumulus
+    oc: Cumulus
+    pl: Cumulus
+    pt: cumulus
+    pt-br: Cumulus
+    ro: Cumulus
+    ru: кучевые облака
+    sco: Cumulus clood
+    sh: Kumulus
+    sk: Kumulus
+    sl: kumulus
+    sr: кумулус
+    sr-ec: кумулус
+    sr-el: kumulus
+    sv: Cumulus
+    ta: குவி மேகம்
+    th: คิวมูลัส
+    tr: kümülüs
+    udm: люко-люко пилемъёс
+    uk: купчаста хмара
+    vi: Mây tích
+    war: Cumulus
+    wuu: 积云
+    yue: 積雲
+    zh: 积云
+    zh-cn: 淡积云
+    zh-hans: 淡积云
+    zh-hant: 淡積雲
+    zu: Amafufu
 ---
-
 # [[Cumulus]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cumulus,14189|WD~Cumulus,14189]] 

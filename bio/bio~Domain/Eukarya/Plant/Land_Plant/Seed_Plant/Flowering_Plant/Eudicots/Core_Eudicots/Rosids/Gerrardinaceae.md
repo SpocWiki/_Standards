@@ -1,9 +1,61 @@
 ---
 aliases:
-  - Gerrardinaceae
+- Gerrardina
+- Gerrardinaceae
+- جيراردينا
+- 柳紅莓屬
+- 柳红莓属
+- 게라르디나속
 title: Gerrardina
+has_id_wikidata: Q132759
+dv_has_:
+  name_:
+    af: Gerrardina
+    an: Gerrardina
+    arz: جيراردينا
+    ast: Gerrardinaceae
+    bg: Gerrardina
+    bs: Gerrardina
+    ca: Gerrardina
+    ceb: Gerrardina
+    cs: Gerrardina
+    de: Gerrardina
+    en: Gerrardina
+    eo: Gerrardina
+    es: Gerrardinaceae
+    eu: Gerrardina
+    ext: Gerrardina
+    fi: Gerrardina
+    fr: Gerrardina
+    ga: Gerrardina
+    gl: Gerrardina
+    hr: Gerrardina
+    hu: Gerrardina
+    ia: Gerrardina
+    ie: Gerrardina
+    io: Gerrardina
+    it: Gerrardina
+    ko: 게라르디나속
+    la: Gerrardina
+    mul: Gerrardina
+    nb: Gerrardina
+    nl: Gerrardinaceae
+    oc: Gerrardina
+    pl: Gerrardina
+    pt: Gerrardina
+    pt-br: Gerrardina
+    ro: Gerrardina
+    ru: Gerrardina
+    sq: Gerrardina
+    sv: Gerrardina
+    uk: Gerrardina
+    vi: Gerrardinaceae
+    vo: Gerrardina
+    war: Gerrardina
+    zh: 柳红莓属
+    zh-cn: 柳红莓属
+    zh-tw: 柳紅莓屬
 ---
-
 ## [[Gerrardinaceae]] 
 
 ![gerrardina](Gerrardinaceae/gerrardina_blossom.jpg)  ![gerrardina_Fruit](Gerrardinaceae/gerrardina_Fruit.jpg) 

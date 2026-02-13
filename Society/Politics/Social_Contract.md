@@ -1,20 +1,151 @@
 ---
 aliases:
-  - Gesellschaftsvertrag
-  - Social_Contract
-  - Social Contract
+- contract social
+- contracte social
+- contractus socialis
+- contrat social
+- contrato social
+- contratto sociale
+- Contratu social
+- cyfamod cymdeithasol
+- cùmhnant sòisealta
+- Društveni ugovor
+- Gesellschaftsvertrag
+- kevambos kowethasek
+- Khế ước xã hội
+- Kontrak sosial
+- Kontraktarianismo
+- kontraktualismo
+- Sabiedriskais līgums
+- Samfélagssáttmáli
+- samhällskontrakt
+- socia kontrakto
+- sociaal contract
+- Social Contract
+- Social kontrakt
+- sociala kontrato
+- socialna pogodba
+- Social_Contract
+- Sosiale kontrak
+- Sozialvertrag
+- společenská smlouva
+- Spoločenská zmluva (štát)
+- toplum sözleşmesi
+- Társadalmi szerződés
+- umowa społeczna
+- visuomenės sutartis
+- yhteiskuntasopimus
+- Ühiskondlik leping
+- İctimai müqavilə
+- κοινωνικό συμβόλαιο
+- грамадзкая дамова
+- друштвени уговор
+- коомдук келишим теориясы
+- Обществен договор
+- общественный договор
+- суспільний договір
+- тэорыя грамадскага дагавора
+- Սոցիալական պայմանագիր
+- אמנה חברתית
+- געזעלשפאטלעכער אפמאך
+- عقد اجتماعي
+- قرارداد اجتماعی
+- معاہدہ عمرانی
+- ټولنیز تړوند
+- پەیمانی کۆمەڵایەتی
+- सामाजिक संविदा
+- সামাজিক চুক্তি তত্ত্ব
+- ਸਮਾਜਿਕ ਸਮਝੌਤਾ
+- சமுதாய ஒப்பந்தம்
+- സോഷ്യൽ കോണ്ട്രാക്റ്റ്
+- สัญญาประชาคม
+- სოციალური კონტრაქტი
+- 社会契約
+- 社會契約
+- 사회 계약
 has_id_wikidata: Q1326430
 instance_of:
-  - '[[_Standards/WikiData/WD~thought_experiment,147027]]'
-  - '[[_Standards/WikiData/WD~political_concept,33104069]]'
+- '[[_Standards/WikiData/WD~thought_experiment,147027]]'
+- '[[_Standards/WikiData/WD~political_concept,33104069]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_des_biens_communs,120799836]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leviathan%20frontispiece%20cropped%20British%20Library.jpg
 PhilPapers_topic: social-contract
+dv_has_:
+  name_:
+    af: Sosiale kontrak
+    ar: عقد اجتماعي
+    ast: Contratu social
+    az: İctimai müqavilə
+    be: тэорыя грамадскага дагавора
+    be-tarask: грамадзкая дамова
+    bg: Обществен договор
+    bn: সামাজিক চুক্তি তত্ত্ব
+    ca: contracte social
+    ckb: پەیمانی کۆمەڵایەتی
+    cs: společenská smlouva
+    cy: cyfamod cymdeithasol
+    da: Social kontrakt
+    de: Sozialvertrag
+    el: κοινωνικό συμβόλαιο
+    en: social contract
+    en-ca: Social contract
+    en-gb: social contract
+    eo: socia kontrakto
+    es: contrato social
+    et: Ühiskondlik leping
+    eu: kontraktualismo
+    fa: قرارداد اجتماعی
+    fi: yhteiskuntasopimus
+    fr: contrat social
+    gd: cùmhnant sòisealta
+    gl: contrato social
+    he: אמנה חברתית
+    hi: सामाजिक संविदा
+    hu: Társadalmi szerződés
+    hy: Սոցիալական պայմանագիր
+    id: Kontrak sosial
+    io: sociala kontrato
+    is: Samfélagssáttmáli
+    it: contratto sociale
+    ja: 社会契約
+    ka: სოციალური კონტრაქტი
+    ko: 사회 계약
+    kw: kevambos kowethasek
+    ky: коомдук келишим теориясы
+    la: contractus socialis
+    lt: visuomenės sutartis
+    lv: Sabiedriskais līgums
+    ml: സോഷ്യൽ കോണ്ട്രാക്റ്റ്
+    ms: Kontrak sosial
+    nl: sociaal contract
+    oc: contracte social
+    pa: ਸਮਾਜਿਕ ਸਮਝੌਤਾ
+    pl: umowa społeczna
+    ps: ټولنیز تړوند
+    pt: contrato social
+    pt-br: contrato social
+    ro: contract social
+    ru: общественный договор
+    sh: Društveni ugovor
+    sk: Spoločenská zmluva (štát)
+    sl: socialna pogodba
+    sr: друштвени уговор
+    sr-ec: друштвени уговор
+    sv: samhällskontrakt
+    ta: சமுதாய ஒப்பந்தம்
+    th: สัญญาประชาคม
+    tl: Kontraktarianismo
+    tr: toplum sözleşmesi
+    uk: суспільний договір
+    ur: معاہدہ عمرانی
+    vi: Khế ước xã hội
+    yi: געזעלשפאטלעכער אפמאך
+    yue: 社會契約
+    zh: 社會契約
 ---
-
 # [[Social_Contract]] 
 
 #is_/same_as :: [[../../WikiData/WD~Social_contract,1326430|WD~Social_contract,1326430]]  

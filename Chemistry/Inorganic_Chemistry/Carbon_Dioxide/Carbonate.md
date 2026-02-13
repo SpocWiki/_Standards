@@ -1,50 +1,179 @@
 ---
 aliases:
-  - Karbonat
-  - Carbonate
+- carbonaat
+- carbonad
+- Carbonat
+- Carbonate
+- carbonati
+- carbonato
+- Carbonatu
+- Carbonați
+- carbónáit
+- Kabonati
+- Karbonaadid
+- Karbonaat
+- karbonaatti
+- Karbonat
+- Karbonatlar
+- karbonato
+- karbonát
+- Karbonāti
+- pākawa waro
+- Thòaⁿ-sng-iâm
+- uhličitan
+- węglan
+- Ανθρακικό άλας
+- карбанат
+- карбаняк
+- Карбонат
+- карбонати
+- Карбонаттар
+- карбонаты
+- Կարբոնատներ
+- קרבונט
+- كاربونات
+- كربونات
+- کربنات
+- کربونات
+- کربونت
+- कार्बोनेट
+- কার্বনেট
+- ਕਾਰਬੋਨੇਟ
+- கார்பனேட்டு
+- ಕಾರ್ಬೋನೇಟುಗಳು
+- 炭酸塩
+- 碳酸根
+- 碳酸盐
+- 碳酸鹽
+- 탄산염
 has_id_wikidata: Q181699
-different_from: "[[_Standards/WikiData/WD~carbon_trioxide,423705]]"
+different_from: '[[_Standards/WikiData/WD~carbon_trioxide,423705]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Carbonates,6863146]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Carbonates,6863146]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
-subclass_of: "[[_Standards/WikiData/WD~chemical_compound,11173]]"
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
 Commons_category: Carbonates
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carbonate.svg
 P8189: 987007283484005100
 dv_has_:
   formula_:
     sum: CO³(2-)
+  name_:
+    af: Karbonaat
+    ar: كربونات
+    ast: Carbonatu
+    az: Karbonatlar
+    azb: کربونات
+    be: карбанат
+    be-tarask: карбаняк
+    bg: Карбонат
+    bn: কার্বনেট
+    bs: Karbonat
+    ca: Carbonat
+    cs: uhličitan
+    cv: Карбонат
+    cy: carbonad
+    da: Karbonat
+    de: Carbonate
+    el: Ανθρακικό άλας
+    en: carbonate
+    en-ca: Carbonate
+    en-gb: carbonate
+    eo: karbonato
+    es: carbonato
+    et: Karbonaadid
+    eu: Karbonato
+    fa: کربنات
+    fi: karbonaatti
+    fr: carbonate
+    frr: Karbonaat
+    ga: carbónáit
+    gl: carbonato
+    he: קרבונט
+    hi: कार्बोनेट
+    hu: karbonát
+    hy: Կարբոնատներ
+    id: karbonat
+    it: carbonati
+    ja: 炭酸塩
+    kk: Карбонат
+    kk-arab: كاربونات
+    kk-cn: كاربونات
+    kk-cyrl: Карбонат
+    kk-kz: Карбонат
+    kk-latn: Karbonat
+    kk-tr: Karbonat
+    kn: ಕಾರ್ಬೋನೇಟುಗಳು
+    ko: 탄산염
+    ky: Карбонаттар
+    lv: Karbonāti
+    lzh: 碳酸鹽
+    mi: pākawa waro
+    mk: Карбонат
+    ms: karbonat
+    ms-arab: کربونت
+    nan: Thòaⁿ-sng-iâm
+    nb: karbonat
+    nl: carbonaat
+    nn: karbonat
+    pa: ਕਾਰਬੋਨੇਟ
+    pl: węglan
+    pt: carbonato
+    pt-br: Carbonato
+    ro: Carbonați
+    ru: карбонаты
+    sco: carbonate
+    sh: karbonat
+    sk: Uhličitan
+    sl: karbonat
+    sr: карбонат
+    sr-ec: Карбонат
+    sr-el: Karbonat
+    sv: karbonat
+    sw: Kabonati
+    ta: கார்பனேட்டு
+    tr: Karbonat
+    uk: карбонати
+    vi: carbonat
+    wuu: 碳酸根
+    yue: 碳酸鹽
+    zh: 碳酸根
+    zh-cn: 碳酸根
+    zh-hans: 碳酸盐
+    zh-hant: 碳酸鹽
+    zh-hk: 碳酸鹽
+    zh-sg: 碳酸盐
+    zh-tw: 碳酸根
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]"
-    - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate|Carbonate]]"
-    - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public|Carbonate.public]]"
-    - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal|Carbonate.internal]]"
-    - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect|Carbonate.protect]]"
-    - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private|Carbonate.private]]"
-    - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal|Carbonate.personal]]"
-    - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret|Carbonate.secret]]"
+  - '[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]'
+  - '[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate|Carbonate]]'
+  - '[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public|Carbonate.public]]'
+  - '[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal|Carbonate.internal]]'
+  - '[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect|Carbonate.protect]]'
+  - '[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private|Carbonate.private]]'
+  - '[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal|Carbonate.personal]]'
+  - '[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret|Carbonate.secret]]'
 dv_has_formula_sum: CO³(2-)
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]"
-  - "[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate|Carbonate]]"
-  - "[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public|Carbonate.public]]"
-  - "[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal|Carbonate.internal]]"
-  - "[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect|Carbonate.protect]]"
-  - "[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private|Carbonate.private]]"
-  - "[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal|Carbonate.personal]]"
-  - "[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret|Carbonate.secret]]"
+- '[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]'
+- '[[/_Standards/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate|Carbonate]]'
+- '[[/_public/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.public|Carbonate.public]]'
+- '[[/_internal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.internal|Carbonate.internal]]'
+- '[[/_protect/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.protect|Carbonate.protect]]'
+- '[[/_private/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.private|Carbonate.private]]'
+- '[[/_personal/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.personal|Carbonate.personal]]'
+- '[[/_secret/Chemistry/Inorganic_Chemistry/Carbon_Dioxide/Carbonate.secret|Carbonate.secret]]'
 ---
-
 # [[Carbonate]] 
 
 

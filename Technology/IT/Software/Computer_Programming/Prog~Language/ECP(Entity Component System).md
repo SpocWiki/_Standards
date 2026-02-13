@@ -1,4 +1,34 @@
-
+---
+has_id_wikidata: Q17089065
+dv_has_:
+  name_:
+    en: entity component system
+    eo: sistemo de entoj kaj komponantoj
+    es: Entidad-componente-sistema
+    fa: Entity-component-system
+    fr: Entité Composant Système
+    hu: Entitás-komponens-rendszer
+    ja: エンティティ・コンポーネント・システム
+    nb: entitet–komponent–system
+    pl: Entity–component–system
+    pt: Entity-component-system
+    uk: Entity Component System
+    zh: 实体-组件-系统
+    zh-hans: 实体-组件-系统
+    zh-hant: 實體-元件-系統
+aliases:
+- Entidad-componente-sistema
+- entitet–komponent–system
+- entity component system
+- Entity-component-system
+- Entity–component–system
+- Entitás-komponens-rendszer
+- Entité Composant Système
+- sistemo de entoj kaj komponantoj
+- エンティティ・コンポーネント・システム
+- 实体-组件-系统
+- 實體-元件-系統
+---
 # [[ECP(Entity Component System)]] 
 
 #is_/same_as :: [[WD~Entity_component_system,]] 

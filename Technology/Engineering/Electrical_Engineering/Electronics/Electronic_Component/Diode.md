@@ -1,8 +1,72 @@
 ---
 aliases:
-  - Diodes
-  - Dioden
-  - Diode
+- Daayoodii
+- Dayuod
+- Deuod
+- Dijods
+- diod
+- Dioda
+- diodas
+- Diode
+- Dioden
+- diodenn
+- Diodes
+- Diodi
+- Diodo
+- diodo semicondutor
+- Diodu
+- Diodus
+- diodă
+- Diood
+- Diyot
+- Diòde
+- dióda
+- Dyòd
+- dé-óid
+- Dìod
+- díode
+- díodo
+- Jī-ke̍k-thé
+- Roalahiny
+- Tvistur
+- δίοδος
+- діод
+- Діода
+- Диод
+- диода
+- дыёд
+- Դիոդ
+- דיאדע
+- דיודה
+- ئىككى پۇتلۇق لامپا
+- دايود
+- دایۆد
+- دوبرقیرہ
+- دیود
+- صمام ثنائي
+- ضيوض
+- ڈائیوڈ
+- डायोड
+- दायोद
+- द्वयाग्र
+- ডায়ড
+- ডায়োড
+- ਡਾਇਓਡ
+- இருமுனையம்
+- డయోడ్
+- ಡಯೋಡ್
+- ഡയോഡ്
+- දියෝඩ
+- ไดโอด
+- ດີອົດ
+- ဒိုင်အုတ်
+- დიოდი
+- ዳዮድ
+- ダイオード
+- 二极管
+- 二極管
+- 二極體
+- 다이오드
 has_id_wikidata: Q11656
 Commons_category: Diodes
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
@@ -12,15 +76,146 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Diode-closeup.jpg
 instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
 Nomenclature_for_Museum_Cataloging: 8836
 subclass_of:
-  - '[[_Standards/WikiData/WD~nonlinear_electrical_element,7049472]]'
-  - '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
-  - '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
-  - '[[_Standards/WikiData/WD~electronic_component,11653]]'
+- '[[_Standards/WikiData/WD~nonlinear_electrical_element,7049472]]'
+- '[[_Standards/WikiData/WD~passive_electronic_component,9252564]]'
+- '[[_Standards/WikiData/WD~active_electronic_component,12492106]]'
+- '[[_Standards/WikiData/WD~electronic_component,11653]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Electronics,10802636]]'
+- '[[_Standards/WikiData/WD~WikiProject_Physics,8487193]]'
+- '[[_Standards/WikiData/WD~WikiProject_Electronics,10802636]]'
+dv_has_:
+  name_:
+    af: diode
+    am: ዳዮድ
+    an: Diodo
+    ar: صمام ثنائي
+    ary: ضيوض
+    arz: دايود
+    as: ডায়ড
+    ast: Diodu
+    az: Diod
+    azb: دیود
+    ba: Диод
+    be: дыёд
+    be-tarask: дыёд
+    bg: Диод
+    bn: ডায়োড
+    br: diodenn
+    bs: Dioda
+    ca: díode
+    ce: Диод
+    ckb: دایۆد
+    crh: Diod
+    cs: dioda
+    cy: Deuod
+    da: diode
+    de: Diode
+    el: δίοδος
+    en: diode
+    eo: diodo
+    es: diodo
+    et: Diood
+    eu: Diodo
+    fa: دیود
+    fi: diodi
+    fr: diode
+    frr: Diode
+    ga: dé-óid
+    gan: 二極管
+    gl: díodo
+    gsw: Diode
+    ha: Diode
+    he: דיודה
+    hi: डायोड
+    hif: diode
+    hr: Dioda
+    ht: Dyòd
+    hu: dióda
+    hy: Դիոդ
+    ia: Diodo
+    id: Dioda
+    io: Diodo
+    is: Tvistur
+    it: diodo
+    ja: ダイオード
+    jam: Dayuod
+    jv: Dioda
+    ka: დიოდი
+    kk: Диод
+    kn: ಡಯೋಡ್
+    ko: 다이오드
+    ku: Diod
+    kw: Diod
+    ky: Диод
+    la: Diodus
+    lmo: Diod
+    lo: ດີອົດ
+    lt: diodas
+    lv: diode
+    lzh: 二極管
+    mag: द्वयाग्र
+    mg: Roalahiny
+    mk: диода
+    ml: ഡയോഡ്
+    mn: Диод
+    mr: डायोड
+    ms: Diod
+    my: ဒိုင်အုတ်
+    mzn: دیود
+    nan: Jī-ke̍k-thé
+    nb: diode
+    nds: Diood
+    ne: डायोड
+    new: दायोद
+    nl: diode
+    nn: diode
+    oc: Diòde
+    om: Daayoodii
+    pa: ਡਾਇਓਡ
+    pl: dioda
+    pms: Dìod
+    pnb: ڈائیوڈ
+    pt: diodo semicondutor
+    ro: diodă
+    ru: диод
+    rue: Діода
+    sco: diode
+    sgs: Dijods
+    sh: Dioda
+    si: දියෝඩ
+    sk: dióda
+    sl: dioda
+    sn: diode
+    sq: Dioda
+    sr: диода
+    sr-ec: диода
+    sr-el: dioda
+    stq: Dioden
+    su: Dioda
+    sv: diod
+    sw: Diodi
+    ta: இருமுனையம்
+    te: డయోడ్
+    tg: Диод
+    th: ไดโอด
+    tk: Diod
+    tl: diode
+    tr: Diyot
+    tt: Диод
+    udm: диод
+    ug: ئىككى پۇتلۇق لامپا
+    uk: діод
+    ur: دوبرقیرہ
+    uz: Diod
+    vi: diode
+    war: Diodo
+    wuu: 二极管
+    yi: דיאדע
+    yue: 二極管
+    zh: 二極體
+    zh-cn: 二极管
+    zh-tw: 二極體
 ---
-
 # [[Diode]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Diode,11656|WD~Diode,11656]] 

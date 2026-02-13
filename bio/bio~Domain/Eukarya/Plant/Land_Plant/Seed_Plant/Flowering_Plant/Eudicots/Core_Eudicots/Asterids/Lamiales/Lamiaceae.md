@@ -1,47 +1,239 @@
 ---
 aliases:
-  - Lamiaceae
-  - Lippenblütler
-  - 꿀풀과
-  - 唇形科
-  - Lipbloemenfamilie
-  - ustnatice
-  - วงศ์กะเพรา
+- Azeeniłchin
+- Ballıbabagiller
+- Cycawkowe rostliny
+- Dalamazkimilər
+- Famîleya gezika derewîn
+- hluchavkovité
+- huulikukkaiskasvit
+- Huulõielised
+- Họ Hoa môi
+- Jasnotowate
+- Lamiaceae
+- Lamiacoj
+- lamiàcies
+- Lamiáceas
+- Lapbloosplaanten
+- leppeblomfamilien
+- Leppeblomstfamilien
+- Lipbloemenfamilie
+- Lippenblütler
+- Læbeblomst-familien
+- lūpziežu dzimta
+- Muña yura rikch'aq ayllu
+- Notreliniai
+- Plisterväxter
+- Polurêyes
+- Timsefranin
+- usnače
+- ustnatice
+- Yalpizdoshlar
+- árvacsalánfélék
+- Λαμιάκεαι
+- Χειλανθή
+- Былдидинон зайæгойтæ
+- глухокропивові
+- Ерінгүлділер
+- ирен чәчәклеләр
+- Суккăр вĕлтĕрен йышшисем
+- Усноцветни
+- Эрин гүлдүүлөр тукуму
+- ясноткавыя
+- яснотковые
+- Һаңғырау кесерткән һымаҡтар
+- խուլեղինջազգիներ
+- שפתניים
+- تلسی ٹبر
+- د نعنا بوټي
+- ریمانیہ
+- شفوية
+- شفويه
+- نعناعیان
+- ކުދީނާ
+- ऑक्सिमम
+- லேமியேசி
+- లామియేసి
+- ಲಾಮಿಯೇಸಿ
+- ലാമിയേസി
+- วงศ์กะเพรา
+- ტუჩოსანნი
+- シソ科
+- 唇形科
+- 脣形科
+- 꿀풀과
 has_id_wikidata: Q53476
 taxonomic_type: '[[_Standards/WikiData/WD~Lamium,146675]]'
 has_fruit_type:
-  - '[[_Standards/WikiData/WD~capsule,147768]]'
-  - '[[_Standards/WikiData/WD~berry,13184]]'
+- '[[_Standards/WikiData/WD~capsule,147768]]'
+- '[[_Standards/WikiData/WD~berry,13184]]'
 described_by_source:
-  - '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Lamiales,21742]]'
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 ITIS_TSN: 32251
 taxon_common_name:
-  - Lippenblütler
-  - 꿀풀과
-  - 唇形科
-  - Lipbloemenfamilie
-  - ustnatice
-  - วงศ์กะเพรา
+- Lippenblütler
+- 꿀풀과
+- 唇形科
+- Lipbloemenfamilie
+- ustnatice
+- วงศ์กะเพรา
 Commons_category: Lamiaceae
 taxon_name: Lamiaceae
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Melissa%20officinalis1.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Unidentified%20mentha%2C%20Maramures.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Melissa%20officinalis1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Unidentified%20mentha%2C%20Maramures.jpg
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Lamiaceae
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=619
 EPPO_Code: 1LAMF
 MeSH_tree_code: B01.875.800.575.912.250.583.520
 UMLS_CUI: C0524904
 NBN_System_Key: NBNSYS0000160266
+dv_has_:
+  name_:
+    af: Lamiaceae
+    an: Lamiaceae
+    ar: شفوية
+    arz: شفويه
+    ast: Lamiaceae
+    az: Dalamazkimilər
+    ba: Һаңғырау кесерткән һымаҡтар
+    bar: Lamiaceae
+    bcl: Lamiaceae
+    be: ясноткавыя
+    be-tarask: Ясноткавыя
+    bg: Lamiaceae
+    br: Lamiaceae
+    bs: Lamiaceae
+    ca: lamiàcies
+    ceb: Lamiaceae
+    co: Lamiaceae
+    cs: hluchavkovité
+    cv: Суккăр вĕлтĕрен йышшисем
+    cy: Lamiaceae
+    da: Læbeblomst-familien
+    de: Lippenblütler
+    de-at: Lamiaceae
+    de-ch: Lamiaceae
+    dv: ކުދީނާ
+    el: Χειλανθή
+    en: Lamiaceae
+    en-ca: Lamiaceae
+    en-gb: Lamiaceae
+    eo: Lamiacoj
+    es: Lamiaceae
+    et: Huulõielised
+    eu: Lamiaceae
+    ext: Lamiaceae
+    fa: نعناعیان
+    fi: huulikukkaiskasvit
+    fr: Lamiaceae
+    frp: Lamiaceae
+    frr: Lapbloosplaanten
+    fur: Lamiaceae
+    ga: Lamiaceae
+    gd: Lamiaceae
+    gl: Lamiáceas
+    grc: Λαμιάκεαι
+    gsw: Lamiaceae
+    he: שפתניים
+    hr: usnače
+    hsb: Cycawkowe rostliny
+    hu: árvacsalánfélék
+    hy: խուլեղինջազգիներ
+    ia: Lamiaceae
+    id: Lamiaceae
+    ie: Lamiaceae
+    io: Lamiaceae
+    is: Lamiaceae
+    it: Lamiaceae
+    ja: シソ科
+    jv: Lamiaceae
+    ka: ტუჩოსანნი
+    kab: Timsefranin
+    kg: Lamiaceae
+    kk: Ерінгүлділер
+    kn: ಲಾಮಿಯೇಸಿ
+    ko: 꿀풀과
+    ku: Famîleya gezika derewîn
+    ky: Эрин гүлдүүлөр тукуму
+    la: Lamiaceae
+    lb: Lamiaceae
+    li: Lamiaceae
+    lij: Lamiaceae
+    lmo: Lamiaceae
+    lt: Notreliniai
+    lv: lūpziežu dzimta
+    mg: Lamiaceae
+    min: Lamiaceae
+    mk: Усноцветни
+    ml: ലാമിയേസി
+    mr: ऑक्सिमम
+    ms: Lamiaceae
+    mul: Lamiaceae
+    nap: Lamiaceae
+    nb: Leppeblomstfamilien
+    nds: Lamiaceae
+    nds-nl: Lamiaceae
+    nl: lipbloemenfamilie
+    nn: leppeblomfamilien
+    nrm: Lamiaceae
+    nv: Azeeniłchin
+    nys: Lamiaceae
+    oc: Lamiaceae
+    os: Былдидинон зайæгойтæ
+    pcd: Lamiaceae
+    pl: Jasnotowate
+    pms: Lamiaceae
+    pnb: تلسی ٹبر
+    ps: د نعنا بوټي
+    pt: Lamiaceae
+    pt-br: Lamiaceae
+    qu: Muña yura rikch'aq ayllu
+    rm: Lamiaceae
+    ro: Lamiaceae
+    ru: яснотковые
+    sc: Lamiaceae
+    scn: Lamiaceae
+    sco: Lamiaceae
+    sh: Lamiaceae
+    sk: hluchavkovité
+    sl: ustnatice
+    sq: Lamiaceae
+    sr: Lamiaceae
+    su: Lamiaceae
+    sv: Plisterväxter
+    sw: Lamiaceae
+    ta: லேமியேசி
+    te: లామియేసి
+    th: วงศ์กะเพรา
+    tl: Lamiaceae
+    tr: Ballıbabagiller
+    tt: ирен чәчәклеләр
+    uk: глухокропивові
+    ur: ریمانیہ
+    uz: Yalpizdoshlar
+    vec: Lamiaceae
+    vi: Họ Hoa môi
+    vls: Lamiaceae
+    vo: Lamiaceae
+    wa: Polurêyes
+    war: Lamiaceae
+    wo: Lamiaceae
+    wuu: 唇形科
+    yue: 唇形科
+    zh: 唇形科
+    zh-cn: 唇形科
+    zh-hans: 唇形科
+    zh-tw: 脣形科
+    zu: Lamiaceae
 ---
-
 # [[Lamiaceae]]  
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Lamiaceae,53476|WD~Lamiaceae,53476]] 

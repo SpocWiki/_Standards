@@ -1,69 +1,154 @@
 ---
 aliases:
-  - Liquorice
-  - licorice
-  - Lakritz
-  - regalicia
-  - lékořice lysá
-  - cultivated licorice
-  - сладунец
-  - golostebelni sladki koren
-  - 洋甘草
-  - 洋甘草（光果甘草）
-  - 光果甘草
-  - 欧亚甘草
-  - 欧甘草
-  - 疏小叶甘草
-  - 落果甘草
-  - 甘草
-  - 山小橘
-  - அதிமதுரம்
-  - 甘草头
-  - 甘草梢
-  - 甘草膏
-  - 甘草节
+- Akar manis
+- alcaçuz
+- alicreesh
+- Asɣaṛ aẓiḍan
+- Boyan
+- Bärndreck
+- cultivated licorice
+- Echtes Süßholz
+- Erregaliz
+- Glat Lakrids
+- Glycyrrhiza glabra
+- golostebelni sladki koren
+- Gwylys
+- igazi édesgyökér
+- Kaju manis cèna
+- Kalissie
+- Lagritsa-magusjuur
+- Lakkrísrót
+- lakrica
+- lakrisplante
+- lakritsikasvi
+- Lakritsrot
+- Lakritz
+- Lakritze
+- licorice
+- Likorisa
+- Likôrisa
+- liocras
+- Liquorice
+- lukrecja gładka
+- lékořice lysá
+- Meyan
+- Oyod legi
+- paprastasis saldymedis
+- Qizilmiya
+- regalicia
+- regalèssia
+- Regalícia
+- Regoliso
+- réglisse
+- Sladić
+- Sladovka hladkoplodá
+- slatki korijen
+- Soethout
+- Sugorisia
+- Sus
+- Swetholt
+- Séissholz
+- Sûs
+- Słódnik
+- Vera glicirizo
+- zoethout
+- Şirinbiyan
+- Γλυκόριζα
+- женско биле
+- Кызыл мыя
+- лакрица
+- локриця
+- саладкакорань гладкі
+- Сладић
+- сладок корен
+- сладунец
+- Татлы тамыр
+- Хуыфæджы хос
+- ширинбия
+- Қызылмия
+- քաղցրարմատ
+- שוש קירח
+- شَنٛگٕر
+- شیرین بیان
+- شیرینبیان
+- عرب السوس
+- عرقسوس
+- ملٹھی
+- مٺي ڪاٺي
+- ވޭމުއި
+- जेठी मधु
+- ज्येष्ठमध
+- मुलेठी
+- यष्टिमधु
+- यष्टी
+- যষ্টিমধু
+- ਮੁਲ੍ਹਠੀ
+- જેઠીમધ
+- அதிமதுரம்
+- అతిమధురము
+- ಅತಿಮಧುರ
+- ಜೇಷ್ಠಮಧು
+- ഇരട്ടിമധുരം
+- ชะเอมเทศ
+- ཤིང་མངར།
+- ძირტკბილა
+- スペインカンゾウ
+- 光果甘草
+- 山小橘
+- 欧亚甘草
+- 欧甘草
+- 洋甘草
+- 洋甘草（光果甘草）
+- 甘草
+- 甘草头
+- 甘草梢
+- 甘草膏
+- 甘草节
+- 疏小叶甘草
+- 落果甘草
+- 민감초
 has_id_wikidata: Q257106
 EPPO_Code: GYCGL
 UNII: M1F96IE0ZC
 NBN_System_Key: NBNSYS0200002252
 taxon_common_name:
-  - regalicia
-  - lékořice lysá
-  - cultivated licorice
-  - сладунец
-  - golostebelni sladki koren
-  - 洋甘草
-  - 洋甘草（光果甘草）
-  - 光果甘草
-  - 欧亚甘草
-  - 欧甘草
-  - 洋甘草
-  - 疏小叶甘草
-  - 落果甘草
-  - 甘草
-  - 山小橘
-  - அதிமதுரம்
-  - 甘草头
-  - 甘草梢
-  - 甘草膏
-  - 甘草节
+- regalicia
+- lékořice lysá
+- cultivated licorice
+- сладунец
+- golostebelni sladki koren
+- 洋甘草
+- 洋甘草（光果甘草）
+- 光果甘草
+- 欧亚甘草
+- 欧甘草
+- 洋甘草
+- 疏小叶甘草
+- 落果甘草
+- 甘草
+- 山小橘
+- அதிமதுரம்
+- 甘草头
+- 甘草梢
+- 甘草膏
+- 甘草节
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~licorice_candy,138811]]'
-  - '[[_Standards/WikiData/WD~liquorice_root,27631426]]'
-  - '[[_Standards/WikiData/WD~licorice_extract,104189182]]'
+- '[[_Standards/WikiData/WD~licorice_candy,138811]]'
+- '[[_Standards/WikiData/WD~liquorice_root,27631426]]'
+- '[[_Standards/WikiData/WD~licorice_extract,104189182]]'
 parent_taxon: '[[_Standards/WikiData/WD~Glycyrrhiza,157830]]'
 has_use:
-  - '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-  - '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~food,2095]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~herb,207123]]'
-  - '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~herb,207123]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -78,8 +163,120 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=17820
 CAS_Registry_Number: 84775-66-6
 EC_number: 935-465-7
+dv_has_:
+  name_:
+    aeb-arab: عرب السوس
+    af: Soethout
+    an: Glycyrrhiza glabra
+    ar: عرقسوس
+    arz: عرقسوس
+    as: যষ্টিমধু
+    ast: Glycyrrhiza glabra
+    az: Şirinbiyan
+    azb: شیرین بیان
+    ba: Татлы тамыр
+    bar: Bärndreck
+    bcl: Glycyrrhiza glabra
+    be-tarask: саладкакорань гладкі
+    bg: женско биле
+    bn: যষ্টিমধু
+    bo: ཤིང་མངར།
+    bs: Sladić
+    ca: regalèssia
+    ceb: Glycyrrhiza glabra
+    cs: lékořice lysá
+    cy: Gwylys
+    da: Glat Lakrids
+    de: Echtes Süßholz
+    diq: Sus
+    dv: ވޭމުއި
+    el: Γλυκόριζα
+    en: liquorice
+    eo: Vera glicirizo
+    es: Glycyrrhiza glabra
+    et: Lagritsa-magusjuur
+    eu: Erregaliz
+    fa: شیرینبیان
+    fi: lakritsikasvi
+    fr: réglisse
+    frr: Swetholt
+    ga: liocras
+    gl: Regalicia
+    gsw: Lakritze
+    gu: જેઠીમધ
+    he: שוש קירח
+    hi: यष्टिमधु
+    hr: slatki korijen
+    hsb: Słódnik
+    hu: igazi édesgyökér
+    hy: քաղցրարմատ
+    id: Akar manis
+    io: Regoliso
+    is: Lakkrísrót
+    it: Glycyrrhiza glabra
+    ja: スペインカンゾウ
+    jv: Oyod legi
+    ka: ძირტკბილა
+    kaa: Boyan
+    kab: Asɣaṛ aẓiḍan
+    kk: Қызылмия
+    kn: ಅತಿಮಧುರ
+    ko: 민감초
+    ks: شَنٛگٕر
+    ku: Sûs
+    ky: Кызыл мыя
+    la: Glycyrrhiza glabra
+    lb: Séissholz
+    lt: paprastasis saldymedis
+    lv: lakrica
+    mad: Kaju manis cèna
+    mai: मुलेठी
+    mg: Likôrisa
+    mk: сладок корен
+    ml: ഇരട്ടിമധുരം
+    mr: ज्येष्ठमध
+    ms: Akar manis
+    mul: Glycyrrhiza glabra
+    nb: lakrisplante
+    ne: जेठी मधु
+    nl: zoethout
+    oc: Regalícia
+    os: Хуыфæджы хос
+    pa: ਮੁਲ੍ਹਠੀ
+    pl: lukrecja gładka
+    pnb: ملٹھی
+    pt: alcaçuz
+    ro: Glycyrrhiza glabra
+    ru: лакрица
+    sa: यष्टी
+    sco: alicreesh
+    sd: مٺي ڪاٺي
+    sh: Sladić
+    sk: Sladovka hladkoplodá
+    sl: golostebelni sladki koren
+    sq: Glycyrrhiza glabra
+    sr: Сладић
+    sv: Lakritsrot
+    ta: அதிமதுரம்
+    tcy: ಜೇಷ್ಠಮಧು
+    te: అతిమధురము
+    tg: ширинбия
+    th: ชะเอมเทศ
+    tl: Likorisa
+    tr: Meyan
+    uk: локриця
+    ur: ملٹھی
+    uz: Qizilmiya
+    vec: Sugorisia
+    vi: Glycyrrhiza glabra
+    vls: Kalissie
+    war: Glycyrrhiza glabra
+    wuu: 光果甘草
+    yue: 洋甘草
+    zh: 光果甘草
+    zh-cn: 光果甘草
+    zh-hans: 光果甘草
 ---
-
 # [[Liquorice]] 
 
 #is_/same_as :: [[WD~Liquorice,257106]] 

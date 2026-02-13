@@ -1,34 +1,227 @@
 ---
 aliases:
-  - Schild
-  - Shield
+- Awọ̀yinu
+- Bloquier
+- bouclier
+- escudo
+- Escudu
+- escut
+- Ezkutu
+- Kalasag
+- Kalkan
+- Kilp
+- kilpi
+- lyet
+- Lá chắn
+- Mburoja
+- Mertal
+- Ngao
+- Nguba
+- Nhoo
+- pajzs
+- perisai
+- Pîn-pâi
+- Qalqan
+- Qalqon
+- Qalxan
+- Schild
+- sciath
+- Scield
+- Scu
+- scudo
+- Scut
+- Scuto
+- Scutum
+- Shield
+- Shildo
+- Sipar
+- skild
+- skjold
+- Skoed
+- skydas
+- sköld
+- Taméng
+- tarcza
+- tarian
+- Terabai
+- Tébéng
+- vairogs
+- Wallqanqa
+- ŝildo
+- Štit
+- štít
+- ščit
+- Ασπίδα
+- Бамб
+- Ваксар
+- Калкан
+- Сипар
+- штит
+- шчыт
+- щит
+- Қалқан
+- Ҡалҡан
+- Վահան
+- מגן
+- ترس
+- سپر
+- قالخان
+- قالقان
+- قەڵغان
+- مەرتال
+- ډال
+- ढाल
+- ढाल (रक्षा उपकरण)
+- ਢਾਲ
+- கேடயம்
+- ಗುರಾಣಿ
+- പരിച
+- පළිහ
+- ფარი
+- ខែល
+- 盾
+- ꯆꯨꯡ
+- 방패
 has_id_wikidata: Q131559
 different_from:
-  - "[[_Standards/WikiData/WD~escutcheon,331357]]"
-  - "[[_Standards/WikiData/WD~Brustschild,994480]]"
-  - "[[_Standards/WikiData/WD~cant,1550173]]"
+- '[[_Standards/WikiData/WD~escutcheon,331357]]'
+- '[[_Standards/WikiData/WD~Brustschild,994480]]'
+- '[[_Standards/WikiData/WD~cant,1550173]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~body_armor,485027]]"
-  - "[[_Standards/WikiData/WD~defensive_weapon,1453431]]"
+- '[[_Standards/WikiData/WD~body_armor,485027]]'
+- '[[_Standards/WikiData/WD~defensive_weapon,1453431]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Nomenclature_for_Museum_Cataloging: 8139
 OmegaWiki_Defined_Meaning: 456348
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorsberg%20Shields.jpg
 Commons_category: Shields
-Unicode_character: 🛡
+Unicode_character: "\U0001F6E1"
+dv_has_:
+  name_:
+    af: skild
+    ang: Scield
+    ar: ترس
+    ast: Escudu
+    az: Qalxan
+    azb: قالخان
+    ba: Ҡалҡан
+    be: шчыт
+    be-tarask: шчыт
+    bg: Щит
+    br: Skoed
+    ca: escut
+    ckb: قەڵغان
+    cs: štít
+    cy: tarian
+    da: skjold
+    de: Schild
+    el: Ασπίδα
+    en: shield
+    eo: ŝildo
+    es: escudo
+    et: Kilp
+    eu: Ezkutu
+    fa: سپر
+    fi: kilpi
+    fr: bouclier
+    ga: sciath
+    gl: escudo
+    guw: Awọ̀yinu
+    he: מגן
+    hi: ढाल (रक्षा उपकरण)
+    hr: Štit
+    hu: pajzs
+    hy: Վահան
+    ia: Scuto
+    iba: Terabai
+    id: Perisai
+    io: Shildo
+    it: scudo
+    ja: 盾
+    jv: Tébéng
+    ka: ფარი
+    kcg: lyet
+    kk: Қалқан
+    kk-arab: قالقان
+    kk-cn: قالقان
+    kk-cyrl: Қалқан
+    kk-kz: Қалқан
+    kk-latn: Qalqan
+    kk-tr: Qalqan
+    km: ខែល
+    kn: ಗುರಾಣಿ
+    ko: 방패
+    ku: Mertal
+    ku-arab: مەرتال
+    ku-latn: Mertal
+    ky: Калкан
+    la: Scutum
+    ln: Nguba
+    lt: skydas
+    lv: vairogs
+    mk: штит
+    ml: പരിച
+    mni: ꯆꯨꯡ
+    mr: ढाल
+    ms: perisai
+    myv: Ваксар
+    nan: Pîn-pâi
+    nb: skjold
+    nl: schild
+    nn: skjold
+    oc: Bloquier
+    pa: ਢਾਲ
+    pl: tarcza
+    pms: Scu
+    ps: ډال
+    pt: escudo
+    pt-br: escudo
+    qu: Wallqanqa
+    ro: Scut
+    ru: щит
+    sh: Štit
+    si: පළිහ
+    sk: Štít
+    sl: ščit
+    sn: Nhoo
+    sq: Mburoja
+    sr: штит
+    sr-ec: Штит
+    sr-el: Štit
+    su: Taméng
+    sv: sköld
+    sw: Ngao
+    ta: கேடயம்
+    tg: Сипар
+    tg-latn: Sipar
+    tl: Kalasag
+    tr: Kalkan
+    udm: щит
+    uk: щит
+    uz: Qalqon
+    vi: Lá chắn
+    wuu: 盾
+    xal: Бамб
+    yue: 盾
+    zh: 盾
+    zh-cn: 盾
+    zh-hans: 盾
+    zh-hant: 盾
+    zh-hk: 盾
+    zh-sg: 盾
+    zh-tw: 盾
 ---
-
 # [[Shield]] 🛡 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Shield,131559|WD~Shield,131559]] 

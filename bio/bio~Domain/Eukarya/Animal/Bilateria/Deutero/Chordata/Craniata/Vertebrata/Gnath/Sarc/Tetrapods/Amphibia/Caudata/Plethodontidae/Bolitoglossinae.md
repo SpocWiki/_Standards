@@ -1,30 +1,67 @@
 ---
 aliases:
-  - Bolitoglossinae
+- Bolitoglossinae
+- బొలీతొగ్లాసినే
 title: Bolitoglossinae
 dv_scientific_name: Bolitoglossa lincolni
 dv_location: Caxaque (San Marcos, Guatemala)
 dv_copyright: © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.edu)
 dv_is_:
   same_as:
-    - "[[Bolitoglossinae]]"
-    - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]"
-    - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]"
-    - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect|Bolitoglossinae.protect]]"
-    - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]"
-    - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
-    - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
+  - '[[Bolitoglossinae]]'
+  - '[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]'
+  - '[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]'
+  - '[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect|Bolitoglossinae.protect]]'
+  - '[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]'
+  - '[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]'
+  - '[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]'
 dv_is_same_as:
-  - "[[Bolitoglossinae]]"
-  - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]"
-  - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]"
-  - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect|Bolitoglossinae.protect]]"
-  - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]"
-  - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
-  - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
+- '[[Bolitoglossinae]]'
+- '[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]'
+- '[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]'
+- '[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect|Bolitoglossinae.protect]]'
+- '[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]'
+- '[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]'
+- '[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]'
 dv_specimen_condition: Live Specimen
+has_id_wikidata: Q3077933
+dv_has_:
+  name_:
+    an: Bolitoglossinae
+    ast: Bolitoglossinae
+    bg: Bolitoglossinae
+    ca: Bolitoglossinae
+    ceb: Bolitoglossinae
+    de: Bolitoglossinae
+    en: Bolitoglossinae
+    eo: Bolitoglossinae
+    es: Bolitoglossinae
+    eu: Bolitoglossinae
+    ext: Bolitoglossinae
+    fi: Bolitoglossinae
+    fr: Bolitoglossinae
+    ga: Bolitoglossinae
+    gl: Bolitoglossinae
+    ia: Bolitoglossinae
+    ie: Bolitoglossinae
+    io: Bolitoglossinae
+    it: Bolitoglossinae
+    la: Bolitoglossinae
+    mul: Bolitoglossinae
+    nl: Bolitoglossinae
+    oc: Bolitoglossinae
+    pl: Bolitoglossinae
+    pt: Bolitoglossinae
+    pt-br: Bolitoglossinae
+    ro: Bolitoglossinae
+    ru: Bolitoglossinae
+    sq: Bolitoglossinae
+    te: బొలీతొగ్లాసినే
+    uk: Bolitoglossinae
+    vi: Bolitoglossinae
+    vo: Bolitoglossinae
+    war: Bolitoglossinae
 ---
-
 # [[Bolitoglossinae]] 
 
 ![Bolitoglossa lincolni](Bolitoglossinae/Bolitoglossa_lincolni.jpg) 

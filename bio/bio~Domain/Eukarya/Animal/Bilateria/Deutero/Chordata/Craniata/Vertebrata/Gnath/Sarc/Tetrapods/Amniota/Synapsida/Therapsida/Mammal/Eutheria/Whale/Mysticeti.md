@@ -1,9 +1,189 @@
 ---
 aliases:
-  - Mysticeti
+- Baardwalvis
+- Balea
+- Baleia
+- baleinwalvissen
+- Balenat me mustaqe
+- Baleno
+- Balenă
+- Balyena
+- Bardehvaler
+- bardekvalar
+- Barduhvalur
+- Bardvalar
+- Bartenwale
+- beardhwal
+- Bedančiai banginiai
+- Biardenwaaler
+- Bığlı balinalar
+- Chhiu-keng
+- Dişsiz balinalar
+- fiszbinowce
+- hetulavalaat
+- Huēyimichin
+- Kit
+- Kitovi usani
+- Kiusvaalalised
+- Kosticovce
+- kosticovci
+- Lamencetacoj
+- misticets
+- Morfil
+- Morvil fanoliek
+- Murttı kïtter
+- Mysticeti
+- míol mór bailíneach
+- Paus
+- Paus balin
+- Phân bộ Cá voi tấm sừng hàm
+- Piraru
+- Plātņvaļi
+- Skíðishvalir
+- sziláscetek
+- Tishsiz kitlar
+- vosati kiti
+- Łóóʼtsoh biwooʼ daditsʼózígíí
+- Μυστακοκητώδη
+- беззаби китови
+- Беззъби китове
+- вусатыя кіты
+- китовиді
+- Мұртты киттер
+- Мӑйӑхлӑ китсем
+- усатые киты
+- Хаалым балык
+- לווייתני מזיפות
+- آببازسانان بیدندان
+- بې غاښو نهنګان
+- حوت
+- حيتان بالينية
+- حيتان بالينيه
+- مۇرتتى كىيتتەر
+- نەھەنگی بالین
+- व्हेल
+- பலீன் திமிங்கலம்
+- തിമിംഗലം
+- วาฬบาลีน
+- ဘေလိန်းဝေလငါး
+- უკბილო ვეშაპები
+- ᏓᏆ
+- ヒゲクジラ亜目
+- 须鲸
+- 须鲸小目
+- 鬚鯨小目
+- 수염고래아목
 title: Mysticeti
+has_id_wikidata: Q168366
+dv_has_:
+  name_:
+    af: Baardwalvis
+    an: Mysticeti
+    ang: beardhwal
+    ar: حيتان بالينية
+    arz: حيتان بالينيه
+    ast: Mysticeti
+    az: Bığlı balinalar
+    ban: Paus balin
+    be: вусатыя кіты
+    be-tarask: вусатыя кіты
+    bg: Беззъби китове
+    br: Morvil fanoliek
+    bs: Kit
+    ca: misticets
+    ceb: Mysticeti
+    chr: ᏓᏆ
+    ckb: نەھەنگی بالین
+    cs: kosticovci
+    cv: Мӑйӑхлӑ китсем
+    cy: Morfil
+    da: Bardehvaler
+    de: Bartenwale
+    el: Μυστακοκητώδη
+    en: Mysticeti
+    eo: Lamencetacoj
+    es: Mysticeti
+    et: Kiusvaalalised
+    eu: Mysticeti
+    ext: Mysticeti
+    fa: آببازسانان بیدندان
+    fi: hetulavalaat
+    fo: Barduhvalur
+    fr: Mysticeti
+    frr: Biardenwaaler
+    ga: míol mór bailíneach
+    gl: Balea
+    gn: Piraru
+    he: לווייתני מזיפות
+    hi: व्हेल
+    hr: Kitovi usani
+    hu: sziláscetek
+    ia: Mysticeti
+    id: Paus balin
+    ie: Mysticeti
+    io: Baleno
+    is: Skíðishvalir
+    it: Mysticeti
+    ja: ヒゲクジラ亜目
+    ka: უკბილო ვეშაპები
+    kk: Мұртты киттер
+    kk-arab: مۇرتتى كىيتتەر
+    kk-cn: مۇرتتى كىيتتەر
+    kk-cyrl: Мұртты киттер
+    kk-kz: Мұртты киттер
+    kk-latn: Murttı kïtter
+    kk-tr: Murttı kïtter
+    ko: 수염고래아목
+    la: Mysticeti
+    lt: Bedančiai banginiai
+    lv: Plātņvaļi
+    mk: беззаби китови
+    ml: തിമിംഗലം
+    ms: Paus
+    mul: Mysticeti
+    my: ဘေလိန်းဝေလငါး
+    nah: Huēyimichin
+    nan: Chhiu-keng
+    nb: Bardehvaler
+    nl: baleinwalvissen
+    nn: bardekvalar
+    nv: Łóóʼtsoh biwooʼ daditsʼózígíí
+    oc: Mysticeti
+    pl: fiszbinowce
+    ps: بې غاښو نهنګان
+    pt: Baleia
+    pt-br: Mysticeti
+    ro: Balenă
+    ru: усатые киты
+    sah: Хаалым балык
+    sco: Mysticeti
+    sh: Kitovi usani
+    sk: Kosticovce
+    sl: vosati kiti
+    sq: Balenat me mustaqe
+    sv: Bardvalar
+    ta: பலீன் திமிங்கலம்
+    th: วาฬบาลีน
+    tl: Mysticeti
+    tr: Dişsiz balinalar
+    uk: китовиді
+    ur: حوت
+    uz: Tishsiz kitlar
+    vi: Phân bộ Cá voi tấm sừng hàm
+    vo: Mysticeti
+    war: Balyena
+    wuu: 须鲸
+    yue: 鬚鯨小目
+    zh: 鬚鯨小目
+    zh-cn: 须鲸小目
+    zh-hans: 须鲸小目
+    zh-hant: 鬚鯨小目
+    zh-hk: 鬚鯨小目
+    zh-mo: 鬚鯨小目
+    zh-my: 须鲸小目
+    zh-sg: 须鲸小目
+    zh-tw: 鬚鯨小目
 ---
-
 # [[Mysticeti]]
 
 ## Baleen whales 

@@ -1,13 +1,86 @@
 ---
 aliases:
+- Neurenberg-beginsels
+- Neurenbergse principes
+- Nirnberški principi
+- Niurnbergo principai
+- Nuremberg principles
+- Nurembergeko printzipioak
+- Nürnberg ilkeleri
+- Nürnberger Prinzipien
+- Nürnbergprinsippa
+- Nürnbergprinsippene
+- Nürnberška načela
+- Parimet e Nurembergut
+- Principes de Nuremberg
+- principi di Norimberga
+- Principiile de la Nürnberg
+- Principios de Núremberg
+- Principios de Nürnberg
+- principis de Nuremberg
+- principoj de Nurenbergo
+- Prinsip-prinsip Nürnberg
+- Zasady norymberskie
+- Αρχές της Νυρεμβέργης
+- Нирнбершки принципи
+- Нюрнбергские принципы
+- Нюрнберзькі принципи
+- Нюрнбэрскія прынцыпы
+- Նյուրեմբերգյան սկզբունքներ
+- עקרונות נירנברג
+- اصول نورمبرگ
+- مبادئ نورمبرغ
+- ⵉⵎⵏⵣⴰⵢⵏ ⵏ ⵏⵓⵔⵎⴱⵓⵔⴳ
+- ニュルンベルク原則
+- 紐倫堡原則
+- 纽伦堡原则
+- 뉘른베르크 원칙
 has_id_wikidata: Q2146981
-different_from: "[[_Standards/WikiData/WD~Nuremberg_Code,697474]]"
-part_of: "[[_Standards/WikiData/WD~Nuremberg_Charter,820183]]"
-instance_of: "[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-named_after: "[[_Standards/WikiData/WD~Nuremberg,2090]]"
+different_from: '[[_Standards/WikiData/WD~Nuremberg_Code,697474]]'
+part_of: '[[_Standards/WikiData/WD~Nuremberg_Charter,820183]]'
+instance_of: '[[_Standards/WikiData/WD~general_principles_of_French_law,2608811]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+named_after: '[[_Standards/WikiData/WD~Nuremberg,2090]]'
+dv_has_:
+  name_:
+    af: Neurenberg-beginsels
+    ar: مبادئ نورمبرغ
+    ast: Principios de Núremberg
+    be-tarask: Нюрнбэрскія прынцыпы
+    ca: principis de Nuremberg
+    de: Nürnberger Prinzipien
+    el: Αρχές της Νυρεμβέργης
+    en: Nuremberg principles
+    eo: principoj de Nurenbergo
+    es: Principios de Núremberg
+    eu: Nurembergeko printzipioak
+    fa: اصول نورمبرگ
+    fr: Principes de Nuremberg
+    gl: Principios de Nürnberg
+    he: עקרונות נירנברג
+    hr: Nürnberška načela
+    hy: Նյուրեմբերգյան սկզբունքներ
+    id: Prinsip-prinsip Nürnberg
+    it: principi di Norimberga
+    ja: ニュルンベルク原則
+    ko: 뉘른베르크 원칙
+    lt: Niurnbergo principai
+    nb: Nürnbergprinsippene
+    nl: Neurenbergse principes
+    nn: Nürnbergprinsippa
+    pl: Zasady norymberskie
+    ro: Principiile de la Nürnberg
+    ru: Нюрнбергские принципы
+    sh: Nirnberški principi
+    sl: nürnberška načela
+    sq: Parimet e Nurembergut
+    sr: Нирнбершки принципи
+    tr: Nürnberg ilkeleri
+    uk: Нюрнберзькі принципи
+    yue: 紐倫堡原則
+    zgh: ⵉⵎⵏⵣⴰⵢⵏ ⵏ ⵏⵓⵔⵎⴱⵓⵔⴳ
+    zh: 纽伦堡原则
 ---
-
 # [[Nuremberg_Principles]] 
 
 #is_/same_as :: [[WD~Nuremberg_principles,2146981]] 

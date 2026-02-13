@@ -1,5 +1,53 @@
 ---
-has_time_started: 1877-01-01 
+has_time_started: 1877-01-01
+aliases:
+- The Post
+- The Washington Post
+- The_Washington_Post
+- Vashington post
+- Vašington post
+- WaPo
+- Washington Post
+- Washington_Post
+- «Вашингтон пост»
+- Вашингтон пост
+- Вашингтон Поуст
+- Вашингтоны шуудан
+- Вашынгтон Пост
+- Тһе Уасһінгтон Пост
+- Ուաշինկթըն Փոստ
+- Վաշինգտոն Փոստ
+- וושינגטון פוסט
+- دی واشنگٹن پوسٹ
+- واشنطن بوست
+- واشنګټن پوسټ (ورځپاڼه)
+- واشنگتن پست
+- واشنگٹن پوسٹ
+- واشینگتن پست
+- واشینگتن پۆست
+- द वासिङ्टन पोस्ट
+- द वॉशिंगटन पोस्ट
+- वाशिंगटन पोस्ट
+- वॉशिंग्टन पोस्ट
+- দ্য ওয়াশিংটন পোস্ট
+- ਦ ਵਾਸ਼ਿੰਗਟਨ ਪੋਸਟ
+- தி வாஷிங்டன் போஸ்ட்
+- వాషింగ్టన్ పోస్ట్
+- ദ വാഷിംഗ്ടൺ പോസ്റ്റ്
+- ද වොෂිංටන් පෝස්ට්
+- เดอะวอชิงตันโพสต์
+- ဝါရှင်တန်ပို့စ်
+- ვაშინგტონ პოსტი
+- ワシントン・ポスト
+- 华盛顿邮报
+- 華盛頓郵報
+- 워싱턴 포스트
+has_id_wikidata: Q166032
+X_Twitter_username:
+- capitalweather
+- PostGraphics
+- washingtonpost
+shortened_URL_formatter: https://wapo.st/has_time_started: 1877-01-01 
 aliases:
   - The_Washington_Post
   - The Washington Post
@@ -89,8 +137,135 @@ official_website:
 official_shop_URL: https://store.washingtonpost.com/
 public_key_fingerprint: 88D9 812E D074 7AEA EA1E C219 DC81 6CC4 FE3D 535C
 Library_of_Congress_Classification_works_and_editions_: AN151.W31 P85
+TikTok_username: washingtonpost
+Reddit_username: washingtonpost
+Tumblr_username: washingtonpost
+Telegram_username: washingtonpost
+Snapchat_username: washingtonpost
+Facebook_username: washingtonpost
+Instagram_username: washingtonpost
+title: The Washington Post
+political_ideology: '[[_Standards/WikiData/WD~neoliberalism,162719]]'
+owned_by: '[[_Standards/WikiData/WD~Jeff_Bezos,312556]]'
+indexed_in_bibliographic_review: '[[_Standards/WikiData/WD~Scopus,371467]]'
+award_received:
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Breaking_News_Reporting,636181]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Public_Service,644995]]'
+- '[[_Standards/WikiData/WD~George_Polk_Award,845188]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Explanatory_Reporting,1434915]]'
+- '[[_Standards/WikiData/WD~Pulitzer_Prize_for_National_Reporting,1671917]]'
+newspaper_format: '[[_Standards/WikiData/WD~broadsheet,665319]]'
+political_alignment: '[[_Standards/WikiData/WD~centre_left,737014]]'
+instance_of:
+- '[[_Standards/WikiData/WD~daily_newspaper,1110794]]'
+- '[[_Standards/WikiData/WD~newspaper,11032]]'
+member_of:
+- '[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]'
+- '[[_Standards/WikiData/WD~MDDC_Press_Association,117804418]]'
+- '[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]'
+publisher: '[[_Standards/WikiData/WD~Fred_Ryan,5496202]]'
+child_organization_or_unit:
+- '[[_Standards/WikiData/WD~The_Washington_Post_Writers_Group,7773643]]'
+- '[[_Standards/WikiData/WD~International_Herald_Tribune,100294968]]'
+founded_by: '[[_Standards/WikiData/WD~Stilson_Hutchins,12060630]]'
+editor: '[[_Standards/WikiData/WD~Matt_Murray,54917992]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Expanding_News_Desert,99202247]]'
+published_in: '[[_Standards/WikiData/WD~The_Washington_Weekly_Post,100286252]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~The_Washington_Weekly_Post,100286252]]'
+operator: '[[_Standards/WikiData/WD~WP_Company,135682958]]'
+start_time: 1877-12-06T00:00:00Z
+inception: 1877-01-01T00:00:00Z
+language_of_work_or_name: '[[_Standards/WikiData/WD~English,1860]]'
+main_Wikidata_property: The Washington Post contributor ID
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+place_of_publication: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+headquarters_location: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+named_after: '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+employees: 1000
+publication_interval: 1
+social_media_followers: 2800000
+ISSN:
+- 0190-8286
+- 2641-9599
+ISSN_L: 0190-8286
+Commons_category: The Washington Post
+OCLC_number: 2269358
+described_at_URL:
+- http://www.namebase.net:82/names/nn01.cgi?WASHINGTON_POST_
+- https://wikispooks.com/wiki/The_Washington_Post
+motto_text: Democracy Dies in Darkness
+small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Washington%20Post%20favicon.png
+domain_name: washingtonpost.com
+Bluesky_handle: washingtonpost.com
+Dewey_Decimal_Classification_works_and_editions_: 071
+short_name: Washington Post
+document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/Harold%20Hilton%20wins%201911%20U.S.%20Amateur%20-%20The%20Washington%20Post.jpg
+logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Logo%20of%20The%20Washington%20Post%20Newspaper.svg
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Washingtonpost.JPG
+WordLift_URL: http://data.thenextweb.com/tnw/entity/the_washington_post
+web_feed_URL: http://feeds.washingtonpost.com/rss/politics
+official_website:
+- http://proquest.umi.com/pqdweb?RQT=318&TS=1099416399&clientId=30345&VType=PQD&VName=HNP&VInst=PROD&pmid=000048611&PageNum=1
+- http://www.washingtonpost.com/
+- https://washingtonpost.com
+- https://www.overdrive.com/search?q=F94AF1AE-2535-464A-9049-C5B3194B37AC
+official_shop_URL: https://store.washingtonpost.com/
+public_key_fingerprint: 88D9 812E D074 7AEA EA1E C219 DC81 6CC4 FE3D 535C
+Library_of_Congress_Classification_works_and_editions_: AN151.W31 P85
+dv_has_:
+  name_:
+    acm: واشنطن بوست
+    ar: واشنطن بوست
+    be-tarask: Вашынгтон Пост
+    bg: Вашингтон Поуст
+    bho: वाशिंगटन पोस्ट
+    bn: দ্য ওয়াশিংটন পোস্ট
+    ce: «Вашингтон пост»
+    ckb: واشینگتن پۆست
+    dty: द वासिङ्टन पोस्ट
+    en: The Washington Post
+    fa: واشینگتن پست
+    he: וושינגטון פוסט
+    hi: द वॉशिंगटन पोस्ट
+    hy: Վաշինգտոն Փոստ
+    hyw: Ուաշինկթըն Փոստ
+    ja: ワシントン・ポスト
+    ka: ვაშინგტონ პოსტი
+    kk-cyrl: Тһе Уасһінгтон Пост
+    kk-kz: Тһе Уасһінгтон Пост
+    ko: 워싱턴 포스트
+    mai: द वासिङ्टन पोस्ट
+    ml: ദ വാഷിംഗ്ടൺ പോസ്റ്റ്
+    mn: Вашингтоны шуудан
+    mr: वॉशिंग्टन पोस्ट
+    mul: The Washington Post
+    my: ဝါရှင်တန်ပို့စ်
+    mzn: واشنگتن پست
+    ne: द वासिङ्टन पोस्ट
+    pa: ਦ ਵਾਸ਼ਿੰਗਟਨ ਪੋਸਟ
+    pnb: دی واشنگٹن پوسٹ
+    ps: واشنګټن پوسټ (ورځپاڼه)
+    si: ද වොෂිංටන් පෝස්ට්
+    sr: Вашингтон пост
+    sr-ec: Вашингтон пост
+    sr-el: Vašington post
+    ta: தி வாஷிங்டன் போஸ்ட்
+    te: వాషింగ్టన్ పోస్ట్
+    th: เดอะวอชิงตันโพสต์
+    uk: Вашингтон пост
+    ur: واشنگٹن پوسٹ
+    uz: Vashington post
+    wuu: 华盛顿邮报
+    yue: 華盛頓郵報
+    zh: 华盛顿邮报
+    zh-cn: 华盛顿邮报
+    zh-hans: 华盛顿邮报
+    zh-hant: 華盛頓郵報
+    zh-hk: 華盛頓郵報
+    zh-sg: 华盛顿邮报
+    zh-tw: 華盛頓郵報
 ---
-
 # [[Washington_Post]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~The_Washington_Post,166032|WD~The_Washington_Post,166032]]  

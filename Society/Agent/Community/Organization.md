@@ -1,163 +1,281 @@
 ---
 aliases:
-  - organisation
-  - organization
-  - Organization
-  - is_an_organization
-  - dbo:Organization
-  - schema:Organization
-  - Organisation
+- aozadur
+- Asasi
+- assuciazzioni
+- buidheann
+- dbo:Organization
+- eagraíocht
+- erakunde
+- Faʻalapotopotoga
+- felagsskapur
+- is_an_organization
+- kowethyans
+- kuruluş
+- Kî-kèu
+- Laingu
+- ma'aikata
+- Mataisoqosoqo
+- Okanaiseišene
+- organisaasje
+- organisaatio
+- organisasi
+- organisasie
+- organisasjon
+- organisasjovne
+- organisasjåvnnå
+- Organisasyon
+- Organisatie
+- organisation
+- Organisatioun
+- Organisatschoon
+- organisatsion
+- organisatsioon
+- Organisazion
+- organisaziun
+- organisašuvdna
+- organització
+- organiza
+- organizace
+- organizacija
+- organizacion
+- organización
+- organizacja
+- organizasion
+- Organizasyon
+- organizatio
+- organization
+- organizatë
+- Organizaçon
+- organização
+- organizaĵo
+- organizație
+- organizuro
+- organizzazione
+- organizácia
+- organizācija
+- otu
+- Paguyuban
+- Pasemetonan
+- pertubuhan
+- reagheydys
+- rêxistin
+- samtök
+- schema:Organization
+- sefydliad
+- shólkem
+- szervezet
+- Tantanakuy
+- tashkilot
+- Tuddsa
+- təşkilat
+- tổ chức
+- Ulupan
+- Yayasan Kebudayaan Rancage
+- àgbájọ
+- òganizasyon
+- ôrganizacyjŏ
+- ōrganizaciōni
+- οργανισμός
+- арганізацыя
+- байгууллага
+- огазеяськон
+- оешма
+- ойошма
+- організація
+- Организаци
+- организација
+- организация
+- созмон
+- ташкилот
+- Тэрилтэ
+- ұйым
+- կազմակերպություն
+- ארגאניזאציע
+- ארגון
+- تشکیلات
+- تنظیم
+- تَنظیٖم
+- سازمان
+- سنسٿا سنسٿا (آرگنائزيشن)
+- منظمة
+- منظمه
+- ڕێکخراوە
+- ڤرتوبوهن
+- ܛܘܟܣܐ
+- ߛߌ߲߬ߝߏ߲߬ߘߊ
+- संगठन
+- संस्था
+- সংগঠন
+- ਜਥੇਬੰਦੀ
+- સંસ્થા
+- ସଂଗଠନ
+- அமைப்பு
+- సంస్థ
+- ಸಂಘಟನೆ
+- സംഘടന
+- සංවිධානය
+- องค์การ
+- အဖွဲ့အစည်း
+- ორგანიზაცია
+- អង្គភាព
+- ᱥᱮᱢᱞᱮᱫ
+- 組織
+- 组织
+- 组织 (社会学)
+- 단체
+- "\U000110AE\U00011081\U0001108F\U00011098\U000110A2"
 has_id_wikidata: Q43229
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - organization
-layout: ""
+- organization
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_an_organization Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_an_organization Class
 type: Type
 has_characteristic:
-  - "[[_Standards/WikiData/WD~organizational_culture,730573]]"
-  - "[[_Standards/WikiData/WD~organizational_structure,759524]]"
-  - "[[_Standards/WikiData/WD~organizational_learning,1430172]]"
-  - "[[_Standards/WikiData/WD~organizational_communication,1937189]]"
-  - "[[_Standards/WikiData/WD~organizational_conflict,2310419]]"
-  - "[[_Standards/WikiData/WD~organizational_memory,2727939]]"
-  - "[[_Standards/WikiData/WD~organizational_life_cycle,3535173]]"
-  - "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
-  - "[[_Standards/WikiData/WD~organizational_behavior_studies,19483216]]"
-  - "[[_Standards/WikiData/WD~organizational_identity,25048163]]"
-  - "[[_Standards/WikiData/WD~organisation's_goals,53281408]]"
-  - "[[_Standards/WikiData/WD~resolution_to_dissolve,112692667]]"
+- '[[_Standards/WikiData/WD~organizational_culture,730573]]'
+- '[[_Standards/WikiData/WD~organizational_structure,759524]]'
+- '[[_Standards/WikiData/WD~organizational_learning,1430172]]'
+- '[[_Standards/WikiData/WD~organizational_communication,1937189]]'
+- '[[_Standards/WikiData/WD~organizational_conflict,2310419]]'
+- '[[_Standards/WikiData/WD~organizational_memory,2727939]]'
+- '[[_Standards/WikiData/WD~organizational_life_cycle,3535173]]'
+- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~organizational_behavior_studies,19483216]]'
+- '[[_Standards/WikiData/WD~organizational_identity,25048163]]'
+- "[[_Standards/WikiData/WD~organisation's_goals,53281408]]"
+- '[[_Standards/WikiData/WD~resolution_to_dissolve,112692667]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~complex_system,854457]]"
-  - "[[_Standards/WikiData/WD~social_system,1639378]]"
-  - "[[_Standards/WikiData/WD~group_of_humans,16334295]]"
-  - "[[_Standards/WikiData/WD~person_or_organization,106559804]]"
-  - "[[_Standards/WikiData/WD~corporate_body,106668099]]"
+- '[[_Standards/WikiData/WD~complex_system,854457]]'
+- '[[_Standards/WikiData/WD~social_system,1639378]]'
+- '[[_Standards/WikiData/WD~group_of_humans,16334295]]'
+- '[[_Standards/WikiData/WD~person_or_organization,106559804]]'
+- '[[_Standards/WikiData/WD~corporate_body,106668099]]'
 different_from:
-  - "[[_Standards/WikiData/WD~organization,2029841]]"
-  - "[[_Standards/WikiData/WD~organization_unit,10387680]]"
-  - "[[_Standards/WikiData/WD~facility,13226383]]"
-  - "[[_Standards/WikiData/WD~arranging,36993249]]"
-  - "[[_Standards/WikiData/WD~corporate_body,106668099]]"
+- '[[_Standards/WikiData/WD~organization,2029841]]'
+- '[[_Standards/WikiData/WD~organization_unit,10387680]]'
+- '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~arranging,36993249]]'
+- '[[_Standards/WikiData/WD~corporate_body,106668099]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~organizational_studies,2029930]]"
-  - "[[_Standards/WikiData/WD~sociology_of_organisations,9339103]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Organizations,5613113]]"
+- '[[_Standards/WikiData/WD~organizational_studies,2029930]]'
+- '[[_Standards/WikiData/WD~sociology_of_organisations,9339103]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Organizations,5613113]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_organization,6190581]]"
-  - "[[_Standards/WikiData/WD~Template_Aspects_of_organizations,6688962]]"
-  - "[[_Standards/WikiData/WD~Template_Org_stub,7786335]]"
-  - "[[_Standards/WikiData/WD~Q26117813,26117813]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_organization_Wikidata,57971242]]"
-related_category: "[[_Standards/WikiData/WD~Category_Types_of_organization,6448834]]"
-category_for_eponymous_categories: "[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_organizations,8103926]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_organizations,17166051]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_organization,6190581]]'
+- '[[_Standards/WikiData/WD~Template_Aspects_of_organizations,6688962]]'
+- '[[_Standards/WikiData/WD~Template_Org_stub,7786335]]'
+- '[[_Standards/WikiData/WD~Q26117813,26117813]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_organization_Wikidata,57971242]]'
+related_category: '[[_Standards/WikiData/WD~Category_Types_of_organization,6448834]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Category_Wikipedia_categories_named_after_organizations,8103926]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_organizations,17166051]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~type_of_organization,17197366]]"
-  - "[[_Standards/WikiData/WD~social_science_concept,131362181]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~type_of_organization,17197366]]'
+- '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 properties_for_this_type:
-  - child organization or unit
-  - industry
-  - member of
-  - archives at
-  - chairperson
-  - has part(s)
-  - inception
-  - dissolved, abolished or demolished date
-  - location of formation
-  - parent organization or unit
-  - separated from
-  - official website
-  - product or material produced
-  - employees
-  - Legal Entity Identifier
-  - IRS Employer Identification Number
-  - OpenCorporates ID
-  - phone number
-  - motto text
-  - legal form
-  - motto
-  - DOI prefix
-  - native label
-  - chief operating officer
-  - short name
-  - owner of
-  - CTHS society ID
-  - Crunchbase organization ID
-  - total revenue
-  - BiblioNet publisher ID
-  - AGORHA person/institution ID
-  - position held by head of the organization
-  - P2391
-  - total assets
-  - operating area
-  - partnership with
-  - EU Transparency Register ID
-  - ResearchGate institute ID
-  - D-U-N-S number
-  - source of income
-  - house publication
-  - fax number
-  - Scottish Charity number
-  - KvK company ID
-  - Actorenregister ID
-  - board member
-  - Ringgold ID
-  - Australian Government Organisations Register ID
-  - Australian Company Number
-  - ARCHON code
-  - autonomous system number
-  - GuideStar Israel organization ID
-  - members have occupation
-  - Biodiversity Repository ID
-  - LinkedIn company or organization ID
-  - official app
-  - C-SPAN organization ID
-  - supervisory board member
-  - grants
-  - street address
-  - ROR ID
-  - country
-  - field of work
-  - founded by
-  - located in the administrative territorial entity
-  - logo image
-  - headquarters location
-  - chief executive officer
-  - ISNI
+- child organization or unit
+- industry
+- member of
+- archives at
+- chairperson
+- has part(s)
+- inception
+- dissolved, abolished or demolished date
+- location of formation
+- parent organization or unit
+- separated from
+- official website
+- product or material produced
+- employees
+- Legal Entity Identifier
+- IRS Employer Identification Number
+- OpenCorporates ID
+- phone number
+- motto text
+- legal form
+- motto
+- DOI prefix
+- native label
+- chief operating officer
+- short name
+- owner of
+- CTHS society ID
+- Crunchbase organization ID
+- total revenue
+- BiblioNet publisher ID
+- AGORHA person/institution ID
+- position held by head of the organization
+- P2391
+- total assets
+- operating area
+- partnership with
+- EU Transparency Register ID
+- ResearchGate institute ID
+- D-U-N-S number
+- source of income
+- house publication
+- fax number
+- Scottish Charity number
+- KvK company ID
+- Actorenregister ID
+- board member
+- Ringgold ID
+- Australian Government Organisations Register ID
+- Australian Company Number
+- ARCHON code
+- autonomous system number
+- GuideStar Israel organization ID
+- members have occupation
+- Biodiversity Repository ID
+- LinkedIn company or organization ID
+- official app
+- C-SPAN organization ID
+- supervisory board member
+- grants
+- street address
+- ROR ID
+- country
+- field of work
+- founded by
+- located in the administrative territorial entity
+- logo image
+- headquarters location
+- chief executive officer
+- ISNI
 main_Wikidata_property: represents
 equivalent_class:
-  - http://xmlns.com/foaf/0.1/Organization
-  - http://dbpedia.org/ontology/Organisation
-  - http://id.loc.gov/ontologies/bibframe/Organization
-  - http://purl.bioontology.org/ontology/HL7/C1561598
-  - http://purl.bioontology.org/ontology/STY/T092
-  - http://purl.obolibrary.org/obo/OBI_0000245
-  - http://sw-portal.deri.org/ontologies/swportal#Organization
-  - http://www.popoloproject.com/specs/organization.html
-  - http://www.w3.org/ns/org#Organization
-  - "[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q4,4]]"
-  - https://schema.org/Organization
-  - https://www.w3.org/ns/activitystreams#Organization
-OmegaWiki_Defined_Meaning: "4987"
+- http://xmlns.com/foaf/0.1/Organization
+- http://dbpedia.org/ontology/Organisation
+- http://id.loc.gov/ontologies/bibframe/Organization
+- http://purl.bioontology.org/ontology/HL7/C1561598
+- http://purl.bioontology.org/ontology/STY/T092
+- http://purl.obolibrary.org/obo/OBI_0000245
+- http://sw-portal.deri.org/ontologies/swportal#Organization
+- http://www.popoloproject.com/specs/organization.html
+- http://www.w3.org/ns/org#Organization
+- '[[_Standards/WikiData/WD~https_id.oclc.org_worldcat_entity_Q4,4]]'
+- https://schema.org/Organization
+- https://www.w3.org/ns/activitystreams#Organization
+OmegaWiki_Defined_Meaning: 4987
 IMDb_keyword: organization
 DataTrek_identifier: Q94
-Dewey_Decimal_Classification: "060"
-U_S_National_Archives_Identifier: "10641726"
+Dewey_Decimal_Classification: 060
+U_S_National_Archives_Identifier: 10641726
 Commons_category: Organizations
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ExecutiveComitee-IAU-2018-2021.jpg
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Octicons-organization.svg
@@ -167,34 +285,208 @@ UMLS_CUI: C0029246
 MeSH_tree_code: N03.540
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]"
-    - "[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]"
-    - "[[/_Standards/Society/Agent/Community/Organization|Organization]]"
-    - "[[/_public/Society/Agent/Community/Organization.public|Organization.public]]"
-    - "[[/_internal/Society/Agent/Community/Organization.internal|Organization.internal]]"
-    - "[[/_protect/Society/Agent/Community/Organization.protect|Organization.protect]]"
-    - "[[/_private/Society/Agent/Community/Organization.private|Organization.private]]"
-    - "[[/_personal/Society/Agent/Community/Organization.personal|Organization.personal]]"
-    - "[[/_secret/Society/Agent/Community/Organization.secret|Organization.secret]]"
+  - '[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]'
+  - '[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]'
+  - '[[/_Standards/Society/Agent/Community/Organization|Organization]]'
+  - '[[/_public/Society/Agent/Community/Organization.public|Organization.public]]'
+  - '[[/_internal/Society/Agent/Community/Organization.internal|Organization.internal]]'
+  - '[[/_protect/Society/Agent/Community/Organization.protect|Organization.protect]]'
+  - '[[/_private/Society/Agent/Community/Organization.private|Organization.private]]'
+  - '[[/_personal/Society/Agent/Community/Organization.personal|Organization.personal]]'
+  - '[[/_secret/Society/Agent/Community/Organization.secret|Organization.secret]]'
 dv_has_:
-  parent_class: "[Agent](Agent)"
-  child_class: "[ [[Organization/Airline|Airline]], [[Organization/Consortium|Consortium]], [[Organization/Company/Corporation|Corporation]], [[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|EducationalOrganization]], [[Organization/Funding_Scheme|FundingScheme]], [[Organization/Government_Organization|GovernmentOrganization]], [[Organization/Library_System|LibrarySystem]], [[Organization/Business/Local_Business|LocalBusiness]], [[Organization/Medical_Organization|MedicalOrganization]], [[Organization/NGO(Non-Government-Org)|NGO]], [[Organization/News_Media_Organization|NewsMediaOrganization]], [[Organization/Business/Online_Business|OnlineBusiness]], [[Organization/Performing_Group|PerformingGroup]], [[Organization/Project|Project]], [[Organization/Research_Organization|ResearchOrganization]], [[Organization/Search_Rescue_Organization|SearchRescueOrganization]], [[Organization/Sports_Organization|SportsOrganization]], [[Organization/Workers_Union|WorkersUnion]] ]"
-  properties: "[ [[../../../schema-org/Relation/has/has_actionable_feedback_policy|actionableFeedbackPolicy]], [[../../../schema-org/Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../Property/has_geo/has_location_address|address]], [[../../../schema-org/Relation/has/has_aggregate_rating|aggregateRating]], [[../../Property/Texts/has_alternate_name|alternateName]], [[../../../schema-org/Relation/has/has_alumni|alumni]], [[../../../schema-org/Relation/has/has_area_served|areaServed]], [[../../../schema-org/Property/Texts/has_award|award]], [[../../../schema-org/Relation/has/has_brand|brand]], [[../../../schema-org/Relation/has/has_contact_point|contactPoint]], [[../../../schema-org/Relation/has/has_corrections_policy|correctionsPolicy]], [[../../../schema-org/Relation/has/has_department|department]], [[../../../schema-org/Property/Texts/has_description|description]], [[../../../schema-org/Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../schema-org/Property/has_Date_Time/has_time_of_dissolution|dissolutionDate]], [[../../../schema-org/Relation/has/has_diversity_policy|diversityPolicy]], [[../../../schema-org/Relation/has/has_diversity_staffing_report|diversityStaffingReport]], [[../../Property/Texts/has_duns|duns]], [[../../../schema-org/Property/Texts/has_email|email]], [[../../../schema-org/Relation/has/has_employee|employee]], [[../../../schema-org/Relation/has/has_ethics_policy|ethicsPolicy]], [[../../../schema-org/Relation/has/has_event|event]], [[../../../schema-org/Property/Texts/has_fax_number|faxNumber]], [[../../../schema-org/Relation/has/has_founder|founder]], [[../../../schema-org/Property/has_Date_Time/has_time_founded|foundingDate]], [[../../Property/has_geo/has_location_founding|foundingLocation]], [[../../../schema-org/Relation/has/has_funder|funder]], [[../../../schema-org/Relation/has/has_funding|funding]], [[../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../../schema-org/Relation/has/has_credential|hasCredential]], [[../../../schema-org/Relation/has/has_merchant_return_policy|hasMerchantReturnPolicy]], [[../../../schema-org/Relation/has/has_offer_catalog|hasOfferCatalog]], [[../../Property/has_geo/has_location_POS|hasPOS]], hasProductReturnPolicy, [[../../../schema-org/Relation/has/has_identifier|identifier]], [[../../../schema-org/Relation/has/has_image|image]], [[../../../schema-org/Relation/has/has_interaction_statistic|interactionStatistic]], [[../../../schema-org/Property/Texts/has_isic_v4|isicV4]], [[../../Property/Texts/has_iso6523code|iso6523Code]], [[../../../schema-org/Relation/has/has_keywords|keywords]], [[../../../schema-org/Property/Texts/has_knows_about|knowsAbout]], [[../../../schema-org/Relation/is/is_knowing_language|knowsLanguage]], [[../../Property/Texts/has_legal_name|legalName]], [[../../Property/Texts/has_lei_code|leiCode]], [[../../Property/has_geo/has_location_|location]], [[../../../schema-org/Relation/has/has_logo|logo]], [[../../../schema-org/Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../schema-org/Relation/is/is_making_offer|makesOffer]], [[../../../schema-org/Relation/has/has_member|member]], [[../../../schema-org/Relation/is/is_member_of|memberOf]], [[../../../schema-org/Property/Texts/has_naics|naics]], [[../../Property/Texts/has_name|name]], [[../../../schema-org/Relation/has/has_nonprofit_status|nonprofitStatus]], [[../../../schema-org/Property/has_number_of/has_number_of_employees|numberOfEmployees]], [[../../../schema-org/Relation/has/has_ownership_funding_info|ownershipFundingInfo]], [[../../../schema-org/Relation/has/has_own|owns]], [[../../../schema-org/Relation/has/has_parent_organization|parentOrganization]], [[../../../schema-org/Relation/has/has_potential_action|potentialAction]], [[../../../schema-org/Relation/has/has_publishing_principles|publishingPrinciples]], [[../../../schema-org/Relation/has/has_review|review]], [[../../../schema-org/Relation/is_same_as|sameAs]], [[../../../schema-org/Relation/has/has_demand_for|seeks]], [[../../Relation/has/has_service_area|serviceArea]], [[../../../schema-org/Property/Texts/has_slogan|slogan]], [[../../../schema-org/Relation/has/has_sponsor|sponsor]], [[../../../schema-org/Relation/has/has_child_organization|subOrganization]], [[../../../schema-org/Relation/is/is_subject_of|subjectOf]], [[../../Property/Texts/has_tax_id|taxID]], [[../../../schema-org/Property/Texts/has_telephone|telephone]], [[../../../schema-org/Relation/has/has_unnamed_sources_policy|unnamedSourcesPolicy]], [[../../../schema-org/Property/has_url_for|url]], [[../../Property/Texts/has_vat_id|vatID]] ]"
+  child_class: '[ [[Organization/Airline|Airline]], [[Organization/Consortium|Consortium]], [[Organization/Company/Corporation|Corporation]], [[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|EducationalOrganization]], [[Organization/Funding_Scheme|FundingScheme]], [[Organization/Government_Organization|GovernmentOrganization]], [[Organization/Library_System|LibrarySystem]], [[Organization/Business/Local_Business|LocalBusiness]], [[Organization/Medical_Organization|MedicalOrganization]], [[Organization/NGO(Non-Government-Org)|NGO]], [[Organization/News_Media_Organization|NewsMediaOrganization]], [[Organization/Business/Online_Business|OnlineBusiness]], [[Organization/Performing_Group|PerformingGroup]], [[Organization/Project|Project]], [[Organization/Research_Organization|ResearchOrganization]], [[Organization/Search_Rescue_Organization|SearchRescueOrganization]], [[Organization/Sports_Organization|SportsOrganization]], [[Organization/Workers_Union|WorkersUnion]] ]'
+  name_:
+    af: organisasie
+    ar: منظمة
+    arc: ܛܘܟܣܐ
+    arz: منظمه
+    as: সংগঠন
+    ast: organización
+    az: təşkilat
+    azb: تشکیلات
+    ba: ойошма
+    ban: Pasemetonan
+    bcl: Organisasyon
+    be: арганізацыя
+    be-tarask: арганізацыя
+    bew: Paguyuban
+    bg: организация
+    bho: "\U000110AE\U00011081\U0001108F\U00011098\U000110A2"
+    bn: সংগঠন
+    br: aozadur
+    bs: organizacija
+    ca: organització
+    ckb: ڕێکخراوە
+    cs: organizace
+    cv: Организаци
+    cy: sefydliad
+    da: organisation
+    dag: Laingu
+    de: Organisation
+    de-ch: Organisation
+    diq: Organizasyon
+    dsb: organizacija
+    el: οργανισμός
+    en: organization
+    en-ca: organization
+    en-gb: organisation
+    en-us: organization
+    eo: organizaĵo
+    es: organización
+    et: organisatsioon
+    eu: erakunde
+    fa: سازمان
+    fi: organisaatio
+    fj: Mataisoqosoqo
+    fo: felagsskapur
+    fr: organisation
+    frr: organisatsion
+    fy: organisaasje
+    ga: eagraíocht
+    gd: buidheann
+    gl: organización
+    gsw: Organisazion
+    gu: સંસ્થા
+    gv: reagheydys
+    ha: ma'aikata
+    hak: Kî-kèu
+    he: ארגון
+    hi: संगठन
+    hr: organizacija
+    hsb: organizacija
+    ht: òganizasyon
+    hu: szervezet
+    hy: կազմակերպություն
+    ia: organisation
+    id: organisasi
+    ig: otu
+    io: organizuro
+    is: samtök
+    it: organizzazione
+    ja: 組織
+    jv: organisasi
+    ka: ორგანიზაცია
+    kaa: shólkem
+    kab: Tuddsa
+    kk: ұйым
+    km: អង្គភាព
+    kn: ಸಂಘಟನೆ
+    ko: 단체
+    ks: تَنظیٖم
+    ku: rêxistin
+    ku-latn: rêxistin
+    kw: kowethyans
+    la: organizatio
+    lb: Organisatioun
+    lfn: organiza
+    lt: organizacija
+    lv: organizācija
+    mad: Organisasi
+    map-bms: organisasi
+    min: organisasi
+    mk: организација
+    ml: സംഘടന
+    mn: байгууллага
+    mr: संस्था
+    ms: pertubuhan
+    ms-arab: ڤرتوبوهن
+    mwl: Organizaçon
+    my: အဖွဲ့အစည်း
+    mzn: سازمان
+    nb: organisasjon
+    nds: Organisatschoon
+    nds-nl: organisasie
+    ne: संगठन
+    nl: organisatie
+    nn: organisasjon
+    nqo: ߛߌ߲߬ߝߏ߲߬ߘߊ
+    oc: organizacion
+    or: ସଂଗଠନ
+    os: организаци
+    pa: ਜਥੇਬੰਦੀ
+    pag: Ulupan
+    pcd: organisation
+    pl: organizacja
+    pnb: تنظیم
+    prg: ōrganizaciōni
+    ps: سازمان
+    pt: organização
+    pt-br: organização
+    qu: Tantanakuy
+    rm: organisaziun
+    ro: organizație
+    ru: организация
+    sah: Тэрилтэ
+    sat: ᱥᱮᱢᱞᱮᱫ
+    scn: assuciazzioni
+    sd: سنسٿا سنسٿا (آرگنائزيشن)
+    se: organisašuvdna
+    sh: organizacija
+    si: සංවිධානය
+    sk: organizácia
+    sl: organizacija
+    sm: Faʻalapotopotoga
+    sma: organisasjovne
+    smj: organisasjåvnnå
+    smn: organisaatio
+    sms: organisaatio
+    sq: organizatë
+    sr: организација
+    sr-ec: организација
+    stq: Organisation
+    su: Yayasan Kebudayaan Rancage
+    sv: organisation
+    sw: Asasi
+    szl: ôrganizacyjŏ
+    ta: அமைப்பு
+    te: సంస్థ
+    tg: созмон
+    tg-cyrl: ташкилот
+    th: องค์การ
+    tl: Organisasyon
+    tn: Okanaiseišene
+    tr: kuruluş
+    tt: оешма
+    tt-cyrl: оешма
+    udm: огазеяськон
+    uk: організація
+    ur: تنظیم
+    uz: tashkilot
+    vec: organizasion
+    vi: tổ chức
+    vls: Organisatie
+    wa: Organisation
+    war: Organisasyon
+    wuu: 组织 (社会学)
+    yi: ארגאניזאציע
+    yo: àgbájọ
+    yue: 組織
+    zh: 组织
+    zh-cn: 组织
+    zh-hans: 组织
+    zh-hant: 組織
+    zh-hk: 組織
+    zh-mo: 組織
+    zh-my: 组织
+    zh-sg: 组织
+    zh-tw: 組織
+  parent_class: '[Agent](Agent)'
+  properties: '[ [[../../../schema-org/Relation/has/has_actionable_feedback_policy|actionableFeedbackPolicy]], [[../../../schema-org/Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../Property/has_geo/has_location_address|address]], [[../../../schema-org/Relation/has/has_aggregate_rating|aggregateRating]], [[../../Property/Texts/has_alternate_name|alternateName]], [[../../../schema-org/Relation/has/has_alumni|alumni]], [[../../../schema-org/Relation/has/has_area_served|areaServed]], [[../../../schema-org/Property/Texts/has_award|award]], [[../../../schema-org/Relation/has/has_brand|brand]], [[../../../schema-org/Relation/has/has_contact_point|contactPoint]], [[../../../schema-org/Relation/has/has_corrections_policy|correctionsPolicy]], [[../../../schema-org/Relation/has/has_department|department]], [[../../../schema-org/Property/Texts/has_description|description]], [[../../../schema-org/Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../schema-org/Property/has_Date_Time/has_time_of_dissolution|dissolutionDate]], [[../../../schema-org/Relation/has/has_diversity_policy|diversityPolicy]], [[../../../schema-org/Relation/has/has_diversity_staffing_report|diversityStaffingReport]], [[../../Property/Texts/has_duns|duns]], [[../../../schema-org/Property/Texts/has_email|email]], [[../../../schema-org/Relation/has/has_employee|employee]], [[../../../schema-org/Relation/has/has_ethics_policy|ethicsPolicy]], [[../../../schema-org/Relation/has/has_event|event]], [[../../../schema-org/Property/Texts/has_fax_number|faxNumber]], [[../../../schema-org/Relation/has/has_founder|founder]], [[../../../schema-org/Property/has_Date_Time/has_time_founded|foundingDate]], [[../../Property/has_geo/has_location_founding|foundingLocation]], [[../../../schema-org/Relation/has/has_funder|funder]], [[../../../schema-org/Relation/has/has_funding|funding]], [[../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../../schema-org/Relation/has/has_credential|hasCredential]], [[../../../schema-org/Relation/has/has_merchant_return_policy|hasMerchantReturnPolicy]], [[../../../schema-org/Relation/has/has_offer_catalog|hasOfferCatalog]], [[../../Property/has_geo/has_location_POS|hasPOS]], hasProductReturnPolicy, [[../../../schema-org/Relation/has/has_identifier|identifier]], [[../../../schema-org/Relation/has/has_image|image]], [[../../../schema-org/Relation/has/has_interaction_statistic|interactionStatistic]], [[../../../schema-org/Property/Texts/has_isic_v4|isicV4]], [[../../Property/Texts/has_iso6523code|iso6523Code]], [[../../../schema-org/Relation/has/has_keywords|keywords]], [[../../../schema-org/Property/Texts/has_knows_about|knowsAbout]], [[../../../schema-org/Relation/is/is_knowing_language|knowsLanguage]], [[../../Property/Texts/has_legal_name|legalName]], [[../../Property/Texts/has_lei_code|leiCode]], [[../../Property/has_geo/has_location_|location]], [[../../../schema-org/Relation/has/has_logo|logo]], [[../../../schema-org/Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../schema-org/Relation/is/is_making_offer|makesOffer]], [[../../../schema-org/Relation/has/has_member|member]], [[../../../schema-org/Relation/is/is_member_of|memberOf]], [[../../../schema-org/Property/Texts/has_naics|naics]], [[../../Property/Texts/has_name|name]], [[../../../schema-org/Relation/has/has_nonprofit_status|nonprofitStatus]], [[../../../schema-org/Property/has_number_of/has_number_of_employees|numberOfEmployees]], [[../../../schema-org/Relation/has/has_ownership_funding_info|ownershipFundingInfo]], [[../../../schema-org/Relation/has/has_own|owns]], [[../../../schema-org/Relation/has/has_parent_organization|parentOrganization]], [[../../../schema-org/Relation/has/has_potential_action|potentialAction]], [[../../../schema-org/Relation/has/has_publishing_principles|publishingPrinciples]], [[../../../schema-org/Relation/has/has_review|review]], [[../../../schema-org/Relation/is_same_as|sameAs]], [[../../../schema-org/Relation/has/has_demand_for|seeks]], [[../../Relation/has/has_service_area|serviceArea]], [[../../../schema-org/Property/Texts/has_slogan|slogan]], [[../../../schema-org/Relation/has/has_sponsor|sponsor]], [[../../../schema-org/Relation/has/has_child_organization|subOrganization]], [[../../../schema-org/Relation/is/is_subject_of|subjectOf]], [[../../Property/Texts/has_tax_id|taxID]], [[../../../schema-org/Property/Texts/has_telephone|telephone]], [[../../../schema-org/Relation/has/has_unnamed_sources_policy|unnamedSourcesPolicy]], [[../../../schema-org/Property/has_url_for|url]], [[../../Property/Texts/has_vat_id|vatID]] ]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]"
-  - "[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]"
-  - "[[/_Standards/Society/Agent/Community/Organization|Organization]]"
-  - "[[/_public/Society/Agent/Community/Organization.public|Organization.public]]"
-  - "[[/_internal/Society/Agent/Community/Organization.internal|Organization.internal]]"
-  - "[[/_protect/Society/Agent/Community/Organization.protect|Organization.protect]]"
-  - "[[/_private/Society/Agent/Community/Organization.private|Organization.private]]"
-  - "[[/_personal/Society/Agent/Community/Organization.personal|Organization.personal]]"
-  - "[[/_secret/Society/Agent/Community/Organization.secret|Organization.secret]]"
-dv_has_parent_class: "[Agent](Agent)"
-dv_has_child_class: "[ [[Organization/Airline|Airline]], [[Organization/Consortium|Consortium]], [[Organization/Company/Corporation|Corporation]], [[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|EducationalOrganization]], [[Organization/Funding_Scheme|FundingScheme]], [[Organization/Government_Organization|GovernmentOrganization]], [[Organization/Library_System|LibrarySystem]], [[Organization/Business/Local_Business|LocalBusiness]], [[Organization/Medical_Organization|MedicalOrganization]], [[Organization/NGO(Non-Government-Org)|NGO]], [[Organization/News_Media_Organization|NewsMediaOrganization]], [[Organization/Business/Online_Business|OnlineBusiness]], [[Organization/Performing_Group|PerformingGroup]], [[Organization/Project|Project]], [[Organization/Research_Organization|ResearchOrganization]], [[Organization/Search_Rescue_Organization|SearchRescueOrganization]], [[Organization/Sports_Organization|SportsOrganization]], [[Organization/Workers_Union|WorkersUnion]] ]"
-dv_has_properties: "[ [[../../../schema-org/Relation/has/has_actionable_feedback_policy|actionableFeedbackPolicy]], [[../../../schema-org/Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../Property/has_geo/has_location_address|address]], [[../../../schema-org/Relation/has/has_aggregate_rating|aggregateRating]], [[../../Property/Texts/has_alternate_name|alternateName]], [[../../../schema-org/Relation/has/has_alumni|alumni]], [[../../../schema-org/Relation/has/has_area_served|areaServed]], [[../../../schema-org/Property/Texts/has_award|award]], [[../../../schema-org/Relation/has/has_brand|brand]], [[../../../schema-org/Relation/has/has_contact_point|contactPoint]], [[../../../schema-org/Relation/has/has_corrections_policy|correctionsPolicy]], [[../../../schema-org/Relation/has/has_department|department]], [[../../../schema-org/Property/Texts/has_description|description]], [[../../../schema-org/Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../schema-org/Property/has_Date_Time/has_time_of_dissolution|dissolutionDate]], [[../../../schema-org/Relation/has/has_diversity_policy|diversityPolicy]], [[../../../schema-org/Relation/has/has_diversity_staffing_report|diversityStaffingReport]], [[../../Property/Texts/has_duns|duns]], [[../../../schema-org/Property/Texts/has_email|email]], [[../../../schema-org/Relation/has/has_employee|employee]], [[../../../schema-org/Relation/has/has_ethics_policy|ethicsPolicy]], [[../../../schema-org/Relation/has/has_event|event]], [[../../../schema-org/Property/Texts/has_fax_number|faxNumber]], [[../../../schema-org/Relation/has/has_founder|founder]], [[../../../schema-org/Property/has_Date_Time/has_time_founded|foundingDate]], [[../../Property/has_geo/has_location_founding|foundingLocation]], [[../../../schema-org/Relation/has/has_funder|funder]], [[../../../schema-org/Relation/has/has_funding|funding]], [[../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../../schema-org/Relation/has/has_credential|hasCredential]], [[../../../schema-org/Relation/has/has_merchant_return_policy|hasMerchantReturnPolicy]], [[../../../schema-org/Relation/has/has_offer_catalog|hasOfferCatalog]], [[../../Property/has_geo/has_location_POS|hasPOS]], hasProductReturnPolicy, [[../../../schema-org/Relation/has/has_identifier|identifier]], [[../../../schema-org/Relation/has/has_image|image]], [[../../../schema-org/Relation/has/has_interaction_statistic|interactionStatistic]], [[../../../schema-org/Property/Texts/has_isic_v4|isicV4]], [[../../Property/Texts/has_iso6523code|iso6523Code]], [[../../../schema-org/Relation/has/has_keywords|keywords]], [[../../../schema-org/Property/Texts/has_knows_about|knowsAbout]], [[../../../schema-org/Relation/is/is_knowing_language|knowsLanguage]], [[../../Property/Texts/has_legal_name|legalName]], [[../../Property/Texts/has_lei_code|leiCode]], [[../../Property/has_geo/has_location_|location]], [[../../../schema-org/Relation/has/has_logo|logo]], [[../../../schema-org/Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../schema-org/Relation/is/is_making_offer|makesOffer]], [[../../../schema-org/Relation/has/has_member|member]], [[../../../schema-org/Relation/is/is_member_of|memberOf]], [[../../../schema-org/Property/Texts/has_naics|naics]], [[../../Property/Texts/has_name|name]], [[../../../schema-org/Relation/has/has_nonprofit_status|nonprofitStatus]], [[../../../schema-org/Property/has_number_of/has_number_of_employees|numberOfEmployees]], [[../../../schema-org/Relation/has/has_ownership_funding_info|ownershipFundingInfo]], [[../../../schema-org/Relation/has/has_own|owns]], [[../../../schema-org/Relation/has/has_parent_organization|parentOrganization]], [[../../../schema-org/Relation/has/has_potential_action|potentialAction]], [[../../../schema-org/Relation/has/has_publishing_principles|publishingPrinciples]], [[../../../schema-org/Relation/has/has_review|review]], [[../../../schema-org/Relation/is_same_as|sameAs]], [[../../../schema-org/Relation/has/has_demand_for|seeks]], [[../../Relation/has/has_service_area|serviceArea]], [[../../../schema-org/Property/Texts/has_slogan|slogan]], [[../../../schema-org/Relation/has/has_sponsor|sponsor]], [[../../../schema-org/Relation/has/has_child_organization|subOrganization]], [[../../../schema-org/Relation/is/is_subject_of|subjectOf]], [[../../Property/Texts/has_tax_id|taxID]], [[../../../schema-org/Property/Texts/has_telephone|telephone]], [[../../../schema-org/Relation/has/has_unnamed_sources_policy|unnamedSourcesPolicy]], [[../../../schema-org/Property/has_url_for|url]], [[../../Property/Texts/has_vat_id|vatID]] ]"
+- '[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]'
+- '[[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]'
+- '[[/_Standards/Society/Agent/Community/Organization|Organization]]'
+- '[[/_public/Society/Agent/Community/Organization.public|Organization.public]]'
+- '[[/_internal/Society/Agent/Community/Organization.internal|Organization.internal]]'
+- '[[/_protect/Society/Agent/Community/Organization.protect|Organization.protect]]'
+- '[[/_private/Society/Agent/Community/Organization.private|Organization.private]]'
+- '[[/_personal/Society/Agent/Community/Organization.personal|Organization.personal]]'
+- '[[/_secret/Society/Agent/Community/Organization.secret|Organization.secret]]'
+dv_has_parent_class: '[Agent](Agent)'
+dv_has_child_class: '[ [[Organization/Airline|Airline]], [[Organization/Consortium|Consortium]], [[Organization/Company/Corporation|Corporation]], [[../../../Earth/Geography/Place/Civic_Structure/Educational_Organization|EducationalOrganization]], [[Organization/Funding_Scheme|FundingScheme]], [[Organization/Government_Organization|GovernmentOrganization]], [[Organization/Library_System|LibrarySystem]], [[Organization/Business/Local_Business|LocalBusiness]], [[Organization/Medical_Organization|MedicalOrganization]], [[Organization/NGO(Non-Government-Org)|NGO]], [[Organization/News_Media_Organization|NewsMediaOrganization]], [[Organization/Business/Online_Business|OnlineBusiness]], [[Organization/Performing_Group|PerformingGroup]], [[Organization/Project|Project]], [[Organization/Research_Organization|ResearchOrganization]], [[Organization/Search_Rescue_Organization|SearchRescueOrganization]], [[Organization/Sports_Organization|SportsOrganization]], [[Organization/Workers_Union|WorkersUnion]] ]'
+dv_has_properties: '[ [[../../../schema-org/Relation/has/has_actionable_feedback_policy|actionableFeedbackPolicy]], [[../../../schema-org/Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../Property/has_geo/has_location_address|address]], [[../../../schema-org/Relation/has/has_aggregate_rating|aggregateRating]], [[../../Property/Texts/has_alternate_name|alternateName]], [[../../../schema-org/Relation/has/has_alumni|alumni]], [[../../../schema-org/Relation/has/has_area_served|areaServed]], [[../../../schema-org/Property/Texts/has_award|award]], [[../../../schema-org/Relation/has/has_brand|brand]], [[../../../schema-org/Relation/has/has_contact_point|contactPoint]], [[../../../schema-org/Relation/has/has_corrections_policy|correctionsPolicy]], [[../../../schema-org/Relation/has/has_department|department]], [[../../../schema-org/Property/Texts/has_description|description]], [[../../../schema-org/Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../schema-org/Property/has_Date_Time/has_time_of_dissolution|dissolutionDate]], [[../../../schema-org/Relation/has/has_diversity_policy|diversityPolicy]], [[../../../schema-org/Relation/has/has_diversity_staffing_report|diversityStaffingReport]], [[../../Property/Texts/has_duns|duns]], [[../../../schema-org/Property/Texts/has_email|email]], [[../../../schema-org/Relation/has/has_employee|employee]], [[../../../schema-org/Relation/has/has_ethics_policy|ethicsPolicy]], [[../../../schema-org/Relation/has/has_event|event]], [[../../../schema-org/Property/Texts/has_fax_number|faxNumber]], [[../../../schema-org/Relation/has/has_founder|founder]], [[../../../schema-org/Property/has_Date_Time/has_time_founded|foundingDate]], [[../../Property/has_geo/has_location_founding|foundingLocation]], [[../../../schema-org/Relation/has/has_funder|funder]], [[../../../schema-org/Relation/has/has_funding|funding]], [[../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../../schema-org/Relation/has/has_credential|hasCredential]], [[../../../schema-org/Relation/has/has_merchant_return_policy|hasMerchantReturnPolicy]], [[../../../schema-org/Relation/has/has_offer_catalog|hasOfferCatalog]], [[../../Property/has_geo/has_location_POS|hasPOS]], hasProductReturnPolicy, [[../../../schema-org/Relation/has/has_identifier|identifier]], [[../../../schema-org/Relation/has/has_image|image]], [[../../../schema-org/Relation/has/has_interaction_statistic|interactionStatistic]], [[../../../schema-org/Property/Texts/has_isic_v4|isicV4]], [[../../Property/Texts/has_iso6523code|iso6523Code]], [[../../../schema-org/Relation/has/has_keywords|keywords]], [[../../../schema-org/Property/Texts/has_knows_about|knowsAbout]], [[../../../schema-org/Relation/is/is_knowing_language|knowsLanguage]], [[../../Property/Texts/has_legal_name|legalName]], [[../../Property/Texts/has_lei_code|leiCode]], [[../../Property/has_geo/has_location_|location]], [[../../../schema-org/Relation/has/has_logo|logo]], [[../../../schema-org/Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../schema-org/Relation/is/is_making_offer|makesOffer]], [[../../../schema-org/Relation/has/has_member|member]], [[../../../schema-org/Relation/is/is_member_of|memberOf]], [[../../../schema-org/Property/Texts/has_naics|naics]], [[../../Property/Texts/has_name|name]], [[../../../schema-org/Relation/has/has_nonprofit_status|nonprofitStatus]], [[../../../schema-org/Property/has_number_of/has_number_of_employees|numberOfEmployees]], [[../../../schema-org/Relation/has/has_ownership_funding_info|ownershipFundingInfo]], [[../../../schema-org/Relation/has/has_own|owns]], [[../../../schema-org/Relation/has/has_parent_organization|parentOrganization]], [[../../../schema-org/Relation/has/has_potential_action|potentialAction]], [[../../../schema-org/Relation/has/has_publishing_principles|publishingPrinciples]], [[../../../schema-org/Relation/has/has_review|review]], [[../../../schema-org/Relation/is_same_as|sameAs]], [[../../../schema-org/Relation/has/has_demand_for|seeks]], [[../../Relation/has/has_service_area|serviceArea]], [[../../../schema-org/Property/Texts/has_slogan|slogan]], [[../../../schema-org/Relation/has/has_sponsor|sponsor]], [[../../../schema-org/Relation/has/has_child_organization|subOrganization]], [[../../../schema-org/Relation/is/is_subject_of|subjectOf]], [[../../Property/Texts/has_tax_id|taxID]], [[../../../schema-org/Property/Texts/has_telephone|telephone]], [[../../../schema-org/Relation/has/has_unnamed_sources_policy|unnamedSourcesPolicy]], [[../../../schema-org/Property/has_url_for|url]], [[../../Property/Texts/has_vat_id|vatID]] ]'
 ---
-
 # [[Organization]]
 
 #is_/same_as :: [[../../../WikiData/WD~Organization,43229|WD~Organization,43229]]

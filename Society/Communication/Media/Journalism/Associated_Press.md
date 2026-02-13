@@ -1,63 +1,91 @@
 ---
-has_time_started: 1846-05-22 
+has_time_started: 1846-05-22
 aliases:
-  - Associated_Press
-  - Associated Press
+- AP
+- AP通信
+- Associated Press
+- Associated_Press
+- Assoshieyted press
+- Bí-liân-siā
+- Ασοσιέιτεντ Πρες
+- Асошијетед прес
+- Асошиејтед прес
+- Асошиейтед Прес
+- Ассошіейтед прес
+- Ассошиэйтед Пресс
+- Ассошиэйтед Пресс агенттігі
+- Ասսոշեյթեդ պրես
+- Էսոշիէյթըտ Փրես
+- آسوشیتد پرس
+- أسوشيتد برس
+- ئەسۆوشیەیتید پرێس
+- اسوشيتد برس
+- ایسوسی ایٹڈ پریس
+- އެސޯސިއޭޓެޑް ޕްރެސް
+- एसोसिएटेड प्रेस
+- অ্যাসোসিয়েটেড প্রেস
+- ਐਸੋਸੀਏਟਿਡ ਪ੍ਰੈਸ
+- அசோசியேட்டட் பிரெசு
+- അസോസിയേറ്റഡ് പ്രസ്
+- แอสโซซิเอเต็ดเพรส
+- សមាគមន៍សារព័ត៌មាន
+- 美联社
+- 美聯社
 has_id_wikidata: Q40469
 ISNI:
-  - 0000000110915720
-  - 0000000094660552
+- 0000000110915720
+- 0000000094660552
 Minitel_code: 3615 APNEWS
 PermID: 4298499928
 Legal_Entity_Identifier: 549300JTLJBPW24WC760
 P8189: 987007257933805171
 Instagram_username:
-  - ap.images
-  - apnews
+- ap.images
+- apnews
 Threads_username: apnews
 Facebook_username: APNews
 Libris_URI: khwzw4f33qzc4s6
 domain_name: apnews.com
 Bluesky_handle: apnews.com
 instance_of:
-  - '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
-  - '[[_Standards/WikiData/WD~news_agency,192283]]'
-  - '[[_Standards/WikiData/WD~photo_agency,860572]]'
+- '[[_Standards/WikiData/WD~nonprofit_organization,163740]]'
+- '[[_Standards/WikiData/WD~news_agency,192283]]'
+- '[[_Standards/WikiData/WD~photo_agency,860572]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
-  - '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
-  - '[[_Standards/WikiData/WD~Freedom_Museum,1869397]]'
-  - '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
-  - '[[_Standards/WikiData/WD~Resistance_Museum_Friesland,56460664]]'
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Photography_Collection,105026832]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~San_Francisco_Museum_of_Modern_Art,913672]]'
+- '[[_Standards/WikiData/WD~Het_Scheepvaartmuseum,1616123]]'
+- '[[_Standards/WikiData/WD~Freedom_Museum,1869397]]'
+- '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
+- '[[_Standards/WikiData/WD~Resistance_Museum_Friesland,56460664]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Photography_Collection,105026832]]'
 industry:
-  - '[[_Standards/WikiData/WD~news_media,1193236]]'
-  - '[[_Standards/WikiData/WD~media_industry,56611639]]'
+- '[[_Standards/WikiData/WD~news_media,1193236]]'
+- '[[_Standards/WikiData/WD~media_industry,56611639]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]'
-  - '[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]'
+- '[[_Standards/WikiData/WD~Inter_American_Press_Association,1626261]]'
+- '[[_Standards/WikiData/WD~Virginia_Press_Association,117804432]]'
 child_organization_unit:
-  - '[[_Standards/WikiData/WD~Associated_Press_Television_News,4809226]]'
-  - '[[_Standards/WikiData/WD~Associated_Press_NORC_Center_for_Public_Affairs_Research,114859757]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Television_News,4809226]]'
+- '[[_Standards/WikiData/WD~Associated_Press_NORC_Center_for_Public_Affairs_Research,114859757]]'
 chairperson: '[[_Standards/WikiData/WD~Gracia_Martore,5591496]]'
 political_alignment: '[[_Standards/WikiData/WD~centrism,6587194]]'
 award_received: '[[_Standards/WikiData/WD~Worth_Bingham_Prize,8037157]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Invision_Agency,16997252]]'
-  - '[[_Standards/WikiData/WD~NewsRight,17144885]]'
-  - '[[_Standards/WikiData/WD~AP_Archive,113378640]]'
+- '[[_Standards/WikiData/WD~Invision_Agency,16997252]]'
+- '[[_Standards/WikiData/WD~NewsRight,17144885]]'
+- '[[_Standards/WikiData/WD~AP_Archive,113378640]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Associated_Press_article,87849013]]'
-  - '[[_Standards/WikiData/WD~Associated_Press_news_dispatch,111239348]]'
+- '[[_Standards/WikiData/WD~Associated_Press_article,87849013]]'
+- '[[_Standards/WikiData/WD~Associated_Press_news_dispatch,111239348]]'
 chief_executive_officer: '[[_Standards/WikiData/WD~Daisy_Veerasingham,107956622]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
-  - '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
+- '[[_Standards/WikiData/WD~Wikiproject_Oorlogsbronnen,118404701]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~Scheepvaartmuseum_Wikidataproject,132231248]]'
 legal_form: '[[_Standards/WikiData/WD~Q130264583,130264583]]'
 inception: 1846-05-22T00:00:00Z
 country: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -66,8 +94,8 @@ place_of_publication: '[[_Standards/WikiData/WD~New_York_City,60]]'
 headquarters_locations: '[[_Standards/WikiData/WD~New_York_City,60]]'
 occupation: '[[_Standards/WikiData/WD~photographer,33231]]'
 social_media_followers:
-  - 3500000
-  - 15965268
+- 3500000
+- 15965268
 product_or_material_produced: '[[_Standards/WikiData/WD~news,38926]]'
 short_name: AP
 Commons_category: Associated Press
@@ -81,8 +109,96 @@ described_at_URL: http://www.loc.gov/rr/print/res/155_wide.html
 official_website: https://apnews.com
 privacy_policy_URL: https://apnews.com/privacystatement
 terms_of_service_URL: https://apnews.com/termsofservice
+dv_has_:
+  name_:
+    ar: أسوشيتد برس
+    arz: اسوشيتد برس
+    ast: Associated Press
+    az: Associated Press
+    azb: آسوشیتد پرس
+    ba: Ассошиэйтед Пресс
+    be: Associated Press
+    be-tarask: Associated Press
+    bg: Асошиейтед Прес
+    bn: অ্যাসোসিয়েটেড প্রেস
+    ca: Associated Press
+    ckb: ئەسۆوشیەیتید پرێس
+    cs: Associated Press
+    cv: Ассошиэйтед Пресс
+    cy: Associated Press
+    da: Associated Press
+    de: Associated Press
+    dv: އެސޯސިއޭޓެޑް ޕްރެސް
+    el: Ασοσιέιτεντ Πρες
+    en: Associated Press
+    en-gb: Associated Press
+    eo: Associated Press
+    es: Associated Press
+    et: Associated Press
+    eu: Associated Press
+    fa: آسوشیتد پرس
+    fi: Associated Press
+    fr: Associated Press
+    fy: Associated Press
+    gl: Associated Press
+    he: Associated Press
+    hi: एसोसिएटेड प्रेस
+    hr: Associated Press
+    hu: Associated Press
+    hy: Ասսոշեյթեդ պրես
+    hyw: Էսոշիէյթըտ Փրես
+    id: Associated Press
+    io: Associated Press
+    it: Associated Press
+    ja: AP通信
+    jv: Associated Press
+    ka: Associated Press
+    kk: Ассошиэйтед Пресс агенттігі
+    km: សមាគមន៍សារព័ត៌មាន
+    ko: AP
+    ku: Associated Press
+    lt: Associated Press
+    lv: Associated Press
+    mg: Associated Press
+    mk: Асошиејтед прес
+    ml: അസോസിയേറ്റഡ് പ്രസ്
+    ms: Associated Press
+    mul: Associated Press
+    nan: Bí-liân-siā
+    nb: Associated Press
+    nl: Associated Press
+    nn: Associated Press
+    oc: Associated Press
+    pa: ਐਸੋਸੀਏਟਿਡ ਪ੍ਰੈਸ
+    pl: Associated Press
+    pnb: ایسوسی ایٹڈ پریس
+    pt: Associated Press
+    ro: Associated Press
+    ru: Ассошиэйтед Пресс
+    sco: Associated Press
+    sh: Associated Press
+    sk: Associated Press
+    sl: Associated Press
+    sq: Associated Press
+    sr: Асошијетед прес
+    sv: Associated Press
+    ta: அசோசியேட்டட் பிரெசு
+    tg: Ассошиэйтед Пресс
+    th: แอสโซซิเอเต็ดเพรส
+    tr: Associated Press
+    uk: Ассошіейтед прес
+    ur: ایسوسی ایٹڈ پریس
+    uz: Assoshieyted press
+    vi: Associated Press
+    wuu: 美联社
+    yi: AP
+    yue: 美聯社
+    zh: 美联社
+    zh-cn: 美联社
+    zh-hans: 美联社
+    zh-hk: 美聯社
+    zh-tw: 美聯社
 ---
-
 # [[Associated_Press]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Associated_Press,40469|WD~Associated_Press,40469]] 

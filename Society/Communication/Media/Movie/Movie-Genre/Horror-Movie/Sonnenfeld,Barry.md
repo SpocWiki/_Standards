@@ -1,9 +1,91 @@
 ---
 aliases:
-  - Barry Sonnenfeld
-  - Sonnenfeld,Barry
+- Barri Zonnenfeld
+- Barry Sonnenfeld
+- Berijs Sonenfelds
+- Sonnenfeld,Barry
+- Μπάρι Σόνενφελντ
+- Бари Зоненфелд
+- Баррі Зонненфельд
+- Барри Зонненфельд
+- Бары Зоненфельд
+- Бары Сонэнфэлд
+- Բարրի Զոնենֆելդ
+- בארי זוננפלד
+- بارى سونيدفيلد
+- باري سونينفيلد
+- باری سۆنێنفیڵد
+- بری ساننفلد
+- बैरी सोनेनफेल्ड
+- バリー・ソネンフェルド
+- 巴利·辛連菲
+- 巴里·索南菲尔德
+- 巴里·索南菲爾德
+- 배리 소넌펠드
+has_id_wikidata: Q317567
+dv_has_:
+  name_:
+    an: Barry Sonnenfeld
+    ar: باري سونينفيلد
+    arz: بارى سونيدفيلد
+    ast: Barry Sonnenfeld
+    az: Barri Zonnenfeld
+    be: Бары Зоненфельд
+    be-tarask: Бары Сонэнфэлд
+    bg: Бари Зоненфелд
+    bs: Barry Sonnenfeld
+    ca: Barry Sonnenfeld
+    ckb: باری سۆنێنفیڵد
+    cs: Barry Sonnenfeld
+    cy: Barry Sonnenfeld
+    da: Barry Sonnenfeld
+    de: Barry Sonnenfeld
+    el: Μπάρι Σόνενφελντ
+    en: Barry Sonnenfeld
+    es: Barry Sonnenfeld
+    et: Barry Sonnenfeld
+    eu: Barry Sonnenfeld
+    fa: بری ساننفلد
+    fi: Barry Sonnenfeld
+    fr: Barry Sonnenfeld
+    ga: Barry Sonnenfeld
+    gl: Barry Sonnenfeld
+    he: בארי זוננפלד
+    hi: बैरी सोनेनफेल्ड
+    hr: Barry Sonnenfeld
+    hu: Barry Sonnenfeld
+    hy: Բարրի Զոնենֆելդ
+    it: Barry Sonnenfeld
+    ja: バリー・ソネンフェルド
+    ko: 배리 소넌펠드
+    lv: Berijs Sonenfelds
+    mg: Barry Sonnenfeld
+    mul: Barry Sonnenfeld
+    nb: Barry Sonnenfeld
+    nl: Barry Sonnenfeld
+    nn: Barry Sonnenfeld
+    pap: Barry Sonnenfeld
+    pl: Barry Sonnenfeld
+    pt: Barry Sonnenfeld
+    pt-br: Barry Sonnenfeld
+    ro: Barry Sonnenfeld
+    ru: Барри Зонненфельд
+    sco: Barry Sonnenfeld
+    sk: Barry Sonnenfeld
+    sl: Barry Sonnenfeld
+    sq: Barry Sonnenfeld
+    sv: Barry Sonnenfeld
+    tr: Barry Sonnenfeld
+    uk: Баррі Зонненфельд
+    yo: Barry Sonnenfeld
+    zh: 巴里·索南菲尔德
+    zh-cn: 巴里·索南菲尔德
+    zh-hans: 巴里·索南菲尔德
+    zh-hant: 巴里·索南菲爾德
+    zh-hk: 巴利·辛連菲
+    zh-sg: 巴里·索南菲尔德
+    zh-tw: 巴里·索南菲爾德
 ---
-
 #has_/time_/started :: 1953-04-01 
 Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/60/1000)`
 

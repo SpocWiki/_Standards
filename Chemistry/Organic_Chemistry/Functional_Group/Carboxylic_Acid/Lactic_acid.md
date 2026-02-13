@@ -1,61 +1,125 @@
 ---
 aliases:
-  - Milchsäure
-  - Lactic_acid
-  - Lactic acid
+- 2-υδροξυπροπανικό οξύ
+- acid lactic
+- acide lactique
+- Acidi Laktik
+- acido lattico
+- Acidum lacticum
+- Aigéad lachtach
+- Aksido Lactico
+- Asam laktat
+- Asem laktat
+- asid lactig
+- asid laktik
+- axit lactic
+- Azido laktiko
+- C₃H₆O₃
+- DL-lactic acid
+- DL-mjølkesyre
+- kwas mlekowy
+- Kyselina mliečna
+- kyselina mléčná
+- Lactic acid
+- Lactic_acid
+- laktata acido
+- Laktik asit
+- Maitohappo
+- melkesyre
+- Melkzuur
+- Milchsäure
+- mjólkursýra
+- mjölksyra
+- mlečna kislina
+- Mliječna kiselina
+- mælkesyre
+- Mëllechsaier
+- pieno rūgštis
+- pienskābe
+- Piimhape
+- Sut kislota
+- Süt qışqılı
+- tejsav
+- àcid làctic
+- ácido láctico
+- ácido lático
+- Ácidu láctico
+- малочная кіслата
+- малочная кісьля
+- Млечна киселина
+- млијечна киселина
+- молочна кислота
+- молочная кислота
+- Сĕт йӳçекĕ
+- Сүт қышқылы
+- Կաթնաթթու
+- חומצה לקטית
+- اسید لاکتیک
+- حمض اللبنيك
+- لیکٹک ایسڈ
+- ٴسۇت قىشقىلى
+- लैक्टिक अम्ल
+- ল্যাকটিক অ্যাসিড
+- லாக்டிக் அமிலம்
+- లాక్టికామ్లం
+- ലാക്റ്റിക് ആസിഡ്
+- กรดแล็กติก
+- რძემჟავა
+- 乳酸
+- 젖산
 has_id_wikidata: Q161249
 SPLASH:
-  - splash10-0002-9000000000-6b805941ef8da414e517
-  - splash10-000i-9000000000-32a7c59ca2c276cf73a6
-  - splash10-00kb-0900000000-31df199e59f138c8cc73
-  - splash10-014i-1900000000-e4b0458c1830f2273dbf
+- splash10-0002-9000000000-6b805941ef8da414e517
+- splash10-000i-9000000000-32a7c59ca2c276cf73a6
+- splash10-00kb-0900000000-31df199e59f138c8cc73
+- splash10-014i-1900000000-e4b0458c1830f2273dbf
 found_in_taxon:
-  - "[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]"
-  - "[[_Standards/WikiData/WD~Festuca_arundinacea,157922]]"
-  - "[[_Standards/WikiData/WD~Sambucus_ebulus,158515]]"
-  - "[[_Standards/WikiData/WD~Festuca_rubra,159702]]"
-  - "[[_Standards/WikiData/WD~Lupinus_luteus,159751]]"
-  - "[[_Standards/WikiData/WD~Rhodiola_rosea,161665]]"
-  - "[[_Standards/WikiData/WD~Chlamydomonas_reinhardtii,291827]]"
-  - "[[_Standards/WikiData/WD~Arbutus_unedo,329046]]"
-  - "[[_Standards/WikiData/WD~Daphnia_magna,672531]]"
-  - "[[_Standards/WikiData/WD~Lymnaea_stagnalis,911251]]"
-  - "[[_Standards/WikiData/WD~Sophora_lehmannii,15539580]]"
-  - "[[_Standards/WikiData/WD~Sophora_lehmanni,104250341]]"
-  - "[[_Standards/WikiData/WD~Sambucus_nigra,22701]]"
-  - "[[_Standards/WikiData/WD~Escherichia_coli,25419]]"
-  - "[[_Standards/WikiData/WD~Leucaena_leucocephala,35905]]"
+- '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
+- '[[_Standards/WikiData/WD~Festuca_arundinacea,157922]]'
+- '[[_Standards/WikiData/WD~Sambucus_ebulus,158515]]'
+- '[[_Standards/WikiData/WD~Festuca_rubra,159702]]'
+- '[[_Standards/WikiData/WD~Lupinus_luteus,159751]]'
+- '[[_Standards/WikiData/WD~Rhodiola_rosea,161665]]'
+- '[[_Standards/WikiData/WD~Chlamydomonas_reinhardtii,291827]]'
+- '[[_Standards/WikiData/WD~Arbutus_unedo,329046]]'
+- '[[_Standards/WikiData/WD~Daphnia_magna,672531]]'
+- '[[_Standards/WikiData/WD~Lymnaea_stagnalis,911251]]'
+- '[[_Standards/WikiData/WD~Sophora_lehmannii,15539580]]'
+- '[[_Standards/WikiData/WD~Sophora_lehmanni,104250341]]'
+- '[[_Standards/WikiData/WD~Sambucus_nigra,22701]]'
+- '[[_Standards/WikiData/WD~Escherichia_coli,25419]]'
+- '[[_Standards/WikiData/WD~Leucaena_leucocephala,35905]]'
 medical_condition_treated:
-  - "[[_Standards/WikiData/WD~dermatitis,229256]]"
-  - "[[_Standards/WikiData/WD~facial_dermatosis,18555301]]"
+- '[[_Standards/WikiData/WD~dermatitis,229256]]'
+- '[[_Standards/WikiData/WD~facial_dermatosis,18555301]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~fatty_alcohol,378871]]"
-  - "[[_Standards/WikiData/WD~alpha_hydroxy_acid,413302]]"
-  - "[[_Standards/WikiData/WD~hydroxy_fatty_acid,40211102]]"
+- '[[_Standards/WikiData/WD~fatty_alcohol,378871]]'
+- '[[_Standards/WikiData/WD~alpha_hydroxy_acid,413302]]'
+- '[[_Standards/WikiData/WD~hydroxy_fatty_acid,40211102]]'
 monomer_of:
-  - "[[_Standards/WikiData/WD~polylactic_acid,413769]]"
-  - "[[_Standards/WikiData/WD~PLGA,2102907]]"
+- '[[_Standards/WikiData/WD~polylactic_acid,413769]]'
+- '[[_Standards/WikiData/WD~PLGA,2102907]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 has_use:
-  - "[[_Standards/WikiData/WD~acidity_regulator,898753]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-conjugate_base: "[[_Standards/WikiData/WD~DL_lactate_ion,27895931]]"
-instance_of: "[[_Standards/WikiData/WD~group_of_stereoisomers,59199015]]"
+- '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
+conjugate_base: '[[_Standards/WikiData/WD~DL_lactate_ion,27895931]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_stereoisomers,59199015]]'
 mass: 90.031694
 UNII:
-  - 3B8D35Y7S4
-  - 33X04XA5AT
+- 3B8D35Y7S4
+- 33X04XA5AT
 PubChem_CID:
-  - 612
-  - 19789253
+- 612
+- 19789253
 RxNorm_CUI:
-  - 28393
-  - 1314409
+- 28393
+- 1314409
 CosIng_number: 34809
 JECFA_number: 930
 ZVG_number: 13000
@@ -70,10 +134,10 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lactic_ac
 EC_number: 200-018-0
 CAS_Registry_Number: 50-21-5
 Dewey_Decimal_Classification:
-  - 572.5654
-  - 612.396
-  - 615.7637
-  - 664.06
+- 572.5654
+- 612.396
+- 615.7637
+- 664.06
 Reaxys_registry_number: 8897340
 canonical_SMILES: CC(C(=O)O)O
 MeSH_tree_code: D02.241.511.459.450
@@ -83,28 +147,117 @@ Commons_category: Lactic acid
 dv_has_:
   formula_:
     sum: C3H6O3
+  name_:
+    ar: حمض اللبنيك
+    ast: Ácidu láctico
+    azb: اسید لاکتیک
+    be: малочная кіслата
+    be-tarask: малочная кісьля
+    bg: Млечна киселина
+    bn: ল্যাকটিক অ্যাসিড
+    bs: Mliječna kiselina
+    ca: àcid làctic
+    cs: kyselina mléčná
+    cv: Сĕт йӳçекĕ
+    cy: asid lactig
+    da: mælkesyre
+    de: Milchsäure
+    el: 2-υδροξυπροπανικό οξύ
+    en: DL-lactic acid
+    eo: laktata acido
+    es: ácido láctico
+    et: Piimhape
+    eu: Azido laktiko
+    fa: اسید لاکتیک
+    fi: Maitohappo
+    fr: acide lactique
+    ga: Aigéad lachtach
+    gl: Ácido láctico
+    he: חומצה לקטית
+    hi: लैक्टिक अम्ल
+    hr: Mliječna kiselina
+    ht: asid laktik
+    hu: tejsav
+    hy: Կաթնաթթու
+    id: Asam laktat
+    is: mjólkursýra
+    it: acido lattico
+    ja: 乳酸
+    jv: Asem laktat
+    ka: რძემჟავა
+    kk: Сүт қышқылы
+    kk-arab: ٴسۇت قىشقىلى
+    kk-cn: ٴسۇت قىشقىلى
+    kk-cyrl: Сүт қышқылы
+    kk-kz: Сүт қышқылы
+    kk-latn: Süt qışqılı
+    kk-tr: Süt qışqılı
+    ko: 젖산
+    la: Acidum lacticum
+    lb: Mëllechsaier
+    lt: pieno rūgštis
+    lv: pienskābe
+    mk: Млечна киселина
+    ml: ലാക്റ്റിക് ആസിഡ്
+    ms: Asid laktik
+    mul: C₃H₆O₃
+    nb: melkesyre
+    nl: Melkzuur
+    nn: DL-mjølkesyre
+    oc: acid lactic
+    pl: kwas mlekowy
+    pt: Ácido láctico
+    pt-br: ácido lático
+    ro: Acid lactic
+    ru: молочная кислота
+    sh: Mliječna kiselina
+    sk: Kyselina mliečna
+    sl: mlečna kislina
+    sq: Acidi Laktik
+    sr: млијечна киселина
+    sr-ec: Млијечна киселина
+    sr-el: Mliječna kiselina
+    su: Asam laktat
+    sv: mjölksyra
+    ta: லாக்டிக் அமிலம்
+    te: లాక్టికామ్లం
+    th: กรดแล็กติก
+    tr: Laktik asit
+    uk: молочна кислота
+    ur: لیکٹک ایسڈ
+    uz: Sut kislota
+    vi: axit lactic
+    war: Aksido Lactico
+    wuu: 乳酸
+    yue: 乳酸
+    zh: 乳酸
+    zh-cn: 乳酸
+    zh-hans: 乳酸
+    zh-hant: 乳酸
+    zh-hk: 乳酸
+    zh-sg: 乳酸
+    zh-tw: 乳酸
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]]"
+  - '[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]]'
 dv_has_formula_sum: C3H6O3
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]]"
+- '[[../../../../WikiData/WD~DL-lactic_acid,161249|WD~DL-lactic_acid,161249]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid|Lactic_acid]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.public|Lactic_acid.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.internal|Lactic_acid.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.protect|Lactic_acid.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.private|Lactic_acid.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.personal|Lactic_acid.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Lactic_acid.secret|Lactic_acid.secret]]'
 ---
-
 # [[Lactic_acid]] 
 
 has_formula_sum = `=this.dv_has_formula_sum` 

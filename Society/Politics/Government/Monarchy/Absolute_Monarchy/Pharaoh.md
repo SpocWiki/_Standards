@@ -1,53 +1,270 @@
 ---
 aliases:
+- faarao
+- Fara'oona
+- faragħun
+- farao
+- Faraoi
+- faraon
+- faraonas
+- faraone
+- Faraoni
+- faraono
+- Faraono di Egiptia
+- faraons
+- Farauni
+- Farawon
+- faraó
+- Faraón
+- Faraõ
+- Faro
+- faró
+- Ferauna paraoh
+- Fero
+- Fir'aun
+- firaun
+- firavun
+- Fircoon
+- Firon
+- Firʼavn
+- fárao
+- fáraó
+- Fáráò
+- Fîrewn
+- Hoat-ló
+- Ifrɛunen
+- Paraon
+- Pharao
+- pharaoh
+- Pharaon
+- Pharo
+- phàraoh
+- Pirangon
+- vaarao
+- Φαραώ
+- Перғауын
+- ПирӀун
+- фараон
+- Фараонсь
+- Фиръавн
+- ФиръӀов
+- Фирғәүен
+- Փարավոն
+- Փարաւոն
+- פרעה
+- فرعون
+- فرعون مصر
+- فىرئەۋىن
+- فِرعوٗن
+- فیرعەون
+- फॅरो
+- फैरो
+- ফারাও
+- ফাৰাও
+- ਫ਼ਿਰਔਨ
+- பாரோ
+- ఫరో
+- ഫറവോ
+- පාරාවෝ
+- ฟาโรห์
+- ფარაონი
+- ፈርዖን
+- ផារ៉ាអុង
+- ファラオ
+- 法老
+- 法老王
+- ꠚꠦꠞꠣꠃꠘ
+- 파라오
+- "\U00010346\U00010330\U00010342\U00010330\U00010349"
 has_id_wikidata: Q37110
-has_list: "[[_Standards/WikiData/WD~list_of_pharaohs,189754]]"
+has_list: '[[_Standards/WikiData/WD~list_of_pharaohs,189754]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~noble_title,355567]]"
-  - "[[_Standards/WikiData/WD~historical_position,114962596]]"
+- '[[_Standards/WikiData/WD~noble_title,355567]]'
+- '[[_Standards/WikiData/WD~historical_position,114962596]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 said_to_be_the_same_as:
-  - "[[_Standards/WikiData/WD~Pharaohs_in_the_Bible,659203]]"
-  - "[[_Standards/WikiData/WD~Pharaoh_in_the_Quran,4484957]]"
+- '[[_Standards/WikiData/WD~Pharaohs_in_the_Bible,659203]]'
+- '[[_Standards/WikiData/WD~Pharaoh_in_the_Quran,4484957]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ruler,1097498]]"
-  - "[[_Standards/WikiData/WD~monarch,116]]"
+- '[[_Standards/WikiData/WD~ruler,1097498]]'
+- '[[_Standards/WikiData/WD~monarch,116]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Pharaoh,1310362]]"
-  - "[[_Standards/WikiData/WD~Pharaoh,2379553]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_pharaoh,5623769]]"
+- '[[_Standards/WikiData/WD~Pharaoh,1310362]]'
+- '[[_Standards/WikiData/WD~Pharaoh,2379553]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_pharaoh,5623769]]'
 start_time: -3149-01-01T00:00:00Z
 end_time: -0029-01-01T00:00:00Z
-debut_participant: "[[_Standards/WikiData/WD~Bible,1845]]"
-applies_to_jurisdiction: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-country: "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-depicts: "[[_Standards/WikiData/WD~monarch,116]]"
-OmegaWiki_Defined_Meaning: "360920"
+debut_participant: '[[_Standards/WikiData/WD~Bible,1845]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+country: '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+depicts: '[[_Standards/WikiData/WD~monarch,116]]'
+OmegaWiki_Defined_Meaning: 360920
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pharaoh.svg
 Commons_category: Pharaohs
 female_form_of_label:
-  - faraona
-  - фараонка
-  - Pharaonin
-  - faraona
-  - faraonka
-  - Pharaonin
+- faraona
+- фараонка
+- Pharaonin
+- faraona
+- faraonka
+- Pharaonin
 native_label:
-  - ⲡⲣ̅ⲣⲟ
-  - Pharăo
-  - 𓆥
-  - 𓉐𓐰𓉻
+- ⲡⲣ̅ⲣⲟ
+- Pharăo
+- "\U000131A5"
+- "\U00013250\U00013430\U0001327B"
 male_form_of_label: Pharao
+dv_has_:
+  name_:
+    af: Farao
+    am: ፈርዖን
+    ann: Fero
+    ar: فرعون
+    arz: فرعون
+    as: ফাৰাও
+    ast: faraón
+    az: Firon
+    azb: فرعون
+    ba: Фирғәүен
+    be: фараон
+    be-tarask: фараон
+    bg: Фараон
+    bn: ফারাও
+    br: Faraon
+    bs: Faraon
+    ca: faraó
+    cdo: Pharaoh
+    ce: ПирӀун
+    ceb: Paraon
+    ckb: فیرعەون
+    cs: faraon
+    cv: Фараон
+    cy: Pharo
+    da: Farao
+    de: Pharao
+    el: Φαραώ
+    en: pharaoh
+    en-ca: Pharaoh
+    en-gb: pharaoh
+    eo: faraono
+    es: faraón
+    et: vaarao
+    eu: Faraoi
+    fa: فرعون
+    ff: Ferauna paraoh
+    fi: faarao
+    fr: pharaon
+    fy: Farao
+    ga: faró
+    gd: phàraoh
+    gl: Faraón
+    gn: Faraõ
+    got: "\U00010346\U00010330\U00010342\U00010330\U00010349"
+    gsw: Pharao
+    gv: Pharaoh
+    ha: Pharaoh
+    he: פרעה
+    hi: फैरो
+    hr: faraon
+    ht: Farawon
+    hu: fáraó
+    hy: Փարավոն
+    hyw: Փարաւոն
+    ia: Pharaon
+    id: firaun
+    inh: ФиръӀов
+    io: Faraono di Egiptia
+    is: Faraó
+    it: faraone
+    ja: ファラオ
+    jv: Pirangon
+    ka: ფარაონი
+    kge: Fir'aun
+    kk: Перғауын
+    km: ផារ៉ាអុង
+    ko: 파라오
+    ks: فِرعوٗن
+    ku: Fîrewn
+    kw: Faro
+    ky: Фараон
+    la: Pharao
+    lb: Pharao
+    li: Farao
+    ln: Faraon
+    lt: faraonas
+    lv: faraons
+    mdf: Фараонсь
+    mg: Farao
+    mk: фараон
+    ml: ഫറവോ
+    mn: Фараон
+    mr: फॅरो
+    ms: firaun
+    mt: faragħun
+    nan: Hoat-ló
+    nb: farao
+    nds-nl: farao
+    nl: farao
+    nn: farao
+    oc: Faraon
+    om: Fara'oona
+    pa: ਫ਼ਿਰਔਨ
+    pl: faraon
+    pnb: فرعون
+    ps: فرعون
+    pt: faraó
+    pt-br: faraó
+    ro: faraon
+    ru: фараон
+    scn: Farauni
+    sco: pharaoh
+    se: fárao
+    sh: Faraon
+    shi: Ifrɛunen
+    si: පාරාවෝ
+    sk: Faraón
+    sl: faraon
+    smn: faarao
+    sms: faarao
+    so: Fircoon
+    sq: Faraoni
+    sr: фараон
+    sr-ec: фараон
+    su: firaun
+    sv: farao
+    sw: Farao
+    syl: ꠚꠦꠞꠣꠃꠘ
+    ta: பாரோ
+    te: ఫరో
+    tg: Фиръавн
+    th: ฟาโรห์
+    tl: Paraon
+    tr: firavun
+    ug: فىرئەۋىن
+    uk: фараон
+    ur: فرعون مصر
+    uz: Firʼavn
+    vec: faraon
+    vi: Pharaon
+    war: Faraon
+    wuu: 法老
+    xmf: ფარაონი
+    yi: פרעה
+    yo: Fáráò
+    yue: 法老王
+    zea: Farao
+    zh: 法老
+    zh-hant: 法老
+    zh-tw: 法老
 ---
-
 # [[Pharaoh]] 
 
 #is_/same_as :: [[WD~Pharaoh,37110]] 

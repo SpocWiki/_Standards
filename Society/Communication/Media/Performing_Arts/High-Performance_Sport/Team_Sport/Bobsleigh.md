@@ -1,30 +1,69 @@
 ---
 aliases:
-  - bobsled
-  - Bobsport
-  - Bobsleigh
+- bob
+- bobado
+- bobisõit
+- bobování
+- bobshleamhnán
+- bobsled
+- Bobsledi
+- Bobslee
+- bobsleeën
+- Bobsleigh
+- Bobslej
+- bobsleje
+- bobslejs
+- Bobsley
+- Bobsleý
+- Bobslydzjen
+- bobslæde
+- bobslėjus
+- Bobsport
+- boby
+- Lumba kereta gelongsor
+- rattikelkkailu
+- Sclodia gubernabilis
+- xe trượt lòng máng
+- Αγωνιστικό έλκηθρο
+- бабслей
+- боб
+- бобслей
+- бобслэй
+- брб
+- ղեկասահնակ
+- מזחלות
+- الزلاجة الجماعية
+- بابسلد
+- بوبسلەي
+- ববস্লেই
+- ბობსლეი
+- ボブスレー
+- 有舵雪橇
+- 長雪橇
+- 雪车
+- 봅슬레이
 has_id_wikidata: Q177275
 subclass_of:
-  - '[[_Standards/WikiData/WD~winter_sport,204686]]'
-  - '[[_Standards/WikiData/WD~team_sport,216048]]'
-  - '[[_Standards/WikiData/WD~individual_sport,2755547]]'
-  - '[[_Standards/WikiData/WD~sledding,3266340]]'
-  - '[[_Standards/WikiData/WD~ice_sport,31883501]]'
+- '[[_Standards/WikiData/WD~winter_sport,204686]]'
+- '[[_Standards/WikiData/WD~team_sport,216048]]'
+- '[[_Standards/WikiData/WD~individual_sport,2755547]]'
+- '[[_Standards/WikiData/WD~sledding,3266340]]'
+- '[[_Standards/WikiData/WD~ice_sport,31883501]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
 uses:
-  - '[[_Standards/WikiData/WD~sliding,3108904]]'
-  - '[[_Standards/WikiData/WD~bob,4088516]]'
-  - '[[_Standards/WikiData/WD~bobsleigh_track,18692717]]'
+- '[[_Standards/WikiData/WD~sliding,3108904]]'
+- '[[_Standards/WikiData/WD~bob,4088516]]'
+- '[[_Standards/WikiData/WD~bobsleigh_track,18692717]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~bobsledder,13383011]]'
+- '[[_Standards/WikiData/WD~bobsledder,13383011]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Nomenclature_for_Museum_Cataloging: 14644
 Commons_category: Bobsleigh
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Bobsleigh%20pictogram.svg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bobsleigh.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bobsleigh.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20020219-N-3995K-304%20Gold%20Medal%20Women%20BobSledders%201.jpg
 U_S_National_Archives_Identifier: 10675594
 Dewey_Decimal_Classification: 796.952
@@ -32,8 +71,102 @@ P8189: 987007282543805171
 IPTC_NewsCode: mediatopic/20000854
 Krugosvet_article: sport/BOBSLE.html
 OpenStreetMap_tag_or_key: Tag:sport=bobsleigh
+dv_has_:
+  name_:
+    af: Bobslee
+    an: Bobsleigh
+    ar: الزلاجة الجماعية
+    ast: Bobsleigh
+    az: Bobsley
+    ba: Бобслей
+    bcl: Bobsled
+    be: бабслей
+    be-tarask: бобслэй
+    bg: Бобслей
+    bn: ববস্লেই
+    bs: Bob
+    ca: bob
+    cs: bobování
+    cy: bobsled
+    da: bobslæde
+    de: Bobsport
+    el: Αγωνιστικό έλκηθρο
+    en: bobsleigh
+    en-ca: Bobsleigh
+    en-gb: bobsleigh
+    eo: bobado
+    es: bobsleigh
+    et: bobisõit
+    eu: Bobsleigh
+    fa: بابسلد
+    fi: rattikelkkailu
+    fr: bobsleigh
+    fy: Bobslydzjen
+    ga: bobshleamhnán
+    gl: Bobsleigh
+    he: מזחלות
+    hr: Bob
+    hu: bob
+    hy: ղեկասահնակ
+    ia: bobsleigh
+    id: Bobsled
+    it: bob
+    ja: ボブスレー
+    ka: ბობსლეი
+    kk: Бобслей
+    kk-arab: بوبسلەي
+    kk-cn: بوبسلەي
+    kk-cyrl: Бобслей
+    kk-kz: Бобслей
+    kk-latn: Bobsleý
+    kk-tr: Bobsleý
+    ko: 봅슬레이
+    ky: Бобслей
+    la: Sclodia gubernabilis
+    lad: Bobsleigh
+    lb: Bobsport
+    lt: bobslėjus
+    lv: bobslejs
+    mk: брб
+    ms: Lumba kereta gelongsor
+    nb: bobsleigh
+    nl: bobsleeën
+    nn: bobsleigh
+    oc: Bobsleigh
+    pl: bobsleje
+    pt: bobsleigh
+    pt-br: Bobsleigh
+    ro: bob
+    ru: бобслей
+    scn: Bob
+    sco: bobsleigh
+    sh: Bob
+    sk: boby
+    sl: bob
+    sr: боб
+    sr-ec: боб
+    sr-el: bob
+    sv: bob
+    sw: Bobsledi
+    tg: Бобслей
+    tl: Bobsley
+    tly: Bobslej
+    tr: Bobsled
+    tt: Бобслей
+    uk: бобслей
+    uz: Bobsley
+    vec: bob
+    vi: xe trượt lòng máng
+    wuu: 有舵雪橇
+    yue: 長雪橇
+    zh: 有舵雪橇
+    zh-cn: 雪车
+    zh-hans: 有舵雪橇
+    zh-hant: 有舵雪橇
+    zh-hk: 有舵雪橇
+    zh-sg: 有舵雪橇
+    zh-tw: 有舵雪橇
 ---
-
 # [[Bobsleigh]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bobsleigh,177275|WD~Bobsleigh,177275]] 

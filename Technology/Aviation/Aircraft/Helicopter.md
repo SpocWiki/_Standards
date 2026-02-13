@@ -1,29 +1,124 @@
 ---
 aliases:
-  - Helicopter
+- Alicópteru
+- Antachikaru
+- Babirok
+- Bikááʼ náʼoobałí
+- biñsaskell
+- Chhṳ̍t-sṳ̂n-kî
+- Elichapta
+- elicopter
+- Elicoptèr
+- elicottero
+- Elicòttiru
+- Elikoptè
+- Elikɔptɛ́lɛ
+- ełicòtaro
+- Halikuptir
+- Heileacoptair
+- Helicopter
+- Helicopterka
+- Helicoptero
+- Helicopterum
+- helicòpter
+- helicóptero
+- helicópteru
+- Helikopta
+- Helikopter
+- Helikoptera
+- helikopteri
+- helikoptero
+- helikopters
+- helikåptar
+- Hofrennydd
+- Hoochskruuwer
+- Hubschrauber
+- hèlicoptèro
+- hèlikupter
+- hélicoptère
+- ingearán
+- kopter
+- Máy bay trực thăng
+- punolendim
+- Rokmbin hwnj raez
+- Sraigtasparnis
+- Tepozmōyōtl
+- Tikuchar
+- Ti̍t-seng-ki
+- Tyrlur
+- vertolyot
+- Vevehajere
+- vrtulník
+- vrtuľník
+- Þyrla
+- śmigłowiec
+- ελικόπτερο
+- Беркема
+- боралак
+- Вĕлтĕрек
+- верталёт
+- Вертолёт
+- гелікоптер
+- Геликоптер
+- Нисдэг тэрэг
+- Тікұшақ
+- хеликоптер
+- Чархбол
+- Ուղղաթիռ
+- העליקאפטער
+- מסוק
+- بالگرد
+- مروحية
+- هليكوبتر
+- هلیکوپتر
+- چورلکه
+- ھەلیکۆپتەر
+- ہیلی کاپڑ
+- ہیلیکاپٹر
+- बुइँचाखः
+- हेलिकॉप्टर
+- हेलिकोप्टर
+- हैलीकॉप्टर
+- হেলিকপ্টার
+- হেলিকপ্টাৰ
+- ਹੈਲੀਕਾਪਟਰ
+- હેલિકોપ્ટર
+- உலங்கு வானூர்தி
+- హెలికాప్టరు
+- ഹെലികോപ്റ്റർ
+- เฮลิคอปเตอร์
+- ເຮລີກົບແຕ
+- ရဟတ်ယာဉ်
+- ႁိူဝ်းမိၼ်မႅင်းမီႈ
+- შვეულმფრენი
+- ឧទ្ធម្ភាគចក្រ
+- ヘリコプター
+- 直升机
+- 直升機
+- 헬리콥터
 has_id_wikidata: Q34486
-has_use: "[[_Standards/WikiData/WD~aviation,765633]]"
-subclass_of: "[[_Standards/WikiData/WD~rotorcraft,949801]]"
-different_from: "[[_Standards/WikiData/WD~gyrodyne,1258304]]"
-item_operated: "[[_Standards/WikiData/WD~helicopter_rotor,1343028]]"
+has_use: '[[_Standards/WikiData/WD~aviation,765633]]'
+subclass_of: '[[_Standards/WikiData/WD~rotorcraft,949801]]'
+different_from: '[[_Standards/WikiData/WD~gyrodyne,1258304]]'
+item_operated: '[[_Standards/WikiData/WD~helicopter_rotor,1343028]]'
 operator:
-  - "[[_Standards/WikiData/WD~army_aviation_component,1593564]]"
-  - "[[_Standards/WikiData/WD~air_force,61883]]"
+- '[[_Standards/WikiData/WD~army_aviation_component,1593564]]'
+- '[[_Standards/WikiData/WD~air_force,61883]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_Complete_Encyclopedia_of_Flight_1848_1939,_Chartwell_Edition,15058267]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~The_Complete_Encyclopedia_of_Flight_1848_1939,_Chartwell_Edition,15058267]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 629.133352
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_helicopter,14385255]]"
-  - "[[_Standards/WikiData/WD~Template_Helicopters_and_rotorcraft,22744761]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Q14614572,14614572]]"
-instance_of: "[[_Standards/WikiData/WD~aircraft_lift_class,20026879]]"
-used_by: "[[_Standards/WikiData/WD~helicopter_in_service,24175396]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_helicopter,14385255]]'
+- '[[_Standards/WikiData/WD~Template_Helicopters_and_rotorcraft,22744761]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q14614572,14614572]]'
+instance_of: '[[_Standards/WikiData/WD~aircraft_lift_class,20026879]]'
+used_by: '[[_Standards/WikiData/WD~helicopter_in_service,24175396]]'
 military_designation:
-  - H
-  - VH
+- H
+- VH
 OmegaWiki_Defined_Meaning: 6441
 Nomenclature_for_Museum_Cataloging: 11728
 nickname: whirlybird
@@ -35,12 +130,160 @@ Commons_category: Helicopters
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/20080406165033%21V-22%20Osprey%20refueling%20edit1.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/EC%20145.ogv
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/NH90-Caiman.stl
-Unicode_character: 🚁
+Unicode_character: "\U0001F681"
 Iconclass_notation: 46C371
 P8189: 987007555648305200
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
+dv_has_:
+  name_:
+    acm: هليكوبتر
+    af: Helikopter
+    an: Helicoptero
+    ang: Þyrla
+    ar: مروحية
+    arz: هليكوبتر
+    as: হেলিকপ্টাৰ
+    ast: helicópteru
+    az: vertolyot
+    azb: هلیکوپتر
+    bcl: Helikopter
+    be: верталёт
+    be-tarask: верталёт
+    bew: hèlikupter
+    bg: хеликоптер
+    bn: হেলিকপ্টার
+    br: biñsaskell
+    bs: Helikopter
+    ca: helicòpter
+    ce: Беркема
+    ceb: Helikopter
+    ckb: ھەلیکۆپتەر
+    cs: vrtulník
+    cv: Вĕлтĕрек
+    cy: Hofrennydd
+    da: helikopter
+    de: Hubschrauber
+    el: ελικόπτερο
+    en: helicopter
+    en-ca: helicopter
+    en-gb: helicopter
+    eo: helikoptero
+    es: helicóptero
+    et: kopter
+    eu: helikoptero
+    ext: Alicópteru
+    fa: بالگرد
+    fi: helikopteri
+    fo: Tyrlur
+    fr: hélicoptère
+    frp: hèlicoptèro
+    fy: Helikopter
+    ga: ingearán
+    gan: 直升機
+    gd: Heileacoptair
+    gl: helicóptero
+    gn: Vevehajere
+    gu: હેલિકોપ્ટર
+    hak: Chhṳ̍t-sṳ̂n-kî
+    he: מסוק
+    hi: हैलीकॉप्टर
+    hr: helikopter
+    ht: Elikoptè
+    hu: helikopter
+    hy: Ուղղաթիռ
+    ia: Helicoptero
+    id: helikopter
+    io: Helikoptero
+    is: Þyrla
+    it: elicottero
+    ja: ヘリコプター
+    jam: Elichapta
+    ka: შვეულმფრენი
+    kaa: Vertolyot
+    kge: Halikuptir
+    kk: Тікұшақ
+    km: ឧទ្ធម្ភាគចក្រ
+    ko: 헬리콥터
+    ku: Babirok
+    ky: Вертолёт
+    la: Helicopterum
+    lb: Helikopter
+    li: Helikopter
+    ln: Elikɔptɛ́lɛ
+    lo: ເຮລີກົບແຕ
+    lt: Sraigtasparnis
+    lv: helikopters
+    mg: Helikoptera
+    min: Helikopter
+    mk: Хеликоптер
+    ml: ഹെലികോപ്റ്റർ
+    mn: Нисдэг тэрэг
+    mr: हेलिकॉप्टर
+    ms: helikopter
+    my: ရဟတ်ယာဉ်
+    nah: Tepozmōyōtl
+    nan: Ti̍t-seng-ki
+    nb: helikopter
+    ne: हेलिकोप्टर
+    new: बुइँचाखः
+    nl: helikopter
+    nn: helikopter
+    nv: Bikááʼ náʼoobałí
+    oc: Elicoptèr
+    om: Helicopter
+    pa: ਹੈਲੀਕਾਪਟਰ
+    pap: Helikopter
+    pl: śmigłowiec
+    pnb: ہیلیکاپٹر
+    ps: چورلکه
+    pt: helicóptero
+    qu: Antachikaru
+    ro: elicopter
+    ru: вертолёт
+    rue: Геликоптер
+    scn: Elicòttiru
+    sco: helicopter
+    se: helikopter
+    sh: Helikopter
+    shn: ႁိူဝ်းမိၼ်မႅင်းမီႈ
+    sk: vrtuľník
+    sl: helikopter
+    smj: helikåptar
+    smn: helikopter
+    sms: helikopter
+    so: Helicopterka
+    sq: helikopter
+    sr: хеликоптер
+    stq: Hoochskruuwer
+    sv: helikopter
+    sw: Helikopta
+    ta: உலங்கு வானூர்தி
+    te: హెలికాప్టరు
+    tg: Чархбол
+    th: เฮลิคอปเตอร์
+    tl: Helikopter
+    tr: helikopter
+    tt: боралак
+    tt-cyrl: боралак
+    tyv: Вертолёт
+    udm: вертолёт
+    uk: гелікоптер
+    ur: ہیلی کاپڑ
+    uz: Tikuchar
+    vec: ełicòtaro
+    vep: punolendim
+    vi: Máy bay trực thăng
+    war: Helikopter
+    wuu: 直升机
+    yi: העליקאפטער
+    yue: 直升機
+    za: Rokmbin hwnj raez
+    zh: 直升機
+    zh-cn: 直升机
+    zh-hans: 直升机
+    zh-hant: 直升機
+    zh-tw: 直升機
 ---
-
 # [[Helicopter]] 🚁 
 
 #is_/same_as :: [[../../../WikiData/WD~Helicopter,34486|WD~Helicopter,34486]] 

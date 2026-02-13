@@ -1,20 +1,78 @@
 ---
-has_time_started: 1882-01-01 
+has_time_started: 1882-01-01
 aliases:
-  - 柔道
-  - Jūdō
-  - Judo
+- cselgáncs
+- cüdo
+- dzioduo
+- dziudo
+- dzudo
+- dzyudo
+- dzüdo
+- dzýudo
+- džudo
+- džuudo
+- hudo
+- iudo
+- jido
+- jiwdo
+- jiû-tō
+- Judo
+- judoo
+- judô
+- júdó
+- Jūdō
+- kokwetcihitowin
+- ljidu
+- xhudo
+- yudu
+- zudo
+- ĵudo
+- τζούντο
+- џудо
+- джудо
+- дзю-до
+- дзюдо
+- жүдо
+- ҷуду
+- Ձյուդո
+- ג'ודו
+- דזשודא
+- جودو
+- جودۆ
+- جوڈو
+- جوڊو
+- جيدو
+- जुडो
+- जूडो
+- জুডো
+- ਜੂਡੋ
+- જુડો
+- ଜୁଡୋ
+- யுடோ
+- జూడో
+- ಜೂಡೋ
+- ജൂഡോ
+- ජූඩෝ
+- ยูโด
+- འབོལ་འཇུ།
+- ဂျူဒို
+- ძიუდო
+- ᏧᏙ
+- ᱡᱩᱰᱳ
+- 柔道
+- 유도
+- 유술
 has_id_wikidata: Q11420
 founded_by: '[[_Standards/WikiData/WD~Kanō_Jigorō,190141]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Kanō_Jigorō,190141]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
-  - '[[_Standards/WikiData/WD~budō,752021]]'
-  - '[[_Standards/WikiData/WD~combat_sport,7128792]]'
-  - '[[_Standards/WikiData/WD~martial_art,11417]]'
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~budō,752021]]'
+- '[[_Standards/WikiData/WD~combat_sport,7128792]]'
+- '[[_Standards/WikiData/WD~martial_art,11417]]'
 uses:
-  - '[[_Standards/WikiData/WD~tatami,318763]]'
-  - '[[_Standards/WikiData/WD~judogi,2374719]]'
+- '[[_Standards/WikiData/WD~tatami,318763]]'
+- '[[_Standards/WikiData/WD~judogi,2374719]]'
 authority: '[[_Standards/WikiData/WD~International_Judo_Federation,1191347]]'
 practiced_by: '[[_Standards/WikiData/WD~judoka,6665249]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Judo,14407158]]'
@@ -31,14 +89,155 @@ Commons_category: Judo
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Judo%202011%20World%20Championships%20Paris-Rothberg%20EST%20Vs%20Mendonca%20BRA%20-73kg.webm
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Judo%20pictogram.svg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Judo-article.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Judo%20%28intro%29.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Judo-article.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Judo%20%28intro%29.ogg
 IPTC_NewsCode: mediatopic/20000969
 Krugosvet_article_archived_: sport/DZYUDO.html
 Commons_gallery: 柔道
 OpenStreetMap_tag: sport=judo
+dv_has_:
+  name_:
+    af: judo
+    an: judo
+    ar: جودو
+    ary: جيدو
+    arz: جودو
+    as: জুডো
+    ast: yudu
+    atj: kokwetcihitowin
+    awa: जूडो
+    az: cüdo
+    azb: جودو
+    ba: Дзюдо
+    bar: Judo
+    be: дзюдо
+    be-tarask: дзюдо
+    bg: джудо
+    bn: জুডো
+    bo: འབོལ་འཇུ།
+    br: judo
+    bs: džudo
+    ca: judo
+    ce: Дзюдо
+    chr: ᏧᏙ
+    ckb: جودۆ
+    crh: dzüdo
+    cs: judo
+    cy: jiwdo
+    da: judo
+    de: Judo
+    el: τζούντο
+    en: judo
+    eo: ĵudo
+    es: judo
+    et: džuudo
+    eu: judo
+    fa: جودو
+    fi: judo
+    fr: judo
+    frp: Judo
+    ga: júdó
+    gd: jūdō
+    gl: judo
+    gn: judo
+    gsw: Judo
+    gu: જુડો
+    he: ג'ודו
+    hi: जूडो
+    hif: judo
+    hr: judo
+    ht: jido
+    hu: cselgáncs
+    hy: Ձյուդո
+    ia: judo
+    id: judo
+    io: judoo
+    is: júdó
+    it: judo
+    ja: 柔道
+    jv: judo
+    ka: ძიუდო
+    kaa: dzyudo
+    kk: дзюдо
+    kn: ಜೂಡೋ
+    ko: 유도
+    ko-kp: 유술
+    ky: дзюдо
+    la: iudo
+    lb: Judo
+    lfn: judo
+    li: Judo
+    lij: judo
+    ln: judo
+    lt: dziudo
+    lv: džudo
+    mdf: дзю-до
+    min: judo
+    mk: џудо
+    ml: ജൂഡോ
+    mn: жүдо
+    ms: judo
+    my: ဂျူဒို
+    nan: jiû-tō
+    nb: judo
+    nds: Judo
+    ne: जूडो
+    new: जुडो
+    nl: judo
+    nn: judo
+    oc: judo
+    or: ଜୁଡୋ
+    os: дзюдо
+    pa: ਜੂਡੋ
+    pl: judo
+    pms: Judo
+    pnb: جوڈو
+    ps: جودو
+    pt: judo
+    pt-br: judô
+    rki: ဂျူဒို
+    rm: judo
+    ro: judo
+    ru: дзюдо
+    rue: джудо
+    sat: ᱡᱩᱰᱳ
+    sc: judo
+    sd: جوڊو
+    sgs: dzioduo
+    sh: džudo
+    shi: ljidu
+    si: ජූඩෝ
+    sk: džudo
+    sl: judo
+    sq: xhudo
+    sr: џудо
+    sv: judo
+    sw: judo
+    ta: யுடோ
+    te: జూడో
+    tg: ҷуду
+    th: ยูโด
+    tk: dzýudo
+    tl: hudo
+    tly: zudo
+    tr: judo
+    tt: дзюдо
+    uk: дзюдо
+    ur: جوڈو
+    uz: dzudo
+    vec: judo
+    vi: judo
+    war: judo
+    wuu: 柔道
+    xmf: ძიუდო
+    yi: דזשודא
+    yue: 柔道
+    zh: 柔道
+    zh-cn: 柔道
+    zh-hans: 柔道
+    zh-hant: 柔道
+    zh-tw: 柔道
 ---
-
 # [[Judo]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Judo,11420|WD~Judo,11420]] 

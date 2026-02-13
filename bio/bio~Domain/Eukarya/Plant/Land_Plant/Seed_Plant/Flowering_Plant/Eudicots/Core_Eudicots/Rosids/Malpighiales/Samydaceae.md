@@ -1,9 +1,44 @@
 ---
 aliases:
-  - Samydaceae
+- Samydaceae
 title: Samydaceae
+has_id_wikidata: Q1845706
+dv_has_:
+  name_:
+    an: Samydaceae
+    ast: Samydaceae
+    bg: Samydaceae
+    ca: Samydaceae
+    ceb: Samydaceae
+    de: Samydaceae
+    en: Samydaceae
+    eo: Samydaceae
+    es: Samydaceae
+    eu: Samydaceae
+    ext: Samydaceae
+    fi: Samydaceae
+    fr: Samydaceae
+    ga: Samydaceae
+    gl: Samydaceae
+    ia: Samydaceae
+    ie: Samydaceae
+    io: Samydaceae
+    it: Samydaceae
+    la: Samydaceae
+    mul: Samydaceae
+    nl: Samydaceae
+    oc: Samydaceae
+    pl: Samydaceae
+    pt: Samydaceae
+    pt-br: Samydaceae
+    ro: Samydaceae
+    ru: Samydaceae
+    sq: Samydaceae
+    uk: Samydaceae
+    vi: Samydaceae
+    vo: Samydaceae
+    war: Samydaceae
 ---
-
 # [[Samydaceae]] 
 
 ![Casearia arborea](Samydaceae/Casearia_arborea.jpg)  ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg)  ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Fruit.jpg) 

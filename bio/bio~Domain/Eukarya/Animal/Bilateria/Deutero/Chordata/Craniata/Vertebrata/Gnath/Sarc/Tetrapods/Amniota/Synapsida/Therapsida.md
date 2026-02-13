@@ -1,9 +1,94 @@
 ---
 aliases:
-  - Therapsida
+- Bộ Cung thú
+- Terapsidi
+- Terapsidit
+- Terapsydy
+- teràpsids
+- Terápsidos
+- Therapsid
+- Therapsida
+- Therapsiden
+- therapsider
+- Therapsidi
+- Zougdeerreptiele
+- Þelskriðdýr
+- Θηριαψιδωτά
+- терапсиди
+- Терапсиды
+- תראפסידה
+- تراپسیدها
+- ثيرابسيد
+- 兽孔目
+- 兽孔类
+- 獣弓類
+- 獸孔目
+- 獸孔類
+- 수궁류
 title: Therapsida
+has_id_wikidata: Q322241
+dv_has_:
+  name_:
+    af: Therapsida
+    ar: ثيرابسيد
+    ast: Therapsida
+    bg: терапсиди
+    bs: Therapsida
+    ca: teràpsids
+    ceb: Therapsida
+    cs: Therapsidi
+    de: Therapsiden
+    el: Θηριαψιδωτά
+    en: Therapsida
+    eo: Therapsida
+    es: Therapsida
+    eu: Therapsida
+    fa: تراپسیدها
+    fi: Terapsidit
+    fr: Therapsida
+    ga: Therapsida
+    gl: Terápsidos
+    he: תראפסידה
+    hr: Terapsidi
+    hu: Therapsida
+    ia: Therapsida
+    id: Therapsida
+    is: Þelskriðdýr
+    it: Therapsida
+    ja: 獣弓類
+    ko: 수궁류
+    la: Therapsida
+    li: Zougdeerreptiele
+    mk: Терапсиди
+    mul: Therapsida
+    nb: therapsider
+    nl: Therapsida
+    oc: Therapsida
+    or: Therapsid
+    pl: Terapsydy
+    pt: Therapsida
+    ro: Therapsida
+    ru: Терапсиды
+    sh: Terapsidi
+    sk: Therapsida
+    sl: Therapsida
+    sq: Therapsida
+    sr: Терапсиди
+    sv: therapsider
+    tl: Therapsida
+    tr: Therapsida
+    uk: Терапсиди
+    vec: Therapsida
+    vi: Bộ Cung thú
+    war: Therapsida
+    zh: 獸孔類
+    zh-cn: 獸孔類
+    zh-hans: 兽孔类
+    zh-hant: 獸孔目
+    zh-hk: 獸孔目
+    zh-sg: 兽孔目
+    zh-tw: 獸孔目
 ---
-
 # [[Therapsida]]
 
 Mammals and extinct relatives 

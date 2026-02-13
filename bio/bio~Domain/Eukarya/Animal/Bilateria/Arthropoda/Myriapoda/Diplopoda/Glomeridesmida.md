@@ -1,10 +1,56 @@
 ---
 aliases:
-  - Glomeridesmus
-  - Glomeridesmida
+- Glomeridesmida
+- Glomeridesmus
+- Glomeridèsmides
+- Urtausendfüßer
+- حلزونية الشكل
+- 扁形馬陸目
+- 球带马陆目
 title: Glomeridesmus
+has_id_wikidata: Q18228570
+dv_has_:
+  name_:
+    an: Glomeridesmida
+    ar: حلزونية الشكل
+    ast: Glomeridesmida
+    bg: Glomeridesmida
+    ca: Glomeridèsmides
+    ceb: Glomeridesmida
+    de: Urtausendfüßer
+    en: Glomeridesmida
+    eo: Glomeridesmida
+    es: Glomeridesmida
+    eu: Glomeridesmida
+    ext: Glomeridesmida
+    fi: Glomeridesmida
+    fr: Glomeridesmida
+    ga: Glomeridesmida
+    gl: Glomeridesmida
+    ia: Glomeridesmida
+    ie: Glomeridesmida
+    io: Glomeridesmida
+    it: Glomeridesmida
+    la: Glomeridesmida
+    mul: Glomeridesmida
+    nl: Glomeridesmida
+    oc: Glomeridesmida
+    pl: Glomeridesmida
+    pt: Glomeridesmida
+    pt-br: Glomeridesmida
+    ro: Glomeridesmida
+    ru: Glomeridesmida
+    sq: Glomeridesmida
+    tr: Glomeridesmida
+    uk: Glomeridesmida
+    vi: Glomeridesmida
+    vo: Glomeridesmida
+    war: Glomeridesmida
+    zh: 球带马陆目
+    zh-cn: 球带马陆目
+    zh-hans: 球带马陆目
+    zh-tw: 扁形馬陸目
 ---
-
 # [[Glomeridesmus]]
 
 ## #has_/text_of_/abstract 

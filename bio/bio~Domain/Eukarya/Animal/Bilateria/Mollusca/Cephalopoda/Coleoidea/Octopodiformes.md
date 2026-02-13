@@ -1,9 +1,82 @@
 ---
 aliases:
-  - Octopodiformes
+- Aachtbianeten
+- Achtarm-Dintenfische
+- Achtarmige Tintenfische
+- Astoņkājveidīgie
+- nyolckarú polipok
+- Octobrachia
+- Octopodiforme
+- Octopodiformes
+- Siêu bộ Bạch tuộc
+- Vampyropoda
+- восьмирукие
+- أخطبوطيات الشكل
+- اخطبوطيات الشكل
+- هشتپاریختان
+- 八腕形類
+- 八腕总目
+- 八腕總目
+- 팔완상목
 title: Octopodiformes
+has_id_wikidata: Q340867
+dv_has_:
+  name_:
+    an: Octopodiformes
+    ar: أخطبوطيات الشكل
+    arz: اخطبوطيات الشكل
+    ast: Vampyropoda
+    be-tarask: Octopodiformes
+    bg: Vampyropoda
+    ca: Octopodiforme
+    ceb: Octopodiformes
+    cs: Octopodiformes
+    de: Achtarmige Tintenfische
+    el: Octopodiformes
+    en: Octopodiformes
+    eo: Octopodiformes
+    es: Octopodiformes
+    eu: Octopodiformes
+    ext: Octopodiformes
+    fa: هشتپاریختان
+    fi: Octopodiformes
+    fr: Octobrachia
+    frr: Aachtbianeten
+    ga: Octopodiformes
+    gl: Octopodiformes
+    hr: Octopodiformes
+    hu: nyolckarú polipok
+    ia: Octopodiformes
+    id: Octopodiformes
+    ie: Octopodiformes
+    io: Octopodiformes
+    it: Octopodiformes
+    ja: 八腕形類
+    ko: 팔완상목
+    la: Octopodiformes
+    lb: Octopodiformes
+    lv: Astoņkājveidīgie
+    mul: Octopodiformes
+    nds: Achtarm-Dintenfische
+    nl: Octopodiformes
+    oc: Octopodiformes
+    pl: Octopodiformes
+    pt: Octopodiformes
+    pt-br: Octopodiformes
+    ro: Octopodiformes
+    ru: восьмирукие
+    sl: Octopodiformes
+    sq: Octopodiformes
+    sr: Octopodiformes
+    tr: Octopodiformes
+    uk: Octopodiformes
+    vi: Siêu bộ Bạch tuộc
+    vo: Octopodiformes
+    war: Octopodiformes
+    zh: 八腕總目
+    zh-cn: 八腕总目
+    zh-hans: 八腕总目
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

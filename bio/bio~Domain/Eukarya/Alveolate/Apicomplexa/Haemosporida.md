@@ -1,10 +1,65 @@
 ---
 aliases:
-  - Haemospororida
-  - Haemosporida
+- Gemosporidiyalar
+- Haemosporida
+- Haemospororida
+- Qan sporluları
+- гемаспарыдыі
+- Гемоспоридии
+- Гемоспоридиялар
+- Қан споралылар
+- بوغيات دموية
+- بوغيات دمويه
+- 住血胞子虫
+- 血孢子虫目
+- 혈구포자충류
 title: Plasmodiidae
+has_id_wikidata: Q4135179
+dv_has_:
+  name_:
+    an: Haemospororida
+    ar: بوغيات دموية
+    arz: بوغيات دمويه
+    ast: Haemospororida
+    az: Qan sporluları
+    ba: Гемоспоридиялар
+    be: гемаспарыдыі
+    bg: Haemospororida
+    ca: Haemospororida
+    cs: Haemosporida
+    de: Haemospororida
+    en: Haemospororida
+    eo: Haemospororida
+    es: Haemospororida
+    eu: Haemospororida
+    ext: Haemospororida
+    fr: Haemospororida
+    ga: Haemospororida
+    gl: Haemospororida
+    hu: Haemosporida
+    ia: Haemospororida
+    id: Haemosporida
+    ie: Haemospororida
+    io: Haemospororida
+    it: Haemospororida
+    ja: 住血胞子虫
+    kk: Қан споралылар
+    ko: 혈구포자충류
+    la: Haemospororida
+    mul: Haemospororida
+    nl: Haemospororida
+    nn: Haemosporida
+    oc: Haemospororida
+    pl: Haemospororida
+    pt: Haemospororida
+    pt-br: Haemospororida
+    ru: Гемоспоридии
+    uz: Gemosporidiyalar
+    vo: Haemospororida
+    zh: 血孢子虫目
+    zh-cn: 血孢子虫目
+    zh-hans: 血孢子虫目
 ---
-
 # [[Haemosporida]] 
 
 ## #has_/text_of_/abstract 

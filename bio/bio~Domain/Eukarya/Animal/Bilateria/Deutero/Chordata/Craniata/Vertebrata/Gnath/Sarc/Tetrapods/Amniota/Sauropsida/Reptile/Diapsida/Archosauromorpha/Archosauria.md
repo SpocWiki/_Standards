@@ -1,9 +1,132 @@
 ---
 aliases:
-  - Archosauria
+- archosaur
+- Archosaurer
+- Archosauria
+- Archosauři
+- Archozaurai
+- archozaury
+- arcosaures
+- Arcosauros
+- arkosaurar
+- Arkosaurer
+- Arkosaurit
+- Arkosauro
+- Arkosaŭroj
+- Arkozor
+- Arxozavrlar
+- Härskarödlor
+- uralkodógyíkok
+- αρχόσαυρος
+- архазаўр
+- архазаўры
+- Архозавралар
+- архозаври
+- Архозаврлар
+- Архозаврсем
+- архозавры
+- Арцхосауриа
+- արխոզավրեր
+- ארכוזאוריה
+- آرکوسار
+- آرکوسورها
+- أركوصورات
+- ارحوزاۆرلار
+- आर्कोसोरिया
+- ആർച്ചോസോർ
+- อาร์โคซอร์
+- არქოზავრები
+- 主竜類
+- 主龍類
+- 主龙类
+- 조룡류
 title: Archosauria
+has_id_wikidata: Q130910
+dv_has_:
+  name_:
+    af: Archosauria
+    an: Archosauria
+    ar: أركوصورات
+    ast: Archosauria
+    az: Arxozavrlar
+    be: архазаўры
+    be-tarask: архазаўр
+    bg: архозаври
+    br: Archosauria
+    ca: arcosaures
+    ceb: Archosauria
+    cs: Archosauři
+    cv: Архозаврсем
+    da: Archosaurer
+    de: Archosauria
+    el: αρχόσαυρος
+    en: archosaur
+    eo: Arkosaŭroj
+    es: Archosauria
+    eu: Archosauria
+    fa: آرکوسورها
+    fi: Arkosaurit
+    fr: Archosauria
+    ga: Archosauria
+    gl: Arcosauros
+    he: ארכוזאוריה
+    hi: आर्कोसोरिया
+    hu: uralkodógyíkok
+    hy: արխոզավրեր
+    ia: Archosauria
+    id: Archosauria
+    it: Archosauria
+    ja: 主竜類
+    ka: არქოზავრები
+    kk: Архозаврлар
+    kk-arab: ارحوزاۆرلار
+    kk-cn: ارحوزاۆرلار
+    kk-cyrl: Архозаврлар
+    kk-kz: Архозаврлар
+    kk-latn: Arxozavrlar
+    kk-tr: Arxozavrlar
+    ko: 조룡류
+    ky: Архозавралар
+    la: Archosauria
+    lt: Archozaurai
+    ml: ആർച്ചോസോർ
+    mul: Archosauria
+    nb: Arkosaurer
+    nl: Archosauria
+    nn: arkosaurar
+    oc: Archosauria
+    or: Archosaur
+    pl: archozaury
+    pnb: آرکوسار
+    pt: archosauria
+    ro: Archosauria
+    ru: архозавры
+    scn: Archosauria
+    sco: archosaur
+    sh: Archosauria
+    sk: Archosauria
+    sl: Archosauria
+    sq: Archosauria
+    sr: Archosauria
+    sr-ec: Арцхосауриа
+    sr-el: Archosauria
+    sv: Härskarödlor
+    th: อาร์โคซอร์
+    tl: Archosauria
+    tr: Arkozor
+    uk: архозаври
+    uz: Arxozavrlar
+    vi: Archosauria
+    war: Arkosauro
+    wuu: 主龙类
+    zh: 主龙类
+    zh-cn: 主龙类
+    zh-hans: 主龙类
+    zh-hant: 主龍類
+    zh-hk: 主龍類
+    zh-sg: 主龙类
+    zh-tw: 主龍類
 ---
-
 # [[Archosauria]] 
 
  ![ ](Archosauria/Crocodilia/Alligatoridae/Alligator_sinensis.jpg)  ![Pteranodon-Harder](Archosauria/Pteranodon-Harder.jpg) 

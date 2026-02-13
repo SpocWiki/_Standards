@@ -1,9 +1,182 @@
 ---
 aliases:
-  - Bilateria
+- Bikʼiiz Naakiígíí
+- bilateral
+- bilaterale dyr
+- Bilateralia
+- bilateralne životinje
+- bilaterals
+- Bilateri
+- Bilateria
+- bilaterier
+- bilaterāļi
+- duflankulo
+- dvobočniki
+- dvojstranovce
+- dvoustranně souměrní
+- ikeyäksimmetriälelär
+- Kahekülgsed
+- kaksikylkiset
+- kétoldali szimmetriájúak
+- tisenzamalin
+- tvåsidiga djur
+- Twasidigen
+- Tweesiedendeerter
+- Twiisidjeten
+- zwierzęta dwubocznie symetryczne
+- động vật đối xứng hai bên
+- İkitərəflisimmetriyalılar
+- αμφίπλευρα
+- білятэральныя
+- двобічно-симетричні
+- двострани животни
+- двусторонне-симметричные
+- двустранно симетрични
+- двухбакова-сіметрычныя
+- икеяксимметриялеләр
+- երկկողմանի համաչափ կենդանիներ
+- בילטריה
+- بايلاتيريا
+- ثنائيات التناظر
+- دوسوئیان
+- دوولایان
+- बाइलेटेरिया
+- দ্বিপার্শ্বভ্রুণক
+- ไบลาทีเรีย
+- ორმხრივ სიმეტრიულები
+- 两侧对称动物
+- 两侧对称动物亚界
+- 兩側對稱動物
+- 兩側對稱動物亞界
+- 左右相称動物
+- 좌우대칭동물
 title: Bilateria
+has_id_wikidata: Q5173
+dv_has_:
+  name_:
+    af: Bilateria
+    an: Bilateria
+    ar: ثنائيات التناظر
+    arz: بايلاتيريا
+    ast: Bilateria
+    az: İkitərəflisimmetriyalılar
+    ba: Bilateria
+    bar: Bilateria
+    be: двухбакова-сіметрычныя
+    be-tarask: білятэральныя
+    bg: двустранно симетрични
+    bn: দ্বিপার্শ্বভ্রুণক
+    br: Bilateria
+    bs: Bilateralia
+    ca: bilaterals
+    ceb: Bilateria
+    ckb: دوولایان
+    co: Bilateria
+    cs: dvoustranně souměrní
+    cy: Bilateria
+    da: Bilateria
+    de: Bilateria
+    de-at: Bilateria
+    de-ch: Bilateria
+    el: αμφίπλευρα
+    en: Bilateria
+    en-ca: Bilateria
+    en-gb: Bilateria
+    eo: duflankulo
+    es: Bilateria
+    et: Kahekülgsed
+    eu: Bilateria
+    fa: دوسوئیان
+    fi: kaksikylkiset
+    fr: Bilateria
+    frp: Bilateria
+    frr: Twiisidjeten
+    fur: Bilateria
+    fy: Twasidigen
+    ga: Bilateria
+    gd: Bilateria
+    gl: bilateral
+    gsw: Bilateria
+    he: בילטריה
+    hi: बाइलेटेरिया
+    hr: bilateralne životinje
+    hu: kétoldali szimmetriájúak
+    hy: երկկողմանի համաչափ կենդանիներ
+    ia: Bilateria
+    id: Bilateria
+    ie: Bilateria
+    ilo: Bilateria
+    io: Bilateria
+    is: Bilateria
+    it: Bilateria
+    ja: 左右相称動物
+    ka: ორმხრივ სიმეტრიულები
+    kab: tisenzamalin
+    kg: Bilateria
+    ko: 좌우대칭동물
+    la: Bilateria
+    lad: Bilateria
+    lb: Bilateria
+    li: Bilateria
+    lij: Bilateria
+    lmo: Bilateria
+    lv: bilaterāļi
+    mg: Bilateria
+    min: Bilateria
+    mk: двострани животни
+    ms: Bilateria
+    mul: Bilateria
+    nap: Bilateria
+    nb: bilaterier
+    nds: Tweesiedendeerter
+    nds-nl: Bilateria
+    nl: Bilateria
+    nn: bilaterale dyr
+    nov: Bilateria
+    nrm: Bilateria
+    nv: Bikʼiiz Naakiígíí
+    nys: Bilateria
+    oc: Bilateria
+    pcd: Bilateria
+    pl: zwierzęta dwubocznie symetryczne
+    pms: Bilateria
+    pt: Bilateria
+    pt-br: Bilateria
+    rm: Bilateria
+    ro: Bilateria
+    ru: двусторонне-симметричные
+    rup: Bilateria
+    sc: Bilateria
+    scn: Bilateri
+    sco: Bilateria
+    sk: dvojstranovce
+    sl: dvobočniki
+    sq: Bilateria
+    sr: Bilateria
+    sv: tvåsidiga djur
+    sw: Bilateria
+    th: ไบลาทีเรีย
+    tl: Bilateria
+    tr: Bilateria
+    tt: икеяксимметриялеләр
+    tt-cyrl: икеяксимметриялеләр
+    tt-latn: ikeyäksimmetriälelär
+    uk: двобічно-симетричні
+    vec: Bilateria
+    vi: động vật đối xứng hai bên
+    vls: Bilateria
+    vo: Bilateria
+    wa: Bilateria
+    war: Bilateria
+    wo: Bilateria
+    wuu: 两侧对称动物
+    yue: 兩側對稱動物
+    zh: 两侧对称动物亚界
+    zh-cn: 两侧对称动物亚界
+    zh-hans: 两侧对称动物亚界
+    zh-tw: 兩側對稱動物亞界
+    zu: Bilateria
 ---
-
 # [[Bilateria]] 
 
 #is_a/bio-Phylum  

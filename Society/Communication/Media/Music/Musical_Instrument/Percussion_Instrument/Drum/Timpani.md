@@ -1,24 +1,66 @@
 ---
 aliases:
-  - kettledrums
-  - timp
-  - Timpani
+- Keteltrom
+- kettledrums
+- Kotły
+- Litavra
+- patarummut
+- pauk
+- pauke
+- pavke
+- Pákur
+- Timbaalɩ
+- timbal de concierto
+- timbales
+- Timbalo
+- timp
+- timpan
+- Timpanas
+- Timpani
+- timpano
+- timpāni
+- Tinbal
+- tiompán
+- Trống định âm
+- Tympan
+- tympány
+- tímpano
+- üstdob
+- Τυμπάνια
+- Літаўры
+- Литавра
+- Литавралар
+- Литаври
+- литавры
+- тимпан
+- Լիտավր
+- טימפני
+- تیمپانی
+- دفية
+- نغارو
+- টিম্পানি
+- ടിംപാനി
+- กลองทิมปานี
+- დაფდაფი
+- ティンパニ
+- 定音鼓
+- 팀파니
 has_id_wikidata: Q189737
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 has_characteristic: '[[_Standards/WikiData/WD~missing_fundamental,1431822]]'
 used_by: '[[_Standards/WikiData/WD~timpanist,3528729]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~directly_struck_membranophone,5280487]]'
-  - '[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]'
-  - '[[_Standards/WikiData/WD~separate_bowl_drums,55723166]]'
+- '[[_Standards/WikiData/WD~directly_struck_membranophone,5280487]]'
+- '[[_Standards/WikiData/WD~melodic_percussion_instrument,7198871]]'
+- '[[_Standards/WikiData/WD~separate_bowl_drums,55723166]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_musical_instrument,110295396]]'
 Nomenclature_for_Museum_Cataloging: 10749
 OmegaWiki_Defined_Meaning: 403283
@@ -26,13 +68,85 @@ Amazon_com_browse_node: 11970311
 Commons_category: Timpani
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20-%20A%20standard%20set%20of%20timpani%20Percussion%20-%205647.jpg
 playing_range_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Range%20timpani.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Timpani%20Range%20Individual.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Range%20timpani.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Timpani%20Range%20Individual.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Timpani%20audio.ogg
 Hornbostel_Sachs_classification: 211.11-922
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LITAVRI.html
+dv_has_:
+  name_:
+    af: Keteltrom
+    ar: دفية
+    az: Litavra
+    be: Літаўры
+    be-tarask: літаўры
+    bg: тимпан
+    bn: টিম্পানি
+    bs: Timpan
+    ca: timbales
+    cs: tympány
+    cy: Timpani
+    da: pauke
+    de: Pauke
+    el: Τυμπάνια
+    en: timpani
+    eo: Timbalo
+    es: timbal de concierto
+    et: timpan
+    eu: Tinbal
+    fa: تیمپانی
+    fi: patarummut
+    fr: timbales
+    ga: tiompán
+    he: טימפני
+    hr: Timpani
+    hu: üstdob
+    hy: Լիտավր
+    ia: Timbales
+    id: Timpani
+    is: Pákur
+    it: timpano
+    ja: ティンパニ
+    ka: დაფდაფი
+    kbp: Timbaalɩ
+    kk: Литавралар
+    ko: 팀파니
+    ky: Литавра
+    lt: Timpanas
+    lv: timpāni
+    mk: тимпан
+    ml: ടിംപാനി
+    ms: Timpani
+    nb: pauke
+    nl: pauk
+    nn: pauke
+    pl: Kotły
+    pt: tímpano
+    ro: timpan
+    ru: литавры
+    sco: timpani
+    sd: نغارو
+    sh: Timpani
+    sk: Tympan
+    sl: pavke
+    sr: Тимпан
+    sv: timpani
+    th: กลองทิมปานี
+    tl: Timpani
+    tr: Timpani
+    uk: Литаври
+    uz: Litavra
+    vi: Trống định âm
+    wuu: 定音鼓
+    yue: 定音鼓
+    zh: 定音鼓
+    zh-cn: 定音鼓
+    zh-hans: 定音鼓
+    zh-hant: 定音鼓
+    zh-hk: 定音鼓
+    zh-sg: 定音鼓
+    zh-tw: 定音鼓
 ---
-
 # [[Timpani]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Timpani,189737|WD~Timpani,189737]] 

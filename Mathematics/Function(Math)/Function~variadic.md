@@ -1,4 +1,31 @@
-
+---
+has_id_wikidata: Q1505415
+dv_has_:
+  name_:
+    de: variadische Funktion
+    en: variadic function
+    eo: ajnnombroloka funkcio
+    fr: fonction variadique
+    it: funzione variadica
+    ja: 可変長引数関数
+    ko: 가변 인자 함수
+    pl: Zmienna liczba argumentów
+    ru: Вариативная функция
+    uk: варіативна функція
+    zh: 可變參數函數
+aliases:
+- ajnnombroloka funkcio
+- fonction variadique
+- funzione variadica
+- variadic function
+- variadische Funktion
+- Zmienna liczba argumentów
+- варіативна функція
+- Вариативная функция
+- 可変長引数関数
+- 可變參數函數
+- 가변 인자 함수
+---
 # [[Function~variadic]] 
 
 

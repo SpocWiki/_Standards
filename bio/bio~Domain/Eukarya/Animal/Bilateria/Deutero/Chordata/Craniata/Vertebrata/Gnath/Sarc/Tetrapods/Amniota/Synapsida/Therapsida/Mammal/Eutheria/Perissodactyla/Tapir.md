@@ -1,13 +1,66 @@
 ---
 aliases:
-  - Tapiridae
-  - Tapir
-  - Tapir: ''
+- Bíchį́į́h naatsʼǫǫdí
+- Họ Lợn vòi
+- Mborevi
+- Sach'awaka
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- taapiir
+- Taapiiren
+- taipir
+- tapiirit
+- Tapir
+- Tapire
+- tapirer
+- Tapiri
+- Tapiridae
+- Tapiro
+- Tapirowate
+- tapirs
+- Tapirur
+- Tapirus
+- Tapirus indicus
+- Tapiry
+- Tapirídeos
+- Tapyrai
+- tapír
+- Tapîr
+- Tapīri
+- Tenuk
+- Tlālpitzotl
+- Vaeskol (Tapirus)
+- Τάπιρος
+- Тапір
+- Тапіри
+- Тапіры
+- Тапир
+- Тапирдар
+- Тапири
+- Тапиртæ
+- тапиры
+- գետակինճեր
+- טאפיר
+- טפיר
+- تابير
+- تاپیر
+- টাপির
+- தும்பிப்பன்றி
+- ಟಪೀರ್
+- ടപ്പീർ
+- สมเสร็จ
+- ໝູງວງ
+- ကြံ့သူတော်
+- ტაპირისებრნი
+- バク属
+- 貘
+- 貘属
+- 貘屬
+- 맥
 has_id_wikidata: Q128001
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -28,13 +81,121 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - Tapir: ''
-  - excalidraw
+- Tapir: ''
+- excalidraw
 title:
   Tapir: ''
 type: private_note
+dv_has_:
+  name_:
+    af: Tapir
+    an: Tapirus
+    ar: تابير
+    arz: تابير
+    ast: Tapirus indicus
+    avk: Vaeskol (Tapirus)
+    az: Tapir
+    ban: Tapir
+    bcl: Tapir
+    be: Тапіры
+    be-tarask: Тапір
+    bg: Тапири
+    bn: টাপির
+    br: Tapir
+    bs: Tapir
+    btm: Tapir
+    ca: tapir
+    ceb: Tapirus
+    cs: tapír
+    da: Tapirer
+    de: Tapire
+    el: Τάπιρος
+    en: Tapirus
+    eo: Tapiro
+    es: Tapirus
+    eu: Tapirus
+    ext: Tapirus
+    fa: تاپیر
+    fi: tapiirit
+    fo: Tapirur
+    fr: tapir
+    frr: Taapiiren
+    fy: Tapirs
+    ga: taipir
+    gl: Tapir
+    gn: Mborevi
+    he: טפיר
+    hr: Tapiri
+    hu: tapír
+    hy: գետակինճեր
+    ia: Tapirus
+    id: Tapirus
+    ie: Tapirus
+    io: Tapiro
+    is: Tapír
+    it: Tapirus
+    ja: バク属
+    jv: Tapir
+    ka: ტაპირისებრნი
+    kk: Тапир
+    kn: ಟಪೀರ್
+    ko: 맥
+    ku: Tapîr
+    la: Tapirus
+    lfn: Tapir
+    li: Tapirs
+    lo: ໝູງວງ
+    lt: Tapyrai
+    lv: Tapīri
+    lzh: 貘屬
+    mg: Tapiry
+    mk: тапир
+    ml: ടപ്പീർ
+    ms: Tenuk
+    mul: Tapirus
+    my: ကြံ့သူတော်
+    nah: Tlālpitzotl
+    nb: tapirer
+    nl: tapirs
+    nn: tapir
+    nv: Bíchį́į́h naatsʼǫǫdí
+    oc: Tapir
+    os: Тапиртæ
+    pl: Tapirowate
+    pt: Tapirídeos
+    pt-br: Tapirídeos
+    qu: Sach'awaka
+    ro: Tapir
+    ru: тапиры
+    sah: Тапирдар
+    sco: tapir
+    sh: Tapiri
+    sl: tapir
+    smn: taapiir
+    sq: Tapirus
+    sr: тапири
+    sr-ec: Тапири
+    sr-el: Tapiri
+    sv: tapirer
+    ta: தும்பிப்பன்றி
+    th: สมเสร็จ
+    tl: Tapir
+    tr: Tapir
+    uk: Тапіри
+    vi: Họ Lợn vòi
+    vo: Tapirus
+    war: Tapirus
+    wuu: 貘属
+    yi: טאפיר
+    yue: 貘
+    zh: 貘属
+    zh-cn: 貘属
+    zh-hans: 貘属
+    zh-hant: 貘屬
+    zh-hk: 貘屬
+    zh-sg: 貘属
+    zh-tw: 貘屬
 ---
-
 # [[Tapir]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Tapirus,128001|WD~Tapirus,128001]]  

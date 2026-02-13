@@ -1,24 +1,164 @@
 ---
 aliases:
+- contrainte mécanique
+- dragspänning
+- Estrès
+- gerilim
+- Gərginlik
+- Jännitys
+- mechanical stress
+- mechanické napětí
+- mechanikai feszültség
+- mechanische spanning
+- mechanische Spannung
+- mehaaniline pinge
+- mehanska napetost
+- mehāniskais spriegums
+- mexanik kuchlanish
+- napon
+- Napon (mehanika)
+- Napor
+- naprezanje
+- naprężenie
+- pikas mekanis
+- silové napätie v hmote
+- Spaunnung
+- spenning
+- spænding
+- stress
+- streĉo
+- strus meicniúil
+- tegangan
+- Tegasan
+- tensione interna
+- tensiune
+- tensió
+- Tensión
+- tensión mecánica
+- tensão
+- Tentsio mekaniko
+- įtempis
+- Τάση
+- механічнае напружанне
+- Механикăлла хиврелĕх
+- механическое напряжение
+- мэханічнае напружаньне
+- напон
+- напрегање
+- Напрежение
+- напруження
+- մեխանիկական լարում
+- מאמץ
+- إجهاد
+- تنش
+- प्रतिबल
+- পীড়ন
+- தகைவு
+- ಪೀಡನ
+- ആയാസം
+- ความเค้น
+- အားစုနှုန်းထား
+- Ứng suất
+- 应力
+- 応力
+- 應力
+- 변형력
 has_id_wikidata: Q206175
-subclass_of: "[[_Standards/WikiData/WD~physical_quantity,107715]]"
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~shear_stress,657936]]"
-  - "[[_Standards/WikiData/WD~normal_stress,11425837]]"
+- '[[_Standards/WikiData/WD~shear_stress,657936]]'
+- '[[_Standards/WikiData/WD~normal_stress,11425837]]'
 different_from:
-  - "[[_Standards/WikiData/WD~stress_tensor,13409892]]"
-  - "[[_Standards/WikiData/WD~pressure,39552]]"
-described_by_source: "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-has_characteristic: "[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
-recommended_unit_of_measurement: "[[_Standards/WikiData/WD~pascal,44395]]"
+- '[[_Standards/WikiData/WD~stress_tensor,13409892]]'
+- '[[_Standards/WikiData/WD~pressure,39552]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+has_characteristic: '[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~pascal,44395]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20Protractor%20Polarized%2005375.jpg
 UMLS_CUI: C0038442
 MeSH_tree_code: G01.374.835
 Commons_category: Stress (mechanics)
-Dewey_Decimal_Classification: "531.381"
+Dewey_Decimal_Classification: 531.381
+dv_has_:
+  name_:
+    ar: إجهاد
+    ast: Tensión
+    az: Gərginlik
+    ban: pikas mekanis
+    bar: Spaunnung
+    be: механічнае напружанне
+    be-tarask: мэханічнае напружаньне
+    bg: Напрежение
+    bn: পীড়ন
+    bs: Napon (mehanika)
+    ca: tensió
+    cs: mechanické napětí
+    cv: Механикăлла хиврелĕх
+    da: spænding
+    de: mechanische Spannung
+    el: Τάση
+    en: mechanical stress
+    eo: streĉo
+    es: tensión mecánica
+    et: mehaaniline pinge
+    eu: Tentsio mekaniko
+    fa: تنش
+    fi: Jännitys
+    fr: contrainte mécanique
+    ga: strus meicniúil
+    gl: Tensión mecánica
+    he: מאמץ
+    hi: प्रतिबल
+    hr: naprezanje
+    ht: Estrès
+    hu: mechanikai feszültség
+    hy: մեխանիկական լարում
+    id: tegangan
+    it: tensione interna
+    ja: 応力
+    kn: ಪೀಡನ
+    ko: 변형력
+    lt: įtempis
+    lv: mehāniskais spriegums
+    mag: प्रतिबल
+    mk: напрегање
+    ml: ആയാസം
+    ms: Tegasan
+    my: အားစုနှုန်းထား
+    nb: spenning
+    nl: mechanische spanning
+    nn: spenning
+    pl: naprężenie
+    pt: tensão
+    pt-br: tensão
+    ro: tensiune
+    ru: механическое напряжение
+    sco: stress
+    sh: Napor
+    sk: silové napätie v hmote
+    sl: mehanska napetost
+    sr: напон
+    sr-ec: напон
+    sr-el: napon
+    sv: dragspänning
+    ta: தகைவு
+    th: ความเค้น
+    tl: stress
+    tr: gerilim
+    uk: напруження
+    uz: mexanik kuchlanish
+    vi: Ứng suất
+    wuu: 应力
+    yue: 應力
+    zh: 應力
+    zh-cn: 应力
+    zh-hans: 应力
+    zh-hant: 應力
+    zh-hk: 應力
+    zh-sg: 应力
+    zh-tw: 應力
 ---
-
 # [[Mechanical_Stress]] 
 
 #is_/same_as :: [[WD~Mechanical_stress,206175]] 

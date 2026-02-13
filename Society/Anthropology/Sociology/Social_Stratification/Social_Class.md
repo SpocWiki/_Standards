@@ -1,29 +1,222 @@
 ---
 aliases:
+- aicme shóisialta
+- clas social
+- Clas soziela
+- clase social
+- classa sociala
+- classe social
+- classe sociale
+- classe suciale
+- classis
+- clasă socială
+- Dabaqad mujtamac
+- dosbarth cymdeithasol
+- društvena klasa
+- družbeni razred
+- giai cấp
+- Gizarte klase
+- ictimaği sıynıf
+- Ijtimoiy sinflar
+- jámiyetlik qatlam
+- kelas sosial
+- klas sokial
+- klasa społeczna
+- klasse
+- klasë shoqërore
+- maatskiplike klasse
+- sabiedrības slānis
+- samfundsklasse
+- samhällsklass
+- servodatluohkká
+- Siā-hōe kai-kip
+- socia klaso
+- social class
+- sociale klasse
+- socialinė klasė
+- sociální třída
+- sosial sinif
+- sosiale klas
+- sotsiaalne klass
+- sozial Klass
+- soziale Klasse
+- Soziali Klass
+- Spoločenská trieda
+- Stétt
+- Sınıfa sosyale
+- Tabaka (jamii)
+- toplumsal sınıf
+- társadalmi osztály
+- Uring panlipunan
+- yhteiskuntaluokka
+- çîna civakî
+- κοινωνική τάξη
+- друштвена класа
+- иҗтимагый сыйныф
+- Коомдук таптар
+- општествена класа
+- сацыяльная кляса
+- сацыяльны стан
+- соціальний клас
+- Социална класа
+- социальный класс
+- табақаи иҷтимоъӣ
+- Эйдаж
+- Қоғамдық тап
+- դասակարգային կառուցվածք
+- מעמד חברתי
+- سماجی طبقہ
+- طبقة اجتماعية
+- طبقه اجتماعی
+- طبقو
+- چینی کۆمەڵایەتی
+- सामाजिक तबका
+- सामाजिक वर्ग
+- সামাজিক শ্রেণী
+- ਸਾਮਾਜਕ ਵਰਗ
+- சமூக வகுப்பு
+- సామాజిక తరగతి
+- സാമൂഹിക വർഗ്ഗം
+- ชนชั้นทางสังคม
+- სოციალური კლასი
+- 社会阶级
+- 社会階級
+- 社會階層
+- 社會階級
+- 階級
+- 사회 계급
 has_id_wikidata: Q187588
-partially_coincident_with: "[[_Standards/WikiData/WD~social_stratum,149211]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~social_status,189970]]"
-has_cause: "[[_Standards/WikiData/WD~social_stratification,841628]]"
-subclass_of: "[[_Standards/WikiData/WD~social_group,874405]]"
-different_from: "[[_Standards/WikiData/WD~Klasse,1744556]]"
+partially_coincident_with: '[[_Standards/WikiData/WD~social_stratum,149211]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~social_status,189970]]'
+has_cause: '[[_Standards/WikiData/WD~social_stratification,841628]]'
+subclass_of: '[[_Standards/WikiData/WD~social_group,874405]]'
+different_from: '[[_Standards/WikiData/WD~Klasse,1744556]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Social_class,13599862]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Social_class,13599862]]'
 Wikidata_property: social classification
-studied_by: "[[_Standards/WikiData/WD~sociology,21201]]"
-OmegaWiki_Defined_Meaning: "487631"
-Dewey_Decimal_Classification: "305.5"
+studied_by: '[[_Standards/WikiData/WD~sociology,21201]]'
+OmegaWiki_Defined_Meaning: 487631
+Dewey_Decimal_Classification: 305.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Japanese%20Noble%20Samurai%20and%20Servant%20by%20Pannemaker%20c1845.png
 Library_of_Congress_Classification: HT609
 MeSH_tree_code:
-  - I01.880.853.996.755
-  - N01.824.782
+- I01.880.853.996.755
+- N01.824.782
 Commons_category: Social class
 IMDb_keyword: social-class
+dv_has_:
+  name_:
+    af: sosiale klas
+    ar: طبقة اجتماعية
+    ast: clas social
+    az: sosial sinif
+    be: сацыяльны стан
+    be-tarask: сацыяльная кляса
+    bg: Социална класа
+    bho: सामाजिक तबका
+    bn: সামাজিক শ্রেণী
+    br: klas sokial
+    bs: društvena klasa
+    ca: classe social
+    ckb: چینی کۆمەڵایەتی
+    co: classe suciale
+    cs: sociální třída
+    cy: dosbarth cymdeithasol
+    da: samfundsklasse
+    de: soziale Klasse
+    de-at: soziale Klasse
+    de-ch: soziale Klasse
+    diq: Sınıfa sosyale
+    el: κοινωνική τάξη
+    en: social class
+    en-ca: social class
+    en-gb: social class
+    eo: socia klaso
+    es: clase social
+    et: sotsiaalne klass
+    eu: Gizarte klase
+    fa: طبقه اجتماعی
+    fi: yhteiskuntaluokka
+    fr: classe sociale
+    fy: maatskiplike klasse
+    ga: aicme shóisialta
+    gl: clase social
+    gsw: Soziali Klass
+    he: מעמד חברתי
+    hi: सामाजिक वर्ग
+    hr: društvena klasa
+    hu: társadalmi osztály
+    hy: դասակարգային կառուցվածք
+    id: Kelas sosial
+    ig: social class
+    inh: Эйдаж
+    is: Stétt
+    it: classe sociale
+    ja: 社会階級
+    ka: სოციალური კლასი
+    kaa: jámiyetlik qatlam
+    kk: Қоғамдық тап
+    ko: 사회 계급
+    ku: çîna civakî
+    ku-latn: çîna civakî
+    ky: Коомдук таптар
+    la: classis
+    lb: sozial Klass
+    lld: Clas soziela
+    lt: socialinė klasė
+    lv: sabiedrības slānis
+    lzh: 階級
+    mk: општествена класа
+    ml: സാമൂഹിക വർഗ്ഗം
+    ms: kelas sosial
+    nan: Siā-hōe kai-kip
+    nb: klasse
+    nl: sociale klasse
+    oc: classa sociala
+    pa: ਸਾਮਾਜਕ ਵਰਗ
+    pl: klasa społeczna
+    pt: classe social
+    pt-br: classe social
+    ro: clasă socială
+    ru: социальный класс
+    sd: طبقو
+    se: servodatluohkká
+    sh: društvena klasa
+    sk: Spoločenská trieda
+    sl: družbeni razred
+    so: Dabaqad mujtamac
+    sq: klasë shoqërore
+    sr: друштвена класа
+    sr-ec: друштвена класа
+    sr-el: društvena klasa
+    sv: samhällsklass
+    sw: Tabaka (jamii)
+    ta: சமூக வகுப்பு
+    te: సామాజిక తరగతి
+    tg: табақаи иҷтимоъӣ
+    th: ชนชั้นทางสังคม
+    tl: Uring panlipunan
+    tr: toplumsal sınıf
+    tt: иҗтимагый сыйныф
+    tt-cyrl: иҗтимагый сыйныф
+    tt-latn: ictimaği sıynıf
+    uk: соціальний клас
+    ur: سماجی طبقہ
+    uz: Ijtimoiy sinflar
+    vi: giai cấp
+    wuu: 社会阶级
+    yue: 社會階層
+    zh: 社会阶级
+    zh-cn: 社会阶级
+    zh-hans: 社会阶级
+    zh-hant: 社會階級
+    zh-hk: 社會階級
+    zh-sg: 社会阶级
+    zh-tw: 社會階級
 ---
-
 # [[Social_Class]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Social_class,187588|WD~Social_class,187588]]  

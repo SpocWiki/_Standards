@@ -1,93 +1,300 @@
 ---
 aliases:
-  - Cirrhosis
-  - liver cirrhosis
-  - hepatic cirrhosis
-  - chronic liver failure
-  - chronic hepatic failure
-  - end-stage liver disease
-  - Liver_cirrhosis
-  - Liver cirrhosis
+- aknu ciroze
+- bawır cïrrozı
+- bokɔnɔ bwa libale
+- caitheamh a' ghrùthain
+- chronic hepatic failure
+- chronic liver failure
+- ciorróis
+- cirhóza pečene
+- ciroza
+- ciroza jeter
+- ciroza jetre
+- cirozo
+- ciroză
+- cirrhose
+- Cirrhosis
+- Cirrhosis hepatis
+- cirrose
+- cirrose hepática
+- cirrosi epatica
+- cirrosi hepàtica
+- cirrosis hepática
+- cirroza
+- end-stage liver disease
+- hepatic cirrhosis
+- jaterní cirhóza
+- jigar sirrozi
+- kepenų cirozė
+- kirroosi
+- kirroysh yn aane
+- koaⁿ-ngē-hoà
+- Leberzirrhose
+- levercirrhose
+- lewersirrose
+- Liewerzirros
+- liver cirrhosis
+- Liver_cirrhosis
+- maksatsirroos
+- marskość wątroby
+- májzsugor
+- sirosis
+- sirosis ate
+- sirosis hati
+- siroz
+- Sirroz
+- sirósis
+- skorpulifur
+- skrumpelever
+- skrumplever
+- sîroz
+- vuoivvaskirrosa
+- vuoivâskirroos
+- vuõivâskirroos
+- xơ gan
+- ymgreithiad yr afu
+- zirrosia
+- ċirrożi
+- κίρρωση
+- бавыр сырузы
+- бауыр циррозы
+- боордун циррозу
+- Быар цирроһа
+- цироз печінки
+- цироза
+- цироза јетре
+- цирроз печени
+- цыроз печані
+- элэгний хатуурал
+- Լեարդաթորշում
+- Լյարդի ցիռոզ
+- שחמת הכבד
+- باۋىر تسىيرروزى
+- تشمع
+- تشمع الكبد
+- تليف الكبد
+- سیروز
+- سیرۆسیس
+- شياح كبدة
+- کرٛیٚہنہٕ ماز بِہُن
+- लिव्हर सोरायसिस
+- लीवर सिरोसिस
+- सिरोसिस
+- চিৰ’ছিছ্
+- সিরোসিস
+- ਲਿਵਰ ਸਿਰੋਸਿਸ
+- ସିରୋସିସ୍
+- கல்லீரல் இழைநார் வளர்ச்சி
+- സിറോസിസ്
+- ตับแข็ง
+- ພະຍາດຕັບແຂງ
+- ღვიძლის ციროზი
+- ჩხონჩხიშ ციროზი
+- 肝硬化
+- 肝硬変
+- 간경화증
 has_id_wikidata: Q147778
 Commons_category: Cirrhosis
 ICD_10_CM: K74.60
 Krugosvet_article_archived_: medicina/TSIRROZ.html
 has_cause:
-  - '[[_Standards/WikiData/WD~Wilson_disease,117121]]'
-  - '[[_Standards/WikiData/WD~hepatitis,131742]]'
-  - '[[_Standards/WikiData/WD~autoimmune_hepatitis,786844]]'
-  - '[[_Standards/WikiData/WD~primary_sclerosing_cholangitis,1058608]]'
-  - '[[_Standards/WikiData/WD~hereditary_haemochromatosis,3144934]]'
-  - '[[_Standards/WikiData/WD~Indian_childhood_cirrhosis,17135346]]'
-  - '[[_Standards/WikiData/WD~alcoholism,15326]]'
+- '[[_Standards/WikiData/WD~Wilson_disease,117121]]'
+- '[[_Standards/WikiData/WD~hepatitis,131742]]'
+- '[[_Standards/WikiData/WD~autoimmune_hepatitis,786844]]'
+- '[[_Standards/WikiData/WD~primary_sclerosing_cholangitis,1058608]]'
+- '[[_Standards/WikiData/WD~hereditary_haemochromatosis,3144934]]'
+- '[[_Standards/WikiData/WD~Indian_childhood_cirrhosis,17135346]]'
+- '[[_Standards/WikiData/WD~alcoholism,15326]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~gastroenterology,120569]]'
-  - '[[_Standards/WikiData/WD~hepatology,668064]]'
+- '[[_Standards/WikiData/WD~gastroenterology,120569]]'
+- '[[_Standards/WikiData/WD~hepatology,668064]]'
 medical_examination:
-  - '[[_Standards/WikiData/WD~medical_ultrasonography,234904]]'
-  - '[[_Standards/WikiData/WD~liver_biopsy,360841]]'
-  - '[[_Standards/WikiData/WD~blood_test,886837]]'
-  - '[[_Standards/WikiData/WD~computed_tomography,32566]]'
+- '[[_Standards/WikiData/WD~medical_ultrasonography,234904]]'
+- '[[_Standards/WikiData/WD~liver_biopsy,360841]]'
+- '[[_Standards/WikiData/WD~blood_test,886837]]'
+- '[[_Standards/WikiData/WD~computed_tomography,32566]]'
 drug_or_therapy_used_for_treatment:
-  - '[[_Standards/WikiData/WD~bumetanide,275926]]'
-  - '[[_Standards/WikiData/WD~adefovir,353551]]'
-  - '[[_Standards/WikiData/WD~furosemide,388801]]'
-  - '[[_Standards/WikiData/WD~boceprevir,410551]]'
-  - '[[_Standards/WikiData/WD~rifaximin,416073]]'
-  - '[[_Standards/WikiData/WD~ethacrynic_acid,418571]]'
-  - '[[_Standards/WikiData/WD~torasemide,419948]]'
-  - '[[_Standards/WikiData/WD~peginterferon_alfa_2a,420056]]'
-  - '[[_Standards/WikiData/WD~ribavirin,421862]]'
-  - '[[_Standards/WikiData/WD~tolvaptan,426132]]'
-  - '[[_Standards/WikiData/WD~sofosbuvir,2502747]]'
-  - '[[_Standards/WikiData/WD~daclatasvir,5207712]]'
-  - '[[_Standards/WikiData/WD~peginterferon_alfa_2b,7160789]]'
-  - '[[_Standards/WikiData/WD~simeprevir,7517689]]'
-  - '[[_Standards/WikiData/WD~obeticholic_acid,15708271]]'
-  - '[[_Standards/WikiData/WD~ledipasvir_sofosbuvir,19597688]]'
-  - '[[_Standards/WikiData/WD~entecavir_hydrate,27126952]]'
-  - '[[_Standards/WikiData/WD~ethacrynate_sodium,27281933]]'
+- '[[_Standards/WikiData/WD~bumetanide,275926]]'
+- '[[_Standards/WikiData/WD~adefovir,353551]]'
+- '[[_Standards/WikiData/WD~furosemide,388801]]'
+- '[[_Standards/WikiData/WD~boceprevir,410551]]'
+- '[[_Standards/WikiData/WD~rifaximin,416073]]'
+- '[[_Standards/WikiData/WD~ethacrynic_acid,418571]]'
+- '[[_Standards/WikiData/WD~torasemide,419948]]'
+- '[[_Standards/WikiData/WD~peginterferon_alfa_2a,420056]]'
+- '[[_Standards/WikiData/WD~ribavirin,421862]]'
+- '[[_Standards/WikiData/WD~tolvaptan,426132]]'
+- '[[_Standards/WikiData/WD~sofosbuvir,2502747]]'
+- '[[_Standards/WikiData/WD~daclatasvir,5207712]]'
+- '[[_Standards/WikiData/WD~peginterferon_alfa_2b,7160789]]'
+- '[[_Standards/WikiData/WD~simeprevir,7517689]]'
+- '[[_Standards/WikiData/WD~obeticholic_acid,15708271]]'
+- '[[_Standards/WikiData/WD~ledipasvir_sofosbuvir,19597688]]'
+- '[[_Standards/WikiData/WD~entecavir_hydrate,27126952]]'
+- '[[_Standards/WikiData/WD~ethacrynate_sodium,27281933]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_effect:
-  - '[[_Standards/WikiData/WD~liver_cancer,623031]]'
-  - '[[_Standards/WikiData/WD~liver_failure,970208]]'
+- '[[_Standards/WikiData/WD~liver_cancer,623031]]'
+- '[[_Standards/WikiData/WD~liver_failure,970208]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~liver_disease,929737]]'
-  - '[[_Standards/WikiData/WD~cirrosis,12569389]]'
-  - '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~liver_disease,929737]]'
+- '[[_Standards/WikiData/WD~cirrosis,12569389]]'
+- '[[_Standards/WikiData/WD~disease,12136]]'
 possible_treatment: '[[_Standards/WikiData/WD~liver_transplantation,1368191]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
 genetic_association:
-  - '[[_Standards/WikiData/WD~TSBP1,18035589]]'
-  - '[[_Standards/WikiData/WD~BTNL2,18042335]]'
+- '[[_Standards/WikiData/WD~TSBP1,18035589]]'
+- '[[_Standards/WikiData/WD~BTNL2,18042335]]'
 instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
 anatomical_locations: '[[_Standards/WikiData/WD~liver,9368]]'
 afflicts: '[[_Standards/WikiData/WD~human,5]]'
 DiseasesDB: 2729
 OmegaWiki_Defined_Meaning: 713751
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cirrhosis%20Liver%204x.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Karaci%C4%9Fer%20sirozu.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis-ar.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis-it.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis%20es.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cirrhosis%20Liver%204x.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Karaci%C4%9Fer%20sirozu.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis-ar.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis-it.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Liver%20Cirrhosis%20es.png
 exact_match:
-  - http://identifiers.org/doid/DOID:5082
-  - http://purl.obolibrary.org/obo/DOID_5082
-  - http://purl.obolibrary.org/obo/HP_0001394
-  - http://purl.obolibrary.org/obo/HP_0001395
+- http://identifiers.org/doid/DOID:5082
+- http://purl.obolibrary.org/obo/DOID_5082
+- http://purl.obolibrary.org/obo/HP_0001394
+- http://purl.obolibrary.org/obo/HP_0001395
 ICD_9_CM: 571.5
 UMLS_CUI:
-  - C0023890
-  - C0239946
+- C0023890
+- C0239946
 MeSH_tree_code:
-  - C06.552.630
-  - C23.550.355.412
+- C06.552.630
+- C23.550.355.412
+dv_has_:
+  name_:
+    ace: sirosis ate
+    aeb-arab: شياح كبدة
+    af: lewersirrose
+    ar: تشمع الكبد
+    arz: تليف الكبد
+    as: চিৰ’ছিছ্
+    ast: cirrosis hepática
+    az: Sirroz
+    azb: سیروز
+    be: цыроз печані
+    be-tarask: цыроз печані
+    bg: цироза
+    bn: সিরোসিস
+    bs: ciroza
+    ca: cirrosi hepàtica
+    ckb: سیرۆسیس
+    cs: jaterní cirhóza
+    cy: ymgreithiad yr afu
+    da: skrumpelever
+    de: Leberzirrhose
+    diq: siroz
+    el: κίρρωση
+    en: liver cirrhosis
+    en-ca: cirrhosis
+    en-gb: cirrhosis
+    en-us: liver cirrhosis
+    eo: cirozo
+    es: cirrosis hepática
+    et: maksatsirroos
+    eu: zirrosia
+    fa: سیروز
+    fi: kirroosi
+    fr: cirrhose
+    ga: ciorróis
+    gd: caitheamh a' ghrùthain
+    gl: cirrose hepática
+    gpe: liver cirrhosis
+    gv: kirroysh yn aane
+    ha: Cirrhosis
+    he: שחמת הכבד
+    hi: लीवर सिरोसिस
+    hr: ciroza jetre
+    hu: májzsugor
+    hy: Լյարդի ցիռոզ
+    hyw: Լեարդաթորշում
+    ia: cirrose
+    id: sirosis hati
+    is: skorpulifur
+    it: cirrosi epatica
+    ja: 肝硬変
+    ka: ღვიძლის ციროზი
+    kk: бауыр циррозы
+    kk-arab: باۋىر تسىيرروزى
+    kk-cn: باۋىر تسىيرروزى
+    kk-cyrl: бауыр циррозы
+    kk-kz: бауыр циррозы
+    kk-latn: bawır cïrrozı
+    kk-tr: bawır cïrrozı
+    ko: 간경화증
+    ks: کرٛیٚہنہٕ ماز بِہُن
+    ku: sîroz
+    ky: боордун циррозу
+    la: Cirrhosis hepatis
+    lb: Liewerzirros
+    ln: bokɔnɔ bwa libale
+    lo: ພະຍາດຕັບແຂງ
+    lt: kepenų cirozė
+    lv: aknu ciroze
+    min: sirosis
+    mk: цироза
+    ml: സിറോസിസ്
+    mn: элэгний хатуурал
+    mr: लिव्हर सोरायसिस
+    ms: sirosis
+    mt: ċirrożi
+    nan: koaⁿ-ngē-hoà
+    nb: skrumplever
+    new: सिरोसिस
+    nl: cirrose
+    nn: levercirrhose
+    or: ସିରୋସିସ୍
+    pa: ਲਿਵਰ ਸਿਰੋਸਿਸ
+    pap: sirósis
+    pl: marskość wątroby
+    pt: cirrose hepática
+    pt-br: cirrose hepática
+    ro: ciroză
+    ru: цирроз печени
+    sah: Быар цирроһа
+    se: vuoivvaskirrosa
+    sh: ciroza jetre
+    sk: cirhóza pečene
+    sl: ciroza jeter
+    smn: vuoivâskirroos
+    sms: vuõivâskirroos
+    sq: cirroza
+    sr: цироза јетре
+    sr-ec: цироза јетре
+    sr-el: ciroza jetre
+    sv: skrumplever
+    ta: கல்லீரல் இழைநார் வளர்ச்சி
+    th: ตับแข็ง
+    tl: sirosis
+    tr: siroz
+    tt: бавыр сырузы
+    uk: цироз печінки
+    ur: تشمع
+    uz: jigar sirrozi
+    vi: xơ gan
+    war: sirosis
+    wuu: 肝硬化
+    xmf: ჩხონჩხიშ ციროზი
+    yue: 肝硬化
+    zh: 肝硬化
+    zh-cn: 肝硬化
+    zh-hans: 肝硬化
+    zh-hant: 肝硬化
+    zh-hk: 肝硬化
+    zh-sg: 肝硬化
+    zh-tw: 肝硬化
 ---
-
 # [[Liver_cirrhosis]] 
 
 #is_/same_as :: [[WD~Liver_cirrhosis,147778]] 

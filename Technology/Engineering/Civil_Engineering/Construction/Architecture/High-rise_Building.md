@@ -1,24 +1,147 @@
 ---
 aliases:
+- adeilad aml-lawr
+- altuera handiko eraikin
+- arranha-céu
+- augstceltne
+- Bangunan tinggi
+- bloc turn
+- Blokinis namas
+- casa a torre
+- edifici de gran altura
+- edificio de grande altura
+- edifício alto
+- foirgneamh ardstórach
+- Hochhaus
+- hoog gebouw
+- Háhýsi
+- Héichhaus
+- höghus
+- højhus
+- høyhus
+- hündür tikili
+- immeuble de grande hauteur
+- kõrghoone
+- nhà cao tầng
+- Soliter
+- stambeni neboder
+- stolpnica
+- tore
+- tornitalo
+- toronyház
+- torre
+- touer block
+- tower block
+- turdomo
+- visoka zgrada
+- výšková budova
+- wysokodom
+- wysokościowiec
+- yüksek apartman
+- πολυόροφο κτήριο
+- Бейек бина
+- високоградња
+- висотна будівля
+- высотное здание
+- вышынны будынак
+- Жилищен блок
+- кула
+- բազմահարկ շենք
+- רב-קומות
+- برج شاهق
+- بلند و بالا عمارت
+- مجتمع مسکونی
+- 多層大廈
+- 高层建筑物
+- 高層建築物
+- 高樓
+- 고층 건물
 has_id_wikidata: Q18142
 has_use:
-  - "[[_Standards/WikiData/WD~office,182060]]"
-  - "[[../../../../../WikiData/WD~shelter,989946]]"
-  - "[[_Standards/WikiData/WD~home,7743]]"
-has_characteristic: "[[_Standards/WikiData/WD~height,208826]]"
-has_part_s_: "[[_Standards/WikiData/WD~storey,831691]]"
+- '[[_Standards/WikiData/WD~office,182060]]'
+- '[[../../../../../WikiData/WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~home,7743]]'
+has_characteristic: '[[_Standards/WikiData/WD~height,208826]]'
+has_part_s_: '[[_Standards/WikiData/WD~storey,831691]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Inc.,2743906]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-opposite_of: "[[_Standards/WikiData/WD~low_rise_building,6692780]]"
-follows: "[[_Standards/WikiData/WD~medium_rise_building,11364007]]"
-subclass_of: "[[_Standards/WikiData/WD~multi_story_urban_building,11755959]]"
-different_from: "[[_Standards/WikiData/WD~skyscraper,11303]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Inc.,2743906]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+opposite_of: '[[_Standards/WikiData/WD~low_rise_building,6692780]]'
+follows: '[[_Standards/WikiData/WD~medium_rise_building,11364007]]'
+subclass_of: '[[_Standards/WikiData/WD~multi_story_urban_building,11755959]]'
+different_from: '[[_Standards/WikiData/WD~skyscraper,11303]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vilnius%20CBD.jpg
 Commons_category: High-rises
+dv_has_:
+  name_:
+    ar: برج شاهق
+    ast: torre
+    az: hündür tikili
+    ba: Бейек бина
+    be: вышынны будынак
+    be-tarask: вышынны будынак
+    bg: Жилищен блок
+    bs: Soliter
+    ca: edifici de gran altura
+    cs: výšková budova
+    cy: adeilad aml-lawr
+    da: højhus
+    de: Hochhaus
+    de-ch: Hochhaus
+    el: πολυόροφο κτήριο
+    en: tower block
+    en-ca: tower block
+    en-gb: tower block
+    eo: turdomo
+    es: torre
+    et: kõrghoone
+    eu: altuera handiko eraikin
+    fa: مجتمع مسکونی
+    fi: tornitalo
+    fr: immeuble de grande hauteur
+    ga: foirgneamh ardstórach
+    gl: edificio de grande altura
+    he: רב-קומות
+    hr: stambeni neboder
+    hsb: wysokodom
+    hu: toronyház
+    hy: բազմահարկ շենք
+    id: Bangunan tinggi
+    is: Háhýsi
+    it: casa a torre
+    ja: 高層建築物
+    ko: 고층 건물
+    lb: Héichhaus
+    lt: Blokinis namas
+    lv: augstceltne
+    lzh: 高樓
+    mk: кула
+    ms: bangunan tinggi
+    nb: høyhus
+    nl: hoog gebouw
+    pl: wysokościowiec
+    pt: edifício alto
+    pt-br: arranha-céu
+    ro: bloc turn
+    ru: высотное здание
+    sco: touer block
+    sh: visoka zgrada
+    sk: výšková budova
+    sl: stolpnica
+    sr: високоградња
+    sr-ec: високоградња
+    sv: höghus
+    tr: yüksek apartman
+    uk: висотна будівля
+    ur: بلند و بالا عمارت
+    vec: tore
+    vi: nhà cao tầng
+    yue: 多層大廈
+    zh: 高层建筑物
+    zh-hant: 高層建築物
+    zh-hk: 多層大廈
 ---
-
 # [[High-rise_Building]] 
 
 #is_/same_as :: [[WD~High-rise_building,18142]] 

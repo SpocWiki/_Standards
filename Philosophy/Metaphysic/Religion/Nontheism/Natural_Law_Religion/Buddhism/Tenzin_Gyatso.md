@@ -1,118 +1,190 @@
 ---
 aliases:
-  - Tenzin_Gyatso
-  - Tenzin Gyatso
+- 14 ನೇ ದಲೈ ಲಾಮಾ
+- 14-р Далай Лама
+- 14t Dalai Lama
+- 14th Dalai Lama
+- 14वाँ दलाई लामा
+- 14ਵੇਂ ਦਲਾਈ ਲਾਮਾ
+- 14ኛው ዳላይ ላማ
+- Adalaylama wis 14
+- Dalai Cibseiqseiq
+- Dalai Lama 14-sié
+- Dalai Lama 14-sè
+- Dalai Lama 14-sṳ
+- Dalai Lama ka-14
+- Dalai Lama ke-14
+- Dalai Lama XIV
+- Dalajláma XIV.
+- dalilama
+- Gyatso Tenzin
+- Ika-14 nga Dalai Lama
+- Ikalabing-apat na Dalai Lama ng Tibet
+- Tendzin Gyaco
+- Tendzin Gyatsho
+- Tendzin Gyatso
+- Tenzin Gjaco
+- Tenzin Gjatso
+- Tenzin Gyatso
+- Tenzin Gyatso, 14eg Dalai Lama
+- Tenzin Gyatso, 14th Dalai Lama
+- Tenzin Gyatso, XIV. Dalaj Lama
+- Tenzins Gjaco
+- Tenzin_Gyatso
+- Tändzin Gjamccho
+- XIV Dalai Lama
+- XIV Dalay Lama
+- XIV වන දලයි ලාමා
+- XIV დალაი ლამა
+- XIV-кү Далай-Лама
+- Τεντζίν Γκιάτσο
+- Арван дөрөвдүгээр Далай лам
+- Далай лама XIV
+- Далай-лама XIV
+- Тензин Гјатсо
+- Тензин Гяцо
+- Тенцин Ѓацо
+- Դալայ Լամա
+- טנזין גיאטסו
+- اوْندؤردونجو دالایی لامای
+- تنزن گیاتسو
+- تنزین گیاتسو
+- تينزن جياتسو
+- تينزن غياتسو
+- تێنزن گیاتسۆ
+- دالاي لاما
+- دالایی لامای چهاردهم
+- دلائی لاما
+- دلائی لاما تنزن گیاتسو
+- चौदावे दलाई लामा
+- चौधौं दलाई लामा
+- तेनजिन ग्यात्सो
+- १४हम दलाई लामा
+- টেনজিং গিয়াত্ ছো
+- তেনজ়িন গিয়াৎসো
+- டென்சின் கியாட்சோ
+- ടെൻസിൻ ഗ്യാറ്റ്സോ
+- ทะไลลามะที่ 14
+- བསྟན་འཛིན་རྒྱ་མཚོ།
+- တင်းဇင်းဂျရတ်စို
+- សម្តេច Dalai Lama ទី 14
+- ダライ・ラマ14世
+- 丹增嘉措
+- 第十四世达赖喇嘛
+- 第十四世達賴喇嘛
+- 達賴喇嘛十四世
+- 텐진 갸초
 has_id_wikidata: Q17293
 residence:
-  - '[[_Standards/WikiData/WD~Potala_Palace,71229]]'
-  - '[[_Standards/WikiData/WD~Norbulingka,867537]]'
-  - '[[_Standards/WikiData/WD~McLeod_Ganj,3072050]]'
+- '[[_Standards/WikiData/WD~Potala_Palace,71229]]'
+- '[[_Standards/WikiData/WD~Norbulingka,867537]]'
+- '[[_Standards/WikiData/WD~McLeod_Ganj,3072050]]'
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~Lama,191421]]'
-  - '[[_Standards/WikiData/WD~Buddhist_monk,854997]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~Lama,191421]]'
+- '[[_Standards/WikiData/WD~Buddhist_monk,854997]]'
 student_of:
-  - '[[_Standards/WikiData/WD~Heinrich_Harrer,84211]]'
-  - '[[_Standards/WikiData/WD~Thubten_Lungtog_Tenzin_Trinley,512927]]'
-  - '[[_Standards/WikiData/WD~Trulshik_Rinpoche,550380]]'
-  - '[[_Standards/WikiData/WD~Ngawang_Sungrab_Thutob,957724]]'
-  - '[[_Standards/WikiData/WD~Dilgo_Khyentse_Tashi_Peljor,1225498]]'
-  - '[[_Standards/WikiData/WD~Lobzang_Yeshe_Tenzin_Gyatso,1389294]]'
-  - '[[_Standards/WikiData/WD~Chogye_Trichen,1984188]]'
-  - '[[_Standards/WikiData/WD~Khunu_Lama_Tenzin_Gyaltsen,3196242]]'
+- '[[_Standards/WikiData/WD~Heinrich_Harrer,84211]]'
+- '[[_Standards/WikiData/WD~Thubten_Lungtog_Tenzin_Trinley,512927]]'
+- '[[_Standards/WikiData/WD~Trulshik_Rinpoche,550380]]'
+- '[[_Standards/WikiData/WD~Ngawang_Sungrab_Thutob,957724]]'
+- '[[_Standards/WikiData/WD~Dilgo_Khyentse_Tashi_Peljor,1225498]]'
+- '[[_Standards/WikiData/WD~Lobzang_Yeshe_Tenzin_Gyatso,1389294]]'
+- '[[_Standards/WikiData/WD~Chogye_Trichen,1984188]]'
+- '[[_Standards/WikiData/WD~Khunu_Lama_Tenzin_Gyaltsen,3196242]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Sera_Monastery,124848]]'
-  - '[[_Standards/WikiData/WD~Drepung_Monastery,241937]]'
-  - '[[_Standards/WikiData/WD~University_of_Melbourne,319078]]'
-  - '[[_Standards/WikiData/WD~University_of_British_Columbia,391028]]'
+- '[[_Standards/WikiData/WD~Sera_Monastery,124848]]'
+- '[[_Standards/WikiData/WD~Drepung_Monastery,241937]]'
+- '[[_Standards/WikiData/WD~University_of_Melbourne,319078]]'
+- '[[_Standards/WikiData/WD~University_of_British_Columbia,391028]]'
 religious_order: '[[_Standards/WikiData/WD~Gelug,319218]]'
 place_of_birth: '[[_Standards/WikiData/WD~Taktser,426534]]'
 student:
-  - '[[_Standards/WikiData/WD~His_Holiness_the_17th_Gyalwang_Karmapa_Orgyen_Trinley_Dorje_,465033]]'
-  - '[[_Standards/WikiData/WD~Lobsang_Tenzin,934311]]'
-  - '[[_Standards/WikiData/WD~khetsun_sangpo,2906448]]'
-  - '[[_Standards/WikiData/WD~Tenzin_Loungtog_Thrinlè_Chöpa,3057568]]'
-  - '[[_Standards/WikiData/WD~Q9346921,9346921]]'
-  - '[[_Standards/WikiData/WD~Thubten_Nyima_Lungtog_Tendzin_Norbu,15965005]]'
-  - '[[_Standards/WikiData/WD~Geshé_Tenpa_Tendzin,106792079]]'
-  - '[[_Standards/WikiData/WD~Lozang_Samten,106792429]]'
-  - '[[_Standards/WikiData/WD~Lozang_Tenpa,106792434]]'
-  - '[[_Standards/WikiData/WD~Ngawang_Nyima,106792435]]'
-  - '[[_Standards/WikiData/WD~Lozang_Chöying,106792433]]'
-  - '[[_Standards/WikiData/WD~Ga_Shar_Khen_Zur_Geshé_Tamdrin_Gyatso,106792438]]'
-  - '[[_Standards/WikiData/WD~Tré_Khen_Zur_Lozang_Wangchuk,106792459]]'
-  - '[[_Standards/WikiData/WD~Tendzin_Chökyi_Gyatso,106793180]]'
-  - '[[_Standards/WikiData/WD~dagyab_loden_sherab,106793181]]'
-  - '[[_Standards/WikiData/WD~Ngawang_Kunga,43367]]'
+- '[[_Standards/WikiData/WD~His_Holiness_the_17th_Gyalwang_Karmapa_Orgyen_Trinley_Dorje_,465033]]'
+- '[[_Standards/WikiData/WD~Lobsang_Tenzin,934311]]'
+- '[[_Standards/WikiData/WD~khetsun_sangpo,2906448]]'
+- '[[_Standards/WikiData/WD~Tenzin_Loungtog_Thrinlè_Chöpa,3057568]]'
+- '[[_Standards/WikiData/WD~Q9346921,9346921]]'
+- '[[_Standards/WikiData/WD~Thubten_Nyima_Lungtog_Tendzin_Norbu,15965005]]'
+- '[[_Standards/WikiData/WD~Geshé_Tenpa_Tendzin,106792079]]'
+- '[[_Standards/WikiData/WD~Lozang_Samten,106792429]]'
+- '[[_Standards/WikiData/WD~Lozang_Tenpa,106792434]]'
+- '[[_Standards/WikiData/WD~Ngawang_Nyima,106792435]]'
+- '[[_Standards/WikiData/WD~Lozang_Chöying,106792433]]'
+- '[[_Standards/WikiData/WD~Ga_Shar_Khen_Zur_Geshé_Tamdrin_Gyatso,106792438]]'
+- '[[_Standards/WikiData/WD~Tré_Khen_Zur_Lozang_Wangchuk,106792459]]'
+- '[[_Standards/WikiData/WD~Tendzin_Chökyi_Gyatso,106793180]]'
+- '[[_Standards/WikiData/WD~dagyab_loden_sherab,106793181]]'
+- '[[_Standards/WikiData/WD~Ngawang_Kunga,43367]]'
 religion_or_worldview:
-  - '[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]'
-  - '[[_Standards/WikiData/WD~Rimé_movement,1571776]]'
+- '[[_Standards/WikiData/WD~Tibetan_Buddhism,483889]]'
+- '[[_Standards/WikiData/WD~Rimé_movement,1571776]]'
 award_received:
-  - '[[_Standards/WikiData/WD~honorary_Canadian_citizenship,498339]]'
-  - '[[_Standards/WikiData/WD~Templeton_Prize,603631]]'
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~Dr._Leopold_Lucas_Prize,1253790]]'
-  - '[[_Standards/WikiData/WD~Peace_Prize_of_Hesse,1615922]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_White_Lotus,4335910]]'
-  - '[[_Standards/WikiData/WD~Philadelphia_Liberty_Medal,7182737]]'
-  - '[[_Standards/WikiData/WD~Order_Ecce_Homo,11798929]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Tartu,12376540]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Rome,15124291]]'
-  - "[[_Standards/WikiData/WD~Erik_Bye's_Memorial_Prize,17769748]]"
-  - '[[_Standards/WikiData/WD~Order_of_the_Tyva_Republic,19910703]]'
-  - '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_Medal,20203866]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]'
-  - '[[_Standards/WikiData/WD~James_Parks_Morton_Interfaith_Award,20892672]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Warsaw,54182620]]'
-  - '[[_Standards/WikiData/WD~honorary_citizen_of_Budapest,56479277]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Münster,70332569]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Santiago,_Chile,96622666]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Marburg,97301393]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_Lusíada_University,97572489]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Tromso,106508988]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Miami,110471679]]'
-  - '[[_Standards/WikiData/WD~honorary_doctorate_of_Paris_Nanterre_University,112115429]]'
-  - '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
+- '[[_Standards/WikiData/WD~honorary_Canadian_citizenship,498339]]'
+- '[[_Standards/WikiData/WD~Templeton_Prize,603631]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Dr._Leopold_Lucas_Prize,1253790]]'
+- '[[_Standards/WikiData/WD~Peace_Prize_of_Hesse,1615922]]'
+- '[[_Standards/WikiData/WD~Order_of_the_White_Lotus,4335910]]'
+- '[[_Standards/WikiData/WD~Philadelphia_Liberty_Medal,7182737]]'
+- '[[_Standards/WikiData/WD~Order_Ecce_Homo,11798929]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Tartu,12376540]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Rome,15124291]]'
+- "[[_Standards/WikiData/WD~Erik_Bye's_Memorial_Prize,17769748]]"
+- '[[_Standards/WikiData/WD~Order_of_the_Tyva_Republic,19910703]]'
+- '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_Medal,20203866]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_Jagiellonian_University_of_Krakow,20853550]]'
+- '[[_Standards/WikiData/WD~James_Parks_Morton_Interfaith_Award,20892672]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Warsaw,54182620]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Budapest,56479277]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Münster,70332569]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Comenius_University,88466601]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Santiago,_Chile,96622666]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Marburg,97301393]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_Lusíada_University,97572489]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Tromso,106508988]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Miami,110471679]]'
+- '[[_Standards/WikiData/WD~honorary_doctorate_of_Paris_Nanterre_University,112115429]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Smile,55697]]'
 ethnic_group: '[[_Standards/WikiData/WD~Monguor_people,852205]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Lobsang_Samten,944817]]'
-  - '[[_Standards/WikiData/WD~Tubten_Jigme_Norbu,1385565]]'
-  - '[[_Standards/WikiData/WD~Jetsun_Pema,2032069]]'
-  - '[[_Standards/WikiData/WD~Gyalo_Thondup,2335106]]'
-  - '[[_Standards/WikiData/WD~Ngari_Rinpoché,2644574]]'
-  - '[[_Standards/WikiData/WD~Tsering_Dolma,3541491]]'
+- '[[_Standards/WikiData/WD~Lobsang_Samten,944817]]'
+- '[[_Standards/WikiData/WD~Tubten_Jigme_Norbu,1385565]]'
+- '[[_Standards/WikiData/WD~Jetsun_Pema,2032069]]'
+- '[[_Standards/WikiData/WD~Gyalo_Thondup,2335106]]'
+- '[[_Standards/WikiData/WD~Ngari_Rinpoché,2644574]]'
+- '[[_Standards/WikiData/WD~Tsering_Dolma,3541491]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Tendzin_Gyatsho,1702171]]'
-  - '[[_Standards/WikiData/WD~Dalailama,3012265]]'
-  - '[[_Standards/WikiData/WD~Dalai_Lama,37349]]'
+- '[[_Standards/WikiData/WD~Tendzin_Gyatsho,1702171]]'
+- '[[_Standards/WikiData/WD~Dalailama,3012265]]'
+- '[[_Standards/WikiData/WD~Dalai_Lama,37349]]'
 mother: '[[_Standards/WikiData/WD~Diki_Tsering,2384743]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Tibet,2444884]]'
-  - '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Tibet,2444884]]'
+- '[[_Standards/WikiData/WD~Republic_of_China,13426199]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_14th_Dalai_Lama,6722911]]'
 position_held:
-  - "[[_Standards/WikiData/WD~National_People's_Congress_deputy,10891456]]"
-  - '[[_Standards/WikiData/WD~Dalai_Lama,37349]]'
+- "[[_Standards/WikiData/WD~National_People's_Congress_deputy,10891456]]"
+- '[[_Standards/WikiData/WD~Dalai_Lama,37349]]'
 family: '[[_Standards/WikiData/WD~family_of_the_14th_Dalai_Lama,11069491]]'
 father: '[[_Standards/WikiData/WD~Choekyong_Tsering,16906376]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Tenzin,19968658]]'
-  - '[[_Standards/WikiData/WD~Gyatso,47156360]]'
-  - '[[_Standards/WikiData/WD~Lhamo,47156451]]'
-  - '[[_Standards/WikiData/WD~Thondup,47156496]]'
+- '[[_Standards/WikiData/WD~Tenzin,19968658]]'
+- '[[_Standards/WikiData/WD~Gyatso,47156360]]'
+- '[[_Standards/WikiData/WD~Lhamo,47156451]]'
+- '[[_Standards/WikiData/WD~Thondup,47156496]]'
 notable_work: '[[_Standards/WikiData/WD~Universal_Responsibility_and_the_Good_Heart,24004747]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~Chinese,7850]]'
-  - '[[_Standards/WikiData/WD~Tibetan,34271]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chinese,7850]]'
+- '[[_Standards/WikiData/WD~Tibetan,34271]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 movement: '[[_Standards/WikiData/WD~pacifism,58848]]'
 Plex_person_key: 5d776836f54112001f5bd9c1
@@ -132,15 +204,147 @@ social_media_followers: 18028249
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Dalai%20Lama%27s%20Signature.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Dalai%20Lama%20in%202012.jpg
 official_website:
-  - http://dalailama.ru/
-  - http://de.dalailama.com/
-  - http://eldalailama.com/
-  - http://www.dalaiLama.com/
-  - https://fr.dalailama.com/
+- http://dalailama.ru/
+- http://de.dalailama.com/
+- http://eldalailama.com/
+- http://www.dalaiLama.com/
+- https://fr.dalailama.com/
 ISNI: 0000000121285920
 Libris_URI: 1zcff2jk33lctb6
+dv_has_:
+  name_:
+    af: Tenzin Gyatso
+    am: 14ኛው ዳላይ ላማ
+    an: Tenzin Gyatso
+    ar: تينزن غياتسو
+    arz: تينزن جياتسو
+    as: টেনজিং গিয়াত্ ছো
+    ast: Tenzin Gyatso
+    az: XIV Dalay Lama
+    azb: اوْندؤردونجو دالایی لامای
+    ba: Далай-Лама XIV
+    ban: Dalai Lama ka-14
+    be: Далай-лама XIV
+    be-tarask: Далай-лама XIV
+    bg: Тензин Гяцо
+    bho: 14वाँ दलाई लामा
+    bn: তেনজ়িন গিয়াৎসো
+    bo: བསྟན་འཛིན་རྒྱ་མཚོ།
+    br: Tenzin Gyatso
+    bs: Tenzin Gyatso
+    bxr: 14-р Далай Лама
+    ca: Tenzin Gyatso
+    cdo: Dalai Lama 14-sié
+    ceb: Tenzin Gyatso
+    ckb: تێنزن گیاتسۆ
+    co: Tenzin Gyatso
+    cs: Tändzin Gjamccho
+    cv: Далай-лама XIV
+    cy: Tenzin Gyatso, 14eg Dalai Lama
+    da: Tenzin Gyatso
+    de: Tenzin Gyatso
+    de-ch: Tendzin Gyatso
+    el: Τεντζίν Γκιάτσο
+    en: Tenzin Gyatso
+    en-ca: 14th Dalai Lama
+    en-gb: 14th Dalai Lama
+    eo: Tenzin Gjatso
+    es: Tenzin Gyatso
+    et: Tenzin Gyatso
+    eu: Tenzin Gyatso
+    ext: Tenzin Gyatso
+    fa: دالایی لامای چهاردهم
+    fi: Tenzin Gyatso
+    fr: Tenzin Gyatso
+    frp: Tenzin Gyatso
+    ga: Tenzin Gyatso
+    gan: 丹增嘉措
+    gd: Tenzin Gyatso
+    gl: Tenzin Gyatso
+    gsw: Tenzin Gyatso
+    hak: Dalai Lama 14-sṳ
+    he: טנזין גיאטסו
+    hi: तेनजिन ग्यात्सो
+    hr: Tenzin Gyatso, XIV. Dalaj Lama
+    ht: Tenzin Gyatso
+    hu: Tendzin Gyaco
+    hy: Դալայ Լամա
+    id: Tenzin Gyatso
+    io: Tenzin Gyatso
+    is: Tenzin Gyatso
+    it: Tenzin Gyatso
+    ja: ダライ・ラマ14世
+    jv: Tenzin Gyatso
+    ka: XIV დალაი ლამა
+    kab: Adalaylama wis 14
+    km: សម្តេច Dalai Lama ទី 14
+    kn: 14 ನೇ ದಲೈ ಲಾಮಾ
+    ko: 텐진 갸초
+    ksh: Tenzin Gyatso
+    ky: Далай лама XIV
+    la: Tenzin Gyatso
+    lad: Tenzin Gyatso
+    lb: Tendzin Gyatsho
+    li: Tenzin Gyatso
+    lt: Dalai Lama XIV
+    lv: Tenzins Gjaco
+    mag: तेनजिन ग्यात्सो
+    mai: १४हम दलाई लामा
+    mg: Tenzin Gyatso
+    mk: Тенцин Ѓацо
+    ml: ടെൻസിൻ ഗ്യാറ്റ്സോ
+    mn: Арван дөрөвдүгээр Далай лам
+    mr: चौदावे दलाई लामा
+    ms: Dalai Lama ke-14
+    my: တင်းဇင်းဂျရတ်စို
+    mzn: تنزین گیاتسو
+    nan: Dalai Lama 14-sè
+    nb: Tenzin Gyatso
+    ne: चौधौं दलाई लामा
+    nl: Tenzin Gyatso
+    nn: Tenzin Gyatso
+    oc: Tenzin Gyatso
+    pa: 14ਵੇਂ ਦਲਾਈ ਲਾਮਾ
+    pap: Tenzin Gyatso
+    pl: Tenzin Gjaco
+    pnb: دلائی لاما
+    pt: XIV Dalai Lama
+    pt-br: Tenzin Gyatso
+    ro: Tenzin Gyatso
+    ru: Далай-лама XIV
+    scn: Tenzin Gyatso
+    sco: 14t Dalai Lama
+    se: Tenzin Gyatso
+    sh: Tenzin Gjatso
+    si: XIV වන දලයි ලාමා
+    sk: Dalajláma XIV.
+    skr: دلائی لاما تنزن گیاتسو
+    sl: Tenzin Gyatso
+    sq: Tendzin Gyatsho
+    sr: Тензин Гјатсо
+    sv: Tenzin Gyatso
+    ta: டென்சின் கியாட்சோ
+    te: dalilama
+    th: ทะไลลามะที่ 14
+    tl: Ikalabing-apat na Dalai Lama ng Tibet
+    tr: Tenzin Gyatso
+    tt: Далай-лама XIV
+    tyv: XIV-кү Далай-Лама
+    ug: دالاي لاما
+    uk: Далай-лама XIV
+    ur: تنزن گیاتسو
+    uz: Gyatso Tenzin
+    vi: Tenzin Gyatso
+    war: Ika-14 nga Dalai Lama
+    wuu: 丹增嘉措
+    yo: Tenzin Gyatso, 14th Dalai Lama
+    yue: 丹增嘉措
+    za: Dalai Cibseiqseiq
+    zh: 第十四世達賴喇嘛
+    zh-cn: 第十四世达赖喇嘛
+    zh-hans: 第十四世达赖喇嘛
+    zh-hant: 達賴喇嘛十四世
 ---
-
 # [[Tenzin_Gyatso]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tenzin_Gyatso,17293|WD~Tenzin_Gyatso,17293]]  

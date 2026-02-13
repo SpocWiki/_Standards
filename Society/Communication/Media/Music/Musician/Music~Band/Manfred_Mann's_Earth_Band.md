@@ -1,4 +1,34 @@
-
+---
+has_id_wikidata: Q1926913
+dv_has_:
+  name_:
+    ar: مانفريد مان ايرث باند (فريق روك)
+    ast: Manfred Mann's Earth Band
+    cs: Manfred Mann's Earth Band
+    da: Manfred Mann's Earth Band
+    de: Manfred Mann’s Earth Band
+    en: Manfred Mann's Earth Band
+    eo: Manfred Mann's Earth Band
+    es: Manfred Mann's Earth Band
+    fi: Manfred Mann’s Earth Band
+    fr: Manfred Mann’s Earth Band
+    ga: Manfred Mann's Earth Band
+    hu: Manfred Mann's Earth Band
+    it: Manfred Mann's Earth Band
+    ja: マンフレッド・マンズ・アース・バンド
+    ka: Manfred Mann's Earth Band
+    nb: Manfred Mann's Earth Band
+    nl: Manfred Mann's Earth Band
+    pt: Manfred Mann's Earth Band
+    ru: Manfred Mann’s Earth Band
+    sv: Manfred Mann's Earth Band
+    uk: Manfred Mann's Earth Band
+aliases:
+- Manfred Mann's Earth Band
+- Manfred Mann’s Earth Band
+- مانفريد مان ايرث باند (فريق روك)
+- マンフレッド・マンズ・アース・バンド
+---
 # [[Manfred_Mann's_Earth_Band]] 
 
 #is_/same_as ::  

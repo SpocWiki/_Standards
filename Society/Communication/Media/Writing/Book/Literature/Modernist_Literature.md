@@ -1,17 +1,119 @@
 ---
 aliases:
-  - Modernist literature
-  - Modernist_Literature
-  - Modernist Literature
+- edebî modernizm
+- literarische Moderne
+- Literati modènis
+- Literatura moderna
+- literatura modernista
+- litríocht nua-aoiseach
+- litterær modernisme
+- littérature moderniste
+- llenyddiaeth fodernaidd
+- lliteratura modernista
+- moderna
+- modernism
+- modernism literar
+- modernisma literaturo
+- modernisme anglosaxó
+- Modernisme sastra
+- modernismi
+- modernismo
+- modernismus litteratus
+- Modernist literature
+- modernistická literatura
+- modernistische literatuur
+- modernistlik kirjandus
+- Modernist_Literature
+- modernizam
+- modernizm
+- modernizmo literatūra
+- modernizmus (literatúra)
+- Moderniżmu
+- nua-litreachas
+- savremena književnost
+- văn học hiện đại
+- ådåájggásasj girjálasjvuohta
+- літаратура мадэрнізму
+- литературный модернизм
+- мадэрнісцкая літаратура
+- модерністська література
+- модернистична литература
+- савремена књижевност
+- Մոդեռնիզմ
+- ספרות מודרניסטית
+- ادبیات نوگرا
+- حداثة أدبية
+- সাহিত্যিক আধুনিকতা
+- ਸਾਹਿਤਕ ਆਧੁਨਿਕਤਾਵਾਦ
+- モダニズム文学
+- 现代主义文学
+- 現代主義文學
+- 모더니즘 문학
 has_id_wikidata: Q971480
 instance_of: '[[_Standards/WikiData/WD~literary_movement,3326717]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Infogalactic,55075031]]'
-  - '[[_Standards/WikiData/WD~Justapedia,124209338]]'
+- '[[_Standards/WikiData/WD~Infogalactic,55075031]]'
+- '[[_Standards/WikiData/WD~Justapedia,124209338]]'
 Commons_category: Modernist literature
 Provenio_UUID: 601b0c48-39e1-4249-a279-952a87e3439b
+dv_has_:
+  name_:
+    ar: حداثة أدبية
+    ast: lliteratura modernista
+    be: літаратура мадэрнізму
+    be-tarask: мадэрнісцкая літаратура
+    bg: модернистична литература
+    bn: সাহিত্যিক আধুনিকতা
+    ca: modernisme anglosaxó
+    cs: modernistická literatura
+    cy: llenyddiaeth fodernaidd
+    da: modernist literature
+    de: literarische Moderne
+    en: modernist literature
+    eo: modernisma literaturo
+    es: literatura modernista
+    et: modernistlik kirjandus
+    eu: modernismo
+    fa: ادبیات نوگرا
+    fi: modernismi
+    fr: littérature moderniste
+    ga: litríocht nua-aoiseach
+    gd: nua-litreachas
+    gl: literatura modernista
+    he: ספרות מודרניסטית
+    hr: modernizam
+    ht: Literati modènis
+    hy: Մոդեռնիզմ
+    id: Modernisme sastra
+    it: modernismo
+    ja: モダニズム文学
+    ko: 모더니즘 문학
+    la: modernismus litteratus
+    lt: modernizmo literatūra
+    mt: Moderniżmu
+    nb: litterær modernisme
+    nl: modernistische literatuur
+    pa: ਸਾਹਿਤਕ ਆਧੁਨਿਕਤਾਵਾਦ
+    pl: modernizm
+    pt: Literatura moderna
+    ro: modernism literar
+    ru: литературный модернизм
+    sh: moderna
+    sk: modernizmus (literatúra)
+    sl: moderna
+    smj: ådåájggásasj girjálasjvuohta
+    sr: савремена књижевност
+    sr-ec: савремена књижевност
+    sr-el: savremena književnost
+    sv: modernism
+    tr: edebî modernizm
+    uk: модерністська література
+    vi: văn học hiện đại
+    zh: 现代主义文学
+    zh-hans: 现代主义文学
+    zh-hant: 現代主義文學
+    zh-hk: 現代主義文學
 ---
-
 # [[Modernist_Literature]] 
 
 #is_/same_as :: [[WD~Modernist_literature,971480]] 

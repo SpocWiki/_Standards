@@ -1,30 +1,235 @@
 ---
 aliases:
-  - Äquinoktium
-  - Tagundnachtgleiche
-  - Tag-und-Nacht-Gleiche
-  - Equinox
+- aequinoctium
+- aggad anafuk
+- cteduncitsi
+- cyhydnos
+- cónocht
+- dag-en-nag-ewening
+- dagjämning
+- echinocțiu
+- ecuinòtziu
+- efenniht
+- ekinoks
+- ekinoksa
+- ekinokzio
+- ekinòks otòn
+- ekuinoks
+- ekuinoksi
+- ekvinokcija
+- ekvinokso
+- ekwinoks
+- ekînoks
+- enakonočje
+- equinocci
+- equinoccio
+- equinocciu
+- Equinox
+- Equinoxe
+- equinoxo
+- equinozio
+- equinòcci
+- equinócio
+- equinósi
+- hŭng-diēng
+- jafndægur
+- jevndøgn
+- jævndøgn
+- kedez
+- lygiadienis
+- nap-éj egyenlőség
+- peeivijorgáldâh
+- peeiʹvjåårǥlummuš
+- päiväntasaus
+- ravnodnevica
+- ravnodnevnica
+- rovnodennost
+- rovnodennosť
+- rownosć źeń-noc
+- runosć dźeń-nóc
+- równonoc
+- sikusare
+- Tag-und-Nacht-Gleiche
+- Tagundnachtgleiche
+- teng kunlik
+- tsazahusiku
+- võrdpäevsus
+- áigejorggáldat
+- Äquinoktium
+- ékuinoks
+- équinoxe
+- étchinosse
+- điểm phân
+- Ισημερία
+- кечытӧр
+- күзгү күн-түн теңелүү чекити
+- күн тэҥнэһиитэ
+- көн менән төн тигеҙләнеше
+- көн-төн тигезлеге
+- рівнодення
+- раўнадзенства
+- равноденствие
+- равнодневица
+- рамноденица
+- роўнадзеньне
+- эътидоли баҳорӣ
+- գիշերահավասար
+- נקודת השוויון
+- اعتدال بهاری
+- اعتدال شمسي
+- اعتدالین
+- یەکسانیی ھەتاوی
+- विषुव
+- বিষুব
+- ਸਮਰਾਤ
+- સમપ્રકાશીય ઘટના કે વિષુવકાલ
+- சம இரவு நாள்
+- విషువత్తు
+- ವಿಷುವತ್ ಸಂಕ್ರಾಂತಿ
+- വിഷുവം
+- วิษุวัต
+- ბუნიაობა
+- ბუნობა
+- សមភាពរាត្រី
+- 分日
+- 分点
+- 分點
+- 晝夜平分點
+- 분점
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]]"
-    - "[[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]]"
-    - "[[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]]"
-    - "[[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]]"
-    - "[[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]]"
-    - "[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]"
-    - "[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]"
-    - "[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]"
+  - '[[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]]'
+  - '[[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]]'
+  - '[[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]]'
+  - '[[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]]'
+  - '[[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]]'
+  - '[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]'
+  - '[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]'
+  - '[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]]"
-  - "[[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]]"
-  - "[[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]]"
-  - "[[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]]"
-  - "[[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]]"
-  - "[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]"
-  - "[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]"
-  - "[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]"
+- '[[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]]'
+- '[[/_Standards/Astronomy/Astronomical_Event/Equinox|Equinox]]'
+- '[[/_public/Astronomy/Astronomical_Event/Equinox.public|Equinox.public]]'
+- '[[/_internal/Astronomy/Astronomical_Event/Equinox.internal|Equinox.internal]]'
+- '[[/_protect/Astronomy/Astronomical_Event/Equinox.protect|Equinox.protect]]'
+- '[[/_private/Astronomy/Astronomical_Event/Equinox.private|Equinox.private]]'
+- '[[/_personal/Astronomy/Astronomical_Event/Equinox.personal|Equinox.personal]]'
+- '[[/_secret/Astronomy/Astronomical_Event/Equinox.secret|Equinox.secret]]'
+has_id_wikidata: Q1315
+dv_has_:
+  name_:
+    af: dag-en-nag-ewening
+    ang: efenniht
+    ar: اعتدال شمسي
+    ast: equinocciu
+    az: ekinoks
+    ba: көн менән төн тигеҙләнеше
+    be: раўнадзенства
+    be-tarask: роўнадзеньне
+    bg: равноденствие
+    bjn: ekuinoks
+    bn: বিষুব
+    br: kedez
+    bs: ravnodnevnica
+    ca: equinocci
+    cdo: hŭng-diēng
+    ckb: یەکسانیی ھەتاوی
+    cs: rovnodennost
+    cy: cyhydnos
+    da: jævndøgn
+    de: Äquinoktium
+    de-ch: Äquinoktium
+    dsb: rownosć źeń-noc
+    el: Ισημερία
+    eml: equinósi
+    en: equinox
+    en-ca: equinox
+    en-gb: equinox
+    eo: ekvinokso
+    es: equinoccio
+    et: võrdpäevsus
+    eu: ekinokzio
+    fa: اعتدال بهاری
+    fi: päiväntasaus
+    fr: équinoxe
+    ga: cónocht
+    gl: equinoccio
+    gu: સમપ્રકાશીય ઘટના કે વિષુવકાલ
+    he: נקודת השוויון
+    hi: विषुव
+    hr: ravnodnevica
+    hsb: runosć dźeń-nóc
+    ht: ekinòks otòn
+    hu: nap-éj egyenlőség
+    hy: գիշերահավասար
+    id: ekuinoks
+    ig: equinox
+    io: equinoxo
+    is: jafndægur
+    it: equinozio
+    ja: 分点
+    jbo: cteduncitsi
+    ka: ბუნიაობა
+    kab: aggad anafuk
+    km: សមភាពរាត្រី
+    kn: ವಿಷುವತ್ ಸಂಕ್ರಾಂತಿ
+    ko: 분점
+    ku: ekînoks
+    ky: күзгү күн-түн теңелүү чекити
+    la: aequinoctium
+    lb: Equinoxe
+    lt: lygiadienis
+    lv: ekvinokcija
+    mg: ekinoksa
+    mhr: кечытӧр
+    mk: рамноденица
+    ml: വിഷുവം
+    ms: ekuinoks
+    nb: jevndøgn
+    nl: equinox
+    nrm: étchinosse
+    oc: equinòcci
+    pa: ਸਮਰਾਤ
+    pl: równonoc
+    pt: equinócio
+    pt-br: equinócio
+    ro: echinocțiu
+    ru: равноденствие
+    sah: күн тэҥнэһиитэ
+    sc: ecuinòtziu
+    se: áigejorggáldat
+    sh: ravnodnevnica
+    sk: rovnodennosť
+    sl: enakonočje
+    smn: peeivijorgáldâh
+    sms: peeiʹvjåårǥlummuš
+    sn: tsazahusiku
+    sq: ekuinoksi
+    sr: равнодневица
+    sr-ec: равнодневица
+    su: ékuinoks
+    sv: dagjämning
+    sw: sikusare
+    ta: சம இரவு நாள்
+    te: విషువత్తు
+    tg: эътидоли баҳорӣ
+    th: วิษุวัต
+    tl: ekinoks
+    tr: ekinoks
+    tt: көн-төн тигезлеге
+    uk: рівнодення
+    ur: اعتدالین
+    uz: teng kunlik
+    vi: điểm phân
+    war: ekwinoks
+    wuu: 晝夜平分點
+    xmf: ბუნობა
+    yue: 分日
+    zh: 分點
+    zh-hans: 分点
+    zh-hant: 分點
+    zh-tw: 分點
 ---
-
 # [[Equinox]] 
 
 #is_/same_as :: [[../../WikiData/WD~Equinox,1315|WD~Equinox,1315]] 

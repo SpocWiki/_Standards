@@ -1,4 +1,42 @@
-
+---
+has_id_wikidata: Q124372020
+dv_has_:
+  name_:
+    an: Thermotogati
+    ast: Thermotogati
+    ca: Thermotogati
+    de: Thermotogati
+    en: Thermotogati
+    eo: Thermotogati
+    es: Thermotogati
+    eu: Thermotogati
+    ext: Thermotogati
+    fr: Thermotogati
+    ga: Thermotogati
+    gl: Thermotogati
+    ia: Thermotogati
+    ie: Thermotogati
+    io: Thermotogati
+    it: Thermotogati
+    ja: テルモトガ界
+    la: Thermotogati
+    mul: Thermotogati
+    nl: Thermotogati
+    oc: Thermotogati
+    pl: Thermotogati
+    pt: Thermotogati
+    pt-br: Thermotogati
+    ru: Thermotogati
+    vo: Thermotogati
+    zh: 热袍菌界
+    zh-cn: 热袍菌界
+    zh-tw: 熱袍菌界
+aliases:
+- Thermotogati
+- テルモトガ界
+- 热袍菌界
+- 熱袍菌界
+---
 # [[Thermotogati]] 
 
 

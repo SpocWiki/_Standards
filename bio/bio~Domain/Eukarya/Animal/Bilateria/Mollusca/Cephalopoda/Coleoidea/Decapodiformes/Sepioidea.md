@@ -1,9 +1,69 @@
 ---
 aliases:
-  - Sepioidea
+- Mątwowate
+- Seepialased
+- Sepiidae
+- Sepioidea
+- sipe
+- Sépidos
+- sépiovití
+- törpeszépiák
+- דיונוניים
+- سپیداجان
+- コウイカ科
+- 墨斗魚
+- 갑오징어과
 title: Sepioidea
+has_id_wikidata: Q135119
+dv_has_:
+  name_:
+    an: Sepiidae
+    ast: Sepiidae
+    bg: Sepiidae
+    ca: Sepiidae
+    ceb: Sepiidae
+    cs: sépiovití
+    de: Sepiidae
+    el: Sepiidae
+    en: Sepiidae
+    eo: Sepiidae
+    es: Sepiidae
+    et: Seepialased
+    eu: Sepiidae
+    ext: Sepiidae
+    fa: سپیداجان
+    fi: Sepiidae
+    fr: Sepiidae
+    ga: Sepiidae
+    gl: Sépidos
+    he: דיונוניים
+    hu: törpeszépiák
+    ia: Sepiidae
+    ie: Sepiidae
+    io: Sepiidae
+    it: Sepiidae
+    ja: コウイカ科
+    ko: 갑오징어과
+    la: Sepiidae
+    mul: Sepiidae
+    nl: Sepiidae
+    oc: Sepiidae
+    pl: Mątwowate
+    pt: Sepiidae
+    pt-br: Sepiidae
+    ro: Sepiidae
+    ru: Sepiidae
+    sl: sipe
+    sq: Sepiidae
+    sv: Sepiidae
+    tr: Sepiidae
+    uk: Sepiidae
+    vi: Sepiidae
+    vls: Sepiidae
+    vo: Sepiidae
+    war: Sepiidae
+    zh: 墨斗魚
 ---
-
 # [[Sepioidea]] 
 ![ ](Sepioidea/SepioidFams2.jpg) 
 

@@ -1,9 +1,149 @@
 ---
 aliases:
-  - Crinoidea
+- Chukcha quyllur
+- Crinoid
+- Crinoidea
+- Crinoïdeu
+- críonóideach
+- Dengiz nilufarlari
+- Deniz zambakları
+- Deňiz Liliýalary
+- Dəniz lalələri
+- Gaantsʼosí
+- Huệ biển
+- Jūras lilijas
+- Jūrų lelijos
+- Lili laut
+- lilijice
+- liliowce
+- meriliiliad
+- merililjat
+- morske lilije
+- Morski krinovi
+- Seelilien und Haarsterne
+- Sialiilien
+- Sjöliljor
+- Sjøliljer
+- Stapčari
+- Sæliljur
+- sølilje
+- Telepuk laut
+- tengerililiomok
+- Zeelelies
+- Zêelelies
+- Ľaliovky
+- Κρινοειδή
+- Деңиз лилиялары
+- Диңгез лилияләре
+- Марскія лілеі
+- морски кринови
+- морски лилјани
+- морски лилии
+- морские лилии
+- Морські лілії
+- Тангыж лили
+- Ծովաշուշաններ
+- חבצלות ים
+- دنیز لالهلری
+- زنابق البحر
+- زنبق دریایی
+- ไครนอยด์
+- ზღვის შროშნები
+- ウミユリ綱
+- 海百合
+- 海百合綱
+- 海百合纲
+- 바다나리
 title: Crinoidea
+has_id_wikidata: Q33666
+dv_has_:
+  name_:
+    an: Crinoidea
+    ar: زنابق البحر
+    arz: زنابق البحر
+    ast: Crinoidea
+    az: Dəniz lalələri
+    azb: دنیز لالهلری
+    ban: Lili laut
+    bcl: Crinoid
+    be: Марскія лілеі
+    bg: морски лилии
+    bs: Morski krinovi
+    ca: Crinoïdeu
+    ceb: Crinoidea
+    cs: lilijice
+    da: sølilje
+    de: Seelilien und Haarsterne
+    el: Κρινοειδή
+    en: Crinoidea
+    eo: Crinoidea
+    es: Crinoidea
+    et: meriliiliad
+    eu: Crinoidea
+    ext: Crinoidea
+    fa: زنبق دریایی
+    fi: merililjat
+    fr: Crinoidea
+    frr: Sialiilien
+    ga: críonóideach
+    gl: Crinoidea
+    he: חבצלות ים
+    hr: Stapčari
+    hu: tengerililiomok
+    hy: Ծովաշուշաններ
+    ia: Crinoidea
+    id: Lili laut
+    ie: Crinoidea
+    io: Crinoidea
+    is: Sæliljur
+    it: crinoidea
+    ja: ウミユリ綱
+    jv: Lili laut
+    ka: ზღვის შროშნები
+    ko: 바다나리
+    ky: Деңиз лилиялары
+    la: Crinoidea
+    lt: Jūrų lelijos
+    lv: Jūras lilijas
+    mk: морски лилјани
+    mrj: Тангыж лили
+    ms: Telepuk laut
+    mul: Crinoidea
+    nb: Sjøliljer
+    nl: Zeelelies
+    nn: sjøliljer
+    nv: Gaantsʼosí
+    oc: Crinoidea
+    pl: liliowce
+    pt: Crinoidea
+    pt-br: Crinoidea
+    qu: Chukcha quyllur
+    ro: Crinoidea
+    ru: морские лилии
+    sco: Crinoid
+    sh: Stapčari
+    sk: Ľaliovky
+    sl: morske lilije
+    sq: Crinoidea
+    sr: морски кринови
+    sv: Sjöliljor
+    th: ไครนอยด์
+    tk: Deňiz Liliýalary
+    tr: Deniz zambakları
+    tt: Диңгез лилияләре
+    uk: Морські лілії
+    uz: Dengiz nilufarlari
+    vi: Huệ biển
+    vls: Zêelelies
+    vo: Crinoidea
+    war: Crinoidea
+    wuu: 海百合
+    zh: 海百合綱
+    zh-cn: 海百合纲
+    zh-hans: 海百合纲
+    zh-hant: 海百合綱
+    zh-tw: 海百合綱
 ---
-
 # [[Crinoidea]] 
 
 Sea lilies and feather stars 

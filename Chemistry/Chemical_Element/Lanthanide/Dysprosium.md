@@ -1,16 +1,92 @@
 ---
 aliases:
-  - Dysprosium
+- Desipolosiyaamu
+- Diospròsium
+- diospróisiam
+- Disprosi
+- disprosio
+- disprosiu
+- Disprosium
+- Disprosiumi
+- Disprosiyo
+- disprosju
+- Disprosyo
+- Disprosyu
+- Disprouzii
+- Disprozii
+- disprozij
+- disprozijs
+- Disprozijum
+- disprozio
+- Disproziom
+- Disprozis
+- Disprozium
+- Disproziy
+- Disprozyum
+- Dispròsi
+- Dispròsiu
+- disprósio
+- Disprôsiôma
+- diszprózium
+- Dysproshum
+- dysprosi
+- Dysprosiom
+- Dysprosium
+- dysprosiwm
+- dysproz
+- Dysprósín
+- dysprózium
+- Düsproosium
+- jinmrdisprosi
+- Tɩsɩprɔsɩyɔm
+- UmDanyathofi
+- δυσπρόσιο
+- диспрозій
+- Диспрози
+- диспрозијум
+- диспрозий
+- Диспрозиум
+- диспросий
+- Дыспроз
+- Дыспрозій
+- դիսպրոզիում
+- דיספרוסיום
+- دىسپروزىي
+- ديسبروسيوم
+- ديسپروزيوم
+- دیسپروزیم
+- دیسپرۆزیۆم
+- ڈائیسپورسیم
+- ڈسپروزیئم
+- ډيسپروسيوم
+- डिसप्रोसियम
+- डिस्प्रोसियम
+- ডিসপ্রোজিয়াম
+- ਡਿਸਪ੍ਰੋਜ਼ੀਅਮ
+- ડીસ્પ્રોસીયમ
+- ଡାଇସ୍ପ୍ରୋସିଅମ
+- டிசிப்ரோசியம்
+- డిస్ప్రోసియం
+- ಡಿಸ್ಪ್ರೋಸಿಯಮ್
+- ഡിസ്പ്രോസിയം
+- ดิสโพรเซียม
+- ဒိုင်စပရိုဆီယမ်
+- დისპროზიუმი
+- ዲስፕሮሲየም
+- ジスプロシウム
+- 鏑
+- 镝
+- 디스프로슘
 has_id_wikidata: Q1843
 ATC_code: V10AX03
 atomic_number: 66
-canonical_SMILES: "[Dy]"
+canonical_SMILES: '[Dy]'
 CAS_Registry_Number: 7429-91-6
 chemical_formula: Dy
 Commons_category: Dysprosium
 Commons_gallery: Dysprosium
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
 DSSTOX_compound_identifier: DTXCID3047631
 EC_number: 231-073-9
 electronegativity: 1.22
@@ -19,35 +95,35 @@ Gmelin_number: 16278
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dysprosium1.jpg
 InChI: InChI=1S/Dy
 InChIKey: KBQHZAAAGSGFKK-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.91
-  - 1.03
-  - 1.07
-  - 1.19
-location_of_discovery: "[[_Standards/WikiData/WD~Paris,90]]"
+- 0.91
+- 1.03
+- 1.07
+- 1.19
+location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
 made_from_material:
-  - "[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]"
-  - "[[_Standards/WikiData/WD~aeschynite_mineral_group,3777532]]"
-  - "[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]"
-  - "[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]"
-  - "[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]"
-  - "[[_Standards/WikiData/WD~polycrase-(Y),3907734]]"
-  - "[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]"
-  - "[[_Standards/WikiData/WD~gadolinite_group,18043462]]"
+- '[[_Standards/WikiData/WD~fergusonite-(REE)_series,412914]]'
+- '[[_Standards/WikiData/WD~aeschynite_mineral_group,3777532]]'
+- '[[_Standards/WikiData/WD~bastnäsite_mineral_group,3777619]]'
+- '[[_Standards/WikiData/WD~monazite_mineral_group,3777755]]'
+- '[[_Standards/WikiData/WD~xenotime_mineral_group,3777882]]'
+- '[[_Standards/WikiData/WD~polycrase-(Y),3907734]]'
+- '[[_Standards/WikiData/WD~euxenite_mineral_group,18016084]]'
+- '[[_Standards/WikiData/WD~gadolinite_group,18043462]]'
 mass: 162.5
 MeSH_tree_code:
-  - D01.268.558.362.374
-  - D01.552.550.399.374
-named_after: "[[_Standards/WikiData/WD~getting,12913541]]"
+- D01.268.558.362.374
+- D01.552.550.399.374
+named_after: '[[_Standards/WikiData/WD~getting,12913541]]'
 OmegaWiki_Defined_Meaning: 157663
 oxidation_state:
-  - 2
-  - 3
-  - 4
+- 2
+- 3
+- 4
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23912
 SpocWebEntityId: 21962
 time_of_discovery_or_invention: 1886
@@ -58,22 +134,168 @@ UNII: 1D4N45714Q
 ZVG_number: 7660
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Dysprosium,1843]]"
-    - "[[../../../WikiData/WD~Dysprosium,1843|WD~Dysprosium,1843]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Dysprosium|Dysprosium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Dysprosium.public|Dysprosium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.internal|Dysprosium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Dysprosium.protect|Dysprosium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Dysprosium.private|Dysprosium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.personal|Dysprosium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Dysprosium.secret|Dysprosium.secret]]"
-  part_of: "[[../Lanthanide]]"
+  - '[[../../../WikiData/WD~Dysprosium,1843]]'
+  - '[[../../../WikiData/WD~Dysprosium,1843|WD~Dysprosium,1843]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Dysprosium|Dysprosium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Dysprosium.public|Dysprosium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.internal|Dysprosium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Dysprosium.protect|Dysprosium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Dysprosium.private|Dysprosium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.personal|Dysprosium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Dysprosium.secret|Dysprosium.secret]]'
+  part_of: '[[../Lanthanide]]'
 dv_has_:
   name_:
-    group: Lanthanide-Group
-    en: Dysprosium
-    de: Dysprosium
     abbreviated: Dy
+    af: Disprosium
+    am: ዲስፕሮሲየም
+    anp: डिस्प्रोसियम
+    ar: ديسبروسيوم
+    ary: ديسپروزيوم
+    arz: ديسبروسيوم
+    ast: disprosiu
+    az: Disprozium
+    ba: Диспрозий
+    ban: Disprosium
+    be: Дыспрозій
+    be-tarask: Дыспроз
+    bg: диспросий
+    bho: डिस्प्रोसियम
+    bn: ডিসপ্রোজিয়াম
+    br: Disproziom
+    bs: disprozij
+    ca: disprosi
+    cdo: Dysprosium
+    ceb: Disprosyo
+    ckb: دیسپرۆزیۆم
+    co: Disprosiu
+    cs: dysprosium
+    cv: Диспрози
+    cy: dysprosiwm
+    da: dysprosium
+    de: Dysprosium
+    el: δυσπρόσιο
+    en: dysprosium
+    en-gb: dysprosium
+    eo: disprozio
+    es: disprosio
+    et: Düsproosium
+    eu: disprosio
+    fa: دیسپروزیم
+    fi: dysprosium
+    fr: dysprosium
+    frr: Düsproosium
+    fur: Disprosi
+    ga: diospróisiam
+    gd: Diospròsium
+    gl: Disprosio
+    group: Lanthanide-Group
+    gu: ડીસ્પ્રોસીયમ
+    gv: Dysproshum
+    hak: dysprosium
+    he: דיספרוסיום
+    hi: डिसप्रोसियम
+    hif: Dysprosium
+    hr: Disprozij
+    hu: diszprózium
+    hy: դիսպրոզիում
+    ia: dysprosium
+    id: disprosium
+    io: disprozio
+    is: Dysprósín
+    it: disprosio
+    ja: ジスプロシウム
+    jbo: jinmrdisprosi
+    jv: Disprosium
+    ka: დისპროზიუმი
+    kbp: Tɩsɩprɔsɩyɔm
+    kk: Диспрозий
+    kn: ಡಿಸ್ಪ್ರೋಸಿಯಮ್
+    ko: 디스프로슘
+    kv: Диспрозий
+    kw: Dysprosiom
+    ky: Диспрозий
+    la: dysprosium
+    lb: Dysprosium
+    lfn: disprosio
+    lg: Desipolosiyaamu
+    li: Dysprosium
+    lij: Disprosio
+    lt: Disprozis
+    lv: disprozijs
+    lzh: 鏑
+    mg: Disprôsiôma
+    mk: диспрозиум
+    ml: ഡിസ്പ്രോസിയം
+    mn: диспрози
+    mr: डिस्प्रोसियम
+    mrj: Диспрозий
+    ms: Disprosium
+    mt: disprosju
+    my: ဒိုင်စပရိုဆီယမ်
+    nan: Dysprosium
+    nb: dysprosium
+    ne: डिस्प्रोसियम
+    new: डिस्प्रोसियम
+    nl: dysprosium
+    nn: dysprosium
+    nov: Disprosium
+    oc: Dispròsi
+    olo: Disprouzii
+    or: ଡାଇସ୍ପ୍ରୋସିଅମ
+    os: диспрозий
+    pa: ਡਿਸਪ੍ਰੋਜ਼ੀਅਮ
+    pi: डिस्प्रोसियम
+    pl: dysproz
+    pms: Dispròsi
+    pnb: ڈائیسپورسیم
+    ps: ډيسپروسيوم
+    pt: disprósio
+    pt-br: disprósio
+    qu: Disprosyu
+    ro: disprosiu
+    ru: диспрозий
+    rup: Disprosiu
+    sa: डिस्प्रोसियम
+    sah: Диспрозиум
+    sc: Dispròsiu
+    scn: disprosiu
+    sco: dysprosium
+    sh: Disprozijum
+    sk: dysprózium
+    sl: disprozij
+    sq: Disprosiumi
+    sr: диспрозијум
+    sr-ec: Диспрозијум
+    stq: Dysprosium
+    sv: dysprosium
+    sw: Disprosi
+    ta: டிசிப்ரோசியம்
+    te: డిస్ప్రోసియం
+    tg: диспрозий
+    th: ดิสโพรเซียม
+    tl: Disprosiyo
+    tr: Disprozyum
+    tt: Диспрозий
+    ug: دىسپروزىي
+    uk: диспрозій
+    ur: ڈسپروزیئم
+    uz: Disproziy
+    vep: Disprozii
+    vi: dysprosi
+    war: Disprosyo
+    wuu: 镝
+    xal: Диспрозиум
+    yo: Dysprosium
+    yue: 鏑
+    zh: 镝
+    zh-hant: 鏑
+    zh-tw: 鏑
+    zu: UmDanyathofi
+  number_of_:
+    period: 6
+    group: 32
+    electrons: 66
   value_for_:
     weight_:
       u: 162.5
@@ -101,22 +323,18 @@ dv_has_:
       form_:
         kj_:
           mol: 230
-  number_of_:
-    period: 6
-    group: 32
-    electrons: 66
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Dysprosium,1843]]"
-  - "[[../../../WikiData/WD~Dysprosium,1843|WD~Dysprosium,1843]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Dysprosium|Dysprosium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Dysprosium.public|Dysprosium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.internal|Dysprosium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Dysprosium.protect|Dysprosium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Dysprosium.private|Dysprosium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.personal|Dysprosium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Dysprosium.secret|Dysprosium.secret]]"
+- '[[../../../WikiData/WD~Dysprosium,1843]]'
+- '[[../../../WikiData/WD~Dysprosium,1843|WD~Dysprosium,1843]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Dysprosium|Dysprosium]]'
+- '[[/_public/Chemistry/Chemical_Element/Lanthanide/Dysprosium.public|Dysprosium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.internal|Dysprosium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Dysprosium.protect|Dysprosium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Lanthanide/Dysprosium.private|Dysprosium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.personal|Dysprosium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Dysprosium.secret|Dysprosium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: "[[../Lanthanide]]"
+dv_is_part_of: '[[../Lanthanide]]'
 dv_has_name_en: Dysprosium
 dv_has_name_de: Dysprosium
 dv_has_value_for_weight_u: 162.5
@@ -137,7 +355,6 @@ dv_has_number_of_group: 32
 dv_has_name_abbreviated: Dy
 dv_has_number_of_electrons: 66
 ---
-
 # [[Dysprosium]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dysprosium,1843]] 

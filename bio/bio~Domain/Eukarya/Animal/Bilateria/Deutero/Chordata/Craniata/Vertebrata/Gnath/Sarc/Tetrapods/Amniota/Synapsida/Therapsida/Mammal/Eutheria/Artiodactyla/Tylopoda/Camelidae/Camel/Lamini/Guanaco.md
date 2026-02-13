@@ -1,17 +1,48 @@
 ---
 aliases:
-  - guanaco
-  - Lama guanicoe
-  - Guanako
-  - Guanaco
+- Agwanaku
+- Driviakol (Lama glama guanicoe)
+- guanac
+- guanaco
+- Guanakas
+- Guanako
+- guanakó
+- guanácó
+- Guanáko
+- Gvanako
+- Gwanako
+- Huanaco
+- lama
+- Lama guanicoe
+- luan
+- Quanako
+- Shádiʼááhdę́ę́ʼ tłʼízí ałchiní
+- Wanaku
+- Γουανάκος
+- Гванако
+- Гуанака
+- гуанако
+- ляма гуанака
+- גואנקו
+- غوناق
+- قواناکو
+- گواناکو
+- குவானக்கோ
+- ഗ്വാനാകോ
+- กัวนาโก
+- ჰუანაკო
+- グアナコ
+- 原駝
+- 原驼
+- 구아나코
 has_id_wikidata: Q172886
 title: Lama guanicoe
 IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
 parent_taxon: '[[_Standards/WikiData/WD~Lama,753853]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~guanaco,1552716]]'
-  - '[[_Standards/WikiData/WD~guanaco_fiber,28070615]]'
+- '[[_Standards/WikiData/WD~guanaco,1552716]]'
+- '[[_Standards/WikiData/WD~guanaco_fiber,28070615]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
 original_combination: '[[_Standards/WikiData/WD~Camelus_guanicoe,27064372]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
@@ -21,11 +52,11 @@ longest_observed_lifespan: 33.7
 gestation_period: 352
 ITIS_TSN: 625029
 taxon_common_name:
-  - Guanaco
-  - Guanako
+- Guanaco
+- Guanako
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Guanaco%20at%20SF%20Zoo.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Guanaco%20Patagonico.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Guanaco%20at%20SF%20Zoo.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Guanaco%20Patagonico.jpg
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20guanicoe%20455869946.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lama%20guanicoe%20range.png
 Commons_gallery: Lama guanicoe
@@ -33,8 +64,104 @@ Commons_category: Lama guanicoe
 taxon_name: Lama guanicoe
 NBN_System_Key: NHMSYS0020975298
 short_name: L. guanicoe
+dv_has_:
+  name_:
+    an: Lama guanicoe
+    ar: غوناق
+    arn: luan
+    arz: غوناق
+    ast: Lama guanicoe
+    avk: Driviakol (Lama glama guanicoe)
+    az: Quanako
+    azb: قواناکو
+    bar: Guanako
+    be: Гуанака
+    be-tarask: ляма гуанака
+    bg: гуанако
+    br: Gwanako
+    ca: guanac
+    ceb: Lama guanicoe
+    cs: guanako
+    da: Guanako
+    de: Guanako
+    el: Γουανάκος
+    en: guanaco
+    eo: Gvanako
+    es: Lama guanicoe
+    eu: Guanako
+    ext: Lama guanicoe
+    fa: گواناکو
+    fi: guanako
+    fr: guanaco
+    frr: Guanako
+    ga: guanácó
+    gl: Guanaco
+    gn: Guanáko
+    he: גואנקו
+    hr: Gvanako
+    hu: guanakó
+    ia: Guanaco
+    id: Guanako
+    ie: Lama guanicoe
+    io: Lama guanicoe
+    it: Lama guanicoe
+    ja: グアナコ
+    ka: ჰუანაკო
+    kab: Agwanaku
+    knc: Guanaco
+    ko: 구아나코
+    ky: Гуанако
+    la: Lama guanicoe
+    lb: Guanako
+    lt: Guanakas
+    lv: gvanako
+    mhr: Гуанако
+    mk: Гванако
+    ml: ഗ്വാനാകോ
+    ms: Guanako
+    mul: Lama guanicoe
+    nah: Huanaco
+    nb: guanako
+    nl: guanaco
+    nn: guanako
+    nv: Shádiʼááhdę́ę́ʼ tłʼízí ałchiní
+    oc: Lama guanicoe
+    os: Гуанако
+    pl: Gwanako
+    pnb: گواناکو
+    pt: Guanaco
+    pt-br: Lama guanicoe
+    qu: Wanaku
+    ro: Guanaco
+    ru: Гуанако
+    sco: guanaco
+    sh: Gvanako
+    sl: Gvanako
+    sq: lama
+    sr: гванако
+    sr-ec: Гванако
+    sr-el: Gvanako
+    stq: Guanako
+    sv: Guanaco
+    ta: குவானக்கோ
+    th: กัวนาโก
+    tr: Guanako
+    udm: Гуанако
+    uk: Гуанако
+    uz: Guanako
+    vi: Guanaco
+    vo: Lama guanicoe
+    war: Lama guanicoe
+    wuu: 原驼
+    yue: 原駝
+    zh: 原駝
+    zh-cn: 原驼
+    zh-hans: 原驼
+    zh-hant: 原駝
+    zh-hk: 原駝
+    zh-sg: 原驼
+    zh-tw: 原駝
 ---
-
 # [[Guanaco]] 
 
 ![ ](Guanaco/153179~2.JPG)

@@ -23,8 +23,8 @@ dv_is_same_as:
   - "[[/_private/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.private|0476-Fall_of_the_western_Roman_Empire.private]]"
   - "[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.personal|0476-Fall_of_the_western_Roman_Empire.personal]]"
   - "[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/0000-Late_Antiquity/CE_0400/0476-Fall_of_the_western_Roman_Empire.secret|0476-Fall_of_the_western_Roman_Empire.secret]]"
+has_id_wikidata: Q608613
 ---
-
 # [[0476-Fall_of_the_western_Roman_Empire]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Fall_of_the_western_Roman_Empire,608613|WD~Fall_of_the_western_Roman_Empire,608613]] 

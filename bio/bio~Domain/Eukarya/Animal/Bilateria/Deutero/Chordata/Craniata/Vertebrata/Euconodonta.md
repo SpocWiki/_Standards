@@ -1,9 +1,84 @@
 ---
 aliases:
-  - Euconodonta
+- Conodont
+- Conodonta
+- Conodonten
+- conodonter
+- Euconodonta
+- Konodondid
+- Konodont
+- Konodontai
+- Konodontalar
+- Konodonti
+- Konodontit
+- konodonto
+- Konodonty
+- Канадонты
+- Конодонти
+- Конодонттар
+- Конодонты
+- קונודונטים
+- قیفدندانان
+- مخروطيات الأسنان
+- コノドント
+- 牙形石纲
+- 코노돈트
 title: Euconodonta
+has_id_wikidata: Q586245
+dv_has_:
+  name_:
+    af: Conodonta
+    ar: مخروطيات الأسنان
+    ast: Conodonta
+    az: Konodontalar
+    be: Канадонты
+    be-tarask: Канадонты
+    bg: Conodonta
+    bs: Conodonta
+    ca: Conodont
+    ceb: Conodonta
+    cs: Conodonta
+    de: Conodonten
+    en: Conodonta
+    es: Conodonta
+    et: Konodondid
+    eu: konodonto
+    fa: قیفدندانان
+    fi: Konodontit
+    fr: Conodonta
+    ga: Conodonta
+    gl: Conodonta
+    he: קונודונטים
+    hu: Conodonta
+    ia: Conodonta
+    id: Conodont
+    it: Conodonta
+    ja: コノドント
+    kk: Конодонттар
+    ko: 코노돈트
+    la: Conodonta
+    lt: Konodontai
+    lv: Konodonti
+    mul: Conodonta
+    nb: conodonter
+    nl: Conodonta
+    pl: Konodonty
+    pt: Conodonta
+    ro: Conodonta
+    ru: Конодонты
+    sk: Konodonty
+    sq: Conodonta
+    sr: Конодонти
+    sv: Konodont
+    tr: Konodont
+    uk: Конодонти
+    vec: Conodonta
+    vi: Conodonta
+    war: Conodonta
+    zh: 牙形石纲
+    zh-cn: 牙形石纲
+    zh-hans: 牙形石纲
 ---
-
 # [[Euconodonta]]
 
 

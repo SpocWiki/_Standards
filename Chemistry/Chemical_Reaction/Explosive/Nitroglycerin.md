@@ -1,83 +1,134 @@
 ---
 aliases:
-  - Nitroglycerine
-  - Nitroglyzerin
-  - trinitroglycerol
-  - glyceryl trinitrate
-  - 1,2,3-trinitroxypropane
-  - Nitroglycerin
+- 1,2,3-trinitroxypropane
+- gliceriltrinitrat
+- glicerin-trinitrát
+- gliseril trinitrat
+- glyceryl trinitrate
+- glyserolnitrat
+- nitro-glicerin-a
+- nitroglicerin
+- nitroglicerina
+- nitroglicerinas
+- nitroglicerino
+- nitroglicerină
+- nitrogliceryna
+- nitroglicerīns
+- nitrogliserien
+- nitrogliserin
+- Nitroglitseriin
+- nitroglitserin
+- nitroglizerina
+- Nitroglycerin
+- Nitroglycerine
+- Nitroglycerinum
+- nitroglycerín
+- nitroglycérine
+- nitroglyseriini
+- nitroglyserin
+- Nitroglyserine
+- Nitroglyzerin
+- nitroglütseriin
+- nitroqliserin
+- nítriglicrín
+- nítróglusserín
+- nïtroglïcerïn
+- trinitroglycerol
+- νιτρογλυκερίνη
+- нітрагліцэрын
+- нітрогліцерин
+- нитроглицерин
+- Նիտրոգլիցերին
+- ניטרוגליצרין
+- نىيتروگلىيتسەرىين
+- نيتروجليسرين
+- نيتروغليسرين
+- نیتروقلیسرین
+- نیتروگلیسرین
+- نیٹرو گلسرین
+- नाइट्रोग्लिसरीन
+- নাইট্রোগ্লিসারিন
+- ନାଇଟ୍ରୋଗ୍ଲିସେରିନ
+- നൈട്രോഗ്ലിസറിൻ
+- ไนโตรกลีเซอรีน
+- ნიტროგლიცერინი
+- នីត្រូគ្លីសេរីន
+- ニトログリセリン
+- 硝化甘油
+- 硝酸甘油
+- 나이트로글리세린
 has_id_wikidata: Q162867
 significant_drug_interaction:
-  - "[[_Standards/WikiData/WD~sildenafil,191521]]"
-  - "[[_Standards/WikiData/WD~tadalafil,424156]]"
-  - "[[_Standards/WikiData/WD~vardenafil,424161]]"
-  - "[[_Standards/WikiData/WD~riociguat,2154494]]"
-  - "[[_Standards/WikiData/WD~avanafil,2873270]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Ascanio_Sobrero,351377]]"
+- '[[_Standards/WikiData/WD~sildenafil,191521]]'
+- '[[_Standards/WikiData/WD~tadalafil,424156]]'
+- '[[_Standards/WikiData/WD~vardenafil,424161]]'
+- '[[_Standards/WikiData/WD~riociguat,2154494]]'
+- '[[_Standards/WikiData/WD~avanafil,2873270]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Ascanio_Sobrero,351377]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-legal_status_medicine_: "[[_Standards/WikiData/WD~boxed_warning,879952]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952]]'
 active_ingredient_in:
-  - "[[_Standards/WikiData/WD~pharmaceutical_preparation_of_nitroglycerin,3221044]]"
-  - "[[_Standards/WikiData/WD~Minitran,6867721]]"
-  - "[[_Standards/WikiData/WD~Gonitro,47521664]]"
-  - "[[_Standards/WikiData/WD~Nitro_Bid,47521899]]"
-  - "[[_Standards/WikiData/WD~Nitrostat,47521902]]"
-  - "[[_Standards/WikiData/WD~NitroMist,47521900]]"
-  - "[[_Standards/WikiData/WD~Rectiv,47522068]]"
-  - "[[_Standards/WikiData/WD~Nitro_Dur,48825965]]"
-  - "[[_Standards/WikiData/WD~Nitrol,48828153]]"
-  - "[[_Standards/WikiData/WD~Nitrolingual,48829317]]"
+- '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_nitroglycerin,3221044]]'
+- '[[_Standards/WikiData/WD~Minitran,6867721]]'
+- '[[_Standards/WikiData/WD~Gonitro,47521664]]'
+- '[[_Standards/WikiData/WD~Nitro_Bid,47521899]]'
+- '[[_Standards/WikiData/WD~Nitrostat,47521902]]'
+- '[[_Standards/WikiData/WD~NitroMist,47521900]]'
+- '[[_Standards/WikiData/WD~Rectiv,47522068]]'
+- '[[_Standards/WikiData/WD~Nitro_Dur,48825965]]'
+- '[[_Standards/WikiData/WD~Nitrol,48828153]]'
+- '[[_Standards/WikiData/WD~Nitrolingual,48829317]]'
 subject_has_role:
-  - "[[_Standards/WikiData/WD~vasodilator_agent,4008956]]"
-  - "[[_Standards/WikiData/WD~nitric_oxide_donors,50316227]]"
-  - "[[_Standards/WikiData/WD~medication,12140]]"
-  - "[[_Standards/WikiData/WD~explosive_chemicals,12870]]"
-subclass_of: "[[_Standards/WikiData/WD~nitrate_ester,4321642]]"
-has_characteristic: "[[_Standards/WikiData/WD~flammable_liquid,5457310]]"
+- '[[_Standards/WikiData/WD~vasodilator_agent,4008956]]'
+- '[[_Standards/WikiData/WD~nitric_oxide_donors,50316227]]'
+- '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
+subclass_of: '[[_Standards/WikiData/WD~nitrate_ester,4321642]]'
+has_characteristic: '[[_Standards/WikiData/WD~flammable_liquid,5457310]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~glyceryl,5620400]]"
-  - "[[_Standards/WikiData/WD~hydrogen,556]]"
-  - "[[_Standards/WikiData/WD~carbon,623]]"
-  - "[[_Standards/WikiData/WD~nitrogen,627]]"
-  - "[[_Standards/WikiData/WD~oxygen,629]]"
+- '[[_Standards/WikiData/WD~glyceryl,5620400]]'
+- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629]]'
 physically_interacts_with:
-  - "[[_Standards/WikiData/WD~Guanylate_cyclase_1_soluble_subunit_alpha_2,21110352]]"
-  - "[[_Standards/WikiData/WD~Guanylate_cyclase_1_soluble_subunit_beta_1,21110359]]"
-associated_hazard: "[[_Standards/WikiData/WD~nitroglycerin_exposure,21175004]]"
-has_effect: "[[_Standards/WikiData/WD~nitroglycerin_exposure,21175004]]"
+- '[[_Standards/WikiData/WD~Guanylate_cyclase_1_soluble_subunit_alpha_2,21110352]]'
+- '[[_Standards/WikiData/WD~Guanylate_cyclase_1_soluble_subunit_beta_1,21110359]]'
+associated_hazard: '[[_Standards/WikiData/WD~nitroglycerin_exposure,21175004]]'
+has_effect: '[[_Standards/WikiData/WD~nitroglycerin_exposure,21175004]]'
 part_of:
-  - "[[_Standards/WikiData/WD~cellular_response_to_nitroglycerin,22273166]]"
-  - "[[_Standards/WikiData/WD~response_to_nitroglycerin,22273164]]"
-  - "[[_Standards/WikiData/WD~nitroglycerin_metabolic_process,22276592]]"
-safety_classification_and_labelling: "[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]"
+- '[[_Standards/WikiData/WD~cellular_response_to_nitroglycerin,22273166]]'
+- '[[_Standards/WikiData/WD~response_to_nitroglycerin,22273164]]'
+- '[[_Standards/WikiData/WD~nitroglycerin_metabolic_process,22276592]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
 time_of_discovery_or_invention: 1847-01-01T00:00:00Z
-has_use: "[[_Standards/WikiData/WD~medication,12140]]"
+has_use: '[[_Standards/WikiData/WD~medication,12140]]'
 short_term_exposure_limit: 0.1
 solubility: 0.1
 ceiling_exposure_limit: 2
 vapor_pressure: 0.0003
 defined_daily_dose: 5
 melting_point:
-  - 13
-  - 56
+- 13
+- 56
 decomposition_point:
-  - 140
-  - 122
+- 140
+- 122
 density: 1.6
 immediately_dangerous_to_life_or_health: 75
 UN_number:
-  - 3319
-  - 3064
-  - 1204
-  - 144
-  - 143
+- 3319
+- 3064
+- 1204
+- 144
+- 143
 ZVG_number: 41320
 RxNorm_CUI: 4917
 PubChem_CID: 4510
@@ -89,20 +140,20 @@ UNII: G59M7S0WS3
 Reaxys_registry_number: 1802063
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Nitro.JPG
 chemical_structure:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nitroglycerin.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Nitroglycerin%20Structural%20Formulae.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nitroglycerin.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Nitroglycerin%20Structural%20Formulae.svg
 EC_number: 200-240-8
 CAS_Registry_Number: 55-63-0
 MedlinePlus_drug_identifier:
-  - a601085
-  - a601086
-  - a615006
-  - a682346
+- a601085
+- a601086
+- a615006
+- a682346
 canonical_SMILES: C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]
 UMLS_CUI: C0017887
 ATC_code:
-  - C01DA02
-  - C05AE01
+- C01DA02
+- C05AE01
 chemical_formula: C₃H₅N₃O₉
 MeSH_tree_code: D02.640.636
 DSSTOX_compound_identifier: DTXCID701407
@@ -111,25 +162,114 @@ RTECS_number: QX2100000
 World_Health_Organisation_international_non_proprietary_name: glyceryl trinitrate
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Nitroglycerin,162867]]"
-    - "[[/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin|Nitroglycerin]]"
-    - "[[/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public|Nitroglycerin.public]]"
-    - "[[/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal|Nitroglycerin.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect|Nitroglycerin.protect]]"
-    - "[[/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private|Nitroglycerin.private]]"
-    - "[[/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal|Nitroglycerin.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret|Nitroglycerin.secret]]"
+  - '[[../../../WikiData/WD~Nitroglycerin,162867]]'
+  - '[[/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin|Nitroglycerin]]'
+  - '[[/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public|Nitroglycerin.public]]'
+  - '[[/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal|Nitroglycerin.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect|Nitroglycerin.protect]]'
+  - '[[/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private|Nitroglycerin.private]]'
+  - '[[/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal|Nitroglycerin.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret|Nitroglycerin.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Nitroglycerin,162867]]"
-  - "[[/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin|Nitroglycerin]]"
-  - "[[/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public|Nitroglycerin.public]]"
-  - "[[/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal|Nitroglycerin.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect|Nitroglycerin.protect]]"
-  - "[[/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private|Nitroglycerin.private]]"
-  - "[[/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal|Nitroglycerin.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret|Nitroglycerin.secret]]"
+- '[[../../../WikiData/WD~Nitroglycerin,162867]]'
+- '[[/_Standards/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin|Nitroglycerin]]'
+- '[[/_public/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.public|Nitroglycerin.public]]'
+- '[[/_internal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.internal|Nitroglycerin.internal]]'
+- '[[/_protect/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.protect|Nitroglycerin.protect]]'
+- '[[/_private/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.private|Nitroglycerin.private]]'
+- '[[/_personal/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.personal|Nitroglycerin.personal]]'
+- '[[/_secret/Chemistry/Chemical_Reaction/Explosive/Nitroglycerin.secret|Nitroglycerin.secret]]'
+dv_has_:
+  name_:
+    af: nitrogliserien
+    ar: نيتروغليسرين
+    arz: نيتروجليسرين
+    az: nitroqliserin
+    azb: نیتروقلیسرین
+    be: нітрагліцэрын
+    bg: нитроглицерин
+    bn: নাইট্রোগ্লিসারিন
+    bs: nitroglicerin
+    ca: nitroglicerina
+    cs: nitroglycerin
+    cy: nitroglycerin
+    da: nitroglycerin
+    de: Nitroglycerin
+    el: νιτρογλυκερίνη
+    en: nitroglycerin
+    eo: nitroglicerino
+    es: nitroglicerina
+    et: nitroglütseriin
+    eu: nitroglizerina
+    fa: نیتروگلیسرین
+    fi: nitroglyseriini
+    fr: nitroglycérine
+    frr: Nitroglitseriin
+    fy: Nitroglyserine
+    ga: nítriglicrín
+    gl: nitroglicerina
+    he: ניטרוגליצרין
+    hi: नाइट्रोग्लिसरीन
+    hr: nitroglicerin
+    hu: glicerin-trinitrát
+    hy: Նիտրոգլիցերին
+    id: nitrogliserin
+    is: nítróglusserín
+    it: nitroglicerina
+    ja: ニトログリセリン
+    ka: ნიტროგლიცერინი
+    kk: нитроглицерин
+    kk-arab: نىيتروگلىيتسەرىين
+    kk-cn: نىيتروگلىيتسەرىين
+    kk-cyrl: нитроглицерин
+    kk-kz: нитроглицерин
+    kk-latn: nïtroglïcerïn
+    kk-tr: nïtroglïcerïn
+    km: នីត្រូគ្លីសេរីន
+    ko: 나이트로글리세린
+    ky: нитроглицерин
+    la: Nitroglycerinum
+    lmo: nitroglicerina
+    lt: nitroglicerinas
+    lv: nitroglicerīns
+    ml: നൈട്രോഗ്ലിസറിൻ
+    ms: nitrogliserin
+    nb: glyserolnitrat
+    nl: nitroglycerine
+    nn: nitroglyserin
+    or: ନାଇଟ୍ରୋଗ୍ଲିସେରିନ
+    pl: nitrogliceryna
+    pms: nitro-glicerin-a
+    pnb: نیٹرو گلسرین
+    pt: nitroglicerina
+    ro: nitroglicerină
+    ru: нитроглицерин
+    sco: nitroglycerin
+    sh: nitroglicerin
+    sk: nitroglycerín
+    sl: gliceriltrinitrat
+    sq: nitroglicerina
+    sr: нитроглицерин
+    sr-ec: нитроглицерин
+    sr-el: nitroglicerin
+    sv: nitroglycerin
+    th: ไนโตรกลีเซอรีน
+    tr: gliseril trinitrat
+    tt: нитроглицерин
+    uk: нітрогліцерин
+    uz: nitroglitserin
+    vi: nitroglycerin
+    war: nitroglycerin
+    wuu: 硝酸甘油
+    yue: 硝化甘油
+    zh: 硝酸甘油
+    zh-cn: 硝酸甘油
+    zh-hans: 硝酸甘油
+    zh-hant: 硝酸甘油
+    zh-hk: 硝化甘油
+    zh-sg: 硝酸甘油
+    zh-tw: 硝化甘油
 ---
-
 # [[Nitroglycerin]] 
 
 #is_/same_as :: [[WD~Nitroglycerin,162867]] 

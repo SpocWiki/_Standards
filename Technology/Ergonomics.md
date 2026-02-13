@@ -1,13 +1,53 @@
 ---
 aliases:
-  - human factors
-  - human factors engineering
-  - Ergonomie
-  - Ergonomics
+- Abubuwan ɗan adam da ergonomics
+- Công thái học
+- eirgeanamaíocht
+- ergonomeg
+- ergonomi
+- ergonomia
+- Ergonomics
+- Ergonomie
+- ergonomiija
+- ergonomija
+- ergonomije
+- Ergonomika
+- ergonomio
+- ergonomiya
+- ergonomía
+- ergonoomika
+- ergonómia
+- erqonomika
+- Faktor manusia dan ergonomik
+- human factors
+- human factors engineering
+- iş bilimi
+- Εργονομία
+- ергономіка
+- ергономија
+- Ергономия
+- эрганоміка
+- Эргономик
+- эргономика
+- Էրգոնոմիկա
+- ארגונומיה
+- ارگونومی
+- علم العمل
+- عوامل بشرية
+- मानवीयोपयुक्तता
+- श्रमदक्षता शास्त्र
+- কর্মপরিবেশ বিদ্যা
+- பணிச்சூழலியல்
+- ერგონომიკა
+- 人因工程
+- 人因工程学
+- 人因工程學
+- 人間工学
+- 인간공학
 has_id_wikidata: Q1750812
 facet_of:
-  - '[[_Standards/WikiData/WD~human_computer_interaction,207434]]'
-  - '[[_Standards/WikiData/WD~human_machine_relationship,102414150]]'
+- '[[_Standards/WikiData/WD~human_computer_interaction,207434]]'
+- '[[_Standards/WikiData/WD~human_machine_relationship,102414150]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_ergonomics,7112625]]'
 practiced_by: '[[_Standards/WikiData/WD~ergonomist,11697052]]'
 instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
@@ -17,17 +57,98 @@ All_Science_Journal_Classification_Codes: 3307
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Computer%20Workstation%20Variables.jpg
 Stack_Exchange_tag: https://stackoverflow.com/tags/ergonomics
 Dewey_Decimal_Classification:
-  - 004.019
-  - 005.019
-  - 620.82
-  - 621.3984
+- 004.019
+- 005.019
+- 620.82
+- 621.3984
 Commons_category: Ergonomics
 MeSH_tree_code:
-  - F02.784.412
-  - J01.293.556
+- F02.784.412
+- J01.293.556
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/ERGONOMIKA.html
+dv_has_:
+  name_:
+    af: Ergonomika
+    ar: عوامل بشرية
+    az: erqonomika
+    ban: Ergonomi
+    be-tarask: эрганоміка
+    bg: Ергономия
+    bn: কর্মপরিবেশ বিদ্যা
+    bs: ergonomija
+    ca: ergonomia
+    cs: ergonomie
+    cv: Эргономика
+    cy: ergonomeg
+    da: ergonomi
+    de: Ergonomie
+    de-ch: Ergonomie
+    el: Εργονομία
+    en: ergonomics
+    en-ca: ergonomics
+    en-gb: ergonomics
+    eo: ergonomio
+    es: ergonomía
+    et: ergonoomika
+    eu: ergonomia
+    fa: ارگونومی
+    fi: ergonomia
+    fr: ergonomie
+    ga: eirgeanamaíocht
+    gl: ergonomía
+    ha: Abubuwan ɗan adam da ergonomics
+    he: ארגונומיה
+    hi: श्रमदक्षता शास्त्र
+    hr: ergonomija
+    hu: ergonómia
+    hy: Էրգոնոմիկա
+    id: ergonomika
+    it: ergonomia
+    ja: 人間工学
+    ka: ერგონომიკა
+    kk: Эргономика
+    ko: 인간공학
+    ky: эргономика
+    lt: ergonomika
+    lv: ergonomika
+    mn: Эргономик
+    ms: Faktor manusia dan ergonomik
+    nb: ergonomi
+    nl: ergonomie
+    nn: ergonomi
+    pl: ergonomia
+    pt: ergonomia
+    pt-br: ergonomia
+    ro: ergonomie
+    ru: эргономика
+    sa: मानवीयोपयुक्तता
+    se: ergonomiija
+    sh: ergonomija
+    sje: ergonomija
+    sk: ergonómia
+    sl: ergonomija
+    sma: ergonomije
+    smj: ergonomija
+    smn: ergonomia
+    sms: ergonomia
+    sq: ergonomi
+    sr: ергономија
+    sv: ergonomi
+    ta: பணிச்சூழலியல்
+    tl: ergonomiya
+    tr: iş bilimi
+    tt: эргономика
+    uk: ергономіка
+    ur: علم العمل
+    uz: Ergonomika
+    vi: Công thái học
+    war: ergonomiya
+    wuu: 人因工程学
+    yue: 人因工程
+    zh: 人因工程学
+    zh-hant: 人因工程學
+    zh-tw: 人因工程學
 ---
-
 # [[Ergonomics]] 
 
 #is_/same_as :: [[WD~Ergonomics,1750812]]  

@@ -1,22 +1,119 @@
 ---
 aliases:
-  - Mollusca
-  - Weichtiere
-  - bløtdyr
-  - Weekdieren
-  - mehkužci
+- Bijáád Ádaadinígíí
+- blautdyr
+- Blotvil
+- blötdjur
+- bløddyr
+- bløtdyr
+- gliemji
+- Ikinyamushongo
+- Imlwaɣen
+- Kinhason
+- Kregynnek
+- Limused
+- lindýr
+- Llamp'uka
+- mehkužci
+- Mekušci
+- mięczaki
+- Mjechkuše
+- moileasc
+- Moliuskai
+- Mollusca
+- Molluska
+- mollusques
+- Molluuskn
+- Mollyuskalar
+- Mollüskad
+- molusco
+- moluscos
+- Moluska
+- molusko
+- molusku
+- molusse
+- Molwsg
+- Molyusklar
+- mol·luscs
+- Mołusco
+- muolioskā
+- Mäkkýše
+- měkkýši
+- nilviäiset
+- Niōng-tā̤ dông-ŭk
+- Nńg-thé tōng-bu̍t
+- puhatestűek
+- qolaalqabeeyyii
+- soweli pi sijelo ko
+- Syrymbe
+- Weakdieren
+- Weechdéieren
+- Weekdeerter
+- Weekdiere
+- Weekdieren
+- Weichtiere
+- Weikdere
+- Wokdiarten
+- Yumuşakçalar
+- động vật thân mềm
+- Μαλάκια
+- Зөөлэн бэетэн
+- малюскі
+- Мегучкаре
+- мекотели
+- мекушци
+- Моллюск
+- Моллюскалар
+- Моллюскаш
+- моллюски
+- моллюсклар
+- Моллюсктæ
+- моллюскъёс
+- Моллюскылар
+- молюски
+- Нармбаданҳо
+- Հաւախխունջներ
+- փափկամարմիններ
+- מאלוסקן
+- רכיכות
+- رخويات
+- مولسکا
+- مولسڪا
+- مولیوسکلار
+- نرمتنان
+- मोलस्का
+- কোমলদেহী প্ৰাণী
+- মলাস্কা
+- ਮੋਲਸਕਾ
+- મૃદુકાય સમુદાય
+- ସନ୍ଧିପଦ
+- மெல்லுடலி
+- మొలస్కా
+- ಮೃದ್ವಂಗಿಗಳು
+- മൊളസ്ക
+- มอลลัสกา
+- ကျိချွဲသတ္တဝါ
+- მოლუსკები
+- ዛጎል ለበስ
+- 軟体動物
+- 軟體動物
+- 軟體動物門
+- 软体动物
+- 软体动物门
+- ꯃꯣꯂꯨꯁꯀꯥ
+- 연체동물
 has_id_wikidata: Q25326
 Basisklassifikation: 42.73
 Colon_Classification: K7
 Commons_category: Mollusca
 Commons_gallery: Mollusca
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
 Dewey_Decimal_Classification: 594
 EPPO_Code: 1MOLLP
 equivalent_class: http://dbpedia.org/ontology/Mollusca
@@ -35,25 +132,195 @@ Stack_Exchange_tag: https://biology.stackexchange.com/tags/molluscs
 start_time: -500000000-01-01
 studied_in: '[[_Standards/WikiData/WD~malacology,190993]]'
 taxon_common_name:
-  - Weichtiere
-  - bløtdyr
-  - Weekdieren
-  - mehkužci
+- Weichtiere
+- bløtdyr
+- Weekdieren
+- mehkužci
 taxon_name: Mollusca
 taxon_rank: '[[_Standards/WikiData/WD~phylum,38348]]'
 this_taxon_is_source_of:
-  - '[[_Standards/WikiData/WD~mollusc_shell,6445670]]'
-  - '[[_Standards/WikiData/WD~shellfish,6501235]]'
+- '[[_Standards/WikiData/WD~mollusc_shell,6445670]]'
+- '[[_Standards/WikiData/WD~shellfish,6501235]]'
 title: Mollusca
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Q10636788,10636788]]'
-  - '[[_Standards/WikiData/WD~Template_Mollusca,14334405]]'
-  - '[[_Standards/WikiData/WD~Template_Mollusc_classes,25733663]]'
+- '[[_Standards/WikiData/WD~Q10636788,10636788]]'
+- '[[_Standards/WikiData/WD~Template_Mollusca,14334405]]'
+- '[[_Standards/WikiData/WD~Template_Mollusc_classes,25733663]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42353303,42353303]]'
 UMLS_CUI: C0026391
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+dv_has_:
+  name_:
+    af: Weekdiere
+    am: ዛጎል ለበስ
+    an: Mollusca
+    ar: رخويات
+    ary: رخويات
+    arz: رخويات
+    as: কোমলদেহী প্ৰাণী
+    ast: Mollusca
+    az: Molyusklar
+    azb: مولیوسکلار
+    ba: Моллюскылар
+    bar: Mollusca
+    be: малюскі
+    be-tarask: малюскі
+    bg: мекотели
+    bn: মলাস্কা
+    br: Blotvil
+    bs: Mekušci
+    bxr: Зөөлэн бэетэн
+    ca: mol·luscs
+    cdo: Niōng-tā̤ dông-ŭk
+    ceb: Kinhason
+    co: Mollusca
+    cs: měkkýši
+    cv: Моллюск
+    cy: Molwsg
+    da: bløddyr
+    de: Weichtiere
+    de-at: Mollusca
+    de-ch: Mollusca
+    diq: Mollusca
+    el: Μαλάκια
+    en: Mollusca
+    en-ca: Mollusca
+    en-gb: Mollusca
+    eo: molusko
+    es: moluscos
+    et: Limused
+    eu: molusku
+    ext: Mollusca
+    fa: نرمتنان
+    fi: nilviäiset
+    fj: Mollusca
+    fo: lindýr
+    fr: mollusques
+    frp: Mollusca
+    frr: Wokdiarten
+    fur: Mollusca
+    fy: Weakdieren
+    ga: moileasc
+    gd: Mollusca
+    gl: molusco
+    gn: Syrymbe
+    gsw: Weichtiere
+    gu: મૃદુકાય સમુદાય
+    he: רכיכות
+    hi: मोलस्का
+    hif: Mollusca
+    hr: mekušci
+    hsb: Mjechkuše
+    hu: puhatestűek
+    hy: փափկամարմիններ
+    hyw: Հաւախխունջներ
+    ia: Mollusca
+    id: Moluska
+    ie: Mollusca
+    ig: Mollusca
+    inh: Моллюскаш
+    io: Molusko
+    is: lindýr
+    it: Mollusca
+    ja: 軟体動物
+    jv: Moluska
+    ka: მოლუსკები
+    kg: Mollusca
+    kk: Моллюскалар
+    kn: ಮೃದ್ವಂಗಿಗಳು
+    ko: 연체동물
+    kw: Kregynnek
+    ky: Моллюскалар
+    la: Mollusca
+    lb: Weechdéieren
+    lfn: Molusco
+    li: Weikdere
+    lij: Mollusca
+    lt: Moliuskai
+    lv: gliemji
+    mg: Mollusca
+    min: Mollusca
+    mk: Мекотели
+    ml: മൊളസ്ക
+    mni: ꯃꯣꯂꯨꯁꯀꯥ
+    ms: Moluska
+    mt: Molluska
+    mul: Mollusca
+    my: ကျိချွဲသတ္တဝါ
+    nan: Nńg-thé tōng-bu̍t
+    nap: Mollusca
+    nb: bløtdyr
+    nds: Weekdeerter
+    nds-nl: Mollusca
+    nl: weekdieren
+    nn: blautdyr
+    nrm: Mollusca
+    nv: Bijáád Ádaadinígíí
+    nys: Mollusca
+    oc: Mollusca
+    om: qolaalqabeeyyii
+    or: ସନ୍ଧିପଦ
+    os: Моллюсктæ
+    pa: ਮੋਲਸਕਾ
+    pap: molusko
+    pap-aw: molusco
+    pcd: Mollusca
+    pl: mięczaki
+    pms: Mollusca
+    pnb: مولسکا
+    pt: Moluscos
+    pt-br: Mollusca
+    qu: Llamp'uka
+    rm: Mollusca
+    ro: Mollusca
+    roa-tara: Mollusca
+    rsk: Мегучкаре
+    ru: моллюски
+    rup: Mollusca
+    rw: Ikinyamushongo
+    sc: Mollusca
+    scn: Mollusca
+    sco: Mollusca
+    sd: مولسڪا
+    sgs: muolioskā
+    sh: mekušci
+    shi: Imlwaɣen
+    sk: Mäkkýše
+    sl: mehkužci
+    sq: Mollusca
+    sr: мекушци
+    sv: blötdjur
+    sw: Moluska
+    ta: மெல்லுடலி
+    te: మొలస్కా
+    tet: Molusku
+    tg: Нармбаданҳо
+    th: มอลลัสกา
+    tl: Mollusca
+    tok: soweli pi sijelo ko
+    tr: Yumuşakçalar
+    tt: моллюсклар
+    udm: моллюскъёс
+    uk: молюски
+    ur: مولسکا
+    uz: Mollyuskalar
+    vec: Mołusco
+    vep: Mollüskad
+    vi: động vật thân mềm
+    vls: Molluuskn
+    vo: Mollusca
+    wa: molusse
+    war: Mollusca
+    wo: Mollusca
+    wuu: 软体动物
+    yi: מאלוסקן
+    yue: 軟體動物
+    zh: 软体动物门
+    zh-cn: 软体动物门
+    zh-hans: 软体动物门
+    zh-tw: 軟體動物門
+    zu: Mollusca
 ---
-
 # [[Mollusca]]
 
 Snails, clams, mussels, squids, octopi, chitons, and tusk shells 

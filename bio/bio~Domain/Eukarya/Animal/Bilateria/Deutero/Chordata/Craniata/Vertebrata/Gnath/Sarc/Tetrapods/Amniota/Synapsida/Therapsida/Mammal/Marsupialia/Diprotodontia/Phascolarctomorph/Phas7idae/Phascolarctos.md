@@ -1,4 +1,80 @@
-
+---
+has_id_wikidata: Q209692
+dv_has_:
+  name_:
+    an: Phascolarctos
+    ar: دب جرابي
+    arz: دب جرابى
+    ast: Phascolarctos
+    avk: Koalol (Phascolarctos)
+    az: Koala
+    bg: коали
+    br: Phascolarctos
+    ca: Phascolarctos
+    ceb: Phascolarctos
+    cs: koala
+    de: Phascolarctos
+    el: Phascolarctos
+    en: Phascolarctos
+    eo: Phascolarctos
+    es: Phascolarctos
+    eu: Phascolarctos
+    ext: Phascolarctos
+    fa: کیسهخرس
+    fi: Phascolarctos
+    fr: Phascolarctos
+    ga: Phascolarctos
+    gl: Phascolarctos
+    he: קואלה
+    hu: Phascolarctos
+    ia: Phascolarctos
+    ie: Phascolarctos
+    io: Phascolarctos
+    it: Phascolarctos
+    la: Phascolarctos
+    mul: Phascolarctos
+    nl: Phascolarctos
+    oc: Phascolarctos
+    pl: Koala
+    pt: Phascolarctos
+    pt-br: Phascolarctos
+    ro: Phascolarctos
+    ru: Коалы
+    sq: Phascolarctos
+    sv: Phascolarctos
+    th: Phascolarctos
+    tr: Phascolarctos
+    uk: Коала
+    vi: Phascolarctos
+    vo: Phascolarctos
+    war: Phascolarctos
+    yue: 樹熊屬
+    zh: 树袋熊属
+    zh-cn: 树袋熊属
+    zh-hans: 树袋熊属
+    zh-hant: 樹袋熊屬
+    zh-hk: 樹熊屬
+    zh-mo: 樹熊屬
+    zh-my: 无尾熊属
+    zh-sg: 无尾熊属
+    zh-tw: 無尾熊屬
+aliases:
+- Koala
+- Koalol (Phascolarctos)
+- Phascolarctos
+- Коала
+- коали
+- Коалы
+- קואלה
+- دب جرابى
+- دب جرابي
+- کیسهخرس
+- 无尾熊属
+- 树袋熊属
+- 樹熊屬
+- 樹袋熊屬
+- 無尾熊屬
+---
 # [[Phascolarctos]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Phascolarctos,209692|WD~Phascolarctos,209692]] 

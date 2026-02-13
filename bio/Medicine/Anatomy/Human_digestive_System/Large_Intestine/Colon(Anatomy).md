@@ -1,34 +1,144 @@
 ---
 aliases:
-  - Dickdarm
-  - Colon(Anatomy)
+- colon
+- Colon(Anatomy)
+- còlon
+- còłon
+- Cólon
+- côlon
+- debelo crevo
+- Debelo crijevo
+- Dickdarm
+- drólann
+- Déckdaarm
+- Gaubtėnė žarna
+- karteldarm
+- Kartelderm
+- Kiat-tn̂g
+- Kiet-tshòng
+- kojlo
+- kolon
+- Käärsool
+- lokzarna
+- Lynkkysuoli
+- Malaking isaw
+- Mosɔpɔ́ monɛ́nɛ
+- Okrężnica
+- ruột kết
+- tračník
+- Κόλον
+- абводніца
+- дебело црево
+- Ободно черво
+- ободова кишка
+- ободочная кишка человека
+- Тоқ ішек
+- Этемĕн тукунла пырши
+- כרכשת
+- قولون
+- پسروده
+- کۆلۆن
+- ފަލަ ގޮހޮރު
+- মলাশয়
+- ထူင်ၶီႈႁႃႇ
+- အစာဟောင်းအိမ်
+- 結腸
+- 结肠
+- 결장
 has_id_wikidata: Q5982337
 connects_with:
-  - '[[_Standards/WikiData/WD~rectum,158716]]'
-  - '[[_Standards/WikiData/WD~cecum,185317]]'
-  - '[[_Standards/WikiData/WD~ileum,233345]]'
+- '[[_Standards/WikiData/WD~rectum,158716]]'
+- '[[_Standards/WikiData/WD~cecum,185317]]'
+- '[[_Standards/WikiData/WD~ileum,233345]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~sigmoid_colon,677253]]'
-  - '[[_Standards/WikiData/WD~ascending_colon,2562556]]'
-  - '[[_Standards/WikiData/WD~descending_colon,2562565]]'
-  - '[[_Standards/WikiData/WD~transverse_colon,2619732]]'
+- '[[_Standards/WikiData/WD~sigmoid_colon,677253]]'
+- '[[_Standards/WikiData/WD~ascending_colon,2562556]]'
+- '[[_Standards/WikiData/WD~descending_colon,2562565]]'
+- '[[_Standards/WikiData/WD~transverse_colon,2619732]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~segment_of_large_intestine,66509764]]'
-  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~segment_of_large_intestine,66509764]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
 part_of: '[[_Standards/WikiData/WD~large_intestine,11083]]'
 OmegaWiki_Defined_Meaning: 681970
 TA98_Latin_term: colon
 P8189: 987007284598705171
 MeSH_tree_code:
-  - A03.556.124.526.356
-  - A03.556.249.249.356
+- A03.556.124.526.356
+- A03.556.249.249.356
 UMLS_CUI:
-  - C0009368
-  - C0227364
+- C0009368
+- C0227364
 Commons_category: Human colon
+dv_has_:
+  name_:
+    an: Cólon
+    ar: قولون
+    ast: Colon
+    be-tarask: абводніца
+    bg: Ободно черво
+    bn: মলাশয়
+    bs: Colon
+    ca: còlon
+    ckb: کۆلۆن
+    cs: tračník
+    cv: Этемĕн тукунла пырши
+    cy: colon
+    de: Colon
+    dv: ފަލަ ގޮހޮރު
+    el: Κόλον
+    en: colon
+    eo: kojlo
+    es: colon
+    et: Käärsool
+    eu: Kolon
+    fa: پسروده
+    fi: Lynkkysuoli
+    fr: côlon
+    ga: drólann
+    gl: colon
+    hak: Kiet-tshòng
+    he: כרכשת
+    hr: Debelo crijevo
+    ia: Colon
+    it: colon
+    ja: 結腸
+    kk: Тоқ ішек
+    ko: 결장
+    ku: kolon
+    kw: kolon
+    la: Colon
+    lb: Déckdaarm
+    li: Kartelderm
+    lmo: Colon
+    ln: Mosɔpɔ́ monɛ́nɛ
+    lv: lokzarna
+    my: အစာဟောင်းအိမ်
+    nan: Kiat-tn̂g
+    nb: colon
+    nl: karteldarm
+    nn: colon
+    pl: Okrężnica
+    pt: cólon
+    pt-br: colon
+    ro: colon
+    ru: ободочная кишка человека
+    sgs: Gaubtėnė žarna
+    shn: ထူင်ၶီႈႁႃႇ
+    sl: kolon
+    sr: дебело црево
+    sr-ec: дебело црево
+    sr-el: debelo crevo
+    sv: colon
+    tl: Malaking isaw
+    tr: Kolon
+    uk: ободова кишка
+    vec: còłon
+    vi: ruột kết
+    war: Colon
+    yue: 結腸
+    zh: 结肠
 ---
-
 # [[Colon(Anatomy)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Colon,5982337|WD~Colon,5982337]] 

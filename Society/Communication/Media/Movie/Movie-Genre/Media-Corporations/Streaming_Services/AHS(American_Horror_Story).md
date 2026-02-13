@@ -1,10 +1,111 @@
 ---
 aliases:
-  - American Horror Story
-  - AHS(American_Horror_Story)
-  - AHS(American Horror Story)
+- AHS(American Horror Story)
+- AHS(American_Horror_Story)
+- American Horror Story
+- American Horror Story – Die dunkle Seite in dir
+- Amerikai Horror Story
+- Amerikan qorxu hekayəsi
+- Amerikietiška siaubo istorija
+- Amerikāņu šausmu stāsts
+- Američka horor priča
+- Американская история ужасов
+- Американська історія жахів
+- Америчка хорор прича
+- Амерыканская гісторыя жахаў
+- Амэрыканская гісторыя жахаў
+- Зловеща семейна история
+- Ҳикояи даҳшати амрикоӣ
+- Ամերիկյան սարսափ պատմություն
+- אימה אמריקאית
+- داستان ترسناک آمریکایی
+- قصة رعب أمريكية
+- چیرۆکی ترسی ئەمریکی
+- अमेरिकन हॉरर स्टोरी
+- আমেরিকান হরর স্টোরি
+- ਅਮਰੀਕੀ ਹੋਰਰ ਸਟੋਰੀ
+- อเมริกันฮอร์เรอร์สตอรี
+- အမေရိကန်ထိတ်လန့်ပုံပြင်
+- ამერიკული საშინელებათა ისტორია
+- រឿងព្រឺព្រួចអាមេរិកាំង
+- アメリカン・ホラー・ストーリー
+- 美國怪談
+- 美國恐怖故事
+- 아메리칸 호러 스토리
+has_id_wikidata: Q53922
+dv_has_:
+  name_:
+    ar: قصة رعب أمريكية
+    ast: American Horror Story
+    az: Amerikan qorxu hekayəsi
+    be: Амерыканская гісторыя жахаў
+    be-tarask: Амэрыканская гісторыя жахаў
+    bg: Зловеща семейна история
+    bn: আমেরিকান হরর স্টোরি
+    ca: American Horror Story
+    ckb: چیرۆکی ترسی ئەمریکی
+    cs: American Horror Story
+    da: American Horror Story
+    de: American Horror Story
+    de-ch: American Horror Story – Die dunkle Seite in dir
+    diq: American Horror Story
+    el: American Horror Story
+    en: American Horror Story
+    en-ca: American Horror Story
+    en-gb: American Horror Story
+    es: American Horror Story
+    eu: American Horror Story
+    fa: داستان ترسناک آمریکایی
+    fi: American Horror Story
+    fr: American Horror Story
+    ga: American Horror Story
+    gl: American Horror Story
+    gn: American Horror Story
+    he: אימה אמריקאית
+    hi: अमेरिकन हॉरर स्टोरी
+    hr: Američka horor priča
+    ht: American Horror Story
+    hu: Amerikai Horror Story
+    hy: Ամերիկյան սարսափ պատմություն
+    iba: American Horror Story
+    id: American Horror Story
+    is: American Horror Story
+    it: American Horror Story
+    ja: アメリカン・ホラー・ストーリー
+    ka: ამერიკული საშინელებათა ისტორია
+    km: រឿងព្រឺព្រួចអាមេរិកាំង
+    ko: 아메리칸 호러 스토리
+    lb: American Horror Story
+    lt: Amerikietiška siaubo istorija
+    lv: Amerikāņu šausmu stāsts
+    mn: American Horror Story
+    ms: American Horror Story
+    my: အမေရိကန်ထိတ်လန့်ပုံပြင်
+    nb: American Horror Story
+    nl: American Horror Story
+    oc: American Horror Story
+    pa: ਅਮਰੀਕੀ ਹੋਰਰ ਸਟੋਰੀ
+    pl: American Horror Story
+    pt: American Horror Story
+    pt-br: American Horror Story
+    ro: American Horror Story
+    ru: Американская история ужасов
+    sh: American Horror Story
+    sk: American Horror Story
+    sr: Америчка хорор прича
+    sv: American Horror Story
+    tg: Ҳикояи даҳшати амрикоӣ
+    th: อเมริกันฮอร์เรอร์สตอรี
+    tl: American Horror Story
+    tr: American Horror Story
+    uk: Американська історія жахів
+    uz: American Horror Story
+    vi: American Horror Story
+    yue: 美國怪談
+    zh: 美國恐怖故事
+    zh-hant: 美國恐怖故事
+    zh-hk: 美國恐怖故事
 ---
-
 ## #has_/text_of_/abstract 
 
 > **American Horror Story** (AHS) is an American horror anthology television series 

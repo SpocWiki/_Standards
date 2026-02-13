@@ -1,10 +1,212 @@
 ---
 aliases:
-  - Al Pacino
-  - Alfredo James Pacino
-  - Pacino,Al
+- Al Pacino
+- Al Paçino
+- Alfredo James Pacino
+- Alfredus Pacino
+- Als Pačīno
+- Pacino,Al
+- Αλ Πατσίνο
+- Ал Пачино
+- Аль Пачіно
+- Аль Пачино
+- Аль Пачына
+- Ալ Պաչինո
+- אל פאטשינא
+- אל פצ'ינו
+- آل باتشينو
+- آل پاتشينو
+- آل پاچينؤ
+- آل پاچینو
+- ئال پاچینۆ
+- ال پاچینو
+- ال پچینو
+- अॅल पचिनो
+- ऍल पचिनो
+- আল পাচিনো
+- ਅਲ ਪਚੀਨੋ
+- அல் பசீனோ
+- ಆಲ್ ಪಸಿನೊ
+- അൽ പച്ചീനോ
+- අල් පසීනෝ
+- อัล ปาชิโน
+- ალ პაჩინო
+- ⴰⵍ ⴱⴰⵜⵛⵉⵏⵓ
+- アル・パチーノ
+- 艾尔·帕西诺
+- 艾爾·帕西諾
+- 阿尔·帕西诺
+- 阿尔·柏仙奴
+- 阿爾柏仙奴
+- 알 파치노
+has_id_wikidata: Q41163
+dv_has_:
+  name_:
+    ace: Al Pacino
+    af: Al Pacino
+    an: Al Pacino
+    ar: آل باتشينو
+    ary: آل پاتشينو
+    arz: آل باتشينو
+    ast: Al Pacino
+    az: Al Paçino
+    azb: آل پاچینو
+    bar: Al Pacino
+    bcl: Al Pacino
+    be: Аль Пачына
+    be-tarask: Аль Пачына
+    bg: Ал Пачино
+    bm: Al Pacino
+    bn: আল পাচিনো
+    br: Al Pacino
+    bs: Al Pacino
+    ca: Al Pacino
+    ckb: ئال پاچینۆ
+    co: Al Pacino
+    cs: Al Pacino
+    csb: Al Pacino
+    cv: Аль Пачино
+    cy: Al Pacino
+    da: Al Pacino
+    de: Al Pacino
+    de-at: Al Pacino
+    de-ch: Al Pacino
+    diq: Al Pacino
+    dsb: Al Pacino
+    el: Αλ Πατσίνο
+    eml: Al Pacino
+    en: Al Pacino
+    en-ca: Al Pacino
+    en-gb: Al Pacino
+    eo: Al Pacino
+    es: Al Pacino
+    et: Al Pacino
+    eu: Al Pacino
+    ext: Al Pacino
+    fa: آل پاچینو
+    fi: Al Pacino
+    fo: Al Pacino
+    fr: Al Pacino
+    frc: Al Pacino
+    frp: Al Pacino
+    fur: Al Pacino
+    ga: Al Pacino
+    gd: Al Pacino
+    gl: Al Pacino
+    glk: آل پاچينؤ
+    gsw: Al Pacino
+    gv: Al Pacino
+    he: אל פצ'ינו
+    hi: ऍल पचिनो
+    hr: Al Pacino
+    ht: Al Pacino
+    hu: Al Pacino
+    hy: Ալ Պաչինո
+    ia: Al Pacino
+    id: Al Pacino
+    ie: Al Pacino
+    ig: Al Pacino
+    ilo: Al Pacino
+    io: Al Pacino
+    is: Al Pacino
+    it: Al Pacino
+    ja: アル・パチーノ
+    jam: Al Pacino
+    ka: ალ პაჩინო
+    kab: Al Pacino
+    kg: Al Pacino
+    kk: Аль Пачино
+    kn: ಆಲ್ ಪಸಿನೊ
+    ko: 알 파치노
+    kw: Al Pacino
+    la: Alfredus Pacino
+    lb: Al Pacino
+    lfn: Al Pacino
+    li: Al Pacino
+    lij: Al Pacino
+    lmo: Al Pacino
+    lrc: آل پاچینو
+    lt: Al Pacino
+    lv: Als Pačīno
+    mg: Al Pacino
+    min: Al Pacino
+    mk: Ал Пачино
+    ml: അൽ പച്ചീനോ
+    mn: Аль Пачино
+    mr: अॅल पचिनो
+    ms: Al Pacino
+    mul: Al Pacino
+    mzn: آل پاچینو
+    nap: Al Pacino
+    nb: Al Pacino
+    nds: Al Pacino
+    nds-nl: Al Pacino
+    nl: Al Pacino
+    nn: Al Pacino
+    nrm: Al Pacino
+    oc: Al Pacino
+    pa: ਅਲ ਪਚੀਨੋ
+    pam: Al Pacino
+    pap: Al Pacino
+    pcd: Al Pacino
+    pdc: Al Pacino
+    pl: Al Pacino
+    pms: Al Pacino
+    pnb: ال پچینو
+    prg: Al Pacino
+    ps: ال پاچینو
+    pt: Al Pacino
+    pt-br: Al Pacino
+    qu: Al Pacino
+    rgn: Al Pacino
+    rm: Al Pacino
+    ro: Al Pacino
+    ru: Аль Пачино
+    sc: Al Pacino
+    scn: Al Pacino
+    sco: Al Pacino
+    sh: Al Pacino
+    si: අල් පසීනෝ
+    sk: Al Pacino
+    sl: Al Pacino
+    sq: Al Pacino
+    sr: Ал Пачино
+    sr-el: Al Pacino
+    srn: Al Pacino
+    sv: Al Pacino
+    sw: Al Pacino
+    ta: அல் பசீனோ
+    tg: Ал Пачино
+    th: อัล ปาชิโน
+    tl: Al Pacino
+    tly: Al Paçino
+    tpi: Al Pacino
+    tr: Al Pacino
+    uk: Аль Пачіно
+    ur: ال پاچینو
+    uz: Al Pacino
+    vec: Al Pacino
+    vi: Al Pacino
+    vls: Al Pacino
+    vmf: Al Pacino
+    vo: Al Pacino
+    wa: Al Pacino
+    war: Al Pacino
+    wo: Al Pacino
+    wuu: 阿尔·帕西诺
+    xh: Al Pacino
+    xmf: ალ პაჩინო
+    yi: אל פאטשינא
+    yo: Al Pacino
+    yue: 阿爾柏仙奴
+    zgh: ⴰⵍ ⴱⴰⵜⵛⵉⵏⵓ
+    zh: 艾尔·帕西诺
+    zh-hans: 艾尔·帕西诺
+    zh-hant: 艾爾·帕西諾
+    zh-my: 阿尔·柏仙奴
+    zh-sg: 阿尔·柏仙奴
+    zu: Al Pacino
 ---
-
 #has_/time_/started :: 1940-04-25 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

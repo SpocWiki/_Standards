@@ -1,4 +1,98 @@
-
+---
+has_id_wikidata: Q724477
+dv_has_:
+  name_:
+    an: Sciuromorpha
+    ar: سنجابيات الشكل
+    arz: سنجابيات الشكل
+    ast: Sciuromorpha
+    az: Sincabkimilər
+    be: вавёркападобныя
+    be-tarask: вавёркападобныя
+    bg: катерицообразни
+    ca: esciüromorfs
+    ceb: Sciuromorpha
+    cs: Sciuromorpha
+    de: Hörnchenverwandte
+    en: Sciuromorpha
+    eo: Sciuromorfoj
+    es: Sciuromorpha
+    eu: Sciuromorpha
+    ext: Sciuromorpha
+    fa: سنجابشکلان
+    fi: oravamaiset jyrsijät
+    fr: Sciuromorpha
+    frr: Sciuromorpha
+    fy: Iikhoarntsjes en sliepmûzen
+    ga: Sciuromorpha
+    gl: Sciuromorpha
+    he: דמויי סנאי
+    hr: Vjevericoliki glodavci
+    hu: mókusalkatúak
+    ia: Sciuromorpha
+    id: Sciuromorpha
+    ie: Sciuromorpha
+    io: Sciuromorpha
+    it: Sciuromorpha
+    ja: リス亜目
+    ko: 다람쥐아목
+    la: Sciuromorpha
+    lv: Vāverveidīgie
+    mul: Sciuromorpha
+    nb: ekorngruppen
+    nl: Sciuromorpha
+    oc: Sciuromorpha
+    pl: wiewiórkokształtne
+    pt: Sciuromorpha
+    pt-br: Sciuromorpha
+    ro: Sciuromorpha
+    ru: белкообразные
+    sh: Vjevericoliki glodavci
+    sl: Sciuromorpha
+    smn: uárreelágáneh jursseeh
+    sq: Sciuromorpha
+    sv: ekorrartade gnagare
+    tr: Sciuromorpha
+    tt: тиенсыманнар
+    uk: вивірковиді
+    vi: phân bộ Sóc
+    vo: Sciuromorpha
+    war: Sciuromorpha
+    zh: 松鼠形亚目
+    zh-cn: 松鼠形亚目
+    zh-hans: 松鼠形亚目
+    zh-hant: 松鼠形亞目
+    zh-hk: 松鼠形亞目
+    zh-tw: 松鼠形亞目
+aliases:
+- ekorngruppen
+- ekorrartade gnagare
+- esciüromorfs
+- Hörnchenverwandte
+- Iikhoarntsjes en sliepmûzen
+- mókusalkatúak
+- oravamaiset jyrsijät
+- phân bộ Sóc
+- Sciuromorfoj
+- Sciuromorpha
+- Sincabkimilər
+- uárreelágáneh jursseeh
+- Vjevericoliki glodavci
+- Vāverveidīgie
+- wiewiórkokształtne
+- белкообразные
+- вавёркападобныя
+- вивірковиді
+- катерицообразни
+- тиенсыманнар
+- דמויי סנאי
+- سنجابشکلان
+- سنجابيات الشكل
+- リス亜目
+- 松鼠形亚目
+- 松鼠形亞目
+- 다람쥐아목
+---
 #is_/same_as :: 
 ## #has_/text_of_/abstract 
 

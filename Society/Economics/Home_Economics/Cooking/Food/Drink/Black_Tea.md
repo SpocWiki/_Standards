@@ -1,24 +1,173 @@
 ---
 aliases:
-  - Black_Tea
-  - Black Tea
+- Black Tea
+- Black_Tea
+- Caz nding
+- ceai negru
+- chá preto
+- Crni čaj
+- czarna herbata
+- fekete tea
+- Fùng-chhà
+- juodoji arbata
+- musta tee
+- nigra teo
+- qara çay
+- Qora choy
+- schwarzer Tee
+- Siyah çay
+- svart te
+- swart tee
+- Te beltz
+- te du
+- te negre
+- teh hitam
+- thé noir
+- trà đen
+- tè mòro
+- Tè negre
+- tè nero
+- tèh ireng
+- té negro
+- zwarte thee
+- âng-tê
+- Çaji i Zi
+- Çaya siya
+- è̤ng-dà
+- černý čaj
+- črni čaj
+- μαύρο τσάι
+- Црн чај
+- црни чај
+- чёрный чай
+- Черен чай
+- Чорний чай
+- Чорны чай
+- Ҡара сәй
+- Սև թեյ
+- שװאַרצער טײ
+- תה שחור
+- شاي أحمر
+- قارا چاي
+- چای سیاه
+- کالی چائے
+- ब्लैक टी
+- কালো চা
+- ৰঙা চাহ
+- ਬਲੈਕ ਟੀ
+- કાળી ચા
+- பிளாக் டீ
+- ಕಪ್ಪು ಚಹಾ
+- കട്ടൻ ചായ
+- ชาดำ
+- ຊາດຳ
+- ཇ་དམར།
+- နိန်းအနွိုးသဲင်
+- အချိုခြောက်
+- ᡴᠠᡵᠠ ᠴᠠᡳ
+- 紅茶
+- 红茶
+- 홍차
 has_id_wikidata: Q203415
-different_from: "[[_Standards/WikiData/WD~black_drink,2611017]]"
+different_from: '[[_Standards/WikiData/WD~black_drink,2611017]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~caffeinated_drink,5017160]]"
-  - "[[_Standards/WikiData/WD~tea_leaves,32022234]]"
-  - "[[_Standards/WikiData/WD~tea,6097]]"
+- '[[_Standards/WikiData/WD~caffeinated_drink,5017160]]'
+- '[[_Standards/WikiData/WD~tea_leaves,32022234]]'
+- '[[_Standards/WikiData/WD~tea,6097]]'
 has_part_s_: "[[_Standards/WikiData/WD~Theaflavin_3,3'_digallate,7777226]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q20697801,20697801]]"
-part_of: "[[_Standards/WikiData/WD~tea,6097]]"
-country_of_origin: "[[_Standards/WikiData/WD~China,29520]]"
+topic_has_template: '[[_Standards/WikiData/WD~Q20697801,20697801]]'
+part_of: '[[_Standards/WikiData/WD~tea,6097]]'
+country_of_origin: '[[_Standards/WikiData/WD~China,29520]]'
 water_footprint: 8856
-OmegaWiki_Defined_Meaning: "1075894"
+OmegaWiki_Defined_Meaning: 1075894
 Unicode_character: ☕
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20cup%20of%20black%20tea%20from%20Srimangal%20Bangladesh.jpg
 Commons_category: Black tea
+dv_has_:
+  name_:
+    af: swart tee
+    ar: شاي أحمر
+    as: ৰঙা চাহ
+    ast: té negro
+    az: qara çay
+    ba: Ҡара сәй
+    be: Чорны чай
+    be-tarask: чорны чай
+    bg: Черен чай
+    blk: နိန်းအနွိုးသဲင်
+    bn: কালো চা
+    bo: ཇ་དམར།
+    ca: te negre
+    cdo: è̤ng-dà
+    cs: černý čaj
+    cy: te du
+    de: schwarzer Tee
+    diq: Çaya siya
+    el: μαύρο τσάι
+    en: black tea
+    eo: nigra teo
+    es: té negro
+    eu: Te beltz
+    fa: چای سیاه
+    fi: musta tee
+    fr: thé noir
+    gl: Té negro
+    gu: કાળી ચા
+    ha: Black tea
+    hak: Fùng-chhà
+    he: תה שחור
+    hi: ब्लैक टी
+    hr: Crni čaj
+    hu: fekete tea
+    hy: Սև թեյ
+    id: teh hitam
+    it: tè nero
+    ja: 紅茶
+    jv: tèh ireng
+    kn: ಕಪ್ಪು ಚಹಾ
+    ko: 홍차
+    lo: ຊາດຳ
+    lt: juodoji arbata
+    mk: Црн чај
+    ml: കട്ടൻ ചായ
+    mnc: ᡴᠠᡵᠠ ᠴᠠᡳ
+    my: အချိုခြောက်
+    nan: âng-tê
+    nb: svart te
+    nl: zwarte thee
+    nn: svart te
+    oc: Tè negre
+    pa: ਬਲੈਕ ਟੀ
+    pl: czarna herbata
+    pt: chá preto
+    ro: ceai negru
+    ru: чёрный чай
+    sl: črni čaj
+    sq: Çaji i Zi
+    sr: црни чај
+    sr-ec: црни чај
+    sr-el: crni čaj
+    sv: svart te
+    ta: பிளாக் டீ
+    th: ชาดำ
+    tr: Siyah çay
+    ug: قارا چاي
+    uk: Чорний чай
+    ur: کالی چائے
+    uz: Qora choy
+    vec: tè mòro
+    vi: trà đen
+    yi: שװאַרצער טײ
+    yue: 紅茶
+    za: Caz nding
+    zh: 红茶
+    zh-cn: 红茶
+    zh-hans: 红茶
+    zh-hant: 紅茶
+    zh-hk: 紅茶
+    zh-sg: 红茶
+    zh-tw: 紅茶
 ---
-
 # [[Black_Tea]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Black_tea,203415|WD~Black_tea,203415]] 

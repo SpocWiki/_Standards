@@ -1,9 +1,69 @@
 ---
 aliases:
-  - Hemisus
+- Chʼał bizéétʼą́hí
+- Hemisotedoj
+- Hemisus
+- Prosiakowate
+- Shovelnose frog
+- snavelbekkikkers
+- Лопатоноса жаба
+- Лягушки-поросята
+- המיסוטיים
+- ضفدع ذو الأنف الجاروفي
+- ضفدع ذو الانف الغاروفى
+- قورباغه پوزهبیلچهای
+- 肩蛙属
+- 헤미수스속
 title: Hemisus
+has_id_wikidata: Q55472
+dv_has_:
+  name_:
+    ar: ضفدع ذو الأنف الجاروفي
+    arz: ضفدع ذو الانف الغاروفى
+    ast: Hemisus
+    bg: Hemisus
+    ceb: Hemisus
+    cs: Hemisus
+    de: Hemisus
+    en: Shovelnose frog
+    en-ca: Shovelnose frog
+    en-gb: Shovelnose frog
+    eo: Hemisotedoj
+    es: Hemisus
+    et: Hemisus
+    eu: Hemisus
+    fa: قورباغه پوزهبیلچهای
+    fi: Hemisus
+    fr: Hemisus
+    ga: Hemisus
+    he: המיסוטיים
+    hu: Hemisus
+    ia: Hemisus
+    id: Hemisus
+    io: Hemisus
+    it: Hemisus
+    ko: 헤미수스속
+    la: Hemisus
+    mul: Hemisus
+    nb: Hemisus
+    nl: snavelbekkikkers
+    nn: Hemisus
+    nv: Chʼał bizéétʼą́hí
+    pl: Prosiakowate
+    pt: Hemisus
+    pt-br: Hemisus
+    ro: Hemisus
+    ru: Лягушки-поросята
+    sq: Hemisus
+    sr: Hemisus
+    sv: Hemisus
+    uk: Лопатоноса жаба
+    vi: Hemisus
+    war: Hemisus
+    zh: 肩蛙属
+    zh-cn: 肩蛙属
+    zh-hans: 肩蛙属
 ---
-
 # [[Hemisus]]
 
 Shovel-Nosed Frogs 

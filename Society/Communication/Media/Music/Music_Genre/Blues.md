@@ -1,6 +1,54 @@
 ---
 aliases:
-  - Blues
+- Bliozos
+- bliuzas
+- Blouze
+- Blu
+- Blues
+- bluesmusihkka
+- bluesmusikk
+- bluesmuusik
+- bluso
+- bluus
+- bluz
+- Blyuz
+- blús
+- blüz
+- blūzs
+- kiaull ghroamid
+- na gormacha
+- Orin blues
+- The Blues
+- y felan
+- μπλουζ
+- Блуз
+- блус
+- блюз
+- բլյուզ
+- Պլուզ
+- בלוז
+- بلوز
+- بلوز موسیقی
+- بلووز
+- موسیقی بلوز
+- ब्लूज़
+- ব্লুজ
+- ਬਲੂਜ਼
+- બ્લૂઝ
+- புளூஸ்
+- బ్లూస్
+- ಬ್ಲೂಸ್
+- ബ്ലൂസ്
+- සංගීතය-බ්ලූස්
+- บลูส์
+- ဘလူးစ် ဂီတ
+- ბლუზი
+- ブルース
+- 布鲁斯
+- 怨曲
+- 蓝调
+- 藍調
+- 블루스
 has_id_wikidata: Q9759
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mary%20Stafford%20and%20Her%20Jazz%20Band%20-%20Royal%20Garden%20Blues.mp3
 Commons_category: Blues
@@ -22,16 +70,153 @@ OmegaWiki_Defined_Meaning: 851080
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 PhilPapers_topic: blues
 practiced_by:
-  - '[[_Standards/WikiData/WD~blues_shouter,2907348]]'
-  - '[[_Standards/WikiData/WD~blues_musician,42303786]]'
+- '[[_Standards/WikiData/WD~blues_shouter,2907348]]'
+- '[[_Standards/WikiData/WD~blues_musician,42303786]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~popular_music,373342]]'
-  - '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
+- '[[_Standards/WikiData/WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~music_of_North_America,107718737]]'
 subreddit: blues
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Blues,10514224]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Blues,6557994]]'
+dv_has_:
+  name_:
+    af: Blues
+    an: Blues
+    ar: بلوز
+    as: ব্লুজ
+    ast: blues
+    az: blüz
+    azb: بلوز
+    ba: Блюз
+    bar: Blues
+    be: блюз
+    be-tarask: блюз
+    bg: блус
+    bn: ব্লুজ
+    br: Blues
+    bs: Blues
+    ca: blues
+    ce: Блюз
+    ckb: بلووز
+    crh: Blüz
+    cs: blues
+    cy: y felan
+    da: blues
+    de: Blues
+    el: μπλουζ
+    en: blues
+    eo: bluso
+    es: blues
+    et: bluus
+    eu: blues
+    fa: موسیقی بلوز
+    fi: blues
+    fj: Blues
+    fr: blues
+    fy: Blues
+    ga: na gormacha
+    gd: The Blues
+    gl: Blues
+    gn: blues
+    gsw: Blues
+    gu: બ્લૂઝ
+    gv: kiaull ghroamid
+    he: בלוז
+    hi: ब्लूज़
+    hif: Blues
+    hr: blues
+    hu: blues
+    hy: բլյուզ
+    hyw: Պլուզ
+    ia: blues
+    id: Blues
+    ilo: Blues
+    io: Blues
+    is: blús
+    it: blues
+    ja: ブルース
+    jv: Blues
+    ka: ბლუზი
+    kbp: Blu
+    kk: Блюз
+    kn: ಬ್ಲೂಸ್
+    ko: 블루스
+    ku: blues
+    ku-latn: blues
+    ky: Блюз
+    la: Blues
+    lb: Blues
+    li: Blues
+    lmo: Blues
+    lt: bliuzas
+    lv: blūzs
+    mk: Блуз
+    ml: ബ്ലൂസ്
+    mn: Блюз
+    mrj: Блюз
+    ms: Blues
+    mt: blues
+    my: ဘလူးစ် ဂီတ
+    mzn: بلوز
+    nah: Blues
+    nb: blues
+    nds: Blues
+    nds-nl: blues
+    nl: blues
+    nn: blues
+    nrm: Blues
+    oc: Blues
+    pa: ਬਲੂਜ਼
+    pap: Blues
+    pcd: Blues
+    pl: blues
+    pms: Blues
+    pnb: بلوز
+    pt: Blues
+    pt-br: Blues
+    rm: Blues
+    ro: blues
+    ru: блюз
+    rue: Блуз
+    sc: blues
+    scn: Blues
+    sco: blues
+    se: bluesmusihkka
+    sgs: Bliozos
+    sh: Blues
+    si: සංගීතය-බ්ලූස්
+    sk: Blues
+    sl: blues
+    smn: bluesmuusik
+    sms: bluesmusikk
+    sq: Blues
+    sr: блуз
+    sr-ec: блуз
+    sr-el: bluz
+    sv: blues
+    sw: Blues
+    ta: புளூஸ்
+    te: బ్లూస్
+    tg: блюз
+    th: บลูส์
+    tr: blues
+    udm: блюз
+    uk: блюз
+    ur: بلوز موسیقی
+    uz: Blyuz
+    vec: blues
+    vi: Blues
+    wa: Blouze
+    war: Blues
+    wuu: 蓝调
+    xmf: ბლუზი
+    yi: בלוז
+    yo: Orin blues
+    yue: 怨曲
+    zh: 藍調
+    zh-hans: 布鲁斯
+    zh-hant: 藍調
 ---
-
 # [[Blues]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Blues,9759|WD~Blues,9759]] 

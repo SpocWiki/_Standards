@@ -1,10 +1,179 @@
 ---
 aliases:
-  - Cello
-  - violoncello
-has_id_wikidata: ''
+- biol vooar
+- Cello
+- chilu
+- dordveidhil
+- fiyoolɔnsɩyɛɛlɩ
+- gordonka
+- Jita
+- sello
+- selló
+- Selo
+- sielo
+- tjello
+- tselo
+- txelo
+- Tōa-thê-khîm
+- tšello
+- violoncel
+- violoncelle
+- violoncello
+- Violoncellum
+- violoncelo
+- violonchel
+- violonchelo
+- violonchelu
+- violoncèl
+- violonçel
+- violonĉelo
+- violončelo
+- violončelė
+- violoñsell
+- viulun
+- viyolonsel
+- vjolinċell
+- Vyolonsèl
+- wiolonczela
+- čells
+- βιολοντσέλο
+- віолончель
+- віяланчэль
+- віялянчэль
+- виолончел
+- виолончело
+- виолончель
+- морин хийл
+- թավջութակ
+- թաւջութակ
+- טשעלא
+- צ'לו
+- تشيللو
+- كمان جهير
+- ویلونسل
+- چوڭ ئىسكىروپكا
+- چێلۆ
+- চেলো
+- செல்லோ
+- ചെല്ലോ
+- เชลโล
+- ჩელო
+- チェロ
+- 大提琴
+- 첼로
+has_id_wikidata: Q8371
+dv_has_:
+  name_:
+    af: tjello
+    ar: كمان جهير
+    arz: تشيللو
+    ast: violonchelu
+    az: violonçel
+    bar: Violoncello
+    be: віяланчэль
+    be-tarask: віялянчэль
+    bg: виолончело
+    bn: চেলো
+    br: violoñsell
+    bs: violončelo
+    ca: violoncel
+    ckb: چێلۆ
+    cs: violoncello
+    cv: виолончель
+    cy: sielo
+    da: cello
+    de: Violoncello
+    el: βιολοντσέλο
+    en: cello
+    eo: violonĉelo
+    es: violonchelo
+    et: tšello
+    eu: txelo
+    fa: ویلونسل
+    fi: sello
+    fr: violoncelle
+    fy: Sello
+    ga: dordveidhil
+    gl: violoncello
+    gsw: Violoncello
+    gv: biol vooar
+    ha: Jita
+    he: צ'לו
+    hr: violončelo
+    ht: Vyolonsèl
+    hu: gordonka
+    hy: թավջութակ
+    hyw: թաւջութակ
+    ia: violoncello
+    id: cello
+    ilo: tselo
+    io: violoncelo
+    is: selló
+    it: violoncello
+    ja: チェロ
+    jv: cello
+    ka: ჩელო
+    kbp: fiyoolɔnsɩyɛɛlɩ
+    kk: виолончель
+    ko: 첼로
+    ku: viyolonsel
+    ku-latn: viyolonsel
+    ky: виолончель
+    la: Violoncellum
+    lb: Cello
+    lmo: viulun
+    lt: violončelė
+    lv: čells
+    mk: виолончело
+    ml: ചെല്ലോ
+    mn: морин хийл
+    ms: selo
+    mt: vjolinċell
+    nan: Tōa-thê-khîm
+    nb: cello
+    nds: Violoncello
+    nds-nl: cello
+    nl: cello
+    nn: cello
+    oc: violoncèl
+    os: виолончель
+    pl: wiolonczela
+    pt: violoncelo
+    qu: chilu
+    ro: violoncel
+    ru: виолончель
+    rue: виолончело
+    se: cello
+    sh: violončelo
+    sk: violončelo
+    sl: violončelo
+    smn: sello
+    sms: sello
+    sr: виолончело
+    sr-ec: виолончело
+    sr-el: violončelo
+    stq: Violoncello
+    sv: cello
+    sw: Selo
+    ta: செல்லோ
+    tg: виолончел
+    th: เชลโล
+    tl: tselo
+    tr: viyolonsel
+    tyv: виолончель
+    ug: چوڭ ئىسكىروپكا
+    uk: віолончель
+    uz: violonchel
+    vi: cello
+    vls: Cello
+    war: tselo
+    wuu: 大提琴
+    yi: טשעלא
+    yue: 大提琴
+    zh: 大提琴
+    zh-hant: 大提琴
+    zh-tw: 大提琴
 ---
-
 # [[Cello]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cello,8371|WD~Cello,8371]] 

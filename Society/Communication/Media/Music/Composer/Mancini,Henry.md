@@ -1,54 +1,80 @@
 ---
 aliases:
-  - Henry_Mancini
-  - Henry Mancini
-  - Mancini
-  - Enrico Nicola Mancini
-  - Mancini,Henry
+- Enrico Nicola Mancini
+- Henri Mancini
+- Henri Mançini
+- Henrijs Mansīni
+- Henry Mancini
+- Henry_Mancini
+- Mancini
+- Mancini,Henry
+- Mançïnï Genrï
+- Χένρι Μαντσίνι
+- Генрі Манчіні
+- Генри Манчини
+- Генры Манчыні
+- Гэнры Манчыні
+- Манчини Генри
+- Хенри Мансини
+- Хенри Манчини
+- Հենրի Մանչինի
+- הנרי מנסיני
+- مانتشىينىي گەنرىي
+- هنرى مانشينى
+- هنري مانشيني
+- هنری مانچینی
+- ਹੈਨਰੀ ਮੈਨਸਿਨੀ
+- เฮนรี แมนซินี
+- ヘンリー・マンシーニ
+- 亨利·曼仙尼
+- 亨利·曼西尼
+- 亨利·曼齊尼
+- 亨利·曼齐尼
+- 헨리 맨시니
 has_id_wikidata: Q185928
 instrument:
-  - '[[_Standards/WikiData/WD~piccolo,83509]]'
-  - '[[_Standards/WikiData/WD~piano,5994]]'
-  - '[[_Standards/WikiData/WD~flute,11405]]'
+- '[[_Standards/WikiData/WD~piccolo,83509]]'
+- '[[_Standards/WikiData/WD~piano,5994]]'
+- '[[_Standards/WikiData/WD~flute,11405]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Musical_Score,4671338]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song_Score,22344608]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_or_Comedy_Score,22752868]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 occupation:
-  - '[[_Standards/WikiData/WD~conductor,158852]]'
-  - '[[_Standards/WikiData/WD~pianist,486748]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
-  - '[[_Standards/WikiData/WD~music_arranger,1643514]]'
-  - '[[_Standards/WikiData/WD~flautist,12902372]]'
-  - '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
-  - '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~pianist,486748]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~film_score_composer,1415090]]'
+- '[[_Standards/WikiData/WD~music_arranger,1643514]]'
+- '[[_Standards/WikiData/WD~flautist,12902372]]'
+- '[[_Standards/WikiData/WD~jazz_musician,15981151]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
 genre:
-  - '[[_Standards/WikiData/WD~melodrama,191489]]'
-  - '[[_Standards/WikiData/WD~easy_listening,848399]]'
-  - '[[_Standards/WikiData/WD~lounge_music,1141081]]'
-  - '[[_Standards/WikiData/WD~orchestral_pop,48834745]]'
-  - '[[_Standards/WikiData/WD~stage_and_screen,61340552]]'
-  - '[[_Standards/WikiData/WD~comedy,40831]]'
+- '[[_Standards/WikiData/WD~melodrama,191489]]'
+- '[[_Standards/WikiData/WD~easy_listening,848399]]'
+- '[[_Standards/WikiData/WD~lounge_music,1141081]]'
+- '[[_Standards/WikiData/WD~orchestral_pop,48834745]]'
+- '[[_Standards/WikiData/WD~stage_and_screen,61340552]]'
+- '[[_Standards/WikiData/WD~comedy,40831]]'
 cause_of_death: '[[_Standards/WikiData/WD~pancreatic_cancer,212961]]'
 copyright_representative: '[[_Standards/WikiData/WD~American_Society_of_Composers,_Authors_and_Publishers,373087]]'
 field_of_work: '[[_Standards/WikiData/WD~film_score,492264]]'
 educated_at: '[[_Standards/WikiData/WD~Juilliard_School,503246]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Moon_River,832948]]'
-  - '[[_Standards/WikiData/WD~The_Pink_Panther_Theme,3510916]]'
+- '[[_Standards/WikiData/WD~Moon_River,832948]]'
+- '[[_Standards/WikiData/WD~The_Pink_Panther_Theme,3510916]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child: '[[_Standards/WikiData/WD~Monica_Mancini,6900006]]'
@@ -66,8 +92,8 @@ military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 112000
-  - 1739
+- 112000
+- 1739
 place_of_birth: '[[_Standards/WikiData/WD~Cleveland,37320]]'
 ISNI: 0000000121343609
 Commons_category: Henry Mancini
@@ -78,8 +104,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Mancini.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Henry%20Mancini%20signature.png
 official_website: http://www.henrymancini.com
 IPI_name_number:
-  - 00019313012
-  - 00220707015
+- 00019313012
+- 00220707015
 U_S_National_Archives_Identifier: 10569255
 Plex_person_key: 5d7769ad96b655001fdd644f
 Europeana_entity: agent/base/60501
@@ -90,8 +116,90 @@ Facebook_username: Henrymanciniofficial
 name_in_native_language: Henry Mancini
 birth_name: Enrico Nicola Mancini
 date_of_birth: 1924-04-16T00:00:00Z
+dv_has_:
+  name_:
+    an: Henry Mancini
+    ar: هنري مانشيني
+    arz: هنرى مانشينى
+    ast: Henry Mancini
+    az: Henri Mançini
+    azb: هنری مانچینی
+    be: Генры Манчыні
+    be-tarask: Гэнры Манчыні
+    bg: Хенри Манчини
+    ca: Henry Mancini
+    cs: Henry Mancini
+    cy: Henry Mancini
+    da: Henry Mancini
+    de: Henry Mancini
+    el: Χένρι Μαντσίνι
+    en: Henry Mancini
+    eo: Henry Mancini
+    es: Henry Mancini
+    et: Henry Mancini
+    eu: Henry Mancini
+    fa: هنری مانچینی
+    fi: Henry Mancini
+    fr: Henry Mancini
+    ga: Henry Mancini
+    gan: 亨利·曼齊尼
+    gan-hans: 亨利·曼齐尼
+    gan-hant: 亨利·曼齊尼
+    gl: Henry Mancini
+    he: הנרי מנסיני
+    hr: Henry Mancini
+    hu: Henry Mancini
+    hy: Հենրի Մանչինի
+    id: Henry Mancini
+    io: Henry Mancini
+    is: Henry Mancini
+    it: Henry Mancini
+    ja: ヘンリー・マンシーニ
+    kk: Манчини Генри
+    kk-arab: مانتشىينىي گەنرىي
+    kk-cn: مانتشىينىي گەنرىي
+    kk-cyrl: Манчини Генри
+    kk-kz: Манчини Генри
+    kk-latn: Mançïnï Genrï
+    kk-tr: Mançïnï Genrï
+    ko: 헨리 맨시니
+    ky: Генри Манчини
+    lb: Henry Mancini
+    lv: Henrijs Mansīni
+    mg: Henry Mancini
+    mk: Хенри Мансини
+    mul: Henry Mancini
+    nb: Henry Mancini
+    nl: Henry Mancini
+    nn: Henry Mancini
+    pa: ਹੈਨਰੀ ਮੈਨਸਿਨੀ
+    pl: Henry Mancini
+    pt: Henry Mancini
+    pt-br: Henry Mancini
+    ro: Henry Mancini
+    ru: Генри Манчини
+    sco: Henry Mancini
+    se: Henry Mancini
+    sh: Henry Mancini
+    sk: Henry Mancini
+    sl: Henry Mancini
+    sq: Henry Mancini
+    sr: Henri Mancini
+    sv: Henry Mancini
+    th: เฮนรี แมนซินี
+    tr: Henry Mancini
+    uk: Генрі Манчіні
+    vi: Henry Mancini
+    war: Henry Mancini
+    yue: 亨利·曼仙尼
+    zh: 亨利·曼西尼
+    zh-cn: 亨利·曼西尼
+    zh-hans: 亨利·曼西尼
+    zh-hant: 亨利·曼西尼
+    zh-hk: 亨利·曼仙尼
+    zh-sg: 亨利·曼西尼
+    zh-tw: 亨利·曼西尼
 ---
-
 # [[Mancini,Henry]] 
 
 #is_/same_as :: [[WD~Henry_Mancini,185928]] 

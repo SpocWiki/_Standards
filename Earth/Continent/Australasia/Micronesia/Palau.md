@@ -28,9 +28,9 @@ dv_UNTERM_Chinese_Formal: 帕劳共和国
 dv_UNTERM_French_Formal: la République des Palaos
 dv_UNTERM_Russian: Палау
 dv_UNTERM_Russian_Formal: Республика Палау
-dv_Region_Name: "[[../../Oceania]]"
-dv_Intermediate_Region_Name: "[[Palau]]"
-dv_Sub-region_Name: "[[../Micronesia]]"
+dv_Region_Name: '[[../../Oceania]]'
+dv_Intermediate_Region_Name: '[[Palau]]'
+dv_Sub-region_Name: '[[../Micronesia]]'
 dv_Region: 9
 dv_Sub-region: 57
 dv_Geoname-ID: 1559582
@@ -52,237 +52,300 @@ dv_ISO2: PW
 dv_ISO3: PLW
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Palau,695|WD~Palau,695]]"
-    - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau|Palau]]"
-    - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau.public|Palau.public]]"
-    - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal|Palau.internal]]"
-    - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect|Palau.protect]]"
-    - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]"
-    - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]"
-    - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]"
+  - '[[../../../../WikiData/WD~Palau,695|WD~Palau,695]]'
+  - '[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau|Palau]]'
+  - '[[/_public/Earth/Continent/Australasia/Micronesia/Palau.public|Palau.public]]'
+  - '[[/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal|Palau.internal]]'
+  - '[[/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect|Palau.protect]]'
+  - '[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]'
+  - '[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]'
+  - '[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]'
 dv_has_name_de: Palau
 dv_Area-Total: 508
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Oceania]]"
+dv_has_place_continent: '[[../../Oceania]]'
 dv_VehicleCode: PAL
-dv_Capital: "[[Palau/States~Palau/Melekeok]]"
+dv_Capital: '[[Palau/States~Palau/Melekeok]]'
 dv_Alcohol-l: 10.1
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
+dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 134.467
 dv_has_place_latitude: 7.35
 dv_concept-republicofpalau: 62yw5"
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Palau,695|WD~Palau,695]]"
-  - "[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau|Palau]]"
-  - "[[/_public/Earth/Continent/Australasia/Micronesia/Palau.public|Palau.public]]"
-  - "[[/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal|Palau.internal]]"
-  - "[[/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect|Palau.protect]]"
-  - "[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]"
-  - "[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]"
-  - "[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]"
-
+- '[[../../../../WikiData/WD~Palau,695|WD~Palau,695]]'
+- '[[/_Standards/Earth/Continent/Australasia/Micronesia/Palau|Palau]]'
+- '[[/_public/Earth/Continent/Australasia/Micronesia/Palau.public|Palau.public]]'
+- '[[/_internal/Earth/Continent/Australasia/Micronesia/Palau.internal|Palau.internal]]'
+- '[[/_protect/Earth/Continent/Australasia/Micronesia/Palau.protect|Palau.protect]]'
+- '[[/_private/Earth/Continent/Australasia/Micronesia/Palau.private|Palau.private]]'
+- '[[/_personal/Earth/Continent/Australasia/Micronesia/Palau.personal|Palau.personal]]'
+- '[[/_secret/Earth/Continent/Australasia/Micronesia/Palau.secret|Palau.secret]]'
 aliases:
-  - Palau
-  - Palaos
-  - بالاو
-  - 帕劳
-  - Палау
-  - the Republic of Palau
-  - la República de Palau
+- Balau
+- Belau
+- Belaua
+- i-Palau
+- Kapalauhan
+- la República de Palau
+- ma telo Pela
+- Paalau
+- Palao
+- Palaos
+- Palau
+- Palau (istadu)
+- Palauvuäns
+- Palav
+- Palaw
+- Palawu
+- Palaŭo
+- Palá
+- Paláu
+- Parau
+- Pa̱la̱u
+- Pelau
+- Poryo
+- Páláù
+- Pārau
+- the Republic of Palau
+- Παλάου
+- Палаў
+- Паламудин Орн
+- Палау
+- Палау Республикасы
+- Պալաու
+- פלאו
+- بالاو
+- پالاؤ
+- پالائو
+- پالاو
+- پالايو
+- پالاۋ
+- پلاؤ
+- ޕަލާއޫ
+- पलाउ
+- पलाऊ
+- पालाउ
+- পালাউ
+- ਪਲਾਊ
+- પલાઉ
+- ପଲାଓ
+- பலாவு
+- పలావు
+- ಪಲಾವು
+- പലാവു
+- පලාවු
+- ประเทศปาเลา
+- པ་ལའུ།
+- པ་ལཱཝ།
+- ပလောင်းနိုင်ငံ
+- ပလောင်းသမ္မတနိုင်ငံ
+- မိူင်းပႃႇလၢဝ်း
+- პალაუ
+- ፐላው
+- ᏆᎴᎠᏫ
+- ប៉ាឡាវ
+- ᱯᱟᱞᱟᱣ
+- パラオ
+- 帕劳
+- 帕勞
+- 帛琉
+- ꯄꯥꯂꯥꯎ
+- 팔라우
+- "\U00010340\U00010330\U0001033B\U00010330\U0001033F"
 has_id_wikidata: Q695
 instance_of:
-  - "[[_Standards/WikiData/WD~island_country,112099]]"
-  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~republic,7270]]"
+- '[[_Standards/WikiData/WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270]]'
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Mie_Prefecture,128196]]"
-  - "[[_Standards/WikiData/WD~Hyōgo_Prefecture,130290]]"
-  - "[[_Standards/WikiData/WD~Nisshin,696777]]"
+- '[[_Standards/WikiData/WD~Mie_Prefecture,128196]]'
+- '[[_Standards/WikiData/WD~Hyōgo_Prefecture,130290]]'
+- '[[_Standards/WikiData/WD~Nisshin,696777]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Melekeok,154002]]"
-  - "[[_Standards/WikiData/WD~Aimeliik,405589]]"
-  - "[[_Standards/WikiData/WD~Airai,407967]]"
-  - "[[_Standards/WikiData/WD~Ngatpang,430385]]"
-  - "[[_Standards/WikiData/WD~Peleliu,497981]]"
-  - "[[_Standards/WikiData/WD~Koror,527748]]"
-  - "[[_Standards/WikiData/WD~Angaur,530813]]"
-  - "[[_Standards/WikiData/WD~Sonsorol,866699]]"
-  - "[[_Standards/WikiData/WD~Kayangel,871222]]"
-  - "[[_Standards/WikiData/WD~Ngeremlengui,975076]]"
-  - "[[_Standards/WikiData/WD~Ngchesar,1070180]]"
-  - "[[_Standards/WikiData/WD~Ngarchelong,1070185]]"
-  - "[[_Standards/WikiData/WD~Ngardmau,1144496]]"
-  - "[[_Standards/WikiData/WD~Ngiwal,1154101]]"
-  - "[[_Standards/WikiData/WD~Ngaraard,1154127]]"
-  - "[[_Standards/WikiData/WD~Hatohobei,3516752]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Palau,188609]]"
+- '[[_Standards/WikiData/WD~Melekeok,154002]]'
+- '[[_Standards/WikiData/WD~Aimeliik,405589]]'
+- '[[_Standards/WikiData/WD~Airai,407967]]'
+- '[[_Standards/WikiData/WD~Ngatpang,430385]]'
+- '[[_Standards/WikiData/WD~Peleliu,497981]]'
+- '[[_Standards/WikiData/WD~Koror,527748]]'
+- '[[_Standards/WikiData/WD~Angaur,530813]]'
+- '[[_Standards/WikiData/WD~Sonsorol,866699]]'
+- '[[_Standards/WikiData/WD~Kayangel,871222]]'
+- '[[_Standards/WikiData/WD~Ngeremlengui,975076]]'
+- '[[_Standards/WikiData/WD~Ngchesar,1070180]]'
+- '[[_Standards/WikiData/WD~Ngarchelong,1070185]]'
+- '[[_Standards/WikiData/WD~Ngardmau,1144496]]'
+- '[[_Standards/WikiData/WD~Ngiwal,1154101]]'
+- '[[_Standards/WikiData/WD~Ngaraard,1154127]]'
+- '[[_Standards/WikiData/WD~Hatohobei,3516752]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Palau,188609]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Seal_of_Palau,478816]]"
-capital: "[[_Standards/WikiData/WD~Ngerulmud,515229]]"
-emergency_phone_number: "[[_Standards/WikiData/WD~911,533806]]"
+- '[[_Standards/WikiData/WD~Asian_Development_Bank,188822]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Seal_of_Palau,478816]]'
+capital: '[[_Standards/WikiData/WD~Ngerulmud,515229]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-anthem: "[[_Standards/WikiData/WD~Belau_rekid,602974]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Palau,878329]]"
-highest_point: "[[_Standards/WikiData/WD~Mount_Ngerchelchuus,1191219]]"
-legislative_body: "[[_Standards/WikiData/WD~Palau_National_Congress,1384462]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Palau,2090069]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Palau,2737637]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Palau,3052731]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Palau,3123417]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Micronesia,3359409]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+anthem: '[[_Standards/WikiData/WD~Belau_rekid,602974]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Palau,878329]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Ngerchelchuus,1191219]]'
+legislative_body: '[[_Standards/WikiData/WD~Palau_National_Congress,1384462]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Palau,2090069]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Palau,2737637]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Palau,3052731]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Palau,3123417]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Micronesia,3359409]]'
 part_of:
-  - "[[_Standards/WikiData/WD~Micronesia,3359409]]"
-  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Palau,7112403]]"
-different_from: "[[_Standards/WikiData/WD~Paelau,7124078]]"
-highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Palau,7644966]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q13335072,13335072]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Palau,14616025]]"
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Palau_topics,17352666]]"
+- '[[_Standards/WikiData/WD~Micronesia,3359409]]'
+- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Palau,7112403]]'
+different_from: '[[_Standards/WikiData/WD~Paelau,7124078]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Palau,7644966]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335072,13335072]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Palau,14616025]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Palau_topics,17352666]]'
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-head_of_state: "[[_Standards/WikiData/WD~Surangel_Whipps_Jr.,26703072]]"
-head_of_government: "[[_Standards/WikiData/WD~Surangel_Whipps_Jr.,26703072]]"
-permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103547,27103547]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Palau,52898982]]"
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
+head_of_state: '[[_Standards/WikiData/WD~Surangel_Whipps_Jr.,26703072]]'
+head_of_government: '[[_Standards/WikiData/WD~Surangel_Whipps_Jr.,26703072]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103547,27103547]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Palau,52898982]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Pacific_Palau,63285982]]"
-  - "[[_Standards/WikiData/WD~UTC+09_00,7041]]"
-archives_at: "[[_Standards/WikiData/WD~Palau_National_Archive,106690310]]"
+- '[[_Standards/WikiData/WD~Pacific_Palau,63285982]]'
+- '[[_Standards/WikiData/WD~UTC+09_00,7041]]'
+archives_at: '[[_Standards/WikiData/WD~Palau_National_Archive,106690310]]'
 demonym:
-  - Palavčan
-  - Palavčanka
-  - پالاوي
-  - پالاويات
-  - پالاوية
-  - پالاويين
-  - Palaois
-  - Palaoise
-  - פלאואני
-  - פלאואנית
-  - palaui
-  - Palauano
-  - belau
-  - بالاوي
-  - بالاوية
-  - بالاويون
-  - de Paláu
-  - পালাউয়ীয়
-  - Palauan
-  - Palaŭano
+- Palavčan
+- Palavčanka
+- پالاوي
+- پالاويات
+- پالاوية
+- پالاويين
+- Palaois
+- Palaoise
+- פלאואני
+- פלאואנית
+- palaui
+- Palauano
+- belau
+- بالاوي
+- بالاوية
+- بالاويون
+- de Paláu
+- পালাউয়ীয়
+- Palauan
+- Palaŭano
 official_name:
-  - Beluu er a Belau
-  - 帛琉共和國
-  - Palau
-  - la République des Palaos
+- Beluu er a Belau
+- 帛琉共和國
+- Palau
+- la République des Palaos
 native_label:
-  - Belau
-  - Republic of Palau
+- Belau
+- Republic of Palau
 coordinates_of_westernmost_point: Point(131.12388889 3.00583333)
 Wolfram_Language_entity_code:
-  - Entity"Concept", "RepublicOfPalau = `=this.dv_"Concept", "RepublicOfPalau`
-  - Entity["HistoricalCountry", "Palau"]
+- Entity"Concept", "RepublicOfPalau = `=this.dv_"Concept", "RepublicOfPalau`
+- Entity["HistoricalCountry", "Palau"]
 motto_text:
-  - Paradwys Perffaith Palaw
-  - Pristime Paradise Palau
+- Paradwys Perffaith Palaw
+- Pristime Paradise Palau
 coordinates_of_easternmost_point: Point(134.699 8.077)
 coordinates_of_southernmost_point: Point(131.783333333 2.95)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
-  - "[[_Standards/WikiData/WD~Marshall_Islands,709]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]'
+- '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
 continent:
-  - "[[_Standards/WikiData/WD~Insular_Oceania,538]]"
-  - "[[_Standards/WikiData/WD~Oceania,55643]]"
-country: "[[_Standards/WikiData/WD~Palau,695]]"
+- '[[_Standards/WikiData/WD~Insular_Oceania,538]]'
+- '[[_Standards/WikiData/WD~Oceania,55643]]'
+country: '[[_Standards/WikiData/WD~Palau,695]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+- '[[_Standards/WikiData/WD~Federated_States_of_Micronesia,702]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
 official_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Japanese,5287]]"
-  - "[[_Standards/WikiData/WD~Palauan,33776]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Japanese,5287]]'
+- '[[_Standards/WikiData/WD~Palauan,33776]]'
 language_used:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Sonsorolese,13281]]"
-  - "[[_Standards/WikiData/WD~Palauan,33776]]"
-  - "[[_Standards/WikiData/WD~Tobian,34022]]"
-lowest_point: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Sonsorolese,13281]]'
+- '[[_Standards/WikiData/WD~Palauan,33776]]'
+- '[[_Standards/WikiData/WD~Tobian,34022]]'
+lowest_point: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
 mains_voltage: 120
 compulsory_education_maximum_age_: 14
 marriageable_age:
-  - 16
-  - 18
+- 16
+- 18
 maximum_temperature_record: 35
 death_rate:
-  - 8.4
-  - 9.7
-  - 10.2
-  - 11.4
+- 8.4
+- 9.7
+- 10.2
+- 11.4
 birth_rate:
-  - 8.8
-  - 11.2
-  - 12.1
-  - 12.7
+- 8.8
+- 11.2
+- 12.1
+- 12.7
 minimum_temperature_record: 18.9
 total_fertility_rate: 2.02
 OpenStreetMap_zoom_level: 8
 number_of_out_of_school_children: 539
 Human_Development_Index: 0.767
 male_population:
-  - 9380
-  - 9376
-  - 9377
-  - 9379
+- 9380
+- 9376
+- 9377
+- 9379
 nominal_GDP: 217800000
 rural_population:
-  - 3258
-  - 3338
-  - 3417
-  - 3499
+- 3258
+- 3338
+- 3417
+- 3499
 OmegaWiki_Defined_Meaning: 8093
 female_population:
-  - 8537
-  - 8595
-  - 8643
-  - 8679
+- 8537
+- 8595
+- 8643
+- 8679
 FIPS_5_2_numeric_code_US_states_: 70
 mobile_country_code: 552
 urban_population:
-  - 14417
-  - 14555
-  - 14686
-  - 14797
+- 14417
+- 14555
+- 14686
+- 14797
 maritime_identification_digits: 511
 population: 21729
 FIPS_10_4_countries_and_regions_: PS
@@ -296,8 +359,8 @@ FIPS_5_2_alpha_code_US_states_: PW
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg
 IOC_country_code: PLW
 short_name:
-  - 🇵🇼
-  - PW
+- "\U0001F1F5\U0001F1FC"
+- PW
 coordinates_of_northernmost_point: Point(134.63 8.17)
 inception: 1994-10-01
 has_time_started: 1994-10-01
@@ -311,10 +374,10 @@ life_expectancy: 69.12927
 geoshape: http://commons.wikimedia.org/data/main/Data:Palau.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Jellyfish%20Lake%20banner.jpg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Palau.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AA%E0%AC%B2%E0%AC%BE%E0%AC%93.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Palau.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Palau.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Palau.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%AA%E0%AC%B2%E0%AC%BE%E0%AC%93.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Palau.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Palau.wav
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Palau%20location%20map.svg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Palau%20on%20the%20globe%20%28Southeast%20Asia%20centered%29%20%28small%20islands%20magnified%29.svg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20of%20Palau.svg
@@ -323,15 +386,15 @@ country_calling_code: 680
 U_S_National_Archives_Identifier: 10044689
 Commons_gallery: Belau / Palau
 CIVICUS_Monitor_country_entry: palau
-Unicode_character: 🇵🇼
+Unicode_character: "\U0001F1F5\U0001F1FC"
 Krugosvet_article: strany_mira/PALAU.html
 MeSH_tree_code: Z01.639.760.680.717
 location:
-  - 7.35
-  - 134.467
+- 7.35
+- 134.467
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 SpocWebEntityId: 27002
 isDeleted: false
 confidential: public
@@ -339,26 +402,274 @@ license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
 cssclasses:
-  - Country
+- Country
 publish: true
 title: Palau
-linkTitle: ""
-keywords: ""
-layout: ""
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate: ""
-expiryDate: ""
+publishDate: ''
+expiryDate: ''
 Languages:
-  - pau
-  - sov
-  - en-PW
-  - tox
-  - ja
-  - fil
-  - zh
+- pau
+- sov
+- en-PW
+- tox
+- ja
+- fil
+- zh
 icon: flag-pw
+dv_has_:
+  name_:
+    ab: Палау
+    ace: Palau
+    aeb-arab: پالاو
+    af: Palau
+    am: ፐላው
+    ami: Palau
+    an: Palau
+    ang: Palau
+    anp: पालाउ
+    ar: بالاو
+    ary: پالاو
+    arz: بالاو
+    ast: Paláu
+    avk: Belaua
+    az: Palau
+    azb: پالاو
+    ba: Палау
+    ban: Palau
+    bar: Palau
+    bcl: Palau
+    be: Палау
+    be-tarask: Палаў
+    bew: Palau
+    bg: Палау
+    bi: Palau
+    bjn: Palau
+    bn: পালাউ
+    bo: པ་ལའུ།
+    bpy: পালাউ
+    br: Palau
+    bs: Palau
+    bxr: Палау
+    ca: Palau
+    cbk-zam: Palau
+    cdo: Palau
+    ce: Палау
+    ceb: Palau
+    chr: ᏆᎴᎠᏫ
+    chy: Palau
+    ckb: پالاو
+    co: Pelau
+    crh: Palau
+    crh-latn: Palau
+    cs: Palau
+    cv: Палау
+    cy: Palaw
+    da: Palau
+    dag: Palau
+    de: Palau
+    de-at: Palau
+    de-ch: Palau
+    diq: Palau
+    dty: पलाउ
+    dv: ޕަލާއޫ
+    dz: པ་ལཱཝ།
+    el: Παλάου
+    en: Palau
+    en-ca: Palau
+    en-gb: Palau
+    eo: Palaŭo
+    es: Palaos
+    et: Belau
+    eu: Palau
+    ext: Palau
+    fa: پالائو
+    fi: Palau
+    fj: Palau
+    fo: Palau
+    fr: Palaos
+    frp: Palaos
+    frr: Paalau
+    fy: Palau
+    ga: Palau
+    gag: Palau
+    gcr: Palaos
+    gd: Palau
+    gl: Palau
+    glk: پالاؤ
+    gn: Paláu
+    gom: पलाऊ
+    gom-deva: पलाऊ
+    gom-latn: Palau
+    got: "\U00010340\U00010330\U0001033B\U00010330\U0001033F"
+    gpe: Palau
+    gsw: Palau
+    gu: પલાઉ
+    gv: Palau
+    ha: Palau
+    hak: Palau
+    he: פלאו
+    hi: पलाउ
+    hif: Palau
+    hr: Palau
+    hsb: Palau
+    ht: Palao
+    hu: Palau
+    hy: Պալաու
+    ia: Palau
+    id: Palau
+    ie: Palau
+    ik: Palau
+    ilo: Palau
+    inh: Палау
+    io: Palau
+    is: Palá
+    it: Palau
+    ja: パラオ
+    jam: Palau
+    jv: Palau
+    ka: პალაუ
+    kaa: Palau
+    kcg: Pa̱la̱u
+    kge: Palau
+    kk: Палау Республикасы
+    km: ប៉ាឡាវ
+    kn: ಪಲಾವು
+    ko: 팔라우
+    krc: Палау
+    krj: Kapalauhan
+    ksh: Palau
+    ku: Palau
+    kv: Палау
+    kw: Palau
+    ky: Палау
+    la: Palau
+    lad: Palau
+    lb: Palau
+    lfn: Belau
+    li: Palau
+    lij: Palau
+    lld: Palau
+    lmo: Palau
+    lt: Palau
+    lv: Palau
+    lzh: 帛琉
+    mg: Palao
+    mhr: Палау
+    mi: Pārau
+    min: Palau
+    mk: Палау
+    ml: പലാവു
+    mn: Палау
+    mni: ꯄꯥꯂꯥꯎ
+    mr: पलाउ
+    mrj: Палау
+    ms: Palau
+    mt: Palau
+    my: ပလောင်းနိုင်ငံ
+    mzn: پالائو
+    na: Parau
+    nah: Palaos
+    nan: Palau
+    nb: Palau
+    nds: Palau
+    ne: पालाउ
+    new: पलाउ
+    nl: Palau
+    nn: Palau
+    nov: Palau
+    oc: Belau
+    olo: Palau
+    or: ପଲାଓ
+    os: Палау
+    pa: ਪਲਾਊ
+    pam: Palau
+    pap: Palau
+    pcd: Palaos
+    pi: पलाऊ
+    pih: Palau
+    pl: Palau
+    pms: Palau
+    pnb: پالاو
+    ps: پالايو
+    pt: Palau
+    pt-br: Palau
+    qu: Palaw
+    rki: ပလောင်းသမ္မတနိုင်ငံ
+    rm: Palau
+    ro: Palau
+    ru: Палау
+    rw: Palawu
+    sah: Палау
+    sat: ᱯᱟᱞᱟᱣ
+    sc: Palau (istadu)
+    scn: Palau
+    sco: Palau
+    sd: پالائو
+    se: Palau
+    sgs: Palau
+    sh: Palau
+    shn: မိူင်းပႃႇလၢဝ်း
+    si: පලාවු
+    sk: Palau
+    sl: Palav
+    sm: Palau
+    smn: Palau
+    sms: Palau
+    sn: Palau
+    so: Balau
+    sq: Palau
+    sr: Палау
+    su: Palau
+    sv: Palau
+    sw: Palau
+    szl: Palau
+    szy: Palau
+    ta: பலாவு
+    tay: Palau
+    te: పలావు
+    tg: Палау
+    th: ประเทศปาเลา
+    tk: Palau
+    tl: Palaw
+    to: Palau
+    tok: ma telo Pela
+    tr: Palau
+    trv: Poryo
+    tt: Палау
+    ty: Parau
+    udm: Палау
+    ug: پالاۋ
+    uk: Палау
+    ur: پلاؤ
+    uz: Palau
+    vec: Palau
+    vep: Palau
+    vi: Palau
+    vo: Palauvuäns
+    vro: Belau
+    war: Palau
+    wo: Palau
+    wuu: 帛琉
+    xal: Паламудин Орн
+    xmf: პალაუ
+    yo: Páláù
+    yue: 帛琉
+    za: Palau
+    zea: Palau
+    zh: 帛琉
+    zh-cn: 帕劳
+    zh-hans: 帕劳
+    zh-hant: 帛琉
+    zh-hk: 帕勞
+    zh-mo: 帕勞
+    zh-sg: 帕劳
+    zh-tw: 帛琉
+    zu: i-Palau
 ---
-
 # [[Palau]] 
 
 ## [[Palau]] has Properties... 

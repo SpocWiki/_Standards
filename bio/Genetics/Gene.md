@@ -1,56 +1,120 @@
 ---
 aliases:
-  - gene
-  - gene
-  - Gen
-  - is_a_gene
-  - genetic
-  - genetisch
-  - Gene
+- Dhaalmaya (gene)
+- erfðavísir
+- geen
+- geeni
+- Gen
+- gena
+- genas
+- gene
+- genetic
+- genetisch
+- Geni
+- geno
+- genum
+- genyn
+- genă
+- Gihyinh
+- gjen
+- Gèn
+- gène
+- géin
+- Gén
+- gēns
+- Gĭ-ĭng
+- Hene
+- Hidde
+- I-gene
+- ijo jo pi sona tan mama
+- Isifuzisi
+- is_a_gene
+- Jeni
+- Jiin
+- Jèn
+- Mabari
+- tswa za̱kwa
+- xen
+- xene
+- Yawar saphi
+- zene
+- Ûi-thoân-chú
+- γονίδιο
+- Ген
+- Тек
+- գեն
+- גן
+- גען
+- جين
+- جین
+- وراثہ
+- چين
+- ژن
+- ݢين
+- जीन
+- বংশাণু
+- ਜੀਨ
+- ଜୀନ
+- மரபணு
+- జన్యువు
+- ವಂಶವಾಹಿ
+- ജീൻ
+- ජාන
+- ยีน
+- ແຊນ
+- စွိုးခွိုꩻဗီဇ
+- မျိုးရိုးဗီဇ
+- გენი
+- በራሂ
+- ᏧᏚᎪᏛᏅ ᏂᏣᎵᏍᏙᏗ
+- 基因
+- 遺伝子
+- 遺傳子
+- 유전자
 has_id_wikidata: Q7187
 Commons_category: Genes
 Colon_Classification: E116
 EntitySchema_for_this_class:
-  - E75
-  - E258
+- E75
+- E258
 MeSH_tree_code: G05.360.340.024.340
 NCI_Dictionary_of_Genetics_Terms_entry: gene
 OmegaWiki_Defined_Meaning: 1629
 P8189: 987007546668705171
 Stack_Exchange_tag: https://bioinformatics.stackexchange.com/tags/gene
 Wikidata_property:
-  - OMIM ID
-  - Ensembl gene ID
-  - has role in modeling
+- OMIM ID
+- Ensembl gene ID
+- has role in modeling
 Wolfram_Language_entity_type: Gene
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Genoa,1449]]'
-  - '[[_Standards/WikiData/WD~genome,7020]]'
+- '[[_Standards/WikiData/WD~Genoa,1449]]'
+- '[[_Standards/WikiData/WD~genome,7020]]'
 expiryDate: ''
 equivalent_class:
-  - http://bioschemas.org/Gene
-  - http://dbpedia.org/ontology/Gene
-  - http://purl.obolibrary.org/obo/SO_0000704
-  - https://schema.org/Gene
+- http://bioschemas.org/Gene
+- http://dbpedia.org/ontology/Gene
+- http://purl.obolibrary.org/obo/SO_0000704
+- https://schema.org/Gene
 exact_match:
-  - http://purl.obolibrary.org/obo/NCIT_C16612
-  - http://purl.obolibrary.org/obo/SO_0000704
-  - http://semanticscience.org/resource/SIO_010035
+- http://purl.obolibrary.org/obo/NCIT_C16612
+- http://purl.obolibrary.org/obo/SO_0000704
+- http://semanticscience.org/resource/SIO_010035
 has_characteristic:
-  - '[[_Standards/WikiData/WD~genetic_characteristic,42138532]]'
-  - '[[_Standards/WikiData/WD~type_of_gene,131679239]]'
+- '[[_Standards/WikiData/WD~genetic_characteristic,42138532]]'
+- '[[_Standards/WikiData/WD~type_of_gene,131679239]]'
 isDeleted: false
 isReadOnly: false
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20eukaryote%202%20annotated.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20prokaryote%202%20annotated.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20eukaryote%202%20annotated.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Gene%20structure%20prokaryote%202%20annotated.svg
 keywords:
-  - gene
+- gene
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_gene Class
@@ -58,29 +122,176 @@ model_item: '[[_Standards/WikiData/WD~acetylcholinesterase,22676679]]'
 publish: true
 publishDate: ''
 part_of:
-  - '[[_Standards/WikiData/WD~gene_cluster,1501261]]'
-  - '[[_Standards/WikiData/WD~genome,7020]]'
-  - '[[_Standards/WikiData/WD~chromosome,37748]]'
+- '[[_Standards/WikiData/WD~gene_cluster,1501261]]'
+- '[[_Standards/WikiData/WD~genome,7020]]'
+- '[[_Standards/WikiData/WD~chromosome,37748]]'
 properties_for_this_type:
-  - HGNC gene symbol
-  - HGNC ID
-  - RefSeq RNA ID
-  - encodes
-  - altered regulation leads to
-  - NCBI locus tag
+- HGNC gene symbol
+- HGNC ID
+- RefSeq RNA ID
+- encodes
+- altered regulation leads to
+- NCBI locus tag
 subject_has_role: '[[_Standards/WikiData/WD~heredity,178694]]'
 subclass_of: '[[_Standards/WikiData/WD~biomolecular_structure,15712714]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%A5%D5%B6%20%28Gene%29.ogg
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_gene Class
 type: Type
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Gene,10543105]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_gene,23833192]]'
+- '[[_Standards/WikiData/WD~Template_Gene,10543105]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_gene,23833192]]'
+dv_has_:
+  name_:
+    af: geen
+    am: በራሂ
+    ar: جين
+    arz: چين
+    ast: xen
+    az: gen
+    ba: ген
+    be: ген
+    be-tarask: ген
+    bg: ген
+    blk: စွိုးခွိုꩻဗီဇ
+    bn: বংশাণু
+    br: gen
+    bs: gen
+    ca: gen
+    cdo: Gĭ-ĭng
+    chr: ᏧᏚᎪᏛᏅ ᏂᏣᎵᏍᏙᏗ
+    ckb: جین
+    cs: gen
+    cv: Ген
+    cy: genyn
+    da: gen
+    de: Gen
+    dty: जीन
+    el: γονίδιο
+    en: gene
+    en-ca: gene
+    en-gb: gene
+    eo: geno
+    es: gen
+    et: geen
+    eu: gene
+    fa: ژن
+    fi: geeni
+    fr: gène
+    frr: Geen
+    fy: Gen
+    ga: géin
+    gcr: Jèn
+    gl: xene
+    gor: Gen
+    gsw: Gen
+    he: גן
+    hi: जीन
+    hr: gen
+    ht: Jèn
+    hu: gén
+    hy: գեն
+    ia: gen
+    id: gen
+    inh: Ген
+    io: geno
+    is: erfðavísir
+    it: gene
+    ja: 遺伝子
+    jam: Jiin
+    jv: gen
+    ka: გენი
+    kcg: tswa za̱kwa
+    kk: Тек
+    kn: ವಂಶವಾಹಿ
+    ko: 유전자
+    ku: gen
+    ku-latn: gen
+    ky: Ген
+    la: genum
+    lld: Gen
+    lo: ແຊນ
+    lt: genas
+    lv: gēns
+    lzh: 遺傳子
+    mk: ген
+    ml: ജീൻ
+    mn: Ген
+    ms: gen
+    ms-arab: ݢين
+    my: မျိုးရိုးဗီဇ
+    nan: Ûi-thoân-chú
+    nb: gen
+    nds: Gen
+    ne: जीन
+    new: जीन
+    nl: gen
+    nn: gen
+    oc: Gèn
+    om: Dhaalmaya (gene)
+    or: ଜୀନ
+    pa: ਜੀਨ
+    pap: Gen
+    pl: gen
+    pnb: جین
+    ps: جين
+    pt: gene
+    pt-br: gene
+    qu: Yawar saphi
+    rki: မျိုးရိုးဗီဇ
+    ro: genă
+    ru: ген
+    sah: Ген
+    scn: Geni
+    sco: gene
+    sd: جين
+    se: gena
+    sh: Gen
+    si: ජාන
+    sk: Gén
+    sl: gen
+    smn: geeni
+    sn: Mabari
+    so: Hidde
+    sq: gjen
+    sr: ген
+    sr-ec: ген
+    su: Gén
+    sv: gen
+    sw: Jeni
+    ta: மரபணு
+    te: జన్యువు
+    tg: ген
+    th: ยีน
+    tl: Gene
+    tok: ijo jo pi sona tan mama
+    tr: gen
+    tt: ген
+    udm: ген
+    uk: ген
+    ur: وراثہ
+    uz: Gen
+    vec: zene
+    vi: gen
+    war: Hene
+    wuu: 基因
+    xh: I-gene
+    xmf: გენი
+    yi: גען
+    yue: 基因
+    za: Gihyinh
+    zh: 基因
+    zh-cn: 基因
+    zh-hans: 基因
+    zh-hant: 基因
+    zh-hk: 基因
+    zh-mo: 基因
+    zh-sg: 基因
+    zh-tw: 基因
+    zu: Isifuzisi
 ---
-
 # [[Gene]] 
 
 Class of all genes.

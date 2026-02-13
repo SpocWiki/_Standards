@@ -1,12 +1,21 @@
 ---
 aliases:
+- culicomorfs
+- Culicomorpha
+- Culicumorfi
+- dzēlējodu infrakārta
+- Κουλικόμορφα
+- بعوضيات الشكل
+- پشهریختان
+- குலிகோமார்பா
+- 모기하목
 has_id_wikidata: Q950698
-taxon_rank: "[[_Standards/WikiData/WD~infraorder,2889003]]"
+taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
 parent_taxon:
-  - "[[_Standards/WikiData/WD~Neoneura,112323844]]"
-  - "[[_Standards/WikiData/WD~Nematocera,27605]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-ITIS_TSN: "125808"
+- '[[_Standards/WikiData/WD~Neoneura,112323844]]'
+- '[[_Standards/WikiData/WD~Nematocera,27605]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+ITIS_TSN: 125808
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AnophelesGambiaemosquito.jpg
 Commons_category: Culicomorpha
 taxon_name: Culicomorpha
@@ -14,8 +23,98 @@ MeSH_tree_code: B01.050.500.131.617.720.500.500.750.712.500
 UMLS_CUI: C1720524
 NBN_System_Key: NBNSYS0100019221
 taxon_common_name: Mosquitoes and Midges
+dv_has_:
+  name_:
+    af: Culicomorpha
+    an: Culicomorpha
+    ar: بعوضيات الشكل
+    arz: بعوضيات الشكل
+    ast: Culicomorpha
+    bar: Culicomorpha
+    bg: Culicomorpha
+    br: Culicomorpha
+    ca: culicomorfs
+    ceb: Culicomorpha
+    co: Culicomorpha
+    cs: Culicomorpha
+    cy: Culicomorpha
+    da: Culicomorpha
+    de: Culicomorpha
+    de-at: Culicomorpha
+    de-ch: Culicomorpha
+    el: Κουλικόμορφα
+    en: Culicomorpha
+    en-ca: Culicomorpha
+    en-gb: Culicomorpha
+    eo: Culicomorpha
+    es: Culicomorpha
+    et: Culicomorpha
+    eu: Culicomorpha
+    ext: Culicomorpha
+    fa: پشهریختان
+    fi: Culicomorpha
+    fr: Culicomorpha
+    frp: Culicomorpha
+    fur: Culicomorpha
+    ga: Culicomorpha
+    gd: Culicomorpha
+    gl: Culicomorpha
+    gsw: Culicomorpha
+    hr: Culicomorpha
+    hu: Culicomorpha
+    ia: Culicomorpha
+    id: Culicomorpha
+    ie: Culicomorpha
+    io: Culicomorpha
+    is: Culicomorpha
+    it: Culicomorpha
+    kg: Culicomorpha
+    ko: 모기하목
+    la: Culicomorpha
+    lb: Culicomorpha
+    li: Culicomorpha
+    lij: Culicomorpha
+    lv: dzēlējodu infrakārta
+    mg: Culicomorpha
+    min: Culicomorpha
+    ms: Culicomorpha
+    mul: Culicomorpha
+    nap: Culicomorpha
+    nb: Culicomorpha
+    nds: Culicomorpha
+    nds-nl: Culicomorpha
+    nl: Culicomorpha
+    nn: Culicomorpha
+    nrm: Culicomorpha
+    nys: Culicomorpha
+    oc: Culicomorpha
+    pcd: Culicomorpha
+    pl: Culicomorpha
+    pms: Culicomorpha
+    pt: Culicomorpha
+    pt-br: Culicomorpha
+    rm: Culicomorpha
+    ro: Culicomorpha
+    ru: Culicomorpha
+    sc: Culicomorpha
+    scn: Culicumorfi
+    sco: Culicomorpha
+    sk: Culicomorpha
+    sl: Culicomorpha
+    sq: Culicomorpha
+    sv: Culicomorpha
+    sw: Culicomorpha
+    ta: குலிகோமார்பா
+    uk: Culicomorpha
+    vec: Culicomorpha
+    vi: Culicomorpha
+    vls: Culicomorpha
+    vo: Culicomorpha
+    wa: Culicomorpha
+    war: Culicomorpha
+    wo: Culicomorpha
+    zu: Culicomorpha
 ---
-
 # [[Culicomorpha]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Culicomorpha,950698]] 

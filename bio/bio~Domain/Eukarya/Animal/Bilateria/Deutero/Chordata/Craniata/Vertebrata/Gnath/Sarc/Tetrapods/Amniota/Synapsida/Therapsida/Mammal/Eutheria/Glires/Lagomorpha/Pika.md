@@ -1,8 +1,57 @@
 ---
 aliases:
-  - Pika
-  - Ochotona
-  - Pfeifhase
+- fluithazen
+- Islıklı tavşangiller
+- Kiškėnai
+- Kuzol (Ochotona)
+- Live xhufleu
+- Múshéri
+- Ochotona
+- Ochotonidae
+- Pfeifhase
+- Pfeifhasen
+- Pibeharer
+- pica
+- Piiskujänikset
+- Pika
+- Pika (Ochotona)
+- Pipeharer
+- Pipharar
+- pišťuchovití
+- pocoknyúlfélék
+- Svilpējzaķi
+- szczekuszka
+- Tsétah gah
+- Zviždari
+- Şaqıldaqtar
+- žvižgač
+- бесәнсе ҡомаҡ
+- пішчуха
+- Пика
+- Пике
+- Пискуха
+- пищухи
+- сеносъбирачи
+- Чыелдыклар
+- Чыс кутуйахтыҥылар кэргэннэрэ
+- Шақылдақтар
+- Ғулмуш
+- Խոտադիր
+- פיקה
+- بيكا
+- بے دم خرگوش
+- شاقىلداقتار
+- پائیکا
+- پیکا
+- ไพกา
+- ཨ་བྲ་ཡང་ན་ཨབ་ར།
+- მებულულე
+- ナキウサギ
+- 啼兔屬
+- 鼠兔
+- 鼠兔属
+- 鼠兔科
+- 우는토끼
 has_id_wikidata: Q184067
 different_from: '[[_Standards/WikiData/WD~Bica,730739]]'
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
@@ -18,8 +67,101 @@ Commons_gallery: Ochotona
 Commons_category: Ochotona
 taxon_name: Ochotona
 start_time: -16400000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    an: Ochotona
+    ar: بيكا
+    arz: بيكا
+    ast: Ochotona
+    avk: Kuzol (Ochotona)
+    ba: бесәнсе ҡомаҡ
+    be-tarask: пішчуха
+    bg: сеносъбирачи
+    bo: ཨ་བྲ་ཡང་ན་ཨབ་ར།
+    br: Pika
+    ca: pica
+    ceb: Ochotona
+    cs: pišťuchovití
+    cy: Pica
+    da: Pibeharer
+    de: Pfeifhasen
+    en: Ochotona
+    en-ca: Pika
+    en-gb: Pika
+    eo: Ochotona
+    es: Ochotona
+    et: Pika
+    eu: Ochotonidae
+    ext: Ochotona
+    fa: پیکا
+    fi: Piiskujänikset
+    fr: Ochotona
+    ga: Ochotona
+    gl: Ochotona
+    he: פיקה
+    hr: Zviždari
+    hu: pocoknyúlfélék
+    hy: Խոտադիր
+    ia: Ochotona
+    id: Pika
+    ie: Ochotona
+    io: Ochotona
+    is: Múshéri
+    it: Ochotona
+    ja: ナキウサギ
+    ka: მებულულე
+    kab: Pika
+    kk: Шақылдақтар
+    kk-arab: شاقىلداقتار
+    kk-cn: شاقىلداقتار
+    kk-cyrl: Шақылдақтар
+    kk-kz: Шақылдақтар
+    kk-latn: Şaqıldaqtar
+    kk-tr: Şaqıldaqtar
+    ko: 우는토끼
+    la: Ochotona
+    lt: Kiškėnai
+    lv: Svilpējzaķi
+    mk: Пика
+    ms: Pika
+    mt: Pika
+    mul: Ochotona
+    nb: Pipeharer
+    nl: fluithazen
+    nv: Tsétah gah
+    oc: Ochotona
+    pl: szczekuszka
+    pnb: پائیکا
+    pt: Ochotona
+    pt-br: Ochotona
+    ro: Ochotona
+    ru: пищухи
+    sah: Чыс кутуйахтыҥылар кэргэннэрэ
+    sk: Pika (Ochotona)
+    sl: žvižgač
+    sq: Ochotona
+    sr: Пике
+    sv: Pipharar
+    tg: Ғулмуш
+    th: ไพกา
+    tl: Pika
+    tr: Islıklı tavşangiller
+    tt: Чыелдыклар
+    uk: Пискуха
+    ur: بے دم خرگوش
+    vi: Ochotonidae
+    vo: Ochotona
+    wa: Live xhufleu
+    war: Ochotona
+    yue: 鼠兔科
+    zh: 鼠兔属
+    zh-cn: 鼠兔属
+    zh-hans: 鼠兔属
+    zh-hant: 鼠兔
+    zh-hk: 鼠兔
+    zh-sg: 鼠兔
+    zh-tw: 啼兔屬
 ---
-
 # [[Pika]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Ochotona,184067|WD~Ochotona,184067]] 

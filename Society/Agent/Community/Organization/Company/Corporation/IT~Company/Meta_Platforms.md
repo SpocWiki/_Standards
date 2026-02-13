@@ -1,11 +1,100 @@
 ---
 aliases:
-  - Facebook, Inc
-  - TheFacebook
-  - Meta_Platforms
-  - Meta Platforms
+- Facebook
+- Facebook, Inc
+- Facebook公司
+- kulupu Meta
+- Meta
+- Meta (firmo)
+- Meta Platforms
+- Meta Pulatifomu
+- Meta, Inc.
+- Meta_Platforms
+- Meta平台
+- Platformên Metayê
+- TheFacebook
+- Мета
+- Фејсбук
+- Մետա
+- מטא
+- شرکت فیسبوک
+- مؠٹا پَلیٹ فارمٕز
+- ميتا
+- ميتا بلاتفورمز
+- میٹا پلیٹ فارمز انکارپوریٹڈ
+- میٹا پلیٹفارمز
+- مێتا پلاتفۆرمز
+- مېتا پلټفارمز
+- फेसबुक इन्क.
+- मेटा प्लॅटफॉर्म्स
+- मेटा प्लेटफॉर्म्स
+- মেটা প্ল্যাটফর্মস
+- ਮੈਟਾ ਪਲੇਟਫਾਰਮ
+- பேஸ்புக், இங்க்.
+- മെറ്റാ പ്ലാറ്റ്ഫോമുകൾ
+- เมตา
+- ᱢᱮᱴᱟ ᱯᱞᱟᱴᱯᱷᱨᱚᱢ
+- メタ・プラットフォームズ
+- 脸书公司
+- 메타
+has_id_wikidata: Q380
+dv_has_:
+  name_:
+    af: Meta
+    ar: ميتا بلاتفورمز
+    arz: ميتا
+    be: Meta, Inc.
+    bg: Мета
+    bho: मेटा प्लेटफॉर्म्स
+    bn: মেটা প্ল্যাটফর্মস
+    ckb: مێتا پلاتفۆرمز
+    cs: Meta
+    da: Meta Platforms
+    en: Meta
+    eo: Meta
+    fa: شرکت فیسبوک
+    fi: Meta
+    fr: Meta
+    he: מטא
+    hi: मेटा प्लेटफॉर्म्स
+    ht: Facebook
+    hu: Meta
+    hy: Մետա
+    id: Meta
+    io: Meta (firmo)
+    ja: メタ・プラットフォームズ
+    ko: 메타
+    ks: مؠٹا پَلیٹ فارمٕز
+    ku: Platformên Metayê
+    ml: മെറ്റാ പ്ലാറ്റ്ഫോമുകൾ
+    mr: मेटा प्लॅटफॉर्म्स
+    ms: Meta
+    mul: Meta Platforms
+    nb: Meta
+    ne: फेसबुक इन्क.
+    nl: Meta
+    nn: Meta, Inc.
+    ny: Meta Pulatifomu
+    pa: ਮੈਟਾ ਪਲੇਟਫਾਰਮ
+    pnb: میٹا پلیٹفارمز
+    ps: مېتا پلټفارمز
+    pt: Meta
+    pt-br: Meta
+    sat: ᱢᱮᱴᱟ ᱯᱞᱟᱴᱯᱷᱨᱚᱢ
+    so: Meta
+    sr: Фејсбук
+    sv: Meta
+    ta: பேஸ்புக், இங்க்.
+    tg: Meta, Inc.
+    th: เมตา
+    tok: kulupu Meta
+    tr: Meta, Inc.
+    ur: میٹا پلیٹ فارمز انکارپوریٹڈ
+    yue: Meta平台
+    zh-cn: Meta
+    zh-hans: 脸书公司
+    zh-hk: Facebook公司
 ---
-
 #has_/created :: [[Meta_Platforms/Facebook]] 
 #has_/created ::[[../../../../../../../../IT/HardWare/Wearables/AR(Augmented_Reality_Glasses)/Meta~Orion]]] 
 

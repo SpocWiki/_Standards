@@ -1,28 +1,162 @@
 ---
 aliases:
-  - Ferromagnetismus
-  - Ferromagnetism
+- fearómaighnéadas
+- Feromagnetism
+- Feromagnetisme
+- feromagnetismo
+- feromagnetismus
+- feromagnetizam
+- feromagnetizem
+- Feromagnetizmus
+- Ferromagnetism
+- ferromagnetisma
+- ferromagnetisme
+- ferromagnetismi
+- ferromagnetismm
+- ferromagnetismo
+- Ferromagnetismu
+- Ferromagnetismus
+- Ferromagnetizm
+- ferromagnetyzm
+- ferromagnétisme
+- Ferromanyetîk
+- Ferromaqnetizm
+- ferromágnesség
+- Ferromıknatıslık
+- ferrumagnitismu
+- Fewomayetis
+- Járnseglun
+- Keferomagnetan
+- Sibiilloobilummaa (Feerroomaagneetiizimii)
+- sắt từ
+- Älsiz ferromagnetïzm
+- Σιδηρομαγνητισμός
+- Ферамагнетыкі
+- феромагнетизам
+- феромагнетизм
+- Феромагнетизъм
+- феромегнетизам
+- ферромагнетизм
+- фэрамагнэтызм
+- Әлсіз ферромагнетизм
+- Ֆեռոմագնիսականություն
+- פרומגנטיות
+- فرومغناطیس
+- فیرومقناطیسیت
+- مغناطيسية حديدية
+- ٴالسىز فەرروماگنەتىيزم
+- तात्पुरते चुंबक
+- लौहचुम्बकत्व
+- ফেরোচৌম্বক পদার্থ
+- பெர்ரோ காந்தவியல்
+- 強磁性
+- 鐵磁性
+- 铁磁性
+- 강자성
 has_id_wikidata: Q184207
-characteristic_of: "[[_Standards/WikiData/WD~chemical_substance,79529]]"
-different_from: "[[_Standards/WikiData/WD~ferrimagnetism,217121]]"
-manifestation_of: "[[_Standards/WikiData/WD~antiferromagnetism,575224]]"
+characteristic_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
+different_from: '[[_Standards/WikiData/WD~ferrimagnetism,217121]]'
+manifestation_of: '[[_Standards/WikiData/WD~antiferromagnetism,575224]]'
 opposite_of:
-  - "[[_Standards/WikiData/WD~antiferromagnetism,575224]]"
-  - "[[_Standards/WikiData/WD~antiferromagnet,4067142]]"
+- '[[_Standards/WikiData/WD~antiferromagnetism,575224]]'
+- '[[_Standards/WikiData/WD~antiferromagnet,4067142]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~property,937228]]"
-  - "[[_Standards/WikiData/WD~magnetic_ordering,15706549]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-facet_of: "[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]"
-named_after: "[[_Standards/WikiData/WD~iron,677]]"
+- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~magnetic_ordering,15706549]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+facet_of: '[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]'
+named_after: '[[_Standards/WikiData/WD~iron,677]]'
 OmegaWiki_Defined_Meaning: 1114551
 Commons_category: Ferromagnetism
-Unicode_character: 🧲
+Unicode_character: "\U0001F9F2"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MagnetEZ.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/ferromagnetism
 IEV_number: 121-12-41
+dv_has_:
+  name_:
+    af: Ferromagnetisme
+    ar: مغناطيسية حديدية
+    ast: Ferromagnetismu
+    az: Ferromaqnetizm
+    be: Ферамагнетыкі
+    be-tarask: фэрамагнэтызм
+    bg: Феромагнетизъм
+    bn: ফেরোচৌম্বক পদার্থ
+    ca: ferromagnetisme
+    cs: feromagnetismus
+    da: Ferromagnetisme
+    de: Ferromagnetismus
+    el: Σιδηρομαγνητισμός
+    en: ferromagnetism
+    eo: feromagnetismo
+    es: ferromagnetismo
+    et: ferromagnetism
+    eu: ferromagnetismo
+    fa: فرومغناطیس
+    fi: ferromagnetismi
+    fr: ferromagnétisme
+    ga: fearómaighnéadas
+    he: פרומגנטיות
+    hi: लौहचुम्बकत्व
+    hr: feromagnetizam
+    ht: Fewomayetis
+    hu: ferromágnesség
+    hy: Ֆեռոմագնիսականություն
+    id: Feromagnetisme
+    is: Járnseglun
+    it: ferromagnetismo
+    ja: 強磁性
+    kk: Әлсіз ферромагнетизм
+    kk-arab: ٴالسىز فەرروماگنەتىيزم
+    kk-cn: ٴالسىز فەرروماگنەتىيزم
+    kk-cyrl: Әлсіз ферромагнетизм
+    kk-kz: Әлсіз ферромагнетизм
+    kk-latn: Älsiz ferromagnetïzm
+    kk-tr: Älsiz ferromagnetïzm
+    ko: 강자성
+    ku: Ferromanyetîk
+    ku-latn: Ferromanyetîk
+    ky: Ферромагнетизм
+    la: Ferromagnetismus
+    mk: феромегнетизам
+    mr: तात्पुरते चुंबक
+    ms: Keferomagnetan
+    nb: ferromagnetisme
+    nl: ferromagnetisme
+    nn: ferromagnetisme
+    om: Sibiilloobilummaa (Feerroomaagneetiizimii)
+    pl: ferromagnetyzm
+    pt: ferromagnetismo
+    ro: Feromagnetism
+    ru: ферромагнетизм
+    scn: ferrumagnitismu
+    sco: ferromagnetism
+    se: ferromagnetisma
+    sh: Feromagnetizam
+    sk: Feromagnetizmus
+    sl: feromagnetizem
+    smn: ferromagnetism
+    sms: ferromagnetismm
+    sr: феромагнетизам
+    sr-ec: феромагнетизам
+    sr-el: Feromagnetizam
+    sv: ferromagnetism
+    ta: பெர்ரோ காந்தவியல்
+    tr: Ferromıknatıslık
+    uk: феромагнетизм
+    ur: فیرومقناطیسیت
+    uz: Ferromagnetizm
+    vi: sắt từ
+    wuu: 铁磁性
+    yue: 鐵磁性
+    zh: 铁磁性
+    zh-cn: 铁磁性
+    zh-hans: 铁磁性
+    zh-hant: 鐵磁性
+    zh-hk: 鐵磁性
+    zh-sg: 铁磁性
+    zh-tw: 鐵磁性
 ---
-
 # [[Ferromagnetism]] 🧲 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ferromagnetism,184207|WD~Ferromagnetism,184207]] 

@@ -1,16 +1,101 @@
 ---
 aliases:
-  - state religion
-  - official religion
-  - State_Religion
-  - State Religion
+- Addinin ƙasa
+- agama negara
+- agama resmi
+- crefydd y wladwriaeth
+- creideamh an stáit
+- devlet dini
+- Dini rasmi
+- Dino resmi
+- državna religija
+- dövlət dini
+- Estatu konfesional
+- Estáu confesional
+- Feja shtetërore
+- Fivavaham-panjakana
+- Memlekettik din
+- official religion
+- Pampamahalaang relihiyon
+- Quốc giáo
+- relighjone di statu
+- religia państwowa
+- religie de stat
+- Religio civitatis
+- religio de ŝtato
+- religion d'Estat
+- religion d'État
+- religione di Stato
+- religião oficial
+- religió oficial
+- religión oficial
+- relijion stad
+- relixión oficial
+- Resmiy din
+- rełijon de stato
+- Ríkistrúarbrögð
+- službena religija
+- staatereligijovne
+- staatsgodsdienst
+- Staatsreligion
+- staatâoskoldâh
+- state releegion
+- state religion
+- State_Religion
+- statskirke
+- statsreligion
+- Steatstsjerke
+- stáhtaoskkoldat
+- stáhtaåssko
+- státní náboženství
+- valdiaåskldõk
+- valsts reliģija
+- valstybinė religija
+- valtionuskonto
+- államvallás
+- Επίσημη θρησκεία
+- государственная религия
+- Державна релігія
+- Дзяржаўная рэлігія
+- Дини давлатӣ
+- државна религија
+- Държавна религия
+- дәүләт дине
+- кугыжаныш тын
+- Мамлекеттик дини
+- Мемлекеттік дін
+- Пачалихъалъулаб дин
+- Пачхьалкха дин
+- Պետական կրոն
+- כנסייה ממוסדת
+- اݢام نݢارا
+- دولتي(رسمي) دین
+- دين الدولة
+- دين الدوله
+- دین رسمی
+- دینی دەوڵەت
+- رسمی دین
+- ریاستی مذہب
+- مەملەكەتتىك ٴدىن
+- राज्य धर्म
+- রাষ্ট্রধর্ম
+- රාජ්ය ආගම
+- ศาสนาประจำชาติ
+- ສາສະຫນາຂອງລັດ
+- နိုင်ငံတော်ဘာသာ
+- სახელმწიფო რელიგია
+- የመንግሥት ሃይማኖት
+- សាសនារដ្ឋ
+- 国教
+- 國教
+- 국교
 has_id_wikidata: Q188213
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - '[[_Standards/WikiData/WD~national_Church,1649443]]'
-  - '[[_Standards/WikiData/WD~state_church,2325038]]'
+- '[[_Standards/WikiData/WD~national_Church,1649443]]'
+- '[[_Standards/WikiData/WD~state_church,2325038]]'
 facet_of: '[[_Standards/WikiData/WD~state_and_religion,1742827]]'
 part_of: '[[_Standards/WikiData/WD~confessional_state,10551526]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q122615841,122615841]]'
@@ -18,8 +103,115 @@ Wikidata_property: official religion
 characteristic_of: '[[_Standards/WikiData/WD~state,7275]]'
 subclass_of: '[[_Standards/WikiData/WD~religion,9174]]'
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/State%20Religions.svg
+dv_has_:
+  name_:
+    am: የመንግሥት ሃይማኖት
+    ar: دين الدولة
+    arz: دين الدوله
+    ast: Estáu confesional
+    av: Пачалихъалъулаб дин
+    az: dövlət dini
+    azb: رسمی دین
+    ba: дәүләт дине
+    be: Дзяржаўная рэлігія
+    be-tarask: Дзяржаўная рэлігія
+    bg: Държавна религия
+    bn: রাষ্ট্রধর্ম
+    br: relijion stad
+    ca: religió oficial
+    ce: Пачхьалкха дин
+    ckb: دینی دەوڵەت
+    co: relighjone di statu
+    crh: Resmiy din
+    cs: státní náboženství
+    cy: crefydd y wladwriaeth
+    da: statskirke
+    de: Staatsreligion
+    diq: Dino resmi
+    el: Επίσημη θρησκεία
+    en: state religion
+    eo: religio de ŝtato
+    es: religión oficial
+    eu: Estatu konfesional
+    fa: دین رسمی
+    fi: valtionuskonto
+    fr: religion d'État
+    fy: Steatstsjerke
+    ga: creideamh an stáit
+    gl: relixión oficial
+    ha: Addinin ƙasa
+    he: כנסייה ממוסדת
+    hi: राज्य धर्म
+    hr: službena religija
+    hu: államvallás
+    hy: Պետական կրոն
+    id: agama resmi
+    is: Ríkistrúarbrögð
+    it: religione di Stato
+    ja: 国教
+    ka: სახელმწიფო რელიგია
+    kk: Мемлекеттік дін
+    kk-arab: مەملەكەتتىك ٴدىن
+    kk-cn: مەملەكەتتىك ٴدىن
+    kk-cyrl: Мемлекеттік дін
+    kk-kz: Мемлекеттік дін
+    kk-latn: Memlekettik din
+    kk-tr: Memlekettik din
+    km: សាសនារដ្ឋ
+    ko: 국교
+    ky: Мамлекеттик дини
+    la: Religio civitatis
+    lo: ສາສະຫນາຂອງລັດ
+    lt: valstybinė religija
+    lv: valsts reliģija
+    mg: Fivavaham-panjakana
+    mhr: кугыжаныш тын
+    mk: државна религија
+    ms: agama negara
+    ms-arab: اݢام نݢارا
+    my: နိုင်ငံတော်ဘာသာ
+    nb: statsreligion
+    nl: staatsgodsdienst
+    nn: statsreligion
+    oc: religion d'Estat
+    pl: religia państwowa
+    ps: دولتي(رسمي) دین
+    pt: religião oficial
+    ro: religie de stat
+    ru: государственная религия
+    sco: state releegion
+    se: stáhtaoskkoldat
+    sh: državna religija
+    si: රාජ්ය ආගම
+    sl: državna religija
+    sma: staatereligijovne
+    smj: stáhtaåssko
+    smn: staatâoskoldâh
+    sms: valdiaåskldõk
+    sq: Feja shtetërore
+    sr: државна религија
+    sr-ec: Државна религија
+    sr-el: državna religija
+    sv: statsreligion
+    sw: Dini rasmi
+    tg: Дини давлатӣ
+    th: ศาสนาประจำชาติ
+    tl: Pampamahalaang relihiyon
+    tr: devlet dini
+    uk: Державна релігія
+    ur: ریاستی مذہب
+    vec: rełijon de stato
+    vi: Quốc giáo
+    wuu: 国教
+    yue: 國教
+    zh: 國教
+    zh-cn: 国教
+    zh-hans: 国教
+    zh-hant: 國教
+    zh-hk: 國教
+    zh-sg: 国教
+    zh-tw: 國教
 ---
-
 # [[State_Religion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~State_religion,188213|WD~State_religion,188213]]  

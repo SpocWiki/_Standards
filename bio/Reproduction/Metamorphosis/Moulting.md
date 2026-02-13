@@ -1,24 +1,133 @@
 ---
 aliases:
-  - Häutung
-  - Moulting
+- cleiteach
+- Deri değiştirme
+- Ecdysis
+- Ekdisis
+- Ferfearjen
+- Ganti
+- Ganti kulit
+- golitev
+- Hamskifte
+- Häutung
+- Kestumine
+- linienie
+- Linjanje
+- Lột xác
+- Mi
+- Mitarenje
+- Moulting
+- muda
+- mudo
+- mue
+- muta
+- Myting
+- nahanluonti
+- Năpârlire
+- paghilono
+- panaglupos
+- Paukščių šėrimasis
+- Ruden
+- Ruggning
+- rui (biologie)
+- vedlés
+- Ververing
+- Έκδυση
+- ліняньне
+- Линеене
+- линька
+- линяння
+- митарење
+- התנשלות
+- انسلاخ
+- پوستاندازی
+- केंचुल
+- নির্মোচন
+- வளர் உருமாற்றம்
+- การลอกคราบ
+- განგური
+- 换羽
+- 換羽
+- 脱皮
+- 蛻皮
 has_id_wikidata: Q381084
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
 different_from: '[[_Standards/WikiData/WD~muda,1951705]]'
 subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12846774,12846774]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dragonfly%20metamorphosis.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rod%20Gryllus.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dragonfly%20metamorphosis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rod%20Gryllus.jpg
 Commons_category: Moult
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Cicada%20Final%20Molt%20and%20Darkening%20timelapse%2014%202021-05-27.webm
 UMLS_CUI: C0282576
 MeSH_tree_code: G07.345.500.550.750
+dv_has_:
+  name_:
+    ace: Ganti
+    af: Ververing
+    ar: انسلاخ
+    bcl: paghilono
+    be-tarask: ліняньне
+    bg: Линеене
+    bn: নির্মোচন
+    bs: Linjanje
+    ca: muda
+    da: Hamskifte
+    el: Έκδυση
+    en: moulting
+    eo: mudo
+    es: muda
+    et: Kestumine
+    eu: Muda
+    fa: پوستاندازی
+    fi: nahanluonti
+    fr: mue
+    fy: Ferfearjen
+    ga: cleiteach
+    gl: Muda
+    he: התנשלות
+    hi: केंचुल
+    hr: Mitarenje
+    ht: Mi
+    hu: vedlés
+    id: Ganti kulit
+    ilo: panaglupos
+    it: muta
+    ja: 脱皮
+    ka: განგური
+    la: Ecdysis
+    lt: Paukščių šėrimasis
+    mk: митарење
+    mo: Năpârlire
+    ms: Ekdisis
+    nb: Myting
+    nds: Ruden
+    nl: rui (biologie)
+    nn: hamskifte
+    pl: linienie
+    pt: muda
+    ro: Năpârlire
+    ru: линька
+    sh: Mitarenje
+    sl: golitev
+    sr: Митарење
+    sv: Ruggning
+    ta: வளர் உருமாற்றம்
+    th: การลอกคราบ
+    tr: Deri değiştirme
+    uk: линяння
+    vi: Lột xác
+    yue: 蛻皮
+    zh: 蛻皮
+    zh-cn: 换羽
+    zh-hans: 换羽
+    zh-hk: 換羽
+    zh-sg: 换羽
 ---
-
 # [[Moulting]] 
 
 #is_/same_as :: [[WD~Moulting,381084]] 

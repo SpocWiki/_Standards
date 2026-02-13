@@ -1,26 +1,170 @@
 ---
 aliases:
-  - Detektivgeschichten
-  - Detective Fiction
-  - Detective_Fiction
+- cereka detektif
+- dedektif kurgusu
+- dedektîvê honakî
+- Detective Fiction
+- detectivefictie
+- Detective_Fiction
+- detektibe-fizkio
+- detektiivromaan
+- detektiv
+- detektiv-krim
+- detektiva fikcio
+- detektivfiktion
+- Detektivfiktioun
+- detektivforteljing
+- Detektivgeschichten
+- detektivka
+- detektivska fikcija
+- detektyvas
+- detektívka
+- detektívtörténet
+- detektīvproza
+- fabula criminalis
+- far-skeealaght chronneyder
+- ffuglen dditectif
+- ficció detectivesca
+- ficción de detectives
+- ficción detectivesca
+- ficsean bleachtaireachta
+- fiction de détective
+- ficção de detetive
+- ficção investigativa
+- ficțiune de detectivi
+- fikcja detektywistyczna
+- fiksi detektif
+- fugieth hwithrer
+- poliziesco
+- rumanz polizjesk
+- salapoliisikirjallisuus
+- truyện trinh thám
+- μυθιστόρημα με ντετέκτιβ
+- детектив
+- детективдүү адабият
+- детективска книжевност
+- детективска литература
+- детективска фантастика
+- достони корогоҳӣ
+- дэтэктыў
+- դետեկտիվ
+- ոստիկանական
+- ספרות בלשית
+- أدب بوليسي
+- داستان کارآگاهی
+- دەتەكتىيۆتىك ادەبىييەت
+- سراغ رسانی فکشن
+- فیلمی لێکۆڵەرییی خەیاڵی
+- जासुसी साहित्य
+- जासूसी कथा
+- গোয়েন্দা কল্পকাহিনী
+- ਜਾਸੂਸੀ ਗਲਪ
+- துப்பறிவுப் புனைவு
+- დეტექტივი
+- ディテクティブ・フィクション
+- 偵探故仔
+- 推理作品
+- 추리물
 has_id_wikidata: Q186424
 different_from:
-  - '[[_Standards/WikiData/WD~detective,842782]]'
-  - '[[_Standards/WikiData/WD~police_film,2101714]]'
-  - '[[_Standards/WikiData/WD~detective_literature,20665028]]'
+- '[[_Standards/WikiData/WD~detective,842782]]'
+- '[[_Standards/WikiData/WD~police_film,2101714]]'
+- '[[_Standards/WikiData/WD~detective_literature,20665028]]'
 main_subject: '[[_Standards/WikiData/WD~criminal_investigation,1964968]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~crime_fiction,5937792]]'
-  - '[[_Standards/WikiData/WD~mystery_fiction,6585139]]'
+- '[[_Standards/WikiData/WD~crime_fiction,5937792]]'
+- '[[_Standards/WikiData/WD~mystery_fiction,6585139]]'
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~mystery_fiction,6585139]]'
-  - '[[_Standards/WikiData/WD~murder_mystery,127339487]]'
+- '[[_Standards/WikiData/WD~mystery_fiction,6585139]]'
+- '[[_Standards/WikiData/WD~murder_mystery,127339487]]'
 instance_of: '[[_Standards/WikiData/WD~fiction_genre,108465955]]'
 Commons_category: Crime fiction
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paget%20holmes.png
 Krugosvet_article: kultura_i_obrazovanie/literatura/DETEKTIV.html
+dv_has_:
+  name_:
+    ar: أدب بوليسي
+    ast: ficción de detectives
+    az: detektiv
+    be: дэтэктыў
+    be-tarask: дэтэктыў
+    bg: детективска литература
+    bn: গোয়েন্দা কল্পকাহিনী
+    ca: ficció detectivesca
+    ckb: فیلمی لێکۆڵەرییی خەیاڵی
+    cs: detektivka
+    cy: ffuglen dditectif
+    da: detektivfiktion
+    de: Detektivfiktion
+    el: μυθιστόρημα με ντετέκτιβ
+    en: detective fiction
+    en-ca: detective fiction
+    en-gb: detective fiction
+    eo: detektiva fikcio
+    es: ficción de detectives
+    et: detektiivromaan
+    eu: detektibe-fizkio
+    fa: داستان کارآگاهی
+    fi: salapoliisikirjallisuus
+    fr: fiction de détective
+    ga: ficsean bleachtaireachta
+    gl: ficción detectivesca
+    gv: far-skeealaght chronneyder
+    he: ספרות בלשית
+    hi: जासूसी कथा
+    hu: detektívtörténet
+    hy: դետեկտիվ
+    hyw: ոստիկանական
+    id: fiksi detektif
+    it: poliziesco
+    ja: ディテクティブ・フィクション
+    ka: დეტექტივი
+    kk: детектив
+    kk-arab: دەتەكتىيۆتىك ادەبىييەت
+    kk-cn: دەتەكتىيۆتىك ادەبىييەت
+    ko: 추리물
+    ku: dedektîvê honakî
+    ku-latn: dedektîvê honakî
+    kw: fugieth hwithrer
+    ky: детективдүү адабият
+    la: fabula criminalis
+    lb: Detektivfiktioun
+    lt: detektyvas
+    lv: detektīvproza
+    mk: детективска книжевност
+    ms: cereka detektif
+    mt: rumanz polizjesk
+    nb: detektiv-krim
+    new: जासुसी साहित्य
+    nl: detectivefictie
+    nn: detektivforteljing
+    pa: ਜਾਸੂਸੀ ਗਲਪ
+    pl: fikcja detektywistyczna
+    pt: ficção investigativa
+    pt-br: ficção de detetive
+    ro: ficțiune de detectivi
+    ru: детектив
+    sk: detektívka
+    sl: detektivska fikcija
+    sr: детективска фантастика
+    sv: detektivfiktion
+    ta: துப்பறிவுப் புனைவு
+    tg: достони корогоҳӣ
+    tr: dedektif kurgusu
+    tt: детектив
+    tt-cyrl: детектив
+    uk: детектив
+    ur: سراغ رسانی فکشن
+    vi: truyện trinh thám
+    yue: 偵探故仔
+    zh: 推理作品
+    zh-cn: 推理作品
+    zh-hans: 推理作品
+    zh-hant: 推理作品
+    zh-hk: 推理作品
+    zh-sg: 推理作品
+    zh-tw: 推理作品
 ---
-
 # [[Detective_Fiction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Detective_fiction,186424|WD~Detective_fiction,186424]] 

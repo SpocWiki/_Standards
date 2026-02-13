@@ -1,4 +1,89 @@
-
+---
+has_id_wikidata: Q2766
+dv_has_:
+  name_:
+    ar: آيفون
+    ary: آيفون
+    arz: آي فون
+    azb: آیفون
+    be-tarask: Айфон
+    bn: আইফোন
+    ca: iPhone
+    ckb: ئایفۆن
+    de-ch: Apple iPhone
+    fa: آی فون
+    he: אייפון
+    hi: आइफ़ोन
+    hy: այՖոն
+    hyw: Այֆոն
+    km: អាយហ្វូន
+    kn: ಐಫೋನ್
+    ko: 아이폰
+    la: iPhonium
+    lb: Apple iPhone
+    lo: ໄອໂຟນ
+    mi: īWaea
+    ml: ഐഫോൺ
+    mr: आयफोन
+    mul: iPhone
+    my: အိုင်ဖုန်း
+    ne: आइफोन
+    new: आइ फोन
+    or: ଆଈଫୋନ
+    pa: ਆਈਫੋਨ
+    pam: IPhone series
+    pnb: آئی فون
+    ps: آيفون
+    so: I-telefoonka
+    sr: Ајфон
+    ta: ஐ-போன்
+    te: ఐఫోన్
+    th: ไอโฟน
+    ug: ئايفۇن
+    ur: آئی فون
+    ve: Ndi Yane
+    wuu: 苹果手机
+    yi: אייפֿאן
+    zgh: ⴰⵢⴼⵓⵏ
+aliases:
+- Apple iPhone
+- I-telefoonka
+- iPhone
+- IPhone series
+- iPhonium
+- Ndi Yane
+- īWaea
+- Ајфон
+- Айфон
+- այՖոն
+- אייפֿאן
+- אייפון
+- آئی فون
+- آي فون
+- آيفون
+- آی فون
+- آیفون
+- ئايفۇن
+- ئایفۆن
+- आइ फोन
+- आइफ़ोन
+- आइफोन
+- आयफोन
+- আইফোন
+- ਆਈਫੋਨ
+- ଆଈଫୋନ
+- ஐ-போன்
+- ఐఫోన్
+- ಐಫೋನ್
+- ഐഫോൺ
+- ไอโฟน
+- ໄອໂຟນ
+- အိုင်ဖုန်း
+- អាយហ្វូន
+- ⴰⵢⴼⵓⵏ
+- 苹果手机
+- 아이폰
+---
 #has_/time_/started :: 2007-01-09 
 have an iPhone11 from 2019 
 

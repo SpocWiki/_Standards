@@ -1,9 +1,32 @@
 ---
 aliases:
-  - Jamaica Accords
-  - Jamaica_Accords
+- Accordi della Giamaica
+- Accords de la Jamaïque
+- Acords de Jamaica
+- Conferencia de Jamaica
+- Jamaica Accords
+- Jamaica_Accords
+- Jamaikas monetārā sistēma
+- Yamayka valyuta sistemi
+- Yamayka valyuta tizimi
+- Ямайская валютная система
+- Ямайська валютна система
+- 牙买加协定
+has_id_wikidata: Q2822862
+dv_has_:
+  name_:
+    az: Yamayka valyuta sistemi
+    ca: Acords de Jamaica
+    en: Jamaica Accords
+    es: Conferencia de Jamaica
+    fr: Accords de la Jamaïque
+    it: Accordi della Giamaica
+    lv: Jamaikas monetārā sistēma
+    ru: Ямайская валютная система
+    uk: Ямайська валютна система
+    uz: Yamayka valyuta tizimi
+    zh: 牙买加协定
 ---
-
 #has_/time_/started :: 1976-01-07 
 #has_/time_/stopped :: 1976-01-08 
 

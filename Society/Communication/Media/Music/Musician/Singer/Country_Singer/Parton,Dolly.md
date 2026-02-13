@@ -1,183 +1,212 @@
 ---
 aliases:
-  - Dolly Rebecca Parton
-  - Dolly Parton
-  - Parton,Dolly
+- Doli Parton
+- Dollija Partone
+- Dolly Parten
+- Dolly Parton
+- Dolly Partonová
+- Dolly Rebecca Parton
+- Duolė Partuon
+- jan Toli Patan
+- Parton,Dolly
+- Ντόλι Πάρτον
+- Долі Партан
+- Доли Партон
+- Доли Партън
+- Доллі Партон
+- Долли Партон
+- Դոլլի Փարթոն
+- דולי פרטון
+- دالی پارتن
+- دوللى بارتون
+- دوللي بارتون
+- ڈولی پارٹن
+- ডলি পারটন
+- ਡੌਲੀ ਪਾਰਟਨ
+- డాలీ పార్టన్
+- ดอลลี พาร์ตัน
+- დოლი პარტონი
+- ドリー・パートン
+- 多莉·帕頓
+- 多莉·帕顿
+- 桃莉·巴頓
+- 桃莉·巴顿
+- 돌리 파튼
 has_id_wikidata: Q180453
 award_received:
-  - "[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]"
-  - "[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]"
-  - "[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Album,1441539]]"
-  - "[[_Standards/WikiData/WD~Las_Vegas_Film_Critics_Society_Award_for_Best_Song,3827280]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Bluegrass_Album,5593755]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Collaboration_with_Vocals,5593782]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Song,5593789]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Country_Vocal_Performance,5593802]]"
-  - "[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]"
-  - "[[_Standards/WikiData/WD~Willie_Nelson_Lifetime_Achievement_Award,17125405]]"
-  - "[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]"
-  - "[[_Standards/WikiData/WD~Country_Music_Association_Award_for_Entertainer_of_the_Year,18149622]]"
-  - "[[_Standards/WikiData/WD~Favorite_Country_Single,19859744]]"
-  - "[[_Standards/WikiData/WD~Country_Music_Association_Award_for_Female_Vocalist_of_the_Year,28382637]]"
-  - "[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]"
-  - "[[_Standards/WikiData/WD~Country_Music_Association_Award_for_International_Achievement,85754272]]"
-  - "[[_Standards/WikiData/WD~American_Library_Association_Honorary_Membership,107183707]]"
+- '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Lifetime_Achievement_Award,935843]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Album,1441539]]'
+- '[[_Standards/WikiData/WD~Las_Vegas_Film_Critics_Society_Award_for_Best_Song,3827280]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Bluegrass_Album,5593755]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Collaboration_with_Vocals,5593782]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Song,5593789]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Country_Vocal_Performance,5593802]]'
+- '[[_Standards/WikiData/WD~Library_of_Congress_Living_Legend,6542686]]'
+- '[[_Standards/WikiData/WD~Willie_Nelson_Lifetime_Achievement_Award,17125405]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Country_Music_Association_Award_for_Entertainer_of_the_Year,18149622]]'
+- '[[_Standards/WikiData/WD~Favorite_Country_Single,19859744]]'
+- '[[_Standards/WikiData/WD~Country_Music_Association_Award_for_Female_Vocalist_of_the_Year,28382637]]'
+- '[[_Standards/WikiData/WD~Johnny_Mercer_Award,61669648]]'
+- '[[_Standards/WikiData/WD~Country_Music_Association_Award_for_International_Achievement,85754272]]'
+- '[[_Standards/WikiData/WD~American_Library_Association_Honorary_Membership,107183707]]'
 genre:
-  - "[[_Standards/WikiData/WD~country_music,83440]]"
-  - "[[_Standards/WikiData/WD~gospel_music,180268]]"
-  - "[[_Standards/WikiData/WD~ballad,182659]]"
-  - "[[_Standards/WikiData/WD~bluegrass_music,213714]]"
-  - "[[_Standards/WikiData/WD~country_pop,2280497]]"
-  - "[[_Standards/WikiData/WD~pop_music,37073]]"
-  - "[[_Standards/WikiData/WD~folk_music,43343]]"
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~gospel_music,180268]]'
+- '[[_Standards/WikiData/WD~ballad,182659]]'
+- '[[_Standards/WikiData/WD~bluegrass_music,213714]]'
+- '[[_Standards/WikiData/WD~country_pop,2280497]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~folk_music,43343]]'
 nominated_for:
-  - "[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Song_Written_for_Visual_Media,428808]]"
-  - "[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_New_Star_of_the_Year_Actress,1291221]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Album,1441539]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Female_Artist,1441582]]"
-  - "[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Female_Artist,1441929]]"
-  - "[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]"
-  - "[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]"
-  - "[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]"
-  - "[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Album,4994728]]"
-  - "[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Musical,5305719]]"
-  - "[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Lyrics,5305716]]"
-  - "[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Music,5305717]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Bluegrass_Album,5593755]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Collaboration_with_Vocals,5593782]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Duo_Group_Performance,5593780]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Song,5593789]]"
-  - "[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Country_Vocal_Performance,5593802]]"
-  - "[[_Standards/WikiData/WD~Juno_Award_for_Best_Selling_Single,6314046]]"
-  - "[[_Standards/WikiData/WD~People's_Choice_Award_for_Favorite_Female_Artist,16965899]]"
-  - "[[_Standards/WikiData/WD~People's_Choice_Award_for_Favorite_Country_Artist,16975888]]"
-  - "[[_Standards/WikiData/WD~Country_Music_Association_Award_for_Entertainer_of_the_Year,18149622]]"
-  - "[[_Standards/WikiData/WD~Favorite_Country_Single,19859744]]"
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Song_Written_for_Visual_Media,428808]]'
+- '[[_Standards/WikiData/WD~Broadcast_Film_Critics_Association_Award_for_Best_Song,904344]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actress_in_a_Motion_Picture_Musical_or_Comedy,1011564]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Song_of_the_Year,1027904]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_New_Star_of_the_Year_Actress,1291221]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Original_Song,1420891]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Album,1441539]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Country_Female_Artist,1441582]]'
+- '[[_Standards/WikiData/WD~American_Music_Award_for_Favorite_Pop_Rock_Female_Artist,1441929]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Original_Song,1472235]]'
+- '[[_Standards/WikiData/WD~Tony_Award_for_Best_Original_Score,1478089]]'
+- '[[_Standards/WikiData/WD~Golden_Raspberry_Award_for_Worst_Musical_Score,1535128]]'
+- '[[_Standards/WikiData/WD~Primetime_Emmy_Award_for_Individual_Performance_in_a_Variety_or_Music_Program,4377021]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Album,4994728]]'
+- '[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Musical,5305719]]'
+- '[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Lyrics,5305716]]'
+- '[[_Standards/WikiData/WD~Drama_Desk_Award_for_Outstanding_Music,5305717]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Bluegrass_Album,5593755]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Collaboration_with_Vocals,5593782]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Duo_Group_Performance,5593780]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Country_Song,5593789]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Country_Vocal_Performance,5593802]]'
+- '[[_Standards/WikiData/WD~Juno_Award_for_Best_Selling_Single,6314046]]'
+- "[[_Standards/WikiData/WD~People's_Choice_Award_for_Favorite_Female_Artist,16965899]]"
+- "[[_Standards/WikiData/WD~People's_Choice_Award_for_Favorite_Country_Artist,16975888]]"
+- '[[_Standards/WikiData/WD~Country_Music_Association_Award_for_Entertainer_of_the_Year,18149622]]'
+- '[[_Standards/WikiData/WD~Favorite_Country_Single,19859744]]'
 record_label:
-  - "[[_Standards/WikiData/WD~Mercury_Records,165745]]"
-  - "[[_Standards/WikiData/WD~Columbia_Records,183387]]"
-  - "[[_Standards/WikiData/WD~Decca,557632]]"
-  - "[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]"
-  - "[[_Standards/WikiData/WD~Monument_Records,1946521]]"
-  - "[[_Standards/WikiData/WD~Asylum_Records,1998195]]"
-  - "[[_Standards/WikiData/WD~Sugar_Hill_Records,2386070]]"
-  - "[[_Standards/WikiData/WD~Goldband_Records,5579001]]"
-  - "[[_Standards/WikiData/WD~RCA_Records_Nashville,7276057]]"
-  - "[[_Standards/WikiData/WD~Rising_Tide_Records,7336183]]"
-  - "[[_Standards/WikiData/WD~RCA,50074604]]"
+- '[[_Standards/WikiData/WD~Mercury_Records,165745]]'
+- '[[_Standards/WikiData/WD~Columbia_Records,183387]]'
+- '[[_Standards/WikiData/WD~Decca,557632]]'
+- '[[_Standards/WikiData/WD~Warner_Bros._Records,843402]]'
+- '[[_Standards/WikiData/WD~Monument_Records,1946521]]'
+- '[[_Standards/WikiData/WD~Asylum_Records,1998195]]'
+- '[[_Standards/WikiData/WD~Sugar_Hill_Records,2386070]]'
+- '[[_Standards/WikiData/WD~Goldband_Records,5579001]]'
+- '[[_Standards/WikiData/WD~RCA_Records_Nashville,7276057]]'
+- '[[_Standards/WikiData/WD~Rising_Tide_Records,7336183]]'
+- '[[_Standards/WikiData/WD~RCA,50074604]]'
 influenced_by:
-  - "[[_Standards/WikiData/WD~Bill_Monroe,170042]]"
-  - "[[_Standards/WikiData/WD~Willie_Nelson,206112]]"
-  - "[[_Standards/WikiData/WD~Hank_Williams,206181]]"
-  - "[[_Standards/WikiData/WD~June_Carter_Cash,233253]]"
-  - "[[_Standards/WikiData/WD~Tammy_Wynette,234017]]"
-  - "[[_Standards/WikiData/WD~Wanda_Jackson,235223]]"
-  - "[[_Standards/WikiData/WD~Kitty_Wells,272913]]"
-  - "[[_Standards/WikiData/WD~Loretta_Lynn,272931]]"
-  - "[[_Standards/WikiData/WD~Patsy_Cline,273080]]"
-  - "[[_Standards/WikiData/WD~Roy_Rogers,367129]]"
-  - "[[_Standards/WikiData/WD~Janis_Martin,451315]]"
-  - "[[_Standards/WikiData/WD~Roy_Acuff,455773]]"
-  - "[[_Standards/WikiData/WD~Porter_Wagoner,712139]]"
-  - "[[_Standards/WikiData/WD~Dock_Boggs,1233734]]"
-  - "[[_Standards/WikiData/WD~Tom_Paxton,1351527]]"
-  - "[[_Standards/WikiData/WD~Carter_Family,1412029]]"
-  - "[[_Standards/WikiData/WD~Maddox_Brothers_and_Rose,1883210]]"
-  - "[[_Standards/WikiData/WD~Molly_O'Day,6896651]]"
-  - "[[_Standards/WikiData/WD~Woody_Guthrie,4061]]"
+- '[[_Standards/WikiData/WD~Bill_Monroe,170042]]'
+- '[[_Standards/WikiData/WD~Willie_Nelson,206112]]'
+- '[[_Standards/WikiData/WD~Hank_Williams,206181]]'
+- '[[_Standards/WikiData/WD~June_Carter_Cash,233253]]'
+- '[[_Standards/WikiData/WD~Tammy_Wynette,234017]]'
+- '[[_Standards/WikiData/WD~Wanda_Jackson,235223]]'
+- '[[_Standards/WikiData/WD~Kitty_Wells,272913]]'
+- '[[_Standards/WikiData/WD~Loretta_Lynn,272931]]'
+- '[[_Standards/WikiData/WD~Patsy_Cline,273080]]'
+- '[[_Standards/WikiData/WD~Roy_Rogers,367129]]'
+- '[[_Standards/WikiData/WD~Janis_Martin,451315]]'
+- '[[_Standards/WikiData/WD~Roy_Acuff,455773]]'
+- '[[_Standards/WikiData/WD~Porter_Wagoner,712139]]'
+- '[[_Standards/WikiData/WD~Dock_Boggs,1233734]]'
+- '[[_Standards/WikiData/WD~Tom_Paxton,1351527]]'
+- '[[_Standards/WikiData/WD~Carter_Family,1412029]]'
+- '[[_Standards/WikiData/WD~Maddox_Brothers_and_Rose,1883210]]'
+- "[[_Standards/WikiData/WD~Molly_O'Day,6896651]]"
+- '[[_Standards/WikiData/WD~Woody_Guthrie,4061]]'
 occupation:
-  - "[[_Standards/WikiData/WD~singer,177220]]"
-  - "[[_Standards/WikiData/WD~record_producer,183945]]"
-  - "[[_Standards/WikiData/WD~singer_songwriter,488205]]"
-  - "[[_Standards/WikiData/WD~songwriter,753110]]"
-  - "[[_Standards/WikiData/WD~guitarist,855091]]"
-  - "[[_Standards/WikiData/WD~multi_instrumentalist,1327329]]"
-  - "[[_Standards/WikiData/WD~voice_actor,2405480]]"
-  - "[[_Standards/WikiData/WD~film_producer,3282637]]"
-  - "[[_Standards/WikiData/WD~banjoist,9648008]]"
-  - "[[_Standards/WikiData/WD~television_actor,10798782]]"
-  - "[[_Standards/WikiData/WD~film_actor,10800557]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~recording_artist,55960555]]"
-  - "[[_Standards/WikiData/WD~country_musician,66763670]]"
-  - "[[_Standards/WikiData/WD~country_singer,66763708]]"
-  - "[[_Standards/WikiData/WD~screenwriter,28389]]"
-  - "[[_Standards/WikiData/WD~actor,33999]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-  - "[[_Standards/WikiData/WD~businessperson,43845]]"
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~record_producer,183945]]'
+- '[[_Standards/WikiData/WD~singer_songwriter,488205]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~guitarist,855091]]'
+- '[[_Standards/WikiData/WD~multi_instrumentalist,1327329]]'
+- '[[_Standards/WikiData/WD~voice_actor,2405480]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~banjoist,9648008]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~country_musician,66763670]]'
+- '[[_Standards/WikiData/WD~country_singer,66763708]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+- '[[_Standards/WikiData/WD~businessperson,43845]]'
 instrument:
-  - "[[_Standards/WikiData/WD~banjo,258896]]"
-  - "[[_Standards/WikiData/WD~autoharp,370915]]"
-  - "[[_Standards/WikiData/WD~voice,17172850]]"
-  - "[[_Standards/WikiData/WD~guitar,6607]]"
+- '[[_Standards/WikiData/WD~banjo,258896]]'
+- '[[_Standards/WikiData/WD~autoharp,370915]]'
+- '[[_Standards/WikiData/WD~voice,17172850]]'
+- '[[_Standards/WikiData/WD~guitar,6607]]'
 family_name:
-  - "[[_Standards/WikiData/WD~Dean,383113]]"
-  - "[[_Standards/WikiData/WD~Parton,36987480]]"
+- '[[_Standards/WikiData/WD~Dean,383113]]'
+- '[[_Standards/WikiData/WD~Parton,36987480]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Rebecca,503607]]"
-  - "[[_Standards/WikiData/WD~Dolly,1235797]]"
-owner_of: "[[_Standards/WikiData/WD~Dollywood,530744]]"
+- '[[_Standards/WikiData/WD~Rebecca,503607]]'
+- '[[_Standards/WikiData/WD~Dolly,1235797]]'
+owner_of: '[[_Standards/WikiData/WD~Dollywood,530744]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~I_Will_Always_Love_You,666856]]"
-  - "[[_Standards/WikiData/WD~Jolene,1573997]]"
-  - "[[_Standards/WikiData/WD~All_I_Can_Do,4728831]]"
-partner_in_business_or_sport: "[[_Standards/WikiData/WD~Porter_Wagoner,712139]]"
-copyright_representative: "[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]"
+- '[[_Standards/WikiData/WD~I_Will_Always_Love_You,666856]]'
+- '[[_Standards/WikiData/WD~Jolene,1573997]]'
+- '[[_Standards/WikiData/WD~All_I_Can_Do,4728831]]'
+partner_in_business_or_sport: '[[_Standards/WikiData/WD~Porter_Wagoner,712139]]'
+copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Stella_Parton,2089646]]"
-  - "[[_Standards/WikiData/WD~Randy_Parton,7292356]]"
-  - "[[_Standards/WikiData/WD~Rachel_Dennison,18393014]]"
-  - "[[_Standards/WikiData/WD~Freida_Parton,104399582]]"
-  - "[[_Standards/WikiData/WD~Willadeene_Parton,104399802]]"
-  - "[[_Standards/WikiData/WD~Floyd_Parton,104400093]]"
-  - "[[_Standards/WikiData/WD~David_Wilburn_Parton,132934128]]"
-  - "[[_Standards/WikiData/WD~Kassi_nan_Parton,132935908]]"
-  - "[[_Standards/WikiData/WD~Larry_Gerald_Parton,132936680]]"
-  - "[[_Standards/WikiData/WD~Robert_Lee_Parton_Jr.,132938011]]"
-  - "[[_Standards/WikiData/WD~Coy_Denver_Parton,132938989]]"
-place_of_birth: "[[_Standards/WikiData/WD~Pittman_Center,2556469]]"
-eye_color: "[[_Standards/WikiData/WD~blue_green,3375649]]"
-discography: "[[_Standards/WikiData/WD~Dolly_Parton_discography,5289348]]"
-filmography: "[[_Standards/WikiData/WD~Dolly_Parton_filmography,6351432]]"
-sex_or_gender: "[[_Standards/WikiData/WD~female,6581072]]"
-field_of_work: "[[_Standards/WikiData/WD~music_composing,11895763]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Dolly_Parton,20321519]]"
-spouse: "[[_Standards/WikiData/WD~Carl_Thomas_Dean,23475980]]"
-part_of: "[[_Standards/WikiData/WD~Porter_Wagoner_and_Dolly_Parton,64828730]]"
-described_by_source: "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]"
-father: "[[_Standards/WikiData/WD~Robert_Lee_Parton,96815132]]"
-mother: "[[_Standards/WikiData/WD~Avie_Lee_Parton,96815141]]"
-residence: "[[_Standards/WikiData/WD~Tennessee,1509]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
+- '[[_Standards/WikiData/WD~Stella_Parton,2089646]]'
+- '[[_Standards/WikiData/WD~Randy_Parton,7292356]]'
+- '[[_Standards/WikiData/WD~Rachel_Dennison,18393014]]'
+- '[[_Standards/WikiData/WD~Freida_Parton,104399582]]'
+- '[[_Standards/WikiData/WD~Willadeene_Parton,104399802]]'
+- '[[_Standards/WikiData/WD~Floyd_Parton,104400093]]'
+- '[[_Standards/WikiData/WD~David_Wilburn_Parton,132934128]]'
+- '[[_Standards/WikiData/WD~Kassi_nan_Parton,132935908]]'
+- '[[_Standards/WikiData/WD~Larry_Gerald_Parton,132936680]]'
+- '[[_Standards/WikiData/WD~Robert_Lee_Parton_Jr.,132938011]]'
+- '[[_Standards/WikiData/WD~Coy_Denver_Parton,132938989]]'
+place_of_birth: '[[_Standards/WikiData/WD~Pittman_Center,2556469]]'
+eye_color: '[[_Standards/WikiData/WD~blue_green,3375649]]'
+discography: '[[_Standards/WikiData/WD~Dolly_Parton_discography,5289348]]'
+filmography: '[[_Standards/WikiData/WD~Dolly_Parton_filmography,6351432]]'
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
+field_of_work: '[[_Standards/WikiData/WD~music_composing,11895763]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Dolly_Parton,20321519]]'
+spouse: '[[_Standards/WikiData/WD~Carl_Thomas_Dean,23475980]]'
+part_of: '[[_Standards/WikiData/WD~Porter_Wagoner_and_Dolly_Parton,64828730]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
+father: '[[_Standards/WikiData/WD~Robert_Lee_Parton,96815132]]'
+mother: '[[_Standards/WikiData/WD~Avie_Lee_Parton,96815141]]'
+residence: '[[_Standards/WikiData/WD~Tennessee,1509]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language:
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-work_location: "[[_Standards/WikiData/WD~Nashville,23197]]"
-voice_type: "[[_Standards/WikiData/WD~soprano,30903]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~American_English,7976]]'
+work_location: '[[_Standards/WikiData/WD~Nashville,23197]]'
+voice_type: '[[_Standards/WikiData/WD~soprano,30903]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 social_media_followers:
-  - 1290000
-  - 5539390
-P1015: "56724"
+- 1290000
+- 5539390
+P1015: 56724
 Commons_gallery: Dolly Parton
 Commons_category: Dolly Parton
-identifier_in_filmpolski_movie_database: "98878"
+identifier_in_filmpolski_movie_database: 98878
 name_in_native_language: Dolly Parton
 short_name: Dolly Parton
-ISNI: "0000000073578525"
+ISNI: 0000000073578525
 work_period_start_: 1959-01-01T00:00:00Z
 date_of_birth: 1946-01-19T00:00:00Z
 Tumblr_username: officialdollyparton
@@ -190,7 +219,7 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20Parton%20S
 described_at_URL: http://www.bingolottowiki.se/index.php/Dolly_Parton
 official_website: http://www.dollyparton.com
 official_shop_URL: https://shop.dollyparton.com/
-IPI_name_number: "00023550710"
+IPI_name_number: 00023550710
 Plex_person_key: 5d776834f54112001f5bd770
 Europeana_entity: agent/base/59933
 booru_tag: dolly_parton
@@ -201,8 +230,127 @@ subreddit: DollyParton
 Facebook_username: DollyParton
 X_Twitter_username: DollyParton
 Wolfram_Language_entity_code: Entity["MusicAct", "DollyParton::34d56"]
+dv_has_:
+  name_:
+    af: Dolly Parton
+    an: Dolly Parton
+    ar: دوللي بارتون
+    arz: دوللى بارتون
+    ast: Dolly Parton
+    azb: دالی پارتن
+    bcl: Dolly Parten
+    be: Долі Партан
+    be-tarask: Долі Партан
+    bg: Доли Партън
+    bn: ডলি পারটন
+    br: Dolly Parton
+    bs: Dolly Parton
+    ca: Dolly Parton
+    ceb: Dolly Parton
+    co: Dolly Parton
+    cs: Dolly Partonová
+    cy: Dolly Parton
+    da: Dolly Parton
+    dag: Dolly Parton
+    de: Dolly Parton
+    el: Ντόλι Πάρτον
+    en: Dolly Parton
+    eo: Dolly Parton
+    es: Dolly Parton
+    et: Dolly Parton
+    eu: Dolly Parton
+    fa: دالی پارتن
+    fat: Dolly Parton
+    fi: Dolly Parton
+    fit: Dolly Parton
+    fo: Dolly Parton
+    fr: Dolly Parton
+    fy: Dolly Parton
+    ga: Dolly Parton
+    gl: Dolly Parton
+    gpe: Dolly Parton
+    he: דולי פרטון
+    hr: Dolly Parton
+    hu: Dolly Parton
+    hy: Դոլլի Փարթոն
+    id: Dolly Parton
+    ig: Dolly Parton
+    io: Dolly Parton
+    is: Dolly Parton
+    it: Dolly Parton
+    ja: ドリー・パートン
+    ka: დოლი პარტონი
+    ko: 돌리 파튼
+    kw: Dolly Parton
+    la: Dolly Parton
+    lb: Dolly Parton
+    li: Dolly Parton
+    lmo: Dolly Parton
+    lv: Dollija Partone
+    mg: Dolly Parton
+    mhr: Долли Партон
+    mk: Доли Партон
+    ms: Dolly Parton
+    mul: Dolly Parton
+    nan: Dolly Parton
+    nb: Dolly Parton
+    nds: Dolly Parton
+    nl: Dolly Parton
+    nn: Dolly Parton
+    oc: Dolly Parton
+    pa: ਡੌਲੀ ਪਾਰਟਨ
+    pap: Dolly Parton
+    pl: Dolly Parton
+    pnb: ڈولی پارٹن
+    pt: Dolly Parton
+    pt-br: Dolly Parton
+    rmf: Dolly Parton
+    ro: Dolly Parton
+    ru: Долли Партон
+    sah: Долли Партон
+    sc: Dolly Parton
+    se: Dolly Parton
+    sgs: Duolė Partuon
+    sh: Dolly Parton
+    sjd: Долли Партон
+    sje: Dolly Parton
+    sju: Dolly Parton
+    sk: Dolly Partonová
+    skr: ڈولی پارٹن
+    sl: Dolly Parton
+    sma: Dolly Parton
+    smj: Dolly Parton
+    smn: Dolly Parton
+    sms: Dolly Parton
+    sq: Dolly Parton
+    sr: Доли Партон
+    sr-ec: Доли Партон
+    sr-el: Doli Parton
+    sv: Dolly Parton
+    te: డాలీ పార్టన్
+    th: ดอลลี พาร์ตัน
+    tl: Dolly Parton
+    tok: jan Toli Patan
+    tr: Dolly Parton
+    tw: Dolly Parton
+    ty: Dolly Parton
+    uk: Доллі Партон
+    ur: ڈولی پارٹن
+    uz: Dolly Parton
+    vi: Dolly Parton
+    war: Dolly Parton
+    wuu: 多莉·帕顿
+    yo: Dolly Parton
+    yue: 多莉·帕頓
+    zh: 桃莉·巴頓
+    zh-cn: 桃莉·巴顿
+    zh-hans: 桃莉·巴顿
+    zh-hant: 桃莉·巴頓
+    zh-hk: 桃莉·巴頓
+    zh-my: 桃莉·巴顿
+    zh-sg: 桃莉·巴顿
+    zh-tw: 桃莉·巴頓
 ---
-
 # [[Parton,Dolly]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Dolly_Parton,180453|WD~Dolly_Parton,180453]] 

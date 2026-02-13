@@ -1,12 +1,127 @@
 ---
 aliases:
-  - Buchsbaum
-  - Buchsbaumgewächs
-  - Buxaceae
-  - Buxus
+- Boksbuumplaanten
+- Bruxaceae
+- Buchsbaum
+- Buchsbaumgewächs
+- Buchsbaumgewächse
+- Buksacoj
+- Buksbom-familien
+- buksbomfamilien
+- Buksmediniai
+- bukszpanowate
+- Busseboomfamilie
+- Buxaceae
+- buxazeo
+- Buxbomsväxter
+- Buxus
+- buxusfamilie
+- buxàcies
+- Famîleya kevotan
+- Họ Hoàng dương
+- krušpánovité
+- puksipuukasvit
+- Pukspuulised
+- puszpángfélék
+- pušpanovke
+- Pušponowe rostliny
+- Tazazrayt
+- zimostrázovité
+- Şümşadkimilər
+- šimširovke
+- Зеленики
+- Самшитові
+- самшитовые
+- Самшытавыя
+- чемширови
+- տոսախազգիներ
+- אשכרועיים
+- شمشادية
+- شمشاديه
+- شمشادیان
+- فامیلەیا کەڤۆتان
+- ツゲ科
+- 黃楊科
+- 黄杨科
+- 회양목과
 title: Buxaceae
+has_id_wikidata: Q156680
+dv_has_:
+  name_:
+    an: Buxaceae
+    ar: شمشادية
+    arz: شمشاديه
+    ast: Buxaceae
+    az: Şümşadkimilər
+    be: Самшытавыя
+    bg: чемширови
+    bs: Bruxaceae
+    ca: buxàcies
+    ceb: Buxaceae
+    cs: zimostrázovité
+    da: Buksbom-familien
+    de: Buchsbaumgewächse
+    en: Buxaceae
+    eo: Buksacoj
+    es: Buxaceae
+    et: Pukspuulised
+    eu: buxazeo
+    ext: Buxaceae
+    fa: شمشادیان
+    fi: puksipuukasvit
+    fr: Buxaceae
+    frr: Boksbuumplaanten
+    ga: Buxaceae
+    gl: Buxaceae
+    he: אשכרועיים
+    hr: šimširovke
+    hsb: Pušponowe rostliny
+    hu: puszpángfélék
+    hy: տոսախազգիներ
+    ia: Buxaceae
+    id: Buxaceae
+    ie: Buxaceae
+    io: Buxaceae
+    it: Buxaceae
+    ja: ツゲ科
+    kab: Tazazrayt
+    ko: 회양목과
+    ku: Famîleya kevotan
+    ku-arab: فامیلەیا کەڤۆتان
+    ku-latn: Famîleya kevotan
+    la: Buxaceae
+    lt: Buksmediniai
+    mk: Зеленики
+    mul: Buxaceae
+    nb: Buksbomfamilien
+    nl: buxusfamilie
+    nn: buksbomfamilien
+    oc: Buxaceae
+    pl: bukszpanowate
+    pt: Buxaceae
+    pt-br: Buxaceae
+    ro: Buxaceae
+    ru: самшитовые
+    sk: krušpánovité
+    sl: pušpanovke
+    sq: Buxaceae
+    sr: Buxaceae
+    sr-ec: Buxaceae
+    sr-el: Buxaceae
+    sv: Buxbomsväxter
+    uk: Самшитові
+    vi: Họ Hoàng dương
+    vls: Busseboomfamilie
+    vo: Buxaceae
+    war: Buxaceae
+    zh: 黄杨科
+    zh-cn: 黄杨科
+    zh-hans: 黄杨科
+    zh-hant: 黃楊科
+    zh-hk: 黃楊科
+    zh-sg: 黄杨科
+    zh-tw: 黃楊科
 ---
-
 # [[Buxaceae]]  
 
 ![ ](Buxaceae/Buxussempervirens-2.jpg)

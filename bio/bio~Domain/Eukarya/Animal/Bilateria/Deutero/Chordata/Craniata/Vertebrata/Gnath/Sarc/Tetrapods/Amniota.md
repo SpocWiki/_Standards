@@ -1,9 +1,147 @@
 ---
 aliases:
-  - Amniota
+- Amniot
+- Amniota
+- amniotai
+- Amniotalar
+- amniotar
+- Amniotas
+- amniote
+- Amnioten
+- amnioter
+- amniotes
+- amnioti
+- Amniulo
+- Amniyot
+- Amniòt
+- Amnïottar
+- blanatí
+- Blanovce
+- magzatburkosok
+- owodniowce
+- Tinefrawin
+- Vesikalvolliset
+- Ze amnyotik
+- động vật có màng ối
+- Αμνιωτά
+- амніёты
+- амніоти
+- Амниот
+- амниоте
+- амниоти
+- амниоттар
+- амниоты
+- ամնիոտներ
+- בעלי שפיר עוברי
+- آمنیوتها
+- امنىيوتتار
+- سلويات
+- ऐम्नीओट
+- அம்னியோட்டா
+- ఉల్బధారులు
+- അനമ്നിയോട്ട
+- ამნიონიანები
+- 有羊膜類
+- 羊膜动物
+- 羊膜動物
+- 양막류
 title: Amniota
+has_id_wikidata: Q181537
+dv_has_:
+  name_:
+    af: Amniota
+    an: Amniota
+    ar: سلويات
+    ast: Amniota
+    az: Amniyot
+    ba: амниоттар
+    be: амніёты
+    be-tarask: амніёты
+    bg: амниоти
+    bs: amnioti
+    ca: amniotes
+    ceb: Amniota
+    cs: blanatí
+    de: Amnioten
+    el: Αμνιωτά
+    eml: Amniòt
+    en: amniote
+    eo: Amniulo
+    es: Amniota
+    eu: Amniota
+    fa: آمنیوتها
+    fi: Vesikalvolliset
+    fr: Amniota
+    ga: Amniota
+    gl: Amniotas
+    gv: Amniota
+    he: בעלי שפיר עוברי
+    hi: ऐम्नीओट
+    hr: amnioti
+    ht: Ze amnyotik
+    hu: magzatburkosok
+    hy: ամնիոտներ
+    ia: Amniota
+    id: Amniota
+    ilo: Amniota
+    it: Amniota
+    ja: 有羊膜類
+    jv: Amniota
+    ka: ამნიონიანები
+    kab: Tinefrawin
+    kk: Амниоттар
+    kk-arab: امنىيوتتار
+    kk-cn: امنىيوتتار
+    kk-cyrl: Амниоттар
+    kk-kz: Амниоттар
+    kk-latn: Amnïottar
+    kk-tr: Amnïottar
+    ko: 양막류
+    la: Amniota
+    li: Amniota
+    lt: amniotai
+    lv: Amnioti
+    ml: അനമ്നിയോട്ട
+    ms: Amniot
+    mul: Amniota
+    nb: amnioter
+    nl: Amniota
+    nn: amniotar
+    oc: Amniota
+    pl: owodniowce
+    pt: Amniota
+    ro: Amniota
+    ru: амниоты
+    sco: Amniota
+    sh: amniote
+    sk: Blanovce
+    sl: amnioti
+    sq: Amniota
+    sr: амниоте
+    sr-ec: амниоте
+    sr-el: amniote
+    sv: amnioter
+    ta: அம்னியோட்டா
+    te: ఉల్బధారులు
+    tg: Амниот
+    tg-latn: Amniot
+    tl: Amniota
+    tr: Amniyot
+    uk: амніоти
+    uz: Amniotalar
+    vi: động vật có màng ối
+    vls: Amniota
+    war: Amniota
+    wuu: 羊膜动物
+    zea: Amniota
+    zh: 羊膜動物
+    zh-cn: 羊膜动物
+    zh-hans: 羊膜动物
+    zh-hant: 羊膜動物
+    zh-hk: 羊膜動物
+    zh-sg: 羊膜动物
+    zh-tw: 羊膜動物
 ---
-
 # [[Amniota]] 
 
 Mammals, reptiles (turtles, lizards, Sphenodon, crocodiles, birds) and their extinct relatives 

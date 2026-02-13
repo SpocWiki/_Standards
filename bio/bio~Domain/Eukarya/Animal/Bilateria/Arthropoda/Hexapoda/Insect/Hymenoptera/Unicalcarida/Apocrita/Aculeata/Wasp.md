@@ -1,39 +1,265 @@
 ---
 aliases:
+- Amburijaine
+- amo ka wapanikitiwetc
+- ampiainen
+- Ari
+- Arẓaẓ
+- Avespa
+- Avispa
+- Bapshaine
+- darazsak
+- Doq
+- Etsatl
+- Eyóto
+- Fanenitra
+- foiche
+- gedehams
+- Geitungar
+- goghi
+- grerëza
+- guêpe
+- gwenynen feirch
+- Gèp
+- Herilased
+- Heóvêháhnoma
+- Igo
+- Kak-phang
+- ko'oi
+- Káva
+- Lapinig
+- Lapsenes
+- Liztor
+- mozqirtik
+- Nguri
+- Nyigu
+- Nyiruan
+- osa
+- Ose
+- Penyengat
+- putakti
+- Tabuan
+- Tamumu
+- Tankayllu
+- tawon
+- Tuggayuk
+- Tò vò
+- Ussel
+- Uòng-pŭng
+- Vapsa
+- Vapsvos
+- veps
+- vespa
+- Vespo
+- Viespi
+- vosa
+- Vèspa
+- Vêpe
+- Vòng-phûng
+- WASP
+- wasps
+- Weps
+- Wesp
+- Wespen
+- Wesse
+- Wépe
+- wāpi
+- Yaban arısı
+- Łasëca
+- σκεπίδ'
+- Σφήκα
+- аса
+- восы
+- дуринчи
+- Дыдынбындз
+- Зі
+- Зоља
+- ЗӀуга
+- оса
+- оси
+- осы
+- Пачемыш
+- Сăпса
+- Һағыҙаҡ
+- Կրետներ
+- צרעה
+- تمبوڑیاں
+- تموڑی
+- زنبور
+- زنبور وحشی
+- زەردەواڵە
+- کنگلی
+- ککر
+- ܕܒܘܪܐ
+- ततैया
+- बारुला
+- বোলতা
+- ਭਰਿੰਡ
+- కందిరీగ
+- കടന്നൽ
+- ต่อ
+- တႅၼ်
+- နကျယ်ကောင်
+- კრაზანები
+- カリバチ
+- 黃蜂
+- 黄蜂
+- 와습
 has_id_wikidata: Q9458574
 described_by_source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~Aculeata,1251421]]"
-  - "[[_Standards/WikiData/WD~Evanioidea,1941997]]"
-  - "[[_Standards/WikiData/WD~Ceraphronoidea,2033075]]"
-  - "[[_Standards/WikiData/WD~Proctotrupomorpha,11996284]]"
-  - "[[_Standards/WikiData/WD~Stephanoidea,15260261]]"
-  - "[[_Standards/WikiData/WD~Trigonaloidea,21073596]]"
-  - "[[_Standards/WikiData/WD~Megalyroidea,21073752]]"
-studied_by: "[[_Standards/WikiData/WD~vespology,9335841]]"
+- '[[_Standards/WikiData/WD~Aculeata,1251421]]'
+- '[[_Standards/WikiData/WD~Evanioidea,1941997]]'
+- '[[_Standards/WikiData/WD~Ceraphronoidea,2033075]]'
+- '[[_Standards/WikiData/WD~Proctotrupomorpha,11996284]]'
+- '[[_Standards/WikiData/WD~Stephanoidea,15260261]]'
+- '[[_Standards/WikiData/WD~Trigonaloidea,21073596]]'
+- '[[_Standards/WikiData/WD~Megalyroidea,21073752]]'
+studied_by: '[[_Standards/WikiData/WD~vespology,9335841]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Holometabola,37140800]]"
-  - "[[_Standards/WikiData/WD~bee_and_wasp,67190085]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Apocrita,22864]]"
-OmegaWiki_Defined_Meaning: "631360"
+- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~bee_and_wasp,67190085]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Apocrita,22864]]'
+OmegaWiki_Defined_Meaning: 631360
 Commons_category: Wasps
 Commons_gallery: Apocrita
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-tabuan.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-tabuan.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-tabuan.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-tabuan.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vespula%20germanica%20Richard%20Bartz.jpg
 MeSH_tree_code: B01.050.500.131.617.720.500.500.875.900
 UMLS_CUI: C0043399
 Krugosvet_article: nauka_i_tehnika/biologiya/OSI.html
+dv_has_:
+  name_:
+    af: Wesp
+    ar: زنبور
+    arc: ܕܒܘܪܐ
+    atj: amo ka wapanikitiwetc
+    ba: Һағыҙаҡ
+    ban: Tabuan
+    be: восы
+    be-tarask: аса
+    bg: оси
+    bjn: Tabuan
+    bn: বোলতা
+    ca: Vespa
+    cdo: Uòng-pŭng
+    ce: ЗӀуга
+    chy: Heóvêháhnoma
+    ckb: زەردەواڵە
+    cs: vosa
+    csb: Łasëca
+    cv: Сăпса
+    cy: gwenynen feirch
+    da: gedehams
+    de: Wespen
+    el: Σφήκα
+    en: wasps
+    en-ca: wasp
+    en-gb: wasp
+    eo: Vespo
+    es: Avispa
+    et: Herilased
+    eu: Liztor
+    fa: زنبور وحشی
+    fi: ampiainen
+    fr: guêpe
+    ga: foiche
+    gl: Avespa
+    gn: Káva
+    guc: ko'oi
+    hak: Vòng-phûng
+    he: צרעה
+    hi: ततैया
+    ht: Gèp
+    hu: darazsak
+    hy: Կրետներ
+    id: tawon
+    ik: Tuggayuk
+    io: Vespo
+    is: Geitungar
+    it: vespa
+    ja: カリバチ
+    ka: კრაზანები
+    kab: Arẓaẓ
+    ko: 와습
+    koi: Зі
+    ku-latn: mozqirtik
+    kv: Зі
+    kw: goghi
+    la: Vespa
+    ln: Eyóto
+    lt: Vapsvos
+    lv: Lapsenes
+    mg: Fanenitra
+    mhr: Пачемыш
+    mi: wāpi
+    mk: оси
+    ml: കടന്നൽ
+    ms: Penyengat
+    my: နကျယ်ကောင်
+    mzn: کنگلی
+    nah: Etsatl
+    nan: Kak-phang
+    nb: veps
+    nds: Weps
+    ne: बारुला
+    nl: wesp
+    nrm: Vêpe
+    oc: Vèspa
+    olo: Amburijaine
+    os: Дыдынбындз
+    pa: ਭਰਿੰਡ
+    pam: Tamumu
+    pcd: Wépe
+    pl: osa
+    pnb: تموڑی
+    pnt: σκεπίδ'
+    pt: vespa
+    pt-br: vespa
+    qu: Tankayllu
+    ro: Viespi
+    ru: осы
+    sco: Wasp
+    sd: ککر
+    sgs: Vapsa
+    sh: Ose
+    shn: တႅၼ်
+    si: WASP
+    sk: osa
+    sl: osa
+    sn: Igo
+    sq: grerëza
+    sr: Зоља
+    su: Nyiruan
+    sw: Nyigu
+    te: కందిరీగ
+    th: ต่อ
+    tl: putakti
+    tr: Yaban arısı
+    udm: дуринчи
+    uk: оса
+    ur: تمبوڑیاں
+    uz: Ari
+    vep: Bapshaine
+    vi: Tò vò
+    vls: Ussel
+    wa: Wesse
+    war: Lapinig
+    wo: Nguri
+    wuu: 黄蜂
+    yue: 黃蜂
+    za: Doq
+    zh: 黄蜂
 ---
-
 # [[Wasp]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Wasps,9458574|WD~Wasps,9458574]] 

@@ -1,4 +1,247 @@
-
+---
+has_id_wikidata: Q40276
+dv_has_:
+  name_:
+    af: vermenigvuldiging
+    am: ማባዛት
+    an: multiplicación
+    ar: ضرب
+    arz: ضرب
+    ast: multiplicación
+    az: vurulan
+    azb: چارپما
+    ba: ҡабатлау
+    bcl: pagpadakul
+    be: памнажэнне
+    be-tarask: множаньне
+    bg: умножение
+    bn: গুণ
+    bo: སྒྱུར་རྩིས།
+    br: liesadur
+    bs: množenje
+    bxr: үрэжүүлтэ
+    ca: multiplicació
+    cdo: sìng-huák
+    chr: ᎠᏴᎦᎴᏫᏒᎯ
+    ckb: لێکدان
+    cs: násobení
+    cv: хутласси
+    cy: lluosi
+    da: multiplikation
+    de: Multiplikation
+    el: πολλαπλασιασμός
+    eml: moltìplica
+    en: multiplication
+    eo: multipliko
+    es: multiplicación
+    et: korrutamine
+    eu: biderketa
+    fa: ضرب
+    fi: kertolasku
+    fj: multiplication
+    fr: multiplication
+    frr: Moolnemen
+    gan: 乘法
+    gcr: miltiplikasyon
+    gd: iomadachadh
+    gl: multiplicación
+    gsw: Multiplikation
+    hak: sṳ̀n-fap
+    he: כפל
+    hi: गुणा
+    hif: gunaa
+    hr: množenje
+    ht: miltiplikasyon
+    hu: szorzás
+    hy: բազմապատկում
+    ia: multiplication
+    id: perkalian
+    io: Multipliko
+    is: margföldun
+    it: moltiplicazione
+    ja: 乗法
+    jam: moltiplikieshan
+    jv: tangkaran
+    ka: გამრავლება
+    kk: көбейту
+    kn: ಗುಣಾಕಾರ
+    ko: 곱셈
+    ky: көбөйтүү
+    la: multiplicatio
+    lb: Multiplikatioun
+    lo: ຄູນ
+    lt: daugyba
+    lv: reizināšana
+    mag: गुणा
+    mi: whakareanga
+    mk: множење
+    ml: ഗുണനം
+    mr: गुणाकार
+    ms: pendaraban
+    mt: Multiplikazzjoni
+    nan: sêng-hoat
+    nb: multiplikasjon
+    ne: गुणन
+    new: गुणना
+    nl: vermenigvuldigen
+    nn: multiplikasjon
+    nov: multiplikatione
+    oc: multiplicacion
+    om: Baay’isuu
+    or: ଗୁଣନ
+    pa: ਗੁਣਾ
+    pl: mnożenie
+    ps: ضرب
+    pt: multiplicação
+    pt-br: multiplicação
+    qu: miray
+    ro: înmulțire
+    ru: умножение
+    sat: ᱜᱟᱵᱟᱬ
+    scn: murtipricazzioni
+    sh: množenje
+    sk: násobenie
+    sl: množenje
+    sn: kuunga huwandu
+    so: ku dhufasho
+    sq: shumëzimi
+    sr: множење
+    sr-ec: множење
+    su: produk
+    sv: multiplikation
+    sw: dharuba
+    ta: பெருக்கல்
+    te: గుణకారం
+    tg: зарб
+    th: การคูณ
+    tk: kopeltmek
+    tl: pagpaparami
+    tok: pali mute nanpa
+    tr: çarpma
+    tt: Тапкырлау
+    uk: множення
+    ur: ضرب
+    uz: koʻpaytma
+    vec: moltiplegasion
+    vi: phép nhân
+    war: pagpilo-pilo
+    wuu: 乘法
+    xal: холвлһн
+    xh: ukuphinda-phinda
+    yi: טאפלונג
+    yo: ìsọdipúpọ̀
+    yue: 乘
+    za: swngzfap
+    zh: 乘法
+    zh-hans: 乘法
+    zh-tw: 乘法
+aliases:
+- Baay’isuu
+- biderketa
+- daugyba
+- dharuba
+- gunaa
+- iomadachadh
+- kertolasku
+- kopeltmek
+- korrutamine
+- koʻpaytma
+- ku dhufasho
+- kuunga huwandu
+- liesadur
+- lluosi
+- margföldun
+- miltiplikasyon
+- miray
+- mnożenie
+- množenje
+- moltiplegasion
+- moltiplicazione
+- moltiplikieshan
+- moltìplica
+- Moolnemen
+- multiplicacion
+- multiplicació
+- multiplicación
+- multiplicatio
+- multiplication
+- multiplicação
+- multiplikasjon
+- Multiplikation
+- multiplikatione
+- Multiplikatioun
+- Multiplikazzjoni
+- multipliko
+- murtipricazzioni
+- násobenie
+- násobení
+- pagpadakul
+- pagpaparami
+- pagpilo-pilo
+- pali mute nanpa
+- pendaraban
+- perkalian
+- phép nhân
+- produk
+- reizināšana
+- shumëzimi
+- swngzfap
+- szorzás
+- sêng-hoat
+- sìng-huák
+- sṳ̀n-fap
+- tangkaran
+- ukuphinda-phinda
+- vermenigvuldigen
+- vermenigvuldiging
+- vurulan
+- whakareanga
+- çarpma
+- ìsọdipúpọ̀
+- înmulțire
+- πολλαπλασιασμός
+- зарб
+- көбейту
+- көбөйтүү
+- множаньне
+- множење
+- множення
+- памнажэнне
+- Тапкырлау
+- умножение
+- холвлһн
+- хутласси
+- ҡабатлау
+- үрэжүүлтэ
+- բազմապատկում
+- טאפלונג
+- כפל
+- ضرب
+- لێکدان
+- چارپما
+- गुणन
+- गुणना
+- गुणा
+- गुणाकार
+- গুণ
+- ਗੁਣਾ
+- ଗୁଣନ
+- பெருக்கல்
+- గుణకారం
+- ಗುಣಾಕಾರ
+- ഗുണനം
+- การคูณ
+- ຄູນ
+- སྒྱུར་རྩིས།
+- გამრავლება
+- ማባዛት
+- ᎠᏴᎦᎴᏫᏒᎯ
+- ᱜᱟᱵᱟᱬ
+- 乗法
+- 乘
+- 乘法
+- 곱셈
+---
 # [[Multiplication]]  
 
 #is_/same_as :: [[WD~Multiplication,40276]] 

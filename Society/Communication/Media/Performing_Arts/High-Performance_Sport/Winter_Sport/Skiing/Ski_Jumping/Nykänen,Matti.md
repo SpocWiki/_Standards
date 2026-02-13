@@ -1,37 +1,53 @@
 ---
 aliases:
-  - Matti_Nykänen
-  - Matti Ensio Nykänen
-  - Matti Nykänen
-  - Nykänen
-  - Nykänen,Matti
+- Mati Nikenens
+- Matthaeus Nykänen
+- Matti Ensio Nykänen
+- Matti Nykänen
+- Matti_Nykänen
+- Nykänen
+- Nykänen,Matti
+- Μάτι Νίκανεν
+- Мати Никенен
+- Матті Нюкянен
+- Матти Нюкянен
+- Маці Нюкянен
+- Маці Нюкянэн
+- מתי ניקנן
+- ماتى نوكانن
+- ماتي نوكانن
+- ماتی نوکانن
+- มัตตี นือแกเน็น
+- マッチ・ニッカネン
+- 馬蒂·尼凱寧
+- 마티 뉘케넨
 has_id_wikidata: Q16849
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~athlete,2066131]]'
-  - '[[_Standards/WikiData/WD~ski_jumper,13382603]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~athlete,2066131]]'
+- '[[_Standards/WikiData/WD~ski_jumper,13382603]]'
 place_of_birth: '[[_Standards/WikiData/WD~Jyväskylä,134620]]'
 convicted_of: '[[_Standards/WikiData/WD~assault,365680]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Holmenkollen_Medal,541985]]'
-  - '[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_Lion_of_Finland,47338068]]'
+- '[[_Standards/WikiData/WD~Holmenkollen_Medal,541985]]'
+- '[[_Standards/WikiData/WD~Knight_First_Class_of_the_Order_of_the_Lion_of_Finland,47338068]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Finns_Party,634277]]'
 place_of_death: '[[_Standards/WikiData/WD~Joutseno,829851]]'
 residence: '[[_Standards/WikiData/WD~Joutseno,829851]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Matti,1474085]]'
-  - '[[_Standards/WikiData/WD~Ensio,11858012]]'
+- '[[_Standards/WikiData/WD~Matti,1474085]]'
+- '[[_Standards/WikiData/WD~Ensio,11858012]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~pancreatitis,1527888]]'
-  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
+- '[[_Standards/WikiData/WD~pancreatitis,1527888]]'
+- '[[_Standards/WikiData/WD~pneumonia,12192]]'
 dance_style: '[[_Standards/WikiData/WD~erotic_dancing,3015661]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 different_from: '[[_Standards/WikiData/WD~Matti_Nykänen,11881652]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Mervi_Tapola,16990810]]'
-  - '[[_Standards/WikiData/WD~Pia_Nykänen,106620303]]'
+- '[[_Standards/WikiData/WD~Mervi_Tapola,16990810]]'
+- '[[_Standards/WikiData/WD~Pia_Nykänen,106620303]]'
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 place_of_burial: '[[_Standards/WikiData/WD~Jyväskylä_old_cemetery,18659629]]'
 family_name: '[[_Standards/WikiData/WD~Nykänen,27890975]]'
@@ -56,8 +72,80 @@ Europeana_entity: agent/base/50343
 Commons_category: Matti Nykänen
 birth_name: Matti Ensio Nykänen
 date_of_death: 2019-02-04T00:00:00Z
+dv_has_:
+  name_:
+    af: Matti Nykänen
+    an: Matti Nykänen
+    ar: ماتي نوكانن
+    arz: ماتى نوكانن
+    ast: Matti Nykänen
+    be: Маці Нюкянен
+    be-tarask: Маці Нюкянэн
+    bs: Matti Nykänen
+    ca: Matti Nykänen
+    cs: Matti Nykänen
+    da: Matti Nykänen
+    de: Matti Nykänen
+    de-ch: Matti Nykänen
+    el: Μάτι Νίκανεν
+    en: Matti Nykänen
+    en-ca: Matti Nykänen
+    en-gb: Matti Nykänen
+    eo: Matti Nykänen
+    es: Matti Nykänen
+    et: Matti Nykänen
+    eu: Matti Nykänen
+    ext: Matti Nykänen
+    fa: ماتی نوکانن
+    fi: Matti Nykänen
+    fit: Matti Nykänen
+    fo: Matti Nykänen
+    fr: Matti Nykänen
+    ga: Matti Nykänen
+    gl: Matti Nykänen
+    he: מתי ניקנן
+    hr: Matti Nykänen
+    hu: Matti Nykänen
+    is: Matti Nykänen
+    it: Matti Nykänen
+    ja: マッチ・ニッカネン
+    kl: Matti Nykänen
+    ko: 마티 뉘케넨
+    la: Matthaeus Nykänen
+    lv: Mati Nikenens
+    mg: Matti Nykänen
+    mul: Matti Nykänen
+    nb: Matti Nykänen
+    nl: Matti Nykänen
+    nn: Matti Nykänen
+    oc: Matti Nykänen
+    pl: Matti Nykänen
+    pt: Matti Nykänen
+    pt-br: Matti Nykänen
+    rmf: Matti Nykänen
+    ro: Matti Nykänen
+    ru: Матти Нюкянен
+    se: Matti Nykänen
+    sh: Matti Nykänen
+    sje: Matti Nykänen
+    sk: Matti Nykänen
+    sl: Matti Nykänen
+    sma: Matti Nykänen
+    smj: Matti Nykänen
+    smn: Matti Nykänen
+    sms: Matti Nykänen
+    sq: Matti Nykänen
+    sr: Мати Никенен
+    sv: Matti Nykänen
+    th: มัตตี นือแกเน็น
+    tr: Matti Nykänen
+    uk: Матті Нюкянен
+    uz: Matti Nykänen
+    vi: Matti Nykänen
+    vo: Matti Nykänen
+    zh: 馬蒂·尼凱寧
+    zh-hant: 馬蒂·尼凱寧
 ---
-
 # [[Nykänen,Matti]] 
 
 #is_/same_as :: [[WD~Matti_Nykänen,16849]] 

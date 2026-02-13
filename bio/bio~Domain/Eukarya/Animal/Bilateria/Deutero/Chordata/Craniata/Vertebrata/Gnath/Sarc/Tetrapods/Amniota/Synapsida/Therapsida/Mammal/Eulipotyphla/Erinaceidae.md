@@ -1,30 +1,94 @@
 ---
 aliases:
-  - Erinaceidae
-  - piggsvinfamilien
-  - ježi
+- Askanku
+- Broddgeltir
+- Chiam-chhí
+- egels
+- Erinacedoj
+- Erinaceidae
+- Erinaceide
+- Erinaceidos
+- Erinacèids
+- Ežiniai
+- ežu dzimta
+- Heureuchin
+- Igel
+- igelkottdjur
+- Igl
+- Iigler
+- Irsonidîs
+- jeżowate
+- Ježevi
+- ježi
+- ježkovití
+- Ježovité
+- Jûjî
+- jěže
+- Kirpigiller
+- Kirpilər
+- Kéiseker
+- piggsvinfamilien
+- pindsvin
+- poegoleem
+- siilit
+- siillased
+- Stikelbargen
+- sünfélék
+- Tipratikanlar
+- äimisäpligeh
+- їжакові
+- Вожыкавыя
+- ГӀужрукъ
+- ежови
+- ежовые
+- ЗIийна
+- зараа
+- Заряа
+- Кірпітәрізділер
+- Кирписымалдуулар
+- Сеель
+- таралежови
+- Терпеләр
+- ЦцацкӀулу
+- чĕрĕп йышшисем
+- Шӱлӹвлӓ
+- Ӵушъял
+- ոզնիներ
+- קיפודיים
+- خارپشتسانان
+- قنفذيات
+- ߖߎ߯ߙߎߣߍ߲
+- ഇത്തിൾപന്നി
+- อันดับเฮดจ์ฮอก
+- ზღარბისებრნი
+- ძღაბქურცამიშობურეფი
+- ハリネズミ科
+- 猬科
+- 蝟
+- 蝟科
+- 고슴도치과
 has_id_wikidata: Q28257
 has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
 taxonomic_type: '[[_Standards/WikiData/WD~Erinaceus,498993]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Erinaceomorpha,6241223]]'
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]'
+- '[[_Standards/WikiData/WD~Erinaceomorpha,6241223]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Erinaceidae,11049061]]'
-  - '[[_Standards/WikiData/WD~Template_Erinaceidae,14335912]]'
+- '[[_Standards/WikiData/WD~Template_Erinaceidae,11049061]]'
+- '[[_Standards/WikiData/WD~Template_Erinaceidae,14335912]]'
 code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 main_food_source:
-  - '[[_Standards/WikiData/WD~Mus,39275]]'
-  - '[[_Standards/WikiData/WD~worm,47253]]'
+- '[[_Standards/WikiData/WD~Mus,39275]]'
+- '[[_Standards/WikiData/WD~worm,47253]]'
 Commons_gallery: Erinaceidae
 Commons_category: Erinaceidae
 taxon_name: Erinaceidae
@@ -35,10 +99,115 @@ MeSH_tree_code: B01.050.150.900.649.313.961.376
 UMLS_CUI: C0018866
 NBN_System_Key: NHMSYS0000376156
 taxon_common_name:
-  - piggsvinfamilien
-  - ježi
+- piggsvinfamilien
+- ježi
+dv_has_:
+  name_:
+    an: Erinaceidae
+    ar: قنفذيات
+    arz: قنفذيات
+    ast: Erinaceidae
+    av: ГӀужрукъ
+    avk: poegoleem
+    az: Kirpilər
+    ba: Терпеләр
+    bar: Igl
+    be: Вожыкавыя
+    be-tarask: Вожыкавыя
+    bg: таралежови
+    br: Heureuchin
+    bxr: Заряа
+    ca: Erinacèids
+    ceb: Erinaceidae
+    cs: ježkovití
+    cv: чĕрĕп йышшисем
+    da: pindsvin
+    de: Igel
+    el: Erinaceidae
+    en: Erinaceidae
+    en-ca: Erinaceidae
+    en-gb: Erinaceidae
+    eo: Erinacedoj
+    es: Erinaceidae
+    et: siillased
+    eu: Erinaceidae
+    ext: Erinaceidae
+    fa: خارپشتسانان
+    fi: siilit
+    fr: Erinaceidae
+    frr: Iigler
+    fy: Stikelbargen
+    ga: Erinaceidae
+    gl: Erinaceidos
+    he: קיפודיים
+    hr: Ježevi
+    hsb: jěže
+    hu: sünfélék
+    hy: ոզնիներ
+    ia: Erinaceidae
+    id: Erinaceidae
+    ie: Erinaceidae
+    inh: ЗIийна
+    io: Erinaceidae
+    is: Broddgeltir
+    it: Erinaceidae
+    ja: ハリネズミ科
+    ka: ზღარბისებრნი
+    kk: Кірпітәрізділер
+    ko: 고슴도치과
+    ku: Jûjî
+    ky: Кирписымалдуулар
+    la: Erinaceidae
+    lb: Kéiseker
+    lbe: ЦцацкӀулу
+    lt: Ežiniai
+    lv: ežu dzimta
+    lzh: 蝟
+    mdf: Сеель
+    mk: ежови
+    ml: ഇത്തിൾപന്നി
+    mn: зараа
+    mrj: Шӱлӹвлӓ
+    mul: Erinaceidae
+    nan: Chiam-chhí
+    nb: piggsvinfamilien
+    nl: egels
+    nn: Piggsvinfamilien
+    nqo: ߖߎ߯ߙߎߣߍ߲
+    oc: Erinaceidae
+    pl: jeżowate
+    pt: Erinaceidae
+    pt-br: Erinaceidae
+    qu: Askanku
+    ro: Erinaceide
+    ru: ежовые
+    scn: Erinaceidae
+    sh: Ježevi
+    sk: Ježovité
+    sl: ježi
+    smn: äimisäpligeh
+    sq: Erinaceidae
+    sr: Erinaceidae
+    sv: igelkottdjur
+    th: อันดับเฮดจ์ฮอก
+    tl: Erinaceidae
+    tr: Kirpigiller
+    udm: Ӵушъял
+    uk: їжакові
+    uz: Tipratikanlar
+    vi: Erinaceidae
+    vls: Egels
+    vo: Erinaceidae
+    wa: Irsonidîs
+    war: Erinaceidae
+    wuu: 猬科
+    xmf: ძღაბქურცამიშობურეფი
+    yue: 蝟科
+    zh: 猬科
+    zh-cn: 猬科
+    zh-hans: 猬科
+    zh-tw: 猬科
 ---
-
 # [[Erinaceidae]] 
 
 #is_/same_as :: [[wd~Erinaceidae,28257]] 

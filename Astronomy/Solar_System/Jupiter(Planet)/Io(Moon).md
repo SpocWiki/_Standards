@@ -1,22 +1,67 @@
 ---
 aliases:
+- Ija
+- Ijo
+- Io
+- Io (moon)
+- Io (Mshtarii)
+- Io (satelito)
+- Io(satelite)
+- Ioo
+- Jo
+- mun Ijo
+- Ìo
+- Ío
+- Íó
+- İo
+- Ιώ
+- Іё
+- Іо
+- Іо, спадарожнік
+- Ија
+- Ио
+- Ио (спутник)
+- Йо
+- Իո
+- איו
+- آئیو
+- آئیو (چاند)
+- آيو
+- آیو
+- آیو (سپوږمۍ)
+- آیو(اویدو)
+- ئایۆ
+- ايو (قمر)
+- आयो
+- আইয়ো
+- ஐஓ
+- അയോ
+- අයෝ
+- ไอโอ
+- အိုင်အို
+- იო
+- ᎠᏲ
+- イオ
+- 木卫一
+- 木衛一
+- 이오
 has_id_wikidata: Q3123
-named_by: "[[_Standards/WikiData/WD~Simon_Marius,76684]]"
-named_after: "[[_Standards/WikiData/WD~Io,179014]]"
+named_by: '[[_Standards/WikiData/WD~Simon_Marius,76684]]'
+named_after: '[[_Standards/WikiData/WD~Io,179014]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~regular_moon,1086783]]"
-  - "[[_Standards/WikiData/WD~moon_of_Jupiter,61702557]]"
-has_part_s_: "[[_Standards/WikiData/WD~Q2869536,2869536]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Io,11055081]]"
+- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~moon_of_Jupiter,61702557]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q2869536,2869536]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Io,11055081]]'
 time_of_discovery_or_invention: 1610-01-08T00:00:00Z
 orbital_period: 1.769137786
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Galileo_Galilei,307]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Jupiter,319]]"
-part_of: "[[_Standards/WikiData/WD~Galilean_moons,3203]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Galileo_Galilei,307]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Jupiter,319]]'
+part_of: '[[_Standards/WikiData/WD~Galilean_moons,3203]]'
 temperature:
-  - 90
-  - 110
-  - 130
+- 90
+- 110
+- 130
 orbital_eccentricity: 0.0041
 periapsis: 420000
 albedo: 0.63
@@ -31,7 +76,7 @@ semi_major_axis_of_an_orbit: 421800
 apoapsis: 423400
 radius: 1821.6
 mass: 89.296
-OmegaWiki_Defined_Meaning: "1144812"
+OmegaWiki_Defined_Meaning: 1144812
 Commons_gallery: Io
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Image%20of%20Io%20from%20Juno%20JunoCam%20from%20December%202023.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Io%20Animated.gif
@@ -41,25 +86,140 @@ Commons_category: Io (moon)
 provisional_designation: Jupiter I
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Io,3123]]"
-    - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]]"
-    - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]]"
+  - '[[../../../WikiData/WD~Io,3123]]'
+  - '[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]]'
+  - '[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Io,3123]]"
-  - "[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]]"
-  - "[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]]"
+- '[[../../../WikiData/WD~Io,3123]]'
+- '[[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]]'
+- '[[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]]'
+- '[[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]]'
+- '[[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]]'
+- '[[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]]'
+dv_has_:
+  name_:
+    af: Io
+    an: Io(satelite)
+    ar: آيو
+    arz: ايو (قمر)
+    ast: Ío
+    az: İo
+    azb: آیو(اویدو)
+    ba: Ио
+    be: Іо, спадарожнік
+    be-tarask: Іё
+    bg: Йо
+    bn: আইয়ো
+    br: Io
+    bs: Io
+    ca: Io
+    cdo: Io
+    chr: ᎠᏲ
+    ckb: ئایۆ
+    co: Io
+    cs: Io
+    cv: Ио
+    cy: Io
+    da: Io
+    de: Io
+    de-ch: Io
+    el: Ιώ
+    en: Io
+    en-ca: Io
+    en-gb: Io
+    en-us: Io
+    eo: Ioo
+    es: Ío
+    et: Io
+    eu: Io
+    fa: آیو
+    fi: Io
+    fr: Io
+    frp: Io
+    fy: Io
+    ga: Io
+    gl: Ío
+    gsw: Io
+    gv: Io
+    he: איו
+    hi: आयो
+    hif: Io
+    hr: Ija
+    hu: Io
+    hy: Իո
+    id: Io
+    io: Io (satelito)
+    is: Íó
+    it: Io
+    ja: イオ
+    ka: იო
+    kk: Ио
+    ko: 이오
+    kv: Ио
+    ky: Ио
+    la: Io
+    lb: Io
+    lez: Ио
+    lmo: Io
+    lt: Ijo
+    lv: Jo
+    lzh: 木衛一
+    mk: Ија
+    ml: അയോ
+    mn: Ио
+    mr: आयो
+    ms: Io
+    mwl: Io
+    my: အိုင်အို
+    nan: Io
+    nb: Io
+    nds: Io
+    nl: Io
+    nn: Io
+    nov: Io (moon)
+    oc: Io
+    os: Ио
+    pl: Io
+    pnb: آئیو
+    ps: آیو (سپوږمۍ)
+    pt: Io
+    pt-br: Io
+    ro: Io
+    ru: Ио
+    scn: Ìo
+    sd: آيو
+    sh: Io
+    si: අයෝ
+    sk: Io
+    sl: Io
+    sr: Ио
+    sr-ec: Ио
+    sv: Io
+    sw: Io (Mshtarii)
+    ta: ஐஓ
+    tg: Ио
+    th: ไอโอ
+    tl: Io
+    tok: mun Ijo
+    tr: İo
+    tt: Ио
+    udm: Ио (спутник)
+    uk: Іо
+    ur: آئیو (چاند)
+    uz: Io
+    vi: Io
+    war: Io
+    wuu: 木卫一
+    yue: 木衛一
+    zh: 木衛一
 ---
-
 # [[Io(Moon)]] 
 
 #is_/same_as :: [[WD~Io,3123]] 

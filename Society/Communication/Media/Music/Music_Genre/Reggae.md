@@ -1,16 +1,62 @@
 ---
-has_time_started: 1961-01-01 
+has_time_started: 1961-01-01
 aliases:
-  - Reggae
+- rege
+- Regee
+- regejs
+- regeo
+- Reggae
+- reggaemusihkka
+- reggaemusikk
+- reggaemuusik
+- reggee
+- Reggi
+- reggí
+- Reggî
+- regis
+- Regės
+- reigé
+- reqqi
+- ρέγκε
+- регги
+- реге
+- реґі
+- Реґе
+- рэгі
+- Рэгги
+- ռեգգի
+- րեկէ
+- רגאיי
+- רעגיי
+- ريجى
+- ريغي
+- رگی
+- ڕێگەی
+- ߖߏ߬ߛߏߖߊ߬ߛߊ
+- रेगे
+- রেগে
+- ৰেগে
+- ਰੇਗੇ
+- ரெகே
+- റെഗ്ഗെ
+- රෙගේ
+- เร็กเก
+- რეგი
+- ሬጌ
+- レゲエ
+- 雷鬼樂
+- 雷鬼音乐
+- 雷鬼音樂
+- 레게
 has_id_wikidata: Q9794
 instance_of: '[[_Standards/WikiData/WD~music_genre,188451]]'
 subclass_of: '[[_Standards/WikiData/WD~music_of_Jamaica,572717]]'
 has_characteristic: '[[_Standards/WikiData/WD~off_beat,1928774]]'
 maintained_by_WikiProject:
-  - '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Reggae,10296492]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Jamaica,21830223]]'
-  - '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
+- '[[_Standards/WikiData/WD~WikiProject_Music,5830855]]'
+- '[[_Standards/WikiData/WD~WikiProject_Reggae,10296492]]'
+- '[[_Standards/WikiData/WD~WikiProject_Jamaica,21830223]]'
+- '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Reggae_music,11055312]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
 practiced_by: '[[_Standards/WikiData/WD~reggae_musician,98523719]]'
@@ -27,12 +73,139 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Buju%20Banton.jpg
 exact_match: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Reggae
 equivalent_class: http://service.ddex.net/dd/DD-AVS-001/dd/ddex_Reggae
 described_at_URL:
-  - https://ich.unesco.org/en/RL/01398
-  - https://ich.unesco.org/es/RL/01398
-  - https://ich.unesco.org/fr/RL/01398
+- https://ich.unesco.org/en/RL/01398
+- https://ich.unesco.org/es/RL/01398
+- https://ich.unesco.org/fr/RL/01398
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/REGGI.html
+dv_has_:
+  name_:
+    af: reggae
+    am: ሬጌ
+    an: Reggae
+    ar: ريغي
+    arz: ريجى
+    as: ৰেগে
+    ast: reggae
+    az: reqqi
+    ba: регги
+    bar: Reggae
+    be: рэгі
+    be-tarask: рэгі
+    bg: реге
+    bho: रेगे
+    bn: রেগে
+    br: Reggae
+    bs: reggae
+    ca: reggae
+    ckb: ڕێگەی
+    crh: Reggi
+    cs: reggae
+    cy: reggae
+    da: reggae
+    de: Reggae
+    el: ρέγκε
+    en: reggae
+    eo: regeo
+    es: reggae
+    et: reggae
+    eu: reggae
+    fa: رگی
+    fi: reggae
+    fr: reggae
+    fy: reggee
+    ga: reigé
+    gd: Reggae
+    gl: reggae
+    gn: reggae
+    gsw: Reggae
+    he: רגאיי
+    hi: रेगे
+    hif: Reggae
+    hr: Reggae
+    hu: reggae
+    hy: ռեգգի
+    hyw: րեկէ
+    ia: Reggae
+    id: Reggae
+    io: Reggae
+    is: reggí
+    it: reggae
+    ja: レゲエ
+    jam: rege
+    jv: Reggae
+    ka: რეგი
+    kbp: Regee
+    kk: Регги
+    ko: 레게
+    ku: Reggî
+    kw: Reggae
+    la: Reggae
+    lb: Reggae
+    li: Reggae
+    ln: Reggae
+    lt: regis
+    lv: regejs
+    mg: Reggae
+    mk: Реге
+    ml: റെഗ്ഗെ
+    mn: Регги
+    ms: Rege
+    mt: reggae
+    mzn: رگی
+    nah: Reggae
+    nan: Reggae
+    nb: reggae
+    nds: Reggae
+    nds-nl: reggae
+    new: रेगे
+    nl: reggae
+    nn: reggae
+    nqo: ߖߏ߬ߛߏߖߊ߬ߛߊ
+    oc: Reggae
+    os: регги
+    pa: ਰੇਗੇ
+    pap: reggae
+    pap-aw: reggae
+    pl: reggae
+    pms: Reggae
+    pnb: رگی
+    pt: reggae
+    ro: reggae
+    ru: регги
+    rue: Реґе
+    sah: Рэгги
+    scn: Reggae
+    sco: reggae
+    se: reggaemusihkka
+    sgs: Regės
+    sh: Reggae
+    si: රෙගේ
+    sk: Reggae
+    sl: reggae
+    smn: reggaemuusik
+    sms: reggaemusikk
+    sq: Reggae
+    sr: реге
+    sv: reggae
+    sw: Reggae
+    ta: ரெகே
+    tg: регги
+    th: เร็กเก
+    tr: reggae
+    tt: регги
+    udm: регги
+    uk: реґі
+    ur: رگی
+    vec: reggae
+    vi: reggae
+    war: Reggae
+    wuu: 雷鬼音乐
+    yi: רעגיי
+    yo: Reggae
+    yue: 雷鬼樂
+    zh: 雷鬼音樂
+    zh-hant: 雷鬼音樂
 ---
-
 # [[Reggae]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Reggae,9794|WD~Reggae,9794]] 

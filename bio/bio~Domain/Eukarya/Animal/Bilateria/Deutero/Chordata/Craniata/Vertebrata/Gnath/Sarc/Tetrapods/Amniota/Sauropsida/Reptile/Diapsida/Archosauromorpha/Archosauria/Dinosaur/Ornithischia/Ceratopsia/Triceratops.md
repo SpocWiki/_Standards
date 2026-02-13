@@ -1,22 +1,59 @@
 ---
 aliases:
+- Diceratus
+- Nashyrningseðla
+- Terikeratopa
+- triceratop
+- Triceratopo
+- Triceratops
+- Triceratopsas
+- Triceratopss
+- Triceratuopsos
+- Tricerátopo
+- Tricerátops
+- Triseratops
+- trícheireatóp
+- Τρικεράτωψ
+- Тріцератопс
+- Трицератопс
+- трицератопси
+- Трицератопсы
+- трыцэратапс
+- Трыцэратапсы
+- טריצרטופס
+- تريسيراتوبس
+- تریسراتوپس
+- تریسراٹاپس
+- دایناسۆری ترایسیراتۆپس
+- ट्राइसेराटोप्स
+- ट्रायसेराटॉप्स
+- ট্রাইসেরাটপস
+- ട്രൈസെറാടോപ്സ്
+- ไทรเซราทอปส์
+- ტრიცერატოფსი
+- ᏦᏧᎵᎦᏔ
+- トリケラトプス
+- 三角龍
+- 三角龍屬
+- 三角龙属
+- 트리케라톱스
 has_id_wikidata: Q14384
 location_of_discovery:
-  - "[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]"
-  - "[[_Standards/WikiData/WD~Laramie_Formation,3077404]]"
-  - "[[_Standards/WikiData/WD~Denver_Formation,5259726]]"
-  - "[[_Standards/WikiData/WD~Evanston_Formation,5415999]]"
-  - "[[_Standards/WikiData/WD~Lance_Formation,6483389]]"
-  - "[[_Standards/WikiData/WD~Scollard_Formation,7434305]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+- '[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]'
+- '[[_Standards/WikiData/WD~Laramie_Formation,3077404]]'
+- '[[_Standards/WikiData/WD~Denver_Formation,5259726]]'
+- '[[_Standards/WikiData/WD~Evanston_Formation,5415999]]'
+- '[[_Standards/WikiData/WD~Lance_Formation,6483389]]'
+- '[[_Standards/WikiData/WD~Scollard_Formation,7434305]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 height: 3
 length: 9
 mass: 12
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-main_food_source: "[[_Standards/WikiData/WD~herbivore,59099]]"
-OmegaWiki_Defined_Meaning: "636240"
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
+OmegaWiki_Defined_Meaning: 636240
 Commons_gallery: Triceratops
 Commons_category: Triceratops
 taxon_name: Triceratops
@@ -28,14 +65,103 @@ size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Tric
 Wolfram_Language_entity_code: Entity["Dinosaur", "Genus:Triceratops"]
 IPA_transcription: tɹaɪˈsæɹətɑps
 taxon_common_name:
-  - التَرَيسِيرَاتوپس
-  - טריצרטופס
-  - Трицератопс
-  - 三角龍
+- التَرَيسِيرَاتوپس
+- טריצרטופס
+- Трицератопс
+- 三角龍
 start_time: -68000000-01-01T00:00:00Z
-Dewey_Decimal_Classification: "567.9158"
+Dewey_Decimal_Classification: 567.9158
+dv_has_:
+  name_:
+    af: Triceratops
+    an: Triceratops
+    ar: تريسيراتوبس
+    ast: Triceratops
+    az: Triseratops
+    ban: Triceratops
+    be: Трыцэратапсы
+    be-tarask: трыцэратапс
+    bg: трицератопси
+    bn: ট্রাইসেরাটপস
+    br: Triseratops
+    ca: triceratop
+    ceb: Triceratops
+    chr: ᏦᏧᎵᎦᏔ
+    ckb: دایناسۆری ترایسیراتۆپس
+    cs: Triceratops
+    cy: Triceratops
+    da: Triceratops
+    de: Triceratops
+    el: Τρικεράτωψ
+    en: Triceratops
+    en-ca: Triceratops
+    en-gb: Triceratops
+    en-us: Triceratops
+    eo: Triceratopo
+    es: Triceratops
+    eu: Triceratops
+    fa: تریسراتوپس
+    fi: Triceratops
+    fr: Triceratops
+    ga: trícheireatóp
+    gl: Tricerátops
+    haw: Terikeratopa
+    he: טריצרטופס
+    hi: ट्राइसेराटोप्स
+    hr: Triceratops
+    hu: Triceratops
+    ia: Triceratops
+    id: Triceratops
+    is: Nashyrningseðla
+    it: Triceratops
+    ja: トリケラトプス
+    jv: Triceratops
+    ka: ტრიცერატოფსი
+    kk: Трицератопс
+    ko: 트리케라톱스
+    la: Triceratops
+    lt: Triceratopsas
+    lv: Triceratopss
+    ml: ട്രൈസെറാടോപ്സ്
+    mr: ट्रायसेराटॉप्स
+    ms: Triceratops
+    mul: Triceratops
+    nb: Triceratops
+    nl: Triceratops
+    nn: Triceratops
+    oc: Triceratops
+    or: Diceratus
+    pl: Triceratops
+    pnb: تریسراٹاپس
+    ps: تریسراتوپس
+    pt: Tricerátopo
+    pt-br: Tricerátopo
+    ro: Triceratops
+    ru: Трицератопсы
+    rue: Тріцератопс
+    sco: Triceratops
+    sgs: Triceratuopsos
+    sh: Triceratops
+    sk: Triceratops
+    sl: triceratops
+    sq: Triceratops
+    sr: трицератопс
+    su: Triceratops
+    sv: Triceratops
+    th: ไทรเซราทอปส์
+    tk: Triceratops
+    tl: Triceratops
+    tr: Triceratops
+    uk: Трицератопс
+    vi: Triceratops
+    war: Triceratops
+    wuu: 三角龙属
+    yue: 三角龍
+    zh: 三角龙属
+    zh-cn: 三角龙属
+    zh-hans: 三角龙属
+    zh-tw: 三角龍屬
 ---
-
 # [[Triceratops]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Triceratops,14384|WD~Triceratops,14384]]  

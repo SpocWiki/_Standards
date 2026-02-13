@@ -1,11 +1,99 @@
 ---
 aliases:
-  - Brache
-  - Fallowing
-  - Fallow
-has_id_wikidata: ''
+- Alqueive
+- Barbecho
+- Barbeito
+- braakliggend
+- Brache
+- brak
+- brakk
+- branar
+- Brooch
+- Bỏ hoang có chủ ý
+- Djouxhire
+- Dėrvuons
+- Fallow
+- Fallowing
+- Gatchère
+- Guaret
+- jachère
+- Kesa
+- Kesanto
+- Lugorri
+- maggese
+- Maisa
+- nadas
+- Novalo
+- Qallpa
+- Tanah bera
+- träda
+- Uebra
+- Ugar
+- Ugar (mezőgazdaság)
+- Ugór
+- úhor
+- Буулантма
+- Залежь
+- Парлак
+- перелоги
+- Угар
+- آیش
+- إراحة الأرض
+- زنيڭة
+- ⵉⵙⵉⴽⵉ
+- 休耕
+- 休耕地
+- 휴경
+has_id_wikidata: Q1161157
+dv_has_:
+  name_:
+    an: Uebra
+    ar: إراحة الأرض
+    ary: زنيڭة
+    bg: Угар
+    ca: Guaret
+    cs: úhor
+    cv: Парлак
+    da: brak
+    de: Brache
+    en: fallow
+    eo: Novalo
+    es: Barbecho
+    et: Kesa
+    eu: Lugorri
+    fa: آیش
+    fi: Kesanto
+    fr: jachère
+    ga: branar
+    gl: Barbeito
+    hr: Ugar
+    hu: Ugar (mezőgazdaság)
+    id: Tanah bera
+    it: maggese
+    ja: 休耕地
+    ko: 휴경
+    ky: Буулантма
+    lb: Brooch
+    mk: Угар
+    nb: brakk
+    nl: braakliggend
+    nn: brakk
+    pcd: Gatchère
+    pl: Ugór
+    pt: Alqueive
+    qu: Qallpa
+    ru: Залежь
+    scn: Maisa
+    sgs: Dėrvuons
+    sk: úhor
+    sv: träda
+    tr: nadas
+    uk: перелоги
+    vi: Bỏ hoang có chủ ý
+    wa: Djouxhire
+    zgh: ⵉⵙⵉⴽⵉ
+    zh: 休耕
 ---
-
 # [[Fallow]] 
 
 

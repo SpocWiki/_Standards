@@ -1,37 +1,224 @@
 ---
 aliases:
+- Azunsin
+- Bir la Mood
+- félfémek
+- Gariin sibiila
+- govetelek
+- Halbmetalle
+- Halfmetall
+- Hallefmetall
+- halvmetal
+- halvmetall
+- Hualewmetal
+- Kuarepoti Nunga
+- Lui-kîm-su̍k
+- Lôi-gĭng-sṳ̆k
+- Lūi-kim-sio̍k
+- meainoid
+- metalloid
+- metalloide
+- Metalloides
+- Metalloidlər
+- Metalloied
+- Metalloïd
+- metalloïde
+- Metalloïed
+- Metaloid
+- Metaloide
+- Metaloidi
+- metaloido
+- Metaloyd
+- Metaloyid
+- metal·loide
+- miotalóideach
+- málmungur
+- Mètaloid
+- Mèzz-metàj
+- métalloïde
+- Mẹ́tálọ́ìdì
+- polokov
+- Polumetali
+- poolmetall
+- puolimetalli
+- Pusmetaliai
+- Pusmetāli
+- półmetal
+- semimetal
+- semimitaddu
+- Yaqa q'illay
+- yarı metal
+- á kim
+- æрдæгзгъæртæ
+- Çурма металсем
+- μεταλλοειδή
+- Металлоид
+- Металлоиддер
+- металоид
+- напівметали
+- паўметалы
+- паўмэтал
+- полуметаллы
+- האלבמעטאלן
+- מטלואיד
+- ركزرتنه
+- شبه فلز
+- شبهفلزات
+- ميتالوءيد
+- उपधातु
+- ধাতুকল্প
+- ਉੱਪਧਾਤ
+- અર્ધધાતુ
+- உலோகப்போலி
+- ಲೋಹಾಬೊ
+- ಲೋಹಾಭ
+- ഉപലോഹങ്ങൾ
+- ธาตุกึ่งโลหะ
+- 半金属
+- 类金属
+- 類金屬
+- 준금속
 has_id_wikidata: Q19596
-different_from: "[[_Standards/WikiData/WD~semimetal,2033925]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+different_from: '[[_Standards/WikiData/WD~semimetal,2033925]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-  - "[[_Standards/WikiData/WD~metal,11426]]"
-  - "[[_Standards/WikiData/WD~nonmetal,19600]]"
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polycrystalline-germanium.jpg
 UMLS_CUI: C0439879
 MeSH_tree_code: D01.268.513
 Commons_category: Metalloids
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Metalloid,19596]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]"
-    - "[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]"
+  - '[[../../WikiData/WD~Metalloid,19596]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]'
+  - '[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Metalloid,19596]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]"
-  - "[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]"
+- '[[../../WikiData/WD~Metalloid,19596]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]'
+- '[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Metalloid.protect|Metalloid.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Metalloid.private|Metalloid.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]'
+dv_has_:
+  name_:
+    af: Metalloïed
+    an: Metaloide
+    ar: شبه فلز
+    ast: Metaloide
+    az: Metalloidlər
+    be: паўметалы
+    be-tarask: паўмэтал
+    bg: Металоид
+    bn: ধাতুকল্প
+    bs: Polumetali
+    ca: metal·loide
+    cdo: Lôi-gĭng-sṳ̆k
+    ckb: ركزرتنه
+    cs: polokov
+    cv: Çурма металсем
+    cy: Metaloid
+    da: halvmetal
+    de: Halbmetalle
+    de-ch: Halbmetalle
+    el: μεταλλοειδή
+    en: metalloid
+    en-ca: Metalloid
+    en-gb: metalloid
+    eo: metaloido
+    es: semimetal
+    et: poolmetall
+    eu: metaloide
+    fa: شبهفلزات
+    fi: puolimetalli
+    fr: métalloïde
+    frr: Hualewmetal
+    ga: miotalóideach
+    gl: Metaloide
+    gn: Kuarepoti Nunga
+    gu: અર્ધધાતુ
+    gv: meainoid
+    hak: Lui-kîm-su̍k
+    he: מטלואיד
+    hi: उपधातु
+    hif: Metalloid
+    hr: polumetali
+    ht: Metaloyid
+    hu: félfémek
+    ia: metalloide
+    id: metaloid
+    io: metaloido
+    is: málmungur
+    it: metalloide
+    ja: 半金属
+    jv: Metaloid
+    kab: Azunsin
+    kn: ಲೋಹಾಭ
+    ko: 준금속
+    kw: govetelek
+    ky: Металлоиддер
+    la: Metalloides
+    lb: Hallefmetall
+    li: Metalloied
+    lmo: Mèzz-metàj
+    lt: Pusmetaliai
+    lv: Pusmetāli
+    lzh: 類金屬
+    mad: Mètaloid
+    mag: उपधातु
+    mk: металоид
+    ml: ഉപലോഹങ്ങൾ
+    ms: metaloid
+    ms-arab: ميتالوءيد
+    my: Metalloid
+    nan: Lūi-kim-sio̍k
+    nb: halvmetall
+    nds: Halfmetall
+    nl: metalloïde
+    nn: halvmetall
+    oc: Metalloïd
+    om: Gariin sibiila
+    os: æрдæгзгъæртæ
+    pa: ਉੱਪਧਾਤ
+    pl: półmetal
+    pt: semimetal
+    pt-br: Semimetal
+    qu: Yaqa q'illay
+    ro: metaloid
+    ru: полуметаллы
+    sah: Металлоид
+    scn: semimitaddu
+    sco: metalloid
+    sh: Metaloid
+    sk: polokov
+    sl: metaloid
+    so: Bir la Mood
+    sq: Metaloidi
+    sr: металоид
+    sr-ec: металоид
+    sv: halvmetall
+    ta: உலோகப்போலி
+    tcy: ಲೋಹಾಬೊ
+    th: ธาตุกึ่งโลหะ
+    tr: yarı metal
+    uk: напівметали
+    vi: á kim
+    war: Metaloyd
+    wuu: 类金属
+    yi: האלבמעטאלן
+    yo: Mẹ́tálọ́ìdì
+    yue: 類金屬
+    zh: 類金屬
+    zh-hk: 類金屬
 ---
-
 # [[Metalloid]] 
 
 #is_/same_as :: [[WD~Metalloid,19596]] 

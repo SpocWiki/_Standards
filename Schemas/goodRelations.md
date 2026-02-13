@@ -1,11 +1,11 @@
 ---
 aliases:
-  - goodRelations
-  - ''
+- goodRelations
+- ''
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 expiryDate: ''
 has_time_started: 2023-12-06
@@ -13,7 +13,7 @@ isDeleted: false
 isReadOnly: false
 Key: Value
 keywords:
-  - goodRelations
+- goodRelations
 lang: en
 layout: ''
 license: (c)copyrighted
@@ -22,12 +22,16 @@ Predicate: '[[Object]]'
 publish: false
 publishDate: ''
 tags:
-  - goodRelations
-  - rather use
+- goodRelations
+- rather use
 title: goodRelations
 type: private note
+has_id_wikidata: Q39053847
+dv_has_:
+  name_:
+    en: GoodRelations
+    es: GoodRelations
 ---
-
 # [[goodRelations]] 
 
 #is_/part_of :: [[goodRelations]] 

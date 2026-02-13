@@ -1,9 +1,71 @@
 ---
 aliases:
-  - Sciurini
+- Baumhörnchen
+- Dloziłgaii dóó bikʼéí
+- Echte beamiikhoarntsjes
+- esciürinis
+- Koku vāveres
+- Sciurini
+- Sciurinioj
+- Sciurinos (tribo)
+- Tông Sóc cây
+- valódi mókusok
+- wiewiórki
+- 松鼠族
+- 청서족
 title: Sciurini
+has_id_wikidata: Q2294121
+dv_has_:
+  name_:
+    an: Sciurini
+    ast: Sciurini
+    bg: Sciurini
+    ca: esciürinis
+    ceb: Sciurini
+    cs: Sciurini
+    de: Baumhörnchen
+    el: Sciurini
+    en: Sciurini
+    eo: Sciurinioj
+    es: Sciurini
+    eu: Sciurini
+    ext: Sciurini
+    fi: Sciurini
+    fr: Sciurini
+    frr: Sciurini
+    fy: Echte beamiikhoarntsjes
+    ga: Sciurini
+    gl: Sciurinos (tribo)
+    hu: valódi mókusok
+    ia: Sciurini
+    ie: Sciurini
+    io: Sciurini
+    it: Sciurini
+    jv: Sciurini
+    ko: 청서족
+    la: Sciurini
+    lv: Koku vāveres
+    mul: Sciurini
+    nl: Sciurini
+    nv: Dloziłgaii dóó bikʼéí
+    oc: Sciurini
+    pl: wiewiórki
+    pt: Sciurini
+    pt-br: Sciurini
+    ro: Sciurini
+    ru: Sciurini
+    sl: Sciurini
+    sq: Sciurini
+    sv: Sciurini
+    uk: Sciurini
+    vi: Tông Sóc cây
+    vo: Sciurini
+    war: Sciurini
+    zh: 松鼠族
+    zh-cn: 松鼠族
+    zh-hans: 松鼠族
+    zh-tw: 松鼠族
 ---
-
 # [[Sciurini]] 
 
 ![](Sciurini/Sciurus_vulgaris1261031.jpg)

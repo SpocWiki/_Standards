@@ -1,23 +1,174 @@
 ---
 aliases:
+- comhiompar
+- convecció
+- convección
+- convectie
+- convection
+- convecção
+- convecție
+- conveición
+- convession
+- Convezion
+- convezione
+- Darfudiad
+- Jılwlıq tartw
+- Konbekzio
+- Konvekcija
+- konvekció
+- Konveksi
+- Konveksie
+- Konveksiya
+- konveksjon
+- Konveksyon
+- Konvektio
+- konvektion
+- Konvekto
+- konvektsioon
+- konwekcja
+- Nannee Ho'aa
+- Perolakan
+- proudění tepla
+- prúdenie tepla
+- Ruchichinuko
+- Taşınım
+- Tùi-liû
+- đối lưu
+- Συναγωγή θερμότητας
+- Жылулық тарту
+- Канвекцыя
+- канвэкцыя
+- Конвекц
+- Конвекційний потік
+- Конвекци
+- Конвекција
+- конвекция
+- струење
+- Կոնվեկցիա
+- הסעה
+- جىلۋلىق تارتۋ
+- حمل
+- همرفت
+- کنویکشن یا ترسیل
+- संवहन
+- ਵਿਕਿਰਣ
+- மேற்காவுகை
+- ස්වාභාවික සංවහන තාප සංක්රාමණය
+- การพาความร้อน
+- კონვექცია
+- 对流
+- 対流
+- 對流
+- 대류
 has_id_wikidata: Q160329
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-  - "[[_Standards/WikiData/WD~energy_source,1522115]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Vection,12831666]]"
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Vection,12831666]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-OmegaWiki_Defined_Meaning: "919592"
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+OmegaWiki_Defined_Meaning: 919592
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Convection.gif
 IEV_number: 113-04-34
 UMLS_CUI: C0242689
 Commons_category: Convection
 MeSH_tree_code: G01.906.230
+dv_has_:
+  name_:
+    af: Konveksie
+    ar: حمل
+    ast: conveición
+    az: Konveksiya
+    be: Канвекцыя
+    be-tarask: канвэкцыя
+    bg: Конвекция
+    bs: Konvekcija
+    ca: convecció
+    cs: proudění tepla
+    cv: Конвекци
+    cy: Darfudiad
+    da: konvektion
+    de: Konvektion
+    el: Συναγωγή θερμότητας
+    en: convection
+    eo: Konvekto
+    es: convección
+    et: konvektsioon
+    eu: Konbekzio
+    fa: همرفت
+    fi: Konvektio
+    fr: convection
+    ga: comhiompar
+    gl: convección
+    he: הסעה
+    hi: संवहन
+    hr: Konvekcija
+    ht: Konveksyon
+    hu: konvekció
+    hy: Կոնվեկցիա
+    id: Konveksi
+    io: Konvekto
+    it: convezione
+    ja: 対流
+    jv: Konveksi
+    ka: კონვექცია
+    kk: конвекция
+    kk-arab: جىلۋلىق تارتۋ
+    kk-cn: جىلۋلىق تارتۋ
+    kk-cyrl: Жылулық тарту
+    kk-kz: Жылулық тарту
+    kk-latn: Jılwlıq tartw
+    kk-tr: Jılwlıq tartw
+    ko: 대류
+    ky: конвекция
+    lmo: Convezion
+    lt: konvekcija
+    lv: konvekcija
+    mk: струење
+    mn: Конвекц
+    ms: Perolakan
+    nan: Tùi-liû
+    nb: konveksjon
+    nl: convectie
+    nn: konveksjon
+    om: Nannee Ho'aa
+    pa: ਵਿਕਿਰਣ
+    pl: konwekcja
+    pms: convession
+    pt: convecção
+    ro: convecție
+    ru: конвекция
+    sco: convection
+    sh: konvekcija
+    si: ස්වාභාවික සංවහන තාප සංක්රාමණය
+    sk: prúdenie tepla
+    sl: konvekcija
+    sn: Ruchichinuko
+    sr: Konvekcija
+    sr-ec: Конвекција
+    sr-el: Konvekcija
+    sv: konvektion
+    ta: மேற்காவுகை
+    th: การพาความร้อน
+    tr: Taşınım
+    udm: конвекция
+    uk: Конвекційний потік
+    ur: کنویکشن یا ترسیل
+    uz: Konveksiya
+    vi: đối lưu
+    wuu: 对流
+    yue: 對流
+    zh: 對流
+    zh-cn: 对流
+    zh-hans: 对流
+    zh-hant: 對流
+    zh-hk: 對流
+    zh-sg: 对流
+    zh-tw: 對流
 ---
-
 # [[Convection]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Convection,160329|WD~Convection,160329]] 

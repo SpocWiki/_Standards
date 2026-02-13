@@ -1,9 +1,33 @@
 ---
 aliases:
-  - Eriptychiida
+- Eriptychiida
 title: Eriptychiida
+has_id_wikidata: Q17000282
+dv_has_:
+  name_:
+    ast: Eriptychiida
+    bg: Eriptychiida
+    ceb: Eriptychiida
+    de: Eriptychiida
+    en: Eriptychiida
+    es: Eriptychiida
+    fi: Eriptychiida
+    fr: Eriptychiida
+    ga: Eriptychiida
+    it: Eriptychiida
+    la: Eriptychiida
+    mul: Eriptychiida
+    nl: Eriptychiida
+    pl: Eriptychiida
+    pt: Eriptychiida
+    ro: Eriptychiida
+    ru: Eriptychiida
+    sq: Eriptychiida
+    uk: Eriptychiida
+    vec: Eriptychiida
+    vi: Eriptychiida
+    war: Eriptychiida
 ---
-
 # [[Eriptychiida]]
 
 ![ ](Eriptychiida/eriptychiida.gif)

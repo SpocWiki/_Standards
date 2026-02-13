@@ -1,98 +1,127 @@
 ---
 aliases:
-  - Richard_Strauss
-  - Richard Georg Strauss
-  - Richard Strauss
-  - Strauss
-  - Strauss,Richard
+- Richard Georg Strauss
+- Richard Strauss
+- Richard Strauß
+- Richardus Strauss
+- Richard_Strauss
+- Rihards Štrauss
+- Rixard Ştraus
+- Shtraus Rixard
+- Strauss
+- Strauss,Richard
+- Ρίχαρντ Στράους
+- Ріхард Штраус
+- Рихард Штраус
+- Рихард Штраусс
+- Рихард Щраус
+- Рыхард Штраўс
+- Рыхард Штраус
+- Штраус Рихард
+- Ռիխարդ Շտրաուս
+- ריכרד שטראוס
+- ريتشارد شتراوس
+- ریشارد اشتراوس
+- ڕیچارد شتراوس
+- रिचर्ड स्ट्रॉस
+- ਰਿਚਰਡ ਸਟਰਾਸ
+- ริชชาร์ท ชเตราส์
+- რიხარდ შტრაუსი
+- リヒャルト・シュトラウス
+- 理察·史特勞斯
+- 理查·史特勞斯
+- 理查·斯特劳斯
+- 理查·斯特勞斯
+- 理查德·施特劳斯
+- 리하르트 슈트라우스
 has_id_wikidata: Q13894
 award_received:
-  - "[[_Standards/WikiData/WD~Order_of_the_Red_Eagle,93732]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Oak_Crown,94093]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Saxe_Ernestine,564942]]"
-  - "[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_White_Falcon,570644]]"
-  - "[[_Standards/WikiData/WD~Albert_Order,571115]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Redeemer,614661]]"
-  - "[[_Standards/WikiData/WD~Order_of_Charles_III,751275]]"
-  - "[[_Standards/WikiData/WD~Adlerschild_des_Deutschen_Reiches,876062]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_Orange_Nassau,1861904]]"
-  - "[[_Standards/WikiData/WD~Order_of_Saint_Charles,2029016]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Iron_Crown_(Austria),6766065]]"
-  - "[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]"
-  - "[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]"
-  - "[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Munich,15124418]]"
-  - "[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Crown,17200714]]"
-  - "[[_Standards/WikiData/WD~Royal_Philharmonic_Society_Gold_Medal,26183322]]"
-  - "[[_Standards/WikiData/WD~honorary_citizen_of_Vienna,61627749]]"
-  - "[[_Standards/WikiData/WD~German_Olympic_Decoration_1st_Class,134506153]]"
-  - "[[_Standards/WikiData/WD~Order_of_the_Dannebrog,20872]]"
-place_of_death: "[[_Standards/WikiData/WD~Garmisch_Partenkirchen,127043]]"
+- '[[_Standards/WikiData/WD~Order_of_the_Red_Eagle,93732]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Oak_Crown,94093]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Saxe_Ernestine,564942]]'
+- '[[_Standards/WikiData/WD~Bavarian_Maximilian_Order_for_Science_and_Art,565030]]'
+- '[[_Standards/WikiData/WD~Order_of_the_White_Falcon,570644]]'
+- '[[_Standards/WikiData/WD~Albert_Order,571115]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Redeemer,614661]]'
+- '[[_Standards/WikiData/WD~Order_of_Charles_III,751275]]'
+- '[[_Standards/WikiData/WD~Adlerschild_des_Deutschen_Reiches,876062]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_Orange_Nassau,1861904]]'
+- '[[_Standards/WikiData/WD~Order_of_Saint_Charles,2029016]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Iron_Crown_(Austria),6766065]]'
+- '[[_Standards/WikiData/WD~Officer_of_the_Legion_of_Honour,10855195]]'
+- '[[_Standards/WikiData/WD~Knight_of_the_Legion_of_Honour,10855271]]'
+- '[[_Standards/WikiData/WD~Pour_le_Mérite_for_Sciences_and_Arts_order,15056034]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Munich,15124418]]'
+- '[[_Standards/WikiData/WD~Commander_of_the_Order_of_the_Crown,17200714]]'
+- '[[_Standards/WikiData/WD~Royal_Philharmonic_Society_Gold_Medal,26183322]]'
+- '[[_Standards/WikiData/WD~honorary_citizen_of_Vienna,61627749]]'
+- '[[_Standards/WikiData/WD~German_Olympic_Decoration_1st_Class,134506153]]'
+- '[[_Standards/WikiData/WD~Order_of_the_Dannebrog,20872]]'
+place_of_death: '[[_Standards/WikiData/WD~Garmisch_Partenkirchen,127043]]'
 occupation:
-  - "[[_Standards/WikiData/WD~conductor,158852]]"
-  - "[[_Standards/WikiData/WD~musician,639669]]"
-  - "[[_Standards/WikiData/WD~librettist,8178443]]"
-  - "[[_Standards/WikiData/WD~composer,36834]]"
-spouse: "[[_Standards/WikiData/WD~Pauline_de_Ahna,445394]]"
-father: "[[_Standards/WikiData/WD~Franz_Strauss,452388]]"
+- '[[_Standards/WikiData/WD~conductor,158852]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~librettist,8178443]]'
+- '[[_Standards/WikiData/WD~composer,36834]]'
+spouse: '[[_Standards/WikiData/WD~Pauline_de_Ahna,445394]]'
+father: '[[_Standards/WikiData/WD~Franz_Strauss,452388]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~Der_Rosenkavalier,471240]]"
-  - "[[_Standards/WikiData/WD~Ariadne_auf_Naxos,654633]]"
-  - "[[_Standards/WikiData/WD~Salome,723407]]"
-  - "[[_Standards/WikiData/WD~Elektra,731927]]"
-  - "[[_Standards/WikiData/WD~Also_sprach_Zarathustra,35720]]"
+- '[[_Standards/WikiData/WD~Der_Rosenkavalier,471240]]'
+- '[[_Standards/WikiData/WD~Ariadne_auf_Naxos,654633]]'
+- '[[_Standards/WikiData/WD~Salome,723407]]'
+- '[[_Standards/WikiData/WD~Elektra,731927]]'
+- '[[_Standards/WikiData/WD~Also_sprach_Zarathustra,35720]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Antologie_z_oper,54459780]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christian_atheism,620016]]"
-member_of: "[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]"
-given_name: "[[_Standards/WikiData/WD~Richard,1249148]]"
-place_of_burial: "[[_Standards/WikiData/WD~Friedhof_Garmisch,1250860]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Antologie_z_oper,54459780]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Brief_Biographical_Dictionary_of_Foreign_Composers,125935456]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christian_atheism,620016]]'
+member_of: '[[_Standards/WikiData/WD~Bavarian_Academy_of_Fine_Arts,812155]]'
+given_name: '[[_Standards/WikiData/WD~Richard,1249148]]'
+place_of_burial: '[[_Standards/WikiData/WD~Friedhof_Garmisch,1250860]]'
 genre:
-  - "[[_Standards/WikiData/WD~sardana,1413570]]"
-  - "[[_Standards/WikiData/WD~opera,1344]]"
-  - "[[_Standards/WikiData/WD~classical_music,9730]]"
-  - "[[_Standards/WikiData/WD~symphony,9734]]"
+- '[[_Standards/WikiData/WD~sardana,1413570]]'
+- '[[_Standards/WikiData/WD~opera,1344]]'
+- '[[_Standards/WikiData/WD~classical_music,9730]]'
+- '[[_Standards/WikiData/WD~symphony,9734]]'
 list_of_works:
-  - "[[_Standards/WikiData/WD~list_of_compositions_by_Richard_Strauss,5321346]]"
-  - "[[_Standards/WikiData/WD~Richard_Strauss_thematisches_Verzeichnis,26160336]]"
-  - "[[_Standards/WikiData/WD~Richard_Strauss_Werkverzeichnis,26160369]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-family_name: "[[_Standards/WikiData/WD~Strauss,10450274]]"
-catalogue_raisonné: "[[_Standards/WikiData/WD~Richard_Strauss_Werkverzeichnis,26160369]]"
-archives_at: "[[_Standards/WikiData/WD~Richard_Strauss_Institut,29413564]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]"
-documentation_files_at: "[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]"
-different_from: "[[_Standards/WikiData/WD~Richard_Strauss,60240250]]"
-has_edition_or_translation: "[[_Standards/WikiData/WD~Q61951181,61951181]]"
-mother: "[[_Standards/WikiData/WD~Josephine_Strauss,63485856]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-child: "[[_Standards/WikiData/WD~Franz_Strauss,94897366]]"
+- '[[_Standards/WikiData/WD~list_of_compositions_by_Richard_Strauss,5321346]]'
+- '[[_Standards/WikiData/WD~Richard_Strauss_thematisches_Verzeichnis,26160336]]'
+- '[[_Standards/WikiData/WD~Richard_Strauss_Werkverzeichnis,26160369]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Strauss,10450274]]'
+catalogue_raisonné: '[[_Standards/WikiData/WD~Richard_Strauss_Werkverzeichnis,26160369]]'
+archives_at: '[[_Standards/WikiData/WD~Richard_Strauss_Institut,29413564]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Royal_Collections_of_the_Netherlands,50632603]]'
+documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+different_from: '[[_Standards/WikiData/WD~Richard_Strauss,60240250]]'
+has_edition_or_translation: '[[_Standards/WikiData/WD~Q61951181,61951181]]'
+mother: '[[_Standards/WikiData/WD~Josephine_Strauss,63485856]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+child: '[[_Standards/WikiData/WD~Franz_Strauss,94897366]]'
 date_of_birth: 1864-06-11T00:00:00Z
-place_of_birth: "[[_Standards/WikiData/WD~Munich,1726]]"
-instrument: "[[_Standards/WikiData/WD~piano,5994]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~Germany,183]]"
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~German,188]]"
+place_of_birth: '[[_Standards/WikiData/WD~Munich,1726]]'
+instrument: '[[_Standards/WikiData/WD~piano,5994]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~Germany,183]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~German,188]]'
 Commons_Creator_page: Richard Strauss
 Commons_gallery: Richard Strauss
 Commons_category: Richard Strauss
 BHCL_UUID: 233e679d-6b85-456c-a2d2-e37a2821ca8a
 Libris_URI: dbqsvblx0nvp111
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Strauss3.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Postcard-1910%20Strauss%20Richard.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Strauss3.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Postcard-1910%20Strauss%20Richard.jpg
 name_in_native_language: Richard Strauss
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Richard%20Strauss.ogg
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Musik%20Meile%20Wien%2C%20Richard%20Strauss%20%2840%29.jpg
@@ -103,15 +132,108 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/RichardStraussSign
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/StraussFamilyGrave-FriedhofGarmisch%20RomanDeckert03092024.jpg
 described_at_URL: http://www.digiporta.net/index.php?id=206695350
 ISNI:
-  - "0000000029864532"
-  - "0000000120999614"
-U_S_National_Archives_Identifier: "10582820"
-P1015: "90052984"
+- 0000000029864532
+- 0000000120999614
+U_S_National_Archives_Identifier: 10582820
+P1015: 90052984
 Europeana_entity: agent/base/147133
 Wolfram_Language_entity_code: Entity["Person", "RichardStrauss::sq23q"]
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SHTRAUS_RIHARD.html
+dv_has_:
+  name_:
+    af: Richard Strauss
+    an: Richard Strauss
+    ar: ريتشارد شتراوس
+    arz: ريتشارد شتراوس
+    ast: Richard Strauss
+    az: Rixard Ştraus
+    ba: Рихард Штраус
+    bar: Richard Strauss
+    be: Рыхард Штраус
+    be-tarask: Рыхард Штраўс
+    bg: Рихард Щраус
+    br: Richard Strauss
+    bs: Richard Strauss
+    ca: Richard Strauss
+    ch: Richard Strauss
+    ckb: ڕیچارد شتراوس
+    co: Richard Strauss
+    cs: Richard Strauss
+    cv: Рихард Штраусс
+    cy: Richard Strauss
+    da: Richard Strauss
+    de: Richard Strauss
+    ee: Richard Strauss
+    el: Ρίχαρντ Στράους
+    en: Richard Strauss
+    en-us: Richard Strauss
+    eo: Richard Strauss
+    es: Richard Strauss
+    et: Richard Strauss
+    eu: Richard Strauss
+    fa: ریشارد اشتراوس
+    fi: Richard Strauss
+    fr: Richard Strauss
+    ga: Richard Strauß
+    gl: Richard Strauss
+    he: ריכרד שטראוס
+    hi: रिचर्ड स्ट्रॉस
+    hr: Richard Strauss
+    hu: Richard Strauss
+    hy: Ռիխարդ Շտրաուս
+    id: Richard Strauss
+    io: Richard Strauss
+    is: Richard Strauss
+    it: Richard Strauss
+    ja: リヒャルト・シュトラウス
+    ka: რიხარდ შტრაუსი
+    kk: Штраус Рихард
+    ko: 리하르트 슈트라우스
+    ky: Рихард Штраус
+    la: Richardus Strauss
+    lb: Richard Strauss
+    lt: Richard Strauss
+    lv: Rihards Štrauss
+    mg: Richard Strauss
+    mk: Рихард Штраус
+    mn: Рихард Штраус
+    mul: Richard Strauss
+    nan: Richard Strauss
+    nb: Richard Strauss
+    nl: Richard Strauss
+    nn: Richard Strauss
+    nrm: Richard Strauss
+    oc: Richard Strauss
+    pa: ਰਿਚਰਡ ਸਟਰਾਸ
+    pam: Richard Strauss
+    pl: Richard Strauss
+    pt: Richard Strauss
+    pt-br: Richard Strauss
+    rm: Richard Strauss
+    ro: Richard Strauss
+    ru: Рихард Штраус
+    sco: Richard Strauss
+    sh: Richard Strauss
+    sk: Richard Strauss
+    sl: Richard Strauss
+    sq: Richard Strauss
+    sr: Рихард Штраус
+    sv: Richard Strauss
+    sw: Richard Strauss
+    th: ริชชาร์ท ชเตราส์
+    tr: Richard Strauss
+    ty: Richard Strauss
+    uk: Ріхард Штраус
+    uz: Shtraus Rixard
+    vi: Richard Strauss
+    war: Richard Strauss
+    wuu: 理查德·施特劳斯
+    yue: 理察·史特勞斯
+    zh: 理查德·施特劳斯
+    zh-cn: 理查·斯特劳斯
+    zh-hant: 理查·斯特勞斯
+    zh-tw: 理查·史特勞斯
 ---
-
 # [[Strauss,Richard]] 
 
 #is_/same_as :: [[WD~Richard_Strauss,13894]] 

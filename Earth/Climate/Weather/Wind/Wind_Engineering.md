@@ -1,26 +1,46 @@
 ---
 aliases:
-  - Wind Load
-dv_see: "[[../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate|Acrylic panes]]"
+- enginyeria eòlica
+- ingeniería eólica
+- ingénierie du Vent
+- wind engineering
+- Wind Load
+- windbelasting
+- הנדסת רוח
+- هندسة الرياح
+- සුළං ඉන්ජිනේරු විද්යාව
+- 風工程
+dv_see: '[[../../../../Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate|Acrylic panes]]'
 dv_is_:
   same_as:
-    - "[[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]]"
-    - "[[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]"
+  - '[[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]]'
+  - '[[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]'
 dv_is_same_as:
-  - "[[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]]"
-  - "[[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]"
+- '[[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]]'
+- '[[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]]'
+- '[[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]]'
+- '[[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]]'
+- '[[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]]'
+has_id_wikidata: Q2441902
+dv_has_:
+  name_:
+    ar: هندسة الرياح
+    ca: enginyeria eòlica
+    en: wind engineering
+    es: ingeniería eólica
+    fr: ingénierie du Vent
+    he: הנדסת רוח
+    nl: windbelasting
+    si: සුළං ඉන්ජිනේරු විද්යාව
+    zh: 風工程
 ---
-
 # [[Wind_Engineering]] 
 
 Wind pressure p on flat surfaces:

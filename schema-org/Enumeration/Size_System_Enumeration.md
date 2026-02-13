@@ -38,10 +38,10 @@ dv_is_:
     - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration.secret|Size_System_Enumeration.secret]]"
     - "[[Size_System_Enumeration]]"
 dv_has_:
-  child_class: "[ WearableSizeSystemEnumeration ]"
+  child_class: "[[Size_System_Enumeration/Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: "[[../Enumeration]]"
-dv_has_child_class: "[ WearableSizeSystemEnumeration ]"
+dv_has_child_class: "[[Size_System_Enumeration/Wearable_Size_System_Enumeration|Wearable_Size_System_Enumeration]]"
 dv_is_same_as:
   - "[[Size_System_Enumeration]]"
   - "[[/_public/schema-org/Enumeration/Size_System_Enumeration.public|Size_System_Enumeration.public]]"
@@ -52,10 +52,12 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Enumeration/Size_System_Enumeration.secret|Size_System_Enumeration.secret]]"
 ---
 
+# [[Size_System_Enumeration]] 
+
 Class of all size_system_enumerations.
 
 Tag Instances like this: 
-#is_a_/size_system_enumeration
+#is_a_/size_system_/enumeration
 
 is_part_of = `=this.dv_is_part_of` 
 

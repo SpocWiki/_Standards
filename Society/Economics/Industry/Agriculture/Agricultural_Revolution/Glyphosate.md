@@ -1,8 +1,101 @@
 ---
 aliases:
+- glifosaat
+- Glifosat
+- Glifosato
+- Glifozate
+- glifozato
+- glifozát
+- Gliofosáit
+- glyfosaat
+- glyfosaatti
+- glyfosat
+- Glyfosát
+- Glyphosat
+- glyphosate
+- Glyphosatum
+- Glüfosaat
 - Roundup
+- Γλυφοσάτη
+- гліфасат
+- Гліфосат
+- Глифозат
+- Глифосат
+- גלייפוסט
+- غليفوسات
+- قلیفسات
+- گلیفسات
+- கிளைபோசேட்டு
+- ග්ලයිෆොසෙට්
+- ไกลโฟเสต
+- グリホサート
+- 草甘膦
+- 글리포세이트
+has_id_wikidata: Q407232
+dv_has_:
+  name_:
+    af: glifosaat
+    ar: غليفوسات
+    ast: Glifosato
+    azb: قلیفسات
+    be-tarask: гліфасат
+    bg: Глифозат
+    bs: Glifosat
+    ca: glifosat
+    cs: Glyfosát
+    da: glyfosat
+    de: Glyphosat
+    el: Γλυφοσάτη
+    en: glyphosate
+    en-ca: Glyphosate
+    en-gb: Glyphosate
+    eo: glifozato
+    es: Glifosato
+    et: Glüfosaat
+    eu: glifosato
+    fa: گلیفسات
+    fi: glyfosaatti
+    fr: glyphosate
+    ga: Gliofosáit
+    gl: Glifosato
+    he: גלייפוסט
+    hr: glifosat
+    hu: glifozát
+    id: Glifosat
+    io: Glifosato
+    it: Glifosato
+    ja: グリホサート
+    ko: 글리포세이트
+    la: Glyphosatum
+    mn: Глифосат
+    nb: Glyfosat
+    nl: glyfosaat
+    oc: Glifosat
+    pl: glifosat
+    pt: glifosato
+    pt-br: Glifosato
+    ro: Glifosat
+    ru: глифосат
+    sh: Glifosat
+    si: ග්ලයිෆොසෙට්
+    sk: Glyfosát
+    sl: glifosat
+    sr: глифосат
+    sv: glyfosat
+    ta: கிளைபோசேட்டு
+    th: ไกลโฟเสต
+    tr: Glifosat
+    uk: Гліфосат
+    vi: Glyphosat
+    wa: Glifozate
+    zh: 草甘膦
+    zh-cn: 草甘膦
+    zh-hans: 草甘膦
+    zh-hant: 草甘膦
+    zh-hk: 草甘膦
+    zh-sg: 草甘膦
+    zh-tw: 草甘膦
 ---
-
 ## Detergents as a Source of  Glyphosate 
 
 [[Phosphonate]]s can be a source of [[Glyphosate]]-compounds. 

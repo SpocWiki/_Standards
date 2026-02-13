@@ -1,4 +1,45 @@
-
+---
+has_id_wikidata: Q2295916
+dv_has_:
+  name_:
+    ar: لعبة إنذار
+    da: Ultimatumspillet
+    de: Ultimatumspiel
+    en: ultimatum game
+    es: Juego del ultimátum
+    fa: اولتیماتوم (بازی)
+    fr: jeu de l'ultimatum
+    gl: Xogo do ultimato
+    he: התראה
+    it: gioco dell'ultimatum
+    ja: 最後通牒ゲーム
+    ko: 최후통첩 게임
+    pt: jogo do ultimato
+    ru: Ультиматум (игра)
+    yue: 最後通牒博弈
+    zh: 最後通牒賽局
+    zh-hans: 最后通牒赛局
+    zh-hant: 最後通牒賽局
+    zh-hk: 最後通牒賽局
+aliases:
+- gioco dell'ultimatum
+- jeu de l'ultimatum
+- jogo do ultimato
+- Juego del ultimátum
+- ultimatum game
+- Ultimatumspiel
+- Ultimatumspillet
+- Xogo do ultimato
+- Ультиматум (игра)
+- התראה
+- اولتیماتوم (بازی)
+- لعبة إنذار
+- 最后通牒赛局
+- 最後通牒ゲーム
+- 最後通牒博弈
+- 最後通牒賽局
+- 최후통첩 게임
+---
 # [[Ultimatum_Game]] 
 
 #is_/similar_to :: [[../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War|Cold War]] 

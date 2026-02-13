@@ -1,18 +1,118 @@
 ---
 aliases:
+- congettura di Poincaré
+- Congetura ëd Poincaré
+- conjectura de Poincaré
+- Conjectura lui Poincaré
+- conjecture de Poincaré
+- conxectura de Poincaré
+- Giả thuyết Poincaré
+- hipoteza Poincarégo
+- hipótesis de Poincaré
+- konjekto de Poincaré
+- konjektur Poincaré
+- Poenkareova hipoteza
+- Poincares formodning
+- Poincaré conjecture
+- Poincaré sanısı
+- Poincaré-sejtés
+- Poincaré-vermoede
+- Poincaré-Vermutung
+- Poincaréformodningen
+- Poincarého věta
+- Poincaréjeva domneva
+- Poincarén otaksuma
+- Poincaréren aierua
+- Poincarés förmodan
+- Poincarés førehandstru
+- Puankare teoremi
+- Vermoeden van Poincaré
+- Εικασία του Πουανκαρέ
+- гіпотеза Пуанкаре
+- Гіпотэза Пуанкарэ
+- гипотеза Пуанкаре
+- Поанкареова претпоставка
+- Пуанкаре гипотези
+- השערת פואנקרה
+- حدس پوانکاره
+- حدسية بوانكاريه
+- പോയിൻകാരെ കൺജെക്ചർ
+- ข้อความคาดการณ์ของปวงกาเร
+- ポアンカレ予想
+- 庞加莱猜想
+- 龐加萊懸想
+- 龐加萊猜想
+- 푸앵카레 추측
 has_id_wikidata: Q203586
 instance_of:
-  - "[[_Standards/WikiData/WD~theorem,65943]]"
-  - "[[_Standards/WikiData/WD~conjecture,319141]]"
-named_after: "[[_Standards/WikiData/WD~Henri_Poincaré,81082]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Henri_Poincaré,81082]]"
-proved_by: "[[_Standards/WikiData/WD~Grigori_Perelman,117346]]"
-studied_by: "[[_Standards/WikiData/WD~algebraic_topology,212803]]"
-part_of: "[[_Standards/WikiData/WD~Millennium_Problems,727000]]"
-uses: "[[_Standards/WikiData/WD~Ricci_flow,1361396]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~conjecture,319141]]'
+named_after: '[[_Standards/WikiData/WD~Henri_Poincaré,81082]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Poincaré,81082]]'
+proved_by: '[[_Standards/WikiData/WD~Grigori_Perelman,117346]]'
+studied_by: '[[_Standards/WikiData/WD~algebraic_topology,212803]]'
+part_of: '[[_Standards/WikiData/WD~Millennium_Problems,727000]]'
+uses: '[[_Standards/WikiData/WD~Ricci_flow,1361396]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+dv_has_:
+  name_:
+    af: Poincaré-vermoede
+    ar: حدسية بوانكاريه
+    ast: hipótesis de Poincaré
+    az: Puankare teoremi
+    be: Гіпотэза Пуанкарэ
+    be-tarask: гіпотэза Пуанкарэ
+    ca: conjectura de Poincaré
+    cs: Poincarého věta
+    cv: Пуанкаре гипотези
+    da: Poincaréformodningen
+    de: Poincaré-Vermutung
+    el: Εικασία του Πουανκαρέ
+    en: Poincaré conjecture
+    en-ca: Poincaré conjecture
+    en-gb: Poincaré conjecture
+    eo: konjekto de Poincaré
+    es: hipótesis de Poincaré
+    eu: Poincaréren aierua
+    fa: حدس پوانکاره
+    fi: Poincarén otaksuma
+    fr: conjecture de Poincaré
+    gl: conxectura de Poincaré
+    he: השערת פואנקרה
+    hu: Poincaré-sejtés
+    id: konjektur Poincaré
+    it: congettura di Poincaré
+    ja: ポアンカレ予想
+    ko: 푸앵카레 추측
+    lzh: 龐加萊懸想
+    mk: Поанкареова претпоставка
+    ml: പോയിൻകാരെ കൺജെക്ചർ
+    nb: Poincares formodning
+    nl: Vermoeden van Poincaré
+    nn: Poincarés førehandstru
+    oc: Conjectura de Poincaré
+    pl: hipoteza Poincarégo
+    pms: Congetura ëd Poincaré
+    pt: conjectura de Poincaré
+    pt-br: conjectura de Poincaré
+    ro: Conjectura lui Poincaré
+    ru: гипотеза Пуанкаре
+    sl: Poincaréjeva domneva
+    sr: Poenkareova hipoteza
+    sv: Poincarés förmodan
+    th: ข้อความคาดการณ์ของปวงกาเร
+    tr: Poincaré sanısı
+    uk: гіпотеза Пуанкаре
+    vi: Giả thuyết Poincaré
+    yue: 龐加萊猜想
+    zh: 庞加莱猜想
+    zh-cn: 庞加莱猜想
+    zh-hans: 庞加莱猜想
+    zh-hant: 龐加萊猜想
+    zh-hk: 龐加萊猜想
+    zh-sg: 庞加莱猜想
+    zh-tw: 龐加萊猜想
 ---
-
 # [[Poincaré_Conjecture]] 
 
 #is_/worse_than :: [[Geometrization_Conjecture]]  

@@ -1,6 +1,95 @@
 ---
 aliases:
-  - Piano
+- Biyaano
+- chianuforti
+- Clafer
+- Clavazin
+- Clavile
+- dương cầm
+- fortepian
+- Fortepiano
+- fortepijonas
+- glasovir
+- Gáung-kìng
+- ilo kalama supa pi nena walo pimeja
+- Ipiyano
+- Klaveer
+- klaver
+- Klavia (Begriffsklearung)
+- Klavier
+- klavieres
+- klavir
+- Klavvõr
+- klavír
+- klawiir
+- Kuãytasã
+- Kòng-khìm
+- Kĩnanda kĩa Kĩgũkũira
+- Kǹg-khîm
+- Likembé lya mpótó
+- Phianu
+- pian
+- pianney
+- Piano
+- pianoforte
+- Pianofòrt
+- Pianoja
+- Pianotli
+- pianu
+- pianuforte
+- pianó
+- Pianô
+- Pianėns
+- pipno
+- Piyaanoo
+- piyano
+- piàno
+- piáno
+- pjanu
+- Pyano
+- Píanó
+- Yatana qallwa
+- zongora
+- πιάνο
+- Зонгорӧ
+- клавір
+- клавир
+- пијано
+- пиано
+- Төгөлдөр хуур
+- фартэпіяна
+- фортепіано
+- фортепиано
+- Фортепьяно
+- դաշնամուր
+- פיאנע
+- פסנתר
+- بيانو
+- پىئانىنو
+- پيانو
+- پیانو
+- پیانۆ
+- ڤيانو
+- पियानो
+- পিয়ান'
+- পিয়ানো
+- ਪਿਆਨੋ
+- પિયાનો
+- கின்னரப்பெட்டி
+- పియానో
+- ಪಿಯಾನೋ
+- പിയാനോ
+- เปียโน
+- རྣོ་སྦྲེང་།
+- စန္ဒရား
+- ၸၼ်းတြႃး
+- ფორტეპიანო
+- ፒያኖ
+- ᎤᏔᏅ ᏗᎧᏃᎩᏍᏗ
+- ピアノ
+- 鋼琴
+- 钢琴
+- 피아노
 has_id_wikidata: Q5994
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ludwig%20van%20Beethoven%20-%20sonata%20no.%2014%20in%20c%20sharp%20minor%20%27moonlight%27%2C%20op.%2027%20no.%202%20-%20i.%20adagio%20sostenuto.ogg
 Baidu_Tieba_name: 钢琴
@@ -8,11 +97,11 @@ Colon_Classification: NR;34
 Commons_category: Pianos
 Commons_gallery: Piano
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 Dewey_Decimal_Classification: 786.2
 different_from: '[[_Standards/WikiData/WD~piano,2707020]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Bartolomeo_Cristofori,301597]]'
@@ -34,8 +123,181 @@ subclass_of: '[[_Standards/WikiData/WD~keyboard_instrument,52954]]'
 subreddit: piano
 time_of_discovery_or_invention: 1700
 used_by: '[[_Standards/WikiData/WD~pianist,486748]]'
+dv_has_:
+  name_:
+    af: klavier
+    am: ፒያኖ
+    an: Piano
+    ang: Clafer
+    ar: بيانو
+    ary: پيانو
+    arz: بيانو
+    as: পিয়ান'
+    ast: pianu
+    az: piano
+    azb: پیانو
+    ba: фортепиано
+    bar: Klavia (Begriffsklearung)
+    be: фартэпіяна
+    be-tarask: фартэпіяна
+    bg: пиано
+    bn: পিয়ানো
+    bo: རྣོ་སྦྲེང་།
+    br: Piano
+    bs: Klavir
+    ca: piano
+    cdo: Gáung-kìng
+    ceb: Pyano
+    chr: ᎤᏔᏅ ᏗᎧᏃᎩᏍᏗ
+    ckb: پیانۆ
+    co: pianuforte
+    crh: Fortepiano
+    cs: klavír
+    cy: piano
+    da: klaver
+    de: Klavier
+    diq: Piyano
+    el: πιάνο
+    en: piano
+    en-us: piano
+    eo: piano
+    es: piano
+    et: klaver
+    eu: piano
+    ext: pianu
+    fa: پیانو
+    fi: piano
+    fr: piano
+    frr: klawiir
+    fy: Piano
+    ga: pianó
+    gd: piàno
+    gl: piano
+    gn: Kuãytasã
+    gsw: Klavier
+    gu: પિયાનો
+    gv: pianney
+    hak: Kòng-khìm
+    he: פסנתר
+    hi: पियानो
+    hif: Piano
+    hr: glasovir
+    hu: zongora
+    hy: դաշնամուր
+    hyw: դաշնամուր
+    ia: Piano
+    iba: Piano
+    id: Piano
+    ig: Piano
+    ilo: piano
+    io: Piano
+    is: Píanó
+    it: pianoforte
+    ja: ピアノ
+    jbo: pipno
+    jv: Piano
+    ka: ფორტეპიანო
+    kbp: Piyaanoo
+    ki: Kĩnanda kĩa Kĩgũkũira
+    kk: фортепиано
+    kn: ಪಿಯಾನೋ
+    ko: 피아노
+    ku: piyano
+    kv: Зонгорӧ
+    kw: Piano
+    ky: Фортепьяно
+    la: Clavile
+    lb: Piano
+    lfn: Piano
+    li: Piano
+    lmo: Piano
+    ln: Likembé lya mpótó
+    lt: fortepijonas
+    lv: klavieres
+    mad: Piano
+    mg: Pianô
+    mk: пијано
+    ml: പിയാനോ
+    mn: Төгөлдөр хуур
+    mr: पियानो
+    ms: piano
+    ms-arab: ڤيانو
+    mt: pjanu
+    my: စန္ဒရား
+    mzn: پیانو
+    nah: Pianotli
+    nan: Kǹg-khîm
+    nb: piano
+    nds: Klaveer
+    nds-nl: piano
+    new: पियानो
+    nl: piano
+    nn: piano
+    oc: Piano
+    os: фортепиано
+    pa: ਪਿਆਨੋ
+    pap: piano
+    pcd: Piano
+    pl: fortepian
+    pms: Pianofòrt
+    pnb: پیانو
+    pt: piano
+    pt-br: piano
+    qu: Yatana qallwa
+    rm: Clavazin
+    ro: pian
+    ru: фортепиано
+    rue: клавір
+    rup: Phianu
+    scn: chianuforti
+    sco: piano
+    sd: پيانو
+    se: piáno
+    sgs: Pianėns
+    sh: Klavir
+    shn: ၸၼ်းတြႃး
+    sk: klavír
+    sl: klavir
+    smj: piáno
+    smn: piano
+    sms: piano
+    so: Biyaano
+    sq: Pianoja
+    sr: клавир
+    sr-ec: клавир
+    stq: Klavier
+    su: Piano
+    sv: piano
+    sw: Piano
+    ta: கின்னரப்பெட்டி
+    te: పియానో
+    tg: фортепиано
+    th: เปียโน
+    tl: Piyano
+    tok: ilo kalama supa pi nena walo pimeja
+    tpi: Piano
+    tr: piyano
+    udm: фортепьяно
+    ug: پىئانىنو
+    uk: фортепіано
+    ur: پیانو
+    uz: Fortepiano
+    vec: Pianoforte
+    vi: dương cầm
+    vls: Piano
+    vro: Klavvõr
+    war: Pyano
+    wuu: 钢琴
+    yi: פיאנע
+    yue: 鋼琴
+    zh: 钢琴
+    zh-cn: 钢琴
+    zh-hans: 钢琴
+    zh-hant: 鋼琴
+    zh-hk: 鋼琴
+    zh-tw: 鋼琴
+    zu: Ipiyano
 ---
-
 # [[Piano]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Piano,5994|WD~Piano,5994]] 

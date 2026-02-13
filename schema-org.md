@@ -1,5 +1,16 @@
-
-
+---
+has_id_wikidata: Q3475322
+dv_has_:
+  name_:
+    ar: سكيما.أورج
+    en: Schema.org
+    fa: اسکیما دات ارگ
+    mul: Schema.org
+aliases:
+- Schema.org
+- اسکیما دات ارگ
+- سكيما.أورج
+---
 # [[schema-org]] 
 
 #has_/url :: https://schema.org/  

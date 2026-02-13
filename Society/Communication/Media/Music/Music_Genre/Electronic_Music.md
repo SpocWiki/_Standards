@@ -1,8 +1,99 @@
 ---
 aliases:
-  - Electronic music
-  - Electronic_Music
-  - Electronic Music
+- Alektruonėnė mozėka
+- ceol leictreonach
+- cerddoriaeth electronig
+- ceòl-dealain
+- electronic muisic
+- Electronic music
+- Electronic_Music
+- Elektron musiqa
+- Elektron muzıkası
+- elektronesch Musek
+- elektronická hudba
+- Elektroniese musiek
+- elektronihkalaš musihkka
+- elektronik musiqi
+- elektronik müzik
+- elektronika muziko
+- elektronikus zene
+- elektroninen musiikki
+- elektroninė muzika
+- Elektronische meziek
+- elektronische Musik
+- elektronische muziek
+- elektronisk musik
+- elektronisk musikk
+- elektroniskā mūzika
+- elektronisâš muusik
+- elektronička glazba
+- elektronska glasba
+- Elektronska muzika
+- elektrooniline muusika
+- elektroonlaž musiikk
+- Elektroonsche Musik
+- Elektrůńiczno muzyka
+- ełetrònega
+- kiaull lectraneagh
+- Mizik elektwonik
+- Musica electronica
+- musica elettronica
+- Musik elektronik
+- Musika elektronika
+- musika elektroniko
+- musique électronique
+- muzică electronică
+- muzik elektronik
+- Muzika elektronike
+- Muziki wa kielektroniki
+- muzyka elektroniczna
+- Mùsica alittrònica
+- Mùsica eletrònica
+- música electrònica
+- música electrónica
+- música eletrónica
+- música eletrônica
+- Müsega eletroniga
+- nhạc điện tử
+- raftónlist
+- sonerezh elektronek
+- Tiān-chú im-ga̍k
+- Umculo Wohlobo Lwe-Eletronic
+- ηλεκτρονική μουσική
+- Електронічна музика
+- електронна музика
+- електронска музика
+- Мусиқии электронӣ
+- Цахилгаан хөгжим
+- электрон крезьгур
+- электрон музыкæ
+- Электрон музыка
+- Электрондук музыка
+- Электрондық музыка
+- электронная музыка
+- Ելեկտրոնային երաժշտութիւն
+- էլեկտրոնային երաժշտություն
+- מוזיקה אלקטרונית
+- עלעקטראנישע מוזיק
+- الکترونیک موسیقی
+- الیکٹرونک موسیقی
+- برقیاتی موسیقی
+- موزيک ايليکترونيک
+- موسيقى إلكترونية
+- موسيقى الكترونيه
+- موسیقی الکترونیک
+- مۆسیقای ئەلیکترۆنیک
+- ইলেকট্রনিক সঙ্গীত
+- ইলেকট্ৰনিক সংগীত
+- ਇਲੈਕਟ੍ਰਾਨਿਕ ਸੰਗੀਤ
+- மின்னணு இசை
+- ഇലക്ട്രോണിക് സംഗീതം
+- ดนตรีอิเล็กทรอนิกส์
+- ელექტრონული მუსიკა
+- 电子音乐
+- 電子音楽
+- 電子音樂
+- 전자 음악
 has_id_wikidata: Q9778
 Amazon_com_browse_node: 11974381
 Commons_category: Electronic music
@@ -21,8 +112,126 @@ subclass_of: '[[_Standards/WikiData/WD~music,115484611]]'
 subreddit: electronicmusic
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Electronica,13501008]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Electronic_music,14615763]]'
+dv_has_:
+  name_:
+    af: Elektroniese musiek
+    an: Musica electronica
+    ar: موسيقى إلكترونية
+    arz: موسيقى الكترونيه
+    as: ইলেকট্ৰনিক সংগীত
+    ast: música electrónica
+    az: elektronik musiqi
+    azb: الکترونیک موسیقی
+    ba: Электрон музыка
+    be: электронная музыка
+    be-tarask: электронная музыка
+    bg: електронна музика
+    bn: ইলেকট্রনিক সঙ্গীত
+    br: sonerezh elektronek
+    bs: Elektronska muzika
+    ca: música electrònica
+    ckb: مۆسیقای ئەلیکترۆنیک
+    crh: Elektron muzıkası
+    cs: elektronická hudba
+    cy: cerddoriaeth electronig
+    da: elektronisk musik
+    de: elektronische Musik
+    de-ch: elektronische Musik
+    el: ηλεκτρονική μουσική
+    en: electronic music
+    en-ca: electronic music
+    en-gb: electronic music
+    eo: elektronika muziko
+    es: música electrónica
+    et: elektrooniline muusika
+    eu: musika elektroniko
+    ext: música eletrónica
+    fa: موسیقی الکترونیک
+    fi: elektroninen musiikki
+    fr: musique électronique
+    frc: musique électronique
+    ga: ceol leictreonach
+    gd: ceòl-dealain
+    gl: música electrónica
+    gsw: elektronische Musik
+    gv: kiaull lectraneagh
+    he: מוזיקה אלקטרונית
+    hif: Electronic music
+    hr: elektronička glazba
+    ht: Mizik elektwonik
+    hu: elektronikus zene
+    hy: էլեկտրոնային երաժշտություն
+    hyw: Ելեկտրոնային երաժշտութիւն
+    id: Musik elektronik
+    is: raftónlist
+    it: musica elettronica
+    ja: 電子音楽
+    ka: ელექტრონული მუსიკა
+    kk: Электрондық музыка
+    kl: Electronic music
+    ko: 전자 음악
+    ky: Электрондук музыка
+    la: musica electronica
+    lb: elektronesch Musek
+    li: Elektronische meziek
+    lmo: Müsega eletroniga
+    lt: elektroninė muzika
+    lv: elektroniskā mūzika
+    mk: електронска музика
+    ml: ഇലക്ട്രോണിക് സംഗീതം
+    mn: Цахилгаан хөгжим
+    ms: muzik elektronik
+    ms-arab: موزيک ايليکترونيک
+    my: Electronic music
+    mzn: الکترونیک موسیقی
+    nan: Tiān-chú im-ga̍k
+    nb: elektronisk musikk
+    nds: Elektroonsche Musik
+    nl: elektronische muziek
+    nn: elektronisk musikk
+    oc: Musica electronica
+    os: электрон музыкæ
+    pa: ਇਲੈਕਟ੍ਰਾਨਿਕ ਸੰਗੀਤ
+    pl: muzyka elektroniczna
+    pms: Mùsica eletrònica
+    pnb: الیکٹرونک موسیقی
+    pt: música eletrônica
+    pt-br: música eletrônica
+    ro: muzică electronică
+    ru: электронная музыка
+    rue: Електронічна музика
+    scn: Mùsica alittrònica
+    sco: electronic muisic
+    se: elektronihkalaš musihkka
+    sgs: Alektruonėnė mozėka
+    sh: Elektronska muzika
+    sk: elektronická hudba
+    sl: elektronska glasba
+    smn: elektronisâš muusik
+    sms: elektroonlaž musiikk
+    sq: Muzika elektronike
+    sr: електронска музика
+    sv: elektronisk musik
+    sw: Muziki wa kielektroniki
+    szl: Elektrůńiczno muzyka
+    ta: மின்னணு இசை
+    tg: Мусиқии электронӣ
+    th: ดนตรีอิเล็กทรอนิกส์
+    tr: elektronik müzik
+    udm: электрон крезьгур
+    uk: електронна музика
+    ur: برقیاتی موسیقی
+    uz: Elektron musiqa
+    vec: ełetrònega
+    vi: nhạc điện tử
+    war: Musika elektronika
+    wuu: 电子音乐
+    yi: עלעקטראנישע מוזיק
+    yue: 電子音樂
+    zh: 電子音樂
+    zh-hant: 電子音樂
+    zu: Umculo Wohlobo Lwe-Eletronic
 ---
-
 # [[Electronic_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electronic_music,9778|WD~Electronic_music,9778]] 

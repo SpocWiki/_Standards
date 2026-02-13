@@ -1,10 +1,80 @@
 ---
 aliases:
+- fala powierzchniowa
+- Gelombang permukaan
+- Oberflächenwelle
+- Onada superficial
+- onda superficial
+- onda superficiale
+- onde de surface
+- oppervlaktegolf
+- overflatebølge
+- Overflatebølgje
+- Pinnalained
+- Pinta-aalto
+- površinski val
+- surfaca ondo
+- surface wave
+- Valë sipërfaqësore
+- virsmas viļņi
+- ytvåg
+- Yüzey dalgası
+- επιφανειακό κύμα
+- поверхностная волна
+- површински бран
+- Хвиля на поверхні
+- גלי קרקע
+- شەپۆلی ڕووکەشی
+- موج سطحی
+- موجة سطحية
+- भूम्युपरि भृण्डि
+- सतह तरंग
+- ਸਰਫੇਸ ਵੇਵ
+- ಮೇಲ್ಮೈ ತರಂಗ
+- 表面波
+- 面波
+- 표면파
 has_id_wikidata: Q889796
-subclass_of: "[[_Standards/WikiData/WD~mechanical_wave,1132631]]"
-Dewey_Decimal_Classification: "530.417"
+subclass_of: '[[_Standards/WikiData/WD~mechanical_wave,1132631]]'
+Dewey_Decimal_Classification: 530.417
+dv_has_:
+  name_:
+    ar: موجة سطحية
+    ca: Onada superficial
+    ckb: شەپۆلی ڕووکەشی
+    de: Oberflächenwelle
+    el: επιφανειακό κύμα
+    en: surface wave
+    eo: surfaca ondo
+    es: onda superficial
+    et: Pinnalained
+    fa: موج سطحی
+    fi: Pinta-aalto
+    fr: onde de surface
+    he: גלי קרקע
+    hi: सतह तरंग
+    id: Gelombang permukaan
+    it: onda superficiale
+    ja: 表面波
+    kn: ಮೇಲ್ಮೈ ತರಂಗ
+    ko: 표면파
+    lv: virsmas viļņi
+    mk: површински бран
+    nb: overflatebølge
+    nl: oppervlaktegolf
+    nn: Overflatebølgje
+    pa: ਸਰਫੇਸ ਵੇਵ
+    pl: fala powierzchniowa
+    ru: поверхностная волна
+    sa: भूम्युपरि भृण्डि
+    sl: površinski val
+    sq: Valë sipërfaqësore
+    sv: ytvåg
+    tr: Yüzey dalgası
+    uk: Хвиля на поверхні
+    yue: 表面波
+    zh: 面波
 ---
-
 # [[Surface_Wave]] 
 
 #is_/same_as :: [[../../../WikiData/WD~surface_wave,889796]] 

@@ -1,54 +1,83 @@
 ---
 aliases:
-  - Frank_Capra
-  - Frank Russell Capra
-  - Francesco Rosario Capra
-  - Capra
-  - Capra,Frank
+- Capra
+- Capra,Frank
+- Francesco Rosario Capra
+- Franciscus Capra
+- Frank Capra
+- Frank Russell Capra
+- Frank_Capra
+- Frenk Kapra
+- Frenks Kapra
+- Φρανκ Κάπρα
+- Франк Капра
+- Френк Капра
+- Фрэнк Капра
+- Ֆրենկ Կապրա
+- Ֆրենք Քափրա
+- פרנק קפרה
+- فرانك كابرا
+- فرانک کاپرا
+- فرینک کیپرا
+- ফ্রাঙ্ক ক্যাপ্রা
+- ਫਰੈਂਕ ਕਾਪਰਾ
+- பிராங்க் காப்ரா
+- ఫ్రాంక్ కాప్రా
+- ഫ്രാങ്ക് കാപ്ര
+- แฟรงก์ คาปรา
+- ფრენკ კაპრა
+- លោក Frank Capra
+- フランク・キャプラ
+- 弗兰克·卡普拉
+- 弗蘭克·卡普拉
+- 法兰克·卡普拉
+- 法蘭克·卡普拉
+- 法蘭克卡普拉
+- 프랭크 카프라
 has_id_wikidata: Q51492
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
-  - '[[_Standards/WikiData/WD~Legion_of_Merit,724443]]'
-  - '[[_Standards/WikiData/WD~Distinguished_Service_Medal,1774648]]'
-  - '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
-  - '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
-  - '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
-  - '[[_Standards/WikiData/WD~Victory_Medal,2454427]]'
-  - '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
-  - '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
-  - '[[_Standards/WikiData/WD~Honorary_Officer_of_the_Order_of_the_British_Empire,104783477]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~AFI_Life_Achievement_Award,292044]]'
+- '[[_Standards/WikiData/WD~Legion_of_Merit,724443]]'
+- '[[_Standards/WikiData/WD~Distinguished_Service_Medal,1774648]]'
+- '[[_Standards/WikiData/WD~National_Board_of_Review_Award_for_Best_Film,1789102]]'
+- '[[_Standards/WikiData/WD~World_War_II_Victory_Medal,2079534]]'
+- '[[_Standards/WikiData/WD~American_Campaign_Medal,2338107]]'
+- '[[_Standards/WikiData/WD~Victory_Medal,2454427]]'
+- '[[_Standards/WikiData/WD~Inkpot_Award,2687578]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Golden_Plate_Award,28663097]]'
+- '[[_Standards/WikiData/WD~Honorary_Officer_of_the_Order_of_the_British_Empire,104783477]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]'
-  - '[[_Standards/WikiData/WD~Manual_Arts_High_School,6752299]]'
+- '[[_Standards/WikiData/WD~California_Institute_of_Technology,161562]]'
+- '[[_Standards/WikiData/WD~Manual_Arts_High_School,6752299]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Italy,38]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Italy,172579]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Italy,38]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
 occupation:
-  - '[[_Standards/WikiData/WD~military_officer,189290]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~banjoist,9648008]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~military_personnel,47064]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~banjoist,9648008]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~military_personnel,47064]]'
 given_name: '[[_Standards/WikiData/WD~Q220546,220546]]'
 genre:
-  - '[[_Standards/WikiData/WD~screwball_comedy_film,248583]]'
-  - '[[_Standards/WikiData/WD~propaganda_film,1935609]]'
+- '[[_Standards/WikiData/WD~screwball_comedy_film,248583]]'
+- '[[_Standards/WikiData/WD~propaganda_film,1935609]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bisacquino,496914]]'
 residence:
-  - '[[_Standards/WikiData/WD~Bisacquino,496914]]'
-  - '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Bisacquino,496914]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
 place_of_death: '[[_Standards/WikiData/WD~La_Quinta,983614]]'
 child: '[[_Standards/WikiData/WD~Frank_Capra,_Jr.,1443058]]'
 military_or_police_rank: '[[_Standards/WikiData/WD~colonel,2984198]]'
@@ -58,15 +87,15 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Capra,12786688]]'
 filmography: '[[_Standards/WikiData/WD~Frank_Capra_filmography,17086325]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 spouse: '[[_Standards/WikiData/WD~Helen_Howell,108802270]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
 date_of_birth: 1897-05-18T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Italian,652]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
 cause_of_death: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
@@ -83,8 +112,97 @@ date_of_death: 1991-09-03T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Frank%20Capra.jpg
 described_at_URL: http://dbpedia.org/resource/Frank_Capra
 ISNI: 0000000122767999
+dv_has_:
+  name_:
+    an: Frank Capra
+    ar: فرانك كابرا
+    arz: فرانك كابرا
+    ast: Frank Capra
+    az: Frenk Kapra
+    be: Фрэнк Капра
+    be-tarask: Фрэнк Капра
+    bg: Франк Капра
+    bn: ফ্রাঙ্ক ক্যাপ্রা
+    bs: Frank Capra
+    ca: Frank Capra
+    cs: Frank Capra
+    cy: Frank Capra
+    da: Frank Capra
+    de: Frank Capra
+    el: Φρανκ Κάπρα
+    en: Frank Capra
+    en-ca: Frank Capra
+    en-gb: Frank Capra
+    eo: Frank Capra
+    es: Frank Capra
+    et: Frank Capra
+    eu: Frank Capra
+    fa: فرانک کاپرا
+    fi: Frank Capra
+    fr: Frank Capra
+    ga: Frank Capra
+    gl: Frank Capra
+    gv: Frank Capra
+    he: פרנק קפרה
+    hr: Frank Capra
+    hu: Frank Capra
+    hy: Ֆրենկ Կապրա
+    hyw: Ֆրենք Քափրա
+    id: Frank Capra
+    it: Frank Capra
+    ja: フランク・キャプラ
+    ka: ფრენკ კაპრა
+    kk: Фрэнк Капра
+    km: លោក Frank Capra
+    ko: 프랭크 카프라
+    la: Franciscus Capra
+    lb: Frank Capra
+    li: Frank Capra
+    lt: Frank Capra
+    lv: Frenks Kapra
+    mg: Frank Capra
+    mk: Френк Капра
+    ml: ഫ്രാങ്ക് കാപ്ര
+    mul: Frank Capra
+    nb: Frank Capra
+    nl: Frank Capra
+    nn: Frank Capra
+    oc: Frank Capra
+    pa: ਫਰੈਂਕ ਕਾਪਰਾ
+    pap: Frank Capra
+    pl: Frank Capra
+    ps: فرانک کاپرا
+    pt: Frank Capra
+    pt-br: Frank Capra
+    qu: Frank Capra
+    ro: Frank Capra
+    ru: Фрэнк Капра
+    sah: Фрэнк Капра
+    scn: Frank Capra
+    sco: Frank Capra
+    sh: Frank Capra
+    sk: Frank Capra
+    sl: Frank Capra
+    smn: Frank Capra
+    sq: Frank Capra
+    sr: Френк Капра
+    sv: Frank Capra
+    ta: பிராங்க் காப்ரா
+    te: ఫ్రాంక్ కాప్రా
+    th: แฟรงก์ คาปรา
+    tr: Frank Capra
+    uk: Френк Капра
+    ur: فرینک کیپرا
+    vi: Frank Capra
+    war: Frank Capra
+    wuu: 弗兰克·卡普拉
+    xmf: ფრენკ კაპრა
+    yue: 法蘭克卡普拉
+    zh: 法蘭克·卡普拉
+    zh-hant: 弗蘭克·卡普拉
+    zh-my: 法兰克·卡普拉
+    zh-sg: 法兰克·卡普拉
 ---
-
 # [[Capra,Frank]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Frank_Capra,51492|WD~Frank_Capra,51492]] 

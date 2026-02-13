@@ -1,40 +1,158 @@
 ---
 aliases:
-  - cyanide
-  - nitriles
+- ciainíd
+- Cianeto
+- cianid
+- cianidas
+- Cianidi
+- cianido
+- Cianur
+- cianuro
+- cianură
+- Cianīdi
+- Cijanid
+- cyanid
+- cyanide
+- Cyanider
+- Cyanidum
+- cyanure
+- cyjanek
+- Kyanid
+- nitriles
+- Sianida
+- sianied
+- Siyanid
+- Siyanuro
+- Siyanür
+- syanidi
+- Syanuro
+- Tsüaniid
+- Tsüaniidid
+- Zianuro
+- Κυανίδιο
+- ціанід
+- цијанид
+- цианид
+- Ցիանիդ
+- ציאניד
+- سيانيد
+- سیانائڈ
+- سیانور
+- सायनाइड
+- সায়ানাইড
+- சயனைடு
+- സയനൈഡ്
+- ไซยาไนด์
+- ဆိုင်ယာနိုက်
+- ციანიდი
+- ស៊ីយ៉ាញួរ
+- シアン化物
+- 山埃
+- 氰化物
+- 사이안화물
 has_id_wikidata: Q55076544
 different_from:
-  - "[[_Standards/WikiData/WD~cyanide anion,185076]]"
-  - "[[_Standards/WikiData/WD~nitrile,333936]]"
-  - "[[_Standards/WikiData/WD~cyanyl,3416481]]"
-  - "[[_Standards/WikiData/WD~cyano group,9281462]]"
-has_part_s_: "[[_Standards/WikiData/WD~cyanide anion,185076]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- '[[_Standards/WikiData/WD~cyanide_anion,185076]]'
+- '[[_Standards/WikiData/WD~nitrile,333936]]'
+- '[[_Standards/WikiData/WD~cyanyl,3416481]]'
+- '[[_Standards/WikiData/WD~cyano_group,9281462]]'
+has_part_s_: '[[_Standards/WikiData/WD~cyanide_anion,185076]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~carbon compound,2901852]]"
-  - "[[_Standards/WikiData/WD~nitrogen compound,3685323]]"
-  - "[[_Standards/WikiData/WD~salt,12370]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Cyanides,7215636]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Cyanides,25399444]]"
-instance_of: "[[_Standards/WikiData/WD~structural class of chemical entities,47154513]]"
-smells_of: "[[_Standards/WikiData/WD~bitter almond aroma,67443111]]"
-ZVG_number: "520052"
+- '[[_Standards/WikiData/WD~carbon_compound,2901852]]'
+- '[[_Standards/WikiData/WD~nitrogen_compound,3685323]]'
+- '[[_Standards/WikiData/WD~salt,12370]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cyanides,7215636]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cyanides,25399444]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+smells_of: '[[_Standards/WikiData/WD~bitter_almond_fragrance,67443111]]'
+ZVG_number: 520052
 Dewey_Decimal_Classification:
-  - "661.894"
-  - "547.044"
+- 661.894
+- 547.044
 Commons_category: Cyanides
 MeSH_tree_code:
-  - D01.248.497.158.291
-  - D01.625.400.100
+- D01.248.497.158.291
+- D01.625.400.100
 dv_is_:
-  same_as: "[[_Standards/WikiData/WD~cyanide,55076544]]"
+  same_as: '[[_Standards/WikiData/WD~cyanide,55076544]]'
 dv_has_:
   formula_:
     structural: R-C≡N
-dv_is_same_as: "[[_Standards/WikiData/WD~cyanide,55076544]]"
+  name_:
+    af: sianied
+    ar: سيانيد
+    azb: سیانور
+    bg: Цианид
+    bn: সায়ানাইড
+    bs: Cijanid
+    ca: Cianur
+    cs: kyanid
+    cv: Цианид
+    da: Cyanid
+    de: Cyanide
+    el: Κυανίδιο
+    en: cyanide
+    eo: cianido
+    es: cianuro
+    et: Tsüaniidid
+    eu: Zianuro
+    fa: سیانور
+    fi: syanidi
+    fr: cyanure
+    frr: Tsüaniid
+    ga: ciainíd
+    gl: Cianuro
+    he: ציאניד
+    hi: सायनाइड
+    hr: Cijanid
+    hu: cianid
+    hy: Ցիանիդ
+    id: Sianida
+    it: cianuro
+    ja: シアン化物
+    jv: Sianida
+    ka: ციანიდი
+    km: ស៊ីយ៉ាញួរ
+    ko: 사이안화물
+    la: Cyanidum
+    lt: cianidas
+    lv: Cianīdi
+    mg: Sianida
+    mk: цијанид
+    ml: സയനൈഡ്
+    ms: Sianida
+    my: ဆိုင်ယာနိုက်
+    nb: cyanid
+    nl: cyanide
+    nn: cyanid
+    oc: Cianur
+    pl: cyjanek
+    pt: Cianeto
+    rki: ဆိုင်ယာနိုက်
+    ro: cianură
+    ru: цианид
+    sh: Cijanid
+    sk: Kyanid
+    sl: cianid
+    sq: Cianidi
+    sr: Цијанид
+    su: Sianida
+    sv: Cyanider
+    ta: சயனைடு
+    th: ไซยาไนด์
+    tl: Siyanuro
+    tr: Siyanür
+    uk: ціанід
+    ur: سیانائڈ
+    uz: Siyanid
+    vi: cyanide
+    war: Syanuro
+    yue: 山埃
+    zh: 氰化物
+dv_is_same_as: '[[_Standards/WikiData/WD~cyanide,55076544]]'
 dv_has_formula_structural: R-C≡N
 ---
-
 # [[Cyanide]] 
 
 is_same_as = `=this.dv_is_same_as` 

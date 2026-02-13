@@ -1,4 +1,129 @@
-
+---
+has_id_wikidata: Q3378593
+dv_has_:
+  name_:
+    am: Substance dependence
+    an: drogadicción
+    ar: إدمان المخدرات
+    arz: ادمان المخدرات
+    az: narkomaniya
+    be: наркаманія
+    be-tarask: нарказалежнасьць
+    bg: Наркомания
+    bn: মাদক নির্ভরতা
+    ca: drogoaddicció
+    cs: drogová závislost
+    da: narkomani
+    de: Abhängigkeitssyndrom durch psychotrope Substanzen
+    de-ch: Abhängigkeitssyndrom durch psychotrope Substanzen
+    el: Τοξικομανία
+    en: substance dependence
+    eo: droga dependeco
+    es: drogadicción
+    et: sõltuvus
+    eu: drogomenpekotasun
+    fa: وابستگی به دارو
+    fi: huumeriippuvuus
+    fr: pharmacodépendance
+    ga: andúil i ndrugaí
+    gl: drogadicción
+    he: התמכרות לסמים
+    hif: Drug addiction
+    hr: narkomanija
+    hu: kábítószer-függőség
+    hy: թմրամոլություն
+    is: Lyfjaávani
+    it: dipendenza da sostanze
+    ja: 薬物依存症
+    ka: ნარკომანია
+    kk: нашақорлық
+    kn: ಮಾದಕ ವ್ಯಸನ
+    ky: баңгилик
+    lt: narkomanija
+    lv: narkomānija
+    mn: Эмний хамаарал
+    nb: rusmiddelavhengighet
+    nl: drugsverslaving
+    nn: rusmiddelavhengnad
+    os: Наркомани
+    pl: narkomania
+    pt: toxicodependência
+    pt-br: drogadição
+    ro: narcomanie
+    ru: наркомания
+    sh: narkomanija
+    sl: odvisnost od substance
+    so: Qabatinka daroogada
+    sq: varësia nga substancat
+    sr: наркоманија
+    sr-ec: наркоманија
+    sv: drogmissbruk
+    tl: drugadiksyon
+    tr: Madde bağımlılığı
+    uk: наркоманія
+    uz: Giyohvandlik
+    vi: phụ thuộc thuốc
+    xmf: ნარკომანია
+    yue: 物質成癮
+    zh: 物質依賴
+    zh-hant: 物質依賴
+aliases:
+- Abhängigkeitssyndrom durch psychotrope Substanzen
+- andúil i ndrugaí
+- dipendenza da sostanze
+- droga dependeco
+- drogadicción
+- drogadição
+- drogmissbruk
+- drogoaddicció
+- drogomenpekotasun
+- drogová závislost
+- Drug addiction
+- drugadiksyon
+- drugsverslaving
+- Giyohvandlik
+- huumeriippuvuus
+- kábítószer-függőség
+- Lyfjaávani
+- Madde bağımlılığı
+- narcomanie
+- narkomani
+- narkomania
+- narkomanija
+- narkomaniya
+- narkomānija
+- odvisnost od substance
+- pharmacodépendance
+- phụ thuộc thuốc
+- Qabatinka daroogada
+- rusmiddelavhengighet
+- rusmiddelavhengnad
+- substance dependence
+- sõltuvus
+- toxicodependência
+- varësia nga substancat
+- Τοξικομανία
+- баңгилик
+- нарказалежнасьць
+- наркаманія
+- наркоманія
+- Наркомани
+- наркоманија
+- наркомания
+- нашақорлық
+- Эмний хамаарал
+- թմրամոլություն
+- התמכרות לסמים
+- إدمان المخدرات
+- ادمان المخدرات
+- وابستگی به دارو
+- মাদক নির্ভরতা
+- ಮಾದಕ ವ್ಯಸನ
+- ნარკომანია
+- 物質依賴
+- 物質成癮
+- 薬物依存症
+---
 # [[Substance_Dependence]] 
 
 #is_/similar_to :: [[../../../Society/Law/Criminal_Law/Crime/Substance_Abuse|Substance_Abuse]] 

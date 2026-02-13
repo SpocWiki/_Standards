@@ -1,4 +1,127 @@
-
+---
+has_id_wikidata: Q186123
+dv_has_:
+  name_:
+    af: Francis Fukuyama
+    an: Francis Fukuyama
+    ar: فرانسيس فوكوياما
+    arz: فرانسيس فوكوياما
+    ast: Francis Fukuyama
+    az: Frensis Fukuyama
+    azb: فرانسیس فوکویاما
+    be: Фрэнсіс Фукуяма
+    be-tarask: Фрэнсіс Фукуяма
+    bg: Франсис Фукуяма
+    bs: Francis Fukuyama
+    ca: Francis Fukuyama
+    cs: Francis Fukuyama
+    cv: Фрэнсис Фукуяма
+    cy: Francis Fukuyama
+    da: Francis Fukuyama
+    dag: Francis Fukuyama
+    de: Francis Fukuyama
+    de-at: Francis Fukuyama
+    de-ch: Francis Fukuyama
+    el: Φράνσις Φουκουγιάμα
+    en: Francis Fukuyama
+    eo: Francis Fukuyama
+    es: Francis Fukuyama
+    et: Francis Fukuyama
+    eu: Francis Fukuyama
+    fa: فرانسیس فوکویاما
+    fi: Francis Fukuyama
+    fr: Francis Fukuyama
+    ga: Francis Fukuyama
+    gl: Francis Fukuyama
+    he: פרנסיס פוקויאמה
+    hi: फ़्रांसिस फ़ुकुयामा
+    hr: Francis Fukuyama
+    hu: Francis Fukuyama
+    hy: Ֆրենսիս Ֆուկույամա
+    id: Francis Fukuyama
+    ig: Francis Fukuyama
+    io: Francis Fukuyama
+    it: Francis Fukuyama
+    ja: フランシス・フクヤマ
+    jut: Francis Fukuyama
+    ka: ფრენსის ფუკუიამა
+    ko: 프랜시스 후쿠야마
+    la: Franciscus Fukuyama
+    lv: Frensiss Fukujama
+    mk: Френсис Фукујама
+    mn: Фрэнсис Фукуяма
+    mul: Francis Fukuyama
+    nan: Francis Fukuyama
+    nb: Francis Fukuyama
+    nl: Francis Fukuyama
+    nn: Francis Fukuyama
+    oc: Francis Fukuyama
+    pa: ਫ਼ਰਾਂਸਿਸ ਫ਼ੁਕੋਯਾਮਾ
+    pap: Francis Fukuyama
+    pl: Francis Fukuyama
+    pms: Francis Fukuyama
+    ps: فرانسس فوکویاما
+    pt: Francis Fukuyama
+    pt-br: Francis Fukuyama
+    ro: Francis Fukuyama
+    ru: Фрэнсис Фукуяма
+    sc: Francis Fukuyama
+    sco: Francis Fukuyama
+    sh: Francis Fukuyama
+    sje: Francis Fukuyama
+    sk: Francis Fukuyama
+    sl: Yoshihiro Francis Fukuyama
+    sq: Francis Fukuyama
+    sr: Франсис Фукујама
+    sr-ec: Франсис Фукујама
+    sr-el: Fransis Fukujama
+    sv: Francis Fukuyama
+    tg: Франсис Фукуяма
+    th: ฟรานซิส ฟุกุยะมะ
+    tr: Francis Fukuyama
+    uk: Френсіс Фукуяма
+    ur: فرانسس فوکویاما
+    uz: Francis Fukuyama
+    vi: Francis Fukuyama
+    vls: Francis Fukuyama
+    wuu: 弗朗西斯·福山
+    yue: 法蘭西斯·福山
+    zh: 法蘭西斯·福山
+    zh-cn: 弗朗西斯·福山
+    zh-hans: 法兰西斯·福山
+    zh-hant: 法蘭西斯·福山
+    zh-hk: 法蘭西斯·福山
+    zh-sg: 弗朗西斯·福山
+    zh-tw: 法蘭西斯·福山
+aliases:
+- Francis Fukuyama
+- Franciscus Fukuyama
+- Fransis Fukujama
+- Frensis Fukuyama
+- Frensiss Fukujama
+- Yoshihiro Francis Fukuyama
+- Φράνσις Φουκουγιάμα
+- Франсис Фукујама
+- Франсис Фукуяма
+- Френсіс Фукуяма
+- Френсис Фукујама
+- Фрэнсіс Фукуяма
+- Фрэнсис Фукуяма
+- Ֆրենսիս Ֆուկույամա
+- פרנסיס פוקויאמה
+- فرانسس فوکویاما
+- فرانسيس فوكوياما
+- فرانسیس فوکویاما
+- फ़्रांसिस फ़ुकुयामा
+- ਫ਼ਰਾਂਸਿਸ ਫ਼ੁਕੋਯਾਮਾ
+- ฟรานซิส ฟุกุยะมะ
+- ფრენსის ფუკუიამა
+- フランシス・フクヤマ
+- 弗朗西斯·福山
+- 法兰西斯·福山
+- 法蘭西斯·福山
+- 프랜시스 후쿠야마
+---
 #has_/time_/started :: 1952-10-27 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 

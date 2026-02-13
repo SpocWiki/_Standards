@@ -1,44 +1,216 @@
 ---
 aliases:
-  - Drusen
-  - Druze
-  - al-Muwaḥḥidūn
+- al-Muwaḥḥidūn
+- darziylar
+- Droese
+- Droza
+- Drusarar
+- Drusen
+- Druser
+- Drusere
+- Druses
+- drusi
+- druso
+- drusos
+- Druuse
+- Druusid
+- Druusiq
+- druusit
+- Druze
+- Druze Faith
+- Druzen
+- Druzes
+- Druzi
+- Druzoj
+- Druzowie
+- Druzët
+- Drużiżmu
+- Drwsiaid
+- Drúsar
+- Drúzi
+- drúzok
+- Drúzové
+- Drūzai
+- Duruzi
+- Durzî
+- Dürzilik
+- dərzilər
+- Idruzn
+- na Drúsaigh
+- Thurusi runa
+- Wadruzi
+- Wong Druzi
+- Δρούζοι
+- Дарзия
+- Друза
+- Друздар
+- Друзи
+- друзы
+- Դրուզներ
+- דרוזים
+- דרוזן
+- درزي( عقيدو)
+- دروز
+- دروزلار
+- دروزی
+- درووز
+- دەرزىيلەر
+- موحدون دروز
+- موحدين
+- द्रूस
+- দ্রুজ
+- ਡਰੂਜ਼
+- துருஸ்
+- ദ്രൂസ്
+- ดรูซ
+- ဒရူစ်လူမျိုးစု
+- დრუზები
+- დრუზეფი
+- ドゥルーズ派
+- 德魯茲派
+- 德鲁兹派
+- 드루즈인
 has_id_wikidata: Q163943
 madhhab: "[[_Standards/WikiData/WD~Isma'ilism,230386]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-flag: "[[_Standards/WikiData/WD~Druze_flag,6851218]]"
-instance_of: "[[_Standards/WikiData/WD~ethnoreligious_group,11197007]]"
-different_from: "[[_Standards/WikiData/WD~Druzism,20945640]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Druzism,20945640]]"
-part_of: "[[_Standards/WikiData/WD~Levantines,125995000]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Encyclopaedia_of_the_Qur'ān,2617708]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+flag: '[[_Standards/WikiData/WD~Druze_flag,6851218]]'
+instance_of: '[[_Standards/WikiData/WD~ethnoreligious_group,11197007]]'
+different_from: '[[_Standards/WikiData/WD~Druzism,20945640]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Druzism,20945640]]'
+part_of: '[[_Standards/WikiData/WD~Levantines,125995000]]'
 country:
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Jordan,810]]"
-  - "[[_Standards/WikiData/WD~Lebanon,822]]"
-  - "[[_Standards/WikiData/WD~Syria,858]]"
-native_language: "[[_Standards/WikiData/WD~Arabic,13955]]"
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Jordan,810]]'
+- '[[_Standards/WikiData/WD~Lebanon,822]]'
+- '[[_Standards/WikiData/WD~Syria,858]]'
+native_language: '[[_Standards/WikiData/WD~Arabic,13955]]'
 population: 1700000
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Druze%20star.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DruzeOttomanHakim.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Druze.svg
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%85%D9%88%D8%AD%D8%AF%D9%88%D9%86%20%D8%AF%D8%B1%D9%88%D8%B2.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D9%85%D9%88%D8%AD%D8%AF%D9%88%D9%86%20%D8%AF%D8%B1%D9%88%D8%B2.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9C.wav
-Dewey_Decimal_Classification: "297.85"
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D9%85%D9%88%D8%AD%D8%AF%D9%88%D9%86%20%D8%AF%D8%B1%D9%88%D8%B2.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Zinou2go-%D9%85%D9%88%D8%AD%D8%AF%D9%88%D9%86%20%D8%AF%D8%B1%D9%88%D8%B2.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Yahya-%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A7%81%E0%A6%9C.wav
+Dewey_Decimal_Classification: 297.85
 Commons_category: Druze
 Krugosvet_article_archived_: istoriya/DRUZI.html
 name_in_native_language: موحدون دروز
+dv_has_:
+  name_:
+    af: Droese
+    an: Drusos
+    ar: موحدون دروز
+    arz: موحدين
+    ast: Drusos
+    az: dərzilər
+    azb: دروزلار
+    be: Друзы
+    be-tarask: друзы
+    bg: Друзи
+    bn: দ্রুজ
+    ca: drusos
+    ckb: درووز
+    cs: Drúzové
+    cy: Drwsiaid
+    da: Drusere
+    de: Drusen
+    el: Δρούζοι
+    en: Druze Faith
+    eo: Druzoj
+    es: drusos
+    et: Druusid
+    eu: druso
+    fa: دروز
+    fi: druusit
+    fr: Druzes
+    ga: na Drúsaigh
+    gl: Drusos
+    gsw: Druuse
+    ha: Druze
+    he: דרוזים
+    hi: द्रूस
+    hr: Druzi
+    hu: drúzok
+    hy: Դրուզներ
+    id: Druze
+    is: Drúsar
+    it: drusi
+    ja: ドゥルーズ派
+    jv: Wong Druzi
+    ka: დრუზები
+    kk: Друздар
+    ko: 드루즈인
+    ku: Durzî
+    la: Druzi
+    li: Druze
+    lt: Drūzai
+    lv: druzi
+    mg: Droza
+    mk: Друзи
+    ml: ദ്രൂസ്
+    mo: Druzi
+    ms: Duruzi
+    mt: Drużiżmu
+    my: ဒရူစ်လူမျိုးစု
+    mzn: دروزی
+    nb: Drusere
+    nl: Druzen
+    nn: Drusarar
+    oc: Druses
+    pa: ਡਰੂਜ਼
+    pl: Druzowie
+    pnb: دروز
+    pt: Drusos
+    qu: Thurusi runa
+    ro: Druzi
+    ru: друзы
+    sah: Друза
+    scn: Drusi
+    sco: Druze
+    sd: درزي( عقيدو)
+    sh: Druzi
+    shi: Idruzn
+    sk: Drúzi
+    sl: Druzi
+    sq: Druzët
+    sr: Друзи
+    sr-ec: Друзи
+    sr-el: Druzi
+    sv: Druser
+    sw: Wadruzi
+    ta: துருஸ்
+    tg: Дарзия
+    th: ดรูซ
+    tr: Dürzilik
+    ug: دەرزىيلەر
+    uk: друзи
+    ur: دروز
+    uz: darziylar
+    vi: Druze
+    vro: Druusiq
+    wa: Druzes
+    war: Druze
+    wuu: 德鲁兹派
+    xmf: დრუზეფი
+    yi: דרוזן
+    yue: 德魯茲派
+    zh: 德鲁兹派
+    zh-cn: 德鲁兹派
+    zh-hans: 德鲁兹派
+    zh-hant: 德魯茲派
+    zh-hk: 德魯茲派
+    zh-sg: 德鲁兹派
+    zh-tw: 德魯茲派
 ---
-
 # [[Druze]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Druze,163943|WD~Druze,163943]] 

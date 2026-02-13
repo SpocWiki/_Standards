@@ -1,33 +1,130 @@
 ---
 aliases:
-  - compact object
-  - compact star
-  - Compact_Star
-  - Compact Star
+- Bintang padat
+- compact object
+- compact star
+- Compact_Star
+- dlúthréalta
+- estrela compacta
+- estrella compacta
+- Estrella compauta
+- gwiazda zdegenerowana
+- Izar konpaktu
+- kompakt csillag
+- kompakt objekt
+- kompakta stelo
+- Kompakte ster
+- Kompakter Stern
+- Kompakti tähti
+- kompaktna zvezda
+- kompaktná hviezda
+- kompaktní objekt
+- objet compact
+- Sao đặc
+- seren gywasgedig
+- Stea compactă
+- Stella degener
+- stella degenere
+- Sıkışık yıldız
+- Tähe jäänuk
+- συμπαγής αστέρας
+- кампактная зорка
+- Компакт биет
+- Компактлă çăлтăр
+- компактна звезда
+- компактна зоря
+- компактная звезда
+- компактно тело
+- Тыгыз йолдыз
+- כוכב קומפקטי
+- بقايا نجمية متراصة
+- ستاره فشرده
+- ดาวมวลอัดแน่น
+- ကြယ်ကြွင်း
+- კომპაქტური ვარსკვლავი
+- კომპაქტური მურიცხი
+- コンパクト星
+- 緻密星
+- 致密星
+- 밀집성
 has_id_wikidata: Q368442
-subclass_of: "[[_Standards/WikiData/WD~star,523]]"
-has_part_s_: "[[_Standards/WikiData/WD~degenerate_matter,51368]]"
+subclass_of: '[[_Standards/WikiData/WD~star,523]]'
+has_part_s_: '[[_Standards/WikiData/WD~degenerate_matter,51368]]'
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]"
-    - "[[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]]"
-    - "[[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]]"
-    - "[[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]]"
-    - "[[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]]"
-    - "[[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]]"
-    - "[[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]]"
-    - "[[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]]"
+  - '[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]'
+  - '[[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]]'
+  - '[[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]]'
+  - '[[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]]'
+  - '[[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]]'
+  - '[[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]]'
+  - '[[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]]'
+  - '[[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]"
-  - "[[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]]"
-  - "[[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]]"
-  - "[[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]]"
-  - "[[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]]"
-  - "[[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]]"
-  - "[[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]]"
-  - "[[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]]"
+- '[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]'
+- '[[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]]'
+- '[[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]]'
+- '[[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]]'
+- '[[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]]'
+- '[[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]]'
+- '[[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]]'
+- '[[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]]'
+dv_has_:
+  name_:
+    af: Kompakte ster
+    ar: بقايا نجمية متراصة
+    ast: Estrella compauta
+    be-tarask: кампактная зорка
+    ca: estrella compacta
+    cs: kompaktní objekt
+    cv: Компактлă çăлтăр
+    cy: seren gywasgedig
+    de: Kompakter Stern
+    el: συμπαγής αστέρας
+    en: compact object
+    en-ca: Compact object
+    en-gb: Compact object
+    eo: kompakta stelo
+    es: estrella compacta
+    et: Tähe jäänuk
+    eu: Izar konpaktu
+    fa: ستاره فشرده
+    fi: Kompakti tähti
+    fr: objet compact
+    ga: dlúthréalta
+    he: כוכב קומפקטי
+    hu: kompakt csillag
+    id: Bintang padat
+    it: stella degenere
+    ja: コンパクト星
+    ka: კომპაქტური ვარსკვლავი
+    ko: 밀집성
+    la: Stella degener
+    mk: компактно тело
+    mn: Компакт биет
+    my: ကြယ်ကြွင်း
+    nb: kompakt objekt
+    pl: gwiazda zdegenerowana
+    pt: estrela compacta
+    pt-br: Estrela compacta
+    ro: Stea compactă
+    ru: компактная звезда
+    si: Compact star
+    sk: kompaktná hviezda
+    sl: kompaktna zvezda
+    sr: компактна звезда
+    sr-ec: компактна звезда
+    sr-el: kompaktna zvezda
+    sv: kompakt objekt
+    th: ดาวมวลอัดแน่น
+    tr: Sıkışık yıldız
+    tt: Тыгыз йолдыз
+    uk: компактна зоря
+    vi: Sao đặc
+    xmf: კომპაქტური მურიცხი
+    yue: 緻密星
+    zh: 致密星
 ---
-
 # [[Compact_Star]] 
 
 #is_/same_as :: [[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]] 

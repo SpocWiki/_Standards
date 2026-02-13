@@ -1,19 +1,131 @@
 ---
 aliases:
-  - Eclecticism
+- chủ nghĩa chiết trung
+- Eclecticism
+- eclecticisme
+- eclecticismo
+- eclectism
+- Eclectisme
+- ecletismo
+- eclettismo
+- eicléicteachas
+- eklekticism
+- eklekticisme
+- eklekticismus
+- eklekticizam
+- eklekticizem
+- eklektika
+- eklektikismo
+- eklektinen
+- eklektisism
+- eklektisisma
+- eklektisisme
+- eklektisismm
+- eklektisizm
+- eklektitsism
+- eklektizismo
+- Eklektizismus
+- eklektizm
+- eklektizmi
+- eklektyzm
+- éclectisme
+- εκλεκτικισμός
+- еклектизам
+- еклектизм
+- Еклектика
+- еклектицизам
+- эклектизм
+- эклектызм
+- Էկլեկտիզմ
+- לקטנות
+- ئیکلێکتیزم
+- اکلئکتيزم
+- تركيبية
+- مکتب التقاطی
+- คตินิยมสรรผสาน
+- ეკლექტიკა
+- 折衷主义
+- 折衷主義
+- 절충주의
 has_id_wikidata: Q192068
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 instance_of: '[[_Standards/WikiData/WD~art_movement,968159]]'
 Dewey_Decimal_Classification: 148
 P8189: 987007539359505171
 Commons_category: Eclectic art
+dv_has_:
+  name_:
+    ar: تركيبية
+    az: eklektizm
+    azb: اکلئکتيزم
+    be: эклектызм
+    be-tarask: эклектызм
+    bg: Еклектика
+    ca: eclecticisme
+    ckb: ئیکلێکتیزم
+    cs: eklekticismus
+    da: eklekticisme
+    de: Eklektizismus
+    el: εκλεκτικισμός
+    en: eclecticism
+    eo: eklektikismo
+    es: eclecticismo
+    et: eklektitsism
+    eu: eklektizismo
+    fa: مکتب التقاطی
+    fi: eklektinen
+    fr: éclectisme
+    fy: Eklektisisme
+    ga: eicléicteachas
+    gl: eclecticismo
+    he: לקטנות
+    hr: eklekticizam
+    hu: eklektika
+    hy: Էկլեկտիզմ
+    id: eklektisisme
+    it: eclettismo
+    ja: 折衷主義
+    ka: ეკლექტიკა
+    ko: 절충주의
+    ky: Эклектизм
+    lb: Eklektizismus
+    li: Eclectisme
+    mk: еклектизам
+    nb: eklektisisme
+    nl: eclecticisme
+    nn: eklektisisme
+    pl: eklektyzm
+    pt: ecletismo
+    ro: eclectism
+    ru: эклектизм
+    se: eklektisisma
+    sh: eklekticizam
+    sl: eklekticizem
+    smn: eklektisism
+    sms: eklektisismm
+    sq: eklektizmi
+    sr: еклектицизам
+    sr-ec: Еклектицизам
+    sr-el: eklekticizam
+    sv: eklekticism
+    th: คตินิยมสรรผสาน
+    tr: eklektisizm
+    uk: еклектизм
+    uz: eklektizm
+    vi: chủ nghĩa chiết trung
+    zh: 折衷主義
+    zh-cn: 折衷主义
+    zh-hans: 折衷主义
+    zh-hant: 折衷主義
+    zh-hk: 折衷主義
+    zh-sg: 折衷主义
+    zh-tw: 折衷主義
 ---
-
 # [[Eclecticism]] 
 
 #is_/similar_to :: [[Syncretism]] 

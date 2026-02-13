@@ -1,33 +1,127 @@
 ---
 aliases:
-  - Akkadian
-  - 𒀝𒅗𒁺𒌑𒌝
-  - 𒀝𒅗𒁺𒌑
-  - Akkadûm
-  - Akkadû
+- acad
+- Acadeg
+- acadio
+- accadi
+- accadico
+- accadu
+- acádio
+- akada lingvo
+- Akadapük
+- Akadera
+- akadi keel
+- Akadianu
+- akadiešu valoda
+- Akadki
+- Akadski jezik
+- Akadyano
+- akadščina
+- akadų kalba
+- Akkad dili
+- Akkad tili
+- Akkadca
+- akkadeg
+- akkadi
+- Akkadi kiil
+- Akkadian
+- Akkadian bhasa
+- akkadien
+- Akkadies
+- Akkadisch
+- akkadisk
+- Akkadisk spriak
+- akkadiska
+- Akkadiyaan
+- akkadkielâ
+- Akkadysk
+- Akkadíska
+- Akkadû
+- Akkadûm
+- akkadčina
+- akkadština
+- akkád
+- an Acáidis
+- bahasa Akkadia
+- Fiteny akadiana
+- Gjuha Akadiane
+- Idioma acadio
+- idioma acadiu
+- język akadyjski
+- limba akkadiană
+- lingua acadia
+- lingua Accadica
+- Reo Akara
+- tiếng Akkad
+- Usem Akat
+- Wikang Akkadiano
+- zimanê akadî
+- Ακκαδική γλώσσα
+- акадзкая мова
+- акадская мова
+- Акадски јазик
+- акадски језик
+- Акадски език
+- аккад бызшәа
+- Аккад тілі
+- аккад теле
+- Аккад тили
+- Аккад чĕлхи
+- Аккадийн мотт
+- аккадский язык
+- аккадська мова
+- Ангилал:Аккад хэл
+- աքքադերեն
+- אכדית
+- اكديه (لغه)
+- الأكدية
+- اکادی
+- اکدي ژبه
+- اکدی
+- زبان اکدی
+- زمانی ئەکەدی
+- لأكادية
+- ܠܫܢܐ ܐܟܕܝܐ
+- अक्कादी भाषा
+- আক্কাদীয় ভাষা
+- ਅੱਕਾਦੀ
+- அக்காதியம்
+- ಅಕ್ಕೇಡಿಯನ್ ಭಾಷೆ
+- അക്കാദിയൻ ഭാഷ
+- ภาษาแอกแคด
+- აქადური ენა
+- აქადური ნინა
+- አካድኛ
+- アッカド語
+- 阿卡德文
+- 阿卡德語
+- 阿卡德语
+- 아카드어
+- "\U0001201D\U00012157\U0001207A\U00012311"
+- "\U0001201D\U00012157\U0001207A\U00012311\U0001231D"
 has_id_wikidata: Q35518
 subclass_of:
-  - "[[_Standards/WikiData/WD~East_Semitic,164273]]"
-  - "[[_Standards/WikiData/WD~Semitic,34049]]"
+- '[[_Standards/WikiData/WD~East_Semitic,164273]]'
+- '[[_Standards/WikiData/WD~Semitic,34049]]'
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-  - "[[_Standards/WikiData/WD~subject_object_verb,539808]]"
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ancient_language,436240]]"
-  - "[[_Standards/WikiData/WD~dead_language,45762]]"
+- '[[_Standards/WikiData/WD~ancient_language,436240]]'
+- '[[_Standards/WikiData/WD~dead_language,45762]]'
 country:
-  - "[[_Standards/WikiData/WD~Akkadian_Empire,4461035]]"
-  - "[[_Standards/WikiData/WD~Assyrian_Empire,41137]]"
-  - "[[_Standards/WikiData/WD~Babylonia,47690]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q104413788,104413788]]"
+- '[[_Standards/WikiData/WD~Akkadian_Empire,4461035]]'
+- '[[_Standards/WikiData/WD~Assyrian_Empire,41137]]'
+- '[[_Standards/WikiData/WD~Babylonia,47690]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q104413788,104413788]]'
 start_time: -2600-01-01T00:00:00Z
 number_of_speakers_writers_or_signers: 0
 POSIX_locale_identifier: akk
 IETF_language_tag: akk
 ISO_639_3_code: akk
 ISO_639_2_code: akk
-Dewey_Decimal_Classification: "492.1"
+Dewey_Decimal_Classification: 492.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/P1050578%20Louvre%20Ob%C3%A9lisque%20de%20Manishtusu%20d%C3%A9tail%20rwk.JPG
 exact_match: http://publications.europa.eu/resource/authority/language/AKK
 Glottolog_code: akka1240
@@ -35,15 +129,126 @@ Commons_category: Akkadian language
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/AKKADSKI_YAZIK.html
 GOST_7_75_97_code: акк 028
 native_label:
-  - 𒀝 𒅗 𒁺 𒌑
-  - lišānum akkadītum
+- "\U0001201D \U00012157 \U0001207A \U00012311"
+- lišānum akkadītum
 short_name:
-  - akkadca
-  - аккадӣ
+- akkadca
+- аккадӣ
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Empire%20akkad.svg
 end_time: -0269-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ab: аккад бызшәа
+    af: Akkadies
+    am: አካድኛ
+    an: Idioma acadio
+    ann: Usem Akat
+    ar: الأكدية
+    arc: ܠܫܢܐ ܐܟܕܝܐ
+    ary: لأكادية
+    arz: اكديه (لغه)
+    ast: idioma acadiu
+    az: Akkad dili
+    ba: аккад теле
+    bar: Akkadisch
+    be: акадская мова
+    be-tarask: акадзкая мова
+    bg: Акадски език
+    bn: আক্কাদীয় ভাষা
+    br: akkadeg
+    ca: accadi
+    ce: Аккадийн мотт
+    ckb: زمانی ئەکەدی
+    cs: akkadština
+    cv: Аккад чĕлхи
+    cy: Acadeg
+    da: akkadisk
+    de: Akkadisch
+    diq: Akadki
+    el: Ακκαδική γλώσσα
+    en: Akkadian
+    en-gb: Akkadian
+    eo: akada lingvo
+    es: acadio
+    et: akadi keel
+    eu: Akadera
+    fa: زبان اکدی
+    fi: akkadi
+    fr: akkadien
+    frr: Akkadisk spriak
+    fy: Akkadysk
+    ga: an Acáidis
+    gl: lingua acadia
+    he: אכדית
+    hi: अक्कादी भाषा
+    hif: Akkadian bhasa
+    hr: Akadski jezik
+    hu: akkád
+    hy: աքքադերեն
+    id: bahasa Akkadia
+    is: Akkadíska
+    it: accadico
+    ja: アッカド語
+    ka: აქადური ენა
+    kk: Аккад тілі
+    kn: ಅಕ್ಕೇಡಿಯನ್ ಭಾಷೆ
+    ko: 아카드어
+    ku: zimanê akadî
+    ku-latn: zimanê akadî
+    ky: Аккад тили
+    la: lingua Accadica
+    lfn: acad
+    li: Akkadisch
+    lt: akadų kalba
+    lv: akadiešu valoda
+    mg: Fiteny akadiana
+    mi: Reo Akara
+    mk: Акадски јазик
+    ml: അക്കാദിയൻ ഭാഷ
+    mn: Ангилал:Аккад хэл
+    ms: Bahasa Akkadia
+    nb: Akkadisk
+    ne: अक्कादी भाषा
+    nl: Akkadisch
+    nn: Akkadisk
+    oc: Akkadian
+    pa: ਅੱਕਾਦੀ
+    pl: język akadyjski
+    pnb: اکادی
+    ps: اکدي ژبه
+    pt: acádio
+    ro: limba akkadiană
+    ru: аккадский язык
+    scn: accadu
+    sco: Akkadian
+    sh: akadski jezik
+    sk: akkadčina
+    sl: akadščina
+    smn: akkadkielâ
+    so: Akkadiyaan
+    sq: Gjuha Akadiane
+    sr: акадски језик
+    sv: akkadiska
+    ta: அக்காதியம்
+    th: ภาษาแอกแคด
+    tl: Wikang Akkadiano
+    tr: Akkadca
+    tt: Аккад теле
+    uk: аккадська мова
+    ur: اکدی
+    uz: Akkad tili
+    vi: tiếng Akkad
+    vo: Akadapük
+    vro: Akkadi kiil
+    war: Akadyano
+    wuu: 阿卡德语
+    xmf: აქადური ნინა
+    yo: Akadianu
+    yue: 阿卡德文
+    zh: 阿卡德語
+    zh-hans: 阿卡德语
+    zh-hant: 阿卡德語
 ---
-
 # [[Lang-akk]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Akkadian,35518|WD~Akkadian,35518]]

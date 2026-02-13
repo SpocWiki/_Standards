@@ -1,41 +1,64 @@
 ---
 aliases:
-  - Vincente Minnelli
-  - Vincente_Minnelli
-  - Lester Anthony Minnelli
-  - Minnelli,Vincente
+- Lester Anthony Minnelli
+- Minnelli,Vincente
+- Vincente Minelli
+- Vincente Minnelli
+- Vincente_Minnelli
+- Vinsente Minelli
+- Βινσέντε Μιννέλλι
+- Вінсент Мінелі
+- Вінсент Міннеллі
+- Вінсэнт Мінэлі
+- Винсент Минели
+- Винсент Миннелли
+- Винсънт Минели
+- Վինսենթ Մինելլի
+- וינסנט מינלי
+- فنسنت مينيلي
+- ونسنٹ مینئلی
+- وینسنت مینلی
+- ڤينسينت مينيلى
+- ভিনসেন্ট মিনেলি
+- ვინსენტ მინელი
+- ヴィンセント・ミネリ
+- 文森特·明内利
+- 文生·明尼里
+- 雲仙·明里尼
+- 雲仙明里尼
+- 빈센트 미넬리
 has_id_wikidata: Q51535
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Director,586356]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 place_of_death: '[[_Standards/WikiData/WD~Beverly_Hills,127856]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
-  - '[[_Standards/WikiData/WD~pneumonia,12192]]'
+- '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
+- '[[_Standards/WikiData/WD~pneumonia,12192]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Some_Came_Running,377923]]'
-  - '[[_Standards/WikiData/WD~Tea_and_Sympathy,491341]]'
-  - '[[_Standards/WikiData/WD~Brigadoon,636534]]'
-  - '[[_Standards/WikiData/WD~Madame_Bovary,742219]]'
-  - '[[_Standards/WikiData/WD~An_American_in_Paris,747570]]'
-  - '[[_Standards/WikiData/WD~The_Pirate,960349]]'
-  - '[[_Standards/WikiData/WD~Meet_Me_in_St._Louis,1066873]]'
-  - '[[_Standards/WikiData/WD~Home_from_the_Hill,1167736]]'
-  - '[[_Standards/WikiData/WD~Four_Horsemen_of_the_Apocalypse,1219828]]'
-  - '[[_Standards/WikiData/WD~The_Bad_and_the_Beautiful,1345583]]'
-  - '[[_Standards/WikiData/WD~Lust_for_Life,1423854]]'
-  - '[[_Standards/WikiData/WD~The_Band_Wagon,1508130]]'
-  - '[[_Standards/WikiData/WD~Designing_Woman,2119500]]'
-  - '[[_Standards/WikiData/WD~Two_Weeks_in_Another_Town,59240]]'
+- '[[_Standards/WikiData/WD~Some_Came_Running,377923]]'
+- '[[_Standards/WikiData/WD~Tea_and_Sympathy,491341]]'
+- '[[_Standards/WikiData/WD~Brigadoon,636534]]'
+- '[[_Standards/WikiData/WD~Madame_Bovary,742219]]'
+- '[[_Standards/WikiData/WD~An_American_in_Paris,747570]]'
+- '[[_Standards/WikiData/WD~The_Pirate,960349]]'
+- '[[_Standards/WikiData/WD~Meet_Me_in_St._Louis,1066873]]'
+- '[[_Standards/WikiData/WD~Home_from_the_Hill,1167736]]'
+- '[[_Standards/WikiData/WD~Four_Horsemen_of_the_Apocalypse,1219828]]'
+- '[[_Standards/WikiData/WD~The_Bad_and_the_Beautiful,1345583]]'
+- '[[_Standards/WikiData/WD~Lust_for_Life,1423854]]'
+- '[[_Standards/WikiData/WD~The_Band_Wagon,1508130]]'
+- '[[_Standards/WikiData/WD~Designing_Woman,2119500]]'
+- '[[_Standards/WikiData/WD~Two_Weeks_in_Another_Town,59240]]'
 occupation:
-  - '[[_Standards/WikiData/WD~costume_designer,1323191]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~costume_designer,1323191]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
@@ -47,10 +70,10 @@ copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copy
 father: '[[_Standards/WikiData/WD~Vincent_Charles_Minnelli,107323963]]'
 mother: '[[_Standards/WikiData/WD~Marie_Émilie_Odile_Lebeau,107324014]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Georgette_Magnani,108293860]]'
-  - '[[_Standards/WikiData/WD~Denise_Hale,108293871]]'
-  - '[[_Standards/WikiData/WD~Lee_Anderson,108293909]]'
-  - '[[_Standards/WikiData/WD~Judy_Garland,11637]]'
+- '[[_Standards/WikiData/WD~Georgette_Magnani,108293860]]'
+- '[[_Standards/WikiData/WD~Denise_Hale,108293871]]'
+- '[[_Standards/WikiData/WD~Lee_Anderson,108293909]]'
+- '[[_Standards/WikiData/WD~Judy_Garland,11637]]'
 place_of_birth: '[[_Standards/WikiData/WD~Chicago,1297]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition: "[[_Standards/WikiData/WD~Alzheimer's_disease,11081]]"
@@ -65,8 +88,80 @@ ISNI: 0000000080960714
 birth_name: Lester Anthony Minnelli
 name_in_native_language: Vincente Minnelli
 date_of_birth: 1903-02-28T00:00:00Z
+dv_has_:
+  name_:
+    af: Vincente Minnelli
+    an: Vincente Minnelli
+    ar: فنسنت مينيلي
+    arz: ڤينسينت مينيلى
+    ast: Vincente Minnelli
+    be: Вінсент Мінелі
+    be-tarask: Вінсэнт Мінэлі
+    bg: Винсънт Минели
+    bn: ভিনসেন্ট মিনেলি
+    ca: Vincente Minnelli
+    cs: Vincente Minnelli
+    cy: Vincente Minnelli
+    da: Vincente Minnelli
+    de: Vincente Minnelli
+    de-ch: Vincente Minnelli
+    el: Βινσέντε Μιννέλλι
+    en: Vincente Minnelli
+    en-ca: Vincente Minnelli
+    en-gb: Vincente Minnelli
+    eo: Vincente Minnelli
+    es: Vincente Minnelli
+    eu: Vincente Minnelli
+    fa: وینسنت مینلی
+    fi: Vincente Minnelli
+    fr: Vincente Minnelli
+    ga: Vincente Minnelli
+    gl: Vincente Minnelli
+    he: וינסנט מינלי
+    hr: Vincente Minnelli
+    ht: Vincente Minnelli
+    hu: Vincente Minnelli
+    hy: Վինսենթ Մինելլի
+    id: Vincente Minnelli
+    io: Vincente Minnelli
+    it: Vincente Minnelli
+    ja: ヴィンセント・ミネリ
+    ka: ვინსენტ მინელი
+    kk: Винсент Миннелли
+    ko: 빈센트 미넬리
+    lb: Vincente Minnelli
+    li: Vincente Minnelli
+    lt: Vincente Minnelli
+    lv: Vinsente Minelli
+    mg: Vincente Minnelli
+    mk: Винсент Минели
+    mul: Vincente Minnelli
+    nb: Vincente Minnelli
+    nl: Vincente Minnelli
+    nn: Vincente Minnelli
+    oc: Vincente Minnelli
+    pap: Vincente Minnelli
+    pl: Vincente Minnelli
+    pt: Vincente Minnelli
+    pt-br: Vincente Minnelli
+    ro: Vincente Minnelli
+    ru: Винсент Миннелли
+    sh: Vincente Minelli
+    sl: Vincente Minnelli
+    sq: Vincente Minnelli
+    sr: Винсент Минели
+    sv: Vincente Minnelli
+    tr: Vincente Minnelli
+    uk: Вінсент Міннеллі
+    ur: ونسنٹ مینئلی
+    vo: Vincente Minnelli
+    xmf: ვინსენტ მინელი
+    yue: 雲仙明里尼
+    zh: 文森特·明内利
+    zh-hk: 雲仙·明里尼
+    zh-my: 文生·明尼里
+    zh-sg: 文生·明尼里
 ---
-
 # [[Minnelli,Vincente]] 
 
 #is_/parent_of :: [[../Actor/US_Actor/Minnelli,Liza|Liza_Minnelli]] 

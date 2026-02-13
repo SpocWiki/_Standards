@@ -1,12 +1,40 @@
 ---
 aliases:
-  - Ministry of Truth
-  - Ministry of Peace
-  - Ministry of Love
-  - Ministry of Plenty
-  - Ministry_of_Truth
+- Bin Dokuz Yüz Seksen Dört Bakanlıkları
+- Ministeri dell'Oceania
+- ministerio de Oceanio
+- Ministerios de 1984
+- Ministerium von Ozeanien
+- ministerul Oceaniei
+- ministrstvo Oceanije
+- Ministry of Love
+- ministry of Oceania
+- Ministry of Peace
+- Ministry of Plenty
+- Ministry of Truth
+- Ministry_of_Truth
+- ministère d'Oceania
+- Міністерства в тисяча дев'ятсот вісімдесят четвертому
+- министерства из 1984
+- وزارتخانههای رمان ۱۹۸۴
+- 大洋国政府部门
+has_id_wikidata: Q20736226
+dv_has_:
+  name_:
+    de: Ministerium von Ozeanien
+    en: ministry of Oceania
+    eo: ministerio de Oceanio
+    es: Ministerios de 1984
+    fa: وزارتخانههای رمان ۱۹۸۴
+    fr: ministère d'Oceania
+    it: Ministeri dell'Oceania
+    ro: ministerul Oceaniei
+    ru: министерства из 1984
+    sl: ministrstvo Oceanije
+    tr: Bin Dokuz Yüz Seksen Dört Bakanlıkları
+    uk: Міністерства в тисяча дев'ятсот вісімдесят четвертому
+    zh: 大洋国政府部门
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Ministry of Truth**, the Ministry of Peace, the Ministry of Love, and the Ministry of Plenty 

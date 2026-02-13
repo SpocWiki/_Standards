@@ -1,4 +1,126 @@
-
+---
+has_id_wikidata: Q334631
+dv_has_:
+  name_:
+    ar: طاقة غيبس الحرة
+    ast: Enerxía de Gibbs
+    az: Gibbs enerjisi
+    be-tarask: энэргія Гібса
+    bg: Свободна енергия на Гибс
+    bn: গিবস মুক্ত শক্তি
+    bs: Gibbsova slobodna energija
+    ca: Energia de Gibbs
+    ckb: وزەی ڕەھای گیبس
+    cs: Gibbsova volná energie
+    da: Gibbs fri energi
+    de: Gibbs-Energie
+    el: Ελεύθερη ενέργεια Γκιμπς
+    en: Gibbs free energy
+    eo: libera energio
+    es: energía de Gibbs
+    et: Gibbsi vabaenergia
+    eu: Gibbs-en energia aske
+    fa: انرژی آزاد گیبس
+    fi: Gibbsin energia
+    fr: enthalpie libre
+    ga: saorfhuinneamh Gibbs
+    gl: Enerxía libre de Gibbs
+    he: אנרגיה חופשית של גיבס
+    hi: गिब्स मुक्त ऊर्जा
+    hr: Gibbsova slobodna energija
+    hu: szabadentalpia
+    hy: Գիբսի էներգիա
+    id: Energi bebas Gibbs
+    it: energia libera di Gibbs
+    ja: ギブズエネルギー
+    kk: Гиббс потенциалы
+    ko: 기브스 자유 에너지
+    ky: Гибсс энергиясы
+    lt: Gibso laisvoji energija
+    mk: Гибсова енергија
+    ml: ഗിബ്സ് ഫ്രീ എനർജി
+    ms: Tenaga bebas Gibbs
+    nb: Gibbs fri energi
+    nl: Vrije energie
+    pl: entalpia swobodna
+    pt: Energia livre de Gibbs
+    ro: entalpie liberă
+    ru: энергия Гиббса
+    sh: Gibsova slobodna energija
+    si: ගිබ්ස් ශක්තිය
+    sk: Gibbsova voľná energia
+    sl: Gibbsova prosta energija
+    sr: Gibsova slobodna energija
+    sv: Gibbs fria energi
+    ta: கிப்சின் ஆற்றல்
+    th: พลังงานเสรีของกิ๊บส์
+    tr: Gibbs Serbest Enerjisi
+    uk: Вільна енергія Гіббса
+    vi: Năng lượng tự do Gibbs
+    yue: 吉布士自由能
+    zh: 吉布斯自由能
+    zh-cn: 吉布斯自由能
+    zh-hans: 吉布斯自由能
+    zh-hant: 吉布斯自由能
+    zh-hk: 吉布士自由能
+    zh-sg: 吉布斯自由能
+    zh-tw: 吉布士自由能
+aliases:
+- Energi bebas Gibbs
+- Energia de Gibbs
+- energia libera di Gibbs
+- Energia livre de Gibbs
+- energía de Gibbs
+- Enerxía de Gibbs
+- Enerxía libre de Gibbs
+- entalpia swobodna
+- entalpie liberă
+- enthalpie libre
+- Gibbs enerjisi
+- Gibbs free energy
+- Gibbs fri energi
+- Gibbs fria energi
+- Gibbs Serbest Enerjisi
+- Gibbs-en energia aske
+- Gibbs-Energie
+- Gibbsi vabaenergia
+- Gibbsin energia
+- Gibbsova prosta energija
+- Gibbsova slobodna energija
+- Gibbsova volná energie
+- Gibbsova voľná energia
+- Gibso laisvoji energija
+- Gibsova slobodna energija
+- libera energio
+- Năng lượng tự do Gibbs
+- saorfhuinneamh Gibbs
+- szabadentalpia
+- Tenaga bebas Gibbs
+- Vrije energie
+- Ελεύθερη ενέργεια Γκιμπς
+- Вільна енергія Гіббса
+- Гиббс потенциалы
+- Гибсова енергија
+- Гибсс энергиясы
+- Свободна енергия на Гибс
+- энергия Гиббса
+- энэргія Гібса
+- Գիբսի էներգիա
+- אנרגיה חופשית של גיבס
+- انرژی آزاد گیبس
+- طاقة غيبس الحرة
+- وزەی ڕەھای گیبس
+- गिब्स मुक्त ऊर्जा
+- গিবস মুক্ত শক্তি
+- கிப்சின் ஆற்றல்
+- ഗിബ്സ് ഫ്രീ എനർജി
+- ගිබ්ස් ශක්තිය
+- พลังงานเสรีของกิ๊บส์
+- ギブズエネルギー
+- 吉布士自由能
+- 吉布斯自由能
+- 기브스 자유 에너지
+---
 # [[Gibbs_free_Energy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Gibbs_free_energy,334631|WD~Gibbs_free_energy,334631]] 

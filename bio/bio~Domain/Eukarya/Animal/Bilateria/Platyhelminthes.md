@@ -1,9 +1,221 @@
 ---
 aliases:
-  - Platyhelminthes
+- Cacing pipih
+- Chʼoshtʼą́hí
+- Fladorme
+- flatmakkar
+- flatormer
+- giun dẹp
+- kurmên pan
+- laakamadot
+- Lameussid
+- laposférgek
+- leithphéisteanna
+- Llyngyren ledog
+- Mnyoo-bapa
+- Pahnkirmho
+- Pampa kuru
+- Plakantārpi
+- Platelminto
+- Platelmintos
+- platihelmint
+- Platihelminto
+- Platihelmintos
+- plattmaskar
+- Plattwierm
+- Plattwörmer
+- Plattwürmer
+- Platvermoj
+- Platwirmer
+- platwormen
+- Platwörm
+- Platyhelminthes
+- Pljosnati crvi
+- Plokščiosios kirmėlės
+- Ploskavce
+- ploski črvi
+- Plošnjaci
+- ploštěnci
+- płazińce
+- Raammoo Battee
+- Ulod nga patag
+- Yassı solucanlar
+- Yastı qurdlar
+- Πλατυέλμινθες
+- Жалпак курттар
+- Жалпақ құрттар
+- пљоснати црви
+- Паҳнкирмҳо
+- плоскі черви
+- плоскія чэрві
+- Плоски червеи
+- плоские черви
+- Сплескани црви
+- Яҫы селәүсендәр
+- տափակ որդեր
+- תולעים שטוחות
+- ديدان مسطحة
+- ديدان مسطحه
+- پدھرے جنور
+- چپٽا ڪيڙا
+- کرمهای پهن
+- یاستی قۇردلار
+- पट्टकृमि
+- চেপেটা কৃমি
+- চ্যাপ্টাকৃমি
+- தட்டைப் புழு
+- ప్లాటీహెల్మింథిస్
+- ಚಪ್ಪಟೆ ಹುಳುಗಳು
+- പ്ലാറ്റിഹെൽമിന്തസ്
+- หนอนตัวแบน
+- ბრტყელი ჭიები
+- ጥፍጥፍ ትል
+- 扁形动物门
+- 扁形動物
+- 扁形動物門
+- 편형동물문
 title: Platyhelminthes
+has_id_wikidata: Q124900
+dv_has_:
+  name_:
+    af: Platyhelminthes
+    am: ጥፍጥፍ ትል
+    an: Platyhelminthes
+    ar: ديدان مسطحة
+    arz: ديدان مسطحه
+    as: চেপেটা কৃমি
+    ast: Platyhelminthes
+    az: Yastı qurdlar
+    azb: یاستی قۇردلار
+    ba: Яҫы селәүсендәр
+    bar: Platyhelminthes
+    be: плоскія чэрві
+    bg: Плоски червеи
+    bn: চ্যাপ্টাকৃমি
+    br: Platyhelminthes
+    bs: Pljosnati crvi
+    ca: platihelmint
+    ceb: Ulod nga patag
+    co: Platyhelminthes
+    cs: ploštěnci
+    cy: Llyngyren ledog
+    da: Fladorme
+    de: Plattwürmer
+    de-at: Platyhelminthes
+    de-ch: Platyhelminthes
+    el: Πλατυέλμινθες
+    en: Platyhelminthes
+    en-ca: Platyhelminthes
+    en-gb: Platyhelminthes
+    eo: Platvermoj
+    es: Platyhelminthes
+    et: Lameussid
+    eu: Platelminto
+    ext: Platyhelminthes
+    fa: کرمهای پهن
+    fi: laakamadot
+    fr: Platyhelminthes
+    frp: Platyhelminthes
+    frr: Platwirmer
+    fur: Platyhelminthes
+    ga: leithphéisteanna
+    gd: Platyhelminthes
+    gl: Platihelmintos
+    gsw: Platyhelminthes
+    he: תולעים שטוחות
+    hi: पट्टकृमि
+    hr: Plošnjaci
+    hu: laposférgek
+    hy: տափակ որդեր
+    ia: Platyhelminthes
+    id: Platyhelminthes
+    ie: Platyhelminthes
+    io: Platyhelminthes
+    is: Platyhelminthes
+    it: Platyhelminthes
+    ja: 扁形動物
+    jv: Platyhelminthes
+    ka: ბრტყელი ჭიები
+    kg: Platyhelminthes
+    kk: Жалпақ құрттар
+    kn: ಚಪ್ಪಟೆ ಹುಳುಗಳು
+    ko: 편형동물문
+    ku-latn: kurmên pan
+    ky: Жалпак курттар
+    la: Platyhelminthes
+    lb: Plattwierm
+    lfn: Platihelminto
+    li: Platwörm
+    lij: Platyhelminthes
+    lt: Plokščiosios kirmėlės
+    lv: Plakantārpi
+    mg: Platyhelminthes
+    min: Platyhelminthes
+    mk: Сплескани црви
+    ml: പ്ലാറ്റിഹെൽമിന്തസ്
+    ms: Cacing pipih
+    mul: Platyhelminthes
+    nap: Platyhelminthes
+    nb: flatormer
+    nds: Plattwörmer
+    nds-nl: Platyhelminthes
+    nl: platwormen
+    nn: flatmakkar
+    nrm: Platyhelminthes
+    nv: Chʼoshtʼą́hí
+    nys: Platyhelminthes
+    oc: Platyhelminthes
+    om: Raammoo Battee
+    pcd: Platyhelminthes
+    pl: płazińce
+    pms: Platyhelminthes
+    pnb: پدھرے جنور
+    pt: Platelmintos
+    pt-br: Platyhelminthes
+    qu: Pampa kuru
+    rm: Platyhelminthes
+    ro: Platyhelminthes
+    ru: плоские черви
+    sc: Platyhelminthes
+    scn: Platyhelminthes
+    sco: Platyhelminthes
+    sd: چپٽا ڪيڙا
+    sh: Pljosnati crvi
+    sk: Ploskavce
+    sl: ploski črvi
+    sq: Platyhelminthes
+    sr: пљоснати црви
+    sr-ec: Пљоснати црви
+    sr-el: Pljosnati crvi
+    su: Platyhelminthes
+    sv: plattmaskar
+    sw: Mnyoo-bapa
+    ta: தட்டைப் புழு
+    te: ప్లాటీహెల్మింథిస్
+    tg: Паҳнкирмҳо
+    tg-latn: Pahnkirmho
+    th: หนอนตัวแบน
+    tl: Platyhelminthes
+    tr: Yassı solucanlar
+    uk: плоскі черви
+    vec: Platyhelminthes
+    vi: giun dẹp
+    vls: Platyhelminthes
+    vo: Platyhelminthes
+    wa: Platyhelminthes
+    war: Platyhelminthes
+    wo: Platyhelminthes
+    wuu: 扁形动物门
+    yue: 扁形動物門
+    zh: 扁形动物门
+    zh-cn: 扁形动物门
+    zh-hans: 扁形动物门
+    zh-hant: 扁形動物門
+    zh-hk: 扁形動物門
+    zh-sg: 扁形动物门
+    zh-tw: 扁形動物門
+    zu: Platyhelminthes
 ---
-
 # [[Platyhelminthes]] 
 
 Flatworms, tapeworms, flukes 

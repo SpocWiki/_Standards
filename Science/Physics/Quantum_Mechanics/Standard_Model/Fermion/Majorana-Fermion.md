@@ -1,9 +1,71 @@
 ---
 aliases:
-  - Majorana particle
-  - Majorana-Fermion
+- feirmíón Majorana
+- fermion Majorana
+- fermion Majorany
+- Fermione di Majorana
+- fermiono de Majorana
+- fermió de Majorana
+- Fermión de Majorana
+- Firmiuni di Majurana
+- férmion de Majorana
+- Majorana fermion
+- Majorana particle
+- Majorana-deeltje
+- Majorana-dieltsje
+- Majorana-Fermion
+- Majoranov fermion
+- Majoranovský fermión
+- Majoranův fermion
+- particule de Majorana
+- partícula de Majorana
+- Мајоранин фермион
+- майорановский фермион
+- ферміон Майорани
+- فرمیون مایورانا
+- मायोराना फर्मीऑन
+- マヨラナ粒子
+- 馬約拉納費米子
+- 马约拉纳费米子
+- 마요라나 페르미온
+has_id_wikidata: Q1065883
+dv_has_:
+  name_:
+    ca: fermió de Majorana
+    cs: Majoranův fermion
+    da: Majorana-fermion
+    de: Majorana-Fermion
+    en: Majorana fermion
+    eo: fermiono de Majorana
+    es: Fermión de Majorana
+    fa: فرمیون مایورانا
+    fr: particule de Majorana
+    fy: Majorana-dieltsje
+    ga: feirmíón Majorana
+    gl: fermión de Majorana
+    hi: मायोराना फर्मीऑन
+    it: Fermione di Majorana
+    ja: マヨラナ粒子
+    ko: 마요라나 페르미온
+    mk: Мајоранин фермион
+    nl: Majorana-deeltje
+    nn: Majorana-fermion
+    pl: fermion Majorany
+    pt: partícula de Majorana
+    pt-br: férmion de Majorana
+    ru: майорановский фермион
+    scn: Firmiuni di Majurana
+    sk: Majoranovský fermión
+    sl: Majoranov fermion
+    tr: Majorana Fermion
+    uk: ферміон Майорани
+    vi: fermion Majorana
+    wuu: 马约拉纳费米子
+    zh: 马约拉纳费米子
+    zh-hans: 马约拉纳费米子
+    zh-hant: 馬約拉納費米子
+    zh-hk: 馬約拉納費米子
 ---
-
 ## #has_/text_of_/abstract 
 
 > In particle physics a Majorana fermion or Majorana particle is a fermion that is its own antiparticle. 

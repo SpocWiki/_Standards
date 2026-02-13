@@ -1,24 +1,62 @@
 ---
 aliases:
-  - Accord
-  - Akkord
-  - Chord
+- Accord
+- accordo
+- ackord
+- acord
+- acorde
+- akkoord
+- Akkord
+- akoarda
+- akor
+- akord
+- Akordas
+- akorde
+- Akordi
+- akordo
+- Akords
+- Chord
+- Cord
+- corda
+- Hô-im
+- Hợp âm
+- Kord
+- sointu
+- tangiata
+- čuâjas
+- συγχορδία
+- аккорд
+- Акорд
+- созвучје
+- ակորդ
+- אקורד
+- آکورد
+- اككورد
+- تآلف
+- کۆرد
+- স্বরসমষ্টি
+- കോഡ് (സംഗീതം)
+- คอร์ด (ดนตรี)
+- აკორდი
+- 和弦
+- 和音
+- 화음
 has_id_wikidata: Q170439
 different_from:
-  - '[[_Standards/WikiData/WD~chord,188191]]'
-  - '[[_Standards/WikiData/WD~interval,189962]]'
-  - '[[_Standards/WikiData/WD~Accord_tour,12077328]]'
+- '[[_Standards/WikiData/WD~chord,188191]]'
+- '[[_Standards/WikiData/WD~interval,189962]]'
+- '[[_Standards/WikiData/WD~Accord_tour,12077328]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~note,263478]]'
-  - '[[_Standards/WikiData/WD~factor,3344463]]'
+- '[[_Standards/WikiData/WD~note,263478]]'
+- '[[_Standards/WikiData/WD~factor,3344463]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc,101089426]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Myggans_nöjeslexikon_1_A_Barc,101089426]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of: '[[_Standards/WikiData/WD~chord_progression,1326471]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_chord,6450153]]'
 subclass_of: '[[_Standards/WikiData/WD~group,16887380]]'
@@ -30,8 +68,95 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%27Cowboy%27%20chord%2
 P8189: 987007532347605171
 Commons_category: Chords
 Krugosvet_article: kultura_i_obrazovanie/muzyka/AKKORD.html
+dv_has_:
+  name_:
+    ar: تآلف
+    ast: Acorde
+    az: Akkord
+    be: Акорд
+    be-tarask: акорд
+    bg: Акорд
+    bn: স্বরসমষ্টি
+    ca: acord
+    ckb: کۆرد
+    cs: akord
+    cy: Cord
+    da: akkord
+    de: Akkord
+    el: συγχορδία
+    en: chord
+    en-gb: chord
+    en-us: chord
+    eo: akordo
+    es: acorde
+    et: akord
+    eu: akorde
+    fa: آکورد
+    fi: sointu
+    fr: accord
+    ga: corda
+    gl: acorde
+    he: אקורד
+    hr: Akord
+    hu: akkord
+    hy: ակորդ
+    id: Akord
+    it: accordo
+    ja: 和音
+    ka: აკორდი
+    kk: Аккорд
+    kk-arab: اككورد
+    kk-cn: اككورد
+    kk-cyrl: Аккорд
+    kk-kz: Аккорд
+    kk-latn: Akkord
+    kk-tr: Akkord
+    ko: 화음
+    ky: Аккорд
+    lt: Akordas
+    lv: Akords
+    lzh: 和弦
+    mi: tangiata
+    mk: созвучје
+    ml: കോഡ് (സംഗീതം)
+    ms: Akord
+    nan: Hô-im
+    nb: akkord
+    nl: akkoord
+    nn: Akkord
+    pl: akord
+    pt: acorde
+    ro: acord
+    ru: аккорд
+    se: akoarda
+    sh: Akord
+    sk: Akord
+    sl: akord
+    sms: čuâjas
+    sq: Akordi
+    sr: акорд
+    sr-ec: акорд
+    sr-el: akord
+    su: Kord
+    sv: ackord
+    tg: Аккорд
+    th: คอร์ด (ดนตรี)
+    tr: akor
+    tyv: Аккорд
+    uk: акорд
+    uz: Akkord
+    vi: Hợp âm
+    wuu: 和弦
+    xmf: აკორდი
+    yue: 和弦
+    zh: 和弦
+    zh-cn: 和弦
+    zh-hans: 和弦
+    zh-hant: 和弦
+    zh-hk: 和弦
+    zh-sg: 和弦
+    zh-tw: 和弦
 ---
-
 # [[Chord]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Chord,170439|WD~Chord,170439]] 

@@ -1,16 +1,156 @@
 ---
 aliases:
-  - Realismus
-  - Realism
+- chủ nghĩa hiện thực
+- Dr Realismus in dr Kunst
+- errealismo
+- Hiān-si̍t-chú-gī
+- reaiism
+- realaeth
+- Realism
+- realisma
+- realisme
+- Realisme (inus kopokitanan)
+- realismi
+- realismm
+- realismo
+- Realismus
+- realizam
+- Realizam (likovna umjetnost)
+- Realizam (umetnost)
+- realizem
+- realizm
+- Realizm (sanat)
+- Realizm (sanʼat)
+- realizm (sztuka)
+- Realizmas
+- realizmus
+- realiżmu
+- reālisms
+- réalachas
+- réalisme
+- Ρεαλισμός
+- реалізм
+- реализам
+- реализм
+- реализъм
+- рэалізм
+- ռեալիզմ
+- ריאליזם
+- الواقعيه
+- رئالیسم
+- رېښتينيزم (هنر)
+- فطرت نگاري
+- واقعية
+- واقعگرایی
+- यथार्थवाद
+- ਯਥਾਰਥਵਾਦ
+- இயல்பியம்
+- യഥാതഥ്യപ്രസ്ഥാനം
+- ศิลปะสัจนิยม
+- რეალიზმი
+- 写実主義
+- 寫實主義
+- 现实主义
+- 現實主義
+- 사실주의
 has_id_wikidata: Q10857409
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_style,1792644]]'
-  - '[[_Standards/WikiData/WD~architectural_style,32880]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_style,1792644]]'
+- '[[_Standards/WikiData/WD~architectural_style,32880]]'
 described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Commons_category: Realism
+dv_has_:
+  name_:
+    af: Realisme
+    ar: واقعية
+    arz: الواقعيه
+    az: realizm
+    be: рэалізм
+    be-tarask: рэалізм
+    bg: реализъм
+    bn: reaiism
+    ca: realisme
+    cs: realismus
+    cv: Реализм
+    cy: realaeth
+    da: realisme
+    de: Realismus
+    de-ch: Realismus
+    dtp: Realisme (inus kopokitanan)
+    el: Ρεαλισμός
+    en: realism
+    en-ca: Realism
+    en-gb: realism
+    eo: realismo
+    es: realismo
+    et: realism
+    eu: errealismo
+    fa: واقعگرایی
+    fi: realismi
+    fr: réalisme
+    fy: Realisme
+    ga: réalachas
+    gl: realismo
+    gsw: Dr Realismus in dr Kunst
+    he: ריאליזם
+    hi: यथार्थवाद
+    hr: Realizam (likovna umjetnost)
+    hu: realizmus
+    hy: ռեալիզմ
+    id: Realisme
+    io: Realismo
+    it: realismo
+    ja: 写実主義
+    ka: რეალიზმი
+    kk: Реализм
+    ko: 사실주의
+    ky: Реализм
+    la: Realismus
+    lld: Realism
+    lt: Realizmas
+    lv: reālisms
+    mk: реализам
+    ml: യഥാതഥ്യപ്രസ്ഥാനം
+    ms: Realisme
+    mt: realiżmu
+    mzn: رئالیسم
+    nan: Hiān-si̍t-chú-gī
+    nb: realisme
+    ne: यथार्थवाद
+    nl: realisme
+    nn: realisme
+    pa: ਯਥਾਰਥਵਾਦ
+    pap: realismo
+    pl: realizm (sztuka)
+    ps: رېښتينيزم (هنر)
+    pt: realismo
+    pt-br: Realismo
+    ro: realism
+    ru: реализм
+    sd: فطرت نگاري
+    se: realisma
+    sh: Realizam (umetnost)
+    sk: Realizmus
+    sl: realizem
+    smn: realism
+    sms: realismm
+    sr: реализам
+    sr-ec: реализам
+    sr-el: realizam
+    sv: realism
+    ta: இயல்பியம்
+    th: ศิลปะสัจนิยม
+    tr: Realizm (sanat)
+    uk: реалізм
+    uz: Realizm (sanʼat)
+    vi: chủ nghĩa hiện thực
+    wuu: 现实主义
+    yue: 寫實主義
+    zh: 現實主義
+    zh-hant: 現實主義
+    zh-tw: 現實主義
 ---
-
 # [[Realism]] 
 
 #is_/similar_to :: [[Naturalism(Art)]] 

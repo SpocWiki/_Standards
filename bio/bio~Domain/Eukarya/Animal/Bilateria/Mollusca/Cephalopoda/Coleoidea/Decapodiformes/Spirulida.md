@@ -1,9 +1,50 @@
 ---
 aliases:
-  - Spirulida
+- Spirulida
+- Spiruly
+- Spirulės
+- ספירולאים
+- حباريات قرنية
+- 旋乌贼目
+- 스피룰라목
 title: Spirula spirula
+has_id_wikidata: Q1370442
+dv_has_:
+  name_:
+    ar: حباريات قرنية
+    ast: Spirulida
+    bg: Spirulida
+    ca: Spirulida
+    ceb: Spirulida
+    de: Spirulida
+    en: Spirulida
+    es: Spirulida
+    fi: Spirulida
+    fr: Spirulida
+    ga: Spirulida
+    gl: Spirulida
+    he: ספירולאים
+    it: Spirulida
+    ko: 스피룰라목
+    la: Spirulida
+    lt: Spirulės
+    mul: Spirulida
+    nb: Spirulida
+    nl: Spirulida
+    pl: Spirulida
+    pt: Spirulida
+    ro: Spirulida
+    ru: Spirulida
+    sk: Spiruly
+    sq: Spirulida
+    tr: Spirulida
+    uk: Spirulida
+    vi: Spirulida
+    war: Spirulida
+    zh: 旋乌贼目
+    zh-cn: 旋乌贼目
+    zh-hans: 旋乌贼目
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

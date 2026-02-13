@@ -1,22 +1,200 @@
 ---
 aliases:
+- alektruomagnetėnis sāveikavėms
+- daya elektromagnet
+- electromagnetic interaction
+- Electromagnetismus
+- elektromagneetsche Kraft
+- elektromagneta forto
+- elektromagnetická interakce
+- elektromagnetická interakcia hmotných objektov
+- elektromagnetiese wisselwerking
+- Elektromagnetik interago
+- elektromagnetiline vastastikmõju
+- elektromagnetinė sąveika
+- elektromagnetische interactie
+- elektromagnetische Wechselwirkung
+- elektromagnetisk kraft
+- elektromagnetisk växelverkan
+- elektromagnetna interakcija
+- elektromagnetna sila
+- elektromagnetska sila
+- elektromagnitine vastamižpaineg
+- elektromagnētiskā mijiedarbība
+- elektromanyetik kuvvet
+- elektromágneses kölcsönhatás
+- Eletromagnetism
+- elkarrekintza elektromagnetiko
+- forca elektromagnetike
+- força electromagnètica
+- força eletromagnética
+- forța electromagnetică
+- gaya elektromagnetik
+- gaya èlèktromagnètik
+- grym electromagnetig
+- idirghníomhú leictreamaighnéadach
+- interaccion electromagnetica
+- interacción electromagnetica
+- interacción electromagnética
+- interaction électromagnétique
+- interaición electromagnética
+- interaksyon han electromagnetico
+- interasion ełetromagnètega
+- interazione elettromagnetica
+- interação electromagnética
+- intirazzioni elettrumagnètica
+- lektromagnetische krach
+- mtagusano sumakuumeme
+- oddziaływanie elektromagnetyczne
+- rafsegulkraftur
+- sähkömagneettinen vuorovaikutus
+- tiān-chû-la̍t
+- tương tác điện từ
+- šleđgâmagneetlâš vuáruvaikuttâs
+- ηλεκτρομαγνητική δύναμη
+- бот-боттарынче электромагниттиг кылдыныг
+- електромагнітна взаємодія
+- електромагнетизам
+- електромагнетна интеракција
+- електромагнетска сила
+- електромагнитно взаимодействие
+- цахилгаан соронзон харилцан үйлчлэл
+- электрамагнітнае ўзаемадзеянне
+- электрамагнітнае ўзаемадзеяньне
+- электромагнит тәьҫир итешеүе
+- электромагнит тәэсир итешүе
+- электромагнитла хире-хирĕç вăйăм
+- электромагнитное взаимодействие
+- электромагниттік өзара әсерлесу
+- էլեկտրամագնիսական փոխազդեցություն
+- הכוח האלקטרומגנטי
+- עלעקטראמאגנעטישע אינטעראקציע
+- داي ايليکترومݢنيت
+- قوة كهرومغناطيسية
+- نیروی الکترومغناطیس
+- তড়িচ্চুম্বকীয় বল
+- বিদ্যুৎ চুম্বকীয় আন্তঃক্ৰিয়া
+- ਬਿਜਲਚੁੰਬਕਤਾ
+- மின்காந்த இடைவினை
+- విద్యుదయస్కాంతత్వం
+- വൈദ്യുതകാന്തികബലം
+- แรงแม่เหล็กไฟฟ้า
+- 电磁力
+- 電磁力
+- 電磁相互作用
+- 전자기 상호작용
 has_id_wikidata: Q849919
 instance_of:
-  - "[[_Standards/WikiData/WD~fundamental_interaction,104934]]"
-  - "[[_Standards/WikiData/WD~physical_phenomenon,1293220]]"
-subclass_of: "[[_Standards/WikiData/WD~electroweak_interaction,466416]]"
+- '[[_Standards/WikiData/WD~fundamental_interaction,104934]]'
+- '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
+subclass_of: '[[_Standards/WikiData/WD~electroweak_interaction,466416]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Q6677799,6677799]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-studied_by: "[[_Standards/WikiData/WD~electromagnetism,11406]]"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q6677799,6677799]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+studied_by: '[[_Standards/WikiData/WD~electromagnetism,11406]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynmann%20Diagram%20Coulomb.svg
-Dewey_Decimal_Classification: "539.7546"
+Dewey_Decimal_Classification: 539.7546
 IEV_number: 881-03-26
+dv_has_:
+  name_:
+    af: elektromagnetiese wisselwerking
+    an: interacción electromagnetica
+    ar: قوة كهرومغناطيسية
+    as: বিদ্যুৎ চুম্বকীয় আন্তঃক্ৰিয়া
+    ast: interaición electromagnética
+    ba: электромагнит тәьҫир итешеүе
+    be: электрамагнітнае ўзаемадзеянне
+    be-tarask: электрамагнітнае ўзаемадзеяньне
+    bg: електромагнитно взаимодействие
+    bn: তড়িচ্চুম্বকীয় বল
+    bs: elektromagnetna sila
+    ca: força electromagnètica
+    cs: elektromagnetická interakce
+    cv: электромагнитла хире-хирĕç вăйăм
+    cy: grym electromagnetig
+    da: elektromagnetisk kraft
+    de: elektromagnetische Wechselwirkung
+    el: ηλεκτρομαγνητική δύναμη
+    en: electromagnetic interaction
+    eo: elektromagneta forto
+    es: interacción electromagnética
+    et: elektromagnetiline vastastikmõju
+    eu: elkarrekintza elektromagnetiko
+    fa: نیروی الکترومغناطیس
+    fi: sähkömagneettinen vuorovaikutus
+    fr: interaction électromagnétique
+    ga: idirghníomhú leictreamaighnéadach
+    gl: interacción electromagnética
+    gsw: elektromagnetische Wechselwirkung
+    he: הכוח האלקטרומגנטי
+    hif: electromagnetic interaction
+    hr: elektromagnetska sila
+    hu: elektromágneses kölcsönhatás
+    hy: էլեկտրամագնիսական փոխազդեցություն
+    id: gaya elektromagnetik
+    io: Elektromagnetik interago
+    is: rafsegulkraftur
+    it: interazione elettromagnetica
+    ja: 電磁相互作用
+    jv: gaya èlèktromagnètik
+    kk: электромагниттік өзара әсерлесу
+    ko: 전자기 상호작용
+    la: Electromagnetismus
+    li: lektromagnetische krach
+    lt: elektromagnetinė sąveika
+    lv: elektromagnētiskā mijiedarbība
+    mk: електромагнетизам
+    ml: വൈദ്യുതകാന്തികബലം
+    mn: цахилгаан соронзон харилцан үйлчлэл
+    ms: daya elektromagnet
+    ms-arab: داي ايليکترومݢنيت
+    nan: tiān-chû-la̍t
+    nb: Elektromagnetisk kraft
+    nds: elektromagneetsche Kraft
+    nl: elektromagnetische interactie
+    nn: elektromagnetisk kraft
+    oc: interaccion electromagnetica
+    pa: ਬਿਜਲਚੁੰਬਕਤਾ
+    pl: oddziaływanie elektromagnetyczne
+    pms: Eletromagnetism
+    pt: interação electromagnética
+    pt-br: força eletromagnética
+    ro: forța electromagnetică
+    ru: электромагнитное взаимодействие
+    scn: intirazzioni elettrumagnètica
+    sgs: alektruomagnetėnis sāveikavėms
+    sh: електромагнетска сила
+    sk: elektromagnetická interakcia hmotných objektov
+    sl: elektromagnetna interakcija
+    smn: šleđgâmagneetlâš vuáruvaikuttâs
+    sq: forca elektromagnetike
+    sr: електромагнетна интеракција
+    sr-ec: електромагнетна интеракција
+    sr-el: elektromagnetna interakcija
+    sv: elektromagnetisk växelverkan
+    sw: mtagusano sumakuumeme
+    ta: மின்காந்த இடைவினை
+    te: విద్యుదయస్కాంతత్వం
+    th: แรงแม่เหล็กไฟฟ้า
+    tr: elektromanyetik kuvvet
+    tt: электромагнит тәэсир итешүе
+    tyv: бот-боттарынче электромагниттиг кылдыныг
+    uk: електромагнітна взаємодія
+    vec: interasion ełetromagnètega
+    vep: elektromagnitine vastamižpaineg
+    vi: tương tác điện từ
+    war: interaksyon han electromagnetico
+    wuu: 电磁力
+    yi: עלעקטראמאגנעטישע אינטעראקציע
+    yue: 電磁力
+    zh: 電磁力
+    zh-hans: 电磁力
+    zh-hant: 電磁力
+    zh-hk: 電磁力
 ---
-
 # [[Electromagnetic_Interaction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electromagnetic_interaction,849919|WD~Electromagnetic_interaction,849919]] 

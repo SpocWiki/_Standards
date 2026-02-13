@@ -1,22 +1,112 @@
 ---
 aliases:
+- eraztunen teoria
+- gyűrűelmélet
+- halka teorisi
+- lý thuyết vành
+- rengasteoria
+- ring theory
+- ringo-teorio
+- ringteori
+- Ringtheorie
+- teori e unazave
+- teori gelanggang
+- teoria d'anells
+- teoria degli anelli
+- teoria dos anéis
+- teoria inelelor
+- teoria pierścieni
+- teorie okruhů
+- teorija kolobarjev
+- teorija prstena
+- teoría d'aníos
+- teoría de aneis
+- teoría de anillos
+- theoria anellorum
+- theoria de anellos
+- théorie des anneaux
+- Θεωρία δακτυλίων
+- теорія кілець
+- теорија на прстените
+- теория колец
+- теория на пръстените
+- тэорыя колцаў
+- Ункăсен теорийĕ
+- ҡулсалар теорияһы
+- רינג-טעאריע
+- תורת החוגים
+- نظرية الحلقات
+- نظریه حلقهها
+- রিং তত্ত্ব
+- 环论
+- 環論
+- 환론
 has_id_wikidata: Q1208658
 part_of:
-  - "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-  - "[[_Standards/WikiData/WD~algebra,3968]]"
-is_the_study_of: "[[_Standards/WikiData/WD~ring,161172]]"
-creator: "[[_Standards/WikiData/WD~Joseph_Wedderburn,667683]]"
+- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~algebra,3968]]'
+is_the_study_of: '[[_Standards/WikiData/WD~ring,161172]]'
+creator: '[[_Standards/WikiData/WD~Joseph_Wedderburn,667683]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~area_of_mathematics,1936384]]"
-  - "[[_Standards/WikiData/WD~mathematical_theory,20026918]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Ring_theory_sidebar,22736465]]"
-OmegaWiki_Defined_Meaning: "1413214"
+- '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
+- '[[_Standards/WikiData/WD~mathematical_theory,20026918]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Ring_theory_sidebar,22736465]]'
+OmegaWiki_Defined_Meaning: 1413214
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ringhierarchy.png
 Stack_Exchange_tag: https://math.stackexchange.com/tags/ring-theory
 Commons_category: Ring theory
+dv_has_:
+  name_:
+    ar: نظرية الحلقات
+    ast: teoría d'aníos
+    ba: ҡулсалар теорияһы
+    be-tarask: тэорыя колцаў
+    bg: теория на пръстените
+    bn: রিং তত্ত্ব
+    ca: teoria d'anells
+    cs: teorie okruhů
+    cv: Ункăсен теорийĕ
+    de: Ringtheorie
+    el: Θεωρία δακτυλίων
+    en: ring theory
+    en-ca: ring theory
+    en-gb: ring theory
+    eo: ringo-teorio
+    es: teoría de anillos
+    eu: eraztunen teoria
+    fa: نظریه حلقهها
+    fi: rengasteoria
+    fr: théorie des anneaux
+    gl: teoría de aneis
+    he: תורת החוגים
+    hu: gyűrűelmélet
+    ia: theoria de anellos
+    id: teori gelanggang
+    it: teoria degli anelli
+    ja: 環論
+    ko: 환론
+    la: theoria anellorum
+    mk: теорија на прстените
+    nl: ringtheorie
+    pl: teoria pierścieni
+    pt: teoria dos anéis
+    pt-br: teoria dos anéis
+    ro: teoria inelelor
+    ru: теория колец
+    sl: teorija kolobarjev
+    sq: teori e unazave
+    sr: teorija prstena
+    sv: ringteori
+    tr: halka teorisi
+    uk: теорія кілець
+    vi: lý thuyết vành
+    yi: רינג-טעאריע
+    yue: 環論
+    zh: 环论
+    zh-hans: 环论
+    zh-hant: 環論
 ---
-
 # [[Ring_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ring_theory,1208658|WD~Ring_theory,1208658]]  

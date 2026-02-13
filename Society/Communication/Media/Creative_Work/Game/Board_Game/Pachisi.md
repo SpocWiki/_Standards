@@ -1,25 +1,90 @@
 ---
 aliases:
-  - Pachisi
-  - chaupar
-  - Pasha
-  - Barjis (barsis
-  - Parchís
-  - Parqués
-  - Parcheesi
-  - Patchesi
-  - Sorry!
-  - Ludo
-  - jeu des petits chevaux
-  - Mensch ärgere Dich nicht
+- Barjis (barsis
+- chaupar
+- jeu des petits chevaux
+- Ludo
+- Mensch ärgere Dich nicht
+- Pachisi
+- Parcheesi
+- Parchís
+- Parqués
+- Pasha
+- Patchesi
+- Patsisi
+- Patsjisi
+- Patxisi
+- Pačisi
+- Pačísí
+- Peçiç
+- Sorry!
+- Пачисі
+- Пачиси
+- пачысі
+- Պաչիսի
+- لعبة الباتشيسي
+- پاچیسی
+- पचीसी
+- सारीपाट
+- পচ্চিসি
+- தாயம்
+- పచ్చిసి
+- ပဆစ်ပစ်ခြင်း
+- パチシ
+- 印度十字戏
+- 印度十字戲
+- 印度十字棋
+- 파치시
 has_id_wikidata: Q796171
 described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 instance_of: '[[_Standards/WikiData/WD~cross_and_circle_game,5188437]]'
 Commons_category: Pachisi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pachisi-real.jpg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Pachisi.svg
+dv_has_:
+  name_:
+    ar: لعبة الباتشيسي
+    ast: Pachisi
+    ba: Пачиси
+    be-tarask: пачысі
+    bn: পচ্চিসি
+    ca: pachisi
+    cs: Pačísí
+    da: pachisi
+    de: Pachisi
+    en: Pachisi
+    es: Pachisi
+    eu: Pachisi
+    fa: پاچیسی
+    fi: Patsisi
+    fr: Pachisi
+    gl: Pachisi
+    hi: पचीसी
+    hy: Պաչիսի
+    it: Pachisi
+    ja: パチシ
+    ko: 파치시
+    lfn: Patxisi
+    mr: सारीपाट
+    my: ပဆစ်ပစ်ခြင်း
+    nl: Pachisi
+    nn: Patsjisi
+    pl: Pachisi
+    pt: Pachisi
+    ru: Пачиси
+    sr: Pačisi
+    sv: Pachisi
+    ta: தாயம்
+    te: పచ్చిసి
+    tr: Peçiç
+    uk: Пачисі
+    wuu: 印度十字戏
+    yue: 印度十字棋
+    zh: 印度十字戲
+    zh-hans: 印度十字戏
+    zh-hant: 印度十字戲
+    zh-hk: 印度十字戲
 ---
-
 # [[Pachisi]] 
 
 #is_/same_as :: [[WD~Pachisi,796171]] 

@@ -1,30 +1,65 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]]"
-    - "[[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]]"
-    - "[[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]]"
-    - "[[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]]"
-    - "[[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]]"
-    - "[[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]]"
+  - '[[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]]'
+  - '[[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]]'
+  - '[[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]]'
+  - '[[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]]'
+  - '[[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]]'
+  - '[[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]]"
-  - "[[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]]"
-  - "[[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]]"
-  - "[[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]]"
-  - "[[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]]"
-  - "[[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]]"
-
-has_time_started: 1999-01-01 
-location: [ 25.141388888, 55.185277777 ] 
+- '[[../../../WikiData/WD~Burj_al-Arab,62939|WD~Burj_al-Arab,62939]]'
+- '[[/_Standards/Earth/Geography/Place/Burj_al-Arab|Burj_al-Arab]]'
+- '[[/_public/Earth/Geography/Place/Burj_al-Arab.public|Burj_al-Arab.public]]'
+- '[[/_internal/Earth/Geography/Place/Burj_al-Arab.internal|Burj_al-Arab.internal]]'
+- '[[/_protect/Earth/Geography/Place/Burj_al-Arab.protect|Burj_al-Arab.protect]]'
+- '[[/_private/Earth/Geography/Place/Burj_al-Arab.private|Burj_al-Arab.private]]'
+- '[[/_personal/Earth/Geography/Place/Burj_al-Arab.personal|Burj_al-Arab.personal]]'
+- '[[/_secret/Earth/Geography/Place/Burj_al-Arab.secret|Burj_al-Arab.secret]]'
+has_time_started: 1999-01-01
+location:
+- 25.141388888
+- 55.185277777
 aliases:
-  - Burj Al Arab
-  - Burj_al-Arab
-  - Burj al-Arab
+- al burj
+- Burdzs al-Arab
+- Burdż al-Arab
+- Burdž al Arabo viešbutis
+- Burdž al-Arab
+- Burj Al Arab
+- Burj al-Arab
+- Burj al-‘Arab
+- Burj-Al-Arab
+- Burj_al-Arab
+- Burç El Arap
+- Bürc əl-ərəb
+- Hotelo Araba turo
+- Μπουρτζ Αλ Αράμπ
+- Бурџ ел Араб
+- Бург-ель-Араб
+- Бурдж ал-Араб
+- Бурдж аль-Араб
+- Бурдж-әл-Ғәрәп
+- Бурж Ал Араб
+- Бурж әл-Араб
+- Бурҷ ал-Араб
+- Բուրջ ալ-Արաբ
+- בורג' אל-ערב
+- برج العرب
+- بُرٛج العرب
+- فندق برج العرب
+- बुर्ज अल अरब
+- বুর্জ আল আরব
+- ਬੁਰਜ ਅਲ ਅਰਬ
+- பூர்ஜ் அல் அராப்
+- ബുർജ് അൽ അറബ്
+- บุรญุลอะร็อบ
+- ブルジュ・アル・アラブ
+- 帆船酒店
+- 阿拉伯塔
+- 부르즈 알 아랍
 has_id_wikidata: Q62939
 architectural_style: '[[_Standards/WikiData/WD~high_tech_architecture,845318]]'
 different_from: '[[_Standards/WikiData/WD~Borg_El_Arab,1043090]]'
@@ -35,8 +70,8 @@ hotel_rating: '[[_Standards/WikiData/WD~5_star_hotel_rating,109248725]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Dubai,612]]'
 country: '[[_Standards/WikiData/WD~United_Arab_Emirates,878]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tower_block,18142]]'
-  - '[[_Standards/WikiData/WD~hotel,27686]]'
+- '[[_Standards/WikiData/WD~tower_block,18142]]'
+- '[[_Standards/WikiData/WD~hotel,27686]]'
 number_of_elevators: 20
 floors_below_ground: 3
 floors_above_ground: 56
@@ -47,18 +82,95 @@ inception: 1999-01-01T00:00:00Z
 date_of_official_opening: 1999-12-01T00:00:00Z
 Commons_category: Burj Al Arab
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20Al-Arab%20%2813996844503%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20al-arab%20indoor.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20Al%20Arab%20and%20Jumeirah%20Beach%20%289601659067%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Restaurante%20del%20burj%20al%20arab-dubai-2011%20%288%29.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20Al-Arab%20%2813996844503%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20al-arab%20indoor.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Burj%20Al%20Arab%20and%20Jumeirah%20Beach%20%289601659067%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Restaurante%20del%20burj%20al%20arab-dubai-2011%20%288%29.JPG
 official_website: https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah
 P8189: 987007574743605171
 Facebook_username: burjalarab
 Instagram_username: burjalarab
 X_Twitter_username: BurjAlArab
 Commons_gallery: برج العرب
+dv_has_:
+  name_:
+    ar: برج العرب
+    arz: فندق برج العرب
+    ast: Burj Al Arab
+    az: Bürc əl-ərəb
+    ba: Бурдж-әл-Ғәрәп
+    be: Бурдж аль-Араб
+    be-tarask: Бурдж аль-Араб
+    bg: Бурдж ал-Араб
+    bn: বুর্জ আল আরব
+    bs: Burj Al Arab
+    ca: Burj al-Arab
+    cs: Burdž al-Arab
+    da: Burj al-Arab
+    de: Burj al Arab
+    el: Μπουρτζ Αλ Αράμπ
+    en: Burj al-Arab
+    eo: Hotelo Araba turo
+    es: Burj Al Arab
+    et: Burj al-‘Arab
+    eu: Burj Al Arab
+    fa: برج العرب
+    fi: Burj al-arab
+    fo: Burj Al Arab
+    fr: Burj-Al-Arab
+    gl: Burj al-Arab
+    he: בורג' אל-ערב
+    hi: बुर्ज अल अरब
+    hr: Burj Al Arab
+    hu: Burdzs al-Arab
+    hy: Բուրջ ալ-Արաբ
+    id: Burj al-Arab
+    io: Burj Al Arab
+    is: Burj Al Arab
+    it: Burj al-Arab
+    ja: ブルジュ・アル・アラブ
+    jv: Burj al-Arab
+    ka: al burj
+    kk: Бурж әл-Араб
+    ko: 부르즈 알 아랍
+    ks: بُرٛج العرب
+    lt: Burdž al Arabo viešbutis
+    lv: Burj Al Arab
+    mai: बुर्ज अल अरब
+    mk: Бурж Ал Араб
+    ml: ബുർജ് അൽ അറബ്
+    mr: बुर्ज अल अरब
+    ms: Burj Al Arab
+    nb: Burj al Arab
+    nl: Burj al Arab
+    oc: Burj al-Arab
+    pa: ਬੁਰਜ ਅਲ ਅਰਬ
+    pl: Burdż al-Arab
+    pnb: برج العرب
+    pt: Burj Al Arab
+    ro: Burj al-Arab
+    ru: Бурдж аль-Араб
+    sh: Burj Al Arab
+    sk: Burdž al-Arab
+    sl: Burj Al Arab
+    sq: Burj Al-Arab
+    sr: Бурџ ел Араб
+    sv: Burj Al Arab
+    sw: Burj Al Arab
+    ta: பூர்ஜ் அல் அராப்
+    tg: Бурҷ ал-Араб
+    th: บุรญุลอะร็อบ
+    tl: Burj Al Arab
+    tr: Burç El Arap
+    uk: Бург-ель-Араб
+    ur: برج العرب
+    uz: Burj al-Arab
+    vi: Burj al-Arab
+    war: Burj Al Arab
+    wuu: 阿拉伯塔
+    yue: 帆船酒店
+    zh: 阿拉伯塔
 ---
-
 # [[Burj_al-Arab]] 
 
 ![[../../../assets/Burj_al-Arab.png]]  

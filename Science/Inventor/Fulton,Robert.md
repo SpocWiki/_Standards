@@ -1,51 +1,69 @@
 ---
 aliases:
-  - Robert_Fulton
-  - Fulton,Robert
+- Fulton,Robert
+- Robert Fulton
+- Roberts Fultuons
+- Robertus Fulton
+- Robert_Fulton
+- Ρόμπερτ Φούλτον
+- Роберт Фултан
+- Роберт Фултон
+- Робэрт Фултан
+- Ռոբերտ Ֆուլտոն
+- רוברט פולטון
+- رابرت فلتون
+- روبرت فلتون
+- ராபர்ட் ஃபுல்டன்
+- โรเบิร์ต ฟุลตัน
+- რობერტ ფულტონი
+- ロバート・フルトン
+- 罗伯特·富尔顿
+- 羅伯特·富爾頓
+- 로버트 풀턴
 has_id_wikidata: Q192496
 occupation:
-  - '[[_Standards/WikiData/WD~engineer,81096]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~painter,1028181]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
-  - '[[_Standards/WikiData/WD~Science_Museum,674773]]'
-  - '[[_Standards/WikiData/WD~Indianapolis_Museum_of_Art,1117704]]'
-  - '[[_Standards/WikiData/WD~National_Portrait_Gallery,1967614]]'
-  - '[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]'
-  - '[[_Standards/WikiData/WD~Cartwright_Hall_Art_Gallery,26425990]]'
-  - '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art,160236]]'
+- '[[_Standards/WikiData/WD~Science_Museum,674773]]'
+- '[[_Standards/WikiData/WD~Indianapolis_Museum_of_Art,1117704]]'
+- '[[_Standards/WikiData/WD~National_Portrait_Gallery,1967614]]'
+- '[[_Standards/WikiData/WD~Cincinnati_Art_Museum,2970522]]'
+- '[[_Standards/WikiData/WD~Cartwright_Hall_Art_Gallery,26425990]]'
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Philadephia_Three_Centuries_of_American_Art,135012396]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Philadephia_Three_Centuries_of_American_Art,135012396]]'
 different_from: '[[_Standards/WikiData/WD~Robert_Fulton,717984]]'
 award_received: '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 member_of: '[[_Standards/WikiData/WD~American_Antiquarian_Society,4742987]]'
 given_name: '[[_Standards/WikiData/WD~Robert,4927937]]'
 artist_files_at:
-  - '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
-  - '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
+- '[[_Standards/WikiData/WD~Frick_Art_Research_Library,5503390]]'
+- '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 place_of_birth: '[[_Standards/WikiData/WD~Little_Britain_Township,6649321]]'
 place_of_burial: '[[_Standards/WikiData/WD~Trinity_Church_Cemetery,7842673]]'
 family_name: '[[_Standards/WikiData/WD~Fulton,16870052]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 child:
-  - '[[_Standards/WikiData/WD~Julia_Fulton_Blight,97582459]]'
-  - '[[_Standards/WikiData/WD~Cornelia_Livingston_Fulton,136334953]]'
+- '[[_Standards/WikiData/WD~Julia_Fulton_Blight,97582459]]'
+- '[[_Standards/WikiData/WD~Cornelia_Livingston_Fulton,136334953]]'
 spouse: '[[_Standards/WikiData/WD~Harriet_Livingston_Fulton,97608343]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
-  - '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 medical_condition: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
 cause_of_death: '[[_Standards/WikiData/WD~tuberculosis,12204]]'
@@ -64,8 +82,90 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Fulton%20-%20
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Fulton%20signature.svg
 work_period_start_: 1793-01-01T00:00:00Z
 date_of_birth: 1765-11-14T00:00:00Z
+dv_has_:
+  name_:
+    af: Robert Fulton
+    an: Robert Fulton
+    ar: روبرت فلتون
+    arz: روبرت فلتون
+    ast: Robert Fulton
+    az: Robert Fulton
+    be: Роберт Фултан
+    be-tarask: Робэрт Фултан
+    bg: Роберт Фултон
+    br: Robert Fulton
+    ca: Robert Fulton
+    cs: Robert Fulton
+    cy: Robert Fulton
+    da: Robert Fulton
+    de: Robert Fulton
+    de-ch: Robert Fulton
+    el: Ρόμπερτ Φούλτον
+    en: Robert Fulton
+    en-ca: Robert Fulton
+    en-gb: Robert Fulton
+    en-us: Robert Fulton
+    eo: Robert Fulton
+    es: Robert Fulton
+    et: Robert Fulton
+    eu: Robert Fulton
+    fa: رابرت فلتون
+    fi: Robert Fulton
+    fr: Robert Fulton
+    frp: Robert Fulton
+    ga: Robert Fulton
+    gl: Robert Fulton
+    he: רוברט פולטון
+    hr: Robert Fulton
+    hu: Robert Fulton
+    hy: Ռոբերտ Ֆուլտոն
+    id: Robert Fulton
+    io: Robert Fulton
+    is: Robert Fulton
+    it: Robert Fulton
+    ja: ロバート・フルトン
+    ka: რობერტ ფულტონი
+    ko: 로버트 풀턴
+    la: Robertus Fulton
+    mg: Robert Fulton
+    mk: Роберт Фултон
+    mn: Роберт Фултон
+    mul: Robert Fulton
+    nb: Robert Fulton
+    nl: Robert Fulton
+    nn: Robert Fulton
+    oc: Robert Fulton
+    pap: Robert Fulton
+    pl: Robert Fulton
+    pt: Robert Fulton
+    pt-br: Robert Fulton
+    ro: Robert Fulton
+    ru: Роберт Фултон
+    sgs: Roberts Fultuons
+    sh: Robert Fulton
+    sl: Robert Fulton
+    sq: Robert Fulton
+    sr: Роберт Фултон
+    sr-ec: Роберт Фултон
+    sr-el: Robert Fulton
+    sv: Robert Fulton
+    sw: Robert Fulton
+    ta: ராபர்ட் ஃபுல்டன்
+    th: โรเบิร์ต ฟุลตัน
+    tr: Robert Fulton
+    uk: Роберт Фултон
+    vi: Robert Fulton
+    war: Robert Fulton
+    wuu: 罗伯特·富尔顿
+    yue: 羅伯特·富爾頓
+    zh: 罗伯特·富尔顿
+    zh-cn: 罗伯特·富尔顿
+    zh-hans: 罗伯特·富尔顿
+    zh-hant: 羅伯特·富爾頓
+    zh-hk: 羅伯特·富爾頓
+    zh-sg: 罗伯特·富尔顿
+    zh-tw: 羅伯特·富爾頓
 ---
-
 # [[Fulton,Robert]] 
 
 #is_/same_as :: [[WD~Robert_Fulton,192496]] 

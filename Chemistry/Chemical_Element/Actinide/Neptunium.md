@@ -1,19 +1,100 @@
 ---
 aliases:
-  - Neptunium
+- jinmrneptuni
+- Neiptiunium
+- neiptiúiniam
+- Neptinyòm
+- neptun
+- neptuni
+- Neptuni (element kimik)
+- Neptunii
+- neptunij
+- Neptunijum
+- neptunin
+- neptunio
+- Neptuniom
+- neptuniu
+- Neptunium
+- Neptuniy
+- Neptunyo
+- Neptunyu
+- neptuunium
+- Neptwniwm
+- neptúnio
+- neptúnium
+- neptúnín
+- neptünyum
+- neptūnijs
+- neptūnis
+- Nepçhunium
+- nettunio
+- Nettuniu
+- nettunju
+- Nettunnio
+- Netuni
+- netunio
+- Netùniu
+- netúnio
+- nittuniu
+- Néptunium
+- Nɛptʊnɩyɔm
+- Nẹ́ptúníọ̀m
+- Tlāloctepoztli
+- UmNaphangana
+- ποσειδώνιο
+- Нептуній
+- Нептуни
+- нептунијум
+- нептуний
+- нептуниум
+- Нептуниүм
+- Нэптун
+- նեպտունիում
+- נפטוניום
+- نبتونيوم
+- نيپتونيوم
+- نيپچونيئم
+- نپتونیوم
+- نیپچونیئم
+- نیپچونیم
+- نێپتۆنیۆم
+- نېپتونىي
+- نېپټونيوم
+- नेप्चुनियम
+- नेप्चूनियम
+- नेप्टुनियम
+- नेप्टूनियम
+- नेप्ट्युनियम
+- নেপচুনিয়াম
+- નેપ્ચ્યુનીયમ
+- ନେପ୍ଚୁନିଅମ
+- நெப்டூனியம்
+- నెప్ట్యూనియం
+- ನೆಪ್ಚೂನಿಯಮ್
+- നെപ്റ്റ്യൂണിയം
+- เนปทูเนียม
+- ནེབ་ཊུ་ནིམ།
+- နပ်ကျူနီယမ်
+- ნეპტუნიუმი
+- ኔፕቲዩኒየም
+- ᏁᏩᏚᏂᎥᎻ
+- ネプツニウム
+- 錼
+- 镎
+- 넵투늄
 has_id_wikidata: Q1105
 atomic_number: 93
-canonical_SMILES: "[Np]"
+canonical_SMILES: '[Np]'
 CAS_Registry_Number: 7439-99-8
 chemical_formula: Np
 Commons_category: Neptunium
 Commons_gallery: Neptunium
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification: 546.432
-different_from: "[[_Standards/WikiData/WD~Neptun,1261928]]"
+different_from: '[[_Standards/WikiData/WD~Neptun,1261928]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Philip_Abelson,377815]]"
-  - "[[_Standards/WikiData/WD~Edwin_McMillan,19009]]"
+- '[[_Standards/WikiData/WD~Philip_Abelson,377815]]'
+- '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
 DSSTOX_compound_identifier: DTXCID3047639
 EC_number: 231-108-8
 electronegativity: 1.36
@@ -21,23 +102,23 @@ element_symbol: Np
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neptunium2.jpg
 InChI: InChI=1S/Np
 InChIKey: LFNLGNPSGWYGGD-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.72
-  - 0.75
-  - 0.87
-  - 1.01
+- 0.72
+- 0.75
+- 0.87
+- 1.01
 MeSH_tree_code:
-  - D01.268.271.100.550
-  - D01.268.556.600
-  - D01.496.749.305.100.550
-  - D01.552.020.621
-  - D01.552.544.600
-named_after: "[[_Standards/WikiData/WD~Neptune,332]]"
+- D01.268.271.100.550
+- D01.268.556.600
+- D01.496.749.305.100.550
+- D01.552.020.621
+- D01.552.544.600
+named_after: '[[_Standards/WikiData/WD~Neptune,332]]'
 OmegaWiki_Defined_Meaning: 377199
 part_of:
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
-  - "[[_Standards/WikiData/WD~actinide,19577]]"
+- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20148.jpg
 PubChem_CID: 23933
 SpocWebEntityId: 21988
@@ -48,10 +129,170 @@ Unicode_character: 錼
 UNII: 6200K977BQ
 dv_has_:
   name_:
-    group: Actinide-Group
-    en: Neptunium
-    de: Neptunium
     abbreviated: Np
+    af: Neptunium
+    am: ኔፕቲዩኒየም
+    an: Neptunio
+    anp: नेप्चूनियम
+    ar: نبتونيوم
+    ary: نيپتونيوم
+    arz: نبتونيوم
+    ast: neptuniu
+    az: Neptunium
+    ba: Нептуний
+    ban: Néptunium
+    be: Нептуній
+    be-tarask: Нэптун
+    bg: нептуний
+    bho: नेप्चुनियम
+    bn: নেপচুনিয়াম
+    bo: ནེབ་ཊུ་ནིམ།
+    br: Neptuniom
+    bs: neptunij
+    ca: neptuni
+    cdo: Neptunium
+    ceb: Neptunyo
+    chr: ᏁᏩᏚᏂᎥᎻ
+    ckb: نێپتۆنیۆم
+    co: Nettuniu
+    cs: neptunium
+    cv: Нептуни
+    cy: Neptwniwm
+    da: neptunium
+    de: Neptunium
+    el: ποσειδώνιο
+    en: neptunium
+    eo: neptunio
+    es: neptunio
+    et: neptuunium
+    eu: neptunio
+    fa: نپتونیوم
+    fi: neptunium
+    fo: Neptunium
+    fr: neptunium
+    frr: Neptuunium
+    fur: Netuni
+    ga: neiptiúiniam
+    gd: Neiptiunium
+    gl: Neptunio
+    group: Actinide-Group
+    gu: નેપ્ચ્યુનીયમ
+    gv: Nepçhunium
+    hak: neptunium
+    he: נפטוניום
+    hi: नेप्टूनियम
+    hif: Neptunium
+    hr: neptunij
+    ht: Neptinyòm
+    hu: neptúnium
+    hy: նեպտունիում
+    ia: neptunium
+    id: neptunium
+    io: neptunio
+    is: neptúnín
+    it: nettunio
+    ja: ネプツニウム
+    jbo: jinmrneptuni
+    jv: Neptunium
+    ka: ნეპტუნიუმი
+    kbp: Nɛptʊnɩyɔm
+    kk: Нептуний
+    kn: ನೆಪ್ಚೂನಿಯಮ್
+    ko: 넵투늄
+    kv: Нептуний
+    kw: Neptuniom
+    ky: Нептуний
+    la: neptunium
+    lb: Neptunium
+    lfn: netunio
+    li: Neptunium
+    lij: Nettunnio
+    lt: neptūnis
+    lv: neptūnijs
+    lzh: 錼
+    mk: нептуниум
+    ml: നെപ്റ്റ്യൂണിയം
+    mn: нептуни
+    mr: नेप्चूनियम
+    mrj: Нептуний
+    ms: Neptunium
+    mt: nettunju
+    my: နပ်ကျူနီယမ်
+    myv: Нептуний
+    nah: Tlāloctepoztli
+    nan: Neptunium
+    nb: neptunium
+    nds: Neptunium
+    ne: नेप्ट्युनियम
+    new: नेप्टुनियम
+    nl: neptunium
+    nn: neptunium
+    nov: Neptunium
+    oc: neptuni
+    olo: Neptunii
+    or: ନେପ୍ଚୁନିଅମ
+    os: нептуний
+    pi: नेप्टुनियम
+    pl: neptun
+    pms: Netuni
+    pnb: نیپچونیم
+    ps: نېپټونيوم
+    pt: neptúnio
+    pt-br: netúnio
+    qu: Neptunyu
+    ro: neptuniu
+    ru: нептуний
+    rup: Neptuniu
+    sa: नेप्टुनियम
+    sah: Нептуниум
+    sc: Netùniu
+    scn: nittuniu
+    sd: نيپچونيئم
+    se: neptunium
+    sh: Neptunijum
+    sk: neptúnium
+    sl: neptunij
+    smn: neptunium
+    sms: neptunium
+    sq: Neptuni (element kimik)
+    sr: нептунијум
+    sr-ec: Нептунијум
+    stq: Neptunium
+    sv: neptunium
+    sw: neptuni
+    ta: நெப்டூனியம்
+    te: నెప్ట్యూనియం
+    tg: Нептуний
+    th: เนปทูเนียม
+    tl: Neptunyo
+    tr: neptünyum
+    tt: Нептуний
+    ug: نېپتونىي
+    uk: нептуній
+    ur: نیپچونیئم
+    uz: Neptuniy
+    vep: Neptunii
+    vi: neptuni
+    vo: neptunin
+    war: Neptunyo
+    wuu: 镎
+    xal: Нептуниүм
+    yo: Nẹ́ptúníọ̀m
+    yue: 錼
+    zh: 錼
+    zh-cn: 镎
+    zh-hans: 镎
+    zh-hant: 錼
+    zh-hk: 錼
+    zh-mo: 錼
+    zh-my: 镎
+    zh-sg: 镎
+    zh-tw: 錼
+    zu: UmNaphangana
+  number_of_:
+    period: 7
+    group: 27
+    electrons: 93
   value_for_:
     weight_:
       u: 237.0482
@@ -79,23 +320,19 @@ dv_has_:
       form_:
         kj_:
           mol: 0
-  number_of_:
-    period: 7
-    group: 27
-    electrons: 93
 dv_is_:
-  part_of: "[[../Actinide]]"
+  part_of: '[[../Actinide]]'
   same_as:
-    - "[[../../../WikiData/WD~Neptunium,1105]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]"
+  - '[[../../../WikiData/WD~Neptunium,1105]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: "[[../Actinide]]"
+dv_is_part_of: '[[../Actinide]]'
 dv_has_name_en: Neptunium
 dv_has_name_de: Neptunium
 dv_has_name_abbreviated: Np
@@ -116,16 +353,15 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 27
 dv_has_number_of_electrons: 93
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Neptunium,1105]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]"
+- '[[../../../WikiData/WD~Neptunium,1105]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Actinide/Neptunium|Neptunium]]'
+- '[[/_public/Chemistry/Chemical_Element/Actinide/Neptunium.public|Neptunium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Actinide/Neptunium.internal|Neptunium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Actinide/Neptunium.protect|Neptunium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]'
 ---
-
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

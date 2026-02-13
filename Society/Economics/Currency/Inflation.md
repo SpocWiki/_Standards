@@ -1,36 +1,259 @@
 ---
 aliases:
+- boilsciú
+- chwyddiant
+- enflacion
+- enflasyon
+- Fidangan' ny vidim-piainana
+- implasyon
+- infla
+- inflaatio
+- inflace
+- inflacija
+- inflacio
+- inflacion
+- inflacioni
+- Inflaciono
+- inflació
+- inflación
+- inflacja
+- Inflasi
+- inflasie
+- inflasjon
+- inflatie
+- inflatio
+- inflation
+- Inflatioun
+- Inflatschoon
+- inflatsion
+- inflatsioon
+- inflatsiya
+- inflazio
+- Inflazion
+- inflazione
+- inflazzjoni
+- inflação
+- inflašuvdna
+- inflație
+- infliacija
+- inflyasiya
+- inflácia
+- infláció
+- inflýasiýa nämedir
+- inflācija
+- Lavichè
+- lạm phát
+- monc'hwez
+- nflazzioni
+- thiɔrëɣɔ̈c
+- thong-hòe phòng-tiòng
+- verðbólga
+- πληθωρισμός
+- інфляція
+- інфляцыя
+- инфлација
+- инфлация
+- Инфляци
+- инфляция
+- саясий инфляция
+- таваррум
+- գնաճ
+- אינפלאציע
+- אינפלציה
+- افراط زر
+- اينفلاسي
+- تضخم اقتصادى
+- تضخم اقتصادي
+- تورم
+- پۇل پاخاللىقى
+- ډډون
+- ھەڵاوسانی ئابووری
+- އިންފްލޭޝަން
+- इन्फ्लेशन
+- चलनवाढ
+- मुद्रा स्फिती
+- मुद्रा स्फीति
+- মুদ্রাস্ফীতি
+- মুদ্ৰাস্ফীতি
+- ਮਹਿੰਗਾਈ
+- ફુગાવો
+- பணவீக்கம்
+- ద్రవ్యోల్బణం
+- ಹಣದುಬ್ಬರ
+- നാണയപ്പെരുപ്പം
+- උද්ධමනය
+- ภาวะเงินเฟ้อ
+- ສະພາວະເງິນເຟີ້
+- ငွေကြေးဖောင်းပွခြင်း
+- ინფლაცია
+- インフレーション
+- 通貨膨脹
+- 通货膨胀
+- 인플레이션
 has_id_wikidata: Q35865
 Commons_category: Inflation
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-different_from: "[[_Standards/WikiData/WD~Inflation,1175643]]"
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+different_from: '[[_Standards/WikiData/WD~Inflation,1175643]]'
 Gujarati_Vishwakosh_entry: ફુગાવો-inflation
 Iconclass_notation: 46B932
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CPI%20GDP%20M2%20and%20Velocity.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cpis.PNG
+- http://commons.wikimedia.org/wiki/Special:FilePath/CPI%20GDP%20M2%20and%20Velocity.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cpis.PNG
 instance_of:
-  - "[[_Standards/WikiData/WD~phenomenon,483247]]"
-  - "[[_Standards/WikiData/WD~economic_concept,29028649]]"
+- '[[_Standards/WikiData/WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~economic_concept,29028649]]'
 IPTC_NewsCode: mediatopic/20000370
 Library_of_Congress_Classification: HD49.5
 MeSH_tree_code: N03.219.680
 OmegaWiki_Defined_Meaning: 361080
-opposite_of: "[[_Standards/WikiData/WD~deflation,161081]]"
+opposite_of: '[[_Standards/WikiData/WD~deflation,161081]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Inflation.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Inflatie-article.ogg
 studied_by:
-  - "[[_Standards/WikiData/WD~financial_economics,2294553]]"
-  - "[[_Standards/WikiData/WD~macroeconomics,39680]]"
-subclass_of: "[[_Standards/WikiData/WD~economic_problem,3539169]]"
+- '[[_Standards/WikiData/WD~financial_economics,2294553]]'
+- '[[_Standards/WikiData/WD~macroeconomics,39680]]'
+subclass_of: '[[_Standards/WikiData/WD~economic_problem,3539169]]'
 UMLS_CUI: C0021398
 U_S_National_Archives_Identifier: 10638421
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Kurzerkl%C3%A4rt%2C%20Inflation%20-%20Tagesschau.webm
+dv_has_:
+  name_:
+    af: inflasie
+    ar: تضخم اقتصادي
+    arz: تضخم اقتصادى
+    as: মুদ্ৰাস্ফীতি
+    ast: inflación
+    az: inflyasiya
+    azb: تورم
+    ba: инфляция
+    bar: Inflazion
+    bcl: Implasyon
+    be: інфляцыя
+    be-tarask: інфляцыя
+    bg: инфлация
+    bho: इन्फ्लेशन
+    bn: মুদ্রাস্ফীতি
+    br: monc'hwez
+    bs: inflacija
+    ca: inflació
+    ckb: ھەڵاوسانی ئابووری
+    cs: inflace
+    cy: chwyddiant
+    da: inflation
+    de: Inflation
+    din: thiɔrëɣɔ̈c
+    diq: enflasyon
+    dv: އިންފްލޭޝަން
+    el: πληθωρισμός
+    en: inflation
+    en-us: inflation
+    eo: inflacio
+    es: inflación
+    et: inflatsioon
+    eu: inflazio
+    ext: enflacion
+    fa: تورم
+    fi: inflaatio
+    fr: inflation
+    frr: inflatsion
+    ga: boilsciú
+    gl: inflación
+    gsw: Inflation
+    gu: ફુગાવો
+    he: אינפלציה
+    hi: मुद्रा स्फीति
+    hr: inflacija
+    ht: Lavichè
+    hu: infláció
+    hy: գնաճ
+    ia: inflation
+    id: inflasi
+    ie: Inflation
+    io: Inflaciono
+    is: verðbólga
+    it: inflazione
+    ja: インフレーション
+    jv: inflasi
+    ka: ინფლაცია
+    kk: инфляция
+    kn: ಹಣದುಬ್ಬರ
+    ko: 인플레이션
+    ky: саясий инфляция
+    la: inflatio
+    lb: Inflatioun
+    lfn: infla
+    li: inflatie
+    lmo: inflazion
+    lo: ສະພາວະເງິນເຟີ້
+    lrc: تورم
+    lt: infliacija
+    lv: inflācija
+    lzh: 通貨膨脹
+    mg: Fidangan' ny vidim-piainana
+    min: Inflasi
+    mk: инфлација
+    ml: നാണയപ്പെരുപ്പം
+    mn: Инфляци
+    mr: चलनवाढ
+    ms: inflasi
+    ms-arab: اينفلاسي
+    mt: inflazzjoni
+    my: ငွေကြေးဖောင်းပွခြင်း
+    nan: thong-hòe phòng-tiòng
+    nb: inflasjon
+    nds: Inflatschoon
+    nds-nl: inflatie
+    ne: मुद्रा स्फिती
+    nl: inflatie
+    nn: inflasjon
+    oc: inflacion
+    pa: ਮਹਿੰਗਾਈ
+    pl: inflacja
+    pnb: افراط زر
+    ps: ډډون
+    pt: inflação
+    ro: inflație
+    ru: инфляция
+    sah: инфляция
+    scn: nflazzioni
+    sco: inflation
+    sd: افراط زر
+    se: inflašuvdna
+    sh: inflacija
+    si: උද්ධමනය
+    sk: inflácia
+    sl: inflacija
+    smn: inflaatio
+    sms: inflaatio
+    sq: inflacioni
+    sr: инфлација
+    sr-ec: инфлација
+    sr-el: inflacija
+    su: Inflasi
+    sv: inflation
+    ta: பணவீக்கம்
+    te: ద్రవ్యోల్బణం
+    tg: таваррум
+    th: ภาวะเงินเฟ้อ
+    tk: inflýasiýa nämedir
+    tl: implasyon
+    tr: enflasyon
+    tt: инфляция
+    ug: پۇل پاخاللىقى
+    uk: інфляція
+    ur: افراط زر
+    uz: inflatsiya
+    vi: lạm phát
+    war: implasyon
+    wuu: 通货膨胀
+    xmf: ინფლაცია
+    yi: אינפלאציע
+    yue: 通貨膨脹
+    zh: 通货膨胀
 ---
-
 # [[Inflation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Inflation,35865|WD~Inflation,35865]] 

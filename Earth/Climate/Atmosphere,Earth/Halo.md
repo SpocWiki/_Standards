@@ -1,39 +1,169 @@
 ---
 aliases:
+- alone
+- ceclêye
+- fenomena halo
+- galo
+- halas
+- hale
+- halo
+- Halo Solar
+- haloilmiö
+- halojelenség
+- halono
+- haloo
+- halos
+- halou
+- halové jevy
+- halový jav
+- hào quang
+- jalğan kün
+- kalangan
+- qalo
+- rolde de sol
+- serc
+- άλως
+- гало
+- жалған күн
+- хало
+- ҳола
+- հալո
+- הילה
+- جالعان كۇن
+- خەرمانە
+- هالة
+- هاله
+- आभामण्डल
+- ਹਾਲੋ
+- பரிவேடம்
+- పరివేషము
+- ತೇಜೋಮಂಡಲ
+- ഹാലോ
+- การทรงกลด
+- ჰალო
+- 晕
+- 暈
+- 枷
+- 무리
 has_id_wikidata: Q186310
 subclass_of:
-  - "[[_Standards/WikiData/WD~photometeor,494057]]"
-  - "[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129]]"
+- '[[_Standards/WikiData/WD~photometeor,494057]]'
+- '[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~glory,1339916]]"
-  - "[[_Standards/WikiData/WD~Halo,55623]]"
+- '[[_Standards/WikiData/WD~glory,1339916]]'
+- '[[_Standards/WikiData/WD~Halo,55623]]'
 Commons_gallery: Halo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Halo%20in%20the%20Himalayas.jpg
 Commons_category: Halo phenomena
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Halo,186310]]"
-    - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]"
-    - "[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]"
-    - "[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]"
-    - "[[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]]"
-    - "[[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]]"
-    - "[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]"
-    - "[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]"
+  - '[[../../../WikiData/WD~Halo,186310]]'
+  - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]'
+  - '[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]'
+  - '[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]'
+  - '[[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]]'
+  - '[[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]]'
+  - '[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]'
+  - '[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Halo,186310]]"
-  - "[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]"
-  - "[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]"
-  - "[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]"
-  - "[[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]]"
-  - "[[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]]"
-  - "[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]"
-  - "[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]"
+- '[[../../../WikiData/WD~Halo,186310]]'
+- '[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]'
+- '[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]'
+- '[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]'
+- '[[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]]'
+- '[[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]]'
+- '[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]'
+- '[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]'
+dv_has_:
+  name_:
+    an: rolde de sol
+    ar: هالة
+    az: qalo
+    be: гало
+    be-tarask: гало
+    bew: kalangan
+    bg: хало
+    ca: halo
+    ckb: خەرمانە
+    cs: halové jevy
+    da: halo
+    de: Halo
+    el: άλως
+    en: halo
+    eo: haloo
+    es: halo
+    et: halo
+    eu: halo
+    fa: هاله
+    fi: haloilmiö
+    fr: halo
+    he: הילה
+    hi: आभामण्डल
+    hr: halo
+    ht: halo
+    hu: halojelenség
+    hy: հալո
+    id: halo
+    io: halono
+    it: alone
+    ja: 暈
+    jv: halo
+    ka: ჰალო
+    kk: жалған күн
+    kk-arab: جالعان كۇن
+    kk-cn: جالعان كۇن
+    kk-cyrl: жалған күн
+    kk-kz: жалған күн
+    kk-latn: jalğan kün
+    kk-tr: jalğan kün
+    kn: ತೇಜೋಮಂಡಲ
+    ko: 무리
+    ky: гало
+    la: halos
+    lmo: serc
+    lt: halas
+    lv: halo
+    ml: ഹാലോ
+    ms: fenomena halo
+    nb: halo
+    nl: halo
+    nn: halo
+    pa: ਹਾਲੋ
+    pl: halo
+    pt: halo
+    ro: halou
+    ru: гало
+    sh: halo
+    sk: halový jav
+    sl: halo
+    sr: хало
+    sr-el: halo
+    su: halo
+    sv: halo
+    ta: பரிவேடம்
+    te: పరివేషము
+    tet: Halo Solar
+    tg: ҳола
+    th: การทรงกลด
+    tr: hale
+    tt: гало
+    uk: гало
+    uz: galo
+    vi: hào quang
+    wa: ceclêye
+    wuu: 晕
+    yue: 枷
+    zh: 暈
+    zh-cn: 晕
+    zh-hans: 晕
+    zh-hant: 暈
+    zh-hk: 暈
+    zh-sg: 晕
+    zh-tw: 暈
 ---
-
 # [[Halo]] 
 
 #is_/same_as :: [[WD~Halo,186310]] 

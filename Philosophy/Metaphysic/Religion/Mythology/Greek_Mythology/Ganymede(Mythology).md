@@ -1,50 +1,171 @@
 ---
 aliases:
-  - Ganymede
-  - Ganymedes
-  - Ganymede(Mythology)
+- .ganymidis.
+- Ganaiméidéas
+- Ganimed
+- Ganimedas
+- Ganimede
+- Ganimedes
+- Ganimedes (mitologio)
+- Ganimedi
+- Ganimedo (mitologio)
+- Ganimēds
+- Ganymed
+- Ganymede
+- Ganymede(Mythology)
+- Ganymedes
+- Ganymède
+- Ganymédes
+- Ganymédés
+- Ganímedes
+- Ganümédész
+- Qanimed
+- Γανυμήδης
+- Γανυμήδης , Ganymēdēs
+- Ганімед
+- Ганімэд
+- Ганимед
+- Գանիմեդես
+- גנימדס
+- غانيمادس
+- ڭانيميديس
+- گانومده
+- ഗാനിമിഡെ
+- แกนิมีด
+- განიმედე
+- ガニュメーデース
+- 伽倪墨得斯
+- 伽尼米德
+- 가니메데스
 has_id_wikidata: Q131588
 father: '[[_Standards/WikiData/WD~Tros,599482]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Assaracus,739359]]'
-  - '[[_Standards/WikiData/WD~Ilus,1495743]]'
+- '[[_Standards/WikiData/WD~Assaracus,739359]]'
+- '[[_Standards/WikiData/WD~Ilus,1495743]]'
 occupation: '[[_Standards/WikiData/WD~cup_bearer,1075791]]'
 mother: '[[_Standards/WikiData/WD~Callirhoe,1361804]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 instance_of: '[[_Standards/WikiData/WD~mythological_Greek_character,22988604]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Ganymede_with_eagle,126727220]]'
-  - '[[_Standards/WikiData/WD~Ganymede_with_Eagle_and_Eaglet,131557346]]'
-  - '[[_Standards/WikiData/WD~Zeus_and_Ganymede_group,131579686]]'
-  - '[[_Standards/WikiData/WD~Zeus_kisses_Ganymede,131579687]]'
-  - '[[_Standards/WikiData/WD~statue_of_Ganymede_on_the_Eagle,131823332]]'
-  - '[[_Standards/WikiData/WD~Ganymede,131823333]]'
+- '[[_Standards/WikiData/WD~Ganymede_with_eagle,126727220]]'
+- '[[_Standards/WikiData/WD~Ganymede_with_Eagle_and_Eaglet,131557346]]'
+- '[[_Standards/WikiData/WD~Zeus_and_Ganymede_group,131579686]]'
+- '[[_Standards/WikiData/WD~Zeus_kisses_Ganymede,131579687]]'
+- '[[_Standards/WikiData/WD~statue_of_Ganymede_on_the_Eagle,131823332]]'
+- '[[_Standards/WikiData/WD~Ganymede,131823333]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~Troy,22647]]'
 worshipped_by: '[[_Standards/WikiData/WD~Greek_mythology,34726]]'
 Commons_gallery: Ganymede
 Commons_category: Ganymede
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20Ganymede%20Louvre%20Ma535.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Zeus%20and%20Ganymede.%20Penthesilea%20Painter.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bust%20Ganymede%20Louvre%20Ma535.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Zeus%20and%20Ganymede.%20Penthesilea%20Painter.jpg
 Iconclass_notation: 92D868
 Hederich_encyclopedia_article:
-  - Catamítvs
-  - Ganymédes
+- Catamítvs
+- Ganymédes
 EAGLE_id: decor/lod/427
 Krugosvet_article: kultura_i_obrazovanie/religiya/GANIMED.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/8922
 name_in_native_language: Γανυμήδης
+dv_has_:
+  name_:
+    af: Ganymedes
+    ar: غانيمادس
+    ary: ڭانيميديس
+    ast: Ganímedes
+    az: Qanimed
+    ba: Ганимед
+    bar: Ganymed
+    be: Ганімед
+    be-tarask: Ганімэд
+    bg: Ганимед
+    br: Ganimedes
+    bs: Ganimed
+    ca: Ganimedes
+    cs: Ganymédés
+    cy: Ganymede
+    da: Ganymedes
+    de: Ganymed
+    el: Γανυμήδης
+    en: Ganymede
+    en-ca: Ganymede
+    en-gb: Ganymede
+    eo: Ganimedo (mitologio)
+    es: Ganimedes
+    et: Ganymedes
+    eu: Ganimedes
+    fa: گانومده
+    fi: Ganymedes
+    fr: Ganymède
+    ga: Ganaiméidéas
+    gl: Ganimedes
+    grc: Γανυμήδης , Ganymēdēs
+    gsw: Ganymedes
+    gv: Ganymede
+    he: גנימדס
+    hr: Ganimed
+    hu: Ganümédész
+    hy: Գանիմեդես
+    id: Ganimede
+    io: Ganimedes (mitologio)
+    is: Ganymedes
+    it: Ganimede
+    ja: ガニュメーデース
+    jbo: .ganymidis.
+    ka: განიმედე
+    ko: 가니메데스
+    la: Ganymedes
+    lb: Ganymed
+    lmo: Ganimede
+    lt: Ganimedas
+    lv: Ganimēds
+    mdf: Ганимед
+    mg: Ganymède
+    mk: Ганимед
+    ml: ഗാനിമിഡെ
+    ms: Ganymedes
+    nb: Ganymedes
+    nl: Ganymedes
+    pl: Ganimedes
+    pt: Ganímedes
+    pt-br: Ganímedes
+    ro: Ganymede
+    ru: Ганимед
+    scn: Ganimedi
+    sco: Ganymede
+    sh: Ganimed
+    sk: Ganymédes
+    sl: Ganimed
+    sr: Ганимед
+    sr-ec: Ганимед
+    sr-el: Ganimed
+    sv: Ganymedes
+    th: แกนิมีด
+    tl: Ganymede
+    tr: Ganymede
+    uk: Ганімед
+    vi: Ganymede
+    war: Ganymede
+    wuu: 伽倪墨得斯
+    yue: 伽尼米德
+    zh: 伽倪墨得斯
+    zh-cn: 伽倪墨得斯
+    zh-hans: 伽倪墨得斯
+    zh-hant: 伽倪墨得斯
+    zh-hk: 伽尼米德
+    zh-sg: 伽倪墨得斯
+    zh-tw: 伽倪墨得斯
 ---
-
 # [[Ganymede(Mythology)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ganymede,131588|WD~Ganymede,131588]] 

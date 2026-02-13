@@ -1,65 +1,111 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]]"
-    - "[[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]]"
-    - "[[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]]"
-    - "[[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]]"
-    - "[[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]]"
-    - "[[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]]"
+  - '[[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]]'
+  - '[[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]]'
+  - '[[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]]'
+  - '[[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]]'
+  - '[[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]]'
+  - '[[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]]"
-  - "[[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]]"
-  - "[[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]]"
-  - "[[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]]"
-  - "[[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]]"
-  - "[[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]]"
-
-has_time_started: 0128-01-01 
-location: [ 41.898611111, 12.476944444 ] 
+- '[[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]]'
+- '[[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]]'
+- '[[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]]'
+- '[[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]]'
+- '[[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]]'
+- '[[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]]'
+- '[[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]]'
+- '[[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]]'
+has_time_started: 0128-01-01
+location:
+- 41.898611111
+- 12.476944444
 aliases:
-  - Pantheon
-  - Pantheon,Rome
+- Agriparen Panteoia
+- An Paintéón
+- Panteon
+- Panteon de Agripa
+- Panteon in Rome
+- Panteon u Rimu
+- Panteon w Rzymie
+- Panteonas
+- Panteoni, Romë
+- Panteono de Romo
+- Panteons
+- Panteonul din Roma
+- Panteão
+- Panteó
+- Panteón
+- Panteón de Agripa
+- Panteón de Roma
+- Pantheon
+- Pantheon i Roma
+- Pantheon, Roma
+- Pantheon,Rome
+- Panthéon
+- Panthéon, Roma
+- Rooma Panteon
+- Đền Pantheon
+- Πάνθεον
+- Пантеон
+- Пантеон (Рим)
+- Пантеон (Ром)
+- Пантэон
+- Римський Пантеон
+- Պանթեոն
+- הפנתאון ברומא
+- بانثيون
+- پانتئون
+- پانتھیاں
+- پینتھیون
+- विश्व देवालय , रोम
+- பந்தியன், ரோம்
+- పాంథియోన్, రోమ్
+- പാന്തീയോൻ, റോം
+- วิหารแพนธีอัน
+- რომის პანთეონი
+- パンテオン
+- 万神庙
+- 萬神廟
+- 판테온
 has_id_wikidata: Q99309
 instance_of:
-  - '[[_Standards/WikiData/WD~minor_basilica,120560]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~Roman_temple,867143]]'
-  - '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
-  - '[[_Standards/WikiData/WD~ancient_Roman_structure,14752696]]'
-  - '[[_Standards/WikiData/WD~Roman_archaeological_site,21752084]]'
-  - '[[_Standards/WikiData/WD~religious_museum,92755865]]'
-  - '[[_Standards/WikiData/WD~secularized_religious_building,96376684]]'
-  - '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522]]'
-  - '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548]]'
-  - '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
+- '[[_Standards/WikiData/WD~minor_basilica,120560]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~Roman_temple,867143]]'
+- '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
+- '[[_Standards/WikiData/WD~ancient_Roman_structure,14752696]]'
+- '[[_Standards/WikiData/WD~Roman_archaeological_site,21752084]]'
+- '[[_Standards/WikiData/WD~religious_museum,92755865]]'
+- '[[_Standards/WikiData/WD~secularized_religious_building,96376684]]'
+- '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522]]'
+- '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548]]'
+- '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
 architect: '[[_Standards/WikiData/WD~Apollodorus_of_Damascus,189375]]'
 architectural_style: '[[_Standards/WikiData/WD~ancient_Roman_architecture,223750]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Zweiter_Band,126937278]]'
 diocese: '[[_Standards/WikiData/WD~Diocese_of_Rome,665037]]'
 has_use:
-  - '[[_Standards/WikiData/WD~Roman_temple,867143]]'
-  - '[[_Standards/WikiData/WD~Catholic_church_building,1088552]]'
-  - '[[_Standards/WikiData/WD~museum_building,24699794]]'
+- '[[_Standards/WikiData/WD~Roman_temple,867143]]'
+- '[[_Standards/WikiData/WD~Catholic_church_building,1088552]]'
+- '[[_Standards/WikiData/WD~museum_building,24699794]]'
 culture: '[[_Standards/WikiData/WD~culture_of_ancient_Rome,1200427]]'
 locations: '[[_Standards/WikiData/WD~Pigna,1329671]]'
 different_from:
-  - '[[_Standards/WikiData/WD~pantheon,1407042]]'
-  - '[[_Standards/WikiData/WD~Pantheon,3409611]]'
+- '[[_Standards/WikiData/WD~pantheon,1407042]]'
+- '[[_Standards/WikiData/WD~Pantheon,3409611]]'
 Wi_Fi_access:
-  - '[[_Standards/WikiData/WD~gratis,1543615]]'
-  - '[[_Standards/WikiData/WD~no,1814990]]'
+- '[[_Standards/WikiData/WD~gratis,1543615]]'
+- '[[_Standards/WikiData/WD~no,1814990]]'
 depicted_by: '[[_Standards/WikiData/WD~Interior_of_the_Pantheon,_Rome,19904602]]'
 disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]'
 derivative_work: '[[_Standards/WikiData/WD~Mausoleum_von_Carstanjen,26835730]]'
@@ -71,26 +117,26 @@ made_from_material: '[[_Standards/WikiData/WD~concrete,22657]]'
 country: '[[_Standards/WikiData/WD~Italy,38]]'
 fee: 0
 area:
-  - 2000
-  - 1500
+- 2000
+- 1500
 visitors_per_year:
-  - 30000000
-  - 972714
-  - 1737735
-  - 4926809
-  - 8955569
-  - 9330835
+- 30000000
+- 972714
+- 1737735
+- 4926809
+- 8955569
+- 9330835
 employees:
-  - 3
-  - 5
-  - 8
-  - 12
-  - 13
+- 3
+- 5
+- 8
+- 12
+- 13
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Rome,220]]'
 collection_or_exhibition_size: 50
 number_of_volunteers:
-  - 12
-  - 16
+- 12
+- 16
 length: 35
 height: 43.3
 width: 54.5
@@ -113,14 +159,98 @@ P8189: 987007594663405171
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/PANTEON.html
 Commons_Institution_page: Pantheon, Rome
 name:
-  - Panthéon d’Agrippa
-  - Ritonda de Rome
+- Panthéon d’Agrippa
+- Ritonda de Rome
 street_address:
-  - Piazza della Rotonda 18, 00186 Roma
-  - Piazza della Rotonda, 00186 Roma RM
-  - Piazza Della Rotonda, Roma
+- Piazza della Rotonda 18, 00186 Roma
+- Piazza della Rotonda, 00186 Roma RM
+- Piazza Della Rotonda, Roma
+dv_has_:
+  name_:
+    af: Panteon in Rome
+    ar: بانثيون
+    arz: بانثيون
+    ast: Panteón de Agripa
+    az: Panteon
+    ba: Пантеон (Рим)
+    be: Пантэон
+    be-tarask: Пантэон
+    bg: Пантеон
+    bs: Panteon
+    ca: Panteó
+    cs: Pantheon
+    cy: Pantheon
+    da: Pantheon
+    de: Pantheon
+    de-ch: Pantheon
+    el: Πάνθεον
+    eml: Pantheon
+    en: Pantheon
+    en-ca: Pantheon
+    en-gb: Pantheon
+    eo: Panteono de Romo
+    es: Panteón de Agripa
+    et: Rooma Panteon
+    eu: Agriparen Panteoia
+    fa: پانتئون
+    fi: Pantheon
+    fr: Panthéon
+    ga: An Paintéón
+    gl: Panteón de Roma
+    he: הפנתאון ברומא
+    hi: विश्व देवालय , रोम
+    hr: Panteon u Rimu
+    hu: Pantheon
+    hy: Պանթեոն
+    id: Pantheon, Roma
+    it: Pantheon
+    ja: パンテオン
+    jv: Panthéon, Roma
+    ka: რომის პანთეონი
+    ko: 판테온
+    la: Pantheon
+    lfn: Panteon de Agripa
+    lt: Panteonas
+    lv: Panteons
+    mk: Пантеон
+    ml: പാന്തീയോൻ, റോം
+    mn: Пантеон (Ром)
+    ms: Pantheon
+    mt: Panteon
+    mzn: پانتئون
+    nan: Pantheon
+    nb: Pantheon
+    nl: Pantheon
+    nn: Pantheon i Roma
+    oc: Panteon
+    os: Пантеон
+    pl: Panteon w Rzymie
+    pnb: پانتھیاں
+    pt: Panteão
+    pt-br: Panteão
+    ro: Panteonul din Roma
+    ru: Пантеон
+    sco: Pantheon
+    sh: Panteon
+    sk: Panteón
+    sl: Panteon
+    sq: Panteoni, Romë
+    sr: Пантеон
+    sv: Pantheon
+    ta: பந்தியன், ரோம்
+    te: పాంథియోన్, రోమ్
+    th: วิหารแพนธีอัน
+    tr: Panteon
+    uk: Римський Пантеон
+    ur: پینتھیون
+    uz: Panteon
+    vi: Đền Pantheon
+    vls: Pantheon
+    war: Pantheon
+    wuu: 万神庙
+    yue: 萬神廟
+    zh: 万神庙
 ---
-
 # [[Pantheon,Rome]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Pantheon,99309|WD~Pantheon,99309]] 

@@ -1,9 +1,55 @@
 ---
 aliases:
-  - Aeglidae
+- Aeglidae
+- タンスイコシオリエビ科
+- 輝蝦科
+- 辉虾科
+- 아이글라과
 title: Aegla
+has_id_wikidata: Q4687643
+dv_has_:
+  name_:
+    an: Aeglidae
+    ast: Aeglidae
+    bg: Aeglidae
+    ca: Aeglidae
+    ceb: Aeglidae
+    de: Aeglidae
+    en: Aeglidae
+    eo: Aeglidae
+    es: Aeglidae
+    eu: Aeglidae
+    ext: Aeglidae
+    fi: Aeglidae
+    fr: Aeglidae
+    ga: Aeglidae
+    gl: Aeglidae
+    ia: Aeglidae
+    ie: Aeglidae
+    io: Aeglidae
+    it: Aeglidae
+    ja: タンスイコシオリエビ科
+    ko: 아이글라과
+    la: Aeglidae
+    mul: Aeglidae
+    nl: Aeglidae
+    oc: Aeglidae
+    pl: Aeglidae
+    pt: Aeglidae
+    pt-br: Aeglidae
+    ro: Aeglidae
+    ru: Aeglidae
+    sq: Aeglidae
+    tr: Aeglidae
+    uk: Aeglidae
+    vi: Aeglidae
+    vo: Aeglidae
+    war: Aeglidae
+    zh: 辉虾科
+    zh-cn: 辉虾科
+    zh-hans: 辉虾科
+    zh-tw: 輝蝦科
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

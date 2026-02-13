@@ -1,39 +1,209 @@
 ---
 aliases:
+- agein
+- ageing
+- aging
+- Al ginn
+- aldring
+- Altern
+- aosú an duine
+- avieyamientu humanu
+- aviyixhmint
+- biološko starenje
+- enbehesementu
+- envejecimiento
+- envejecimientu
+- envelhecimento
+- envellecemento humano
+- envelliment humà
+- ferâldering
+- gaboow
+- giza zahartze
+- heneiddio
+- hücre yaşlanması
+- invecchiamento
+- lão hóa
+- machuyay
+- maljuniĝo
+- novecošana
+- paggurang
+- pagtanda
+- penuaan
+- plakja
+- proces starzenia się
+- pîrbûn
+- senėjimas
+- staranje
+- starenje
+- stárnutí
+- temenê mirovekî
+- umri
+- vananemine
+- vanheneminen
+- veroudering
+- vieillissement
+- vyéyisman
+- yaşlanma
+- åldrande
+- ìdarúgbó
+- îmbătrânire
+- öregedés
+- γήρανση
+- биолошко старење
+- картаюу
+- кеше йәше
+- кеше картаюы
+- старіння людини
+- стареење
+- стареене
+- старение человека
+- старэньне чалавека
+- қартаю
+- ծերացում
+- הזדקנות
+- עלטער פון מענטש
+- شيخوخة
+- عمررسیدگی
+- پیرش
+- आयुर्वृद्धि
+- बुढ्यौली
+- জরাগ্রস্ততা
+- முதுமையடைதல்
+- వయసుపైబడుట
+- ವೃದ್ದಾಪ್ಯ
+- อายุ
+- လူ သက်တမ်း
+- 老化
+- 노화
 has_id_wikidata: Q332154
 different_from:
-  - "[[_Standards/WikiData/WD~age_of_a_person,185836]]"
-  - "[[_Standards/WikiData/WD~senescence,2070979]]"
+- '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
+- '[[_Standards/WikiData/WD~senescence,2070979]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~senescence,2070979]]"
-  - "[[_Standards/WikiData/WD~developmental_process,2843407]]"
-  - "[[_Standards/WikiData/WD~degradation,94643648]]"
-part_of: "[[_Standards/WikiData/WD~developmental_process,2843407]]"
+- '[[_Standards/WikiData/WD~senescence,2070979]]'
+- '[[_Standards/WikiData/WD~developmental_process,2843407]]'
+- '[[_Standards/WikiData/WD~degradation,94643648]]'
+part_of: '[[_Standards/WikiData/WD~developmental_process,2843407]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~biological_process,2996394]]"
-  - "[[_Standards/WikiData/WD~failure_mode,100151658]]"
+- '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~failure_mode,100151658]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-has_cause: "[[_Standards/WikiData/WD~increase,9073584]]"
-has_characteristic: "[[_Standards/WikiData/WD~Hallmarks_of_aging,107751190]]"
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_cause: '[[_Standards/WikiData/WD~increase,9073584]]'
+has_characteristic: '[[_Standards/WikiData/WD~Hallmarks_of_aging,107751190]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~ageing_research,110477187]]"
-  - "[[_Standards/WikiData/WD~gerontology,10387]]"
-U_S_National_Archives_Identifier: "10638241"
+- '[[_Standards/WikiData/WD~ageing_research,110477187]]'
+- '[[_Standards/WikiData/WD~gerontology,10387]]'
+U_S_National_Archives_Identifier: 10638241
 Dewey_Decimal_Classification:
-  - "612.67"
-  - "155.67"
-  - "305.26"
-  - "571.878"
+- 612.67
+- 155.67
+- 305.26
+- 571.878
 PhilPapers_topic: aging
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pompeo%20Girolamo%20Batoni%20-%20Time%20orders%20Old%20Age%20to%20destroy%20Beauty.jpg
 exact_match: http://purl.obolibrary.org/obo/GO_0007568
 UMLS_CUI: C0001811
 MeSH_tree_code: G07.345.124
 Commons_category: Human aging
+dv_has_:
+  name_:
+    af: veroudering
+    ar: شيخوخة
+    ast: avieyamientu humanu
+    az: yaşlanma
+    ba: кеше йәше
+    bcl: paggurang
+    be-tarask: старэньне чалавека
+    bg: стареене
+    bn: জরাগ্রস্ততা
+    bs: starenje
+    ca: envelliment humà
+    cs: stárnutí
+    cy: heneiddio
+    da: aldring
+    de: Altern
+    el: γήρανση
+    en: ageing
+    en-gb: ageing
+    en-us: aging
+    eo: maljuniĝo
+    es: envejecimiento
+    et: vananemine
+    eu: giza zahartze
+    ext: envejecimientu
+    fa: پیرش
+    fi: vanheneminen
+    fr: vieillissement
+    fy: ferâldering
+    ga: aosú an duine
+    gcr: vyéyisman
+    gl: envellecemento humano
+    ha: ageing
+    he: הזדקנות
+    hi: आयुर्वृद्धि
+    ht: vyéyisman
+    hu: öregedés
+    hy: ծերացում
+    id: penuaan
+    it: invecchiamento
+    ja: 老化
+    kk: қартаю
+    kn: ವೃದ್ದಾಪ್ಯ
+    ko: 노화
+    ku: pîrbûn
+    ku-latn: temenê mirovekî
+    ky: картаюу
+    lb: Al ginn
+    lt: senėjimas
+    lv: novecošana
+    mk: стареење
+    ms: penuaan
+    my: လူ သက်တမ်း
+    nb: aldring
+    ne: बुढ्यौली
+    nl: veroudering
+    nn: aldring
+    pap: enbehesementu
+    pl: proces starzenia się
+    pt: envelhecimento
+    qu: machuyay
+    ro: îmbătrânire
+    ru: старение человека
+    sco: agein
+    sh: starenje
+    si: ageing
+    sl: staranje
+    so: gaboow
+    sq: plakja
+    sr: биолошко старење
+    sr-ec: биолошко старење
+    sr-el: biološko starenje
+    sv: åldrande
+    sw: umri
+    ta: முதுமையடைதல்
+    te: వయసుపైబడుట
+    th: อายุ
+    tl: pagtanda
+    tr: hücre yaşlanması
+    tt: кеше картаюы
+    uk: старіння людини
+    ur: عمررسیدگی
+    vi: lão hóa
+    wa: aviyixhmint
+    wuu: 老化
+    yi: עלטער פון מענטש
+    yo: ìdarúgbó
+    yue: 老化
+    zh: 老化
+    zh-cn: 老化
+    zh-hans: 老化
+    zh-hant: 老化
+    zh-hk: 老化
+    zh-sg: 老化
+    zh-tw: 老化
 ---
-
 # [[Human_Ageing]] 
 
 #is_/same_as :: [[WD~Human_ageing,332154]] 

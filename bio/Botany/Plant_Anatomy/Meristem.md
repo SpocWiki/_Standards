@@ -1,26 +1,139 @@
 ---
 aliases:
+- algkude
+- delingsvev
+- dělivé pletivo
+- meristeem
+- meristeemi
+- meristem
+- meristem doku
+- meristema
+- meristemlər
+- meristemo
+- méristem primèr
+- méristème
+- míristéama
+- mô phân sinh
+- tkanka twórcza
+- veidotājaudi
+- şaneya merîstemî
+- μερίστωμα
+- меристем
+- меристема
+- мэрыстэма
+- образувателна тъкан
+- тvorna tkiva
+- творна ткива
+- түзуші ұлпа
+- մերիսթեմա
+- מריסטמה
+- بارض
+- سرلاد
+- विभज्योतक
+- ভাজক কলা
+- ਮੈਰੀਸਟਿਮ
+- பிரியிழையம்
+- മെരിസ്റ്റെം കല
+- เนื้อเยื่อเจริญ
+- წარმომშობი ქსოვილი
+- 分生組織
+- 分生组织
+- 分裂組織
+- 분열조직
 has_id_wikidata: Q207604
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-subclass_of: "[[_Standards/WikiData/WD~plant_tissue,2707831]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~plant_tissue,2707831]]'
 MeSH_tree_code:
-  - A18.024.875.875
-  - A18.024.937.500
-  - A18.400.500
+- A18.024.875.875
+- A18.024.937.500
+- A18.400.500
 UMLS_CUI:
-  - C0242728
-  - C1136059
+- C0242728
+- C1136059
 Commons_category: Meristem
 Commons_gallery: Méristème
+dv_has_:
+  name_:
+    af: meristeem
+    an: meristemo
+    ar: بارض
+    ast: meristemo
+    az: meristemlər
+    be-tarask: мэрыстэма
+    bg: образувателна тъкан
+    bn: ভাজক কলা
+    bs: meristem
+    ca: meristema
+    cs: dělivé pletivo
+    de: Meristem
+    el: μερίστωμα
+    en: meristem
+    eo: meristemo
+    es: meristemo
+    et: algkude
+    eu: meristemo
+    fa: سرلاد
+    fi: meristeemi
+    fr: méristème
+    ga: míristéama
+    gl: meristemo
+    he: מריסטמה
+    hi: विभज्योतक
+    hy: մերիսթեմա
+    id: meristem
+    io: meristemo
+    it: meristema
+    ja: 分裂組織
+    jv: méristem primèr
+    ka: წარმომშობი ქსოვილი
+    kk: түзуші ұлпа
+    ko: 분열조직
+    ku: şaneya merîstemî
+    ku-latn: şaneya merîstemî
+    ky: меристема
+    la: meristema
+    lt: meristema
+    lv: veidotājaudi
+    mk: меристем
+    ml: മെരിസ്റ്റെം കല
+    ms: meristem
+    nb: delingsvev
+    nl: meristeem
+    pa: ਮੈਰੀਸਟਿਮ
+    pl: tkanka twórcza
+    pt: meristema
+    ro: meristem
+    ru: меристема
+    sco: meristem
+    sl: meristem
+    sr: творна ткива
+    sr-ec: творна ткива
+    sr-el: тvorna tkiva
+    su: meristem
+    sv: meristem
+    ta: பிரியிழையம்
+    th: เนื้อเยื่อเจริญ
+    tr: meristem doku
+    uk: меристема
+    uz: meristema
+    vi: mô phân sinh
+    wuu: 分生组织
+    yue: 分生組織
+    zh: 分生组织
+    zh-cn: 分生组织
+    zh-hans: 分生组织
+    zh-hant: 分生組織
+    zh-hk: 分生組織
+    zh-sg: 分生组织
+    zh-tw: 分生組織
 ---
-
 # [[Meristem]] 
 
 #is_/same_as :: [[WD~Meristem,207604]] 

@@ -1,12 +1,134 @@
 ---
 aliases:
-  - Bedřich Smetana
-  - Bedrich Smetana
-  - Smetana,Bedrich
-  - Smetana,Bedřich
-has_id_wikidata: ''
+- Bedrich Smetana
+- Bedrix Smetana
+- Bedržichas Smetana
+- Bedržihs Smetana
+- Bedržėchos Smetana
+- Bedřich Smetana
+- Fridericus Smetana
+- Smetana Bedrjik
+- Smetana,Bedrich
+- Smetana,Bedřich
+- Μπέντριχ Σμέτανα
+- Беджих Сметана
+- Бедржіх Сметана
+- Бедржих Сметана
+- Бедржых Сметана
+- Бэдржых Смэтана
+- Сметана Бедржих
+- Сметана, Бедржих
+- Բեդրժիխ Սմետանա
+- בדז'יך סמטנה
+- بدرجيخ سميتنا
+- بدریش اسمتانا
+- بيدريخ سميتانا
+- बेद्रिच स्मेताना
+- বেদ্রিখ স্মেতানা
+- ਬੈਡਰਿਚ ਸਮੇਟਾਨਾ
+- பெட்ரிக் சிமேத்தானா
+- แบ็ดฌิค สแมตานา
+- ბედრჟიხ სმეტანა
+- ベドルジハ・スメタナ
+- 比德歷·斯美塔那
+- 贝多伊齐·斯美塔那
+- 贝德里赫·斯美塔那
+- 베드르지흐 스메타나
+has_id_wikidata: Q48173
+dv_has_:
+  name_:
+    af: Bedřich Smetana
+    an: Bedřich Smetana
+    ar: بدرجيخ سميتنا
+    arz: بيدريخ سميتانا
+    ast: Bedřich Smetana
+    az: Bedrix Smetana
+    ba: Бедржих Сметана
+    be: Бедржых Сметана
+    be-tarask: Бэдржых Смэтана
+    bg: Бедржих Сметана
+    bn: বেদ্রিখ স্মেতানা
+    br: Bedřich Smetana
+    bs: Bedřich Smetana
+    ca: Bedřich Smetana
+    cs: Bedřich Smetana
+    cy: Bedřich Smetana
+    da: Bedřich Smetana
+    de: Bedřich Smetana
+    el: Μπέντριχ Σμέτανα
+    en: Bedřich Smetana
+    eo: Bedřich Smetana
+    es: Bedřich Smetana
+    et: Bedřich Smetana
+    eu: Bedrich Smetana
+    fa: بدریش اسمتانا
+    fi: Bedřich Smetana
+    fr: Bedřich Smetana
+    ga: Bedřich Smetana
+    gd: Bedřich Smetana
+    gl: Bedřich Smetana
+    gv: Bedřich Smetana
+    he: בדז'יך סמטנה
+    hif: Bedřich Smetana
+    hr: Bedřich Smetana
+    hu: Bedřich Smetana
+    hy: Բեդրժիխ Սմետանա
+    id: Bedřich Smetana
+    io: Bedřich Smetana
+    is: Bedřich Smetana
+    it: Bedřich Smetana
+    ja: ベドルジハ・スメタナ
+    ka: ბედრჟიხ სმეტანა
+    kk: Сметана, Бедржих
+    ko: 베드르지흐 스메타나
+    kw: Bedřich Smetana
+    ky: Сметана Бедржих
+    la: Fridericus Smetana
+    lb: Bedřich Smetana
+    lt: Bedržichas Smetana
+    lv: Bedržihs Smetana
+    mg: Bedřich Smetana
+    mk: Беджих Сметана
+    mn: Бедржих Сметана
+    mr: बेद्रिच स्मेताना
+    ms: Bedřich Smetana
+    mul: Bedřich Smetana
+    nan: Bedřich Smetana
+    nb: Bedřich Smetana
+    nl: Bedřich Smetana
+    nn: Bedřich Smetana
+    oc: Bedřich Smetana
+    pa: ਬੈਡਰਿਚ ਸਮੇਟਾਨਾ
+    pl: Bedřich Smetana
+    pt: Bedřich Smetana
+    pt-br: Bedřich Smetana
+    qu: Bedřich Smetana
+    ro: Bedřich Smetana
+    ru: Бедржих Сметана
+    sco: Bedřich Smetana
+    sgs: Bedržėchos Smetana
+    sh: Bedřich Smetana
+    sk: Bedřich Smetana
+    sl: Bedřich Smetana
+    sq: Bedrich Smetana
+    sr: Беджих Сметана
+    sr-ec: Беджих Сметана
+    sv: Bedřich Smetana
+    sw: Bedřich Smetana
+    ta: பெட்ரிக் சிமேத்தானா
+    th: แบ็ดฌิค สแมตานา
+    tl: Bedrich Smetana
+    tr: Bedřich Smetana
+    uk: Бедржіх Сметана
+    uz: Smetana Bedrjik
+    vi: Bedřich Smetana
+    vls: Bedřich Smetana
+    vo: Bedřich Smetana
+    war: Bedřich Smetana
+    wuu: 贝德里赫·斯美塔那
+    yue: 比德歷·斯美塔那
+    zh: 贝多伊齐·斯美塔那
 ---
-
 # [[Smetana,Bedřich]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bedřich_Smetana,48173|WD~Bedřich_Smetana,48173]] 

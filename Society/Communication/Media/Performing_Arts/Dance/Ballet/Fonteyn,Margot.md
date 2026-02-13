@@ -1,37 +1,59 @@
 ---
 aliases:
-  - Margot_Fonteyn
-  - Dame Margaret Evelyn de Arias DBE
-  - Margaret Evelyn Hookham
-  - Margot Fonteyn
-  - Fonteyn
-  - Fonteyn,Margot
+- Dame Margaret Evelyn de Arias DBE
+- Fonteyn
+- Fonteyn,Margot
+- Margaret Evelyn Hookham
+- Margarita Fonteyn
+- Margo Fontejn
+- Margot Fonteyn
+- Margot Fonteynová
+- Margot_Fonteyn
+- Μαργκότ Φοντέιν
+- Марга Фантэйн
+- Марго Фонтејн
+- Марго Фонтейн
+- Марго Фонтэйн
+- Фонтейн Марго
+- Մարգո Ֆոնտեյն
+- Մարկօ Ֆոնթէյն
+- מרגוט פונטיין
+- مارجوت فونتين
+- مارگوت فونتین
+- मार्गो फन्तेन
+- മാർഗോട്ട് ഫോണ്ടെയ്ൻ
+- マーゴ・フォンテイン
+- 玛格·芳登
+- 瑪格·芳登
+- 瑪歌·芳婷
+- 瑪歌芳婷
+- 마고트 폰테인
 has_id_wikidata: Q231776
 partner_in_business_or_sport:
-  - '[[_Standards/WikiData/WD~Rudolf_Nureyev,84217]]'
-  - '[[_Standards/WikiData/WD~Robert_Helpmann,931528]]'
-  - '[[_Standards/WikiData/WD~Michael_Somes,6183536]]'
+- '[[_Standards/WikiData/WD~Rudolf_Nureyev,84217]]'
+- '[[_Standards/WikiData/WD~Robert_Helpmann,931528]]'
+- '[[_Standards/WikiData/WD~Michael_Somes,6183536]]'
 cause_of_death: '[[_Standards/WikiData/WD~ovarian_cancer,172341]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 employer:
-  - '[[_Standards/WikiData/WD~The_Royal_Ballet,323283]]'
-  - '[[_Standards/WikiData/WD~American_Airlines,32396]]'
+- '[[_Standards/WikiData/WD~The_Royal_Ballet,323283]]'
+- '[[_Standards/WikiData/WD~American_Airlines,32396]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Pro_Finlandia_Medal_of_the_Order_of_the_Lion_of_Finland,335233]]'
-  - '[[_Standards/WikiData/WD~Benjamin_Franklin_Medal,817363]]'
-  - '[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]'
+- '[[_Standards/WikiData/WD~Pro_Finlandia_Medal_of_the_Order_of_the_Lion_of_Finland,335233]]'
+- '[[_Standards/WikiData/WD~Benjamin_Franklin_Medal,817363]]'
+- '[[_Standards/WikiData/WD~Dame_Commander_of_the_Order_of_the_British_Empire,12201434]]'
 occupation:
-  - '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
-  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
-  - '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~ballet_dancer,805221]]'
+- '[[_Standards/WikiData/WD~choreographer,2490358]]'
+- '[[_Standards/WikiData/WD~fashion_designer,3501317]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
 place_of_birth: '[[_Standards/WikiData/WD~Reigate,1018418]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Evelyn,1381706]]'
-  - '[[_Standards/WikiData/WD~Q1895358,1895358]]'
-  - '[[_Standards/WikiData/WD~Margaret,4963612]]'
+- '[[_Standards/WikiData/WD~Evelyn,1381706]]'
+- '[[_Standards/WikiData/WD~Q1895358,1895358]]'
+- '[[_Standards/WikiData/WD~Margaret,4963612]]'
 educated_at: '[[_Standards/WikiData/WD~Royal_Ballet_School,1455391]]'
 spouse: '[[_Standards/WikiData/WD~Roberto_Arias,2040215]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
@@ -39,8 +61,8 @@ sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 family_name: '[[_Standards/WikiData/WD~Hookham,30669172]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~A_historical_dictionary_of_British_women,124350773]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 place_of_death: '[[_Standards/WikiData/WD~Panama_City,3306]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
@@ -53,14 +75,91 @@ ISNI: 0000000109332624
 Plex_person_key: 5d7769d496b655001fddab57
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FONTEN_MARGO.html
 pseudonym:
-  - Margot Fontes
-  - Margot Fonteyn-Arias
+- Margot Fontes
+- Margot Fonteyn-Arias
 married_name: Margot Arias
 birth_name: Margaret Evelyn Hookham
 name_in_native_language: Margot Fonteyn
 date_of_birth: 1919-05-18T00:00:00Z
+dv_has_:
+  name_:
+    af: Margot Fonteyn
+    ar: مارجوت فونتين
+    arz: مارجوت فونتين
+    ast: Margot Fonteyn
+    ba: Фонтейн Марго
+    be: Марго Фонтэйн
+    be-tarask: Марга Фантэйн
+    bg: Марго Фонтейн
+    ca: Margot Fonteyn
+    cs: Margot Fonteynová
+    da: Margot Fonteyn
+    de: Margot Fonteyn
+    de-ch: Margot Fonteyn
+    el: Μαργκότ Φοντέιν
+    en: Margot Fonteyn
+    en-ca: Margot Fonteyn
+    en-gb: Margot Fonteyn
+    eo: Margot Fonteyn
+    es: Margot Fonteyn
+    et: Margot Fonteyn
+    eu: Margot Fonteyn
+    fa: مارگوت فونتین
+    fi: Margot Fonteyn
+    fr: Margot Fonteyn
+    gl: Margot Fonteyn
+    he: מרגוט פונטיין
+    hif: Margot Fonteyn
+    hr: Margot Fonteyn
+    hu: Margot Fonteyn
+    hy: Մարգո Ֆոնտեյն
+    hyw: Մարկօ Ֆոնթէյն
+    id: Margot Fonteyn
+    io: Margot Fonteyn
+    is: Margot Fonteyn
+    it: Margot Fonteyn
+    ja: マーゴ・フォンテイン
+    kk: Марго Фонтейн
+    ko: 마고트 폰테인
+    kw: Margot Fonteyn
+    la: Margarita Fonteyn
+    mg: Margot Fonteyn
+    mk: Марго Фонтејн
+    ml: മാർഗോട്ട് ഫോണ്ടെയ്ൻ
+    mul: Margot Fonteyn
+    nb: Margot Fonteyn
+    new: मार्गो फन्तेन
+    nl: Margot Fonteyn
+    nn: Margot Fonteyn
+    oc: Margot Fonteyn
+    pl: Margot Fonteyn
+    pt: Margot Fonteyn
+    pt-br: Margot Fonteyn
+    ro: Margot Fonteyn
+    ru: Марго Фонтейн
+    sco: Margot Fonteyn
+    sk: Margot Fonteyn
+    sl: Margot Fonteyn
+    sq: Margot Fonteyn
+    sr: Марго Фонтејн
+    sr-ec: Марго Фонтејн
+    sr-el: Margo Fontejn
+    sv: Margot Fonteyn
+    tr: Margot Fonteyn
+    tt: Марго Фонтейн
+    uk: Марго Фонтейн
+    vi: Margot Fonteyn
+    war: Margot Fonteyn
+    wuu: 玛格·芳登
+    yue: 瑪歌芳婷
+    zh: 瑪格·芳登
+    zh-cn: 玛格·芳登
+    zh-hans: 玛格·芳登
+    zh-hant: 瑪格·芳登
+    zh-hk: 瑪歌·芳婷
+    zh-sg: 玛格·芳登
+    zh-tw: 瑪格·芳登
 ---
-
 # [[Fonteyn,Margot]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Margot_Fonteyn,231776|WD~Margot_Fonteyn,231776]] 

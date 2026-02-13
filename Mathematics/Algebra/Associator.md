@@ -1,3 +1,29 @@
+---
+has_id_wikidata: Q2405805
+dv_has_:
+  name_:
+    de: Assoziator
+    en: associator
+    eo: asociilo
+    fr: associateur
+    he: אסוציאטור
+    ja: 結合子
+    nl: associator
+    pl: asocjator
+    ru: ассоциатор
+    uk: асоціатор
+    zh: 結合子
+aliases:
+- asociilo
+- asocjator
+- associateur
+- associator
+- Assoziator
+- асоціатор
+- ассоциатор
+- אסוציאטור
+- 結合子
+---
 # [[Associator]] 
 
 

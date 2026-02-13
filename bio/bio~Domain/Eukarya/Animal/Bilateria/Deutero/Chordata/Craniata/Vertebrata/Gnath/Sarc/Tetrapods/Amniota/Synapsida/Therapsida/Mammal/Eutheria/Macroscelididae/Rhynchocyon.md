@@ -1,9 +1,70 @@
 ---
 aliases:
-  - Rhynchocyon
+- Rhynchocyon
+- Rüsselhündchen
+- slurfhondjes
+- Snabelhundar
+- Sorkonos
+- Ukanol (Rhynchocyon)
+- Xortumlu itciyəc
+- ארכף גדול
+- حشرهخوارهای خرطومی
+- زبابة الفيل المنقارية
+- زبابة الفيل المنقاريه
+- 东非象鼩属
+- 東非象鼩屬
+- 큰코코끼리땃쥐
 title: Rhynchocyon
+has_id_wikidata: Q742434
+dv_has_:
+  name_:
+    an: Rhynchocyon
+    ar: زبابة الفيل المنقارية
+    arz: زبابة الفيل المنقاريه
+    ast: Rhynchocyon
+    avk: Ukanol (Rhynchocyon)
+    az: Xortumlu itciyəc
+    bg: Rhynchocyon
+    br: Rhynchocyon
+    ca: Rhynchocyon
+    ceb: Rhynchocyon
+    de: Rüsselhündchen
+    en: Rhynchocyon
+    eo: Rhynchocyon
+    es: Rhynchocyon
+    eu: Rhynchocyon
+    ext: Rhynchocyon
+    fa: حشرهخوارهای خرطومی
+    fi: Rhynchocyon
+    fr: Rhynchocyon
+    ga: Rhynchocyon
+    gl: Rhynchocyon
+    he: ארכף גדול
+    ia: Rhynchocyon
+    ie: Rhynchocyon
+    io: Rhynchocyon
+    it: Rhynchocyon
+    ko: 큰코코끼리땃쥐
+    la: Rhynchocyon
+    mt: Rhynchocyon
+    mul: Rhynchocyon
+    nl: slurfhondjes
+    oc: Rhynchocyon
+    pl: Sorkonos
+    pt: Rhynchocyon
+    pt-br: Rhynchocyon
+    ro: Rhynchocyon
+    ru: Rhynchocyon
+    sq: Rhynchocyon
+    sv: Snabelhundar
+    uk: Rhynchocyon
+    vi: Rhynchocyon
+    vo: Rhynchocyon
+    war: Rhynchocyon
+    zh: 东非象鼩属
+    zh-cn: 东非象鼩属
+    zh-tw: 東非象鼩屬
 ---
-
 # [[Rhynchocyon]] 
 
 ![Rhynchocyon chrysopygus](Rhynchocyon/Rhynchocyon_chrysopygus.jpg) ![ ](Rhynchocyon/210618830_bd29523f8b_o.jpg) 

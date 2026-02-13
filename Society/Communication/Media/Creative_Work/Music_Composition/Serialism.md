@@ -1,18 +1,102 @@
 ---
-has_time_started: 1923-01-01 
+has_time_started: 1923-01-01
 aliases:
+- chủ nghĩa nối tiếp
+- cyfresiaeth
+- musica seriala
+- musique sérielle
+- muzică serială
+- sarjallisuus
+- seriaalne meetod
+- serialism
+- serialisme
+- serialismo
+- serialismu
+- serialismus
+- serializm
+- serializmas
+- sericilik
+- seriell musik
+- serielle Musik
+- seriismo
+- serijalizam
+- seriālā mūzika
+- straihaghys
+- szeriális zene
+- серіалізм
+- серијализам
+- сериализм
+- сэрыялізм
+- սերիական երաժշտություն
+- סריאליזם
+- سریالیسم
+- سيرياليزم
+- სერიალიზმი
+- セリエル音楽
+- 序列主义
+- 序列主義
+- 음렬주의
 has_id_wikidata: Q507246
 instance_of:
-  - "[[_Standards/WikiData/WD~music_genre,188451]]"
-  - "[[_Standards/WikiData/WD~compositional_technique,9356285]]"
-  - "[[_Standards/WikiData/WD~musical_movement,12020884]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-part_of: "[[_Standards/WikiData/WD~serial_art,7454675]]"
-subclass_of: "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
+- '[[_Standards/WikiData/WD~music_genre,188451]]'
+- '[[_Standards/WikiData/WD~compositional_technique,9356285]]'
+- '[[_Standards/WikiData/WD~musical_movement,12020884]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+part_of: '[[_Standards/WikiData/WD~serial_art,7454675]]'
+subclass_of: '[[_Standards/WikiData/WD~modern_classical_music,65937946]]'
 Commons_category: Serialism
 inception: 1923-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: سيرياليزم
+    ast: serialismu
+    be-tarask: сэрыялізм
+    ca: serialisme
+    cs: serialismus
+    cy: cyfresiaeth
+    da: serialisme
+    de: serielle Musik
+    en: serialism
+    eo: seriismo
+    es: serialismo
+    et: seriaalne meetod
+    eu: serialismo
+    fa: سریالیسم
+    fi: sarjallisuus
+    fr: musique sérielle
+    gl: serialismo
+    gv: straihaghys
+    he: סריאליזם
+    hr: serijalizam
+    hu: szeriális zene
+    hy: սերիական երաժշտություն
+    it: serialismo
+    ja: セリエル音楽
+    ka: სერიალიზმი
+    ko: 음렬주의
+    la: Serialismus
+    li: Serialisme
+    lt: serializmas
+    lv: seriālā mūzika
+    mk: серијализам
+    nb: serialisme
+    nl: serialisme
+    oc: musica seriala
+    pl: serializm
+    pt: serialismo
+    ro: muzică serială
+    ru: сериализм
+    sr: serijalizam
+    sv: seriell musik
+    tr: sericilik
+    uk: серіалізм
+    vi: chủ nghĩa nối tiếp
+    yue: 序列主義
+    zh: 序列主义
+    zh-hans: 序列主义
+    zh-hant: 序列主義
+    zh-hk: 序列主義
 ---
-
 # [[Serialism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Serialism,507246|WD~Serialism,507246]]  

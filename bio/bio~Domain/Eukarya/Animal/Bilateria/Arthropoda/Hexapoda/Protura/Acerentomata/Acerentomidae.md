@@ -1,9 +1,58 @@
 ---
 aliases:
-  - Acerentomidae
+- Acerentomidae
+- Lönntrevfotingar
+- أَسيرِنْتُومُؤيديا
+- 蚖科
 title: Acerentomidae
+has_id_wikidata: Q2822958
+dv_has_:
+  name_:
+    an: Acerentomidae
+    ar: أَسيرِنْتُومُؤيديا
+    ast: Acerentomidae
+    bg: Acerentomidae
+    ca: Acerentomidae
+    ceb: Acerentomidae
+    de: Acerentomidae
+    en: Acerentomidae
+    eo: Acerentomidae
+    es: Acerentomidae
+    eu: Acerentomidae
+    ext: Acerentomidae
+    fi: Acerentomidae
+    fr: Acerentomidae
+    ga: Acerentomidae
+    gl: Acerentomidae
+    ia: Acerentomidae
+    id: Acerentomidae
+    ie: Acerentomidae
+    io: Acerentomidae
+    it: Acerentomidae
+    la: Acerentomidae
+    mul: Acerentomidae
+    nb: Acerentomidae
+    nl: Acerentomidae
+    oc: Acerentomidae
+    pl: Acerentomidae
+    pt: Acerentomidae
+    pt-br: Acerentomidae
+    ro: Acerentomidae
+    ru: Acerentomidae
+    sq: Acerentomidae
+    sv: Lönntrevfotingar
+    tr: Acerentomidae
+    uk: Acerentomidae
+    uz: Acerentomidae
+    vi: Acerentomidae
+    vo: Acerentomidae
+    war: Acerentomidae
+    yo: Acerentomidae
+    zh: 蚖科
+    zh-cn: 蚖科
+    zh-hans: 蚖科
+    zh-tw: 蚖科
 ---
-
 # [[Acerentomidae]] 
 
 ## #has_/text_of_/abstract 

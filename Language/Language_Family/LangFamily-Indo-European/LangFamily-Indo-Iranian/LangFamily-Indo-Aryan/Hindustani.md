@@ -1,9 +1,255 @@
 ---
 aliases:
-  - Hindi–Urdu
-  - Hindustani
+- bahasa Hindustan
+- Bahasa Hindustani
+- Basa Hindustani
+- Endoustani
+- Fiteny hindi-ordo
+- Gjuha hindustani
+- Hindi-Urdu
+- hindi-urdu ñe'ẽ
+- Hindistani dili
+- Hindistoniy
+- Hindi–Urdu
+- Hindoestani
+- hindoustaneg
+- Hindoustanek
+- hindoustani
+- hindstani
+- hindustaanǩiõll
+- hindustan
+- Hindustana lingvo
+- Hindustanera
+- Hindustani
+- Hindustani bhasa
+- hindustani keel
+- Hindustani zyvon
+- hindustano kalba
+- Hindustanski jezici
+- hindustanščina
+- hindustànic
+- Hindustánî
+- hindustánština
+- Hindustânî
+- hindustāņu valoda
+- hindusztáni
+- Hindwstaneg
+- Hindí-úrdú
+- Hinindi-Inurdu
+- Hinindustanën
+- Hiondústáinis
+- Idioma hindostaní
+- Indiyanci
+- indostana
+- Indostani
+- Indostaniko
+- indostano
+- Indostanėitiu kalba
+- indostánico
+- Indostánicu
+- Inindostanon
+- język hindustani
+- Kihindustani
+- Limba hindustană
+- Lingaz industan
+- lingua Hindi-Urdu
+- Lingua hindustana
+- Lingua hindustani
+- Lènga indostane
+- Língua hindustâni
+- tiếng Hindustan
+- toki Intusan
+- Zıwanê Hinduski
+- Èdè Hindustánì
+- Ινδουστανική γλώσσα
+- гіндустані
+- инди кылъёс
+- хіндустані
+- хинди-урду
+- хинду-урду
+- хиндустани
+- Үнді тілдері
+- ҳиндустонӣ
+- Һиндостани
+- һиндстани
+- հինդի-ուրդու
+- הינדוסטאני
+- הינדוסטנית
+- الهندستانية
+- زبان هندوستانی
+- زمانی ھیندستانی
+- لهندوستانية
+- هندوستاني ژبه
+- هیندوستانی دیلی
+- ھندستاني ٻولي
+- ہندستانی
+- ہندوستانی
+- ہِندوستٲنؠ زَبان
+- हिंदुस्तानी भाषा
+- हिन्दुस्तानी
+- हिन्दुस्तानी भाषा
+- हिन्दुस्थानीभाषा
+- হিন্দুস্তানি ভাষা
+- হিন্দুস্তানী ভাষা
+- ਹਿੰਦੁਸਤਾਨੀ
+- હિંદુસ્તાની
+- ହିନ୍ଦୀ-ଉର୍ଦୁ
+- இந்துசுத்தானி மொழி
+- హిందుస్తానీ భాష
+- ഹിന്ദുസ്ഥാനി
+- හින්දුස්ථානී බස
+- ภาษาฮินดูสตานี
+- ဟင်ဒီ-အူရဒူဘာသာ
+- အူရဒူဘာသာ
+- ჰინდი-ურდუ
+- ᱦᱤᱱᱫᱩᱥᱛᱟᱱᱤ ᱯᱟᱹᱨᱥᱤ
+- ヒンドゥスターニー語
+- 印度斯坦文
+- 印度斯坦语
+- 힌두스탄어
+has_id_wikidata: Q11051
+dv_has_:
+  name_:
+    af: Hindoestani
+    an: Idioma hindostaní
+    anp: हिंदुस्तानी भाषा
+    ar: الهندستانية
+    ary: لهندوستانية
+    as: হিন্দুস্তানী ভাষা
+    ast: Indostánicu
+    az: Hindistani dili
+    azb: هیندوستانی دیلی
+    ba: Һиндостани
+    ban: Basa Hindustani
+    be: хіндустані
+    be-tarask: гіндустані
+    bg: Хиндустани
+    bho: हिंदुस्तानी भाषा
+    bn: হিন্দুস্তানি ভাষা
+    br: hindoustaneg
+    bs: Hindi-Urdu
+    ca: hindustànic
+    ce: Хиндустани
+    ceb: Inindostanon
+    ckb: زمانی ھیندستانی
+    crh: Hindustani
+    cs: hindustánština
+    cy: Hindwstaneg
+    da: Hindustani
+    de: Hindustani
+    diq: Zıwanê Hinduski
+    el: Ινδουστανική γλώσσα
+    en: Hindustani
+    en-ca: Hindustani
+    en-gb: Hindustani
+    eo: Hindustana lingvo
+    es: indostánico
+    et: hindustani keel
+    eu: Hindustanera
+    fa: زبان هندوستانی
+    fi: hindustani
+    fo: Hindustani
+    fr: hindoustani
+    frr: Hindustani
+    ga: Hiondústáinis
+    gcr: Endoustani
+    gl: Lingua hindustana
+    gn: hindi-urdu ñe'ẽ
+    gsw: Hindustani
+    gu: હિંદુસ્તાની
+    ha: Indiyanci
+    he: הינדוסטנית
+    hi: हिन्दुस्तानी
+    hif: Hindustani bhasa
+    hr: Hindustanski jezici
+    hu: hindusztáni
+    hy: հինդի-ուրդու
+    ia: Lingua hindustani
+    id: bahasa Hindustan
+    ilo: Hindi-Urdu
+    is: Hindí-úrdú
+    it: indostano
+    ja: ヒンドゥスターニー語
+    ka: ჰინდი-ურდუ
+    kge: Bahasa Hindustani
+    kk: Үнді тілдері
+    knc: Hindi-Urdu
+    ko: 힌두스탄어
+    krj: Hinindustanën
+    ks: ہِندوستٲنؠ زَبان
+    kw: Hindoustanek
+    la: lingua Hindi-Urdu
+    lld: Lingaz industan
+    lt: hindustano kalba
+    lv: hindustāņu valoda
+    mai: हिन्दुस्तानी भाषा
+    mg: Fiteny hindi-ordo
+    mk: хинду-урду
+    ml: ഹിന്ദുസ്ഥാനി
+    mr: हिंदुस्तानी भाषा
+    ms: bahasa Hindustani
+    my: ဟင်ဒီ-အူရဒူဘာသာ
+    nb: hindustani
+    nds: Hindustani
+    ne: हिन्दुस्तानी भाषा
+    nl: Hindoestani
+    nn: hindustani
+    oc: Indostani
+    or: ହିନ୍ଦୀ-ଉର୍ଦୁ
+    os: хиндустани
+    pa: ਹਿੰਦੁਸਤਾਨੀ
+    pam: Hindustánî
+    pap: hindustan
+    pl: język hindustani
+    pnb: ہندستانی
+    ps: هندوستاني ژبه
+    pt: Língua hindustâni
+    pt-br: Língua hindustâni
+    qu: Hindustani
+    rki: အူရဒူဘာသာ
+    ro: Limba hindustană
+    roa-tara: Lènga indostane
+    ru: хиндустани
+    rue: Гіндустані
+    sa: हिन्दुस्थानीभाषा
+    sat: ᱦᱤᱱᱫᱩᱥᱛᱟᱱᱤ ᱯᱟᱹᱨᱥᱤ
+    sco: Hindustani
+    sd: ھندستاني ٻولي
+    sgs: Indostanėitiu kalba
+    sh: Hindi-Urdu
+    si: හින්දුස්ථානී බස
+    sl: hindustanščina
+    sms: hindustaanǩiõll
+    sq: Gjuha hindustani
+    sr: хинди-урду
+    sr-ec: хинди-урду
+    sr-el: hindi-urdu
+    sv: hindustani
+    sw: Kihindustani
+    ta: இந்துசுத்தானி மொழி
+    te: హిందుస్తానీ భాష
+    tg: ҳиндустонӣ
+    th: ภาษาฮินดูสตานี
+    tl: Indostaniko
+    tly: Hindustani zyvon
+    tok: toki Intusan
+    tr: Hindustânî
+    tt: һиндстани
+    tt-cyrl: һиндстани
+    tt-latn: hindstani
+    udm: инди кылъёс
+    uk: гіндустані
+    ur: ہندوستانی
+    uz: Hindistoniy
+    vec: indostana
+    vi: tiếng Hindustan
+    war: Hinindi-Inurdu
+    wuu: 印度斯坦语
+    yi: הינדוסטאני
+    yo: Èdè Hindustánì
+    yue: 印度斯坦文
+    zh: 印度斯坦语
 ---
-
 # [[Hindustani]] 
 
 #is_/same_as :: [[WikiData/WD~Hindustani,11051|WD~Hindustani,11051]] 

@@ -1,19 +1,115 @@
 ---
 aliases:
+- baile de salón
+- Bal raqsi
+- bal rəqsi
+- ball de saló
+- balles dejas
+- ballo da sala
+- ballroom dance
+- ballroomdans
+- dansa ballroom
+- danse de salon
+- Dansuri de societate
+- dança de salão
+- Dawns neuadd
+- Društveni plesovi
+- Khiêu vũ
+- kilpatanssi
+- salon dansı
+- salonski ples
+- Sayaw na pambulwagan
+- selskabsdans
+- Selskapsdans
+- Seltskonnatants
+- společenský tanec
+- Spoločenský tanec
+- Sporta danco
+- Standardtänze
+- Taniec towarzyski
+- tiodans
+- társastánc
+- бальні танці
+- бальны танец
+- салонски танци
+- спортивный бальный танец
+- Спорттық бал билері
+- Սպորտային պարահանդեսային պարեր
+- ריקודים סלוניים
+- بؤلرومی رقص
+- رقص صالات
+- رقصة بولروم
+- बॉलरूम नृत्य
+- බාල් නැටුම්
+- 社交ダンス
+- 社交舞
+- 사교춤
 has_id_wikidata: Q1085001
 subclass_of:
-  - "[[_Standards/WikiData/WD~partner_dance,280336]]"
-  - "[[_Standards/WikiData/WD~sport,349]]"
-practiced_by: "[[_Standards/WikiData/WD~dancer,5716684]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Danças,_festivais_e_músicas,116742198]]"
+- '[[_Standards/WikiData/WD~partner_dance,280336]]'
+- '[[_Standards/WikiData/WD~sport,349]]'
+practiced_by: '[[_Standards/WikiData/WD~dancer,5716684]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_Loves_Cultura_Popular_Brasil_Danças,_festivais_e_músicas,116742198]]'
 Commons_category: Ballroom dance
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ballroom.svg
+dv_has_:
+  name_:
+    ar: رقصة بولروم
+    arz: رقص صالات
+    az: bal rəqsi
+    be: бальны танец
+    ca: ball de saló
+    cs: společenský tanec
+    cy: Dawns neuadd
+    da: selskabsdans
+    de: Standardtänze
+    en: ballroom dance
+    eo: Sporta danco
+    es: baile de salón
+    et: Seltskonnatants
+    fi: kilpatanssi
+    fr: danse de salon
+    gl: baile de salón
+    he: ריקודים סלוניים
+    hr: Društveni plesovi
+    hu: társastánc
+    hy: Սպորտային պարահանդեսային պարեր
+    id: dansa ballroom
+    it: ballo da sala
+    ja: 社交ダンス
+    kk: Спорттық бал билері
+    ko: 사교춤
+    lv: balles dejas
+    mk: салонски танци
+    mr: बॉलरूम नृत्य
+    nb: Selskapsdans
+    nl: ballroomdans
+    nn: Selskapsdans
+    pl: Taniec towarzyski
+    pt: dança de salão
+    ro: Dansuri de societate
+    ru: спортивный бальный танец
+    sh: Društveni plesovi
+    si: බාල් නැටුම්
+    sk: Spoločenský tanec
+    sl: salonski ples
+    sv: tiodans
+    tl: Sayaw na pambulwagan
+    tr: salon dansı
+    uk: бальні танці
+    ur: بؤلرومی رقص
+    uz: Bal raqsi
+    vi: Khiêu vũ
+    yue: 社交舞
+    zh: 社交舞
+    zh-hans: 社交舞
+    zh-hant: 社交舞
+    zh-hk: 社交舞
 ---
-
 # [[Ballroom_Dance]] 
 
-#is_/same_as :: [[WD~Ballroom Dance,1085001]]
+#is_/same_as :: [[WD~Ballroom_Dance,1085001]]
 
 ## #has_/text_of_/abstract 
 

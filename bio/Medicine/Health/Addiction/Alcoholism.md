@@ -1,55 +1,138 @@
 ---
 aliases:
-  - Alcoholism
+- Alcoholiaeth
+- Alcoholism
+- alcoholisme
+- alcoholismo
+- Alcoholismu
+- alcoholismus
+- Alcolisme
+- alcolismo
+- Alcolismu
+- alcoolism
+- alcoolisme
+- alcoolismo
+- alcólachas
+- alkoholism
+- alkoholisma
+- alkoholisme
+- alkoholismi
+- alkoholismm
+- Alkoholismo
+- alkoholisms
+- alkoholismus
+- Alkoholizam
+- alkoholizem
+- alkoholizm
+- alkoholizmas
+- alkoholizmus
+- Alkoholkrankheet
+- Alkoholkrankheit
+- alkolis
+- Alkolism
+- alkolizm
+- alkoolegezh
+- Alkoolismu
+- Alkoolizmi
+- alkoqolizm
+- alkoħoliżmu
+- Alkóhólismi
+- Bwesson
+- Chiú-cheng tiòng-to̍k
+- chứng nghiện rượu
+- Ibiyayura umutwe
+- Lanh laeuj
+- Molangwa ya seko na seko
+- Shaye-shaye
+- T'iyu unquy
+- Ulevi
+- wara waipiro
+- Xronik alkogolizm
+- αλκοολισμός
+- алкагалізм
+- алкоголізм
+- Алкоголизм
+- Алкохолизам
+- Алкохолизъм
+- алькагалізм
+- Аракечтик
+- Архидалт
+- Маскүнемдік
+- հարբեցողություն
+- אלכוהוליזם
+- אלקאהאליזם
+- الکلیسم
+- الکوليزم
+- الکولیزم
+- الکوهوليسمى
+- كحولية
+- مے پرستی
+- अल्कोहोलिजम
+- मद्यपाश
+- शराबीपन
+- মদ্যাসক্তি
+- ਸ਼ਰਾਬਬਾਜ਼ੀ
+- મદ્યપાન
+- ମଦ୍ୟାତ୍ୟୟ
+- குடிப்பழக்கம்
+- మద్య వ్యసనం
+- ಮದ್ಯದ ಗೀಳು
+- അതിമദ്യാസക്തി
+- โรคพิษสุรา
+- ალკოჰოლიზმი
+- Ịñụbiga mmanya oke
+- アルコール依存症
+- 酗酒
+- 알코올 의존증
 has_id_wikidata: Q15326
 DiseasesDB: alcoholism
 IMDb_keyword: alcoholism
 subreddit:
-  - alcoholism
-  - alcoholic
+- alcoholism
+- alcoholic
 PhilPapers_topic: alcoholism
 Commons_category: Alcoholism
 UMLS_CUI:
-  - C0001956
-  - C0001973
+- C0001956
+- C0001973
 MeSH_tree_code:
-  - C25.775.100.250
-  - F03.900.100.350
+- C25.775.100.250
+- F03.900.100.350
 Wolfram_Language_entity_code: Entity["Concept", "Dipsomania::ggbg7"]
 Krugosvet_article: medicina/ALKOGOLIZM.html
 Colon_Classification: Y:411
 has_effect:
-  - '[[_Standards/WikiData/WD~Marchiafava_Bignami_disease,94796]]'
-  - '[[_Standards/WikiData/WD~liver_cirrhosis,147778]]'
-  - '[[_Standards/WikiData/WD~heart_failure,181754]]'
-  - '[[_Standards/WikiData/WD~alcohol_amnestic_disorder,45462238]]'
+- '[[_Standards/WikiData/WD~Marchiafava_Bignami_disease,94796]]'
+- '[[_Standards/WikiData/WD~liver_cirrhosis,147778]]'
+- '[[_Standards/WikiData/WD~heart_failure,181754]]'
+- '[[_Standards/WikiData/WD~alcohol_amnestic_disorder,45462238]]'
 possible_treatment:
-  - '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-  - '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 afflicts:
-  - '[[_Standards/WikiData/WD~teenager,1492760]]'
-  - '[[_Standards/WikiData/WD~adult_human,9584157]]'
-  - '[[_Standards/WikiData/WD~child,7569]]'
+- '[[_Standards/WikiData/WD~teenager,1492760]]'
+- '[[_Standards/WikiData/WD~adult_human,9584157]]'
+- '[[_Standards/WikiData/WD~child,7569]]'
 has_cause: '[[_Standards/WikiData/WD~alcohol_consumption,2647488]]'
 health_specialty:
-  - '[[_Standards/WikiData/WD~narcology,4313186]]'
-  - '[[_Standards/WikiData/WD~vocational_rehabilitation,6130303]]'
-  - '[[_Standards/WikiData/WD~medical_toxicology,6806614]]'
-  - '[[_Standards/WikiData/WD~psychiatry,7867]]'
-  - '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~narcology,4313186]]'
+- '[[_Standards/WikiData/WD~vocational_rehabilitation,6130303]]'
+- '[[_Standards/WikiData/WD~medical_toxicology,6806614]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychology,9418]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~alcohol_abuse,7331102]]'
-  - '[[_Standards/WikiData/WD~substance_use_disorder,7632070]]'
-  - '[[_Standards/WikiData/WD~dependence_syndrome,16697828]]'
+- '[[_Standards/WikiData/WD~alcohol_abuse,7331102]]'
+- '[[_Standards/WikiData/WD~substance_use_disorder,7632070]]'
+- '[[_Standards/WikiData/WD~dependence_syndrome,16697828]]'
 practiced_by: '[[_Standards/WikiData/WD~alcoholic,9148481]]'
 instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
 social_media_followers: 60030
@@ -58,11 +141,131 @@ OmegaWiki_Defined_Meaning: 774865
 U_S_National_Archives_Identifier: 10640440
 Iconclass_notation: 31B531
 Dewey_Decimal_Classification:
-  - 362.292
-  - 616.861
+- 362.292
+- 616.861
 P8189: 987007293069305171
+dv_has_:
+  name_:
+    af: alkoholisme
+    ar: كحولية
+    ast: Alcoholismu
+    az: alkoqolizm
+    azb: الکولیزم
+    ba: алкоголизм
+    be: алкагалізм
+    be-tarask: алькагалізм
+    bg: Алкохолизъм
+    bn: মদ্যাসক্তি
+    br: alkoolegezh
+    bs: Alkoholizam
+    ca: alcoholisme
+    cs: alkoholismus
+    cv: Алкоголизм
+    cy: Alcoholiaeth
+    da: alkoholisme
+    de: Alkoholkrankheit
+    el: αλκοολισμός
+    en: alcoholism
+    eo: alkoholismo
+    es: alcoholismo
+    et: alkoholism
+    eu: alkoholismo
+    fa: الکلیسم
+    fi: alkoholismi
+    fr: alcoolisme
+    fy: Alkoholisme
+    ga: alcólachas
+    gcr: Alkolism
+    gl: alcoholismo
+    gpe: alcoholism
+    gu: મદ્યપાન
+    ha: Shaye-shaye
+    he: אלכוהוליזם
+    hi: शराबीपन
+    hif: Alcoholism
+    hr: alkoholizam
+    ht: alkolis
+    hu: alkoholizmus
+    hy: հարբեցողություն
+    id: Alkoholisme
+    ig: Ịñụbiga mmanya oke
+    is: Alkóhólismi
+    it: alcolismo
+    ja: アルコール依存症
+    jv: Alkoholisme
+    ka: ალკოჰოლიზმი
+    kk: Маскүнемдік
+    kn: ಮದ್ಯದ ಗೀಳು
+    ko: 알코올 의존증
+    ky: Аракечтик
+    la: alcoholismus
+    lb: Alkoholkrankheet
+    ln: Molangwa ya seko na seko
+    lt: alkoholizmas
+    lv: alkoholisms
+    mi: wara waipiro
+    mk: Алкохолизам
+    ml: അതിമദ്യാസക്തി
+    mn: Архидалт
+    mr: मद्यपाश
+    ms: alkoholisme
+    ms-arab: الکوهوليسمى
+    mt: alkoħoliżmu
+    nan: Chiú-cheng tiòng-to̍k
+    nb: alkoholisme
+    new: अल्कोहोलिजम
+    nl: alcoholisme
+    nn: alkoholisme
+    oc: Alcolisme
+    or: ମଦ୍ୟାତ୍ୟୟ
+    os: алкоголизм
+    pa: ਸ਼ਰਾਬਬਾਜ਼ੀ
+    pam: Alkoolismu
+    pl: alkoholizm
+    ps: الکوليزم
+    pt: alcoolismo
+    pt-br: alcoolismo
+    qu: T'iyu unquy
+    rn: Ibiyayura umutwe
+    ro: alcoolism
+    ru: алкоголизм
+    rue: Алкоголизм
+    sah: Алкоголизм
+    sc: Alcolismu
+    scn: Alcolismu
+    sco: Alcoholism
+    se: alkoholisma
+    sh: Alkoholizam
+    sk: alkoholizmus
+    sl: alkoholizem
+    smn: alkoholism
+    sms: alkoholismm
+    sq: Alkoolizmi
+    sr: алкохолизам
+    sr-ec: алкохолизам
+    sv: alkoholism
+    sw: Ulevi
+    ta: குடிப்பழக்கம்
+    te: మద్య వ్యసనం
+    tg: Алкоголизм
+    th: โรคพิษสุรา
+    tl: Alkoholismo
+    tr: alkolizm
+    tt: Алкоголизм
+    uk: алкоголізм
+    ur: مے پرستی
+    uz: Xronik alkogolizm
+    vi: chứng nghiện rượu
+    wa: Bwesson
+    war: Alkoholismo
+    wuu: 酗酒
+    xmf: ალკოჰოლიზმი
+    yi: אלקאהאליזם
+    yue: 酗酒
+    za: Lanh laeuj
+    zh: 酗酒
+    zh-hant: 酗酒
 ---
-
 # [[Alcoholism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Alcoholism,15326]]

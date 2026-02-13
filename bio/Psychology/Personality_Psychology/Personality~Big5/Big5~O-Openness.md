@@ -1,12 +1,37 @@
 ---
 aliases:
-  - Offenheit
-  - openness
-  - Big5~Openness
+- Abertura à experiência
+- apertura a la experiencia
+- Apertura mentale
+- Avatus
+- Avoimuus
+- Big5~Openness
+- Esperientziarekiko irekitasun
+- malfermiteco al spertoj
+- obertura a l'experiència
+- Odprtost
+- Offenheit
+- openness
+- openness to experience
+- otevřenost vůči zkušenosti
+- ouverture à l'expérience
+- tapasztalatok iránti nyitottság
+- Terbuka untuk pengalaman
+- verto mentalmente
+- Öppenhet (psykologi)
+- Отвореност за искуство
+- Открытость опыту (интеллект)
+- פתיחות לחוויה
+- انفتاح على التجربة
+- باز بودن
+- 経験への開放性
+- 經驗開放度
+- 经验开放性
+- 경험 개방성
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -24,12 +49,40 @@ linkTitle: Offenheit
 publish: false
 publishDate: ''
 tags:
-  - Offenheit
-  - excalidraw
+- Offenheit
+- excalidraw
 title: Offenheit
 type: private_note
+has_id_wikidata: Q2015673
+dv_has_:
+  name_:
+    ar: انفتاح على التجربة
+    ca: obertura a l'experiència
+    cs: otevřenost vůči zkušenosti
+    de: Offenheit
+    en: openness to experience
+    eo: malfermiteco al spertoj
+    es: apertura a la experiencia
+    et: Avatus
+    eu: Esperientziarekiko irekitasun
+    fa: باز بودن
+    fi: Avoimuus
+    fr: ouverture à l'expérience
+    he: פתיחות לחוויה
+    hu: tapasztalatok iránti nyitottság
+    id: Terbuka untuk pengalaman
+    it: Apertura mentale
+    ja: 経験への開放性
+    ko: 경험 개방성
+    pt: Abertura à experiência
+    ru: Открытость опыту (интеллект)
+    sl: Odprtost
+    sr: Отвореност за искуство
+    sv: Öppenhet (psykologi)
+    vec: verto mentalmente
+    yue: 經驗開放度
+    zh: 经验开放性
 ---
-
 # [[Big5~O-Openness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

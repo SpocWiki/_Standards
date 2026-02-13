@@ -1,14 +1,82 @@
 ---
 aliases:
-  - Bovidae: ''
-  - Bovidae
+- Bideeʼtsʼinígíí
+- Bovedoj
+- Bovid
+- Bovidae
+- Bovidé
+- Bovídeos
+- Boynuzlugiller
+- Boşbuynuzlular
+- Bufilod
+- bòvids
+- bóvidos
+- dobradži
+- Dykaraginiai
+- Ejeneged
+- Gû-kho
+- Haraasheeyyii
+- Holhoarnigen
+- holhoornigen
+- Holhoringes
+- Holhôornign
+- Hoolheurege
+- Hornträger
+- Hurndiarten
+- họ Trâu bò
+- jaftoleem
+- kvegdyr
+- kvegfamilien
+- nautaeläimet
+- Quvushshoxlilar
+- Rannerdéieren
+- Skedehornede
+- slidhornsdjur
+- Slíðurhyrningar
+- System.Collections.Generic.Dictionary`2[System.Object,System.Object]
+- Tifunasiyin
+- Turovité
+- turovití
+- tülkösszarvúak
+- veislased
+- votlorogi
+- vuovdâčorvâgeh
+- wołowate
+- Šupljorošci
+- Βοοειδή
+- бикові
+- кухороги
+- Кыксюраэз
+- полорогие
+- пустарогія
+- Тутсыкъаджынтæ
+- Хăвăл мăйракаллисем
+- шупљорога говеда
+- шуплороги
+- Қуысмүйізділер
+- Սնամեջ եղջերավորներ
+- פריים
+- بقريات
+- بوش بوینوزلولار
+- گانواں
+- گاوسانان
+- गवयाद्य
+- गोवंश
+- বোভিডি
+- போவிடே
+- วงศ์วัวและควาย
+- ძროხისებრნი
+- የቶራ አስተኔ
+- ウシ科
+- 牛科
+- 소과
 has_id_wikidata: Q25497
 title:
   Bovidae: ''
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -29,11 +97,118 @@ linkTitle:
 publish: false
 publishDate: ''
 tags:
-  - Bovidae: ''
-  - excalidraw
+- Bovidae: ''
+- excalidraw
 type: private_note
+dv_has_:
+  name_:
+    af: Holhoringes
+    am: የቶራ አስተኔ
+    an: Bovidae
+    ar: بقريات
+    arz: بقريات
+    ast: Bovidae
+    avk: jaftoleem
+    az: Boşbuynuzlular
+    azb: بوش بوینوزلولار
+    be: пустарогія
+    be-tarask: пустарогія
+    bg: кухороги
+    bn: বোভিডি
+    br: Ejeneged
+    bs: Bovidae
+    ca: bòvids
+    ceb: Bovidae
+    cs: turovití
+    cv: Хăвăл мăйракаллисем
+    cy: Bufilod
+    da: Skedehornede
+    de: Hornträger
+    de-ch: Hornträger
+    el: Βοοειδή
+    en: Bovidae
+    en-ca: Bovid
+    en-gb: Bovid
+    eo: Bovedoj
+    es: bóvidos
+    et: veislased
+    eu: Bovidae
+    ext: Bovidae
+    fa: گاوسانان
+    fi: nautaeläimet
+    fr: Bovidé
+    frr: Hurndiarten
+    fy: Holhoarnigen
+    ga: Bovidae
+    gd: Bovidae
+    gl: bóvidos
+    haw: Bovidae
+    he: פריים
+    hi: गोवंश
+    hr: Šupljorošci
+    hu: tülkösszarvúak
+    hy: Սնամեջ եղջերավորներ
+    ia: Bovidae
+    id: Bovidae
+    ie: Bovidae
+    io: Bovidae
+    is: Slíðurhyrningar
+    it: Bovidae
+    ja: ウシ科
+    jv: Bovidae
+    ka: ძროხისებრნი
+    kab: Tifunasiyin
+    kk: Қуысмүйізділер
+    ko: 소과
+    koi: Кыксюраэз
+    la: Bovidae
+    lb: Rannerdéieren
+    li: Hoolheurege
+    lt: Dykaraginiai
+    lv: dobradži
+    mk: шуплороги
+    mr: गवयाद्य
+    ms: Bovidae
+    mul: Bovidae
+    nan: Gû-kho
+    nb: kvegfamilien
+    nl: holhoornigen
+    nn: kvegdyr
+    nv: Bideeʼtsʼinígíí
+    oc: Bovidae
+    om: Haraasheeyyii
+    os: Тутсыкъаджынтæ
+    pl: wołowate
+    pnb: گانواں
+    pt: Bovídeos
+    pt-br: Bovídeos
+    ro: Bovidae
+    ru: полорогие
+    sco: bovid
+    sh: Šupljorošci
+    sk: Turovité
+    sl: votlorogi
+    smn: vuovdâčorvâgeh
+    sq: Bovidae
+    sr: шупљорога говеда
+    sv: slidhornsdjur
+    ta: போவிடே
+    th: วงศ์วัวและควาย
+    tl: Bovidae
+    tr: Boynuzlugiller
+    uk: бикові
+    uz: Quvushshoxlilar
+    vi: họ Trâu bò
+    vls: Holhôornign
+    vo: Bovidae
+    war: Bovidae
+    wuu: 牛科
+    yue: 牛科
+    zh: 牛科
+    zh-cn: 牛科
+    zh-hans: 牛科
+    zh-tw: 牛科
 ---
-
 # [[Bovidae]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Bovidae,25497|WD~Bovidae,25497]] 

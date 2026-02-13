@@ -1,31 +1,169 @@
 ---
 aliases:
+- Braghaagedisje
+- broøgler
+- brughagedissen
+- Brycȝāðexe
+- Brögkherdisse
+- Brückenechsen
+- haterie
+- Hatteria
+- Hatteriya
+- Hatéria
+- hatērijas
+- hidasgyík
+- Naʼashǫ́ʼii nághahwozhí
+- Premosnici
+- Ranakollar
+- Sphenodon
+- Sphenodon punctatus
+- Tuataara
+- Tuatara
+- tuatarat
+- Tuataro
+- Tuataros
+- Tuátara
+- Tuātara
+- Гатерія
+- гаттерии
+- Гаттерия
+- Гатэрыя
+- Туатара
+- Туатаре
+- хатерии
+- Հատերիա
+- ספנודון
+- توآتارا
+- سوسمار پل دماغی
+- طراطرة
+- طراطره
+- টুৱাটেৰা
+- স্ফেনডন পান্কটাম
+- பிடரிக்கோடன்
+- ಟೂವಟಾರ
+- ടുവാടര
+- ทัวทารา
+- တူတာရာ
+- ჰატერია
+- ムカシトカゲ
+- 刺背鱷蜥
+- 楔齒蜥屬
+- 楔齿蜥属
+- 투아타라
 has_id_wikidata: Q163283
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-CITES_Appendix: "[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]"
-parent_taxon: "[[../../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641]]"
-homonymous_taxon: "[[_Standards/WikiData/WD~Sphenodon,119166980]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Sphenodon,119166980]]'
 start_time: -240000000-01-01T00:00:00Z
-endemic_to: "[[_Standards/WikiData/WD~New_Zealand,664]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
-ITIS_TSN: "202131"
+endemic_to: '[[_Standards/WikiData/WD~New_Zealand,664]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+ITIS_TSN: 202131
 taxon_name: Sphenodon
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Island%20Map%20tuatara.PNG
 Commons_category: Sphenodon punctatus
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sphenodon%20punctatus%20in%20Waikanae%2C%20New%20Zealand.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Tuatara%20adult.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sphenodon%20punctatus%20in%20Waikanae%2C%20New%20Zealand.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Tuatara%20adult.jpg
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Tuatara%20scale.png
 EPPO_Code: 1SQHNG
 UMLS_CUI: C0999081
 taxon_common_name:
-  - tuátara
-  - Tuatara
+- tuátara
+- Tuatara
+dv_has_:
+  name_:
+    an: Sphenodon punctatus
+    ang: Brycȝāðexe
+    ar: طراطرة
+    arz: طراطره
+    as: টুৱাটেৰা
+    ast: Tuátara
+    az: Hatteriya
+    ban: Tuatara
+    bcl: Tuatara
+    be: Гатэрыя
+    be-tarask: гатэрыя
+    bg: хатерии
+    bn: স্ফেনডন পান্কটাম
+    br: Tuatara
+    ca: tuatara
+    ceb: Sphenodon
+    cs: haterie
+    da: Tuatara
+    de: Brückenechsen
+    el: Sphenodon
+    en: tuatara
+    en-ca: Tuatara
+    en-gb: Tuatara
+    eo: Tuataro
+    es: Sphenodon
+    et: Tuataara
+    eu: Tuatara
+    fa: سوسمار پل دماغی
+    fi: tuatarat
+    fr: Sphenodon
+    frr: Braghaagedisje
+    ga: Sphenodon
+    gl: Tuatara
+    gn: Tuátara
+    he: ספנודון
+    hr: Premosnici
+    hu: hidasgyík
+    hy: Հատերիա
+    ia: Sphenodon
+    id: Sphenodon
+    is: Ranakollar
+    it: Sphenodon
+    ja: ムカシトカゲ
+    jv: Tuatara
+    ka: ჰატერია
+    kk: Гаттерия
+    kn: ಟೂವಟಾರ
+    ko: 투아타라
+    ky: Гаттерия
+    la: Sphenodon
+    lfn: Tuatara
+    li: Brögkherdisse
+    lt: Tuataros
+    lv: hatērijas
+    mi: Tuātara
+    mk: Туатара
+    ml: ടുവാടര
+    mul: Sphenodon
+    my: တူတာရာ
+    mzn: توآتارا
+    nb: broøgler
+    nl: brughagedissen
+    nv: Naʼashǫ́ʼii nághahwozhí
+    oc: Tuatara
+    pl: Hatteria
+    pt: tuatara
+    pt-br: Tuatara
+    ro: Tuatara
+    ru: гаттерии
+    sco: tuatara
+    sh: Premosnici
+    sk: Hatéria
+    sl: Tuatara
+    sq: Sphenodon
+    sr: Туатаре
+    sv: Sphenodon
+    ta: பிடரிக்கோடன்
+    th: ทัวทารา
+    tl: Tuatara
+    tr: Tuatara
+    uk: Гатерія
+    vi: Sphenodon
+    war: Sphenodon
+    yue: 刺背鱷蜥
+    zh: 楔齿蜥属
+    zh-cn: 楔齿蜥属
+    zh-tw: 楔齒蜥屬
 ---
-
 # [[Tuatara]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Tuatara,163283|WD~Tuatara,163283]]  

@@ -1,18 +1,93 @@
 ---
 aliases:
-  - chroma
-  - saturation
-  - Colorfulness
+- asetasun
+- chroma
+- Colorfulness
+- Farbsättigung
+- Fargemetning
+- färgmättnad
+- Kewarnawarnian
+- Kromaatilisus (värviteooria)
+- nasičenost barve
+- Renklilik
+- Saturacion (colors)
+- Saturació cromàtica
+- saturación
+- saturación cromática
+- saturacja
+- saturation
+- saturazione cromatica
+- Saturação
+- Satureso (koloro)
+- sytost
+- színtelítettség
+- verzadiging
+- värikylläisyys
+- Zasićenje boje
+- Заситеност
+- насиченість
+- Насычанасць
+- насычанасьць
+- насыщенность
+- רוויה
+- تلون
+- رنگارنگی
+- वर्ण संतृप्ति
+- ਰੰਗਪੁਣਾ
+- 彩度
+- 色度
+- 채도
 has_id_wikidata: Q27673
-subclass_of: "[[_Standards/WikiData/WD~quality,185957]]"
-different_from: "[[_Standards/WikiData/WD~Saturation,220395]]"
-described_by_source: "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-facet_of: "[[_Standards/WikiData/WD~color,1075]]"
+subclass_of: '[[_Standards/WikiData/WD~quality,185957]]'
+different_from: '[[_Standards/WikiData/WD~Saturation,220395]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+facet_of: '[[_Standards/WikiData/WD~color,1075]]'
 Commons_category: Colorful
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pharmacie%20Centrale%20Belge%20-%20340996%20-%20onroerenderfgoed.jpg
 IEV_number: 845-22-072
+dv_has_:
+  name_:
+    ar: تلون
+    be: Насычанасць
+    be-tarask: насычанасьць
+    ca: Saturació cromàtica
+    cs: sytost
+    de: Farbsättigung
+    en: colorfulness
+    es: saturación
+    et: Kromaatilisus (värviteooria)
+    eu: asetasun
+    fa: رنگارنگی
+    fi: värikylläisyys
+    fr: saturation
+    gl: saturación cromática
+    he: רוויה
+    hi: वर्ण संतृप्ति
+    hu: színtelítettség
+    id: Kewarnawarnian
+    io: Satureso (koloro)
+    it: saturazione cromatica
+    ja: 彩度
+    ko: 채도
+    mk: Заситеност
+    nb: Fargemetning
+    nl: verzadiging
+    oc: Saturacion (colors)
+    pa: ਰੰਗਪੁਣਾ
+    pl: saturacja
+    pt: Saturação
+    ru: насыщенность
+    sl: nasičenost barve
+    sr: Zasićenje boje
+    sv: färgmättnad
+    tr: Renklilik
+    uk: насиченість
+    wuu: 色度
+    yue: 彩度
+    zh: 色度
+    zh-hans: 色度
+    zh-hant: 色度
 ---
-
 # [[Colorfulness]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Colorfulness,27673|WD~Colorfulness,27673]] 

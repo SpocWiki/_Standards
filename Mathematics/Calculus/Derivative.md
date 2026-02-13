@@ -1,7 +1,79 @@
 ---
 aliases:
-  - Ableitung
-  - Derivative
+- Ableitung
+- afgeleide
+- afleiða
+- atvasinājums
+- babbaafamaa
+- deilliant
+- deribatibo
+- deribatu
+- derivaatta
+- derivace
+- derivacija
+- derivada
+- Derivade
+- derivajo
+- derivasjon
+- derivata
+- derivati
+- derivation
+- Derivative
+- derivativum
+- derivată
+- derivaĵo
+- deriveye
+- derivácia
+- derivált
+- differencial
+- differensial
+- dirivata
+- dérivée
+- díorthach
+- izvod
+- išvestinė
+- odvod
+- pochodna
+- pochodno
+- sa'o
+- terbitan
+- tuletis
+- tungab
+- turunan
+- törəmə
+- türev
+- đạo hàm
+- παράγωγος
+- вытворная функцыі
+- дериватив
+- извод
+- похідна
+- производна
+- производная функции
+- функцин тухсатăранĕ
+- функция чыгарылмасы
+- функцияның сығарылмаһы
+- Ֆունկցիայի ածանցյալ
+- דעריוואטיוו
+- נגזרת
+- تؤرهمه
+- تربيتن
+- مشتق
+- گرتە
+- अवकलन
+- অন্তরজ
+- অৱকলজ
+- வகையிடல்
+- അവകലജം
+- อนุพันธ์
+- ຜົນຕຳລາ
+- ဒစ်ဖရန်ရှေးရှင်း
+- წარმოებული
+- ውድድር
+- 导数
+- 導數
+- 微分
+- 미분
 has_id_wikidata: Q29175
 studied_by: '[[_Standards/WikiData/WD~differential_calculus,149999]]'
 part_of: '[[_Standards/WikiData/WD~differential_calculus,149999]]'
@@ -14,20 +86,127 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 described_by_source: '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>f</mi><mo>&#x2032;</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mo stretchy="false">=</mo><munder><mi form="prefix">lim</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>h</mi><mo stretchy="false" accent="false">&#x2192;</mo><mn>0</mn></mrow></mrow></munder><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">+</mo><mi>h</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x2212;</mo><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>h</mi></mrow></mfrac></mrow></mstyle></mrow></math>
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>lim</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>f</mi><mo>&#x2032;</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>lim</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mi>f</mi><mo>&#x2032;</mo></msup><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo></mstyle></mrow></math>
 subclass_of: '[[_Standards/WikiData/WD~function,11348]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tangent%20to%20a%20curve.svg
 described_at_URL:
-  - https://math.libretexts.org/Bookshelves/Calculus/Calculus_(OpenStax)/03%3A_Derivatives/3.02%3A_The_Derivative_as_a_Function
-  - https://tutorial.math.lamar.edu/classes/calci/defnofderivative.aspx
-  - https://www.cuemath.com/calculus/derivatives/
-  - https://www.khanacademy.org/math/differential-calculus/dc-diff-intro
+- https://math.libretexts.org/Bookshelves/Calculus/Calculus_(OpenStax)/03%3A_Derivatives/3.02%3A_The_Derivative_as_a_Function
+- https://tutorial.math.lamar.edu/classes/calci/defnofderivative.aspx
+- https://www.cuemath.com/calculus/derivatives/
+- https://www.khanacademy.org/math/differential-calculus/dc-diff-intro
 Stack_Exchange_tag: https://math.stackexchange.com/tags/derivatives
 Krugosvet_article: matematika/proizvodnaya
+dv_has_:
+  name_:
+    af: afgeleide
+    am: ውድድር
+    an: derivada
+    ar: مشتق
+    as: অৱকলজ
+    ast: derivada
+    az: törəmə
+    azb: تؤرهمه
+    ba: функцияның сығарылмаһы
+    be: вытворная функцыі
+    be-tarask: вытворная функцыі
+    bg: производна
+    bho: अवकलन
+    bn: অন্তরজ
+    bs: derivacija
+    ca: derivada
+    ckb: گرتە
+    cs: derivace
+    cv: функцин тухсатăранĕ
+    cy: deilliant
+    da: derivation
+    de: Ableitung
+    dtp: tungab
+    el: παράγωγος
+    en: derivative
+    en-gb: derivative
+    eo: derivaĵo
+    es: derivada
+    et: tuletis
+    eu: deribatu
+    fa: مشتق
+    fi: derivaatta
+    fr: dérivée
+    fur: Derivade
+    ga: díorthach
+    gl: derivada
+    he: נגזרת
+    hi: अवकलन
+    hr: derivacija
+    hu: derivált
+    hy: Ֆունկցիայի ածանցյալ
+    id: turunan
+    io: derivajo
+    is: afleiða
+    it: derivata
+    ja: 微分
+    jbo: sa'o
+    ka: წარმოებული
+    kaa: differencial
+    ko: 미분
+    la: derivativum
+    lmo: derivada
+    lo: ຜົນຕຳລາ
+    lt: išvestinė
+    lv: atvasinājums
+    lzh: 導數
+    mag: अवकलन
+    mk: извод
+    ml: അവകലജം
+    mn: дериватив
+    mr: अवकलन
+    ms: terbitan
+    ms-arab: تربيتن
+    mt: derivata
+    my: ဒစ်ဖရန်ရှေးရှင်း
+    nb: derivasjon
+    nl: afgeleide
+    nn: derivasjon
+    oc: derivada
+    om: babbaafamaa
+    pl: pochodna
+    pnb: مشتق
+    pt: derivada
+    pt-br: derivada
+    ro: derivată
+    ru: производная функции
+    scn: dirivata
+    sco: derivative
+    sh: izvod
+    sk: derivácia
+    sl: odvod
+    sq: derivati
+    sr: извод
+    sr-ec: извод
+    sv: derivata
+    szl: pochodno
+    ta: வகையிடல்
+    th: อนุพันธ์
+    tl: deribatibo
+    tr: türev
+    tt: функция чыгарылмасы
+    uk: похідна
+    ur: مشتق
+    uz: differensial
+    vec: derivada
+    vi: đạo hàm
+    wa: deriveye
+    wuu: 导数
+    yi: דעריוואטיוו
+    yue: 導數
+    zh: 導數
+    zh-cn: 导数
+    zh-hans: 导数
+    zh-hant: 導數
+    zh-sg: 导数
+    zh-tw: 導數
 ---
-
 # [[Derivative]] 
 
 #is_/same_as :: [[../../WikiData/WD~Derivative,29175|WD~Derivative,29175]] 

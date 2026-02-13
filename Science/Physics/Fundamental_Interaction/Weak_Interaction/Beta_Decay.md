@@ -1,23 +1,177 @@
 ---
 aliases:
-  - beta decay
-  - β-decay
-  - Beta_Decay
-  - Beta Decay
+- beetahajoaminen
+- beetalagunemine
+- beetapieđgânem
+- beta decay
+- Beta desintegrazio
+- Beta raspad
+- beta rozpad
+- beta skilimas
+- Beta çözünmesi
+- Beta 衰變
+- Beta-dekado
+- beta-diseriĝo
+- Beta-yemirilish
+- Beta-ıdıraw
+- betahenfald
+- betahenfall
+- betasundrun
+- betasönderfall
+- Betaverfall
+- Betaverval
+- Betazerfall
+- Beta_Decay
+- Bètastraoling
+- bètaverval
+- béite-mheath
+- béta-bomlás
+- Bēta sabrukšana
+- decadimento beta
+- desintegració β
+- Desintegración beta
+- dezintegrare beta
+- Emisión beta
+- emissão beta
+- Peluruhan beta
+- Pereputan beta
+- Phân rã beta
+- radioactivité β
+- razpad beta
+- rozpad beta
+- β-decay
+- β-desintegrasjon
+- Β衰变
+- Διάσπαση βήτα
+- Бета разпад
+- Бета-ажыроо
+- Бета-коҳиш
+- бета-куашкан
+- бета-распад
+- бета-розпад
+- бета-таркалыш
+- Бета-ыдырау
+- бэта-распад
+- Բետա-տրոհում
+- קרינת בטא
+- اضمحلال بيتا
+- بتا پوزولوشو
+- بیٹا تنزل
+- بیٹا ڈِکے
+- بەتا-ىدىراۋ
+- واپاشی بتا
+- बीटा क्षय
+- বিটা ক্ষয়
+- ਬੀਟਾ ਡਿਕੇ
+- பீட்டா சிதைவு
+- බීටා ක්ෂය වීම
+- การสลายให้อนุภาคบีตา
+- ბეტა-დაშლა
+- ベータ崩壊
+- 貝他衰變
+- 베타 붕괴
 has_id_wikidata: Q306786
 different_from:
-  - "[[_Standards/WikiData/WD~beta_particle,103531]]"
-  - "[[_Standards/WikiData/WD~beta_radiation,12082432]]"
-instance_of: "[[_Standards/WikiData/WD~decay_mode,1048111]]"
-subclass_of: "[[_Standards/WikiData/WD~radioactive_decay,3332922]]"
-has_effect: "[[_Standards/WikiData/WD~beta_radiation,12082432]]"
+- '[[_Standards/WikiData/WD~beta_particle,103531]]'
+- '[[_Standards/WikiData/WD~beta_radiation,12082432]]'
+instance_of: '[[_Standards/WikiData/WD~decay_mode,1048111]]'
+subclass_of: '[[_Standards/WikiData/WD~radioactive_decay,3332922]]'
+has_effect: '[[_Standards/WikiData/WD~beta_radiation,12082432]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Beta-minus%20Decay.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Beta-plus%20Decay.svg
-Dewey_Decimal_Classification: "539.7523"
+- http://commons.wikimedia.org/wiki/Special:FilePath/Beta-minus%20Decay.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Beta-plus%20Decay.svg
+Dewey_Decimal_Classification: 539.7523
 Commons_category: Beta decay
+dv_has_:
+  name_:
+    af: Betaverval
+    an: Desintegración beta
+    ar: اضمحلال بيتا
+    ast: Emisión beta
+    azb: بتا پوزولوشو
+    be: бэта-распад
+    be-tarask: бэта-распад
+    bg: Бета разпад
+    bn: বিটা ক্ষয়
+    ca: desintegració β
+    cs: beta rozpad
+    da: betahenfald
+    de: Betazerfall
+    el: Διάσπαση βήτα
+    en: beta decay
+    eo: beta-diseriĝo
+    es: desintegración beta
+    et: beetalagunemine
+    eu: Beta desintegrazio
+    fa: واپاشی بتا
+    fi: beetahajoaminen
+    fr: radioactivité β
+    ga: béite-mheath
+    gl: Desintegración beta
+    he: קרינת בטא
+    hi: बीटा क्षय
+    hr: Beta raspad
+    hu: béta-bomlás
+    hy: Բետա-տրոհում
+    id: Peluruhan beta
+    io: Beta-dekado
+    is: betasundrun
+    it: decadimento beta
+    ja: ベータ崩壊
+    ka: ბეტა-დაშლა
+    kk: Бета-ыдырау
+    kk-arab: بەتا-ىدىراۋ
+    kk-cn: بەتا-ىدىراۋ
+    kk-cyrl: Бета-ыдырау
+    kk-kz: Бета-ыдырау
+    kk-latn: Beta-ıdıraw
+    kk-tr: Beta-ıdıraw
+    ko: 베타 붕괴
+    ks: بیٹا ڈِکے
+    ky: Бета-ажыроо
+    li: Bètastraoling
+    lt: beta skilimas
+    lv: Bēta sabrukšana
+    mk: бета-распад
+    ms: Pereputan beta
+    nb: betahenfall
+    nds: Betaverfall
+    nl: bètaverval
+    nn: β-desintegrasjon
+    pa: ਬੀਟਾ ਡਿਕੇ
+    pl: rozpad beta
+    pt: emissão beta
+    ro: dezintegrare beta
+    ru: бета-распад
+    sh: Beta raspad
+    si: බීටා ක්ෂය වීම
+    sk: beta rozpad
+    sl: razpad beta
+    smn: beetapieđgânem
+    sr: бета-распад
+    sr-ec: бета-распад
+    sv: betasönderfall
+    ta: பீட்டா சிதைவு
+    tg: Бета-коҳиш
+    th: การสลายให้อนุภาคบีตา
+    tr: Beta çözünmesi
+    tt: бета-таркалыш
+    tt-cyrl: бета-таркалыш
+    udm: бета-куашкан
+    uk: бета-розпад
+    ur: بیٹا تنزل
+    uz: Beta-yemirilish
+    vi: Phân rã beta
+    wuu: Β衰变
+    yue: Beta 衰變
+    zh: Β衰变
+    zh-cn: β衰变
+    zh-hans: β衰变
+    zh-hant: 貝他衰變
+    zh-hk: 貝他衰變
+    zh-sg: β衰变
+    zh-tw: 貝他衰變
 ---
-
 # [[Beta_Decay]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Beta_decay,306786|WD~Beta_decay,306786]] 

@@ -1,9 +1,36 @@
 ---
 aliases:
-  - Thermodesulfobacteria
+- Thermodesulfobacteria
+- Thermodesulfobacteria (Classis)
+- 热脱硫杆菌纲
 title: Thermodesulfobacteria
+has_id_wikidata: Q26869584
+dv_has_:
+  name_:
+    ast: Thermodesulfobacteria
+    bg: Thermodesulfobacteria
+    ceb: Thermodesulfobacteria
+    de: Thermodesulfobacteria
+    en: Thermodesulfobacteria
+    es: Thermodesulfobacteria
+    fi: Thermodesulfobacteria
+    fr: Thermodesulfobacteria
+    frr: Thermodesulfobacteria (Classis)
+    ga: Thermodesulfobacteria
+    it: Thermodesulfobacteria
+    la: Thermodesulfobacteria
+    mul: Thermodesulfobacteria
+    nl: Thermodesulfobacteria
+    pl: Thermodesulfobacteria
+    pt: Thermodesulfobacteria
+    ro: Thermodesulfobacteria
+    ru: Thermodesulfobacteria
+    sq: Thermodesulfobacteria
+    uk: Thermodesulfobacteria
+    vi: Thermodesulfobacteria
+    war: Thermodesulfobacteria
+    zh: 热脱硫杆菌纲
 ---
-
 # [[Thermodesulfobacteria]] 
 
 

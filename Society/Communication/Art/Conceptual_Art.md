@@ -1,26 +1,78 @@
 ---
-has_time_started: 1960-01-01 
+has_time_started: 1960-01-01
 aliases:
-  - Conceptual art
-  - conceptualism
-  - Conceptual_Art
-  - Conceptual Art
+- art conceptual
+- art conceptuel
+- Arte conceptual
+- arte concettuale
+- Arte kontzeptual
+- arti conceutual
+- arti kunċettwali
+- artă conceptuală
+- celf gysyniadol
+- Conceptual art
+- conceptualism
+- Conceptual_Art
+- Conceptueel kuns
+- conceptuele kunst
+- ealaín choincheapúil
+- kavramsal sanat
+- Konceptal arto
+- konceptarto
+- konceptkonst
+- Konceptkunst
+- Konceptualna umetnost
+- konceptualna umjetnost
+- Konceptualus menas
+- konceptuális művészet
+- Konceptuálne umenie
+- konceptuální umění
+- Konceptuālā māksla
+- konseptkunst
+- konseptualizm
+- Konseptuele keunst
+- kontseptuaalkunst
+- Konzeptkunst
+- käsitetaide
+- nghệ thuật ý niệm
+- Nkà na ụzụ
+- Seni konseptual
+- Sztuka konceptualna
+- εννοιολογική τέχνη
+- канцэптуальнае мастацтва
+- концептуална уметност
+- концептуално изкуство
+- Концептуаль урлаг
+- концептуальне мистецтво
+- концептуальное искусство
+- կոնցեպտուալիզմ
+- אמנות מושגית
+- فن تصوري
+- هنر مفهومی
+- वैचारिक कला
+- ศิลปะเชิงแนวคิด
+- კონცეპტუალური ხელოვნება
+- コンセプチュアル・アート
+- 概念艺术
+- 概念藝術
+- 觀念藝術
+- 개념 미술
 has_id_wikidata: Q203209
 influenced_by:
-  - '[[_Standards/WikiData/WD~formalism,539750]]'
-  - '[[_Standards/WikiData/WD~found_object,572916]]'
-  - '[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]'
+- '[[_Standards/WikiData/WD~formalism,539750]]'
+- '[[_Standards/WikiData/WD~found_object,572916]]'
+- '[[_Standards/WikiData/WD~Marcel_Duchamp,5912]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~art_movement,968159]]'
-  - '[[_Standards/WikiData/WD~art_genre,1792379]]'
+- '[[_Standards/WikiData/WD~art_movement,968159]]'
+- '[[_Standards/WikiData/WD~art_genre,1792379]]'
 different_from:
-  - '[[_Standards/WikiData/WD~concept_art,1123841]]'
-  - '[[_Standards/WikiData/WD~conceptual_artwork,123079143]]'
+- '[[_Standards/WikiData/WD~concept_art,1123841]]'
+- '[[_Standards/WikiData/WD~conceptual_artwork,123079143]]'
 practiced_by: '[[_Standards/WikiData/WD~conceptual_artist,21550489]]'
 has_characteristic: '[[_Standards/WikiData/WD~Q23058420,23058420]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Château_de_Montsoreau_Museum_of_Contemporary_Art,36698440]]'
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Château_de_Montsoreau_Museum_of_Contemporary_Art,36698440]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~conceptual_artwork,123079143]]'
 subclass_of: '[[_Standards/WikiData/WD~art,735]]'
 inception: 1960-01-01T00:00:00Z
@@ -29,8 +81,78 @@ U_S_National_Archives_Identifier: 10637198
 Commons_category: Conceptual art
 hashtag_: conceptualart
 Krugosvet_article: zhivopis-i-grafika/konceptualizm
+dv_has_:
+  name_:
+    ar: فن تصوري
+    ast: Arte conceptual
+    az: konseptualizm
+    be: канцэптуальнае мастацтва
+    be-tarask: канцэптуальнае мастацтва
+    bg: концептуално изкуство
+    bs: konceptualna umjetnost
+    ca: art conceptual
+    cs: konceptuální umění
+    cy: celf gysyniadol
+    da: Konceptkunst
+    de: Konzeptkunst
+    el: εννοιολογική τέχνη
+    en: conceptual art
+    eo: konceptarto
+    es: arte conceptual
+    et: kontseptuaalkunst
+    eu: Arte kontzeptual
+    ext: arti conceutual
+    fa: هنر مفهومی
+    fi: käsitetaide
+    fr: art conceptuel
+    fy: Konseptuele keunst
+    ga: ealaín choincheapúil
+    gl: Arte conceptual
+    he: אמנות מושגית
+    hi: वैचारिक कला
+    hr: Konceptualna umjetnost
+    hu: konceptuális művészet
+    hy: կոնցեպտուալիզմ
+    id: Seni konseptual
+    ig: Nkà na ụzụ
+    io: Konceptal arto
+    it: arte concettuale
+    ja: コンセプチュアル・アート
+    ka: კონცეპტუალური ხელოვნება
+    ko: 개념 미술
+    li: Conceptueel kuns
+    lt: Konceptualus menas
+    lv: Konceptuālā māksla
+    mk: концептуална уметност
+    mn: Концептуаль урлаг
+    mt: arti kunċettwali
+    nb: konseptkunst
+    nl: conceptuele kunst
+    nn: Konseptkunst
+    pl: Sztuka konceptualna
+    pt: arte conceptual
+    ro: artă conceptuală
+    ru: концептуальное искусство
+    sh: Konceptualna umetnost
+    sk: Konceptuálne umenie
+    sl: konceptualna umetnost
+    sr: концептуална уметност
+    sr-ec: концептуална уметност
+    sr-el: konceptualna umetnost
+    sv: konceptkonst
+    th: ศิลปะเชิงแนวคิด
+    tr: kavramsal sanat
+    uk: концептуальне мистецтво
+    vi: nghệ thuật ý niệm
+    yue: 概念藝術
+    zh: 概念藝術
+    zh-cn: 概念艺术
+    zh-hans: 概念艺术
+    zh-hant: 概念藝術
+    zh-hk: 概念藝術
+    zh-sg: 概念艺术
+    zh-tw: 觀念藝術
 ---
-
 # [[Conceptual_Art]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conceptual_art,203209|WD~Conceptual_art,203209]] 

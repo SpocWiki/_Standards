@@ -1,37 +1,198 @@
 ---
 aliases:
+- cuarc
+- cuark
+- cwarc
+- ijo lili pi taso ala
+- Inkemfe
+- kuark
+- Kuwaarkii
+- Kvark
+- kvarkas
+- kvarki
+- kvarkki
+- kvarko
+- Kwak
+- kwark
+- quarc
+- quarcum
+- Quark
+- Quark (partiċelli)
+- Quark (Physik)
+- Quarko
+- Quarks
+- Quarks (Physik)
+- κουάρκ
+- Кварк
+- Кварктер
+- քվարկ
+- קווארק
+- كوارك
+- کوارک
+- क्वार्क
+- কোয়ার্ক
+- কোৱাৰ্ক
+- ਕੁਆਰਕ
+- କ୍ୱାର୍କ
+- குவார்க்கு
+- క్వార్క్
+- ക്വാർക്ക്
+- ควาร์ก
+- ຄວາກ
+- კვარკი
+- クォーク
+- 夸克
+- 쿼크
 has_id_wikidata: Q6718
-part_of: "[[_Standards/WikiData/WD~hadron,101667]]"
+part_of: '[[_Standards/WikiData/WD~hadron,101667]]'
 followed_by:
-  - "[[_Standards/WikiData/WD~meson,102742]]"
-  - "[[_Standards/WikiData/WD~diquark,265326]]"
+- '[[_Standards/WikiData/WD~meson,102742]]'
+- '[[_Standards/WikiData/WD~diquark,265326]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~lepton_number,174012]]"
-  - "[[_Standards/WikiData/WD~color_charge,380528]]"
-  - "[[_Standards/WikiData/WD~electric_charge,1111]]"
+- '[[_Standards/WikiData/WD~lepton_number,174012]]'
+- '[[_Standards/WikiData/WD~color_charge,380528]]'
+- '[[_Standards/WikiData/WD~electric_charge,1111]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~charged_particle,587553]]"
-  - "[[_Standards/WikiData/WD~elementary_fermion,52234516]]"
+- '[[_Standards/WikiData/WD~charged_particle,587553]]'
+- '[[_Standards/WikiData/WD~elementary_fermion,52234516]]'
 interaction:
-  - "[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]"
-  - "[[_Standards/WikiData/WD~strong_interaction,11415]]"
-  - "[[_Standards/WikiData/WD~gravity,11412]]"
-  - "[[_Standards/WikiData/WD~weak_interaction,11418]]"
-antiparticle: "[[_Standards/WikiData/WD~antiquark,2052084]]"
-has_superpartner: "[[_Standards/WikiData/WD~squark,3107191]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]"
+- '[[_Standards/WikiData/WD~electromagnetic_interaction,849919]]'
+- '[[_Standards/WikiData/WD~strong_interaction,11415]]'
+- '[[_Standards/WikiData/WD~gravity,11412]]'
+- '[[_Standards/WikiData/WD~weak_interaction,11418]]'
+antiparticle: '[[_Standards/WikiData/WD~antiquark,2052084]]'
+has_superpartner: '[[_Standards/WikiData/WD~squark,3107191]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 spin_quantum_number: 0.5
 Commons_gallery: Quark
-OmegaWiki_Defined_Meaning: "8337"
+OmegaWiki_Defined_Meaning: 8337
 Commons_category: Quarks
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quark.svg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/quarks
 IEV_number: 113-05-27
 CAS_Registry_Number: 12585-73-8
-Dewey_Decimal_Classification: "539.72167"
-P8189: "987007550891605171"
+Dewey_Decimal_Classification: 539.72167
+P8189: 987007550891605171
+dv_has_:
+  name_:
+    af: Kwark
+    anp: क्वार्क
+    ar: كوارك
+    ary: كوارك
+    as: কোৱাৰ্ক
+    ast: Quark
+    az: Kvark
+    azb: کوارک
+    be: кварк
+    be-tarask: кварк
+    bg: Кварк
+    bn: কোয়ার্ক
+    bs: Kvark
+    ca: quark
+    ckb: کوارک
+    cs: kvark
+    cv: Кварк
+    cy: cwarc
+    da: kvark
+    de: Quark
+    de-ch: Quark (Physik)
+    el: κουάρκ
+    en: quark
+    en-ca: Quark
+    en-gb: quark
+    eo: kvarko
+    es: cuark
+    et: kvark
+    eu: quark
+    fa: کوارک
+    fi: kvarkki
+    fr: quark
+    ga: cuarc
+    gl: quark
+    gsw: Quark
+    he: קווארק
+    hi: क्वार्क
+    hr: kvark
+    ht: Kwak
+    hu: kvark
+    hy: քվարկ
+    ia: Quark
+    id: kuark
+    io: Quarko
+    is: kvarki
+    it: quark
+    ja: クォーク
+    ka: კვარკი
+    kk: Кварктер
+    ko: 쿼크
+    ku: Quark
+    ky: кварк
+    la: quarcum
+    lb: Quarks (Physik)
+    lfn: Cuarc
+    li: Quark
+    lld: Quark
+    lo: ຄວາກ
+    lt: kvarkas
+    lv: kvarki
+    lzh: 夸克
+    mk: кварк
+    ml: ക്വാർക്ക്
+    mn: Кварк
+    mr: क्वार्क
+    ms: Kuark
+    mt: Quark (partiċelli)
+    my: Quarks
+    nb: kvark
+    nds: Quark
+    ne: क्वार्क
+    nl: quark
+    nn: kvark
+    oc: quark
+    om: Kuwaarkii
+    or: କ୍ୱାର୍କ
+    os: кварк
+    pa: ਕੁਆਰਕ
+    pl: kwark
+    pnb: کوارک
+    ps: کوارک
+    pt: quark
+    pt-br: quark
+    ro: quarc
+    ru: кварк
+    scn: quark
+    sco: quark
+    sh: Kvark
+    sk: kvark
+    sl: kvark
+    sq: Kuark
+    sr: кварк
+    sr-ec: кварк
+    sr-el: kvark
+    su: Quark
+    sv: kvark
+    ta: குவார்க்கு
+    te: క్వార్క్
+    tg: Кварк
+    th: ควาร์ก
+    tl: Quark
+    tok: ijo lili pi taso ala
+    tr: kuark
+    tt: Kvark
+    uk: кварк
+    ur: کوارک
+    uz: Kvark
+    vec: quark
+    vi: Quark
+    war: Quark
+    wuu: 夸克
+    yue: 夸克
+    zh: 夸克
+    zh-hant: 夸克
+    zh-hk: 夸克
+    zh-tw: 夸克
+    zu: Inkemfe
 ---
-
 # [[Quark]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Quark,6718|WD~Quark,6718]] 

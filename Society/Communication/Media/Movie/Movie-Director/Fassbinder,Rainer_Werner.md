@@ -1,102 +1,124 @@
 ---
 aliases:
-  - Rainer_Werner_Fassbinder
-  - Rainer Werner Fassbinder
-  - Fassbinder
-  - Fassbinder,Rainer_Werner
-  - Fassbinder,Rainer Werner
+- Fassbinder
+- Fassbinder,Rainer Werner
+- Fassbinder,Rainer_Werner
+- Rainer Werner Fassbinder
+- Rainers Verners Fasbinders
+- Rainer_Werner_Fassbinder
+- Rajner Verner Fasbinder
+- Ράινερ Βέρνερ Φασμπίντερ
+- Райнер Вернер Фасбіндэр
+- Райнер Вернер Фасбиндер
+- Райнер Вернер Фассбіндер
+- Райнэр Вэрнэр Фасьбіндэр
+- Ռայներ Վերներ Ֆասբինդեր
+- ריינר ורנר פאסבינדר
+- راينر فاسبيندر
+- راینر ورنر فاسبیندر
+- রাইনার ভের্নার ফাসবিন্ডার
+- ਰੇਨਰ ਵਰਨਰ ਫ਼ਾਸਬੀਂਡਰ
+- రైనర్ వెర్నర్ ఫాస్బైండర్
+- ไรเนอร์ แวร์เนอร์ ฟัสบินเดอร์
+- რაინერ უერნერ ფასბინდერი
+- ライナー・ヴェルナー・ファスビンダー
+- 寧那·華納·法斯賓達
+- 萊納·韋納·法斯賓達
+- 萊納・韋納・法斯賓達
+- 赖纳·维尔纳·法斯宾德
+- 라이너 베르너 파스빈더
 has_id_wikidata: Q44426
 spouse:
-  - '[[_Standards/WikiData/WD~Ingrid_Caven,70294]]'
-  - '[[_Standards/WikiData/WD~Juliane_Lorenz,98665]]'
+- '[[_Standards/WikiData/WD~Ingrid_Caven,70294]]'
+- '[[_Standards/WikiData/WD~Juliane_Lorenz,98665]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Udo_Kier,77035]]'
-  - '[[_Standards/WikiData/WD~Irm_Hermann,78441]]'
-  - '[[_Standards/WikiData/WD~Armin_Meier,95814]]'
-  - '[[_Standards/WikiData/WD~El_Hedi_ben_Salem,337137]]'
-  - '[[_Standards/WikiData/WD~Günther_Kaufmann,45338]]'
+- '[[_Standards/WikiData/WD~Udo_Kier,77035]]'
+- '[[_Standards/WikiData/WD~Irm_Hermann,78441]]'
+- '[[_Standards/WikiData/WD~Armin_Meier,95814]]'
+- '[[_Standards/WikiData/WD~El_Hedi_ben_Salem,337137]]'
+- '[[_Standards/WikiData/WD~Günther_Kaufmann,45338]]'
 mother: '[[_Standards/WikiData/WD~Liselotte_Eder,96540]]'
 influenced_by:
-  - '[[_Standards/WikiData/WD~Red_Army_Faction,102734]]'
-  - '[[_Standards/WikiData/WD~Straub_Huillet,1276411]]'
-  - '[[_Standards/WikiData/WD~Weekend,1812267]]'
-  - '[[_Standards/WikiData/WD~O_Dragão_da_Maldade_Contra_o_Santo_Guerreiro,2435697]]'
-  - '[[_Standards/WikiData/WD~Bertolt_Brecht,38757]]'
-  - '[[_Standards/WikiData/WD~Jean_Luc_Godard,53001]]'
+- '[[_Standards/WikiData/WD~Red_Army_Faction,102734]]'
+- '[[_Standards/WikiData/WD~Straub_Huillet,1276411]]'
+- '[[_Standards/WikiData/WD~Weekend,1812267]]'
+- '[[_Standards/WikiData/WD~O_Dragão_da_Maldade_Contra_o_Santo_Guerreiro,2435697]]'
+- '[[_Standards/WikiData/WD~Bertolt_Brecht,38757]]'
+- '[[_Standards/WikiData/WD~Jean_Luc_Godard,53001]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
-  - '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Direction,1204812]]'
-  - '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Screenplay,1204825]]'
-  - '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Feature_Film,1204831]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Direction,1204812]]'
+- '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Screenplay,1204825]]'
+- '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Feature_Film,1204831]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
-  - '[[_Standards/WikiData/WD~Gerhart_Hauptmann_prize,314743]]'
-  - '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Direction,1204812]]'
-  - '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Screenplay,1204825]]'
-  - '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Feature_Film,1204831]]'
-  - '[[_Standards/WikiData/WD~David_di_Donatello_Luchino_Visconti,3703245]]'
-  - '[[_Standards/WikiData/WD~Sutherland_Trophy,7650000]]'
+- '[[_Standards/WikiData/WD~Golden_Bear,154590]]'
+- '[[_Standards/WikiData/WD~Gerhart_Hauptmann_prize,314743]]'
+- '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Direction,1204812]]'
+- '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Screenplay,1204825]]'
+- '[[_Standards/WikiData/WD~German_Film_Award_for_Best_Feature_Film,1204831]]'
+- '[[_Standards/WikiData/WD~David_di_Donatello_Luchino_Visconti,3703245]]'
+- '[[_Standards/WikiData/WD~Sutherland_Trophy,7650000]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~DFF_Fassbinder_Center,125960452]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~DFF_Fassbinder_Center,125960452]]'
 cause_of_death:
-  - '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
-  - '[[_Standards/WikiData/WD~barbiturate_overdose,1184752]]'
+- '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
+- '[[_Standards/WikiData/WD~barbiturate_overdose,1184752]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~cinematographer,222344]]'
-  - '[[_Standards/WikiData/WD~art_director,706364]]'
-  - '[[_Standards/WikiData/WD~television_director,2059704]]'
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~film_producer,3282637]]'
-  - '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
-  - '[[_Standards/WikiData/WD~director,3455803]]'
-  - '[[_Standards/WikiData/WD~film_editor,7042855]]'
-  - '[[_Standards/WikiData/WD~television_actor,10798782]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~producer,47541952]]'
-  - '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~cinematographer,222344]]'
+- '[[_Standards/WikiData/WD~art_director,706364]]'
+- '[[_Standards/WikiData/WD~television_director,2059704]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~film_producer,3282637]]'
+- '[[_Standards/WikiData/WD~theatrical_director,3387717]]'
+- '[[_Standards/WikiData/WD~director,3455803]]'
+- '[[_Standards/WikiData/WD~film_editor,7042855]]'
+- '[[_Standards/WikiData/WD~television_actor,10798782]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~producer,47541952]]'
+- '[[_Standards/WikiData/WD~film_screenwriter,69423232]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 place_of_birth: '[[_Standards/WikiData/WD~Bad_Wörishofen,504579]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Werner,676823]]'
-  - '[[_Standards/WikiData/WD~Rainer,18924871]]'
+- '[[_Standards/WikiData/WD~Werner,676823]]'
+- '[[_Standards/WikiData/WD~Rainer,18924871]]'
 country_of_citizenship: '[[_Standards/WikiData/WD~West_Germany,713750]]'
 manner_of_death: '[[_Standards/WikiData/WD~unnatural_death,855919]]'
 place_of_burial: '[[_Standards/WikiData/WD~Bogenhausener_Friedhof,890502]]'
 employer: '[[_Standards/WikiData/WD~Bruno_Jori,993377]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~UbuWeb,1145552]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 notable_work: '[[_Standards/WikiData/WD~Anarchy_in_Bavaria,3615056]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 different_from: '[[_Standards/WikiData/WD~Fassbender,21452185]]'
 family_name: '[[_Standards/WikiData/WD~Fassbinder,28745218]]'
 documentation_files_at:
-  - '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
-  - '[[_Standards/WikiData/WD~DFF_Fassbinder_Center,125960452]]'
+- '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
+- '[[_Standards/WikiData/WD~DFF_Fassbinder_Center,125960452]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 filmography: '[[_Standards/WikiData/WD~Rainer_Werner_Fassbinder_filmography,115819813]]'
 residence: '[[_Standards/WikiData/WD~Munich,1726]]'
 place_of_death: '[[_Standards/WikiData/WD~Munich,1726]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 interested_in:
-  - '[[_Standards/WikiData/WD~fascism,6223]]'
-  - '[[_Standards/WikiData/WD~sexual_orientation,17888]]'
+- '[[_Standards/WikiData/WD~fascism,6223]]'
+- '[[_Standards/WikiData/WD~sexual_orientation,17888]]'
 significant_person: '[[_Standards/WikiData/WD~Hanna_Schygulla,28921]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 writing_language: '[[_Standards/WikiData/WD~German,188]]'
 sexual_orientation: '[[_Standards/WikiData/WD~bisexuality,43200]]'
 Libris_URI: 1zcffgzk31j5z35
 pseudonym:
-  - Franz Walsz
-  - Franz Walsch
-  - Franz Walsh
+- Franz Walsz
+- Franz Walsch
+- Franz Walsh
 Regensburg_Classification: GN 4523
 Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/FASSBINDER_RANER_VERNER.html
 Swedish_Royal_Theater_Archive: Person/6597
@@ -110,8 +132,84 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/PER51895%20061.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Rainer%20Werner%20Fassbinder%20Grab%20Bogenhausener%20Friedhof.jpg
 described_at_URL: https://www.filmportal.de/16E2B393D11641AA885388D85222F8DB
 ISNI: 0000000122810969
+dv_has_:
+  name_:
+    af: Rainer Werner Fassbinder
+    an: Rainer Werner Fassbinder
+    ar: راينر فاسبيندر
+    arz: راينر فاسبيندر
+    ast: Rainer Werner Fassbinder
+    azb: راینر ورنر فاسبیندر
+    bar: Rainer Werner Fassbinder
+    be: Райнер Вернер Фасбіндэр
+    be-tarask: Райнэр Вэрнэр Фасьбіндэр
+    bg: Райнер Вернер Фасбиндер
+    bn: রাইনার ভের্নার ফাসবিন্ডার
+    ca: Rainer Werner Fassbinder
+    cs: Rainer Werner Fassbinder
+    da: Rainer Werner Fassbinder
+    de: Rainer Werner Fassbinder
+    el: Ράινερ Βέρνερ Φασμπίντερ
+    eml: Rainer Werner Fassbinder
+    en: Rainer Werner Fassbinder
+    eo: Rainer Werner Fassbinder
+    es: Rainer Werner Fassbinder
+    et: Rainer Werner Fassbinder
+    eu: Rainer Werner Fassbinder
+    fa: راینر ورنر فاسبیندر
+    fi: Rainer Werner Fassbinder
+    fr: Rainer Werner Fassbinder
+    ga: Rainer Werner Fassbinder
+    gl: Rainer Werner Fassbinder
+    he: ריינר ורנר פאסבינדר
+    hr: Rainer Werner Fassbinder
+    hu: Rainer Werner Fassbinder
+    hy: Ռայներ Վերներ Ֆասբինդեր
+    id: Rainer Werner Fassbinder
+    io: Rainer Werner Fassbinder
+    is: Rainer Werner Fassbinder
+    it: Rainer Werner Fassbinder
+    ja: ライナー・ヴェルナー・ファスビンダー
+    ka: რაინერ უერნერ ფასბინდერი
+    kk: Райнер Вернер Фасбиндер
+    kl: Rainer Werner Fassbinder
+    ko: 라이너 베르너 파스빈더
+    la: Rainer Werner Fassbinder
+    lb: Rainer Werner Fassbinder
+    lv: Rainers Verners Fasbinders
+    mg: Rainer Werner Fassbinder
+    mul: Rainer Werner Fassbinder
+    nb: Rainer Werner Fassbinder
+    nl: Rainer Werner Fassbinder
+    nn: Rainer Werner Fassbinder
+    oc: Rainer Werner Fassbinder
+    pa: ਰੇਨਰ ਵਰਨਰ ਫ਼ਾਸਬੀਂਡਰ
+    pl: Rainer Werner Fassbinder
+    pt: Rainer Werner Fassbinder
+    pt-br: Rainer Werner Fassbinder
+    ro: Rainer Werner Fassbinder
+    ru: Райнер Вернер Фасбиндер
+    sc: Rainer Werner Fassbinder
+    sh: Rainer Werner Fassbinder
+    sk: Rainer Werner Fassbinder
+    sl: Rainer Werner Fassbinder
+    sq: Rainer Werner Fassbinder
+    sr: Rajner Verner Fasbinder
+    sv: Rainer Werner Fassbinder
+    te: రైనర్ వెర్నర్ ఫాస్బైండర్
+    th: ไรเนอร์ แวร์เนอร์ ฟัสบินเดอร์
+    tr: Rainer Werner Fassbinder
+    uk: Райнер Вернер Фассбіндер
+    vi: Rainer Werner Fassbinder
+    vo: Rainer Werner Fassbinder
+    war: Rainer Werner Fassbinder
+    yue: 寧那·華納·法斯賓達
+    zh: 萊納·韋納·法斯賓達
+    zh-hans: 赖纳·维尔纳·法斯宾德
+    zh-hant: 萊納・韋納・法斯賓達
+    zh-hk: 寧那·華納·法斯賓達
+    zh-tw: 萊納·韋納·法斯賓達
 ---
-
 # [[Fassbinder,Rainer_Werner]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Rainer_Werner_Fassbinder,44426|WD~Rainer_Werner_Fassbinder,44426]]  

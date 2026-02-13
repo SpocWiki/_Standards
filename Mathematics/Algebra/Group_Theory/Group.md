@@ -1,49 +1,214 @@
 ---
 aliases:
+- caterva
+- csoport
+- groep
+- grop
+- group
+- groupe
+- grup
+- grupa
+- grupe
+- grupo
+- Grupo (matematiko)
+- grupp
+- Gruppe
+- gruppo
+- gruppu
+- grupė
+- grúpa
+- grŵp
+- guruhi
+- kumpulan
+- kuo
+- kûn
+- nhóm
+- pangkat
+- qrup
+- ryhmä
+- rühm
+- skööl
+- strop
+- tagrumma
+- talde
+- vory
+- öbek
+- ομάδα
+- бүлэг
+- група
+- группа
+- гурӯҳ
+- топ
+- төркем
+- төркөм
+- ушкăн
+- Խումբ
+- גרופע
+- חבורה
+- زمرة
+- گروه
+- گرووپ
+- گروہ
+- पुचः
+- समूह
+- গ্রুপ
+- குலம்
+- ಗ್ರೂಪ್
+- ഗ്രൂപ്പ്
+- กรุป
+- སྡེ་ཚན་༼རྩིས་རིག༽།
+- ჯგუფი
+- 羣
+- 群
+- 군
 has_id_wikidata: Q83478
 studied_by:
-  - "[[_Standards/WikiData/WD~abstract_algebra,159943]]"
-  - "[[_Standards/WikiData/WD~category_theory,217413]]"
-  - "[[_Standards/WikiData/WD~group_theory,874429]]"
+- '[[_Standards/WikiData/WD~abstract_algebra,159943]]'
+- '[[_Standards/WikiData/WD~category_theory,217413]]'
+- '[[_Standards/WikiData/WD~group_theory,874429]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~binary_operation,164307]]"
-  - "[[_Standards/WikiData/WD~identity_element,185813]]"
-  - "[[_Standards/WikiData/WD~inverse,7017933]]"
-  - "[[_Standards/WikiData/WD~set,36161]]"
+- '[[_Standards/WikiData/WD~binary_operation,164307]]'
+- '[[_Standards/WikiData/WD~identity_element,185813]]'
+- '[[_Standards/WikiData/WD~inverse,7017933]]'
+- '[[_Standards/WikiData/WD~set,36161]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~associativity,177251]]"
-  - "[[_Standards/WikiData/WD~identity_element,185813]]"
-  - "[[_Standards/WikiData/WD~inverse_element,338057]]"
-  - "[[_Standards/WikiData/WD~closure,4720939]]"
-  - "[[_Standards/WikiData/WD~Latin_square_property,17079612]]"
+- '[[_Standards/WikiData/WD~associativity,177251]]'
+- '[[_Standards/WikiData/WD~identity_element,185813]]'
+- '[[_Standards/WikiData/WD~inverse_element,338057]]'
+- '[[_Standards/WikiData/WD~closure,4720939]]'
+- '[[_Standards/WikiData/WD~Latin_square_property,17079612]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~algebraic_structure,205464]]"
-  - "[[_Standards/WikiData/WD~monoid,208237]]"
-  - "[[_Standards/WikiData/WD~group_object,765994]]"
-  - "[[_Standards/WikiData/WD~groupoid,1196038]]"
-  - "[[_Standards/WikiData/WD~inverse_semigroup,3022118]]"
-  - "[[_Standards/WikiData/WD~loop,3836720]]"
-  - "[[_Standards/WikiData/WD~epigroup,5382940]]"
-  - "[[_Standards/WikiData/WD~Moufang_loop,6918890]]"
-has_list: "[[_Standards/WikiData/WD~Examples_of_groups,5419318]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Q13324638,13324638]]"
-different_from: "[[_Standards/WikiData/WD~group,16887380]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Group_navbox,18913508]]"
+- '[[_Standards/WikiData/WD~algebraic_structure,205464]]'
+- '[[_Standards/WikiData/WD~monoid,208237]]'
+- '[[_Standards/WikiData/WD~group_object,765994]]'
+- '[[_Standards/WikiData/WD~groupoid,1196038]]'
+- '[[_Standards/WikiData/WD~inverse_semigroup,3022118]]'
+- '[[_Standards/WikiData/WD~loop,3836720]]'
+- '[[_Standards/WikiData/WD~epigroup,5382940]]'
+- '[[_Standards/WikiData/WD~Moufang_loop,6918890]]'
+has_list: '[[_Standards/WikiData/WD~Examples_of_groups,5419318]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q13324638,13324638]]'
+different_from: '[[_Standards/WikiData/WD~group,16887380]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Group_navbox,18913508]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x22C5;</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>x</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>y</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x22C5;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>x</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>y</mi></mstyle></mrow></math>
 properties_for_this_type: group cardinality
 Commons_category: Group theory
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Cayley%20graph%20Q8.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rubiks%20revenge%20tilt.jpg
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt"><mtr><mtd></mtd><mtd><mo stretchy="false">(</mo><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">)</mo><mo stretchy="false">&#x003A;</mo><mi>G</mi><mo stretchy="false">&#x00D7;</mo><mi>G</mi><mo stretchy="false" accent="false">&#x2192;</mo><mi>G</mi></mtd></mtr><mtr><mtd></mtd><mtd><mi mathvariant="normal">&#x2200;</mi><mi>x</mi><mo>,</mo><mi>y</mi><mo>,</mo><mi>z</mi><mo stretchy="false">&#x2208;</mo><mi>G</mi><mo stretchy="false">&#x003A;</mo><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">&#x22C5;</mo><mi>y</mi><mo stretchy="false">)</mo><mo stretchy="false">&#x22C5;</mo><mi>z</mi><mo stretchy="false">=</mo><mi>x</mi><mo stretchy="false">&#x22C5;</mo><mo stretchy="false">(</mo><mi>y</mi><mo stretchy="false">&#x22C5;</mo><mi>z</mi><mo stretchy="false">)</mo></mtd></mtr><mtr><mtd></mtd><mtd><mi mathvariant="normal">&#x2203;</mi><mn>1</mn><mo stretchy="false">&#x2208;</mo><mi>G</mi><mi mathvariant="normal">&#x2200;</mi><mi>x</mi><mo stretchy="false">&#x2208;</mo><mi>G</mi><mo stretchy="false">&#x003A;</mo><mn>1</mn><mo stretchy="false">&#x22C5;</mo><mi>x</mi><mo stretchy="false">=</mo><mi>x</mi><mo stretchy="false">&#x22C5;</mo><mn>1</mn><mo stretchy="false">=</mo><mi>x</mi></mtd></mtr><mtr><mtd></mtd><mtd><mi mathvariant="normal">&#x2200;</mi><mi>x</mi><mo stretchy="false">&#x2208;</mo><mi>G</mi><mi mathvariant="normal">&#x2203;</mi><mi>y</mi><mo stretchy="false">&#x2208;</mo><mi>G</mi><mo stretchy="false">&#x003A;</mo><mi>x</mi><mo stretchy="false">&#x22C5;</mo><mi>y</mi><mo stretchy="false">=</mo><mi>y</mi><mo stretchy="false">&#x22C5;</mo><mi>x</mi><mo stretchy="false">=</mo><mn>1</mn></mtd></mtr></mtable></mrow></mstyle></mrow></math>
+dv_has_:
+  name_:
+    af: groep
+    ak: kuo
+    ar: زمرة
+    az: qrup
+    ba: төркөм
+    be: група
+    be-tarask: група
+    bg: група
+    bn: গ্রুপ
+    bo: སྡེ་ཚན་༼རྩིས་རིག༽།
+    bs: grupa
+    ca: grup
+    ckb: گرووپ
+    cs: grupa
+    cv: ушкăн
+    cy: grŵp
+    da: gruppe
+    de: Gruppe
+    el: ομάδα
+    en: group
+    en-ca: group
+    en-gb: group
+    eo: grupo
+    es: grupo
+    et: rühm
+    eu: talde
+    fa: گروه
+    fi: ryhmä
+    fr: groupe
+    frr: skööl
+    ga: grúpa
+    gl: grupo
+    he: חבורה
+    hi: समूह
+    hr: grupa
+    hu: csoport
+    hy: Խումբ
+    ia: gruppo
+    id: grup
+    io: Grupo (matematiko)
+    is: grúpa
+    it: gruppo
+    ja: 群
+    ka: ჯგუფი
+    kab: tagrumma
+    kk: топ
+    kn: ಗ್ರೂಪ್
+    ko: 군
+    la: caterva
+    lb: Grupp
+    lfn: grupo
+    lmo: grupp
+    lt: grupė
+    lv: grupa
+    lzh: 群
+    mg: vory
+    mk: група
+    ml: ഗ്രൂപ്പ്
+    mn: бүлэг
+    ms: kumpulan
+    mt: grupp
+    nan: kûn
+    nb: gruppe
+    new: पुचः
+    nl: groep
+    nn: gruppe
+    nov: grupe
+    oc: grop
+    pl: grupa
+    pms: strop
+    pnb: گروہ
+    pt: grupo
+    pt-br: grupo
+    ro: grup
+    ru: группа
+    scn: gruppu
+    sh: grupa
+    sk: grupa
+    sl: grupa
+    sr: група
+    sr-ec: група
+    sv: grupp
+    szl: grupa
+    ta: குலம்
+    tg: гурӯҳ
+    th: กรุป
+    tl: pangkat
+    tr: öbek
+    tt: төркем
+    tt-cyrl: төркем
+    uk: група
+    ur: گروہ
+    uz: guruhi
+    vi: nhóm
+    vls: groep
+    vo: grup
+    wuu: 群
+    yi: גרופע
+    yue: 羣
+    zh: 群
+    zh-hans: 群
+    zh-hant: 群
+    zh-tw: 群
 ---
-
 # [[Group]] 
 
 #is_/same_as :: [[WD~Group,83478]] 

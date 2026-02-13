@@ -1,48 +1,169 @@
 ---
 aliases:
+- eibleacht
+- emolsyon
+- Emulsi
+- emulsie
+- emulsija
+- emulsio
+- emulsion
+- emulsione
+- Emulsioni
+- Emulsioon
+- Emulsiya
+- emulsió
+- emulsión
+- emulsja
+- emulsjon
+- emulsão
+- emultsio
+- emulze
+- emulzia
+- Emulzija
+- emulzió
+- emylsiwn
+- Emülsiyon
+- nhũ tương
+- émulsion
+- Γαλάκτωμα
+- Емулзија
+- Емулсия
+- емульсія
+- эмульсія
+- эмульси
+- эмульсия
+- Էմուլսիա
+- תחליב
+- مستحلب
+- نامیزه
+- पायसन
+- অবদ্রব
+- பால்மம்
+- ಎಮಲ್ಷನ್
+- อิมัลชัน
+- エマルション
+- 乳化液
+- 乳浊液
+- 乳濁液
+- 에멀션
 has_id_wikidata: Q187634
-subclass_of: "[[_Standards/WikiData/WD~colloid,181780]]"
+subclass_of: '[[_Standards/WikiData/WD~colloid,181780]]'
 described_by_source:
-  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
-  - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
-OmegaWiki_Defined_Meaning: "1162"
-UNSPSC_Code: "12161804"
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+OmegaWiki_Defined_Meaning: 1162
+UNSPSC_Code: 12161804
 Dewey_Decimal_Classification:
-  - "615.19"
-  - "541.34514"
-  - "660.294514"
+- 615.19
+- 541.34514
+- 660.294514
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Emulsions.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Emulsie-article.ogg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00010506
 UMLS_CUI: C0014020
 MeSH_tree_code:
-  - D20.280.260
-  - D26.255.165.260
+- D20.280.260
+- D26.255.165.260
 Commons_category: Emulsions
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]]"
-    - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]]"
-    - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]]"
-    - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]]"
-    - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]]"
-    - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]]"
-    - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]]"
-    - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]]"
+  - '[[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]]'
+  - '[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]]'
+  - '[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]]'
+  - '[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]]'
+  - '[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]]'
+  - '[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]]'
+  - '[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]]'
+  - '[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]]"
-  - "[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]]"
-  - "[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]]"
-  - "[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]]"
-  - "[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]]"
-  - "[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]]"
-  - "[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]]"
-  - "[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]]"
+- '[[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]]'
+- '[[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]]'
+- '[[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]]'
+- '[[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]]'
+- '[[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]]'
+- '[[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]]'
+- '[[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]]'
+- '[[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]]'
+dv_has_:
+  name_:
+    ar: مستحلب
+    ast: Emulsión
+    az: Emulsiya
+    be: эмульсія
+    be-tarask: эмульсія
+    bg: Емулсия
+    bn: অবদ্রব
+    bs: Emulzija
+    ca: emulsió
+    crh: Emulsiya
+    cs: emulze
+    cy: emylsiwn
+    da: Emulsion
+    de: Emulsion
+    el: Γαλάκτωμα
+    en: emulsion
+    eo: emulsio
+    es: emulsión
+    et: Emulsioon
+    eu: emultsio
+    fa: نامیزه
+    fi: emulsio
+    fr: émulsion
+    ga: eibleacht
+    gl: emulsión
+    he: תחליב
+    hi: पायसन
+    hr: Emulzija
+    hu: emulzió
+    hy: Էմուլսիա
+    id: Emulsi
+    it: emulsione
+    ja: エマルション
+    kk: Эмульсия
+    kn: ಎಮಲ್ಷನ್
+    ko: 에멀션
+    kw: emolsyon
+    ky: Эмульсия
+    lt: emulsija
+    lv: Emulsija
+    min: Emulsi
+    mk: Емулзија
+    ms: Emulsi
+    nb: emulsjon
+    nl: emulsie
+    nn: emulsjon
+    pl: emulsja
+    pt: emulsão
+    ro: emulsie
+    ru: эмульсия
+    sh: Emulzija
+    sk: emulzia
+    sl: emulzija
+    sq: Emulsioni
+    sr: емулзија
+    sr-ec: емулзија
+    sr-el: Emulzija
+    sv: emulsion
+    ta: பால்மம்
+    th: อิมัลชัน
+    tr: Emülsiyon
+    udm: эмульси
+    uk: емульсія
+    uz: Emulsiya
+    vi: nhũ tương
+    wuu: 乳浊液
+    yue: 乳化液
+    zh: 乳浊液
+    zh-cn: 乳浊液
+    zh-hans: 乳浊液
+    zh-hant: 乳濁液
+    zh-hk: 乳濁液
+    zh-sg: 乳浊液
+    zh-tw: 乳濁液
 ---
-
 # [[Emulsion]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Emulsion,187634|WD~Emulsion,187634]] 

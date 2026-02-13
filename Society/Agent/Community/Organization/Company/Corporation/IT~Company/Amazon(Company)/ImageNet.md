@@ -1,4 +1,41 @@
-
+---
+has_id_wikidata: Q24901201
+dv_has_:
+  name_:
+    ca: ImageNet
+    da: ImageNet
+    de: ImageNet
+    en: ImageNet
+    es: ImageNet
+    fa: ایمیجنت
+    fo: ImageNet
+    fr: ImageNet
+    he: ImageNet
+    id: ImageNet
+    is: ImageNet
+    it: ImageNet
+    ja: ImageNet
+    kl: ImageNet
+    ko: 이미지넷
+    nb: ImageNet
+    nl: ImageNet
+    nn: ImageNet
+    ru: ImageNet
+    sl: ImageNet
+    sr: ImageNet
+    sv: ImageNet
+    th: อิมเมจเน็ต
+    tr: ImageNet
+    uk: ImageNet
+    zh: ImageNet
+    zh-hant: ImageNet
+    zh-tw: ImageNet
+aliases:
+- ImageNet
+- ایمیجنت
+- อิมเมจเน็ต
+- 이미지넷
+---
 # [[ImageNet]] 
 
 #is_/using :: [[Amazon_Mechanical_Turk]] 

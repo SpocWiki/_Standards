@@ -1,12 +1,96 @@
 ---
 aliases:
-  - Antitheism
+- Antiteism
+- antiteisme
+- antiteismi
+- antiteismo
+- Antiteismus
+- Antiteizam
+- Antiteizm
+- Antiteizmas
+- Antiteizmi
+- antiteísmo
+- antiteísmu
+- Antitheism
+- Antitheismus
+- antitheïsme
+- antithéisme
+- Antyteizm
+- Chủ nghĩa phản thần
+- Αντιθεϊσμός
+- Антитеїзм
+- Антитеизам
+- Антитеизм
+- Антитеизъм
+- антытэізм
+- Հակաթեիզմ
+- אַנטיטעאיזם
+- אנטיתאיזם
+- ضدخدایی
+- معاداة الألوهية
+- ईश्वरवादविरोध
+- আস্তিক্যবাদ বিরোধিতা
+- ანტითეიზმი
+- 反神論
+- 反神论
+- 반신론
 has_id_wikidata: Q5522978
-instance_of: "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
-different_from: "[[_Standards/WikiData/WD~pantitheism,18480570]]"
+instance_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+different_from: '[[_Standards/WikiData/WD~pantitheism,18480570]]'
 subreddit: Antitheism
+dv_has_:
+  name_:
+    ar: معاداة الألوهية
+    ast: antiteísmu
+    be-tarask: антытэізм
+    bg: Антитеизъм
+    bn: আস্তিক্যবাদ বিরোধিতা
+    bs: Antiteizam
+    ca: antiteisme
+    cs: Antiteismus
+    da: Antiteisme
+    de: Antitheismus
+    diq: Antiteizm
+    el: Αντιθεϊσμός
+    en: antitheism
+    en-ca: Antitheism
+    en-gb: Antitheism
+    eo: antiteismo
+    es: antiteísmo
+    eu: antiteismo
+    fa: ضدخدایی
+    fi: antiteismi
+    fr: antithéisme
+    gl: Antiteísmo
+    he: אנטיתאיזם
+    hi: ईश्वरवादविरोध
+    hr: Antiteizam
+    hy: Հակաթեիզմ
+    id: Antiteisme
+    it: Antiteismo
+    ja: 反神論
+    ka: ანტითეიზმი
+    ko: 반신론
+    la: Antitheismus
+    lt: Antiteizmas
+    nl: antitheïsme
+    pl: Antyteizm
+    pt: Antiteísmo
+    pt-br: Antiteísmo
+    ro: antiteism
+    ru: Антитеизм
+    sh: Antiteizam
+    sq: Antiteizmi
+    sr: Антитеизам
+    sv: Antiteism
+    tr: Antiteizm
+    uk: Антитеїзм
+    uz: Antiteizm
+    vi: Chủ nghĩa phản thần
+    yi: אַנטיטעאיזם
+    zh: 反神论
+    zh-tw: 反神論
 ---
-
 # [[Antitheism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Antitheism,5522978|WD~Antitheism,5522978]] 

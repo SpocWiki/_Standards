@@ -1,29 +1,96 @@
 ---
 aliases:
-  - Verschlüsselung
-  - Encryption
+- chiffer
+- chiffrement
+- cifrado
+- Cifradura
+- cifratura
+- Codatge
+- criptare
+- criptiúchán
+- Dulritun
+- encriptação
+- encryptie
+- Encryption
+- Enkripcija
+- Enkripsi
+- enkripsiyon
+- I-Encryption
+- Kriptimi
+- kryptering
+- Libómba
+- mã hóa
+- penyulitan
+- salaus
+- Shifrlash
+- szyfrowanie
+- Sái-hō
+- titkosítás
+- Ukhulliy
+- Ukunyandla
+- Usimbaji fiche
+- Verschlüsselung
+- Versleuteling
+- Xifratge
+- Zifratze
+- Énkripsi
+- Ĉifrado
+- Şidandin
+- Şifreleme
+- Şifrləmə
+- šifravimas
+- Šifreerimine
+- šifriranje
+- šifrovanje
+- Šifrēšana
+- Κρυπτογράφηση
+- Мәліметтерді шырқау
+- Рамзгузорӣ
+- Шифрлэлт
+- Шифрлөө
+- Шифроване
+- шифрование
+- шифрування
+- Ծածկագրում
+- הצפנה
+- تعمية (إجرائية)
+- رمزگذاری
+- صفریت
+- کوډ کول
+- इन्क्रिप्सन
+- एन्क्रिप्शन
+- গুপ্তায়ন
+- மறையாக்கம்
+- ఎన్క్రిప్షన్
+- എൻക്രിപ്ഷൻ
+- ගුප්ත කේතනය
+- การเข้ารหัส
+- შიფრაცია
+- 加密
+- 暗号
+- 암호화
 has_id_wikidata: Q141090
 has_use:
-  - '[[_Standards/WikiData/WD~espionage,165950]]'
-  - '[[_Standards/WikiData/WD~digital_rights_management,192532]]'
-  - '[[_Standards/WikiData/WD~authentication,212108]]'
-  - '[[_Standards/WikiData/WD~data_integrity,461671]]'
-  - '[[_Standards/WikiData/WD~counterintelligence,501700]]'
-  - '[[_Standards/WikiData/WD~Internet_censorship_circumvention,839180]]'
-  - '[[_Standards/WikiData/WD~secrecy,1503443]]'
-  - '[[_Standards/WikiData/WD~secure_communication,7444868]]'
-  - '[[_Standards/WikiData/WD~data_protection,23647168]]'
+- '[[_Standards/WikiData/WD~espionage,165950]]'
+- '[[_Standards/WikiData/WD~digital_rights_management,192532]]'
+- '[[_Standards/WikiData/WD~authentication,212108]]'
+- '[[_Standards/WikiData/WD~data_integrity,461671]]'
+- '[[_Standards/WikiData/WD~counterintelligence,501700]]'
+- '[[_Standards/WikiData/WD~Internet_censorship_circumvention,839180]]'
+- '[[_Standards/WikiData/WD~secrecy,1503443]]'
+- '[[_Standards/WikiData/WD~secure_communication,7444868]]'
+- '[[_Standards/WikiData/WD~data_protection,23647168]]'
 uses:
-  - '[[_Standards/WikiData/WD~key,471771]]'
-  - '[[_Standards/WikiData/WD~plaintext,1162538]]'
-  - '[[_Standards/WikiData/WD~cipher,4681865]]'
+- '[[_Standards/WikiData/WD~key,471771]]'
+- '[[_Standards/WikiData/WD~plaintext,1162538]]'
+- '[[_Standards/WikiData/WD~cipher,4681865]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~calculation,622821]]'
-  - '[[_Standards/WikiData/WD~encoding,5375490]]'
-  - '[[_Standards/WikiData/WD~cryptographic_data_processing,124726263]]'
+- '[[_Standards/WikiData/WD~calculation,622821]]'
+- '[[_Standards/WikiData/WD~encoding,5375490]]'
+- '[[_Standards/WikiData/WD~cryptographic_data_processing,124726263]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~ciphertext,1589480]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 opposite_of: '[[_Standards/WikiData/WD~decryption,25560977]]'
@@ -31,14 +98,92 @@ facet_of: '[[_Standards/WikiData/WD~security_risk,78908682]]'
 part_of: '[[_Standards/WikiData/WD~cryptography,8789]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Public%20key%20encryption%20keys.svg
 Stack_Exchange_tag:
-  - https://crypto.stackexchange.com/tags/encryption
-  - https://stackoverflow.com/tags/encryption
+- https://crypto.stackexchange.com/tags/encryption
+- https://stackoverflow.com/tags/encryption
 ACM_Classification_Code_2012_: 10002976
 IEV_number: 171-08-09
 Commons_category: Cryptographic algorithms
 GitHub_topic: encryption
+dv_has_:
+  name_:
+    af: Versleuteling
+    ar: تعمية (إجرائية)
+    az: Şifrləmə
+    bg: Шифроване
+    bn: গুপ্তায়ন
+    bs: Enkripcija
+    ca: Xifratge
+    da: Kryptering
+    de: Verschlüsselung
+    el: Κρυπτογράφηση
+    en: encryption
+    eo: Ĉifrado
+    es: cifrado
+    et: Šifreerimine
+    eu: Zifratze
+    fa: رمزگذاری
+    fi: salaus
+    fr: chiffrement
+    ga: criptiúchán
+    gl: Cifrado
+    he: הצפנה
+    hi: एन्क्रिप्शन
+    hr: šifriranje
+    hu: titkosítás
+    hy: Ծածկագրում
+    id: Enkripsi
+    is: Dulritun
+    it: cifratura
+    ja: 暗号
+    ka: შიფრაცია
+    kk: Мәліметтерді шырқау
+    ko: 암호화
+    ku: Şidandin
+    ky: Шифрлөө
+    ln: Libómba
+    lt: šifravimas
+    lv: Šifrēšana
+    mk: Encryption
+    ml: എൻക്രിപ്ഷൻ
+    mn: Шифрлэлт
+    ms: penyulitan
+    nan: Sái-hō
+    nb: kryptering
+    ne: इन्क्रिप्सन
+    nl: encryptie
+    nn: chiffer
+    oc: Codatge
+    pl: szyfrowanie
+    pms: Cifradura
+    ps: کوډ کول
+    pt: encriptação
+    qu: Ukhulliy
+    ro: criptare
+    ru: шифрование
+    sh: enkripcija
+    si: ගුප්ත කේතනය
+    sl: šifriranje
+    sq: Kriptimi
+    sr: šifrovanje
+    su: Énkripsi
+    sv: kryptering
+    sw: Usimbaji fiche
+    ta: மறையாக்கம்
+    te: ఎన్క్రిప్షన్
+    tg: Рамзгузорӣ
+    th: การเข้ารหัส
+    tl: enkripsiyon
+    tr: Şifreleme
+    uk: шифрування
+    ur: صفریت
+    uz: Shifrlash
+    vi: mã hóa
+    wuu: 加密
+    xh: I-Encryption
+    yue: 加密
+    zh: 加密
+    zu: Ukunyandla
 ---
-
 # [[Encryption]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Encryption,141090|WD~Encryption,141090]]  

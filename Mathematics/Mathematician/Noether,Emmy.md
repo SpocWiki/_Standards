@@ -1,11 +1,147 @@
 ---
 aliases:
-  - Amalie Emmy Noether
-  - Emmy Noether
-  - Noether
-  - Noether,Emmy
+- Aemilia Noether
+- Amalie Emmy Noether
+- emis.nyter
+- Emma Noter
+- Emmi Nöter
+- Emmija Nētere
+- Emmy Noether
+- Emmy Noetherová
+- Noether
+- Noether,Emmy
+- Έμι Νέτερ
+- Амалия Эмма Нётер
+- Еми Нетер
+- Еми Ньотер
+- Еммі Нетер
+- Эмі Нётэр
+- Эмми Нётер
+- Էմմի Նյոթեր
+- אמי נתר
+- إيمي نوتر
+- ئێمی نۆتر
+- امی نوتر
+- امی نودر
+- ايمى نويثر
+- ايمي نيوتر
+- एमाली इमी नुथर
+- एमी नुथर
+- एमी नोएदर
+- एमी नोटर
+- এমি ন্যোটার
+- எம்மி நோய்தர்
+- ఎమ్మీ నోథర్
+- എമ്മി നോതർ
+- เอ็มมี เนอเทอร์
+- အမ်မီ နိုသာ
+- ემი ნეთერი
+- エミー・ネーター
+- 埃米·诺特
+- 艾米·諾特
+- 諾特
+- 에미 뇌터
+has_id_wikidata: Q7099
+dv_has_:
+  name_:
+    an: Emmy Noether
+    ar: إيمي نوتر
+    arz: ايمى نويثر
+    ast: Emmy Noether
+    az: Emma Noter
+    azb: امی نوتر
+    be: Эмі Нётэр
+    be-tarask: Эмі Нётэр
+    bg: Еми Ньотер
+    bn: এমি ন্যোটার
+    ca: Emmy Noether
+    ckb: ئێمی نۆتر
+    cs: Emmy Noetherová
+    cv: Эмми Нётер
+    cy: Emmy Noether
+    da: Emmy Noether
+    dag: Emmy Noether
+    de: Emmy Noether
+    de-ch: Emmy Noether
+    el: Έμι Νέτερ
+    en: Emmy Noether
+    en-ca: Emmy Noether
+    en-gb: Emmy Noether
+    eo: Emmy Noether
+    es: Emmy Noether
+    et: Emmy Noether
+    eu: Emmy Noether
+    ext: Emmy Noether
+    fa: امی نودر
+    fi: Emmy Noether
+    fr: Emmy Noether
+    ga: Emmy Noether
+    gl: Emmy Noether
+    he: אמי נתר
+    hi: एमी नोटर
+    hr: Emmy Noether
+    ht: Emmy Noether
+    hu: Emmy Noether
+    hy: Էմմի Նյոթեր
+    ia: Emmy Noether
+    id: Emmy Noether
+    ig: Emmy Noether
+    is: Emmy Noether
+    it: Emmy Noether
+    ja: エミー・ネーター
+    jbo: emis.nyter
+    ka: ემი ნეთერი
+    kk: Амалия Эмма Нётер
+    ko: 에미 뇌터
+    ky: Эмми Нётер
+    la: Aemilia Noether
+    lrc: امی نودر
+    lt: Emmy Noether
+    lv: Emmija Nētere
+    mai: एमी नुथर
+    mg: Emmy Noether
+    mk: Еми Нетер
+    ml: എമ്മി നോതർ
+    mul: Emmy Noether
+    my: အမ်မီ နိုသာ
+    nb: Emmy Noether
+    nds: Emmy Noether
+    ne: एमाली इमी नुथर
+    new: एमी नोएदर
+    nl: Emmy Noether
+    nn: Emmy Noether
+    nov: Emmy Noether
+    oc: Emmy Noether
+    pl: Emmy Noether
+    pms: Emmy Noether
+    ps: ايمي نيوتر
+    pt: Emmy Noether
+    pt-br: Emmy Noether
+    ro: Emmy Noether
+    ru: Эмми Нётер
+    sco: Emmy Noether
+    sh: Emmy Noether
+    sk: Emmy Noetherová
+    sl: Emmy Noether
+    sq: Emmy Noether
+    sr: Еми Нетер
+    sv: Emmy Noether
+    ta: எம்மி நோய்தர்
+    te: ఎమ్మీ నోథర్
+    th: เอ็มมี เนอเทอร์
+    tr: Emmy Noether
+    tt: Emmi Nöter
+    uk: Еммі Нетер
+    uz: Emmy Noether
+    vi: Emmy Noether
+    war: Emmy Noether
+    wuu: 埃米·诺特
+    xmf: ემი ნეთერი
+    yue: 諾特
+    zh: 埃米·诺特
+    zh-cn: 埃米·诺特
+    zh-tw: 艾米·諾特
 ---
-
 # [[Noether,Emmy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Emmy_Noether,7099|WD~Emmy_Noether,7099]] 

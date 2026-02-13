@@ -1,35 +1,144 @@
 ---
 aliases:
+- Af Malagasi
+- an Mhalagáisis
+- Asụsụ Malagasy
+- bahasa Malagasi
+- Basa Malagasy
+- Fiteny malagasy
+- gassisk
+- Gjuha madagaskare
+- Iaith Malagaseg
+- isi-Malagasy
+- język malgaski
+- Kimalagasy
+- Lengua malagascia
+- limba malgașă
+- lingua Malagasiana
+- Lingua malgache
+- Lingua malgaxe
+- Làkku malgaas
+- Língua malgaxe
+- malagasa lingvo
+- Malagaseänapük
+- Malagasi
+- Malagasi simi
+- Malagasi tili
+- Malagasi-linguo
+- malagasieg
+- Malagasish
+- Malagasiy tili
+- Malagasių kalba
+- malagassi
+- Malagassi keel
+- Malagassisk
+- malagassiska
+- Malagassiskisut
+- Malagasy
+- Malagasy bhasa
+- Malagasy-gí
+- Malagasy-ngṳ̄
+- Malagasíska
+- Malagaški jezik
+- Malaqasi dili
+- malgache
+- Malgache (lingaedje)
+- malgaix
+- malgas
+- malgascio
+- malgasciu
+- Malgash
+- malgaso
+- Malgass
+- malgaxe
+- Malgaşki
+- Malgaşça
+- malgaški jezik
+- malgaština
+- malgašu valoda
+- malgaščina
+- Mâ-là-kâ-sṳ̂-ngî
+- Pinulongang Malgatse
+- Reo Malagasy
+- Tamalgacit
+- tataramon na Malgatse
+- tiếng Malagasy
+- Wikang Malgatse
+- zimanê malagasî
+- Μαλαγασική γλώσσα
+- малагасійская мова
+- малагасійська мова
+- Малагаси кыв
+- Малагаси теле
+- Малагаси тил
+- Малагаси тили
+- малагасиаг æвзаг
+- малагасийн мотт
+- малагасийский язык
+- малагасиянь кяль
+- Малгашки јазик
+- Малгашки језик
+- Малгашки език
+- Մալակասերէն
+- מלגשית
+- الملغاشية
+- الملغاشيه
+- الملڨاشي
+- زبان مالاگاسی
+- زمانی مالاگاسی
+- لملݣاشية
+- مالاقسی دیلی
+- مالاګاسي ژبه
+- مالاگاسی
+- مالاگاسی زوون
+- मालागासी भाषा
+- মালাগাসি ভাষা
+- ਮਾਲਾਗਾਸੀ
+- માલાગાસી
+- மலகசி மொழி
+- മലഗാസി ഭാഷ
+- ภาษามาลากาซี
+- ພາສາມາລາກາຊີ
+- მალაგასიური ენა
+- მალაგასიური ნინა
+- መለጋሲ
+- ᱢᱟᱞᱟᱜᱟᱥᱤ ᱯᱟᱹᱨᱥᱤ
+- マダガスカル語
+- 馬拉加什文
+- 馬拉加斯語
+- 馬達加斯加語
+- 马达加斯加语
+- 말라가시어
 has_id_wikidata: Q7930
 instance_of:
-  - "[[_Standards/WikiData/WD~macrolanguage,152559]]"
-  - "[[_Standards/WikiData/WD~modern_language,1288568]]"
-  - "[[_Standards/WikiData/WD~natural_language,33742]]"
-indigenous_to: "[[_Standards/WikiData/WD~Malagasy_people,310983]]"
-linguistic_typology: "[[_Standards/WikiData/WD~verb_object_subject,568140]]"
+- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
+indigenous_to: '[[_Standards/WikiData/WD~Malagasy_people,310983]]'
+linguistic_typology: '[[_Standards/WikiData/WD~verb_object_subject,568140]]'
 writing_system:
-  - "[[_Standards/WikiData/WD~Sorabe_alphabet,576484]]"
-  - "[[_Standards/WikiData/WD~Latin_script,8229]]"
+- '[[_Standards/WikiData/WD~Sorabe_alphabet,576484]]'
+- '[[_Standards/WikiData/WD~Latin_script,8229]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Masikoro_Malagasy,1976816]]"
-  - "[[_Standards/WikiData/WD~Bara,2114962]]"
-  - "[[_Standards/WikiData/WD~Fiteny_Antankarana,2167573]]"
-  - "[[_Standards/WikiData/WD~Northern_Betsimisaraka_Malagasy,2548276]]"
-  - "[[_Standards/WikiData/WD~Tesaka_Malagasy,2852547]]"
-  - "[[_Standards/WikiData/WD~Tandroy,2852592]]"
-  - "[[_Standards/WikiData/WD~Tanosy,2852610]]"
-  - "[[_Standards/WikiData/WD~Tsimihety_Malagasy,3541574]]"
-  - "[[_Standards/WikiData/WD~Bushi,5150795]]"
-  - "[[_Standards/WikiData/WD~Sakalava_Malagasy,12952768]]"
-  - "[[_Standards/WikiData/WD~Plateau_Malagasy,15069308]]"
-  - "[[_Standards/WikiData/WD~Southern_Betsimisaraka_Malagasy,16112760]]"
-subclass_of: "[[_Standards/WikiData/WD~East_Barito,2701314]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~Q131938994,131938994]]"
-country: "[[_Standards/WikiData/WD~Madagascar,1019]]"
-different_from: "[[_Standards/WikiData/WD~Malay,9237]]"
+- '[[_Standards/WikiData/WD~Masikoro_Malagasy,1976816]]'
+- '[[_Standards/WikiData/WD~Bara,2114962]]'
+- '[[_Standards/WikiData/WD~Fiteny_Antankarana,2167573]]'
+- '[[_Standards/WikiData/WD~Northern_Betsimisaraka_Malagasy,2548276]]'
+- '[[_Standards/WikiData/WD~Tesaka_Malagasy,2852547]]'
+- '[[_Standards/WikiData/WD~Tandroy,2852592]]'
+- '[[_Standards/WikiData/WD~Tanosy,2852610]]'
+- '[[_Standards/WikiData/WD~Tsimihety_Malagasy,3541574]]'
+- '[[_Standards/WikiData/WD~Bushi,5150795]]'
+- '[[_Standards/WikiData/WD~Sakalava_Malagasy,12952768]]'
+- '[[_Standards/WikiData/WD~Plateau_Malagasy,15069308]]'
+- '[[_Standards/WikiData/WD~Southern_Betsimisaraka_Malagasy,16112760]]'
+subclass_of: '[[_Standards/WikiData/WD~East_Barito,2701314]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q131938994,131938994]]'
+country: '[[_Standards/WikiData/WD~Madagascar,1019]]'
+different_from: '[[_Standards/WikiData/WD~Malay,9237]]'
 number_of_speakers_writers_or_signers: 18000000
-IAB_code: "1131"
-OmegaWiki_Defined_Meaning: "1270061"
+IAB_code: 1131
+OmegaWiki_Defined_Meaning: 1270061
 Wikimedia_language_code: mg
 IETF_language_tag: mg
 ISO_639_1_code: mg
@@ -37,7 +146,7 @@ POSIX_locale_identifier: mg
 Ethnologue_com_language_code: mlg
 ISO_639_3_code: mlg
 ISO_639_2_code: mlg
-Dewey_Decimal_Classification: "499.3"
+Dewey_Decimal_Classification: 499.3
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Malagasy%20language%20dialects.svg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/ISO%20639%20Icon%20mg.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Manakara%20river%20%28cropped%29.jpg
@@ -48,11 +157,142 @@ Commons_category: Malagasy language
 GOST_7_75_97_code: млг 418
 native_label: Fiteny malagasy
 short_name:
-  - малагасиаг
-  - малагасийский
-  - малагасійська
+- малагасиаг
+- малагасийский
+- малагасійська
+dv_has_:
+  name_:
+    aeb-arab: الملڨاشي
+    af: Malagasy
+    am: መለጋሲ
+    anp: मालागासी भाषा
+    ar: الملغاشية
+    ary: لملݣاشية
+    arz: الملغاشيه
+    ast: malgaxe
+    az: Malaqasi dili
+    azb: مالاقسی دیلی
+    ba: Малагаси теле
+    bcl: tataramon na Malgatse
+    be: малагасійская мова
+    be-tarask: малагасійская мова
+    bg: Малгашки език
+    bn: মালাগাসি ভাষা
+    br: malagasieg
+    ca: malgaix
+    cdo: Malagasy-ngṳ̄
+    ce: малагасийн мотт
+    ceb: Pinulongang Malgatse
+    ckb: زمانی مالاگاسی
+    cs: malgaština
+    cy: Iaith Malagaseg
+    da: Malagassisk
+    de: Malagasy
+    diq: Malgaşki
+    el: Μαλαγασική γλώσσα
+    en: Malagasy
+    en-ca: Malagasy
+    en-gb: Malagasy
+    eo: malagasa lingvo
+    es: malgache
+    et: Malagassi keel
+    eu: malgaxe
+    fa: زبان مالاگاسی
+    fi: malagassi
+    fr: malgache
+    ga: an Mhalagáisis
+    gl: Lingua malgaxe
+    gu: માલાગાસી
+    gv: Malagasish
+    hak: Mâ-là-kâ-sṳ̂-ngî
+    he: מלגשית
+    hi: मालागासी भाषा
+    hif: Malagasy bhasa
+    hr: malgaški jezik
+    hu: malgas
+    hyw: Մալակասերէն
+    ia: Lingua malgache
+    id: bahasa Malagasi
+    ig: Asụsụ Malagasy
+    ilo: Malagasi
+    io: Malagasi-linguo
+    is: Malagasíska
+    it: malgascio
+    ja: マダガスカル語
+    jv: Basa Malagasy
+    ka: მალაგასიური ენა
+    kaa: Malagasiy tili
+    kab: Tamalgacit
+    kge: Bahasa Malagasi
+    kl: Malagassiskisut
+    ko: 말라가시어
+    krc: Малагаси тил
+    ku: zimanê malagasî
+    ku-latn: zimanê malagasî
+    kv: Малагаси кыв
+    ky: Малагаси тили
+    la: lingua Malagasiana
+    lij: Lengua malagascia
+    lo: ພາສາມາລາກາຊີ
+    lt: Malagasių kalba
+    lv: malgašu valoda
+    mdf: малагасиянь кяль
+    mg: Fiteny malagasy
+    mi: Reo Malagasy
+    mk: Малгашки јазик
+    ml: മലഗാസി ഭാഷ
+    mr: मालागासी भाषा
+    ms: Bahasa Malagasi
+    mzn: مالاگاسی زوون
+    nan: Malagasy-gí
+    nb: gassisk
+    nl: Malagasi
+    nn: gassisk
+    oc: Malgash
+    os: малагасиаг æвзаг
+    pa: ਮਾਲਾਗਾਸੀ
+    pl: język malgaski
+    pms: Malgass
+    pnb: مالاگاسی
+    ps: مالاګاسي ژبه
+    pt: Língua malgaxe
+    pt-br: Língua malgaxe
+    qu: Malagasi simi
+    ro: limba malgașă
+    ru: малагасийский язык
+    sat: ᱢᱟᱞᱟᱜᱟᱥᱤ ᱯᱟᱹᱨᱥᱤ
+    scn: malgasciu
+    sh: Malagaški jezik
+    sk: malgaština
+    sl: malgaščina
+    so: Af Malagasi
+    sq: Gjuha madagaskare
+    sr: Малгашки језик
+    sr-ec: Малгашки језик
+    sv: malagassiska
+    sw: Kimalagasy
+    ta: மலகசி மொழி
+    th: ภาษามาลากาซี
+    tl: Wikang Malgatse
+    tr: Malgaşça
+    tt: малагаси теле
+    uk: малагасійська мова
+    ur: مالاگاسی
+    uz: Malagasi tili
+    vec: malgaso
+    vi: tiếng Malagasy
+    vo: Malagaseänapük
+    wa: Malgache (lingaedje)
+    wo: Làkku malgaas
+    wuu: 馬拉加斯語
+    xmf: მალაგასიური ნინა
+    yue: 馬拉加什文
+    zh: 马达加斯加语
+    zh-cn: 马达加斯加语
+    zh-hans: 马达加斯加语
+    zh-hant: 馬達加斯加語
+    zu: isi-Malagasy
 ---
-
 # [[Malagasy]] 
 
 #is_/same_as :: [[../WikiData/WD~Malagasy,7930|WD~Malagasy,7930]] 

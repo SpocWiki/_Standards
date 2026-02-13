@@ -1,22 +1,132 @@
 ---
 aliases:
+- concubinaat
+- concubinage
+- concubinaj
+- concubinat
+- concubinato
+- Concubinatus
+- Frilla
+- Gundik
+- Konkubinat
+- Konkubinati
+- Konkubinato
+- konkubineco
+- konkubinát
+- Nikahsız beraberlik
+- Ohaidetza
+- Pergundikan
+- Priležništvo
+- Serc'h
+- Serch
+- Usuria
+- Vada
+- Varongo
+- ágyas
+- Παλλακεία
+- канкубінат
+- Конкубінат
+- конкубинат
+- Հարճ
+- פילגש
+- المعاشرة دون زواج
+- د صيغه توب ژوند
+- داشتہ
+- همبالینی
+- रखैल
+- উপপত্নী প্রথা
+- ਦਾਸ/ਦਾਸੀ ਸੰਬੰਧ
+- വെപ്പാട്ടി
+- การอยู่กินด้วยกันโดยไม่ได้สมรส
+- 内縁
+- 妾
+- 妾制
+- 내연녀
 has_id_wikidata: Q188790
-subclass_of: "[[_Standards/WikiData/WD~interpersonal_relationship,223642]]"
+subclass_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-has_part_s_: "[[_Standards/WikiData/WD~concubine,2719946]]"
-instance_of: "[[_Standards/WikiData/WD~marital_status,11920938]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+has_part_s_: '[[_Standards/WikiData/WD~concubine,2719946]]'
+instance_of: '[[_Standards/WikiData/WD~marital_status,11920938]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fran%C3%A7ois-Joseph%20Navez%20-%20Agar%20et%20Isma%C3%ABl%20dans%20le%20d%C3%A9sert.jpg
 Krugosvet_article: ekonomika-i-pravo/konkubinat
+dv_has_:
+  name_:
+    ar: المعاشرة دون زواج
+    ast: Concubinato
+    be: канкубінат
+    be-tarask: канкубінат
+    bn: উপপত্নী প্রথা
+    br: Serc'h
+    ca: concubinat
+    cs: konkubinát
+    cy: Serch
+    de: Konkubinat
+    el: Παλλακεία
+    en: concubinage
+    eo: konkubineco
+    es: concubinato
+    eu: Ohaidetza
+    fa: همبالینی
+    ff: Concubinage
+    fj: Vada
+    fr: concubinage
+    gl: concubinato
+    he: פילגש
+    hi: रखैल
+    hr: Priležništvo
+    hu: ágyas
+    hy: Հարճ
+    id: Pergundikan
+    io: Konkubinato
+    is: Frilla
+    it: concubinato
+    ja: 内縁
+    ko: 내연녀
+    la: Concubinatus
+    ml: വെപ്പാട്ടി
+    ms: Gundik
+    nb: konkubinat
+    nl: concubinaat
+    nn: konkubinat
+    pa: ਦਾਸ/ਦਾਸੀ ਸੰਬੰਧ
+    pl: konkubinat
+    pnb: داشتہ
+    ps: د صيغه توب ژوند
+    pt: concubinato
+    pt-br: concubinato
+    ro: concubinaj
+    ru: конкубинат
+    sh: Konkubinat
+    sl: konkubinat
+    sn: Varongo
+    sq: Konkubinati
+    sr: Конкубинат
+    sr-ec: Конкубинат
+    sr-el: Konkubinat
+    sv: Konkubinat
+    sw: Usuria
+    th: การอยู่กินด้วยกันโดยไม่ได้สมรส
+    tr: Nikahsız beraberlik
+    uk: Конкубінат
+    ur: داشتہ
+    yi: פילגש
+    yue: 妾制
+    zh: 妾
+    zh-cn: 妾
+    zh-hans: 妾
+    zh-hant: 妾
+    zh-hk: 妾
+    zh-sg: 妾
+    zh-tw: 妾
 ---
-
 # [[Concubinage]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Concubinage,188790|WD~Concubinage,188790]] 

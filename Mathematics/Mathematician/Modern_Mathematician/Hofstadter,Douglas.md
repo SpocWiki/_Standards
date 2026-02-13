@@ -1,4 +1,75 @@
-
+---
+has_id_wikidata: Q319308
+dv_has_:
+  name_:
+    ar: دوغلاس هوفشتادتر
+    arz: دوجلاس هوفشتادتر
+    az: Duqlas Hofştadter
+    azb: داقلاس هافستادر
+    be: Дуглас Хофштатэр
+    bg: Дъглас Хофстатър
+    ca: Douglas Hofstadter
+    cs: Douglas Hofstadter
+    cy: Douglas Hofstadter
+    da: Douglas Hofstadter
+    dag: Douglas Hofstadter
+    de: Douglas R. Hofstadter
+    el: Ντάγκλας Χόφσταντερ
+    en: Douglas Hofstadter
+    es: Douglas Hofstadter
+    et: Douglas Hofstadter
+    fa: داگلاس هافستادر
+    fi: Douglas Hofstadter
+    fr: Douglas Hofstadter
+    ga: Douglas Hofstadter
+    he: דאגלס הופשטטר
+    hu: Douglas Hofstadter
+    hy: Դուգլաս Հոֆչտադտեր
+    it: Douglas Hofstadter
+    ja: ダグラス・ホフスタッター
+    ko: 더글러스 호프스태터
+    nb: Douglas Hofstadter
+    nl: Douglas Hofstadter
+    nn: Douglas Hofstadter
+    pap: Douglas Hofstadter
+    pl: Douglas Hofstadtesr
+    pt: Douglas Hofstadter
+    pt-br: Douglas Hofstadter
+    ro: Douglas Hofstadter
+    ru: Дуглас Хофштадтер
+    sl: Douglas R. Hofstadter
+    sq: Douglas Hofstadter
+    sv: Douglas Hofstadter
+    tr: Douglas Hofstadter
+    uk: Дуглас Гофстедтер
+    zh: 侯世達
+    zh-cn: 侯世达
+    zh-hans: 侯世达
+    zh-hant: 侯世達
+    zh-hk: 侯世達
+    zh-sg: 侯世达
+    zh-tw: 侯世達
+aliases:
+- Douglas Hofstadter
+- Douglas Hofstadtesr
+- Douglas R. Hofstadter
+- Duqlas Hofştadter
+- Ντάγκλας Χόφσταντερ
+- Дуглас Гофстедтер
+- Дуглас Хофштадтер
+- Дуглас Хофштатэр
+- Дъглас Хофстатър
+- Դուգլաս Հոֆչտադտեր
+- דאגלס הופשטטר
+- داقلاس هافستادر
+- داگلاس هافستادر
+- دوجلاس هوفشتادتر
+- دوغلاس هوفشتادتر
+- ダグラス・ホフスタッター
+- 侯世达
+- 侯世達
+- 더글러스 호프스태터
+---
 ## #has_/text_of_/abstract 
 
 > Douglas Richard Hofstadter (born February 15, 1945) 

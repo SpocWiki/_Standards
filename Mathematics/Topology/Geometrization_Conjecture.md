@@ -1,14 +1,53 @@
 ---
 aliases:
+- Congettura di geometrizzazione di Thurston
+- conjectura de geometrizare
+- conjecture de géométrisation
+- conjetura de geometrización
+- Conjetura de Thurston
+- conxectura de xeometrización
+- geometriseringsformodning
+- Geometriseringsförmodan
+- Geometrisierung von 3-Mannigfaltigkeiten
+- geometrization conjecture
+- Hipoteza geometryzacyjna
+- konjekto de geometriigo
+- Vermeetkundigingsvermoeden van Thurston
+- Εικασία Γεωμετρικοποίησης του Θέρστον
+- Гипотеза Тёрстона
+- теорема геометризації
+- 几何化猜想
+- 幾何化予想
+- 기하화 추측
 has_id_wikidata: Q1503309
 instance_of:
-  - "[[_Standards/WikiData/WD~theorem,65943]]"
-  - "[[_Standards/WikiData/WD~conjecture,319141]]"
-solved_by: "[[_Standards/WikiData/WD~Grigori_Perelman,117346]]"
-studied_by: "[[_Standards/WikiData/WD~Riemannian_geometry,761383]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~theorem,65943]]'
+- '[[_Standards/WikiData/WD~conjecture,319141]]'
+solved_by: '[[_Standards/WikiData/WD~Grigori_Perelman,117346]]'
+studied_by: '[[_Standards/WikiData/WD~Riemannian_geometry,761383]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+dv_has_:
+  name_:
+    da: geometriseringsformodning
+    de: Geometrisierung von 3-Mannigfaltigkeiten
+    el: Εικασία Γεωμετρικοποίησης του Θέρστον
+    en: geometrization conjecture
+    eo: konjekto de geometriigo
+    es: Conjetura de Thurston
+    eu: conjetura de geometrización
+    fr: conjecture de géométrisation
+    gl: conxectura de xeometrización
+    it: Congettura di geometrizzazione di Thurston
+    ja: 幾何化予想
+    ko: 기하화 추측
+    nl: Vermeetkundigingsvermoeden van Thurston
+    pl: Hipoteza geometryzacyjna
+    ro: conjectura de geometrizare
+    ru: Гипотеза Тёрстона
+    sv: Geometriseringsförmodan
+    uk: теорема геометризації
+    zh: 几何化猜想
 ---
-
 # [[Geometrization_Conjecture]] 
 
 #is_/better_than :: [[Poincaré_Conjecture]] 

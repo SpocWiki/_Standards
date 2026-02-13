@@ -1,29 +1,141 @@
 ---
 aliases:
+- din psikolojisi
+- Din psixologiyası
+- Dinning psixologiyasi
+- Erlijioaren psikologia
+- godsdienstpsychologie
+- psicologia da religião
+- psicologia de la religió
+- psicologia della religione
+- psicología de la religión
+- psicoloxía da relixión
+- Psicoloxía de la relixón
+- Psihologija Kabale
+- Psihologija religije
+- Psikologi agama
+- psikologio de la religio
+- psychologia religii
+- Psychologia religionis
+- psychologie de la religion
+- psychologie náboženství
+- psychology of religion
+- religijos psichologija
+- Religionspsychologie
+- religionspsykologi
+- Religioonipsühholoogia
+- reliģijas psiholoģija
+- seicoleg crefydd
+- Tâm lý học tôn giáo
+- Uskontopsykologia
+- valláspszichológia
+- Ψυχολογία της θρησκείας
+- Дін психологиясы
+- дин психологиясе
+- психологія релігії
+- Психологија религије
+- Психология на религията
+- психология религии
+- псыхалёгія рэлігіі
+- Կրոնի հոգեբանություն
+- פסיכולוגיה של הדת
+- روانشناسی دین
+- علم نفس الأديان
+- علم نفس الاديان
+- ڤسيکولوݢي اݢام
+- धर्म का मनोविज्ञान
+- ধর্মের মনস্তত্ব
+- சமய உளவியல்
+- 宗教心理学
+- 宗教心理學
+- 종교심리학
 has_id_wikidata: Q368498
-has_part_s_: "[[_Standards/WikiData/WD~religious_experience,143210]]"
+has_part_s_: '[[_Standards/WikiData/WD~religious_experience,143210]]'
 is_the_study_of:
-  - "[[_Standards/WikiData/WD~indoctrination,375159]]"
-  - "[[_Standards/WikiData/WD~religiosity,1553701]]"
-  - "[[_Standards/WikiData/WD~religious_group,111252415]]"
+- '[[_Standards/WikiData/WD~indoctrination,375159]]'
+- '[[_Standards/WikiData/WD~religiosity,1553701]]'
+- '[[_Standards/WikiData/WD~religious_group,111252415]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~applied_psychology,538904]]"
-  - "[[_Standards/WikiData/WD~religion_and_health,7311140]]"
+- '[[_Standards/WikiData/WD~applied_psychology,538904]]'
+- '[[_Standards/WikiData/WD~religion_and_health,7311140]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~academic_major,4671286]]"
-  - "[[_Standards/WikiData/WD~branch_of_psychology,60680430]]"
-practiced_by: "[[_Standards/WikiData/WD~psychologist_of_religion,88195566]]"
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
+practiced_by: '[[_Standards/WikiData/WD~psychologist_of_religion,88195566]]'
 Library_of_Congress_Classification:
-  - BL53-BL54
-  - BF1-BF990
-Basisklassifikation: "11.06"
+- BL53-BL54
+- BF1-BF990
+Basisklassifikation: 11.06
 UMLS_CUI: C0035042
 MeSH_tree_code:
-  - F02.880
-  - K01.844.664
-Dewey_Decimal_Classification: "200.19"
+- F02.880
+- K01.844.664
+Dewey_Decimal_Classification: 200.19
+dv_has_:
+  name_:
+    ar: علم نفس الأديان
+    arz: علم نفس الاديان
+    ast: Psicoloxía de la relixón
+    az: Din psixologiyası
+    be-tarask: псыхалёгія рэлігіі
+    bg: Психология на религията
+    bn: ধর্মের মনস্তত্ব
+    ca: psicologia de la religió
+    cs: psychologie náboženství
+    cy: seicoleg crefydd
+    da: religionspsykologi
+    de: Religionspsychologie
+    el: Ψυχολογία της θρησκείας
+    en: psychology of religion
+    en-ca: psychology of religion
+    en-gb: psychology of religion
+    en-us: psychology of religion
+    eo: psikologio de la religio
+    es: psicología de la religión
+    et: Religioonipsühholoogia
+    eu: Erlijioaren psikologia
+    fa: روانشناسی دین
+    fi: Uskontopsykologia
+    fr: psychologie de la religion
+    gl: psicoloxía da relixión
+    he: פסיכולוגיה של הדת
+    hi: धर्म का मनोविज्ञान
+    hr: Psihologija Kabale
+    hu: valláspszichológia
+    hy: Կրոնի հոգեբանություն
+    id: Psikologi agama
+    it: psicologia della religione
+    ja: 宗教心理学
+    kk: Дін психологиясы
+    ko: 종교심리학
+    la: Psychologia religionis
+    lt: religijos psichologija
+    lv: reliģijas psiholoģija
+    ms: psikologi agama
+    ms-arab: ڤسيکولوݢي اݢام
+    mul: psychology of religion
+    nb: religionspsykologi
+    nl: godsdienstpsychologie
+    pl: psychologia religii
+    pt: psicologia da religião
+    pt-br: Psicologia da religião
+    ru: психология религии
+    sh: Psihologija religije
+    sl: psihologija religije
+    sr: Психологија религије
+    sv: religionspsykologi
+    ta: சமய உளவியல்
+    tr: din psikolojisi
+    tt: дин психологиясе
+    uk: психологія релігії
+    uz: Dinning psixologiyasi
+    vi: Tâm lý học tôn giáo
+    yue: 宗教心理學
+    zh: 宗教心理學
+    zh-cn: 宗教心理学
+    zh-hans: 宗教心理学
+    zh-hant: 宗教心理學
 ---
-
 # [[Psychology_of_Religion]] 
 
 #is_/same_as :: [[WD~Psychology_of_religion,368498]] 

@@ -1,17 +1,146 @@
 ---
 aliases:
+- balentzia-elektroi
+- Değerlik elektron
+- electron de valență
+- Electron hóa trị
+- electrão de valência
+- electró de valència
+- Electrón de valencia
+- Elektron valens
+- Elektron valensi
+- elektron walencyjny
+- Elektwon valans
+- Eletrão de valência
+- elettrone di valenza
+- fiúsleictreon
+- Gildisrafeind
+- Vaalaansii elektiroonii
+- Valencal elektrono
+- Valence electron
+- valenselektron
+- Valenselektrone
+- valenssielektroni
+- valentelektrono
+- valentie-elektron
+- Valentinis elektronas
+- Valentni elektron
+- Valentni elektroni
+- valentselektron
+- Valenzelektron
+- Valenční elektron
+- Valenčný elektrón
+- valeʹnsselektroon
+- vegyértékelektron
+- vērtības elektrons
+- électron de valence
+- Ελεύθερο ηλεκτρόνιο
+- Валент электрондар
+- Валент электроннар
+- Валентен електрон
+- валентни електрони
+- валентний електрон
+- валентны электрон
+- валентный электрон
+- Валентын электрон
+- Եռակցում
+- אלקטרון ערכיות
+- إلكترون تكافؤ
+- ئێلێکترۆنی ھاوھێزی
+- الکترونهای ظرفیت
+- যোজ্যতা ইলেকট্রন
+- இணைதிறன் எதிர்மின்னி
+- เวเลนซ์อิเล็กตรอน
+- 价电子
+- 価電子
+- 價電子
+- 원자가 전자
 has_id_wikidata: Q107414
 part_of:
-  - "[[_Standards/WikiData/WD~electron_shell,193793]]"
-  - "[[_Standards/WikiData/WD~lone_pair,804644]]"
-  - "[[_Standards/WikiData/WD~valence_shell,11730797]]"
-opposite_of: "[[_Standards/WikiData/WD~core_electron,3587637]]"
-instance_of: "[[_Standards/WikiData/WD~role,4897819]]"
-subclass_of: "[[_Standards/WikiData/WD~electron,2225]]"
+- '[[_Standards/WikiData/WD~electron_shell,193793]]'
+- '[[_Standards/WikiData/WD~lone_pair,804644]]'
+- '[[_Standards/WikiData/WD~valence_shell,11730797]]'
+opposite_of: '[[_Standards/WikiData/WD~core_electron,3587637]]'
+instance_of: '[[_Standards/WikiData/WD~role,4897819]]'
+subclass_of: '[[_Standards/WikiData/WD~electron,2225]]'
 IEV_number: 113-06-05
 Commons_category: Electrons
+dv_has_:
+  name_:
+    af: Valenselektrone
+    ar: إلكترون تكافؤ
+    ast: Electrón de valencia
+    ba: Валент электрондар
+    be: валентны электрон
+    be-tarask: валентны электрон
+    bg: Валентен електрон
+    bn: যোজ্যতা ইলেকট্রন
+    bs: Valentni elektron
+    ca: electró de valència
+    ckb: ئێلێکترۆنی ھاوھێزی
+    cs: Valenční elektron
+    da: valenselektron
+    de: Valenzelektron
+    el: Ελεύθερο ηλεκτρόνιο
+    en: valence electron
+    en-ca: Valence electron
+    en-gb: Valence electron
+    eo: valentelektrono
+    es: electrón de valencia
+    et: valentselektron
+    eu: balentzia-elektroi
+    fa: الکترونهای ظرفیت
+    fi: valenssielektroni
+    fr: électron de valence
+    ga: fiúsleictreon
+    he: אלקטרון ערכיות
+    ht: Elektwon valans
+    hu: vegyértékelektron
+    hy: Եռակցում
+    id: Elektron valensi
+    io: Valencal elektrono
+    is: Gildisrafeind
+    it: elettrone di valenza
+    ja: 価電子
+    ko: 원자가 전자
+    lb: Valenzelektron
+    lt: Valentinis elektronas
+    lv: vērtības elektrons
+    mk: валентен електрон
+    mn: Валентын электрон
+    ms: Elektron valens
+    nb: valenselektron
+    nds: Valenzelektron
+    nl: valentie-elektron
+    nn: valenselektron
+    om: Vaalaansii elektiroonii
+    pl: elektron walencyjny
+    pt: electrão de valência
+    pt-br: Eletrão de valência
+    ro: electron de valență
+    ru: валентный электрон
+    sh: Valentni elektron
+    sk: Valenčný elektrón
+    sms: valeʹnsselektroon
+    sr: валентни електрони
+    sr-ec: валентни електрони
+    sr-el: Valentni elektroni
+    sv: valenselektron
+    ta: இணைதிறன் எதிர்மின்னி
+    th: เวเลนซ์อิเล็กตรอน
+    tr: Değerlik elektron
+    tt: Валент электроннар
+    uk: валентний електрон
+    vi: Electron hóa trị
+    yue: 價電子
+    zh: 價電子
+    zh-cn: 价电子
+    zh-hans: 价电子
+    zh-hant: 價電子
+    zh-hk: 價電子
+    zh-sg: 价电子
+    zh-tw: 價電子
 ---
-
 # [[Valence_Electron]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Valence_electron,107414|WD~Valence_electron,107414]]  

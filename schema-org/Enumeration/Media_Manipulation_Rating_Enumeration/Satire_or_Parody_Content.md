@@ -1,61 +1,230 @@
 ---
 aliases:
-  - satire-or-parody-content
-  - satire_or_parody_content
-  - SatireOrParodyContent
-  - is_a_satire_or_parody_content
-  - Satire
-  - Satire_or_Parody_Content
-  - Satire or Parody Content
+- aoir
+- châm biếm
+- dychan
+- flemmskrid
+- ges a'n jydh
+- grinderys
+- hiciv
+- hicîv
+- is_a_satire_or_parody_content
+- Khau-sé
+- satiir
+- Satiire
+- satiiri
+- satir
+- satira
+- Satire
+- Satire or Parody Content
+- satire-or-parody-content
+- SatireOrParodyContent
+- satire_or_parody_content
+- satiro
+- satirë
+- satiră
+- satura
+- satyra
+- Satïra
+- satīra
+- szatíra
+- sàtira
+- sátira
+- Tashtiti
+- σάτιρα
+- σίλλος
+- Сатіра
+- сатирæ
+- сатира
+- сатыра
+- танз
+- երգիծանք
+- סאטירה
+- تەنز
+- ساتىيرا
+- طنز
+- هجاء
+- कटूपहास
+- ध्याचू
+- व्यङ्ग्य
+- ব্যংগ
+- ਵਿਅੰਗ
+- அங்கதம்
+- వ్యంగ్యం
+- ವಿಡಂಬನೆ
+- ആക്ഷേപഹാസ്യം
+- การเสียดสี
+- სატირა
+- 諷刺
+- 讽刺
+- 風刺
+- 풍자
 has_id_wikidata: Q128758
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 enumerationtype: MediaManipulationRatingEnumeration
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - satire_or_parody_content
-layout: ""
+- satire_or_parody_content
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_satire_or_parody_content Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_satire_or_parody_content Class
 type: Type
 dv_is_:
   part_of: https://pending.schema.org
-  parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
-  enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+  parent_class: '[[../Media_Manipulation_Rating_Enumeration]]'
+  enum_of: '[[../Media_Manipulation_Rating_Enumeration]]'
   same_as:
-    - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"
-    - "[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content|Satire_or_Parody_Content]]"
-    - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]"
-    - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]"
-    - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]"
-    - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]"
-    - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]"
-    - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]"
-    - "[[Satire_or_Parody_Content]]"
+  - '[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]'
+  - '[[/_Standards/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content|Satire_or_Parody_Content]]'
+  - '[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]'
+  - '[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]'
+  - '[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]'
+  - '[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]'
+  - '[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]'
+  - '[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]'
+  - '[[Satire_or_Parody_Content]]'
 dv_is_part_of: https://pending.schema.org
-dv_has_parent_class: "[[../Media_Manipulation_Rating_Enumeration]]"
-dv_is_enum_of: "[[../Media_Manipulation_Rating_Enumeration]]"
+dv_has_parent_class: '[[../Media_Manipulation_Rating_Enumeration]]'
+dv_is_enum_of: '[[../Media_Manipulation_Rating_Enumeration]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]"
-  - "[[Satire_or_Parody_Content]]"
-  - "[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]"
-  - "[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]"
-  - "[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]"
-  - "[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]"
-  - "[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]"
-  - "[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]"
+- '[[../../../WikiData/WD~Satire,128758|WD~Satire,128758]]'
+- '[[Satire_or_Parody_Content]]'
+- '[[/_public/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.public|Satire_or_Parody_Content.public]]'
+- '[[/_internal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.internal|Satire_or_Parody_Content.internal]]'
+- '[[/_protect/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.protect|Satire_or_Parody_Content.protect]]'
+- '[[/_private/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.private|Satire_or_Parody_Content.private]]'
+- '[[/_personal/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.personal|Satire_or_Parody_Content.personal]]'
+- '[[/_secret/schema-org/Enumeration/Media_Manipulation_Rating_Enumeration/Satire_or_Parody_Content.secret|Satire_or_Parody_Content.secret]]'
+dv_has_:
+  name_:
+    af: Satire
+    ar: هجاء
+    as: ব্যংগ
+    ast: Sátira
+    az: satira
+    azb: طنز
+    ba: Сатира
+    be: сатыра
+    be-tarask: сатыра
+    bg: сатира
+    br: flemmskrid
+    bs: satira
+    ca: sàtira
+    ckb: تەنز
+    cs: satira
+    cy: dychan
+    da: satire
+    de: Satire
+    el: σάτιρα
+    en: satire
+    eo: satiro
+    es: sátira
+    et: satiir
+    eu: satira
+    fa: طنز
+    fi: satiiri
+    fo: satira
+    fr: satire
+    frr: Satiire
+    fur: Satire
+    fy: Satire
+    ga: aoir
+    gd: aoir
+    gl: sátira
+    grc: σίλλος
+    gv: grinderys
+    ha: satire
+    he: סאטירה
+    hi: कटूपहास
+    hr: satira
+    hsb: satira
+    hu: szatíra
+    hy: երգիծանք
+    hyw: Երգիծանք
+    id: Satire
+    io: Satiro
+    it: satira
+    ja: 風刺
+    ka: სატირა
+    kk: Сатира
+    kk-arab: ساتىيرا
+    kk-cn: ساتىيرا
+    kk-cyrl: Сатира
+    kk-kz: Сатира
+    kk-latn: Satïra
+    kk-tr: Satïra
+    kn: ವಿಡಂಬನೆ
+    ko: 풍자
+    ku: hicîv
+    kw: ges a'n jydh
+    ky: Сатира
+    la: satura
+    lb: Satir
+    li: Satire
+    lt: satyra
+    lv: satīra
+    mk: сатира
+    ml: ആക്ഷേപഹാസ്യം
+    ms: Satira
+    nan: Khau-sé
+    nb: satire
+    ne: व्यङ्ग्य
+    new: ध्याचू
+    nl: satire
+    nn: satire
+    oc: satira
+    os: сатирæ
+    pa: ਵਿਅੰਗ
+    pl: satyra
+    pnb: طنز
+    pt: sátira
+    ro: satiră
+    ru: сатира
+    rue: Сатіра
+    sah: Сатира
+    scn: sàtira
+    sd: طنز
+    sh: satira
+    sk: satira
+    sl: satira
+    sq: satirë
+    sr: сатира
+    sr-ec: сатира
+    sr-el: satira
+    sv: satir
+    sw: Tashtiti
+    ta: அங்கதம்
+    te: వ్యంగ్యం
+    tg: танз
+    th: การเสียดสี
+    tl: satira
+    tr: hiciv
+    uk: сатира
+    ur: طنز
+    uz: Satira
+    vec: sàtira
+    vi: châm biếm
+    wuu: 讽刺
+    yue: 諷刺
+    zh: 讽刺
+    zh-cn: 讽刺
+    zh-hans: 讽刺
+    zh-hant: 諷刺
+    zh-hk: 諷刺
+    zh-sg: 讽刺
+    zh-tw: 諷刺
 ---
-
 # [[Satire_or_Parody_Content]] 
 
 Class of all satire_or_parody_contents.

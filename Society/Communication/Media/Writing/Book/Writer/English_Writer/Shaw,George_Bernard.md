@@ -1,30 +1,73 @@
 ---
 aliases:
-  - George Bernard Shaw
-  - Bernard Shaw
-  - Shaw
-  - Shaw,George_Bernard
-  - Shaw,George Bernard
+- Bernard Shaw
+- Corc Bernard Şou
+- Džordžs Bernards Šovs
+- George Bernard Shaw
+- Georgius Bernardus Shavius
+- Shaw
+- Shaw,George Bernard
+- Shaw,George_Bernard
+- Τζορτζ Μπέρναρντ Σω
+- Џорџ Бернард Шо
+- Бернард Шоу
+- Джордж Бернард Шоу
+- Джордж Бърнард Шоу
+- Джордж Бэрнард Шоў
+- Жорж Бернард Шоу
+- Шоу
+- Ҷорҷ Бернард Шоу
+- Ջորջ Բեռնարդ Շոու
+- ג'ורג' ברנרד שו
+- جارج برنارڈ شا
+- جارج برنارڊشا
+- جرج برنارد شاو
+- جورج برنارد شاو
+- جورج برنارد شو
+- جۆرج بێرنارد شۆ
+- जर्ज बर्नाड शा
+- जार्ज बर्नार्ड शा
+- जॉर्ज बर्ना शाॅ
+- जॉर्ज बर्नार्ड शॉ
+- जोर्ज बर्नार्ड शा
+- জর্জ বার্নার্ড শ'
+- জৰ্জ বাৰ্ণাৰ্ড শ্ব
+- ਜਾਰਜ ਬਰਨਾਰਡ ਸ਼ਾ
+- ଜର୍ଜ ବର୍ଣ୍ଣାଡ ଶ
+- ஜார்ஜ் பெர்னாட் ஷா
+- జార్జి బెర్నార్డ్ షా
+- ಜಾರ್ಜ್ ಬರ್ನಾರ್ಡ್ ಷಾ
+- ജോർജ്ജ് ബർണാർഡ് ഷാ
+- ජෝර්ජ් බර්නාඩ් ෂෝ
+- จอร์จ เบอร์นาร์ด ชอว์
+- ဂျော့ရှ် ဘားနတ်ရှော
+- ჯორჯ ბერნარდ შოუ
+- ጆርጅ በርነርድ ሾ
+- ⵊⵓⵕⵊ ⴱⵉⵔⵏⴰⵔⴷ ⵛⴰⵡ
+- ジョージ・バーナード・ショー
+- 萧伯纳
+- 蕭伯納
+- 조지 버나드 쇼
 has_id_wikidata: Q19185
 archives_at:
-  - '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
-  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-  - '[[_Standards/WikiData/WD~National_Library_of_Ireland,1672830]]'
-  - '[[_Standards/WikiData/WD~Houghton_Library,3719374]]'
-  - '[[_Standards/WikiData/WD~Cornell_University_Library,5171572]]'
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
-  - '[[_Standards/WikiData/WD~Pennsylvania_State_University_Libraries,7164203]]'
-  - '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
-  - '[[_Standards/WikiData/WD~Brown_University_Library,22341583]]'
-  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
-  - '[[_Standards/WikiData/WD~Colgate_University_Libraries,109450614]]'
-  - '[[_Standards/WikiData/WD~Boston_College_University_Libraries,109450612]]'
-  - '[[_Standards/WikiData/WD~British_Library,23308]]'
+- '[[_Standards/WikiData/WD~National_Library_of_Wales,666063]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~National_Library_of_Ireland,1672830]]'
+- '[[_Standards/WikiData/WD~Houghton_Library,3719374]]'
+- '[[_Standards/WikiData/WD~Cornell_University_Library,5171572]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
+- '[[_Standards/WikiData/WD~Pennsylvania_State_University_Libraries,7164203]]'
+- '[[_Standards/WikiData/WD~Louis_Round_Wilson_Library,14708020]]'
+- '[[_Standards/WikiData/WD~Brown_University_Library,22341583]]'
+- '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+- '[[_Standards/WikiData/WD~Colgate_University_Libraries,109450614]]'
+- '[[_Standards/WikiData/WD~Boston_College_University_Libraries,109450612]]'
+- '[[_Standards/WikiData/WD~British_Library,23308]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Literature,39477935]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Royal_Society_of_Literature,39477935]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 BHCL_UUID: dd9bdcd3-3cd8-4201-92fb-e9079f725b6b
 birth_name: George Bernard Shaw
 cause_of_death: '[[_Standards/WikiData/WD~kidney_failure,476921]]'
@@ -32,31 +75,31 @@ Commons_category: George Bernard Shaw
 Commons_Creator_page: George Bernard Shaw
 Commons_gallery: George Bernard Shaw
 copyright_status_as_a_creator:
-  - '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-  - '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
+- '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+- '[[_Standards/WikiData/WD~part_of_the_copyrights_on_oeuvre_has_expired,75700125]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~Ireland,27]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~Ireland,27]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 CYT_CCS: AC000031497
 date_of_birth: 1856-07-26T00:00:00Z
 date_of_death: 1950-11-02T00:00:00Z
 depicted_by: '[[_Standards/WikiData/WD~George_Bernard_Shaw_(1856_1950),52265381]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Anglické_listy,10824295]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
-  - "[[_Standards/WikiData/WD~Thom's_Irish_Who's_Who,67202875]]"
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-  - '[[_Standards/WikiData/WD~George_Bernard_Shaw,127993164]]'
-  - '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Anglické_listy,10824295]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Faces_of_Moscow,28666511]]'
+- "[[_Standards/WikiData/WD~Thom's_Irish_Who's_Who,67202875]]"
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~George_Bernard_Shaw,127993164]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
 different_from: '[[_Standards/WikiData/WD~George_Shaw,311097]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 educated_at: '[[_Standards/WikiData/WD~Royal_Academy_of_Dramatic_Art,523926]]'
@@ -66,30 +109,30 @@ father: '[[_Standards/WikiData/WD~George_Carr_Shaw,12885336]]'
 field_of_work: '[[_Standards/WikiData/WD~fine_art,219625]]'
 genre: '[[_Standards/WikiData/WD~satire,128758]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Bernard,14649171]]'
-  - '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Bernard,14649171]]'
+- '[[_Standards/WikiData/WD~George,15921732]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Portrait_Gallery,238587]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - '[[_Standards/WikiData/WD~Tate,430682]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
-  - '[[_Standards/WikiData/WD~New_York_Public_Library_Photography_Collection,105026832]]'
+- '[[_Standards/WikiData/WD~National_Portrait_Gallery,238587]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Tate,430682]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive,14715515]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Photography_Collection,105026832]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Bernard%20Shaw%201936.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]'
-  - '[[_Standards/WikiData/WD~William_Morris,182589]]'
-  - '[[_Standards/WikiData/WD~Richard_Wagner,1511]]'
-  - '[[_Standards/WikiData/WD~Charles_Dickens,5686]]'
-  - '[[_Standards/WikiData/WD~Henrik_Ibsen,36661]]'
+- '[[_Standards/WikiData/WD~Henry_David_Thoreau,131149]]'
+- '[[_Standards/WikiData/WD~William_Morris,182589]]'
+- '[[_Standards/WikiData/WD~Richard_Wagner,1511]]'
+- '[[_Standards/WikiData/WD~Charles_Dickens,5686]]'
+- '[[_Standards/WikiData/WD~Henrik_Ibsen,36661]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 80436250
 Krugosvet_article: kultura_i_obrazovanie/literatura/SHOU_DZHORDZH_BERNARD.html
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 Libris_URI: fcrtqbgz3bm1bq0
 lifestyle:
-  - '[[_Standards/WikiData/WD~vegetarianism,83364]]'
-  - '[[_Standards/WikiData/WD~mysticism,45996]]'
+- '[[_Standards/WikiData/WD~vegetarianism,83364]]'
+- '[[_Standards/WikiData/WD~mysticism,45996]]'
 manner_of_death: '[[_Standards/WikiData/WD~accidental_death,21142718]]'
 member_of: '[[_Standards/WikiData/WD~Royal_Society_of_Literature,1468277]]'
 member_of_political_party: '[[_Standards/WikiData/WD~Labour_Party,9630]]'
@@ -97,18 +140,18 @@ mother: '[[_Standards/WikiData/WD~Lucinda_Elizabeth_Shaw,41732806]]'
 name_in_native_language: George Bernard Shaw
 NLC_authorities: 271256
 nominated_for:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Nobel_Prize_in_Literature,37922]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~Pygmalion,637200]]'
-  - "[[_Standards/WikiData/WD~Mrs._Warren's_Profession,955587]]"
-  - '[[_Standards/WikiData/WD~Saint_Joan,1218620]]'
-  - '[[_Standards/WikiData/WD~Caesar_and_Cleopatra,3501409]]'
+- '[[_Standards/WikiData/WD~Pygmalion,637200]]'
+- "[[_Standards/WikiData/WD~Mrs._Warren's_Profession,955587]]"
+- '[[_Standards/WikiData/WD~Saint_Joan,1218620]]'
+- '[[_Standards/WikiData/WD~Caesar_and_Cleopatra,3501409]]'
 occupation: '[[_Standards/WikiData/WD~playwright,214917]]'
 on_focus_list_of_Wikimedia_project:
-  - '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
-  - '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
-  - '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+- '[[_Standards/WikiData/WD~Harvard_Film_Archive_Project,111249030]]'
+- '[[_Standards/WikiData/WD~The_Women_s_Library_LSESuffrageInterviewsProject,117322976]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
 owner_of: "[[_Standards/WikiData/WD~Shaw's_Corner,7491137]]"
 P8189: 987007267939105200
 place_of_birth: '[[_Standards/WikiData/WD~Dublin,1761]]'
@@ -120,8 +163,8 @@ Provenio_UUID: 15f44829-9628-4884-8b95-52f1491b478d
 religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Lucinda_Frances_Shaw,76365219]]'
-  - '[[_Standards/WikiData/WD~Elinor_Agnes_Shaw,76365221]]'
+- '[[_Standards/WikiData/WD~Lucinda_Frances_Shaw,76365219]]'
+- '[[_Standards/WikiData/WD~Elinor_Agnes_Shaw,76365221]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/George%20Bernard%20Shaw%20signature.svg
 spouse: '[[_Standards/WikiData/WD~Charlotte_Payne_Townshend,5086093]]'
 Swedish_Royal_Theater_Archive: Person/883
@@ -129,8 +172,170 @@ U_S_National_Archives_Identifier: 10582994
 Wolfram_Language_entity_code: Entity["Person", "GeorgeBernardShaw::4mqr4"]
 work_period_start_: 1880-01-01T00:00:00Z
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_:
+  name_:
+    af: George Bernard Shaw
+    am: ጆርጅ በርነርድ ሾ
+    an: George Bernard Shaw
+    ar: جورج برنارد شو
+    arz: جورج برنارد شو
+    as: জৰ্জ বাৰ্ণাৰ্ড শ্ব
+    ast: George Bernard Shaw
+    avk: George Bernard Shaw
+    ay: George Bernard Shaw
+    az: Corc Bernard Şou
+    azb: جرج برنارد شاو
+    ba: Джордж Бернард Шоу
+    bar: George Bernard Shaw
+    be: Джордж Бернард Шоу
+    be-tarask: Джордж Бэрнард Шоў
+    bg: Джордж Бърнард Шоу
+    bm: George Bernard Shaw
+    bn: জর্জ বার্নার্ড শ'
+    br: George Bernard Shaw
+    bs: George Bernard Shaw
+    ca: George Bernard Shaw
+    cdo: George Bernard Shaw
+    ceb: George Bernard Shaw
+    ckb: جۆرج بێرنارد شۆ
+    co: George Bernard Shaw
+    cs: George Bernard Shaw
+    cy: George Bernard Shaw
+    da: George Bernard Shaw
+    de: George Bernard Shaw
+    de-at: George Bernard Shaw
+    de-ch: George Bernard Shaw
+    diq: George Bernard Shaw
+    el: Τζορτζ Μπέρναρντ Σω
+    en: George Bernard Shaw
+    en-ca: George Bernard Shaw
+    en-gb: George Bernard Shaw
+    eo: George Bernard Shaw
+    es: George Bernard Shaw
+    et: George Bernard Shaw
+    eu: George Bernard Shaw
+    ext: George Bernard Shaw
+    fa: جورج برنارد شاو
+    fi: George Bernard Shaw
+    fo: George Bernard Shaw
+    fr: George Bernard Shaw
+    frc: George Bernard Shaw
+    frp: George Bernard Shaw
+    fur: George Bernard Shaw
+    fy: George Bernard Shaw
+    ga: George Bernard Shaw
+    gd: George Bernard Shaw
+    gl: George Bernard Shaw
+    gom: जॉर्ज बर्ना शाॅ
+    gor: George Bernard Shaw
+    gsw: George Bernard Shaw
+    guw: George Bernard Shaw
+    hak: George Bernard Shaw
+    he: ג'ורג' ברנרד שו
+    hi: जार्ज बर्नार्ड शा
+    hr: George Bernard Shaw
+    hu: George Bernard Shaw
+    hy: Ջորջ Բեռնարդ Շոու
+    ia: George Bernard Shaw
+    id: George Bernard Shaw
+    ie: George Bernard Shaw
+    ilo: George Bernard Shaw
+    io: George Bernard Shaw
+    is: George Bernard Shaw
+    it: George Bernard Shaw
+    ja: ジョージ・バーナード・ショー
+    jam: George Bernard Shaw
+    ka: ჯორჯ ბერნარდ შოუ
+    kab: George Bernard Shaw
+    kg: George Bernard Shaw
+    kk: Бернард Шоу
+    kn: ಜಾರ್ಜ್ ಬರ್ನಾರ್ಡ್ ಷಾ
+    ko: 조지 버나드 쇼
+    ku: George Bernard Shaw
+    la: Georgius Bernardus Shavius
+    lb: George Bernard Shaw
+    lfn: George Bernard Shaw
+    li: George Bernard Shaw
+    lij: George Bernard Shaw
+    lt: George Bernard Shaw
+    lv: Džordžs Bernards Šovs
+    lzh: 蕭伯納
+    mg: George Bernard Shaw
+    min: George Bernard Shaw
+    mk: Џорџ Бернард Шо
+    ml: ജോർജ്ജ് ബർണാർഡ് ഷാ
+    mn: Бернард Шоу
+    mr: जॉर्ज बर्नार्ड शॉ
+    ms: George Bernard Shaw
+    mul: George Bernard Shaw
+    my: ဂျော့ရှ် ဘားနတ်ရှော
+    myv: Шоу
+    mzn: جورج برنارد شاو
+    nan: George Bernard Shaw
+    nap: George Bernard Shaw
+    nb: George Bernard Shaw
+    nds: George Bernard Shaw
+    nds-nl: George Bernard Shaw
+    ne: जर्ज बर्नाड शा
+    new: जोर्ज बर्नार्ड शा
+    nl: George Bernard Shaw
+    nn: George Bernard Shaw
+    nrm: George Bernard Shaw
+    oc: George Bernard Shaw
+    or: ଜର୍ଜ ବର୍ଣ୍ଣାଡ ଶ
+    pa: ਜਾਰਜ ਬਰਨਾਰਡ ਸ਼ਾ
+    pap: George Bernard Shaw
+    pcd: George Bernard Shaw
+    pl: George Bernard Shaw
+    pms: George Bernard Shaw
+    pnb: جارج برنارڈ شا
+    prg: George Bernard Shaw
+    ps: جورج برنارد شاو
+    pt: George Bernard Shaw
+    pt-br: George Bernard Shaw
+    qu: George Bernard Shaw
+    rgn: George Bernard Shaw
+    rm: George Bernard Shaw
+    ro: George Bernard Shaw
+    ru: Джордж Бернард Шоу
+    sc: George Bernard Shaw
+    scn: George Bernard Shaw
+    sd: جارج برنارڊشا
+    sh: George Bernard Shaw
+    si: ජෝර්ජ් බර්නාඩ් ෂෝ
+    sk: George Bernard Shaw
+    sl: George Bernard Shaw
+    sq: George Bernard Shaw
+    sr: Џорџ Бернард Шо
+    sr-el: George Bernard Shaw
+    sv: George Bernard Shaw
+    sw: George Bernard Shaw
+    ta: ஜார்ஜ் பெர்னாட் ஷா
+    te: జార్జి బెర్నార్డ్ షా
+    tg: Ҷорҷ Бернард Шоу
+    th: จอร์จ เบอร์นาร์ด ชอว์
+    tr: George Bernard Shaw
+    tt: Джордж Бернард Шоу
+    uk: Бернард Шоу
+    ur: جارج برنارڈ شا
+    uz: George Bernard Shaw
+    uz-cyrl: Жорж Бернард Шоу
+    vec: George Bernard Shaw
+    vi: George Bernard Shaw
+    vls: George Bernard Shaw
+    vmf: George Bernard Shaw
+    vo: George Bernard Shaw
+    wa: George Bernard Shaw
+    war: George Bernard Shaw
+    wo: George Bernard Shaw
+    wuu: 萧伯纳
+    xmf: ჯორჯ ბერნარდ შოუ
+    yo: George Bernard Shaw
+    yue: 蕭伯納
+    zgh: ⵊⵓⵕⵊ ⴱⵉⵔⵏⴰⵔⴷ ⵛⴰⵡ
+    zh: 萧伯纳
+    zu: George Bernard Shaw
 ---
-
 # [[Shaw,George_Bernard]] 
 
 #has_/time_/started ::  1856-07-26 

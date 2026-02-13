@@ -1,9 +1,66 @@
 ---
 aliases:
-  - Pseudidae
+- harlekinka
+- Pseudidae
+- Pseudis
+- rosnička
+- Ūdensvardes
+- псевдисы
+- פְּסֵידִיס
+- ضفادع كاذبة
+- ضفادع كاذبه
+- 多指节蛙属
 title: Pseudidae
+has_id_wikidata: Q1059221
+dv_has_:
+  name_:
+    an: Pseudis
+    ar: ضفادع كاذبة
+    arz: ضفادع كاذبه
+    ast: Pseudis
+    bg: Pseudis
+    ca: Pseudis
+    ceb: Pseudis
+    cs: rosnička
+    de: Pseudis
+    en: Pseudis
+    en-ca: Pseudis
+    en-gb: Pseudis
+    eo: Pseudis
+    es: Pseudis
+    eu: Pseudis
+    ext: Pseudis
+    fi: Pseudis
+    fr: Pseudis
+    ga: Pseudis
+    gl: Pseudis
+    he: פְּסֵידִיס
+    hu: Pseudis
+    ia: Pseudis
+    ie: Pseudis
+    io: Pseudis
+    it: Pseudis
+    la: Pseudis
+    lv: Ūdensvardes
+    mul: Pseudis
+    nl: Pseudis
+    oc: Pseudis
+    pl: Pseudis
+    pt: Pseudis
+    pt-br: Pseudis
+    ro: Pseudis
+    ru: псевдисы
+    sl: harlekinka
+    sq: Pseudis
+    sv: Pseudis
+    uk: Pseudis
+    vi: Pseudis
+    vo: Pseudis
+    war: Pseudis
+    zh: 多指节蛙属
+    zh-cn: 多指节蛙属
+    zh-hans: 多指节蛙属
 ---
-
 # Pseudidae
 
 ## Paradox Frogs 

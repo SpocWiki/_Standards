@@ -1,9 +1,66 @@
 ---
 aliases:
-  - Micropotamogale
+- Dwergottersjaermuus
+- entatsinoleem ke Micropotamogale oxi
+- Kleine Otterspitzmäuse
+- Micropotamogale
+- Wodniczek
+- Карликовые выдровые землеройки
+- טנרקי לוטרה ננסיים
+- سموریهای رودخانهای کوچک
+- ميكروبوتاموجالى
+- يبابيات قزمة
+- 小獭鼩属
+- 애기수달뒤쥐속
 title: Micropotamogale
+has_id_wikidata: Q860622
+dv_has_:
+  name_:
+    an: Micropotamogale
+    ar: يبابيات قزمة
+    arz: ميكروبوتاموجالى
+    ast: Micropotamogale
+    avk: entatsinoleem ke Micropotamogale oxi
+    bg: Micropotamogale
+    ca: Micropotamogale
+    ceb: Micropotamogale
+    de: Kleine Otterspitzmäuse
+    en: Micropotamogale
+    eo: Micropotamogale
+    es: Micropotamogale
+    eu: Micropotamogale
+    ext: Micropotamogale
+    fa: سموریهای رودخانهای کوچک
+    fi: Micropotamogale
+    fr: Micropotamogale
+    ga: Micropotamogale
+    gl: Micropotamogale
+    he: טנרקי לוטרה ננסיים
+    ia: Micropotamogale
+    ie: Micropotamogale
+    io: Micropotamogale
+    it: Micropotamogale
+    ko: 애기수달뒤쥐속
+    la: Micropotamogale
+    li: Dwergottersjaermuus
+    mul: Micropotamogale
+    nl: Micropotamogale
+    oc: Micropotamogale
+    pl: Wodniczek
+    pt: Micropotamogale
+    pt-br: Micropotamogale
+    ro: Micropotamogale
+    ru: Карликовые выдровые землеройки
+    sq: Micropotamogale
+    sv: Micropotamogale
+    uk: Micropotamogale
+    vi: Micropotamogale
+    vo: Micropotamogale
+    war: Micropotamogale
+    zh: 小獭鼩属
+    zh-cn: 小獭鼩属
+    zh-hans: 小獭鼩属
 ---
-
 # [[Micropotamogale]]
 
 ## dwarf otter shrews 

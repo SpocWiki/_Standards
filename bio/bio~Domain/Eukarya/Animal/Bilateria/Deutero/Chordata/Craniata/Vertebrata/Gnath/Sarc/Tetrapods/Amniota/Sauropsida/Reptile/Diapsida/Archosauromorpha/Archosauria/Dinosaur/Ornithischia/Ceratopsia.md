@@ -1,9 +1,91 @@
 ---
 aliases:
-  - Ceratopia
-  - Ceratopsia
+- Ceratop
+- Ceratopia
+- Ceratopoj
+- Ceratopsi
+- Ceratopsia
+- Ceratopsier
+- Ceratopsy
+- Horneðlur
+- Khủng long sừng
+- sarvinaamat
+- Κερατόψια
+- Цератопси
+- Цератопсиди
+- Цератопсы
+- צרטופסיה
+- سراتوپسینها(سراتوپسها)
+- مثيلات قرنيات الوجه
+- സെറാടോപിയ
+- 角竜類
+- 角龍下目
+- 角龙下目
+- 각룡류
+has_id_wikidata: Q131381
+dv_has_:
+  name_:
+    af: Ceratopsia
+    ar: مثيلات قرنيات الوجه
+    ast: Ceratopsia
+    bg: Цератопси
+    br: Ceratopsia
+    ca: Ceratop
+    ceb: Ceratopsia
+    cs: Ceratopsia
+    de: Ceratopsia
+    de-at: Ceratopsia
+    de-ch: Ceratopsia
+    el: Κερατόψια
+    en: Ceratopsia
+    en-ca: Ceratopsia
+    en-gb: Ceratopsia
+    eo: Ceratopoj
+    es: Ceratopsia
+    eu: Ceratopsia
+    fa: سراتوپسینها(سراتوپسها)
+    fi: sarvinaamat
+    fr: Ceratopsia
+    ga: Ceratopsia
+    gl: Ceratopsia
+    he: צרטופסיה
+    hr: Ceratopsi
+    hu: Ceratopsia
+    ia: Ceratopsia
+    id: Ceratopsia
+    is: Horneðlur
+    it: Ceratopsia
+    ja: 角竜類
+    ko: 각룡류
+    la: Ceratopsia
+    lt: Ceratopsia
+    ml: സെറാടോപിയ
+    mul: Ceratopsia
+    nb: Ceratopsia
+    nl: Ceratopsia
+    pl: Ceratopsy
+    pt: Ceratopsia
+    ro: Ceratopsia
+    ru: Цератопсы
+    sh: Ceratopsi
+    sk: Ceratopsy
+    sq: Ceratopsia
+    sr: Цератопсиди
+    sv: Ceratopsier
+    tl: Ceratopsia
+    tr: Ceratopsia
+    uk: Цератопси
+    vec: Ceratopsia
+    vi: Khủng long sừng
+    war: Ceratopsia
+    zh: 角龍下目
+    zh-cn: 角龙下目
+    zh-hans: 角龙下目
+    zh-hant: 角龍下目
+    zh-hk: 角龍下目
+    zh-sg: 角龙下目
+    zh-tw: 角龍下目
 ---
-
 # [[Ceratopsia]] 
 
 #is_/same_as :: [[Ceratopsia]]

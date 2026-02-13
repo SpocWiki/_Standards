@@ -1,13 +1,94 @@
 ---
 aliases:
+- Cat Manainneach
+- cat Manannach
+- gat manx
+- Gato Manx
+- Gato manês
+- Gatto dell'Isola di Man
+- Gatu Manx
+- Kayt Manninagh
+- Kot Manx
+- kucing man
+- Man-szigeti macska
+- Manksa kato
+- Manska mačka
+- Manske kat
+- manská kočka
+- manx
+- Manx (katua)
+- Manx-köttur
+- Mèo Manx
+- Манкс
+- Менкс
+- Мэн мысығы
+- Мэнкс
+- מנקס (חתול)
+- قط المانكس
+- منك
+- گربه منکس
+- マンクス
+- 萌島貓
+- 馬恩島貓
+- 马恩岛猫
+- 맹크스
 has_id_wikidata: Q42675
-named_after: "[[_Standards/WikiData/WD~Isle_of_Man,27508141]]"
-country_of_origin: "[[_Standards/WikiData/WD~Isle_of_Man,9676]]"
-instance_of: "[[_Standards/WikiData/WD~cat_breed,43577]]"
+named_after: '[[_Standards/WikiData/WD~Isle_of_Man,27508141]]'
+country_of_origin: '[[_Standards/WikiData/WD~Isle_of_Man,9676]]'
+instance_of: '[[_Standards/WikiData/WD~cat_breed,43577]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Manx%20cat%20by%20Karen%20Weaver.jpg
 Commons_category: Manx cats
+dv_has_:
+  name_:
+    af: Manx
+    ar: منك
+    arz: قط المانكس
+    ast: Gatu Manx
+    be-tarask: мэнкс
+    ca: gat manx
+    cs: manská kočka
+    de: Manx
+    en: Manx
+    eo: Manksa kato
+    es: Gato Manx
+    eu: Manx (katua)
+    fa: گربه منکس
+    fi: Manx
+    fr: Manx
+    fy: Manske kat
+    ga: cat Manannach
+    gd: Cat Manainneach
+    gl: Gato manx
+    gv: Kayt Manninagh
+    he: מנקס (חתול)
+    hr: Manska mačka
+    hu: Man-szigeti macska
+    id: kucing man
+    is: Manx-köttur
+    it: Gatto dell'Isola di Man
+    ja: マンクス
+    kk: Мэн мысығы
+    ko: 맹크스
+    la: Manx
+    nb: manx
+    nl: Manx
+    oc: Manx
+    pl: Kot Manx
+    pt: Gato manês
+    ro: Manx
+    ru: Мэнкс
+    sh: Manska mačka
+    sk: Manx
+    sl: manska mačka
+    sr: Манкс
+    stq: Manske Kat
+    sv: Manx
+    uk: Менкс
+    vi: Mèo Manx
+    wuu: 马恩岛猫
+    yue: 萌島貓
+    zh: 馬恩島貓
 ---
-
 # [[Manx_Cat]] 
 
 #is_/same_as :: [[WD~Manx,42675]] 

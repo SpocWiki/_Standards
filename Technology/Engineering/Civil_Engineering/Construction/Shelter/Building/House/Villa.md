@@ -1,16 +1,51 @@
 ---
 aliases:
-  - Landhaus
-  - Villa
+- biệt thự
+- fila
+- Filla
+- Gidan gwamnatin Nigeria
+- huvila
+- laandhoes
+- Landhaus
+- Måjhon rominne
+- Pia̍t-chong
+- u bi’su (別墅）hananay a ni aenengan
+- vila
+- Vila (shtëpi)
+- vilao
+- Villa
+- Villas
+- vil·la
+- vilă
+- wila
+- willa
+- έπαυλη
+- віла
+- вілла
+- віля
+- Вила
+- вилла
+- վիլլա
+- וילה
+- فيلا
+- ولا
+- ویلا (ساختمان)
+- ڤێلا
+- ဗီလာ
+- ვილა
+- ヴィラ
+- 別墅
+- 别墅
+- 빌라
 has_id_wikidata: Q3950
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-  - '[[_Standards/WikiData/WD~bourgeois_house,1021106]]'
-  - '[[_Standards/WikiData/WD~Villa,14222661]]'
-  - '[[_Standards/WikiData/WD~villino,111189432]]'
+- '[[_Standards/WikiData/WD~bourgeois_house,1021106]]'
+- '[[_Standards/WikiData/WD~Villa,14222661]]'
+- '[[_Standards/WikiData/WD~villino,111189432]]'
 has_characteristic: '[[_Standards/WikiData/WD~luxury,10953913]]'
 subclass_of: '[[_Standards/WikiData/WD~house,3947]]'
 IMDb_keyword: villa
@@ -18,10 +53,92 @@ Iconclass_notation: 41A162
 Commons_category: Villas
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sch%C3%B6nau%20an%20der%20Triesting%20-%20Villa%20%28Kirchengasse%2011%29.JPG
 Dewey_Decimal_Classification:
-  - 728.8
-  - 728.312
+- 728.8
+- 728.312
+dv_has_:
+  name_:
+    ar: فيلا
+    be: віла
+    be-tarask: віля
+    bg: Вила
+    br: Villas
+    ca: vil·la
+    ckb: ڤێلا
+    cs: vila
+    cy: fila
+    da: villa
+    de: Villa
+    de-ch: Villa
+    el: έπαυλη
+    en: villa
+    en-ca: Villa
+    en-gb: villa
+    eo: vilao
+    es: villa
+    et: villa
+    eu: villa
+    fa: ویلا (ساختمان)
+    fi: huvila
+    fr: villa
+    fy: Filla
+    ga: villa
+    gl: villa
+    gsw: Villa
+    ha: Gidan gwamnatin Nigeria
+    he: וילה
+    hr: vila
+    hsb: wila
+    hu: villa
+    hy: վիլլա
+    ia: Villa
+    id: vila
+    it: villa
+    ja: ヴィラ
+    ka: ვილა
+    kk: Вилла
+    ko: 빌라
+    ky: Вилла
+    la: Villa
+    lb: Villa
+    lt: vila
+    lv: villa
+    mk: вила
+    ms: Villa
+    my: ဗီလာ
+    nan: Pia̍t-chong
+    nb: villa
+    nds-nl: laandhoes
+    nl: villa
+    nn: villa
+    oc: villa
+    pl: willa
+    pt: villa
+    pt-br: Villa
+    ro: vilă
+    ru: вилла
+    sh: vila
+    sl: vila
+    sq: Vila (shtëpi)
+    sr: вила
+    sr-ec: вила
+    sr-el: vila
+    sv: villa
+    szy: u bi’su (別墅）hananay a ni aenengan
+    tg: Вилла
+    tl: Villa
+    tr: villa
+    uk: вілла
+    ur: ولا
+    uz: Villa
+    vec: Vila
+    vi: biệt thự
+    wa: Måjhon rominne
+    wuu: 别墅
+    yue: 別墅
+    zh: 别墅
+    zh-cn: 别墅
+    zh-hans: 别墅
 ---
-
 # [[Villa]] 
 
 #is_/same_as :: [[WD~Villa,3950]] 

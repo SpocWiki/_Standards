@@ -1,15 +1,100 @@
 ---
 aliases:
-  - Magnetostatik
-  - Magnetostatics
+- magnetoestàtica
+- Magnetostaatika
+- magnetostatica
+- Magnetostatics
+- Magnetostatică
+- Magnetostatik
+- Magnetostatika
+- Magnetostatikk
+- magnetostatiko
+- Magnetostatyka
+- magnetostática
+- magnetosztatika
+- Magnétostatika
+- magnétostatique
+- Manyetostatik
+- Maqnitostatika
+- Tĩnh từ học
+- Μαγνητοστατική
+- Магнітастатыка
+- Магнетостатика
+- Магнитостатика
+- Մագնիսաստատիկա
+- מגנטוסטטיקה
+- سكونيات مغناطيسية
+- مغناطیس ساکن
+- مقناطیسی سکونیات
+- स्थिर चुम्बकिकी
+- স্থির চুম্বকত্ব
+- காந்த நிலையியல்
+- ಕಾಂತ ಸ್ಥಿತಿಶಾಸ್ತ್ರ
+- 静磁場
+- 靜磁學
+- 정자기학
 has_id_wikidata: Q665093
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 part_of: '[[_Standards/WikiData/WD~physics,413]]'
 instance_of: '[[_Standards/WikiData/WD~theory,17737]]'
 IEV_number: 121-11-73
 Commons_category: Magnetostatics
+dv_has_:
+  name_:
+    ar: سكونيات مغناطيسية
+    ast: Magnetostática
+    az: Maqnitostatika
+    be: Магнітастатыка
+    be-tarask: магнітастатыка
+    bg: Магнитостатика
+    bn: স্থির চুম্বকত্ব
+    ca: magnetoestàtica
+    cs: Magnetostatika
+    cv: Магнитостатика
+    de: Magnetostatik
+    el: Μαγνητοστατική
+    en: magnetostatics
+    eo: magnetostatiko
+    es: magnetostática
+    et: Magnetostaatika
+    eu: magnetostatika
+    fa: مغناطیس ساکن
+    fr: magnétostatique
+    gl: Magnetostática
+    he: מגנטוסטטיקה
+    hi: स्थिर चुम्बकिकी
+    hu: magnetosztatika
+    hy: Մագնիսաստատիկա
+    id: Magnetostatika
+    io: Magnetostatiko
+    it: magnetostatica
+    ja: 静磁場
+    kn: ಕಾಂತ ಸ್ಥಿತಿಶಾಸ್ತ್ರ
+    ko: 정자기학
+    mk: Магнетостатика
+    ms: Magnetostatik
+    nb: Magnetostatikk
+    nl: magnetostatica
+    nn: Magnetostatikk
+    pl: Magnetostatyka
+    pt: Magnetostática
+    ro: Magnetostatică
+    ru: Магнитостатика
+    sh: Magnetostatika
+    sk: Magnetostatika
+    sl: magnetostatika
+    sq: Magnetostatika
+    sr: Magnetostatika
+    su: Magnétostatika
+    sv: magnetostatik
+    ta: காந்த நிலையியல்
+    tr: Manyetostatik
+    uk: магнетостатика
+    ur: مقناطیسی سکونیات
+    vi: Tĩnh từ học
+    yue: 靜磁學
+    zh: 靜磁學
 ---
-
 # [[Magnetostatics]] 
 
 #is_/same_as :: [[WD~Magnetostatics,665093]] 

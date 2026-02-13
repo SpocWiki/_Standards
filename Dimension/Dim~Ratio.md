@@ -1,13 +1,78 @@
 ---
 aliases:
-  - Verhältnis
-  - Dim~Ratio
+- Arrazoi
+- arány
+- cymhareb
+- cóimheas
+- delež
+- Dim~Ratio
+- Ferhâlding
+- forhold
+- forholdstal
+- förhållande
+- Govano
+- Hirrita
+- nisbah
+- nisbət
+- Omjer
+- Pangéntukan
+- Pomer (matematika)
+- poměr
+- Raitio
+- raport matematic
+- raporto
+- rapport
+- rapporto
+- rasio
+- Rasyo
+- ratio
+- razão
+- razón
+- raó aritmètica
+- rilatumo
+- Saami qumman
+- santykis
+- savstarpēja attiecība
+- stosunek
+- suhde
+- tỷ lệ
+- verhouding
+- Verhältnis
+- ōwehenga
+- Λόγος
+- адносіны
+- Катыш
+- однос
+- сооднос
+- соотношение величин
+- співвідношення величин
+- Съотношение
+- Шайлашăннăлăх
+- Հարաբերություններ (մաթեմատիկա)
+- יחס
+- راصيو
+- نسبة
+- نسبت
+- نيسبه
+- ڕێژە
+- अनुपात
+- गुणोत्तर
+- অনুপাত
+- விகிதம்
+- నిష్పత్తి
+- അംശബന്ധം
+- อัตราส่วน
+- ውድር
+- 比
+- 比率
+- 率
+- 비 (수학)
 has_id_wikidata: Q3481047
 subclass_of:
-  - '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-  - '[[_Standards/WikiData/WD~relation,930933]]'
-  - '[[_Standards/WikiData/WD~number,11563]]'
-  - '[[_Standards/WikiData/WD~quotient,41118]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~relation,930933]]'
+- '[[_Standards/WikiData/WD~number,11563]]'
+- '[[_Standards/WikiData/WD~quotient,41118]]'
 different_from: '[[_Standards/WikiData/WD~rate,1144560]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
@@ -16,8 +81,85 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571
 Unicode_character: ∶
 IEV_number: 102-01-23
 Commons_category: Ratios
+dv_has_:
+  name_:
+    af: Verhouding
+    am: ውድር
+    ar: نسبة
+    ary: راصيو
+    as: অনুপাত
+    az: nisbət
+    ban: Pangéntukan
+    bcl: Rasyo
+    be-tarask: адносіны
+    bg: Съотношение
+    bho: अनुपात
+    bn: অনুপাত
+    ca: raó aritmètica
+    ckb: ڕێژە
+    cs: poměr
+    cv: Шайлашăннăлăх
+    cy: cymhareb
+    da: forholdstal
+    de: Verhältnis
+    el: Λόγος
+    en: ratio
+    eo: rilatumo
+    es: razón
+    eu: Arrazoi
+    fa: نسبت
+    fi: suhde
+    fj: Raitio
+    fr: rapport
+    fy: Ferhâlding
+    ga: cóimheas
+    gl: razón
+    he: יחס
+    hi: अनुपात
+    hr: Omjer
+    hu: arány
+    hy: Հարաբերություններ (մաթեմատիկա)
+    id: rasio
+    it: rapporto
+    ja: 比
+    ko: 비 (수학)
+    ky: Катыш
+    lt: santykis
+    lv: savstarpēja attiecība
+    mi: ōwehenga
+    mk: сооднос
+    ml: അംശബന്ധം
+    mr: गुणोत्तर
+    ms: nisbah
+    ms-arab: نيسبه
+    nb: forhold
+    new: अनुपात
+    nl: verhouding
+    nn: Forhold
+    om: Hirrita
+    pl: stosunek
+    pt: razão
+    pt-br: razão
+    ro: raport matematic
+    ru: соотношение величин
+    sk: Pomer (matematika)
+    sl: delež
+    sn: Govano
+    so: Saami qumman
+    sr: однос
+    sv: förhållande
+    ta: விகிதம்
+    te: నిష్పత్తి
+    th: อัตราส่วน
+    tl: ratio
+    tr: Rasyo
+    uk: співвідношення величин
+    vec: raporto
+    vi: tỷ lệ
+    war: Rasyo
+    zh: 率
+    zh-hant: 比率
 ---
-
 # [[Dim~Ratio]] 
 
 #is_/same_as :: [[WD~ratio,3481047]] 

@@ -1,18 +1,75 @@
 ---
 aliases:
-  - Supermarkt
-  - Supermarket
+- Archfarchnad
+- Chhiau-kip chhī-tiûⁿ
+- Chiĕu-chê
+- Daasweyne
+- Grand botike
+- Hawciengz Ciugaep
+- Lemaket
+- lielveikals
+- niqiniuvirvik
+- ollmhargadh
+- Pasar raya
+- pasaraya
+- siêu thị
+- snabbköp
+- Stórmarkaður
+- superbazaro
+- supermarché
+- supermarcà
+- supermarked
+- Supermarket
+- supermarketas
+- Supermarkt
+- Supermercad
+- supermercado
+- supermercat
+- supermercato
+- Supermercatus
+- Supermercau
+- supermercáu
+- supermerkado
+- Supermerkato
+- Supermerkatu
+- supermircatu
+- Supèrmarchi
+- süpermarket
+- élelmiszer-áruház
+- σουπερμάρκετ
+- супермаркет
+- супэрмаркет
+- Սուպերմարկետ
+- מרכול
+- سوبرماركت
+- سووپەرمارکێت
+- سوپرمارشي
+- سوپرمارکت
+- सुपरमार्केट
+- সুপারমার্কেট
+- ਸੁਪਰਮਾਰਕੀਟ
+- சிறப்பு அங்காடி
+- సూపర్ మార్కెట్
+- സൂപ്പർ മാർക്കറ്റ്
+- ซูเปอร์มาร์เก็ต
+- စူပါမတ်ကက်
+- ၵၢတ်ႇလူင်
+- ᓂᕿᓂᐅᕕᕐᕕᒃ
+- スーパーマーケット
+- 超級市場
+- 超级市场
+- 슈퍼마켓
 has_id_wikidata: Q180846
 subclass_of:
-  - '[[_Standards/WikiData/WD~shop,213441]]'
-  - '[[_Standards/WikiData/WD~commercial_building,655686]]'
-  - '[[_Standards/WikiData/WD~brick_and_mortar,726870]]'
-  - '[[_Standards/WikiData/WD~grocery_store,1295201]]'
-  - '[[_Standards/WikiData/WD~facility,13226383]]'
+- '[[_Standards/WikiData/WD~shop,213441]]'
+- '[[_Standards/WikiData/WD~commercial_building,655686]]'
+- '[[_Standards/WikiData/WD~brick_and_mortar,726870]]'
+- '[[_Standards/WikiData/WD~grocery_store,1295201]]'
+- '[[_Standards/WikiData/WD~facility,13226383]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q883504,883504]]'
 uses:
-  - '[[_Standards/WikiData/WD~self_service,1369310]]'
-  - '[[_Standards/WikiData/WD~supermarket_building,76211894]]'
+- '[[_Standards/WikiData/WD~self_service,1369310]]'
+- '[[_Standards/WikiData/WD~supermarket_building,76211894]]'
 industry: '[[_Standards/WikiData/WD~food_retail_sector,15825471]]'
 Commons_gallery: Supermarket
 IMDb_keyword: supermarket
@@ -25,8 +82,106 @@ MeSH_tree_code: J01.576.423.750.937
 Baidu_Tieba_name: 超市
 OpenStreetMap_tag: shop=supermarket
 Dewey_Decimal_Classification: 381.149
+dv_has_:
+  name_:
+    an: Supermercau
+    ar: سوبرماركت
+    ary: سوپرمارشي
+    arz: سوبرماركت
+    ast: supermercáu
+    az: supermarket
+    be: супермаркет
+    be-tarask: супэрмаркет
+    bg: супермаркет
+    bn: সুপারমার্কেট
+    bs: Supermarket
+    ca: supermercat
+    cdo: Chiĕu-chê
+    ckb: سووپەرمارکێت
+    cs: supermarket
+    cy: Archfarchnad
+    da: supermarked
+    de: Supermarkt
+    el: σουπερμάρκετ
+    en: supermarket
+    eo: superbazaro
+    es: supermercado
+    et: Supermarket
+    eu: Supermerkatu
+    fa: سوپرمارکت
+    fi: supermarket
+    fr: supermarché
+    ga: ollmhargadh
+    gl: supermercado
+    he: מרכול
+    hi: सुपरमार्केट
+    hr: Supermarket
+    hu: élelmiszer-áruház
+    hy: Սուպերմարկետ
+    ia: Supermercato
+    id: pasaraya
+    ike-cans: ᓂᕿᓂᐅᕕᕐᕕᒃ
+    ike-latn: niqiniuvirvik
+    io: Supermerkato
+    is: Stórmarkaður
+    it: supermercato
+    iu: ᓂᕿᓂᐅᕕᕐᕕᒃ
+    ja: スーパーマーケット
+    jv: Supermarket
+    ko: 슈퍼마켓
+    krj: supermerkado
+    la: Supermercatus
+    lb: Supermarché
+    lmo: Supermercad
+    lt: supermarketas
+    lv: lielveikals
+    min: Supermarket
+    mk: супермаркет
+    ml: സൂപ്പർ മാർക്കറ്റ്
+    ms: Pasar raya
+    my: စူပါမတ်ကက်
+    nan: Chhiau-kip chhī-tiûⁿ
+    nb: supermarked
+    nl: supermarkt
+    nrm: Supèrmarchi
+    oc: Supermercat
+    pa: ਸੁਪਰਮਾਰਕੀਟ
+    pl: supermarket
+    pt: supermercado
+    ro: supermarket
+    ru: супермаркет
+    scn: supermircatu
+    sco: supermercat
+    sh: supermarket
+    shn: ၵၢတ်ႇလူင်
+    sk: Supermarket
+    sl: supermarket
+    so: Daasweyne
+    sr: Супермаркет
+    sv: snabbköp
+    ta: சிறப்பு அங்காடி
+    te: సూపర్ మార్కెట్
+    th: ซูเปอร์มาร์เก็ต
+    tl: supermerkado
+    tr: süpermarket
+    uk: супермаркет
+    uz: Supermarket
+    vec: supermarcà
+    vi: siêu thị
+    vo: Lemaket
+    wa: Grand botike
+    war: Supermerkado
+    wuu: 超级市场
+    yue: 超級市場
+    za: Hawciengz Ciugaep
+    zh: 超級市場
+    zh-cn: 超级市场
+    zh-hans: 超级市场
+    zh-hant: 超級市場
+    zh-hk: 超級市場
+    zh-sg: 超级市场
+    zh-tw: 超級市場
 ---
-
 # [[Supermarket]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Supermarket,180846|WD~Supermarket,180846]]  

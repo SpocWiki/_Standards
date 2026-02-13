@@ -1,10 +1,29 @@
 ---
 aliases:
-  - Joe_Louis
-  - Joe Louis
-  - Joseph Louis Barrow
-  - Brown Bomber
-  - Louis,Joe
+- Brown Bomber
+- Džo Luis
+- Džo Lūiss
+- Iosephus Ludovicus
+- Joe Louis
+- Joe Luois
+- Joe_Louis
+- Joseph Louis Barrow
+- Louis,Joe
+- Τζόε Λούις
+- Джо Луіс
+- Джо Луїс
+- Джо Луис
+- Ջո Լուիս
+- ג'ו לואיס
+- جو لوئیس
+- جو لويس
+- जो लुईस
+- જૉ લુઈસ
+- ჯო ლუისი
+- ジョー・ルイス
+- 乔·路易斯
+- 喬·路易斯
+- 조 루이스
 has_id_wikidata: Q273206
 DPLA_subject_term: Louis, Joe, 1914-1981
 nickname: The Brown Bomber
@@ -12,22 +31,22 @@ work_period_start_: 1934-07-04T00:00:00Z
 date_of_birth: 1914-05-13T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joe%20Louis%201937%20headshot%20by%20the%20Associated%20Press.jpg
 place_of_birth:
-  - '[[_Standards/WikiData/WD~LaFayette,79492]]'
-  - '[[_Standards/WikiData/WD~Chambers_County,26598]]'
+- '[[_Standards/WikiData/WD~LaFayette,79492]]'
+- '[[_Standards/WikiData/WD~Chambers_County,26598]]'
 occupation:
-  - '[[_Standards/WikiData/WD~referee,202648]]'
-  - '[[_Standards/WikiData/WD~boxer,11338576]]'
-  - '[[_Standards/WikiData/WD~professional_wrestler,13474373]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~referee,202648]]'
+- '[[_Standards/WikiData/WD~boxer,11338576]]'
+- '[[_Standards/WikiData/WD~professional_wrestler,13474373]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 place_of_burial: '[[_Standards/WikiData/WD~Arlington_National_Cemetery,216344]]'
 sports_discipline_competed_in:
-  - '[[_Standards/WikiData/WD~heavyweight,281678]]'
-  - '[[_Standards/WikiData/WD~boxing,32112]]'
+- '[[_Standards/WikiData/WD~heavyweight,281678]]'
+- '[[_Standards/WikiData/WD~boxing,32112]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
-  - '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
-  - '[[_Standards/WikiData/WD~Michigan_Sports_Hall_of_Fame,6837684]]'
-  - '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
+- '[[_Standards/WikiData/WD~Congressional_Gold_Medal,721743]]'
+- '[[_Standards/WikiData/WD~Associated_Press_Athlete_of_the_Year,743122]]'
+- '[[_Standards/WikiData/WD~Michigan_Sports_Hall_of_Fame,6837684]]'
+- '[[_Standards/WikiData/WD~Legionnaire_of_Legion_of_Merit,17231624]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 residence: '[[_Standards/WikiData/WD~Michigan_Boulevard_Garden_Apartments,6837465]]'
@@ -50,8 +69,77 @@ date_of_death: 1981-04-12T00:00:00Z
 ISNI: 0000000081503179
 Munzinger_Sport_number: 01000050069
 U_S_National_Archives_Identifier: 10581376
+dv_has_:
+  name_:
+    af: Joe Louis
+    an: Joe Louis
+    ar: جو لويس
+    arz: جو لويس
+    ast: Joe Louis
+    be: Джо Луіс
+    be-tarask: Джо Луіс
+    bg: Джо Луис
+    ca: Joe Luois
+    cs: Joe Louis
+    cy: Joe Louis
+    da: Joe Louis
+    de: Joe Louis
+    el: Τζόε Λούις
+    en: Joe Louis
+    en-ca: Joe Louis
+    en-gb: Joe Louis
+    es: Joe Louis
+    eu: Joe Louis
+    fa: جو لوئیس
+    fi: Joe Louis
+    fr: Joe Louis
+    ga: Joe Louis
+    gl: Joe Louis
+    gu: જૉ લુઈસ
+    he: ג'ו לואיס
+    hi: जो लुईस
+    hr: Joe Louis
+    hu: Joe Louis
+    hy: Ջո Լուիս
+    id: Joe Louis
+    io: Joe Louis
+    it: Joe Louis
+    ja: ジョー・ルイス
+    ka: ჯო ლუისი
+    ko: 조 루이스
+    la: Iosephus Ludovicus
+    lv: Džo Lūiss
+    mg: Joe Louis
+    nb: Joe Louis
+    nl: Joe Louis
+    nn: Joe Louis
+    pap: Joe Louis
+    pl: Joe Louis
+    pt: Joe Louis
+    pt-br: Joe Louis
+    qu: Joe Louis
+    ro: Joe Louis
+    ru: Джо Луис
+    sh: Joe Louis
+    sl: Joe Louis
+    sq: Joe Louis
+    sr: Džo Luis
+    sv: Joe Louis
+    tr: Joe Louis
+    uk: Джо Луїс
+    vi: Joe Louis
+    war: Joe Louis
+    xmf: ჯო ლუისი
+    yo: Joe Louis
+    yue: 喬·路易斯
+    zh: 喬·路易斯
+    zh-cn: 乔·路易斯
+    zh-hans: 乔·路易斯
+    zh-hant: 喬·路易斯
+    zh-hk: 喬·路易斯
+    zh-sg: 乔·路易斯
+    zh-tw: 喬·路易斯
 ---
-
 # [[Louis,Joe]] 
 
 #is_/same_as :: [[WD~Joe_Louis,273206]] 

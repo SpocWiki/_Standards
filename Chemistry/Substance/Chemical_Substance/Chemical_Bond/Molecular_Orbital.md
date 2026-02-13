@@ -1,33 +1,123 @@
 ---
 aliases:
+- Amezzay acubran
+- moleculair orbitaal
+- molecular orbital
+- molekula orbito
+- Molekulaarorbitaal
+- molekulapálya
+- Molekulový orbital
+- Molekulový orbitál
+- Molekulska orbitala
+- Molekulske orbitale
+- Molekulêre orbitaal
+- molekylorbital
+- Molekyyliorbitaali
+- Moleküler orbital
+- Orbital molecular
+- Orbital molekul
+- orbital molekular
+- Orbital molekularny
+- orbitale molecolare
+- orbitale moléculaire
+- Quỹ đạo phân tử
+- Μοριακό τροχιακό
+- малекулярная арбіталь
+- молекулска орбитала
+- Молекулын тойрог зам
+- молекулярна орбіталь
+- Молекулярная орбиталь
+- Մոլեկուլային օրբիտալների տեսություն
+- אורביטל מולקולרי
+- اوربیتال مولکولی
+- مدار جزيئي
+- आण्विक कक्षक
+- আণবিক কক্ষপথ
+- ออร์บิทัลเชิงโมเลกุล
+- მოლეკულური ორბიტალი
+- 分子軌道
+- 分子轨道
+- 분자 궤도
 has_id_wikidata: Q725417
 subclass_of:
-  - "[[_Standards/WikiData/WD~orbital,3355206]]"
-  - "[[_Standards/WikiData/WD~function,11348]]"
-part_of: "[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]"
-has_use: "[[_Standards/WikiData/WD~electron,2225]]"
+- '[[_Standards/WikiData/WD~orbital,3355206]]'
+- '[[_Standards/WikiData/WD~function,11348]]'
+part_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]'
+has_use: '[[_Standards/WikiData/WD~electron,2225]]'
 Commons_category: Molecular orbitals
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Molecular_orbital,725417]]"
-    - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital|Molecular_Orbital]]"
-    - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public|Molecular_Orbital.public]]"
-    - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal|Molecular_Orbital.internal]]"
-    - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.protect|Molecular_Orbital.protect]]"
-    - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.private|Molecular_Orbital.private]]"
-    - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.personal|Molecular_Orbital.personal]]"
-    - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.secret|Molecular_Orbital.secret]]"
+  - '[[../../../../WikiData/WD~Molecular_orbital,725417]]'
+  - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital|Molecular_Orbital]]'
+  - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public|Molecular_Orbital.public]]'
+  - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal|Molecular_Orbital.internal]]'
+  - '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.protect|Molecular_Orbital.protect]]'
+  - '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.private|Molecular_Orbital.private]]'
+  - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.personal|Molecular_Orbital.personal]]'
+  - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.secret|Molecular_Orbital.secret]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Molecular_orbital,725417]]"
-  - "[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital|Molecular_Orbital]]"
-  - "[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public|Molecular_Orbital.public]]"
-  - "[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal|Molecular_Orbital.internal]]"
-  - "[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.protect|Molecular_Orbital.protect]]"
-  - "[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.private|Molecular_Orbital.private]]"
-  - "[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.personal|Molecular_Orbital.personal]]"
-  - "[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.secret|Molecular_Orbital.secret]]"
+- '[[../../../../WikiData/WD~Molecular_orbital,725417]]'
+- '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital|Molecular_Orbital]]'
+- '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public|Molecular_Orbital.public]]'
+- '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal|Molecular_Orbital.internal]]'
+- '[[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.protect|Molecular_Orbital.protect]]'
+- '[[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.private|Molecular_Orbital.private]]'
+- '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.personal|Molecular_Orbital.personal]]'
+- '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.secret|Molecular_Orbital.secret]]'
+dv_has_:
+  name_:
+    af: Molekulêre orbitaal
+    an: Orbital molecular
+    ar: مدار جزيئي
+    ast: Orbital molecular
+    be-tarask: малекулярная арбіталь
+    bn: আণবিক কক্ষপথ
+    bs: Molekulska orbitala
+    ca: orbital molecular
+    cs: Molekulový orbital
+    el: Μοριακό τροχιακό
+    en: molecular orbital
+    eo: molekula orbito
+    es: orbital molecular
+    et: Molekulaarorbitaal
+    eu: orbital molekular
+    fa: اوربیتال مولکولی
+    fi: Molekyyliorbitaali
+    fr: orbitale moléculaire
+    he: אורביטל מולקולרי
+    hi: आण्विक कक्षक
+    hu: molekulapálya
+    hy: Մոլեկուլային օրբիտալների տեսություն
+    id: Orbital molekul
+    it: orbitale molecolare
+    ja: 分子軌道
+    ka: მოლეკულური ორბიტალი
+    kab: Amezzay acubran
+    ko: 분자 궤도
+    mk: молекулска орбитала
+    mn: Молекулын тойрог зам
+    nl: moleculair orbitaal
+    nn: molekylorbital
+    pl: Orbital molekularny
+    pt: orbital molecular
+    ro: orbital molecular
+    ru: Молекулярная орбиталь
+    sh: Molekulske orbitale
+    sk: Molekulový orbitál
+    sr: молекулска орбитала
+    sr-ec: молекулска орбитала
+    sr-el: Molekulska orbitala
+    sv: Molekylorbital
+    th: ออร์บิทัลเชิงโมเลกุล
+    tr: Moleküler orbital
+    uk: молекулярна орбіталь
+    vi: Quỹ đạo phân tử
+    wuu: 分子轨道
+    zh: 分子轨道
+    zh-hans: 分子轨道
+    zh-hant: 分子軌道
+    zh-hk: 分子軌道
 ---
-
 # [[Molecular_Orbital]] 
 
 #is_/same_as :: [[WD~Molecular_orbital,725417]] 

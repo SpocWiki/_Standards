@@ -1,4 +1,22 @@
-
+---
+has_id_wikidata: Q7619431
+dv_has_:
+  name_:
+    ar: وحدات ستوني
+    en: Stoney units
+    ja: ストーニー単位系
+    la: Unitates Stoneyanae
+    ru: Стоуниевские единицы
+    zh: 史東納單位制
+    zh-hant: 史東納單位制
+aliases:
+- Stoney units
+- Unitates Stoneyanae
+- Стоуниевские единицы
+- وحدات ستوني
+- ストーニー単位系
+- 史東納單位制
+---
 # [[Stoney-Unit]] 
 
 > In physics, the Stoney units form a system of units 

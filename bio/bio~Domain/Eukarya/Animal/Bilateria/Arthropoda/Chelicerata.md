@@ -1,25 +1,62 @@
 ---
 aliases:
-  - Chelicerata
-  - Örümceğimsiler
-  - Хелицерови
-  - Chelicerates
-  - Quelicerados
-  - Leukakoukulliset
-  - Chélicérates
-  - Chélicérés
-  - Chifelchlauetreger
-  - Csáprágósok
-  - 鋏角亜門
-  - 협각아문(鋏角亞門)
-  - Хелицерати
-  - Chelicerendragers
-  - szczękoczułkowce
-  - Chelicerate
-  - Хелицеровые
-  - pipalkarji
-  - Palpkäkar
-  - เชลิเซอราตา
+- Celiserato
+- Chelicerata
+- Chelicerate
+- Chelicerates
+- Chelicerendragers
+- Cheliceriniai
+- Chifelchlauetreger
+- Chélicérates
+- Chélicérés
+- Chʼosh bideeʼ ádaadinígíí
+- Csáprágósok
+- Helicerāti
+- Keevklauendregers
+- Keliserliler
+- Kieferklauenträger
+- Klepietkavce
+- klepítkatci
+- Kliještari
+- käibiruáháliih
+- Leukakoukulliset
+- lõugtundlased
+- Palpkäkar
+- Paukolike životinje
+- pipalkarji
+- Quelicerados
+- quelicerats
+- Szczękoczułkopodobne
+- szczękoczułkowce
+- Xeliserilər
+- Örümceğimsiler
+- Động vật Chân kìm
+- Χηληκεραιωτά
+- клештари
+- Нешчанголҳо
+- пауколике животиње
+- хеліцерові
+- Хеліцэравыя
+- Хелицералуулар
+- Хелицералылар
+- Хелицерати
+- Хелицерови
+- Хелицеровые
+- בעלי כליצרות
+- قلابداران
+- كلابيات القرون
+- نوسي لرونکې ژوې
+- केलीसेराटा
+- เชลิเซอราตา
+- ქელიცერიანები
+- 有螯肢亚门
+- 螯肢亚门
+- 螯肢亞門
+- 螯肢動物
+- 鋏角亜門
+- 鋏角類
+- 협각류
+- 협각아문(鋏角亞門)
 has_id_wikidata: Q1359
 Commons_category: Chelicerata
 EPPO_Code: 1CHELQ
@@ -30,35 +67,154 @@ ITIS_TSN: 82697
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chelicerata%20collage%202-3.png
 OmegaWiki_Defined_Meaning: 538
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Arachnomorpha,3773000]]'
-  - '[[_Standards/WikiData/WD~Heptopodomera,112271405]]'
+- '[[_Standards/WikiData/WD~Arachnomorpha,3773000]]'
+- '[[_Standards/WikiData/WD~Heptopodomera,112271405]]'
 start_time: -508000000-01-01
 taxon_common_name:
-  - Örümceğimsiler
-  - Хелицерови
-  - Chelicerates
-  - Quelicerados
-  - Leukakoukulliset
-  - Chélicérates
-  - Chélicérés
-  - Chifelchlauetreger
-  - Csáprágósok
-  - 鋏角亜門
-  - 협각아문(鋏角亞門)
-  - Хелицерати
-  - Chelicerendragers
-  - szczękoczułkowce
-  - Quelicerados
-  - Chelicerate
-  - Хелицеровые
-  - pipalkarji
-  - Palpkäkar
-  - เชลิเซอราตา
+- Örümceğimsiler
+- Хелицерови
+- Chelicerates
+- Quelicerados
+- Leukakoukulliset
+- Chélicérates
+- Chélicérés
+- Chifelchlauetreger
+- Csáprágósok
+- 鋏角亜門
+- 협각아문(鋏角亞門)
+- Хелицерати
+- Chelicerendragers
+- szczękoczułkowce
+- Quelicerados
+- Chelicerate
+- Хелицеровые
+- pipalkarji
+- Palpkäkar
+- เชลิเซอราตา
 taxon_name: Chelicerata
 taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
 UMLS_CUI: C0998333
+dv_has_:
+  name_:
+    af: Chelicerata
+    an: Chelicerata
+    ar: كلابيات القرون
+    arz: كلابيات القرون
+    ast: Chelicerata
+    az: Xeliserilər
+    bar: Chelicerata
+    be: Хеліцэравыя
+    be-tarask: хеліцэравыя
+    bg: хелицерови
+    br: Chelicerata
+    ca: quelicerats
+    ceb: Chelicerata
+    co: Chelicerata
+    cs: klepítkatci
+    cy: Chelicerata
+    da: Chelicerata
+    de: Kieferklauenträger
+    de-at: Chelicerata
+    de-ch: Chelicerata
+    el: Χηληκεραιωτά
+    en: Chelicerata
+    en-ca: Chelicerata
+    en-gb: Chelicerata
+    eo: Chelicerata
+    es: quelicerados
+    et: lõugtundlased
+    eu: Chelicerata
+    ext: Chelicerata
+    fa: قلابداران
+    fi: leukakoukulliset
+    fr: Chelicerata
+    frp: Chelicerata
+    fur: Chelicerata
+    ga: Chelicerata
+    gd: Chelicerata
+    gl: Quelicerados
+    gsw: Chelicerata
+    he: בעלי כליצרות
+    hi: केलीसेराटा
+    hr: Kliještari
+    hu: csáprágósok
+    ia: Chelicerata
+    id: Chelicerata
+    ie: Chelicerata
+    io: Chelicerata
+    is: Chelicerata
+    it: Chelicerata
+    ja: 鋏角類
+    jv: Chelicerata
+    ka: ქელიცერიანები
+    kg: Chelicerata
+    kk: Хелицералылар
+    ko: 협각류
+    ky: Хелицералуулар
+    la: Chelicerata
+    lb: Chelicerata
+    lfn: Celiserato
+    li: Chelicerata
+    lij: Chelicerata
+    lt: Cheliceriniai
+    lv: Helicerāti
+    mg: Chelicerata
+    min: Chelicerata
+    mk: клештари
+    ms: Chelicerata
+    mul: Chelicerata
+    nap: Chelicerata
+    nb: Chelicerata
+    nds: Keevklauendregers
+    nds-nl: Chelicerata
+    nl: Chelicerata
+    nn: Chelicerata
+    nrm: Chelicerata
+    nv: Chʼosh bideeʼ ádaadinígíí
+    nys: Chelicerata
+    oc: Chelicerata
+    pcd: Chelicerata
+    pl: Szczękoczułkopodobne
+    pms: Chelicerata
+    ps: نوسي لرونکې ژوې
+    pt: Chelicerata
+    pt-br: Chelicerata
+    rm: Chelicerata
+    ro: Chelicerata
+    ru: хелицеровые
+    sc: Chelicerata
+    scn: Chelicerata
+    sco: Chelicerata
+    sh: Paukolike životinje
+    simple: Chelicerata
+    sk: Klepietkavce
+    sl: pipalkarji
+    smn: käibiruáháliih
+    sq: Chelicerata
+    sr: пауколике животиње
+    sv: palpkäkar
+    sw: Chelicerata
+    tg: Нешчанголҳо
+    th: เชลิเซอราตา
+    tl: Chelicerata
+    tr: Keliserliler
+    uk: хеліцерові
+    vec: Chelicerata
+    vi: Động vật Chân kìm
+    vls: Chelicerata
+    vo: Chelicerata
+    wa: Chelicerata
+    war: Chelicerata
+    wo: Chelicerata
+    wuu: 螯肢亚门
+    yue: 螯肢動物
+    zh: 螯肢亞門
+    zh-cn: 有螯肢亚门
+    zh-hans: 有螯肢亚门
+    zh-hant: 螯肢亞門
+    zh-tw: 螯肢亞門
+    zu: Chelicerata
 ---
-
 # [[Chelicerata]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chelicerata,1359|WD~Chelicerata,1359]]  

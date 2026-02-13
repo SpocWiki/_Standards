@@ -1,4 +1,119 @@
-
+---
+has_id_wikidata: Q844293
+dv_has_:
+  name_:
+    ar: المجلس الأولمبي الآسيوي
+    ast: Conseyu Olímpicu d'Asia
+    ba: Азия олимпия советы
+    bcl: Olimpikong Konseho kan Asya
+    be-tarask: Алімпійская рада Азіі
+    bn: এশিয়া অলিম্পিক কাউন্সিল
+    ca: Consell Olímpic d'Àsia
+    cs: Asijská olympijská rada
+    de: Olympic Council of Asia
+    el: Ολυμπιακό Συμβούλιο της Ασίας
+    en: Olympic Council of Asia
+    eo: Olimpika Konsilio de Azio
+    es: Consejo Olímpico de Asia
+    eu: Asiako Kontseilu Olinpikoa
+    fa: کمیته المپیک آسیا
+    fr: Conseil olympique d'Asie
+    he: המועצה האולימפית של אסיה
+    hi: एशियाई ओलम्पिक परिषद
+    hy: Ասիայի օլիմպիական խորհուրդ
+    id: Dewan Olimpiade Asia
+    it: Consiglio Olimpico d'Asia
+    ja: アジアオリンピック評議会
+    jv: Déwan Olimpiade Asia
+    ka: აზიის ოლიმპიური საბჭო
+    kk: Азия Олимпиада кеңесі
+    kk-arab: ازىييا ولىيمپىيادا كەڭەسى
+    kk-cyrl: Азия Олимпиада кеңесі
+    kk-latn: Azïya Olïmpïada keñesi
+    km: ក្រុមប្រឹក្សាអូឡាំពិកអាស៊ី
+    ko: 아시아 올림픽 평의회
+    lv: Āzijas Olimpiskā padome
+    mn: Азийн Олимпийн Зөвлөл
+    mr: आशिया ऑलिंपिक समिती
+    ms: Majlis Olimpik Asia
+    my: အာရှ အိုလံပစ်ကောင်စီ
+    nb: Asias olympiske råd
+    nl: Olympic Council of Asia
+    pa: ਏਸ਼ੀਆਈ ਓਲੰਪਿਕ ਪਰਿਸ਼ਦ
+    pl: Olimpijska Rada Azji
+    pnb: اولمپک کونسل ایشیا
+    pt: Conselho Olímpico da Ásia
+    ru: Олимпийский совет Азии
+    sk: Ázijská olympijská rada
+    sl: Olimpijski svet Azije
+    sr: Олимпијски савет Азије
+    sv: Asiens olympiska råd
+    ta: ஆசிய ஒலிம்பிக் மன்றம்
+    th: สภาโอลิมปิกแห่งเอเชีย
+    tr: Asya Olimpiyat Konseyi
+    uk: Олімпійська рада Азії
+    ur: اولمپک کونسل ایشیا
+    uz: Osiyo Olimpiya Kengashi
+    vi: Hội đồng Olympic châu Á
+    wuu: 亚洲奥林匹克理事会
+    yue: 亞洲奧林匹克理事會
+    zh: 亚洲奥林匹克理事会
+    zh-hans: 亚洲奥林匹克理事会
+    zh-hant: 亞洲奧林匹克理事會
+    zh-hk: 亞洲奧林匹克理事會
+aliases:
+- Asiako Kontseilu Olinpikoa
+- Asias olympiske råd
+- Asiens olympiska råd
+- Asijská olympijská rada
+- Asya Olimpiyat Konseyi
+- Azïya Olïmpïada keñesi
+- Conseil olympique d'Asie
+- Consejo Olímpico de Asia
+- Conselho Olímpico da Ásia
+- Consell Olímpic d'Àsia
+- Conseyu Olímpicu d'Asia
+- Consiglio Olimpico d'Asia
+- Dewan Olimpiade Asia
+- Déwan Olimpiade Asia
+- Hội đồng Olympic châu Á
+- Majlis Olimpik Asia
+- Olimpijska Rada Azji
+- Olimpijski svet Azije
+- Olimpika Konsilio de Azio
+- Olimpikong Konseho kan Asya
+- Olympic Council of Asia
+- Osiyo Olimpiya Kengashi
+- Ázijská olympijská rada
+- Āzijas Olimpiskā padome
+- Ολυμπιακό Συμβούλιο της Ασίας
+- Азийн Олимпийн Зөвлөл
+- Азия Олимпиада кеңесі
+- Азия олимпия советы
+- Алімпійская рада Азіі
+- Олімпійська рада Азії
+- Олимпијски савет Азије
+- Олимпийский совет Азии
+- Ասիայի օլիմպիական խորհուրդ
+- המועצה האולימפית של אסיה
+- ازىييا ولىيمپىيادا كەڭەسى
+- المجلس الأولمبي الآسيوي
+- اولمپک کونسل ایشیا
+- کمیته المپیک آسیا
+- आशिया ऑलिंपिक समिती
+- एशियाई ओलम्पिक परिषद
+- এশিয়া অলিম্পিক কাউন্সিল
+- ਏਸ਼ੀਆਈ ਓਲੰਪਿਕ ਪਰਿਸ਼ਦ
+- ஆசிய ஒலிம்பிக் மன்றம்
+- สภาโอลิมปิกแห่งเอเชีย
+- အာရှ အိုလံပစ်ကောင်စီ
+- აზიის ოლიმპიური საბჭო
+- ក្រុមប្រឹក្សាអូឡាំពិកអាស៊ី
+- アジアオリンピック評議会
+- 亚洲奥林匹克理事会
+- 亞洲奧林匹克理事會
+- 아시아 올림픽 평의회
+---
 # [[Olympic_Council_of_Asia 1]] 
 
 #is_/same_as :: [[WD~Olympic_Council_of_Asia,844293]] 

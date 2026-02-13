@@ -1,40 +1,230 @@
 ---
 aliases:
-  - Wasserdampf
-  - Dampf
-  - Water vapor
-  - water vapour
-  - aqueous vapor
-  - Water_Vapor
-  - Water Vapor
+- aburu
+- aezhenn dour
+- akvovaporo
+- anwedd dŵr
+- aqueous vapor
+- aquovaporo
+- chúi-cheng-khì
+- Dampf
+- Eton-drano
+- galuisce
+- hơi nước
+- juwri
+- ko'om wɔlegɔ
+- mbú híɓɛ̀ɛ́
+- papore de abba
+- para wodna
+- saab
+- su buharı
+- su buxarı
+- suv bugʻi
+- tanf
+- Turirin Ruwa
+- uap air
+- Umhwamuko wamanzi
+- ur lurrun
+- uwab banyu
+- uzuoku mmiri
+- vanddamp
+- vandens garai
+- vanndamp
+- vapeur d'eau
+- vapor d'agua
+- vapor d'aiga
+- vapor d'aigua
+- vapor de agua
+- vapor de auga
+- vapor de àcua
+- vapor de água
+- vapore acquee
+- vapore acqueo
+- vapori de apă
+- vapuri
+- vassdamp
+- vattenånga
+- veeaur
+- vesihöyry
+- vezipuru
+- vodena para
+- vodna para
+- vodná para
+- vodní pára
+- vízgőz
+- waoterdamp
+- wap air
+- Wasserdampf
+- Water vapor
+- water vapour
+- Waterdamp
+- Water_Vapor
+- watter vapor
+- yaku wapsi
+- ūdens tvaiks
+- υδρατμός
+- вадзяная пара
+- водена пара
+- водена пареа
+- водна пара
+- водяна пара
+- водяной пар
+- доны тæф
+- су буы
+- усны уур
+- шыв пăсĕ
+- Շոգի
+- ջրային գոլորշի
+- אדי מים
+- بخار آب
+- بخار الماء
+- د اوبو بړاس
+- ھەڵمی ئاو
+- जलभाप
+- जलवाष्प
+- वाफ
+- জলীয় বাষ্প
+- നീരാവി
+- ไอน้ำ
+- 水汽
+- 水蒸气
+- 水蒸気
+- 水蒸氣
+- ꭰꮉ ꭴꮤꮓꮈꮣ
+- 수증기
 has_id_wikidata: Q190120
 has_cause: '[[_Standards/WikiData/WD~evaporation,132814]]'
 subject_has_role: '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
 has_characteristic: '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
-  - '[[_Standards/WikiData/WD~state_of_matter,11430]]'
-  - '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~greenhouse_gas,167336]]'
+- '[[_Standards/WikiData/WD~state_of_matter,11430]]'
+- '[[_Standards/WikiData/WD~gas,11432]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~vapor,255722]]'
-  - '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~vapor,255722]]'
+- '[[_Standards/WikiData/WD~water,283]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~steam,3251738]]'
-  - '[[_Standards/WikiData/WD~evaporated_water,38138553]]'
+- '[[_Standards/WikiData/WD~steam,3251738]]'
+- '[[_Standards/WikiData/WD~evaporated_water,38138553]]'
 follows: '[[_Standards/WikiData/WD~liquid_water,29053744]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000266
 UMLS_CUI: C0038225
 MeSH_tree_code:
-  - D01.045.250.875.800
-  - D01.248.497.158.459.650.800
-  - D01.650.550.925.800
-  - G16.500.887
-  - N06.230.650
+- D01.045.250.875.800
+- D01.248.497.158.459.650.800
+- D01.650.550.925.800
+- G16.500.887
+- N06.230.650
 Commons_gallery: Water vapor
 Commons_category: Water vapor
+dv_has_:
+  name_:
+    af: Waterdamp
+    ar: بخار الماء
+    ast: vapor d'agua
+    ay: juwri
+    az: su buxarı
+    bas: mbú híɓɛ̀ɛ́
+    be-tarask: вадзяная пара
+    bg: водна пара
+    bho: जलभाप
+    bn: জলীয় বাষ্প
+    br: aezhenn dour
+    bs: vodena para
+    ca: vapor d'aigua
+    chr: ꭰꮉ ꭴꮤꮓꮈꮣ
+    ckb: ھەڵمی ئاو
+    cs: vodní pára
+    cv: шыв пăсĕ
+    cy: anwedd dŵr
+    da: vanddamp
+    de: Wasserdampf
+    el: υδρατμός
+    en: water vapor
+    en-gb: water vapour
+    eo: akvovaporo
+    es: vapor de agua
+    et: veeaur
+    eu: ur lurrun
+    fa: بخار آب
+    fi: vesihöyry
+    fr: vapeur d'eau
+    ga: galuisce
+    gl: vapor de auga
+    gsw: Wasserdampf
+    gur: ko'om wɔlegɔ
+    ha: Turirin Ruwa
+    he: אדי מים
+    hi: जलवाष्प
+    hr: vodena para
+    hu: vízgőz
+    hy: ջրային գոլորշի
+    hyw: Շոգի
+    id: uap air
+    ig: uzuoku mmiri
+    io: aquovaporo
+    it: vapore acqueo
+    ja: 水蒸気
+    jv: uwab banyu
+    ko: 수증기
+    li: Waterdamp
+    lld: tanf
+    lt: vandens garai
+    lv: ūdens tvaiks
+    lzh: 水蒸氣
+    mg: Eton-drano
+    mk: водена пареа
+    ml: നീരാവി
+    mn: усны уур
+    mr: वाफ
+    ms: wap air
+    nan: chúi-cheng-khì
+    nap: vapore acquee
+    nb: vanndamp
+    nds-nl: waoterdamp
+    nl: waterdamp
+    nn: vassdamp
+    oc: vapor d'aiga
+    os: доны тæф
+    pl: para wodna
+    ps: د اوبو بړاس
+    pt: vapor de água
+    qu: yaku wapsi
+    ro: vapori de apă
+    ru: водяной пар
+    rup: aburu
+    sc: papore de abba
+    scn: vapuri
+    sco: watter vapor
+    sh: vodena para
+    sk: vodná para
+    sl: vodna para
+    sr: водена пара
+    sr-ec: водена пара
+    sr-el: vodena para
+    su: saab
+    sv: vattenånga
+    th: ไอน้ำ
+    tr: su buharı
+    tt: су буы
+    tt-cyrl: су буы
+    uk: водяна пара
+    uz: suv bugʻi
+    vec: vapor de àcua
+    vep: vezipuru
+    vi: hơi nước
+    wuu: 水蒸气
+    yue: 水汽
+    zh: 水蒸气
+    zh-cn: 水蒸气
+    zh-hans: 水蒸气
+    zh-hant: 水蒸氣
+    zh-hk: 水蒸氣
+    zh-sg: 水蒸气
+    zh-tw: 水蒸氣
+    zu: Umhwamuko wamanzi
 ---
-
 # [[Water_Vapor]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Water_vapor,190120|WD~Water_vapor,190120]]  

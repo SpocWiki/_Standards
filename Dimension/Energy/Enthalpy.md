@@ -1,42 +1,170 @@
 ---
 aliases:
+- antalfi
+- eantalpacht
+- entalpi
+- entalpia
+- entalpie
+- entalpija
+- entalpio
+- entalpiya
+- entalpìa
+- entalpía
+- enthalpie
+- enthalpy
+- éntalʹpïya
+- ενθαλπία
+- енталпија
+- енталпия
+- ентальпія
+- энтальпія
+- энтальпи
+- энтальпия
+- энтигүү
+- Էնտալպիա
+- אנתלפיה
+- آنتالپی
+- ئێنتالپی
+- محتوى حراري
+- ەنتالپىييا
+- पूर्ण ऊष्मा
+- অভ্যন্তরীণ তাপগতীয় বিভব
+- வெப்ப அடக்கம்
+- എൻതാൽപ്പി
+- เอนทาลปี
+- အင်သာပီ
+- ᱮᱱᱛᱷᱟᱞᱯᱤ
+- エンタルピー
+- 焓
+- 엔탈피
 has_id_wikidata: Q161064
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_quantity,107715]]"
-  - "[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]"
-  - "[[_Standards/WikiData/WD~extensive_quantity,3386703]]"
-  - "[[_Standards/WikiData/WD~energy,11379]]"
-invariant_under: "[[_Standards/WikiData/WD~isenthalpic_process,907297]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~energy,11379]]'
+invariant_under: '[[_Standards/WikiData/WD~isenthalpic_process,907297]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]"
-  - "[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]"
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
 recommended_unit_of_measurement:
-  - "[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]"
-  - "[[_Standards/WikiData/WD~joule,25269]]"
-ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msup><mrow data-mjx-texclass="ORD"><mi>𝖫</mi></mrow><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mrow data-mjx-texclass="ORD"><mi>𝖬</mi></mrow><msup><mrow data-mjx-texclass="ORD"><mi>𝖳</mi></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mo stretchy="false">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
+- '[[_Standards/WikiData/WD~joule,25269]]'
+ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi><mo stretchy="false">=</mo><mi>U</mi><mo stretchy="false">+</mo><mi>p</mi><mi>V</mi></mstyle></mrow></math>
-studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
-different_from: "[[_Standards/WikiData/WD~entropy,45003]]"
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+different_from: '[[_Standards/WikiData/WD~entropy,45003]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flaming%20cocktails.jpg
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>U</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>U</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi></mstyle></mrow></math>
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%CE%9A%CF%8D%CE%BA%CE%BB%CE%BF%CF%82%20%CE%9C%CF%80%CE%BF%CF%81%CE%BD-%CE%A7%CE%AC%CE%BC%CF%80%CE%B5%CF%81%20%CF%84%CE%BF%CF%85%20LiF-el.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Calcul%20Enthalpie%20de%20reaction.jpeg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy-Diagram-Solution-Formation-Exothermic.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20endothermic%20reaction-DE.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20endothermic%20reaction-EO.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20exothermic%20reaction-IT.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20exothermic%20reaction-ru.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/%CE%9A%CF%8D%CE%BA%CE%BB%CE%BF%CF%82%20%CE%9C%CF%80%CE%BF%CF%81%CE%BD-%CE%A7%CE%AC%CE%BC%CF%80%CE%B5%CF%81%20%CF%84%CE%BF%CF%85%20LiF-el.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Calcul%20Enthalpie%20de%20reaction.jpeg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy-Diagram-Solution-Formation-Exothermic.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20endothermic%20reaction-DE.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20endothermic%20reaction-EO.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20exothermic%20reaction-IT.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Enthalpy%20profile%20exothermic%20reaction-ru.svg
 IEV_number: 113-04-21
 Commons_category: Enthalpy
+dv_has_:
+  name_:
+    af: entalpie
+    ar: محتوى حراري
+    ast: entalpía
+    az: entalpiya
+    bcl: entalpiya
+    be: энтальпія
+    be-tarask: энтальпія
+    bg: енталпия
+    bn: অভ্যন্তরীণ তাপগতীয় বিভব
+    bs: entalpija
+    ca: entalpia
+    ckb: ئێنتالپی
+    cs: entalpie
+    da: entalpi
+    de: Enthalpie
+    el: ενθαλπία
+    en: enthalpy
+    en-us: enthalpy
+    eo: entalpio
+    es: entalpía
+    et: entalpia
+    eu: entalpia
+    fa: آنتالپی
+    fi: entalpia
+    fr: enthalpie
+    ga: eantalpacht
+    gl: entalpía
+    he: אנתלפיה
+    hi: पूर्ण ऊष्मा
+    hr: entalpija
+    ht: antalfi
+    hu: entalpia
+    hy: Էնտալպիա
+    id: entalpi
+    it: entalpia
+    ja: エンタルピー
+    kk: энтальпия
+    kk-arab: ەنتالپىييا
+    kk-cn: ەنتالپىييا
+    kk-cyrl: энтальпия
+    kk-kz: энтальпия
+    kk-latn: éntalʹpïya
+    kk-tr: éntalʹpïya
+    ko: 엔탈피
+    ky: энтигүү
+    lt: entalpija
+    lv: entalpija
+    lzh: 焓
+    mag: पूर्ण ऊष्मा
+    mk: енталпија
+    ml: എൻതാൽപ്പി
+    mn: энтальпи
+    ms: entalpi
+    my: အင်သာပီ
+    nan: enthalpy
+    nb: entalpi
+    nl: enthalpie
+    nn: entalpi
+    pl: entalpia
+    pt: entalpia
+    pt-br: entalpia
+    rki: အင်သာပီ
+    ro: entalpie
+    ru: энтальпия
+    sat: ᱮᱱᱛᱷᱟᱞᱯᱤ
+    sco: enthalpy
+    sh: entalpija
+    sk: entalpia
+    sl: entalpija
+    sr: енталпија
+    sr-ec: енталпија
+    sr-el: entalpija
+    sv: entalpi
+    ta: வெப்ப அடக்கம்
+    th: เอนทาลปี
+    tr: entalpi
+    udm: энтальпи
+    uk: ентальпія
+    uz: entalpiya
+    vec: entalpìa
+    vi: enthalpy
+    wuu: 焓
+    yue: 焓
+    zh: 焓
+    zh-cn: 焓
+    zh-hans: 焓
+    zh-hant: 焓
+    zh-hk: 焓
+    zh-sg: 焓
+    zh-tw: 焓
 ---
-
 # [[Enthalpy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Enthalpy,161064|WD~Enthalpy,161064]] 

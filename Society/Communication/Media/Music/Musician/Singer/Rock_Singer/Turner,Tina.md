@@ -1,127 +1,158 @@
 ---
 aliases:
-  - Tina_Turner
-  - Anna Mae Bullock
-  - Turner,Tina
+- Anna Mae Bullock
+- Tina Tarner
+- Tina Turner
+- Tina Törner
+- Tina_Turner
+- Turner,Tina
+- Tīna Tērnere
+- Τίνα Τέρνερ
+- Тіна Тернер
+- Тина Тёрнер
+- Тина Тарнер
+- Тина Тернер
+- Тина Търнър
+- Тина Түрнер
+- Тина Тӧрнер
+- Тина Төрнэр
+- Тына Тэрнэр
+- Ціна Цёрнер
+- Թինա Թերներ
+- טינה טרנר
+- تينا ترنر
+- تینا ترنر
+- ٹینا ٹرنر
+- টিনা টার্নার
+- ਟੀਨਾ ਟਰਨਰ
+- ടിന ടർണർ
+- ทีน่า เทอร์เนอร์
+- ტინა ტერნერი
+- ティナ・ターナー
+- 天娜·端納
+- 天娜端納
+- 蒂娜·特娜
+- 蒂娜·特纳
+- 티나 터너
 has_id_wikidata: Q131814
 place_of_death: '[[_Standards/WikiData/WD~Küsnacht,69216]]'
 work_location: '[[_Standards/WikiData/WD~Küsnacht,69216]]'
 residence:
-  - '[[_Standards/WikiData/WD~Küsnacht,69216]]'
-  - '[[_Standards/WikiData/WD~Marienburg,1231010]]'
+- '[[_Standards/WikiData/WD~Küsnacht,69216]]'
+- '[[_Standards/WikiData/WD~Marienburg,1231010]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
-  - '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Record_of_the_Year,843219]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Rock_Vocal_Performance,1542148]]'
-  - '[[_Standards/WikiData/WD~MOBO_Awards,1670259]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance_by_a_Duo_or_Group_with_Vocals,3113378]]'
-  - '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Grammy_Hall_of_Fame,81180]]'
+- '[[_Standards/WikiData/WD~Rock_and_Roll_Hall_of_Fame,179191]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Record_of_the_Year,843219]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Rock_Vocal_Performance,1542148]]'
+- '[[_Standards/WikiData/WD~MOBO_Awards,1670259]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_R&B_Performance_by_a_Duo_or_Group_with_Vocals,3113378]]'
+- '[[_Standards/WikiData/WD~Chevalier_des_Arts_et_des_Lettres,13452528]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 genre:
-  - '[[_Standards/WikiData/WD~country_music,83440]]'
-  - '[[_Standards/WikiData/WD~soul,131272]]'
-  - '[[_Standards/WikiData/WD~funk,164444]]'
-  - '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~pop_music,37073]]'
-  - '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
+- '[[_Standards/WikiData/WD~country_music,83440]]'
+- '[[_Standards/WikiData/WD~soul,131272]]'
+- '[[_Standards/WikiData/WD~funk,164444]]'
+- '[[_Standards/WikiData/WD~rock_and_roll,7749]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~rhythm_and_blues,45981]]'
 medical_condition:
-  - '[[_Standards/WikiData/WD~dyslexia,132971]]'
-  - '[[_Standards/WikiData/WD~intestinal_cancer,18553796]]'
+- '[[_Standards/WikiData/WD~dyslexia,132971]]'
+- '[[_Standards/WikiData/WD~intestinal_cancer,18553796]]'
 occupation:
-  - '[[_Standards/WikiData/WD~singer,177220]]'
-  - '[[_Standards/WikiData/WD~musician,639669]]'
-  - '[[_Standards/WikiData/WD~songwriter,753110]]'
-  - '[[_Standards/WikiData/WD~choreographer,2490358]]'
-  - '[[_Standards/WikiData/WD~film_director,2526255]]'
-  - '[[_Standards/WikiData/WD~dancer,5716684]]'
-  - '[[_Standards/WikiData/WD~autobiographer,18814623]]'
-  - '[[_Standards/WikiData/WD~recording_artist,55960555]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~singer,177220]]'
+- '[[_Standards/WikiData/WD~musician,639669]]'
+- '[[_Standards/WikiData/WD~songwriter,753110]]'
+- '[[_Standards/WikiData/WD~choreographer,2490358]]'
+- '[[_Standards/WikiData/WD~film_director,2526255]]'
+- '[[_Standards/WikiData/WD~dancer,5716684]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~recording_artist,55960555]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~choreography,180856]]'
-  - '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
-  - '[[_Standards/WikiData/WD~popular_music,373342]]'
-  - '[[_Standards/WikiData/WD~music_composition,105107008]]'
-  - '[[_Standards/WikiData/WD~rock_music,11399]]'
-  - '[[_Standards/WikiData/WD~singing,27939]]'
-  - '[[_Standards/WikiData/WD~pop_music,37073]]'
+- '[[_Standards/WikiData/WD~choreography,180856]]'
+- '[[_Standards/WikiData/WD~composed_musical_work,207628]]'
+- '[[_Standards/WikiData/WD~popular_music,373342]]'
+- '[[_Standards/WikiData/WD~music_composition,105107008]]'
+- '[[_Standards/WikiData/WD~rock_music,11399]]'
+- '[[_Standards/WikiData/WD~singing,27939]]'
+- '[[_Standards/WikiData/WD~pop_music,37073]]'
 record_label:
-  - '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
-  - '[[_Standards/WikiData/WD~Parlophone,208909]]'
-  - '[[_Standards/WikiData/WD~United_Artists_Records,1542119]]'
-  - '[[_Standards/WikiData/WD~Virgin,50133002]]'
-  - '[[_Standards/WikiData/WD~EMI,55965015]]'
+- '[[_Standards/WikiData/WD~Capitol_Records,193023]]'
+- '[[_Standards/WikiData/WD~Parlophone,208909]]'
+- '[[_Standards/WikiData/WD~United_Artists_Records,1542119]]'
+- '[[_Standards/WikiData/WD~Virgin,50133002]]'
+- '[[_Standards/WikiData/WD~EMI,55965015]]'
 partner_in_business_or_sport: '[[_Standards/WikiData/WD~Ike_Turner,208871]]'
 spouse:
-  - '[[_Standards/WikiData/WD~Ike_Turner,208871]]'
-  - '[[_Standards/WikiData/WD~Erwin_Bach,16797831]]'
+- '[[_Standards/WikiData/WD~Ike_Turner,208871]]'
+- '[[_Standards/WikiData/WD~Erwin_Bach,16797831]]'
 place_of_birth:
-  - '[[_Standards/WikiData/WD~Brownsville,476804]]'
-  - '[[_Standards/WikiData/WD~Nutbush,1573273]]'
+- '[[_Standards/WikiData/WD~Brownsville,476804]]'
+- '[[_Standards/WikiData/WD~Nutbush,1573273]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Anna,666578]]'
-  - '[[_Standards/WikiData/WD~Tina,1670074]]'
-  - '[[_Standards/WikiData/WD~Mae,2684993]]'
+- '[[_Standards/WikiData/WD~Anna,666578]]'
+- '[[_Standards/WikiData/WD~Tina,1670074]]'
+- '[[_Standards/WikiData/WD~Mae,2684993]]'
 notable_work: '[[_Standards/WikiData/WD~Private_Dancer,700970]]'
 copyright_representative: '[[_Standards/WikiData/WD~Broadcast_Music,_Inc.,891885]]'
 nominated_for:
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Rock_Vocal_Performance,1542148]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Solo_Rock_Vocal_Performance,1542199]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Performance_by_a_Duo_or_Group_with_Vocal,1542205]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Video,2976730]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Contemporary_Song,5593779]]'
-  - '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,16994372]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Album_of_the_Year,904528]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Pop_Vocal_Performance,935283]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_Rock_Vocal_Performance,1542148]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Solo_Rock_Vocal_Performance,1542199]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Rock_Performance_by_a_Duo_or_Group_with_Vocal,1542205]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Female_R&B_Vocal_Performance,1934625]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Video,2976730]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Music_Film,4992254]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Contemporary_Song,5593779]]'
+- '[[_Standards/WikiData/WD~Grammy_Award_for_Best_Soul_Gospel_Performance,16994372]]'
 discography: '[[_Standards/WikiData/WD~Tina_Turner_discography,1134153]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Kings_of_Rhythm,3197100]]'
-  - '[[_Standards/WikiData/WD~Beyond,25340162]]'
+- '[[_Standards/WikiData/WD~Kings_of_Rhythm,3197100]]'
+- '[[_Standards/WikiData/WD~Beyond,25340162]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 has_list: '[[_Standards/WikiData/WD~list_of_awards_and_nominations_received_by_Tina_Turner,4353759]]'
 sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
 educated_at: '[[_Standards/WikiData/WD~Sumner_High_School,7637977]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Tina_Turner,7849743]]'
 family_name:
-  - '[[_Standards/WikiData/WD~Turner,12804512]]'
-  - '[[_Standards/WikiData/WD~Bullock,16865147]]'
+- '[[_Standards/WikiData/WD~Turner,12804512]]'
+- '[[_Standards/WikiData/WD~Bullock,16865147]]'
 unmarried_partner: '[[_Standards/WikiData/WD~Erwin_Bach,16797831]]'
 child:
-  - '[[_Standards/WikiData/WD~Raymond_Craig_Turner,16799123]]'
-  - '[[_Standards/WikiData/WD~Ronnie_Turner,28137217]]'
+- '[[_Standards/WikiData/WD~Raymond_Craig_Turner,16799123]]'
+- '[[_Standards/WikiData/WD~Ronnie_Turner,28137217]]'
 instrument: '[[_Standards/WikiData/WD~voice,17172850]]'
 filmography: '[[_Standards/WikiData/WD~Tina_Turner_filmography,19392548]]'
 relative:
-  - '[[_Standards/WikiData/WD~Afida_Turner,26705121]]'
-  - '[[_Standards/WikiData/WD~Ike_Turner,_Jr.,118683602]]'
-  - '[[_Standards/WikiData/WD~Michael_Turner,118793015]]'
+- '[[_Standards/WikiData/WD~Afida_Turner,26705121]]'
+- '[[_Standards/WikiData/WD~Ike_Turner,_Jr.,118683602]]'
+- '[[_Standards/WikiData/WD~Michael_Turner,118793015]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
+- '[[_Standards/WikiData/WD~Biographical_Dictionary_of_Afro_American_and_African_Musicians,51333926]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
 sibling: '[[_Standards/WikiData/WD~Alline_Bullock,83689409]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Buddhism,748]]'
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~English,1860]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_States,30]]'
-  - '[[_Standards/WikiData/WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Switzerland,39]]'
 number_of_children: 4
 voice_type: '[[_Standards/WikiData/WD~contralto,37137]]'
 social_media_followers:
-  - 1640000
-  - 116176
+- 1640000
+- 116176
 ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
 identifier_in_filmpolski_movie_database: 10626
 Commons_gallery: Tina Turner
@@ -130,8 +161,8 @@ Commons_category: Tina Turner
 name_in_native_language: Tina Turner
 Wolfram_Language_entity_code: Entity["Person", "TinaTurner::d4235"]
 X_Twitter_username:
-  - LoveTinaTurner
-  - tinaturner
+- LoveTinaTurner
+- tinaturner
 EcuRed_article: Tina_Turner
 Instagram_username: tinaturner
 Facebook_username: TinaTurner
@@ -154,8 +185,157 @@ RIA_Novosti_reference: 195488615
 Libris_URI: 53hlt8fp3srt20p
 Plex_person_key: 5d776826e6d55c002040afed
 Europeana_entity: agent/base/60831
+dv_has_:
+  name_:
+    af: Tina Turner
+    an: Tina Turner
+    ang: Tina Turner
+    ar: تينا ترنر
+    arz: تينا ترنر
+    ast: Tina Turner
+    ay: Tina Turner
+    az: Tina Törner
+    azb: تینا ترنر
+    bar: Tina Turner
+    bcl: Tina Turner
+    be: Ціна Цёрнер
+    be-tarask: Тына Тэрнэр
+    bg: Тина Търнър
+    bm: Tina Turner
+    bn: টিনা টার্নার
+    br: Tina Turner
+    bs: Tina Turner
+    ca: Tina Turner
+    cbk-zam: Tina Turner
+    co: Tina Turner
+    cs: Tina Turner
+    cy: Tina Turner
+    da: Tina Turner
+    de: Tina Turner
+    de-at: Tina Turner
+    de-ch: Tina Turner
+    el: Τίνα Τέρνερ
+    en: Tina Turner
+    en-ca: Tina Turner
+    en-gb: Tina Turner
+    eo: Tina Turner
+    es: Tina Turner
+    et: Tina Turner
+    eu: Tina Turner
+    ext: Tina Turner
+    fa: تینا ترنر
+    fi: Tina Turner
+    fo: Tina Turner
+    fr: Tina Turner
+    frc: Tina Turner
+    frp: Tina Turner
+    fur: Tina Turner
+    fy: Tina Turner
+    ga: Tina Turner
+    gd: Tina Turner
+    gl: Tina Turner
+    gsw: Tina Turner
+    gv: Tina Turner
+    ha: Tina Turner
+    he: טינה טרנר
+    hr: Tina Turner
+    ht: Tina Turner
+    hu: Tina Turner
+    hy: Թինա Թերներ
+    ia: Tina Turner
+    id: Tina Turner
+    ie: Tina Turner
+    ig: Tina Turner
+    io: Tina Turner
+    is: Tina Turner
+    it: Tina Turner
+    ja: ティナ・ターナー
+    jam: Tina Turner
+    ka: ტინა ტერნერი
+    kab: Tina Turner
+    kg: Tina Turner
+    kl: Tina Turner
+    ko: 티나 터너
+    ku: Tina Turner
+    ky: Тина Тернер
+    lb: Tina Turner
+    li: Tina Turner
+    lij: Tina Turner
+    lt: Tina Turner
+    lv: Tīna Tērnere
+    mg: Tina Turner
+    mi: Tina Turner
+    min: Tina Turner
+    mk: Тина Тарнер
+    ml: ടിന ടർണർ
+    mn: Тина Төрнэр
+    mrj: Тина Тӧрнер
+    ms: Tina Turner
+    ms-arab: تينا ترنر
+    mt: Tina Turner
+    mul: Tina Turner
+    nap: Tina Turner
+    nb: Tina Turner
+    nds: Tina Turner
+    nds-nl: Tina Turner
+    nl: Tina Turner
+    nn: Tina Turner
+    nrm: Tina Turner
+    oc: Tina Turner
+    pa: ਟੀਨਾ ਟਰਨਰ
+    pap: Tina Turner
+    pcd: Tina Turner
+    pdc: Tina Turner
+    pl: Tina Turner
+    pms: Tina Turner
+    prg: Tina Turner
+    pt: Tina Turner
+    pt-br: Tina Turner
+    qu: Tina Turner
+    rgn: Tina Turner
+    rm: Tina Turner
+    ro: Tina Turner
+    ru: Тина Тёрнер
+    sah: Тина Түрнер
+    sc: Tina Turner
+    scn: Tina Turner
+    sco: Tina Turner
+    sh: Tina Turner
+    sk: Tina Turner
+    sl: Tina Turner
+    sq: Tina Turner
+    sr: Тина Тарнер
+    sr-ec: Тина Тарнер
+    sr-el: Tina Tarner
+    sv: Tina Turner
+    sw: Tina Turner
+    szl: Tina Turner
+    th: ทีน่า เทอร์เนอร์
+    tl: Tina Turner
+    tr: Tina Turner
+    uk: Тіна Тернер
+    ur: ٹینا ٹرنر
+    uz: Tina Turner
+    vec: Tina Turner
+    vi: Tina Turner
+    vls: Tina Turner
+    vmf: Tina Turner
+    vo: Tina Turner
+    wa: Tina Turner
+    war: Tina Turner
+    wo: Tina Turner
+    wuu: 蒂娜·特纳
+    yo: Tina Turner
+    yue: 天娜端納
+    zh: 蒂娜·特纳
+    zh-cn: 蒂娜·特纳
+    zh-hans: 蒂娜·特纳
+    zh-hant: 蒂娜·特娜
+    zh-hk: 天娜·端納
+    zh-sg: 蒂娜·特纳
+    zh-tw: 蒂娜·特娜
+    zu: Tina Turner
 ---
-
 # [[Turner,Tina]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Tina_Turner,131814|WD~Tina_Turner,131814]]  

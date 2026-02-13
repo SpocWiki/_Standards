@@ -1,128 +1,323 @@
 ---
 aliases:
-  - manic depression
-  - Bipolar_Disorder
-  - Bipolar Disorder
+- anhwylder deubegwn
+- bipolaarne häire
+- bipolaire stoornis
+- bipolar
+- bipolar affektiv sindslidelse
+- bipolar bozukluk
+- Bipolar Disorder
+- bipolar lidelse
+- bipolar liding
+- Bipolar Stéierung
+- bipolare Störung
+- bipolarna motnja razpoloženja
+- bipolarni afektivni poremećaj
+- Bipolar_Disorder
+- bipolyar pozuntu
+- bipoláris zavar
+- bipolárna afektívna porucha
+- bipolární afektivní porucha
+- bipolär sjukdom
+- bipolêre gemoedsversteuring
+- bipolāri afektīvi traucējumi
+- Cutar bipolar
+- desoreka bipolar
+- Diperensiyang bipolar
+- disturbo bipolare
+- disturbo bipołare
+- dupolusa perturbo
+- gangguan bipolar
+- geðhvörf
+- Jelikpe-depressïyalıq psïxoz
+- kaksisuuntainen mielialahäiriö
+- maniakal-depressiv psixoz
+- maniakinė depresija
+- manic depression
+- manično-depresivna psihoza
+- neamhord dépholach
+- perturbação bipolar
+- Perturbo bipolara
+- psychosis affectiva bipolaris
+- rối loạn lưỡng cực
+- sindrom bipolal
+- transtorno bipolar
+- trastorn bipolar
+- trastorno bipolar
+- trestornu bipolar
+- tresvirament bipolar
+- trouble bipolaire
+- tulburare bipolară
+- zaburzenia afektywne dwubiegunowe
+- çrregullimi bipolar
+- διπολική διαταραχή
+- біпалярны афектыўны разлад
+- біпалярны афэктыўны разлад
+- біполярний афективний розлад
+- бипаләр аффиктив бозылыш
+- биполарно растројство
+- биполярно разстройство
+- биполярное аффективное расстройство
+- Желікпе-депрессиялық психоз
+- манично-депресивна психоза
+- Մանիակալ-դեպրեսիվ պսիխոզ
+- הפרעה דו-קוטבית
+- اختلال دوقطبی
+- اضطراب ثنائي القطب
+- بائی پولر ڈس آرڈر
+- بيپولير
+- بی پولار پوزولماسی
+- جەلىكپە-دەپرەسسىييالىق پسىيحوز
+- ذهان الهوس و الاكتئاب
+- پەشێویی دووجەمسەری
+- द्विध्रुवी विकार
+- बायपोलर डिसऑर्डर (मानसिक आजार)
+- দ্বিপ্রান্তিক ব্যাধি
+- বাইপ’লাৰ ৰোগ
+- ਬਾਈਪੋਲਰ ਡਿਸਆਰਡਰ
+- ବାଇପୋଲାର ଡିଜଅଡର
+- இருமுனையப் பிறழ்வு
+- బైపోలార్ డిజార్డర్
+- ದ್ವಿಧ್ರುವಿ ಅಸ್ವಸ್ಥತೆ
+- ബൈപോളാർ ഡിസോർഡർ
+- බයිපෝල අක්රමිකතාව
+- โรคอารมณ์สองขั้ว
+- ბიპოლარული აფექტური აშლილობა
+- ბიპოლარული ეფექტური აკორცუაფა
+- 双極症
+- 双相障碍
+- 心境障碍
+- 雙相障礙
+- 조울증
 has_id_wikidata: Q131755
 symptoms_and_signs:
-  - "[[_Standards/WikiData/WD~hallucination,130741]]"
-  - "[[_Standards/WikiData/WD~mania,185935]]"
-  - "[[_Standards/WikiData/WD~hypomania,188611]]"
-  - "[[_Standards/WikiData/WD~delusion,189643]]"
-  - "[[_Standards/WikiData/WD~hypersexuality,267907]]"
-  - "[[_Standards/WikiData/WD~psychomotor_agitation,394129]]"
-  - "[[_Standards/WikiData/WD~anhedonia,545365]]"
-  - "[[_Standards/WikiData/WD~hypersomnia,751641]]"
-  - "[[_Standards/WikiData/WD~insomnia,1869874]]"
-  - "[[_Standards/WikiData/WD~depression,4340209]]"
-  - "[[_Standards/WikiData/WD~mood_swing,7933601]]"
-  - "[[_Standards/WikiData/WD~aphasia,2836]]"
-  - "[[_Standards/WikiData/WD~fatigue,9690]]"
+- '[[_Standards/WikiData/WD~hallucination,130741]]'
+- '[[_Standards/WikiData/WD~mania,185935]]'
+- '[[_Standards/WikiData/WD~hypomania,188611]]'
+- '[[_Standards/WikiData/WD~delusion,189643]]'
+- '[[_Standards/WikiData/WD~hypersexuality,267907]]'
+- '[[_Standards/WikiData/WD~psychomotor_agitation,394129]]'
+- '[[_Standards/WikiData/WD~anhedonia,545365]]'
+- '[[_Standards/WikiData/WD~hypersomnia,751641]]'
+- '[[_Standards/WikiData/WD~insomnia,1869874]]'
+- '[[_Standards/WikiData/WD~depression,4340209]]'
+- '[[_Standards/WikiData/WD~mood_swing,7933601]]'
+- '[[_Standards/WikiData/WD~aphasia,2836]]'
+- '[[_Standards/WikiData/WD~fatigue,9690]]'
 drug_or_therapy_used_for_treatment:
-  - "[[_Standards/WikiData/WD~lithium,152763]]"
-  - "[[_Standards/WikiData/WD~olanzapine,201872]]"
-  - "[[_Standards/WikiData/WD~topiramate,221174]]"
-  - "[[_Standards/WikiData/WD~clozapine,221361]]"
-  - "[[_Standards/WikiData/WD~valproic_acid,240642]]"
-  - "[[_Standards/WikiData/WD~clonazepam,407988]]"
-  - "[[_Standards/WikiData/WD~quetiapine,408535]]"
-  - "[[_Standards/WikiData/WD~lamotrigine,410346]]"
-  - "[[_Standards/WikiData/WD~gabapentin,410352]]"
-  - "[[_Standards/WikiData/WD~carbamazepin,410412]]"
-  - "[[_Standards/WikiData/WD~risperidone,412443]]"
-  - "[[_Standards/WikiData/WD~tiagabine,907219]]"
-  - "[[_Standards/WikiData/WD~transclopenthixol,27278051]]"
-possible_treatment: "[[_Standards/WikiData/WD~psychotherapy,183257]]"
-subclass_of: "[[_Standards/WikiData/WD~mood_disorder,188638]]"
+- '[[_Standards/WikiData/WD~lithium,152763]]'
+- '[[_Standards/WikiData/WD~olanzapine,201872]]'
+- '[[_Standards/WikiData/WD~topiramate,221174]]'
+- '[[_Standards/WikiData/WD~clozapine,221361]]'
+- '[[_Standards/WikiData/WD~valproic_acid,240642]]'
+- '[[_Standards/WikiData/WD~clonazepam,407988]]'
+- '[[_Standards/WikiData/WD~quetiapine,408535]]'
+- '[[_Standards/WikiData/WD~lamotrigine,410346]]'
+- '[[_Standards/WikiData/WD~gabapentin,410352]]'
+- '[[_Standards/WikiData/WD~carbamazepin,410412]]'
+- '[[_Standards/WikiData/WD~risperidone,412443]]'
+- '[[_Standards/WikiData/WD~tiagabine,907219]]'
+- '[[_Standards/WikiData/WD~transclopenthixol,27278051]]'
+possible_treatment: '[[_Standards/WikiData/WD~psychotherapy,183257]]'
+subclass_of: '[[_Standards/WikiData/WD~mood_disorder,188638]]'
 health_specialty:
-  - "[[_Standards/WikiData/WD~clinical_psychology,199906]]"
-  - "[[_Standards/WikiData/WD~psychiatry,7867]]"
+- '[[_Standards/WikiData/WD~clinical_psychology,199906]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-different_from: "[[_Standards/WikiData/WD~bipolarity,864944]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+different_from: '[[_Standards/WikiData/WD~bipolarity,864944]]'
 genetic_association:
-  - "[[_Standards/WikiData/WD~NPAS3,4044993]]"
-  - "[[_Standards/WikiData/WD~CTSH,5052484]]"
-  - "[[_Standards/WikiData/WD~GPM6A,5514181]]"
-  - "[[_Standards/WikiData/WD~MAD1L1,6714076]]"
-  - "[[_Standards/WikiData/WD~CACNA1C,14905744]]"
-  - "[[_Standards/WikiData/WD~TCF7L2,14913892]]"
-  - "[[_Standards/WikiData/WD~NCAN,15996896]]"
-  - "[[_Standards/WikiData/WD~ADCY2,17709638]]"
-  - "[[_Standards/WikiData/WD~ANK3,17826316]]"
-  - "[[_Standards/WikiData/WD~FBLN1,17927578]]"
-  - "[[_Standards/WikiData/WD~GRIK5,18026510]]"
-  - "[[_Standards/WikiData/WD~HNRNPC,18027078]]"
-  - "[[_Standards/WikiData/WD~INPP4A,18027940]]"
-  - "[[_Standards/WikiData/WD~KIF5B,18028260]]"
-  - "[[_Standards/WikiData/WD~MSRA,18029451]]"
-  - "[[_Standards/WikiData/WD~PTPRN2,18030950]]"
-  - "[[_Standards/WikiData/WD~IFT88,18032734]]"
-  - "[[_Standards/WikiData/WD~NUMB,18033185]]"
-  - "[[_Standards/WikiData/WD~WSCD2,18034568]]"
-  - "[[_Standards/WikiData/WD~KCNMB2,18035155]]"
-  - "[[_Standards/WikiData/WD~DLC1,18035350]]"
-  - "[[_Standards/WikiData/WD~AKAP11,18036404]]"
-  - "[[_Standards/WikiData/WD~MGAT4A,18036469]]"
-  - "[[_Standards/WikiData/WD~PHF8,18036818]]"
-  - "[[_Standards/WikiData/WD~SYNE1,18037107]]"
-  - "[[_Standards/WikiData/WD~INTS7,18037778]]"
-  - "[[_Standards/WikiData/WD~CNTNAP2,18037897]]"
-  - "[[_Standards/WikiData/WD~AUTS2,18037904]]"
-  - "[[_Standards/WikiData/WD~ERC2,18037948]]"
-  - "[[_Standards/WikiData/WD~COMMD10,18040268]]"
-  - "[[_Standards/WikiData/WD~PRKAG2,18040277]]"
-  - "[[_Standards/WikiData/WD~WWOX,18040542]]"
-  - "[[_Standards/WikiData/WD~BRWD1,18040759]]"
-  - "[[_Standards/WikiData/WD~RIN2,18041009]]"
-  - "[[_Standards/WikiData/WD~CDH23,18045544]]"
-  - "[[_Standards/WikiData/WD~FBXL17,18045774]]"
-  - "[[_Standards/WikiData/WD~FAT4,18046219]]"
-  - "[[_Standards/WikiData/WD~MCTP1,18046338]]"
-  - "[[_Standards/WikiData/WD~LMAN2L,18047034]]"
-  - "[[_Standards/WikiData/WD~NLRC5,18047439]]"
-  - "[[_Standards/WikiData/WD~MYO18B,18047740]]"
-  - "[[_Standards/WikiData/WD~CGNL1,18047913]]"
-  - "[[_Standards/WikiData/WD~TMEM132C,18048619]]"
-  - "[[_Standards/WikiData/WD~TMEM132B,18049070]]"
-  - "[[_Standards/WikiData/WD~MYOM3,18049810]]"
-  - "[[_Standards/WikiData/WD~DPY19L3,18051803]]"
-  - "[[_Standards/WikiData/WD~DGKH,18052476]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~mood_swing,7933601]]"
-instance_of: "[[_Standards/WikiData/WD~class_of_disease,112193867]]"
-DiseasesDB: "7812"
+- '[[_Standards/WikiData/WD~NPAS3,4044993]]'
+- '[[_Standards/WikiData/WD~CTSH,5052484]]'
+- '[[_Standards/WikiData/WD~GPM6A,5514181]]'
+- '[[_Standards/WikiData/WD~MAD1L1,6714076]]'
+- '[[_Standards/WikiData/WD~CACNA1C,14905744]]'
+- '[[_Standards/WikiData/WD~TCF7L2,14913892]]'
+- '[[_Standards/WikiData/WD~NCAN,15996896]]'
+- '[[_Standards/WikiData/WD~ADCY2,17709638]]'
+- '[[_Standards/WikiData/WD~ANK3,17826316]]'
+- '[[_Standards/WikiData/WD~FBLN1,17927578]]'
+- '[[_Standards/WikiData/WD~GRIK5,18026510]]'
+- '[[_Standards/WikiData/WD~HNRNPC,18027078]]'
+- '[[_Standards/WikiData/WD~INPP4A,18027940]]'
+- '[[_Standards/WikiData/WD~KIF5B,18028260]]'
+- '[[_Standards/WikiData/WD~MSRA,18029451]]'
+- '[[_Standards/WikiData/WD~PTPRN2,18030950]]'
+- '[[_Standards/WikiData/WD~IFT88,18032734]]'
+- '[[_Standards/WikiData/WD~NUMB,18033185]]'
+- '[[_Standards/WikiData/WD~WSCD2,18034568]]'
+- '[[_Standards/WikiData/WD~KCNMB2,18035155]]'
+- '[[_Standards/WikiData/WD~DLC1,18035350]]'
+- '[[_Standards/WikiData/WD~AKAP11,18036404]]'
+- '[[_Standards/WikiData/WD~MGAT4A,18036469]]'
+- '[[_Standards/WikiData/WD~PHF8,18036818]]'
+- '[[_Standards/WikiData/WD~SYNE1,18037107]]'
+- '[[_Standards/WikiData/WD~INTS7,18037778]]'
+- '[[_Standards/WikiData/WD~CNTNAP2,18037897]]'
+- '[[_Standards/WikiData/WD~AUTS2,18037904]]'
+- '[[_Standards/WikiData/WD~ERC2,18037948]]'
+- '[[_Standards/WikiData/WD~COMMD10,18040268]]'
+- '[[_Standards/WikiData/WD~PRKAG2,18040277]]'
+- '[[_Standards/WikiData/WD~WWOX,18040542]]'
+- '[[_Standards/WikiData/WD~BRWD1,18040759]]'
+- '[[_Standards/WikiData/WD~RIN2,18041009]]'
+- '[[_Standards/WikiData/WD~CDH23,18045544]]'
+- '[[_Standards/WikiData/WD~FBXL17,18045774]]'
+- '[[_Standards/WikiData/WD~FAT4,18046219]]'
+- '[[_Standards/WikiData/WD~MCTP1,18046338]]'
+- '[[_Standards/WikiData/WD~LMAN2L,18047034]]'
+- '[[_Standards/WikiData/WD~NLRC5,18047439]]'
+- '[[_Standards/WikiData/WD~MYO18B,18047740]]'
+- '[[_Standards/WikiData/WD~CGNL1,18047913]]'
+- '[[_Standards/WikiData/WD~TMEM132C,18048619]]'
+- '[[_Standards/WikiData/WD~TMEM132B,18049070]]'
+- '[[_Standards/WikiData/WD~MYOM3,18049810]]'
+- '[[_Standards/WikiData/WD~DPY19L3,18051803]]'
+- '[[_Standards/WikiData/WD~DGKH,18052476]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~mood_swing,7933601]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+DiseasesDB: 7812
 subreddit: bipolar
 ICD_10_CM:
-  - F31
-  - F31.9
+- F31
+- F31.9
 disease_burden: 13287237
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Comedy%20and%20tragedy%20masks%20without%20background.svg
 exact_match:
-  - http://identifiers.org/doid/DOID:3312
-  - http://purl.obolibrary.org/obo/DOID_3312
-  - http://purl.obolibrary.org/obo/HP_0007302
+- http://identifiers.org/doid/DOID:3312
+- http://purl.obolibrary.org/obo/DOID_3312
+- http://purl.obolibrary.org/obo/HP_0007302
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/bipolar-disorder
 ICD_9_CM:
-  - "296.40"
-  - "296.60"
-  - "296.80"
-OmegaWiki_Defined_Meaning: "968454"
+- 296.40
+- 296.60
+- 296.80
+OmegaWiki_Defined_Meaning: 968454
 Commons_category: Bipolar disorder
 PhilPapers_topic: bipolar-disorders
 UMLS_CUI:
-  - C0005586
-  - C0236780
+- C0005586
+- C0236780
 MeSH_tree_code: F03.600.150.500
 Baidu_Tieba_name:
-  - 双相情感障碍
-  - 躁郁症
-Dewey_Decimal_Classification: "616.895"
+- 双相情感障碍
+- 躁郁症
+Dewey_Decimal_Classification: 616.895
+dv_has_:
+  name_:
+    af: bipolêre gemoedsversteuring
+    ar: اضطراب ثنائي القطب
+    ary: بيپولير
+    arz: ذهان الهوس و الاكتئاب
+    as: বাইপ’লাৰ ৰোগ
+    ast: trestornu bipolar
+    az: bipolyar pozuntu
+    azb: بی پولار پوزولماسی
+    be: біпалярны афектыўны разлад
+    be-tarask: біпалярны афэктыўны разлад
+    bg: биполярно разстройство
+    bn: দ্বিপ্রান্তিক ব্যাধি
+    ca: trastorn bipolar
+    ckb: پەشێویی دووجەمسەری
+    cs: bipolární afektivní porucha
+    cy: anhwylder deubegwn
+    da: bipolar affektiv sindslidelse
+    de: bipolare Störung
+    el: διπολική διαταραχή
+    en: bipolar disorder
+    eo: dupolusa perturbo
+    es: trastorno bipolar
+    et: bipolaarne häire
+    eu: desoreka bipolar
+    fa: اختلال دوقطبی
+    fi: kaksisuuntainen mielialahäiriö
+    fr: trouble bipolaire
+    ga: neamhord dépholach
+    gl: trastorno bipolar
+    gpe: bipolar disorder
+    ha: Cutar bipolar
+    he: הפרעה דו-קוטבית
+    hi: द्विध्रुवी विकार
+    hr: bipolarni afektivni poremećaj
+    hu: bipoláris zavar
+    hy: Մանիակալ-դեպրեսիվ պսիխոզ
+    id: gangguan bipolar
+    io: Perturbo bipolara
+    is: geðhvörf
+    it: disturbo bipolare
+    ja: 双極症
+    jv: bipolar
+    ka: ბიპოლარული აფექტური აშლილობა
+    kk: Желікпе-депрессиялық психоз
+    kk-arab: جەلىكپە-دەپرەسسىييالىق پسىيحوز
+    kk-cn: جەلىكپە-دەپرەسسىييالىق پسىيحوز
+    kk-cyrl: Желікпе-депрессиялық психоз
+    kk-kz: Желікпе-депрессиялық психоз
+    kk-latn: Jelikpe-depressïyalıq psïxoz
+    kk-tr: Jelikpe-depressïyalıq psïxoz
+    kn: ದ್ವಿಧ್ರುವಿ ಅಸ್ವಸ್ಥತೆ
+    ko: 조울증
+    la: psychosis affectiva bipolaris
+    lb: Bipolar Stéierung
+    lfn: sindrom bipolal
+    lt: maniakinė depresija
+    lv: bipolāri afektīvi traucējumi
+    mk: биполарно растројство
+    ml: ബൈപോളാർ ഡിസോർഡർ
+    mr: बायपोलर डिसऑर्डर (मानसिक आजार)
+    ms: gangguan bipolar
+    nb: bipolar lidelse
+    nl: bipolaire stoornis
+    nn: bipolar liding
+    oc: tresvirament bipolar
+    or: ବାଇପୋଲାର ଡିଜଅଡର
+    pa: ਬਾਈਪੋਲਰ ਡਿਸਆਰਡਰ
+    pap: trastorno bipolar
+    pl: zaburzenia afektywne dwubiegunowe
+    pnb: بائی پولر ڈس آرڈر
+    pt: perturbação bipolar
+    pt-br: transtorno bipolar
+    ro: tulburare bipolară
+    ru: биполярное аффективное расстройство
+    sco: bipolar disorder
+    sh: bipolarni afektivni poremećaj
+    si: බයිපෝල අක්රමිකතාව
+    sk: bipolárna afektívna porucha
+    sl: bipolarna motnja razpoloženja
+    sq: çrregullimi bipolar
+    sr: манично-депресивна психоза
+    sr-ec: манично-депресивна психоза
+    sr-el: manično-depresivna psihoza
+    su: gangguan bipolar
+    sv: bipolär sjukdom
+    sw: bipolar disorder
+    ta: இருமுனையப் பிறழ்வு
+    te: బైపోలార్ డిజార్డర్
+    th: โรคอารมณ์สองขั้ว
+    tl: Diperensiyang bipolar
+    tr: bipolar bozukluk
+    tt: бипаләр аффиктив бозылыш
+    uk: біполярний афективний розлад
+    ur: بائی پولر ڈس آرڈر
+    uz: maniakal-depressiv psixoz
+    vec: disturbo bipołare
+    vi: rối loạn lưỡng cực
+    wo: bipolar disorder
+    wuu: 心境障碍
+    xmf: ბიპოლარული ეფექტური აკორცუაფა
+    yue: 雙相障礙
+    zh: 双相障碍
+    zh-cn: 双相障碍
+    zh-hans: 双相障碍
+    zh-hant: 雙相障礙
+    zh-hk: 雙相障礙
+    zh-sg: 心境障碍
+    zh-tw: 雙相障礙
 ---
-
 # [[Bipolar_Disorder]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bipolar_disorder,131755|WD~Bipolar_disorder,131755]] 

@@ -1,10 +1,29 @@
 ---
 aliases:
-  - Paul_Ronzheimer
-  - Paul Ronzheimer
-  - Ronzheimer,Paul
+- Paul Ronzheimer
+- Paul_Ronzheimer
+- Ronzheimer,Paul
+- Πάουλ Ροντσχάιμερ
+- Пауль Ронцгаймер
+- Пауль Ронцхаймер
+- פול רונצהיימר
+has_id_wikidata: Q47199975
+dv_has_:
+  name_:
+    ast: Paul Ronzheimer
+    cs: Paul Ronzheimer
+    de: Paul Ronzheimer
+    el: Πάουλ Ροντσχάιμερ
+    en: Paul Ronzheimer
+    eo: Paul Ronzheimer
+    es: Paul Ronzheimer
+    fr: Paul Ronzheimer
+    he: פול רונצהיימר
+    mul: Paul Ronzheimer
+    nl: Paul Ronzheimer
+    ru: Пауль Ронцхаймер
+    uk: Пауль Ронцгаймер
 ---
-
 ## #has_/text_of_/abstract 
 
 > Paul **Ronzheimer** (born 26 July 1985 in Aurich) is a German journalist and author 

@@ -1,13 +1,25 @@
 ---
 aliases:
-  - Phascolarctomorphia
-  - Phascolarctomorph
+- Phascolarctomorphia
+- Phascolarctomorph
 has_id_wikidata: Q131468339
 taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_name: Phascolarctomorphia
+dv_has_:
+  name_:
+    cs: Phascolarctomorphia
+    de: Phascolarctomorphia
+    el: Phascolarctomorphia
+    en: Phascolarctomorphia
+    es: Phascolarctomorphia
+    fr: Phascolarctomorphia
+    it: Phascolarctomorphia
+    mul: Phascolarctomorphia
+    nl: Phascolarctomorphia
+    pt: Phascolarctomorphia
+    uk: Phascolarctomorphia
 ---
-
 # [[Phascolarctomorph]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Phascolarctomorphia,131468339|WD~Phascolarctomorphia,131468339]]  

@@ -1,42 +1,122 @@
 ---
 aliases:
-  - nebular hypothesis
-  - Nebular_Hypothesis
-  - Nebular Hypothesis
+- Bulutsu hipotezi
+- Giả thuyết tinh vân
+- Hipotesi nebular
+- Hipotesis nebula
+- hipotesis nebular
+- hipòtesi nebular
+- hipótese nebular
+- Hipótesis nebular
+- hypothèse de la nébuleuse
+- ipotesi nebulare
+- mlhovinová hypotéza
+- nebular hypothesis
+- Nebularhypotesen
+- Nebularhypothese
+- Nebularna hipoteza
+- Nebularna teorija
+- Nebular_Hypothesis
+- Nebuloasă solară
+- nebuloza hipotezo
+- Nebulyar hipotez
+- nevelhypothese
+- Newelhipotese
+- маглинска хипотеза
+- Небулалық болжам
+- Небулярна гіпотеза
+- Небулярная гипотеза
+- нэбулярная гіпотэза
+- השערת הערפילית
+- فرضية السديم
+- فرضیه سحابی
+- नीहारिका परिकल्पना
+- नेबुलर परिकल्पना
+- নীহারিকা অনুকল্প
+- නීහාරික කල්පිතය
+- สมมติฐานเนบิวลา
+- 星雲假說
+- 星雲説
+- 성운 가설
 has_id_wikidata: Q13599969
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]"
-  - "[[_Standards/WikiData/WD~encyclopedia_article,13433827]]"
-published_in: "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-part_of: "[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514]]"
+- '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
+- '[[_Standards/WikiData/WD~encyclopedia_article,13433827]]'
+published_in: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+part_of: '[[_Standards/WikiData/WD~Exposition_du_système_du_monde,19170514]]'
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Immanuel_Kant,9312]]"
-  - "[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]"
+- '[[_Standards/WikiData/WD~Immanuel_Kant,9312]]'
+- '[[_Standards/WikiData/WD~Pierre_Simon_Laplace,44481]]'
 Commons_category: Nebular hypothesis
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Nebular_hypothesis,13599969]]"
-    - "[[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]]"
-    - "[[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]]"
-    - "[[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]]"
-    - "[[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]]"
-    - "[[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]]"
+  - '[[../../WikiData/WD~Nebular_hypothesis,13599969]]'
+  - '[[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]]'
+  - '[[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]]'
+  - '[[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]]'
+  - '[[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]]'
+  - '[[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Nebular_hypothesis,13599969]]"
-  - "[[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]]"
-  - "[[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]]"
-  - "[[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]]"
-  - "[[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]]"
-  - "[[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]]"
+- '[[../../WikiData/WD~Nebular_hypothesis,13599969]]'
+- '[[/_Standards/Astronomy/Solar_System/Nebular_Hypothesis|Nebular_Hypothesis]]'
+- '[[/_public/Astronomy/Solar_System/Nebular_Hypothesis.public|Nebular_Hypothesis.public]]'
+- '[[/_internal/Astronomy/Solar_System/Nebular_Hypothesis.internal|Nebular_Hypothesis.internal]]'
+- '[[/_protect/Astronomy/Solar_System/Nebular_Hypothesis.protect|Nebular_Hypothesis.protect]]'
+- '[[/_private/Astronomy/Solar_System/Nebular_Hypothesis.private|Nebular_Hypothesis.private]]'
+- '[[/_personal/Astronomy/Solar_System/Nebular_Hypothesis.personal|Nebular_Hypothesis.personal]]'
+- '[[/_secret/Astronomy/Solar_System/Nebular_Hypothesis.secret|Nebular_Hypothesis.secret]]'
+dv_has_:
+  name_:
+    af: Newelhipotese
+    ar: فرضية السديم
+    ast: Hipótesis nebular
+    az: Nebulyar hipotez
+    be-tarask: нэбулярная гіпотэза
+    bn: নীহারিকা অনুকল্প
+    ca: hipòtesi nebular
+    cs: mlhovinová hypotéza
+    de: Nebularhypothese
+    en: nebular hypothesis
+    en-ca: Nebular hypothesis
+    en-gb: Nebular hypothesis
+    eo: nebuloza hipotezo
+    es: hipotesis nebular
+    eu: Hipotesi nebular
+    fa: فرضیه سحابی
+    fr: hypothèse de la nébuleuse
+    he: השערת הערפילית
+    hi: नीहारिका परिकल्पना
+    hr: Nebularna teorija
+    id: Hipotesis nebula
+    it: ipotesi nebulare
+    ja: 星雲説
+    kk: Небулалық болжам
+    ko: 성운 가설
+    mk: маглинска хипотеза
+    ms: Hipotesis nebula
+    nb: Nebularhypotesen
+    ne: नेबुलर परिकल्पना
+    nl: nevelhypothese
+    nn: Nebularhypotesen
+    pt: hipótese nebular
+    pt-br: Hipótese nebular
+    ro: Nebuloasă solară
+    ru: Небулярная гипотеза
+    sh: Nebularna teorija
+    si: නීහාරික කල්පිතය
+    sr: Nebularna hipoteza
+    th: สมมติฐานเนบิวลา
+    tr: Bulutsu hipotezi
+    uk: Небулярна гіпотеза
+    vi: Giả thuyết tinh vân
+    yue: 星雲假說
+    zh: 星雲假說
 ---
-
 # [[Nebular_Hypothesis]] 
 
 #is_/same_as :: [[WD~Nebular_hypothesis,13599969]] 

@@ -1,9 +1,28 @@
 ---
 aliases:
-  - Kad network
-  - Kad_network
+- Kad
+- Kad network
+- Kad_network
+- Kad網絡
+- Kad網路
+- Kad网络
+- Kad网路
+has_id_wikidata: Q2620547
+dv_has_:
+  name_:
+    en: Kad network
+    es: Kad
+    nl: Kad
+    pt: Kad network
+    ru: Kad Network
+    uk: Kad Network
+    zh: Kad網路
+    zh-cn: Kad网络
+    zh-hans: Kad网路
+    zh-hant: Kad網路
+    zh-hk: Kad網絡
+    zh-sg: Kad网络
 ---
-
 ## #has_/text_of_/abstract 
 
 > The **Kad network** is a peer-to-peer (P2P) network 

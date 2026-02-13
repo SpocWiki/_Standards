@@ -1,42 +1,172 @@
 ---
 aliases:
-  - Armbrust
-  - arbalest
-  - Crossbow
+- Amb
+- arbalest
+- arbalesto
+- Arbalet
+- arbaletas
+- arbaletă
+- arbalète
+- armborst
+- Armbrust
+- armbrøst
+- Aubaresta
+- balestra
+- Balezta
+- ballesta
+- besta
+- Busur silang
+- Bésta
+- crosbhogha
+- Crossbow
+- Harku kryq
+- Kroazwareg
+- kruisboog
+- kusza
+- Kuša
+- kuše
+- Lásbogi
+- Manuballista
+- Nỏ
+- Qundaqlı yay-ox
+- Samostrel
+- Si̍p-jī-keng
+- Stops
+- számszeríj
+- Tatar yayı
+- Varsijousi
+- Årbalesse
+- Ȝelocen boȝe
+- βαλλίστρα
+- арбалет
+- самострел
+- Աղեղնազեն
+- קשת מוצלבת
+- قوس إفرنجية
+- کمان زنبورکی
+- क्रॉसबो
+- หน้าไม้
+- ဒူးလေး
+- ၵၢင်ႇထိူၵ်း
+- არბალეტი (სასროლი იარაღი)
+- クロスボウ
+- 弩
+- 쇠뇌
 has_id_wikidata: Q181947
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~bow_string,890542]]'
-  - '[[_Standards/WikiData/WD~Crossbow_nut,2005489]]'
-  - '[[_Standards/WikiData/WD~Q9394447,9394447]]'
-  - '[[_Standards/WikiData/WD~bow_limbs,9394522]]'
+- '[[_Standards/WikiData/WD~bow_string,890542]]'
+- '[[_Standards/WikiData/WD~Crossbow_nut,2005489]]'
+- '[[_Standards/WikiData/WD~Q9394447,9394447]]'
+- '[[_Standards/WikiData/WD~bow_limbs,9394522]]'
 uses: '[[_Standards/WikiData/WD~quarrel,891691]]'
 used_by:
-  - '[[_Standards/WikiData/WD~arbalist,2859615]]'
-  - '[[_Standards/WikiData/WD~Genoese_crossbowmen,3633318]]'
+- '[[_Standards/WikiData/WD~arbalist,2859615]]'
+- '[[_Standards/WikiData/WD~Genoese_crossbowmen,3633318]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~draft_weapon,30750835]]'
-  - '[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]'
+- '[[_Standards/WikiData/WD~draft_weapon,30750835]]'
+- '[[_Standards/WikiData/WD~neuroballistic_weapon,122452002]]'
 instance_of: '[[_Standards/WikiData/WD~weapon_functional_class,124078422]]'
 Nomenclature_for_Museum_Cataloging: 8163
 IMDb_keyword: crossbow
 OmegaWiki_Defined_Meaning: 159533
 Dewey_Decimal_Classification:
-  - 623.441
-  - 799.20285
+- 623.441
+- 799.20285
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Armborst%2C%201500-tal%20-%20Livrustkammaren%20-%20106793.tif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Can%20I%20Make%20a%20Crossbow%20From%20Scratch.webm
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Kruisboog-article.ogg
 Commons_category: Crossbows
+dv_has_:
+  name_:
+    ang: Ȝelocen boȝe
+    ar: قوس إفرنجية
+    ast: ballesta
+    az: Qundaqlı yay-ox
+    be: арбалет
+    be-tarask: арбалет
+    bg: Арбалет
+    br: Kroazwareg
+    ca: ballesta
+    cs: kuše
+    da: armbrøst
+    de: Armbrust
+    el: βαλλίστρα
+    en: crossbow
+    eo: arbalesto
+    es: ballesta
+    et: Amb
+    eu: Balezta
+    fa: کمان زنبورکی
+    fi: Varsijousi
+    fr: arbalète
+    ga: crosbhogha
+    gl: Bésta
+    he: קשת מוצלבת
+    hi: क्रॉसबो
+    hr: Samostrel
+    hu: számszeríj
+    hy: Աղեղնազեն
+    id: Busur silang
+    io: Arbalesto
+    is: Lásbogi
+    it: balestra
+    ja: クロスボウ
+    ka: არბალეტი (სასროლი იარაღი)
+    kk: Арбалет
+    ko: 쇠뇌
+    ky: Арбалет
+    la: Manuballista
+    lmo: Balestra
+    lt: arbaletas
+    lv: Stops
+    lzh: 弩
+    mk: самострел
+    ms: Busur silang
+    my: ဒူးလေး
+    nan: Si̍p-jī-keng
+    nb: armbrøst
+    nl: kruisboog
+    nn: armbrøst
+    oc: Aubaresta
+    pl: kusza
+    pms: Balestra
+    pt: besta
+    pt-br: besta
+    ro: arbaletă
+    ru: арбалет
+    sh: Samostrel
+    shn: ၵၢင်ႇထိူၵ်း
+    sk: Kuša
+    sl: samostrel
+    sq: Harku kryq
+    sr: самострел
+    sr-ec: самострел
+    sr-el: samostrel
+    sv: armborst
+    th: หน้าไม้
+    tr: Tatar yayı
+    uk: арбалет
+    uz: Arbalet
+    vi: Nỏ
+    wa: Årbalesse
+    wuu: 弩
+    yue: 弩
+    zh: 弩
+    zh-cn: 弩
+    zh-hans: 弩
+    zh-hant: 弩
+    zh-hk: 弩
+    zh-sg: 弩
+    zh-tw: 弩
 ---
-
 # [[Crossbow]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Crossbow,181947|WD~Crossbow,181947]] 

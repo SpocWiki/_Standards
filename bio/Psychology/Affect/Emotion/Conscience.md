@@ -1,33 +1,205 @@
 ---
 aliases:
-  - Gewissen
-  - Conscience
+- budhi
+- bulunc
+- coinsias
+- conciencia
+- Conscience
+- conscientia
+- consciència
+- consciência
+- conștiință
+- coscienza morale
+- dhamiri
+- geweten
+- Gewissen
+- hana
+- hati nurani
+- Hújdan
+- koncienco
+- konsyensya
+- konszientzia
+- lelkiismeret
+- lương tâm
+- morala konscienco
+- ndërgjegjja
+- omatunto
+- qalbii
+- samvete
+- samvittighed
+- samvittighet
+- savjest
+- sirdsapziņa
+- sumienie
+- svedomie
+- svědomí
+- südametunnistus
+- sąžinė
+- vest
+- vicdan
+- vicdon
+- vijdon
+- wijdan
+- çумхыпар
+- συνείδησις
+- вичдон
+- вөҗдан
+- намыс
+- савест
+- совесть
+- совѣсть
+- сумління
+- сумленне
+- сумленьне
+- съвест
+- съвѣсть
+- сүрэл
+- уят
+- Խիղճ
+- געוויסן
+- מצפון
+- ضمير
+- ضمیر
+- وجدان
+- ویژدان
+- ܬܐܪܬܐ
+- अंतःकरण
+- विवेक
+- विवेकबुद्धी
+- বিবেক
+- ਜ਼ਮੀਰ
+- மனச்சான்று
+- మనస్సాక్షి
+- ಆತ್ಮಸಾಕ್ಷಿ
+- മനസ്സാക്ഷി
+- มโนธรรม
+- ህሊና
+- 良心
+- 良知
+- 양심
 has_id_wikidata: Q193526
-subclass_of: "[[_Standards/WikiData/WD~moral,235282]]"
+subclass_of: '[[_Standards/WikiData/WD~moral,235282]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-different_from: "[[_Standards/WikiData/WD~Q3618460,3618460]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~Q3618460,3618460]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Psychology,10858450]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Anti_war,21829374]]"
-instance_of: "[[_Standards/WikiData/WD~moral_quality,31172650]]"
-part_of: "[[_Standards/WikiData/WD~psychological_terminology,77468620]]"
+- '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
+- '[[_Standards/WikiData/WD~WikiProject_Philosophy,8503311]]'
+- '[[_Standards/WikiData/WD~WikiProject_Psychology,10858450]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
+- '[[_Standards/WikiData/WD~WikiProject_Anti_war,21829374]]'
+instance_of: '[[_Standards/WikiData/WD~moral_quality,31172650]]'
+part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620]]'
 Commons_category: Conscience
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vincent%20Willem%20van%20Gogh%20022.jpg
 UMLS_CUI: C0009790
 MeSH_tree_code:
-  - F01.829.500.359
-  - K01.752.566.359
+- F01.829.500.359
+- K01.752.566.359
+dv_has_:
+  name_:
+    am: ህሊና
+    ar: ضمير
+    arc: ܬܐܪܬܐ
+    ast: conciencia
+    az: bulunc
+    be: сумленне
+    be-tarask: сумленьне
+    bg: съвест
+    bn: বিবেক
+    bs: savjest
+    ca: consciència
+    ckb: ویژدان
+    cs: svědomí
+    cu: съвѣсть
+    cv: çумхыпар
+    da: samvittighed
+    de: Gewissen
+    el: Gewissen
+    en: conscience
+    eo: morala konscienco
+    es: conciencia
+    et: südametunnistus
+    eu: konszientzia
+    fa: وجدان
+    fi: omatunto
+    fr: conscience
+    ga: coinsias
+    gl: conciencia
+    grc: συνείδησις
+    he: מצפון
+    hi: अंतःकरण
+    hr: savjest
+    hu: lelkiismeret
+    hy: Խիղճ
+    ia: conscientia
+    id: hati nurani
+    io: koncienco
+    it: coscienza morale
+    ja: 良心
+    kaa: Hújdan
+    kk: намыс
+    kn: ಆತ್ಮಸಾಕ್ಷಿ
+    ko: 양심
+    ku: wijdan
+    ky: уят
+    la: conscientia
+    lt: sąžinė
+    lv: sirdsapziņa
+    ml: മനസ്സാക്ഷി
+    mr: विवेकबुद्धी
+    ms: hati nurani
+    nb: samvittighet
+    new: विवेक
+    nl: geweten
+    om: qalbii
+    pa: ਜ਼ਮੀਰ
+    pl: sumienie
+    pnb: ضمیر
+    pt: consciência
+    pt-br: consciência
+    ro: conștiință
+    ru: совесть
+    rue: совѣсть
+    sah: сүрэл
+    sd: ضمير
+    sh: savjest
+    sk: svedomie
+    sl: vest
+    sn: hana
+    sq: ndërgjegjja
+    sr: савест
+    sv: samvete
+    sw: dhamiri
+    ta: மனச்சான்று
+    te: మనస్సాక్షి
+    tg: вичдон
+    tg-latn: vicdon
+    th: มโนธรรม
+    tl: budhi
+    tr: vicdan
+    tt: вөҗдан
+    uk: сумління
+    ur: ضمیر
+    uz: vijdon
+    vi: lương tâm
+    war: konsyensya
+    wuu: 良知
+    yi: געוויסן
+    yue: 良心
+    zh: 良心
+    zh-cn: 良心
+    zh-hans: 良心
+    zh-hant: 良心
+    zh-hk: 良心
+    zh-sg: 良心
+    zh-tw: 良心
 ---
-
 # [[Conscience]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Conscience,193526|WD~Conscience,193526]] 

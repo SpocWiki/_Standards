@@ -1,71 +1,416 @@
 ---
 aliases:
-  - Political party
-  - Political_Party
-  - Political Party
+- akabar asertay
+- alderdi politiko
+- Amanyɔ kuo
+- Antoko politika
+- bellodat
+- belludahka
+- belludak
+- Bolidischi Pardai
+- Chama cha kisiasa
+- Chèng-tóng
+- erakond
+- factio politica
+- jam'iyyar siyasa
+- jokuaikuaa aty
+- Karapka siyasabe
+- Lingómbá lya politíki
+- lugaynong partido
+- Partai politik
+- Partai pulitik
+- partee politickagh
+- parti politek
+- parti politik
+- parti politike
+- parti politique
+- partia polityczna
+- partid politic
+- Partido politikal
+- partido politikanhon
+- partido politikanhën
+- Partido politiko
+- partido político
+- partido polítiko
+- partidong politikal
+- Partidu
+- partidu polìticu
+- Partii politegh
+- partio
+- partio pułìtego
+- Partit
+- partit politic
+- partit politiku
+- partit polític
+- partito politic
+- partito politico
+- partitu puliticu
+- partitu pulìticu
+- Partiy
+- partiya siyasî
+- partiô
+- Parté pulitik
+- Partì polìtich
+- partíu políticu
+- Pati politik
+- peällõk
+- piäládâh
+- plaid wleidyddol
+- poleetical pairty
+- politesch Partei
+- politeschi Partei
+- Political partise
+- Political party
+- Political_Party
+- politická strana
+- politieke partij
+- politieke party
+- politike partij
+- politinė partija
+- politische Partei
+- Politische partie
+- politisk parti
+- politiska strona
+- politiskt parti
+- politiskur flokkur
+- politiskā partija
+- politička stranka
+- politična stranka
+- politsche Partei
+- Politycznŏ partyjŏ
+- polletieke party
+- Puolitėnė partėjė
+- puolue
+- Pàrtaidh poileataigeach
+- páirtí polaitíochta
+- párt
+- Pårti politike
+- Rajnetic dal
+- rōpū tōrangapū
+- siyasi parti
+- siyasi partiya
+- siyasiy fırqa
+- Siyosiy partiyalar
+- Stjórnmálaflokkur
+- strollad politikel
+- Xisbi
+- đảng phái chính trị
+- πολιτικό κόμμα
+- палітычная партыя
+- Політічна партія
+- політична партія
+- политик парти
+- Политика партия
+- Политика партията
+- Политикань партиясь
+- Политикин парти
+- политикон парти
+- политическа партия
+- политическая партия
+- политичка партија
+- Политичка странка
+- саяси партия
+- Саясий партия
+- Сәйәси фирҡә
+- сәяси фирка
+- Улас түрын нам
+- Улс төрийн нам
+- ҳизби сиёсӣ
+- Կուսակցութիւն
+- կուսակցություն
+- מפלגה
+- פאליטישע פארטיי
+- حزب
+- حزب سياسى
+- حزب سياسي
+- حیزب
+- سياسي گوند
+- سِیٲسی جَماتھ
+- سیاسی جماعت
+- سیاسی پارٹی
+- پارتىيە
+- ڤرتي ڤوليتيک
+- ܓܒܐ
+- ߓߘߍ߬ߓߘߍ߬ߟߌ߬ ߞߙߎߞߊ
+- दल
+- राजकीय पक्ष
+- राजनीतिक दल
+- राजनैतिक दल
+- राजनैतिकदलम्
+- রাজনৈতিক দল
+- ৰাজনৈতিক দল
+- ਰਾਜਨੀਤਕ ਪਾਰਟੀ
+- રાજકીય પક્ષ
+- ରାଜନୀତିକ ଦଳ
+- அரசியல் கட்சி
+- రాజకీయ పార్టీ
+- ರಾಜಕೀಯ ಪಕ್ಷ
+- രാഷ്ട്രീയ പാർട്ടി
+- දේශපාලන පක්ෂ
+- พรรคการเมือง
+- ພັຄກາຣເມືອງ
+- နိုင်ငံရေးပါတီ
+- პოლიტიკური პარტია
+- ፖለቲካዊ ሰልፊ
+- Ẹgbẹ́ olóṣèlú
+- 政党
+- 政黨
+- ꠞꠣꠎꠘꠤꠔꠤꠇ ꠙꠣꠐꠤ
+- 정당
 has_id_wikidata: Q7278
 Commons_category: Political parties
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification:
-  - 306.26
-  - 324.2
+- 306.26
+- 324.2
 different_from: '[[_Standards/WikiData/WD~Party,230880]]'
 EntitySchema_for_this_class: E432
 equivalent_class:
-  - https://schema.org/PoliticalParty
-  - http://dbpedia.org/ontology/PoliticalParty
+- https://schema.org/PoliticalParty
+- http://dbpedia.org/ontology/PoliticalParty
 has_list: '[[_Standards/WikiData/WD~lists_of_political_parties,11025641]]'
 has_part_s_: '[[_Standards/WikiData/WD~juvenile_political_organization,2493450]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~member_of_political_party,11388835]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_political_parties,11499057]]'
 Iconclass_notation: 44C33
 instance_of:
-  - '[[_Standards/WikiData/WD~legal_concept,2135465]]'
-  - '[[_Standards/WikiData/WD~legal_form,10541491]]'
+- '[[_Standards/WikiData/WD~legal_concept,2135465]]'
+- '[[_Standards/WikiData/WD~legal_form,10541491]]'
 IPTC_NewsCode: mediatopic/20000651
 model_item:
-  - '[[_Standards/WikiData/WD~Labour_Party,9630]]'
-  - '[[_Standards/WikiData/WD~Indian_National_Congress,10225]]'
-  - '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]'
-  - '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
-  - '[[_Standards/WikiData/WD~Christian_Democratic_Union,49762]]'
+- '[[_Standards/WikiData/WD~Labour_Party,9630]]'
+- '[[_Standards/WikiData/WD~Indian_National_Congress,10225]]'
+- '[[_Standards/WikiData/WD~Chinese_Communist_Party,17427]]'
+- '[[_Standards/WikiData/WD~Democratic_Party,29552]]'
+- '[[_Standards/WikiData/WD~Christian_Democratic_Union,49762]]'
 OmegaWiki_Defined_Meaning: 2866
 OpenStreetMap_tag_or_key: Key:political_party
 position_held_by_head_of_the_organization:
-  - '[[_Standards/WikiData/WD~party_secretary,836971]]'
-  - '[[_Standards/WikiData/WD~party_leader,1553195]]'
+- '[[_Standards/WikiData/WD~party_secretary,836971]]'
+- '[[_Standards/WikiData/WD~party_leader,1553195]]'
 properties_for_this_type:
-  - member of
-  - chairperson
-  - has part(s)
-  - inception
-  - official website
-  - political ideology
-  - political alignment
-  - number of seats in assembly
-  - member count
-  - position held by head of the organization
-  - youth wing
-  - country
-  - logo image
-  - headquarters location
-  - party chief representative
+- member of
+- chairperson
+- has part(s)
+- inception
+- official website
+- political ideology
+- political alignment
+- number of seats in assembly
+- member count
+- position held by head of the organization
+- youth wing
+- country
+- logo image
+- headquarters location
+- party chief representative
 Provenio_UUID: 128e680a-4574-48f0-92b6-090bc10f3d96
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~Activities_of_political_organisations,29586073]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/NL-politieke%20partij-article.ogg
 subclass_of:
-  - '[[_Standards/WikiData/WD~juridical_person,155076]]'
-  - '[[_Standards/WikiData/WD~political_organization,7210356]]'
+- '[[_Standards/WikiData/WD~juridical_person,155076]]'
+- '[[_Standards/WikiData/WD~political_organization,7210356]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_political_party,5622823]]'
-  - '[[_Standards/WikiData/WD~Template_Party_politics,14398758]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_political_party,5622823]]'
+- '[[_Standards/WikiData/WD~Template_Party_politics,14398758]]'
 U_S_National_Archives_Identifier: 10644794
 Wikidata_property: member of political party
+dv_has_:
+  name_:
+    acm: حزب سياسي
+    af: politieke party
+    an: partito politico
+    ar: حزب سياسي
+    arc: ܓܒܐ
+    arz: حزب سياسى
+    as: ৰাজনৈতিক দল
+    ast: partíu políticu
+    az: siyasi partiya
+    azb: حیزب
+    ba: Сәйәси фирҡә
+    bar: politische Partei
+    be: палітычная партыя
+    be-tarask: палітычная партыя
+    bew: Parté pulitik
+    bg: политическа партия
+    bn: রাজনৈতিক দল
+    br: strollad politikel
+    bs: politička stranka
+    btm: Partai politik
+    bxr: Улас түрын нам
+    ca: partit polític
+    ce: Политикин парти
+    ceb: lugaynong partido
+    ckb: حیزب
+    co: partitu puliticu
+    crh: siyasiy fırqa
+    cs: politická strana
+    csb: partiô
+    cy: plaid wleidyddol
+    da: politisk parti
+    de: politische Partei
+    de-ch: politische Partei
+    diq: Partiy
+    el: πολιτικό κόμμα
+    en: political party
+    en-ca: political party
+    en-gb: political party
+    en-us: political party
+    eo: partio
+    es: partido político
+    et: erakond
+    eu: alderdi politiko
+    fa: حزب
+    fi: puolue
+    fo: politiskur flokkur
+    fr: parti politique
+    fy: politike partij
+    ga: páirtí polaitíochta
+    gcr: Pati politik
+    gd: Pàrtaidh poileataigeach
+    gl: partido político
+    gn: jokuaikuaa aty
+    gsw: politeschi Partei
+    gu: રાજકીય પક્ષ
+    gv: partee politickagh
+    ha: jam'iyyar siyasa
+    he: מפלגה
+    hi: राजनीतिक दल
+    hif: Rajnetic dal
+    hil: partido politikanhon
+    hr: politička stranka
+    hsb: politiska strona
+    ht: Pati politik
+    hu: párt
+    hy: կուսակցություն
+    hyw: Կուսակցութիւն
+    ia: partito politic
+    id: partai politik
+    ie: Political partise
+    ilo: Partido politiko
+    is: Stjórnmálaflokkur
+    it: partito politico
+    ja: 政党
+    jv: Partai pulitik
+    ka: პოლიტიკური პარტია
+    kab: akabar asertay
+    kk: саяси партия
+    kn: ರಾಜಕೀಯ ಪಕ್ಷ
+    knc: Karapka siyasabe
+    ko: 정당
+    krc: Политика партия
+    krj: partido politikanhën
+    ks: سِیٲسی جَماتھ
+    ku-latn: partiya siyasî
+    kw: parti politek
+    ky: Саясий партия
+    la: factio politica
+    lb: politesch Partei
+    li: Politische partie
+    lld: Partit
+    lmo: Partii politegh
+    ln: Lingómbá lya politíki
+    lo: ພັຄກາຣເມືອງ
+    lt: politinė partija
+    lv: politiskā partija
+    mad: Partai politik
+    mdf: Политикань партиясь
+    mg: Antoko politika
+    mi: rōpū tōrangapū
+    mk: политичка партија
+    ml: രാഷ്ട്രീയ പാർട്ടി
+    mn: Улс төрийн нам
+    mr: राजकीय पक्ष
+    ms: parti politik
+    ms-arab: ڤرتي ڤوليتيک
+    mt: partit politiku
+    my: နိုင်ငံရေးပါတီ
+    nan: Chèng-tóng
+    nb: politisk parti
+    nds: politsche Partei
+    ne: राजनैतिक दल
+    new: दल
+    nl: politieke partij
+    nn: politisk parti
+    nqo: ߓߘߍ߬ߓߘߍ߬ߟߌ߬ ߞߙߎߞߊ
+    oc: partit politic
+    or: ରାଜନୀତିକ ଦଳ
+    os: политикон парти
+    pa: ਰਾਜਨੀਤਕ ਪਾਰਟੀ
+    pap: partido polítiko
+    pfl: Bolidischi Pardai
+    pl: partia polityczna
+    pms: Partì polìtich
+    pnb: سیاسی پارٹی
+    ps: سياسي گوند
+    pt: partido político
+    pt-br: partido político
+    qu: Partidu
+    ro: partid politic
+    ru: политическая партия
+    rue: Політічна партія
+    sa: राजनैतिकदलम्
+    sah: Политика партията
+    sc: partidu polìticu
+    scn: partitu pulìticu
+    sco: poleetical pairty
+    se: bellodat
+    sgs: Puolitėnė partėjė
+    sh: politička stranka
+    si: දේශපාලන පක්ෂ
+    sje: belludak
+    sk: politická strana
+    sl: politična stranka
+    smj: belludahka
+    smn: piäládâh
+    sms: peällõk
+    so: Xisbi
+    sq: parti politike
+    sr: Политичка странка
+    sr-ec: политичка странка
+    sr-el: politička stranka
+    sv: politiskt parti
+    sw: Chama cha kisiasa
+    syl: ꠞꠣꠎꠘꠤꠔꠤꠇ ꠙꠣꠐꠤ
+    szl: Politycznŏ partyjŏ
+    ta: அரசியல் கட்சி
+    te: రాజకీయ పార్టీ
+    tg: ҳизби сиёсӣ
+    th: พรรคการเมือง
+    ti: ፖለቲካዊ ሰልፊ
+    tl: partidong politikal
+    tr: siyasi parti
+    tt: сәяси фирка
+    tt-cyrl: сәяси фирка
+    tw: Amanyɔ kuo
+    udm: политик парти
+    ug: پارتىيە
+    uk: політична партія
+    ur: سیاسی جماعت
+    uz: Siyosiy partiyalar
+    vec: partio pułìtego
+    vi: đảng phái chính trị
+    vls: polletieke party
+    wa: Pårti politike
+    war: Partido politikal
+    wuu: 政党
+    xmf: პოლიტიკური პარტია
+    yi: פאליטישע פארטיי
+    yo: Ẹgbẹ́ olóṣèlú
+    yue: 政黨
+    zh: 政黨
+    zh-cn: 政党
+    zh-hans: 政党
+    zh-hant: 政黨
+    zh-hk: 政黨
+    zh-mo: 政黨
+    zh-my: 政党
+    zh-sg: 政党
+    zh-tw: 政黨
 ---
-
 # [[Political_Party]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Political_party,7278|WD~Political_party,7278]] 

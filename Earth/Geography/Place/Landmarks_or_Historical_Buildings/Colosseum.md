@@ -4,74 +4,153 @@ dv_"Concept", "AmphitheatrumFlavium: 2h23c"
 dv_"HistoricalSite", "Colosseum: 6y9gn"
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]]"
-    - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum|Colosseum]]"
-    - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public|Colosseum.public]]"
-    - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal|Colosseum.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect|Colosseum.protect]]"
-    - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private|Colosseum.private]]"
-    - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal|Colosseum.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret|Colosseum.secret]]"
+  - '[[../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]]'
+  - '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum|Colosseum]]'
+  - '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public|Colosseum.public]]'
+  - '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal|Colosseum.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect|Colosseum.protect]]'
+  - '[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private|Colosseum.private]]'
+  - '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal|Colosseum.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret|Colosseum.secret]]'
 dv_building-colosseum: pq39x"
 dv_concept-amphitheatrumflavium: 2h23c"
 dv_historicalsite-colosseum: 6y9gn"
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]]"
-  - "[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum|Colosseum]]"
-  - "[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public|Colosseum.public]]"
-  - "[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal|Colosseum.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect|Colosseum.protect]]"
-  - "[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private|Colosseum.private]]"
-  - "[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal|Colosseum.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret|Colosseum.secret]]"
-
-has_time_started: 0082-01-01 
-location: [ 41.890277777, 12.492222222 ] 
+- '[[../../../../WikiData/WD~Colosseum,10285|WD~Colosseum,10285]]'
+- '[[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum|Colosseum]]'
+- '[[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.public|Colosseum.public]]'
+- '[[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.internal|Colosseum.internal]]'
+- '[[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.protect|Colosseum.protect]]'
+- '[[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.private|Colosseum.private]]'
+- '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.personal|Colosseum.personal]]'
+- '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Colosseum.secret|Colosseum.secret]]'
+has_time_started: 0082-01-01
+location:
+- 41.890277777
+- 12.492222222
 aliases:
-  - Colosseum
+- Amphitheatrum Flavium
+- An Colasaem
+- Coliseo
+- Coliseo de Roma
+- Coliseu de Roma
+- Coliseum
+- Colisèu
+- Colisée
+- Coliséu
+- Colloseum
+- Coloseo
+- Coloseu
+- Colossee
+- Colosseo
+- Colosseu
+- Colosseum
+- Colosseum (ampitiyatro sa Italya)
+- Colossé
+- Culusseu
+- Kolezyum
+- Koliisee
+- Koliseo
+- Koliseoa
+- Kolisy
+- Kolize
+- Kolizei
+- Kolizejs
+- Kolizey
+- Koliziejus
+- Kolizé
+- Kolosej
+- Koloseo
+- Koloseum
+- Koloseumi
+- Kolosseum
+- Kolossew
+- Kolosyum
+- Kolėzėjos
+- Koty Tesaroryrã Rómagui
+- tomo Kolosejo
+- Đấu trường La Mã
+- Κολοσσαίο
+- Калізей
+- Калізэй
+- Колізей
+- Колизей
+- Колосей
+- Колосеум
+- Կոլիզեյ
+- Քոլիզէում
+- קאלאסעום
+- קולוסיאום
+- رىم گىلادىئاتورلار مەيدانى
+- كولوسيوم
+- کلۆسیۆم
+- کولوزیئم
+- کولوسئوم
+- ڪولوزيئم
+- कलोसियम
+- कोलोजियम
+- कोलोसियम
+- ক'ল'ছিয়াম
+- কলোসিয়াম
+- ਕੋਲੋਸੀਅਮ
+- કોલોસીયમ
+- କୋଲୋସିୟମ
+- கொலோசியம், ரோம்
+- కొలోస్సియం
+- കൊളോസിയം
+- โคลอสเซียม
+- ကိုလော့စီယမ်
+- კოლიზეუმი
+- კოლოსეუმი
+- ኮሎሲየም
+- コロッセオ
+- 罗马斗兽场
+- 鬥獸場
+- ꯀꯣꯂꯣꯁꯤꯌꯝ
+- 콜로세움
 has_id_wikidata: Q10285
 has_use:
-  - '[[_Standards/WikiData/WD~quarry,188040]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~ludi,1216498]]'
+- '[[_Standards/WikiData/WD~quarry,188040]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~ludi,1216498]]'
 has_facility:
-  - '[[_Standards/WikiData/WD~bookstore,200764]]'
-  - '[[_Standards/WikiData/WD~archive_building,635719]]'
-  - '[[_Standards/WikiData/WD~photo_archive,27032363]]'
-  - '[[_Standards/WikiData/WD~library,7075]]'
+- '[[_Standards/WikiData/WD~bookstore,200764]]'
+- '[[_Standards/WikiData/WD~archive_building,635719]]'
+- '[[_Standards/WikiData/WD~photo_archive,27032363]]'
+- '[[_Standards/WikiData/WD~library,7075]]'
 uses: '[[_Standards/WikiData/WD~digital_library,212805]]'
 architectural_style: '[[_Standards/WikiData/WD~ancient_Roman_architecture,223750]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Treccani's_Enciclopedia_on_line,65921422]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~stadium,483110]]'
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~archaeological_site,839954]]'
-  - '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
-  - '[[_Standards/WikiData/WD~Roman_amphitheatre,7362268]]'
-  - '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522]]'
-  - '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548]]'
-  - '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
-  - '[[_Standards/WikiData/WD~roman_ruins,133444874]]'
+- '[[_Standards/WikiData/WD~stadium,483110]]'
+- '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+- '[[_Standards/WikiData/WD~archaeological_site,839954]]'
+- '[[_Standards/WikiData/WD~Italian_national_museum,3867560]]'
+- '[[_Standards/WikiData/WD~Roman_amphitheatre,7362268]]'
+- '[[_Standards/WikiData/WD~historical_civil_building_museum,112132522]]'
+- '[[_Standards/WikiData/WD~archaeological_artifact_museum,112132548]]'
+- '[[_Standards/WikiData/WD~Museum_of_the_Italian_Ministry_of_Culture,124830411]]'
+- '[[_Standards/WikiData/WD~roman_ruins,133444874]]'
 made_from_material:
-  - '[[_Standards/WikiData/WD~tuff,484924]]'
-  - '[[_Standards/WikiData/WD~Roman_travertine,1124525]]'
-  - '[[_Standards/WikiData/WD~concrete,22657]]'
+- '[[_Standards/WikiData/WD~tuff,484924]]'
+- '[[_Standards/WikiData/WD~Roman_travertine,1124525]]'
+- '[[_Standards/WikiData/WD~concrete,22657]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Colosseum,1111834]]'
-  - '[[_Standards/WikiData/WD~Colosseo_district,112708581]]'
+- '[[_Standards/WikiData/WD~Colosseum,1111834]]'
+- '[[_Standards/WikiData/WD~Colosseo_district,112708581]]'
 Wi_Fi_access:
-  - '[[_Standards/WikiData/WD~gratis,1543615]]'
-  - '[[_Standards/WikiData/WD~no,1814990]]'
+- '[[_Standards/WikiData/WD~gratis,1543615]]'
+- '[[_Standards/WikiData/WD~no,1814990]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Roma_Capitale,3940419]]'
 disabled_accessibility: '[[_Standards/WikiData/WD~wheelchair_accessible,24192067]]'
 heritage_designation: '[[_Standards/WikiData/WD~Italian_national_heritage,26971668]]'
@@ -83,24 +162,24 @@ date_of_official_opening: 0081-01-01T00:00:00Z
 founded_by: '[[_Standards/WikiData/WD~Vespasian,1419]]'
 country: '[[_Standards/WikiData/WD~Italy,38]]'
 area:
-  - 30000
-  - 5000
+- 30000
+- 5000
 collection_or_exhibition_size:
-  - 600
-  - 140
+- 600
+- 140
 employees:
-  - 21
-  - 24
-  - 36
-  - 37
-  - 54
+- 21
+- 24
+- 36
+- 37
+- 54
 height: 48
 maximum_capacity: 65000
 width: 155
 length: 187
 name:
-  - Colosseum
-  - Colysée
+- Colosseum
+- Colysée
 postal_code: 00184
 Commons_gallery: Colosseum
 Commons_category: Colosseum
@@ -114,26 +193,172 @@ image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Colosseum%
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rom%20%28IT%29%2C%20Kolosseum%20--%202024%20--%200610.jpg
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rom%20Colosseum%20Sept%202021%203.jpg
 ground_level_360_degree_view_URL:
-  - https://360stories.com/rome/place/colosseum
-  - https://360stories.com/rome/story/colosseum
+- https://360stories.com/rome/place/colosseum
+- https://360stories.com/rome/story/colosseum
 official_website:
-  - https://colosseo.it/area/colosseo/
-  - https://colosseo.it/en/area/the-colosseum/
+- https://colosseo.it/area/colosseo/
+- https://colosseo.it/en/area/the-colosseum/
 email_address: mailto:pa-colosseo@beniculturali.it
 phone_number: +39-06-774-0091
 P8189: 987007287923905171
 hashtag_: ColosseoRoma
 Wolfram_Language_entity_code:
-  - Entity"Building", "Colosseum = `=this.dv_"Building", "Colosseum`
-  - Entity"Concept", "AmphitheatrumFlavium = `=this.dv_"Concept", "AmphitheatrumFlavium`
-  - Entity"HistoricalSite", "Colosseum = `=this.dv_"HistoricalSite", "Colosseum`
+- Entity"Building", "Colosseum = `=this.dv_"Building", "Colosseum`
+- Entity"Concept", "AmphitheatrumFlavium = `=this.dv_"Concept", "AmphitheatrumFlavium`
+- Entity"HistoricalSite", "Colosseum = `=this.dv_"HistoricalSite", "Colosseum`
 Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/KOLIZE.html
 street_address:
-  - Piazza del Colosseo
-  - Piazza Del Colosseo 1, Roma
+- Piazza del Colosseo
+- Piazza Del Colosseo 1, Roma
 native_label: Colosseum
+dv_has_:
+  name_:
+    af: Colosseum
+    am: ኮሎሲየም
+    an: Coloseu
+    ar: كولوسيوم
+    arz: كولوسيوم
+    as: ক'ল'ছিয়াম
+    ast: Coliséu
+    az: Kolizey
+    azb: کولوسئوم
+    ba: Колизей
+    bar: Colosseum
+    bcl: Colosseum
+    be: Калізей
+    be-tarask: Калізэй
+    bg: Колизей
+    bho: कोलोसियम
+    bn: কলোসিয়াম
+    br: Kolize
+    bs: Koloseum
+    ca: Colosseu
+    ce: Колизей
+    ceb: Colosseum (ampitiyatro sa Italya)
+    ckb: کلۆسیۆم
+    crh: Kolizey
+    cs: Koloseum
+    cy: Colosseum
+    da: Colosseum
+    de: Kolosseum
+    de-ch: Kolosseum
+    diq: Kolezyum
+    el: Κολοσσαίο
+    eml: Colosseo
+    en: Colosseum
+    en-ca: Colosseum
+    en-gb: Colosseum
+    eo: Koloseo
+    es: Coliseo
+    et: Colosseum
+    eu: Koliseoa
+    fa: کولوسئوم
+    fi: Colosseum
+    fo: Kolosseum
+    fr: Colisée
+    fy: Kolosseum
+    ga: An Colasaem
+    gcr: Kolizé
+    gl: Coliseo de Roma
+    gn: Koty Tesaroryrã Rómagui
+    gsw: Colosseum
+    gu: કોલોસીયમ
+    he: קולוסיאום
+    hi: कोलोसियम
+    hif: Colosseum
+    hr: Kolosej
+    hu: Colosseum
+    hy: Կոլիզեյ
+    hyw: Քոլիզէում
+    ia: Colosseo
+    id: Koloseum
+    is: Colosseum
+    it: Colosseo
+    ja: コロッセオ
+    jv: Colloseum
+    ka: კოლოსეუმი
+    kab: Kolosyum
+    kbp: Koliisee
+    kk: Колизей
+    ko: 콜로세움
+    ku: Coliseum
+    kw: Colosseum
+    ky: Колизей
+    la: Amphitheatrum Flavium
+    lb: Kolosseum
+    lfn: Coloseo
+    lij: Colosseo
+    lmo: Colossee
+    lt: Koliziejus
+    lv: Kolizejs
+    mad: Koloseum
+    mai: कोलोसियम
+    mg: Kolisy
+    mk: Колосеум
+    ml: കൊളോസിയം
+    mn: Колизей
+    mni: ꯀꯣꯂꯣꯁꯤꯌꯝ
+    mr: कलोसियम
+    ms: Colosseum
+    mt: Kolossew
+    my: ကိုလော့စီယမ်
+    na: Colosseum
+    nan: Colosseum
+    nb: Colosseum
+    nds: Kolosseum
+    ne: कोलोसियम
+    new: कोलोजियम
+    nl: Colosseum
+    nn: Colosseum
+    oc: Colisèu
+    or: କୋଲୋସିୟମ
+    pa: ਕੋਲੋਸੀਅਮ
+    pl: Koloseum
+    pms: Colossé
+    pnb: کولوزیئم
+    pt: Coliseu de Roma
+    pt-br: Coliseu de Roma
+    qu: Colosseum
+    ro: Colosseum
+    ru: Колизей
+    rue: Колосей
+    scn: Culusseu
+    sco: Colosseum
+    sd: ڪولوزيئم
+    sgs: Kolėzėjos
+    sh: Koloseum
+    sk: Koloseum
+    sl: Kolosej
+    sq: Koloseumi
+    sr: Колосеум
+    stq: Kolosseum
+    su: Koloseum
+    sv: Colosseum
+    sw: Koloseo
+    ta: கொலோசியம், ரோம்
+    te: కొలోస్సియం
+    th: โคลอสเซียม
+    tl: Koliseo
+    tok: tomo Kolosejo
+    tr: Kolezyum
+    tt: Колизей
+    tw: Colosseo
+    udm: Колизей
+    ug: رىم گىلادىئاتورلار مەيدانى
+    uk: Колізей
+    ur: کولوزیئم
+    uz: Kolizey
+    vep: Kolizei
+    vi: Đấu trường La Mã
+    war: Coliseo
+    wuu: 罗马斗兽场
+    xmf: კოლიზეუმი
+    yi: קאלאסעום
+    yue: 鬥獸場
+    zea: Colosseum
+    zh: 罗马斗兽场
+    zh-hans: 罗马斗兽场
 ---
-
 # [[Colosseum]] 
 
 ![[../../../../assets/Colosseum.png]] 

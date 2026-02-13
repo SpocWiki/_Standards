@@ -1,30 +1,236 @@
 ---
 aliases:
-  - blog
-  - blog
-  - Blog
-  - is_a_blog
+- ajaveeb
+- Akalio'ushajülee
+- bitakora
+- bitákora
+- blag
+- blog
+- blogg
+- blogga
+- Bloggur
+- blogi
+- blogo
+- Blogu
+- Blogue
+- blogum
+- Bloq
+- blòg
+- Bolog
+- Buluug (teknooloji)
+- Bāng-chì
+- Ditari Blog
+- is_a_blog
+- rangitaki
+- tinklaraštis
+- tīmekļa žurnāls
+- Uōng-cé
+- Waibe-blok
+- Webloch
+- weblog
+- ιστολόγιο
+- блог
+- чурали
+- Բլոգ
+- בלאג
+- בלוג
+- بلاگ
+- بلۆگ
+- مدونة
+- وبلاگ
+- وبنوشت
+- ߓߑߟߏߜ߭ߍߙ
+- अनुदिनी
+- चिट्ठा
+- ब्लग
+- ब्लॉग
+- ব্লগ
+- ਬਲਾਗ
+- બ્લૉગ
+- வலைப்பதிவு
+- బ్లాగు
+- ಬ್ಲಾಗ್
+- ബ്ലോഗ്
+- වියුණු සටහන
+- บล็อก
+- ບລັອກ
+- ბლოგი
+- ប្លូក
+- ブログ
+- 博客
+- 網誌
+- 部落格
+- 블로그
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - blog
+- blog
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_blog Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_blog Class
 type: Type
+has_id_wikidata: Q30849
+dv_has_:
+  name_:
+    af: blog
+    an: blog
+    ar: مدونة
+    as: ব্লগ
+    ast: blogue
+    az: Bloq
+    ba: блог
+    bar: Blog
+    bcl: bitakora
+    be: блог
+    be-tarask: блог
+    bg: Блог
+    bho: ब्लॉग
+    bn: ব্লগ
+    br: Blog
+    bs: Blog
+    ca: blog
+    cdo: Uōng-cé
+    ceb: bitakora
+    ckb: بلۆگ
+    cs: blog
+    cy: blog
+    da: blog
+    de: Blog
+    de-ch: Blog
+    dtp: Bolog
+    el: ιστολόγιο
+    en: blog
+    en-ca: blog
+    en-gb: blog
+    eo: blogo
+    es: blog
+    et: ajaveeb
+    eu: blog
+    fa: وبنوشت
+    fi: blogi
+    fo: Bloggur
+    fr: blogue
+    fy: Webloch
+    ga: blag
+    gl: blog
+    glk: وبلاگ
+    gu: બ્લૉગ
+    guc: Akalio'ushajülee
+    he: בלוג
+    hi: चिट्ठा
+    hil: bitakora
+    hr: Blog
+    hsb: blog
+    hu: blog
+    hy: Բլոգ
+    ia: Blog
+    id: blog
+    ie: Blog
+    ilo: bitakora
+    io: Blogo
+    is: Blogg
+    it: blog
+    ja: ブログ
+    jv: Blog
+    ka: ბლოგი
+    kaa: Blog
+    kk: Блог
+    km: ប្លូក
+    kn: ಬ್ಲಾಗ್
+    ko: 블로그
+    krj: bitakora
+    ku: Blog
+    la: blogum
+    lb: Blog
+    lmo: blog
+    lo: ບລັອກ
+    lt: tinklaraštis
+    lv: tīmekļa žurnāls
+    lzh: 博客
+    mg: Blog
+    mhr: блог
+    mi: rangitaki
+    mk: блог
+    ml: ബ്ലോഗ്
+    mn: Блог
+    mr: अनुदिनी
+    ms: Blog
+    mt: blogg
+    mwl: Blogue
+    nan: Bāng-chì
+    nb: blogg
+    ne: ब्लग
+    nl: weblog
+    nn: blogg
+    nqo: ߓߑߟߏߜ߭ߍߙ
+    oc: blòg
+    os: блог
+    pa: ਬਲਾਗ
+    pag: bitakora
+    pam: bitákora
+    pl: blog
+    pt: blogue
+    pt-br: blog
+    ro: blog
+    ru: блог
+    scn: Blog
+    sco: blog
+    se: blogga
+    sh: Blog
+    si: වියුණු සටහන
+    sk: blog
+    sl: blog
+    smn: blogi
+    sms: blogg
+    so: Buluug (teknooloji)
+    sq: Ditari Blog
+    sr: блог
+    sr-ec: блог
+    st: Blog
+    su: Blog
+    sv: blogg
+    sw: Blogu
+    ta: வலைப்பதிவு
+    te: బ్లాగు
+    tet: Blog
+    tg: блог
+    th: บล็อก
+    tk: Blog
+    tl: Blog
+    tr: Blog
+    tt: блог
+    tt-cyrl: блог
+    udm: чурали
+    uk: блог
+    ur: بلاگ
+    uz: Blog
+    vec: blòg
+    vi: Blog
+    wa: Waibe-blok
+    war: Blog
+    wuu: 博客
+    xmf: ბლოგი
+    yi: בלאג
+    yue: 網誌
+    zh: 網誌
+    zh-cn: 博客
+    zh-hans: 博客
+    zh-hant: 部落格
+    zh-hk: 網誌
+    zh-my: 部落格
+    zh-tw: 部落格
 ---
-
 # [[Blog]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Blog,30849|WD~Blog,30849]] 

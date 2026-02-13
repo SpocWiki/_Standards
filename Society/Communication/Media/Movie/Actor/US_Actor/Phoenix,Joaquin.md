@@ -1,9 +1,149 @@
 ---
 aliases:
-  - Joaquin Phoenix
-  - Phoenix,Joaquin
+- Hoakin Feniks
+- Hoakin Finiks
+- Hoakins Fīnikss
+- Ioachimus Phoenix
+- Joaquin Phoenix
+- Phoenix,Joaquin
+- Xoakin Feniks
+- Χοακίν Φίνιξ
+- Хаакін Фенікс
+- Хаакін Фэнікс
+- Хоакін Фенікс
+- Хоакин Феникс
+- Хоакин Финикс
+- Հոակին Ֆենիքս
+- חואקין פיניקס
+- جیکوئن فینکس
+- خواكين فينيكس
+- خواکین فینیکس
+- واکین فینیکس
+- ह्वाकिन फिनिक्स
+- ह्वाकीन फीनिक्स
+- হোয়াকিন ফিনিক্স
+- ਵਾਕੀਨ ਫਿਨਿਕਸ
+- ജൊവാക്വിൻ ഫീനിക്സ്
+- วาคีน ฟีนิกซ์
+- ხოაკინ ფენიქსი
+- ホアキン・フェニックス
+- 华坚·冯力士
+- 华金·菲尼克斯
+- 瓦昆·費尼克斯
+- 祖昆·冯力士
+- 華堅·馮力士
+- 華堅馮力士
+- 호아킨 피닉스
+has_id_wikidata: Q185140
+dv_has_:
+  name_:
+    ace: Joaquin Phoenix
+    af: Joaquin Phoenix
+    an: Joaquin Phoenix
+    ar: خواكين فينيكس
+    arz: خواكين فينيكس
+    ast: Joaquin Phoenix
+    az: Xoakin Feniks
+    azb: واکین فینیکس
+    be: Хаакін Фенікс
+    be-tarask: Хаакін Фэнікс
+    bg: Хоакин Финикс
+    bn: হোয়াকিন ফিনিক্স
+    ca: Joaquin Phoenix
+    ckb: واکین فینیکس
+    cs: Joaquin Phoenix
+    cy: Joaquin Phoenix
+    da: Joaquin Phoenix
+    de: Joaquin Phoenix
+    diq: Joaquin Phoenix
+    el: Χοακίν Φίνιξ
+    en: Joaquin Phoenix
+    eo: Joaquin Phoenix
+    es: Joaquin Phoenix
+    et: Joaquin Phoenix
+    eu: Joaquin Phoenix
+    fa: خواکین فینیکس
+    fi: Joaquin Phoenix
+    fr: Joaquin Phoenix
+    frp: Joaquin Phoenix
+    ga: Joaquin Phoenix
+    gd: Joaquin Phoenix
+    gl: Joaquin Phoenix
+    he: חואקין פיניקס
+    hi: ह्वाकीन फीनिक्स
+    hr: Joaquin Phoenix
+    hu: Joaquin Phoenix
+    hy: Հոակին Ֆենիքս
+    id: Joaquin Phoenix
+    ig: Joaquin Phoenix
+    ilo: Joaquin Phoenix
+    io: Joaquin Phoenix
+    is: Joaquin Phoenix
+    it: Joaquin Phoenix
+    ja: ホアキン・フェニックス
+    jv: Joaquin Phoenix
+    ka: ხოაკინ ფენიქსი
+    kk: Хоакин Феникс
+    kl: Joaquin Phoenix
+    ko: 호아킨 피닉스
+    ky: Хоакин Феникс
+    la: Ioachimus Phoenix
+    lb: Joaquin Phoenix
+    lt: Joaquin Phoenix
+    lv: Hoakins Fīnikss
+    mk: Хоакин Финикс
+    ml: ജൊവാക്വിൻ ഫീനിക്സ്
+    mn: Хоакин Феникс
+    mr: ह्वाकीन फीनिक्स
+    ms: Joaquin Phoenix
+    mul: Joaquin Phoenix
+    mzn: خواکین فینیکس
+    nb: Joaquin Phoenix
+    ne: ह्वाकिन फिनिक्स
+    nl: Joaquin Phoenix
+    nn: Joaquin Phoenix
+    oc: Joaquin Phoenix
+    pa: ਵਾਕੀਨ ਫਿਨਿਕਸ
+    pap: Joaquin Phoenix
+    pl: Joaquin Phoenix
+    pms: Joaquin Phoenix
+    pt: Joaquin Phoenix
+    pt-br: Joaquin Phoenix
+    ro: Joaquin Phoenix
+    ru: Хоакин Феникс
+    sco: Joaquin Phoenix
+    sh: Joaquin Phoenix
+    sk: Joaquin Phoenix
+    sl: Joaquin Phoenix
+    sq: Joaquin Phoenix
+    sr: Хоакин Финикс
+    sr-ec: Хоакин Финикс
+    sr-el: Hoakin Finiks
+    sv: Joaquin Phoenix
+    tg: Хоакин Феникс
+    th: วาคีน ฟีนิกซ์
+    tl: Joaquin Phoenix
+    tr: Joaquin Phoenix
+    uk: Хоакін Фенікс
+    ur: جیکوئن فینکس
+    uz: Joaquin Phoenix
+    vec: Joaquin Phoenix
+    vep: Hoakin Feniks
+    vi: Joaquin Phoenix
+    vo: Joaquin Phoenix
+    wuu: 华金·菲尼克斯
+    xmf: ხოაკინ ფენიქსი
+    yo: Joaquin Phoenix
+    yue: 華堅馮力士
+    zh: 華堅·馮力士
+    zh-cn: 华金·菲尼克斯
+    zh-hans: 华金·菲尼克斯
+    zh-hant: 瓦昆·費尼克斯
+    zh-hk: 華堅馮力士
+    zh-my: 祖昆·冯力士
+    zh-sg: 华坚·冯力士
+    zh-tw: 瓦昆·費尼克斯
 ---
-
 #has_/time_/started :: 1974-10-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

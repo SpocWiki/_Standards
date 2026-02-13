@@ -1,10 +1,68 @@
 ---
 aliases:
-  - Meeresschildkröte
-  - Sea_Turtle
-  - Sea Turtle
-  - Sea Turtles
-  - tortuga marina
+- awun òkun
+- Chelonioidea
+- Chīmalāyotl
+- Dengiz toshbaqasi
+- Deniz kaplumbağası
+- Diinbadeed
+- Dəniz tısbağaları
+- fönu
+- Havskildpadder
+- havskilpadder
+- Havskjaldbøkur
+- Honu moana
+- jūras bruņurupuču virsdzimta
+- Kasa
+- Kunkurun ruwa
+- Martestudoj
+- Meeresschildkröte
+- Morska kornjača
+- morske želve
+- Morskovodnice
+- mořské želvy
+- Môr-grwban
+- Pawikan
+- Pawikan sa dagat
+- Penyu
+- Rùa biển
+- sa'wainrü
+- Sea Turtle
+- Sea Turtles
+- Sea_Turtle
+- soka-dranomasina
+- tartaruga-marinha
+- Tartuca marina
+- tengeri teknősök
+- Testudines
+- tortuga marina
+- Trattùgoa de mâ
+- Tééh tsisteeł
+- Vonu
+- Θαλάσσια χελώνα
+- марскія чарапахі
+- морські черепахи
+- Соленоводни костенурки
+- Ծովային կրիաներ
+- צבי ים
+- اولاکو
+- سلحفاه بحريه
+- لاکپشت دریایی
+- لجأة
+- ڕەقەی دەریایی
+- समुद्री कछुए
+- દરીયાઈ કાચબો
+- கடல் ஆமை
+- ಕಡಲಾಮೆಗಳು
+- കടലാമ
+- මුහුදු කැස්බෑවා
+- เต่าทะเล
+- ပင်လယ်လိပ်
+- ზღვის კუები
+- ウミガメ
+- 海龜
+- 海龟
+- 바다거북상과
 has_id_wikidata: Q219329
 taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -14,11 +72,121 @@ UMLS_CUI: C1001720
 Commons_category: Chelonioidea
 taxon_name: Chelonioidea
 taxon_common_name:
-  - Sea Turtles
-  - tortuga marina
+- Sea Turtles
+- tortuga marina
 start_time: -110000000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Chelonioidea
+    an: Chelonioidea
+    ar: لجأة
+    arz: سلحفاه بحريه
+    ast: Chelonioidea
+    az: Dəniz tısbağaları
+    ban: Penyu
+    bcl: Pawikan sa dagat
+    be-tarask: марскія чарапахі
+    bg: Соленоводни костенурки
+    br: Chelonioidea
+    bs: Chelonioidea
+    ca: Tortuga marina
+    ceb: Chelonioidea
+    ckb: ڕەقەی دەریایی
+    cs: mořské želvy
+    cy: Môr-grwban
+    da: Havskildpadder
+    de: Chelonioidea
+    el: Θαλάσσια χελώνα
+    en: sea turtle
+    en-ca: sea turtle
+    en-gb: sea turtle
+    eo: Martestudoj
+    es: Chelonioidea
+    et: Chelonioidea
+    eu: Chelonioidea
+    fa: لاکپشت دریایی
+    fi: Chelonioidea
+    fj: Vonu
+    fo: Havskjaldbøkur
+    fr: Chelonioidea
+    ga: Chelonioidea
+    gl: Chelonioidea
+    gsw: Chelonioidea
+    gu: દરીયાઈ કાચબો
+    guc: sa'wainrü
+    ha: Kunkurun ruwa
+    he: צבי ים
+    hi: समुद्री कछुए
+    hr: Morskovodnice
+    hu: tengeri teknősök
+    hy: Ծովային կրիաներ
+    ia: Chelonioidea
+    id: penyu
+    is: Chelonioidea
+    it: Chelonioidea
+    ja: ウミガメ
+    jv: Penyu
+    ka: ზღვის კუები
+    kn: ಕಡಲಾಮೆಗಳು
+    ko: 바다거북상과
+    la: Chelonioidea
+    lb: Chelonioidea
+    lij: Trattùgoa de mâ
+    lmo: Chelonioidea
+    lt: Chelonioidea
+    lv: jūras bruņurupuču virsdzimta
+    mg: soka-dranomasina
+    mi: Honu moana
+    ml: കടലാമ
+    ms: penyu
+    mul: Chelonioidea
+    my: ပင်လယ်လိပ်
+    mzn: اولاکو
+    nah: Chīmalāyotl
+    nb: havskilpadder
+    nds: Chelonioidea
+    nds-nl: Chelonioidea
+    nia: fönu
+    nl: Chelonioidea
+    nn: Chelonioidea
+    nv: Tééh tsisteeł
+    pl: Chelonioidea
+    pms: Chelonioidea
+    pt: tartaruga-marinha
+    pt-br: Chelonioidea
+    ro: Chelonioidea
+    ru: Chelonioidea
+    scn: Tartuca marina
+    si: මුහුදු කැස්බෑවා
+    sk: Chelonioidea
+    sl: morske želve
+    so: Diinbadeed
+    sq: Chelonioidea
+    sr: Morska kornjača
+    su: Penyu
+    sv: Chelonioidea
+    sw: Kasa
+    ta: கடல் ஆமை
+    th: เต่าทะเล
+    tl: Pawikan
+    tr: Deniz kaplumbağası
+    uk: морські черепахи
+    uz: Dengiz toshbaqasi
+    vec: Chelonioidea
+    vi: Rùa biển
+    wa: Chelonioidea
+    war: Testudines
+    wuu: 海龜
+    yo: awun òkun
+    yue: 海龜
+    zh: 海龟
+    zh-cn: 海龟
+    zh-hans: 海龟
+    zh-hant: 海龜
+    zh-hk: 海龜
+    zh-sg: 海龟
+    zh-tw: 海龜
 ---
-
 # [[Sea_Turtle]] 
 
 #is_/same_as :: [[WD~Sea_turtle,219329]] 

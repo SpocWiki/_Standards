@@ -1,50 +1,141 @@
 ---
 aliases:
-  - joint
-  - joint
-  - Joint
-  - is_a_joint
+- alt
+- articolazione
+- Articula
+- articulació
+- articulación
+- articulation
+- articulazzioni
+- articulação
+- articulație
+- artiko
+- Artikulazio
+- Atikilasyon
+- a᷆rtà
+- Buusaa
+- cymal
+- Djonteure
+- Eklem
+- geh
+- Gelenk
+- Gewerf
+- gewricht
+- is_a_joint
+- joint
+- Juncturae
+- Kaluluthán
+- Kasu-kasuan
+- khớp
+- kloub
+- Knier
+- kotikosiw
+- Kyçet e njeriut
+- Kĺb
+- ladás
+- lađas
+- led
+- ledd
+- liiges
+- Liðamót
+- locītava
+- loođâs
+- lïhtse
+- lõõđâs
+- Mell
+- nivel
+- Olt
+- oríìké
+- Oynaq
+- Sak
+- Sendhi
+- sendi
+- sklep
+- staw
+- sąnarys
+- Tawremt
+- Tullu muqu
+- Zglob
+- ízület
+- Άρθρωση
+- ёзви
+- Банд (пайванди устухон)
+- буын
+- Зглоб
+- ла̄ввь
+- Муун
+- Рищи
+- Става
+- суглоб
+- сустаў
+- сустав
+- сустава
+- Сыпă (анатоми)
+- ттаркӏ-базу
+- эзне
+- Հոդ
+- Յօդեր
+- געלענק
+- מפרק
+- جمگە
+- مفصل
+- ܫܪܝܬܐ
+- जोर्नी
+- संधि
+- অস্থিসন্ধি
+- ਜੋੜ
+- மூட்டு
+- కీలు
+- ಕೀಲು
+- അസ്ഥിസന്ധി
+- ข้อต่อ
+- სახსარი
+- የመገጣጠሚያ አጥንት
+- 关节
+- 関節
+- 骱
+- 관절
 has_id_wikidata: Q9644
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - joint
+- joint
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_joint Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_joint Class
 type: Type
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 produced_sound: '[[_Standards/WikiData/WD~cracking_joints,1417078]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Joints,14402946]]'
 different_from: '[[_Standards/WikiData/WD~Cymal,21061384]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
-  - '[[_Standards/WikiData/WD~joint,109321311]]'
-  - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
+- '[[_Standards/WikiData/WD~joint,109321311]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
 TA98_Latin_term: junctura
 OmegaWiki_Defined_Meaning: 1652935
 Commons_category: Joints
 Dewey_Decimal_Classification:
-  - 611.72
-  - 573.78
-  - 612.752
+- 611.72
+- 573.78
+- 612.752
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Joints%201%20--%20Smart-Servier.png
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A7%E0%A6%BF.wav
 equivalent_class: https://schema.org/Joint
@@ -52,8 +143,123 @@ P8189: 987007536286105171
 MeSH_tree_code: A02.835.583
 UMLS_CUI: C0022417
 Krugosvet_article: medicina/SUSTAV.html
+dv_has_:
+  name_:
+    am: የመገጣጠሚያ አጥንት
+    ar: مفصل
+    arc: ܫܪܝܬܐ
+    atj: kotikosiw
+    av: Рищи
+    az: Oynaq
+    be: сустаў
+    be-tarask: сустава
+    bg: Става
+    bn: অস্থিসন্ধি
+    br: Mell
+    bs: Zglob
+    ca: articulació
+    ckb: جمگە
+    cs: kloub
+    cv: Сыпă (анатоми)
+    cy: cymal
+    da: led
+    de: Gelenk
+    diq: Sak
+    el: Άρθρωση
+    en: joint
+    en-ca: Joint
+    en-gb: joint
+    eo: artiko
+    es: articulación
+    et: liiges
+    eu: Artikulazio
+    fa: مفصل
+    fi: nivel
+    fr: articulation
+    fy: Knier
+    ga: alt
+    gd: Alt
+    gl: articulación
+    gv: Olt
+    he: מפרק
+    hi: संधि
+    hr: zglob
+    ht: Atikilasyon
+    hu: ízület
+    hy: Հոդ
+    hyw: Յօդեր
+    ia: Articulation
+    id: sendi
+    is: Liðamót
+    it: articolazione
+    ja: 関節
+    jv: Sendhi
+    ka: სახსარი
+    kab: Tawremt
+    kk: Буын
+    kn: ಕೀಲು
+    ko: 관절
+    ku: geh
+    ky: Муун
+    la: Juncturae
+    lb: Gelenk
+    lbe: ттаркӏ-базу
+    lfn: Articula
+    li: Gewerf
+    lt: sąnarys
+    lv: locītava
+    mcn: a᷆rtà
+    min: Sendi
+    mk: Зглоб
+    ml: അസ്ഥിസന്ധി
+    ms: Sendi
+    myv: эзне
+    nb: ledd
+    ne: जोर्नी
+    nl: gewricht
+    nn: ledd
+    om: Buusaa
+    pa: ਜੋੜ
+    pl: staw
+    pt: articulação
+    pt-br: Articulação
+    qu: Tullu muqu
+    ro: articulație
+    ru: сустав
+    scn: articulazzioni
+    se: lađas
+    sh: Zglob
+    sjd: ла̄ввь
+    sk: Kĺb
+    sl: sklep
+    sma: lïhtse
+    smj: ladás
+    smn: loođâs
+    sms: lõõđâs
+    sq: Kyçet e njeriut
+    sr: зглоб
+    su: Sendi
+    sv: led
+    ta: மூட்டு
+    te: కీలు
+    tg: Банд (пайванди устухон)
+    th: ข้อต่อ
+    tl: Kasu-kasuan
+    tr: Eklem
+    tt: буын
+    tt-cyrl: буын
+    udm: ёзви
+    uk: суглоб
+    ur: مفصل
+    vi: khớp
+    wa: Djonteure
+    war: Kaluluthán
+    wuu: 关节
+    yi: געלענק
+    yo: oríìké
+    yue: 骱
+    zh: 关节
 ---
-
 # [[Joint]]
 
 Class of all joints.

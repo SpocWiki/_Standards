@@ -1,83 +1,218 @@
 ---
 aliases:
-  - Wōðanaz
-  - Wotan
-  - Óðinn
-  - Odin
+- Oden
+- Odin
+- Odinas
+- Odino
+- Odins
+- Odyn
+- Odín
+- Odîn
+- Othinus
+- Weda
+- Wodan
+- Woodan
+- Wotan
+- Wōden
+- Wōðanaz
+- Ódin
+- Óidin
+- Óðin
+- Óðinn
+- Όντιν
+- Одін
+- Одзін
+- Один
+- Одын
+- Օդին
+- אָדין
+- אודין
+- أودين
+- ئۆدن
+- اودن
+- اودین
+- অডিন
+- ওডিন
+- โอดินน์
+- အိုးဒင်နတ်ဘုရား
+- ოდინი
+- オーディン
+- 奥丁
+- 奧丁
+- ꯑꯣꯗꯤꯟ
+- 오딘
 has_id_wikidata: Q43610
 native_label: Óðinn
 field_of_work:
-  - '[[_Standards/WikiData/WD~Old_Norse_religion,121617]]'
-  - '[[_Standards/WikiData/WD~Norse_mythology,128285]]'
-  - '[[_Standards/WikiData/WD~Germanic_paganism,1122452]]'
-  - '[[_Standards/WikiData/WD~Germanic_mythology,5551960]]'
+- '[[_Standards/WikiData/WD~Old_Norse_religion,121617]]'
+- '[[_Standards/WikiData/WD~Norse_mythology,128285]]'
+- '[[_Standards/WikiData/WD~Germanic_paganism,1122452]]'
+- '[[_Standards/WikiData/WD~Germanic_mythology,5551960]]'
 child:
-  - '[[_Standards/WikiData/WD~Heimdall,131196]]'
-  - '[[_Standards/WikiData/WD~Baldur,131658]]'
-  - '[[_Standards/WikiData/WD~Tyr,172713]]'
-  - '[[_Standards/WikiData/WD~Bragi,199959]]'
-  - '[[_Standards/WikiData/WD~Hodhr,204900]]'
-  - '[[_Standards/WikiData/WD~Víðarr,372614]]'
-  - '[[_Standards/WikiData/WD~Hermod,579612]]'
-  - '[[_Standards/WikiData/WD~Váli,846981]]'
-  - '[[_Standards/WikiData/WD~Meili,1617533]]'
-  - '[[_Standards/WikiData/WD~Skjöldr,1771470]]'
-  - '[[_Standards/WikiData/WD~Ítreksjóð,1773304]]'
-  - '[[_Standards/WikiData/WD~Göte,10512769]]'
-  - '[[_Standards/WikiData/WD~Winta,21011015]]'
-  - '[[_Standards/WikiData/WD~Thor,42952]]'
+- '[[_Standards/WikiData/WD~Heimdall,131196]]'
+- '[[_Standards/WikiData/WD~Baldur,131658]]'
+- '[[_Standards/WikiData/WD~Tyr,172713]]'
+- '[[_Standards/WikiData/WD~Bragi,199959]]'
+- '[[_Standards/WikiData/WD~Hodhr,204900]]'
+- '[[_Standards/WikiData/WD~Víðarr,372614]]'
+- '[[_Standards/WikiData/WD~Hermod,579612]]'
+- '[[_Standards/WikiData/WD~Váli,846981]]'
+- '[[_Standards/WikiData/WD~Meili,1617533]]'
+- '[[_Standards/WikiData/WD~Skjöldr,1771470]]'
+- '[[_Standards/WikiData/WD~Ítreksjóð,1773304]]'
+- '[[_Standards/WikiData/WD~Göte,10512769]]'
+- '[[_Standards/WikiData/WD~Winta,21011015]]'
+- '[[_Standards/WikiData/WD~Thor,42952]]'
 spouse: '[[_Standards/WikiData/WD~Frigg,131654]]'
 unmarried_partner:
-  - '[[_Standards/WikiData/WD~Gunnlöð,166380]]'
-  - '[[_Standards/WikiData/WD~Jörð,548730]]'
-  - '[[_Standards/WikiData/WD~Gríðr,1256133]]'
-  - '[[_Standards/WikiData/WD~Rindr,1324396]]'
-  - '[[_Standards/WikiData/WD~Freyja,1647325]]'
+- '[[_Standards/WikiData/WD~Gunnlöð,166380]]'
+- '[[_Standards/WikiData/WD~Jörð,548730]]'
+- '[[_Standards/WikiData/WD~Gríðr,1256133]]'
+- '[[_Standards/WikiData/WD~Rindr,1324396]]'
+- '[[_Standards/WikiData/WD~Freyja,1647325]]'
 part_of: '[[_Standards/WikiData/WD~Æsir,170358]]'
 official_residence: '[[_Standards/WikiData/WD~Asgard,178182]]'
 owner_of:
-  - '[[_Standards/WikiData/WD~Sleipnir,208010]]'
-  - '[[_Standards/WikiData/WD~Geri_and_Freki,826455]]'
-  - '[[_Standards/WikiData/WD~Gungnir,827918]]'
-  - '[[_Standards/WikiData/WD~Tyrfing,1328328]]'
-  - '[[_Standards/WikiData/WD~mead_of_poetry,1697692]]'
+- '[[_Standards/WikiData/WD~Sleipnir,208010]]'
+- '[[_Standards/WikiData/WD~Geri_and_Freki,826455]]'
+- '[[_Standards/WikiData/WD~Gungnir,827918]]'
+- '[[_Standards/WikiData/WD~Tyrfing,1328328]]'
+- '[[_Standards/WikiData/WD~mead_of_poetry,1697692]]'
 father: '[[_Standards/WikiData/WD~Borr,334494]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Vili,505509]]'
-  - '[[_Standards/WikiData/WD~Ve,609434]]'
-  - '[[_Standards/WikiData/WD~Hœnir,836029]]'
+- '[[_Standards/WikiData/WD~Vili,505509]]'
+- '[[_Standards/WikiData/WD~Ve,609434]]'
+- '[[_Standards/WikiData/WD~Hœnir,836029]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 mother: '[[_Standards/WikiData/WD~Bestla,830622]]'
 said_to_be_the_same_as:
-  - '[[_Standards/WikiData/WD~Grímnir,1262034]]'
-  - '[[_Standards/WikiData/WD~Gestumblindi,1519694]]'
-  - '[[_Standards/WikiData/WD~Wōdan,2643721]]'
-  - '[[_Standards/WikiData/WD~Billy_Blind,4912222]]'
-  - '[[_Standards/WikiData/WD~Woden,61354834]]'
+- '[[_Standards/WikiData/WD~Grímnir,1262034]]'
+- '[[_Standards/WikiData/WD~Gestumblindi,1519694]]'
+- '[[_Standards/WikiData/WD~Wōdan,2643721]]'
+- '[[_Standards/WikiData/WD~Billy_Blind,4912222]]'
+- '[[_Standards/WikiData/WD~Woden,61354834]]'
 occupation:
-  - '[[_Standards/WikiData/WD~dragonslayer,1365214]]'
-  - '[[_Standards/WikiData/WD~King_of_the_Gods,1589492]]'
+- '[[_Standards/WikiData/WD~dragonslayer,1365214]]'
+- '[[_Standards/WikiData/WD~King_of_the_Gods,1589492]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~King_of_the_Gods,1589492]]'
-  - '[[_Standards/WikiData/WD~Norse_deity,16513881]]'
-  - '[[_Standards/WikiData/WD~war_deity,41863069]]'
+- '[[_Standards/WikiData/WD~King_of_the_Gods,1589492]]'
+- '[[_Standards/WikiData/WD~Norse_deity,16513881]]'
+- '[[_Standards/WikiData/WD~war_deity,41863069]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q134996562,134996562]]'
 Commons_category: Odin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NKS%201867%204to%2C%2097v%2C%20Odin%20on%20Sleipnir.jpg
 Libris_URI: b8nqq2fv3k46nsj
 Krugosvet_article_archived_:
-  - kultura_i_obrazovanie/religiya/ODIN.html
-  - religiya/vodan
+- kultura_i_obrazovanie/religiya/ODIN.html
+- religiya/vodan
+dv_has_:
+  name_:
+    af: Odin
+    ang: Wōden
+    ar: أودين
+    arz: اودن
+    as: অডিন
+    ast: Odín
+    az: Odin
+    ba: Один
+    bar: Wodan
+    be: Одзін
+    be-tarask: Одын
+    bg: Один
+    bn: ওডিন
+    br: Odin
+    bs: Odin
+    ca: Odin
+    ckb: ئۆدن
+    cs: Ódin
+    cy: Odin
+    da: Odin
+    de: Odin
+    el: Όντιν
+    en: Odin
+    eo: Odino
+    es: Odín
+    et: Odin
+    eu: Odin
+    fa: اودین
+    fi: Odin
+    fo: Óðin
+    fr: Odin
+    fy: Weda
+    ga: Óidin
+    gl: Odín
+    gsw: Wotan
+    he: אודין
+    hr: Odin
+    hu: Odin
+    hy: Օդին
+    ia: Odin
+    id: Odin
+    ie: Odin
+    io: Odin
+    is: Óðinn
+    it: Odino
+    ja: オーディン
+    jv: Odin
+    ka: ოდინი
+    kk: Один
+    ko: 오딘
+    ksh: Odin
+    ku: Odîn
+    la: Othinus
+    lb: Odin
+    lfn: Odin
+    lmo: Odin
+    lt: Odinas
+    lv: Odins
+    mk: Один
+    mni: ꯑꯣꯗꯤꯟ
+    ms: Odin
+    my: အိုးဒင်နတ်ဘုရား
+    nan: Odin
+    nb: Odin
+    nl: Odin
+    nn: Odin
+    oc: Odin
+    os: Один
+    pl: Odyn
+    pt: Odin
+    ro: Odin
+    ru: Один
+    sco: Odin
+    sh: Odin
+    shi: Odin
+    sk: Odin
+    sl: Odin
+    sq: Odin
+    sr: Один
+    sr-ec: Один
+    stq: Woodan
+    sv: Oden
+    th: โอดินน์
+    tk: Odin
+    tl: Odin
+    tr: Odin
+    tt: Один
+    tt-cyrl: Один
+    uk: Одін
+    uz: Odin
+    vi: Odin
+    vls: Odin
+    war: Odin
+    wuu: 奥丁
+    yi: אָדין
+    yue: 奧丁
+    zh: 奥丁
 ---
-
 # [[Odin]] 
 
 #is_/same_as :: [[WD~Odin,43610]] 

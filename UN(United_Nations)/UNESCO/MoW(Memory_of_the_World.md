@@ -3,8 +3,8 @@ aliases:
   - MoW
   - MoW(Memory_of_the_World
   - MoW(Memory of the World
+has_id_wikidata: Q473858
 ---
-
 > [[../UNESCO|UNESCO]]'s **Memory of the World** (MoW) Programme is an international initiative 
 > launched to safeguard the documentary heritage of humanity 
 > against collective amnesia, neglect, decay over time and climatic conditions, as well as deliberate destruction. 

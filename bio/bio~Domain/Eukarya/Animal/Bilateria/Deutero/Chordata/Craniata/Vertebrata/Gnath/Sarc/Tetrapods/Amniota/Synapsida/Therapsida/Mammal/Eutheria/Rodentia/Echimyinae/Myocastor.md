@@ -1,4 +1,57 @@
-
+---
+has_id_wikidata: Q10795801
+dv_has_:
+  name_:
+    an: Myocastor
+    ast: Myocastor
+    avk: Saskool (Myocastor)
+    bg: нутрии
+    ca: Myocastor
+    ceb: Myocastor
+    cs: nutrie
+    de: Myocastor
+    en: Myocastor
+    eo: Myocastor
+    es: Myocastor
+    eu: Myocastor
+    ext: Myocastor
+    fi: Myocastor
+    fr: Myocastor
+    ga: Myocastor
+    gl: Myocastor
+    hu: Myocastor
+    ia: Myocastor
+    ie: Myocastor
+    io: Myocastor
+    it: Myocastor
+    la: Myocastor
+    mul: Myocastor
+    nl: Myocastor
+    oc: Myocastor
+    pl: Nutria
+    pt: Myocastor
+    pt-br: Myocastor
+    ro: Myocastor
+    ru: Myocastor
+    sl: Myocastor
+    sq: Myocastor
+    sr: Myocastor
+    uk: Myocastor
+    vi: Myocastor
+    vo: Myocastor
+    war: Myocastor
+    zh: 海狸鼠属
+    zh-cn: 海狸鼠属
+    zh-tw: 海貍鼠屬
+aliases:
+- Myocastor
+- Nutria
+- nutrie
+- Saskool (Myocastor)
+- нутрии
+- 海狸鼠属
+- 海貍鼠屬
+---
 ## #has_/text_of_/abstract 
 
 > **Myocastor** is a genus of rodent 

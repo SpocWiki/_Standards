@@ -1,4 +1,78 @@
-
+---
+has_id_wikidata: Q622360
+dv_has_:
+  name_:
+    ar: صوان
+    ast: cómoda
+    ba: комод
+    be: камод
+    be-tarask: камода
+    ca: calaixera
+    csb: kòmóda
+    da: kommode
+    de: Kommode
+    eml: còmda
+    en: commode
+    eo: komodo
+    es: cómoda
+    et: kummut
+    eu: komoda
+    fi: lipasto
+    fr: commode
+    gd: bòrd-sgeadachaidh
+    gl: cómoda
+    hr: komoda
+    io: komodo
+    it: commode
+    ja: 箪笥
+    ko: 코모드
+    lb: kommoud
+    nap: culunnetta
+    nb: kommode
+    nds-nl: ankleedtafel
+    nl: commode
+    pl: komoda
+    pt: cômoda
+    pt-br: cômoda
+    ru: комод
+    scn: cantaranu
+    sl: komoda
+    sr: komoda
+    sv: kommod
+    tr: konsol
+    uk: комод
+    wuu: 五斗橱
+    yue: 桶櫃
+    zh: 五斗柜
+aliases:
+- ankleedtafel
+- bòrd-sgeadachaidh
+- calaixera
+- cantaranu
+- commode
+- culunnetta
+- còmda
+- cómoda
+- cômoda
+- kommod
+- kommode
+- kommoud
+- komoda
+- komodo
+- konsol
+- kummut
+- kòmóda
+- lipasto
+- камод
+- камода
+- комод
+- صوان
+- 五斗柜
+- 五斗橱
+- 桶櫃
+- 箪笥
+- 코모드
+---
 # [[Commode]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Commode,622360|WD~Commode,622360]] 

@@ -1,9 +1,67 @@
 ---
 aliases:
-  - chemical industry
-  - Chemical_Industry
-  - chemische Industrie
-  - Chemical Industry
+- chemical industry
+- Chemical_Industry
+- Chemický priemysel
+- chemický průmysl
+- chemijos pramonė
+- chemische Industrie
+- công nghiệp hóa chất
+- hemijska industrija
+- industri kimia
+- industria chimica
+- industria chimică
+- Industria kimike
+- Industria kimiko
+- Industria quimica
+- industria química
+- Industria químico
+- industrie chimique
+- Industriya hin kimikal
+- indústria química
+- keemiatööstus
+- kemianteollisuus
+- kemiaráhtulâšvuotâ
+- kemijska industrija
+- kemisk industri
+- kemična industrija
+- Kimya endüstrisi
+- Kimyo sanoati
+- kjemisk industri
+- przemysł chemiczny
+- pîşesaziya kîmyawî
+- vegyipar
+- ĥemioindustrio
+- Ķīmiskā rūpniecība
+- χημική βιομηχανία
+- хімічна промисловість
+- хімічная прамысловасць
+- хімічная прамысловасьць
+- хемијска индустрија
+- хемиска индустрија
+- хими промышленность
+- Химийн Үйлдвэрлэл
+- Химическа промишленост
+- химическая промышленность
+- химия сәнәгате
+- Химия өнеркәсібі
+- Химиялык өнөр жайлар
+- քիմիական արտադրություն
+- תעשייה כימית
+- صناعة كيميائية
+- صنایع شیمیایی
+- रासायनिक उद्योग
+- রাসায়নিক শিল্প
+- வேதித் தொழிற்துறை
+- రసాయన పరిశ్రమ
+- රසායනික කර්මාන්ත
+- ကုန်ထုတ်ဓာတုဗေဒ
+- ၵုၼ်ႇထၢတ်ႈ
+- ქიმიური მრეწველობა
+- 化学工业
+- 化学工業
+- 化學工業
+- 화학공업
 has_id_wikidata: Q207652
 instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
 product_or_material_produced: '[[_Standards/WikiData/WD~chemical_product,1069267]]'
@@ -19,8 +77,88 @@ P8189: 987007284923005171
 UMLS_CUI: C0007983
 Commons_category: Chemical industry
 MeSH_tree_code: J01.576.655.437
+dv_has_:
+  name_:
+    ar: صناعة كيميائية
+    ast: Industria químico
+    be: хімічная прамысловасць
+    be-tarask: хімічная прамысловасьць
+    bg: Химическа промишленост
+    bn: রাসায়নিক শিল্প
+    ca: indústria química
+    cs: chemický průmysl
+    da: kemisk industri
+    de: Chemische Industrie
+    el: χημική βιομηχανία
+    en: chemical industry
+    en-ca: Chemical industry
+    en-gb: chemical industry
+    eo: ĥemioindustrio
+    es: industria química
+    et: keemiatööstus
+    eu: Industria kimiko
+    fa: صنایع شیمیایی
+    fi: kemianteollisuus
+    fr: industrie chimique
+    gl: industria química
+    he: תעשייה כימית
+    hi: रासायनिक उद्योग
+    hr: kemijska industrija
+    hu: vegyipar
+    hy: քիմիական արտադրություն
+    id: industri kimia
+    it: industria chimica
+    ja: 化学工業
+    ka: ქიმიური მრეწველობა
+    kk: Химия өнеркәсібі
+    ko: 화학공업
+    ku: pîşesaziya kîmyawî
+    ku-latn: pîşesaziya kîmyawî
+    ky: Химиялык өнөр жайлар
+    lt: chemijos pramonė
+    lv: Ķīmiskā rūpniecība
+    mk: хемиска индустрија
+    mn: Химийн Үйлдвэрлэл
+    ms: Industri kimia
+    my: ကုန်ထုတ်ဓာတုဗေဒ
+    nb: kjemisk industri
+    nl: chemische industrie
+    nn: kjemisk industri
+    oc: Industria quimica
+    pl: przemysł chemiczny
+    pt: indústria química
+    pt-br: Indústria química
+    ro: industria chimică
+    ru: химическая промышленность
+    sh: hemijska industrija
+    shn: ၵုၼ်ႇထၢတ်ႈ
+    si: රසායනික කර්මාන්ත
+    sk: Chemický priemysel
+    sl: kemična industrija
+    smn: kemiaráhtulâšvuotâ
+    sq: Industria kimike
+    sr: хемијска индустрија
+    sr-ec: Хемијска индустрија
+    sr-el: Hemijska industrija
+    sv: kemisk industri
+    ta: வேதித் தொழிற்துறை
+    te: రసాయన పరిశ్రమ
+    tr: Kimya endüstrisi
+    tt: химия сәнәгате
+    udm: хими промышленность
+    uk: хімічна промисловість
+    uz: Kimyo sanoati
+    vi: công nghiệp hóa chất
+    war: Industriya hin kimikal
+    yue: 化學工業
+    zh: 化学工业
+    zh-cn: 化学工业
+    zh-hans: 化学工业
+    zh-hant: 化學工業
+    zh-hk: 化學工業
+    zh-sg: 化学工业
+    zh-tw: 化學工業
 ---
-
 # [[Chemical_Industry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Chemical_industry,207652|WD~Chemical_industry,207652]] 

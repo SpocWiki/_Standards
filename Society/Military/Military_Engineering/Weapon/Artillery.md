@@ -1,16 +1,95 @@
 ---
 aliases:
-  - Artillery
+- Aatilari
+- airtléire
+- artigghiarìa
+- artiglieria
+- Artijerìa
+- Artileri
+- Artileria
+- artilerie
+- artilerija
+- artilerio
+- Artileriya
+- artilharia
+- Artilharie
+- Artilhariá
+- Artiliarie
+- Artilieria
+- Artiljerija
+- Artillaría
+- artilleri
+- artilleria
+- artillerie
+- artilleriya
+- Artillery
+- artillería
+- Artillrie
+- Artilrio
+- artilērija
+- Artiri
+- artyleria
+- artyleryjŏ
+- Artëleriô
+- delostrelectvo
+- dělostřelectvo
+- Kanolierezh
+- Magnelaeth
+- Pampaigkas
+- pháo
+- Stórskotalið
+- Suurtükivägi
+- Top
+- Topništvo
+- Tormenta
+- tykistö
+- tüzérség
+- Tōa-phàu
+- Zambarak
+- Πυροβολικό
+- артиљерија
+- артилерія
+- артилерија
+- артилерия
+- артиллери
+- артиллерия
+- артылерыя
+- Их буу
+- Сүйемелдеуші артиллерия
+- тӯпхона
+- հրետանի
+- ארטילריה
+- توپ خانہ
+- توپخانه
+- تۆپھاوێژ
+- مدفعية
+- مدفعيه
+- तोपख़ाना
+- तोफखाना
+- তোপ
+- பீரங்கி
+- കവചിതസേന
+- කාලතුවක්කු
+- ปืนใหญ่
+- အမြောက်
+- არტილერია
+- 大炮
+- 大砲
+- 槍炮
+- 火炮
+- 炮
+- 礮
+- 대포
 has_id_wikidata: Q64418
 described_by_source:
-  - '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from: '[[_Standards/WikiData/WD~artillery,1116728]]'
 used_by: '[[_Standards/WikiData/WD~artillery,1116728]]'
 subclass_of: '[[_Standards/WikiData/WD~projectile_weapon,1194773]]'
@@ -24,12 +103,120 @@ Library_of_Congress_Classification: UF
 Commons_gallery: Artillery
 Commons_category: Artillery
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dos%20de%20mayo%2C%20por%20Joaqu%C3%ADn%20Sorolla.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Artillery%20maneuvers%2C%20Camp%20Livingston%2C%20La.%20%288185138397%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dos%20de%20mayo%2C%20por%20Joaqu%C3%ADn%20Sorolla.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Artillery%20maneuvers%2C%20Camp%20Livingston%2C%20La.%20%288185138397%29.jpg
 P8189: 987007294962005171
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/ARTILLERIYA.html
+dv_has_:
+  name_:
+    af: artillerie
+    an: Artillería
+    ar: مدفعية
+    arz: مدفعيه
+    ast: Artillería
+    az: artilleriya
+    ba: артиллерия
+    be: артылерыя
+    be-tarask: артылерыя
+    bg: артилерия
+    bn: তোপ
+    br: Kanolierezh
+    bs: Artiljerija
+    bxr: Артиллери
+    ca: artilleria
+    ce: артиллери
+    ceb: Artileriya
+    ckb: تۆپھاوێژ
+    cs: dělostřelectvo
+    csb: Artëleriô
+    cv: Артиллери
+    cy: Magnelaeth
+    da: artilleri
+    de: Artillerie
+    el: Πυροβολικό
+    en: artillery
+    eo: artilerio
+    es: artillería
+    et: Suurtükivägi
+    eu: Artilleria
+    fa: توپخانه
+    fi: tykistö
+    fr: artillerie
+    fur: Artiliarie
+    fy: Artillery
+    ga: airtléire
+    gan: 炮
+    gcr: Artiri
+    gl: Artillaría
+    ha: Artillery
+    he: ארטילריה
+    hi: तोपख़ाना
+    hr: Topništvo
+    hu: tüzérség
+    hy: հրետանի
+    id: Artileri
+    io: Artilrio
+    is: Stórskotalið
+    it: artiglieria
+    ja: 大砲
+    jam: Aatilari
+    ka: არტილერია
+    kk: Сүйемелдеуші артиллерия
+    ko: 대포
+    ky: Артиллерия
+    la: Tormenta
+    li: Artillerie
+    lmo: Artilieria
+    lt: artilerija
+    lv: artilērija
+    lzh: 礮
+    mk: артилерија
+    ml: കവചിതസേന
+    mn: Их буу
+    mr: तोफखाना
+    ms: artileri
+    mwl: Artilharie
+    my: အမြောက်
+    nan: Tōa-phàu
+    nb: artilleri
+    nl: artillerie
+    nn: artilleri
+    oc: Artilhariá
+    pcd: Artillrie
+    pl: artyleria
+    pms: Artijerìa
+    pnb: توپ خانہ
+    pt: artilharia
+    ro: artilerie
+    ru: артиллерия
+    scn: artigghiarìa
+    sco: artillery
+    sh: artiljerija
+    si: කාලතුවක්කු
+    sk: delostrelectvo
+    sl: artilerija
+    sq: Artileria
+    sr: артиљерија
+    sr-ec: артиљерија
+    sr-el: artiljerija
+    sv: artilleri
+    szl: artyleryjŏ
+    ta: பீரங்கி
+    tg: тӯпхона
+    th: ปืนใหญ่
+    tl: Pampaigkas
+    tr: Top
+    tt: артиллерия
+    uk: артилерія
+    uz: Zambarak
+    vi: pháo
+    wuu: 大炮
+    yue: 槍炮
+    zh: 火炮
+    zh-hans: 火炮
+    zh-hant: 火炮
+    zh-tw: 火炮
 ---
-
 # [[Artillery]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Artillery,64418|WD~Artillery,64418]] 

@@ -1,15 +1,80 @@
 ---
 aliases:
-  - Electronic component
-  - Electronic_Component
-  - Electronic Component
+- component electronic
+- component electrònic
+- Component eletrònich
+- componente electronic
+- componente electrónico
+- componente electrónicu
+- componente eletrônico
+- componente elettronico
+- composant électronique
+- compoñente electrónico
+- cumpunenti elittrònicu
+- cydran electronig
+- Electronic component
+- Electronic_Component
+- Elektron komponentlar
+- elektronická součástka
+- elektronická súčiastka
+- Elektroniese komponent
+- Elektronik devre elemanları
+- elektronika ero
+- elektronikus alkatrész
+- elektroninen komponentti
+- Elektronisch Boelement
+- elektronisch component
+- elektronisches Bauelement
+- elektronisk komponent
+- elektroniskais komponents
+- elektronička komponenta
+- Elektronska komponenta
+- Elektronske komponente
+- elektronski element
+- Elektroonikakomponentide loend
+- element elektroniczny
+- elementum electronicum
+- Isigcoyi samazuba
+- Komponen elektronik
+- linh kiện điện tử
+- Listn elektrischa Bauelemente
+- osagai elektroniko
+- pezh elektronek
+- Rafeindaíhlutur
+- Tiān-chú goân-kiāⁿ
+- ηλεκτρονικό εξάρτημα
+- Електронен компонент
+- електронні компоненти
+- електронска компонента
+- електронски дел
+- Электрон бүрэлдэхүүн хэсэг
+- электронны складнік
+- электронный компонент
+- էլեկտրոնային բաղադրիչ
+- עלעקטרישער באשטאנדטייל
+- רכיב אלקטרוני
+- الکترونیکی قطعه
+- برقی جزیات
+- قطعات الکترونیکی
+- مكون إلكتروني
+- इलेक्ट्रॉनिक अवयव
+- ইলেকট্রনীয় যন্ত্রের উপাদান
+- மின்கூறு
+- ชิ้นส่วนอิเล็กทรอนิกส์
+- ສ່ວນປະກອບເອເລັກໂຕຣນິກ
+- គ្រឿងអេឡិចត្រូនិច
+- 电子元件
+- 電子元件
+- 電子部品
+- 電子零件
+- 전자 부품
 has_id_wikidata: Q11653
 Commons_category: Electronic components
 different_from: '[[_Standards/WikiData/WD~electrical_element,210729]]'
 has_characteristic:
-  - '[[_Standards/WikiData/WD~concreteness,2992210]]'
-  - '[[_Standards/WikiData/WD~electrical_function,45915971]]'
-  - '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+- '[[_Standards/WikiData/WD~concreteness,2992210]]'
+- '[[_Standards/WikiData/WD~electrical_function,45915971]]'
+- '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
 has_part_s_: '[[_Standards/WikiData/WD~electrical_terminal,182610]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Componentes.JPG
 instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
@@ -17,16 +82,100 @@ manifestation_of: '[[_Standards/WikiData/WD~electrical_element,210729]]'
 part_of: '[[_Standards/WikiData/WD~electronic_system,65280844]]'
 produced_sound: '[[_Standards/WikiData/WD~electromagnetically_induced_acoustic_noise,5141464]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electrical_element,210729]]'
-  - '[[_Standards/WikiData/WD~electronic_product,116961643]]'
+- '[[_Standards/WikiData/WD~electrical_element,210729]]'
+- '[[_Standards/WikiData/WD~electronic_product,116961643]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Infobox_electronic_component,6022386]]'
-  - '[[_Standards/WikiData/WD~Template_Electronic_components,8084347]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_electronic_component,6022386]]'
+- '[[_Standards/WikiData/WD~Template_Electronic_components,8084347]]'
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 used_by: '[[_Standards/WikiData/WD~electronic_circuit,1815901]]'
 uses: '[[_Standards/WikiData/WD~lead,947546]]'
+dv_has_:
+  name_:
+    af: Elektroniese komponent
+    ar: مكون إلكتروني
+    ast: componente electrónicu
+    azb: الکترونیکی قطعه
+    bar: Listn elektrischa Bauelemente
+    be-tarask: электронны складнік
+    bg: Електронен компонент
+    bn: ইলেকট্রনীয় যন্ত্রের উপাদান
+    br: pezh elektronek
+    bs: Elektronska komponenta
+    ca: component electrònic
+    cs: elektronická součástka
+    cy: cydran electronig
+    da: elektronisk komponent
+    de: elektronisches Bauelement
+    el: ηλεκτρονικό εξάρτημα
+    en: electronic component
+    eo: elektronika ero
+    es: componente electrónico
+    et: Elektroonikakomponentide loend
+    eu: osagai elektroniko
+    fa: قطعات الکترونیکی
+    fi: elektroninen komponentti
+    fr: composant électronique
+    gl: compoñente electrónico
+    gsw: elektronisches Bauelement
+    he: רכיב אלקטרוני
+    hi: इलेक्ट्रॉनिक अवयव
+    hr: elektronička komponenta
+    hu: elektronikus alkatrész
+    hy: էլեկտրոնային բաղադրիչ
+    ia: componente electronic
+    id: Komponen elektronik
+    is: Rafeindaíhlutur
+    it: componente elettronico
+    ja: 電子部品
+    km: គ្រឿងអេឡិចត្រូនិច
+    ko: 전자 부품
+    la: elementum electronicum
+    lo: ສ່ວນປະກອບເອເລັກໂຕຣນິກ
+    lv: elektroniskais komponents
+    mk: електронски дел
+    mn: Электрон бүрэлдэхүүн хэсэг
+    ms: komponen elektronik
+    nan: Tiān-chú goân-kiāⁿ
+    nb: elektronisk komponent
+    nds: Elektronisch Boelement
+    nl: elektronisch component
+    nn: elektronisk komponent
+    pl: element elektroniczny
+    pms: Component eletrònich
+    pt: componente eletrônico
+    pt-br: componente eletrônico
+    ro: component electronic
+    ru: электронный компонент
+    scn: cumpunenti elittrònicu
+    sh: Elektronske komponente
+    sk: elektronická súčiastka
+    sl: elektronski element
+    sr: електронска компонента
+    sr-ec: електронска компонента
+    sr-el: elektronska komponenta
+    sv: elektronisk komponent
+    ta: மின்கூறு
+    th: ชิ้นส่วนอิเล็กทรอนิกส์
+    tr: Elektronik devre elemanları
+    uk: електронні компоненти
+    ur: برقی جزیات
+    uz: Elektron komponentlar
+    vi: linh kiện điện tử
+    wuu: 电子元件
+    yi: עלעקטרישער באשטאנדטייל
+    yue: 電子零件
+    zh: 电子元件
+    zh-cn: 电子元件
+    zh-hans: 电子元件
+    zh-hant: 電子元件
+    zh-hk: 電子元件
+    zh-mo: 電子元件
+    zh-my: 电子元件
+    zh-sg: 电子元件
+    zh-tw: 電子元件
+    zu: Isigcoyi samazuba
 ---
-
 # [[Electronic_Component]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electronic_component,11653|WD~Electronic_component,11653]] 

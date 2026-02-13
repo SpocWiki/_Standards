@@ -1,16 +1,65 @@
 ---
 aliases:
-  - Sawfish
-  - carpenter sharks
-  - Sägefisch
-  - Sägerochen
-  - Pristidae
-  - pexe xerra
-  - pilarji
+- Ara-balıqtar
+- Arratumshuq baliqlar
+- Bộ Cá đao
+- carpenter sharks
+- Chį́į́h yee achʼiishíhii
+- fűrészesrájafélék
+- Ikan gergaji
+- pari gergaji
+- Peix serra
+- Peixes serra
+- Pesk-heskenn
+- pexe xerra
+- pilarji
+- Pilašice
+- pilounovití
+- Piłowate
+- Pjūklažuvės
+- Pristidae
+- Pristiformes
+- Pristis
+- saagrailased
+- sagskater
+- Sagskötur
+- saharauskukalat
+- Savfisk
+- Sawfish
+- Segilorajo
+- sábh mara
+- Sägefisch
+- Sägerochen
+- Sågfiskar
+- Tag-an
+- Testerača
+- Zaagvissen
+- Zerra-arrain
+- Πριονόψαρο
+- Ара-балықтар
+- пилорылые скаты
+- Риба-пила
+- Риби трион
+- מסורניים
+- آرا مچھلی
+- آرہ مچھلی
+- ارا-بالىقتار
+- ارهماهی
+- قوبعيات منشارية
+- قوبعيات منشاريه
+- میشار بالیغی
+- வேளா மீன்
+- ಗರಗಸ ಮೀನು
+- ปลาฉนาก
+- ხერხთევზა
+- ノコギリエイ科
+- 鋸鰩科
+- 锯鳐科
+- 톱가오리
 has_id_wikidata: Q190736
 described_by_source:
-  - '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
 different_from: '[[_Standards/WikiData/WD~Pristiophoridae,3404184]]'
 parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Rhinopristiformes,25366201]]'
@@ -24,10 +73,96 @@ UMLS_CUI: C0327688
 Commons_category: Pristidae
 taxon_name: Pristidae
 taxon_common_name:
-  - pexe xerra
-  - pilarji
+- pexe xerra
+- pilarji
+dv_has_:
+  name_:
+    af: Pristiformes
+    an: Pristidae
+    ar: قوبعيات منشارية
+    arz: قوبعيات منشاريه
+    ast: Pristidae
+    azb: میشار بالیغی
+    be-tarask: Pristidae
+    bg: Риби трион
+    br: Pesk-heskenn
+    ca: Peix serra
+    ceb: Pristidae
+    cs: pilounovití
+    da: Savfisk
+    de: Sägerochen
+    de-ch: Sägerochen
+    el: Πριονόψαρο
+    en: Pristidae
+    en-ca: Sawfish
+    en-gb: Sawfish
+    eo: Segilorajo
+    es: Pristiformes
+    et: saagrailased
+    eu: Zerra-arrain
+    ext: Pristidae
+    fa: ارهماهی
+    fi: saharauskukalat
+    fr: Pristidae
+    ga: sábh mara
+    gl: Peixes serra
+    he: מסורניים
+    hr: Pilašice
+    hu: fűrészesrájafélék
+    ia: Pristidae
+    id: Ikan gergaji
+    ie: Pristidae
+    io: Pristidae
+    is: Sagskötur
+    it: Pristidae
+    ja: ノコギリエイ科
+    ka: ხერხთევზა
+    kk: Ара-балықтар
+    kk-arab: ارا-بالىقتار
+    kk-cn: ارا-بالىقتار
+    kk-cyrl: Ара-балықтар
+    kk-kz: Ара-балықтар
+    kk-latn: Ara-balıqtar
+    kk-tr: Ara-balıqtar
+    kn: ಗರಗಸ ಮೀನು
+    ko: 톱가오리
+    la: Pristis
+    lt: Pjūklažuvės
+    ms: pari gergaji
+    mul: Pristidae
+    nl: Zaagvissen
+    nn: sagskater
+    nv: Chį́į́h yee achʼiishíhii
+    oc: Pristidae
+    pl: Piłowate
+    pt: Pristidae
+    pt-br: Pristidae
+    ro: Pristidae
+    ru: пилорылые скаты
+    skr: آرا مچھلی
+    sl: pilarji
+    sq: Pristidae
+    sr: Testerača
+    sv: Sågfiskar
+    ta: வேளா மீன்
+    th: ปลาฉนาก
+    tl: Tag-an
+    tr: Pristidae
+    uk: Риба-пила
+    ur: آرہ مچھلی
+    uz: Arratumshuq baliqlar
+    vi: Bộ Cá đao
+    vo: Pristidae
+    war: Pristidae
+    yue: 鋸鰩科
+    zh: 锯鳐科
+    zh-cn: 锯鳐科
+    zh-hans: 锯鳐科
+    zh-hant: 鋸鰩科
+    zh-hk: 鋸鰩科
+    zh-sg: 锯鳐科
+    zh-tw: 鋸鰩科
 ---
-
 # [[Pristidae]] 
 
 #is_/same_as :: [[WD~Pristidae,190736]] 

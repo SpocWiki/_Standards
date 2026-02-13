@@ -1,9 +1,177 @@
 ---
 aliases:
-  - Pteromyini
+- Anẓid amaylal
+- Bajing terbang
+- Duzmbangq
+- Esquilo-voador
+- Esquirol volador
+- Fleanende iikhoarntsjes
+- Flugsciuro
+- flygeekorn
+- Flygekorrar
+- flying squirrel
+- Fî-chhú
+- Gleithörnchen
+- Gwiñver-nij
+- Hazéí naatʼáʼii
+- Katagorri hegalari
+- lawal
+- lendoravad
+- Lidvāveres
+- Poe-chhí
+- Polatuchy
+- Poletuchy
+- Pteromyinae
+- Pteromyini
+- Rapit
+- repülő mókusok
+- scoiattolo volante
+- sóc bay
+- Tompin
+- Tupai terbang
+- vleagnde kateker
+- vliegende eekhoorns
+- yapit
+- Ιπτάμενος Σκίουρος
+- Абыргандар
+- літяга
+- Летећа веверица
+- летечка верверица
+- летяги
+- летящи катерици
+- Нэтээгитиҥилэр кэргэннэрэ
+- Палятухі
+- палятухавыя
+- Ұшарлар
+- Սկյուռակ
+- סנאים דואים
+- اڈنا گالڑ
+- سنجاب طائر
+- سنجاب پرنده
+- उड़न गिलहरी
+- राजपंखी लोखेर्के
+- शेकरू
+- ਉੱਡਣੀ ਕਾਟੋ
+- പാറാൻ
+- กระรอกบิน
+- བྱ་མ་བྱི།
+- ရှူးပျံ
+- ᑕᐧᔐᔫᓂᑯᒑᔥ
+- ᡠᠮᡴᡳᠶᠠ
+- モモンガ
+- 鼯鼠
+- 鼯鼠族
+- 날다람쥐족
 title: Pteromyini
+has_id_wikidata: Q9490
+dv_has_:
+  name_:
+    af: Pteromyinae
+    an: Pteromyinae
+    ar: سنجاب طائر
+    arz: سنجاب طائر
+    ast: Pteromyini
+    be: палятухавыя
+    be-tarask: Палятухі
+    bg: летящи катерици
+    bo: བྱ་མ་བྱི།
+    br: Gwiñver-nij
+    bs: Pteromyinae
+    ca: Esquirol volador
+    ceb: Pteromyinae
+    cr: ᑕᐧᔐᔫᓂᑯᒑᔥ
+    cs: Poletuchy
+    cy: Pteromyinae
+    da: Pteromyinae
+    de: Gleithörnchen
+    dtp: Tompin
+    el: Ιπτάμενος Σκίουρος
+    en: Pteromyini
+    en-ca: flying squirrel
+    en-gb: flying squirrel
+    eo: Flugsciuro
+    es: Pteromyini
+    et: lendoravad
+    eu: Katagorri hegalari
+    ext: Pteromyini
+    fa: سنجاب پرنده
+    fi: Pteromyinae
+    fr: Pteromyini
+    fy: Fleanende iikhoarntsjes
+    ga: Pteromyini
+    gl: Pteromyinae
+    gsw: Pteromyinae
+    hak: Fî-chhú
+    he: סנאים דואים
+    hi: उड़न गिलहरी
+    hr: Pteromyinae
+    hu: repülő mókusok
+    hy: Սկյուռակ
+    ia: Pteromyini
+    id: Bajing terbang
+    ie: Pteromyini
+    io: Pteromyini
+    is: Pteromyinae
+    it: scoiattolo volante
+    ja: モモンガ
+    kab: Anẓid amaylal
+    kk: Ұшарлар
+    ko: 날다람쥐족
+    ky: Абыргандар
+    la: Pteromyini
+    lb: Pteromyinae
+    lmo: Pteromyinae
+    lt: Pteromyinae
+    lv: Lidvāveres
+    lzh: 鼯鼠
+    mk: летечка верверица
+    ml: പാറാൻ
+    mnc: ᡠᠮᡴᡳᠶᠠ
+    mr: शेकरू
+    ms: Tupai terbang
+    mul: Pteromyini
+    my: ရှူးပျံ
+    nan: Poe-chhí
+    nb: flygeekorn
+    nds: Pteromyinae
+    nds-nl: vleagnde kateker
+    ne: राजपंखी लोखेर्के
+    nl: vliegende eekhoorns
+    nn: Pteromyinae
+    nv: Hazéí naatʼáʼii
+    oc: Pteromyini
+    pa: ਉੱਡਣੀ ਕਾਟੋ
+    pl: Polatuchy
+    pms: Pteromyinae
+    pnb: اڈنا گالڑ
+    pt: Esquilo-voador
+    pt-br: Esquilo-voador
+    ro: Pteromyinae
+    ru: летяги
+    sah: Нэтээгитиҥилэр кэргэннэрэ
+    sk: Pteromyinae
+    sl: Pteromyinae
+    sq: Pteromyinae
+    sr: Летећа веверица
+    sv: Flygekorrar
+    szy: lawal
+    tay: yapit
+    th: กระรอกบิน
+    tr: Pteromyinae
+    trv: Rapit
+    uk: літяга
+    vec: Pteromyinae
+    vi: sóc bay
+    vo: Pteromyini
+    wa: Pteromyinae
+    war: Pteromyini
+    yue: 鼯鼠
+    za: Duzmbangq
+    zh: 鼯鼠族
+    zh-cn: 鼯鼠族
+    zh-hans: 鼯鼠族
+    zh-tw: 鼯鼠族
 ---
-
 # [[Pteromyini]] 
 
 ## #has_/text_of_/abstract 

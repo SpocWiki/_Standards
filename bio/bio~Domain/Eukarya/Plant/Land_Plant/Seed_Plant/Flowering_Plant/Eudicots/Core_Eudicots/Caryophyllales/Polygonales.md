@@ -1,9 +1,66 @@
 ---
 aliases:
-  - Polygonales
+- Bộ Rau răm
+- dresnovci
+- Poligonaloj
+- Polygonales
+- Qırxbuğumçiçəklilər
+- rdesnotvaré
+- rdestowce
+- Rūgtiečiai
+- троскотовидни
+- البطباطيات
+- متعدد الاضلاع
+- 마디풀목
 title: non-core Caryophyllales
+has_id_wikidata: Q923240
+dv_has_:
+  name_:
+    an: Polygonales
+    ar: البطباطيات
+    arz: متعدد الاضلاع
+    ast: Polygonales
+    az: Qırxbuğumçiçəklilər
+    bg: Polygonales
+    ca: Polygonales
+    ceb: Polygonales
+    cs: rdesnotvaré
+    de: Polygonales
+    en: Polygonales
+    eo: Poligonaloj
+    es: Polygonales
+    eu: Polygonales
+    ext: Polygonales
+    fi: Polygonales
+    fr: Polygonales
+    ga: Polygonales
+    gl: Polygonales
+    hu: Polygonales
+    ia: Polygonales
+    id: Polygonales
+    ie: Polygonales
+    io: Polygonales
+    it: Polygonales
+    ko: 마디풀목
+    la: Polygonales
+    lt: Rūgtiečiai
+    mk: троскотовидни
+    mul: Polygonales
+    nl: Polygonales
+    nn: Polygonales
+    oc: Polygonales
+    pl: rdestowce
+    pt: Polygonales
+    pt-br: Polygonales
+    ro: Polygonales
+    ru: Polygonales
+    sl: dresnovci
+    sq: Polygonales
+    uk: Polygonales
+    vi: Bộ Rau răm
+    vo: Polygonales
+    war: Polygonales
 ---
-
 # non-core Caryophyllales
 
 ## Polygonales 

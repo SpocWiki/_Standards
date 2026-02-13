@@ -1,4 +1,111 @@
-
+---
+has_id_wikidata: Q484675
+dv_has_:
+  name_:
+    ar: 'ليون: المحترف'
+    ary: ليون
+    arz: 'ليون: المحترف'
+    ast: 'Léon: The Professio'
+    az: Leon
+    be: Леон
+    bg: Леон
+    bn: লেওঁ
+    br: Léon
+    bs: Léon
+    ca: El professional
+    cs: Leon
+    cv: Леон
+    cy: Léon
+    da: Léon
+    de: Léon – Der Profi
+    de-ch: Léon – Der Profi
+    el: 'Léon: The Professional'
+    en: 'Léon: The Professional'
+    en-ca: 'Léon: The Professional'
+    en-gb: 'Léon: The Professional'
+    eo: Léon
+    es: Léon
+    eu: 'Léon: The Professional'
+    fa: لئون
+    fi: Leon
+    fr: Léon
+    ga: 'Léon: The Professional'
+    gl: Léon
+    he: לאון
+    ht: Léon
+    hu: Léon, a profi
+    hy: Լեոն
+    id: Léon
+    it: Léon
+    ja: レオン
+    jbo: leon. to skina toi
+    ka: 'ლეონი: პროფესიონალი'
+    kk: Леон (фильм)
+    ko: 레옹
+    lt: Leonas
+    lv: Leons
+    mn: Леон
+    mzn: لئون (فیلم)
+    nb: Léon
+    nds: Léon
+    nl: Léon
+    pl: Leon zawodowiec
+    pt: Léon
+    pt-br: Léon
+    ro: Léon
+    ru: Леон
+    sco: 'Léon: The Professional'
+    sk: Leon
+    sl: Léon
+    sq: 'Léon: The Professional'
+    sr: Професионалац
+    sr-ec: Професионалац
+    sr-el: Profesionalac
+    sv: Léon
+    tr: 'Leon: Sevginin Gücü'
+    uk: Леон
+    uz: Léon
+    vi: Léon
+    wuu: 箇个杀手弗大冷
+    xmf: 'ლეონი: პროფესიონალი'
+    yue: 這個殺手不太冷
+    zh: 這個殺手不太冷
+    zh-cn: 这个杀手不太冷
+    zh-hans: 这个杀手不太冷
+    zh-hant: 終極追殺令
+    zh-hk: 這個殺手不太冷
+aliases:
+- El professional
+- Leon
+- Leon zawodowiec
+- leon. to skina toi
+- 'Leon: Sevginin Gücü'
+- Leonas
+- Leons
+- Léon
+- Léon – Der Profi
+- Léon, a profi
+- 'Léon: The Professio'
+- 'Léon: The Professional'
+- Profesionalac
+- Леон
+- Леон (фильм)
+- Професионалац
+- Լեոն
+- לאון
+- لئون
+- لئون (فیلم)
+- ليون
+- 'ليون: المحترف'
+- লেওঁ
+- 'ლეონი: პროფესიონალი'
+- レオン
+- 箇个杀手弗大冷
+- 終極追殺令
+- 这个杀手不太冷
+- 這個殺手不太冷
+- 레옹
+---
 > **Léon: The Professional** is a 1994 English-language French action-thriller film 
 > written and directed by [[Luc_Besson]]. It stars [[Jean_Reno]] and [[Gary_Oldman]], 
 > and features the film debut of [[Natalie_Portman]]. 

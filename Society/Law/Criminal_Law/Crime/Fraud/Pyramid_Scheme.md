@@ -1,21 +1,130 @@
 ---
 aliases:
-  - Pilotenspiel
-  - Pyramid_Scheme
-  - Pyramid Scheme
+- Cèl·lules de l'abundància
+- esquema de pirámide
+- esquema em pirâmide
+- financa piramido
+- Financijska piramida
+- Maliyyə piramidası
+- marketing piramidale
+- Pilotenspiel
+- Piramida sreće
+- Piramida sxemasi
+- Piramideskema
+- piramidespel
+- piramidinė schema
+- piramidna shema
+- piramisjáték
+- Pyramid Scheme
+- pyramideforetagende
+- pyramidespel
+- pyramidespill
+- pyramidihuijaus
+- pyramidové schéma
+- pyramidspel
+- Pyramid_Scheme
+- Püramiidskeem
+- saadet zinciri
+- Salmenta piramidal
+- Schema piramidală
+- Schneeballsystem
+- scéim phirimide
+- Skema piramida
+- Skema piramidale
+- Skim piramid
+- sprzedaż lawinowa
+- vente pyramidale
+- Επιχειρηματικό σχήμα πυραμίδας
+- пірамідальна схема
+- пирамид схем
+- Пирамидална шема
+- пирамидальная схема
+- фінансавая піраміда
+- Финансова пирамида
+- Қаржылық пирамида
+- תרמית פירמידה
+- ترفند هرمی
+- تسويق هرمي
+- পনজি স্কিম
+- ธุรกิจแบบพีระมิด
+- 层压式推销
+- 層壓式推銷
+- 無限連鎖講
+- 피라미드 사기
 has_id_wikidata: Q214242
 derivative_work: '[[_Standards/WikiData/WD~Ponzi_scheme,219407]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~business_model,815823]]'
-  - '[[_Standards/WikiData/WD~fraud,28813]]'
+- '[[_Standards/WikiData/WD~business_model,815823]]'
+- '[[_Standards/WikiData/WD~fraud,28813]]'
 OmegaWiki_Defined_Meaning: 1202346
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SistemaGDI.jpg
 Commons_category: Pyramid and Ponzi schemes
 Dewey_Decimal_Classification:
-  - 658.872
-  - 343.072
+- 658.872
+- 343.072
+dv_has_:
+  name_:
+    af: Piramideskema
+    ar: تسويق هرمي
+    az: Maliyyə piramidası
+    be: фінансавая піраміда
+    be-tarask: фінансавая піраміда
+    bg: Финансова пирамида
+    bn: পনজি স্কিম
+    ca: Cèl·lules de l'abundància
+    cs: pyramidové schéma
+    da: pyramideforetagende
+    de: Schneeballsystem
+    de-ch: Schneeballsystem
+    el: Επιχειρηματικό σχήμα πυραμίδας
+    en: pyramid scheme
+    en-ca: pyramid scheme
+    en-gb: pyramid scheme
+    eo: financa piramido
+    es: esquema de pirámide
+    et: Püramiidskeem
+    eu: Salmenta piramidal
+    fa: ترفند هرمی
+    fi: pyramidihuijaus
+    fr: vente pyramidale
+    ga: scéim phirimide
+    he: תרמית פירמידה
+    hr: Piramida sreće
+    hu: piramisjáték
+    id: Skema piramida
+    it: marketing piramidale
+    ja: 無限連鎖講
+    kk: Қаржылық пирамида
+    ko: 피라미드 사기
+    lt: piramidinė schema
+    mn: пирамид схем
+    ms: Skim piramid
+    nb: pyramidespill
+    nl: piramidespel
+    nn: pyramidespel
+    pl: sprzedaż lawinowa
+    pt: esquema em pirâmide
+    pt-br: Esquema em pirâmide
+    ro: Schema piramidală
+    ru: пирамидальная схема
+    sh: Financijska piramida
+    sl: piramidna shema
+    sq: Skema piramidale
+    sr: Пирамидална шема
+    sv: pyramidspel
+    th: ธุรกิจแบบพีระมิด
+    tr: saadet zinciri
+    uk: пірамідальна схема
+    uz: Piramida sxemasi
+    yue: 層壓式推銷
+    zh: 層壓式推銷
+    zh-cn: 层压式推销
+    zh-hans: 层压式推销
+    zh-hant: 層壓式推銷
+    zh-hk: 層壓式推銷
+    zh-sg: 层压式推销
+    zh-tw: 層壓式推銷
 ---
-
 # [[Pyramid_Scheme]] 
 
 #is_/similar_to :: [[Ponzi_Scheme]] 

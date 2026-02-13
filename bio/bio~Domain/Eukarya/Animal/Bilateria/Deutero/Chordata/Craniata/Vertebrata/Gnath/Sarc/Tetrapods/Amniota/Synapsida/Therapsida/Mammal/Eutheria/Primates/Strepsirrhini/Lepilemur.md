@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Lepilemur
+- Bancimol (Lepilemuridae)
+- Dlǫ́ʼiiʼniiʼí
+- fürgemaki
+- kärppämakit
+- Lemur sportif
+- Lemuri-spoti
+- lemurovití noční
+- Lepilemur
+- Lepilemuri
+- Lepilemurlar
+- Lèmur mostela
+- Lépilémur
+- Sireleemurlased
+- Vesslemakier
+- Væsellemurer
+- Vísillemúrar
+- Wezelmaki's
+- Wieselmakis
+- Žebenkštiniai lemūrai
+- Лепілемур
+- лепилемуры
+- Тънкотели лемури
+- למורי ספורט
+- لمورهای ورزشکار
+- ليمور مرح
+- نیولا لیمر
+- イタチキツネザル科
+- 鼬狐猴属
+- 鼬狐猴屬
+- 족제비여우원숭이
 title: Lepilemur
+has_id_wikidata: Q834470
+dv_has_:
+  name_:
+    an: Lepilemur
+    ar: ليمور مرح
+    arz: ليمور مرح
+    ast: Lepilemur
+    avk: Bancimol (Lepilemuridae)
+    az: Lepilemurlar
+    bg: Тънкотели лемури
+    ca: Lèmur mostela
+    ceb: Lepilemur
+    cs: lemurovití noční
+    da: Væsellemurer
+    de: Wieselmakis
+    en: Lepilemur
+    eo: Lepilemur
+    es: Lepilemuri
+    et: Sireleemurlased
+    eu: Lepilemur
+    ext: Lepilemur
+    fa: لمورهای ورزشکار
+    fi: kärppämakit
+    fr: Lépilémur
+    frr: Lepilemur
+    ga: Lepilemur
+    gl: Lepilemur
+    he: למורי ספורט
+    hr: Lepilemuri
+    hu: fürgemaki
+    ia: Lepilemur
+    id: Lemur sportif
+    ie: Lepilemur
+    io: Lepilemur
+    is: Vísillemúrar
+    it: Lepilemur
+    ja: イタチキツネザル科
+    ko: 족제비여우원숭이
+    la: Lepilemur
+    lt: Žebenkštiniai lemūrai
+    mul: Lepilemur
+    nl: Wezelmaki's
+    nv: Dlǫ́ʼiiʼniiʼí
+    oc: Lepilemur
+    pl: Lepilemur
+    pnb: نیولا لیمر
+    pt: Lepilemur
+    pt-br: Lepilemur
+    ro: Lepilemur
+    ru: лепилемуры
+    sh: Lepilemuri
+    sq: Lepilemur
+    sv: Vesslemakier
+    sw: Lemuri-spoti
+    tr: Lepilemur
+    uk: Лепілемур
+    vi: Lepilemuri
+    vo: Lepilemur
+    war: Lepilemur
+    zh: 鼬狐猴屬
+    zh-cn: 鼬狐猴属
+    zh-hans: 鼬狐猴属
+    zh-hant: 鼬狐猴屬
+    zh-hk: 鼬狐猴屬
+    zh-tw: 鼬狐猴屬
 ---
-
 # [[Lepilemur]]
 
 ## Lepilemuridae: Sportive Lemurs, Weasel Lemurs 

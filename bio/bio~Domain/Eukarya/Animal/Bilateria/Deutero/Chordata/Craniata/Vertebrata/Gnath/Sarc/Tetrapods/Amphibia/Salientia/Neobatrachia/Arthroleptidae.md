@@ -1,9 +1,76 @@
 ---
 aliases:
-  - Arthroleptidae
+- Arthroleptidae
+- Artroleptedoj
+- Artroleptowate
+- artrolèptid
+- Kvikuňkovití
+- Langfingerfrösche
+- Naakaii Łizhiní Bikéyahdę́ę́ʼ tsinyiʼ chʼał dóó bikʼéí
+- αρθρολεπτίδες
+- Жаби-верескуни
+- пискунови
+- пискуньи
+- ארטרולפתיים
+- قورباغههای جیرجیری
+- نحيفات المفصل
+- サエズリガエル科
+- 节蛙科
+- 아르트롤렙티스과
 title: Arthroleptidae
+has_id_wikidata: Q55455
+dv_has_:
+  name_:
+    an: Arthroleptidae
+    ar: نحيفات المفصل
+    arz: نحيفات المفصل
+    ast: Arthroleptidae
+    bg: пискунови
+    ca: artrolèptid
+    ceb: Arthroleptidae
+    cs: Kvikuňkovití
+    de: Langfingerfrösche
+    de-ch: Langfingerfrösche
+    el: αρθρολεπτίδες
+    en: Arthroleptidae
+    en-ca: Arthroleptidae
+    en-gb: Arthroleptidae
+    eo: Artroleptedoj
+    es: Arthroleptidae
+    eu: Arthroleptidae
+    ext: Arthroleptidae
+    fa: قورباغههای جیرجیری
+    fi: Arthroleptidae
+    fr: Arthroleptidae
+    ga: Arthroleptidae
+    gl: Arthroleptidae
+    he: ארטרולפתיים
+    hu: Arthroleptidae
+    ia: Arthroleptidae
+    ie: Arthroleptidae
+    io: Arthroleptidae
+    it: Arthroleptidae
+    ja: サエズリガエル科
+    ko: 아르트롤렙티스과
+    la: Arthroleptidae
+    mul: Arthroleptidae
+    nl: Arthroleptidae
+    nv: Naakaii Łizhiní Bikéyahdę́ę́ʼ tsinyiʼ chʼał dóó bikʼéí
+    oc: Arthroleptidae
+    pl: Artroleptowate
+    pt: Arthroleptidae
+    pt-br: Arthroleptidae
+    ro: Arthroleptidae
+    ru: пискуньи
+    sq: Arthroleptidae
+    sv: Arthroleptidae
+    tr: Arthroleptidae
+    uk: Жаби-верескуни
+    vi: Arthroleptidae
+    vo: Arthroleptidae
+    war: Arthroleptidae
+    zh: 节蛙科
 ---
-
 # [[Arthroleptidae]]
 
 Arthroleptid Frogs 

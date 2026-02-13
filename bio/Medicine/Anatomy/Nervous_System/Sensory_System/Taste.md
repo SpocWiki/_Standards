@@ -1,14 +1,106 @@
 ---
 aliases:
-  - Taste
+- blas
+- bragðskyn
+- chuť
+- dad orqanı
+- dandano
+- dastamen
+- dhadhan
+- dhamdhama
+- garša
+- Geschmaach
+- Geschmack
+- gost
+- goute
+- goût
+- gust
+- gustatorische Wahrnehmung
+- gustatus
+- gusto
+- gustu
+- isinambitho
+- ladha
+- lama
+- maitsmine
+- maitsminõ
+- makuaisti
+- malliy
+- okus
+- paladar
+- pangnamit
+- pangrasa
+- panlasa
+- pengecapan
+- Proba (sensa)
+- rasa
+- sanek nu mukan
+- sawaad
+- sawoura
+- shqisa e shijes
+- sistemang panlasa
+- skonis
+- skuonis
+- smaak
+- Smaak (sintúch)
+- Smacksinn
+- smagssans
+- smak
+- smaksinne
+- smakssans
+- Taste
+- tat
+- taʻmga
+- təm
+- ukus
+- vị
+- çêjtin
+- ízlelés
+- γεύση
+- вкус
+- даам
+- дәм
+- раст
+- смак
+- тутă-маса
+- тәм
+- укус
+- шӧм
+- համ
+- טעם
+- تام
+- تذوق
+- داد اورقانی
+- دوقان
+- ذائقہ
+- طعم
+- ܛܥܡܐ
+- चव
+- सवाः
+- স্বাদ
+- ਸੁਆਦ
+- சுவை
+- రుచి
+- ರುಚಿ
+- പുളി
+- การรับรู้รส
+- အရသာ
+- ၼမ်ႉဝၢၼ်
+- გემო
+- ᠠᠮᡨᠠᠨ
+- 味
+- 味覚
+- 味覺
+- 味觉
+- 맛
 has_id_wikidata: Q124794
 Colon_Classification: S:22
 Commons_category: Taste
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Dewey_Decimal_Classification: 152.167
 different_from: '[[_Standards/WikiData/WD~Smak,2294826]]'
 has_part_s_: '[[_Standards/WikiData/WD~taste_in_Islam,5269467]]'
@@ -16,15 +108,145 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Tongue-bitter.jpg
 instance_of: '[[_Standards/WikiData/WD~sense,173253]]'
 Krugosvet_article: nauka_i_tehnika/himiya/ZAPAH_I_VKUS.html
 MeSH_tree_code:
-  - F02.830.816.724
-  - G11.561.790.724
+- F02.830.816.724
+- G11.561.790.724
 OmegaWiki_Defined_Meaning: 420792
 part_of: '[[_Standards/WikiData/WD~five_wits,1051623]]'
 PhilPapers_topic: taste-experience
 subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
 UMLS_CUI: C0039336
+dv_has_:
+  name_:
+    af: smaak
+    an: gusto
+    ar: تذوق
+    arc: ܛܥܡܐ
+    ary: دوقان
+    arz: تذوق
+    ast: gustu
+    az: dad orqanı
+    azb: داد اورقانی
+    ba: тәм
+    bcl: pangnamit
+    be: смак
+    be-tarask: смак
+    bg: вкус
+    bn: স্বাদ
+    bs: okus
+    ca: gust
+    ckb: تام
+    cs: chuť
+    cv: тутă-маса
+    cy: blas
+    da: smagssans
+    dag: lama
+    de: Geschmack
+    de-ch: gustatorische Wahrnehmung
+    el: γεύση
+    en: taste
+    en-ca: taste
+    en-gb: taste
+    eo: gusto
+    es: gusto
+    et: maitsmine
+    eu: dastamen
+    fa: طعم
+    fi: makuaisti
+    fr: goût
+    fy: Smaak (sintúch)
+    ga: blas
+    gd: blas
+    gl: gusto
+    ha: dandano
+    he: טעם
+    hif: sawaad
+    hr: okus
+    ht: goute
+    hu: ízlelés
+    hy: համ
+    hyw: համ
+    ia: gusto
+    id: pengecapan
+    is: bragðskyn
+    it: gusto
+    ja: 味覚
+    jv: pangrasa
+    ka: გემო
+    kk: дәм
+    kn: ರುಚಿ
+    ko: 맛
+    ku: çêjtin
+    ku-latn: çêjtin
+    ky: даам
+    la: gustatus
+    lb: Geschmaach
+    lfn: Proba (sensa)
+    lt: skonis
+    lv: garša
+    mk: вкус
+    ml: പുളി
+    mnc: ᠠᠮᡨᠠᠨ
+    mr: चव
+    ms: rasa
+    my: အရသာ
+    myv: раст
+    nb: smak
+    nds: Smacksinn
+    new: सवाः
+    nl: smaak
+    nn: smakssans
+    oc: gost
+    om: dhamdhama
+    pa: ਸੁਆਦ
+    pam: panlasa
+    pl: smak
+    pms: Gust
+    pt: paladar
+    qu: malliy
+    ro: gust
+    ru: вкус
+    rue: смак
+    sgs: skuonis
+    sh: okus
+    shn: ၼမ်ႉဝၢၼ်
+    sk: chuť
+    sl: okus
+    so: dhadhan
+    sq: shqisa e shijes
+    sr: укус
+    sr-ec: укус
+    sr-el: ukus
+    sv: smaksinne
+    sw: ladha
+    szy: sanek nu mukan
+    ta: சுவை
+    te: రుచి
+    th: การรับรู้รส
+    tl: sistemang panlasa
+    tly: təm
+    tr: tat
+    tt: тәм
+    tt-cyrl: тәм
+    udm: шӧм
+    uk: смак
+    ur: ذائقہ
+    uz: taʻmga
+    vec: gusto
+    vi: vị
+    vro: maitsminõ
+    wa: sawoura
+    wuu: 味觉
+    yi: טעם
+    yue: 味
+    zh: 味觉
+    zh-cn: 味觉
+    zh-hans: 味觉
+    zh-hant: 味覺
+    zh-hk: 味覺
+    zh-sg: 味觉
+    zh-tw: 味覺
+    zu: isinambitho
 ---
-
 # [[Taste]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Taste,124794|WD~Taste,124794]] 

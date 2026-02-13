@@ -1,31 +1,178 @@
 ---
 aliases:
+- Arxantroplar
+- Erektus
+- Homo erectus
+- Homo erektus
+- người đứng thẳng
+- omuntu omusenguse
+- stāvus pacēlies cilvēks
+- Človek vzpriamený
+- člověk vzpřímený
+- архантрап
+- Архантроп
+- изправен човек
+- людина прямоходяча
+- хомо еректус
+- человек прямоходящий
+- Һомо Еректус
+- הומו ארקטוס
+- إنسان منتصب
+- انسان راستقامت
+- سدھا مانس
+- مرۆڤی ھەستاو
+- نېغ انسان
+- هومو إريكتوس
+- هومو إيريكتوس
+- کھڑا آدمی
+- आदिमानव
+- होमो इरेक्टस
+- হোমো ইরেক্টাস
+- ஓமோ இரெக்டசு
+- హోమో ఎరెక్టసు
+- ಹೋಮೋ ಎರೆಕ್ಟಸ್
+- ഹോമോ ഇറക്റ്റസ്
+- හෝමෝ ඉරෙක්ටස්
+- โฮโม อีเร็กตัส
+- ჰომო ერექტუსი
+- ホモ・エレクトス
+- 直立人
+- 호모 에렉투스
 has_id_wikidata: Q101362
-instance_of: "[[_Standards/WikiData/WD~fossil_taxon,23038290]]"
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
 start_time: -1900000-06
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_common_name:
-  - Caveman
-  - Püstine inimene
-  - Pystyihminen
-  - הומו ארקטוס
-  - człowiek wyprostowany
-  - Homem das cavernas
-  - pokončni človek
-  - Dik duran insan
-  - người đứng thẳng
-  - 直立人
-  - 直立人
+- Caveman
+- Püstine inimene
+- Pystyihminen
+- הומו ארקטוס
+- człowiek wyprostowany
+- Homem das cavernas
+- pokončni človek
+- Dik duran insan
+- người đứng thẳng
+- 直立人
+- 直立人
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homme%20de%20Tautavel%2001-08.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20erectus%20tautavelensis.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homme%20de%20Tautavel%2001-08.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20erectus%20tautavelensis.jpg
 Krugosvet_article_archived_: biologiya/chelovek-pryamokhodyashchii
 Commons_category: Homo erectus
 taxon_name: Homo erectus
 short_name: H. erectus
 end_time: -143000-06
+dv_has_:
+  name_:
+    af: Homo erectus
+    an: Homo erectus
+    ar: إنسان منتصب
+    ary: هومو إيريكتوس
+    arz: هومو إريكتوس
+    ast: Homo erectus
+    az: Erektus
+    bar: Homo erectus
+    be: Homo erectus
+    be-tarask: архантрап
+    bg: изправен човек
+    bho: होमो इरेक्टस
+    bn: হোমো ইরেক্টাস
+    br: Homo erectus
+    bs: Homo erectus
+    ca: Homo erectus
+    ceb: Homo erectus
+    ckb: مرۆڤی ھەستاو
+    cs: člověk vzpřímený
+    cy: Homo erectus
+    da: Homo erectus
+    de: Homo erectus
+    diq: Homo erectus
+    el: Homo erectus
+    en: Homo erectus
+    eo: Homo erectus
+    es: Homo erectus
+    et: Homo erectus
+    eu: Homo erectus
+    fa: انسان راستقامت
+    fi: Homo erectus
+    fr: Homo erectus
+    fy: Homo erectus
+    ga: Homo erectus
+    gl: Homo erectus
+    he: הומו ארקטוס
+    hi: होमो इरेक्टस
+    hr: Homo erectus
+    hu: Homo erectus
+    ia: Homo erectus
+    id: Homo erectus
+    io: Homo erectus
+    is: Homo erectus
+    it: Homo erectus
+    ja: ホモ・エレクトス
+    jv: Homo erectus
+    ka: ჰომო ერექტუსი
+    kk: Һомо Еректус
+    kn: ಹೋಮೋ ಎರೆಕ್ಟಸ್
+    ko: 호모 에렉투스
+    ku: Homo erectus
+    ku-latn: Homo erectus
+    la: Homo erectus
+    lb: Homo erectus
+    lg: omuntu omusenguse
+    lt: Homo erectus
+    lv: stāvus pacēlies cilvēks
+    mk: Homo erectus
+    ml: ഹോമോ ഇറക്റ്റസ്
+    mr: आदिमानव
+    ms: Homo erectus
+    mul: Homo erectus
+    nan: Homo erectus
+    nb: Homo erectus
+    nds: Homo erectus
+    nds-nl: Homo erectus
+    new: होमो इरेक्टस
+    nl: Homo erectus
+    nn: Homo erectus
+    oc: Homo erectus
+    pl: Homo erectus
+    pnb: سدھا مانس
+    ps: نېغ انسان
+    pt: Homo erectus
+    ro: Homo erectus
+    ru: человек прямоходящий
+    sah: Архантроп
+    sh: Homo erectus
+    si: හෝමෝ ඉරෙක්ටස්
+    sk: Človek vzpriamený
+    sl: Homo erectus
+    sq: Homo erectus
+    sr: хомо еректус
+    sr-ec: Хомо еректус
+    sr-el: Homo erektus
+    sv: Homo erectus
+    ta: ஓமோ இரெக்டசு
+    te: హోమో ఎరెక్టసు
+    th: โฮโม อีเร็กตัส
+    tl: Homo erectus
+    tr: Homo erectus
+    uk: людина прямоходяча
+    ur: کھڑا آدمی
+    uz: Arxantroplar
+    vec: Homo erectus
+    vi: người đứng thẳng
+    war: Homo erectus
+    wuu: 直立人
+    xmf: ჰომო ერექტუსი
+    yo: Homo erectus
+    yue: 直立人
+    zh: 直立人
+    zh-cn: 直立人
+    zh-hans: 直立人
+    zh-hant: 直立人
+    zh-hk: 直立人
+    zh-sg: 直立人
+    zh-tw: 直立人
 ---
-
 # [[Homo_erectus]] 
 
 #is_/same_as :: [[WD~Homo_erectus,101362]] 

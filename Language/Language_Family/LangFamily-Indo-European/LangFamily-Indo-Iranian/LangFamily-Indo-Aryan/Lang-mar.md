@@ -1,38 +1,141 @@
 ---
 aliases:
-  - Marathi
-  - Lang-mar
+- an Mharaitis
+- bahasa Marathi
+- Basa Marathi
+- Fiteny Marathi
+- Gjuha marathi
+- Idioma marathi
+- isi-Marathi
+- język marathi
+- Kimarathi
+- Lang-mar
+- Lenga marathi
+- Lengua marathi
+- limba marathi
+- Lingua marathi
+- lingua Marathica
+- Língua marata
+- Maraathii
+- marata
+- marata linguo
+- marata lingvo
+- marateg
+- Maratheg
+- marathera
+- Marathi
+- Marathi bhasa
+- Marathi dili
+- marathi jezik
+- marathi keel
+- Marathi simi
+- Marathi tili
+- Marathi zyvon
+- Marathi-gí
+- Marathish
+- marathu valoda
+- Marati
+- Marati (pinulongan)
+- Marati jezik
+- Maratitlahtōlli
+- maratí
+- maratščina
+- maračių kalba
+- maráthi
+- maráthčina
+- maráthština
+- Meratki
+- Minarathi
+- Mâ-là-thi-ngî
+- tiếng Marathi
+- Tok Marati
+- toki Malasi
+- Wikang Marathi
+- Zimanê marathî
+- Μαράτι
+- маратгі
+- Марати хэл
+- маратски јазик
+- маратхі
+- Маратхі, мова
+- маратхи
+- маратхи језик
+- Маратхи тили
+- маратхийски език
+- маратһи теле
+- маратӣ
+- մարաթի
+- մարաթհի
+- מאראטהי
+- מראטהית
+- المراثي
+- المراثية
+- زبان مراتی
+- زمانی ماراتی
+- ماراتهی دیلی
+- ماراتىچە
+- مراتى
+- مراتی
+- مراٹھی
+- مراٺي ٻولي
+- مراټي ژبه
+- مرہٹی
+- مَرٲٹھؠ زَبان
+- މަރާޓީ
+- मराठी
+- मराठी भाषा
+- মারাঠি ঠার
+- মারাঠি ভাষা
+- মাৰাঠী ভাষা
+- ਮਰਹਟੀ
+- મરાઠી ભાષા
+- ମରାଠୀ ଭାଷା
+- மராத்தி
+- మరాఠీ
+- ಮರಾಠಿ
+- മറാഠി
+- මරාඨී
+- ภาษามราฐี
+- მარათული ნინა
+- მარათჰი
+- ᱢᱟᱨᱟᱴᱷᱤ ᱯᱟᱹᱨᱥᱤ
+- マラーティー語
+- 馬拉提文
+- 馬拉提語
+- 马拉地语
+- 马拉提语
+- 마라티어
 has_id_wikidata: Q1571
 tags:
-  - Lang/mr
+- Lang/mr
 type: Lang
 has_grammatical_gender:
-  - '[[_Standards/WikiData/WD~masculine,499327]]'
-  - '[[_Standards/WikiData/WD~feminine,1775415]]'
-  - '[[_Standards/WikiData/WD~neuter,1775461]]'
+- '[[_Standards/WikiData/WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~feminine,1775415]]'
+- '[[_Standards/WikiData/WD~neuter,1775461]]'
 linguistic_typology: '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~modern_language,1288568]]'
-  - '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~natural_language,33742]]'
 writing_system:
-  - '[[_Standards/WikiData/WD~Modi,1703713]]'
-  - '[[_Standards/WikiData/WD~Devanagari,38592]]'
+- '[[_Standards/WikiData/WD~Modi,1703713]]'
+- '[[_Standards/WikiData/WD~Devanagari,38592]]'
 subclass_of: '[[_Standards/WikiData/WD~Southern_Indo_Aryan,10856062]]'
 Ethnologue_language_status: '[[_Standards/WikiData/WD~2_Provincial,29051547]]'
 part_of:
-  - '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
-  - '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
+- '[[_Standards/WikiData/WD~Classical_Languages_of_India,116275530]]'
+- '[[_Standards/WikiData/WD~Schedule_languages_of_India,134519300]]'
 country: '[[_Standards/WikiData/WD~India,668]]'
 indigenous_to:
-  - '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
-  - '[[_Standards/WikiData/WD~Goa,1171]]'
-  - '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
-  - '[[_Standards/WikiData/WD~Karnataka,1185]]'
-  - '[[_Standards/WikiData/WD~Maharashtra,1191]]'
-  - '[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]'
+- '[[_Standards/WikiData/WD~Andhra_Pradesh,1159]]'
+- '[[_Standards/WikiData/WD~Goa,1171]]'
+- '[[_Standards/WikiData/WD~Chhattisgarh,1168]]'
+- '[[_Standards/WikiData/WD~Karnataka,1185]]'
+- '[[_Standards/WikiData/WD~Maharashtra,1191]]'
+- '[[_Standards/WikiData/WD~Madhya_Pradesh,1188]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Maharashtra,1191]]'
 number_of_speakers_writers_or_signers: 83100000
 Ethnologue_com_language_code: mar
@@ -59,8 +162,161 @@ Linguasphere_code: 59-AAF-o
 Glottolog_code: mara1378
 Commons_category: Marathi language
 GOST_7_75_97_code: мар 440
+dv_has_:
+  name_:
+    aeb-arab: المراثي
+    af: marathi
+    anp: मराठी भाषा
+    ar: المراثية
+    arz: مراتى
+    as: মাৰাঠী ভাষা
+    ast: Idioma marathi
+    awa: मराठी
+    az: Marathi dili
+    azb: ماراتهی دیلی
+    ba: Маратһи теле
+    bcl: Marati
+    be: Маратхі, мова
+    be-tarask: маратгі
+    bg: маратхийски език
+    bho: मराठी
+    bn: মারাঠি ভাষা
+    bpy: মারাঠি ঠার
+    br: marateg
+    ca: marathi
+    ceb: Marati (pinulongan)
+    ckb: زمانی ماراتی
+    cs: maráthština
+    cy: Maratheg
+    da: marathi
+    de: Marathi
+    de-ch: Marathi
+    diq: Meratki
+    dty: मराठी भाषा
+    dv: މަރާޓީ
+    el: Μαράτι
+    en: Marathi
+    en-ca: Marathi
+    en-gb: Marathi
+    eo: marata lingvo
+    es: maratí
+    et: marathi keel
+    eu: marathera
+    fa: زبان مراتی
+    fi: marathi
+    fr: marathi
+    frr: Maraathii
+    ga: an Mharaitis
+    gl: Lingua marathi
+    gom: मराठी
+    gom-latn: मराठी
+    gu: મરાઠી ભાષા
+    gv: Marathish
+    ha: Marati
+    hak: Mâ-là-thi-ngî
+    he: מראטהית
+    hi: मराठी
+    hif: Marathi bhasa
+    hr: marathi jezik
+    hu: maráthi
+    hy: մարաթհի
+    hyw: մարաթի
+    ia: Marathi
+    id: bahasa Marathi
+    ig: Marathi
+    io: marata linguo
+    is: Maratí
+    it: marathi
+    ja: マラーティー語
+    jv: Basa Marathi
+    ka: მარათჰი
+    kge: Bahasa Marathi
+    kn: ಮರಾಠಿ
+    ko: 마라티어
+    ks: مَرٲٹھؠ زَبان
+    ku: Zimanê marathî
+    kv: Маратхи
+    ky: Маратхи тили
+    la: lingua Marathica
+    lfn: marati
+    lij: Lengua marathi
+    lmo: Lengua marathi
+    lt: maračių kalba
+    lv: marathu valoda
+    mai: मराठी भाषा
+    map-bms: Basa Marathi
+    mg: Fiteny Marathi
+    mk: маратски јазик
+    ml: മറാഠി
+    mn: Марати хэл
+    mr: मराठी
+    ms: Bahasa Marathi
+    mt: Marathi
+    mzn: مراتی
+    nah: Maratitlahtōlli
+    nan: Marathi-gí
+    nb: marathi
+    ne: मराठी भाषा
+    new: मराठी भाषा
+    nl: Marathi
+    nn: marathi
+    oc: marathi
+    or: ମରାଠୀ ଭାଷା
+    os: маратхи
+    pa: ਮਰਹਟੀ
+    pap: Marathi
+    pl: język marathi
+    pms: Lenga marathi
+    pnb: مرہٹی
+    ps: مراټي ژبه
+    pt: marata
+    pt-br: Língua marata
+    qu: Marathi simi
+    ro: limba marathi
+    ru: маратхи
+    sa: मराठी
+    sat: ᱢᱟᱨᱟᱴᱷᱤ ᱯᱟᱹᱨᱥᱤ
+    scn: marathi
+    sco: Marathi
+    sd: مراٺي ٻولي
+    sh: Marati jezik
+    si: මරාඨී
+    sk: maráthčina
+    sl: maratščina
+    sq: Gjuha marathi
+    sr: маратхи језик
+    sr-ec: маратхи језик
+    sv: marathi
+    sw: Kimarathi
+    ta: மராத்தி
+    tcy: ಮರಾಠಿ
+    te: మరాఠీ
+    tg: маратӣ
+    th: ภาษามราฐี
+    tl: Wikang Marathi
+    tly: Marathi zyvon
+    tok: toki Malasi
+    tpi: Tok Marati
+    tr: marathi
+    tt: маратһи теле
+    ug: ماراتىچە
+    uk: маратхі
+    ur: مراٹھی
+    uz: Marathi tili
+    vec: marathi
+    vi: tiếng Marathi
+    war: Minarathi
+    wuu: 马拉地语
+    xmf: მარათული ნინა
+    yi: מאראטהי
+    yue: 馬拉提文
+    zh: 马拉提语
+    zh-cn: 马拉提语
+    zh-hans: 马拉提语
+    zh-hant: 馬拉提語
+    zh-tw: 馬拉提語
+    zu: isi-Marathi
 ---
-
 # [[Lang-mar]] 
 
 [SpocWebEntityId:: 462 ]

@@ -1,10 +1,50 @@
 ---
 aliases:
-  - Heliophaninae
-  - Chrysillini
+- Chrysillini
+- Heliophaninae
+- 丽跳蛛族
 title: Heliophaninae
+has_id_wikidata: Q64768941
+dv_has_:
+  name_:
+    an: Chrysillini
+    ast: Chrysillini
+    bg: Chrysillini
+    ca: Chrysillini
+    ceb: Chrysillini
+    de: Chrysillini
+    en: Chrysillini
+    eo: Chrysillini
+    es: Chrysillini
+    eu: Chrysillini
+    ext: Chrysillini
+    fi: Chrysillini
+    fr: Chrysillini
+    ga: Chrysillini
+    gl: Chrysillini
+    ia: Chrysillini
+    ie: Chrysillini
+    ig: Chrysillini
+    io: Chrysillini
+    it: Chrysillini
+    la: Chrysillini
+    mul: Chrysillini
+    nl: Chrysillini
+    oc: Chrysillini
+    pl: Chrysillini
+    pt: Chrysillini
+    pt-br: Chrysillini
+    ro: Chrysillini
+    ru: Chrysillini
+    sq: Chrysillini
+    uk: Chrysillini
+    vi: Chrysillini
+    vo: Chrysillini
+    war: Chrysillini
+    zh: 丽跳蛛族
+    zh-cn: 丽跳蛛族
+    zh-hans: 丽跳蛛族
 ---
-
 # [[Heliophaninae]]
 
 ![ ](Heliophaninae/marchena.gif)

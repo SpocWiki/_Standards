@@ -1,63 +1,139 @@
 ---
 aliases:
-  - Niob
-  - Niobium
+- ijo lili nanpa 41
+- INobo
+- jinmrni,obi
+- neeobium
+- Nextictepoztli
+- niaibiam
+- nijobju
+- Niob
+- niobbiu
+- Niobel
+- Niobi
+- Niobii
+- niobij
+- niobijs
+- Niobijum
+- niobio
+- Niobiom
+- niobis
+- niobiu
+- Niobium
+- Niobiumi
+- niobiwm
+- Niobiy
+- niobo
+- Niobyo
+- niobyum
+- nioobium
+- Niyobiyaam
+- Niyobyo
+- Niyobyu
+- Niyobyûm
+- Niòbi
+- Niòbio
+- Niòbiu
+- niób
+- nióbio
+- nióbium
+- Niôbioma
+- Nyobyòm
+- níóbín
+- Nɩyɔbɩyɔm
+- νιόβιο
+- ніоб
+- ніобій
+- Ниоби
+- ниобијум
+- ниобий
+- Ниобиум
+- նիոբիում
+- ניאביום
+- ניאוביום
+- نايوبيئم
+- نايوبيوم
+- نىئوبىي
+- نيوبيوم
+- نیوبیئم
+- نیوبیم
+- نیۆبیۆم
+- नायोबियम
+- नियोबियम
+- নাইওবিয়াম
+- ਨਿਓਬੀਅਮ
+- નાયોબિયમ
+- ନିଓବିଅମ
+- நையோபியம்
+- నియోబియం
+- ನಿಯೋಬಿಯಮ್
+- നിയോബിയം
+- ไนโอเบียม
+- ནེའོ་བྷིམ་།
+- နိုင်အိုဘီယမ်
+- ნიობიუმი
+- ኒዮቢየም
+- ニオブ
+- 鈮
+- 铌
+- 나이오븀
+- 니오비움
 has_id_wikidata: Q1046
 atomic_number: 41
-canonical_SMILES: "[Nb]"
+canonical_SMILES: '[Nb]'
 CAS_Registry_Number: 7440-03-1
 chemical_formula: Nb
 Commons_category: Niobium
 Commons_gallery: Niobium
 Common_Procurement_Vocabulary_code:
-  - 14791000-2
-  - 14791000
+- 14791000-2
+- 14791000
 CPV_Supplementary_code: AA40
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 Dewey_Decimal_Classification: 546.524
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Charles_Hatchett,378065]]"
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Hatchett,378065]]'
 DSSTOX_compound_identifier: DTXCID5031052
 EC_number: 231-113-5
 electronegativity: 2
-electron_configuration: "[Kr] 4d⁴ 5s¹"
+electron_configuration: '[Kr] 4d⁴ 5s¹'
 element_symbol: Nb
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Niobium%20crystals%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Nb
 InChIKey: GUCVJGMIXFAOAE-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.48
-  - 0.64
-  - 0.68
-  - 0.72
-  - 0.74
-  - 0.79
-location_of_discovery: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- 0.48
+- 0.64
+- 0.68
+- 0.72
+- 0.74
+- 0.79
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 mass: 92.90637
 MeSH_tree_code:
-  - D01.268.556.615
-  - D01.268.956.687
-  - D01.552.544.615
-named_after: "[[_Standards/WikiData/WD~Niobe,213621]]"
+- D01.268.556.615
+- D01.268.956.687
+- D01.552.544.615
+named_after: '[[_Standards/WikiData/WD~Niobe,213621]]'
 OmegaWiki_Defined_Meaning: 339099
 oxidation_state: 5
 part_of:
-  - "[[_Standards/WikiData/WD~group_5,193276]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+- '[[_Standards/WikiData/WD~group_5,193276]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 23936
 SpocWebEntityId: 21939
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0028101
@@ -66,21 +142,179 @@ UNII: 05175J654G
 ZVG_number: 7410
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Niobium,1046]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect|Niobium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private|Niobium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]]"
-  part_of: "[[../Group-05-Vanadium]]"
+  - '[[../../../WikiData/WD~Niobium,1046]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect|Niobium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private|Niobium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]]'
+  part_of: '[[../Group-05-Vanadium]]'
 dv_has_:
   name_:
-    group: Group-05-Vanadium
-    en: Niobium
-    de: Niob
     abbreviated: Nb
+    af: niobium
+    am: ኒዮቢየም
+    an: Niobio
+    anp: नायोबियम
+    ar: نيوبيوم
+    ary: نيوبيوم
+    arz: نيوبيوم
+    ast: niobiu
+    avk: Niobel
+    az: Niobium
+    ban: Niobium
+    bcl: Niobyo
+    be: ніобій
+    be-tarask: ніоб
+    bg: ниобий
+    bho: नियोबियम
+    bn: নাইওবিয়াম
+    bo: ནེའོ་བྷིམ་།
+    br: Niobiom
+    bs: niobij
+    ca: niobi
+    cdo: Niobium
+    ceb: Niyobyo
+    ckb: نیۆبیۆم
+    co: Niobiu
+    cs: niob
+    cv: Ниоби
+    cy: niobiwm
+    da: niobium
+    de: Niob
+    el: νιόβιο
+    en: niobium
+    eo: niobo
+    es: niobio
+    et: nioobium
+    eu: niobio
+    fa: نیوبیم
+    fi: niobium
+    fr: niobium
+    frr: Niobium
+    fur: Niobi
+    ga: niaibiam
+    gd: Niobium
+    gl: niobio
+    group: Group-05-Vanadium
+    gu: નાયોબિયમ
+    gv: neeobium
+    hak: niobium
+    he: ניאוביום
+    hi: नायोबियम
+    hif: Niobium
+    hr: niobij
+    ht: Nyobyòm
+    hu: nióbium
+    hy: նիոբիում
+    ia: niobium
+    id: niobium
+    io: niobio
+    is: níóbín
+    it: niobio
+    ja: ニオブ
+    jbo: jinmrni,obi
+    jv: Niobium
+    ka: ნიობიუმი
+    kbp: Nɩyɔbɩyɔm
+    kk: Ниобий
+    kn: ನಿಯೋಬಿಯಮ್
+    ko: 나이오븀
+    ko-kp: 니오비움
+    ku: Niyobyûm
+    kv: Ниобий
+    kw: Niobiom
+    ky: Ниобий
+    la: niobium
+    lb: Niob
+    lfn: niobio
+    li: Niobium
+    lij: Niobio
+    lmo: Niobio
+    lt: niobis
+    lv: niobijs
+    lzh: 鈮
+    mdf: Ниоби
+    mg: Niôbioma
+    mk: ниобиум
+    ml: നിയോബിയം
+    mn: ниоби
+    mr: नायोबियम
+    mrj: Ниобий
+    ms: Niobium
+    mt: nijobju
+    my: နိုင်အိုဘီယမ်
+    nah: Nextictepoztli
+    nan: Niobium
+    nb: niob
+    ne: नायोबियम
+    new: नायोबियम
+    nl: niobium
+    nn: niob
+    nov: Niobium
+    oc: Niòbi
+    olo: Niobii
+    or: ନିଓବିଅମ
+    os: ниобий
+    pa: ਨਿਓਬੀਅਮ
+    pi: नायोबियम
+    pl: niob
+    pms: Niòbio
+    pnb: نیوبیم
+    ps: نايوبيوم
+    pt: nióbio
+    pt-br: nióbio
+    qu: Niyobyu
+    ro: niobiu
+    ru: ниобий
+    rup: Niobiu
+    sa: नायोबियम
+    sc: Niòbiu
+    scn: niobbiu
+    sco: niobium
+    sd: نايوبيئم
+    sh: Niobijum
+    sk: niób
+    sl: niobij
+    so: Niyobiyaam
+    sq: Niobiumi
+    sr: ниобијум
+    sr-ec: Ниобијум
+    stq: Niobium
+    su: Niobium
+    sv: niob
+    sw: Niobi
+    ta: நையோபியம்
+    te: నియోబియం
+    tg: Ниобий
+    th: ไนโอเบียม
+    tl: niobium
+    tok: ijo lili nanpa 41
+    tr: niobyum
+    tt: Ниобий
+    ug: نىئوبىي
+    uk: ніобій
+    ur: نیوبیئم
+    uz: Niobiy
+    vep: Niobii
+    vi: niobi
+    war: Niobyo
+    wuu: 铌
+    xal: Ниобиум
+    yi: ניאביום
+    yo: Niobium
+    yue: 鈮
+    zh: 铌
+    zh-hans: 铌
+    zh-hant: 鈮
+    zh-tw: 鈮
+    zu: INobo
+  number_of_:
+    period: 5
+    group: 5
+    electrons: 41
   value_for_:
     weight_:
       u: 92.9064
@@ -108,21 +342,17 @@ dv_has_:
       form_:
         kj_:
           mol: 682
-  number_of_:
-    period: 5
-    group: 5
-    electrons: 41
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Niobium,1046]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect|Niobium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private|Niobium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]]"
+- '[[../../../WikiData/WD~Niobium,1046]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.protect|Niobium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private|Niobium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]]'
 dv_has_name_group: Group-05-Vanadium
-dv_is_part_of: "[[../Group-05-Vanadium]]"
+dv_is_part_of: '[[../Group-05-Vanadium]]'
 dv_has_name_en: Niobium
 dv_has_name_de: Niob
 dv_has_value_for_weight_u: 92.9064
@@ -143,7 +373,6 @@ dv_has_number_of_group: 5
 dv_has_name_abbreviated: Nb
 dv_has_number_of_electrons: 41
 ---
-
 # [[Niobium]] 
 
 #chemic/Element 

@@ -1,4 +1,88 @@
-
+---
+has_id_wikidata: Q660432
+dv_has_:
+  name_:
+    an: Glires
+    ar: زغبيات
+    arz: زغبيات
+    ast: Glires
+    be: Glires
+    be-tarask: Glires
+    bg: Glires
+    ca: Glir
+    ceb: Glires
+    cs: Glires
+    de: Glires
+    el: Γλίρες
+    en: Glires
+    eo: Glires
+    es: Glires
+    eu: Glires
+    ext: Glires
+    fa: نیاجوندگان
+    fi: Glires
+    fr: Glires
+    ga: Glires
+    gl: Gliros
+    he: גלירס
+    hu: Glires
+    hy: կրծողանմաններ
+    ia: Glires
+    ie: Glires
+    io: Glires
+    it: Glires
+    ja: グリレス大目
+    kab: Ticebcalin
+    ko: 설치동물
+    la: Glires
+    lv: grauzējveidīgie
+    ms: Glires
+    mt: Glires
+    mul: Glires
+    nb: Glires
+    nl: Glires
+    oc: Glires
+    pl: siekaczowce
+    pt: Glires
+    pt-br: Glires
+    ro: Glires
+    ru: грызунообразные
+    sl: Glires
+    sq: Glires
+    sr: Glires
+    stq: Glires
+    sv: Glires
+    tl: Glires
+    tr: Glires
+    uk: гризуни
+    vi: Glires
+    vo: Glires
+    war: Glires
+    zh: 啮形类
+    zh-cn: 啮形类
+    zh-hans: 啮形类
+    zh-hant: 齧形類
+    zh-hk: 齧形類
+    zh-tw: 齧形類
+aliases:
+- Glir
+- Glires
+- Gliros
+- grauzējveidīgie
+- siekaczowce
+- Ticebcalin
+- Γλίρες
+- гризуни
+- грызунообразные
+- կրծողանմաններ
+- גלירס
+- زغبيات
+- نیاجوندگان
+- グリレス大目
+- 啮形类
+- 齧形類
+- 설치동물
+---
 # [[Glires]] 
 
 

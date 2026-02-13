@@ -1,24 +1,134 @@
 ---
 aliases:
-  - Christliche Philosophie
-  - Christian_philosophy
-  - Christian philosophy
+- athroniaeth Gristnogol
+- Christelijke filosofie
+- Christian philosophy
+- Christian_philosophy
+- Christliche Philosophie
+- fealsúnacht Chríostaí
+- Filosofia cristian
+- filosofia cristiana
+- filosofia cristã
+- Filosofía cristiana
+- filosofía cristiá
+- Filozofia chrześcijańska
+- Filozofie creștină
+- Filsafat Kristen
+- Filôzôfia kristiana
+- Hristiyan felsefesi
+- Hrišćanska filozofija
+- Kresťanská filozofia
+- kriistlaž filofosia
+- krikščionybės filosofija
+- kristana filozofio
+- kristau filosofia
+- Kristen filosofi
+- kristillinen filosofia
+- kristlik filosoofia
+- kristtalaš filosofiija
+- Kršćanska filozofija
+- krščanska filozofija
+- křesťanská filozofie
+- philosophie chrétienne
+- ristâlâš filosofia
+- Triết học Kitô giáo
+- Xristian fəlsəfəsi
+- христијанска филозофија
+- христианская философия
+- християнська філософія
+- хришћанска филозофија
+- хрысьціянская філязофія
+- Քրիստոնեական փիլիսոփայություն
+- פילוסופיה נוצרית
+- عيسوي فلسفه
+- فلسفة مسيحية
+- فلسفه مسیحی
+- ईसाई दर्शन
+- খ্রিস্টীয় দর্শন
+- கிறித்தவ மெய்யியல்
+- ქრისტიანული ფილოსოფია
+- ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵕⵓⵎⵉⵢⵜ
+- キリスト教哲学
+- 基督教哲学
+- 基督教哲學
+- 기독교 철학
 has_id_wikidata: Q854807
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
-  - '[[_Standards/WikiData/WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
+- '[[_Standards/WikiData/WD~Christianity,5043]]'
 facet_of: '[[_Standards/WikiData/WD~Christianity,5043]]'
 part_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
 Commons_category: Christian philosophy
 Stack_Exchange_tag:
-  - https://christianity.stackexchange.com/tags/philosophy
-  - https://philosophy.stackexchange.com/tags/christianity
+- https://christianity.stackexchange.com/tags/philosophy
+- https://philosophy.stackexchange.com/tags/christianity
 P8189: 987007544605305171
+dv_has_:
+  name_:
+    ar: فلسفة مسيحية
+    ast: Filosofía cristiana
+    az: Xristian fəlsəfəsi
+    be-tarask: хрысьціянская філязофія
+    bn: খ্রিস্টীয় দর্শন
+    ca: filosofia cristiana
+    cs: křesťanská filozofie
+    cy: athroniaeth Gristnogol
+    da: Kristen filosofi
+    de: christliche Philosophie
+    en: Christian philosophy
+    eo: kristana filozofio
+    es: filosofía cristiana
+    et: kristlik filosoofia
+    eu: kristau filosofia
+    fa: فلسفه مسیحی
+    fi: kristillinen filosofia
+    fr: philosophie chrétienne
+    ga: fealsúnacht Chríostaí
+    gl: filosofía cristiá
+    he: פילוסופיה נוצרית
+    hi: ईसाई दर्शन
+    hr: Kršćanska filozofija
+    hy: Քրիստոնեական փիլիսոփայություն
+    id: Filsafat Kristen
+    it: filosofia cristiana
+    ja: キリスト教哲学
+    ka: ქრისტიანული ფილოსოფია
+    ko: 기독교 철학
+    lfn: Filosofia cristian
+    lt: krikščionybės filosofija
+    mg: Filôzôfia kristiana
+    mk: христијанска филозофија
+    nb: kristen filosofi
+    nl: Christelijke filosofie
+    pl: Filozofia chrześcijańska
+    ps: عيسوي فلسفه
+    pt: filosofia cristã
+    ro: Filozofie creștină
+    ru: христианская философия
+    se: kristtalaš filosofiija
+    sh: Hrišćanska filozofija
+    sk: Kresťanská filozofia
+    sl: krščanska filozofija
+    smn: ristâlâš filosofia
+    sms: kriistlaž filofosia
+    sr: хришћанска филозофија
+    sr-ec: Хришћанска филозофија
+    sr-el: Hrišćanska filozofija
+    sv: kristen filosofi
+    ta: கிறித்தவ மெய்யியல்
+    tr: Hristiyan felsefesi
+    uk: християнська філософія
+    vi: Triết học Kitô giáo
+    yue: 基督教哲學
+    zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵕⵓⵎⵉⵢⵜ
+    zh: 基督教哲学
+    zh-hans: 基督教哲学
+    zh-hant: 基督教哲學
+    zh-hk: 基督教哲學
 ---
-
 # [[Christian_philosophy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Christian_philosophy,854807|WD~Christian_philosophy,854807]] 

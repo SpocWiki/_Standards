@@ -1,12 +1,287 @@
 ---
 aliases:
-  - Merkel
-  - Angela Merkel
-  - Angela Dorothea Merkel
-  - Angela Dorothea Kasner
-  - Merkel,Angela
+- Angela Dorothea Kasner
+- Angela Dorothea Merkel
+- Angela Merkel
+- Angela Merkele
+- Angela Merkelová
+- Merkel
+- Merkel,Angela
+- Si Angela Merkel
+- Άνγκελα Μέρκελ
+- Ангела Доротея Меркель
+- Ангела Меркел
+- Ангела Меркель
+- Ангела Мэркель
+- Меркель Ангела
+- Меркель, Ангела
+- Меркель, Аҥгела
+- Անգելա Մերկել
+- Անժելա Մըրքըլ
+- אַנגעלאַ מערקל
+- אנגלה מרקל
+- آنگلا مرکل
+- آنݣيلا ميركيل
+- أنغيلا ميركل
+- ئەنگێلا مێرکڵ
+- انجيلا ميركيل
+- انګېلا مېرکل
+- انگیلا میرکل
+- اینجلا مرکل
+- अंगेला मैर्केल
+- आंगेला मेर्केल
+- आंगेला मैर्केल
+- एन्जेला मर्केल
+- আঙ্গেলা মের্কেল
+- ਐਂਜਿਲਾ ਮੇਰਕਲ
+- ଏଞ୍ଜେଲା ମେର୍କେଲ୍
+- அங்கெலா மேர்க்கெல்
+- ఏంజెలా మెర్కెల్
+- ಏಂಜೆಲಾ ಮರ್ಕೆಲ್
+- ഏൻജല മെർക്കൽ
+- อังเกลา แมร์เคิล
+- ອັງເກລາ ແມເຄີລ
+- ཨན་ཇེ་ལ་མེར་ཁེལ།
+- အင်ဂျလာ မာကယ်
+- ანგელა მერკელი
+- አንጌላ መርክል
+- アンゲラ・メルケル
+- 安格拉·梅克爾
+- 安格拉·默克尔
+- 安格拉·默克爾
+- 末苦厄
+- 默克爾
+- 앙겔라 메르켈
+has_id_wikidata: Q567
+dv_has_:
+  name_:
+    ab: Меркель, Ангела
+    ace: Angela Merkel
+    af: Angela Merkel
+    am: አንጌላ መርክል
+    an: Angela Merkel
+    ar: أنغيلا ميركل
+    ary: آنݣيلا ميركيل
+    arz: انجيلا ميركيل
+    ast: Angela Merkel
+    atj: Angela Merkel
+    ay: Angela Merkel
+    az: Angela Merkel
+    azb: آنگلا مرکل
+    ba: Ангела Меркель
+    ban: Angela Merkel
+    bar: Angela Merkel
+    bcl: Si Angela Merkel
+    be: Ангела Меркель
+    be-tarask: Ангела Мэркель
+    bg: Ангела Меркел
+    bho: अंगेला मैर्केल
+    bi: Angela Merkel
+    bn: আঙ্গেলা মের্কেল
+    bo: ཨན་ཇེ་ལ་མེར་ཁེལ།
+    br: Angela Merkel
+    bs: Angela Merkel
+    ca: Angela Merkel
+    ce: Меркель Ангела
+    ceb: Angela Merkel
+    ckb: ئەنگێلا مێرکڵ
+    co: Angela Merkel
+    crh: Angela Merkel
+    cs: Angela Merkelová
+    cv: Ангела Меркель
+    cy: Angela Merkel
+    da: Angela Merkel
+    dag: Angela Merkel
+    de: Angela Merkel
+    de-at: Angela Merkel
+    de-ch: Angela Merkel
+    diq: Angela Merkel
+    dsb: Angela Merkel
+    dty: एन्जेला मर्केल
+    ee: Angela Merkel
+    egl: Angela Merkel
+    el: Άνγκελα Μέρκελ
+    eml: Angela Merkel
+    en: Angela Merkel
+    en-ca: Angela Merkel
+    en-gb: Angela Merkel
+    eo: Angela Merkel
+    es: Angela Merkel
+    et: Angela Merkel
+    eu: Angela Merkel
+    ext: Angela Merkel
+    fa: آنگلا مرکل
+    ff: Angela Merkel
+    fi: Angela Merkel
+    fit: Angela Merkel
+    fj: Angela Merkel
+    fo: Angela Merkel
+    fr: Angela Merkel
+    frc: Angela Merkel
+    frp: Angela Merkel
+    frr: Angela Merkel
+    fur: Angela Merkel
+    fy: Angela Merkel
+    ga: Angela Merkel
+    gd: Angela Merkel
+    gl: Angela Merkel
+    gn: Angela Merkel
+    gor: Angela Merkel
+    gsw: Angela Merkel
+    gv: Angela Merkel
+    ha: Angela Merkel
+    hak: Angela Merkel
+    he: אנגלה מרקל
+    hi: आंगेला मैर्केल
+    hr: Angela Merkel
+    hsb: Angela Merkel
+    hu: Angela Merkel
+    hy: Անգելա Մերկել
+    hyw: Անժելա Մըրքըլ
+    ia: Angela Merkel
+    id: Angela Merkel
+    ie: Angela Merkel
+    ig: Angela Merkel
+    ilo: Angela Merkel
+    io: Angela Merkel
+    is: Angela Merkel
+    it: Angela Merkel
+    ja: アンゲラ・メルケル
+    jv: Angela Dorothea Merkel
+    ka: ანგელა მერკელი
+    kaa: Angela Merkel
+    kbp: Angela Merkel
+    kg: Angela Merkel
+    kk: Ангела Меркель
+    kn: ಏಂಜೆಲಾ ಮರ್ಕೆಲ್
+    ko: 앙겔라 메르켈
+    koi: Ангела Меркель
+    ksh: Angela Merkel
+    ku: Angela Merkel
+    kw: Angela Merkel
+    ky: Ангела Меркель
+    la: Angela Merkel
+    lad: Angela Merkel
+    lb: Angela Merkel
+    lfn: Angela Merkel
+    li: Angela Merkel
+    lij: Angela Merkel
+    lmo: Angela Merkel
+    lo: ອັງເກລາ ແມເຄີລ
+    lt: Angela Merkel
+    lv: Angela Merkele
+    mai: एन्जेला मर्केल
+    map-bms: Angela Merkel
+    mg: Angela Merkel
+    mhr: Меркель, Аҥгела
+    min: Angela Merkel
+    mk: Ангела Меркел
+    ml: ഏൻജല മെർക്കൽ
+    mn: Ангела Меркель
+    mr: आंगेला मेर्केल
+    ms: Angela Merkel
+    mt: Angela Merkel
+    mul: Angela Merkel
+    mus: Angela Merkel
+    mwl: Angela Merkel
+    my: အင်ဂျလာ မာကယ်
+    mzn: آنگلا مرکل
+    nah: Angela Merkel
+    nan: Angela Merkel
+    nap: Angela Merkel
+    nb: Angela Merkel
+    nds: Angela Merkel
+    nds-nl: Angela Merkel
+    ne: एन्जेला मर्केल
+    nia: Angela Merkel
+    nl: Angela Merkel
+    nn: Angela Merkel
+    nov: Angela Merkel
+    nrm: Angela Merkel
+    oc: Angela Merkel
+    olo: Angela Merkel
+    or: ଏଞ୍ଜେଲା ମେର୍କେଲ୍
+    pa: ਐਂਜਿਲਾ ਮੇਰਕਲ
+    pag: Angela Merkel
+    pam: Angela Merkel
+    pap: Angela Merkel
+    pcd: Angela Merkel
+    pdc: Angela Merkel
+    pdt: Angela Merkel
+    pfl: Angela Merkel
+    pih: Angela Merkel
+    pl: Angela Merkel
+    pms: Angela Merkel
+    pnb: اینجلا مرکل
+    ps: انګېلا مېرکل
+    pt: Angela Merkel
+    pt-br: Angela Merkel
+    qu: Angela Merkel
+    rm: Angela Merkel
+    rmy: Angela Merkel
+    ro: Angela Merkel
+    roa-tara: Angela Merkel
+    ru: Ангела Меркель
+    rup: Angela Merkel
+    sah: Ангела Меркель
+    sc: Angela Merkel
+    scn: Angela Merkel
+    sco: Angela Merkel
+    sdc: Angela Merkel
+    se: Angela Merkel
+    sei: Angela Merkel
+    sgs: Angela Merkel
+    sh: Angela Merkel
+    sk: Angela Merkelová
+    skr: انگیلا میرکل
+    sl: Angela Merkel
+    sli: Angela Merkel
+    so: Angela Merkel
+    sq: Angela Merkel
+    sr: Ангела Меркел
+    sr-ec: Ангела Меркел
+    stq: Angela Merkel
+    su: Angela Merkel
+    sv: Angela Merkel
+    sw: Angela Merkel
+    szl: Angela Merkel
+    ta: அங்கெலா மேர்க்கெல்
+    te: ఏంజెలా మెర్కెల్
+    tet: Angela Merkel
+    tg: Ангела Меркел
+    th: อังเกลา แมร์เคิล
+    tl: Angela Merkel
+    tly: Angela Merkel
+    tpi: Angela Merkel
+    tr: Angela Merkel
+    tt: Ангела Доротея Меркель
+    ty: Angela Merkel
+    uk: Ангела Меркель
+    ur: انگیلا میرکل
+    uz: Angela Merkel
+    vec: Angela Merkel
+    vi: Angela Merkel
+    vls: Angela Merkel
+    vmf: Angela Merkel
+    vo: Angela Merkel
+    vro: Angela Merkel
+    wa: Angela Merkel
+    war: Angela Merkel
+    wo: Angela Merkel
+    wuu: 末苦厄
+    xh: Angela Merkel
+    yi: אַנגעלאַ מערקל
+    yo: Angela Merkel
+    yue: 默克爾
+    zea: Angela Merkel
+    zh: 安格拉·默克爾
+    zh-cn: 安格拉·默克尔
+    zh-hans: 安格拉·默克尔
+    zh-hant: 安格拉·梅克爾
+    zh-hk: 安格拉·默克爾
+    zh-tw: 安格拉·梅克爾
+    zu: Angela Merkel
 ---
-
 ## #has_/text_of_/abstract 
 
 > Angela Dorothea Merkel ([aŋˈɡeːla doʁoˈteːa ˈmɛʁkl̩] ; née Kasner; born 17 July 1954) 

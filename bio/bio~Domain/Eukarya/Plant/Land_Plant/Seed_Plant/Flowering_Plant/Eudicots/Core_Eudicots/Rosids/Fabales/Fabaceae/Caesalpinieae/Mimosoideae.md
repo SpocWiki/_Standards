@@ -1,9 +1,96 @@
 ---
 aliases:
-  - Mimosoideae
+- Mimoosenplaanten
+- mimosafamilien
+- Mimosengewächse
+- Mimosoideae
+- Mimosòidia
+- Mimozoideoj
+- Mimozovke
+- Mimozowate
+- mimózaformák
+- Phân họ Trinh nữ
+- Thaqu yura urin rikch'aq ayllu
+- Мімозові
+- мимози
+- мимозови
+- Мимозовые
+- միմոզայիններ
+- מימוסיים
+- سنطاوات
+- کهوریان
+- วงศ์ย่อยสีเสียด
+- მიმოზისებრნი
+- ネムノキ亜科
+- 含羞草亚科
+- 含羞草亞科
+- 미모사군
 title: Mimosoideae
+has_id_wikidata: Q504243
+dv_has_:
+  name_:
+    af: Mimosoideae
+    an: Mimosoideae
+    ar: سنطاوات
+    arz: سنطاوات
+    ast: Mimosoideae
+    bg: мимозови
+    ca: Mimosòidia
+    ceb: Mimosoideae
+    cs: Mimosoideae
+    de: Mimosengewächse
+    en: Mimosoideae
+    eo: Mimozoideoj
+    es: Mimosoideae
+    eu: Mimosoideae
+    ext: Mimosoideae
+    fa: کهوریان
+    fi: Mimosoideae
+    fr: Mimosoideae
+    frr: Mimoosenplaanten
+    ga: Mimosoideae
+    gl: Mimosoideae
+    he: מימוסיים
+    hr: Mimozovke
+    hu: mimózaformák
+    hy: միմոզայիններ
+    ia: Mimosoideae
+    id: Mimosoideae
+    ie: Mimosoideae
+    io: Mimosoideae
+    it: Mimosoideae
+    ja: ネムノキ亜科
+    ka: მიმოზისებრნი
+    ko: 미모사군
+    la: Mimosoideae
+    lt: Mimosoideae
+    mk: мимози
+    ms: Mimosoideae
+    mul: Mimosoideae
+    nb: mimosafamilien
+    nl: Mimosoideae
+    nn: mimosafamilien
+    oc: Mimosoideae
+    pl: Mimozowate
+    pt: Mimosoideae
+    pt-br: Mimosoideae
+    qu: Thaqu yura urin rikch'aq ayllu
+    ro: Mimosoideae
+    ru: Мимозовые
+    sl: mimozovke
+    sq: Mimosoideae
+    th: วงศ์ย่อยสีเสียด
+    uk: Мімозові
+    vi: Phân họ Trinh nữ
+    vo: Mimosoideae
+    war: Mimosoideae
+    zh: 含羞草亚科
+    zh-cn: 含羞草亚科
+    zh-hans: 含羞草亚科
+    zh-hant: 含羞草亞科
+    zh-hk: 含羞草亞科
+    zh-tw: 含羞草亞科
 ---
-
 # [[Mimosoideae]] 
 
 ![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg) 

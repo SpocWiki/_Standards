@@ -1,9 +1,103 @@
 ---
 aliases:
-  - Giuseppe Peano
-  - Peano,Giuseppe
+- Cüzeppe Peano
+- Džuzepe Peāno
+- Giuseppe Peano
+- Giuseppi Peanu
+- Iosephus Peano
+- Peano,Giuseppe
+- Đuzepe Peano
+- Τζουζέπε Πεάνο
+- Ђузепе Пеано
+- Џузепе Пеано
+- Джузеппе Пеано
+- Джузэпэ Пеана
+- Ջուզեպե Պեանո
+- ג'וזפה פאנו
+- جوزيبه بيانو
+- جوزپه پئانو
+- جوزپه پینو
+- ჯუზეპე პეანო
+- ジュゼッペ・ペアノ
+- 朱塞佩·皮亚诺
+- 朱塞佩·皮亞諾
+- 주세페 페아노
+has_id_wikidata: Q191029
+dv_has_:
+  name_:
+    an: Giuseppe Peano
+    ar: جوزيبه بيانو
+    arz: جوزيبه بيانو
+    ast: Giuseppe Peano
+    az: Cüzeppe Peano
+    azb: جوزپه پئانو
+    be: Джузэпэ Пеана
+    br: Giuseppe Peano
+    ca: Giuseppe Peano
+    cs: Giuseppe Peano
+    da: Giuseppe Peano
+    de: Giuseppe Peano
+    el: Τζουζέπε Πεάνο
+    en: Giuseppe Peano
+    eo: Giuseppe Peano
+    es: Giuseppe Peano
+    et: Giuseppe Peano
+    eu: Giuseppe Peano
+    fa: جوزپه پینو
+    fi: Giuseppe Peano
+    fr: Giuseppe Peano
+    ga: Giuseppe Peano
+    gl: Giuseppe Peano
+    he: ג'וזפה פאנו
+    hr: Giuseppe Peano
+    ht: Giuseppe Peano
+    hu: Giuseppe Peano
+    hy: Ջուզեպե Պեանո
+    ia: Giuseppe Peano
+    id: Giuseppe Peano
+    io: Giuseppe Peano
+    it: Giuseppe Peano
+    ja: ジュゼッペ・ペアノ
+    ka: ჯუზეპე პეანო
+    ko: 주세페 페아노
+    la: Iosephus Peano
+    lfn: Giuseppe Peano
+    lt: Giuseppe Peano
+    lv: Džuzepe Peāno
+    mk: Џузепе Пеано
+    mul: Giuseppe Peano
+    nb: Giuseppe Peano
+    nl: Giuseppe Peano
+    nn: Giuseppe Peano
+    pap: Giuseppe Peano
+    pl: Giuseppe Peano
+    pms: Giuseppe Peano
+    pt: Giuseppe Peano
+    pt-br: Giuseppe Peano
+    ro: Giuseppe Peano
+    ru: Джузеппе Пеано
+    scn: Giuseppi Peanu
+    sco: Giuseppe Peano
+    sk: Giuseppe Peano
+    sl: Giuseppe Peano
+    sq: Giuseppe Peano
+    sr: Ђузепе Пеано
+    sr-ec: Ђузепе Пеано
+    sr-el: Đuzepe Peano
+    sv: Giuseppe Peano
+    tr: Giuseppe Peano
+    uk: Джузеппе Пеано
+    vi: Giuseppe Peano
+    xmf: ჯუზეპე პეანო
+    yue: Giuseppe Peano
+    zh: 朱塞佩·皮亞諾
+    zh-cn: 朱塞佩·皮亚诺
+    zh-hans: 朱塞佩·皮亚诺
+    zh-hant: 朱塞佩·皮亞諾
+    zh-hk: 朱塞佩·皮亞諾
+    zh-sg: 朱塞佩·皮亚诺
+    zh-tw: 朱塞佩·皮亞諾
 ---
-
 #has_/time_/started :: 1858-08-27 
 #has_/time_/stopped :: 1932-04-20 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

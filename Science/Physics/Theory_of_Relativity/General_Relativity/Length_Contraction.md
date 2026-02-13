@@ -1,19 +1,104 @@
 ---
 aliases:
-  - Lorentz contraction
-  - Lorentz–FitzGerald contraction
-  - Length_Contraction
-  - Length Contraction
+- contracció de Lorentz
+- contracción de Lorentz
+- Contraction des longueurs
+- Contracția Lorentz
+- Contraición de Lorentz
+- Contrazione delle lunghezze
+- contração do comprimento
+- hosszkontrakció
+- kontrakce délek
+- kontrakcija dolžine
+- Kontrakcija dužine
+- Kontraksi panjang
+- Lengdekontraksjon
+- Lengtecontractie
+- Length Contraction
+- Length_Contraction
+- Lorentz contraction
+- Lorentz-mallongiĝo
+- Lorentzen uzkurdura
+- Lorentzkontraktion
+- Lorentz–FitzGerald contraction
+- Längdkontraktion
+- Længdeforkortelse
+- Thu hẹp độ dài
+- Wzór Lorentza
+- Лоренцеве укорочення
+- Лоренцево сокращение
+- Лоренцова контракција
+- скарачэньне Лёрэнца
+- Երկարության կրճատում
+- انقباض طول
+- تقلص الأطوال
+- لمبائی کا سکڑاؤ
+- দৈর্ঘ্য সংকোচন
+- நீளச் சுருக்கம்
+- ການຫົດຕົວຄວາມຍາວ
+- 長さの収縮
+- 長度收縮
+- 长度收缩
+- 길이 수축
 has_id_wikidata: Q836595
 discoverer_or_inventor:
-  - '[[_Standards/WikiData/WD~George_FitzGerald,536469]]'
-  - '[[_Standards/WikiData/WD~Hendrik_Lorentz,41688]]'
+- '[[_Standards/WikiData/WD~George_FitzGerald,536469]]'
+- '[[_Standards/WikiData/WD~Hendrik_Lorentz,41688]]'
 instance_of: '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
 time_of_discovery_or_invention:
-  - 1892-01-01T00:00:00Z
-  - 1889-01-01T00:00:00Z
+- 1892-01-01T00:00:00Z
+- 1889-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: تقلص الأطوال
+    ast: Contraición de Lorentz
+    be-tarask: скарачэньне Лёрэнца
+    bn: দৈর্ঘ্য সংকোচন
+    ca: contracció de Lorentz
+    cs: kontrakce délek
+    da: Længdeforkortelse
+    de: Lorentzkontraktion
+    en: length contraction
+    en-ca: Length contraction
+    en-gb: Length contraction
+    eo: Lorentz-mallongiĝo
+    es: contracción de Lorentz
+    eu: Lorentzen uzkurdura
+    fa: انقباض طول
+    fr: Contraction des longueurs
+    gl: Contracción de Lorentz
+    gsw: Lorentzkontraktion
+    hr: Kontrakcija dužine
+    hu: hosszkontrakció
+    hy: Երկարության կրճատում
+    id: Kontraksi panjang
+    it: Contrazione delle lunghezze
+    ja: 長さの収縮
+    ko: 길이 수축
+    lo: ການຫົດຕົວຄວາມຍາວ
+    mk: Лоренцова контракција
+    nb: Lengdekontraksjon
+    nl: Lengtecontractie
+    nn: lengdekontraksjon
+    pl: Wzór Lorentza
+    pt: contração do comprimento
+    pt-br: contração do comprimento
+    ro: Contracția Lorentz
+    ru: Лоренцево сокращение
+    sh: Kontrakcija dužine
+    sl: kontrakcija dolžine
+    sr: Kontrakcija dužine
+    sv: Längdkontraktion
+    ta: நீளச் சுருக்கம்
+    uk: Лоренцеве укорочення
+    ur: لمبائی کا سکڑاؤ
+    vi: Thu hẹp độ dài
+    yue: 長度收縮
+    zh: 长度收缩
+    zh-hans: 长度收缩
+    zh-hant: 長度收縮
+    zh-hk: 長度收縮
 ---
-
 # [[Length_Contraction]] 
 
 #is_/same_as :: [[WD~Length_contraction,836595]] 

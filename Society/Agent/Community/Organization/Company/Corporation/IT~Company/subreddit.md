@@ -1,9 +1,61 @@
 ---
 aliases:
-  - Reddit
-  - subreddit
+- lipu Wesi
+- Reddit
+- subreddit
+- Редит
+- רדיט
+- رؠد ڈِٹ
+- ردیت
+- ريديت
+- ریڈٹ
+- ریډیټ
+- ڕێدیت
+- रेडिट
+- রেডিট
+- ਰੈਡਿਟ
+- ரெட்டிட்
+- రెడ్డిట్
+- เรดดิท
+- 레딧
+has_id_wikidata: Q1136
+dv_has_:
+  name_:
+    af: Reddit
+    ar: ريديت
+    ary: ريديت
+    arz: ريديت
+    bg: Редит
+    bn: রেডিট
+    ca: reddit
+    ckb: ڕێدیت
+    en: Reddit
+    fa: ردیت
+    he: רדיט
+    hi: रेडिट
+    hu: reddit
+    ja: Reddit
+    ko: 레딧
+    ks: رؠد ڈِٹ
+    ltg: reddit
+    mk: reddit
+    ms-arab: ريديت
+    mul: Reddit
+    nb: reddit
+    nds-nl: reddit
+    ne: रेडिट
+    nl: reddit
+    oc: reddit
+    pa: ਰੈਡਿਟ
+    ps: ریډیټ
+    ru: reddit
+    ta: ரெட்டிட்
+    te: రెడ్డిట్
+    th: เรดดิท
+    tok: lipu Wesi
+    ur: ریڈٹ
+    zh: Reddit
 ---
-
 ## #has_/text_of_/abstract 
 
 > **Reddit** (RED-it) is an American proprietary social news aggregation and forum social media platform. 

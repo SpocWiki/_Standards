@@ -1,9 +1,53 @@
 ---
-location: [ 115.917 , 39.733 ] 
+location:
+- 115.917
+- 39.733
 aliases:
-  - Homo erectus pekinensis
-  - Peking_Man
-  - Peking Man
+- Człowiek pekiński
+- Home de Pequín
+- Homem de Pequim
+- Homme de Pékin
+- Homo erectus pekinensis
+- Manusia Peking
+- Người vượn Bắc Kinh
+- Pekin Adamı
+- Peking Man
+- Peking-Mensch
+- pekingi ember
+- pekinginihminen
+- Pekingmennesket
+- Pekingmens
+- Pekingmänniskan
+- Pekingo gizaki
+- Pekingský člověk
+- Peking_Man
+- Pekino žmogus
+- Pekinški človek
+- Pekinški čovjek
+- Sinanthropus pekinensis
+- Taong Peking
+- Človek pekinský
+- пекиншки човек
+- Сінантрап
+- Синантроп
+- сынантрап
+- սինանթրոպոս
+- אדם פקין
+- إنسان بكين
+- انسان بكين
+- انسان پکن
+- پیکنگ کا انسان
+- पीकिंग मानव
+- पेकिङ मान्छे
+- পেকিং মানৱ
+- ਪੀਕਿੰਗ ਮਾਨਵ
+- பீக்கிங் மனிதன்
+- มนุษย์ปักกิ่ง
+- სინანთროპი
+- 北京人
+- 北京原人
+- 北京猿人
+- 베이징 원인
 has_id_wikidata: Q45931
 taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
@@ -14,8 +58,78 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sinathropus%20pekinens
 taxon_name: Homo erectus pekinensis
 coordinate_location: Point(115.917 39.733)
 end_time: -250000-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Pekingmens
+    ar: إنسان بكين
+    arz: انسان بكين
+    as: পেকিং মানৱ
+    ast: Homo erectus pekinensis
+    ba: Синантроп
+    be: Сінантрап
+    be-tarask: сынантрап
+    bg: синантроп
+    ca: Home de Pequín
+    ceb: Homo erectus pekinensis
+    cs: Pekingský člověk
+    cy: Homo erectus pekinensis
+    da: Sinanthropus pekinensis
+    de: Peking-Mensch
+    en: Peking Man
+    en-us: Peking Man
+    eo: Homo erectus pekinensis
+    es: Homo erectus pekinensis
+    eu: Pekingo gizaki
+    fa: انسان پکن
+    fi: pekinginihminen
+    fr: Homme de Pékin
+    ga: Homo erectus pekinensis
+    gan: 北京人
+    he: אדם פקין
+    hi: पीकिंग मानव
+    hr: Pekinški čovjek
+    hu: pekingi ember
+    hy: սինանթրոպոս
+    id: Manusia Peking
+    it: Homo erectus pekinensis
+    ja: 北京原人
+    ka: სინანთროპი
+    kk: Синантроп
+    ko: 베이징 원인
+    la: Homo erectus pekinensis
+    lt: Pekino žmogus
+    ms: Manusia Peking
+    mul: Homo erectus pekinensis
+    nb: Pekingmennesket
+    ne: पेकिङ मान्छे
+    nl: Pekingmens
+    nn: Pekingmennesket
+    pa: ਪੀਕਿੰਗ ਮਾਨਵ
+    pl: Człowiek pekiński
+    pt: Homem de Pequim
+    ro: Homo erectus pekinensis
+    ru: Синантроп
+    sh: Pekinški čovjek
+    sk: Človek pekinský
+    sl: Pekinški človek
+    sq: Homo erectus pekinensis
+    sr: пекиншки човек
+    sr-ec: Пекиншки човек
+    sv: Pekingmänniskan
+    ta: பீக்கிங் மனிதன்
+    th: มนุษย์ปักกิ่ง
+    tl: Taong Peking
+    tr: Pekin Adamı
+    uk: Homo erectus pekinensis
+    ur: پیکنگ کا انسان
+    vi: Người vượn Bắc Kinh
+    war: Homo erectus pekinensis
+    wuu: 北京猿人
+    yue: 北京人
+    zh: 北京人
+    zh-cn: 北京人
+    zh-hans: 北京人
 ---
-
 # [[Peking_Man]] 
 
 #is_/same_as :: [[WD~Peking_Man,45931]] 

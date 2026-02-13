@@ -1,31 +1,165 @@
 ---
 aliases:
-  - Multikulturalismus
-  - Multiculturalism
+- amlddiwylliannaeth
+- chủ nghĩa đa văn hóa
+- daugiakultūriškumas
+- fleirkulturell
+- ilchultúrthacht
+- Kolontsaina marolafy
+- maaŋgâkulttuurlâšvuotâ
+- monikulttuurisuus
+- Multiculturalism
+- multiculturalisme
+- multiculturalismo
+- multiculturalismu
+- Multiculturalismus
+- multiculturałismo
+- multikulturalisme
+- multikulturalismo
+- Multikulturalismus
+- multikulturalizam
+- multikulturalizem
+- Multikulturalizm
+- Multikulturalizmi
+- multikulturalizmus
+- multikulturālisms
+- multikultuursus
+- multkulturismo
+- máŋggakultuvrralašvuohta
+- määŋgkulttuurvuõtt
+- mångkultur
+- To-bûn-hòa-chú-gī
+- wielokulturowość
+- Çokkültürlülük
+- πολυπολιτισμικότητα
+- Мултикултурализъм
+- мултикултуризам
+- мультикультуралізм
+- мультикультурализм
+- мультикультуризм
+- мультыкультуралізм
+- Соёлын олон янз байдал
+- Чандгонагии фарҳангӣ
+- רב-תרבותיות
+- تعدد ثقافي
+- كۆپ مەدەنىيەتچىلىك
+- چندگانگی فرهنگی
+- बहुसंस्कृतिवाद
+- ਬਹੁਸਭਿਆਚਾਰਵਾਦ
+- பல்லினப்பண்பாடு
+- బహుళసాంస్కృతికత
+- ಬಹುಸಾಂಸ್ಕೃತಿಕತೆ
+- คตินิยมวัฒนธรรมหลากหลาย
+- ယဉ်ကျေးမှုများ ပေါင်းစည်းနေထိုင်ခြင်း
+- 多元文化主义
+- 多元文化主義
+- 多元文化政策
+- 多文化主義
+- 다문화주의
 has_id_wikidata: Q190656
 studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
 part_of:
-  - '[[_Standards/WikiData/WD~social_philosophy,180592]]'
-  - '[[_Standards/WikiData/WD~social_policy,23542337]]'
+- '[[_Standards/WikiData/WD~social_philosophy,180592]]'
+- '[[_Standards/WikiData/WD~social_policy,23542337]]'
 opposite_of:
-  - '[[_Standards/WikiData/WD~Leitkultur,450461]]'
-  - '[[_Standards/WikiData/WD~melting_pot,862085]]'
-  - '[[_Standards/WikiData/WD~monoculturalism,6238114]]'
+- '[[_Standards/WikiData/WD~Leitkultur,450461]]'
+- '[[_Standards/WikiData/WD~melting_pot,862085]]'
+- '[[_Standards/WikiData/WD~monoculturalism,6238114]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
-  - '[[_Standards/WikiData/WD~Q31448685,31448685]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-  - '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
+- '[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]'
+- '[[_Standards/WikiData/WD~Q31448685,31448685]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
 different_from:
-  - '[[_Standards/WikiData/WD~polyculturalism,3907285]]'
-  - '[[_Standards/WikiData/WD~multiracialism,6935057]]'
+- '[[_Standards/WikiData/WD~polyculturalism,3907285]]'
+- '[[_Standards/WikiData/WD~multiracialism,6935057]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~multicultural_society,20820002]]'
 instance_of: '[[_Standards/WikiData/WD~ideology,7257]]'
 Krugosvet_article_archived_: istoriya/MULTIKULTURNOE_OBSHCHESTVO.html
 Commons_category: Multiculturalism
+dv_has_:
+  name_:
+    ar: تعدد ثقافي
+    ast: multiculturalismo
+    az: Multikulturalizm
+    ba: Мультикультурализм
+    be-tarask: мультыкультуралізм
+    bg: Мултикултурализъм
+    ca: multiculturalisme
+    cs: multikulturalismus
+    cy: amlddiwylliannaeth
+    da: multikulturalisme
+    de: Multikulturalismus
+    el: πολυπολιτισμικότητα
+    en: multiculturalism
+    eo: multkulturismo
+    es: multiculturalismo
+    et: multikultuursus
+    eu: multikulturalismo
+    fa: چندگانگی فرهنگی
+    fi: monikulttuurisuus
+    fr: multiculturalisme
+    ga: ilchultúrthacht
+    gl: multiculturalismo
+    he: רב-תרבותיות
+    hi: बहुसंस्कृतिवाद
+    hr: multikulturalizam
+    hu: multikulturalizmus
+    id: multikulturalisme
+    ig: multiculturalism
+    it: multiculturalismo
+    ja: 多文化主義
+    jv: Multikulturalisme
+    kn: ಬಹುಸಾಂಸ್ಕೃತಿಕತೆ
+    ko: 다문화주의
+    ky: мультикультуризм
+    la: Multiculturalismus
+    lt: daugiakultūriškumas
+    lv: multikulturālisms
+    mg: Kolontsaina marolafy
+    mk: мултикултуризам
+    mn: Соёлын олон янз байдал
+    my: ယဉ်ကျေးမှုများ ပေါင်းစည်းနေထိုင်ခြင်း
+    nan: To-bûn-hòa-chú-gī
+    nb: multikulturalisme
+    nl: multiculturalisme
+    nn: fleirkulturell
+    pa: ਬਹੁਸਭਿਆਚਾਰਵਾਦ
+    pl: wielokulturowość
+    pt: multiculturalismo
+    ro: multiculturalism
+    ru: мультикультурализм
+    sc: multiculturalismu
+    sco: multiculturalism
+    se: máŋggakultuvrralašvuohta
+    sh: multikulturalizam
+    sk: multikulturalizmus
+    sl: multikulturalizem
+    smn: maaŋgâkulttuurlâšvuotâ
+    sms: määŋgkulttuurvuõtt
+    sq: Multikulturalizmi
+    sr: мултикултуризам
+    sv: mångkultur
+    ta: பல்லினப்பண்பாடு
+    te: బహుళసాంస్కృతికత
+    tg: Чандгонагии фарҳангӣ
+    th: คตินิยมวัฒนธรรมหลากหลาย
+    tr: Çokkültürlülük
+    ug: كۆپ مەدەنىيەتچىلىك
+    uk: мультикультуралізм
+    vec: multiculturałismo
+    vi: chủ nghĩa đa văn hóa
+    wuu: 多元文化主义
+    yue: 多元文化主義
+    zh: 多元文化政策
+    zh-cn: 多元文化政策
+    zh-hans: 多元文化政策
+    zh-hant: 多元文化政策
+    zh-hk: 多元文化政策
+    zh-sg: 多元文化政策
+    zh-tw: 多元文化政策
 ---
-
 # [[Multiculturalism]] 
 
 #is_/same_as :: [[WD~Multiculturalism,190656]] 

@@ -1,4 +1,85 @@
-
+---
+has_id_wikidata: Q506986
+dv_has_:
+  name_:
+    ar: تآلف بالتعاقب (مفكك)
+    be: Арпеджыа
+    bg: Арпеджо
+    ca: arpegi
+    cs: arpeggio
+    cy: arpeggio
+    da: arpeggio
+    de: Arpeggio
+    el: αρπέτζο
+    en: arpeggio
+    eo: Arpeĝo
+    es: arpegio
+    et: Arpedžo
+    eu: arpegio
+    fa: آرپژ
+    fi: arpeggio
+    fr: arpège
+    gl: Arpexo
+    he: ארפג'ו
+    hu: Arpeggio
+    hy: արպեջո
+    io: Arpejo
+    is: Brotinn hljómur
+    it: Arpeggio
+    ja: アルペッジョ
+    ka: არპეჯო
+    ko: 아르페지오
+    ky: Арпеджио
+    mk: Арпеџо
+    nb: arpeggio
+    nl: Arpeggio
+    pl: Arpeggio
+    pt: Arpejo
+    ru: арпеджио
+    sl: arpeggio
+    sr: Арпеђато
+    sr-ec: Арпеђато
+    sr-el: Arpeđato
+    sv: Arpeggio
+    tg: Арпеҷио
+    tr: Arpej
+    uk: арпеджіо
+    uz: Arpejio
+    yue: 琶音
+    zh: 琶音
+    zh-hans: 琶音
+    zh-hant: 琶音
+    zh-hk: 琶音
+aliases:
+- Arpedžo
+- arpeggio
+- arpegi
+- arpegio
+- Arpej
+- Arpejio
+- Arpejo
+- Arpexo
+- Arpeđato
+- Arpeĝo
+- arpège
+- Brotinn hljómur
+- αρπέτζο
+- Арпеђато
+- Арпеџо
+- арпеджіо
+- арпеджио
+- Арпеджо
+- Арпеджыа
+- Арпеҷио
+- արպեջո
+- ארפג'ו
+- آرپژ
+- تآلف بالتعاقب (مفكك)
+- არპეჯო
+- アルペッジョ
+- 琶音
+- 아르페지오
+---
 # [[Arpeggio]]
 
 

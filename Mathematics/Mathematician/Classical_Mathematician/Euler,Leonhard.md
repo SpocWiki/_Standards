@@ -1,187 +1,414 @@
 ---
 aliases:
-  - Leonhard Euler
-  - Euler
-  - Leonhard_Euler
-  - Euler,Leonhard
+- Eiler Leonard
+- Euler
+- Euler,Leonhard
+- Euleri Leonhard
+- Eulero
+- Eyler Leonard
+- jan Lejona Ole
+- Leonard Euler
+- Leonard Eyler
+- Leonard Eýler
+- leonard.euler
+- Leonards Eilers
+- Leonhard Euler
+- Leonhardus Eulerus
+- Leonhard_Euler
+- Li-ang-ha-te. Yu-la
+- Liunardu Euleru
+- Liyoonaardi Ooyiler
+- Λέοναρντ Όιλερ
+- Леанард Ойлер
+- Леанард Эйлер
+- Леонард Ейлер
+- Леонард Ојлер
+- Леонард Ойлер
+- Леонард Эйлер
+- Эйлер
+- Эйлер Леонард
+- Эйлер, Леонард
+- Լեոնարդ Էյլեր
+- לאונרד אוילר
+- לעאנהארד אוילער
+- أويلر
+- لئونارد اویلر
+- ليونارد يولر
+- ليونهارت أويلر
+- لیونارڈ ایولر
+- لیونارډ ایولر
+- لیونہارڈ اویلر
+- لیۆنارد ئۆیلەر
+- लिओनार्ड ऑइलर
+- लियोनार्ड ऑयलर
+- लियोनार्ड ओइलर
+- लियोनार्ड युलर
+- লিঅ'নাৰ্ড অইলাৰ
+- লেওনার্ড অয়লার
+- ਲਿਓਨਹਾਰਡ ਇਓਲਰ
+- லியோனார்டு ஆய்லர்
+- లియొనార్డ్ ఆయిలర్
+- ಲಿಯೊನಾರ್ಡ್ ಯೂಲರ್
+- ലെയൻഹാർട് ഓയ്ലർ
+- ලියොනාඩ් ඉයුලර්
+- เลอ็อนฮาร์ท อ็อยเลอร์
+- လီယွန်ဟတ် အွိုင်လာ
+- ლეონარდ ეილერი
+- ላዮናርድ ኦይለር
+- លេអុនហាដ អយល័រ
+- ᱞᱤᱭᱚᱱᱦᱟᱨᱰ ᱤᱣᱞᱟᱨ
+- レオンハルト・オイラー
+- 歐拉
+- 莱昂哈德·欧拉
+- 萊昂哈德·歐拉
+- 레온하르트 오일러
+- "\U0001033B\U00010334\U00010349\U0001033D\U00010337\U00010330\U00010342\U00010333 \U00010334\U00010345\U0001033B\U00010334\U00010342"
 has_id_wikidata: Q7604
 academic_degree:
-  - "[[_Standards/WikiData/WD~master's_degree,183816]]"
-  - '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
+- "[[_Standards/WikiData/WD~master's_degree,183816]]"
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
 ArhivX_LOD: 34010
 BHCL_UUID: ae608bb5-f8a2-437a-9822-aa70154a92d8
 cause_of_death: '[[_Standards/WikiData/WD~cerebral_hemorrhage,1368943]]'
 child:
-  - '[[_Standards/WikiData/WD~Johann_Euler,556346]]'
-  - '[[_Standards/WikiData/WD~Christoph_Euler,4530045]]'
-  - '[[_Standards/WikiData/WD~Carl_Euler,63877366]]'
+- '[[_Standards/WikiData/WD~Johann_Euler,556346]]'
+- '[[_Standards/WikiData/WD~Christoph_Euler,4530045]]'
+- '[[_Standards/WikiData/WD~Carl_Euler,63877366]]'
 Commons_category: Leonhard Euler
 Commons_Creator_page: Leonhard Euler
 Commons_gallery: Leonhard Euler
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~Old_Swiss_Confederacy,435583]]'
-  - '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
-  - '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
+- '[[_Standards/WikiData/WD~Old_Swiss_Confederacy,435583]]'
+- '[[_Standards/WikiData/WD~Kingdom_of_Prussia,27306]]'
+- '[[_Standards/WikiData/WD~Russian_Empire,34266]]'
 date_of_birth: 1707-04-15
 date_of_death: 1783-09-18
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=116917015
-  - http://www.digiporta.net/index.php?id=166339804
-  - http://www.digiporta.net/index.php?id=363670038
-  - http://www.digiporta.net/index.php?id=435349859
-  - http://www.digiporta.net/index.php?id=863999909
-  - http://www.digiporta.net/index.php?id=674689736
-  - http://www.digiporta.net/index.php?id=367205456
-  - http://www.digiporta.net/index.php?id=942474402
-  - http://www.digiporta.net/index.php?id=907853109
-  - http://www.digiporta.net/index.php?id=480058009
+- http://www.digiporta.net/index.php?id=116917015
+- http://www.digiporta.net/index.php?id=166339804
+- http://www.digiporta.net/index.php?id=363670038
+- http://www.digiporta.net/index.php?id=435349859
+- http://www.digiporta.net/index.php?id=863999909
+- http://www.digiporta.net/index.php?id=674689736
+- http://www.digiporta.net/index.php?id=367205456
+- http://www.digiporta.net/index.php?id=942474402
+- http://www.digiporta.net/index.php?id=907853109
+- http://www.digiporta.net/index.php?id=480058009
 described_by_source:
-  - '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
-  - '[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]'
+- '[[_Standards/WikiData/WD~Allgemeine_Deutsche_Biographie,590208]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1950_1958),20968284]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Physicists__Biographical_Dictionary,126178049]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[_Standards/WikiData/WD~Astronomers__A_Biographical_Reference,126740695]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Johann_Bernoulli,227897]]'
 educated_at: '[[_Standards/WikiData/WD~University_of_Basel,372608]]'
 employer:
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_State_University,27621]]'
 family_name: '[[_Standards/WikiData/WD~Euler,15844600]]'
 father: '[[_Standards/WikiData/WD~Paul_III_Euler,108838555]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~graph_theory,131476]]'
-  - '[[_Standards/WikiData/WD~differential_calculus,149999]]'
-  - '[[_Standards/WikiData/WD~ballistics,184631]]'
-  - '[[_Standards/WikiData/WD~music_theory,193544]]'
-  - '[[_Standards/WikiData/WD~calculus_of_variations,216861]]'
-  - '[[_Standards/WikiData/WD~shipbuilding,474200]]'
-  - '[[_Standards/WikiData/WD~theory_of_differential_equations,28575007]]'
-  - '[[_Standards/WikiData/WD~mathematics,395]]'
-  - '[[_Standards/WikiData/WD~physics,413]]'
-  - '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
-  - '[[_Standards/WikiData/WD~logic,8078]]'
-  - '[[_Standards/WikiData/WD~number_theory,12479]]'
-  - '[[_Standards/WikiData/WD~optics,14620]]'
-  - '[[_Standards/WikiData/WD~mechanics,41217]]'
+- '[[_Standards/WikiData/WD~graph_theory,131476]]'
+- '[[_Standards/WikiData/WD~differential_calculus,149999]]'
+- '[[_Standards/WikiData/WD~ballistics,184631]]'
+- '[[_Standards/WikiData/WD~music_theory,193544]]'
+- '[[_Standards/WikiData/WD~calculus_of_variations,216861]]'
+- '[[_Standards/WikiData/WD~shipbuilding,474200]]'
+- '[[_Standards/WikiData/WD~theory_of_differential_equations,28575007]]'
+- '[[_Standards/WikiData/WD~mathematics,395]]'
+- '[[_Standards/WikiData/WD~physics,413]]'
+- '[[_Standards/WikiData/WD~mathematical_analysis,7754]]'
+- '[[_Standards/WikiData/WD~logic,8078]]'
+- '[[_Standards/WikiData/WD~number_theory,12479]]'
+- '[[_Standards/WikiData/WD~optics,14620]]'
+- '[[_Standards/WikiData/WD~mechanics,41217]]'
 given_name: '[[_Standards/WikiData/WD~Leonhard,18226374]]'
 Google_Doodle: leonhard-eulers-306th-birthday
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leonhard%20Euler.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Euler%20Grave%20at%20Alexander%20Nevsky%20Monastry.jpg
 influenced_by:
-  - '[[_Standards/WikiData/WD~Pierre_de_Fermat,75655]]'
-  - '[[_Standards/WikiData/WD~Pierre-Louis_Moreau_de_Maupertuis,164374]]'
-  - '[[_Standards/WikiData/WD~Christiaan_Huygens,39599]]'
+- '[[_Standards/WikiData/WD~Pierre_de_Fermat,75655]]'
+- '[[_Standards/WikiData/WD~Pierre-Louis_Moreau_de_Maupertuis,164374]]'
+- '[[_Standards/WikiData/WD~Christiaan_Huygens,39599]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121245291
 Krugosvet_article: nauka_i_tehnika/matematika/ELER_LEONARD.html
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~Russian,7737]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~Russian,7737]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 Libris_URI: vs6888qd42r4qlr
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 medical_condition: '[[_Standards/WikiData/WD~blindness,10874]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Royal_Society,123885]]'
-  - '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
-  - '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
-  - '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
+- '[[_Standards/WikiData/WD~Royal_Society,123885]]'
+- '[[_Standards/WikiData/WD~French_Academy_of_Sciences,188771]]'
+- '[[_Standards/WikiData/WD~Royal_Swedish_Academy_of_Sciences,191583]]'
+- '[[_Standards/WikiData/WD~Royal_Prussian_Academy_of_Sciences,329464]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Academy_of_Sciences_of_Turin,2822396]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg_Academy_of_Sciences,4345832]]'
 mother: '[[_Standards/WikiData/WD~Marguerite_Brucker,108838556]]'
 name_in_native_language: Leonhard Euler
 notable_work:
-  - "[[_Standards/WikiData/WD~Euler's_formula,184871]]"
-  - "[[_Standards/WikiData/WD~Euler's_totient_function,190026]]"
-  - '[[_Standards/WikiData/WD~gamma_function,190573]]'
-  - "[[_Standards/WikiData/WD~Euler's_theorem,193910]]"
-  - "[[_Standards/WikiData/WD~Euler's_identity,204819]]"
-  - '[[_Standards/WikiData/WD~nine-point_circle,214533]]'
-  - '[[_Standards/WikiData/WD~Euler_Mascheroni_constant,273023]]'
-  - '[[_Standards/WikiData/WD~Euler_line,379380]]'
-  - "[[_Standards/WikiData/WD~Euler's_polyhedron_formula,516403]]"
-  - '[[_Standards/WikiData/WD~Eulerian_path,624580]]'
-  - "[[_Standards/WikiData/WD~Euler's_rotation_theorem,681406]]"
-  - '[[_Standards/WikiData/WD~Euler-Lagrange_equation,875744]]'
-  - '[[_Standards/WikiData/WD~Gaussian_integral,1060321]]'
-  - "[[_Standards/WikiData/WD~Euler's_sum_of_powers_conjecture,1096450]]"
-  - "[[_Standards/WikiData/WD~Euler's_four-square_identity,1149225]]"
-  - '[[_Standards/WikiData/WD~Cauchy_Euler_equation,1196465]]'
-  - "[[_Standards/WikiData/WD~Euler's_theorem_in_geometry,1423818]]"
-  - '[[_Standards/WikiData/WD~Euler_diagram,2501020]]'
-  - '[[_Standards/WikiData/WD~lucky_numbers_of_Euler,3342996]]'
-  - "[[_Standards/WikiData/WD~Euler's_theorem,3526990]]"
+- "[[_Standards/WikiData/WD~Euler's_formula,184871]]"
+- "[[_Standards/WikiData/WD~Euler's_totient_function,190026]]"
+- '[[_Standards/WikiData/WD~gamma_function,190573]]'
+- "[[_Standards/WikiData/WD~Euler's_theorem,193910]]"
+- "[[_Standards/WikiData/WD~Euler's_identity,204819]]"
+- '[[_Standards/WikiData/WD~nine-point_circle,214533]]'
+- '[[_Standards/WikiData/WD~Euler_Mascheroni_constant,273023]]'
+- '[[_Standards/WikiData/WD~Euler_line,379380]]'
+- "[[_Standards/WikiData/WD~Euler's_polyhedron_formula,516403]]"
+- '[[_Standards/WikiData/WD~Eulerian_path,624580]]'
+- "[[_Standards/WikiData/WD~Euler's_rotation_theorem,681406]]"
+- '[[_Standards/WikiData/WD~Euler-Lagrange_equation,875744]]'
+- '[[_Standards/WikiData/WD~Gaussian_integral,1060321]]'
+- "[[_Standards/WikiData/WD~Euler's_sum_of_powers_conjecture,1096450]]"
+- "[[_Standards/WikiData/WD~Euler's_four-square_identity,1149225]]"
+- '[[_Standards/WikiData/WD~Cauchy_Euler_equation,1196465]]'
+- "[[_Standards/WikiData/WD~Euler's_theorem_in_geometry,1423818]]"
+- '[[_Standards/WikiData/WD~Euler_diagram,2501020]]'
+- '[[_Standards/WikiData/WD~lucky_numbers_of_Euler,3342996]]'
+- "[[_Standards/WikiData/WD~Euler's_theorem,3526990]]"
 occupation:
-  - '[[_Standards/WikiData/WD~physicist,169470]]'
-  - '[[_Standards/WikiData/WD~mathematician,170790]]'
-  - '[[_Standards/WikiData/WD~inventor,205375]]'
-  - '[[_Standards/WikiData/WD~geographer,901402]]'
-  - '[[_Standards/WikiData/WD~executive,978044]]'
-  - '[[_Standards/WikiData/WD~university_teacher,1622272]]'
-  - '[[_Standards/WikiData/WD~music_theorist,16031530]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
-  - '[[_Standards/WikiData/WD~astronomer,11063]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~geographer,901402]]'
+- '[[_Standards/WikiData/WD~executive,978044]]'
+- '[[_Standards/WikiData/WD~university_teacher,1622272]]'
+- '[[_Standards/WikiData/WD~music_theorist,16031530]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~astronomer,11063]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 place_of_birth: '[[_Standards/WikiData/WD~Basel,78]]'
 place_of_burial:
-  - '[[_Standards/WikiData/WD~Lazarev_Cemetery,2972463]]'
-  - '[[_Standards/WikiData/WD~Smolensky_Lutheran_Cemetery,2972631]]'
+- '[[_Standards/WikiData/WD~Lazarev_Cemetery,2972463]]'
+- '[[_Standards/WikiData/WD~Smolensky_Lutheran_Cemetery,2972631]]'
 place_of_death: '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
 position_held:
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~adjunct,107540029]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~adjunct,107540029]]'
 Regensburg_Classification: SF 2620
 religion_or_worldview: '[[_Standards/WikiData/WD~Protestantism,23540]]'
 residence:
-  - '[[_Standards/WikiData/WD~Q15782821,15782821]]'
-  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Basel,78]]'
+- '[[_Standards/WikiData/WD~Q15782821,15782821]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Basel,78]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Euler%27s%20signature.svg
 spouse:
-  - '[[_Standards/WikiData/WD~Katharina_Euler,37186749]]'
-  - '[[_Standards/WikiData/WD~Salomea_Abigail_Euler,37187641]]'
+- '[[_Standards/WikiData/WD~Katharina_Euler,37186749]]'
+- '[[_Standards/WikiData/WD~Salomea_Abigail_Euler,37187641]]'
 Stack_Exchange_tag: https://hsm.stackexchange.com/tags/euler
 student:
-  - '[[_Standards/WikiData/WD~Joseph-Louis_Lagrange,80222]]'
-  - '[[_Standards/WikiData/WD~Nicolas_Fuss,115664]]'
-  - '[[_Standards/WikiData/WD~Anders_Johan_Lexell,447071]]'
-  - '[[_Standards/WikiData/WD~Johann_Euler,556346]]'
-  - '[[_Standards/WikiData/WD~Mikhail_Golovin,4141818]]'
-  - '[[_Standards/WikiData/WD~Petr_Inokhodtsev,4201322]]'
-  - '[[_Standards/WikiData/WD~Semen_Kotelnikov,4235955]]'
-  - '[[_Standards/WikiData/WD~Stepan_Rumovsky,4400039]]'
+- '[[_Standards/WikiData/WD~Joseph-Louis_Lagrange,80222]]'
+- '[[_Standards/WikiData/WD~Nicolas_Fuss,115664]]'
+- '[[_Standards/WikiData/WD~Anders_Johan_Lexell,447071]]'
+- '[[_Standards/WikiData/WD~Johann_Euler,556346]]'
+- '[[_Standards/WikiData/WD~Mikhail_Golovin,4141818]]'
+- '[[_Standards/WikiData/WD~Petr_Inokhodtsev,4201322]]'
+- '[[_Standards/WikiData/WD~Semen_Kotelnikov,4235955]]'
+- '[[_Standards/WikiData/WD~Stepan_Rumovsky,4400039]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Leonhard_Euler,108133557]]'
 Wolfram_Language_entity_code: Entity["Concept", "Euler::c3487"]
 work_location:
-  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
-  - '[[_Standards/WikiData/WD~Berlin,64]]'
-  - '[[_Standards/WikiData/WD~Basel,78]]'
+- '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+- '[[_Standards/WikiData/WD~Berlin,64]]'
+- '[[_Standards/WikiData/WD~Basel,78]]'
 writing_language:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~French,150]]'
-  - '[[_Standards/WikiData/WD~German,188]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+dv_has_:
+  name_:
+    ady: Эйлер
+    af: Leonhard Euler
+    am: ላዮናርድ ኦይለር
+    an: Leonhard Euler
+    ar: ليونهارت أويلر
+    ary: أويلر
+    arz: ليونارد يولر
+    as: লিঅ'নাৰ্ড অইলাৰ
+    ast: Leonhard Euler
+    az: Leonard Eyler
+    azb: لئونارد اویلر
+    ba: Леонард Эйлер
+    ban: Leonhard Euler
+    bcl: Leonhard Euler
+    be: Леанард Эйлер
+    be-tarask: Леанард Ойлер
+    bg: Леонард Ойлер
+    bho: लियोनार्ड ऑयलर
+    bi: Leonhard Euler
+    bn: লেওনার্ড অয়লার
+    br: Leonhard Euler
+    bs: Leonhard Euler
+    btm: Leonhard Euler
+    bxr: Леонард Эйлер
+    ca: Leonhard Euler
+    ce: Эйлер, Леонард
+    ceb: Leonhard Euler
+    ckb: لیۆنارد ئۆیلەر
+    crh: Leonard Eyler
+    cs: Leonhard Euler
+    cv: Эйлер Леонард
+    cy: Leonhard Euler
+    da: Leonhard Euler
+    de: Leonhard Euler
+    diq: Leonhard Euler
+    el: Λέοναρντ Όιλερ
+    en: Leonhard Euler
+    en-ca: Leonhard Euler
+    en-gb: Leonhard Euler
+    eo: Leonhard Euler
+    es: Leonhard Euler
+    et: Leonhard Euler
+    eu: Leonhard Euler
+    ext: Leonard Euler
+    fa: لئونارد اویلر
+    fi: Leonhard Euler
+    fr: Leonhard Euler
+    frr: Leonhard Euler
+    fy: Leonhard Euler
+    ga: Leonhard Euler
+    gan: 歐拉
+    gcr: Leonhard Euler
+    gd: Leonhard Euler
+    gl: Leonhard Euler
+    gn: Leonhard Euler
+    got: "\U0001033B\U00010334\U00010349\U0001033D\U00010337\U00010330\U00010342\U00010333 \U00010334\U00010345\U0001033B\U00010334\U00010342"
+    gsw: Leonhard Euler
+    ha: Leonhard Euler
+    he: לאונרד אוילר
+    hi: लियोनार्ड ओइलर
+    hif: Leonhard Euler
+    hr: Leonhard Euler
+    ht: Leonhard Euler
+    hu: Leonhard Euler
+    hy: Լեոնարդ Էյլեր
+    ia: Leonhard Euler
+    id: Leonhard Euler
+    ilo: Leonhard Euler
+    io: Leonhard Euler
+    is: Leonhard Euler
+    it: Eulero
+    ja: レオンハルト・オイラー
+    jam: Leonhard Euler
+    jbo: leonard.euler
+    jv: Leonhard Euler
+    ka: ლეონარდ ეილერი
+    kaa: Leonard Euler
+    kab: Leonard Euler
+    kbp: Leonhard Euler
+    kk: Эйлер Леонард
+    km: លេអុនហាដ អយល័រ
+    kn: ಲಿಯೊನಾರ್ಡ್ ಯೂಲರ್
+    ko: 레온하르트 오일러
+    kw: Leonhard Euler
+    ky: Эйлер Леонард
+    la: Leonhardus Eulerus
+    lb: Leonhard Euler
+    lez: Леонард Эйлер
+    li: Leonhard Euler
+    lmo: Leonhard Euler
+    lt: Leonhard Euler
+    lv: Leonards Eilers
+    lzh: 歐拉
+    mag: लियोनार्ड ओइलर
+    mai: लियोनार्ड ओइलर
+    mg: Leonhard Euler
+    mk: Леонард Ојлер
+    ml: ലെയൻഹാർട് ഓയ്ലർ
+    mn: Леонард Эйлер
+    mr: लिओनार्ड ऑइलर
+    ms: Leonhard Euler
+    mul: Leonhard Euler
+    mwl: Leonhard Euler
+    my: လီယွန်ဟတ် အွိုင်လာ
+    nan: Leonhard Euler
+    nb: Leonhard Euler
+    nds: Leonhard Euler
+    new: लियोनार्ड युलर
+    nl: Leonhard Euler
+    nn: Leonhard Euler
+    oc: Leonhard Euler
+    olo: Leonhard Euler
+    om: Liyoonaardi Ooyiler
+    os: Эйлер, Леонард
+    pa: ਲਿਓਨਹਾਰਡ ਇਓਲਰ
+    pap: Leonhard Euler
+    pl: Leonhard Euler
+    pms: Leonhard Euler
+    pnb: لیونارڈ ایولر
+    ps: لیونارډ ایولر
+    pt: Leonhard Euler
+    rm: Leonhard Euler
+    ro: Leonhard Euler
+    ru: Леонард Эйлер
+    rue: Леонард Ейлер
+    sa: लियोनार्ड ओइलर
+    sah: Леонард Эйлер
+    sat: ᱞᱤᱭᱚᱱᱦᱟᱨᱰ ᱤᱣᱞᱟᱨ
+    scn: Liunardu Euleru
+    sco: Leonhard Euler
+    sgs: Leonhard Euler
+    sh: Leonhard Euler
+    si: ලියොනාඩ් ඉයුලර්
+    sk: Leonhard Euler
+    sl: Leonhard Euler
+    sq: Leonard Euler
+    sr: Леонард Ојлер
+    su: Leonhard Euler
+    sv: Leonhard Euler
+    sw: Leonard Euler
+    szy: Li-ang-ha-te. Yu-la
+    ta: லியோனார்டு ஆய்லர்
+    te: లియొనార్డ్ ఆయిలర్
+    tg: Леонард Эйлер
+    th: เลอ็อนฮาร์ท อ็อยเลอร์
+    tk: Leonard Eýler
+    tl: Leonhard Euler
+    tok: jan Lejona Ole
+    tr: Leonhard Euler
+    tt: Леонард Эйлер
+    tum: Leonhard Euler
+    uk: Леонард Ейлер
+    ur: لیونہارڈ اویلر
+    uz: Eyler Leonard
+    vep: Eiler Leonard
+    vi: Leonhard Euler
+    vo: Leonhard Euler
+    vro: Euleri Leonhard
+    war: Leonhard Euler
+    wuu: 萊昂哈德·歐拉
+    xal: Леонард Эйлер
+    xmf: ლეონარდ ეილერი
+    yi: לעאנהארד אוילער
+    yo: Leonhard Euler
+    yue: 歐拉
+    zh: 萊昂哈德·歐拉
+    zh-hans: 莱昂哈德·欧拉
 ---
-
 # [[Euler,Leonhard]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Leonhard_Euler,7604|WD~Leonhard_Euler,7604]] 

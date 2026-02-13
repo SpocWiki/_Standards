@@ -1,28 +1,118 @@
 ---
 aliases:
-  - Brautpreis
-  - bride price
-  - bride-dowry
-  - bride-wealth
-  - bride service
-  - bride token
-  - Bride_Price
-  - Bride Price
+- başlık parası
+- Başlıq
+- Brautpreis
+- bride price
+- bride service
+- bride token
+- bride-dowry
+- bride-wealth
+- Bride_Price
+- brudepris
+- Brudpris
+- bruidsschat
+- Cijena braka
+- Escreix
+- excrex
+- Jeunamè
+- Jujuran
+- kupnina za nevesto
+- Kupovanje neveste
+- li
+- Mahar
+- Morsiuslunnaat
+- prezo de fianĉino
+- prezzo della sposa
+- preço de noiva
+- prix de la fiancée
+- Qalin
+- Qalım
+- Roora
+- wiano
+- віно
+- вена
+- вено
+- Ирæд
+- Сулуу
+- Ҡалым
+- Հարսի գին
+- מוהר
+- حق مہر
+- شیربها
+- صداق
+- কইনাৰ মূল্য
+- পণ
+- కన్యాశుల్కం
+- ಕನ್ಯಾಶುಲ್ಕ
+- ማጫ
+- ブライドプライス
+- 聘礼
+- 聘禮
+- 신붓값
 has_id_wikidata: Q765157
 instance_of:
-  - '[[_Standards/WikiData/WD~custom,251777]]'
-  - '[[_Standards/WikiData/WD~deed,705914]]'
+- '[[_Standards/WikiData/WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~deed,705914]]'
 described_by_source:
-  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~mahr,902443]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Wiano,16614710]]'
-  - '[[_Standards/WikiData/WD~dowry,45803]]'
+- '[[_Standards/WikiData/WD~Wiano,16614710]]'
+- '[[_Standards/WikiData/WD~dowry,45803]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D0%B2%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0%20%D0%B2%20%D0%9C%D0%B0%D0%BB%D0%BE%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8.jpg
 Commons_category: Bridewealth
+dv_has_:
+  name_:
+    ace: Jeunamè
+    am: ማጫ
+    ar: صداق
+    as: কইনাৰ মূল্য
+    az: Başlıq
+    ba: Ҡалым
+    be: вена
+    bjn: Jujuran
+    bn: পণ
+    ca: Escreix
+    da: Brudepris
+    de: Brautpreis
+    en: bride price
+    eo: prezo de fianĉino
+    es: excrex
+    fa: شیربها
+    fi: Morsiuslunnaat
+    fr: prix de la fiancée
+    he: מוהר
+    hy: Հարսի գին
+    id: mahar
+    it: prezzo della sposa
+    ja: ブライドプライス
+    kcg: li
+    kn: ಕನ್ಯಾಶುಲ್ಕ
+    ko: 신붓값
+    nb: brudepris
+    nl: bruidsschat
+    os: Ирæд
+    pl: wiano
+    pt: preço de noiva
+    ru: вено
+    sah: Сулуу
+    sh: Cijena braka
+    sl: kupnina za nevesto
+    sn: Roora
+    sr: Kupovanje neveste
+    su: Mahar
+    sv: Brudpris
+    te: కన్యాశుల్కం
+    tr: başlık parası
+    tt: Qalım
+    uk: віно
+    ur: حق مہر
+    uz: Qalin
+    yue: 聘禮
+    zh: 聘礼
 ---
-
 # [[Bride_Price]]
 
 #is_/different_from :: [[Dowry]]

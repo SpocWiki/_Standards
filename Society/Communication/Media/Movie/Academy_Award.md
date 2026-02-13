@@ -1,10 +1,108 @@
 ---
 aliases:
-  - Oscar
-  - Academy Award
-  - Academy Awards
-  - Oscars
-  - Academy_Award
+- '"Oskar" mükafatı'
+- '"Оскар" сыйлыктары'
+- Academy Awairds
+- Academy Award
+- Academy Awards
+- Academy Awards (Oscars)
+- Academy_Award
+- Akademi Ödülleri
+- Akutluɔilɔjik Käleeclonpath
+- Amerikas Kinoakadēmijas balva
+- Anugerah Akademi
+- Gasar Oscar
+- Gawad Academy
+- Giải Oscar
+- Gradaim an Acadaimh
+- Gwobrau'r Academi
+- Jopói Óscar
+- Loka Oscar
+- Nagroda Akademii Filmowej
+- O sṳ̂ khà kîm chhiong chióng
+- Oscar
+- Oscar Chióng
+- Oscar Sariak
+- Oscar-bálkkašupmi
+- Oscar-díj
+- Oscar-palkinto
+- Oscar-prisen
+- Oscar-virðislønin
+- Oscari
+- Oscars
+- Oscars du cinéma
+- oskar
+- Oskar baýragy
+- Oskar Suñay
+- Oskar-premio
+- Oskaras
+- Oskars
+- Pammadayaw nga Oscar
+- Pewasow Akademi
+- Praemia Academiae
+- Premi Oscar
+- Premio Oscar
+- Premio Oskar
+- Premios Óscar
+- Premis Oscar
+- Premiu Oscar
+- Premiul Oscar
+- Premius Óscar
+- Prèmi Oscar
+- Prèmi Òscar
+- Prèmio Oscar
+- Tuzo za Akademi
+- Xelata Oscar
+- Óscar
+- Óskarsverðlaunin
+- Βραβεία Αμερικανικής Ακαδημίας Κινηματογράφου
+- Награди на филмовата академия на САЩ
+- Оскар
+- Оскар марапаты
+- Оскарын шагнал
+- Филмска награда на академијата на САД
+- Ҷоизаи Оскар
+- Օսկար
+- Օսքար
+- אסקאר
+- פרס אוסקר
+- آسکر اعزاز
+- ئاكادىمىيە مۇكاپاتى
+- اسکار
+- اسکار اؤدولو
+- اوسکار جایزه
+- اکادمی انعام
+- اۊسکارˇ جأيزه
+- جائزة الأوسكار
+- جايزة اوسكار
+- جایزه اسکار
+- خەڵاتەکانی ئۆسکار
+- لجايزة د لؤسكار
+- अकादमी सिरपा
+- अकेडमी पुरस्कार
+- एकेडमी पुरस्कार
+- एकेडेमी पुरस्कार
+- ऑस्कर पुरस्कार
+- ओस्कार
+- অস্কাৰ বঁটা
+- একাডেমি পুরস্কার
+- ਅਕੈਡਮੀ ਅਵਾਰਡ
+- அகாதமி விருது
+- ఆస్కార్ పురస్కారం
+- ಅಕ್ಯಾಡೆಮಿ ಪ್ರಶಸ್ತಿ
+- അക്കാദമി അവാർഡ്
+- รางวัลออสการ์
+- ລາງວັນອອສກາ
+- ཨོ་སི་ཁཱ་བྱ་དགའ།
+- အော်စကာဆု
+- ოსკარი
+- ኦስካር
+- Ẹ̀bùn Akádẹ́mì
+- アカデミー賞
+- 奥斯卡奖
+- 奥斯卡金像奖
+- 奧斯卡金像獎
+- 아카데미상
 has_id_wikidata: Q19020
 Baidu_Tieba_name: 奥斯卡
 Commons_category: Academy Awards
@@ -13,13 +111,13 @@ conferred_by: '[[_Standards/WikiData/WD~Academy_of_Motion_Picture_Arts_and_Scien
 confidential: private
 country: '[[_Standards/WikiData/WD~United_States,30]]'
 cssclasses:
-  - private
-  - note
+- private
+- note
 described_by_source: '[[_Standards/WikiData/WD~Disney_A_to_Z,3710090]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Academy_Award,4671334]]'
-  - '[[_Standards/WikiData/WD~Academy_Awards_ceremony,16913666]]'
-  - '[[_Standards/WikiData/WD~Óscar,21475960]]'
+- '[[_Standards/WikiData/WD~Academy_Award,4671334]]'
+- '[[_Standards/WikiData/WD~Academy_Awards_ceremony,16913666]]'
+- '[[_Standards/WikiData/WD~Óscar,21475960]]'
 Douban_site_name: oscar
 draft: true
 exact_match: http://wordnet-rdf.princeton.edu/pwn30/07268967-n
@@ -30,25 +128,25 @@ expiryDate: ''
 Facebook_username: TheAcademy
 Giphy_username: oscars
 GitHub_topic:
-  - oscars
-  - academy-awards
+- oscars
+- academy-awards
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_International_Feature_Film,105304]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Documentary_Feature_Film,111332]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,131520]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director_(Comedy_Picture),3451157]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Picture,102427]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director,103360]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actress,103618]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_International_Feature_Film,105304]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actor,106291]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Supporting_Actress,106301]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Animated_Feature,106800]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Adapted_Screenplay,107258]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Documentary_Feature_Film,111332]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Song,112243]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Cinematography,131520]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Score,488651]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Director_(Comedy_Picture),3451157]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Original_Dramatic_Score,22235329]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Writing,_Original_Screenplay,41417]]'
 has_Template: '[[Extract~Note~Template]]'
 has_time_started: 2025-07-22
 headquarters_location: '[[_Standards/WikiData/WD~Hollywood,34006]]'
@@ -70,22 +168,178 @@ publish: false
 publishDate: ''
 RIA_Novosti_reference: 54276827
 social_media_followers:
-  - 3130000
-  - 3719699
+- 3130000
+- 3719699
 subclass_of: '[[_Standards/WikiData/WD~film_award,4220917]]'
 tags:
-  - Academy_Award
-  - excalidraw
+- Academy_Award
+- excalidraw
 TASS_reference: 17244621
 title: Academy_Award
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Academy_Awards,5483199]]'
-  - '[[_Standards/WikiData/WD~Template_Infobox_Academy_Awards,13361762]]'
+- '[[_Standards/WikiData/WD~Template_Academy_Awards,5483199]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_Academy_Awards,13361762]]'
 trophy_awarded: '[[_Standards/WikiData/WD~Oscar_statuette,11291954]]'
 type: private_note
 U_S_National_Archives_Identifier: 10663067
+dv_has_:
+  name_:
+    af: Oscar
+    am: ኦስካር
+    an: Premio Oscar
+    ar: جائزة الأوسكار
+    ary: لجايزة د لؤسكار
+    arz: جايزة اوسكار
+    as: অস্কাৰ বঁটা
+    ast: Premios Óscar
+    az: '"Oskar" mükafatı'
+    azb: اسکار اؤدولو
+    ba: Оскар
+    bar: Oscar
+    be: Оскар
+    be-tarask: Оскар
+    bg: Награди на филмовата академия на САЩ
+    bn: একাডেমি পুরস্কার
+    bo: ཨོ་སི་ཁཱ་བྱ་དགའ།
+    br: Oskar
+    bs: Oscar
+    ca: Premis Oscar
+    ckb: خەڵاتەکانی ئۆسکار
+    co: Oscar
+    cs: Oscar
+    cy: Gwobrau'r Academi
+    da: Oscar
+    de: Oscar
+    de-at: Oscar
+    de-ch: Oscar
+    din: Akutluɔilɔjik Käleeclonpath
+    dty: एकेडेमी पुरस्कार
+    el: Βραβεία Αμερικανικής Ακαδημίας Κινηματογράφου
+    eml: Prèmi Òscar
+    en: Academy Awards
+    en-ca: Academy Awards
+    en-gb: Academy Awards
+    eo: Oskar-premio
+    es: Premios Óscar
+    et: Oscar
+    eu: Oscar Sariak
+    ext: Premius Óscar
+    fa: جایزه اسکار
+    fi: Oscar-palkinto
+    fo: Oscar-virðislønin
+    fr: Oscars du cinéma
+    fy: Academy Award
+    ga: Gradaim an Acadaimh
+    gan: 奧斯卡金像獎
+    gl: Premios Óscar
+    glk: اۊسکارˇ جأيزه
+    gn: Jopói Óscar
+    gsw: Oscar
+    ha: Gasar Oscar
+    hak: O sṳ̂ khà kîm chhiong chióng
+    he: פרס אוסקר
+    hi: अकेडमी पुरस्कार
+    hif: Academy Awards (Oscars)
+    hr: Oscar
+    hu: Oscar-díj
+    hy: Օսկար
+    hyw: Օսքար
+    ia: Premio Oscar
+    id: Academy Award
+    ig: Academy Awards
+    ilo: Pammadayaw nga Oscar
+    io: Premio Oskar
+    is: Óskarsverðlaunin
+    it: premio Oscar
+    ja: アカデミー賞
+    ka: ოსკარი
+    kaa: Oscar
+    kk: Оскар марапаты
+    kn: ಅಕ್ಯಾಡೆಮಿ ಪ್ರಶಸ್ತಿ
+    ko: 아카데미상
+    ku: Xelata Oscar
+    kw: Pewasow Akademi
+    ky: '"Оскар" сыйлыктары'
+    la: Praemia Academiae
+    lb: Oscar
+    li: Academy Awards
+    lmo: Prèmi Oscar
+    lo: ລາງວັນອອສກາ
+    lt: Oskaras
+    lv: Amerikas Kinoakadēmijas balva
+    mai: एकेडमी पुरस्कार
+    mdf: Оскар
+    mg: Loka Oscar
+    mk: Филмска награда на академијата на САД
+    ml: അക്കാദമി അവാർഡ്
+    mn: Оскарын шагнал
+    mr: ऑस्कर पुरस्कार
+    ms: Anugerah Akademi
+    my: အော်စကာဆု
+    mzn: اوسکار جایزه
+    nan: Oscar Chióng
+    nb: Oscar
+    nds: Oscar
+    ne: ओस्कार
+    new: अकादमी सिरपा
+    nl: Academy Award
+    nn: Oscar-prisen
+    oc: Oscar
+    om: Academy Awards
+    pa: ਅਕੈਡਮੀ ਅਵਾਰਡ
+    pl: Nagroda Akademii Filmowej
+    pms: Premi Oscar
+    pnb: اکادمی انعام
+    ps: اسکار
+    pt: Óscar
+    pt-br: Oscar
+    qu: Oskar Suñay
+    rki: အော်စကာဆု
+    ro: Premiul Oscar
+    ru: Оскар
+    rue: Оскар
+    sah: Оскар
+    sc: Premiu Oscar
+    scn: Premiu Oscar
+    sco: Academy Awairds
+    se: Oscar-bálkkašupmi
+    sgs: Oskars
+    sh: Oscari
+    sk: Academy Awards
+    sl: oskar
+    sq: Academy Award
+    sr: Оскар
+    sv: Oscar
+    sw: Tuzo za Akademi
+    ta: அகாதமி விருது
+    te: ఆస్కార్ పురస్కారం
+    tg: Ҷоизаи Оскар
+    th: รางวัลออสการ์
+    tk: Oskar baýragy
+    tl: Gawad Academy
+    tr: Akademi Ödülleri
+    tt: Оскар
+    ug: ئاكادىمىيە مۇكاپاتى
+    uk: Оскар
+    ur: آسکر اعزاز
+    uz: Oscar
+    vec: Prèmio Oscar
+    vi: Giải Oscar
+    wuu: 奥斯卡奖
+    xmf: ოსკარი
+    yi: אסקאר
+    yo: Ẹ̀bùn Akádẹ́mì
+    yue: 奧斯卡金像獎
+    zh: 奧斯卡金像獎
+    zh-cn: 奥斯卡金像奖
+    zh-hans: 奥斯卡金像奖
+    zh-hant: 奧斯卡金像獎
+    zh-hk: 奧斯卡金像獎
+    zh-mo: 奧斯卡金像獎
+    zh-my: 奥斯卡金像奖
+    zh-sg: 奥斯卡金像奖
+    zh-tw: 奧斯卡金像獎
 ---
-
 # [[Academy_Award]] 
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Academy_Awards,19020]]

@@ -1,9 +1,102 @@
 ---
 aliases:
-  - Centrolenidae
+- Centrolenidae
+- Centrolènid
+- Chʼał niłtólí
+- Glasfrösche
+- Glasgrodor
+- glaskikkers
+- Glaspuutn
+- Glass frog
+- glassfrosker
+- Katak kaca
+- prosojne žabe
+- Rosněnkovití
+- Stiklavarlinės
+- Stiklvaržu dzimta
+- Szklenicowate
+- Vitroranoj
+- üvegbékafélék
+- Скляні жаби
+- стаклени жаби
+- Стеклянные лягушки
+- стъклени жаби
+- צנטרולניים
+- ضفدع الزجاج
+- قورباغه شیشهای
+- सेन्ट्रोल्रेनिडे
+- सेन्त्रोलेनिदए
+- கண்ணாடித் தவளை
+- ಸೆಂಟೊರೊಲೆನಿಡೆ
+- ᱥᱤᱥᱟ ᱨᱚᱴᱮ
+- 瞻星蛙科
+- 유리개구리
 title: Centrolenidae
+has_id_wikidata: Q53752
+dv_has_:
+  name_:
+    an: Centrolenidae
+    ar: ضفدع الزجاج
+    arz: ضفدع الزجاج
+    ast: Centrolenidae
+    bg: стъклени жаби
+    ca: Centrolènid
+    ceb: Centrolenidae
+    cs: Rosněnkovití
+    de: Glasfrösche
+    de-ch: Glasfrösche
+    en: Centrolenidae
+    en-ca: Glass frog
+    en-gb: Glass frog
+    eo: Vitroranoj
+    es: Centrolenidae
+    eu: Centrolenidae
+    ext: Centrolenidae
+    fa: قورباغه شیشهای
+    fi: Centrolenidae
+    fr: Centrolenidae
+    ga: Centrolenidae
+    gl: Centrolenidae
+    he: צנטרולניים
+    hi: सेन्ट्रोल्रेनिडे
+    hu: üvegbékafélék
+    ia: Centrolenidae
+    id: Katak kaca
+    ie: Centrolenidae
+    io: Centrolenidae
+    it: Centrolenidae
+    kn: ಸೆಂಟೊರೊಲೆನಿಡೆ
+    ko: 유리개구리
+    la: Centrolenidae
+    lt: Stiklavarlinės
+    lv: Stiklvaržu dzimta
+    mk: стаклени жаби
+    mul: Centrolenidae
+    nb: glassfrosker
+    nl: glaskikkers
+    nv: Chʼał niłtólí
+    oc: Centrolenidae
+    pl: Szklenicowate
+    pt: Centrolenidae
+    pt-br: Centrolenidae
+    ro: Centrolenidae
+    ru: Стеклянные лягушки
+    sa: सेन्त्रोलेनिदए
+    sat: ᱥᱤᱥᱟ ᱨᱚᱴᱮ
+    sl: prosojne žabe
+    sq: Centrolenidae
+    sv: Glasgrodor
+    ta: கண்ணாடித் தவளை
+    tr: Centrolenidae
+    uk: Скляні жаби
+    vi: Centrolenidae
+    vls: Glaspuutn
+    vo: Centrolenidae
+    war: Centrolenidae
+    zh: 瞻星蛙科
+    zh-cn: 瞻星蛙科
+    zh-hans: 瞻星蛙科
 ---
-
 # [[Centrolenidae]]
 
 Glass Frogs 

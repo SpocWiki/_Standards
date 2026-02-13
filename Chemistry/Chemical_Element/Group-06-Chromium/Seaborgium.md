@@ -1,50 +1,278 @@
 ---
 aliases:
+- ISigamchibi
+- jinmrsiborgi
+- seaboirgiam
+- seaborg
+- Seaborgi
+- seaborgio
+- Seaborgiom
+- seaborgiu
+- Seaborgium
+- Seaborgiumi
+- Seaborgiwm
+- seaborgiyum
+- Seaborgiyûm
+- Seaborgj
+- seaborgju
+- Seaborguio
+- Seaborgyo
+- Seaborgyu
+- seaborxu
+- seabòrgi
+- Seabòrgiu
+- seabórgio
+- Seabörgio
+- seborgio
+- seborgiumo
+- seborgín
+- seeborgium
+- siaborghiu
+- Siborgii
+- siborgij
+- Siborgijum
+- siborgin
+- siborgio
+- Siborgium
+- Siborgiy
+- Siiborgiyaam
+- syborgis
+- sziborgium
+- sībordžijs
+- Sɩbɔrgɩyɔm
+- σιμπόργκιο
+- сіборгій
+- Сиборги
+- сиборгијум
+- сиборгий
+- Сиборгиум
+- сыборг
+- սիբորգիում
+- סיבורגיום
+- سىبورگىي
+- سيبورجيوم
+- سيبورغيوم
+- سيبورݣيوم
+- سیبورجیم
+- سیبورگئیم
+- سیبورگیم
+- سیبۆرگیۆم
+- सिबोर्गियम
+- सीबोर्गियम
+- सीबोर्जियम
+- সিবর্গিয়াম
+- ਸੀਬੋਰਗੀਅਮ
+- સીબોર્ગીયમ
+- ସିବୋର୍ଜିଅମ
+- சீபோர்கியம்
+- సియాబోర్గియం
+- ಸೀಬೋರ್ಗಿಯಮ್
+- സീബോർഗിയം
+- ซีบอร์เกียม
+- སྰི་བོར་ཇིམ།
+- ဆီဘော်ဂျီယမ်
+- სიბორგიუმი
+- ሲቦርጂየም
+- シーボーギウム
+- 시보귬
+- "\U00028B4E"
+- "\U0002CB73"
 has_id_wikidata: Q1234
 part_of:
-  - "[[_Standards/WikiData/WD~group_6,193280]]"
-  - "[[_Standards/WikiData/WD~period_7,244979]]"
+- '[[_Standards/WikiData/WD~group_6,193280]]'
+- '[[_Standards/WikiData/WD~period_7,244979]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~synthetic_element,755992]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Yuri_Oganessian,1144326]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-different_from: "[[_Standards/WikiData/WD~Seaborg,15945748]]"
-subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~Seaborg,15945748]]'
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 atomic_number: 106
-named_after: "[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]"
-OmegaWiki_Defined_Meaning: "359210"
+named_after: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+OmegaWiki_Defined_Meaning: 359210
 Commons_gallery: Seaborgium
 Commons_category: Seaborgium
 time_of_discovery_or_invention: 1974-07-01T00:00:00Z
-Unicode_character: 𨭎
+Unicode_character: "\U00028B4E"
 element_symbol: Sg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20106%20Seaborgium.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elektronskal%20106.svg
-electron_configuration: "[Rn] 5f¹⁴ 6d⁴ 7s²"
+electron_configuration: '[Rn] 5f¹⁴ 6d⁴ 7s²'
 CAS_Registry_Number: 54038-81-2
 DSSTOX_compound_identifier: DTXCID501323012
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]]"
+  - '[[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]]"
+- '[[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]]'
+dv_has_:
+  name_:
+    af: Seaborgium
+    am: ሲቦርጂየም
+    an: Seaborguio
+    anp: सीबोर्गियम
+    ar: سيبورغيوم
+    ary: سيبورݣيوم
+    arz: سيبورجيوم
+    ast: seaborxu
+    az: Siborgium
+    ba: Сиборгий
+    ban: Seaborgium
+    bcl: Seaborgyo
+    be: Сіборгій
+    be-tarask: сыборг
+    bg: сиборгий
+    bho: सीबोर्गियम
+    bn: সিবর্গিয়াম
+    bo: སྰི་བོར་ཇིམ།
+    br: Seaborgiom
+    bs: siborgij
+    ca: seaborgi
+    cdo: Seaborgium
+    ceb: Seaborgyo
+    ckb: سیبۆرگیۆم
+    co: Seaborgiu
+    cs: seaborgium
+    cv: Сиборги
+    cy: Seaborgiwm
+    da: seaborgium
+    de: Seaborgium
+    el: σιμπόργκιο
+    en: seaborgium
+    en-gb: seaborgium
+    eo: seborgiumo
+    es: seaborgio
+    et: seaborgium
+    eu: seaborgio
+    fa: سیبورگیم
+    fi: seaborgium
+    fr: seaborgium
+    frr: Seaborgium
+    fur: Seaborgj
+    ga: seaboirgiam
+    gd: Seaborgium
+    gl: seaborgio
+    gu: સીબોર્ગીયમ
+    gv: seeborgium
+    hak: seaborgium
+    he: סיבורגיום
+    hi: सीबोर्गियम
+    hif: Seaborgium
+    hr: siborgij
+    hu: sziborgium
+    hy: սիբորգիում
+    ia: seaborgium
+    id: seaborgium
+    io: seborgio
+    is: seborgín
+    it: seaborgio
+    ja: シーボーギウム
+    jbo: jinmrsiborgi
+    jv: Seaborgium
+    ka: სიბორგიუმი
+    kbp: Sɩbɔrgɩyɔm
+    kk: Сиборгий
+    kn: ಸೀಬೋರ್ಗಿಯಮ್
+    ko: 시보귬
+    ku: Seaborgiyûm
+    kv: Сиборгий
+    kw: Seaborgiom
+    ky: Сиборгий
+    la: seaborgium
+    lb: Seaborgium
+    lfn: siborgio
+    li: Seaborgium
+    lij: Seabörgio
+    lt: syborgis
+    lv: sībordžijs
+    lzh: "\U00028B4E"
+    mk: сиборгиум
+    ml: സീബോർഗിയം
+    mn: сиборги
+    mr: सीबोर्जियम
+    mrj: Сиборгий
+    ms: Seaborgium
+    mt: seaborgju
+    my: ဆီဘော်ဂျီယမ်
+    nan: Seaborgium
+    nb: seaborgium
+    ne: सिबोर्गियम
+    new: सीबोर्गियम
+    nl: seaborgium
+    nn: seaborgium
+    nov: Siborgium
+    oc: seabòrgi
+    or: ସିବୋର୍ଜିଅମ
+    os: сиборгий
+    pa: ਸੀਬੋਰਗੀਅਮ
+    pi: सीबोर्गियम
+    pl: seaborg
+    pnb: سیبورجیم
+    ps: سيبورجيوم
+    pt: seabórgio
+    pt-br: seabórgio
+    qu: Seaborgyu
+    ro: seaborgiu
+    ru: сиборгий
+    rup: Seaborgiu
+    sa: सीबोर्गियम
+    sc: Seabòrgiu
+    scn: siaborghiu
+    sh: Siborgijum
+    sk: seaborgium
+    sl: siborgij
+    so: Siiborgiyaam
+    sq: Seaborgiumi
+    sr: сиборгијум
+    sr-ec: Сиборгијум
+    stq: Seaborgium
+    sv: seaborgium
+    sw: Seaborgi
+    ta: சீபோர்கியம்
+    te: సియాబోర్గియం
+    tg: Сиборгий
+    th: ซีบอร์เกียม
+    tl: Seaborgyo
+    tr: seaborgiyum
+    tt: сиборгий
+    ug: سىبورگىي
+    uk: сіборгій
+    ur: سیبورگئیم
+    uz: Siborgiy
+    vep: Siborgii
+    vi: seaborgi
+    vo: siborgin
+    war: Seaborgyo
+    wuu: "\U0002CB73"
+    xal: Сиборгиум
+    yo: Seaborgium
+    yue: "\U00028B4E"
+    zh: "\U00028B4E"
+    zh-cn: "\U0002CB73"
+    zh-hans: "\U0002CB73"
+    zh-hant: "\U00028B4E"
+    zh-hk: "\U00028B4E"
+    zh-mo: "\U00028B4E"
+    zh-my: "\U0002CB73"
+    zh-sg: "\U0002CB73"
+    zh-tw: "\U00028B4E"
+    zu: ISigamchibi
 ---
-
 # [[Seaborgium]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]  

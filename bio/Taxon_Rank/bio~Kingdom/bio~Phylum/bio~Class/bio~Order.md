@@ -1,27 +1,262 @@
 ---
 aliases:
-  - Order
-  - bio~Order
+- anmala
+- ba̍k
+- bio~Order
+- būrys
+- bộ
+- D Ornig in dr Biologii
+- dəstə
+- juehegua hekovety
+- kom
+- kārta
+- lahko
+- oda
+- ord
+- Orde
+- ordem
+- orden
+- ordena
+- Order
+- ordin
+- ordine
+- ordni
+- ordning
+- Ordnung
+- ordo
+- ordre
+- Ornen
+- ortnet
+- porjad
+- rad
+- red
+- rend
+- rikch'aq ñiqi
+- rząd
+- selts
+- skift
+- tafesna
+- takım
+- taxım
+- turkum
+- tärtip
+- Uerdnung
+- Uhlelo (kumchazampilo)
+- urdd
+- urnos
+- urzhiad
+- wangsa
+- ættbálkur
+- òd
+- òrdini
+- òrdre
+- òrdugh
+- órdene
+- ôre
+- ùrden
+- řád
+- τάξη
+- авиациялық жасақ
+- аймах
+- атрад/парадак
+- къорд
+- отряд
+- отряд / порядок
+- разред
+- ред
+- роста
+- ряд
+- ряд/порядок
+- түркүм
+- тәртип
+- ушкӑн
+- կարգ
+- סדרה
+- تنضيمة
+- دسته (بیولوژی)
+- راسته
+- رتبة
+- رتبه
+- طبقو
+- طبقہ
+- وۄٹٕچؠ
+- ڕێزە
+- कुल
+- गण
+- বর্গ
+- বৰ্গ
+- ਕ੍ਰਮ
+- ગૌત્ર
+- வரிசை
+- క్రమము
+- നിര
+- ගෝත්රය
+- อันดับ
+- မျိုးစဉ်
+- რანწკი
+- რიგი
+- 目
+- 目 (生物)
+- 목
 has_id_wikidata: Q36602
 described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
 different_from: '[[_Standards/WikiData/WD~Q24704850,24704850]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-  - '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-  - '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 797936
 partially_coincident_with:
-  - '[[_Standards/WikiData/WD~order,10861678]]'
-  - '[[_Standards/WikiData/WD~order,105883353]]'
+- '[[_Standards/WikiData/WD~order,10861678]]'
+- '[[_Standards/WikiData/WD~order,105883353]]'
 part_of:
-  - '[[_Standards/WikiData/WD~subclass,5867051]]'
-  - '[[_Standards/WikiData/WD~superorder,5868144]]'
-  - '[[_Standards/WikiData/WD~grandorder,6462265]]'
-  - '[[_Standards/WikiData/WD~mirorder,7506274]]'
-  - '[[_Standards/WikiData/WD~class,37517]]'
+- '[[_Standards/WikiData/WD~subclass,5867051]]'
+- '[[_Standards/WikiData/WD~superorder,5868144]]'
+- '[[_Standards/WikiData/WD~grandorder,6462265]]'
+- '[[_Standards/WikiData/WD~mirorder,7506274]]'
+- '[[_Standards/WikiData/WD~class,37517]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97.wav
+dv_has_:
+  name_:
+    af: orde
+    an: orden
+    ar: رتبة
+    ary: تنضيمة
+    arz: رتبه
+    as: বৰ্গ
+    ast: orde
+    az: dəstə
+    azb: دسته (بیولوژی)
+    ba: отряд
+    ban: ordo
+    bar: Ordnung
+    be: атрад/парадак
+    be-tarask: атрад/парадак
+    bew: wangsa
+    bg: разред
+    bho: कुल
+    bn: বর্গ
+    br: urzhiad
+    bs: red
+    ca: ordre
+    ckb: ڕێزە
+    cs: řád
+    cv: ушкӑн
+    cy: urdd
+    da: orden
+    de: Ordnung
+    diq: taxım
+    el: τάξη
+    en: order
+    en-ca: order
+    en-gb: order
+    eo: ordo
+    es: orden
+    et: selts
+    eu: ordena
+    fa: راسته
+    fi: lahko
+    fr: ordre
+    fy: skift
+    ga: ord
+    gd: òrdugh
+    gl: orde
+    gn: juehegua hekovety
+    gsw: D Ornig in dr Biologii
+    gu: ગૌત્ર
+    he: סדרה
+    hi: गण
+    hr: red
+    hsb: porjad
+    ht: òd
+    hu: rend
+    hy: կարգ
+    ia: ordine
+    id: ordo
+    ilo: urnos
+    is: ættbálkur
+    it: ordine
+    ja: 目
+    jv: ordo
+    ka: რიგი
+    kab: tafesna
+    kk: авиациялық жасақ
+    ko: 목
+    ks: وۄٹٕچؠ
+    ku-latn: kom
+    ky: түркүм
+    la: ordo
+    lb: Uerdnung
+    li: Orde
+    lmo: ùrden
+    lt: būrys
+    lv: kārta
+    mk: ред
+    ml: നിര
+    ms: order
+    mt: ordni
+    my: မျိုးစဉ်
+    mzn: راسته
+    nan: ba̍k
+    nb: orden
+    nds: Ornen
+    nl: orde
+    nn: orden
+    oc: òrdre
+    om: order
+    os: къорд
+    pa: ਕ੍ਰਮ
+    pam: orden
+    pl: rząd
+    pt: ordem
+    pt-br: ordem
+    qu: rikch'aq ñiqi
+    ro: ordin
+    ru: отряд / порядок
+    rue: ряд
+    sah: аймах
+    scn: òrdini
+    sd: طبقو
+    se: ortnet
+    sh: red
+    shi: anmala
+    si: ගෝත්රය
+    sk: rad
+    sl: red
+    smn: lahko
+    sr: ред
+    su: ordo
+    sv: ordning
+    sw: oda
+    ta: வரிசை
+    te: క్రమము
+    tg: роста
+    th: อันดับ
+    tl: orden
+    tr: takım
+    tt: тәртип
+    tt-cyrl: тәртип
+    tt-latn: tärtip
+    uk: ряд/порядок
+    ur: طبقہ
+    uz: turkum
+    vec: órdene
+    vi: bộ
+    vls: Orde
+    wa: ôre
+    war: ordo
+    wuu: 目 (生物)
+    xmf: რანწკი
+    yue: 目
+    zea: orde
+    zh: 目
+    zh-cn: 目
+    zh-hans: 目
+    zh-hant: 目
+    zh-hk: 目
+    zh-tw: 目
+    zu: Uhlelo (kumchazampilo)
 ---
-
 # [[bio~Order]] 
 
 #is_a_/taxon_rank  

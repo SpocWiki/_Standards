@@ -1,9 +1,123 @@
 ---
 aliases:
-  - Dendrobatidae
+- Ağacadırmananlar
+- Baumsteigerfrösche
+- Boomstieger-Poagen
+- Dendrobatedoj
+- Dendrobatidae
+- Dendrobàtid
+- drzewołazowate
+- Eiturpílafroskur
+- frog
+- frog saigheadnimhe
+- Giftfrø
+- Katak beracun
+- Katak dart
+- Kodhok beracun
+- Medlaipinės
+- nuolimyrkkysammakot
+- nyílméregbéka-félék
+- Piilgifthobelfasker
+- pijlgifkikkers
+- pilgiftfrosker
+- Pilgiftsgrodor
+- Poison Arrow Frog
+- Poison dart frog
+- pralesničkovití
+- Raibvaržu dzimta
+- Shádiʼááhdę́ę́ʼ chʼał kʼaasdáhígíí
+- Zehirli ok kurbağası
+- Дереволази
+- дрволазни жаби
+- Древолазы
+- Дърволази
+- Қурбоқаҳои заҳрогин
+- דנדרובטיים
+- الضفدع السام
+- قورباغه زهرآگین
+- পয়জন ডার্ট ব্যাঙ
+- நச்சுத்தவளை
+- วงศ์กบลูกศรพิษ
+- မြားဆိပ်ဖား
+- ヤドクガエル科
+- 箭毒蛙科
+- 독개구리과
 title: Dendrobatidae
+has_id_wikidata: Q53750
+dv_has_:
+  name_:
+    an: Dendrobatidae
+    ar: الضفدع السام
+    arz: الضفدع السام
+    ast: Dendrobatidae
+    az: Ağacadırmananlar
+    be: Dendrobatidae
+    bg: Дърволази
+    bn: পয়জন ডার্ট ব্যাঙ
+    ca: Dendrobàtid
+    ceb: Dendrobatidae
+    cs: pralesničkovití
+    da: Giftfrø
+    de: Baumsteigerfrösche
+    de-ch: Baumsteigerfrösche
+    en: Dendrobatidae
+    en-ca: Poison dart frog
+    en-gb: Poison dart frog
+    eo: Dendrobatedoj
+    es: Dendrobatidae
+    eu: Dendrobatidae
+    ext: Dendrobatidae
+    fa: قورباغه زهرآگین
+    fi: nuolimyrkkysammakot
+    fo: Eiturpílafroskur
+    fr: Dendrobatidae
+    frr: Piilgifthobelfasker
+    ga: frog saigheadnimhe
+    gl: Dendrobatidae
+    he: דנדרובטיים
+    hi: frog
+    hu: nyílméregbéka-félék
+    ia: Dendrobatidae
+    id: Katak beracun
+    ie: Dendrobatidae
+    io: Dendrobatidae
+    it: Dendrobatidae
+    ja: ヤドクガエル科
+    jv: Kodhok beracun
+    ko: 독개구리과
+    la: Dendrobatidae
+    lt: Medlaipinės
+    lv: Raibvaržu dzimta
+    mk: дрволазни жаби
+    ms: Katak dart
+    mul: Dendrobatidae
+    my: မြားဆိပ်ဖား
+    nb: pilgiftfrosker
+    nl: pijlgifkikkers
+    nv: Shádiʼááhdę́ę́ʼ chʼał kʼaasdáhígíí
+    oc: Dendrobatidae
+    pl: drzewołazowate
+    pt: Dendrobatidae
+    pt-br: Dendrobatidae
+    ro: Dendrobatidae
+    ru: Древолазы
+    si: Poison Arrow Frog
+    sq: Dendrobatidae
+    stq: Boomstieger-Poagen
+    sv: Pilgiftsgrodor
+    ta: நச்சுத்தவளை
+    tg: Қурбоқаҳои заҳрогин
+    th: วงศ์กบลูกศรพิษ
+    tl: Dendrobatidae
+    tr: Zehirli ok kurbağası
+    uk: Дереволази
+    vi: Dendrobatidae
+    vo: Dendrobatidae
+    war: Dendrobatidae
+    zh: 箭毒蛙科
+    zh-cn: 箭毒蛙科
+    zh-tw: 箭毒蛙科
 ---
-
 # [[Dendrobatidae]]
 
 Poison-arrow frogs, Dart-poison frogs, Poison-dart frogs 

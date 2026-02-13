@@ -1,19 +1,90 @@
 ---
 aliases:
+- Buğdakimilər
+- Hordeae
+- Triticeae
+- Tritikeoj
+- Tritícia
+- бодайчалар
+- пченици
+- пшеницевые
+- пшеницови
+- Пшеничні
+- قمحاوية
+- قمحاويه
+- 小麥族
+- 小麦族
+- 밀족
 has_id_wikidata: Q148694
-taxon_rank: "[[_Standards/WikiData/WD~tribe,227936]]"
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
 parent_taxon:
-  - "[[../../../../../../../../../../../../../../WikiData/WD~Pooideae,4662262]]"
-  - "[[_Standards/WikiData/WD~Triticodae,123460083]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[../../../../../../../../../../../../../../WikiData/WD~Pooideae,4662262]]'
+- '[[_Standards/WikiData/WD~Triticodae,123460083]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hordeum%20jubatum%20-%20close-up%20%28aka%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hordeum%20jubatum%20-%20close-up%20%28aka%29.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=1317
 UMLS_CUI: C1070911
 taxon_name: Triticeae
+dv_has_:
+  name_:
+    an: Triticeae
+    ar: قمحاوية
+    arz: قمحاويه
+    ast: Triticeae
+    az: Buğdakimilər
+    be: Triticeae
+    be-tarask: Triticeae
+    bg: пшеницови
+    ca: Tritícia
+    ceb: Triticeae
+    cs: Triticeae
+    de: Triticeae
+    de-ch: Triticeae
+    el: Triticeae
+    en: Triticeae
+    en-ca: Triticeae
+    en-gb: Triticeae
+    eo: Tritikeoj
+    es: Triticeae
+    eu: Triticeae
+    ext: Triticeae
+    fi: Triticeae
+    fr: Triticeae
+    ga: Triticeae
+    gl: Triticeae
+    hr: Triticeae
+    ia: Triticeae
+    ie: Triticeae
+    ilo: Triticeae
+    io: Triticeae
+    it: Hordeae
+    ko: 밀족
+    la: Triticeae
+    mk: пченици
+    mul: Triticeae
+    nl: Triticeae
+    oc: Triticeae
+    pl: Triticeae
+    pt: Triticeae
+    pt-br: Triticeae
+    ro: Triticeae
+    ru: пшеницевые
+    sl: Triticeae
+    sq: Triticeae
+    tt: бодайчалар
+    tt-cyrl: бодайчалар
+    uk: Пшеничні
+    vi: Triticeae
+    vo: Triticeae
+    war: Triticeae
+    zh: 小麦族
+    zh-cn: 小麦族
+    zh-hans: 小麦族
+    zh-hant: 小麥族
+    zh-tw: 小麥族
 ---
-
 # [[Triticeae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Triticeae,148694]] 

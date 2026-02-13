@@ -1,9 +1,77 @@
 ---
 aliases:
-  - Norbert Wiener
-  - Wiener,Norbert
+- Norbert Viner
+- Norbert Wiener
+- Norbertus Wiener
+- Vïyener Norbert
+- Wiener,Norbert
+- Νόρμπερτ Βίνερ
+- Виенер Норберт
+- Винер
+- Норберт Вінер
+- Норберт Винер
+- Норбэрт Вінэр
+- Նորբերտ Վիներ
+- נורברט וינר
+- نوربرت فينر
+- نوربرت وینر
+- ۆىييەنەر نوربەرت
+- नॉर्बर्ट वीनर
+- নরবার্ট উইনার
+- നോർബെർട്ട് വീനർ
+- ნორბერტ ვინერი
+- ノーバート・ウィーナー
+- 諾伯特·維納
+- 诺伯特·维纳
+- 노버트 위너
+has_id_wikidata: Q178577
+dv_has_:
+  name_:
+    ar: نوربرت فينر
+    arz: نوربرت فينر
+    az: Norbert Viner
+    azb: نوربرت وینر
+    be: Норберт Вінер
+    be-tarask: Норбэрт Вінэр
+    bg: Норберт Винер
+    bn: নরবার্ট উইনার
+    cs: Norbert Wiener
+    el: Νόρμπερτ Βίνερ
+    fa: نوربرت وینر
+    he: נורברט וינר
+    hy: Նորբերտ Վիներ
+    ja: ノーバート・ウィーナー
+    ka: ნორბერტ ვინერი
+    kk: Виенер Норберт
+    kk-arab: ۆىييەنەر نوربەرت
+    kk-cn: ۆىييەنەر نوربەرت
+    kk-cyrl: Виенер Норберт
+    kk-kz: Виенер Норберт
+    kk-latn: Vïyener Norbert
+    kk-tr: Vïyener Norbert
+    ko: 노버트 위너
+    ky: Винер
+    la: Norbertus Wiener
+    mk: Норберт Винер
+    ml: നോർബെർട്ട് വീനർ
+    mn: Норберт Винер
+    mr: नॉर्बर्ट वीनर
+    mul: Norbert Wiener
+    ru: Норберт Винер
+    sr: Норберт Винер
+    sr-ec: Норберт Винер
+    sr-el: Norbert Viner
+    tg: Норберт Винер
+    uk: Норберт Вінер
+    xmf: ნორბერტ ვინერი
+    zh: 諾伯特·維納
+    zh-cn: 诺伯特·维纳
+    zh-hans: 诺伯特·维纳
+    zh-hant: 諾伯特·維納
+    zh-hk: 諾伯特·維納
+    zh-sg: 诺伯特·维纳
+    zh-tw: 諾伯特·維納
 ---
-
 #has_/time_/started ::  1894-11-26 
 #has_/time_/stopped ::  1964-03-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

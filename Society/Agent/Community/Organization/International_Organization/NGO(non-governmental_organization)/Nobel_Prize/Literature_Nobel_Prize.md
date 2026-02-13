@@ -1,12 +1,140 @@
 ---
 aliases:
-  - Nobel Prize in Literature
-  - Nobelpriset i litteratur
-  - Literaturnobelpreis
-  - Literature_Nobel_Prize
-  - Literature Nobel Prize
+- Adabiyot boʻyicha Nobel mukofoti
+- Appendice:Lista de premiatos del Premio Nobel pro Litteratura
+- daftar penerima Nobel Kesusastraan
+- Danh sách người đoạt giải Nobel Văn học
+- Ganadores del Premio Nobel de Literatura
+- Irodalmi Nobel-díjasok listája
+- Laureaci Nagrody Nobla w dziedzinie literatury
+- Laureados com o Nobel de Literatura
+- Lies vaan Nobelprieswinners
+- list of Nobel laureates in Literature
+- Listaan dagiti Nobel a laureado iti Literatura
+- liste de lauréats du Nobel de littérature
+- Liste der Nobelpreisträger für Literatur
+- liste over modtagere af Nobelprisen i litteratur
+- liste over nobelprisvinnere i litteratur
+- Liste vo de Nobelbriisdreger für Liddratur
+- listo de gajnintoj de la Nobelpremio pri literaturo
+- listo di Nobel-laureati pri literaturo
+- listo Nobel-kirjálâšvuotâpalhâšume vyeittein
+- Literature Nobel Prize
+- Literature_Nobel_Prize
+- Literaturnobelpreis
+- llista de guardonats amb el Premi Nobel de Literatura
+- luettelo Nobelin kirjallisuuspalkinnon saaneista
+- Lëscht Nobelpräis Literatur
+- Lîsteya Xelatgirên Nobela Wêjeyê
+- Nobel Edebiyat Ödülü sahipleri listesi
+- Nobel Prize in Literature
+- Nobela prēmijas laureāti literatūrā
+- Nobelpriset i litteratur
+- Senarai penerima Hadiah Nobel dalam Kesusasteraan
+- seznam Nobelovih nagrajencev za literaturo
+- Seznam nositelů Nobelovy ceny za literaturu
+- Spisak dobitnika Nobelove nagrade za književnost
+- Vexala dem Nobel suterotaf poradroik
+- vincitori del premio Nobel per la letteratura
+- Zoznam nositeľov Nobelovej ceny za literatúru
+- Ədəbiyyat üzrə Nobel mükafatı laureatlarının siyahısı
+- Κατάλογος βραβευθέντων με Νόμπελ Λογοτεχνίας
+- Спіс лаўрэатаў Нобелеўскай прэміі па літаратуры
+- Списак добитника Нобелове награде за књижевност
+- Список лауреатів Нобелівської премії з літератури
+- Список лауреатов Нобелевской премии по литературе
+- Список на добитниците на Нобеловата награда за книжевност
+- Сӹлнӹшаян Нобель премин сирӹзӹ лауреатвлӓ
+- Әдебиет саласы бойынша Нобель сыйлығының иегерлері
+- Әҙәбиәт буйынса Нобель премияһы лареаттары
+- Գրականության Նոբելյան մրցանակի դափնեկիրների ցանկ
+- ادب کا نوبل انعام حاصل کرنے والوں کی فہرست
+- الحاصلين على جايزة نوبل فى الادب
+- فهرست برندگان جایزه نوبل ادبیات
+- قائمة الحاصلين على جائزة نوبل في الأدب
+- نوبل انعام برائے ادب وصول کنندگان دی لسٹ
+- پێڕستی وەرگرانی خەڵاتی نۆبێل لە وێژە
+- साहित्य में नोबेल विजेताओं की सूची
+- ন'বেল বঁটা বিজয়ী
+- সাহিত্যে নোবেল বিজয়ীদের তালিকা
+- ਸਾਹਿਤ ਦਾ ਨੋਬਲ ਇਨਾਮ ਜੇਤੂ
+- இலக்கியத்துக்கான நோபல் பரிசு பெற்றவர்களின் பட்டியல்
+- รายชื่อผู้ได้รับรางวัลโนเบลสาขาวรรณกรรม
+- စာပေ နိုဘယ်ဆုရှင်များ
+- ნობელის პრემიის ლაურეატები ლიტერატურის დარგში
+- បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែកអក្សរសាស្ត្រ
+- ノーベル文学賞受賞者の一覧
+- 諾貝爾文學獎得主列表
+- 노벨 문학상 수상자 목록
+has_id_wikidata: Q6461210
+dv_has_:
+  name_:
+    ar: قائمة الحاصلين على جائزة نوبل في الأدب
+    arz: الحاصلين على جايزة نوبل فى الادب
+    as: ন'বেল বঁটা বিজয়ী
+    avk: Vexala dem Nobel suterotaf poradroik
+    az: Ədəbiyyat üzrə Nobel mükafatı laureatlarının siyahısı
+    ba: Әҙәбиәт буйынса Нобель премияһы лареаттары
+    be: Спіс лаўрэатаў Нобелеўскай прэміі па літаратуры
+    bn: সাহিত্যে নোবেল বিজয়ীদের তালিকা
+    bs: Spisak dobitnika Nobelove nagrade za književnost
+    ca: llista de guardonats amb el Premi Nobel de Literatura
+    ckb: پێڕستی وەرگرانی خەڵاتی نۆبێل لە وێژە
+    cs: Seznam nositelů Nobelovy ceny za literaturu
+    da: liste over modtagere af Nobelprisen i litteratur
+    de: Liste der Nobelpreisträger für Literatur
+    de-ch: Liste der Nobelpreisträger für Literatur
+    el: Κατάλογος βραβευθέντων με Νόμπελ Λογοτεχνίας
+    en: list of Nobel laureates in Literature
+    en-ca: List of Nobel laureates in Literature
+    en-gb: List of Nobel laureates in Literature
+    eo: listo de gajnintoj de la Nobelpremio pri literaturo
+    es: Ganadores del Premio Nobel de Literatura
+    fa: فهرست برندگان جایزه نوبل ادبیات
+    fi: luettelo Nobelin kirjallisuuspalkinnon saaneista
+    fr: liste de lauréats du Nobel de littérature
+    gsw: Liste vo de Nobelbriisdreger für Liddratur
+    hi: साहित्य में नोबेल विजेताओं की सूची
+    hu: Irodalmi Nobel-díjasok listája
+    hy: Գրականության Նոբելյան մրցանակի դափնեկիրների ցանկ
+    ia: Appendice:Lista de premiatos del Premio Nobel pro Litteratura
+    id: daftar penerima Nobel Kesusastraan
+    ilo: Listaan dagiti Nobel a laureado iti Literatura
+    io: listo di Nobel-laureati pri literaturo
+    it: vincitori del premio Nobel per la letteratura
+    ja: ノーベル文学賞受賞者の一覧
+    ka: ნობელის პრემიის ლაურეატები ლიტერატურის დარგში
+    kk: Әдебиет саласы бойынша Нобель сыйлығының иегерлері
+    km: បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែកអក្សរសាស្ត្រ
+    ko: 노벨 문학상 수상자 목록
+    ku: Lîsteya Xelatgirên Nobela Wêjeyê
+    lb: Lëscht Nobelpräis Literatur
+    li: Lies vaan Nobelprieswinners
+    lv: Nobela prēmijas laureāti literatūrā
+    mk: Список на добитниците на Нобеловата награда за книжевност
+    mrj: Сӹлнӹшаян Нобель премин сирӹзӹ лауреатвлӓ
+    ms: Senarai penerima Hadiah Nobel dalam Kesusasteraan
+    my: စာပေ နိုဘယ်ဆုရှင်များ
+    nb: liste over nobelprisvinnere i litteratur
+    pa: ਸਾਹਿਤ ਦਾ ਨੋਬਲ ਇਨਾਮ ਜੇਤੂ
+    pl: Laureaci Nagrody Nobla w dziedzinie literatury
+    pnb: نوبل انعام برائے ادب وصول کنندگان دی لسٹ
+    pt: Laureados com o Nobel de Literatura
+    ru: Список лауреатов Нобелевской премии по литературе
+    sh: Spisak dobitnika Nobelove nagrade za književnost
+    sk: Zoznam nositeľov Nobelovej ceny za literatúru
+    sl: seznam Nobelovih nagrajencev za literaturo
+    smn: listo Nobel-kirjálâšvuotâpalhâšume vyeittein
+    sr: Списак добитника Нобелове награде за књижевност
+    ta: இலக்கியத்துக்கான நோபல் பரிசு பெற்றவர்களின் பட்டியல்
+    th: รายชื่อผู้ได้รับรางวัลโนเบลสาขาวรรณกรรม
+    tr: Nobel Edebiyat Ödülü sahipleri listesi
+    uk: Список лауреатів Нобелівської премії з літератури
+    ur: ادب کا نوبل انعام حاصل کرنے والوں کی فہرست
+    uz: Adabiyot boʻyicha Nobel mukofoti
+    vi: Danh sách người đoạt giải Nobel Văn học
+    zh: 諾貝爾文學獎得主列表
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Literature (Swedish: Nobelpriset i litteratur) is awarded annually 

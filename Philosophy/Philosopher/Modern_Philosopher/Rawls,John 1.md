@@ -1,10 +1,122 @@
 ---
 aliases:
-  - John Rawls
-  - John Bordley Rawls
-  - Rawls,John 1
+- Con Rolz
+- Džon Rols
+- Ioannes Rawls
+- John Bordley Rawls
+- John Rawls
+- Rawls,John 1
+- Τζον Ρωλς
+- Џон Ролс
+- Джон Роўлз
+- Джон Ролз
+- Джон Ролс
+- Джон Роулз
+- Ճոն Ռաուլզ
+- ג'ון רולס
+- جان رالز
+- جون رولز
+- جۆن ڕۆڵز
+- जन रल्स
+- जॉन राल्स
+- জন রল্স
+- ਜੌਨ ਰਾਵਲਸ
+- ஜான் ரால்ஸ்
+- ജോൺ റൗൾസ്
+- ジョン・ロールズ
+- 約翰·羅爾斯
+- 约翰·罗尔斯
+- 约翰·颅厄涩
+- 莊羅爾斯
+- 존 롤스
+has_id_wikidata: Q172544
+dv_has_:
+  name_:
+    af: John Rawls
+    ar: جون رولز
+    arz: جون رولز
+    ast: John Rawls
+    az: Con Rolz
+    be-tarask: Джон Роўлз
+    bg: Джон Ролс
+    bn: জন রল্স
+    bs: John Rawls
+    ca: John Rawls
+    ckb: جۆن ڕۆڵز
+    cs: John Rawls
+    cy: John Rawls
+    da: John Rawls
+    dag: John Rawls
+    de: John Rawls
+    el: Τζον Ρωλς
+    en: John Rawls
+    eo: John Rawls
+    es: John Rawls
+    et: John Rawls
+    eu: John Rawls
+    fa: جان رالز
+    fi: John Rawls
+    fr: John Rawls
+    fy: John Rawls
+    ga: John Rawls
+    gl: John Rawls
+    he: ג'ון רולס
+    hi: जॉन राल्स
+    hr: John Rawls
+    hu: John Rawls
+    hy: Ճոն Ռաուլզ
+    hyw: Ճոն Ռաուլզ
+    id: John Rawls
+    is: John Rawls
+    it: John Rawls
+    ja: ジョン・ロールズ
+    jv: John Rawls
+    kk: Джон Роулз
+    ko: 존 롤스
+    la: Ioannes Rawls
+    li: John Rawls
+    lt: John Rawls
+    mg: John Rawls
+    ml: ജോൺ റൗൾസ്
+    mul: John Rawls
+    nb: John Rawls
+    new: जन रल्स
+    nl: John Rawls
+    nn: John Rawls
+    oc: John Rawls
+    pa: ਜੌਨ ਰਾਵਲਸ
+    pap: John Rawls
+    pl: John Rawls
+    ps: جان رالز
+    pt: John Rawls
+    pt-br: John Rawls
+    ro: John Rawls
+    ru: Джон Ролз
+    sco: John Rawls
+    sh: John Rawls
+    sk: John Rawls
+    sl: John Rawls
+    sq: John Rawls
+    sr: Џон Ролс
+    sr-ec: Џон Ролс
+    sr-el: Džon Rols
+    sv: John Rawls
+    ta: ஜான் ரால்ஸ்
+    tr: John Rawls
+    uk: Джон Роулз
+    vi: John Rawls
+    war: John Rawls
+    wuu: 约翰·颅厄涩
+    yo: John Rawls
+    yue: 莊羅爾斯
+    zh: 约翰·罗尔斯
+    zh-cn: 约翰·罗尔斯
+    zh-hans: 约翰·罗尔斯
+    zh-hant: 約翰·羅爾斯
+    zh-hk: 約翰·羅爾斯
+    zh-sg: 约翰·罗尔斯
+    zh-tw: 約翰·羅爾斯
 ---
-
 # [[Rawls,John 1]] 
 
 ## #has_/text_of_/abstract 

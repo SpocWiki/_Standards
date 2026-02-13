@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q1533797
+---
+
 # [[ISWIM]] 
 
 #is_a_/ComputerLanguage 

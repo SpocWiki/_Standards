@@ -1,32 +1,61 @@
 ---
 aliases:
-  - Spencer_Tracy
-  - Spencer Bonaventure Tracy
-  - Spencer Tracy
-  - Tracy
-  - Tracy,Spencer
+- Spencer Bonaventure Tracy
+- Spencer Tracy
+- Spencer_Tracy
+- Spenser Treysi
+- Spensers Treisijs
+- Tracy
+- Tracy,Spencer
+- Σπένσερ Τρέισι
+- Спенсер Трејси
+- Спенсер Трейсі
+- Спенсер Трейси
+- Спенсер Трэйсі
+- Спенсър Трейси
+- Спэнсэр Трэйсі
+- Սփենսեր Թրեյսի
+- ספנסר טרייסי
+- اسپنسر تریسی
+- اسپینسر ٹریسی
+- سبنسر تريسي
+- سبينسر تريسى
+- سپێنسەر ترەیسی
+- स्पेन्सर ट्रेसी
+- স্পেন্সার ট্রেসি
+- ਸਪੈਂਸਰ ਟਰੇਸੀ
+- ஸ்பென்சர் ட்ரேசி
+- ಸ್ಪೆನ್ಸರ್ ಟ್ರೇಸಿ
+- สเปนเซอร์ เทรซี
+- სპენსერ ტრეისი
+- スペンサー・トレイシー
+- 史宾塞·屈赛
+- 史賓塞·屈賽
+- 史賓沙德利西
+- 斯潘塞·特雷西
+- 스펜서 트레이시
 has_id_wikidata: Q71275
 nominated_for: '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
-  - '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
-  - '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
-  - '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
-  - '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
+- '[[_Standards/WikiData/WD~Academy_Award_for_Best_Actor,103916]]'
+- '[[_Standards/WikiData/WD~BAFTA_Award_for_Best_Actor_in_a_Leading_Role,400007]]'
+- '[[_Standards/WikiData/WD~Cannes_Film_Festival_Award_for_Best_Actor,586140]]'
+- '[[_Standards/WikiData/WD~Golden_Globe_Award_for_Best_Actor_Motion_Picture_Drama,593098]]'
+- '[[_Standards/WikiData/WD~star_on_Hollywood_Walk_of_Fame,17985761]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~American_Academy_of_Dramatic_Arts,389336]]'
-  - "[[_Standards/WikiData/WD~St._John's_Northwestern_Military_Academy,4412537]]"
-  - '[[_Standards/WikiData/WD~Marquette_University_High_School,6772632]]'
-  - '[[_Standards/WikiData/WD~Milwaukee_High_School_of_the_Arts,6861744]]'
-  - '[[_Standards/WikiData/WD~Northwestern_Military_and_Naval_Academy,7060344]]'
-  - '[[_Standards/WikiData/WD~Ripon_College,7335662]]'
-  - '[[_Standards/WikiData/WD~Rockhurst_High_School,7355296]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Dramatic_Arts,389336]]'
+- "[[_Standards/WikiData/WD~St._John's_Northwestern_Military_Academy,4412537]]"
+- '[[_Standards/WikiData/WD~Marquette_University_High_School,6772632]]'
+- '[[_Standards/WikiData/WD~Milwaukee_High_School_of_the_Arts,6861744]]'
+- '[[_Standards/WikiData/WD~Northwestern_Military_and_Naval_Academy,7060344]]'
+- '[[_Standards/WikiData/WD~Ripon_College,7335662]]'
+- '[[_Standards/WikiData/WD~Rockhurst_High_School,7355296]]'
 place_of_burial: '[[_Standards/WikiData/WD~Forest_Lawn_Memorial_Park,1437214]]'
 spouse: '[[_Standards/WikiData/WD~Louise_Tracy,1872203]]'
 occupation:
-  - '[[_Standards/WikiData/WD~stage_actor,2259451]]'
-  - '[[_Standards/WikiData/WD~film_actor,10800557]]'
-  - '[[_Standards/WikiData/WD~actor,33999]]'
+- '[[_Standards/WikiData/WD~stage_actor,2259451]]'
+- '[[_Standards/WikiData/WD~film_actor,10800557]]'
+- '[[_Standards/WikiData/WD~actor,33999]]'
 manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 religion_or_worldview: '[[_Standards/WikiData/WD~Roman_Catholic,7361618]]'
@@ -67,8 +96,104 @@ ISNI: 0000000121253240
 U_S_National_Archives_Identifier: 10582383
 birth_name: Spencer Bonaventure Tracy
 work_period_start_: 1921-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Spencer Tracy
+    an: Spencer Tracy
+    ar: سبنسر تريسي
+    arz: سبينسر تريسى
+    ast: Spencer Tracy
+    az: Spenser Treysi
+    azb: اسپنسر تریسی
+    ba: Спенсер Трейси
+    be: Спенсер Трэйсі
+    be-tarask: Спэнсэр Трэйсі
+    bg: Спенсър Трейси
+    bi: Spencer Tracy
+    bn: স্পেন্সার ট্রেসি
+    bs: Spencer Tracy
+    ca: Spencer Tracy
+    ckb: سپێنسەر ترەیسی
+    cs: Spencer Tracy
+    cy: Spencer Tracy
+    da: Spencer Tracy
+    de: Spencer Tracy
+    el: Σπένσερ Τρέισι
+    en: Spencer Tracy
+    en-gb: Spencer Tracy
+    en-us: Spencer Tracy
+    eo: Spencer Tracy
+    es: Spencer Tracy
+    et: Spencer Tracy
+    eu: Spencer Tracy
+    fa: اسپنسر تریسی
+    fi: Spencer Tracy
+    fr: Spencer Tracy
+    fy: Spencer Tracy
+    ga: Spencer Tracy
+    gl: Spencer Tracy
+    he: ספנסר טרייסי
+    hif: Spencer Tracy
+    hr: Spencer Tracy
+    ht: Spencer Tracy
+    hu: Spencer Tracy
+    hy: Սփենսեր Թրեյսի
+    id: Spencer Tracy
+    ilo: Spencer Tracy
+    io: Spencer Tracy
+    it: Spencer Tracy
+    ja: スペンサー・トレイシー
+    ka: სპენსერ ტრეისი
+    kn: ಸ್ಪೆನ್ಸರ್ ಟ್ರೇಸಿ
+    ko: 스펜서 트레이시
+    la: Spencer Tracy
+    lb: Spencer Tracy
+    lfn: Spencer Tracy
+    lv: Spensers Treisijs
+    mg: Spencer Tracy
+    mk: Спенсер Трејси
+    mr: स्पेन्सर ट्रेसी
+    mul: Spencer Tracy
+    nb: Spencer Tracy
+    nl: Spencer Tracy
+    nn: Spencer Tracy
+    nrm: Spencer Tracy
+    oc: Spencer Tracy
+    pa: ਸਪੈਂਸਰ ਟਰੇਸੀ
+    pam: Spencer Tracy
+    pap: Spencer Tracy
+    pl: Spencer Tracy
+    pt: Spencer Tracy
+    pt-br: Spencer Tracy
+    qu: Spencer Tracy
+    ro: Spencer Tracy
+    ru: Спенсер Трейси
+    sco: Spencer Tracy
+    sh: Spencer Tracy
+    sk: Spencer Tracy
+    sl: Spencer Tracy
+    sq: Spencer Tracy
+    sr: Спенсер Трејси
+    sv: Spencer Tracy
+    ta: ஸ்பென்சர் ட்ரேசி
+    th: สเปนเซอร์ เทรซี
+    tl: Spencer Tracy
+    tr: Spencer Tracy
+    uk: Спенсер Трейсі
+    ur: اسپینسر ٹریسی
+    uz: Spencer Tracy
+    vi: Spencer Tracy
+    vo: Spencer Tracy
+    war: Spencer Tracy
+    wuu: 斯潘塞·特雷西
+    xmf: სპენსერ ტრეისი
+    yo: Spencer Tracy
+    yue: 史賓沙德利西
+    zh: 史賓塞·屈賽
+    zh-cn: 斯潘塞·特雷西
+    zh-sg: 史宾塞·屈赛
+    zh-tw: 史賓塞·屈賽
 ---
-
 # [[Tracy,Spencer]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Spencer_Tracy,71275|WD~Spencer_Tracy,71275]]  

@@ -1,11 +1,139 @@
 ---
 aliases:
-  - Nobel Prize in Physics
-  - Nobelpriset i fysik
-  - Physics_Nobel_Prize
-  - Physics Nobel Prize
+- Anexo:Ganadores del Premio Nobel de Física
+- Appendice:Lista de premiatos del Premio Nobel pro Physica
+- Daftar penerima Nobel Fisika
+- Danh sách người đoạt giải Nobel Vật lý
+- Dhaptar pamenang bebungah Nobel Fisika
+- Fizika boʻyicha Nobel mukofoti sovrindorlari roʻyxati
+- Fizika üzrə Nobel mükafatı laureatlarının siyahısı
+- laureaci Nagrody Nobla w dziedzinie fizyki
+- laureados com o Nobel de Física
+- Lies vaan Nobelprieswinners (natuurkunde)
+- Lischt vu dr Nobelbryysdreger fir Fysik
+- list of Nobel laureates in Physics
+- lista e fituesve të Çmimit Nobel për Fizikë
+- lista över nobelpristagare i fysik
+- Liste der Nobelpreisträger für Physik
+- liste over modtagere af Nobelprisen i fysik
+- liste over nobelprisvinnere i fysikk
+- llista de guardonats amb el Premi Nobel de Física
+- luettelo Nobelin fysiikanpalkinnon saaneista
+- Lëscht Nobelpräis Physik
+- Lîsteya Xelatgirên Nobela Fizîkê
+- Nobel Bu̍t-lí-ha̍k-chióng tit-chióng-jîn ê lia̍t-toaⁿ
+- Nobel Fizik Ödülü sahipleri listesi
+- Nobel Prize in Physics
+- Nobela prēmijas laureāti fizikā
+- Nobelio fizikos premijos laureatai
+- Nobelpriset i fysik
+- Physics Nobel Prize
+- Physics_Nobel_Prize
+- Senarai penerima Hadiah Nobel dalam Fizik
+- Seznam nositelů Nobelovy ceny za fyziku
+- Spisak dobitnika Nobelove nagrade za fiziku
+- vincitori del premio Nobel per la fisica
+- Vincitura dû Nobel pâ fìsica
+- Xelatwergirên Xelata Nobelê a Fîzîkê
+- Zerrenda:Fisikako Nobel Saria
+- Zoznam nositeľov Nobelovej ceny za fyziku
+- Àtòjọ àwọn ẹlẹ́bùn Nobel nínú Físíksì
+- Спіс лаўрэатаў Нобелеўскай прэміі па фізіцы
+- Списак добитника Нобелове награде за физику
+- Список лауреатів Нобелівської премії з фізики
+- список лауреатов Нобелевской премии по физике
+- Список на добитниците на Нобеловата награда за физика
+- Физика саласында Нобель сыйлығының лауреаттарының тізімі
+- Физикаҕа Нобель бириэмийэтин лауреаттара
+- Ֆիզիկայի Նոբելյան մրցանակի դափնեկիրների ցանկ
+- بؤلمه:نوبل فیزیک اؤدولو قازانانلار
+- خەلاتوەرگرێن خەلاتا نۆبەلێئا فیزیکێ
+- طبیعیات میں نوبل انعام حاصل کرنے والوں کی فہرست
+- فزڪس ۾ نوبل انعام حاصل ڪندڙن جي فهرست
+- فهرست برندگان جایزه نوبل فیزیک
+- قائمة الحاصلين على جائزة نوبل في الفيزياء
+- پێڕستی وەرگرانی خەڵاتی نۆبێل لە فیزیک
+- भौतिकी में नोबेल विजेताओं की सूची
+- ন'বেল বঁটা বিজয়ী
+- পদার্থবিজ্ঞানে নোবেল বিজয়ীদের তালিকা
+- இயற்பியலுக்கான நோபல் பரிசு பெற்றவர்கள்
+- నోబెల్ బహుమతి పొందిన భౌతిక శాస్త్రవేత్తల జాబితా
+- ნობელის პრემიის ლაურეატები ფიზიკის დარგში
+- បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែករូបវិទ្យា
+- ノーベル物理学賞受賞者の一覧
+- 諾貝爾物理學獎得主列表
+- 诺贝尔物理学奖得主列表
+- 노벨 물리학상 수상자 목록
+has_id_wikidata: Q852317
+dv_has_:
+  name_:
+    ar: قائمة الحاصلين على جائزة نوبل في الفيزياء
+    as: ন'বেল বঁটা বিজয়ী
+    az: Fizika üzrə Nobel mükafatı laureatlarının siyahısı
+    azb: بؤلمه:نوبل فیزیک اؤدولو قازانانلار
+    be: Спіс лаўрэатаў Нобелеўскай прэміі па фізіцы
+    bn: পদার্থবিজ্ঞানে নোবেল বিজয়ীদের তালিকা
+    bs: Spisak dobitnika Nobelove nagrade za fiziku
+    ca: llista de guardonats amb el Premi Nobel de Física
+    ckb: پێڕستی وەرگرانی خەڵاتی نۆبێل لە فیزیک
+    cs: Seznam nositelů Nobelovy ceny za fyziku
+    da: liste over modtagere af Nobelprisen i fysik
+    de: Liste der Nobelpreisträger für Physik
+    en: list of Nobel laureates in Physics
+    en-ca: list of Nobel laureates in Physics
+    en-gb: list of Nobel laureates in Physics
+    es: Anexo:Ganadores del Premio Nobel de Física
+    eu: Zerrenda:Fisikako Nobel Saria
+    fa: فهرست برندگان جایزه نوبل فیزیک
+    fi: luettelo Nobelin fysiikanpalkinnon saaneista
+    gsw: Lischt vu dr Nobelbryysdreger fir Fysik
+    hi: भौतिकी में नोबेल विजेताओं की सूची
+    hy: Ֆիզիկայի Նոբելյան մրցանակի դափնեկիրների ցանկ
+    ia: Appendice:Lista de premiatos del Premio Nobel pro Physica
+    id: Daftar penerima Nobel Fisika
+    ig: list of Nobel laureates in Physics
+    it: vincitori del premio Nobel per la fisica
+    ja: ノーベル物理学賞受賞者の一覧
+    jv: Dhaptar pamenang bebungah Nobel Fisika
+    ka: ნობელის პრემიის ლაურეატები ფიზიკის დარგში
+    kk: Физика саласында Нобель сыйлығының лауреаттарының тізімі
+    km: បញ្ជីរាយនាម ជ័យលាភីរង្វាន់ណូបែល ផ្នែករូបវិទ្យា
+    ko: 노벨 물리학상 수상자 목록
+    ku: Lîsteya Xelatgirên Nobela Fizîkê
+    ku-arab: خەلاتوەرگرێن خەلاتا نۆبەلێئا فیزیکێ
+    ku-latn: Xelatwergirên Xelata Nobelê a Fîzîkê
+    lb: Lëscht Nobelpräis Physik
+    li: Lies vaan Nobelprieswinners (natuurkunde)
+    lt: Nobelio fizikos premijos laureatai
+    lv: Nobela prēmijas laureāti fizikā
+    mk: Список на добитниците на Нобеловата награда за физика
+    ms: Senarai penerima Hadiah Nobel dalam Fizik
+    nan: Nobel Bu̍t-lí-ha̍k-chióng tit-chióng-jîn ê lia̍t-toaⁿ
+    nb: liste over nobelprisvinnere i fysikk
+    pl: laureaci Nagrody Nobla w dziedzinie fizyki
+    pt: laureados com o Nobel de Física
+    pt-br: Laureados com o Nobel de Física
+    ru: список лауреатов Нобелевской премии по физике
+    sah: Физикаҕа Нобель бириэмийэтин лауреаттара
+    scn: Vincitura dû Nobel pâ fìsica
+    sd: فزڪس ۾ نوبل انعام حاصل ڪندڙن جي فهرست
+    sk: Zoznam nositeľov Nobelovej ceny za fyziku
+    sq: lista e fituesve të Çmimit Nobel për Fizikë
+    sr: Списак добитника Нобелове награде за физику
+    sv: lista över nobelpristagare i fysik
+    ta: இயற்பியலுக்கான நோபல் பரிசு பெற்றவர்கள்
+    te: నోబెల్ బహుమతి పొందిన భౌతిక శాస్త్రవేత్తల జాబితా
+    tr: Nobel Fizik Ödülü sahipleri listesi
+    uk: Список лауреатів Нобелівської премії з фізики
+    ur: طبیعیات میں نوبل انعام حاصل کرنے والوں کی فہرست
+    uz: Fizika boʻyicha Nobel mukofoti sovrindorlari roʻyxati
+    vi: Danh sách người đoạt giải Nobel Vật lý
+    yo: Àtòjọ àwọn ẹlẹ́bùn Nobel nínú Físíksì
+    zh: 诺贝尔物理学奖得主列表
+    zh-hans: 诺贝尔物理学奖得主列表
+    zh-hant: 諾貝爾物理學獎得主列表
+    zh-hk: 諾貝爾物理學獎得主列表
 ---
-
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Physics (Swedish: Nobelpriset i fysik) is awarded annually 

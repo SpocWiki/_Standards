@@ -1,29 +1,83 @@
 ---
 aliases:
+- Arroka berdeen gerriko
+- ceinture de roches vertes
+- Cintura di rocce verdi
+- cinturão de rochas verdes
+- cinturó de roca verda
+- cinturón de rocas verdes
+- greenstone belt
+- Groensteengordel
+- grönstensbälte
+- Grünsteingürtel
+- pas zelenega kamna
+- Pas zieleńcowy
+- verdroka zono
+- Yeşil kaya kuşağı
+- Зеленокам'яні пояси
+- зеленокамен појас
+- Зеленокаменный пояс
+- կանաչաքար գոտի
+- חגורת אבן ירוקה
+- حزام الحجر الأخضر
+- کمربند سنگ سبز
+- グリーンストーンベルト
+- 綠巖帶
+- 绿岩带
 has_id_wikidata: Q595991
-subclass_of: "[[_Standards/WikiData/WD~geological_formation,736917]]"
+subclass_of: '[[_Standards/WikiData/WD~geological_formation,736917]]'
 Commons_category: Greenstone belts
 dv_is_:
   same_as:
-    - "[[Greenstone_belt,595991]]"
-    - "[[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]]"
-    - "[[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]]"
-    - "[[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]]"
-    - "[[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]]"
-    - "[[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]]"
-    - "[[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]]"
-    - "[[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]]"
+  - '[[Greenstone_belt,595991]]'
+  - '[[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]]'
+  - '[[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]]'
+  - '[[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]]'
+  - '[[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]]'
+  - '[[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]]'
+  - '[[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]]'
+  - '[[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]]'
 dv_is_same_as:
-  - "[[Greenstone_belt,595991]]"
-  - "[[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]]"
-  - "[[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]]"
-  - "[[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]]"
-  - "[[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]]"
-  - "[[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]]"
-  - "[[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]]"
-  - "[[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]]"
+- '[[Greenstone_belt,595991]]'
+- '[[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]]'
+- '[[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]]'
+- '[[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]]'
+- '[[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]]'
+- '[[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]]'
+- '[[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]]'
+- '[[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]]'
+dv_has_:
+  name_:
+    af: Groensteengordel
+    ar: حزام الحجر الأخضر
+    ca: cinturó de roca verda
+    de: Grünsteingürtel
+    en: greenstone belt
+    en-ca: Greenstone belt
+    en-gb: greenstone belt
+    eo: verdroka zono
+    es: cinturón de rocas verdes
+    eu: Arroka berdeen gerriko
+    fa: کمربند سنگ سبز
+    fr: ceinture de roches vertes
+    he: חגורת אבן ירוקה
+    hy: կանաչաքար գոտի
+    it: Cintura di rocce verdi
+    ja: グリーンストーンベルト
+    mk: зеленокамен појас
+    nl: greenstone belt
+    pl: Pas zieleńcowy
+    pt: cinturão de rochas verdes
+    pt-br: Cinturão de rochas verdes
+    ru: Зеленокаменный пояс
+    sl: pas zelenega kamna
+    sv: grönstensbälte
+    tr: Yeşil kaya kuşağı
+    uk: Зеленокам'яні пояси
+    zh: 绿岩带
+    zh-hans: 绿岩带
+    zh-hant: 綠巖帶
 ---
-
 # [[Greenstone_Belt]] 
 
 #is_/same_as :: [[Greenstone_belt,595991]]

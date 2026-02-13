@@ -1,9 +1,57 @@
 ---
 aliases:
-  - Open society
-  - société ouverte
-  - Open_Society
-  - Open Society
+- Atvira visuomenė
+- atvērta sabiedrība
+- Avatud ühiskond
+- avoin yhteiskunta
+- açık toplum
+- Açıq Cəmiyyət
+- Aşıq qoğam
+- Buɗe jama'a
+- Det åpne samfunn
+- gizarte ireki
+- malfermita societo
+- Masyarakat terbuka
+- nyitott társadalom
+- odprta družba
+- offene Gesellschaft
+- open samenleving
+- Open society
+- Open_Society
+- otevřená společnost
+- Otvoreno društvo
+- otvorená spoločnosť
+- socetà verta
+- sociedad abierta
+- Sociedade aberta
+- Sociedá abierta
+- societate deschisă
+- società aperta
+- société ouverte
+- społeczeństwo otwarte
+- sucitàti rapùta
+- Xã hội mở
+- öppet samhälle
+- адкрытае грамадзтва
+- Адкрытае грамадства
+- Ашық қоғам
+- Відкрите суспільство
+- отворено друштво
+- Отворено общество
+- Открытое общество
+- Բաց հասարակություն
+- חברה פתוחה
+- اشىق قوعام
+- جامعه باز
+- مجتمع منفتح
+- پرانیستې ټولنه
+- کۆمەڵگەی کراوە
+- ਖੁੱਲ੍ਹਾ ਸਮਾਜ
+- திறந்த சமுதாயம்
+- 开放社会
+- 開かれた社会
+- 開放社會
+- 열린 사회
 has_id_wikidata: Q505605
 significant_person: '[[_Standards/WikiData/WD~Karl_Popper,81244]]'
 opposite_of: '[[_Standards/WikiData/WD~closed_society,10259854]]'
@@ -15,8 +63,68 @@ discoverer_or_inventor: '[[_Standards/WikiData/WD~Henri_Bergson,42156]]'
 Wolfram_Language_entity_code: Entity["Concept", "OpenSociety::ysrt7"]
 Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/OTKRITOE_OBSHCHESTVO.html
 Commons_category: Open Society
+dv_has_:
+  name_:
+    ar: مجتمع منفتح
+    ast: Sociedá abierta
+    az: Açıq Cəmiyyət
+    be: Адкрытае грамадства
+    be-tarask: адкрытае грамадзтва
+    bg: Отворено общество
+    ca: Open society
+    ckb: کۆمەڵگەی کراوە
+    cs: otevřená společnost
+    de: offene Gesellschaft
+    en: open society
+    eo: malfermita societo
+    es: sociedad abierta
+    et: Avatud ühiskond
+    eu: gizarte ireki
+    fa: جامعه باز
+    fi: avoin yhteiskunta
+    fr: société ouverte
+    gl: Sociedade aberta
+    ha: Buɗe jama'a
+    he: חברה פתוחה
+    hr: Otvoreno društvo
+    hu: nyitott társadalom
+    hy: Բաց հասարակություն
+    id: Masyarakat terbuka
+    it: società aperta
+    ja: 開かれた社会
+    kk: Ашық қоғам
+    kk-arab: اشىق قوعام
+    kk-cyrl: Ашық қоғам
+    kk-latn: Aşıq qoğam
+    ko: 열린 사회
+    lt: Atvira visuomenė
+    lv: atvērta sabiedrība
+    ms: Masyarakat terbuka
+    nb: Det åpne samfunn
+    nl: open samenleving
+    pa: ਖੁੱਲ੍ਹਾ ਸਮਾਜ
+    pl: społeczeństwo otwarte
+    ps: پرانیستې ټولنه
+    pt: sociedade aberta
+    ro: societate deschisă
+    ru: Открытое общество
+    scn: sucitàti rapùta
+    sk: otvorená spoločnosť
+    sl: odprta družba
+    sr: отворено друштво
+    sr-ec: отворено друштво
+    sr-el: Otvoreno društvo
+    sv: öppet samhälle
+    ta: திறந்த சமுதாயம்
+    tr: açık toplum
+    uk: Відкрите суспільство
+    vec: socetà verta
+    vi: Xã hội mở
+    zh: 开放社会
+    zh-hans: 开放社会
+    zh-hant: 開放社會
+    zh-hk: 開放社會
 ---
-
 # [[Open_Society]] 
 
 #is_/same_as :: [[WD~Open_society,505605]] 

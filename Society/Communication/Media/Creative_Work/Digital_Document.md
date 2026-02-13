@@ -1,32 +1,137 @@
 ---
 aliases:
-  - digital-document
-  - digital_document
-  - DigitalDocument
-  - is_a_digital_document
-  - Digital_Document
-  - Digital Document
+- belgeya elektronîk
+- cáipéis leictreonach
+- Digitaaldokument
+- Digital Document
+- digital-document
+- DigitalDocument
+- digital_document
+- digitální dokument
+- document electronic
+- document electrònic
+- document électronique
+- documento digitale
+- documento electrónico
+- documento ełetrònego
+- dokumen elektronik
+- Dokument (informatika)
+- dokument elektroniczny
+- electronic document
+- Elektron sənəd
+- Elektroniese dokument
+- elektronik belge
+- elektronika dokumento
+- elektronikus dokumentum
+- elektronisch document
+- elektronisches Dokument
+- elektronisk dokument
+- Elektronički dokument
+- elektronski dokument
+- is_a_digital_document
+- sähköinen asiakirja
+- tài liệu số
+- Waraka pepe
+- ηλεκτρονικό έγγραφο
+- Електронен документ
+- електронний документ
+- електронный документ
+- електронски документ
+- электрон документ
+- электронны дакумент
+- электронны дакумэнт
+- электронный документ
+- מסמך אלקטרוני
+- وثيقة رقمية
+- گواهی دیجیتال
+- विद्युतीय कागजात
+- বৈদ্যুতিন নথি
+- எண்ணிம ஆவணம்
+- 电子文档
+- 電子文件
+- 電子文書
+- 전자 문서
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - digital_document
+- digital_document
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_digital_document Class
 publish: true
 publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_digital_document Class
 type: Type
+has_id_wikidata: Q694975
+dv_has_:
+  name_:
+    af: Elektroniese dokument
+    ar: وثيقة رقمية
+    as: বৈদ্যুতিন নথি
+    az: Elektron sənəd
+    be: электронны дакумент
+    be-tarask: электронны дакумэнт
+    bg: Електронен документ
+    bs: elektronski dokument
+    ca: document electrònic
+    cs: digitální dokument
+    de: elektronisches Dokument
+    el: ηλεκτρονικό έγγραφο
+    en: electronic document
+    en-ca: electronic document
+    en-gb: electronic document
+    eo: elektronika dokumento
+    es: documento electrónico
+    et: Digitaaldokument
+    fa: گواهی دیجیتال
+    fi: sähköinen asiakirja
+    fr: document électronique
+    ga: cáipéis leictreonach
+    gl: documento electrónico
+    he: מסמך אלקטרוני
+    hr: Elektronički dokument
+    hu: elektronikus dokumentum
+    id: dokumen elektronik
+    it: documento digitale
+    ja: 電子文書
+    ko: 전자 문서
+    ku-latn: belgeya elektronîk
+    mk: електронски документ
+    nb: elektronisk dokument
+    ne: विद्युतीय कागजात
+    nl: elektronisch document
+    nn: elektronisk dokument
+    oc: document electronic
+    pl: dokument elektroniczny
+    ro: document electronic
+    ru: электронный документ
+    rue: електронный документ
+    sk: Dokument (informatika)
+    sl: elektronski dokument
+    sr: електронски документ
+    sr-ec: електронски документ
+    sr-el: elektronski dokument
+    sw: Waraka pepe
+    ta: எண்ணிம ஆவணம்
+    tr: elektronik belge
+    tt: электрон документ
+    tt-cyrl: электрон документ
+    uk: електронний документ
+    vec: documento ełetrònego
+    vi: tài liệu số
+    zh: 电子文档
+    zh-cn: 电子文档
+    zh-hans: 电子文档
+    zh-hant: 電子文件
 ---
-
 Class of all digital_documents.
 
 Tag Instances like this: 

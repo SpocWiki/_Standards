@@ -1,4 +1,67 @@
-
+---
+has_id_wikidata: Q587531
+dv_has_:
+  name_:
+    ar: تفكير مزدوج
+    ast: Doblepensar
+    azb: جۇتدۇشونک
+    be-tarask: Двухдумства
+    ca: Doblepensament
+    ckb: جووتبیری
+    da: dobbelttænkning
+    de: Doppeldenk
+    en: doublethink
+    eo: duoblopenso
+    es: doblepensar
+    et: Topeltmõtlemine
+    fa: دوگانهباوری
+    fr: doublepensée
+    he: דוחשב
+    hr: dvomisao
+    hu: duplagondol
+    it: bispensiero
+    ja: 二重思考
+    ko: 이중사고
+    nl: dubbeldenk
+    pl: dwójmyślenie
+    pt: duplipensar
+    ro: dublugânditul
+    ru: Двоемыслие
+    sh: dvomisao
+    sl: dvomišljenje
+    tr: Çiftdüşün
+    uk: Дводумство
+    zh: 雙想
+aliases:
+- bispensiero
+- dobbelttænkning
+- Doblepensament
+- Doblepensar
+- Doppeldenk
+- doublepensée
+- doublethink
+- dubbeldenk
+- dublugânditul
+- duoblopenso
+- duplagondol
+- duplipensar
+- dvomisao
+- dvomišljenje
+- dwójmyślenie
+- Topeltmõtlemine
+- Çiftdüşün
+- Дводумство
+- Двоемыслие
+- Двухдумства
+- דוחשב
+- تفكير مزدوج
+- جووتبیری
+- جۇتدۇشونک
+- دوگانهباوری
+- 二重思考
+- 雙想
+- 이중사고
+---
 #is_/similar_to :: Hypocrisy
 
 > **Doublethink** is a process of indoctrination 

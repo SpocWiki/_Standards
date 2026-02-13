@@ -1,9 +1,48 @@
 ---
 aliases:
-  - Akodontini
+- Akodontini
+- علفموشیان
+- 남아메리카밭쥐족
 title: Akodontini
+has_id_wikidata: Q2440089
+dv_has_:
+  name_:
+    an: Akodontini
+    ast: Akodontini
+    bg: Akodontini
+    ca: Akodontini
+    ceb: Akodontini
+    de: Akodontini
+    en: Akodontini
+    eo: Akodontini
+    es: Akodontini
+    eu: Akodontini
+    ext: Akodontini
+    fa: علفموشیان
+    fi: Akodontini
+    fr: Akodontini
+    ga: Akodontini
+    gl: Akodontini
+    ia: Akodontini
+    ie: Akodontini
+    io: Akodontini
+    it: Akodontini
+    ko: 남아메리카밭쥐족
+    la: Akodontini
+    mul: Akodontini
+    nl: Akodontini
+    oc: Akodontini
+    pl: Akodontini
+    pt: Akodontini
+    pt-br: Akodontini
+    ro: Akodontini
+    ru: Akodontini
+    sq: Akodontini
+    uk: Akodontini
+    vi: Akodontini
+    vo: Akodontini
+    war: Akodontini
 ---
-
 # [[Akodontini]]
 
 ## South American field mice 

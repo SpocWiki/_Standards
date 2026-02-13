@@ -1,46 +1,261 @@
 ---
 aliases:
-  - vitamer
-  - Vitamin
-  - Vitamins
-  - Vitamine
+- bitamina
+- bî-tá-mín
+- fiitamiin
+- fitamin
+- mì-sĕng-só
+- vitamene
+- vitamer
+- vitamien
+- vitamiidna
+- vitamiin
+- vitamiini
+- Vitamin
+- vitamina
+- vitaminas
+- vitaminat
+- Vitamine
+- vitamini
+- Vitaminina
+- vitaminlar
+- vitaminlər
+- Vitaminn
+- vitamino
+- Vitamins
+- vitaminum
+- vitamină
+- vitamín
+- vitamīni
+- vitimín
+- ví-ta-mìn
+- vítamín
+- witamin
+- witamina
+- àmínìamáralókun
+- βιταμίνη
+- битэмииннэр
+- вітамін
+- вітаміни
+- вітаміны
+- витамин
+- витаминдар
+- витаминдер
+- витаминнер
+- витаминъёс
+- витамины
+- дәрумен
+- Կենսանիւթեր
+- վիտամին
+- וויטאמין
+- ויטמין
+- حیاتین
+- فيتامين
+- فيتامينات
+- وایٹامِن
+- ويټامين
+- وٹامن
+- ویتامین
+- ڤیتامین
+- ވިޓަމިން
+- जीवनसत्त्व
+- भिटामिन
+- विटामिन
+- ভিটামিন
+- ਵਿਟਾਮਿਨ
+- ଜୀବସାର
+- உயிர்ச்சத்து
+- విటమిన్
+- ಜೀವಸತ್ವಗಳು
+- ജീവകം
+- විටමින්
+- วิตามิน
+- ວິຕາມິນ
+- ဗီတာမင်
+- ဝီႇတမိၼ်ႇ
+- ვიტამინეფი
+- ვიტამინი
+- វីតាមីន
+- ビタミン
+- 維他命
+- 维生素
+- 비타민
 has_id_wikidata: Q34956
 named_after:
-  - '[[_Standards/WikiData/WD~amine,167198]]'
-  - '[[_Standards/WikiData/WD~life,3]]'
+- '[[_Standards/WikiData/WD~amine,167198]]'
+- '[[_Standards/WikiData/WD~life,3]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~organic_compound,174211]]'
-  - '[[_Standards/WikiData/WD~nutrient,181394]]'
-  - '[[_Standards/WikiData/WD~micronutrient,531507]]'
+- '[[_Standards/WikiData/WD~organic_compound,174211]]'
+- '[[_Standards/WikiData/WD~nutrient,181394]]'
+- '[[_Standards/WikiData/WD~micronutrient,531507]]'
 opposite_of: '[[_Standards/WikiData/WD~antivitamin,410918]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Vitamins,5912294]]'
-  - '[[_Standards/WikiData/WD~Q25738602,25738602]]'
+- '[[_Standards/WikiData/WD~Template_Vitamins,5912294]]'
+- '[[_Standards/WikiData/WD~Q25738602,25738602]]'
 depicted_by: '[[_Standards/WikiData/WD~Vitamine,15987487]]'
 studied_by:
-  - '[[_Standards/WikiData/WD~Q25504439,25504439]]'
-  - '[[_Standards/WikiData/WD~vitaminology,127270670]]'
+- '[[_Standards/WikiData/WD~Q25504439,25504439]]'
+- '[[_Standards/WikiData/WD~vitaminology,127270670]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
-  - '[[_Standards/WikiData/WD~nutrient_group,136908428]]'
+- '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
+- '[[_Standards/WikiData/WD~nutrient_group,136908428]]'
 named_by: '[[_Standards/WikiData/WD~Casimir_Funk,28738]]'
 OmegaWiki_Defined_Meaning: 3973
 Commons_gallery: Vitamin
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crystals%20of%20vitamin%20C.jpg
 CAS_Registry_Number: 308080-82-2
 MeSH_tree_code:
-  - D27.505.696.494.600
-  - G07.203.300.681.500.600
-  - J02.500.681.500.600
+- D27.505.696.494.600
+- G07.203.300.681.500.600
+- J02.500.681.500.600
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/VITAMINI.html
 Commons_category: Vitamins
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Vitamin2.ogg
 Dewey_Decimal_Classification: 572.58
+dv_has_:
+  name_:
+    af: vitamien
+    ar: فيتامين
+    arz: فيتامينات
+    as: ভিটামিন
+    ast: vitamina
+    az: vitaminlər
+    ba: витаминдар
+    bcl: Bitamina
+    be: вітаміны
+    be-tarask: вітамін
+    bg: витамин
+    bho: विटामिन
+    bjn: Vitamin
+    bn: ভিটামিন
+    bs: vitamini
+    ca: vitamina
+    cdo: mì-sĕng-só
+    ckb: ڤیتامین
+    cs: vitamín
+    cv: витамин
+    cy: fitamin
+    da: vitamin
+    de: Vitamin
+    de-ch: Vitamin
+    dty: भिटामिन
+    dv: ވިޓަމިން
+    el: βιταμίνη
+    en: vitamin
+    en-ca: vitamin
+    en-gb: vitamin
+    eo: vitamino
+    es: vitamina
+    et: vitamiin
+    eu: Bitamina
+    fa: ویتامین
+    fi: vitamiini
+    fo: vitamin
+    fr: vitamine
+    frr: vitamiin
+    ga: vitimín
+    gl: vitamina
+    hak: ví-ta-mìn
+    he: ויטמין
+    hi: विटामिन
+    hr: vitamin
+    ht: vitamin
+    hu: vitamin
+    hy: վիտամին
+    hyw: Կենսանիւթեր
+    ia: vitamina
+    id: vitamin
+    ie: vitamine
+    io: vitamino
+    is: vítamín
+    it: vitamine
+    ja: ビタミン
+    jv: vitamin
+    ka: ვიტამინი
+    kaa: vitamin
+    kk: дәрумен
+    km: វីតាមីន
+    kn: ಜೀವಸತ್ವಗಳು
+    ko: 비타민
+    koi: витамин
+    ks: وایٹامِن
+    ky: витаминдер
+    la: vitaminum
+    lb: Vitaminn
+    lg: vitamini
+    lmo: vitamina
+    lo: ວິຕາມິນ
+    lt: vitaminas
+    lv: vitamīni
+    mg: Vitaminina
+    mk: витамин
+    ml: ജീവകം
+    mr: जीवनसत्त्व
+    ms: vitamin
+    my: ဗီတာမင်
+    nan: bî-tá-mín
+    nb: vitamin
+    ne: भिटामिन
+    nl: vitamine
+    nn: vitamin
+    nov: vitamine
+    oc: vitamina
+    or: ଜୀବସାର
+    pa: ਵਿਟਾਮਿਨ
+    pl: witamina
+    pnb: وٹامن
+    ps: ويټامين
+    pt: vitamina
+    pt-br: vitamina
+    ro: vitamină
+    ru: витамины
+    rue: витамин
+    sah: битэмииннэр
+    scn: vitamina
+    sco: vitamin
+    se: vitamiidna
+    sh: vitamin
+    shn: ဝီႇတမိၼ်ႇ
+    si: විටමින්
+    sk: vitamín
+    sl: vitamin
+    smn: vitamin
+    sms: vitamiin
+    so: fiitamiin
+    sq: vitaminat
+    sr: витамин
+    sr-ec: витамин
+    sr-el: vitamin
+    su: vitamin
+    sv: vitamin
+    sw: vitamini
+    ta: உயிர்ச்சத்து
+    te: విటమిన్
+    tg: витамин
+    th: วิตามิน
+    tk: witamin
+    tl: bitamina
+    tr: vitamin
+    tt: витамин
+    tyv: витаминнер
+    udm: витаминъёс
+    uk: вітаміни
+    ur: حیاتین
+    uz: vitaminlar
+    vec: vitamina
+    vi: vitamin
+    wa: vitamene
+    war: bitamina
+    wuu: 维生素
+    xmf: ვიტამინეფი
+    yi: וויטאמין
+    yo: àmínìamáralókun
+    yue: 維他命
+    zh: 维生素
 ---
-
 # [[Vitamin]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vitamin,34956|WD~Vitamin,34956]] 

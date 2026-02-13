@@ -1,34 +1,135 @@
 ---
-has_time_stopped: 1700-01-01 
+has_time_stopped: 1700-01-01
 aliases:
-  - Egyptian language
-  - Ancient Egyptian
-  - Ancient_Egyptian
+- Ai-ki̍p-gí
+- an Éigiptis
+- Ancient Egyptian
+- Ancient_Egyptian
+- bahasa Mesir
+- Basa Mesir
+- Egipatski jezik
+- egipci
+- Egipcian
+- egipcio
+- egipta lingvo
+- egipteg
+- Egiptian
+- Egipties
+- Egiptoera
+- egiptuse keel
+- egipčanščina
+- egizio
+- egyiptomi
+- egypti
+- Egyptian
+- Egyptian bhasa
+- Egyptian language
+- Egyptisch
+- egyptisk
+- egyptiska
+- Egyptojska rěc
+- Egyptowšćina
+- Egyptysk
+- egyptčina
+- egyptština
+- egípcio
+- Eiffteg
+- ejip ansyen
+- exipcianu
+- Eġizzjan
+- Fiteny egiptiana taloha
+- Fornegypska
+- Gjuha egjiptiane
+- Harshen Misira
+- hi
+- język egipski
+- Kimisri
+- Lengua egiçia
+- Limba egipteană
+- lingua Aegyptia
+- lingua exipcia
+- Luengas echipcias
+- Luqada Masaarida
+- Misir dili
+- Misr tili
+- Mısırca
+- Mısırki
+- Ngôn ngữ Ai Cập
+- Senovės egiptiečių kalba
+- toki Keme pi tenpo pini
+- zimanê misrî
+- Ägyptisch
+- Ægiptisc
+- égyptien ancien
+- Ăi-gĭk-ngṳ̄
+- ēģiptiešu valoda
+- Αρχαία αιγυπτιακή γλώσσα
+- єгипетська мова
+- Егіпецкая мова
+- египатски језик
+- Египет кыв
+- Египет кыл
+- Египет тили
+- Египеталъул мацӀ
+- Египетски јазик
+- Египетски език
+- египетский язык
+- Египеттәи абызшәа
+- Египетэнь кель
+- Мисыр теле
+- мысираг æвзаг
+- Мысыр тілі
+- эгіпецкая мова
+- Եգիպտացերէն
+- եգիպտերեն
+- מצרית
+- زبانهای مصری
+- لغة مصرية
+- لغه مصريه
+- مصري ژبه
+- مصری زبان
+- مِصری زَبان
+- پراݨی مصری
+- इजिप्सियन भाय्
+- मिस्री भाषा
+- মিশরীয় ভাষা
+- எகிப்திய மொழி
+- ಈಜಿಪ್ಟಿಯನ್ ಭಾಷೆ
+- ഈജിപ്ഷ്യൻ ഭാഷ
+- ඊජිප්තු භාෂාව
+- ภาษาอียิปต์
+- ეგვიპტური ენა
+- ግብጽኛ
+- エジプト語
+- 埃及文
+- 埃及語
+- 埃及语
+- 이집트어
 has_id_wikidata: Q50868
 linguistic_typology:
-  - "[[_Standards/WikiData/WD~verb_subject_object,166097]]"
-  - "[[_Standards/WikiData/WD~fusional_language,318917]]"
-time_period: "[[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324]]"
-writing_system: "[[_Standards/WikiData/WD~Coptic_script,321083]]"
+- '[[_Standards/WikiData/WD~verb_subject_object,166097]]'
+- '[[_Standards/WikiData/WD~fusional_language,318917]]'
+time_period: '[[_Standards/WikiData/WD~Middle_Kingdom_of_Egypt,191324]]'
+writing_system: '[[_Standards/WikiData/WD~Coptic_script,321083]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~ancient_language,436240]]"
-  - "[[_Standards/WikiData/WD~dead_language,45762]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-UNESCO_language_status: "[[_Standards/WikiData/WD~6_extinct,20672091]]"
+- '[[_Standards/WikiData/WD~ancient_language,436240]]'
+- '[[_Standards/WikiData/WD~dead_language,45762]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+UNESCO_language_status: '[[_Standards/WikiData/WD~6_extinct,20672091]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Egyptian,34610803]]"
-  - "[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Egyptian,34610803]]"
-subclass_of: "[[_Standards/WikiData/WD~Egyptian,34610803]]"
+- '[[_Standards/WikiData/WD~Egyptian,34610803]]'
+- '[[_Standards/WikiData/WD~Egyptian_Arabic,29919]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Egyptian,34610803]]'
+subclass_of: '[[_Standards/WikiData/WD~Egyptian,34610803]]'
 inception: -4000-06
 dissolved_abolished_or_demolished_date: 1700-01-01T00:00:00Z
 country:
-  - "[[_Standards/WikiData/WD~Ancient_Egypt,11768]]"
-  - "[[_Standards/WikiData/WD~Egypt,79]]"
+- '[[_Standards/WikiData/WD~Ancient_Egypt,11768]]'
+- '[[_Standards/WikiData/WD~Egypt,79]]'
 OmegaWiki_Defined_Meaning: 561081
 native_label:
-  - 𓂋𓏤𓈖𓆎𓅓𓏏𓊖
-  - r n km.t
+- "\U0001308B\U000133E4\U00013216\U0001318E\U00013153\U000133CF\U00013296"
+- r n km.t
 POSIX_locale_identifier: egy
 IETF_language_tag: egy
 ISO_639_3_code: egy
@@ -40,8 +141,126 @@ Linguasphere_code: 11-AAA-a
 Glottolog_code: egyp1246
 Krugosvet_article: gumanitarnye_nauki/lingvistika/DREVNEEGIPETSKI_YAZIK.html
 GOST_7_75_97_code: дре 187
+dv_has_:
+  name_:
+    ab: Египеттәи абызшәа
+    af: Egipties
+    am: ግብጽኛ
+    an: Luengas echipcias
+    ang: Ægiptisc
+    ar: لغة مصرية
+    arz: لغه مصريه
+    as: hi
+    ast: exipcianu
+    av: Египеталъул мацӀ
+    az: Misir dili
+    be: Егіпецкая мова
+    be-tarask: эгіпецкая мова
+    bg: Египетски език
+    bn: মিশরীয় ভাষা
+    br: egipteg
+    ca: egipci
+    cdo: Ăi-gĭk-ngṳ̄
+    cs: egyptština
+    cy: Eiffteg
+    da: egyptisk
+    de: Ägyptisch
+    de-ch: Ägyptisch
+    diq: Mısırki
+    dsb: Egyptojska rěc
+    el: Αρχαία αιγυπτιακή γλώσσα
+    en: Egyptian
+    en-ca: Egyptian
+    en-gb: Egyptian
+    eo: egipta lingvo
+    es: egipcio
+    et: egiptuse keel
+    eu: Egiptoera
+    fa: زبانهای مصری
+    fi: egypti
+    fr: égyptien ancien
+    fy: Egyptysk
+    ga: an Éigiptis
+    gl: lingua exipcia
+    ha: Harshen Misira
+    he: מצרית
+    hi: मिस्री भाषा
+    hif: Egyptian bhasa
+    hr: Egipatski jezik
+    hsb: Egyptowšćina
+    ht: ejip ansyen
+    hu: egyiptomi
+    hy: եգիպտերեն
+    hyw: Եգիպտացերէն
+    id: bahasa Mesir
+    is: Fornegypska
+    it: egizio
+    ja: エジプト語
+    jv: Basa Mesir
+    ka: ეგვიპტური ენა
+    kk: Мысыр тілі
+    kn: ಈಜಿಪ್ಟಿಯನ್ ಭಾಷೆ
+    ko: 이집트어
+    ks: مِصری زَبان
+    ku: zimanê misrî
+    ku-latn: zimanê misrî
+    kv: Египет кыв
+    ky: Египет тили
+    la: lingua Aegyptia
+    lfn: Egiptian
+    li: Egyptisch
+    lij: Lengua egiçia
+    lt: Senovės egiptiečių kalba
+    lv: ēģiptiešu valoda
+    mg: Fiteny egiptiana taloha
+    mk: Египетски јазик
+    ml: ഈജിപ്ഷ്യൻ ഭാഷ
+    ms: Bahasa Mesir
+    mt: Eġizzjan
+    myv: Египетэнь кель
+    nan: Ai-ki̍p-gí
+    nb: egyptisk
+    ne: मिस्री भाषा
+    new: इजिप्सियन भाय्
+    nl: Egyptisch
+    nn: egyptisk
+    oc: Egipcian
+    os: мысираг æвзаг
+    pap: Egipcio
+    pl: język egipski
+    pnb: پراݨی مصری
+    ps: مصري ژبه
+    pt: egípcio
+    pt-br: egípcio
+    ro: Limba egipteană
+    ru: египетский язык
+    sh: Egipatski jezik
+    si: ඊජිප්තු භාෂාව
+    sk: egyptčina
+    sl: egipčanščina
+    so: Luqada Masaarida
+    sq: Gjuha egjiptiane
+    sr: египатски језик
+    sr-ec: египатски језик
+    sr-el: egipatski jezik
+    sv: egyptiska
+    sw: Kimisri
+    ta: எகிப்திய மொழி
+    th: ภาษาอียิปต์
+    tok: toki Keme pi tenpo pini
+    tr: Mısırca
+    tt: Мисыр теле
+    udm: Египет кыл
+    uk: єгипетська мова
+    ur: مصری زبان
+    uz: Misr tili
+    vi: Ngôn ngữ Ai Cập
+    wuu: 埃及语
+    yue: 埃及文
+    zh: 埃及語
+    zh-hant: 埃及語
+    zh-tw: 埃及語
 ---
-
 # [[Ancient_Egyptian]] 
 
 #has_/text_of_/iso639 :: egy 

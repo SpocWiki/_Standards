@@ -1,29 +1,71 @@
 ---
 aliases:
-  - mandolino
-  - Mandoline
-  - Mandolin
+- bandolim
+- Bandolin
+- madolin
+- maindilín
+- mandalyn
+- mandoliidna
+- mandoliin
+- mandoliini
+- Mandolin
+- mandolina
+- Mandoline
+- Mandolinenn
+- Mandolinn
+- mandolino
+- Mandolinum
+- Mandolină
+- mandolína
+- mandolīna
+- Manduline
+- Mandulinu
+- Mannulinu
+- măng cầm
+- μαντολίνο
+- мандаліна
+- мандоліна
+- мандолин
+- мандолина
+- Մանդոլին
+- מנדולינה
+- ماندولین
+- ماندۆلین
+- مندولين
+- मँडोलिन
+- मैंडलिन
+- ম্যান্ডোলিন
+- மாண்டலின்
+- ಮ್ಯಾಂಡೊಲಿನ್
+- แมนโดลิน
+- မင်ဒလင်
+- မႄႇတလိၼ်ႇ
+- მანდოლინა
+- マンドリン
+- 曼陀林
+- 曼陀鈴
+- 만돌린
 has_id_wikidata: Q302497
 different_from:
-  - '[[_Standards/WikiData/WD~mandola,74207]]'
-  - '[[_Standards/WikiData/WD~Bandolim,2882376]]'
-  - '[[_Standards/WikiData/WD~bandolin,4854663]]'
-  - '[[_Standards/WikiData/WD~Bandolina,5719028]]'
-  - '[[_Standards/WikiData/WD~bandolin,16837625]]'
-  - '[[_Standards/WikiData/WD~Tachirean_bandolin,42912610]]'
+- '[[_Standards/WikiData/WD~mandola,74207]]'
+- '[[_Standards/WikiData/WD~Bandolim,2882376]]'
+- '[[_Standards/WikiData/WD~bandolin,4854663]]'
+- '[[_Standards/WikiData/WD~Bandolina,5719028]]'
+- '[[_Standards/WikiData/WD~bandolin,16837625]]'
+- '[[_Standards/WikiData/WD~Tachirean_bandolin,42912610]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-  - '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Pierrot_playing_the_mandolin,17495004]]'
-  - '[[_Standards/WikiData/WD~The_Mandolin_Player,63351775]]'
-  - '[[_Standards/WikiData/WD~Lady_Playing_a_Mandolin,63364453]]'
+- '[[_Standards/WikiData/WD~Pierrot_playing_the_mandolin,17495004]]'
+- '[[_Standards/WikiData/WD~The_Mandolin_Player,63351775]]'
+- '[[_Standards/WikiData/WD~Lady_Playing_a_Mandolin,63364453]]'
 used_by: '[[_Standards/WikiData/WD~mandolinist,19723482]]'
 award_received: '[[_Standards/WikiData/WD~Instrument_of_the_Year,48757486]]'
 subclass_of: '[[_Standards/WikiData/WD~necked_bowl_lutes_sounded_by_plectrum,57315360]]'
@@ -39,8 +81,97 @@ U_S_National_Archives_Identifier: 10645666
 Amazon_com_browse_node: 11971481
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/MANDOLINA.html
 Commons_category: Mandolins
+dv_has_:
+  name_:
+    ar: مندولين
+    arz: مندولين
+    ast: Mandolina
+    az: Mandolina
+    ba: Мандолина
+    be: мандаліна
+    be-tarask: мандаліна
+    bg: мандолина
+    bn: ম্যান্ডোলিন
+    br: Mandolinenn
+    bs: Mandolina
+    ca: mandolina
+    ckb: ماندۆلین
+    co: Mandulinu
+    cs: mandolína
+    cy: mandolin
+    da: mandolin
+    de: Mandoline
+    el: μαντολίνο
+    en: mandolin
+    en-us: mandolin
+    eo: mandolino
+    es: mandolina
+    et: mandoliin
+    eu: Mandolina
+    fa: ماندولین
+    fi: mandoliini
+    fr: mandoline
+    ga: maindilín
+    gl: Mandolina
+    gv: mandalyn
+    he: מנדולינה
+    hi: मैंडलिन
+    hr: Mandolina
+    ht: Mandolin
+    hu: mandolin
+    hy: Մանդոլին
+    id: mandolin
+    io: Mandolino
+    it: mandolino
+    ja: マンドリン
+    ka: მანდოლინა
+    kk: Мандолина
+    kn: ಮ್ಯಾಂಡೊಲಿನ್
+    ko: 만돌린
+    ky: Мандолина
+    la: Mandolinum
+    lb: Mandolinn
+    lij: Mandolin
+    lmo: Mandolin
+    lt: mandolina
+    lv: mandolīna
+    mk: Мандолина
+    mr: मँडोलिन
+    my: မင်ဒလင်
+    nap: Manduline
+    nb: mandolin
+    nl: mandoline
+    nn: mandolin
+    oc: Mandolina
+    pl: mandolina
+    pt: bandolim
+    ro: Mandolină
+    ru: мандолина
+    rup: Mandulinu
+    scn: Mannulinu
+    se: mandoliidna
+    sh: Mandolina
+    shn: မႄႇတလိၼ်ႇ
+    sk: mandolína
+    sl: mandolina
+    smn: mandoliin
+    sms: mandoliin
+    sq: mandolina
+    sr: мандолина
+    sv: mandolin
+    ta: மாண்டலின்
+    te: madolin
+    th: แมนโดลิน
+    tl: Bandolin
+    tr: mandolin
+    tt: мандолин
+    uk: мандоліна
+    vi: măng cầm
+    wuu: 曼陀林
+    yue: 曼陀鈴
+    zh: 曼陀林
+    zh-hant: 曼陀林
 ---
-
 # [[Mandolin]] 
 
 #is_/same_as :: [[WD~Mandolin,302497]] 

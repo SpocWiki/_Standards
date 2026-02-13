@@ -1,21 +1,101 @@
 ---
 aliases:
+- aaltojohde
+- bølgeleder
+- bølgjeleiar
+- Dalga kılavuzu
+- Dalğaötürən
+- falowód
+- ghid de undă
+- golfgeleider
+- guia d'ones
+- guia de ondas
+- guide d'onde
+- Guía de onda
+- hullámvezető
+- Lainejuhe
+- ondogvidilo
+- Pandu Gelombang
+- Talasovod
+- uhin-gidari
+- valovod
+- vlnovod
+- vågledare
+- waveguide
+- Wellenleiter
+- волновод
+- хвалявод
+- хвилевід
+- ալիքատար
+- גלבו
+- دليل موجي
+- موجبر
+- वेवगाइड
+- அலைக்கடத்தி
+- വേവ്ഗൈഡ്
+- เวฟไกด์
+- 導波管
+- 波导管
+- 波導管
+- 도파관
 has_id_wikidata: Q11233438
 subclass_of:
-  - "[[_Standards/WikiData/WD~physical_technological_component,811909]]"
-  - "[[_Standards/WikiData/WD~structure,6671777]]"
-has_use: "[[_Standards/WikiData/WD~wave_propagation,1758425]]"
-instance_of: "[[_Standards/WikiData/WD~physics_term,100724091]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-physically_interacts_with: "[[_Standards/WikiData/WD~wave,37172]]"
+- '[[_Standards/WikiData/WD~physical_technological_component,811909]]'
+- '[[_Standards/WikiData/WD~structure,6671777]]'
+has_use: '[[_Standards/WikiData/WD~wave_propagation,1758425]]'
+instance_of: '[[_Standards/WikiData/WD~physics_term,100724091]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~wave,37172]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Diplexer1.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/WaveguideJ-Band.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Diplexer1.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/WaveguideJ-Band.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Waveguide%20x%20EM%20rect%20TE31.gif
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/waveguide
 Commons_category: Waveguides
+dv_has_:
+  name_:
+    ar: دليل موجي
+    az: Dalğaötürən
+    be-tarask: хвалявод
+    ca: guia d'ones
+    cs: vlnovod
+    de: Wellenleiter
+    en: waveguide
+    eo: ondogvidilo
+    es: Guía de onda
+    et: Lainejuhe
+    eu: uhin-gidari
+    fa: موجبر
+    fi: aaltojohde
+    fr: guide d'onde
+    he: גלבו
+    hi: वेवगाइड
+    hu: hullámvezető
+    hy: ալիքատար
+    id: Pandu Gelombang
+    ja: 導波管
+    ko: 도파관
+    ml: വേവ്ഗൈഡ്
+    nb: bølgeleder
+    nl: golfgeleider
+    nn: bølgjeleiar
+    pl: falowód
+    pt: guia de ondas
+    ro: ghid de undă
+    ru: волновод
+    sh: Talasovod
+    sl: valovod
+    sr: Talasovod
+    sv: vågledare
+    ta: அலைக்கடத்தி
+    th: เวฟไกด์
+    tr: Dalga kılavuzu
+    uk: хвилевід
+    yue: 導波管
+    zh: 波导管
+    zh-hant: 波導管
+    zh-tw: 導波管
 ---
-
 # [[Waveguide]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Waveguide,11233438|WD~Waveguide,11233438]]  

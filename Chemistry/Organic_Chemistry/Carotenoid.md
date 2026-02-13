@@ -1,60 +1,166 @@
 ---
 aliases:
+- caraitéanóideach
+- carotenoid
+- carotenoide
+- carotenoidi
+- Carotenoidă
+- carotenoïde
+- Carotinoide
+- caroténoïde
+- Karatïnoïdtar
+- Karotenoid
+- Karotenoide
+- karotenoider
+- karotenoidi
+- Karotenoidid
+- Karotenoido
+- karotenoidy
+- Karotenoîd
+- Karotinoidlar
+- Karotinoīdi
+- Καροτενοειδές
+- Каратиноидтар
+- каратыноід
+- Каротеноид
+- каротиноїди
+- каротиноид
+- Каротиноиддер
+- Կարոտինոիդներ
+- קרוטנואיד
+- كاراتىينوىيدتار
+- كاروتينات
+- کاروتنوئید
+- ক্যারোটিনয়েড
+- കരോട്ടിനോയ്ഡ്
+- แคโรทีนอยด์
+- კაროტინოიდები
+- カロテノイド
+- 类胡萝蔔素
+- 類胡蘿蔔素
+- 카로티노이드
 has_id_wikidata: Q191907
-subject_has_role: "[[_Standards/WikiData/WD~antioxidant,133948]]"
+subject_has_role: '[[_Standards/WikiData/WD~antioxidant,133948]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~pigment,161179]]"
-  - "[[_Standards/WikiData/WD~biological_pigment,910979]]"
-  - "[[_Standards/WikiData/WD~tetraterpenoid,47006386]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Carotenoids,10595219]]"
+- '[[_Standards/WikiData/WD~pigment,161179]]'
+- '[[_Standards/WikiData/WD~biological_pigment,910979]]'
+- '[[_Standards/WikiData/WD~tetraterpenoid,47006386]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Carotenoids,10595219]]'
 part_of:
-  - "[[_Standards/WikiData/WD~carotenoid_metabolic_process,21116856]]"
-  - "[[_Standards/WikiData/WD~carotenoid_biosynthetic_process,21756526]]"
-  - "[[_Standards/WikiData/WD~carotenoid_catabolic_process,22282162]]"
-  - "[[_Standards/WikiData/WD~carotenoid_transport,22292459]]"
+- '[[_Standards/WikiData/WD~carotenoid_metabolic_process,21116856]]'
+- '[[_Standards/WikiData/WD~carotenoid_biosynthetic_process,21756526]]'
+- '[[_Standards/WikiData/WD~carotenoid_catabolic_process,22282162]]'
+- '[[_Standards/WikiData/WD~carotenoid_transport,22292459]]'
 SMARTS_notation:
-  - "[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(c)~C)]~[$(c);!$(c(c)(c)(C)C)]1[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])1"
-  - "[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C1([$(C);!$(C(~C)~C)])C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]1"
-  - "[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)~C)]"
-  - "[$(C);!$(C(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)~C)]"
-  - "[$(c);!$(c(c)(c)(C)C)]1([$(C);!$(C(~C)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(~C)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(~C)~C)])[$(c);!$(c(c)(c)(C)C)]1[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)~C)]"
-  - "[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])1"
-  - "[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~C([$(C);!$(C(~C)~C)])1[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C1([$(C);!$(C(~C)~C)])C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]1"
-  - "[$(c);!$(c(c)(c)(C)C)]1([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]1[$(C);!$(C(~C)(c)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(c)(~C)~C)][$(c);!$(c(c)(c)(C)C)]1[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])1"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-CosIng_number: "55089"
-Dewey_Decimal_Classification: "547.71"
+- '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(c)~C)]~[$(c);!$(c(c)(c)(C)C)]1[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])1'
+- '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C1([$(C);!$(C(~C)~C)])C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]1'
+- '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)~C)]'
+- '[$(C);!$(C(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)~C)]'
+- '[$(c);!$(c(c)(c)(C)C)]1([$(C);!$(C(~C)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(~C)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(~C)~C)])[$(c);!$(c(c)(c)(C)C)]1[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)~C)]'
+- '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])1'
+- '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~C([$(C);!$(C(~C)~C)])1[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C1([$(C);!$(C(~C)~C)])C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]1'
+- '[$(c);!$(c(c)(c)(C)C)]1([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]1[$(C);!$(C(~C)(c)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(c)(~C)~C)][$(c);!$(c(c)(c)(C)C)]1[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])1'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+CosIng_number: 55089
+Dewey_Decimal_Classification: 547.71
 MCN_code: 3204.19.11
-P8189: "987007284888905171"
+P8189: 987007284888905171
 FoodEx2_code: A0EVN
 Commons_category: Carotenoids
 MeSH_tree_code:
-  - D02.455.326.271.665.202
-  - D02.455.426.392.368.367.379.249
-  - D02.455.849.131
-  - D23.767.261
+- D02.455.326.271.665.202
+- D02.455.426.392.368.367.379.249
+- D02.455.849.131
+- D23.767.261
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]]"
+  - '[[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]]"
+- '[[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]]'
+dv_has_:
+  name_:
+    ar: كاروتينات
+    ast: Carotenoide
+    be: каратыноід
+    be-tarask: каратыноід
+    bg: Каротиноид
+    bn: ক্যারোটিনয়েড
+    ca: Carotenoide
+    cs: karotenoidy
+    de: Carotinoide
+    el: Καροτενοειδές
+    en: carotenoid
+    eo: Karotenoido
+    es: carotenoide
+    et: Karotenoidid
+    eu: Karotenoide
+    fa: کاروتنوئید
+    fi: karotenoidi
+    fr: caroténoïde
+    ga: caraitéanóideach
+    gl: Carotenoide
+    he: קרוטנואיד
+    hr: Karotenoidi
+    hy: Կարոտինոիդներ
+    id: Karotenoid
+    it: carotenoidi
+    ja: カロテノイド
+    ka: კაროტინოიდები
+    kk: Каратиноидтар
+    kk-arab: كاراتىينوىيدتار
+    kk-cn: كاراتىينوىيدتار
+    kk-cyrl: Каратиноидтар
+    kk-kz: Каратиноидтар
+    kk-latn: Karatïnoïdtar
+    kk-tr: Karatïnoïdtar
+    ko: 카로티노이드
+    ku: Karotenoîd
+    ky: Каротиноиддер
+    lv: Karotinoīdi
+    mk: каротиноид
+    ml: കരോട്ടിനോയ്ഡ്
+    nb: karotenoider
+    nl: carotenoïde
+    nn: karotenoid
+    pl: karotenoid
+    pt: carotenoide
+    ro: Carotenoidă
+    ru: каротиноид
+    sh: Karotenoid
+    sl: karotenoid
+    sr: Каротеноид
+    sr-ec: Каротеноид
+    sr-el: Karotenoid
+    sv: Karotenoid
+    th: แคโรทีนอยด์
+    tr: Karotenoid
+    uk: каротиноїди
+    uz: Karotinoidlar
+    vi: Carotenoid
+    yue: 類胡蘿蔔素
+    zh: 類胡蘿蔔素
+    zh-cn: 类胡萝蔔素
+    zh-hans: 类胡萝蔔素
+    zh-hant: 類胡蘿蔔素
+    zh-hk: 類胡蘿蔔素
+    zh-sg: 类胡萝蔔素
+    zh-tw: 類胡蘿蔔素
 ---
-
 # [[Carotenoid]] 
 
 #is_/same_as :: [[../../WikiData/WD~Carotenoid,191907|WD~Carotenoid,191907]] 

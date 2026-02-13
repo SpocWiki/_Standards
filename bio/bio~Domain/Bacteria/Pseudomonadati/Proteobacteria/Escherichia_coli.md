@@ -1,142 +1,180 @@
 ---
 aliases:
-  - Escherichia_coli
-  - Escherichia coli
-  - 大腸埃希氏菌
+- Bağırsaq çöpləri
+- Colibacile
+- Escherichia coli
+- Escherichia_coli
+- escheríchia coli
+- Esherichia Coli
+- Esikerikia koli
+- kolibakteeri
+- pałeczka okrężnicy
+- Soolekepike
+- Tōa-tn̂g-khún
+- Εσερίχια κόλι
+- Ішектаяқшасы
+- ешерихија коли
+- Ешерихия коли
+- кішачны пруток
+- кишечная палочка
+- кишкова паличка
+- Коли-инфекция
+- Աղիքային ցուպիկ
+- إشريكية قولونية
+- ئیشریکیا کۆلای
+- اشریشیا کلی
+- ايشريشيا كولاى
+- اېشېريکيا کولي
+- تاياقچە باكتېرىيە
+- شيريشية كولي
+- एशेरिकिया कोलाए
+- এশেরিকিয়া কোলাই
+- ଏସ୍କେରିସିଆ କୋଲାଇ
+- எசரிக்கியா கோலை
+- ಎಸ್ಚರೀಶಿಯ ಕೋಲಿ
+- എഷെറിക്കീയ കോളി ബാക്റ്റീരിയ
+- རྒྱུ་དཀར་དབྱུག་སྲིན་
+- အက်ရှားရီကီးယား ကိုလိုင်
+- ნაწლავის ჩხირი
+- 大肠杆菌
+- 大腸埃希氏菌
+- 大腸桿菌
+- 大腸菌
+- 대장균
 has_id_wikidata: Q25419
 GenBank_assembly_accession_number:
-  - GCA_003018135.1
-  - GCA_003018315.1
-  - GCA_003018455.1
-  - GCA_003018555.1
-  - GCA_003018575.1
-  - GCA_003018795.1
-  - GCA_003018895.1
-  - GCA_003019155.1
-  - GCA_003019175.1
-  - GCA_003019215.1
-  - GCA_003697165.2
-  - GCA_003790525.1
-  - GCA_003966425.1
-  - GCA_003966465.1
-  - GCA_004010575.1
-  - GCA_004010655.1
-  - GCA_004010675.1
-  - GCA_004010695.1
-  - GCA_004010715.1
-  - GCA_004358365.1
-  - GCA_004358405.1
-  - GCA_005221505.1
-  - GCA_005221585.1
-  - GCA_005221605.1
-  - GCA_005221625.1
-  - GCA_005221645.1
-  - GCA_005221665.1
-  - GCA_005221685.1
-  - GCA_005221705.1
-  - GCA_005221725.1
-  - GCA_005221745.1
-  - GCA_005221765.1
-  - GCA_005221785.1
-  - GCA_005221805.1
-  - GCA_005221825.1
-  - GCA_005221865.1
-  - GCA_005221885.1
-  - GCA_005221925.1
-  - GCA_005221945.1
-  - GCA_005221965.1
-  - GCA_005221985.1
-  - GCA_005222005.1
-  - GCA_005222025.1
-  - GCA_005222265.1
-  - GCA_005222285.1
-  - GCA_005222325.1
-  - GCA_005222365.1
-  - GCA_005222405.1
-  - GCA_006874785.1
-  - GCA_008925965.1
-  - GCA_008926125.1
-  - GCA_008926145.1
-  - GCA_008926165.1
-  - GCA_008926185.1
-  - GCA_008931135.1
-  - GCA_009431955.1
-  - GCA_009432215.1
-  - GCA_009432915.1
-  - GCA_009650035.1
-  - GCA_009664305.1
-  - GCA_009664455.1
-  - GCA_009738455.1
-  - GCA_011996085.1
-  - GCA_013357365.1
-  - GCA_014058445.2
-  - GCA_014825845.1
-  - GCA_019428705.1
-  - GCA_023921205.1
-  - GCA_024223415.1
-  - GCA_024300685.1
-  - GCA_024300705.1
-  - GCA_025399095.1
-  - GCA_025399115.1
-  - GCA_025399135.1
-  - GCA_025809255.1
-  - GCA_025995195.1
-  - GCA_025995255.1
-  - GCA_025995355.1
-  - GCA_025995615.1
-  - GCA_025995675.1
-  - GCA_025995735.1
-  - GCA_025996315.1
-  - GCA_025996555.1
-  - GCA_027925505.1
-  - GCA_027925565.1
-  - GCA_027925625.1
-  - GCA_027925685.1
-  - GCA_027925745.1
-  - GCA_027925765.1
-  - GCA_027925785.1
-  - GCA_027925805.1
-  - GCA_027925825.1
-  - GCA_027925845.1
-  - GCA_030013595.1
-  - GCA_030389925.1
-  - GCA_030733925.1
-  - GCA_030734165.1
-  - GCA_031357085.1
-  - GCA_032382315.1
-  - GCA_900635185.1
-  - GCA_000008865.2
-  - GCA_001612475.1
-  - GCA_001612495.1
-  - GCA_001677475.2
-  - GCA_001721125.1
-  - GCA_001806265.1
-  - GCA_001806285.1
-  - GCA_001890205.1
-  - GCA_001890225.1
-  - GCA_001890245.1
-  - GCA_001890285.2
-  - GCA_001890325.1
-  - GCA_001892205.1
-  - GCA_002156845.1
-  - GCA_002220265.1
-  - GCA_002946715.1
-  - GCA_003017375.1
-  - GCA_003017915.1
-  - GCA_003018035.1
-  - GCA_003018055.1
+- GCA_003018135.1
+- GCA_003018315.1
+- GCA_003018455.1
+- GCA_003018555.1
+- GCA_003018575.1
+- GCA_003018795.1
+- GCA_003018895.1
+- GCA_003019155.1
+- GCA_003019175.1
+- GCA_003019215.1
+- GCA_003697165.2
+- GCA_003790525.1
+- GCA_003966425.1
+- GCA_003966465.1
+- GCA_004010575.1
+- GCA_004010655.1
+- GCA_004010675.1
+- GCA_004010695.1
+- GCA_004010715.1
+- GCA_004358365.1
+- GCA_004358405.1
+- GCA_005221505.1
+- GCA_005221585.1
+- GCA_005221605.1
+- GCA_005221625.1
+- GCA_005221645.1
+- GCA_005221665.1
+- GCA_005221685.1
+- GCA_005221705.1
+- GCA_005221725.1
+- GCA_005221745.1
+- GCA_005221765.1
+- GCA_005221785.1
+- GCA_005221805.1
+- GCA_005221825.1
+- GCA_005221865.1
+- GCA_005221885.1
+- GCA_005221925.1
+- GCA_005221945.1
+- GCA_005221965.1
+- GCA_005221985.1
+- GCA_005222005.1
+- GCA_005222025.1
+- GCA_005222265.1
+- GCA_005222285.1
+- GCA_005222325.1
+- GCA_005222365.1
+- GCA_005222405.1
+- GCA_006874785.1
+- GCA_008925965.1
+- GCA_008926125.1
+- GCA_008926145.1
+- GCA_008926165.1
+- GCA_008926185.1
+- GCA_008931135.1
+- GCA_009431955.1
+- GCA_009432215.1
+- GCA_009432915.1
+- GCA_009650035.1
+- GCA_009664305.1
+- GCA_009664455.1
+- GCA_009738455.1
+- GCA_011996085.1
+- GCA_013357365.1
+- GCA_014058445.2
+- GCA_014825845.1
+- GCA_019428705.1
+- GCA_023921205.1
+- GCA_024223415.1
+- GCA_024300685.1
+- GCA_024300705.1
+- GCA_025399095.1
+- GCA_025399115.1
+- GCA_025399135.1
+- GCA_025809255.1
+- GCA_025995195.1
+- GCA_025995255.1
+- GCA_025995355.1
+- GCA_025995615.1
+- GCA_025995675.1
+- GCA_025995735.1
+- GCA_025996315.1
+- GCA_025996555.1
+- GCA_027925505.1
+- GCA_027925565.1
+- GCA_027925625.1
+- GCA_027925685.1
+- GCA_027925745.1
+- GCA_027925765.1
+- GCA_027925785.1
+- GCA_027925805.1
+- GCA_027925825.1
+- GCA_027925845.1
+- GCA_030013595.1
+- GCA_030389925.1
+- GCA_030733925.1
+- GCA_030734165.1
+- GCA_031357085.1
+- GCA_032382315.1
+- GCA_900635185.1
+- GCA_000008865.2
+- GCA_001612475.1
+- GCA_001612495.1
+- GCA_001677475.2
+- GCA_001721125.1
+- GCA_001806265.1
+- GCA_001806285.1
+- GCA_001890205.1
+- GCA_001890225.1
+- GCA_001890245.1
+- GCA_001890285.2
+- GCA_001890325.1
+- GCA_001892205.1
+- GCA_002156845.1
+- GCA_002220265.1
+- GCA_002946715.1
+- GCA_003017375.1
+- GCA_003017915.1
+- GCA_003018035.1
+- GCA_003018055.1
 Krugosvet_article: meditsina/kishechnaya-palochka
 short_name: E. coli
 taxon_common_name: 大腸埃希氏菌
 instance_of:
-  - '[[_Standards/WikiData/WD~model_organism,213907]]'
-  - '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~model_organism,213907]]'
+- '[[_Standards/WikiData/WD~taxon,16521]]'
 parent_taxon: '[[_Standards/WikiData/WD~Escherichia,311055]]'
 Gram_staining: '[[_Standards/WikiData/WD~gram_negative_bacteria,632006]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q21024265,21024265]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Escherichia_coli,22721381]]'
-  - '[[_Standards/WikiData/WD~Q22865440,22865440]]'
+- '[[_Standards/WikiData/WD~Template_Escherichia_coli,22721381]]'
+- '[[_Standards/WikiData/WD~Q22865440,22865440]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681522,25681522]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_synonym: '[[_Standards/WikiData/WD~Bacillus_coli_communis,100621690]]'
@@ -144,8 +182,8 @@ taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 ITIS_TSN: 285
 OmegaWiki_Defined_Meaning: 1299610
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/202502%20Escherichia%20coli.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/E.%20coli%20Bacteria%20%287316101966%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/202502%20Escherichia%20coli.svg
 Commons_category: Escherichia coli
 taxon_name: Escherichia coli
 LPSN_URL: https://lpsn.dsmz.de/species/escherichia-coli
@@ -153,11 +191,110 @@ UNSPSC_Code: 51201702
 UNII: 514B9K0L10
 FoodEx2_code: A0CQA
 MeSH_tree_code:
-  - B03.440.450.425.325.300
-  - B03.660.250.150.180.100
+- B03.440.450.425.325.300
+- B03.660.250.150.180.100
 EPPO_Code: ESCHCO
+dv_has_:
+  name_:
+    an: Escherichia coli
+    ar: إشريكية قولونية
+    ary: شيريشية كولي
+    arz: ايشريشيا كولاى
+    ast: Escherichia coli
+    az: Bağırsaq çöpləri
+    be-tarask: кішачны пруток
+    bg: Ешерихия коли
+    bn: এশেরিকিয়া কোলাই
+    bo: རྒྱུ་དཀར་དབྱུག་སྲིན་
+    bs: Esherichia Coli
+    ca: escheríchia coli
+    ceb: Escherichia coli
+    chr: Escherichia coli
+    ckb: ئیشریکیا کۆلای
+    cs: Escherichia coli
+    da: Escherichia coli
+    de: Escherichia coli
+    el: Εσερίχια κόλι
+    en: Escherichia coli
+    eo: Escherichia coli
+    es: Escherichia coli
+    et: Soolekepike
+    eu: Escherichia coli
+    ext: Escherichia coli
+    fa: اشریشیا کلی
+    fi: kolibakteeri
+    fr: Escherichia coli
+    frr: Escherichia coli
+    ga: Escherichia coli
+    gl: Escherichia coli
+    gsw: Escherichia coli
+    he: Escherichia coli
+    hi: एशेरिकिया कोलाए
+    hr: Escherichia coli
+    hsb: Escherichia coli
+    ht: Escherichia coli
+    hu: Escherichia coli
+    hy: Աղիքային ցուպիկ
+    ia: Escherichia coli
+    id: Escherichia coli
+    ie: Escherichia coli
+    ilo: Escherichia coli
+    io: Escherichia coli
+    is: Escherichia coli
+    it: Escherichia coli
+    ja: 大腸菌
+    jv: Escherichia coli
+    ka: ნაწლავის ჩხირი
+    kk: Ішектаяқшасы
+    kn: ಎಸ್ಚರೀಶಿಯ ಕೋಲಿ
+    ko: 대장균
+    ky: Коли-инфекция
+    la: Escherichia coli
+    li: Escherichia coli
+    lt: Escherichia coli
+    lv: Escherichia coli
+    mk: Escherichia coli
+    ml: എഷെറിക്കീയ കോളി ബാക്റ്റീരിയ
+    ms: Escherichia coli
+    mul: Escherichia coli
+    my: အက်ရှားရီကီးယား ကိုလိုင်
+    nan: Tōa-tn̂g-khún
+    nb: Escherichia coli
+    nl: Escherichia coli
+    nn: Escherichia coli
+    oc: Escherichia coli
+    or: ଏସ୍କେରିସିଆ କୋଲାଇ
+    pl: pałeczka okrężnicy
+    ps: اېشېريکيا کولي
+    pt: Escherichia coli
+    pt-br: Escherichia coli
+    ro: Escherichia coli
+    ru: кишечная палочка
+    sco: Escherichia coli
+    sh: Escherichia coli
+    sk: Escherichia coli
+    sl: Escherichia coli
+    sq: Escherichia coli
+    sr: ешерихија коли
+    sv: Escherichia coli
+    sw: Esikerikia koli
+    ta: எசரிக்கியா கோலை
+    th: Escherichia coli
+    tl: Escherichia coli
+    tr: Escherichia coli
+    ug: تاياقچە باكتېرىيە
+    uk: кишкова паличка
+    vi: Escherichia coli
+    vo: Escherichia coli
+    wa: Colibacile
+    war: Escherichia coli
+    wuu: 大肠杆菌
+    yue: 大腸桿菌
+    zh: 大腸桿菌
+    zh-cn: 大肠杆菌
+    zh-hans: 大肠杆菌
+    zh-tw: 大腸埃希氏菌
 ---
-
 # [[Escherichia_coli]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Escherichia_coli,25419|WD~Escherichia_coli,25419]] 

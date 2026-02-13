@@ -1,53 +1,84 @@
 ---
 aliases:
-  - Nathaniel Hawthorne
-  - Nathaniel Hathorne
-  - Nathaniel_Hawthorne
-  - Hawthorne
-  - Hawthorne,Nathaniel
+- Hawthorne
+- Hawthorne,Nathaniel
+- Nataniel Hotorn
+- Natenjels Hotorns
+- Nathaniel Hathorne
+- Nathaniel Hawthorne
+- Nathaniel_Hawthorne
+- Ναθάνιελ Χόθορν
+- Натаніель Готарн
+- Натаніель Готорн
+- Натаніэль Готарн
+- Натанијел Хоторн
+- Натаниел Готорн
+- Натаниел Хоторн
+- Натаниел Ҳоторн
+- Натаниэль Готорн
+- Նաթանիել Հոթորն
+- נתניאל הות'ורן
+- ناتانیل هاثورن
+- ناتانیل هاوثورن
+- ناثانيال هاوثورن
+- نتھانیل ہاتھورن
+- नथनिएल हव्थोर्ने
+- नाथानिएल हवथोर्न
+- न्याथानील ह:थोर्न
+- ন্যাথানিয়েল হথর্ন
+- ਨੈਥੇਨੀਏਲ ਹਥਾਰਨ
+- நாதனீல் ஹாதோர்ன்
+- നഥാനിയേൽ ഹാത്തോൺ
+- แนแธเนียล ฮอว์ธอร์น
+- ဟောသွန်း၊ နသန္နီယယ်
+- ნათანიელ ჰოთორნი
+- ナサニエル・ホーソーン
+- 纳撒尼尔·霍桑
+- 霍桑
+- 너새니얼 호손
 has_id_wikidata: Q69339
 religion_or_worldview: '[[_Standards/WikiData/WD~Unitarianism,106687]]'
 position_held: '[[_Standards/WikiData/WD~ambassador,121998]]'
 genre:
-  - '[[_Standards/WikiData/WD~novella,149537]]'
-  - '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
-  - '[[_Standards/WikiData/WD~short_story,49084]]'
+- '[[_Standards/WikiData/WD~novella,149537]]'
+- '[[_Standards/WikiData/WD~Gothic_literature,19715429]]'
+- '[[_Standards/WikiData/WD~short_story,49084]]'
 occupation:
-  - '[[_Standards/WikiData/WD~diplomat,193391]]'
-  - "[[_Standards/WikiData/WD~children's_writer,4853732]]"
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
-  - '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~diplomat,193391]]'
+- "[[_Standards/WikiData/WD~children's_writer,4853732]]"
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~short_story_writer,15949613]]'
+- '[[_Standards/WikiData/WD~science_fiction_writer,18844224]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 described_by_source:
-  - '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
-  - '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
-  - '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
+- '[[_Standards/WikiData/WD~J._Paul_Getty_Museum,731126]]'
+- '[[_Standards/WikiData/WD~Stedelijk_Museum_Amsterdam,924335]]'
+- '[[_Standards/WikiData/WD~Minneapolis_Institute_of_Art,1700481]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-  - '[[_Standards/WikiData/WD~Bowdoin_College,895401]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Bowdoin_College,895401]]'
 educated_at: '[[_Standards/WikiData/WD~Bowdoin_College,895401]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~The_Scarlet_Letter,907568]]'
-  - '[[_Standards/WikiData/WD~The_House_of_the_Seven_Gables,1141732]]'
-  - '[[_Standards/WikiData/WD~A_Wonder_Book_for_Girls_and_Boys,4660769]]'
-  - '[[_Standards/WikiData/WD~Little_Daffydowndilly,_and_other_stories,55587229]]'
-  - '[[_Standards/WikiData/WD~Tales_of_the_White_Hills,_and_sketches,55594344]]'
-  - "[[_Standards/WikiData/WD~The_whole_history_of_grandfather's_chair,55775838]]"
-  - '[[_Standards/WikiData/WD~Biographical_stories,55834044]]'
-  - '[[_Standards/WikiData/WD~The_Snow_Image_A_Childish_Miracle,59784831]]'
+- '[[_Standards/WikiData/WD~The_Scarlet_Letter,907568]]'
+- '[[_Standards/WikiData/WD~The_House_of_the_Seven_Gables,1141732]]'
+- '[[_Standards/WikiData/WD~A_Wonder_Book_for_Girls_and_Boys,4660769]]'
+- '[[_Standards/WikiData/WD~Little_Daffydowndilly,_and_other_stories,55587229]]'
+- '[[_Standards/WikiData/WD~Tales_of_the_White_Hills,_and_sketches,55594344]]'
+- "[[_Standards/WikiData/WD~The_whole_history_of_grandfather's_chair,55775838]]"
+- '[[_Standards/WikiData/WD~Biographical_stories,55834044]]'
+- '[[_Standards/WikiData/WD~The_Snow_Image_A_Childish_Miracle,59784831]]'
 has_written_for: '[[_Standards/WikiData/WD~The_Atlantic,1542536]]'
 is_member_of: '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
 place_of_death: '[[_Standards/WikiData/WD~Plymouth,2076221]]'
@@ -55,14 +86,14 @@ place_of_burial: '[[_Standards/WikiData/WD~Sleepy_Hollow_Cemetery,2972565]]'
 spouse: '[[_Standards/WikiData/WD~Sophia_Hawthorne,3490819]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child:
-  - '[[_Standards/WikiData/WD~Mother_Mary_Alphonsa,6917390]]'
-  - '[[_Standards/WikiData/WD~Julian_Hawthorne,9016429]]'
+- '[[_Standards/WikiData/WD~Mother_Mary_Alphonsa,6917390]]'
+- '[[_Standards/WikiData/WD~Julian_Hawthorne,9016429]]'
 family_name: '[[_Standards/WikiData/WD~Hawthorne,16870608]]'
 given_name: '[[_Standards/WikiData/WD~Nathaniel,18978396]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Elizabeth_Hawthorne,88384077]]'
-  - '[[_Standards/WikiData/WD~Maria_Louisa_Hawthorne,131343431]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Hawthorne,88384077]]'
+- '[[_Standards/WikiData/WD~Maria_Louisa_Hawthorne,131343431]]'
 father: '[[_Standards/WikiData/WD~Nathaniel_Hathorne,90042371]]'
 mother: '[[_Standards/WikiData/WD~Elizabeth_Clarke_Hathorne,103556804]]'
 date_of_death: 1864-05-19T00:00:00Z
@@ -93,8 +124,109 @@ Regensburg_Classification: HT 5400
 Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/GOTORN_NATANIEL.html
 pseudonym: Monsieur de l’Aubépine
 Colon_Classification: O111,3M04
+dv_has_:
+  name_:
+    af: Nathaniel Hawthorne
+    an: Nathaniel Hawthorne
+    ar: ناثانيال هاوثورن
+    arz: ناثانيال هاوثورن
+    ast: Nathaniel Hawthorne
+    avk: Nathaniel Hawthorne
+    az: Nataniel Hotorn
+    azb: ناتانیل هاوثورن
+    ba: Натаниэль Готорн
+    be: Натаніэль Готарн
+    be-tarask: Натаніель Готарн
+    bg: Натаниел Хоторн
+    bn: ন্যাথানিয়েল হথর্ন
+    br: Nathaniel Hawthorne
+    bs: Nathaniel Hawthorne
+    ca: Nathaniel Hawthorne
+    ceb: Nathaniel Hawthorne
+    cs: Nathaniel Hawthorne
+    cy: Nathaniel Hawthorne
+    da: Nathaniel Hawthorne
+    de: Nathaniel Hawthorne
+    de-ch: Nathaniel Hawthorne
+    el: Ναθάνιελ Χόθορν
+    en: Nathaniel Hawthorne
+    en-ca: Nathaniel Hawthorne
+    en-gb: Nathaniel Hawthorne
+    eo: Nathaniel Hawthorne
+    es: Nathaniel Hawthorne
+    et: Nathaniel Hawthorne
+    eu: Nathaniel Hawthorne
+    fa: ناتانیل هاثورن
+    fi: Nathaniel Hawthorne
+    fr: Nathaniel Hawthorne
+    fy: Nathaniel Hawthorne
+    ga: Nathaniel Hawthorne
+    gl: Nathaniel Hawthorne
+    gsw: Nathaniel Hawthorne
+    he: נתניאל הות'ורן
+    hi: नथनिएल हव्थोर्ने
+    hr: Nathaniel Hawthorne
+    hu: Nathaniel Hawthorne
+    hy: Նաթանիել Հոթորն
+    id: Nathaniel Hawthorne
+    io: Nathaniel Hawthorne
+    is: Nathaniel Hawthorne
+    it: Nathaniel Hawthorne
+    ja: ナサニエル・ホーソーン
+    jv: Nathaniel Hawthorne
+    ka: ნათანიელ ჰოთორნი
+    kk: Натаниел Готорн
+    ko: 너새니얼 호손
+    la: Nathaniel Hawthorne
+    lb: Nathaniel Hawthorne
+    lmo: Nathaniel Hawthorne
+    lt: Nathaniel Hawthorne
+    lv: Natenjels Hotorns
+    mg: Nathaniel Hawthorne
+    mk: Натаниел Хоторн
+    ml: നഥാനിയേൽ ഹാത്തോൺ
+    mul: Nathaniel Hawthorne
+    my: ဟောသွန်း၊ နသန္နီယယ်
+    nan: Nathaniel Hawthorne
+    nb: Nathaniel Hawthorne
+    nds: Nathaniel Hawthorne
+    nds-nl: Nathaniel Hawthorne
+    ne: नाथानिएल हवथोर्न
+    new: न्याथानील ह:थोर्न
+    nl: Nathaniel Hawthorne
+    nn: Nathaniel Hawthorne
+    oc: Nathaniel Hawthorne
+    pa: ਨੈਥੇਨੀਏਲ ਹਥਾਰਨ
+    pam: Nathaniel Hawthorne
+    pap: Nathaniel Hawthorne
+    pl: Nathaniel Hawthorne
+    pms: Nathaniel Hawthorne
+    pnb: نتھانیل ہاتھورن
+    pt: Nathaniel Hawthorne
+    pt-br: Nathaniel Hawthorne
+    ro: Nathaniel Hawthorne
+    ru: Натаниэль Готорн
+    sco: Nathaniel Hawthorne
+    sh: Nathaniel Hawthorne
+    sk: Nathaniel Hawthorne
+    sl: Nathaniel Hawthorne
+    sq: Nathaniel Hawthorne
+    sr: Натанијел Хоторн
+    sv: Nathaniel Hawthorne
+    ta: நாதனீல் ஹாதோர்ன்
+    tg: Натаниел Ҳоторн
+    th: แนแธเนียล ฮอว์ธอร์น
+    tr: Nathaniel Hawthorne
+    uk: Натаніель Готорн
+    vec: Nathaniel Hawthorne
+    vi: Nathaniel Hawthorne
+    wa: Nathaniel Hawthorne
+    war: Nathaniel Hawthorne
+    wuu: 纳撒尼尔·霍桑
+    xmf: ნათანიელ ჰოთორნი
+    yue: 霍桑
+    zh: 纳撒尼尔·霍桑
 ---
-
 # [[Hawthorne,Nathaniel]] 
 
 #has_/created_  :: [[Hawthorne,Nathaniel/Scarlet_Letter|Scarlet_Letter]]  

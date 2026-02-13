@@ -1,35 +1,192 @@
 ---
 aliases:
+- haca
+- hochei
+- hoci
+- Hocig
+- hockey
+- hockey-familien
+- Hockeysport
+- hokej
+- hokejs
+- hokeo
+- hokey
+- hoki
+- Hokkej
+- Hokkey
+- Hokkeý
+- hokkie
+- hoquei
+- Hóckey
+- Hóquei
+- Jiäkur'oi
+- Kau-kiû
+- khúc côn cầu
+- Oki
+- riedulys/ritulys
+- takurt
+- Xokkej
+- Xokkey
+- Χόκεϊ
+- хакей
+- Хокеј
+- хокей
+- хоккей
+- հոկեյ
+- ճոկանախաղ
+- הוקי
+- الهوكي
+- هاکی
+- هوكى
+- هوکي
+- ھۆکی
+- ہاکی
+- हाकीक्रीडा
+- हॉकी
+- হকি
+- হকী
+- ਹਾਕੀ
+- ହକି
+- வளைதடிப் பந்தாட்டம்
+- హాకీ
+- ಹಾಕಿ
+- හොකී
+- ฮอกกี้
+- ჰოკეი
+- ホッケー
+- 曲棍球
+- 하키
 has_id_wikidata: Q1622659
 has_part_s_:
-  - "[[_Standards/WikiData/WD~bandy,183018]]"
-  - "[[_Standards/WikiData/WD~floorball,206763]]"
-  - "[[_Standards/WikiData/WD~inline_hockey,946171]]"
-  - "[[_Standards/WikiData/WD~para_ice_hockey,963312]]"
-  - "[[_Standards/WikiData/WD~indoor_hockey,974015]]"
-  - "[[_Standards/WikiData/WD~floor_hockey,1058877]]"
-  - "[[_Standards/WikiData/WD~street_hockey,1551265]]"
-  - "[[_Standards/WikiData/WD~roller_hockey_(quad),1748406]]"
-  - "[[_Standards/WikiData/WD~minkey,6867823]]"
-  - "[[_Standards/WikiData/WD~field_hockey,1455]]"
-  - "[[_Standards/WikiData/WD~ice_hockey,41466]]"
-subclass_of: "[[_Standards/WikiData/WD~team_sport,216048]]"
+- '[[_Standards/WikiData/WD~bandy,183018]]'
+- '[[_Standards/WikiData/WD~floorball,206763]]'
+- '[[_Standards/WikiData/WD~inline_hockey,946171]]'
+- '[[_Standards/WikiData/WD~para_ice_hockey,963312]]'
+- '[[_Standards/WikiData/WD~indoor_hockey,974015]]'
+- '[[_Standards/WikiData/WD~floor_hockey,1058877]]'
+- '[[_Standards/WikiData/WD~street_hockey,1551265]]'
+- '[[_Standards/WikiData/WD~roller_hockey_(quad),1748406]]'
+- '[[_Standards/WikiData/WD~minkey,6867823]]'
+- '[[_Standards/WikiData/WD~field_hockey,1455]]'
+- '[[_Standards/WikiData/WD~ice_hockey,41466]]'
+subclass_of: '[[_Standards/WikiData/WD~team_sport,216048]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 maximum_number_of_players: 12
 subreddit: hockey
 Commons_category: Hockey
-OmegaWiki_Defined_Meaning: "505901"
-U_S_National_Archives_Identifier: "10646681"
+OmegaWiki_Defined_Meaning: 505901
+U_S_National_Archives_Identifier: 10646681
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Floorball%20game.jpg
 Iconclass_notation: 43C4132
 domain_name: chl.ca
 MeSH_tree_code: I03.450.642.845.475
 Archive_of_Our_Own_tag: Women's Hockey RPF
+dv_has_:
+  name_:
+    af: hokkie
+    ang: Hocig
+    anp: हॉकी
+    ar: الهوكي
+    arz: هوكى
+    as: হকী
+    ast: hoquei
+    az: Hokkey
+    ba: Хоккей
+    bcl: Hockey
+    be: хакей
+    be-tarask: хакей
+    bn: হকি
+    bs: Hokej
+    ca: hoquei
+    ckb: ھۆکی
+    cs: hokej
+    cv: Хоккей
+    cy: hoci
+    da: hockey-familien
+    de: Hockeysport
+    dtp: Hoki
+    el: Χόκεϊ
+    en: hockey
+    en-gb: hockey
+    en-us: hockey
+    eo: hokeo
+    es: hockey
+    et: Hoki
+    eu: Hockey
+    fa: هاکی
+    fi: hockey
+    fr: hockey
+    ga: haca
+    gl: Hóckey
+    ha: hockey
+    he: הוקי
+    hi: हॉकी
+    hr: hokej
+    ht: Oki
+    hy: հոկեյ
+    hyw: ճոկանախաղ
+    id: Hoki
+    it: hockey
+    ja: ホッケー
+    ka: ჰოკეი
+    kaa: Hokkey
+    kk: Хоккей
+    kn: ಹಾಕಿ
+    ko: 하키
+    ky: Хоккей
+    lt: riedulys/ritulys
+    lv: hokejs
+    mhr: Xokkej
+    mk: Хокеј
+    mn: Хоккей
+    ms: hoki
+    ms-arab: هوکي
+    nan: Kau-kiû
+    nb: hockey
+    nl: hockey
+    olo: Jiäkur'oi
+    or: ହକି
+    pa: ਹਾਕੀ
+    pl: hokej
+    pnb: ہاکی
+    pt: Hóquei
+    ro: hochei
+    ru: хоккей
+    sa: हाकीक्रीडा
+    scn: hockey
+    sco: hockey
+    sh: Hokej
+    shy-latn: takurt
+    si: හොකී
+    sk: hokej
+    sl: hokej
+    sq: Hokej
+    sr: хокеј
+    st: Hokkey
+    sv: hockey
+    sw: Hoki
+    ta: வளைதடிப் பந்தாட்டம்
+    te: హాకీ
+    tg: Хоккей
+    th: ฮอกกี้
+    tk: Hokkeý
+    tl: Hockey
+    tly: Hokkej
+    tr: hokey
+    tt: Хоккей
+    uk: хокей
+    ur: ہاکی
+    uz: Xokkey
+    vi: khúc côn cầu
+    wuu: 曲棍球
+    xmf: ჰოკეი
+    yue: 曲棍球
+    zh: 曲棍球
+    zh-hant: 曲棍球
 ---
-
 # [[Hockey]] 
 
 #is_/same_as :: [[WikiData/WD~Hockey,1622659|WD~Hockey,1622659]] 

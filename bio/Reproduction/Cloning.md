@@ -1,51 +1,222 @@
 ---
 aliases:
-  - Klonen
-  - Klon
-  - Clone
-  - Cloning
+- clonació
+- clonación
+- clonage
+- clonagem
+- clonare
+- Clonassion
+- clonazione
+- clonaçion
+- Clone
+- Cloning
+- clonizatio
+- clón
+- dubarekirin
+- dòng hóa
+- Klon
+- klonado
+- klonasyon
+- klonavimas
+- klonazio
+- Klonen
+- kloni
+- klonimi
+- kloning
+- kloniranje
+- klonlama
+- klonlaşdırma
+- klonovanie
+- klonování
+- klonowanie
+- klonēšana
+- kloonaus
+- kloonimine
+- klòn
+- klónozás
+- mivyfu'i
+- pengklonaan
+- pengklonan
+- pūrua tōkai-kore
+- κλωνοποίηση
+- клон
+- клонбарорӣ
+- клонирање
+- клониране
+- клонирование
+- клонлау
+- клонлаштырыу
+- клонування
+- клянаваньне
+- կլոնավորում
+- שיבוט
+- استنساخ
+- تاگسازی
+- تنسیل
+- كىلون تېخنىكىسى
+- ڤڠکلونن
+- کلونېنګ
+- क्लोनिङ
+- प्रतिरूपण
+- অনুকৃতি উৎপাদন
+- ক্ল’নিং
+- படியெடுப்பு
+- క్లోనింగ్
+- ಅಬೀಜ ಸಂತಾನೋತ್ಪತ್ತಿ
+- ക്ലോണിംഗ്
+- การโคลน
+- ပုံတူ မျိုးပွားခြင်း
+- ပုံတူမျိုးပွားခြင်း
+- ပွုံႏဗွိုန်မျိုꩻပွာꩻ
+- კლონირება
+- クローニング
+- 克隆
+- 基因複製
+- 複製
+- 選殖
+- 복제
 has_id_wikidata: Q120877
 Library_of_Congress_Classification: QH442.2
-Dewey_Decimal_Classification: "571.89"
-model_item: "[[_Standards/WikiData/WD~Dolly_the_Sheep,171433]]"
+Dewey_Decimal_Classification: 571.89
+model_item: '[[_Standards/WikiData/WD~Dolly_the_Sheep,171433]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~asexual_reproduction,173432]]"
-  - "[[_Standards/WikiData/WD~kindred,1313923]]"
-  - "[[_Standards/WikiData/WD~artificial_reproduction,4115658]]"
-different_from: "[[_Standards/WikiData/WD~Cloning,531838]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-instance_of: "[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]"
-OmegaWiki_Defined_Meaning: "618"
+- '[[_Standards/WikiData/WD~asexual_reproduction,173432]]'
+- '[[_Standards/WikiData/WD~kindred,1313923]]'
+- '[[_Standards/WikiData/WD~artificial_reproduction,4115658]]'
+different_from: '[[_Standards/WikiData/WD~Cloning,531838]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+OmegaWiki_Defined_Meaning: 618
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clonagem%20portugues.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Clonazione.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20deutsch.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20french.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20NL.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20Diagram%20PL.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20ukr.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20clone.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20clone%20hi.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Experimento-gurdon.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Pyrenean%20ibex%20Cloning-ru.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Clonagem%20portugues.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Clonazione.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloning.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20deutsch.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20french.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20NL.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20Diagram%20PL.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloning%20diagram%20ukr.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20clone.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Dolly%20clone%20hi.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Experimento-gurdon.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Pyrenean%20ibex%20Cloning-ru.jpg
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Cloned%20mice%20with%20different%20DNA%20methylation.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Human%20cell-line%20colony%20being%20cloned%20in%20vitro%20through%20use%20of%20cloning%20rings.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Salvia-mothers-and-daughters.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Cloned%20mice%20with%20different%20DNA%20methylation.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Human%20cell-line%20colony%20being%20cloned%20in%20vitro%20through%20use%20of%20cloning%20rings.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Salvia-mothers-and-daughters.JPG
 equivalent_class: http://linkeddata.ge.imati.cnr.it:2020/resource/EARTh/94760
 Krugosvet_article_archived_: biologiya/klonirovanie
 UMLS_CUI: C0009015
 PhilPapers_topic: cloning
 Commons_category: Cloning
 DPLA_subject_term:
-  - Cloning
-  - Cloning, Organism
+- Cloning
+- Cloning, Organism
 MeSH_tree_code:
-  - E05.393.240
-  - E05.820.180
+- E05.393.240
+- E05.820.180
+dv_has_:
+  name_:
+    af: kloning
+    ar: استنساخ
+    as: ক্ল’নিং
+    ast: clonación
+    az: klonlaşdırma
+    ba: клонлаштырыу
+    be-tarask: клянаваньне
+    bg: клониране
+    blk: ပွုံႏဗွိုန်မျိုꩻပွာꩻ
+    bn: অনুকৃতি উৎপাদন
+    bs: kloniranje
+    ca: clonació
+    cs: klonování
+    da: kloning
+    de: Klonen
+    el: κλωνοποίηση
+    en: cloning
+    en-us: cloning
+    eo: klonado
+    es: clonación
+    et: kloonimine
+    eu: klonazio
+    fa: تاگسازی
+    fi: kloonaus
+    fr: clonage
+    fy: klonen
+    ga: clón
+    gl: clonación
+    he: שיבוט
+    hi: प्रतिरूपण
+    hr: kloniranje
+    ht: klòn
+    hu: klónozás
+    hy: կլոնավորում
+    ia: clonage
+    id: pengklonaan
+    it: clonazione
+    ja: クローニング
+    jbo: mivyfu'i
+    ka: კლონირება
+    kn: ಅಬೀಜ ಸಂತಾನೋತ್ಪತ್ತಿ
+    ko: 복제
+    ku: dubarekirin
+    ky: клон
+    la: clonizatio
+    lfn: clone
+    lij: clonaçion
+    lt: klonavimas
+    lv: klonēšana
+    mi: pūrua tōkai-kore
+    mk: клонирање
+    ml: ക്ലോണിംഗ്
+    ms: pengklonan
+    ms-arab: ڤڠکلونن
+    my: ပုံတူမျိုးပွားခြင်း
+    nan: cloning
+    nb: kloning
+    ne: क्लोनिङ
+    nl: klonen
+    nn: kloning
+    pl: klonowanie
+    pms: Clonassion
+    ps: کلونېنګ
+    pt: clonagem
+    rki: ပုံတူ မျိုးပွားခြင်း
+    ro: clonare
+    ru: клонирование
+    sh: kloniranje
+    sk: klonovanie
+    sl: kloniranje
+    sq: klonimi
+    sr: клонирање
+    sr-ec: клонирање
+    sr-el: kloniranje
+    su: kloning
+    sv: kloning
+    sw: kloni
+    ta: படியெடுப்பு
+    te: క్లోనింగ్
+    tg: клонбарорӣ
+    th: การโคลน
+    tl: cloning
+    tr: klonlama
+    tt: клонлау
+    tt-cyrl: клонлау
+    ug: كىلون تېخنىكىسى
+    uk: клонування
+    ur: تنسیل
+    vi: dòng hóa
+    war: klonasyon
+    wuu: 克隆
+    yue: 基因複製
+    zh: 克隆
+    zh-cn: 克隆
+    zh-hans: 克隆
+    zh-hant: 複製
+    zh-hk: 選殖
+    zh-sg: 克隆
+    zh-tw: 選殖
 ---
-
 # [[Cloning]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cloning,120877|WD~Cloning,120877]]  

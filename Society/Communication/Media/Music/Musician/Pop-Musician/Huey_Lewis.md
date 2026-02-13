@@ -1,4 +1,66 @@
-
+---
+has_id_wikidata: Q504458
+dv_has_:
+  name_:
+    ar: هيوي لويس
+    arz: هيوى لويس
+    ast: Huey Lewis
+    azb: هوی لویس
+    be-tarask: Г’юі Льюіс
+    ca: Huey Lewis
+    ckb: ھوی لویس
+    cs: Huey Lewis
+    da: Huey Lewis
+    de: Huey Lewis
+    el: Χιούι Λιούις
+    en: Huey Lewis
+    es: Huey Lewis
+    et: Huey Lewis
+    eu: Huey Lewis
+    fa: هوی لویس
+    fi: Huey Lewis
+    fr: Huey Lewis
+    ga: Huey Lewis
+    he: יואי לואיס
+    hu: Huey Lewis
+    hy: Հյուի Լյուիս
+    io: Huey Lewis
+    it: Huey Lewis
+    ja: ヒューイ・ルイス
+    ko: 휴이 루이스
+    mk: Хјуи Луис
+    mul: Huey Lewis
+    nb: Huey Lewis
+    nl: Huey Lewis
+    nn: Huey Lewis
+    pap: Huey Lewis
+    pl: Huey Lewis
+    pt: Huey Lewis
+    pt-br: Huey Lewis
+    ru: Хьюи Льюис
+    sk: Huey Lewis
+    sl: Huey Lewis
+    sq: Huey Lewis
+    sv: Huey Lewis
+    tr: Huey Lewis
+    yo: Huey Lewis
+    zh: 休易·路易斯
+aliases:
+- Huey Lewis
+- Χιούι Λιούις
+- Г’юі Льюіс
+- Хјуи Луис
+- Хьюи Льюис
+- Հյուի Լյուիս
+- יואי לואיס
+- هوی لویس
+- هيوى لويس
+- هيوي لويس
+- ھوی لویس
+- ヒューイ・ルイス
+- 休易·路易斯
+- 휴이 루이스
+---
 ## #has_/text_of_/abstract 
 
 > Hugh Anthony Cregg III (born July 5, 1950), known professionally as **Huey Lewis**, 

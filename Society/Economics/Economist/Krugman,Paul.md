@@ -1,112 +1,143 @@
 ---
 aliases:
-  - Paul_Krugman
-  - Paul Robin Krugman
-  - Paul Krugman
-  - Krugman
-  - Krugman,Paul
+- Krugman
+- Krugman,Paul
+- Paul Krugman
+- Paul Robin Krugman
+- Paulus Krugman
+- Paul_Krugman
+- Pol Krugman
+- Pol Kruqman
+- Pols Krugmans
+- Πωλ Κρούγκμαν
+- Пол Кругман
+- Пол Круґман
+- Пол Крюгман
+- Փոլ Քրուգման
+- פול קרוגמן
+- بول كروجمان
+- بول كروغمان
+- پال کرگمان
+- پاول کرگمین
+- پاۋىل كرۇگمەنن
+- پل کروقمن
+- پل کروگمن
+- पॉल क्रुगमन
+- पॉल क्रूगमैन
+- পল ক্রুগম্যান
+- ਪਾਲ ਕਰੂਗਮੈਨ
+- பால் கிரக்மேன்
+- పాల్ క్రుగ్మాన్
+- პოლ კრუგმანი
+- ポール・クルーグマン
+- 保罗·克鲁格曼
+- 保羅·克魯明
+- 保羅·克魯曼
+- 保羅·克魯格曼
+- 克魯明
+- 폴 크루그먼
 has_id_wikidata: Q131112
 influenced_by:
-  - '[[_Standards/WikiData/WD~Paul_Samuelson,102454]]'
-  - '[[_Standards/WikiData/WD~John_Richard_Hicks,184862]]'
-  - '[[_Standards/WikiData/WD~James_Tobin,211776]]'
-  - '[[_Standards/WikiData/WD~Arthur_Cecil_Pigou,313034]]'
-  - '[[_Standards/WikiData/WD~Rudi_Dornbusch,653517]]'
-  - '[[_Standards/WikiData/WD~Hyman_Minsky,704076]]'
-  - '[[_Standards/WikiData/WD~John_Maynard_Keynes,9317]]'
-  - '[[_Standards/WikiData/WD~Joseph_E._Stiglitz,18430]]'
-  - '[[_Standards/WikiData/WD~Isaac_Asimov,34981]]'
-  - '[[_Standards/WikiData/WD~John_Stuart_Mill,50020]]'
+- '[[_Standards/WikiData/WD~Paul_Samuelson,102454]]'
+- '[[_Standards/WikiData/WD~John_Richard_Hicks,184862]]'
+- '[[_Standards/WikiData/WD~James_Tobin,211776]]'
+- '[[_Standards/WikiData/WD~Arthur_Cecil_Pigou,313034]]'
+- '[[_Standards/WikiData/WD~Rudi_Dornbusch,653517]]'
+- '[[_Standards/WikiData/WD~Hyman_Minsky,704076]]'
+- '[[_Standards/WikiData/WD~John_Maynard_Keynes,9317]]'
+- '[[_Standards/WikiData/WD~Joseph_E._Stiglitz,18430]]'
+- '[[_Standards/WikiData/WD~Isaac_Asimov,34981]]'
+- '[[_Standards/WikiData/WD~John_Stuart_Mill,50020]]'
 occupation:
-  - '[[_Standards/WikiData/WD~professor,121594]]'
-  - '[[_Standards/WikiData/WD~economist,188094]]'
-  - '[[_Standards/WikiData/WD~columnist,1086863]]'
-  - '[[_Standards/WikiData/WD~pundit,1642960]]'
-  - '[[_Standards/WikiData/WD~researcher,1650915]]'
-  - '[[_Standards/WikiData/WD~journalist,1930187]]'
-  - '[[_Standards/WikiData/WD~blogger,8246794]]'
-  - '[[_Standards/WikiData/WD~essayist,11774202]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~professor,121594]]'
+- '[[_Standards/WikiData/WD~economist,188094]]'
+- '[[_Standards/WikiData/WD~columnist,1086863]]'
+- '[[_Standards/WikiData/WD~pundit,1642960]]'
+- '[[_Standards/WikiData/WD~researcher,1650915]]'
+- '[[_Standards/WikiData/WD~journalist,1930187]]'
+- '[[_Standards/WikiData/WD~blogger,8246794]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
 employer:
-  - '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
-  - '[[_Standards/WikiData/WD~Group_of_Thirty,282690]]'
-  - '[[_Standards/WikiData/WD~Banco_de_Portugal,378372]]'
-  - '[[_Standards/WikiData/WD~National_Bureau_of_Economic_Research,475424]]'
-  - '[[_Standards/WikiData/WD~CUNY_Graduate_School_and_University_Center,1024543]]'
-  - '[[_Standards/WikiData/WD~Council_of_Economic_Advisers,1137023]]'
-  - '[[_Standards/WikiData/WD~Princeton_University,21578]]'
-  - '[[_Standards/WikiData/WD~Stanford_University,41506]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
-  - '[[_Standards/WikiData/WD~Yale_University,49112]]'
+- '[[_Standards/WikiData/WD~London_School_of_Economics_and_Political_Science,174570]]'
+- '[[_Standards/WikiData/WD~Group_of_Thirty,282690]]'
+- '[[_Standards/WikiData/WD~Banco_de_Portugal,378372]]'
+- '[[_Standards/WikiData/WD~National_Bureau_of_Economic_Research,475424]]'
+- '[[_Standards/WikiData/WD~CUNY_Graduate_School_and_University_Center,1024543]]'
+- '[[_Standards/WikiData/WD~Council_of_Economic_Advisers,1137023]]'
+- '[[_Standards/WikiData/WD~Princeton_University,21578]]'
+- '[[_Standards/WikiData/WD~Stanford_University,41506]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Yale_University,49112]]'
 member_of:
-  - '[[_Standards/WikiData/WD~Group_of_Thirty,282690]]'
-  - '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
-  - '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
+- '[[_Standards/WikiData/WD~Group_of_Thirty,282690]]'
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Sciences,463303]]'
+- '[[_Standards/WikiData/WD~Econometric_Society,1282089]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Adam_Smith_Award,348422]]'
-  - '[[_Standards/WikiData/WD~H._C._Recktenwald_Prize_in_Economics,1629078]]'
-  - '[[_Standards/WikiData/WD~Global_Economy_Prize,2558735]]'
-  - '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Social_Sciences,3323371]]'
-  - '[[_Standards/WikiData/WD~James_Joyce_Awards,3806623]]'
-  - '[[_Standards/WikiData/WD~James_Aronson_Award,6128862]]'
-  - '[[_Standards/WikiData/WD~Clarivate_Citation_Laureates,7795894]]'
-  - '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_of_Speech,20204984]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
-  - '[[_Standards/WikiData/WD~Honorary_doctorate_from_University_of_Toronto,57082824]]'
-  - '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
-  - '[[_Standards/WikiData/WD~Gerald_Loeb_Award_winners_for_Columns,_Commentary,_and_Editorials,65119509]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_from_the_NOVA_University_Lisbon,69626819]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Lisbon,84421720]]'
+- '[[_Standards/WikiData/WD~Adam_Smith_Award,348422]]'
+- '[[_Standards/WikiData/WD~H._C._Recktenwald_Prize_in_Economics,1629078]]'
+- '[[_Standards/WikiData/WD~Global_Economy_Prize,2558735]]'
+- '[[_Standards/WikiData/WD~Princess_of_Asturias_Award_for_Social_Sciences,3323371]]'
+- '[[_Standards/WikiData/WD~James_Joyce_Awards,3806623]]'
+- '[[_Standards/WikiData/WD~James_Aronson_Award,6128862]]'
+- '[[_Standards/WikiData/WD~Clarivate_Citation_Laureates,7795894]]'
+- '[[_Standards/WikiData/WD~Four_Freedoms_Award_Freedom_of_Speech,20204984]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Free_University_of_Berlin,32331664]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_University_of_Oxford,42043175]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_American_Academy_of_Arts_and_Sciences,52382875]]'
+- '[[_Standards/WikiData/WD~Honorary_doctorate_from_University_of_Toronto,57082824]]'
+- '[[_Standards/WikiData/WD~Fellow_of_the_Econometric_Society,59766840]]'
+- '[[_Standards/WikiData/WD~Gerald_Loeb_Award_winners_for_Columns,_Commentary,_and_Editorials,65119509]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_from_the_NOVA_University_Lisbon,69626819]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Lisbon,84421720]]'
 doctoral_advisor: '[[_Standards/WikiData/WD~Rudi_Dornbusch,653517]]'
 academic_degree: '[[_Standards/WikiData/WD~doctorate,849697]]'
 given_name:
-  - '[[_Standards/WikiData/WD~Robin,1158139]]'
-  - '[[_Standards/WikiData/WD~Paul,4925623]]'
+- '[[_Standards/WikiData/WD~Robin,1158139]]'
+- '[[_Standards/WikiData/WD~Paul,4925623]]'
 family_name: '[[_Standards/WikiData/WD~Krugman,1670163]]'
 nominated_for: '[[_Standards/WikiData/WD~Pulitzer_Prize_for_Commentary,2117817]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Grace_Hopper_College,5019758]]'
-  - '[[_Standards/WikiData/WD~John_F._Kennedy_High_School,6232343]]'
-  - '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
+- '[[_Standards/WikiData/WD~Grace_Hopper_College,5019758]]'
+- '[[_Standards/WikiData/WD~John_F._Kennedy_High_School,6232343]]'
+- '[[_Standards/WikiData/WD~Massachusetts_Institute_of_Technology,49108]]'
 doctoral_student:
-  - '[[_Standards/WikiData/WD~Elise_Brezis,5361648]]'
-  - '[[_Standards/WikiData/WD~Lant_Pritchett,6487514]]'
-  - '[[_Standards/WikiData/WD~Matthew_J._Slaughter,6790724]]'
-  - '[[_Standards/WikiData/WD~Richard_Baldwin,7323929]]'
-  - '[[_Standards/WikiData/WD~Philip_Lowe,27922677]]'
-  - '[[_Standards/WikiData/WD~Keith_Head,30069173]]'
-  - '[[_Standards/WikiData/WD~Eiichi_Tomiura,30084405]]'
-  - '[[_Standards/WikiData/WD~Michael_Kende,87488018]]'
-  - '[[_Standards/WikiData/WD~Donogh_Colm_McDonald,102547190]]'
-  - '[[_Standards/WikiData/WD~Luca_Barbone,102547215]]'
-  - '[[_Standards/WikiData/WD~Charles_Bram_Cadsby,102547236]]'
-  - '[[_Standards/WikiData/WD~Won_Am_Park,102547259]]'
-  - '[[_Standards/WikiData/WD~Israel_Gutierrez_Guerrero,102547281]]'
-  - '[[_Standards/WikiData/WD~Salvador_Valdes_Prieto,102547304]]'
-  - '[[_Standards/WikiData/WD~Harry_Leon_Foster,102547330]]'
-  - '[[_Standards/WikiData/WD~Edward_Hudson_Gardner,102547348]]'
-  - '[[_Standards/WikiData/WD~Tahir_R._Andrabi,102547360]]'
-  - '[[_Standards/WikiData/WD~Robert_Brandon_Kahn,102547378]]'
-  - '[[_Standards/WikiData/WD~Vincent_Rodolphe_Koen,102547403]]'
-  - '[[_Standards/WikiData/WD~Sadao_Nagaoka,102547415]]'
-  - '[[_Standards/WikiData/WD~Krishnamurthy_Narayanan,102547458]]'
-  - '[[_Standards/WikiData/WD~Stephen_Yung_li_Jen,102547477]]'
-  - '[[_Standards/WikiData/WD~Michael_J._Chapman,102547541]]'
-  - '[[_Standards/WikiData/WD~Raul_Alejandro_Livas_Elizondo,102547574]]'
-  - '[[_Standards/WikiData/WD~Gustavo_Enrique_Cañonero,102547604]]'
-  - '[[_Standards/WikiData/WD~Ludwig_Boris_Chincarini,102547642]]'
-  - '[[_Standards/WikiData/WD~Zhichao_Yuan,102547665]]'
-  - '[[_Standards/WikiData/WD~Mikhail_Mikhailovich_Klimenko,103018142]]'
-  - '[[_Standards/WikiData/WD~Kai_Lilaka_Chan,103038842]]'
+- '[[_Standards/WikiData/WD~Elise_Brezis,5361648]]'
+- '[[_Standards/WikiData/WD~Lant_Pritchett,6487514]]'
+- '[[_Standards/WikiData/WD~Matthew_J._Slaughter,6790724]]'
+- '[[_Standards/WikiData/WD~Richard_Baldwin,7323929]]'
+- '[[_Standards/WikiData/WD~Philip_Lowe,27922677]]'
+- '[[_Standards/WikiData/WD~Keith_Head,30069173]]'
+- '[[_Standards/WikiData/WD~Eiichi_Tomiura,30084405]]'
+- '[[_Standards/WikiData/WD~Michael_Kende,87488018]]'
+- '[[_Standards/WikiData/WD~Donogh_Colm_McDonald,102547190]]'
+- '[[_Standards/WikiData/WD~Luca_Barbone,102547215]]'
+- '[[_Standards/WikiData/WD~Charles_Bram_Cadsby,102547236]]'
+- '[[_Standards/WikiData/WD~Won_Am_Park,102547259]]'
+- '[[_Standards/WikiData/WD~Israel_Gutierrez_Guerrero,102547281]]'
+- '[[_Standards/WikiData/WD~Salvador_Valdes_Prieto,102547304]]'
+- '[[_Standards/WikiData/WD~Harry_Leon_Foster,102547330]]'
+- '[[_Standards/WikiData/WD~Edward_Hudson_Gardner,102547348]]'
+- '[[_Standards/WikiData/WD~Tahir_R._Andrabi,102547360]]'
+- '[[_Standards/WikiData/WD~Robert_Brandon_Kahn,102547378]]'
+- '[[_Standards/WikiData/WD~Vincent_Rodolphe_Koen,102547403]]'
+- '[[_Standards/WikiData/WD~Sadao_Nagaoka,102547415]]'
+- '[[_Standards/WikiData/WD~Krishnamurthy_Narayanan,102547458]]'
+- '[[_Standards/WikiData/WD~Stephen_Yung_li_Jen,102547477]]'
+- '[[_Standards/WikiData/WD~Michael_J._Chapman,102547541]]'
+- '[[_Standards/WikiData/WD~Raul_Alejandro_Livas_Elizondo,102547574]]'
+- '[[_Standards/WikiData/WD~Gustavo_Enrique_Cañonero,102547604]]'
+- '[[_Standards/WikiData/WD~Ludwig_Boris_Chincarini,102547642]]'
+- '[[_Standards/WikiData/WD~Zhichao_Yuan,102547665]]'
+- '[[_Standards/WikiData/WD~Mikhail_Mikhailovich_Klimenko,103018142]]'
+- '[[_Standards/WikiData/WD~Kai_Lilaka_Chan,103038842]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 spouse: '[[_Standards/WikiData/WD~Robin_Wells,7352865]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~international_economic_relations,28472279]]'
-  - '[[_Standards/WikiData/WD~macroeconomics,39680]]'
-  - '[[_Standards/WikiData/WD~international_economics,47417]]'
+- '[[_Standards/WikiData/WD~international_economic_relations,28472279]]'
+- '[[_Standards/WikiData/WD~macroeconomics,39680]]'
+- '[[_Standards/WikiData/WD~international_economics,47417]]'
 described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
 native_language: '[[_Standards/WikiData/WD~English,1860]]'
@@ -129,8 +160,103 @@ official_website: http://web.mit.edu/krugman/www/
 ISNI: 0000000122839649
 BHCL_UUID: 36007af0-f5a5-436d-bfae-dfeb552f7cbf
 Libris_URI: b8nrwnmv49l5kds
+dv_has_:
+  name_:
+    af: Paul Krugman
+    ar: بول كروغمان
+    arz: بول كروجمان
+    ast: Paul Krugman
+    az: Pol Kruqman
+    azb: پل کروقمن
+    ba: Пол Кругман
+    bar: Paul Krugman
+    be: Пол Кругман
+    be-tarask: Пол Кругман
+    bg: Пол Кругман
+    bn: পল ক্রুগম্যান
+    ca: Paul Krugman
+    cs: Paul Krugman
+    cy: Paul Krugman
+    da: Paul Krugman
+    dag: Paul Krugman
+    de: Paul Krugman
+    de-at: Paul Krugman
+    el: Πωλ Κρούγκμαν
+    en: Paul Krugman
+    en-us: Paul Krugman
+    eo: Paul Krugman
+    es: Paul Krugman
+    et: Paul Krugman
+    eu: Paul Krugman
+    fa: پل کروگمن
+    fi: Paul Krugman
+    fr: Paul Krugman
+    ga: Paul Krugman
+    gd: Paul Krugman
+    gl: Paul Krugman
+    he: פול קרוגמן
+    hi: पॉल क्रूगमैन
+    hr: Paul Krugman
+    hu: Paul Krugman
+    hy: Փոլ Քրուգման
+    id: Paul Krugman
+    io: Paul Krugman
+    is: Paul Krugman
+    it: Paul Krugman
+    ja: ポール・クルーグマン
+    ka: პოლ კრუგმანი
+    ko: 폴 크루그먼
+    la: Paulus Krugman
+    lb: Paul Krugman
+    lt: Paul Krugman
+    lv: Pols Krugmans
+    mg: Paul Krugman
+    mk: Пол Кругман
+    mn: Пол Крюгман
+    mr: पॉल क्रुगमन
+    ms: Paul Krugman
+    mul: Paul Krugman
+    nb: Paul Krugman
+    nds: Paul Robin Krugman
+    nl: Paul Krugman
+    nn: Paul Krugman
+    oc: Paul Krugman
+    pa: ਪਾਲ ਕਰੂਗਮੈਨ
+    pap: Paul Krugman
+    pl: Paul Krugman
+    pnb: پال کرگمان
+    pt: Paul Krugman
+    pt-br: Paul Krugman
+    ro: Paul Krugman
+    ru: Пол Кругман
+    sco: Paul Krugman
+    sh: Paul Krugman
+    sk: Paul Krugman
+    sl: Paul Krugman
+    sq: Paul Krugman
+    sr: Pol Krugman
+    sv: Paul Krugman
+    ta: பால் கிரக்மேன்
+    te: పాల్ క్రుగ్మాన్
+    tr: Paul Krugman
+    tt: Пол Кругман
+    ug: پاۋىل كرۇگمەنن
+    uk: Пол Круґман
+    ur: پاول کرگمین
+    uz: Paul Krugman
+    vi: Paul Krugman
+    war: Paul Krugman
+    wuu: 保罗·克鲁格曼
+    yo: Paul Krugman
+    yue: 克魯明
+    zh: 保羅·克魯格曼
+    zh-cn: 保罗·克鲁格曼
+    zh-hans: 保罗·克鲁格曼
+    zh-hant: 保羅·克魯曼
+    zh-hk: 保羅·克魯明
+    zh-sg: 保罗·克鲁格曼
+    zh-tw: 保羅·克魯曼
 ---
-
 # [[Krugman,Paul]]
 
 #is_/same_as  [[WD~Paul_Krugman,131112]]  

@@ -1,21 +1,75 @@
 ---
 aliases:
-  - Stromversorgung
-  - Spannungsversorgung
-  - power supply
-  - Power_Supply
-  - Power Supply
+- alimentation électrique
+- Alimentator
+- alimentatore elettrico
+- Bekalan kuasa
+- bộ nguồn
+- elektrický zdroj
+- Elikadura iturria
+- energiforsyningsmodul
+- Font d'alimentació
+- Fonte d'alimentación
+- Fonte de alimentación
+- fonte de alimentação
+- fuente de alimentación
+- Furnizuesi i rrymës
+- Güc mənbəyi və soyutma sistemləri SFX/SFX 12 V güc mənbəyi
+- Güç Kaynağı
+- Jedinica napajanja
+- kurentprovizo
+- napajalnik
+- napajanje
+- Napojna jedinica
+- Napájací zdroj
+- Netzteil
+- nätaggregat
+- Pencatu daya
+- power supply
+- Power_Supply
+- Spannungsversorgung
+- Stromversorgung
+- strømforsyning
+- Teholähde
+- Toiteplokk
+- tápegység
+- voeding
+- zasilacz
+- Τροφοδοτικό
+- јединица напајања
+- блок живлення
+- Вторичный источник электропитания
+- крыніца сілкаваньня
+- напојување
+- Уикипедия:Инкубатор/Статии/Захранващо устроство(PSU)
+- Цахилгаан хангамж
+- Հոսանքի աղբյուրներ
+- ספק כוח
+- توك مەنبەسى
+- طاقت رسانہ
+- مزود الطاقة
+- منبع تغذیه
+- शक्ति आपूर्ति
+- শক্তি সরবরাহ
+- ਬਿਜਲੀ ਦੀ ਸਪਲਾਈ
+- പവർ സപ്ലൈ
+- แหล่งจ่ายไฟ
+- 电源供应
+- 電源供應
+- 電源供應器
+- 電源回路
+- 전원 공급 장치
 has_id_wikidata: Q204157
 connects_with:
-  - '[[_Standards/WikiData/WD~electrical_load,931447]]'
-  - '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
+- '[[_Standards/WikiData/WD~electrical_load,931447]]'
+- '[[_Standards/WikiData/WD~electrical_receptacle,64537414]]'
 has_effect: '[[_Standards/WikiData/WD~change,1150070]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~electric_power_source,1753139]]'
-  - '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
-  - '[[_Standards/WikiData/WD~regulator,3771881]]'
-  - '[[_Standards/WikiData/WD~adapter,4576564]]'
-  - '[[_Standards/WikiData/WD~electrical_energy_source,23925486]]'
+- '[[_Standards/WikiData/WD~electric_power_source,1753139]]'
+- '[[_Standards/WikiData/WD~electrical_appliance,2425052]]'
+- '[[_Standards/WikiData/WD~regulator,3771881]]'
+- '[[_Standards/WikiData/WD~adapter,4576564]]'
+- '[[_Standards/WikiData/WD~electrical_energy_source,23925486]]'
 has_use: '[[_Standards/WikiData/WD~energy_transformation,11271324]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Electricity_delivery,13386897]]'
 instance_of: '[[_Standards/WikiData/WD~source_type,112234259]]'
@@ -25,8 +79,75 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear-Power-Supply-AB
 UMLS_CUI: C0032865
 MeSH_tree_code: E07.305.124
 Commons_category: Power supplies
+dv_has_:
+  name_:
+    ar: مزود الطاقة
+    ast: Fonte d'alimentación
+    az: Güc mənbəyi və soyutma sistemləri SFX/SFX 12 V güc mənbəyi
+    be-tarask: крыніца сілкаваньня
+    bg: Уикипедия:Инкубатор/Статии/Захранващо устроство(PSU)
+    bn: শক্তি সরবরাহ
+    bs: Napojna jedinica
+    ca: Font d'alimentació
+    cs: elektrický zdroj
+    da: strømforsyning
+    de: Netzteil
+    el: Τροφοδοτικό
+    en: power supply
+    eo: kurentprovizo
+    es: fuente de alimentación
+    et: Toiteplokk
+    eu: Elikadura iturria
+    fa: منبع تغذیه
+    fi: Teholähde
+    fr: alimentation électrique
+    gl: Fonte de alimentación
+    he: ספק כוח
+    hi: शक्ति आपूर्ति
+    hr: napajanje
+    hu: tápegység
+    hy: Հոսանքի աղբյուրներ
+    id: Pencatu daya
+    it: alimentatore elettrico
+    ja: 電源回路
+    jv: Power supply
+    ko: 전원 공급 장치
+    mk: напојување
+    ml: പവർ സപ്ലൈ
+    mn: Цахилгаан хангамж
+    ms: Bekalan kuasa
+    nb: strømforsyning
+    nl: voeding
+    nn: energiforsyningsmodul
+    pa: ਬਿਜਲੀ ਦੀ ਸਪਲਾਈ
+    pl: zasilacz
+    pms: Alimentator
+    pt: fonte de alimentação
+    ru: Вторичный источник электропитания
+    sh: Napojna jedinica
+    sk: Napájací zdroj
+    sl: napajalnik
+    sq: Furnizuesi i rrymës
+    sr: јединица напајања
+    sr-ec: Јединица напајања
+    sr-el: Jedinica napajanja
+    sv: nätaggregat
+    ta: power supply
+    th: แหล่งจ่ายไฟ
+    tr: Güç Kaynağı
+    ug: توك مەنبەسى
+    uk: блок живлення
+    ur: طاقت رسانہ
+    vi: bộ nguồn
+    yue: 電源供應器
+    zh: 電源供應
+    zh-cn: 电源供应
+    zh-hans: 电源供应
+    zh-hant: 電源供應
+    zh-hk: 電源供應
+    zh-sg: 电源供应
+    zh-tw: 電源供應
 ---
-
 # [[Power_Supply]] 
 
 #is_/same_as :: [[WD~Power_supply,204157]] 

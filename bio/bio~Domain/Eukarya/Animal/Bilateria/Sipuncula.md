@@ -1,9 +1,123 @@
 ---
 aliases:
-  - Sipuncula
+- Daa-njugu
+- fecskendőférgek
+- Fıstığımsı solucanlar
+- Konuvaglad
+- Lulmalık
+- Ngành Sá sùng
+- Pindawormen
+- ruiskumadot
+- Sikwiaki
+- Sipuncula
+- Sipunculo
+- Sipuncúlido
+- Sipunkuli
+- Sipunkulide
+- Sipunkulidlar
+- Sipunkulidlər
+- Sipunkuly
+- Sipúncul
+- Spritzwürmer
+- Sprütjwirmer
+- stjernemakkar
+- stjerneormer
+- stjärnmaskar
+- sumýšovci
+- Ulod nga bituon
+- Štrcaljci
+- Сіпункуліды
+- сипункуліди
+- Сипункулиде
+- сипункулиди
+- сипункулиды
+- תולעים סיפוניות
+- ديدان الفستق
+- فیستیغیمسی سوْلوجانلار
+- کرمهای بادامزمینی
+- หนอนถั่ว
+- სიპუნკულიდები
+- 星口動物
+- 星虫动物门
+- 星蟲動物門
+- 성구동물
 title: Sipuncula
+has_id_wikidata: Q205712
+dv_has_:
+  name_:
+    an: Sipuncula
+    ar: ديدان الفستق
+    arz: ديدان الفستق
+    ast: Sipuncula
+    az: Sipunkulidlər
+    azb: فیستیغیمسی سوْلوجانلار
+    be: Сіпункуліды
+    bg: сипункулиди
+    bs: Sipuncula
+    ca: Sipúncul
+    ceb: Ulod nga bituon
+    cs: sumýšovci
+    de: Spritzwürmer
+    diq: Lulmalık
+    en: Sipuncula
+    eo: Sipuncula
+    es: Sipuncula
+    et: Konuvaglad
+    eu: Sipuncula
+    ext: Sipuncula
+    fa: کرمهای بادامزمینی
+    fi: ruiskumadot
+    fr: Sipuncula
+    frr: Sprütjwirmer
+    ga: Sipuncula
+    gl: Sipuncúlido
+    he: תולעים סיפוניות
+    hr: Štrcaljci
+    hu: fecskendőférgek
+    ia: Sipuncula
+    id: Sipuncula
+    ie: Sipuncula
+    io: Sipuncula
+    it: Sipuncula
+    ja: 星口動物
+    ka: სიპუნკულიდები
+    ko: 성구동물
+    la: Sipuncula
+    lfn: Sipunculo
+    lv: Sipunkuli
+    mul: Sipuncula
+    nb: stjerneormer
+    nl: Pindawormen
+    nn: stjernemakkar
+    oc: Sipuncula
+    pl: Sikwiaki
+    pt: Sipuncula
+    pt-br: Sipuncula
+    ro: Sipuncula
+    ru: сипункулиды
+    sk: Sipunkuly
+    sq: Sipuncula
+    sr: Сипункулиде
+    sr-ec: Сипункулиде
+    sr-el: Sipunkulide
+    sv: stjärnmaskar
+    sw: Daa-njugu
+    th: หนอนถั่ว
+    tl: Sipuncula
+    tr: Fıstığımsı solucanlar
+    uk: сипункуліди
+    uz: Sipunkulidlar
+    vi: Ngành Sá sùng
+    vo: Sipuncula
+    war: Sipuncula
+    zh: 星虫动物门
+    zh-cn: 星虫动物门
+    zh-hans: 星虫动物门
+    zh-hant: 星蟲動物門
+    zh-hk: 星蟲動物門
+    zh-sg: 星虫动物门
+    zh-tw: 星蟲動物門
 ---
-
 # [[Sipuncula]] 
 
 ## Peanut Worms 

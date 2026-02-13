@@ -1,4 +1,59 @@
-
+---
+has_id_wikidata: Q1037532
+dv_has_:
+  name_:
+    ar: فارس القمر
+    az: Ay cəngavəri
+    be-tarask: Месяцовы рыцар
+    bg: Лунния рицар (сериал)
+    bn: মুন নাইট
+    ca: Moon Knight
+    da: Moon Knight
+    en: Moon Knight
+    en-us: Moon Knight
+    es: Caballero Luna
+    fa: شوالیه ماه
+    fi: Kuuritari
+    fr: Moon Knight
+    he: מון נייט
+    hu: Holdlovag
+    it: Moon Knight
+    ja: ムーンナイト
+    km: មូនណាយថ៍
+    ko: 문 나이트
+    nl: Moon Knight
+    pt: Cavaleiro da Lua
+    ru: Лунный рыцарь
+    sk: Moon Knight
+    sv: Moon Knight
+    tr: Moon Knight
+    tt: Ай алпары
+    tt-cyrl: Ай алпары
+    uk: Місячний лицар
+    uz: Oy ritsari
+    zh: 月光騎士
+aliases:
+- Ay cəngavəri
+- Caballero Luna
+- Cavaleiro da Lua
+- Holdlovag
+- Kuuritari
+- Moon Knight
+- Oy ritsari
+- Ай алпары
+- Лунния рицар (сериал)
+- Лунный рыцарь
+- Місячний лицар
+- Месяцовы рыцар
+- מון נייט
+- شوالیه ماه
+- فارس القمر
+- মুন নাইট
+- មូនណាយថ៍
+- ムーンナイト
+- 月光騎士
+- 문 나이트
+---
 > Moon Knight is a character appearing in American [[../Marvel_Entertainment|Marvel_Entertainment]] Comics books. 
 > Created by writer Doug Moench and artist Don Perlin, 
 > the character first appeared in Werewolf by Night #32 (August 1975).

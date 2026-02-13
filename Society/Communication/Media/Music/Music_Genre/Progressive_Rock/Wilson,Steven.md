@@ -1,9 +1,72 @@
 ---
 aliases:
-  - Steven Wilson
-  - Wilson,Steven
+- Steven Wilson
+- Stīvens Vilsons
+- Wilson,Steven
+- Стівен Вілсон
+- Стивен Уилсон
+- Стивън Уилсън
+- Սթիվեն Ուիլսոն
+- סטיבן וילסון
+- استیون ویلسون
+- ستيفن ويلسون
+- სტივენ უილსონი
+- スティーヴン・ウィルソン
+- 史蒂芬·威爾森
+- 스티븐 윌슨
+has_id_wikidata: Q352766
+dv_has_:
+  name_:
+    an: Steven Wilson
+    ar: ستيفن ويلسون
+    arz: ستيفن ويلسون
+    ast: Steven Wilson
+    azb: استیون ویلسون
+    bg: Стивън Уилсън
+    ca: Steven Wilson
+    cs: Steven Wilson
+    da: Steven Wilson
+    dag: Steven Wilson
+    de: Steven Wilson
+    en: Steven Wilson
+    en-ca: Steven Wilson
+    en-gb: Steven Wilson
+    eo: Steven Wilson
+    es: Steven Wilson
+    et: Steven Wilson
+    fa: استیون ویلسون
+    fi: Steven Wilson
+    fr: Steven Wilson
+    he: סטיבן וילסון
+    hr: Steven Wilson
+    hy: Սթիվեն Ուիլսոն
+    id: Steven Wilson
+    is: Steven Wilson
+    it: Steven Wilson
+    ja: スティーヴン・ウィルソン
+    ka: სტივენ უილსონი
+    ko: 스티븐 윌슨
+    lv: Stīvens Vilsons
+    mg: Steven Wilson
+    mul: Steven Wilson
+    nb: Steven Wilson
+    nds: Steven Wilson
+    nl: Steven Wilson
+    pl: Steven Wilson
+    pt: Steven Wilson
+    pt-br: Steven Wilson
+    ru: Стивен Уилсон
+    sk: Steven Wilson
+    sl: Steven Wilson
+    sq: Steven Wilson
+    sv: Steven Wilson
+    tr: Steven Wilson
+    uk: Стівен Вілсон
+    vmf: Steven Wilson
+    zh: 史蒂芬·威爾森
+    zh-hant: 史蒂芬·威爾森
+    zh-tw: 史蒂芬·威爾森
 ---
-
 # [[Wilson,Steven]] 
 
 

@@ -1,24 +1,144 @@
 ---
 aliases:
+- Cálculu tensorial
+- nacrtensori
+- teinseoir
+- tenseur
+- tensor
+- tensore
+- tensori
+- tensoro
+- tensör
+- tenxơ
+- Tenzor
+- Tenzorius
+- Tenzors
+- tinsuri
+- Trajtimi klasik i tensorëve
+- Τανυστής
+- тензор
+- тэнзар
+- տենզոր
+- טנזור
+- تانسور
+- تەنزور
+- موتر
+- आतानक विश्लेषण
+- টেন্ছ’ৰ
+- টেন্সর
+- ਟੈਂਸਰ
+- ടെൻസർ വിശ്ലേഷണം
+- တာအုံ
+- テンソル
+- 张量
+- 張量
+- 텐서
+- 텐소르
 has_id_wikidata: Q188524
 subclass_of:
-  - "[[_Standards/WikiData/WD~mathematical_object,246672]]"
-  - "[[_Standards/WikiData/WD~multilinear_map,1952404]]"
-studied_by: "[[_Standards/WikiData/WD~tensor_calculus,3650511]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Tensors,8089885]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+- '[[_Standards/WikiData/WD~mathematical_object,246672]]'
+- '[[_Standards/WikiData/WD~multilinear_map,1952404]]'
+studied_by: '[[_Standards/WikiData/WD~tensor_calculus,3650511]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Tensors,8089885]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Q15990710,15990710]]"
-  - "[[_Standards/WikiData/WD~tensor_quantity,90932929]]"
-part_of: "[[_Standards/WikiData/WD~tensor_space,16635030]]"
+- '[[_Standards/WikiData/WD~Q15990710,15990710]]'
+- '[[_Standards/WikiData/WD~tensor_quantity,90932929]]'
+part_of: '[[_Standards/WikiData/WD~tensor_space,16635030]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~geometric_concept,21550639]]"
-  - "[[_Standards/WikiData/WD~general_quantity,71758646]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~geometric_concept,21550639]]'
+- '[[_Standards/WikiData/WD~general_quantity,71758646]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 Krugosvet_article_archived_: matematika/tenzor
 Commons_category: Tensors
+dv_has_:
+  name_:
+    ar: موتر
+    as: টেন্ছ’ৰ
+    ast: Cálculu tensorial
+    az: Tenzor
+    be-tarask: тэнзар
+    bg: Тензор
+    bn: টেন্সর
+    ca: tensor
+    cs: tenzor
+    cv: тензор
+    de: Tensor
+    de-ch: Tensor
+    el: Τανυστής
+    en: tensor
+    en-ca: Tensor
+    en-gb: tensor
+    eo: tensoro
+    es: tensor
+    et: Tensor
+    eu: Tensore
+    fa: تانسور
+    fi: tensori
+    fr: tenseur
+    ga: teinseoir
+    gl: tensor
+    he: טנזור
+    hi: आतानक विश्लेषण
+    hr: Tenzor
+    hu: tenzor
+    hy: տենզոր
+    id: tensor
+    it: tensore
+    ja: テンソル
+    jbo: nacrtensori
+    kk: Тензор
+    kk-arab: تەنزور
+    kk-cn: تەنزور
+    kk-cyrl: Тензор
+    kk-kz: Тензор
+    kk-latn: Tenzor
+    kk-tr: Tenzor
+    ko: 텐서
+    ko-kp: 텐소르
+    ky: тензор
+    la: tensor
+    lt: Tenzorius
+    lv: Tenzors
+    mk: тензор
+    ml: ടെൻസർ വിശ്ലേഷണം
+    ms: Tensor
+    my: တာအုံ
+    nb: tensor
+    nl: tensor
+    nn: tensor
+    pa: ਟੈਂਸਰ
+    pl: tensor
+    pt: tensor
+    pt-br: tensor
+    ro: tensor
+    ru: тензор
+    scn: tinsuri
+    sh: Tenzor
+    sk: Tenzor
+    sl: tenzor
+    sq: Trajtimi klasik i tensorëve
+    sr: тензор
+    sr-ec: Тензор
+    sr-el: Tenzor
+    sv: tensor
+    szl: Tensor
+    tl: Tensor
+    tr: tensör
+    tt: Тензор
+    uk: тензор
+    uz: tenzor
+    vi: tenxơ
+    wuu: 张量
+    yue: 張量
+    zh: 張量
+    zh-cn: 张量
+    zh-hans: 张量
+    zh-hant: 張量
+    zh-hk: 張量
+    zh-sg: 张量
+    zh-tw: 張量
 ---
-
 # [[Tensor]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tensor,188524|WD~Tensor,188524]]  

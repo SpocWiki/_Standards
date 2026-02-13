@@ -1,173 +1,224 @@
 ---
 aliases:
-  - Roosevelt,Theodore
-  - Theodore Roosevelt
-  - Theodore_Roosevelt
-  - Roosevelt
+- Hastiin alą́ąjįʼ dahsidáhígíí Theodore Roosevelt
+- Roosevelt
+- Roosevelt,Theodore
+- Teodor Ruzvelt
+- Teodors Rūzvelts
+- Teuoduors Rūzvelts
+- Theodor Roosevelt
+- Theodore Roosevelt
+- Theodore Roosevelt jr.
+- Theodore_Roosevelt
+- Theodorus Roosevelt
+- Θεόδωρος Ρούζβελτ
+- Рузвельт Теодор
+- Теодор Рузвелт
+- Теодор Рузвельт
+- Тэадор Рузвельт
+- Тэадор Рузвэлт
+- Թեոդոր Ռուզվելտ
+- טעאדער רוזעוועלט
+- תאודור רוזוולט
+- تئودور روزولت
+- تئودور روٙزڤولت
+- تيودور روزفيلت
+- تھیوڈور روزویلٹ
+- تیۆدور ڕۆزڤێڵت
+- تېئودور روزېۋېلت
+- ثيودور روزفلت
+- ثيودور روزڤلت
+- ټیوډور روزولټ
+- ߕߋߏߘߏߙߋ߫ ߙߎߛߝ߭ߋߟߕ
+- थियोडोर रूजवेल्ट
+- थियोडोर रूज़वेल्ट
+- थियोडोर रूझवेल्ट
+- रूझवेल्ट, थिओदोर
+- থিঅ'ড'ৰ ৰুজভেল্ট
+- থিওডোর রুজভেল্ট
+- ਥਿਓਡੋਰ ਰੂਜ਼ਵੈਲਟ
+- થિયોડોર રૂઝવેલ્ટ
+- தியொடோர் ரோசவெல்ட்
+- థియోడర్ రూజ్వెల్ట్
+- ಥಿಯೋಡರ್ ರೂಸ್ವೆಲ್ಟ್
+- തിയോഡർ റൂസ്വെൽറ്റ്
+- තියඩෝර් රෝසවෙල්
+- ธีโอดอร์ โรสเวลต์
+- သီအိုဒို ရုစဗဲ့
+- თეოდორ რუზველტი
+- ቴዮዶር ሮዝቬልት
+- ᏘᎣᏙᎠ ᏭᏎᏪᎵᏘ
+- セオドア・ルーズベルト
+- 狄奧多·羅斯福
+- 瑟鳌独·罗斯福
+- 老羅斯福
+- 西奥多·罗斯福
+- 西奧多羅斯福
+- 시어도어 루스벨트
 has_id_wikidata: Q33866
 confidential: private
 cssclasses:
-  - private
-  - note
+- private
+- note
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
 excalidraw_plugin: parsed
-expiryDate: ""
-has_Template: "[[Extract~Note~Template]]"
+expiryDate: ''
+has_Template: '[[Extract~Note~Template]]'
 isDeleted: false
 isReadOnly: false
 keywords: Roosevelt,Theodore
 lang: en
-layout: ""
+layout: ''
 license: (c)copyrighted
 linkTitle: Roosevelt,Theodore
 publish: false
-publishDate: ""
+publishDate: ''
 tags:
-  - ""
-  - Roosevelt,Theodore
-  - excalidraw
+- ''
+- Roosevelt,Theodore
+- excalidraw
 title: Roosevelt,Theodore
 type: private_note
 occupation:
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~historian,201788]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~ornithologist,1225716]]"
-  - "[[_Standards/WikiData/WD~husbandry_worker,1524582]]"
-  - "[[_Standards/WikiData/WD~essayist,11774202]]"
-  - "[[_Standards/WikiData/WD~explorer,11900058]]"
-  - "[[_Standards/WikiData/WD~conservationist,16060693]]"
-  - "[[_Standards/WikiData/WD~autobiographer,18814623]]"
-  - "[[_Standards/WikiData/WD~diarist,18939491]]"
-  - "[[_Standards/WikiData/WD~scientific_collector,98544732]]"
-  - "[[_Standards/WikiData/WD~naturalist,18805]]"
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~colonel,104680]]"
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~ornithologist,1225716]]'
+- '[[_Standards/WikiData/WD~husbandry_worker,1524582]]'
+- '[[_Standards/WikiData/WD~essayist,11774202]]'
+- '[[_Standards/WikiData/WD~explorer,11900058]]'
+- '[[_Standards/WikiData/WD~conservationist,16060693]]'
+- '[[_Standards/WikiData/WD~autobiographer,18814623]]'
+- '[[_Standards/WikiData/WD~diarist,18939491]]'
+- '[[_Standards/WikiData/WD~scientific_collector,98544732]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~colonel,104680]]'
 residence:
-  - "[[_Standards/WikiData/WD~Oyster_Bay,129361]]"
-  - "[[_Standards/WikiData/WD~Sagamore_Hill,7398976]]"
-  - "[[_Standards/WikiData/WD~New_York_City,60]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-family: "[[_Standards/WikiData/WD~Roosevelt_family,129462]]"
+- '[[_Standards/WikiData/WD~Oyster_Bay,129361]]'
+- '[[_Standards/WikiData/WD~Sagamore_Hill,7398976]]'
+- '[[_Standards/WikiData/WD~New_York_City,60]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+family: '[[_Standards/WikiData/WD~Roosevelt_family,129462]]'
 archives_at:
-  - "[[_Standards/WikiData/WD~Library_of_Congress,131454]]"
-  - "[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]"
+- '[[_Standards/WikiData/WD~Library_of_Congress,131454]]'
+- '[[_Standards/WikiData/WD~New_York_Public_Library_Main_Branch,7013887]]'
 collection_items_at:
-  - "[[_Standards/WikiData/WD~National_Museum_of_Natural_History,148554]]"
-  - "[[_Standards/WikiData/WD~Auckland_War_Memorial_Museum_Tāmaki_Paenga_Hira,758657]]"
+- '[[_Standards/WikiData/WD~National_Museum_of_Natural_History,148554]]'
+- '[[_Standards/WikiData/WD~Auckland_War_Memorial_Museum_Tāmaki_Paenga_Hira,758657]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Medal_of_Honor,203535]]"
-  - "[[_Standards/WikiData/WD~David_Livingstone_Centenary_Medal,3650805]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctor_of_the_Humboldt_University_of_Berlin,28854990]]"
-  - "[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]"
-  - "[[_Standards/WikiData/WD~Honorary_doctorate_from_the_University_of_Cairo,101104108]]"
-cause_of_death: "[[_Standards/WikiData/WD~pulmonary_embolism,220570]]"
+- '[[_Standards/WikiData/WD~Medal_of_Honor,203535]]'
+- '[[_Standards/WikiData/WD~David_Livingstone_Centenary_Medal,3650805]]'
+- '[[_Standards/WikiData/WD~Honorary_doctor_of_the_Humboldt_University_of_Berlin,28854990]]'
+- '[[_Standards/WikiData/WD~Honorary_Doctorate_from_the_National_Autonomous_University_of_Mexico,64152520]]'
+- '[[_Standards/WikiData/WD~Honorary_doctorate_from_the_University_of_Cairo,101104108]]'
+cause_of_death: '[[_Standards/WikiData/WD~pulmonary_embolism,220570]]'
 spouse:
-  - "[[_Standards/WikiData/WD~Edith_Roosevelt,237590]]"
-  - "[[_Standards/WikiData/WD~Alice_Hathaway_Lee_Roosevelt,2836599]]"
-wears: "[[_Standards/WikiData/WD~pince_nez,244570]]"
+- '[[_Standards/WikiData/WD~Edith_Roosevelt,237590]]'
+- '[[_Standards/WikiData/WD~Alice_Hathaway_Lee_Roosevelt,2836599]]'
+wears: '[[_Standards/WikiData/WD~pince_nez,244570]]'
 child:
-  - "[[_Standards/WikiData/WD~Kermit_Roosevelt,330431]]"
-  - "[[_Standards/WikiData/WD~Theodore_Roosevelt_Jr.,449894]]"
-  - "[[_Standards/WikiData/WD~Alice_Lee_Roosevelt,2836665]]"
-  - "[[_Standards/WikiData/WD~Archibald_Roosevelt,4786498]]"
-  - "[[_Standards/WikiData/WD~Quentin_Roosevelt,4889668]]"
-  - "[[_Standards/WikiData/WD~Ethel_Roosevelt_Derby,5403210]]"
-field_of_work: "[[_Standards/WikiData/WD~politics_of_the_United_States,330963]]"
+- '[[_Standards/WikiData/WD~Kermit_Roosevelt,330431]]'
+- '[[_Standards/WikiData/WD~Theodore_Roosevelt_Jr.,449894]]'
+- '[[_Standards/WikiData/WD~Alice_Lee_Roosevelt,2836665]]'
+- '[[_Standards/WikiData/WD~Archibald_Roosevelt,4786498]]'
+- '[[_Standards/WikiData/WD~Quentin_Roosevelt,4889668]]'
+- '[[_Standards/WikiData/WD~Ethel_Roosevelt_Derby,5403210]]'
+field_of_work: '[[_Standards/WikiData/WD~politics_of_the_United_States,330963]]'
 member_of:
-  - "[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]"
-  - "[[_Standards/WikiData/WD~American_Historical_Association,464915]]"
-  - "[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]"
-  - "[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]"
-  - "[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]"
-  - "[[_Standards/WikiData/WD~Camp_Fire_Club,56063192]]"
+- '[[_Standards/WikiData/WD~American_Academy_of_Arts_and_Letters,463281]]'
+- '[[_Standards/WikiData/WD~American_Historical_Association,464915]]'
+- '[[_Standards/WikiData/WD~American_Philosophical_Society,466089]]'
+- '[[_Standards/WikiData/WD~Phi_Beta_Kappa_Society,1938003]]'
+- '[[_Standards/WikiData/WD~Veterans_of_Foreign_Wars,3556413]]'
+- '[[_Standards/WikiData/WD~Camp_Fire_Club,56063192]]'
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Episcopal_Church,682443]]"
-  - "[[_Standards/WikiData/WD~Anglicanism,6423963]]"
-  - "[[_Standards/WikiData/WD~Continental_Reformed_Protestantism,49830]]"
+- '[[_Standards/WikiData/WD~Episcopal_Church,682443]]'
+- '[[_Standards/WikiData/WD~Anglicanism,6423963]]'
+- '[[_Standards/WikiData/WD~Continental_Reformed_Protestantism,49830]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~Columbia_Law_School,1149089]]"
-  - "[[_Standards/WikiData/WD~Friends_Seminary,5504210]]"
-  - "[[_Standards/WikiData/WD~Columbia_University,49088]]"
-  - "[[_Standards/WikiData/WD~Harvard_College,49123]]"
+- '[[_Standards/WikiData/WD~Columbia_Law_School,1149089]]'
+- '[[_Standards/WikiData/WD~Friends_Seminary,5504210]]'
+- '[[_Standards/WikiData/WD~Columbia_University,49088]]'
+- '[[_Standards/WikiData/WD~Harvard_College,49123]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Progressive_Party,1363538]]"
-  - "[[_Standards/WikiData/WD~Republican_Party,29468]]"
+- '[[_Standards/WikiData/WD~Progressive_Party,1363538]]'
+- '[[_Standards/WikiData/WD~Republican_Party,29468]]'
 position_held:
-  - "[[_Standards/WikiData/WD~Governor_General_of_the_Philippines,1542521]]"
-  - "[[_Standards/WikiData/WD~Governor_of_New_York,2347975]]"
-  - "[[_Standards/WikiData/WD~Assistant_Secretary_of_the_Navy,4809034]]"
-  - "[[_Standards/WikiData/WD~member_of_the_New_York_State_Assembly,20058770]]"
-  - "[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]"
-  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-academic_degree: "[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]"
-commander_of_DEPRECATED_: "[[_Standards/WikiData/WD~Rough_Riders,2093017]]"
-student_of: "[[_Standards/WikiData/WD~Yoshitsugu_Yamashita,3236604]]"
-father: "[[_Standards/WikiData/WD~Theodore_Roosevelt_Sr.,3564517]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-filmography: "[[_Standards/WikiData/WD~Theodore_Roosevelt_filmography,3745473]]"
+- '[[_Standards/WikiData/WD~Governor_General_of_the_Philippines,1542521]]'
+- '[[_Standards/WikiData/WD~Governor_of_New_York,2347975]]'
+- '[[_Standards/WikiData/WD~Assistant_Secretary_of_the_Navy,4809034]]'
+- '[[_Standards/WikiData/WD~member_of_the_New_York_State_Assembly,20058770]]'
+- '[[_Standards/WikiData/WD~Vice_President_of_the_United_States,11699]]'
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+academic_degree: '[[_Standards/WikiData/WD~Bachelor_of_Arts,1765120]]'
+commander_of_DEPRECATED_: '[[_Standards/WikiData/WD~Rough_Riders,2093017]]'
+student_of: '[[_Standards/WikiData/WD~Yoshitsugu_Yamashita,3236604]]'
+father: '[[_Standards/WikiData/WD~Theodore_Roosevelt_Sr.,3564517]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+filmography: '[[_Standards/WikiData/WD~Theodore_Roosevelt_filmography,3745473]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Bamie_Roosevelt,4853497]]"
-  - "[[_Standards/WikiData/WD~Corinne_Roosevelt_Robinson,5170600]]"
-  - "[[_Standards/WikiData/WD~Elliott_Bulloch_Roosevelt,5365719]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-mother: "[[_Standards/WikiData/WD~Martha_Bulloch_Roosevelt,6774355]]"
-military_unit: "[[_Standards/WikiData/WD~New_York_Army_National_Guard,7013030]]"
-family_name: "[[_Standards/WikiData/WD~Roosevelt,7366409]]"
-place_of_death: "[[_Standards/WikiData/WD~Sagamore_Hill,7398976]]"
-place_of_burial: "[[_Standards/WikiData/WD~Youngs_Memorial_Cemetery,14707829]]"
-given_name: "[[_Standards/WikiData/WD~Theodore,15875484]]"
-depicted_by: "[[_Standards/WikiData/WD~Theodore_Roosevelt,_Rough_Rider,16169361]]"
-present_in_work: "[[_Standards/WikiData/WD~Civilization_VI,24050047]]"
+- '[[_Standards/WikiData/WD~Bamie_Roosevelt,4853497]]'
+- '[[_Standards/WikiData/WD~Corinne_Roosevelt_Robinson,5170600]]'
+- '[[_Standards/WikiData/WD~Elliott_Bulloch_Roosevelt,5365719]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+mother: '[[_Standards/WikiData/WD~Martha_Bulloch_Roosevelt,6774355]]'
+military_unit: '[[_Standards/WikiData/WD~New_York_Army_National_Guard,7013030]]'
+family_name: '[[_Standards/WikiData/WD~Roosevelt,7366409]]'
+place_of_death: '[[_Standards/WikiData/WD~Sagamore_Hill,7398976]]'
+place_of_burial: '[[_Standards/WikiData/WD~Youngs_Memorial_Cemetery,14707829]]'
+given_name: '[[_Standards/WikiData/WD~Theodore,15875484]]'
+depicted_by: '[[_Standards/WikiData/WD~Theodore_Roosevelt,_Rough_Rider,16169361]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_VI,24050047]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_wilderness_hunter;_an_account_of_the_big_game_of_the_United_States_and_its_chase_with_horse,_hound,_and_rifle;,51421543]]"
-  - "[[_Standards/WikiData/WD~African_game_trails_an_account_of_the_African_wanderings_of_an_American_hunter_naturalist,51428560]]"
-  - "[[_Standards/WikiData/WD~Hunting_trips_of_a_ranchman,_sketches_of_sport_on_the_northern_cattle_plains;,51431610]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
+- '[[_Standards/WikiData/WD~The_wilderness_hunter;_an_account_of_the_big_game_of_the_United_States_and_its_chase_with_horse,_hound,_and_rifle;,51421543]]'
+- '[[_Standards/WikiData/WD~African_game_trails_an_account_of_the_African_wanderings_of_an_American_hunter_naturalist,51428560]]'
+- '[[_Standards/WikiData/WD~Hunting_trips_of_a_ranchman,_sketches_of_sport_on_the_northern_cattle_plains;,51431610]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]"
-  - "[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]"
-owner_of: "[[_Standards/WikiData/WD~Theodore_Roosevelt_watch,126941006]]"
+- '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Frick_Art_Reference_Library,104694359]]'
+- '[[_Standards/WikiData/WD~WikiProject_New_York_Public_Library,121437821]]'
+owner_of: '[[_Standards/WikiData/WD~Theodore_Roosevelt_watch,126941006]]'
 date_of_birth: 1858-10-27T00:00:00Z
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Italian,652]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
+- '[[_Standards/WikiData/WD~Italian,652]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~German,188]]'
 work_location:
-  - "[[_Standards/WikiData/WD~New_York,1384]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
+- '[[_Standards/WikiData/WD~New_York,1384]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
 writing_language:
-  - "[[_Standards/WikiData/WD~American_English,7976]]"
-  - "[[_Standards/WikiData/WD~French,150]]"
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
-relative: "[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,8007]]"
-military_branch: "[[_Standards/WikiData/WD~United_States_Army,9212]]"
-place_of_birth: "[[_Standards/WikiData/WD~Manhattan,11299]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
-allegiance: "[[_Standards/WikiData/WD~United_States,30]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+- '[[_Standards/WikiData/WD~American_English,7976]]'
+- '[[_Standards/WikiData/WD~French,150]]'
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
+relative: '[[_Standards/WikiData/WD~Franklin_Delano_Roosevelt,8007]]'
+military_branch: '[[_Standards/WikiData/WD~United_States_Army,9212]]'
+place_of_birth: '[[_Standards/WikiData/WD~Manhattan,11299]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
+allegiance: '[[_Standards/WikiData/WD~United_States,30]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 number_of_children: 6
-medical_condition: "[[_Standards/WikiData/WD~asthma,35869]]"
+medical_condition: '[[_Standards/WikiData/WD~asthma,35869]]'
 height:
-  - 178
-  - 179
+- 178
+- 179
 U_S_National_Archives_Identifier: 10581698
 Commons_gallery: Theodore Roosevelt
 Commons_category: Theodore Roosevelt
@@ -190,55 +241,227 @@ described_at_URL: http://www.digiporta.net/index.php?id=746122136
 National_Governors_Association_biography_URL: https://www.nga.org/governor/theodore-roosevelt/
 ISNI: 121303885
 Krugosvet_article_archived_: istoriya/RUZVELT_TEODOR.html
-dv_has_role: "[[../US_President]]"
+dv_has_role: '[[../US_President]]'
 dv_created: 1901-09-14
 dv_cancelled: 1909-03-04
 dv_has_:
+  ancestor: '[[Roosevelt,Nicholas]]'
+  created_:
+    quote:
+    - Speak softly and carry a big stick; you will go far.
+    - '[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]]'
+  duration_: P60Y2M1W3D
+  name_:
+    ace: Theodore Roosevelt
+    af: Theodore Roosevelt
+    am: ቴዮዶር ሮዝቬልት
+    an: Theodore Roosevelt
+    ang: Theodore Roosevelt
+    ar: ثيودور روزفلت
+    ary: ثيودور روزڤلت
+    arz: تيودور روزفيلت
+    as: থিঅ'ড'ৰ ৰুজভেল্ট
+    ast: Theodore Roosevelt
+    ay: Theodore Roosevelt
+    az: Teodor Ruzvelt
+    azb: تئودور روزولت
+    ba: Рузвельт Теодор
+    ban: Theodore Roosevelt
+    bar: Theodore Roosevelt
+    bcl: Theodore Roosevelt
+    be: Тэадор Рузвельт
+    be-tarask: Тэадор Рузвэлт
+    bg: Теодор Рузвелт
+    bi: Theodore Roosevelt
+    bn: থিওডোর রুজভেল্ট
+    br: Theodore Roosevelt
+    bs: Theodore Roosevelt
+    ca: Theodore Roosevelt
+    cdo: Theodore Roosevelt
+    ceb: Theodore Roosevelt
+    chr: ᏘᎣᏙᎠ ᏭᏎᏪᎵᏘ
+    ckb: تیۆدور ڕۆزڤێڵت
+    co: Theodore Roosevelt
+    crh: Teodor Ruzvelt
+    cs: Theodore Roosevelt
+    cv: Теодор Рузвельт
+    cy: Theodore Roosevelt
+    da: Theodore Roosevelt
+    de: Theodore Roosevelt
+    diq: Theodore Roosevelt
+    el: Θεόδωρος Ρούζβελτ
+    en: Theodore Roosevelt
+    eo: Theodore Roosevelt
+    es: Theodore Roosevelt
+    et: Theodore Roosevelt
+    eu: Theodore Roosevelt
+    ext: Theodore Roosevelt
+    fa: تئودور روزولت
+    fi: Theodore Roosevelt
+    fit: Theodore Roosevelt
+    fo: Theodore Roosevelt
+    fr: Theodore Roosevelt
+    frr: Theodore Roosevelt
+    fy: Theodore Roosevelt
+    ga: Theodore Roosevelt
+    gag: Theodore Roosevelt
+    gd: Theodore Roosevelt
+    gl: Theodore Roosevelt
+    gom: रूझवेल्ट, थिओदोर
+    gsw: Theodore Roosevelt
+    gu: થિયોડોર રૂઝવેલ્ટ
+    guw: Theodore Roosevelt
+    gv: Theodore Roosevelt
+    hak: Theodore Roosevelt
+    haw: Theodore Roosevelt
+    he: תאודור רוזוולט
+    hi: थियोडोर रूज़वेल्ट
+    hr: Theodore Roosevelt
+    hu: Theodore Roosevelt
+    hy: Թեոդոր Ռուզվելտ
+    ia: Theodore Roosevelt
+    id: Theodore Roosevelt
+    ilo: Theodore Roosevelt
+    io: Theodore Roosevelt
+    is: Theodore Roosevelt
+    it: Theodore Roosevelt
+    ja: セオドア・ルーズベルト
+    jv: Theodore Roosevelt
+    ka: თეოდორ რუზველტი
+    kk: Теодор Рузвельт
+    kl: Theodore Roosevelt
+    kn: ಥಿಯೋಡರ್ ರೂಸ್ವೆಲ್ಟ್
+    ko: 시어도어 루스벨트
+    ku: Theodore Roosevelt
+    kw: Theodore Roosevelt
+    la: Theodorus Roosevelt
+    lb: Theodore Roosevelt
+    lfn: Theodore Roosevelt
+    li: Theodore Roosevelt jr.
+    lij: Theodore Roosevelt
+    lmo: Theodore Roosevelt
+    ln: Theodore Roosevelt
+    lrc: تئودور روٙزڤولت
+    lt: Theodore Roosevelt
+    lv: Teodors Rūzvelts
+    lzh: 老羅斯福
+    mg: Theodore Roosevelt
+    min: Theodore Roosevelt
+    mk: Теодор Рузвелт
+    ml: തിയോഡർ റൂസ്വെൽറ്റ്
+    mn: Теодор Рузвельт
+    mr: थियोडोर रूझवेल्ट
+    ms: Theodore Roosevelt
+    mul: Theodore Roosevelt
+    my: သီအိုဒို ရုစဗဲ့
+    mzn: تئودور روزولت
+    nan: Theodore Roosevelt
+    nb: Theodore Roosevelt
+    nds: Theodore Roosevelt
+    nds-nl: Theodore Roosevelt
+    ne: थियोडोर रूजवेल्ट
+    nl: Theodore Roosevelt
+    nn: Theodore Roosevelt
+    nqo: ߕߋߏߘߏߙߋ߫ ߙߎߛߝ߭ߋߟߕ
+    nv: Hastiin alą́ąjįʼ dahsidáhígíí Theodore Roosevelt
+    oc: Theodore Roosevelt
+    os: Теодор Рузвельт
+    pa: ਥਿਓਡੋਰ ਰੂਜ਼ਵੈਲਟ
+    pam: Theodore Roosevelt
+    pap: Theodore Roosevelt
+    pl: Theodore Roosevelt
+    pms: Theodore Roosevelt
+    pnb: تھیوڈور روزویلٹ
+    ps: ټیوډور روزولټ
+    pt: Theodore Roosevelt
+    pt-br: Theodore Roosevelt
+    qu: Theodore Roosevelt
+    rm: Theodore Roosevelt
+    rmf: Theodore Roosevelt
+    ro: Theodore Roosevelt
+    ru: Теодор Рузвельт
+    rw: Theodore Roosevelt
+    scn: Theodore Roosevelt
+    sco: Theodore Roosevelt
+    se: Theodore Roosevelt
+    sgs: Teuoduors Rūzvelts
+    sh: Theodore Roosevelt
+    si: තියඩෝර් රෝසවෙල්
+    sje: Theodore Roosevelt
+    sju: Theodore Roosevelt
+    sk: Theodore Roosevelt
+    sl: Theodore Roosevelt
+    sma: Theodore Roosevelt
+    smj: Theodore Roosevelt
+    smn: Theodore Roosevelt
+    sms: Theodore Roosevelt
+    sq: Theodore Roosevelt
+    sr: Теодор Рузвелт
+    sr-ec: Теодор Рузвелт
+    sv: Theodore Roosevelt
+    sw: Theodore Roosevelt
+    ta: தியொடோர் ரோசவெல்ட்
+    te: థియోడర్ రూజ్వెల్ట్
+    tg: Теодор Рузвелт
+    th: ธีโอดอร์ โรสเวลต์
+    tl: Theodore Roosevelt
+    tr: Theodore Roosevelt
+    tt: Теодор Рузвельт
+    ug: تېئودور روزېۋېلت
+    uk: Теодор Рузвельт
+    ur: تھیوڈور روزویلٹ
+    uz: Theodor Roosevelt
+    vec: Theodore Roosevelt
+    vi: Theodore Roosevelt
+    vo: Theodore Roosevelt
+    wa: Theodore Roosevelt
+    war: Theodore Roosevelt
+    wuu: 瑟鳌独·罗斯福
+    xmf: თეოდორ რუზველტი
+    yi: טעאדער רוזעוועלט
+    yo: Theodore Roosevelt
+    yue: 西奧多羅斯福
+    zh: 西奥多·罗斯福
+    zh-hant: 狄奧多·羅斯福
+    zh-tw: 狄奧多·羅斯福
   time_:
     started: 1858-10-27T00:00:00.000+00:53
     stopped: 1919-01-06T00:00:00.000+01:00
-  duration_: P60Y2M1W3D
-  ancestor: "[[Roosevelt,Nicholas]]"
-  created_:
-    quote:
-      - Speak softly and carry a big stick; you will go far.
-      - "[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]]"
 dv_is_member_of:
-  - "[[../../../../../_Standards/Society/Politics/1890-Progressive_Era|Progressive Era]]"
-  - "[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]"
+- '[[../../../../../_Standards/Society/Politics/1890-Progressive_Era|Progressive Era]]'
+- '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
 dv_is_:
-  different_from: "[[Roosevelt,Franklin_Delano]]"
+  different_from: '[[Roosevelt,Franklin_Delano]]'
   same_as:
-    - "[[../../../../WikiData/WD~Theodore_Roosevelt,33866|WD~Theodore_Roosevelt,33866]]"
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore|Roosevelt,Theodore]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.public|Roosevelt,Theodore.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.internal|Roosevelt,Theodore.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.protect|Roosevelt,Theodore.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.private|Roosevelt,Theodore.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.personal|Roosevelt,Theodore.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.secret|Roosevelt,Theodore.secret]]"
-  part_of: "[[Theodore_Roosevelt]]"
+  - '[[../../../../WikiData/WD~Theodore_Roosevelt,33866|WD~Theodore_Roosevelt,33866]]'
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore|Roosevelt,Theodore]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.public|Roosevelt,Theodore.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.internal|Roosevelt,Theodore.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.protect|Roosevelt,Theodore.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.private|Roosevelt,Theodore.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.personal|Roosevelt,Theodore.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.secret|Roosevelt,Theodore.secret]]'
+  part_of: '[[Theodore_Roosevelt]]'
 dv_has_time_started: 1858-10-27
 dv_has_time_stopped: 1919-01-06
 dv_has_duration_years: 60
 dv_has_duration_: P60Y2M1W3D
-dv_is_different_from: "[[Roosevelt,Franklin_Delano]]"
-dv_has_ancestor: "[[Roosevelt,Nicholas]]"
+dv_is_different_from: '[[Roosevelt,Franklin_Delano]]'
+dv_has_ancestor: '[[Roosevelt,Nicholas]]'
 dv_has_created_quote:
-  - Speak softly and carry a big stick; you will go far.
-  - "[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]]"
+- Speak softly and carry a big stick; you will go far.
+- '[[_Standards/WikiData/WD~Alan_Turing_teddy_bear,47451142]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Theodore_Roosevelt,33866|WD~Theodore_Roosevelt,33866]]"
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore|Roosevelt,Theodore]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.public|Roosevelt,Theodore.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.internal|Roosevelt,Theodore.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.protect|Roosevelt,Theodore.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.private|Roosevelt,Theodore.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.personal|Roosevelt,Theodore.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.secret|Roosevelt,Theodore.secret]]"
-dv_is_part_of: "[[Theodore_Roosevelt]]"
+- '[[../../../../WikiData/WD~Theodore_Roosevelt,33866|WD~Theodore_Roosevelt,33866]]'
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore|Roosevelt,Theodore]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.public|Roosevelt,Theodore.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.internal|Roosevelt,Theodore.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.protect|Roosevelt,Theodore.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.private|Roosevelt,Theodore.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.personal|Roosevelt,Theodore.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.secret|Roosevelt,Theodore.secret]]'
+dv_is_part_of: '[[Theodore_Roosevelt]]'
 ---
-
 # [[Roosevelt,Theodore]] 
 
 has_time_started = `=this.dv_has_time_started`

@@ -1,9 +1,54 @@
 ---
 aliases:
-  - Anoplotheriidae
+- Anoplotheriidae
+- anoplotèrids
+- بیسلاحددان
+- 无防兽科
+- 無防獸科
 title: Anoplotheriidae
+has_id_wikidata: Q567678
+dv_has_:
+  name_:
+    an: Anoplotheriidae
+    ast: Anoplotheriidae
+    bg: Anoplotheriidae
+    ca: anoplotèrids
+    ceb: Anoplotheriidae
+    de: Anoplotheriidae
+    en: Anoplotheriidae
+    eo: Anoplotheriidae
+    es: Anoplotheriidae
+    eu: Anoplotheriidae
+    ext: Anoplotheriidae
+    fa: بیسلاحددان
+    fi: Anoplotheriidae
+    fr: Anoplotheriidae
+    ga: Anoplotheriidae
+    gl: Anoplotheriidae
+    ia: Anoplotheriidae
+    ie: Anoplotheriidae
+    io: Anoplotheriidae
+    it: Anoplotheriidae
+    la: Anoplotheriidae
+    mul: Anoplotheriidae
+    nl: Anoplotheriidae
+    oc: Anoplotheriidae
+    pl: Anoplotheriidae
+    pt: Anoplotheriidae
+    pt-br: Anoplotheriidae
+    ro: Anoplotheriidae
+    ru: Anoplotheriidae
+    sq: Anoplotheriidae
+    uk: Anoplotheriidae
+    vec: Anoplotheriidae
+    vi: Anoplotheriidae
+    vo: Anoplotheriidae
+    war: Anoplotheriidae
+    zh: 无防兽科
+    zh-cn: 无防兽科
+    zh-hans: 无防兽科
+    zh-tw: 無防獸科
 ---
-
 # [[Anoplotheriidae]] 
 
 

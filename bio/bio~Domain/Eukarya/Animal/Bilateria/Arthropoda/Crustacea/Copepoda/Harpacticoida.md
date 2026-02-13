@@ -1,9 +1,74 @@
 ---
 aliases:
-  - Harpacticoida
+- Harpacticoid
+- Harpacticoida
+- plazivky
+- Rullikulised
+- Táyiʼ naatʼiʼí bitseeʼ nteelígíí
+- Гарпактициддер
+- Гарпактицидтер
+- гарпактициды
+- הרפקטיקואידיים
+- کوتاهشاخکسانان
+- ソコミジンコ
+- 猛水蚤目
 title: Harpacticoida
+has_id_wikidata: Q146286
+dv_has_:
+  name_:
+    an: Harpacticoida
+    ast: Harpacticoida
+    bg: Harpacticoida
+    ca: Harpacticoid
+    ceb: Harpacticoida
+    cs: plazivky
+    cy: Harpacticoida
+    da: Harpacticoida
+    de: Harpacticoida
+    en: Harpacticoida
+    eo: Harpacticoida
+    es: Harpacticoida
+    et: Rullikulised
+    eu: Harpacticoida
+    ext: Harpacticoida
+    fa: کوتاهشاخکسانان
+    fi: Harpacticoida
+    fr: Harpacticoida
+    ga: Harpacticoida
+    gl: Harpacticoida
+    he: הרפקטיקואידיים
+    ia: Harpacticoida
+    id: Harpacticoida
+    ie: Harpacticoida
+    io: Harpacticoida
+    it: Harpacticoida
+    ja: ソコミジンコ
+    kk: Гарпактицидтер
+    ky: Гарпактициддер
+    la: Harpacticoida
+    mul: Harpacticoida
+    nb: Harpacticoida
+    nl: Harpacticoida
+    nn: Harpacticoida
+    nv: Táyiʼ naatʼiʼí bitseeʼ nteelígíí
+    oc: Harpacticoida
+    pl: Harpacticoida
+    pt: Harpacticoida
+    pt-br: Harpacticoida
+    ro: Harpacticoida
+    ru: гарпактициды
+    sq: Harpacticoida
+    sv: Harpacticoida
+    tr: Harpacticoida
+    uk: Harpacticoida
+    vi: Harpacticoida
+    vo: Harpacticoida
+    war: Harpacticoida
+    zh: 猛水蚤目
+    zh-cn: 猛水蚤目
+    zh-hans: 猛水蚤目
+    zh-tw: 猛水蚤目
 ---
-
 # [[Harpacticoida]] 
 ![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg) 
 ## #has_/text_of_/abstract 

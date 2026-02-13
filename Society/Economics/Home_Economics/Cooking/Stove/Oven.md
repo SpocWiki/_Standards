@@ -1,27 +1,109 @@
 ---
 aliases:
-  - Oven
-  - Ofen
+- Ahi
+- Argûn
+- bratruła
+- bɛɖɛɛ̀-mú-pĩ̀iǹ-gbò
+- cuptor
+- Fonoo
+- For
+- Forn
+- forno
+- Fornu
+- four
+- Furneddu
+- Furnus
+- Furra
+- Fırın
+- Hang-lô͘
+- horno
+- Hurno
+- Kakalis
+- ketuhar
+- Krosnis
+- krāsns
+- labe
+- lò
+- noven
+- Ofen
+- Ofn
+- oigheann
+- Omn
+- oond
+- Orno
+- Oven
+- ovn
+- pec
+- Peć
+- pećnica
+- pečica
+- piekarnik
+- popty
+- Päč
+- Q'uncha
+- Qhiri
+- Schäffchen
+- Soba
+- sütő / kemence
+- Tatakua
+- ugn
+- Une
+- uuni
+- Àbhainn
+- ǩiiuǥân
+- Φούρνος
+- φουρνίν
+- Бловдер
+- Кăмака
+- Камака
+- Мейес
+- Меш
+- Онджэкъ
+- піч
+- пећница
+- печ
+- печка
+- печь
+- Пеш
+- Пянакуд
+- Фурна
+- ջեռոց
+- אויוון
+- תנור אפייה
+- الفران
+- الفرن
+- فر آشپزی
+- فرن
+- अवन
+- चुल्हो
+- ওভেন
+- పొయ్యి
+- ᱪᱩᱞᱦᱟᱹ
+- オーブン
+- 烤炉
+- 烤爐
+- 焗爐
+- 오븐
 has_id_wikidata: Q36539
 different_from:
-  - '[[_Standards/WikiData/WD~kitchen_stove,182995]]'
-  - '[[_Standards/WikiData/WD~stove,203789]]'
-  - '[[_Standards/WikiData/WD~central_heating_unit,10715538]]'
+- '[[_Standards/WikiData/WD~kitchen_stove,182995]]'
+- '[[_Standards/WikiData/WD~stove,203789]]'
+- '[[_Standards/WikiData/WD~central_heating_unit,10715538]]'
 has_use:
-  - '[[_Standards/WikiData/WD~grilling,264619]]'
-  - '[[_Standards/WikiData/WD~frying,300472]]'
+- '[[_Standards/WikiData/WD~grilling,264619]]'
+- '[[_Standards/WikiData/WD~frying,300472]]'
 described_by_source:
-  - '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 used_by: '[[_Standards/WikiData/WD~pizzaiolo,3389507]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~major_appliance,12269769]]'
-  - '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
-  - '[[_Standards/WikiData/WD~heating_equipment,111509483]]'
+- '[[_Standards/WikiData/WD~major_appliance,12269769]]'
+- '[[_Standards/WikiData/WD~cooking_appliance,57583712]]'
+- '[[_Standards/WikiData/WD~heating_equipment,111509483]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Oven,22862253]]'
 start_time: -29000-06
 Nomenclature_for_Museum_Cataloging: 4110
@@ -31,9 +113,112 @@ Commons_category: Ovens
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20la%20Reunificaci%C3%B3n%2C%20Ciudad%20Ho%20Chi%20Minh%2C%20Vietnam%2C%202013-08-14%2C%20DD%2028.JPG
 EAGLE_id: objtyp/lod/332
 OpenStreetMap_tag: Tag:amenity=baking_oven
+dv_has_:
+  name_:
+    ady: Онджэкъ
+    af: oond
+    ak: Fonoo
+    an: Forno
+    ar: الفرن
+    arq: الفران
+    arz: فرن
+    ast: Fornu
+    ay: Qhiri
+    az: Soba
+    ba: Мейес
+    bas: bɛɖɛɛ̀-mú-pĩ̀iǹ-gbò
+    be: печ
+    be-tarask: печ
+    bg: Фурна
+    bho: अवन
+    bn: ওভেন
+    br: Forn
+    bs: pećnica
+    ca: forn
+    ceb: Orno
+    cs: pec
+    cv: Кăмака
+    cy: popty
+    da: ovn
+    de: Ofen
+    el: Φούρνος
+    en: oven
+    en-gb: oven
+    eo: forno
+    es: horno
+    et: Ahi
+    eu: labe
+    fa: فر آشپزی
+    fi: uuni
+    fr: four
+    fy: Une
+    ga: oigheann
+    gd: Àbhainn
+    gl: Forno
+    gn: Tatakua
+    he: תנור אפייה
+    hr: peć
+    hu: sütő / kemence
+    hy: ջեռոց
+    id: oven
+    io: Forno
+    is: Ofn
+    it: forno
+    ja: オーブン
+    jv: Oven
+    kk: Пеш
+    ko: 오븐
+    ku: Argûn
+    ky: Меш
+    la: Furnus
+    lb: Schäffchen
+    lmo: Forn
+    lt: Krosnis
+    lv: krāsns
+    mdf: Пянакуд
+    mk: печка
+    mrj: Камака
+    ms: ketuhar
+    mt: forn
+    nan: Hang-lô͘
+    nb: ovn
+    nds-nl: noven
+    ne: चुल्हो
+    nl: oven
+    nn: Omn
+    pl: piekarnik
+    pms: Forn
+    pnt: φουρνίν
+    pt: forno
+    pt-br: forno
+    qu: Q'uncha
+    ro: cuptor
+    ru: печь
+    rue: Бловдер
+    sat: ᱪᱩᱞᱦᱟᱹ
+    scn: Furneddu
+    sgs: Kakalis
+    sh: Peć
+    sk: pec
+    sl: pečica
+    sms: ǩiiuǥân
+    sq: Furra
+    sr: пећница
+    sr-ec: пећница
+    sv: ugn
+    szl: bratruła
+    te: పొయ్యి
+    tl: Hurno
+    tr: Fırın
+    uk: піч
+    vep: Päč
+    vi: lò
+    wa: For
+    wuu: 烤炉
+    yi: אויוון
+    yue: 焗爐
+    zh: 烤爐
 ---
-
-
 # [[Oven]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Oven,36539|WD~Oven,36539]]

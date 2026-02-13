@@ -1,9 +1,53 @@
 ---
 aliases:
-  - Dionycha
+- Dionycha
+- Διόνυχα
+- ثنائيات المخالب
+- 两爪类
 title: Dionycha
+has_id_wikidata: Q1226966
+dv_has_:
+  name_:
+    an: Dionycha
+    ar: ثنائيات المخالب
+    arz: ثنائيات المخالب
+    ast: Dionycha
+    bg: Dionycha
+    ca: Dionycha
+    ceb: Dionycha
+    de: Dionycha
+    el: Διόνυχα
+    en: Dionycha
+    eo: Dionycha
+    es: Dionycha
+    eu: Dionycha
+    ext: Dionycha
+    fi: Dionycha
+    fr: Dionycha
+    ga: Dionycha
+    gl: Dionycha
+    ia: Dionycha
+    ie: Dionycha
+    io: Dionycha
+    it: Dionycha
+    la: Dionycha
+    mul: Dionycha
+    nl: Dionycha
+    oc: Dionycha
+    pl: Dionycha
+    pt: Dionycha
+    pt-br: Dionycha
+    ro: Dionycha
+    ru: Dionycha
+    sq: Dionycha
+    uk: Dionycha
+    vi: Dionycha
+    vo: Dionycha
+    war: Dionycha
+    zh: 两爪类
+    zh-cn: 两爪类
+    zh-hans: 两爪类
 ---
-
 # Dionycha 
 ![Trachelas_tranquillus.](Dionycha/Trachelas_tranquillus.jpg)) ![Misumenoides_formosipes](Dionycha/Misumenoides_formosipes.jpg))  ![Herpyllus_ecclesiasticus](Dionycha/Herpyllus_ecclesiasticus.jpg) 
 

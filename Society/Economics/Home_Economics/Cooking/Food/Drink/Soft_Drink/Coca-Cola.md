@@ -1,34 +1,74 @@
 ---
-has_time_started: 1886-05-08 
+has_time_started: 1886-05-08
 aliases:
-  - Coke
-  - Cola
-  - Coca-Cola
+- Coca cola
+- Coca-Cola
+- Coke
+- Cola
+- Còca Còla
+- Gojgouj Gojloz
+- Koka-Kola
+- Koka-kolao
+- Kòká Kolà
+- telo Koka Kola
+- Кока кола
+- Кока-Кола
+- Կոկա-Կոլա
+- Քոքա-քոլա
+- קאקא קאלע
+- קוקה-קולה
+- كوكا كولا
+- کوکا کولا
+- کوکاکولا
+- کۆکا کۆلا
+- ކޮކާ ކޯލާ
+- कोका कोला
+- कोका-कोला
+- কোকা-কোলা
+- কোকাকোলা
+- ਕੋਕਾ ਕੋਲਾ
+- કોકા કોલા
+- கொக்கக் கோலா
+- కోకా కోలా
+- ಕೋಕಾ-ಕೋಲಾ
+- കൊക്ക-കോള
+- කොකා කෝලා
+- โคคา-โคล่า
+- ཁོལ་ཁོལ་ཁུ་ནག
+- ကိုကာကိုလာ
+- კოკა-კოლა
+- ኮካ ኮላ
+- ᖂᖄ ᑰᓛ
+- ᱠᱳᱠᱟ-ᱠᱳᱞᱟ
+- コカ・コーラ
+- 可口可乐
+- 可口可樂
+- 코카콜라
 has_id_wikidata: Q2813
 subclass_of:
-  - '[[_Standards/WikiData/WD~cola,134041]]'
+- '[[_Standards/WikiData/WD~cola,134041]]'
 named_after:
-  - '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
-  - '[[_Standards/WikiData/WD~kola_nut,912522]]'
+- '[[_Standards/WikiData/WD~Erythroxylum_coca,158018]]'
+- '[[_Standards/WikiData/WD~kola_nut,912522]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~trademark,167270]]'
-  - '[[_Standards/WikiData/WD~drink_brand,114392939]]'
+- '[[_Standards/WikiData/WD~trademark,167270]]'
+- '[[_Standards/WikiData/WD~drink_brand,114392939]]'
 has_listed_ingredient:
-  - '[[_Standards/WikiData/WD~phosphoric_acid,184782]]'
-  - '[[_Standards/WikiData/WD~caramel_color,227816]]'
-  - '[[_Standards/WikiData/WD~carbonated_water,264554]]'
-  - '[[_Standards/WikiData/WD~high_fructose_corn_syrup,11422173]]'
-  - '[[_Standards/WikiData/WD~caffeine,60235]]'
+- '[[_Standards/WikiData/WD~phosphoric_acid,184782]]'
+- '[[_Standards/WikiData/WD~caramel_color,227816]]'
+- '[[_Standards/WikiData/WD~carbonated_water,264554]]'
+- '[[_Standards/WikiData/WD~high_fructose_corn_syrup,11422173]]'
+- '[[_Standards/WikiData/WD~caffeine,60235]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~John_Pemberton,215959]]'
 container:
-  - '[[_Standards/WikiData/WD~plastic_bottle,1757946]]'
-  - '[[_Standards/WikiData/WD~glass_bottle,5567094]]'
+- '[[_Standards/WikiData/WD~plastic_bottle,1757946]]'
+- '[[_Standards/WikiData/WD~glass_bottle,5567094]]'
 manufacturer: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]'
 owned_by: '[[_Standards/WikiData/WD~The_Coca_Cola_Company,3295867]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Varieties_of_Coca_Cola,10305053]]'
 different_from:
-  - '[[_Standards/WikiData/WD~coca_plant,66793593]]'
-  - '[[_Standards/WikiData/WD~Pepsi,47719]]'
+- '[[_Standards/WikiData/WD~coca_plant,66793593]]'
+- '[[_Standards/WikiData/WD~Pepsi,47719]]'
 inception: 1886-05-08T00:00:00Z
 country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
 country: '[[_Standards/WikiData/WD~United_States,30]]'
@@ -42,11 +82,11 @@ YouTube_handle: Coca-Cola
 Commons_gallery: Coca-Cola
 Commons_category: Coca-Cola
 short_name:
-  - Cola
-  - Coca
-  - Coke
-  - كوكا
-  - cola
+- Cola
+- Coca
+- Coke
+- كوكا
+- cola
 U_S_trademark_serial_number: 78509545
 Global_Trade_Item_Number: 500112548280
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coca-Cola%20logo.svg
@@ -57,14 +97,94 @@ DPLA_subject_term: Coca Cola (Trademark)
 Danbooru_tag: coca-cola
 IMDb_keyword: coca-cola
 X_Twitter_username:
-  - CocaCola
-  - CocaCola_NG
+- CocaCola
+- CocaCola_NG
 Facebook_username: CocaColaUnitedStates
 Wolfram_Language_entity_code: Entity["Food", "CocaCola::j5pww"]
 motto_text: Be Open Like Never Before
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coca%20Cola%20Flasche%20-%20Original%20Taste.jpg
+dv_has_:
+  name_:
+    am: ኮካ ኮላ
+    anp: कोका कोला
+    ar: كوكا كولا
+    ary: كوكا كولا
+    arz: كوكا كولا
+    as: কোকাকোলা
+    awa: कोका कोला
+    az: Koka-Kola
+    azb: کوکا کولا
+    be: Кока-Кола
+    be-tarask: Кока-Кола
+    bg: Кока-Кола
+    bn: কোকা-কোলা
+    bo: ཁོལ་ཁོལ་ཁུ་ནག
+    ckb: کۆکا کۆلا
+    dty: कोका कोला
+    dv: ކޮކާ ކޯލާ
+    en: Coca-Cola
+    en-gb: Coca-Cola
+    eo: Koka-kolao
+    fa: کوکاکولا
+    gu: કોકા કોલા
+    ha: Coca-cola
+    he: קוקה-קולה
+    hi: कोका कोला
+    ht: Coca-cola
+    hy: Կոկա-Կոլա
+    hyw: Քոքա-քոլա
+    ig: Coca-cola
+    iu: ᖂᖄ ᑰᓛ
+    ja: コカ・コーラ
+    ka: კოკა-კოლა
+    kaa: Coca cola
+    kk: Кока-кола
+    kn: ಕೋಕಾ-ಕೋಲಾ
+    ko: 코카콜라
+    ku: Coca Cola
+    la: Coca-Cola
+    mai: कोका कोला
+    min: Coca Cola
+    mk: Кока-Кола
+    ml: കൊക്ക-കോള
+    mn: Кока кола
+    mr: कोका-कोला
+    mul: Coca-Cola
+    my: ကိုကာကိုလာ
+    mzn: کوکاکولا
+    ne: कोका-कोला
+    pa: ਕੋਕਾ ਕੋਲਾ
+    pms: Còca Còla
+    pnb: کوکا کولا
+    ps: کوکا کولا
+    ru: Кока-кола
+    sat: ᱠᱳᱠᱟ-ᱠᱳᱞᱟ
+    si: කොකා කෝලා
+    so: Koka-Kola
+    sr: Кока-кола
+    sr-ec: Кока-кола
+    ta: கொக்கக் கோலா
+    te: కోకా కోలా
+    tg: Кока-Кола
+    th: โคคา-โคล่า
+    tok: telo Koka Kola
+    tt: Кока-Кола
+    tt-cyrl: Кока-Кола
+    uk: Кока-кола
+    ur: کوکا کولا
+    wuu: 可口可乐
+    xmf: კოკა-კოლა
+    yi: קאקא קאלע
+    yo: Kòká Kolà
+    yue: 可口可樂
+    za: Gojgouj Gojloz
+    zh: 可口可樂
+    zh-cn: 可口可乐
+    zh-hans: 可口可乐
+    zh-hant: 可口可樂
+    zh-sg: 可口可乐
+    zh-tw: 可口可樂
 ---
-
 # [[Coca-Cola]] 
 
 #has_/text_of_/recipe_ingredient :: [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Coca]], [[../../../../../../../bio/Medicine/Drug/Drug-Dealing/Kola_Nut]] 

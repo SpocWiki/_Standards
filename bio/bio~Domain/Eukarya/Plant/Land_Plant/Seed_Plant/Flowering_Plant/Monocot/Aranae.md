@@ -1,12 +1,66 @@
 ---
 aliases:
-  - aroid
-  - Arana
-  - Ariflorae
-  - Aranae
+- Arales
+- Arana
+- Aranae
+- Ariflorae
+- aroid
+- Aroniečiai
+- Arumaloj
+- Obrazkowce
+- torzsavirágzatúak
+- árónotvaré
+- لوفيات
+- サトイモ目
+- 天南星目
 title: Aranae
+has_id_wikidata: Q773378
+dv_has_:
+  name_:
+    an: Arales
+    ar: لوفيات
+    arz: لوفيات
+    ast: Arales
+    bg: Arales
+    ca: Arales
+    ceb: Arales
+    cs: árónotvaré
+    de: Arales
+    en: Arales
+    eo: Arumaloj
+    es: Arales
+    eu: Arales
+    ext: Arales
+    fi: Arales
+    fr: Arales
+    ga: Arales
+    gl: Arales
+    hu: torzsavirágzatúak
+    ia: Arales
+    id: Arales
+    ie: Arales
+    io: Arales
+    it: Arales
+    ja: サトイモ目
+    la: Arales
+    lt: Aroniečiai
+    mul: Arales
+    nl: Arales
+    oc: Arales
+    pl: Obrazkowce
+    pt: Arales
+    pt-br: Arales
+    ro: Arales
+    ru: Arales
+    sl: Arales
+    sq: Arales
+    sv: Arales
+    uk: Arales
+    vi: Arales
+    vo: Arales
+    war: Arales
+    zh: 天南星目
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

@@ -1,22 +1,221 @@
 ---
 aliases:
+- Ahoskera
+- Aussprache
+- Aussprooch
+- aytılıw
+- Bigkas
+- bilêvkirin
+- Framburður
+- fuaimniú
+- furuci
+- Higaadi
+- Ho͘-im
+- hääldus
+- izgovaranje
+- izgovarjava
+- izruna
+- kiejtés
+- Matamshi
+- mkpọpụta okwu
+- Oetsjpraok
+- pagsayod
+- pelafalan
+- phát âm
+- prononciacion
+- prononciation
+- prononco
+- pronuncia
+- pronunciació
+- pronunciación
+- pronunciation
+- Pronunco
+- pronunsamento
+- pronunsiashon
+- Pronuntiatus
+- pronuntzia
+- pronunție
+- pronúncia
+- prununcia
+- sebutan
+- Shqiptimi
+- söyleyiş
+- Tarimas (fonetika)
+- Tarėms
+- udtale
+- uitspraak
+- Utspraak
+- Utsproke
+- uttal
+- uttale
+- Vatış
+- vlaba'u
+- výslovnost
+- výslovnosť
+- wymowa
+- Ynganiad
+- ääntäminen
+- προφορά
+- вимова
+- вымаўленне
+- вымаўленьне
+- Дуудлага
+- изговор
+- Каласа кăларни
+- произношение
+- талаффуз
+- әйтелеш
+- Өндәрҙе әйтеү
+- առոգանություն
+- הגייה
+- اچار
+- تلفظ
+- سبوتن
+- نطق
+- उच्चारण
+- উচ্চারণ
+- ઉચ્ચાર
+- ஒலிப்பு
+- ఉచ్ఛారణ
+- ಉಚ್ಛಾರಣೆ
+- ഉച്ചാരണം
+- ඉසිරැවීම
+- การออกเสียง
+- ရမျာင်
+- အသံထွက်
+- አነባበብ
+- 发音
+- 発音
+- 發音
+- 讀法
+- 讀音
+- 读音
+- 발음
 has_id_wikidata: Q184377
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
-subclass_of: "[[_Standards/WikiData/WD~rule,1151067]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Audio_IPA,6190820]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q12493444,12493444]]"
-different_from: "[[_Standards/WikiData/WD~pronunciation_audio,108167708]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+subclass_of: '[[_Standards/WikiData/WD~rule,1151067]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Audio_IPA,6190820]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12493444,12493444]]'
+different_from: '[[_Standards/WikiData/WD~pronunciation_audio,108167708]]'
 Wikidata_property: pronunciation
-part_of: "[[_Standards/WikiData/WD~language,34770]]"
-studied_by: "[[_Standards/WikiData/WD~phonetics,35395]]"
+part_of: '[[_Standards/WikiData/WD~language,34770]]'
+studied_by: '[[_Standards/WikiData/WD~phonetics,35395]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%89%E0%AC%9A%E0%AD%8D%E0%AC%9A%E0%AC%BE%E0%AC%B0%E0%AC%A3.wav
 Stack_Exchange_tag: https://linguistics.stackexchange.com/tags/pronunciation
 Commons_category: Pronunciation
+dv_has_:
+  name_:
+    am: አነባበብ
+    ar: نطق
+    ast: Pronunciación
+    ba: Өндәрҙе әйтеү
+    bcl: pagsayod
+    be: вымаўленне
+    be-tarask: вымаўленьне
+    bn: উচ্চারণ
+    bs: izgovaranje
+    ca: pronunciació
+    co: prununcia
+    cs: výslovnost
+    cv: Каласа кăларни
+    cy: Ynganiad
+    da: udtale
+    de: Aussprache
+    diq: Vatış
+    el: προφορά
+    en: pronunciation
+    en-gb: pronunciation
+    eo: prononco
+    es: pronunciación
+    et: hääldus
+    eu: Ahoskera
+    fa: تلفظ
+    fi: ääntäminen
+    fr: prononciation
+    fy: Utspraak
+    ga: fuaimniú
+    gl: pronunciación
+    gu: ઉચ્ચાર
+    ha: furuci
+    he: הגייה
+    hi: उच्चारण
+    hif: Pronunciation
+    hu: kiejtés
+    hy: առոգանություն
+    id: pelafalan
+    ig: mkpọpụta okwu
+    io: Pronunco
+    is: Framburður
+    it: pronuncia
+    ja: 発音
+    jbo: vlaba'u
+    kaa: aytılıw
+    kn: ಉಚ್ಛಾರಣೆ
+    ko: 발음
+    ku-latn: bilêvkirin
+    la: Pronuntiatus
+    lb: Aussprooch
+    li: Oetsjpraok
+    lt: Tarimas (fonetika)
+    lv: izruna
+    mk: изговор
+    ml: ഉച്ചാരണം
+    mn: Дуудлага
+    mnw: ရမျာင်
+    ms: sebutan
+    ms-arab: سبوتن
+    my: အသံထွက်
+    nan: Ho͘-im
+    nb: uttale
+    nds: Utsproke
+    ne: उच्चारण
+    new: उच्चारण
+    nl: uitspraak
+    nn: uttale
+    oc: prononciacion
+    pap: pronunsiashon
+    pl: wymowa
+    pt: pronúncia
+    ro: pronunție
+    ru: произношение
+    sc: pronuntzia
+    sco: pronunciation
+    sd: اچار
+    sgs: Tarėms
+    si: ඉසිරැවීම
+    sk: výslovnosť
+    sl: izgovarjava
+    so: Higaadi
+    sq: Shqiptimi
+    sr: изговор
+    sr-ec: изговор
+    sv: uttal
+    sw: Matamshi
+    ta: ஒலிப்பு
+    te: ఉచ్ఛారణ
+    tg: талаффуз
+    th: การออกเสียง
+    tl: Bigkas
+    tr: söyleyiş
+    tt: әйтелеш
+    tt-cyrl: әйтелеш
+    uk: вимова
+    ur: تلفظ
+    vec: pronunsamento
+    vi: phát âm
+    wuu: 发音
+    yue: 讀法
+    zh: 發音
+    zh-cn: 读音
+    zh-hans: 读音
+    zh-hant: 發音
+    zh-hk: 讀音
+    zh-sg: 读音
+    zh-tw: 發音
 ---
-
 # [[Pronunciation]] 
 
 #is_/same_as :: [[WD~Pronunciation,184377]] 

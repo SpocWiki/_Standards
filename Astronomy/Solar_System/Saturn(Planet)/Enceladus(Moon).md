@@ -1,30 +1,74 @@
 ---
 aliases:
+- Ancélado
+- Encelada (luna)
+- Enceladas
+- Encelade
+- Encelado
+- Encelado (satelite)
+- Enceladu
+- Enceladus
+- Enceladus (oē-chheⁿ)
+- Enceladws
+- Encelāds
+- Encèlad
+- Encèladu
+- Encélado
+- Enkelad
+- Enselad
+- Entzelado
+- mun Enkelatu
+- Énséladus (satelit)
+- Εγκέλαδος
+- Енкелад
+- Енцелад
+- Энселадус
+- Энцелад
+- Энцэлад, спадарожнік Сатурна
+- Энцэляд
+- Էնկելադուս
+- אנקלדוס
+- إنسيلادوس
+- ئێنسلادوس
+- انسلادوس
+- ऍनसॅलअडस
+- एन्सेलाडस
+- என்சலடசு
+- എൻസിലാഡസ്
+- เอนเซลาดัส
+- အန်ဆဲလ်ဒပ်စ်
+- ენცელადი
+- ᎡᏂᏎᎳᏛᏍ
+- エンケラドゥス
+- 土卫二
+- 土衛二
+- 土衞二
+- 엔셀라두스
 has_id_wikidata: Q3303
-named_after: "[[_Standards/WikiData/WD~Enceladus,845112]]"
+named_after: '[[_Standards/WikiData/WD~Enceladus,845112]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~regular_moon,1086783]]"
-  - "[[_Standards/WikiData/WD~moon_of_Saturn,1972]]"
-connects_with: "[[_Standards/WikiData/WD~E_Ring,1109971]]"
-has_characteristic: "[[_Standards/WikiData/WD~Q16652028,16652028]]"
-described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Herschel,14277]]"
-parent_astronomical_body: "[[_Standards/WikiData/WD~Saturn,193]]"
+- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~moon_of_Saturn,1972]]'
+connects_with: '[[_Standards/WikiData/WD~E_Ring,1109971]]'
+has_characteristic: '[[_Standards/WikiData/WD~Q16652028,16652028]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Herschel,14277]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Saturn,193]]'
 orbital_inclination: 0.009
 orbital_eccentricity: 0.0047
 temperature:
-  - 75
-  - 145
-  - 32.9
+- 75
+- 145
+- 32.9
 apparent_magnitude: 11.8
 orbital_period: 1.37
 albedo: 1.375
 radius: 252.1
-OmegaWiki_Defined_Meaning: "1619436"
+OmegaWiki_Defined_Meaning: 1619436
 semi_major_axis_of_an_orbit: 237948
 volume_as_quantity:
-  - 1.370218
-  - 67113076
+- 1.370218
+- 67113076
 mass: 108043390000000000000
 Commons_gallery: Enceladus
 Commons_category: Enceladus
@@ -38,25 +82,125 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Enceladus"]
 time_of_discovery_or_invention: 1789-08-28T00:00:00Z
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]]"
-    - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]]"
-    - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]]"
-    - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]]"
-    - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]]"
-    - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]]"
-    - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]]"
-    - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]]"
+  - '[[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]]'
+  - '[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]]'
+  - '[[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]]'
+  - '[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]]'
+  - '[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]]'
+  - '[[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]]'
+  - '[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]]'
+  - '[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]]"
-  - "[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]]"
-  - "[[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]]"
-  - "[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]]"
-  - "[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]]"
-  - "[[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]]"
-  - "[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]]"
-  - "[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]]"
+- '[[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]]'
+- '[[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]]'
+- '[[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]]'
+- '[[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]]'
+- '[[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]]'
+- '[[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]]'
+- '[[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]]'
+- '[[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]]'
+dv_has_:
+  name_:
+    af: Enceladus
+    an: Encelado (satelite)
+    ar: إنسيلادوس
+    az: Enselad
+    azb: انسلادوس
+    ba: Энцелад
+    be: Энцэлад, спадарожнік Сатурна
+    be-tarask: Энцэляд
+    bg: Енцелад
+    bs: Enkelad
+    ca: Encèlad
+    cdo: Enceladus
+    chr: ᎡᏂᏎᎳᏛᏍ
+    ckb: ئێنسلادوس
+    co: Enceladu
+    cs: Enceladus
+    cv: Энцелад
+    cy: Enceladws
+    da: Enceladus
+    de: Enceladus
+    el: Εγκέλαδος
+    en: Enceladus
+    eo: Encelado
+    es: Encélado
+    et: Enceladus
+    eu: Entzelado
+    fa: انسلادوس
+    fi: Enceladus
+    fr: Encelade
+    ga: Enceladus
+    gl: Encélado
+    gsw: Enceladus
+    gv: Enceladus
+    he: אנקלדוס
+    hi: ऍनसॅलअडस
+    hif: Enceladus
+    hr: Enkelad
+    hu: Enceladus
+    hy: Էնկելադուս
+    id: Enceladus
+    io: Enceladus
+    it: Encelado
+    ja: エンケラドゥス
+    jv: Énséladus (satelit)
+    ka: ენცელადი
+    kk: Энцелад
+    ko: 엔셀라두스
+    kv: Энцелад
+    la: Enceladus
+    lb: Enceladus
+    lmo: Encelado
+    lt: Enceladas
+    lv: Encelāds
+    lzh: 土衛二
+    mk: Енкелад
+    ml: എൻസിലാഡസ്
+    mn: Энселадус
+    mr: एन्सेलाडस
+    ms: Enceladus
+    mwl: Ancélado
+    my: အန်ဆဲလ်ဒပ်စ်
+    nan: Enceladus (oē-chheⁿ)
+    nb: Enceladus
+    nl: Enceladus
+    nn: Enceladus
+    oc: Encelada (luna)
+    pl: Enceladus
+    pnb: انسلادوس
+    pt: Encélado
+    pt-br: Encélado
+    ro: Enceladus
+    ru: Энцелад
+    scn: Encèladu
+    sco: Enceladus
+    sh: Enkelad
+    sk: Enceladus
+    sl: Enkelad
+    sr: Енцелад
+    srn: Enceladus
+    sv: Enceladus
+    ta: என்சலடசு
+    th: เอนเซลาดัส
+    tl: Enceladus
+    tok: mun Enkelatu
+    tr: Enceladus
+    tt: Энцелад
+    uk: Енцелад
+    ur: انسلادوس
+    uz: Enselad
+    vi: Enceladus
+    war: Enceladus
+    wuu: 土卫二
+    yue: 土衞二
+    zh: 土衛二
+    zh-cn: 土卫二
+    zh-hans: 土卫二
+    zh-hant: 土衛二
+    zh-hk: 土衛二
+    zh-tw: 土衛二
 ---
-
 # [[Enceladus(Moon)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Enceladus,3303|WD~Enceladus,3303]] 

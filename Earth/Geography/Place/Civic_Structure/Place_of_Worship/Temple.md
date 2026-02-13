@@ -1,25 +1,257 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]"
-    - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple|Temple]]"
-    - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public|Temple.public]]"
-    - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal|Temple.internal]]"
-    - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect|Temple.protect]]"
-    - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]"
-    - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]"
-    - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]"
+  - '[[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]'
+  - '[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple|Temple]]'
+  - '[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public|Temple.public]]'
+  - '[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal|Temple.internal]]'
+  - '[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect|Temple.protect]]'
+  - '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]'
+  - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]'
+  - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]'
 dv_is_same_as:
-  - "[[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]"
-  - "[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple|Temple]]"
-  - "[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public|Temple.public]]"
-  - "[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal|Temple.internal]]"
-  - "[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect|Temple.protect]]"
-  - "[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]"
-  - "[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]"
-  - "[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]"
+- '[[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]'
+- '[[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple|Temple]]'
+- '[[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.public|Temple.public]]'
+- '[[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.internal|Temple.internal]]'
+- '[[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.protect|Temple.protect]]'
+- '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.private|Temple.private]]'
+- '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.personal|Temple.personal]]'
+- '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Temple.secret|Temple.secret]]'
+has_id_wikidata: Q44539
+dv_has_:
+  name_:
+    af: tempel
+    am: ቤተ መቅደስ
+    ar: معبد
+    arz: معبد
+    ast: templu
+    az: məbəd
+    azb: معبد
+    be: храм
+    be-tarask: храм
+    bg: храм
+    bho: टेम्पल
+    bn: মন্দির
+    bs: hram
+    ca: temple
+    ce: йерд
+    cs: chrám
+    csb: swiãtnica
+    cu: свѧтꙑни
+    cy: teml
+    da: tempel
+    de: Tempel
+    diq: perestışge
+    dsb: swětnica
+    el: ναός
+    en: temple
+    en-ca: temple
+    en-gb: temple
+    eo: templo
+    es: templo
+    et: tempel
+    eu: tenplu
+    fa: پرستشگاه
+    fi: temppeli
+    fj: Valetabu
+    fr: temple
+    fy: Timpel
+    ga: teampall
+    gd: teampall
+    gl: templo
+    gn: opy
+    got: "\U00010330\U0001033B\U00010337\U00010343"
+    grc: ναός
+    gsw: Tämpel
+    gu: મંદિર
+    ha: majami'a
+    he: מקדש
+    hi: मन्दिर
+    hr: hram
+    hu: szentély
+    hy: տաճար
+    ia: templo
+    id: kuil
+    io: templo
+    it: tempio
+    ja: 神殿
+    ka: ტაძარი
+    kaa: ibadatxana
+    kk: ғибадатхана
+    kn: ದೇವಸ್ಥಾನ
+    ko: 사원
+    ku: perestgeh
+    ku-latn: perestgeh
+    la: templum
+    lb: Tempel
+    lfn: templo
+    ln: tɛmpɛlɔ́
+    lt: šventykla
+    lv: templis
+    lzh: 神廟
+    mg: tempoly
+    mk: храм
+    ml: ക്ഷേത്രം
+    mnc: ᠵᡠᡴᡨᡝᡥᡝᠨ
+    mni: ꯂꯥꯢꯁꯪ
+    mr: मंदिर
+    ms: kuil
+    ms-arab: کوءيل
+    my: ဘုရားကျောင်း
+    myv: озномакудо
+    mzn: پرسسشگا
+    nb: tempel
+    ne: मन्दिर
+    new: देगः
+    nl: tempel
+    nn: tempel
+    nrm: templle
+    oc: temple
+    or: ଦେଉଳ
+    pa: ਮੰਦਰ
+    pl: świątynia
+    pnb: مندر
+    ps: معبد
+    pt: templo
+    pt-br: templo
+    qu: manqus wasi
+    rmf: templos
+    ro: templu
+    ru: храм
+    sa: देवालयः
+    scn: Tempiu
+    se: tempel
+    sh: hram
+    shn: ဝတ်ႉ
+    si: දේවාල
+    sk: chrám
+    sl: tempelj
+    smn: temppâl
+    sms: teʹmppel
+    so: Xawaad
+    sq: tempull
+    sr: храм
+    sr-ec: храм
+    sv: tempel
+    sw: hekalu
+    szl: świōntynia
+    ta: கோயில்
+    tcy: ದೇವಸ್ತಾನ
+    te: దేవాలయం
+    tg: парастишгоҳ
+    th: เทวสถาน
+    tl: templo
+    tr: tapınak
+    tt: гыйбадәтханә
+    tt-cyrl: гыйбадәтханә
+    uk: храм
+    ur: معبد
+    uz: ibodatxona
+    vi: đền
+    war: templo
+    wuu: 寺
+    xmf: ოხიდა
+    yue: 廟
+    zh: 寺庙
+    zh-cn: 庙宇
+    zh-hans: 庙
+    zh-hant: 神廟
+    zh-hk: 神廟
+    zh-tw: 神廟
+aliases:
+- chrám
+- hekalu
+- hram
+- ibadatxana
+- ibodatxona
+- kuil
+- majami'a
+- manqus wasi
+- məbəd
+- opy
+- perestgeh
+- perestışge
+- swiãtnica
+- swětnica
+- szentély
+- tapınak
+- teampall
+- teml
+- tempel
+- tempelj
+- tempio
+- Tempiu
+- temple
+- templis
+- templle
+- templo
+- templos
+- templu
+- templum
+- tempoly
+- temppeli
+- temppâl
+- tempull
+- tenplu
+- teʹmppel
+- Timpel
+- Tämpel
+- tɛmpɛlɔ́
+- Valetabu
+- Xawaad
+- đền
+- świątynia
+- świōntynia
+- šventykla
+- ναός
+- гыйбадәтханә
+- йерд
+- озномакудо
+- парастишгоҳ
+- свѧтꙑни
+- храм
+- ғибадатхана
+- տաճար
+- מקדש
+- معبد
+- مندر
+- پرستشگاه
+- پرسسشگا
+- کوءيل
+- टेम्पल
+- देगः
+- देवालयः
+- मंदिर
+- मन्दिर
+- মন্দির
+- ਮੰਦਰ
+- મંદિર
+- ଦେଉଳ
+- கோயில்
+- దేవాలయం
+- ದೇವಸ್ತಾನ
+- ದೇವಸ್ಥಾನ
+- ക്ഷേത്രം
+- දේවාල
+- เทวสถาน
+- ဘုရားကျောင်း
+- ဝတ်ႉ
+- ოხიდა
+- ტაძარი
+- ቤተ መቅደስ
+- ᠵᡠᡴᡨᡝᡥᡝᠨ
+- 寺
+- 寺庙
+- 庙
+- 庙宇
+- 廟
+- 神廟
+- 神殿
+- ꯂꯥꯢꯁꯪ
+- 사원
+- "\U00010330\U0001033B\U00010337\U00010343"
 ---
-
 # [[Temple]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]  

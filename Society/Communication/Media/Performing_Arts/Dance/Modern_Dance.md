@@ -1,26 +1,113 @@
 ---
-has_time_started: 1900-01-01 
+has_time_started: 1900-01-01
 aliases:
+- Dans modern
+- Dansa Moderna
+- danse moderne
+- Danso modern
+- Dantza moderno
+- Danza moderna
+- dança moderna
+- Laikmetīgā deja
+- Modern Dance
+- modern dans
+- moderna danco
+- Moderne dans
+- moderne dûns
+- Moderni ples
+- Moderni tanssi
+- Moderntants
+- moderní tanec
+- Moderný tanec
+- Nhảy hiện đại
+- sodobni ples
+- Suvremeni ples
+- taniec nowoczesny
+- Tari modern
+- Šiuolaikinis šokis
+- Σύγχρονος χορός
+- мадэрновы танец
+- Модерен танц
+- Танец модерн
+- Танець модерн
+- מחול מודרני
+- رقص حديث
+- رقص مدرن
+- आधुनिक नृत्य
+- நவீன நடனம்
+- モダン・ダンス
+- 现代舞
+- 現代舞
+- 현대 무용
 has_id_wikidata: Q850130
-has_characteristic: "[[_Standards/WikiData/WD~cultural_heritage,210272]]"
-opposite_of: "[[_Standards/WikiData/WD~historical_dance,549130]]"
-subclass_of: "[[_Standards/WikiData/WD~concert_dance,1020618]]"
-intangible_cultural_heritage_status: "[[_Standards/WikiData/WD~German_Nationwide_Inventory_of_Intangible_Cultural_Heritage,19276012]]"
+has_characteristic: '[[_Standards/WikiData/WD~cultural_heritage,210272]]'
+opposite_of: '[[_Standards/WikiData/WD~historical_dance,549130]]'
+subclass_of: '[[_Standards/WikiData/WD~concert_dance,1020618]]'
+intangible_cultural_heritage_status: '[[_Standards/WikiData/WD~German_Nationwide_Inventory_of_Intangible_Cultural_Heritage,19276012]]'
 inception: 1900-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
-part_of: "[[_Standards/WikiData/WD~performing_arts,113143849]]"
+instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
+part_of: '[[_Standards/WikiData/WD~performing_arts,113143849]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 described_at_URL:
-  - https://www.unesco.de/kultur-und-natur/immaterielles-kulturerbe/immaterielles-kulturerbe-deutschland/moderner-tanz
-  - https://www.unesco.de/en/culture-and-nature/intangible-cultural-heritage/modern-dance
+- https://www.unesco.de/kultur-und-natur/immaterielles-kulturerbe/immaterielles-kulturerbe-deutschland/moderner-tanz
+- https://www.unesco.de/en/culture-and-nature/intangible-cultural-heritage/modern-dance
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Martha%20Graham%201948.jpg
 IPTC_NewsCode: mediatopic/20000009
 Commons_category: Modern dance
+dv_has_:
+  name_:
+    af: modern dans
+    ar: رقص حديث
+    be-tarask: мадэрновы танец
+    bg: Модерен танц
+    ca: Dansa Moderna
+    cs: moderní tanec
+    da: Moderne dans
+    de: Modern Dance
+    diq: Danso modern
+    el: Σύγχρονος χορός
+    en: modern dance
+    eo: moderna danco
+    es: Danza moderna
+    et: Moderntants
+    eu: Dantza moderno
+    fa: رقص مدرن
+    fi: Moderni tanssi
+    fr: danse moderne
+    fy: moderne dûns
+    gl: Danza moderna
+    he: מחול מודרני
+    hi: आधुनिक नृत्य
+    hr: Suvremeni ples
+    id: Tari modern
+    it: Danza moderna
+    ja: モダン・ダンス
+    ko: 현대 무용
+    lt: Šiuolaikinis šokis
+    lv: Laikmetīgā deja
+    nb: moderne dans
+    nl: moderne dans
+    pl: taniec nowoczesny
+    pt: dança moderna
+    ro: Dans modern
+    ru: Танец модерн
+    sk: Moderný tanec
+    sl: sodobni ples
+    sr: Moderni ples
+    sv: Modern dans
+    ta: நவீன நடனம்
+    tr: Modern dans
+    uk: Танець модерн
+    vi: Nhảy hiện đại
+    yue: 現代舞
+    zh: 現代舞
+    zh-hans: 现代舞
+    zh-hant: 現代舞
+    zh-hk: 現代舞
 ---
-
 # [[Modern_Dance]] 
 
 #is_/same_as :: [[WD~Modern_dance,850130]] 

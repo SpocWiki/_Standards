@@ -1,14 +1,99 @@
 ---
 aliases:
-  - Babyrousa babyrussa
-  - Buru babirusa
-  - Moluccan babirusa
-  - golden babirusa
-  - hairy babirusa
-  - Babyrousa_babyrussa
+- babarúsa Buru
+- Babirousa blevek
+- Babirusa
+- babirusa buru
+- babirusa buruská
+- Babirussa
+- babirussa de Buru
+- Babirussa wąsata
+- babirussza
+- Babyrousa babyrussa
+- Babyrousa_babyrussa
+- Buru babirusa
+- golden babirusa
+- gouden babiroesa
+- hairy babirusa
+- Hulangiyo
+- Lợn hươu
+- Moluccan babirusa
+- Molukken-Hirscheber
+- Testol (Babyrousa babyrussa)
+- vanlig hjortesvin
+- бабирус
+- Бабируса
+- Бабирусса
+- בבירוסה מצויה
+- بابيروسة بورو
+- بابيروسه بورو
+- خوکآهوی طلایی
+- சுலாவெசி நாற்கொம்புப் பன்றி
+- ბაბირუსა
+- バビルサ
+- 马鲁古鹿豚
+- 바비루사
 title: Babyrousa babyrussa
+has_id_wikidata: Q629015
+dv_has_:
+  name_:
+    an: Babyrousa babyrussa
+    ar: بابيروسة بورو
+    arz: بابيروسه بورو
+    ast: Babyrousa babyrussa
+    avk: Testol (Babyrousa babyrussa)
+    bg: бабирус
+    br: Babirousa blevek
+    ca: babirussa de Buru
+    ceb: Babyrousa babyrussa
+    cs: babirusa buruská
+    de: Molukken-Hirscheber
+    en: Babyrousa babyrussa
+    eo: Babyrousa babyrussa
+    es: Babyrousa babyrussa
+    eu: Babyrousa babyrussa
+    ext: Babyrousa babyrussa
+    fa: خوکآهوی طلایی
+    fi: Babyrousa babyrussa
+    fr: Babyrousa babyrussa
+    ga: babarúsa Buru
+    gl: Babyrousa babyrussa
+    gor: Hulangiyo
+    he: בבירוסה מצויה
+    hu: babirussza
+    ia: Babyrousa babyrussa
+    id: babirusa buru
+    ie: Babyrousa babyrussa
+    io: Babyrousa babyrussa
+    it: Babyrousa babyrussa
+    ja: バビルサ
+    ka: ბაბირუსა
+    kaa: Babirussa
+    ko: 바비루사
+    ky: Бабирусса
+    la: Babyrousa babyrussa
+    mul: Babyrousa babyrussa
+    nb: vanlig hjortesvin
+    nl: gouden babiroesa
+    oc: Babyrousa babyrussa
+    pl: Babirussa wąsata
+    pt: Babyrousa babyrussa
+    pt-br: Babyrousa babyrussa
+    ro: Babirusa
+    ru: Бабирусса
+    sq: Babyrousa babyrussa
+    sr: Бабируса
+    sv: Babyrousa babyrussa
+    ta: சுலாவெசி நாற்கொம்புப் பன்றி
+    uk: Babyrousa babyrussa
+    uz: Babirussa
+    vi: Lợn hươu
+    vo: Babyrousa babyrussa
+    war: Babyrousa babyrussa
+    zh: 马鲁古鹿豚
+    zh-cn: 马鲁古鹿豚
+    zh-hans: 马鲁古鹿豚
 ---
-
 # Babyrousa babyrussa 
 
 ![ ](168982839_3aeef92626_b.jpg)

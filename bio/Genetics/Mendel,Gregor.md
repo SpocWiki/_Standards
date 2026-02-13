@@ -1,75 +1,124 @@
 ---
 aliases:
-  - Gregor Johann Mendel
-  - Řehoř Jan Mendel
-  - Gregor_Mendel
-  - Gregor Mendel
-  - Mendel
-  - Mendel,Gregor
+- Gregor Johann Mendel
+- Gregor Mendel
+- Gregor Mendeli
+- Gregorius Mendel
+- Gregors Mendelis
+- Gregor_Mendel
+- Gregòr Mendel
+- Grigòriu Mendel
+- Johann Gregor Mendel
+- Ke-lye-kaw-al.Mung-te-al
+- Mendel
+- Mendel Gregor Iogan
+- Mendel,Gregor
+- Qreqor Yohan Mendel
+- Řehoř Jan Mendel
+- Γκρέγκορ Μέντελ
+- Грегор Иоганн Мендель
+- Грегор Мендел
+- Грегор Мендель
+- Грэгар Іаган Мендэль
+- Грэгар Мэндэль
+- Мендель
+- Мендель Грегор Иоганн
+- Գրեգոր Մենդել
+- גרגור מנדל
+- غريغور مندل
+- غريغور يوهان مندل
+- قرقور مندل
+- ګرېګور منډېل
+- گريگور مينڊل
+- گرگور مندل
+- گریگر مینڈل
+- گریگور مینڈل
+- گریگۆر مەندل
+- ग्रिगोर् जान् मेण्डेल्
+- ग्रेगर जॉन मेंडल
+- ग्रेगर जोन मेन्डल
+- ग्रेगोर मेंडेल
+- গ্রেগর ইয়োহান মেন্ডেল
+- ਗਰੈਗਰ ਮੈਂਡਲ
+- ગ્રેગોર મેન્ડેલ
+- கிரிகோர் மெண்டல்
+- గ్రెగర్ జోహన్ మెండల్
+- ಮೆ೦ಡೆಲಿಯನ್ ಇನ್ಹೆರಿಟೆನ್ಸ್
+- ഗ്രിഗർ മെൻഡൽ
+- ග්රෙගර් මෙන්ඩල්
+- เกรกอร์ เม็นเดิล
+- မင်ဒယ်၊ ဂရီဂေါ်
+- გრეგორ მენდელი
+- ግሬጎር መንደል
+- ក្រេគ័រ មេនដែស
+- グレゴール・ヨハン・メンデル
+- 孟德尔
+- 孟德爾
+- 그레고어 멘델
 has_id_wikidata: Q37970
 work_location:
-  - "[[_Standards/WikiData/WD~Olomouc,81137]]"
-  - "[[_Standards/WikiData/WD~Lipník_nad_Bečvou,1021080]]"
-  - "[[_Standards/WikiData/WD~Brno,14960]]"
+- '[[_Standards/WikiData/WD~Olomouc,81137]]'
+- '[[_Standards/WikiData/WD~Lipník_nad_Bečvou,1021080]]'
+- '[[_Standards/WikiData/WD~Brno,14960]]'
 country_of_citizenship:
-  - "[[_Standards/WikiData/WD~Austrian_Empire,131964]]"
-  - "[[_Standards/WikiData/WD~Cisleithania,533534]]"
+- '[[_Standards/WikiData/WD~Austrian_Empire,131964]]'
+- '[[_Standards/WikiData/WD~Cisleithania,533534]]'
 educated_at:
-  - "[[_Standards/WikiData/WD~University_of_Vienna,165980]]"
-  - "[[_Standards/WikiData/WD~Palacký_University_Olomouc,1637611]]"
+- '[[_Standards/WikiData/WD~University_of_Vienna,165980]]'
+- '[[_Standards/WikiData/WD~Palacký_University_Olomouc,1637611]]'
 occupation:
-  - "[[_Standards/WikiData/WD~mathematician,170790]]"
-  - "[[_Standards/WikiData/WD~Catholic_priest,250867]]"
-  - "[[_Standards/WikiData/WD~beekeeper,852389]]"
-  - "[[_Standards/WikiData/WD~biologist,864503]]"
-  - "[[_Standards/WikiData/WD~botanical_collector,2083925]]"
-  - "[[_Standards/WikiData/WD~botanist,2374149]]"
-  - "[[_Standards/WikiData/WD~geneticist,3126128]]"
-  - "[[_Standards/WikiData/WD~scientific_collector,98544732]]"
-  - "[[_Standards/WikiData/WD~naturalist,18805]]"
-student: "[[_Standards/WikiData/WD~Leoš_Janáček,184933]]"
+- '[[_Standards/WikiData/WD~mathematician,170790]]'
+- '[[_Standards/WikiData/WD~Catholic_priest,250867]]'
+- '[[_Standards/WikiData/WD~beekeeper,852389]]'
+- '[[_Standards/WikiData/WD~biologist,864503]]'
+- '[[_Standards/WikiData/WD~botanical_collector,2083925]]'
+- '[[_Standards/WikiData/WD~botanist,2374149]]'
+- '[[_Standards/WikiData/WD~geneticist,3126128]]'
+- '[[_Standards/WikiData/WD~scientific_collector,98544732]]'
+- '[[_Standards/WikiData/WD~naturalist,18805]]'
+student: '[[_Standards/WikiData/WD~Leoš_Janáček,184933]]'
 collection_items_at:
-  - "[[_Standards/WikiData/WD~Natural_History_Museum,309388]]"
-  - "[[_Standards/WikiData/WD~Herbarium_Haussknecht,_Institut_für_Spezielle_Botanik,22110590]]"
+- '[[_Standards/WikiData/WD~Natural_History_Museum,309388]]'
+- '[[_Standards/WikiData/WD~Herbarium_Haussknecht,_Institut_für_Spezielle_Botanik,22110590]]'
 employer: "[[_Standards/WikiData/WD~St_Thomas's_Abbey_in_Brno,334311]]"
 cause_of_death:
-  - "[[_Standards/WikiData/WD~nephritis,401402]]"
-  - "[[_Standards/WikiData/WD~kidney_failure,476921]]"
-ethnic_group: "[[_Standards/WikiData/WD~Moravians,756716]]"
+- '[[_Standards/WikiData/WD~nephritis,401402]]'
+- '[[_Standards/WikiData/WD~kidney_failure,476921]]'
+ethnic_group: '[[_Standards/WikiData/WD~Moravians,756716]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]"
-  - "[[_Standards/WikiData/WD~Q65007844,65007844]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-  - "[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]"
-place_of_birth: "[[_Standards/WikiData/WD~Hynčice,2711986]]"
-manner_of_death: "[[_Standards/WikiData/WD~natural_causes,3739104]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-place_of_burial: "[[_Standards/WikiData/WD~Brno_Central_Cemetery,11088399]]"
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Q65007844,65007844]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Olomouc_City_Library_regional_database,130368343]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hynčice,2711986]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+place_of_burial: '[[_Standards/WikiData/WD~Brno_Central_Cemetery,11088399]]'
 given_name:
-  - "[[_Standards/WikiData/WD~Johann,11122389]]"
-  - "[[_Standards/WikiData/WD~Gregor,18156264]]"
-family_name: "[[_Standards/WikiData/WD~Q16876806,16876806]]"
+- '[[_Standards/WikiData/WD~Johann,11122389]]'
+- '[[_Standards/WikiData/WD~Gregor,18156264]]'
+family_name: '[[_Standards/WikiData/WD~Q16876806,16876806]]'
 award_received: "[[_Standards/WikiData/WD~Commander's_Cross_of_the_Order_of_Franz_Joseph,28604416]]"
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]"
-different_from: "[[_Standards/WikiData/WD~Charles_Mendel,105094955]]"
-position_held: "[[_Standards/WikiData/WD~Q132812958,132812958]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
+different_from: '[[_Standards/WikiData/WD~Charles_Mendel,105094955]]'
+position_held: '[[_Standards/WikiData/WD~Q132812958,132812958]]'
 date_of_death: 1884-01-06T00:00:00Z
-field_of_work: "[[_Standards/WikiData/WD~genetics,7162]]"
+field_of_work: '[[_Standards/WikiData/WD~genetics,7162]]'
 languages_spoken_written_or_signed:
-  - "[[_Standards/WikiData/WD~Czech,9056]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
-place_of_death: "[[_Standards/WikiData/WD~Brno,14960]]"
-religious_order: "[[_Standards/WikiData/WD~Order_of_St._Augustine,29075]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Czech,9056]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+place_of_death: '[[_Standards/WikiData/WD~Brno,14960]]'
+religious_order: '[[_Standards/WikiData/WD~Order_of_St._Augustine,29075]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Commons_Creator_page: Gregor Mendel
 Commons_gallery: Gregor Mendel
 Commons_category: Gregor Mendel
@@ -80,12 +129,12 @@ Libris_URI: w5ds6bqzt0tqg1zl
 name_in_native_language: Gregor Mendel
 birth_name: Johann Mendel
 nickname:
-  - Father of Genetics
-  - Father of the Modern Genetics
-  - Padre de la genética
-  - Padre de la genética moderna
-  - Père de la génétique
-  - Bavê zanista genetîkê
+- Father of Genetics
+- Father of the Modern Genetics
+- Padre de la genética
+- Padre de la genética moderna
+- Père de la génétique
+- Bavê zanista genetîkê
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gregor%20Mendel%202.jpg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Gregor%20Mendel%20Signature.svg
 date_of_baptism: 1822-07-22T00:00:00Z
@@ -95,11 +144,130 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Tomb%20of%20t
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Gregor%20Mendel-article.ogg
 described_at_URL: http://www.digiporta.net/index.php?id=494261515
 official_website: http://www.mendelweb.org/
-ISNI: "0000000121194092"
-P1015: "90203287"
+ISNI: 0000000121194092
+P1015: 90203287
 Google_Doodle: gregor-mendels-189th-birthday
+dv_has_:
+  name_:
+    ace: Gregor Mendel
+    af: Gregor Mendel
+    am: ግሬጎር መንደል
+    ar: غريغور يوهان مندل
+    arz: غريغور مندل
+    ast: Gregor Mendel
+    az: Qreqor Yohan Mendel
+    azb: قرقور مندل
+    be: Грэгар Іаган Мендэль
+    be-tarask: Грэгар Мэндэль
+    bg: Грегор Мендел
+    bn: গ্রেগর ইয়োহান মেন্ডেল
+    br: Gregor Mendel
+    bs: Gregor Mendel
+    ca: Gregor Mendel
+    cdo: Gregor Mendel
+    ckb: گریگۆر مەندل
+    cs: Gregor Mendel
+    cv: Мендель Грегор Иоганн
+    cy: Gregor Mendel
+    da: Gregor Mendel
+    de: Gregor Mendel
+    el: Γκρέγκορ Μέντελ
+    en: Gregor Mendel
+    en-ca: Gregor Mendel
+    en-gb: Gregor Mendel
+    eo: Johann Gregor Mendel
+    es: Gregor Mendel
+    et: Gregor Mendel
+    eu: Gregor Mendel
+    fa: گرگور مندل
+    fi: Gregor Mendel
+    fr: Gregor Mendel
+    ga: Gregor Mendel
+    gd: Mendel
+    gl: Gregor Mendel
+    gsw: Gregor Mendel
+    gu: ગ્રેગોર મેન્ડેલ
+    he: גרגור מנדל
+    hi: ग्रेगर जॉन मेंडल
+    hif: Gregor Mendel
+    hr: Gregor Mendel
+    hu: Gregor Mendel
+    hy: Գրեգոր Մենդել
+    id: Gregor Mendel
+    ilo: Gregor Mendel
+    io: Gregor Mendel
+    is: Gregor Mendel
+    it: Gregor Mendel
+    ja: グレゴール・ヨハン・メンデル
+    jv: Gregor Mendel
+    ka: გრეგორ მენდელი
+    kab: Gregor Mendel
+    kk: Мендель
+    km: ក្រេគ័រ មេនដែស
+    kn: ಮೆ೦ಡೆಲಿಯನ್ ಇನ್ಹೆರಿಟೆನ್ಸ್
+    ko: 그레고어 멘델
+    ku: Gregor Mendel
+    ky: Мендель Грегор Иоганн
+    la: Gregorius Mendel
+    lb: Gregor Mendel
+    lt: Gregor Mendel
+    lv: Gregors Mendelis
+    mg: Gregor Mendel
+    mk: Грегор Мендел
+    ml: ഗ്രിഗർ മെൻഡൽ
+    mr: ग्रेगोर मेंडेल
+    ms: Gregor Mendel
+    mul: Gregor Mendel
+    my: မင်ဒယ်၊ ဂရီဂေါ်
+    nah: Gregor Mendel
+    nan: Gregor Mendel
+    nb: Gregor Mendel
+    ne: ग्रेगर जोन मेन्डल
+    nl: Gregor Mendel
+    nn: Gregor Mendel
+    oc: Gregòr Mendel
+    pa: ਗਰੈਗਰ ਮੈਂਡਲ
+    pam: Gregor Mendel
+    pl: Gregor Mendel
+    pnb: گریگر مینڈل
+    ps: ګرېګور منډېل
+    pt: Gregor Mendel
+    pt-br: Gregor Mendel
+    qu: Gregor Mendel
+    ro: Gregor Mendel
+    ru: Грегор Иоганн Мендель
+    sa: ग्रिगोर् जान् मेण्डेल्
+    sah: Грегор Иоганн Мендель
+    sc: Gregor Mendel
+    scn: Grigòriu Mendel
+    sco: Gregor Mendel
+    sd: گريگور مينڊل
+    sh: Gregor Mendel
+    si: ග්රෙගර් මෙන්ඩල්
+    sk: Gregor Mendel
+    sl: Gregor Mendel
+    sq: Gregor Mendeli
+    sr: Грегор Мендел
+    sv: Gregor Mendel
+    sw: Gregor Mendel
+    szy: Ke-lye-kaw-al.Mung-te-al
+    ta: கிரிகோர் மெண்டல்
+    te: గ్రెగర్ జోహన్ మెండల్
+    th: เกรกอร์ เม็นเดิล
+    tl: Gregor Mendel
+    tr: Gregor Mendel
+    uk: Грегор Мендель
+    ur: گریگور مینڈل
+    uz: Mendel Gregor Iogan
+    vi: Gregor Mendel
+    war: Gregor Mendel
+    wuu: 孟德尔
+    xmf: გრეგორ მენდელი
+    yo: Gregor Mendel
+    yue: 孟德爾
+    za: Gregor Mendel
+    zh: 孟德爾
 ---
-
 # [[Mendel,Gregor]] 
 
 #is_/same_as :: [[WD~Gregor_Mendel,37970]] 

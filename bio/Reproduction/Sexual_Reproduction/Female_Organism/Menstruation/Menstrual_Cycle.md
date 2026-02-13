@@ -1,25 +1,176 @@
 ---
 aliases:
+- Chu kỳ kinh nguyệt
+- cicle sexual femení
+- ciclo menstrual
+- ciclo mestruale
+- ciclu menstrual
+- Ciclul menstrual
+- Cikli menstrual
+- cycle menstruel
+- Cyclus menstrualis
+- Cykl miesiączkowy
+- Heyz
+- Hilekoaren ziklo
+- K'ikuy
+- Kitaran haid
+- kuukautiskierto
+- mensabirrajohtu
+- menstrua ciklo
+- menstruaaltsükkel
+- menstruacijski ciklus
+- menstrual cycle
+- menstrualni ciklus
+- menstruasjonssyklus
+- menstruatiecyclus
+- menstruationscykeln
+- menstruationscyklus
+- Menstruationszyklus
+- menstruační cyklus
+- menstruációs ciklus
+- Menstruālais cikls
+- mánusâšpaje
+- männʼjõšjoorõs
+- mėnesinių ciklas
+- Siclo mestruałe
+- Sik menstriyèl
+- Siklo nin mga menstrual
+- siklus menstruasi
+- Siklus mènstruasi
+- Siklus ménstruasi
+- timthriall míosta
+- âdet döngüsü
+- Çerxa mehane
+- Έμμηνος κύκλος
+- Менструален циклус
+- Менструален цикъл
+- Менструални циклус
+- Менструаль цикл
+- менструальний цикл
+- менструальный цикл
+- Менструаци циклĕ
+- мэнструальны цыкль
+- Դաշտանային ցիկլ
+- המחזור החודשי
+- دورة شهرية
+- سووڕی مانگانە
+- چرخه قاعدگی - عادت ماهانه
+- मासिक धर्म
+- मासिक पाळी
+- ఋతుచక్రం
+- ಋತುಚಕ್ರ
+- ಮದಿಮಾಳ್ ಮದಿಮೆ
+- ആർത്തവചക്രം
+- ඔසප් චක්ර
+- รอบประจำเดือน
+- მენსტრუალური ციკლი
+- ᱢᱮᱱᱥᱪᱩᱨᱟᱞ ᱥᱟᱭᱠᱟᱞ
+- ⵉⵙⵍⵉⵍⴰⵏ
+- 月経周期
+- 月經週期
+- 月经周期
+- 經期
+- 월경 주기
 has_id_wikidata: Q83864
 has_part_s_:
-  - "[[_Standards/WikiData/WD~ovulation,187082]]"
-  - "[[_Standards/WikiData/WD~menstruation,12171]]"
-instance_of: "[[_Standards/WikiData/WD~biological_process,2996394]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~uterine_cycle,3676498]]"
+- '[[_Standards/WikiData/WD~ovulation,187082]]'
+- '[[_Standards/WikiData/WD~menstruation,12171]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~uterine_cycle,3676498]]'
 facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Menstrual_cycle,8072164]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Menstrual_cycle,8072164]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~ovulation_cycle,14864005]]"
-  - "[[_Standards/WikiData/WD~developmental_process_involved_in_reproduction,14904219]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]"
+- '[[_Standards/WikiData/WD~ovulation_cycle,14864005]]'
+- '[[_Standards/WikiData/WD~developmental_process_involved_in_reproduction,14904219]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 Commons_gallery: Menstrual cycle
 Commons_category: Menstrual cycle
 described_at_URL: http://bacsisaigon.net/kinh-nguyet-khong-deu.html
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Menstrual%20cycle.svg
 exact_match: http://purl.obolibrary.org/obo/GO_0044850
 MeSH_tree_code: G08.686.605
+dv_has_:
+  name_:
+    ar: دورة شهرية
+    ast: ciclu menstrual
+    az: Heyz
+    bcl: Siklo nin mga menstrual
+    be-tarask: мэнструальны цыкль
+    bg: Менструален цикъл
+    bs: menstrualni ciklus
+    ca: cicle sexual femení
+    ckb: سووڕی مانگانە
+    cs: menstruační cyklus
+    cv: Менструаци циклĕ
+    da: menstruationscyklus
+    de: Menstruationszyklus
+    el: Έμμηνος κύκλος
+    en: menstrual cycle
+    eo: menstrua ciklo
+    es: ciclo menstrual
+    et: menstruaaltsükkel
+    eu: Hilekoaren ziklo
+    fa: چرخه قاعدگی - عادت ماهانه
+    fi: kuukautiskierto
+    fr: cycle menstruel
+    ga: timthriall míosta
+    gl: Ciclo menstrual
+    gsw: Menstruationszyklus
+    he: המחזור החודשי
+    hi: मासिक धर्म
+    hr: Menstrualni ciklus
+    ht: Sik menstriyèl
+    hu: menstruációs ciklus
+    hy: Դաշտանային ցիկլ
+    id: siklus menstruasi
+    it: ciclo mestruale
+    ja: 月経周期
+    ka: მენსტრუალური ციკლი
+    kn: ಋತುಚಕ್ರ
+    ko: 월경 주기
+    ku: Çerxa mehane
+    ku-latn: çerxa mehane
+    la: Cyclus menstrualis
+    lt: mėnesinių ciklas
+    lv: Menstruālais cikls
+    mad: Siklus mènstruasi
+    mk: Менструален циклус
+    ml: ആർത്തവചക്രം
+    mr: मासिक पाळी
+    ms: Kitaran haid
+    nb: menstruasjonssyklus
+    ne: मासिक धर्म
+    nl: menstruatiecyclus
+    nn: menstruasjonssyklus
+    pl: Cykl miesiączkowy
+    pt: ciclo menstrual
+    qu: K'ikuy
+    ro: Ciclul menstrual
+    ru: менструальный цикл
+    sat: ᱢᱮᱱᱥᱪᱩᱨᱟᱞ ᱥᱟᱭᱠᱟᱞ
+    se: mensabirrajohtu
+    sh: Menstrualni ciklus
+    si: ඔසප් චක්ර
+    sl: menstruacijski ciklus
+    smn: mánusâšpaje
+    sms: männʼjõšjoorõs
+    sq: Cikli menstrual
+    sr: Менструални циклус
+    su: Siklus ménstruasi
+    sv: menstruationscykeln
+    tcy: ಮದಿಮಾಳ್ ಮದಿಮೆ
+    te: ఋతుచక్రం
+    th: รอบประจำเดือน
+    tr: âdet döngüsü
+    tt: Менструаль цикл
+    uk: менструальний цикл
+    vec: Siclo mestruałe
+    vi: Chu kỳ kinh nguyệt
+    wuu: 月经周期
+    yue: 經期
+    zgh: ⵉⵙⵍⵉⵍⴰⵏ
+    zh: 月經週期
 ---
-
 # [[Menstrual_Cycle]] 
 
 #is_/same_as :: [[WD~Menstrual_cycle,83864]] 

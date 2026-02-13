@@ -1,26 +1,71 @@
 ---
 aliases:
+- musi utala Tekanto
+- taecuando
+- Taegwondo
+- Taekvando
+- Taekvondo
+- Taekwando
+- taekwondo
+- Taequondo
+- Taékwondho
+- Tekvondo
+- ttikwandu
+- Tæȝcƿondo
+- Τάε Κβον Ντο
+- Таеквондо
+- Таекуондо
+- Таэквондо
+- теквондо
+- тхеквондо
+- тхэквондо
+- тэквандо
+- Թաեքվոնդո
+- טאקוונדו
+- التايكوندو
+- تائیکوانڈو
+- تایکواندۆ
+- تيكواندو
+- تکواندو
+- ताइक्वांडो
+- तायक्वोंडो
+- तेक्वान्दो
+- তায়কোয়ান্দো
+- તાઈકવૉન્દો
+- ଟାଏକୋଣ୍ଡୋ
+- டைக்குவாண்டோ
+- టైక్వాండో
+- ಟೇಕ್ವಾಂಡೋ
+- തായ്കൊണ്ടോ
+- ටයිකොන්ඩෝ සටන් ක්රමය
+- เทควันโด
+- တိုက်ကွမ်ဒို
+- თეკვონდო
+- ᱛᱟᱭᱠᱳᱸᱰᱳ
+- テコンドー
+- 跆拳道
+- 태권도
 has_id_wikidata: Q36389
 different_from:
-  - "[[_Standards/WikiData/WD~Muay_Thai,120931]]"
-  - "[[_Standards/WikiData/WD~kickboxing,178678]]"
-  - "[[_Standards/WikiData/WD~kung_fu,208607]]"
-  - "[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]"
-  - "[[_Standards/WikiData/WD~full_contact_karate,3754231]]"
-  - "[[_Standards/WikiData/WD~Taekwondo,9355136]]"
-  - "[[_Standards/WikiData/WD~karate,11419]]"
+- '[[_Standards/WikiData/WD~Muay_Thai,120931]]'
+- '[[_Standards/WikiData/WD~kickboxing,178678]]'
+- '[[_Standards/WikiData/WD~kung_fu,208607]]'
+- '[[_Standards/WikiData/WD~Shorinji_Kempo,933634]]'
+- '[[_Standards/WikiData/WD~full_contact_karate,3754231]]'
+- '[[_Standards/WikiData/WD~Taekwondo,9355136]]'
+- '[[_Standards/WikiData/WD~karate,11419]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~martial_art,11417]]"
-authority: "[[_Standards/WikiData/WD~World_Taekwondo,696406]]"
-practiced_by: "[[_Standards/WikiData/WD~taekwondo_athlete,13382533]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Taekwondo,18929289]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~martial_art,11417]]'
+authority: '[[_Standards/WikiData/WD~World_Taekwondo,696406]]'
+practiced_by: '[[_Standards/WikiData/WD~taekwondo_athlete,13382533]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Taekwondo,18929289]]'
 country_of_origin:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~South_Korea,884]]"
-  - "[[_Standards/WikiData/WD~Korean_Empire,28233]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-OmegaWiki_Defined_Meaning: "1018936"
+- '[[_Standards/WikiData/WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~South_Korea,884]]'
+- '[[_Standards/WikiData/WD~Korean_Empire,28233]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+OmegaWiki_Defined_Meaning: 1018936
 Commons_gallery: Taekwondo
 Commons_category: Taekwondo
 IMDb_keyword: taekwondo
@@ -33,9 +78,138 @@ Revised_Romanization: Taegwondo
 Baidu_Tieba_name: 跆拳道
 native_label: 태권도
 OpenStreetMap_tag: sport=taekwondo
-Dewey_Decimal_Classification: "796.8157"
+Dewey_Decimal_Classification: 796.8157
+dv_has_:
+  name_:
+    af: Taekwondo
+    an: Taekwondo
+    ang: Tæȝcƿondo
+    ar: التايكوندو
+    ary: تيكواندو
+    ast: Taekwondo
+    az: taekvondo
+    azb: تکواندو
+    ba: Тхэквондо
+    bcl: Taekwondo
+    be: тэквандо
+    be-tarask: тэквандо
+    bg: Таекуондо
+    bn: তায়কোয়ান্দো
+    br: Taekwondo
+    bs: Taekwondo
+    ca: taekwondo
+    cbk-zam: Taekwondo
+    ce: Тхэквондо
+    ceb: Taekwondo
+    ckb: تایکواندۆ
+    cs: taekwondo
+    cy: Taekwondo
+    da: taekwondo
+    de: Taekwondo
+    el: Τάε Κβον Ντο
+    eml: Taekwondo
+    en: taekwondo
+    eo: Tekvondo
+    es: taekwondo
+    es-419: taekwondo
+    et: Taekwondo
+    eu: Taekwondo
+    ext: Taekwondo
+    fa: تکواندو
+    fi: taekwondo
+    fr: taekwondo
+    fur: Taekwondo
+    ga: taecuando
+    gl: Taekwondo
+    gu: તાઈકવૉન્દો
+    ha: Taekwondo
+    he: טאקוונדו
+    hi: तायक्वोंडो
+    hr: Taekwondo
+    hu: taekwondo
+    hy: Թաեքվոնդո
+    ia: Taekwondo
+    id: taekwondo
+    io: Taekwondo
+    is: Taekwondo
+    it: taekwondo
+    ja: テコンドー
+    jv: Taékwondho
+    ka: თეკვონდო
+    kaa: Taekwando
+    kk: Таэквондо
+    kn: ಟೇಕ್ವಾಂಡೋ
+    ko: 태권도
+    ku: Taekwondo
+    ky: Таеквондо
+    la: Taequondo
+    lad: Taekwondo
+    lb: Taekwondo
+    lfn: Taekwondo
+    ln: Taekwondo
+    lt: tekvondo
+    lv: tekvondo
+    mai: ताइक्वांडो
+    mk: теквондо
+    ml: തായ്കൊണ്ടോ
+    ms: Taekwondo
+    mwl: Taekwondo
+    my: တိုက်ကွမ်ဒို
+    nan: Taekwondo
+    nb: taekwondo
+    nds: Taekwondo
+    new: तेक्वान्दो
+    nl: taekwondo
+    nn: taekwondo
+    nov: taekwondo
+    oc: Taegwondo
+    or: ଟାଏକୋଣ୍ଡୋ
+    os: тхэквондо
+    pap: taekwondo
+    pcd: Taekwondo
+    pl: taekwondo
+    pms: Taekwondo
+    pt: taekwondo
+    rki: တိုက်ကွမ်ဒို
+    rm: Taekwondo
+    ro: Taekwondo
+    ru: тхэквондо
+    rup: Taekwondo
+    sat: ᱛᱟᱭᱠᱳᱸᱰᱳ
+    scn: Taekwondo
+    sco: taekwondo
+    sh: tekvondo
+    shi: ttikwandu
+    si: ටයිකොන්ඩෝ සටන් ක්රමය
+    sk: Taekwondo
+    sl: taekwondo
+    sq: Taekwondo
+    sr: теквондо
+    sv: taekwondo
+    sw: Taekwondo
+    ta: டைக்குவாண்டோ
+    te: టైక్వాండో
+    th: เทควันโด
+    tk: Taekwando
+    tl: Taekwondo
+    tly: Taekvando
+    tok: musi utala Tekanto
+    tr: taekwondo
+    uk: тхеквондо
+    ur: تائیکوانڈو
+    uz: Taekvondo
+    vi: taekwondo
+    wa: Taekwondo
+    war: Taekwondo
+    wuu: 跆拳道
+    yue: 跆拳道
+    zh: 跆拳道
+    zh-cn: 跆拳道
+    zh-hans: 跆拳道
+    zh-hant: 跆拳道
+    zh-hk: 跆拳道
+    zh-tw: 跆拳道
 ---
-
 # [[Taekwondo]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Taekwondo,36389|WD~Taekwondo,36389]]  

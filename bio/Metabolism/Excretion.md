@@ -1,28 +1,167 @@
 ---
 aliases:
-  - Exkretion
-  - Excretion
+- Boşaltım
+- Bài tiết
+- Chiqarish sistemasi
+- deravêtin
+- eisfhearadh
+- Eksekreco
+- ekskrecio
+- Ekskresi
+- ekskresjon
+- Ekskresyon
+- erittyminen
+- Escreción
+- escresion
+- escrezione
+- excreció
+- excreción
+- excretie
+- Excretio
+- Excretion
+- excreção
+- excreție
+- excrétion
+- Exkretion
+- iraizpen
+- izločanje
+- izlučivanje
+- Kutoa taka za mwili
+- Mũimũro(excretion)
+- Perkumuhan
+- Pâi-siat
+- sistem za izlučivanje
+- udskillelse
+- uitskeiding
+- vylučovanie
+- vylučování
+- wydalanie
+- Ysgarthu
+- ürülékkiválasztás
+- Þveiti
+- έκκριση
+- виділення
+- выделение
+- выдзяленьне
+- излачување
+- Отделяне
+- систем за излучивање
+- Արտազատում
+- הפרשת פסולת
+- إفراغ
+- دفع
+- उत्सर्जन
+- রেচন
+- ઉત્સર્જન
+- கழிப்பு
+- విసర్జన
+- ವಿಸರ್ಜನೆ
+- വിസർജ്ജനം
+- การขับถ่าย
+- 屙
+- 排泄
+- 排泄作用
+- 배설
 has_id_wikidata: Q185557
 opposite_of: '[[_Standards/WikiData/WD~eating,213449]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~expulsion,779939]]'
-  - '[[_Standards/WikiData/WD~system_process,22299483]]'
+- '[[_Standards/WikiData/WD~expulsion,779939]]'
+- '[[_Standards/WikiData/WD~system_process,22299483]]'
 product_or_material_produced:
-  - '[[_Standards/WikiData/WD~excrement,1383944]]'
-  - '[[_Standards/WikiData/WD~external_secretion,28539843]]'
+- '[[_Standards/WikiData/WD~excrement,1383944]]'
+- '[[_Standards/WikiData/WD~external_secretion,28539843]]'
 instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%81M%2066%2C%2076r%2C%20Mead%20of%20Poetry.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B0%E0%A7%87%E0%A6%9A%E0%A6%A8.wav
 exact_match: http://purl.obolibrary.org/obo/GO_0007588
 UMLS_CUI: C0221102
 Commons_category: Excretion
+dv_has_:
+  name_:
+    af: uitskeiding
+    ar: إفراغ
+    ast: Escreción
+    be-tarask: выдзяленьне
+    bg: Отделяне
+    bn: রেচন
+    bs: izlučivanje
+    ca: excreció
+    cs: vylučování
+    cy: Ysgarthu
+    da: udskillelse
+    de: Exkretion
+    el: έκκριση
+    en: excretion
+    eo: ekskrecio
+    es: excreción
+    eu: iraizpen
+    fa: دفع
+    fi: erittyminen
+    fr: excrétion
+    ga: eisfhearadh
+    gl: excreción
+    gu: ઉત્સર્જન
+    he: הפרשת פסולת
+    hi: उत्सर्जन
+    hr: izlučivanje
+    hu: ürülékkiválasztás
+    hy: Արտազատում
+    id: Ekskresi
+    io: Eksekreco
+    is: Þveiti
+    it: escrezione
+    ja: 排泄
+    jv: Ekskresi
+    ki: Mũimũro(excretion)
+    kn: ವಿಸರ್ಜನೆ
+    ko: 배설
+    ku-latn: deravêtin
+    la: Excretio
+    mk: излачување
+    ml: വിസർജ്ജനം
+    ms: Perkumuhan
+    nan: Pâi-siat
+    nb: ekskresjon
+    ne: उत्सर्जन
+    nl: excretie
+    nn: ekskresjon
+    pam: Excretion
+    pl: wydalanie
+    pt: excreção
+    ro: excreție
+    ru: выделение
+    sh: Izlučivanje
+    sk: vylučovanie
+    sl: izločanje
+    sr: систем за излучивање
+    sr-ec: систем за излучивање
+    sr-el: sistem za izlučivanje
+    sv: Exkretion
+    sw: Kutoa taka za mwili
+    ta: கழிப்பு
+    te: విసర్జన
+    th: การขับถ่าย
+    tl: Ekskresyon
+    tr: Boşaltım
+    uk: виділення
+    uz: Chiqarish sistemasi
+    vec: escresion
+    vi: Bài tiết
+    wuu: 排泄作用
+    yue: 屙
+    zh: 排泄作用
+    zh-cn: 排泄作用
+    zh-hans: 排泄作用
+    zh-hant: 排泄作用
+    zh-hk: 排泄作用
+    zh-sg: 排泄作用
+    zh-tw: 排泄作用
 ---
-
 # [[Excretion]] 
 
 #is_/different_from :: [[Secretion]] 

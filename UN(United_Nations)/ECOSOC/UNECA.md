@@ -2,8 +2,8 @@
 aliases:
   - CEA
   - UNECA
+has_id_wikidata: Q1144508
 ---
-
 # [[UNECA]] 
 
 > The United Nations Economic Commission for Africa (**UNECA** or ECA; French: Commission économique pour l'Afrique, CEA) was established in 1958 by the United Nations Economic and Social Council to encourage economic cooperation among its member states (the nations of the Africa[[../../Earth/Continent|Continent]]) following a recommendation of the United Nations General Assembly. 

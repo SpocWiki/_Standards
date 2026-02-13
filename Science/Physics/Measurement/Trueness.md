@@ -1,4 +1,111 @@
-
+---
+has_id_wikidata: Q272035
+dv_has_:
+  name_:
+    ar: الدقة والضبط
+    az: Dəqiqlik
+    be: дакладнасць і ўзгодненасць
+    bn: সঠিকতা ও সূক্ষ্মতা
+    ca: exactitud i precisió
+    cs: přesnost
+    cv: Тĕллĕх
+    da: præcision
+    de: Genauigkeit
+    en: accuracy and precision
+    eo: ekzakteco kaj precizeco
+    es: precisión y exactitud
+    et: Täpsus ja kordustäpsus
+    fa: صحت و دقت
+    fi: Tarkkuus
+    fr: justesse et fidélité
+    ga: cruinneas agus beachtas
+    he: דיוק ונכונות
+    hi: यथार्थता एवं परिशुद्धता
+    hr: preciznost
+    hu: pontosság és precizitás
+    id: Akurasi dan presisi
+    it: precisione
+    ja: 正確度と精度
+    kk: дәлдік
+    kk-latn: däldik
+    ko: 정확도와 정밀도
+    lv: pareizāk
+    lzh: 精準度
+    nan: Chún-khak kah cheng-bi̍t
+    nb: nøyaktighet og presisjon
+    nl: nauwkeurigheid
+    nn: nøyaktigheit og presisjon
+    pl: dokładność i precyzja metody pomiaru
+    pt: exatidão
+    ro: exactitate și precizie
+    ru: точность
+    sh: Tačnost
+    sk: Presnosť merania
+    sl: točnost in natančnost
+    so: Talantaal
+    sq: Saktësia dhe përpikëria
+    sr: Прецизност и тачност
+    su: Akurasi jeung présisi
+    sv: precision
+    ta: துல்லியம் மற்றும் வழுவாத நுண்ணியம்
+    tr: Doğruluk ve kesinlik
+    uk: точність вимірювань
+    vi: độ chính xác
+    yue: 準確同精確
+    zh: 準確與精密
+aliases:
+- accuracy and precision
+- Akurasi dan presisi
+- Akurasi jeung présisi
+- Chún-khak kah cheng-bi̍t
+- cruinneas agus beachtas
+- dokładność i precyzja metody pomiaru
+- Doğruluk ve kesinlik
+- däldik
+- Dəqiqlik
+- ekzakteco kaj precizeco
+- exactitate și precizie
+- exactitud i precisió
+- exatidão
+- Genauigkeit
+- justesse et fidélité
+- nauwkeurigheid
+- nøyaktigheit og presisjon
+- nøyaktighet og presisjon
+- pareizāk
+- pontosság és precizitás
+- precision
+- precisione
+- precisión y exactitud
+- preciznost
+- Presnosť merania
+- præcision
+- přesnost
+- Saktësia dhe përpikëria
+- Talantaal
+- Tarkkuus
+- Tačnost
+- točnost in natančnost
+- Täpsus ja kordustäpsus
+- độ chính xác
+- дакладнасць і ўзгодненасць
+- дәлдік
+- Прецизност и тачност
+- Тĕллĕх
+- точність вимірювань
+- точность
+- דיוק ונכונות
+- الدقة والضبط
+- صحت و دقت
+- यथार्थता एवं परिशुद्धता
+- সঠিকতা ও সূক্ষ্মতা
+- துல்லியம் மற்றும் வழுவாத நுண்ணியம்
+- 正確度と精度
+- 準確同精確
+- 準確與精密
+- 精準度
+- 정확도와 정밀도
+---
 [[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision]] 
 
 The International Organization for Standardization (ISO) defines trueness as, 

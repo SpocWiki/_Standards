@@ -1,33 +1,133 @@
 ---
 aliases:
-  - Trampolin
-  - Trampoline
+- Batut
+- batutas
+- batuudi
+- cama elástica
+- Giàn nhún
+- llit elàstic
+- ohe elastiko
+- Serippe
+- studsmatta
+- Trambolin
+- trambulin
+- trampoliini
+- trampolim
+- Trampolin
+- Trampoline
+- trampolino
+- trampolína
+- Trampolîn
+- Turubali
+- tūraparapa
+- батут
+- Серіппе
+- трамбулина
+- Трамполина
+- Բատուտ
+- טרמפולינה
+- ترامپولین
+- سەرىپپە
+- منطة
+- उत्पतनी
+- แทรมโพลีน
+- トランポリン
+- 彈床
+- 彈牀
+- 彈翻床
+- 蹦床
+- 트램펄린
 has_id_wikidata: Q327911
 has_use:
-  - '[[_Standards/WikiData/WD~entertainment,173799]]'
-  - '[[_Standards/WikiData/WD~physical_exercise,219067]]'
+- '[[_Standards/WikiData/WD~entertainment,173799]]'
+- '[[_Standards/WikiData/WD~physical_exercise,219067]]'
 sport: '[[_Standards/WikiData/WD~trampoline_gymnastics,465014]]'
 used_by:
-  - '[[_Standards/WikiData/WD~athlete,2066131]]'
-  - '[[_Standards/WikiData/WD~circus_performer,17307272]]'
-  - '[[_Standards/WikiData/WD~astronaut,11631]]'
+- '[[_Standards/WikiData/WD~athlete,2066131]]'
+- '[[_Standards/WikiData/WD~circus_performer,17307272]]'
+- '[[_Standards/WikiData/WD~astronaut,11631]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~gymnastic_apparatus,2827268]]'
-  - '[[_Standards/WikiData/WD~outdoor_playset,7111945]]'
+- '[[_Standards/WikiData/WD~gymnastic_apparatus,2827268]]'
+- '[[_Standards/WikiData/WD~outdoor_playset,7111945]]'
 instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
 Nomenclature_for_Museum_Cataloging: 14591
 IMDb_keyword: trampoline
 OmegaWiki_Defined_Meaning: 916206
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Hometrampoline.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bounce%20%28482878372%29.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Neno%20feliz%20nas%20camas%20el%C3%A1sticas.JPG
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Trampoline.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hometrampoline.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bounce%20%28482878372%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Neno%20feliz%20nas%20camas%20el%C3%A1sticas.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Trampoline.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Trampoline%20kampioenschappen.ogv
 Commons_category: Trampolines
 OpenStreetMap_tag: playground=trampoline
+dv_has_:
+  name_:
+    ar: منطة
+    ast: cama elástica
+    ba: Батут
+    be-tarask: батут
+    bg: Батут
+    ca: llit elàstic
+    cs: trampolína
+    cy: Trampolîn
+    da: trampolin
+    de: Trampolin
+    en: trampoline
+    eo: trampolino
+    es: cama elástica
+    et: batuudi
+    eu: ohe elastiko
+    fa: ترامپولین
+    fi: trampoliini
+    fr: trampoline
+    gl: cama elástica
+    he: טרמפולינה
+    hr: Trampolin
+    hu: trambulin
+    hy: Բատուտ
+    id: Trampolin
+    io: Trampolino
+    it: trampolino
+    ja: トランポリン
+    kk: Серіппе
+    kk-arab: سەرىپپە
+    kk-cn: سەرىپپە
+    kk-cyrl: Серіппе
+    kk-kz: Серіппе
+    kk-latn: Serippe
+    kk-tr: Serippe
+    ko: 트램펄린
+    ky: Батут
+    lt: batutas
+    mi: tūraparapa
+    mk: трамбулина
+    ms: trampolin
+    nb: trampoline
+    nl: trampoline
+    nn: Trampoline
+    pl: Batut
+    pt: trampolim
+    ru: батут
+    sa: उत्पतनी
+    sl: trampolin
+    sr: Трамполина
+    sv: studsmatta
+    sw: Turubali
+    th: แทรมโพลีน
+    tr: Trambolin
+    uk: батут
+    uz: Batut
+    vi: Giàn nhún
+    yue: 彈床
+    zh: 蹦床
+    zh-cn: 蹦床
+    zh-hans: 蹦床
+    zh-hant: 蹦床
+    zh-hk: 彈牀
+    zh-sg: 蹦床
+    zh-tw: 彈翻床
 ---
-
 # [[Trampoline]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Trampoline,327911|WD~Trampoline,327911]]  

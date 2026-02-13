@@ -1,9 +1,46 @@
 ---
 aliases:
-  - Poor Things
-  - Poor_Things
+- Biedne istoty
+- Pauvres Créatures
+- Poor Things
+- Poor Things (romance)
+- Poor_Things
+- Povere creature!
+- ¡Pobres Criaturas!
+- Χαμένα Κορμιά
+- Јадна створења
+- Бідолашні створіння (роман)
+- Бедные-несчастные (роман)
+- مساكين
+- 可憐的東西
+- 哀れなるものたち
+- 가여운 것들
+has_id_wikidata: Q7228828
+dv_has_:
+  name_:
+    ar: مساكين
+    ca: Poor Things
+    el: Χαμένα Κορμιά
+    en: Poor Things
+    es: ¡Pobres Criaturas!
+    fr: Pauvres Créatures
+    ga: Poor Things
+    gl: Poor Things
+    id: Poor Things
+    it: Povere creature!
+    ja: 哀れなるものたち
+    ko: 가여운 것들
+    lb: Poor Things
+    nb: Poor Things
+    pl: Biedne istoty
+    pt: Poor Things (romance)
+    ro: Poor Things
+    ru: Бедные-несчастные (роман)
+    sr: Јадна створења
+    sv: Poor Things
+    uk: Бідолашні створіння (роман)
+    zh: 可憐的東西
 ---
-
 #is_a ::  [[Born_yesterday-Trope]] 
 
 ## #has_/text_of_/abstract 

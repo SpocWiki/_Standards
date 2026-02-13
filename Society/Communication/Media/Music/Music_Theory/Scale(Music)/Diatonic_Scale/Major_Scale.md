@@ -1,29 +1,102 @@
 ---
 aliases:
-  - Sankarabharanam
-  - Bilaval
-  - major scale
-  - Ionian mode
-  - Major_Scale
-  - Major Scale
+- Bilaval
+- dur
+- dura
+- durum
+- duur
+- duuri
+- Dúr
+- Ionian mode
+- Majeur
+- Major
+- major mode
+- major scale
+- Major_Scale
+- majör
+- maĵoreco
+- mažoor
+- Mažors
+- Mode majeur
+- mode major
+- Modo maior
+- modo mayor
+- modu maior
+- Mòde major
+- Sankarabharanam
+- Skala major
+- Дур
+- мажор
+- мажорна тональність
+- Մաժոր
+- מז'ור
+- وضع كبير
+- 大調
+- 自然大调
 has_id_wikidata: Q58795659
 instance_of:
-  - '[[_Standards/WikiData/WD~concept,151885]]'
-  - '[[_Standards/WikiData/WD~property,937228]]'
-  - '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
+- '[[_Standards/WikiData/WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~property,937228]]'
+- '[[_Standards/WikiData/WD~elements_of_music,11696608]]'
 characteristic_of:
-  - '[[_Standards/WikiData/WD~chord,170439]]'
-  - '[[_Standards/WikiData/WD~scale,179651]]'
-  - '[[_Standards/WikiData/WD~key,534932]]'
-  - '[[_Standards/WikiData/WD~music,638]]'
+- '[[_Standards/WikiData/WD~chord,170439]]'
+- '[[_Standards/WikiData/WD~scale,179651]]'
+- '[[_Standards/WikiData/WD~key,534932]]'
+- '[[_Standards/WikiData/WD~music,638]]'
 different_from: '[[_Standards/WikiData/WD~major_scale,190812]]'
 subclass_of: '[[_Standards/WikiData/WD~tonality,192822]]'
 facet_of: '[[_Standards/WikiData/WD~music_theory,193544]]'
 part_of: '[[_Standards/WikiData/WD~major_and_minor,1439151]]'
 opposite_of: '[[_Standards/WikiData/WD~minor,12827391]]'
 described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+dv_has_:
+  name_:
+    ar: وضع كبير
+    be: Мажор
+    be-tarask: мажор
+    bg: Мажор
+    bs: Dur
+    ca: mode major
+    da: dur
+    de: Dur
+    en: major mode
+    eo: maĵoreco
+    es: modo mayor
+    et: mažoor
+    eu: modu maior
+    fi: duuri
+    fr: Mode majeur
+    gl: modo maior
+    he: מז'ור
+    hr: Dur
+    hu: dúr
+    hy: Մաժոր
+    is: Dúr
+    kk: Мажор
+    ky: Мажор
+    la: durum
+    lv: Mažors
+    ms: Skala major
+    nb: dur
+    nl: Majeur
+    nn: dur
+    oc: Mòde major
+    pt: Modo maior
+    ru: мажор
+    se: dura
+    sh: Dur
+    sl: dur
+    smn: duuri
+    sms: duur
+    sr: Дур
+    sv: dur
+    tr: majör
+    uk: мажорна тональність
+    uz: Major
+    wuu: 自然大调
+    yue: 大調
+    zh: 自然大调
 ---
-
 #is_/same_as :: [[WD~Major,58795659]] 
 #is_/different_from :: [[Minor_Scale]] 
 #is_/different_from :: [[WD~Minor,12827391]] 

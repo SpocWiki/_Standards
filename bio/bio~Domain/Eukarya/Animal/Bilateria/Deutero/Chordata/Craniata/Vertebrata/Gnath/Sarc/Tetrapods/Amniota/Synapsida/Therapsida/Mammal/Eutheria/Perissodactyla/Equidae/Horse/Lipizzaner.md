@@ -1,43 +1,121 @@
 ---
 aliases:
-  - Lipizzan
-  - Lipicanac
-  - Lipicán
-  - Lipizzaner
-  - Lipicai
-  - Lipizzano
-  - Lipicaner
-  - Lipicanec
+- Cavall lipizzà
+- Koń lipicański
+- Lipica ĉevalo
+- Lipicai
+- Lipican
+- Lipicanac
+- Lipicanec
+- Lipicaner
+- Lipicaneri
+- Lipicán
+- Lipisano
+- Lipitsaani hobune
+- Lipizan atı
+- Lipizaneriai
+- Lipizzan
+- Lipizzan oti
+- Lipizzan zaldi
+- Lipizzanar
+- Lipizzaner
+- Lipizzanhevonen
+- Lipizzano
+- Lipițan
+- Lippizaner
+- Ngựa Lipizzan
+- конь ліпіцанскі
+- Ліпіцанер
+- Липица лаши
+- липицанер
+- Липицанери
+- Липицианская лошадь
+- Լիպիցիան ձի
+- ליפיצן
+- ليبيزان
+- リピッツァナー
+- 利皮贊馬
+- 利皮赞马
 has_id_wikidata: Q217671
 instance_of:
-  - '[[_Standards/WikiData/WD~tradition,82821]]'
-  - '[[_Standards/WikiData/WD~horse_breed,1160573]]'
+- '[[_Standards/WikiData/WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~horse_breed,1160573]]'
 subclass_of: '[[_Standards/WikiData/WD~Baroque_horse,808569]]'
 color: '[[_Standards/WikiData/WD~gray,1145422]]'
 has_use:
-  - '[[_Standards/WikiData/WD~combined_driving,1392681]]'
-  - '[[_Standards/WikiData/WD~classical_dressage,1744672]]'
-  - '[[_Standards/WikiData/WD~Q16641397,16641397]]'
-  - '[[_Standards/WikiData/WD~dressage_at_the_Summer_Olympics,76496910]]'
+- '[[_Standards/WikiData/WD~combined_driving,1392681]]'
+- '[[_Standards/WikiData/WD~classical_dressage,1744672]]'
+- '[[_Standards/WikiData/WD~Q16641397,16641397]]'
+- '[[_Standards/WikiData/WD~dressage_at_the_Summer_Olympics,76496910]]'
 intangible_cultural_heritage_status:
-  - '[[_Standards/WikiData/WD~Register_of_the_Intangible_Cultural_Heritage_in_Slovenia,18398453]]'
-  - '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
+- '[[_Standards/WikiData/WD~Register_of_the_Intangible_Cultural_Heritage_in_Slovenia,18398453]]'
+- '[[_Standards/WikiData/WD~Representative_List_of_the_Intangible_Cultural_Heritage_of_Humanity,110319947]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Intangible_Cultural_Heritage,112898263]]'
 country_of_origin:
-  - '[[_Standards/WikiData/WD~Austria,40]]'
-  - '[[_Standards/WikiData/WD~Slovenia,215]]'
+- '[[_Standards/WikiData/WD~Austria,40]]'
+- '[[_Standards/WikiData/WD~Slovenia,215]]'
 mass: 550
 population: 10766
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lipicanec%20PRMO.jpg
 described_at_URL:
-  - https://ich.unesco.org/en/RL/lipizzan-horse-breeding-traditions-01687
-  - https://ich.unesco.org/es/RL/tradiciones-de-cra-de-los-caballos-lipizzanos-01687
-  - https://ich.unesco.org/fr/RL/les-traditions-dlevage-des-chevaux-lipizzan-01687
+- https://ich.unesco.org/en/RL/lipizzan-horse-breeding-traditions-01687
+- https://ich.unesco.org/es/RL/tradiciones-de-cra-de-los-caballos-lipizzanos-01687
+- https://ich.unesco.org/fr/RL/les-traditions-dlevage-des-chevaux-lipizzan-01687
 Commons_gallery: Lipizzaner
 Commons_category: Lipizzaner
 native_label: Lipicanec
+dv_has_:
+  name_:
+    ar: ليبيزان
+    ast: Lipizzano
+    az: Lipizan atı
+    be-tarask: конь ліпіцанскі
+    bs: Lipicaner
+    ca: Cavall lipizzà
+    cs: Lipicán
+    cv: Липица лаши
+    de: Lipizzaner
+    en: Lipizzaner
+    eo: Lipica ĉevalo
+    es: Lipizzano
+    et: Lipitsaani hobune
+    eu: Lipizzan zaldi
+    fi: Lipizzanhevonen
+    fr: Lipizzan
+    ga: Lipizzaner
+    gl: Lipizzan
+    he: ליפיצן
+    hr: Lipicanac
+    hu: lipicai
+    hy: Լիպիցիան ձի
+    id: Lipizzan
+    it: Lipizzano
+    ja: リピッツァナー
+    li: Lippizaner
+    lt: Lipizaneriai
+    mk: липицанер
+    nb: Lipizzaner
+    nl: Lippizaner
+    nn: Lipizzanar
+    pl: Koń lipicański
+    pt: Lipizzan
+    ro: Lipițan
+    ru: Липицианская лошадь
+    sh: Lipicanac
+    sk: Lipican
+    sl: Lipicanec
+    sr: Липицанери
+    sr-ec: Липицанери
+    sr-el: Lipicaneri
+    sv: Lipizzaner
+    tl: Lipisano
+    tr: Lipizzan
+    uk: Ліпіцанер
+    uz: Lipizzan oti
+    vi: Ngựa Lipizzan
+    yue: 利皮贊馬
+    zh: 利皮赞马
 ---
-
 # [[Lipizzaner]] 
 
 #is_/same_as :: [[WD~Lipizzaner,217671]] 

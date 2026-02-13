@@ -1,32 +1,175 @@
 ---
 aliases:
-  - γραφικός
-  - التصميم
-  - Graphics
+- GFX
+- graafik
+- graafika
+- grafaicí
+- graffeg
+- grafica
+- grafică
+- grafiek
+- grafihkka
+- grafiikka
+- grafik
+- grafika
+- grafikk
+- grafiko
+- grafikë
+- grafisk teknik
+- Grafík
+- Graphica
+- Graphics
+- graphique
+- Graveerkunste
+- gràfego
+- gràfics
+- gráfico
+- gráficos
+- qrafika
+- umetnička grafika
+- đồ họa
+- γραφικά
+- γραφικός
+- графіка
+- График
+- графикæ
+- графика
+- Графика (изобразително изкуство)
+- нигоштор
+- уметничка графика
+- գծանկարչութիւն
+- գրաֆիկա
+- גרפיקה
+- ارتباط تصویری
+- التصميم
+- تخطیط
+- رسوميات
+- گرافیست
+- चित्रालेख
+- গ্রাফিক্স
+- গ্ৰাফিক্স
+- வரைகலை
+- กราฟิกส์
+- გრაფიკა
+- グラフィック
+- 图形
+- 圖形
+- 그래픽
 has_id_wikidata: Q1027879
 different_from:
-  - '[[_Standards/WikiData/WD~graph_of_a_function,182598]]'
-  - '[[_Standards/WikiData/WD~Grafík,16425439]]'
-  - '[[_Standards/WikiData/WD~chart,28923]]'
+- '[[_Standards/WikiData/WD~graph_of_a_function,182598]]'
+- '[[_Standards/WikiData/WD~Grafík,16425439]]'
+- '[[_Standards/WikiData/WD~chart,28923]]'
 field_of_work: '[[_Standards/WikiData/WD~graphic_design,185925]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~painter,1028181]]'
-  - '[[_Standards/WikiData/WD~printmaker,11569986]]'
-  - '[[_Standards/WikiData/WD~graphicer,108890218]]'
+- '[[_Standards/WikiData/WD~painter,1028181]]'
+- '[[_Standards/WikiData/WD~printmaker,11569986]]'
+- '[[_Standards/WikiData/WD~graphicer,108890218]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~method,1799072]]'
-  - '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
+- '[[_Standards/WikiData/WD~method,1799072]]'
+- '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
-  - '[[_Standards/WikiData/WD~visual_arts,36649]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~visual_arts,36649]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Commons_category: Graphics
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Carillon%20School%20Jef%20Denyn%20logo.png
 Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GRAFIKA.html
+dv_has_:
+  name_:
+    ar: رسوميات
+    as: গ্ৰাফিক্স
+    az: qrafika
+    azb: گرافیست
+    bar: GFX
+    be: графіка
+    be-tarask: графіка
+    bg: Графика (изобразително изкуство)
+    bn: গ্রাফিক্স
+    bs: Grafika
+    ca: gràfics
+    cs: grafika
+    cv: Графика
+    cy: graffeg
+    da: grafik
+    de: Grafik
+    diq: Grafik
+    el: γραφικά
+    en: graphics
+    en-ca: Graphics
+    en-gb: graphics
+    eo: grafiko
+    es: gráficos
+    et: graafika
+    eu: grafiko
+    fa: ارتباط تصویری
+    fi: grafiikka
+    fr: graphique
+    ga: grafaicí
+    gl: gráficos
+    gsw: Grafik
+    he: גרפיקה
+    hi: चित्रालेख
+    hr: grafika
+    ht: Grafik
+    hu: grafika
+    hy: գրաֆիկա
+    hyw: գծանկարչութիւն
+    id: grafika
+    io: Grafiko
+    is: Grafík
+    it: grafica
+    ja: グラフィック
+    ka: გრაფიკა
+    kaa: Grafika
+    kk: Графика
+    ko: 그래픽
+    ky: График
+    la: Graphica
+    lt: grafika
+    lv: grafika
+    mk: графика
+    ms: grafik
+    nb: grafikk
+    nl: grafiek
+    nn: grafikk
+    os: графикæ
+    pl: grafika
+    pt: gráfico
+    pt-br: gráfico
+    ro: grafică
+    ru: графика
+    sah: Графика
+    sco: graphics
+    se: grafihkka
+    sh: Grafika
+    sk: grafika
+    sl: grafika
+    smn: graafik
+    sms: grafikk
+    sq: grafikë
+    sr: уметничка графика
+    sr-ec: уметничка графика
+    sr-el: umetnička grafika
+    sv: grafisk teknik
+    ta: வரைகலை
+    tg: нигоштор
+    th: กราฟิกส์
+    tr: grafik
+    tyv: Графика
+    uk: графіка
+    ur: تخطیط
+    uz: Grafika
+    vec: gràfego
+    vi: đồ họa
+    vls: Graveerkunste
+    wuu: 图形
+    xmf: გრაფიკა
+    zh: 图形
+    zh-hant: 圖形
 ---
-
 # [[Graphics]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~graphics,1027879|WD~graphics,1027879]] 

@@ -1,9 +1,166 @@
 ---
 aliases:
-  - Camelidae
+- Camelidae
+- camelides
+- camèlids
+- Camélidos
+- cwoleem
+- Deve
+- Devegiller
+- Dəvəkimilər
+- Famîleya hêştiran
+- Họ Lạc đà
+- Kaamellased
+- kameelachtigen
+- Kameelagtige
+- Kameelen
+- Kameldjur
+- kameldyr
+- Kamele
+- Kameledoj
+- Kameler og lamaer
+- kamelfamilien
+- Kamelido
+- kamelit
+- Kamieleftigen
+- Kamieļu dzimta
+- Kaméiler
+- Kemelachtign
+- Kemelechtege
+- kumte
+- Kupranugariniai
+- tevefélék
+- Tileɣmatin
+- Tüýetärizdiler
+- velbloudovití
+- wielbłądowate
+- Καμηλίδες
+- Верблюдові
+- Верблюдовые
+- вярблюдавыя
+- Инкала куце дийнаташ
+- Камили
+- камилови
+- Түйетәрізділер
+- Тӱе-влак
+- גמליים
+- اونٹھ ٹبر
+- تۇيەتارىزدىلەر
+- جمليات
+- شترسانان
+- فامیلەیا هێشتران
+- उष्ट्रगण
+- ഉഷ്ട്രവംശി
+- อูฐ
+- აქლემისებრნი
+- ラクダ科
+- 駱駝科
+- 骆驼科
+- 낙타과
 title: Camelidae
+has_id_wikidata: Q135022
+dv_has_:
+  name_:
+    af: Kameelagtige
+    an: Camelidae
+    ar: جمليات
+    arz: جمليات
+    ast: Camelidae
+    avk: cwoleem
+    az: Dəvəkimilər
+    be: вярблюдавыя
+    be-tarask: Вярблюдавыя
+    bg: камилови
+    br: Camelidae
+    ca: camèlids
+    ceb: Camelidae
+    cs: velbloudovití
+    da: Kameler og lamaer
+    de: Kamele
+    el: Καμηλίδες
+    en: Camelidae
+    eo: Kameledoj
+    es: Camelidae
+    et: Kaamellased
+    eu: Kamelido
+    ext: Camelidae
+    fa: شترسانان
+    fi: kamelit
+    fr: Camelidae
+    frr: Kameelen
+    fy: Kamieleftigen
+    ga: Camelidae
+    gd: Camelidae
+    gl: Camélidos
+    he: גמליים
+    hi: उष्ट्रगण
+    hr: Deve
+    hu: tevefélék
+    ia: camelides
+    id: Camelidae
+    ie: Camelidae
+    inh: Инкала куце дийнаташ
+    io: Camelidae
+    it: Camelidae
+    ja: ラクダ科
+    jbo: kumte
+    jv: Camelidae
+    ka: აქლემისებრნი
+    kab: Tileɣmatin
+    kk: Түйетәрізділер
+    kk-arab: تۇيەتارىزدىلەر
+    kk-cn: تۇيەتارىزدىلەر
+    kk-cyrl: Түйетәрізділер
+    kk-kz: Түйетәрізділер
+    kk-latn: Tüýetärizdiler
+    kk-tr: Tüýetärizdiler
+    ko: 낙타과
+    ku: Famîleya hêştiran
+    ku-arab: فامیلەیا هێشتران
+    ku-latn: Famîleya hêştiran
+    la: Camelidae
+    lb: Kaméiler
+    li: Kemelechtege
+    lt: Kupranugariniai
+    lv: Kamieļu dzimta
+    mhr: Тӱе-влак
+    mk: Камили
+    ml: ഉഷ്ട്രവംശി
+    mul: Camelidae
+    nb: kameldyr
+    nl: kameelachtigen
+    nn: kamelfamilien
+    oc: Camelidae
+    pl: wielbłądowate
+    pnb: اونٹھ ٹبر
+    pt: Camelidae
+    pt-br: Camelidae
+    ro: Camelidae
+    ru: Верблюдовые
+    scn: Camelidae
+    sco: Camelidae
+    sl: kamele
+    sq: Camelidae
+    sr: Camelidae
+    sv: Kameldjur
+    th: อูฐ
+    tl: Camelidae
+    tr: Devegiller
+    uk: Верблюдові
+    vi: Họ Lạc đà
+    vls: Kemelachtign
+    vo: Camelidae
+    war: Camelidae
+    wuu: 骆驼科
+    yue: 駱駝科
+    zh: 骆驼科
+    zh-cn: 骆驼科
+    zh-hans: 骆驼科
+    zh-hant: 駱駝科
+    zh-hk: 駱駝科
+    zh-sg: 骆驼科
+    zh-tw: 駱駝科
 ---
-
 # [[Camelidae]] 
 
 ![ ](Camelidae/Camel/Camelus_bactrianus.jpg)

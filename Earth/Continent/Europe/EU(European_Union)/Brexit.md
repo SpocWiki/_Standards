@@ -1,20 +1,76 @@
 ---
 aliases:
+- Apvienotās Karalistes izstāšanās kampaņa no Eiropas Savienības
+- Birleşik Krallık'ın Avrupa Birliği'nden ayrılması
+- Breatimeacht
+- Breksitas
+- Brexit
+- Brexitus
+- Briteliro
+- Brɛ̈kdhït
+- Böyük Britaniyanın Avropa İttifaqından çıxışı
+- Erresuma Batua Europar Batasunetik irtetea
+- retrait du Royaume-Uni de l'Union européenne
+- salida del Reino Unido de la Unión Europea
+- salida del Reinu Xuníu de la Xunión Europea
+- sortida del Regne Unit de la Unió Europea
+- uscita del Regno Unito dall'Unione europea
+- uscita di u Regnu Unitu da l'Unione Europea
+- Έξοδος του Ηνωμένου Βασίλειου από την Ευρωπαϊκή Ένωση
+- Брегзит
+- Брексит
+- Брэксыт
+- Вихід Великої Британії з Європейського союзу
+- Выхад Вялікабрытаніі з Еўрапейскага саюза
+- Выход Великобритании из Европейского Союза
+- Излизане на Великобритания от Европейския съюз
+- Повлачење Уједињеног Краљевства из Европске уније
+- Ұлыбританияның Еуроодақтан шығуы
+- Անգլիոյ Հեռացումը Եւրոպական Միութենէն
+- Բրեքսիթ
+- ברעקסיט
+- פרישת הממלכה המאוחדת מהאיחוד האירופי
+- انسحاب المملكة المتحدة من الاتحاد الأوروبي
+- برطانیہ دا یورپی یونین توں نکلنا
+- بريكزيت
+- بریگزٹ
+- خروج بریتانیا از اتحادیه اروپا
+- د برتانیا وتل د اروپایي اتحادیه نه
+- ब्रेक्जिट
+- ब्रेक्झिट
+- युनाइटेड किंगडम का यूरोपीय संघ से बहिर्गमन
+- ইউরোপীয় ইউনিয়ন থেকে যুক্তরাজ্যের বিচ্ছেদ
+- ব্ৰেক্সিট
+- ਯੂਰਪੀ ਯੂਨੀਅਨ ਤੋਂ ਯੁਨਾਈਟਡ ਕਿੰਗਡਮ ਦਾ ਨਿਕਲਣਾ
+- பிரெக்சிட்டு
+- యూరోపియన్ యూనియన్ నుంచి బ్రిటన్ ఉపసంహరణ
+- ಬ್ರೆಕ್ಸಿಟ್
+- ബ്രെക്സിറ്റ്
+- බ්රෙක්සිට්
+- การออกจากสหภาพยุโรปของสหราชอาณาจักร
+- ဗြိသိတ် (Brexit)
+- ဘရက်ဇစ်
+- გაერთიანებული სამეფოს გასვლა ევროკავშირიდან
+- イギリスの欧州連合離脱
+- 英国脱欧
+- 英國脫歐
+- 英歐解盟
+- 브렉시트
 has_id_wikidata: Q7888194
-instance_of: "[[_Standards/WikiData/WD~withdrawal_from_the_European_Union,3123616]]"
-facet_of: "[[_Standards/WikiData/WD~euroscepticism_in_the_United_Kingdom,5413809]]"
-main_regulatory_text: "[[_Standards/WikiData/WD~Article_50_of_the_Treaty_on_European_Union,23017389]]"
-has_effect: "[[_Standards/WikiData/WD~economic_effects_of_Brexit,30687049]]"
-agent_of_action: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+instance_of: '[[_Standards/WikiData/WD~withdrawal_from_the_European_Union,3123616]]'
+facet_of: '[[_Standards/WikiData/WD~euroscepticism_in_the_United_Kingdom,5413809]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Article_50_of_the_Treaty_on_European_Union,23017389]]'
+has_effect: '[[_Standards/WikiData/WD~economic_effects_of_Brexit,30687049]]'
+agent_of_action: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 participant:
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]"
-country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~Union_of_European_Football_Associations,35572]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 social_media_followers: 55761
 short_name: Brexit
 hashtag: Brexit
 Commons_category: Brexit
-OmegaWiki_Defined_Meaning: "1641633"
+OmegaWiki_Defined_Meaning: 1641633
 IMDb_keyword: brexit
 subreddit: brexit
 point_in_time: 2020-01-31T00:00:00Z
@@ -22,8 +78,156 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/EU-Austritt%20%2847521
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Trim.124028DB-3986-4A22-BE88-3024C92E0C3A.webm
 WordLift_URL: http://data.thenextweb.com/tnw/entity/brexit
 Know_Your_Meme_slug: united-kingdom-withdrawal-from-the-european-union-brexit
+dv_has_:
+  name_:
+    af: Brexit
+    an: Brexit
+    ar: انسحاب المملكة المتحدة من الاتحاد الأوروبي
+    arz: بريكزيت
+    as: ব্ৰেক্সিট
+    ast: salida del Reinu Xuníu de la Xunión Europea
+    az: Böyük Britaniyanın Avropa İttifaqından çıxışı
+    bar: Brexit
+    be: Выхад Вялікабрытаніі з Еўрапейскага саюза
+    be-tarask: Брэксыт
+    bg: Излизане на Великобритания от Европейския съюз
+    bho: ब्रेक्जिट
+    bjn: Brexit
+    bn: ইউরোপীয় ইউনিয়ন থেকে যুক্তরাজ্যের বিচ্ছেদ
+    br: Brexit
+    bs: Brexit
+    ca: sortida del Regne Unit de la Unió Europea
+    co: uscita di u Regnu Unitu da l'Unione Europea
+    cs: brexit
+    cy: Brexit
+    da: Brexit
+    de: Brexit
+    de-at: Brexit
+    de-ch: Brexit
+    din: Brɛ̈kdhït
+    diq: Brexit
+    el: Έξοδος του Ηνωμένου Βασίλειου από την Ευρωπαϊκή Ένωση
+    en: Brexit
+    en-ca: Brexit
+    en-gb: Brexit
+    eo: Briteliro
+    es: salida del Reino Unido de la Unión Europea
+    et: Brexit
+    eu: Erresuma Batua Europar Batasunetik irtetea
+    fa: خروج بریتانیا از اتحادیه اروپا
+    fi: Brexit
+    fit: Brexit
+    fr: retrait du Royaume-Uni de l'Union européenne
+    frp: Brexit
+    fur: Brexit
+    ga: Breatimeacht
+    gd: Brexit
+    gl: Brexit
+    gsw: Brexit
+    he: פרישת הממלכה המאוחדת מהאיחוד האירופי
+    hi: युनाइटेड किंगडम का यूरोपीय संघ से बहिर्गमन
+    hr: Brexit
+    hu: Brexit
+    hy: Բրեքսիթ
+    hyw: Անգլիոյ Հեռացումը Եւրոպական Միութենէն
+    ia: Brexit
+    id: Brexit
+    ie: Brexit
+    io: Brexit
+    is: Brexit
+    it: uscita del Regno Unito dall'Unione europea
+    ja: イギリスの欧州連合離脱
+    jv: Brexit
+    ka: გაერთიანებული სამეფოს გასვლა ევროკავშირიდან
+    kg: Brexit
+    ki: Brexit
+    kk: Ұлыбританияның Еуроодақтан шығуы
+    kn: ಬ್ರೆಕ್ಸಿಟ್
+    ko: 브렉시트
+    ks: بریگزٹ
+    kw: Brexit
+    ky: Брексит
+    la: Brexitus
+    lb: Brexit
+    lfn: Brexit
+    li: Brexit
+    lij: Brexit
+    lt: Breksitas
+    lv: Apvienotās Karalistes izstāšanās kampaņa no Eiropas Savienības
+    lzh: 英歐解盟
+    mg: Brexit
+    min: Brexit
+    mk: Брегзит
+    ml: ബ്രെക്സിറ്റ്
+    mnw: ဗြိသိတ် (Brexit)
+    mr: ब्रेक्झिट
+    ms: Brexit
+    mul: Brexit
+    my: ဘရက်ဇစ်
+    nan: Brexit
+    nap: Brexit
+    nb: Brexit
+    nds: Brexit
+    nds-nl: brexit
+    nl: brexit
+    nn: brexit
+    nrm: Brexit
+    oc: Brexit
+    pa: ਯੂਰਪੀ ਯੂਨੀਅਨ ਤੋਂ ਯੁਨਾਈਟਡ ਕਿੰਗਡਮ ਦਾ ਨਿਕਲਣਾ
+    pcd: Brexit
+    pl: brexit
+    pms: Brexit
+    pnb: برطانیہ دا یورپی یونین توں نکلنا
+    ps: د برتانیا وتل د اروپایي اتحادیه نه
+    pt: Brexit
+    pt-br: Brexit
+    rm: Brexit
+    rmf: Brexit
+    ro: Brexit
+    ru: Выход Великобритании из Европейского Союза
+    rue: Brexit
+    sc: Brexit
+    scn: Brexit
+    sco: Brexit
+    se: Brexit
+    sgs: Brexit
+    sh: Повлачење Уједињеног Краљевства из Европске уније
+    si: බ්රෙක්සිට්
+    sje: Brexit
+    sju: Brexit
+    sk: brexit
+    sl: brexit
+    sma: Brexit
+    smj: Brexit
+    smn: Brexit
+    sms: Brexit
+    sq: BREXIT
+    sr: Повлачење Уједињеног Краљевства из Европске уније
+    sr-el: Brexit
+    sv: Brexit
+    sw: Brexit
+    ta: பிரெக்சிட்டு
+    te: యూరోపియన్ యూనియన్ నుంచి బ్రిటన్ ఉపసంహరణ
+    th: การออกจากสหภาพยุโรปของสหราชอาณาจักร
+    tr: Birleşik Krallık'ın Avrupa Birliği'nden ayrılması
+    uk: Вихід Великої Британії з Європейського союзу
+    ur: بریگزٹ
+    uz: Brexit
+    vec: Brexit
+    vi: Brexit
+    vls: Brexit
+    vo: Brexit
+    wa: Brexit
+    war: Brexit
+    wo: Brexit
+    wuu: 英国脱欧
+    yi: ברעקסיט
+    yue: 英國脫歐
+    zh: 英國脫歐
+    zh-hant: 英國脫歐
+    zh-tw: 英國脫歐
+    zu: Brexit
 ---
-
 # [[Brexit]] 
 
 #has_/time_/started :: 23 June 2016-06-23 

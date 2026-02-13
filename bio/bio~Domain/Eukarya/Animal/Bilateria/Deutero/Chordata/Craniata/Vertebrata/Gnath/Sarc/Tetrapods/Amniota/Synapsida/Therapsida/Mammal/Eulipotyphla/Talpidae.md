@@ -1,24 +1,98 @@
 ---
 aliases:
-  - Talpidae
-  - Maulwürfe
-  - Talpedoj
-  - モグラ科
-  - ติ่ง
-  - ตุ่น
-  - Köstebekgiller
-  - Кроти
+- Chăng-màng-chṳ̄
+- Cârtiță
+- Duzhaet
+- elmoleem
+- Gozeged
+- Heremuşk
+- Họ Chuột chũi
+- knoty
+- kontiaiset
+- Koremişk
+- Kretowate
+- krti
+- Krtice
+- krtkovití
+- Kurminiai
+- kurmju dzimta
+- Körtışqan
+- Köstebekgiller
+- Köstəbəklər
+- Kūrmuş
+- Makondi
+- mamuemu
+- Maulwürfe
+- mol
+- Moldvörpur
+- mollen
+- Mols
+- Molwarper
+- Muamygry
+- muldvarpe
+- muldvarpfamilien
+- Mutlased
+- Sator
+- Talpedoj
+- Talpidae
+- tàlpids
+- Tálpidos
+- Urithi
+- vakondfélék
+- Winnewörp
+- Ασπαλακίδες
+- АьрцӀан кӀулу
+- БецагӀункӀкӀ
+- Боьлкъазарш
+- Каюра йышшисем
+- Кертица
+- Кратовыя
+- Кроти
+- Кротові
+- Кротовые
+- Кроттар кэргэннэрэ
+- Кртице
+- Кртови
+- Куырм мыст
+- къртицови
+- Көртышқан
+- Көрчычкандар
+- Кӯрмуш
+- Максазей
+- Мудӥсьныр
+- Муош
+- Сохор номин
+- Удыр
+- Ыдыр йишвлӓ
+- Һуҡыр сысҡан
+- խլուրդներ
+- חפרפרתיים
+- طوبينيات
+- كورتىشقان
+- کورموشها
+- کۆرەمشک
+- ติ่ง
+- ตุ่น
+- თხუნელასებრნი
+- მუხვიშობურეფი
+- ᠪᡠᡥᠠ ᠰᡳᠩᡤᡝᡵᡳ
+- モグラ
+- モグラ科
+- 鼴科
+- 鼴鼠
+- 鼹科
+- 두더지
 has_id_wikidata: Q104825
 main_food_source:
-  - '[[_Standards/WikiData/WD~caterpillar,81825]]'
-  - '[[_Standards/WikiData/WD~chrysalis,1781247]]'
-  - '[[_Standards/WikiData/WD~worm,47253]]'
+- '[[_Standards/WikiData/WD~caterpillar,81825]]'
+- '[[_Standards/WikiData/WD~chrysalis,1781247]]'
+- '[[_Standards/WikiData/WD~worm,47253]]'
 has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
 described_by_source:
-  - '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9136422,9136422]]'
 parent_taxon: '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q118587591,118587591]]'
@@ -31,20 +105,136 @@ Commons_category: Talpidae
 taxon_name: Talpidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Talpa%20europaea%20MHNT.jpg
 taxon_common_name:
-  - Maulwürfe
-  - Talpedoj
-  - モグラ科
-  - ติ่ง
-  - ตุ่น
-  - Köstebekgiller
-  - Кроти
+- Maulwürfe
+- Talpedoj
+- モグラ科
+- ติ่ง
+- ตุ่น
+- Köstebekgiller
+- Кроти
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Talpidae%20family%20pictures.png
 EPPO_Code: 1TALPF
 Common_Procurement_Vocabulary_code: 43124100-9
 NBN_System_Key: NHMSYS0000376159
 Dewey_Decimal_Classification: 599.335
+dv_has_:
+  name_:
+    af: mol
+    an: Talpidae
+    ar: طوبينيات
+    arz: طوبينيات
+    ast: Talpidae
+    av: БецагӀункӀкӀ
+    avk: elmoleem
+    az: Köstəbəklər
+    ba: Һуҡыр сысҡан
+    be: Кратовыя
+    be-tarask: Кратовыя
+    bg: къртицови
+    br: Gozeged
+    ca: tàlpids
+    cdo: Chăng-màng-chṳ̄
+    ce: Боьлкъазарш
+    ceb: Talpidae
+    cs: krtkovití
+    cv: Каюра йышшисем
+    da: muldvarpe
+    de: Maulwürfe
+    diq: Heremuşk
+    el: Ασπαλακίδες
+    en: Talpidae
+    eo: Talpedoj
+    es: Talpidae
+    et: Mutlased
+    eu: Sator
+    ext: Talpidae
+    fa: کورموشها
+    fi: kontiaiset
+    fr: Talpidae
+    frr: Molwarper
+    ga: Talpidae
+    gl: Tálpidos
+    he: חפרפרתיים
+    hr: Krtice
+    hsb: knoty
+    hu: vakondfélék
+    hy: խլուրդներ
+    ia: Talpidae
+    ie: Talpidae
+    io: Talpidae
+    is: Moldvörpur
+    it: Talpidae
+    ja: モグラ
+    ka: თხუნელასებრნი
+    kk: Көртышқан
+    kk-arab: كورتىشقان
+    kk-cn: كورتىشقان
+    kk-cyrl: Көртышқан
+    kk-kz: Көртышқан
+    kk-latn: Körtışqan
+    kk-tr: Körtışqan
+    ko: 두더지
+    ku: Koremişk
+    ku-arab: کۆرەمشک
+    ku-latn: Koremişk
+    kv: Муош
+    ky: Көрчычкандар
+    la: Talpidae
+    lbe: АьрцӀан кӀулу
+    lt: Kurminiai
+    lv: kurmju dzimta
+    mhr: Удыр
+    mk: Кртови
+    mn: Сохор номин
+    mnc: ᠪᡠᡥᠠ ᠰᡳᠩᡤᡝᡵᡳ
+    mrj: Ыдыр йишвлӓ
+    mul: Talpidae
+    myv: Максазей
+    nb: muldvarpfamilien
+    nds: Winnewörp
+    nl: mollen
+    oc: Talpidae
+    olo: Muamygry
+    os: Куырм мыст
+    pl: Kretowate
+    pt: Talpidae
+    pt-br: Talpidae
+    ro: Cârtiță
+    rsk: Кертица
+    ru: Кротовые
+    sah: Кроттар кэргэннэрэ
+    sh: Krtice
+    sl: krti
+    sq: Urithi
+    sr: Кртице
+    sr-ec: Talpidae
+    sr-el: Talpidae
+    sv: Talpidae
+    szy: mamuemu
+    tg: Кӯрмуш
+    tg-latn: Kūrmuş
+    th: ตุ่น
+    tl: Talpidae
+    tr: Köstebekgiller
+    udm: Мудӥсьныр
+    uk: Кротові
+    vep: Makondi
+    vi: Họ Chuột chũi
+    vls: Mols
+    vo: Talpidae
+    war: Talpidae
+    wuu: 鼹科
+    xmf: მუხვიშობურეფი
+    yue: 鼴鼠
+    za: Duzhaet
+    zh: 鼴科
+    zh-cn: 鼹科
+    zh-hans: 鼹科
+    zh-hant: 鼴科
+    zh-hk: 鼴科
+    zh-sg: 鼹科
+    zh-tw: 鼴科
 ---
-
 # [[Talpidae]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../WikiData/WD~Talpidae,104825|WD~Talpidae,104825]]  

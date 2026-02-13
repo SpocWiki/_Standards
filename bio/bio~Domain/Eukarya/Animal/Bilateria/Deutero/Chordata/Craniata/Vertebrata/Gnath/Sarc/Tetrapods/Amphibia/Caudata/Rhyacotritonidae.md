@@ -1,9 +1,66 @@
 ---
 aliases:
-  - Rhyacotritonidae
+- Mlokánkovití
+- Rhyacotriton
+- Rhyacotritonidae
+- Tó ńlį́įyiʼ tsxilghááh
+- סלמנדרות אולימפיות
+- رياكوتريتون
+- سمندر تندابه
+- 急流螈
+- 急流螈属
+- 용암도롱뇽속
 title: Rhyacotritonidae
+has_id_wikidata: Q1187581
+dv_has_:
+  name_:
+    an: Rhyacotriton
+    arz: رياكوتريتون
+    ast: Rhyacotriton
+    bg: Rhyacotriton
+    ca: Rhyacotriton
+    ceb: Rhyacotriton
+    cs: Mlokánkovití
+    de: Rhyacotriton
+    en: Rhyacotriton
+    eo: Rhyacotriton
+    es: Rhyacotriton
+    eu: Rhyacotriton
+    ext: Rhyacotriton
+    fa: سمندر تندابه
+    fi: Rhyacotriton
+    fr: Rhyacotriton
+    ga: Rhyacotriton
+    gl: Rhyacotriton
+    he: סלמנדרות אולימפיות
+    hu: Rhyacotriton
+    ia: Rhyacotriton
+    ie: Rhyacotriton
+    io: Rhyacotriton
+    it: Rhyacotriton
+    ko: 용암도롱뇽속
+    la: Rhyacotriton
+    mul: Rhyacotriton
+    nl: Rhyacotriton
+    nv: Tó ńlį́įyiʼ tsxilghááh
+    oc: Rhyacotriton
+    pl: Rhyacotriton
+    pt: Rhyacotriton
+    pt-br: Rhyacotriton
+    ro: Rhyacotriton
+    ru: Rhyacotriton
+    sq: Rhyacotriton
+    sv: Rhyacotriton
+    uk: Rhyacotriton
+    vi: Rhyacotriton
+    vo: Rhyacotriton
+    war: Rhyacotriton
+    zh: 急流螈属
+    zh-cn: 急流螈属
+    zh-hans: 急流螈属
+    zh-hant: 急流螈
+    zh-hk: 急流螈
 ---
-
 # Rhyacotritonidae
 
 Torrent Salamanders 

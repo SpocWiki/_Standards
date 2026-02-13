@@ -1,9 +1,49 @@
 ---
 aliases:
-  - Ameloctopus
+- Ameloctopus
+- 无墨蛸属
+- 無墨蛸屬
 title: Ameloctopus litoralis
+has_id_wikidata: Q4742344
+dv_has_:
+  name_:
+    an: Ameloctopus
+    ast: Ameloctopus
+    bg: Ameloctopus
+    ca: Ameloctopus
+    ceb: Ameloctopus
+    de: Ameloctopus
+    en: Ameloctopus
+    eo: Ameloctopus
+    es: Ameloctopus
+    eu: Ameloctopus
+    ext: Ameloctopus
+    fi: Ameloctopus
+    fr: Ameloctopus
+    ga: Ameloctopus
+    gl: Ameloctopus
+    ia: Ameloctopus
+    ie: Ameloctopus
+    io: Ameloctopus
+    it: Ameloctopus
+    la: Ameloctopus
+    mul: Ameloctopus
+    nl: Ameloctopus
+    oc: Ameloctopus
+    pl: Ameloctopus
+    pt: Ameloctopus
+    pt-br: Ameloctopus
+    ro: Ameloctopus
+    ru: Ameloctopus
+    sq: Ameloctopus
+    uk: Ameloctopus
+    vi: Ameloctopus
+    vo: Ameloctopus
+    war: Ameloctopus
+    zh: 無墨蛸屬
+    zh-cn: 无墨蛸属
+    zh-hans: 无墨蛸属
 ---
-
 ## Phylogeny 
 
 -   « Ancestral Groups  

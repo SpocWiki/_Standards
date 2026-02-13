@@ -1,28 +1,185 @@
 ---
 aliases:
+- Empèri Mède
+- Imperi Mede
+- Madaylar
+- Med û Medya
+- Medar
+- Medarar
+- Mede
+- Meded
+- Meden
+- Meder
+- Medere
+- Mederne
+- Medes
+- Medi
+- Media
+- Media (rexón)
+- Mediana
+- Medians
+- Medien
+- Medija
+- Medijci
+- Medler
+- Medoj
+- Medos
+- Medowie
+- Meedia riik
+- meedialaiset
+- Mezi
+- Mga Medo
+- Mèdes
+- médek
+- Médi
+- Média
+- Médové
+- Méidigh
+- mīdieši
+- Người Media
+- orang Mede
+- Umedi
+- Μήδοι
+- Мідія
+- мідыйцы
+- Мідыя
+- Међани
+- Мидијци
+- Мидийци
+- мидийцы
+- Мидиялыктар
+- мидиялылар
+- модҳо
+- մարեր
+- מדי
+- الميديين
+- د ماد واکمني
+- قوم ماد
+- ماد
+- ماد ایمپراتورلوغو
+- ميديون
+- मीदि साम्राज्य
+- মেডিস
+- மீடியாப் பேரரசு
+- ชาวมีดซ์
+- მიდია
+- ሜዶን
+- メディア王国
+- 米底亞王國
+- 米底王国
+- 메디아
 has_id_wikidata: Q8735
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Mithraic_mysteries,219903]]"
-  - "[[_Standards/WikiData/WD~Ancient_Iranian_religion,5959447]]"
-  - "[[_Standards/WikiData/WD~Zoroastrianism,9601]]"
-significant_person: "[[_Standards/WikiData/WD~Deioces,332578]]"
+- '[[_Standards/WikiData/WD~Mithraic_mysteries,219903]]'
+- '[[_Standards/WikiData/WD~Ancient_Iranian_religion,5959447]]'
+- '[[_Standards/WikiData/WD~Zoroastrianism,9601]]'
+significant_person: '[[_Standards/WikiData/WD~Deioces,332578]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-capital: "[[_Standards/WikiData/WD~Ecbatana,696193]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+capital: '[[_Standards/WikiData/WD~Ecbatana,696193]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Iranian_peoples,1672477]]"
-  - "[[_Standards/WikiData/WD~people,2472587]]"
-different_from: "[[_Standards/WikiData/WD~Medi,1916114]]"
-language_used: "[[_Standards/WikiData/WD~Median,36461]]"
+- '[[_Standards/WikiData/WD~Iranian_peoples,1672477]]'
+- '[[_Standards/WikiData/WD~people,2472587]]'
+different_from: '[[_Standards/WikiData/WD~Medi,1916114]]'
+language_used: '[[_Standards/WikiData/WD~Median,36461]]'
 Commons_category: Medes
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Median%20Empire.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PLATE2BX.jpg
 inception: -0677-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Mede
+    am: ሜዶን
+    an: Medians
+    ar: ميديون
+    arz: الميديين
+    ast: Media (rexón)
+    az: Madaylar
+    azb: ماد ایمپراتورلوغو
+    ba: мидиялылар
+    be: Мідыя
+    be-tarask: мідыйцы
+    bg: Мидийци
+    bn: মেডিস
+    br: Meded
+    ca: Imperi Mede
+    ceb: Mga Medo
+    ckb: ماد
+    cs: Médové
+    da: Mederne
+    de: Meder
+    de-ch: Medien
+    el: Μήδοι
+    en: Medes
+    en-ca: Medes
+    en-gb: Medes
+    eo: Medoj
+    es: medos
+    et: Meedia riik
+    eu: Media
+    fa: قوم ماد
+    fi: meedialaiset
+    fr: Mèdes
+    fy: Meden
+    ga: Méidigh
+    gl: Medos
+    he: מדי
+    hi: मीदि साम्राज्य
+    hr: Medijci
+    hu: médek
+    hy: մարեր
+    id: orang Mede
+    is: Medar
+    it: Medi
+    ja: メディア王国
+    ka: მიდია
+    ko: 메디아
+    ku: Med û Medya
+    ky: Мидиялыктар
+    la: Media
+    lrc: ماد
+    lt: Medija
+    lv: mīdieši
+    mg: Mediana
+    mk: Мидијци
+    ms: Medes
+    mzn: ماد
+    nb: Medere
+    nl: Meden
+    nn: Medarar
+    oc: Empèri Mède
+    pl: Medowie
+    pnb: ماد
+    ps: د ماد واکمني
+    pt: Medos
+    pt-br: Medos
+    ro: Mezi
+    ru: мидийцы
+    sco: Medes
+    sh: Medijci
+    sk: Médi
+    sl: Medijci
+    sr: Међани
+    su: Média
+    sv: meder
+    sw: Umedi
+    ta: மீடியாப் பேரரசு
+    tg: модҳо
+    th: ชาวมีดซ์
+    tl: Mga Medo
+    tr: Medler
+    uk: Мідія
+    ur: ماد
+    vi: Người Media
+    war: Medes
+    wuu: 米底王国
+    xmf: მიდია
+    yue: 米底亞王國
+    zh: 米底王国
 ---
-
 # [[Medes]] 
 
 #is_/same_as :: [[WD~Medes,8735]] 

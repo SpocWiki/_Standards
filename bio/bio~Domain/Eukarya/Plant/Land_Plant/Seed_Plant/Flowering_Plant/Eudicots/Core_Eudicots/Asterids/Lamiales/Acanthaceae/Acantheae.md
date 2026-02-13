@@ -1,9 +1,107 @@
 ---
 aliases:
-  - Acantheae
+- Acantheae
+- Acanthoideae
+- medvekörömformák
+- أقنثاوات
+- اقنثاوات
+- முண்மூலிகைத் துணைக்குடும்பம்
+- 爵床亚科
+- 쥐꼬리망초아과
 title: Acantheae
+has_id_wikidata: Q822684
+dv_has_:
+  name_:
+    af: Acanthoideae
+    an: Acanthoideae
+    ar: أقنثاوات
+    arz: اقنثاوات
+    ast: Acanthoideae
+    bar: Acanthoideae
+    bg: Acanthoideae
+    br: Acanthoideae
+    ca: Acanthoideae
+    ceb: Acanthoideae
+    co: Acanthoideae
+    cs: Acanthoideae
+    cy: Acanthoideae
+    da: Acanthoideae
+    de: Acanthoideae
+    de-at: Acanthoideae
+    de-ch: Acanthoideae
+    en: Acanthoideae
+    en-ca: Acanthoideae
+    en-gb: Acanthoideae
+    eo: Acanthoideae
+    es: Acanthoideae
+    et: Acanthoideae
+    eu: Acanthoideae
+    ext: Acanthoideae
+    fi: Acanthoideae
+    fr: Acanthoideae
+    frp: Acanthoideae
+    fur: Acanthoideae
+    ga: Acanthoideae
+    gd: Acanthoideae
+    gl: Acanthoideae
+    gsw: Acanthoideae
+    hr: Acanthoideae
+    hu: medvekörömformák
+    ia: Acanthoideae
+    id: Acanthoideae
+    ie: Acanthoideae
+    io: Acanthoideae
+    is: Acanthoideae
+    it: Acanthoideae
+    kg: Acanthoideae
+    ko: 쥐꼬리망초아과
+    la: Acanthoideae
+    lb: Acanthoideae
+    li: Acanthoideae
+    lij: Acanthoideae
+    mg: Acanthoideae
+    min: Acanthoideae
+    ms: Acanthoideae
+    mul: Acanthoideae
+    nap: Acanthoideae
+    nb: Acanthoideae
+    nds: Acanthoideae
+    nds-nl: Acanthoideae
+    nl: Acanthoideae
+    nn: Acanthoideae
+    nrm: Acanthoideae
+    nys: Acanthoideae
+    oc: Acanthoideae
+    pcd: Acanthoideae
+    pl: Acanthoideae
+    pms: Acanthoideae
+    pt: Acanthoideae
+    pt-br: Acanthoideae
+    rm: Acanthoideae
+    ro: Acanthoideae
+    ru: Acanthoideae
+    sc: Acanthoideae
+    scn: Acanthoideae
+    sco: Acanthoideae
+    sk: Acanthoideae
+    sl: Acanthoideae
+    sq: Acanthoideae
+    sv: Acanthoideae
+    sw: Acanthoideae
+    ta: முண்மூலிகைத் துணைக்குடும்பம்
+    uk: Acanthoideae
+    vec: Acanthoideae
+    vi: Acanthoideae
+    vls: Acanthoideae
+    vo: Acanthoideae
+    wa: Acanthoideae
+    war: Acanthoideae
+    wo: Acanthoideae
+    zh: 爵床亚科
+    zh-cn: 爵床亚科
+    zh-hans: 爵床亚科
+    zu: Acanthoideae
 ---
-
 # [[Acantheae]] 
 
 

@@ -1,23 +1,175 @@
 ---
 aliases:
-  - Microchiroptera
+- Dơi nhỏ
+- Fladermüsen
+- Fledermäuse
+- Fliedermais
+- Fläddermuuse
+- Jaaʼabaní
+- Kampret
+- Kamprèt
+- kis denevérek
+- Koʻrshapalaklar
+- Küçük yarasalar
+- Liliac
+- mali netopirji
+- Mažieji šikšnosparniai
+- Microchiroptera
+- Micromorcegos
+- microquiròpters
+- Mursyegalo
+- netopýři
+- njetopyrje
+- pienlepakot
+- Popo-wadudu
+- Rattopennugo
+- Sitnošišmiši
+- Småfladdermöss
+- Småflagermus
+- småflaggermus
+- sīksikspārņi
+- Utschè-mezmieur
+- yarasa
+- Çара çерçи
+- Öläpakaine
+- Şewşewıke
+- Μικροχειρόπτερα
+- Бирдолаг
+- Бордъя шыр
+- Бурдолг
+- Жарқанаттар
+- кажани
+- кажаны
+- Кьаркьулув
+- Кӯршабпаракҳо
+- летучие мыши
+- Мали љиљци
+- Насекомоядни прилепи
+- Сарьсан багваахай
+- хæлынбыттыртæ
+- Ярканатлар
+- Ярғанаттар
+- չղջիկներ
+- עטלפים קטנים
+- خفاشهای کوچک
+- خفافيش صغيرة
+- خفافيش صغيره
+- نکیاں چمگادڑاں
+- მწერიჭამია ხელფრთიანები
+- ココウモリ
+- 小蝙蝠
+- 小蝙蝠亚目
+- 小蝙蝠亞目
+- 작은박쥐류
 has_id_wikidata: Q971343
 title: Microchiroptera
-taxon_rank: "[[_Standards/WikiData/WD~suborder,5867959]]"
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-award_received: "[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+award_received: '[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 552302
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Big-eared-townsend-fledermaus.jpg
-Unicode_character: 🦇
+Unicode_character: "\U0001F987"
 Commons_category: Microchiroptera
 taxon_name: Microchiroptera
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ultrasonic%20bat%20calls.ogg
 NBN_System_Key: NHMSYS0000376878
+dv_has_:
+  name_:
+    an: Microchiroptera
+    ar: خفافيش صغيرة
+    arz: خفافيش صغيره
+    ast: Microchiroptera
+    az: yarasa
+    ba: Ярғанаттар
+    be: кажаны
+    be-tarask: кажаны
+    bg: Насекомоядни прилепи
+    ca: microquiròpters
+    ce: Бирдолаг
+    ceb: Microchiroptera
+    cs: netopýři
+    cv: Çара çерçи
+    da: Småflagermus
+    de: Fledermäuse
+    diq: Şewşewıke
+    el: Μικροχειρόπτερα
+    en: Microchiroptera
+    eo: Microchiroptera
+    es: Microchiroptera
+    eu: Microchiroptera
+    ext: Microchiroptera
+    fa: خفاشهای کوچک
+    fi: pienlepakot
+    fr: Microchiroptera
+    frr: Fladermüsen
+    ga: Microchiroptera
+    gl: Micromorcegos
+    he: עטלפים קטנים
+    hr: Sitnošišmiši
+    hsb: njetopyrje
+    hu: kis denevérek
+    hy: չղջիկներ
+    hyw: Չղջիկներ
+    ia: Microchiroptera
+    id: Kampret
+    ie: Microchiroptera
+    inh: Бурдолг
+    io: Microchiroptera
+    it: Microchiroptera
+    ja: ココウモリ
+    jv: Kamprèt
+    ka: მწერიჭამია ხელფრთიანები
+    kk: Жарқанаттар
+    ko: 작은박쥐류
+    kv: Бордъя шыр
+    la: Microchiroptera
+    lad: Mursyegalo
+    lb: Fliedermais
+    lez: Кьаркьулув
+    lij: Rattopennugo
+    lt: Mažieji šikšnosparniai
+    lv: sīksikspārņi
+    mn: Сарьсан багваахай
+    mul: Microchiroptera
+    nb: småflaggermus
+    nl: Microchiroptera
+    nn: småflaggermus
+    nv: Jaaʼabaní
+    oc: Microchiroptera
+    os: хæлынбыттыртæ
+    pl: Microchiroptera
+    pnb: نکیاں چمگادڑاں
+    pt: Microchiroptera
+    pt-br: Microchiroptera
+    rm: Utschè-mezmieur
+    ro: Liliac
+    ru: летучие мыши
+    sh: Sitnošišmiši
+    sl: mali netopirji
+    sq: Microchiroptera
+    sr: Мали љиљци
+    stq: Fläddermuuse
+    sv: Småfladdermöss
+    sw: Popo-wadudu
+    tg: Кӯршабпаракҳо
+    tr: Küçük yarasalar
+    tt: Ярканатлар
+    uk: кажани
+    uz: Koʻrshapalaklar
+    vep: Öläpakaine
+    vi: Dơi nhỏ
+    vo: Microchiroptera
+    war: Microchiroptera
+    wuu: 小蝙蝠
+    yue: 小蝙蝠亞目
+    zh: 小蝙蝠亞目
+    zh-cn: 小蝙蝠亚目
+    zh-hans: 小蝙蝠亚目
+    zh-tw: 小蝙蝠亞目
 ---
-
 # [[Microchiroptera]] 🦇 
 
 ## Echolocating Bats 

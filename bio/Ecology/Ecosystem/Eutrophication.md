@@ -1,7 +1,63 @@
 ---
 aliases:
-  - Eutrophierung
-  - Eutrophication
+- cvetanje vode
+- eitrofikācija
+- eotrófú
+- etwofizasyon
+- eutrofeerumine
+- eutrofiering
+- eutrofikacija
+- eutrofikasi
+- eutrofikasie
+- eutrofització
+- eutrofizace
+- eutrofizacion
+- eutrofización
+- eutrofizacja
+- eutrofizare
+- eutrofizazio
+- eutrofização
+- eutrofizimi
+- eutrofizzazione
+- eutrofizácia
+- eutrofizáció
+- eutrofiëring
+- Eutrophication
+- Eutrophierung
+- eutrophisation
+- evtrofikacija
+- evtrofikasiya
+- ewtroffigedd
+- ofauðgun
+- phú dưỡng
+- plantoziĝo
+- rehevöityminen
+- évtroftanw
+- ötrofikasyon
+- övergödning
+- ευτροφισμός
+- евтрофікація
+- еутрофикација
+- еутрофикация
+- цветање воде
+- эўтрафікацыя
+- эвтрофикация
+- эвтрофтану
+- эфтрофикация
+- էվտրոֆիկացիա
+- איטרופיקציה
+- فرط المغذيات
+- پرغذایی
+- ەۆتروفتانۋ
+- सुपोषण
+- தூர்ந்துபோதல்
+- ಯೂಟ್ರೋಫಿಕೇಷನ್
+- അമിതപോഷണം
+- 富栄養化
+- 富營養化
+- 富营养化
+- 超養化
+- 부영양화
 has_id_wikidata: Q156698
 facet_of: '[[_Standards/WikiData/WD~nutrient,181394]]'
 subclass_of: '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
@@ -10,11 +66,77 @@ has_cause: '[[_Standards/WikiData/WD~sewage,10966166]]'
 OmegaWiki_Defined_Meaning: 1362
 Commons_category: Eutrophication
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Eutrophication.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/River%20algae%20Sichuan.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Eutrophication.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/River%20algae%20Sichuan.jpg
 MeSH_tree_code: G16.500.285
+dv_has_:
+  name_:
+    af: eutrofikasie
+    an: eutrofización
+    ar: فرط المغذيات
+    ast: eutrofización
+    az: evtrofikasiya
+    be: эўтрафікацыя
+    be-tarask: эўтрафікацыя
+    bg: еутрофикация
+    ca: eutrofització
+    cs: eutrofizace
+    cy: ewtroffigedd
+    da: eutrofiering
+    de: Eutrophierung
+    el: ευτροφισμός
+    en: eutrophication
+    eo: plantoziĝo
+    es: eutrofización
+    et: eutrofeerumine
+    eu: eutrofizazio
+    fa: پرغذایی
+    fi: rehevöityminen
+    fr: eutrophisation
+    ga: eotrófú
+    gl: eutrofización
+    he: איטרופיקציה
+    hi: सुपोषण
+    ht: etwofizasyon
+    hu: eutrofizáció
+    hy: էվտրոֆիկացիա
+    id: eutrofikasi
+    ig: eutrophication
+    is: ofauðgun
+    it: eutrofizzazione
+    ja: 富栄養化
+    kk: эвтрофтану
+    kk-arab: ەۆتروفتانۋ
+    kk-latn: évtroftanw
+    kn: ಯೂಟ್ರೋಫಿಕೇಷನ್
+    ko: 부영양화
+    ky: эфтрофикация
+    lt: eutrofikacija
+    lv: eitrofikācija
+    mk: еутрофикација
+    ml: അമിതപോഷണം
+    ms: eutrofikasi
+    nl: eutrofiëring
+    oc: eutrofizacion
+    pl: eutrofizacja
+    pt: eutrofização
+    ro: eutrofizare
+    ru: эвтрофикация
+    sk: eutrofizácia
+    sl: evtrofikacija
+    sq: eutrofizimi
+    sr: цветање воде
+    sr-el: cvetanje vode
+    sv: övergödning
+    ta: தூர்ந்துபோதல்
+    tr: ötrofikasyon
+    uk: евтрофікація
+    vi: phú dưỡng
+    yue: 超養化
+    zh: 富营养化
+    zh-hans: 富营养化
+    zh-hant: 富營養化
 ---
-
 # [[Eutrophication]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eutrophication,156698|WD~Eutrophication,156698]] 

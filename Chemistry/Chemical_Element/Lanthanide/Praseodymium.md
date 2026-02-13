@@ -1,22 +1,100 @@
 ---
 aliases:
-  - Praseodym
-  - Praseodymium
+- jinmrprase,odimi
+- praiséidimiam
+- prasedimju
+- praseodim
+- Praseodimi
+- Praseodimij
+- praseodimio
+- praseodimiu
+- Praseodimium
+- Praseodimu
+- Praseodimum
+- Praseodimyo
+- Praseodimyu
+- Praseodym
+- praseodymi
+- Praseodymiom
+- Praseodymium
+- praseodymiwm
+- Praseodymyo
+- praseodyymi
+- Praseodìmiu
+- praseodímio
+- Praseodüüm
+- Praseódým
+- Praseôdima
+- Prashodymmium
+- prasiudimiu
+- Prasodimium
+- Praséodimium
+- praséodyme
+- Prasɛyɔdɩmɩ
+- Prazeodiimu
+- prazeodij
+- Prazeodijum
+- prazeodim
+- Prazeodimio
+- Prazeodimiom
+- Prazeodimis
+- prazeodimo
+- prazeodym
+- prazeodímium
+- prazeodým
+- prazeodīms
+- UmPhahlazambi
+- πρασεοδύμιο
+- Празеадым
+- празеодијум
+- празеодим
+- Празеодимиум
+- празеодиум
+- Празэадым
+- պրազեդիում
+- פרסאודימיום
+- براسوديميوم
+- پرازئودیمیم
+- پرازیۆدیمیۆم
+- پرازېئودىمىي
+- پراسيوديم
+- پراسيوديموميم
+- پریزیڈومیم
+- ڤراسيوديميوم
+- प्रासिओडायमियम
+- प्रासियोडाइमियम
+- प्रेजोडायमियम
+- প্রাসিওডিমিয়াম
+- ਪ੍ਰੇਜ਼ੀਓਡੀਮੀਅਮ
+- પ્રેસિયોડિમિયમ
+- ପ୍ରାସିଓଡ଼ାଇମିଅମ
+- பிரசியோடைமியம்
+- ప్రాసియోడిమియం
+- ಪ್ರೇಸಿಯೊಡೈಮಿಯಮ್
+- പ്രസിയോഡൈമിയം
+- เพรซีโอดิเมียม
+- ပရာဆီယိုဒိုင်ယမ်
+- პრაზეოდიმიუმი
+- ፕራሲዮዲሚየም
+- プラセオジム
+- 鐠
+- 镨
+- 프라세오디뮴
 has_id_wikidata: Q1386
 atomic_number: 59
 boiling_point: 3403
-canonical_SMILES: "[Pr]"
+canonical_SMILES: '[Pr]'
 CAS_Registry_Number: 7440-10-0
 chemical_formula: Pr
 Commons_category: Praseodymium
 Commons_gallery: Praseodymium
 density: 6.773
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
 DSSTOX_compound_identifier: DTXCID2047648
 EC_number: 231-120-3
 electrical_resistivity: 7e-7
@@ -25,24 +103,24 @@ element_symbol: Pr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg
 InChI: InChI=1S/Pr
 InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
-instance_of: "[[_Standards/WikiData/WD~chemical_element,11344]]"
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.85
-  - 0.96
-  - 0.99
-  - 1.13
+- 0.85
+- 0.96
+- 0.99
+- 1.13
 mass: 140.90766
 melting_point: 1208
 MeSH_tree_code:
-  - D01.268.558.362.750
-  - D01.552.550.399.750
+- D01.268.558.362.750
+- D01.552.550.399.750
 named_after:
-  - "[[_Standards/WikiData/WD~twin,159979]]"
-  - "[[_Standards/WikiData/WD~green,3133]]"
+- '[[_Standards/WikiData/WD~twin,159979]]'
+- '[[_Standards/WikiData/WD~green,3133]]'
 OmegaWiki_Defined_Meaning: 342115
 part_of:
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
-  - "[[_Standards/WikiData/WD~lanthanide,19569]]"
+- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569]]'
 PubChem_CID: 23942
 speed_of_sound: 2280
 SpocWebEntityId: 21955
@@ -54,10 +132,155 @@ Unicode_character: 鐠
 UNII: NKN7EZA750
 dv_has_:
   name_:
-    group: Lanthanide-Group
-    en: Praseodymium
-    de: Praseodym
     abbreviated: Pr
+    af: Praseodimium
+    am: ፕራሲዮዲሚየም
+    anp: प्रेजोडायमियम
+    ar: براسوديميوم
+    ary: پراسيوديم
+    arz: براسوديميوم
+    ast: praseodimiu
+    az: Prazeodim
+    ba: Празеодим
+    ban: Praséodimium
+    be: Празеадым
+    be-tarask: Празэадым
+    bg: празеодим
+    bho: प्रासियोडाइमियम
+    bn: প্রাসিওডিমিয়াম
+    br: Prazeodimiom
+    bs: prazeodij
+    ca: praseodimi
+    cdo: Praseodymium
+    ceb: Praseodymyo
+    ckb: پرازیۆدیمیۆم
+    co: Praseodimiu
+    cs: praseodym
+    cv: Празеодим
+    cy: praseodymiwm
+    da: praseodym
+    de: Praseodym
+    el: πρασεοδύμιο
+    en: praseodymium
+    eo: prazeodimo
+    es: praseodimio
+    et: Praseodüüm
+    eu: praseodimio
+    fa: پرازئودیمیم
+    fi: praseodyymi
+    fr: praséodyme
+    frr: Praseodüüm
+    fur: Praseodimi
+    ga: praiséidimiam
+    gd: Prasodimium
+    gl: Praseodimio
+    group: Lanthanide-Group
+    gu: પ્રેસિયોડિમિયમ
+    gv: Prashodymmium
+    hak: praseodymium
+    he: פרסאודימיום
+    hi: प्रासियोडाइमियम
+    hif: Praseodymium
+    hr: Praseodimij
+    hu: prazeodímium
+    hy: պրազեդիում
+    ia: Praseodymium
+    id: praseodimium
+    io: Prazeodimio
+    is: Praseódým
+    it: praseodimio
+    ja: プラセオジム
+    jbo: jinmrprase,odimi
+    jv: Praseodimium
+    ka: პრაზეოდიმიუმი
+    kbp: Prasɛyɔdɩmɩ
+    kk: Празеодим
+    kn: ಪ್ರೇಸಿಯೊಡೈಮಿಯಮ್
+    ko: 프라세오디뮴
+    kv: Празеодим
+    kw: Praseodymiom
+    ky: Празеодим
+    la: praseodymium
+    lb: Praseodym
+    lfn: praseodimio
+    li: Praseodymium
+    lij: Praseodimio
+    lt: Prazeodimis
+    lv: prazeodīms
+    lzh: 鐠
+    mg: Praseôdima
+    mk: празеодиум
+    ml: പ്രസിയോഡൈമിയം
+    mn: празеодим
+    mr: प्रासिओडायमियम
+    mrj: Празеодим
+    ms: praseodimium
+    ms-arab: ڤراسيوديميوم
+    mt: prasedimju
+    my: ပရာဆီယိုဒိုင်ယမ်
+    myv: Празеодим
+    nan: Praseodymium
+    nb: praseodym
+    ne: प्रासियोडाइमियम
+    new: प्रासियोडाइमियम
+    nl: praseodymium
+    nn: praseodym
+    nov: Praseodimum
+    oc: Praseodimi
+    olo: Prazeodiimu
+    or: ପ୍ରାସିଓଡ଼ାଇମିଅମ
+    os: празеодим
+    pa: ਪ੍ਰੇਜ਼ੀਓਡੀਮੀਅਮ
+    pi: प्रासियोडाइमियम
+    pl: prazeodym
+    pms: Praseodimi
+    pnb: پریزیڈومیم
+    ps: پراسيوديموميم
+    pt: praseodímio
+    pt-br: praseodímio
+    qu: Praseodimyu
+    ro: praseodim
+    ru: празеодим
+    rup: Praseodimu
+    sa: प्रासियोडाइमियम
+    sah: Празеодимиум
+    sc: Praseodìmiu
+    scn: prasiudimiu
+    sh: Prazeodijum
+    sk: prazeodým
+    sl: prazeodim
+    sq: Praseodimi
+    sr: празеодијум
+    stq: Praseodymium
+    sv: praseodym
+    sw: Praseodimi
+    ta: பிரசியோடைமியம்
+    te: ప్రాసియోడిమియం
+    tg: празеодим
+    th: เพรซีโอดิเมียม
+    tl: Praseodimyo
+    tr: Praseodim
+    tt: Празеодим
+    ug: پرازېئودىمىي
+    uk: празеодим
+    ur: Praseodymium
+    uz: Prazeodim
+    vep: Prazeodim
+    vi: praseodymi
+    war: Praseodimyo
+    wuu: 镨
+    xal: Празеодим
+    yo: Praseodymium
+    yue: 鐠
+    zh: 镨
+    zh-hans: 镨
+    zh-hant: 鐠
+    zh-tw: 鐠
+    zu: UmPhahlazambi
+  number_of_:
+    period: 6
+    group: 25
+    electrons: 59
   value_for_:
     weight_:
       u: 140.9077
@@ -85,23 +308,19 @@ dv_has_:
       form_:
         kj_:
           mol: 296.8
-  number_of_:
-    period: 6
-    group: 25
-    electrons: 59
 dv_is_:
-  part_of: "[[../Lanthanide]]"
+  part_of: '[[../Lanthanide]]'
   same_as:
-    - "[[../../../WikiData/WD~Praseodymium,1386]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect|Praseodymium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private|Praseodymium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]"
+  - '[[../../../WikiData/WD~Praseodymium,1386]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect|Praseodymium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private|Praseodymium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: "[[../Lanthanide]]"
+dv_is_part_of: '[[../Lanthanide]]'
 dv_has_name_en: Praseodymium
 dv_has_name_de: Praseodym
 dv_has_value_for_weight_u: 140.9077
@@ -120,18 +339,17 @@ dv_has_value_for_energy_form_kj_mol: 296.8
 dv_has_number_of_period: 6
 dv_has_number_of_group: 25
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Praseodymium,1386]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect|Praseodymium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private|Praseodymium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]"
+- '[[../../../WikiData/WD~Praseodymium,1386]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]'
+- '[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Lanthanide/Praseodymium.protect|Praseodymium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Lanthanide/Praseodymium.private|Praseodymium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]'
 dv_has_name_abbreviated: Pr
 dv_has_number_of_electrons: 59
 ---
-
 # [[Praseodymium]] 
 
 #chemic/Element 

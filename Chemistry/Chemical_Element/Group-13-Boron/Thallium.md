@@ -1,10 +1,88 @@
 ---
 aliases:
-  - Thallium
+- jinmrtali
+- Taalɩyɔm
+- Tailium
+- tailliam
+- tal
+- tali
+- talij
+- Talijum
+- talio
+- Taliom
+- talis
+- taliu
+- Talium
+- Taliumi
+- taliumo
+- Talli
+- Tallii
+- tallijs
+- tallio
+- talliu
+- tallium
+- Talliy
+- tallju
+- Talyo
+- talyum
+- Talyòm
+- Talyûm
+- tal·li
+- Thaliom
+- thaliwm
+- Thallium
+- Thalyu
+- Tàlio
+- Tàlliu
+- tálio
+- tálium
+- UmThohla
+- þallín
+- θάλλιο
+- талій
+- талијум
+- талий
+- талиум
+- талли
+- Таллий
+- Таллиум
+- таль
+- թալիում
+- טאליום
+- תליום
+- تاللىي
+- تاليوم
+- تالیم
+- تالیۆم
+- تھیلیئم
+- تھیلیم
+- ثاليوم
+- طاليوم
+- ٿئليئم
+- थालियम
+- थैलियम
+- थ्यालियम
+- থ্যালিয়াম
+- ਥੈਲੀਅਮ
+- થેલીયમ
+- ଥାଲିଅମ
+- தாலியம்
+- థాలియం
+- ಥಾಲಿಯಮ್
+- താലിയം
+- แทลเลียม
+- བེལ་ལིམ
+- သယ်လီယမ်
+- თალიუმი
+- ታሊየም
+- タリウム
+- 鉈
+- 铊
+- 탈륨
 has_id_wikidata: Q932
-associated_hazard: "[[_Standards/WikiData/WD~thallium_poisoning,374832]]"
+associated_hazard: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
 atomic_number: 81
-canonical_SMILES: "[Tl]"
+canonical_SMILES: '[Tl]'
 CAS_Registry_Number: 7440-28-0
 chemical_formula: Tl
 Commons_category: Thallium
@@ -12,48 +90,48 @@ Commons_gallery: Thallium
 Common_Procurement_Vocabulary_code: 14764000
 CPV_Supplementary_code: AA31
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-different_from: "[[_Standards/WikiData/WD~Tal,5576117]]"
-discoverer_or_inventor: "[[_Standards/WikiData/WD~William_Crookes,189552]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Tal,5576117]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Crookes,189552]]'
 DSSTOX_compound_identifier: DTXCID301012091
 EC_number: 231-138-1
 electronegativity: 1.62
 element_symbol: Tl
 Gmelin_number: 16308
-has_effect: "[[_Standards/WikiData/WD~thallium_poisoning,374832]]"
+has_effect: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thallium%20pieces%20in%20ampoule.jpg
 InChI: InChI=1S/Tl
 InChIKey: BKVIYDNLLOSFOA-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~chalcophile_element,1929547]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 1.5
-  - 1.7
-  - 0.75
-  - 0.89
-  - 0.98
-  - 1.59
+- 1.5
+- 1.7
+- 0.75
+- 0.89
+- 0.98
+- 1.59
 Krugosvet_article: nauka_i_tehnika/himiya/TALLI.html
 mass: 204.38
 MeSH_tree_code:
-  - D01.268.556.847
-  - D01.552.544.847
-named_after: "[[_Standards/WikiData/WD~thallus,207495]]"
+- D01.268.556.847
+- D01.552.544.847
+named_after: '[[_Standards/WikiData/WD~thallus,207495]]'
 OmegaWiki_Defined_Meaning: 3761
 part_of:
-  - "[[_Standards/WikiData/WD~group_13,189294]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+- '[[_Standards/WikiData/WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg
 PubChem_CID: 5359464
 SpocWebEntityId: 21976
-subclass_of: "[[_Standards/WikiData/WD~post-transition_metal,19591]]"
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
 time_of_discovery_or_invention: 1861
 type: Element
 UMLS_CUI: C0039738
@@ -62,10 +140,164 @@ UNII: AD84R52XLF
 ZVG_number: 7810
 dv_has_:
   name_:
-    group: Group-13-Boron
-    en: Thallium
-    de: Thallium
     abbreviated: Tl
+    af: Tallium
+    am: ታሊየም
+    an: Talio
+    anp: थैलियम
+    ar: ثاليوم
+    ary: طاليوم
+    arz: ثاليوم
+    ast: taliu
+    az: Tallium
+    ba: таллий
+    ban: Thallium
+    bcl: Talyo
+    be: Талій
+    be-tarask: таль
+    bg: талий
+    bho: थैलियम
+    bn: থ্যালিয়াম
+    bo: བེལ་ལིམ
+    br: Taliom
+    bs: talij
+    ca: tal·li
+    cdo: thallium
+    ceb: Talyo
+    ckb: تالیۆم
+    co: Talliu
+    cs: thallium
+    cv: Талли
+    cy: thaliwm
+    da: thallium
+    de: Thallium
+    el: θάλλιο
+    en: thallium
+    eo: taliumo
+    es: talio
+    et: tallium
+    eu: talio
+    fa: تالیم
+    fi: tallium
+    fr: thallium
+    frr: Thallium
+    fur: Tali
+    ga: tailliam
+    gd: Tailium
+    gl: talio
+    group: Group-13-Boron
+    gu: થેલીયમ
+    gv: thallium
+    hak: thallium
+    he: תליום
+    hi: थैलियम
+    hif: Thallium
+    hr: talij
+    ht: Talyòm
+    hu: tallium
+    hy: թալիում
+    ia: Thallium
+    id: talium
+    io: talio
+    is: þallín
+    it: tallio
+    ja: タリウム
+    jbo: jinmrtali
+    ka: თალიუმი
+    kbp: Taalɩyɔm
+    kk: Таллий
+    kn: ಥಾಲಿಯಮ್
+    ko: 탈륨
+    ku: Talyûm
+    kv: Таллий
+    kw: Thaliom
+    ky: Таллий
+    la: thallium
+    lb: Thallium
+    lfn: talio
+    li: Thallium
+    lij: Tallio
+    lmo: Tàlio
+    lt: talis
+    lv: tallijs
+    lzh: 鉈
+    mdf: Талли
+    mk: талиум
+    ml: താലിയം
+    mn: талли
+    mr: थालियम
+    mrj: Таллий
+    ms: Talium
+    mt: tallju
+    my: သယ်လီယမ်
+    nan: Thallium
+    nb: thallium
+    nds: Thallium
+    ne: थ्यालियम
+    new: थ्यालियम
+    nl: thallium
+    nn: thallium
+    nov: Talium
+    oc: Talli
+    olo: Tallii
+    or: ଥାଲିଅମ
+    os: таллий
+    pa: ਥੈਲੀਅਮ
+    pi: थ्यालियम
+    pl: tal
+    pms: Talio
+    pnb: تھیلیم
+    ps: تاليوم
+    pt: tálio
+    pt-br: tálio
+    qu: Thalyu
+    ro: taliu
+    ru: таллий
+    rup: Taliu
+    sa: थ्यालियम
+    sc: Tàlliu
+    scn: talliu
+    sco: thallium
+    sd: ٿئليئم
+    sh: Talijum
+    sk: tálium
+    sl: talij
+    sq: Taliumi
+    sr: талијум
+    sr-ec: Талијум
+    stq: Thallium
+    sv: tallium
+    sw: Tali
+    ta: தாலியம்
+    te: థాలియం
+    tg: Таллий
+    th: แทลเลียม
+    tl: Talyo
+    tr: talyum
+    tt: Таллий
+    ug: تاللىي
+    uk: талій
+    ur: تھیلیئم
+    uz: Talliy
+    vep: Tallii
+    vi: tali
+    war: Talyo
+    wuu: 铊
+    xal: Таллиум
+    yi: טאליום
+    yo: Thallium
+    yue: 鉈
+    zh: 铊
+    zh-cn: 铊
+    zh-hans: 铊
+    zh-hant: 鉈
+    zh-hk: 鉈
+    zh-tw: 鉈
+    zu: UmThohla
+  number_of_:
+    period: 6
+    group: 13
+    electrons: 81
   value_for_:
     weight_:
       u: 204.383
@@ -93,23 +325,19 @@ dv_has_:
       form_:
         kj_:
           mol: 164.1
-  number_of_:
-    period: 6
-    group: 13
-    electrons: 81
 dv_is_:
-  part_of: "[[../Group-13-Boron]]"
+  part_of: '[[../Group-13-Boron]]'
   same_as:
-    - "[[../../../WikiData/WD~Thallium,932]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]"
+  - '[[../../../WikiData/WD~Thallium,932]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]'
 dv_has_name_group: Group-13-Boron
-dv_is_part_of: "[[../Group-13-Boron]]"
+dv_is_part_of: '[[../Group-13-Boron]]'
 dv_has_name_en: Thallium
 dv_has_name_de: Thallium
 dv_has_value_for_weight_u: 204.383
@@ -128,18 +356,17 @@ dv_has_value_for_energy_form_kj_mol: 164.1
 dv_has_number_of_period: 6
 dv_has_number_of_group: 13
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Thallium,932]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]"
+- '[[../../../WikiData/WD~Thallium,932]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]'
 dv_has_name_abbreviated: Tl
 dv_has_number_of_electrons: 81
 ---
-
 # [[Thallium]] 
 
 #chemic/Element 

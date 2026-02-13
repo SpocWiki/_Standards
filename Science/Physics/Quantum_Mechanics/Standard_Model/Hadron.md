@@ -1,16 +1,62 @@
 ---
 aliases:
-  - Hadron
+- adron
+- adrone
+- adroni
+- hadroi
+- Hadron
+- hadrona
+- hadronas
+- hadroni
+- hadronid
+- hadrono
+- hadrony
+- hadroon
+- hadrão
+- hadró
+- hadrón
+- hádron
+- ijo lili ike pi pali wawa
+- Isigqezema
+- sterkeind
+- αδρόνιο
+- адрон
+- Адронҳо
+- гадрон
+- хадрон
+- հադրոն
+- האדרון
+- ادرون
+- ثقیلہ
+- هادرون
+- هاډرون
+- ہیڈرون
+- हॅड्रॉन
+- हेड्रोन
+- हैड्रॉन
+- হেড্ৰ’ন
+- হ্যাড্রন
+- ਹੈਡ੍ਰੌਨ
+- હેડ્રૉન
+- வன்மி
+- ഹാഡ്രോൺ
+- แฮดรอน
+- ဟဒရွန်
+- ჰადრონები
+- ハドロン
+- 強子
+- 强子
+- 강입자
 has_id_wikidata: Q101667
 antiparticle: '[[_Standards/WikiData/WD~hadron,101667]]'
 has_part_s_of_the_class:
-  - '[[_Standards/WikiData/WD~disjoint_union,842620]]'
-  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
-  - '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~disjoint_union,842620]]'
+- '[[_Standards/WikiData/WD~antiquark,2052084]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
 discoverer_or_inventor: '[[_Standards/WikiData/WD~Lev_Okun,1469536]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~antiquark,2052084]]'
-  - '[[_Standards/WikiData/WD~quark,6718]]'
+- '[[_Standards/WikiData/WD~antiquark,2052084]]'
+- '[[_Standards/WikiData/WD~quark,6718]]'
 subclass_of: '[[_Standards/WikiData/WD~composite_particle,3366856]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 studied_by: '[[_Standards/WikiData/WD~hadronic_physics,43306616]]'
@@ -22,8 +68,121 @@ Dewey_Decimal_Classification: 539.7216
 P8189: 987007545830605171
 Commons_category: Hadrons
 time_of_discovery_or_invention: 1962-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: hadron
+    ar: هادرون
+    as: হেড্ৰ’ন
+    ast: hadrón
+    az: adron
+    azb: هادرون
+    be: адрон
+    be-tarask: гадрон
+    bg: адрон
+    bn: হ্যাড্রন
+    bs: hadron
+    ca: hadró
+    co: adrone
+    cs: hadron
+    cv: адрон
+    cy: hadron
+    da: hadron
+    de: Hadron
+    de-ch: Hadron
+    el: αδρόνιο
+    en: hadron
+    en-ca: hadron
+    en-gb: hadron
+    eo: hadrono
+    es: hadrón
+    et: hadronid
+    eu: hadroi
+    fa: هادرون
+    fi: hadroni
+    fr: hadron
+    ga: hadrón
+    gl: hadrón
+    gsw: Hadron
+    gu: હેડ્રૉન
+    he: האדרון
+    hi: हैड्रॉन
+    hr: hadroni
+    hu: hadron
+    hy: հադրոն
+    id: hadron
+    io: hadrono
+    is: sterkeind
+    it: adrone
+    ja: ハドロン
+    ka: ჰადრონები
+    kk: адрон
+    kk-arab: ادرون
+    kk-cn: ادرون
+    kk-cyrl: адрон
+    kk-kz: адрон
+    kk-latn: adron
+    kk-tr: adron
+    ko: 강입자
+    la: hadron
+    lb: Hadron
+    lfn: adron
+    li: Hadron
+    lt: hadronas
+    lv: hadroni
+    mk: хадрон
+    ml: ഹാഡ്രോൺ
+    mn: адрон
+    mr: हॅड्रॉन
+    ms: hadron
+    my: ဟဒရွန်
+    nb: hadron
+    nds: Hadron
+    ne: हेड्रोन
+    nl: hadron
+    nn: hadron
+    oc: hadron
+    os: адрон
+    pa: ਹੈਡ੍ਰੌਨ
+    pl: hadrony
+    pnb: ہیڈرون
+    ps: هاډرون
+    pt: hadrão
+    pt-br: hádron
+    ro: Hadron
+    ru: адрон
+    scn: adroni
+    sco: hadron
+    se: hadrona
+    sh: hadron
+    sk: hadrón
+    sl: hadron
+    sms: hadroon
+    sr: хадрон
+    sr-ec: хадрон
+    sr-el: hadron
+    sv: hadron
+    ta: வன்மி
+    tg: Адронҳо
+    th: แฮดรอน
+    tok: ijo lili ike pi pali wawa
+    tr: hadron
+    tt: adron
+    uk: адрон
+    ur: ثقیلہ
+    uz: adron
+    vi: hadron
+    war: hadron
+    wuu: 强子
+    yue: 強子
+    zh: 強子
+    zh-cn: 强子
+    zh-hans: 强子
+    zh-hant: 強子
+    zh-hk: 強子
+    zh-sg: 强子
+    zh-tw: 強子
+    zu: Isigqezema
 ---
-
 # [[Hadron]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Hadron,101667|WD~Hadron,101667]] 

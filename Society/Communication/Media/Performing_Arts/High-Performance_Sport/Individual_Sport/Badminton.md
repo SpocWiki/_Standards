@@ -1,44 +1,109 @@
 ---
 aliases:
-  - Federball
-  - Badminton
+- badmantan
+- Badminton
+- badmintonas
+- Badmintoni
+- Badmintonn
+- badmintono
+- badmintons
+- badmyntyn
+- badmínton
+- Bedmin
+- bedminton
+- Bedmînton
+- Bulu tangkis
+- bàdminton
+- Bádminton
+- cầu lông
+- dolgespábba
+- Federball
+- Ludus pilae pennatae
+- pluimbal
+- rehileti
+- sulgpall
+- sulkapallo
+- Tepok bulu
+- tolgepállu
+- tollaslabda
+- Yí-mô-khiù
+- Ú-mô͘-kiû
+- αντιπτέριση
+- Бадмінтон
+- Бадминтон
+- Բադմինտոն
+- בדמינטון
+- الريشة الطائرة
+- بدمينتون
+- بدمینتون
+- بډمنټن
+- بیڈمنٹن
+- بەدمینتۆن
+- ريشه طايره
+- پەي توپ
+- چڑی چھکا
+- बॅडमिंटन
+- बैडमिंटन
+- ब्याडमिन्टन
+- ब्याद्मिण्टन् क्रीडा
+- व्याडमिन्टन
+- ব্যাডমিন্টন
+- ਚਿੜੀ-ਛਿੱਕਾ
+- બેડમિન્ટ્ન
+- ବ୍ୟାଡମିଣ୍ଟନ
+- இறகுப்பந்தாட்டம்
+- బాడ్మింటన్
+- ಬ್ಯಾಡ್ಮಿಂಟನ್
+- ബാഡ്മിന്റൺ
+- බැට්මින්ටන් ක්රීඩාව
+- แบดมินตัน
+- ກິລາຕີດອກປີກໄກ່
+- བྱ་སྒྲོ་སྤོ་ལོ།
+- ကြက်တောင်ရိုက်ခြင်း
+- ၽတ်ႉၶူၼ်ၵႆႇ
+- ბადმინტონი
+- バドミントン
+- 羽毛球
+- 羽球
+- 바드민톤
+- 배드민턴
 has_id_wikidata: Q7291
 Krugosvet_article_archived_: sport/BADMINTON.html
 Baidu_Tieba_name: 羽毛球
-Unicode_character: 🏸
+Unicode_character: "\U0001F3F8"
 OpenStreetMap_tag: sport=badminton
-Dewey_Decimal_Classification: "796.345"
-authority: "[[_Standards/WikiData/WD~Badminton_World_Federation,126638]]"
+Dewey_Decimal_Classification: 796.345
+authority: '[[_Standards/WikiData/WD~Badminton_World_Federation,126638]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~racket_sport,2426135]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~racket_sport,2426135]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~Olympic_sport,212434]]"
-  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-  - "[[_Standards/WikiData/WD~hobby,47728]]"
-different_from: "[[_Standards/WikiData/WD~Badminton,799600]]"
+- '[[_Standards/WikiData/WD~Olympic_sport,212434]]'
+- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
+different_from: '[[_Standards/WikiData/WD~Badminton,799600]]'
 uses:
-  - "[[_Standards/WikiData/WD~badminton_racket,799666]]"
-  - "[[_Standards/WikiData/WD~shuttlecock,874669]]"
-  - "[[_Standards/WikiData/WD~badminton_court,2488656]]"
-  - "[[_Standards/WikiData/WD~stringing_machine,7624024]]"
-  - "[[_Standards/WikiData/WD~net,47530522]]"
+- '[[_Standards/WikiData/WD~badminton_racket,799666]]'
+- '[[_Standards/WikiData/WD~shuttlecock,874669]]'
+- '[[_Standards/WikiData/WD~badminton_court,2488656]]'
+- '[[_Standards/WikiData/WD~stringing_machine,7624024]]'
+- '[[_Standards/WikiData/WD~net,47530522]]'
 practiced_by:
-  - "[[_Standards/WikiData/WD~badminton_umpire,799665]]"
-  - "[[_Standards/WikiData/WD~badminton_player,13141064]]"
-  - "[[_Standards/WikiData/WD~badminton_coach,28143257]]"
-  - "[[_Standards/WikiData/WD~badminton_executive_and_administrator,29817148]]"
+- '[[_Standards/WikiData/WD~badminton_umpire,799665]]'
+- '[[_Standards/WikiData/WD~badminton_player,13141064]]'
+- '[[_Standards/WikiData/WD~badminton_coach,28143257]]'
+- '[[_Standards/WikiData/WD~badminton_executive_and_administrator,29817148]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-named_after: "[[_Standards/WikiData/WD~Badminton_House,2628510]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Badminton,13406680]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Badminton,15139693]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+named_after: '[[_Standards/WikiData/WD~Badminton_House,2628510]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Badminton,13406680]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Badminton,15139693]]'
 minimum_number_of_players: 2
 maximum_number_of_players: 4
-IAB_code: "534"
-OmegaWiki_Defined_Meaning: "449022"
+IAB_code: 534
+OmegaWiki_Defined_Meaning: 449022
 Commons_category: Badminton
 Commons_gallery: Badminton
 subreddit: badminton
@@ -47,8 +112,161 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Badminton%20pictogram.s
 Iconclass_notation: 43C4154
 IPTC_NewsCode: mediatopic/20000847
 Colon_Classification: MY2132
+dv_has_:
+  name_:
+    af: pluimbal
+    anp: बैडमिंटन
+    ar: الريشة الطائرة
+    arz: ريشه طايره
+    ast: Bádminton
+    az: Badminton
+    ba: Бадминтон
+    ban: Bulu tangkis
+    bar: Badminton
+    bbc: Bulu tangkis
+    bcl: Badminton
+    be: бадмінтон
+    be-tarask: бадмінтон
+    bew: Tepok bulu
+    bg: Бадминтон
+    bn: ব্যাডমিন্টন
+    bo: བྱ་སྒྲོ་སྤོ་ལོ།
+    br: Badminton
+    bs: Badminton
+    btm: Bedmin
+    ca: bàdminton
+    ckb: بەدمینتۆن
+    cs: badminton
+    cv: Бадминтон
+    cy: badminton
+    da: badminton
+    de: Badminton
+    el: αντιπτέριση
+    en: badminton
+    en-ca: Badminton
+    en-gb: badminton
+    eo: badmintono
+    es: bádminton
+    et: sulgpall
+    eu: Badminton
+    ext: rehileti
+    fa: بدمینتون
+    fi: sulkapallo
+    fo: Badminton
+    fr: badminton
+    fy: Badminton
+    ga: badmantan
+    gd: Badmantan
+    gl: bádminton
+    gu: બેડમિન્ટ્ન
+    gv: badmyntyn
+    hak: Yí-mô-khiù
+    he: בדמינטון
+    hi: बैडमिंटन
+    hif: Badminton
+    hr: badminton
+    ht: Badmintonn
+    hu: tollaslabda
+    hy: Բադմինտոն
+    ia: Badminton
+    iba: Badminton
+    id: bulu tangkis
+    io: Badminton
+    is: badminton
+    it: badminton
+    ja: バドミントン
+    jv: Badminton
+    ka: ბადმინტონი
+    kaa: Badminton
+    kk: бадминтон
+    kk-cyrl: бадминтон
+    kn: ಬ್ಯಾಡ್ಮಿಂಟನ್
+    ko: 배드민턴
+    ko-kp: 바드민톤
+    ku: Bedmînton
+    ky: бадминтон
+    la: Ludus pilae pennatae
+    lb: Badminton
+    lo: ກິລາຕີດອກປີກໄກ່
+    lt: badmintonas
+    lv: badmintons
+    mai: ब्याडमिन्टन
+    mk: бадминтон
+    ml: ബാഡ്മിന്റൺ
+    mn: бадминтон
+    mr: बॅडमिंटन
+    ms: badminton
+    ms-arab: بدمينتون
+    my: ကြက်တောင်ရိုက်ခြင်း
+    nan: Ú-mô͘-kiû
+    nb: badminton
+    nds: Badminton
+    nds-nl: badminton
+    ne: व्याडमिन्टन
+    new: ब्याडमिन्टन
+    nl: badminton
+    nn: badminton
+    nup: Badminton
+    oc: Badminton
+    or: ବ୍ୟାଡମିଣ୍ଟନ
+    pa: ਚਿੜੀ-ਛਿੱਕਾ
+    pap: badminton
+    pap-aw: badminton
+    pcd: badminton
+    pl: badminton
+    pnb: چڑی چھکا
+    ps: بډمنټن
+    pt: badmínton
+    pt-br: badminton
+    rm: Badminton
+    ro: badminton
+    ru: бадминтон
+    rue: Бадмінтон
+    sa: ब्याद्मिण्टन् क्रीडा
+    sah: Бадминтон
+    scn: badminton
+    sco: Badminton
+    se: dolgespábba
+    sh: Badminton
+    shn: ၽတ်ႉၶူၼ်ၵႆႇ
+    si: බැට්මින්ටන් ක්රීඩාව
+    sk: bedminton
+    sl: badminton
+    sm: Badminton
+    smn: tolgepállu
+    so: Badminton
+    sq: Badmintoni
+    sr: бадминтон
+    sr-ec: бадминтон
+    su: Badminton
+    sv: badminton
+    ta: இறகுப்பந்தாட்டம்
+    te: బాడ్మింటన్
+    tg: Бадминтон
+    th: แบดมินตัน
+    tl: badminton
+    tly: Badminton
+    tr: badminton
+    tt: бадминтон
+    ug: پەي توپ
+    uk: бадмінтон
+    ur: بیڈمنٹن
+    uz: badminton
+    vec: badminton
+    vi: cầu lông
+    wuu: 羽毛球
+    xmf: ბადმინტონი
+    yue: 羽毛球
+    zh: 羽毛球
+    zh-cn: 羽毛球
+    zh-hans: 羽毛球
+    zh-hant: 羽毛球
+    zh-hk: 羽毛球
+    zh-mo: 羽毛球
+    zh-my: 羽毛球
+    zh-sg: 羽毛球
+    zh-tw: 羽球
 ---
-
 # [[Badminton]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Badminton,7291|WD~Badminton,7291]] 

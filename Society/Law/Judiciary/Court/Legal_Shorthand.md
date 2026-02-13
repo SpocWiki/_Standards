@@ -1,8 +1,20 @@
 ---
 aliases:
-  - legal shorthand
+- Abkürzungen/Gesetze und Recht
+- legal shorthand
+- list of legal abbreviations
+- Senarai singkatan undang-undang
+- список юридичних скорочень
+- قائمة الاختصارات القانونية
+has_id_wikidata: Q1801579
+dv_has_:
+  name_:
+    ar: قائمة الاختصارات القانونية
+    de: Abkürzungen/Gesetze und Recht
+    en: list of legal abbreviations
+    ms: Senarai singkatan undang-undang
+    uk: список юридичних скорочень
 ---
-
 # [[Legal_Shorthand]] 
 
 ## #has_/text_of_/abstract 

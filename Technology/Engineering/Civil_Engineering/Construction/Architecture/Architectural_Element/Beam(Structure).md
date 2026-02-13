@@ -1,17 +1,68 @@
 ---
 aliases:
-  - Träger
-  - Beam(Structure)
+- balk
+- Balka
+- Balok
+- beam
+- Beam (structure)
+- Beam(Structure)
+- belka
+- biga
+- bjelke
+- bjælke
+- Chakakuq
+- Dirək
+- gerenda
+- Greda
+- grindă
+- Habe
+- Kiriş (mimarlık)
+- nosilec
+- nosník
+- Palkki
+- poutre
+- prenn
+- Sija
+- Tala
+- Trabo
+- Trav
+- trave
+- travo
+- Treust
+- Träger
+- Träger (Statik)
+- viga
+- δοκός
+- балка
+- Болор
+- бэлька
+- греда
+- Кашта
+- Статикалық түрде анықталатын арқалық
+- Հեծան
+- קורה
+- تیر (سازه)
+- جائز
+- وړونکی
+- धरन
+- কড়ি
+- ഉത്തരം
+- တူင်
+- ᱫᱷᱚᱨᱱᱟ
+- はり部材
+- 梁
+- 樑
+- 들보
 has_id_wikidata: Q3705329
 different_from:
-  - '[[_Standards/WikiData/WD~Beam,346704]]'
-  - '[[_Standards/WikiData/WD~arroyo,373315]]'
+- '[[_Standards/WikiData/WD~Beam,346704]]'
+- '[[_Standards/WikiData/WD~arroyo,373315]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~beam,11538319]]'
-  - '[[_Standards/WikiData/WD~kōryō,124421222]]'
+- '[[_Standards/WikiData/WD~beam,11538319]]'
+- '[[_Standards/WikiData/WD~kōryō,124421222]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 subclass_of: '[[_Standards/WikiData/WD~horizontal_structural_element,30327093]]'
 connects_with: '[[_Standards/WikiData/WD~marubashira,127599090]]'
 Nomenclature_for_Museum_Cataloging: 354
@@ -20,16 +71,84 @@ OmegaWiki_Defined_Meaning: 498099
 revised_Hepburn_romanization: Hari
 name_in_kana: はり
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Balken.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Torun%20Kopernika%2021%20pietro%20strop%20%282%29.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Balken.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Torun%20Kopernika%2021%20pietro%20strop%20%282%29.jpg
 Commons_category: Beams
 Dewey_Decimal_Classification: 624.17723
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%B0%D0%BB%D0%BA%D0%B0%20%D0%BD%D0%B0%202%20%D0%BE%D0%BF%D0%BE%D1%80%D0%B0%D1%85.webm
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Bending.svg
 Common_Procurement_Vocabulary_code: 44112700
 Library_of_Congress_Classification: TA660.B4
+dv_has_:
+  name_:
+    an: Biga
+    ar: جائز
+    az: Dirək
+    be: бэлька
+    be-tarask: бэлька
+    bg: Греда
+    bn: কড়ি
+    br: Treust
+    ca: biga
+    cs: nosník
+    cv: Кашта
+    da: bjælke
+    de: Träger
+    de-ch: Träger (Statik)
+    el: δοκός
+    en: beam
+    en-ca: Beam (structure)
+    en-gb: beam
+    eo: trabo
+    es: viga
+    et: Tala
+    eu: Habe
+    fa: تیر (سازه)
+    fi: Palkki
+    fr: poutre
+    gl: viga
+    he: קורה
+    hi: धरन
+    hr: Greda
+    hu: gerenda
+    hy: Հեծան
+    id: Balok
+    io: Trabo
+    it: trave
+    ja: はり部材
+    kk: Статикалық түрде анықталатын арқалық
+    ko: 들보
+    kw: prenn
+    lt: Sija
+    mk: греда
+    ml: ഉത്തരം
+    nb: bjelke
+    nl: balk
+    nn: bjelke
+    pl: belka
+    pms: Trav
+    ps: وړونکی
+    pt: viga
+    pt-br: viga
+    qu: Chakakuq
+    ro: grindă
+    ru: балка
+    sat: ᱫᱷᱚᱨᱱᱟ
+    sh: greda
+    shn: တူင်
+    sl: nosilec
+    sr: греда
+    sr-ec: греда
+    sr-el: greda
+    sv: balk
+    tg: Болор
+    tr: Kiriş (mimarlık)
+    uk: балка
+    uz: Balka
+    vec: travo
+    yue: 樑
+    zh: 梁
 ---
-
 # [[Beam(Structure)]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~beam,3705329]] 

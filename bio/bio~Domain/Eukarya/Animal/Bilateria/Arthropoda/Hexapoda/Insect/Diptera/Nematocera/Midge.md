@@ -1,4 +1,43 @@
-
+---
+has_id_wikidata: Q2234359
+dv_has_:
+  name_:
+    ar: ذباب صغير
+    ca: mosquit petit
+    de: Mücke
+    en: midge
+    fa: مگسریزه
+    fr: moucheron
+    ga: míoltóg
+    gd: Mheanbh-chuileag
+    id: Sera
+    it: moscerino
+    ja: 小虫
+    kw: gwibesen
+    ms: Sera
+    nl: midge
+    ru: Мошки
+    sl: muha
+    vi: Ruồi nhuế
+    zh: 蠓虫
+aliases:
+- gwibesen
+- Mheanbh-chuileag
+- midge
+- moscerino
+- mosquit petit
+- moucheron
+- muha
+- míoltóg
+- Mücke
+- Ruồi nhuế
+- Sera
+- Мошки
+- ذباب صغير
+- مگسریزه
+- 小虫
+- 蠓虫
+---
 ## #has_/text_of_/abstract 
 
 > A **Midge** is any small fly, including species in 

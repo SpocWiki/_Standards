@@ -1,8 +1,48 @@
 ---
 aliases:
-  - General topology
-  - General_Topology
-  - General Topology
+- algemene topologie
+- allgemeine Topologie
+- Allgemeng Topologie
+- genel topoloji
+- General topology
+- General_Topology
+- obecná topologie
+- opća topologija
+- opšta topologija
+- splošna topologija
+- toipeolaíocht ghinearálta
+- topologi am
+- topologi umum
+- topologia general
+- topologia generale
+- topologia generalis
+- topologia geral
+- topologia orokor
+- topologie generală
+- topologie générale
+- topología general
+- topolojia jeneral
+- topoloxía xeneral
+- topoloxía xeral
+- yleinen topologia
+- üldtopoloogia
+- ĝenerala topologio
+- γενική τοπολογία
+- агульная тапалёгія
+- агульная тапалогія
+- загальна топологія
+- обща топология
+- общая топология
+- општа топологија
+- טופולוגיה קבוצתית
+- الطوبولوجيا العامة
+- توپولوژی عمومی
+- جنرل ٹوپولوجی
+- ਆਮ ਟੌਪੌਲੌਜੀ
+- 位相空間論
+- 点集拓扑学
+- 點集拓撲學
+- 일반위상수학
 has_id_wikidata: Q621550
 instance_of: '[[_Standards/WikiData/WD~area_of_mathematics,1936384]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
@@ -10,11 +50,61 @@ facet_of: '[[_Standards/WikiData/WD~algebraic_general_topology,105682211]]'
 part_of: '[[_Standards/WikiData/WD~topology,42989]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neighborhood%20illust3.svg
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/general-topology
-  - https://mathoverflow.net/tags/gn.general-topology
+- https://math.stackexchange.com/tags/general-topology
+- https://mathoverflow.net/tags/gn.general-topology
 Commons_category: General topology
+dv_has_:
+  name_:
+    ar: الطوبولوجيا العامة
+    ast: topoloxía xeneral
+    be: агульная тапалогія
+    be-tarask: агульная тапалёгія
+    bg: обща топология
+    bs: opća topologija
+    ca: topologia general
+    cs: obecná topologie
+    de: allgemeine Topologie
+    el: γενική τοπολογία
+    en: general topology
+    en-ca: general topology
+    en-gb: general topology
+    eo: ĝenerala topologio
+    es: topología general
+    et: üldtopoloogia
+    eu: topologia orokor
+    fa: توپولوژی عمومی
+    fi: yleinen topologia
+    fr: topologie générale
+    ga: toipeolaíocht ghinearálta
+    gl: topoloxía xeral
+    he: טופולוגיה קבוצתית
+    id: topologi umum
+    it: topologia generale
+    ja: 位相空間論
+    ko: 일반위상수학
+    la: topologia generalis
+    lb: Allgemeng Topologie
+    lfn: topolojia jeneral
+    mk: општа топологија
+    ms: topologi am
+    nl: algemene topologie
+    pa: ਆਮ ਟੌਪੌਲੌਜੀ
+    pnb: جنرل ٹوپولوجی
+    pt: topologia geral
+    pt-br: topologia geral
+    ro: topologie generală
+    ru: общая топология
+    sl: splošna topologija
+    sr: opšta topologija
+    tr: genel topoloji
+    uk: загальна топологія
+    wuu: 点集拓扑学
+    yue: 點集拓撲學
+    zh: 点集拓扑学
+    zh-hans: 点集拓扑学
+    zh-hant: 點集拓撲學
+    zh-hk: 點集拓撲學
 ---
-
 # [[General_Topology]] 
 
 #is_/same_as :: [[WD~General_topology,621550]] 

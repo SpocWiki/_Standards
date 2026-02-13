@@ -1,10 +1,105 @@
 ---
 aliases:
-  - John Backus
-  - John Warner Backus
-  - Backus,John
+- Backus,John
+- Con Bekus
+- Džon Bekus
+- Džons Bekuss
+- John Backus
+- John W. Backus
+- John Warner Backus
+- Џон Бакус
+- Џон Бекус
+- Джон Бекус
+- Джон Бекъс
+- Джон Бэкус
+- Жон Бэкус
+- ג'ון באקוס
+- جان باکوس
+- جان بکوس
+- جون باكوس
+- जॉन बॅकस
+- জন বাকাস
+- ജോൺ വാർണർ ബാക്കസ്
+- จอห์น แบกคัส
+- ჯონ ბეკუსი
+- ジョン・バッカス
+- 約翰·巴科斯
+- 约翰·巴科斯
+- 莊·巴吉斯
+- 존 배커스
+has_id_wikidata: Q92746
+dv_has_:
+  name_:
+    ar: جون باكوس
+    arz: جون باكوس
+    az: Con Bekus
+    azb: جان باکوس
+    be: Джон Бэкус
+    bg: Джон Бекъс
+    bn: জন বাকাস
+    bs: John Backus
+    ca: John W. Backus
+    cs: John Backus
+    cy: John Backus
+    da: John Backus
+    de: John W. Backus
+    en: John Backus
+    en-ca: John Backus
+    en-gb: John Backus
+    eo: John Backus
+    es: John Backus
+    et: John Backus
+    eu: John Backus
+    fa: جان بکوس
+    fi: John Backus
+    fr: John Backus
+    ga: John Backus
+    gl: John Backus
+    he: ג'ון באקוס
+    hi: जॉन बॅकस
+    hr: John Backus
+    ht: John Backus
+    hu: John Backus
+    is: John Backus
+    it: John Backus
+    ja: ジョン・バッカス
+    ko: 존 배커스
+    lv: Džons Bekuss
+    mk: Џон Бакус
+    ml: ജോൺ വാർണർ ബാക്കസ്
+    mn: Жон Бэкус
+    nb: John Backus
+    nl: John Backus
+    nn: John Backus
+    oc: John Backus
+    pl: John Backus
+    pt: John Backus
+    pt-br: John Backus
+    ro: John Backus
+    ru: Джон Бэкус
+    sh: John Backus
+    sk: John Backus
+    sl: John Backus
+    sq: John Backus
+    sr: Џон Бекус
+    sr-ec: Џон Бекус
+    sr-el: Džon Bekus
+    sv: John Backus
+    th: จอห์น แบกคัส
+    tr: John Backus
+    uk: Джон Бекус
+    vi: John Backus
+    war: John Backus
+    xmf: ჯონ ბეკუსი
+    yue: 莊·巴吉斯
+    zh: 約翰·巴科斯
+    zh-cn: 约翰·巴科斯
+    zh-hans: 约翰·巴科斯
+    zh-hant: 約翰·巴科斯
+    zh-hk: 約翰·巴科斯
+    zh-sg: 约翰·巴科斯
+    zh-tw: 約翰·巴科斯
 ---
-
 #has_/time_/started :: 1924-12-03 
 #has_/time_/stopped :: 2007-03-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

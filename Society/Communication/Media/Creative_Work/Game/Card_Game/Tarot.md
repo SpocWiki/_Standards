@@ -1,19 +1,53 @@
 ---
 aliases:
-  - trionfi
-  - tarocchi
-  - tarocks
-  - tarot
-  - Tarot
+- jeu de cartes de tarot
+- Kartu Tarot
+- Kertu Tarot
+- Letrat Tarot
+- lipu Talo
+- Taro
+- Taro kortos
+- Taro kārtis
+- tarocchi
+- Taroci
+- Tarock
+- tarocks
+- Tarod
+- tarokoj
+- tarot
+- tarot deck
+- tarotkaarte
+- Taròch
+- tarô
+- trionfi
+- Ταρώ
+- Карты Таро
+- таро
+- Тарот
+- тарот-карти
+- տարո
+- קלפי טארוט
+- أوراق التاروت
+- تاروت
+- ট্যারোট
+- ಟ್ಯಾರೋ(ಭವಿಷ್ಯ ಹೇಳಲು ಬಳಸುವ ಇಸ್ಪೀಟೆಲೆಗಳ ಪ್ಯಾಕ್)
+- ടാരറ്റ് കാർഡ് റീഡിംഗ്
+- ไพ่ทาโรต์
+- တားရော့ပညာ
+- ტარო
+- タロット
+- 塔罗牌
+- 塔羅牌
+- 타로
 has_id_wikidata: Q583269
 has_use:
-  - '[[_Standards/WikiData/WD~tarot_card_reading,126645]]'
-  - '[[_Standards/WikiData/WD~tarot_card_game,510406]]'
-  - '[[_Standards/WikiData/WD~divination,1043197]]'
+- '[[_Standards/WikiData/WD~tarot_card_reading,126645]]'
+- '[[_Standards/WikiData/WD~tarot_card_game,510406]]'
+- '[[_Standards/WikiData/WD~divination,1043197]]'
 different_from: '[[_Standards/WikiData/WD~tarot_card_game,510406]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~card_deck,3418492]]'
-  - '[[_Standards/WikiData/WD~religious_object,12910132]]'
+- '[[_Standards/WikiData/WD~card_deck,3418492]]'
+- '[[_Standards/WikiData/WD~religious_object,12910132]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~tarot_card,12058324]]'
 Nomenclature_for_Museum_Cataloging: 14231
 Commons_gallery: Tarot
@@ -22,8 +56,88 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Playingtrumps.gif
 Iconclass_notation: 13E221
 Commons_category: Tarot cards
 Dewey_Decimal_Classification: 133.32424
+dv_has_:
+  name_:
+    af: tarotkaarte
+    ar: أوراق التاروت
+    az: Tarot
+    azb: تاروت
+    be: Карты Таро
+    be-tarask: таро
+    bg: Таро
+    bn: ট্যারোট
+    br: Tarod
+    ca: tarot
+    cs: tarot
+    cy: Tarot
+    da: Tarot
+    de: Tarock
+    el: Ταρώ
+    en: tarot deck
+    en-ca: Tarot
+    en-gb: Tarot
+    eo: tarokoj
+    es: tarot
+    et: Taro
+    eu: Tarot
+    fa: تاروت
+    fi: tarot
+    fr: jeu de cartes de tarot
+    gl: Tarot
+    he: קלפי טארוט
+    hif: Tarot
+    hr: Tarot
+    hu: tarot
+    hy: տարո
+    id: Kartu Tarot
+    it: tarocchi
+    ja: タロット
+    jv: Kertu Tarot
+    ka: ტარო
+    kn: ಟ್ಯಾರೋ(ಭವಿಷ್ಯ ಹೇಳಲು ಬಳಸುವ ಇಸ್ಪೀಟೆಲೆಗಳ ಪ್ಯಾಕ್)
+    ko: 타로
+    la: Tarot
+    lb: Tarot
+    lfn: Taroci
+    li: Tarot
+    lt: Taro kortos
+    lv: Taro kārtis
+    lzh: 塔羅牌
+    mk: тарот-карти
+    ml: ടാരറ്റ് കാർഡ് റീഡിംഗ്
+    mn: Тарот
+    ms: Tarot
+    my: တားရော့ပညာ
+    mzn: تاروت
+    nan: Tarot
+    nb: tarot
+    nl: tarot
+    nn: Tarot
+    pl: tarot
+    pms: Taròch
+    pt: tarô
+    pt-br: tarô
+    ro: Tarot
+    ru: таро
+    sh: Tarot
+    sk: tarot
+    sl: tarot
+    sq: Letrat Tarot
+    sr: тарот
+    sr-ec: тарот
+    sv: tarot
+    th: ไพ่ทาโรต์
+    tl: Tarot
+    tok: lipu Talo
+    tr: Tarot
+    uk: таро
+    vi: Tarot
+    war: Tarot
+    wuu: 塔罗牌
+    yue: 塔羅牌
+    zh: 塔羅牌
+    zh-hant: 塔羅牌
 ---
-
 # [[Tarot]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tarot,583269|WD~Tarot,583269]]  

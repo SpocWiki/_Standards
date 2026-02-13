@@ -1,68 +1,233 @@
 ---
 aliases:
-  - Religions
-  - Religionen
-  - Religion
+- addini
+- Adin
+- agama
+- agamo
+- aghâma
+- alka
+- amantii
+- Arligion
+- Asgd
+- asɣan
+- bodumedi
+- bonzámbe
+- chinamato
+- chong-kàu
+- chûng-kau
+- craueeaght
+- crefydd
+- creideamh
+- cŭng-gáu
+- dharam
+- diin
+- diinɛ
+- din
+- dini
+- dîn
+- erlijio
+- feja
+- fivavahana
+- geleuf
+- Gyauq
+- Hoʻomana
+- Inkolo
+- iñiy
+- kasalpantayanan
+- khwi
+- kryjyans
+- lijda
+- lotu
+- lukholo
+- lukwikilu
+- nabožina
+- nasin sewi
+- náboženstvo
+- náboženství
+- oskkoldat
+- oskoldâh
+- Pengarap
+- rel
+- releegion
+- relichión
+- religgione
+- religia
+- religie
+- religii
+- religija
+- religijo
+- religijô
+- religio
+- Religion
+- religione
+- Religionen
+- Religions
+- Religioo
+- religioon
+- religiun
+- religião
+- religió
+- religión
+- religjon
+- religy
+- relihion
+- relihiyon
+- relihiyón
+- relihyon
+- relijio
+- relijion
+- relijyon
+- Relioun
+- relixión
+- relixón
+- reliġjon
+- reliģija
+- rełijon
+- rilidjons
+- riliggioni
+- riligioni
+- Rilihon
+- rilijan
+- rilijin
+- rélijyon
+- teōmatiliztli
+- trúarbrögð
+- tupãrape
+- tôn giáo
+- Ugamo
+- upperisarsiorneq
+- usk
+- uskondo
+- uskonto
+- vallás
+- viera
+- vukhongeri
+- yupaychäwi
+- átrúnaður
+- åskldõk
+- èrligion
+- Ŋmempuori (Ghana)
+- Ɔsom
+- θρησκεία
+- адин
+- дін
+- ди
+- дин
+- итэҕэл
+- пазнэнь кемемась
+- релігія
+- реліґія
+- религија
+- религия
+- рэлігія
+- тĕн
+- шажан
+- шашин
+- юмынйӱла
+- կրոն
+- דת
+- רעליגיע
+- ئایین
+- ئىسلام
+- اݢام
+- دين
+- دین
+- مت
+- مذهب
+- مذہب
+- مَزہَب
+- ܬܘܕܝܬܐ
+- ߣߊߡߎ߲
+- धम्म
+- धर्म
+- धर्मशास्त्रप्रविभागः
+- ধর্ম
+- ধৰ্ম
+- ਧਰਮ
+- ધર્મ
+- ଧର୍ମ
+- சமயம்
+- మతం
+- ಧರ್ಮ
+- മതം
+- ආගම
+- ศาสนา
+- ສາດສະໜາ
+- ཆོས་ལུགས།
+- ဘာသာ
+- ဘာသာတရား
+- ဘာႏသာႏရေꩻ
+- လွင်ႈၵိူဝ်းယမ်
+- რელიგია
+- ሃይማኖት
+- ᏗᏁᎸᏙᏗ
+- សាសនា
+- ᱫᱷᱚᱨᱚᱢ
+- ẹ̀sìn
+- ⴰⵙⴳⴷ
+- 宗教
+- ꯂꯥꯢꯅꯤꯡ
+- 종교
 has_id_wikidata: Q9174
 studied_by:
-  - '[[_Standards/WikiData/WD~humanities,80083]]'
-  - '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
-  - '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
-  - '[[_Standards/WikiData/WD~history_of_religions,846742]]'
-  - '[[_Standards/WikiData/WD~theology,34178]]'
-  - '[[_Standards/WikiData/WD~religious_studies,34187]]'
+- '[[_Standards/WikiData/WD~humanities,80083]]'
+- '[[_Standards/WikiData/WD~philosophy_of_religion,209295]]'
+- '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
+- '[[_Standards/WikiData/WD~history_of_religions,846742]]'
+- '[[_Standards/WikiData/WD~theology,34178]]'
+- '[[_Standards/WikiData/WD~religious_studies,34187]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~tradition,82821]]'
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~activity,1914636]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-  - '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
-  - '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_world_view,110401282]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
 facet_of:
-  - '[[_Standards/WikiData/WD~tradition,82821]]'
-  - '[[_Standards/WikiData/WD~myth_of_origins,390248]]'
-  - '[[_Standards/WikiData/WD~mortality,1239812]]'
-  - '[[_Standards/WikiData/WD~sexual_morality,105888744]]'
-  - '[[_Standards/WikiData/WD~marriage,8445]]'
-  - '[[_Standards/WikiData/WD~culture,11042]]'
+- '[[_Standards/WikiData/WD~tradition,82821]]'
+- '[[_Standards/WikiData/WD~myth_of_origins,390248]]'
+- '[[_Standards/WikiData/WD~mortality,1239812]]'
+- '[[_Standards/WikiData/WD~sexual_morality,105888744]]'
+- '[[_Standards/WikiData/WD~marriage,8445]]'
+- '[[_Standards/WikiData/WD~culture,11042]]'
 different_from:
-  - '[[_Standards/WikiData/WD~dharma,134293]]'
-  - '[[_Standards/WikiData/WD~religiosity,1553701]]'
-  - '[[_Standards/WikiData/WD~existence_of_God,1699404]]'
-  - '[[_Standards/WikiData/WD~confessional_community,5159998]]'
-  - '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
+- '[[_Standards/WikiData/WD~dharma,134293]]'
+- '[[_Standards/WikiData/WD~religiosity,1553701]]'
+- '[[_Standards/WikiData/WD~existence_of_God,1699404]]'
+- '[[_Standards/WikiData/WD~confessional_community,5159998]]'
+- '[[_Standards/WikiData/WD~religious_denomination,13414953]]'
 has_list: '[[_Standards/WikiData/WD~list_of_religions_and_spiritual_traditions,329442]]'
 opposite_of: '[[_Standards/WikiData/WD~antireligion,565005]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
-  - '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-  - '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]'
 geography_of_topic: '[[_Standards/WikiData/WD~religion_and_geography,614221]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_religions,846742]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~cleric,2259532]]'
-  - '[[_Standards/WikiData/WD~religious,2566598]]'
-  - '[[_Standards/WikiData/WD~religious_person,3111753]]'
-  - '[[_Standards/WikiData/WD~religious_figure,4504549]]'
-  - '[[_Standards/WikiData/WD~believer,17573152]]'
+- '[[_Standards/WikiData/WD~cleric,2259532]]'
+- '[[_Standards/WikiData/WD~religious,2566598]]'
+- '[[_Standards/WikiData/WD~religious_person,3111753]]'
+- '[[_Standards/WikiData/WD~religious_figure,4504549]]'
+- '[[_Standards/WikiData/WD~believer,17573152]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~confessional_community,5159998]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~belief_system,5390013]]'
-  - '[[_Standards/WikiData/WD~non_rational_belief_system,136485030]]'
-  - '[[_Standards/WikiData/WD~world_view,49447]]'
+- '[[_Standards/WikiData/WD~belief_system,5390013]]'
+- '[[_Standards/WikiData/WD~non_rational_belief_system,136485030]]'
+- '[[_Standards/WikiData/WD~world_view,49447]]'
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Religion_topics,5877331]]'
-  - '[[_Standards/WikiData/WD~Template_Religions_and_currents,111795311]]'
+- '[[_Standards/WikiData/WD~Template_Religion_topics,5877331]]'
+- '[[_Standards/WikiData/WD~Template_Religions_and_currents,111795311]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Religion,6566755]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_religion,7112716]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Religion,8503229]]'
@@ -94,8 +259,281 @@ Provenio_UUID: 8d2e6b44-51a6-411f-ba7e-1071d5778a61
 UMLS_CUI: C0392356
 MeSH_tree_code: K01.844
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RELIGIYA.html
+dv_has_:
+  name_:
+    ab: адин
+    ace: agama
+    acm: دين
+    ady: Дин
+    af: religie
+    am: ሃይማኖት
+    an: relichión
+    anp: धर्म
+    ar: دين
+    arc: ܬܘܕܝܬܐ
+    arz: دين
+    as: ধৰ্ম
+    ast: relixón
+    avk: alka
+    ay: yupaychäwi
+    az: din
+    azb: دین
+    ba: Дин
+    ban: Agama
+    bar: Religion
+    bbc: Ugamo
+    bcl: relihiyon
+    be: рэлігія
+    be-tarask: рэлігія
+    bg: религия
+    bi: Rilijin
+    bjn: agama
+    blk: ဘာႏသာႏရေꩻ
+    bm: diinɛ
+    bn: ধর্ম
+    bo: ཆོས་ལུགས།
+    bpy: ধর্ম
+    br: relijion
+    bs: religija
+    btm: Agama
+    bxr: шажан
+    ca: religió
+    cdo: cŭng-gáu
+    ce: дин
+    ceb: relihyon
+    ch: Rilihon
+    chr: ᏗᏁᎸᏙᏗ
+    ckb: ئایین
+    co: riligioni
+    crh: din
+    cs: náboženství
+    csb: religijô
+    cv: тĕн
+    cy: crefydd
+    da: religion
+    de: Religion
+    de-ch: Religion
+    dga: Ŋmempuori (Ghana)
+    diq: din
+    dtp: Agama
+    dty: धर्म
+    el: θρησκεία
+    en: religion
+    en-ca: religion
+    en-gb: religion
+    eo: religio
+    es: religión
+    et: religioon
+    eu: erlijio
+    ext: religión
+    fa: دین
+    fi: uskonto
+    fo: átrúnaður
+    fr: religion
+    frp: religion
+    frr: religioon
+    fur: religjon
+    fy: religy
+    ga: creideamh
+    gag: din
+    gan: 宗教
+    gcr: rélijyon
+    gd: creideamh
+    gl: relixión
+    gn: tupãrape
+    gom: धर्म
+    gor: Agama
+    gpe: religion
+    gsw: Religioo
+    gu: ધર્મ
+    gv: craueeaght
+    ha: addini
+    hak: chûng-kau
+    haw: Hoʻomana
+    he: דת
+    hi: धर्म
+    hif: dharam
+    hil: relihiyon
+    hr: religija
+    hsb: nabožina
+    ht: relijyon
+    hu: vallás
+    hy: կրոն
+    ia: religion
+    iba: Pengarap
+    id: agama
+    ie: religion
+    ilo: relihion
+    inh: ди
+    io: religio
+    is: trúarbrögð
+    it: religione
+    ja: 宗教
+    jam: rilijan
+    jbo: lijda
+    jv: agama
+    ka: რელიგია
+    kaa: din
+    kab: asɣan
+    kcg: khwi
+    kg: lukwikilu
+    kk: дін
+    kl: upperisarsiorneq
+    km: សាសនា
+    kn: ಧರ್ಮ
+    knc: Adin
+    ko: 종교
+    ks: مَزہَب
+    ku: dîn
+    ku-latn: dîn
+    kw: kryjyans
+    ky: дин
+    la: religio
+    lad: relijion
+    lb: Relioun
+    lbe: дин
+    lez: дин
+    lfn: relijio
+    li: religie
+    lij: religion
+    lld: religion
+    lmo: religion
+    ln: bonzámbe
+    lo: ສາດສະໜາ
+    lrc: دین
+    lt: religija
+    lv: reliģija
+    lzh: 宗教
+    mad: aghâma
+    map-bms: agama
+    mg: fivavahana
+    mhr: юмынйӱла
+    min: agamo
+    mk: религија
+    ml: മതം
+    mn: шашин
+    mni: ꯂꯥꯢꯅꯤꯡ
+    mnw: ဘာသာ
+    mr: धर्म
+    ms: agama
+    ms-arab: اݢام
+    mt: reliġjon
+    mwl: religion
+    my: ဘာသာတရား
+    myv: пазнэнь кемемась
+    mzn: دین
+    nah: teōmatiliztli
+    nan: chong-kàu
+    nap: religgione
+    nb: religion
+    nds: Religion
+    nds-nl: geleuf
+    ne: धर्म
+    new: धर्म
+    nl: religie
+    nn: religion
+    nov: religione
+    nqo: ߣߊߡߎ߲
+    nrm: èrligion
+    nso: bodumedi
+    oc: religion
+    olo: uskondo
+    om: amantii
+    or: ଧର୍ମ
+    os: дин
+    pa: ਧਰਮ
+    pam: kasalpantayanan
+    pap: religion
+    pcd: Arligion
+    pi: धम्म
+    pih: rilijin
+    pl: religia
+    pms: religion
+    pnb: مت
+    ps: مذهب
+    pt: religião
+    pt-br: religião
+    qu: iñiy
+    rm: religiun
+    rmy: Religia
+    ro: religie
+    ru: религия
+    rue: реліґія
+    rup: religie
+    sa: धर्मशास्त्रप्रविभागः
+    sah: итэҕэл
+    sat: ᱫᱷᱚᱨᱚᱢ
+    sc: religione
+    scn: riliggioni
+    sco: releegion
+    sd: مذهب
+    se: oskkoldat
+    sgs: viera
+    sh: religija
+    shi: Asgd
+    shn: လွင်ႈၵိူဝ်းယမ်
+    si: ආගම
+    sk: náboženstvo
+    sl: religija
+    smn: oskoldâh
+    sms: åskldõk
+    sn: chinamato
+    so: diin
+    sq: feja
+    sr: религија
+    ss: lukholo
+    stq: Religion
+    su: agama
+    sv: religion
+    sw: dini
+    szl: religijo
+    ta: சமயம்
+    te: మతం
+    tg: дин
+    th: ศาสนา
+    ti: ሃይማኖት
+    tk: din
+    tl: relihiyon
+    tly: Din
+    tok: nasin sewi
+    tpi: lotu
+    tr: din
+    ts: vukhongeri
+    tt: дин
+    tt-cyrl: дин
+    tt-latn: din
+    tw: Ɔsom
+    udm: религия
+    ug: ئىسلام
+    uk: релігія
+    ur: مذہب
+    uz: din
+    vec: rełijon
+    vep: religii
+    vi: tôn giáo
+    vo: rel
+    vro: usk
+    wa: rilidjons
+    war: relihiyón
+    wuu: 宗教
+    xmf: რელიგია
+    yi: רעליגיע
+    yo: ẹ̀sìn
+    yue: 宗教
+    za: Gyauq
+    zea: religie
+    zgh: ⴰⵙⴳⴷ
+    zh: 宗教
+    zh-cn: 宗教
+    zh-hans: 宗教
+    zh-hant: 宗教
+    zh-hk: 宗教
+    zh-mo: 宗教
+    zh-my: 宗教
+    zh-sg: 宗教
+    zh-tw: 宗教
+    zu: Inkolo
 ---
-
 # [[Religion]] 
 
 #is_/same_as :: [[../../WikiData/WD~Religion,9174|WD~Religion,9174]] 

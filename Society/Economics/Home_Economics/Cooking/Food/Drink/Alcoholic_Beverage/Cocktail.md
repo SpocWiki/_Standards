@@ -1,33 +1,180 @@
 ---
 aliases:
-  - Cocktail
+- Alkoholinis kokteilis
+- alkoholisks kokteilis
+- Cocktail
+- cocktail avec alcool
+- coctel
+- Coctèl
+- coquetel
+- còctel
+- cóctel
+- drinkki
+- Gallicauda
+- Kaktel
+- Koktail
+- koktajl
+- koktajl alkoholowy
+- Kokteil
+- Kokteill
+- koktejl
+- koktel
+- koktell
+- koktelo
+- Kokteyl
+- Kokteýlʹ
+- Koktil
+- koktél
+- Laeuj Rienggaeq
+- manglam
+- Skemerkelkie
+- κοκτέιλ
+- алкогольный коктейль
+- алькагольны кактэйль
+- коктейл
+- Коктейль
+- коктел
+- կոկտեյլ
+- קאקטייל
+- קוקטייל
+- كوكتيل
+- كوكتەيل
+- کاک ٹیل
+- کوکتل
+- कॉकटेल (पेय)
+- காக்டெய்ல்கள்
+- ಕಾಕ್ಟೇಲ್
+- കോക്ടെയ്ൽ
+- ค็อกเทล
+- ကော့တေး
+- კოქტეილი
+- ኮክቴል
+- カクテル
+- 咯嗲
+- 雞尾酒
+- 鸡尾酒
+- 칵테일
 has_id_wikidata: Q134768
 made_from_material:
-  - "[[_Standards/WikiData/WD~drinking_vessel,2453629]]"
-  - "[[_Standards/WikiData/WD~cocktail_garnish,2903446]]"
-  - "[[_Standards/WikiData/WD~drink,40050]]"
-has_list: "[[_Standards/WikiData/WD~list_of_cocktails,2507328]]"
-different_from: "[[_Standards/WikiData/WD~mixed_drink,3246609]]"
+- '[[_Standards/WikiData/WD~drinking_vessel,2453629]]'
+- '[[_Standards/WikiData/WD~cocktail_garnish,2903446]]'
+- '[[_Standards/WikiData/WD~drink,40050]]'
+has_list: '[[_Standards/WikiData/WD~list_of_cocktails,2507328]]'
+different_from: '[[_Standards/WikiData/WD~mixed_drink,3246609]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~mixed_drink,3246609]]"
-  - "[[_Standards/WikiData/WD~alcoholic_beverage,154]]"
+- '[[_Standards/WikiData/WD~mixed_drink,3246609]]'
+- '[[_Standards/WikiData/WD~alcoholic_beverage,154]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]"
-  - "[[_Standards/WikiData/WD~Beverages_Task_Force,21829990]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_cocktail,14196626]]"
-opposite_of: "[[_Standards/WikiData/WD~non_alcoholic_mixed_drink,125078160]]"
+- '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,8485990]]'
+- '[[_Standards/WikiData/WD~Beverages_Task_Force,21829990]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_cocktail,14196626]]'
+opposite_of: '[[_Standards/WikiData/WD~non_alcoholic_mixed_drink,125078160]]'
 IMDb_keyword: cocktail
 Commons_gallery: Cocktail
 Commons_category: Cocktails
-Unicode_character: 🍸
+Unicode_character: "\U0001F378"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cocktail1.jpg
 P8189: 987007284048705200
 subreddit: cocktails
 Wolfram_Language_entity_code: Entity["FoodType", "Cocktail"]
 OpenStreetMap_tag_or_key: Tag:cocktails=yes
 Baidu_Tieba_name: 鸡尾酒
+dv_has_:
+  name_:
+    af: Skemerkelkie
+    ar: كوكتيل
+    ast: cóctel
+    az: Kokteyl
+    ban: Koktil
+    be-tarask: алькагольны кактэйль
+    bg: коктейл
+    bs: Koktel
+    ca: còctel
+    cs: koktejl
+    cy: coctel
+    da: cocktail
+    de: Cocktail
+    el: κοκτέιλ
+    en: cocktail
+    eo: koktelo
+    es: cóctel
+    et: Kokteil
+    eu: koktel
+    fa: کوکتل
+    fi: drinkki
+    fo: cocktail
+    fr: cocktail avec alcool
+    fy: Cocktail
+    ga: manglam
+    gl: cóctel
+    he: קוקטייל
+    hi: कॉकटेल (पेय)
+    hr: Koktel
+    hu: koktél
+    hy: կոկտեյլ
+    ia: Cocktail
+    id: Koktail
+    is: Kokteill
+    it: cocktail
+    ja: カクテル
+    jv: Koktail
+    ka: კოქტეილი
+    kk: Коктейль
+    kk-arab: كوكتەيل
+    kk-cn: كوكتەيل
+    kk-cyrl: Коктейль
+    kk-kz: Коктейль
+    kk-latn: Kokteýlʹ
+    kk-tr: Kokteýlʹ
+    kl: cocktail
+    kn: ಕಾಕ್ಟೇಲ್
+    ko: 칵테일
+    kw: Koktel
+    la: Gallicauda
+    lb: Cocktail
+    lt: Alkoholinis kokteilis
+    lv: alkoholisks kokteilis
+    mk: коктел
+    ml: കോക്ടെയ്ൽ
+    mn: Коктейль
+    my: ကော့တေး
+    nb: cocktail
+    nds: Cocktail
+    nl: cocktail
+    nn: cocktail
+    oc: Coctèl
+    pl: koktajl alkoholowy
+    pt: coquetel
+    ro: Cocktail
+    ru: алкогольный коктейль
+    sh: Koktel
+    sk: koktail
+    sl: koktajl
+    sq: koktell
+    sr: коктел
+    sr-ec: Коктел
+    sr-el: Koktel
+    sv: cocktail
+    ta: காக்டெய்ல்கள்
+    th: ค็อกเทล
+    ti: ኮክቴል
+    tl: Kaktel
+    tr: Kokteyl
+    uk: коктейль
+    ur: کاک ٹیل
+    vi: Cocktail
+    wuu: 鸡尾酒
+    yi: קאקטייל
+    yue: 咯嗲
+    za: Laeuj Rienggaeq
+    zh: 鸡尾酒
+    zh-cn: 鸡尾酒
+    zh-hans: 鸡尾酒
+    zh-hant: 雞尾酒
+    zh-hk: 雞尾酒
+    zh-sg: 鸡尾酒
+    zh-tw: 雞尾酒
 ---
-
 # [[Cocktail]] 🍸 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Cocktail,134768|WD~Cocktail,134768]] 

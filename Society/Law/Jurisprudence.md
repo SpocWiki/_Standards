@@ -1,25 +1,120 @@
 ---
 aliases:
-  - Jurisprudenz
-  - Jurisprudence
+- ciencia del derecho
+- ciència del dret
+- cyfreitheg
+- dlí-eolaíocht
+- giurisprudenza
+- Giurisprudèntzia
+- hukuk felsefesi
+- Huquqshunoslik
+- Hurisprudensiya
+- hüquqşünaslıq
+- Iurisprudentia
+- jogtudomány
+- juridihkka
+- Jurisprudence
+- jurisprudencë
+- jurisprudens
+- jurisprudentia
+- Jurisprudentie
+- Jurisprudenz
+- jurisprudență
+- jurisprudéncia
+- juro
+- juss
+- luật học
+- Løgfrøði
+- nauki prawne
+- oikeustiede
+- Palabatasan
+- pravoznanstvo
+- právna veda
+- právní věda
+- rechtsgeleerdheid
+- Rechtswetenschoppen
+- Rechtswissenschaft
+- Rechtswissnschoft
+- regsleer
+- retsvidenskab
+- riehtioppâ
+- Rjochtsgeleardheid
+- rättsvetenskap
+- Réttarheimspeki
+- Sudska praksa
+- teisėtyra
+- teoria do direito
+- théorie du droit
+- tiesību zinātne
+- Tɔm ɖɩhʊyɛ taa tɔm kɩkpaɣtʊ
+- vuõiggâdvuõtt-tiõđ
+- xurisprudencia
+- yurisprudensi
+- Yurocienco
+- zurisprudensa
+- zuzenbide (jakintza)
+- õigusteadus
+- Õigustiidüs
+- ġurisprudenza
+- νομική
+- правазнаўства
+- правна наука
+- правне науке
+- судска пракса
+- Укук таануу
+- хоҡуҡ фәне
+- юриспруденція
+- Юриспруденци
+- юриспруденций
+- юриспруденция
+- юрыспрудэнцыя
+- құқықтану
+- ҳақшиносӣ
+- Իրավաբանություն
+- Իրաւաբանութիւն
+- תורת המשפט
+- اُصول قانون
+- جوريسڤرودنس
+- دانش نظری حقوق
+- دراسة القانون
+- زانستی دادمەندی
+- قانۇن ئىلمى
+- कानून शास्त्र
+- न्यायशास्त्र
+- विधिशास्त्र
+- আইনশাস্ত্র
+- বিধিশাস্ত্ৰ
+- ਨਿਆਂਸ਼ਾਸ਼ਤਰ
+- ન્યાયશાસ્ત્ર
+- சட்டவியல்
+- న్యాయ మీమాంస
+- ನ್ಯಾಯಶಾಸ್ತ್ರ
+- നിയമശാസ്ത്രം
+- หลักนิติศาสตร์
+- ນິຕິສາດ
+- იურისპრუდენცია
+- យុត្តិសាស្រ្ត
+- 法学
+- 法學
+- 법학
 has_id_wikidata: Q4932206
 has_part_s_: '[[_Standards/WikiData/WD~philosophy_of_law,126842]]'
 practiced_by:
-  - '[[_Standards/WikiData/WD~jurist,185351]]'
-  - '[[_Standards/WikiData/WD~legal_scholar,16012028]]'
+- '[[_Standards/WikiData/WD~jurist,185351]]'
+- '[[_Standards/WikiData/WD~legal_scholar,16012028]]'
 different_from:
-  - '[[_Standards/WikiData/WD~legal_science,382995]]'
-  - '[[_Standards/WikiData/WD~case_law,11022655]]'
+- '[[_Standards/WikiData/WD~legal_science,382995]]'
+- '[[_Standards/WikiData/WD~case_law,11022655]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~rights,780687]]'
-  - '[[_Standards/WikiData/WD~law,7748]]'
+- '[[_Standards/WikiData/WD~rights,780687]]'
+- '[[_Standards/WikiData/WD~law,7748]]'
 studied_by: '[[_Standards/WikiData/WD~sociology_of_law,847034]]'
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~judicial_studies,6768472]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Jurisprudence,11157398]]'
@@ -30,12 +125,133 @@ Colon_Classification: Z
 Commons_category: Jurisprudence
 Iconclass_notation: 49C162
 MeSH_tree_code:
-  - I01.880.604.583
-  - N03.706.535
+- I01.880.604.583
+- N03.706.535
 IPTC_NewsCode: mediatopic/20000749
 native_label: jūris prūdentia
+dv_has_:
+  name_:
+    af: regsleer
+    ar: دراسة القانون
+    as: বিধিশাস্ত্ৰ
+    ast: xurisprudencia
+    az: hüquqşünaslıq
+    ba: хоҡуҡ фәне
+    bar: Rechtswissnschoft
+    be: правазнаўства
+    be-tarask: юрыспрудэнцыя
+    bg: Юриспруденция
+    bho: कानून शास्त्र
+    bn: আইনশাস্ত্র
+    ca: ciència del dret
+    ckb: زانستی دادمەندی
+    cs: právní věda
+    cv: Юриспруденци
+    cy: cyfreitheg
+    da: retsvidenskab
+    de: Rechtswissenschaft
+    de-ch: Rechtswissenschaft
+    el: νομική
+    en: jurisprudence
+    en-ca: Jurisprudence
+    en-gb: jurisprudence
+    eo: juro
+    es: ciencia del derecho
+    et: õigusteadus
+    eu: zuzenbide (jakintza)
+    fa: دانش نظری حقوق
+    fi: oikeustiede
+    fo: Løgfrøði
+    fr: théorie du droit
+    frr: jurisprudens
+    fy: Rjochtsgeleardheid
+    ga: dlí-eolaíocht
+    gl: xurisprudencia
+    gsw: Rechtswissenschaft
+    gu: ન્યાયશાસ્ત્ર
+    he: תורת המשפט
+    hi: विधिशास्त्र
+    hr: Sudska praksa
+    hu: jogtudomány
+    hy: Իրավաբանություն
+    hyw: Իրաւաբանութիւն
+    ia: jurisprudentia
+    id: yurisprudensi
+    ie: Jurisprudentie
+    io: Yurocienco
+    is: Réttarheimspeki
+    it: giurisprudenza
+    ja: 法学
+    ka: იურისპრუდენცია
+    kbp: Tɔm ɖɩhʊyɛ taa tɔm kɩkpaɣtʊ
+    kk: құқықтану
+    kl: jurisprudence
+    km: យុត្តិសាស្រ្ត
+    kn: ನ್ಯಾಯಶಾಸ್ತ್ರ
+    ko: 법학
+    ky: Укук таануу
+    la: Iurisprudentia
+    lo: ນິຕິສາດ
+    lt: teisėtyra
+    lv: tiesību zinātne
+    mhr: юриспруденций
+    mk: правна наука
+    ml: നിയമശാസ്ത്രം
+    mr: न्यायशास्त्र
+    ms: jurisprudens
+    ms-arab: جوريسڤرودنس
+    mt: ġurisprudenza
+    nb: juss
+    nds: Rechtswetenschoppen
+    ne: विधिशास्त्र
+    new: न्यायशास्त्र
+    nl: rechtsgeleerdheid
+    nn: juss
+    oc: jurisprudéncia
+    os: юриспруденци
+    pa: ਨਿਆਂਸ਼ਾਸ਼ਤਰ
+    pl: nauki prawne
+    pt: teoria do direito
+    pt-br: teoria do direito
+    ro: jurisprudență
+    ru: юриспруденция
+    sc: Giurisprudèntzia
+    sco: jurisprudence
+    se: juridihkka
+    sh: Sudska praksa
+    sk: právna veda
+    sl: pravoznanstvo
+    smn: riehtioppâ
+    sms: vuõiggâdvuõtt-tiõđ
+    sq: jurisprudencë
+    sr: правне науке
+    sr-ec: судска пракса
+    sv: rättsvetenskap
+    ta: சட்டவியல்
+    te: న్యాయ మీమాంస
+    tg: ҳақшиносӣ
+    th: หลักนิติศาสตร์
+    tl: Palabatasan
+    tr: hukuk felsefesi
+    tt: юриспруденция
+    tt-cyrl: юриспруденция
+    ug: قانۇن ئىلمى
+    uk: юриспруденція
+    ur: اُصول قانون
+    uz: Huquqshunoslik
+    vec: zurisprudensa
+    vi: luật học
+    vro: Õigustiidüs
+    war: Hurisprudensiya
+    wuu: 法学
+    yue: 法學
+    zh: 法學
+    zh-cn: 法学
+    zh-hans: 法学
+    zh-hant: 法學
+    zh-hk: 法學
+    zh-tw: 法學
 ---
-
 # [[Jurisprudence]] 
 
 #is_/same_as :: [[WD~Jurisprudence,4932206]] 

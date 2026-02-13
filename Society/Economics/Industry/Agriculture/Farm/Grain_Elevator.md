@@ -1,27 +1,91 @@
 ---
 aliases:
-  - grain elevator or grain terminal
-  - Grain_Elevator
-  - Grain Elevator
+- Ale igogailu
+- dvigalo za žito
+- Elevador de gra
+- Elevador de granos
+- elevador de grãos
+- Elevator biji-bijian
+- Elevator de grâne
+- Getreideheber
+- graanzuiger
+- Grain Elevator
+- grain elevator or grain terminal
+- Grain_Elevator
+- Grūdų elevatorius
+- kornsilo
+- Penaik bijian
+- spannmålssilo
+- Tagapagtaas ng butil
+- Viljaelevaator
+- viljasiilo
+- élévateur à grain
+- Žitarični silosi
+- елеватор (зерносховище)
+- житен силос
+- зерневы элеватар
+- зерновой элеватор
+- Иген элеваторы
+- Հացահատիկի էլևատոր
+- بالابر غله
+- رافعة حبوب
+- கூலப் பதன்கலம்
+- カントリーエレベーター
+- 穀倉塔
+- 穀物倉庫
+- 양곡기
 has_id_wikidata: Q1520009
 subclass_of:
-  - '[[_Standards/WikiData/WD~silo,213643]]'
-  - '[[_Standards/WikiData/WD~grain_storage_building,60168923]]'
-  - '[[_Standards/WikiData/WD~harvesting_equipment,111426220]]'
+- '[[_Standards/WikiData/WD~silo,213643]]'
+- '[[_Standards/WikiData/WD~grain_storage_building,60168923]]'
+- '[[_Standards/WikiData/WD~harvesting_equipment,111426220]]'
 different_from: '[[_Standards/WikiData/WD~Q13220228,13220228]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-  - '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
 Nomenclature_for_Museum_Cataloging:
-  - 3318
-  - 554
+- 3318
+- 554
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stadsgraanzuiger19.jpg
 U_S_National_Archives_Identifier: 10637836
 Commons_category: Grain elevators
+dv_has_:
+  name_:
+    ar: رافعة حبوب
+    ba: Иген элеваторы
+    be-tarask: зерневы элеватар
+    ca: Elevador de gra
+    de: Getreideheber
+    en: grain elevator
+    es: Elevador de granos
+    et: Viljaelevaator
+    eu: Ale igogailu
+    fa: بالابر غله
+    fi: viljasiilo
+    fr: élévateur à grain
+    hy: Հացահատիկի էլևատոր
+    id: Elevator biji-bijian
+    ja: カントリーエレベーター
+    ko: 양곡기
+    lt: Grūdų elevatorius
+    mk: житен силос
+    ms: Penaik bijian
+    nb: kornsilo
+    nl: graanzuiger
+    pt: elevador de grãos
+    ro: Elevator de grâne
+    ru: зерновой элеватор
+    sl: dvigalo za žito
+    sr: Žitarični silosi
+    sv: spannmålssilo
+    ta: கூலப் பதன்கலம்
+    tl: Tagapagtaas ng butil
+    uk: елеватор (зерносховище)
+    yue: 穀倉塔
+    zh: 穀物倉庫
 ---
-
 # [[Grain_Elevator]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Grain_elevator,1520009|WD~Grain_elevator,1520009]] 

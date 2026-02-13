@@ -1,46 +1,152 @@
 ---
 aliases:
-  - Stecker
-  - electrical connector
-  - Electrical_Connector
-  - Electrical Connector
+- aparatinė sąsaja
+- Conector electric
+- conector eléctrico
+- conector elétrico
+- Conetor elétrich
+- coneutor llétricu
+- connectique
+- connector
+- connector elèctric
+- connettore elettrico
+- csatlakozó
+- electrical connector
+- Electrical_Connector
+- Elektrik konnektoru
+- Elektrik konnektörü
+- elektrisk stik
+- električni priključek
+- konektilo
+- konektor
+- konektor listrik
+- konektore elektriko
+- kontaktdakša
+- kontaktdon
+- liitin
+- nascóir leictreach
+- penyambung elektrik
+- Pistikühendus
+- Stecker
+- Steckverbinder
+- støpsel
+- złącze elektroniczne
+- đầu nối điện
+- Ажыранды
+- електричен приклучок
+- Електрически съединител
+- електрични прикључак
+- електричний з’єднувач
+- электрический соединитель
+- электрычны злучальнік
+- էլեկտրական միակցիչ
+- מחבר חשמלי
+- اتصالدهنده الکتریکی
+- جهاز ربط كهربائي
+- ڤڽامبوڠ ايليکتريک
+- विद्युत संयोजक
+- หัวต่อไฟฟ้า
+- 电子连接器
+- 電子連接器
+- 電気コネクタ
+- 전기 연결 단자
 has_id_wikidata: Q2119531
 has_part_s_:
-  - "[[_Standards/WikiData/WD~insulator,178150]]"
-  - "[[_Standards/WikiData/WD~electrical_contact,394001]]"
+- '[[_Standards/WikiData/WD~insulator,178150]]'
+- '[[_Standards/WikiData/WD~electrical_contact,394001]]'
 connects_with:
-  - "[[_Standards/WikiData/WD~electrical_cable,188447]]"
-  - "[[_Standards/WikiData/WD~wire,551997]]"
-  - "[[_Standards/WikiData/WD~electrical_connector,2119531]]"
-part_of: "[[_Standards/WikiData/WD~electrical_cable,188447]]"
+- '[[_Standards/WikiData/WD~electrical_cable,188447]]'
+- '[[_Standards/WikiData/WD~wire,551997]]'
+- '[[_Standards/WikiData/WD~electrical_connector,2119531]]'
+part_of: '[[_Standards/WikiData/WD~electrical_cable,188447]]'
 has_use:
-  - "[[_Standards/WikiData/WD~linkage,1153014]]"
-  - "[[_Standards/WikiData/WD~electrical_connection,2647496]]"
-different_from: "[[_Standards/WikiData/WD~electrical_junction,5357725]]"
+- '[[_Standards/WikiData/WD~linkage,1153014]]'
+- '[[_Standards/WikiData/WD~electrical_connection,2647496]]'
+different_from: '[[_Standards/WikiData/WD~electrical_junction,5357725]]'
 has_characteristic:
-  - "[[_Standards/WikiData/WD~connector_gender,5531000]]"
-  - "[[_Standards/WikiData/WD~plug_and_receptacle,65035030]]"
+- '[[_Standards/WikiData/WD~connector_gender,5531000]]'
+- '[[_Standards/WikiData/WD~plug_and_receptacle,65035030]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_connector,6326669]]"
-  - "[[_Standards/WikiData/WD~Q25988978,25988978]]"
+- '[[_Standards/WikiData/WD~Template_Infobox_connector,6326669]]'
+- '[[_Standards/WikiData/WD~Q25988978,25988978]]'
 subclass_of:
-  - "[[_Standards/WikiData/WD~connector,18819626]]"
-  - "[[_Standards/WikiData/WD~electronic_component,11653]]"
-instance_of: "[[_Standards/WikiData/WD~electrical_connector_system,58184783]]"
+- '[[_Standards/WikiData/WD~connector,18819626]]'
+- '[[_Standards/WikiData/WD~electronic_component,11653]]'
+instance_of: '[[_Standards/WikiData/WD~electrical_connector_system,58184783]]'
 properties_for_this_type:
-  - used by
-  - voltage
-  - connects with
-  - schematic
-  - image
+- used by
+- voltage
+- connects with
+- schematic
+- image
 Wikidata_property: connector
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/CIR%20Connector.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20panel%20of%20Yamaha%20RX-A2020%20AV%20receiver%20-%20at%20IFA%20fair%202012.jpg
-Unicode_character: 🔌
+- http://commons.wikimedia.org/wiki/Special:FilePath/CIR%20Connector.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20panel%20of%20Yamaha%20RX-A2020%20AV%20receiver%20-%20at%20IFA%20fair%202012.jpg
+Unicode_character: "\U0001F50C"
 Commons_category: Electrical connectors
+dv_has_:
+  name_:
+    ar: جهاز ربط كهربائي
+    ast: coneutor llétricu
+    az: Elektrik konnektoru
+    be: электрычны злучальнік
+    be-tarask: электрычны злучальнік
+    bg: Електрически съединител
+    ca: connector elèctric
+    cs: konektor
+    da: elektrisk stik
+    de: Steckverbinder
+    en: electrical connector
+    en-gb: electrical connector
+    eo: konektilo
+    es: conector eléctrico
+    et: Pistikühendus
+    eu: konektore elektriko
+    fa: اتصالدهنده الکتریکی
+    fi: liitin
+    fr: connectique
+    ga: nascóir leictreach
+    gl: conector eléctrico
+    he: מחבר חשמלי
+    hi: विद्युत संयोजक
+    hu: csatlakozó
+    hy: էլեկտրական միակցիչ
+    id: konektor listrik
+    it: connettore elettrico
+    ja: 電気コネクタ
+    kk: Ажыранды
+    ko: 전기 연결 단자
+    lt: aparatinė sąsaja
+    lv: kontaktdakša
+    mk: електричен приклучок
+    ms: penyambung elektrik
+    ms-arab: ڤڽامبوڠ ايليکتريک
+    nb: støpsel
+    nl: connector
+    nn: støpsel
+    pl: złącze elektroniczne
+    pms: Conetor elétrich
+    pt: conector elétrico
+    pt-br: conector elétrico
+    ro: Conector electric
+    ru: электрический соединитель
+    sh: Konektor
+    sk: konektor
+    sl: električni priključek
+    sr: електрични прикључак
+    sv: kontaktdon
+    th: หัวต่อไฟฟ้า
+    tr: Elektrik konnektörü
+    uk: електричний з’єднувач
+    vi: đầu nối điện
+    wuu: 电子连接器
+    yue: 電子連接器
+    zh: 電子連接器
+    zh-cn: 電子連接器
+    zh-hant: 電子連接器
+    zh-tw: 電子連接器
 ---
-
 # [[Electrical_Connector]] 🔌 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electrical_connector,2119531|WD~Electrical_connector,2119531]] 

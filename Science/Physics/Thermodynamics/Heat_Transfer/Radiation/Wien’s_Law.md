@@ -1,10 +1,55 @@
 ---
 aliases:
-  - Wien’s Displacement Law
-  - Wien distribution law
-  - Wien's law
+- aproximación de Wien
+- legge di Wien
+- Legile de deplasare ale lui Wien
+- Leĝo de Wien pri radiado
+- loi de Wien
+- Pendekatan Wien
+- przybliżenie Wiena
+- Stralingswet van Wien
+- Wien approximation
+- Wien distribution law
+- Wien's law
+- Wienov zákon
+- Wiens strålingslov
+- Wiensches Strahlungsgesetz
+- Wienův zákon
+- Wien’s Displacement Law
+- Вин нурлануу мыйзамы
+- Винов закон
+- Винова апроксимација
+- Закон выпрамянення Віна
+- חוק הקרינה של וין
+- ヴィーンの放射法則
+- 維恩近似
+- 빈 근사법
+has_id_wikidata: Q1667940
+dv_has_:
+  name_:
+    be: Закон выпрамянення Віна
+    cs: Wienův zákon
+    de: Wiensches Strahlungsgesetz
+    en: Wien approximation
+    eo: Leĝo de Wien pri radiado
+    es: aproximación de Wien
+    fr: loi de Wien
+    he: חוק הקרינה של וין
+    id: Pendekatan Wien
+    it: legge di Wien
+    ja: ヴィーンの放射法則
+    ko: 빈 근사법
+    ky: Вин нурлануу мыйзамы
+    mk: Винов закон
+    nb: Wiens strålingslov
+    nl: Stralingswet van Wien
+    pl: przybliżenie Wiena
+    ro: Legile de deplasare ale lui Wien
+    sk: Wienov zákon
+    sr: Винова апроксимација
+    zh: 維恩近似
+    zh-hant: 維恩近似
 ---
-
 # [[Wien’s_Law]] 
 
 $λ_max​=b/T​$

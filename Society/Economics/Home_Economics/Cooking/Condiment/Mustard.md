@@ -1,7 +1,77 @@
 ---
 aliases:
-  - Mustard
-  - Senf
+- garstyčios
+- gormiz
+- gorčica
+- hardal
+- horčica
+- hořčice
+- moschter
+- mostarda
+- mostassa
+- mostaza
+- Moster
+- mosterd
+- moståde
+- moutad
+- moutarde
+- mustar
+- Mustard
+- mustarda
+- Mustardi
+- mustardo
+- mustardë kuzhine
+- mustasa
+- mustár
+- musztarda
+- muștar
+- mù tạc
+- panikakā
+- Semf
+- Semp
+- senabe
+- senap
+- senape
+- Senf
+- sennep
+- sennet
+- sezo
+- siinap
+- sinapi
+- sinapp
+- sinappi
+- sinep
+- sinepes
+- sinnep
+- sinoppur
+- umasitadi
+- voantsinapy
+- zymft
+- žonop
+- μουστάρδα
+- гірчиця
+- гарчыца
+- горчица
+- сенф
+- մանանեխ
+- חרדל
+- خردل
+- صلصة الخردل
+- مسترده
+- گۆرمز
+- सरसों ( मसाला )
+- সরিষার আচার
+- ਸਰੋਂ
+- ଶୋରିଷ ଆଚାର
+- கடுகு
+- കടുക്
+- მდოგვი
+- マスタード
+- 芥末酱
+- 芥末醬
+- 芥菜醬
+- 芥辣
+- 머스터드
 has_id_wikidata: Q131748
 Commons_category: Mustard
 Commons_gallery: Mustard
@@ -14,18 +84,119 @@ maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Food_and_drink,
 OKPD2_product_code: 10.84.12.170
 OKPD_code_of_the_good_or_service: 15.87.12.132
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-en%20senap.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%95%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%81.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Sv-en%20senap.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%95%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%81.ogg
 subclass_of:
-  - '[[_Standards/WikiData/WD~condiment,2596997]]'
-  - '[[_Standards/WikiData/WD~parivyaya,5368822]]'
-  - '[[_Standards/WikiData/WD~food_paste,5726634]]'
-  - '[[_Standards/WikiData/WD~Q27493900,27493900]]'
-  - '[[_Standards/WikiData/WD~Q27494555,27494555]]'
+- '[[_Standards/WikiData/WD~condiment,2596997]]'
+- '[[_Standards/WikiData/WD~parivyaya,5368822]]'
+- '[[_Standards/WikiData/WD~food_paste,5726634]]'
+- '[[_Standards/WikiData/WD~Q27493900,27493900]]'
+- '[[_Standards/WikiData/WD~Q27494555,27494555]]'
 subreddit: senf
 USDA_NDB_number: 02046
+dv_has_:
+  name_:
+    af: mosterd
+    an: senabe
+    ar: صلصة الخردل
+    arz: مسترده
+    ast: mostaza
+    bar: Semf
+    be: гарчыца
+    be-tarask: гарчыца
+    bew: Mustardi
+    bg: горчица
+    bn: সরিষার আচার
+    br: sezo
+    bs: senf
+    ca: mostassa
+    co: mustarda
+    cs: hořčice
+    da: sennep
+    de: Senf
+    el: μουστάρδα
+    en: mustard
+    eo: mustardo
+    es: mostaza
+    et: sinep
+    eu: mostaza
+    fa: خردل
+    fi: sinappi
+    fo: sinoppur
+    fr: moutarde
+    frr: Moster
+    fy: moster
+    gl: mostaza
+    he: חרדל
+    hi: सरसों ( मसाला )
+    hr: senf
+    hsb: žonop
+    ht: moutad
+    hu: mustár
+    hy: մանանեխ
+    ia: mustarda
+    id: moster
+    io: mustardo
+    is: sinnep
+    it: senape
+    ja: マスタード
+    jv: mustar
+    ka: მდოგვი
+    ko: 머스터드
+    ku: gormiz
+    ku-arab: گۆرمز
+    ku-latn: gormiz
+    la: sinapi
+    lb: moschter
+    lt: garstyčios
+    lv: sinepes
+    mg: voantsinapy
+    mi: panikakā
+    mk: сенф
+    ml: കടുക്
+    ms: mustard
+    nb: sennep
+    nds: Semp
+    nl: mosterd
+    nn: sennep
+    nrm: moutarde
+    or: ଶୋରିଷ ଆଚାର
+    pa: ਸਰੋਂ
+    pl: musztarda
+    pt: mostarda
+    qu: mustasa
+    ro: muștar
+    ru: горчица
+    se: sennet
+    sh: senf
+    sk: horčica
+    sl: gorčica
+    smn: siinap
+    sms: sinapp
+    sq: mustardë kuzhine
+    sr: сенф
+    sr-ec: сенф
+    sr-el: senf
+    sv: senap
+    szl: zymft
+    ta: கடுகு
+    tr: hardal
+    tt: горчица
+    uk: гірчиця
+    vi: mù tạc
+    wa: moståde
+    war: mustasa
+    wuu: 芥末酱
+    yue: 芥辣
+    zh: 芥菜醬
+    zh-cn: 芥末酱
+    zh-hans: 芥末酱
+    zh-hant: 芥末醬
+    zh-hk: 芥末醬
+    zh-sg: 芥末酱
+    zh-tw: 芥末醬
+    zu: umasitadi
 ---
-
 # [[Mustard]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Mustard,131748|WD~Mustard,131748]] 

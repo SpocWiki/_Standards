@@ -1,60 +1,332 @@
 ---
 aliases:
-  - Plastik
-  - Kunststoff
-  - Plastic
+- Apỹipenga
+- Aŋŋwana
+- Bac
+- chất dẻo
+- Dhoqonaawaa
+- gbambila
+- I-plastiki
+- kirihou
+- kiwen ko tan ko kasi en telo pimeja
+- kopale
+- Kunststoff
+- Könststof
+- lastik
+- Llirpu
+- materie plastiche
+- matière plastique
+- Matyèr plastik
+- Matèri plàstichi
+- muovi
+- műanyag
+- Palasitika
+- Panyu
+- plaisteach
+- Plasmasė
+- plast
+- plasta
+- Plastaig
+- Plastega
+- Plastek
+- Plastic
+- Plastica
+- Plastico
+- plasticum
+- Plastiek
+- plastig
+- plastihkka
+- Plastik
+- Plastik materiallar
+- Plastika
+- plastikas
+- Plastike
+- Plastiki
+- plastikk
+- Plastiko
+- Plastmas
+- plastmasas
+- Plastmassa
+- Plastmassad
+- plasto
+- plastîk
+- Plestiek
+- Plestik
+- Plàstega
+- plàstic
+- Plàstica
+- Plástico
+- Plásticu
+- Práticu
+- Sok-ka
+- Só-lâiu
+- Tecololli
+- tworzywo sztuczne
+- Ucwazi
+- Πλαστικό
+- пластика
+- пластмаса
+- пластмаси
+- пластмасса
+- пластмассалар
+- пластмассаос
+- Пластмассаш
+- плястмаса
+- пыласмаслар
+- Хуванцар
+- պլաստմասսա
+- פלאסטיק
+- פלסטיק
+- آپچین
+- بلاستيك
+- لدائن
+- پلاستيك
+- پلاستیک
+- پلاسٹک
+- پلاسٽڪ
+- پیلاستیک
+- प्लास्टिक
+- প্লাষ্টিক
+- প্লাস্টিক
+- ਪਲਾਸਟਿਕ
+- நெகிழி
+- ప్లాస్టిక్
+- ಪ್ಲಾಸ್ಟಿಕ್ ಪರಿಸರದ ಮಹಾಶತ್ರು
+- പ്ലാസ്റ്റിക്
+- ප්ලාස්ටික්
+- พลาสติก
+- ປະລາສະຕິກ
+- ပလတ်စတစ်
+- პლასტმასა
+- ᏍᏓᎪᎢ
+- ᱯᱞᱟᱥᱴᱤᱠ
+- プラスチック
+- 塑料
+- 塑膠
+- 膠
+- 플라스틱
 has_id_wikidata: Q11474
 All_Science_Journal_Classification_Codes: 2507
 Baidu_Tieba_name: 塑料
 Colon_Classification: F52
 Commons_category: Plastics
-described_by_source: "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
 Dewey_Decimal_Classification:
-  - 668.4
-  - 620.1923
-  - 668.9
-different_from: "[[_Standards/WikiData/WD~synthetic_resin,1418040]]"
+- 668.4
+- 620.1923
+- 668.9
+different_from: '[[_Standards/WikiData/WD~synthetic_resin,1418040]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic%20objects.jpg
-instance_of: "[[_Standards/WikiData/WD~organic_matter,1783121]]"
+instance_of: '[[_Standards/WikiData/WD~organic_matter,1783121]]'
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PLASTMASSI.html
 made_from_material:
-  - "[[_Standards/WikiData/WD~polymer,81163]]"
-  - "[[_Standards/WikiData/WD~fossil_fuel,12748]]"
+- '[[_Standards/WikiData/WD~polymer,81163]]'
+- '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
 maintained_by_WikiProject:
-  - "[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Polymers,15885036]]"
-  - "[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]"
+- '[[_Standards/WikiData/WD~WikiProject_Environment,5497659]]'
+- '[[_Standards/WikiData/WD~WikiProject_Chemistry,8487234]]'
+- '[[_Standards/WikiData/WD~WikiProject_Polymers,15885036]]'
+- '[[_Standards/WikiData/WD~WikiProject_Materials,88425338]]'
 MeSH_tree_code:
-  - D05.750.716
-  - D25.720.716
-  - J01.637.051.720.716
+- D05.750.716
+- D25.720.716
+- J01.637.051.720.716
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-ar.ogg
-subclass_of: "[[_Standards/WikiData/WD~material,214609]]"
+subclass_of: '[[_Standards/WikiData/WD~material,214609]]'
 subreddit: plastic
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Plastics,9001872]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Plastics,9001872]]'
 UMLS_CUI: C0032167
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]]"
-    - "[[/_Standards/Chemistry/Organic_Chemistry/Plastic|Plastic]]"
-    - "[[/_public/Chemistry/Organic_Chemistry/Plastic.public|Plastic.public]]"
-    - "[[/_internal/Chemistry/Organic_Chemistry/Plastic.internal|Plastic.internal]]"
-    - "[[/_protect/Chemistry/Organic_Chemistry/Plastic.protect|Plastic.protect]]"
-    - "[[/_private/Chemistry/Organic_Chemistry/Plastic.private|Plastic.private]]"
-    - "[[/_personal/Chemistry/Organic_Chemistry/Plastic.personal|Plastic.personal]]"
-    - "[[/_secret/Chemistry/Organic_Chemistry/Plastic.secret|Plastic.secret]]"
+  - '[[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]]'
+  - '[[/_Standards/Chemistry/Organic_Chemistry/Plastic|Plastic]]'
+  - '[[/_public/Chemistry/Organic_Chemistry/Plastic.public|Plastic.public]]'
+  - '[[/_internal/Chemistry/Organic_Chemistry/Plastic.internal|Plastic.internal]]'
+  - '[[/_protect/Chemistry/Organic_Chemistry/Plastic.protect|Plastic.protect]]'
+  - '[[/_private/Chemistry/Organic_Chemistry/Plastic.private|Plastic.private]]'
+  - '[[/_personal/Chemistry/Organic_Chemistry/Plastic.personal|Plastic.personal]]'
+  - '[[/_secret/Chemistry/Organic_Chemistry/Plastic.secret|Plastic.secret]]'
 dv_is_same_as:
-  - "[[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]]"
-  - "[[/_Standards/Chemistry/Organic_Chemistry/Plastic|Plastic]]"
-  - "[[/_public/Chemistry/Organic_Chemistry/Plastic.public|Plastic.public]]"
-  - "[[/_internal/Chemistry/Organic_Chemistry/Plastic.internal|Plastic.internal]]"
-  - "[[/_protect/Chemistry/Organic_Chemistry/Plastic.protect|Plastic.protect]]"
-  - "[[/_private/Chemistry/Organic_Chemistry/Plastic.private|Plastic.private]]"
-  - "[[/_personal/Chemistry/Organic_Chemistry/Plastic.personal|Plastic.personal]]"
-  - "[[/_secret/Chemistry/Organic_Chemistry/Plastic.secret|Plastic.secret]]"
+- '[[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]]'
+- '[[/_Standards/Chemistry/Organic_Chemistry/Plastic|Plastic]]'
+- '[[/_public/Chemistry/Organic_Chemistry/Plastic.public|Plastic.public]]'
+- '[[/_internal/Chemistry/Organic_Chemistry/Plastic.internal|Plastic.internal]]'
+- '[[/_protect/Chemistry/Organic_Chemistry/Plastic.protect|Plastic.protect]]'
+- '[[/_private/Chemistry/Organic_Chemistry/Plastic.private|Plastic.private]]'
+- '[[/_personal/Chemistry/Organic_Chemistry/Plastic.personal|Plastic.personal]]'
+- '[[/_secret/Chemistry/Organic_Chemistry/Plastic.secret|Plastic.secret]]'
+dv_has_:
+  name_:
+    af: Plastiek
+    an: Plastico
+    ar: لدائن
+    ary: پلاستيك
+    arz: بلاستيك
+    as: প্লাষ্টিক
+    ast: Plásticu
+    az: Plastmas
+    azb: پیلاستیک
+    ba: пластмассалар
+    ban: Plastik
+    bar: Kunststoff
+    be: пластмаса
+    be-tarask: плястмаса
+    bg: Пластмаса
+    bho: प्लास्टिक
+    bjn: Panyu
+    bn: প্লাস্টিক
+    br: Plastik
+    bs: Plastika
+    ca: plàstic
+    cdo: Só-lâiu
+    ce: Пластмассаш
+    chr: ᏍᏓᎪᎢ
+    ckb: پلاستیک
+    crh: Plastmassa
+    cs: plast
+    cy: plastig
+    da: plast
+    dag: gbambila
+    de: Kunststoff
+    de-ch: Kunststoff
+    el: Πλαστικό
+    eml: Matèri plàstichi
+    en: plastic
+    en-ca: plastic
+    en-gb: plastic
+    eo: plasto
+    es: plástico
+    et: plast
+    eu: Plastiko
+    ext: Práticu
+    fa: پلاستیک
+    fi: muovi
+    fj: Palasitika
+    fr: matière plastique
+    frp: plastico
+    frr: Könststof
+    fy: Plestik
+    ga: plaisteach
+    gan: 塑料
+    gcr: Matyèr plastik
+    gd: Plastaig
+    gl: plástico
+    gn: Apỹipenga
+    gsw: Kunststoff
+    he: פלסטיק
+    hi: प्लास्टिक
+    hif: Plastic
+    hr: plastika
+    hsb: plasta
+    ht: Plastik
+    hu: műanyag
+    hy: պլաստմասսա
+    ia: Plastico
+    id: plastik
+    ilo: plastik
+    io: Plastiko
+    is: Plast
+    it: materie plastiche
+    ja: プラスチック
+    jam: Plastik
+    jv: Plastik
+    kbp: Aŋŋwana
+    kk: Пластмасса
+    kn: ಪ್ಲಾಸ್ಟಿಕ್ ಪರಿಸರದ ಮಹಾಶತ್ರು
+    ko: 플라스틱
+    ks: پلاسٹک
+    ku: plastîk
+    ku-latn: plastîk
+    kv: Пластмасса
+    kw: Plastek
+    ky: Пластмасса
+    la: plasticum
+    lb: Plastik
+    li: Plestiek
+    lmo: Plastega
+    ln: kopale
+    lo: ປະລາສະຕິກ
+    lt: plastikas
+    lv: plastmasas
+    lzh: 膠
+    mad: Plastik
+    mg: Plastika
+    mi: kirihou
+    min: Plastik
+    mk: пластика
+    ml: പ്ലാസ്റ്റിക്
+    mn: Хуванцар
+    mr: प्लास्टिक
+    ms: plastik
+    mwl: Plástico
+    my: ပလတ်စတစ်
+    mzn: آپچین
+    nah: Tecololli
+    nan: Sok-ka
+    nb: plast
+    nds: Plastik
+    ne: प्लास्टिक
+    new: प्लास्टिक
+    nl: plastiek
+    nn: plast
+    oc: Plastic
+    om: Dhoqonaawaa
+    pa: ਪਲਾਸਟਿਕ
+    pl: tworzywo sztuczne
+    pms: Plàstica
+    pnb: پلاسٹک
+    pt: plástico
+    pt-br: plástico
+    qu: Llirpu
+    ro: plastic
+    ru: пластмасса
+    sat: ᱯᱞᱟᱥᱴᱤᱠ
+    scn: Plastica
+    sco: plastic
+    sd: پلاسٽڪ
+    se: plastihkka
+    sgs: Plasmasė
+    sh: plastika
+    si: ප්ලාස්ටික්
+    sk: plast
+    sl: plastika
+    smn: lastik
+    sms: plastikk
+    so: Bac
+    sq: Plastika
+    sr: пластика
+    sr-ec: пластика
+    sr-el: plastika
+    su: Plastik
+    sv: plast
+    sw: Plastiki
+    ta: நெகிழி
+    te: ప్లాస్టిక్
+    th: พลาสติก
+    tl: Plastik
+    tly: plastik
+    tok: kiwen ko tan ko kasi en telo pimeja
+    tr: plastik
+    tt: пыласмаслар
+    udm: пластмассаос
+    uk: пластмаси
+    ur: لدائن
+    uz: Plastik materiallar
+    vec: Plàstega
+    vep: Plastmassad
+    vi: chất dẻo
+    vls: Plastiek
+    wa: Plastike
+    war: Plastik
+    wuu: 塑料
+    xh: I-plastiki
+    xmf: პლასტმასა
+    yi: פלאסטיק
+    yue: 塑膠
+    zh: 塑料
+    zh-hans: 塑料
+    zu: Ucwazi
 ---
-
 # [[Plastic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]] 

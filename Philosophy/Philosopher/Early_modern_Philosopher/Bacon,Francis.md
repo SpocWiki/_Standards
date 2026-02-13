@@ -1,93 +1,139 @@
 ---
 aliases:
-  - Francis Bacon
-  - Francis_Bacon
-  - Bacon,Francis
+- Bacon,Francis
+- Fa-lan-si-se.pei-ken
+- Francesco Bacone
+- Francis Bacon
+- Francis Bacon (prederour)
+- Franciscus Bacon
+- Francis_Bacon
+- Fransis Bacon
+- Frensis Bekon
+- Frānsiss Bēkons
+- Σερ Φράνσις Μπέικον
+- Φραγκίσκος Βάκων
+- Бэкон
+- Бэкон Фрэнсис
+- Франсис Бејкон
+- Френсіс Бекон
+- Френсис Бејкон
+- Френсис Бейкън
+- Фрэнсіс Бэкан
+- Фрэнсис Бэкон
+- Ֆրենսիս Բեկոն
+- פרנסיס בייקון
+- فرانسس بيڪن
+- فرانسس بیکن
+- فرانسيس بيكون
+- فرانسیس بیکن
+- فرانسیس بەیکن
+- فرانسېس بیکن
+- फ्रांसिस बेकन
+- फ्रान्सिस बेकन
+- ফ্রান্সিস বেকন
+- ਫ਼ਰਾਂਸਿਸ ਬੇਕਨ
+- பிரான்சிஸ் பேக்கன்
+- ఫ్రాన్సిస్ బేకన్
+- ಪ್ರಾನ್ಸಿಸ್ ಬೆಕನ್
+- ഫ്രാൻസിസ് ബേക്കൺ
+- ฟรานซิส เบคอน
+- ཧྥ་རན་སི་ཨི་སི་བྷེ་ཀན།
+- ဖဖို့စစ်ဘေကွန်(Francis Bacon)
+- ဘေကွန် ဖရန်စစ်
+- ფრანსის ბეკონი
+- ფრენსის ბეკონი
+- ፍራንሲስ ቤከን
+- ᱯᱷᱨᱟᱱᱥᱤᱥ ᱵᱮᱠᱳᱱ
+- フランシス・ベーコン
+- 培根
+- 弗朗西斯·培根
+- 法蘭西斯 培根
+- 프랜시스 베이컨
 has_id_wikidata: Q37388
 occupation:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~astrologer,155647]]'
-  - '[[_Standards/WikiData/WD~historian,201788]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
-  - '[[_Standards/WikiData/WD~judge,16533]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~lawyer,40348]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~astrologer,155647]]'
+- '[[_Standards/WikiData/WD~historian,201788]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~judge,16533]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~politician,82955]]'
-  - '[[_Standards/WikiData/WD~empiricism,83368]]'
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~history,309]]'
-  - '[[_Standards/WikiData/WD~science,336]]'
-  - '[[_Standards/WikiData/WD~scientist,901]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~politics,7163]]'
-  - '[[_Standards/WikiData/WD~epistemology,9471]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~empiricism,83368]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~history,309]]'
+- '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~scientist,901]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~politics,7163]]'
+- '[[_Standards/WikiData/WD~epistemology,9471]]'
 movement: '[[_Standards/WikiData/WD~empiricism,83368]]'
 place_of_death:
-  - '[[_Standards/WikiData/WD~Highgate,123947]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~Highgate,123947]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 spouse: '[[_Standards/WikiData/WD~Alice_Barnham,149363]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Francis_Bacon,154340]]'
-  - '[[_Standards/WikiData/WD~Roger_Bacon,171677]]'
+- '[[_Standards/WikiData/WD~Francis_Bacon,154340]]'
+- '[[_Standards/WikiData/WD~Roger_Bacon,171677]]'
 member_of: "[[_Standards/WikiData/WD~Gray's_Inn,157412]]"
 country_of_citizenship: '[[_Standards/WikiData/WD~Kingdom_of_England,179876]]'
 has_works_in_the_collection:
-  - '[[_Standards/WikiData/WD~National_Gallery,180788]]'
-  - '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
-  - '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-  - '[[_Standards/WikiData/WD~Tate,430682]]'
-  - '[[_Standards/WikiData/WD~Tehran_Museum_of_Contemporary_Art,1756399]]'
+- '[[_Standards/WikiData/WD~National_Gallery,180788]]'
+- '[[_Standards/WikiData/WD~Museum_of_Modern_Art,188740]]'
+- '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
+- '[[_Standards/WikiData/WD~Tate,430682]]'
+- '[[_Standards/WikiData/WD~Tehran_Museum_of_Contemporary_Art,1756399]]'
 noble_title: '[[_Standards/WikiData/WD~viscount,185902]]'
 position_held:
-  - '[[_Standards/WikiData/WD~Lord_Chancellor,217217]]'
-  - '[[_Standards/WikiData/WD~Solicitor_General_for_England_and_Wales,583809]]'
-  - '[[_Standards/WikiData/WD~Attorney_General_for_England_and_Wales,2631987]]'
-  - '[[_Standards/WikiData/WD~Member_of_Parliament_in_the_Parliament_of_England,18018860]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1572_83_Parliament,60586066]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1584_85_Parliament,60586104]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1586_87_Parliament,60586145]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1593_Parliament,60586150]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1597_98_Parliament,60586151]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1589_Parliament,60586149]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1604_11_Parliament,60586155]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1601_Parliament,60586153]]'
-  - '[[_Standards/WikiData/WD~Member_of_the_1614_Parliament,60586156]]'
+- '[[_Standards/WikiData/WD~Lord_Chancellor,217217]]'
+- '[[_Standards/WikiData/WD~Solicitor_General_for_England_and_Wales,583809]]'
+- '[[_Standards/WikiData/WD~Attorney_General_for_England_and_Wales,2631987]]'
+- '[[_Standards/WikiData/WD~Member_of_Parliament_in_the_Parliament_of_England,18018860]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1572_83_Parliament,60586066]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1584_85_Parliament,60586104]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1586_87_Parliament,60586145]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1593_Parliament,60586150]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1597_98_Parliament,60586151]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1589_Parliament,60586149]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1604_11_Parliament,60586155]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1601_Parliament,60586153]]'
+- '[[_Standards/WikiData/WD~Member_of_the_1614_Parliament,60586156]]'
 educated_at:
-  - '[[_Standards/WikiData/WD~Trinity_College,332342]]'
-  - '[[_Standards/WikiData/WD~University_of_Poitiers,661056]]'
+- '[[_Standards/WikiData/WD~Trinity_College,332342]]'
+- '[[_Standards/WikiData/WD~University_of_Poitiers,661056]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Anthony_Bacon,358587]]'
-  - '[[_Standards/WikiData/WD~Edward_Bacon,5341698]]'
-  - '[[_Standards/WikiData/WD~Nathaniel_Bacon,6969488]]'
-  - '[[_Standards/WikiData/WD~Sir_Nicholas_Bacon,_1st_Baronet,_of_Redgrave,7528375]]'
-  - '[[_Standards/WikiData/WD~Elizabeth_Bacon,16153254]]'
-  - '[[_Standards/WikiData/WD~Anne_Bacon,56085905]]'
+- '[[_Standards/WikiData/WD~Anthony_Bacon,358587]]'
+- '[[_Standards/WikiData/WD~Edward_Bacon,5341698]]'
+- '[[_Standards/WikiData/WD~Nathaniel_Bacon,6969488]]'
+- '[[_Standards/WikiData/WD~Sir_Nicholas_Bacon,_1st_Baronet,_of_Redgrave,7528375]]'
+- '[[_Standards/WikiData/WD~Elizabeth_Bacon,16153254]]'
+- '[[_Standards/WikiData/WD~Anne_Bacon,56085905]]'
 student_of:
-  - '[[_Standards/WikiData/WD~John_Whitgift,473302]]'
-  - '[[_Standards/WikiData/WD~Jean_Hotman,_Marquis_de_Villers_St_Paul,777609]]'
+- '[[_Standards/WikiData/WD~John_Whitgift,473302]]'
+- '[[_Standards/WikiData/WD~Jean_Hotman,_Marquis_de_Villers_St_Paul,777609]]'
 mother: '[[_Standards/WikiData/WD~Anne_Bacon,475067]]'
 notable_work:
-  - '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
-  - '[[_Standards/WikiData/WD~New_Atlantis,1233830]]'
+- '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
+- '[[_Standards/WikiData/WD~New_Atlantis,1233830]]'
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
-  - '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-  - '[[_Standards/WikiData/WD~Medvik,99413897]]'
-  - '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Georgian_Soviet_Encyclopedia,1509493]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Kościelna_encyclopedia,9253865]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_National_Biography,_1885_1900,15987216]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Pedagogues_and_Psychologists_of_the_World,126722605]]'
 father: '[[_Standards/WikiData/WD~Nicholas_Bacon,608866]]'
 contributed_to_creative_work: '[[_Standards/WikiData/WD~Popular_Science,773087]]'
 award_received: '[[_Standards/WikiData/WD~Knight_Bachelor,833163]]'
@@ -99,28 +145,28 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 family_name: '[[_Standards/WikiData/WD~Bacon,6951606]]'
 place_of_burial: "[[_Standards/WikiData/WD~St_Michael's_Church,_St_Albans,7594782]]"
 place_of_birth:
-  - '[[_Standards/WikiData/WD~York_House,_Strand,8055471]]'
-  - '[[_Standards/WikiData/WD~London,84]]'
+- '[[_Standards/WikiData/WD~York_House,_Strand,8055471]]'
+- '[[_Standards/WikiData/WD~London,84]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 depicted_by:
-  - '[[_Standards/WikiData/WD~Francis_Bacon,23928622]]'
-  - '[[_Standards/WikiData/WD~Sir_Francis_Bacon,_1st_Viscount_St_Albans_(1561_1626),52204419]]'
-  - '[[_Standards/WikiData/WD~Francis_Bacon,_1st_Viscount_St_Alban,107199034]]'
+- '[[_Standards/WikiData/WD~Francis_Bacon,23928622]]'
+- '[[_Standards/WikiData/WD~Sir_Francis_Bacon,_1st_Viscount_St_Albans_(1561_1626),52204419]]'
+- '[[_Standards/WikiData/WD~Francis_Bacon,_1st_Viscount_St_Alban,107199034]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_Smithsonian_Libraries_Dibner_Library_portraits,103505599]]'
 date_of_death: 1626-04-19T00:00:00Z
 work_period_end_: 1626-01-01T00:00:00Z
 work_period_start_: 1576-01-01T00:00:00Z
 languages_spoken_written_or_signed:
-  - '[[_Standards/WikiData/WD~Latin,397]]'
-  - '[[_Standards/WikiData/WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Latin,397]]'
+- '[[_Standards/WikiData/WD~English,1860]]'
 writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 interested_in: '[[_Standards/WikiData/WD~philosophy,5891]]'
 cause_of_death: '[[_Standards/WikiData/WD~pneumonia,12192]]'
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 Regensburg_Classification:
-  - BF 3325
-  - DD 5180
+- BF 3325
+- DD 5180
 Wolfram_Language_entity_code: Entity["Concept", "1stBaronVerulam::3yd67"]
 Krugosvet_article: kultura_i_obrazovanie/literatura/BEKON_FRENSIS.html
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/45778
@@ -134,21 +180,152 @@ date_of_birth: 1561-02-01T00:00:00Z
 name_in_native_language: Francis Bacon
 BHCL_UUID: d3ab982b-4aa8-4b43-ac3a-35f05b59c46d
 Provenio_UUID:
-  - 09b780a1-42fa-48ab-86c2-6ef81b60563b
-  - 2e367aa1-654a-4b37-b51b-b9f5ac522dda
+- 09b780a1-42fa-48ab-86c2-6ef81b60563b
+- 2e367aa1-654a-4b37-b51b-b9f5ac522dda
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Somer%20Francis%20Bacon.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Arms%20of%20Sir%20Francis%20Bacon.svg
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Francis%20Bacon%20Signature.svg
 described_at_URL:
-  - http://www.digiporta.net/index.php?id=111718139
-  - http://www.digiporta.net/index.php?id=227851015
-  - http://www.digiporta.net/index.php?id=426379771
+- http://www.digiporta.net/index.php?id=111718139
+- http://www.digiporta.net/index.php?id=227851015
+- http://www.digiporta.net/index.php?id=426379771
 ISNI: 0000000121265700
 NLC_authorities: 060299045
 Libris_URI: 97mppcxt4bcc665
 CYT_CCS: AC000089995
+dv_has_:
+  name_:
+    af: Francis Bacon
+    am: ፍራንሲስ ቤከን
+    an: Francis Bacon
+    ar: فرانسيس بيكون
+    arz: فرانسيس بيكون
+    ast: Francis Bacon
+    ay: Francis Bacon
+    az: Frensis Bekon
+    be: Фрэнсіс Бэкан
+    be-tarask: Фрэнсіс Бэкан
+    bg: Френсис Бейкън
+    bn: ফ্রান্সিস বেকন
+    bo: ཧྥ་རན་སི་ཨི་སི་བྷེ་ཀན།
+    br: Francis Bacon (prederour)
+    bs: Francis Bacon
+    ca: Francis Bacon
+    cdo: Francis Bacon
+    ckb: فرانسیس بەیکن
+    cs: Francis Bacon
+    cv: Бэкон Фрэнсис
+    cy: Francis Bacon
+    da: Francis Bacon
+    de: Francis Bacon
+    de-ch: Francis Bacon
+    diq: Francis Bacon
+    el: Σερ Φράνσις Μπέικον
+    en: Francis Bacon
+    en-ca: Francis Bacon
+    en-gb: Francis Bacon
+    eo: Francis Bacon
+    es: Francis Bacon
+    et: Francis Bacon
+    eu: Francis Bacon
+    ext: Francis Bacon
+    fa: فرانسیس بیکن
+    fi: Francis Bacon
+    fr: Francis Bacon
+    ga: Francis Bacon
+    gl: Francis Bacon
+    grc: Φραγκίσκος Βάκων
+    guw: Francis Bacon
+    he: פרנסיס בייקון
+    hi: फ्रांसिस बेकन
+    hr: Francis Bacon
+    hu: Francis Bacon
+    hy: Ֆրենսիս Բեկոն
+    ia: Francis Bacon
+    id: Francis Bacon
+    io: Francis Bacon
+    is: Francis Bacon
+    it: Francesco Bacone
+    ja: フランシス・ベーコン
+    jv: Francis Bacon
+    ka: ფრანსის ბეკონი
+    kbp: Francis Bacon
+    kk: Фрэнсис Бэкон
+    kn: ಪ್ರಾನ್ಸಿಸ್ ಬೆಕನ್
+    ko: 프랜시스 베이컨
+    ku: Francis Bacon
+    ky: Бэкон
+    la: Franciscus Bacon
+    lb: Francis Bacon
+    li: Francis Bacon
+    lmo: Francis Bacon
+    lt: Francis Bacon
+    lv: Frānsiss Bēkons
+    lzh: 培根
+    mg: Francis Bacon
+    mk: Френсис Бејкон
+    ml: ഫ്രാൻസിസ് ബേക്കൺ
+    mn: Фрэнсис Бэкон
+    mr: फ्रांसिस बेकन
+    ms: Francis Bacon
+    mul: Francis Bacon
+    mwl: Francis Bacon
+    my: ဘေကွန် ဖရန်စစ်
+    nan: Francis Bacon
+    nb: Francis Bacon
+    ne: फ्रान्सिस बेकन
+    nl: Francis Bacon
+    nn: Francis Bacon
+    nov: Francis Bacon
+    oc: Francis Bacon
+    pa: ਫ਼ਰਾਂਸਿਸ ਬੇਕਨ
+    pap: Francis Bacon
+    pl: Francis Bacon
+    pms: Francis Bacon
+    pnb: فرانسس بیکن
+    ps: فرانسېس بیکن
+    pt: Francis Bacon
+    pt-br: Francis Bacon
+    qu: Francis Bacon
+    rki: ဖဖို့စစ်ဘေကွန်(Francis Bacon)
+    ro: Francis Bacon
+    ru: Фрэнсис Бэкон
+    sah: Бэкон Фрэнсис
+    sat: ᱯᱷᱨᱟᱱᱥᱤᱥ ᱵᱮᱠᱳᱱ
+    sco: Francis Bacon
+    sd: فرانسس بيڪن
+    sh: Francis Bacon
+    sk: Francis Bacon
+    sl: Francis Bacon
+    sq: Francis Bacon
+    sr: Франсис Бејкон
+    sr-ec: Франсис Бејкон
+    sv: Francis Bacon
+    sw: Fransis Bacon
+    szy: Fa-lan-si-se.pei-ken
+    ta: பிரான்சிஸ் பேக்கன்
+    te: ఫ్రాన్సిస్ బేకన్
+    tg: Фрэнсис Бэкон
+    th: ฟรานซิส เบคอน
+    tk: Frensis Bekon
+    tl: Francis Bacon
+    tr: Francis Bacon
+    tt: Фрэнсис Бэкон
+    uk: Френсіс Бекон
+    ur: فرانسس بیکن
+    uz: Frensis Bekon
+    vi: Francis Bacon
+    vo: Francis Bacon
+    war: Francis Bacon
+    wuu: 弗朗西斯·培根
+    xmf: ფრენსის ბეკონი
+    yo: Francis Bacon
+    yue: 培根
+    zh: 弗朗西斯·培根
+    zh-cn: 弗朗西斯·培根
+    zh-hans: 弗朗西斯·培根
+    zh-tw: 法蘭西斯 培根
 ---
-
 # [[Bacon,Francis]] 
 
 #has_/time_/started :: 1561-01-22 

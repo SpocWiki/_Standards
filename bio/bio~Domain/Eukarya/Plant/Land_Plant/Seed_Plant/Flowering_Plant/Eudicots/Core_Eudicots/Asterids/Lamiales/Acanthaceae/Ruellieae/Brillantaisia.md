@@ -1,9 +1,52 @@
 ---
 aliases:
-  - Brillantaisia
+- Brilantajsija
+- Brillantaisia
+- Huulinokat
+- 逐马蓝属
 title: Brillantaisia
+has_id_wikidata: Q2208353
+dv_has_:
+  name_:
+    an: Brillantaisia
+    ast: Brillantaisia
+    bg: Brillantaisia
+    ca: Brillantaisia
+    ceb: Brillantaisia
+    de: Brillantaisia
+    en: Brillantaisia
+    eo: Brillantaisia
+    es: Brillantaisia
+    eu: Brillantaisia
+    ext: Brillantaisia
+    fi: Huulinokat
+    fr: Brillantaisia
+    ga: Brillantaisia
+    gl: Brillantaisia
+    hr: Brilantajsija
+    ia: Brillantaisia
+    ie: Brillantaisia
+    io: Brillantaisia
+    it: Brillantaisia
+    la: Brillantaisia
+    mul: Brillantaisia
+    nl: Brillantaisia
+    oc: Brillantaisia
+    pl: Brillantaisia
+    pt: Brillantaisia
+    pt-br: Brillantaisia
+    ro: Brillantaisia
+    ru: Brillantaisia
+    sq: Brillantaisia
+    sv: Brillantaisia
+    uk: Brillantaisia
+    vi: Brillantaisia
+    vo: Brillantaisia
+    war: Brillantaisia
+    zh: 逐马蓝属
+    zh-cn: 逐马蓝属
+    zh-hans: 逐马蓝属
 ---
-
 # [[Brillantaisia]] 
 
 

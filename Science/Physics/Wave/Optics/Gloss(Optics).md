@@ -1,25 +1,106 @@
 ---
 aliases:
-  - Glanz
-  - Gloss
-  - Gloss(Optics)
+- Brillantezza
+- brillo
+- csillogás
+- distira
+- Glaceo
+- glans
+- Glanz
+- Gleem
+- Gloss
+- Gloss(Optics)
+- glossiness
+- Kiilto
+- lesk
+- llustre
+- luciu
+- lustre
+- Läige
+- połysk
+- Sjaj (optika)
+- snas
+- Spīdums
+- Çиçев
+- στιλπνότητα
+- блеск
+- бляск
+- Блясък (оптично свойство на повърхността)
+- глянець
+- Дурахш
+- Кумболкс
+- Փայլ
+- ברק (אופטיקה)
+- بريق
+- جلا
+- ความวาว
+- 光沢
+- 光泽 (光学)
+- 光澤
+- 光澤度
+- 광택
 has_id_wikidata: Q900581
 different_from:
-  - '[[_Standards/WikiData/WD~Glosa,395165]]'
-  - '[[_Standards/WikiData/WD~Glans,5059471]]'
-  - '[[_Standards/WikiData/WD~luster_glaze,12369303]]'
-  - '[[_Standards/WikiData/WD~luster,47495874]]'
+- '[[_Standards/WikiData/WD~Glosa,395165]]'
+- '[[_Standards/WikiData/WD~Glans,5059471]]'
+- '[[_Standards/WikiData/WD~luster_glaze,12369303]]'
+- '[[_Standards/WikiData/WD~luster,47495874]]'
 instance_of: '[[_Standards/WikiData/WD~property,937228]]'
 has_characteristic: '[[_Standards/WikiData/WD~specular_reflection,1079524]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~optical_property,2643571]]'
-  - '[[_Standards/WikiData/WD~sheen,17097994]]'
+- '[[_Standards/WikiData/WD~optical_property,2643571]]'
+- '[[_Standards/WikiData/WD~sheen,17097994]]'
 opposite_of: '[[_Standards/WikiData/WD~matte,68978897]]'
 facet_of: '[[_Standards/WikiData/WD~optics,14620]]'
 Commons_category: Gloss
 IEV_number: 845-24-080
+dv_has_:
+  name_:
+    ar: بريق
+    ast: llustre
+    be: Бляск
+    be-tarask: бляск
+    bg: Блясък (оптично свойство на повърхността)
+    ca: llustre
+    cs: lesk
+    cv: Çиçев
+    de: Glanz
+    el: στιλπνότητα
+    en: gloss
+    eo: Glaceo
+    es: brillo
+    et: Läige
+    eu: distira
+    fa: جلا
+    fi: Kiilto
+    fr: gloss
+    ga: snas
+    gl: lustre
+    he: ברק (אופטיקה)
+    hu: csillogás
+    hy: Փայլ
+    it: Brillantezza
+    ja: 光沢
+    ko: 광택
+    lv: Spīdums
+    myv: Кумболкс
+    nb: glans
+    nds: Gleem
+    nl: glans
+    nn: glans
+    pl: połysk
+    ro: luciu
+    ru: блеск
+    sl: lesk
+    sr: Sjaj (optika)
+    tg: Дурахш
+    th: ความวาว
+    uk: глянець
+    vi: glossiness
+    wuu: 光泽 (光学)
+    yue: 光澤度
+    zh: 光澤
 ---
-
 # [[Gloss(Optics)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gloss,900581|WD~Gloss,900581]] 

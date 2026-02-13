@@ -1,4 +1,55 @@
-
+---
+has_id_wikidata: Q1140333
+dv_has_:
+  name_:
+    da: Fingerpicking
+    de: Fingerstyle
+    en: fingerstyle guitar
+    eo: Fingroplukado
+    es: fingerpicking
+    fa: فینگراستایل
+    fi: Näppäily
+    fr: guitare fingerstyle
+    he: פינגר סטייל
+    hu: fingerstyle
+    hy: Ֆինգերսթայլ
+    id: gitar fingerstyle
+    it: fingerstyle
+    ja: フィンガー・ピッキング
+    ko: 핑거스타일
+    nb: fingerspill
+    nn: fingerspill
+    pl: fingerstyle
+    pt: fingerstyle
+    ru: фингерстайл
+    sl: ubiranje s prsti
+    sr: Фингерпикинг
+    tr: Parmak stili gitar
+    uk: фінгерстайл
+    vi: Guitar fingerstyle
+    zh: 指弹吉他
+aliases:
+- Fingerpicking
+- fingerspill
+- Fingerstyle
+- fingerstyle guitar
+- Fingroplukado
+- gitar fingerstyle
+- Guitar fingerstyle
+- guitare fingerstyle
+- Näppäily
+- Parmak stili gitar
+- ubiranje s prsti
+- фінгерстайл
+- Фингерпикинг
+- фингерстайл
+- Ֆինգերսթայլ
+- פינגר סטייל
+- فینگراستایل
+- フィンガー・ピッキング
+- 指弹吉他
+- 핑거스타일
+---
 ## #has_/text_of_/abstract 
 
 > **Fingerstyle guitar** is the technique of playing the guitar or bass guitar 

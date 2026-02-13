@@ -1,74 +1,165 @@
 ---
 aliases:
-  - Zirconium
+- circonio
+- circoniu
+- cirkonii
+- cirkonij
+- cirkonijs
+- cirkonijum
+- cirkonis
+- cirkonyo
+- cirkounii
+- cirkónium
+- cyrkon
+- ijo lili nanpa 40
+- IZambedu
+- jinmrzirkoni
+- shirconium
+- siorcònium
+- siorcóiniam
+- sirconio
+- sirconiwm
+- sirkon
+- sirkonium
+- sirkoniy
+- sirkonyo
+- sirkonyu
+- sirkooniyaam
+- sɩrkɔnɩyɔm
+- sẹ̀kóníọ̀mù
+- tsirkoonium
+- zerkanel
+- zikonyòm
+- zirconi
+- zirconio
+- zirconiu
+- Zirconium
+- zirconyo
+- zircòni
+- zircòniu
+- zircónio
+- zircônio
+- zirikoni
+- zirkonio
+- zirkoniom
+- zirkonium
+- zirkoniumi
+- zirkonyum
+- zirkoon
+- zirkónium
+- zîrkonyûm
+- żirkonju
+- ζιρκόνιο
+- сирконий
+- цирконій
+- циркони
+- цирконијум
+- цирконий
+- циркониум
+- цыркон
+- цырконій
+- ցիրկոնիում
+- זירקוניום
+- צירקאניום
+- زركونيوم
+- زرکونيوم
+- زرکونیئم
+- زرکونیم
+- زرڪونيئم
+- زيركونيوم
+- زیرکونیم
+- زیرکونیوم
+- زیرکۆنیۆم
+- سىركونىي
+- जर्कोनियम
+- जिरकोनियम
+- झिर्कोनियम
+- জিরকোনিয়াম
+- ਜ਼ਰਕੋਨੀਅਮ
+- ઝિર્કોનિયમ
+- ଜିର୍କୋନିଅମ
+- சிர்க்கோனியம்
+- జిర్కోనియం
+- ಜಿರ್ಕೊನಿಯಮ್
+- സിർകോണിയം
+- เซอร์โคเนียม
+- ཛིར་ཀོ་ནིམ།
+- ဇာကိုနီယမ်
+- ცირკონიუმი
+- ዚርኮኒየም
+- ジルコニウム
+- 鋯
+- 锆
+- 지르코늄
+- 지르코니움
 has_id_wikidata: Q1038
-associated_hazard: "[[_Standards/WikiData/WD~zirconium_exposure,21175432]]"
+associated_hazard: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
 atomic_number: 40
 boiling_point: 6471
-canonical_SMILES: "[Zr]"
+canonical_SMILES: '[Zr]'
 CAS_Registry_Number: 7440-67-7
 chemical_formula: Zr
 Commons_category: Zirconium
 Commons_gallery: Zirconium
 Common_Procurement_Vocabulary_code:
-  - 14735000-2
-  - 14735000
+- 14735000-2
+- 14735000
 CPV_Supplementary_code: AA18
 density: 6.51
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 Dewey_Decimal_Classification:
-  - 669.735
-  - 546.513
-  - 620.189352
-  - 661.0513
+- 669.735
+- 546.513
+- 620.189352
+- 661.0513
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]"
-  - "[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]"
-  - "[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255]]"
-  - "[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921]]"
+- '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+- '[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]'
+- '[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255]]'
+- '[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921]]'
 DSSTOX_compound_identifier: DTXCID4029777
 EC_number: 231-176-9
 electronegativity: 1
-electron_configuration: "[Kr] 4d² 5s²"
+electron_configuration: '[Kr] 4d² 5s²'
 element_symbol: Zr
-has_effect: "[[_Standards/WikiData/WD~zirconium_exposure,21175432]]"
+has_effect: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zirconium%20crystal%20bar%20and%201cm3%20cube.jpg
 immediately_dangerous_to_life_or_health: 25
 InChI: InChI=1S/Zr
 InChIKey: QCWXUUIWCKQGHC-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.59
-  - 0.72
-  - 0.84
-  - 0.89
-location_of_discovery: "[[_Standards/WikiData/WD~Germany,183]]"
+- 0.59
+- 0.72
+- 0.84
+- 0.89
+location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
 mass: 91.222
 melting_point: 3375
 MeSH_tree_code:
-  - D01.268.556.950
-  - D01.268.956.937
-  - D01.552.544.950
-named_after: "[[_Standards/WikiData/WD~zircon,178928]]"
+- D01.268.556.950
+- D01.268.956.937
+- D01.552.544.950
+named_after: '[[_Standards/WikiData/WD~zircon,178928]]'
 OmegaWiki_Defined_Meaning: 371224
 oxidation_state: 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_4,189302]]"
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
+- '[[_Standards/WikiData/WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_5,244982]]'
 PubChem_CID: 23995
 RTECS_number: ZH7070000
 short_term_exposure_limit: 10
 SpocWebEntityId: 21938
 subclass_of:
-  - "[[_Standards/WikiData/WD~period_5,244982]]"
-  - "[[_Standards/WikiData/WD~transition_metal,19588]]"
+- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1789
 time_weighted_average_exposure_limit: 5
 type: Element
@@ -77,25 +168,182 @@ Unicode_character: 鋯
 UNII: C6V6S92N3C
 vapor_pressure: 0
 ZVG_number:
-  - 7400
-  - 520040
+- 7400
+- 520040
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Zirconium,1038]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect|Zirconium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private|Zirconium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]]"
-  part_of: "[[../Group-04-Titanium]]"
+  - '[[../../../WikiData/WD~Zirconium,1038]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect|Zirconium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private|Zirconium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]]'
+  part_of: '[[../Group-04-Titanium]]'
 dv_has_:
   name_:
-    group: Group-04-Titanium
-    en: Zirconium
-    de: Zirkonium
     abbreviated: Zr
+    af: sirkonium
+    am: ዚርኮኒየም
+    an: zirconio
+    ar: زركونيوم
+    ary: زيركونيوم
+    arz: زركونيوم
+    ast: circoniu
+    avk: zerkanel
+    az: sirkonium
+    azb: زیرکونیوم
+    ban: zirkonium
+    bcl: sirkonyo
+    be: цырконій
+    be-tarask: цыркон
+    bg: цирконий
+    bho: जिरकोनियम
+    bn: জিরকোনিয়াম
+    bo: ཛིར་ཀོ་ནིམ།
+    br: zirkoniom
+    bs: cirkonij
+    ca: zirconi
+    cdo: zirconium
+    ceb: cirkonyo
+    ckb: زیرکۆنیۆم
+    co: zirconiu
+    cs: zirkonium
+    cv: циркони
+    cy: sirconiwm
+    da: zirkonium
+    de: Zirconium
+    el: ζιρκόνιο
+    en: zirconium
+    en-gb: zirconium
+    eo: zirkonio
+    es: circonio
+    et: tsirkoonium
+    eu: zirkonio
+    fa: زیرکونیم
+    fi: zirkonium
+    fr: zirconium
+    frr: tsirkoonium
+    fur: zirconi
+    ga: siorcóiniam
+    gd: siorcònium
+    gl: circonio
+    group: Group-04-Titanium
+    gu: ઝિર્કોનિયમ
+    gv: shirconium
+    hak: zirconium
+    he: זירקוניום
+    hi: जर्कोनियम
+    hif: zirconium
+    hr: cirkonij
+    ht: zikonyòm
+    hu: cirkónium
+    hy: ցիրկոնիում
+    ia: zirconium
+    id: zirkonium
+    io: zirkonio
+    is: sirkon
+    it: zirconio
+    ja: ジルコニウム
+    jbo: jinmrzirkoni
+    jv: zirkonium
+    ka: ცირკონიუმი
+    kbp: sɩrkɔnɩyɔm
+    kk: цирконий
+    kn: ಜಿರ್ಕೊನಿಯಮ್
+    ko: 지르코늄
+    ko-kp: 지르코니움
+    ku: zîrkonyûm
+    kv: цирконий
+    kw: zirkoniom
+    ky: цирконий
+    la: zirconium
+    lb: Zirkonium
+    lfn: zirconio
+    li: zirkonium
+    lij: sirconio
+    lmo: zirconio
+    lt: cirkonis
+    lv: cirkonijs
+    lzh: 鋯
+    mk: циркониум
+    ml: സിർകോണിയം
+    mn: циркони
+    mr: झिर्कोनियम
+    mrj: цирконий
+    ms: zirkonium
+    mt: żirkonju
+    my: ဇာကိုနီယမ်
+    nan: zirconium
+    nb: zirkonium
+    ne: जर्कोनियम
+    new: जर्कोनियम
+    nl: zirkoon
+    nn: zirkonium
+    nov: sirkonium
+    oc: zircòni
+    olo: cirkounii
+    or: ଜିର୍କୋନିଅମ
+    os: цирконий
+    pa: ਜ਼ਰਕੋਨੀਅਮ
+    pi: जर्कोनियम
+    pl: cyrkon
+    pms: zircòni
+    pnb: زرکونیم
+    ps: زرکونيوم
+    pt: zircónio
+    pt-br: zircônio
+    qu: sirkonyu
+    ro: zirconiu
+    ru: цирконий
+    rup: zirconiu
+    sa: जर्कोनियम
+    sc: zircòniu
+    scn: zirconiu
+    sco: zirconium
+    sd: زرڪونيئم
+    sh: cirkonijum
+    sk: zirkónium
+    sl: cirkonij
+    so: sirkooniyaam
+    sq: zirkoniumi
+    sr: цирконијум
+    sr-ec: цирконијум
+    stq: zirconium
+    su: zirkonium
+    sv: zirkonium
+    sw: zirikoni
+    ta: சிர்க்கோனியம்
+    te: జిర్కోనియం
+    tg: сирконий
+    th: เซอร์โคเนียม
+    tl: zirconium
+    tok: ijo lili nanpa 40
+    tr: zirkonyum
+    tt: цирконий
+    ug: سىركونىي
+    uk: цирконій
+    ur: زرکونیئم
+    uz: sirkoniy
+    vep: cirkonii
+    vi: zirconi
+    war: zirconyo
+    wuu: 锆
+    xal: циркониум
+    yi: צירקאניום
+    yo: sẹ̀kóníọ̀mù
+    yue: 鋯
+    zh: 鋯
+    zh-hans: 锆
+    zh-hant: 鋯
+    zh-hk: 鋯
+    zh-tw: 鋯
+    zu: IZambedu
+  number_of_:
+    period: 5
+    group: 4
+    electrons: 40
   value_for_:
     weight_:
       u: 91.224
@@ -123,21 +371,17 @@ dv_has_:
       form_:
         kj_:
           mol: 58.2
-  number_of_:
-    period: 5
-    group: 4
-    electrons: 40
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Zirconium,1038]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect|Zirconium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private|Zirconium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]]"
+- '[[../../../WikiData/WD~Zirconium,1038]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect|Zirconium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private|Zirconium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: "[[../Group-04-Titanium]]"
+dv_is_part_of: '[[../Group-04-Titanium]]'
 dv_has_name_en: Zirconium
 dv_has_name_de: Zirkonium
 dv_has_value_for_weight_u: 91.224
@@ -158,7 +402,6 @@ dv_has_number_of_group: 4
 dv_has_name_abbreviated: Zr
 dv_has_number_of_electrons: 40
 ---
-
 # [[Zirconium]] 
 
 #chemic/Element 

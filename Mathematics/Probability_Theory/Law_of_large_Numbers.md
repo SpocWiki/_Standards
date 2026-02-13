@@ -1,27 +1,143 @@
 ---
 aliases:
+- a nagy számok törvénye
+- Böyük ədədlər qanunu
+- büyük sayılar yasası
+- de stora talens lag
+- deddf niferoedd mawr
+- Gesetz der grossen Zahlen
+- Gesetz der großen Zahlen
+- Hukum bilangan besar
+- Katta sonlar qonuni
+- law of large numbers
+- Legea numerelor mari
+- legge dei grandi numeri
+- lei dos grandes números
+- ley de los grandes números
+- Leĝo de grandaj nombroj
+- Lielo skaitļu likums
+- Ligji i numrave të mëdhenj
+- liġi tan-numri kbar
+- Llei de los grandes númberos
+- Llei dels grans nombres
+- loi des grands nombres
+- Lova om store tal
+- luật số lớn
+- Lèi dei grands nombres
+- prawo wielkich liczb
+- Store talls lov
+- store tals lov
+- Suurten lukujen laki
+- Teorema ëd Bernoulli
+- wetten van de grote aantallen
+- Zakon velikih brojeva
+- zakon velikih števil
+- Zenbaki handien lege
+- Zákon velkých čísel
+- Νόμος των μεγάλων αριθμών
+- Закон больших чисел
+- Закон великих бројева
+- закон великих чисел
+- Закон вялікіх лікаў
+- закон за големите броеви
+- Закон за големите числа
+- Их тооны хууль
+- Пысăк хисепсен саккунĕ
+- Մեծ թվերի օրենք
+- חוק המספרים הגדולים
+- قانون اعداد بزرگ
+- قانون الأعداد الكبيرة
+- کثیر اعداد کا قانون
+- 大数の法則
+- 大数定律
+- 大數定律
+- 큰 수의 법칙
 has_id_wikidata: Q207952
-instance_of: "[[_Standards/WikiData/WD~theorem,65943]]"
-solved_by: "[[_Standards/WikiData/WD~Pafnuty_Chebyshev,206012]]"
-has_effect: "[[_Standards/WikiData/WD~faulty_generalization,2890850]]"
-different_from: "[[_Standards/WikiData/WD~Law_of_truly_large_numbers,2912340]]"
+instance_of: '[[_Standards/WikiData/WD~theorem,65943]]'
+solved_by: '[[_Standards/WikiData/WD~Pafnuty_Chebyshev,206012]]'
+has_effect: '[[_Standards/WikiData/WD~faulty_generalization,2890850]]'
+different_from: '[[_Standards/WikiData/WD~Law_of_truly_large_numbers,2912340]]'
 studied_by:
-  - "[[_Standards/WikiData/WD~probability_theory,5862903]]"
-  - "[[_Standards/WikiData/WD~Q114728427,114728427]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+- '[[_Standards/WikiData/WD~probability_theory,5862903]]'
+- '[[_Standards/WikiData/WD~Q114728427,114728427]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Law-of-large-numbers.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Law%20of%20large%20numbers.gif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Law-of-large-numbers.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Law%20of%20large%20numbers.gif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lawoflargenumbersanimation.gif
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lei%20dos%20grandes%20n%C3%BAmeros.ogg
 Commons_category: Law of large numbers
 short_name:
-  - GGZ
-  - LLN
-  - ЗБЧ
+- GGZ
+- LLN
+- ЗБЧ
+dv_has_:
+  name_:
+    ar: قانون الأعداد الكبيرة
+    ast: Llei de los grandes númberos
+    az: Böyük ədədlər qanunu
+    be: Закон вялікіх лікаў
+    be-tarask: закон вялікіх лікаў
+    bg: Закон за големите числа
+    ca: Llei dels grans nombres
+    cs: Zákon velkých čísel
+    cv: Пысăк хисепсен саккунĕ
+    cy: deddf niferoedd mawr
+    da: store tals lov
+    de: Gesetz der großen Zahlen
+    de-ch: Gesetz der grossen Zahlen
+    el: Νόμος των μεγάλων αριθμών
+    en: law of large numbers
+    eo: Leĝo de grandaj nombroj
+    es: ley de los grandes números
+    eu: Zenbaki handien lege
+    fa: قانون اعداد بزرگ
+    fi: Suurten lukujen laki
+    fr: loi des grands nombres
+    gl: lei dos grandes números
+    he: חוק המספרים הגדולים
+    hr: Zakon velikih brojeva
+    hu: a nagy számok törvénye
+    hy: Մեծ թվերի օրենք
+    id: Hukum bilangan besar
+    it: legge dei grandi numeri
+    ja: 大数の法則
+    ko: 큰 수의 법칙
+    lv: Lielo skaitļu likums
+    mk: закон за големите броеви
+    mn: Их тооны хууль
+    mt: liġi tan-numri kbar
+    nb: Store talls lov
+    nl: wetten van de grote aantallen
+    nn: Lova om store tal
+    oc: Lèi dei grands nombres
+    pl: prawo wielkich liczb
+    pms: Teorema ëd Bernoulli
+    pt: lei dos grandes números
+    ro: Legea numerelor mari
+    ru: Закон больших чисел
+    sl: zakon velikih števil
+    sq: Ligji i numrave të mëdhenj
+    sr: Закон великих бројева
+    sr-ec: Закон великих бројева
+    sr-el: Zakon velikih brojeva
+    sv: de stora talens lag
+    tr: büyük sayılar yasası
+    uk: закон великих чисел
+    ur: کثیر اعداد کا قانون
+    uz: Katta sonlar qonuni
+    vi: luật số lớn
+    wuu: 大数定律
+    yue: 大數定律
+    zh: 大数定律
+    zh-cn: 大数定律
+    zh-hans: 大数定律
+    zh-hant: 大數定律
+    zh-hk: 大數定律
+    zh-sg: 大数定律
+    zh-tw: 大數定律
 ---
-
 # [[Law_of_large_Numbers]] 
 
 #is_/same_as :: [[WD~Law_of_large_numbers,207952]] 

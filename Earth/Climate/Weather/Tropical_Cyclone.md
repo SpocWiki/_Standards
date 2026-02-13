@@ -1,64 +1,339 @@
 ---
 aliases:
-  - Tropical cyclone
-  - Tropical_Cyclone
-  - Tropical Cyclone
+- aravai jere
+- bager
+- bagyo
+- bigwin
+- cagilaba
+- chrapikal saikluon
+- ciclon tropical
+- ciclone tropical
+- ciclone tropicale
+- cicluni tropicali
+- cicló tropical
+- ciclón tropical
+- Cikloni tropikal
+- cioclón trópaiceach
+- corwynt
+- cyclon tropic
+- cyclone tropical
+- cyklon tropikalny
+- fellibylur
+- hatun pillunkuy
+- hong-thai
+- hŭng-tăi
+- isivunguvungu esishisayo
+- kasırga
+- kelc'hwidenn drovanel
+- kimbunga
+- Loza voajanahary
+- mahpe hevovetäso
+- makani pāhili
+- marupöörüs
+- siclon tropegałe
+- Siclon tropical
+- siklon tropika
+- siklon tropis
+- siklonn tropikal
+- siklono tropik
+- siklòn twopikal
+- tormenta tropikal
+- troopiline tsüklon
+- trooppinen hirmumyrsky
+- trooppisâš hirmosstormâ
+- troopsch Küselstorm
+- tropesche Wierbelstuerm
+- Tropical cyclone
+- Tropical_Cyclone
+- tropická cyklóna
+- tropiese sikloon
+- tropik siklon
+- tropika ciklono
+- tropikal nga alipugpog
+- tropikala ciklono
+- tropikiy tsiklon
+- tropine ciklon
+- tropischa Wiabeschtuam
+- tropische cyclone
+- tropische cycloon
+- tropischer Wirbelsturm
+- tropisk cyklon
+- tropisk syklon
+- tropska oluja
+- tropski ciklon
+- tropyske stoarm
+- trowyns trovannel
+- truopėnis cikluons
+- trópusi ciklon
+- tufaan
+- typhon marinus
+- uragan
+- viesuļvētra
+- vlile carna xamsi brife
+- xoáy thuận nhiệt đới
+- zikloi tropikal
+- çил-тăвăл
+- Ìjìláyípo Ilẹ̀-Olóoru
+- ódnir
+- τροπικός κυκλώνας
+- гарасат
+- тайфун
+- трапічны цыклён
+- трапічны цыклон
+- тропічний циклон
+- тропик циклон
+- тропик циклону
+- тропикийн циклон
+- тропиктік циклон
+- тропически циклон
+- тропический циклон
+- тропски циклон
+- արևադարձային ցիկլոն
+- סופה טרופית
+- שטורעם ווינט
+- إعصار استوائي
+- ئىسسىق بەلباغ سىكلونى
+- استوايي توپان (د ګردجنې بړبوکۍ توپان)
+- تروپیک سیکلون
+- زریانی خولگەیی
+- سيکلون تروڤيکا
+- طوفان
+- چرخند حارّهای
+- چکھڑ
+- उष्णकटिबंधी चक्रबात
+- उष्णकटिबंधी चक्रवात
+- उष्णकटिबंधीय चक्रवात
+- उष्णदेशीय चक्रवात
+- प्रभञ्जन
+- हरिकेन
+- ক্রান্তীয় ঘূর্ণিঝড়
+- ক্ৰান্তীয় ঘূৰ্ণীবতাহ
+- ਤਪਤ-ਖੰਡੀ ਵਾਵਰੋਲਾ
+- କ୍ରାନ୍ତୀୟ ଘୂର୍ଣ୍ଣିବାତ୍ୟା
+- வெப்ப மண்டலச் சூறாவளி
+- ఉష్ణమండల తుఫాను
+- ಚಂಡಮಾರುತ
+- ചുഴലിക്കാറ്റ്
+- නිවර්තන වැහි කුණාටු
+- พายุหมุนเขตร้อน
+- အပူပိုင်း ဆိုင်ကလုန်း
+- ტროპიკული ციკლონი
+- 热带气旋
+- 熱帯低気圧
+- 熱帶氣旋
+- 열대 저기압
 has_id_wikidata: Q8092
 subclass_of:
-  - "[[_Standards/WikiData/WD~cyclone,79602]]"
-  - "[[_Standards/WikiData/WD~extreme_weather,1277161]]"
-location_of_formation: "[[_Standards/WikiData/WD~tropical_cyclone_basin,198782]]"
+- '[[_Standards/WikiData/WD~cyclone,79602]]'
+- '[[_Standards/WikiData/WD~extreme_weather,1277161]]'
+location_of_formation: '[[_Standards/WikiData/WD~tropical_cyclone_basin,198782]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Q2381390,2381390]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone,5912437]]"
-  - "[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone_small,13033961]]"
-has_list: "[[_Standards/WikiData/WD~glossary_of_tropical_cyclone_terms,5571889]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_tropical_cyclones,7112807]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Tropical_cyclones,13359877]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
-disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_cyclone,118733512]]"
+- '[[_Standards/WikiData/WD~Q2381390,2381390]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone,5912437]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_tropical_cyclone_small,13033961]]'
+has_list: '[[_Standards/WikiData/WD~glossary_of_tropical_cyclone_terms,5571889]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_tropical_cyclones,7112807]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tropical_cyclones,13359877]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_cyclone,118733512]]'
 properties_for_this_type: JTWC tropical cyclone ID
 OmegaWiki_Defined_Meaning: 1813
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dramatic%20Views%20of%20Hurricane%20Florence%20from%20the%20International%20Space%20Station%20From%209%2012%20%2842828603210%29%20%28cropped%29.jpg
 U_S_National_Archives_Identifier: 10638964
 Dewey_Decimal_Classification:
-  - 363.34922
-  - 551.552
+- 363.34922
+- 551.552
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Tropical%20storms%20on%20Earth.png
 MeSH_tree_code:
-  - G16.500.175.500
-  - N06.230.100.230.100
+- G16.500.175.500
+- N06.230.100.230.100
 Commons_gallery: Tropical cyclone
 Commons_category: Tropical cyclones
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Tropical_cyclone,8092|WD~Tropical_cyclone,8092]]"
-    - "[[/_Standards/Earth/Climate/Weather/Tropical_Cyclone|Tropical_Cyclone]]"
-    - "[[/_public/Earth/Climate/Weather/Tropical_Cyclone.public|Tropical_Cyclone.public]]"
-    - "[[/_internal/Earth/Climate/Weather/Tropical_Cyclone.internal|Tropical_Cyclone.internal]]"
-    - "[[/_protect/Earth/Climate/Weather/Tropical_Cyclone.protect|Tropical_Cyclone.protect]]"
-    - "[[/_private/Earth/Climate/Weather/Tropical_Cyclone.private|Tropical_Cyclone.private]]"
-    - "[[/_personal/Earth/Climate/Weather/Tropical_Cyclone.personal|Tropical_Cyclone.personal]]"
-    - "[[/_secret/Earth/Climate/Weather/Tropical_Cyclone.secret|Tropical_Cyclone.secret]]"
+  - '[[../../../WikiData/WD~Tropical_cyclone,8092|WD~Tropical_cyclone,8092]]'
+  - '[[/_Standards/Earth/Climate/Weather/Tropical_Cyclone|Tropical_Cyclone]]'
+  - '[[/_public/Earth/Climate/Weather/Tropical_Cyclone.public|Tropical_Cyclone.public]]'
+  - '[[/_internal/Earth/Climate/Weather/Tropical_Cyclone.internal|Tropical_Cyclone.internal]]'
+  - '[[/_protect/Earth/Climate/Weather/Tropical_Cyclone.protect|Tropical_Cyclone.protect]]'
+  - '[[/_private/Earth/Climate/Weather/Tropical_Cyclone.private|Tropical_Cyclone.private]]'
+  - '[[/_personal/Earth/Climate/Weather/Tropical_Cyclone.personal|Tropical_Cyclone.personal]]'
+  - '[[/_secret/Earth/Climate/Weather/Tropical_Cyclone.secret|Tropical_Cyclone.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Tropical_cyclone,8092|WD~Tropical_cyclone,8092]]"
-  - "[[/_Standards/Earth/Climate/Weather/Tropical_Cyclone|Tropical_Cyclone]]"
-  - "[[/_public/Earth/Climate/Weather/Tropical_Cyclone.public|Tropical_Cyclone.public]]"
-  - "[[/_internal/Earth/Climate/Weather/Tropical_Cyclone.internal|Tropical_Cyclone.internal]]"
-  - "[[/_protect/Earth/Climate/Weather/Tropical_Cyclone.protect|Tropical_Cyclone.protect]]"
-  - "[[/_private/Earth/Climate/Weather/Tropical_Cyclone.private|Tropical_Cyclone.private]]"
-  - "[[/_personal/Earth/Climate/Weather/Tropical_Cyclone.personal|Tropical_Cyclone.personal]]"
-  - "[[/_secret/Earth/Climate/Weather/Tropical_Cyclone.secret|Tropical_Cyclone.secret]]"
+- '[[../../../WikiData/WD~Tropical_cyclone,8092|WD~Tropical_cyclone,8092]]'
+- '[[/_Standards/Earth/Climate/Weather/Tropical_Cyclone|Tropical_Cyclone]]'
+- '[[/_public/Earth/Climate/Weather/Tropical_Cyclone.public|Tropical_Cyclone.public]]'
+- '[[/_internal/Earth/Climate/Weather/Tropical_Cyclone.internal|Tropical_Cyclone.internal]]'
+- '[[/_protect/Earth/Climate/Weather/Tropical_Cyclone.protect|Tropical_Cyclone.protect]]'
+- '[[/_private/Earth/Climate/Weather/Tropical_Cyclone.private|Tropical_Cyclone.private]]'
+- '[[/_personal/Earth/Climate/Weather/Tropical_Cyclone.personal|Tropical_Cyclone.personal]]'
+- '[[/_secret/Earth/Climate/Weather/Tropical_Cyclone.secret|Tropical_Cyclone.secret]]'
+dv_has_:
+  name_:
+    af: tropiese sikloon
+    an: ciclón tropical
+    anp: उष्णकटिबंधी चक्रबात
+    ar: إعصار استوائي
+    as: ক্ৰান্তীয় ঘূৰ্ণীবতাহ
+    ast: ciclón tropical
+    az: tropik siklon
+    azb: تروپیک سیکلون
+    ba: тропик циклон
+    bar: tropischa Wiabeschtuam
+    bcl: bagyo
+    be: трапічны цыклон
+    be-tarask: трапічны цыклён
+    bg: тропически циклон
+    bho: उष्णकटिबंधी चक्रवात
+    bi: bigwin
+    bn: ক্রান্তীয় ঘূর্ণিঝড়
+    br: kelc'hwidenn drovanel
+    bs: tropski ciklon
+    ca: cicló tropical
+    cdo: hŭng-tăi
+    ceb: bagyo
+    chy: mahpe hevovetäso
+    ckb: زریانی خولگەیی
+    crh: tropikiy tsiklon
+    cs: tropická cyklóna
+    cv: çил-тăвăл
+    cy: corwynt
+    da: tropisk cyklon
+    de: tropischer Wirbelsturm
+    diq: siklono tropik
+    el: τροπικός κυκλώνας
+    en: tropical cyclone
+    en-ca: tropical cyclone
+    en-gb: tropical cyclone
+    eo: tropika ciklono
+    es: ciclón tropical
+    et: troopiline tsüklon
+    eu: zikloi tropikal
+    fa: چرخند حارّهای
+    fi: trooppinen hirmumyrsky
+    fj: cagilaba
+    fo: ódnir
+    fr: cyclone tropical
+    fy: tropyske stoarm
+    ga: cioclón trópaiceach
+    gcr: siklonn tropikal
+    gl: ciclón tropical
+    gn: aravai jere
+    gsw: tropischer Wirbelsturm
+    haw: makani pāhili
+    he: סופה טרופית
+    hi: उष्णकटिबंधीय चक्रवात
+    hif: tufaan
+    hr: tropska oluja
+    ht: siklòn twopikal
+    hu: trópusi ciklon
+    hy: արևադարձային ցիկլոն
+    ia: cyclon tropic
+    id: siklon tropis
+    ie: ciclon tropical
+    ilo: tropikal nga alipugpog
+    io: tropikala ciklono
+    is: fellibylur
+    it: ciclone tropicale
+    ja: 熱帯低気圧
+    jam: chrapikal saikluon
+    jbo: vlile carna xamsi brife
+    jv: siklon tropis
+    ka: ტროპიკული ციკლონი
+    kk: тропиктік циклон
+    kl: isivunguvungu esishisayo
+    kn: ಚಂಡಮಾರುತ
+    ko: 열대 저기압
+    ku: bager
+    kw: trowyns trovannel
+    ky: тропик циклону
+    la: typhon marinus
+    lb: tropesche Wierbelstuerm
+    lmo: uragan
+    lt: tropische cyclone
+    lv: viesuļvētra
+    lzh: 熱帶氣旋
+    mg: Loza voajanahary
+    mk: тропски циклон
+    ml: ചുഴലിക്കാറ്റ്
+    mn: тропикийн циклон
+    mr: हरिकेन
+    ms: siklon tropika
+    ms-arab: سيکلون تروڤيکا
+    mwl: ciclone tropical
+    my: အပူပိုင်း ဆိုင်ကလုန်း
+    nan: hong-thai
+    nb: tropisk syklon
+    nds: troopsch Küselstorm
+    ne: उष्णदेशीय चक्रवात
+    nl: tropische cycloon
+    nn: tropisk syklon
+    oc: ciclon tropical
+    om: tropical cyclone
+    or: କ୍ରାନ୍ତୀୟ ଘୂର୍ଣ୍ଣିବାତ୍ୟା
+    pa: ਤਪਤ-ਖੰਡੀ ਵਾਵਰੋਲਾ
+    pap: tormenta tropikal
+    pl: cyklon tropikalny
+    pms: Siclon tropical
+    pnb: چکھڑ
+    ps: استوايي توپان (د ګردجنې بړبوکۍ توپان)
+    pt: ciclone tropical
+    pt-br: ciclone tropical
+    qu: hatun pillunkuy
+    ro: ciclon tropical
+    ru: тропический циклон
+    sa: प्रभञ्जन
+    scn: cicluni tropicali
+    sgs: truopėnis cikluons
+    sh: tropski ciklon
+    si: නිවර්තන වැහි කුණාටු
+    sk: tropická cyklóna
+    sl: tropski ciklon
+    smn: trooppisâš hirmosstormâ
+    sq: Cikloni tropikal
+    sr: тропски циклон
+    su: siklon tropis
+    sv: tropisk cyklon
+    sw: kimbunga
+    ta: வெப்ப மண்டலச் சூறாவளி
+    te: ఉష్ణమండల తుఫాను
+    th: พายุหมุนเขตร้อน
+    tl: bagyo
+    tr: kasırga
+    tt: гарасат
+    udm: тайфун
+    ug: ئىسسىق بەلباغ سىكلونى
+    uk: тропічний циклон
+    ur: طوفان
+    uz: tropik siklon
+    vec: siclon tropegałe
+    vep: tropine ciklon
+    vi: xoáy thuận nhiệt đới
+    vro: marupöörüs
+    war: bagyo
+    wuu: 热带气旋
+    xmf: ტროპიკული ციკლონი
+    yi: שטורעם ווינט
+    yo: Ìjìláyípo Ilẹ̀-Olóoru
+    yue: 熱帶氣旋
+    zh: 熱帶氣旋
+    zh-cn: 热带气旋
+    zh-hans: 热带气旋
+    zh-hant: 熱帶氣旋
+    zh-hk: 熱帶氣旋
+    zh-mo: 熱帶氣旋
+    zh-my: 热带气旋
+    zh-sg: 热带气旋
+    zh-tw: 熱帶氣旋
 ---
-
 # [[Tropical_Cyclone]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tropical_cyclone,8092|WD~Tropical_cyclone,8092]] 

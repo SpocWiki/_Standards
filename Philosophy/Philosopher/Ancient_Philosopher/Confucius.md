@@ -1,15 +1,137 @@
 ---
 aliases:
-  - Kǒngzǐ
-  - Kong Qiu
-  - Confucius
+- ci kung-ce
+- Conffiwsiws
+- Confuci
+- Confucio
+- Confuciu
+- Confucius
+- Confuciusse
+- Confutsiu
+- Confuzius
+- Confúcio
+- Confúciu
+- Confúicias
+- Confûci
+- Cunfuciu
+- Cunfúcio
+- Gungjswj
+- jan Konsu
+- K'ung-Tzu
+- Khunfuqi
+- Khóng-chú
+- Khûng-chṳ́
+- Khổng Tử
+- Kon Fu Dzı
+- Konefasia
+- Konfuceo
+- Konfuci
+- Konfucii
+- Konfucij
+- Konfucije
+- Konfucijus
+- Konfucius
+- Konfuciusz
+- Konfucjusz
+- Konfucėjos
+- Konfusij
+- Konfusio
+- Konfusius
+- Konfusiusi
+- Konfusiý
+- Konfutse
+- Konfutsiy
+- Konfuzhi
+- Konfuzio
+- Konfuzius
+- Konfuçius
+- Konfuçyus
+- Konfuċju
+- Konfučije
+- Konfyuschus
+- Konfúkius
+- Konfúsio
+- Konfúsíus
+- Konfüçyüs
+- Konfūcijs
+- Kong Fuzi
+- Kong Hu Cu
+- Kong Qiu
+- Kong Zi
+- Konghucu
+- Konghucu (pilsup)
+- Kongzi
+- Kunfucyus
+- Kungfutse
+- Kunpusiusi
+- Kūng-cṳ̄
+- Kůnfucyjus
+- Kǒngzǐ
+- Kọnfukiọsi
+- Κομφούκιον
+- Κομφούκιος
+- Канфуцый
+- Конфусиус
+- Конфуцій
+- Конфуци
+- Конфуциј
+- Конфуций
+- Конфучије
+- Конхвузь
+- Күнз
+- Күнзы
+- Құң-зы
+- Կոնփուկիոս
+- Կոնֆուցիոս
+- קאנפוציוס
+- קונפוציוס
+- كنفيوشيوس
+- كونفوشيوس
+- كۇڭزى
+- کنفوسیوس
+- کنفیوشس
+- کونفوسیوس
+- کَنفیٛوشِیاس
+- کۆنفۆشیۆس
+- ܩܘܢܦܘܫܝܘܣ
+- ކޮންފޫޝާ
+- ߞߏ߲ߝߎߛߌߦߎߛߌ߫
+- कन्फुसियस
+- कन्फ्युसियस
+- कन्फ्यूशियस
+- कॉन्फ़्यूशियस
+- कोन्ग् चि
+- কনফুচিয়াছ
+- কনফুসিয়াস
+- ਕਨਫ਼ੂਸ਼ੀਅਸ
+- કન્ફ્યુશિયસ
+- କନଫୁସିଅସ
+- கன்பூசியஸ்
+- కన్ఫ్యూషియస్
+- ಕನ್ಫ್ಯೂಷಿಯಸ್
+- കൺഫ്യൂഷ്യസ്
+- කොංෆූසි
+- ขงจื๊อ
+- ຂົງຈື້
+- ཁུང་ཙི།
+- ကွန်ဖြူးရှပ်
+- ၶွၼ်ႇၾိဝ်းသျၢတ်ႉ
+- კონფუცი
+- ኮንግ-ፉጸ
+- ᎦᎾᏄᎪᏫᏒ
+- ᑯᓐᕗᓯ
+- ខុង ជឺ
+- ᱠᱚᱱᱯᱷᱩᱥᱤᱭᱚᱥ
+- ⴽⵓⵏⴼⵓⵛⵢⵓⵙ
+- 孔子
+- 공자
 has_id_wikidata: Q4604
 ancestral_home: '[[_Standards/WikiData/WD~Qufu,113492144]]'
 ArhivX_LOD: 30174
 Baidu_Tieba_name: 孔子
 BHCL_UUID:
-  - 9537e028-57b4-45d4-9927-5bd104a75f18
-  - ace539d7-455e-4b8d-85cd-d0f268f08356
+- 9537e028-57b4-45d4-9927-5bd104a75f18
+- ace539d7-455e-4b8d-85cd-d0f268f08356
 birth_name: 孔丘
 child: '[[_Standards/WikiData/WD~Kong_Li,7240164]]'
 Commons_category: Confucius
@@ -24,31 +146,31 @@ date_of_death: -478
 depicted_by: '[[_Standards/WikiData/WD~Bust_of_Confucius,116679061]]'
 described_at_URL: http://www.digiporta.net/index.php?id=757647953
 described_by_source:
-  - '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-  - "[[_Standards/WikiData/WD~Hoff's_Kurze_Biographien,_vol_2,27051827]]"
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Records_of_the_Grand_Historian,272530]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- "[[_Standards/WikiData/WD~Hoff's_Kurze_Biographien,_vol_2,27051827]]"
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 Europeana_entity: agent/base/189
 family_name: '[[_Standards/WikiData/WD~Kong,1043077]]'
 father: '[[_Standards/WikiData/WD~Shu-liang_He,847621]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~social_philosophy,180592]]'
-  - '[[_Standards/WikiData/WD~philosophy,5891]]'
-  - '[[_Standards/WikiData/WD~ethics,9465]]'
+- '[[_Standards/WikiData/WD~social_philosophy,180592]]'
+- '[[_Standards/WikiData/WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~ethics,9465]]'
 given_name: '[[_Standards/WikiData/WD~Qiu,105723379]]'
 Google_Doodle:
-  - confucius-birthday-china-hong-kong
-  - confucius-birthday-multiple-countries
+- confucius-birthday-china-hong-kong
+- confucius-birthday-multiple-countries
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Confucius%2C%20fresco%20from%20a%20Western%20Han%20tomb%20of%20Dongping%20County%2C%20Shandong%20province%2C%20China.jpg
 instance_of: '[[_Standards/WikiData/WD~human,5]]'
 ISNI: 121430614
@@ -64,9 +186,9 @@ native_language: '[[_Standards/WikiData/WD~Historical_Chinese,10913056]]'
 NLC_authorities: 38015049
 notable_work: '[[_Standards/WikiData/WD~Analects,276015]]'
 occupation:
-  - '[[_Standards/WikiData/WD~philosopher,4964182]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~teacher,37226]]'
+- '[[_Standards/WikiData/WD~philosopher,4964182]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~teacher,37226]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20Confucius%20Banner.jpg
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27890372,27890372]]'
 PhilPapers_topic: confucius
@@ -81,88 +203,342 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling: '[[_Standards/WikiData/WD~Meng_Pi,7239680]]'
 spouse: '[[_Standards/WikiData/WD~Qiguan_Shi,24835105]]'
 student:
-  - '[[_Standards/WikiData/WD~Min_Sun,698867]]'
-  - '[[_Standards/WikiData/WD~Zilu,836861]]'
-  - '[[_Standards/WikiData/WD~Zai_Yu,837573]]'
-  - '[[_Standards/WikiData/WD~Ran_Qiu,840352]]'
-  - '[[_Standards/WikiData/WD~Ran_Geng,857146]]'
-  - '[[_Standards/WikiData/WD~Duanmu_Ci,1039504]]'
-  - '[[_Standards/WikiData/WD~Yan_Hui,1155960]]'
-  - '[[_Standards/WikiData/WD~Zengzi,1207671]]'
-  - '[[_Standards/WikiData/WD~Gao_Chai,4505450]]'
-  - '[[_Standards/WikiData/WD~You_Ruo,4533461]]'
-  - '[[_Standards/WikiData/WD~Nangong_Kuo,5363408]]'
-  - '[[_Standards/WikiData/WD~Q6853486,6853486]]'
-  - '[[_Standards/WikiData/WD~Yan_Yan,8193964]]'
-  - '[[_Standards/WikiData/WD~Ran_Yong,8193981]]'
-  - '[[_Standards/WikiData/WD~Gongbo_Liao,10892588]]'
-  - '[[_Standards/WikiData/WD~Gongye_Chang,10892620]]'
-  - '[[_Standards/WikiData/WD~Gongsun_Long,10892833]]'
-  - '[[_Standards/WikiData/WD~Gongxi_Ai,10892972]]'
-  - '[[_Standards/WikiData/WD~Gongxi_Chi,10893003]]'
-  - '[[_Standards/WikiData/WD~Yuan_Xian,10911249]]'
-  - '[[_Standards/WikiData/WD~Sima_Geng,10916692]]'
-  - '[[_Standards/WikiData/WD~Q10923186,10923186]]'
-  - '[[_Standards/WikiData/WD~Shang_Qu,10923196]]'
-  - '[[_Standards/WikiData/WD~Bu_Shang,10944085]]'
-  - '[[_Standards/WikiData/WD~Fu_Buqi,10948046]]'
-  - '[[_Standards/WikiData/WD~Wuma_Shi,11058327]]'
-  - '[[_Standards/WikiData/WD~Q11085100,11085100]]'
-  - '[[_Standards/WikiData/WD~Zeng_Dian,11091584]]'
-  - '[[_Standards/WikiData/WD~Xu_Fan,11121049]]'
-  - '[[_Standards/WikiData/WD~Zhuansun_Shi,11447909]]'
-  - '[[_Standards/WikiData/WD~Tantai_Mieming,11566026]]'
-  - '[[_Standards/WikiData/WD~Shuzhong_Hui,12603391]]'
-  - '[[_Standards/WikiData/WD~Yan_Wuyou,15926484]]'
-  - '[[_Standards/WikiData/WD~Q16159585,16159585]]'
-  - '[[_Standards/WikiData/WD~Q16259876,16259876]]'
-  - '[[_Standards/WikiData/WD~Q16903777,16903777]]'
-  - '[[_Standards/WikiData/WD~Qidiao_Kai,16903788]]'
-  - '[[_Standards/WikiData/WD~Q24834886,24834886]]'
-  - '[[_Standards/WikiData/WD~Q24834895,24834895]]'
-  - '[[_Standards/WikiData/WD~Q24834907,24834907]]'
-  - '[[_Standards/WikiData/WD~Q24834921,24834921]]'
-  - '[[_Standards/WikiData/WD~Q24834934,24834934]]'
-  - '[[_Standards/WikiData/WD~Q24835041,24835041]]'
-  - '[[_Standards/WikiData/WD~Q24835045,24835045]]'
-  - '[[_Standards/WikiData/WD~Q24835049,24835049]]'
-  - '[[_Standards/WikiData/WD~Q24835057,24835057]]'
-  - '[[_Standards/WikiData/WD~Q24835065,24835065]]'
-  - '[[_Standards/WikiData/WD~Công_Tây_Châm,24835069]]'
-  - '[[_Standards/WikiData/WD~Q24835077,24835077]]'
-  - '[[_Standards/WikiData/WD~Q24835085,24835085]]'
-  - '[[_Standards/WikiData/WD~Q24835129,24835129]]'
-  - '[[_Standards/WikiData/WD~Q24835138,24835138]]'
-  - '[[_Standards/WikiData/WD~Hou_Chu,24835142]]'
-  - '[[_Standards/WikiData/WD~Q24835146,24835146]]'
-  - '[[_Standards/WikiData/WD~Di_Hei,24835256]]'
-  - '[[_Standards/WikiData/WD~Q24835261,24835261]]'
-  - '[[_Standards/WikiData/WD~Q24835267,24835267]]'
-  - '[[_Standards/WikiData/WD~Q24835272,24835272]]'
-  - '[[_Standards/WikiData/WD~Q24835276,24835276]]'
-  - '[[_Standards/WikiData/WD~Q24835280,24835280]]'
-  - '[[_Standards/WikiData/WD~Q24835287,24835287]]'
-  - '[[_Standards/WikiData/WD~Q24835285,24835285]]'
-  - '[[_Standards/WikiData/WD~Q24835291,24835291]]'
-  - '[[_Standards/WikiData/WD~Q24835295,24835295]]'
-  - '[[_Standards/WikiData/WD~Q24835303,24835303]]'
-  - '[[_Standards/WikiData/WD~Q24835307,24835307]]'
-  - '[[_Standards/WikiData/WD~Q24835311,24835311]]'
-  - '[[_Standards/WikiData/WD~Nhan_Khoái,24835315]]'
-  - '[[_Standards/WikiData/WD~Q24835319,24835319]]'
-  - '[[_Standards/WikiData/WD~Q24835323,24835323]]'
-  - '[[_Standards/WikiData/WD~Q24835327,24835327]]'
-  - '[[_Standards/WikiData/WD~Q24835331,24835331]]'
-  - '[[_Standards/WikiData/WD~Q24835365,24835365]]'
-  - '[[_Standards/WikiData/WD~Q24835393,24835393]]'
-  - '[[_Standards/WikiData/WD~Q24835981,24835981]]'
-  - '[[_Standards/WikiData/WD~Q24835985,24835985]]'
-  - '[[_Standards/WikiData/WD~Q24835989,24835989]]'
+- '[[_Standards/WikiData/WD~Min_Sun,698867]]'
+- '[[_Standards/WikiData/WD~Zilu,836861]]'
+- '[[_Standards/WikiData/WD~Zai_Yu,837573]]'
+- '[[_Standards/WikiData/WD~Ran_Qiu,840352]]'
+- '[[_Standards/WikiData/WD~Ran_Geng,857146]]'
+- '[[_Standards/WikiData/WD~Duanmu_Ci,1039504]]'
+- '[[_Standards/WikiData/WD~Yan_Hui,1155960]]'
+- '[[_Standards/WikiData/WD~Zengzi,1207671]]'
+- '[[_Standards/WikiData/WD~Gao_Chai,4505450]]'
+- '[[_Standards/WikiData/WD~You_Ruo,4533461]]'
+- '[[_Standards/WikiData/WD~Nangong_Kuo,5363408]]'
+- '[[_Standards/WikiData/WD~Q6853486,6853486]]'
+- '[[_Standards/WikiData/WD~Yan_Yan,8193964]]'
+- '[[_Standards/WikiData/WD~Ran_Yong,8193981]]'
+- '[[_Standards/WikiData/WD~Gongbo_Liao,10892588]]'
+- '[[_Standards/WikiData/WD~Gongye_Chang,10892620]]'
+- '[[_Standards/WikiData/WD~Gongsun_Long,10892833]]'
+- '[[_Standards/WikiData/WD~Gongxi_Ai,10892972]]'
+- '[[_Standards/WikiData/WD~Gongxi_Chi,10893003]]'
+- '[[_Standards/WikiData/WD~Yuan_Xian,10911249]]'
+- '[[_Standards/WikiData/WD~Sima_Geng,10916692]]'
+- '[[_Standards/WikiData/WD~Q10923186,10923186]]'
+- '[[_Standards/WikiData/WD~Shang_Qu,10923196]]'
+- '[[_Standards/WikiData/WD~Bu_Shang,10944085]]'
+- '[[_Standards/WikiData/WD~Fu_Buqi,10948046]]'
+- '[[_Standards/WikiData/WD~Wuma_Shi,11058327]]'
+- '[[_Standards/WikiData/WD~Q11085100,11085100]]'
+- '[[_Standards/WikiData/WD~Zeng_Dian,11091584]]'
+- '[[_Standards/WikiData/WD~Xu_Fan,11121049]]'
+- '[[_Standards/WikiData/WD~Zhuansun_Shi,11447909]]'
+- '[[_Standards/WikiData/WD~Tantai_Mieming,11566026]]'
+- '[[_Standards/WikiData/WD~Shuzhong_Hui,12603391]]'
+- '[[_Standards/WikiData/WD~Yan_Wuyou,15926484]]'
+- '[[_Standards/WikiData/WD~Q16159585,16159585]]'
+- '[[_Standards/WikiData/WD~Q16259876,16259876]]'
+- '[[_Standards/WikiData/WD~Q16903777,16903777]]'
+- '[[_Standards/WikiData/WD~Qidiao_Kai,16903788]]'
+- '[[_Standards/WikiData/WD~Q24834886,24834886]]'
+- '[[_Standards/WikiData/WD~Q24834895,24834895]]'
+- '[[_Standards/WikiData/WD~Q24834907,24834907]]'
+- '[[_Standards/WikiData/WD~Q24834921,24834921]]'
+- '[[_Standards/WikiData/WD~Q24834934,24834934]]'
+- '[[_Standards/WikiData/WD~Q24835041,24835041]]'
+- '[[_Standards/WikiData/WD~Q24835045,24835045]]'
+- '[[_Standards/WikiData/WD~Q24835049,24835049]]'
+- '[[_Standards/WikiData/WD~Q24835057,24835057]]'
+- '[[_Standards/WikiData/WD~Q24835065,24835065]]'
+- '[[_Standards/WikiData/WD~Công_Tây_Châm,24835069]]'
+- '[[_Standards/WikiData/WD~Q24835077,24835077]]'
+- '[[_Standards/WikiData/WD~Q24835085,24835085]]'
+- '[[_Standards/WikiData/WD~Q24835129,24835129]]'
+- '[[_Standards/WikiData/WD~Q24835138,24835138]]'
+- '[[_Standards/WikiData/WD~Hou_Chu,24835142]]'
+- '[[_Standards/WikiData/WD~Q24835146,24835146]]'
+- '[[_Standards/WikiData/WD~Di_Hei,24835256]]'
+- '[[_Standards/WikiData/WD~Q24835261,24835261]]'
+- '[[_Standards/WikiData/WD~Q24835267,24835267]]'
+- '[[_Standards/WikiData/WD~Q24835272,24835272]]'
+- '[[_Standards/WikiData/WD~Q24835276,24835276]]'
+- '[[_Standards/WikiData/WD~Q24835280,24835280]]'
+- '[[_Standards/WikiData/WD~Q24835287,24835287]]'
+- '[[_Standards/WikiData/WD~Q24835285,24835285]]'
+- '[[_Standards/WikiData/WD~Q24835291,24835291]]'
+- '[[_Standards/WikiData/WD~Q24835295,24835295]]'
+- '[[_Standards/WikiData/WD~Q24835303,24835303]]'
+- '[[_Standards/WikiData/WD~Q24835307,24835307]]'
+- '[[_Standards/WikiData/WD~Q24835311,24835311]]'
+- '[[_Standards/WikiData/WD~Nhan_Khoái,24835315]]'
+- '[[_Standards/WikiData/WD~Q24835319,24835319]]'
+- '[[_Standards/WikiData/WD~Q24835323,24835323]]'
+- '[[_Standards/WikiData/WD~Q24835327,24835327]]'
+- '[[_Standards/WikiData/WD~Q24835331,24835331]]'
+- '[[_Standards/WikiData/WD~Q24835365,24835365]]'
+- '[[_Standards/WikiData/WD~Q24835393,24835393]]'
+- '[[_Standards/WikiData/WD~Q24835981,24835981]]'
+- '[[_Standards/WikiData/WD~Q24835985,24835985]]'
+- '[[_Standards/WikiData/WD~Q24835989,24835989]]'
 Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/25095897
 Wolfram_Language_entity_code: Entity["Concept", "Confucius::55p39"]
 work_location: '[[_Standards/WikiData/WD~Lu,736936]]'
+dv_has_:
+  name_:
+    af: Konfusius
+    am: ኮንግ-ፉጸ
+    an: Confucio
+    ang: Confucius
+    anp: कॉन्फ़्यूशियस
+    ar: كونفوشيوس
+    arc: ܩܘܢܦܘܫܝܘܣ
+    ary: كونفوشيوس
+    arz: كونفوشيوس
+    as: কনফুচিয়াছ
+    ast: Confucio
+    ay: Confucius
+    az: Kon Fu Dzı
+    azb: کونفوسیوس
+    ba: Конфуций
+    ban: Konfusius
+    bar: Konfuzius
+    bcl: Confucius
+    be: Канфуцый
+    be-tarask: Канфуцый
+    bew: Konghucu (pilsup)
+    bg: Конфуций
+    bho: कन्फ्यूशियस
+    bi: Confucius
+    bm: Confucius
+    bn: কনফুসিয়াস
+    bo: ཁུང་ཙི།
+    br: Konfusius
+    bs: Konfučije
+    btm: Konghucu
+    bxr: Күнзы
+    ca: Confuci
+    cbk-zam: Confucius
+    cdo: Kūng-cṳ̄
+    ce: Конфуци
+    ceb: Confucio
+    chr: ᎦᎾᏄᎪᏫᏒ
+    ckb: کۆنفۆشیۆس
+    co: Confuciu
+    cr: ᑯᓐᕗᓯ
+    crh: Konfutsiy
+    cs: Konfucius
+    cv: Конфуци
+    cy: Conffiwsiws
+    da: Konfutse
+    de: Konfuzius
+    de-ch: Konfuzius
+    diq: Konfuçius
+    dsb: Konfucius
+    dv: ކޮންފޫޝާ
+    el: Κομφούκιος
+    eml: Confûci
+    en: Confucius
+    en-ca: Confucius
+    en-gb: Confucius
+    en-us: Confucius
+    eo: Konfuceo
+    es: Confucio
+    et: Kong Fuzi
+    eu: Konfuzio
+    ext: Confúciu
+    fa: کنفوسیوس
+    fi: Kungfutse
+    fj: Confucius
+    fo: Konfusius
+    fr: Confucius
+    frp: Confucius
+    fy: Konfusius
+    ga: Confúicias
+    gan: 孔子
+    gcr: Confucius
+    gd: Confucius
+    gl: Confucio
+    gn: Konfúsio
+    gor: Kong Hu Cu
+    gsw: Konfuzius
+    gu: કન્ફ્યુશિયસ
+    guw: Confucius
+    ha: Confucius
+    hak: Khûng-chṳ́
+    he: קונפוציוס
+    hi: कन्फ्यूशियस
+    hif: Confucius
+    hr: Konfucije
+    hsb: Konfucius
+    ht: Confucius
+    hu: Konfuciusz
+    hy: Կոնֆուցիոս
+    hyw: Կոնփուկիոս
+    ia: Confucio
+    id: Kong Hu Cu
+    ie: Konfuzius
+    ig: Konfúkius
+    ilo: Confucius
+    io: Kong Zi
+    is: Konfúsíus
+    it: Confucio
+    iu: Kunpusiusi
+    ja: 孔子
+    jam: Confucius
+    jbo: kongzi
+    jv: Kong Hu Cu
+    ka: კონფუცი
+    kaa: Konfutsiy
+    kab: Confucius
+    kbp: Confucius
+    kk: Құң-зы
+    kl: Konfusiusi
+    km: ខុង ជឺ
+    kn: ಕನ್ಫ್ಯೂಷಿಯಸ್
+    knc: Confucius
+    ko: 공자
+    ks: کَنفیٛوشِیاس
+    ku: Konfuçyus
+    ku-latn: Konfuçyus
+    kw: Confucius
+    ky: Конфуций
+    la: Confucius
+    lad: Konfusio
+    lb: Konfuzius
+    lfn: Kongzi
+    li: Confucius
+    lij: Confucio
+    lld: Confuzius
+    lmo: Confuci
+    lo: ຂົງຈື້
+    lt: Konfucijus
+    lv: Konfūcijs
+    lzh: 孔子
+    mad: Konfusius
+    mai: कन्फुसियस
+    map-bms: Konfusius
+    mdf: Конфуций
+    mg: Confucius
+    min: Konfusius
+    mk: Конфуциј
+    ml: കൺഫ്യൂഷ്യസ്
+    mn: Күнз
+    mr: कन्फ्यूशियस
+    ms: Confucius
+    mt: Konfuċju
+    mwl: Cunfúcio
+    my: ကွန်ဖြူးရှပ်
+    myv: Конхвузь
+    mzn: کونفوسیوس
+    nan: Khóng-chú
+    nap: Confucio
+    nb: Konfucius
+    nds: Konfuzius
+    nds-nl: Konfusius
+    ne: कन्फुसियस
+    new: कन्फ्युसियस
+    nl: Confucius
+    nn: Konfutse
+    nov: Kongzi
+    nqo: ߞߏ߲ߝߎߛߌߦߎߛߌ߫
+    nrm: Confucius
+    oc: Confuci
+    or: କନଫୁସିଅସ
+    os: Конфуций
+    pa: ਕਨਫ਼ੂਸ਼ੀਅਸ
+    pag: K'ung-Tzu
+    pam: Confucius
+    pap: Confucius
+    pcm: Confucius
+    pdc: Konfyuschus
+    pi: कोन्ग् चि
+    pih: Konfucii
+    pl: Konfucjusz
+    pms: Confucio
+    pnb: کنفیوشس
+    pnt: Κομφούκιον
+    ps: كنفيوشيوس
+    pt: Confúcio
+    qu: Khunfuqi
+    rki: ကွန်ဖြူးရှပ်
+    rm: Confucius
+    rmy: Confucius
+    ro: Confucius
+    ru: Конфуций
+    rue: Конфуцій
+    rup: Confutsiu
+    sah: Конфуций
+    sat: ᱠᱚᱱᱯᱷᱩᱥᱤᱭᱚᱥ
+    sc: Confuciu
+    scn: Cunfuciu
+    sco: Confucius
+    sg: Confucius
+    sgs: Konfucėjos
+    sh: Konfucije
+    shi: Kunfucyus
+    shn: ၶွၼ်ႇၾိဝ်းသျၢတ်ႉ
+    si: කොංෆූසි
+    sk: Konfucius
+    sl: Konfucij
+    sm: Konefasia
+    sn: Konfuzhi
+    so: Confucius
+    sq: Konfuci
+    sr: Конфучије
+    st: Konfuzius
+    stq: Confucius
+    su: Kong Hu Cu
+    sv: Konfucius
+    sw: Confucius
+    szl: Kůnfucyjus
+    szy: ci kung-ce
+    ta: கன்பூசியஸ்
+    te: కన్ఫ్యూషియస్
+    tg: Конфусиус
+    th: ขงจื๊อ
+    tk: Konfusiý
+    tl: Confucius
+    tly: Konfusij
+    tok: jan Konsu
+    tpi: Kongzi
+    tr: Konfüçyüs
+    tt: Конфуций
+    tum: Confucius
+    ty: Confucius
+    tyv: Конфуций
+    ug: كۇڭزى
+    uk: Конфуцій
+    ur: کنفیوشس
+    uz: Konfutsiy
+    vec: Confucio
+    vep: Konfucii
+    vi: Khổng Tử
+    vls: Confucius
+    vo: Confucius
+    vro: Kong Fuzi
+    wa: Confuciusse
+    war: Confucius
+    wo: Confucius
+    wuu: 孔子
+    xal: Конфуций
+    xh: Confucius
+    xmf: კონფუცი
+    yi: קאנפוציוס
+    yo: Kọnfukiọsi
+    yue: 孔子
+    za: Gungjswj
+    zea: Confucius
+    zgh: ⴽⵓⵏⴼⵓⵛⵢⵓⵙ
+    zh: 孔子
+    zh-cn: 孔子
+    zh-hans: 孔子
+    zh-hant: 孔子
+    zh-hk: 孔子
+    zh-mo: 孔子
+    zh-my: 孔子
+    zh-sg: 孔子
+    zh-tw: 孔子
 ---
-
 # [[Confucius]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Confucius,4604|WD~Confucius,4604]] 

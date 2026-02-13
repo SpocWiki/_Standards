@@ -1,28 +1,215 @@
 ---
 aliases:
+- aakeschra
+- ceolfhoireann
+- cerddorfa
+- dàn nhạc giao hưởng
+- hljómsveit
+- koán-hiân-ga̍k-thoân
+- mbopuvaaty
+- muŝika archestrale
+- orchester
+- orchestr
+- orchestra
+- orchestre
+- orchestră
+- orkeastar
+- orkes
+- orkest
+- orkesta
+- orkestar
+- orkester
+- orkesteri
+- orkestr
+- orkestra
+- orkestras
+- orkestro
+- orkestru
+- orkestur
+- orkiestra
+- Orkès
+- Orkéstr
+- orquesta
+- orquestra
+- orquèstra
+- orķestris
+- yatawaki
+- zenekar
+- Ôrkesitra
+- ορχήστρα
+- аркестар
+- аркестр
+- найрал хөгжим
+- оркестар
+- Оркестер
+- оркестр
+- оркестър
+- Նվագախումբ
+- ארקעסטער
+- תזמורת
+- آرکسٹرا
+- أوركسترا
+- ئۆرکێسترا
+- ارکستر
+- اوركسترا
+- اورکستر
+- ܐܘܪܟܝܣܛܪܐ
+- अर्केस्त्रा
+- ঐকবাদনদল
+- சேர்ந்திசை
+- ಗೋಷ್ಠಿಗಾನ
+- ഓർകെസ്ട്ര
+- ออร์เคสตรา
+- သံစုံတီးဝိုင်းကြီး
+- ၸုမ်းတွႆႇသႅင်း
+- სიმფონიური ორკესტრი
+- オーケストラ
+- 管弦乐团
+- 管弦樂團
+- 관현악단
 has_id_wikidata: Q42998
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~instrumental_ensemble,11072804]]"
-  - "[[_Standards/WikiData/WD~music_organization,32178211]]"
-different_from: "[[_Standards/WikiData/WD~Orkiestra,11799196]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_orchestra,16919565]]"
-members_have_occupation: "[[_Standards/WikiData/WD~orchestral_musician,99460544]]"
-instance_of: "[[_Standards/WikiData/WD~type_of_musical_group,105756498]]"
-OmegaWiki_Defined_Meaning: "483387"
-U_S_National_Archives_Identifier: "10676179"
+- '[[_Standards/WikiData/WD~instrumental_ensemble,11072804]]'
+- '[[_Standards/WikiData/WD~music_organization,32178211]]'
+different_from: '[[_Standards/WikiData/WD~Orkiestra,11799196]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_orchestra,16919565]]'
+members_have_occupation: '[[_Standards/WikiData/WD~orchestral_musician,99460544]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_musical_group,105756498]]'
+OmegaWiki_Defined_Meaning: 483387
+U_S_National_Archives_Identifier: 10676179
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/ORKESTR.html
 Commons_category: Orchestras
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Oman%20Symphony%20Orchestra%20by%20Khalid%20AlBusaidi.jpg
+dv_has_:
+  name_:
+    af: orkes
+    ar: أوركسترا
+    arc: ܐܘܪܟܝܣܛܪܐ
+    arz: اوركسترا
+    ast: orquesta
+    az: orkestr
+    azb: اورکستر
+    be: аркестр
+    be-tarask: аркестар
+    bg: оркестър
+    bn: ঐকবাদনদল
+    bs: orkestar
+    ca: orquestra
+    ckb: ئۆرکێسترا
+    cs: orchestr
+    cv: Оркестр
+    cy: cerddorfa
+    da: orkester
+    de: Orchester
+    diq: orkestra
+    el: ορχήστρα
+    en: orchestra
+    eo: orkestro
+    es: orquesta
+    et: orkester
+    eu: orkestra
+    fa: ارکستر
+    fi: orkesteri
+    fo: orkestur
+    fr: orchestre
+    fy: Orkest
+    ga: ceolfhoireann
+    gan: 管弦樂團
+    gcr: Orkès
+    gl: orquestra
+    gn: mbopuvaaty
+    gsw: orchester
+    ha: orchestra
+    he: תזמורת
+    hr: orkestar
+    hu: zenekar
+    hy: Նվագախումբ
+    ia: orchestra
+    id: orkestra
+    ie: orchestre
+    io: orkestro
+    is: hljómsveit
+    it: orchestra
+    ja: オーケストラ
+    jam: aakeschra
+    jv: orkestra
+    ka: სიმფონიური ორკესტრი
+    kk: оркестр
+    kk-cyrl: оркестр
+    kn: ಗೋಷ್ಠಿಗಾನ
+    ko: 관현악단
+    ky: оркестр
+    la: Orchestra
+    lb: Orchester
+    li: Orkes
+    lt: orkestras
+    lv: orķestris
+    mg: Ôrkesitra
+    mk: оркестар
+    ml: ഓർകെസ്ട്ര
+    mn: найрал хөгжим
+    ms: orkestra
+    my: သံစုံတီးဝိုင်းကြီး
+    nan: koán-hiân-ga̍k-thoân
+    nb: orkester
+    new: अर्केस्त्रा
+    nl: orkest
+    nn: orkester
+    oc: orquèstra
+    olo: orkestru
+    pam: orkesta
+    pl: orkiestra
+    pt: orquestra
+    pt-br: orquestra
+    qu: yatawaki
+    ro: orchestră
+    rsk: Оркестер
+    ru: оркестр
+    scn: orchestra
+    se: orkeastar
+    sh: orkestar
+    shn: ၸုမ်းတွႆႇသႅင်း
+    sk: orchester
+    sl: orkester
+    smn: orkester
+    sms: orkester
+    sq: Orkestra
+    sr: оркестар
+    stq: Orchester
+    sv: orkester
+    ta: சேர்ந்திசை
+    tg: оркестр
+    th: ออร์เคสตรา
+    tl: orkestra
+    tr: orkestra
+    tt: оркестр
+    ug: Orkéstr
+    uk: оркестр
+    ur: آرکسٹرا
+    uz: orkestr
+    vec: muŝika archestrale
+    vi: dàn nhạc giao hưởng
+    war: orkestra
+    wuu: 管弦乐团
+    yi: ארקעסטער
+    yue: 管弦樂團
+    zh: 管弦樂團
+    zh-cn: 管弦乐团
+    zh-hans: 管弦乐团
+    zh-hant: 管弦樂團
+    zh-hk: 管弦樂團
+    zh-mo: 管弦樂團
+    zh-sg: 管弦乐团
+    zh-tw: 管弦樂團
 ---
-
 # [[Orchestra]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Orchestra,42998|WD~Orchestra,42998]] 

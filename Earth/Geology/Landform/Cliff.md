@@ -1,14 +1,89 @@
 ---
 aliases:
-  - Klippe
-  - Cliff
+- acantilado
+- aill
+- als, klog
+- amildegi
+- Aɣulid
+- Bangin
+- Bauç
+- bákti
+- Bángin
+- bờ biển dốc
+- Cantil
+- Cenuram
+- Cliff
+- clogwyn
+- Dutsen
+- Eaynin
+- falesia
+- Faleză
+- Falèz
+- falésia
+- Gawir
+- Hir
+- Jartas
+- jyrkänne
+- Kheⁿ-khàm
+- Klif
+- Klifas
+- Kliff
+- klifo
+- klint
+- klints
+- klip
+- Klippe
+- Klïf
+- klȉf
+- krans
+- Pangato
+- Pangkung
+- pank
+- penya-segat
+- Penyas (costa)
+- Qaw (buur)
+- Qoya
+- rempart montagneux
+- Rũgĩra
+- sinpin ma
+- Skardis
+- szikla
+- tebing
+- Tingkah
+- tornaod
+- Tubir
+- uçurum
+- útes
+- γκρεμός
+- Кліф
+- клиф
+- литица
+- спила
+- քարափ
+- צוק
+- جرف
+- دیواره
+- كلىيف
+- क्लिफ
+- चट्टानी टीला
+- भीर
+- খাড়া পাহাড়
+- செங்குத்துப் பாறை
+- ಕಡಿಬಂಡೆ
+- หน้าผา
+- კლიფი
+- ᡝᠩᡤᡝᠯᡝᡴᡠ
+- 崖
+- 悬崖
+- 懸崖
+- 절벽
 has_id_wikidata: Q107679
 subclass_of:
-  - "[[_Standards/WikiData/WD~landform,271669]]"
-  - "[[_Standards/WikiData/WD~escarpment,1174791]]"
-different_from: "[[_Standards/WikiData/WD~Centrum_Handlowe_Klif,9362481]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-OmegaWiki_Defined_Meaning: "4261"
+- '[[_Standards/WikiData/WD~landform,271669]]'
+- '[[_Standards/WikiData/WD~escarpment,1174791]]'
+different_from: '[[_Standards/WikiData/WD~Centrum_Handlowe_Klif,9362481]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+OmegaWiki_Defined_Meaning: 4261
 Commons_category: Cliffs
 Commons_gallery: Cliff
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Isla%20de%20Mona%2C%20Puerto%20Rico.jpg
@@ -18,25 +93,137 @@ GeoNames_feature_code: T.CLF
 OpenStreetMap_tag: natural=cliff
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]]"
-    - "[[/_Standards/Earth/Geology/Landform/Cliff|Cliff]]"
-    - "[[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]]"
-    - "[[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]]"
-    - "[[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]]"
-    - "[[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]]"
-    - "[[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]]"
-    - "[[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]]"
+  - '[[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]]'
+  - '[[/_Standards/Earth/Geology/Landform/Cliff|Cliff]]'
+  - '[[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]]'
+  - '[[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]]'
+  - '[[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]]'
+  - '[[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]]'
+  - '[[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]]'
+  - '[[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]]'
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]]"
-  - "[[/_Standards/Earth/Geology/Landform/Cliff|Cliff]]"
-  - "[[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]]"
-  - "[[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]]"
-  - "[[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]]"
-  - "[[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]]"
-  - "[[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]]"
-  - "[[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]]"
+- '[[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]]'
+- '[[/_Standards/Earth/Geology/Landform/Cliff|Cliff]]'
+- '[[/_public/Earth/Geology/Landform/Cliff.public|Cliff.public]]'
+- '[[/_internal/Earth/Geology/Landform/Cliff.internal|Cliff.internal]]'
+- '[[/_protect/Earth/Geology/Landform/Cliff.protect|Cliff.protect]]'
+- '[[/_private/Earth/Geology/Landform/Cliff.private|Cliff.private]]'
+- '[[/_personal/Earth/Geology/Landform/Cliff.personal|Cliff.personal]]'
+- '[[/_secret/Earth/Geology/Landform/Cliff.secret|Cliff.secret]]'
+dv_has_:
+  name_:
+    af: krans
+    an: Penyas (costa)
+    ar: جرف
+    ast: Cantil
+    ban: Pangkung
+    be: Кліф
+    be-tarask: кліф
+    bew: Tubir
+    bg: клиф
+    bho: क्लिफ
+    bn: খাড়া পাহাড়
+    br: tornaod
+    bs: Klif
+    ca: penya-segat
+    cs: útes
+    cy: clogwyn
+    da: klippe
+    de: Klippe
+    de-ch: Kliff
+    diq: Hir
+    el: γκρεμός
+    en: cliff
+    en-ca: Cliff
+    en-gb: cliff
+    en-us: cliff
+    eo: klifo
+    es: acantilado
+    et: pank
+    eu: amildegi
+    fa: دیواره
+    fi: jyrkänne
+    fr: rempart montagneux
+    fy: Klif
+    ga: aill
+    gl: Cantil
+    gor: Pangato
+    gv: Eaynin
+    ha: Dutsen
+    he: צוק
+    hi: चट्टानी टीला
+    hr: klȉf
+    ht: Falèz
+    hu: szikla
+    hy: քարափ
+    iba: Tingkah
+    id: tebing
+    io: Klifo
+    it: falesia
+    ja: 崖
+    ka: კლიფი
+    kaa: Jartas
+    ki: Rũgĩra
+    kk: Клиф
+    kk-arab: كلىيف
+    kk-cn: كلىيف
+    kk-cyrl: Клиф
+    kk-kz: Клиф
+    kk-latn: Klïf
+    kk-tr: Klïf
+    kn: ಕಡಿಬಂಡೆ
+    ko: 절벽
+    kw: als, klog
+    li: Klif
+    lt: Klifas
+    lv: klints
+    mk: спила
+    mnc: ᡝᠩᡤᡝᠯᡝᡴᡠ
+    ms: Cenuram
+    nan: Kheⁿ-khàm
+    nb: klippe
+    nds: Klint
+    ne: भीर
+    nl: klip
+    nn: klippe
+    oc: Bauç
+    pl: klif
+    pt: falésia
+    pt-br: falésia
+    ro: Faleză
+    ru: клиф
+    se: bákti
+    sgs: Skardis
+    sh: Klif
+    shi: Aɣulid
+    sk: Útes
+    sl: klif
+    so: Qaw (buur)
+    sr: клиф
+    sr-ec: литица
+    sr-el: Klif
+    su: Gawir
+    sv: klint
+    ta: செங்குத்துப் பாறை
+    th: หน้าผา
+    tl: Bangin
+    tok: sinpin ma
+    tr: uçurum
+    uk: кліф
+    uz: Qoya
+    vi: bờ biển dốc
+    war: Bángin
+    wuu: 悬崖
+    xmf: კლიფი
+    yue: 懸崖
+    zh: 悬崖
+    zh-cn: 悬崖
+    zh-hans: 悬崖
+    zh-hant: 懸崖
+    zh-hk: 懸崖
+    zh-sg: 悬崖
+    zh-tw: 懸崖
 ---
-
 # [[Cliff]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cliff,107679|WD~Cliff,107679]] 

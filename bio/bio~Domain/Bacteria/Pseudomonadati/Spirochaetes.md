@@ -1,12 +1,71 @@
 ---
 aliases:
-  - Spirochaetota
-  - spirochete
-  - spirochaete
-  - Spirochaetes
+- Spirochaetae
+- spirochaete
+- Spirochaetes
+- Spirochaetota
+- spirochete
+- Spiroheedid
+- Spiroketo
+- Спирохети
+- بكتيريا ملتوية
+- پیچیدگان
+- स्पाइरोकीट
+- স্পাইরোকিট
+- スピロヘータ
+- 螺旋体
+- 螺旋體
 title: Spirochaetes
+has_id_wikidata: Q12673555
+dv_has_:
+  name_:
+    an: Spirochaetae
+    ar: بكتيريا ملتوية
+    ast: Spirochaetae
+    bg: Спирохети
+    bn: স্পাইরোকিট
+    ca: Spirochaetae
+    ceb: Spirochaetae
+    de: Spirochaetae
+    en: Spirochaetae
+    en-us: Spirochaetae
+    eo: Spiroketo
+    es: Spirochaetae
+    et: Spiroheedid
+    eu: Spirochaetae
+    ext: Spirochaetae
+    fa: پیچیدگان
+    fi: Spirochaetae
+    fr: Spirochaetae
+    ga: Spirochaetae
+    gl: Spirochaetae
+    hi: स्पाइरोकीट
+    ia: Spirochaetae
+    ie: Spirochaetae
+    io: Spirochaetae
+    it: Spirochaetae
+    ja: スピロヘータ
+    la: Spirochaetae
+    lt: Spirochaete
+    mul: Spirochaetae
+    nl: Spirochaetae
+    nn: Spirochaetae
+    oc: Spirochaetae
+    pcm: Spirochaetae
+    pl: Spirochaetae
+    pt: Spirochaetae
+    pt-br: Spirochaetae
+    ro: Spirochaetae
+    ru: Spirochaetae
+    sq: Spirochaetae
+    tl: Spirochaete
+    uk: Spirochaetae
+    vi: Spirochaetae
+    vo: Spirochaetae
+    war: Spirochaetae
+    zh: 螺旋體
+    zh-hans: 螺旋体
 ---
-
 # [[Spirochaetes]] 
 
 #is_a/bio-Phylum  

@@ -1,9 +1,45 @@
 ---
 aliases:
+- attachement traumatique
+- girêdayîna trawmatîk
+- Ligação traumática
+- traumaband
+- traumabindning
+- Traumabindung
+- traumatic bonding
+- traumatické spojení
+- traumebinding
+- travmatska vez
+- Vínculo traumático
+- траўматычная прывязанасьць
+- Травматическая связь
+- Травматична прив'язаність
+- Трауматско везивање
+- ترابط مؤلم
+- 外傷的絆
 has_id_wikidata: Q17143762
-instance_of: "[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]"
+instance_of: '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
+dv_has_:
+  name_:
+    ar: ترابط مؤلم
+    be-tarask: траўматычная прывязанасьць
+    cs: traumatické spojení
+    da: traumebinding
+    de: Traumabindung
+    en: traumatic bonding
+    es: Vínculo traumático
+    fr: attachement traumatique
+    ja: 外傷的絆
+    ku: girêdayîna trawmatîk
+    ku-latn: girêdayîna trawmatîk
+    nl: traumaband
+    pt: Ligação traumática
+    ru: Травматическая связь
+    sl: travmatska vez
+    sr: Трауматско везивање
+    sv: traumabindning
+    uk: Травматична прив'язаність
 ---
-
 # [[Traumatic_Bonding]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~traumatic_bonding,17143762]] 

@@ -1,19 +1,39 @@
 ---
 aliases:
-  - George Herman "Babe" Ruth
-  - George Herman Ruth
-  - Babe Ruth
-  - '"Babe" Ruth'
-  - Babe_Ruth
+- '"Babe" Ruth'
+- Babe Ruth
+- Babe_Ruth
+- Bejb Rut
+- George Herman "Babe" Ruth
+- George Herman Ruth
+- Mazulis Rūts
+- Μπέιμπ Ρουθ
+- Бејб Рут
+- Бейб Рут
+- Бэйб Рут
+- Բեյբ Ռութ
+- בייב רות'
+- بيب روث
+- بیب روث
+- जॉर्ज हर्मन रुथ
+- बेब रुथ
+- বেব রুথ
+- බේබ් රූත්
+- เบบ รูธ
+- បេប រូត
+- ベーブ・ルース
+- 貝比·魯斯
+- 贝比·鲁斯
+- 베이브 루스
 has_id_wikidata: Q213812
 member_of_sports_team:
-  - '[[_Standards/WikiData/WD~New_York_Yankees,213417]]'
-  - '[[_Standards/WikiData/WD~Boston_Red_Sox,213959]]'
-  - '[[_Standards/WikiData/WD~Boston_Braves,5869139]]'
+- '[[_Standards/WikiData/WD~New_York_Yankees,213417]]'
+- '[[_Standards/WikiData/WD~Boston_Red_Sox,213959]]'
+- '[[_Standards/WikiData/WD~Boston_Braves,5869139]]'
 handedness: '[[_Standards/WikiData/WD~left_handedness,789447]]'
 position_played_on_team_speciality:
-  - '[[_Standards/WikiData/WD~pitcher,1048902]]'
-  - '[[_Standards/WikiData/WD~outfielder,1142885]]'
+- '[[_Standards/WikiData/WD~pitcher,1048902]]'
+- '[[_Standards/WikiData/WD~outfielder,1142885]]'
 league_or_competition: '[[_Standards/WikiData/WD~Major_League_Baseball,1163715]]'
 cause_of_death: '[[_Standards/WikiData/WD~nasopharynx_carcinoma,1693598]]'
 place_of_death: '[[_Standards/WikiData/WD~Memorial_Sloan_Kettering_Cancer_Center,1808012]]'
@@ -25,8 +45,8 @@ child: '[[_Standards/WikiData/WD~Dorothy_Ruth,5298615]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 occupation: '[[_Standards/WikiData/WD~baseball_player,10871364]]'
 given_name:
-  - '[[_Standards/WikiData/WD~George,15921732]]'
-  - '[[_Standards/WikiData/WD~Herman,16276646]]'
+- '[[_Standards/WikiData/WD~George,15921732]]'
+- '[[_Standards/WikiData/WD~Herman,16276646]]'
 family_name: '[[_Standards/WikiData/WD~Ruth,37494439]]'
 record_held: '[[_Standards/WikiData/WD~Major_League_Baseball_single_season_home_run_record,38245483]]'
 relative: '[[_Standards/WikiData/WD~Julia_Ruth_Stevens,92536840]]'
@@ -41,9 +61,9 @@ Commons_Creator_page: Babe Ruth
 Commons_gallery: Babe Ruth
 Commons_category: Babe Ruth
 nickname:
-  - Bambino
-  - Babe Ruth
-  - Sultan of Swat
+- Bambino
+- Babe Ruth
+- Sultan of Swat
 U_S_National_Archives_Identifier: 10580232
 date_of_death: 1948-08-16T00:00:00Z
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Babe%20ruth%20grave.JPG
@@ -56,8 +76,86 @@ Facebook_username: BabeRuth
 birth_name: George Herman Ruth, Jr.
 work_period_end_: 1935-05-20T00:00:00Z
 work_period_start_: 1914-07-11T00:00:00Z
+dv_has_:
+  name_:
+    af: Babe Ruth
+    ar: بيب روث
+    arz: بيب روث
+    ast: Babe Ruth
+    be-tarask: Бэйб Рут
+    bg: Бейб Рут
+    bn: বেব রুথ
+    ca: Babe Ruth
+    cs: Babe Ruth
+    cy: Babe Ruth
+    da: Babe Ruth
+    de: Babe Ruth
+    de-ch: Babe Ruth
+    diq: Babe Ruth
+    el: Μπέιμπ Ρουθ
+    en: Babe Ruth
+    en-ca: Babe Ruth
+    en-gb: Babe Ruth
+    eo: Babe Ruth
+    es: Babe Ruth
+    et: Babe Ruth
+    eu: Babe Ruth
+    fa: بیب روث
+    fi: Babe Ruth
+    fr: Babe Ruth
+    ga: Babe Ruth
+    gl: Babe Ruth
+    he: בייב רות'
+    hi: बेब रुथ
+    hr: George Herman Ruth
+    hu: Babe Ruth
+    hy: Բեյբ Ռութ
+    id: Babe Ruth
+    it: Babe Ruth
+    ja: ベーブ・ルース
+    km: បេប រូត
+    ko: 베이브 루스
+    la: Babe Ruth
+    li: Babe Ruth
+    lt: Babe Ruth
+    lv: Mazulis Rūts
+    mg: Babe Ruth
+    mk: Бејб Рут
+    mr: जॉर्ज हर्मन रुथ
+    ms: Babe Ruth
+    mul: Babe Ruth
+    nan: Babe Ruth
+    nb: Babe Ruth
+    nl: Babe Ruth
+    nn: Babe Ruth
+    pam: Babe Ruth
+    pap: Babe Ruth
+    pl: Babe Ruth
+    pt: Babe Ruth
+    pt-br: Babe Ruth
+    ro: Babe Ruth
+    ru: Бейб Рут
+    si: බේබ් රූත්
+    sl: Babe Ruth
+    sq: Babe Ruth
+    sr: Bejb Rut
+    sv: Babe Ruth
+    th: เบบ รูธ
+    tl: Babe Ruth
+    tr: Babe Ruth
+    uk: Бейб Рут
+    vi: Babe Ruth
+    war: Babe Ruth
+    wuu: 贝比·鲁斯
+    yue: 貝比·魯斯
+    zh: 貝比·魯斯
+    zh-cn: 贝比·鲁斯
+    zh-hans: 贝比·鲁斯
+    zh-hant: 貝比·魯斯
+    zh-hk: 貝比·魯斯
+    zh-sg: 贝比·鲁斯
+    zh-tw: 貝比·魯斯
 ---
-
 # [[Babe_Ruth]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Babe_Ruth,213812|WD~Babe_Ruth,213812]] 

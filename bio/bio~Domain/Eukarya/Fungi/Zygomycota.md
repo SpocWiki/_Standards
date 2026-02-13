@@ -1,6 +1,45 @@
 ---
 aliases:
-  - Zygomycota
+- houby spájivé
+- Ikkesseened
+- Jochpilze
+- járomspórás gombák
+- Koblingssvampe
+- koplingssoppar
+- Kopplingssvampar
+- Lagere schimmels
+- Oksveppir
+- Sprzężniaki
+- T'inki k'allampa
+- yhtymäsienet
+- Zigomicetai
+- Zigomicete
+- Zigomiceti
+- Zigomicot
+- Zigomicētes
+- Zigomikotoj
+- Zigomitsetlar
+- Ziqomikotlar
+- Zygomycetes
+- Zygomycota
+- Ζυγοµύκητες,
+- зігаміцэты
+- Зигоміцети
+- Зигомикоти
+- Зигомицеттар
+- зигомицеты
+- зыгаміцэты
+- мухълови гъби
+- זוגניות
+- فطريات اقترانية
+- فطريات اقترانيه
+- قارچهای زیگومیکوتا
+- நுகப்பூஞ்சைத் தொகுதி
+- జైగోమైకోటా
+- ზიგომიცეტები
+- 接合菌門
+- 接合菌门
+- 접합균류
 has_id_wikidata: Q215384
 title: Zygomycota
 taxon_rank: '[[_Standards/WikiData/WD~division,334460]]'
@@ -9,14 +48,92 @@ parent_taxon: '[[_Standards/WikiData/WD~Eomycota,23674661]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 936291
 image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Mucor%20spec.%20-%20Lindsey%201a.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Phycomyces.JPG
+- http://commons.wikimedia.org/wiki/Special:FilePath/Mucor%20spec.%20-%20Lindsey%201a.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Phycomyces.JPG
 EPPO_Code: 1ZYGOP
 Commons_category: Zygomycota
 taxon_name: Zygomycota
 NBN_System_Key: BMSSYS0000052700
+dv_has_:
+  name_:
+    af: Zygomycota
+    an: Zygomycota
+    ar: فطريات اقترانية
+    arz: فطريات اقترانيه
+    ast: Zygomycota
+    az: Ziqomikotlar
+    ba: Зигомицеттар
+    be: зігаміцэты
+    be-tarask: зыгаміцэты
+    bg: мухълови гъби
+    bjn: Zygomycota
+    ca: Zigomicot
+    ceb: Zygomycota
+    cs: houby spájivé
+    da: Koblingssvampe
+    de: Jochpilze
+    el: Ζυγοµύκητες,
+    en: Zygomycota
+    eo: Zigomikotoj
+    es: Zygomycota
+    et: Ikkesseened
+    eu: Zygomycota
+    ext: Zygomycota
+    fa: قارچهای زیگومیکوتا
+    fi: yhtymäsienet
+    fr: Zygomycota
+    frr: Zygomycetes
+    ga: Zygomycota
+    gl: Zygomycota
+    he: זוגניות
+    hr: Zigomiceti
+    hu: járomspórás gombák
+    ia: Zygomycota
+    id: Zygomycota
+    ie: Zygomycota
+    io: Zygomycota
+    is: Oksveppir
+    it: Zygomycota
+    ja: 接合菌門
+    jv: Zygomycota
+    ka: ზიგომიცეტები
+    ko: 접합균류
+    la: Zygomycota
+    lt: Zigomicetai
+    lv: Zigomicētes
+    mk: Зигомикоти
+    mul: Zygomycota
+    nl: Lagere schimmels
+    nn: koplingssoppar
+    oc: Zygomycota
+    pl: Sprzężniaki
+    pt: Zygomycota
+    pt-br: Zygomycota
+    qu: T'inki k'allampa
+    ro: Zygomycota
+    ru: зигомицеты
+    sq: Zygomycota
+    sr: Zygomycota
+    sv: Kopplingssvampar
+    ta: நுகப்பூஞ்சைத் தொகுதி
+    te: జైగోమైకోటా
+    tl: Zygomycota
+    tr: Zygomycota
+    uk: Зигоміцети
+    uz: Zigomitsetlar
+    vi: Zygomycota
+    vo: Zygomycota
+    wa: Zigomicete
+    war: Zygomycota
+    yue: 接合菌門
+    zh: 接合菌门
+    zh-cn: 接合菌门
+    zh-hans: 接合菌门
+    zh-hant: 接合菌門
+    zh-hk: 接合菌門
+    zh-sg: 接合菌门
+    zh-tw: 接合菌門
 ---
-
 # [[Zygomycota]]
 
 #is_a/bio-Phylum  

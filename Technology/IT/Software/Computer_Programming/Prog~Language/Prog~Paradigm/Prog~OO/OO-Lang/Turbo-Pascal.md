@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q473201
+---
+
 # [[Turbo-Pascal]] 
 
 #is_a_/ComputerLanguage 

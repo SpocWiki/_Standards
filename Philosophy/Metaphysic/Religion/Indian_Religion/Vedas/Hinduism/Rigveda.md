@@ -1,20 +1,69 @@
 ---
 aliases:
-  - Rigveda
-  - Rig Veda
-  - ऋग्वेद
+- Regweda
+- Rgveda
+- Rgvéda
+- Rgwéda
+- Rig Veda
+- Rig-veda
+- Rig-Véda
+- Rigveda
+- Rigvedo
+- Rigveeda
+- Rigvéda
+- Rigvēda
+- Rigvėda
+- Riqveda
+- Rygweda
+- Régwéda
+- Ριγκβέντα
+- Ріґведа
+- Рг-веда
+- Ригведа
+- Рыгведа
+- Рыгвэда
+- Ռիգվեդա
+- ריג ודה
+- الركويد
+- ريګويدا
+- رِگ وید
+- رگ وید
+- رڳ ويد
+- ریگ ودا
+- ریگودا
+- ऋग्वेद
+- ऋग्वेदः
+- ঋকবেদ
+- ঋগ্বেদ
+- ਰਿਗਵੇਦ
+- ઋગ્વેદ
+- ଋଗବେଦ
+- இருக்கு வேதம்
+- ఋగ్వేదం
+- ಋಗ್ವೇದ
+- ಟೆಂಪ್ಲೇಟ್:ಋಗ್ವೇದೊ
+- ഋഗ്വേദം
+- ඍග් වේද
+- ฤคเวท
+- ངེས་བརྗོད་ཀྱི་རིག་བྱེད།
+- ርግ ቬዳ
+- Ṛgveda
+- リグ・ヴェーダ
+- 梨俱吠陀
+- ꯔꯤꯒ ꯚꯦꯗꯥ
+- 리그베다
 has_id_wikidata: Q727413
 has_characteristic: '[[_Standards/WikiData/WD~revelation,192906]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~Hindu_text,1194040]]'
-  - '[[_Standards/WikiData/WD~miscellany,1295240]]'
-  - '[[_Standards/WikiData/WD~collection,2668072]]'
-  - '[[_Standards/WikiData/WD~literary_work,7725634]]'
-  - '[[_Standards/WikiData/WD~religious_hymn,63203971]]'
-  - '[[_Standards/WikiData/WD~Śruti,47148]]'
+- '[[_Standards/WikiData/WD~Hindu_text,1194040]]'
+- '[[_Standards/WikiData/WD~miscellany,1295240]]'
+- '[[_Standards/WikiData/WD~collection,2668072]]'
+- '[[_Standards/WikiData/WD~literary_work,7725634]]'
+- '[[_Standards/WikiData/WD~religious_hymn,63203971]]'
+- '[[_Standards/WikiData/WD~Śruti,47148]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 author: '[[_Standards/WikiData/WD~various_authors,2818964]]'
 location_of_creation: '[[_Standards/WikiData/WD~Rigvedic_rivers,3478959]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_Rigveda,6454878]]'
@@ -34,8 +83,112 @@ entry_in_abbreviations_table: RV.
 Gujarati_Vishwakosh_entry: ઋગ્વેદ
 title: ऋग्वेद
 inception: -1499-01-01T00:00:00Z
+dv_has_:
+  name_:
+    af: Rigveda
+    am: ርግ ቬዳ
+    anp: ऋग्वेद
+    ar: الركويد
+    as: ঋকবেদ
+    ast: Rigveda
+    az: Riqveda
+    ba: Ригведа
+    ban: Régwéda
+    bcl: Rigveda
+    be: Рыгведа
+    be-tarask: Рыгвэда
+    bg: Ригведа
+    bho: ऋग्वेद
+    bn: ঋগ্বেদ
+    bo: ངེས་བརྗོད་ཀྱི་རིག་བྱེད།
+    br: Rigveda
+    bs: Rgveda
+    ca: Rigveda
+    cs: Rgvéda
+    cy: Rig Veda
+    da: Rigveda
+    de: Rigveda
+    el: Ριγκβέντα
+    en: Rigveda
+    eo: Rigvedo
+    es: Rig-veda
+    et: Rigveeda
+    eu: Rig-veda
+    fa: ریگودا
+    fi: Rigveda
+    fr: Rig-Véda
+    ga: Rigveda
+    gl: Rigveda
+    gom: ऋग्वेद
+    gu: ઋગ્વેદ
+    he: ריג ודה
+    hi: ऋग्वेद
+    hif: Rigveda
+    hr: Rgveda
+    hu: Rigvéda
+    hy: Ռիգվեդա
+    id: Regweda
+    is: Rigveda
+    it: Ṛgveda
+    ja: リグ・ヴェーダ
+    jv: Rgwéda
+    kk: Ригведа
+    kn: ಋಗ್ವೇದ
+    ko: 리그베다
+    ks: رِگ وید
+    la: Rigveda
+    lfn: Rigveda
+    lt: Rigveda
+    lv: Rigvēda
+    mai: ऋग्वेद
+    mk: Ригведа
+    ml: ഋഗ്വേദം
+    mni: ꯔꯤꯒ ꯚꯦꯗꯥ
+    mr: ऋग्वेद
+    ms: Rig Veda
+    mzn: ریگ ودا
+    nb: Rigveda
+    ne: ऋग्वेद
+    new: ऋग्वेद
+    nl: Rig-Veda
+    or: ଋଗବେଦ
+    pa: ਰਿਗਵੇਦ
+    pl: Rygweda
+    pnb: رگ وید
+    ps: ريګويدا
+    pt: Rigveda
+    ro: Rig Veda
+    ru: Ригведа
+    sa: ऋग्वेदः
+    sat: ঋগ্বেদ
+    sco: Rigveda
+    sd: رڳ ويد
+    sgs: Rigvėda
+    sh: Rigveda
+    si: ඍග් වේද
+    sk: Rigvéda
+    sl: Rigveda
+    sq: Rigveda
+    sr: Рг-веда
+    sv: Rig Veda
+    ta: இருக்கு வேதம்
+    tcy: ಟೆಂಪ್ಲೇಟ್:ಋಗ್ವೇದೊ
+    te: ఋగ్వేదం
+    tg: Ригведа
+    tg-cyrl: Ригведа
+    th: ฤคเวท
+    tl: Rigveda
+    tr: Rigveda
+    tt: Ригведа
+    udm: Ригведа
+    uk: Ріґведа
+    ur: رگ وید
+    uz: Rigveda
+    vi: Rigveda
+    wuu: 梨俱吠陀
+    yue: 梨俱吠陀
+    zh: 梨俱吠陀
 ---
-
 # [[Rigveda]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Rigveda,727413|WD~Rigveda,727413]]  

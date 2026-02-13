@@ -1,28 +1,169 @@
 ---
 aliases:
+- anvadur relijiel
+- confesion rełijoza
+- confesiune religioasă
+- confesión relixiosa
+- confessione religiosa
+- confessió religiosa
+- denominacija
+- denominación religiosa
+- Denominación relixosa
+- denominasi agama
+- Denominasyon
+- denominatie
+- denomination religiose
+- denominationes
+- denominação religiosa
+- denominácia
+- diniy konfessiya
+- dénomination religieuse
+- enwad crefyddol
+- gauqbaiq
+- Giáo phái
+- konfesija
+- konfessii
+- Konfession
+- Konfessioun
+- Madhehebu
+- mezhep
+- náboženská denominace
+- releegious denonimation
+- religia subgrupo
+- religijska denominacija
+- religious denomination
+- religiöst samfund
+- religiøst samfund
+- religiøst samfunn
+- sainaicme creidimh
+- Sinesbide
+- tabaqabandii mazhabiy
+- uskkond
+- uskontokunta
+- vallási felekezet
+- verska denominacija
+- vjeroispovijed
+- wyznanie
+- Θρησκευτικό δόγμα
+- Вероизповедание
+- вероисповед
+- вероисповест
+- канфесія
+- канфэсія
+- конфесія
+- конфессия
+- табакабандии мазҳабӣ
+- կրոնադավանանք
+- זרם דתי
+- طائفة دينية
+- فرقهٔ مذهبی
+- فرقو
+- مذاہب عالم کے فرقے
+- مذہبی فرقے
+- ধর্মীয় সম্প্রদায়
+- นิกาย
+- 宗派
+- 教派
+- 교파
 has_id_wikidata: Q13414953
-studied_by: "[[_Standards/WikiData/WD~sociology_of_religion,461659]]"
+studied_by: '[[_Standards/WikiData/WD~sociology_of_religion,461659]]'
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-  - "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
-  - "[[_Standards/WikiData/WD~religious_organization,1530022]]"
-  - "[[_Standards/WikiData/WD~association_of_churches,4809719]]"
-  - "[[_Standards/WikiData/WD~de_nominalist_church,107434367]]"
-  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
-  - "[[_Standards/WikiData/WD~religion,9174]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Infobox_religious_group,6583952]]"
-subclass_of: "[[_Standards/WikiData/WD~religion_or_world_view,71966963]]"
-part_of: "[[_Standards/WikiData/WD~religion,9174]]"
+- '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
+- '[[_Standards/WikiData/WD~religious_organization,1530022]]'
+- '[[_Standards/WikiData/WD~association_of_churches,4809719]]'
+- '[[_Standards/WikiData/WD~de_nominalist_church,107434367]]'
+- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+- '[[_Standards/WikiData/WD~religion,9174]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_religious_group,6583952]]'
+subclass_of: '[[_Standards/WikiData/WD~religion_or_world_view,71966963]]'
+part_of: '[[_Standards/WikiData/WD~religion,9174]]'
 OpenStreetMap_key: denomination
 Commons_category: Religious denominations
+dv_has_:
+  name_:
+    ar: طائفة دينية
+    ast: Denominación relixosa
+    bcl: Denominasyon
+    be: канфесія
+    be-tarask: канфэсія
+    bg: Вероизповедание
+    bn: ধর্মীয় সম্প্রদায়
+    br: anvadur relijiel
+    bs: religijska denominacija
+    ca: confessió religiosa
+    cs: náboženská denominace
+    cy: enwad crefyddol
+    da: religiøst samfund
+    de: Konfession
+    de-ch: Konfession
+    el: Θρησκευτικό δόγμα
+    en: religious denomination
+    en-ca: Religious denomination
+    en-gb: religious denomination
+    eo: religia subgrupo
+    es: denominación religiosa
+    et: uskkond
+    eu: Sinesbide
+    fa: فرقهٔ مذهبی
+    fi: uskontokunta
+    fr: dénomination religieuse
+    ga: sainaicme creidimh
+    gl: confesión relixiosa
+    he: זרם דתי
+    hr: vjeroispovijed
+    hsb: konfesija
+    hu: vallási felekezet
+    hy: կրոնադավանանք
+    ia: denomination religiose
+    id: denominasi agama
+    it: confessione religiosa
+    ja: 教派
+    kaa: diniy konfessiya
+    kk: Конфессия
+    kk-cyrl: конфессия
+    ko: 교파
+    la: denominationes
+    lb: Konfessioun
+    lt: denominacija
+    mk: вероисповед
+    nb: religiøst samfunn
+    nl: denominatie
+    pl: wyznanie
+    pnb: مذہبی فرقے
+    pt: denominação religiosa
+    pt-br: denominação religiosa
+    ro: confesiune religioasă
+    ru: конфессия
+    sco: releegious denonimation
+    sd: فرقو
+    sh: religijska denominacija
+    sk: denominácia
+    sl: verska denominacija
+    sr: вероисповест
+    sv: religiöst samfund
+    sw: Madhehebu
+    tg: табакабандии мазҳабӣ
+    tg-latn: tabaqabandii mazhabiy
+    th: นิกาย
+    tr: mezhep
+    tt: конфессия
+    uk: конфесія
+    ur: مذاہب عالم کے فرقے
+    vec: confesion rełijoza
+    vep: konfessii
+    vi: Giáo phái
+    yue: 教派
+    za: gauqbaiq
+    zh: 教派
+    zh-hant: 宗派
 ---
-
 # [[Religious_Denomination]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Religious_denomination,13414953|WD~Religious_denomination,13414953]]  

@@ -1,9 +1,63 @@
 ---
 aliases:
-  - Galeaspida
+- Cá giáp mũ
+- Galeaspida
+- Galeaspides
+- Galeàspid
+- גלספידים
+- کلاهخودسپران
+- ガレアスピス目
+- 盔甲魚綱
+- 盔甲鱼綱
+- 盔甲鱼纲
 title: Galeaspida
+has_id_wikidata: Q134311
+dv_has_:
+  name_:
+    an: Galeaspida
+    ast: Galeaspida
+    bg: Galeaspida
+    ca: Galeàspid
+    ceb: Galeaspida
+    de: Galeaspida
+    en: Galeaspida
+    eo: Galeaspida
+    es: Galeaspida
+    eu: Galeaspida
+    ext: Galeaspida
+    fa: کلاهخودسپران
+    fi: Galeaspida
+    fr: Galeaspides
+    ga: Galeaspida
+    gl: Galeaspida
+    he: גלספידים
+    hu: Galeaspida
+    ia: Galeaspida
+    ie: Galeaspida
+    io: Galeaspida
+    it: Galeaspida
+    ja: ガレアスピス目
+    la: Galeaspida
+    mul: Galeaspida
+    nl: Galeaspida
+    oc: Galeaspida
+    pl: Galeaspida
+    pt: Galeaspida
+    pt-br: Galeaspida
+    ro: Galeaspida
+    ru: Galeaspida
+    sk: Galeaspida
+    sq: Galeaspida
+    uk: Galeaspida
+    vi: Cá giáp mũ
+    vo: Galeaspida
+    war: Galeaspida
+    zh: 盔甲鱼纲
+    zh-cn: 盔甲鱼纲
+    zh-hans: 盔甲鱼纲
+    zh-hant: 盔甲魚綱
+    zh-tw: 盔甲鱼綱
 ---
-
 # [[Galeaspida]]
 
 ![Galeaspida](Galeaspida/galeaspida.gif)  

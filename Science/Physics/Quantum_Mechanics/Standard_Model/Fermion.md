@@ -1,10 +1,55 @@
 ---
 aliases:
-  - Fermion
+- feirmíón
+- fermioi
+- Fermion
+- fermiona
+- fermionas
+- fermione
+- fermioni
+- fermionid
+- fermiono
+- fermions
+- fermioon
+- fermiyon
+- fermião
+- fermió
+- fermión
+- fermíeind
+- firmioni
+- férmion
+- Hié-mī-cṳ̄
+- φερμιόνιο
+- пермион
+- ферміён
+- ферміон
+- фермион
+- фэрміён
+- ֆերմիոն
+- פרמיון
+- فرميون
+- فرمیون
+- فیرمیون
+- فێرمیۆن
+- फर्मिऑन
+- फर्मियान
+- ফার্মিয়ন
+- ফাৰ্মিয়ন
+- ਫਰਮੀਔਨ
+- பெர்மியான்
+- ಫರ್ಮಿಯಾನ್
+- ഫെർമിയോൺ
+- เฟอร์มิออน
+- ဖာမီယွန်
+- ფერმიონი
+- フェルミ粒子
+- 費米子
+- 费米子
+- 페르미온
 has_id_wikidata: Q44363
 has_characteristic:
-  - '[[_Standards/WikiData/WD~Pauli_exclusion_principle,131594]]'
-  - '[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]'
+- '[[_Standards/WikiData/WD~Pauli_exclusion_principle,131594]]'
+- '[[_Standards/WikiData/WD~Fermi_Dirac_statistics,274072]]'
 has_superpartner: '[[_Standards/WikiData/WD~sfermion,2347008]]'
 instance_of: '[[_Standards/WikiData/WD~type_of_quantum_particle,22675015]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Fermion-article.ogg
@@ -19,8 +64,118 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 IEV_number: 113-05-12
 P8189: 987007529000905171
 Commons_category: Fermions
+dv_has_:
+  name_:
+    af: fermion
+    an: fermión
+    ar: فرميون
+    as: ফাৰ্মিয়ন
+    ast: fermión
+    az: fermiyon
+    azb: فرمیون
+    be: ферміён
+    be-tarask: фэрміён
+    bg: фермион
+    bn: ফার্মিয়ন
+    bs: fermion
+    ca: fermió
+    cdo: Hié-mī-cṳ̄
+    ckb: فێرمیۆن
+    cs: fermion
+    cv: фермион
+    da: fermion
+    de: Fermion
+    el: φερμιόνιο
+    en: fermion
+    eo: fermiono
+    es: fermión
+    et: fermionid
+    eu: fermioi
+    fa: فرمیون
+    fi: fermioni
+    fr: fermion
+    fy: fermion
+    ga: feirmíón
+    gd: fermion
+    gl: fermión
+    he: פרמיון
+    hi: फर्मियान
+    hr: fermion
+    hu: fermion
+    hy: ֆերմիոն
+    ia: fermion
+    id: fermion
+    io: fermiono
+    is: fermíeind
+    it: fermione
+    ja: フェルミ粒子
+    ka: ფერმიონი
+    kk: Фермион
+    kn: ಫರ್ಮಿಯಾನ್
+    ko: 페르미온
+    ky: фермион
+    la: fermion
+    li: fermion
+    lt: fermionas
+    lv: fermioni
+    mhr: пермион
+    mk: фермион
+    ml: ഫെർമിയോൺ
+    mn: фермион
+    mr: फर्मिऑन
+    ms: fermion
+    mul: fermion
+    my: ဖာမီယွန်
+    nb: fermion
+    nds: Fermion
+    nl: fermion
+    nn: fermion
+    oc: fermion
+    os: фермион
+    pa: ਫਰਮੀਔਨ
+    pl: fermion
+    pnb: فرمیون
+    pt: fermião
+    pt-br: férmion
+    rki: ဖာမီယွန်
+    ro: fermion
+    ru: фермион
+    scn: firmioni
+    sco: fermion
+    se: fermiona
+    sgs: fermions
+    sh: fermion
+    sk: fermión
+    sl: fermion
+    smn: fermioon
+    sms: fermioon
+    sr: фермион
+    sr-ec: фермион
+    sr-el: fermion
+    su: Fermion
+    sv: fermion
+    ta: பெர்மியான்
+    th: เฟอร์มิออน
+    tl: Fermion
+    tr: fermiyon
+    tt: фермион
+    uk: ферміон
+    ur: فیرمیون
+    uz: fermion
+    vi: fermion
+    war: fermion
+    wuu: 费米子
+    yue: 費米子
+    zh: 费米子
+    zh-cn: 费米子
+    zh-hans: 费米子
+    zh-hant: 費米子
+    zh-hk: 費米子
+    zh-mo: 費米子
+    zh-my: 费米子
+    zh-sg: 费米子
+    zh-tw: 費米子
 ---
-
 # [[Fermion]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fermion,44363|WD~Fermion,44363]] 

@@ -1,15 +1,86 @@
 ---
 aliases:
+- convergence technologique
+- Convergencia tecnológica
+- Convergensa tecnològica
+- Convergentia technologica
+- convergentie (ICT)
+- convergenza
+- convergència tecnològica
+- convergência tecnológica
+- Converxencia teunolóxica
+- Haɗuwa da fasaha
+- Hội tụ công nghệ
+- konbergentzia teknologiko
+- Konvergensi teknologi
+- technological convergence
+- technologische Konvergenz
+- tehnološka konvergenca
+- Teknologinen konvergenssi
+- Yakınsama
+- Конвергенція інформаційних технологій
+- технологическая конвергенция
+- Технологична конвергенция
+- технолошка конвергенција
+- тэхналягічная канвэргенцыя
+- התלכדות מדיה
+- تقارب تقني
+- طرزیاتی تقارب
+- فناوری همگرا
+- தொழில்நுட்பக் குவிதல்
+- 技术融合
+- 技術的収束
+- 技術融合
+- 科技融合
+- 융합기술
 has_id_wikidata: Q2207328
 subclass_of:
-  - "[[_Standards/WikiData/WD~phenomenon,483247]]"
-  - "[[_Standards/WikiData/WD~trend,1514415]]"
-  - "[[_Standards/WikiData/WD~process,3249551]]"
-facet_of: "[[_Standards/WikiData/WD~technology_industry,21157865]]"
-different_from: "[[_Standards/WikiData/WD~integration,55166859]]"
+- '[[_Standards/WikiData/WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~trend,1514415]]'
+- '[[_Standards/WikiData/WD~process,3249551]]'
+facet_of: '[[_Standards/WikiData/WD~technology_industry,21157865]]'
+different_from: '[[_Standards/WikiData/WD~integration,55166859]]'
 Commons_category: Technological convergence
+dv_has_:
+  name_:
+    ar: تقارب تقني
+    ast: Converxencia teunolóxica
+    be-tarask: тэхналягічная канвэргенцыя
+    bg: Технологична конвергенция
+    ca: convergència tecnològica
+    de: technologische Konvergenz
+    en: technological convergence
+    en-ca: Technological convergence
+    en-gb: Technological convergence
+    es: Convergencia tecnológica
+    eu: konbergentzia teknologiko
+    fa: فناوری همگرا
+    fi: Teknologinen konvergenssi
+    fr: convergence technologique
+    ha: Haɗuwa da fasaha
+    he: התלכדות מדיה
+    id: Konvergensi teknologi
+    it: convergenza
+    ja: 技術的収束
+    ko: 융합기술
+    la: Convergentia technologica
+    nl: convergentie (ICT)
+    pms: Convergensa tecnològica
+    pt: convergência tecnológica
+    pt-br: Convergência tecnológica
+    ru: технологическая конвергенция
+    sl: tehnološka konvergenca
+    sr: технолошка конвергенција
+    sr-ec: технолошка конвергенција
+    ta: தொழில்நுட்பக் குவிதல்
+    tr: Yakınsama
+    uk: Конвергенція інформаційних технологій
+    ur: طرزیاتی تقارب
+    vi: Hội tụ công nghệ
+    yue: 科技融合
+    zh: 技術融合
+    zh-cn: 技术融合
 ---
-
 # [[Technological_Convergence]] 
 
 #is_/same_as :: [[../WikiData/WD~Technological_convergence,2207328|WD~Technological_convergence,2207328]]  

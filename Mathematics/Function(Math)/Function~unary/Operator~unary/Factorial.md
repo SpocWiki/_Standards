@@ -1,40 +1,203 @@
 ---
 aliases:
-  - Fakultät
-  - Factorial
+- Aðfeldi
+- Factorial
+- Factoriala
+- Factorialis
+- factorielle
+- faculteit
+- Faktoriaal
+- Faktorial
+- faktorialas
+- Faktoriali
+- faktorialo
+- Faktorijel
+- faktoriál
+- faktoriális
+- Faktoriāls
+- Faktorïal
+- Faktöriyel
+- Fakulteit
+- fakultet
+- Fakultet i matematikk
+- fakulteta
+- Fakultät
+- fatoral
+- Fatorial
+- fattoriale
+- Fatturiali
+- Faturiaal
+- Giai thừa
+- iolrán
+- kertoma
+- ne'o
+- Paktoryal
+- silnia
+- Vakaveika
+- Παραγοντικό
+- фактарыял
+- факторіал
+- факторијел
+- факториал
+- Факториел
+- Ֆակտորիալ
+- עצרת
+- عاملي
+- عاملیہ
+- فاكتورىيال
+- فاکتوریل
+- فاکتۆریێل
+- क्रमगुणित
+- গৌণিক
+- ਕ੍ਰਮਗੁਣਿਤ
+- தொடர் பெருக்கம்
+- ಫ್ಯಾಕ್ಟೋರಿಯಲ್
+- ഫാക്റ്റോറിയൽ
+- ක්රමාරෝපිතය
+- แฟกทอเรียล
+- მათემატიკური ფაქტორიალი
+- ፋክቶሪያል
+- 阶乘
+- 階乗
+- 階乘
+- 계승
 has_id_wikidata: Q120976
 studied_by:
-  - '[[_Standards/WikiData/WD~combinatorics,76592]]'
-  - '[[_Standards/WikiData/WD~number_theory,12479]]'
+- '[[_Standards/WikiData/WD~combinatorics,76592]]'
+- '[[_Standards/WikiData/WD~number_theory,12479]]'
 different_from: '[[_Standards/WikiData/WD~gamma_function,190573]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~integer_sequence,2297602]]'
-  - '[[_Standards/WikiData/WD~integer_valued_function,19856468]]'
+- '[[_Standards/WikiData/WD~integer_sequence,2297602]]'
+- '[[_Standards/WikiData/WD~integer_valued_function,19856468]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-  - '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
-  - '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Art_of_Computer_Programming,_Volume_1_Fundamental_Algorithms,_3rd_edition,47755251]]'
+- '[[_Standards/WikiData/WD~ISO_80000_2_2019_Quantities_and_units_Part_2_Mathematics,109490582]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 codomain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
 definition_domain: '[[_Standards/WikiData/WD~set_of_non_negative_integers,28777634]]'
 input_set: '[[_Standards/WikiData/WD~set_of_integers,47007735]]'
 in_defining_formula:
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
-  - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x220F;</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo></mstyle></mrow></math>
+- <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x220F;</mo></mstyle></mrow></math>
 worst_case_space_complexity: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>O</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mstyle></mrow></math>
 OmegaWiki_Defined_Meaning: 405815
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>n</mi><mo stretchy="false">!</mo><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mo data-mjx-texclass="OPEN">{</mo><mtable columnspacing="1em" rowspacing="4pt" columnalign="left left"><mtr><mtd><mstyle displaystyle="true" scriptlevel="0"><munderover><mo stretchy="false">&#x220F;</mo><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi>k</mi><mo stretchy="false">=</mo><mn>1</mn></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>n</mi></mrow></munderover></mstyle><mi>k</mi></mtd><mtd><mi>n</mi><mo>&gt;</mo><mn>0</mn></mtd></mtr><mtr><mtd><mn>1</mn></mtd><mtd><mi>n</mi><mo stretchy="false">=</mo><mn>0</mn></mtd></mtr></mtable><mo fence="true" stretchy="true" symmetric="true" data-mjx-texclass="CLOSE"></mo></mrow></mstyle></mrow></math>
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Euler%20factorial%20paper.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Factorial%201-5.png
 Stack_Exchange_tag:
-  - https://math.stackexchange.com/tags/factorial
-  - https://stackoverflow.com/tags/factorial
+- https://math.stackexchange.com/tags/factorial
+- https://stackoverflow.com/tags/factorial
 described_at_URL:
-  - https://www.openmath.org/cd/integer1.xhtml#factorial
-  - https://www.w3.org/TR/MathML3/chapter4.html#contm.factorial
+- https://www.openmath.org/cd/integer1.xhtml#factorial
+- https://www.w3.org/TR/MathML3/chapter4.html#contm.factorial
 Commons_category: Factorial (function)
+dv_has_:
+  name_:
+    af: Fakulteit
+    am: ፋክቶሪያል
+    ar: عاملي
+    ast: Factorial
+    az: Faktorial
+    ba: факториал
+    be: фактарыял
+    be-tarask: фактарыял
+    bg: Факториел
+    bn: গৌণিক
+    bs: Faktorijel
+    ca: factorial
+    ckb: فاکتۆریێل
+    cs: faktoriál
+    cv: Факториал
+    da: Fakultet
+    de: Fakultät
+    el: Παραγοντικό
+    en: factorial
+    en-ca: Factorial
+    en-gb: factorial
+    eo: faktorialo
+    es: factorial
+    et: Faktoriaal
+    eu: Faktorial
+    fa: فاکتوریل
+    fi: kertoma
+    fj: Vakaveika
+    fr: factorielle
+    ga: iolrán
+    gl: factorial
+    he: עצרת
+    hi: क्रमगुणित
+    hr: Faktorijel
+    hu: faktoriális
+    hy: Ֆակտորիալ
+    ia: Factorial
+    iba: Faktorial
+    id: Faktorial
+    io: Faktorialo
+    is: Aðfeldi
+    it: fattoriale
+    ja: 階乗
+    jbo: ne'o
+    ka: მათემატიკური ფაქტორიალი
+    kk: Факториал
+    kk-arab: فاكتورىيال
+    kk-cn: فاكتورىيال
+    kk-cyrl: Факториал
+    kk-kz: Факториал
+    kk-latn: Faktorïal
+    kk-tr: Faktorïal
+    kn: ಫ್ಯಾಕ್ಟೋರಿಯಲ್
+    ko: 계승
+    la: Factorialis
+    lfn: fatoral
+    lmo: Faturiaal
+    lt: faktorialas
+    lv: Faktoriāls
+    lzh: 階乘
+    mad: Faktorial
+    mk: Факториел
+    ml: ഫാക്റ്റോറിയൽ
+    mr: क्रमगुणित
+    ms: Faktorial
+    nb: fakultet
+    nl: faculteit
+    nn: Fakultet i matematikk
+    oc: Factoriala
+    pa: ਕ੍ਰਮਗੁਣਿਤ
+    pl: silnia
+    pms: Fatorial
+    pt: fatorial
+    pt-br: fatorial
+    ro: factorial
+    ru: факториал
+    scn: Fatturiali
+    sh: Faktorijel
+    si: ක්රමාරෝපිතය
+    sk: Faktoriál
+    sl: fakulteta
+    sq: Faktoriali
+    sr: факторијел
+    sr-ec: Факторијел
+    sr-el: Faktorijel
+    sv: fakultet
+    ta: தொடர் பெருக்கம்
+    th: แฟกทอเรียล
+    tl: Paktoryal
+    tr: Faktöriyel
+    uk: факторіал
+    ur: عاملیہ
+    uz: Faktorial
+    vi: Giai thừa
+    wuu: 阶乘
+    yue: 階乘
+    zh: 階乘
+    zh-cn: 阶乘
+    zh-hans: 阶乘
+    zh-hant: 階乘
+    zh-hk: 階乘
+    zh-sg: 阶乘
+    zh-tw: 階乘
 ---
-
 # [[Factorial]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Factorial,120976|WD~Factorial,120976]] 

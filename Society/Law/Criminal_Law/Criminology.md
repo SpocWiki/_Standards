@@ -1,33 +1,91 @@
 ---
-has_time_started: 1900-01-01 
+has_time_started: 1900-01-01
 aliases:
-  - criminal
-  - Criminology
+- coireolaíocht
+- criminal
+- criminologia
+- criminologie
+- Criminology
+- criminología
+- criminolojia
+- criminoloxía
+- Hoān-choē-ha̍k
+- kriminalistiek
+- kriminologi
+- kriminologia
+- Kriminologie
+- kriminologiija
+- kriminologija
+- kriminologije
+- Kriminologiya
+- kriminologjia
+- Kriminolohiya
+- kriminoloji
+- kriminoloogia
+- Kriminoloġija
+- kriminoloģija
+- kriminológia
+- krimscienco
+- kryminologia
+- Krïmïnologïya
+- mātauranga taihara
+- pangaweruh indik parilaksana nenten patut
+- tawannasî
+- Torfedouriezh
+- troseddeg
+- tội phạm học
+- εγκληματολογία
+- кримінологія
+- Криминологија
+- криминология
+- крыміналёгія
+- крыміналогія
+- Ҷурмшиносӣ
+- քրեաբանություն
+- קרימינולוגיה
+- تاوانناسی
+- جرمشناسی
+- جرميات
+- جرمپوهنه
+- جرمیات
+- علم الجريمة
+- كرىيمىينولوگىييا
+- کرِمِنالوجی
+- کریمینولوژی
+- अपराध शास्त्र
+- অপরাধ বিজ্ঞান
+- ਅਪਰਾਧ ਵਿਗਿਆਨ
+- ಅಪರಾಧ-ಶಾಸ್ತ್ರ
+- ക്രിമിനോളജി
+- อาชญาวิทยา
+- 犯罪学
+- 犯罪學
+- 범죄학
 has_id_wikidata: Q161733
 Basisklassifikation: 86.41
 Commons_category: Criminology
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Sechster_Band,130477825]]'
 Dewey_Decimal_Classification: 364
 different_from: '[[_Standards/WikiData/WD~criminalistics,43504]]'
 GitHub_topic: criminology
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Biosocial_criminology,4915287]]'
-  - '[[_Standards/WikiData/WD~Public_criminology,60761185]]'
-  - '[[_Standards/WikiData/WD~rural_criminology,110965311]]'
+- '[[_Standards/WikiData/WD~Biosocial_criminology,4915287]]'
+- '[[_Standards/WikiData/WD~Public_criminology,60761185]]'
+- '[[_Standards/WikiData/WD~rural_criminology,110965311]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SNA%20segment.png
 inception: 1900-01-01T00:00:00Z
 instance_of:
-  - '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-  - '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-  - '[[_Standards/WikiData/WD~academic_major,4671286]]'
-  - '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
 is_the_study_of:
-  - '[[_Standards/WikiData/WD~crime,83267]]'
-  - '[[_Standards/WikiData/WD~deviance,623184]]'
+- '[[_Standards/WikiData/WD~crime,83267]]'
+- '[[_Standards/WikiData/WD~deviance,623184]]'
 Krugosvet_article: ekonomika-i-pravo/kriminologiya
 MeSH_tree_code: I01.198
 OmegaWiki_Defined_Meaning: 1020518
@@ -36,12 +94,123 @@ practiced_by: '[[_Standards/WikiData/WD~criminologist,8142883]]'
 Provenio_UUID: fe3ecb20-8e35-4ad5-a6a1-2edfc62da5f0
 subclass_of: '[[_Standards/WikiData/WD~social_science,34749]]'
 topic_s_main_template:
-  - '[[_Standards/WikiData/WD~Template_Crimin,7741825]]'
-  - '[[_Standards/WikiData/WD~Q22833278,22833278]]'
+- '[[_Standards/WikiData/WD~Template_Crimin,7741825]]'
+- '[[_Standards/WikiData/WD~Q22833278,22833278]]'
 UMLS_CUI: C0010330
 U_S_National_Archives_Identifier: 10638880
+dv_has_:
+  name_:
+    af: kriminalistiek
+    ar: علم الجريمة
+    ast: criminoloxía
+    az: Kriminologiya
+    azb: کریمینولوژی
+    ban: pangaweruh indik parilaksana nenten patut
+    bcl: Kriminolohiya
+    be: крыміналогія
+    be-tarask: крыміналёгія
+    bg: Криминология
+    bn: অপরাধ বিজ্ঞান
+    br: Torfedouriezh
+    bs: Kriminologija
+    ca: criminologia
+    ckb: تاوانناسی
+    cs: kriminologie
+    cy: troseddeg
+    da: kriminologi
+    de: Kriminologie
+    el: εγκληματολογία
+    en: criminology
+    en-gb: criminology
+    eo: krimscienco
+    es: criminología
+    et: kriminoloogia
+    eu: kriminologia
+    fa: جرمشناسی
+    fi: kriminologia
+    fr: criminologie
+    ga: coireolaíocht
+    gl: Criminoloxía
+    he: קרימינולוגיה
+    hi: अपराध शास्त्र
+    hr: kriminologija
+    hu: kriminológia
+    hy: քրեաբանություն
+    id: Kriminologi
+    it: criminologia
+    ja: 犯罪学
+    jv: Kriminologi
+    kaa: Kriminologiya
+    kk: Криминология
+    kk-arab: كرىيمىينولوگىييا
+    kk-cn: كرىيمىينولوگىييا
+    kk-cyrl: Криминология
+    kk-kz: Криминология
+    kk-latn: Krïmïnologïya
+    kk-tr: Krïmïnologïya
+    kn: ಅಪರಾಧ-ಶಾಸ್ತ್ರ
+    ko: 범죄학
+    ku: tawannasî
+    ky: Криминология
+    la: Criminologia
+    lb: Kriminologie
+    lfn: criminolojia
+    lt: kriminologija
+    lv: kriminoloģija
+    mi: mātauranga taihara
+    mk: Криминологија
+    ml: ക്രിമിനോളജി
+    ms: Kriminologi
+    mt: Kriminoloġija
+    nan: Hoān-choē-ha̍k
+    nb: kriminologi
+    nl: criminologie
+    nn: Kriminologi
+    oc: Criminologia
+    pa: ਅਪਰਾਧ ਵਿਗਿਆਨ
+    pl: kryminologia
+    ps: جرمپوهنه
+    pt: criminologia
+    pt-br: criminologia
+    ro: criminologie
+    ru: криминология
+    rue: Криминология
+    sco: criminology
+    sd: جرميات
+    se: kriminologiija
+    sh: Kriminologija
+    sje: kriminologija
+    sk: kriminológia
+    skr: کرِمِنالوجی
+    sl: kriminologija
+    sma: kriminologije
+    smj: kriminologija
+    smn: kriminologia
+    sms: kriminologia
+    sq: kriminologjia
+    sr: криминологија
+    sr-ec: Криминологија
+    sr-el: Kriminologija
+    sv: kriminologi
+    tg: Ҷурмшиносӣ
+    th: อาชญาวิทยา
+    tr: kriminoloji
+    tt: криминология
+    uk: кримінологія
+    ur: جرمیات
+    uz: Kriminologiya
+    vi: tội phạm học
+    war: Kriminolohiya
+    wuu: 犯罪学
+    yue: 犯罪學
+    zh: 犯罪學
+    zh-cn: 犯罪学
+    zh-hans: 犯罪学
+    zh-hant: 犯罪學
+    zh-hk: 犯罪學
+    zh-sg: 犯罪学
+    zh-tw: 犯罪學
 ---
-
 # [[Criminology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Criminology,161733]] 

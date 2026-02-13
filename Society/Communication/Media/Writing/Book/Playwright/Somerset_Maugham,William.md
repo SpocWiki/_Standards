@@ -1,63 +1,99 @@
 ---
 aliases:
-  - William Somerset Maugham
-  - Somerset Maugham
-  - Somerset_Maugham,William
-  - Somerset Maugham,William
+- Gulielmus Somerset Maugham
+- Samerset Mom
+- Somerset Maugham
+- Somerset Maugham,William
+- Somersets Moems
+- Somerset_Maugham,William
+- Uilyam Somerset Moem
+- W. Somerset Maugham
+- William Somerset Maugham
+- Ουίλιαμ Σόμερσετ Μομ
+- Ўільям Сомэрсэт Моэм
+- Вільям Сомерсет Моем
+- Вилијам Сомерсет Мом
+- Вильям Сомэрсэт Моэм
+- Моэм Сомерсет
+- Самерсет Мом
+- Сомерсет Моэм
+- Съмърсет Моъм
+- Уільям Сомерсет Моэм
+- Уильям Сомерсет Моэм
+- Սոմերսեթ Մոեմ
+- סומרסט מוהם
+- سامرست موآم
+- سومرست موم
+- ولیم سامرسٹ مام
+- ویلیام سامرست موآم
+- ویلیام سۆمەرسێت مۆم
+- विलियम समरसेट मौघम
+- सॉमरसेट मॉम
+- উইলিয়াম সমারসেট মম্
+- ਸਮਰਸੈੱਟ ਮਾਮ
+- வில்லியம் சோமர்செட் மாம்
+- విలియమ్ సోమర్ సెట్ మామ్
+- ವಿಲಿಯಮ್ ಸೋಮರ್ಸೆಟ್ ಮೌಮ್
+- സോമർസെറ്റ് മോം
+- უილიამ სომერსეტ მოემი
+- サマセット・モーム
+- 威廉·萨默塞特·毛姆
+- 威廉·薩默塞特·毛姆
+- 윌리엄 서머싯 몸
 has_id_wikidata: Q134942
 educated_at:
-  - '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
-  - "[[_Standards/WikiData/WD~King's_College_London,245247]]"
-  - "[[_Standards/WikiData/WD~St_Thomas's_Hospital_Medical_School,7595546]]"
+- '[[_Standards/WikiData/WD~Heidelberg_University,151510]]'
+- "[[_Standards/WikiData/WD~King's_College_London,245247]]"
+- "[[_Standards/WikiData/WD~St_Thomas's_Hospital_Medical_School,7595546]]"
 country_of_citizenship:
-  - '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
-  - '[[_Standards/WikiData/WD~France,142]]'
-  - '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom_of_Great_Britain_and_Ireland,174193]]'
+- '[[_Standards/WikiData/WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
 employer: '[[_Standards/WikiData/WD~Secret_Intelligence_Service,184560]]'
 medical_condition: '[[_Standards/WikiData/WD~stuttering,186676]]'
 has_works_in_the_collection: '[[_Standards/WikiData/WD~National_Gallery_of_Art,214867]]'
 occupation:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~physician_writer,551835]]'
-  - '[[_Standards/WikiData/WD~army_scout,2314719]]'
-  - '[[_Standards/WikiData/WD~literary_critic,4263842]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~prose_writer,12144794]]'
-  - '[[_Standards/WikiData/WD~screenwriter,28389]]'
-  - '[[_Standards/WikiData/WD~writer,36180]]'
-  - '[[_Standards/WikiData/WD~physician,39631]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~physician_writer,551835]]'
+- '[[_Standards/WikiData/WD~army_scout,2314719]]'
+- '[[_Standards/WikiData/WD~literary_critic,4263842]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~prose_writer,12144794]]'
+- '[[_Standards/WikiData/WD~screenwriter,28389]]'
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~physician,39631]]'
 field_of_work:
-  - '[[_Standards/WikiData/WD~playwright,214917]]'
-  - '[[_Standards/WikiData/WD~novelist,6625963]]'
-  - '[[_Standards/WikiData/WD~literature,8242]]'
-  - '[[_Standards/WikiData/WD~medicine,11190]]'
-  - '[[_Standards/WikiData/WD~drama,25372]]'
+- '[[_Standards/WikiData/WD~playwright,214917]]'
+- '[[_Standards/WikiData/WD~novelist,6625963]]'
+- '[[_Standards/WikiData/WD~literature,8242]]'
+- '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~drama,25372]]'
 place_of_birth: '[[_Standards/WikiData/WD~8th_arrondissement_of_Paris,270230]]'
 notable_work:
-  - "[[_Standards/WikiData/WD~The_Razor's_Edge,759329]]"
-  - '[[_Standards/WikiData/WD~Of_Human_Bondage,1195793]]'
+- "[[_Standards/WikiData/WD~The_Razor's_Edge,759329]]"
+- '[[_Standards/WikiData/WD~Of_Human_Bondage,1195793]]'
 archives_at:
-  - '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
-  - '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
-  - '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
+- '[[_Standards/WikiData/WD~University_of_Victoria_Special_Collections_and_University_Archives,47518588]]'
 sibling:
-  - '[[_Standards/WikiData/WD~Frederic_Maugham,_1st_Viscount_Maugham,2271495]]'
-  - '[[_Standards/WikiData/WD~Henry_Neville_Maugham,107220251]]'
+- '[[_Standards/WikiData/WD~Frederic_Maugham,_1st_Viscount_Maugham,2271495]]'
+- '[[_Standards/WikiData/WD~Henry_Neville_Maugham,107220251]]'
 bibliography: '[[_Standards/WikiData/WD~W._Somerset_Maugham_bibliography,3884094]]'
 personal_library_at: '[[_Standards/WikiData/WD~Harry_Ransom_Center,5671855]]'
 sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 child: '[[_Standards/WikiData/WD~Mary_Elizabeth_Maugham,6779420]]'
 spouse: '[[_Standards/WikiData/WD~Syrie_Maugham,7663337]]'
 given_name:
-  - '[[_Standards/WikiData/WD~William,12344159]]'
-  - '[[_Standards/WikiData/WD~Somerset,21296579]]'
+- '[[_Standards/WikiData/WD~William,12344159]]'
+- '[[_Standards/WikiData/WD~Somerset,21296579]]'
 award_received:
-  - '[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]'
-  - '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Toulouse,126415081]]'
+- '[[_Standards/WikiData/WD~Companion_of_Honour,16947520]]'
+- '[[_Standards/WikiData/WD~honorary_doctor_of_the_University_of_Toulouse,126415081]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-  - '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
-  - '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~BEIC_Digital_Library,51955019]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
 documentation_files_at: '[[_Standards/WikiData/WD~SAPA_Foundation,_Swiss_Archive_of_the_Performing_Arts,50920401]]'
 family_name: '[[_Standards/WikiData/WD~Q56539799,56539799]]'
 copyright_status_as_a_creator: '[[_Standards/WikiData/WD~works_protected_by_copyrights,73555012]]'
@@ -88,8 +124,102 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/W.%20Somerset%20Ma
 ISNI: 0000000121371781
 NLC_authorities: 000263003
 U_S_National_Archives_Identifier: 10581505
+dv_has_:
+  name_:
+    af: William Somerset Maugham
+    an: William Somerset Maugham
+    ar: سومرست موم
+    arz: سومرست موم
+    az: Uilyam Somerset Moem
+    azb: سامرست موآم
+    ba: Сомерсет Моэм
+    be: Уільям Сомерсет Моэм
+    be-tarask: Ўільям Сомэрсэт Моэм
+    bg: Съмърсет Моъм
+    bn: উইলিয়াম সমারসেট মম্
+    bs: William Somerset Maugham
+    ca: William Somerset Maugham
+    ckb: ویلیام سۆمەرسێت مۆم
+    cs: William Somerset Maugham
+    cv: Сомерсет Моэм
+    cy: W. Somerset Maugham
+    da: William Somerset Maugham
+    de: William Somerset Maugham
+    ee: W. Somerset Maugham
+    el: Ουίλιαμ Σόμερσετ Μομ
+    en: William Somerset Maugham
+    eo: William Somerset Maugham
+    es: William Somerset Maugham
+    et: William Somerset Maugham
+    eu: William Somerset Maugham
+    fa: ویلیام سامرست موآم
+    fi: W. Somerset Maugham
+    fr: William Somerset Maugham
+    frr: William Somerset Maugham
+    ga: William Somerset Maugham
+    gd: Somerset Maugham
+    gl: William Somerset Maugham
+    he: סומרסט מוהם
+    hi: विलियम समरसेट मौघम
+    hr: William Somerset Maugham
+    hu: William Somerset Maugham
+    hy: Սոմերսեթ Մոեմ
+    id: William Somerset Maugham
+    it: William Somerset Maugham
+    ja: サマセット・モーム
+    ka: უილიამ სომერსეტ მოემი
+    kk: Моэм Сомерсет
+    kn: ವಿಲಿಯಮ್ ಸೋಮರ್ಸೆಟ್ ಮೌಮ್
+    ko: 윌리엄 서머싯 몸
+    kw: W. Somerset Maugham
+    la: Gulielmus Somerset Maugham
+    lb: William Somerset Maugham
+    li: William Somerset Maugham
+    lt: William Somerset Maugham
+    lv: Somersets Moems
+    mdf: Вильям Сомэрсэт Моэм
+    mk: Вилијам Сомерсет Мом
+    ml: സോമർസെറ്റ് മോം
+    mr: सॉमरसेट मॉम
+    ms: W. Somerset Maugham
+    mul: William Somerset Maugham
+    nb: William Somerset Maugham
+    nl: William Somerset Maugham
+    nn: William Somerset Maugham
+    pa: ਸਮਰਸੈੱਟ ਮਾਮ
+    pl: William Somerset Maugham
+    pt: W. Somerset Maugham
+    pt-br: W. Somerset Maugham
+    ro: William Somerset Maugham
+    ru: Уильям Сомерсет Моэм
+    sco: W. Somerset Maugham
+    sh: William Somerset Maugham
+    sk: William Somerset Maugham
+    sl: William Somerset Maugham
+    sq: William Somerset Maugham
+    sr: Самерсет Мом
+    sr-ec: Самерсет Мом
+    sr-el: Samerset Mom
+    sv: W. Somerset Maugham
+    ta: வில்லியம் சோமர்செட் மாம்
+    te: విలియమ్ సోమర్ సెట్ మామ్
+    tr: William Somerset Maugham
+    tt: Сомерсет Моэм
+    uk: Вільям Сомерсет Моем
+    ur: ولیم سامرسٹ مام
+    uz: William Somerset Maugham
+    vi: William Somerset Maugham
+    wuu: 威廉·萨默塞特·毛姆
+    xmf: უილიამ სომერსეტ მოემი
+    yue: Somerset Maugham
+    zh: 威廉·萨默塞特·毛姆
+    zh-cn: 威廉·萨默塞特·毛姆
+    zh-hans: 威廉·萨默塞特·毛姆
+    zh-hant: 威廉·薩默塞特·毛姆
+    zh-hk: 威廉·薩默塞特·毛姆
+    zh-sg: 威廉·萨默塞特·毛姆
+    zh-tw: 威廉·薩默塞特·毛姆
 ---
-
 # [[Somerset_Maugham,William]] 
 
 #has_/created_/quote :: There are three rules for writing a novel. Unfortunately, no one knows what they are.

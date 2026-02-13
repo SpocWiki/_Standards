@@ -1,9 +1,46 @@
 ---
 aliases:
-  - Suessenguthia
+- Suessenguthia
 title: Suessenguthia
+has_id_wikidata: Q5235726
+dv_has_:
+  name_:
+    an: Suessenguthia
+    ast: Suessenguthia
+    bg: Suessenguthia
+    ca: Suessenguthia
+    ceb: Suessenguthia
+    de: Suessenguthia
+    en: Suessenguthia
+    eo: Suessenguthia
+    es: Suessenguthia
+    eu: Suessenguthia
+    ext: Suessenguthia
+    fi: Suessenguthia
+    fr: Suessenguthia
+    ga: Suessenguthia
+    gl: Suessenguthia
+    hr: Suessenguthia
+    ia: Suessenguthia
+    ie: Suessenguthia
+    io: Suessenguthia
+    it: Suessenguthia
+    la: Suessenguthia
+    mul: Suessenguthia
+    nl: Suessenguthia
+    oc: Suessenguthia
+    pl: Suessenguthia
+    pt: Suessenguthia
+    pt-br: Suessenguthia
+    ro: Suessenguthia
+    ru: Suessenguthia
+    sq: Suessenguthia
+    sv: Suessenguthia
+    uk: Suessenguthia
+    vi: Suessenguthia
+    vo: Suessenguthia
+    war: Suessenguthia
 ---
-
 # [[Suessenguthia]] 
 
 ![ ](Suessenguthia/5592.jpg)

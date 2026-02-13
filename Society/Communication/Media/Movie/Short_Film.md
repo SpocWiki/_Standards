@@ -1,20 +1,191 @@
 ---
 aliases:
+- cort metratge
+- cortometraggio
+- cortometraje
+- court métrage
+- curta-metragem
+- curtametraxe
+- curtiumetraxe
+- curtmetratge
+- Curtumitraggiu
+- ffilm fer
+- filem pendek
+- Film berr
+- film de scurt metraj
+- film krótkometrażowy
+- film labur
+- film pendek
+- Filmi i shkurtër
+- gearrscannán
+- kiriata poto
+- Koarte film
+- korte film
+- kortfilm
+- Kratki film
+- kratkometražni film
+- krátky film
+- krátký film
+- Kuerzfilm
+- kurtefîlm
+- Kurzfilm
+- Kısa film
+- lyhytelokuva
+- Lühifilm
+- maikling pelikula
+- mallonga filmo
+- oanehisfilbma
+- Pellicula brevis
+- phim ngắn
+- Qisqa hajmli film
+- qısametrajlı film
+- rövidfilm
+- short film
+- sinii ŋmahi
+- trumpametražis filmas
+- uánihiselleekove
+- vuäʹniǩjieʹllikartt
+- īsfilma
+- ταινία μικρού μήκους
+- кароткаметражны фільм
+- кароткамэтражны фільм
+- короткометражний фільм
+- короткометражный фильм
+- краткометражни филм
+- кусометражен филм
+- късометражен филм
+- кыска метражлы фильм
+- филм хурдметража
+- կարճամետրաժ ֆիլմ
+- סרט קצר
+- فلم قصير
+- فيلم قصير
+- فیلم کوتاه
+- مختصر فلم
+- کورتەفیلم
+- लघु फ़िल्म
+- लघुपट
+- চুটিছবি
+- স্বল্পদৈর্ঘ্য চলচ্চিত্র
+- ਲਘੂ ਫ਼ਿਲਮ
+- குறும்படம்
+- ಕಿರುಚಿತ್ರ
+- ഹ്രസ്വ ചിത്രം
+- ภาพยนตร์สั้น
+- 短片
+- 短篇电影
+- 短編映画
+- 電影短片
+- 단편 영화
 has_id_wikidata: Q24862
 instance_of:
-  - "[[_Standards/WikiData/WD~film_format,759853]]"
-  - "[[_Standards/WikiData/WD~type_of_cinematic_work,110900120]]"
-has_characteristic: "[[_Standards/WikiData/WD~duration,2199864]]"
-subclass_of: "[[_Standards/WikiData/WD~film,11424]]"
+- '[[_Standards/WikiData/WD~film_format,759853]]'
+- '[[_Standards/WikiData/WD~type_of_cinematic_work,110900120]]'
+has_characteristic: '[[_Standards/WikiData/WD~duration,2199864]]'
+subclass_of: '[[_Standards/WikiData/WD~film,11424]]'
 less_than:
-  - "[[_Standards/WikiData/WD~medium_length_film,24865]]"
-  - "[[_Standards/WikiData/WD~feature_film,24869]]"
-opposite_of: "[[_Standards/WikiData/WD~feature_film,24869]]"
+- '[[_Standards/WikiData/WD~medium_length_film,24865]]'
+- '[[_Standards/WikiData/WD~feature_film,24869]]'
+opposite_of: '[[_Standards/WikiData/WD~feature_film,24869]]'
 duration: 45
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shortfilm.png
 Commons_category: Short films
+dv_has_:
+  name_:
+    acm: فلم قصير
+    af: kortfilm
+    ar: فلم قصير
+    arz: فيلم قصير
+    as: চুটিছবি
+    ast: curtiumetraxe
+    az: qısametrajlı film
+    be: кароткаметражны фільм
+    be-tarask: кароткамэтражны фільм
+    bg: късометражен филм
+    bn: স্বল্পদৈর্ঘ্য চলচ্চিত্র
+    br: Film berr
+    bs: kratkometražni film
+    ca: curtmetratge
+    ckb: کورتەفیلم
+    cs: krátký film
+    cy: ffilm fer
+    da: kortfilm
+    dag: sinii ŋmahi
+    de: Kurzfilm
+    de-ch: Kurzfilm
+    el: ταινία μικρού μήκους
+    en: short film
+    en-ca: short film
+    en-gb: short film
+    eo: mallonga filmo
+    es: cortometraje
+    et: Lühifilm
+    eu: film labur
+    fa: فیلم کوتاه
+    fi: lyhytelokuva
+    fr: court métrage
+    fy: Koarte film
+    ga: gearrscannán
+    gl: curtametraxe
+    he: סרט קצר
+    hi: लघु फ़िल्म
+    hr: Kratki film
+    hu: rövidfilm
+    hy: կարճամետրաժ ֆիլմ
+    id: film pendek
+    it: cortometraggio
+    ja: 短編映画
+    kn: ಕಿರುಚಿತ್ರ
+    ko: 단편 영화
+    ku-latn: kurtefîlm
+    la: Pellicula brevis
+    lb: Kuerzfilm
+    lt: trumpametražis filmas
+    lv: īsfilma
+    mi: kiriata poto
+    mk: кусометражен филм
+    ml: ഹ്രസ്വ ചിത്രം
+    mr: लघुपट
+    ms: filem pendek
+    nb: kortfilm
+    nds: Kortfilm
+    nl: korte film
+    nn: kortfilm
+    oc: cort metratge
+    pa: ਲਘੂ ਫ਼ਿਲਮ
+    pl: film krótkometrażowy
+    pt: curta-metragem
+    pt-br: Curta-metragem
+    ro: film de scurt metraj
+    ru: короткометражный фильм
+    scn: Curtumitraggiu
+    se: oanehisfilbma
+    sh: Kratki film
+    sk: krátky film
+    sl: kratki film
+    smn: uánihiselleekove
+    sms: vuäʹniǩjieʹllikartt
+    sq: Filmi i shkurtër
+    sr: краткометражни филм
+    sr-ec: краткометражни филм
+    sr-el: kratkometražni film
+    sv: kortfilm
+    ta: குறும்படம்
+    tg: филм хурдметража
+    th: ภาพยนตร์สั้น
+    tl: maikling pelikula
+    tr: Kısa film
+    tt: кыска метражлы фильм
+    tt-cyrl: кыска метражлы фильм
+    uk: короткометражний фільм
+    ur: مختصر فلم
+    uz: Qisqa hajmli film
+    vi: phim ngắn
+    wuu: 短篇电影
+    yue: 電影短片
+    zh: 短片
+    zh-hant: 短片
 ---
-
 # [[Short_Film]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Short_film,24862|WD~Short_film,24862]]  

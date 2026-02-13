@@ -1,4 +1,225 @@
-
+---
+has_id_wikidata: Q253414
+dv_has_:
+  name_:
+    af: FIFA
+    am: የዓለም አቀፍ እግር ኳስ ማኅበር
+    ang: FIFA
+    ar: الاتحاد الدولي لكرة القدم
+    ary: ليتيحاد الدولي ديال كورة
+    arz: فيفا
+    as: ফিফা
+    ast: FIFA
+    az: FİFA
+    azb: فیفا
+    ba: ФИФА
+    ban: FIFA
+    bar: FIFA
+    bcl: Internasyunal na Federasyon kan Asosasyon nin Futbol
+    be: ФІФА
+    be-tarask: ФІФА
+    bew: Serèkat Bola Tendang Antérobangsa
+    bg: ФИФА
+    bho: फीफा
+    blk: ဖီဖာ
+    bn: ফিফা
+    br: Kevread Etrebroadel Football Association
+    bs: FIFA
+    ca: FIFA
+    ce: ФИФА
+    ceb: FIFA
+    ckb: فیفا
+    co: FIFA
+    cs: FIFA
+    cy: Ffederasiwn Rhyngwladol y Cymdeithasau Pêl-droed
+    da: FIFA
+    de: FIFA
+    de-ch: FIFA
+    din: Fifa
+    diq: FIFA
+    dty: फिफा
+    el: FIFA
+    en: FIFA
+    en-ca: FIFA
+    en-gb: FIFA
+    en-us: FIFA
+    eo: FIFA
+    es: FIFA
+    et: FIFA
+    eu: FIFA
+    fa: فیفا
+    fi: Kansainvälinen jalkapalloliitto
+    fo: FIFA
+    fr: Fédération internationale de football association
+    fy: FIFA
+    ga: FIFA
+    gl: FIFA
+    gn: FIFA
+    gsw: FIFA
+    gu: ફિફા
+    ha: FIFA
+    haw: ʻO nā hui o ka poʻokela poʻokela poʻokela FIFA
+    he: פיפ"א
+    hi: फीफा
+    hif: FIFA
+    hr: FIFA
+    hu: Nemzetközi Labdarúgó-szövetség
+    hy: ՖԻՖԱ
+    ia: FIFA
+    id: FIFA
+    ie: FIFA
+    io: FIFA
+    is: Alþjóðaknattspyrnusambandið
+    it: FIFA
+    ja: 国際サッカー連盟
+    jv: Fédération Internationale de Football Association
+    ka: ფიფა
+    kaa: FIFA
+    kk: FIFA
+    km: ហ្វីហ្វា
+    kn: ಫೀಫಾ
+    ko: 국제 축구 연맹
+    ks: فی فا
+    ku: FIFA
+    la: FIFA
+    lb: Fédération Internationale de Football Association
+    li: FIFA
+    lmo: FIFA
+    lo: FIFA
+    lt: FIFA
+    lv: FIFA
+    mai: फिफा
+    mdf: ФИФА
+    mhr: ФИФА
+    min: FIFA
+    mk: ФИФА
+    ml: ഫിഫ
+    mn: ФИФА
+    mr: फिफा
+    ms: FIFA
+    ms-arab: فيفا
+    mt: FIFA
+    mul: Fédération Internationale de Football Association
+    my: ဖီဖာ
+    mzn: فیفا
+    nan: FIFA
+    nap: FIFA
+    nb: FIFA
+    ne: फिफा
+    nl: FIFA
+    nn: FIFA
+    nov: FIFA
+    om: FIFA
+    os: ФИФА
+    pa: ਫੀਫਾ
+    pap: FIFA
+    pl: FIFA
+    pms: FIFA
+    pnb: فیفا
+    ps: فيفا
+    pt: FIFA
+    pt-br: FIFA
+    rm: FIFA
+    ro: Fédération Internationale de Football Association
+    ru: ФИФА
+    sah: FIFA
+    sat: ᱯᱷᱤᱯᱷᱟ
+    sc: FIFA
+    scn: FIFA
+    sco: FIFA
+    sd: ايسوسيئيشن فٽبال جي بين الاقوامي فيڊريشن
+    sh: FIFA
+    shi: FIFA
+    si: ෆිෆා
+    sk: Medzinárodná futbalová federácia
+    sl: FIFA
+    so: FIFA
+    sq: FIFA
+    sr: ФИФА
+    sr-ec: ФИФА
+    su: FIFA
+    sv: Fifa
+    sw: FIFA
+    szl: FIFA
+    ta: பன்னாட்டுக் கால்பந்து சங்கங்களின் கூட்டமைப்பு
+    te: అంతర్జాతీయ ఫుట్బాల్ క్రీడా సమాఖ్య
+    tg: ФИФА
+    th: สหพันธ์ฟุตบอลระหว่างประเทศ
+    tk: FIFA
+    tl: FIFA
+    tr: FIFA
+    tt: Футбол Ассоциацияләренең Халыкара Федерациясе
+    uk: ФІФА
+    ur: فیفا
+    uz: FIFA
+    vec: Federasion Internasionałe de Bałon
+    vi: Liên đoàn Bóng đá Quốc tế
+    war: FIFA
+    wuu: 国际足联
+    xh: FIFA
+    xmf: ფიფა
+    yo: FIFA
+    yue: 國際足球協會
+    zgh: ⵜⴰⵎⵓⵏⵜ ⵜⴰⴳⵔⴰⵖⵍⴰⵏⵜ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ
+    zh: 国际足球联合会
+    zh-cn: 国际足球联合会
+    zh-hans: 国际足球联合会
+    zh-hant: 國際足球總會
+    zh-hk: 國際足球協會
+    zh-mo: 國際足球協會
+    zh-my: 国际足球联合会
+    zh-sg: 国际足球联合会
+    zh-tw: 國際足球總會
+aliases:
+- Alþjóðaknattspyrnusambandið
+- Federasion Internasionałe de Bałon
+- Ffederasiwn Rhyngwladol y Cymdeithasau Pêl-droed
+- FIFA
+- Fédération Internationale de Football Association
+- FİFA
+- Internasyunal na Federasyon kan Asosasyon nin Futbol
+- Kansainvälinen jalkapalloliitto
+- Kevread Etrebroadel Football Association
+- Liên đoàn Bóng đá Quốc tế
+- Medzinárodná futbalová federácia
+- Nemzetközi Labdarúgó-szövetség
+- Serèkat Bola Tendang Antérobangsa
+- ʻO nā hui o ka poʻokela poʻokela poʻokela FIFA
+- ФІФА
+- ФИФА
+- Футбол Ассоциацияләренең Халыкара Федерациясе
+- ՖԻՖԱ
+- פיפ"א
+- الاتحاد الدولي لكرة القدم
+- ايسوسيئيشن فٽبال جي بين الاقوامي فيڊريشن
+- فيفا
+- فی فا
+- فیفا
+- ليتيحاد الدولي ديال كورة
+- फिफा
+- फीफा
+- ফিফা
+- ਫੀਫਾ
+- ફિફા
+- பன்னாட்டுக் கால்பந்து சங்கங்களின் கூட்டமைப்பு
+- అంతర్జాతీయ ఫుట్బాల్ క్రీడా సమాఖ్య
+- ಫೀಫಾ
+- ഫിഫ
+- ෆිෆා
+- สหพันธ์ฟุตบอลระหว่างประเทศ
+- ဖီဖာ
+- ფიფა
+- የዓለም አቀፍ እግር ኳስ ማኅበር
+- ហ្វីហ្វា
+- ᱯᱷᱤᱯᱷᱟ
+- ⵜⴰⵎⵓⵏⵜ ⵜⴰⴳⵔⴰⵖⵍⴰⵏⵜ ⵏ ⵜⵛⴰⵎⵎⴰ ⵏ ⵓⴹⴰⵕ
+- 国际足球联合会
+- 国际足联
+- 国際サッカー連盟
+- 國際足球協會
+- 國際足球總會
+- 국제 축구 연맹
+---
 # [[FIFA]] 
 
 #is_/same_as :: [[WD~FIFA,253414]] 

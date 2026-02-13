@@ -1,4 +1,86 @@
-
+---
+has_id_wikidata: Q201652
+dv_has_:
+  name_:
+    af: Apple II-reeks
+    ar: آبل 2
+    arz: آپل 2
+    be-tarask: сямейства Apple II
+    bg: Apple II
+    bn: অ্যাপল ২
+    bs: Apple II
+    ca: Apple II
+    cs: Apple II
+    da: Apple II
+    de: Apple-II-Serie
+    el: Apple II
+    en: Apple II series
+    en-ca: Apple II series
+    en-gb: Apple II series
+    eo: Apple II
+    es: Apple II
+    et: Apple II
+    eu: Apple II
+    fa: اپل II
+    fi: Apple II
+    fr: Apple II
+    gl: Apple II
+    he: Apple II
+    hr: Apple II
+    is: Apple II
+    it: Apple II
+    ja: Apple II
+    ka: Apple II
+    ko: 애플 II
+    la: Apple II
+    lld: Apple II series
+    lmo: Apple II
+    ms: Siri Apple II
+    nb: Apple II
+    nl: Apple II-familie
+    nn: Apple II
+    pl: Apple II
+    pnb: ایپل II
+    pt: Série Apple II
+    pt-br: Apple II
+    ro: seria Apple II
+    ru: Apple II
+    sh: Apple II
+    si: Apple II
+    sk: Apple II
+    sl: serija Apple II
+    sr: Apple II
+    sr-ec: Apple II
+    sr-el: Apple II
+    sv: Apple II
+    uk: Apple II
+    wuu: Apple II
+    zh: 蘋果II
+    zh-cn: Apple II
+    zh-hans: Apple II
+    zh-hant: Apple II
+    zh-hk: Apple II
+    zh-sg: Apple II
+    zh-tw: Apple II
+aliases:
+- Apple II
+- Apple II series
+- Apple II-familie
+- Apple II-reeks
+- Apple-II-Serie
+- seria Apple II
+- serija Apple II
+- Siri Apple II
+- Série Apple II
+- сямейства Apple II
+- آبل 2
+- آپل 2
+- اپل II
+- ایپل II
+- অ্যাপল ২
+- 蘋果II
+- 애플 II
+---
 ## #has_/text_of_/abstract 
 
 > **Apple II** ("apple two", stylized as `Apple ][`) is a series of microcomputers 

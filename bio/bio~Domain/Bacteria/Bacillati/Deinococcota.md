@@ -1,4 +1,37 @@
-
+---
+has_id_wikidata: Q88926185
+dv_has_:
+  name_:
+    ast: Deinococcota
+    bg: Deinococcota
+    ceb: Deinococcota
+    cs: Deinococcota
+    de: Deinococcota
+    en: Deinococcota
+    es: Deinococcota
+    fi: Deinococcota
+    fr: Deinococcota
+    ga: Deinococcota
+    it: Deinococcota
+    ja: デイノコッカス門
+    la: Deinococcota
+    mul: Deinococcota
+    nl: Deinococcota
+    pl: Deinococcota
+    pt: Deinococcota
+    ro: Deinococcota
+    ru: Deinococcota
+    sq: Deinococcota
+    uk: Deinococcota
+    uz: Deinococcota
+    vi: Deinococcota
+    war: Deinococcota
+    zh: 奇异球菌门
+aliases:
+- Deinococcota
+- デイノコッカス門
+- 奇异球菌门
+---
 # [[Deinococcota]] 
 
 

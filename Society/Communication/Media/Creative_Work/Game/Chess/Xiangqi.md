@@ -1,19 +1,55 @@
 ---
 aliases:
-  - 象棋
-  - xiàngqí
-  - Chinese chess
-  - elephant chess
-  - Xiangqi
+- ajedrez chino
+- axedrez chinu
+- chhiūⁿ-kî
+- chiangtsi
+- Chinees schaken
+- Chinese chess
+- chiông-gì
+- cờ tướng
+- elephant chess
+- Geizciengh
+- kinesisk sjakk
+- Kineski šah
+- ktajski šah
+- kínai sakk
+- musi Sansi
+- siang-čchi
+- Sineesk skaken
+- sänci
+- Xiangqi
+- xiàngqí
+- Çin şahmatı
+- ĉina ŝako
+- Čínsky šach
+- ķīniešu šahs
+- Σιάνγκτσι
+- Кинески шах
+- сянці
+- сянци
+- שיאנג-צ'י
+- الشطرنج الصيني
+- شطرنج چینی
+- شیانگچی
+- श्यांगची
+- ഷിയാങ്ചി
+- หมากรุกจีน
+- མིག་མངས།
+- სიანგცი
+- シャンチー
+- 中國象棋
+- 象棋
+- 샹치
 has_id_wikidata: Q191448
 instance_of:
-  - '[[_Standards/WikiData/WD~board_game,131436]]'
-  - '[[_Standards/WikiData/WD~chess_variant,299191]]'
-  - '[[_Standards/WikiData/WD~two_player_game,7858742]]'
-  - '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~board_game,131436]]'
+- '[[_Standards/WikiData/WD~chess_variant,299191]]'
+- '[[_Standards/WikiData/WD~two_player_game,7858742]]'
+- '[[_Standards/WikiData/WD~hobby,47728]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~mind_sport,1188693]]'
-  - '[[_Standards/WikiData/WD~chess,718]]'
+- '[[_Standards/WikiData/WD~mind_sport,1188693]]'
+- '[[_Standards/WikiData/WD~chess,718]]'
 derivative_work: '[[_Standards/WikiData/WD~simplified_mahjong,3277759]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828553,22828553]]'
@@ -22,28 +58,100 @@ country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 maximum_number_of_players: 2
 minimum_number_of_players: 2
 native_label:
-  - 象棋
-  - chiông-gì
-  - siong-khì
-  - cờ tướng
-  - 象棋
-  - 象棋
-  - chhiūⁿ-kî
-  - 象棋
+- 象棋
+- chiông-gì
+- siong-khì
+- cờ tướng
+- 象棋
+- 象棋
+- chhiūⁿ-kî
+- 象棋
 schematic:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%81%E3%83%BC%E3%81%AE%E5%88%9D%E6%9C%9F%E9%85%8D%E7%BD%AE%E5%9B%B3.png
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20co%20tuong.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Interactive%20Chinese%20Chess%20board.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Xiangqi%20Board.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Xiangqi%20pezzi%20e%20nomi.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%81%E3%83%BC%E3%81%AE%E5%88%9D%E6%9C%9F%E9%85%8D%E7%BD%AE%E5%9B%B3.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Ban%20co%20tuong.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Interactive%20Chinese%20Chess%20board.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Xiangqi%20Board.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Xiangqi%20pezzi%20e%20nomi.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Echecs%20chinois.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Xiangqi%20Banner.jpg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Xiangqi%20pictogram.svg
 Stack_Exchange_tag: https://chess.stackexchange.com/tags/xiangqi
 Commons_category: Xiangqi
 Baidu_Tieba_name: 象棋
+dv_has_:
+  name_:
+    af: chiangtsi
+    ar: الشطرنج الصيني
+    ast: axedrez chinu
+    az: Çin şahmatı
+    be-tarask: сянці
+    bo: མིག་མངས།
+    ca: xiangqi
+    cdo: chiông-gì
+    cs: siang-čchi
+    da: xiangqi
+    de: Xiangqi
+    el: Σιάνγκτσι
+    en: xiangqi
+    eo: ĉina ŝako
+    es: ajedrez chino
+    et: xiangqi
+    eu: xiangqi
+    fa: شطرنج چینی
+    fi: xiangqi
+    fr: xiangqi
+    fy: Sineesk skaken
+    gl: xiangqi
+    hak: 中國象棋
+    he: שיאנג-צ'י
+    hi: श्यांगची
+    hu: kínai sakk
+    id: xiangqi
+    it: xiangqi
+    ja: シャンチー
+    ka: სიანგცი
+    ko: 샹치
+    lb: Xiangqi
+    lfn: xiangqi
+    lv: ķīniešu šahs
+    ml: ഷിയാങ്ചി
+    ms: xiangqi
+    mt: Xiangqi
+    nan: chhiūⁿ-kî
+    nb: xiangqi
+    nl: Chinees schaken
+    nn: kinesisk sjakk
+    pl: xiangqi
+    pnb: شیانگچی
+    pt: xiangqi
+    pt-br: xiangqi
+    ro: xiangqi
+    ru: сянци
+    sh: Kineski šah
+    sk: Čínsky šach
+    sl: ktajski šah
+    sr: Кинески шах
+    sr-ec: Кинески шах
+    sr-el: Kineski šah
+    sv: xiangqi
+    th: หมากรุกจีน
+    tok: musi Sansi
+    tr: xiangqi
+    uk: сянці
+    ur: شیانگچی
+    vep: sänci
+    vi: cờ tướng
+    wuu: 象棋
+    yue: 象棋
+    za: Geizciengh
+    zh: 象棋
+    zh-cn: 象棋
+    zh-hans: 象棋
+    zh-hant: 象棋
+    zh-hk: 象棋
+    zh-sg: 象棋
+    zh-tw: 象棋
 ---
-
 # [[Xiangqi]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Xiangqi,191448|WD~Xiangqi,191448]]  

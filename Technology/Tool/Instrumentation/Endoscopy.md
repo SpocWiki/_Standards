@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q580725
+---
+
 
 # [[Endoscopy]] 
 

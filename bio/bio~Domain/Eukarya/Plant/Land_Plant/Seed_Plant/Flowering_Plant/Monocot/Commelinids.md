@@ -1,4 +1,78 @@
-
+---
+has_id_wikidata: Q868546
+dv_has_:
+  name_:
+    ar: كوملينيدة
+    ast: commelinids
+    az: Kommelinidlər
+    be-tarask: Камэлініды
+    bg: commelinids
+    ca: Commelínides
+    ceb: commelinids
+    cy: Comelinid
+    de: Commeliniden
+    en: commelinids
+    es: Commelinidae
+    eu: Commelinidae
+    fa: دولپهایهای کاملینید
+    fi: Commelinids
+    fr: Commelinidées
+    ga: commelinids
+    hu: commelinids
+    id: Commelinids
+    ilo: commelinids
+    it: Commelinidae
+    ja: ツユクサ類
+    jv: Commelinids
+    ko: 닭의장풀군
+    la: Commelinidae
+    mk: Комелиниди
+    ms: Commelinids
+    mul: commelinids
+    nb: commelinider
+    nl: Commeliniden
+    nn: commelinidar
+    oc: Commelinids
+    pl: commelinids
+    pt: comelinídeas
+    ro: commelinids
+    ru: коммелиниды
+    sco: commelinids
+    sk: podenkové
+    sl: komelinide
+    sq: commelinids
+    sr: Komelinidi
+    sv: commelinider
+    ta: கமெலினிட்சு
+    uk: commelinids
+    vi: nhánh Thài lài
+    war: commelinids
+    zh: 鸭跖草类植物
+aliases:
+- Comelinid
+- comelinídeas
+- Commelinidae
+- commelinidar
+- Commeliniden
+- commelinider
+- commelinids
+- Commelinidées
+- Commelínides
+- komelinide
+- Komelinidi
+- Kommelinidlər
+- nhánh Thài lài
+- podenkové
+- Камэлініды
+- Комелиниди
+- коммелиниды
+- دولپهایهای کاملینید
+- كوملينيدة
+- கமெலினிட்சு
+- ツユクサ類
+- 鸭跖草类植物
+- 닭의장풀군
+---
 # [[Commelinids]] 
 
 

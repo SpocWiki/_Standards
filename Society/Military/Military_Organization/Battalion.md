@@ -1,26 +1,174 @@
 ---
 aliases:
-  - Battalion
+- bataillon
+- Batailloun
+- Batailoi
+- Batalhon
+- batalhão
+- batalion
+- batalionas
+- Batalioni (njësi ushtarake)
+- bataliono
+- bataliwn
+- batalión
+- bataliōn
+- bataljon
+- bataljons
+- batalló
+- batallón
+- Batalyon
+- battaglione
+- Battalion
+- bojna
+- cathlán
+- Gurdan
+- Herfylki
+- Pataljon
+- pataljoona
+- prapor
+- Prápor
+- Tabor
+- tabur
+- tiểu đoàn
+- Tōa-tūi
+- zászlóalj
+- τάγμα
+- батаљон
+- Баталјон
+- Баталион
+- батальён
+- батальйон
+- батальон
+- գումարտակ
+- גדוד
+- بٽالين
+- تیپ
+- كتيبة
+- كتيبه (وحده عسكريه)
+- گردان
+- गण
+- ব্যাটালিয়ন
+- பட்டாலியன்
+- ತುಕಡಿ
+- တပ်ရင်း
+- ბატალიონი
+- 大隊
+- 營
+- 营
+- 대대
 has_id_wikidata: Q6382533
 described_by_source:
-  - '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~subdivision,2663712]]'
-  - '[[_Standards/WikiData/WD~size_specific_military_unit,66737643]]'
+- '[[_Standards/WikiData/WD~subdivision,2663712]]'
+- '[[_Standards/WikiData/WD~size_specific_military_unit,66737643]]'
 different_from: '[[_Standards/WikiData/WD~Batalion,9166872]]'
 instance_of: '[[_Standards/WikiData/WD~military_unit_size_class,21506450]]'
 part_of: '[[_Standards/WikiData/WD~military,8473]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Australian%2011th%20Battalion%20group%20photo.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Military%20Symbol%20-%20Friendly%20Battalion%20or%20Squadron%20%28Solid%20Light%201.5x1%20Frame%29-%20Unspecified%20or%20Composite%20All-Arms%20%28NATO%20APP-6%29.svg
 Commons_category: Battalions
+dv_has_:
+  name_:
+    ar: كتيبة
+    arz: كتيبه (وحده عسكريه)
+    ast: Batallón
+    az: Tabor
+    be: батальён
+    be-tarask: батальён
+    bg: Батальон
+    bn: ব্যাটালিয়ন
+    bs: Bataljon
+    bxr: Батальон
+    ca: batalló
+    ckb: تیپ
+    cs: prapor
+    csb: batalión
+    cv: Батальон
+    cy: bataliwn
+    da: Bataljon
+    de: Bataillon
+    de-ch: Bataillon
+    dsb: bataljon
+    el: τάγμα
+    en: battalion
+    en-ca: battalion
+    en-gb: battalion
+    eo: bataliono
+    es: batallón
+    et: Pataljon
+    eu: Batailoi
+    fa: گردان
+    fi: pataljoona
+    fr: bataillon
+    fy: Bataljon
+    ga: cathlán
+    gl: batallón
+    he: גדוד
+    hr: bojna
+    hu: zászlóalj
+    hy: գումարտակ
+    id: Batalyon
+    io: Bataliono
+    is: Herfylki
+    it: battaglione
+    ja: 大隊
+    jv: Batalyon
+    ka: ბატალიონი
+    kk: Батальон
+    kn: ತುಕಡಿ
+    ko: 대대
+    ku: Gurdan
+    lb: Batailloun
+    lt: batalionas
+    lv: bataljons
+    mk: Баталјон
+    mn: Батальон
+    ms: Batalion
+    my: တပ်ရင်း
+    nan: Tōa-tūi
+    nb: bataljon
+    nds: Bataillon
+    ne: गण
+    nl: bataljon
+    nn: bataljon
+    oc: Batalhon
+    pl: batalion
+    pt: batalhão
+    pt-br: batalhão
+    ro: batalion
+    ru: батальон
+    sd: بٽالين
+    sh: Bataljon
+    sk: Prápor
+    sl: bataljon
+    sq: Batalioni (njësi ushtarake)
+    sr: батаљон
+    sr-ec: батаљон
+    sr-el: bataljon
+    sv: bataljon
+    szl: bataliōn
+    ta: பட்டாலியன்
+    tg: Баталион
+    tr: tabur
+    tt: Батальон
+    tyv: Батальон
+    uk: батальйон
+    uz: Batalyon
+    vi: tiểu đoàn
+    wuu: 营
+    yue: 營
+    zh: 营
+    zh-hans: 营
+    zh-hant: 營
+    zh-tw: 營
 ---
-
 # [[Battalion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Battalion,6382533|WD~Battalion,6382533]] 

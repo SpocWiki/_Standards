@@ -1,46 +1,265 @@
 ---
 aliases:
-  - Horse flies
-  - deer flies
-  - Horse fly
-  - deer fly
-  - Bremse
-  - Tabanidae
-  - klegg
-  - Horse and Deer Flies
-  - dazen
-  - obadi
+- Aggug
+- Bauen
+- Beelen
+- Bimbals
+- Bremse
+- Bremsen
+- Bromsar
+- Brèim
+- bögölyfélék
+- bąkowate
+- Cleg
+- creabhar
+- Creithleag-nan-each
+- Dasfleegen
+- dazen
+- deer flies
+- deer fly
+- dunduri
+- Ezpara
+- Göyünlər
+- Horse and Deer Flies
+- Horse flies
+- Horse fly
+- Horse-fly
+- họ Ruồi trâu
+- klegg
+- Kleggjar
+- Klæger
+- Kurušnə
+- Mbutu
+- obadi
+- ovádovití
+- paarmat
+- Parmlased
+- Pikat
+- Piteuk
+- Sjeldaeze
+- Sodronen
+- Soʻnalar
+- Sparvos
+- Sığır sineği
+- Tabanidae
+- Tabano
+- tabànids
+- Tabánidos
+- Tak'a
+- Tăun
+- Tłʼézhii
+- Čopjäižed
+- Αλογόμυγα
+- Куырмбындз
+- Күлүмэн
+- Көгөөндөр
+- Кӯрмагас
+- лузь
+- ободи
+- Пăван
+- Пармы
+- Пормо
+- слепни
+- сляпні
+- Сона
+- сьлепні
+- штркли
+- ґедзі
+- Մոզեր
+- טבניים
+- خرمگس (حشره)
+- ذباب الخيل
+- سگ مهاز
+- گؤیونلر
+- ঘোড়া মাছি
+- மாட்டு ஈ
+- జోరీగ
+- ತೊಣಚಿ
+- เหลือบ
+- მაწუხელასებრნი
+- ᏓᎦᎦ
+- ᡳᠵᠠ
+- ⵉⵣⵉ ⵏ ⵉⵎⴽⵜⴰⵔⵏ
+- アブ科
+- 牛蠅
+- 虻
+- 虻科
+- 蝱
+- 등에
 has_id_wikidata: Q228241
 different_from:
-  - '[[_Standards/WikiData/WD~Musca_domestica,166111]]'
-  - '[[_Standards/WikiData/WD~brake,1534839]]'
+- '[[_Standards/WikiData/WD~Musca_domestica,166111]]'
+- '[[_Standards/WikiData/WD~brake,1534839]]'
 described_by_source:
-  - '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-  - '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-  - '[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]'
 parent_taxon:
-  - '[[_Standards/WikiData/WD~Tabanomorpha,855002]]'
-  - '[[../../../../../../../../../../WikiData/WD~Tabanoidea,1617308]]'
+- '[[_Standards/WikiData/WD~Tabanomorpha,855002]]'
+- '[[../../../../../../../../../../WikiData/WD~Tabanoidea,1617308]]'
 diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 ITIS_TSN: 130934
 taxon_common_name:
-  - klegg
-  - Horse and Deer Flies
-  - dazen
-  - obadi
+- klegg
+- Horse and Deer Flies
+- dazen
+- obadi
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Horse%20fly%20Tabanus%202.jpg
 EPPO_Code: 1TABAF
 UMLS_CUI: C0322988
 NBN_System_Key: NBNSYS0000050594
 Commons_category: Tabanidae
 taxon_name: Tabanidae
+dv_has_:
+  name_:
+    af: Tabanidae
+    an: Tabanidae
+    ar: ذباب الخيل
+    arz: ذباب الخيل
+    ast: Tabanidae
+    az: Göyünlər
+    azb: گؤیونلر
+    bar: Brèim
+    bcl: Tabano
+    be: сляпні
+    be-tarask: сьлепні
+    bg: ободи
+    bn: ঘোড়া মাছি
+    br: Tabanidae
+    ca: tabànids
+    ceb: Tabanidae
+    chr: ᏓᎦᎦ
+    co: Tabanidae
+    cs: ovádovití
+    cv: Пăван
+    cy: Tabanidae
+    da: Klæger
+    de: Bremsen
+    de-at: Tabanidae
+    de-ch: Bremsen
+    el: Αλογόμυγα
+    en: Tabanidae
+    en-ca: Horse-fly
+    en-gb: Horse-fly
+    eo: Tabanidae
+    es: Tabanidae
+    et: Parmlased
+    eu: Ezpara
+    ext: Tabanidae
+    fa: خرمگس (حشره)
+    fi: paarmat
+    fr: Tabanidae
+    frp: Tabanidae
+    frr: Dasfleegen
+    fur: Tabanidae
+    ga: creabhar
+    gd: Creithleag-nan-each
+    gl: Tabánidos
+    gn: Mbutu
+    gsw: Tabanidae
+    he: טבניים
+    hr: Obadi
+    hu: bögölyfélék
+    hy: Մոզեր
+    ia: Tabanidae
+    id: Pikat
+    ie: Tabanidae
+    io: Tabano
+    is: Kleggjar
+    it: Tabanidae
+    ja: アブ科
+    ka: მაწუხელასებრნი
+    kab: Aggug
+    kg: Tabanidae
+    kk: Сона
+    kn: ತೊಣಚಿ
+    ko: 등에
+    kw: Sodronen
+    ky: Көгөөндөр
+    la: Tabanidae
+    lb: Beelen
+    li: Sjeldaeze
+    lij: Tabanidae
+    lt: Sparvos
+    lv: dunduri
+    lzh: 蝱
+    mg: Tabanidae
+    mhr: Пормо
+    min: Tabanidae
+    mk: штркли
+    mnc: ᡳᠵᠠ
+    mrj: Пармы
+    ms: Pikat
+    mul: Tabanidae
+    mzn: سگ مهاز
+    nap: Tabanidae
+    nb: klegg
+    nds: Bauen
+    nds-nl: Tabanidae
+    nl: dazen
+    nn: Tabanidae
+    nrm: Tabanidae
+    nv: Tłʼézhii
+    nys: Tabanidae
+    oc: Tabanidae
+    os: Куырмбындз
+    pcd: Tabanidae
+    pl: bąkowate
+    pms: Tabanidae
+    pt: Tabanidae
+    pt-br: Tabanidae
+    qu: Tak'a
+    rm: Tabanidae
+    ro: Tăun
+    ru: слепни
+    sah: Күлүмэн
+    sc: Tabanidae
+    scn: Tabanidae
+    sco: Cleg
+    sgs: Bimbals
+    sh: Obadi
+    sk: Tabanidae
+    sl: obadi
+    sq: Tabanidae
+    sr: Tabanidae
+    su: Piteuk
+    sv: Bromsar
+    sw: Tabanidae
+    ta: மாட்டு ஈ
+    te: జోరీగ
+    tg: Кӯрмагас
+    th: เหลือบ
+    tl: Tabanidae
+    tly: Kurušnə
+    tr: Sığır sineği
+    udm: лузь
+    uk: ґедзі
+    uz: Soʻnalar
+    vec: Tabanidae
+    vep: Čopjäižed
+    vi: họ Ruồi trâu
+    vls: Tabanidae
+    vo: Tabanidae
+    wa: Tabanidae
+    war: Tabanidae
+    wo: Tabanidae
+    wuu: 虻
+    yue: 牛蠅
+    zgh: ⵉⵣⵉ ⵏ ⵉⵎⴽⵜⴰⵔⵏ
+    zh: 虻科
+    zh-cn: 虻科
+    zh-hans: 虻科
+    zh-hant: 虻
+    zh-hk: 虻
+    zh-sg: 虻
+    zh-tw: 虻科
+    zu: Tabanidae
 ---
-
 # [[Tabanidae]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Tabanidae,228241|WD~Tabanidae,228241]]  

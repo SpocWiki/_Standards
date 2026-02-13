@@ -1,4 +1,75 @@
-
+---
+has_id_wikidata: Q1415386
+dv_has_:
+  name_:
+    af: Verspreiding van rykdom
+    ar: توزيع الثروة
+    ban: Distribusi kasugihan
+    ca: distribució de la riquesa
+    de: Vermögensverteilung
+    el: Κατανομή του πλούτου
+    en: distribution of wealth
+    eo: distribuo de riĉeco
+    es: Distribución de la renta
+    fa: توزیع درآمد
+    fr: répartition des richesses
+    he: הריכוז הגבוה של העושר
+    hr: Raspodjela bogatstva
+    hu: vagyoneloszlás
+    id: Distribusi kekayaan
+    ig: nkesa nke akụ na ụba
+    it: Distribuzione della ricchezza
+    mn: Баялгийн хууварилалт
+    ms: Agihan kekayaan
+    nl: welvaartsverdeling
+    pnb: تقسیم دولت
+    pt: Distribuição de renda
+    ru: Распределение богатства
+    sl: porazdelitev bogastva
+    sq: Shpërndarja e pasurisë
+    sr: расподела богатства
+    sr-ec: расподела богатства
+    sr-el: raspodela bogatstva
+    tr: Gelir dağılımı
+    ur: تقسیم دولت
+    vi: Phân phối của cải
+    yue: 財富分配
+    zh: 財富分配
+    zh-cn: 财富分配
+    zh-hant: 財富分配
+aliases:
+- Agihan kekayaan
+- distribució de la riquesa
+- Distribución de la renta
+- Distribuição de renda
+- distribuo de riĉeco
+- Distribusi kasugihan
+- Distribusi kekayaan
+- distribution of wealth
+- Distribuzione della ricchezza
+- Gelir dağılımı
+- nkesa nke akụ na ụba
+- Phân phối của cải
+- porazdelitev bogastva
+- raspodela bogatstva
+- Raspodjela bogatstva
+- répartition des richesses
+- Shpërndarja e pasurisë
+- vagyoneloszlás
+- Vermögensverteilung
+- Verspreiding van rykdom
+- welvaartsverdeling
+- Κατανομή του πλούτου
+- Баялгийн хууварилалт
+- расподела богатства
+- Распределение богатства
+- הריכוז הגבוה של העושר
+- تقسیم دولت
+- توزيع الثروة
+- توزیع درآمد
+- 財富分配
+- 财富分配
+---
 # [[Wealth_Inequality]] 
 
 #is_/more_than :: [[Income_Inequality]] 

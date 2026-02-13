@@ -1,33 +1,206 @@
 ---
 aliases:
-  - Antimaterie
-  - Antimatter
+- andefni
+- anti-matèria
+- antiaine
+- antianyag
+- antihmota
+- antijirim
+- antimaatiriin
+- antimadde
+- antimaddə
+- antimatearje
+- antimateri
+- antimateria
+- Antimaterie
+- antimaterija
+- Antimaterio
+- antimaterya
+- antimatière
+- Antimatter
+- antimatyè
+- antimatèria
+- antimatéri
+- antimatéria
+- antimedžiaga
+- antimodda
+- antisnov
+- antistof
+- antiviela
+- antymateria
+- frithdhamhna
+- gwrthfater
+- hoán-bu̍t-chit
+- huāng ŭk-cék
+- kundërlënda
+- nestöf
+- phản vật chất
+- αντιύλη
+- антибуаргъæд
+- антивещество
+- антизат
+- антиматдә
+- антиматерія
+- антиматерија
+- антиматерия
+- антиматтер
+- антыматэрыя
+- подмодда
+- հականյութ
+- אנטי-חומר
+- المادة المضادة
+- اینٹی میٹر
+- ضد مادہ
+- مادة مضادة
+- پادماده
+- एंटीमैटर
+- प्रतिकण
+- প্রতিপদার্থ
+- প্ৰতিপদাৰ্থ
+- ਉਲਟ-ਪਦਾਰਥ
+- எதிர்ப் பொருள்
+- ಪ್ರತಿದ್ರವ್ಯ
+- പ്രതിദ്രവ്യം
+- ප්රතිපදාර්ථය
+- ปฏิสสาร
+- ანტიმატერია
+- 反物質
+- 反物质
+- 반물질
 has_id_wikidata: Q83197
-different_from: "[[_Standards/WikiData/WD~dark_matter,79925]]"
+different_from: '[[_Standards/WikiData/WD~dark_matter,79925]]'
 does_not_have_part:
-  - "[[_Standards/WikiData/WD~meson,102742]]"
-  - "[[_Standards/WikiData/WD~common_matter,10547012]]"
-  - "[[_Standards/WikiData/WD~ordinary_quantum_particle,28726955]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_Antimatter,6681208]]"
-opposite_of: "[[_Standards/WikiData/WD~common_matter,10547012]]"
-union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+- '[[_Standards/WikiData/WD~meson,102742]]'
+- '[[_Standards/WikiData/WD~common_matter,10547012]]'
+- '[[_Standards/WikiData/WD~ordinary_quantum_particle,28726955]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Antimatter,6681208]]'
+opposite_of: '[[_Standards/WikiData/WD~common_matter,10547012]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 has_part_s_of_the_class:
-  - "[[_Standards/WikiData/WD~matter_composed_of_antiquarks,28736567]]"
-  - "[[_Standards/WikiData/WD~antileptonic_matter,28736576]]"
-  - "[[_Standards/WikiData/WD~antiquark_or_antilepton,28739684]]"
-subclass_of: "[[_Standards/WikiData/WD~matter,35758]]"
-OmegaWiki_Defined_Meaning: "789490"
-Dewey_Decimal_Classification: "539.721"
+- '[[_Standards/WikiData/WD~matter_composed_of_antiquarks,28736567]]'
+- '[[_Standards/WikiData/WD~antileptonic_matter,28736576]]'
+- '[[_Standards/WikiData/WD~antiquark_or_antilepton,28739684]]'
+subclass_of: '[[_Standards/WikiData/WD~matter,35758]]'
+OmegaWiki_Defined_Meaning: 789490
+Dewey_Decimal_Classification: 539.721
 Commons_category: Antimatter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ElectronPositronAnnihilation.svg
 Stack_Exchange_tag:
-  - https://astronomy.stackexchange.com/tags/antimatter
-  - https://physics.stackexchange.com/tags/antimatter
-  - https://worldbuilding.stackexchange.com/tags/antimatter
+- https://astronomy.stackexchange.com/tags/antimatter
+- https://physics.stackexchange.com/tags/antimatter
+- https://worldbuilding.stackexchange.com/tags/antimatter
 Wolfram_Language_entity_code: Entity["Concept", "Antimatter::9f8h5"]
 Krugosvet_article_archived_: nauka_i_tehnika/fizika/ANTIVESHCHESTVO.html
+dv_has_:
+  name_:
+    ar: مادة مضادة
+    ary: المادة المضادة
+    as: প্ৰতিপদাৰ্থ
+    ast: antimateria
+    az: antimaddə
+    be: антыматэрыя
+    be-tarask: антыматэрыя
+    bg: антиматерия
+    bn: প্রতিপদার্থ
+    bs: antimaterija
+    ca: antimatèria
+    cdo: huāng ŭk-cék
+    cs: antihmota
+    cy: gwrthfater
+    da: antistof
+    de: Antimaterie
+    el: αντιύλη
+    eml: anti-matèria
+    en: antimatter
+    en-ca: antimatter
+    en-gb: antimatter
+    en-us: antimatter
+    eo: antimaterio
+    es: antimateria
+    et: antiaine
+    eu: antimateria
+    fa: پادماده
+    fi: antimateria
+    fr: antimatière
+    fy: antimatearje
+    ga: frithdhamhna
+    gl: antimateria
+    he: אנטי-חומר
+    hi: एंटीमैटर
+    hr: antimaterija
+    ht: antimatyè
+    hu: antianyag
+    hy: հականյութ
+    ia: antimateria
+    id: antimateri
+    io: Antimaterio
+    is: andefni
+    it: antimateria
+    ja: 反物質
+    ka: ანტიმატერია
+    kk: антизат
+    kn: ಪ್ರತಿದ್ರವ್ಯ
+    ko: 반물질
+    ky: антизат
+    la: antimateria
+    lfn: antimateria
+    lt: antimedžiaga
+    lv: antiviela
+    mk: антиматерија
+    ml: പ്രതിദ്രവ്യം
+    mn: антиматтер
+    mr: प्रतिकण
+    ms: antijirim
+    nan: hoán-bu̍t-chit
+    nb: antimaterie
+    nl: antimaterie
+    nn: antimaterie
+    oc: antimatèria
+    om: antimaatiriin
+    os: антибуаргъæд
+    pa: ਉਲਟ-ਪਦਾਰਥ
+    pl: antymateria
+    pnb: ضد مادہ
+    pt: antimatéria
+    pt-br: antimatéria
+    ro: antimaterie
+    ru: антивещество
+    scn: antimateria
+    sco: antimatter
+    sh: antimaterija
+    si: ප්රතිපදාර්ථය
+    sk: antihmota
+    skr: اینٹی میٹر
+    sl: antisnov
+    sq: kundërlënda
+    sr: антиматерија
+    sr-ec: антиматерија
+    sr-el: antimaterija
+    su: antimatéri
+    sv: antimateria
+    ta: எதிர்ப் பொருள்
+    tg: подмодда
+    th: ปฏิสสาร
+    tl: antimaterya
+    tr: antimadde
+    tt: антиматдә
+    uk: антиматерія
+    ur: ضد مادہ
+    uz: antimodda
+    vi: phản vật chất
+    vo: nestöf
+    wuu: 反物质
+    yue: 反物質
+    zh: 反物質
+    zh-cn: 反物质
+    zh-hans: 反物质
+    zh-hant: 反物質
+    zh-hk: 反物質
+    zh-mo: 反物質
+    zh-my: 反物质
+    zh-sg: 反物质
+    zh-tw: 反物質
 ---
-
 # [[Antimatter]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Antimatter,83197|WD~Antimatter,83197]] 

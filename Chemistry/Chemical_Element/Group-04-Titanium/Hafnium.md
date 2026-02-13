@@ -1,63 +1,134 @@
 ---
 aliases:
-  - Hafnium
+- Afni
+- Afnio
+- afniu
+- Gafnii
+- Gafniy
+- Haafniyaam
+- hafn
+- Hafni
+- hafnij
+- hafnijs
+- Hafnijum
+- hafnin
+- hafnio
+- hafniom
+- hafnis
+- hafniu
+- Hafnium
+- Hafniumi
+- hafniwm
+- Hafniyu
+- hafniyum
+- hafniyûm
+- Hafnyo
+- hafnín
+- hafɩnɩyɔm
+- haifniam
+- Hapniyo
+- Hapnyo
+- háfnio
+- jinmrxafni
+- UmHlafantunge
+- Xafnel
+- Àfniu
+- ħafnju
+- άφνιο
+- гафн
+- гафній
+- гафни
+- гафний
+- Гафниум
+- хафнијум
+- хафний
+- хафниум
+- հաֆնիում
+- הפניום
+- هئفنيئم
+- هافنيوم
+- هافنیم
+- گافنىي
+- ھافنیۆم
+- ہافنیم
+- ہفنیئم
+- हाफ्नियम
+- हेफ़नियम
+- হ্যাফনিয়াম
+- ਹਾਫ਼ਨੀਅਮ
+- હાફનીયમ
+- ହାଫ୍ନିଅମ
+- ஆஃபினியம்
+- హాఫ్నియం
+- ಹಾಫ್ನಿಯಮ್
+- ഹാഫ്നിയം
+- แฮฟเนียม
+- ཧབ་ནིམ།
+- ဟက်ဖ်နီယမ်
+- ჰაფნიუმი
+- ሀፍኒየም
+- ハフニウム
+- 鉿
+- 铪
+- 하프늄
+- 하프니움
 has_id_wikidata: Q1119
-associated_hazard: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
+associated_hazard: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
 atomic_number: 72
 boiling_point: 8316
-canonical_SMILES: "[Hf]"
+canonical_SMILES: '[Hf]'
 CAS_Registry_Number: 7440-58-6
 chemical_formula: Hf
 Commons_category: Hafnium
 Commons_gallery: Hafnium
 Common_Procurement_Vocabulary_code:
-  - 14753000-4
-  - 14753000
+- 14753000-4
+- 14753000
 CPV_Supplementary_code: AA25
 density: 13
 described_by_source:
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 546.514
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~George_de_Hevesy,76951]]"
-  - "[[_Standards/WikiData/WD~Dirk_Coster,775969]]"
+- '[[_Standards/WikiData/WD~George_de_Hevesy,76951]]'
+- '[[_Standards/WikiData/WD~Dirk_Coster,775969]]'
 DSSTOX_compound_identifier: DTXCID5047663
 EC_number: 231-166-4
 electronegativity: 1
-electron_configuration: "[Xe] 4f¹⁴ 5d² 6s²"
+electron_configuration: '[Xe] 4f¹⁴ 5d² 6s²'
 element_symbol: Hf
-has_effect: "[[_Standards/WikiData/WD~hafnium_exposure,21088855]]"
+has_effect: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal%20bar.jpg
 immediately_dangerous_to_life_or_health: 50
 InChI: InChI=1S/Hf
 InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
 instance_of:
-  - "[[_Standards/WikiData/WD~lithophile,1130479]]"
-  - "[[_Standards/WikiData/WD~combustible_powder,21073023]]"
-  - "[[_Standards/WikiData/WD~chemical_element,11344]]"
+- '[[_Standards/WikiData/WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344]]'
 ionic_radius:
-  - 0.58
-  - 0.71
-  - 0.83
-location_of_discovery: "[[_Standards/WikiData/WD~Denmark,35]]"
+- 0.58
+- 0.71
+- 0.83
+location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35]]'
 mass: 178.486
 melting_point: 4041
 MeSH_tree_code:
-  - D01.268.556.337
-  - D01.268.956.249
-  - D01.552.544.337
-named_after: "[[_Standards/WikiData/WD~Copenhagen,1748]]"
+- D01.268.556.337
+- D01.268.956.249
+- D01.552.544.337
+named_after: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
 OmegaWiki_Defined_Meaning: 159925
 oxidation_state: 4
 part_of:
-  - "[[_Standards/WikiData/WD~group_4,189302]]"
-  - "[[_Standards/WikiData/WD~period_6,239813]]"
+- '[[_Standards/WikiData/WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_6,239813]]'
 PubChem_CID: 23986
 RTECS_number: MG4600000
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Hafnium.svg
 SpocWebEntityId: 21968
-subclass_of: "[[_Standards/WikiData/WD~transition_metal,19588]]"
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1922
 time_weighted_average_exposure_limit: 0.5
 type: Element
@@ -68,22 +139,180 @@ vapor_pressure: 0
 ZVG_number: 7720
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Hafnium,1119]]"
-    - "[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]"
-    - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]]"
-    - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]]"
-    - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal|Hafnium.internal]]"
-    - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect|Hafnium.protect]]"
-    - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private|Hafnium.private]]"
-    - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]]"
-    - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]]"
-  part_of: "[[../Group-04-Titanium]]"
+  - '[[../../../WikiData/WD~Hafnium,1119]]'
+  - '[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]'
+  - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]]'
+  - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]]'
+  - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal|Hafnium.internal]]'
+  - '[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect|Hafnium.protect]]'
+  - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private|Hafnium.private]]'
+  - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]]'
+  - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]]'
+  part_of: '[[../Group-04-Titanium]]'
 dv_has_:
   name_:
-    group: Group-04-Titanium
-    en: Hafnium
-    de: Hafnium
     abbreviated: Hf
+    af: hafnium
+    am: ሀፍኒየም
+    an: hafnio
+    anp: हेफ़नियम
+    ar: هافنيوم
+    ary: هافنيوم
+    arz: هافنيوم
+    ast: hafniu
+    avk: Xafnel
+    az: hafnium
+    ba: Гафний
+    ban: Hafnium
+    bcl: Hapnyo
+    be: гафній
+    be-tarask: гафн
+    bg: хафний
+    bho: हाफ्नियम
+    bn: হ্যাফনিয়াম
+    bo: ཧབ་ནིམ།
+    br: hafniom
+    bs: hafnij
+    ca: hafni
+    cdo: hafnium
+    ceb: hafnyo
+    ckb: ھافنیۆم
+    co: afniu
+    cs: hafnium
+    cv: гафни
+    cy: hafniwm
+    da: hafnium
+    de: Hafnium
+    el: άφνιο
+    en: hafnium
+    eo: hafnio
+    es: hafnio
+    et: hafnium
+    eu: hafnio
+    fa: هافنیم
+    fi: hafnium
+    fr: hafnium
+    frr: hafnium
+    fur: afni
+    ga: haifniam
+    gd: hafnium
+    gl: hafnio
+    group: Group-04-Titanium
+    gu: હાફનીયમ
+    gv: hafnium
+    hak: hafnium
+    he: הפניום
+    hi: हाफ्नियम
+    hif: Hafnium
+    hr: hafnij
+    hu: hafnium
+    hy: հաֆնիում
+    ia: hafnium
+    id: hafnium
+    io: hafnio
+    is: hafnín
+    it: afnio
+    ja: ハフニウム
+    jbo: jinmrxafni
+    jv: hafnium
+    ka: ჰაფნიუმი
+    kbp: hafɩnɩyɔm
+    kk: гафний
+    kn: ಹಾಫ್ನಿಯಮ್
+    ko: 하프늄
+    ko-kp: 하프니움
+    ku: hafniyûm
+    kv: гафний
+    kw: Hafniom
+    ky: гафний
+    la: hafnium
+    lb: Hafnium
+    lfn: hafnio
+    li: hafnium
+    lij: afnio
+    lmo: afnio
+    lt: hafnis
+    lv: hafnijs
+    lzh: 鉿
+    mdf: Гафни
+    mk: хафниум
+    ml: ഹാഫ്നിയം
+    mn: гафни
+    mr: हाफ्नियम
+    mrj: гафний
+    ms: hafnium
+    mt: ħafnju
+    my: ဟက်ဖ်နီယမ်
+    nan: Hafnium
+    nb: hafnium
+    nds: Hafnium
+    ne: हाफ्नियम
+    new: हाफ्नियम
+    nl: hafnium
+    nn: hafnium
+    nov: Hafnium
+    oc: Afni
+    olo: Gafnii
+    or: ହାଫ୍ନିଅମ
+    os: гафний
+    pa: ਹਾਫ਼ਨੀਅਮ
+    pi: हाफ्नियम
+    pl: hafn
+    pms: Afnio
+    pnb: ہافنیم
+    ps: هافنيوم
+    pt: háfnio
+    pt-br: háfnio
+    qu: Hafniyu
+    ro: hafniu
+    ru: гафний
+    rup: Hafniu
+    sa: हाफ्नियम
+    sc: Àfniu
+    scn: afniu
+    sco: hafnium
+    sd: هئفنيئم
+    sh: Hafnijum
+    sk: hafnium
+    sl: hafnij
+    so: Haafniyaam
+    sq: Hafniumi
+    sr: хафнијум
+    sr-ec: Хафнијум
+    stq: Hafnium
+    su: Hafnium
+    sv: hafnium
+    sw: Hafni
+    ta: ஆஃபினியம்
+    te: హాఫ్నియం
+    tg: гафний
+    th: แฮฟเนียม
+    tl: Hapniyo
+    tr: hafniyum
+    tt: Гафний
+    ug: گافنىي
+    uk: гафній
+    ur: ہفنیئم
+    uz: Gafniy
+    vep: Gafnii
+    vi: hafni
+    vo: hafnin
+    war: Hafnyo
+    wuu: 铪
+    xal: Гафниум
+    yo: Hafnium
+    yue: 鉿
+    zh: 鉿
+    zh-cn: 铪
+    zh-hans: 铪
+    zh-hant: 鉿
+    zh-hk: 鉿
+    zh-tw: 鉿
+    zu: UmHlafantunge
+  number_of_:
+    period: 6
+    group: 4
+    electrons: 72
   value_for_:
     weight_:
       u: 178.49
@@ -111,22 +340,18 @@ dv_has_:
       form_:
         kj_:
           mol: 575
-  number_of_:
-    period: 6
-    group: 4
-    electrons: 72
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Hafnium,1119]]"
-  - "[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]"
-  - "[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]]"
-  - "[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]]"
-  - "[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal|Hafnium.internal]]"
-  - "[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect|Hafnium.protect]]"
-  - "[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private|Hafnium.private]]"
-  - "[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]]"
-  - "[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]]"
+- '[[../../../WikiData/WD~Hafnium,1119]]'
+- '[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]'
+- '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]]'
+- '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]]'
+- '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal|Hafnium.internal]]'
+- '[[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect|Hafnium.protect]]'
+- '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private|Hafnium.private]]'
+- '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]]'
+- '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: "[[../Group-04-Titanium]]"
+dv_is_part_of: '[[../Group-04-Titanium]]'
 dv_has_name_en: Hafnium
 dv_has_name_de: Hafnium
 dv_has_name_abbreviated: Hf
@@ -147,7 +372,6 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 4
 dv_has_number_of_electrons: 72
 ---
-
 # [[Hafnium]] 
 
 #chemic/Element 

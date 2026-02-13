@@ -1,24 +1,79 @@
 ---
-has_time_started: 1945-01-01 
+has_time_started: 1945-01-01
 aliases:
+- Slinki
+- Slinky
+- Slinkyjeva spirala
+- trappetroll
+- Žaislinė spyruoklė
+- Слінкі
+- слинки
+- Слинккă
+- сьлінкі
+- Սլինկի
+- סלינקי
+- اسلینکی
+- سلانكي
+- スリンキー
+- 彈弓
+- 螺旋弹簧
+- 螺旋彈簧
+- 슬링키
 has_id_wikidata: Q1118802
-has_part_s_: "[[_Standards/WikiData/WD~spring,102836]]"
-subclass_of: "[[_Standards/WikiData/WD~spring,102836]]"
-shape: "[[_Standards/WikiData/WD~helix,201717]]"
-different_from: "[[_Standards/WikiData/WD~Q3241621,3241621]]"
+has_part_s_: '[[_Standards/WikiData/WD~spring,102836]]'
+subclass_of: '[[_Standards/WikiData/WD~spring,102836]]'
+shape: '[[_Standards/WikiData/WD~helix,201717]]'
+different_from: '[[_Standards/WikiData/WD~Q3241621,3241621]]'
 creator:
-  - "[[_Standards/WikiData/WD~Betty_James,4898848]]"
-  - "[[_Standards/WikiData/WD~Richard_T._James,7329350]]"
-instance_of: "[[_Standards/WikiData/WD~toy,11422]]"
-country: "[[_Standards/WikiData/WD~United_States,30]]"
-Nomenclature_for_Museum_Cataloging: "14880"
+- '[[_Standards/WikiData/WD~Betty_James,4898848]]'
+- '[[_Standards/WikiData/WD~Richard_T._James,7329350]]'
+instance_of: '[[_Standards/WikiData/WD~toy,11422]]'
+country: '[[_Standards/WikiData/WD~United_States,30]]'
+Nomenclature_for_Museum_Cataloging: 14880
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2006-02-04%20Metal%20spiral.jpg
 official_website: http://www.poof-slinky.com/
 Commons_gallery: Slinky
 Commons_category: Slinky
 inception: 1945-01-01T00:00:00Z
+dv_has_:
+  name_:
+    ar: سلانكي
+    be-tarask: сьлінкі
+    ca: slinky
+    cv: Слинккă
+    da: Slinky
+    de: Slinky
+    en: Slinky
+    eo: Slinky
+    es: Slinky
+    eu: Slinky
+    fa: اسلینکی
+    fr: Slinky
+    gl: Slinky
+    gsw: Slinky
+    he: סלינקי
+    hy: Սլինկի
+    id: Slinky
+    it: Slinky
+    ja: スリンキー
+    ko: 슬링키
+    lt: Žaislinė spyruoklė
+    mk: слинки
+    nan: Slinky
+    nb: trappetroll
+    nl: Slinky
+    nn: trappetroll
+    ru: Слинки
+    sl: Slinkyjeva spirala
+    sr: Slinki
+    sv: slinky
+    tr: Slinky
+    uk: Слінкі
+    vi: Slinky
+    wuu: 螺旋弹簧
+    yue: 彈弓
+    zh: 螺旋彈簧
 ---
-
 # [[Slinky]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Slinky,1118802|WD~Slinky,1118802]] 

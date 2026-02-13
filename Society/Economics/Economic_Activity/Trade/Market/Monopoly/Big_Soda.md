@@ -1,13 +1,15 @@
 ---
 aliases:
-  - Big Soda
-  - Big_Soda
+- Big Soda
+- Big_Soda
 has_id_wikidata: Q4906383
+dv_has_:
+  name_:
+    en: Big Soda
 ---
-
 # [[Big_Soda]] 
 
-#is_/same_as :: [[WD~Big Soda,4906383]]
+#is_/same_as :: [[WD~Big_Soda,4906383]]
 
 ## #has_/text_of_/abstract 
 

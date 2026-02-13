@@ -1,27 +1,82 @@
 ---
 aliases:
-  - Swan Lake
-  - Лебеди́ное о́зеро
-  - Lebedínoje ózero
-  - Swan_Lake
+- A hattyúk tava
+- Beltxargen aintzira
+- Cigno-lago
+- Cignolago
+- Danau Angsa
+- El lago de los cisnes
+- El llac dels cignes
+- El llagu de los cisnes
+- Gulbių ežeras
+- Gulbju ezers
+- Hồ thiên nga
+- Il lago dei cigni
+- Jezioro łabędzie
+- Joutsenlampi
+- Kuğu Gölü
+- Labodje jezero
+- Labudovo jezero
+- Labutie jazero
+- Labutí jezero
+- Labuđe jezero
+- Lacul lebedelor
+- Lacus cycnorum
+- Le Lac des cygnes
+- Lebedinoye ozero
+- Lebedínoje ózero
+- Loch na hEala
+- Luikede järv
+- O lago dos cisnes
+- Qu gölü
+- Schwaanesee
+- Schwanensee
+- Svanavatnið
+- Svanesjøen
+- Svanesøen
+- Svansjön
+- Swan Lake
+- Swan Loch
+- Swan_Lake
+- Zwanenmeer
+- Η λίμνη των κύκνων
+- Лабудово језеро
+- Лебеди́ное о́зеро
+- Лебедине озеро
+- Лебединое озеро
+- Лебедово езеро
+- Лебядзінае возера
+- Хунт нуур
+- Կարապի լիճ
+- אגם הברבורים
+- بحيرة البجع
+- دریاچه قو
+- स्वान लेक
+- สวอนเลก
+- გედების ტბა
+- ოლორეფიშ ტობა
+- 天鵝湖
+- 天鹅湖
+- 白鳥の湖
+- 백조의 호수
 has_id_wikidata: Q199786
 derivative_work:
-  - '[[_Standards/WikiData/WD~Barbie_of_Swan_Lake,138718]]'
-  - '[[_Standards/WikiData/WD~Swan_Lake,1044928]]'
-  - '[[_Standards/WikiData/WD~Swan_Lake,1093555]]'
-  - '[[_Standards/WikiData/WD~The_Swan_Princess,1216146]]'
-  - '[[_Standards/WikiData/WD~Swan_Lake_Loch_na_hEala,96798316]]'
+- '[[_Standards/WikiData/WD~Barbie_of_Swan_Lake,138718]]'
+- '[[_Standards/WikiData/WD~Swan_Lake,1044928]]'
+- '[[_Standards/WikiData/WD~Swan_Lake,1093555]]'
+- '[[_Standards/WikiData/WD~The_Swan_Princess,1216146]]'
+- '[[_Standards/WikiData/WD~Swan_Lake_Loch_na_hEala,96798316]]'
 location_of_first_performance: '[[_Standards/WikiData/WD~Bolshoi_Theatre,138908]]'
 choreographer:
-  - '[[_Standards/WikiData/WD~Lev_Ivanov,282950]]'
-  - '[[_Standards/WikiData/WD~Marius_Petipa,312320]]'
-  - '[[_Standards/WikiData/WD~Julius_Reisinger,2077278]]'
+- '[[_Standards/WikiData/WD~Lev_Ivanov,282950]]'
+- '[[_Standards/WikiData/WD~Marius_Petipa,312320]]'
+- '[[_Standards/WikiData/WD~Julius_Reisinger,2077278]]'
 librettist: '[[_Standards/WikiData/WD~Vladimir_Begichev,3316785]]'
 instance_of:
-  - '[[_Standards/WikiData/WD~ballet,15079786]]'
-  - '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
-  - '[[_Standards/WikiData/WD~choreographic_work,58483088]]'
-  - '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
+- '[[_Standards/WikiData/WD~ballet,15079786]]'
+- '[[_Standards/WikiData/WD~dramatico_musical_work,58483083]]'
+- '[[_Standards/WikiData/WD~choreographic_work,58483088]]'
+- '[[_Standards/WikiData/WD~musical_work_composition,105543609]]'
 named_after: '[[_Standards/WikiData/WD~Lake_Svetloye,37965055]]'
 different_from: '[[_Standards/WikiData/WD~Swan_Lake,101251130]]'
 date_of_first_performance: 1877-02-20T00:00:00Z
@@ -32,8 +87,78 @@ opus_number: 20
 title: Лебединое озеро
 Commons_category: Swan Lake
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiener%20Staatsoper%20Schwanensee%20Szene%20Akt4.jpg
+dv_has_:
+  name_:
+    ar: بحيرة البجع
+    ast: El llagu de los cisnes
+    az: Qu gölü
+    be: Лебядзінае возера
+    be-tarask: Лебядзінае возера
+    bg: Лебедово езеро
+    ca: El llac dels cignes
+    cs: Labutí jezero
+    da: Svanesøen
+    de: Schwanensee
+    el: Η λίμνη των κύκνων
+    en: Swan Lake
+    eo: Cignolago
+    es: El lago de los cisnes
+    et: Luikede järv
+    eu: Beltxargen aintzira
+    fa: دریاچه قو
+    fi: Joutsenlampi
+    fr: Le Lac des cygnes
+    ga: Loch na hEala
+    gl: O lago dos cisnes
+    gsw: Schwaanesee
+    he: אגם הברבורים
+    hr: Labuđe jezero
+    hu: A hattyúk tava
+    hy: Կարապի լիճ
+    id: Danau Angsa
+    io: Cigno-lago
+    is: Svanavatnið
+    it: Il lago dei cigni
+    ja: 白鳥の湖
+    ka: გედების ტბა
+    ko: 백조의 호수
+    la: Lacus cycnorum
+    lt: Gulbių ežeras
+    lv: Gulbju ezers
+    mk: Лебедово Езеро
+    mn: Хунт нуур
+    ms: Lebedinoye ozero
+    nb: Svanesjøen
+    new: स्वान लेक
+    nl: Zwanenmeer
+    nn: Svanesjøen
+    pl: Jezioro łabędzie
+    pt: O Lago dos Cisnes
+    ro: Lacul lebedelor
+    ru: Лебединое озеро
+    sco: Swan Loch
+    sh: Labudovo jezero
+    sk: Labutie jazero
+    sl: Labodje jezero
+    sr: Лабудово језеро
+    sr-ec: Лабудово језеро
+    sr-el: Labudovo jezero
+    sv: Svansjön
+    th: สวอนเลก
+    tr: Kuğu Gölü
+    uk: Лебедине озеро
+    vi: Hồ thiên nga
+    wuu: 天鹅湖
+    xmf: ოლორეფიშ ტობა
+    yue: 天鵝湖
+    zh: 天鹅湖
+    zh-cn: 天鹅湖
+    zh-hans: 天鹅湖
+    zh-hant: 天鵝湖
+    zh-hk: 天鵝湖
+    zh-sg: 天鹅湖
+    zh-tw: 天鵝湖
 ---
-
 # [[Swan_Lake]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Swan_Lake,199786|WD~Swan_Lake,199786]]  

@@ -1,13 +1,27 @@
 ---
 aliases:
-  - Viag Interkom
-  - Telefónica Germany GmbH & Co. OHG
-  - Telefónica Deutschland
-  - Telefónica O2 Germany
-  - Telefónica Germany
-  - Telefónica_Germany
+- Telefónica Alemania
+- Telefónica Deutschland
+- Telefónica Germany
+- Telefónica Germany GmbH & Co. OHG
+- Telefónica O2 Germany
+- Telefónica_Germany
+- Viag Interkom
+- テレフォニカドイツ
+- 西班牙電信德國
+has_id_wikidata: Q2401561
+dv_has_:
+  name_:
+    ca: Telefónica Deutschland
+    de: Telefónica Deutschland
+    en: Telefónica Deutschland
+    es: Telefónica Alemania
+    fr: Telefónica Deutschland
+    it: Telefónica Deutschland
+    ja: テレフォニカドイツ
+    ru: Telefónica Deutschland
+    zh: 西班牙電信德國
 ---
-
 # [[Telefónica_Germany]] 
 
 

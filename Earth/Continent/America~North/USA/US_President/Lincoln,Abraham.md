@@ -1,186 +1,507 @@
 ---
 aliases:
-  - Lincoln,Abraham
-  - Abraham Lincoln
+- Abrahaam Liinken
+- Abraham Lincoln
+- Abraham Linkoln
+- Abrahams Linkolns
+- Abrahams Lėnkuolns
+- Abrahamus Lincoln
+- Abraomas Linkolnas
+- Aparaham Linken
+- Aperaamo Linikone
+- Aperehama Ringikana
+- Avraam Linkoln
+- Ibraham Lingkolen
+- jan Epejan Linkon
+- Lincoln,Abraham
+- Linkol'n Avraam
+- Linzgenj
+- Αβραάμ Λίνκολν
+- Аўраам Лінкальн
+- Абрагам Лінкальн
+- Абрагам Лінколн
+- Абрахам Линколн
+- Абрахам Линкольн
+- Авраам Лінкольн
+- Авраам Линкольн
+- Авраҳам Линколн
+- Ейбрахам Линкълн
+- Линкольн, Авраам
+- Աբրահամ Լինքոլն
+- Ապրահամ Լինքոլն
+- אברהם לינקאלן
+- אברהם לינקולן
+- آبراهام لینکلن
+- أبراهام لينكولن
+- أبراهام لينكون
+- ئەبراھام لینکن
+- ابراهام لنڪن
+- ابراهام لينكولن
+- ابراهم لینکولن
+- ابراہام لنکن
+- ابراہَم لِنکن
+- އަބްރަހަމް ލިންކަން
+- ߊߓߑߙߤߊߡ ߟߌ߲ߞߏߟ
+- अब्राहम लिंकन
+- अब्राहम लिङ्कन
+- अब्राहम लिन्कन
+- আব্রাহাম লিংকন
+- আব্ৰাহাম লিংকন
+- ਅਬਰਾਹਮ ਲਿੰਕਨ
+- અબ્રાહમ લિંકન
+- ଆବ୍ରାହମ ଲିଙ୍କନ
+- ஆபிரகாம் லிங்கன்
+- అబ్రహం లింకన్
+- ಅಬ್ರಹಮ್ ಲಿಂಕನ್
+- അബ്രഹാം ലിങ്കൺ
+- ඒබ්රහම් ලින්කන්
+- เอบราแฮม ลิงคอล์น
+- ເອບຣາແຮມ ລິງຄອລ໌ນ
+- အေဘရာဟမ် လင်ကွန်း
+- აბრაამ ლინკოლნი
+- აბრაამ ლინქოლნი
+- አብርሀም ሊንከን
+- ᎡᏆᎭᎻ ᎵᏂᎧᏂ
+- អាប្រាហាម លីនខូន
+- ᱟᱵᱽᱨᱟᱦᱟᱢ ᱞᱤᱝᱠᱚᱱ
+- エイブラハム・リンカーン
+- 亚伯拉罕·林肯
+- 亞伯拉罕·林肯
+- 林肯
+- 에이브라함 링컨
+- 에이브러햄 링컨
 has_id_wikidata: Q91
 archives_at:
-  - "[[_Standards/WikiData/WD~Abraham_Lincoln_Presidential_Library_and_Museum,330237]]"
-  - "[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]"
-artist_files_at: "[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]"
+- '[[_Standards/WikiData/WD~Abraham_Lincoln_Presidential_Library_and_Museum,330237]]'
+- '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+artist_files_at: '[[_Standards/WikiData/WD~Smithsonian_American_Art_and_Portrait_Gallery_Library,98665879]]'
 BHCL_UUID: b9141f04-e47a-4702-a0ab-c22e0a89e9ee
-cause_of_death: "[[_Standards/WikiData/WD~shot_to_the_head,15824243]]"
+cause_of_death: '[[_Standards/WikiData/WD~shot_to_the_head,15824243]]'
 child:
-  - "[[_Standards/WikiData/WD~Tad_Lincoln,135687]]"
-  - "[[_Standards/WikiData/WD~Edward_Baker_Lincoln,332958]]"
-  - "[[_Standards/WikiData/WD~Robert_Todd_Lincoln,435793]]"
-  - "[[_Standards/WikiData/WD~William_Wallace_Lincoln,5338658]]"
+- '[[_Standards/WikiData/WD~Tad_Lincoln,135687]]'
+- '[[_Standards/WikiData/WD~Edward_Baker_Lincoln,332958]]'
+- '[[_Standards/WikiData/WD~Robert_Todd_Lincoln,435793]]'
+- '[[_Standards/WikiData/WD~William_Wallace_Lincoln,5338658]]'
 Commons_category: Abraham Lincoln
 Commons_Creator_page: Abraham Lincoln
 Commons_gallery: Abraham Lincoln
 confidential: private
-copyright_status_as_a_creator: "[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]"
-country_of_citizenship: "[[_Standards/WikiData/WD~United_States,30]]"
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
 cssclasses:
-  - private
-  - note
+- private
+- note
 date_of_birth: 1809-02-12
 date_of_death: 1865-04-15
-depicted_by: "[[_Standards/WikiData/WD~Lincoln,32433]]"
+depicted_by: '[[_Standards/WikiData/WD~Lincoln,32433]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]"
-  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
-  - "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Obálky_knih,67311526]]"
-  - "[[_Standards/WikiData/WD~Medvik,99413897]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-different_from: "[[_Standards/WikiData/WD~Abraham_Lincoln,390994]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
+- "[[_Standards/WikiData/WD~Library_of_the_World's_Best_Literature,19098835]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Medvik,99413897]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Abraham_Lincoln,390994]]'
 DPLA_subject_term: Lincoln, Abraham, 1809-1865
 draft: true
-expiryDate: ""
-facial_hair: "[[_Standards/WikiData/WD~chin_curtain,942900]]"
-family: "[[_Standards/WikiData/WD~Lincoln_family,3832577]]"
-family_name: "[[_Standards/WikiData/WD~Lincoln,18610168]]"
-father: "[[_Standards/WikiData/WD~Thomas_Lincoln,3525359]]"
-given_name: "[[_Standards/WikiData/WD~Abraham,17997608]]"
+expiryDate: ''
+facial_hair: '[[_Standards/WikiData/WD~chin_curtain,942900]]'
+family: '[[_Standards/WikiData/WD~Lincoln_family,3832577]]'
+family_name: '[[_Standards/WikiData/WD~Lincoln,18610168]]'
+father: '[[_Standards/WikiData/WD~Thomas_Lincoln,3525359]]'
+given_name: '[[_Standards/WikiData/WD~Abraham,17997608]]'
 has_Template:
-  - - Extract~Note~Template
+- - Extract~Note~Template
 height: 204
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Lincoln%20O-77%20matte%20collodion%20print.jpg
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Lincoln%27s%20Tomb.JPG
 influenced_by:
-  - "[[_Standards/WikiData/WD~Bible,1845]]"
-  - "[[_Standards/WikiData/WD~The_Pilgrim's_Progress,268211]]"
-  - "[[_Standards/WikiData/WD~Sufferings_in_Africa,7634490]]"
-instance_of: "[[_Standards/WikiData/WD~human,5]]"
+- '[[_Standards/WikiData/WD~Bible,1845]]'
+- "[[_Standards/WikiData/WD~The_Pilgrim's_Progress,268211]]"
+- '[[_Standards/WikiData/WD~Sufferings_in_Africa,7634490]]'
+instance_of: '[[_Standards/WikiData/WD~human,5]]'
 isDeleted: false
 ISNI:
-  - 121024704
-  - 000000040814421X
+- 121024704
+- 000000040814421X
 isReadOnly: false
 keywords: Lincoln,Abraham
-killed_by: "[[_Standards/WikiData/WD~John_Wilkes_Booth,180914]]"
+killed_by: '[[_Standards/WikiData/WD~John_Wilkes_Booth,180914]]'
 Krugosvet_article: istoriya/LINKOLN_AVRAAM.html
 lang: en
-languages_spoken_written_or_signed: "[[_Standards/WikiData/WD~English,1860]]"
-layout: ""
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
+layout: ''
 Libris_URI: fcrtplcz3xtl6dh
 license: (c)copyrighted
 linkTitle: Lincoln,Abraham
-manner_of_death: "[[_Standards/WikiData/WD~homicide,149086]]"
+manner_of_death: '[[_Standards/WikiData/WD~homicide,149086]]'
 member_of_political_party:
-  - "[[_Standards/WikiData/WD~Republican_Party,29468]]"
-  - "[[_Standards/WikiData/WD~Whig_Party,42183]]"
-  - "[[_Standards/WikiData/WD~National_Union_Party,80719]]"
-military_branch: "[[_Standards/WikiData/WD~Illinois_National_Guard,5999581]]"
-military_or_police_rank: "[[_Standards/WikiData/WD~captain,2937293]]"
-mother: "[[_Standards/WikiData/WD~Nancy_Hanks_Lincoln,3335588]]"
+- '[[_Standards/WikiData/WD~Republican_Party,29468]]'
+- '[[_Standards/WikiData/WD~Whig_Party,42183]]'
+- '[[_Standards/WikiData/WD~National_Union_Party,80719]]'
+military_branch: '[[_Standards/WikiData/WD~Illinois_National_Guard,5999581]]'
+military_or_police_rank: '[[_Standards/WikiData/WD~captain,2937293]]'
+mother: '[[_Standards/WikiData/WD~Nancy_Hanks_Lincoln,3335588]]'
 name_in_native_language: Abraham Lincoln
-native_language: "[[_Standards/WikiData/WD~American_English,7976]]"
+native_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 NLC_authorities: 218188
 number_of_children: 4
 occupation:
-  - "[[_Standards/WikiData/WD~writer,36180]]"
-  - "[[_Standards/WikiData/WD~lawyer,40348]]"
-  - "[[_Standards/WikiData/WD~politician,82955]]"
-  - "[[_Standards/WikiData/WD~farmer,131512]]"
-  - "[[_Standards/WikiData/WD~military_officer,189290]]"
-  - "[[_Standards/WikiData/WD~statesperson,372436]]"
-  - "[[_Standards/WikiData/WD~postmaster,1416611]]"
+- '[[_Standards/WikiData/WD~writer,36180]]'
+- '[[_Standards/WikiData/WD~lawyer,40348]]'
+- '[[_Standards/WikiData/WD~politician,82955]]'
+- '[[_Standards/WikiData/WD~farmer,131512]]'
+- '[[_Standards/WikiData/WD~military_officer,189290]]'
+- '[[_Standards/WikiData/WD~statesperson,372436]]'
+- '[[_Standards/WikiData/WD~postmaster,1416611]]'
 OmegaWiki_Defined_Meaning: 848224
 owner_of:
-  - "[[_Standards/WikiData/WD~Lincoln_Bible,1816474]]"
-  - "[[_Standards/WikiData/WD~Fido,4483493]]"
-  - "[[_Standards/WikiData/WD~Abraham_Lincoln's_patent,4668992]]"
-place_of_birth: "[[_Standards/WikiData/WD~Sinking_Spring_Farm,113363481]]"
-place_of_burial: "[[_Standards/WikiData/WD~Lincoln_Tomb,3409587]]"
-place_of_death: "[[_Standards/WikiData/WD~Petersen_House,4799733]]"
+- '[[_Standards/WikiData/WD~Lincoln_Bible,1816474]]'
+- '[[_Standards/WikiData/WD~Fido,4483493]]'
+- "[[_Standards/WikiData/WD~Abraham_Lincoln's_patent,4668992]]"
+place_of_birth: '[[_Standards/WikiData/WD~Sinking_Spring_Farm,113363481]]'
+place_of_burial: '[[_Standards/WikiData/WD~Lincoln_Tomb,3409587]]'
+place_of_death: '[[_Standards/WikiData/WD~Petersen_House,4799733]]'
 position_held:
-  - "[[_Standards/WikiData/WD~President_of_the_United_States,11696]]"
-  - "[[_Standards/WikiData/WD~President-elect_of_the_United_States,1467287]]"
-  - "[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]"
-  - "[[_Standards/WikiData/WD~member_of_the_Illinois_House_of_Representatives,17495450]]"
+- '[[_Standards/WikiData/WD~President_of_the_United_States,11696]]'
+- '[[_Standards/WikiData/WD~President-elect_of_the_United_States,1467287]]'
+- '[[_Standards/WikiData/WD~member_of_the_United_States_House_of_Representatives,13218630]]'
+- '[[_Standards/WikiData/WD~member_of_the_Illinois_House_of_Representatives,17495450]]'
 present_in_work: "[[_Standards/WikiData/WD~Who's_Who_in_Star_Trek_1,111784345]]"
 publish: false
-publishDate: ""
+publishDate: ''
 Regensburg_Classification: HT 5960
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Baptists,93191]]"
-  - "[[_Standards/WikiData/WD~ietsism,2479801]]"
+- '[[_Standards/WikiData/WD~Baptists,93191]]'
+- '[[_Standards/WikiData/WD~ietsism,2479801]]'
 residence:
-  - "[[_Standards/WikiData/WD~Springfield,28515]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-  - "[[_Standards/WikiData/WD~Perry_County,512799]]"
-  - "[[_Standards/WikiData/WD~Hodgenville,547313]]"
-  - "[[_Standards/WikiData/WD~Lincoln's_New_Salem,3658797]]"
-sex_or_gender: "[[_Standards/WikiData/WD~male,6581097]]"
+- '[[_Standards/WikiData/WD~Springfield,28515]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~Perry_County,512799]]'
+- '[[_Standards/WikiData/WD~Hodgenville,547313]]'
+- "[[_Standards/WikiData/WD~Lincoln's_New_Salem,3658797]]"
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 sibling:
-  - "[[_Standards/WikiData/WD~Sarah_Lincoln_Grigsby,5507030]]"
-  - "[[_Standards/WikiData/WD~Thomas_Lincoln,_Jr.,5507350]]"
+- '[[_Standards/WikiData/WD~Sarah_Lincoln_Grigsby,5507030]]'
+- '[[_Standards/WikiData/WD~Thomas_Lincoln,_Jr.,5507350]]'
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Abraham%20Lincoln%201862%20signature.svg
-significant_event: "[[_Standards/WikiData/WD~funeral_and_burial_of_Abraham_Lincoln,5509119]]"
-spouse: "[[_Standards/WikiData/WD~Mary_Todd_Lincoln,215062]]"
+significant_event: '[[_Standards/WikiData/WD~funeral_and_burial_of_Abraham_Lincoln,5509119]]'
+spouse: '[[_Standards/WikiData/WD~Mary_Todd_Lincoln,215062]]'
 Swedish_Open_Cultural_Heritage_URI: LSH/agents/18299
 tags:
-  - Lincoln,Abraham
+- Lincoln,Abraham
 title: Lincoln,Abraham
-topic_s_main_template: "[[_Standards/WikiData/WD~Template_Abraham_Lincoln,6667075]]"
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Abraham_Lincoln,6667075]]'
 type: private_note
 U_S_National_Archives_Identifier: 10580370
-wears: "[[_Standards/WikiData/WD~top_hat,110304]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Abraham_Lincoln,28402356]]"
+wears: '[[_Standards/WikiData/WD~top_hat,110304]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Abraham_Lincoln,28402356]]'
 work_location:
-  - "[[_Standards/WikiData/WD~Springfield,28515]]"
-  - "[[_Standards/WikiData/WD~Washington,_D.C.,61]]"
-writing_language: "[[_Standards/WikiData/WD~English,1860]]"
-dv_has_role: "[[../US_President]]"
+- '[[_Standards/WikiData/WD~Springfield,28515]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+dv_has_role: '[[../US_President]]'
 dv_created: 1861-03-04
 dv_cancelled: 1865-04-15
 dv_is_:
-  part_of: "[[../../../../../PDFs]]]"
+  part_of: '[[../../../../../PDFs]]]'
   same_as:
-    - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham|Lincoln,Abraham]]"
-    - "[[/_public/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.public|Lincoln,Abraham.public]]"
-    - "[[/_internal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.internal|Lincoln,Abraham.internal]]"
-    - "[[/_protect/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.protect|Lincoln,Abraham.protect]]"
-    - "[[/_private/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.private|Lincoln,Abraham.private]]"
-    - "[[/_personal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.personal|Lincoln,Abraham.personal]]"
-    - "[[/_secret/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.secret|Lincoln,Abraham.secret]]"
+  - '[[/_Standards/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham|Lincoln,Abraham]]'
+  - '[[/_public/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.public|Lincoln,Abraham.public]]'
+  - '[[/_internal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.internal|Lincoln,Abraham.internal]]'
+  - '[[/_protect/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.protect|Lincoln,Abraham.protect]]'
+  - '[[/_private/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.private|Lincoln,Abraham.private]]'
+  - '[[/_personal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.personal|Lincoln,Abraham.personal]]'
+  - '[[/_secret/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.secret|Lincoln,Abraham.secret]]'
 dv_has_:
+  created_:
+    quote: To learn the character of a man, give him[[../../../../../_protect/Society/Sociology/Politics/Power(political)]]].
+  name_:
+    ace: Abraham Lincoln
+    af: Abraham Lincoln
+    am: አብርሀም ሊንከን
+    ami: Aparaham Linken
+    an: Abraham Lincoln
+    ang: Abraham Lincoln
+    ar: أبراهام لينكون
+    ary: أبراهام لينكولن
+    arz: ابراهام لينكولن
+    as: আব্ৰাহাম লিংকন
+    ast: Abraham Lincoln
+    ay: Abraham Lincoln
+    az: Avraam Linkoln
+    azb: آبراهام لینکلن
+    ba: Авраам Линкольн
+    ban: Abraham Lincoln
+    bar: Abraham Lincoln
+    bcl: Abraham Lincoln
+    be: Аўраам Лінкальн
+    be-tarask: Абрагам Лінкальн
+    bew: Ibraham Lingkolen
+    bg: Ейбрахам Линкълн
+    bho: अब्राहम लिंकन
+    bi: Abraham Lincoln
+    bn: আব্রাহাম লিংকন
+    br: Abraham Lincoln
+    bs: Abraham Lincoln
+    btm: Abraham Lincoln
+    bxr: Авраам Линкольн
+    ca: Abraham Lincoln
+    cdo: Abraham Lincoln
+    ce: Линкольн, Авраам
+    ceb: Abraham Lincoln
+    chr: ᎡᏆᎭᎻ ᎵᏂᎧᏂ
+    ckb: ئەبراھام لینکن
+    co: Abraham Lincoln
+    crh: Avraam Linkoln
+    cs: Abraham Lincoln
+    cv: Авраам Линкольн
+    cy: Abraham Lincoln
+    da: Abraham Lincoln
+    dag: Abraham Lincoln
+    de: Abraham Lincoln
+    de-at: Abraham Lincoln
+    de-ch: Abraham Lincoln
+    diq: Abraham Lincoln
+    dsb: Abraham Lincoln
+    dty: अब्राहम लिङ्कन
+    dv: އަބްރަހަމް ލިންކަން
+    ee: Abraham Lincoln
+    el: Αβραάμ Λίνκολν
+    en: Abraham Lincoln
+    en-ca: Abraham Lincoln
+    en-gb: Abraham Lincoln
+    en-us: Abraham Lincoln
+    eo: Abraham Lincoln
+    es: Abraham Lincoln
+    et: Abraham Lincoln
+    eu: Abraham Lincoln
+    ext: Abraham Lincoln
+    fa: آبراهام لینکلن
+    fi: Abraham Lincoln
+    fit: Abraham Lincoln
+    fo: Abraham Lincoln
+    fr: Abraham Lincoln
+    frp: Abraham Lincoln
+    frr: Abraham Lincoln
+    fur: Abraham Lincoln
+    fy: Abraham Lincoln
+    ga: Abraham Lincoln
+    gaa: Abraham Lincoln
+    gag: Abraham Lincoln
+    gan: 亞伯拉罕·林肯
+    gcr: Abraham Lincoln
+    gd: Abraham Lincoln
+    gl: Abraham Lincoln
+    glk: آبراهام لینکلن
+    gn: Abraham Lincoln
+    gom: Abraham Lincoln
+    gpe: Abraham Lincoln
+    gsw: Abraham Lincoln
+    gu: અબ્રાહમ લિંકન
+    guw: Abraham Lincoln
+    gv: Abraham Lincoln
+    ha: Abraham Lincoln
+    hak: Abraham Lincoln
+    haw: Abraham Lincoln
+    he: אברהם לינקולן
+    hi: अब्राहम लिंकन
+    hif: Abraham Lincoln
+    hr: Abraham Lincoln
+    hsb: Abraham Lincoln
+    ht: Abraham Lincoln
+    hu: Abraham Lincoln
+    hy: Աբրահամ Լինքոլն
+    hyw: Ապրահամ Լինքոլն
+    ia: Abraham Lincoln
+    id: Abraham Lincoln
+    ie: Abraham Lincoln
+    ig: Abraham Lincoln
+    ilo: Abraham Lincoln
+    io: Abraham Lincoln
+    is: Abraham Lincoln
+    it: Abraham Lincoln
+    ja: エイブラハム・リンカーン
+    jam: Abraham Lincoln
+    jv: Abraham Lincoln
+    ka: აბრაამ ლინკოლნი
+    kbp: Abraham Lincoln
+    kg: Abraham Lincoln
+    kk: Авраам Линкольн
+    kl: Abraham Lincoln
+    km: អាប្រាហាម លីនខូន
+    kn: ಅಬ್ರಹಮ್ ಲಿಂಕನ್
+    ko: 에이브러햄 링컨
+    ko-kp: 에이브라함 링컨
+    ks: ابراہَم لِنکن
+    ku: Abraham Lincoln
+    kw: Abraham Lincoln
+    ky: Линкольн, Авраам
+    la: Abrahamus Lincoln
+    lad: Abraham Lincoln
+    lb: Abraham Lincoln
+    lez: Авраам Линкольн
+    lfn: Abraham Lincoln
+    li: Abraham Lincoln
+    lij: Abraham Lincoln
+    lmo: Abraham Lincoln
+    ln: Abraham Lincoln
+    lo: ເອບຣາແຮມ ລິງຄອລ໌ນ
+    lt: Abraomas Linkolnas
+    lv: Abrahams Linkolns
+    lzh: 亞伯拉罕·林肯
+    mai: अब्राहम लिंकन
+    mg: Abraham Lincoln
+    mi: Aperehama Ringikana
+    min: Abraham Lincoln
+    mk: Абрахам Линколн
+    ml: അബ്രഹാം ലിങ്കൺ
+    mn: Абрахам Линкольн
+    mr: अब्राहम लिंकन
+    ms: Abraham Lincoln
+    mul: Abraham Lincoln
+    my: အေဘရာဟမ် လင်ကွန်း
+    mzn: آبراهام لینکلن
+    na: Abraham Lincoln
+    nah: Abraham Lincoln
+    nan: Abraham Lincoln
+    nap: Abraham Lincoln
+    nb: Abraham Lincoln
+    nds: Abraham Lincoln
+    nds-nl: Abraham Lincoln
+    ne: अब्राहम लिंकन
+    new: अब्राहम लिन्कन
+    nl: Abraham Lincoln
+    nn: Abraham Lincoln
+    nov: Abraham Lincoln
+    nqo: ߊߓߑߙߤߊߡ ߟߌ߲ߞߏߟ
+    nrm: Abraham Lincoln
+    ny: Abraham Lincoln
+    oc: Abraham Lincoln
+    olo: Abraham Lincoln
+    om: Abrahaam Liinken
+    or: ଆବ୍ରାହମ ଲିଙ୍କନ
+    os: Авраам Линкольн
+    pa: ਅਬਰਾਹਮ ਲਿੰਕਨ
+    pag: Abraham Lincoln
+    pam: Abraham Lincoln
+    pap: Abraham Lincoln
+    pcd: Abraham Lincoln
+    pcm: Abraham Lincoln
+    pl: Abraham Lincoln
+    pms: Abraham Lincoln
+    pnb: ابراہام لنکن
+    ps: ابراهم لینکولن
+    pt: Abraham Lincoln
+    pt-br: Abraham Lincoln
+    qu: Abraham Lincoln
+    rm: Abraham Lincoln
+    rmf: Abraham Lincoln
+    rmy: Abraham Lincoln
+    ro: Abraham Lincoln
+    ru: Авраам Линкольн
+    rue: Абрагам Лінколн
+    rw: Abraham Lincoln
+    sa: अब्राहम लिन्कन
+    sah: Авраам Линкольн
+    sat: ᱟᱵᱽᱨᱟᱦᱟᱢ ᱞᱤᱝᱠᱚᱱ
+    sc: Abraham Lincoln
+    scn: Abraham Lincoln
+    sco: Abraham Lincoln
+    sd: ابراهام لنڪن
+    se: Abraham Lincoln
+    sgs: Abrahams Lėnkuolns
+    sh: Abraham Lincoln
+    si: ඒබ්රහම් ලින්කන්
+    sje: Abraham Lincoln
+    sju: Abraham Lincoln
+    sk: Abraham Lincoln
+    skr: ابراہام لنکن
+    sl: Abraham Lincoln
+    sm: Aperaamo Linikone
+    sma: Abraham Lincoln
+    smj: Abraham Lincoln
+    smn: Abraham Lincoln
+    sms: Abraham Lincoln
+    sq: Abraham Lincoln
+    sr: Абрахам Линколн
+    sr-el: Abraham Lincoln
+    stq: Abraham Lincoln
+    sv: Abraham Lincoln
+    sw: Abraham Lincoln
+    szl: Abraham Lincoln
+    ta: ஆபிரகாம் லிங்கன்
+    te: అబ్రహం లింకన్
+    tg: Авраҳам Линколн
+    th: เอบราแฮม ลิงคอล์น
+    tl: Abraham Lincoln
+    tly: Abraham Linkoln
+    tok: jan Epejan Linkon
+    tr: Abraham Lincoln
+    tt: Авраам Линкольн
+    tum: Abraham Lincoln
+    tw: Abraham Lincoln
+    tyv: Линкольн, Авраам
+    uk: Авраам Лінкольн
+    ur: ابراہام لنکن
+    uz: Abraham Lincoln
+    vec: Abraham Lincoln
+    vep: Linkol'n Avraam
+    vi: Abraham Lincoln
+    vls: Abraham Lincoln
+    vo: Abraham Lincoln
+    wa: Abraham Lincoln
+    war: Abraham Lincoln
+    wo: Abraham Lincoln
+    wuu: 亚伯拉罕·林肯
+    xmf: აბრაამ ლინქოლნი
+    yi: אברהם לינקאלן
+    yo: Abraham Lincoln
+    yue: 林肯
+    za: Linzgenj
+    zea: Abraham Lincoln
+    zh: 亞伯拉罕·林肯
+    zh-cn: 亚伯拉罕·林肯
+    zh-hans: 亚伯拉罕·林肯
+    zh-hant: 亞伯拉罕·林肯
+    zh-hk: 亞伯拉罕·林肯
+    zh-mo: 亞伯拉罕·林肯
+    zh-my: 亚伯拉罕·林肯
+    zh-sg: 亚伯拉罕·林肯
+    zh-tw: 亞伯拉罕·林肯
+    zu: Abraham Lincoln
   time_:
     started: 1809-02-12T00:00:00.000+00:53
     stopped: 1865-04-15T00:00:00.000+00:53
-  created_:
-    quote: To learn the character of a man, give him[[../../../../../_protect/Society/Sociology/Politics/Power(political)]]].
 dv_is_member_of:
-  - "[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]"
-  - "[[Whig Party]]"
-  - "[[National Union Party]]"
-dv_is_part_of: "[[../../../../../PDFs]]]"
+- '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
+- '[[Whig Party]]'
+- '[[National Union Party]]'
+dv_is_part_of: '[[../../../../../PDFs]]]'
 dv_has_time_started: 1809-02-12
 dv_has_time_stopped: 1865-04-15
 dv_has_created_quote: To learn the character of a man, give him[[../../../../../_protect/Society/Sociology/Politics/Power(political)]]].
 dv_is_same_as:
-  - "[[/_Standards/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham|Lincoln,Abraham]]"
-  - "[[/_public/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.public|Lincoln,Abraham.public]]"
-  - "[[/_internal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.internal|Lincoln,Abraham.internal]]"
-  - "[[/_protect/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.protect|Lincoln,Abraham.protect]]"
-  - "[[/_private/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.private|Lincoln,Abraham.private]]"
-  - "[[/_personal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.personal|Lincoln,Abraham.personal]]"
-  - "[[/_secret/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.secret|Lincoln,Abraham.secret]]"
+- '[[/_Standards/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham|Lincoln,Abraham]]'
+- '[[/_public/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.public|Lincoln,Abraham.public]]'
+- '[[/_internal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.internal|Lincoln,Abraham.internal]]'
+- '[[/_protect/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.protect|Lincoln,Abraham.protect]]'
+- '[[/_private/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.private|Lincoln,Abraham.private]]'
+- '[[/_personal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.personal|Lincoln,Abraham.personal]]'
+- '[[/_secret/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.secret|Lincoln,Abraham.secret]]'
 ---
-
 # [[Lincoln,Abraham]] 
 
 is_part_of = `=this.dv_is_part_of`

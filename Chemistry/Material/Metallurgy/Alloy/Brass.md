@@ -1,37 +1,257 @@
 ---
 aliases:
-  - Messing
-  - Brass
+- Adaruɣ
+- alamă
+- Brass
+- Bress
+- bürünc
+- Djaene keuve
+- geelkoper
+- Jez
+- Kuningan
+- Kuningan (logam)
+- laiton
+- lastu
+- Laton
+- Latton
+- latuno
+- latão
+- latón
+- Letoi
+- letón
+- llautó
+- Loton
+- loyang
+- Látún
+- Lɛɛtɔɔ
+- medenina
+- Mesing
+- Messeng
+- Messing
+- messinki
+- Mischen
+- misiņš
+- mjed
+- Mosadz
+- mosaz
+- mosiądz
+- Musafuri
+- mässing
+- Määsang
+- N̂g-tâng
+- orichalcum
+- ottone
+- Pirinç
+- pres
+- Pràis
+- prás
+- Shaba nyeupe
+- sárgaréz
+- Tansong dilaw
+- Tunxhi
+- Uttuni
+- Varahimavo
+- đồng thau
+- Žalvaris
+- ορείχαλκος
+- баҡыр иретмәһе
+- Бур (æмтад)
+- Гуулин
+- Дукни
+- Жез
+- Йĕс
+- латунь
+- месинг
+- Той
+- җиз
+- ӵужтуй
+- արույր
+- פליז
+- براص
+- برنج
+- سَرتَل
+- مسی سپی
+- نحاس أصفر
+- پتل
+- پیتل
+- पितळ
+- पित्तल
+- पीतल
+- ब्रास
+- পিতল
+- ਪਿੱਤਲ
+- பித்தளை
+- ఇత్తడి
+- ಹಿತ್ತಾಳೆ
+- പിത്തള
+- ทองเหลือง
+- ကြေးဝါ
+- თითბერი
+- ᏣᏱ
+- ᡨᡝᡳᡧᡠᠨ
+- ᱯᱤᱛᱳᱞ
+- 黃銅
+- 黄銅
+- 黄铜
+- 황동
 dv_is_:
-  similar_to: "[[Bronze]]"
+  similar_to: '[[Bronze]]'
   same_as:
-    - "[[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]]"
-    - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]]"
-    - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]]"
-    - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]]"
-    - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]]"
-    - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]]"
-    - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]]"
-    - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]]"
+  - '[[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]]'
+  - '[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]]'
+  - '[[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]]'
+  - '[[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]]'
+  - '[[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]]'
+  - '[[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]]'
+  - '[[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]]'
+  - '[[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]]'
 dv_has_:
+  name_:
+    acm: براص
+    af: geelkoper
+    ar: نحاس أصفر
+    ast: Latón
+    az: bürünc
+    ba: баҡыр иретмәһе
+    ban: Kuningan (logam)
+    be: Латунь
+    be-tarask: латунь
+    bg: Месинг
+    bn: পিতল
+    br: Laton
+    bs: Mesing
+    bxr: Гуулин
+    ca: llautó
+    chr: ᏣᏱ
+    ckb: مسی سپی
+    cs: mosaz
+    cv: Йĕс
+    cy: pres
+    da: messing
+    de: Messing
+    de-ch: Messing
+    el: ορείχαλκος
+    en: brass
+    en-ca: brass
+    en-gb: brass
+    eo: latuno
+    es: latón
+    et: Messing
+    eu: Letoi
+    fa: برنج
+    fi: messinki
+    fr: laiton
+    frr: Määsang
+    ga: prás
+    gd: Pràis
+    gl: latón
+    gsw: Messing
+    he: פליז
+    hi: पीतल
+    hr: mjed
+    hu: sárgaréz
+    hy: արույր
+    ia: Laton
+    id: Kuningan
+    io: Latuno
+    is: Látún
+    it: ottone
+    ja: 黄銅
+    jbo: lastu
+    ka: თითბერი
+    kab: Adaruɣ
+    kbp: Lɛɛtɔɔ
+    kk: Жез
+    kn: ಹಿತ್ತಾಳೆ
+    ko: 황동
+    ks: سَرتَل
+    ksh: Messing
+    la: orichalcum
+    lad: letón
+    lb: Messeng
+    lbe: Дукни
+    lfn: Laton
+    li: Messing
+    lij: Latton
+    lmo: Loton
+    lt: Žalvaris
+    lv: misiņš
+    mai: पीतल
+    mg: Varahimavo
+    mhr: Той
+    mk: месинг
+    ml: പിത്തള
+    mnc: ᡨᡝᡳᡧᡠᠨ
+    mr: पितळ
+    ms: loyang
+    my: ကြေးဝါ
+    nan: N̂g-tâng
+    nb: messing
+    nds: Mischen
+    ne: पित्तल
+    new: ब्रास
+    nl: messing
+    nn: messing
+    oc: Laton
+    os: Бур (æмтад)
+    pa: ਪਿੱਤਲ
+    pl: mosiądz
+    pnb: پتل
+    pt: latão
+    pt-br: latão
+    ro: alamă
+    ru: латунь
+    sat: ᱯᱤᱛᱳᱞ
+    scn: Uttuni
+    sco: Bress
+    sgs: Žalvaris
+    sh: Mesing
+    sk: Mosadz
+    sl: medenina
+    sn: Musafuri
+    sq: Tunxhi
+    sr: месинг
+    su: Kuningan
+    sv: mässing
+    sw: Shaba nyeupe
+    szl: Mesing
+    ta: பித்தளை
+    te: ఇత్తడి
+    th: ทองเหลือง
+    tl: Tansong dilaw
+    tr: Pirinç
+    tt: җиз
+    udm: ӵужтуй
+    uk: латунь
+    ur: پیتل
+    uz: Jez
+    vi: đồng thau
+    vro: Messing
+    wa: Djaene keuve
+    wuu: 黄铜
+    yue: 黃銅
+    zh: 黃銅
+    zh-hans: 黄铜
+    zh-hant: 黃銅
+    zh-tw: 黃銅
   parts:
-    - "[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]"
-    - "[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]"
-dv_is_similar_to: "[[Bronze]]"
+  - '[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]'
+  - '[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]'
+dv_is_similar_to: '[[Bronze]]'
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]]"
-  - "[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]]"
-  - "[[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]]"
-  - "[[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]]"
-  - "[[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]]"
-  - "[[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]]"
-  - "[[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]]"
-  - "[[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]]"
+- '[[../../../../WikiData/WD~Brass,39782|WD~Brass,39782]]'
+- '[[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]]'
+- '[[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]]'
+- '[[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]]'
+- '[[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]]'
+- '[[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]]'
+- '[[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]]'
+- '[[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]]'
 dv_has_parts:
-  - "[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]"
-  - "[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]"
+- '[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]'
+- '[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]'
+has_id_wikidata: Q39782
 ---
-
 # [[Brass]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

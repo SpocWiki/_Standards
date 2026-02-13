@@ -1,4 +1,60 @@
-
+---
+has_id_wikidata: Q852435
+dv_has_:
+  name_:
+    af: Steely Dan
+    ar: ستيلي دان
+    arz: ستيلى دان
+    ast: Steely Dan
+    azb: استیلی دن
+    bg: Стийли Дан
+    cs: Steely Dan
+    da: Steely Dan
+    de: Steely Dan
+    en: Steely Dan
+    es: Steely Dan
+    fa: استیلی دن
+    fi: Steely Dan
+    fr: Steely Dan
+    ga: Steely Dan
+    he: סטילי דן
+    hu: Steely Dan
+    id: Steely Dan
+    it: Steely Dan
+    ja: スティーリー・ダン
+    ka: Steely Dan
+    ko: 스틸리 댄
+    li: Steely Dan
+    mk: Steely Dan
+    nan: Steely Dan
+    nb: Steely Dan
+    nl: Steely Dan
+    nn: Steely Dan
+    pl: Steely Dan
+    pt: Steely Dan
+    ru: Steely Dan
+    sh: Steely Dan
+    smn: Steely Dan
+    sv: Steely Dan
+    tr: Steely Dan
+    uk: Steely Dan
+    vi: Steely Dan
+    zh: 史提利丹
+    zh-hans: 钢铁浮标
+    zh-hant: 鋼鐵浮標
+aliases:
+- Steely Dan
+- Стийли Дан
+- סטילי דן
+- استیلی دن
+- ستيلى دان
+- ستيلي دان
+- スティーリー・ダン
+- 史提利丹
+- 鋼鐵浮標
+- 钢铁浮标
+- 스틸리 댄
+---
 #has_/time_/started :: 1971-06-01 
 #has_/location_/created :: [[New_York,City]] 
 

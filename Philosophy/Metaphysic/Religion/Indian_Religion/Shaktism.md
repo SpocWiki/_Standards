@@ -1,9 +1,54 @@
 ---
 aliases:
-  - Shaktismus
-  - शाक्तसम्प्रदायः
-  - Śāktasampradāyaḥ
-  - Shaktism
+- Sakta
+- Saktisma
+- Saktismus
+- saktizmus
+- Shaktism
+- Shaktisme
+- Shaktismi
+- Shaktismo
+- Shaktismus
+- Shaktizmi
+- Syaktisme
+- xactisme
+- Śaktyzm
+- Śāktasampradāyaḥ
+- Ŝaktismo
+- Şaktizm
+- Šaktism
+- Šaktismus
+- šaktizam
+- šaktizem
+- Šaktizmas
+- Šaktizmus
+- Σακτισμός
+- Шактизм
+- Шактызм
+- שאקטיזם
+- شاكتيزم
+- شاكتيه
+- شاکتیپرستی
+- شکتی مت
+- शक्ति
+- शाक्त
+- शाक्त पंथ
+- शाक्त संप्रदाय
+- शाक्तं
+- शाक्तसम्प्रदायः
+- শাক্তধর্ম
+- শাক্তধৰ্ম
+- சாக்தம்
+- శక్తి ఆరాధన
+- ಶಾಕ್ತ ಪಂಥ
+- ശാക്തേയം
+- ลัทธิศักติ
+- შაკტიზმი
+- សក្តិនិកាយ
+- シャクティ派
+- 性力派
+- ꯁꯛꯇꯤ ꯂꯥꯢꯅꯤꯡ
+- 샥티파
 has_id_wikidata: Q849345
 subclass_of: '[[_Standards/WikiData/WD~Tantra,181510]]'
 different_from: '[[_Standards/WikiData/WD~Goddess_movement,3866624]]'
@@ -13,8 +58,78 @@ Universal_Decimal_Classification: 233.4
 Colon_Classification: Q25
 Commons_category: Shaktism
 OpenStreetMap_tag: denomination=shaktism
+dv_has_:
+  name_:
+    af: Shaktisme
+    ar: شاكتيزم
+    arz: شاكتيه
+    as: শাক্তধৰ্ম
+    az: Şaktizm
+    bcl: Shaktismo
+    be: Шактызм
+    be-tarask: шактызм
+    bho: शाक्त संप्रदाय
+    bn: শাক্তধর্ম
+    ca: xactisme
+    cs: Šaktismus
+    de: Shaktismus
+    el: Σακτισμός
+    en: Shaktism
+    eo: Ŝaktismo
+    es: Shaktismo
+    et: Šaktism
+    eu: Shaktismo
+    fa: شاکتیپرستی
+    fi: Shaktismi
+    fr: shaktisme
+    gl: Shaktismo
+    he: שאקטיזם
+    hi: शाक्त
+    hif: Shaktism
+    hr: šaktizam
+    hu: saktizmus
+    id: Sakta
+    it: Shaktismo
+    ja: シャクティ派
+    km: សក្តិនិកាយ
+    kn: ಶಾಕ್ತ ಪಂಥ
+    ko: 샥티파
+    la: Saktismus
+    lt: Šaktizmas
+    mag: शाक्त
+    mg: Saktisma
+    ml: ശാക്തേയം
+    mni: ꯁꯛꯇꯤ ꯂꯥꯢꯅꯤꯡ
+    mr: शाक्त पंथ
+    ms: Syaktisme
+    nb: Shaktisme
+    new: शक्ति
+    nl: Shaktisme
+    pi: शक्ति
+    pl: Śaktyzm
+    pt: Shaktismo
+    ru: Шактизм
+    sa: शाक्तं
+    sk: Šaktizmus
+    sl: šaktizem
+    sq: Shaktizmi
+    sr: Šaktizam
+    sv: Shaktism
+    ta: சாக்தம்
+    te: శక్తి ఆరాధన
+    th: ลัทธิศักติ
+    tr: Şaktizm
+    tt: Шактизм
+    uk: Шактизм
+    ur: شکتی مت
+    vi: Shaktism
+    xmf: შაკტიზმი
+    yue: 性力派
+    zh: 性力派
+    zh-hans: 性力派
+    zh-hant: 性力派
+    zh-hk: 性力派
 ---
-
 # [[Shaktism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Shaktism,849345|WD~Shaktism,849345]]  

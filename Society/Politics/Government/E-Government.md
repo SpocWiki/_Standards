@@ -1,21 +1,138 @@
 ---
 aliases:
-  - electronic government
-  - E-Government
+- administration électronique
+- amministrazione digitale
+- chính phủ điện tử
+- davlati elektronī
+- digital forvaltning
+- e gvaernar
+- e-Devlet
+- e-förvaltning
+- E-Government
+- e-kormányzat
+- e-regering
+- E-riik
+- E-uprava
+- e-vlada
+- electronic government
+- elektron dövlət
+- elektron hukumat
+- elektronika publika administrado
+- elektroninė valdžia
+- elektroniskā pārvalde
+- Gobernantza elektroniko
+- gobierno electrónico
+- gobiernu electrónicu
+- govern electrònic
+- governo digital
+- governo eletrónico
+- guvernare electronică
+- lавлати электронӣ
+- pemerintahan elektronik
+- Qeverisja elektronike
+- sahköinen hallinto
+- Ηλεκτρονική διακυβέρνηση
+- Е-влада
+- електронний уряд
+- електронно правителство
+- электронды басқару
+- электронное правительство
+- электронны ўрад
+- ממשל אלקטרוני
+- ای-حکومت
+- حكومة إلكترونية
+- دولت الکترونیک
+- ई-शासन
+- ই-গভর্নমেন্ট
+- ਈ-ਗੌਰਮਿੰਟ
+- இணைய அரசு
+- ඉ-රාඡ්ය
+- รัฐบาลอิเล็กทรอนิกส์
+- ລັດຖະບານເອເລັກໂຕຣນິກ
+- 电子政务
+- 電子政府
+- 전자정부
 has_id_wikidata: Q211017
 part_of: '[[_Standards/WikiData/WD~public_law,207892]]'
 different_from:
-  - '[[_Standards/WikiData/WD~Electronic_Legal_Transactions,1327293]]'
-  - '[[_Standards/WikiData/WD~electronic_governance,30032134]]'
+- '[[_Standards/WikiData/WD~Electronic_Legal_Transactions,1327293]]'
+- '[[_Standards/WikiData/WD~electronic_governance,30032134]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~technology,11016]]'
-  - '[[_Standards/WikiData/WD~public_administration,31728]]'
+- '[[_Standards/WikiData/WD~technology,11016]]'
+- '[[_Standards/WikiData/WD~public_administration,31728]]'
 instance_of: '[[_Standards/WikiData/WD~technology,11016]]'
 Commons_category: E-Government
 OmegaWiki_Defined_Meaning: 536033
 image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Egyptian%20E-government%20portal.png
+dv_has_:
+  name_:
+    af: e-regering
+    ar: حكومة إلكترونية
+    ast: gobiernu electrónicu
+    az: elektron dövlət
+    be-tarask: электронны ўрад
+    bg: електронно правителство
+    bn: ই-গভর্নমেন্ট
+    ca: govern electrònic
+    cs: e-Government
+    da: digital forvaltning
+    de: E-Government
+    el: Ηλεκτρονική διακυβέρνηση
+    en: e-government
+    eo: elektronika publika administrado
+    es: gobierno electrónico
+    et: E-riik
+    eu: Gobernantza elektroniko
+    fa: دولت الکترونیک
+    fi: sahköinen hallinto
+    fr: administration électronique
+    he: ממשל אלקטרוני
+    hi: ई-शासन
+    hr: E-uprava
+    hu: e-kormányzat
+    id: pemerintahan elektronik
+    it: amministrazione digitale
+    ja: 電子政府
+    kk: электронды басқару
+    kn: e gvaernar
+    ko: 전자정부
+    lo: ລັດຖະບານເອເລັກໂຕຣນິກ
+    lt: elektroninė valdžia
+    lv: elektroniskā pārvalde
+    mk: Е-влада
+    my: E-Government
+    nb: digital forvaltning
+    nl: e-government
+    pa: ਈ-ਗੌਰਮਿੰਟ
+    pl: E-government
+    pt: governo eletrónico
+    pt-br: governo digital
+    ro: guvernare electronică
+    ru: электронное правительство
+    si: ඉ-රාඡ්ය
+    sl: e-vlada
+    sq: Qeverisja elektronike
+    sr: Е-Влада
+    sr-ec: Е-Влада
+    sr-el: E-Vlada
+    sv: e-förvaltning
+    ta: இணைய அரசு
+    tg: lавлати электронӣ
+    tg-latn: davlati elektronī
+    th: รัฐบาลอิเล็กทรอนิกส์
+    tr: e-Devlet
+    uk: електронний уряд
+    ur: ای-حکومت
+    uz: elektron hukumat
+    vi: chính phủ điện tử
+    zh: 电子政务
+    zh-cn: 电子政务
+    zh-hans: 电子政务
+    zh-hant: 电子政务
+    zh-hk: 电子政务
+    zh-sg: 电子政务
+    zh-tw: 电子政务
 ---
-
 # [[E-Government]] 
 
 #is_/same_as :: [[../../../WikiData/WD~E-government,211017|WD~E-government,211017]] 

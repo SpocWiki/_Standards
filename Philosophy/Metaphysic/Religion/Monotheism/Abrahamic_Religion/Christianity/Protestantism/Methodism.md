@@ -1,30 +1,191 @@
 ---
 aliases:
+- Cɔlɩyɛ yaa laɣsɩ tɩnaa ŋgbɛyɛ
+- Ecclesiae Methodistae
+- Igreja Metodista
+- Kristen Metodis
+- Libandla lemaWeseli
+- Meathodachd
+- Methodism
+- methodisme
+- Methodismo
+- Methodist
+- Methodista Inlisya
+- Methodistiaeth
+- Methodistische und Wesleyanische Kirchen
+- Metodis
+- metodism
+- Metodisma
+- metodisme
+- metodismi
+- metodismm
+- metodismo
+- metodisms
+- metodismu
+- metodismus
+- Metodistai
+- Metodisti
+- Metodistlar
+- Metodistët
+- metodizem
+- metodizm
+- metodizmus
+- metodyzm
+- metodîzm
+- Meþódismi
+- Modhachas
+- Mètodismo
+- méthodisme
+- Phong trào Giám Lý
+- Sùn-tho-tsûng
+- Wamethodisti
+- y Taasilaght
+- Μεθοδισμός
+- метадызм
+- методизам
+- методизм
+- методизъм
+- мэтадызм
+- մեթոդիզմ
+- Մեթոտական
+- מתודיזם
+- الكنيسه الميثوديه
+- لميطودية
+- متدیست
+- متدیسم
+- ميثودية
+- میتودیزم
+- میتھوڈسٹ کلیسیا
+- میتۆدیزم
+- मेथोडिज़्म
+- மெதடிசம்
+- მეთოდიზმი
+- មេតូឌីស្ទ
+- メソジスト
+- 循道宗
+- 循道衛理公會
+- 감리교
 has_id_wikidata: Q33203
-separated_from: "[[_Standards/WikiData/WD~Church_of_England,82708]]"
-founded_by: "[[_Standards/WikiData/WD~John_Wesley,213393]]"
+separated_from: '[[_Standards/WikiData/WD~Church_of_England,82708]]'
+founded_by: '[[_Standards/WikiData/WD~John_Wesley,213393]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 topic_has_template:
-  - "[[_Standards/WikiData/WD~Template_Methodism,13481972]]"
-  - "[[_Standards/WikiData/WD~Template_Methodism_footer,25728107]]"
-practiced_by: "[[_Standards/WikiData/WD~Methodist_pastor,97344615]]"
-instance_of: "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Christianity,5043]]"
-subclass_of: "[[_Standards/WikiData/WD~Protestantism,23540]]"
-Dewey_Decimal_Classification: "287"
+- '[[_Standards/WikiData/WD~Template_Methodism,13481972]]'
+- '[[_Standards/WikiData/WD~Template_Methodism_footer,25728107]]'
+practiced_by: '[[_Standards/WikiData/WD~Methodist_pastor,97344615]]'
+instance_of: '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Christianity,5043]]'
+subclass_of: '[[_Standards/WikiData/WD~Protestantism,23540]]'
+Dewey_Decimal_Classification: 287
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/methodist
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/METODISTI.html
 Commons_category: Methodism
 Colon_Classification: Q68L6
 OpenStreetMap_tag: denomination=methodist
+dv_has_:
+  name_:
+    ar: ميثودية
+    ary: لميطودية
+    arz: الكنيسه الميثوديه
+    ast: metodismu
+    az: metodizm
+    be: метадызм
+    be-tarask: мэтадызм
+    bg: методизъм
+    bs: Metodisti
+    ca: metodisme
+    ckb: میتۆدیزم
+    cs: metodismus
+    cy: Methodistiaeth
+    da: metodisme
+    de: Methodistische und Wesleyanische Kirchen
+    el: Μεθοδισμός
+    en: Methodism
+    eo: Metodismo
+    es: metodismo
+    et: metodism
+    eu: metodismo
+    fa: متدیست
+    fi: metodismi
+    fr: méthodisme
+    frp: Mètodismo
+    ga: Modhachas
+    gd: Meathodachd
+    gl: metodismo
+    gn: metodismo
+    gv: y Taasilaght
+    hak: Sùn-tho-tsûng
+    he: מתודיזם
+    hi: मेथोडिज़्म
+    hr: metodisti
+    ht: Metodis
+    hu: metodizmus
+    hy: մեթոդիզմ
+    hyw: Մեթոտական
+    ia: Methodismo
+    iba: Methodist
+    id: Kristen Metodis
+    ig: Methodism
+    ilo: Metodismo
+    is: Meþódismi
+    it: metodismo
+    ja: メソジスト
+    ka: მეთოდიზმი
+    kbp: Cɔlɩyɛ yaa laɣsɩ tɩnaa ŋgbɛyɛ
+    kk: Методизм
+    km: មេតូឌីស្ទ
+    ko: 감리교
+    ku-latn: metodîzm
+    la: Ecclesiae Methodistae
+    lrc: متدیسم
+    lt: Metodistai
+    lv: metodisms
+    mg: Metodisma
+    min: Kristen Metodis
+    mk: методизам
+    ms: Metodisme
+    nb: metodisme
+    nl: methodisme
+    nn: metodisme
+    nrm: Méthodisme
+    os: методизм
+    pl: metodyzm
+    ps: میتودیزم
+    pt: Igreja Metodista
+    qu: Methodista Inlisya
+    ro: metodism
+    ru: методизм
+    rue: методизм
+    se: metodisma
+    sh: Metodisti
+    sk: metodizmus
+    sl: metodizem
+    smn: metodism
+    sms: metodismm
+    sq: Metodistët
+    sr: методизам
+    ss: Libandla lemaWeseli
+    sv: metodism
+    sw: Wamethodisti
+    ta: மெதடிசம்
+    tr: metodizm
+    uk: методизм
+    ur: میتھوڈسٹ کلیسیا
+    uz: Metodistlar
+    vi: Phong trào Giám Lý
+    wuu: 循道宗
+    xmf: მეთოდიზმი
+    yue: 循道衛理公會
+    zh: 循道宗
+    zh-hk: 循道宗
+    zh-sg: 循道宗
 ---
-
 # [[Methodism]] 
 
 #is_/same_as :: [[WD~Methodism,33203]] 

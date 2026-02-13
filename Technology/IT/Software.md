@@ -1,6 +1,135 @@
 ---
 aliases:
-  - Software
+- bathar-bog
+- bogearra
+- computerprogram
+- dasturiy ta'minot
+- dáhtáprográmma
+- hugbúnaður
+- ilo kon
+- litámbwisi
+- llamp'u kaq
+- logicial
+- logiciel
+- machisko
+- meddalwedd
+- meziant
+- mol-varo
+- mosaajii
+- nermalav
+- ngiôn-thí
+- niōng-giông
+- nńg-thé
+- ohjelmisto
+- oprogramowanie
+- pakakas bayut
+- perangkat lunak
+- perisian
+- phần mềm
+- piranti alus
+- programa
+- programari
+- programaro
+- programatura
+- programinė įranga
+- programma teminatı
+- programmalıq támiynat
+- programmatura computratralis
+- programmatūra
+- programska oprema
+- programska podrška
+- programu
+- programvara
+- programvare
+- prográmmadat
+- proqram təminatı
+- prugramadura
+- pruogramėnė īronga
+- pūmanawa rorohiko
+- rindrankajy
+- ritbúnaður
+- saftware
+- sagteware
+- softuer
+- softver
+- softvér
+- softwara
+- Software
+- software da computer
+- softwer
+- sopwer
+- szoftver
+- tarkvara
+- yazılım
+- λογισμικό
+- бағдарламалық жасақтама
+- нармафзор
+- праграмнае забеспячэнне
+- праграмнае забесьпячэньне
+- програм тәэминат
+- програм хангамж
+- програмдык жабдуу
+- программăпа тивĕçтересси
+- программа менән тәьмин итеү
+- программе вораҥдыш
+- программное обеспечение
+- программной юрттэт
+- програмне забезпечення
+- програмска опрема
+- проґрамове забеспечіня
+- софтвер
+- софтуер
+- софтуэр
+- ծրագրային ապահովում
+- ווייכווארג
+- תוכנה
+- برمجيات
+- سافٹ ویئر
+- سافٹٕویر
+- سافٽ ويئر
+- ساوتری
+- سوفت وير
+- سوفٹ وئر
+- صوفتوير
+- نرمأفزار
+- نرمافزار
+- نەرمامێر
+- ڤريسين
+- یازیلیم
+- ߛߎ߲ߝߘߍ
+- सफ्टवेयर
+- सफ्टवेर
+- साफ्टवेयर
+- सॉफ़्टवेयर
+- सॉफ्टवेअर
+- सॉफ्टवेयर
+- কম্পিউটার সফটওয়্যার
+- ছফ্টৱেৰ
+- ਸਾਫ਼ਟਵੇਅਰ
+- સૉફ્ટવેર
+- ସଫ୍ଟୱେର
+- மென்பொருள்
+- కంప్యూటర్ సాఫ్ట్ వేర్
+- ತಂತ್ರಾಂಶ
+- കമ്പ്യൂട്ടർ സോഫ്റ്റ്വെയർ
+- පරිගණක මෘදුකාංග
+- ซอฟต์แวร์
+- ຊອຟຕ໌ແວຣ໌
+- མཉེན་ཆས་
+- ကွန်ပျူတာ ဆော့ဖ်ဝဲလ်
+- ကွန်ပျူတာ ဆော့ဝဲ
+- သော့ဝွဲး
+- პროგრამული უზრუნველყოფა
+- ሶፍትዌር
+- ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ
+- ソフトウェア
+- 軟件
+- 軟體
+- 软件
+- 電腦軟件
+- ꮹꮒꭸ ꭶꮎꮧꮕꮧ
+- 소프트웨어
+- 쏘프트웨어
 has_id_wikidata: Q7397
 All_Science_Journal_Classification_Codes: 1712
 Amazon_com_browse_node: 229534
@@ -8,29 +137,29 @@ Baidu_Tieba_name: 软件
 Commons_category: Software
 Commons_gallery: Software
 Dewey_Decimal_Classification:
-  - 5
-  - 5.3
+- 5
+- 5.3
 different_from:
-  - '[[_Standards/WikiData/WD~Software,2297604]]'
-  - '[[_Standards/WikiData/WD~computer_program,40056]]'
+- '[[_Standards/WikiData/WD~Software,2297604]]'
+- '[[_Standards/WikiData/WD~computer_program,40056]]'
 EntitySchema_for_this_class: E16
 equivalent_class:
-  - http://dbpedia.org/ontology/Software
-  - http://purl.org/dc/dcmitype/Software
+- http://dbpedia.org/ontology/Software
+- http://purl.org/dc/dcmitype/Software
 exact_match:
-  - http://purl.org/coar/resource_type/c_5ce6
-  - https://citationstyles.org/ontology/type/software
+- http://purl.org/coar/resource_type/c_5ce6
+- https://citationstyles.org/ontology/type/software
 has_characteristic:
-  - '[[_Standards/WikiData/WD~source_code,128751]]'
-  - '[[_Standards/WikiData/WD~software_architecture,846636]]'
-  - '[[_Standards/WikiData/WD~software_testability,1307327]]'
-  - '[[_Standards/WikiData/WD~software_quality,1412670]]'
-  - '[[_Standards/WikiData/WD~software_feature,4485156]]'
-  - '[[_Standards/WikiData/WD~software_category,17155032]]'
+- '[[_Standards/WikiData/WD~source_code,128751]]'
+- '[[_Standards/WikiData/WD~software_architecture,846636]]'
+- '[[_Standards/WikiData/WD~software_testability,1307327]]'
+- '[[_Standards/WikiData/WD~software_quality,1412670]]'
+- '[[_Standards/WikiData/WD~software_feature,4485156]]'
+- '[[_Standards/WikiData/WD~software_category,17155032]]'
 has_list: '[[_Standards/WikiData/WD~list_of_softwares,25344612]]'
 has_part_s_:
-  - '[[_Standards/WikiData/WD~data,494756]]'
-  - '[[_Standards/WikiData/WD~computer_program,40056]]'
+- '[[_Standards/WikiData/WD~data,494756]]'
+- '[[_Standards/WikiData/WD~computer_program,40056]]'
 history_of_topic: '[[_Standards/WikiData/WD~history_of_software,17155144]]'
 IAB_code: 602
 IEV_number: 171-01-21
@@ -41,11 +170,11 @@ IPTC_NewsCode: mediatopic/20000231
 maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Software,15659621]]'
 MeSH_tree_code: L01.224.900
 model_item:
-  - '[[_Standards/WikiData/WD~VLC_media_player,171477]]'
-  - '[[_Standards/WikiData/WD~SQLite,319417]]'
-  - '[[_Standards/WikiData/WD~GNOME_Shell,1343860]]'
-  - '[[_Standards/WikiData/WD~Firefox,698]]'
-  - '[[_Standards/WikiData/WD~Windows_XP,11248]]'
+- '[[_Standards/WikiData/WD~VLC_media_player,171477]]'
+- '[[_Standards/WikiData/WD~SQLite,319417]]'
+- '[[_Standards/WikiData/WD~GNOME_Shell,1343860]]'
+- '[[_Standards/WikiData/WD~Firefox,698]]'
+- '[[_Standards/WikiData/WD~Windows_XP,11248]]'
 Nomenclature_for_Museum_Cataloging: 10402
 OmegaWiki_Defined_Meaning: 3493
 opposite_of: '[[_Standards/WikiData/WD~computer_hardware,3966]]'
@@ -53,57 +182,230 @@ part_of: '[[_Standards/WikiData/WD~computer,68]]'
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q12715472,12715472]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20JEP%20%28Madehub%29-logiciel%20libre.wav
 properties_for_this_type:
-  - copyright license
-  - programmed in
-  - operating system
-  - software version identifier
-  - platform
-  - language of work or name
-  - software engine
-  - input device
-  - inception
-  - official website
-  - programmer
-  - digital rights management system
-  - writable file format
-  - readable file format
-  - source code repository URL
-  - GUI toolkit or framework
-  - Stack Exchange tag
-  - depends on software
-  - user manual URL
-  - Free Software Directory entry
-  - PRONOM software ID
-  - Google Play Store app ID
-  - Debian stable package
-  - Arch Linux package
-  - Fedora package
-  - Ubuntu package
-  - Gentoo package
-  - F-Droid package
-  - App Store app ID
-  - output device
-  - build system
-  - official demo URL
-  - SteamGridDB ID
-  - image
-  - logo image
-  - developer
+- copyright license
+- programmed in
+- operating system
+- software version identifier
+- platform
+- language of work or name
+- software engine
+- input device
+- inception
+- official website
+- programmer
+- digital rights management system
+- writable file format
+- readable file format
+- source code repository URL
+- GUI toolkit or framework
+- Stack Exchange tag
+- depends on software
+- user manual URL
+- Free Software Directory entry
+- PRONOM software ID
+- Google Play Store app ID
+- Debian stable package
+- Arch Linux package
+- Fedora package
+- Ubuntu package
+- Gentoo package
+- F-Droid package
+- App Store app ID
+- output device
+- build system
+- official demo URL
+- SteamGridDB ID
+- image
+- logo image
+- developer
 social_media_followers: 183738
 studied_in: '[[_Standards/WikiData/WD~software_engineering,80993]]'
 subclass_of:
-  - '[[_Standards/WikiData/WD~product,2424752]]'
-  - '[[_Standards/WikiData/WD~means,12774177]]'
-  - '[[_Standards/WikiData/WD~creative_work,17537576]]'
-  - '[[_Standards/WikiData/WD~written_work,47461344]]'
+- '[[_Standards/WikiData/WD~product,2424752]]'
+- '[[_Standards/WikiData/WD~means,12774177]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~written_work,47461344]]'
 subreddit: software
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_software,5621231]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Software,15021033]]'
 Universal_Decimal_Classification: 4.42
 Wikidata_property: PRONOM software ID
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_software,18922260]]'
+dv_has_:
+  name_:
+    af: sagteware
+    an: software
+    ar: برمجيات
+    ary: صوفتوير
+    arz: سوفت وير
+    as: ছফ্টৱেৰ
+    ast: software
+    az: proqram təminatı
+    azb: یازیلیم
+    ba: программа менән тәьмин итеү
+    be: праграмнае забеспячэнне
+    be-tarask: праграмнае забесьпячэньне
+    bg: софтуер
+    bho: सॉफ्टवेयर
+    bjn: pakakas bayut
+    blk: သော့ဝွဲး
+    bn: কম্পিউটার সফটওয়্যার
+    bo: མཉེན་ཆས་
+    br: meziant
+    bs: softver
+    ca: programari
+    cdo: niōng-giông
+    chr: ꮹꮒꭸ ꭶꮎꮧꮕꮧ
+    ckb: نەرمامێر
+    co: software
+    crh: programma teminatı
+    cs: software
+    cv: программăпа тивĕçтересси
+    cy: meddalwedd
+    da: computerprogram
+    de: Software
+    de-ch: Software
+    el: λογισμικό
+    en: software
+    en-ca: software
+    en-gb: software
+    eo: programaro
+    es: software
+    et: tarkvara
+    eu: software
+    fa: نرمافزار
+    fi: ohjelmisto
+    fo: ritbúnaður
+    fr: logiciel
+    fy: software
+    ga: bogearra
+    gd: bathar-bog
+    gl: software
+    glk: نرمأفزار
+    gsw: Software
+    gu: સૉફ્ટવેર
+    ha: software
+    hak: ngiôn-thí
+    he: תוכנה
+    hi: सॉफ़्टवेयर
+    hif: software
+    hr: programska podrška
+    hsb: softwara
+    hu: szoftver
+    hy: ծրագրային ապահովում
+    ia: software
+    id: perangkat lunak
+    ilo: sopwer
+    io: mol-varo
+    is: hugbúnaður
+    it: software
+    iu: ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ
+    ja: ソフトウェア
+    jv: piranti alus
+    ka: პროგრამული უზრუნველყოფა
+    kaa: programmalıq támiynat
+    kk: бағдарламалық жасақтама
+    kn: ತಂತ್ರಾಂಶ
+    ko: 소프트웨어
+    ko-kp: 쏘프트웨어
+    ks: سافٹٕویر
+    ku: nermalav
+    ky: програмдык жабдуу
+    la: programmatura computratralis
+    lb: Software
+    lij: software
+    lmo: prugramadura
+    ln: litámbwisi
+    lo: ຊອຟຕ໌ແວຣ໌
+    lt: programinė įranga
+    lv: programmatūra
+    lzh: 軟體
+    mag: साफ्टवेयर
+    mg: rindrankajy
+    mhr: программе вораҥдыш
+    mi: pūmanawa rorohiko
+    mk: програмска опрема
+    ml: കമ്പ്യൂട്ടർ സോഫ്റ്റ്വെയർ
+    mn: програм хангамж
+    mr: सॉफ्टवेअर
+    ms: perisian
+    ms-arab: ڤريسين
+    mt: softwer
+    mwl: software
+    my: ကွန်ပျူတာ ဆော့ဖ်ဝဲလ်
+    nan: nńg-thé
+    nb: programvare
+    nds: Software
+    ne: सफ्टवेयर
+    new: सफ्टवेर
+    nl: software
+    nn: programvare
+    nqo: ߛߎ߲ߝߘߍ
+    oc: logicial
+    om: mosaajii
+    or: ସଫ୍ଟୱେର
+    pa: ਸਾਫ਼ਟਵੇਅਰ
+    pl: oprogramowanie
+    pms: software da computer
+    pnb: سوفٹ وئر
+    ps: ساوتری
+    pt: programa
+    pt-br: software
+    qu: llamp'u kaq
+    rki: ကွန်ပျူတာ ဆော့ဝဲ
+    ro: software
+    ru: программное обеспечение
+    rue: проґрамове забеспечіня
+    sah: софтуэр
+    sc: software
+    scn: software
+    sco: saftware
+    sd: سافٽ ويئر
+    se: prográmmadat
+    sg: Software
+    sgs: pruogramėnė īronga
+    sh: softver
+    si: පරිගණක මෘදුකාංග
+    sje: dáhtáprográmma
+    sk: softvér
+    sl: programska oprema
+    smj: dáhtáprográmma
+    so: software
+    sq: softuer
+    sr: софтвер
+    sr-ec: софтвер
+    st: software
+    sv: programvara
+    sw: programu
+    ta: மென்பொருள்
+    te: కంప్యూటర్ సాఫ్ట్ వేర్
+    tg: нармафзор
+    tg-cyrl: нармафзор
+    th: ซอฟต์แวร์
+    ti: ሶፍትዌር
+    tl: software
+    tok: ilo kon
+    tr: yazılım
+    tt: програм тәэминат
+    tt-cyrl: програм тәэминат
+    tum: machisko
+    udm: программной юрттэт
+    uk: програмне забезпечення
+    ur: سافٹ ویئر
+    uz: dasturiy ta'minot
+    vec: programatura
+    vi: phần mềm
+    war: software
+    wuu: 软件
+    yi: ווייכווארג
+    yue: 電腦軟件
+    zh: 软件
+    zh-cn: 软件
+    zh-hans: 软件
+    zh-hant: 軟體
+    zh-hk: 軟件
+    zh-tw: 軟體
 ---
-
 # [[Software]] 
 
 #is_/same_as :: [[../../WikiData/WD~Software,7397|WD~Software,7397]] 

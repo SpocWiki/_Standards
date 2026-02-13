@@ -1,38 +1,201 @@
 ---
 aliases:
-  - corporation
-  - Corporation
-  - is_a_corporation
+- Baarada
+- corfforaeth
+- corparáid
+- Corpora
+- corporació
+- corporación
+- corporasion
+- Corporasyon
+- Corporatio
+- corporation
+- corporação
+- corporație
+- Embregerezh
+- entrepreno
+- entreprise
+- foretak
+- Isoqosoqo
+- is_a_corporation
+- Kaaparieshan
+- kapitaalvennootschap
+- korporaatio
+- korporace
+- korporacija
+- Korporaciono
+- korporacja
+- korporasie
+- Korporasiya
+- Korporasyon
+- Korporata
+- korporation
+- korporatsioon
+- Korporatsiya
+- Korporazio
+- korporácia
+- korporācija
+- Körperschaft
+- perbadanan
+- perusahaan
+- Umshumanqa
+- vállalat
+- đoàn thể
+- şirket
+- карпарацыя
+- копорација
+- корпорація
+- корпораци
+- корпорација
+- корпорация
+- Կորպորացիա
+- קארפאראציע
+- תאגיד
+- ابرشرکت
+- شرکہ
+- مؤسسة تجارية
+- ڪارپوريشن
+- निगम
+- কর্পোরেশন
+- કોર્પોરેશન
+- கூட்டு நிறுவனம்
+- കോർപ്പറേഷൻ
+- නීතිගත සංස්ථා
+- บรรษัท
+- კორპორაცია
+- コーポレーション
+- 公司組織
+- 法人团体
+- 法人團體
+- 法團
+- 기업
 confidential: public
 cssclasses:
-  - Type
+- Type
 draft: false
-expiryDate: ""
+expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-  - corporation
-layout: ""
+- corporation
+layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_corporation Class
 publish: true
-publishDate: ""
+publishDate: ''
 tags:
-  - class/Class
-  - schema-org/Class
+- class/Class
+- schema-org/Class
 title: is_a_corporation Class
 type: Type
-
 dv_is_same_as:
-  - "[Corporation](Corporation)"
-  - "[Corporation.public](/_public/Society/Organization/Corporation.public)"
-  - "[Corporation.internal](/_internal/Society/Organization/Corporation.internal)"
-  - "[Corporation.protect](/_protect/Society/Organization/Corporation.protect)"
-  - "[Corporation.private](/_private/Society/Organization/Corporation.private)"
-  - "[Corporation.personal](/_personal/Society/Organization/Corporation.personal)"
-  - "[Corporation.secret](/_secret/Society/Organization/Corporation.secret)"
+- '[Corporation](Corporation)'
+- '[Corporation.public](/_public/Society/Organization/Corporation.public)'
+- '[Corporation.internal](/_internal/Society/Organization/Corporation.internal)'
+- '[Corporation.protect](/_protect/Society/Organization/Corporation.protect)'
+- '[Corporation.private](/_private/Society/Organization/Corporation.private)'
+- '[Corporation.personal](/_personal/Society/Organization/Corporation.personal)'
+- '[Corporation.secret](/_secret/Society/Organization/Corporation.secret)'
+has_id_wikidata: Q167037
+dv_has_:
+  name_:
+    af: korporasie
+    ar: مؤسسة تجارية
+    ast: Corporación
+    az: Korporasiya
+    ba: Корпорация
+    bcl: Korporasyon
+    be: карпарацыя
+    be-tarask: карпарацыя
+    bg: Корпорация
+    bm: Baarada
+    bn: কর্পোরেশন
+    br: Embregerezh
+    bs: korporacija
+    ca: corporació
+    ceb: Korporasyon
+    cs: korporace
+    cy: corfforaeth
+    da: entreprise
+    de: Körperschaft
+    en: corporation
+    eo: entrepreno
+    es: corporación
+    et: korporatsioon
+    eu: Korporazio
+    fa: ابرشرکت
+    fi: korporaatio
+    fj: Isoqosoqo
+    fr: corporation
+    ga: corparáid
+    gcr: Korporasyon
+    gl: corporación
+    gsw: Körperschaft
+    gu: કોર્પોરેશન
+    he: תאגיד
+    hi: निगम
+    hr: Korporacija
+    hu: vállalat
+    hy: Կորպորացիա
+    id: perusahaan
+    io: Korporaciono
+    it: corporation
+    ja: コーポレーション
+    jam: Kaaparieshan
+    ka: კორპორაცია
+    kk: Корпорация
+    ko: 기업
+    ky: Корпорация
+    la: Corporatio
+    lfn: Corpora
+    lt: korporacija
+    lv: korporācija
+    mk: копорација
+    ml: കോർപ്പറേഷൻ
+    ms: perbadanan
+    nb: foretak
+    new: निगम
+    nl: kapitaalvennootschap
+    os: корпораци
+    pl: korporacja
+    pt: corporação
+    ro: corporație
+    ru: корпорация
+    sco: corporation
+    sd: ڪارپوريشن
+    sh: Korporacija
+    si: නීතිගත සංස්ථා
+    sk: korporácia
+    sl: korporacija
+    sq: Korporata
+    sr: корпорација
+    sr-ec: Корпорација
+    sr-el: Korporacija
+    sv: korporation
+    ta: கூட்டு நிறுவனம்
+    th: บรรษัท
+    tl: Korporasyon
+    tr: şirket
+    uk: корпорація
+    ur: شرکہ
+    uz: Korporatsiya
+    vec: corporasion
+    vi: đoàn thể
+    war: Corporasyon
+    wuu: 法人团体
+    yi: קארפאראציע
+    yue: 公司組織
+    zh: 法人團體
+    zh-cn: 法人团体
+    zh-hans: 法人团体
+    zh-hant: 法人團體
+    zh-hk: 法團
+    zh-mo: 法人團體
+    zh-my: 法人团体
+    zh-sg: 法人团体
+    zh-tw: 法人團體
+    zu: Umshumanqa
 ---
-
 # [[Corporation]] 
 
 #has_/parent_class :: [[../../Organization]]  

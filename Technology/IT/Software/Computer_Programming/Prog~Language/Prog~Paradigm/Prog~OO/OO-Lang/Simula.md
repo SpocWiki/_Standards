@@ -1,3 +1,7 @@
+---
+has_id_wikidata: Q212569
+---
+
 # [[Simula]] 
 
 #is_a_/ComputerLanguage 

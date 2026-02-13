@@ -1,11 +1,156 @@
 ---
 aliases:
-  - Samuel L. Jackson
-  - Samuel Leroy Jackson
-  - Jackson,Samuel_L.
-  - Jackson,Samuel L.
+- Jackson,Samuel L.
+- Jackson,Samuel_L.
+- Samjuel L. Džekson
+- Samuel L. Jackson
+- Samuel Leroy Jackson
+- Semjuels Džeksons
+- Semuel L. Cekson
+- Σάμιουελ Λ. Τζάκσον
+- Самјуел Л. Џексон
+- Самюъл Джаксън
+- Семјуел Л. Џексон
+- Семюел Лірой Джексон
+- Сэмюэл Л. Джексон
+- Сэмюэл Л. Джэксан
+- Сэмюэл Лерой Джексон
+- Сэмюэл Лерой Жексон
+- Сэмүэл Л. Жексон
+- Сэм’юэл Л. Джэксан
+- Сәмүэл Лерой Җәксон
+- Սեմյուել Ջեքսոն
+- סמואל ל. ג'קסון
+- ساموئل ال. جکسون
+- ساموێل ئێڵ جاکسن
+- سیموئل ایل جیکسن
+- سیموئیل ایل جیکسن
+- صامويل جاكسون
+- सॅम्युएल एल. जॅक्सन
+- सैमुएल एल॰ जैक्शन
+- सैम्युल एल॰ जैक्सन
+- স্যামুয়েল এল. জ্যাকসন
+- ਸੈਮਿਊਲ ਐੱਲ. ਜੈਕਸਨ
+- சாமுவேல் எல். ஜாக்சன்
+- ซามูเอล แอล. แจ็กสัน
+- სამუელ ლ. ჯექსონი
+- სემიუელ ლეროი ჯექსონი
+- サミュエル・L・ジャクソン
+- 塞缪尔·L·杰克逊
+- 塞缪尔·杰克逊
+- 山繆·L·傑克森
+- 森姆·L·積遜
+- 森姆積遜
+- 새뮤얼 L. 잭슨
+has_id_wikidata: Q172678
+dv_has_:
+  name_:
+    af: Samuel L. Jackson
+    ar: صامويل جاكسون
+    arz: صامويل جاكسون
+    ast: Samuel L. Jackson
+    az: Semuel L. Cekson
+    azb: ساموئل ال. جکسون
+    be: Сэмюэл Л. Джэксан
+    be-tarask: Сэм’юэл Л. Джэксан
+    bg: Самюъл Джаксън
+    bho: सैमुएल एल॰ जैक्शन
+    bn: স্যামুয়েল এল. জ্যাকসন
+    bs: Samuel L. Jackson
+    ca: Samuel L. Jackson
+    ckb: ساموێل ئێڵ جاکسن
+    cs: Samuel L. Jackson
+    cy: Samuel L. Jackson
+    da: Samuel L. Jackson
+    de: Samuel L. Jackson
+    el: Σάμιουελ Λ. Τζάκσον
+    en: Samuel L. Jackson
+    en-ca: Samuel L. Jackson
+    en-gb: Samuel L. Jackson
+    eo: Samuel L. Jackson
+    es: Samuel L. Jackson
+    et: Samuel L. Jackson
+    eu: Samuel L. Jackson
+    fa: ساموئل ال. جکسون
+    fi: Samuel L. Jackson
+    fr: Samuel L. Jackson
+    ga: Samuel L. Jackson
+    gd: Samuel L. Jackson
+    gl: Samuel L. Jackson
+    gv: Samuel L. Jackson
+    he: סמואל ל. ג'קסון
+    hi: सैम्युल एल॰ जैक्सन
+    hr: Samuel L. Jackson
+    hu: Samuel L. Jackson
+    hy: Սեմյուել Ջեքսոն
+    id: Samuel L. Jackson
+    ig: Samuel L. Jackson
+    io: Samuel L. Jackson
+    is: Samuel L. Jackson
+    it: Samuel L. Jackson
+    ja: サミュエル・L・ジャクソン
+    ka: სამუელ ლ. ჯექსონი
+    kk: Сэмюэл Лерой Джексон
+    ko: 새뮤얼 L. 잭슨
+    ky: Сэмүэл Л. Жексон
+    la: Samuel L. Jackson
+    lt: Samuel Leroy Jackson
+    lv: Semjuels Džeksons
+    mk: Семјуел Л. Џексон
+    mn: Сэмюэл Лерой Жексон
+    mr: सॅम्युएल एल. जॅक्सन
+    ms: Samuel L. Jackson
+    mul: Samuel L. Jackson
+    nan: Samuel L. Jackson
+    nb: Samuel L. Jackson
+    nl: Samuel L. Jackson
+    nn: Samuel L. Jackson
+    nrm: Samuel L. Jackson
+    oc: Samuel L. Jackson
+    pa: ਸੈਮਿਊਲ ਐੱਲ. ਜੈਕਸਨ
+    pap: Samuel L. Jackson
+    pl: Samuel L. Jackson
+    pnb: سیموئیل ایل جیکسن
+    pt: Samuel L. Jackson
+    pt-br: Samuel L. Jackson
+    ro: Samuel L. Jackson
+    ru: Сэмюэл Л. Джексон
+    sco: Samuel L. Jackson
+    sh: Samuel L. Jackson
+    sk: Samuel L. Jackson
+    sl: Samuel L. Jackson
+    smn: Samuel L. Jackson
+    sq: Samuel L. Jackson
+    sr: Самјуел Л. Џексон
+    sr-ec: Самјуел Л. Џексон
+    sr-el: Samjuel L. Džekson
+    su: Samuel L. Jackson
+    sv: Samuel L. Jackson
+    sw: Samuel L. Jackson
+    ta: சாமுவேல் எல். ஜாக்சன்
+    th: ซามูเอล แอล. แจ็กสัน
+    tl: Samuel L. Jackson
+    tpi: Samuel L. Jackson
+    tr: Samuel L. Jackson
+    tt: Сәмүэл Лерой Җәксон
+    tt-cyrl: Сәмүэл Лерой Җәксон
+    uk: Семюел Лірой Джексон
+    ur: سیموئل ایل جیکسن
+    uz: Samuel L. Jackson
+    vi: Samuel L. Jackson
+    war: Samuel L. Jackson
+    wuu: 塞缪尔·杰克逊
+    xmf: სემიუელ ლეროი ჯექსონი
+    yo: Samuel L. Jackson
+    yue: 森姆積遜
+    zh: 森姆·L·積遜
+    zh-cn: 塞缪尔·L·杰克逊
+    zh-hans: 塞缪尔·L·杰克逊
+    zh-hant: 山繆·L·傑克森
+    zh-hk: 森姆·L·積遜
+    zh-sg: 塞缪尔·L·杰克逊
+    zh-tw: 山繆·L·傑克森
 ---
-
 # [[Jackson,Samuel_L.]] 
 
 

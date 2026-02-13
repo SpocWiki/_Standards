@@ -1,17 +1,103 @@
 ---
 aliases:
-  - Hebrew calendar
-  - הַלּוּחַ הָעִבְרִי
-  - Jewish calendar
-  - Hebrew_Calendar
-  - Hebrew Calendar
+- Calendari ebraic
+- calendari hebreu
+- calendario ebraico
+- Calendario hebree
+- calendario hebreo
+- Calendariu hebréu
+- Calendarium Hebraicum
+- calendarul ebraic
+- calendièr ebrieu
+- Calendr Hebreaidd
+- calendrier hébraïque
+- calendário judaico
+- Calendäio ebraico
+- Deiziadur hebraek
+- Den jødiske kalender
+- Det jødiske året
+- Ebreju kalendārs
+- Hebrajų kalendorius
+- hebrea kalendaro
+- Hebrear egutegia
+- Hebreewsk kalender
+- Hebrejski kalendar
+- hebrejski koledar
+- Hebrejský kalendár
+- Hebreska almanakið
+- Hebrew calendar
+- Hebrew_Calendar
+- Hebrieuske kalinder
+- Hi-pek-lâi-le̍k
+- Jewish calendar
+- Joodse kalender
+- Judala kalendario
+- Judiska kalendern
+- Juudi kalender
+- Juutalainen kalenteri
+- Jüdischer Kalender
+- Kalandriye ebrayik
+- Kalenda ya Kiyahudi
+- Kalendario ebreo
+- Kalendaryo Hebreo
+- Kalendaryong Ebreo
+- kalendarz żydowski
+- Kalender Ibrani
+- Kalèndher Ibrani
+- Kalénder Yahudi
+- Lịch Do Thái
+- Takwim Ibrani
+- taswast tahibṛut
+- Teqwimo İbranki
+- Tetiandro hebreo
+- Yəhudi təqvimi
+- zsidó naptár
+- İbrani takvimi
+- Żydowski kalyndorz
+- židovský kalendář
+- Εβραϊκό ημερολόγιο
+- єврейський календар
+- Јеврејски календар
+- гэбрайскі каляндар
+- еврејски календар
+- Еврей күнтізбесі
+- Еврейн литэ
+- Еврейски календар
+- еврейский календарь
+- Йәһүд календары
+- Яўрэйскі каляндар
+- Հրեական տոմար
+- הַלּוּחַ הָעִבְרִי
+- הלוח העברי
+- יידישער לוח
+- الاشهر العبريه
+- تقويم عبري
+- عبرانی کیلنڈر
+- عبری تقویمی
+- ڕۆژژمێری عیبری
+- گاهشماری عبری
+- हिब्रू कैलेंडर
+- হিব্রু বর্ষপঞ্জী
+- எபிரேய நாட்காட்டி
+- ಯಹೂದೀ ಪಂಚಾಂಗ
+- හෙබ්රෙව් දින දසුන
+- ปฏิทินฮีบรู
+- ປະຕິທິນຢິວ
+- ებრაული კალენდარი
+- ურიული კალენდარი
+- ប្រតិទិនហេព្រើរ
+- ユダヤ暦
+- 希伯來曆
+- 希伯来历
+- 猶太曆
+- 히브리력
 has_id_wikidata: Q44722
 subclass_of: '[[_Standards/WikiData/WD~lunisolar_calendar,194235]]'
 described_by_source:
-  - '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 influenced_by: '[[_Standards/WikiData/WD~Babylonian_calendar,726847]]'
 topic_has_template: '[[_Standards/WikiData/WD~Template_12_months_of_the_Hebrew_calendar,10513307]]'
 has_part_s_of_the_class: '[[_Standards/WikiData/WD~month_of_the_Hebrew_calendar,18602451]]'
@@ -19,8 +105,110 @@ has_use: '[[_Standards/WikiData/WD~timing,21013308]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/JudischerKalender-1831%20ubt.jpeg
 Commons_gallery: Hebrew calendar
 Commons_category: Hebrew calendar
+dv_has_:
+  name_:
+    af: Joodse kalender
+    ar: تقويم عبري
+    arz: الاشهر العبريه
+    ast: Calendariu hebréu
+    az: Yəhudi təqvimi
+    azb: عبری تقویمی
+    ba: Йәһүд календары
+    be: Яўрэйскі каляндар
+    be-tarask: гэбрайскі каляндар
+    bg: Еврейски календар
+    bn: হিব্রু বর্ষপঞ্জী
+    br: Deiziadur hebraek
+    bs: Hebrejski kalendar
+    bxr: Еврейн литэ
+    ca: calendari hebreu
+    ceb: Kalendaryong Ebreo
+    ckb: ڕۆژژمێری عیبری
+    cs: židovský kalendář
+    cy: Calendr Hebreaidd
+    da: Den jødiske kalender
+    de: Jüdischer Kalender
+    diq: Teqwimo İbranki
+    el: Εβραϊκό ημερολόγιο
+    en: Hebrew calendar
+    en-ca: Hebrew calendar
+    en-gb: Hebrew calendar
+    eo: hebrea kalendaro
+    es: calendario hebreo
+    et: Juudi kalender
+    eu: Hebrear egutegia
+    fa: گاهشماری عبری
+    fi: Juutalainen kalenteri
+    fr: calendrier hébraïque
+    frr: Hebreewsk kalender
+    fur: Calendari ebraic
+    fy: Hebrieuske kalinder
+    gl: calendario hebreo
+    gsw: Jüdischer Kalender
+    he: הלוח העברי
+    hi: हिब्रू कैलेंडर
+    hr: Hebrejski kalendar
+    ht: Kalandriye ebrayik
+    hu: zsidó naptár
+    hy: Հրեական տոմար
+    ia: Calendario hebree
+    id: Kalender Ibrani
+    io: Judala kalendario
+    is: Hebreska almanakið
+    it: calendario ebraico
+    ja: ユダヤ暦
+    jv: Kalèndher Ibrani
+    ka: ებრაული კალენდარი
+    kab: taswast tahibṛut
+    kk: Еврей күнтізбесі
+    km: ប្រតិទិនហេព្រើរ
+    kn: ಯಹೂದೀ ಪಂಚಾಂಗ
+    ko: 히브리력
+    la: Calendarium Hebraicum
+    lad: Kalendario ebreo
+    lij: Calendäio ebraico
+    lo: ປະຕິທິນຢິວ
+    lt: Hebrajų kalendorius
+    lv: Ebreju kalendārs
+    mg: Tetiandro hebreo
+    mk: еврејски календар
+    ms: Takwim Ibrani
+    nan: Hi-pek-lâi-le̍k
+    nb: Det jødiske året
+    nl: joodse kalender
+    nn: Det jødiske året
+    oc: calendièr ebrieu
+    pl: kalendarz żydowski
+    pnb: عبرانی کیلنڈر
+    pt: calendário judaico
+    pt-br: Calendário judaico
+    ro: calendarul ebraic
+    ru: еврейский календарь
+    sh: Hebrejski kalendar
+    si: හෙබ්රෙව් දින දසුන
+    sk: Hebrejský kalendár
+    sl: hebrejski koledar
+    sr: Јеврејски календар
+    sr-ec: Јеврејски календар
+    su: Kalénder Yahudi
+    sv: Judiska kalendern
+    sw: Kalenda ya Kiyahudi
+    szl: Żydowski kalyndorz
+    ta: எபிரேய நாட்காட்டி
+    th: ปฏิทินฮีบรู
+    tl: Kalendaryong Ebreo
+    tr: İbrani takvimi
+    uk: єврейський календар
+    ur: عبرانی کیلنڈر
+    vi: Lịch Do Thái
+    war: Kalendaryo Hebreo
+    wuu: 希伯来历
+    xmf: ურიული კალენდარი
+    yi: יידישער לוח
+    yue: 猶太曆
+    zh: 希伯來曆
+    zh-tw: 希伯來曆
 ---
-
 # [[Hebrew_Calendar]] 
 
 #is_/same_as :: [[WD~Hebrew_calendar,44722]] 
